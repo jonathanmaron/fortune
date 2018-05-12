@@ -2,103 +2,103 @@
 
 return [
     [
-        'Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.',
+        'People just hate the idea of losing. Any loss, even a small one, is just so terrible to contemplate that they compensate by buying insurance, including totally absurd policies like air travel.',
+        'Daniel Kahneman',
+    ],
+    [
+        'Reality is merely an illusion, albeit a very persistent one.',
+        'Albert Einstein',
+    ],
+    [
+        'Being a mother and grandmother is the best of the best in my life. My grandchildren multiply the joy my daughters bring me.',
+        'Alexandra Stoddard',
+    ],
+    [
+        'There are people who travel because they want to push themselves to physical limits, people who walk across deserts or cycle across the Antarctic - like Ranulph Fiennes, who just does it because it\'s there. And then there are people like me, who are just genuinely curious about the world.',
+        'Michael Palin',
+    ],
+    [
+        'How sweet it is!',
+        'Harry Houdini',
+    ],
+    [
+        'Each moment of a happy lover\'s hour is worth an age of dull and common life.',
+        'Beverly Sills',
+    ],
+    [
+        'Most women are dissatisfied with their appearance - it\'s the stuff that fuels the beauty and fashion industries.',
+        'Annie Lennox',
+    ],
+    [
+        'A friend may well be reckoned the masterpiece of nature.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'My attitude on skis is different now. I have learned to put less pressure on myself and on the edges of my skis when I\'m racing, to be keep myself more under control.',
+        'Hermann Maier',
+    ],
+    [
+        'He who knows himself is enlightened.',
         'Lao Tzu',
     ],
     [
-        'When times are tough and people are frustrated and angry and hurting and uncertain, the politics of constant conflict may be good, but what is good politics does not necessarily work in the real world. What works in the real world is cooperation.',
-        'William J. Clinton',
+        'The same people who smile in my face would be the same ones to talk behind my back.',
+        'Timbaland',
     ],
     [
-        'I was the class podiatrist. I never made it to class clown. I wasn\'t funny enough. I would examine feet and prescribe and ointment. It was a sad childhood.',
-        'Gilbert Gottfried',
+        'This celebration here tells me that this work is not hopeless. I thank you for this teaching with all my heart and lift my glass to human solidarity, to the ultimate victory of knowledge, peace, good-will and understanding.',
+        'Albert Szent-Gyorgyi',
     ],
     [
-        'There are two means of refuge from the miseries of life: music and cats.',
-        'Daniel H. Pink',
+        'You have to be positive, and I\'m not just talking about athletics, this also applies to life.',
+        'Sheryl Swoopes',
     ],
     [
-        'A rejection is nothing more than a necessary step in the pursuit of success.',
-        'Bo Bennett',
+        'Do the right thing. It will gratify some people and astonish the rest',
+        'Mark Twain',
     ],
     [
         'We now occupy the proud attitude of a sovereign and independent Republic, which will impose upon us the obligation of evincing to the world that we are worthy to be free. This will only be accomplished by wise legislation, the maintenance of our integrity, and the faithful and just redemption of our plighted faith wherever it has been pledged.',
         'Sam Houston',
     ],
     [
-        'I love to travel, but sometimes it\'s nice to stay in one place.',
-        'Gustavo Dudamel',
+        'I hope my desire to travel so much isn\'t forever because it\'s not the most conducive lifestyle for a relationship or a family by any means.',
+        'Lisa Ling',
     ],
     [
-        'I would like to say to people, open your eyes and find beauty where you normally don\'t expect it.',
-        'Jean Paul Gaultier',
+        'I never expected any sort of success with \'Mockingbird\'... I sort of hoped someone would like it enough to give me encouragement.',
+        'Harper Lee',
     ],
     [
-        'Life is too short to be living somebody else\'s dream.',
-        'Henry Rollins',
+        'The best compliment that has ever been given to me was, I was at the airport one day and a guy came in and said, \'Lionel, my wife loves you, the kids love you, my mother-in-law loves you, the family loves you.\'',
+        'Lionel Richie',
     ],
     [
-        'You know, the period of World War I and the Roaring Twenties were really just about the same as today. You worked, and you made a living if you could, and you tired to make the best of things. For an actor or a dancer, it was no different then than today. It was a struggle.',
-        'James Cagney',
+        'Being made to feel like an irrelevant child was probably an asset. Benign negligence is not a bad parental attitude or at least a cross between a benevolent dictator and benign negligence - you should just let kids crack on with it.',
+        'Clare Balding',
     ],
     [
-        'First, I want to pay tribute to Diana myself. She was an exceptional and gifted human being. In good times and bad, she never lost her capacity to smile and laugh, nor to inspire others with her warmth and kindness. I admired and respected her - for her energy and commitment to others, and especially for her devotion to her two boys.',
-        'Queen Elizabeth II',
+        'Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.',
+        'Sri Chinmoy',
     ],
     [
-        'Once you decide to work for yourself, you never go back to work for somebody else.',
-        'Alan Sugar',
+        'Cosmetics makers have always sold \'hope in a jar\' - creams and potions that promise youth, beauty, sex appeal, and even love for the women who use them.',
+        'Virginia Postrel',
     ],
     [
-        'Real success is not on the stage, but off the stage as a human being, and how you get along with your fellow man.',
-        'Sammy Davis, Jr.',
+        'I\'ve always had a very positive relationship with the municipal labor unions - a respectful relationship.',
+        'Bill de Blasio',
     ],
     [
-        'I am traveling less in order to be able to write more. I select my travel destinations according to their degree of usefulness to my work.',
-        'Jose Saramago',
+        'I\'m so not stylish by nature, but I\'ve learned to work with what I have.',
+        'Julie Bowen',
     ],
     [
-        'In the middle of every difficulty lies opportunity.',
-        'Albert Einstein',
+        'A positive attitude can really make dreams come true - it did for me.',
+        'David Bailey',
     ],
     [
-        'A man of ability and the desire to accomplish something can do anything.',
-        'Donald Kircher',
-    ],
-    [
-        'It\'s true hard work never killed anybody, but I figure, why take the chance?',
-        'Ronald Reagan',
-    ],
-    [
-        'Maybe there is no actual place called hell. Maybe hell is just having to listen to our grandparents breathe through their noses when they\'re eating sandwiches.',
-        'Jim Carrey',
-    ],
-    [
-        'Whoever is happy will make others happy too.',
-        'Anne Frank',
-    ],
-    [
-        'Nobody can do everything, but everybody can do something.',
-        '',
-    ],
-    [
-        'I always have a positive reaction to Times Square - you\'ve got so many people passing through here, so many cultures, and so many people merging into the central community of New York City. This is the hub of America.',
-        'Dhani Jones',
-    ],
-    [
-        'If you\'re public speaking, imagine yourself feeling confident; if you\'re nervous about a date and thinking, \'I\'m gonna be a dork,\' picture yourself being funny. Then it will be familiar to your brain.',
-        'Lindsey Stirling',
-    ],
-    [
-        'The extreme sophistication of modern technology - wonderful though its benefits are - is, ironically, an impediment to engaging young people with basics: with learning how things work.',
-        'Martin Rees',
-    ],
-    [
-        'When deeds speak, words are nothing.',
-        'Pierre-Joseph Proudhon',
-    ],
-    [
-        'If you wish to be a writer, write.',
-        'Epictetus',
+        'Your talent is God\'s gift to you. What you do with it is your gift back to God.',
+        'Leo Buscaglia',
     ],
 ];

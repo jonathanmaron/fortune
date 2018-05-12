@@ -2,103 +2,103 @@
 
 return [
     [
-        'Be first and be lonely.',
-        'Ginni Rometty',
+        'My husband and I always have fun together in everything we do. Some people call me crazy, but the reality is that I enjoy spending each second with him. He is not just my husband - he is my rock and my very best friend!',
+        'Joyce Giraud',
     ],
     [
-        'We didn\'t ever want \'Tarzan\' to feel like he was just a man. We didn\'t want him to stand up straight or wave good-bye. We wanted to make sure he always had that piece of gorilla in him, that he always had an animal attitude about him.',
-        'Kevin Lima',
+        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
+        'Kurt Cobain',
     ],
     [
-        '\'Green Garden\' is about beauty and joy and lush green and dance and excitement and smiling from within.',
-        'Laura Mvula',
+        'The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.',
+        'Richard Bach',
     ],
     [
-        'I\'m a positive person, and I try to look at the good side of everything.',
-        'Leona Lewis',
+        'Neither man nor woman is perfect or complete without the other. Thus, no marriage or family, no ward or stake is likely to reach its full potential until husbands and wives, mothers and fathers, men and women work together in unity of purpose, respecting and relying upon each other\'s strengths.',
+        'Sheri L. Dew',
     ],
     [
-        'Good leaders need a positive agenda, not just an agenda of dealing with crisis.',
-        'Michael Porter',
+        'The reason most people never reach their goals is that they don\'t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.',
+        'Denis Waitley',
     ],
     [
-        'Always think of what is useful and not what is beautiful. Beauty will come of its own accord.',
-        'Nikolai Gogol',
+        'One of the best things about paintings is their silence - which prompts reflection and random reverie.',
+        'Mark Stevens',
     ],
     [
-        'So it allows me to travel, I\'ll be doing that and running these great rivers and doing what I\'ve done in the past without much purpose other than for the experience.',
-        'Richard Dean Anderson',
+        'It\'s a funny thing about life; if you refuse to accept anything but the best, you very often get it.',
+        'W. Somerset Maugham',
     ],
     [
-        'There\'s been so many different types of musicals, and it\'s a funny genre because there\'s a fine line between clever and stupid. It really takes a genius to know how to do it.',
-        'Melissa Etheridge',
+        'The most difficult is the first family, to bring someone out of the world.',
+        'Richard G. Scott',
     ],
     [
-        'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.',
-        'Mother Teresa',
+        'When you\'re walking at the airport, you\'re expected to smile at people because they know you... I find that tough. I\'m only trying to protect myself. So I don\'t take my eyes off the floor. People can take that as attitude. But it\'s actually shyness. Yes, it is a bad habit. But it\'s a defense mechanism.',
+        'Katrina Kaif',
     ],
     [
-        'I grew up in a time when women didn\'t really do comedy. You had to be homely, overweight, an old maid, all that. You had to play a stereotype, because very attractive women were not supposed to be funny - because it\'s powerful; it\'s a threat.',
-        'Lily Tomlin',
+        'How did it get so late so soon? Its night before its afternoon. December is here before its June. My goodness how the time has flewn. How did it get so late so soon?',
+        'Dr. Seuss',
     ],
     [
-        'The things that make me angry still make me angry. George Carlin is 67, and he\'s still as funny as he\'s ever been, and he\'s still angry. And that makes me feel good, because I feel like if I stick around long enough, I\'ll still be able to work.',
-        'Denis Leary',
+        'And beauty immortal awakes from the tomb.',
+        'James Beattie',
     ],
     [
-        'Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers.',
-        'Jose Luis Borges',
+        'Success follows those adept at preserving the substance of the past by clothing it in the forms of the future.',
+        'Dee Hock',
     ],
     [
-        'I play video games a lot... I love to read... I enjoy spending time with my husband and daughter, who are my most favorite people in the world.',
-        'Lea Salonga',
+        'Do not wait; the time will never be \'just right.\' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.',
+        'George Herbert',
     ],
     [
-        'I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.',
+        'Purpose and laughter are the twins that must not separate. Each is empty without the other.',
+        'Robert Greenleaf',
+    ],
+    [
+        'I\'m always thinking about creating. My future starts when I wake up every morning... Every day I find something creative to do with my life.',
+        'Dong Dong',
+    ],
+    [
+        'I am a happy person and I choose to be a positive person. I think some people think my life has been tragic and there have been these horrible dramas but things really have been, and are, fine.',
+        'Patsy Kensit',
+    ],
+    [
+        'I think I\'ve always had a certain amount of skepticism of this whole \'shut up and smile\' theory. I haven\'t ever swallowed that pill so easily, although I tried.',
+        'Amber Heard',
+    ],
+    [
+        'An American orchestra doesn\'t want to play more than it has to. I respectfully disagree with that attitude.',
+        'Zubin Mehta',
+    ],
+    [
+        'Your purpose is to make your audience see what you saw, hear what you heard, feel what you felt. Relevant detail, couched in concrete, colorful language, is the best way to recreate the incident as it happened and to picture it for the audience.',
+        'Dale Carnegie',
+    ],
+    [
+        'Anybody can make history. Only a great man can write it.',
+        'Oscar Wilde',
+    ],
+    [
+        'Not everything in old age is grim. I haven\'t walked through an airport for years, and wheelchairs are the way to travel.',
+        'Donald Hall',
+    ],
+    [
+        'Joy\'s smile is much closer to tears than laughter.',
+        'Victor Hugo',
+    ],
+    [
+        'To such an extent does nature delight and abound in variety that among her trees there is not one plant to be found which is exactly like another; and not only among the plants, but among the boughs, the leaves and the fruits, you will not find one which is exactly similar to another.',
         'Leonardo da Vinci',
     ],
     [
-        'My family moved from California to New Jersey in the beginning of my sophomore year of high school. I will never forget the first day in a new school, walking into the cafeteria during lunch and not knowing a single soul. I didn\'t feel confident enough to share a seat at just anyone\'s table.',
-        'Camille Guaty',
+        'I don\'t love Photoshop; I like imperfection. It doesn\'t mean ugly. I love a girl with a gap between her teeth, versus perfect white veneers. Perfection is just... boring. Perfect is what\'s natural or real; that is beauty.',
+        'Marc Jacobs',
     ],
     [
-        'The best thing about getting a flu shot is that you never again need to wash your hands. That\'s how I see it.',
-        'Chuck Palahniuk',
-    ],
-    [
-        'Good leadership consists of showing average people how to do the work of superior people.',
-        'John D. Rockefeller',
-    ],
-    [
-        'People are basically the same the world over. Everybody wants the same things - to be happy, to be healthy, to be at least reasonably prosperous, and to be secure. They want friends, peace of mind, good family relationships, and hope that tomorrow is going to be even better than today.',
-        'Zig Ziglar',
-    ],
-    [
-        'People need to be made more aware of the need to work at learning how to live because life is so quick and sometimes it goes away too quickly.',
-        'Andy Warhol',
-    ],
-    [
-        'Nearly all inventions are not recognised for their positive side either when they\'re made. So, for example, scientists didn\'t go out to design a CD machine: they designed a laser. But we got all sorts of things from a laser which we never remotely imagined, and we\'re still finding things for a laser to do.',
-        'Robert Winston',
-    ],
-    [
-        'Prison service vans that travel 90 miles to take a prisoner 90 yards; paedophiles free to leer at children in the very parks where they have committed horrific crimes.',
-        'Trevor Phillips',
-    ],
-    [
-        'To succeed in life, you need three things: a wishbone, a backbone and a funny bone.',
-        'Lao Tzu',
-    ],
-    [
-        'The only reason for time is so that everything doesn\'t happen at once.',
-        'Albert Einstein',
-    ],
-    [
-        'A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man.',
-        'Lana Turner',
-    ],
-    [
-        'Any revolutionary change must be preceded by a passive, affirmative, non-challenging attitude toward change among the mass of our people. They must feel so frustrated, so defeated, so lost, so futureless in the prevailing system that they are willing to let go of the past and chance the future.',
-        'Saul Alinsky',
+        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
+        'Fritz Scholder',
     ],
 ];

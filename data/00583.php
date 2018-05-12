@@ -2,83 +2,83 @@
 
 return [
     [
-        'If one way be better than another, that you may be sure is nature\'s way.',
-        'Aristotle',
+        'I respect everybody, but at the same time, I carry myself with an aura that demands respect, too.',
+        'Lil\' Kim',
     ],
     [
-        'We cannot direct the wind but we can adjust the sails.',
-        '',
+        'Consciously or not, we are all on a quest for answers, trying to learn the lessons of life. We grapple with fear and guilt. We search for meaning, love, and power. We try to understand fear, loss, and time. We seek to discover who we are and how we can become truly happy.',
+        'Elisabeth Kubler-Ross',
     ],
     [
-        'The greenest home is the one you don\'t build. If you really want to save the Earth, move in with another family and share a house that\'s already built. Better yet, live in the forest and eat whatever the squirrels don\'t want.',
-        'Scott Adams',
-    ],
-    [
-        'As many of you know I travel a good bit and do not get to see my friends and family as much as I would like.',
-        'Natalie Gulbis',
-    ],
-    [
-        'I saw old Autumn in the misty morn stand shadowless like silence, listening to silence.',
-        'Thomas Hood',
-    ],
-    [
-        'I can\'t travel without Sudoku.',
-        'Robert Ballard',
-    ],
-    [
-        'In truth, the world is now a seamless web from which no nation, large or small, young or old, can disassociate itself. Every attitude and every action of every nation can affect the welfare and security of every other nation around the globe.',
+        'Few will have the greatness to bend history itself; but each of us can work to change a small portion of events, and in the total; of all those acts will be written the history of this generation.',
         'Robert Kennedy',
     ],
     [
-        'There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.',
-        'Linda Hogan',
+        'I don\'t think anybody\'s goal is to be mediocre. I think everybody should want to be the best. I\'ve always felt that way. I want to be at the best at everything I do.',
+        'Justin Verlander',
     ],
     [
-        'You have to make it happen.',
-        'Denis Diderot',
+        'I think it\'s very important to have a feedback loop, where you\'re constantly thinking about what you\'ve done and how you could be doing it better. I think that\'s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.',
+        'Elon Musk',
     ],
     [
-        'Reality is wrong. Dreams are for real.',
-        'Tupac Shakur',
+        'The counterfeit and counterpart of Nature is reproduced in art.',
+        'Henry Wadsworth Longfellow',
     ],
     [
-        'No eyes that have seen beauty ever lose their sight.',
-        'Jean Toomer',
+        '\'Funny People\' is my favorite performance of myself to date. Even though it\'s a comedy and there are serious moments, I really felt like Leo felt like a real person. It didn\'t feel like I was playing myself. Whether it\'s a comedy or drama, I just try to make it as realistic as possible.',
+        'Jonah Hill',
     ],
     [
-        'We find delight in the beauty and happiness of children that makes the heart too big for the body.',
-        'Ralph Waldo Emerson',
+        'The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.',
+        'Cecil B. DeMille',
     ],
     [
-        'If you take the contempt some Americans have for yuppies and multiply it by 10 you might come close to understanding their attitude towards the City, as they call it - London, the people of the south.',
-        'Martin Cruz Smith',
+        'Our Founding Fathers drafted the Bill of Rights to ensure that We the People could determine how best to protect our communities.',
+        'Mike Quigley',
     ],
     [
-        'The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.',
-        'Thomas A. Edison',
+        'I am the Way, the Truth, and the Life. No one comes to the Father except through me.',
+        'Sophocles',
     ],
     [
-        'There is nothing funny about Halloween. This sarcastic festival reflects, rather, an infernal demand for revenge by children on the adult world.',
-        'Jean Baudrillard',
+        'The biggest thing we get out of it is seeing the kids smile. And hopefully we will also see that the lessons we\'re teaching - not only the fundamentals of hockey, but also the life values - are sinking in.',
+        'Bobby Orr',
     ],
     [
-        'Sooner or later, those who win are those who think they can.',
-        'Richard Bach',
+        'I may not know everything, but everything is not known yet anyway.',
+        'Byron Pulsifer',
     ],
     [
-        'I told my father to stop smoking around the age of two or three years old and he stopped smoking. So the relationship between the kid and the parent is very powerful, and if you give the kid the right information, it can be very useful to the family.',
-        'Doug E. Fresh',
+        'Sometimes, reading my own media, the negativity can upset me, but I just deal with things on a positive basis. I mean, I have up to 20,000 people singing my words back to me on a nightly basis - they share my hopes and fears, and they relate to my own life experiences. Life can be pretty isolating, but that connection is always amazing.',
+        'James Blunt',
     ],
     [
-        'In general, for me, a big thing in my life has been just sort of learning what true self-esteem is and what true positive self-image is. And being a dancer, and growing up in that world, you\'re so focused on yourself, and you\'re so focused on achieving goals, on finding perfection, and working on your craft.',
-        'Jenna Dewan',
+        'My childhood dream was to study mechanical engineering. After reading \'The Mysterious Island\' - which I read 25 times as a boy - I thought that was the best thing a person could do. The engineer in the book knows mechanics and physics, and he creates a whole way of life on the island out of nothing. I wanted to be like that.',
+        'Dan Shechtman',
     ],
     [
-        'I\'ve been very lucky to have achieved a lot of the things that I dreamt of achieving as a young man. But, at the end of the day - and I truly believe this - it is not about achieving great wealth or success. Because they don\'t bring happiness, ultimately.',
-        'Leonardo DiCaprio',
+        'Perfectionism is not the same thing as striving to be our best. Perfectionism is not about healthy achievement and growth; it\'s a shield.',
+        'Brene Brown',
     ],
     [
-        'Ten years ago, I still feared loss enough to abandon myself in order to keep things stable. I\'d smile when I was sad, pretend to like people who appalled me. What I now know is that losses aren\'t cataclysmic if they teach the heart and soul their natural cycle of breaking and healing.',
-        'Martha Beck',
+        'For myself I hold no preferences among flowers, so long as they are wild, free, spontaneous. Bricks to all greenhouses! Black thumb and cutworm to the potted plant!',
+        'Edward Abbey',
+    ],
+    [
+        'Try to keep your soul always in peace and quiet, always ready for whatever our Lord may wish to work in you. It is certainly a higher virtue of the soul, and a greater grace, to be able to enjoy the Lord in different times and different places than in only one.',
+        'Saint Ignatius',
+    ],
+    [
+        'The most successful people are those who are good at plan B.',
+        'James Yorke',
+    ],
+    [
+        'Aging has a wonderful beauty and we should have respect for that.',
+        'Eartha Kitt',
+    ],
+    [
+        'In separateness lies the world\'s great misery, in compassion lies the world\'s true strength.',
+        'Buddha',
     ],
 ];

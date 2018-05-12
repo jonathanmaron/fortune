@@ -2,103 +2,103 @@
 
 return [
     [
-        'We have a positive vision of the future founded on the belief that the gap between the promise and reality of America can one day be finally closed. We believe that.',
-        'Barbara Jordan',
+        'Maybe all one can do is hope to end up with the right regrets.',
+        'Sonia Sotomayor',
     ],
     [
-        'Punctuality is the virtue of the bored.',
-        'Evelyn Waugh',
+        'Getting married, for me, was the best thing I ever did. I was suddenly beset with an immense sense of release, that we have something more important than our separate selves, and that is the marriage. There\'s immense happiness that can come from working towards that.',
+        'Nick Cave',
     ],
     [
-        'Anything in any way beautiful derives its beauty from itself and asks nothing beyond itself. Praise is no part of it, for nothing is made worse or better by praise.',
-        'Marcus Aurelius',
+        'The only guaranteed way to make something not very funny is to make it vague.',
+        'Thomas Lennon',
     ],
     [
-        'Our deepest wishes are whispers of our authentic selves. We must learn to respect them. We must learn to listen.',
-        'Sarah Breathnach',
+        'Nothing will be beyond our reach when we make the flames of creating positive deeds flare up across the country with the virtues of the young vanguard as the initial spark and bring into full play the mounting vigour of the millions of young people.',
+        'Kim Jong-un',
     ],
     [
-        'I think that generally music should be a positive thing, I like Bob Marley\'s attitude: he said that his goal in life was to single handedly fight all the evil in the world with nothing but music, and when he went to a place he didn\'t go to play, he went to conquer.',
-        'Jon Fishman',
+        'A lion\'s work hours are only when he\'s hungry; once he\'s satisfied, the predator and prey live peacefully together.',
+        'Chuck Jones',
     ],
     [
-        'Far away there in the sunshine are my highest aspirations. I may not reach them, but I can look up and see their beauty, believe in them, and try to follow where they lead.',
-        'Louisa May Alcott',
+        'I love Jesus Christ with all my heart and everything He stands for. I think that sums up everything that I want for my life, everything I want for my family, everything I want for my career. I want it to be entertaining. I want people to smile and tap their toes, but I want it to be meaningful when the day is done.',
+        'Josh Turner',
     ],
     [
-        'The thing I love about being an actor is the ability to travel and experience new cultures.',
-        'Paul Wesley',
+        'I make these little films. I\'m just a working person. I just study people a little bit more. It\'s more sociological, and it\'s funny anyway - not that serious. It\'s not like false humility. I just take it for what it is.',
+        'Julie Delpy',
     ],
     [
-        'I would rather start a family than finish one.',
-        'Don Marquis',
-    ],
-    [
-        'I think my family needs me more than anybody else, and tennis doesn\'t need me anymore. I respect my wife a lot for taking all that in. She said, \'I didn\'t marry a tennis player; you\'d retired.\' Now it\'s time to do something else.',
-        'Thomas Muster',
-    ],
-    [
-        'Just like hair frames our face, brows frame our eyes. I see so much potential in harmonized beauty whenever I see a woman who\'s not filling in her brows, and I just want to go in with my brow pencil and just be like, \'Filling in eyebrows, OK, done - look in the mirror and be inspired.\' That\'s one of my pet peeves, but beauty is subjective.',
-        'Michelle Phan',
-    ],
-    [
-        'Truth isn\'t all about what actually happens but more about how what has happened is interpreted.',
+        'Fate is in your hands and no one elses',
         'Byron Pulsifer',
     ],
     [
-        'The attitude of, \'I will never self-publish,\' coming from any author, indicates that they have never been in a position where it is their only option.',
-        'Jennifer Armintrout',
+        'There are a lot of funny things that happen in one\'s life.',
+        'Pierce Brosnan',
     ],
     [
-        'The quality of your life is determined by the quality of your relationships. The quality of your business is no different.',
-        'Kareena Kapoor Khan',
+        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
+        'Evgeny Morozov',
     ],
     [
-        'She gave me a smile I could feel in my hip pocket.',
-        'Raymond Chandler',
+        'I\'m one of five sisters. I\'m the younger of twins, and we\'re the youngest of five girls, and we\'ve always been very close. We were pretty much a gang. I take after my mother a lot in terms of personality and character. She was very positive; always looked on the bright side of things. She had a tough time of it with my dad but did her best.',
+        'Jerry Hall',
     ],
     [
-        'The Internet has done nothing but good for comedy all around. Comedians no longer have to rely on TV execs and club owners deciding if they are funny or not.',
-        'Doug Stanhope',
+        'My definition of an intellectual is someone who can listen to the William Tell Overture without thinking of the Lone Ranger.',
+        'Billy Connolly',
     ],
     [
-        'When everything happens to you when you\'re so young, you\'re very lucky, but by the same token, you\'re never going to have that same feeling again. The first time anything happens to you - your first love, your first success - the second one is never the same.',
-        'Lauren Bacall',
+        'That\'s the beauty of the Internet is that we\'re no longer tied to our communities by physical connections.',
+        'Edward Snowden',
     ],
     [
-        'I travel regularly and have learnt to be very methodical as far as packing is concerned. For example, I always check the weather in advance of where I\'m going to ensure that I\'ve packed the right clothes.',
-        'Paloma Faith',
+        'It will be disastrous when a leader or manager shows up with one attitude one day and treats people with a different attitude the next day.',
+        'Zig Ziglar',
     ],
     [
-        'It is good to dream big but your dreams will never see the light of day if you sleep big too.',
-        'Anonymous',
+        'O, thou art fairer than the evening air clad in the beauty of a thousand stars.',
+        'Christopher Marlowe',
     ],
     [
-        'It\'s sort of a mental attitude about critical thinking and curiosity. It\'s about mindset of looking at the world in a playful and curious and creative way.',
-        'Adam Savage',
+        'A body smiles, like, 72 times a day. Where does that smile go? That\'s what I want to know.',
+        'Goldie Hawn',
     ],
     [
-        'If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.',
-        'Thomas J. Watson',
+        'Clearly older women and especially older women who have led an active life or elder women who successfully maneuver through their own family life have so much to teach us about sharing, patience, and wisdom.',
+        'Alice Walker',
     ],
     [
-        'I travel all over the country making speeches for people I believe in.',
-        'Ann Richards',
+        'The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.',
+        'Sylvia Earle',
     ],
     [
-        'I learned the value of hard work by working hard.',
-        'Margaret Mead',
+        'Only solitary men know the full joys of friendship. Others have their family; but to a solitary and an exile, his friends are everything.',
+        'Willa Cather',
     ],
     [
-        'The average family spends 30 hours in front of a television, and they say they don\'t have the time to have a balanced, integrated life.',
-        'Stephen Covey',
+        'Make people have a smile when they finish your e-mail.',
+        'Letitia Baldrige',
     ],
     [
-        'Who makes quick use of the moment is a genius of prudence.',
-        'Johann Kaspar Lavater',
+        'The best thing to do when you find yourself in a hurting or vulnerable place is to surround yourself with the strongest, finest, most positive people you know.',
+        'Kristin Armstrong',
     ],
     [
-        'Giving up doesn\'t always mean you are weak. Sometimes it means that you are strong enough to let go.',
-        '',
+        'Surround yourself with the best people you can find, delegate authority, and don\'t interfere as long as the policy you\'ve decided upon is being carried out.',
+        'Ronald Reagan',
+    ],
+    [
+        'If you eat something and get fat, you should be responsible for it. I think that is the attitude of the great majority of Americans, that you should be responsible for what you eat.',
+        'Vic Snyder',
+    ],
+    [
+        'You know, I\'m just a very boring, not very funny person in person. I don\'t feel pressured to be otherwise.',
+        'Lorrie Moore',
+    ],
+    [
+        'There was a great complexity to my father. He was a devoted family man. But, in the same breath, he simply was not suited to an anchored life. He should have been somebody who had a backpack, an old map, a bit of change in his pocket and that was it - roaming the world.',
+        'Christian Bale',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'There is an electric fire in human nature tending to purify - so that among these human creatures there is continually some birth of new heroism. The pity is that we must wonder at it, as we should at finding a pearl in rubbish.',
-        'John Keats',
+        'In inner-city, low-income communities of color, there\'s such a high correlation in terms of educational quality and success.',
+        'Bill Gates',
     ],
     [
-        'There\'s a certain beauty and majesty to Wimbledon. The elegance, the way the grass looks on TV.',
-        'John McEnroe',
+        'I have good and bad days like everyone else. I just try to be positive and surround myself with great people. When I think about all the great things and people I have had in my life, that gives me confidence.',
+        'Jessica White',
     ],
     [
-        'We are all in the gutter, but some of us are looking at the stars.',
-        'Oscar Wilde',
+        'I can take all the negative energy and turn it into a positive simply by purging my soul through music. That\'s how powerful music can be.',
+        'Bow Wow',
     ],
     [
-        'The future belongs to those who believe in the beauty of their dreams.',
+        'I come from a family of well-endowed booty women.',
+        'Estelle',
+    ],
+    [
+        'Nature has never read the Declaration of Independence. It continues to make us unequal.',
+        'Will Durant',
+    ],
+    [
+        'I don\'t know if I believe in marriage. I believe in family, love and children.',
+        'Penelope Cruz',
+    ],
+    [
+        'Be not entangled in this world of days and nights; Thou hast another time and space as well.',
+        'Muhammad Iqbal',
+    ],
+    [
+        'Remember always that you not only have the right to be an individual, you have an obligation to be one.',
         'Eleanor Roosevelt',
     ],
     [
-        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
-        'Jimmy Reid',
+        'I\'m always asked, \'What\'s the secret to success?\' But there are no secrets. Be humble. Be hungry. And always be the hardest worker in the room.',
+        'Dwayne Johnson',
     ],
     [
-        'What the caterpillar calls the end of the world the master calls a butterfly.',
-        'Richard Bach',
+        'People always accuse me of being motivational in a way, like it was a bad thing, but that\'s just how I was raised. My mom raised me in a positive environment, with lots of love in my heart, and that reflects in my music.',
+        'Lenny Kravitz',
     ],
     [
-        'Success is nothing more than a few simple disciplines, practiced every day.',
-        'Jim Rohn',
+        'The moral values, ethical codes and laws that guide our choices in normal times are, if anything, even more important to help us navigate the confusing and disorienting time of a disaster.',
+        'Sheri Fink',
     ],
     [
-        'Form must have a content, and that content must be linked with nature.',
-        'Alvar Aalto',
+        'One doesn\'t soon forget the natural beauty of Washington, although those of us who live here do sometimes take it for granted.',
+        'Katharine Graham',
     ],
     [
-        'If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.',
-        'Calvin Coolidge',
+        'Confront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing.',
+        'August Wilson',
     ],
     [
-        'Self-belief and hard work will always earn you success.',
-        'Virat Kohli',
+        'It is easy for me to love myself, but for ladies to do it is another question altogether.',
+        'Johnny Vegas',
     ],
     [
-        'We assume that we\'ve come so far as compassionate citizens of the world if we do choose to read the news, yet the attitude towards life can be one where we put blinders on and forget that there are civil wars going on. It\'s easy to forget that there are so many people starving to death every single day.',
-        'Anne Hathaway',
+        'What material success does is provide you with the ability to concentrate on other things that really matter. And that is being able to make a difference, not only in your own life, but in other people\'s lives.',
+        'Oprah Winfrey',
     ],
     [
-        'Success is getting what you want. Happiness is liking what you get.',
-        'H. Jackson Brown, Jr.',
+        'It\'s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.',
+        'Jerry Seinfeld',
     ],
     [
-        'Almost every college playwright or sketch or improv comedian was sort of aware of Christopher Durang - even kids in high school. His short plays were so accessible to younger people and I think that was inspirational to me.',
-        'Mindy Kaling',
+        'Death is the mother of Beauty; hence from her, alone, shall come fulfillment to our dreams and our desires.',
+        'Wallace Stevens',
     ],
     [
-        'It\'s hard to be funny when you have to be clean.',
-        'Mae West',
+        'I marketed pens - on the phone. But the beauty of the gig was that you had to call these strangers and say, \'Hi, how ya doing?\' You made up a name, like, \'Hey, it\'s Edward Quartermaine from California. You\'re eligible to receive this grandfather clock or a trip to Tahiti.\' You promise them all these things if they buy a gross of pens.',
+        'Johnny Depp',
     ],
     [
-        'I\'m all about people that appreciate, that are grateful, that smile, that have a sense of humour - the dirtier the laugh, the better- that\'s my kind of vibe... and I hope that\'s the kind of thing that I attract.',
-        'Poppy Delevingne',
+        'Definiteness of purpose is the starting point of all achievement.',
+        'W. Clement Stone',
     ],
     [
-        'It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.',
-        'Lama Yeshe',
+        'A thing long expected takes the form of the unexpected when at last it comes.',
+        'Mark Twain',
     ],
     [
-        'The distance between insanity and genius is measured only by success.',
-        'Bruce Feirstein',
+        'I love to prune my roses. That\'s the one thing I really feel I do pretty well. Other things I usually, because I travel so much, leave to my gardeners who know what I love. But I do love to prune them, because you forget everything else. It\'s like if you\'re a painter, you can forget everything else while you\'re doing it.',
+        'Julie Andrews',
     ],
     [
-        'Nature never breaks her own laws.',
-        'Leonardo da Vinci',
+        'Prosperity depends more on wanting what you have than having what you want.',
+        'Geoffrey F. Abert',
     ],
     [
-        'I\'m living on this positive mind frame where I\'m only attracting positive things. I\'m controlling my energy, I\'m eating right, I\'m meditating, I\'m in the gym, I\'m doing all this stuff I\'m supposed to be doing. I\'m past that young, immature way of thinking. I just want to be great.',
-        'Shameik Moore',
+        'Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.',
+        'Napoleon Hill',
     ],
     [
-        'What I believe unites the people of this nation, regardless of race or region or party, young or old, rich or poor, is the simple, profound belief in opportunity for all - the notion that if you work hard and take responsibility, you can get ahead.',
-        'Barack Obama',
+        'Peace cannot be kept by force. It can only be achieved by understanding.',
+        'Albert Einstein',
     ],
     [
-        'Each success only buys an admission ticket to a more difficult problem.',
-        'Henry Kissinger',
-    ],
-    [
-        'Great minds discuss ideas; average minds discuss events; small minds discuss people.',
-        'Eleanor Roosevelt',
-    ],
-    [
-        'Could I say that the reason that I am here today, you know, from the mouth of the State Department itself, is: I should not be allowed to travel because I have struggled for years for the independence of the colonial peoples of Africa.',
-        'Paul Robeson',
-    ],
-    [
-        'Love is a portion of the soul itself, and it is of the same nature as the celestial breathing of the atmosphere of paradise.',
-        'Victor Hugo',
-    ],
-    [
-        'I truly believe in positive synergy, that your positive mindset gives you a more hopeful outlook, and belief that you can do something great means you will do something great.',
-        'Russell Wilson',
+        'Success is often the result of taking a misstep in the right direction.',
+        'Al Bernstein',
     ],
 ];

@@ -123,9 +123,12 @@ class FortuneImportCommand extends AbstractCommand
                 if (isset($ret[$key])) {
                     continue;
                 }
+                if (empty($author)) {
+                    $author = 'Unknown';
+                }
                 $ret[$key] = [
                     $quote,
-                    $author ?? 'Unknown',
+                    $author,
                     //strlen($quote),
                 ];
             }

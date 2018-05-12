@@ -2,103 +2,103 @@
 
 return [
     [
-        'To travel hopefully is a better thing than to arrive.',
-        'Robert Louis Stevenson',
+        'Sometimes you want to go for a walk and you don\'t want to be watched. You just want to be anonymous and blend in. Especially when I travel, I feel that way, because I can\'t really go out and see a city the way other people can and I miss out on a lot.',
+        'Madonna Ciccone',
     ],
     [
-        'I really do believe that inner beauty is so much more than any kind of outer beauty.',
-        'Rachele Brooke Smith',
+        'Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.',
+        'Washington Irving',
     ],
     [
-        'Nobody ever went broke underestimating the taste of the American public.',
-        'H. L. Mencken',
+        'One of the very best reasons for having children is to be reminded of the incomparable joys of a snow day.',
+        'Susan Orlean',
     ],
     [
-        'I think the philosophy that you have to have if you travel frequently is, stuff is just stuff. Even if it has some sentimental or family connection, if you lose it in the world, it\'s still just a thing, and I think if you don\'t have that attitude, you will get incredibly stressed out and not enjoy your travels.',
-        'Leila Janah',
+        'The biggest ingredient in a best friend is someone whose actions you respect and who you can truly be yourself around.',
+        'Renee Olstead',
     ],
     [
-        'Browsing our local farmer\'s market is one of my family\'s favorite weekend activities. Make it a relaxing, healthful habit for your family, and you\'ll reap the nutritional rewards.',
-        'Suzanne Somers',
+        'The best thing I did was to choose the right heroes.',
+        'Warren Buffett',
     ],
     [
-        'Sacred joy exists in any suffering.',
-        'Lailah Gift Akita',
+        'We should bring in an environmental attitude, and I think luxury should automatically be about sustainability and quality.',
+        'Jochen Zeitz',
     ],
     [
-        'Write your plans in pencil and give God the eraser.',
-        'Paulo Coelho',
+        'There is only one success, to be able to spend your life in your own way.',
+        'Christopher Morley',
     ],
     [
-        'Selling wine is all about sizing people up, and it takes a certain amount of chutzpah. The tableside bottle sell is a very funny thing - you take a look at the guy\'s blazer, what kind of shoes he\'s wearing, what kind of broad he\'s with. Is he trying to be a hero?',
-        'Joe Bastianich',
+        'What you want in a mentor is someone who truly cares for you and who will look after your interests and not just their own. When you do come across the right person to mentor you, start by showing them that the time they spend with you is worthwhile.',
+        'Vivek Wadhwa',
     ],
     [
-        'Fidelity, Bravery, and Integrity set the expectations for behavior; they set a standard for our work. More than just a motto, for the men and women of the FBI, Fidelity, Bravery, and Integrity is a way of life.',
-        'Robert Mueller',
-    ],
-    [
-        'A day spent without the sight or sound of beauty, the contemplation of mystery, or the search of truth or perfection is a poverty-stricken day; and a succession of such days is fatal to human life.',
-        'Lewis Mumford',
-    ],
-    [
-        'When you\'re walking at the airport, you\'re expected to smile at people because they know you... I find that tough. I\'m only trying to protect myself. So I don\'t take my eyes off the floor. People can take that as attitude. But it\'s actually shyness. Yes, it is a bad habit. But it\'s a defense mechanism.',
-        'Katrina Kaif',
-    ],
-    [
-        'Do more of what makes you happy.',
-        'Carmel McConnell',
-    ],
-    [
-        'Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.',
-        'Robert Graves',
-    ],
-    [
-        'I would rather die a meaningful death than to live a meaningless life.',
-        'John Burroughs',
-    ],
-    [
-        'A mediocre idea that generates enthusiasm will go further than a great idea that inspires no one.',
-        'Mary Kay Ash',
-    ],
-    [
-        'The more often we see the things around us - even the beautiful and wonderful things - the more they become invisible to us. That is why we often take for granted the beauty of this world: the flowers, the trees, the birds, the clouds - even those we love. Because we see things so often, we see them less and less.',
-        'Joseph B. Wirthlin',
-    ],
-    [
-        'I come from a great family. I\'ve seen family life and I know how wonderful, how nurturing, and how wonderful it can be.',
-        'Sidney Poitier',
-    ],
-    [
-        'If you can visualize the whole of spring and see Paradise with the eye of belief, you may understand the utter majesty of everlasting Beauty. If you respond to that Beauty with the beauty of belief and worship, you will be a most beautiful creature.',
-        'Said Nursi',
-    ],
-    [
-        'No man is a failure who is enjoying life.',
-        'Musiq Soulchild',
-    ],
-    [
-        'I think I\'m one of the most fortunate people in the world. I travel around looking for the best waves and appreciate it every second.',
-        'Rob Machado',
-    ],
-    [
-        'The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.',
-        'Marcel Proust',
-    ],
-    [
-        'Even with all our technology and the inventions that make modern life so much easier than it once was, it takes just one big natural disaster to wipe all that away and remind us that, here on Earth, we\'re still at the mercy of nature.',
-        'Neil deGrasse Tyson',
-    ],
-    [
-        'Unlike some of the time-travel movies I love, like \'Primer\' or \'12 Monkeys,\' \'Looper\' is not about time travel. It\'s about this situation that time travel creates and the people dealing with that situation. So narratively, the big challenge was to have time travel get out of the way.',
-        'Rian Johnson',
-    ],
-    [
-        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
+        'Success is steady progress toward one\'s personal goals.',
         'Jim Rohn',
     ],
     [
-        'Congress must take responsibility for a new positive direction - an innovative agenda that will lead to a more secure America. Secure communities, secure economies, and a secure quality of life.',
-        'Rick Larsen',
+        'The life of the dead is placed in the memory of the living.',
+        'Confucius',
+    ],
+    [
+        '\'Perfect\' is about a set-up that looks perfect from the outside - beautiful country house, beautiful wife and mother, everything where it should be - and the deep fissures that, in fact, lie beneath that. \'Perfect\' was partly a response to the shock of my first book, \'The Unlikely Pilgrimage Of Harold Fry,\' being a success.',
+        'Rachel Joyce',
+    ],
+    [
+        'The best luck of all is the luck you make for yourself.',
+        'Douglas MacArthur',
+    ],
+    [
+        'Keep in mind that neither success nor failure is ever final.',
+        'Roger Babson',
+    ],
+    [
+        'Money brings you security and choice. You can make decisions in a different way if you have a lot of money. But when you have nothing, you have a naivety, and a more fearless attitude because you have nothing to lose.',
+        'Simon Cowell',
+    ],
+    [
+        'The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.',
+        'Dalai Lama',
+    ],
+    [
+        'It\'s not who you are that holds you back, it\'s who you think you\'re not.',
+        'Unknown',
+    ],
+    [
+        'Do not let a flattering woman coax and wheedle you and deceive you; she is after your barn.',
+        'Hesiod',
+    ],
+    [
+        'There is no gardening without humility. Nature is constantly sending even its oldest scholars to the bottom of the class for some egregious blunder.',
+        'Alfred Austin',
+    ],
+    [
+        'Trouble is only opportunity in work clothes.',
+        'Henry J. Kaiser',
+    ],
+    [
+        'This is the great reward of service, to live, far out and on, in the life of others; this is the mystery of Christ, - to give life\'s best for such high sake that it shall be found again unto life eternal.',
+        'Joshua Chamberlain',
+    ],
+    [
+        'No one can travel your own road for you; you must travel it for yourself. My faith in this stems from my childhood. I grew up in a family with a system of religious beliefs handed down to me.',
+        'Amy Tan',
+    ],
+    [
+        'People shouldn\'t look at me and think life is one big piece of glamour. That\'s the marketing, the spin. Life is challenging. But I have courage, strength, and enough good health to see the positive.',
+        'Carmen Dell\'Orefice',
+    ],
+    [
+        'When you are balanced and when you listen and attend to the needs of your body, mind, and spirit, your natural beauty comes out.',
+        'Christy Turlington',
+    ],
+    [
+        'If we did the things we are capable of, we would astound ourselves.',
+        'Thomas Edison',
+    ],
+    [
+        'A true friend is one who overlooks your failures and tolerates your success!',
+        'Doug Larson',
     ],
 ];

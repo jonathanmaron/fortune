@@ -2,103 +2,103 @@
 
 return [
     [
-        'Instead of hating, I have chosen to forgive and spend all of my positive energy on changing the world.',
-        'Camryn Manheim',
+        'Philosophy would render us entirely Pyrrhonian, were not nature too strong for it.',
+        'David Hume',
     ],
     [
-        'The thing is that love gives us a ringside seat on somebody else\'s flaws, so of course you\'re gonna spot some things that kinda need to be mentioned. But often the romantic view is to say, \'If you loved me, you wouldn\'t criticise me.\' Actually, true love is often about trying to teach someone how to be the best version of themselves.',
-        'Alain de Botton',
+        'Time will pass and seasons will come and go.',
+        'Roy Bean',
     ],
     [
-        'If you\'re running around with a negative attitude all the time, you\'re going to feel down; you\'re going to have negative results.',
-        'Craig Sager',
+        'I\'m just an individual who doesn\'t feel that I need to have somebody qualify my work in any particular way. I\'m working for me.',
+        'David Bowie',
     ],
     [
-        'Like almost everyone who uses e-mail, I receive a ton of spam every day. Much of it offers to help me get out of debt or get rich quick. It would be funny if it weren\'t so exciting.',
-        'Bill Gates',
+        'Do one thing every day that scares you.',
+        'Unknown',
     ],
     [
-        'I always say that kindness is the greatest beauty that you can have.',
+        'There are so many myths out there about Marianne Faithfull, I had to, um, detach. But I can turn it on because Marianne Faithfull is really an attitude, you know.',
+        'Marianne Faithfull',
+    ],
+    [
+        'Never be ashamed of what you feel. You have the right to feel any emotion that you want, and to do what makes you happy. That\'s my life motto.',
+        'Nelson Mandela',
+    ],
+    [
+        'I\'ve been called a recluse. There\'s definitely truth in that. I like to spend time alone.',
+        'Kendrick Lamar',
+    ],
+    [
+        'It\'s a blessing because the Baldwin vibe on the street is what I live for the most. I think our name is something that a lot of people get a good feeling about and brings a smile to their face, and we\'re very fortunate.',
+        'Stephen Baldwin',
+    ],
+    [
+        'Writing and travel broaden your ass if not your mind and I like to write standing up.',
+        'Ernest Hemingway',
+    ],
+    [
+        'I purposefully try to make films in that grey area, where things are morally ambiguous. It\'s like life: good people do horrible things, and bad people do good things, and there\'s beauty in horror and horror in beauty.',
+        'Harmony Korine',
+    ],
+    [
+        'The true work of art is but a shadow of the divine perfection.',
+        'Michelangelo',
+    ],
+    [
+        'There is real beauty in my eyes when I lose my mind.',
+        'Jessica Hagedorn',
+    ],
+    [
+        'Tanzanians are some of the friendliest you\'ll ever meet, insisting on a welcoming smile and wave as they pass you on the streets, exclaiming \'Jambo!\'',
+        'Jodi Balfour',
+    ],
+    [
+        'Good food and a warm kitchen are what makes a house a home. I always tried to make my home like my mother\'s, because Mom was magnificent at stretching a buck when it came to decorating and food. Like a true Italian, she valued beautification in every area of her life, and I try to do the same.',
+        'Giles Andreae',
+    ],
+    [
+        'It\'s actually cool to be positive and optimistic and idealistic. It\'s cool to see yourself doing beautiful, great things.',
+        'Tom DeLonge',
+    ],
+    [
+        'I am living out my adolescent dream of travel and adventure.',
+        'Tim Cahill',
+    ],
+    [
+        'Yes\'m, old friends is always best, \'less you can catch a new one that\'s fit to make an old one out of.',
+        'Sarah Orne Jewett',
+    ],
+    [
+        'My success was not based so much on any great intelligence but on great common sense.',
+        'Helen Gurley Brown',
+    ],
+    [
+        'When I remember my mother, it makes me really sad. But, when I remember my father, it makes me smile.',
+        'Akkineni Nagarjuna',
+    ],
+    [
+        'He who seeks truth shall find beauty. He who seeks beauty shall find vanity. He who seeks order shall find gratification. He who seeks gratification shall be disappointed. He who considers himself the servant of his fellow beings shall find the joy of self-expression. He who seeks self-expression shall fall into the pit of arrogance.',
+        'Moshe Safdie',
+    ],
+    [
+        'As a single mother of four, my mother taught me that you always want to show up strong for the moments that really matter with family, friends, and community. I now recognize how her strength helped shape the person I am today and the mother that I have become.',
         'Andie MacDowell',
     ],
     [
-        'There\'s no such thing as failure - just waiting for success.',
-        'John Osborne',
+        'Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.',
+        'Don Miguel Ruiz',
     ],
     [
-        'Fires can\'t be made with dead embers, nor can enthusiasm be stirred by spiritless men. Enthusiasm in our daily work lightens effort and turns even labor into pleasant tasks.',
-        'James A. Baldwin',
+        'By the time we see that climate change is really bad, your ability to fix it is extremely limited... The carbon gets up there, but the heating effect is delayed. And then the effect of that heat on the species and ecosystem is delayed. That means that even when you turn virtuous, things are actually going to get worse for quite a while.',
+        'Bill Gates',
     ],
     [
-        'There\'s only one drummer. We all travel to his beat. Well, I couldn\'t sing his song. Because for me, it wasn\'t a truthful statement. Well, Linda sang it, and it was a monster for her.',
-        'Barry McGuire',
+        'Robots will harvest, cook, and serve our food. They will work in our factories, drive our cars, and walk our dogs. Like it or not, the age of work is coming to an end.',
+        'Gray Scott',
     ],
     [
-        'I travel around the world constantly promoting my projects and endorsing products. Yes, I do get paid to go to parties; in fact, I\'m the person who started the whole trend of paid appearances. But when you see me at a party, I\'m always working or promoting something.',
-        'Paris Hilton',
-    ],
-    [
-        'A library is not a luxury but one of the necessities of life.',
-        'Roger Caras',
-    ],
-    [
-        'You must do the things you think you cannot do.',
-        'Eleanor Roosevelt',
-    ],
-    [
-        'If you look at a building by Mies van der Rohe, it might look very simple, but up close, the sheer quality of construction, materials and thought are inspirational.',
-        'David Chipperfield',
-    ],
-    [
-        'Everyone is handed adversity in life. No one\'s journey is easy. It\'s how they handle it that makes people unique.',
-        'Socrates',
-    ],
-    [
-        'It takes a long time to grow an old friend.',
-        'John Leonard',
-    ],
-    [
-        'We need to accept that the commandments of God aren\'t just a long list of good ideas. They aren\'t \'life hacks\' from an Internet blog or motivational quotes from a Pinterest board.',
-        'Dieter F. Uchtdorf',
-    ],
-    [
-        'Our truest life is when we are in dreams awake.',
-        'Eckhart Tolle',
-    ],
-    [
-        'You always want to win. That is why you play tennis, because you love the sport and try to be the best you can at it.',
-        'Roger Federer',
-    ],
-    [
-        'A positive attitude causes a chain reaction of positive thoughts, events and outcomes. It is a catalyst and it sparks extraordinary results.',
-        'Wade Boggs',
-    ],
-    [
-        'The function of leadership is to produce more leaders, not more followers.',
-        'Ralph Nader',
-    ],
-    [
-        'No matter what I put out, somebody will be offended. I made a video on 10 reasons to smile, and it has dislikes. That should be an indication that there will be some who get offended no matter what you do. The best you can do as an entertainer or as someone who performs is to follow what you believe in.',
-        'Lilly Singh',
-    ],
-    [
-        'Today, smartphones, tablets, and the Internet have allowed people to conduct business from anywhere at any time. But as we continue to progress, many families find it harder to balance the ever-increasing demands of their work with their desire to care for and be with their family.',
-        'Renee Ellmers',
-    ],
-    [
-        'The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.',
-        'Mortimer Adler',
-    ],
-    [
-        'By their very nature, heuristic shortcuts will produce biases, and that is true for both humans and artificial intelligence, but the heuristics of AI are not necessarily the human ones.',
-        'Daniel Kahneman',
-    ],
-    [
-        'I\'ve always enjoyed traveling and having experience with different cultures and different people. But it\'s also a wonderful thing to be able to benefit and enable research, not only in our country but around the world.',
-        'Laurel Clark',
-    ],
-    [
-        'Progress always involves risks. You can\'t steal second base and keep your foot on first.',
-        'Frederick Wilcox',
+        'Learn all you can from the mistakes of others. You won\'t have time to make them all yourself.',
+        'Alfred Sheinwold',
     ],
 ];

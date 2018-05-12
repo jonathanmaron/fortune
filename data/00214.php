@@ -2,103 +2,103 @@
 
 return [
     [
-        'Sometimes I wish that I could go into a time machine right now and just look at my self and say, \'Calm down. Things are gonna be fine. Things are gonna be all great. Just relax.\'',
-        'Tristan Wilds',
+        'A person who won\'t read has no advantage over one who can\'t read',
+        'Mark Twain',
     ],
     [
-        'We are all inclined to judge ourselves by our ideals; others, by their acts.',
-        'Harold Nicolson',
+        'The thing I love about being an actor is the ability to travel and experience new cultures.',
+        'Paul Wesley',
     ],
     [
-        'I think family is very important in West Virginia and has long been so because the mountains made travel difficult in the past, and family members had to depend on each other.',
-        'David Selby',
+        "To have striven, to have made the effort, to have been true to certain ideals\u{2013}this alone is worth the struggle.",
+        'William Penn',
     ],
     [
-        'For a writer only one form of patriotism exists: his attitude toward language.',
-        'Joseph Brodsky',
+        'The worst thing that happens to you may be the best thing for you if you don\'t let it get the best of you.',
+        'Will Rogers',
     ],
     [
-        'There\'s nothing I value more than the closeness of friends and family, a smile as I pass someone on the street.',
-        'Willie Stargell',
+        'Nature abhors annihilation.',
+        'Marcus Tullius Cicero',
     ],
     [
-        'I will end up with someone in the arts. I am positive. I eat, breathe and sleep acting. And I\'ll end up with someone who is happy staying at home and having me cook supper. But I also really need to be intellectually challenged and stimulated. I want someone bookish, and someone who is passionate.',
-        'Ginnifer Goodwin',
+        'As kids we\'re not taught how to deal with success; we\'re taught how to deal with failure. If at first you don\'t succeed, try, try again. If at first you succeed, then what?',
+        'Charlie Sheen',
     ],
     [
-        'When we recognise the virtues, the talent, the beauty of Mother Earth, something is born in us, some kind of connection, love is born.',
-        'Thich Nhat Hanh',
+        'I enjoy the work, I enjoy every minute of my professional life.',
+        'Jose Mourinho',
     ],
     [
-        'Photographers usually want to photograph facts and things. But I\'m interested in the nature of the thing itself. A photograph of someone sleeping tells me nothing about their dream state; a photograph of a corpse tells me nothing about the nature of death. My work is about my life as an event, and I find myself to be very temporal, transient.',
-        'Duane Michals',
+        'I don\'t really have a beauty routine. I always use coconut oil, and I always wear mascara. That\'s kind of it! I\'m pretty simple.',
+        'Zoe Kravitz',
     ],
     [
-        'We\'ve seen over time that countries that have the best economic growth are those that have good governance, and good governance comes from freedom of communication. It comes from ending corruption. It comes from a populace that can go online and say, \'This politician is corrupt, this administrator, or this public official is corrupt.\'',
-        'Ramez Naam',
+        'White sharks and tuna travel for thousands of miles before returning to the same hot spot just as salmon do when they return to the same stream. These journeys are the marine equivalent of wildebeest migrations that take place on the Serengeti plain in Africa.',
+        'Barbara Block',
     ],
     [
-        'I love not man the less, but Nature more.',
-        'Lord Byron',
+        'In all things of nature there is something of the marvelous.',
+        'Aristotle',
     ],
     [
-        'Because beauty isn\'t enough, there must be something more.',
-        'Eva Herzigova',
-    ],
-    [
-        'Big jobs usually go to the men who prove their ability to outgrow small ones.',
-        'Theodore Roosevelt',
-    ],
-    [
-        'I grew up in a big family. You have to learn to get along with each other... get things done as a family.',
-        'John Boehner',
-    ],
-    [
-        'I actually think of being funny as an odd turn of mind, like a mild disability, some weird way of looking at the world that you can\'t get rid of.',
-        'Calvin Trillin',
-    ],
-    [
-        'No act of kindness, no matter how small, is ever wasted.',
-        'Aesop',
-    ],
-    [
-        'They can conquer who believe they can.',
-        'Virgil',
-    ],
-    [
-        'We must use time wisely and forever realize that the time is always ripe to do right.',
+        'Let there be work, bread, water and salt for all.',
         'Nelson Mandela',
     ],
     [
-        'The real end winner of NAFTA is going to be Mexico because we have the human capital. We have that resource that is vital to the success of the U.S. economy.',
-        'Vicente Fox',
+        'The whole object of travel is not to set foot on foreign land; it is at last to set foot on one\'s own country as a foreign land.',
+        'Gilbert K. Chesterton',
     ],
     [
-        'It\'s a funny thing, the less people have to live for, the less nerve they have to risk losing nothing.',
-        'Zora Neale Hurston',
+        'Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.',
+        'Morgan Freeman',
     ],
     [
-        'I don\'t have any beauty shop memories. I remember the barber shop.',
-        'Jenifer Lewis',
+        'Death Row inmates are almost twice as expensive to house each year as other inmates. Death penalty trials are much costlier than trials where execution is not a potential punishment and consume more time from judges, public defenders, and other legal personnel.',
+        'Reid Hoffman',
     ],
     [
-        'It\'s obviously funny to be a meme, so I could be down with it in that regard, but it also belittles one\'s art.',
-        'Grimes',
+        'Choosing an attitude of faith will release peace out of your spirit and into your soul.',
+        'Joyce Meyer',
     ],
     [
-        'Inspirational leaders need to have a winning mentality in order to inspire respect. It is hard to trust in the leadership of someone who is half-hearted about their purpose, or only sporadic in focus or enthusiasm.',
-        'Sebastian Coe',
+        'The great danger for family life, in the midst of any society whose idols are pleasure, comfort and independence, lies in the fact that people close their hearts and become selfish.',
+        'Pope John Paul II',
     ],
     [
-        'We know that the nature of genius is to provide idiots with ideas twenty years later.',
-        'Louis Aragon',
+        'No better way is there to learn to love Nature than to understand Art. It dignifies every flower of the field. And, the boy who sees the thing of beauty which a bird on the wing becomes when transferred to wood or canvas will probably not throw the customary stone.',
+        'Oscar Wilde',
     ],
     [
-        'I know but one freedom and that is the freedom of the mind.',
-        'Antoine de Saint-Exupery',
+        'I would fight for my liberty so long as my strength lasted, and if the time came for me to go, the Lord would let them take me.',
+        'Harriet Tubman',
     ],
     [
-        'As a single withered tree, if set aflame, causes a whole forest to burn, so does a rascal son destroy a whole family.',
-        'Chanakya',
+        'I am my own muse, the subject I know best.',
+        'Frida Kahlo',
+    ],
+    [
+        'If you travel first class, you think first class and you are more likely to play first class.',
+        'Ray Floyd',
+    ],
+    [
+        'Forests, lakes, and rivers, clouds and winds, stars and flowers, stupendous glaciers and crystal snowflakes - every form of animate or inanimate existence, leaves its impress upon the soul of man.',
+        'Orison Swett Marden',
+    ],
+    [
+        'It has been a long journey, but if you dream and have the ambition and want to work hard, then you can achieve.',
+        'Mo Farah',
+    ],
+    [
+        'I\'ve never been married, but I tell people I\'m divorced so they won\'t think something is wrong with me.',
+        'Elayne Boosler',
+    ],
+    [
+        'America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world.',
+        'Bill Frist',
+    ],
+    [
+        'Solitude gives birth to the original in us, to beauty unfamiliar and perilous - to poetry. But also, it gives birth to the opposite: to the perverse, the illicit, the absurd.',
+        'Thomas Mann',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'If you are the kind of person who is waiting for the \'right\' thing to happen, you might wait for a long time. It\'s like waiting for all the traffic lights to be green for five miles before starting the trip.',
-        'Robert Kiyosaki',
+        'A beautiful person is someone who stays true to themselves and their spirit; someone who is self-confident and can make you smile.',
+        'Helena Christensen',
     ],
     [
-        'I\'m just a regular person who believes life is simple, and I like a simple life.',
-        'Virgil',
+        'People say funny things all the time during really serious moments in life.',
+        'Mark Ruffalo',
     ],
     [
-        'Give yourself a gift of five minutes of contemplation in awe of everything you see around you. Go outside and turn your attention to the many miracles around you. This five-minute-a-day regimen of appreciation and gratitude will help you to focus your life in awe.',
-        'Eminem',
+        'I\'m not an inspirational quote kind of person.',
+        'Christine Teigen',
     ],
     [
-        'It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.',
+        'If you dream of something worth doing and then simply go to work on it and don\'t think anything of personalities, or emotional conflicts, or of money, or of family distractions; it is amazing how quickly you get through those 5,000 steps.',
+        'Edwin Land',
+    ],
+    [
+        'If we accept being talked to any kind of a way, then we are telling ourselves we are not quite worth the best. And if we have the effrontery to talk to anybody with less than courtesy, we tell ourselves and the world we are not very intelligent.',
+        'Maya Angelou',
+    ],
+    [
+        'Once again, we come to the Holiday Season, a deeply religious time that each of us observes, in his own way, by going to the mall of his choice.',
+        'Dave Barry',
+    ],
+    [
+        'I have short goals - to get better every day, to help my teammates every day - but my only ultimate goal is to win an NBA championship. It\'s all that matters. I dream about it. I dream about it all the time, how it would look, how it would feel. It would be so amazing.',
+        'LeBron James',
+    ],
+    [
+        'When I was 11, I had an Ugly Sister birthday party. All my idea. Most girls want to be a fairy or a princess, but there I am with beauty spots and fur and fluorescent pink kiss-curls.',
+        'Lucy Punch',
+    ],
+    [
+        'All action results from thought, so it is thoughts that matter.',
+        'Sai Baba',
+    ],
+    [
+        'First say to yourself what you would be; and then do what you have to do.',
         'Epictetus',
     ],
     [
-        'Dates that come around every year help us measure progress in our lives. One annual event, New Year\'s Day, is a time of reflection and resolution.',
-        'Joseph B. Wirthlin',
+        'The greatest legacy one can pass on to one\'s children and grandchildren is not money or other material things accumulated in one\'s life, but rather a legacy of character and faith.',
+        'Ted Turner',
     ],
     [
-        'If you wish to be a success in the world, promise everything, deliver nothing.',
-        'Napoleon Bonaparte',
+        'I don\'t think our government really has much of a policy about air travel. I would compare the policies of United Arab Emirates, which has done a terrific job recognizing the value of transportation, of travel.',
+        'Jeff Smisek',
     ],
     [
-        'A man should be able to hear, and to bear, the worst that could be said of him.',
-        'Saul Bellow',
+        'The best way to do ourselves good is to be doing good to others; the best way to gather is to scatter.',
+        'Thomas Brooks',
     ],
     [
-        'Custom, that is before all law; Nature, that is above all art.',
-        'Samuel Daniel',
+        'Take care of your life and the Lord will take care of your death.',
+        'Steve Jobs',
     ],
     [
-        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
-        'Francis Chan',
+        'All of us profit from being corrected - if we\'re corrected in a positive way.',
+        'Sam Walton',
     ],
     [
-        'Confidence isn\'t optimism or pessimism, and it\'s not a character attribute. It\'s the expectation of a positive outcome.',
-        'Rosabeth Moss Kanter',
+        'The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.',
+        'Jim Bishop',
     ],
     [
-        'Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.',
-        'Ralph Emerson',
+        'The day is already blessed, find peace within it.',
+        'Unknown',
     ],
     [
-        'We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.',
-        'T. S. Eliot',
+        'I think one of the best words in the English language is \'compassion.\' I think it holds everything. It holds love, it holds care... and if everybody just did something. We all make a difference.',
+        'Michael Crawford',
     ],
     [
-        'I do not share the half-in, half-out attitude to the EU of some in Britain. Britain\'s place is in Europe.',
-        'Peter Mandelson',
+        'My good friends are Mormon, some of the best people I know.',
+        'Katherine Heigl',
     ],
     [
-        'We do not remember days, we remember moments.',
-        'Confucius',
+        'A person who never made a mistake never tried anything new.',
+        'Albert Einstein',
     ],
     [
-        'Being a sex symbol has to do with an attitude, not looks. Most men think it\'s looks, most women know otherwise.',
-        'Kathleen Turner',
+        'Even as a kid I was never the generator of humor, but I always knew who was funny, who to hang out with.',
+        'Andrew Stanton',
     ],
     [
-        'The worst part of success is, to me, adapting to it. It\'s scary.',
-        'Kendrick Lamar',
+        'The will to succeed is important, but what\'s more important is the will to prepare.',
+        'Bobby Knight',
     ],
     [
-        'The greatest antidote to insecurity and the sense of fear is compassion, it brings one back to the basis of one\'s inner strength',
-        'Dalai Lama',
+        'A library is not a luxury but one of the necessities of life.',
+        'Roger Caras',
     ],
     [
-        'Time moves in one direction, memory in another.',
-        'William Gibson',
+        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything he\'s got.',
+        'Walter Cronkite',
     ],
     [
-        'Most companies target women as end users, but few are effectively utilizing female employees when it comes to innovating for female consumers. When women are empowered in the design and innovation process, the likelihood of success in the marketplace improves by 144%!',
-        'Indra Nooyi',
-    ],
-    [
-        'If someone does something in an entertainment/pop ambience, that person becomes someone who has an impact on the conduct and attitude of a huge number of people who peripherally come in contact with them.',
-        'Richard Attenborough',
-    ],
-    [
-        'We must never forget that it is through our actions, words, and thoughts that we have a choice.',
-        'Sogyal Rinpoche',
-    ],
-    [
-        'Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.',
-        'Horace',
-    ],
-    [
-        'You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like.',
-        'Kevin O\'Leary',
-    ],
-    [
-        'First gain the victory and then make the best use of it you can.',
-        'Horatio Nelson',
-    ],
-    [
-        'Good management consists in showing average people how to do the work of superior people.',
-        'John D. Rockefeller',
+        'I am an artist... I am here to live out loud.',
+        'Josh Turner',
     ],
 ];

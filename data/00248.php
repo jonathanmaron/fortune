@@ -2,103 +2,103 @@
 
 return [
     [
-        'Stiletto, I look at it more as an attitude as opposed to a high-heeled shoe.',
-        'Lita Ford',
-    ],
-    [
-        'I believe that we all have a responsibility to give back. No one becomes successful without lots of hard work, support from others, and a little luck. Giving back creates a virtuous cycle that makes everyone more successful.',
-        'Ron Conway',
-    ],
-    [
-        'Whether in success or in failure, I\'m proud of every single movie I\'ve ever directed.',
-        'Steven Spielberg',
-    ],
-    [
-        'Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.',
-        'Ralph Emerson',
-    ],
-    [
-        'There must be something solemn, serious, and tender about any attitude which we denominate religious. If glad, it must not grin or snicker; if sad, it must not scream or curse.',
-        'William James',
-    ],
-    [
-        'It\'s lovely to work with a group of actors who make you laugh and smile.',
-        'Kelly Reilly',
-    ],
-    [
         'Insanity runs in my family. It practically gallops.',
         'Cary Grant',
     ],
     [
-        'The BBC is the greatest broadcaster in the world. It\'s the standard that everyone measures themselves against. If we lose the BBC, it won\'t be quite as bad as losing the royal family, but an integral part of this country will have gone. But then, I\'m an old guy.',
-        'Terry Wogan',
+        'The Internet has done nothing but good for comedy all around. Comedians no longer have to rely on TV execs and club owners deciding if they are funny or not.',
+        'Doug Stanhope',
     ],
     [
-        'Do not wait; the time will never be \'just right.\' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.',
-        'George Herbert',
+        'When your work speaks for itself, don\'t interrupt.',
+        'Henry J. Kaiser',
     ],
     [
-        'I am thankful for all the blessings and talents I have been given, but most of all I am thankful for my loving and supportive family.',
-        'Olivia Holt',
+        'The best vision is insight.',
+        'Malcolm Forbes',
     ],
     [
-        'You fight, you try your best, but if you lose, you don\'t have to break five racquets and smash up the locker room. You can do those things, but when you\'ve finished, nothing\'s changed. You\'ve still lost. If something positive came from that, I probably would do it. But I see only negativity.',
-        'Rafael Nadal',
+        'So long as you\'ve got your friends about you, and a good positive attitude, you don\'t really have to care what everyone else thinks.',
+        'Gail Porter',
     ],
     [
-        'It\'s both rebellion and conformity that attack you with success.',
-        'Amy Tan',
+        'It is better to understand a little than to misunderstand a lot.',
+        'Anatole France',
     ],
     [
-        'I am a hopeless romantic who falls in lust and gets in trouble. I love my work and am very productive, yet I always find time to play.',
-        'Maksim Chmerkovskiy',
+        'Humor is the oxygen of children\'s literature. There\'s a lot of competition for children\'s time, but even kids who hate to read want to read a funny book.',
+        'Sid Fleischman',
     ],
     [
-        'Until I was about 14, I was a fat boy, or at least I looked like a fat boy. I think that being funny was a bit of a defence mechanism for me, so I ended up being a bit of a joker.',
-        'Pippa Evans',
+        'Nature chooses who will be transgender; individuals don\'t choose this.',
+        'Mercedes Ruehl',
     ],
     [
-        'Rarely do members of the same family grow up under the same roof.',
-        'Richard Bach',
+        'To send light into the darkness of men\'s hearts - such is the duty of the artist.',
+        'Schumann',
     ],
     [
-        'Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.',
-        'John F. Kennedy',
+        'In order to carry a positive action we must develop here a positive vision.',
+        'Dalai Lama',
     ],
     [
-        'I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.',
-        'Neil Armstrong',
+        'I find the whole time travel question very unsettling if you take it to its logical extension. I think it might eventually be possible, but then what happens?',
+        'William Shatner',
     ],
     [
-        'Beauty is an asset, just like physical prowess, charisma, brains or emotional intelligence. The key with any gift is in the way that you use it. It doesn\'t define you as a person. Rather, it\'s an asset to be used judiciously and with an understanding of how it is just a small part of who you are.',
-        'Dale Archer',
+        'Great men show politeness in a particular way; a smile suffices to assure you that you are welcome, and keep about their avocations as if you were a member of the family.',
+        'John James Audubon',
     ],
     [
-        'The way Moore\'s Law occurs in computing is really unprecedented in other walks of life. If the Boeing 747 obeyed Moore\'s Law, it would travel a million miles an hour, it would be shrunken down in size, and a trip to New York would cost about five dollars. Those enormous changes just aren\'t part of our everyday experience.',
-        'Nathan Myhrvold',
+        'Work is the curse of the drinking classes.',
+        'Oscar Wilde',
     ],
     [
-        'Accept the challenges so that you can feel the exhilaration of victory.',
-        'George S. Patton',
+        '\'All in With Laila Ali\' is educational, inspirational, compelling programming profiling individuals that have reached for the sky, pushed themselves to the limit and did things that you would think were impossible.',
+        'Laila Ali',
     ],
     [
-        'The most important thing is the indigenous people are not vindictive by nature. We are not here to oppress anybody - but to join together and build Bolivia, with justice and equality.',
-        'Evo Morales',
+        "I always did something I was a little not ready to do. I think that's how you grow. When there's that moment of, \u{2018}Wow, I'm not really sure I can do this,' and you push through those moments, that's when you have a breakthrough.",
+        'Marissa Mayer',
     ],
     [
-        'You\'ll live. Only the best get killed.',
-        'Charles de Gaulle',
+        'Man\'s nature is not essentially evil. Brute nature has been known to yield to the influence of love. You must never despair of human nature.',
+        'Mahatma Gandhi',
     ],
     [
-        'Beauty and femininity are ageless and can\'t be contrived, and glamour, although the manufacturers won\'t like this, cannot be manufactured. Not real glamour; it\'s based on femininity.',
-        'Marilyn Monroe',
+        'If we get our self-esteem from superficial places, from our popularity, appearance, business success, financial situation, health, any of these, we will be disappointed, because no one can guarantee that we\'ll have them tomorrow.',
+        'Kathy Ireland',
     ],
     [
-        'Travelers never think that they are the foreigners.',
-        'Mason Cooley',
+        'Begin at once to live and count each separate day as a separate life.',
+        'Seneca',
     ],
     [
-        'I\'m not here to impose Sharia law, and I\'m not here to have a message about disability being inspirational - I\'m here to make people laugh. But when I can layer things and make people not only laugh but question, make people not only laugh but be offended... I have to do that.',
-        'Maysoon Zayid',
+        'We needed something to express our joy, our beauty, our power. And the rainbow did that.',
+        'Gilbert Baker',
+    ],
+    [
+        'The more natural or eco-based products you can introduce into your beauty regimen, the more beneficial it is for your skin. It\'s similar to introducing organic food into your daily diet.',
+        'Ivanka Trump',
+    ],
+    [
+        'Time is the school in which we learn, time is the fire in which we burn.',
+        'Delmore Schwartz',
+    ],
+    [
+        'There is a sense that things, if you keep positive and optimistic about what can be done, do work out.',
+        'Hillary Clinton',
+    ],
+    [
+        'Stay open-minded; stay focused. Train hard and train smart. For me, the older I get, the smarter I have to train also, because the recovery time is longer. Work on everything: become a well-rounded fighter - don\'t just be good at one thing; be good at everything.',
+        'Brock Lesnar',
+    ],
+    [
+        'I like low-maintenance girls, but at the same time, classy. She needs to take care of herself. But also be a girl who isn\'t afraid to get sweaty and play basketball, so it\'s cool if she\'s a tomboy.',
+        'Chris Brown',
+    ],
+    [
+        'You\'ve done it before and you can do it now. See the positive possibilities. Redirect the substantial energy of your frustration and turn it into positive, effective, unstoppable determination.',
+        'Ralph Marston',
     ],
 ];

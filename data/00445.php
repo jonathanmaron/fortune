@@ -2,103 +2,103 @@
 
 return [
     [
-        'Don\'t fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.',
+        'Let me encourage you to get up every day and focus on what you do have in life. Be thankful for the blessings of the little things, even when you don\'t get what you expect.',
+        'Persius',
+    ],
+    [
+        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it.',
+        'Earl Nightingale',
+    ],
+    [
+        'I was actually born and raised in Puerto Rico. I was born to a single mom. She was a wonderful woman, and she taught me to believe in myself, to work hard, play by the rules. She wanted me to get a good education, and she just told me that the best thing I could do is just study hard.',
+        'Raul Labrador',
+    ],
+    [
+        'All punk is is attitude. That\'s what makes it. The attitude.',
+        'Joey Ramone',
+    ],
+    [
+        'My life is about ups and downs, great joys and great losses.',
+        'Ludwig van Beethoven',
+    ],
+    [
+        'Reinforced concrete buildings are by nature skeletal buildings. No noodles nor armoured turrets. A construction of girders that carry the weight, and walls that carry no weight. That is to say, buildings consisting of skin and bones.',
+        'Ludwig Mies van der Rohe',
+    ],
+    [
+        'Successful entrepreneurs are givers and not takers of positive energy.',
         'Unknown',
     ],
     [
-        'There is the sky, which is all men\'s together.',
-        'Euripides',
+        'My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed.',
+        'Mark Warner',
     ],
     [
-        'The old university attitude of \'publish or perish\' has changed. Students and academics are realising that institutions such as Imperial College are also wealth-generators. It is very satisfying to be in a university where you have the freedom to innovate and yet know that there is a path to translate your work into industry.',
-        'Chris Toumazou',
+        'I specifically remember doing the musical \'Sweet Charity\' at Stagedoor. I was playing Vittorio Vidal, which is a very funny part, and some other small roles. I couldn\'t really sing that well, but there were so many fun bits, and I just remember the tremendous adrenaline rush I felt from being onstage and hearing the audience enjoying it.',
+        'Sebastian Stan',
     ],
     [
-        'Nature hasn\'t gone anywhere. It is all around us, all the planets, galaxies and so on. We are nothing in comparison.',
-        'Bjork',
+        'Why don\'t you get a haircut? You look like a chrysanthemum.',
+        'P. G. Wodehouse',
     ],
     [
-        'Clarity is the most important thing. I can compare clarity to pruning in gardening. You know, you need to be clear. If you are not clear, nothing is going to happen. You have to be clear. Then you have to be confident about your vision. And after that, you just have to put a lot of work in.',
-        'Diane von Furstenberg',
+        'When you look at the calculation, it\'s amazing that every time you try to prove or disprove time travel, you\'ve pushed Einstein\'s theory to the very limits where quantum effects must dominate. That\'s telling us that you really need a theory of everything to resolve this question. And the only candidate is string theory.',
+        'Michio Kaku',
     ],
     [
-        'Liza, I love you more than any words can say. You have made me a complete person. You are everything to me. And I cannot think of living life without you. And I love you forever.',
-        'Dwight D. Eisenhower',
+        'Be happy for this moment. This moment is your life.',
+        'Nelson Mandela',
     ],
     [
-        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
-        'Peter Diamandis',
+        'My mama always said: life\'s like a box of chocolate, you never know what you gonna get.',
+        'Forrest Gump',
     ],
     [
-        'It\'s funny how social activists usually protest against the only things that have a credible chance of achieving the activists\' goals.',
-        'Craig Bruce',
+        'After six years without seeing one, I love just seeing a smile - every smile I see gives me hope.',
+        'Ingrid Betancourt',
     ],
     [
-        'We cannot hold a torch to light another\'s path without brightening our own.',
-        'Ben Sweetland',
+        'The measure of a life, after all, is not its duration, but its donation.',
+        'Audrey Hepburn',
     ],
     [
-        'Water is life, and clean water means health.',
-        'Lawrence Welk',
+        'I find it an absolute pleasure to read travel guides, especially the Michelin guides, and their description of places I know I\'ll probably never visit. I spend a large part of my life reading descriptions of restaurants.',
+        'Michel Houellebecq',
     ],
     [
-        'Find a good teacher that will keep the game fun. Work hard and don\'t be afraid to have success or disappointment. That is what golf is all about.',
-        'Paula Creamer',
+        'Good timber does not grow with ease; the stronger the wind, the stronger the trees.',
+        'J. Willard Marriott',
     ],
     [
-        'Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.',
-        'Napoleon Hill',
+        'See the positive side, the potential, and make an effort.',
+        'Dalai Lama',
     ],
     [
-        'I\'ve been absolutely terrified every moment of my life - and I\'ve never let it keep me from doing a single thing I wanted to do.',
-        'Georgia O\'Keeffe',
+        'I have always been pushed by the negative. The apparent failure of a play sends me back to my typewriter that very night, before the reviews are out. I am more compelled to get back to work than if I had a success.',
+        'Tennessee Williams',
     ],
     [
-        'I have a Woody Allen Jewish attitude to life: that it\'s all going to be disastrous. That it hasn\'t all been that way is simply down to some random quirk of fate.',
-        'Antony Sher',
+        'You don\'t have to watch \'Gossip Girl\' to have an attitude.',
+        'Prince',
     ],
     [
-        'I don\'t think it\'s any coincidence that I lost my religious faith and \'manned up\' in the same year. I was described somewhere as a lapsed Catholic, which is funny because I\'m not going back! I want to achieve things rather than live life in an animalistic way.',
-        'Jimmy Carr',
+        'A little knowledge that acts is worth infinitely more than much knowledge that is idle.',
+        'Kahlil Gibran',
     ],
     [
-        'I did not direct my life. I didn\'t design it. I never made decisions. Things always came up and made them for me. That\'s what life is.',
-        'Henry Ward Beecher',
+        'His smile is like the silver plate on a coffin.',
+        'John Philpot Curran',
     ],
     [
-        'True, when you behold Damascus from the Salahiyeh, the last slope of the Anti-Lebanon, it is the realization of all that you have dreamed of Oriental splendor; the world has no picture more dazzling. It is Beauty carried to the Sublime, as I have felt when overlooking some boundless forest of palms within the tropics.',
-        'Bayard Taylor',
+        'There are two kinds of people, those who do the work and those who take the credit. Try to be in the first group; there is less competition there.',
+        'Indira Gandhi',
     ],
     [
-        'When life gives you Monday, dip it in glitter and sparkle all day.',
-        'Friedrich Nietzsche',
+        'My smile has been my ticket to the world. Smiling releases the same feel-good hormones you get jogging. Caring for your lips and gums is important. I brush my teeth morning and night, alternating toothpaste brands. In addition to flossing, I use a Water Pik to massage my gums and remove food particles.',
+        'Christie Brinkley',
     ],
     [
-        'I thought to be feminine was to give in to straight culture, or the beauty standard, but in my heart I had a flair for fashion and style. They were passions I kept secret because I didn\'t understand I could love clothes and hair and makeup and still like girls.',
-        'Beth Ditto',
-    ],
-    [
-        'Happiness lies in the joy of achievement and the thrill of creative effort.',
-        'Franklin D. Roosevelt',
-    ],
-    [
-        'There\'s design, and there\'s art. Good design is total harmony. There\'s no better designer than nature - if you look at a branch or a leaf, it\'s perfect. It\'s all function. Art is different. It\'s about emotion. It\'s about suffering and beauty - but mostly suffering!',
-        'Diane von Furstenberg',
-    ],
-    [
-        'You know, the standard state for people is \'mildly pleasant.\' Negative emotions are quite rare, and extremely positive emotions are rare. But people are mildly pleased most of the time, they\'re mildly tired a lot of the time, and they wish they were somewhere else a substantial part of the time - but mostly they\'re mildly pleased.',
-        'Daniel Kahneman',
-    ],
-    [
-        'It seems to me that the natural world is the greatest source of excitement; the greatest source of visual beauty; the greatest source of intellectual interest. It is the greatest source of so much in life that makes life worth living.',
-        'John C. Maxwell',
-    ],
-    [
-        'If we are not fully ourselves, truly in the present moment, we miss everything.',
-        'Thich Nhat Hanh',
-    ],
-    [
-        'Success has always been a great liar.',
-        'Friedrich Nietzsche',
+        'Real estate sales was perfect training for the experience to go into public life because you learn to accept rejection, learn to meet new people, learn to work with people and find common ground. That\'s the way you sell houses... that\'s also the way you win over constituency.',
+        'Johnny Isakson',
     ],
 ];

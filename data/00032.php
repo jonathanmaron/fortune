@@ -2,103 +2,103 @@
 
 return [
     [
-        'I think that I shall never see a poem lovely as a tree.',
-        'Joyce Kilmer',
+        'All the privileged can travel, see different worlds; not everyone can. I think it is important for people to have an interesting locale nearby.',
+        'Zaha Hadid',
     ],
     [
-        'No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.',
-        'Godfrey Winn',
+        'That it will never come again is what makes life sweet.',
+        'Marcus Aurelius',
     ],
     [
-        'Nature chooses who will be transgender; individuals don\'t choose this.',
-        'Mercedes Ruehl',
+        'At United, there are great traditions, which you can\'t buy in one or two years. They are created by victories. You need to prove again and again that you are better than the others. Manchester United have always done this, and are still doing it, so they are the best.',
+        'Cristiano Ronaldo',
     ],
     [
-        'Stem cell research holds enormous promise for easing human suffering, and federal support is critical to its success.',
-        'Tom Harkin',
+        'I was raised to believe that excellence is the best deterrent to racism or sexism. And that\'s how I operate my life.',
+        'Oprah Winfrey',
     ],
     [
-        'Your chances of success in any undertaking can always be measured by your belief in yourself.',
-        'Robert Collier',
+        'What\'s great about collaborating is getting to work with wonderful people. That\'s what theatre is about: other people getting you to give your best, and getting everyone else\'s best out of them.',
+        'Jason Robert Brown',
     ],
     [
-        'I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone.',
-        'Henry Rollins',
+        'If you work just for money, you\'ll never make it, but if you love what you\'re doing and you always put the customer first, success will be yours.',
+        'Ray Kroc',
     ],
     [
-        'Success is about enjoying what you have and where you are, while pursuing achievable goals.',
-        'Bo Bennett',
+        'Every cloud has its silver lining but it is sometimes a little difficult to get it to the mint.',
+        'Don Marquis',
     ],
     [
-        'Find out what you like doing best and get someone to pay you for it.',
-        'Katharine Whitehorn',
+        'You can get too close as a team. You need time away from each other. You change in the same dressing room, you play on the same cricket field, you stay in the same hotel, you travel in the same planes and buses. C\'mon - this business of everyone holding hands and being pally is nonsense.',
+        'Glenn Turner',
     ],
     [
-        'Anything you really want, you can attain, if you really go after it.',
+        'Life can only be understood backwards; but it must be lived forwards.',
+        'William Hazlitt',
+    ],
+    [
+        'Like the rest of the genetic lottery, beauty is unfair. Everyone falls short of perfection, but some are luckier than others. Real confidence requires self-knowledge, which includes recognizing one\'s shortcomings as well as one\'s strengths.',
+        'Virginia Postrel',
+    ],
+    [
+        'What you see depends on what you\'re looking for.',
+        'Unknown',
+    ],
+    [
+        'Go for it now. The future is promised to no one.',
         'Wayne Dyer',
     ],
     [
-        'You define a good flight by negatives: you didn\'t get hijacked, you didn\'t crash, you didn\'t throw up, you weren\'t late, you weren\'t nauseated by the food. So you are grateful.',
-        'Paul Theroux',
+        'Strength does not come from winning. Your struggles develop your strengths.',
+        'Arnold Schwarzenegger',
     ],
     [
-        'What would you do if you weren\'t afraid?',
-        'Sheryl Sandberg',
+        'How do you survive living in a cell knowing you are innocent? Many of those exonerated whom I have met seem to have a more benign, grateful attitude toward life than those of us who walk free. Many find a religious or spiritual stronghold.',
+        'Richard LaGravenese',
     ],
     [
-        'His tenacity is unmatched in my opinion. Incredible how someone could have suffered that long and come back out of prison with such a good heart and positive things to say and do.',
-        'Maurice Ashley',
+        'I want the kids to know that it\'s not a myth that somebody from their city plays and wins in the NBA. I just want to influence them to work hard and do whatever they want to do in life, whether it\'s to be a basketball player or scientist... if they believe in themselves, they can do anything.',
+        'Kawhi Leonard',
     ],
     [
-        'The sky is the part of creation in which nature has done for the sake of pleasing man.',
-        'John Ruskin',
+        'I have this necklace I always wear. I collect pendants from people I love; my best friends and members of my family have all given me one, and I put them on this chain so no matter where I am they\'re always with me.',
+        'Lake Bell',
     ],
     [
-        'Get correct views of life, and learn to see the world in its true light. It will enable you to live pleasantly, to do good, and, when summoned away, to leave without regret.',
-        'Steve Jobs',
+        'Success is 99 percent failure.',
+        'Soichiro Honda',
     ],
     [
-        'True success is overcoming the fear of being unsuccessful.',
-        'Paul Sweeney',
+        'While looking up news from the North Caucasus on Twitter, I was linked to the sanguinely titled \'Seven Wonders of Chechnya Tour\' on the website of Chechnya Travel, the postwar republic\'s first tourism outfit, founded in 2012.',
+        'Anthony Marra',
     ],
     [
-        'I believe our legacy will be defined by the accomplishments and fearless nature by which our daughters and sons take on the global challenges we face. I also wonder if perhaps the most lasting expression of one\'s humility lies in our ability to foster and mentor our children.',
-        'Naveen Jain',
+        'We should all be thankful for those people who rekindle the inner spirit.',
+        'Albert Schweitzer',
     ],
     [
-        'The stars shall fade away, the sun himself Grow dim with age, and nature sink in years, But thou shalt flourish in immortal youth, Unhurt amidst the wars of elements, The wrecks of matter, and the crush of worlds.',
-        'Joseph Addison',
+        'A photograph can be an instant of life captured for eternity that will never cease looking back at you.',
+        'Wayne Dyer',
     ],
     [
-        'Nothing is impossible, the word itself says \'I\'m possible\'!',
-        'Audrey Hepburn',
+        'The true measure of your worth includes all the benefits others have gained from your success.',
+        'Cullen Hightower',
     ],
     [
-        'A smile is the universal welcome.',
-        'Max Eastman',
+        'Autumn is a second spring when every leaf is a flower.',
+        'Albert Camus',
     ],
     [
-        'A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the \'why\' for his existence, and will be able to bear almost any \'how.\'',
-        'Viktor E. Frankl',
+        'My mind has been both my best friend and my worst enemy.',
+        'Elyn Saks',
     ],
     [
-        'A society is defined as much by how it comes to terms with its past as by its attitude toward the future: its memories are no less revealing than its aims.',
-        'Octavio Paz',
+        'My job is to be fit and I\'m really blessed that I get to go and work out and live a really healthy lifestyle.',
+        'Kerri Walsh Jennings',
     ],
     [
-        'All women have a perception much more developed than men. So all women somehow, being repressed for so many millennia, they ended up by developing this sixth sense and contemplation and love. And this is something that we have a hard time to accept as part of our society.',
-        'Paulo Coelho',
-    ],
-    [
-        'Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.',
-        'Anne Frank',
-    ],
-    [
-        'Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.',
-        'Matt Zotti',
-    ],
-    [
-        'You don\'t have to watch \'Gossip Girl\' to have an attitude.',
-        'Prince',
+        'Waste your money and you\'re only out of money, but waste your time and you\'ve lost a part of your life.',
+        'Michael LeBoeuf',
     ],
 ];

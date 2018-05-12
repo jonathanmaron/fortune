@@ -2,103 +2,103 @@
 
 return [
     [
-        'During their service, men and women in our Armed Forces live by a common creed, promising never to leave a soldier behind. We should live by the same principle. When our veterans are asked to travel hundreds of miles for care that\'s offered right next door, we simply aren\'t living up to that standard, and something has to change.',
-        'John Delaney',
+        'Life isn\'t black and white. It\'s a million gray areas, don\'t you find?',
+        'Kevyn Aucoin',
     ],
     [
-        'The greatest thing in family life is to take a hint when a hint is intended-and not to take a hint when a hint isn\'t intended.',
-        'Robert Frost',
+        'How can any person with a myopic view and harbouring intense parochial attitude even think of leading the nation?',
+        'Sharad Pawar',
     ],
     [
-        'The human body is the best picture of the human soul.',
-        'Ludwig Wittgenstein',
+        'The best way to travel abroad is to live with the locals.',
+        'Zach Braff',
     ],
     [
-        'I like girls that have a nice smile and nice eyes. I want to date a girl who understands my busy schedule and that I have to be on tour a lot. And she has to make me laugh!',
-        'Austin Mahone',
+        'I had rather have a fool to make me merry than experience to make me sad and to travel for it too!',
+        'William Shakespeare',
     ],
     [
-        'Beauty is not all there is of poetry. It must contain the truth. It is not simply an oak, rude and grand, neither is it simply a vine. It is both. Around the oak of truth runs the vine of beauty.',
-        'Robert Green Ingersoll',
+        'Scenery is fine - but human nature is finer.',
+        'John Keats',
     ],
     [
-        'The connection to place, to the land, the wind, the sun, stars, the moon... it sounds romantic, but it\'s true - the visceral experience of motion, of moving through time on some amazing machine - a few cars touch on it, but not too many compared to motorcycles. I always felt that any motorcycle journey was special.',
-        'Antoine Predock',
+        'There\'s only one growth strategy: work hard.',
+        'William Hague',
     ],
     [
-        'Human life is as evanescent as the morning dew or a flash of lightning.',
-        'Samuel Butler',
+        'The Patriot Act is essential to our continued success in the war on terror here at home.',
+        'Mike Pence',
     ],
     [
-        'Many people mistake our work for our vocation. Our vocation is the love of Jesus.',
-        'Mother Teresa',
+        'Most people can\'t see beauty and love. I see our music as medicine.',
+        'Maurice White',
     ],
     [
-        'Real magic in relationships means an absence of judgement of others.',
-        'Wayne Dyer',
-    ],
-    [
-        'Let your life lightly dance on the edges of Time like dew on the tip of a leaf.',
-        'Rabindranath Tagore',
-    ],
-    [
-        'Remember when life\'s path is steep to keep your mind even.',
-        'Arthur Schopenhauer',
-    ],
-    [
-        'What I have is P.H. positive chronic myeloid leukemia, which is an aberration in your white blood cells.',
-        'Kareem Abdul-Jabbar',
-    ],
-    [
-        'There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.',
-        'Dalai Lama',
-    ],
-    [
-        'Wanting a more positive environment isn\'t enough. You need to do something, and it doesn\'t require a great deal of effort or some huge change in the way you approach things at work.',
-        'Tom Rath',
-    ],
-    [
-        'Sincerity is the way of Heaven. The attainment of sincerity is the way of men.',
-        'Confucius',
-    ],
-    [
-        'The essential elements of giving are power and love - activity and affection - and the consciousness of the race testifies that in the high and appropriate exercise of these is a blessedness greater than any other.',
-        'Mark Hopkins',
-    ],
-    [
-        'These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.',
-        'Vernon Cooper',
-    ],
-    [
-        'I know all I really wanna do is get money and take care of my family.',
-        'Meek Mill',
-    ],
-    [
-        'I learn stuff from making music every time I go in the studio. I\'m continuing to try to find new ways to play in a song or be in a song and have a positive impact on a song.',
-        'Stone Gossard',
-    ],
-    [
-        'When we adopt a dog or any pet, we know it is going to end with us having to say goodbye, but we still do it. And we do it for a very good reason: They bring so much joy and optimism and happiness. They attack every moment of every day with that attitude.',
-        'Bruce Cameron',
-    ],
-    [
-        'The hardest thing in life to learn is which bridge to cross and which to burn.',
+        'A #2 pencil and a dream can take you anywhere.',
         'Joyce Meyer',
     ],
     [
-        'My dad was in the army so we moved around a lot and I changed schools every year and had to make new friends, and I found that if I was the funny guy I could do that easier.',
-        'Jason Gann',
+        'One of the best aspects of health care reform is it starts to emphasize prevention.',
+        'Anne Wojcicki',
     ],
     [
-        'I think it\'s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.',
-        'Leonard Nimoy',
+        'Drones overall will be more impactful than I think people recognize, in positive ways to help society.',
+        'Bill Gates',
     ],
     [
-        'Any product that needs a manual to work is broken.',
-        'Elon Musk',
+        'I don\'t know what it\'s like to have a typical father figure. He\'s not the dad who\'s going to take me to the beach and go swimming, but he\'s such a motivational person.',
+        'Tiffany Trump',
     ],
     [
-        'We are more than just flesh and bones. There\'s a certain spiritual nature and something of the mind that we can\'t measure. We can\'t find it. With all our sophisticated equipment, we cannot monitor or define it, and yet it\'s there.',
-        'Ben Carson',
+        'With five chances on each hand and one unwavering aim, no boy, however poor, need despair. There is bread and success for every youth under the American flag who has energy and ability to seize his opportunity.',
+        'Orison Swett Marden',
+    ],
+    [
+        'What we have found in this country, and maybe we\'re more aware of it now, is one problem that we\'ve had, even in the best of times, and that is the people who are sleeping on the grates, the homeless, you might say, by choice.',
+        'Ronald Reagan',
+    ],
+    [
+        'Life is a journey and it\'s about growing and changing and coming to terms with who and what you are and loving who and what you are.',
+        'Buddha',
+    ],
+    [
+        'I think we all suffer from guilt at some point in our lives, but for the most part I never really regret, and I try to always remain positive. Yes, I think that those issues are very interesting to play in a character, and they\'re prominent issues in life, and I think people can relate to them.',
+        'Channing Tatum',
+    ],
+    [
+        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.',
+        'Emilia Fox',
+    ],
+    [
+        'A horse is a thing of beauty... none will tire of looking at him as long as he displays himself in his splendor.',
+        'Xenophon',
+    ],
+    [
+        'The advance of technology is based on making it fit in so that you don\'t really even notice it, so it\'s part of everyday life.',
+        'Tecumseh',
+    ],
+    [
+        'Music is the mediator between the spiritual and the sensual life.',
+        'Jack Canfield',
+    ],
+    [
+        'Most of us start out with a positive attitude and a plan to do our best.',
+        'Marilu Henner',
+    ],
+    [
+        'You can complain because roses have thorns, or you can rejoice because thorns have roses.',
+        'Ziggy',
+    ],
+    [
+        'To those who would call me a thug or worse because I show passion on a football field - don\'t judge a person\'s character by what they do between the lines. Judge a man by what he does off the field, what he does for his community, what he does for his family.',
+        'Richard Sherman',
+    ],
+    [
+        'If you\'re not comfortable with public speaking - and nobody starts out comfortable; you have to learn how to be comfortable - practice. I cannot overstate the importance of practicing. Get some close friends or family members to help evaluate you, or somebody at work that you trust.',
+        'Hillary Clinton',
+    ],
+    [
+        'As a football team, you head into the season the same way with confidence and a positive mindset that you are going to win a bunch of football games.',
+        'Matthew Stafford',
     ],
 ];

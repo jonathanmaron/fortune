@@ -2,103 +2,103 @@
 
 return [
     [
-        'The man who trusts men will make fewer mistakes than he who distrusts them.',
-        'Cavour',
-    ],
-    [
-        'Sibling rivalry was, and still is to this day, rampant in my family. We were all competing for my parents\' divided attention.',
-        'Janine di Giovanni',
-    ],
-    [
-        'In Gnosticism, the physical world did not ultimately matter - which meant physical suffering did not matter either. Seeking \'enlightenment\' meant cultivating an attitude of detachment, even indifference.',
-        'Nancy Pearcey',
-    ],
-    [
-        'By nature, every individual has the right to govern himself; and governments, whether founded on majorities or minorities, must derive their right from the assent, expressed or implied, of the governed,, and be subject to such limitations as they may impose.',
-        'John C. Calhoun',
-    ],
-    [
-        'But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.',
-        'H. P. Lovecraft',
-    ],
-    [
-        'Eternity: a moment standing still for ever.',
-        'James Montgomery',
-    ],
-    [
-        'We know from research that growth is actually contagious, so if you want to reach your goals, you\'ve got to get around people that are going in the same direction you want to be going, and you will catch the success.',
-        'Henry Cloud',
-    ],
-    [
-        'Don\'t send funny greeting cards on birthdays or at Christmas. Save them for funerals, when their cheery effect is needed.',
-        'P. J. O\'Rourke',
-    ],
-    [
-        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
-        'Jay Garner',
-    ],
-    [
-        'Man is but a reed, the most feeble thing in nature, but he is a thinking reed.',
+        'The least movement is of importance to all nature. The entire ocean is affected by a pebble.',
         'Blaise Pascal',
     ],
     [
-        'No one can travel your own road for you; you must travel it for yourself. My faith in this stems from my childhood. I grew up in a family with a system of religious beliefs handed down to me.',
-        'Amy Tan',
+        'Since 2005, I have not spent much time with my family. In fact I have spent more time at the Taj Landsend in Mumbai. It was my 100th visit recently, which means I have spent more than 400 days in that hotel, and that is a lot more than I have spent with my family.',
+        'Mahendra Singh Dhoni',
     ],
     [
-        'What I am looking for is a blessing not in disguise.',
-        'Jerome K. Jerome',
+        'Success depends in a very large measure upon individual initiative and exertion, and cannot be achieved except by a dint of hard work.',
+        'Anna Pavlova',
     ],
     [
-        'We come in many different shapes and sizes, and we need to support each other and our differences. Our beauty is in our differences.',
-        'Carre Otis',
+        'We know that the nature of genius is to provide idiots with ideas twenty years later.',
+        'Louis Aragon',
     ],
     [
-        'Although I know it\'s unfair I reveal myself one mask at a time.',
-        'Stephen Dunn',
+        'The best kind of accountability on a team is peer-to-peer. Peer pressure is more efficient and effective than going to the leader, anonymously complaining, and having them stop what they are doing to intervene.',
+        'Patrick Lencioni',
     ],
     [
-        'If someone is always to blame, if every time something goes wrong someone has to be punished, people quickly stop taking risks. Without risks, there can\'t be breakthroughs.',
-        'Peter Diamandis',
+        'It is good to dream big but your dreams will never see the light of day if you sleep big too.',
+        'Anonymous',
     ],
     [
-        'Through the eight books in \'The Treasure Chest\' series, readers will meet twins Maisie and Felix and learn the secrets and rules of time travel, where they will encounter some of these famous and forgotten people. In Book 1, Clara Barton, then Alexander Hamilton, Pearl Buck, Harry Houdini, and on and on.',
-        'Ann Hood',
+        'I can remember that on the shelves at home, there were these books by Thomas Wolfe. \'Look Homeward Angel\' and \'Of Time and the River.\' \'Of Time and the River\' had just come out when I was aware of his name. My parents had a hard time convincing me that he was no kin whatsoever. My attitude was, \'Well, what\'s he doing on the shelf, then?\'',
+        'Tom Wolfe',
     ],
     [
-        'Always turn a negative situation into a positive situation.',
-        'Michael Jordan',
+        'I love it when people doubt me. It makes me work harder to prove them wrong.',
+        'Derek Jeter',
     ],
     [
-        'To me success means effectiveness in the world, that I am able to carry my ideas and values into the world - that I am able to change it in positive ways.',
-        'Maxine Hong Kingston',
+        'We can all agree that government can\'t solve the obesity crisis alone. It\'s an ongoing issue that will require a collaborative effort across private and public sectors if we want to see some long-term success.',
+        'Marcus Samuelsson',
     ],
     [
-        'Reykjavik has a mixture of southern and northern mentality. There\'s a laid-back, relaxed attitude but also the feeling things are going to get done.',
-        'John Grant',
+        'Modeling has given me the opportunity to travel outside of Brazil and see the world. I have been meeting many interesting and talented people along the way.',
+        'Izabel Goulart',
     ],
     [
-        'There are things that you cannot talk to your mother and father about, there are things that you cannot talk to your children about.',
-        'Shirley Knight',
+        'Success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.',
+        'Orison Swett Marden',
     ],
     [
-        'I gave my beauty and my youth to men. I am going to give my wisdom and experience to animals.',
-        'Brigitte Bardot',
+        'A more secret, sweet, and overpowering beauty appears to man when his heart and mind open to the sentiment of virtue.',
+        'Ralph Waldo Emerson',
     ],
     [
-        'I think that public service is tough on a family - no ifs, ands, buts about it. I have my own personal wishes, but they\'re not always front and center.',
-        'Maria Shriver',
+        'Facing the press is not easy, but because you have to go, you have to try to take a lot of positive things for yourself from these face-to-face meetings.',
+        'Jose Mourinho',
     ],
     [
-        'Love and compassion open our own inner life, reducing stress, distrust and loneliness.',
-        'Dalai Lama',
+        'He looked about as inconspicuous as a tarantula on a slice of angel food.',
+        'Raymond Chandler',
     ],
     [
-        'The best revenge in the world is success.',
-        'Suge Knight',
+        'The stereoscopic panoramic videos that we\'re showing on Samsung VR are getting a lot of positive traction. It\'s exciting when you see creative types - whether from the music, film, or video industries - look at this stuff. The gears are turning in their head almost immediately about how they can use it as a new medium.',
+        'John Carmack',
     ],
     [
-        'Our lives are not determined by what happens to us but how we react to what happens, not by what life brings us but the attitude we bring to life.',
-        'Wade Boggs',
+        'Success is attaining your dream while helping others to benefit from that dream materializing.',
+        'Sugar Ray Leonard',
+    ],
+    [
+        'My goal in coming to General Motors was to help restore profitability, build a strong market position and position this iconic company for success. We are clearly on that path.',
+        'Edward Whitacre, Jr.',
+    ],
+    [
+        'Own only what you can always carry with you: know languages, know countries, know people. Let your memory be your travel bag.',
+        'Aleksandr Solzhenitsyn',
+    ],
+    [
+        'Schubert had arguably the same melodic gift as Mozart, but even less support. He didn\'t have the early exposure, never got to travel anywhere, and yet generated and amassed a body of work that grew and developed and is very profound.',
+        'Twyla Tharp',
+    ],
+    [
+        'You don\'t have to have an attitude if you\'re famous.',
+        'Adriana Lima',
+    ],
+    [
+        'Anytime you introduce volatility, it is not good for business and not good for travel.',
+        'Dara Khosrowshahi',
+    ],
+    [
+        'That old law about \'an eye for an eye\' leaves everybody blind. The time is always right to do the right thing.',
+        'Martin Luther King, Jr.',
+    ],
+    [
+        'I try to do the right thing at the right time. They may just be little things, but usually they make the difference between winning and losing.',
+        'Kareem Abdul-Jabbar',
+    ],
+    [
+        'Nobody gets to live life backward. Look ahead, that is where your future lies.',
+        'Donald Trump',
+    ],
+    [
+        'There\'s no secret about success. Did you ever know a successful man who didn\'t tell you about it?',
+        'Kin Hubbard',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Acting is a sense of wonder and magic and mystery for me and when life takes me on a new journey, I simply remember the smile my first ballet recital put on my face and I move forward.',
-        'Andrea Thompson',
+        'Be as you wish to seem.',
+        'Socrates',
     ],
     [
-        'No matter how bad any situation, cynicism has no positive impact. Watching the news, you might notice that cynicism and victimhood often seem to go hand-in-hand, but not for veterans.',
-        'James Mattis',
+        'It\'s not just the \'Grammys\' that I\'ve pulled out of. I also pulled out of the English awards as well. The reason that I wanted to pull out was because I believe very much that the music industry as a whole is mainly concerned with material success.',
+        'Alanis Morissette',
     ],
     [
-        'Advice from my experience, for me, I\'ve never taken no as an answer, I don\'t believe in that. If I want something, I\'m going to get it. When people tell me that I can\'t do something, it just motivates me more. For me, it makes me smile, because I just want to prove everybody wrong.',
-        'Roman Reigns',
-    ],
-    [
-        'Whatever you may look like, marry a man your own age - as your beauty fades, so will his eyesight.',
-        'Phyllis Diller',
-    ],
-    [
-        'We have been educated into believing someone else\'s concept of the deity, and someone else\'s standard of beauty. You have the right to practice any religion and politics in a way that best suits your freedom, your dignity, and your understanding. And once you do that, you don\'t apologize.',
-        'John Henrik Clarke',
-    ],
-    [
-        'Sister is probably the most competitive relationship within the family, but once the sisters are grown, it becomes the strongest relationship.',
-        'Margaret Mead',
-    ],
-    [
-        'Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.',
+        'God always takes the simplest way.',
         'Albert Einstein',
     ],
     [
-        'If you can\'t explain it simply, you don\'t understand it well enough.',
-        'Albert Einstein',
+        'There\'s a picture of Christopher and the real Ken Titus and myself in my dressing room. He\'s a great guy, by the way. I just think the real Ken is just super. And he\'s so happy for his son\'s success.',
+        'Stacy Keach',
     ],
     [
-        'I think the healthy way to live is to make friends with the beast inside oneself, and that means not the beast but the shadow. The dark side of one\'s nature. Have fun with it and you know, is to accept everything about ourselves.',
-        'Anthony Hopkins',
+        'To me, the world\'s rather beautiful if you look at it. Especially nature.',
+        'David Hockney',
     ],
     [
-        'Desire is the most important factor in the success of any athlete.',
-        'Bill Shoemaker',
+        'It\'s funny. All you have to do is say something nobody understands and they\'ll do practically anything you want them to.',
+        'J. D. Salinger',
     ],
     [
-        'I think it\'s great to see how they\'ve grown up, not just as actors but as people. They\'re still very much the same kids that I met many years ago. They\'ve grown up and they are funny and wicked and naughty and bright, and I think as actors their work is just getting better and better. They\'ve blossomed.',
-        'David Heyman',
+        'There is nothing stronger in the world than gentleness.',
+        'Han Suyin',
     ],
     [
-        'Even in the centuries which appear to us to be the most monstrous and foolish, the immortal appetite for beauty has always found satisfaction.',
-        'Charles Baudelaire',
+        'When asked, \'How do you write?\' I invariably answer, \'one word at a time.\'',
+        'Stephen King',
     ],
     [
-        'I left my family, and I left my brother and sister, and I went and lived my dream. I saw everybody, but is it ever enough?',
-        'Joan Jett',
+        'The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.',
+        'Vince Lombardi',
     ],
     [
-        'I kind of resent this attitude of men that we somehow must always look good.',
-        'Sharon Gless',
+        'I want to go ahead of Father Time with a scythe of my own.',
+        'H. G. Wells',
     ],
     [
-        'I have no hostility to nature, but a child\'s love to it. I expand and live in the warm day like corn and melons.',
-        'Ralph Waldo Emerson',
+        'When I was a kid, no one would believe anything positive that you could say about black people. That\'s a terrible burden.',
+        'Kareem Abdul-Jabbar',
     ],
     [
-        'I always find beauty in things that are odd and imperfect - they are much more interesting.',
-        'Marc Jacobs',
+        'Millions of us, myself included, go back generations in this country, with ancestors who put in the painstaking work to become citizens. So we don\'t like the notion that anyone might get a free pass to American citizenship.',
+        'Barack Obama',
     ],
     [
-        'Innovation distinguishes between a leader and a follower.',
-        'Steve Jobs',
+        'I want to teach. I want to speak. I want to travel.',
+        'Hillary Clinton',
     ],
     [
-        'The only thing wrong with immortality is that it tends to go on forever.',
-        'Herb Caen',
+        'About astrology and palmistry: they are good because they make people vivid and full of possibilities. They are communism at its best. Everybody has a birthday and almost everybody has a palm.',
+        'Kurt Vonnegut',
     ],
     [
-        'I come from a coffee-loving family, and you can always tell when my sister and I have been around, because both of us collect all the dead coffee from everyone\'s morning cup, pour it over ice, and drink it. This is a disgusting habit.',
-        'Laurie Colwin',
+        'Our kindness may be the most persuasive argument for that which we believe.',
+        'Gordon Hinckley',
     ],
     [
-        'Most great people have attained their greatest success just one step beyond their greatest failure.',
-        'Napoleon Hill',
+        "Two roads diverged in a wood, and I\u{2014}I took the one less traveled by, And that has made all the difference.",
+        'Robert Frost',
     ],
     [
-        'It\'s funny. People often compare me to other humor essayists. They\'re usually quite nice comparisons; I will accept those gladly. But I am always sort of appalled at the idea of being lumped with other, more chick-y female writers. And the truth is probably that neither comparison is accurate.',
-        'Sloane Crosley',
+        'You can never control who you fall in love with, even when you\'re in the most sad, confused time of your life. You don\'t fall in love with people because they\'re fun. It just happens.',
+        'Kirsten Dunst',
     ],
     [
-        'Agriculture changes the landscape more than anything else we do. It alters the composition of species. We don\'t realize it when we sit down to eat, but that is our most profound engagement with the rest of nature.',
-        'Michael Pollan',
+        'Haiti is always talking about decentralization and nothing has been so obvious, perhaps a weakness, as the centralized nature of Haitian society as being revealed by the earthquake. I mean, they lost all these medical training programs because they didn\'t have them anywhere else.',
+        'Paul Farmer',
     ],
     [
-        'By believing passionately in something that does not yet exist, we create it.',
-        'Nikos Kazantzakis',
+        'Humor, for me, is really a gate of departure. It\'s a way of enticing a reader into a poem so that less funny things can take place later. It really is not an end in itself, but a means to an end.',
+        'Billy Collins',
     ],
     [
-        'I think that somebody with the resources and innovation and the idea is going to come out of nowhere and come up with a successful space travel program.',
-        'Kevin J. Anderson',
+        'Even when I see a beautiful woman, I think, \'Aw, her life must be amazing.\' Everyone does it. That\'s human nature to believe that beauty is everything.',
+        'Marina and the Diamonds',
     ],
     [
-        'Success is the sum of small efforts - repeated day in and day out.',
-        'Robert Collier',
+        'To explain all nature is too difficult a task for any one man or even for any one age. \'Tis much better to do a little with certainty &amp; leave the rest for others that come after you.',
+        'Isaac Newton',
+    ],
+    [
+        'Art is always and everywhere the secret confession, and at the same time the immortal movement of its time.',
+        'Karl Marx',
+    ],
+    [
+        'Best of all is it to preserve everything in a pure, still heart, and let there be for every pulse a thanksgiving, and for every breath a song.',
+        'Konrad von Gesner',
+    ],
+    [
+        'In masks outrageous and austere, The years go by in single file; But none has merited my fear, And none has quite escaped my smile.',
+        'Elinor Wylie',
+    ],
+    [
+        'The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.',
+        'Terry Pratchett',
     ],
 ];

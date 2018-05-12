@@ -2,103 +2,103 @@
 
 return [
     [
-        'Passion creates the desire for more and action fuelled by passion creates a future.',
-        'Byron Pulsifer',
+        'Those who say we should dismantle the role of Poet Laureate altogether, the trick they miss is that being called this thing, with the weight of tradition behind it, and with the association of the Royal family, does allow you to have conversations and to open doors, and wallets, for the good of poetry in a way that nothing else would allow.',
+        'Andrew Motion',
     ],
     [
-        'I don\'t expect to live forever, but I do intend to hang on as long as possible.',
-        'Socrates',
+        'Time can be an ally or an enemy. What it becomes depends entirely upon you, your goals, and your determination to use every available minute.',
+        'Zig Ziglar',
     ],
     [
-        'Someone remembers, someone cares; your name is whispered in someone\'s prayers.',
-        '',
+        'Never have more children than you have car windows.',
+        'Erma Bombeck',
     ],
     [
-        'A champion is someone who gets up when he can\'t.',
-        'Jack Dempsey',
+        'I don\'t like the word \'balance.\' To me, that somehow conjures up conflict between work and family... as long as we think of these things as conflicting, we will never have happiness. True happiness comes from integration... of work, family, self, community.',
+        'Padmasree Warrior',
     ],
     [
-        'Perhaps one of the only positive pieces of advice that I was ever given was that supplied by an old courtier who observed: Only two rules really count. Never miss an opportunity to relieve yourself; never miss a chance to sit down and rest your feet.',
-        'Edward VIII',
+        'Walking is man\'s best medicine.',
+        'Hippocrates',
     ],
     [
-        'I think the Cold War works as a great analogy or simile for different kinds of conflict. It\'s funny, when you look back at it, it\'s one of the last times that the boundaries were clear. Now, as we see on \'Homeland,\' there are no clear boundaries and enemies.',
-        'Matthew Rhys',
+        'I don\'t smile much, and I never laugh. If you\'d been through what I\'ve been through, you wouldn\'t be smiling, either.',
+        'Charlie Sifford',
     ],
     [
-        'It\'s like Forrest Gump said, \'Life is like a box of chocolates.\' Your career is like a box of chocolates - you never know what you\'re going to get. But everything you get is going to teach you something along the way and make you the person you are today. That\'s the exciting part - it\'s an adventure in itself.',
-        'Nick Carter',
-    ],
-    [
-        'In the West, it was believed that attitude and ambition saved you. In Africa, we had learned that no one was immune to capricious tragedy.',
-        'Alexandra Fuller',
-    ],
-    [
-        'Me carrying a briefcase is like a hotdog wearing earrings.',
-        'Sparky Anderson',
-    ],
-    [
-        'If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much beyond what you might have expected.',
+        'Well I think any author or musician is anxious to have legitimate sales of their products, partly so they\'re rewarded for their success, partly so they can go on and do new things.',
         'Bill Gates',
     ],
     [
-        'You have to defend your honor. And your family.',
-        'Suzanne Vega',
+        'I\'m not happy not doing anything. When positive things are rolling in, you\'ve got to take them when you can get them.',
+        'Tori Spelling',
     ],
     [
-        'A really great talent finds its happiness in execution.',
-        'Johann Wolfgang von Goethe',
+        'Very little is needed to make a happy life; it is all within yourself, in your way of thinking.',
+        'Aristotle',
     ],
     [
-        'You may only succeed if you desire succeeding; you may only fail if you do not mind failing.',
-        'Philippos',
+        'Clarity is the most important thing. I can compare clarity to pruning in gardening. You know, you need to be clear. If you are not clear, nothing is going to happen. You have to be clear. Then you have to be confident about your vision. And after that, you just have to put a lot of work in.',
+        'Diane von Furstenberg',
     ],
     [
-        'People who urge you to be realistic generally want you to accept their version of reality.',
-        'Unknown',
+        'Just try to be the best you can be; never cease trying to be the best you can be. That\'s in your power.',
+        'John Wooden',
     ],
     [
-        'I don\'t mind where I work, it\'s really nice to be able to travel around and taste the flavours of different countries.',
-        'Toni Collette',
+        'Because I have work to care about, it is possible that I may be less difficult to get along with than other women when the double chins start to form.',
+        'Gloria Steinem',
     ],
     [
-        'The common idea that success spoils people by making them vain, egotistic and self-complacent is erroneous; on the contrary it makes them, for the most part, humble, tolerant and kind.',
-        'W. Somerset Maugham',
+        'During their service, men and women in our Armed Forces live by a common creed, promising never to leave a soldier behind. We should live by the same principle. When our veterans are asked to travel hundreds of miles for care that\'s offered right next door, we simply aren\'t living up to that standard, and something has to change.',
+        'John Delaney',
     ],
     [
-        'The person who lives life fully, glowing with life\'s energy, is the person who lives a successful life.',
-        'Daisaku Ikeda',
+        'Always wear a smile sometime during the day - it makes you feel happier and look younger.',
+        'Kylie Bax',
     ],
     [
-        'Your performance depends on your people. Select the best, train them and back them. When errors occur, give sharper guidance. If errors persist or if the fit feels wrong, help them move on. The country cannot afford amateur hour in the White House.',
-        'Donald Rumsfeld',
+        'My objective is to be among the best.',
+        'Antoine Griezmann',
     ],
     [
-        'Cynical realism is the intelligent man\'s best excuse for doing nothing in an intolerable situation.',
-        'Aldous Huxley',
+        'Every great work, every big accomplishment, has been brought into manifestation through holding to the vision, and often just before the big achievement, comes apparent failure and discouragement.',
+        'Florence Scovel Shinn',
     ],
     [
-        'I had two family members involved in World War I: two great-uncles. One of them is on a memorial in France. And the other was a trench runner who survived the war. The average life span of a trench runner was 36 hours, but he survived the whole war.',
-        'Ben Barnes',
+        'Life is bigger than cinema. Cinema is just a part of life, so I never take success or failure seriously.',
+        'Pawan Kalyan',
     ],
     [
-        'There are two kinds of failures: those who thought and never did, and those who did and never thought.',
-        'Laurence J. Peter',
+        'I\'m an optimist, but an optimist who carries a raincoat.',
+        'Harold Wilson',
     ],
     [
-        'The most general law in nature is equity-the principle of balance and symmetry which guides the growth of forms along the lines of the greatest structural efficiency.',
-        'Herbert Read',
+        'Everyday life is like programming, I guess. If you love something you can put beauty into it.',
+        'Donald Knuth',
     ],
     [
-        'My father was an engineer and my mother was a social worker, and they met as young socialists. That probably tells you everything you need to know about my attitude to money - I\'ve never really been bothered about it.',
-        'Jo Brand',
+        'Youth smiles without any reason. It is one of its chiefest charms.',
+        'Thomas Gray',
     ],
     [
-        'When men have a smile on their faces, that does a lot for me.',
-        'Michelle Yeoh',
+        'I see travelling as a great learning process, and my biggest dream is to travel the world.',
+        'Pooja Hegde',
     ],
     [
-        'Boston is actually the capital of the world. You didn\'t know that? We breed smart-ass, quippy, funny people. Not that I\'m one of them. I just sorta sneaked in under the radar.',
-        'John Krasinski',
+        'Sorrows gather around great souls as storms do around mountains; but, like them, they break the storm and purify the air of the plain beneath them.',
+        'Jean Paul',
+    ],
+    [
+        'The best things in life are silly.',
+        'Scott Adams',
+    ],
+    [
+        'The definition of swagger, in my opinion, is you have to have that arrogance, that confidence that you are the best out there at all times.',
+        'Keyshawn Johnson',
+    ],
+    [
+        'People need to be cautious because anything built by man can be destroyed by Mother Nature.',
+        'Russel Honore',
     ],
 ];

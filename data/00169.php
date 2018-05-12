@@ -2,103 +2,103 @@
 
 return [
     [
-        'In the case of \'Ocean at the End of the Lane,\' it\'s a book about helplessness. It\'s a book about family, it\'s a book about being 7 in a world of people who are bigger than you, and more dangerous, and stepping into territory that you don\'t entirely understand.',
-        'Neil Gaiman',
+        'With just about every player in Australia, his whole goal and ambition is to play for Australia. That\'s why they\'re playing first class cricket. It\'s just a different attitude.',
+        'Shane Warne',
     ],
     [
-        'Atoms consist of a positive nucleus and negative electrons flying around outside it. Electrons closest to the nucleus feel a strong negative-on-positive tug, and the bigger atoms get, the bigger the tug. In really big atoms, electrons whip around at speeds close to the speed of light.',
-        'Sam Kean',
+        'The beautiful thing about the NFL season is to see a team come together after they get to know each other in the spring and summer. You then go through adversity together and see how you respond. The teams that can respond in a positive way are the teams that are going to be there in the end.',
+        'Aaron Rodgers',
+    ],
+    [
+        'One life is all we have and we live it as we believe in living it. But to sacrifice what you are and to live without belief, that is a fate more terrible than dying.',
+        'Helen Keller',
+    ],
+    [
+        'Be proud of your Latino culture and do the best work you can do, and you will always succeed.',
+        'Lionel Sosa',
+    ],
+    [
+        'Don\'t be afraid to give up the good to go for the great.',
+        'John D. Rockefeller',
+    ],
+    [
+        'I am really close to my family. My cousin is my best friend!',
+        'Daniella Monet',
+    ],
+    [
+        'If you spend your whole life waiting for the storm, you\'ll never enjoy the sunshine.',
+        'Michael Jordan',
+    ],
+    [
+        'My first ever job after college was as a flight attendant. I wanted to travel and could not afford it, so I decided to get myself a job where I could travel. I did it for two years and had great fun.',
+        'Jacqueline Winspear',
+    ],
+    [
+        'My parents and my grandfather on my mom\'s side would travel the earth. They went to Australia and China, and they went to probably every soccer game I ever played.',
+        'Brandi Chastain',
+    ],
+    [
+        'Birds sing after a storm; why shouldn\'t people feel as free to delight in whatever sunlight remains to them?',
+        'Rose Kennedy',
+    ],
+    [
+        'Part of our tradition as black women is that we are universalists. Black children, yellow children, red children, brown children, that is the black woman\'s normal, day-to-day relationship. In my family alone, we are about four different colors.',
+        'Alice Walker',
+    ],
+    [
+        'Don\'t allow your wounds to turn you into a person you are not.',
+        'Paulo Coelho',
+    ],
+    [
+        'My family and friends were definitely the key to my recovery. One thing that I do suggest is that anyone dealing with a life-threatening illness like cancer choose a point person for people to call to find out how you are doing - a sister, brother, mother, father, daughter, son, or close friend.',
+        'Olivia Newton-John',
+    ],
+    [
+        'There is no definition of beauty, but when you can see someone\'s spirit coming through, something unexplainable, that\'s beautiful to me.',
+        'Liv Tyler',
+    ],
+    [
+        'I think that success is having fun.',
+        'Bruno Mars',
+    ],
+    [
+        'Somehow, the greater the public opposition to the health care bill, the more determined they seem to force it on us anyway. Their attitude shows Washington at its very worst - the presumption that they know best, and they\'re going to get their way whether the American people like it or not.',
+        'Scott Brown',
+    ],
+    [
+        'The suburbs are the American dream, right? Living in a nice house, having a good job, a happy family.',
+        'Cheryl Hines',
+    ],
+    [
+        'On the floor I am more at ease. I feel nearer, more part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting.',
+        'Jackson Pollock',
+    ],
+    [
+        'At the age of 18, I made up my mind to never have another bad day in my life. I dove into a endless sea of gratitude from which I\'ve never emerged.',
+        'Patch Adams',
+    ],
+    [
+        'I must govern the clock, not be governed by it.',
+        'Golda Meir',
+    ],
+    [
+        'Allowing yourself to smile takes 99% of the effort.',
+        'Simon Travaglia',
+    ],
+    [
+        'Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.',
+        'Buddha',
+    ],
+    [
+        'Anything that won\'t sell, I don\'t want to invent. Its sale is proof of utility, and utility is success.',
+        'Thomas A. Edison',
+    ],
+    [
+        'Dost thou love life? Then do not squander time, for that is the stuff life is made of.',
+        'Benjamin Franklin',
     ],
     [
         'Never apologize for showing feeling. When you do so, you apologize for truth.',
         'Benjamin Disraeli',
-    ],
-    [
-        'It was through the private world of family that the public world of politics came alive for me: living in intimate proximity with people for whom larger questions of ideology and belief, as well as issues relating to politics and governance, were vivid daily realities.',
-        'Sonia Gandhi',
-    ],
-    [
-        'Nobody controls me. I travel with my husband when I can, when I know that I can go, and I know that my son is okay alone for a few days with the help.',
-        'Melania Trump',
-    ],
-    [
-        'The reason most people never reach their goals is that they don\'t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.',
-        'Denis Waitley',
-    ],
-    [
-        'The same people who smile in my face would be the same ones to talk behind my back.',
-        'Timbaland',
-    ],
-    [
-        'I definitely have the eye of the tiger. I\'ve fought my way to where I am and will continue to do so. I\'m a hard worker - I get it from my family. We only know work. Nothing was handed to us. When I believe in something, I go after it. It\'s very hard to tell me \'no.\'',
-        'Nicole Scherzinger',
-    ],
-    [
-        'Happiness is a perfume you cannot pour on others without getting a few drops on yourself.',
-        'Ralph Waldo Emerson',
-    ],
-    [
-        'Talent alone won\'t make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: \'Are your ready?\'',
-        'Johnny Carson',
-    ],
-    [
-        'Every corny thing that\'s said about living with nature - being in harmony with the earth, feeling the cycle of the seasons - happens to be true.',
-        'Susan Orlean',
-    ],
-    [
-        'A lot of times I find that people who are blessed with the most talent don\'t ever develop that attitude, and the ones who aren\'t blessed in that way are the most competitive and have the biggest heart.',
-        'Tom Brady',
-    ],
-    [
-        'Ever since I was 2 or 3, I loved to perform for people. I would walk up to another table in a restaurant and crack a joke, sing a song, do a dance, or something entertaining, and the \'audience\' would almost always smile and laugh.',
-        'Maxim Knight',
-    ],
-    [
-        'I had a really bad temper, when I was growing up. Sport helped me channel that temper into more positive acts.',
-        'Mike Krzyzewski',
-    ],
-    [
-        'All my music is inspirational. You just gotta listen to the words and get what you can get out of it.',
-        'Young Jeezy',
-    ],
-    [
-        'War is a game that is played with a smile. If you can\'t smile, grin. If you can\'t grin, keep out of the way till you can.',
-        'Winston Churchill',
-    ],
-    [
-        'No family gets rich from earning the minimum wage. In fact, the current minimum wage does not even lift a family out of poverty.',
-        'Jon Corzine',
-    ],
-    [
-        'You know when someone\'s over-flattering you in a way. You smile but you can\'t believe it.',
-        'Laura Linney',
-    ],
-    [
-        '\'Closed timelike curve\' is the jargon for time travel. It means you go out, come back and meet yourself in the past.',
-        'Kip Thorne',
-    ],
-    [
-        'You can\'t cross the sea merely by standing and staring at the water.',
-        'Rabindranath Tagore',
-    ],
-    [
-        'Scarlett Johansson has a smile she tries to suppress in every movie she makes. She\'s been trying to keep a straight face since she appeared with Bill Murray 11 years ago in her breakthrough, \'Lost in Translation.\'',
-        'Steve Erickson',
-    ],
-    [
-        'In some way, people believe that if you are permeable, if you are a good listener, you don\'t have the quality of somebody with a firm attitude. This is what, fundamentally, I got from my mother.',
-        'Renzo Piano',
-    ],
-    [
-        'Three of the brightest baseball pitchers of their times staged comebacks without much success - David Cone, Jim Bouton and Jim Palmer - but there was room to admire their quixotic gesture.',
-        'George Vecsey',
-    ],
-    [
-        'Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.',
-        'Walt Disney',
-    ],
-    [
-        'To lead people walk behind them.',
-        'Lao Tzu',
     ],
 ];

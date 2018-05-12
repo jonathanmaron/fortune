@@ -2,103 +2,103 @@
 
 return [
     [
-        'I tell young entrepreneurs to use the leader in their industry and as a benchmark as they work to create their own brand. Don\'t look at what your competition is doing - if you emulate the leader in your industry, you will achieve a higher level of engagement with consumers and make their buying experience richer.',
-        'Steve Stoute',
+        'The human brain is a funny thing: it\'s very susceptible to tempo and melody. You put the right words to it, and it becomes very influential.',
+        'Ray Stevens',
     ],
     [
-        'For those who have made the ultimate sacrifice, we are grateful that such men and women were among us. For those who continue to serve, we honor their commitment. For those who return to civilian life, we honor their service.',
-        'Leo Tolstoy',
+        'In terms of my marriage, you know, falling in love with my husband was by far the best thing that\'s ever happened to me.',
+        'Caroline Kennedy',
     ],
     [
-        'I fell in love with Erica Kane the summer before my freshman year of high school. Like all red-blooded teen American boys, I\'d come home from water polo practice and eat a box of Entenmann\'s Pop\'Ems donut holes in front of the TV while obsessively fawning over \'All My Children\' and Erica, her clothes, and her narcissistic attitude.',
-        'Andy Cohen',
+        'One study found that people who smile in childhood photographs are less likely to get a divorce.',
+        'Jenna McCarthy',
     ],
     [
-        'Politeness and civility are the best capital ever invested in business. Large stores, gilt signs, flaming advertisements, will all prove unavailing if you or your employees treat your patrons abruptly. The truth is, the more kind and liberal a man is, the more generous will be the patronage bestowed upon him.',
-        'P. T. Barnum',
+        'Art, whatever form it takes, requires hard work, craftsmanship and creativity. As a writer, I know my grammar, cadence, the music of prose, and the art of the narrative.',
+        'F. Sionil Jose',
     ],
     [
-        'My attitude is that, if you have nothing to hide, why not show it?',
-        'Bradley Wiggins',
+        'I never laugh or smile when I am writing. When I come home for lunch after writing all morning, my wife says I look like I just came home from a funeral. This is not bragging. This is an illness.',
+        'Carl Hiaasen',
     ],
     [
-        'Im not in this world to live up to your expectations and you\'re not in this world to live up to mine.',
-        'Bruce Lee',
+        'To wake up to the sound of my son saying \'Mama, mama!\' It\'s the best sound ever.',
+        'Miranda Kerr',
     ],
     [
-        'High heels are like a beauty lift. In a flat, you can feel beautiful, but a stiletto changes your mood, how you move - like a wild, beautiful animal. The idea was always to follow a woman\'s wardrobe, her desires.',
-        'Giuseppe Zanotti',
+        'I\'m an actor. Since I was a teenager, I have had to play different characters, negotiating the cultural expectations of a Pakistani family, Brit-Asian rudeboy culture, and a scholarship to private school. The fluidity of my own personal identity on any given day was further compounded by the changing labels assigned to Asians in general.',
+        'Riz Ahmed',
     ],
     [
-        'In a gentle way, you can shake the world.',
-        'Mahatma Gandhi',
+        'Every man\'s life is a fairy tale written by God\'s fingers.',
+        'Hans Christian Andersen',
     ],
     [
-        'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
-        'Buddha',
+        'What I like to do is try to make a difference with the work I do.',
+        'David Bowie',
     ],
     [
-        'All life demands struggle. Those who have everything given to them become lazy, selfish, and insensitive to the real values of life. The very striving and hard work that we so constantly try to avoid is the major building block in the person we are today.',
-        'Pope Paul VI',
+        'I take care of my flowers and my cats. And enjoy food. And that\'s living.',
+        'Stephen Covey',
     ],
     [
-        'Sweat, sweat, sweat! Work and sweat, cry and sweat, pray and sweat!',
-        'Zora Neale Hurston',
+        'Pay attention to the beauty surrounding you.',
+        'Anne Lamott',
     ],
     [
-        'Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.',
-        'Sue Patton Thoele',
+        'You need three things to win: discipline, hard work and, before everything maybe, commitment. No one will make it without those three. Sport teaches you that.',
+        'Haile Gebrselassie',
     ],
     [
-        'People fall forward to success.',
-        'Mary Kay Ash',
+        'Whatever the mind of man can conceive and believe, it can achieve.',
+        'Napoleon Hill',
     ],
     [
-        'The higher the better. It\'s more about an attitude. High heels empower women in a way.',
-        'Christian Louboutin',
+        'Do something wonderful, people may imitate it.',
+        'Albert Schweitzer',
     ],
     [
-        'I have a lot of friends, but my biggest fear is loneliness. I miss my family in Mumbai, and my biggest nightmare every day is to go back home alone.',
-        'Deepika Padukone',
-    ],
-    [
-        'It\'s so hard not to smile.',
-        'Zoe Sugg',
+        'Have regular hours for work and play; make each day both useful and pleasant, and prove that you understand the worth of time by employing it well. Then youth will be delightful, old age will bring few regrets, and life will become a beautiful success.',
+        'Louisa May Alcott',
     ],
     [
         'Hopefully, when people see \'Senna\', they will understand why this inspirational story needed to be told, why it had to be made as a movie for the big screen, and why it is a film for everyone.',
         'Asif Kapadia',
     ],
     [
-        'What we think, we become.',
-        'Buddha',
+        'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
+        'Albert Einstein',
     ],
     [
-        'Jesus wept; Voltaire smiled. From that divine tear and from that human smile is derived the grace of present civilization.',
-        'Victor Hugo',
+        'I play guys who never smile, and I never stop smiling.',
+        'Michael Joseph Kelly',
     ],
     [
-        'I love dressing up. It\'s the best part of being a girl, I think.',
-        'Emma Roberts',
+        'Married couples who work together to build and maintain a business assume broad responsibilities. Not only is their work important to our local and national economies, but their success is central to the well-being of their families.',
+        'Melissa Bean',
     ],
     [
-        'Along with success comes a reputation for wisdom.',
-        'Euripides',
+        'I think the word \'pregnant\' is funny.',
+        'Tracy Morgan',
     ],
     [
-        'What has happened to the good old-fashioned travel agent? I want to go to a really posh travel agent and have them organise everything for me. I don\'t want to do things on the Internet.',
-        'Jenny Eclair',
+        'I wrote \'(\'Til) I Kissed You\' about a girl I met in Australia. Her name was Lilian, and she was very, very inspirational. I was married, but... I wrote the song about her on the way back home.',
+        'Don Everly',
     ],
     [
-        'When I go away to do a movie, I bring the blanket I\'ve had since I was a little girl. It helps me sleep. I also always bring my laptop so I can E-mail friends. And I bring my dog, Beauty, wherever I can.',
-        'Kirsten Dunst',
+        'It\'s not too good to have this attitude in F1. It could be a disadvantage.',
+        'Alain Prost',
     ],
     [
-        'I look my best when I take my helmet off after a long motorcycle ride. I have a glow and a bit of helmet hair.',
-        'Eric Bana',
+        'I love holidays. It\'s such a wonderful time for the whole family to be together and not have to worry about schedules and that kind of thing.',
+        'Toni Collette',
     ],
     [
-        'The superior man makes the difficulty to be overcome his first interest; success only comes later.',
-        'Confucius',
+        'New beginnings are often disguised as painful endings.',
+        'Lao Tzu',
+    ],
+    [
+        'My very best friend died in a car accident when I was 16 years old. That was the hardest blow emotionally that I have ever had to endure. Suddenly, you realize tomorrow might not come. Now I live by the motto, \'Today is what I have.\'',
+        'Amber Heard',
     ],
 ];

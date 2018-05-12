@@ -2,103 +2,103 @@
 
 return [
     [
-        'You\'re beautiful, like a May fly.',
-        'Ernest Hemingway',
+        'I get invited to many more literary festivals than I used to because I\'m associated with \'Slumdog Millionaire,\' the brand. Many more doors have opened up for me as a result of the global success of the film, although I believe that I\'m the same person that existed before it.',
+        'Vikas Swarup',
     ],
     [
-        'All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.',
-        'Kathleen Norris',
+        'I\'m not a DJ, I don\'t know how to scratch and I don\'t know how to mix, but I do know how to party. One of my jobs is actually to travel the world and party.',
+        'Amber Rose',
     ],
     [
-        'Happiness resides not in possessions, and not in gold, happiness dwells in the soul.',
-        'Democritus',
+        'If you\'ve got a talent, protect it.',
+        'Jim Carrey',
     ],
     [
-        'I think it was my mom\'s attitude about art and being part of the narcissistic digital generation or whatever that made me think anyone would care what I had to say about anything!',
-        'Tavi Gevinson',
+        'We are all full of weakness and errors; let us mutually pardon each other our follies - it is the first law of nature.',
+        'Voltaire',
     ],
     [
-        'If you travel to the States... they have a lot of different words than like what we use. For instance: they say \'elevator\', we say \'lift\'; they say \'drapes\', we say \'curtains\'; they say \'president\', we say \'seriously deranged git.\'',
-        'Alexei Sayle',
+        'To travel is to take a journey into yourself.',
+        'Danny Kaye',
     ],
     [
-        'The poetry of the earth is never dead.',
-        'John Keats',
+        'The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.',
+        'Margaret Smith',
     ],
     [
-        'Thought is the wind, knowledge the sail, and mankind the vessel.',
-        'Augustus Hare',
+        'Self-belief and hard work will always earn you success.',
+        'Virat Kohli',
     ],
     [
-        'The measure of who we are is what we do with what we have.',
+        'The beauty comes with the balance. Everyone should find his own balance in his personal as well as his professional life. Once you do so, you will feel and look beautiful.',
+        'Karolina Kurkova',
+    ],
+    [
+        'My problem is that I think everybody needs to work as hard as I worked when I was in my prime.',
+        'Ric Flair',
+    ],
+    [
+        'Never continue in a job you don\'t enjoy. If you\'re happy in what you\'re doing, you\'ll like yourself, you\'ll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined.',
+        'Johnny Carson',
+    ],
+    [
+        'If you\'ll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.',
         'Vince Lombardi',
     ],
     [
-        'Our greatness lies not so much in being able to remake the world as being able to remake ourselves.',
-        'Mahatma Gandhi',
+        'If you don\'t die of thirst, there are blessings in the desert. You can be pulled into limitlessness, which we all yearn for, or you can do the beauty of minutiae, the scrimshaw of tiny and precise. The sky is your ocean, and the crystal silence will uplift you like great gospel music, or Neil Young.',
+        'Anne Lamott',
     ],
     [
-        'My father... gave me a positive connection with men because he is a gentleman.',
-        'Iman',
+        'Experience is not what happens to a man. It is what a man does with what happens to him.',
+        'Aldous Huxley',
     ],
     [
-        'It\'s time to end the cruel slaughter of whales and leave these magnificent creatures alone.',
-        'Paul McCartney',
+        'Players should know that if you can\'t make the contribution of the winning shot, that your attitude every day when you come to practice, or the positive contribution you make through cheering and keeping up team morale, is just as important in the overall picture.',
+        'Sue Wicks',
     ],
     [
-        'What is a scientist after all? It is a curious man looking through a keyhole, the keyhole of nature, trying to know what\'s going on.',
-        'Jacques Yves Cousteau',
+        'Diligence is the mother of good fortune.',
+        'Benjamin Disraeli',
     ],
     [
-        'I relax by catching up with my friends and family. When I am at home in Ibiza, I find the contrast of living on a divided island relaxing - with beauty and tranquillity in the north and a sense of fun, shallowness and celebration in the south.',
-        'James Blunt',
+        'I try to keep a positive intention and use whatever resources I have to benefit others. I try to create businesses that I think are not hurtful. I try to do things that I think are helpful to the environment, to the animals, and to the planet.',
+        'Russell Simmons',
     ],
     [
-        'The drawings in \'Portal\' were actually me scribbling that stuff... I had a funny moment when I realized that someone gotten \'The cake is a lie\' tattooed on themselves. It was really interesting to see my handwriting tattooed on another human being. That... that\'s odd.',
-        'Kim Swift',
+        'As long as you think your past is bad you must be improving',
+        'Louis C.K',
     ],
     [
-        'Nature is so powerful, so strong. Capturing its essence is not easy - your work becomes a dance with light and the weather. It takes you to a place within yourself.',
-        'Annie Leibovitz',
+        'Good news doesn\'t necessarily have to be a positive thing. Bringing good news is imparting hope to one\'s fellow man.',
+        'Patti Smith',
     ],
     [
-        'My boy, one small breeze doesn\'t make a wind storm.',
-        'John McGraw',
+        'Having a baby is one of the most wonderful things in your life, as well as the hardest thing in your life.',
+        'Tom Welling',
     ],
     [
-        'Knock the \'t\' off the \'can\'t\'',
-        'George Reeves',
+        'After a lifetime of world travel I\'ve been fascinated that those in the third world don\'t have the same perception of reality that we do.',
+        'Jim Harrison',
     ],
     [
-        'Do your little bit of good where you are; it\'s those little bits of good put together that overwhelm the world.',
-        'Desmond Tutu',
+        'I thought \'Moulin Rouge\' was inspirational, and \'Jesus Christ Superstar\' I loved.',
+        'Pierce Brosnan',
     ],
     [
-        'Fifty years of isolating Cuba had failed to promote democracy, setting us back in Latin America. That\'s why we restored diplomatic relations, opened the door to travel and commerce, and positioned ourselves to improve the lives of the Cuban people.',
-        'Barack Obama',
+        'I had two family members involved in World War I: two great-uncles. One of them is on a memorial in France. And the other was a trench runner who survived the war. The average life span of a trench runner was 36 hours, but he survived the whole war.',
+        'Ben Barnes',
     ],
     [
-        'When I meet with the founders of a new company, my advice is almost always, \'Do fewer things.\' It\'s true of partnerships, marketing opportunities, anything that\'s taking up your time. The vast majority of things are distractions, and very few really matter to your success.',
-        'Evan Williams',
+        'To him who in the love of Nature holds Communion with her visible forms, she speaks A various language.',
+        'William C. Bryant',
     ],
     [
-        'We choose our destiny in the way we treat others.',
-        'Wit',
+        'When I was a kid I used to pray every night for a new bicycle. Then I realised that the Lord doesn\'t work that way so I stole one and asked Him to forgive me.',
+        'Emo Philips',
     ],
     [
-        'Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.',
-        'Epictetus',
-    ],
-    [
-        'Maybe it\'s just parenthood that puts you in a situation where you just have to develop a new attitude, I guess, about things.',
-        'James Mercer',
-    ],
-    [
-        'I had ordered long legs, but they never arrived. My eyes are weird too, one is gray and the other is green. I have a crooked smile and my nose looks like a ski slope. No, I would not win a Miss contest.',
-        'Jane Seymour',
-    ],
-    [
-        'Indomitable perseverance in a business, properly understood, always ensures ultimate success.',
-        'Cyrus McCormick',
+        'We can\'t help everyone, but everyone can help someone.',
+        'Ronald Reagan',
     ],
 ];

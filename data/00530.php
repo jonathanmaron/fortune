@@ -2,103 +2,103 @@
 
 return [
     [
-        'From 2002-2008, Planned Parenthood received $342 million in federal taxpayer money through Title X funding alone. With these funds, Planned Parenthood has provided women throughout the U.S. with important family planning and contraceptive services as well as screening for breast and cervical cancers for low-income women.',
-        'Lisa Murkowski',
+        'On Earth Day, we celebrate all the gifts the world and nature make available to us. We recognize our complete dependence on its bounty. And we acknowledge the need for good stewardship to preserve its fruits for future generations.',
+        'John Hoeven',
     ],
     [
-        'I\'m just working and having a good time and seeing what develops, which is so awesome, because you don\'t know what\'s going to happen, and I\'m letting myself do that a lot more than I ever have.',
-        'Kathleen Hanna',
+        'My guiding principles in life are to be honest, genuine, thoughtful and caring.',
+        'Tom Brady',
     ],
     [
-        'In three words I can sum up everything Ive learned about life: it goes on.',
-        'Robert Frost',
+        'Leadership means that a group, large or small, is willing to entrust authority to a person who has shown judgment, wisdom, personal appeal, and proven competence.',
+        'Walt Disney',
     ],
     [
-        'Sunset is still my favorite color, and rainbow is second.',
-        'Mattie Stepanek',
+        'Almost everything comes from nothing.',
+        'Henri Amiel',
     ],
     [
-        'Wealth is the ability to fully experience life.',
-        'Solomon Ortiz',
+        'There\'s a difference between beauty and charm. A beautiful woman is one I notice. A charming woman is one who notices me.',
+        'John Erskine',
     ],
     [
-        'For many years, I hated nature. As a student, I refused to put a plant anywhere - a living plant, that is. Dead plants were OK.',
-        'Zaha Hadid',
+        'The embarrassment of a situation can, once you are over it, be the funniest time in your life. And I suppose a lot of my comedy comes from painful moments or experiences in life, and you just flip them on their head.',
+        'Miranda Hart',
     ],
     [
-        'One of the things that people don\'t realize is that that natural beauty, those recreational forests, they have an economic development impact for the state as well.',
-        'Ed Rendell',
+        'Don\'t give up, Today is hard. Tomorrow will be worse. Day after tomorrow will be sunshine.',
+        'Jack Ma',
     ],
     [
-        "Acting like you don\u{92}t care is not letting it go",
-        'Penelope Douglas',
+        'And we can see the positive impacts right here at Solyndra. Less than a year ago, we were standing on what was an empty lot. But through the Recovery Act, this company received a loan to expand its operations. This new factory is the result of those loans.',
+        'Barack Obama',
     ],
     [
-        'I think writing is really about a journey of understanding. So you take something that seems very far away, and the more you write about it, the more you travel into it, and you see it from within.',
-        'Pico Iyer',
+        'We have the ability to craft a life where we are completely fulfilled. We think it is dependent on outsiders, and to some extent it is, but it is much more dependent on the attitude we bring to life.',
+        'Srikumar Rao',
     ],
     [
-        'He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.',
-        'Tryon Edwards',
+        'A ship in port is safe, but that\'s not what ships are built for.',
+        'Grace Hopper',
     ],
     [
-        'If you want to really know what your friends and family think of you die broke, and then see who shows up for the funeral.',
-        'Gregory Nunn',
+        'Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.',
+        'Alphonse Karr',
     ],
     [
-        'Our subliminal mental processes operate outside awareness because they arise in these portions of our mind that are inaccessible to our conscious self; their inaccessibility is due to the architecture of the brain rather than because they have been subject to Freudian motivational forces like repression.',
-        'Leonard Mlodinow',
+        'Applause waits on success.',
+        'Benjamin Franklin',
     ],
     [
-        'I make these little films. I\'m just a working person. I just study people a little bit more. It\'s more sociological, and it\'s funny anyway - not that serious. It\'s not like false humility. I just take it for what it is.',
-        'Julie Delpy',
+        'My parents were kind of over protective people. Me and my sister had to play in the backyard all the time. They bought us bikes for Christmas but wouldn\'t let us ride in the street, we had to ride in the backyard. Another Christmas, my dad got me a basketball hoop and put it in the middle of the lawn! You can\'t dribble on grass.',
+        'Jimmy Fallon',
     ],
     [
-        'With all the travel we\'re doing to cold-weather cities, your mind definitely starts to wander. It gets you away from the game. Even when you arrive in a city, you\'re tempted to just sit in your hotel and rest. Sometimes it\'s nice to just get out and walk around, to see what\'s there.',
-        'Stephen Curry',
+        'We are time\'s subjects, and time bids be gone.',
+        'William Shakespeare',
     ],
     [
-        'I think we live in a world where the most important thing is daily life: sharing a space with your family, making meals, being with your people. It\'s not only the idea of privacy, it\'s the beauty of the moment, at a time in the world when everything goes really fast - too fast.',
-        'Ana Tijoux',
+        'Hollywood needs to recognise all shades of African American beauty.',
+        'Gabrielle Union',
     ],
     [
-        'Everyone has a different beauty and different qualities and I think that women need to learn to love their qualities and be comfortable in the fact that everyone is different.',
-        'Miranda Kerr',
+        'I\'ve never had any prima donna attitude against me. It\'s always been very respectful.',
+        'Rey Mysterio',
     ],
     [
-        'I try to say I love you in a million different ways. That\'s what I aspire to do. That\'s what I do best.',
-        'Christine McVie',
-    ],
-    [
-        'If you believe that your best years are behind you, you\'ve guaranteed they are; I\'m going to dance into that good night, with the oldies turned up loud.',
-        'Gina Barreca',
-    ],
-    [
-        'It is best for the wise man not to seem wise.',
-        'Aeschylus',
-    ],
-    [
-        'When you run the marathon, you run against the distance, not against the other runners and not against the time.',
-        'Haile Gebrselassie',
-    ],
-    [
-        'I was brought up on a farm, and I\'ve learned that every opportunity that I\'ve had in my life has come from hard work and persistence.',
-        'Susan Bysiewicz',
-    ],
-    [
-        'You can make positive deposits in your own economy every day by reading and listening to powerful, positive, life-changing content and by associating with encouraging and hope-building people.',
+        'You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations.',
         'Zig Ziglar',
     ],
     [
-        'Society develops wit, but its contemplation alone forms genius.',
-        'Madame de Stael',
+        'My favourite beauty look is definitely \'70s beauty - sun kissed skin, wavy hair and defined eyes.',
+        'Erin Heatherton',
     ],
     [
-        'Beauty is not in the face; beauty is a light in the heart.',
-        'Kahlil Gibran',
+        'The new midlife is where you realize that even your failures make you more beautiful and are turned spiritually into success if you became a better person because of them. You became a more humble person. You became a more merciful and compassionate person.',
+        'Marianne Williamson',
     ],
     [
-        'If you get up one more time than you fall, you will make it through',
-        'Chinese Proverb',
+        'No matter what else is going on, Christmas is my all-time favorite period in the year. It has a positive effect on me like very little else does, seasonally, that is.',
+        'Rush Limbaugh',
+    ],
+    [
+        'I have an idea of who I want to be, I have a vision of my own success.',
+        'Wiz Khalifa',
+    ],
+    [
+        'Taxation is the price we pay for failing to build a civilized society. The higher the tax level, the greater the failure. A centrally planned totalitarian state represents a complete defeat for the civilized world, while a totally voluntary society represents its ultimate success.',
+        'Mark Skousen',
+    ],
+    [
+        'The thing we often forget to talk about, or perhaps we take for granted, is our country\'s dazzling beauty. Our natural environment is so much a part of Australia\'s art, writing, music and culture, both indigenous and non indigenous.',
+        'Quentin Bryce',
+    ],
+    [
+        'My experience has been that work is almost the best way to pull oneself out of the depths.',
+        'Eleanor Roosevelt',
+    ],
+    [
+        'Unilever, Nestle and SAB Miller are all taking a long-term approach to investing in sustainable resource consumption. Each is driving through better resource management, which is expected to yield positive returns in the future.',
+        'Jacob Rothschild',
     ],
 ];

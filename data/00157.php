@@ -2,103 +2,103 @@
 
 return [
     [
-        'I absolutely love my son and family - they are my life and always come first.',
-        'Jason Day',
+        'I think it\'s very important for writers and artists generally to be witnesses to the world, and to be transparent. To let other people speak... to travel... to experience the world. And memorialize it.',
+        'Joyce Carol Oates',
     ],
     [
-        'If you are not willing to risk the usual you will have to settle for the ordinary.',
-        'Jim Rohn',
+        'There\'s no lotion or potion that will make sales faster and easier for you - unless your potion is hard work.',
+        'Jeffrey Gitomer',
     ],
     [
-        'If you don\'t die of thirst, there are blessings in the desert. You can be pulled into limitlessness, which we all yearn for, or you can do the beauty of minutiae, the scrimshaw of tiny and precise. The sky is your ocean, and the crystal silence will uplift you like great gospel music, or Neil Young.',
-        'Anne Lamott',
+        'Removing all stimulation around you is a really positive thing in terms of stimulating your creativity.',
+        'Grimes',
     ],
     [
-        'In life, there is always that special person who shapes who you are, who helps to determine the person you become.',
-        'Woody Allen',
+        'So is cheerfulness, or a good temper, the more it is spent, the more remains.',
+        'Ralph Emerson',
     ],
     [
-        'I travel without barely any luggage. Just a second set of underwear and binoculars and a map and a toothbrush.',
-        'Werner Herzog',
-    ],
-    [
-        'When you rise in the morning, give thanks for the light, for your life, for your strength. Give thanks for your food and for the joy of living. If you see no reason to give thanks, the fault lies in yourself.',
-        'Leo Buscaglia',
-    ],
-    [
-        'To be what we are, and to become what we are capable of becoming, is the only end of life.',
-        'Robert Stevenson',
-    ],
-    [
-        'I like to travel in jeans because I don\'t want to wallow around in my suit, you know? They cost too much. Jeans are comfortable.',
-        'Louie Gohmert',
-    ],
-    [
-        'If you want small changes in your life, work on your attitude. But if you want big and primary changes, work on your paradigm.',
-        'Stephen Covey',
-    ],
-    [
-        'A family with the wrong members in control; that, perhaps, is as near as one can come to describing England in a phrase.',
-        'George Orwell',
-    ],
-    [
-        'If a man does his best, what else is there?',
+        'Accept the challenges so that you can feel the exhilaration of victory.',
         'George S. Patton',
     ],
     [
-        'I am all for the short and merry life.',
-        'Henry David Thoreau',
+        'The arts, quite simply, nourish the soul. They sustain, comfort, inspire. There is nothing like that exquisite moment when you first discover the beauty of connecting with others in celebration of larger ideals and shared wisdom.',
+        'Gordon Gee',
     ],
     [
-        'It is one of the most effective attitudes of the neurotic to measure thumbs down, so to speak, a real person by an ideal, since in doing so he can depreciate him as much as he wishes.',
-        'Alfred Adler',
+        'Be yourself; everyone else is already taken.',
+        'Oscar Wilde',
     ],
     [
-        'You know, it wasn\'t even that I\'m a funny guy, I just loved stand-up comedy and I wanted to do it. It was one of the few things in my life that I knew I was going to be able to do, and I also felt as though I\'d be able to do it the way I wanted to do it.',
-        'Bill Burr',
+        'When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.',
+        'Wilma Rudolph',
     ],
     [
-        'Flowers are an easy, eloquent expression of love at a time when words can seem clumsy and inadequate.',
-        'Lynn Coady',
+        'I\'m not actually a mom in real life, so it\'s fun to pretend to be one. I like to approach things the same in art as in life. You can choose to look on the positive side and enjoy whatever roles you\'re given. You can find the silver lining in anything.',
+        'Heather Graham',
     ],
     [
-        'Don\'t settle for a relationship that won\'t let you be yourself.',
-        'Oprah Winfrey',
+        'Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.',
+        'Max Planck',
     ],
     [
-        'Time is what prevents everything from happening at once.',
-        'John Archibald Wheeler',
+        'I don\'t want any title. I just say what I say, and hopefully somebody gets it, man. I\'m not perfect, and I\'m just here and trying to make a dollar, and being real at the same time, you know?',
+        'Nas',
     ],
     [
-        'Being stylish is about enjoying your life and expressing yourself and your inner light.',
-        'Paulo Coelho',
+        'You and I come by road or rail, but economists travel on infrastructure.',
+        'Margaret Thatcher',
     ],
     [
-        'People grow through experience if they meet life honestly and courageously. This is how character is built.',
-        'Bobby Brown',
+        'I find beauty in the grotesque, like most artists.',
+        'Alexander McQueen',
     ],
     [
-        'My favorite type of pet has always been a dog. They\'re loyal, kind, and offer endless affection. My friend Eric says, \'The more people I meet, the more I like my dog.\' Funny thought.',
-        'Brendon Urie',
+        'People come up to me and say somebody in their family has cancer, and we appreciate what you do, and we appreciate your fight, and don\'t give up, we love your attitude.',
+        'Craig Sager',
     ],
     [
-        'Success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.',
-        'Orison Swett Marden',
+        'I\'m very much in the trenches, and I don\'t live in the lap of luxury. I come from a working-class military family. We watch the news and read the paper and vote, so there\'s always something to be upset about. I always have a certain amount of angst in my back pocket.',
+        'Pink',
     ],
     [
-        'On Earth Day, we celebrate all the gifts the world and nature make available to us. We recognize our complete dependence on its bounty. And we acknowledge the need for good stewardship to preserve its fruits for future generations.',
-        'John Hoeven',
+        'Don\'t be afraid to go out on a limb. That\'s where the fruit is.',
+        'H. Jackson Browne',
     ],
     [
-        'When anger use your energy to do something productive.',
-        'C. Pulsifer',
+        'To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.',
+        'Theodore H. White',
     ],
     [
-        'I\'m looking forward to influencing others in a positive way. My message is you can do anything if you just put your mind to it.',
-        'Justin Bieber',
+        'There are a lot of things that go into creating success. I don\'t like to do just the things I like to do. I like to do things that cause the company to succeed. I don\'t spend a lot of time doing my favorite activities.',
+        'Michael Dell',
     ],
     [
-        'Not to sound corny, but intelligence is big. Everything fades, and everything can be modified. But intelligence is something you can\'t fake. I\'m not even talking about whether you can read a thesaurus backwards. But there is a beauty in common sense.',
-        'Wale',
+        'From my dad I learned to be good to people, to always be honest and straightforward. I learned hard work and perseverance.',
+        'Luke Bryan',
+    ],
+    [
+        'Living with anyone for many years takes skill. To keep peace in the household, couples learn to adapt to one another, hopefully in positive ways.',
+        'Diane Ackerman',
+    ],
+    [
+        'Economics is a choice between alternatives all the time. Those are the trade-offs.',
+        'Paul Samuelson',
+    ],
+    [
+        'Art is a harmony parallel with nature.',
+        'Paul Cezanne',
+    ],
+    [
+        'I don\'t talk about success. I don\'t know what it is. Wait until I\'m dead.',
+        'Imogen Cunningham',
+    ],
+    [
+        'However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?',
+        'Buddha',
+    ],
+    [
+        'The truest greatness lies in being kind, the truest wisdom in a happy mind.',
+        'Ella Wilcox',
     ],
 ];

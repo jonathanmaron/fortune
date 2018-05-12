@@ -2,103 +2,103 @@
 
 return [
     [
-        'I\'ve met so many who have opened doors for me and remained in my life both personally and professionally. After a while, networking doesn\'t feel like \'networking.\' It\'s both serendipitous and unpredictable, and something that just naturally becomes part of your work life and your personal life.',
-        'Narciso Rodriguez',
+        'The learned is happy, nature to explore; The fool is happy, that he knows no more.',
+        'Alexander Pope',
     ],
     [
-        'When fate hands us a lemon, lets try to make lemonade.',
-        'Dale Carnegie',
+        'It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves.',
+        'Thornton Wilder',
     ],
     [
-        'My childhood, adolescence and high school days are unusually important. If there has ever been a time that I developed a uniqueness and sense of humor and the ability to organize, it was then. In those early days, I developed the skills that gave me a certain degree of success in American politics.',
-        'Lee Atwater',
+        'Of course I used to smile and laugh in 1976, but not when I was competing. Please show me somebody who laughs when they are concentrating; I always smiled.',
+        'Nadia Comaneci',
     ],
     [
-        'Strike and struggle precede success, even in the dictionary.',
-        'Christian Slater',
+        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
+        'Roger Andrew Taylor',
     ],
     [
-        'We\'ve got so many different cultural groups in my family that I\'ve had to learn to accommodate them in different ways. My father speaks different to my mum. My mum speaks different to my grandmother. Everybody speaks different, so you find you start tweaking your language to be more accessible to people.',
-        'Trevor Noah',
+        'Some people would rather have a lie that makes them smile than a truth that makes them cry. I\'m the opposite; I\'d rather have people make me cry with the truth than try to make me smile.',
+        'Joyce Giraud',
     ],
     [
-        'The man on top of the mountain didn\'t fall there.',
-        'Vince Lombardi',
+        'You create your opportunities by asking for them.',
+        'Shakti Gawain',
     ],
     [
-        'The painter who is familiar with the nature of the sinews, muscles, and tendons, will know very well, in giving movement to a limb, how many and which sinews cause it; and which muscle, by swelling, causes the contraction of that sinew; and which sinews, expanded into the thinnest cartilage, surround and support the said muscle.',
-        'Leonardo da Vinci',
+        'Make-up is the last thing to enhance your beauty, but it\'s very important because it builds up your self-confidence and gives you more courage.',
+        'Evelyn Lauder',
     ],
     [
-        'Everything has its beauty, but not everyone sees it.',
-        'Andy Warhol',
+        'People don\'t really understand, but having people stare, and point, and take pictures, even if it is in a positive framework, is quite isolating; there\'s no two ways about it. You feel a little bit, you know, freakish.',
+        'Emma Watson',
     ],
     [
-        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
-        'Elmer Bernstein',
+        'What after all, is a halo? It\'s only one more thing to keep clean.',
+        'Christopher Fry',
     ],
     [
-        'Of course! It takes a lot of strength to mend a broken heart. Channelising energies into your work helps, but also to be able to accept situations for what they are instead of questioning them helps immensely.',
-        'Deepika Padukone',
+        'Adopting the right attitude can convert a negative stress into a positive one.',
+        'Hans Selye',
     ],
     [
-        'I always work with a goal - and the goal is to improve as a player and a person. That, finally, is the most important thing of all.',
-        'Rafael Nadal',
+        'In the late \'70s, maybe just before I started, there was still an attitude that if you did film you didn\'t do TV and vice versa, but that\'s gone now.',
+        'Robert Carlyle',
     ],
     [
-        'Growing up with three older brothers and being the youngest and the only girl, my mom always made me tough. She\'s taught me over the years how to be a strong, independent woman, how to carry yourself in a positive way and anything that my brothers can do, I can do.',
-        'Diana Lopez',
+        'Freedom of religion is a principle that is central to our Nation\'s Declaration of Independence. Congress has taken this positive step to protect our freedom to express allegiance to America\'s flag and the ideals it represents.',
+        'Ron Lewis',
     ],
     [
-        'Often, these downplay the power of cultural imperialism - in that sense, playing the game of US interests - by reassuring us that the global success of American mass culture is not as bad as all that.',
-        'Fredric Jameson',
+        'Prospering just doesn\'t have to do with money.',
+        'Joel Osteen',
     ],
     [
-        'Wrinkles should merely indicate where smiles have been',
+        'In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact.',
+        'Les Brown',
+    ],
+    [
+        'I always wanted to be a farmer. There is a tradition of that in my family.',
+        'Bjork',
+    ],
+    [
+        'Whenever I run into prejudice. I smile and feel sorry for them, and I say to myself, There\'s one more argument for birth control.',
+        'Freddy Fender',
+    ],
+    [
+        'It\'s funny what memory does, isn\'t it? My favorite holiday tradition might not have happened more than once or twice. But because it is such a good memory, so encapsulating of everything I love about the holidays, in my mind it happened every year. Without fail.',
+        'Molly O\'Keefe',
+    ],
+    [
+        'I come from a working-class family, and I\'ve been working since I was 13, from babysitting to blueberry picking to factory work to bookstore work. And of course, being a mother and homemaker, the hardest work of all.',
+        'Patti Smith',
+    ],
+    [
+        'The productivity of work is not the responsibility of the worker but of the manager.',
+        'Peter Drucker',
+    ],
+    [
+        'After every storm the sun will smile; for every problem there is a solution, and the soul\'s indefeasible duty is to be of good cheer.',
+        'William R. Alger',
+    ],
+    [
+        'Even when I\'m playing someone named \'Fat Amy.\' I\'m all about confidence and attitude.',
+        'Rebel Wilson',
+    ],
+    [
+        'So far as female beauty is concerned, the Circassian women have no superiors. They have preserved in their mountain home the purity of the Grecian models, and still display the perfect physical loveliness, whose type has descended to us in the Venus de Medici.',
+        'Bayard Taylor',
+    ],
+    [
+        'The best way to cheer yourself up is to try to cheer somebody else up',
         'Mark Twain',
     ],
     [
-        'I love women with attitude.',
-        'Kevin Hart',
+        'Dear disgruntled artists: the key to success isn\'t kicking down the door; it\'s building your own.',
+        'Brian Celio',
     ],
     [
-        'People repeat behaviour that leads to flooding their brains with pleasurable chemicals. The short-term reward loop acts over hours to years, and the long-term reproductive success loop over generations.',
-        'Keith Henson',
-    ],
-    [
-        'By nature, I keep moving, man. My theory is, be the shark. You\'ve just got to keep moving. You can\'t stop.',
-        'Brad Pitt',
-    ],
-    [
-        'When you\'re in love it\'s the most glorious two and a half days of your life.',
-        'Richard Lewis',
-    ],
-    [
-        'I don\'t want just attitude and loud opinion.',
-        'John McLaughlin',
-    ],
-    [
-        'My grandma did opera singing for the better part of her life; she used to sing all over the place. My grandpa was a sax player, and he used to travel all over the place, too.',
-        'Mac DeMarco',
-    ],
-    [
-        'You know I think that going into therapy is a very positive thing, and talking about it is really helpful, because the more you talk the more your fears fade, because you get it out.',
-        'Fran Drescher',
-    ],
-    [
-        'Removing all stimulation around you is a really positive thing in terms of stimulating your creativity.',
-        'Grimes',
-    ],
-    [
-        'Maxim for life: You get treated in life the way you teach people to treat you.',
-        'Wayne Dyer',
-    ],
-    [
-        'When I was a little kid, I wrote this play about all these characters living in a haunted house. There was a witch who lived there, and a mummy. When they were all hassling him, this guy who bought the house - I can\'t believe I remember this - he said to them, \'Who\'s paying the mortgage on this haunted house?\' I thought that was really funny.',
-        'Mindy Kaling',
-    ],
-    [
-        'If you want things to be different, perhaps the answer is to become different yourself.',
-        'Norman Peale',
+        'Variety\'s the very spice of life, That gives it all its flavor.',
+        'Rachael Ray',
     ],
 ];

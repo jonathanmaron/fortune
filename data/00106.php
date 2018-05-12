@@ -2,103 +2,103 @@
 
 return [
     [
-        'The world has never yet seen a truly great and virtuous nation because in the degradation of woman the very fountains of life are poisoned at their source.',
-        'Paulo Coelho',
+        'The three great elemental sounds in nature are the sound of rain, the sound of wind in a primeval wood, and the sound of outer ocean on a beach.',
+        'Henry Beston',
     ],
     [
-        'Family is the most important thing in the world.',
-        'Princess Diana',
+        'I have been very fortunate in my life. I have had a lot of happiness. I have a great family and I work a lot, and that\'s what I like to do.',
+        'Danny DeVito',
     ],
     [
-        'Fashion is a funny thing to talk about. I think what you wear is definitely an extension of you, but I also think it\'s totally arbitrary.',
-        'Tessa Thompson',
+        'Actually, I\'m an overnight success, but it took twenty years.',
+        'Monty Hall',
     ],
     [
-        'Among the natural rights of the colonists are these: First a right to life, secondly to liberty, and thirdly to property; together with the right to defend them in the best manner they can.',
-        'Vince Lombardi',
+        'Don\'t walk through life just playing football. Don\'t walk through life just being an athlete. Athletics will fade. Character and integrity and really making an impact on someone\'s life, that\'s the ultimate vision, that\'s the ultimate goal - bottom line.',
+        'Albert Einstein',
     ],
     [
-        'I\'d luv to kiss ya, but I just washed my hair.',
-        'Bette Davis',
+        'Jesus Christ belonged to the true race of prophets. He saw with open eye the mystery of the soul. Drawn by its severe harmony, ravished with its beauty, he lived in it and had his being there. Alone in all history, he estimated the greatness of man.',
+        'Ralph Waldo Emerson',
     ],
     [
-        'Most people spend more time and energy going around problems than in trying to solve them.',
-        'Henry Ford',
+        'Let him who would enjoy a good future waste none of his present.',
+        'Roger Babson',
     ],
     [
-        'I own more pairs of Calvin Klein underwear than I can count. At any given time, I probably have 50 to 60 pairs on deck. I travel with an entire suitcase of underwear and t-shirts, and they\'re all Calvin Klein.',
-        'Trey Songz',
+        'Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.',
+        'Ralph Emerson',
     ],
     [
-        'I wanted to be looked at for the skateboarder that I was. I didn\'t want to be the 36-year-old skateboarder who\'s still holding on while owning a company at the same time. I wanted to make my mark and travel and accomplish a few things here and there and then get out.',
-        'Jason Lee',
+        'A bad system will beat a good person every time.',
+        'W. Edwards Deming',
     ],
     [
-        'To measure the success of our societies, we should examine how well those with different abilities, including persons with autism, are integrated as full and valued members.',
-        'Ban Ki-moon',
+        'Suddenly life has new meaning to me, there\'s beauty up above and things we never take notice of, you wake up suddenly you\'re in love.',
+        'Billy Ocean',
     ],
     [
-        'Include me out.',
-        'Samuel Goldwyn',
+        'The world is being re-shaped by the convergence of social, mobile, cloud, big data, community and other powerful forces. The combination of these technologies unlocks an incredible opportunity to connect everything together in a new way and is dramatically transforming the way we live and work.',
+        'Marc Benioff',
     ],
     [
-        'If you aren\'t going all the way, why go at all?',
-        'Joe Namath',
+        'I think we should all be tolerant of each other and embrace each others\' strengths and differences and uniqueness and beauty.',
+        'Martina McBride',
     ],
     [
-        'Through devotion, your family cares become more peaceful, mutual love between husband and wife becomes more sincere, the service we owe to the prince more faithful, and our work, no matter what it is, becomes more pleasant and agreeable.',
-        'Saint Francis de Sales',
+        'Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.',
+        'Ella Wheeler Wilcox',
     ],
     [
-        'One of the things that binds us as a family is a shared sense of humor.',
-        'Ralph Fiennes',
+        'You must welcome change as the rule but not as your ruler.',
+        'Denis Waitley',
     ],
     [
-        'And whereas women had to fight to find their way into the workforce, men are now fighting to reclaim their place in the family structure.',
-        'Bob Geldof',
+        'Progress always involves risks. You can\'t steal second base and keep your foot on first.',
+        'Frederick Wilcox',
     ],
     [
-        'I love to travel, and I think being whisked away somewhere for a vacation is a pretty amazing date. But, I\'m really into the basic movie and dinner. It\'s not where you are but who you\'re with that really matters.',
-        'Alexandra Daddario',
+        'You can never cross the ocean until you have the courage to lose sight of the shore.',
+        'Christopher Columbus',
     ],
     [
-        'Work is a prayer. And I start off every morning dedicating it to our Creator.',
-        'Joseph Murray',
-    ],
-    [
-        'One can ascend to a higher development only by bringing rhythm and repetition into one\'s life. Rhythm holds sway in all nature.',
-        'Rudolf Steiner',
-    ],
-    [
-        'Achievement of your happiness is the only moral purpose of your life, and that happiness, not pain or mindless self-indulgence, is the proof of your moral integrity, since it is the proof and the result of your loyalty to the achievement of your values.',
-        'Jennifer Aniston',
+        'For me, success is a state of mind. I feel like success isn\'t about conquering something; it\'s being happy with who you are.',
+        'Britney Spears',
     ],
     [
         'Life is full of confusion. Confusion of love, passion, and romance. Confusion of family and friends. Confusion with life itself. What path we take, what turns we make. How we roll our dice.',
         'Matthew Underwood',
     ],
     [
-        'Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.',
-        'Ralph Emerson',
+        'One of the main focuses of my training sessions is to help individuals find their unique voices in the learning process. We all have our strengths, our weaknesses, our styles of learning, our personalities. Developing introspective sensitivity to these issues is critical to long-term success.',
+        'Joshua Waitzkin',
     ],
     [
-        'A child of five would understand this. Send someone to fetch a child of five.',
-        'Groucho Marx',
+        'Society is like a stew. If you don\'t stir it up every once in a while then a layer of scum floats to the top.',
+        'Edward Abbey',
     ],
     [
-        'The Superior Man is aware of Righteousness, the inferior man is aware of advantage.',
-        'Confucius',
+        'To choose what is difficult all ones days, as if it were easy, that is faith.',
+        'W. H. Auden',
     ],
     [
-        'If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.',
-        'Anne Bradstreet',
+        'I was the class podiatrist. I never made it to class clown. I wasn\'t funny enough. I would examine feet and prescribe and ointment. It was a sad childhood.',
+        'Gilbert Gottfried',
     ],
     [
-        'This evening I wish to suggest that we Christians should accompany people on their pilgrimages. Specifically we should travel with people as they search for the good, the true and the beautiful.',
-        'Timothy Radcliffe',
+        'Do whatever interests you the most. Passion breeds success.',
+        'Shane Smith',
     ],
     [
-        'Don\'t waste time on what\'s not important. Don\'t get sucked into the drama. Get on with it: don\'t dwell on the past. Be a big person; be generous of spirit; be the person you\'d admire.',
-        'Allegra Huston',
+        'The man who has done his level best... is a success, even though the world may write him down a failure.',
+        'B. C. Forbes',
+    ],
+    [
+        'I love a lot of the New York bands, but Patti Smith stands out. I just read \'Just Kids\' and it\'s an inspirational, well-written account of an emerging New York artist in the late seventies.',
+        'James Iha',
+    ],
+    [
+        'Peace is not something you wish for. It\'s something you make, something you do, something you are, and something you give away.',
+        'Robert Fulghum',
     ],
 ];

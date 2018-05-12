@@ -2,103 +2,103 @@
 
 return [
     [
-        'In college I never realized the opportunities available to a pro athlete. I\'ve been given the chance to meet all kinds of people, to travel and expand my financial capabilities, to get ideas and learn about life, to create a world apart from basketball.',
-        'Michael Jordan',
+        'My husband changed jobs so fast that I simply never knew what business he was in.',
+        'Rose Kennedy',
     ],
     [
-        'Abortion isn\'t a lesser evil, it\'s a crime. Taking one life to save another, that\'s what the Mafia does. It\'s a crime. It\'s an absolute evil.',
-        'Steve Jobs',
+        'I like doing what I do, but I like having the opportunity to do different things, and obviously comedy would be a fun jump. I\'ve just been lucky enough to stay working. In my case, playing intense roles or playing character roles is something that people will hire me for, but yeah, I\'d like somebody to think I\'m funny. I guess we all do, right?',
+        'Jason Wiles',
     ],
     [
-        'If our nation wants to reduce global warming, air pollution and energy instability, we should invest only in the best energy options. Nuclear energy isn\'t one of them.',
-        'Mark Z. Jacobson',
+        'A weed is no more than a flower in disguise.',
+        'James Lowell',
     ],
     [
-        'I know you can be funny without being filthy.',
-        'Jonathan Winters',
+        'The day you decide to do it is your lucky day.',
+        'Japanese proverb',
     ],
     [
-        'I have a tendency to sabotage relationships; I have a tendency to sabotage everything. Fear of success, fear of failure, fear of being afraid. Useless, good-for-nothing thoughts.',
-        'Michael Buble',
+        'Remember that physical beauty is evolution\'s way of assuring us that the other person doesn\'t have too many intestinal parasites.',
+        'Ben Bernanke',
     ],
     [
-        'When love and skill work together, expect a masterpiece.',
-        'John Ruskin',
+        'Confidence and empowerment are cousins in my opinion. Empowerment comes from within and typically it\'s stemmed and fostered by self-assurance. To feel empowered is to feel free and that\'s when people do their best work. You can\'t fake confidence or empowerment.',
+        'Amy Jo Martin',
     ],
     [
-        'It would be impossible to estimate how much time and energy we invest in trying to fix, change and deny our emotions - especially the ones that shake us at our very core, like hurt, jealousy, loneliness, shame, rage and grief.',
-        'Debbie Ford',
+        'One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.',
+        'Unknown',
     ],
     [
-        'Iraq is just a symbol of the attitude of western democracies to the rest of the world.',
-        'Harold Pinter',
+        'If you come to a fork in the road, take it.',
+        'Unknown',
     ],
     [
-        'Accept challenges, so that you may feel the exhilaration of victory.',
-        'George Patton',
+        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
+        'Unknown',
     ],
     [
-        'I always thought \'chick lit\' meant third-person contemporary funny novels, dealing with issues of the day. I mean, it\'s not the ideal term; when I\'m asked to describe what I do, I say I write romantic comedies, cause that\'s what I feel they are. But I\'m quite pragmatic.',
-        'Sophie Kinsella',
+        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
+        'Trey Anastasio',
     ],
     [
-        'Difficulties strengthen the mind, as labor does the body.',
-        'Seneca',
-    ],
-    [
-        'The earth has received the embrace of the sun and we shall see the results of that love.',
-        'Sitting Bull',
-    ],
-    [
-        'On the field, aggression can sometimes be a positive emotion. It boosts performance and can lift your game. But over the years, I have learnt that restrained aggression is a better animal. That way, you will conserve your energy and won\'t spend yourself quickly.',
-        'Virat Kohli',
-    ],
-    [
-        'Some people are fighting much, much more important battles and much bigger battles, and if we get the chance to put a smile on their face for ten seconds, it\'s so worth it.',
-        'Dolph Ziggler',
-    ],
-    [
-        'The same way that I practiced the violin, the same way that I practiced my dance moves, I decided that I was going to practice being positive and practice loving myself.',
-        'Lindsey Stirling',
-    ],
-    [
-        'I have so much chaos in my life, it\'s become normal. You become used to it. You have to just relax, calm down, take a deep breath and try to see how you can make things work rather than complain about how they\'re wrong.',
-        'Tom Welling',
-    ],
-    [
-        'Since I\'m always working, my best holiday memories are definitely when I can just go home and spend time with my family.',
-        'Chris Brown',
-    ],
-    [
-        'What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.',
-        'Chris Kyle',
-    ],
-    [
-        'The Grateful Dead, they\'re my best friends. Their message of hope, peace, love, teamwork, creativity, imagination, celebration, the dance, the vision, the purpose, the passion all of the things I believe in makes me the luckiest Deadhead in the world.',
-        'Bill Walton',
-    ],
-    [
-        'The beauty one can find in art is one of the pitifully few real and lasting products of human endeavor.',
-        'J. Paul Getty',
-    ],
-    [
-        'Every action of our lives touches on some chord that will vibrate in eternity.',
-        'Edwin Chapin',
-    ],
-    [
-        'Music washes away from the soul the dust of everyday life.',
-        'Pablo Picasso',
-    ],
-    [
-        'I feel when somebody has been playing cricket for a long time, he creates a separate identity for himself.',
-        'Sachin Tendulkar',
-    ],
-    [
-        'Good advice is always certain to be ignored, but that\'s no reason not to give it.',
-        'Agatha Christie',
-    ],
-    [
-        'A man sees in the world what he carries in his heart.',
+        'In nature we never see anything isolated, but everything in connection with something else which is before it, beside it, under it and over it.',
         'Johann Wolfgang von Goethe',
+    ],
+    [
+        'Goodness is beauty in the best estate.',
+        'Christopher Marlowe',
+    ],
+    [
+        'Patience is the companion of wisdom.',
+        'Saint Augustine',
+    ],
+    [
+        'Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.',
+        'Og Mandino',
+    ],
+    [
+        'I don\'t have friends, and it\'s hard for me to make new friends. Right now, the people that are in my life are the people that I work with.',
+        'Questlove',
+    ],
+    [
+        'Everything I\'ve been through, everything I\'m about to go through in my career and my life, if my family wasn\'t with me and didn\'t support me, it would be really tough.',
+        'Karl Malone',
+    ],
+    [
+        'If I studied all my life, I couldn\'t think up half the number of funny things passed in one session of congress.',
+        'Will Rogers',
+    ],
+    [
+        'Remember always that the composer\'s pen is still mightier than the bow of the violinist; in you lie all the possibilities of the creation of beauty.',
+        'John Philip Sousa',
+    ],
+    [
+        'We\'ve had hassles, ups and downs, ins and outs, failures and triumphs. We\'re human beings, and we\'re not perfect. And we\'re mortal. But the Beach Boys is musically a tremendous body of work that transcends individuality and time and national boundaries.',
+        'Mike Love',
+    ],
+    [
+        'Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind.',
+        'Henri Frederic Amiel',
+    ],
+    [
+        'Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?',
+        'Tony Robbins',
+    ],
+    [
+        'You are not free until you have no need to impress anybody.',
+        'Joyce Meyer',
+    ],
+    [
+        'While we cannot predict the future, we will most surely live it. Every action and decision we take - or don\'t - ripples into the future. For the first time, we have the capability, the technology, and the knowledge to direct those ripples.',
+        'Jacque Fresco',
+    ],
+    [
+        'Eighty percent of success is showing up.',
+        'Woody Allen',
+    ],
+    [
+        'My family background is Mexican, and I was born in Chicago. It\'s pretty much family tradition every time we get together for Christmas and major holidays to sing. Our family time is centered around the food and a little bit of performing for one another.',
+        'Ailyn Perez',
     ],
 ];

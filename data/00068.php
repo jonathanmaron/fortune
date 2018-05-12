@@ -2,103 +2,103 @@
 
 return [
     [
-        'I love insults, devastating takedowns, things that could be described by Twitter hacks as \'shots fired,\' and funny ad hominem attacks.',
-        'Alex Pareene',
+        'I wouldn\'t ever say if you\'re having tough times then there must be something wrong with you or your attitude. Life\'s a fight. It\'s a good fight of faith. I encourage people to stay up, stay hopeful, stay faith-filled.',
+        'Joel Osteen',
     ],
     [
-        'I have a huge breakfast every morning because I never know if I\'ll have time for lunch, especially during Fashion Week. It keeps my mood positive all day. And my parents taught me to have tons of fruit and vegetables, which I think helps my skin.',
-        'Constance Jablonski',
+        'Preparation is a mentality... With wrestling being my background, I\'ve always learned to overwork, overwork. Work, work, work, work. It\'s not always the talented that wins, but it\'s the one who puts in the most preparation and thought into things.',
+        'Dominick Cruz',
     ],
     [
-        'I may not know everything, but everything is not known yet anyway.',
+        'My school friends are really understanding and still want to hang out with me. Ever since I was in sixth grade, I was at the gym every day to work out while my friends were getting their nails done or going to the mall. I used to feel left out, but I don\'t anymore.',
+        'Aly Raisman',
+    ],
+    [
+        'Injustice, poverty, slavery, ignorance - these may be cured by reform or revolution. But men do not live only by fighting evils. They live by positive goals, individual and collective, a vast variety of them, seldom predictable, at times incompatible.',
+        'Isaiah Berlin',
+    ],
+    [
+        'The team that is going to win is the one that does its homework the best by studying its opponents.',
+        'Imran Khan',
+    ],
+    [
+        'Andean skiing offers an unforgettable combination of beach-style weather, great snow and exotic travel. There are many attractions. Here on the fringes of the Andes, skiers will find few lift queues, tickets 50% cheaper than France, and unique scenery that includes condors and Mount Aconcagua, the highest peak outside the Himalayas.',
+        'Jonathan Franklin',
+    ],
+    [
+        'Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.',
         'Byron Pulsifer',
     ],
     [
-        'Old wood best to burn, old wine to drink, old friends to trust, and old authors to read.',
-        'Athenaeus',
+        'Work done by other people sounds easy. How hard can it be to take care of a newborn who sleeps 20 hours a day? How hard can it be to keep track of your billable hours? To travel for one night for business? To get a 4-year-old ready for school? To return a few phone calls? To load the dishwasher? To fill out some forms?',
+        'Gretchen Rubin',
     ],
     [
-        'Making better choices takes work. There is a daily give and take, but it is worth the effort.',
-        'Tom Rath',
+        'Ever since I was four years old, I loved making people smile, making them think, making them feel good, feel some kind of emotion.',
+        'Ann-Margret',
     ],
     [
-        'While formal schooling is an important advantage, it is not a guarantee of success nor is its absence a fatal handicap.',
-        'Ray Kroc',
+        'Flexible working is not just for women with children. It is necessary at the other end of the scale. If people can move into part-time work, instead of retirement, then that will be a huge help. If people can fit their work around caring responsibilities for the elderly, the disabled, then again that\'s very positive.',
+        'Theresa May',
     ],
     [
-        'Learning to celebrate success is a key component of learning how to win in the market.',
-        'Douglas Conant',
+        'Properly used, positive reinforcement is extremely powerful.',
+        'B. F. Skinner',
     ],
     [
-        'It was one of those perfect English autumnal days which occur more frequently in memory than in life.',
-        'P. D. James',
+        'Victory has a thousand fathers, but defeat is an orphan.',
+        'John F. Kennedy',
     ],
     [
-        'When all the world appears to be in a tumult, and nature itself is feeling the assault of climate change, the seasons retain their essential rhythm. Yes, fall gives us a premonition of winter, but then, winter, will be forced to relent, once again, to the new beginnings of soft greens, longer light, and the sweet air of spring.',
-        'Madeleine M. Kunin',
+        'The beauty of Hawaii probably surpasses other places. I like the Big Island and the two mountains, Mauna Loa and Mauna Kea, where you can look out at the stars.',
+        'Buzz Aldrin',
     ],
     [
-        'This is just rap. I\'m not trying to make people think I\'m some sort of scientific wizard or inspirational poet.',
-        'Action Bronson',
+        'Success is getting and achieving what you want. Happiness is wanting and being content with what you get.',
+        'Bernard Meltzer',
     ],
     [
-        'The survival of liberty in our land increasingly depends on the success of liberty in other lands. The best hope for peace in our world is the expansion of freedom in all the world.',
-        'Bill Frist',
+        'A woman whose smile is open and whose expression is glad has a kind of beauty no matter what she wears.',
+        'Anne Roiphe',
     ],
     [
-        'In 20 years, you probably won\'t even remember this.',
-        'Anonymous',
+        'I don\'t have a Pollyana attitude toward life that claims everything is lovely.',
+        'Eve Arden',
     ],
     [
-        'Just live life. That\'s the best way to learn how to act. Just live.',
-        'Rory Culkin',
+        'To me, acting used to be just, \'Get my face out there, get girls, make a little bit of money, make my mom proud.\' It was just like sports. But there were moments in \'Moonlight\' that I really felt like I had to know why he is the way he is. Or just people in general - why this person walks around with a frown on their face instead of a smile.',
+        'Trevante Rhodes',
     ],
     [
-        'Natural gas is hemispheric. I like to call it hemispheric in nature because it is a product that we can find in our neighborhoods.',
-        'George W. Bush',
+        'When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.',
+        'W. Clement Stone',
     ],
     [
-        'There is only one success, to be able to spend your life in your own way.',
-        'Christopher Morley',
+        'I\'ve never met a person who does not want a safer world, better medical care and education for their children, and peace with their neighbours. I just don\'t meet those people. What I meet, over and over again, as I travel around, is that the essential human condition is optimistic - in every one of these places.',
+        'Eric Schmidt',
     ],
     [
-        'What nature delivers to us is never stale. Because what nature creates has eternity in it.',
-        'Isaac Bashevis Singer',
+        'I have a lot of funny friends, though not everyone\'s funny all the time. Doon Mackichan\'s my funniest friend in the pub; Nina Conti\'s the funniest with a monkey.',
+        'Sally Phillips',
     ],
     [
-        'We are living in a culture where we are so led by the visual, and what is promoted in the media, that the attitude becomes, \'I don\'t have to go through normalcy in life - I can look for exemptions. And I expect them, and when I look for them and they are not there, I am angry.\'',
-        'Ben Harney',
+        'The smallest act of kindness is worth more than the grandest intention.',
+        'Oscar Wilde',
     ],
     [
-        'The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter - for the future. His duty is to lay the foundation for those who are to come, and point the way.',
-        'Nikola Tesla',
+        'Fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions.',
+        'H. P. Lovecraft',
     ],
     [
-        'If you\'re doing your best, you won\'t have any time to worry about failure.',
-        'H. Jackson Brown, Jr.',
+        'Turning pro is a mindset. If we are struggling with fear, self-sabotage, procrastination, self-doubt, etc., the problem is, we\'re thinking like amateurs. Amateurs don\'t show up. Amateurs crap out. Amateurs let adversity defeat them. The pro thinks differently. He shows up, he does his work, he keeps on truckin\', no matter what.',
+        'Steven Pressfield',
     ],
     [
-        'Wisdom begins in wonder.',
-        'Socrates',
+        'Design is a way of life, a point of view. It involves the whole complex of visual communications: talent, creative ability, manual skill, and technical knowledge. Aesthetics and economics, technology and psychology are intrinsically related to the process.',
+        'Abraham Lincoln',
     ],
     [
-        'If you can attribute your success entirely to your own mental effort, to your own attitude, to some spiritual essence that you have that is better than other people\'s, then that must feel pretty good.',
-        'Barbara Ehrenreich',
-    ],
-    [
-        'All action results from thought, so it is thoughts that matter.',
-        'Sai Baba',
-    ],
-    [
-        'It\'s funny: in the middle of making \'The Muse,\' I was offered, at the time, the first \'Ice Age,\' the part that Ray Romano took: I was offered the elephant. And I couldn\'t even stop to breathe, so I didn\'t do it. They\'ve made, like, six of them. And in the animation business, for a voice actor, that\'s what you want. You want six, you know?',
-        'Albert Brooks',
-    ],
-    [
-        'It was a wonderful experience to play in the NFL, and I have no regrets. I truly will miss playing for the Lions. I consider the Lions\' players, coaches, staff, management and fans my family. I leave on good terms with everyone in the organization.',
-        'Barry Sanders',
-    ],
-    [
-        'My character\'s kind of grown up with Katniss. The beginning of the story, they\'re more or less brother and sister than anything. They\'re best friends. They\'ve been keeping each other alive. It\'s a little frustrating, for the character. As the character, not as me.',
-        'Liam Hemsworth',
+        'Not to sound corny, but intelligence is big. Everything fades, and everything can be modified. But intelligence is something you can\'t fake. I\'m not even talking about whether you can read a thesaurus backwards. But there is a beauty in common sense.',
+        'Wale',
     ],
 ];

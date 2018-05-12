@@ -2,103 +2,103 @@
 
 return [
     [
-        'We cannot change our memories, but we can change their meaning and the power they have over us.',
-        'David Seamans',
+        'Being part of the Workshop is like being part of a really big family. Everyone is so close. Everyone feels the success of others who go on to do well. Whatever happens, I will still be part of the Workshop.',
+        'Lucy Carless',
     ],
     [
-        'The truth you believe and cling to makes you unavailable to hear anything new.',
-        'Pema Chodron',
+        'It is easy to be beautiful; it is difficult to appear so.',
+        'Hosea Ballou',
     ],
     [
-        'Adopting the right attitude can convert a negative stress into a positive one.',
-        'Hans Selye',
+        'Only on paper has humanity yet achieved glory, beauty, truth, knowledge, virtue, and abiding love.',
+        'George Bernard Shaw',
     ],
     [
-        'Like all my family and class, I considered it a sign of weakness to show affection; to have been caught kissing my mother would have been a disgrace, and to have shown affection for my father would have been a disaster.',
-        'Agnes Smedley',
+        'The beauty of dystopia is that it lets us vicariously experience future worlds - but we still have the power to change our own.',
+        'Ally Condie',
     ],
     [
-        'The fear of this delicate and fierce feminine has more to do with our fear of being vulnerable again, getting hurt again, than it does by our actual distaste for the beauty of the feminine and Her qualities.',
-        'Alanis Morissette',
+        'Set up another case bartender! The best thing for a case of nerves is a case of Scotch.',
+        'W. C. Fields',
     ],
     [
-        'I read everything: fiction, history, science, mathematics, biography, travel.',
-        'Martin Lewis Perl',
+        'Go to your bosom: Knock there, and ask your heart what it doth know.',
+        'William Shakespeare',
     ],
     [
-        "We live in a quick-fix society where we need instant gratification for everything. Too fat? Get lipo-sucked. Stringy hair? Glue on extensions. Wrinkles and lines? Head to the beauty shop for a pot of the latest miracle skin stuff. It's all a beautiful \u{a3}1 billion con foisted upon insecure women by canny cosmetic conglomerates.",
-        'Joan Collins',
+        'Whatever you do, do it with all your might. Work at it, early and late, in season and out of season, not leaving a stone unturned, and never deferring for a single hour that which can be done just as well now.',
+        'P. T. Barnum',
     ],
     [
-        'Time is flying never to return.',
-        'Virgil',
+        'While formal schooling is an important advantage, it is not a guarantee of success nor is its absence a fatal handicap.',
+        'Ray Kroc',
     ],
     [
-        'The rain began again. It fell heavily, easily, with no meaning or intention but the fulfilment of its own nature, which was to fall and fall.',
-        'Helen Garner',
+        'It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.',
+        'Franklin D. Roosevelt',
     ],
     [
-        'We are constituted so that simple acts of kindness, such as giving to charity or expressing gratitude, have a positive effect on our long-term moods. The key to the happy life, it seems, is the good life: a life with sustained relationships, challenging work, and connections to community.',
-        'Paul Bloom',
+        'Government, even in its best state, is but a necessary evil; in its worst state, an intolerable one.',
+        'Thomas Paine',
     ],
     [
-        'The spirit of L.A. is untamed wilderness. It\'s earthquakes and wildfires and oceans and mountain lions and fog. There\'s great physical beauty.',
-        'Dan Gilroy',
+        'And for me, the real world involves everything: risk, danger, beauty, energy, all we meet with in the real world.',
+        'Christo',
     ],
     [
-        'I\'m a positive man.',
-        'Mariano Rivera',
+        '\'Unbreakable Smile\' was based off one of the songs I wrote for the album - it was actually the first song I wrote for the album without realizing it yet. I think I wanted to name the album that because it seemed like that was just the theme of that chapter in my life and just the theme of all the songs put together.',
+        'Tori Kelly',
     ],
     [
-        'Both my father and mother were survivors of the Warsaw Ghetto and the Nazi concentration camps. Apart from my parents, every family member on both sides was exterminated by the Nazis.',
-        'Norman Finkelstein',
+        'I don\'t think I was a good model. I think I was born to emote and act. I would walk down the ramp and smile and they used to say, \'Give us a blank look.\' It was really difficult not to smile.',
+        'Anushka Sharma',
     ],
     [
-        'Being black is not a matter of pigmentation - being black is a reflection of a mental attitude.',
-        'Steven Biko',
+        'Life is full of adventure. There\'s no such thing as a clear pathway.',
+        'Arthur Schopenhauer',
     ],
     [
-        'We worked so hard, spent so much time in weight room and in camps to be where we are today. We wanted to come out and be as good as any team in the state, to prove we could hang with any team at any time.',
-        'Anthony Davis',
+        'I actually bought a travel guitar, and that guitar is really cool. You can actually fold the guitar, and you can plug headphones into it, but it\'s acoustic, or semi-acoustic.',
+        'Daniel Ek',
     ],
     [
-        'You must welcome change as the rule but not as your ruler.',
-        'Denis Waitley',
+        'I\'m a forgiver. I might not forget, but I forgive. My mother, father and older brother always told me: \'Don\'t hold grudges. If you do that, you don\'t lower yourself down to your adversary. Just treat people the way you want to be treated.\' I honestly think that\'s why I was able to survive and have some success.',
+        'Monte Irvin',
     ],
     [
-        'Experience keeps a dear school, but fools will learn in no other.',
-        'Benjamin Franklin',
+        'Until you make peace with who you are, you\'ll never be content with what you have.',
+        'Doris Mortman',
     ],
     [
-        'There is nothing stronger in the world than gentleness.',
-        'Han Suyin',
+        'The best teacher is experience learned from failures.',
+        'Byron Pulsifer',
     ],
     [
-        'Life is one grand, sweet song, so start the music.',
-        'Buddha',
+        'I keep my head straight by having the right people around me, from my friends and family to my management and my team. They all keep me in my place. If I didn\'t have them supporting all the work that I do, I wouldn\'t be in such a solid place.',
+        'Jess Glynne',
     ],
     [
-        'Coffee has always been a significant part of my life. For me, it\'s a chance to start my day and gather my thoughts - it\'s fuel for my creative process.',
-        'Jessica Savitch',
-    ],
-    [
-        'Trust only movement. Life happens at the level of events, not of words. Trust movement.',
-        'Alfred Adler',
-    ],
-    [
-        'I won\'t be a rock star. I will be a legend.',
-        'Freddie Mercury',
+        'Success always necessitates a degree of ruthlessness. Given the choice of friendship or success, I\'d probably choose success.',
+        'Sting',
     ],
     [
         'Reason and free inquiry are the only effectual agents against error.',
         'Thomas Jefferson',
     ],
     [
-        'I feel that the best companies are started not because the founder wanted a company but because the founder wanted to change the world... If you decide you want to found a company, you maybe start to develop your first idea. And hire lots of workers.',
-        'Mark Zuckerberg',
+        'Anything can happen, so you have to control your attitude and stay strong.',
+        'Jason Day',
     ],
     [
-        'It is a scientific fact that your body will not absorb cholesterol if you take it from another person\'s plate.',
-        'Dave Barry',
+        'The five essential entrepreneurial skills for success: Concentration, Discrimination, Organization, Innovation and Communication.',
+        'Harold S. Geneen',
+    ],
+    [
+        'The secret of success is constancy to purpose.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'The expert in anything was once a beginner.',
+        'Anonymous',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'The only way to get love is to be lovable. It\'s very irritating if you have a lot of money. You\'d like to think you could write a check: \'I\'ll buy a million dollars\' worth of love.\' But it doesn\'t work that way. The more you give love away, the more you get.',
-        'Warren Buffett',
+        'Life is always going to be stranger than fiction, because fiction has to be convincing, and life doesn\'t.',
+        'Hillary Clinton',
     ],
     [
-        'Nature is at work. Character and destiny are her handiwork. She gives us love and hate, jealousy and reverence. All that is ours is the power to choose which impulse we shall follow.',
-        'David Seabury',
+        'Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen.',
+        'Isaac Bashevis Singer',
     ],
     [
-        'Nearly all monster stories depend for their success on Jack killing the Giant, Beowulf or St. George slaying the Dragon, Harry Potter triumphing over the basilisk. That is their inner grammar, and the whole shape of the story leads towards it.',
-        'A. N. Wilson',
+        'I love airports because funny things always happen at them. They\'re giant complexes full of urgency, seriousness, and confusion. Where am I supposed to be? Which way do I go? And that\'s just the staff.',
+        'Rhys Darby',
     ],
     [
-        'Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.',
-        'Sidney Hook',
+        '\'Top Gear\' changed people\'s perceptions of me. I\'ve had much more positive responses from my TV appearances than written articles. And I have the weirdest voice.',
+        'James Blunt',
     ],
     [
-        'When you arise in the morning, think of what a precious privilege it is to be alive, to breathe, to think, to enjoy, to love.',
-        'Marcus Aurelius',
+        'The artist forges himself to the others, midway between the beauty he cannot do without and the community he cannot tear himself away from. That is why true artists scorn nothing: they are obliged to understand rather than to judge.',
+        'Albert Camus',
     ],
     [
-        'Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.',
+        'Life is short, so I\'m knowing exactly where I\'m putting my time. I don\'t want to do things that I don\'t have to do.',
+        'Mira Nair',
+    ],
+    [
+        'Excellence is to do a common thing in an uncommon way.',
+        'Booker Washington',
+    ],
+    [
+        'My goal is to be able to provide for myself and not have to worry about the daily expenses. I do want to be able to benefit from my work and make a good living, but I love it so much that I would do it for free.',
+        'Jenn Proske',
+    ],
+    [
+        'Try not to become a man of success, but rather try to become a man of value.',
+        'Albert Einstein',
+    ],
+    [
+        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
+        'Alek Wek',
+    ],
+    [
+        'My father was a really sharp cartoonist and filmmaker. He used to tape-record the family surreptitiously, either while we were driving around or at dinner, and in 1963 he and I made up a story about a brother and a sister, Lisa and Matt, having an adventure out in the woods with animals.',
+        'Matt Groening',
+    ],
+    [
+        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
+        'Milton Berle',
+    ],
+    [
+        'Life is a progress, and not a station.',
         'Ralph Emerson',
     ],
     [
-        'If you\'re not making mistakes, then you\'re not doing anything. I\'m positive that a doer makes mistakes.',
-        'John Wooden',
+        'The art of progress is to preserve order amid change, and to preserve change amid order.',
+        'Alfred Whitehead',
     ],
     [
-        'I come to work with a smile and I leave with a laugh, and I\'m so grateful.',
-        'Robert Knepper',
+        'Only an artist can interpret the meaning of life.',
+        'Pat Conroy',
     ],
     [
-        'People who think about time travel stories sometimes think that going back in time would be fun because you would have all the information you needed to be much more astute than the people there, when the truth is of course you wouldn\'t.',
-        'Octavia E. Butler',
+        'I\'m a human, and I\'m multidimensional. If I was the perfect form of anything, I\'d be boring. If I was a free spirit all the time, I would be boring; I would lack depth. If I was dark and enigmatic all the time, then I would lack relatability.',
+        'Halsey',
     ],
     [
-        'When you think of a brand, you should immediately understand it from the advertising attitude, from the words and visuals.',
-        'George Lois',
+        'Work, look for peace and calm in work: you will find it nowhere else.',
+        'Dmitri Mendeleev',
     ],
     [
-        'I believe that any type of education can be great, but an education about ourselves can create something wonderful. I am a comedian, but people have called me a motivational speaker. I don\'t really consider myself that at all.',
-        'Andy Andrews',
+        'Together with a culture of work, there must be a culture of leisure as gratification. To put it another way: people who work must take the time to relax, to be with their families, to enjoy themselves, read, listen to music, play a sport.',
+        'Pope Francis',
     ],
     [
-        'It never ceases to amaze me that every second of every day, more than 6,000 billion neutrinos coming from nuclear reactions inside the sun whiz through my body, almost all of which will travel right through the earth without interruption.',
-        'Lawrence M. Krauss',
+        'Thanks to the Interstate Highway System, it is now possible to travel across the country from coast to coast without seeing anything.',
+        'Charles Kuralt',
     ],
     [
-        'I\'m an eternal realist and the success rate for being an actor is pretty low.',
-        'Tom Hiddleston',
+        'Reach for the stars.',
+        'Christa McAuliffe',
     ],
     [
-        'Meditation can help us embrace our worries, our fear, our anger; and that is very healing. We let our own natural capacity of healing do the work.',
-        'Thich Nhat Hanh',
+        'We can do better in higher education. And it is more than just technology. It\'s also an attitude on the part of faculty. We need to think through how we can produce a better quality product at less cost.',
+        'Roy Romer',
     ],
     [
-        'If you want to be thought a liar, always tell the truth.',
-        'Logan Pearsall Smith',
+        'I think the problems with comedians that are political, and there are some brilliant ones, are the ones that offer no solutions. Not that there\'s a moral obligation for a comic to fix things, but I like to see a comic that\'s upset about something and offer a solution. It can be a funny solution. I like to see the thought process.',
+        'Kyle Kinane',
     ],
     [
-        'I wanted Jesus in \'A.D.\' to be very, very, very human - to have those qualities of vulnerability and doubt and pain and sadness and loneliness. Once the resurrection happens and we see that Jesus has risen, it\'s almost complete, right? It\'s all about the joy and the smile and the happiness and the closeness to the disciples.',
-        'Juan Pablo Di Pace',
+        'I was perceived to be a first- to third-rounder. I kind of had a tough junior year and fell to the fifth round. At that time, it was motivational.',
+        'Ryan Howard',
     ],
     [
-        'When it comes to beauty, I feel that hanging with people you love, laughing, and doing silly things gets your spirits up. We are always prettier when we are happier.',
-        'Sara Sampaio',
+        'I experience a period of frightening clarity in those moments when nature is so beautiful. I am no longer sure of myself, and the paintings appear as in a dream.',
+        'Vincent Van Gogh',
     ],
     [
-        'I am a candid interview and I have a dark and dry sense of humor - a very Canadian sense of humor and I am only learning now stupidly that you can\'t read tongue. When I say something funny in a newspaper and I meant it to be funny, it doesn\'t read that way.',
-        'Michael Buble',
-    ],
-    [
-        'I\'ve met the most interesting people while flying or on a boat. These methods of travel seem to attract the kind of people I want to be with.',
-        'Hedy Lamarr',
-    ],
-    [
-        'The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.',
-        'Margaret Smith',
-    ],
-    [
-        'Life could be wonderful if people would leave you alone.',
-        'Travis Bradberry',
-    ],
-    [
-        'When I remember my mother, it makes me really sad. But, when I remember my father, it makes me smile.',
-        'Akkineni Nagarjuna',
-    ],
-    [
-        'When we go out there, we have fun, but we get to work, and I think we\'re at our best when we\'re having fun. Having fun is key.',
-        'Ezekiel Elliott',
-    ],
-    [
-        'It was pretty clear that I was a funny guy, just as a guy.',
-        'Chevy Chase',
-    ],
-    [
-        'I think a lot of the American people feel more than a little disappointed that the high-water mark for human exploration was 1969. The dream of human space travel has almost died for a lot of people.',
-        'Elon Musk',
+        'Choose to focus your time, energy and conversation around people who inspire you, support you and help you to grow you into your happiest, strongest, wisest self.',
+        'Karen Salmansohn',
     ],
 ];

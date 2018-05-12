@@ -2,103 +2,103 @@
 
 return [
     [
-        'I don\'t feel restless, I just like to travel.',
-        'Brad Pitt',
+        'I have wandered all my life, and I have also traveled; the difference between the two being this, that we wander for distraction, but we travel for fulfillment.',
+        'Hilaire Belloc',
     ],
     [
-        'The truest wisdom is a resolute determination.',
-        'Napoleon Bonaparte',
+        'It takes a long time for a man to look like his portrait.',
+        'James Whistler',
     ],
     [
-        'I will always desire to play with Bruce Springsteen. He\'s the most inspirational, most dedicated, most committed and most focused artist I\'ve ever seen. I like to be around people like that.',
-        'Max Weinberg',
+        'What\'s amazing is, if young people understood how doing well in school makes the rest of their life so much interesting, they would be more motivated. It\'s so far away in time that they can\'t appreciate what it means for their whole life.',
+        'Bill Gates',
     ],
     [
-        'There is no limit to suffering human beings have been willing to inflict on others, no matter how innocent, no matter how young, and no matter how old. This fact must lead all reasonable human beings, that is, all human beings who take evidence seriously, to draw only one possible conclusion: Human nature is not basically good.',
-        'Dennis Prager',
+        'I hate going to L.A. and dealing with the contempt people have for television and television actors. It\'s unbelievable the kind of attitude people take toward what is the most exciting medium we\'ve got right now.',
+        'Michael Moriarty',
     ],
     [
-        'When you look at the calculation, it\'s amazing that every time you try to prove or disprove time travel, you\'ve pushed Einstein\'s theory to the very limits where quantum effects must dominate. That\'s telling us that you really need a theory of everything to resolve this question. And the only candidate is string theory.',
-        'Michio Kaku',
-    ],
-    [
-        'We\'re not afraid of risking what was our success yesterday in order to explore some new field. We\'re adventurous. We like the challenge of unknown territory, unknown artistic field, and that\'s what stimulates us.',
-        'Guy Laliberte',
-    ],
-    [
-        'My family life reads a bit like \'Little House on the Prairie.\' I was big sister to Joan, Renee, and brother William, and we grew up in Dalkey, a little town 10 miles outside of Dublin. It was a secure, safe and happy childhood, which was meant to be a disadvantage when it comes to writing stories about family dramas.',
-        'Maeve Binchy',
-    ],
-    [
-        'Sunsets are so beautiful that they almost seem as if we were looking through the gates of Heaven.',
-        'John Lubbock',
-    ],
-    [
-        'In a war situation or where violence and injustice are prevalent, poetry is called upon to be something more than a thing of beauty.',
-        'Seamus Heaney',
-    ],
-    [
-        'To be in the privileged position where I am able to give something back is, for me, perhaps the single most important measure of success.',
-        'Mohamed Bin Issa Al Jaber',
-    ],
-    [
-        'Don\'t smother each other. No one can grow in the shade.',
-        'Leo F. Buscaglia',
-    ],
-    [
-        'Nature is inside art as its content, not outside as its model.',
-        'Marilyn French',
-    ],
-    [
-        'To be happy is to be able to become aware of oneself without fright.',
-        'Walter Benjamin',
-    ],
-    [
-        'The waving of a pine tree on the top of a mountain - a magic wand in Nature\'s hand - every devout mountaineer knows its power; but the marvelous beauty value of what the Scotch call a breckan in a still dell, what poet has sung this?',
+        'The mountains are calling and I must go.',
         'John Muir',
     ],
     [
-        'I might have been born in a hovel but I am determined to travel with the wind and the stars.',
-        'Jacqueline Cochran',
+        'I am a Piscean, and they have a lovingly detached attitude towards life.',
+        'Shahid Kapoor',
     ],
     [
-        'Fate is in your hands and no one elses',
-        'Byron Pulsifer',
+        'Formula for success: rise early, work hard, strike oil.',
+        'J. Paul Getty',
     ],
     [
-        'Travel, for me, is a little bit like being in love because suddenly, all your senses are at the setting marked \'on.\' Suddenly, you\'re alert to the secret patterns of the world.',
-        'Pico Iyer',
+        'I believe everything negative that happens in your life is for a positive reason. If your heart breaks, you know that you are a human being and it happens. But you can\'t mope over it. There\'s only one life. You better get on ahead and fast. Fast enough not to let your past ever catch up with you.',
+        'Bipasha Basu',
     ],
     [
-        'The true work of art is but a shadow of the divine perfection.',
-        'Michelangelo',
+        'Chaos and Order are not enemies, only opposites.',
+        'Richard Garriott',
     ],
     [
-        'You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.',
-        'Pearl Buck',
+        "He understood well enough how a man with a choice between pride and responsibility will almost always choose pride\u{2014}if responsibility robs him of his manhood.",
+        'Stephen King',
     ],
     [
-        'In this world, shipmates, sin that pays its way can travel freely, and without passport; whereas Virtue, if a pauper, is stopped at all frontiers.',
-        'Herman Melville',
+        'Aaah, summer - that long anticipated stretch of lazy, lingering days, free of responsibility and rife with possibility. It\'s a time to hunt for insects, master handstands, practice swimming strokes, conquer trees, explore nooks and crannies, and make new friends.',
+        'Darell Hammond',
     ],
     [
-        'Light and funny has a more compelling quality when you\'re younger. But I haven\'t abandoned the genre: I love falling down; I love Lucille Ball. It\'s just that a lot of those stories revolve around problems that I can\'t convincingly portray at this age.',
-        'Julia Roberts',
+        'The preparation is what allows the success to happen naturally.',
+        'Jake Arrieta',
     ],
     [
-        'Like the Earth, the Web is a less appealing place than it used to be. If I want attitude and arguing and meanness and profanity and wrong information screamed at me as gospel, I\'ll get in a time machine and spend Christmas with my family in 1977.',
-        'J. R. Moehringer',
+        'I was stupid when I started: the epitome of bright-eyed and bushy-tailed. It was like, \'I get to live in L.A. and drive around in limos? Really?\' I didn\'t realize I was owned. The more money gets pumped into you, the more you become a marionette. It made me a true redneck in attitude: I never wanted to wake up ever again feeling owned.',
+        'Al Jourgensen',
     ],
     [
-        'The attitude is we live and let live. This is actually an amazing change in values in a rather short time and it\'s an example of freedom from religion.',
-        'Tom Wolfe',
+        'The self is not something ready-made, but something in continuous formation through choice of action.',
+        'John Dewey',
     ],
     [
-        'How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.',
-        'Arthur Rubinstein',
+        'Family\'s first, and that\'s what matters most. We realize that our love goes deeper than the tennis game.',
+        'Serena Williams',
     ],
     [
-        'What\'s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.',
-        'Bob Dylan',
+        'No man can succeed in a line of endeavor which he does not like.',
+        'Napoleon Hill',
+    ],
+    [
+        'When you give as a family, not only are you sharing the happiness that giving brings you by watching it translate into positive change, but you are also transmitting your giving values to your children by engaging them in the giving process itself.',
+        'Laura Arrillaga-Andreessen',
+    ],
+    [
+        'Wisdom is the reward you get for a lifetime of listening when you\'d have preferred to talk.',
+        'Doug Larson',
+    ],
+    [
+        'I will tell you with 100 percent confidence, Jon Jones is not deep in my head. The fact he actually thinks that, it makes me smile every day.',
+        'Daniel Cormier',
+    ],
+    [
+        'The number one reason people fail in life is because they listen to their friends, family, and neighbors.',
+        'Napoleon Hill',
+    ],
+    [
+        'The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful.',
+        'Noam Chomsky',
+    ],
+    [
+        'The best thing to do with the best things in life is to give them up.',
+        'Ambrose Bierce',
+    ],
+    [
+        'Tackle the difficult things first in the morning; make changes in the way you network. Treat everyone with respect and dignity. This stops you from cynicism and negativity. End your day with that same attitude you started. Renew your contract with a day well completed.',
+        'Rick Pitino',
+    ],
+    [
+        'For a manager to be perceived as a positive manager, they need a four to one positive to negative contact ratio.',
+        'Ken Blanchard',
+    ],
+    [
+        'The most exciting phrase to hear in science, the one that heralds new discoveries, is not \'Eureka!\' but \'That\'s funny...\'',
+        'Isaac Asimov',
     ],
 ];

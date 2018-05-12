@@ -2,103 +2,103 @@
 
 return [
     [
-        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
-        'Jim Gaffigan',
+        'An artist cannot fail; it is a success to be one.',
+        'Charles Horton Cooley',
     ],
     [
-        'Here ends my forever memorable first High Sierra excursion. I have crossed the Range of Light, surely the brightest and best of all the Lord has built. And, rejoicing in its glory, I gladly, gratefully, hopefully pray I may see it again.',
+        'Raising children is an uncertain thing; success is reached only after a life of battle and worry.',
+        'Democritus',
+    ],
+    [
+        'At the end of the day, you are solely responsible for your success and your failure. And the sooner you realize that, you accept that, and integrate that into your work ethic, you will start being successful. As long as you blame others for the reason you aren\'t where you want to be, you will always be a failure.',
+        'Erin Cummings',
+    ],
+    [
+        'Everyone has things that they don\'t love about themselves but I think that as a woman its much healthier and more positive to focus on your good parts and the things you like about yourself, not pick yourself apart.',
+        'Miranda Kerr',
+    ],
+    [
+        'People just want to watch people live their authentic lives and share the good and the bad. You can have fun and be a positive influence and have a good impact. And it can still be entertaining.',
+        'Tyler Oakley',
+    ],
+    [
+        'When I hear somebody sigh, \'Life is hard,\' I am always tempted to ask, \'Compared to what?\'',
+        'Alejandro Gonzalez Inarritu',
+    ],
+    [
+        'No connection to the average voter - Clinton has an air of superiority. Despite her wide smile and pleasant appearance, she is envisioned as someone who is trying to hide something all the time.',
+        'Fabrizio Moreira',
+    ],
+    [
+        'Creativity comes from trust. Trust your instincts. And never hope more than you work.',
+        'Rita Mae Brown',
+    ],
+    [
+        'All I want to do when I have time off is to have a laugh with my school friends and go down the pub.',
+        'Samantha Mumba',
+    ],
+    [
+        'My grandmother, she\'s been the positive portion of my life the entire time. She raised us Baptist, and when I got old enough to say I didn\'t want to go to church, she didn\'t force me. She was cool.',
+        'Curtis Jackson',
+    ],
+    [
+        'I am able to really enjoy the positive attention I receive.',
+        'Doutzen Kroes',
+    ],
+    [
+        'Service to others is the rent you pay for your room here on earth',
+        'Muhammad Ali',
+    ],
+    [
+        'Yeah. I\'ve been pretty fortunate to travel I guess, all around the place.',
+        'Ben E. King',
+    ],
+    [
+        'If women had to promise to provide for a man for a lifetime before he removed his veil and showed her his smile, would we think of this as a system of female privilege?',
+        'Warren Farrell',
+    ],
+    [
+        'Time flies. It\'s up to you to be the navigator.',
+        'Robert Orben',
+    ],
+    [
+        'Nature is ever at work building and pulling down, creating and destroying, keeping everything whirling and flowing, allowing no rest but in rhythmical motion, chasing everything in endless song out of one beautiful form into another.',
         'John Muir',
     ],
     [
-        'One who is too insistent on his own views, finds few to agree with him.',
-        'Lao Tzu',
+        'Failure is only postponed success as long as courage \'coaches\' ambition. The habit of persistence is the habit of victory.',
+        'Herbert Kaufman',
     ],
     [
-        'Everyone looks so much better when they smile.',
-        'Jimmy Fallon',
+        'When I used to wrestle professionally, I preferred being the bad guy known as \'The Heel;\' you would get to \'work the crowd,\' getting them to hate you and want to see you lose, while the good guy \'Babyface\' would walk in, smile and shake hands with a few kids, and his acting job was done.',
+        'Conan Stevens',
     ],
     [
-        'If you work hard and you do your best, you can do anything.',
-        'Erin Heatherton',
+        'We try to make the name longer and longer every year. First, it was \'Larry the Cable Guy\'s Christmas Spectacular.\' Then it was \'It\'s a Very Larry Christmas.\' Now it\'s \'Larry the Cable Guy\'s Hula-palooza Christmas Luau.\' I\'ll tell you what it is: It\'s funny. That\'s what it is. Who cares what the name of it is? It is a funny special.',
+        'Larry the Cable Guy',
     ],
     [
-        'Syria should not belong to one family, to one coterie, or to one party. It belongs to all the people of Syria equally, in all their religious and ethnic diversity.',
-        'William Hague',
+        'The reason that Google was such a success is because they were the first ones to take advantage of the self-organizing properties of the web. It\'s in ecological sustainability. It\'s in the developmental power of entrepreneurship, the ethical power of democracy.',
+        'Ron Eglash',
     ],
     [
-        'We know the seductive alchemy of art. To transform private anguish into a narrative of truth, if not beauty; to make sense where there was none; to bring order out of chaos - these are the promises art makes.',
-        'Kathryn Harrison',
+        'No matter where I\'ve been overseas, the food stinks, except in Italy.',
+        'Carmen Electra',
     ],
     [
-        'I read for the \'ah-ha\'s,\' the information that makes a light bulb go off in my mind. I want to put information in my mind that is going to be the most beneficial to me, my family and my fellow man - financially, morally, spiritually, and emotionally.',
-        'Zig Ziglar',
+        'We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.',
+        'Sam Keen',
     ],
     [
-        'Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.',
-        'Winston Churchill',
+        'The greatest error of a man is to think that he is weak by nature, evil by nature. Every man is divine and strong in his real nature. What are weak and evil are his habits, his desires and thoughts, but not himself.',
+        'Ramana Maharshi',
     ],
     [
-        'I take care of my flowers and my cats. And enjoy food. And that\'s living.',
-        'Stephen Covey',
+        'All our dreams can come true if we have the courage to pursue them.',
+        'Walt Disney',
     ],
     [
-        'I have never won a race, and that is my main disappointment - but you have to be positive.',
-        'Jean Alesi',
-    ],
-    [
-        'I think Operation Smile is in more than 22 countries, mostly Third World. It just happened that my schedule opened up at the time they were heading to Vietnam.',
-        'Roma Downey',
-    ],
-    [
-        'I\'m not ugly, but my beauty is a total creation.',
-        'Georg Wilhelm Friedrich Hegel',
-    ],
-    [
-        'Ours is the century of enforced travel of disappearances. The century of people helplessly seeing others, who were close to them, disappear over the horizon.',
-        'John Berger',
-    ],
-    [
-        'I\'ve got a pretty iconoclastic attitude about all institutions myself. And I just think the church was corrupted right after Christ was killed.',
-        'Harry Dean Stanton',
-    ],
-    [
-        'A manager is a guide. He takes a group of people and says, \'With you I can make us a success; I can show you the way.\'',
-        'Arsene Wenger',
-    ],
-    [
-        'Nobody can predict the future. You just have to give your all to the relationship you\'re in and do your best to take care of your partner, communicate and give them every last drop of love you have. I think one of the most important things in a relationship is caring for your significant other through good times and bad.',
-        'Nick Cannon',
-    ],
-    [
-        'Drones overall will be more impactful than I think people recognize, in positive ways to help society.',
-        'Bill Gates',
-    ],
-    [
-        'Though music transcends language, culture and time, and though notes are the same, Indian music is unique because it is evolved, sophisticated and melodies are defined.',
-        'Dayananda Saraswati',
-    ],
-    [
-        'Attitude is more important than the past, than education, than money, than circumstances, than what people do or say. It is more important than appearance, giftedness, or skill.',
-        'Charles R. Swindoll',
-    ],
-    [
-        'Regard every suggestion that your life may be a failure, that you are not made like those who succeed, and that success is not for you, as a traitor, and expel it from your mind as you would a thief from your house.',
-        'Orison Swett Marden',
-    ],
-    [
-        'I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake.',
-        'George Bernard Shaw',
-    ],
-    [
-        'You don\'t manage people; you manage things. You lead people.',
-        'Grace Hopper',
-    ],
-    [
-        'And the attitude of faith is the very opposite of clinging to belief, of holding on.',
-        'Alan Watts',
-    ],
-    [
-        'My life is my message.',
-        'Justin Timberlake',
+        'I think the media can be a very positive influence by essentially holding people to task about the importance of high quality medical care. And when the media is scrutinizing you, then I think that\'s a very good, positive thing for the field of medicine.',
+        'Anthony Fauci',
     ],
 ];

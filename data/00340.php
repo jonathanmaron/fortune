@@ -2,103 +2,103 @@
 
 return [
     [
+        'The really magical things are the ones that happen right in front of you. A lot of the time you keep looking for beauty, but it is already there. And if you look with a bit more intention, you see it.',
+        'Vik Muniz',
+    ],
+    [
+        'Never allow a person to tell you no who doesn\'t have the power to say yes.',
+        'Eleanor Roosevelt',
+    ],
+    [
+        'After I finished high school I went to Hong Kong and Thailand and spent some time there. Just to get that whole experience of being out of the bubble that I was in from high school in Vancouver, to be able to travel around and be on your own was an amazing experience.',
+        'Shay Mitchell',
+    ],
+    [
+        'When you\'re working hard and doing all you can to achieve your goals, anything that can give you an edge is powerful and will streamline your path to success.',
+        'Travis Bradberry',
+    ],
+    [
+        'I could be hit by a Sara Lee truck tomorrow. Which is not a bad way of going: \'Richard Simmons Found in a Freeway in Pound Cake and Fudge, With a Smile on His Face.\' Let\'s face it. We don\'t know anything.',
+        'Richard Simmons',
+    ],
+    [
+        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
+        'Peter Diamandis',
+    ],
+    [
+        'Time changes everything except something within us which is always surprised by change.',
+        'Thomas Hardy',
+    ],
+    [
+        'Beauty is produced by the pleasing appearance and good taste of the whole, and by the dimensions of all the parts being duly proportioned to each other.',
+        'Vitruvius',
+    ],
+    [
+        'My son has been the best thing that has happened in my life. He has been amazing, and he is truly heaven-sent. And so, I just feel all that love.',
+        'Ciara',
+    ],
+    [
+        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
+        'Ariana Grande',
+    ],
+    [
+        'A doctor must work eighteen hours a day and seven days a week. If you cannot console yourself to this, get out of the profession.',
+        'Martin H. Fischer',
+    ],
+    [
+        'The laissez-faire attitude to science education has resulted in a disaster exemplified by the fact that more young people are opting for media studies than physics.',
+        'Harry Kroto',
+    ],
+    [
+        'Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?',
+        'Brian Tracy',
+    ],
+    [
+        'Beauty is about perception, not about make-up. I think the beginning of all beauty is knowing and liking oneself. You can\'t put on make-up, or dress yourself, or do you hair with any sort of fun or joy if you\'re doing it from a position of correction.',
+        'Kevyn Aucoin',
+    ],
+    [
         'It\'s a wonderful time when you sit down around the table for dinner and discuss life. No matter where you are, it gives the semblance of normalcy to my crazy world.',
         'Melina Kanakaredes',
     ],
     [
-        'Teach us that wealth is not elegance, that profusion is not magnificence, that splendor is not beauty.',
-        'Benjamin Disraeli',
+        'Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.',
+        'Robert Baden-Powell',
     ],
     [
-        'I took the decision that everything I would post would be positive. If you say, \'Ahh, I feel terrible today,\' and you spread that to the eyes and ears of millions of people, that\'s not good.',
-        'Jerome Jarre',
+        'Some people walk in the rain, others just get wet.',
+        'Roger Miller',
     ],
     [
-        'I like Aurora, \'Sleeping Beauty,\' because she\'s just sleeping and looking pretty and waiting for boys to come kiss her. Sounds like a good life - lots of naps and cute boys fighting dragons to come kiss you.',
-        'Ariana Grande',
+        'There are only three things women need in life: food, water, and compliments.',
+        'Og Mandino',
     ],
     [
-        'Every perfect traveler always creates the country where he travels.',
-        'Nikos Kazantzakis',
+        'Some people dream of success, while other people get up every morning and make it happen.',
+        'Wayne Huizenga',
     ],
     [
-        'So when you do your family tree and Margaret Cho does hers, and... Wanda Sykes and John Legend... we\'re adding to the database that scholars can then draw from to generalize about the complexity of the American experience. And that\'s the contribution that family trees make to broader scholarship.',
-        'Henry Louis Gates',
+        'I\'m happiest with my family around me.',
+        'Amy Winehouse',
     ],
     [
-        'One of the very best reasons for having children is to be reminded of the incomparable joys of a snow day.',
-        'Susan Orlean',
+        'Success leaves clues, and if you sow the same seeds, you\'ll reap the same rewards.',
+        'Brad Thor',
     ],
     [
-        'You should tell yourself frequently \'I will only react to constructive suggestions.\' This gives you positive ammunition against your own negative thoughts and those of others.',
-        'Jane Roberts',
+        'But I have found that in the simple act of living with hope, and in the daily effort to have a positive impact in the world, the days I do have are made all the more meaningful and precious. And for that I am grateful.',
+        'Elizabeth Edwards',
     ],
     [
-        'All men who have achieved great things have been great dreamers.',
-        'Orison Marden',
+        'I\'m a happy guy. I just want to see people laugh and smile.',
+        'Gerry Cooney',
     ],
     [
-        'Being positive is like going up a mountain. Being negative is like sliding down a hill. A lot of times, people want to take the easy way out, because it\'s basically what they\'ve understood throughout their lives.',
-        'Chuck D',
+        'My one regret in life is that I am not someone else.',
+        'Woody Allen',
     ],
     [
-        'You walk into the playgrounds in Shanghai and Beijing, and you see youngsters who are shorter, shaking and baking and having attitude. And Jeremy Lin is going to inspire all of them.',
-        'David Stern',
-    ],
-    [
-        'Life is not always not always what one wants it to be., but to make the best of it as it is the only way of being happy.',
-        'Lady Randolph Churchill',
-    ],
-    [
-        'Being a teenager is an amazing time and a hard time. It\'s when you make your best friends - I have girls who will never leave my heart and I still talk to. You get the best and the worst as a teen. You have the best friendships and the worst heartbreaks.',
-        'Sophia Bush',
-    ],
-    [
-        'Our behavior toward each other is the strangest, most unpredictable, and most unaccountable of all the phenomena with which we are obliged to live. In all of nature, there is nothing so threatening to humanity as humanity itself.',
-        'Lewis Thomas',
-    ],
-    [
-        'The key is to keep company only with people who uplift you, whose presence calls forth your best.',
-        'Epictetus',
-    ],
-    [
-        'Nobody ever drowned in his own sweat.',
-        'Ann Landers',
-    ],
-    [
-        'Champions are not the ones who always win races - champions are the ones who get out there and try. And try harder the next time. And even harder the next time. \'Champion\' is a state of mind. They are devoted. They compete to best themselves as much if not more than they compete to best others. Champions are not just athletes.',
-        'Simon Sinek',
-    ],
-    [
-        'Concision in style, precision in thought, decision in life.',
-        'Barbara Bush',
-    ],
-    [
-        'Travel, instead of broadening the mind, often merely lengthens the conversation.',
-        'Elizabeth Drew',
-    ],
-    [
-        'The countries who do the best in international comparisons, whether it\'s Finland or Japan, Denmark or Singapore, do well because they have professional teachers who are respected, and they also have family and community which support learning.',
-        'Howard Gardner',
-    ],
-    [
-        'A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.',
-        'Henry David Thoreau',
-    ],
-    [
-        'Any captain can only do his best for the team and for cricket. When you are winning, you are a hero. Lose, and the backslappers fade away.',
-        'Richie Benaud',
-    ],
-    [
-        'We all have to find beauty within us, as opposed to just our exterior.',
-        'Shay Mitchell',
-    ],
-    [
-        'Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.',
-        'Arthur Rubinstein',
-    ],
-    [
-        'I love Rauschenberg. I love that he created a turning point in visual history, that he redefined the idea of beauty, that he combined painting, sculpture, photography, and everyday life with such gall, and that he was interested in, as he put it, \'the ability to conceive failure as progress.\'',
-        'Jerry Saltz',
+        'I read all the time that people think I\'m arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, \'That image doesn\'t fit you.\'',
+        'Zlatan Ibrahimovic',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'I don\'t want to wake up and be bored. That\'s probably my greatest fear is to have nothing to do. What better job is there than to play quarterback for an NFL team, and certainly one that I\'ve been on for a long time and had success with? I don\'t plan on giving it up any time soon.',
-        'Tom Brady',
+        'The black market was a way of getting around government controls. It was a way of enabling the free market to work. It was a way of opening up, enabling people.',
+        'Milton Friedman',
     ],
     [
-        'I like being the underdog so they don\'t expect what\'s going to happen. It pushes me to work harder and do the things I\'m not doing better.',
-        'Kawhi Leonard',
+        'And the attitude of faith is the very opposite of clinging to belief, of holding on.',
+        'Alan Watts',
     ],
     [
-        'If one is desperate for love, I suggest looking at one\'s friends and family and see if love is all around. If not, get a new set of friends, a new family.',
-        'Jasmine Guy',
+        'I guess after college, I just got really into food. I also think going on the road doing stand-up makes you more into food. Because when you travel like that, one of the things to do is find really good places to eat.',
+        'Aziz Ansari',
     ],
     [
-        'Don\'t compromise yourself. You are all you\'ve got.',
-        'Janis Joplin',
+        'When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.',
+        'George Bernard Shaw',
     ],
     [
-        'And I have to work so hard at talking positively to myself. If I don\'t, it\'s just real hard to get through the day, and I\'ll get really down, and just want to cry. My whole body language changes. I get more slumped over.',
-        'Delta Burke',
+        'The whole thing about \'The Rover\' is the whole swagger of it, the whole guitar attitude swagger. I\'m afraid I\'ve got to say it, but it\'s the sort of thing that is so apparent when you hear \'Rumble\' by Link Wray - it\'s just total attitude, isn\'t it?',
+        'Jimmy Page',
     ],
     [
-        'Life is a long lesson in humility.',
-        'Dr. Seuss',
+        'Success to me is being a good person, treating people well.',
+        'David LaChapelle',
     ],
     [
-        'I look back on my life like a good day\'s work, it was done and I am satisfied with it.',
-        'Taylor Swift',
+        'Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.',
+        'Cadet Maxim',
     ],
     [
-        'In my life I\'ve learned that true happiness comes from giving. Helping others along the way makes you evaluate who you are. I think that love is what we\'re all searching for. I haven\'t come across anyone who didn\'t become a better person through love.',
-        'Theodore Zeldin',
+        'I am humbled and excited by new opportunities for me to support and share the amazing work NASA is doing to help us travel farther into the solar system and work with the next generation of science and technology leaders.',
+        'Scott Kelly',
     ],
     [
-        'Prosperity is the best protector of principle.',
+        'The value of beauty and inspiration is very much underrated, no question. But I want to be clear: I\'m not trying to be anyone\'s savior. I\'m just trying to think about the future and not be sad.',
+        'Elon Musk',
+    ],
+    [
+        'My best friend is the man who in wishing me well wishes it for my sake.',
+        'Aristotle',
+    ],
+    [
+        'If you get a diagnosis, get on a therapy, keep a good attitude and keep your sense of humor.',
+        'Teri Garr',
+    ],
+    [
+        'When I travel, I draw and paint sketches which is great fun. And as long as you are fully aware that it has nothing to do with actual art, I think that\'s all right.',
+        'Arne Jacobsen',
+    ],
+    [
+        'I feel like, if there\'s an elephant in the room, I\'d really like to start off by introducing the elephant in the room. And sometimes it\'s funny.',
+        'Louis Theroux',
+    ],
+    [
+        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.',
+        'Helen Keller',
+    ],
+    [
+        '\'Handsome\' means many things to many people. If people consider me handsome, I feel flattered - and have my parents to thank for it. Realistically, it doesn\'t hurt to be good-looking, especially in this business.',
+        'Richard Chamberlain',
+    ],
+    [
+        'We live in deeds, not years; in thoughts, not breaths; in feelings, not in figures on a dial. We should count time by heart throbs. He most lives who thinks most, feels the noblest, acts the best.',
+        'Aristotle',
+    ],
+    [
+        'I would wear the blue overalls of the fieldworker and often wore round, rimless glasses known as Mazzawati teaglasses. I had a car, and I wore a chauffeur\'s cap with my overalls. The pose of chauffeur was convenient because I could travel under the pretext of driving my master\'s car.',
+        'Nelson Mandela',
+    ],
+    [
+        'I think the expectation of me was that I\'d grow up, get married, have a family, probably not even have a job outside the home. I had bold notions sometime in my childhood that I wanted to be veterinarian... I wasn\'t sure I\'d ever do it.',
+        'Drew Gilpin Faust',
+    ],
+    [
+        'I\'m a big fan of doing \'Triple D.\' But I don\'t want to do it forever, don\'t get me wrong! Travel away from my family, are you crazy? But do you know what it does for these mom-and-pop restaurant joints? It changes their lives forever. I mean, their businesses will never be the same.',
+        'Guy Fieri',
+    ],
+    [
+        'It\'s not so much what you learn about Mumbai, it\'s what you learn about yourself, really. It\'s a funny old hippie thing, but it\'s true as well. You find out a lot about yourself and your tolerance, and about your inclusiveness.',
+        'Danny Boyle',
+    ],
+    [
+        'A friend is someone who understands your past, believes in your future, and accepts you just the way you are.',
+        'Unknown',
+    ],
+    [
+        'When you fish for love, bait with your heart, not your brain',
         'Mark Twain',
     ],
     [
-        'I\'ve been around a long time, and life still has a whole lot of surprises for me.',
-        'Loretta Lynn',
+        'The greatest good you can do for another is not just share your riches, but reveal to them their own.',
+        'Benjamin Disraeli',
     ],
     [
-        'Social media is something of a double-edged sword. At its best, social media offers unprecedented opportunities for marginalized people to speak and bring much needed attention to the issues they face. At its worst, social media also offers \'everyone\' an unprecedented opportunity to share in collective outrage without reflection.',
-        'Roxane Gay',
+        'A prudent question is one half of wisdom.',
+        'Francis Bacon',
     ],
     [
-        'My father\'s best friend, Georgie Terra, was an Italian guy. The children and the cousins and nieces and nephews were children of the Mafia. Those were the children he grew up with. If you want to go to a safe neighborhood, go to where the Mafia is.',
-        'Louis Gossett, Jr.',
-    ],
-    [
-        'Proving I\'m a good mother is the one achievement I\'m most proud of. It\'s brought out the best in me.',
-        'Sheena Easton',
-    ],
-    [
-        'In just six weeks from the time the design was started, we had the motor on the block testing its power.',
-        'Orville Wright',
-    ],
-    [
-        'My journey has been a very fun one because I\'ve chosen to make the best of every challenge that I\'ve had along the way no matter what.',
-        'Ciara',
-    ],
-    [
-        'When I was eight, my piano teacher played seven or eight notes, and I sang them. She stopped and looked at me in shock! That was the first time I\'d gotten that reaction. I\'d had looks of horror, but never shock in a positive way.',
-        'Chris Cornell',
-    ],
-    [
-        'I have a secret project which adds four hours every day to the 24 hours we have. There\'s a bit of time travel involved.',
-        'Sundar Pichai',
-    ],
-    [
-        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
-        'Christopher McCandless',
-    ],
-    [
-        'Time takes the ugliness and horror out of death and turns it into beauty.',
-        'Dodie Smith',
-    ],
-    [
-        'Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.',
-        'Charles A. Lindbergh',
-    ],
-    [
-        'Try to be like the turtle - at ease in your own shell.',
-        'Bill Copeland',
-    ],
-    [
-        'Delete the negative; accentuate the positive!',
-        'Donna Karan',
-    ],
-    [
-        'Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.',
-        'John Adams',
-    ],
-    [
-        'Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.',
-        'Coolio',
-    ],
-    [
-        'It was just like a dream. I could have ended up with an album that\'s not all that different from anything else coming out of Nashville. Mutt made the difference. He took these songs, my attitude, my creativity, and colored them in a way that is unique.',
-        'Shania Twain',
+        'If you\'re going to kill someone there isn\'t much reason to get all worked up about it and angry - you just pull the trigger. Angry discussions beforehand are a waste of time. We need to smile at Novell while we pull the trigger.',
+        'Jim Allchin',
     ],
 ];

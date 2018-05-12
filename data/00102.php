@@ -2,103 +2,103 @@
 
 return [
     [
-        'The Wine of Life keeps oozing drop by drop, The Leaves of Life keep falling one by one.',
-        'Les Brown',
+        'The day, water, sun, moon, night - I do not have to purchase these things with money.',
+        'Plautus',
     ],
     [
-        'But with exquisite breathing you smile, with satisfaction of love, And I touch you again as you tick in the silence and settle in sleep.',
-        'Karl Shapiro',
+        'There are people who can achieve huge success in life, while adding a bit of fun and a splash of colour to this increasingly grey world.',
+        'Peter James',
     ],
     [
-        'Everyone who achieves success in a great venture, solves each problem as they came to it. They helped themselves. And they were helped through powers known and unknown to them at the time they set out on their voyage. They keep going regardless of the obstacles they met.',
-        'W. Clement Stone',
+        'I strongly believe that through dedication and perseverance, one can overcome adversity to achieve success. It is a privilege to accept membership in the Horatio Alger Association, an organization which promotes this principle.',
+        'Ginni Rometty',
     ],
     [
-        'I have the curse of thinking funny!',
-        'Adam West',
+        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.',
+        'Babatunde Olatunji',
     ],
     [
-        'Study hard so that you can master technology, which allows us to master nature.',
-        'Che Guevara',
+        'If you have a successful run, everything comes to you. Nothing succeeds like success.',
+        'John Barry',
     ],
     [
-        'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
-        'Smokey Robinson',
+        'Choosing to be positive and having a grateful attitude is going to determine how you\'re going to live your life.',
+        'Joel Osteen',
     ],
     [
-        'I was the kind nobody thought could make it. I had a funny Boston accent. I couldn\'t pronounce my R\'s. I wasn\'t a beauty.',
-        'Barbara Walters',
+        'I have inspiration and feelings of being alive most every day I live.',
+        'Richard L. Evans',
     ],
     [
-        'Time is money says the proverb, but turn it around and you get a precious truth. Money is time.',
-        'George Gissing',
+        'Going to the woods is going home, for I suppose we came from the woods originally. But in some of nature\'s forests, the adventurous traveler seems a feeble, unwelcome creature; wild beasts and the weather trying to kill him, the rank, tangled vegetation, armed with spears and stinging needles, barring his way and making life a hard struggle.',
+        'John Muir',
     ],
     [
-        'I never thought I was particularly good looking. But when I see old photographs, I realise that I was. I do wish I had known that at the time because beauty is power. I didn\'t realise how lucky I was to be young, beautiful and in Hollywood. It didn\'t hit me. Every day I woke up, went to the film studio and just got on with it.',
-        'Joan Collins',
-    ],
-    [
-        'If you do what you love, it is the best way to relax.',
-        'Christian Louboutin',
-    ],
-    [
-        'If you want to become a great chef, you have to work with great chefs. And that\'s exactly what I did.',
+        'My wife, a schoolteacher, very disciplined. If you think I\'m tough, trust me, and wait till you see when the children are on the naughty step. It\'s hilarious. So we decided that I\'m going to work like a donkey and provide amazing support for the family.',
         'Gordon Ramsay',
     ],
     [
-        'Mathematics has beauty and romance. It\'s not a boring place to be, the mathematical world. It\'s an extraordinary place; it\'s worth spending time there.',
-        'Marcus du Sautoy',
+        'It\'s wonderful to travel with somebody that you love and we never travel anywhere without one another.',
+        'Roger Moore',
     ],
     [
-        'A horse is a thing of beauty... none will tire of looking at him as long as he displays himself in his splendor.',
-        'Xenophon',
+        'You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one.',
+        'John Lennon',
     ],
     [
-        'When everything else physical and mental seems to diminish, the appreciation of beauty is on the increase.',
-        'Bernard Berenson',
+        'I always try to stay aggressive. I always use my strengths and always work on my weaknesses to get better. That\'s just who I am.',
+        'Kristaps Porzingis',
     ],
     [
-        'We are often told we can\'t have brains and beauty, and I really hope that my message is that you can put on that red lip and curl your hair and put on that power dress - you don\'t have to sacrifice one for the other.',
-        'Tyra Banks',
+        'There are two great days in a person\'s life - the day we are born and the day we discover why.',
+        'Unknown',
     ],
     [
-        'Design is not just what it looks like and feels like. Design is how it works',
-        'Steve Jobs',
+        'I need to travel, of course, with my laptop, so I can do my business on the road.',
+        'Theophilus London',
     ],
     [
-        'Gratitude is riches. Complaint is poverty.',
-        'Doris Day',
+        'Positive anything is better than negative nothing.',
+        'Elbert Hubbard',
     ],
     [
-        'The single biggest surprise about arriving to the Senate is the defeatist attitude here.',
-        'Ted Cruz',
+        'If the only prayer you ever say in your entire life is thank you, it will be enough.',
+        'Simone de Beauvoir',
     ],
     [
-        'Work expands so as to fill the time available for its completion.',
-        'C. Northcote Parkinson',
+        'I\'ve covered a lot of ground geographically and emotionally and for years I lost my connection with my family. But the best comfort you can have, whether you are on the phone or sitting there in the living room with them, is with your parents, and to me family has always meant protection. When you smile you get a smile back, unconditionally.',
+        'Brigitte Nielsen',
     ],
     [
-        'I never smile when I have a bat in my hands. That\'s when you\'ve got to be serious. When I get out on the field, nothing\'s a joke to me. I don\'t feel like I should walk around with a smile on my face.',
-        'Hank Aaron',
+        'I love \'Braxton Family Values!\' I love seeing a strong family unit striving for success while dealing with everyday struggles like everyone else. Whatever drama they find themselves in, they find a way to solve it and get back to the importance of family. A positive show for sure.',
+        'Drew Sidora',
     ],
     [
-        'First, I was so dazzled and besotted by India. People said the poverty was biblical, and I\'m afraid that was my attitude, too. It\'s terribly easy to get used to someone else\'s poverty if you\'re living a middle-class life in it. But after a while, I saw it wasn\'t possible to accept it, and I also didn\'t want to.',
-        'Ruth Prawer Jhabvala',
+        'To be able to look back upon ones life in satisfaction, is to live twice.',
+        'Thomas A. Edison',
     ],
     [
-        'There is nothing impossible to him who will try.',
-        'Alexander the Great',
+        'Obscenity, which is ever blasphemy against the divine beauty in life, is a monster for which the corruption of society forever brings forth new food, which it devours in secret.',
+        'Percy Bysshe Shelley',
     ],
     [
-        'Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.',
-        'Milan Kundera',
+        'Truth isn\'t all about what actually happens but more about how what has happened is interpreted.',
+        'Byron Pulsifer',
     ],
     [
-        'I follow three rules: Do the right thing, do the best you can, and always show people you care.',
-        'Lou Holtz',
+        'Everyone who has ever met me for at least five minutes knows I\'m a really funny person. I love to laugh and to make people laugh, so writing comedy comes naturally to me.',
+        'Simone Elkeles',
     ],
     [
-        'Life is the art of drawing without an eraser.',
-        'Walt Disney',
+        'Interesting things come your way but as you get older, your lifestyle changes. I don\'t want to travel; I don\'t want to be in a hotel room away from my family.',
+        'Gary Oldman',
+    ],
+    [
+        'Liquid architecture. It\'s like jazz - you improvise, you work together, you play off each other, you make something, they make something. And I think it\'s a way of - for me, it\'s a way of trying to understand the city, and what might happen in the city.',
+        'Frank Gehry',
+    ],
+    [
+        'Even though photographers are only shooting the outside, beauty is more about who you are as a person - the life you lead - not your facade.',
+        'Nigel Barker',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Success is like reaching an important birthday and finding you\'re exactly the same.',
-        'Audrey Hepburn',
+        'What you wear in the evening is important for women because it\'s so personal, and it\'s so complicated to get it right. I like trousers for evening, especially when they have that width and attitude to them.',
+        'Stella McCartney',
     ],
     [
-        'The only real failure in life is not to be true to the best one knows.',
-        'Buddha',
+        'A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.',
+        'Henry David Thoreau',
     ],
     [
-        'We\'ve been trained since kindergarten: Be nice, be kind, share, put on a smile. So we\'re conditioned to squash our natural selfish instincts, and that\'s the right thing for society.',
-        'Bryan Cranston',
+        'First and foremost comes my family and my life with Brad. We have so much joy in raising our children and teaching them about the world that nothing really compares to that.',
+        'Angelina Jolie',
     ],
     [
-        'A zero-gravity flight is a first step toward space travel.',
-        'Stephen Hawking',
+        'Thinking well to be wise: planning well, wiser: doing well wisest and best of all.',
+        'Malcolm Forbes',
     ],
     [
-        'I learned one thing - never hate a positive option.',
-        'Kevin Garnett',
+        'You know, true love really matters, friends really matter, family really matters. Being responsible and disciplined and healthy really matters.',
+        'Courtney Thorne-Smith',
     ],
     [
-        'Keep yourself to the sunshine and you cannot see the shadow.',
-        'Helen Keller',
+        'You know you\'re a hopeless record nerd when your time travel fantasies always come around to how cool it would be to go back to 1973 and buy all the great funk and jazz and salsa records that came out that year on tiny obscure labels and are now really rare and expensive.',
+        'Adam Mansbach',
     ],
     [
-        'When I was a boy the Dead Sea was only sick.',
-        'George Burns',
+        'Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.',
+        'Anais Nin',
     ],
     [
-        'I\'ve been a huge fan of Marc Jacobs for many, many years, even going back to when I was wearing men\'s clothing. He captures a kind of simplicity and a kind of beauty that I like - projecting strength through femininity.',
-        'Chelsea Manning',
-    ],
-    [
-        'My father and his eight siblings grew up in the kind of poverty that Americans don\'t like to talk about unless a natural disaster like Hurricane Katrina strikes, and then the conversation only lasts as long as the news cycle. His family squatted in shacks. The children scavenged for food.',
-        'Karin Slaughter',
-    ],
-    [
-        'Our greatest glory is not in never falling, but in rising every time we fall.',
+        'To be wronged is nothing unless you continue to remember it.',
         'Confucius',
     ],
     [
-        'Great things are done by a series of small things brought together.',
-        'Vincent van Gogh',
+        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
+        'Jean-Michel Jarre',
     ],
     [
-        'I don\'t love Photoshop; I like imperfection. It doesn\'t mean ugly. I love a girl with a gap between her teeth, versus perfect white veneers. Perfection is just... boring. Perfect is what\'s natural or real; that is beauty.',
-        'Marc Jacobs',
+        'I don\'t mean this in a stuck-up way, but I needed an attitude song.',
+        'Gwen Stefani',
     ],
     [
-        'We do not know, in most cases, how far social failure and success are due to heredity, and how far to environment. But environment is the easier of the two to improve.',
-        'John B. S. Haldane',
+        'There has been a change in attitude, though.',
+        'Daniel Petrie',
     ],
     [
-        'If you must have motivation, think of your paycheck on Friday.',
-        'Noel Coward',
+        'What is government itself but the greatest of all reflections on human nature?',
+        'James Madison',
     ],
     [
-        'Life is an adventure, it\'s not a package tour.',
-        'Khalil Gibran',
+        'Some minds improve by travel, others, rather, resemble copper wire, or brass, which get the narrower by going farther.',
+        'Thomas Hood',
     ],
     [
-        '\'SMiLE\' is perhaps the Beach Boys\' most legendary album. It was recorded in 1966 and 1967 but only saw a formal release in 2011. That\'s a long time to wait for what was said to be Brian Wilson\'s masterpiece.',
-        'Henry Rollins',
-    ],
-    [
-        'It is usually best to admit mistakes when they occur, and to seek to restore honor..',
-        'Iroh',
-    ],
-    [
-        'For me, the beauty of a person is a matter of the whole package. You have to look at the whole thing, not just a matter of outward appearance or whatever. It has to do with one\'s character, personality, upbringing and so on.',
-        'Gong Li',
-    ],
-    [
-        'Hard work without talent is a shame, but talent without hard work is a tragedy.',
-        'Robert Half',
-    ],
-    [
-        'I\'m not hungry for success. I am only hungry for good work, and that is how it is with most superstars. Every day I tell myself how fortunate I am to be where I am.',
-        'Akshay Kumar',
-    ],
-    [
-        'Everyone has a different body shape, so you kind of have to figure out not only what works best for your body type, but what also makes you feel confident. Even if everyone thinks you look good in a bikini, and you don\'t feel good in it, you\'re not going to be at your best. If you feel great in a bikini, you can always work it.',
-        'Gigi Hadid',
-    ],
-    [
-        'In a person\'s career, well, if you\'re process-oriented and not totally outcome-oriented, then you\'re more likely to be success. I often say \'pursue excellence, ignore success.\' Success is a by-product of excellence.',
-        'Deepak Chopra',
-    ],
-    [
-        'I thank you God for this most amazing day, for the leaping greenly spirits of trees, and for the blue dream of sky and for everything which is natural, which is infinite, which is yes.',
-        'e. e. cummings',
-    ],
-    [
-        'You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.',
+        'You don\'t have to be great to start, but you have to start to be great.',
         'Zig Ziglar',
     ],
     [
-        'I\'ve made an odd discovery. Every time I talk to a savant I feel quite sure that happiness is no longer a possibility. Yet when I talk with my gardener, I\'m convinced of the opposite.',
-        'Bertrand Russell',
+        'Our behavior toward each other is the strangest, most unpredictable, and most unaccountable of all the phenomena with which we are obliged to live. In all of nature, there is nothing so threatening to humanity as humanity itself.',
+        'Lewis Thomas',
+    ],
+    [
+        'The dignity of everyday life - the beauty of it, the attitude of it - is what I live around. And it is never on screen, and it is certainly never associated with Africa. If we see Africa at all, it is always used as a backdrop: a big blob of a continent rather than a specific street or a country or a place.',
+        'Mira Nair',
+    ],
+    [
+        'I\'d like to one day be featured on a list of inspirational people who have made a difference in the world, whether it be helping underprivileged people or putting an end to the poaching of wildlife in Africa.',
+        'Candice Swanepoel',
+    ],
+    [
+        'When I work fourteen hours a day, seven days a week, I get lucky.',
+        'Armand Hammer',
+    ],
+    [
+        'Good fiction is about asserting the beauties of the world, inventing a new, positive thing. Where am I going to get that? And it should be original; it should not be cliched. So the way I looked at history was not to accuse it of failure.',
+        'Orhan Pamuk',
+    ],
+    [
+        'I have the same attitude with work - I like to go to work, I like to work really hard I, like to give everything my all, I like to try things that are new, you know.',
+        'Rosie Huntington-Whiteley',
+    ],
+    [
+        'I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.',
+        'Gilbert K. Chesterton',
+    ],
+    [
+        'The truth is of course is that there is no journey. We are arriving and departing all at the same time.',
+        'David Bowie',
+    ],
+    [
+        'Actors are supposed to be these runaways that get in a covered wagon filled with hats and tambourines and go from town to town making people smile.',
+        'John Cho',
+    ],
+    [
+        'As we grow old, the beauty steals inward.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'We can use decision-making to choose the habits we want to form, use willpower to get the habit started, then - and this is the best part - we can allow the extraordinary power of habit to take over. At that point, we\'re free from the need to decide and the need to use willpower.',
+        'Gretchen Rubin',
     ],
 ];

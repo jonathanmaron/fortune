@@ -2,103 +2,103 @@
 
 return [
     [
-        'Well, you would have to say what is the criteria to determine the success of any merger? It would have to be that the companies are stronger financially, that they took market share, and they are on a very steady footing in terms of their performance.',
-        'Kevin Rollins',
+        'A dream becomes a goal when action is taken toward its achievement.',
+        'Bo Bennet',
     ],
     [
-        'Love and fear. Everything the father of a family says must inspire one or the other.',
-        'Joseph Joubert',
+        'So to me, Texas Hold \'em puts me to sleep. At least when you play stud, you can be funny as you deal. Somebody some day is going to come up with a Stud show that\'s going to work.',
+        'Joseph Bologna',
     ],
     [
-        'We all have problems. The way we solve them is what makes us different.',
+        'The meaning of life is contained in every single expression of life. It is present in the infinity of forms and phenomena that exist in all of creation.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'I think I have an inner confidence that my tastes are pretty simple, that what I find funny finds a wide audience. I\'m not particularly intellectual or clever or minority-focused in my creative instincts. And I\'m certainly not aware of suppressing more sophisticated ambitions.',
+        'Rowan Atkinson',
+    ],
+    [
+        'A wise traveler never despises his own country.',
+        'William Hazlitt',
+    ],
+    [
+        'There is no cosmetic for beauty like happiness.',
+        'Maria Mitchell',
+    ],
+    [
+        'I am odd-looking. I sometimes think I look like a funny Muppet.',
+        'Angelina Jolie',
+    ],
+    [
+        'YouTube\'s a funny place because so many creators fall into their aesthetics out of necessity and the visuals are driven out of an urge to create. You get a lot of interesting examples of interesting design choices that have roots in practicality as well as an artistic sentiment.',
+        'Freddie Wong',
+    ],
+    [
+        'We need to accept that we won\'t always make the right decisions, that we\'ll screw up royally sometimes - understanding that failure is not the opposite of success, it\'s part of success.',
+        'Arianna Huffington',
+    ],
+    [
+        'Every man takes the limits of his own field of vision for the limits of the world.',
+        'Arthur Schopenhauer',
+    ],
+    [
+        'Miracles are a retelling in small letters of the very same story which is written across the whole world in letters too large for some of us to see.',
+        'C. S. Lewis',
+    ],
+    [
+        'The best way to keep one\'s word is not to give it.',
+        'Napoleon Bonaparte',
+    ],
+    [
+        'It is the sweet, simple things of life which are the real ones after all.',
+        'Yanni',
+    ],
+    [
+        'It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.',
+        'Mabel Newcomber',
+    ],
+    [
+        'I\'m a huge reggae fan. I want to go to Jamaica and make, like, Bob Marley \'One Love\' positive songs. That\'s what the world needs.',
+        'Jenny Lewis',
+    ],
+    [
+        'The beauty of reading is that it lets you travel in a way you could never know.',
+        'Alek Wek',
+    ],
+    [
+        'When many work together for a goal, Great things may be accomplished. It is said a lion cub was killed By a single colony of ants.',
+        'Saskya Pandita',
+    ],
+    [
+        'If you are not too long, I will wait here for you all my life.',
+        'Jim Rohn',
+    ],
+    [
+        'Maybe it\'s just parenthood that puts you in a situation where you just have to develop a new attitude, I guess, about things.',
+        'James Mercer',
+    ],
+    [
+        'Our thoughts really do create our lives. They\'ve done a lot of research showing if you\'re an optimistic, positive person you will be a healthier person than if you\'re a sad, depressed, negative person.',
+        'Alana Stewart',
+    ],
+    [
+        'If I have seen further than others, it is by standing upon the shoulders of giants.',
+        'Isaac Newton',
+    ],
+    [
+        'If you do what you always did, you will get what you always got.',
         'Unknown',
     ],
     [
-        'I feel French is very close to Urdu. Both languages are beautiful. Sadly, their beauty is lost in translation.',
-        'Amisha Patel',
+        'After I won the Oscar, my salary doubled, my friends tripled, my children became more popular at school, my butcher made a pass at me, and my maid hit me up for a raise.',
+        'Shirley Jones',
     ],
     [
-        'I have a really beautiful life right now, so there is no reason to be hostile. I\'m a husband, a father and a man who tries to do the right thing in life and in my work.',
-        'Ice Cube',
+        'A really great talent finds its happiness in execution.',
+        'Johann Wolfgang von Goethe',
     ],
     [
-        'You can\'t study comedy; it\'s within you. It\'s a personality. My humor is an attitude.',
-        'Don Rickles',
-    ],
-    [
-        'New technologies and approaches are merging the physical, digital, and biological worlds in ways that will fundamentally transform humankind. The extent to which that transformation is positive will depend on how we navigate the risks and opportunities that arise along the way.',
-        'Klaus Schwab',
-    ],
-    [
-        'We will see a breakdown of the family and family values if we decide to approve same-sex marriage, and if we decide to establish homosexuality as an acceptable alternative lifestyle with all the benefits that go with equating it with the heterosexual lifestyle.',
-        'Jerry Falwell',
-    ],
-    [
-        'In individual industries where female labour pays an important role, any movement advocating better wages, shorter working hours, etc., would not be doomed from the start because of the attitude of those women workers who are not organized.',
-        'Clara Zetkin',
-    ],
-    [
-        'What works for men does not always work for women, because success and likability are positively correlated for men and negatively correlated for women. That\'s what the research shows. As a man gets more successful, everyone is rooting for him. As a woman gets more successful, both men and women like her less.',
-        'Sheryl Sandberg',
-    ],
-    [
-        'The foolish man seeks happiness in the distance, the wise grows it under his feet.',
-        'James Oppenheim',
-    ],
-    [
-        'There are no secrets that time does not reveal.',
-        'Jean Racine',
-    ],
-    [
-        'Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.',
-        'Steve Jobs',
-    ],
-    [
-        'Child labor and poverty are inevitably bound together and if you continue to use the labor of children as the treatment for the social disease of poverty, you will have both poverty and child labor to the end of time.',
-        'Grace Abbott',
-    ],
-    [
-        'My restaurants are never opened on Thanksgiving; I want my staff to spend time with their family if they can. My feeling is, if I can\'t figure out how to make money the rest of the year so that my workers can enjoy the holidays, then I don\'t deserve to be an owner.',
-        'Michael Symon',
-    ],
-    [
-        'Motherhood is wonderful, but it\'s also hard work. It\'s the logistics more than anything. You discover you have reserves of energy you didn\'t know you had.',
-        'Deborah Mailman',
-    ],
-    [
-        'If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.',
-        'Charles Darwin',
-    ],
-    [
-        'Every time I took a long leave from home, I felt as if I were going to conquer the world. Or rather, take possession of what is my birthright, my inheritance.',
-        'Ella Maillart',
-    ],
-    [
-        'He taught me never to smile, which helps me when I visit disaster sites.',
-        'Emo Philips',
-    ],
-    [
-        'When the whole world is silent, even one voice becomes powerful.',
-        'Malala Yousafzai',
-    ],
-    [
-        'Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.',
-        'Byron Pulsifer',
-    ],
-    [
-        'The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. If you do that, you\'re in control of your life. If you don\'t, life controls you.',
-        'Tony Robbins',
-    ],
-    [
-        'Mindfulness is about love and loving life. When you cultivate this love, it gives you clarity and compassion for life, and your actions happen in accordance with that.',
-        'Eminem',
-    ],
-    [
-        'There is no retirement for an artist, it\'s your way of living so there is no end to it.',
-        'Henry Moore',
-    ],
-    [
-        'However, I must say that I am very happy to see that we have such a positive result for our first referendum in our history and that gives me more confidence in Taiwan\'s democracy.',
-        'Chen Shui-bian',
+        'There is nothing in a caterpillar that tells you it\'s going to be a butterfly.',
+        'R. Buckminster Fuller',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Part of doing good work is caring deeply about it, believing in what you\'re doing, and getting incredibly attached to the characters that you\'re playing, the stories you\'re telling, and the people you\'re working with.',
-        'Ari Graynor',
-    ],
-    [
-        'Your body is precious. It is our vehicle for awakening. Treat it with care.',
+        'If you light a lamp for somebody, it will also brighten your path.',
         'Buddha',
     ],
     [
-        'You know the funny thing, I don\'t get along with rich people. I get along with the middle class and the poor people better than I get along with the rich people.',
-        'Donald Trump',
+        'Never put off till tomorrow what you can do today.',
+        'Thomas Jefferson',
     ],
     [
-        'We were a family that made our Halloween costumes. Or, more accurately, my mother made them. She took no suggestions or advice. Halloween costumes were her territory. She was the brain behind my brother\'s winning girl costume, stuffing her own bra with newspapers for him to wear under a cashmere sweater and smearing red lipstick on his lips.',
-        'Ann Hood',
+        'Human subtlety will never devise an invention more beautiful, more simple or more direct than does nature because in her inventions nothing is lacking, and nothing is superfluous.',
+        'Leonardo da Vinci',
     ],
     [
-        'I\'m not one to think of burying my head in the sand - I\'ve always been a positive person and still am now.',
-        'Bastian Schweinsteiger',
+        'The attitude and capacity of the factory, the old metal table and the new ideas of the wooden furniture quickly and naturally suggested the possibility of metal furniture.',
+        'Donald Judd',
     ],
     [
-        'Opponents of capital punishment argue that the state has no right to take a murderer\'s life. Apparently, one fact that abolitionists forget or overlook is that the state is acting not only on behalf of society, but also on behalf of the murdered person and the murdered person\'s family.',
-        'Dennis Prager',
+        'I think the older you get, the more you realize how important life is, the more you think about your family.',
+        'Wes Welker',
     ],
     [
-        'Working 24 hours a day isn\'t enough anymore. You have to be willing to sacrifice everything to be successful, including your personal life, your family life, maybe more. If people think it\'s any less, they\'re wrong, and they will fail.',
-        'Kevin O\'Leary',
+        'It\'s always best to ask for forgiveness if you feel that you made a mistake. And again, asking for forgiveness is not just saying the words \'I\'m sorry\'; it is also offering what you need to do.',
+        'Grace Poe',
     ],
     [
-        'I enjoy the preparatory elements of travel - packing my bags and choosing my outfits - but my favourite part is getting there.',
-        'Dominic Monaghan',
+        'I could have probably raised them in L.A. and they would have been great and had so many things at their fingertips and been exposed to so many things. But we travel a lot, so I don\'t think that moving out of town is sheltering the girls at all. Maybe protecting them a little bit more, trying to prolong their youth.',
+        'Jennie Garth',
     ],
     [
-        'I gave a funny speech at my wife\'s birthday party, and I\'m thinking, \'Hey, I\'ve still got it.\'',
-        'Larry David',
+        'The time was ripe for Flower. The vibe was right.',
+        'Jody Watley',
     ],
     [
-        'In the depth of winter, I finally learned that there was within me an invincible summer.',
-        'Albert Camus',
+        'Travel, which was once either a necessity or an adventure, has become very largely a commodity, and from all sides we are persuaded into thinking that it is a social requirement, too.',
+        'Jan Morris',
     ],
     [
-        'A wise man can learn more from a foolish question than a fool can learn from a wise answer.',
-        'Bruce Lee',
+        'Rarely do great beauty and great virtue dwell together.',
+        'Petrarch',
     ],
     [
-        'Over and over I marvel at the blessings of my life: Each year has grown better than the last.',
-        'Philip Green',
+        'I was totally surprised by the spread of the legalization of same-sex marriage. In just my lifetime we have gone from a taboo to even talk about homosexuality, to the sanction by governments of homosexual marriage. Few such large social considerations have ever before been turned over in such a short time.',
+        'John Naisbitt',
     ],
     [
-        'The earth is such a voluminous, sparse, wild place that has its own rhythm that human beings try to control and strategize our way around, but the truth is, if you\'re out someplace like the ocean on a capsized boat, it doesn\'t matter if you have academic degrees, or if you\'re a martial-arts ninja. Nature is a bigger force than you.',
-        'Rachael Taylor',
+        'It\'s great working with my sister, because we are very close as a family - my brother, my sister and myself. We have a great relationship.',
+        'Penelope Cruz',
     ],
     [
-        'My mama always said: life\'s like a box of chocolate, you never know what you gonna get.',
-        'Forrest Gump',
+        'My dad said to me, \'Work hard and be patient.\' It was the best advice he ever gave me. You have to put the hours in.',
+        'Simon Cowell',
     ],
     [
-        'I\'m starting to think about things that I want to do, things that are fun. One of them is driving a car like a Porsche. I\'ve driven a lot of cars - sedans, trucks and big family vehicles all year long. But there\'s nothing like a four-wheel-drive Porsche.',
-        'Kevin O\'Leary',
+        'I always want to find the best burger in town.',
+        'Dennis Quaid',
     ],
     [
-        'Music was always heavily involved with my spirit. My entire family is Jamaican. It\'s nothing but reggae music and those kinds of vibes.',
-        'Shameik Moore',
+        'I take work very seriously and telling the truth in my job and professionalism.',
+        'Brittany Murphy',
     ],
     [
-        'Keep your eyes on the stars and your feet on the ground.',
+        'I just want to go in with the right attitude and from Day 1 make a difference.',
+        'Freddy Adu',
+    ],
+    [
+        'It\'s funny, but when there are dominant teams, there are a number of people who rail about the fact that they\'re always seeing the Dallas Cowboys or the San Francisco 49ers or the Green Bay either in the playoffs or in the Super Bowl.',
+        'Al Michaels',
+    ],
+    [
+        'She got her looks from her father. He\'s a plastic surgeon.',
+        'Groucho Marx',
+    ],
+    [
+        'When humor can be made to alternate with melancholy, one has a success, but when the same things are funny and melancholic at the same time, it\'s just wonderful.',
+        'Francois Truffaut',
+    ],
+    [
+        'In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.',
         'Theodore Roosevelt',
     ],
     [
-        'Going to the woods is going home, for I suppose we came from the woods originally. But in some of nature\'s forests, the adventurous traveler seems a feeble, unwelcome creature; wild beasts and the weather trying to kill him, the rank, tangled vegetation, armed with spears and stinging needles, barring his way and making life a hard struggle.',
-        'John Muir',
+        'I\'ve always spent more time with a smile on my face than not, but the thing is, I don\'t write about it.',
+        'Robert Smith',
     ],
     [
-        'We are all born with a unique genetic blueprint, which lays out the basic characteristics of our personality as well as our physical health and appearance... And yet, we all know that life experiences do change us.',
-        'Agatha Christie',
+        'I think they should have a Barbie with a buzz cut.',
+        'Ellen DeGeneres',
     ],
     [
-        'I started modeling when I was - not older, but not 12. I have a mom who\'s a feminist - she\'s an English professor, an intellectual. She really gave me the equipment to understand that you can celebrate yourself without putting yourself down or needing to apologize for the way you look. I think that attitude is really crucial for a model.',
-        'Emily Ratajkowski',
+        'Everyone can identify with a fragrant garden, with beauty of sunset, with the quiet of nature, with a warm and cozy cottage.',
+        'Thomas Kincade',
     ],
     [
-        'I get to travel, see the world, meet people and be independent. I feel blessed.',
-        'Bar Refaeli',
+        'Pastry is different from cooking because you have to consider the chemistry, beauty and flavor. It\'s not just sugar and eggs thrown together. I tell my pastry chefs to be in tune for all of this. You have to be challenged by using secret or unusual ingredients.',
+        'Ron Ben-Israel',
     ],
     [
-        'I don\'t smile much, and I never laugh. If you\'d been through what I\'ve been through, you wouldn\'t be smiling, either.',
-        'Charlie Sifford',
-    ],
-    [
-        'Without this tremendous passion for power, influence, and advantage which money gives, how could nature develop the highest type of man? Without this infinite longing, whence would come the discipline which industry, perseverance, tact, sagacity, and frugality give?',
-        'Orison Swett Marden',
-    ],
-    [
-        'Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn\'t will be priceless.',
-        'Kevin Ngo',
-    ],
-    [
-        'I call my golden retriever Cara my \'white wolf.\' She\'s changed my attitude and made me write this book where the wolf is the hero, not the villain.',
-        'Debi Gliori',
+        'In life, you have to take the pace that love goes. You don\'t force it. You just don\'t force love, you don\'t force falling in love, you don\'t force being in love - you just become. I don\'t know how to say that in English, but you just feel it.',
+        'William James',
     ],
 ];

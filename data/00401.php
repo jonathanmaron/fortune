@@ -2,103 +2,103 @@
 
 return [
     [
-        'I wake up every morning literally with a smile on my face, grateful for another day I never thought I\'d see.',
-        'Dick Cheney',
+        'When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.',
+        'Audre Lorde',
     ],
     [
-        'I travel to Cambodia, Thailand, Bali, and Nairobi for my charities: Somaly Mam and Friends to Mankind.',
-        'Serinda Swan',
+        'Success is not greedy, as people think, but insignificant. That is why it satisfies nobody.',
+        'Lucius Annaeus Seneca',
     ],
     [
-        'Family preparedness has been a long-established welfare principle.',
-        'Ezra Taft Benson',
+        'A lot of people think they should be happy all the time. But the writer understands you need both. You need the whole piano: the richness of the whole human experience. Depression, suffering and anger are all part of being human.',
+        'Janet Fitch',
     ],
     [
-        'When I was doing \'Smile,\' I was looking back at pictures of myself and going, \'Thank goodness I couldn\'t do the sprayed-bangs thing! Everybody\'s so embarrassed by that hairstyle now, but I was never cool enough to pull it off!\'',
-        'Raina Telgemeier',
+        'Believe that life is worth living and your belief will help create the fact.',
+        'William James',
     ],
     [
-        'Having no competition is a bad thing. Competition makes you try to improve yourself all the time.',
-        'Shu Qi',
+        'This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.',
+        'Hannah Arendt',
     ],
     [
-        'Each person must live their life as a model for others.',
-        'Wayne Dyer',
+        'Chaos was the law of nature; Order was the dream of man.',
+        'Henry Adams',
     ],
     [
-        'When I wake up every morning, I smile and say, \'Thank you.\' Because out of my window I can see the mountains, then go hiking with my dog and share her bounding joy in the world.',
-        'Carole King',
+        'It\'s a question of keeping one\'s eyes and ears open and watching how other people play the game. They\'re watching me too, to see what my attitude is like.',
+        'Charles Dance',
     ],
     [
-        'I am trying to show the world that we are all human beings and that color is not important. What is important is the quality of our work.',
-        'Alvin Ailey',
+        'These words dropped into my childish mind as if you should accidentally drop a ring into a deep well. I did not think of them much at the time, but there came a day in my life when the ring was fished up out of the well, good as new.',
+        'John Steinbeck',
     ],
     [
-        'I do work too hard sometimes, but my mom is such an inspiration. She tells me to \'chill out\' and not take things so seriously. She will say: \'Go and have a massage.\'',
-        'Josh Peck',
+        'Perhaps the greatest social service that can be rendered by anybody to the country and to mankind is to bring up a family.',
+        'George Bernard Shaw',
     ],
     [
-        'If only we\'d stop trying to be happy we\'d have a pretty good time.',
-        'Edith Wharton',
+        'One of the most tragic things I know about human nature is that all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon instead of enjoying the roses that are blooming outside our windows today.',
+        'Dale Carnegie',
     ],
     [
-        'Growing up, I just wanted to be like everyone else. I didn\'t value or understand the beauty in being different at the time in my life.',
-        'Marisol Nichols',
+        'This CD became something of a personal journey for me. The tone of the whole CD is uplifting and inspirational. It\'s an upper. We have enough downers in the world.',
+        'Roma Downey',
     ],
     [
-        'Each and every one of the security measures we implement serves an important goal: providing safe and efficient air travel for the millions of people who rely on our aviation system every day.',
-        'Janet Napolitano',
+        'I want to travel. Maybe I\'ll end up living in Norway, making cakes.',
+        'Eva Green',
     ],
     [
-        'I was told at first that being different was a bad thing. Everywhere I went, it was just, \'You\'re too different\'... And it turned out that being different was the best thing that ever happened to my career. It is why people travel to my shows. It\'s why people want to hear my story and buy my book.',
-        'Lindsey Stirling',
+        'Never regret yesterday. Life is in you today and you make your tomorrow.',
+        'John Milton',
+    ],
+    [
+        'My best personality trait that I think I\'m very approachable. And my worst is that I can be moody.',
+        'Enrique Iglesias',
+    ],
+    [
+        'The key to education is the experience of beauty.',
+        'Friedrich Schiller',
+    ],
+    [
+        'One\'s appearance bespeaks dignity corresponding to the depth of his character. One\'s concentrated effort, serene attitude, taciturn air, courteous disposition, thoroughly polite bearing, gritted teeth with a piercing look - each of these reveals dignity. Such outward appearance, in short, comes from constant attentiveness and seriousness.',
+        'Yamamoto Tsunetomo',
+    ],
+    [
+        'It takes 20 years to make an overnight success.',
+        'Eddie Cantor',
+    ],
+    [
+        'I see flaws as a kind of beauty.',
+        'Karan Mahajan',
+    ],
+    [
+        'Never tell me the sky\'s the limit when there are footprints on the moon.',
+        'Unknown',
+    ],
+    [
+        'You build on failure. You use it as a stepping stone. Close the door on the past. You don\'t try to forget the mistakes, but you don\'t dwell on it. You don\'t let it have any of your energy, or any of your time, or any of your space.',
+        'Johnny Cash',
+    ],
+    [
+        'Children learn to smile from their parents.',
+        'Shinichi Suzuki',
+    ],
+    [
+        'I spent a lot of time with a crown on my head.',
+        'Halle Berry',
+    ],
+    [
+        'This suspense is terrible. I hope it will last.',
+        'Oscar Wilde',
     ],
     [
         'As I travel the world, it seems that younger people identify me merely with some of the folklore in the \'Chuck Norris Facts\' - those hyperbolic sayings that elevate my abilities beyond my capabilities. Others view me in light of the character I played in \'Walker, Texas Ranger\' or in one of my 20 tough-guy films.',
         'Chuck Norris',
     ],
     [
-        'The purely agitation attitude is not good enough for a detailed consideration of a subject.',
-        'Michael Korda',
-    ],
-    [
-        'In Italy, they add work and life on to food and wine.',
-        'Robin Leach',
-    ],
-    [
-        'Nothing succeeds like success. Get a little success, and then just get a little more.',
-        'Maya Angelou',
-    ],
-    [
-        'Riding my motorcycle around L.A. is like my own video game. But unlike many folks at the wheel, I am occupied with getting where I\'m going and keeping myself safe. Most people are applying makeup, texting, and checking out the beauty in the next car.',
-        'Hugh Laurie',
-    ],
-    [
-        'While it is desirable to build up the colored race, we must not sacrifice our best and purest white friends.',
-        'Hiram Rhodes Revels',
-    ],
-    [
-        'After a storm comes a calm.',
-        'Matthew Henry',
-    ],
-    [
-        'Nothing is impossible to him who will try.',
-        'Alexander The Great',
-    ],
-    [
-        'A series of rumors about my attitude, as well as derogatory remarks about myself and my family showed me that the personal resentment of the Detroit general manager toward me would make it impossible for me to continue playing hockey in Detroit.',
-        'Ted Lindsay',
-    ],
-    [
-        'I arise full of eagerness and energy, knowing well what achievement lies ahead of me.',
-        'Zane Grey',
-    ],
-    [
-        'I am the Way, the Truth, and the Life. No one comes to the Father except through me.',
-        'Sophocles',
-    ],
-    [
-        'As a spiritual person, nature for me has always been a healing place. Going back all the way to my childhood on the farm, the fields and forests were places of adventure and self-discovery. Animals were companions and friends, and the world moved at a slower, more rational pace than the bustling cities where I\'d resided my adult life.',
-        'David Mixner',
+        'It\'s sometimes tiring to get off a long-haul flight and go straight to the studio for a shoot, but if you really plan everything well, you can get so much out of combining travel with work.',
+        'Alek Wek',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'People say I am the king of painful shoes. I don\'t want to create painful shoes, but it is not my job to create something comfortable. I try to make high heels as comfortable as they can be, but my priority is design, beauty and sexiness. I\'m not against them, but comfort is not my focus.',
-        'Christian Louboutin',
+        'I feel the best after a workout - I\'m sweaty and exhausted, but it also gives me an energy I really like.',
+        'Hilary Rhoda',
     ],
     [
-        'I find, in being black, a thing of beauty: a joy; a strength; a secret cup of gladness.',
-        'Ossie Davis',
+        'I love not man the less, but Nature more.',
+        'Lord Byron',
     ],
     [
-        'Mankind is made great or little by its own will.',
-        'Friedrich Schiller',
+        'Life\'s blows cannot break a person whose spirit is warmed by the fire of enthusiasm.',
+        'Norman Vincent Peale',
     ],
     [
-        'I represent poor people, I represent working people. I represent senior citizens. I represent family businesses. I represent people who don\'t have the wherewithal to hire overpriced Washington lobbyists and lawyers. I want to send the powers back to the states and the people.',
-        'Paul Broun',
+        'My agent says that I\'m a \'repeat business guy.\' If you hire me to come do a movie, I\'ll be on time, know all my material, be ready to go, have a good attitude. I\'m here to work, so I get hired over and over again by the same producers. If you just be a team player on set you can work so much more often.',
+        'Dean Cain',
     ],
     [
-        'An idea isn\'t responsible for the people who believe in it.',
-        'Don Marquis',
+        'As my father used to tell me, the only true sign of success in life is being able to do for a living that which makes you happy.',
+        'Al Yankovic',
     ],
     [
-        'Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.',
-        'James Joyce',
+        'He who has health has hope, and he who has hope has everything.',
+        'Unknown',
     ],
     [
-        'Engineering or technology is all about using the power of science to make life better for people, to reduce cost, to improve comfort, to improve productivity, etc.',
-        'Elbert Hubbard',
+        'All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.',
+        'Anne Bronte',
     ],
     [
-        'One of the best ways to make yourself happy in the present is to recall happy times from the past. Photos are a great memory-prompt, and because we tend to take photos of happy occasions, they weight our memories to the good.',
-        'Gretchen Rubin',
+        'The whole point about laughter is it\'s like mercury: you can\'t catch it, you can\'t catch what motivates it - that\'s why it\'s funny.',
+        'Mike Nichols',
     ],
     [
-        'Life becomes harder for us when we live for others, but it also becomes richer and happier.',
-        'Vanessa Lachey',
+        'It\'s human nature that if you get 20 positive comments and one negative one, you\'re going to focus on the negative. We all do that. It can be something that drags you down. It\'s easy to get bogged down with it, but I try to concentrate on the good things.',
+        'Bindi Irwin',
     ],
     [
-        'The ideal and the beautiful are identical; the ideal corresponds to the idea, and beauty to form; hence idea and substance are cognate.',
-        'Victor Hugo',
+        'About the only problem with success is that it does not teach you how to deal with failure.',
+        'Tommy Lasorda',
     ],
     [
-        'I work very hard, and I play very hard. I\'m grateful for life. And I live it - I believe life loves the liver of it. I live it.',
+        'To be happy when you are travelling, you need to be happy inside before you leave. A positive frame of mind will definitely enhance your travelling experience. If I\'m not in a positive frame of mind then the whole thing definitely becomes more of a challenge for me.',
+        'Andrea Bocelli',
+    ],
+    [
+        'Life is like riding a bicycle. To keep your balance, you must keep moving.',
+        'Ayn Rand',
+    ],
+    [
+        'Smiles come naturally to me, but I started thinking of them as an art form at my command. I studied all the time. I looked at magazines, I\'d practice in front of the mirror and I\'d ask photographers about the best angles. I can now pull out a smile at will.',
+        'Tyra Banks',
+    ],
+    [
+        'One day I looked in the mirror, and I wasn\'t happy. If you\'re not feeling good mentally, emotionally and physically, you\'re just a mess - and that\'s the point I felt like. It was a change in attitude and a shift in lifestyle. There\'s no crazy diet; I train six days a week, and I eat really well.',
+        'Ricki-Lee Coulter',
+    ],
+    [
+        'As knowledge increases, wonder deepens.',
+        'Charles Morgan',
+    ],
+    [
+        'I love faltering. I love, in a sense, coming up short. Because you learn nothing from success. You learn so much from failing.',
+        'Charlie Trotter',
+    ],
+    [
+        'I believe one of the best things about managing people is that we can influence lives in a positive way. That\'s basically what a manager is about. When I can do that, I am very happy.',
+        'Arsene Wenger',
+    ],
+    [
+        'Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.',
+        'Buddha',
+    ],
+    [
+        'Don\'t let what you cannot do interfere with what you can do.',
+        'John R. Wooden',
+    ],
+    [
+        'As a goalie, you must stay positive. And if you do make a mistake, well, those things happen when you play my position.',
+        'Henrik Lundqvist',
+    ],
+    [
+        'Money won\'t create success, the freedom to make it will.',
+        'Nelson Mandela',
+    ],
+    [
+        'My favourite animal is the koala, but his life would be boring. I would rather be a giraffe so that I could contemplate the beauty of Africa.',
+        'Caterina Murino',
+    ],
+    [
+        'When you learn, teach. When you get, give.',
         'Maya Angelou',
     ],
     [
-        'Reproof on her lip, but a smile in her eye.',
-        'Samuel Lover',
+        'Everything has positive and negative consequences.',
+        'Farrah Fawcett',
     ],
     [
-        'Our chief want is someone who will inspire us to be what we know we could be.',
-        'Ralph Waldo Emerson',
-    ],
-    [
-        'I\'ve been through a lot of things in my personal and family life. That turned me into a fighter. I always strive to be the best I possibly can.',
-        'Hope Solo',
-    ],
-    [
-        'There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge.',
-        'Baltasar Gracian',
-    ],
-    [
-        'Employees are a company\'s greatest asset - they\'re your competitive advantage. You want to attract and retain the best; provide them with encouragement, stimulus, and make them feel that they are an integral part of the company\'s mission.',
-        'Anne M. Mulcahy',
-    ],
-    [
-        'Every year, I travel extensively in the autumn and the spring. I set most of the winter and summer aside for my family and my own tribal relatives. But during that traveling time, I often find myself visiting other native communities around the continent - perhaps a dozen or more each year.',
-        'Joseph Bruchac',
-    ],
-    [
-        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
-        'Michelangelo',
-    ],
-    [
-        'I met my grandfather just before he died, and it was the first time that I had seen Dad with a relative of his. It was interesting to see my own father as a son and the body language and alteration in attitude that comes with that, and it sort of changed our relationship for the better.',
-        'Christian Bale',
-    ],
-    [
-        'I think we all do have a guardian angel. I believe they work through us all the time, when we are thoughtful and good and kind to each other.',
-        'Roma Downey',
-    ],
-    [
-        'We wanted Nike to be the world\'s best sports and fitness company. Once you say that, you have a focus. You don\'t end up making wing tips or sponsoring the next Rolling Stones world tour.',
-        'Phil Knight',
-    ],
-    [
-        'There are one hundred men seeking security to one able man who is willing to risk his fortune.',
-        'J. Paul Getty',
-    ],
-    [
-        'You can achieve all the things you want to do, but it\'s much better to do it with loved ones around you; family and friends, people that you care about that can help you on the way and can celebrate you, and you can enjoy the journey.',
-        'John Lasseter',
-    ],
-    [
-        'When we ask for advice, we are usually looking for an accomplice.',
-        'Saul Bellow',
-    ],
-    [
-        'I want every Filipino woman empowered with information regarding all options available to her regarding family planning.',
-        'Lea Salonga',
+        'The future of America is not an entitlement. We have been given a treasure chest of gifts and opportunities, but some people are being left behind, and success is not sustainable unless it is shared.',
+        'Howard Schultz',
     ],
 ];

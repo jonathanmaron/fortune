@@ -2,103 +2,103 @@
 
 return [
     [
-        'The gift of fantasy has meant more to me than my talent for absorbing positive knowledge.',
+        'Love is a strange emotion. It is ever evolving. Lust is transient. With time, one realizes that love and togetherness are two different things. Very few people are lucky enough to experience the two emotions simultaneously.',
+        'Randeep Hooda',
+    ],
+    [
+        'Sometimes you get the best light from a burning bridge.',
+        'Don Henley',
+    ],
+    [
+        'I confess, I do not believe in time.',
+        'Vladimir Nabokov',
+    ],
+    [
+        'Sex is a part of nature. I go along with nature.',
+        'Marilyn Monroe',
+    ],
+    [
+        'I\'d like to dial it back 5% or 10% and try to have a vacation that\'s not just e-mail with a view.',
+        'Elon Musk',
+    ],
+    [
+        'I have always wanted to be a catalyst for bringing about positive change, inspiring others to choose goodness.',
+        'Shari Arison',
+    ],
+    [
+        'And when I breathed, my breath was lightning.',
+        'Black Elk',
+    ],
+    [
+        'I thank my personal staff for their restless sacrifice for my work.',
+        'Oskar Schindler',
+    ],
+    [
+        'I have just got a new theory of eternity.',
         'Albert Einstein',
     ],
     [
-        'People always ask me, \'Were you funny as a child?\' Well, no, I was an accountant.',
-        'Ellen DeGeneres',
+        'Nothing good comes in life or athletics unless a lot of hard work has preceded the effort. Only temporary success is achieved by taking short cuts.',
+        'Roger Staubach',
     ],
     [
-        'I didn\'t grow up identifying with beauty. I grew up thinking I could be smart and funny - those are the things I got feedback on.',
-        'Lauren Graham',
+        'The most formidable weapon against errors of every kind is reason.',
+        'Thomas Paine',
     ],
     [
-        'Once we accept our limits, we go beyond them.',
-        'Albert Einstein',
+        'Stage fright is not a thing about \'Am I any good?\' It\'s about \'Am I gonna be good tonight?\' It\'s a right-now thing. It helps me. If I went out there thinkin\', \'Eh, we\'ll go slaughter \'em,\' I\'m positive something would go seriously wrong.',
+        'Gregg Allman',
     ],
     [
-        'Freedom is the right to live as we wish.',
-        'Epictetus',
+        'Everyone has a different beauty and different qualities and I think that women need to learn to love their qualities and be comfortable in the fact that everyone is different.',
+        'Miranda Kerr',
     ],
     [
-        'There is no point to samba if it doesn\'t make you smile.',
-        'Alma Guillermoprieto',
+        'The world doesn\'t happen to you it happens from you.',
+        'Unknown',
     ],
     [
-        'Life is a horizontal fall.',
-        'Khalil Gibran',
+        'There are no straight lines or sharp corners in nature. Therefore, buildings must have no straight lines or sharp corners.',
+        'Antoni Gaudi',
     ],
     [
-        'And the smile that is worth the praises of earth is the smile that shines through tears.',
-        'Ella Wheeler Wilcox',
+        'Tourists don\'t know where they\'ve been, travelers don\'t know where they\'re going.',
+        'Paul Theroux',
     ],
     [
-        'External nature is only internal nature writ large.',
-        'Swami Vivekananda',
+        'In general, men are wired to notice obvious signs that convey interest in mating - a warm smile, for example - and ignore other subtleties, like if your lipstick is faded.',
+        'Helen Fisher',
     ],
     [
-        'Thinking well to be wise: planning well, wiser: doing well wisest and best of all.',
-        'Malcolm Forbes',
+        'We keep moving forward, opening new doors, and doing new things, because we\'re curious and curiosity keeps leading us down new paths',
+        'Walt Disney',
     ],
     [
-        'I am a great admirer of mystery and magic. Look at this life - all mystery and magic.',
-        'Kyle MacLachlan',
+        'Don\'t think, just do.',
+        'Horace',
     ],
     [
-        'Flu can be serious, and it kills tens of thousands of Americans each year. Vaccination is easier and more convenient than ever, so get yourself and your family protected.',
-        'Tom Frieden',
+        'We need a bold, new, positive vision for the future of our country.',
+        'Theresa May',
     ],
     [
-        'As an artist, the more experience, the better the creation. I\'m a very positive person.',
-        'Psy',
+        'Butterflies don\'t know their wings\' Colors, but others see their Splendor.',
+        'Mohith Agadi',
     ],
     [
-        'When I was a kid, I never did funny things to get attention. I was never a funny person. I was never, like, \'Oh, wow. I could say this some day on stage.\'',
-        'Steven Wright',
+        'There must be something solemn, serious, and tender about any attitude which we denominate religious. If glad, it must not grin or snicker; if sad, it must not scream or curse.',
+        'William James',
     ],
     [
-        'If people work together in an open way with porous boundaries - that is, if they listen to each other and really talk to each other - then they are bound to trade ideas that are mutual to each other and be influenced by each other. That mutual influence and open system of working creates collaboration.',
-        'Richard Thomas',
+        'I\'m not funny in person. I mean I\'m really not. I\'m one of those people who always screw up anecdotes.',
+        'Bill Bryson',
     ],
     [
-        'I was not so committed to financial success that I was willing to abandon my principles and priorities. One of the most visible examples of this is our decision to close on Sunday.',
-        'S. Truett Cathy',
+        'Husbands, recognize your wife\'s intelligence and her ability to counsel with you as a real partner regarding family plans, family activities, and family budgeting. Don\'t be stingy with your time or with your means. Give her the opportunity to grow intellectually, emotionally, and socially as well as spiritually.',
+        'Ezra Taft Benson',
     ],
     [
-        'Long ago made it a principle of my life to cultivate a positive frame of mind, to strive to project it and to share it with those I meet. It is a principle that has served me well.',
-        'Chuck Norris',
-    ],
-    [
-        'I like guys with a nice smile. I know it\'s cliche, but it\'s so true! I like a guy with a nice smile and nice eyes.',
-        'Rebecca Black',
-    ],
-    [
-        'My family didn\'t have money to travel, so reading was how I knew about the world. It made me hungry to have more experiences than just what I could possibly experience in Arkansas.',
-        'Mary Steenburgen',
-    ],
-    [
-        'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
-        'Shawn Achor',
-    ],
-    [
-        'In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.',
-        'Buddha',
-    ],
-    [
-        'I am a marathon worker and marathon mother. I\'ll spend three or four days completely swallowed up by work. And if I make it home in time to say good night, I may have one good hour with the girls, maybe a brief family dinner or a family walk with the dog, and then it is back on the computer to prepare for tomorrow\'s shows.',
-        'Mika Brzezinski',
-    ],
-    [
-        'Being part of the Workshop is like being part of a really big family. Everyone is so close. Everyone feels the success of others who go on to do well. Whatever happens, I will still be part of the Workshop.',
-        'Lucy Carless',
-    ],
-    [
-        'The most important thing is to try and inspire people so that they can be great in whatever they want to do.',
-        'Kobe Bryant',
-    ],
-    [
-        'Try not to become a person of success, but rather try to become a person of value.',
-        'Albert Einstein',
+        'In case you haven\'t heard, my girlfriends and I have declared the summer of 2012 as the best summer ever. The best way to document said \'best summer ever\' is with a good ol\' disposable camera. Smile, click, move on! Nobody gets pic approval, and there\'s no time wasted gathering around the camera to analyze a moment that just happened.',
+        'Candice Accola',
     ],
 ];

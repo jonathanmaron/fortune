@@ -2,103 +2,103 @@
 
 return [
     [
-        'He was like a cock who thought the sun had risen to hear him crow.',
-        'George Eliot',
+        'Coaches will eventually notice a great attitude, and they respect that.',
+        'Heather O\'Reilly',
     ],
     [
-        'No one wants to read a story where I saw a cute puppy on the street and I petted it. I mean, that\'s not funny. I only write about the funny stuff.',
-        'Tucker Max',
+        'Everything that happens happens as it should, and if you observe carefully, you will find this to be so.',
+        'Marcus Aurelius',
     ],
     [
-        'Collaboration is the best way to work. It\'s only way to work, really. Everyone\'s there because they have a set of skills to offer across the board.',
-        'Antony Starr',
+        'I was always the guy getting kicked out of my classes at school for having an attitude problem.',
+        'Chevy Chase',
     ],
     [
-        'Be of service. Whether you make yourself available to a friend or co-worker, or you make time every month to do volunteer work, there is nothing that harvests more of a feeling of empowerment than being of service to someone in need.',
-        'Gillian Anderson',
-    ],
-    [
-        'Personalized beauty is about each woman being able to create her own makeup routine that complements her coloring and style.',
-        'Bobbi Brown',
-    ],
-    [
-        'Live your beliefs and you can turn the world around.',
+        'Most of the luxuries and many of the so-called comforts of life are not only not indispensable, but positive hindrances to the elevation of mankind.',
         'Henry David Thoreau',
     ],
     [
-        'Fashion is quite inclusive and good at embracing different things and different forms of beauty. It\'s a very liberal industry. You can be yourself. Just not overweight.',
-        'Andrej Pejic',
+        'That\'s the nature of women, not to love when we love them, and to love when we love them not.',
+        'Miguel de Cervantes',
     ],
     [
-        'I eat every two hours. I sleep for eight hours. I have lots of water. I pray to keep calm. Most importantly, I have a smile on my face.',
-        'Vidya Balan',
+        'Over the years, I\'ve become barraged by comments from people, such as, \'Beam me up, Scotty!\' and I became defensive. I felt they were derisive and engendered an attitude. I am grateful for the success, but didn\'t want to be mocked.',
+        'William Shatner',
     ],
     [
-        'What lies behind us and what lies before us are small matters compared to what lies within us.',
-        'Oliver Holmes',
+        'I developed a nutty attitude where I\'d think, If some guy really loves me he doesn\'t care if I\'m fat. I\'d come up with all these stupid reasons why it would be OK to be fat.',
+        'Kirstie Alley',
     ],
     [
-        'Success in almost any field depends more on energy and drive than it does on intelligence. This explains why we have so many stupid leaders.',
-        'Sloan Wilson',
+        'You know, I\'ve got wrinkles on my forehead and smile lines, but what\'s wrong with that? I love to smile.',
+        'Jennifer Aniston',
     ],
     [
-        'Happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.',
-        'J. Donald Walters',
+        'I always challenge myself. I get out in deep water and I always try to get back. But I get hung up. The audience never knows, but that\'s when I smile the most, when I show the most ivory.',
+        'Earl Hines',
     ],
     [
-        'I love Charlie, Billy Burke\'s character. Writing for him is so spectacular, he\'s so funny and wry and every scene he\'s in he just takes. There\'s a scene in \'Eclipse\' where Bella tells him she\'s a virgin, and it\'s the funniest, most awkward scene I\'ve ever seen on film.',
-        'Melissa Rosenberg',
+        'I absolutely love my job. I feel so privileged: I get to travel the world, I get to witness history... and I\'m constantly inspired by the different amazing characters I meet along the way.',
+        'Clarissa Ward',
     ],
     [
-        'So much has been said and sung of beautiful young girls, why doesn\'t somebody wake up to the beauty of old women.',
-        'Harriet Beecher Stowe',
+        'If it\'s endurable, then endure it. Stop complaining.',
+        'Marcus Aurelius',
     ],
     [
-        'You will not be punished for your anger, you will be punished by your anger.',
+        'I\'ve never really been aware of what is said about me, whether it\'s positive or negative. I ignore it. I\'ve always had the mind-set: \'No one can challenge me better than myself.\'',
+        'Troy Polamalu',
+    ],
+    [
+        'Don\'t fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.',
+        'Unknown',
+    ],
+    [
+        'Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.',
+        'Dalai Lama',
+    ],
+    [
+        'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.',
+        'Mother Teresa',
+    ],
+    [
+        'All suffering originates from craving, from attachment, from desire.',
+        'Edgar Allan Poe',
+    ],
+    [
+        'I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.',
+        'Ranbir Kapoor',
+    ],
+    [
+        'I can\'t wait for summer in the city! I love all the free activities in the parks that become available to us New Yorkers. Yoga and movie screenings in Bryant Park, concerts in Central Park - there\'s so much more available to the New York community in the summer! And everyone just seems to smile more.',
+        'Kara Lindsay',
+    ],
+    [
+        'Remarkable contributions are typically spawned by a passionate commitment to transcendent values such as beauty, truth, wisdom, justice, charity, fidelity, joy, courage and honor.',
+        'Gary Hamel',
+    ],
+    [
+        'It\'s funny, when bands or younger musicians ask me: \'So, what does it take to make it?\' Well, first explain to me what you mean by \'making it\': Do you want to be a rock star or do you want music to be your livelihood?',
+        'Eddie Van Halen',
+    ],
+    [
+        'Donald has a deep and unbounding determination and a never-give-up attitude. I have seen him fight for years to get a project done - or even started - and he does not give up! If you want someone to fight for you and your country, I can assure you, he is the \'guy.\'',
+        'Melania Trump',
+    ],
+    [
+        'What you are is what you have been. What you\'ll be is what you do now.',
         'Buddha',
     ],
     [
-        'I\'d never stop traveling, and I love bringing my family along with me. My children have points of reference everywhere, friends from Milan to Los Angeles. I think it\'s really fun for them.',
-        'Valeria Mazza',
+        'Anything is possible if you\'re willing to work for it.',
+        'Rob Dyrdek',
     ],
     [
-        'When people see a legend, they call it a legend. But to be a legend, it\'s a lot of hard work and patience. You can\'t play for five or ten years and be a legend. It takes longer than that.',
-        'Burning Spear',
+        'All of life is peaks and valleys. Don\'t let the peaks get too high and the valleys too low.',
+        'Jimmy Dean',
     ],
     [
-        'My attitude is always one of sensuality, aggressive enthusiasm and a kind of outrageousness in my expression.',
-        'Sally Kirkland',
-    ],
-    [
-        'We learn what we have said from those who listen to our speaking.',
-        'Kenneth Patton',
-    ],
-    [
-        'So I feel like success is opportunity plus preparation, so work begets work, and as long as you\'re prepared it\'s going to continue to come your way.',
-        'Anthony Mackie',
-    ],
-    [
-        'Life is strong and fragile. It\'s a paradox... It\'s both things, like quantum physics: It\'s a particle and a wave at the same time. It all exists all together.',
-        'Joan Jett',
-    ],
-    [
-        'Fear grows in darkness; if you think theres a bogeyman around, turn on the light.',
-        'Dorothy Thompson',
-    ],
-    [
-        'I\'ve found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often.',
-        'Brian Tracy',
-    ],
-    [
-        'The world is mud-luscious and puddle-wonderful.',
-        'e. e. cummings',
-    ],
-    [
-        'It\'s a good thing that beauty is only skin deep, or I\'d be rotten to the core.',
-        'Phyllis Diller',
-    ],
-    [
-        'I\'d much rather have sat there and just been a fly on the wall, instead of having to smile at people. I\'d rather have been a waitress. Just gone round and stared at people.',
-        'Jennifer Saunders',
+        'Nature, philosophy and social issues are the three things that always occupy my mind. You do not have any power over others but can only change yourself.',
+        'Pawan Kalyan',
     ],
 ];

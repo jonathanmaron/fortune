@@ -2,103 +2,103 @@
 
 return [
     [
-        'I love things that age well - things that don\'t date, that stand the test of time and that become living examples of the absolute best.',
-        'Giorgio Armani',
+        'The reason there are two senators for each state is so that one can be the designated driver.',
+        'Jay Leno',
     ],
     [
-        'The photograph reverses the purpose of travel, which until now had been to encounter the strange and unfamiliar.',
-        'Marshall McLuhan',
+        'If only we\'d stop trying to be happy we\'d have a pretty good time.',
+        'Edith Wharton',
     ],
     [
-        'If I win and get the money, then the Oakland Police department is going to buy a boys\' home, me a house, my family a house, and a Stop Police Brutality Center.',
-        'Tupac Shakur',
+        'Perfect happiness would be knowing that all my family and friends were happy and safe. Then I\'d go to a tropical island with my husband where it was gorgeous and fun all day long and interesting and fun all evening. Good food and dancing would be nice, too, and weekly visits from those safe and happy family and friends. Plus world peace.',
+        'Suzanne Weyn',
     ],
     [
-        'As a footballer, you always want to test yourself against the best.',
-        'David Beckham',
+        'Nature\'s beauty is a gift that cultivates appreciation and gratitude.',
+        'Louie Schwartzberg',
     ],
     [
-        'I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... such emotions make a man forget food, sleep, friends, love, everything.',
-        'Nikola Tesla',
+        'Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!',
+        'Richard Bach',
     ],
     [
-        'A good plan today is better than a perfect plan tomorrow.',
-        '',
+        'My attitude is always one of sensuality, aggressive enthusiasm and a kind of outrageousness in my expression.',
+        'Sally Kirkland',
     ],
     [
-        'Beauty is also submitted to the taste of time, so a beautiful woman from the Belle Epoch is not exactly the perfect beauty of today, so beauty is something that changes with time.',
-        'Karl Lagerfeld',
-    ],
-    [
-        'Life is difficult for everyone; everyone has bad days. Everyone has trouble in their life, because it doesn\'t matter how rich you are: Sickness and trouble and worry and love, these things will mess with you at every level of life.',
-        'Robin Williams',
-    ],
-    [
-        'I talked about my family, my family\'s so important.',
-        'Jim Valvano',
-    ],
-    [
-        'I didn\'t consider myself a fashion designer at all at the time of punk. I was just using fashion as a way to express my resistance and to be rebellious. I came from the country, and by the time I got to London, I considered myself to be very stupid. It was my ambition to understand the world I live in.',
-        'Vivienne Westwood',
+        'I always say to myself that if I can make a movie that makes a kid smile or gives them some hope or something to get excited about, then I\'m applying myself in the best way that I can. I don\'t think that just goes for kids. I think that it goes for adults, as well, and for families.',
+        'Nicolas Cage',
     ],
     [
         'And to me, fame is not a positive thing. The idea of being famous is a lot better than the reality. It\'s fantastic when you go to premieres and people cheer you, but it\'s not real. And it\'s totally not my approach to get my name on a club door just because I can.',
         'Tom Felton',
     ],
     [
-        'As you think, so shall you become.',
-        'Bruce Lee',
+        'I think the philosophy that you have to have if you travel frequently is, stuff is just stuff. Even if it has some sentimental or family connection, if you lose it in the world, it\'s still just a thing, and I think if you don\'t have that attitude, you will get incredibly stressed out and not enjoy your travels.',
+        'Leila Janah',
     ],
     [
-        'How can any person with a myopic view and harbouring intense parochial attitude even think of leading the nation?',
-        'Sharad Pawar',
+        'We take so many of our freedoms for granted nowadays - I can travel where I like, I can do any job I want - but I think chivalry has been lost a little bit.',
+        'Michelle Dockery',
     ],
     [
-        'Work harder on yourself than you do on your job.',
-        'Jim Rohn',
+        'The bat is gone, but the smile remains.',
+        'Willie Stargell',
     ],
     [
-        'My fans are honestly so unique and so similar. Wherever I travel, they are so, so different but so the same.',
-        'Lilly Singh',
+        'Young people are threatened... by the evil use of advertising techniques that stimulate the natural inclination to avoid hard work by promising the immediate satisfaction of every desire.',
+        'Pope John Paul II',
     ],
     [
-        'That attitude and toughness that we want to play with, that, to me, is the most critical thing.',
-        'Dan Quinn',
+        'They always say time changes things, but you actually have to change them yourself.',
+        'Andy Warhol',
     ],
     [
-        'I want to challenge myself to see where my limit is and experiment with a lot of different films. A lot of artists from Asia focus too much on their Asian background. I don\'t want to let go of my background, but to be a success in the U.S., which is my goal, I realize I need to surround myself with American filmmakers and producers.',
-        'Rain',
+        'There are positive things that come of social media as well as negative.',
+        'Millie Bobby Brown',
     ],
     [
-        'Sure there is a sexy attitude, and when they say, \'Give me a sexy look with your eyes,\' you give it to them. It doesn\'t have to relate to the product. People are just drawn to it.',
-        'Lisanne Falk',
+        'I believe that if life gives you lemons, you should make lemonade... And try to find somebody whose life has given them vodka, and have a party.',
+        'Babe Ruth',
     ],
     [
-        'Positive health means becoming whole-heartedly engaged with our own health care. It means not outsourcing our health to the health care system. It means getting rid of the fear and paralysis we too often feel, and instead cultivating a sense of agency.',
-        'Jane McGonigal',
+        'There is little success where there is little laughter.',
+        'Andrew Carnegie',
     ],
     [
-        'Let there be work, bread, water and salt for all.',
-        'Nelson Mandela',
+        'The greatest part of our happiness depends on our dispositions, not our circumstances.',
+        'Martha Washington',
     ],
     [
-        'All love comes from the family.',
-        'John Updike',
+        'Earl Nightingale has inspired more people toward success and fortune than any other motivational speaker on the planet.',
+        'Zig Ziglar',
     ],
     [
-        'A rich, robust, well-resourced public education is one of the best routes out of poverty and a pathway to prosperity.',
-        'Randi Weingarten',
+        'To the artist there is never anything ugly in nature.',
+        'Auguste Rodin',
     ],
     [
-        'I don\'t dislike rappers or hip-hop or people who like it. I went to the Def Jam tour in Manchester in the \'80s when rap was inspirational. Public Enemy were awesome. But it\'s all about status and bling now, and it doesn\'t say anything to me.',
-        'Noel Gallagher',
+        'Courage is not the absence of fear, but simply moving on with dignity despite that fear.',
+        'Pat Riley',
     ],
     [
-        'Nature uses only the longest threads to weave her patterns, so that each small piece of her fabric reveals the organization of the entire tapestry.',
-        'Richard P. Feynman',
+        'The earth laughs in flowers.',
+        'Ralph Waldo Emerson',
     ],
     [
-        'People with a sense of humor tend to be less egocentric and more realistic in their view of the world and more humble in moments of success and less defeated in times of travail.',
-        'Bob Newhart',
+        'The world is like a reverse casino. In a casino, if you gamble long enough, you\'re certainly going to lose. But in the real world, where the only thing you\'re gambling is, say, your time or your embarrassment, then the more stuff you do, the more you give luck a chance to find you.',
+        'Scott Adams',
+    ],
+    [
+        'Leaders cannot work in a vacuum. They may take on larger, seemingly more important roles in an organization, but this does not exclude them from asking for and using feedback. In fact, a leader arguably needs feedback more so than anyone else. It\'s what helps a leader respond appropriately to events in pursuit of successful outcomes.',
+        'Jack Canfield',
+    ],
+    [
+        'Seek goodness and be goodness. Seek beauty and be beauty. Seek love and be love.',
+        'Bryant H. McGill',
+    ],
+    [
+        'Happiness is a perfume you cannot pour on others without getting a few drops on yourself.',
+        'Ralph Waldo Emerson',
     ],
 ];

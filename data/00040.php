@@ -2,103 +2,103 @@
 
 return [
     [
-        'I do not expect the white media to create positive black male images.',
-        'Huey Newton',
+        'In individual industries where female labour pays an important role, any movement advocating better wages, shorter working hours, etc., would not be doomed from the start because of the attitude of those women workers who are not organized.',
+        'Clara Zetkin',
     ],
     [
-        'There is nothing I can do to undo what I did. I can only say again how sorry I am to those I let down and then strive to go forward with a greater sense of humility and purpose, and with gratitude to those who stood with me during a very difficult chapter in my life.',
-        'Jim Elliot',
+        'I really believe that everyone has a talent, ability, or skill that he can mine to support himself and to succeed in life.',
+        'Dean Koontz',
     ],
     [
-        'Long before we understand ourselves through the process of self-examination, we understand ourselves in a self-evident way in the family, society and state in which we live.',
-        'Hans-Georg Gadamer',
+        'The road to success is always under construction.',
+        'Lily Tomlin',
     ],
     [
-        'As an organizer I start from where the world is, as it is, not as I would like it to be.',
-        'Saul Alinsky',
+        'Disasters happen. We still have no way to eliminate earthquakes, wildfires, hurricanes, floods or droughts. We cope as best we can by fortifying ourselves against danger with building codes and levees, and by setting aside money to clean up afterwards.',
+        'Seth Shostak',
     ],
     [
-        'Fear is a natural reaction to moving closer to the truth.',
-        'Pema Chodron',
+        'For me, every hour is grace. And I feel gratitude in my heart each time I can meet someone and look at his or her smile.',
+        'Elie Wiesel',
     ],
     [
-        'Nature knows no pause in progress and development, and attaches her curse on all inaction.',
-        'Johann Wolfgang von Goethe',
+        'We all go through sad times, but I was brought up to be positive.',
+        'Jess Glynne',
     ],
     [
-        'It\'s not whether you get knocked down, it\'s whether you get up.',
-        'Vince Lombardi',
+        'A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.',
+        'Bernard Shaw',
     ],
     [
-        'The first \'D\' is to dream: dream big - not for yourself, but for the country and for the world. The second \'D\' is to discover: discover your full potential and the opportunities that surround you; and the third \'D\' is to do. \'Do\' means to act on your dreams and make best use of the opportunities you have discovered.',
-        'Kailash Satyarthi',
+        'The greatest thing about where my life is right now is it\'s very relaxed and chill. I\'m just hanging out, being myself and doing my work.',
+        'Lucas Grabeel',
     ],
     [
-        'Negative attitude is nine times more powerful than positive attitude.',
-        'Bikram Choudhury',
+        'It\'s so much darker when a light goes out than it would have been if it had never shone.',
+        'John Steinbeck',
     ],
     [
-        'If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.',
-        'Ralph Emerson',
+        'Adventure travel existed before I started, I just didn\'t know it.',
+        'Tim Cahill',
     ],
     [
-        'You and I are, by birth, by nature, and by choice, inwardly depraved, which is to say that we are entirely corrupt. That\'s not to say that we have no good in us; we do. However, anything good in us has been tainted with evil. It touches everything. Without the redeeming power of Christ we cannot halt our own moral slide.',
+        'In nature there are neither rewards nor punishments; there are consequences.',
+        'Robert Green Ingersoll',
+    ],
+    [
+        'Conservation is key to preserving many of the world\'s natural beauty spots, so do your best to help by keeping to designated footpaths and being a discerning souvenir collector.',
+        'Sheherazade Goldsmith',
+    ],
+    [
+        'By nature, I\'m a very positive person, and because I\'m happy in myself, and in my life, and I\'ve got a great husband, and beautiful children, and I have a job that I love that calls for a certain amount of emotional expression, I get to realise a lot of my dreams and aspirations.',
+        'Kate Winslet',
+    ],
+    [
+        'A garden is always a series of losses set against a few triumphs, like life itself.',
+        'May Sarton',
+    ],
+    [
+        'Don\'t talk about yourself; it will be done when you leave.',
+        'Wilson Mizner',
+    ],
+    [
+        'Chains of habit are too light to be felt until they are too heavy to be broken.',
+        'Warren Buffett',
+    ],
+    [
+        'The books that help you most are those which make you think that most. The hardest way of learning is that of easy reading; but a great book that comes from a great thinker is a ship of thought, deep freighted with truth and beauty.',
+        'Pablo Neruda',
+    ],
+    [
+        'Ah, summer, what power you have to make us suffer and like it.',
+        'Russell Baker',
+    ],
+    [
+        'In my works, the geography map-wise is accurate - roads are where I say they are, and go from this town to the next as I say they do, and yes, it would take a curricle that long to travel that distance.',
+        'Stephanie Laurens',
+    ],
+    [
+        'My father used to play with my brother and me in the yard. Mother would come out and say, \'You\'re tearing up the grass\'; \'We\'re not raising grass,\' Dad would reply. \'We\'re raising boys.\'',
+        'Harmon Killebrew',
+    ],
+    [
+        'A family is a place where principles are hammered and honed on the anvil of everyday living.',
         'Charles R. Swindoll',
     ],
     [
-        'Shortly thereafter, some friends encouraged me to try out for the Miss South Carolina World beauty pageant. To my surprise, I won - and was sent to New York City to compete nationally.',
-        'Donna Rice',
+        'I have my father\'s lopsided mouth. When I smile, my lips slope to one side. My doctor sister calls it my cerebral palsy mouth. I am very much a daddy\'s girl, and even though I would rather my smile wasn\'t crooked, there is something moving for me about having a mouth exactly like my father\'s.',
+        'Chimamanda Ngozi Adichie',
     ],
     [
-        'I never laugh or smile when I am writing. When I come home for lunch after writing all morning, my wife says I look like I just came home from a funeral. This is not bragging. This is an illness.',
-        'Carl Hiaasen',
+        'It\'s cool to meet your idols. It\'s a good opportunity to travel. Those kinds of things are good.',
+        'Meg White',
     ],
     [
-        'Only an artist can interpret the meaning of life.',
-        'Pat Conroy',
+        'Meaning is not what you start with but what you end up with.',
+        'Peter Elbow',
     ],
     [
-        'All things change; nothing perishes.',
-        'Ovid',
-    ],
-    [
-        'I feel it is important not to get overly obsessed and overly carried away with just the physical aspect. There is more to beauty than just the physical appearance. You are also a complete person, and a woman should have an identity beyond just the way she looks.',
-        'Katrina Kaif',
-    ],
-    [
-        'A dog will teach you unconditional love. If you can have that in your life, things won\'t be too bad.',
-        'Jimmy Dean',
-    ],
-    [
-        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
-        'Benjamin Franklin',
-    ],
-    [
-        'The only time you really live fully is from thirty to sixty. The young are slaves to dreams; the old servants of regrets. Only the middle-aged have all their five senses in the keeping of their wits.',
-        'Theodore Roosevelt',
-    ],
-    [
-        'I am happy to say that everyone that I have met in my life, I have gained something from them; be it negative or positive, it has enforced and reinforced my life in some aspect.',
-        'Walter Payton',
-    ],
-    [
-        'Poetry at its best can do you a lot of harm.',
-        'Sylvia Plath',
-    ],
-    [
-        'My perfect weekend is going for a walk with my family in the park. I don\'t think there\'s anything better.',
-        'Anne Wojcicki',
-    ],
-    [
-        'Going to the Academy Awards is something I remember since I was six, when I went with my mom for the first time, 14 with my dad, you know, and there I am, at 22, 23, whatever I was, sitting next to my mom. You know, and then again, there with my dad. Like, there\'s a beauty to it, and I care deeply about film history.',
-        'Laura Dern',
-    ],
-    [
-        'Success is doing ordinary things extraordinarily well.',
-        'Jim Rohn',
-    ],
-    [
-        'It\'s true, some senior Hungarian writers are not known for their laughter. There is a strong Germanic influence - an attitude that if it\'s enjoyable it can\'t possibly be literature.',
-        'Tibor Fischer',
+        'I know that I do have influence over the people who watch me, and it\'s quite a pressure. I have to stay positive, and while I would never use the words \'role model\', I am mindful of the responsibilities that come with a substantial viewership.',
+        'Zoe Sugg',
     ],
 ];

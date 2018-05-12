@@ -2,103 +2,103 @@
 
 return [
     [
-        'I live a good life but a pretty simply life. I just store all my money under my mattress. My wife and I travel, and I bought my dream car, the Cobra.',
-        'Aaron Paul',
+        'Stubbornness is a positive quality of presidential leadership - if you\'re right about what you\'re stubborn about.',
+        'Douglas Brinkley',
     ],
     [
-        'There is something about Prince William and Prince Harry that brings real modernity to the British royal family. They are also very open, human, and kind, and this is what I have tried to capture in the pictures I have taken of them as well as in my pictures of Prince William and Catherine.',
-        'Mario Testino',
+        'Microsoft has had two goals in the last 10 years. One was to copy the Mac, and the other was to copy Lotus\' success in the spreadsheet - basically, the applications business. And over the course of the last 10 years, Microsoft accomplished both of those goals. And now they are completely lost.',
+        'Steve Jobs',
     ],
     [
-        'Everything is political. I will never be a politician or even think political. Me just deal with life and nature. That is the greatest thing to me.',
-        'Bob Marley',
+        'Making cartoons means very hard work at every step of the way, but creating a successful cartoon character is the hardest work of all.',
+        'Joseph Barbera',
     ],
     [
-        'I am both honored and blessed to have had such a wonderful career with the L.A. Galaxy and I am thankful for everything the club, the fans and the community has done for me and my family.',
-        'Cobi Jones',
-    ],
-    [
-        'Silence is the true friend that never betrays.',
+        'Reviewing what you have learned and learning anew, you are fit to be a teacher.',
         'Confucius',
     ],
     [
-        'Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.',
-        'Christina Aguilera',
+        'Attitude is attitude, whether you\'re a West Coast gangster or East Coast gangster, you know?',
+        'Paul Walker',
     ],
     [
-        'Capitalism is an organized system to guarantee that greed becomes the primary force of our economic system and allows the few at the top to get very wealthy and has the rest of us riding around thinking we can be that way, too - if we just work hard enough, sell enough Tupperware and Amway products, we can get a pink Cadillac.',
-        'Michael Moore',
+        'Ignoring fame was my rebellion, in a funny way. I was insistent on being normal and doing normal things. It probably wasn\'t advisable to go to college in America and room with a complete stranger. And it probably wasn\'t wise to share a bathroom with eight other people in a coed dorm. Looking back, that was crazy.',
+        'Emma Watson',
     ],
     [
-        'Don\'t let people disrespect you. My mom says don\'t open the door to the devil. Surround yourself with positive people.',
-        'Cuba Gooding, Jr.',
+        'Living at risk is jumping off the cliff and building your wings on the way down.',
+        'Ray Bradbury',
     ],
     [
-        'Success on any major scale requires you to accept responsibility... in the final analysis, the one quality that all successful people have... is the ability to take on responsibility.',
-        'Michael Korda',
+        'What we achieve inwardly will change outer reality.',
+        'Plutarch',
     ],
     [
-        'In general, I\'m not much into etiquette and am a rule-breaker and rebel by nature.',
-        'Chip Conley',
+        'Life is like a ten speed bicycle. Most of us have gears we never use.',
+        'Rufus Wainwright',
     ],
     [
-        'Good things are associated with blue, like clear days, more than singing the blues. Just the word \'blue\' in the singular is full of optimism and positive connotation to most people.',
-        'David Carson',
+        'Look your best - who said love is blind?',
+        'Mae West',
     ],
     [
-        'While I relish our warm months, winter forms our character and brings out our best.',
-        'Tom Allen',
+        'Every day is intense and alive, whether it\'s travel, work, even down time, which there is so little of.',
+        'Josh Lucas',
     ],
     [
-        'Your daily life is your temple and your religion. When you enter into it take with you your all.',
-        'Viggo Mortensen',
+        'A good plan today is better than a perfect plan tomorrow.',
+        'Unknown',
     ],
     [
-        'Coldplay fans are the best in the world. If you like Coldplay then you\'re obviously very intelligent and good looking and all-around brilliant.',
-        'Chris Martin',
+        'The regret of my life is that I have not said \'I love you\' often enough.',
+        'Philip Emeagwali',
     ],
     [
-        'Every man regards his own life as the New Year\'s Eve of time.',
-        'Emily Dickinson',
+        'Only a life lived for others is a life worthwhile.',
+        'Theodore Roosevelt',
     ],
     [
-        'The meat that I choose to feed my family, it\'s healthy meats such as lamb, which is very low in cholesterol and saturated fat. And then turkey - we eat a lot of turkey. We don\'t eat loads of beef.',
-        'Tia Mowry',
-    ],
-    [
-        'Whether you succeed or not is irrelevant, there is no such thing.  Making your unknown known is the important thing.',
-        'Georgia O\'Keeffe',
-    ],
-    [
-        'May the forces of evil become confused on the way to your house.',
-        'George Carlin',
-    ],
-    [
-        'There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.',
-        'Nelson Mandela',
-    ],
-    [
-        'What separates the winners from the losers is how a person reacts to each new twist of fate.',
-        'Donald Trump',
-    ],
-    [
-        'I like to engage the public because when I was in high school, I had all these questions about anti-matter, higher dimensions and time travel. Every time I went to the library, every time I asked people these questions, I would get some strange looks. Nobody could answer any of these questions.',
-        'Michio Kaku',
-    ],
-    [
-        'The way we communicate with others and with ourselves ultimately determines the quality of our lives.',
+        'There\'s no abiding success without commitment.',
         'Tony Robbins',
     ],
     [
-        'Applause waits on success.',
-        'Benjamin Franklin',
+        'The function of leadership is to produce more leaders, not more followers.',
+        'Ralph Nader',
     ],
     [
-        'Spring won\'t let me stay in this house any longer! I must get out and breathe the air deeply again.',
-        'Gustav Mahler',
+        'The first day one is a guest, the second a burden, and the third a pest.',
+        'Jean de la Bruyere',
     ],
     [
-        'Pretension is a poor joke that you play on yourself. Snap out of it. Recognise your strengths, work on your weaknesses. Real achievement is liking what you see in the mirror every morning.',
-        'Virat Kohli',
+        'Beauty is as relative as light and dark. Thus, there exists no beautiful woman, none at all, because you are never certain that a still far more beautiful woman will not appear and completely shame the supposed beauty of the first.',
+        'Paul Klee',
+    ],
+    [
+        'But you cannot expect every writer to dwell on human suffering. I think my books do deal with grave issues. People who say they are too positive probably haven\'t read them.',
+        'Alexander McCall Smith',
+    ],
+    [
+        'If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.',
+        'Ajahn Chah',
+    ],
+    [
+        'In a gentle way, you can shake the world.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'Successful people are not gifted; they just work hard, then succeed on purpose.',
+        'G.K.Nielson',
+    ],
+    [
+        'Always desire to learn something useful.',
+        'Sophocles',
+    ],
+    [
+        'The art of effective listening is essential to clear communication, and clear communication is necessary to management success.',
+        'James Cash Penney',
+    ],
+    [
+        'America is the one rich country with the biggest slums, the least democratic and least developed health system, and the most niggardly attitude against its old people.',
+        'Gunnar Myrdal',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'I like books that aren\'t just lovely but that have memories in themselves. Just like playing a song, picking up a book again that has memories can take you back to another place or another time.',
-        'Emma Watson',
+        'Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.',
+        'Ralph Blum',
     ],
     [
-        'The opportunity for brotherhood presents itself every time you meet a human being.',
-        'Jane Wyman',
+        'An investment said to have an 80% chance of success sounds far more attractive than one with a 20% chance of failure. The mind can\'t easily recognize that they are the same.',
+        'Daniel Kahneman',
     ],
     [
-        'In this world, with thy earthly life, thou art under heaven, stars, and elements, also under hell and devils; all ruleth in thee, and over thee.',
-        'Tiger Woods',
+        'The world is always in movement.',
+        'V. S. Naipaul',
     ],
     [
-        'People always say golfers don\'t smile. But there is so much psychology in golf so we have to be a bit robotic.',
-        'Lee Westwood',
+        'I believe there\'s an inner power that makes winners or losers. And the winners are the ones who really listen to the truth of their hearts.',
+        'Sylvester Stallone',
     ],
     [
-        'Food makes travel so exceptional, because you get to taste what it\'s actually supposed to taste like. To eat the real Pad Thai or finally have a proper curry is something pretty amazing.',
-        'Meghan Markle',
+        'For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.',
+        'Richard P. Feynman',
     ],
     [
-        'One of my primary objects is to form the tools so the tools themselves shall fashion the work and give to every part its just proportion.',
-        'Eli Whitney',
+        'Sometimes Queens\' music is dark, but somehow it\'s ok to deliver it with a smile on your face because thing\'s are still going to kick in.',
+        'Josh Homme',
     ],
     [
-        'How can they say my life is not a success? Have I not for more than sixty years got enough to eat and escaped being eaten?',
-        'Logan Pearsall Smith',
+        'To me, it doesn\'t matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.',
+        'Ian Botham',
     ],
     [
-        'We\'re a blue-collar band. That\'s how we like to think of ourselves. We come from humble beginnings and still have this attitude of really loving to meet people, shake their hands, and talk with them.',
-        'Rickey Medlocke',
+        'Occasionally I find a travel book that is both illuminating and entertaining, where vivid writing and research replace self-indulgence and sloppy prose.',
+        'Arthur Smith',
     ],
     [
-        'Beauty is only skin deep.',
-        'Thomas Overbury',
+        'Over time, naturally, you lose your innocence from gaining knowledge. You can\'t be innocent forever, but there\'s something in innocence you need to regain to be creative.',
+        'Albert Hammond, Jr.',
     ],
     [
-        'An artist is an artist only because of his exquisite sense of beauty, a sense which shows him intoxicating pleasures, but which at the same time implies and contains an equally exquisite sense of all deformities and all disproportion.',
-        'Charles Baudelaire',
+        'For me, I think the Lord wanted me to win to put a smile on Chinese people\'s faces.',
+        'Michael Chang',
     ],
     [
-        'I love those who can smile in trouble, who can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but they whose heart is firm, and whose conscience approves their conduct, will pursue their principles unto death.',
-        'Leonardo da Vinci',
+        'I quite like the idea of family. That\'s probably the greatest achievement in the world. I\'ve got a lot to achieve workwise - I\'d love to direct - but family would be good.',
+        'Matt Smith',
     ],
     [
-        'There is no end of craving. Hence contentment alone is the best way to happiness. Therefore, acquire contentment.',
-        'Swami Sivananda',
-    ],
-    [
-        'You develop a sympathy for all human beings when you travel a lot.',
-        'Shakuntala Devi',
-    ],
-    [
-        'I\'m not going to take this defeatist attitude and listen to all this crap any more from all these people who have nothing except doomsday to predict.',
-        'Carroll Shelby',
-    ],
-    [
-        'If I create from the heart, nearly everything works; if from the head, almost nothing.',
-        'Marc Chagall',
-    ],
-    [
-        'The only thing even in this world is the number of hours in a day. The difference in winning or losing is what you do with those hours.',
-        'Woody Hayes',
-    ],
-    [
-        'The trouble with our times is that the future is not what it used to be.',
-        'Paul Valery',
-    ],
-    [
-        'I am obsessed with beauty. I want everything to be perfect, and of course it isn\'t. And that\'s a tough place to be because you\'re never satisfied.',
-        'Robert Mapplethorpe',
-    ],
-    [
-        'You have a lot of ups and downs in coaching, especially, but I can\'t remember any bad times at this point. I mean, they\'re all good. A lot of tears when you lose, a lot of down times, but I can\'t remember any of them. They\'re all positive now. Even the bad times were good.',
-        'Don Nelson',
-    ],
-    [
-        'Everything in life is somewhere else, and you get there in a car.',
-        'Madonna Ciccone',
-    ],
-    [
-        'Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don\'t quit.',
-        'Conrad Hilton',
-    ],
-    [
-        'I know Donald Trump. I\'ve met him; I know his family. I have love and friendship and affection for his family members. But I\'m going to work very hard to ensure that he is not our president.',
-        'Cory Booker',
-    ],
-    [
-        'It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come.',
+        'I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.',
         'Dalai Lama',
     ],
     [
-        'In a balanced organization, working towards a common objective, there is success.',
-        'Arthur Helps',
+        'It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.',
+        'Byron Roberts',
     ],
     [
-        'Our responsibility is to rally and lead the whole party and the Chinese people of all ethnic groups, take up this historic baton and continue working hard for the great renewal of the Chinese nation, so that we will stand rock firm in the family of nations and make fresh and greater contribution to mankind.',
-        'Xi Jinping',
+        'My father taught me not to overthink things, that nothing will ever be perfect, so just keep moving and do your best.',
+        'Scott Eastwood',
+    ],
+    [
+        'To be a utilitarian means that you judge actions as right or wrong in accordance with whether they have good consequences. So you try to do what will have the best consequences for all of those affected.',
+        'Peter Singer',
+    ],
+    [
+        'Giving responsibility is the key to success with boys, especially with the rowdiest and most difficult boys.',
+        'Robert Baden-Powell',
+    ],
+    [
+        'The richness of life lies in memories we have forgotten.',
+        'Gretchen Rubin',
+    ],
+    [
+        'Success is the progressive realization of a worthy goal or ideal.',
+        'Earl Nightingale',
+    ],
+    [
+        'When I\'ve had to edit my albums, I\'ll listen to it one time through, and I\'ll make edits. I want to remember to set up a camera to record myself listening to my set, because I don\'t even slightly crack a smile, I am just listening for technical details, and I look like somebody that has absolutely no sense of humor. I look insane.',
+        'Tig Notaro',
+    ],
+    [
+        'I try to give positive energy in all my shows.',
+        'Curtis Jones',
+    ],
+    [
+        'What is required as we travel towards full unemployment is not new legislation but a gradual change of mental attitude, a shift in values. As our taste for idling grows, we will refuse to work for old-fashioned bosses who demand a five-day, 40-hour, nine-to-five type week, or worse.',
+        'Tom Hodgkinson',
+    ],
+    [
+        'Formula for success: under promise and over deliver.',
+        'Tom Peters',
+    ],
+    [
+        'It will, of course, be understood that directly or indirectly, soon or late, every advance in the sciences of human nature will contribute to our success in controlling human nature and changing it to the advantage of the common weal.',
+        'Edward Thorndike',
+    ],
+    [
+        'I am very conscious of who I am as an artist and as an inspirational person.',
+        'R. Kelly',
+    ],
+    [
+        'Regard every suggestion that your life may be a failure, that you are not made like those who succeed, and that success is not for you, as a traitor, and expel it from your mind as you would a thief from your house.',
+        'Orison Swett Marden',
     ],
 ];

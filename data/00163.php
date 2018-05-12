@@ -2,103 +2,103 @@
 
 return [
     [
-        'The Journey of Reconciliation was organized not only to devise techniques for eliminating Jim Crow in travel, but also as a training ground for similar peaceful projects against discrimination in such major areas as employment and in the armed services.',
-        'Bayard Rustin',
+        'People may doubt what you say, but they will believe what you do.',
+        'Lewis Cass',
     ],
     [
-        'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
+        'Wherever you go, go with all your heart.',
         'Confucius',
     ],
     [
-        'We are what we repeatedly do. Excellence, then, is not an act, but a habit.',
-        'Aristotle',
+        'My mother never put an emphasis on looks. She let us grow up on our own time line. She never forced any beauty regimen into my world.',
+        'Rachel McAdams',
     ],
     [
-        'Genius is one percent inspiration and ninety-nine percent perspiration.',
-        'Thomas Edison',
+        'I travel a lot. I\'m on the move.',
+        'Ted Turner',
     ],
     [
-        'To get the full value of joy you must have someone to divide it with.',
-        'Mark Twain',
+        'It\'s a moment that I\'m after, a fleeting moment, but not a frozen moment.',
+        'Andrew Wyeth',
     ],
     [
-        'Whosoever desires constant success must change his conduct with the times.',
-        'Niccolo Machiavelli',
+        'Love is a really scary thing, and you never know what\'s going to happen. It\'s one of the most beautiful things in life, but it\'s one of the most terrifying. It\'s worth the fear because you have more knowledge, experience, you learn from people, and you have memories.',
+        'Divyanka Tripathi',
     ],
     [
-        'The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.',
-        'Vincent Lombardi',
+        'While I put forth the suntan and the teeth and the cavalier attitude, I\'ve survived under the worst of eras and times, and I\'ve always had a good time doing it, because I never really took myself seriously, nor did I take life seriously because it is already terribly serious.',
+        'George Hamilton',
     ],
     [
-        'Beauty in things exists in the mind which contemplates them.',
-        'David Hume',
+        'To hell with circumstances; I create opportunities.',
+        'Bruce Lee',
     ],
     [
-        'Funny is funny. I dare anyone to look at Tim Conway and Harvey Korman doing the dentist sketch, which is more than 40 years old, and not scream with laughter.',
-        'Carol Burnett',
+        'I like to encourage people to realize that any action is a good action if it\'s proactive and there is positive intent behind it.',
+        'Michael J. Fox',
     ],
     [
-        'Less is always more. The best language is silence. We live in a time of a terrible inflation of words, and it is worse than the inflation of money.',
-        'Eduardo Galeano',
+        'It\'s funny because I\'m a sucker for glitz and glitter when it comes to clothes and nail polish, but with my makeup, I\'m more comfortable with a natural look. It feels more like me.',
+        'Alison Sweeney',
     ],
     [
-        'We take so many of our freedoms for granted nowadays - I can travel where I like, I can do any job I want - but I think chivalry has been lost a little bit.',
-        'Michelle Dockery',
+        'The two most powerful warriors are patience and time.',
+        'Leo Tolstoy',
     ],
     [
-        'If you think you can do it, you can.',
-        'John Burroughs',
+        'If I want to knock a story off the front page, I just change my hairstyle.',
+        'Hillary Clinton',
     ],
     [
-        'I\'m just here for good times, man. I want people to have the best time ever. Especially if they\'re around me.',
-        'Travis Scott',
+        'It\'s really funny - when I\'m depressed or I\'m having a hard time, I\'ll write really fun stuff. And then when I\'m really happy, I write really depressing stuff.',
+        'Kathleen Hanna',
     ],
     [
-        'Success has a simple formula: do your best, and people may like it.',
-        'Sam Ewing',
+        'The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.',
+        'Anna Quindlen',
     ],
     [
-        'Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.',
-        'Margaret Runbeck',
+        'Man needs his difficulties because they are necessary to enjoy success.',
+        'A. P. J. Abdul Kalam',
     ],
     [
-        'But the only comparison that I want to Lenny Bruce is that I\'m funny. I\'m Freddie Prinze, Puerto Rican all the way.',
-        'Freddie Prinze',
+        'Mankind\'s true moral test, its fundamental test (which lies deeply buried from view), consists of its attitude towards those who are at its mercy: animals. And in this respect mankind has suffered a fundamental debacle, a debacle so fundamental that all others stem from it.',
+        'Milan Kundera',
     ],
     [
-        'You\'ve got to know how to hustle. I got a lot of inspiration from my parents. My father was definitely a hustler. With six kids in the house, you always got to be hustling. And my mom, she\'s got sick work ethic.',
-        'Jay Pharoah',
+        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
+        'Richard Bach',
     ],
     [
-        'It\'s not a bad idea to occasionally spend a little time thinking about things you take for granted. Plain everyday things.',
-        'Evan Davis',
+        'Two roads diverged in a wood and I  took the one less traveled by, and that made all the difference.',
+        'Robert Frost',
     ],
     [
-        'I do not need to hear how I am judged by others. I know by myself if I can be satisfied or not with my work.',
-        'Gianluigi Buffon',
+        'If nothing else, the act of reaching a milestone often serves to reveal a superstar\'s true nature.',
+        'Stephen Rodrick',
     ],
     [
-        'I feel the older I get, the more I\'m learning to handle life. Being on this quest for a long time, it\'s all about finding yourself.',
-        'Ringo Starr',
+        'If you spend too much time thinking about a thing, you\'ll never get it done',
+        'Bruce Lee',
     ],
     [
-        'We succeed in enterprises which demand the positive qualities we possess, but we excel in those which can also make use of our defects.',
-        'Alexis de Tocqueville',
+        'There are always things I find difficult - being in crowds, remembering faces. I do like routines. I always travel with someone. My life in Avignon is a very quiet one. I have an apartment that looks over the whole city. I can drop into town, but a lot of the time I write from home. In some respects I still live a very quiet, simple life.',
+        'Daniel Tammet',
     ],
     [
-        'Marriage is an act of will that signifies and involves a mutual gift, which unites the spouses and binds them to their eventual souls, with whom they make up a sole family - a domestic church.',
-        'Pope John Paul II',
+        'The road to success is not easy to navigate, but with hard work, drive and passion, it\'s possible to achieve the American dream.',
+        'Tommy Hilfiger',
+    ],
+    [
+        'Big pay and little responsibility are circumstances seldom found together.',
+        'Napoleon Hill',
     ],
     [
         'Failure doesn\'t mean you are a failure it just means you haven\'t succeeded yet.',
         'Robert Schuller',
     ],
     [
-        'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
-        'Bruce Lee',
-    ],
-    [
-        'You can choose not to sit on the fence. You can choose not to criticise. You must stand as guard at the door of your own mind and choose to be positive.',
-        'Gail Kelly',
+        'I have always detested any departure from reality, an attitude which I relate to my mother\'s poor mental health.',
+        'Jean Piaget',
     ],
 ];

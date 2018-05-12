@@ -2,103 +2,103 @@
 
 return [
     [
-        'In my own life, I think legends of supernatural, mythic things are really just a manifestation of the collective unconscious. So I don\'t really get freaked out. I mean certainly, you read about things people did to each other in the pursuit of some mystical or occult goal, and it\'s horrifying. But that\'s just human nature.',
-        'Alan Ball',
-    ],
-    [
-        'I considered becoming a priest very seriously. I wanted to travel the world. By the time I turned 16, I realized I was only in it for selfish reasons. And, more importantly, I didn\'t want to sacrifice the ladies!',
-        'James McAvoy',
-    ],
-    [
-        'I\'ve never followed a vegan or vegetarian diet in the past, but I think I could do it. It would not be easy. I have worked with nutritionists who have said a vegan diet is not necessarily all positive for your health, because you need nutrients you only find in meats. I believe in a balanced diet.',
-        'Joel Robuchon',
-    ],
-    [
-        'Anticipate the difficult by managing the easy.',
-        'Lao Tzu',
-    ],
-    [
-        'I have a wonderful shelter, which is my family. I have a wonderful relationship with my brother and sister; this makes me feel that I know always where I belong.',
-        'Jose Carreras',
-    ],
-    [
-        'I never did quite fit the glamour mode. It is life with my husband and family that is my high now.',
-        'Patty Duke',
-    ],
-    [
-        'For the first time ever I was taking the family on the road. We stayed with my in-laws, which on life\'s list of experiences ranks right below sitting in a tub full of scissors.',
-        'Jeff Foxworthy',
-    ],
-    [
-        'There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.',
-        'Nelson Mandela',
-    ],
-    [
-        'It is the nature of babies to be in bliss.',
-        'Deepak Chopra',
-    ],
-    [
-        'My father got a trade union scholarship to Oxford; he lived and breathed politics; he was always watching current-affairs programmes. But I have a five-year-old child\'s attitude towards the news. Mainly, that it absolutely turns me off.',
-        'Jez Butterworth',
-    ],
-    [
-        'You have to be positive, and I\'m not just talking about athletics, this also applies to life.',
-        'Sheryl Swoopes',
-    ],
-    [
-        'People say, what is she thinking? I\'m thinking: fun; cash; travel.',
-        'Gail Porter',
-    ],
-    [
-        'All I really need to know... I learned in kindergarten.',
-        'Thomas Merton',
-    ],
-    [
-        'Bjorn was a different breed, I threw my best material at him, but he would never smile, but that added to the charm when he played me and Mac. We were going nuts and losing our mind and he was sitting back like he was on a Sunday stroll.',
-        'Jimmy Connors',
-    ],
-    [
-        'Like love, breakfast is best when made at home.',
-        'Gina Barreca',
-    ],
-    [
-        'A man is not where he lives but where he loves.',
-        '',
-    ],
-    [
-        'It takes courage to grow up and become who you really are.',
-        'E. E. Cummings',
-    ],
-    [
-        'Background scores allow me an absolute flight of the imagination, and I travel in my mind\'s eye. I do not like the scores to have vocal notes, because they act as a limitation to these flights of fancy.',
-        'Nawazuddin Siddiqui',
-    ],
-    [
-        'The attitude of independence toward a constructed language which all national speakers must adopt is really a great advantage, because it tends to make man see himself as the master of language instead of its obedient servant.',
-        'Edward Sapir',
-    ],
-    [
-        'Id rather regret the things that I have done than the things that I have not done.',
-        'Lucille Ball',
-    ],
-    [
-        'The Oscars are a lot different when you are a nominee. You walk around with this big smile on your face, and everyone, even people who work for rival film companies, tells you they voted for you.',
-        'Samuel Goldwyn',
-    ],
-    [
-        'Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.',
+        'The mind is everything. What you think you become.',
         'Buddha',
     ],
     [
-        'The most important investment you can make is in yourself.',
-        'Warren Buffett',
+        'What is worthy or unworthy on the Sabbath day will have to be judged by each of us by trying to be honest with the Lord. On the Sabbath day, we should do what we have to do and what we ought to do in an attitude of worshipfulness and then limit our other activities.',
+        'James E. Faust',
     ],
     [
-        'Nature scarcely ever gives us the very best; for that we must have recourse to art.',
-        'Baltasar Gracian',
+        'The best thing about the future is that it only comes one day at a time.',
+        'Abraham Lincoln',
     ],
     [
-        'You need to overcome the tug of people against you as you reach for high goals.',
-        'George S. Patton',
+        'A zero-gravity flight is a first step toward space travel.',
+        'Stephen Hawking',
+    ],
+    [
+        'My hope still is to leave the world a bit better than when I got here.',
+        'Jim Henson',
+    ],
+    [
+        'I can be the nice family man at home, and then when I go to the gym, maybe sparring with someone, I switch into beast mode. It ain\'t pretty.',
+        'Anthony Joshua',
+    ],
+    [
+        'The positive is I\'m delighted at the way the Liberal Democrats as a party have supported me and the way in which the work I\'m doing, through the Liberal Democrats, has abled to broaden some of the work I work on.',
+        'Maajid Nawaz',
+    ],
+    [
+        'Don\'t be afraid in nature: one must be bold, at the risk of having been deceived and making mistakes.',
+        'Camille Pissarro',
+    ],
+    [
+        'The only way I\'m going to support my family is to tour. I love playing, don\'t get me wrong. That 90 minutes every night, that\'s free. We get paid to travel. But every night, I have to get myself locked in. There are a thousand people that don\'t want to be disappointed, because they have a lot of expectations.',
+        'Sturgill Simpson',
+    ],
+    [
+        'I really enjoy what I do, and who I\'m with and where I am. Having said that, I\'m not really a person of habit, because what I do in my job is travel around the world and play concerts to people, and occasionally do very weird things.',
+        'Robert Smith',
+    ],
+    [
+        'The portrait I do best is of the person I know best.',
+        'Nadar',
+    ],
+    [
+        'That term\'s definitely got a negative aura to it, because people think a diva is somebody with an attitude who demands things all the time. Of course there is that type of diva, but my idea of a diva has always been a singer - whether male or female - who gets on that stage and captivates you with their presence and their voice.',
+        'Jordin Sparks',
+    ],
+    [
+        'My restaurants are never opened on Thanksgiving; I want my staff to spend time with their family if they can. My feeling is, if I can\'t figure out how to make money the rest of the year so that my workers can enjoy the holidays, then I don\'t deserve to be an owner.',
+        'Michael Symon',
+    ],
+    [
+        'There was always a feeling for me that it would work. That\'s what keeps me going. You go in with a positive attitude and stay there, and that\'s a big part of what does make it work.',
+        'Shelley Long',
+    ],
+    [
+        'Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.',
+        'Arthur Rubinstein',
+    ],
+    [
+        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
+        'Danny Meyer',
+    ],
+    [
+        'To me, success is choice and opportunity.',
+        'Harrison Ford',
+    ],
+    [
+        'Life is never fair, and perhaps it is a good thing for most of us that it is not.',
+        'Elizabeth Esty',
+    ],
+    [
+        'Education must not simply teach work - it must teach Life.',
+        'W. E. B. Du Bois',
+    ],
+    [
+        'The worst part of success is, to me, adapting to it. It\'s scary.',
+        'Kendrick Lamar',
+    ],
+    [
+        'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a game or a battle; the win comes from basic blocking and tackling.',
+        'Naveen Jain',
+    ],
+    [
+        'It\'s music. It\'s supposed to be fun and inspirational. You have to be inspired. If I did it because it was my \'job,\' and I only did it to make money, I don\'t think I\'d still be doing it.',
+        'Max Martin',
+    ],
+    [
+        'I\'m one of those guys that - as far as relationships and stuff go - if you smile at me, I\'m like, \'Let\'s date for three years\' - which is just ridiculous.',
+        'Norman Reedus',
+    ],
+    [
+        'There\'s no such thing as a specific authenticity to what Mexico is, because Mexico is incredibly complex and varied, and the food is completely different if you travel 50 kilometers. It just changes all the time.',
+        'Gael Garcia Bernal',
+    ],
+    [
+        'We have one planet in our solar system that\'s habitable, and that\'s the Earth, and space travel can transform things back here for the better. First of all, by just having people go to space and look back on this fragile planet we live on. People have come back transformed and have done fantastic things.',
+        'Richard Branson',
     ],
 ];

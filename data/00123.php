@@ -2,103 +2,103 @@
 
 return [
     [
-        'What you do makes a difference, and you have to decide what kind of difference you want to make.',
-        'Jane Goodall',
-    ],
-    [
-        'Canadians tend to be a bit more religious than most Europeans - though not more than the Poles or Ukrainians. Most important, their attitude to immigration and ethnic minorities is more positive than that of most Europeans.',
-        'Timothy Garton Ash',
-    ],
-    [
-        'We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way.',
-        'Les Brown',
-    ],
-    [
-        'I have had it up to here with the prosecutions, the government\'s attitude, the judiciary, the media\'s stance and the majority of Turks who view the Kurdish people\'s justified cause through a nationalist lens.',
-        'Osman Baydemir',
-    ],
-    [
-        'Lord, grant that I may always desire more than I can accomplish.',
-        'Michelangelo',
-    ],
-    [
-        'I write in my study, where I also have my prayer altar. I believe that keeps me focused and gives me positive energy and reminds me that I\'m merely the instrument of greater creative forces.',
-        'Chitra Banerjee Divakaruni',
-    ],
-    [
-        'Because I have work to care about, it is possible that I may be less difficult to get along with than other women when the double chins start to form.',
-        'Gloria Steinem',
-    ],
-    [
-        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.',
-        'Helen Keller',
-    ],
-    [
-        'Excellence is to do a common thing in an uncommon way.',
-        'Booker Washington',
-    ],
-    [
-        'Life is what we make it, always has been, always will be.',
-        'Sylvia Plath',
-    ],
-    [
-        'When there is no enemy within, the enemies outside cannot hurt you.',
-        'African proverb',
-    ],
-    [
-        'I collect all the reviews of the films I turned down. And when they\'re bad - I have to smile.',
-        'Simone Signoret',
-    ],
-    [
-        'Writers, as they gain success, feel like outsiders because writers don\'t come together in real groups.',
-        'Anne Rice',
-    ],
-    [
-        'If I could reach up and hold a star for every time you\'ve made me smile, the entire evening sky would be in the palm of my hand.',
-        '',
-    ],
-    [
-        'There are so many local nonprofits making a positive impact every day, and yet, oftentimes we don\'t hear enough about them or their needs.',
-        'Sylvia Mathews Burwell',
-    ],
-    [
-        'You can do what\'s reasonable or you can decide what\'s possible.',
+        'Knowledge is being aware of what you can do. Wisdom is knowing when not to do it.',
         'Unknown',
     ],
     [
-        'A friend may well be reckoned the masterpiece of nature.',
-        'Ralph Waldo Emerson',
+        'Hard work always pays off, whatever you do.',
+        'Dustin Lynch',
     ],
     [
-        'Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.',
-        'Napoleon Hill',
+        'There are three principal means of acquiring knowledge... observation of nature, reflection, and experimentation. Observation collects facts; reflection combines them; experimentation verifies the result of that combination.',
+        'Denis Diderot',
     ],
     [
-        'Today is not the day I die.',
-        'Oberyn Martell',
+        'Faces that have charmed us the most escape us the soonest.',
+        'Walter Scott',
     ],
     [
-        'Contrary to popular mythology, the best and most durable relationships are based not on vulnerability or passion but on a conjugation of positive attributes, a meeting of mind, body and soul that is all the more powerful as it is not weighed down with neediness and unreasonable expectation.',
-        'Mariella Frostrup',
+        'Not on one strand are all life\'s jewels strung.',
+        'William Morris',
     ],
     [
-        'To insult someone we call him \'bestial. For deliberate cruelty and nature, \'human\' might be the greater insult.',
-        'Isaac Asimov',
+        'It may sound funny, but I love the South. I don\'t choose to live anywhere else. There\'s land here, where a man can raise cattle, and I\'m going to do it some day.',
+        'Medgar Evers',
     ],
     [
-        'I work hard. I focus on myself and putting food on my dinner table before anything else. I don\'t worry about other artists. Worrying about the next person in a negative way is the wrong way to be.',
+        'If you don\'t have your friends and your family, what do you really have? You can have all the money in the world, but with no friends and no family, it\'s no good.',
         'Meek Mill',
     ],
     [
-        'The first condition of understanding a foreign country is to smell it.',
-        'Rudyard Kipling',
+        'I was terrible in English. I couldn\'t stand the subject. It seemed to me ridiculous to worry about whether you spelled something wrong or not, because English spelling is just a human convention - it has nothing to do with anything real, anything from nature.',
+        'Richard P. Feynman',
     ],
     [
-        'Work, look for peace and calm in work: you will find it nowhere else.',
-        'Dmitri Mendeleev',
+        'If you want to shine like a sun, first burn like a sun.',
+        'APJ Abdul Kalam',
     ],
     [
-        'I\'m the one that has to die when it\'s time for me to die, so let me live my life, the way I want to.',
-        'Jimi Hendrix',
+        'Maintaining a positive working relationship with Mexico\'s leadership will also be crucial to increasing communication and trade. I plan to personally maintain those relationships.',
+        'Doug Ducey',
+    ],
+    [
+        'I actually think of being funny as an odd turn of mind, like a mild disability, some weird way of looking at the world that you can\'t get rid of.',
+        'Calvin Trillin',
+    ],
+    [
+        'The main difference in the effectiveness of teaching comes from the thoughts the teacher has had during the entire time of his or her existence and brings into the classroom. A teacher concerned with developing humans affects the students quite differently from a teacher who never thinks about such things.',
+        'Rudolf Steiner',
+    ],
+    [
+        'Faith is love taking the form of aspiration.',
+        'William Ellery Channing',
+    ],
+    [
+        'I did standup for a lot of years, too, but when you come out as a standup, you get the feeling from a crowd - it\'s a kind of a \'make me laugh\' attitude. But when you come out as an improvisor, they realize that they\'re suggesting everything you do. So they\'re already invested in the scene, and they actually want it to work.',
+        'Ryan Stiles',
+    ],
+    [
+        'Positive defaults protect you from yourself - and that helps you to make decisions in the moment that are better for your long-term interests.',
+        'Tom Rath',
+    ],
+    [
+        'What you do today can improve all your tomorrows.',
+        'Ralph Marston',
+    ],
+    [
+        'I never subscribe to the stay-at-home policy. I\'m not sick of the road or sick of eating in good restaurants around the country. I like to travel.',
+        'Levon Helm',
+    ],
+    [
+        'The biggest hurdle is rejection. Any business you start, be ready for it. The difference between successful people and unsuccessful people is the successful people do all the things the unsuccessful people don\'t want to do. When 10 doors are slammed in your face, go to door number 11 enthusiastically, with a smile on your face.',
+        'John Paul DeJoria',
+    ],
+    [
+        'No matter how hard the past, you can always begin again.',
+        'Buddha',
+    ],
+    [
+        'Here ends my forever memorable first High Sierra excursion. I have crossed the Range of Light, surely the brightest and best of all the Lord has built. And, rejoicing in its glory, I gladly, gratefully, hopefully pray I may see it again.',
+        'John Muir',
+    ],
+    [
+        'Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.',
+        'Hannah Arendt',
+    ],
+    [
+        'I\'m a big fan of Courtney Love. I love Hole and I love her acting and I love her attitude. I just hope I never meet her in a dark alley.',
+        'Jeff Ross',
+    ],
+    [
+        'The most important thing is to enjoy your life - to be happy - it\'s all that matters.',
+        'Winston Churchill',
+    ],
+    [
+        'I grew up in a big family with a lot of kids around, and I definitely want to have children as well.',
+        'Heidi Klum',
+    ],
+    [
+        'Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.',
+        'Thomas Carlyle',
     ],
 ];

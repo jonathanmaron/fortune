@@ -2,103 +2,103 @@
 
 return [
     [
-        'Eventually soul mates meet, for they have the same hiding place.',
-        'Robert Brault',
+        'I had an amazing experience working with great people. I had a great family, a typical family with drama in certain areas, and that\'s pretty much everywhere in everyone\'s life.',
+        'Tina Yothers',
     ],
     [
-        'My new dressing goal is to make little kids and babies smile at all the bright, clashing colours I can wear at once. It makes me laugh when I catch sight of my own reflection - life is too short not have fun!',
-        'Liz Goldwyn',
+        'You walk into the playgrounds in Shanghai and Beijing, and you see youngsters who are shorter, shaking and baking and having attitude. And Jeremy Lin is going to inspire all of them.',
+        'David Stern',
     ],
     [
-        'All theory, dear friend, is gray, but the golden tree of life springs ever green.',
-        'Vincent Van Gogh',
+        'I grew up in a big family. You have to learn to get along with each other... get things done as a family.',
+        'John Boehner',
     ],
     [
-        'Act as if what you do makes a difference. It does.',
-        'William James',
+        'Beauty awakens the soul to act.',
+        'Dante Alighieri',
     ],
     [
-        'Basically, when you get to my age, you\'ll really measure your success in life by how many of the people you want to have love you actually do love you.',
-        'Warren Buffett',
+        'Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.',
+        'Christina Aguilera',
     ],
     [
-        'I own and operate a ferocious ego.',
-        'Bill Moyers',
+        'Always keep that happy attitude. Pretend that you are holding a beautiful fragrant bouquet.',
+        'Earl Nightingale',
     ],
     [
-        'The more you are positive and say, \'I want to have a good life,\' the more you build that reality for yourself by creating the life that you want.',
-        'Chris Pine',
+        'Exploration is really the essence of the human spirit.',
+        'Frank Borman',
     ],
     [
-        'The clock talked loud. I threw it away, it scared me what it talked.',
-        'Tillie Olsen',
+        'Wonder rather than doubt is the root of all knowledge.',
+        'Abraham Joshua Heschel',
     ],
     [
-        'I\'ve always put my family first and that\'s just the way it is.',
-        'Jamie Lee Curtis',
-    ],
-    [
-        'I couldn\'t wait for success, so I went ahead without it.',
-        'Jonathan Winters',
-    ],
-    [
-        'There are people who have money and people who are rich.',
-        'Coco Chanel',
-    ],
-    [
-        'Where the spirit does not work with the hand, there is no art.',
+        'A beautiful body perishes, but a work of art dies not.',
         'Leonardo da Vinci',
     ],
     [
-        'In aid, the proper attitude is one omitting gratitude.',
-        'Marya Mannes',
+        'One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don\'t throw it away.',
+        'Stephen Hawking',
     ],
     [
-        'Caring - about people, about things, about life - is an act of maturity.',
-        'Adlai E. Stevenson',
+        'The importance of satire is bringing more people to the table. There are a lot of average citizens who aren\'t interested in politics and would be more interested if it\'s brought to them in a comedic, funny, satirical way.',
+        'Bassem Youssef',
     ],
     [
-        'I am very much against makeup and high heels and all that we inherit as \'beauty.\'',
-        'Nawal El Saadawi',
+        'If two wrongs don\'t make a right, try three.',
+        'Laurence J. Peter',
     ],
     [
-        'I\'m convinced that there\'s a new way to define capitalism, and that the definition should include three ingredients - that we love our work, that we are building a traditionally successful business, and that we are having some positive impact in the world, whether it\'s local or global.',
-        'Biz Stone',
+        'You can\'t expect to hit the jackpot if you don\'t put a few nickels in the machine.',
+        'Flip Wilson',
     ],
     [
-        'In terms of work I\'ve always had a Bad Attitude in that I won\'t work anywhere which requires me to work strict hours or follow a dress code. I don\'t know if that\'s an Asperger\'s thing or not, I think it\'s just being reasonable.',
-        'Bram Cohen',
+        'Nature does not hurry, yet everything is accomplished.',
+        'Lao Tzu',
     ],
     [
-        'You don\'t have to have anything in common with people you\'ve known since you were five. With old friends, you\'ve got your whole life in common.',
-        'H. Jackson Brown, Jr.',
+        'While Pickstown may not be what it once was, it still is framed by the natural beauty of the ancient river, the sweep of the Great Plains, and the long, unbroken shoreline of the lake behind the dam. It gave me a 19th-century childhood in a modern mid-20th-century town, and for that I will always be grateful.',
+        'Tom Brokaw',
     ],
     [
-        'Life is one big road with lots of signs. So when you riding through the ruts, don\'t complicate your mind. Flee from hate, mischief and jealousy. Don\'t bury your thoughts, put your vision to reality. Wake Up and Live!',
-        'Woodrow Wilson',
+        'Question: Why are we Masters of our Fate, the captains of our souls? Because we have the power to control our thoughts, our attitudes. That is why many people live in the withering negative world. That is why many people live in the Positive Faith world.',
+        'Alfred A. Montapert',
     ],
     [
-        'Real shapes and real patterns are things you would observe in nature, like the marks on the back of a cobra\'s hood or the markings on a fish or a lizard. Imaginary shapes are just that, symbols that come to a person in dreams or reveries and are charged with meaning.',
-        'Jim Woodring',
+        'It is not the style of clothes one wears, neither the kind of automobile one drives, nor the amount of money one has in the bank, that counts. These mean nothing. It is simply service that measures success.',
+        'George Washington Carver',
     ],
     [
-        'For a manager to be perceived as a positive manager, they need a four to one positive to negative contact ratio.',
-        'Ken Blanchard',
+        'Everyone smiles in the same language.',
+        'Unknown',
     ],
     [
-        'Beauty, by way of fashion, has to do with confidence, with flattering silhouettes, with patterns, with proper fit for body type, and with an abundance of self-love!',
-        'Mary Lambert',
+        'Any time I need to get a serious attitude adjustment, I put on one of their records, and there are examples there for all time to keep us honest and keep us reaching; they\'ll never be eclipsed.',
+        'Benny Green',
     ],
     [
-        'Just be yourself. Be honest, work towards a goal, and you\'ll achieve it.',
-        'Emraan Hashmi',
+        'There is a beauty and clarity that comes from simplicity that we sometimes do not appreciate in our thirst for intricate solutions.',
+        'Dieter F. Uchtdorf',
     ],
     [
-        'Forgiveness is a funny thing. It warms the heart and cools the sting.',
-        'William Arthur Ward',
+        'Originally, the burden of proof was on physicists to prove that time travel was possible. Now the burden of proof is on physicists to prove there must be a law forbidding time travel.',
+        'Michio Kaku',
     ],
     [
-        'Familiarity is a magician that is cruel to beauty but kind to ugliness.',
-        'Ouida',
+        'I think there are very few people who have a real style, a real personality, and real beauty.',
+        'Marisa Berenson',
+    ],
+    [
+        'The very nature of finance is that it cannot be profitable unless it is significantly leveraged... and as long as there is debt, there can be failure and contagion.',
+        'Alan Greenspan',
+    ],
+    [
+        'I\'m a pretty uncomplicated person. I live a very simple life with my family and I enjoy very ordinary things.',
+        'Khaled Hosseini',
+    ],
+    [
+        'People say we were an overnight success. It took us a year to be an overnight success.',
+        'James Daly',
     ],
 ];

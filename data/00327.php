@@ -2,103 +2,103 @@
 
 return [
     [
-        'What reader wants to be told what attitude to strike?',
-        'Ian Mcewan',
+        'The more people explore the world, the more they realize in every country there\'s a different aesthetic. Beauty really is in the eye of the beholder.',
+        'Helena Christensen',
     ],
     [
-        'My friends and family are my support system. They tell me what I need to hear, not what I want to hear and they are there for me in the good and bad times. Without them I have no idea where I would be and I know that their love for me is what\'s keeping my head above the water.',
-        'Kelly Clarkson',
+        'My life is devoted to business and supporting my family.',
+        'Colonel Sanders',
     ],
     [
-        'Comedians don\'t laugh. They\'re too busy analyzing why it\'s funny or not.',
-        'James Lipton',
+        'The best way to guarantee a loss is to quit.',
+        'Morgan Freeman',
     ],
     [
-        'Her friends say she is very funny. At a family dinner, she stood to go, and the footman very properly pulled her chair away. At that moment I asked her a question and she sat down again, except there was no chair. Everyone, including the Queen, laughed and laughed.',
-        'Prince Andrew',
+        'The best way to solve problems and to fight against war is through dialogue.',
+        'Malala Yousafzai',
     ],
     [
-        'As I was growing up, I did a lot of talent shows. I won fifteen Sunday nights straight in a series of talent shows in Macon. I showed up the sixteenth night, and they wouldn\'t let me go on any more. Whatever success I had was through the help of the good Lord.',
-        'Otis Redding',
+        'I\'ve always tried to go a step past wherever people expected me to end up.',
+        'Beverly Sills',
     ],
     [
-        'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
-        'Aldous Huxley',
+        'You just can\'t beat the person who never gives up.',
+        'Babe Ruth',
     ],
     [
-        'This life, which had been the tomb of his virtue and of his honour, is but a walking shadow; a poor player, that struts and frets his hour upon the stage, and then is heard no more: it is a tale told by an idiot, full of sound and fury, signifying nothing.',
-        'Jack London',
+        'Such a faith would be fatal to my reason, to my liberty, and even to the success of my undertakings; it would immediately transform me into a stupid slave, an instrument of the will and interests of others.',
+        'Mikhail Bakunin',
     ],
     [
-        'The scientific observer of Nature is a kind of mystic seeker in the act of prayer.',
-        'Muhammad Iqbal',
+        'You are the bows from which your children as living arrows are sent forth.',
+        'Khalil Gibran',
     ],
     [
-        'Money does not guarantee success.',
-        'Jose Mourinho',
+        'You cannot allow your desire to be a winner to be diminished by achieving success before and I believe there is room for improvement in every sportsman.',
+        'Lionel Messi',
     ],
     [
-        'Past success is no guarantee of future success, so I have learned to be an entrepreneur. I began to produce and direct my own projects.',
-        'Ian Ziering',
+        'Make space in your life for the things that matter, for family and friends, love and generosity, fun and joy. Without this, you will burn out in mid-career and wonder where your life went.',
+        'Arthur Keith',
     ],
     [
-        'Within the hearts men, loyalty and consideration are esteemed greater than success.',
-        'Bryant H. McGill',
-    ],
-    [
-        'To so enter into it in nature and art that the enjoyed meanings of life may become a part of living is the attitude of aesthetic appreciation.',
-        'George Herbert Mead',
-    ],
-    [
-        'Going by my past journey, I am not certain where life will take me, what turns and twists will happen; nobody knows where they will end up. As life changes direction, I\'ll flow with it.',
-        'Joyce Meyer',
-    ],
-    [
-        'No one can feel more gratefully the charm of noble scenery, or the refreshment of escape into the unspoiled solitudes of nature, than the laborer at some close in-door employment.',
-        'Lucy Larcom',
-    ],
-    [
-        'I don\'t want to be perfect, but I do want to be a role model. My mom always tells me that imperfections equal beauty. All of us are imperfect.',
-        'Miley Cyrus',
-    ],
-    [
-        'Success is not two cars or a swimming pool. It\'s the approval of your peers.',
-        'Peter Finch',
-    ],
-    [
-        'Grace is in garments, in movements, in manners; beauty in the nude, and in forms. This is true of bodies; but when we speak of feelings, beauty is in their spirituality, and grace in their moderation.',
-        'Joseph Joubert',
-    ],
-    [
-        'It takes both courage and talent to stand up in front of fellow human beings and make them crack a smile, and at the same time keep it clean.',
-        'Ray Comfort',
-    ],
-    [
-        'Who we are never changes. Who we think we are does.',
-        'Mary Almanac',
-    ],
-    [
-        'I\'ve had to listen to candidates tell me they are the most wonderful thing since the invention of sliced bread, and it bores me to death. It also makes me doubt that they are actually any good at all - plus it\'s an attitude that would never fly in the culture I\'ve created in my company.',
-        'John Rampton',
+        'The first step to getting the things you want out of life is this: decide what you want.',
+        'Ben Stein',
     ],
     [
         'Quality is never an accident; it is always the result of intelligent effort.',
         'John Ruskin',
     ],
     [
-        'I can\'t go into a mob scene and sense the mood and the attitude of the crowd. I can\'t conduct man-on-the-street interviews or even get reactions that I can be sure are honest, because they know who I am.',
-        'Walter Cronkite',
+        'Respect should be earned by actions, and not acquired by years.',
+        'Frank Wright',
     ],
     [
-        'I travel the world visiting global health programs as an ambassador for the global health organization, PSI, and sometimes the disconnect I see is truly striking: people can get cold Coca Cola, but far too infrequently malaria drugs; most own mobile phones, but don\'t have equal access to pre-natal care.',
-        'Mandy Moore',
+        'What I am looking for is a blessing not in disguise.',
+        'Jerome K. Jerome',
     ],
     [
-        'Now\'s the best time you\'ll ever have in life to get ahead!',
-        'Zig Ziglar',
+        'The two most important days in your life are the day you are born and the day you find out why.',
+        'Mark Twain',
     ],
     [
-        'You\'ve got to be success minded. You\'ve got to feel that things are coming your way when you\'re out selling; otherwise, you won\'t be able to sell anything.',
-        'Benjamin Jowett',
+        'Wrinkles will only go where the smiles have been.',
+        'Jimmy Buffett',
+    ],
+    [
+        'No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.',
+        'Godfrey Winn',
+    ],
+    [
+        'You know, you can touch a stick of dynamite, but if you touch a venomous snake it\'ll turn around and bite you and kill you so fast it\'s not even funny.',
+        'Steve Irwin',
+    ],
+    [
+        'Choose a job you love, and you will never have to work a day in your life.',
+        'Confucius',
+    ],
+    [
+        'Give me the luxuries of life and I will willingly do without the necessities.',
+        'Adam Braun',
+    ],
+    [
+        'I\'ve had a lot of very positive feedback about those stories, and seem to have struck upon something that most people feel. I can also tap dance, and don\'t know many other authors who can.',
+        'Paul Kane',
+    ],
+    [
+        'You can\'t run a government from one single person. What instead matters is that leadership be about gathering around extraordinary individuals and getting the best out of them.',
+        'Justin Trudeau',
+    ],
+    [
+        'Do you know, it\'s funny, but I never thought of being blind as a disadvantage, and I never thought of being black as a disadvantage.',
+        'Stevie Wonder',
+    ],
+    [
+        'The attempt to redefine the family as a purely voluntary arrangement grows out of the modern delusion that people can keep all their options open all the time.',
+        'Christopher Lasch',
+    ],
+    [
+        'Do not go where the path may lead, go instead where there is no path and leave a trail.',
+        'Ralph Waldo Emerson',
     ],
 ];

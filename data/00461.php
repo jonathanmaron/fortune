@@ -2,103 +2,103 @@
 
 return [
     [
-        'Smile, breathe and go slowly.',
-        'Thich Nhat Hanh',
+        'My parents taught me honesty, truth, compassion, kindness and how to care for people. Also, they encouraged me to take risks, to boldly go. They taught me that the greatest danger in life is not taking the adventure.',
+        'Ezra Pound',
     ],
     [
-        'In an era in which war and terrorism - at home and abroad - are often based on racial, religious and ethnic differences, rediscovering the wisdom of love and compassion may help us increase our survival at a time when an increasingly divided country and world so badly need it.',
-        'Dean Ornish',
+        'In politics you learn to always smile.',
+        'Eliot Spitzer',
     ],
     [
-        '\'Fast Life\' is just about going out with your friends and having a good time - I think it\'s one of those songs that people can relate with and like.',
-        'Joe Jonas',
+        'I suppose, in a way, this has become part of my soul. It is a symbol of my life. Whatever I have done that really matters, I\'ve done wearing it. When the time comes, it will be in this that I journey forth. What greater honor could come to an American, and a soldier?',
+        'Douglas MacArthur',
     ],
     [
-        'When I speak in English, my expressions become different. My attitude, too. I\'m not sure why, but there really is a difference. My hands move differently when I speak English.',
-        'Gong Li',
+        'I like long walks, especially when they are taken by people who annoy me.',
+        'Fred Allen',
     ],
     [
-        'I never see what has been done; I only see what remains to be done.',
-        'Marie Curie',
+        'The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.',
+        'Helen Keller',
     ],
     [
-        'The best way a mentor can prepare another leader is to expose him or her to other great people.',
-        'John C. Maxwell',
+        'I am a marvelous housekeeper. Every time I leave a man I keep his house.',
+        'Zsa Zsa Gabor',
     ],
     [
-        'I buy expensive suits. They just look cheap on me.',
-        'Warren Buffett',
+        'The extreme sophistication of modern technology - wonderful though its benefits are - is, ironically, an impediment to engaging young people with basics: with learning how things work.',
+        'Martin Rees',
     ],
     [
-        'Fashion pictures show people looking glamorous. Travel pictures show a place looking at its best, nothing to do with the reality. In the cookery pages, the food always looks amazing, right? Most of the pictures we consume are propaganda.',
-        'Martin Parr',
+        'My wish is to be known only thru my work.',
+        'Dorothea Dix',
     ],
     [
-        'It is boorish to live ungraciously: the giving is the hardest part; what does it cost to add a smile?',
-        'Jean de la Bruyere',
-    ],
-    [
-        'Reggae has a philosophy, you know? It\'s not just entertainment. There\'s an idea behind it, a way of life behind the music, which is a positive way of life, which is a progressive way of life for better people.',
-        'Ziggy Marley',
-    ],
-    [
-        'The best customer service is if the customer doesn\'t need to call you, doesn\'t need to talk to you. It just works.',
-        'Jeff Bezos',
-    ],
-    [
-        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
-        'Aldo Leopold',
-    ],
-    [
-        'Here is the test to find whether your mission on Earth is finished: if you\'re alive, it isn\'t.',
-        'Hugh Mackay',
-    ],
-    [
-        'Experience is what you have after you\'ve forgotten her name.',
-        'Milton Berle',
-    ],
-    [
-        'When I hear somebody sigh, \'Life is hard,\' I am always tempted to ask, \'Compared to what?\'',
-        'Alejandro Gonzalez Inarritu',
-    ],
-    [
-        'Waste no more time arguing about what a good man should be. Be one.',
+        'Whatever the universal nature assigns to any man at any time is for the good of that man at that time.',
         'Marcus Aurelius',
     ],
     [
-        'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.',
-        'Elayne Boosler',
+        'The price of greatness is responsibility.',
+        'Winston Churchill',
     ],
     [
-        'For me the best thing about winning an award is when the people cheer for your win. When you can see that the people are really happy that you are winning something, that\'s the most reward thing in the world.',
-        'Busta Rhymes',
+        'When I go to my live shows it\'s often a multigenerational audience, a family bonding experience.',
+        'Al Yankovic',
     ],
     [
-        'When you\'re a houseguest and you leave, it\'s nice to straighten something up or send your hosts a useful gift. And when you leave the planet, it\'s nice to have made a positive contribution.',
-        'Alexander Payne',
+        'A lot of comedies are based on the reaction shot. You have one person doing something stupid and one person is generally the straight man, and the laughs generally come on the reaction of the straight man to the funny thing the other person has done.',
+        'Richard Ayoade',
     ],
     [
-        'We learned about honesty and integrity - that the truth matters... that you don\'t take shortcuts or play by your own set of rules... and success doesn\'t count unless you earn it fair and square.',
-        'Michelle Obama',
+        'The perception of beauty is a moral test.',
+        'Henry David Thoreau',
     ],
     [
-        'You might well remember that nothing can bring you success but yourself.',
-        'Napoleon Hill',
+        'Because of my capacity for listening to strangers\' tales, or the details of their lives, my patience with their food and their crotchets, my curiosity that borders on nosiness, I am told that anyone traveling with me experiences an unbelievable tedium, and this is why I choose to travel alone.',
+        'Paul Theroux',
     ],
     [
-        'It is impossible for a man to learn what he thinks he already knows.',
-        'Epictetus',
+        'People who talk about revolution and class struggle without referring explicitly to everyday life, without understanding what is subversive about love and what is positive in the refusal of constraints, such people have a corpse in their mouth.',
+        'Raoul Vaneigem',
     ],
     [
-        'When you have a dream that you can\'t let go of, trust your instincts and pursue it. But remember: Real dreams take work, They take patience, and sometimes they require you to dig down very deep. Be sure you\'re willing to do that.',
-        'Harvey Mackay',
+        'Happiness does not come from having much, but from being attached to little.',
+        'Cheng Yen',
     ],
     [
-        'I always wanted to be somebody, but I should have been more specific.',
-        'Lily Tomlin',
+        'You can achieve all the things you want to do, but it\'s much better to do it with loved ones around you; family and friends, people that you care about that can help you on the way and can celebrate you, and you can enjoy the journey.',
+        'John Lasseter',
     ],
     [
-        'I\'ve said before, the number one thing that we have to work on is protecting the gay community from sharia law. Now, in the United States, it\'s probably not a big issue right now, but my brother-in-law is gay, and his partner and I would like them to be able to travel any place in the world without them risking harm.',
-        'Foster Friess',
+        'Our career is a dream. I mean, we get to act, travel around the world, and meet cool people. What\'s not to love!',
+        'Mary-Kate Olsen',
+    ],
+    [
+        'My attitude is that, if you have nothing to hide, why not show it?',
+        'Bradley Wiggins',
+    ],
+    [
+        'If you ever face a significant disaster, do your best to keep up the spirits of those around you, act flexibly and creatively to help, try to sort rumors from truth, and remember that the decisions you make will have repercussions after the disaster has passed.',
+        'Sheri Fink',
+    ],
+    [
+        'I felt most proud on the success of the Apollo mission.',
+        'Katherine Johnson',
+    ],
+    [
+        'Winners make a habit of manufacturing their own positive expectations in advance of the event.',
+        'Brian Tracy',
+    ],
+    [
+        'The Way Get Started Is To Quit Talking And Begin Doing.',
+        'Walt Disney',
+    ],
+    [
+        'And if you see me, smile and maybe give me a hug. That\'s important to me too.',
+        'Jim Valvano',
+    ],
+    [
+        'Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.',
+        'Byron Pulsifer',
     ],
 ];

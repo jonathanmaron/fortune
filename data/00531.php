@@ -2,103 +2,103 @@
 
 return [
     [
-        'I don\'t believe that if you do good, good things will happen. Everything is completely accidental and random. Sometimes bad things happen to very good people and sometimes good things happen to bad people. But at least if you try to do good things, then you\'re spending your time doing something worthwhile.',
-        'Helen Mirren',
+        'The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.',
+        'Henry Miller',
     ],
     [
-        'I\'ve always been interested in the idea of space exploration. When I was younger it was just a dream, but the theory of rockets being able to travel through space was very much alive. I found it very exciting.',
-        'Gerry Anderson',
-    ],
-    [
-        'Rome is the city of echoes, the city of illusions, and the city of yearning.',
-        'Giotto di Bondone',
-    ],
-    [
-        'It\'s kind of funny, with all of the different outlets that come from acting that you could try, I would love to direct and kind of be involved in art direction, too.',
-        'Imogen Poots',
-    ],
-    [
-        'Being yourself is one of the hardest things because it\'s scary. You always wonder whether you\'ll be accepted for who you really are. I decided to call my record \'Inside Out\' because that\'s my motto about life. I don\'t think you ever succeed at trying to be anyone else but who you truly are.',
-        'Iris Murdoch',
-    ],
-    [
-        'You start at a young age, going on auditions, and you think you did a good job and expect to get that role, and you don\'t, and it\'s a letdown, a disappointment. So you tell yourself to just do the work and disconnect, because you have no control over the outcome.',
-        'Michael B. Jordan',
-    ],
-    [
-        'Even when disco went out, I could still make hits. Once I had so much success, every idea became concentrated. I had so much confidence. I knew how the bass should sound, what rhythms would work. The tempos I knew: 110 to 120 BPM. I knew they would dance in the clubs in New York or anywhere.',
-        'Giorgio Moroder',
-    ],
-    [
-        'Make a Goal Box, a chart of positive daily contact with a family when you are working with them.',
-        'Richard G. Scott',
-    ],
-    [
-        'We learned about gratitude and humility - that so many people had a hand in our success, from the teachers who inspired us to the janitors who kept our school clean... and we were taught to value everyone\'s contribution and treat everyone with respect.',
-        'Michelle Obama',
-    ],
-    [
-        'It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves.',
-        'Thornton Wilder',
-    ],
-    [
-        'My dad told me, \'It takes fifteen years to be an overnight success\', and it took me seventeen and a half years.',
-        'Adrien Brody',
-    ],
-    [
-        'The season of failure is the best time for sowing the seeds of success.',
-        'Paramahansa Yogananda',
-    ],
-    [
-        'There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.',
-        'Epictetus',
-    ],
-    [
-        'With my talent, I can make people laugh and give them another attitude about life. What a blessing that is for me.',
-        'Doris Roberts',
-    ],
-    [
-        'A man who doesn\'t trust himself can never really trust anyone else.',
-        'Cardinal Retz',
-    ],
-    [
-        'There are people in every time and every land who want to stop history in its tracks. They fear the future, mistrust the present, and invoke the security of a comfortable past which, in fact, never existed.',
-        'Robert Kennedy',
-    ],
-    [
-        'Art is about expressing the true nature of the human spirit in whatever way one wishes to express it. If it is honest, it is beautiful. If it is not honest, it is obvious.',
-        'Corin Nemec',
-    ],
-    [
-        'One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.',
-        'Elbert Hubbard',
-    ],
-    [
-        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
-        'Pam Brown',
-    ],
-    [
-        'Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational.',
-        'Kevin Brownlow',
-    ],
-    [
-        'You\'ve got a movie where the pro-choice family gives their daughter no choice. The pro-life family murders. What seems to be the good mother, the kind of hippie painter, sweet and cute mother has no love for her daughter really.',
-        'Ellen Barkin',
-    ],
-    [
-        'For me, education has never been simply a policy issue - it\'s personal. Neither of my parents and hardly anyone in the neighborhood where I grew up went to college. But thanks to a lot of hard work and plenty of financial aid, I had the opportunity to attend some of the finest universities in this country.',
-        'Michelle Obama',
-    ],
-    [
-        'Successful people make money. It\'s not that people who make money become successful, but that successful people attract money. They bring success to what they do.',
+        'Miracles come in moments. Be ready and willing.',
         'Wayne Dyer',
     ],
     [
-        'Every small business will give you an entrepreneurial way of looking at things. I guarantee you that for every plant that closes, if you gave it to one small-business person in that community, he or she would find a way to make it work. The small-business attitude is you always find a way to make it work.',
-        'Hamdi Ulukaya',
+        'You have to get under the hood and spend some quality time with someone to understand what they\'re really good at.',
+        'Aileen Lee',
     ],
     [
-        'When the traveler goes alone he gets acquainted with himself.',
-        'Liberty Hyde Bailey',
+        'God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it.',
+        'Steve Harvey',
+    ],
+    [
+        'I am just happy to be part of the Nike family.',
+        'LeBron James',
+    ],
+    [
+        'Solitude has its own very strange beauty to it.',
+        'Liv Tyler',
+    ],
+    [
+        'No matter how popular you are as a stand-up - you can go out and fill a 10,000-seat arena and be smart and funny - it\'s delicate to host an awards show and know where your place is and know that it\'s not about you, that it\'s about the people who are nominated, and respect that, but at the same time have your moment to show them who you are.',
+        'Ellen DeGeneres',
+    ],
+    [
+        'We could only solve our problems by cooperating with other countries. It would have been paradoxical not to cooperate. And therefore we needed to put an end to the Iron Curtain, to change the nature of international relations, to rid them of ideological confrontation, and particularly to end the arms race.',
+        'Mikhail Gorbachev',
+    ],
+    [
+        'Sometimes when you write something on the page, it can seem very funny, but when you act it out - and this happens to me a lot, actually - the melancholy of the situation becomes more front and center.',
+        'Mike White',
+    ],
+    [
+        'You don\'t want to have to come into work on Monday already apologizing. I try to save my apologies for what I\'ve done later in the week.',
+        'Ike Barinholtz',
+    ],
+    [
+        'Work expands so as to fill the time available for its completion.',
+        'C. Northcote Parkinson',
+    ],
+    [
+        'There are many little ways to enlarge your child\'s world. Love of books is the best of all.',
+        'Jackie Kennedy',
+    ],
+    [
+        'When work is a pleasure, life is a joy! When work is a duty, life is slavery.',
+        'Maxim Gorky',
+    ],
+    [
+        'In my mind I\'m a blind man doin\' time.',
+        'Tupac Shakur',
+    ],
+    [
+        'Nature surrounds us, from parks and backyards to streets and alleyways. Next time you go out for a walk, tread gently and remember that we are both inhabitants and stewards of nature in our neighbourhoods.',
+        'David Suzuki',
+    ],
+    [
+        'Life is like a trumpet - if you don\'t put anything into it, you don\'t get anything out of it.',
+        'Dorothea Lange',
+    ],
+    [
+        'Porsche is a driver\'s car - a performance car. That was funny - here\'s this awesome car, but it\'s got no cup holders.',
+        'Jason McCoy',
+    ],
+    [
+        'The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.',
+        'Mohandas Gandhi',
+    ],
+    [
+        'The chief danger in life is that you may take too many precautions.',
+        'Ellen G. White',
+    ],
+    [
+        'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
+        'James Best',
+    ],
+    [
+        'Our work is never over.',
+        'Kanye West',
+    ],
+    [
+        'Your ego can become an obstacle to your work. If you start believing in your greatness, it is the death of your creativity.',
+        'Marina Abramovic',
+    ],
+    [
+        'The reason \'The Carol Burnett Show\' did so well in the ratings is because people were looking for that comfort zone when the whole family sat around and watched television and enjoyed it.',
+        'Tim Conway',
+    ],
+    [
+        'Let each man exercise the art he knows.',
+        'Aristophanes',
+    ],
+    [
+        'I figured out, I guess, that the job just makes me happy if it\'s not number one. So if it all works, great. If it doesn\'t, I still go home, look at my kids, and I have a big smile on my face.',
+        'Thomas Kretschmann',
     ],
 ];

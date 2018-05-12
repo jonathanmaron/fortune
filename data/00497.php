@@ -2,103 +2,103 @@
 
 return [
     [
-        'A positive attitude can really make dreams come true - it did for me.',
-        'David Bailey',
+        'He that respects himself is safe from others; he wears a coat of mail that none can pierce.',
+        'Henry Longfellow',
     ],
     [
-        'Wise men talk because they have something to say; fools, because they have to say something.',
-        'Plato',
+        'I grew up in an era of thinking of travel as escape. The idea that you could conceivably have a new life, go somewhere, fall in love, have little children under the palm trees.',
+        'Paul Theroux',
     ],
     [
-        'One\'s own self-worth is tied to the worth of the community to which one belongs, which is intimately connected to humanity in general. What happens in Darfur becomes an assault on my own community, and on me as an individual. That\'s what the human family is all about.',
-        'Wole Soyinka',
+        'Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.',
+        'Jane Addams',
     ],
     [
-        'Accidents happen, whether they\'re car accidents, friendly fire, drug overdoses. Accidents happen, and they\'re tragic. It\'s like a bomb that goes off and pieces of shrapnel rip into the flesh of the family. It\'s the families that need the compassion, because everywhere they walk, every day, someone reminds them of their loss.',
-        'James Belushi',
-    ],
-    [
-        'I think the older you get, the more you realize how important life is, the more you think about your family.',
-        'Wes Welker',
-    ],
-    [
-        'Everything you can imagine is real.',
-        'Pablo Picasso',
-    ],
-    [
-        'I\'ve always considered myself to be fiercely patriotic. I love Britain - its history and the down-to-earth attitude people have.',
-        'Gary Numan',
-    ],
-    [
-        'Barack Obama, he just sits out. He sits back; he criticizes everybody. He\'s got his professorial attitude, real condescending, as if he\'s got all the answers.',
-        'Steve Scalise',
-    ],
-    [
-        'Fashions have done more harm than revolutions.',
-        'Victor Hugo',
-    ],
-    [
-        'I am living proof that the American dream still exists. It is still alive and well. There is only one trick, you have to be willing to roll up your sleeves and work very, very hard.',
-        'Paula Deen',
-    ],
-    [
-        'It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.',
-        'Mabel Newcomber',
-    ],
-    [
-        'You don\'t wanna walk around and say, \'I\'m somebody\'s niece, I\'m somebody\'s cousin, I\'m somebody\'s daughter. Who are you?\' And I think that\'s always the challenge when you grow up in a well-known family, is ultimately, you have to face yourself in the mirror and say, \'Who are you? What have you done?\'',
-        'Maria Shriver',
-    ],
-    [
-        'Sure we\'re in limos. We\'re stars. How else is a star supposed to travel?',
-        'Deion Sanders',
-    ],
-    [
-        'Gray skies are just clouds passing over.',
-        'Duke Ellington',
-    ],
-    [
-        'A little knowledge that acts is worth infinitely more than much knowledge that is idle.',
-        'Kahlil Gibran',
-    ],
-    [
-        'The poem is not, as someone put it, deflective of entry. But the real question is, \'What happens to the reader once he or she gets inside the poem?\' That\'s the real question for me, is getting the reader into the poem and then taking the reader somewhere, because I think of poetry as a kind of form of travel writing.',
-        'Billy Collins',
-    ],
-    [
-        'I just don\'t see myself as a travel writer. I can\'t. I don\'t.',
-        'Robyn Davidson',
-    ],
-    [
-        'Most powerful is he who has himself in his own power.',
-        'Seneca',
-    ],
-    [
-        'Some go on to trade schools or get further training for jobs they are interested in. Some go into the arts, some are craftsmen, some take a little time out to travel, and some start their own businesses. But our graduates find and work at what they want to do.',
-        'Daniel Greenberg',
-    ],
-    [
-        'Our aim is to develop affectionate robots that can make people smile.',
-        'Masayoshi Son',
-    ],
-    [
-        'Nearly every moment of every day, we have the opportunity to give something to someone else - our time, our love, our resources.',
-        'S. Truett Cathy',
-    ],
-    [
-        'The roots of the problems we face in the world, in our national life, and in our family and personal lives are spiritual.',
+        'When it comes to developing character strength, inner security and unique personal and interpersonal talents and skills in a child, no institution can or ever will compare with, or effectively substitute for, the home\'s potential for positive influence.',
         'Stephen Covey',
     ],
     [
-        'My parents were kind of over protective people. Me and my sister had to play in the backyard all the time. They bought us bikes for Christmas but wouldn\'t let us ride in the street, we had to ride in the backyard. Another Christmas, my dad got me a basketball hoop and put it in the middle of the lawn! You can\'t dribble on grass.',
-        'Jimmy Fallon',
+        'Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens.',
+        'Khalil Gibran',
     ],
     [
-        'Good humor is a tonic for mind and body. It is the best antidote for anxiety and depression. It is a business asset. It attracts and keeps friends. It lightens human burdens. It is the direct route to serenity and contentment.',
-        'Grenville Kleiser',
+        'If you\'re not making some notable mistakes along the way, you\'re certainly not taking enough business and career chances.',
+        'Sallie Krawcheck',
     ],
     [
-        'When it\'s your will versus another person\'s will, the worst thing you can do is smile in their face when you\'re competing. That\'s what I tell our guys. Go have fun.',
-        'DeAngelo Williams',
+        'Even in the centuries which appear to us to be the most monstrous and foolish, the immortal appetite for beauty has always found satisfaction.',
+        'Charles Baudelaire',
+    ],
+    [
+        'Nonfiction speaks to the head. Fiction speaks to the heart. Poetry speaks to the soul. It\'s the essence of beauty. The essence of pain. It pleases the eye and the ear.',
+        'Ellen Hopkins',
+    ],
+    [
+        'Concentrate all your thoughts upon the work at hand. The sun\'s rays do not burn until brought to a focus.',
+        'Alexander Graham Bell',
+    ],
+    [
+        'Real success is finding you lifework in the work that you love.',
+        'David McCullough',
+    ],
+    [
+        'Strength does not come from physical capacity. It comes from an indomitable will.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'If you have a good support system like your family and your friends around you, then you can\'t go wrong. So just believe in yourself, do you your thing, and stay strong in what you believe in.',
+        'Roman Reigns',
+    ],
+    [
+        'Life is about challenges and how we face up to them and the attitude we take into every day life so hopefully we\'ll be able to motivate people to do more with their life.',
+        'Martina Navratilova',
+    ],
+    [
+        'Some say I\'m an overnight success. Well, that was a very long night that lasted about 10 years.',
+        'Lisa Morton',
+    ],
+    [
+        'If in our daily life we can smile, if we can be peaceful and happy, not only we, but everyone will profit from it. This is the most basic kind of peace work.',
+        'Nhat Hanh',
+    ],
+    [
+        'If you get up one more time than you fall, you will make it through',
+        'Chinese Proverb',
+    ],
+    [
+        'Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.',
+        'Walter Pater',
+    ],
+    [
+        'It is true that the aristocracies seem to have abused their monopoly of legal knowledge; and at all events their exclusive possession of the law was a formidable impediment to the success of those popular movements which began to be universal in the western world.',
+        'Henry James Sumner Maine',
+    ],
+    [
+        'Death is pitch-dark, but colors are light. To be a painter, one must work with rays of light.',
+        'Edvard Munch',
+    ],
+    [
+        'Experience is what you have after you\'ve forgotten her name.',
+        'Milton Berle',
+    ],
+    [
+        'Sacred joy exists in any suffering.',
+        'Lailah Gift Akita',
+    ],
+    [
+        'People with a sense of humor tend to be less egocentric and more realistic in their view of the world and more humble in moments of success and less defeated in times of travail.',
+        'Bob Newhart',
+    ],
+    [
+        'Put your future in good hands, your own.',
+        'Unknown',
+    ],
+    [
+        'Tears are sometimes an inappropriate response to death. When a life has been lived completely honestly, completely successfully, or just completely, the correct response to death\'s perfect punctuation mark is a smile.',
+        'Julie Burchill',
+    ],
+    [
+        'The attitude in Baltimore in 1999 was almost one of resignation, that our problems were bigger than our capacity to handle them.',
+        'Martin O\'Malley',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Rest when you\'re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.',
-        'Ralph Marston',
+        'Once you bring life into the world, you must protect it. We must protect it by changing the world.',
+        'Leah LaBelle',
     ],
     [
-        'If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.',
+        'It\'s not an experiment if you know it\'s going to work.',
+        'Jeff Bezos',
+    ],
+    [
+        'Nothing succeeds like success.',
+        'Alexandre Dumas',
+    ],
+    [
+        'Tell me how a person judges his or her self-esteem, and I will tell you how that person operates at work, in love, in sex, in parenting, in every important aspect of existence - and how high he or she is likely to rise. The reputation you have with yourself - your self-esteem - is the single most important factor for a fulfilling life.',
+        'Nathaniel Branden',
+    ],
+    [
+        'I believe that being successful means having a balance of success stories across the many areas of your life. You can\'t truly be considered successful in your business life if your home life is in shambles.',
+        'Zig Ziglar',
+    ],
+    [
+        'Pick a flower on Earth and you move the farthest star.',
+        'Paul Dirac',
+    ],
+    [
+        'When you\'re curious, you find lots of interesting things to do.',
+        'Walt Disney',
+    ],
+    [
+        'This idea that being youthful is the only thing that\'s beautiful or attractive simply isn\'t true. I don\'t want to be an \'ageless beauty.\' I want to be a woman who is the best I can be at my age.',
+        'Sharon Stone',
+    ],
+    [
+        'Anyone who has a continuous smile on his face conceals a toughness that is almost frightening.',
+        'Greta Garbo',
+    ],
+    [
+        'You will also allow me to thank the Academy for inviting me to lecture in Stockholm, for its hospitality, and for the opportunity afforded me for admiring the charm of your people and the beauty of your country.',
+        'Guglielmo Marconi',
+    ],
+    [
+        'I think it\'s important to find the little things in everyday life that make you happy.',
         'Thich Nhat Hanh',
     ],
     [
-        'I hope my desire to travel so much isn\'t forever because it\'s not the most conducive lifestyle for a relationship or a family by any means.',
-        'Lisa Ling',
+        'Our brand of democracy is hard. But I can promise that a year from now, when I no longer hold this office, I\'ll be right there with you as a citizen - inspired by those voices of fairness and vision, of grit and good humor and kindness that have helped America travel so far.',
+        'Barack Obama',
     ],
     [
-        'Steven Gerrard was someone I looked up to massively. I\'d always try to copy him, right down to the boots he was wearing. It was his attitude on the pitch that stood out - you could really see how much he hated losing.',
-        'Dele Alli',
+        'What they have done in Japan, which I find so inspirational, is they\'ve brought the toilet out from behind the locked door. They\'ve made it conversational. People go out and upgrade their toilet. They talk about it. They\'ve sanitized it.',
+        'Rose George',
     ],
     [
-        'Economics is extremely useful as a form of employment for economists.',
-        'John Kenneth Galbraith',
+        'You can be a pretty face, but if you\'re not a nice person, it just doesn\'t work. I\'m not traditionally a beauty, but apparently people think I\'m all right. If you\'re a nice person, it definitely helps.',
+        'Kate Moss',
     ],
     [
-        'We work to become, not to acquire.',
-        'Elbert Hubbard',
+        'Success didn\'t spoil me, I\'ve always been insufferable.',
+        'Fran Lebowitz',
     ],
     [
-        'A tree is an incomprehensible mystery.',
-        'Jim Woodring',
+        'Life teaches you that you need to make decisions in the right time - not too early, not too late.',
+        'Jeb Bush',
     ],
     [
-        'Don\'t leave a stone unturned. It\'s always something, to know you have done the most you could.',
-        'Charles Dickens',
+        'I had an attitude problem when I was a kid. I\'m not gonna lie.',
+        'Tionne Watkins',
     ],
     [
-        'If you don\'t go after what you want, you\'ll never have it. If you don\'t ask, the answer is always no. If you don\'t step forward, you\'re always in the same place.',
-        'Nora Roberts',
+        'Courage is resistance to fear, master of fear, not absence of fear',
+        'Mark Twain',
     ],
     [
-        'Life is like riding a bicycle. To keep your balance, you must keep moving.',
-        'Ayn Rand',
+        'I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.',
+        'Leonardo da Vinci',
     ],
     [
-        'I\'m not a Starbucks guy. I\'m a Dunkin Donuts guy, but I like to pay for the coffee of the other folks behind me in line. It typically costs me less than $10, and makes the other people feel good, but more importantly, it makes me feel so good, and random acts of kindness change the world one person at a time.',
-        'Robert Kraft',
+        'I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.',
+        'Albert Einstein',
     ],
     [
-        'I have a lot of funny friends, though not everyone\'s funny all the time. Doon Mackichan\'s my funniest friend in the pub; Nina Conti\'s the funniest with a monkey.',
-        'Sally Phillips',
+        'When someone shows you who they are, believe them the first time.',
+        'Maya Angelou',
     ],
     [
-        'I\'ve learned in my life that it\'s important to be able to step outside your comfort zone and be challenged with something you\'re not familiar or accustomed to. That challenge will allow you to see what you can do.',
-        'Henry James',
+        'In just six weeks from the time the design was started, we had the motor on the block testing its power.',
+        'Orville Wright',
     ],
     [
-        'Make the most of yourself for that is all there is of you.',
-        'Ralph Emerson',
+        'Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.',
+        'Margaret Runbeck',
     ],
     [
-        'While we cannot predict the future, we will most surely live it. Every action and decision we take - or don\'t - ripples into the future. For the first time, we have the capability, the technology, and the knowledge to direct those ripples.',
-        'Jacque Fresco',
+        'The most used program in computers and education is PowerPoint. What are you learning about the nature of the medium by knowing how do to a great PowerPoint presentation? Nothing. It certainly doesn\'t teach you how to think critically about living in a culture of simulation.',
+        'Sherry Turkle',
     ],
     [
-        'Whatever we expect with confidence becomes our own self-fulfilling prophecy.',
-        'Brian Tracy',
-    ],
-    [
-        'Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.',
-        'Lord Byron',
-    ],
-    [
-        'That best portion of a man\'s life, his little, nameless, unremembered acts of kindness and love.',
-        'William Wordsworth',
-    ],
-    [
-        'My mother is very funny. She is from a village; she has a typical village kind of humour. Often she says a lot of things she herself isn\'t aware is a punch line.',
-        'Kapil Sharma',
-    ],
-    [
-        'If your work requires you to travel, you will understand that there\'s no vacation destination like home.',
-        'Park Chan-wook',
-    ],
-    [
-        'It\'s true that a smile can take years off a person - not that such a thing matters in Yoko Ono\'s case.',
-        'Elvis Mitchell',
-    ],
-    [
-        'The victor belongs to the spoils.',
-        'F. Scott Fitzgerald',
-    ],
-    [
-        'Our judgments judge us, and nothing reveals us, exposes our weaknesses, more ingeniously than the attitude of pronouncing upon our fellows.',
-        'Paul Valery',
-    ],
-    [
-        'I have a deep tribal sense. I grew up in a synagogue that my ancestors built. I sat in the third row. My family was decent. They were good people; they were handshake people. So I never had a sense of rebellion.',
-        'Leonard Cohen',
-    ],
-    [
-        'Living with anyone for many years takes skill. To keep peace in the household, couples learn to adapt to one another, hopefully in positive ways.',
-        'Diane Ackerman',
+        'The best books... are those that tell you what you know already.',
+        'George Orwell',
     ],
 ];

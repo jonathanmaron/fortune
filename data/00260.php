@@ -2,103 +2,103 @@
 
 return [
     [
-        'There are two ways of spreading light: to be the candle or the mirror that reflects it.',
-        'Edith Wharton',
+        'When someone does something good, applaud! You will make two people happy.',
+        'Samuel Goldwyn',
     ],
     [
-        'Study the past, if you would divine the future.',
-        'Confucius',
+        'I have beauty, intelligence, individuality, sensuality and sexuality.',
+        'Shannon Tweed',
     ],
     [
-        'I love being a woman. I love the sexiness we get to exude. But the best thing about being a woman is the power we have over men.',
-        'Eva Longoria',
+        'Older people shouldn\'t eat health food, they need all the preservatives they can get.',
+        'Robert Orben',
     ],
     [
-        'My writing is a combination of three elements. The first is travel: not travel like a tourist, but travel as exploration. The second is reading literature on the subject. The third is reflection.',
-        'Ryszard Kapuscinski',
+        'I like to write sad songs. They\'re much easier to write and you get a lot more emotion into them. But people don\'t want to hear them as much. And radio definitely doesn\'t; they want that positive, uptempo thing.',
+        'Alan Jackson',
     ],
     [
-        'My favourite animal is the koala, but his life would be boring. I would rather be a giraffe so that I could contemplate the beauty of Africa.',
-        'Caterina Murino',
+        'No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.',
+        'Alan Watts',
     ],
     [
-        'A chain is no stronger than its weakest link, and life is after all a chain.',
+        'I love spending time with my dog, my niece and my family. I\'m very family-oriented.',
+        'Lil\' Kim',
+    ],
+    [
+        'The Internet has transformed many parts of our daily lives, touching everything from how we find information to how we go shopping, get directions, and even stay in touch with friends and family.',
+        'Dean Ornish',
+    ],
+    [
+        'What the caterpillar calls the end of the world, the master calls a butterfly.',
+        'Richard Bach',
+    ],
+    [
+        'The most satisfying thing in life is to have been able to give a large part of one\'s self to others.',
+        'Charlie Chaplin',
+    ],
+    [
+        'Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.',
+        'Oprah Winfrey',
+    ],
+    [
+        'No man goes before his time - unless the boss leaves early.',
         'Groucho Marx',
     ],
     [
-        'We can bring positive energy into our daily lives by smiling more, talking to strangers in line, replacing handshakes with hugs, and calling our friends just to tell them we love them.',
-        'Brandon Jenner',
+        'If you want to do really important things in life and big things in life, you can\'t do anything by yourself. And your best teams are your friends and your siblings.',
+        'Deepak Chopra',
     ],
     [
-        'The worst thing about being the laureate has been the attitude of a tiny minority of adults who haven\'t liked some of the things I\'m supposed to have said and who have used it as an opportunity to be verbally abusive and nasty, but I haven\'t let it rule my world!',
-        'Malorie Blackman',
+        'It is best for the wise man not to seem wise.',
+        'Aeschylus',
     ],
     [
-        'You wanna know what scares people? Success. When you don\'t make moves and when you don\'t climb up the ladder, everybody loves you because you\'re not competition.',
-        'Nicki Minaj',
+        'I want to be in the big show, and to be in the big show, you have to practice. I have this attitude now that I\'m going to take all the greatness I can. Nothing\'s going to stop me.',
+        'Steven Adler',
     ],
     [
-        'I am grateful every morning I wake up. I\'ve a big family full of kids, who laugh all the time and love each other.',
-        'Kris Kristofferson',
+        'The secret to modern life is finding the measure in time management. I have two kids, career and I travel, and I don\'t think my life is any different than most couples. The most valuable commodity now for many people is time and how to parcel that out.',
+        'Hugh Jackman',
     ],
     [
-        'If you\'re walking down the right path and you\'re willing to keep walking, eventually you\'ll make progress.',
-        'Barack Obama',
+        'Success comes from knowing that you did your best to become the best that you are capable of becoming.',
+        'John Wooden',
     ],
     [
-        'Just as a candle cannot burn without fire, men cannot live without a spiritual life.',
-        'Jim Rohn',
+        'We become what we think about most of the time, and that\'s the strangest secret.',
+        'Earl Nightingale',
     ],
     [
-        'The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.',
-        'Robert Kiyosaki',
+        'You\'re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.',
+        'Richard P. Feynman',
     ],
     [
-        'The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life, and the promise of future accomplishments.',
-        'Gustave Flaubert',
+        'The idea of making access to safe abortions harder and more expensive and more difficult, having to travel across state lines - that puts women\'s health and lives in jeopardy, which is something I think no one wants.',
+        'Cynthia Nixon',
     ],
     [
-        'The landscape painter must walk in the fields with a humble mind. No arrogant man was ever permitted to see Nature in all her beauty.',
-        'John Constable',
+        'Film is a much lonelier process than theatre. You really don\'t have any rehearsal time in film. You don\'t shape it together... with theatre, there is a complete kind of family atmosphere. The sociable side of this business is the theatrical side, it really isn\'t the film side.',
+        'Keira Knightley',
     ],
     [
-        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
-        'Summer Sanders',
+        'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
+        'John Wayne',
     ],
     [
-        'I can\'t wait for summer in the city! I love all the free activities in the parks that become available to us New Yorkers. Yoga and movie screenings in Bryant Park, concerts in Central Park - there\'s so much more available to the New York community in the summer! And everyone just seems to smile more.',
-        'Kara Lindsay',
+        'What would air travel look like if airplanes were thrown out after each flight? No one would be flying in airplanes.',
+        'Gwynne Shotwell',
     ],
     [
-        'Helping people boost themselves out of poverty is the best way to make a lasting positive difference in a person\'s life.',
-        'Naveen Jain',
+        'It\'s sad that the BBC is toning down Dennis the Menace for a cartoon series. He is losing his weapons, catapult and peashooter, will no longer pick on Walter the Softy, and his ferocious grimace is to be replaced by a charming, boyish smile.',
+        'Simon Hoggart',
     ],
     [
-        'There\'s something about the Pacific Northwest, the scale of it, and the fact that not so long ago people came here and died getting here, and then died the first winter they were here. There\'s this breathtaking beauty, just a little bit of moss on the tree, just this little thread of danger, and the sinister. And I really like that.',
-        'Chelsea Cain',
+        'In order to win, you must expect to win.',
+        'Richard Bach',
     ],
     [
-        'Life is bigger than cinema. Cinema is just a part of life, so I never take success or failure seriously.',
-        'Pawan Kalyan',
-    ],
-    [
-        'I tend to look out for things with a resonance to my youth - artists or objects that seemed romantic all those years ago. I never buy anything purely for its value. I like possessions that smile back at me.',
-        'Nicholas Haslam',
-    ],
-    [
-        'The artist is not responsible to any one. His social role is asocial... his only responsibility consists in an attitude to the work he does.',
-        'Georg Baselitz',
-    ],
-    [
-        'What I like best is a book that\'s at least funny once in a while. What really knocks me out is a book that, when you\'re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn\'t happen much, though.',
-        'J. D. Salinger',
-    ],
-    [
-        'I think I\'ve always had a certain amount of skepticism of this whole \'shut up and smile\' theory. I haven\'t ever swallowed that pill so easily, although I tried.',
-        'Amber Heard',
-    ],
-    [
-        'Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.',
-        'Amiel',
+        'Life is too short to work so hard.',
+        'Edward Snowden',
     ],
 ];

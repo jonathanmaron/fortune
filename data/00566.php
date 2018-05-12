@@ -2,103 +2,103 @@
 
 return [
     [
-        'Feeling is the consciousness of the resulting conditions - of success, failure, equilibrium, compromise or balance, in this continuous rivalry of ideas.',
-        'James Mark Baldwin',
+        'The care of human life and happiness, and not their destruction, is the first and only object of good government.',
+        'Robert Henri',
     ],
     [
-        'I can hold a cup of sake on a full moon in Japan, and the reflection of the moon in that little cup can make me feel so enthusiastic about beauty. That one good, magical moment can give me enough to create other things like the teardrop earring or necklace.',
-        'Elsa Peretti',
+        'You can\'t cross the sea merely by standing and staring at the water.',
+        'Rabindranath Tagore',
     ],
     [
-        'We just want to win. That\'s the bottom line. I think a lot of times people may become content with one championship or a little bit of success, but we don\'t really reflect on what we\'ve done in the past. We focus on the present.',
-        'Derek Jeter',
+        'Perspective is everything when you are experiencing the challenges of life.',
+        'Katrina Kaif',
     ],
     [
-        'You have to be confident in who you are and what you\'re doing. Of course, you try to evolve. I would never tell you, \'Today is the best I will ever be.\' I\'m always trying to be a better chef, a better dad, a better person.',
-        'Guy Fieri',
+        'Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.',
+        'Byron Pulsifer',
     ],
     [
-        'I\'m very happy with my life and career, but I do find myself having serious attacks of nostalgia, and I don\'t quite know why. Even though I\'ve got to travel the world and do amazing things, I still want to go back to my teenage years and change little aspects of it. It\'s strange, but it does continue to bug me.',
-        'Edgar Wright',
+        'The reason most of the children are having problems in any inner-city neighborhood is because they don\'t see enough positive role models in their own environment.',
+        'Marla Gibbs',
     ],
     [
-        'Success is not the absence of failure; it\'s the persistence through failure.',
-        'Aisha Tyler',
+        'In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand. Nobody on earth can give you either the key or the door to open, except yourself.',
+        'Jiddu Krishnamurti',
     ],
     [
-        'Unfortunately, I\'m more experienced than I care to admit on long-distance relationships. Just because that is my life. I travel because I love to. As a result, I have to sort of make it work when a relationship kind of comes into view.',
-        'Hunter Hayes',
+        'I didn\'t allow failure to break my heart. So I wouldn\'t allow success to bloat my head.',
+        'Randeep Hooda',
     ],
     [
-        'If you have a chance to accomplish something that will make things better for people coming behind you, and you don\'t do that, you are wasting your time on this earth.',
-        'Roberto Clemente',
+        'I like the map feature on the iPhone that tells me where I am, because I travel a lot.',
+        'Gary Shteyngart',
     ],
     [
-        'Grow old with me! The best is yet to be.',
-        'Robert Browning',
+        'I think there\'s a danger in how we can get addicted to the things that reaffirm to us who we are. For example, Facebook; people who make these Facebook posts about what\'s happening to them, just so people will chime in and give them positive reinforcement.',
+        'Carrie Coon',
     ],
     [
-        'If we live good lives, the times are also good. As we are, such are the times.',
+        'The productivity of a work group seems to depend on how the group members see their own goals in relation to the goals of the organization.',
+        'Ken Blanchard',
+    ],
+    [
+        'When I was in high school I used to sit by myself in the cafeteria - not necessarily by choice - but I thought it was funny to talk to people that weren\'t there.',
+        'Zach Galifianakis',
+    ],
+    [
+        'While I relish our warm months, winter forms our character and brings out our best.',
+        'Tom Allen',
+    ],
+    [
+        'It is not the years in your life but the life in your years that counts.',
         'Malala Yousafzai',
     ],
     [
-        'I am a passionate traveler, and from the time I was a child, travel formed me as much as my formal education. In order to appreciate cultures of another nation, one needs to go there, know the people and mingle with the culture of that country. One way to do that, if one is lucky enough, is to buy things from those cultures.',
-        'David Rockefeller',
+        'Developing a good work ethic is key. Apply yourself at whatever you do, whether you\'re a janitor or taking your first summer job, because that work ethic will be reflected in everything you do in life.',
+        'Tyler Perry',
     ],
     [
-        'Los Angeles is a true postmodern city. Here, we celebrate with equal aplomb the high and the low. I am just as influenced by the punk rock attitude of local skate and surf cultures as I am by old-school glamour and stardust.',
-        'Liz Goldwyn',
+        'Most of us have far more courage than we ever dreamed we possessed.',
+        'Dale Carnegie',
     ],
     [
-        'The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.',
-        'Jim Bishop',
+        'Racing is the only time I feel whole.',
+        'James Dean',
     ],
     [
-        'Success is where preparation and opportunity meet.',
-        'Bobby Unser',
+        'Through loyalty to the past, our mind refuses to realize that tomorrow\'s joy is possible only if today\'s makes way for it; that each wave owes the beauty of its line only to the withdrawal of the preceding one.',
+        'Andre Gide',
     ],
     [
-        'A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby\'s temperature. Plus, it really teaches the baby who\'s boss.',
-        'Tina Fey',
+        'Familiarity is a magician that is cruel to beauty but kind to ugliness.',
+        'Ouida',
     ],
     [
-        'What makes a river so restful to people is that it doesn\'t have any doubt - it is sure to get where it is going, and it doesn\'t want to go anywhere else.',
-        'Hal Boyle',
+        'I don\'t work at being ordinary.',
+        'Paul McCartney',
     ],
     [
-        'There are lots of people who mistake their imagination for their memory.',
-        'Josh Billings',
+        'The beautiful part of writing is that you don\'t have to get it right the first time, unlike, say, a brain surgeon. You can always do it better, find the exact word, the apt phrase, the leaping simile.',
+        'Robert Cormier',
     ],
     [
-        'My own personal popularity can have no influence over me when the dictates of my best judgment and the obligations of an oath require of me a particular course. Under such circumstances, whether I sink or swim on the tide of popular favor is, to me, a matter of inferior consideration.',
-        'John Tyler',
+        'In the long run we get no more than we have been willing to risk giving.',
+        'Sheldon Kopp',
     ],
     [
-        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything he\'s got.',
-        'Walter Cronkite',
+        'Don\'t focus on making the right decision, focus on making the decision the right one.',
+        'Unknown',
     ],
     [
-        'People commonly travel the world over to see rivers and mountains, new stars, garish birds, freak fish, grotesque breeds of human; they fall into an animal stupor that gapes at existence and they think they have seen something.',
-        'Soren Kierkegaard',
+        'You see much more of your children once they leave home.',
+        'Lucille Ball',
     ],
     [
-        'It is not the body\'s posture, but the heart\'s attitude that counts when we pray.',
-        'Billy Graham',
+        'History is a cyclic poem written by time upon the memories of man.',
+        'Percy Bysshe Shelley',
     ],
     [
-        'I love my family, even as I critique their dysfunctionalities.',
-        'bell hooks',
-    ],
-    [
-        'Finding some quiet time in your life, I think, is hugely important.',
-        'Mariel Hemingway',
-    ],
-    [
-        'Such discussions help us very little to enjoy what has been well done in art or poetry, to discriminate between what is more and what is less excellent in them, or to use words like beauty, excellence, art, poetry, with a more precise meaning than they would otherwise have.',
-        'Walter Pater',
-    ],
-    [
-        'My objective is to be among the best.',
-        'Antoine Griezmann',
+        'I\'ve been dealing with the press for 45 years. You need a very long spoon to sup with them. While you are always grateful, they are like badly trained dogs. They smile and wag and bite your arm off.',
+        'Joanna Lumley',
     ],
 ];

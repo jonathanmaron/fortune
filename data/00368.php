@@ -2,103 +2,103 @@
 
 return [
     [
-        'The best way to persuade people is with your ears - by listening to them.',
-        'Dean Rusk',
-    ],
-    [
-        'Part of what made the Macintosh great was that the people working on it were musicians, poets, and artists, and zoologists, and historians. They also happened to be the best computer scientists in the world. But if it hadn\'t been computer science, these people would have been doing amazing things in other fields.',
-        'Steve Jobs',
-    ],
-    [
-        'Success is falling nine times and getting up ten.',
-        'Jon Bon Jovi',
-    ],
-    [
-        'My everyday beauty routine is always rushed and pretty simple.',
-        'Cate Blanchett',
-    ],
-    [
-        'In junior high school, I was an object of pure ridicule for my dress, withdrawal, and asocial manner. Dozens of times, I saw individuals laugh and smile more in ten to fifteen minutes than I did in all my life up to then.',
-        'Arthur Bremer',
-    ],
-    [
-        'Just like gold, which has to weather very high temperatures to achieve the sheen and shine it finally gets, so also every person has to go through struggles in his life to achieve success.',
-        'Kailash Kher',
-    ],
-    [
-        'That\'s what I love from metal, and that\'s what I love from hip-hop. That\'s what I love from any music that\'s hard, that\'s got an edge to it-The attitude in it.',
-        'Kid Rock',
-    ],
-    [
-        'Who looks outside, dreams; who looks inside, awakes.',
-        'Carl Jung',
-    ],
-    [
-        'I think every role you get is going to be a powerful one. As long as you go in with the mindset of, \'Yeah, I\'m going to make the most of this.\' So that\'s the kind of attitude I take into each role that I play.',
-        'Anna Hutchison',
-    ],
-    [
-        'My ideal prom date would have to be cute, funny, sweet, nice.',
-        'Kendall Jenner',
-    ],
-    [
-        'A funny thing happens in real estate. When it comes back, it comes back up like gangbusters.',
-        'Barbara Corcoran',
-    ],
-    [
-        'A government that robs Peter to pay Paul can always depend on the support of Paul.',
+        'Into each life some rain must fall.',
         'George Bernard Shaw',
     ],
     [
-        'We must use time as a tool, not as a couch.',
-        'John F. Kennedy',
+        'The one thing we know about the future is that it comes only one day at a time.',
+        'Jeff Rich',
     ],
     [
-        'The Senator from Massachusetts has given us ample grounds to doubt the judgment and the attitude he brings to bear on vital issues of national security.',
-        'Dick Cheney',
+        'I have looked into your eyes with my eyes. I have put my heart near your heart.',
+        'Pope John XXIII',
     ],
     [
-        'When you smile, you don\'t only appear to be more likable and courteous, you appear to be more competent.',
-        'Ron Gutman',
+        'There\'s so many things that life is, and no matter how many breakthroughs, trials will exist and we\'re going to get through it. Just be strong.',
+        'bell hooks',
     ],
     [
-        'Now, therefore, the Directors of the company are hereby ordered to see that precautions are taken to make travel on said railroad perfectly safe by using a screw with at least twenty-four inches diameter.',
-        'Joshua A. Norton',
+        'Be prepared, work hard, and hope for a little luck. Recognize that the harder you work and the better prepared you are, the more luck you might have.',
+        'Ed Bradley',
     ],
     [
-        'Spend some time this weekend on home improvement; improve your attitude toward your family.',
-        'Bo Bennett',
+        'I do love to eavesdrop. It\'s inspirational, not only for subject matter but for actual dialogue, the way people talk.',
+        'Lynda Barry',
     ],
     [
-        'These things bring you to reality as to how fragile you are; at the same moment you are doing something that nobody else is able to do. The same moment that you are seen as the best, the fastest and somebody that cannot be touched, you are enormously fragile.',
-        'Ayrton Senna',
+        'The best reason why Monarchy is a strong government is, that it is an intelligible government. The mass of mankind understand it, and they hardly anywhere in the world understand any other.',
+        'Walter Bagehot',
     ],
     [
-        'Just remember, you can\'t climb the ladder of success with your hands in your pockets.',
-        'Arnold Schwarzenegger',
+        'Nearly all inventions are not recognised for their positive side either when they\'re made. So, for example, scientists didn\'t go out to design a CD machine: they designed a laser. But we got all sorts of things from a laser which we never remotely imagined, and we\'re still finding things for a laser to do.',
+        'Robert Winston',
     ],
     [
-        'The best career advice I\'ve gotten is to stay focused, keep moving forward.',
-        'Tyga',
+        'I watched some serious \'80s television. \'Alice,\' \'Good Times,\' \'The Jeffersons,\' \'Family Ties,\' \'Cheers\'... every night it was eat dinner, watch \'Cheers.\' I was actually on \'Jeopardy\' with Rebecca Lobo and Dot Richardson, and we were laughing because I was just nailing every random \'80s trivia question - sitcom, theme music, movie, you name it.',
+        'Summer Sanders',
     ],
     [
-        'Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all.',
-        'George Washington',
+        'Work hard, stay positive, and get up early. It\'s the best part of the day.',
+        'George Allen, Sr.',
     ],
     [
-        'There\'s a great power in words, if you don\'t hitch too many of them together.',
-        'Josh Billings',
+        'Being funny wasn\'t a career choice growing up, it was my way out of situations; a way to survive another day.',
+        'Tracy Morgan',
     ],
     [
-        'The art of living is more like wrestling than dancing.',
-        'Neil deGrasse Tyson',
+        'The personal life deeply lived always expands into truths beyond itself.',
+        'Isaac Watts',
     ],
     [
-        'Once you choose hope, anythings possible.',
-        'Christopher Reeve',
+        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
+        'Elmer Bernstein',
     ],
     [
-        'Do, or do not. There is no try.',
-        'Yoda',
+        'I have been very blessed in my life and rewarded with good friends and good health. I am grateful and happy to be able to share this.',
+        'Unknown',
+    ],
+    [
+        'I\'ve never been in any country for more than four years, and I\'m learning different languages all the time. It gives you a different attitude.',
+        'Santiago Cabrera',
+    ],
+    [
+        'I was kicked out of school because of my attitude. I was not assimilating. So I went to work, taking any jobs I could get.',
+        'Richard Pryor',
+    ],
+    [
+        'Many of our deepest motives come, not from an adult logic of how things work in the world, but out of something that is frozen from childhood.',
+        'Kazuo Ishiguro',
+    ],
+    [
+        'Even when disco went out, I could still make hits. Once I had so much success, every idea became concentrated. I had so much confidence. I knew how the bass should sound, what rhythms would work. The tempos I knew: 110 to 120 BPM. I knew they would dance in the clubs in New York or anywhere.',
+        'Giorgio Moroder',
+    ],
+    [
+        'Travelers never think that they are the foreigners.',
+        'Mason Cooley',
+    ],
+    [
+        'If a girl is smiling and is bringing positive energy and she\'s happy, that\'s what I notice right away - and her teeth.',
+        'Chandler Parsons',
+    ],
+    [
+        'Today, I think the attitude is that governing is not necessarily good politics, and the result is that it\'s much more partisan and much more divided.',
+        'Leon Panetta',
+    ],
+    [
+        'It\'s often been said that you learn more from losing than you do from winning. I think, if you\'re wise, you learn from both. You learn a lot from a loss. You learn what is it that we\'re not doing to get to where we want to go. It really gets your attention and it really motivates the work ethic of your team when you\'re not doing well.',
+        'Morgan Wootten',
+    ],
+    [
+        'Racism is a much more clandestine, much more hidden kind of phenomenon, but at the same time it\'s perhaps far more terrible than it\'s ever been.',
+        'Angela Davis',
+    ],
+    [
+        'I\'m lucky in that I have close friends and family and my agent to advise me.',
+        'Imogen Poots',
+    ],
+    [
+        'But the funny thing is, I broke my finger not on set doing kung fu. I broke my finger when I fell down the stairs prior to going on set.',
+        'Jaime King',
     ],
 ];

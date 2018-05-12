@@ -2,103 +2,103 @@
 
 return [
     [
-        'Yesterday we obeyed kings and bent our necks before emperors. But today we kneel only to truth, follow only beauty, and obey only love.',
-        'Khalil Gibran',
+        'Time and health are two precious assets that we don\'t recognize and appreciate until they have been depleted.',
+        'Denis Waitley',
     ],
     [
-        'I travel often, so my routine is always getting scrambled. But on a standard sort of day, I get up at 6, pack lunches, hustle the kids off to school, then brew a pot of coffee and head downstairs to the dungeon, as I call it: my cobwebby office in the basement.',
-        'Benjamin Percy',
-    ],
-    [
-        'Somebody said to me, \'Whenever somebody says your name, a smile comes to their face.\' That\'s a great accolade. I strive to keep it that way.',
-        'Clarence Clemons',
-    ],
-    [
-        'Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.',
-        'Stephen Sigmund',
-    ],
-    [
-        'I\'ve been very lucky to work on a wide variety of projects, including two long-run and top-10 dramatic television shows. That is why it is so important to offer a helping hand to the next generation of young Latinos coming up behind me.',
-        'Jimmy Smits',
-    ],
-    [
-        'My eyes are different sizes, my nose is too broad at the bridge and squishes up when I laugh, and my lips are sorta funny when I smile.',
-        'Terry Farrell',
-    ],
-    [
-        'At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
-        'Barbara Bush',
-    ],
-    [
-        'It\'s always difficult to say goodbye, especially when one has spent a long time - literally years, in the case of a series - inside a character or two, suffering and celebrating with them.',
-        'Lilith Saintcrow',
-    ],
-    [
-        'The Patriot Act is essential to our continued success in the war on terror here at home.',
-        'Mike Pence',
-    ],
-    [
-        'Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.',
-        'Oscar Wilde',
-    ],
-    [
-        'Its funny, because for females in general - not just in music, but the corporate ladder as well - anything we do has always been harder for us. When it comes to music, the industry wants you to conform, to look like this and to sound like this and do this or that. It makes it harder. It\'s harder for us to come out and be bosses and lead the pack.',
-        'Missy Elliott',
-    ],
-    [
-        'No matter how you travel, it\'s still you going.',
-        'Jeff Goldblum',
-    ],
-    [
-        'Rare is the union of beauty and purity.',
-        'Juvenal',
-    ],
-    [
-        'I really believe you can predict when someone has a great attitude, a real well of talent.',
-        'Taylor Hackford',
-    ],
-    [
-        'A beautiful body perishes, but a work of art dies not.',
-        'Leonardo da Vinci',
-    ],
-    [
-        'All my life, I always wanted to be somebody. Now I see that I should have been more specific.',
-        'Jane Wagner',
-    ],
-    [
-        'The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do.',
-        'Galileo Galilei',
-    ],
-    [
-        'When I am wrong, I will learn the lesson and move on to face other challenges. For me, that\'s what creating your own life is. Doing your best work while being your best self.',
-        'Jennifer Lopez',
-    ],
-    [
-        'We need to have complete certainty that things will work out, not because we are righteous or wise, but because of the time, the effort, the prayers, and the tools we are using. From the moment we are given awareness about some bigger picture or mission, we have to have complete focus on what to do to get to that place.',
-        'Yehuda Berg',
-    ],
-    [
-        'So I wanted to sing inspirational music, and that\'s exactly how I approached it - only the words have been changed to declare my relationship with God.',
-        'Smokey Robinson',
-    ],
-    [
-        'No masterpiece was ever created by a lazy artist.',
+        'Don\'t let today\'s disappointments cast a shadow on tomorrow\'s dreams.',
         'Unknown',
     ],
     [
-        'The problem with beauty is that it\'s like being born rich and getting poorer.',
-        'Joan Collins',
+        'Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.',
+        'Byron Pulsifer',
     ],
     [
-        'My attitude is that if anybody of any age wants to read a book, let them, but I do think that no child would want to read \'Boneland.\'',
-        'Alan Garner',
+        'Good health and good sense are two of life\'s greatest blessings.',
+        'Ken Venturi',
     ],
     [
-        'For disappearing acts, it\'s hard to beat what happens to the eight hours supposedly left after eight of sleep and eight of work.',
-        'Doug Larson',
+        'Joy in looking and comprehending is nature\'s most beautiful gift.',
+        'Albert Einstein',
     ],
     [
-        'I think Dr. King, if he were alive today, he wouldn\'t disrespect the flag or the anthem; he would use his words and his voice to send a message for positive change.',
-        'Kimberly Guilfoyle',
+        'Syria should not belong to one family, to one coterie, or to one party. It belongs to all the people of Syria equally, in all their religious and ethnic diversity.',
+        'William Hague',
+    ],
+    [
+        'Do your little bit of good where you are; it\'s those little bits of good put together that overwhelm the world.',
+        'Desmond Tutu',
+    ],
+    [
+        'Nature does nothing in vain.',
+        'Aristotle',
+    ],
+    [
+        'In a fit at the bookstore one day, I bought all my favourite composers\' biographies: Schubert, Massenet, Wolf. I\'ve still not had a chance to read them; it breaks my heart. But when you travel so much, you just can\'t take that many books with you.',
+        'Danielle de Niese',
+    ],
+    [
+        'You can learn what you want to learn through hard work. And a good employer will teach you what you want to learn as long as you show the right attitude and behaviors.',
+        'Gerald Chertavian',
+    ],
+    [
+        'If you have a secret, people will sit a little bit closer.',
+        'Rob Corddry',
+    ],
+    [
+        'All things are perceived in the light of charity, and hence under the aspect of beauty; for beauty is simply reality seen with the eyes of love.',
+        'Evelyn Underhill',
+    ],
+    [
+        'For the Trump brand name, when we build, we want only the best buildings in the world. We travel a lot to see real estate projects worldwide, and we always study what can be done better. There\'s no question about it: a Trump Tower has to have the very best quality, amenities and facilities. People want that ultra-luxurious lifestyle.',
+        'Eric Trump',
+    ],
+    [
+        'Sensual love deceives one as to the nature of heavenly love; it could not do so alone, but since it unconsciously has the element of heavenly love within it, it can do so.',
+        'Franz Kafka',
+    ],
+    [
+        'Beauty is a short-lived tyranny.',
+        'Socrates',
+    ],
+    [
+        'It isn\'t what happens to us that causes us to suffer; it\'s what we say to ourselves about what happens.',
+        'Pema Chodron',
+    ],
+    [
+        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
+        'James D. Watson',
+    ],
+    [
+        'Those who are blessed with the most talent don\'t necessarily outperform everyone else. It\'s the people with follow-through who excel.',
+        'Mary Kay Ash',
+    ],
+    [
+        'The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.',
+        'Havelock Ellis',
+    ],
+    [
+        'Wherever you are, be there totally. If you find your here and now intolerable and it makes you unhappy, you have three options: remove yourself from the situation, change it, or accept it totally. If you want to take responsibility for your life, you must choose one of those three options, and you must choose now. Then accept the consequences.',
+        'Jawaharlal Nehru',
+    ],
+    [
+        'I think we\'re all good and bad, but good\'s not funny. Bad is funny. Suppress the good and let the bad out, and then you can be funny.',
+        'Larry David',
+    ],
+    [
+        'India offers exciting business opportunities owing to the growth in corporate travel and a significant middle-class population waiting to explore the world. To begin with, Travelex is setting up eight city centre branches in metros and other major cities including tourist destinations.',
+        'Lloyd Dorfman',
+    ],
+    [
+        'To travel hopefully is better than to arrive.',
+        'James Jeans',
+    ],
+    [
+        'My friends and family are my support system. They tell me what I need to hear, not what I want to hear and they are there for me in the good and bad times. Without them I have no idea where I would be and I know that their love for me is what\'s keeping my head above the water.',
+        'Kelly Clarkson',
+    ],
+    [
+        'Looking good is the best revenge.',
+        'Ivana Trump',
     ],
 ];

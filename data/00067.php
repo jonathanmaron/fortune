@@ -2,103 +2,103 @@
 
 return [
     [
-        'The things we know best are the things we haven\'t been taught.',
-        'Luc de Clapiers',
+        'All life is an experiment. The more experiments you make the better.',
+        'Eleanor Roosevelt',
     ],
     [
-        'I think people in Botswana are pleased that my books paint a positive picture of their lives and portray the country as being very special. They\'ve made a great success of their country, and the people are fed up with the constant reporting of only the problems and poverty of the continent. They welcome something which puts the positive side.',
-        'Alexander McCall Smith',
+        'As a New Yorker, this is what you do: you confront, jab, and slap, sometimes wrongly, then smile and forget about it.',
+        'Greg Gutfeld',
     ],
     [
-        'I am against nature. I don\'t dig nature at all. I think nature is very unnatural. I think the truly natural things are dreams, which nature can\'t touch with decay.',
-        'Bob Dylan',
+        'When you come up with a theory, you fall in love with the beauty the simplicity and elegance of it. But then you have to get a sheet of paper and pencil and crack out all the details. Hundreds and hundreds of pages. Because you have to prove it.',
+        'Michio Kaku',
     ],
     [
-        'You\'re not going to say anything about me that I\'m not going to say about myself. There\'s so many things that I think about myself; if someone really wanted to get at me, they could say this and this and this. So I\'m going to say it before they can. It\'s the best policy for me.',
-        'Eminem',
+        'I think it\'s way harder when you have success, \'cause people tend to not treat you the same or look at you the same because they see the success or the money you make.',
+        'Meek Mill',
     ],
     [
-        'I have lived long enough to satisfy both nature and glory.',
-        'Julius Caesar',
+        'To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.',
+        'Byron Pulsifer',
     ],
     [
-        'I\'m selfish, impatient, and a little insecure. I make mistakes, I\'m out of control, and at times hard to handle. But if you can\'t handle me at my worst, then you sure as hell don\'t deserve me at my best.',
-        'Marilyn Monroe',
+        'I like to wear dresses and skirts when I go onstage because the attitude that I have is, \'I\'m so excited to introduce myself to you.\' And I want to be wearing what I\'d be wearing to a date or a dinner party.',
+        'Jenny Slate',
     ],
     [
-        'The sea has neither meaning nor pity.',
-        'Anton Chekhov',
+        'I go, and I do my work, and I try to do the best I can, and I collect my money, and I go home, and then I go on to the next thing. That\'s my attitude.',
+        'Billy Dee Williams',
     ],
     [
-        'Beauty is variable, ugliness is constant.',
-        'Douglas Horton',
+        'Life is about having a good time, and it was a good time. We did some things well and some things poorly, but that was always the case.',
+        'Norman Lear',
     ],
     [
-        'He who has imagination without learning has wings but no feet.',
-        'Joseph Joubert',
+        'The attitude of insolent haughtiness is characteristic of the relationships Americans form with what is alien to them, with others.',
+        'Jose Saramago',
     ],
     [
-        'Before success comes in any man\'s life, he\'s sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That\'s exactly what the majority of men do.',
-        'Napoleon Hill',
+        'Surprise is the greatest gift which life can grant us.',
+        'Alana Stewart',
     ],
     [
-        'I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.',
-        'Buddha',
-    ],
-    [
-        'When I look in the mirror, I see someone who\'s happy with how he looks, because I was never one of the handsome Hollywood people. And I\'ve had success as I\'ve gotten older, because I\'m able to play characters. I no longer get the girl, but I get the part.',
-        'Michael Caine',
-    ],
-    [
-        'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
-        'A.P.J. Abdul Kalam',
-    ],
-    [
-        'I have great respect for the past. If you don\'t know where you\'ve come from, you don\'t know where you\'re going. I have respect for the past, but I\'m a person of the moment. I\'m here, and I do my best to be completely centered at the place I\'m at, then I go forward to the next place.',
+        'Fighting for one\'s freedom, struggling towards being free, is like struggling to be a poet or a good Christian or a good Jew or a good Muslim or good Zen Buddhist. You work all day long and achieve some kind of level of success by nightfall, go to sleep and wake up the next morning with the job still to be done. So you start all over again.',
         'Maya Angelou',
     ],
     [
-        'Faces that have charmed us the most escape us the soonest.',
-        'Walter Scott',
+        'First, I was so dazzled and besotted by India. People said the poverty was biblical, and I\'m afraid that was my attitude, too. It\'s terribly easy to get used to someone else\'s poverty if you\'re living a middle-class life in it. But after a while, I saw it wasn\'t possible to accept it, and I also didn\'t want to.',
+        'Ruth Prawer Jhabvala',
     ],
     [
-        'Written in 1895, Alfred Nobel\'s will endowed prizes for scientific research in chemistry, physics, and medicine. At that time, these fields were narrowly defined, and researchers were often classically trained in only one discipline. In the late 19th century, knowledge of science was not a requisite for success in other walks of life.',
-        'Peter Agre',
+        'I tell everyone in the world that I have always been the best father I could be and that I was the worst husband. Wooo!',
+        'Ric Flair',
     ],
     [
-        '...but if a thing is humanly possible, consider it to be within your reach.',
-        'Marcus Aurelius',
+        'If you look at the history of technology over a couple hundred years, it\'s all about time compression and making the globe smaller. It\'s had positive effects, all the ones that we know. So we\'re much less likely to have the kind of terrible misunderstandings that led to World War I, for example.',
+        'Eric Schmidt',
     ],
     [
-        'Every success in limiting armaments is a sign that the will to achieve mutual understanding exists, and every such success thus supports the fight for international law and order.',
-        'Ludwig Quidde',
+        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased or obscured by mortal power.',
+        'Alexander Hamilton',
     ],
     [
-        'Life is a mirror and will reflect back to the thinker what he thinks into it.',
-        'Ben Roethlisberger',
+        'I was born into the most remarkable and eccentric family I could possibly have hoped for.',
+        'Maureen O\'Hara',
     ],
     [
-        'Politics - I still think it\'s a bunch of liars and a bunch of self-interest. It\'s not about the people: it\'s about themselves and their rise to power. They are voting on things based on whether they will have the support of the people when they vote next time. They don\'t have the balls to say, \'I believe in this. I don\'t care what happens.\'',
-        'Jay-Z',
+        'I am really, I think, truly an easygoing, positive, fun person.',
+        'Lisa Scottoline',
     ],
     [
-        'The best thing I could say is you do have to be a really good listener. If I go to a family reunion, and there\'s 400 people there, everybody comes up and tells me their stories, right? And I think that when you\'re a good listener, and you can imagine how someone\'s talking, dialogue is your key friend, is it not?',
-        'Susan Straight',
+        'We tend to block off many of our senses when we\'re staring at a screen. Nature time can literally bring us to our senses.',
+        'Richard Louv',
     ],
     [
-        'I feel like I have a new life and I\'m going to take full advantage of it.',
-        'Iain Duncan Smith',
+        'Travel can also be the spirit of adventure somewhat tamed, for those who desire to do something they are a bit afraid of.',
+        'Ella Maillart',
     ],
     [
-        'I grew up in a Chinese family where the parents\' No. 1 priority is the kids\' education.',
-        'Weili Dai',
+        'The ocean is a mighty harmonist.',
+        'William Wordsworth',
     ],
     [
-        'In modern life, we tend to forget family values because of the hectic schedule.',
-        'Mahesh Babu',
+        'You can measure a programmer\'s perspective by noting his attitude on the continuing vitality of FORTRAN.',
+        'Alan Perlis',
     ],
     [
-        'Really I don\'t like human nature unless all candied over with art.',
-        'Virginia Woolf',
+        'Who looks outside, dreams; who looks inside, awakes.',
+        'Carl Jung',
+    ],
+    [
+        'Religious speech is extreme, emotional, and motivational. It is anti-literal, relying on metaphor, allusion, and other rhetorical devices, and it assumes knowledge within a community of believers.',
+        'Amy Waldman',
+    ],
+    [
+        'The battle over genetically modified crops is rife with business interests and political opportunism. When GMOs were first produced in laboratories around the world, they were rightly heralded as a tremendous leap forward in our ability to supplement nature by providing high-nutrient foods.',
+        'Richard J. Roberts',
+    ],
+    [
+        'Each misfortune you encounter will carry in it the seed of tomorrows good luck.',
+        'Og Mandino',
     ],
 ];

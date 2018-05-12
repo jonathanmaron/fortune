@@ -2,103 +2,103 @@
 
 return [
     [
-        'Today, figure out what makes you happy and do more of it. Figure out what doesn\'t and do less of it.',
-        'Mandy Hale',
+        'The happiness of a man in this life does not consist in the absence but in the mastery of his passions.',
+        'Alfred Tennyson',
     ],
     [
-        'Preparation is a mentality... With wrestling being my background, I\'ve always learned to overwork, overwork. Work, work, work, work. It\'s not always the talented that wins, but it\'s the one who puts in the most preparation and thought into things.',
-        'Dominick Cruz',
+        'I\'m a very traditional person. The tattoos are about my grandmother dying and they tell the story about my mother and father, my brothers and my sister, my kids. It\'s pretty much a family tree on my arm with my life in football too.',
+        'Timothy F. Cahill',
     ],
     [
-        'Four things for success: work and pray, think and believe.',
-        'Norman Vincent Peale',
+        'Nothing is art if it does not come from nature.',
+        'Antoni Gaudi',
     ],
     [
-        'How many cares one loses when one decides not to be something but to be someone.',
-        'Coco Chanel',
+        'A smart manager will establish a culture of gratitude. Expand the appreciative attitude to suppliers, vendors, delivery people, and of course, customers.',
+        'Harvey Mackay',
     ],
     [
-        'My imagination completely controls me, and forever feeds the fire that burns with dark red light in my heart by bringing me the best dreams. I\'ve always had a wild imagination, a big heart and a tortured soul so I feel that dark fantasy, love and horror are in my blood.',
-        'Kim Elizabeth',
+        'The stars, that nature hung in heaven, and filled their lamps with everlasting oil, give due light to the misled and lonely traveller.',
+        'John Milton',
     ],
     [
-        'I\'m happiest with my family around me.',
-        'Amy Winehouse',
+        'The key to success is to get out into the store and listen to what the associates have to say.',
+        'Sam Walton',
     ],
     [
-        'You should also appreciate the goodness around you, and surround yourself with positive people.',
-        'Nadia Comaneci',
+        'The best way to predict the future is to create it.',
+        'Peter Drucker',
     ],
     [
-        'I love pizza. I want to marry it, but it would just be to eat her family at the wedding.',
-        'Mike Birbiglia',
-    ],
-    [
-        'I\'m not the athlete I was when I was training for the Olympics in \'92 or when I was working out every single day. I have to live in moderation: I work out three or four days a week, and I smile while I\'m working out - I really do enjoy it. I work out with my girlfriends and make it a social competition.',
-        'Summer Sanders',
-    ],
-    [
-        'The privilege I\'ve had as a curator is not just the discovery of new works... but what I\'ve discovered about myself and what I can offer in the space of an exhibition - to talk about beauty, to talk about power, to talk about ourselves, and to talk and speak to each other.',
-        'Thelma Golden',
-    ],
-    [
-        'The smallest act of kindness is worth more than the grandest intention.',
+        'Experience is simply the name we give our mistakes.',
         'Oscar Wilde',
     ],
     [
-        'I was impressed by Hendrix. His attitude was brilliant. Even the way he walked was amazing.',
-        'Ritchie Blackmore',
+        'If you\'re OK with being clumsy, it\'s funny. But if you are super embarrassed, people are going to laugh at you.',
+        'Leo Howard',
     ],
     [
-        'You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one.',
-        'John Lennon',
+        'From a certain age, I sort of accepted myself for what I was. And although to other people it was like nothing ever goes right, I had a really nice attitude that I\'d inherited from my parents, and especially from my dad.',
+        'Johnny Vegas',
     ],
     [
-        'The art of effective listening is essential to clear communication, and clear communication is necessary to management success.',
-        'James Cash Penney',
+        'Barack Obama, he just sits out. He sits back; he criticizes everybody. He\'s got his professorial attitude, real condescending, as if he\'s got all the answers.',
+        'Steve Scalise',
     ],
     [
-        'Well, you know, a lot of people look at the negative things, the things that they did wrong and - which I do. But I like to stress on the things I did right, because there are certain things that I like to look at from a positive standpoint that are just positive reinforcement.',
-        'Tiger Woods',
+        'If you try to do your best there is no failure.',
+        'Mike Farrell',
     ],
     [
-        'Failure is an opportunity to begin again more intelligently.',
-        'Henry Ford.',
+        'I pray to start my day and finish it in prayer. I\'m just thankful for everything, all the blessings in my life, trying to stay that way. I think that\'s the best way to start your day and finish your day. It keeps everything in perspective.',
+        'Tim Tebow',
     ],
     [
-        'All travel has its advantages. If the passenger visits better countries, he may learn to improve his own. And if fortune carries him to worse, he may learn to enjoy it.',
-        'Samuel Johnson',
+        'Having achieved my own dreams, I want to give to kids who are less fortunate, who struggle with everyday obstacles. I want to give them something positive in their lives: support.',
+        'Kristi Yamaguchi',
     ],
     [
-        'Prayer is man\'s greatest power!',
-        'W. Clement Stone',
+        'I don\'t have to look up my family tree, because I know that I\'m the sap.',
+        'Fred Allen',
     ],
     [
-        'Who controls the past controls the future. Who controls the present controls the past.',
-        'George Orwell',
+        'All the great artists had their dark sides. Look at Amy Winehouse or anyone who has achieved a certain level of success. Even Adele, and the people that you wouldn\'t put in the same category as a gangster rapper. These women have exposed their vulnerabilities, demons, and things that have hurt them.',
+        'Kat Graham',
     ],
     [
-        'No person is your friend who demands your silence, or denies your right to grow.',
-        'Alice Walker',
+        'Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.',
+        'Dhammapada',
     ],
     [
-        'I think maths is the root of everything. If we understood every area of math, it would lead to improving our sense of science, physics, engineering, space travel... all those great things. Maths is a backbone for it.',
-        'Matt Haig',
+        'Believe you can and you\'re halfway there.',
+        'Theodore Roosevelt',
     ],
     [
-        'A wise traveler never despises his own country.',
-        'William Hazlitt',
+        'You see, with me, when I\'m nervous, I smile and laugh.',
+        'Paula Radcliffe',
     ],
     [
-        'I was fortunate to play for Pete Rose and have teammates like Ken Griffey Sr., Tony Perez and Dave Concepcion. I grew up in the game with a mature attitude. I\'ve always known it was better to be seen and not heard.',
-        'Eric Davis',
+        'Women of worth are those who want positive change for themselves, their families, community or society, which I think is important. For me, a woman of worth is someone who has self -espect, who believes that she can change things in society.',
+        'Sonam Kapoor',
     ],
     [
-        'The fear of life is the favorite disease of the 20th century.',
-        'Sylvia Plath',
+        'The enemies of acting are mood and attitude and other general homogenized disruptive entities. Whereas acting is about action - doing - and unless you can figure out a way to craft in an imaginative reality to which you don\'t submit, you\'re going to be out of control. You\'ll flip out. The job is to be surprised.',
+        'William Hurt',
     ],
     [
-        'Many hands make light work.',
-        'John Heywood',
+        'I am proud to have been born in Iowa. Through the eyes of a ten-year-old boy, it was a place of adventure and daily discoveries - the wonder of the growing crops, the excitements of the harvest, the journeys to the woods for nuts and hunting, the joys of snowy winters, the comfort of the family fireside, of good food and tender care.',
+        'Herbert Hoover',
+    ],
+    [
+        'Thus they have an idol that they petition for victory in war; another for success in their labors; and so for everything in which they seek or desire prosperity, they have their idols, which they honor and serve.',
+        'Hernan Cortes',
+    ],
+    [
+        'Thing is, I went to a born-again Christian high school, was brought up in a traditional Mormon family where these ideas about parenting are of structure and sacrifice. To think outside of that idea of family and parenting that I\'ve grown up with is tough but also very freeing.',
+        'Paul Walker',
+    ],
+    [
+        'At one time, you could sit on the Rue de la Paix in Paris or at the Habima Theater in Tel Aviv or in Medina and you could see a person come in, black, white, it didn\'t matter. You said, \'That\'s an American\' because there\'s a readiness to smile and to talk to people.',
+        'Maya Angelou',
     ],
 ];

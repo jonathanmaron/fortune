@@ -2,103 +2,103 @@
 
 return [
     [
-        'Through perseverance many people win success out of what seemed destined to be certain failure.',
-        'Benjamin Disraeli',
+        'My dad would always say, \'Girl, you\'ve been given gifts. Use them.\' And what he meant by that was, \'Don\'t just be successful. Don\'t just use your talents for your own success. But make a difference with them. Do something significant.\' And when I put those two things together, it just causes me to not accept the status quo.',
+        'Beth Brooke',
     ],
     [
-        'It\'s funny, because in deference to conventional wisdom, I spent my struggling writer years trying to suppress my naturally baroque literary voice and write clean, spare prose. I finally gave up and embraced my baroque tendencies when I wrote the Kushiel series.',
-        'Jacqueline Carey',
+        'Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending.',
+        'Carl Bard',
     ],
     [
-        'Men were not intended to work with the accuracy of tools, to be precise and perfect in all their actions.',
-        'John Ruskin',
+        'No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure.',
+        'Napoleon Hill',
     ],
     [
-        'Every girl should use what Mother Nature gave her before Father Time takes it away.',
+        'Our life always expresses the result of our dominant thoughts.',
+        'Francis Bacon',
+    ],
+    [
+        'I love Ralph Lauren. As I travel so much, I prefer to shop online.',
+        'Meghan Markle',
+    ],
+    [
+        'Our job is to represent the truth of human nature, whether you\'re playing a tender love story that\'s set in a coffee shop or whether you\'re in \'The Avengers,\' which is set in a Manhattan which is exploding.',
+        'Tom Hiddleston',
+    ],
+    [
+        'As many of you know I travel a good bit and do not get to see my friends and family as much as I would like.',
+        'Natalie Gulbis',
+    ],
+    [
+        'History will be kind to me for I intend to write it.',
+        'Winston Churchill',
+    ],
+    [
+        'I believe that laughter is the best emotional Band-Aid in the world. It\'s like nature\'s Neosporin.',
+        'Matt LeBlanc',
+    ],
+    [
+        'Eternity: a moment standing still for ever.',
+        'James Montgomery',
+    ],
+    [
+        'The first and most important step toward success is the feeling that we can succeed.',
+        'Nelson Boswell',
+    ],
+    [
+        'I am always struck by the fact that human awareness of our place in nature, like so much of modern science, began with the Industrial Revolution.',
+        'Kenneth R. Miller',
+    ],
+    [
+        'A successful competition for me is always going out there and putting 100 percent into whatever I\'m doing. It\'s not always winning. People, I think, mistake that it\'s just winning. Sometimes it could be, but for me, it\'s hitting the best sets I can, gaining confidence, and having a good time and having fun.',
+        'Simone Biles',
+    ],
+    [
+        'The expression of beauty is in direct ratio to the power of conception the artist has acquired.',
+        'Gustave Courbet',
+    ],
+    [
+        'I do not own a car, and my main form of travel to Westminster and in my constituency is by bicycle. I also take my bike on trains to meetings in other parts of the country, which enables me to see other cities and the other parts of the country.',
+        'Jeremy Corbyn',
+    ],
+    [
+        'Speak when you are angry - and you\'ll make the best speech you\'ll ever regret.',
         'Laurence J. Peter',
     ],
     [
-        'The whole secret of a successful life is to find out what is one\'s destiny to do, and then do it.',
-        'Henry Ford',
+        'We all naturally want to become successful... we also want to take shortcuts. And it\'s easy to do so, but you can never take away the effort of hard work and discipline and sacrifice.',
+        'Apolo Ohno',
     ],
     [
-        'I was looking for something a lot heavier, yet melodic at the same time. Something different from heavy metal, a different attitude.',
-        'Kurt Cobain',
+        'To live is so startling it leaves little time for anything else.',
+        'Keanu Reeves',
     ],
     [
-        'Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.',
-        'Wayne Gretzky',
+        'Some people say that I have an attitude- Maybe I do. But I think that you have to. You have to believe in yourself when no one else does- that makes you a winner right there.',
+        'Venus Williams',
     ],
     [
-        'My only responsibility as a playwright and a storyteller is to give you the time of your life in the theatre. I just happen to think that with Hamilton\'s story, sticking close to the facts helps me. All the most interesting things in the show happened.',
-        'Lin-Manuel Miranda',
+        'Life changes so quickly. feeling grateful to be around such wonderful people to strengthen and grow with.',
+        'Myles Munroe',
     ],
     [
-        'To maintain a joyful family requires much from both the parents and the children. Each member of the family has to become, in a special way, the servant of the others.',
-        'Pope John Paul II',
+        'The misconception is that standup comics are always on. I don\'t know any really funny comics that are annoying and constantly trying to be funny all the time.',
+        'Joe Rogan',
     ],
     [
-        'Baseball was, is and always will be to me the best game in the world.',
-        'Babe Ruth',
+        'I have my team. Like if you see everyone around me - I have my hair and makeup girl, my assistant. They\'re very calm, they\'re all about positive energy. There\'re no drama queens. Everyone wants everyone else to have a positive experience. There are no agendas. I think it creates a healthy environment and there are no boundaries to cross.',
+        'Fergie',
     ],
     [
-        'Be the chief but never the lord.',
-        'Lao Tzu',
+        'Your destiny is to fulfill those things upon which you focus most intently. So choose to keep your focus on that which is truly magnificent, beautiful, uplifting and joyful. Your life is always moving toward something.',
+        'Ralph Marston',
     ],
     [
-        'I don\'t want to let my guard down and feel too comfortable. If you become complacent, you start feeling entitled. I\'m ready to go dig ditches if I have to. Whatever I gotta do to provide for my family. Whatever I gotta do to make sure that I do the best possible job at whatever wonderful opportunities I\'ve been handed.',
-        'Mark Wahlberg',
+        'I think it\'s important to have closure in any relationship that ends - from a romantic relationship to a friendship. You should always have a sense of clarity at the end and know why it began and why it ended. You need that in your life to move cleanly into your next phase.',
+        'Marie Curie',
     ],
     [
-        'Success is the best revenge. I always feel women should answer back either with their sarcasm or success.',
-        'Kangana Ranaut',
-    ],
-    [
-        'The avant-garde theater is fun; it is free-swinging, bold, iconoclastic, and often wildly, wildly funny. If you will approach it with childlike innocence - putting your standard responses aside, for they do not apply - if you will approach it on its own terms, I think you will be in for a liberating surprise.',
-        'Edward Albee',
-    ],
-    [
-        'I married my best friend. I was still in awe after more than four years of being around her at how smart and strong and loving and caring she was. And I really hoped that her choosing me and rejecting my advice to pursue her own career was a decision she would never regret.',
-        'William J. Clinton',
-    ],
-    [
-        'Our ideals are our better selves.',
-        'Amos Bronson Alcott',
-    ],
-    [
-        'Fishes live in the sea, as men do a-land; the great ones eat up the little ones.',
-        'William Shakespeare',
-    ],
-    [
-        'I don\'t want my writing to be work to read. My main goal is completely shameless entertainment. I want people to smile and giggle and enjoy the book. I\'m not trying to save the world through literature.',
-        'Gail Carriger',
-    ],
-    [
-        'I never realized before this the emotional power of some really simple, corny tropes: people with top hats, people with batons, confetti going off, how important it is to smile.',
-        'Ira Glass',
-    ],
-    [
-        'Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.',
-        'Samuel Smiles',
-    ],
-    [
-        'There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.',
-        'Elie Wiesel',
-    ],
-    [
-        'I have a loyalty that runs in my bloodstream, when I lock into someone or something, you can\'t get me away from it because I commit that thoroughly. That\'s in friendship, that\'s a deal, that\'s a commitment. Don\'t give me paper - I can get the same lawyer who drew it up to break it. But if you shake my hand, that\'s for life.',
-        'Dean Koontz',
-    ],
-    [
-        'If somebody says no to you, or if you get cut, Michael Jordan was cut his first year, but he came back and he was the best ever. That is what you have to have. The attitude that I\'m going to show everybody, I\'m going to work hard to get better and better.',
-        'Magic Johnson',
-    ],
-    [
-        'When I drank, I had a very different attitude towards my playing. It was sloppier but I kind of liked it that way. It was like the alcohol was telling my mind what to do.',
-        'Mick Mars',
-    ],
-    [
-        'I am convinced after more than 50 years in the field of motivation that anyone who wants to learn to look at life and/or their circumstances in a positive light can do so.',
-        'Zig Ziglar',
+        'Saying thank you is more than good manners. It is good spirituality.',
+        'Alfred Painter',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'There is no easy way from the earth to the stars',
+        'Short words are best and the old words when short are best of all.',
+        'Winston Churchill',
+    ],
+    [
+        'When I travel, I feel more like a nomad than a tourist.',
+        'Mohsin Hamid',
+    ],
+    [
+        'Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.',
+        'Carl Sandburg',
+    ],
+    [
+        'The job numbers are positive. We\'ve had more jobs created now than were lost during the recession. We\'re seeing that the creation, we\'re seeing those numbers not only grow but shift toward the private sector and shift toward full-time employment and these are all signs that the recovery is taking some hold but we\'re not out of woods.',
+        'Stephen Harper',
+    ],
+    [
+        'Art can never exist without naked beauty displayed.',
+        'William Blake',
+    ],
+    [
+        'I can look back now and say, \'Aw, that was a little dumb taking huge bumps onto concrete before a couple of hundred fans,\' but if it wasn\'t for that attitude and that type of work ethic, I never would have gotten to WWE.',
+        'Mick Foley',
+    ],
+    [
+        'When a man tells you that he got rich through hard work, ask him: \'Whose?\'',
+        'Don Marquis',
+    ],
+    [
+        'When I was at the Royal Ballet School, I remember receiving my first eyeshadow palette from Marks &amp; Spencer as a gift. It sparked my interest in beauty, which peaked when I became more involved in theatre and got to experience so many stunning image transformations to suit different productions.',
+        'Darcey Bussell',
+    ],
+    [
+        'When people stand up and talk about the great success that the EU has been, I\'m not sure anybody saying it really believes it themselves anymore.',
+        'Nigel Farage',
+    ],
+    [
+        'We must develop and maintain the capacity to forgive. He who is devoid of the power to forgive is devoid of the power to love. There is some good in the worst of us and some evil in the best of us. When we discover this, we are less prone to hate our enemies.',
+        'Martin Luther King, Jr.',
+    ],
+    [
+        'Successful people make money. It\'s not that people who make money become successful, but that successful people attract money. They bring success to what they do.',
+        'Wayne Dyer',
+    ],
+    [
+        'He who deliberates fully before taking a step will spend his entire life on one leg.',
+        'Chinese proverb',
+    ],
+    [
+        'There\'s no such thing as soy milk. It\'s soy juice.',
+        'Lewis Black',
+    ],
+    [
+        'Most powerful is he who has himself in his own power.',
         'Seneca',
     ],
     [
-        'I do engage veterans. I meet with the veterans\' service organizations monthly. It\'s a direct, no-holds-barred discussion. I travel to their conventions, where I speak to the veterans membership. I do travel. I\'ve been to all 50 states. When I do, I engage veterans locally. So I get direct feedback from those veterans.',
-        'Eric Shinseki',
+        'The only real valuable thing is intuition.',
+        'Albert Einstein',
     ],
     [
-        'It\'s wonderful to travel with somebody that you love and we never travel anywhere without one another.',
-        'Roger Moore',
+        'If the graves of the thousands of victims who have fallen in the terrible wars of the two races had been placed in line the philanthropist might travel from the Atlantic to the Pacific, and from the Lakes to the Gulf, and be constantly in sight of green mounds.',
+        'Nelson A. Miles',
     ],
     [
-        'Negotiation means getting the best of your opponent.',
-        'Marvin Gaye',
+        'I find it sad that by not talking about who I sleep with, that makes me mysterious. There was a time when I would have been called a gentleman.',
+        'Kevin Spacey',
     ],
     [
-        'The number of stressors has multiplied exponentially: traffic, money, success, work/life balance, the economy, the environment, parenting, family conflict, relationships, disease. As the nature of human life has become far more complicated, our ancient stress response hasn\'t been able to keep up.',
-        'Andrew J. Bernstein',
+        'My attitude to peace is rather based on the Burmese definition of peace - it really means removing all the negative factors that destroy peace in this world. So peace does not mean just putting an end to violence or to war, but to all other factors that threaten peace, such as discrimination, such as inequality, poverty.',
+        'Aung San Suu Kyi',
     ],
     [
-        'Good is positive. Evil is merely privative, not absolute: it is like cold, which is the privation of heat. All evil is so much death or nonentity. Benevolence is absolute and real. So much benevolence as a man hath, so much life hath he.',
-        'Ralph Waldo Emerson',
+        'Life ain\'t always beautiful, but it\'s a beautiful ride.',
+        'Sheena Easton',
     ],
     [
-        'I love to travel. I\'m a curious person.',
-        'Hilary Swank',
+        'I think every chef, not just in America, but across the world, has a double-edged sword - two jackets, one that\'s driven, a self-confessed perfectionist, thoroughbred, hate incompetence and switch off the stove, take off the jacket and become a family man.',
+        'Gordon Ramsay',
     ],
     [
-        'It may be a masculine attitude to take lovers, but it\'s definitely prevalent. I\'m certainly not the oldest person doing it - not that I\'m doing it right now, but when I was.',
-        'Diana Rigg',
+        'You have to take it as it happens, but you should try to make it happen the way you want to take it.',
+        'Old German proverb',
     ],
     [
-        'Corruption, embezzlement, fraud, these are all characteristics which exist everywhere. It is regrettably the way human nature functions, whether we like it or not. What successful economies do is keep it to a minimum. No one has ever eliminated any of that stuff.',
-        'Alan Greenspan',
+        'Nobody can predict the future. You just have to give your all to the relationship you\'re in and do your best to take care of your partner, communicate and give them every last drop of love you have. I think one of the most important things in a relationship is caring for your significant other through good times and bad.',
+        'Nick Cannon',
     ],
     [
-        'My family and I are so close, it\'s important to have a close knit relationship and to make time to spend with each other, especially at the holidays.',
-        'Gia Coppola',
+        'Being a funny person does an awful lot of things to you. You feel that you mustn\'t get serious with people. They don\'t expect it from you, and they don\'t want to see it. You\'re not entitled to be serious, you\'re a clown.',
+        'Fanny Brice',
     ],
     [
-        'I never feel lonely if I\'ve got a book - they\'re like old friends. Even if you\'re not reading them over and over again, you know they are there. And they\'re part of your history. They sort of tell a story about your journey through life.',
-        'John Locke',
+        'Skillful conversationalists can explore disagreements and make points in ways that feel constructive and positive rather than combative or corrective.',
+        'Gretchen Rubin',
     ],
     [
-        'No one\'s going to be able to operate without a grounding in the basic sciences. Language would be helpful, although English is becoming increasingly international. And travel. You have to have a global attitude.',
-        'Rupert Murdoch',
-    ],
-    [
-        'If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.',
-        'Ajahn Chah',
-    ],
-    [
-        'The more you know yourself, the more you forgive yourself.',
-        'Confucius',
-    ],
-    [
-        'Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on.',
-        'Paula Abdul',
-    ],
-    [
-        'One of the best things that ever happened to me is that I\'m a woman. That is the way all females should feel.',
-        'Marilyn Monroe',
-    ],
-    [
-        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
-        'Evgeny Morozov',
-    ],
-    [
-        'Your ordinary acts of love and hope point to the extraordinary promise that every human life is of inestimable value.',
-        'Desmond Tutu',
-    ],
-    [
-        'When you\'re working hard and doing all you can to achieve your goals, anything that can give you an edge is powerful and will streamline your path to success.',
-        'Travis Bradberry',
-    ],
-    [
-        'Beauty is boring because it is predictable.',
-        'Umberto Eco',
-    ],
-    [
-        'In order to succeed, we must first believe that we can.',
-        'Nikos Kazantzakis',
-    ],
-    [
-        'With the success of a show, you get an opportunity to call attention to things that you believe in.',
-        'Bradley Whitford',
-    ],
-    [
-        'If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.',
-        'Henry David Thoreau',
-    ],
-    [
-        'Each day is a little life: every waking and rising a little birth, every fresh morning a little youth, every going to rest and sleep a little death.',
-        'Swami Vivekananda',
-    ],
-    [
-        'I fly economy. I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
-        'Gene Simmons',
+        'I do have a childlike enthusiasm at times. I certainly enjoy life and get pleasure sometimes in childish things.',
+        'Orhan Pamuk',
     ],
 ];

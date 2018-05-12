@@ -2,103 +2,103 @@
 
 return [
     [
-        'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
-        'Nick Saban',
+        'I have so much chaos in my life, it\'s become normal. You become used to it. You have to just relax, calm down, take a deep breath and try to see how you can make things work rather than complain about how they\'re wrong.',
+        'Tom Welling',
     ],
     [
-        'I love David\'s attitude in the Bible. He wasn\'t afraid to go against the trends. He wasn\'t going to be defined by the opinions of others.',
-        'Victoria Osteen',
+        'I have had wrinkles on my forehead and my smile line since I was a kid. I see them in my own kids. I know what they\'re going to look like. So it\'s kind of like that\'s my personality. I feel the older you get, too, the more confident you become just in your own skin.',
+        'Faith Hill',
     ],
     [
-        'Life is best when you are in love.',
-        'Michael Moriarty',
+        'Only those who will risk going too far can possibly find out how far it is possible to go.',
+        'TS Eliot',
     ],
     [
-        'Talent grips us. We are overtaken by the beauty of Michelangelo\'s sculpture, riveted by Mariah Carey\'s angelic voice, doubled over in laughter by the comedy of Robin Williams, and captivated by the on screen performances of Denzel Washington.',
-        'John C. Maxwell',
+        'When you rise in the morning, give thanks for the light, for your life, for your strength. Give thanks for your food and for the joy of living. If you see no reason to give thanks, the fault lies in yourself.',
+        'Leo Buscaglia',
     ],
     [
-        'In France, I guess there\'s something like a tyranny in mentalities - we accept success badly, beauty, money. People are certainly envious, and this creates negative energy. This is annoying. I suffered a great deal at one time. I had to fight harder than others. Add to that my marriage to Polanski.',
-        'Emmanuelle Seigner',
+        'When you do good work, people will notice you.',
+        'Ram Kapoor',
     ],
     [
-        'Beauty is in the character of a person. It\'s about having an interesting face and about what\'s inside. Anyone can take a good picture.',
-        'Patrick Demarchelier',
+        'Nothing is impossible, the word itself says \'I\'m possible\'!',
+        'Audrey Hepburn',
     ],
     [
-        'If truth is beauty, how come no one has their hair done in the library?',
-        'Lily Tomlin',
-    ],
-    [
-        'All the universe is full of the lives of perfect creatures.',
-        'Konstantin Tsiolkovsky',
-    ],
-    [
-        'Forget about all the reasons why something may not work. You only need to find one good reason why it will.',
-        'Robert Anthony',
-    ],
-    [
-        'No bird soars too high if he soars with his own wings.',
-        'William Blake',
-    ],
-    [
-        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
+        "BE STRONG\nYou never know who you are inspiring",
         'Unknown',
     ],
     [
-        'It\'s kind of fun to do the impossible.',
-        'Walt Disney',
+        'I started to travel like this at the age of 15 so for me, it\'s normal. Some days you get tired and you feel, \'I want to stay at home a little bit more,\' but it\'s only the moment.',
+        'Rafael Nadal',
     ],
     [
-        'My attitude about death is, going into the next room, and it\'s a room that the rest of us can\'t get into because we don\'t have the key. But when we do get the key, we\'ll go in there, and we\'ll see one another again, in some shape or form or whatever. It\'s not the end.',
-        'Roger Moore',
+        'And I tell you, having girls has made me a much better man. I have friends who are fathers, but they only have boys, and they have the same attitude toward women they always had, you know? And I don\'t play that... My girls, you mess with them? I will bury you underground.',
+        'Mark Wahlberg',
     ],
     [
-        'There is no greater feeling in business than building a product which impacts people\'s lives in a profound way. When we look around at the thousands of people who have attended Summit gatherings, it makes us smile to see the new friendships, business partnerships and philanthropic initiatives that each event produces.',
-        'Elliott Bisnow',
+        'Lost - yesterday, somewhere between sunrise and sunset, two golden hours, each set with sixty diamond minutes. No reward is offered, for they are gone forever.',
+        'Horace Mann',
     ],
     [
-        'If you think you can, you can. And if you think you can\'t, you\'re right.',
-        'Henry Ford',
+        'The ideas of the ruling class are in every epoch the ruling ideas, i.e., the class which is the ruling material force of society, is at the same time its ruling intellectual force.',
+        'Karl Marx',
     ],
     [
-        'Step by step and the thing is done.',
-        'Charles Atlas',
+        'When one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior',
+        'Henry C Link',
     ],
     [
-        'And History will smile to think that this is the species for which Socrates and Jesus Christ died.',
-        'Julien Benda',
+        'Doing your best means never stop trying.',
+        'Unknown',
     ],
     [
-        'I remember nearly having a fit of the giggles during the reading because dear Daniel was SO respectful and serious and I was finding the whole situation funny because I was speaking to his profile.',
-        'Madeleine Stowe',
+        'You always want to win. That is why you play tennis, because you love the sport and try to be the best you can at it.',
+        'Roger Federer',
     ],
     [
-        'Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.',
-        'George Whitefield',
+        'What moves those of genius, what inspires their work is not new ideas, but their obsession with the idea that what has already been said is still not enough.',
+        'Eugene Delacroix',
     ],
     [
-        'Some people ask the secret of our long marriage. We take time to go to a restaurant two times a week. A little candlelight, dinner, soft music and dancing. She goes Tuesdays, I go Fridays.',
-        'Henny Youngman',
+        'Id rather have a fake smile than a nasty stare.',
+        'Tamara Ecclestone',
     ],
     [
-        'Nature, like man, sometimes weeps from gladness.',
-        'Benjamin Disraeli',
+        'Some of our important choices have a time line. If we delay a decision, the opportunity is gone forever. Sometimes our doubts keep us from making a choice that involves change. Thus an opportunity may be missed.',
+        'James E. Faust',
     ],
     [
-        'Loving oneself isn\'t hard, when you understand who and what \'yourself\' is. It has nothing to do with the shape of your face, the size of your eyes, the length of your hair or the quality of your clothes. It\'s so beyond all of those things and it\'s what gives life to everything about you. Your own self is such a treasure.',
-        'Pope Paul VI',
+        'I am the family face; flesh perishes, I live on.',
+        'Thomas Hardy',
     ],
     [
-        'What I enjoy most is travelling to different places and meeting new people. For me, it\'s all about life experiences, and I\'m very grateful that acting allows me so many interesting and fulfilling ones.',
-        'Miranda Kerr',
+        'Happiness is a Swedish sunset, it is there for all, but most of us look the other way and lose it.',
+        'Mark Twain',
     ],
     [
-        'Racing is the only time I feel whole.',
-        'James Dean',
+        'I think there\'s an awful lot of noise about the Church being persecuted but there is a more real issue that the conventional churches face - that the people who are really driving their revival and success believe in an old-time religion which, in my view, is incompatible with a modern, multi-ethnic, multicultural society.',
+        'Trevor Phillips',
     ],
     [
-        'Take care of your inner, spiritual beauty. That will reflect in your face.',
-        'Dolores del Rio',
+        'Day, n. A period of twenty-four hours, mostly misspent.',
+        'Ambrose Bierce',
+    ],
+    [
+        'It\'s funny, I do try to maintain health. I started doing Bikram yoga which is that hothouse yoga, the 105 degrees yoga for 90 minutes. It\'s great, you purge out all the sweat and you\'re drinking water.',
+        'Bryan Cranston',
+    ],
+    [
+        'We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.',
+        'Stephen Covey',
+    ],
+    [
+        'Jazz, to me, is one of the inherent expressions of Negro life in America: the eternal tom-tom beating in the Negro soul - the tom-tom of revolt against weariness in a white world, a world of subway trains, and work, work, work; the tom-tom of joy and laughter, and pain swallowed in a smile.',
+        'Langston Hughes',
+    ],
+    [
+        'If you accept the expectations of others, especially negative ones, then you never will change the outcome.',
+        'Michael Jordan',
     ],
 ];

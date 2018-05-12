@@ -2,103 +2,103 @@
 
 return [
     [
-        'The life of the dead is placed in the memory of the living.',
-        'Confucius',
+        'I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.',
+        'G. K. Chesterton',
     ],
     [
-        'As long as you have discipline, you can be a success. Discipline is what makes you do everything you need to do.',
-        'Anthony Joshua',
+        'Thoughts become things. If you see it in your mind, you will hold it in your hand.',
+        'Bob Proctor, You Were Born Rich',
     ],
     [
-        'Choose something you like to do. I know it\'s a cliche, and you\'ve heard it over and over. But the reason is, you\'re going to have to work long and hard to achieve any success. You better like it or life is going to be terrible.',
-        'Bill Kurtis',
+        'You\'re never a loser until you quit trying.',
+        'Mike Ditka',
     ],
     [
-        'You get somebody to crack a smile, that\'s a beautiful thing.',
-        'Tracy Morgan',
+        'In the end, the whole Internet thing kills me, because you can use it as a positive thing or you can read into all the negativity. And I think you\'ve gotta put out positive energy, put out cool viral stuff, and then just stay out of people\'s opinions.',
+        'Nikki Sixx',
     ],
     [
-        'Even Napoleon had his Watergate.',
+        'Do not fear mistakes - there are none.',
+        'Miles Davis',
+    ],
+    [
+        'Love all, trust a few, do wrong to none.',
+        'William Shakespeare',
+    ],
+    [
+        'Design is not just what it looks like and feels like. Design is how it works',
+        'Steve Jobs',
+    ],
+    [
+        'A lot of people don\'t have near the amount of success as I\'ve been blessed to have, and it\'s all about working hard and hoping that continues.',
+        'Luke Bryan',
+    ],
+    [
+        'It is good medicine to go to a concert hall and forget the harshness of what\'s going on. It can be a very positive thing.',
+        'Itzhak Perlman',
+    ],
+    [
+        'I think that when we know that we actually do live in uncertainty, then we ought to admit it; it is of great value to realize that we do not know the answers to different questions. This attitude of mind - this attitude of uncertainty - is vital to the scientist, and it is this attitude of mind which the student must first acquire.',
+        'Richard P. Feynman',
+    ],
+    [
+        'Between two evils, I always pick the one I never tried before.',
+        'Mae West',
+    ],
+    [
+        'Problems are only opportunities in work clothes.',
+        'Henry J. Kaiser',
+    ],
+    [
+        'I reached rock bottom halfway through college. And it was - because of all the pressure that I think we\'re talking about right now - the pressure to learn how to budget, the pressure to really abandon everything that you ever learned. You don\'t have a comfort zone anymore. You don\'t have your neighborhood. You don\'t have your family with you.',
+        'Jidenna',
+    ],
+    [
+        'Life is a learning experience, only if you learn.',
         'Yogi Berra',
     ],
     [
-        'There was a great complexity to my father. He was a devoted family man. But, in the same breath, he simply was not suited to an anchored life. He should have been somebody who had a backpack, an old map, a bit of change in his pocket and that was it - roaming the world.',
-        'Christian Bale',
+        'Beauty, whether moral or natural, is felt, more properly than perceived.',
+        'David Hume',
     ],
     [
-        'This June, I\'ll travel once again to the Food and Wine Magazine Classic in Aspen, Colorado. For many years, my dear friend Julia Child and I have teamed up to teach classes together at the event; for the past seven years, my daughter, Claudine, has been my cooking partner on stage.',
-        'Jacques Pepin',
+        'Being body positive is really important to your overall happiness. It\'s hard to see someone with a \'perfect\' body and be like, \'Why can\'t I be like her?\' But that person was born to be who she is, and you\'re born to be who you are.',
+        'Sabrina Carpenter',
     ],
     [
-        'If you accept the expectations of others, especially negative ones, then you never will change the outcome.',
-        'Michael Jordan',
+        'You can really only enjoy life when you\'re extremely busy.',
+        'David Rockefeller',
     ],
     [
-        'If you give a good thing to the world, then over time your karma will be good, and you\'ll receive good.',
-        'Russell Simmons',
+        'Crowded classrooms and half-day sessions are a tragic waste of our greatest national resource - the minds of our children.',
+        'Walt Disney',
     ],
     [
-        'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
-        'Milla Jovovich',
+        'We learn what we have said from those who listen to our speaking.',
+        'Kenneth Patton',
     ],
     [
-        'I wish to be appreciated not only as a film star but also for the person I am. If I manage to bring a smile on people\'s faces, then I think I\'ll be successful.',
-        'Deepika Padukone',
+        'Every article on these islands has an almost personal character, which gives this simple life, where all art is unknown, something of the artistic beauty of medieval life.',
+        'John Millington Synge',
     ],
     [
-        'My family kinda hit the skids. We were experiencing poverty at that point. We all got a job, where the whole family had to work as security guards and janitors. And I just got angry.',
-        'Jim Carrey',
+        'The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.',
+        'Anais Nin',
     ],
     [
-        'Seeing Michelle Obama\'s bright color choices, and how she made people smile and reinforced Obama\'s platforms of hope and change, was inspiring.',
-        'Lilly Pulitzer',
+        'A man should look for what is, and not for what he thinks should be.',
+        'Albert Einstein',
     ],
     [
-        'Learning is a treasure that will follow its owner everywhere',
-        'Chinese proverb',
+        'My best vacation is somewhere I could hide, somewhere warm and not a lot of people around.',
+        'Derek Jeter',
     ],
     [
-        'Humans have a light side and a dark side, and it\'s up to us to choose which way we\'re going to live our lives. Even if you start out on the dark side, it doesn\'t mean you have to continue your journey that way. You always have time to turn it around.',
-        'Taraji P. Henson',
+        'Everyone carries his own inch rule of taste, and amuses himself by applying it, triumphantly, wherever he travels.',
+        'Henry Adams',
     ],
     [
-        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
-        'Trey Anastasio',
-    ],
-    [
-        'When people divorce, it\'s always such a tragedy. At the same time, if people stay together it can be even worse.',
-        'Monica Bellucci',
-    ],
-    [
-        'In the Arctic, the Inuit are saying water and land are the same; they\'re an unbroken unity. In the winter, you travel on the ice because it\'s the linkage and the easiest way, and in the summer, you move around on the water.',
-        'John Ralston Saul',
-    ],
-    [
-        'Properly used, positive reinforcement is extremely powerful.',
-        'B. F. Skinner',
-    ],
-    [
-        'Regardless of what one\'s attitude towards prohibition may be, temperance is something against which, at a time of war, no reasonable protest can be made.',
-        'William Lyon Mackenzie King',
-    ],
-    [
-        'Life is like an ice-cream cone, you have to lick it one day at a time.',
-        'Charles M. Schulz',
-    ],
-    [
-        'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
-        'William Channing',
-    ],
-    [
-        'I tend to head for what\'s amusing because a lot of things aren\'t happy. But usually you can find a funny side to practically anything.',
-        'Maggie Smith',
-    ],
-    [
-        'If you force yourself to smile, within a couple minutes, you feel happy.',
-        'Dean Norris',
-    ],
-    [
-        'One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that ones life has meaning, that one is needed in this world.',
-        'Hannah Senesh',
+        'As important as it is to learn how to deal with different kinds of people, truly toxic people will never be worth your time and energy - and they take a lot of each. Toxic people create unnecessary complexity, strife, and, worst of all, stress.',
+        'Travis Bradberry',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'A work well begun is half-ended.',
-        'Plato',
+        'I don\'t rely on feng shui. I believe hard work brings us good luck and success.',
+        'John Gokongwei',
     ],
     [
-        'The best way to have a good idea is to have a lot of ideas.',
-        'Linus Pauling',
+        'Screaming at children over their grades, especially to the point of the child\'s tears, is child abuse, pure and simple. It\'s not funny and it\'s not good parenting. It is a crushing, scarring, disastrous experience for the child. It isn\'t the least bit funny.',
+        'Ben Stein',
     ],
     [
-        'Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can\'t build on it; it\'s only for wallowing in.',
+        'The best math lesson we can teach college students this year is to subtract a tuition increase and benefit from the dividends of higher education.',
+        'Jodi Rell',
+    ],
+    [
+        'Engaging in social business is beneficial to a company because it leverages on business competencies to address social issues, involves one-time investment with sustainable results, and produces other positive effects such as employee motivation and improved organizational culture.',
+        'Muhammad Yunus',
+    ],
+    [
+        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.',
+        'Helen Keller',
+    ],
+    [
+        'Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.',
+        'Ambrose Bierce',
+    ],
+    [
+        'Nothing can express the aim and meaning of our work better than the profound words of St. Augustine - \'Beauty is the splendor of Truth.\'',
+        'Ludwig Mies van der Rohe',
+    ],
+    [
+        'There are people who are just suicidal, regardless. They are built to self-destruct. It seems, in my family, like a virus that\'s resistant to any kind of help or care or medication.',
+        'Miriam Toews',
+    ],
+    [
+        'I think I\'ve discovered the secret of life - you just hang around until you get used to it.',
+        'Vince Lombardi',
+    ],
+    [
+        'The thing is that love gives us a ringside seat on somebody else\'s flaws, so of course you\'re gonna spot some things that kinda need to be mentioned. But often the romantic view is to say, \'If you loved me, you wouldn\'t criticise me.\' Actually, true love is often about trying to teach someone how to be the best version of themselves.',
+        'Alain de Botton',
+    ],
+    [
+        'I own and operate a ferocious ego.',
+        'Bill Moyers',
+    ],
+    [
+        'Those who cannot learn from history are doomed to repeat it.',
+        'George Santayan',
+    ],
+    [
+        'I\'m not much of a family man. I\'m just not that into it. I love kids, I adore them, but I don\'t want to live my life for them.',
+        'Sting',
+    ],
+    [
+        'A man who doesn\'t trust himself can never really trust anyone else.',
+        'Cardinal Retz',
+    ],
+    [
+        'Learning is finding out what you already know.',
+        'Richard Bach',
+    ],
+    [
+        'It\'s not a bad idea to occasionally spend a little time thinking about things you take for granted. Plain everyday things.',
+        'Evan Davis',
+    ],
+    [
+        'Could we change our attitude, we should not only see life differently, but life itself would come to be different.',
         'Katherine Mansfield',
     ],
     [
-        'I like funny girls.',
-        'Shawn Mendes',
+        'My father leaving the family shaped who I was and how I looked at the world. By the same token, my father telling me fairy tales that he had made up shaped me profoundly, too.',
+        'Kate DiCamillo',
     ],
     [
-        'Don\'t do anything by half. If you love someone, love them with all your soul. When you go to work, work your ass off. When you hate someone, hate them until it hurts.',
-        'Henry Rollins',
+        'When I tried to play something and screwed up, I\'d hear some other note that would come into play. Then I started trying different things to find the beauty in it.',
+        'Dimebag Darrell',
     ],
     [
-        'The attitude of the Democrat Party is that wherever there are Republicans they are so bad, they are so discriminatory, they are so racist, they\'re so bigoted, they\'re just such reprobates that we can\'t afford to let them have any say whatsoever in what\'s happening.',
-        'Rush Limbaugh',
+        'If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.',
+        'Pema Chodron',
     ],
     [
-        'I didn\'t see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.',
-        'Steve Jobs',
+        'Everything I buy is vintage and smells funny. Maybe that\'s why I don\'t have a boyfriend.',
+        'Lucy Liu',
     ],
     [
-        'Be stubborn about your goals, and flexible about your methods.',
-        'Author Unknown',
+        'The winds and waves are always on the side of the ablest navigators.',
+        'Edward Gibbon',
     ],
     [
-        'I used to define success as being able to produce any result you wanted, whether it was a relationship, weight-loss, being a millionaire, impacting the culture, changing society, whatever it might be - it might be homelessness, whatever - and lately, I\'ve redefined success as \'fulfilling your soul\'s purpose.\'',
-        'Jack Canfield',
+        'I cannot give you the formula for success, but I can give you the formula for failure - which is: Try to please everybody.',
+        'Herbert Bayard Swope',
     ],
     [
-        'Every time you use the word \'healthy,\' you lose. The key is to make yummy, delicious food that happens to be healthy.',
-        'Marcus Samuelsson',
+        'I love the Rio Grande Valley. I always say it\'s home - Texas is home. I\'ve been out in L.A. a little over ten years, and I still get so excited when I go back home. It just feels comfortable; it makes me smile.',
+        'Cristela Alonzo',
     ],
     [
-        'I came on to the film with a very happy-go-lucky attitude which I think my character, Charlie, did when she went into the house. I expected it to be good, and then slowly things started to change for us all.',
-        'Jennifer Sky',
-    ],
-    [
-        'Why is it that scuba divers and surfers are some of the strongest advocates of ocean conservation? Because they\'ve spent time in and around the ocean, and they\'ve personally seen the beauty, the fragility, and even the degradation of our planet\'s blue heart.',
-        'Sylvia Earle',
-    ],
-    [
-        'The human soul is hungry for beauty; we seek it everywhere - in landscape, music, art, clothes, furniture, gardening, companionship, love, religion, and in ourselves. No one would desire not to be beautiful. When we experience the beautiful, there is a sense of homecoming.',
-        'John O\'Donohue',
-    ],
-    [
-        'Move to Italy. I mean it: they know about living in debt; they don\'t care. I stayed out there for five months while I was making a film called \'Order Of Death,\' and they\'ve really got it sussed. Nice cars. Sharp suits. Great food. Stroll into work at 10. Lunch from 12 till three. Leave work at five. That\'s living!',
-        'John Lydon',
-    ],
-    [
-        'Your best ideas, those eureka moments that turn the world upside down, seldom come when you\'re juggling emails, rushing to meet the 5 P.M. deadline or straining to make your voice heard in a high-stress meeting. They come when you\'re walking the dog, soaking in the bath or swinging in a hammock.',
-        'Carl Honore',
-    ],
-    [
-        'The stereoscopic panoramic videos that we\'re showing on Samsung VR are getting a lot of positive traction. It\'s exciting when you see creative types - whether from the music, film, or video industries - look at this stuff. The gears are turning in their head almost immediately about how they can use it as a new medium.',
-        'John Carmack',
-    ],
-    [
-        'I don\'t care whether people like me or dislike me. I\'m not on earth to win a popularity contest. I\'m here to be the best human being I possibly can be.',
-        'Tab Hunter',
-    ],
-    [
-        'Wear a smile and have friends; wear a scowl and have wrinkles.',
-        'George Eliot',
-    ],
-    [
-        'It is extraordinary that when you are acquainted with a whole family you can forget about them.',
-        'Gertrude Stein',
-    ],
-    [
-        'Mariah is a beautiful and talented person, and I\'ve had a crush on her for as long as I can remember. Every day, my respect for Mariah continues to grow higher. She\'s a caring, warm and funny person. People have no idea how funny she is! I feel like I\'ve always known she was my forever love.',
-        'Nick Cannon',
-    ],
-    [
-        'I think journaling is a key to success. You can set clear goals for yourself. You can start noticing repetitive behavior patterns and see the type of things that keep bothering you, and then you can have a bird\'s eye view of it.',
-        'Eric Andre',
-    ],
-    [
-        'It\'s our nature: Human beings like success but they hate successful people.',
-        'Carrot Top',
-    ],
-    [
-        'We say we want to create beauty, identity, quality, singularity. And yet, maybe in truth these cities that we have are desired. Maybe their very characterlessness provides the best context for living.',
-        'Rem Koolhaas',
-    ],
-    [
-        'About 100 things that your kid will do that will surprise you and break your heart and it will be a combination of fact based therapy, medically advised kinds of passages accompanied by celebrity anecdotes and just some funny stuff to lighten the load.',
-        'Alan Thicke',
-    ],
-    [
-        'Memories are doing funny things to us.',
-        'Milos Forman',
+        'There are a lot of movies I\'d like to throw away. That\'s not to say that I went in with that attitude. Any film I ever started, I went in with all the hope and best intentions in the world, but some films just don\'t work.',
+        'Kiefer Sutherland',
     ],
 ];

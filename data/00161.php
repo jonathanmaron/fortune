@@ -2,103 +2,103 @@
 
 return [
     [
-        'Experiments with animals have long been handicapped by our anthropocentric attitude: We often test them in ways that work fine with humans but not so well with other species.',
-        'Frans de Waal',
+        'It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.',
+        'Epictetus',
     ],
     [
-        'The only time I ever enjoyed ironing was the day I accidentally got gin in the steam iron.',
-        'Phyllis Diller',
+        'Christmas, my child, is love in action. Every time we love, every time we give, it\'s Christmas.',
+        'Dale Evans',
     ],
     [
-        'I honestly think it is better to be a failure at something you love than to be a success at something you hate.',
-        'George Burns',
+        'Life is all about having a good time.',
+        'Miley Cyrus',
     ],
     [
-        'Mushrooms are miniature pharmaceutical factories, and of the thousands of mushroom species in nature, our ancestors and modern scientists have identified several dozen that have a unique combination of talents that improve our health.',
-        'Paul Stamets',
+        'It\'s a matter of taking the side of the weak against the strong, something the best people have always done.',
+        'Harriet Beecher Stowe',
     ],
     [
-        'Hurried and worried until we\'re buried, and there\'s no curtain call, Lifes a very funny proposition after all.',
-        'George M. Cohan',
+        'I took some time out for life.',
+        'James L. Brooks',
     ],
     [
-        'The best preparation for good work tomorrow is to do good work today.',
+        'My mum is great for keeping hold of old classics - pieces of clothing that never age and never go out of fashion. She also says, \'Make sure you always smile - it makes everything look better!\'',
+        'Amber Le Bon',
+    ],
+    [
+        'Act like you expect to get into the end zone.',
+        'Christopher Morley',
+    ],
+    [
+        'Real magic in relationships means an absence of judgement of others.',
+        'Wayne Dyer',
+    ],
+    [
+        'Work is a prayer. And I start off every morning dedicating it to our Creator.',
+        'Joseph Murray',
+    ],
+    [
+        'We need to protect our wilderness areas and national parks. Everywhere you travel, you see blight, denuded mountains, logging. If people know what\'s going on, they\'ll become activists to safeguard those places.',
+        'Christie Brinkley',
+    ],
+    [
+        'When you have seen one ant, one bird, one tree, you have not seen them all.',
+        'E. O. Wilson',
+    ],
+    [
+        'When in doubt, tell the truth',
+        'Mark Twain',
+    ],
+    [
+        'The biggest adventure you can ever take is to live the life of your dreams.',
+        'Oprah Winfrey',
+    ],
+    [
+        'There\'s a rule of writing: if everything is funny, nothing is funny; if everything is sad, nothing is sad. You want that contrast.',
+        'J. Michael Straczynski',
+    ],
+    [
+        'Pleasure in the job puts perfection in the work.',
+        'Aristotle',
+    ],
+    [
+        'We awaken in others the same attitude of mind we hold toward them.',
         'Elbert Hubbard',
     ],
     [
-        'Our prime purpose in this life is to help others. And if you can\'t help them, at least don\'t hurt them.',
-        'Edward Norton',
+        'Don\'t let life discourage you; everyone who got where he is had to begin where he was.',
+        'Spencer Johnson',
     ],
     [
-        'Racism is a much more clandestine, much more hidden kind of phenomenon, but at the same time it\'s perhaps far more terrible than it\'s ever been.',
-        'Angela Davis',
+        'Spending time with America\'s soldiers is always inspiring.',
+        'John Boehner',
     ],
     [
-        'March on. Do not tarry. To go forward is to move toward perfection. March on, and fear not the thorns, or the sharp stones on life\'s path.',
-        'Khalil Gibran',
+        'A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.',
+        'Oliver Holmes',
     ],
     [
-        'We adore babies because they\'re so cute. And, of course, we are amused by jokes because they are funny. This is all backwards. It is. And Darwin shows us why.',
-        'Daniel Dennett',
+        'It\'s funny the way most people love the dead. Once you are dead, you are made for life.',
+        'Jimi Hendrix',
     ],
     [
-        'Being nice can be funny. A lot of my jokes are like, \'Let me take a bad situation and try to put the best spin on it.\'',
-        'Ron Funches',
+        'The police can\'t protect consumers. People need to be more aware and educated about identity theft. You need to be a little bit wiser, a little bit smarter and there\'s nothing wrong with being skeptical. We live in a time when if you make it easy for someone to steal from you, someone will.',
+        'Frank Abagnale',
     ],
     [
-        'Polo is a great thing to do with your kids and your family - it is a great day out. And to me, horses are amazing creatures that give you this cable to Earth and put you in contact with nature.',
-        'Nacho Figueras',
+        'I have been known for some time as a person who speaks the truth and speaks it strongly. I have always called a liar a liar and a hypocrite a hypocrite.',
+        'Cindy Sheehan',
     ],
     [
-        'The attitude among the people I knew was, \'Fleur wants to be a singer\' but it was never, \'Go for it. You can do it.\' Everyone was cynical because we\'d never seen anyone where we came from do it.',
-        'Fleur East',
+        'Every beauty which is seen here by persons of perception resembles more than anything else that celestial source from which we all are come.',
+        'Michelangelo',
     ],
     [
-        'After all, it is the divinity within that makes the divinity without; and I have been more fascinated by a woman of talent and intelligence, though deficient in personal charms, than I have been by the most regular beauty.',
-        'Washington Irving',
+        'Although people often equate them, glamour is not the same as beauty, stylishness, luxury, celebrity, or sex appeal. It is not limited to fashion or film; nor is it intrinsically feminine. It is not a collection of aesthetic markers - a style, as fashion and design use the word.',
+        'Virginia Postrel',
     ],
     [
-        'Blessed is the man who expects nothing, for he shall never be disappointed.',
-        'Alexander Pope',
-    ],
-    [
-        'Who among us has never looked up into the heavens on a starlit night, lost in wonder at the vastness of space and the beauty of the stars?',
-        'Jeb Bush',
-    ],
-    [
-        'If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.',
-        'Johann Wolfgang von Goethe',
-    ],
-    [
-        'Getting married, for me, was the best thing I ever did. I was suddenly beset with an immense sense of release, that we have something more important than our separate selves, and that is the marriage. There\'s immense happiness that can come from working towards that.',
-        'Nick Cave',
-    ],
-    [
-        'Gardening is not trivial. If you believe that it is, closely examine why you feel that way. You may discover that this attitude has been forced upon you by mass media and the crass culture it creates and maintains. The fact is, gardening is just the opposite - it is, or should be, a central, basic expression of human life.',
-        'Andrew Weil',
-    ],
-    [
-        'I have rituals for cleaning out resentments, disappointments, heartbreak, depression and for work. One of the things I do is go over old stuff if I have been unable to write for a while.',
-        'Hubert Selby, Jr.',
-    ],
-    [
-        'I always knew I wanted to play golf and go to college. I try hard to be a positive role model, especially on the golf course. I try to carry myself well, and don\'t do anything outrageous. I try to play the game like a gentleman and give everyone respect. That\'s how the game should be played.',
-        'Dustin Johnson',
-    ],
-    [
-        'Academic success depends on research and publications.',
-        'Philip Zimbardo',
-    ],
-    [
-        'You are beautiful because you let yourself feel, and that is a brave thing indeed.',
-        'Shinji Moon',
-    ],
-    [
-        'It\'s funny because I\'m a sucker for glitz and glitter when it comes to clothes and nail polish, but with my makeup, I\'m more comfortable with a natural look. It feels more like me.',
-        'Alison Sweeney',
-    ],
-    [
-        'I do believe we\'re all connected. I do believe in positive energy. I do believe in the power of prayer. I do believe in putting good out into the world. And I believe in taking care of each other.',
-        'Harvey Fierstein',
+        'I think journaling is a key to success. You can set clear goals for yourself. You can start noticing repetitive behavior patterns and see the type of things that keep bothering you, and then you can have a bird\'s eye view of it.',
+        'Eric Andre',
     ],
 ];

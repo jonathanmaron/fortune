@@ -2,103 +2,103 @@
 
 return [
     [
-        'Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.',
-        'William Menninger',
+        'Things are beautiful if you love them.',
+        'Jean Anouilh',
     ],
     [
-        'It is not the going out of port, but the coming in, that determines the success of a voyage.',
-        'Henry Ward Beecher',
+        'I am living proof that the American dream still exists. It is still alive and well. There is only one trick, you have to be willing to roll up your sleeves and work very, very hard.',
+        'Paula Deen',
     ],
     [
-        'During the time men live without a common power to keep them all in awe, they are in that conditions called war; and such a war, as if of every man, against every man.',
-        'Thomas Hobbes',
+        'Do more of what makes you happy.',
+        'Carmel McConnell',
     ],
     [
-        'The best revenge is massive success.',
-        'Frank Sinatra',
+        'Intuition is the wisdom formed by feeling and instinct - a gift of knowing without reasoning... Belief is ignited by hope and supported by facts and evidence - it builds alignment and creates confidence. Belief is what sets energy in motion and creates the success that breeds more success.',
+        'Angela Ahrendts',
     ],
     [
-        'We make such terrible mistakes with visual choices about beauty.',
-        'Marina Abramovic',
+        "A hard fall means a high bounce\u{2026}if you're made of the right material.",
+        'Unknown',
     ],
     [
-        'Teamwork requires some sacrifice up front; people who work as a team have to put the collective needs of the group ahead of their individual interests.',
-        'Patrick Lencioni',
+        'I need that aggressive attitude to play my music and more men have that attitude than women.',
+        'Lita Ford',
     ],
     [
-        'Life is short and the older you get, the more you feel it. Indeed, the shorter it is. People lose their capacity to walk, run, travel, think, and experience life. I realise how important it is to use the time I have.',
+        'My first agent dissuaded me from calling myself \'Cumberbatch.\' I had six months of not very productive time with her, so I changed agents. The new one said, \'Why aren\'t you using your family name? It\'s a real attention-grabber.\' I worried, \'How much is it going to cost to put my name in lights?\' But then I decided that\'s not my problem.',
+        'Benedict Cumberbatch',
+    ],
+    [
+        'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
+        'Shawn Achor',
+    ],
+    [
+        'Unlike some of the time-travel movies I love, like \'Primer\' or \'12 Monkeys,\' \'Looper\' is not about time travel. It\'s about this situation that time travel creates and the people dealing with that situation. So narratively, the big challenge was to have time travel get out of the way.',
+        'Rian Johnson',
+    ],
+    [
+        'Earthshaking fire from the center of the Earth will cause tremors around the New City. Two great rocks will war for a long time, then Arethusa will redden a new river.',
+        'Nostradamus',
+    ],
+    [
+        'Even in winter an isolated patch of snow has a special quality.',
+        'Andy Goldsworthy',
+    ],
+    [
+        'I think the kids in school that laughed at the clothes that we wore and the house that we lived in, and then my mother had to cut hair... I think that was a good motivator. Every time they laughed at me, they just built a fire, and there was only one way to put it out - to try and show \'em I was as good as they were.',
+        'Jimmy Dean',
+    ],
+    [
+        'Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.',
+        'Nikola Tesla',
+    ],
+    [
+        'The superfluous, a very necessary thing.',
+        'Voltaire',
+    ],
+    [
+        'Life is largely a matter of expectation.',
+        'Neil Young',
+    ],
+    [
+        'Many are called but few get up.',
+        'Oliver Herford',
+    ],
+    [
+        'The secret to success is good leadership, and good leadership is all about making the lives of your team members or workers better.',
+        'Tony Dungy',
+    ],
+    [
+        'After my husband John Lennon passed away, I tried to smile for my health.',
+        'Yoko Ono',
+    ],
+    [
+        'You know, real life doesn\'t just suddenly resolve itself. You have to keep working at it. Democracy, marriage, friendship. You can\'t just say, \'She\'s my best friend.\' That\'s not a given, it\'s a process.',
         'Viggo Mortensen',
     ],
     [
-        'My first ever job after college was as a flight attendant. I wanted to travel and could not afford it, so I decided to get myself a job where I could travel. I did it for two years and had great fun.',
-        'Jacqueline Winspear',
+        'I think there are a lot of really positive aspects to social media for novelists. Even though our work is pretty solitary, through Twitter and Tumblr and Facebook and Instagram and blogging in general, we\'re better able to connect directly with readers.',
+        'Holly Black',
     ],
     [
-        'The truth is of course is that there is no journey. We are arriving and departing all at the same time.',
-        'David Bowie',
+        'Gambling: The sure way of getting nothing for something.',
+        'Wilson Mizner',
     ],
     [
-        'All things are difficult before they are easy.',
-        'Thomas Fuller',
+        'I grew up playing hockey and some football, and I always think about the first time you walk into the locker room on a new team. The cliques are looking at you funny, and you make one friend, but then they\'re trying to stab you in the back.',
+        'Aaron Douglas',
     ],
     [
-        'In Naples, Fla., I met a self-made man, a multimillionaire, whose round penthouse apartment is home to Pierre-Auguste Renoir, Claude Monet, Henry Moore, and Mickey Mantle. He had purchased the most coveted items auctioned by the Mantle family at Madison Square Garden in December 2003.',
-        'Jane Leavy',
+        'I don\'t really remember a time younger than 5 years old that I didn\'t have skates on because all I can remember is every day, tying up my skates and a big smile on my face, excited to go on the ice.',
+        'Michelle Kwan',
     ],
     [
-        'But time growing old teaches all things.',
-        'Aeschylus',
+        'I think anyone who has a passion for what they love to do, and who pursue it, is inspirational for me.',
+        'Colin Morgan',
     ],
     [
-        'Age is an issue of mind over matter. If you don\'t mind, it doesn\'t matter',
-        'Mark Twain',
-    ],
-    [
-        'If the world seems cold to you, kindle fires to warm it.',
-        'Lucy Larcom',
-    ],
-    [
-        'If we get our self-esteem from superficial places, from our popularity, appearance, business success, financial situation, health, any of these, we will be disappointed, because no one can guarantee that we\'ll have them tomorrow.',
-        'Kathy Ireland',
-    ],
-    [
-        'The best way to avoid falling prey to the opinions of others is to realize that other people\'s opinions are just that - opinions. Regardless of how great or terrible they think you are, that\'s only their opinion. Your true self-worth comes from within.',
-        'Travis Bradberry',
-    ],
-    [
-        'My definition of love is being full. Complete. It makes everything lighter. Beauty is something you see. Love is something you feel.',
-        'Sharon Tate',
-    ],
-    [
-        'Spring is nature\'s way of saying, \'Let\'s party!\'',
-        'Robin Williams',
-    ],
-    [
-        'I was a huge Beatles fan. We could talk about who I listened to growing up and what my sources were, but certainly the Beatles were a late, important resource for me, and I just took my guitar and a handful of songs, and I decided, well, I\'ll just go over and travel around Europe and see what comes of it.',
-        'James Taylor',
-    ],
-    [
-        'I\'ve never been a die-hard Beyonce fan. I always thought she was inspirational and beautiful.',
-        'Winnie Harlow',
-    ],
-    [
-        'It\'s about having an active lifestyle, staying healthy, and making the right decisions. Life is about balance. Not everybody wants to run a marathon, but we could all start working out and being active, whether you walk to work or take an extra flight of stairs.',
-        'Apolo Ohno',
-    ],
-    [
-        'Sometimes we let life guide us, and other times we take life by the horns. But one thing is for sure: no matter how organized we are, or how well we plan, we can always expect the unexpected.',
-        'Jurgen Klopp',
-    ],
-    [
-        'Crowded classrooms and half-day sessions are a tragic waste of our greatest national resource - the minds of our children.',
-        'Walt Disney',
-    ],
-    [
-        'Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.',
-        'Serena Williams',
-    ],
-    [
-        'You know, I think the greatest gift in the world is a good employee, you know, or people who can do your work for you and do it well the way you\'d like to have it done. And I\'ve always been able to surround myself with really good people.',
-        'Kenny Rogers',
+        'Rhetoric is the art of ruling the minds of men.',
+        'Plato',
     ],
 ];

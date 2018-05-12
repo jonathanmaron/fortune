@@ -2,103 +2,103 @@
 
 return [
     [
-        'Because of my capacity for listening to strangers\' tales, or the details of their lives, my patience with their food and their crotchets, my curiosity that borders on nosiness, I am told that anyone traveling with me experiences an unbelievable tedium, and this is why I choose to travel alone.',
-        'Paul Theroux',
+        'When leaders know how to lead great meetings, there\'s less time wasted and less frustration. We have more energy to do the work that matters, realize our full potential, and do great things.',
+        'Justin Rosenstein',
     ],
     [
-        'Music is moonlight in the gloomy night of life.',
-        'Shakira',
+        'The holidays are a rough time for the homeless, but it\'s a year-round problem we have to solve.',
+        'Mike Binder',
     ],
     [
-        'Better be ignorant of a matter than half know it.',
+        'While we stop to think, we often miss our opportunity.',
         'Publilius Syrus',
     ],
     [
-        'Do not expect the world to look bright, if you habitually wear gray-brown glasses.',
-        'Tomas Eliot',
+        'To give and then not feel that one has given is the very best of all ways of giving.',
+        'Max Beerbohm',
     ],
     [
-        'Climate change and ozone depletion are two global issues that are different but have many connections. In the ozone depletion case, we managed to work with decision makers effectively so that an international agreement called the Montreal Protocol was achieved that essentially solved the ozone depletion problem.',
-        'Mario J. Molina',
-    ],
-    [
-        'In the late \'70s, maybe just before I started, there was still an attitude that if you did film you didn\'t do TV and vice versa, but that\'s gone now.',
-        'Robert Carlyle',
-    ],
-    [
-        'I think our family motto is to always work hard, be humble, kind, and thoughtful about others around us.',
-        'Anwar Hadid',
-    ],
-    [
-        'Interviewing Rei Kawakubo in Tokyo and John Galliano in Paris, both for \'Pop\' magazine, were huge for me, not just in learning about fashion and writing but about how little desire I had to be a critic/reporter/journalist/commentator so much as a kind of travel diarist.',
-        'Tavi Gevinson',
-    ],
-    [
-        'Innovation distinguishes between a leader and a follower',
-        'Steve Jobs',
-    ],
-    [
-        'Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.',
-        'John Kennedy',
-    ],
-    [
-        'Travel is the most private of pleasures. There is no greater bore than the travel bore. We do not in the least want to hear what he has seen in Hong Kong.',
-        'Vita Sackville-West',
-    ],
-    [
-        'There\'s a way to do it better - find it.',
-        'Thomas A. Edison',
-    ],
-    [
-        'The view of Earth is spectacular.',
-        'Sally Ride',
-    ],
-    [
-        'Shoot for the moon and if you miss you will still be among the stars.',
-        'Les Brown',
-    ],
-    [
-        'O Lord, help me to be pure, but not yet.',
-        'Saint Augustine',
-    ],
-    [
-        'I bear a charmed life.',
-        'Joel Osteen',
-    ],
-    [
-        'On the whole, when I travel to different countries, I like to find the hidden places, so I tend to avoid the cities - but in terms of the ease of getting about, finding what you need, the excitement, that undercurrent of whatever you want it to be, it\'s got to be London.',
-        'Will Tudor',
-    ],
-    [
-        'We must embrace pain and burn it as fuel for our journey.',
-        'Kenji Miyazawa',
-    ],
-    [
-        'I always said that if I could just find a guy who could chop wood and had a nice smile, it wouldn\'t bother me if he was a thug or an aristocrat, as long as he was a good guy. And I\'ve ended up with an educated thug.',
-        'Sade Adu',
-    ],
-    [
-        'The travel writer seeks the world we have lost - the lost valleys of the imagination.',
-        'Alexander Cockburn',
-    ],
-    [
-        'I believe there are two periods in life, one for the bike, the other for becoming active on one\'s work.',
-        'Bernard Hinault',
-    ],
-    [
-        'As a person, I was born to give out my opinions. By giving out my opinions, I realize who I am. As long as I can communicate, I\'m not so lonely. If I cannot travel, or do art, or have company, if they take away all my belongings, it doesn\'t matter at all.',
+        'China and the U.S. are two societies with very different attitudes towards opinion and criticism. In China, I am constantly under surveillance. Even my slightest, most innocuous move can - and often is - censored by Chinese authorities.',
         'Ai Weiwei',
     ],
     [
-        'Italian style is a natural attitude. It is about a life of good taste. It doesn\'t have to be expensive. Simple but with good taste. Luxury is possible to buy. Good taste is not.',
-        'Diego Della Valle',
+        'Economics is extremely useful as a form of employment for economists.',
+        'John Kenneth Galbraith',
     ],
     [
-        'A light wind swept over the corn, and all nature laughed in the sunshine.',
-        'Anne Bronte',
+        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
+        'Paul Bryant',
     ],
     [
-        'Turkey wants a policy of engagement exactly like President Obama\'s new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.',
-        'Ahmet Davutoglu',
+        'Spending time outdoors makes you feel great.',
+        'Elizabeth Hurley',
+    ],
+    [
+        'It is a great day anytime I can bring a smile to a girl or boy, knowing that I am helping to inspire them to always dream big.',
+        'Normani Kordei',
+    ],
+    [
+        'A period of detention in a chilly upstate facility can be a great attitude adjuster.',
+        'Judy Sheindlin',
+    ],
+    [
+        'Live life for the moment because everything else is uncertain!',
+        'Rose Kennedy',
+    ],
+    [
+        'Success is dependent on effort.',
+        'Sophocles',
+    ],
+    [
+        'If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.',
+        'Anne Bradstreet',
+    ],
+    [
+        'It\'s lovely to work with a group of actors who make you laugh and smile.',
+        'Kelly Reilly',
+    ],
+    [
+        'All the champions - you go and ask Mike Tyson or Joe Louis, Rocky Marciano, Lennox Lewis and myself included, and I\'m sorry for putting myself in line with all the other great names - but the champion\'s attitude is it doesn\'t matter who is in front of me, I am going to conquer this person and win the fight and knock the person out.',
+        'Wladimir Klitschko',
+    ],
+    [
+        'Right actions in the future are the best apologies for bad actions in the past.',
+        'Tryon Edwards',
+    ],
+    [
+        'If you must have motivation, think of your paycheck on Friday.',
+        'Noel Coward',
+    ],
+    [
+        'The natural liberty of man is to be free from any superior power on Earth, and not to be under the will or legislative authority of man, but only to have the law of nature for his rule.',
+        'Samuel Adams',
+    ],
+    [
+        'The true object of all human life is play. Earth is a task garden; heaven is a playground.',
+        'Thomas Hobbes',
+    ],
+    [
+        '\'Beauty\' is a currency system like the gold standard. Like any economy, it is determined by politics, and in the modern age in the West is is the last, best belief system that keeps male dominance intact.',
+        'Naomi Wolf',
+    ],
+    [
+        'Airline glamour never promised anything as mundane as elbow room, much less a flat bed, a massage, or an arugula salad. It promised a better world. Service and dress reflected the more formal era, but no one expected air travel to be comfortable. It was amazing just to have hot food above the clouds.',
+        'Virginia Postrel',
+    ],
+    [
+        'Love is that splendid triggering of human vitality the supreme activity which nature affords anyone for going out of himself toward someone else.',
+        'Jose Ortega y Gasset',
+    ],
+    [
+        'I believe in one thing only, the power of human will.',
+        'Joseph Stalin',
+    ],
+    [
+        'Success is falling nine times and getting up ten.',
+        'Jon Bon Jovi',
+    ],
+    [
+        'The more often we see the things around us - even the beautiful and wonderful things - the more they become invisible to us. That is why we often take for granted the beauty of this world: the flowers, the trees, the birds, the clouds - even those we love. Because we see things so often, we see them less and less.',
+        'Joseph B. Wirthlin',
     ],
 ];

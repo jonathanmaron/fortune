@@ -2,103 +2,103 @@
 
 return [
     [
-        'I think I have a hard time expressing myself in my relationships. I use songs to tell people how I\'m feeling. If I can\'t say \'I love you,\' I\'ll write a song about it and hope that the person figures it out.',
-        'Jenny Lewis',
+        'I definitely have the eye of the tiger. I\'ve fought my way to where I am and will continue to do so. I\'m a hard worker - I get it from my family. We only know work. Nothing was handed to us. When I believe in something, I go after it. It\'s very hard to tell me \'no.\'',
+        'Nicole Scherzinger',
     ],
     [
-        'I think everyone goes through chapters in their life and there was a time when I wasn\'t feeling terribly positive about what I was contributing to film, or wasn\'t feeling as if I was going in the direction I wanted and I re-evaluated what I was doing.',
-        'Jude Law',
+        'There are essential elements for our public schools to fully develop the potential of both students and educators. They should be centers of community, where students, families and educators work together to support student success. They should foster collaboration.',
+        'Randi Weingarten',
     ],
     [
-        'Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.',
-        'Katharine Hepburn',
+        'You always succeed in producing a result.',
+        'Tony Robbins',
     ],
     [
-        'Don\'t ever doubt yourselves or waste a second of your life. It\'s too short, and you\'re too special.',
-        'A. J. McLean',
+        'Nature shows that with the growth of intelligence comes increased capacity for pain, and it is only with the highest degree of intelligence that suffering reaches its supreme point.',
+        'Arthur Schopenhauer',
     ],
     [
-        'I\'m totally into new age and self-help books. I used to work in a bookstore and that\'s the section they gave me, and I got way into it. I just loved the power of positive thinking, letting yourself go.',
-        'Jason Mraz',
+        'Music and songs are written at different periods of time, at different times in your life. They reflect the feelings you have and to be honest, I quite like having positive emotions.',
+        'Scott Ian',
     ],
     [
-        'I absolutely love my job. I feel so privileged: I get to travel the world, I get to witness history... and I\'m constantly inspired by the different amazing characters I meet along the way.',
-        'Clarissa Ward',
+        'Keep your feet on the ground, but let your heart soar as high as it will. Refuse to be average or to surrender to the chill of your spiritual environment.',
+        'Arthur Helps',
     ],
     [
-        'Perhaps the mission of an artist is to interpret beauty to people - the beauty within themselves.',
-        'Langston Hughes',
+        'Life is full of happiness and tears; be strong and have faith.',
+        'Arthur Ashe',
     ],
     [
-        'That it will never come again is what makes life sweet.',
-        'Marcus Aurelius',
+        'Do whatever you do intensely.',
+        'Robert Henri',
     ],
     [
-        'Time flies like an arrow - but fruit flies like a banana.',
-        'Terry Wogan',
+        'Ideas shape the course of history.',
+        'John Maynard Keynes',
     ],
     [
-        'I started writing when I was 9 years old. I was like this weird kid who would just stay in my room, typing little funny magazines and drawing comic strips.',
-        'R. L. Stine',
+        'I believe that children are our future. Teach them well and let them lead the way. Show them all the beauty they possess inside.',
+        'Whitney Houston',
     ],
     [
-        'If you have a success you have it for the wrong reasons. If you become popular it is always because of the worst aspects of your work.',
-        'Ernest Hemingway',
+        'I like to spend as much time with my friends and family as possible.',
+        'Zara Larsson',
     ],
     [
-        'Life is short, and we should respect every moment of it.',
-        'Aeschylus',
+        'It\'s our responsibility for the village to say, \'Hey we\'re going to create these programs,\' whether it\'s sports, creative arts, music, we need some things to give young people positive things to do, and that\'s including jobs.',
+        'Common',
     ],
     [
-        'All men\'s gains are the fruit of venturing.',
-        'Herodotus',
+        'My grandma did opera singing for the better part of her life; she used to sing all over the place. My grandpa was a sax player, and he used to travel all over the place, too.',
+        'Mac DeMarco',
     ],
     [
-        'Tension is who you think you should be. Relaxation is who you are.',
-        'Chinese proverb',
+        'He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.',
+        'Epictetus',
     ],
     [
-        'Fears are nothing more than a state of mind.',
-        'Napoleon Hill',
+        'Travel in all the four quarters of the earth, yet you will find nothing anywhere. Whatever there is, is only here.',
+        'Ramakrishna',
     ],
     [
-        'The thing that can get kind of annoying is, when you travel so much, how hectic it gets. I was being interviewed once - it was a phone interview - and they said, \'Where are you right now?\' and I didn\'t know where I was.',
-        'Manika',
+        'It takes half your life before you discover life is a do-it-yourself project.',
+        'Eckhart Tolle',
     ],
     [
-        'Life is far too important a thing ever to talk seriously about.',
-        'Aristotle',
+        'Where is there beauty when you see deprivation and starvation?',
+        'Rosalind Russell',
     ],
     [
-        'Commitment in the face of conflict produces character.',
+        'People who use time wisely spend it on activities that advance their overall purpose in life.',
+        'John C. Maxwell',
+    ],
+    [
+        'If I remain true to what\'s in my heart, that\'s all the success I need.',
+        'Steve Vai',
+    ],
+    [
+        'I still don\'t love the darkness, though I\'ve learned to smile in it a little bit, now and then.',
+        'Billy Crystal',
+    ],
+    [
+        'Time destroys the speculation of men, but it confirms nature.',
+        'Marcus Tullius Cicero',
+    ],
+    [
+        'I couldn\'t wait for success, so I went ahead without it.',
+        'Jonathan Winters',
+    ],
+    [
+        'In fitness, there are no short cuts. It involves immense discipline and hard work.',
+        'Mahesh Babu',
+    ],
+    [
+        'A ship in the harbor is safe. But that\'s not what ships are for.',
         'Unknown',
     ],
     [
-        'More than anything, I like a jacket. You can do anything with a great jacket, the bigger the better. You can have any silhouette underneath. It gives you an attitude. It makes a gown look cool.',
-        'Rihanna',
-    ],
-    [
-        'City Ballet has to develop choreographers of stature and a new approach to coaching before everything we value about it fades away and, in the great tradition of the Cheshire Cat, there\'s nothing left but Peter Martins\' smile.',
-        'Robert Gottlieb',
-    ],
-    [
-        'We are presented with a unique situation in the black community in that we have embraced the beauty of hip hop, the real rawness of it, the real fun of it, but we also have to address the damage it has done. We have to look at what it\'s done to our black girls, especially when it comes to domestic violence.',
-        'Tamron Hall',
-    ],
-    [
-        'For my parents\' generation, the idea was not that marriage was about some kind of idealized, romantic love; it was a partnership. It\'s about creating family; it\'s about creating offspring. Indian culture is essentially much more of a \'we\' culture. It\'s a communal culture where you do what\'s best for the community - you procreate.',
-        'Aasif Mandvi',
-    ],
-    [
-        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
-        'Milton Berle',
-    ],
-    [
-        'Right now I just want to chill for a while. Take a hiatus from all the craziness. To clean my house, see my family. Just see some movies and pick some strawberries.',
-        'Lauren Ambrose',
-    ],
-    [
-        'Life is like an onion. You peel it off one layer at a time, and sometimes you weep.',
-        'Carl Sandburg',
+        'What do we live for, if not to make life less difficult for each other?',
+        'Guy Laliberte',
     ],
 ];

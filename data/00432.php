@@ -2,103 +2,103 @@
 
 return [
     [
-        'Confidence is the most important single factor in this game, and no matter how great your natural talent, there is only one way to obtain and sustain it: work.',
-        'Jack Nicklaus',
+        'I do the very best I know how - the very best I can; and I mean to keep on doing so until the end.',
+        'Abraham Lincoln',
     ],
     [
-        'The only true measure of success is the ratio between what we might have done and what we might have been on the one hand, and the thing we have made and the things we have made of ourselves on the other.',
-        'H. G. Wells',
-    ],
-    [
-        'I\'ve done a lot of albums and I kinda know when I\'m onto something that was inspirational for me to record and create, and this was one of those projects where I really enjoyed making the album.',
-        'Lee Ritenour',
-    ],
-    [
-        'I want a man who isn\'t questioning who he is. I want a man to be able to stand next to me and not disappear and not be emasculated by my success.',
-        'Jessica White',
-    ],
-    [
-        'For small business people, less paperwork means higher profits, boosted sales and more time with the family.',
-        'Tony Abbott',
-    ],
-    [
-        'My attitude toward graduate students was different, I must say. I used graduate students as colleagues: I gave them the best problems to work on, and I encouraged them.',
-        'Frank Press',
-    ],
-    [
-        'When I have a terrible need of - shall I say the word - religion. Then I go out and paint the stars.',
-        'Vincent Van Gogh',
-    ],
-    [
-        'I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles.',
-        'Audrey Hepburn',
-    ],
-    [
-        'A Bond girl must be a strong and independent woman, but at the same time charming and sensual. Those opposite qualities combined together make her interesting. She must be strong but at the same time feminine.',
-        'Olga Kurylenko',
-    ],
-    [
-        'I know of no time in human history where ignorance was better than knowledge.',
-        'Neil deGrasse Tyson',
-    ],
-    [
-        'When Jennifer Lawrence says it\'s \'dumb\' to go hungry to make other people happy, she\'s saying it with the carefree attitude of a woman who probably will never have to make that choice to conform.',
-        'Jennifer Armintrout',
-    ],
-    [
-        'Don\'t raise your voice, improve your argument.',
+        'No one should have the power to shatter your dreams unless you give it to them.',
         'Unknown',
     ],
     [
-        'My powers are ordinary. Only my application brings me success.',
-        'Isaac Newton',
+        'We don\'t make mistakes, just happy little accidents.',
+        'Bob Ross',
     ],
     [
-        'The only constant in the technology industry is change',
-        'Marc Benioff',
+        'How long are you going to wait before you demand the best for yourself',
+        'Epictetus',
     ],
     [
-        'I thought one should have the attitude of \'What do you care what other people think!\'',
-        'Richard P. Feynman',
+        'It\'s not what you look at that matters, it\'s what you see.',
+        'Unknown',
     ],
     [
-        'Men talk of killing time, while time quietly kills them.',
-        'Dion Boucicault',
+        'To travel hopefully is a better thing than to arrive.',
+        'Robert Louis Stevenson',
     ],
     [
-        'The old attitude toward newspapers was that they were completely disposable - today\'s newspaper is tomorrow\'s fish wrap.',
-        'Ray Guy',
+        'Memories of our lives, of our works and our deeds will continue in others.',
+        'Rosa Parks',
     ],
     [
-        "Don\u{92}t settle. Don\u{92}t finish crappy books. If you don\u{92}t like the menu, leave the restaurant. If you\u{92}re not on the right path, get off it.",
-        'Chris Brogan',
+        'From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.',
+        'Cesar Chavez',
     ],
     [
-        'Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend. Non-being is the greatest joy.',
-        'Lao Tzu',
+        'My first book was called, \'Mountain, Get Out of My Way,\' where I did an autobiographical sketch, if you will, looking back at myself and looking back at things in my life, and juxtaposing them against things that are happening in other people\'s lives and trying to be motivational.',
+        'Montel Williams',
     ],
     [
-        'To make flexibility work, it is not only necessary to change our attitude about who is a good worker and who is not, but we have to train managers at all levels to recognize the difference between the number of hours worked and the quality of work produced.',
-        'Madeleine M. Kunin',
+        'Don\'t worry if people don\'t like you. Most people are struggling to like themselves.',
+        'Unknown',
     ],
     [
-        'I am so fresh in soul and spirit that life gushes and bubbles around me in a thousand springs.',
-        'Robert Schumann',
+        'Where educators are raising and combining their voices, the seeds of positive change have emerged. Collective voice, exercised through the union, is power - the power to drive real change for our kids, families and communities.',
+        'Randi Weingarten',
     ],
     [
-        'In preschool, I would plan out my show-and-tell every week to be funny and exciting. Then in first grade I wrote a play, and my classmates and I performed it as a puppet show.',
-        'Maxim Knight',
+        'Nobody travels on the road to success without a puncture or two.',
+        'Navjot Singh Sidhu',
     ],
     [
-        'What draws me in is that a trip is a leap in the dark. It\'s like a metaphor for life. You set off from home, and in the classic travel book, you go to an unknown place. You discover a different world, and you discover yourself.',
-        'Paul Theroux',
+        'I\'ve been lucky enough that I can gather all sorts of experiences and find inspiration by traveling around and by spending time with people I admire.',
+        'Bonnie Raitt',
     ],
     [
-        'I\'m in love with red. I think it\'s such a passionate color. Every flag of every country pretty much has red it it. It\'s power, there\'s no fence sitting with red. Either you love it or you don\'t. I think its blood and strength and life. I do love red. I love all colors. Great shades of blue, you find them in nature. They\'re all magic.',
-        'Bryan Batt',
+        'Every strike brings me closer to the next home run.',
+        'Babe Ruth',
     ],
     [
-        'It is fatal to enter any war without the will to win it.',
-        'General Douglas MacArthur',
+        'The only thing I hated about the agency business was a lot of business travel. It was the only part of my job that I did not like. I found it very tedious and wearing.',
+        'Donny Deutsch',
+    ],
+    [
+        'What reader wants to be told what attitude to strike?',
+        'Ian Mcewan',
+    ],
+    [
+        'We are all born with a unique genetic blueprint, which lays out the basic characteristics of our personality as well as our physical health and appearance... And yet, we all know that life experiences do change us.',
+        'Agatha Christie',
+    ],
+    [
+        'Being mean just for being mean\'s sake isn\'t funny.',
+        'Kaitlin Olson',
+    ],
+    [
+        'I\'m not changing because I\'m part of a hit. People around me have changed in their attitude toward me, but I haven\'t changed. And I won\'t.',
+        'Joe Penny',
+    ],
+    [
+        'Hurt leads to bitterness, bitterness to anger, travel too far that road and the way is lost.',
+        'Terry Brooks',
+    ],
+    [
+        'Time is a sort of river of passing events, and strong is its current; no sooner is a thing brought to sight than it is swept by and another takes its place, and this too will be swept away.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Good ideas are like Nike sports shoes. They may facilitate success for an athlete who possesses them, but on their own they are nothing but an overpriced pair of sneakers. Sports shoes don\'t win races. Athletes do.',
+        'Felix Dennis',
+    ],
+    [
+        'Travel teaches toleration.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'We have talked long enough in this country about equal rights. It is time now to write the next chapter - and to write it in the books of law.',
+        'Lyndon B. Johnson',
+    ],
+    [
+        'An idea isn\'t responsible for the people who believe in it.',
+        'Don Marquis',
     ],
 ];

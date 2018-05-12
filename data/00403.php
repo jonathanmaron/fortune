@@ -2,103 +2,103 @@
 
 return [
     [
-        'Life will always be to a large extent what we ourselves make it.',
-        'Katherine Jenkins',
+        'When I travel abroad, because I\'m Columbian, I\'m always one that they check twice and security and I\'m the one that they open my bag and the one they pull to the side to check the visa.',
+        'Sofia Vergara',
     ],
     [
-        'If we could get your subconscious mind to agree with your conscious mind about being happy, that\'s when your positive thoughts work.',
-        'Bruce Lipton',
+        'Without labor nothing prospers.',
+        'Sophocles',
     ],
     [
-        'I\'ve always been a big fan of time travel, and I\'m very into the notion that some day we\'ll be able to do it. Beam me up!',
-        'Scott Bakula',
+        'My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you I the best place for the next moment.',
+        'Oprah Winfrey',
     ],
     [
-        'I got the chance to do things that I dreamed of when I was a kid: I got to travel around the world; I had my own \'Goosebumps\' attraction at Disney World; I\'ve been on TV and had three TV series.',
-        'R. L. Stine',
+        'Some might complain that nuclear disarmament is little more than a dream. But that ignores the very tangible benefits disarmament would bring for all humankind. Its success would strengthen international peace and security. It would free up vast and much-needed resources for social and economic development. It would advance the rule of law.',
+        'Ban Ki-moon',
     ],
     [
-        'Countless as the sands of the sea are human passions.',
-        'Nikolai Gogol',
+        'To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless.',
+        'Gilbert K. Chesterton',
     ],
     [
-        'A successful competition for me is always going out there and putting 100 percent into whatever I\'m doing. It\'s not always winning. People, I think, mistake that it\'s just winning. Sometimes it could be, but for me, it\'s hitting the best sets I can, gaining confidence, and having a good time and having fun.',
-        'Simone Biles',
+        'Good skin is the best foundation for your makeup.',
+        'Holland Roden',
     ],
     [
-        'For me, success is a state of mind. I feel like success isn\'t about conquering something; it\'s being happy with who you are.',
-        'Britney Spears',
+        'Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it\'s no longer a mistake. If you remain stuck, you learn nothing.',
+        'Eckhart Tolle',
     ],
     [
-        'Loss is nothing else but change, and change is Nature\'s delight.',
-        'Marcus Aurelius',
+        'Motherhood is wonderful, but it\'s also hard work. It\'s the logistics more than anything. You discover you have reserves of energy you didn\'t know you had.',
+        'Deborah Mailman',
     ],
     [
-        'I\'m not funny. What I am is brave.',
-        'Lucille Ball',
+        'I\'ve always had a \'Work hard, play hard\' attitude to life - I still do - but sometimes you get involved in something that needs a calm, methodical approach.',
+        'Damian Lewis',
     ],
     [
-        'I\'ve learned that mistakes can often be as good a teacher as success.',
-        'Jack Welch',
+        'I always loved aesthetics. Not particularly fashion, but an idea of beauty.',
+        'Miuccia Prada',
     ],
     [
-        'Certain thoughts are prayers. There are moments when, whatever be the attitude of the body, the soul is on its knees.',
-        'Victor Hugo',
+        'For something to be useful to the spirit is not very valuable to get your covered wagon across the desert. We have adopted that attitude so thoroughly that any American father whose son tells him he wants to write poetry will be embarrassed.',
+        'Miller Williams',
     ],
     [
-        'It\'s not the size of the dog in the fight, it\'s the size of the fight in the dog',
+        'I never appreciated \'positive heroes\' in literature. They are almost always cliches, copies of copies, until the model is exhausted. I prefer perplexity, doubt, uncertainty, not just because it provides a more \'productive\' literary raw material, but because that is the way we humans really are.',
+        'Jose Saramago',
+    ],
+    [
+        'Just remember: to be grateful and thank the people who are there and support you along the way is a great start to success.',
+        'Meryl Davis',
+    ],
+    [
+        'Gray skies are just clouds passing over.',
+        'Duke Ellington',
+    ],
+    [
+        'Don\'t worry about being a star, worry about doing good work, and all that will come to you.',
+        'Ice Cube',
+    ],
+    [
+        'This magnificent butterfly finds a little heap of dirt and sits still on it; but man will never on his heap of mud keep still.',
+        'Joseph Conrad',
+    ],
+    [
+        'I think we all have blocks between us and the best version of ourselves, whether it\'s shyness, insecurity, anxiety, whether it\'s a physical block, and the story of a person overcoming that block to their best self. It\'s truly inspiring because I think all of us are engaged in that every day.',
+        'Tom Hooper',
+    ],
+    [
+        'It\'s a positive thing to talk about terrible things and make people laugh about them.',
+        'Louis C. K.',
+    ],
+    [
+        'The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.',
+        'Honore de Balzac',
+    ],
+    [
+        'A graduation ceremony is an event where the commencement speaker tells thousands of students dressed in identical caps and gowns that \'individuality\' is the key to success.',
+        'Robert Orben',
+    ],
+    [
+        'I am an enthusiast, but not a crank in the sense that I have some pet theories as to the proper construction of a flying machine. I wish to avail myself of all that is already known and then, if possible, add my mite to help on the future worker who will attain final success.',
+        'Wilbur Wright',
+    ],
+    [
+        'A man can be drawn across the room with the simplicity of a smile. That\'s why your pearly whites should always be straight and shiny. I think most of my clients are drawn to a fun, flirty nature in a woman. The problem is, most women do not often feel fun and flirty.',
+        'Patti Stanger',
+    ],
+    [
+        'I think writing is really about a journey of understanding. So you take something that seems very far away, and the more you write about it, the more you travel into it, and you see it from within.',
+        'Pico Iyer',
+    ],
+    [
+        'Always tell the truth. That way, you don\'t have to remember what you said.',
         'Mark Twain',
     ],
     [
-        'Every great advance in science has issued from a new audacity of the imagination.',
-        'John Dewey',
-    ],
-    [
-        'Mountains are earth\'s undecaying monuments.',
-        'Nathaniel Hawthorne',
-    ],
-    [
-        'Someone said adversity builds character, but someone else said adversity reveals character. I\'m pleasantly surprised with my resilience. I persevere, and not just blindly. I take the best, get rid of the rest, and move on, realizing that you can make a choice to take the good.',
-        'Brooke Shields',
-    ],
-    [
-        'Looking good is the best revenge.',
-        'Ivana Trump',
-    ],
-    [
-        'Nations need to understand their own strengths and weaknesses, and India\'s tradition of dissent and democratic debate is a positive aspect.',
-        'Rosabeth Moss Kanter',
-    ],
-    [
-        'I cry if something bad happens. I grab a drink with friends when I get stressed out. I travel. I sometimes lash out at my closest friends.',
-        'Song Hye-kyo',
-    ],
-    [
-        'I think acting is about forgetting yourself in order to give the best of yourself. It\'s passing through you more than you\'re creating it. You\'re not the flower, but the vase which holds the flower.',
-        'Juliette Binoche',
-    ],
-    [
-        'A smile is a light in the window of your face to show your heart is at home.',
-        '',
-    ],
-    [
-        'I believe in karma, and I believe if you put out positive vibes to everybody, that\'s all you\'re going to get back.',
-        'Kesha',
-    ],
-    [
-        'Problems are not stop signs, they are guidelines.',
-        'Robert H. Schuller',
-    ],
-    [
-        'Treat people as if they were what they ought to be and you help them to become what they are capable of being.',
-        'Johann Wolfgang von Goethe',
-    ],
-    [
-        'Family means no one gets left behind or forgotten.',
-        'David Ogden Stiers',
-    ],
-    [
-        'Beauty, whether moral or natural, is felt, more properly than perceived.',
-        'David Hume',
+        'When I was a kid, I never did funny things to get attention. I was never a funny person. I was never, like, \'Oh, wow. I could say this some day on stage.\'',
+        'Steven Wright',
     ],
 ];

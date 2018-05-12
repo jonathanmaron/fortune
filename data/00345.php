@@ -2,103 +2,103 @@
 
 return [
     [
-        'You aren\'t your work, your accomplishments, your possessions, your home, your family... your anything. You\'re a creation of your Source, dressed in a physical human body intended to experience and enjoy life on Earth.',
-        'Wayne Dyer',
+        'I think those who invest in mutual funds want someone else to do the thinking for them. But the fact that they can move the money around the family of mutual funds just through a phone call lets them feel that they can play tycoons.',
+        'Ron Chernow',
     ],
     [
-        'I never drink water because of the disgusting things that fish do in it.',
+        'A day of worry is more exhausting than a day of work.',
+        'John Lubbock',
+    ],
+    [
+        'Do not wait to strike till the iron is hot; but make it hot by striking.',
+        'William Butler Yeats',
+    ],
+    [
+        'I believe that the best cameraman is one who recognizes the source, the story, as the basis of his work.',
+        'James Wong Howe',
+    ],
+    [
+        'The World Cup tournament overall and, naturally, the new stadiums at its heart, are the ideal platform to portray Germany as a positive and exceptional location, and above all of course, as a highly capable economic location.',
+        'Franz Beckenbauer',
+    ],
+    [
+        'I\'m fascinated with being able to travel the world via \'Instagram\' and just be somewhere different.',
+        'Mike Krieger',
+    ],
+    [
+        'I would say I\'m a nice person, and I take pride in the fact that I treat everyone really well, so there\'s no reason for anyone to ever come at me because I only want the best for everybody else.',
+        'Miley Cyrus',
+    ],
+    [
+        'In my whole career, I\'ve never seen this type of race that you had to wait for the last day. There\'s so many teams that are involved. You\'ve got to smile because we\'re in it.',
+        'David Wells',
+    ],
+    [
+        'Life experience is what defines our character, even if it means getting your heart broken or being lied to. You know, you need the downs to appreciate the ups. Going on the adventure or taking that risk is important.',
+        'Victor Hugo',
+    ],
+    [
+        'Reading - the best state yet to keep absolute loneliness at bay.',
+        'William Styron',
+    ],
+    [
+        'Nature is at work. Character and destiny are her handiwork. She gives us love and hate, jealousy and reverence. All that is ours is the power to choose which impulse we shall follow.',
+        'David Seabury',
+    ],
+    [
+        'Life is what you make of it. Always has been, always will be.',
+        'Grandma Moses',
+    ],
+    [
+        'I get nostalgic for British negativity. There is an inherent hope and positive drive to New Yorkers. When you go back to Britain, everybody is just running everything down. It\'s like whatever the opposite of a hug is.',
+        'John Oliver',
+    ],
+    [
+        'To me, the word \'hero\' hasn\'t got positive or negative value - \'hero\' is the person who leads you through the story.',
+        'Pierfrancesco Favino',
+    ],
+    [
+        'Fear is a darkroom where negatives develop.',
+        'Usman Asif',
+    ],
+    [
+        'I\'ve played a ghost, cat, snake. I\'ve been funny, sad. I\'ve been filmed flying on screen. So why not spend time on something else? I don\'t need to accept everything I\'m offered.',
+        'Maggie Cheung',
+    ],
+    [
+        'Proving I\'m a good mother is the one achievement I\'m most proud of. It\'s brought out the best in me.',
+        'Sheena Easton',
+    ],
+    [
+        'To refrain from imitation is the best revenge.',
+        'Marcus Aurelius',
+    ],
+    [
+        'And I like the look on people\'s faces when I say I\'m doing this movie called Pride and Prejudice and they kind of smile, and then I say I\'m in a movie called Doom and they kind of do a double take and try and put the two things together. And they never quite manage to.',
+        'Rosamund Pike',
+    ],
+    [
+        'For my part I know nothing with any certainty, but the sight of the stars makes me dream.',
+        'Vincent Van Gogh',
+    ],
+    [
+        'You may only be someone in the world, but to someone else, you may be the world.',
         'Unknown',
     ],
     [
-        'Teamwork makes the dream work, but a vision becomes a nightmare when the leader has a big dream and a bad team.',
-        'John C. Maxwell',
+        'I don\'t mean to be funny.',
+        'Yogi Berra',
     ],
     [
-        'I have been honoured to serve the whales, dolphins, seals - and all the other creatures on this Earth. Their beauty, intelligence, strength, and spirit have inspired me.',
-        'Paul Watson',
+        'You\'ve got a movie where the pro-choice family gives their daughter no choice. The pro-life family murders. What seems to be the good mother, the kind of hippie painter, sweet and cute mother has no love for her daughter really.',
+        'Ellen Barkin',
     ],
     [
-        'If you show emotion in competition, temporarily, you\'ll be ineffective. If you\'re disciplined enough, you don\'t get down when you\'re behind, and you have a chance to create something positive.',
-        'Tom Landry',
+        'The best way to learn is by doing. The only way to build a strong work ethic is getting your hands dirty.',
+        'Alex Spanos',
     ],
     [
-        'What after all, is a halo? It\'s only one more thing to keep clean.',
-        'Christopher Fry',
-    ],
-    [
-        'I believe that when you work on yourself, you are attracted by different, more positive beings.',
-        'Isabelle Adjani',
-    ],
-    [
-        'Everybody loves success, but they hate successful people.',
-        'John McEnroe',
-    ],
-    [
-        'I\'m not trying to win an award for being the best vegetarian, just want to be healthy. Take a salt bath. Do things that my parents were never able to do. I\'m blessed to do anything I want, so I decide to take the best care of my body and my family in the same way. Holistically. Vitally.',
-        'Erykah Badu',
-    ],
-    [
-        'I think it\'s really important to use your hands and get close to materials. To be up close to real things like rain and mud; to have contact with nature.',
-        'Robin Day',
-    ],
-    [
-        'The expert in anything was once a beginner.',
-        'Anonymous',
-    ],
-    [
-        'To free us from the expectations of others, to give us back to ourselves, there lies the great, singular power of self-respect.',
-        'Joan Didion',
-    ],
-    [
-        'Put your future in good hands : your own.',
-        '',
-    ],
-    [
-        'Wherever you are - be all there.',
-        'Jim Elliot',
-    ],
-    [
-        'The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.',
-        'Thomas Edison',
-    ],
-    [
-        'I play guys who never smile, and I never stop smiling.',
-        'Michael Joseph Kelly',
-    ],
-    [
-        'Hard work always pays off, whatever you do.',
-        'Dustin Lynch',
-    ],
-    [
-        'Those that know, do. Those that understand, teach.',
-        'Aristotle',
-    ],
-    [
-        'If the graves of the thousands of victims who have fallen in the terrible wars of the two races had been placed in line the philanthropist might travel from the Atlantic to the Pacific, and from the Lakes to the Gulf, and be constantly in sight of green mounds.',
-        'Nelson A. Miles',
-    ],
-    [
-        'The secret to happiness is freedom. And the secret to freedom is courage.',
-        'Thucydides',
-    ],
-    [
-        'There is no definition of beauty, but when you can see someone\'s spirit coming through, something unexplainable, that\'s beautiful to me.',
-        'Liv Tyler',
-    ],
-    [
-        'A goal is not always meant to be reached; it often serves simply as something to aim at.',
-        'Bruce Lee',
-    ],
-    [
-        'The death penalty is ineffective as a deterrent, and the appeals process is expensive and cruel to the surviving family members.',
-        'Martin O\'Malley',
-    ],
-    [
-        'Funny is an attitude.',
-        'Flip Wilson',
-    ],
-    [
-        'You never lose a dream. It just incubates as a hobby.',
-        'Larry Page',
+        'Is it right to probe so deeply into Nature\'s secrets? The question must here be raised whether it will benefit mankind, or whether the knowledge will be harmful.',
+        'Pierre Curie',
     ],
 ];

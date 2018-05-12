@@ -2,103 +2,103 @@
 
 return [
     [
-        'Don\'t ruin the present with the ruined past.',
-        'Ellen Gilchrist',
+        'We knew sports was important to us and our family, but there are priorities in life.Obviously, faith is foremost; how we did in school is important. If we didn\'t handle that business then there were no privileges.',
+        'Stephen Curry',
     ],
     [
-        'I don\'t rely on feng shui. I believe hard work brings us good luck and success.',
-        'John Gokongwei',
+        'Only the educated are free.',
+        'Epictetus',
     ],
     [
-        'I did not have three thousand pairs of shoes, I had one thousand and sixty.',
-        'Imelda Marcos',
+        'People grow when they are loved well. If you want to help others heal, love them without an agenda.',
+        'Mike McHargue',
     ],
     [
-        'At the time I was arrested I had no idea it would turn into this. It was just a day like any other day. The only thing that made it significant was that the masses of the people joined in.',
-        'Rosa Parks',
+        'The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.',
+        'Charles Darwin',
     ],
     [
-        'Instant gratification takes too long.',
-        'Carrie Fisher',
+        'Never put off till tomorrow what you can do today.',
+        'Thomas Jefferson',
     ],
     [
-        'Happy is said to be the family which can eat onions together. They are, for the time being, separate, from the world, and have a harmony of aspiration.',
-        'Charles Dudley Warner',
+        'Even Napoleon had his Watergate.',
+        'Yogi Berra',
     ],
     [
-        'You know, I\'m just a very boring, not very funny person in person. I don\'t feel pressured to be otherwise.',
-        'Lorrie Moore',
+        'You can do what\'s reasonable or you can decide what\'s possible.',
+        'Unknown',
     ],
     [
-        'If biking is your passion, set aside time to enjoy a good ride.',
-        'Patrick Dempsey',
+        'It\'s the right idea, but not the right time.',
+        'John Dalton',
     ],
     [
-        'I put instant coffee in a microwave oven and almost went back in time.',
-        'Steven Wright',
+        'I want to be a positive influence. I want to be someone who they want to call in and want here consistently, regardless of my role.',
+        'Landon Donovan',
     ],
     [
-        'Breathing in, I am aware of my heart. Breathing out, I smile to my heart and know that my heart still functions normally. I feel grateful for my heart.',
-        'Nhat Hanh',
+        'Follow your passion, be prepared to work hard and sacrifice, and, above all, don\'t let anyone limit your dreams.',
+        'Donovan Bailey',
     ],
     [
-        'It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.',
-        'Edward de Bono',
+        'You\'re not a product of your nature. That is your genetic makeup or your nurture, the things that have happened to you. Of course those things affect you powerfully, but they do not determine you.',
+        'Stephen Covey',
+    ],
+    [
+        'There is no right time and right place for love... it can happen any time.',
+        'Shah Rukh Khan',
+    ],
+    [
+        'I believe the wedding vows are sacred and precious, and it\'s been one of my goals as a writer to portray the kind of marriages I\'ve seen modeled in my family - my parents and grandparents, who all celebrated fifty-year anniversaries and well-beyond.',
+        'Deborah Raney',
+    ],
+    [
+        'Imagination is the living power and prime agent of all human perception.',
+        'Samuel Taylor Coleridge',
+    ],
+    [
+        'Failure is a part of success.',
+        'Hank Aaron',
+    ],
+    [
+        'The achievement is appreciation. Your ability to be surprised and awed by beauty!',
+        'William Hurt',
+    ],
+    [
+        'There are two ways to extend a business. Take inventory of what you\'re good at and extend out from your skills. Or determine what your customers need and work backward, even if it requires learning new skills. Kindle is an example of working backward.',
+        'Jeff Bezos',
+    ],
+    [
+        'I am Classic Rock Revisited. I revisit it every waking moment of my life because it has the spirit and the attitude and the fire and the middle finger. I am Rosa Parks with a Gibson guitar.',
+        'Ted Nugent',
+    ],
+    [
+        'Try and fail, but don\'t fail to try.',
+        'Stephen Kaggwa',
+    ],
+    [
+        'Modeling is an incredible job for a girl if she approaches it with her head on her shoulders. You travel, you speak to people, and it opens your mind to different things.',
+        'Anja Rubik',
+    ],
+    [
+        'Form must have a content, and that content must be linked with nature.',
+        'Alvar Aalto',
+    ],
+    [
+        'Think as a wise man but communicate in the language of the people.',
+        'William Yeats',
     ],
     [
         'It is not in the stars to hold our destiny but in ourselves.',
         'William Shakespeare',
     ],
     [
-        'Disasters happen. We still have no way to eliminate earthquakes, wildfires, hurricanes, floods or droughts. We cope as best we can by fortifying ourselves against danger with building codes and levees, and by setting aside money to clean up afterwards.',
-        'Seth Shostak',
+        'Far away there in the sunshine are my highest aspirations. I may not reach them, but I can look up and see their beauty, believe in them, and try to follow where they lead.',
+        'Louisa May Alcott',
     ],
     [
-        'The experience of being in the Army changed my whole life; I never believed that an organization such as ours could ever go to war, leave alone win it. It was, as Yeats remarked of the Easter Rising, \'A terrible beauty.\'',
-        'Spike Milligan',
-    ],
-    [
-        'Restore human legs as a means of travel. Pedestrians rely on food for fuel and need no special parking facilities.',
-        'Lewis Mumford',
-    ],
-    [
-        'My advice to young wrestlers is that your surroundings really make a difference. You want to put yourself in good, positive surroundings.',
-        'Dan Gable',
-    ],
-    [
-        'The whole beauty of music is that it goes where your words won\'t let you.',
-        'Anne Hathaway',
-    ],
-    [
-        'Strangely, nothing makes me feel tired, fatigued, at all. I\'ve gone days and nights without sleep, and still the mind is in such a positive space it just doesn\'t make you feel fatigued.',
-        'Aishwarya Rai Bachchan',
-    ],
-    [
-        'My childhood was protected by love and a comfortable home. Yet, while still a very young child, I began instinctively to feel that there was something lacking, even in my own home, some false conception of family relations, some incomplete ideal.',
-        'Emmeline Pankhurst',
-    ],
-    [
-        'Make it a habit to tell people thank you. To express your appreciation, sincerely and without the expectation of anything in return. Truly appreciate those around you, and you\'ll soon find many others around you. Truly appreciate life, and you\'ll find that you have more of it.',
-        'Thomas Paine',
-    ],
-    [
-        'For life and death are one, even as the river and the sea are one.',
-        'Baruch Spinoza',
-    ],
-    [
-        'Careers, like rockets, don\'t always take off on time. The trick is to always keep the engine running.',
-        'Gary Sinise',
-    ],
-    [
-        'Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.',
-        'Sri Chinmoy',
-    ],
-    [
-        'The truth is that when Lennon is Bosephus, she is so mean to me. She can\'t smile because the mustache will come off. So in between takes, it\'s just scowling. And then when we are on camera, Bosephus treats me like a piece of meat. I\'m repulsed and also attracted to it.',
-        'Jessica St. Clair',
-    ],
-    [
-        'To make a prairie it takes a clover and one bee, One clover, and a bee, And revery. The revery alone will do, If bees are few.',
-        'Emily Dickinson',
+        'The four building blocks of the universe are fire, water, gravel and vinyl.',
+        'Dave Barry',
     ],
 ];

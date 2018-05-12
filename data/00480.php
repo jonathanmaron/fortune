@@ -2,103 +2,103 @@
 
 return [
     [
-        'We have to get back to the beauty of just being alive in this present moment.',
-        'Mary McDonnell',
+        'If you find something very difficult to achieve yourself, don\'t imagine it impossible-for anything possible and proper for another person can be achieved as easily by you.',
+        'Marcus Aurelius',
     ],
     [
-        'I used to really love Fiend, but he stopped. He just stopped. Every time he had a project, every project - \'There\'s One In Every Family,\' \'Street Life\' - I had to have them. And he just stopped. And that was disappointing, \'cause that was my favorite rapper at one time.',
-        'Kevin Gates',
+        'If I don\'t need the money, I don\'t work. I\'m going to spend time with my family and friends, and I\'m going to travel and read and listen to music and try to learn a little bit more about how to be a human being, as opposed to learning how to be somebody else.',
+        'James Spader',
     ],
     [
-        'I used to have all these plans and think \'Ah, I have my whole life figured out\', but then I realized no matter how much I plan: life happens! So I find myself living day to day trying to do my best, embracing every moment as a learning opportunity and chance to get to know myself a little more.',
-        'Q\'orianka Kilcher',
+        'I guess when you turn off the main road, you have to be prepared to see some funny houses.',
+        'Stephen King',
     ],
     [
-        'Therefore, when I considered this carefully, the contempt which I had to fear because of the novelty and apparent absurdity of my view, nearly induced me to abandon utterly the work I had begun.',
-        'Nicolaus Copernicus',
+        '...but if a thing is humanly possible, consider it to be within your reach.',
+        'Marcus Aurelius',
     ],
     [
-        'Some of my friends say that I only talk about myself. But it is funny: my house is covered in art but with nothing of my own, and when I\'m working, I\'m only thinking about what the client wants. So I don\'t see it that way, but maybe it\'s true. I mean, they are my friends.',
-        'Mario Testino',
+        'For more and more of us, home has really less to do with a piece of soil than, you could say, with a piece of soul. If somebody suddenly asks me, \'Where\'s your home?\' I think about my sweetheart or my closest friends or the songs that travel with me wherever I happen to be.',
+        'Pico Iyer',
     ],
     [
-        'Keep your eyes on the stars, and your feet on the ground.',
-        'Theodore Roosevelt',
+        'The functions of the family in a highly differentiated society are not to be interpreted as functions directly on behalf of the society, but on behalf of personality.',
+        'Talcott Parsons',
     ],
     [
-        'If you\'re not making some notable mistakes along the way, you\'re certainly not taking enough business and career chances.',
-        'Sallie Krawcheck',
+        'The seventies is what I love. Soft, touchable beauty is what I love.',
+        'Tom Ford',
     ],
     [
-        'The best fiction is geared towards conflict. We learn most about our characters through tension, when they are put up against insurmountable obstacles. This is true in real life.',
-        'Sufjan Stevens',
+        'The purpose of Disneyland is to make people smile.',
+        'Kevin Plank',
     ],
     [
-        'Don\'t walk through life just playing football. Don\'t walk through life just being an athlete. Athletics will fade. Character and integrity and really making an impact on someone\'s life, that\'s the ultimate vision, that\'s the ultimate goal - bottom line.',
-        'Albert Einstein',
+        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
+        'Rowan Atkinson',
     ],
     [
-        'I knew, of course, that trees and plants had roots, stems, bark, branches and foliage that reached up toward the light. But I was coming to realize that the real magician was light itself.',
-        'Edward Steichen',
+        'It\'s quite funny in that I once won Rear of the Year at my school! I was about 17 in the sixth form and we used to have an end of year celebration and give out different awards. I even got a little trophy!',
+        'Jessica Ennis',
     ],
     [
-        'If you\'re not having a good time, find something else that gives you some joy in life.',
-        'Penny Marshall',
+        'Just be yourself. Be honest, work towards a goal, and you\'ll achieve it.',
+        'Emraan Hashmi',
     ],
     [
-        'I demand a lot from myself and reflect this attitude upon others: I consider it to be an important quality for a leader. I also think it is impossible to achieve success without persistence.',
-        'Yelena Baturina',
-    ],
-    [
-        'Fragrance takes you on a journey of time. You can walk down the street and pass someone and get taken back 20 years. It\'s very Proustian that way.',
-        'Daphne Guinness',
-    ],
-    [
-        'The secret of our success is that we never, never give up.',
-        'Wilma Mankiller',
-    ],
-    [
-        'I work to stay alive.',
-        'Bette Davis',
-    ],
-    [
-        'Life is a succession of moments, to live each one is to succeed.',
-        'Eckhart Tolle',
-    ],
-    [
-        'Every video I make, I want to make sure that it\'s doing something entertaining or hopefully inspiring or maybe teaching somebody something or sharing my mistakes so that they can learn from them or anything that will make a positive impact in the world.',
-        'Tyler Oakley',
-    ],
-    [
-        'When someone asks, \'Does success make you into a monster?\' I always say, \'No, it enables you to be a monster.\'',
-        'Simon Cowell',
-    ],
-    [
-        'Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder.',
+        'If you want to achieve greatness stop asking for permission.',
         'Unknown',
     ],
     [
-        'Time flies really quickly. It feels like only a few months ago that I was traded over here and started my career as a Cub in 2013.',
-        'Jake Arrieta',
+        'My family is no different from yours. We may be different from the geography that we come from. Some of you all may pray differently than I do, some of you all may be from a different ethnicity, but we all have the same story.',
+        'Cory Booker',
     ],
     [
-        'I\'m from a nice, suburban, middle-class family, but my tattoos remind me where I\'ve been.',
-        'Tom Hardy',
+        'Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.',
+        'Johann Wolfgang von Goethe',
     ],
     [
-        'Kids go to school and college and get through, but they don\'t seem to really care about using their minds. School doesn\'t have the kind of long term positive impact that it should.',
-        'Howard Gardner',
+        'Is there any possibility of giving international air travel, which we all need and use and hate, a touch of glamour, or even of reliable, soulless efficiency? I suspect future historians will puzzle over our failure. But by then, of course, we shall be in the age of mass space travel, with its fresh and unimaginable crop of horrors.',
+        'Paul Johnson',
     ],
     [
-        'Nothing. We\'re all friends and friendly. So when the cameras go down, depending on the mood or the nature of the material we\'re dealing with, there\'s usually a kind of a prevailing light attitude that\'s floating around.',
-        'Richard Dean Anderson',
+        'It\'s also a question of finding good material and interesting roles. I\'m not the only actress out there, and good parts just don\'t fall into your lap that easily. But I like most of the films I\'ve made recently and so I\'m pretty positive about the future.',
+        'Winona Ryder',
     ],
     [
-        'Sadness may be part of life but there is no need to let it dominate your entire life.',
-        'Byron Pulsifer',
+        'Children have adopted a consumerist attitude - I dare you to entertain me.',
+        'Walter Dean Myers',
     ],
     [
-        'The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted.',
-        'Aesop',
+        'Nothing strengthens authority so much as silence.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'I really struggle with that feeling of helplessness. That\'s why I really try to get my blogs, and even myself, to point to the positive and look at all the inspiring things that are happening.',
+        'Daryl Hannah',
+    ],
+    [
+        'The drawings in \'Portal\' were actually me scribbling that stuff... I had a funny moment when I realized that someone gotten \'The cake is a lie\' tattooed on themselves. It was really interesting to see my handwriting tattooed on another human being. That... that\'s odd.',
+        'Kim Swift',
+    ],
+    [
+        'The Negro race, like all races, is going to be saved by its exceptional men. The problem of education, then, among Negroes must first of all deal with the Talented Tenth; it is the problem of developing the Best of this race that they may guide the Mass away from the contamination and death of the Worst, in their own and other races.',
+        'W. E. B. Du Bois',
+    ],
+    [
+        'The greenest home is the one you don\'t build. If you really want to save the Earth, move in with another family and share a house that\'s already built. Better yet, live in the forest and eat whatever the squirrels don\'t want.',
+        'Scott Adams',
+    ],
+    [
+        'I can only do something that my sister or my daughter, if I have one, could watch and feel positive about.',
+        'Romola Garai',
+    ],
+    [
+        'All blame is a waste of time. No matter how much fault you find with another, and regardless of how much you blame him, it will not change you. The only thing blame does is to keep the focus off you when you are looking for... reasons to explain your unhappiness or frustration.',
+        'Casey Stengel',
+    ],
+    [
+        'I am not someone who is ashamed of my past. I\'m actually really proud. I know I made a lot of mistakes, but they, in turn, were my life lessons.',
+        'Jessica White',
     ],
 ];

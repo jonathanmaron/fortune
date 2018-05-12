@@ -2,103 +2,103 @@
 
 return [
     [
-        'Stop being a critic and be a light; don\'t be a judge, be a model. I think we are far too critical. I think the best way to correct behavior is to accentuate and affirm positive behavior and to ignore negative behavior. Generally speaking, there is a time to correct, of course; but my biggest advice would be, \'Affirm your child.\'',
-        'Sean Covey',
+        'My favorite spot is the Maldives. Since I travel so much for work, I like to go to places that are very secluded and quiet.',
+        'Irina Shayk',
     ],
     [
-        'How goodness heightens beauty!',
-        'Milan Kundera',
+        'It is not what he has, or even what he does which expresses the worth of a man, but what he is.',
+        "Henri-Fr\u{e9}d\u{e9}ric Amiel",
     ],
     [
-        'You lose attitude when you feel too comfortable, so I prefer to wear clothes that have a certain edge to them.',
-        'Carine Roitfeld',
+        'I appreciate simplicity, true beauty that lasts over time, and a little wit and eclecticism that make life more fun.',
+        'Elliott Erwitt',
     ],
     [
-        'Do your damnedest in an ostentatious manner all the time.',
-        'George S. Patton',
+        'If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.',
+        'Colin Powell',
     ],
     [
-        'A woodland in full color is awesome as a forest fire, in magnitude at least, but a single tree is like a dancing tongue of flame to warm the heart.',
-        'Hal Borland',
+        'When you love someone, the best thing you can offer is your presence. How can you love if you are not there?',
+        'Thich Nhat Hanh',
     ],
     [
-        'There are so many funny women in the world, and there has been for so many years, so I\'ll be happy when people can just move on from that, and things can just be \'comedies\' and not \'female\' or \'male,\' and everyone gets an equal opportunity.',
-        'Kristen Wiig',
+        'Let me smile with the wise, and feed with the rich.',
+        'Samuel Johnson',
     ],
     [
-        'Consider how hard it is to change yourself and you\'ll understand what little chance you have in trying to change others.',
-        'Jacob Braude',
+        'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
+        'Smokey Robinson',
     ],
     [
-        'Throughout life people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.',
-        'Will Smith',
+        'People need to be made more aware of the need to work at learning how to live because life is so quick and sometimes it goes away too quickly.',
+        'Andy Warhol',
     ],
     [
-        'Some people are drawn naturally - there are natural guitarists, and there are natural piano players, and I think guitar implies travel, a sort of footloose gypsy existence. You grab your bag and you go to the next town.',
-        'Hugh Laurie',
+        'In the end, you make your reputation and you have your success based upon credibility and being able to provide people who are really hungry for information what they want.',
+        'Brit Hume',
     ],
     [
-        'I was born in 1950, so there were tons of Westerns on TV by the time I was 6, 7, 8 years old. In terms of television, \'Maverick\' and \'Have Gun - Will Travel.\' But filmically, classics like \'High Noon\' and \'The Man Who Shot Liberty Valance\' - that\'s one of my favorite films.',
-        'Ed Harris',
+        'Set yourself earnestly to see what you are made to do, and then set yourself earnestly to do it.',
+        'Phillips Brooks',
     ],
     [
-        'I\'m a forgiver. I might not forget, but I forgive. My mother, father and older brother always told me: \'Don\'t hold grudges. If you do that, you don\'t lower yourself down to your adversary. Just treat people the way you want to be treated.\' I honestly think that\'s why I was able to survive and have some success.',
-        'Monte Irvin',
+        'It is possible to commit no mistakes and still lose. That is not a weakness; that is life.',
+        'Jean Luc Picard',
     ],
     [
-        'Attitude and enthusiasm play a big part in my life. I get excited about the things that inspire me. I also believe in laughing and having a good time.',
-        'Dwayne Johnson',
+        'Be here now. Be someplace else later. Is that so complicated?',
+        'David Bader',
     ],
     [
-        'The time is always right to do what is right.',
-        'Martin Luther King, Jr.',
+        'Success is the one unpardonable sin against our fellows.',
+        'Ambrose Bierce',
     ],
     [
-        'Be gentle first with yourself if you wish to be gentle with others.',
-        'Lama Yeshe',
+        'The key thing about wealth in a capitalist economy is that it reproduces itself and usually earns a positive net return.',
+        'Robert Solow',
     ],
     [
-        'When you walk into a room, a healthy, beautiful smile is incredibly important.',
-        'Susan Anton',
+        'You can\'t please everyone, and you have to trust your instincts, and you have to do your work and throw yourself in there and trust your instincts, and just trust that you\'re doing a good job that I can be proud of as well.',
+        'Matt Ryan',
     ],
     [
-        'Smiles come naturally to me, but I started thinking of them as an art form at my command. I studied all the time. I looked at magazines, I\'d practice in front of the mirror and I\'d ask photographers about the best angles. I can now pull out a smile at will.',
-        'Tyra Banks',
+        'Think for yourselves and let others enjoy the privilege to do so too.',
+        'Voltaire',
     ],
     [
-        'It\'s funny: I was a photographer before I was a programmer.',
-        'Kevin Systrom',
+        'Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.',
+        'Lao Tzu',
     ],
     [
-        'One needs more than ambition and talent to make a success of anything, really. There must be love and a vocation.',
-        'Jessye Norman',
+        'Success is the American Dream. And that success is not something to be ashamed of, or to demonize.',
+        'Susana Martinez',
     ],
     [
-        'The best way to predict your future is to create it.',
-        'Peter Drucker',
+        'The appreciative smile, the chuckle, the soundless mirth, so important to the success of comedy, cannot be understood unless one sits among the audience and feels the warmth created by the quality of laughter that the audience takes home with it.',
+        'James Thurber',
     ],
     [
-        'Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.',
+        'Adversity isn\'t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.',
+        'Byron Pulsifer',
+    ],
+    [
+        'Genuine sincerity opens people\'s hearts, while manipulation causes them to close.',
+        'Daisaku Ikeda',
+    ],
+    [
+        'As soon as beauty is sought not from religion and love, but for pleasure, it degrades the seeker.',
+        'Annie Dillard',
+    ],
+    [
+        'I think hearts are very much like glasses. If they do not break with the first ring, they usually last a considerable time.',
+        'Letitia Elizabeth Landon',
+    ],
+    [
+        'Noble deeds that are concealed are most esteemed.',
         'Blaise Pascal',
     ],
     [
-        'You\'re not gonna get through life without being worshipful or devoted to something. You\'re either devoted to your job, or to your desires. So the best way to spend your life is to try to be devoted to prayer, to Allah.',
-        'Mos Def',
-    ],
-    [
-        'We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.',
-        'Jim Rohn',
-    ],
-    [
-        'The road leading to a goal does not separate you from the destination; it is essentially a part of it.',
-        'Charles DeLint',
-    ],
-    [
-        'Forty for you, sixty for me. And equal partners we will be.',
-        'Joan Rivers',
-    ],
-    [
-        'You cannot travel the path until you have become the path itself.',
-        'Buddha',
+        'People of mediocre ability sometimes achieve outstanding success because they don\'t know when to quit. Most men succeed because they are determined to.',
+        'George Allen, Sr.',
     ],
 ];

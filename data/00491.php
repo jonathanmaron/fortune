@@ -2,103 +2,103 @@
 
 return [
     [
-        'What man actually needs is not a tensionless state but rather the striving and struggling for some goal worthy of him.',
-        'Viktor Frankl',
+        'I don\'t think anyone has a normal family.',
+        'Edward Furlong',
     ],
     [
-        'For me, running against the Poles and Czechs would be like running against high school kids. And I hate all this gung-ho, run-for-the-red-white-and-blue attitude that the AAU spouts. If that\'s important to some people, fine, more power to \'em. But, damn it, I wish they\'d leave me alone to do what I want to do - run against the best.',
-        'Steve Prefontaine',
+        'There cannot be a crisis next week. My schedule is already full.',
+        'Henry Kissinger',
     ],
     [
-        'It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt',
-        'Mark Twain',
+        'The travel writer seeks the world we have lost - the lost valleys of the imagination.',
+        'Alexander Cockburn',
     ],
     [
-        'Age is not measured by years. Nature does not equally distribute energy. Some people are born old and tired while others are going strong at seventy.',
-        'Dorothy Thompson',
+        'In 1985, I was living with my sister in Virginia, and since I was still in high school, I worked at McDonald\'s to save money to get an abortion. It sounds really terrible, but it was the best decision I ever made. It was the first time I took responsibility for my actions. I messed up, had sex without contraception, and got pregnant at 15.',
+        'Kathleen Hanna',
     ],
     [
-        'So, we just kind of created our own thing and that\'s part of the beauty of Athens: is that it\'s so off the map and there\'s no way you could ever be the East Village or an L.A. scene or a San Francisco scene, that it just became its own thing.',
-        'Michael Stipe',
+        'Cherish your human connections: your relationships with friends and family.',
+        'Joseph Brodsky',
     ],
     [
-        'It is good to realize that if love and peace can prevail on earth, and if we can teach our children to honor nature\'s gifts, the joys and beauties of the outdoors will be here forever.',
-        'Jimmy Carter',
+        'Today, few terrorist organizations still employ the \'al-Qaeda model\' in which individuals travel to terrorist training camps overseas and then are deployed to the West to inflict atrocities.',
+        'Tom Cotton',
     ],
     [
-        'My feelings about my mortality are less selfish than they used to be. I used to affect a cavalier attitude to death; now I see it from my son\'s perspective.',
-        'Rufus Sewell',
+        'The gift of fantasy has meant more to me than my talent for absorbing positive knowledge.',
+        'Albert Einstein',
     ],
     [
-        'We\'ve been surrounded by images of space our whole lives, from the speculative images of science fiction to the inspirational visions of artists to the increasingly beautiful pictures made possible by complex technologies. But whilst we have an overwhelmingly vivid visual understanding of space, we have no sense of what space sounds like.',
-        'Honor Harger',
+        'You fight, you try your best, but if you lose, you don\'t have to break five racquets and smash up the locker room. You can do those things, but when you\'ve finished, nothing\'s changed. You\'ve still lost. If something positive came from that, I probably would do it. But I see only negativity.',
+        'Rafael Nadal',
     ],
     [
-        'I always travel with my bike and it has become a little more difficult to do it nowadays, but I stick it in 3,5 by 6-foot case and wheel that thing in.',
-        'Donny Robinson',
+        'The beauty of independence, departure, actions that rely on themselves.',
+        'Walt Whitman',
     ],
     [
-        'Positive psychology is not remotely intended to replace therapy or pharmacology. So when depressed, anxious or in panic or post-traumatic stress disorder, I am all for therapies that will work. Positive psychology is another arrow in the quiver of public policy and psychology through which we can raise wellbeing above zero.',
-        'Martin Seligman',
+        'Reproach is shame, blame, disgrace, disapproval and a disrespectful attitude toward yourself. When you\'re under reproach, your behavior shows it.',
+        'Joyce Meyer',
     ],
     [
-        'Boy, those French: they have a different word for everything!',
-        'Steve Martin',
+        'If one way be better than another, that you may be sure is nature\'s way.',
+        'Aristotle',
     ],
     [
-        'A lot of America is kind of done. People have been making films about it for 100 years. Everything to me feels used up. But Jo-Burg feels unbelievably inspirational to me.',
-        'Neill Blomkamp',
+        'I believe in Liberty for all men: the space to stretch their arms and their souls, the right to breathe and the right to vote, the freedom to choose their friends, enjoy the sunshine, and ride on the railroads, uncursed by color; thinking, dreaming, working as they will in a kingdom of beauty and love.',
+        'W. E. B. Du Bois',
     ],
     [
-        'I can see how you could get dragged into the bad stuff, but I\'ve got good friends around me, good family. I think I\'ve got my head screwed on.',
-        'Harry Styles',
+        'Fatigue is the best pillow.',
+        'Benjamin Franklin',
     ],
     [
-        'A little credulity helps one on through life very smoothly.',
-        'Chuck Schumer',
+        'I love all my fam. I have quite possibly the best dad, mom, and sister in the world.',
+        'Ryan Eggold',
     ],
     [
-        'I come from the slums; I come from a hard background; I come from a poor family; and I was a soldier.',
-        'Michael Caine',
+        'The only thing I can do is fight. Win or lose, I\'m here every damn time.',
+        'Donald Cerrone',
     ],
     [
-        'Timing has always been a key element in my life. I have been blessed to have been in the right place at the right time.',
+        'Leadership to me means duty, honor, country. It means character, and it means listening from time to time.',
+        'George W. Bush',
+    ],
+    [
+        'I can, therefore I am.',
+        'Simone Weil',
+    ],
+    [
+        'I\'ve learned in my life that it\'s important to be able to step outside your comfort zone and be challenged with something you\'re not familiar or accustomed to. That challenge will allow you to see what you can do.',
+        'Henry James',
+    ],
+    [
+        'The privilege I\'ve had as a curator is not just the discovery of new works... but what I\'ve discovered about myself and what I can offer in the space of an exhibition - to talk about beauty, to talk about power, to talk about ourselves, and to talk and speak to each other.',
+        'Thelma Golden',
+    ],
+    [
+        'By refocusing our space program on Mars for America\'s future, we can restore the sense of wonder and adventure in space exploration that we knew in the summer of 1969. We won the moon race; now it\'s time for us to live and work on Mars, first on its moons and then on its surface.',
         'Buzz Aldrin',
     ],
     [
-        'I think there are very few people who have a real style, a real personality, and real beauty.',
-        'Marisa Berenson',
+        'I\'d much rather have sat there and just been a fly on the wall, instead of having to smile at people. I\'d rather have been a waitress. Just gone round and stared at people.',
+        'Jennifer Saunders',
     ],
     [
-        'Much may be done in those little shreds and patches of time which every day produces, and which most men throw away.',
-        'Charles Caleb Colton',
+        'Many years ago, large packs of wolves roamed the countryside in Ukraine, making travel in that part of the world very dangerous. These wolf packs were fearless. They were not intimidated by people nor by any of the weapons available at that time. The only thing that seemed to frighten them was fire.',
+        'Joseph B. Wirthlin',
     ],
     [
-        'It\'s interesting - I always thought when I was doing more melodramatic stuff like \'Everwood\' that the directors were constantly reeling me in and stopping me from being funny.',
-        'Chris Pratt',
+        'I want to put concepts in front of people that make them laugh or smile or even hate what I do. I\'m not interested in just putting clothes in stores.',
+        'Thom Browne',
     ],
     [
-        'Studies have shown that inmate participation in education, vocational and job training, prison work skills development, drug abuse, mental health and other treatment programs, all reduce recidivism, significantly.',
-        'Bobby Scott',
+        'I am not afraid of tomorrow, for I have seen yesterday and I love today!',
+        'William Allen White',
     ],
     [
-        'Do you remember any instance where tyranny was destroyed and freedom established on its ruins, among a people possessing so small a share of virtue and public spirit? I recollect none, and this more than the British arms makes me fearful of final success, without a reform.',
-        'Patrick Henry',
-    ],
-    [
-        'Positive thinking is so firmly enshrined in our culture that knocking it is a little like attacking motherhood or apple pie.',
-        'Srikumar Rao',
-    ],
-    [
-        'When I used to wrestle professionally, I preferred being the bad guy known as \'The Heel;\' you would get to \'work the crowd,\' getting them to hate you and want to see you lose, while the good guy \'Babyface\' would walk in, smile and shake hands with a few kids, and his acting job was done.',
-        'Conan Stevens',
-    ],
-    [
-        'Time spent with cats is never wasted.',
-        'Sigmund Freud',
-    ],
-    [
-        'My life is every moment of my life. It is not a culmination of the past.',
-        'Isaac Asimov',
+        'I play a female Indiana Jones, a professor who hunts down precious objects, like a bowl that belonged to the Buddha. They tailored the role to me: I wanted to be smart, funny, and to kick some ass.',
+        'Tia Carrere',
     ],
 ];

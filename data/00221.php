@@ -2,103 +2,103 @@
 
 return [
     [
-        'We love to be with our family and friends and I can tell you that lots of eating will be involved.',
-        'Julia Barr',
+        'With every experience, you alone are painting your own canvas, thought by thought, choice by choice.',
+        'Oprah Winfrey',
     ],
     [
-        'In the United States, I am a great success, but I am not a celebrity.',
-        'Paulo Coelho',
+        'My journey has been a very fun one because I\'ve chosen to make the best of every challenge that I\'ve had along the way no matter what.',
+        'Ciara',
     ],
     [
-        'No matter who you are, what you\'ve accomplished, what your financial situation is - when you\'re dealing with a parent with Alzheimer\'s, you yourself feel helpless. The parent can\'t work, can\'t live alone, and is totally dependent, like a toddler. As the disease unfolds, you don\'t know what to expect.',
-        'Maria Shriver',
+        'All my life, I have been a positive thinker... I have always been able to survive by telling myself that no matter how bad things are, they will one day be better. And that out of every event - no matter how tragic - one can always find a way to survive and even, perhaps, to be a little bit happy.',
+        'Zsa Zsa Gabor',
     ],
     [
-        'Oh, if I could but live another century and see the fruition of all the work for women! There is so much yet to be done.',
-        'Susan B. Anthony',
+        'Most of the people who act and sing do so for their own pleasure and that of their friends and family.',
+        'Kate Smith',
     ],
     [
-        'A great attitude does much more than turn on the lights in our worlds; it seems to magically connect us to all sorts of serendipitous opportunities that were somehow absent before the change.',
-        'Earl Nightingale',
-    ],
-    [
-        'We live in a culture that\'s been hijacked by the management consultant ethos. We want everything boiled down to a Power Point slide. We want metrics and \'show me the numbers.\' That runs counter to the immensely complex nature of so many social, economic and political problems. You cannot devise an algorithm to fix them.',
-        'Carl Honore',
-    ],
-    [
-        'I gave my life to become the person I am right now. Was it worth it?',
-        'Richard Bach',
-    ],
-    [
-        'The person who makes a success of living is the one who sees his goal steadily and aims for it unswervingly.',
-        'Cecil B. DeMille',
-    ],
-    [
-        'We shall never know all the good that a simple smile can do.',
+        'If you can\'t feed a hundred people, then feed just one.',
         'Mother Teresa',
     ],
     [
-        'So at a time in which the media give the public everything it wants and desires, maybe art should adopt a much more aggressive attitude towards the public. I myself am very much inclined to take this position.',
-        'Thom Mayne',
+        'The only thing I\'m addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent.',
+        'Charlie Sheen',
     ],
     [
-        'Four years of football are calculated to breed in the average man more of the ingredients of success in life than almost any academic course he takes.',
-        'Knute Rockne',
+        'Traveling is seeing; it is the implicit that we travel by.',
+        'Cynthia Ozick',
     ],
     [
-        'One of the things the \'Tao of Travel\' shows is how unforthcoming most travel writers are, how most travelers are. They don\'t tell you who they were traveling with, and they\'re not very reliable about things that happened to them.',
-        'Paul Theroux',
+        'My sculptures cause an uproar, astonishment, and put a smile on your face.',
+        'Florentijn Hofman',
     ],
     [
-        'A minister of Jesus Christ should not be regardless of his attitude. If he is the representative of Jesus Christ, his deportment, his attitude, his gestures, should be of that character which will not strike the beholder with disgust.',
-        'Ellen G. White',
+        'I\'m not a fan of any genre but am a fan of movies that are intelligent and/or funny. That goes across all genres: a horror movie, a zombie movie, alien invaders, chick flick, or raunchy comedy. If it\'s well done, I\'m a fan.',
+        'J. K. Simmons',
     ],
     [
-        'It is better to understand a little than to misunderstand a lot.',
-        'Anatole France',
+        'Perhaps we believe that everything travels by air, or magically and instantaneously like information (which is actually anchored by cables on the seabed), not by hefty ships that travel more slowly than senior citizens drive.',
+        'Rose George',
     ],
     [
-        'I am a Piscean, and they have a lovingly detached attitude towards life.',
-        'Shahid Kapoor',
+        'If we just wanted positive emotions, our species would have died out a long time ago.',
+        'Martin Seligman',
     ],
     [
-        'Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity.',
-        'A. P. J. Abdul Kalam',
+        'The more you travel, the more well-off you\'ll be, I think.',
+        'RJ Mitte',
     ],
     [
-        'I\'ve had a lot of very positive feedback about those stories, and seem to have struck upon something that most people feel. I can also tap dance, and don\'t know many other authors who can.',
-        'Paul Kane',
+        'I tend to be pessimistic about everything: If things seem to be going good, I\'m worried that it\'s going to end; if things are bad, then I\'m worried that it\'s going to be permanent. It\'s not a very comfortable attitude to have all the time.',
+        'Jesse Eisenberg',
     ],
     [
-        'My best friend is the most important girl, outside of family, to me. I met her when I went to college and we bonded immediately. I\'d do anything for her at any time. We phone each other every day.',
-        'Dawn French',
+        'For everything that lives is holy, life delights in life.',
+        'William Blake',
     ],
     [
-        'Everything in excess is opposed to nature.',
-        'Hippocrates',
+        'With the success of a show, you get an opportunity to call attention to things that you believe in.',
+        'Bradley Whitford',
     ],
     [
-        'The greatest development is achieved during the first years of life, and therefore it is then that the greatest care should be taken. If this is done, then the child does not become a burden; he will reveal himself as the greatest marvel of nature.',
-        'Maria Montessori',
+        'Diabetes is an all-too-personal time bomb which can go off today, tomorrow, next year, or 10 years from now - a time bomb affecting millions like me and the children here today.',
+        'Mary Tyler Moore',
     ],
     [
-        'The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don\'t play together, the club won\'t be worth a dime.',
-        'Babe Ruth',
+        'You can have meaning, accomplishment, engagement and good relationships, even if you are dull on the positive affect side.',
+        'Martin Seligman',
     ],
     [
-        'By its very nature the beautiful is isolated from everything else. From beauty no road leads to reality.',
-        'Hannah Arendt',
+        'We\'ve seen over time that countries that have the best economic growth are those that have good governance, and good governance comes from freedom of communication. It comes from ending corruption. It comes from a populace that can go online and say, \'This politician is corrupt, this administrator, or this public official is corrupt.\'',
+        'Ramez Naam',
     ],
     [
-        'Good actions give strength to ourselves and inspire good actions in others.',
-        'Plato',
+        'What can a pencil do for all of us? Amazing things. It can write transcendent poetry, uplifting music, or life-changing equations; it can sketch the future, give life to untold beauty, and communicate the full-force of our love and aspirations.',
+        'Alice Waters',
     ],
     [
-        'With my father and sister being very depressed for most of their lives, it was incumbent on me to try to make them laugh, in this ridiculous way. They were the wittiest people I knew, but to get a smile from them was like winning the lottery.',
-        'Miriam Toews',
+        'Many people say I smile more in Africa than in Sweden.',
+        'Henning Mankell',
     ],
     [
-        '\'Top Gear\' changed people\'s perceptions of me. I\'ve had much more positive responses from my TV appearances than written articles. And I have the weirdest voice.',
-        'James Blunt',
+        'Strength to carry on despite the odds means you have faith in your own abilities and know how.',
+        'Byron Pulsifer',
+    ],
+    [
+        'To get nostalgic about other people\'s music, or even about your own, makes a terrible statement about the condition of your life and your prospects for the future. I have no patience with that kind of attitude, whether it\'s on radio or among friends.',
+        'Neil Peart',
+    ],
+    [
+        'It\'s only when we truly know and understand that we have a limited time on earth - and that we have no way of knowing when our time is up, we will then begin to live each day to the fullest, as if it was the only one we had.',
+        'Elisabeth Kubler-Ross',
+    ],
+    [
+        'To make flexibility work, it is not only necessary to change our attitude about who is a good worker and who is not, but we have to train managers at all levels to recognize the difference between the number of hours worked and the quality of work produced.',
+        'Madeleine M. Kunin',
+    ],
+    [
+        'Good thoughts are no better than good dreams, unless they be executed.',
+        'Ralph Emerson',
     ],
 ];

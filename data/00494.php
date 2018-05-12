@@ -2,103 +2,103 @@
 
 return [
     [
-        'I hope \'The Voice\' has a fifteen-year run, don\'t get me wrong. But I come from nothing, and maybe it\'s the Irish in me, but my attitude is always like, \'They\'ll figure me out soon.\'',
-        'Carson Daly',
-    ],
-    [
-        'The tree that is beside the running water is fresher and gives more fruit.',
-        'Saint Teresa of Avila',
-    ],
-    [
-        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something--your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
-        'Steve Jobs',
-    ],
-    [
-        'It\'s important to travel and move and have a continual set of experiences so you\'ve got more to feed back into your work. For me, it\'s a natural thing.',
-        'Cate Blanchett',
-    ],
-    [
-        'Real success is not, like, materialistic. It\'s being where you want to be when you want to be; just living your life how you feel; having an ultimate goal and being able to accomplish it.',
-        'Lindsey Wixson',
-    ],
-    [
-        'My attitudes have changed, but somebody would have to read all my books to find out how they have.',
-        'Irwin Shaw',
-    ],
-    [
-        'I have looked into your eyes with my eyes. I have put my heart near your heart.',
-        'Pope John XXIII',
-    ],
-    [
-        'Although there may be tragedy in your life, there\'s always a possibility to triumph. It doesn\'t matter who you are, where you come from. The ability to triumph begins with you. Always.',
-        'Oprah Winfrey',
-    ],
-    [
-        'Like beautiful homes, cute babies, or noble careers helping others, books can make us feel like we mean something positive, and in gratitude, we truly love them.',
-        'Nell Zink',
-    ],
-    [
-        'I have always believed, and I still believe, that whatever good or bad fortune may come our way we can always give it meaning and transform it into something of value.',
-        'Hermann Hesse',
-    ],
-    [
-        'We will see that our new attitude toward liquor has been given to us without any thought or effort on our part. It just comes! That is the miracle of it.',
-        'William Griffith Wilson',
-    ],
-    [
-        'You learn so much about yourself as an artist. I never would have thought that I could sing every night, you know? Travel and perform every single night, and travel to another city the next day and do it all over again? You learn a lot of new things about yourself, and you make a lot of connections with people.',
-        'Yuna',
-    ],
-    [
-        'After a lifetime of working, raising families, and contributing to the success of this nation in countless other ways, senior citizens deserve to retire with dignity.',
-        'Charlie Gonzalez',
-    ],
-    [
-        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.',
+        'What we think, we become.',
         'Buddha',
     ],
     [
-        'I have been very blessed in my life and rewarded with good friends and good health. I am grateful and happy to be able to share this.',
+        'When the world becomes a massive mess with nobody at the helm, it\'s time for artists to make their mark.',
+        'Joni Mitchell',
+    ],
+    [
+        'People work better when they know what the goal is and why. It is important that people look forward to coming to work in the morning and enjoy working.',
+        'Elon Musk',
+    ],
+    [
+        'My mother always called me an ugly weed, so I never was aware of anything until I was older. Plain girls should have someone telling them they are beautiful. Sometimes this works miracles.',
+        'Hedy Lamarr',
+    ],
+    [
+        'Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.',
+        'Henry Reed',
+    ],
+    [
+        'We need prisons because there are some hardcore criminals, but I never met a guy who has been in jail that came out with a smile on his face thinking, \'Right, that\'s it - now I am going to be good!\'',
+        'Tahar Rahim',
+    ],
+    [
+        'It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.',
+        'Max Planck',
+    ],
+    [
+        'Some people think it\'s holding that makes one strong, sometimes it\'s letting go.',
         'Unknown',
     ],
     [
-        'By \'justice\', I understand nothing more than that bond which is necessary to keep the interest of individuals united, without which men would return to their original state of barbarity. All punishments which exceed the necessity of preserving this bond are, in their nature, unjust.',
-        'Cesare Beccaria',
+        'Something I\'ve noticed as I get older is that I do think about the future more. It\'s all positive thinking.',
+        'Abbie Cornish',
     ],
     [
-        'The best part about being alone is that you really don\'t have to answer to anybody. You do what you want.',
-        'Justin Timberlake',
+        'The beauty of Captain America is that you didn\'t have to come from a distant planet, like Superman, or he didn\'t have to be born into a family of billionaires like Bruce Wayne. He happened to be in the right place at the right time, and someone gave him a magic potion, and he grew muscles and became a superhero.',
+        'Mark Waid',
     ],
     [
-        'I was not a good-lookin\' girl. I was extremely skinny. I wasn\'t pretty. I wasn\'t cool.',
-        'Celine Dion',
+        'There are some things you learn best in calm, and some in storm.',
+        'Willa Cather',
     ],
     [
-        'The gift of sobriety is clarity and a sense of connection - and travel only enhances that.',
-        'J. Maarten Troost',
+        'The positive aspects of modernity are to be acknowledged unreservedly: we are all grateful for the marvellous possibilities that it has opened up for mankind and for the progress in humanity that has been granted to us.',
+        'Pope Benedict XVI',
     ],
     [
-        'I like my hair long, and I love my bangs. I love them because I can pin them back or keep the fringe with attitude.',
-        'Cassie Steele',
+        'You should also appreciate the goodness around you, and surround yourself with positive people.',
+        'Nadia Comaneci',
     ],
     [
-        'They succeed, because they think they can.',
-        'Virgil',
+        'Personally, I just think rap music is the best thing out there, period. If you look at my deck in my car radio, you\'re always going to find a hip-hop tape; that\'s all I buy, that\'s all I live, that\'s all I listen to, that\'s all I love.',
+        'Eminem',
     ],
     [
-        'It\'s funny, in a way the actor is a writer. It\'s not like the two things are so separate as to be like apples and oranges. The writer and the actor are one.',
-        'Sam Shepard',
+        'Close to a billion people - one-eighth of the world\'s population - still live in hunger. Each year 2 million children die through malnutrition. This is happening at a time when doctors in Britain are warning of the spread of obesity. We are eating too much while others starve.',
+        'Jonathan Sacks',
     ],
     [
-        'Yield to temptation. It may not pass your way again.',
-        'Robert A. Heinlein',
+        'For me, the fall of the Wall came at the exact right time because, I mean, I was 17, basically I hadn\'t missed anything, unlike the generation of my parents, who were deprived of a lot of things. They couldn\'t travel, and they couldn\'t really get ahead in their professional careers. So for me, it was perfect timing.',
+        'Tom Wlaschiha',
     ],
     [
-        'When human judgment and big data intersect there are some funny things that happen.',
-        'Nate Silver',
+        'We are one people with one family. We all live in the same house... and through books, through information, we must find a way to say to people that we must lay down the burden of hate. For hate is too heavy a burden to bear.',
+        'John Lewis',
     ],
     [
-        'We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.',
-        'Sam Keen',
+        'Nothing exists except atoms and empty space; everything else is just opinion.',
+        'Democritus',
+    ],
+    [
+        'My philosophy is it\'s none of my business what people say of me and think of me. I am what I am, and I do what I do. I expect nothing and accept everything. And it makes life so much easier.',
+        'Oscar Wilde',
+    ],
+    [
+        'For me, the most interesting people are ones who often work against their best interests. Bad choices. They go in directions where you go, \'No no no nooo!\' You push away someone who is trying to love you, you hurt someone who\'s trying to get your trust, or you love someone you shouldn\'t.',
+        'Paul Haggis',
+    ],
+    [
+        'Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours.',
+        'Orison Swett Marden',
+    ],
+    [
+        'I\'ve been thinking about disowning some of my genes lately. I have a few healthy, happy, long-living optimists in my family tree - most of them fans of Christian Science founder Mary Baker Eddy, a major champion of positive thinking. But I\'ve got plenty of ancestors who played out more tortured hands.',
+        'Ariel Gore',
+    ],
+    [
+        'I\'m positive and I smile a lot, and I\'m kind of a banana, but serious work just seems to find me, so I\'m not going to argue with it.',
+        'Mireille Enos',
+    ],
+    [
+        'The reason why you know more funny dudes than funny chicks is that dudes are funnier than chicks. If my daughter has a mediocre sense of humor, I\'m just gonna tell her, \'Be a staff writer for a sitcom. Because they\'ll have to hire you, they can\'t really fire you, and you don\'t have to produce that much. It\'ll be awesome.\'',
+        'Adam Carolla',
+    ],
+    [
+        'Beauty is that which is simultaneously attractive and sublime.',
+        'Karl Wilhelm Friedrich Schlegel',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Positive energy is meant to give people confidence and hope, encourage people to love their country, society and life, as well as to pursue nice things. Everything we do is ultimately for the sake of spreading positive energy.',
-        'Lu Wei',
+        'Thanks to malaria elimination efforts in United States in the 1940s, most people in the U.S. today have never had any direct contact with the disease, and most doctors have never seen a case. That success means it\'s easy to have a relaxed attitude about protecting ourselves.',
+        'Tom Frieden',
     ],
     [
-        'I think it\'s important for us as a society to remember that the youth within juvenile justice systems are, most of the time, youths who simply haven\'t had the right mentors and supporters around them - because of circumstances beyond their control.',
-        'Q\'orianka Kilcher',
+        'My fans are honestly so unique and so similar. Wherever I travel, they are so, so different but so the same.',
+        'Lilly Singh',
     ],
     [
-        'There is no science in this world like physics. Nothing comes close to the precision with which physics enables you to understand the world around you. It\'s the laws of physics that allow us to say exactly what time the sun is going to rise. What time the eclipse is going to begin. What time the eclipse is going to end.',
-        'Neil deGrasse Tyson',
+        'Take time to be kind and to say \'thank you.\'',
+        'Zig Ziglar',
     ],
     [
-        'The secret of getting ahead is getting started.',
-        'Mark Twain',
+        'A man can be 43, and people will say, \'Oh, he\'s a cool bachelor, and he just hasn\'t settled down,\' but with a woman, it\'s, \'Oh, she must have really wanted to get married, but she didn\'t.\' I honestly think that attitude is a little bit sexist.',
+        'Heather Graham',
     ],
     [
-        'Kids who are poor often have families that have not really been kept informed about... how important it is to read to your child, to reduce stresses in their life, to use positive incentives and words.',
-        'Geoffrey Canada',
+        'Reality leaves a lot to the imagination.',
+        'John Lennon',
     ],
     [
-        'I\'ve always surrounded myself with funny people.',
-        'Leslie Mann',
+        'Success is a nice by-product but what I really want is work.',
+        'Juliette Lewis',
     ],
     [
-        'When you ain\'t got no money, you gotta get an attitude.',
-        'Richard Pryor',
+        'Every time you tear a leaf off a calendar, you present a new place for new ideas and progress.',
+        'Charles Kettering',
     ],
     [
-        'Noble deeds that are concealed are most esteemed.',
+        'I know the lands are lit, with all the autumn blaze of Goldenrod.',
+        'Helen Hunt Jackson',
+    ],
+    [
+        'Obstacles are those things you see when you take your eyes off the goal.',
+        'Hannah More',
+    ],
+    [
+        'In beauty, there\'s this idea of this perfect picture, and I think, \'How about being present in the now, and a little messy?\'',
+        'Emily Weiss',
+    ],
+    [
+        'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
+        'Gabrielle Aplin',
+    ],
+    [
+        'I\'m really looking forward to seeing what life brings to me.',
+        'Cara Delevingne',
+    ],
+    [
+        'He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.',
+        'Buddha',
+    ],
+    [
+        'Don\'t be afraid to give up the good to go for the great.',
+        'John D. Rockefeller',
+    ],
+    [
+        'Beauty is the lover\'s gift.',
+        'William Congreve',
+    ],
+    [
+        'The best way to destroy the capitalist system is to debauch the currency.',
+        'Vladimir Lenin',
+    ],
+    [
+        'It is not enough to do your best; you must know what to do, and then do your best.',
+        'W. Edwards Deming',
+    ],
+    [
+        'The pilgrim is humble and devout, and human, and charitable, and ready to smile and admire; therefore, he should comprehend the whole of his way, the people in it, and the hills and the clouds, and the habits of the various cities.',
+        'Hilaire Belloc',
+    ],
+    [
+        'In spite of the opinions of certain narrow-minded people, who would shut up the human race upon this globe, as within some magic circle it must never outstep, we shall one day travel to the moon, the planets, and the stars, with the same facility, rapidity, and certainty as we now make the voyage from Liverpool to New York!',
+        'Jules Verne',
+    ],
+    [
+        'Success makes so many people hate you. I wish it wasn\'t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.',
+        'Marilyn Monroe',
+    ],
+    [
+        'We know the truth, not only by the reason, but by the heart.',
         'Blaise Pascal',
     ],
     [
-        'I am very conscious of who I am as an artist and as an inspirational person.',
-        'R. Kelly',
+        'We are taught to consume. And that\'s what we do. But if we realized that there really is no reason to consume, that it\'s just a mind set, that it\'s just an addiction, then we wouldn\'t be out there stepping on people\'s hands climbing the corporate ladder of success.',
+        'River Phoenix',
     ],
     [
-        'I used to work in a fire hydrant factory. You couldn\'t park anywhere near the place.',
-        'Steven Wright',
+        'Our worldly successes cannot be guaranteed, but our ability to achieve spiritual success is entirely up to us, thanks to the grace of God. The best advice I know is to give is to give those worldly things your best but never your all - reserve the ultimate hope for the only one who can grant it.',
+        'Mitt Romney',
     ],
     [
-        'Everything family does is reflection on the other people.',
-        'Kim Kardashian',
+        'The survival of liberty in our land increasingly depends on the success of liberty in other lands. The best hope for peace in our world is the expansion of freedom in all the world.',
+        'Bill Frist',
     ],
     [
-        'As soon as beauty is sought not from religion and love, but for pleasure, it degrades the seeker.',
-        'Annie Dillard',
-    ],
-    [
-        'I don\'t believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.',
-        'Ken Venturi',
-    ],
-    [
-        'Good, better, best. Never let it rest. \'Til your good is better and your better is best.',
-        'St. Jerome',
-    ],
-    [
-        'I started to travel like this at the age of 15 so for me, it\'s normal. Some days you get tired and you feel, \'I want to stay at home a little bit more,\' but it\'s only the moment.',
-        'Rafael Nadal',
-    ],
-    [
-        'At the end of the day, my goal was to be the best hacker.',
-        'Kevin Mitnick',
-    ],
-    [
-        'If you travel around America you see different sections of highways donated by this or that person, and that\'s a slow beginning of what may end up being a situation common in the Third World: some sections of highways in wealthy areas are beautifully maintained and other parts are just dirt-strewn potholes.',
-        'Robert D. Kaplan',
-    ],
-    [
-        'Be different, stand out, and work your butt off.',
-        'Reba McEntire',
-    ],
-    [
-        'I have a boutique in L.A. and travel there frequently. My visits always put me in a good mood. Maybe it\'s all the sunshine. I could totally live in L.A.',
-        'Monika Chiang',
-    ],
-    [
-        'Ultimately, leadership is not about glorious crowning acts. It\'s about keeping your team focused on a goal and motivated to do their best to achieve it, especially when the stakes are high and the consequences really matter. It is about laying the groundwork for others\' success, and then standing back and letting them shine.',
-        'Chris Hadfield',
-    ],
-    [
-        'I\'m not a music lover in the sense that I look for something to have on. I\'ve never had that attitude to music.',
-        'Harrison Birtwistle',
-    ],
-    [
-        'I try to make people smile and dance, not think about things or educate them.',
-        'Norman Cook',
-    ],
-    [
-        'There are millions of Americans outside Washington who are tired of stale political arguments and are moving this country forward. They believe, and I believe, that here in America, our success should depend not on accident of birth, but the strength of our work ethic and the scope of our dreams.',
-        'Barack Obama',
-    ],
-    [
-        'A game one of my sisters will play with me in my first year of being alive is called Good Baby, Bad Baby. This consists of being told I am a good baby until I smile and laugh, then being told I am a bad baby until I burst into tears. This training will stand me in good stead all through my life.',
-        'Ali Smith',
-    ],
-    [
-        'There is no disgrace in working. There was no silver spoon around at the time I was born.',
-        'Anna Held',
+        'Once you have a lot of success, you become a target in many ways.',
+        'Jennifer Lopez',
     ],
 ];

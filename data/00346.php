@@ -2,103 +2,103 @@
 
 return [
     [
-        'I\'d rather try and cram in another two gags than leave a pause to say, \'Hey, wasn\'t that bit funny?\'',
-        'Edgar Wright',
+        'I\'m an algebra liar. I figure two good lies make a positive.',
+        'Tim Allen',
     ],
     [
-        'Over the years, I\'ve become barraged by comments from people, such as, \'Beam me up, Scotty!\' and I became defensive. I felt they were derisive and engendered an attitude. I am grateful for the success, but didn\'t want to be mocked.',
-        'William Shatner',
+        'Physical beauty isn\'t so impressive to me.',
+        'Dita Von Teese',
     ],
     [
-        'Beauty itself is but the sensible image of the Infinite.',
-        'Francis Bacon',
+        'Part of our western outlook stems from the scientific attitude and its method of isolating the parts of a phenomenon in order to analyze them.',
+        'Arthur Erickson',
     ],
     [
-        'Action leads to Attention. that in the short-term releases Rewarding brain chemicals and in the long term improves reproductive success.',
-        'Keith Henson',
+        'I\'m not interested in trying to work on people\'s perceptions. I am who I am, and if you don\'t take the time to learn about that, then your perception is going to be your problem.',
+        'Jim Brown',
     ],
     [
-        'There is a very deep conviction in the heart of the people who work in al-Jazeera that if it changes its editorial line, it will very quickly lose its audience. Al-Jazeera has its own style; it has more than 3,500 employees, and I don\'t think anyone will have the attitude of changing it because they will lose.',
-        'Wadah Khanfar',
+        'I have lived long enough to satisfy both nature and glory.',
+        'Julius Caesar',
     ],
     [
-        'The best way to heal a broken heart, it turns out, is to find a way to move past the hurt.',
-        'Mary Kay Andrews',
+        'I like to post positive content, and I like to try and make people smile. That\'s why those videos are popular. I don\'t fake it.',
+        'Cameron Dallas',
     ],
     [
-        'I think a major element of jetlag is psychological. Nobody ever tells me what time it is at home.',
-        'David Attenborough',
+        'Beauty is in the character of a person. It\'s about having an interesting face and about what\'s inside. Anyone can take a good picture.',
+        'Patrick Demarchelier',
     ],
     [
-        'Fame or perceived success - it all comes from groupthink.',
-        'Chance The Rapper',
+        'You can\'t start a movie by having the attitude that the script is finished, because if you think the script is finished, your movie is finished before the first day of shooting.',
+        'Steven Spielberg',
     ],
     [
-        'Anyone who doesn\'t take truth seriously in small matters cannot be trusted in large ones either.',
-        'Albert Einstein',
+        'Show me one guy or woman as funny as Rodney Dangerfield or as good as George Carlin, Richard Pryor, Bill Cosby, or Joan Rivers. There are a lot of good comics out there, no doubt, but as far as the quality of the comics goes, I think what you have is a bunch of situational comics.',
+        'Chris Rock',
     ],
     [
-        'Trust is not simply a matter of truthfulness, or even constancy. It is also a matter of amity and goodwill. We trust those who have our best interests at heart, and mistrust those who seem deaf to our concerns.',
-        'Gary Hamel',
+        'To change ones life, start immediately, do it flamboyantly, no exceptions.',
+        'William James',
     ],
     [
-        'Thats the risk you take if you change: that people you\'ve been involved with won\'t like the new you. But other people who do will come along.',
-        'Lisa Alther',
+        'I have learned to smile when I wasn\'t happy, to sing when I didn\'t feel like it, and to do things just to please my fans.',
+        'Tionne Watkins',
     ],
     [
-        'I can honestly say that I was never affected by the question of the success of an undertaking. If I felt it was the right thing to do, I was for it regardless of the possible outcome.',
-        'Golda Meir',
+        'Failure is simply the opportunity to begin again, this time more intelligently.',
+        'Henry Ford',
     ],
     [
-        'If we can soften our hearts, and if we can access the pure and simple aspect of our nature, then we can regain the realization that everything we need is already inside us and anything is attainable.',
-        'Yehuda Berg',
+        'The next time you see a spider web, please, pause and look a little closer. You\'ll be seeing one of the most high-performance materials known to man.',
+        'Cheryl Hayashi',
     ],
     [
-        'We should not say that one man\'s hour is worth another man\'s hour, but rather that one man during an hour is worth just as much as another man during an hour. Time is everything, man is nothing: he is at the most time\'s carcass.',
-        'Karl Marx',
+        'Acting helped me as I was growing up. It helped me learn about myself, helped me travel, helped me understand life, express myself, all those wonderful things. So I\'m very, very grateful; it\'s a fun job. It\'s a luxury.',
+        'Angelina Jolie',
     ],
     [
-        'I\'ve always felt that specialization is best left to the insects.',
-        'Gregory Benford',
+        'I used to travel in tennis shoes; I am just not allowed to anymore. I\'m an old hippie from San Francisco.',
+        'Amy Irving',
     ],
     [
-        'Difficulties increase the nearer we get to the goal.',
+        'Don\'t be afraid of failure; be afraid of petty success.',
+        'Maude Adams',
+    ],
+    [
+        'Natural beauty takes at least two hours in front of a mirror.',
+        'Pamela Anderson',
+    ],
+    [
+        'All I know is it destroyed my family, it destroyed my marriage to Sylvester and I will never get over it.',
+        'Brigitte Nielsen',
+    ],
+    [
+        'Perseverance - a lowly virtue whereby mediocrity achieves an inglorious success.',
+        'Ambrose Bierce',
+    ],
+    [
+        'We cannot put off living until we are ready.',
         'Johann Wolfgang von Goethe',
     ],
     [
-        'Immortality may be impossible, but imagine what humanity could learn if we all lived 700 years. We could travel deep into utopia and beyond.',
-        'Gray Scott',
+        'The right of nature... is the liberty each man hath to use his own power, as he will himself, for the preservation of his own nature; that is to say, of his own life.',
+        'Thomas Hobbes',
     ],
     [
-        'Life is what happens while you are busy making other plans.',
-        'Menachem Begin',
+        'Be less curious about people and more curious about ideas.',
+        'Marie Curie',
     ],
     [
-        'While the spoken word can travel faster, you can\'t take it home in your hand. Only the written word can be absorbed wholly at the convenience of the reader.',
-        'Kingman Brewster, Jr.',
+        'Masculinity comes from your look, all the way down to your attitude. It\'s a big part of being a tennis player. Even though tennis is a fairly friendly sport, intimidation is still a big part of it.',
+        'Milos Raonic',
     ],
     [
-        'It is written on the arched sky; it looks out from every star. It is the poetry of Nature; it is that which uplifts the spirit within us.',
-        'John Ruskin',
+        'One of the rewards of success is freedom, the ability to do whatever you like.',
+        'Sting',
     ],
     [
-        'If you could only love enough, you could be the most powerful person in the world.',
-        'Emmet Fox',
-    ],
-    [
-        'Always bear in mind that your own resolution to succeed is more important than any other.',
-        'Abraham Lincoln',
-    ],
-    [
-        'A lot of baby boomers are baby bongers.',
-        'Kevin Nealon',
-    ],
-    [
-        'While human space travel is daunting, machines - with their indefinitely long lifetimes - could travel the galaxy. It might make little difference to them that bridging the distance from one star to the next could take hundreds of thousands of years or more.',
-        'Seth Shostak',
-    ],
-    [
-        'Believe it or not, I have about the same success rate as anyone else. Sometimes you hit, sometimes you miss.',
-        'Seth MacFarlane',
+        'Playing hard to get is not the way to win me over. I\'m definitely more for the girl who can smile and laugh all the time and just have a good time!',
+        'Taylor Lautner',
     ],
 ];

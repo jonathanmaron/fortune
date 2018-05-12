@@ -2,103 +2,103 @@
 
 return [
     [
-        'Your body is the church where Nature asks to be reverenced.',
-        'Marquis de Sade',
+        'This generation... they have a different attitude. Instead of sitting and watching something, they want to be a part of it - they\'re very hedonistic and sensual.',
+        'Steve Wynn',
     ],
     [
-        'I travel so much and am always living out of a suitcase, so my favorite saying is \'Wherever you go, there you are\'. I love it because it\'s reassuring to me that you have to live in the moment wherever you happen to be.',
-        'Jake Shears',
+        'Things do not change; we change.',
+        'Henry Thoreau',
     ],
     [
-        'I believe that we are fundamentally the same and have the same basic potential.',
-        'Dalai Lama',
+        'I know some people will be surprised to hear it, but I\'ve found that my music, whether its blues or rock, or whatever you want to call it, can be channeled into a positive direction that actually helps people.',
+        'Rick Derringer',
     ],
     [
-        'Loyalty to the Nation all the time, loyalty to the Government when it deserves it.',
-        'Mark Twain',
+        'I want always to be positive.',
+        'Gianni Versace',
     ],
     [
-        'I like to help women help themselves, as that is, in my opinion, the best way to settle the woman question. Whatever we can do and do well we have a right to, and I don\'t think any one will deny us.',
-        'Louisa May Alcott',
+        'The greatest gift of all time is that you can make creation infectious because people spend less time being negative... If you log all the time with negativity in the while world, I wonder how much better the world would be if people sat down and did something positive. It spirals.',
+        'Skrillex',
     ],
     [
-        'I believe in Karma. If the good is sown, the good is collected. When positive things are made, that returns well.',
-        'Yannick Noah',
+        'I love my brothers\' kids. It\'s funny - as an uncle, you become so protective of them.',
+        'Liam Hemsworth',
     ],
     [
-        'Life is measured in love and positive contributions and moments of grace.',
-        'Carly Fiorina',
+        'True, when you behold Damascus from the Salahiyeh, the last slope of the Anti-Lebanon, it is the realization of all that you have dreamed of Oriental splendor; the world has no picture more dazzling. It is Beauty carried to the Sublime, as I have felt when overlooking some boundless forest of palms within the tropics.',
+        'Bayard Taylor',
     ],
     [
-        'Women now have choices. They can be married, not married, have a job, not have a job, be married with children, unmarried with children. Men have the same choice we\'ve always had: work, or prison.',
-        'Tim Allen',
+        'The energy of the mind is the essence of life.',
+        'Aristotle',
     ],
     [
-        'Be positive and laugh at everything.',
-        'Alexandra Roach',
+        'Being in love is the best thing in my life.',
+        'Olivia Newton-John',
     ],
     [
-        'A complainer is like a Death Eater because there\'s a suction of negative energy. You can catch a great attitude from great people.',
-        'Barbara Corcoran',
+        'The good life is a process, not a state of being. It is a direction not a destination.',
+        'Ryan Howard',
     ],
     [
-        'Success breeds complacency. Complacency breeds failure. Only the paranoid survive.',
-        'Andy Grove',
+        'The beauty of an art project is that you cannot always measure the impact, but one day it can become clear.',
+        'JR',
     ],
     [
-        'Everything in the universe goes by indirection. There are no straight lines.',
-        'Ralph Emerson',
+        'I like girls that have a nice smile and nice eyes. I want to date a girl who understands my busy schedule and that I have to be on tour a lot. And she has to make me laugh!',
+        'Austin Mahone',
     ],
     [
-        'The warrior may fight for gold or for an immediate gain, or for something to take home for the winter to feed the family. The soldier is part of a more complex society. He\'s fighting for a group ethic of some sort.',
-        'C. J. Cherryh',
+        'I have a family, loving aunts, and a good home. No, on the surface I seem to have everything except my one true friend. All I think about when I\'m with friends is having a good time. I can\'t bring myself to talk about anything but ordinary everyday things. We don\'t seem to be able to get any closer, and that\'s the problem.',
+        'Anne Frank',
     ],
     [
-        'In a great many stories that deal with time travel, there\'s usually somebody who knows how time travel works. They lay out the rules.',
-        'Diana Galbadon',
+        'Hitch your wagon to a star.',
+        'Ralph Waldo Emerson',
     ],
     [
-        'Women, by their nature, are not exceptional chess players: they are not great fighters.',
-        'Garry Kasparov',
+        'I cook with wine, sometimes I even add it to the food.',
+        'W. C. Fields',
     ],
     [
-        'When you go in search of honey you must expect to be stung by bees.',
-        'Joseph Joubert',
+        'We all become great explorers during our first few days in a new city, or a new love affair.',
+        'Mignon McLaughlin',
     ],
     [
-        'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
+        'Were I called on to define, very briefly, the term Art, I should call it \'the reproduction of what the Senses perceive in Nature through the veil of the soul.\' The mere imitation, however accurate, of what is in Nature, entitles no man to the sacred name of \'Artist.\'',
+        'Edgar Allan Poe',
+    ],
+    [
+        'But I want people to understand that poker\'s not all glamorous, it\'s not all being on TV and making tons of money. It\'s a hard life. It\'s a lot of travel. It\'s a lot of weird hours.',
+        'Chris Moneymaker',
+    ],
+    [
+        'The Dolls were an attitude. If nothing else they were a great attitude.',
+        'Johnny Thunders',
+    ],
+    [
+        'This was nostalgia in the literal Greek sense: the pain of not being able to return to one\'s home and family.',
+        'John Thorn',
+    ],
+    [
+        'Denmark is like a big family of people.',
+        'Susanne Bier',
+    ],
+    [
+        'I love life because what more is there?',
         'Albert Einstein',
     ],
     [
-        'Success is about dedication. You may not be where you want to be or do what you want to do when you\'re on the journey. But you\'ve got to be willing to have vision and foresight that leads you to an incredible end.',
-        'Usher',
+        'Regardless of who wins, an election should be a time for optimism and fresh approaches.',
+        'Gary Johnson',
     ],
     [
-        'I am happy to continue with my journey through time.',
-        'Mary, Crown Princess of Denmark',
+        'Luck is where opportunity meets preparation.',
+        'Seneca',
     ],
     [
-        'We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.',
-        'Uta Hagen',
-    ],
-    [
-        'The secret of my success is a two word answer: Know people.',
-        'Harvey S. Firestone',
-    ],
-    [
-        '\'UFO\'s\' attitude toward the subject is very similar to mine. It\'s not an advocacy; its philosophy is more \'I want to believe this, but I want it proved.\'',
-        'Dwight Schultz',
-    ],
-    [
-        'I have an issue with others ordering for me, and I spend far too long haranguing people that my choices are the best. I apologize for the amount of conversations I have ruined with this attitude.',
-        'Ben Elliot',
-    ],
-    [
-        'A bachelor is a man who comes to work each morning from a different direction.',
-        'Sholom Aleichem',
-    ],
-    [
-        'Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.',
-        'William Arthur Ward',
+        'Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?',
+        'William C. Bryant',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        '\'Changes in Latitudes\' began when I was looking at a photograph of a sea turtle swimming underwater. I had such a strong feeling for the beauty of this ancient creature, at home in the sea. On the spot, I wanted to swim with that turtle. I began to imagine a character who would do just that.',
-        'Will Hobbs',
+        'The key to growth is the introduction of higher dimensions of consciousness into our awareness.',
+        'Lao Tzu',
     ],
     [
-        'For a gallant spirit there can never be defeat.',
-        'Wallis Simpson',
+        'There is no wealth but life.',
+        'Jackson Pollock',
     ],
     [
-        'No universal selfishness can bring social good to all. Communism - the effort to give all men what they need and to ask of each the best they can contribute - this is the only way of human life.',
-        'W. E. B. Du Bois',
+        'Everyone has inside of him a piece of good news. The good news is that you don\'t know how great you can be! How much you can love! What you can accomplish! And what your potential is!',
+        'Anne Frank',
     ],
     [
-        'Our attitude towards others determines their attitude towards us.',
-        'Earl Nightingale',
+        'Inspiration comes of working every day.',
+        'Charles Baudelaire',
     ],
     [
-        'America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, even eaten with people who in America would have been considered \'white,\' but the \'white\' attitude had been removed from their minds by the religion of Islam.',
+        'Vegetation is the basic instrument the creator uses to set all of nature in motion.',
+        'Antoine Lavoisier',
+    ],
+    [
+        'Power doesn\'t back up in the face of a smile, or in the face of a threat of some kind of nonviolent loving action. It\'s not the nature of power to back up in the face of anything but some more power.',
         'Malcolm X',
     ],
     [
-        'You must respect people and work hard to be in shape. And I used to train very hard. When the others players went to the beach after training, I was there kicking the ball.',
-        'Pele',
+        'Success in any endeavor depends on the degree to which it is an expression of your true self.',
+        'Ralph Marston',
     ],
     [
-        'An intelligent man is sometimes forced to be drunk to spend time with his fools.',
-        'Ernest Hemingway',
+        'In terms of work I\'ve always had a Bad Attitude in that I won\'t work anywhere which requires me to work strict hours or follow a dress code. I don\'t know if that\'s an Asperger\'s thing or not, I think it\'s just being reasonable.',
+        'Bram Cohen',
     ],
     [
-        'The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you\'re free.',
-        'Ray Manzarek',
+        'Is everything funny? For me, yes. There\'s a positive to every negative. Even my divorce? For me, yes. If you go back and look at it, why it happened or how it happened, there\'s something in there that\'ll make you laugh.',
+        'Kevin Hart',
     ],
     [
-        'I would say I\'m a nice person, and I take pride in the fact that I treat everyone really well, so there\'s no reason for anyone to ever come at me because I only want the best for everybody else.',
-        'Miley Cyrus',
+        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
+        'Jim Rohn',
     ],
     [
-        'Hope is favorable and confident expectation; it\'s an expectant attitude that something good is going to happen and things will work out, no matter what situation we\'re facing.',
+        'I fell in love with Erica Kane the summer before my freshman year of high school. Like all red-blooded teen American boys, I\'d come home from water polo practice and eat a box of Entenmann\'s Pop\'Ems donut holes in front of the TV while obsessively fawning over \'All My Children\' and Erica, her clothes, and her narcissistic attitude.',
+        'Andy Cohen',
+    ],
+    [
+        'Better by far you should forget and smile that you should remember and be sad.',
+        'Christina Rossetti',
+    ],
+    [
+        'To me, the Seventies were very inspirational and very influential... With my whole persona as Snoop Dogg, as a person, as a rapper. I just love the Seventies style, the way all the players dressed nice, you know, kept their hair looking good, drove sharp cars and they talked real slick.',
+        'Snoop Dogg',
+    ],
+    [
+        'The first time I see a jogger smiling, I\'ll consider it.',
+        'Joan Rivers',
+    ],
+    [
+        'Thank you for life, and all the little ups and downs that make it worth living.',
+        'George C. Marshall',
+    ],
+    [
+        'Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.',
+        'Carl Jung',
+    ],
+    [
+        'Marie Antoinette was funny, I\'m sure she was just misinterpreted. You know the \'Let them eat cake\' line. She seems like she was kind of funny, like a Chelsea Handler or Kathy Griffin type.',
+        'Colin Quinn',
+    ],
+    [
+        'It is not the beauty of a building you should look at; its the construction of the foundation that will stand the test of time.',
+        'David Allan Coe',
+    ],
+    [
+        'Having a child makes you strong and gives you chutzpah. It relaxed my attitude to the job; my center of focus shifted, which I think is very helpful, because even if you\'re not a very indulgent actor you spend a lot of time thinking about yourself. I don\'t think that is particularly healthy.',
+        'Imelda Staunton',
+    ],
+    [
+        '\'Sunrise Sunset\' is about trying to get to a place where life is simple and not letting the stress and happenings in the world get in the way of your happiness.',
+        'Tiffany Trump',
+    ],
+    [
+        'After you have exhausted what there is in business, politics, conviviality, and so on - have found that none of these finally satisfy, or permanently wear - what remains? Nature remains.',
+        'Walt Whitman',
+    ],
+    [
+        'I believe that the greatest gift you can give your family and the world is a healthy you.',
         'Joyce Meyer',
     ],
     [
-        'Keep your sense of humor, my friend; if you don\'t have a sense of humor it just isn\'t funny anymore.',
-        'Wavy Gravy',
+        'Some guys travel with expensive Louis Vuitton luggage but it gets all scratched up under the plane. I\'d rather not spend too much money on something that\'s just going to get messed up.',
+        'James Harden',
     ],
     [
-        'Laugh and the world laughs with you, snore and you sleep alone.',
-        'Anthony Burgess',
+        'Mostly I want to talk positive; I wanna talk about a bunch of great kids that I coached and made me look good and the university that I\'ve seen grow from a cow college, which it was, only 12,000 people, and when I came here, we weren\'t at Pennsylvania State University, we were at Penn State College.',
+        'Joe Paterno',
     ],
     [
-        'Man has lost the capacity to foresee and to forestall. He will end by destroying the earth.',
-        'Albert Schweitzer',
-    ],
-    [
-        'Age does not protect you from love. But love, to some extent, protects you from age.',
-        'Anais Nin',
-    ],
-    [
-        'Honestly, it is not all about attitude; it is all about heart. You can have the attitude, you can have the swagger, you can talk your way, but it is all about heart.',
-        'Jason Pierre-Paul',
-    ],
-    [
-        'Each day as I travel through downtown Tucson, I am amazed at how quickly the most ancient of human behaviors have changed. For as long as there have been Homo sapiens - roughly 200,000 years - people have filled their lives principally with two activities: talking directly with other people, and doing physical things.',
-        'Andrew Weil',
-    ],
-    [
-        'Modern Orthodoxy has a highly positive attitude toward the State of Israel. Our Ultra-Orthodox brethren recognize only the Holy Land, but not the state.',
-        'Norman Lamm',
-    ],
-    [
-        'Work hard! In the end, passion and hard work beats out natural talent.',
-        'Pete Docter',
-    ],
-    [
-        'Always forgive your enemies - nothing annoys them so much.',
-        'Oscar Wilde',
-    ],
-    [
-        'Thing is, I went to a born-again Christian high school, was brought up in a traditional Mormon family where these ideas about parenting are of structure and sacrifice. To think outside of that idea of family and parenting that I\'ve grown up with is tough but also very freeing.',
-        'Paul Walker',
-    ],
-    [
-        'Since those who believe they need a hero/celebrity outnumber the actual heroes/celebrities, people feel safe and comfortably justified in numbers, committing egregious crimes in the name of the greater social ego. Ironically diminishing their own true hero-celebrity nature in the process.',
-        'Lauryn Hill',
-    ],
-    [
-        'I\'m having a great time. I get to travel and see the world. And yeah, I\'ll have a family, because I don\'t want to miss out on that amazing experience, but it\'s not defining who I am.',
-        'Krysten Ritter',
-    ],
-    [
-        'Ever since studying in Russia as a college student, I had been in a long-distance, one-sided love affair with Chechnya\'s remarkable history, culture and rugged natural beauty.',
-        'Anthony Marra',
-    ],
-    [
-        'I travel a lot and rarely make it home to Seattle.',
-        'Hope Solo',
-    ],
-    [
-        'I have wandered all my life, and I have also traveled; the difference between the two being this, that we wander for distraction, but we travel for fulfillment.',
-        'Hilaire Belloc',
+        'I still don\'t have a car. I still travel by public transport. I take autos to travel to and fro for recordings.',
+        'Arijit Singh',
     ],
 ];

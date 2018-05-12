@@ -2,103 +2,103 @@
 
 return [
     [
-        'Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.',
-        'Margaret Laurence',
+        'All the great performers I have worked with are fuelled by a personal dream.',
+        'John Eliot',
     ],
     [
-        'In order to carry a positive action we must develop here a positive vision.',
-        'Dalai Lama',
+        'I don\'t have time for hobbies. At the end of the day, I treat my job as a hobby. It\'s something I love doing.',
+        'David Beckham',
     ],
     [
-        'There is a vitality, a life force, an energy, a quickening, that is translated through you into action, and because there is only one of you in all time, this expression is unique.',
-        'Martha Graham',
+        'If you think about a lifestyle short of retirement that lends itself to being a hardcore gamer, there is none better than being a major league starting pitcher. I work once every five days and travel and am alone all the time. So while the other guys were spending their money on the all the cars and jewelry, I bought laptops.',
+        'Curt Schilling',
     ],
     [
-        'Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.',
-        '',
+        'Roosevelt\'s declaration that Americans had \'nothing to fear but fear itself\' was a glorious piece of inspirational rhetoric and just as gloriously wrong.',
+        'Russell Baker',
     ],
     [
-        'Bring diversity back to agriculture. That\'s what made it work in the first place.',
-        'David R. Brower',
+        'We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.',
+        'Barbara De Angelis',
     ],
     [
-        'The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful.',
-        'Noam Chomsky',
+        'Love and business and family and religion and art and patriotism are nothing but shadows of words when a man\'s starving!',
+        'O. Henry',
     ],
     [
-        'I\'ve always thought of acting as more of an exercise in empathy, which is not to be confused with sympathy. You\'re trying to get inside a certain emotional reality or motivational reality and try to figure out what that\'s about so you can represent it.',
-        'Edward Norton',
+        'I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We\'ve created life in our own image.',
+        'Stephen Hawking',
     ],
     [
-        'The truth which has made us free will in the end make us glad also.',
-        'Felix Adler',
+        'It\'s not always possible to sit down and eat at home in this day and age of fast-paced living, but if you are going to eat out, do so as a family and support all the great local places in your areas. I\'ll still eat at the same diner I did as a kid with my parents.',
+        'Michael Symon',
     ],
     [
-        'The inventory process and stepping back in your life can sometimes be a very dark process. But it also can be extremely funny and surprising.',
-        'Craig Charles',
+        'More than half of people who leave their jobs do so because of their relationship with their boss. Smart companies make certain their managers know how to balance being professional with being human. These are the bosses who celebrate an employee\'s success, empathize with those going through hard times, and challenge people, even when it hurts.',
+        'Travis Bradberry',
     ],
     [
-        'The mind always fails first, not the body. The secret is to make your mind work for you, not against you.',
-        'Arnold Schwarzenegger',
+        'A man\'s dreams are an index to his greatness.',
+        'Zadok Rabinowitz',
     ],
     [
-        'Mainly what I learned from Buddy... was an attitude. He loved music, and he taught me that it shouldn\'t have any barriers to it.',
-        'Waylon Jennings',
+        'In my forties, my optimism was boundless. I had really good health and tremendous success which allowed me to do anything I wanted.',
+        'Patricia Cornwell',
     ],
     [
-        'Nothing is too wonderful to be true, if it be consistent with the laws of nature.',
-        'Michael Faraday',
-    ],
-    [
-        'Don\'t go through life, grow through life.',
-        'Tim Gunn',
-    ],
-    [
-        'The internet could be a very positive step towards education, organisation and participation in a meaningful society.',
-        'Noam Chomsky',
-    ],
-    [
-        'All wealth is the product of labor.',
-        'John Locke',
-    ],
-    [
-        'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.',
-        'Theodore Roosevelt',
-    ],
-    [
-        'When the best leader\'s work is done the people say, \'We did it ourselves.\'',
-        'Lao Tzu',
+        'I will have my publicist pull pictures of the way I look at events so I can see, \'Oh, that cut is not as flattering as I thought,\' or \'I should smile bigger,\' or \'That positioning is odd.\' I learn from it.',
+        'Allison Williams',
     ],
     [
         'In Einstein\'s equation, time is a river. It speeds up, meanders, and slows down. The new wrinkle is that it can have whirlpools and fork into two rivers. So, if the river of time can be bent into a pretzel, create whirlpools and fork into two rivers, then time travel cannot be ruled out.',
         'Michio Kaku',
     ],
     [
-        'One of the most important responsibilities in the Christian life is to care about others, smile at them, and be a friend to the friendless.',
-        'James Dobson',
+        'Just trust yourself, then you will know how to live.',
+        'Goethe',
     ],
     [
-        'I feel lucky because I was a nerd, which I talk about in the book, but I had academic success, so through that, because that\'s what my parents put a great deal of value on, I had a great childhood because I sort of fulfilled the expectations of being good at school.',
-        'Mindy Kaling',
+        'When you\'re doing a different kind of film, you have to bring a different kind of attitude; you have to bring a different kind of concentration.',
+        'Jerry Lewis',
     ],
     [
-        'Just as you wouldn\'t leave the house without taking a shower, you shouldn\'t start the day without at least 10 minutes of sacred practice: prayer, meditation, inspirational reading.',
-        'Marianne Williamson',
+        'It\'s a fundamental, social attitude that the 1% supports symphonies and operas and doesn\'t support Johnny learning to program hip-hop beats. When I put it like that, it sounds like, \'Well, yeah,\' but you start to think, \'Why not, though?\' What makes one more valuable than another?',
+        'David Byrne',
     ],
     [
-        'Rocket scientists agree that we have about reached the limit of our ability to travel in space using chemical rockets. To achieve anything near the speed of light we will need a new energy source and a new propellant. Nuclear fission is not an option.',
-        'Wilson Greatbatch',
+        'Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend.',
+        'Elon Musk',
     ],
     [
-        'The best way to find out if you can trust somebody is to trust them.',
-        'Ernest Hemingway',
+        'Time has been transformed, and we have changed; it has advanced and set us in motion; it has unveiled its face, inspiring us with bewilderment and exhilaration.',
+        'Khalil Gibran',
     ],
     [
-        'Anytime you introduce volatility, it is not good for business and not good for travel.',
-        'Dara Khosrowshahi',
+        'The origin of all revolutions and corruption, and the spur and source of all base morals are just two sayings: The First Saying: \'So long as I\'m full, what is it to me if others die of hunger?\' The Second Saying: \'You suffer hardship so that I can live in ease; you work so that I can eat.\'',
+        'Said Nursi',
     ],
     [
-        'I want to teach. I want to speak. I want to travel.',
-        'Hillary Clinton',
+        'Find out what you like doing best and get someone to pay you for it.',
+        'Katharine Whitehorn',
+    ],
+    [
+        'I don\'t think I could have a genuine relationship with someone who didn\'t love to travel and appreciate new foods. Traveling is a big part of my life, and I want to share that with the people close to me.',
+        'Candice Accola',
+    ],
+    [
+        'A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby\'s temperature. Plus, it really teaches the baby who\'s boss.',
+        'Tina Fey',
+    ],
+    [
+        'The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.',
+        'Mark Twain',
+    ],
+    [
+        'I used to sell furniture for a living. The trouble was, it was my own.',
+        'Les Dawson',
+    ],
+    [
+        'Guilt is just as powerful, but its influence is positive, while shame\'s is destructive. Shame erodes our courage and fuels disengagement.',
+        'Brene Brown',
     ],
 ];

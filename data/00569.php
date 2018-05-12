@@ -2,103 +2,103 @@
 
 return [
     [
-        'Life is not an exact science, it is an art.',
-        'Billy Graham',
+        'You can make positive deposits in your own economy every day by reading and listening to powerful, positive, life-changing content and by associating with encouraging and hope-building people.',
+        'Zig Ziglar',
     ],
     [
-        'I know virtually no one of my age who can remember a hug, or a smile from their father, or a \'Let\'s go play football.\'',
-        'Peter Mullan',
+        'I travel light. I think the most important thing is to be in a good mood and enjoy life, wherever you are.',
+        'Diane von Furstenberg',
     ],
     [
-        'The art of life is to know how to enjoy a little and to endure very much.',
+        'People are the key to success or extraordinary success.',
+        'Azim Premji',
+    ],
+    [
+        'Family and friendships are two of the greatest facilitators of happiness.',
+        'John C. Maxwell',
+    ],
+    [
+        'The secrets of success are a good wife and a steady job. My wife told me.',
+        'Howard Nemerov',
+    ],
+    [
+        'Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life\'s search for love and wisdom.',
+        'Edgar Cayce',
+    ],
+    [
+        'Let us sacrifice our today so that our children can have a better tomorrow.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'Each life is made up of mistakes and learning, waiting and growing, practicing patience and being persistent.',
+        'Albert Einstein',
+    ],
+    [
+        'Becoming an author changes your attitude too. Once you see where books come from, and how they\'re made, they never seem quite as sacred again.',
+        'Lev Grossman',
+    ],
+    [
+        'In a time not distant, it will be possible to flash any image formed in thought on a screen and render it visible at any place desired. The perfection of this means of reading thought will create a revolution for the better in all our social relations.',
         'Nikola Tesla',
     ],
     [
-        'Question: Why are we Masters of our Fate, the captains of our souls? Because we have the power to control our thoughts, our attitudes. That is why many people live in the withering negative world. That is why many people live in the Positive Faith world.',
-        'Alfred A. Montapert',
+        'It takes both sunshine and rain to make a rainbow.',
+        'Unknown',
     ],
     [
-        'A man can be drawn across the room with the simplicity of a smile. That\'s why your pearly whites should always be straight and shiny. I think most of my clients are drawn to a fun, flirty nature in a woman. The problem is, most women do not often feel fun and flirty.',
-        'Patti Stanger',
+        'My mother thinks I am the best. And I was raised to always believe what my mother tells me.',
+        'Diego Maradona',
     ],
     [
-        'In the 1960s, a minimum wage job would keep a family of three afloat.',
-        'Elizabeth Warren',
+        'Your attitude is contagious.',
+        'Kevin Plank',
     ],
     [
-        'Relax! Life is beautiful!',
-        'Marvin Sapp',
+        'Give yourself something to work toward - constantly.',
+        'Mary Kay Ash',
     ],
     [
-        'Covetousness is both the beginning and the end of the devil\'s alphabet - the first vice in corrupt nature that moves, and the last which dies.',
-        'Michel de Montaigne',
+        'Everyone has his own specific vocation or mission in life; everyone must carry out a concrete assignment that demands fulfillment. Therein he cannot be replaced, nor can his life be repeated, thus, everyone\'s task is unique as his specific opportunity to implement it.',
+        'Riley Keough',
     ],
     [
-        'There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.',
-        'Robert Quillen',
+        'Logic will get you from A to B. Imagination will take you everywhere.',
+        'Albert Einstein',
     ],
     [
-        'Don\'t forget Mother\'s Day. Or as they call it in Beverly Hills, Dad\'s Third Wife Day.',
-        'Jay Leno',
+        'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
+        'Vincent Van Gogh',
     ],
     [
-        'The steeper the mountain the harder the climb the better the view from the finishing line',
-        '',
+        'I try to make people smile and dance, not think about things or educate them.',
+        'Norman Cook',
     ],
     [
-        'Your ego can become an obstacle to your work. If you start believing in your greatness, it is the death of your creativity.',
-        'Marina Abramovic',
+        '\'What comes next?\' is the constant question I\'m asked by outsiders eager to travel to the island. During the eleven years I traveled to Havana, very few Cubans I met on the island ever bothered to verbalize this question.',
+        'Brin-Jonathan Butler',
     ],
     [
-        'If I could I would always work in silence and obscurity, and let my efforts be known by their results.',
-        'Emily Bronte',
+        'O sweet, delusive Noon, Which the morning climbs to find, O moment sped too soon, And morning left behind.',
+        'Helen Hunt Jackson',
     ],
     [
-        'The learner always begins by finding fault, but the scholar sees the positive merit in everything.',
-        'Georg Wilhelm Friedrich Hegel',
+        'I wear sunglasses almost all the time outside - not because I think I\'m really, really cool, but because of the rays.',
+        'Ronda Rousey',
     ],
     [
-        'The everyday kindness of the back roads more than makes up for the acts of greed in the headlines.',
-        'Charles Kuralt',
+        'I think a lot of stuff I find funny is from day dreaming.',
+        'Demetri Martin',
     ],
     [
-        'I think the deafness affects me more than I realise; I think it makes me more tired. I loathe parties. I attend, smile and leave.',
-        'Stephanie Beacham',
+        'Besides what I do, I love fishing; I love bringing my children to the forest, getting outdoors in nature. Get outside, people! Stop looking at screens.',
+        'Keith Barry',
     ],
     [
-        'Spring is when you feel like whistling even with a shoe full of slush.',
-        'Doug Larson',
+        'Smile, for everyone lacks self-confidence and more than any other one thing a smile reassures them.',
+        'Andre Maurois',
     ],
     [
-        'I\'m doing my best to raise my son and give him a nurturing, loving, and caring environment so he can grow up and be the best version of himself.',
-        'Miranda Kerr',
-    ],
-    [
-        'For an actress to be a success, she must have the face of a Venus, the brains of a Minerva, the grace of Terpsichore, the memory of a MaCaulay, the figure of Juno, and the hide of a rhinoceros.',
-        'Ethel Barrymore',
-    ],
-    [
-        'Beauty does not linger; it only visits. Yet beauty\'s visitation affects us and invites us into its rhythm; it calls us to feel, think and act beautifully in the world: to create and live a life that awakens the Beautiful. A life without delight is only half a life.',
-        'John O\'Donohue',
-    ],
-    [
-        'It is so inspirational, to see that in the world of Westeros, men are answering to women, and they are a force to be reckoned with. It\'s empowering, and it\'s inspirational as well, because you\'re just like, \'This is great!\'',
-        'Rose Leslie',
-    ],
-    [
-        'Beauty of whatever kind, in its supreme development, invariably excites the sensitive soul to tears.',
-        'Edgar Allan Poe',
-    ],
-    [
-        'This is love: to fly toward a secret sky, to cause a hundred veils to fall each moment. First to let go of life. Finally, to take a step without feet.',
-        'Rabindranath Tagore',
-    ],
-    [
-        'Success is nothing if you don\'t have the right people to share it with; you\'re just gonna end up lonely.',
-        'Selena Gomez',
-    ],
-    [
-        'Right now I\'m having amnesia and deja vu at the same time... I think I\'ve forgotten this before.',
-        'Steven Wright',
+        'It can literally change someone\'s life; it\'s very positive for young teenagers to get into cosplay if they do it with their friends or with supervision from their parents - it can really foster their social skills.',
+        'Yaya Han',
     ],
 ];

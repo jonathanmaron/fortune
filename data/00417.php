@@ -2,103 +2,103 @@
 
 return [
     [
-        'Look your best - who said love is blind?',
-        'Mae West',
+        'In this life, we have to make many choices. Some are very important choices. Some are not. Many of our choices are between good and evil. The choices we make, however, determine to a large extent our happiness or our unhappiness, because we have to live with the consequences of our choices.',
+        'Zig Ziglar',
     ],
     [
-        'I have long recognized a link between fitness and mental health and I think we need to encourage young people to take part in sports and team activities because we know it has such positive results.',
-        'Tipper Gore',
+        'If you want my personal attitude, I would tell you that I don\'t care about a person\'s sexual orientation.',
+        'Vladimir Putin',
     ],
     [
-        'In this life, I\'m always going to choose the positive.',
-        'Gloria Estefan',
+        'I am still a victim of chess. It has all the beauty of art - and much more. It cannot be commercialized. Chess is much purer than art in its social position.',
+        'Marcel Duchamp',
     ],
     [
-        'Think like a man of action; act like a man of thought.',
-        'Henri L. Bergson',
+        'To some extent, people who are insane are nonconformists, and society and their family wish they would live what appear to be useful lives.',
+        'John Forbes Nash, Jr.',
     ],
     [
-        'Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.',
-        'Denis Waitley',
+        'The human body is the best picture of the human soul.',
+        'Ludwig Wittgenstein',
     ],
     [
-        'Obstacles don\'t have to stop you. If you run into a wall, don\'t turn around and give up. Figure out how to climb it, go through it, or work around it.',
-        'Michael Jordan',
-    ],
-    [
-        'No matter what else is going on, Christmas is my all-time favorite period in the year. It has a positive effect on me like very little else does, seasonally, that is.',
-        'Rush Limbaugh',
-    ],
-    [
-        'For many years, it seemed as if nothing changed in Norway. You could leave the country for three months, travel the world, through coups d\'etat, assassinations, famines, massacres and tsunamis, and come home to find that the only new thing in the newspapers was the crossword puzzle.',
-        'Jo Nesbo',
-    ],
-    [
-        'Travelling expands the mind rarely.',
-        'Hans Christian Andersen',
-    ],
-    [
-        'There is hope and a kind of beauty in there somewhere, if you look for it.',
-        'H. R. Giger',
-    ],
-    [
-        'I know what it\'s like to be famous. It\'s good money and it\'s great fun. A real kick in the pants. People wave at you and smile at you. You get great tables in restaurants. They send you gifts - beautiful clothes and cars.',
-        'Pierce Brosnan',
-    ],
-    [
-        'I quit therapy because my analyst was trying to help me behind my back.',
-        'Richard Lewis',
-    ],
-    [
-        'There\'s an old adage about speakers: You won\'t remember what they said, but you\'ll never forget how they made you feel. Trump knows that in his bones. He gives his supporters - and they are growing - a terrific feeling of safety and security, along with a laugh and a smile.',
-        'Cass Sunstein',
-    ],
-    [
-        'History is the only true teacher, the revolution the best school for the proletariat.',
-        'Rosa Luxemburg',
-    ],
-    [
-        'Life is what happens to you while you\'re busy making other plans.',
+        'Love is the flower you\'ve got to let grow.',
         'John Lennon',
     ],
     [
-        '\'Shake It Up\' definitely teaches kids about the importance of reaching for your dreams and setting high goals. It also teaches great lessons about friendship and family.',
-        'Zendaya',
+        'I love Christmas. I really do love Christmas. I love being with my family and I love snow. I love the music and the lights and all of it.',
+        'Christina Applegate',
     ],
     [
-        'About 80 percent of the photos on Flickr are public and searchable by everyone. In one sense, it\'s a place where people upload snapshots from the family reunion, wedding or the birth of a baby or something like that, but it\'s also a place where people go to show what the world looks like to them.',
-        'Stewart Butterfield',
+        'One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
+        'Thomas A. Edison',
     ],
     [
-        'The traditional Christian attitude toward human personality was that human nature was essentially good and that it was formed and modified by social pressures and training.',
-        'Carroll Quigley',
+        'Time is the least thing we have of.',
+        'Ernest Hemingway',
     ],
     [
-        'The human soul needs actual beauty more than bread.',
-        'D. H. Lawrence',
+        'Nature is a petrified magic city.',
+        'Novalis',
     ],
     [
-        'The definition of swagger, in my opinion, is you have to have that arrogance, that confidence that you are the best out there at all times.',
-        'Keyshawn Johnson',
+        'I would absolutely recommend against excessive positivity and optimism. Any positive emotion that you\'re infusing into a workplace needs to be grounded in reality. If it\'s not realistic, sincere, meaningful, and individualized, it won\'t do much good.',
+        'Tom Rath',
     ],
     [
-        'Heroes represent the best of ourselves, respecting that we are human beings. A hero can be anyone from Gandhi to your classroom teacher, anyone who can show courage when faced with a problem. A hero is someone who is willing to help others in his or her best capacity.',
-        'Ricky Martin',
+        'We all have life storms, and when we get the rough times and we recover from them, we should celebrate that we got through it. No matter how bad it may seem, there\'s always something beautiful that you can find.',
+        'Walter Payton',
     ],
     [
-        'With modeling, you pose. You want to look your best all the time. With acting, you have to be aware of the camera, but the more you show your imperfections, the better you\'re going to be.',
-        'Diane Kruger',
+        'I have learned that raising children is the single most difficult thing in the world to do. It takes hard work, love, luck, and a lot of energy, and it is the most rewarding experience that you can ever have.',
+        'Janet Reno',
     ],
     [
-        'Human settlements are like living organisms. They must grow, and they will change. But we can decide on the nature of that growth - on the quality and the character of it - and where it ought to go. We don\'t have to scatter the building blocks of our civic life all over the countryside, destroying our towns and ruining farmland.',
-        'James Howard Kunstler',
+        'Somehow I can\'t believe that there are any heights that can\'t be scaled by a man who knows the secrets of making dreams come true. This special secret, it seems to me, can be summarized in four C s. They are curiosity, confidence, courage, and constancy.',
+        'Walt Disney',
     ],
     [
-        'I mean, the shoe - there is a music to it, there is attitude, there is sound, it\'s a movement. Clothes - it\'s a different story. There are a million things I\'d rather do before designing clothes: directing, landscaping.',
-        'Christian Louboutin',
+        'To give hope to someone occurs when you teach them how to use the tools to do it for themselves.',
+        'Byron Pulsifer',
     ],
     [
-        'For me, personally, life in South Africa had come to an end. I had been lucky in some of the whites I had met. Meeting them had made a straight \'all-blacks-are-good, all-whites-are-bad\' attitude impossible. But I had reached a point where the gestures of even my friends among the whites were suspect, so I had to go or be forever lost.',
-        'Peter Abrahams',
+        'All right everyone, line up alphabetically according to your height.',
+        'Casey Stengel',
+    ],
+    [
+        'Every small business will give you an entrepreneurial way of looking at things. I guarantee you that for every plant that closes, if you gave it to one small-business person in that community, he or she would find a way to make it work. The small-business attitude is you always find a way to make it work.',
+        'Hamdi Ulukaya',
+    ],
+    [
+        'Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.',
+        'Blaise Pascal',
+    ],
+    [
+        'Facts which at first seem improbable will, even on scant explanation, drop the cloak which has hidden them and stand forth in naked and simple beauty.',
+        'Galileo Galilei',
+    ],
+    [
+        'A rejection is nothing more than a necessary step in the pursuit of success.',
+        'Bo Bennett',
+    ],
+    [
+        'From a very young age, music was very much in my house. I would sit with my mom, with the old LPs, listening to The Beatles and Carly Simon and Lionel Richie. The old LPs used to have the lyrics. From there, I would put on dance and music displays for my family, just to entertain them and make people laugh and smile.',
+        'Lara Pulver',
+    ],
+    [
+        'Wisdom is knowing what to do next, skill is knowing how to do it, and virtue is doing it.',
+        'David Starr Jordan',
+    ],
+    [
+        'It\'s often hard for us to imagine going without some of our luxuries like travel, dining out, or Internet, much less our basic necessities like food and water. But try for a minute to imagine how life would be with such deprivations.',
+        'Marcus Samuelsson',
+    ],
+    [
+        'Those that know, do. Those that understand, teach.',
+        'Aristotle',
+    ],
+    [
+        'Poetry may make us from time to time a little more aware of the deeper, unnamed feelings which form the substratum of our being, to which we rarely penetrate; for our lives are mostly a constant evasion of ourselves.',
+        'T. S. Eliot',
     ],
 ];

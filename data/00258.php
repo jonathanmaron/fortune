@@ -2,103 +2,103 @@
 
 return [
     [
-        'The statistics on sanity are that one out of every four Americans is suffering from some form of mental illness. Think of your three best friends. If they\'re okay, then it\'s you.',
-        'Rita Mae Brown',
+        'A person who has been punished is not less inclined to behave in a given way; at best, he learns how to avoid punishment.',
+        'B. F. Skinner',
     ],
     [
-        'Everyone can identify with a fragrant garden, with beauty of sunset, with the quiet of nature, with a warm and cozy cottage.',
-        'Thomas Kincade',
-    ],
-    [
-        'Success is not the key to happiness. Happiness is the key to success. If you love what you do, you\'ll be successful.',
-        'Tyga',
-    ],
-    [
-        'Life is not measured by the breaths you take, but by its breathtaking moments.',
-        'Michael Vance',
-    ],
-    [
-        'Write your story as it needs to be written. Write it honestly, and tell it as best you can. I\'m not sure that there are any other rules. Not ones that matter.',
-        'Neil Gaiman',
-    ],
-    [
-        'The winter solstice has always been special to me as a barren darkness that gives birth to a verdant future beyond imagination, a time of pain and withdrawal that produces something joyfully inconceivable, like a monarch butterfly masterfully extracting itself from the confines of its cocoon, bursting forth into unexpected glory.',
-        'Gary Zukav',
-    ],
-    [
-        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
+        'If you die you\'re completely happy and your soul somewhere lives on. I\'m not afraid of dying. Total peace after death, becoming someone else is the best hope I\'ve got.',
         'Kurt Cobain',
     ],
     [
-        'Life\'s short. Anything could happen, and it usually does, so there is no point in sitting around thinking about all the ifs, ands and buts.',
-        'Joan D. Vinge',
+        'The Republican Party - that was the end of the Republican Party. What Pete Wilson did with the xenophobia and the negative attitude, all this sort of anti-crime backlash.',
+        'Gavin Newsom',
     ],
     [
-        'I don\'t believe in an outside agent that creates the world, then walks away. But I feel very strongly there is an intelligence at work in every flower, in every blade of grass, in every cell of my body. And it is that intelligence that, I wouldn\'t say created the universe. It is creating the universe. It\'s an ongoing process.',
-        'Eckhart Tolle',
+        'If I were in the government, I would persuade the prime minister to see the beauty in the fact that people see Israel as a haven - from their sadness to their hope.',
+        'Elie Wiesel',
     ],
     [
-        'What they have done in Japan, which I find so inspirational, is they\'ve brought the toilet out from behind the locked door. They\'ve made it conversational. People go out and upgrade their toilet. They talk about it. They\'ve sanitized it.',
-        'Rose George',
+        'It\'s important to know that words don\'t move mountains. Work, exacting work moves mountains.',
+        'Danilo Dolci',
     ],
     [
-        'Until you make peace with who you are, you will never be content with what you have.',
-        'Doris Mortman',
+        'I wanted to say thanks... and share my gratitude for everything I\'ve been blessed with. Family, friends, and continued support from everyone.',
+        'Travis Barker',
     ],
     [
-        'There is no racial or ethnic involvement in Thanksgiving, and people who may be very distant from the Christian system can see the beauty and the positive spirit that comes from the holiday.',
-        'John Clayton',
+        'If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.',
+        'Bruce Lee',
     ],
     [
-        'What was past was past. I suppose that was the general attitude.',
-        'V. S. Naipaul',
+        'Strong women, when respected, make the whole society stronger. One must be careful with such rapid changes, though, and make an effort to preserve, at the same time, the positive traditions of Indian culture.',
+        'Chitra Banerjee Divakaruni',
     ],
     [
-        'A smile is a facelift that\'s in everyone\'s price range!',
-        'Tom Wilson',
+        'I am positive that I would see the end of child labour around the world in my lifetime, as the poorest of the poor have realised that education is a tool that can empower them.',
+        'Kailash Satyarthi',
     ],
     [
-        'The one thing I regret is that I will never have time to read all the books I want to read.',
-        'Francoise Sagan',
+        'Every particular in nature, a leaf, a drop, a crystal, a moment of time is related to the whole, and partakes of the perfection of the whole.',
+        'Ralph Waldo Emerson',
     ],
     [
-        'Endurance is nobler than strength, and patience than beauty.',
-        'John Ruskin',
+        'I have a good support system of friends and family.',
+        'Penny Marshall',
     ],
     [
-        'Europe and Africa share proximity and history, ideas and ideals, trade and technology. You are tied together by the ebb and flow of people. Migration presents policy challenges - but also represents an opportunity to enhance human development, promote decent work, and strengthen collaboration.',
-        'Ban Ki-moon',
+        'You give before you get.',
+        'Napoleon Hill',
     ],
     [
-        'I have been known for some time as a person who speaks the truth and speaks it strongly. I have always called a liar a liar and a hypocrite a hypocrite.',
-        'Cindy Sheehan',
+        'To get something you never had, you have to do something you never did.',
+        'Unknown',
     ],
     [
-        'One by one, all of my college buddies had taken these nothing-special entry-level jobs, pushing papers for $18,000 or $21,000 a year (and hating the work besides), and I\'d turn up my nose and tell them I wasn\'t about to get out of bed for anything less than $50,000. That was my line, my attitude.',
-        'Bill Rancic',
+        'When you start hiding things away, that\'s when the darkness creeps up. Sunlight is the best disinfectant.',
+        'Steve Kazee',
     ],
     [
-        'Drugs are a waste of time. They destroy your memory and your self-respect and everything that goes along with with your self-esteem. They\'re no good at all.',
-        'Kurt Cobain',
+        'Coming home to my family afterward makes the work richer, easier and more fun.',
+        'Edie Falco',
     ],
     [
-        'It\'s so much darker when a light goes out than it would have been if it had never shone.',
-        'John Steinbeck',
+        'I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.',
+        'Og Mandino',
     ],
     [
-        'To listen well is as powerful a means of communication and influence as to talk well.',
-        'John Marshall',
+        'Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.',
+        'Jim Rohn',
     ],
     [
-        'I go to nature to be soothed and healed, and to have my senses put in order.',
-        'John Burroughs',
+        'A simple life is good with me. I don\'t need a whole lot. For me, a T-shirt, a pair of shorts, barefoot on a beach and I\'m happy.',
+        'John Dewey',
     ],
     [
-        'I am odd-looking. I sometimes think I look like a funny Muppet.',
-        'Angelina Jolie',
+        'Family and moral values are so central to everything that I am.',
+        'Marian Wright Edelman',
     ],
     [
-        'He who seeks truth shall find beauty. He who seeks beauty shall find vanity. He who seeks order shall find gratification. He who seeks gratification shall be disappointed. He who considers himself the servant of his fellow beings shall find the joy of self-expression. He who seeks self-expression shall fall into the pit of arrogance.',
-        'Moshe Safdie',
+        'If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.',
+        'Thomas J. Watson',
+    ],
+    [
+        'I would love a family. I\'m at the age where the wish for a child gets stronger. But who knows.',
+        'Cameron Diaz',
+    ],
+    [
+        'Watch your manner of speech if you wish to develop a peaceful state of mind. Start each day by affirming peaceful, contented and happy attitudes and your days will tend to be pleasant and successful.',
+        'Norman Vincent Peale',
+    ],
+    [
+        'I attribute my success to this: I never gave or took any excuse.',
+        'Florence Nightingale',
+    ],
+    [
+        'Show me a smile, and I\'ll show you one back.',
+        'Vanilla Ice',
+    ],
+    [
+        'A lot of people have their big dreams and get knocked down and don\'t have things go their way. And you never give up hope, and you really just hold on to it. Hard work and perserverance. You just keep getting up and getting up, and then you get that breakthrough.',
+        'Robert Kraft',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.',
-        'Douglas Adams',
+        'I\'m in love with red. I think it\'s such a passionate color. Every flag of every country pretty much has red it it. It\'s power, there\'s no fence sitting with red. Either you love it or you don\'t. I think its blood and strength and life. I do love red. I love all colors. Great shades of blue, you find them in nature. They\'re all magic.',
+        'Bryan Batt',
     ],
     [
-        'If people want to compete for leadership of a religious group, they can compete in piety. A chilling thought. Or funny.',
-        'Mary Douglas',
+        'I had to come from something, come from a place that was negative and positive but the majority of it is a negative place.',
+        'Kendrick Lamar',
     ],
     [
-        'It is a weird feeling to have people go, \'Hey Chris\' like they know me. But, number one, 99 percent of my experiences have been really cool. People couldn\'t be nicer and more positive.',
-        'Christopher Meloni',
+        'A man\'s got to take a lot of punishment to write a really funny book.',
+        'Ernest Hemingway',
     ],
     [
-        'Every performance is different. That\'s the beauty of it.',
-        'Van Morrison',
+        'I think that public service is tough on a family - no ifs, ands, buts about it. I have my own personal wishes, but they\'re not always front and center.',
+        'Maria Shriver',
     ],
     [
-        'Things work out best for those who make the best of how things work out.',
-        'John Wooden',
+        'When you\'re put in a position to really affect young people who are going to run the world one day, if you\'re able to be in their life at a young age and make a positive impact, I think that\'s a beautiful thing.',
+        'Zendaya',
     ],
     [
-        'Nothing exists except atoms and empty space; everything else is just opinion.',
-        'Democritus',
+        'Success is not how high you have climbed, but how you make a positive difference to the world.',
+        'Roy T. Bennett',
     ],
     [
-        'I\'ve been fortunate enough to write a book and travel the country to sign and sell it, so I can safely say that a five-second burst of conversation while you\'re scribbling your name, over and over, is not the most reliable way to bond with Americans.',
-        'Gwen Ifill',
+        'My great hope is to laugh as much as I cry; to get my work done and try to love somebody and have the courage to accept the love in return.',
+        'Maya Angelou',
     ],
     [
-        'Sex is a part of nature. I go along with nature.',
-        'Marilyn Monroe',
+        'It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent.',
+        'Madeleine Albright',
     ],
     [
-        'The three ordinary things that we often don\'t pay enough attention to, but which I believe are the drivers of all success, are hard work, perseverance, and basic honesty.',
-        'Azim Premji',
+        'Life in common among people who love each other is the ideal of happiness.',
+        'Lucas Grabeel',
     ],
     [
-        'A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.',
-        'Moliere',
+        'If you want to increase your success rate, double your failure rate.',
+        'Thomas J. Watson',
     ],
     [
-        'Always wear a smile sometime during the day - it makes you feel happier and look younger.',
-        'Kylie Bax',
+        'The rose is the flower and handmaiden of love - the lily, her fair associate, is the emblem of beauty and purity.',
+        'Dorothea Dix',
     ],
     [
-        'Nobody made a greater mistake than he who did nothing because he could do only a little.',
-        'Joseph Addison',
+        'The only way to keep your health is to eat what you don\'t want, drink what you don\'t like, and do what you\'d rather not',
+        'Mark Twain',
     ],
     [
-        'Culture is very important to the Mavs. Your best player has to be a fit for what you want the culture of the team to be. He has to be someone who leads by example. Someone who sets the tone in the locker room and on the court. It isn\'t about who talks the most or the loudest. It is about the demeanor and attitude he brings.',
-        'Mark Cuban',
+        'The universe is transformation; our life is what our thoughts make it.',
+        'Marcus Aurelius',
     ],
     [
-        'On the floor I am more at ease. I feel nearer, more part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting.',
-        'Jackson Pollock',
-    ],
-    [
-        'How success changes the opinion of men!',
-        'Maria Edgeworth',
-    ],
-    [
-        'And, obviously as a, as one who likes to travel around myself a lot, I think the Earth is a beautiful place. And, I\'m looking forward to some new perspectives.',
-        'Duane G. Carey',
-    ],
-    [
-        'Don\'t give up just because things get hard. Give up if you feel in your gut that moving on is the right choice for you.',
-        'Lori Deschene',
-    ],
-    [
-        'Life is full of adventure. There\'s no such thing as a clear pathway.',
-        'Arthur Schopenhauer',
-    ],
-    [
-        'The best way to solve problems and to fight against war is through dialogue.',
+        'Let us remember: One book, one pen, one child, and one teacher can change the world.',
         'Malala Yousafzai',
     ],
     [
-        'Never give up, for that is just the place and time that the tide will turn.',
-        'Harriet Beecher Stow',
+        'Successful entrepreneurs find the balance between listening to their inner voice and staying persistent in driving for success - because sometimes success is waiting right across from the transitional bump that\'s disguised as failure.',
+        'Naveen Jain',
     ],
     [
-        'My best personality trait that I think I\'m very approachable. And my worst is that I can be moody.',
-        'Enrique Iglesias',
+        'A gentle word, a kind look, a good-natured smile can work wonders and accomplish miracles.',
+        'William Hazlitt',
     ],
     [
-        'I have moments where I miss my old self. But I think anyone can get caught up in what we used to have. But at the same time, we can choose to focus on the beauty of now.',
-        'Steve Gleason',
+        'Nearly all the best things that came to me in life have been unexpected, unplanned by me.',
+        'Hoda Kotb',
     ],
     [
-        'The whole thing about \'The Rover\' is the whole swagger of it, the whole guitar attitude swagger. I\'m afraid I\'ve got to say it, but it\'s the sort of thing that is so apparent when you hear \'Rumble\' by Link Wray - it\'s just total attitude, isn\'t it?',
-        'Jimmy Page',
+        'The secret of my success is my hairspray.',
+        'Richard Gere',
     ],
     [
-        'To be upset over what you don\'t have is to waste what you do have.',
-        'Ken S. Keyes',
+        'There is always some kid who may be seeing me for the first time. I owe him my best.',
+        'Joe DiMaggio',
     ],
     [
-        'To love beauty is to see light.',
-        'Victor Hugo',
+        'If we do not voluntarily bring population growth under control in the next one or two decades, the nature will do it for us in the most brutal way, whether we like it or not.',
+        'Henry W. Kendall',
+    ],
+    [
+        'I think the thing I miss most in our age is our manners. It sounds so old-fashioned in a way. But even bad people had good manners in the old days, and manners hold a community together, and manners hold a family together; in a way, they hold the world together.',
+        'Nancy Friday',
+    ],
+    [
+        'I turned down \'Some Like It Hot.\' See how smart I am? I felt I couldn\'t bring anything funny to it. The outfit was funny. I don\'t need to compete with the wardrobe.',
+        'Jerry Lewis',
+    ],
+    [
+        'Nothing succeeds like success. Get a little success, and then just get a little more.',
+        'Maya Angelou',
+    ],
+    [
+        'This is the final test of a gentleman: his respect for those who can be of no possible value to him.',
+        'William Lyon Phelps',
+    ],
+    [
+        'Any time I have any time off, I try to travel.',
+        'Margot Robbie',
     ],
 ];

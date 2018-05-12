@@ -2,103 +2,103 @@
 
 return [
     [
-        'The purely agitational attitude is not good enough for a detailed consideration of a subject.',
+        'Financial institutions, the corporate world and civil society - all must uphold high standards of probity in their working. Only a genuine partnership between the Government and its people can bring about positive change to create a just society.',
+        'Pratibha Patil',
+    ],
+    [
+        'Our most intimate friend is not he to whom we show the worst, but the best of our nature.',
+        'Nathaniel Hawthorne',
+    ],
+    [
+        'Civilization is a method of living, an attitude of equal respect for all men.',
+        'Jane Addams',
+    ],
+    [
+        'My dad was my best friend and greatest role model. He was an amazing dad, coach, mentor, soldier, husband and friend.',
+        'Tiger Woods',
+    ],
+    [
+        'How inappropriate to call this planet Earth when it is quite clearly Ocean.',
+        'Arthur C. Clarke',
+    ],
+    [
+        'Loyal and efficient work in a great cause, even though it may not be immediately recognized, ultimately bears fruit.',
         'Jawaharlal Nehru',
     ],
     [
-        'The senses deceive from time to time, and it is prudent never to trust wholly those who have deceived us even once.',
-        'Rene Descartes',
+        'Venus told me the other day that champions don\'t get nervous in tight situations. That really helped me a lot. I decided I shouldn\'t get nervous and just do the best I can.',
+        'Serena Williams',
     ],
     [
-        'The more you care, the stronger you can be.',
-        'Jim Rohn',
+        'One may miss the mark by aiming too high as too low.',
+        'Thomas Fuller',
     ],
     [
-        'Really in technology, it\'s about the people, getting the best people, retaining them, nurturing a creative environment and helping to find a way to innovate.',
-        'Marissa Mayer',
+        'I\'m a very positive person, but this whole concept of having to always be nice, always smiling, always happy, that\'s not real. It was like I was wearing a mask. I was becoming this perfectly chiselled sculpture, and that was bad. That took a long time to understand.',
+        'Alicia Keys',
     ],
     [
-        'If you have a good support system like your family and your friends around you, then you can\'t go wrong. So just believe in yourself, do you your thing, and stay strong in what you believe in.',
-        'Roman Reigns',
+        'What the caterpillar calls the end of the world the master calls a butterfly.',
+        'Richard Bach',
     ],
     [
-        'To know oneself is to study oneself in action with another person.',
-        'Bruce Lee',
+        'By all these lovely tokens September days are here, With summer\'s best of weather And autumn\'s best of cheer.',
+        'Helen Hunt Jackson',
     ],
     [
-        'Don\'t fight the problem, decide it.',
-        'George C. Marshall',
+        'I thought, \'It doesn\'t matter what that woman is wearing,\' but then I realised actually it\'s our job as designers to make women smile; to bring them the chocolate without the calories.',
+        'Alber Elbaz',
     ],
     [
-        'Beauty and folly are old companions.',
-        'Benjamin Franklin',
+        'Even if you can\'t afford to travel the world, you can take your children to the museum, zoo or local park. And don\'t be afraid to take them to grown-up spots. Eating out in a restaurant teaches children how to be quiet and polite and gives them the pleasure of knowing you trust them to behave.',
+        'Kimora Lee Simmons',
     ],
     [
-        'Babies control and bring up their families as much as they are controlled by them; in fact the family brings up baby by being brought up by him.',
-        'Erik Erikson',
+        'Race hate isn\'t human nature; race hate is the abandonment of human nature.',
+        'Orson Welles',
     ],
     [
-        'I saw 28 Days. I don\'t remember rehab being like a day camp or being that funny. Rehab is a dumping ground. It\'s a big landfill.',
-        'Charlie Sheen',
+        'The best weapon against an enemy is another enemy.',
+        'Friedrich Nietzsche',
     ],
     [
-        'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It\'s never your fault. But it\'s always your fault, because if you wanted to change you\'re the one who has got to change.',
-        'Katharine Hepburn',
+        'I always remember this neighbor who would ask me to babysit for her. She looked like Jayne Mansfield, and I remember babysitting for, like, five hours and she would pay me 80 cents, with a phony smile. I used to go home fuming to my mum.',
+        'Jennifer Coolidge',
     ],
     [
-        'I never subscribe to the stay-at-home policy. I\'m not sick of the road or sick of eating in good restaurants around the country. I like to travel.',
-        'Levon Helm',
+        'They say that time changes things, but you actually have to change them yourself.',
+        'Andy Warhol',
     ],
     [
-        'Now that I\'m older, I have a much better appreciation of nature, and I love being alone.',
-        'Gia Coppola',
+        'Imagination will often carry us to worlds that never were. But without it we go nowhere.',
+        'Carl Sagan',
     ],
     [
-        'Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.',
-        'Niccolo Machiavelli',
+        'Like the Earth, the Web is a less appealing place than it used to be. If I want attitude and arguing and meanness and profanity and wrong information screamed at me as gospel, I\'ll get in a time machine and spend Christmas with my family in 1977.',
+        'J. R. Moehringer',
     ],
     [
-        'Almost everything comes from nothing.',
-        'Henri Amiel',
+        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more',
+        'Anthony Robbins',
     ],
     [
-        'Everyone can have their heart broken. Even if you know the relationship isn\'t working, it\'s still sad. Even in a bad relationship, they\'re part of your life for a long time, and saying goodbye to that can be difficult.',
-        'James Marsden',
+        'Life is anything that dies when you stomp on it.',
+        'Zig Ziglar',
     ],
     [
-        'Divine Nature gave the fields, human art built the cities.',
-        'Marcus Terentius Varro',
+        'An attack upon our ability to tell stories is not just censorship - it is a crime against our nature as human beings.',
+        'Salman Rushdie',
     ],
     [
-        'I love \'Braxton Family Values!\' I love seeing a strong family unit striving for success while dealing with everyday struggles like everyone else. Whatever drama they find themselves in, they find a way to solve it and get back to the importance of family. A positive show for sure.',
-        'Drew Sidora',
+        'I have not failed. I\'ve just found 10,000 ways that won\'t work.',
+        'Thomas A. Edison',
     ],
     [
-        'My other family is Fleetwood Mac. I don\'t need the money, but there\'s an emotional need for me to go on the road again. There\'s a love there; we\'re a band of brothers.',
-        'Stevie Nicks',
+        'Research shows that there is only half as much variation in student achievement between schools as there is among classrooms in the same school. If you want your child to get the best education possible, it is actually more important to get him assigned to a great teacher than to a great school.',
+        'Bill Gates',
     ],
     [
-        'If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?',
-        'Confucius',
-    ],
-    [
-        'The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.',
-        'Charles Atlas',
-    ],
-    [
-        'We all romanticize the people we adore.',
-        'John Green',
-    ],
-    [
-        'Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.',
-        'Carl Jung',
-    ],
-    [
-        'Each and every day, more people pay the price of Obamacare\'s mountain of mandates. As I travel across the country, I continue to hear from Americans who want Washington to take its hands off of their healthcare.',
-        'John Barrasso',
-    ],
-    [
-        'Be so good they can\'t ignore you.',
-        'Steve Martin',
+        'Quality is pride of workmanship.',
+        'W. Edwards Deming',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Taxation is the price we pay for failing to build a civilized society. The higher the tax level, the greater the failure. A centrally planned totalitarian state represents a complete defeat for the civilized world, while a totally voluntary society represents its ultimate success.',
-        'Mark Skousen',
+        'By four years of age, the average child in a family receiving public assistance has heard about 13 million words, compared to 45 million for a child from a wealthier family. The disadvantages developed during their first four years are usually still present in high school.',
+        'Sal Albanese',
     ],
     [
-        'Elvis Costello had a brand new bag. He was a musician, but he knew all about the attitude part of it.',
-        'Nick Lowe',
+        'I just developed my act way back in the late \'80s. I went to college in Georgia, so I picked up the Southern accent. I talked like that with my friends all the time, because it was fun. It was funny... All my friends were real Southern. We\'re buddies, so I\'d say stuff to make them laugh. So that was pretty much it.',
+        'Larry the Cable Guy',
     ],
     [
-        'When Jonathan Winters died, it was like, \'Oh, man!\' I knew he was frail, but I always thought he was going to last longer. I knew him as being really funny, but at the same time, he had a dark side.',
-        'Robin Williams',
+        'I work extremely hard to stay positive and happy. But I get sad and anxious, too, just like everyone.',
+        'Rachel Platten',
     ],
     [
-        'There is no better feeling than doing well while you are doing good. If you really want to meet the nicest, most caring people in your field, get involved with charity work. The thankless hours that go into planning charity dinners, running a carnival, and gathering donations for silent auctions are noticed and appreciated.',
-        'Jay Samit',
+        'Do your own thing on your own terms and get what you came here for.',
+        'Oliver James',
     ],
     [
-        'A person who never made a mistake never tried anything new.',
+        'Time you enjoyed wasting was not wasted.',
+        'John Lennon',
+    ],
+    [
+        'The evangelical Christian faith I\'d grown up with sustained me. It demanded that I refuse the drugs and alcohol on offer in our southwestern Ohio town, that I treat my friends and family kindly, and that I work hard in school. Most of all, when times were toughest, it gave me reason to hope.',
+        'J. D. Vance',
+    ],
+    [
+        'Weakness of attitude becomes weakness of character.',
         'Albert Einstein',
     ],
     [
-        'The job of the travel writer is to go far and wide, to make voluminous notes, to tell the truth.',
-        'Paul Theroux',
+        'Everyone who achieves success in a great venture, solves each problem as they came to it. They helped themselves. And they were helped through powers known and unknown to them at the time they set out on their voyage. They keep going regardless of the obstacles they met.',
+        'W. Clement Stone',
     ],
     [
-        'It\'s funny; as I get older I\'m reverting to my roots - I want to plant stuff.',
-        'Melissa McCarthy',
+        'To insult someone we call him \'bestial. For deliberate cruelty and nature, \'human\' might be the greater insult.',
+        'Isaac Asimov',
     ],
     [
-        'It\'s true that immigrant novels have to do with people going from one country to another, but there isn\'t a single novel that doesn\'t travel from one place to another, emotionally or locally.',
-        'Oscar Hijuelos',
+        'The essential lesson I\'ve learned in life is to just be yourself. Treasure the magnificent being that you are and recognize first and foremost you\'re not here as a human being only. You\'re a spiritual being having a human experience.',
+        'Connor Franta',
     ],
     [
-        'Even with an improperly ground mirror, the Hubble delivered extraordinary images. When the flaw was corrected, the Hubble delivered images of transcendent beauty and value for many years. So too \'Terra Nova.\' Even in its flawed first season, each episode was full of marvelous moments and beautiful images.',
-        'Stephen Lang',
+        'I can\'t believe that God put us on this earth to be ordinary.',
+        'Lou Holtz',
     ],
     [
-        'I have a family, loving aunts, and a good home. No, on the surface I seem to have everything except my one true friend. All I think about when I\'m with friends is having a good time. I can\'t bring myself to talk about anything but ordinary everyday things. We don\'t seem to be able to get any closer, and that\'s the problem.',
-        'Anne Frank',
+        'Trust your hunches. They\'re usually based on facts filed away just below the conscious level.',
+        'Joyce Brothers',
     ],
     [
-        'I\'m not happy not doing anything. When positive things are rolling in, you\'ve got to take them when you can get them.',
-        'Tori Spelling',
-    ],
-    [
-        'Next to acquiring good friends, the best acquisition is that of good books.',
-        'Charles Caleb Colton',
-    ],
-    [
-        'It is better to travel well than to arrive.',
+        'An idea that is developed and put into action is more important than an idea that exists only as an idea.',
         'Buddha',
     ],
     [
-        'Every family is dysfunctional, whether you want to admit it or not.',
-        'Shailene Woodley',
+        'Nobody ever went broke underestimating the taste of the American public.',
+        'H. L. Mencken',
     ],
     [
-        'Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.',
-        'Leo Aikman',
+        'I am not unconscious of the persuasive power exerted by these considerations to drag men along in the current; but I am not at liberty to travel that road.',
+        'Benjamin F. Wade',
     ],
     [
-        'Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.',
-        'Franklin Roosevelt',
+        'I\'m not a model; hence I don\'t see the reason to have a six-pack abs. I can pull off a tough and rugged look of a cop in \'Dhoom\' series without taking my shirt off. Cops don\'t have to move around without a shirt to flaunt their machismo. What makes the character of a cop stand out is his attitude and not his six-pack abs.',
+        'Abhishek Bachchan',
     ],
     [
-        'As long as I am still interested and curious, I enjoy getting up in the morning, but I can\'t say I have a happy smile on my face 24/7.',
-        'Harriet Walter',
+        'Self-love, it is obvious, remains always positive and active in our natures.',
+        'Gordon W. Allport',
     ],
     [
-        'Family life is the backbone of mankind, and that life is dependent upon mutual giving, sharing, and receiving from each other. It entails the proper use of each other\'s successes and failures for mutual up-building.',
-        'Mother Angelica',
+        'One must ask children and birds how cherries and strawberries taste.',
+        'Johann Wolfgang von Goethe',
     ],
     [
-        'A women\'s greatest asset is her beauty.',
-        'Alex Comfort',
+        'Argue for your limitations, and sure enough theyre yours.',
+        'Richard Bach',
     ],
     [
-        'Lee\'s great gifts are teaching and inspirational guidance, not administration and management.',
-        'Cheryl Crawford',
+        'If an employee told you he had the flu, you\'d send him home. If an employee told you he was feeling anxious, you\'d probably tell him to get back to work. But the emotion is just as contagious as a flu virus.',
+        'Chip Conley',
     ],
     [
-        'Some people walk in the rain, others just get wet.',
-        'Roger Miller',
+        'I am proud to be a Sikh and am a true disciple of Guru Gobind Singh, who sacrificed his entire family for the Sikh religion.',
+        'Harbhajan Singh',
     ],
     [
-        'Pleasure in the job puts perfection in the work.',
-        'Aristotle',
+        'You know what\'s funny to me? Attitude.',
+        'Don Rickles',
     ],
     [
-        'Be as you wish to seem.',
-        'Socrates',
+        'I always travel with my bike and it has become a little more difficult to do it nowadays, but I stick it in 3,5 by 6-foot case and wheel that thing in.',
+        'Donny Robinson',
     ],
     [
-        'The only way to discover the limits of the possible is to go beyond them into the impossible.',
-        'Arthur C. Clarke',
+        'It is on our failures that we base a new and different and better success.',
+        'Havelock Ellis',
     ],
     [
-        'When a moment in front of me appears to be particularly special, whether it be by beauty or experience, I capture it. I usually find a reason to justify taking that photo - symmetry, or color, or contrast - and it\'s my hope that my photography sheds light onto what I see and do on a daily basis.',
-        'Connor Franta',
+        'What I always think about when I think about \'Girls\' is Lena being in a scene where she\'s very vulnerable, possibly directing, acting, and she\'s probably written the dialogue. It\'s 2 in the morning. Everyone\'s tired. Everyone\'s grumpy. And she has a smile on her face and kindness for everyone who interacts with her.',
+        'Jennifer Konner',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'When things are bad, it\'s the best time to reinvent yourself.',
-        'George Lopez',
+        'When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.',
+        'Joseph Campbell',
     ],
     [
-        'Work is hard. Distractions are plentiful. And time is short.',
-        'Adam Hochschild',
+        'Half a century ago, the amazing courage of Rosa Parks, the visionary leadership of Martin Luther King, and the inspirational actions of the civil rights movement led politicians to write equality into the law and make real the promise of America for all her citizens.',
+        'David Cameron',
     ],
     [
-        'The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.',
-        'Leonardo Ruiz',
+        'You hear about quality time a lot but I really think that quantity time with a person is really what strengthens a relationship. That\'s when you really get to know somebody. You get to know their strengths and their weaknesses and that brings you closer. That\'s what \'Time Is Love\' is all about.',
+        'Josh Turner',
     ],
     [
-        'I guess when you turn off the main road, you have to be prepared to see some funny houses.',
-        'Stephen King',
+        'I like outgoing girls with a lovely smile and beautiful eyes.',
+        'Corbin Bleu',
     ],
     [
-        'It\'s a heavy duty to try to do everything and please everybody. My job was to go out there and play the game of basketball as best I can and provide entertainment for everyone who wanted to watch basketball. Obviously, people may not agree with that; again, I can\'t live with what everyone\'s impression of what I should or what I shouldn\'t do.',
-        'Michael Jordan',
+        'I love community, I love to be around other people. I love to be around other people when everyone\'s feeling good and doing their best. Not to just be the only one in the room that\'s shining.',
+        'Ava DuVernay',
     ],
     [
-        'I think every girl\'s dream is to find a bad boy at the right time, when he wants to not be bad anymore.',
+        'Once we accept our limits, we go beyond them.',
+        'Albert Einstein',
+    ],
+    [
+        'My journey through life has led me through both light and dark places, and it\'s because of those experiences that I have learned how to work through my character defects and to help others do the same.',
+        'Jessie Pavelka',
+    ],
+    [
+        'The Lord wants us to follow His righteous life, but yet we have to exist in the 21st century. You can\'t be going about riding a bicycle and to travel the world... that is not smart.',
+        'Benny Hinn',
+    ],
+    [
+        'Turn up the lights. I don\'t want to go home in the dark.',
+        'O. Henry',
+    ],
+    [
+        'A lot of baby boomers are baby bongers.',
+        'Kevin Nealon',
+    ],
+    [
+        'One of the things that people don\'t realize is that that natural beauty, those recreational forests, they have an economic development impact for the state as well.',
+        'Ed Rendell',
+    ],
+    [
+        'There are companies with management and companies with money. You can always find money. Management is the key to success in any business.',
+        'Husnu Ozyegin',
+    ],
+    [
+        'I\'m a big believer in persistence, don\'t be greedy and, above all, work hard. It\'s what keeps me going.',
+        'Caprice Bourret',
+    ],
+    [
+        'Creative risk taking is essential to success in any goal where the stakes are high. Thoughtless risks are destructive, of course, but perhaps even more wasteful is thoughtless caution which prompts inaction and promotes failure to seize opportunity.',
+        'Gary Ryan Blair',
+    ],
+    [
+        'If there is any one secret of success, it lies in the ability to get the other person\'s point of view and see things from that person\'s angle as well as from your own.',
+        'Henry Ford',
+    ],
+    [
+        'I feel that sin and evil are the negative part of you, and I think it\'s like a battery: you\'ve got to have the negative and the positive in order to be a complete person.',
+        'Dolly Parton',
+    ],
+    [
+        'Music in the soul can be heard by the universe.',
+        'Lao Tzu',
+    ],
+    [
+        'My ultimate goal is to end up being happy. Most of the time.',
         'Taylor Swift',
     ],
     [
-        'Personally, I\'ve learned about perseverance: when you hear the word \'No,\' and when you hear rejection, that it\'s not always final. And that timing is everything, and you have to stay the course and just keep working hard and know that, when your time comes, that it will be sweet and that it will be the perfect time.',
-        'Angela Robinson',
+        'I feel like a little kid who just walked into a candy store. I think that\'s something to smile about.',
+        'Brandon Boyd',
     ],
     [
-        'And now I have a big house, nice clothes and I travel in first class and I love it, so maybe it\'s time to enjoy being a star.',
-        'Vincent Cassel',
+        'Anyone who says they\'re not afraid at the time of a hurricane is either a fool or a liar, or a little bit of both.',
+        'Anderson Cooper',
     ],
     [
-        'People have often asked if I\'m gay because I don\'t go out of my way to spit and scratch and give people attitude.',
-        'Jason Bateman',
+        'Yet, taught by time, my heart has learned to glow for other\'s good, and melt at other\'s woe.',
+        'Homer',
     ],
     [
-        'Even with protection, even with death threats, I can publish, I can travel and I can live the life that I want and not the one my parents want or some imam somewhere thinks I should live.',
-        'Ayaan Hirsi Ali',
+        'It\'s worth noting that at the time of the American Revolution, no sane person would have given two cents for its success.',
+        'Diana Gabaldon',
     ],
     [
-        'Fortunately analysis is not the only way to resolve inner conflicts. Life itself still remains a very effective therapist.',
-        'Corrie Ten Boom',
+        'What the imagination seizes as beauty must be truth.',
+        'John Keats',
     ],
     [
-        'The ambition and focus that propel you to success can also be your downfall.',
-        'Judy Smith',
+        'If you look at a painting that you love by one of the great masters, every time you go back to it, you see something different - a different attitude or brushstroke. \'Hamlet\' is like an entire gallery of old masters.',
+        'Rory Kinnear',
     ],
     [
-        'Most people give up just when they\'re about to achieve success. They quit on the one yard line. They give up at the last minute of the game one foot from a winning touchdown.',
-        'Ross Perot',
-    ],
-    [
-        'Sometimes I feel an obligation to be accessible as a personality, but for me the driving force since the beginning has always been good work, taking risks, trying new things. If the door opens, go through it. Always go forwards.',
-        'David Soul',
-    ],
-    [
-        'Habituated from our Infancy to trample upon the Rights of Human Nature, every generous, every liberal Sentiment, if not extinguished, is enfeebled in our Minds.',
-        'George Mason',
-    ],
-    [
-        'The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.',
-        'Bertrand Russell',
-    ],
-    [
-        'The greatest way to live with honour in this world is to be what we pretend to be.',
-        'Socrates',
-    ],
-    [
-        'I have a wonderful make-up crew. They\'re the same people restoring the Statue of Liberty.',
-        'Bob Hope',
-    ],
-    [
-        'Sailing is the closest I can get to nature - it\'s adrenaline, fear, a constant challenge and learning experience, an adventure into the unknown. And of course there is nothing better than wearing the same T-shirt for days and not brushing my hair for weeks.',
-        'Daria Werbowy',
-    ],
-    [
-        'Blue thou art, intensely blue; Flower, whence came thy dazzling hue?',
-        'James Montgomery',
-    ],
-    [
-        'Every strike brings me closer to the next home run.',
-        'Babe Ruth',
-    ],
-    [
-        'I\'m from Canada, and New Zealand feels like you took all the best bits of Canada and squished them onto a tiny island like Hawaii. I was absolutely blown away by the beauty of the South Island.',
-        'Evangeline Lilly',
-    ],
-    [
-        'Defy your own group. Rebel against yourself.',
-        'Cathy Guisewite',
-    ],
-    [
-        'My father, who was a cabinetmaker, told me, \'Wood has a grain and if you go into the grain, you have beauty. If you go against it, you have splinters - it breaks.\' And I took that as my view of life. You have to follow the grain - to be sensitive to the direction of life.',
-        'Christian Louboutin',
-    ],
-    [
-        'There is no standing still because time is moving forward.',
-        'Greg Lake',
+        'Funny is a good foil. Humor is illuminating, and it also gives you power.',
+        'J. Tillman',
     ],
 ];

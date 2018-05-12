@@ -2,103 +2,103 @@
 
 return [
     [
-        'I think it all comes down to motivation. If you really want to do something, you will work hard for it.',
-        'Edmund Hillary',
+        'I am all for the short and merry life.',
+        'Henry David Thoreau',
     ],
     [
-        'I can\'t change my personality. I\'ll always smile, but I\'ll be more focused.',
-        'Katarina Johnson-Thompson',
+        'I guess, growing up at Australia Zoo and getting to travel all over the world, I have this great outlook on life, and that\'s what I hope I inspire other kids to have.',
+        'Bindi Irwin',
     ],
     [
-        'Putting good energy into your body and raising your serotonin will lead to a positive mood, exuding a more attractive glow.',
-        'Dylan Lauren',
+        'Although he\'s no longer with us, Steve Jobs is still inspirational to me, as he managed to find the balance between right brain/left-brain thinking that is crucial to building a creative technology business.',
+        'Imran Amed',
     ],
     [
-        'Boys used to call me Soda in school days. Soda means \'serving officers daughters association.\' I miss those days when I had a very protected life: one could get close and bond with other army people that they gradually would become your extended family.',
-        'Anushka Sharma',
+        'By now, you\'ve probably caught on to something: my mother is always standing by with just the right Scripture or inspirational saying to get me through any tough situation.',
+        'Gabby Douglas',
     ],
     [
-        'Before the BBC, I joined the Navy in order to travel.',
-        'David Attenborough',
+        'But reason always cuts a poor figure beside sentiment; the one being essentially restricted, like everything that is positive, while the other is infinite.',
+        'Honore de Balzac',
     ],
     [
-        'If you are fearful, a horse will back off. If you are calm and confident, it will come forward. For those who are often flattered or feared, the horse can be a welcome mirror of the best in human nature.',
-        'Clare Balding',
+        'There is no way to prosperity, prosperity is the way.',
+        'Wayne Dyer',
     ],
     [
-        'There is something beautiful about all scars of whatever nature. A scar means the hurt is over, the wound is closed and healed, done with.',
-        'Harry Crews',
+        'Your work is to discover your world and then with all your heart give yourself to it.',
+        'Buddha',
     ],
     [
-        'Sound is the vocabulary of nature.',
-        'Pierre Schaeffer',
+        'Today, people idolize athletes and celebrities - and yes, highly successful and visionary business people like Bill Gates or Steve Jobs, but not the innovators who perhaps have not seen such high-flying levels of success. Can anyone name the inventors of GPS, which has such a huge impact on our lives today?',
+        'Naveen Jain',
     ],
     [
-        'Success is just being happy. And I try so many different things. I do a lot of different things. Because I think God has helped me to love myself. I know who God is, and I love God.',
-        'Herschel Walker',
+        'The thing always happens that you really believe in; and the belief in a thing makes it happen.',
+        'Frank Wright',
     ],
     [
-        'I love those who yearn for the impossible.',
-        'Johann Wolfgang von Goethe',
+        'I have frequently been questioned, especially by women, of how I could reconcile family life with a scientific career. Well, it has not been easy.',
+        'Marie Curie',
     ],
     [
-        'If you don\'t read the newspaper, you\'re uniformed. If you read the newspaper, you\'re mis-informed',
-        'Mark Twain',
+        'With me, what you see is what you get. Yes, call me naive, but I love life. I am happy, and for that, I make no apologies. I do like to see the best in people, and when someone is nice to my face, I tend to believe them.',
+        'Keke Palmer',
     ],
     [
-        'You know, it\'s funny how songs continue to grow and evolve and become a new and deeper reflection of your life.',
+        'Nature uses only the longest threads to weave her patterns, so that each small piece of her fabric reveals the organization of the entire tapestry.',
+        'Richard P. Feynman',
+    ],
+    [
+        'The best way out is always through.',
+        'Robert Frost',
+    ],
+    [
+        'Life happens wherever you are, whether you make it or not.',
+        'Iroh',
+    ],
+    [
+        'It\'s funny how all of this has worked out - I wasn\'t popular in high school, but now every drunken guy in the United States wants to be my pal. They all want to buy me a shot, and pretty soon I\'m throwing up.',
+        'Jimmy Kimmel',
+    ],
+    [
+        'Patience is a virtue but you will never ever accomplish anything if you don\'t exercise action over patience.',
+        'Byron Pulsifer',
+    ],
+    [
+        'Who co-founded Google? Sergey Brin, a Russian-born Jew whose family fled anti-semitism in the Soviet Union to settle here and who considers himself a refugee.',
+        'Walt Mossberg',
+    ],
+    [
+        'Know the true value of time; snatch, seize, and enjoy every moment of it. No idleness, no laziness, no procrastination: never put off till tomorrow what you can do today.',
+        'Philip Stanhope, 4th Earl of Chesterfield',
+    ],
+    [
+        'Alzheimer\'s, Parkinson\'s, brain and spinal cord disorders, diabetes, cancer, at least 58 diseases could potentially be cured through stem cell research, diseases that touch every family in America and in the world.',
+        'Rosa DeLauro',
+    ],
+    [
+        'I think whether you\'re having setbacks or not, the role of a leader is to always display a winning attitude.',
+        'Colin Powell',
+    ],
+    [
+        'I\'m still craving approval from my parents. It took a lot of success for me to realize it was never coming. It\'s just not in their nature.',
+        'Andrew Stanton',
+    ],
+    [
+        'There are so many beautiful things that are a part of the world, and I\'ve always looked at life that way; I\'ve always tried to put on a smile and a brave front, not just for my kids but in my own life and all the difficulties that I\'ve gone through.',
         'Gloria Estefan',
     ],
     [
-        'Films for TV have to be much closer to the book, mainly because the objective with a TV movie that translates literature is to get the audience, after seeing this version, to pick up the book and read it themselves. My attitude is that TV can never really be any form of art, because it serves audience expectations.',
-        'Michael Haneke',
+        'The best way to make a steak is grilled over an open flame or pan sauteed in a cast iron skillet.',
+        'Roy Yamaguchi',
     ],
     [
-        'I started doing motivational tours. I\'ve seen all kinds of people, from the CEOs to the lowest executive, opening up to their fears. We don\'t introspect as much as we should.',
-        'Anupam Kher',
+        'Give light and people will find the way.',
+        'Ella Baker',
     ],
     [
-        'By the time we see that climate change is really bad, your ability to fix it is extremely limited... The carbon gets up there, but the heating effect is delayed. And then the effect of that heat on the species and ecosystem is delayed. That means that even when you turn virtuous, things are actually going to get worse for quite a while.',
-        'Bill Gates',
-    ],
-    [
-        'I\'m good at being funny.',
-        'Tom Stoppard',
-    ],
-    [
-        'If I had to live my life over, I\'d live over a saloon.',
-        'W. C. Fields',
-    ],
-    [
-        'I never had a policy; I have just tried to do my very best each and every day.',
+        'It is not my nature, when I see a people borne down by the weight of their shackles - the oppression of tyranny - to make their life more bitter by heaping upon them greater burdens; but rather would I do all in my power to raise the yoke than to add anything that would tend to crush them.',
         'Abraham Lincoln',
-    ],
-    [
-        'It\'s inspirational to see someone who is dying smile.',
-        'Arlen Specter',
-    ],
-    [
-        'I don\'t need plastic in my body to validate me as a woman.',
-        'Courtney Love',
-    ],
-    [
-        'The simplest things are often the truest.',
-        'Richard Bach',
-    ],
-    [
-        'No one can come and claim ownership of my work. I am the creator of it, and it lives within me.',
-        'Prince',
-    ],
-    [
-        'If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.',
-        'Dalai Lama',
-    ],
-    [
-        'My mother was a dominant force in our family. And I always saw her as the leader. And that was great for me as a young woman, because I never saw that women had to be dominated by men.',
-        'Dolores Huerta',
-    ],
-    [
-        'We learn wisdom from failure much more than from success. We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.',
-        'Samuel Smiles',
     ],
 ];

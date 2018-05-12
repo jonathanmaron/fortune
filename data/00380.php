@@ -2,103 +2,103 @@
 
 return [
     [
-        'It\'s really important to have balance, spend some time in nature, go to a few parties, enjoy my friends and really chill out.',
-        'Joakim Noah',
+        'There is no advertisement as powerful as a positive reputation traveling fast.',
+        'Brian Koslow',
     ],
     [
-        'My favorite books are the ones that make me smile for hours after reading them. I want that for my readers, for the sweetness to linger. Sort of like chocolate, but without the calories.',
-        'Sarah Addison Allen',
+        'I love flying; I love aircraft, and you could say I\'ve had a love affair with flight since I was a child. I travel a huge amount. I use airports, and as a pilot, I\'ve flown in and out of airports thousands of times, so really, I have a fairly broad perspective.',
+        'Norman Foster',
     ],
     [
-        'Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.',
-        'Morgan Freeman',
+        'Lives of great men all remind us, we can make our lives sublime, and, departing, leave behind us, footprints on the sands of time.',
+        'Henry Wadsworth Longfellow',
     ],
     [
-        'It\'s so essential to happiness to speak your truth out loud - because this sharing of your core pain is what creates a necessary healing shift - from negative beliefs about the world - to positive beliefs - and frees you up to be able to fully view life with meaning, purpose and connection with others.',
-        'Karen Salmansohn',
+        'Young man, the secret of my success is that at early age I discovered that I was not God.',
+        'Oliver Wendell Holmes, Jr.',
     ],
     [
-        'If one is master of one thing and understands one thing well, one has at the same time, insight into and understanding of many things.',
-        'Vincent Van Gogh',
+        'I find, in being black, a thing of beauty: a joy; a strength; a secret cup of gladness.',
+        'Ossie Davis',
     ],
     [
-        'There\'s one more thing I want to say. It\'s a touchy subject. Black beauty. Black sensuality. We live in a culture where the beauty of black people isn\'t always as celebrated as other types. I\'d like to help change that if I can!',
-        'Jody Watley',
+        'Time travel offends our sense of cause and effect - but maybe the universe doesn\'t insist on cause and effect.',
+        'Edward M. Lerner',
     ],
     [
-        'Every now and then, someone will tell me that one of my books has made them laugh out loud. I never believe them because: a.) my books don\'t make me laugh out loud; and b.) sometimes I have said this to a writer, when really what I meant was, \'Your book made me smile appreciatively.\'',
-        'Mary Roach',
+        'We are to seek wisdom and understanding only in the length of days.',
+        'Marcus Aurelius',
     ],
     [
-        'For me, I think the Lord wanted me to win to put a smile on Chinese people\'s faces.',
-        'Michael Chang',
+        'Don\'t let what you can\'t do stop you from doing what you can do.',
+        'Unknown',
     ],
     [
-        'Best to live lightly, unthinkingly.',
-        'Sophocles',
-    ],
-    [
-        'For myself I hold no preferences among flowers, so long as they are wild, free, spontaneous. Bricks to all greenhouses! Black thumb and cutworm to the potted plant!',
-        'Edward Abbey',
-    ],
-    [
-        'The best way of removing negativity is to laugh and be joyous.',
-        'David Icke',
+        'Indonesia is a very huge country, geographically and in number of people, and there is still a lot of growth in the income level; It is very easy to assume there is a lot of demand for travel.',
+        'Edwin Soeryadjaya',
     ],
     [
         'Either you run the day or the day runs you.',
         'Jim Rohn',
     ],
     [
-        'My jet lag is getting a bit ridiculous. But, you know, it\'s first-world problems. It\'s a wonderful problem, \'Oh I have to travel around the world; how awful.\'',
-        'Margot Robbie',
+        'That attitude that fighting is probably not fair, but you have to defend yourself anyway and damage the enemy, has been profoundly consequential as far as my political activism goes.',
+        'June Jordan',
     ],
     [
-        'Ya gots to work with what you gots to work with.',
-        'Stevie Wonder',
+        'Anybody who was in the military or a military family has a certain sensitivity to the separation. Everyone knows military wives have the hardest jobs. I was born into one. When I think back to those days, I didn\'t appreciate it then.',
+        'Lester Holt',
     ],
     [
-        'I want to put concepts in front of people that make them laugh or smile or even hate what I do. I\'m not interested in just putting clothes in stores.',
-        'Thom Browne',
+        'The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.',
+        'Aldous Huxley',
     ],
     [
-        'When you pray for anyone you tend to modify your personal attitude toward him.',
-        'Norman Vincent Peale',
+        'Life is so constructed that an event does not, cannot, will not, match the expectation.',
+        'Charlotte Bronte',
     ],
     [
-        'People ask why there are so few female artists who succeed. It\'s because women are not ready to sacrifice as much as men. Women want a man, they want a family, they want to have children, they want to be loved, and to be an artist. And they can\'t; it\'s impossible.',
-        'Marina Abramovic',
+        'There are things that I can tell my friends that I just can\'t tell my family, just as far as how I\'m feeling about things. My friends know me the best in a certain way. I just think old friends are really, really important.',
+        'Jonathan Levine',
     ],
     [
-        'I never thought of myself as like, a funny person.',
-        'Lena Dunham',
+        'The only way to get love is to be lovable. It\'s very irritating if you have a lot of money. You\'d like to think you could write a check: \'I\'ll buy a million dollars\' worth of love.\' But it doesn\'t work that way. The more you give love away, the more you get.',
+        'Warren Buffett',
     ],
     [
-        'Whatever success I\'ve had, I always like to top it.',
-        'Bernie Mac',
+        'The family farm is the foundation for who we are as a Commonwealth. And for over a century, the family farm in Kentucky has centered around one crop: tobacco.',
+        'Jim Bunning',
     ],
     [
-        'Smile, it is the key that fits the lock of everybody\'s heart.',
-        'Anthony J. D\'Angelo',
+        'A smile is like an instant facelift and an instant mood lift.',
+        'Christie Brinkley',
     ],
     [
-        'One of the worst things that can happen to an artist is to perceive himself as the owner of his art, and art as his tool. A product of the marketplace sensibility, this attitude barely differs on a psychological plane from the patron\'s view of the artist as a paid employee.',
-        'Joseph Brodsky',
+        'Love and compassion open our own inner life, reducing stress, distrust and loneliness.',
+        'Dalai Lama',
     ],
     [
-        'Schubert had arguably the same melodic gift as Mozart, but even less support. He didn\'t have the early exposure, never got to travel anywhere, and yet generated and amassed a body of work that grew and developed and is very profound.',
-        'Twyla Tharp',
+        'Success is ... knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others.',
+        'John C. Maxwell',
     ],
     [
-        'When you consider all the stars I have managed, mere submarines make me smile.',
-        'Charles Frohman',
+        'A key to achieving success is to assemble a strong and stable management team.',
+        'Vivek Wadhwa',
     ],
     [
-        'I have met so many people who are negative, and it tells on their attitude towards life and towards everything.',
-        'Phaneesh Murthy',
+        'My reputation grows with every failure.',
+        'George Shaw',
     ],
     [
-        'Once I accidentally left my passport in Nice, France, when I was on my way to Prague. Upon arriving in Vienna, after taking an overnight, and being asked to present my travel documents and realizing I forgot them at the hotel, they kicked me off the train and sent me back!',
-        'Megalyn Echikunwoke',
+        'No act of kindness, no matter how small, is ever wasted.',
+        'Aesop',
+    ],
+    [
+        'The distance between insanity and genius is measured only by success.',
+        'Bruce Feirstein',
+    ],
+    [
+        'Communism is like one big phone company.',
+        'Lenny Bruce',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'Everybody\'s got a job to do, and I do mine as best I can.',
-        'Marlee Matlin',
+        'You may delay, but time will not.',
+        'Benjamin Franklin',
     ],
     [
-        'When many work together for a goal, Great things may be accomplished. It is said a lion cub was killed By a single colony of ants.',
-        'Saskya Pandita',
+        'Be passionate. Be courageous. Be your best.',
+        'Gabrielle Giffords',
     ],
     [
-        'We tried to set up a company that patterned ourselves after Southwest in all the fun, the spirit, the great people, the smile, the efficiency side of it, but we\'ve added some extras that people aren\'t used to finding on Southwest.',
-        'David Neeleman',
+        'I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.',
+        'Muhammad Iqbal',
     ],
     [
-        'Memories are like mulligatawny soup in a cheap restaurant. It is best not to stir them.',
-        'P. G. Wodehouse',
-    ],
-    [
-        'The story of life is quicker than the blink of an eye, the story of love is hello, goodbye.',
-        'Thomas Jefferson',
-    ],
-    [
-        'The experience gathered from books, though often valuable, is but the nature of learning; whereas the experience gained from actual life is one of the nature of wisdom.',
-        'Samuel Smiles',
-    ],
-    [
-        'Success always necessitates a degree of ruthlessness. Given the choice of friendship or success, I\'d probably choose success.',
-        'Sting',
-    ],
-    [
-        'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
-        'John Wayne',
-    ],
-    [
-        'Life is hard, and a lot of people come home tired from work. If they\'re gonna spend half an hour reading, they want some entertainment and a sense of achievement. So that\'s what I give them. That\'s all I\'m trying to do. Is that really so wrong?',
-        'James Patterson',
-    ],
-    [
-        'Our heritage and ideals, our code and standards - the things we live by and teach our children - are preserved or diminished by how freely we exchange ideas and feelings.',
-        'Walt Disney',
-    ],
-    [
-        'What I miss the most is chatting with my friends and family and having a good laugh over a simple meal.',
-        'Kim Yuna',
-    ],
-    [
-        'By all these lovely tokens September days are here, With summer\'s best of weather And autumn\'s best of cheer.',
-        'Helen Hunt Jackson',
-    ],
-    [
-        'The resistance that you fight physically in the gym and the resistance that you fight in life can only build a strong character.',
-        'Travis Barker',
-    ],
-    [
-        'If you don\'t have anything nice to say, don\'t say it at all. And if you do have to say it, make it really funny so I can screenshot it and save it for later.',
-        'Sabrina Carpenter',
-    ],
-    [
-        'Filming is a funny combination of having a good time and not being able to wait until it\'s over.',
-        'Nicole Holofcener',
-    ],
-    [
-        'Thanks to capitalism, the importance placed on beauty has never been so manipulated. We are the guinea pigs force-fed ads that tell us how pathetic we are: that we will never be loved, happy or valuable unless we have the body, the face, the hair, even the personality that will apparently be ours, if only we buy their products.',
-        'Beth Ditto',
-    ],
-    [
-        'I love to smile.',
-        'Inge de Bruijn',
-    ],
-    [
-        'Comedians like to see people smile. With acting, I love giving people a feeling, an emotion. I like to give people a feeling. When they come away from my scene, I want them to think.',
+        'I\'m happy with who I am inside. I\'d hate to have accolades and all that and not really be happy with who I was. So I\'m really thankful for my family and for the support system that I have for being the person that I am today. I\'m proud of who I am.',
         'Keke Palmer',
     ],
     [
-        'I have always known what I wanted, and that was beauty... in every form.',
-        'Joan Crawford',
+        'Every man has his follies - and often they are the most interesting thing he has got.',
+        'Josh Billings',
     ],
     [
-        'What must it be like for a little boy to read that daddy never loved mummy?',
-        'Princess Diana',
+        'There is no greater harm than that of time wasted.',
+        'Michelangelo',
     ],
     [
-        'Get up and dance, get up and smile, get up and drink to the days that are gone in the shortest while.',
-        'Simon Fowler',
+        'The least of things with a meaning is worth more in life than the greatest of things without it.',
+        'Carl Jung',
     ],
     [
-        'A bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
-        'Helen Rowland',
+        'In philanthropy, you have to take the attitude of a mother... You have to be patient, and we have been very patient for a long time.',
+        'Shiv Nadar',
     ],
     [
-        'What we achieve inwardly will change outer reality.',
-        'Plutarch',
+        'The difficulty in life is the choice.',
+        'Emmy Rossum',
     ],
     [
-        'To follow, without halt, one aim: There is the secret of success.',
-        'Anna Pavlova',
+        'We sit in a room for months trying to think of funny things.',
+        'David Walliams',
     ],
     [
-        'The future of America is not an entitlement. We have been given a treasure chest of gifts and opportunities, but some people are being left behind, and success is not sustainable unless it is shared.',
-        'Howard Schultz',
+        'My work reflects a relationship to the built world that shifts between control and randomness, strangeness and beauty, comfort and fear.',
+        'David Allee',
+    ],
+    [
+        'If a man has been his mother\'s undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it.',
+        'Sigmund Freud',
+    ],
+    [
+        'Work is not man\'s punishment. It is his reward and his strength and his pleasure.',
+        'George Sand',
+    ],
+    [
+        'I am an emotional person, and soccer is sheer emotion. For me, it is the best way to unwind.',
+        'Martin Winterkorn',
+    ],
+    [
+        'People living deeply have no fear of death.',
+        'Hans Christian Andersen',
+    ],
+    [
+        'I honestly think it is better to be a failure at something you love than to be a success at something you hate.',
+        'George Burns',
+    ],
+    [
+        'So if diva means giving your best, then yes, I guess I am a diva.',
+        'Patti LaBelle',
+    ],
+    [
+        'Our distrust is very expensive.',
+        'Ralph Emerson',
+    ],
+    [
+        'Without imagination we can go nowhere. And imagination is not restricted to the arts. Every scientist I have met who has been a success has had to imagine.',
+        'Rita Dove',
+    ],
+    [
+        'Leaders must exemplify integrity and earn the trust of their teams through their everyday actions. When you do this, you set high standards for everyone at your company. And when you do so with positive energy and enthusiasm for shared goals and purpose, you can deeply connect with your team and customers.',
+        'Marillyn Hewson',
+    ],
+    [
+        'The best way of removing negativity is to laugh and be joyous.',
+        'David Icke',
+    ],
+    [
+        'Endurance is nobler than strength, and patience than beauty.',
+        'John Ruskin',
+    ],
+    [
+        'I would love to have some sort of \'Back To The Future\' Delorean time machine travel device so I could go back to 1981 to see that very first Jackson 5 concert I went to, back when I was a kid.',
+        'Questlove',
+    ],
+    [
+        'A major league pitching coach is a really difficult job. It takes a big commitment in terms of time, travel and workload.',
+        'David Cone',
+    ],
+    [
+        'Leave the matter of religion to the family altar, the church, and the private school, supported entirely by private contributions. Keep the church and state forever separate.',
+        'Ulysses S. Grant',
     ],
 ];

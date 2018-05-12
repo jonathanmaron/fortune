@@ -2,103 +2,103 @@
 
 return [
     [
-        'When trouble comes, it\'s your family that supports you.',
-        'Guy Lafleur',
+        'The attitude of giving a full commitment to the partnership will usually result in getting the same commitment in return.',
+        'Denise Morrison',
     ],
     [
-        'In the \'70s, in Britain, if you were going to do serious photography, you were obliged to work in black-and-white. Color was the palette of commercial photography and snapshot photography.',
-        'Martin Parr',
+        'I think it is a combination of looks, aura, success, the energies that one gives out, the person you are and the person you feel like that makes you \'desirable.\' When the outside world sees you as a man who is responsible for himself and his family, as a man who is fit and sensitive, it kind of ups your desirability.',
+        'Arjun Rampal',
     ],
     [
-        '\'Unbreakable Smile\' was based off one of the songs I wrote for the album - it was actually the first song I wrote for the album without realizing it yet. I think I wanted to name the album that because it seemed like that was just the theme of that chapter in my life and just the theme of all the songs put together.',
-        'Tori Kelly',
+        'If liberty means anything at all, it means the right to tell people what they do not want to hear.',
+        'George Orwell',
     ],
     [
-        'You can follow your favorite company or organization. You can also mix that in with your family and your social network and talk about all these interests in real time. That\'s the value, not the brand \'Twitter.\' Twitter just provides the venue for it.',
-        'Jack Dorsey',
+        'I never did anything by accident, nor did any of my inventions come by accident; they came by work.',
+        'Thomas A. Edison',
     ],
     [
-        'Nobody was my support. You have to support yourself, and I think that is the beauty of being a woman. You can handle anything and be ten times better than men.',
-        'Kangana Ranaut',
+        'She gave up beauty in her tender youth, gave all her hope and joy and pleasant ways; she covered up her eyes lest they should gaze on vanity, and chose the bitter truth.',
+        'Christina Rossetti',
     ],
     [
-        'The basic fact about human existence is not that it is a tragedy, but that it is a bore. It is not so much a war as an endless standing in line.',
-        'Ernest Hemingway',
+        'I don\'t need to convince anybody that I know kung fu, but maybe somebody needs to know that I really can act, without doing a Chinese accent or a funny walk.',
+        'David Carradine',
     ],
     [
-        'My kids started school, so having a strong base in Melbourne has been a key priority. I\'m not daunted by the travel. People say, \'It\'s so far to Australia,\' and I say, \'You get on the plane, you eat well, you sleep, you wake up - and you\'re there.\'',
-        'Geoffrey Rush',
+        'I always wanted to be somebody, but I should have been more specific.',
+        'Lily Tomlin',
     ],
     [
-        'Simplicity is natures first step, and the last of art.',
-        'Philip James Bailey',
+        'One way to get the most out of life is to look upon it as an adventure.',
+        'Serena Williams',
     ],
     [
-        'A birthday is just another day where you go to work and people give you love. Age is just a state of mind, and you are as old as you think you are. You have to count your blessings and be happy.',
-        'Abhishek Bachchan',
+        'If men knew how women pass the time when they are alone, they\'d never marry.',
+        'O. Henry',
     ],
     [
-        'I love to see people laugh and put a smile on peoples\' faces. Anytime I\'m doing that I\'m happy.',
-        'Dexter Darden',
+        'Before \'Gangnam Style\' I was not a good attitude artist.',
+        'Psy',
     ],
     [
-        'If you embrace \'positive thinking,\' you are - by definition - spurning \'negative thinking.\' So it\'s as if you were on a teeter-totter and are trying desperately to put all your weight on one side - the \'positive thinking\' side.',
-        'Srikumar Rao',
-    ],
-    [
-        'The man who interprets Nature is always held in great honor.',
-        'Zora Neale Hurston',
-    ],
-    [
-        'The best way to look at any business is from the standpoint of the clients.',
-        'Jamie Dimon',
-    ],
-    [
-        'O, thou art fairer than the evening air clad in the beauty of a thousand stars.',
-        'Christopher Marlowe',
-    ],
-    [
-        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
-        'Paul Bryant',
-    ],
-    [
-        'There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.',
-        'Malcolm X',
-    ],
-    [
-        'Your life is the fruit of your own doing. You have no one to blame but yourself.',
-        'Lindsey Vonn',
-    ],
-    [
-        "There are three rules.\n1. If you do not go after what you want, you will never have it.\n2. If you do not ask, the answer will always be no.\n3. If you do not step forward, you will remain in the same place.",
+        'A man is not where he lives but where he loves.',
         'Unknown',
     ],
     [
-        'Success is dangerous. One begins to copy oneself, and to copy oneself is more dangerous than to copy others. It leads to sterility.',
-        'Pablo Picasso',
+        'Eagles commonly fly alone. They are crows, daws, and starlings that flock together.',
+        'John Webster',
     ],
     [
-        'All suffering originates from craving, from attachment, from desire.',
-        'Edgar Allan Poe',
+        'Certain travellers give the impression that they keep moving because only then do they feel fully alive.',
+        'Ella Maillart',
     ],
     [
-        'Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.',
-        'Alphonse Karr',
+        'Doing the best at this moment puts you in the best place for the next moment.',
+        'Oprah Winfrey',
     ],
     [
-        'I believe one of the best things about managing people is that we can influence lives in a positive way. That\'s basically what a manager is about. When I can do that, I am very happy.',
-        'Arsene Wenger',
+        'I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.',
+        'Kelly McGillis',
     ],
     [
-        'It takes considerable knowledge just to realize the extent of your own ignorance.',
-        'Thomas Sowell',
+        'Sometimes not telling people anything is a good thing.',
+        'Jason Myers',
     ],
     [
-        'Patience, persistence and perspiration make an unbeatable combination for success.',
-        'Napoleon Hill',
+        'Success isn\'t measured by money or power or social rank. Success is measured by your discipline and inner peace.',
+        'Mike Ditka',
     ],
     [
-        'The breaks you take from work pay you back manifold when you return because you come back with a fresher mind and newer thinking. Some of your best ideas come when you\'re on vacation.',
-        'Gautam Singhania',
+        'This is part of the involuntary bargain we make with the world just by being alive. We get to experiences the splendor of nature, the beauty of art, the balm of love and the sheer joy of existence, always with the knowledge that illness, injury, natural disaster, or pure evil can end it in an instant for ourselves or someone we love.',
+        'Jeff Greenfield',
+    ],
+    [
+        'Yes, I do believe that there is a cause and effect and a ripple effect upon everything everybody does, and they have positive consequences and negative consequences. If you start to focus on the kind of minutia of that, it\'s really quite extraordinary.',
+        'Kiefer Sutherland',
+    ],
+    [
+        'Work is hard. Distractions are plentiful. And time is short.',
+        'Adam Hochschild',
+    ],
+    [
+        'Wyoming is a special place: Where our farmers and ranchers rise before dawn and work until night to feed our nation. Where our coal miners and oil field workers produce the energy that powers America\'s homes and businesses, and where our families are guided by faith, know the value of hard work, and deeply love our land.',
+        'Liz Cheney',
+    ],
+    [
+        'I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.',
+        'Edward Everett Hale',
+    ],
+    [
+        'Travel is so important in its capacity to expand the mind. It\'s exciting to start as young as possible - you get to see how other cultures live, challenge your senses, and try different cuisines.',
+        'Natalie Dormer',
+    ],
+    [
+        'You cannot have a positive life and a negative mind.',
+        'Joyce Meyer',
+    ],
+    [
+        'Stubborn and ardent clinging to one\'s opinion is the best proof of stupidity.',
+        'Michel de Montaigne',
     ],
 ];

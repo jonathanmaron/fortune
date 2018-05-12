@@ -2,103 +2,103 @@
 
 return [
     [
-        'The family is the first essential cell of human society.',
-        'Pope John XXIII',
+        'An obstacle may be either a stepping stone or a stumbling block.',
+        'Unknown',
     ],
     [
-        'When it comes to developing character strength, inner security and unique personal and interpersonal talents and skills in a child, no institution can or ever will compare with, or effectively substitute for, the home\'s potential for positive influence.',
-        'Stephen Covey',
+        'My mother lived through the Great Depression. Her family of 11 children pulled themselves up by their bootstraps and moved to wherever there was work at the time. And in rural Oklahoma, that wasn\'t easy to find.',
+        'Chuck Norris',
     ],
     [
-        'To be prepared is half the victory.',
-        'Miguel de Cervantes',
+        'I envy the sensibility in Europe, appreciating beauty in women as they age. I\'m going to go that way. I might dye my gray hair for a bit, but beyond that the buck stops. I\'m not having any work done.',
+        'Rachel Bilson',
     ],
     [
-        'To us, family means putting your arms around each other and being there.',
-        'Barbara Bush',
+        'It never ceases to amaze me that every second of every day, more than 6,000 billion neutrinos coming from nuclear reactions inside the sun whiz through my body, almost all of which will travel right through the earth without interruption.',
+        'Lawrence M. Krauss',
     ],
     [
-        'It\'s so funny, you go to acting school thinking you\'re going to learn how to be other people, but really it taught me how to be myself. Because it\'s in understanding yourself deeply that you can lend yourself to another person\'s circumstances and another person\'s experience.',
-        'Lupita Nyong\'o',
+        'Real shapes and real patterns are things you would observe in nature, like the marks on the back of a cobra\'s hood or the markings on a fish or a lizard. Imaginary shapes are just that, symbols that come to a person in dreams or reveries and are charged with meaning.',
+        'Jim Woodring',
     ],
     [
-        'Fear of failure is one attitude that will keep you at the same point in your life.',
-        'Byron Pulsifer',
+        'That best portion of a man\'s life, his little, nameless, unremembered acts of kindness and love.',
+        'William Wordsworth',
     ],
     [
-        'One\'s appearance bespeaks dignity corresponding to the depth of his character. One\'s concentrated effort, serene attitude, taciturn air, courteous disposition, thoroughly polite bearing, gritted teeth with a piercing look - each of these reveals dignity. Such outward appearance, in short, comes from constant attentiveness and seriousness.',
-        'Yamamoto Tsunetomo',
+        'Vaccines and antibiotics have made many infectious diseases a thing of the past; we\'ve come to expect that public health and modern science can conquer all microbes. But nature is a formidable adversary.',
+        'Tom Frieden',
     ],
     [
-        'I make negative music, but I also make positive music because that\'s what thrown at me with life.',
-        'Tyga',
+        'I believe love at first sight is possible. Centuries of literature and art and beauty has been dedicated to that idea, so who am I to argue, even if I\'ve never experienced it?',
+        'Maggie Grace',
+    ],
+    [
+        'I\'m proud of my hard work. Working hard won\'t always lead to the exact things we desire. There are many things I\'ve wanted that I haven\'t always gotten. But, I have a great satisfaction in the blessings from my mother and father, who instilled a great work ethic in me both personally and professionally.',
+        'Tamron Hall',
+    ],
+    [
+        'It was a unique childhood, to say the least. My father was born in Patiala to refugee parents and was a part of the Indian Air Force. The talented few amongst the Air Force pilots are made test pilots. Test pilots are best suited to look at the space programme as they are trained to expect the unexpected.',
+        'Kapil Sharma',
+    ],
+    [
+        'I think nudity is funny, especially when it\'s inappropriate.',
+        'Chelsea Handler',
+    ],
+    [
+        'I don\'t believe people are looking for the meaning of life as much as they are looking for the experience of being alive.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Life was a funny thing that happened to me on the way to the grave.',
+        'Quentin Crisp',
+    ],
+    [
+        'Beauty is the only thing that time cannot harm. Philosophies fall away like sand, creeds follow one another, but what is beautiful is a joy for all seasons, a possession for all eternity.',
+        'Oscar Wilde',
+    ],
+    [
+        'You have to trust in something - your gut, destiny, life, karma, whatever.This approach has never let me down.',
+        'Steve Jobs',
+    ],
+    [
+        'Be willing to step outside your comfort zone once in a while; take the risks in life that seem worth taking. The ride might not be as predictable if you\'d just planted your feet and stayed put, but it will be a heck of a lot more interesting.',
+        'Woody Hayes',
+    ],
+    [
+        'When you win, nothing hurts.',
+        'Joe Namath',
+    ],
+    [
+        'Learning to love my inner and outer beauty wasn\'t an easy road. I still don\'t always love the reflection I see in the mirror, but I have learned that my outer appearance does not define me.',
+        'Katherine Schwarzenegger',
+    ],
+    [
+        '\'Neon Future\' is, in short, a positive outlook on human progress and technology, looking forward to a bright, colorful utopia. It\'s embracing the future and looking toward the future in a more optimistic way.',
+        'Steve Aoki',
+    ],
+    [
+        'Major League Baseball has the best idea of all. Three years before they\'ll take a kid out of college, then they have a minor league system that they put the kids in. I\'m sure that if the NBA followed the same thing, there would be a lot of kids in a minor league system that still were not good enough to play in the major NBA.',
+        'Bobby Knight',
+    ],
+    [
+        'Faith, family, academics and then sports was the order of priorities in my family. My parents really stuck to these principles when raising me and my two brothers. As long as we took care of everything, they let us play as much basketball as we wanted.',
+        'Jeremy Lin',
+    ],
+    [
+        'Despise not death, but welcome it, for nature wills it like all else.',
+        'Marcus Aurelius',
+    ],
+    [
+        'To make a prairie it takes a clover and one bee, One clover, and a bee, And revery. The revery alone will do, If bees are few.',
+        'Emily Dickinson',
     ],
     [
         'Southern political personalities, like sweet corn, travel badly. They lose flavor with every hundred yards away from the patch. By the time they reach New York, they are like Golden Bantam that has been trucked up from Texas - stale and unprofitable. The consumer forgets that the corn tastes different where it grows.',
         'A. J. Liebling',
     ],
     [
-        'You achieve long-term success step by step. Try to achieve your goals one at a time, like you do target practice.',
-        'Daniel Snyder',
-    ],
-    [
-        'My definition of success is to live your life in a way that causes you to feel a ton of pleasure and very little pain - and because of your lifestyle, have the people around you feel a lot more pleasure than they do pain.',
-        'Tony Robbins',
-    ],
-    [
-        'Speak when you are angry and you will make the best speech you will ever regret.',
-        'Ambrose Bierce',
-    ],
-    [
-        'Forgiveness is choosing to love. It is the first skill of self-giving love.',
-        'Mohandas Gandhi',
-    ],
-    [
-        'Beauty is in the strangest places. A piece of garbage floating in the wind. And that beauty exists in America. It exists everywhere. You have to develop an eye for it and be able to see it.',
-        'Alan Ball',
-    ],
-    [
-        'Arab civilizations had been of an abstract nature, moral and intellectual rather than applied; and their lack of public spirit made their excellent private qualities futile. They were fortunate in their epoch: Europe had fallen barbarous; and the memory of Greek and Latin learning was fading from men\'s minds.',
-        'T. E. Lawrence',
-    ],
-    [
-        'When I travel, there are no rules with my diet. I eat whatever looks good, but in small portions. Food is such a rich part of the travel experience. There is no way I would cut that out!',
-        'Zoe McLellan',
-    ],
-    [
-        'What sunshine is to flowers, smiles are to humanity. These are but trifles, to be sure; but scattered along life\'s pathway, the good they do is inconceivable.',
-        'Joseph Addison',
-    ],
-    [
-        'I don\'t want to be married to someone who feels inferior to my success or because I make more money than he does.',
-        'Grace Kelly',
-    ],
-    [
-        'It makes me sad when I find sisters who aren\'t joyful. They might smile, but with just a smile they could be flight attendants!',
-        'Pope Francis',
-    ],
-    [
-        'To be wronged is nothing unless you continue to remember it.',
-        'Confucius',
-    ],
-    [
-        'The best partnerships aren\'t dependent on a mere common goal but on a shared path of equality, desire, and no small amount of passion.',
-        'Sarah MacLean',
-    ],
-    [
-        'Gratitude bestows reverence, allowing us to encounter everyday epiphanies, those transcendent moments of awe that change forever how we experience life and the world.',
-        'Winston Churchill',
-    ],
-    [
-        'That which is not good for the bee-hive cannot be good for the bees.',
-        'Marcus Aurelius',
-    ],
-    [
-        'The best thing commercially, which is the worst artistically, by and large, is the most successful.',
-        'Orson Welles',
-    ],
-    [
-        'There is no excellent beauty that hath not some strangeness in the proportion.',
-        'Francis Bacon',
+        'You are not weak just because your heart feels so heavy.',
+        'Andrea Gibson',
     ],
 ];

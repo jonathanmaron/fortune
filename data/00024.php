@@ -2,103 +2,103 @@
 
 return [
     [
-        'I think I have a mental nappy attitude.',
-        'Paul Mooney',
+        'Courage, my friends; \'tis not too late to build a better world.',
+        'Tommy Douglas',
     ],
     [
-        'That some achieve great success, is proof to all that others can achieve it as well.',
+        'It can\'t be spring if your heart is filled with past failures.',
+        'Byron Pulsifer',
+    ],
+    [
+        'True beauty is when someone radiates that they like themselves.',
+        'Aimee Mullins',
+    ],
+    [
+        'When I first started writing songs and being very explicit, it was hard, but one of the main things people respond to in my writing is that \'just say it\' attitude of my songs. There really is nothing personal or private; it\'s all universal, if you can just find the courage to be open about your life.',
+        'Ani DiFranco',
+    ],
+    [
+        'There will always be a desire for something new, fresh and innovative, as well as a yearning and respect for timeless elegance and beauty.',
+        'Helena Christensen',
+    ],
+    [
+        'You have enemies? Good. That means you\'ve stood up for something, sometime in your life.',
+        'Victor Kiam',
+    ],
+    [
+        'I always had a fantasy of being a chef, because I like kitchen life.',
+        'Harvey Mackay',
+    ],
+    [
+        'My father taught my siblings and me the importance of positive values and a strong ethical compass. He showed us how to be resilient, how to deal with challenges, and how to strive for excellence in all that we do. He taught us that there\'s nothing that we cannot accomplish if we marry vision and passion with an enduring work ethic.',
+        'Ivanka Trump',
+    ],
+    [
+        'In your 20s you can be pretty, but you don\'t accomplish real beauty until you find wisdom and depth.',
+        'Evangeline Lilly',
+    ],
+    [
+        'I don\'t think the world focuses on the positive things enough.',
+        'Dwyane Wade',
+    ],
+    [
+        'I think ultimately I make people happy: Whether I\'m doing the stage show, giving somebody a makeover, or designing clothing, the end goal is to make people smile.',
+        'Carson Kressley',
+    ],
+    [
+        'If you take the contempt some Americans have for yuppies and multiply it by 10 you might come close to understanding their attitude towards the City, as they call it - London, the people of the south.',
+        'Martin Cruz Smith',
+    ],
+    [
+        'I have always served the public to the best of my ability. Why? Because, like every other man, it is to my interest to do so.',
+        'Cornelius Vanderbilt',
+    ],
+    [
+        'May our hearts garden of awakening bloom with hundreds of flowers.',
+        'Thich Nhat Hanh',
+    ],
+    [
+        'I didn\'t plan on being a single mom, but you have to deal with the cards you are dealt the best way you can.',
+        'Tichina Arnold',
+    ],
+    [
+        'All men are by nature born equally free and independent.',
+        'George Mason',
+    ],
+    [
+        'Wear a smile and have friends; wear a scowl and have wrinkles.',
+        'George Eliot',
+    ],
+    [
+        'I\'m convinced that there\'s a new way to define capitalism, and that the definition should include three ingredients - that we love our work, that we are building a traditionally successful business, and that we are having some positive impact in the world, whether it\'s local or global.',
+        'Biz Stone',
+    ],
+    [
+        'Truth is generally the best vindication against slander.',
         'Abraham Lincoln',
-    ],
-    [
-        'Be the change that you want to see in the world.',
-        'Mohandas Gandhi',
-    ],
-    [
-        'The music industry is really funny, when you have a hit record, everyone knows who are you, everyone wants to do duets with you, then if you have a miss, people suffer from amnesia.',
-        'Seal',
-    ],
-    [
-        'I may not have gone where I intended to go, but I think I have ended up where I needed to be.',
-        'Douglas Adams',
-    ],
-    [
-        'I have been very fortunate in my life. I have had a lot of happiness. I have a great family and I work a lot, and that\'s what I like to do.',
-        'Danny DeVito',
-    ],
-    [
-        'Everyday may not be good but there is something good in everyday.',
-        'Anonymous',
-    ],
-    [
-        'A bland smile is like a green light at an intersection, it feels good when you get one, but you forget it the moment you\'re past it.',
-        'Douglas Coupland',
     ],
     [
         'I don\'t think I could, with a straight face, describe myself as a completely positive person, but I\'m not overly negative, either. On the whole, most writers think plots through to their consequences, and it\'s not always a sunny place. I have an occupational temperament for anxiety.',
         'James Lasdun',
     ],
     [
-        'I\'m taking all the negatives in my life, and turning them into a positive.',
-        'Pitbull',
+        'Unless a tree has borne blossoms in spring, you will vainly look for fruit on it in autumn.',
+        'Walter Scott',
     ],
     [
-        'Don\'t pray when it rains if you don\'t pray when the sun shines.',
-        'Satchel Paige',
+        'I don\'t care about commercial success. I get to do what I love and communicate whatever I want.',
+        'Sia',
     ],
     [
-        'You know, there\'s nothing like seeing the smile on my kids\' faces. Laughing together. Playing. It\'s the best.',
-        'Mark Wahlberg',
+        'I went to the Performing Arts School and studied classical ballet. That attitude is something that\'s put into your head. You are never thin enough.',
+        'Carmen Electra',
     ],
     [
-        'The starting point of discovering who you are, your gifts, your talents, your dreams, is being comfortable with yourself. Spend time alone. Write in a journal. Take long walks in the woods.',
-        'Robin S. Sharma',
-    ],
-    [
-        'You, Eternal Trinity, are my Creator, and I am the work of Your hands, and I know through the new creation which You have given me in the blood of Your Son, that You are enamored of the beauty of Your workmanship.',
-        'Catherine of Siena',
-    ],
-    [
-        'That\'s my gift. I let that negativity roll off me like water off a duck\'s back. If it\'s not positive, I didn\'t hear it. If you can overcome that, fights are easy.',
-        'George Foreman',
-    ],
-    [
-        'Health and beauty is not just about what you apply. If you don\'t have it together on the inside, then nothing else is going to matter.',
-        'Nia Peeples',
-    ],
-    [
-        'There are times as a parent when you realize that your job is not to be the parent you always imagined you\'d be, the parent you always wished you had. Your job is to be the parent your child needs, given the particulars of his or her own life and nature.',
-        'Ayelet Waldman',
-    ],
-    [
-        'I would travel only by horse, if I had the choice.',
-        'Linda McCartney',
-    ],
-    [
-        'The key to growth is the introduction of higher dimensions of consciousness into our awareness.',
+        'From wonder into wonder existence opens.',
         'Lao Tzu',
     ],
     [
-        'The Way Get Started Is To Quit Talking And Begin Doing.',
-        'Walt Disney',
-    ],
-    [
-        'And by the way, everything in life is writable about if you have the outgoing guts to do it, and the imagination to improvise. The worst enemy to creativity is self-doubt.',
-        'Jacques Yves Cousteau',
-    ],
-    [
-        'Learning without reflection is a waste, reflection without learning is dangerous.',
-        'Confucius',
-    ],
-    [
-        'If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.',
-        'Pema Chodron',
-    ],
-    [
-        'Count your joys instead of your woes. Count your friends instead of your foes.',
-        '',
-    ],
-    [
-        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that\'s why they call it the present.',
-        '',
+        'The secret to happiness is freedom. And the secret to freedom is courage.',
+        'Thucydides',
     ],
 ];

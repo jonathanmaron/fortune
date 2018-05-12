@@ -2,103 +2,103 @@
 
 return [
     [
-        'Hardly a competent workman can be found who does not devote a considerable amount of time to studying just how slowly he can work and still convince his employer that he is going at a good pace.',
-        'Frederick W. Taylor',
+        'The man who has really won the love of one good woman in this world, I do not care if he dies in the ditch a beggar - his life has been a success.',
+        'Robert Green Ingersoll',
     ],
     [
-        'Regarding marriage, it - somehow, it didn\'t happen. One fellow in such a big family not getting married is not an issue.',
+        'As no one knew much about my mental illness, a lot of people had the attitude that I had the capability to \'kick it\' and get better instantly. This was the most frustrating attitude for me.',
+        'Andy Behrman',
+    ],
+    [
+        'I wrote those poems for myself, as a way of being a soldier here in this country. I didn\'t know the poems would travel. I didn\'t go to Lebanon until two years ago, but people told me that many Arabs had memorized these poems and translated them into Arabic.',
+        'June Jordan',
+    ],
+    [
+        'The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants.',
+        'Thomas Jefferson',
+    ],
+    [
+        'Winning the World Cup was very special because it meant so much to so many. One thing about our country that is constant is cricket. The smile it brought to people\'s faces was the thing I shall always remember. It reminded me, reminded all of us, of our importance to the lives of the Indian people less lucky than we are.',
+        'Mahendra Singh Dhoni',
+    ],
+    [
+        'You look at the tremendous success of Facebook. To my mind there is not a lot of commerce going on in these social networking sites. eBay is a community anchored in commerce. It is a commerce site that built a community around it. What has not been proven is if the reverse can happen and people will go to community sites to do commerce.',
+        'Meg Whitman',
+    ],
+    [
+        'The minute we stop learning, we begin death, the process of dying. We learn from each other with every action we perform. We are teaching goodness or evil every time we step out of the house and into the street.',
+        'Leo Buscaglia',
+    ],
+    [
+        'The best thing commercially, which is the worst artistically, by and large, is the most successful.',
+        'Orson Welles',
+    ],
+    [
+        'Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.',
+        'Robert Graves',
+    ],
+    [
+        'It\'s when children are 15, 16 or 17 that they decide whether they want to be a doctor, an engineer, a politician or go to the Mars or moon. That is the time they start having a dream, and that\'s the time you can work on them. You can help them shape their dreams.',
         'A. P. J. Abdul Kalam',
     ],
     [
-        'Companies are communities. There\'s a spirit of working together. Communities are not a place where a few people allow themselves to be singled out as solely responsible for success.',
-        'Henry Mintzberg',
+        'If you think you can, you can. And if you think you can\'t, you\'re right.',
+        'Henry Ford',
     ],
     [
-        'We can\'t help everyone, but everyone can help someone.',
-        'Ronald Reagan',
+        'I never saw a discontented tree. They grip the ground as though they liked it, and though fast rooted they travel about as far as we do.',
+        'John Muir',
     ],
     [
-        'Dedicating some time to meditation is a meaningful expression of caring for yourself that can help you move through the mire of feeling unworthy of recovery. As your mind grows quieter and more spacious, you can begin to see self-defeating thought patterns for what they are, and open up to other, more positive options.',
-        'Sharon Salzberg',
+        'Integrity reveals beauty.',
+        'Thomas Leonard',
     ],
     [
-        'You are not free until you have no need to impress anybody.',
-        'Joyce Meyer',
+        'I am an English-speaking Canadian, but my entire family - Russian exiles and the Canadians they married - is buried in Quebec, and if Quebec were to separate, I would feel I had been cut in two.',
+        'Michael Ignatieff',
     ],
     [
-        'You will never win if you never begin.',
-        'Helen Rowland',
+        'A great attitude does much more than turn on the lights in our worlds; it seems to magically connect us to all sorts of serendipitous opportunities that were somehow absent before the change.',
+        'Earl Nightingale',
     ],
     [
-        'I am little concerned with beauty or perfection. I don\'t care for the great centuries. All I care about is life, struggle, intensity.',
-        'Emile Zola',
+        'We were a family that made our Halloween costumes. Or, more accurately, my mother made them. She took no suggestions or advice. Halloween costumes were her territory. She was the brain behind my brother\'s winning girl costume, stuffing her own bra with newspapers for him to wear under a cashmere sweater and smearing red lipstick on his lips.',
+        'Ann Hood',
     ],
     [
-        'It is impossible to work in information technology without also engaging in social engineering.',
-        'Jaron Lanier',
+        'Opportunities don\'t happen, you create them.',
+        'Chris Grosser',
     ],
     [
-        'And, behold, I come quickly; and my reward is with Me, to give every man according as his work shall be. I am Alpha and Omega, the beginning and the end, the first and the last.',
-        'Jesus Christ',
+        'Wherever a man turns he can find someone who needs him.',
+        'Albert Schweitzer',
     ],
     [
-        'Before you start some work, always ask yourself three questions - Why am I doing it, What the results might be and Will I be successful. Only when you think deeply and find satisfactory answers to these questions, go ahead.',
-        'Chanakya',
+        'There is only one success - to be able to spend your life in your own way.',
+        'Christopher Morley',
     ],
     [
-        'Something in the human psyche confuses beauty with the right to be loved. The briefest glance at human folly reveals that good looks and worthiness operate independently. Yet countless socializing forces, from Aunt Clara to the latest perfume ad, reinforce beliefs like \'If I were pretty enough, I would be loved.\'',
-        'Martha Beck',
+        'Today is life-the only life you are sure of. Make the most of today. Get interested in something. Shake yourself awake. Develop a hobby. Let the winds of enthusiasm sweep through you. Live today with gusto.',
+        'Cristiano Ronaldo',
     ],
     [
-        'When I was at the Royal Ballet School, I remember receiving my first eyeshadow palette from Marks &amp; Spencer as a gift. It sparked my interest in beauty, which peaked when I became more involved in theatre and got to experience so many stunning image transformations to suit different productions.',
-        'Darcey Bussell',
+        'Beauty is an asset, just like physical prowess, charisma, brains or emotional intelligence. The key with any gift is in the way that you use it. It doesn\'t define you as a person. Rather, it\'s an asset to be used judiciously and with an understanding of how it is just a small part of who you are.',
+        'Dale Archer',
     ],
     [
-        'My work is all about adventure and teamwork in some of the most inhospitable jungles, mountains and deserts on the planet. If you aren\'t able to look after yourself and each other, then people die.',
-        'Bear Grylls',
+        'And the smile that is worth the praises of earth is the smile that shines through tears.',
+        'Ella Wheeler Wilcox',
     ],
     [
-        'I never liked you, and I always will.',
-        'Samuel Goldwyn',
+        'These things will destroy the human race: politics without principle, progress without compassion, wealth without work, learning without silence, religion without fearlessness and worship without awareness.',
+        'Anthony de Mello',
     ],
     [
-        'They must often change, who would be constant in happiness or wisdom.',
-        'Confucius',
+        'The most absurd and reckless aspirations have sometimes led to extraordinary success.',
+        'Luc de Clapiers',
     ],
     [
-        'Vitality shows in not only the ability to persist but the ability to start over.',
-        'F. Scott Fitzgerald',
-    ],
-    [
-        'I have very diverse tastes in music, and I don\'t, like, make distinctions between what I can\'t and can\'t listen to. In fact, I could never understand why anybody would do that in the first place. My attitude is, \'I can\'t make music if I don\'t like music.\'',
-        'Corey Taylor',
-    ],
-    [
-        'I have my own dance and production companies, and acting is my creative outlet. It\'s what I\'m passionate about. I\'ve actually created a lifestyle where I could act for free. I could get a job to pay the bills and act on the weekends to make me smile.',
-        'Brian J. White',
-    ],
-    [
-        'I reckon you have to put a presence in front of your opponent - a bit of confidence and attitude - and then you can change what their next move may be.',
-        'Nick Cummins',
-    ],
-    [
-        'I think ultimately I make people happy: Whether I\'m doing the stage show, giving somebody a makeover, or designing clothing, the end goal is to make people smile.',
-        'Carson Kressley',
-    ],
-    [
-        'My family was musical on both sides. My father\'s family had a famous flautist and a classical pianist. My mother won a contest to be Shirley Temple\'s double - she was the diva of the family. At 8, I learned how to play guitar. I used to play songs from the \'20s, \'30s and \'40s in the kitchen for my grandmother.',
-        'Gloria Estefan',
-    ],
-    [
-        'When we seek to discover the best in others, we somehow bring out the best in ourselves.',
-        'William Arthur Ward',
-    ],
-    [
-        'Build a better mousetrap and the world will beat a path to your door.',
-        'Ralph Emerson',
-    ],
-    [
-        'What is certain is that singing is not merely modulating a song by means of the voice: we sing and we celebrate the beauty that we can grow and live every day. If you want to sing and give emotions to those who are listening, you must have something to tell through your singing; you have to use singing like an instrument to tell something.',
-        'Andrea Bocelli',
+        'I don\'t travel and tell stories, because that\'s not the way these days. But I write my books to be read aloud, and I think of myself in that oral tradition.',
+        'Louis L\'Amour',
     ],
 ];

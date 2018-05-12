@@ -2,103 +2,103 @@
 
 return [
     [
-        'In high school, in sport, I had a coach who told me I was much better than I thought I was, and would make me do more in a positive sense. He was the first person who taught me not to be afraid of failure.',
-        'Mike Krzyzewski',
+        'Once you do embark upon the separation or divorce process, it is very important to remember three key things: Be kind, be reasonable, be brief. Remember that this person will no longer be your spouse, but he or she will continue to be your co-parent, family member, and perhaps business partner in certain assets or entities.',
+        'Laura Wasser',
     ],
     [
-        'It is only in sorrow bad weather masters us; in joy we face the storm and defy it.',
-        'Amelia Barr',
+        'Education is not preparation for life; education is life itself.',
+        'Maya Angelou',
     ],
     [
-        'The power of women in the politics is a soft power. It is a positive change that our country and other countries in the region... are making by giving a chance to women.',
-        'Atifete Jahjaga',
+        'Everything is blooming most recklessly; if it were voices instead of colors, there would be an unbelievable shrieking into the heart of the night.',
+        'Rainer Maria Rilke',
     ],
     [
-        'We still carry this old caveman-imprint idea that we\'re small, nature\'s big, and it\'s everything we can manage to hang on and survive. When big geophysical events happen - a huge earthquake, tsunami, or volcanic eruption - we\'re reminded of that.',
-        'James Balog',
+        '\'Shake It Up\' definitely teaches kids about the importance of reaching for your dreams and setting high goals. It also teaches great lessons about friendship and family.',
+        'Zendaya',
     ],
     [
-        '\'All in With Laila Ali\' is educational, inspirational, compelling programming profiling individuals that have reached for the sky, pushed themselves to the limit and did things that you would think were impossible.',
-        'Laila Ali',
+        'Things do not change, we change.',
+        'Henry Thoreau',
     ],
     [
-        'I think the most important thing in life is self-love, because if you don\'t have self-love, and respect for everything about your own body, your own soul, your own capsule, then how can you have an authentic relationship with anyone else?',
-        'Ralph Marston',
+        'We live in a beauty-obsessed age and success sometimes appears to hinge solely on the presentation of an image that is acceptable to the press.',
+        'Douglas Booth',
     ],
     [
-        'Don\'t work for recognition, but do work worthy of recognition.',
-        'H. Jackson Brown, Jr.',
+        'What\'s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.',
+        'Bob Dylan',
     ],
     [
-        'Self-love, it is obvious, remains always positive and active in our natures.',
-        'Gordon W. Allport',
+        'No matter how bad any situation, cynicism has no positive impact. Watching the news, you might notice that cynicism and victimhood often seem to go hand-in-hand, but not for veterans.',
+        'James Mattis',
     ],
     [
-        'Take time for all things: great haste makes great waste.',
+        'Beauty is not all there is of poetry. It must contain the truth. It is not simply an oak, rude and grand, neither is it simply a vine. It is both. Around the oak of truth runs the vine of beauty.',
+        'Robert Green Ingersoll',
+    ],
+    [
+        'In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.',
+        'Buddha',
+    ],
+    [
+        'I understand what\'s it like to work all week and on Friday night just want to go and leave your brain at the door, buy some popcorn and be thrilled by something.',
+        'Don Cheadle',
+    ],
+    [
+        'There\'s something magical about spending a Sunday night watching real people at a deli, then watching fake people pretending to be real on TV, then engaging in (arguably) false interaction with (arguably) real people on the Internet. Never at any prior point in time has this been possible.',
+        'Diablo Cody',
+    ],
+    [
+        'A stumble may prevent a fall.',
+        'Unknown',
+    ],
+    [
+        'Success is not the absence of failure; it\'s the persistence through failure.',
+        'Aisha Tyler',
+    ],
+    [
+        'Life is not over because you have diabetes. Make the most of what you have, be grateful.',
+        'Tom Petty',
+    ],
+    [
+        'You\'ve got to know how to hustle. I got a lot of inspiration from my parents. My father was definitely a hustler. With six kids in the house, you always got to be hustling. And my mom, she\'s got sick work ethic.',
+        'Jay Pharoah',
+    ],
+    [
+        'I\'m good at coming up with wacky characters and funny dialogue.',
+        'Marlon Wayans',
+    ],
+    [
+        'A mockumentary is supposed to be real, and we were frustrated with mockumentaries on TV, which are so rampant because of the success of \'The Office.\' It\'s not real. You watch and ask why is there even a crew there. They never set it up in the narrative. You have a documentary crew following families for reasons we don\'t understand.',
+        'Benny Fine',
+    ],
+    [
+        'Everything you are against weakens you. Everything you are for empowers you.',
+        'Wayne Dyer',
+    ],
+    [
+        'With Fresh Healthy Vending growing by the day, my role is ever-evolving, just as the company is, and I intend to take on any necessary responsibilities in order to make a positive impact and spread a message we all believe in so strongly.',
+        'Steve Finley',
+    ],
+    [
+        'It always rains on tents. Rainstorms will travel thousands of miles, against prevailing winds for the opportunity to rain on a tent.',
+        'Dave Barry',
+    ],
+    [
+        'We, as Americans, at least - I mean, I love my country - but we\'re so self-righteous sometimes, in terms of, like, our nationality, our country. But we\'re people from somewhere else; the true \'Americans\' are the original peoples. It\'s funny, but we\'re a very territorial species.',
+        'Peter Dinklage',
+    ],
+    [
+        'If You Are Working On Something That You Really Care About, You Don\'t Have To Be Pushed. The Vision Pulls You.',
+        'Steve Jobs',
+    ],
+    [
+        'If you want to make a permanent change, stop focusing on the size of your problems and start focusing on the size of you!',
+        'T. Harv Eker',
+    ],
+    [
+        'Honesty is the best policy.',
         'Benjamin Franklin',
-    ],
-    [
-        'Adversity isn\'t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.',
-        'Byron Pulsifer',
-    ],
-    [
-        'I don\'t especially like to travel, not the way many people do. I know many people that love to go to far-off and different places, and I\'ve never been like that. I seem to get homesick as quickly as a child.',
-        'Elizabeth Strout',
-    ],
-    [
-        'Let us touch the dying, the poor, the lonely and the unwanted according to the graces we have received and let us not be ashamed or slow to do the humble work.',
-        'Mother Teresa',
-    ],
-    [
-        'Journalism is what we need to make democracy work.',
-        'Walter Cronkite',
-    ],
-    [
-        'Time is the least thing we have of.',
-        'Ernest Hemingway',
-    ],
-    [
-        'Does not the very word \'creative\' mean to build, to initiate, to give out, to act - rather than to be acted upon, to be subjective? Living photography is positive in its approach, it sings a song of life - not death.',
-        'Berenice Abbott',
-    ],
-    [
-        'Just as Darwin discovered the law of development of organic nature, so Marx discovered the law of development of human history: the simple fact, hitherto concealed by an overgrowth of ideology, that mankind must first of all eat, drink, have shelter and clothing, before it can pursue politics, science, art, religion, etc.',
-        'Friedrich Engels',
-    ],
-    [
-        'Beauty may be skin deep, but ugly goes clear to the bone.',
-        'Redd Foxx',
-    ],
-    [
-        'I\'ve always been about the power of a woman - accentuating the positive, deleting the negative, whether you\'re talking her body, her voice or her leadership.',
-        'Donna Karan',
-    ],
-    [
-        'Antigravity, teleportation, time travel, energetic DNA evolution and consciousness transformation could create a world few of us ever even dreamed of.',
-        'David Wilcock',
-    ],
-    [
-        'One of the first conditions of happiness is that the link between Man and Nature shall not be broken.',
-        'Leo Tolstoy',
-    ],
-    [
-        'The best way to hold a man is in your arms.',
-        'Mae West',
-    ],
-    [
-        'In a time of domestic crisis, men of goodwill and generosity should be able to unite regardless of party or politics.',
-        'John F. Kennedy',
-    ],
-    [
-        'Too many people say to their brokers, I can\'t deal with this. Take my money. Do what you want. That\'s the worst attitude you can have.',
-        'Maria Bartiromo',
-    ],
-    [
-        'However things may seem, no evil thing is success and no good thing is failure.',
-        'Henry Wadsworth Longfellow',
-    ],
-    [
-        'It\'s fun to have a partner who understands your life and lets you be you.',
-        'Ann Landers',
     ],
 ];

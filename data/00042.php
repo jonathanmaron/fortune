@@ -2,103 +2,103 @@
 
 return [
     [
-        'Eating well was something I learned as I started to be successful and had to travel and perform concerts, which are an intense cardio workout.',
-        'Curtis Jackson',
+        'Helping people boost themselves out of poverty is the best way to make a lasting positive difference in a person\'s life.',
+        'Naveen Jain',
     ],
     [
-        'If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.',
-        'Ben Shapiro',
+        'In the case of \'Ocean at the End of the Lane,\' it\'s a book about helplessness. It\'s a book about family, it\'s a book about being 7 in a world of people who are bigger than you, and more dangerous, and stepping into territory that you don\'t entirely understand.',
+        'Neil Gaiman',
     ],
     [
-        'You reach a point where you don\'t work for money.',
-        'Walt Disney',
+        'Wanting a more positive environment isn\'t enough. You need to do something, and it doesn\'t require a great deal of effort or some huge change in the way you approach things at work.',
+        'Tom Rath',
     ],
     [
-        'I find that when you have a real interest in life and a curious life, that sleep is not the most important thing.',
-        'Martha Stewart',
+        'There\'s nothing wrong with being shallow as long as you\'re insightful about it.',
+        'Dennis Miller',
     ],
     [
-        'A manager is responsible for the application and performance of knowledge.',
-        'Peter Drucker',
+        'I don\'t have much positive to say about motor neuron disease, but it taught me not to pity myself because others were worse off, and to get on with what I still could do. I\'m happier now than before I developed the condition.',
+        'Stephen Hawking',
     ],
     [
-        'In every conceivable manner, the family is link to our past, bridge to our future.',
-        'Alex Haley',
+        'On the recollection of so many and great favours and blessings, I now, with a high sense of gratitude, presume to offer up my sincere thanks to the Almighty, the Creator and Preserver.',
+        'William Bartram',
     ],
     [
-        'I\'m always trying to make myself laugh. I\'m the most enthusiastic audience I\'m likely to find, so if it doesn\'t make me smile then it probably won\'t work on you. The jokes that only make me shrug get cut.',
-        'Victor LaValle',
+        'Life is not measured by the breaths you take, but by its breathtaking moments.',
+        'Michael Vance',
     ],
     [
-        'I would rather be adorned by beauty of character than jewels. Jewels are the gift of fortune, while character comes from within.',
-        'Plautus',
+        'Feelings of worth can flourish only in an atmosphere where individual differences are appreciated, mistakes are tolerated, communication is open, and rules are flexible - the kind of atmosphere that is found in a nurturing family.',
+        'Virginia Satir',
     ],
     [
-        'To make democracy work, we must be a nation of participants, not simply observers. One who does not vote has no right to complain.',
-        'Louis L\'Amour',
+        'A will finds a way.',
+        'Orison Swett Marden',
     ],
     [
-        'Lots of companies don\'t succeed over time. What do they fundamentally do wrong? They usually miss the future.',
-        'Larry Page',
+        'I enjoy jokes, smiling, and making people smile. I may be a little different, but that\'s OK, who wants to be normal anyway?',
+        'Tim Duncan',
     ],
     [
-        'You must expect great things of yourself before you can do them.',
-        'Michael Jordan',
+        'Punk was defined by an attitude rather than a musical style.',
+        'David Byrne',
     ],
     [
-        'In every man\'s heart there is a secret nerve that answers to the vibrations of beauty.',
-        'Christopher Morley',
+        'I have kind of a funny relationship with movies. I don\'t have to see the whole movie to get an impression of it or to let it have an influence on me.',
+        'Lana Del Rey',
     ],
     [
-        'Our brand of democracy is hard. But I can promise that a year from now, when I no longer hold this office, I\'ll be right there with you as a citizen - inspired by those voices of fairness and vision, of grit and good humor and kindness that have helped America travel so far.',
-        'Barack Obama',
+        'Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.',
+        'Marcus Aurelius',
     ],
     [
-        'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
-        'Patricia Sun',
+        'Creativity is a habit, and the best creativity is the result of good work habits.',
+        'Twyla Tharp',
     ],
     [
-        'When you lose, don\'t lose the lesson.',
-        '',
+        'I definitely want to continue working in independent films - and big budget stuff as well - but there\'s a freedom you have when you\'re not getting paid. It\'s easier to say no and there\'s no pressure to please the powers that be. Also I don\'t have to hear \'flirt and smile more.\'',
+        'Trieste Kelly Dunn',
     ],
     [
-        'No matter who you meet in life, you take something from them, positive or negative.',
-        'Gary Allan',
+        'Honest labor bears a lovely face.',
+        'Thomas Dekker',
     ],
     [
-        '\'Yes\' is the mother of all positive words, next to \'love.\' Maybe \'love\' is the father of all positive words.',
-        'Jason Mraz',
+        'My mama never wore a pair of pants when I was growing up, and now that\'s all she wears. It was so funny for me when I first started seeing Mama wear pants. It was like it wasn\'t Mama. Now I\'ve bought her many a pantsuit because she just lives in them.',
+        'Dolly Parton',
     ],
     [
-        'Beauty is a relation, and the apprehension of it a comparison.',
-        'Gerard Manley Hopkins',
+        'I read the script for Wonder Boys, and I said that was almost perfect, it was so classy, cool and funny. It\'s a really specific thing. We stuck to it, it turned out good and a lot of people liked it.',
+        'Robert Downey, Jr.',
     ],
     [
-        'It remains to consider what attitude thoughtful men and Christian believers should take respecting them, and how they stand related to beliefs of another order.',
-        'Asa Gray',
+        'What would be ugly in a garden constitutes beauty in a mountain.',
+        'Victor Hugo',
     ],
     [
-        'The simple fact is this: they are foreigners inside a country which has rejected them. Therefore, these foreigners wherever they go or travel they will be rained down with bullets from everyone. Attacks by members of the resistance will only go up.',
-        'Mohammed Saeed al-Sahaf',
+        'Only those who have learned the power of sincere and selfless contribution experience life\'s deepest joy: true fulfillment.',
+        'Tony Robbins',
     ],
     [
-        'With a great poet the sense of Beauty overcomes every other consideration, or rather obliterates all consideration.',
-        'John Keats',
+        'We convince by our presence.',
+        'Walt Whitman',
     ],
     [
-        'I don\'t want to achieve immortality through my work. I want to achieve it through not dying.',
-        'Woody Allen',
-    ],
-    [
-        'When humor can be made to alternate with melancholy, one has a success, but when the same things are funny and melancholic at the same time, it\'s just wonderful.',
-        'Francois Truffaut',
-    ],
-    [
-        'Temporary success can be achieved in spite of lack of other fundamental qualities, but no advancements can be maintained without hard work.',
+        'One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute.',
         'William Feather',
     ],
     [
-        'I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.',
-        'Kelly McGillis',
+        'It is even harder for the average ape to believe that he has descended from man.',
+        'H. L. Mencken',
+    ],
+    [
+        'Autism doesn\'t have to define a person. Artists with autism are like anyone else: They define themselves through hard work and individuality.',
+        'Adrienne Bailon',
+    ],
+    [
+        'I never thought of myself as like, a funny person.',
+        'Lena Dunham',
     ],
 ];

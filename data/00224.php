@@ -2,103 +2,103 @@
 
 return [
     [
-        'He who knows, does not speak. He who speaks, does not know.',
-        'Lao Tzu',
+        'To the world you may be one person, but to one person you may be the world.',
+        'Dr. Suess',
     ],
     [
-        'When I go to the clinic next and sit with a tube in my arm and watch the poison go in, I\'m in an attitude of abject passivity. It doesn\'t feel like fighting at all; it just feels like submitting.',
-        'Christopher Hitchens',
+        'There are times as a parent when you realize that your job is not to be the parent you always imagined you\'d be, the parent you always wished you had. Your job is to be the parent your child needs, given the particulars of his or her own life and nature.',
+        'Ayelet Waldman',
     ],
     [
-        'I was actually born and raised in Puerto Rico. I was born to a single mom. She was a wonderful woman, and she taught me to believe in myself, to work hard, play by the rules. She wanted me to get a good education, and she just told me that the best thing I could do is just study hard.',
-        'Raul Labrador',
+        'Get up and dance, get up and smile, get up and drink to the days that are gone in the shortest while.',
+        'Simon Fowler',
     ],
     [
-        'Beauty shouldn\'t be superficial and should come from within, and your eyes will tell the story.',
-        'Michelle Yeoh',
+        'Research has shown that the best way to be happy is to make each day happy.',
+        'Deepak Chopra',
     ],
     [
-        'It would astonish if not amuse the older citizens to learn that I (a strange, friendless, uneducated, penniless boy, working at ten dollars per month) have been put down as the candidate of pride, wealth, and aristocratic family distinction.',
+        'The authentic self is the soul made visible.',
+        'Sarah Ban Breathnach',
+    ],
+    [
+        'It\'s a funny thing, the less people have to live for, the less nerve they have to risk losing nothing.',
+        'Zora Neale Hurston',
+    ],
+    [
+        'Twilight - a time of pause when nature changes her guard. All living things would fade and die from too much light or too much dark, if twilight were not.',
+        'Howard Thurman',
+    ],
+    [
+        'Success for me its to raise happy, healthy human beings.',
+        'Kelly LeBrock',
+    ],
+    [
+        'Encouragement to others is something everyone can give. Somebody needs what you have to give. It may not be your money; it may be your time. It may be your listening ear. It may be your arms to encourage. It may be your smile to uplift. Who knows?',
+        'Joel Osteen',
+    ],
+    [
+        'We have so many young men, especially, who are growing up without their dads. We have to fill that void. We have to do a better job helping young people see what it means to be a man, what it means to be a woman. And then, somehow, we have to put that family structure back together.',
+        'Tony Dungy',
+    ],
+    [
+        'My family comes first. Maybe that\'s what makes me different from other guys.',
+        'Bobby Darin',
+    ],
+    [
+        'May I never be complete. May I never be content. May I never be perfect.',
+        'Chuck Palahniuk',
+    ],
+    [
+        'Electricity is really just organized lightning.',
+        'George Carlin',
+    ],
+    [
+        'I grew up hunting and fishing. I\'ve always been into archery. I\'ve always been into cars... In my family, that was just stuff we did. That\'s just the way it was.',
+        'Paul Walker',
+    ],
+    [
+        'Employees are a company\'s greatest asset - they\'re your competitive advantage. You want to attract and retain the best; provide them with encouragement, stimulus, and make them feel that they are an integral part of the company\'s mission.',
+        'Anne M. Mulcahy',
+    ],
+    [
+        'I just don\'t see myself as a travel writer. I can\'t. I don\'t.',
+        'Robyn Davidson',
+    ],
+    [
+        'I get really frustrated if people don\'t smile.',
+        'Sophie Ellis-Bextor',
+    ],
+    [
+        'The battle against cancer has made me strong. It\'s like winning a war! When I was diagnosed, I was told by doctors my kidney, liver and other organs could fail. It was tough. I didn\'t know if I could save my life. But I was positive, and because of that, the doctor told me that I would be a man who would never have cancer.',
+        'Yuvraj Singh',
+    ],
+    [
+        'My dear friend, clear your mind of cant.',
+        'Samuel Johnson',
+    ],
+    [
+        'I think clothes are very much a representation of your attitude and the way you feel. I really love to be dressed down, though.',
+        'Trey Songz',
+    ],
+    [
+        'Motivation is what gets you started. Habit is what keeps you going.',
+        'Jim Ryun',
+    ],
+    [
+        'There is simply no substitute for hard work when it comes to achieving success.',
+        'Heather Bresch',
+    ],
+    [
+        'The best portion of a good man\'s life is his little, nameless, unremembered acts of kindness and of love.',
+        'Wayne Dyer',
+    ],
+    [
+        'That some achieve great success, is proof to all that others can achieve it as well.',
         'Abraham Lincoln',
     ],
     [
-        'The most complicated achievements of thought are possible without the assistance of consciousness.',
-        'Sigmund Freud',
-    ],
-    [
-        'I\'d rather attempt to do something great and fail than to attempt to do nothing and succeed.',
-        'Robert H. Schuller',
-    ],
-    [
-        'Good timber does not grow with ease; the stronger the wind, the stronger the trees.',
-        'J. Willard Marriott',
-    ],
-    [
-        'Imagination rules the world.',
-        'Napoleon Bonaparte',
-    ],
-    [
-        'I\'m at my best when people are depending on me. If it\'s just on me and I don\'t have nothing to do, I\'m going to be lazy. On the football field, it\'s every single day, every play, knowing that people are depending on me to make my play. That helps me elevate my game to another level.',
-        'Von Miller',
-    ],
-    [
-        'If your best friend has stolen your girlfriend, it does become life and death.',
-        'Ben Kingsley',
-    ],
-    [
-        'Think of success as a game of chance in which you have control over the odds. As you begin to master concepts in personal achievement, you are increasing your odds of achieving success.',
-        'Bo Bennett',
-    ],
-    [
-        'Forward, as occasion offers. Never look round to see whether any shall note it... Be satisfied with success in even the smallest matter, and think that even such a result is no trifle.',
-        'Marcus Aurelius',
-    ],
-    [
-        'Jesus Christ belonged to the true race of prophets. He saw with open eye the mystery of the soul. Drawn by its severe harmony, ravished with its beauty, he lived in it and had his being there. Alone in all history, he estimated the greatness of man.',
-        'Ralph Waldo Emerson',
-    ],
-    [
-        'The nature of good fiction is that it dwells in ambiguity.',
-        'E. L. Doctorow',
-    ],
-    [
-        'Enhance and intensify one\'s vision of that synthesis of truth and beauty which is the highest and deepest reality.',
-        'Ovid',
-    ],
-    [
-        'I truly believe that everything that we do and everyone that we meet is put in our path for a purpose. There are no accidents; we\'re all teachers - if we\'re willing to pay attention to the lessons we learn, trust our positive instincts and not be afraid to take risks or wait for some miracle to come knocking at our door.',
-        'Marla Gibbs',
-    ],
-    [
-        'Anybody who knows me knows that I\'m just here to put a smile on people\'s faces.',
-        'Jason Mitchell',
-    ],
-    [
-        'I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.',
-        'Dalai Lama',
-    ],
-    [
-        'I think that any time of great pain is a time of transformation, a fertile time to plant new seeds.',
-        'Debbie Ford',
-    ],
-    [
-        'I write little quotes all the time to help encourage people to come together, like this one: \'If fate happens to toss you a lightbulb, use it to light the path of others, for they will use theirs to light the path of you. With your light together with mine, it\'s two times as bright and twice as strong.\'',
-        'Matthew Underwood',
-    ],
-    [
-        'It\'s sometimes tiring to get off a long-haul flight and go straight to the studio for a shoot, but if you really plan everything well, you can get so much out of combining travel with work.',
-        'Alek Wek',
-    ],
-    [
-        'I smile every time I hear that I\'m a fan favorite or a teenage hottie. It is a nice compliment, and the remarks from the fans are great.',
-        'Sean Berdy',
-    ],
-    [
-        'Everyone has at least one story, and each of us is funny if we admit it. You have to admit you\'re the funniest person you\'ve ever heard of.',
-        'Maya Angelou',
-    ],
-    [
-        'Communism doesn\'t work because people like to own stuff.',
-        'Frank Zappa',
+        'Go big or go home. Because it\'s true. What do you have to lose?',
+        'Eliza Dushku',
     ],
 ];

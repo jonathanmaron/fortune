@@ -2,103 +2,103 @@
 
 return [
     [
-        'Tennis is all about mental toughness, and you have to keep your head in the game. I make time to relax away from competition pressures, travel and intense training schedules to make sure I\'m looking after myself. Taking time out with family and friends helps to maintain the work-life balance everyone needs.',
-        'Samantha Stosur',
+        'When I\'ve had hard times in my life, the one thing about being in TV is that it\'s positive. I withdrew to \'Cheers,\' it was familiar in that it was family. It had a kind of realistic positiveness to it.',
+        'Bruno Heller',
     ],
     [
-        'The harder you work... and visualize something, the luckier you get.',
-        'Seal',
+        'When we recognise the virtues, the talent, the beauty of Mother Earth, something is born in us, some kind of connection, love is born.',
+        'Thich Nhat Hanh',
     ],
     [
-        'And I\'m a believer that you take a negative and turn it into a positive, and as it turned out, it was one of the best things that ever happened to me. And so I do appreciate the Ranger staff and the Ranger organization for giving me that opportunity.',
-        'Nolan Ryan',
+        'There is always room at the top.',
+        'Daniel Webster',
     ],
     [
-        'Silence is a true friend who never betrays.',
-        'Confucius',
+        'As I grew older, I realized that it was much better to insist on the genuine forms of nature, for simplicity is the greatest adornment of art.',
+        'Albrecht Durer',
     ],
     [
-        'We are all here on earth to help others; what on earth the others are here for I don\'t know.',
-        'W. H. Auden',
+        'People don\'t understand that where I come from, everyone is either a convict, been in jail, been in a gang, is a hooligan of some sorts, but those are my brothers, my family and the people that I travel with. Those are the people that I roll with.',
+        'Lupe Fiasco',
     ],
     [
-        'You can\'t really be strong until you see a funny side to things.',
-        'Ken Kesey',
+        'The Patriot Act unleashed the FBI to search your email, travel and credit records without even a suspicion of wrongdoing.',
+        'Barton Gellman',
     ],
     [
-        'In a meadow full of flowers, you cannot walk through and breathe those smells and see all those colors and remain angry. We have to support the beauty, the poetry, of life.',
-        'Jonas Mekas',
+        'Ability is what you\'re capable of doing. Motivation determines what you do. Attitude determines how well you do it.',
+        'Lou Holtz',
+    ],
+    [
+        'The funny guy doesn\'t get the girl until later in life. High school, college, everyone still wants the brooding, dangerous guy you shouldn\'t have.',
+        'Will Ferrell',
+    ],
+    [
+        'Somebody said to me, \'Whenever somebody says your name, a smile comes to their face.\' That\'s a great accolade. I strive to keep it that way.',
+        'Clarence Clemons',
+    ],
+    [
+        'The best way to perpetuate poverty is by spending on arms and military, and the best way to fight terrorism is by fighting the basic needs of humanity, because hunger and poverty perpetuate crime.',
+        "\u{d3}scar Arias",
+    ],
+    [
+        'But men are men; the best sometimes forget.',
+        'William Shakespeare',
+    ],
+    [
+        'Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.',
+        'Og Mandino',
     ],
     [
         'I have a great smile. A lot of people don\'t know that.',
         'Draymond Green',
     ],
     [
-        'I was stupid when I started: the epitome of bright-eyed and bushy-tailed. It was like, \'I get to live in L.A. and drive around in limos? Really?\' I didn\'t realize I was owned. The more money gets pumped into you, the more you become a marionette. It made me a true redneck in attitude: I never wanted to wake up ever again feeling owned.',
-        'Al Jourgensen',
+        'I do love traveling, so I\'ve been able to travel a lot.',
+        'Taylor Lautner',
     ],
     [
-        'That\'s the beauty of coaching. You get to touch lives, you get to make a difference. You get to do things for people who will never pay you back and they say you never have had a perfect day until you\'ve done something for someone who will never pay you back.',
-        'Morgan Wootten',
+        'Imperfection is beauty, madness is genius and it\'s better to be absolutely ridiculous than absolutely boring.',
+        'Marilyn Monroe',
     ],
     [
-        'Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.',
-        'Marcel Proust',
+        'One out of every 100 American men is HIV positive. The rate of infection has reached epidemic proportions in 40 developing nations.',
+        'Philip Emeagwali',
     ],
     [
-        'Decide that you want it more than you are afraid of it.',
-        'Bill Cosby',
+        'For my part, I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
+        'Robert Louis Stevenson',
     ],
     [
-        'From success you get a lot of things, but not that great inside thing that love brings you.',
-        'Samuel Goldwyn',
+        'To be a good loser is to learn how to win.',
+        'Carl Sandburg',
     ],
     [
-        'Life has no limitations, except the ones you make.',
-        'Christina Milian',
+        'Ah! Young people, travel if you can, and if you cannot - travel all the same!',
+        'Jules Verne',
     ],
     [
-        'I would like to be remembered as a man who had a wonderful time living life, a man who had good friends, fine family - and I don\'t think I could ask for anything more than that, actually.',
-        'Frank Sinatra',
+        'If people are not laughing at your goals, your goals are too small',
+        'Asim Premji',
     ],
     [
-        'Don\'t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.',
-        'Mary Kay Ash',
+        'I know there\'s millions of problems in the world, but if you dwell on those, then you\'re going to be miserable. I think my meditation helps me to transcend and get beyond the grip of all the negativity and regenerate from within a more positive attitude, which comes in very handy when you\'re going to do 150 concerts a year.',
+        'Mike Love',
     ],
     [
-        'Simplicity and repose are the qualities that measure the true value of any work of art.',
-        'Frank Lloyd Wright',
+        'I like the idea of being warm and secure. That\'s what home should be. That you have a sense of warmth, security, love, and you love the things around you and surround yourself with beauty.',
+        'Andre Leon Talley',
     ],
     [
-        'Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.',
-        'Johann Wolfgang von Goethe',
+        'I think it doesn\'t matter if you are the best surfer in the world. I\'m going to try to be the best surfer I can be. It\'s not all about competing and being the best. It\'s more about having fun and just doing what you love.',
+        'Bethany Hamilton',
     ],
     [
-        'You have got to decide, look, this is who I am; this is my best way to present myself, and I\'m going to ride that horse to the finish line. Not everybody will like it, but that\'s OK.',
-        'Phil McGraw',
-    ],
-    [
-        'The details surrounding both my marriage and subsequent filing for divorce are private, and I had hoped to keep them that way for the sake of my family.',
-        'Eminem',
-    ],
-    [
-        'It is good medicine to go to a concert hall and forget the harshness of what\'s going on. It can be a very positive thing.',
-        'Itzhak Perlman',
-    ],
-    [
-        'Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.',
-        'Augustus Hare',
-    ],
-    [
-        'Knowledge is a process of piling up facts; wisdom lies in their simplification.',
-        'Martin Fischer',
-    ],
-    [
-        'One thing I never want to be accused of is not working.',
-        'Don Shula',
-    ],
-    [
-        'A desire to resist oppression is implanted in the nature of man.',
-        'Tacitus',
+        'Success consists in being successful, not in having potential for success. Any wide piece of ground is the potential site of a palace, but there\'s no palace till it\'s built.',
+        'Fernando Pessoa',
     ],
 ];

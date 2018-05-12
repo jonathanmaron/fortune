@@ -2,103 +2,103 @@
 
 return [
     [
-        'A person always doing his or her best becomes a natural leader, just by example.',
-        'Joe DiMaggio',
+        'If you know your goal and work for it you will reach the peak.',
+        'Jounayet Rahman',
     ],
     [
-        'We are infected by our own misunderstanding of how our own minds work.',
-        'Kevin Kelly',
+        'When nature has work to be done, she creates a genius to do it.',
+        'Ralph Waldo Emerson',
     ],
     [
-        'Definiteness of purpose is the starting point of all achievement.',
-        'W. Clement Stone',
+        'America, you\'re sending girls a mixed message. On one hand, you\'re saying to have positive body image and love who we are; on the other, we\'re being marketed makeup and clothing that obviously turns us into someone different.',
+        'Adora Svitak',
     ],
     [
-        'I completely agree that a sound sleep is the best beauty product. Sound sleep, one of the most important but underrated thing, helps to make you more beautiful. I can never understand how people work so hard that they miss out on their sleep.',
-        'Shraddha Kapoor',
-    ],
-    [
-        'Better to be called something positive and inspirational than something negative.',
-        'Donnie Yen',
-    ],
-    [
-        'I go, and I do my work, and I try to do the best I can, and I collect my money, and I go home, and then I go on to the next thing. That\'s my attitude.',
-        'Billy Dee Williams',
-    ],
-    [
-        'The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.',
+        'There are some women whose pregnancy would make some sly bachelor smile.',
         'Honore de Balzac',
     ],
     [
-        'Everything happens to everybody sooner or later if there is time enough.',
-        'George Bernard Shaw',
+        'What is tolerance? It is the consequence of humanity. We are all formed of frailty and error; let us pardon reciprocally each other\'s folly - that is the first law of nature.',
+        'Voltaire',
     ],
     [
-        'The moral values, ethical codes and laws that guide our choices in normal times are, if anything, even more important to help us navigate the confusing and disorienting time of a disaster.',
-        'Sheri Fink',
+        'Being hardworking is the best thing you can show children.',
+        'David Beckham',
     ],
     [
-        'Familial betrayal is, to me, the most heartbreaking kind - because if you can\'t trust your family to love you and protect you, who can you really trust?',
-        'Alexandra Bracken',
+        'On reflection, I am always pleasantly surprised when ordinary members of the public stop me in the street to say, \'Thank you,\' I guess for making travel and other goods and services affordable to them.',
+        'Stelios Haji-Ioannou',
     ],
     [
-        'The greatest trap in our life is not success, popularity or power, but self-rejection.',
-        'Henri Nouwen',
+        'The Lord gave us two ends - one to sit on and the other to think with. Success depends on which one we use the most.',
+        'Ann Landers',
     ],
     [
-        'My attitude with covers is, make it your own or else leave it alone.',
-        'Glenn Danzig',
+        'The time to enjoy a European trip is about three weeks after unpacking.',
+        'George Ade',
     ],
     [
-        'A word of encouragement during a failure is worth more than an hour of praise after success.',
-        'Unknown',
+        'Salem houses present to you a serene and dignified front, gracious yet reserved, not thrusting forward their choicest treasures to the eyes of passing strangers; but behind the walls of the houses, enclosed from public view, lie cherished gardens, full of the beauty of life.',
+        'Alice Morse Earle',
     ],
     [
-        'Go put your creed into the deed. Nor speak with double tongue.',
-        'Ralph Emerson',
+        'A journey by Sea and Land, Five Hundred Miles, is not undertaken without money.',
+        'Lewis Hallam',
     ],
     [
-        'At any given moment, you have the power to say: This is not how the story is going to end.',
-        'Christine Mason Miller',
+        'If you can\'t be in awe of Mother Nature, there\'s something wrong with you.',
+        'Alex Trebek',
     ],
     [
-        'That attitude does not exist so much today, but in those days there was a very sharp distinction between basic physics and applied physics. Columbia did not deal with applied physics.',
-        'Gordon Gould',
+        'If you are not willing to risk the usual, you will have to settle for ordinary.',
+        'Jim Rohn.',
     ],
     [
-        'Civilization began the first time an angry person cast a word instead of a rock.',
-        'Sigmund Freud',
+        'If I had to live my life over, I\'d live over a saloon.',
+        'W. C. Fields',
     ],
     [
-        'I just smile. And they - my opponents don\'t like it when I smile at them. They think I\'m playing or something. But - like I smile throughout the whole fight. Sometimes I\'ll be throwing combinations and I just smile and stick my tongue out at them.',
-        'Rau\'Shee Warren',
+        'Doing what you love is the cornerstone of having abundance in your life.',
+        'Jean Paul',
     ],
     [
-        'I think a lot of times our culture has an attitude toward art and the production of art that separates artists from the rest of us, like making art or music or painting or whatever is some magical thing that you have to be inspired to do, and special people do it.',
-        'Ann Leckie',
+        'All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work.',
+        'Calvin Coolidge',
     ],
     [
-        'You keep shooting. You hope it goes in, and you smile.',
-        'Teemu Selanne',
+        'The funny thing about having all this so-called success is that behind it is a certain horrible emptiness.',
+        'Sam Shepard',
     ],
     [
-        'I either had to concentrate on fighting, or I had to help my family. I chose my family. I love my mom; I love my family.',
-        'Gerry Cooney',
+        'Every person remembers some moment in their life where they witnessed some injustice, big or small, and looked away because the consequences of intervening seemed too intimidating. But there\'s a limit to the amount of incivility and inequality and inhumanity that each individual can tolerate. I crossed that line. And I\'m no longer alone.',
+        'Malala Yousafzai',
     ],
     [
-        'Your future depends on many things, but mostly on you.',
-        'Frank Tyger',
+        'Today, most young women are exposed to technology at a very young age, with mobile phones, tablets, the Web or social media. They are much more proficient with technology than prior generations since they use it for all their school work, communication and entertainment.',
+        'Susan Wojcicki',
     ],
     [
-        'Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.',
-        'Hasidic saying',
+        'The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.',
+        'Lech Walesa',
     ],
     [
-        'I do not own a car, and my main form of travel to Westminster and in my constituency is by bicycle. I also take my bike on trains to meetings in other parts of the country, which enables me to see other cities and the other parts of the country.',
-        'Jeremy Corbyn',
+        'Knowledge rests not upon truth alone, but upon error also.',
+        'Carl Jung',
     ],
     [
-        'You can always tell when a man\'s well informed. His views are pretty much like your own.',
-        'H. Jackson Brown, Jr.',
+        'The only siblings I have are half-siblings. My nuclear family would have been an extra-suffocating threesome. Instead, I have an interesting brother and sister, in-laws, and darling nephews.',
+        'Jane Smiley',
+    ],
+    [
+        'The aim of life is self-development. To realize ones nature perfectly, that is what each of us is here for.',
+        'Oscar Wilde',
+    ],
+    [
+        'Fuel prices are at the center of our lives. They affect our ability to travel, stay warm, and feed ourselves.',
+        'Robert Kiyosaki',
+    ],
+    [
+        'By providing clear objectives for your team, and setting guardrails for how they get there, you will set them on the path to success.',
+        'Chris Fussell',
     ],
 ];

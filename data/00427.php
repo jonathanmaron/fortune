@@ -2,103 +2,103 @@
 
 return [
     [
-        'If you\'re a goal scorer, you have to have a certain attitude. I\'m very serious. My missus thinks I\'m a bit weird. I\'m cold, I don\'t have many emotions. It\'s very rare I cry.',
-        'Michael Owen',
+        'Why don\'t you get out of that wet coat and into a dry martini?',
+        'Robert Benchley',
     ],
     [
-        'A lion\'s work hours are only when he\'s hungry; once he\'s satisfied, the predator and prey live peacefully together.',
-        'Chuck Jones',
-    ],
-    [
-        'I believe life is an intelligent thing: that things aren\'t random.',
-        'Sterling K. Brown',
-    ],
-    [
-        'Solidarity and interdependence, a sense of worth, a pride and hope in the future: these are positive gains for those who believe in progressive politics and the beneficial role of government, rather than a detriment.',
-        'David Blunkett',
-    ],
-    [
-        'Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success.',
-        'Dale Carnegie',
-    ],
-    [
-        'When I go to a bar, I don\'t go looking for a girl who knows the capital of Maine.',
-        'David Brenner',
-    ],
-    [
-        'Sexy is attitude, but fitness for me is my dance. I dance two hours nearly every day. You break into good sweat, and it doesn\'t even feel like exercise. Apart from that, I enjoy Pilates.',
-        'Jiah Khan',
-    ],
-    [
-        'One of the few luxuries left is travel. And the aspect of travel that is luxurious is not the movement, but the being there.',
-        'Andre Balazs',
-    ],
-    [
-        'I don\'t have much positive to say about motor neuron disease, but it taught me not to pity myself because others were worse off, and to get on with what I still could do. I\'m happier now than before I developed the condition.',
-        'Stephen Hawking',
-    ],
-    [
-        'If you have a friend or a family member who\'s bipolar, or has panic attack disorder, or is depressed, read up on it a little bit so you can get to know where they\'re coming from.',
-        'Eric Millegan',
-    ],
-    [
-        'I\'m not concerned that my stuff isn\'t extreme. I don\'t want to be heavy. I can\'t think of another attitude to have toward an audience than a hopeful and a positive one. And if that includes such unfashionable things as sentimentality, well, I can afford it.',
-        'Robert Palmer',
-    ],
-    [
-        'We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.',
-        'Barbara De Angelis',
-    ],
-    [
-        'A simple compliment goes a really long way - for a guy to just come over and say, \'You have great hair\' or \'I really like your dress,\' and then just smile and walk away. That\'s a great move, because he\'s sort of putting himself out there by doing that, but it won\'t lead to any embarrassment if the girl isn\'t interested.',
-        'Stacy Keibler',
-    ],
-    [
-        'Here\'s the thing - I\'m single, I haven\'t been married, I don\'t have kids yet. If I do have kids I would be interested to see them in my life, so here\'s a movie for kids and I\'m in there and I\'m supposed to be kind of funny for kids.',
-        'Garry Shandling',
-    ],
-    [
-        'The black market was a way of getting around government controls. It was a way of enabling the free market to work. It was a way of opening up, enabling people.',
-        'Milton Friedman',
-    ],
-    [
-        'There are a lot of female artists my age around at the moment, but they\'re all American and blonde and blue-eyed and smiley. I\'m totally the opposite of that. I want to show a bit more attitude and I have an opinion.',
-        'Samantha Mumba',
-    ],
-    [
-        'I was never pretty, never really popular. I was lanky and funny looking.',
-        'Tanya Roberts',
-    ],
-    [
-        'I like to work out. I like a routine. I\'m kind of simple. I eat almost the same thing every day. I like Caesar salad.',
-        'Britney Spears',
-    ],
-    [
-        'I\'ve been fascinated by the Internet from the very start. In 2001, I had made a funny black-and-white film called \'How to Dance Properly,\' a short video of me dancing to a Madonna song. I sent it to 17 of my friends on a Thursday, and by Monday, one million people a day were logging on to view it.',
-        'Ze Frank',
-    ],
-    [
-        'Obama does not represent America. Nor does he represent anything what our forefathers stood for. This country is basically built on an attitude. It\'s a way of life. It\'s not because you\'re born here. It\'s not that you\'re supposed to take from those who have and give to those who haven\'t. That kills a country. It killed Russia.',
-        'Luke Scott',
-    ],
-    [
-        'Nature hath framed strange fellows in her time.',
-        'William Shakespeare',
-    ],
-    [
-        'I mostly like to travel and volunteer because I get antsy if I stay in my comfort zone for too long.',
-        'Eden Sher',
-    ],
-    [
-        'It\'s funny how you never think about the women you\'ve had. It\'s always the ones who get away that you can\'t forget.',
-        'Chuck Palahniuk',
-    ],
-    [
-        'The way of a superior man is three-fold: virtuous, he is free from anxieties; wise, he is free from perplexities; bold, he is free from fear.',
+        'When it is obvious that the goals cannot be reached, don\'t adjust the goals, adjust the action steps.',
         'Confucius',
     ],
     [
-        'Think how hard physics would be if particles could think.',
-        'Murray Gell-Mann',
+        'Liberalism is a really old British tradition and it has a completely different attitude towards the individual and the relationship between the individual and the state than the collectivist response of Labour, and particularly Old Labour, does.',
+        'Nick Clegg',
+    ],
+    [
+        'Traveling is the ruin of all happiness! There\'s no looking at a building after seeing Italy.',
+        'Fanny Burney',
+    ],
+    [
+        'The fact that I stay anonymous means I can exhibit wherever I want. No one knows my name, so it\'s easy for me to travel.',
+        'JR',
+    ],
+    [
+        'If patience is worth anything, it must endure to the end of time. And a living faith will last in the midst of the blackest storm.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'As a kid, you obviously dream of being a professional footballer. I would watch players like Ronaldo of Brazil and pretend to be him in the playground. But I don\'t think about trying to become one of the best in the world or anything like that. I just play football.',
+        'Gareth Bale',
+    ],
+    [
+        'We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.',
+        'Jim Rohn',
+    ],
+    [
+        'The test of the artist does not lie in the will with which he goes to work, but in the excellence of the work he produces.',
+        'Thomas Aquinas',
+    ],
+    [
+        'I\'ve etched out who I am through myriad haircut attempts, outfit attempts, beauty attempts, diet attempts. It\'s been an evolution.',
+        'Jamie Lee Curtis',
+    ],
+    [
+        'If you have enthusiasm, you have a very dynamic, effective companion to travel with you on the road to Somewhere.',
+        'Loretta Young',
+    ],
+    [
+        'You have to defend your honor. And your family.',
+        'Suzanne Vega',
+    ],
+    [
+        'Like a morning dream, life becomes more and more bright the longer we live, and the reason of everything appears more clear. What has puzzled us before seems less mysterious, and the crooked paths look straighter as we approach the end.',
+        'Edmund Burke',
+    ],
+    [
+        'Find a good teacher that will keep the game fun. Work hard and don\'t be afraid to have success or disappointment. That is what golf is all about.',
+        'Paula Creamer',
+    ],
+    [
+        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
+        'John de Mol, Jr.',
+    ],
+    [
+        'What I found in Silicon Valley is an industry that\'s sort of been kept a very far remove from Washington and had an attitude of \'Just let us do our thing and make the miracles that people love around the world and leave us alone.\'',
+        'George Packer',
+    ],
+    [
+        'Give yourself a gift of five minutes of contemplation in awe of everything you see around you. Go outside and turn your attention to the many miracles around you. This five-minute-a-day regimen of appreciation and gratitude will help you to focus your life in awe.',
+        'Eminem',
+    ],
+    [
+        'No great thing is created suddenly.',
+        'Epictetus',
+    ],
+    [
+        'The best preparation for good work tomorrow is to do good work today.',
+        'Elbert Hubbard',
+    ],
+    [
+        'Just because a situation is grim doesn\'t mean you don\'t have every right to smile.',
+        'Rashida Jones',
+    ],
+    [
+        'Giving back is the right thing to do, whether it\'s donating clothing or even just a smile to someone who needs it.',
+        'Becky G',
+    ],
+    [
+        'Life is measured in love and positive contributions and moments of grace.',
+        'Carly Fiorina',
+    ],
+    [
+        'A careful inspection showed them that, even if they succeeded in righting it by themselves, the cart would travel no longer. The axles were in a hopeless state, and the missing wheel was shattered into pieces.',
+        'Kenneth Grahame',
+    ],
+    [
+        'My attitude towards drawing is not necessarily about drawing. It\'s about making the best kind of image I can make, it\'s about talking as clearly as I can.',
+        'Jim Dine',
+    ],
+    [
+        'The older you get, the better you have to look, the higher you have to kick, the harder you have to work.',
+        'Salman Khan',
     ],
 ];

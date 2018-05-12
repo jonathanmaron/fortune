@@ -2,103 +2,103 @@
 
 return [
     [
-        'When I was a boy, the priest, my uncle, carefully inculcated upon me this proverb, which I then learned and have ever since kept in my mind: \'Dico tibi verum, Libertas optima rerum; Nunquam servili, sub nexu vivito, fili.\' \'I tell you a truth: Liberty is the best of things, my son; never live under any slavish bond.\'',
-        'William Wallace',
+        'Whenever I look at a baby or children in general, I smile and just want to play with them.',
+        'Odeya Rush',
     ],
     [
-        'Virtue has a veil, vice a mask.',
-        'Victor Hugo',
+        'There are people in every time and every land who want to stop history in its tracks. They fear the future, mistrust the present, and invoke the security of a comfortable past which, in fact, never existed.',
+        'Robert Kennedy',
     ],
     [
-        'Success is like death. The more successful you become, the higher the houses in the hills get and the higher the fences get.',
-        'Kevin Spacey',
+        'Too often in life, something happens and we blame other people for us not being happy or satisfied or fulfilled. So the point is, we all have choices, and we make the choice to accept people or situations or to not accept situations.',
+        'Yoko Ono',
     ],
     [
-        'Great men show politeness in a particular way; a smile suffices to assure you that you are welcome, and keep about their avocations as if you were a member of the family.',
-        'John James Audubon',
+        'Set your goals high, and don\'t stop till you get there.',
+        'Bo Jackson',
     ],
     [
-        'Battle is the most magnificent competition in which a human being can indulge. It brings out all that is best; it removes all that is base. All men are afraid in battle. The coward is the one who lets his fear overcome his sense of duty. Duty is the essence of manhood.',
-        'George S. Patton',
+        'All I can do will only ever be a faint image of what I see and my success will always be less than my failure or perhaps equal to the failure.',
+        'Alberto Giacometti',
     ],
     [
-        'People ask what my influences are, and for me, it\'s not always obvious. One of my biggest inspirations was Chrissie Hynde from the Pretenders. That\'s based on how she just does whatever she wants to do, and I love her attitude about everything. It bleeds over into my way of thinking and comedy.',
-        'Tig Notaro',
+        'The flow of Guiness into the studio was inspirational as well as nutritive.',
+        'Carter Burwell',
     ],
     [
-        'Sweat is fat crying.',
-        'Unknown',
+        'Exercise is one of the best ways in preventing the rapid growth of obesity in America.',
+        'Lee Haney',
     ],
     [
-        'We\'ve gotta reinvest in space travel. We should\'ve never left the moon.',
-        'Ray Bradbury',
+        'Glory is attained from hard work, step by step.',
+        'Ma Long',
     ],
     [
-        'It\'s cool to have critical success because it\'s always nice for your peers to say, \'Good job.\' But who cares about them?',
-        'Zac Hanson',
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
+        'Bruce Lee',
     ],
     [
-        'I love fashion, beauty, glamour. It\'s the mark of civilisation.',
-        'David LaChapelle',
+        'The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name.',
+        'Sylvia Browne',
     ],
     [
-        'The garden suggests there might be a place where we can meet nature halfway.',
-        'Michael Pollan',
+        'I\'ve lost count of the number of times that I\'ve been approached by strangers wanting to tell me that they think I\'m brave or inspirational, and this was long before my work had any kind of public profile.',
+        'Stella Young',
     ],
     [
-        'Strength does not come from winning. Your struggles develop your strengths.',
-        'Arnold Schwarzenegger',
+        'For the signifier is a unit in its very uniqueness, being by nature symbol only of an absence.',
+        'Jacques Lacan',
     ],
     [
-        'Beauty is whatever gives joy.',
-        'Edna St. Vincent Millay',
+        'Bald as the bare mountain tops are bald, with a baldness full of grandeur.',
+        'Matthew Arnold',
     ],
     [
-        'Travelers are always discoverers, especially those who travel by air. There are no signposts in the sky to show a man has passed that way before. There are no channels marked. The flier breaks each second into new uncharted seas.',
-        'Anne Morrow Lindbergh',
-    ],
-    [
-        'To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.',
-        'Plato',
-    ],
-    [
-        'Sometimes it\'s the smallest decisions that can change your life forever.',
-        'Boris Pasternak',
-    ],
-    [
-        'The social issues outside of football are not as defined as they were earlier, when integration took place and certain rights were legislated. The Civil Rights movement is over. Individuals can buy homes wherever they want, travel first class wherever they want, eat wherever they want.',
-        'Jim Brown',
-    ],
-    [
-        'If I\'m honest I have to tell you I still read fairy-tales and I like them best of all.',
-        'Audrey Hepburn',
-    ],
-    [
-        'My diabetes is such a central part of my life... it did teach me discipline... it also taught me about moderation... I\'ve trained myself to be super-vigilant... because I feel better when I am in control.',
+        'Work is a necessary evil to be avoided.',
         'Mark Twain',
     ],
     [
-        'The least of things with a meaning is worth more in life than the greatest of things without it.',
-        'Carl Jung',
-    ],
-    [
-        'I don\'t think people are fools, and I think they deserve a good attitude and smart entertainment.',
-        'Tatyana Tolstaya',
-    ],
-    [
-        'Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.',
-        'Nikola Tesla',
-    ],
-    [
-        'Our attitudes control our lives. Attitudes are a secret power working twenty-four hours a day, for good or bad. It is of paramount importance that we know how to harness and control this great force.',
+        'The toughest thing about success is that you\'ve got to keep on being a success.',
         'Irving Berlin',
     ],
     [
-        'My best vacation memory is getting barreled at the beach in Hawaii.',
-        'Troy Polamalu',
+        'My goal when I started out was to get to the point where I could tour a lot and make a living, which means getting paid enough to hire my own band, travel and end up with a bit of money, but I\'m still nowhere near that point. Because I didn\'t have a band and fan base when I started, I did everything backward.',
+        'Teddy Thompson',
     ],
     [
-        'Excellence is not a skill, it\'s an attitude.',
-        'Ralph Marston',
+        'Words have life and must be cared for. If they are stolen for ugly uses or careless slang or false promotion work, they need to be brought back to their original meaning - back to their roots.',
+        'Corita Kent',
+    ],
+    [
+        'You\'ve got to know what you want. This is central to acting on your intentions. When you know what you want, you realize that all there is left then is time management. You\'ll manage your time to achieve your goals because you clearly know what you\'re trying to achieve in your life.',
+        'Patch Adams',
+    ],
+    [
+        'When my time ends, I want people to say, \'Man her music made me smile; it just enlightened my life; it inspired me; it made me feel good every time.\'',
+        'Ledisi',
+    ],
+    [
+        'It hurts when you have to smile and you don\'t want to smile, but the best thing to do is to smile.',
+        'Mary J. Blige',
+    ],
+    [
+        'You have survived every single bad day so far',
+        'Unknown',
+    ],
+    [
+        'An ounce of practice is better than tons of teaching.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'My dad is too cute. Every morning, he sends me one motivational quote. I have a folder full of all his quotes.',
+        'Alia Bhatt',
+    ],
+    [
+        'Keep your eyes on the stars, and your feet on the ground.',
+        'Theodore Roosevelt',
+    ],
+    [
+        'Life is short and the older you get, the more you feel it. Indeed, the shorter it is. People lose their capacity to walk, run, travel, think, and experience life. I realise how important it is to use the time I have.',
+        'Viggo Mortensen',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'I see travelling as a great learning process, and my biggest dream is to travel the world.',
-        'Pooja Hegde',
+        'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.',
+        'Theodore Roosevelt',
     ],
     [
-        'There are no words that can describe the euphoria you feel when your baby recognizes you for the first time and smiles.',
-        'Jared Padalecki',
+        'Curiosity is the one thing invincible in Nature.',
+        'Freya Stark',
     ],
     [
-        'Epic poetry exhibits life in some great symbolic attitude. It cannot strictly be said to symbolize life itself, but always some manner of life.',
-        'Lascelles Abercrombie',
+        'The way that people feel changes everything. Feelings are forces. They cause us to time travel. And to leave ourselves, to leave our bodies. I would be that kind of psychologist who says, \'You\'re absolutely right - there are monsters under the bed.\'',
+        'Helen Oyeyemi',
     ],
     [
-        'I think that it\'s when we step out of the road, step outside the box, become our own person, and we walk fearlessly down paths other people wouldn\'t look at, that true progress comes. And sometimes true beauty as well.',
-        'John McAfee',
+        'Both my best and my worst habit is that I\'m very impulsive.',
+        'Tove Lo',
     ],
     [
-        'The land created me. I\'m wild and lonesome. Even as I travel the cities, I\'m more at home in the vacant lots.',
-        'Bob Dylan',
+        'A pessimist is a person who has had to listen to too many optimists.',
+        'Don Marquis',
     ],
     [
-        'Being funny is everything to me.',
-        'Allison Jones',
+        'No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none.',
+        'Henry Kissinger',
     ],
     [
-        'I\'m working myself to death.',
-        'Alan Ladd',
+        'There is no forgiveness in nature.',
+        'Ugo Betti',
     ],
     [
-        'And what we\'ve lost sight of is that performing manual labor with your hands is one of the most incredibly satisfying and positive things you can do.',
-        'Nick Offerman',
+        'Success breeds complacency. Complacency breeds failure. Only the paranoid survive.',
+        'Andy Grove',
     ],
     [
-        'Everything that happens happens as it should, and if you observe carefully, you will find this to be so.',
+        'What is important in life is life, and not the result of life.',
+        'Michel de Montaigne',
+    ],
+    [
+        'I am pleased to say that I am not a tortured comedian - I laugh a lot. My twenties weren\'t particularly happy, but it\'s the same for a lot of people. In your thirties, you realise that your life and your worries are really insignificant, and you have to force yourself to be more positive and take each day as a gift.',
+        'Miranda Hart',
+    ],
+    [
+        'If you think you can do it, you can.',
+        'John Burroughs',
+    ],
+    [
+        'Life is not a matter of holding good cards, but sometimes, playing a poor hand well.',
+        'Thomas Jefferson',
+    ],
+    [
+        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
+        'Michelangelo',
+    ],
+    [
+        'I believe with great fortunes come great responsibility, so with our family\'s assets and many wealthy friends, we could help raise a lot of money to help others.',
+        'Eric Trump',
+    ],
+    [
+        'Motivation is the art of getting people to do what you want them to do because they want to do it.',
+        'Dwight D. Eisenhower',
+    ],
+    [
+        'Everybody\'s got a job to do, and I do mine as best I can.',
+        'Marlee Matlin',
+    ],
+    [
+        'Everyone has at least one story, and each of us is funny if we admit it. You have to admit you\'re the funniest person you\'ve ever heard of.',
+        'Maya Angelou',
+    ],
+    [
+        '\'UFO\'s\' attitude toward the subject is very similar to mine. It\'s not an advocacy; its philosophy is more \'I want to believe this, but I want it proved.\'',
+        'Dwight Schultz',
+    ],
+    [
+        'Everything that exists is in a manner the seed of that which will be.',
         'Marcus Aurelius',
     ],
     [
-        'The novelist teaches the reader to comprehend the world as a question. There is wisdom and tolerance in that attitude. In a world built on sacrosanct certainties the novel is dead.',
-        'Milan Kundera',
+        'I work hard. I focus on myself and putting food on my dinner table before anything else. I don\'t worry about other artists. Worrying about the next person in a negative way is the wrong way to be.',
+        'Meek Mill',
     ],
     [
-        'It appears to be a law that you cannot have a deep sympathy with both man and nature.',
-        'Henry David Thoreau',
+        'When I first decided I was going to have a go at writing a book - and really, it was a mid-life crisis - I was 39. I was in business with my husband; we had a very busy lifestyle and quite a hectic schedule running this flourishing business in travel, and I found myself waking up and realising that I didn\'t want to do this anymore.',
+        'Fiona McIntosh',
     ],
     [
-        'The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.',
-        'Winston Churchill',
+        'Hatred is corrosive of a person\'s wisdom and conscience; the mentality of enmity can poison a nation\'s spirit, instigate brutal life and death struggles, destroy a society\'s tolerance and humanity, and block a nation\'s progress to freedom and democracy.',
+        'Jim Rohn',
     ],
     [
-        'I\'m having a great time. It\'s like I\'m on some ridiculous big roller coaster not knowing what\'s happening next, but just having a great time on the ride.',
-        'Samantha Mumba',
+        'Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.',
+        'Hasidic saying',
     ],
     [
-        'We pass through this world but once.',
-        'Aristotle',
+        'A man sees in the world what he carries in his heart.',
+        'Johann Wolfgang von Goethe',
     ],
     [
-        'There\'s a snobbery at work in architecture. The subject is too often treated as a fine art, delicately wrapped in mumbo-jumbo. In reality, it\'s an all-embracing discipline taking in science, art, maths, engineering, climate, nature, politics, economics.',
-        'Norman Foster',
-    ],
-    [
-        'You\'ve done it before and you can do it now. See the positive possibilities. Redirect the substantial energy of your frustration and turn it into positive, effective, unstoppable determination.',
-        'Ralph Marston',
-    ],
-    [
-        'If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.',
-        'John D. Rockefeller',
-    ],
-    [
-        'Southeast Asia has a real grip on me. From the very first time I went there, it was a fulfillment of my childhood fantasies of the way travel should be.',
-        'Anthony Bourdain',
-    ],
-    [
-        'I have a new philosophy. I\'m only going to dread one day at a time.',
-        'Charles M. Schulz',
-    ],
-    [
-        'Between two evils, I always pick the one I never tried before.',
-        'Mae West',
-    ],
-    [
-        'Giving back is the right thing to do, whether it\'s donating clothing or even just a smile to someone who needs it.',
-        'Becky G',
-    ],
-    [
-        'My mom was a model, so she\'s been really good about giving me tips on how to navigate behind the scenes - like the importance of being nice to everyone on set and remembering people\'s names, to how to be a positive part of the photo shoot and stuff like that.',
-        'Gigi Hadid',
-    ],
-    [
-        'It\'s not just the \'Grammys\' that I\'ve pulled out of. I also pulled out of the English awards as well. The reason that I wanted to pull out was because I believe very much that the music industry as a whole is mainly concerned with material success.',
-        'Alanis Morissette',
-    ],
-    [
-        'I want to work with kids and help develop them, show them the right way, the right morals and attitude into how to become a better footballer. Australia has many different cultures but I\'d like to bring in the indigenous style, bring their competitiveness, athleticism and raw ability into the frame.',
-        'Timothy F. Cahill',
-    ],
-    [
-        'The essence of life is the smile of round female bottoms, under the shadow of cosmic boredom.',
-        'Guy de Maupassant',
+        'No rational argument will have a rational effect on a man who does not want to adopt a rational attitude.',
+        'Karl Popper',
     ],
 ];

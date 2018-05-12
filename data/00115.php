@@ -2,103 +2,103 @@
 
 return [
     [
-        'Most of my arguments with musicians through the years have had more to do with their attitude about music, or their attitude about their own lives, or their personal responsibility. Music has never really been the big centerpiece of the fight.',
-        'Billy Corgan',
+        'I was never a pretty girl, so I wasn\'t the one to get the boy. I used to cast myself as a good sport. Sometimes I wonder if I do that too much with roles I play, because if I\'m absolutely truthful, I quite like being the best friend, or the supporting role, and actually I ought to gear-change and make myself the leading role.',
+        'Celia Imrie',
     ],
     [
-        'Come forth into the light of things, let nature be your teacher.',
+        'In Delhi, where I grew up, commerce is brusque. You don\'t ask each other how your day has been. You might not even smile. I\'m not saying this is ideal - it\'s how it is. You\'re tied together by a transaction. The customer doesn\'t tremble before complaining about how cold his food is.',
+        'Karan Mahajan',
+    ],
+    [
+        'Be sure you put your feet in the right place, then stand firm.',
+        'Abraham Lincoln',
+    ],
+    [
+        'I always believe that if you feel good and look happy, you\'re always going to be beautiful. My one actual beauty trick is pretty cliche: Never, ever go to bed with your makeup on.',
+        'Joyce Giraud',
+    ],
+    [
+        'Do what you love to do and give it your very best. Whether it\'s business or baseball, or the theater, or any field. If you don\'t love what you\'re doing and you can\'t give it your best, get out of it. Life is too short. You\'ll be an old man before you know it.',
+        'Melody Beattie',
+    ],
+    [
+        'I have long recognized a link between fitness and mental health and I think we need to encourage young people to take part in sports and team activities because we know it has such positive results.',
+        'Tipper Gore',
+    ],
+    [
+        'The price of anything is the amount of life you exchange for it.',
+        'Lao Tzu',
+    ],
+    [
+        'What is pride? A rocket that emulates the stars.',
         'William Wordsworth',
     ],
     [
-        'Success isn\'t everything but it makes a man stand straight.',
-        'Lillian Hellman',
+        'What is one to say about June, the time of perfect young summer, the fulfillment of the promise of the earlier months, and with as yet no sign to remind one that its fresh young beauty will ever fade.',
+        'Gertrude Jekyll',
     ],
     [
-        'In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.',
+        'Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.',
+        'Amiel',
+    ],
+    [
+        'Kind words will unlock an iron door.',
+        'Turkish proverb',
+    ],
+    [
+        'Work hard, be kind, and amazing things will happen.',
+        'Conan O\'Brien',
+    ],
+    [
+        'How can they say my life is not a success? Have I not for more than sixty years got enough to eat and escaped being eaten?',
+        'Logan Pearsall Smith',
+    ],
+    [
+        'I\'m an eternal realist and the success rate for being an actor is pretty low.',
+        'Tom Hiddleston',
+    ],
+    [
+        'In chess, there are some extremely beautiful things in the domain of movement, but not in the visual domain. It\'s the imagining of the movement or of the gesture that makes the beauty in this case.',
+        'Marcel Duchamp',
+    ],
+    [
+        'There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.',
+        'Malcolm X',
+    ],
+    [
+        'Your worst enemy cannot harm you as much as your own unguarded thoughts.',
         'Buddha',
     ],
     [
-        'When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.',
-        'Helen Keller',
+        'I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.',
+        'Elisabeth Kubler-Ross',
     ],
     [
-        'I\'ve developed into quite a swan. I\'m one of those people that will probably look better and better as I get older until I drop dead of beauty.',
-        'Rufus Wainwright',
+        'I prefer to win titles with the team ahead of individual awards or scoring more goals than anyone else. I\'m more worried about being a good person than being the best football player in the world. When all this is over, what are you left with? When I retire, I hope I am remembered for being a decent guy.',
+        'Lionel Messi',
     ],
     [
-        'Nobody who ever gave his best regretted it.',
-        'George Halas',
+        'Every so often, we all gaze into the abyss. It\'s a depressing fact of life that eventually the clock expires; eventually the sand in the hourglass runs out. It\'s the leaving behind of everything that matters to us that hurts the most.',
+        'Bob Marley',
     ],
     [
-        'The pilot looked at his cues of attitude and speed and orientation and so on and responded as he would from the same cues in an airplane, but there was no way it flew the same. The simulators had showed us that.',
-        'Alan Shepard',
+        'I firmly believe that success lies in the combination of both talent and business savvy, and that the magic comes through partnership between both.',
+        'Delphine Arnault',
     ],
     [
-        'I would try to promote something that I loved, and the entire interview would be about my personal life. I would leave a room feeling defeated, feeling embarrassed, but I would always make sure to put that smile on my face because I wasn\'t going to let them get to me.',
-        'Selena Gomez',
+        'As an entrepreneur, I\'ve come across countless articles and quotes proudly telling me that I should accept failure, smile, and keep my head up. In other words, I\'ve been told to stay positive. The thing is, when you\'re forced to shut down a business and let really awesome people you care about go, staying positive is the last thing on your mind.',
+        'John Rampton',
     ],
     [
-        'The content I create reflects my personality: goofy, fun, positive, a bit clumsy, family-friendly, educational and helpful.',
-        'Rosanna Pansino',
+        'The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.',
+        'Albert Einstein',
     ],
     [
-        'If nothing else, the act of reaching a milestone often serves to reveal a superstar\'s true nature.',
-        'Stephen Rodrick',
+        'I can\'t stress to you enough how much I can relate to teens being cyberbullied. Something that helps me is looking at old videos of me and my friends from middle school, or videos of my family. I love watching funny videos of my favorite people - it really cheers me up.',
+        'Ariana Grande',
     ],
     [
-        'Settings are obviously important - and as a writer, you have to respect what was real at the time of the story you\'re writing. But the real key to success lies in finding the right characters to carry that story.',
-        'Joan Lingard',
-    ],
-    [
-        'Although our inattention can contribute to our lack of total well-being, we also have the power to choose positive behaviors and responses. In that choice we change our every experience of life!',
-        'Greg Anderson',
-    ],
-    [
-        'No matter how you feel, Get up, dress up, show up and never give up.',
-        'Anonymous',
-    ],
-    [
-        'Life is a journey. When we stop, things don\'t go right.',
-        'Marianne Vos',
-    ],
-    [
-        'I don\'t take any photographs. I travel a lot by myself, and I feel weird taking photos on my own.',
-        'Jamie Bell',
-    ],
-    [
-        'My dementia hasn\'t just affected me - it\'s affected my friends and family, too.',
-        'Gerry Anderson',
-    ],
-    [
-        'All right everyone, line up alphabetically according to your height.',
-        'Casey Stengel',
-    ],
-    [
-        'You have succeeded in life when all you really want is only what you really need.',
-        'Paul Merton',
-    ],
-    [
-        'Employers have recognized for some time that it\'s smart business to have a diverse workforce - one in which many views are represented and everyone\'s talents are valued. Well, disability is part of diversity.',
-        'Thomas Perez',
-    ],
-    [
-        'In Hollywood, they think drawn animation doesn\'t work anymore, computers are the way. They forget that the reason computers are the way is that Pixar makes good movies. So everybody tries to copy Pixar. They\'re relying too much on the technology and not enough on the artists.',
-        'Tim Burton',
-    ],
-    [
-        'Dad kept us out of school, but school comes and goes. Family is forever.',
-        'Charlie Sheen',
-    ],
-    [
-        'Mother Nature may be forgiving this year, or next year, but eventually she\'s going to come around and whack you. You\'ve got to be prepared.',
-        'Geraldo Rivera',
-    ],
-    [
-        'Ignorance never settle a question.',
-        'Benjamin Disraeli',
-    ],
-    [
-        'I think I usually have quite ordinary dreams. Sometimes my dreams take me to other dimensions. I can travel in my mind especially when I\'m dreaming I focus my mind on what I want to dream. If I want to fly, I focus on flying.',
-        'Uri Geller',
+        'Transformation is a process, and as life happens there are tons of ups and downs. It\'s a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.',
+        'Peter Marshall',
     ],
 ];

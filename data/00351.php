@@ -2,103 +2,103 @@
 
 return [
     [
-        'Win or lose, I believe in giving my best and that is what I always do.',
-        'Lin Dan',
+        'I believe that one key to success is to accept truth, no matter how it\'s spoken.',
+        'Robert Kiyosaki',
     ],
     [
-        'The greatest glory in living lies not in never falling, but in rising every time we fall.',
+        'Time, the devourer of all things.',
+        'Ovid',
+    ],
+    [
+        'When you have got an elephant by the hind legs and he is trying to run away, it\'s best to let him run.',
+        'Abraham Lincoln',
+    ],
+    [
+        'Work on good prose has three steps: a musical stage when it is composed, an architectonic one when it is built, and a textile one when it is woven.',
+        'Walter Benjamin',
+    ],
+    [
+        'Americans try to talk about positive family values, although the actual state of things is disastrous.',
+        'Vladimir Zhirinovsky',
+    ],
+    [
+        'President Obama called for a \'we\' nation in his Inauguration Address. Art convenes. It is not just inspirational. It is aspirational. It pricks the walls of our compartmentalized minds, opens our hearts and makes us brave. And that\'s what we need most in our country today.',
+        'Anna Deavere Smith',
+    ],
+    [
+        'The man on top of the mountain didn\'t fall there.',
+        'Vince Lombardi',
+    ],
+    [
+        'Putting forward your positive energy connects you back to basic human values which we all share. Good Deeds Day shows that no matter the size of the gesture, a smile that brightens someone else\'s day or volunteering in your community, we can all take active part in making a difference.',
+        'Shari Arison',
+    ],
+    [
+        'About the time we can make the ends meet, somebody moves the ends.',
+        'Herbert Hoover',
+    ],
+    [
+        'Fashion is always of the time in which you live. It is not something standing alone. But the grand problem, the most important problem, is to rejeuvenate women. To make women look young. Then their outlook changes. They feel more joyous.',
+        'Coco Chanel',
+    ],
+    [
+        'Most people would assume my business success, and the wealth that comes with it, have brought me happiness. But I know I am successful, wealthy, and connected because I am happy.',
+        'Richard Branson',
+    ],
+    [
+        'I think my mother is my biggest influence. There are so many things I hate about her but at the same time I\'m thankful for her. All I know is that when I\'m a parent I want to be just like my mom. I can talk to my mom more than any of my friends could talk to their parents.',
+        'Nikki Reed',
+    ],
+    [
+        'I\'ve done a lot of albums and I kinda know when I\'m onto something that was inspirational for me to record and create, and this was one of those projects where I really enjoyed making the album.',
+        'Lee Ritenour',
+    ],
+    [
+        'Success in golf depends less on strength of body than upon strength of mind and character.',
+        'Arnold Palmer',
+    ],
+    [
+        'When the traveler goes alone he gets acquainted with himself.',
+        'Liberty Hyde Bailey',
+    ],
+    [
+        'To have the chance to see your music be elevated and to have almost universally positive response to that music, makes me feel better every day. I feel more confident and inspired, and that\'s fun.',
+        'John Legend',
+    ],
+    [
+        'Without music, life is a journey through a desert.',
+        'Aristotle',
+    ],
+    [
+        'I decided to fly through the air and live in the sunlight and enjoy life as much as I could.',
+        'John Burroughs',
+    ],
+    [
+        'Beauty is an outward gift, which is seldom despised, except by those to whom it has been refused.',
         'Ralph Waldo Emerson',
     ],
     [
-        'Patience is a virtue but you will never ever accomplish anything if you don\'t exercise action over patience.',
-        'Byron Pulsifer',
+        'In every conceivable manner, the family is link to our past, bridge to our future.',
+        'Alex Haley',
     ],
     [
-        'Younger women have no problem in reconciling beauty with ambitions as a professional woman.',
-        'Camille Paglia',
+        'The secret of my success is that I make other people money. And, never ever, ever, ever be ashamed about trying to earn as much as possible for yourself, if the person you\'re working with is also making money. That\'s life!',
+        'Simon Cowell',
     ],
     [
-        'The authentic self is the soul made visible.',
-        'Sarah Ban Breathnach',
+        'Most people work just hard enough not to get fired and get paid just enough money not to quit.',
+        'George Carlin',
     ],
     [
-        'I want to do what I love, which is act, and hopefully through that, leave a positive impact somehow, someway, with somebody.',
-        'Justin Lee',
+        'There\'s a difference between being a comic and a comedian. A comic is a guy who says funny things, and a comedian is a guy who says things funny, and he has a style and point of view that will last much longer.',
+        'Milton Berle',
     ],
     [
-        'Even after all this time, the sun never says to the earth, \'You owe me.\' Look what happens with a love like that. It lights the whole sky.',
-        'Hafez',
+        'The essence of life is the smile of round female bottoms, under the shadow of cosmic boredom.',
+        'Guy de Maupassant',
     ],
     [
-        'For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.',
-        'Richard P. Feynman',
-    ],
-    [
-        'I travel with a bunch of battery packs because I don\'t always have time to charge my phone at the hotel room when I\'m traveling. I always change them, so I never run out of battery.',
-        'Avicii',
-    ],
-    [
-        'The best is the enemy of the good.',
-        'Voltaire',
-    ],
-    [
-        'Sometimes nature guards her secrets with the unbreakable grip of physical law. Sometimes the true nature of reality beckons from just beyond the horizon.',
-        'Brian Greene',
-    ],
-    [
-        'Over the years, my work became both my vocation and avocation. Since I enjoyed it so much, I never felt a great need to go outside for relaxation. Nevertheless, I became an avid photographer and traveler. Possibly my love for travel stems from the early years when my family seldom went away on vacation.',
-        'Gertrude B. Elion',
-    ],
-    [
-        'I\'ve never really been aware of what is said about me, whether it\'s positive or negative. I ignore it. I\'ve always had the mind-set: \'No one can challenge me better than myself.\'',
-        'Troy Polamalu',
-    ],
-    [
-        'Happiness is not something ready made. It comes from your own actions.',
-        'Dalai Lama',
-    ],
-    [
-        'He who has a why to live can bear almost any how.',
-        'Leo Howard',
-    ],
-    [
-        'Even if you can\'t afford to travel the world, you can take your children to the museum, zoo or local park. And don\'t be afraid to take them to grown-up spots. Eating out in a restaurant teaches children how to be quiet and polite and gives them the pleasure of knowing you trust them to behave.',
-        'Kimora Lee Simmons',
-    ],
-    [
-        'If you\'re going to tell people the truth, be funny or they\'ll kill you.',
-        'Billy Wilder',
-    ],
-    [
-        'As long as you think your past is bad you must be improving',
-        'Louis C.K',
-    ],
-    [
-        'Step with care and great tact, and remember that Life\'s a Great Balancing Act.',
-        'Carla Gugino',
-    ],
-    [
-        'I don\'t do it often, but I do cry. I also laugh a lot; people tell me I\'m funny and I do like to laugh.',
-        'Michael Caine',
-    ],
-    [
-        'The great thing is that the funny side of getting old is fuel for my comedy.',
-        'Steve Coogan',
-    ],
-    [
-        'Family always gonna be there. The material things, they come and go.',
-        'Romeo Miller',
-    ],
-    [
-        'A careful inspection showed them that, even if they succeeded in righting it by themselves, the cart would travel no longer. The axles were in a hopeless state, and the missing wheel was shattered into pieces.',
-        'Kenneth Grahame',
-    ],
-    [
-        'This life is worth living, we can say, since it is what we make it.',
-        'Kurt Vonnegut',
-    ],
-    [
-        'Carry on any enterprise as if all future success depended on it.',
-        'Cardinal Richelieu',
+        'If we can soften our hearts, and if we can access the pure and simple aspect of our nature, then we can regain the realization that everything we need is already inside us and anything is attainable.',
+        'Yehuda Berg',
     ],
 ];

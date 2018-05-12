@@ -2,103 +2,103 @@
 
 return [
     [
-        'Real education should consist of drawing the goodness and the best out of our own students. What better books can there be than the book of humanity?',
-        'Cesar Chavez',
+        'People rarely succeed unless they have fun in what they are doing.',
+        'Dale Carnegie',
     ],
     [
-        'This is how many people become artists, musicians, writers, computer programmers, record-holding athletes, scientists... by spending time alone practicing what they love.',
-        'Meg Cabot',
+        'Like a lot of you, I grew up in a family on the ragged edges of the middle class. My daddy sold carpeting and ended up as a maintenance man. After he had a heart attack, my mom worked the phones at Sears so we could hang on to our house.',
+        'Elizabeth Warren',
     ],
     [
-        'Successful people ask better questions, and as a result, they get better answers.',
-        'Tony Robbins',
+        'Dogs are not our whole life, but they make our lives whole.',
+        'Paula Cole',
     ],
     [
-        'I am thrilled to support World of Children and its superlative efforts to fund changemakers around the world. It\'s a great privilege to be associated with an organization that recognizes and funds those individuals really working in the trenches, and I look forward to being part of advancing positive change for children everywhere.',
-        'Stephanie March',
+        'Antique things have an appreciation and worth. Something can be old, but it can be timeless; therefore, it becomes an antique. If this antique is preserved and deemed precious, it could be passed down as a family heirloom.',
+        'CeeLo Green',
     ],
     [
-        'Success is full of promise till one gets it, and then it seems like a nest from which the bird has flown.',
-        'Henry Ward Beecher',
+        'Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them.',
+        'Jack Canfield',
     ],
     [
-        'It is the combination of reasonable talent and the ability to keep going in the face of defeat that leads to success.',
-        'Martin Seligman',
+        'Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.',
+        'Colin Powell',
     ],
     [
-        'I love my rabbit, my family rabbit.',
-        'Alexandra Daddario',
+        'Sadness may be part of life but there is no need to let it dominate your entire life.',
+        'Byron Pulsifer',
     ],
     [
-        'There are lots of things which I would love to tell him, but in some way, I also feel that I lost the person closest to me. And I got a second chance to live. So in a way I feel that I live for both of us... and I will do my best.',
-        'Petra Nemcova',
+        'A positive attitude is something everyone can work on, and everyone can learn how to employ it.',
+        'Joan Lunden',
     ],
     [
-        'Borrow trouble for yourself, if that\'s your nature, but don\'t lend it to your neighbours.',
-        'Rudyard Kipling',
-    ],
-    [
-        'To be successful you have to be lucky, or a little mad, or very talented, or find yourself in a rapid growth field.',
-        'Edward de Bono',
-    ],
-    [
-        'I want to apologize to all of the people I have let down because of my behavior which has reflected badly on my family, friends, co-workers, business associates and others.',
+        'People think your success is just a matter of having a pretty face. But it\'s easy to be chewed up and spat out. You\'ve got to stay ahead of the game to be able to stay in it.',
         'Kate Moss',
     ],
     [
-        'Success is the maximum utilization of the ability that you have.',
-        'Zig Ziglar',
+        'While we are postponing, life speeds by.',
+        'Karen Salmansohn',
     ],
     [
-        'I think we all suffer from guilt at some point in our lives, but for the most part I never really regret, and I try to always remain positive. Yes, I think that those issues are very interesting to play in a character, and they\'re prominent issues in life, and I think people can relate to them.',
-        'Channing Tatum',
+        'It\'s not just a matter of poor willpower on the part of the consumer and a give-the-people-what-they-want attitude on the part of the food manufacturers. What I found, over four years of research and reporting, was a conscious effort... to get people hooked on foods that are convenient and inexpensive.',
+        'Michael Moss',
     ],
     [
-        'You shouldn\'t get too close to the truth, because then maybe you stop being funny.',
-        'Bob Newhart',
+        'The greatest education in the world is watching the masters at work.',
+        'Michael Jackson',
     ],
     [
-        'I want to make this world perfect.',
-        'Malala Yousafzai',
+        'Work isn\'t to make money; you work to justify life.',
+        'Marc Chagall',
     ],
     [
-        'The past itself, as historical change continues to accelerate, has become the most surreal of subjects - making it possible... to see a new beauty in what is vanishing.',
-        'Susan Sontag',
+        'In this life, I\'m always going to choose the positive.',
+        'Gloria Estefan',
     ],
     [
-        'Go forth under the open sky, and list To Nature\'s teachings.',
-        'William C. Bryant',
+        'I say that I get paid to travel, and I play the shows for free.',
+        'Tyler Farr',
     ],
     [
-        'There\'s something to be said in favor of working in isolation in the real world.',
-        'A. R. Ammons',
+        'Silence is deep as Eternity, Speech is shallow as Time.',
+        'Carlyle',
     ],
     [
-        'Life is a process. We are a process. The universe is a process.',
-        'Anne Schaef',
+        'If you\'re not willing to work hard, let someone else do it. I\'d rather be with someone who does a horrible job, but gives 110% than with someone who does a good job and gives 60%.',
+        'Will Smith',
     ],
     [
-        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
-        'Danny Meyer',
+        'I just try to try to keep an attitude that I don\'t know what I\'m doing. Not to the point where I\'m beating myself up, but I just go in thinking that I have a lot to learn. And I hope I still have that attitude 30 years from now.',
+        'Tobey Maguire',
     ],
     [
-        'It is clear I was never the Pretty Girl. I had my two front teeth knocked out when I was 10 and didn\'t fix them until I was 19. I have a crooked smile and a nose that looks like it\'s been broken 12 times but never has been. My nose was always red, so people called me Rudolph. My whole face is off-center.',
-        'Ellen Barkin',
+        'I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.',
+        'Henry Rollins',
     ],
     [
-        'Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.',
-        'Lao Tzu',
+        'I am not bothered by the fact that I am unknown. I am bothered when I do not know others.',
+        'Confucius',
     ],
     [
-        'Her beauty didn\'t do her any good and she couldn\'t use it in any positive way or manipulative way. I just hope that people will look and see and believe in that hope of love, that hope of freedom, even if it was just for a limited time.',
-        'Diane Kruger',
+        'Empathy is the faculty to resonate with the feelings of others. When we meet someone who is joyful, we smile. When we witness someone in pain, we suffer in resonance with his or her suffering.',
+        'Matthieu Ricard',
     ],
     [
-        'Let us sacrifice our today so that our children can have a better tomorrow.',
-        'A. P. J. Abdul Kalam',
+        'I fly economy. I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
+        'Gene Simmons',
     ],
     [
-        'I\'m not trying to stump anybody... it\'s the beauty of the language that I\'m interested in.',
-        'Buddy Holly',
+        'Most people yearn to contribute, make the world a better place and have success.... all at the same time... Make sure to give your business a background, a mission and a story. That might be the most important step part of any venture. And remember, giving may be the best investment you ever make.',
+        'Blake Mycoskie',
+    ],
+    [
+        'We need two kinds of acquaintances, one to complain to, while to the others we boast.',
+        'Logan Pearsall Smith',
+    ],
+    [
+        'In acting, there\'s a type of courage you\'re recognized for all the time. You lose 100 pounds and play a guy with AIDS, and you get rewarded. But, in life, doing what is courageous is quiet, and no one knows about it. Courage is someone making sacrifices for their family or making selfless decisions for what they hope or feel.',
+        'Rob Lowe',
     ],
 ];

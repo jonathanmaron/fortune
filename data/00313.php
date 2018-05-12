@@ -2,103 +2,103 @@
 
 return [
     [
-        'Know how to travel from your town to a nearby town without a car, either by bus or by rail.',
-        'Marilyn vos Savant',
+        'When works of art are presented like rare butterflies on the walls, they\'re decontextualized. We admire their beauty, and I have nothing against that, per se. But there is more to art than that.',
+        'Hans Haacke',
     ],
     [
-        'Life is full of misery, loneliness, and suffering - and it\'s all over much too soon.',
-        'Steve Jobs',
+        'Life is not a solo act. It\'s a huge collaboration, and we all need to assemble around us the people who care about us and support us in times of strife.',
+        'Charles Stanley',
     ],
     [
-        'This is no time for ease and comfort. It is time to dare and endure.',
-        'Winston Churchill',
+        'I write funny. If I can make my wife laugh, I know I\'m on the right track.',
+        'Gene Wilder',
     ],
     [
-        'All the best people in life seem to like LINUX.',
-        'Steve Wozniak',
+        'If you were to actually travel around schools and universities and listen in on lectures about evolution, you might find a fairly substantial fraction of young people, without knowing what it is they disapprove of, think they disapprove of it, because they\'ve been brought up to.',
+        'Richard Dawkins',
     ],
     [
-        'Put your heart, mind, and soul into even your smallest acts. This is the secret of success.',
-        'Swami Sivananda',
-    ],
-    [
-        'Some people say that I have an attitude- Maybe I do. But I think that you have to. You have to believe in yourself when no one else does- that makes you a winner right there.',
-        'Venus Williams',
-    ],
-    [
-        'The terrorists thought they would change my aims and stop my ambitions, but nothing changed in my life except this: weakness, fear and hopelessness died. Strength, power and courage were born.',
-        'Andrew Brown',
-    ],
-    [
-        'I don\'t believe people are looking for the meaning of life as much as they are looking for the experience of being alive.',
-        'Marcus Aurelius',
-    ],
-    [
-        'Garbage is the part of your history you don\'t want your family to know about.',
-        'Vik Muniz',
-    ],
-    [
-        'Man needs his difficulties because they are necessary to enjoy success.',
+        'For success of any mission, it is necessary to have creative leadership. Creative leadership is vital for government, non-governmental organisations as well as for industries.',
         'A. P. J. Abdul Kalam',
     ],
     [
-        'Nothing great was ever achieved without enthusiasm.',
-        'Ralph Emerson',
+        'Life is just a chance to grow a soul.',
+        'A. Powell Davies',
     ],
     [
-        'For most people, we often marvel at the beauty of a sunrise or the magnificence of a full moon, but it is impossible to fathom the magnitude of the universe that surrounds us.',
-        'Richard H. Baker',
+        'Hits and flops will come and go. But what stays with you is the experience you had while shooting a film. I am happy learning something new each time.',
+        'Sonakshi Sinha',
     ],
     [
-        'What\'s the point of being alive if you don\'t at least try to do something remarkable.',
-        'Unknown',
+        'The success of the suffrage movement would injure women spiritually and intellectually, for they would be assuming a burden though they knew themselves unable to bear it. It is the sediment, not the wave, of a sex. It is the antithesis of that highest and sweetest mystery - conviction by submission, and conquest by sacrifice.',
+        'John Boyle O\'Reilly',
     ],
     [
-        'Most of us have far more courage than we ever dreamed we possessed.',
-        'Dale Carnegie',
+        'And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.',
+        'Elizabeth Appell',
     ],
     [
-        'Having achieved my own dreams, I want to give to kids who are less fortunate, who struggle with everyday obstacles. I want to give them something positive in their lives: support.',
-        'Kristi Yamaguchi',
+        'Music is moonlight in the gloomy night of life.',
+        'Shakira',
     ],
     [
-        'Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.',
-        'Napoleon Hill',
+        'I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.',
+        'Robert Fulghum',
     ],
     [
-        'I think the world is ambivalent about feminism. So I can\'t blame college students. I think they\'re reflecting the greater culture\'s attitude toward feminism. So what I can do is, in ways that are appropriate, advocate for feminism and help the students learn what feminism is about.',
-        'Roxane Gay',
+        'I come from a law enforcement family. My grandfather, William J. Comey, was a police officer. Pop Comey is one of my heroes. I have a picture of him on my wall in my office at the FBI, reminding me of the legacy I\'ve inherited and that I must honor.',
+        'James Comey',
     ],
     [
-        'What I like in this job is you can travel to many places, many imaginations.',
-        'Marion Cotillard',
+        'To the lover of wilderness, Alaska is one of the most wonderful countries in the world.',
+        'John Muir',
     ],
     [
-        'Don\'t wait for people to be friendly. Show them how.',
-        '',
+        'Halloween isn\'t the only time for ghosts and ghost stories. In Victorian Britain, spooky winter\'s tales were part of the Christmas season, often told after dinner, over port or coffee.',
+        'Michael Dirda',
     ],
     [
-        'At home in Ireland, there\'s a habit of avoidance, an ironical attitude towards the authority figure.',
-        'Seamus Heaney',
+        'There are people out there who hate me and who say I\'m arrogant, vain, and whatever. That\'s all part of my success. I am made to be the best.',
+        'Cristiano Ronaldo',
     ],
     [
-        'When one travels around the world, one notices to what an extraordinary degree human nature is the same, whether in India or America, in Europe or Australia.',
-        'Jiddu Krishnamurti',
+        'What is man\'s ultimate direction in life? It is to look for love, truth, virtue, and beauty.',
+        'Shinichi Suzuki',
     ],
     [
-        'I know that I\'ve got big ears and a big forehead and that my hair sticks up. But I\'m happy with myself. I\'m not necessarily trying to win a beauty pageant here.',
-        'Clay Aiken',
+        'In Hollywood, they think drawn animation doesn\'t work anymore, computers are the way. They forget that the reason computers are the way is that Pixar makes good movies. So everybody tries to copy Pixar. They\'re relying too much on the technology and not enough on the artists.',
+        'Tim Burton',
     ],
     [
-        'Can you imagine what I would do if I could do all I can?',
-        'Jeff Rich',
+        'Whatever you do, do with determination. You have one life to live; do your work with passion and give your best. Whether you want to be a chef, doctor, actor, or a mother, be passionate to get the best result.',
+        'Alia Bhatt',
     ],
     [
-        'In truth, I am a single mother. But I don\'t feel alone at all in parenting my daughter. Krishna has a whole other side of her family who loves her, too. And so Krishna is parented by me, but also by her grandmother and aunts and cousins and uncles and friends.',
-        'Padma Lakshmi',
+        'There are those who travel and those who are going somewhere. They are different and yet they are the same. The success has this over his rivals: He knows where he is going.',
+        'Mark Caine',
     ],
     [
-        'You really don\'t need to wear any make-up most of the time; keep your eyebrows the way they are, and find your own natural beauty signature.',
-        'Erin Heatherton',
+        'In most professions, if you stay at the office an extra four hours every day, you\'re gonna impress the boss. You\'re gonna get that promotion; you\'re gonna get that raise. You\'re gonna at least have job security. But with acting, if you\'re really ambitious and you have a good work ethic and are really good at your job, it might not really matter.',
+        'Jason Bateman',
+    ],
+    [
+        'The time I spent thinking about how I was better than somebody else or worrying about somebody else\'s attitude was time I could put to better use.',
+        'Charley Pride',
+    ],
+    [
+        'The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you\'re free.',
+        'Ray Manzarek',
+    ],
+    [
+        'I believe the world is one big family, and we need to help each other.',
+        'Jet Li',
+    ],
+    [
+        'From a small seed a mighty trunk may grow.',
+        'Aeschylus',
+    ],
+    [
+        'My uncle Sammy was an angry man. He had printed on his tombstone: What are you looking at?',
+        'Margaret Smith',
     ],
 ];

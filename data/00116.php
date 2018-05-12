@@ -2,103 +2,103 @@
 
 return [
     [
-        'It\'s a great feeling when your work is appreciated.',
-        'Jacqueline Fernandez',
+        'If you are the kind of person who is waiting for the \'right\' thing to happen, you might wait for a long time. It\'s like waiting for all the traffic lights to be green for five miles before starting the trip.',
+        'Robert Kiyosaki',
     ],
     [
-        'I\'m kidding about having only a few dollars. I might have a few dollars more.',
-        'James Brown',
+        'The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.',
+        'Charles Atlas',
     ],
     [
-        'Let your watchword be order and your beacon beauty.',
-        'Daniel Burnham',
+        'Happiness doesn\'t come from being rich, nor merely from being successful in your career, nor by self-indulgence. One step towards happiness is to make yourself healthy and strong while you are a boy so that you can be useful and so you can enjoy life when you are a man.',
+        'Louise Mensch',
     ],
     [
-        'To be great is to be misunderstood.',
-        'Ralph Emerson',
+        'The eye sees only what the mind is prepared to comprehend.',
+        'Henri Bergson',
     ],
     [
-        'Ugliness is in a way superior to beauty because it lasts.',
-        'Serge Gainsbourg',
+        'Some people know that they are so adorable looking, all they have to do is smile and dress up and they get plenty from that. Then there are some of us who, early on, see that that doesn\'t work. So we joke about it.',
+        'Merrill Markoe',
     ],
     [
-        'Green is the prime color of the world, and that from which its loveliness arises.',
-        'Pedro Calderon de la Barca',
+        'Raising awareness on the most pressing environmental issues of our time is more important than ever.',
+        'Leonardo DiCaprio',
     ],
     [
-        'My trade and art is to live.',
-        'Theodore Roosevelt',
+        'The best partnerships aren\'t dependent on a mere common goal but on a shared path of equality, desire, and no small amount of passion.',
+        'Sarah MacLean',
     ],
     [
-        'And if you see me, smile and maybe give me a hug. That\'s important to me too.',
-        'Jim Valvano',
+        'In the animal kingdom, one of the keys to survival is to outwit your enemies. And when you\'re surrounded by carnivores, one of the best strategies is to fade into the background and disappear.',
+        'Neil deGrasse Tyson',
     ],
     [
-        'I come from a blue collar family, but my personal life isn\'t. I didn\'t get the gene that my grandfather had in spades. He was a local hero. Built the church that I went to. Built the house I grew up in. Steamfitter, pipefitter, electrician, mechanic and plumber. I wanted to do those things. But it just didn\'t come easy.',
-        'Mike Rowe',
+        'The whole secret of life is to be interested in one thing profoundly and in a thousand things well.',
+        'Daniel Libeskind',
     ],
     [
-        'All water has a perfect memory and is forever trying to get back to where it was.',
-        'Toni Morrison',
+        'Your outlook on life is a direct reflection on how much you like yourself.',
+        'Lululemon',
     ],
     [
-        'I won\'t say there aren\'t any Harvard graduates who have never asserted a superior attitude. But they have done so to our great embarrassment and in no way represent the Harvard I know.',
-        'Derek Bok',
+        'When you do something best in life, you don\'t really want to give that up - and for me it\'s tennis.',
+        'Roger Federer',
     ],
     [
-        'I\'ve worked too hard and too long to let anything stand in the way of my goals. I will not let my teammates down and I will not let myself down.',
-        'Mia Hamm',
+        'Our family life was certainly not intellectual.',
+        'Douglass North',
     ],
     [
-        'The real success in golf lies in turning three shots into two.',
-        'Bobby Locke',
+        'The only Zen you find on the tops of mountains is the Zen you bring up there.',
+        'Robert Pirsig',
     ],
     [
-        'Today, we have private airline companies, but if you take a look at a Boeing plane next time you travel, you\'ll see that you are basically taking a ride on a modified bomber.',
-        'Noam Chomsky',
+        'Success cannot come from standstill men. Methods change and men must change with them.',
+        'James Cash Penney',
     ],
     [
-        'Life is short, and it is up to you to make it sweet.',
-        'Henry Wadsworth Longfellow',
+        'Only fools are positive.',
+        'Moe Howard',
     ],
     [
-        'I grew up in a very religious family. I could read the Qu\'ran easily at the age of five.',
-        'Akhmad Kadyrov',
+        'If you\'re changing the world, you\'re working on important things. You\'re excited to get up in the morning.',
+        'Larry Page',
     ],
     [
-        'Nonfiction speaks to the head. Fiction speaks to the heart. Poetry speaks to the soul. It\'s the essence of beauty. The essence of pain. It pleases the eye and the ear.',
-        'Ellen Hopkins',
+        'Within the hearts men, loyalty and consideration are esteemed greater than success.',
+        'Bryant H. McGill',
     ],
     [
-        'Oscar Wilde always makes me smile - with respect and admiration. His short stories prove that it is possible to be both sarcastic, even cynical, but deeply compassionate. Just seeing the cover of one of Wilde\'s books in a bookshop makes me smile.',
-        'Orhan Pamuk',
-    ],
-    [
-        'Young people are threatened... by the evil use of advertising techniques that stimulate the natural inclination to avoid hard work by promising the immediate satisfaction of every desire.',
-        'Pope John Paul II',
-    ],
-    [
-        'Education must not simply teach work - it must teach Life.',
-        'W. E. B. Du Bois',
-    ],
-    [
-        'In hindsight, I slid into arrogance based upon past success.',
+        'At Netflix, we think you have to build a sense of responsibility where people care about the enterprise. Hard work, like long hours at the office, doesn\'t matter as much to us. We care about great work.',
         'Reed Hastings',
     ],
     [
-        'When I first began choreographing, I never thought of it as choreography but as expressing feelings. Though every piece is different, they are all trying to get at certain things that are difficult to put into words. In the work, everything belongs to everything else - the music, the set, the movement and whatever is said.',
-        'Pina Bausch',
+        'Suffering is permanent, obscure and dark, And shares the nature of infinity.',
+        'William Wordsworth',
     ],
     [
-        'As the rest of the world is walking out the door, your best friends are the ones walking in.',
-        '',
+        'My success comes in making fun of whatever you\'re doing. That\'s my way.',
+        'Kevin Hart',
     ],
     [
-        'All journeys have secret destinations of which the traveler is unaware.',
-        'Martin Buber',
+        'In a spiritual sense, a positive attitude may help you get through chemotherapy and surgery and radiation and what have you. But a positive mental attitude does not cure cancer - any more than a negative mental attitude causes cancer.',
+        'Siddhartha Mukherjee',
     ],
     [
-        'Elegance is not a dispensable luxury but a factor that decides between success and failure.',
-        'Edsger Dijkstra',
+        'I think that from the time you start playing sports as a child you see that your responsibility to your team is to play the best that you can play as an individual... and yet, not take anything away from being part of a team.',
+        'Wayne Gretzky',
+    ],
+    [
+        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
+        'Gil Scott-Heron',
+    ],
+    [
+        'I am positive - determined to move forward with my life, bring up my babies, and do the best job I can as a mother, entertainer, and person.',
+        'Jennifer Lopez',
+    ],
+    [
+        'Failure is a bruise, not a tattoo.',
+        'Jon Sinclair',
     ],
 ];

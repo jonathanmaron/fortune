@@ -2,103 +2,103 @@
 
 return [
     [
-        'The little windflower, whose just opened eye is blue as the spring heaven it gazes at.',
-        'William C. Bryant',
+        'Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don\'t turn up at all.',
+        'Sam Ewing',
     ],
     [
-        'For women in my family, in Korean culture, women are really valued in their youth, and then when they get older, it\'s like they almost become irrelevant.',
-        'Margaret Cho',
+        'Some people ask the secret of our long marriage. We take time to go to a restaurant two times a week. A little candlelight, dinner, soft music and dancing. She goes Tuesdays, I go Fridays.',
+        'Henny Youngman',
     ],
     [
-        'These flowers, which were splendid and sprightly, waking in the dawn of the morning, in the evening will be a pitiful frivolity, sleeping in the cold night\'s arms.',
-        'Pedro Calderon de la Barca',
+        'Economy is the basis of society. When the economy is stable, society develops. The ideal economy combines the spiritual and the material, and the best commodities to trade in are sincerity and love.',
+        'Morihei Ueshiba',
     ],
     [
-        'The sea, once it casts its spell, holds one in its net of wonder forever.',
-        'Jacques Yves Cousteau',
+        'Canada was built around a very simple premise. A promise that you can work hard and succeed and build a future for yourselves and your kids, and that future for your kids would be better than the one you had.',
+        'Justin Trudeau',
     ],
     [
-        'We must not say every mistake is a foolish one.',
-        'Cicero',
+        'A hen is only an egg\'s way of making another egg.',
+        'Samuel Butler',
     ],
     [
-        'To live a creative life, we must lose our fear of being wrong.',
-        'Unknown',
+        'What worries you masters you.',
+        'Haddon Robinson',
     ],
     [
-        'Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.',
-        'Charles M. Schulz',
+        'Our strength grows out of our weaknesses.',
+        'Ralph Waldo Emerson',
     ],
     [
-        'When people are like each other they tend to like each other.',
-        'Tony Robbins',
+        'After all, the best part of a holiday is perhaps not so much to be resting yourself, as to see all the other fellows busy working.',
+        'Kenneth Grahame',
     ],
     [
-        'A professional is someone who can do his best work when he doesn\'t feel like it.',
-        'Alistair Cooke',
+        'If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.',
+        'Abraham Lincoln',
     ],
     [
-        'It is the hour to be drunken! to escape being the martyred slaves of time, be ceaselessly drunk. On wine, on poetry, or on virtue, as you wish.',
-        'Charles Baudelaire',
+        'Honor lies in honest toil.',
+        'Grover Cleveland',
     ],
     [
-        'Nothing is worth more than this day.',
-        'Johann Wolfgang von Goethe',
+        'I prioritize the things that need to get done at work, and I ask myself where I\'m spending the majority of my time. The answer to that question always needs to be \'with my family.\'',
+        'Elisabeth Hasselbeck',
     ],
     [
-        'I believe e-courses will eventually change people\'s attitude toward learning. Education will play an increasingly dominant role in people\'s lives. For people of all ages and all geographies.',
-        'Sebastian Thrun',
+        'I\'m a positive man.',
+        'Mariano Rivera',
     ],
     [
-        'No life\'s worth more than any other, no sister worth less than any brother.',
-        'Bruce Lee',
-    ],
-    [
-        'The hardships that I encountered in the past will help me succeed in the future.',
-        'Philip Emeagwali',
-    ],
-    [
-        'Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to.',
-        'Demi Lovato',
-    ],
-    [
-        'Slow down and enjoy life. It\'s not only the scenery you miss by going to fast - you also miss the sense of where you are going and why.',
-        'Sasha Cohen',
-    ],
-    [
-        'Without labor nothing prospers.',
-        'Sophocles',
-    ],
-    [
-        'I\'m always thinking about creating. My future starts when I wake up every morning... Every day I find something creative to do with my life.',
-        'Dong Dong',
-    ],
-    [
-        'I just developed my act way back in the late \'80s. I went to college in Georgia, so I picked up the Southern accent. I talked like that with my friends all the time, because it was fun. It was funny... All my friends were real Southern. We\'re buddies, so I\'d say stuff to make them laugh. So that was pretty much it.',
-        'Larry the Cable Guy',
-    ],
-    [
-        'No fine work can be done without concentration and self-sacrifice and toil and doubt.',
-        'Max Beerbohm',
-    ],
-    [
-        'It is very necessary to have markers of beauty left in a world seemingly bent on making the most evil ugliness.',
-        'Thornton Wilder',
-    ],
-    [
-        'Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art.',
+        'Land really is the best art.',
         'Andy Warhol',
     ],
     [
-        'Travel, of course, narrows the mind.',
-        'Malcolm Muggeridge',
+        'Work is that which you dislike doing but perform for the sake of external rewards. At school, this takes the form of grades. In society, it means money, status, privilege.',
+        'Abraham Maslow',
     ],
     [
-        'A ship in port is safe, but that\'s not what ships are built for.',
-        'Grace Hopper',
+        'Nothing makes me so happy as to observe nature and to paint what I see.',
+        'Henri Rousseau',
     ],
     [
-        'By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day.',
-        'Robert Frost',
+        'You have to stay true to yourself and where you\'re coming from, and sometimes people see you in a different light, but you have to take it in and try to be positive about anything.',
+        'McKayla Maroney',
+    ],
+    [
+        'The only yardstick for success our society has is being a champion. No one remembers anything else.',
+        'John Madden',
+    ],
+    [
+        'Lord, grant that I may always desire more than I can accomplish.',
+        'Michelangelo',
+    ],
+    [
+        'Some people see things that are and ask, Why? Some people dream of things that never were and ask, Why not? Some people have to go to work and don\'t have time for all that.',
+        'George Carlin',
+    ],
+    [
+        'A word of encouragement during a failure is worth more than an hour of praise after success.',
+        'Unknown',
+    ],
+    [
+        'The best preparation for tomorrow is to do today\'s work superbly well.',
+        'William Osler',
+    ],
+    [
+        'I\'m lucky in that I travel a lot for work. I also manage several holidays a year. I\'m not someone who sits in the sun or goes sightseeing, though. If I go away, it will be for fishing or something like that.',
+        'Vinnie Jones',
+    ],
+    [
+        'If biking is your passion, set aside time to enjoy a good ride.',
+        'Patrick Dempsey',
+    ],
+    [
+        'I have a nice smile, pretty lips, and big round cheeks. They help me look like a teenager.',
+        'Gabourey Sidibe',
+    ],
+    [
+        'My attitude toward men who mess around is simple: If you find \'em, kill \'em.',
+        'Loretta Lynn',
     ],
 ];

@@ -2,103 +2,103 @@
 
 return [
     [
-        'The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty.',
-        'Zig Ziglar',
+        'Babies control and bring up their families as much as they are controlled by them; in fact the family brings up baby by being brought up by him.',
+        'Erik Erikson',
     ],
     [
-        'My family was my guide to my reality.',
-        'Haywood Nelson',
+        'I hope the millions of people I\'ve touched have the optimism and desire to share their goals and hard work and persevere with a positive attitude.',
+        'Michael Jordan',
     ],
     [
-        'I\'m a painter, really. To be successful, you have to go to Hollywood, and I didn\'t like to travel.',
-        'H. R. Giger',
+        'Just like hair frames our face, brows frame our eyes. I see so much potential in harmonized beauty whenever I see a woman who\'s not filling in her brows, and I just want to go in with my brow pencil and just be like, \'Filling in eyebrows, OK, done - look in the mirror and be inspired.\' That\'s one of my pet peeves, but beauty is subjective.',
+        'Michelle Phan',
     ],
     [
-        'Just because you\'re a luxury brand doesn\'t mean you have to have an attitude.',
-        'Angela Ahrendts',
+        'Normally, it takes me about three years to write one of the big books. It is usually four years between releases because of the huge amount of travel and PR and just nuisance going on around them. I have a lot of pressure from publishers and agents.',
+        'Diana Galbadon',
     ],
     [
-        'Animals represent the abstract notion of acceptance. Living with these funny creatures - you kind of have to accept them. It\'s like a test in a way.',
-        'Shaun Tan',
+        'I left my family, and I left my brother and sister, and I went and lived my dream. I saw everybody, but is it ever enough?',
+        'Joan Jett',
     ],
     [
-        'Trying to make a feature film yourself with no money is the best film school you can do.',
-        'Quentin Tarantino',
+        'Science and fiction both begin with similar questions: What if? Why? How does it all work? But they focus on different areas of life on earth.',
+        'Margaret Atwood',
     ],
     [
-        'Beauty is a gift, just like good health or intelligence. The only thing is not to be proud of being beautiful. Because you didn\'t do anything - it was given to you.',
-        'Monica Bellucci',
+        'Have the courage to say no. Have the courage to face the truth. Do the right thing because it is right. These are the magic keys to living your life with integrity.',
+        'Marc Anthony',
     ],
     [
-        'I drank some boiling water because I wanted to whistle.',
-        'Mitch Hedberg',
+        'My first dream was to travel. I was attracted to different places, different colors of skin, different food. When I was 18 in 1977, I went to Europe with my accordion and discovered the pleasure of entertaining people.',
+        'Guy Laliberte',
     ],
     [
-        'We can only learn to love by loving.',
-        'Iris Murdoch',
+        'We treat beauty like an accomplishment, and that is insane. Everyone in L.A. says, \'Oh, you look good,\' and you listen for them to say you\'ve lost weight. It\'s never \'How are you?\' or \'You seem happy!\'',
+        'Carrie Fisher',
     ],
     [
-        'People come up to me and say somebody in their family has cancer, and we appreciate what you do, and we appreciate your fight, and don\'t give up, we love your attitude.',
-        'Craig Sager',
+        'You don\'t need to invade a place or install a new government to help bring about a positive change.',
+        'Nicholas D. Kristof',
     ],
     [
-        'You must stand for something! It does not have to be grand, but it must be a positive that brings light to someone else\'s darkness.',
-        'Anthony Carmona',
+        'Smile, it\'s better than a poke in the eye.',
+        'Douglas Horton',
     ],
     [
-        'Some people can be president, some people can speak, some people, you know, anything that\'s positive, man - a dentist, a doctor. Just hang in there and never give up, and find out what is your talent. First you got to find your talent and just stick with your talent, and I guarantee you\'ll get there, man.',
-        'Juicy J',
+        'As soon as I realized you could be funny as a job, that was the job I wanted.',
+        'Seth Rogen',
     ],
     [
-        'I love to travel, but hate to arrive.',
-        'Hernan Cortes',
+        'I\'m always excited when I make it on anyone\'s list - even if it\'s for affirmative action. My attitude is, \'Am I the token woman on this list? Because I\'ll take it.\'',
+        'Julie Klausner',
     ],
     [
-        'Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.',
+        'Travel makes a wise man better, and a fool worse.',
+        'Thomas Fuller',
+    ],
+    [
+        'The best music is essentially there to provide you something to face the world with.',
+        'Bruce Springsteen',
+    ],
+    [
+        'We work to create a new wave of feminism that is more inclusive. I want others to feel equal. It\'s so great to see women in positions of power, which is why other artists, such as Marilyn Minter, are so inspirational to me.',
+        'Petra Collins',
+    ],
+    [
+        'The story of life is quicker than the blink of an eye, the story of love is hello, goodbye.',
+        'Thomas Jefferson',
+    ],
+    [
+        'Jazz in itself is not struggling. That is, the music itself is not struggling... It\'s the attitude that\'s in trouble. My plays insist that we should not forget or toss away our history.',
+        'August Wilson',
+    ],
+    [
+        'People change with time. There are things that happened to a person in his childhood and years later they seem to him alien and strange. I am trying to decipher that child. Sometimes he is a stranger to me. When you think about when you were 14, don\'t you feel a certain alienation?',
+        'Gunter Grass',
+    ],
+    [
+        'The bird is powered by its own life and by its motivation.',
         'A. P. J. Abdul Kalam',
     ],
     [
-        'How do you nurture a positive attitude when all the statistics say you\'re a dead man? You go to work.',
-        'Patrick Swayze',
+        'Hip-hop kind of absorbed rock in terms of the attitude and the whole point of why rock was important music. Young people felt like rock music was theirs, from Elvis to the Beatles to the Ramones to Nirvana. This was theirs; it wasn\'t their parents\'. I think hip-hop became the musical style that embraces that mentality.',
+        'Chris Cornell',
     ],
     [
-        'It\'s always funny until someone gets hurt. Then it\'s just hilarious.',
-        'Bill Hicks',
+        'Those who have succeeded at anything and don\'t mention luck are kidding themselves.',
+        'Larry King',
     ],
     [
-        'I\'d like to one day be featured on a list of inspirational people who have made a difference in the world, whether it be helping underprivileged people or putting an end to the poaching of wildlife in Africa.',
-        'Candice Swanepoel',
+        'Kids who are poor often have families that have not really been kept informed about... how important it is to read to your child, to reduce stresses in their life, to use positive incentives and words.',
+        'Geoffrey Canada',
     ],
     [
-        'True refuge is that which allows us to be at home, at peace, to discover true happiness. The only thing that can give us true refuge is the awareness and love that is intrinsic to who we are. Ultimately, it\'s our own true nature.',
-        'Tara Brach',
+        'I think that giving mindless praise is ridiculous. But I understand why parents do it. They want their kids to feel good about themselves. But parents are never going to teach their children true, positive self esteem by praising everything they do.',
+        'Rosalind Wiseman',
     ],
     [
-        'I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn\'t enough. I was exploding inside.',
-        'Ingrid Bergman',
-    ],
-    [
-        'You just got with the flow because life is just all about how you feel.',
-        'Carl Rogers',
-    ],
-    [
-        'France has been very good for me. It has given me a very worldly-cool attitude.',
-        'Marianne Faithfull',
-    ],
-    [
-        'My daughter is my biggest achievement. She is a little star and my life has changed so much for the better since she came along.',
-        'Orison Swett Marden',
-    ],
-    [
-        'I hated the ballet, but I liked performing. I did 20 shows, and I couldn\'t get the smile off my face.',
-        'Ansel Elgort',
-    ],
-    [
-        'When I eventually met Mr. Right I had no idea that his first name was Always.',
-        'Rita Rudner',
-    ],
-    [
-        'The power of imagination makes us infinite.',
-        'John Muir',
+        'Beauty always promises, but never gives anything.',
+        'Simone Weil',
     ],
 ];
