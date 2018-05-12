@@ -4,6 +4,7 @@ namespace Application\Component\Console;
 
 use Application\Component\Console\Command\CommandFactory;
 use Application\Component\Console\Command\FortuneCommand;
+use Application\Component\Console\Command\FortuneImportCommand;
 use Symfony\Component\Console\Application as ParentApplication;
 
 class Application extends ParentApplication
@@ -14,6 +15,7 @@ class Application extends ParentApplication
 
         $commands = [
             FortuneCommand::class,
+            FortuneImportCommand::class,
         ];
 
         $container = null;
