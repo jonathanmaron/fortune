@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+DIR="$(dirname "$(readlink -f "$0")")"
+
+/usr/bin/env php ${DIR}/console.php fortune $1 $2 $3 $4

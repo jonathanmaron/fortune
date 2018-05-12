@@ -1,0 +1,22 @@
+{
+    "name": "jonathanmaron/fortune",
+    "description": "Unix-style fortune program that displays a random quotation.",
+    "license": "BSD-3-Clause",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/Application"
+        }
+    },
+    "require": {
+        "php": "^7.1",
+        "container-interop/container-interop": "^1.2",
+        "symfony/console": "^4.0",
+        "symfony/filesystem": "^4.0",
+        "symfony/finder": "^4.0",
+        "symfony/lock": "^4.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.0"
+    }
+}
