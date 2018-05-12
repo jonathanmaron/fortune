@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'We must have a pure, honest, and warm-hearted motivation, and on top of that, determination, optimism, hope, and the ability not to be discouraged. The whole of humanity depends on this motivation.',
-    1 => 'The 14th Dalai Lama',
-  ),
-  1 => 
-  array (
-    0 => 'The bravest thing you can do when you are not brave is to profess courage and act accordingly.',
-    1 => 'Corra Harris',
-  ),
-  2 => 
-  array (
-    0 => 'There will always be survivors.',
-    1 => 'Robert Heinlen',
-  ),
-  3 => 
-  array (
-    0 => 'When we got home from that race that night, Rick wrote on the computer, \'Dad, when I run it feels like my disability disappears.\' So, that was a very powerful message to me.',
-    1 => 'Dick Hoyt',
-  ),
-  4 => 
-  array (
-    0 => 'Any code of your own that you haven\'t looked at for six or more months might as well have been written by someone else.',
-    1 => 'Eagleson\'s Law',
-  ),
-  5 => 
-  array (
-    0 => 'It\'s kind of fun to do the impossible.',
-    1 => 'Walt Disney',
-  ),
-  6 => 
-  array (
-    0 => 'You have to do your own growing no matter how tall your grandfather was.',
-    1 => 'Margaret Fuller',
-  ),
-  7 => 
-  array (
-    0 => 'Hope, like faith, is nothing if it is not courageous; it is nothing if it is not ridiculous.',
-    1 => 'Thornton Wilder',
-  ),
-  8 => 
-  array (
-    0 => 'The success of a production depends on the attention paid to detail.',
-    1 => 'David O. Selznick',
-  ),
-  9 => 
-  array (
-    0 => 'Although golf was originally restricted to wealthy, overweight Protestants, today it\'s open to anybody who owns hideous clothing.',
-    1 => 'Dave Barry',
-  ),
-  10 => 
-  array (
-    0 => 'A conservative is a man with two perfectly good legs who has never learned to walk.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  11 => 
-  array (
-    0 => 'Very little is needed to make a happy life; it is all within yourself, in your way of thinking.',
-    1 => 'Marcus Aurelius',
-  ),
-  12 => 
-  array (
-    0 => 'No student ever attains very eminent success by simply doing what is required of him: it is the amount and excellence of what is over and above the required, that determines the greatness of ultimate distinction.',
-    1 => 'Charles Kendall Adams',
-  ),
-  13 => 
-  array (
-    0 => 'Try not to become a man of success, but rather try to become a man of value.',
-    1 => 'Albert Einstein',
-  ),
-  14 => 
-  array (
-    0 => 'The turning point in the process of growing up is when you discover the core of strength within you that survives all hurt.',
-    1 => 'Max Lerner',
-  ),
-  15 => 
-  array (
-    0 => 'The human animal differs from the lesser primates in his passion for lists of "Ten Best".',
-    1 => 'H. Allen Smith',
-  ),
-  16 => 
-  array (
-    0 => 'A mystic bond of brotherhood makes all men one.',
-    1 => 'Thomas Carlyle',
-  ),
-  17 => 
-  array (
-    0 => 'Good people are good because they\'ve come to wisdom through failure.',
-    1 => 'William Saroyan',
-  ),
-  18 => 
-  array (
-    0 => 'Dum excusare credis, accusas. (When you believe you are excusing yourself, you are accusing yourself.)',
-    1 => 'St. Jerome',
-  ),
-  19 => 
-  array (
-    0 => 'If you feel you are down on your luck, check the level of your effort.',
-    1 => 'Robert Brault',
-  ),
-  20 => 
-  array (
-    0 => 'We cannot choose our fate, but we can choose others. Be careful in knowing that.',
-    1 => 'The Order of the Phoenix',
-  ),
-  21 => 
-  array (
-    0 => 'We need to accept that we won\'t always make the right decisions, that we\'ll screw up royally sometimes - understanding that failure is not the opposite of success, it\'s part of success.',
-    1 => 'Arianna Huffington',
-  ),
-  22 => 
-  array (
-    0 => 'Life is either a daring adventure or nothing.',
-    1 => 'Helen Keller',
-  ),
-  23 => 
-  array (
-    0 => 'It\'s not about how much you do, but how much love you put into what you do that counts.',
-    1 => 'Mother Teresa',
-  ),
-  24 => 
-  array (
-    0 => 'We don\'t want to discourage the innovators and those who take risks because they\'re afraid of getting sued by a lawsuit.',
-    1 => 'George W. Bush; Washington, D.C.; June 24, 2004',
-  ),
-);
+return [
+    [
+        'I tend to regard the Coase theorem as a stepping stone on the way to an analysis of an economy with positive transaction costs.',
+        'Ronald Coase',
+    ],
+    [
+        'Every man has his follies - and often they are the most interesting thing he has got.',
+        'Josh Billings',
+    ],
+    [
+        'I\'ve been fired five times for having a bad attitude.',
+        'Meg Rosoff',
+    ],
+    [
+        'The funny thing about war is that people feel you need to be morally outraged. I feel morally outraged about it, and I\'ve been doing it for long enough to feel morally outraged, because I have been in massacre scenes in West Africa, and I\'ve been doing this for a long time now.',
+        'Tim Hetherington',
+    ],
+    [
+        'Time goes on. So whatever you\'re going to do, do it. Do it now. Don\'t wait.',
+        'Robert De Niro',
+    ],
+    [
+        'Smoking kills. If you\'re killed, you\'ve lost a very important part of your life.',
+        'Robert Wagner',
+    ],
+    [
+        'I was raised by a single mother who made a way for me. She used to scrub floors as a domestic worker, put a cleaning rag in her pocketbook and ride the subways in Brooklyn so I would have food on the table. But she taught me as I walked her to the subway that life is about not where you start, but where you\'re going. That\'s family values.',
+        'Al Sharpton',
+    ],
+    [
+        'Happiness is dependent on self-discipline. We are the biggest obstacles to our own happiness. It is much easier to do battle with society and with others than to fight our own nature.',
+        'Dennis Prager',
+    ],
+    [
+        'Indeed it is possible to stand with one foot on the inevitable \'banana peel\' of life with both eyes peering into the Great Beyond, and still be happy, comfortable, and serene - if we will even so much as smile.',
+        'Douglas Fairbanks',
+    ],
+    [
+        'When you come out of the storms and sub-zero temperatures into a tiny yurt, there\'s a sense that family love and care is the most important thing in the world.',
+        'Tim Cope',
+    ],
+    [
+        'Today\'s youth are told to get rich or die trying and they really shouldn\'t take that attitude forward with them.',
+        'Kareem Abdul-Jabbar',
+    ],
+    [
+        'A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.',
+        'Denis Waitley',
+    ],
+    [
+        'I definitely have a strong sense of my Jewish and Israeli identity. I did my two-year military service; I was brought up in a very Jewish, Israeli family environment, so of course my heritage is very important to me.',
+        'Gal Gadot',
+    ],
+    [
+        'Our strength grows out of our weaknesses.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'Our kindness may be the most persuasive argument for that which we believe.',
+        'Gordon Hinckley',
+    ],
+    [
+        'My label, my team and I are always looking to get involved with positive things.',
+        'Sevyn Streeter',
+    ],
+    [
+        'My father considered a walk among the mountains as the equivalent of churchgoing.',
+        'Aldous Huxley',
+    ],
+    [
+        'Travel can also be the spirit of adventure somewhat tamed, for those who desire to do something they are a bit afraid of.',
+        'Ella Maillart',
+    ],
+    [
+        'On the red carpet, one tip is to suck in your cheekbones - apparently it looks better on camera. I don\'t know, though; I think a nice smile is best.',
+        'David Harewood',
+    ],
+    [
+        'I grew up in a funny way.',
+        'Gordon Ramsay',
+    ],
+    [
+        'A person who has been punished is not less inclined to behave in a given way; at best, he learns how to avoid punishment.',
+        'B. F. Skinner',
+    ],
+    [
+        'It\'s very difficult to think that you\'re with someone that you know, and all of a sudden you don\'t know them: it turns out that they betray you. It\'s painful, but it\'s best to turn the page.',
+        'Shakira',
+    ],
+    [
+        'If you try to do your best there is no failure.',
+        'Mike Farrell',
+    ],
+    [
+        'I was a farm kid from the plains of South Venezuela, from a very poor family. I grew up in a palm tree house with an earthen floor.',
+        'Hugo Chavez',
+    ],
+    [
+        'All generalizations are false, including this one.',
+        'Mark Twain',
+    ],
+];

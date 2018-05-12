@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'One day you will wake up and there won\'t be any more time to do the things you\'ve always wanted. Do it now',
-    1 => 'Paulo Coelho',
-  ),
-  1 => 
-  array (
-    0 => 'A fool\'s brain digests philosophy into folly, science into superstition, and art into pedantry. Hence University education.',
-    1 => 'G. B. Shaw',
-  ),
-  2 => 
-  array (
-    0 => 'We have enough people who tell it like it is- now we could use a few who tell it like it can be.',
-    1 => 'Heidi Wills',
-  ),
-  3 => 
-  array (
-    0 => 'When we are planning for posterity, we ought to remember that virtue is not hereditary.',
-    1 => 'Thomas Paine',
-  ),
-  4 => 
-  array (
-    0 => 'Ten people who speak make more noise than ten thousand who are silent.',
-    1 => 'Napoleon Bonaparte',
-  ),
-  5 => 
-  array (
-    0 => 'Success in any endeavor depends on the degree to which it is an expression of your true self.',
-    1 => 'Ralph Marston',
-  ),
-  6 => 
-  array (
-    0 => 'There is no investment you can make which will pay you so well as the effort to scatter sunshine and good cheer through your establishment.',
-    1 => 'Orison Swett Marden',
-  ),
-  7 => 
-  array (
-    0 => 'Put your heart, mind, and soul into even your smallest acts. This is the secret of success.',
-    1 => 'Swami Sivananda',
-  ),
-  8 => 
-  array (
-    0 => 'If you do what you always did, you will get what you always got.',
-    1 => 'Unknown',
-  ),
-  9 => 
-  array (
-    0 => 'I have missed more than 9,000 shots in my career. I have lost almost 300 games. On 26 occasions I have been entrusted to take the game winning shot...and I missed. I have failed over and over and over again in my life. And thats precisely why I succeed.',
-    1 => 'Michael Jordan',
-  ),
-  10 => 
-  array (
-    0 => 'Achievement of your happiness is the only moral purpose of your life, and that happiness, not pain or mindless self-indulgence, is the proof of your moral integrity, since it is the proof and the result of your loyalty to the achievement of your values.',
-    1 => 'Ayn Rand',
-  ),
-  11 => 
-  array (
-    0 => 'An NT server can be run by an idiot, and usually is.',
-    1 => 'Tom Holub <doosh [AT] best.com>
-
-(Posted to comp.infosystems.www.servers.unix on 03 Sep 1997)',
-  ),
-  12 => 
-  array (
-    0 => 'Two roads diverged in a wood and I - I took the one less traveled by, and that has made all the difference.',
-    1 => 'Robert Frost',
-  ),
-  13 => 
-  array (
-    0 => 'There\'s no point in burying a hatchet if you\'re going to put up a marker on the site.',
-    1 => 'Sydney Harris',
-  ),
-  14 => 
-  array (
-    0 => 'I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what\'s next.',
-    1 => 'Steve Jobs',
-  ),
-  15 => 
-  array (
-    0 => 'Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t.',
-    1 => 'Rikki Rogers',
-  ),
-  16 => 
-  array (
-    0 => 'What\'s the point of being alive if you don\'t at least try to do something remarkable.',
-    1 => 'Unknown',
-  ),
-  17 => 
-  array (
-    0 => 'Lies written in ink can never disguise facts written in blood. Blood debts must be repaid in kind. The longer the delay, the greater the interest.',
-    1 => 'Chinese author Lu Xun, 1926',
-  ),
-  18 => 
-  array (
-    0 => 'I disapprove of what you say, but I will defend to the death your right to say it.',
-    1 => 'Voltaire',
-  ),
-  19 => 
-  array (
-    0 => 'Man never made any material as resilient as the human spirit.',
-    1 => 'Bernard Williams',
-  ),
-  20 => 
-  array (
-    0 => 'I love a lot of the New York bands, but Patti Smith stands out. I just read \'Just Kids\' and it\'s an inspirational, well-written account of an emerging New York artist in the late seventies.',
-    1 => 'James Iha',
-  ),
-  21 => 
-  array (
-    0 => 'Success consecrates the most offensive crimes.',
-    1 => 'Lucius Annaeus Seneca',
-  ),
-  22 => 
-  array (
-    0 => 'The two most powerful warriors are patience and time.',
-    1 => 'Leo Tolstoy',
-  ),
-  23 => 
-  array (
-    0 => 'Life is about making an impact, not making an income.',
-    1 => 'Kevin Kruse',
-  ),
-  24 => 
-  array (
-    0 => 'Success seems to be largely a matter of hanging on after others have let go.',
-    1 => 'William Feather',
-  ),
-);
+return [
+    [
+        'I believe the world is one big family, and we need to help each other.',
+        'Jet Li',
+    ],
+    [
+        'The historic ascent of humanity, taken as a whole, may be summarized as a succession of victories of consciousness over blind forces - in nature, in society, in man himself.',
+        'Leon Trotsky',
+    ],
+    [
+        'When you come from a big family, you see that, growing up, you\'re learning how to share. Your sisters have got your back; you\'re not alone in this - \'We all support you!\' Your family provides that; it gives you a sense of safety, and it\'s a very grounding feeling.',
+        'Gisele Bundchen',
+    ],
+    [
+        'A short saying often contains much wisdom.',
+        'Sophocles',
+    ],
+    [
+        'I am the best in baseball.',
+        'Reggie Jackson',
+    ],
+    [
+        'We crave instant success these days. If you are a really good sprinter and long jumper, you don\'t want to spend two or three years on a whole new set of events. You\'re used to doing well and it\'s difficult to give that up.',
+        'Daley Thompson',
+    ],
+    [
+        'People feel vulnerable when they travel. Nobody wants to be taken advantage of or talked into something they don\'t want. Staying at Motel 6 makes you feel smarter. In fact, I think it actually means you are smarter, but I have no hard data to support that.',
+        'Tom Bodett',
+    ],
+    [
+        'In the end, the whole Internet thing kills me, because you can use it as a positive thing or you can read into all the negativity. And I think you\'ve gotta put out positive energy, put out cool viral stuff, and then just stay out of people\'s opinions.',
+        'Nikki Sixx',
+    ],
+    [
+        'Life is not a problem to be solved, but a reality to be experienced.',
+        'Golda Meir',
+    ],
+    [
+        'Kind words do not cost much. Yet they accomplish much.',
+        'Blaise Pascal',
+    ],
+    [
+        'We would go back and maybe not say that thing to our dad that we said, or maybe be a little nicer to someone who we cared about and had a relationship with when we were young. You know, they\'re subtle things, but we carry those with us forever. And I think that regret and time travel are intrinsically linked to me.',
+        'Colin Trevorrow',
+    ],
+    [
+        'We know what we are, but know not what we may be.',
+        'William Shakespeare',
+    ],
+    [
+        'Developing a good work ethic is key. Apply yourself at whatever you do, whether you\'re a janitor or taking your first summer job, because that work ethic will be reflected in everything you do in life.',
+        'Tyler Perry',
+    ],
+    [
+        'The beauty of dystopia is that it lets us vicariously experience future worlds - but we still have the power to change our own.',
+        'Ally Condie',
+    ],
+    [
+        'The Games are just a nice, positive way to build friendships, camaraderie and, of course, self-esteem. Plus, the Games are a great opportunity for people to participate in sports who normally wouldn\'t.',
+        'Greg Louganis',
+    ],
+    [
+        'I felt most proud on the success of the Apollo mission.',
+        'Katherine Johnson',
+    ],
+    [
+        'I am fully aware that everybody has a right to succeed, and success should be with ethics.',
+        'Sharad Pawar',
+    ],
+    [
+        'Nothing can express the aim and meaning of our work better than the profound words of St. Augustine - \'Beauty is the splendor of Truth.\'',
+        'Ludwig Mies van der Rohe',
+    ],
+    [
+        'When you\'re in the editing room, the dangerous thing is that it becomes like telling a joke again and again and again. Eventually, the joke starts to not be funny. So you have to be careful that you\'re not throwing the baby out with the bath water.',
+        'Ridley Scott',
+    ],
+    [
+        'The superior man is modest in his speech, but exceeds in his actions.',
+        'Confucius',
+    ],
+    [
+        'Jazz, to me, is one of the inherent expressions of Negro life in America: the eternal tom-tom beating in the Negro soul - the tom-tom of revolt against weariness in a white world, a world of subway trains, and work, work, work; the tom-tom of joy and laughter, and pain swallowed in a smile.',
+        'Langston Hughes',
+    ],
+    [
+        'What unites Oklahomans today is what has always united us: Our unshakable faith. Our love of family and compassion for others. The unlimited promise of a hopeful future.',
+        'Brad Henry',
+    ],
+    [
+        'In just the same way the thousands of successive positions of a runner are contracted into one sole symbolic attitude, which our eye perceives, which art reproduces, and which becomes for everyone the image of a man who runs.',
+        'Henri Bergson',
+    ],
+    [
+        'I have a smile 24/7.',
+        'Candis Cayne',
+    ],
+    [
+        'On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.',
+        'Edward Young',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The difference between the impossible and the possible lies in a person\'s determination.',
-    1 => 'Thomas Tommy Lasorda',
-  ),
-  1 => 
-  array (
-    0 => 'They can because they think they can.',
-    1 => 'Virgil',
-  ),
-  2 => 
-  array (
-    0 => 'Success in management requires learning as fast as the world is changing.',
-    1 => 'Warren Bennis',
-  ),
-  3 => 
-  array (
-    0 => 'I have looked into your eyes with my eyes. I have put my heart near your heart.',
-    1 => 'Pope John XXIII',
-  ),
-  4 => 
-  array (
-    0 => 'A house is not a home unless it contains food and fire for the mind as well as the body.',
-    1 => 'Benjamin Franklin',
-  ),
-  5 => 
-  array (
-    0 => 'Let me tell you the secret that has led me to my goals: my strength lies solely in my tenacity.',
-    1 => 'Louis Pasteur',
-  ),
-  6 => 
-  array (
-    0 => 'Every piece of the universe, even the tiniest little snow crystal, matters somehow. I have a place in the pattern, and so do you.',
-    1 => 'T.A. Barron',
-  ),
-  7 => 
-  array (
-    0 => 'I have seen what a laugh can do. It can transform almost unbearable tears into something bearable, even hopeful.',
-    1 => 'Bob Hope',
-  ),
-  8 => 
-  array (
-    0 => 'How lucky I am to have something that makes saying goodbye so hard.',
-    1 => 'Winnie the Pooh',
-  ),
-  9 => 
-  array (
-    0 => 'The complexity of software is an essential property, not an accidental one. Hence, descriptions of a software entity that abstract away its complexity often abstract away its essence.',
-    1 => 'Fred Brooks, Jr.',
-  ),
-  10 => 
-  array (
-    0 => 'Never did a government commence under auspices so favorable, nor ever was success so complete.',
-    1 => 'James Monroe',
-  ),
-  11 => 
-  array (
-    0 => 'According to my best recollection, I don\'t remember.',
-    1 => 'Vincent "Jimmy Blue Eyes" Alo',
-  ),
-  12 => 
-  array (
-    0 => 'And now that the legislators and the do-gooders have so futilely inflicted so many systems upon society, may they end up where they should have begun: may they reject all systems, and try liberty...',
-    1 => 'Frederic Bastiat',
-  ),
-  13 => 
-  array (
-    0 => 'What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.',
-    1 => 'Margaret Thatcher',
-  ),
-  14 => 
-  array (
-    0 => 'Successful entrepreneurs are givers and not takers of positive energy.',
-    1 => 'Unknown',
-  ),
-  15 => 
-  array (
-    0 => 'Have the courage of your desire.',
-    1 => 'Rudyard Kipling',
-  ),
-  16 => 
-  array (
-    0 => 'I\'ve been known to write 10 pages a day for 10 days running before I take a breath. I am not a disciplined writer. I\'m one of those people who laughingly call themselves inspirational writers, which basically means someone who has no control over their own creative process.',
-    1 => 'Catherine Ryan Hyde',
-  ),
-  17 => 
-  array (
-    0 => 'Opportunities don\'t happen, you create them.',
-    1 => 'Chris Grosser',
-  ),
-  18 => 
-  array (
-    0 => 'The true delight is in the finding out rather than in the knowing.',
-    1 => 'Isaac Asimov',
-  ),
-  19 => 
-  array (
-    0 => 'You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.',
-    1 => 'Naguib Mahfouz',
-  ),
-  20 => 
-  array (
-    0 => 'I take nothing for granted. I now have only good days or great days.',
-    1 => 'Lance Armstrong',
-  ),
-  21 => 
-  array (
-    0 => 'A good listener is not only popular everywhere, but after a while he knows something.',
-    1 => 'Wilson Mizner',
-  ),
-  22 => 
-  array (
-    0 => 'Wit is the sudden marriage of ideas which before their union were not perceived to have any relation.',
-    1 => 'Mark Twain',
-  ),
-  23 => 
-  array (
-    0 => 'Ideation without execution is delusion.',
-    1 => 'Robin Sharma',
-  ),
-  24 => 
-  array (
-    0 => 'Success has a simple formula: do your best, and people may like it.',
-    1 => 'Sam Ewing',
-  ),
-);
+return [
+    [
+        'When life takes me on a new journey, I simply remember the smile my first ballet recital put on my face and I move forward.',
+        'Andrea Thompson',
+    ],
+    [
+        'Without imagination we can go nowhere. And imagination is not restricted to the arts. Every scientist I have met who has been a success has had to imagine.',
+        'Rita Dove',
+    ],
+    [
+        'It\'s not the style that motivates me, as much as an attitude of openness that I have when I go into a project.',
+        'Herbie Hancock',
+    ],
+    [
+        'You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.',
+        'Brian Tracy',
+    ],
+    [
+        'Hopefully I\'m a role model for positive change for everyone - not just women. It\'s very important to find balance between men and women.',
+        'Shari Arison',
+    ],
+    [
+        'It\'s funny: I always, as a high school teacher and particularly as a high school yearbook teacher, because yearbook staffs are 90 percent female, I got to sit in and overhear teenage girl talk for many years. I like teenage girls; I like their drama, their foibles. And I think, \'I\'ll be good with a teenage daughter!\'',
+        'Rob Thomas',
+    ],
+    [
+        'I guess, growing up at Australia Zoo and getting to travel all over the world, I have this great outlook on life, and that\'s what I hope I inspire other kids to have.',
+        'Bindi Irwin',
+    ],
+    [
+        'Reality leaves a lot to the imagination.',
+        'John Lennon',
+    ],
+    [
+        'There are no secrets to success. It is the result of preparation, hard work, and learning from failure.',
+        'Colin Powell',
+    ],
+    [
+        'Success is a process, a quality of mind and way of being, an outgoing affirmation of life.',
+        'Alex Noble',
+    ],
+    [
+        'The mountains are calling and I must go.',
+        'John Muir',
+    ],
+    [
+        'Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.',
+        'Plato',
+    ],
+    [
+        'Life is short, so I\'m knowing exactly where I\'m putting my time. I don\'t want to do things that I don\'t have to do.',
+        'Mira Nair',
+    ],
+    [
+        'Time is generally the best doctor.',
+        'Ovid',
+    ],
+    [
+        'I played the violin my whole life. I wanted to play from the time I was just a little kid, and I\'ve always loved dance as well. I wanted to make people smile. I wanted to add an extra energy to my playing and make it visual and make it unique and fun.',
+        'Lindsey Stirling',
+    ],
+    [
+        'Without football, my life is worth nothing.',
+        'Lord Byron',
+    ],
+    [
+        'I like to go out if there\'s a party or go to the movies, but I just like hanging out with my buddies and having a good time.',
+        'Jean-Luc Bilodeau',
+    ],
+    [
+        'I think the importance of doing activist work is precisely because it allows you to give back and to consider yourself not as a single individual who may have achieved whatever but to be a part of an ongoing historical movement.',
+        'Angela Davis',
+    ],
+    [
+        'We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.',
+        'George W. Bush',
+    ],
+    [
+        'I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.',
+        'Elisabeth Kubler-Ross',
+    ],
+    [
+        'Soon after, I returned home to my family, with a determination to bring them as soon as possible to live in Kentucky, which I esteemed a second paradise, at the risk of my life and fortune.',
+        'Daniel Boone',
+    ],
+    [
+        'I was the kid next door\'s imaginary friend.',
+        'Emo Philips',
+    ],
+    [
+        'You can observe a lot just by watching.',
+        'Yogi Berra',
+    ],
+    [
+        'Sometimes the best way to learn something is by doing it wrong and looking at what you did.',
+        'Neil Gaiman',
+    ],
+    [
+        'It is surprising what a man can do when he has to, and how little most men will do when they don\'t have to.',
+        'Walter Linn',
+    ],
+];

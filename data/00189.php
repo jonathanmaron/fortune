@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'What were once only hopes for the future have now come to pass; it is almost exactly 13 years since the overwhelming majority of people in Ireland and Northern Ireland voted in favour of the agreement signed on Good Friday 1998, paving the way for Northern Ireland to become the exciting and inspirational place that it is today.',
-    1 => 'Queen Elizabeth II',
-  ),
-  1 => 
-  array (
-    0 => 'When it comes to success, there are no shortcuts.',
-    1 => 'Bo Bennett',
-  ),
-  2 => 
-  array (
-    0 => 'I\'ve a great family, two children to take care of. Then, of course, I do commentary for TV. I do speak about various women\'s issues around the world - like LGBT, motivational speeches. I have a lot on my plate right now. But eventually, yes, I would like to pass on the knowledge and something that I would like to do.',
-    1 => 'Martina Navratilova',
-  ),
-  3 => 
-  array (
-    0 => 'Success is how high you bounce when you hit bottom.',
-    1 => 'George S. Patton',
-  ),
-  4 => 
-  array (
-    0 => 'If you see someone without a smile, give them yours.',
-    1 => 'Anonymous',
-  ),
-  5 => 
-  array (
-    0 => 'The only place success comes before work is in the dictionary.',
-    1 => 'Vince Lombardi',
-  ),
-  6 => 
-  array (
-    0 => 'Life is a pinball machine. You bounce around for a while, and then you drain.',
-    1 => 'Joe Bak',
-  ),
-  7 => 
-  array (
-    0 => 'Whatever necessity lays upon thee, endure; whatever she commands, do.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  8 => 
-  array (
-    0 => 'The life which is unexamined is not worth living.',
-    1 => 'Plato',
-  ),
-  9 => 
-  array (
-    0 => 'The best cure for anger is delay.',
-    1 => 'Seneca',
-  ),
-  10 => 
-  array (
-    0 => 'Purpose and laughter are the twins that must not separate. Each is empty without the other.',
-    1 => 'Robert Greenleaf',
-  ),
-  11 => 
-  array (
-    0 => 'Education is what remains after one has forgotten what one has learned in school.',
-    1 => 'Albert Einstein',
-  ),
-  12 => 
-  array (
-    0 => 'Your time is limited, so don\'t waste it living someone else\'s life..',
-    1 => 'Mae West',
-  ),
-  13 => 
-  array (
-    0 => 'Success depends upon previous preparation, and without such preparation there is sure to be failure.',
-    1 => 'Confucius',
-  ),
-  14 => 
-  array (
-    0 => 'It is by the fortune of God that, in this country, we have three benefits: freedom of speech, freedom of thought, and the wisdom never to use either.',
-    1 => 'Mark Twain',
-  ),
-  15 => 
-  array (
-    0 => 'All progress takes place outside the comfort zone.',
-    1 => 'Michael John Bobak',
-  ),
-  16 => 
-  array (
-    0 => 'Treat failure as a lesson on how not to approach achieving a goal, and then use that learning to improve your chances of success when you try again. Failure is only the end if you decide to stop.',
-    1 => 'Richard Branson',
-  ),
-  17 => 
-  array (
-    0 => 'Always do what you are afraid to do.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  18 => 
-  array (
-    0 => 'Dig within. Within is the wellspring of Good; and it is always ready to bubble up, if you just dig.',
-    1 => 'Marcus Aurelius',
-  ),
-  19 => 
-  array (
-    0 => 'I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me.',
-    1 => 'Rosie O\'Donnell',
-  ),
-  20 => 
-  array (
-    0 => 'Many persons have a wrong idea of what constitutes true happiness. It is not attained through self-gratification but through fidelity to a worthy purpose.',
-    1 => 'Helen Keller',
-  ),
-  21 => 
-  array (
-    0 => 'You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.',
-    1 => 'Zig Ziglar',
-  ),
-  22 => 
-  array (
-    0 => 'Happiness includes chiefly the idea of satisfaction after full honest effort. No one can possibly be satisfied and no one can be happy who feels that in some paramount affairs he failed to take up the challenge of life.',
-    1 => 'Arnold Bennett',
-  ),
-  23 => 
-  array (
-    0 => 'The Lord gave us farmers two strong hands so we could grab as much as we could with both of them.',
-    1 => 'Joseph Heller, "Catch-22"',
-  ),
-  24 => 
-  array (
-    0 => 'You grow up a bit damaged or broken then you have some success but you don\'t know how to feel good about the work you\'re doing or the life you\'re leading.',
-    1 => 'Johnny Depp',
-  ),
-);
+return [
+    [
+        'And the heart that is soonest awake to the flowers is always the first to be touch\'d by the thorns.',
+        'Thomas Moore',
+    ],
+    [
+        'When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another.',
+        'Helen Keller',
+    ],
+    [
+        'The grass is always greener on the other side. We are busy applying fairness creams while people in the West go bare-bodied on the beach to get a tan. Indian girls have ruled the roost when it comes to beauty pageants. I flaunt my complexion, and I am proud to be noticed as an Indian wherever I go.',
+        'Shilpa Shetty',
+    ],
+    [
+        'I feel prematurely old. I\'m actually having this major belated quarter-life crisis. I\'m turning 30 in a couple of weeks. I\'ve been thinking a lot about mortality. A lot about what I\'m going to do with my life and how to enjoy it. One of the things I\'m going to work on is being more spontaneous, letting go, embracing the beauty of come-what-may.',
+        'Chris Pine',
+    ],
+    [
+        'Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them.',
+        'Jack Canfield',
+    ],
+    [
+        'I think every single imperfection adds to your beauty. I\'d rather be imperfect than perfect.',
+        'Sonam Kapoor',
+    ],
+    [
+        'Success and failure are both part of life. Both are not permanent.',
+        'Shah Rukh Khan',
+    ],
+    [
+        'Deacon Jones has been the most inspirational person in my football career.',
+        'Jack Youngblood',
+    ],
+    [
+        'Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.',
+        'Anais Nin',
+    ],
+    [
+        'That which you create in beauty and goodness and truth lives on for all time to come. Don\'t spend your life accumulating material objects that will only turn to dust and ashes.',
+        'Denis Waitley',
+    ],
+    [
+        'Most success springs from an obstacle or failure. I became a cartoonist largely because I failed in my goal of becoming a successful executive.',
+        'Scott Adams',
+    ],
+    [
+        'Video is a funny thing. It\'s one thing to be an artist, singer-songwriter, and use words and create pictures in people\'s minds. And then be asked to do video for it, to actually give a certain visual for your song.',
+        'Melissa Etheridge',
+    ],
+    [
+        'One thing I would say is that I think in any environment that you work in, there\'s always going to be one or two people who you don\'t like. But there just wasn\'t that on \'Games Of Thrones\'. I know it sounds cheesy and cliched, but it was like a big family.',
+        'Alfie Allen',
+    ],
+    [
+        'The moment you cheat for the sake of beauty, you know you\'re an artist.',
+        'David Hockney',
+    ],
+    [
+        'Doing what you love is the cornerstone of having abundance in your life.',
+        'Jean Paul',
+    ],
+    [
+        'The three great elemental sounds in nature are the sound of rain, the sound of wind in a primeval wood, and the sound of outer ocean on a beach.',
+        'Henry Beston',
+    ],
+    [
+        'Understanding the laws of nature does not mean that we are immune to their operations.',
+        'David Gerrold',
+    ],
+    [
+        'I think that beauty can injure you to death. It can cause an injury that can never be cured. Or it can so traumatise you, your life changes direction. The beauty of the harmony of nature that is forever lost, or a daily rite that you perform, or diving into the sea for a swim. Those experiences are going to mark you.',
+        'Toni Servillo',
+    ],
+    [
+        'Worry often gives a small thing a big shadow.',
+        'Swedish proverb',
+    ],
+    [
+        'Those who have succeeded at anything and don\'t mention luck are kidding themselves.',
+        'Larry King',
+    ],
+    [
+        'Airplanes may kill you, but they ain\'t likely to hurt you.',
+        'Satchel Paige',
+    ],
+    [
+        'You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen.',
+        'Meister Eckhart',
+    ],
+    [
+        'In the West, you have always associated the Islamic faith 100 percent with Arab culture. This in itself is a fundamentalist attitude and it is mistaken.',
+        'Youssou N\'Dour',
+    ],
+    [
+        'I had a really wonderful upbringing. We were a tight family. It was wonderful to grow up with so many siblings. We were all just a year or two apart, and we were always so supportive of each other. I learned everything from my older brother and sister and taught it to my younger sisters.',
+        'Joaquin Phoenix',
+    ],
+    [
+        'The superior man is satisfied and composed; the mean man is always full of distress.',
+        'Confucius',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The chief cause of problems is solutions.',
-    1 => 'Eric Sevareid, CBS Evening News, December 29, 1970',
-  ),
-  1 => 
-  array (
-    0 => 'A trying journey can only result in a phenomenal blessing.',
-    1 => 'Dawn M. Harvey',
-  ),
-  2 => 
-  array (
-    0 => 'The mind is everything. What you think you become.',
-    1 => 'Buddha',
-  ),
-  3 => 
-  array (
-    0 => 'Trust and honesty is an investment you put in people.',
-    1 => 'Rachel Joy Scott',
-  ),
-  4 => 
-  array (
-    0 => 'Athens built the Acropolis. Corinth was a commercial city, interested in purely materialistic things. Today we admire Athens, visit it, preserve the old temples, yet we hardly ever set foot in Corinth.',
-    1 => 'Dr. Harold Urey, Nobel Laureate in chemistry',
-  ),
-  5 => 
-  array (
-    0 => 'The secret of change is to focus all of your energy, not on fighting the old, but on building the new.',
-    1 => 'Socrates',
-  ),
-  6 => 
-  array (
-    0 => 'There was nothing I hated more than to see a filthy old drunkie, a howling away at the sons of his father and going blurp blurp in between as if it were a filthy old orchestra in his stinking rotten guts. I could never stand to see anyone like that, especially when they were old like this one was.',
-    1 => 'Alex in "Clockwork Orange"',
-  ),
-  7 => 
-  array (
-    0 => 'Anyone who stops learning is old, whether at 2 or 8. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.',
-    1 => 'Moshe Arens',
-  ),
-  8 => 
-  array (
-    0 => 'Every little picofarad has a nanohenry all its own.',
-    1 => 'Don Vonada',
-  ),
-  9 => 
-  array (
-    0 => 'We sing inspirational songs, songs of praise and worship, and about how good and how big God is. We are magnifying the Lord.',
-    1 => 'Fred Hammond',
-  ),
-  10 => 
-  array (
-    0 => 'You may only succeed if you desire succeeding; you may only fail if you do not mind failing.',
-    1 => 'Philippos',
-  ),
-  11 => 
-  array (
-    0 => '\'Martyrdom\' is the only way a person can become famous without ability.',
-    1 => 'George Bernard Shaw',
-  ),
-  12 => 
-  array (
-    0 => 'I often lose motivation, but it\'s something I accept as normal.',
-    1 => 'Bill Rodgers',
-  ),
-  13 => 
-  array (
-    0 => 'The goal of life is living in agreement with nature.',
-    1 => 'Zeno',
-  ),
-  14 => 
-  array (
-    0 => 'I tried out various experiments described in treatises on physics and chemistry, and the results were sometimes unexpected. At times, I would be encouraged by a little unhoped-for success; at others, I would be in the deepest despair because of accidents and failures resulting from my inexperience.',
-    1 => 'Marie Curie',
-  ),
-  15 => 
-  array (
-    0 => 'Keep your feet on the ground, but let your heart soar as high as it will. Refuse to be average or to surrender to the chill of your spiritual environment.',
-    1 => 'Arthur Helps',
-  ),
-  16 => 
-  array (
-    0 => 'And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.',
-    1 => 'Anaïs Nin',
-  ),
-  17 => 
-  array (
-    0 => 'There is no such thing as a dirty word. Nor is there a word so powerful, that it\'s going to send the listener to the lake of fire upon hearing it.',
-    1 => 'Frank Zappa',
-  ),
-  18 => 
-  array (
-    0 => '\'Tis not too late to seek a newer world.',
-    1 => 'Alfred, Lord Tennyson',
-  ),
-  19 => 
-  array (
-    0 => 'And when you want something, all the universe conspires in helping you to achieve it.',
-    1 => 'Paulo Coelho',
-  ),
-  20 => 
-  array (
-    0 => 'God is really only another artist. He invented the giraffe, the elephant and the cat. He has no real style, He just goes on trying other things.',
-    1 => 'Pablo Picasso',
-  ),
-  21 => 
-  array (
-    0 => 'When you see something that is technically sweet, you go ahead and do it and you argue about what to do about it only after you have had your technical success. That is the way it was with the atomic bomb.',
-    1 => 'J. Robert Oppenheimer',
-  ),
-  22 => 
-  array (
-    0 => '[The Weather Channel] is the most watched cable channel in America. I\'ll repeat that. It is the most watched cable channel in America. They were worried about the terrorists immobilizing us, and a portion of our countrymen watch weather. \'Kay, you don\'t get any more immobile than that... unless you\'re in a goddamn coma. That means you\'re saying, "I\'d go to the window, but it\'s too far." If you want to know what the weather is you go to a window and stick your hand out and if you want to know what the temperature is you drive by a bank.',
-    1 => 'Lewis Black',
-  ),
-  23 => 
-  array (
-    0 => 'You should learn from your competitor, but never copy. Copy and you die.',
-    1 => 'Jack Ma',
-  ),
-  24 => 
-  array (
-    0 => 'Do I prefer to grow up and relate to life directly, or do I choose to live and die in fear?',
-    1 => 'Pema Chodron',
-  ),
-);
+return [
+    [
+        'What you do makes a difference, and you have to decide what kind of difference you want to make.',
+        'Jane Goodall',
+    ],
+    [
+        'Canadians tend to be a bit more religious than most Europeans - though not more than the Poles or Ukrainians. Most important, their attitude to immigration and ethnic minorities is more positive than that of most Europeans.',
+        'Timothy Garton Ash',
+    ],
+    [
+        'We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way.',
+        'Les Brown',
+    ],
+    [
+        'I have had it up to here with the prosecutions, the government\'s attitude, the judiciary, the media\'s stance and the majority of Turks who view the Kurdish people\'s justified cause through a nationalist lens.',
+        'Osman Baydemir',
+    ],
+    [
+        'Lord, grant that I may always desire more than I can accomplish.',
+        'Michelangelo',
+    ],
+    [
+        'I write in my study, where I also have my prayer altar. I believe that keeps me focused and gives me positive energy and reminds me that I\'m merely the instrument of greater creative forces.',
+        'Chitra Banerjee Divakaruni',
+    ],
+    [
+        'Because I have work to care about, it is possible that I may be less difficult to get along with than other women when the double chins start to form.',
+        'Gloria Steinem',
+    ],
+    [
+        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.',
+        'Helen Keller',
+    ],
+    [
+        'Excellence is to do a common thing in an uncommon way.',
+        'Booker Washington',
+    ],
+    [
+        'Life is what we make it, always has been, always will be.',
+        'Sylvia Plath',
+    ],
+    [
+        'When there is no enemy within, the enemies outside cannot hurt you.',
+        'African proverb',
+    ],
+    [
+        'I collect all the reviews of the films I turned down. And when they\'re bad - I have to smile.',
+        'Simone Signoret',
+    ],
+    [
+        'Writers, as they gain success, feel like outsiders because writers don\'t come together in real groups.',
+        'Anne Rice',
+    ],
+    [
+        'If I could reach up and hold a star for every time you\'ve made me smile, the entire evening sky would be in the palm of my hand.',
+        '',
+    ],
+    [
+        'There are so many local nonprofits making a positive impact every day, and yet, oftentimes we don\'t hear enough about them or their needs.',
+        'Sylvia Mathews Burwell',
+    ],
+    [
+        'You can do what\'s reasonable or you can decide what\'s possible.',
+        'Unknown',
+    ],
+    [
+        'A friend may well be reckoned the masterpiece of nature.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.',
+        'Napoleon Hill',
+    ],
+    [
+        'Today is not the day I die.',
+        'Oberyn Martell',
+    ],
+    [
+        'Contrary to popular mythology, the best and most durable relationships are based not on vulnerability or passion but on a conjugation of positive attributes, a meeting of mind, body and soul that is all the more powerful as it is not weighed down with neediness and unreasonable expectation.',
+        'Mariella Frostrup',
+    ],
+    [
+        'To insult someone we call him \'bestial. For deliberate cruelty and nature, \'human\' might be the greater insult.',
+        'Isaac Asimov',
+    ],
+    [
+        'I work hard. I focus on myself and putting food on my dinner table before anything else. I don\'t worry about other artists. Worrying about the next person in a negative way is the wrong way to be.',
+        'Meek Mill',
+    ],
+    [
+        'The first condition of understanding a foreign country is to smell it.',
+        'Rudyard Kipling',
+    ],
+    [
+        'Work, look for peace and calm in work: you will find it nowhere else.',
+        'Dmitri Mendeleev',
+    ],
+    [
+        'I\'m the one that has to die when it\'s time for me to die, so let me live my life, the way I want to.',
+        'Jimi Hendrix',
+    ],
+];

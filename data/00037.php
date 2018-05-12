@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Just trust yourself, then you will know how to live.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  1 => 
-  array (
-    0 => 'By providing clear objectives for your team, and setting guardrails for how they get there, you will set them on the path to success.',
-    1 => 'Chris Fussell',
-  ),
-  2 => 
-  array (
-    0 => 'My grandson has learned how to hold and carry the cat. He has also learned how to flush the toilet. I can\'t help but believe that in the not-too-distant future there will be another lesson in store for him.',
-    1 => 'Dave Henry',
-  ),
-  3 => 
-  array (
-    0 => 'You couldn\'t even prove the White House staff sane beyond a reasonable doubt.',
-    1 => 'Ed Meese, on the Hinckley verdict',
-  ),
-  4 => 
-  array (
-    0 => 'The function of socialism is to raise suffering to a higher level.',
-    1 => 'Norman Mailer',
-  ),
-  5 => 
-  array (
-    0 => 'There\'s something about love that people just have to respond to.',
-    1 => 'Howard Melchin',
-  ),
-  6 => 
-  array (
-    0 => 'The first principle of success is desire - knowing what you want. Desire is the planting of your seed.',
-    1 => 'Robert Collier',
-  ),
-  7 => 
-  array (
-    0 => 'I believe in getting into hot water; it keeps you clean.',
-    1 => 'G. K. Chesterton',
-  ),
-  8 => 
-  array (
-    0 => 'Change your thoughts and you change your world.',
-    1 => 'Norman Vincent Peale',
-  ),
-  9 => 
-  array (
-    0 => 'Live life fully while you\'re here. Experience everything. Take care of yourself and your friends. Have fun, be crazy, be weird. Go out and screw up! You\'re going to anyway, so you might as well enjoy the process. Take the opportunity to learn from your mistakes: find the cause of your problem and eliminate it. Don\'t try to be perfect; just be an excellent example of being human.',
-    1 => 'Anthony Robbins',
-  ),
-  10 => 
-  array (
-    0 => 'Do you want to know who you are? Don\'t ask. Act! Action will delineate and define you.',
-    1 => 'Thomas Jefferson',
-  ),
-  11 => 
-  array (
-    0 => '... at least I thought I was dancing, \'til somebody stepped on my hand.',
-    1 => 'J. B. White',
-  ),
-  12 => 
-  array (
-    0 => 'If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.',
-    1 => 'Anne Bradstreet',
-  ),
-  13 => 
-  array (
-    0 => 'Lead without a title.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => 'I could either watch it happen, or be a part of it.',
-    1 => 'Elon Musk',
-  ),
-  15 => 
-  array (
-    0 => 'The only yardstick for success our society has is being a champion. No one remembers anything else.',
-    1 => 'John Madden',
-  ),
-  16 => 
-  array (
-    0 => 'Fear makes strangers of those who would be friends.',
-    1 => 'Shirley MacLaine',
-  ),
-  17 => 
-  array (
-    0 => 'They had that special grace, that special spirit that says, Give me a challenge and I\'ll meet it with joy.',
-    1 => 'Ronald Reagan',
-  ),
-  18 => 
-  array (
-    0 => 'The possibilities are numerous once we decide to act and not react.',
-    1 => 'George Bernard Shaw',
-  ),
-  19 => 
-  array (
-    0 => 'Anyone who has never made a mistake has never tried anything new.',
-    1 => 'Albert Einstein',
-  ),
-  20 => 
-  array (
-    0 => 'Of all things, I liked books best.',
-    1 => 'Nikola Tesla',
-  ),
-  21 => 
-  array (
-    0 => 'Plan ahead: it was not raining when Noah built the ark.',
-    1 => 'Richard Cushing',
-  ),
-  22 => 
-  array (
-    0 => 'Telecom is a dramatic success in India and our view is, respecting the political process, and respecting the fact that these are sovereign decisions, is that, approaching India as a friend.',
-    1 => 'John W. Snow',
-  ),
-  23 => 
-  array (
-    0 => 'Many people spend more time in planning the wedding than they do in planning the marriage.',
-    1 => 'Zig Ziglar',
-  ),
-  24 => 
-  array (
-    0 => 'What is permissible is not always honorable.',
-    1 => 'Marcus Tullius Cicero',
-  ),
-);
+return [
+    [
+        'In a time of universal deceit - telling the truth is a revolutionary act.',
+        'Unknown',
+    ],
+    [
+        'Man cannot discover new oceans unless he has the courage to lose sight of the shore.',
+        'Andre Gide',
+    ],
+    [
+        'Space is an inspirational concept that allows you to dream big.',
+        'Peter Diamandis',
+    ],
+    [
+        'Beauty is the lover\'s gift.',
+        'William Congreve',
+    ],
+    [
+        'Tears are sometimes an inappropriate response to death. When a life has been lived completely honestly, completely successfully, or just completely, the correct response to death\'s perfect punctuation mark is a smile.',
+        'Julie Burchill',
+    ],
+    [
+        'I view art as an inspirational tool.',
+        'Thomas Kincade',
+    ],
+    [
+        'If you know you are giving your best effort, you\'ll never have any reason for regrets.',
+        'Naveen Jain',
+    ],
+    [
+        'Freedom is not worth having if it does not connote freedom to err.',
+        'Mohandas Gandhi',
+    ],
+    [
+        'I am what I am. I love golf, I love my life, I love my family and friends.',
+        'Sergio Garcia',
+    ],
+    [
+        'The price of anything is the amount of life you exchange for it.',
+        'Lao Tzu',
+    ],
+    [
+        'I\'ve never found kicks to the groin particularly funny, although recent work in the genre of the buddy movie suggests audience research must prove me wrong.',
+        'Roger Ebert',
+    ],
+    [
+        'Living well is the best revenge.',
+        'George Herbert',
+    ],
+    [
+        'It is the life of the crystal, the architect of the flake, the fire of the frost, the soul of the sunbeam. This crisp winter air is full of it.',
+        'Martin Lawrence',
+    ],
+    [
+        'With five chances on each hand and one unwavering aim, no boy, however poor, need despair. There is bread and success for every youth under the American flag who has energy and ability to seize his opportunity.',
+        'Orison Swett Marden',
+    ],
+    [
+        'The bluebird carries the sky on his back.',
+        'Henry David Thoreau',
+    ],
+    [
+        'I don\'t stop when I am tired, I stop when I am done.',
+        'James Bond',
+    ],
+    [
+        'There are just some really beautiful people in the world. When you\'re walking down the street, or you\'re at a restaurant, someone catches your eye because they have their own look. It goes way beyond what they\'re wearing - into their mannerisms, the way they smile, or just the way they hold themselves.',
+        'Mary-Kate Olsen',
+    ],
+    [
+        'Expecting to be able to get rid of the competitive drive, first of all, flies in the face of human nature - and little girls certainly have this drive, as much as little boys do, or at least the little girls I have observed in my immediate family have it.',
+        'Lynne Cheney',
+    ],
+    [
+        'My goal when I started out was to get to the point where I could tour a lot and make a living, which means getting paid enough to hire my own band, travel and end up with a bit of money, but I\'m still nowhere near that point. Because I didn\'t have a band and fan base when I started, I did everything backward.',
+        'Teddy Thompson',
+    ],
+    [
+        'Joy is the best makeup.',
+        'Anne Lamott',
+    ],
+    [
+        'Economic medicine that was previously meted out by the cupful has recently been dispensed by the barrel. These once unthinkable dosages will almost certainly bring on unwelcome after-effects. Their precise nature is anyone\'s guess, though one likely consequence is an onslaught of inflation.',
+        'Warren Buffett',
+    ],
+    [
+        'One of the things I like best about \'Biggest Loser\' is being around people who are trying to make the right choices. When you feel defeated about your weight and your health, like there\'s no hope, and you still make the choice to fight for it, to make the change happen no matter what people say or think, that\'s inspiring to me.',
+        'Alison Sweeney',
+    ],
+    [
+        'My height doesn\'t define my skill set. To be a great quarterback, you have to have great leadership, great attention to detail and a relentless competitive nature - and I try to bring that on a daily basis.',
+        'Russell Wilson',
+    ],
+    [
+        'All company bosses want a policy on corporate social responsibility. The positive effect is hard to quantify, but the negative consequences of a disaster are enormous.',
+        'Noreena Hertz',
+    ],
+    [
+        'As no one knew much about my mental illness, a lot of people had the attitude that I had the capability to \'kick it\' and get better instantly. This was the most frustrating attitude for me.',
+        'Andy Behrman',
+    ],
+];

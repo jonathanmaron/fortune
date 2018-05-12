@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'We must be the change we wish to see in the world',
-    1 => 'Mahatma Gandhi',
-  ),
-  1 => 
-  array (
-    0 => 'I\'m going to write a book, continue acting, continue motivational speaking and just share with people who I am and what I\'ve learned in my second chance of life and pass it on to people in their first chance of life.',
-    1 => 'J. R. Martinez',
-  ),
-  2 => 
-  array (
-    0 => 'Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.',
-    1 => 'Dylan Thomas',
-  ),
-  3 => 
-  array (
-    0 => 'If you don\'t know where you are going, you might wind up someplace else.',
-    1 => 'Yogi Berra',
-  ),
-  4 => 
-  array (
-    0 => 'Failure is the spice that gives success its taste',
-    1 => 'Truman Capote',
-  ),
-  5 => 
-  array (
-    0 => 'True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.',
-    1 => 'William Penn',
-  ),
-  6 => 
-  array (
-    0 => 'Millions of sensible people are too high-minded to concede that politics is almost always the choice of the lesser evil. "Tweedledum and Tweedledee," they say, "I will not vote." Having abstained, they are presented with a President who appoints the people who are going to rummage around in their lives for the next four years. Consider all the people who sat home in a stew in 1968 rather than vote for Hubert Humphrey. They showed Humphrey. Those people who taught Hubert Humphrey a lesson will still be enjoying the Nixon Supreme Court when Tricia and Julie begin to find silver threads among the gold and the black.',
-    1 => 'Russel Baker, "Ford without Flummery"',
-  ),
-  7 => 
-  array (
-    0 => 'He is able who thinks he is able.',
-    1 => 'Buddha',
-  ),
-  8 => 
-  array (
-    0 => 'The essence of Christianity is told to us in the Garden of Eden history. The fruit that was forbidden was on the Tree of Knowledge. The subtext is,
-All the suffering you have is because you wanted to find out what was going on. You could be in the Garden of Eden if you had just kept your fucking mouth shut and hadn\'t asked any questions.',
-    1 => 'Frank Zappa',
-  ),
-  9 => 
-  array (
-    0 => 'Character may be manifested in the great moments, but it is made in the small ones.',
-    1 => 'Phillip Brooks',
-  ),
-  10 => 
-  array (
-    0 => 'If you would be a good reader, read; if a writer, write.',
-    1 => 'Epictetus',
-  ),
-  11 => 
-  array (
-    0 => 'The friend who holds your hand and says the wrong thing is made of dearer stuff than the one who stays away.',
-    1 => 'Barbara Kingsolver',
-  ),
-  12 => 
-  array (
-    0 => 'Between the choice of two evils, I always pick the one I\'ve never tried before.',
-    1 => 'Mae West',
-  ),
-  13 => 
-  array (
-    0 => 'To have what few have, do what few do.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => 'When heaven is about to confer a great responsibility on any man, it will exercise his mind with suffering, subject his sinews and bones to hard work, expose his body to hunger, put him to poverty, place obstacles in the paths of his deeds, so as to stimulate his mind, harden his nature, and improve wherever he is incompetent.',
-    1 => 'Meng Tzu',
-  ),
-  15 => 
-  array (
-    0 => 'Either you run the day, or the day runs you.',
-    1 => 'Jim Rohn',
-  ),
-  16 => 
-  array (
-    0 => 'Finding the right work is like discovering your own soul in the world.',
-    1 => 'Sir Thomas Moore',
-  ),
-  17 => 
-  array (
-    0 => 'Learn from other men\'s mistakes. You really do not have to touch the fire to see how hot it is!',
-    1 => 'Chanakya',
-  ),
-  18 => 
-  array (
-    0 => 'The world\'s people all share the earnest aspiration to have peace, stability, justice and cooperation.',
-    1 => 'Tran Duc Luong',
-  ),
-  19 => 
-  array (
-    0 => 'My head is bloodied, but unbowed.',
-    1 => 'From the poem "Invictus"',
-  ),
-  20 => 
-  array (
-    0 => 'Falling is not failing. Failing is staying where you fell.',
-    1 => 'Socrate',
-  ),
-  21 => 
-  array (
-    0 => 'Get forgiveness now',
-    1 => 'tomorrow you may no longer feel guilty.',
-  ),
-  22 => 
-  array (
-    0 => 'Success is more dangerous than failure, the ripples break over a wider coastline.',
-    1 => 'Graham Greene',
-  ),
-  23 => 
-  array (
-    0 => 'The only way to learn a new programming language is by writing programs in it.',
-    1 => 'Brian Kernighan',
-  ),
-  24 => 
-  array (
-    0 => 'Try to be the best of what you are, even if what you are is no good.',
-    1 => 'Ashleigh Brilliant',
-  ),
-);
+return [
+    [
+        'Like as the waves make towards the pebbl\'d shore, so do our minutes, hasten to their end.',
+        'William Shakespeare',
+    ],
+    [
+        'I guess I just always had this idea that I would go to Hollywood. I had the typical \'get up and go\' attitude that you have to have in order to make the brave step into the big city.',
+        'Felicia Day',
+    ],
+    [
+        'Better by far you should forget and smile that you should remember and be sad.',
+        'Christina Rossetti',
+    ],
+    [
+        'I cannot make my days longer so I strive to make them better.',
+        'Henry David Thoreau',
+    ],
+    [
+        'From very early on in my childhood - four, five years old - I felt alien to the human race. I felt very comfortable with thinking I was from another planet, because I felt disconnected - I was very tall and skinny, and I didn\'t look like anybody else, I didn\'t even look like any member of my family.',
+        'Patti Smith',
+    ],
+    [
+        'Making cartoons means very hard work at every step of the way, but creating a successful cartoon character is the hardest work of all.',
+        'Joseph Barbera',
+    ],
+    [
+        'I\'m really looking forward to seeing what life brings to me.',
+        'Cara Delevingne',
+    ],
+    [
+        'I love grocery shopping when I\'m home. That\'s what makes me feel totally normal. I love both the idea of home as in being with my family and friends, and also the idea of exploration. I think those two are probably my great interests.',
+        'Yo-Yo Ma',
+    ],
+    [
+        'Don\'t complain about what you don\'t have. Use what you\'ve got. To be less than your best is a sin.',
+        'Oprah Winfrey',
+    ],
+    [
+        'To help yourself, you must be yourself. Be the best that you can be. When you make a mistake, learn from it, pick yourself up and move on.',
+        'Dave Pelzer',
+    ],
+    [
+        'I find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
+        'Thomas A. Edison',
+    ],
+    [
+        'Land really is the best art.',
+        'Andy Warhol',
+    ],
+    [
+        'The best advice that was given to me was that I had to be 10 times smarter, braver and more polite to be equal. So I did.',
+        'Samuel L. Jackson',
+    ],
+    [
+        'Pick a flower on Earth and you move the farthest star.',
+        'Paul Dirac',
+    ],
+    [
+        'I work really hard at trying to see the big picture and not getting stuck in ego. I believe we\'re all put on this planet for a purpose, and we all have a different purpose... When you connect with that love and that compassion, that\'s when everything unfolds.',
+        'Ellen DeGeneres',
+    ],
+    [
+        'A lot of people love to do affirmations first thing in the morning - to keep themselves feeling peppy and positive.',
+        'Karen Salmansohn',
+    ],
+    [
+        'Your sacred space is where you can find yourself again and again.',
+        'Joseph Campbell',
+    ],
+    [
+        'There is no gardening without humility. Nature is constantly sending even its oldest scholars to the bottom of the class for some egregious blunder.',
+        'Alfred Austin',
+    ],
+    [
+        'No one should have the power to shatter your dreams unless you give it to them.',
+        'Unknown',
+    ],
+    [
+        'Even if people do wrong, we\'re social animals, so what can we do about stopping them doing the same things in future? Saying people are \'bad\' or \'evil\' is just an unwillingness to engage; an unwillingness to try to empathise. That sanctimonious attitude doesn\'t help anyone.',
+        'Denise Mina',
+    ],
+    [
+        'Without hurting anybody, we all tend to laugh at others\' discomfort. When someone slips on a banana skin and falls it\'s funny.',
+        'Shah Rukh Khan',
+    ],
+    [
+        'All the great performers I have worked with are fuelled by a personal dream.',
+        'John Eliot',
+    ],
+    [
+        'No matter the bad things that happened in past time, let\'s try to live the best we can now.',
+        'Ziggy Marley',
+    ],
+    [
+        'We have a vision of South Africa in which black and white shall live and work together as equals in conditions of peace and prosperity.',
+        'Oliver Tambo',
+    ],
+    [
+        'I love the fact that we are surrounded by this spectacular natural beauty that routinely strikes us dead. Hikers walk off into the woods and are never seen again. And still we tug on our fleece and skip off into the wilderness, not a care in the world.',
+        'Chelsea Cain',
+    ],
+];

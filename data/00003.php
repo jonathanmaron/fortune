@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Man was born rich, or inevitably grows rich by the use of his faculties; by the union of thought with nature.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  1 => 
-  array (
-    0 => 'When you have a dream, you\'ve got to grab it and never let go.',
-    1 => 'Carol Burnett',
-  ),
-  2 => 
-  array (
-    0 => 'I\'ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.',
-    1 => 'Maya Angelou',
-  ),
-  3 => 
-  array (
-    0 => 'What you do makes a difference, and you have to decide what kind of difference you want to make.',
-    1 => 'Jane Goodall',
-  ),
-  4 => 
-  array (
-    0 => 'The successful man doesn\'t use others, other people use the successful man, for above all the success is of service.',
-    1 => 'Mark Caine',
-  ),
-  5 => 
-  array (
-    0 => 'There is no way to happiness, happiness is the way.',
-    1 => 'Thich Nhat Hanh',
-  ),
-  6 => 
-  array (
-    0 => 'Success doesn\'t mean that you are healthy, success doesn\'t mean that you\'re happy, success doesn\'t mean that you\'re rested. Success really doesn\'t mean that you look good, or feel good, or are good.',
-    1 => 'Victoria Principal',
-  ),
-  7 => 
-  array (
-    0 => 'The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.',
-    1 => 'Albert Einstein',
-  ),
-  8 => 
-  array (
-    0 => 'Don\'t ask yourself what the world needs. Ask yourself what makes you come alive and then go do that. Because what the world needs is people who have come alive.',
-    1 => 'Howard Thurman',
-  ),
-  9 => 
-  array (
-    0 => 'Live with intention. Walk to the edge. Listen hard. Practice wellness. Play with abandon. Laugh. Choose with no regret. Appreciate your friends. Continue to learn. Do what you love. Live as if this is all there is.',
-    1 => 'Mary Anne Radmacher',
-  ),
-  10 => 
-  array (
-    0 => 'We are what we repeatedly do. Excellence, then, is not an act, but a habit.',
-    1 => 'Aristotle',
-  ),
-  11 => 
-  array (
-    0 => 'All that we see or seem is but a dream within a dream.',
-    1 => 'Edgar Allan Poe',
-  ),
-  12 => 
-  array (
-    0 => 'The survival of liberty in our land increasingly depends on the success of liberty in other lands. The best hope for peace in our world is the expansion of freedom in all the world.',
-    1 => 'Bill Frist',
-  ),
-  13 => 
-  array (
-    0 => 'Stop watching the news. Start doing your dreams.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => 'Most people wouldn\'t know music if it came up and bit them on the ass.',
-    1 => 'Frank Zappa',
-  ),
-  15 => 
-  array (
-    0 => 'What I\'ve experienced is that I can\'t know the future. I can\'t know if anything that I do will change what happens tomorrow. I can\'t know with certainty, but what I do know is if I do nothing, nothing will change.',
-    1 => 'James Orbinski',
-  ),
-  16 => 
-  array (
-    0 => 'Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.',
-    1 => 'Robert Frost',
-  ),
-  17 => 
-  array (
-    0 => 'Humor is mankind\'s greatest blessing',
-    1 => 'Mark Twain',
-  ),
-  18 => 
-  array (
-    0 => 'You have a clean slate every day you wake up. You have a chance every single morning to make that change and be the person you want to be. You just have to decide to do it. Decide today\'s the day. Say it; This is going to be my day.',
-    1 => 'Brendon Burchard',
-  ),
-  19 => 
-  array (
-    0 => 'Have respect for yourself, and patience and compassion. With these, you can handle anything.',
-    1 => 'Jack Kornfield',
-  ),
-  20 => 
-  array (
-    0 => 'Fires can\'t be made with dead embers, nor can enthusiasm be stirred by spiritless men. Enthusiasm in our daily work lightens effort and turns even labor into pleasant tasks.',
-    1 => 'James Baldwin',
-  ),
-  21 => 
-  array (
-    0 => 'Great difficulties may be surmounted by patience and perseverance.',
-    1 => 'Abigail Adams',
-  ),
-  22 => 
-  array (
-    0 => 'Little minds are tamed and subdued by misfortune; but great minds rise above it.',
-    1 => 'Washington Irving',
-  ),
-  23 => 
-  array (
-    0 => 'Other people\'s opinion of you does not have to become your reality',
-    1 => 'Les Brown',
-  ),
-  24 => 
-  array (
-    0 => 'The envious man grows lean at the success of his neighbor.',
-    1 => 'Horace',
-  ),
-);
+return [
+    [
+        'Autumn\'s the mellow time.',
+        'William Allingham',
+    ],
+    [
+        'I travel the world, and I\'m happy to say that America is still the great melting pot - maybe a chunky stew rather than a melting pot at this point, but you know what I mean.',
+        'Philip Glass',
+    ],
+    [
+        'I think Hispanic community - the values that resonate in our community are fundamentally conservative. They are faith, family and patriotism. Do you know the rate of military enlistment among Hispanics is higher than any demographic in this country? And they are also hard work and responsibility.',
+        'Ted Cruz',
+    ],
+    [
+        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
+        'Jean-Michel Jarre',
+    ],
+    [
+        'Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.',
+        'Helen Keller',
+    ],
+    [
+        'I don\'t like work... but I like what is in work - the chance to find yourself. Your own reality - for yourself, not for others - which no other man can ever know.',
+        'Joseph Conrad',
+    ],
+    [
+        'The price of greatness is responsibility.',
+        'Winston Churchill',
+    ],
+    [
+        'The artist forges himself to the others, midway between the beauty he cannot do without and the community he cannot tear himself away from. That is why true artists scorn nothing: they are obliged to understand rather than to judge.',
+        'Albert Camus',
+    ],
+    [
+        'For as the eyes of bats are to the blaze of day, so is the reason in our soul to the things which are by nature most evident of all.',
+        'Aristotle',
+    ],
+    [
+        'A sister is someone who owns part of what you own: a house, perhaps, or a less tangible legacy, like memories of your childhood and the experience of your family.',
+        'Deborah Tannen',
+    ],
+    [
+        'He who marvels at the beauty of the world in summer will find equal cause for wonder and admiration in winter.',
+        'John Burroughs',
+    ],
+    [
+        'Many are harmed by fear itself, and many may have come to their fate while dreading fate',
+        'Seneca',
+    ],
+    [
+        'The destruction of the natural beauty, the ecosystems, and the majesty of mountains affect us in ways we\'re not even aware of. Every time a mountain is beheaded, we chop off a little part of our souls.',
+        'Gloria Reuben',
+    ],
+    [
+        'We are all here for a spell, get all the good laughs you can.',
+        'Richard Dawkins',
+    ],
+    [
+        'In today\'s world, social media, people get judged so much by the last thing that happened, I almost feel, in a way, young people get to see that not only is it OK to fail - that\'s the way you get to championship success, whether it\'s sports or business or life.',
+        'Dan Gilbert',
+    ],
+    [
+        'Coming together is a beginning; keeping together is progress; working together is success.',
+        'Henry Ford',
+    ],
+    [
+        'Good things happen to those who hustle.',
+        'Anais Nin',
+    ],
+    [
+        'Many a trip continues long after movement in time and space have ceased.',
+        'John Steinbeck',
+    ],
+    [
+        'People are like stained - glass windows. They sparkle and shine when the sun is out, but when the darkness sets in, their true beauty is revealed only if there is a light from within.',
+        'Elisabeth Kubler-Ross',
+    ],
+    [
+        'It\'s nice to just embrace the natural beauty within you.',
+        'Victoria Justice',
+    ],
+    [
+        'The best cure for insomnia is to get a lot of sleep.',
+        'W. C. Fields',
+    ],
+    [
+        'If you\'re working for a good company and you\'re happy there, and you\'re being compensated accordingly, and your work satisfies you, you should stay there.',
+        'Robert Kiyosaki',
+    ],
+    [
+        'I became interested in photography during my first visit to the United States. I was a student at a university in Holland. I was overwhelmed by the beauty of the American West. That was when I learned about the tradition of nature in American photography.',
+        'Frans Lanting',
+    ],
+    [
+        'If philosophy is practice, a demand to know the manner in which its history is to be studied is entailed: a theoretical attitude toward it becomes real only in the living appropriation of its contents from the texts.',
+        'Karl Jaspers',
+    ],
+    [
+        'Comedy, we may say, is society protecting itself - with a smile.',
+        'J. B. Priestley',
+    ],
+];

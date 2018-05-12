@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'To construct an awesome life, build your daily life around your deepest priorities.',
-    1 => 'Robin Sharma',
-  ),
-  1 => 
-  array (
-    0 => 'What\'s another word for, "thesaurus"?',
-    1 => 'Steven Wright',
-  ),
-  2 => 
-  array (
-    0 => 'Do your own thing on your own terms and get what you came here for.',
-    1 => 'Oliver James',
-  ),
-  3 => 
-  array (
-    0 => 'To be successful, you have to have your heart in your business and your business in your heart.',
-    1 => 'Thomas J. Watson',
-  ),
-  4 => 
-  array (
-    0 => 'The world is round, and the place which may seem like the end may also be the beginning.',
-    1 => 'Ivy Baker Priest',
-  ),
-  5 => 
-  array (
-    0 => 'Keep your eyes on the stars, and your feet on the ground.',
-    1 => 'Theodore Roosevelt',
-  ),
-  6 => 
-  array (
-    0 => 'You have to believe in yourself, that\'s the secret. Even when I was in the orphanage, when I was roaming the street trying to find enough to eat, even then I thought of myself as the greatest actor in the world. I had to feel the exuberance that comes from utter confidence in yourself. Without it, you go down to defeat.',
-    1 => 'Charlie Chaplin',
-  ),
-  7 => 
-  array (
-    0 => 'The measure of a man is what he does with power.',
-    1 => 'Plato',
-  ),
-  8 => 
-  array (
-    0 => 'Success is a state of mind. If you want success, start thinking of yourself as a success.',
-    1 => 'Joyce Brothers',
-  ),
-  9 => 
-  array (
-    0 => 'When we are no longer able to change a situation, we are challenged to change ourselves.',
-    1 => 'Viktor Frankl',
-  ),
-  10 => 
-  array (
-    0 => 'There is joy in work. There is no happiness except in the realization that we have accomplished something.',
-    1 => 'Henry Ford',
-  ),
-  11 => 
-  array (
-    0 => 'Science has revealed that the human body is made up of millions and millions of atoms… For example, I am made up of 5.8 x 10^27 atoms.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  12 => 
-  array (
-    0 => 'We are so lightly here. It is in love that we are made. In love we disappear.',
-    1 => 'Leonard Cohen',
-  ),
-  13 => 
-  array (
-    0 => 'For a gallant spirit there can never be defeat.',
-    1 => 'Wallis Simpson',
-  ),
-  14 => 
-  array (
-    0 => 'The journey is the reward.',
-    1 => 'Chinese Proverb',
-  ),
-  15 => 
-  array (
-    0 => 'One of the things that I did before I ran for president is I was a professional speaker. Not a motivational speaker - an inspirational speaker. Motivation comes from within. You have to be inspired. That\'s what I do. I inspire people, I inspire the public, I inspire my staff. I inspired the organizations I took over to want to succeed.',
-    1 => 'Herman Cain',
-  ),
-  16 => 
-  array (
-    0 => 'Wishes can come true. But not if you just wait for miracles. Miracles are things we make for ourselves.',
-    1 => 'Oerba Dia Vanille',
-  ),
-  17 => 
-  array (
-    0 => 'I don\'t have any solution but I certainly admire the problem.',
-    1 => 'Ashleigh Brilliant',
-  ),
-  18 => 
-  array (
-    0 => 'In democratic ages men rarely sacrifice themselves for another, but they show a general compassion for all the human race. One never sees them inflict pointless suffering, and they are glad to relieve the sorrows of others when they can do so without much trouble to themselves. They are not disinterested, but they are gentle.',
-    1 => 'Alexis de Tocqueville',
-  ),
-  19 => 
-  array (
-    0 => 'In recognizing the humanity of our fellow beings, we pay ourselves the highest tribute.',
-    1 => 'Thurgood Marshall',
-  ),
-  20 => 
-  array (
-    0 => 'America had often been discovered before Columbus; it had just been hushed up.',
-    1 => 'Oscar Wilde',
-  ),
-  21 => 
-  array (
-    0 => 'They that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.',
-    1 => 'Benjamin Franklin',
-  ),
-  22 => 
-  array (
-    0 => 'Success breeds complacency. Complacency breeds failure. Only the paranoid survive.',
-    1 => 'Andy Grove',
-  ),
-  23 => 
-  array (
-    0 => 'Benazir Bhutto was an inspirational leader and an inspirational woman.',
-    1 => 'Malala Yousafzai',
-  ),
-  24 => 
-  array (
-    0 => 'A good cause can become bad if we fight for it with means that are indiscriminatingly murderous. A bad cause can become good if enough people fight for it in a spirit of comradeship and self-sacrifice. In the end it is how you fight, as much as why you fight, that makes your cause good or bad.',
-    1 => 'Freeman Dyson',
-  ),
-);
+return [
+    [
+        'Sometimes you want to go for a walk and you don\'t want to be watched. You just want to be anonymous and blend in. Especially when I travel, I feel that way, because I can\'t really go out and see a city the way other people can and I miss out on a lot.',
+        'Madonna Ciccone',
+    ],
+    [
+        'Success didn\'t spoil me, I\'ve always been insufferable.',
+        'Fran Lebowitz',
+    ],
+    [
+        'What if you threw a protest and no one showed up? The lack of angst and anger and emotion is a big positive.',
+        'Jay Alan Sekulow',
+    ],
+    [
+        'Success is achieved by developing our strengths, not by eliminating our weaknesses.',
+        'Marilyn vos Savant',
+    ],
+    [
+        'Don\'t look at someone else and want to be them. Search within yourself and find out who you are and be someone positive.',
+        'Kelly Rowland',
+    ],
+    [
+        'Keep your eyes open to your mercies. The man who forgets to be thankful has fallen asleep in life.',
+        'James E. Faust',
+    ],
+    [
+        'I have very positive memories of reading biographies of unusual Americans as a child.',
+        'Chris Van Allsburg',
+    ],
+    [
+        'The time to repair the roof is when the sun is shining.',
+        'John F. Kennedy',
+    ],
+    [
+        'Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.',
+        'Byron Pulsifer',
+    ],
+    [
+        'Christmas and the holidays are the season of giving. It\'s a time when people are more kind and open-hearted.',
+        'Gisele Bundchen',
+    ],
+    [
+        'We have an obligation and a responsibility to be investing in our students and our schools. We must make sure that people who have the grades, the desire and the will, but not the money, can still get the best education possible.',
+        'Barack Obama',
+    ],
+    [
+        'Our worldly successes cannot be guaranteed, but our ability to achieve spiritual success is entirely up to us, thanks to the grace of God. The best advice I know is to give is to give those worldly things your best but never your all - reserve the ultimate hope for the only one who can grant it.',
+        'Mitt Romney',
+    ],
+    [
+        'Part of our western outlook stems from the scientific attitude and its method of isolating the parts of a phenomenon in order to analyze them.',
+        'Arthur Erickson',
+    ],
+    [
+        'Money and success don\'t change people; they merely amplify what is already there.',
+        'Will Smith',
+    ],
+    [
+        'The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.',
+        'Thich Nhat Hanh',
+    ],
+    [
+        'Discipline is the bridge between goals and accomplishment.',
+        'Jim Rohn',
+    ],
+    [
+        'How do you know you\'re going to do something, untill you do it?',
+        'J. D. Salinger',
+    ],
+    [
+        'I\'m surrounded by great friends and family. I don\'t know what I would do without them.',
+        'Emma Roberts',
+    ],
+    [
+        'No man is free who is not master of himself.',
+        'Epictetus',
+    ],
+    [
+        'To the mind that is still, the whole universe surrenders.',
+        'Lao Tzu',
+    ],
+    [
+        'Each blade of grass has its spot on earth whence it draws its life, its strength; and so is man rooted to the land from which he draws his faith together with his life.',
+        'Joseph Conrad',
+    ],
+    [
+        'You can\'t use up creativity. The more you use, the more you have.',
+        'Maya Angelou',
+    ],
+    [
+        'Two races share today the soil of Canada. These people had not always been friends. But I hasten to say it. There is no longer any family here but the human family. It matters not the language people speak, or the altars at which they kneel.',
+        'Wilfrid Laurier',
+    ],
+    [
+        'Beauty is a short-lived tyranny.',
+        'Socrates',
+    ],
+    [
+        'You don\'t want to have to come into work on Monday already apologizing. I try to save my apologies for what I\'ve done later in the week.',
+        'Ike Barinholtz',
+    ],
+];

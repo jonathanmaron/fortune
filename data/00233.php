@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'All endings are beginnings, we just don\'t know it at the time.',
-    1 => 'Mitch Albom',
-  ),
-  1 => 
-  array (
-    0 => 'California is the ghost of Christmas future for the rest of America.',
-    1 => 'anonymous post to an Internet forum',
-  ),
-  2 => 
-  array (
-    0 => 'Honest hearts produce honest actions.',
-    1 => 'Brigham Young',
-  ),
-  3 => 
-  array (
-    0 => 'Character is the ligament holding together all other qualities.',
-    1 => 'Arnold Glasow',
-  ),
-  4 => 
-  array (
-    0 => 'Art is parasitic on life, just as criticism is parasitic on art.',
-    1 => 'Harry S Truman (one of his more ridiculous comments)',
-  ),
-  5 => 
-  array (
-    0 => 'Let us rise up and be thankful, for if we didn\'t learn a lot today, at least we learned a little, and if we didn\'t learn a little, at least we didn\'t get sick, and if we got sick, at least we didn\'t die; so, let us all be thankful.',
-    1 => 'Buddha',
-  ),
-  6 => 
-  array (
-    0 => 'Success is walking from failure to failure with no loss of enthusiasm.',
-    1 => 'Winston Churchill',
-  ),
-  7 => 
-  array (
-    0 => 'Success is not a matter of mastering subtle, sophisticated theory but rather of embracing common sense with uncommon levels of discipline and persistence.',
-    1 => 'Patrick Lencioni',
-  ),
-  8 => 
-  array (
-    0 => 'To seek what is impossible is madness: and it is impossible that the bad should not do something of this kind.',
-    1 => 'Marcus Aurelius, "The Meditations", Book V',
-  ),
-  9 => 
-  array (
-    0 => 'Courage is almost a contradiction in terms: it means a strong desire to live taking the form of readiness to die.',
-    1 => 'G. K. Chesterton',
-  ),
-  10 => 
-  array (
-    0 => 'Hope is but the dream of those who wake.',
-    1 => 'Matthew Prior',
-  ),
-  11 => 
-  array (
-    0 => 'Take care of this moment.',
-    1 => 'Mahatma Gandhi',
-  ),
-  12 => 
-  array (
-    0 => 'To appreciate the balance in life, you have to lose it every now and then.',
-    1 => 'Rod Williams',
-  ),
-  13 => 
-  array (
-    0 => 'I think true success is intrinsic... It\'s love. It\'s kindness. It\'s community.',
-    1 => 'Tom Shadyac',
-  ),
-  14 => 
-  array (
-    0 => 'The cure for anything is salt water. Sweat, tears or the ocean.',
-    1 => 'Isak Dinesen',
-  ),
-  15 => 
-  array (
-    0 => 'Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.',
-    1 => 'W. Clement Stone',
-  ),
-  16 => 
-  array (
-    0 => 'No matter how much success you\'re having, you can\'t continue working together if you can\'t communicate.',
-    1 => 'Matt Cameron',
-  ),
-  17 => 
-  array (
-    0 => 'Create the highest, grandest vision possible for your life because you become what you believe.',
-    1 => 'Oprah Winfrey',
-  ),
-  18 => 
-  array (
-    0 => 'Be alone, that is the secret of invention; be alone, that is when ideas are born.',
-    1 => 'Nikola Tesla',
-  ),
-  19 => 
-  array (
-    0 => 'When we face the worst that can happen in any situation, we grow. When circumstances are at their worst, we can find our best.',
-    1 => 'Elisabeth Kübler-Ross',
-  ),
-  20 => 
-  array (
-    0 => 'When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.',
-    1 => 'Helen Keller',
-  ),
-  21 => 
-  array (
-    0 => 'Success is a great deodorant.',
-    1 => 'Elizabeth Taylor',
-  ),
-  22 => 
-  array (
-    0 => 'The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.',
-    1 => 'Kalpana Chawla',
-  ),
-  23 => 
-  array (
-    0 => 'Be miserable. Or motivate yourself. Whatever has to be done, it\'s always your choice.',
-    1 => 'Wayne Dyer',
-  ),
-  24 => 
-  array (
-    0 => 'Better to do something imperfectly than to do nothing flawlessly.',
-    1 => 'Robert H. Schuller',
-  ),
-);
+return [
+    [
+        'When trouble comes, it\'s your family that supports you.',
+        'Guy Lafleur',
+    ],
+    [
+        'In the \'70s, in Britain, if you were going to do serious photography, you were obliged to work in black-and-white. Color was the palette of commercial photography and snapshot photography.',
+        'Martin Parr',
+    ],
+    [
+        '\'Unbreakable Smile\' was based off one of the songs I wrote for the album - it was actually the first song I wrote for the album without realizing it yet. I think I wanted to name the album that because it seemed like that was just the theme of that chapter in my life and just the theme of all the songs put together.',
+        'Tori Kelly',
+    ],
+    [
+        'You can follow your favorite company or organization. You can also mix that in with your family and your social network and talk about all these interests in real time. That\'s the value, not the brand \'Twitter.\' Twitter just provides the venue for it.',
+        'Jack Dorsey',
+    ],
+    [
+        'Nobody was my support. You have to support yourself, and I think that is the beauty of being a woman. You can handle anything and be ten times better than men.',
+        'Kangana Ranaut',
+    ],
+    [
+        'The basic fact about human existence is not that it is a tragedy, but that it is a bore. It is not so much a war as an endless standing in line.',
+        'Ernest Hemingway',
+    ],
+    [
+        'My kids started school, so having a strong base in Melbourne has been a key priority. I\'m not daunted by the travel. People say, \'It\'s so far to Australia,\' and I say, \'You get on the plane, you eat well, you sleep, you wake up - and you\'re there.\'',
+        'Geoffrey Rush',
+    ],
+    [
+        'Simplicity is natures first step, and the last of art.',
+        'Philip James Bailey',
+    ],
+    [
+        'A birthday is just another day where you go to work and people give you love. Age is just a state of mind, and you are as old as you think you are. You have to count your blessings and be happy.',
+        'Abhishek Bachchan',
+    ],
+    [
+        'I love to see people laugh and put a smile on peoples\' faces. Anytime I\'m doing that I\'m happy.',
+        'Dexter Darden',
+    ],
+    [
+        'If you embrace \'positive thinking,\' you are - by definition - spurning \'negative thinking.\' So it\'s as if you were on a teeter-totter and are trying desperately to put all your weight on one side - the \'positive thinking\' side.',
+        'Srikumar Rao',
+    ],
+    [
+        'The man who interprets Nature is always held in great honor.',
+        'Zora Neale Hurston',
+    ],
+    [
+        'The best way to look at any business is from the standpoint of the clients.',
+        'Jamie Dimon',
+    ],
+    [
+        'O, thou art fairer than the evening air clad in the beauty of a thousand stars.',
+        'Christopher Marlowe',
+    ],
+    [
+        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
+        'Paul Bryant',
+    ],
+    [
+        'There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.',
+        'Malcolm X',
+    ],
+    [
+        'Your life is the fruit of your own doing. You have no one to blame but yourself.',
+        'Lindsey Vonn',
+    ],
+    [
+        "There are three rules.\n1. If you do not go after what you want, you will never have it.\n2. If you do not ask, the answer will always be no.\n3. If you do not step forward, you will remain in the same place.",
+        'Unknown',
+    ],
+    [
+        'Success is dangerous. One begins to copy oneself, and to copy oneself is more dangerous than to copy others. It leads to sterility.',
+        'Pablo Picasso',
+    ],
+    [
+        'All suffering originates from craving, from attachment, from desire.',
+        'Edgar Allan Poe',
+    ],
+    [
+        'Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.',
+        'Alphonse Karr',
+    ],
+    [
+        'I believe one of the best things about managing people is that we can influence lives in a positive way. That\'s basically what a manager is about. When I can do that, I am very happy.',
+        'Arsene Wenger',
+    ],
+    [
+        'It takes considerable knowledge just to realize the extent of your own ignorance.',
+        'Thomas Sowell',
+    ],
+    [
+        'Patience, persistence and perspiration make an unbeatable combination for success.',
+        'Napoleon Hill',
+    ],
+    [
+        'The breaks you take from work pay you back manifold when you return because you come back with a fresher mind and newer thinking. Some of your best ideas come when you\'re on vacation.',
+        'Gautam Singhania',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It\'s right to be contented with what we have, never with what we are.',
-    1 => 'James Mackintosh',
-  ),
-  1 => 
-  array (
-    0 => 'I try to learn from the finite, the lessons of the infinite.',
-    1 => 'Arthur Young',
-  ),
-  2 => 
-  array (
-    0 => 'Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  3 => 
-  array (
-    0 => 'I had an inspirational teacher at my junior school: Peter Nixon. He was enthusiastic, knowledgeable and slightly scary - a good combination for a teacher.',
-    1 => 'Stephen Mangan',
-  ),
-  4 => 
-  array (
-    0 => 'Success is finding satisfaction in giving a little more than you take.',
-    1 => 'Christopher Reeve',
-  ),
-  5 => 
-  array (
-    0 => 'We have become not a melting pot but a beautiful mosaic. Different people, different beliefs, different yearnings, different hopes, different dreams.',
-    1 => 'Jimmy Carter',
-  ),
-  6 => 
-  array (
-    0 => 'Many small people, in many small places, do many small things, that can alter the face of the world.',
-    1 => 'Anonymous',
-  ),
-  7 => 
-  array (
-    0 => 'The secret to mastery in any field is to forever be a student.',
-    1 => 'Martin Palmer',
-  ),
-  8 => 
-  array (
-    0 => 'Success isn\'t always about greatness. It\'s about consistency. Consistent hard work leads to success. Greatness will come.',
-    1 => 'Dwayne Johnson',
-  ),
-  9 => 
-  array (
-    0 => 'All achievements, all earned riches, have their beginning in an idea.',
-    1 => 'Napoleon Hill',
-  ),
-  10 => 
-  array (
-    0 => 'Even if you fall on your face you\'re still moving forward.',
-    1 => 'Victor Kiam',
-  ),
-  11 => 
-  array (
-    0 => 'I feel the capacity to care is the thing which gives life its deepest significance.',
-    1 => 'Pablo Casals',
-  ),
-  12 => 
-  array (
-    0 => 'Success comes to those who dedicate everything to their passion in life. To be successful, it is also very important to be humble and never let fame or money travel to your head.',
-    1 => 'A. R. Rahman',
-  ),
-  13 => 
-  array (
-    0 => 'Hidden talent counts for nothing.',
-    1 => 'Nero',
-  ),
-  14 => 
-  array (
-    0 => 'If A = B and B = C, then A = C, except where void or prohibited by law.',
-    1 => 'Roy Santoro',
-  ),
-  15 => 
-  array (
-    0 => 'Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination, full of hope.',
-    1 => 'Maya Angelou',
-  ),
-  16 => 
-  array (
-    0 => 'If a man does not make new acquaintance as he advances through life, he will soon find himself left alone. A man, Sir, should keep his friendship in constant repair.',
-    1 => 'T.S. Eliot',
-  ),
-  17 => 
-  array (
-    0 => 'Failure at some point in your life is inevitable, but giving up is unforgivable.',
-    1 => 'Joe Biden',
-  ),
-  18 => 
-  array (
-    0 => 'The meaning I picked, the one that changed my life: Overcome fear, behold wonder.',
-    1 => 'Richard Bach',
-  ),
-  19 => 
-  array (
-    0 => 'We know from research that growth is actually contagious, so if you want to reach your goals, you\'ve got to get around people that are going in the same direction you want to be going, and you will catch the success.',
-    1 => 'Henry Cloud',
-  ),
-  20 => 
-  array (
-    0 => 'It is better to be hated for what you are than to be loved for what you are not.',
-    1 => 'André Gide',
-  ),
-  21 => 
-  array (
-    0 => 'You simply have to put one foot in front of the other and keep going. Put blinders on and plow right ahead.',
-    1 => 'George Lucas',
-  ),
-  22 => 
-  array (
-    0 => 'The test of courage comes when we are in the minority. The test of tolerance comes when we are in the majority.',
-    1 => 'Ralph W. Sockman',
-  ),
-  23 => 
-  array (
-    0 => 'We may encounter many defeats but we must not be defeated.',
-    1 => 'Maya Angelou',
-  ),
-  24 => 
-  array (
-    0 => 'A further sign of health is that we don\'t become undone by fear and trembling, but we take it as a message that it\'s time to stop struggling and look directly at what\'s threatening us.',
-    1 => 'Pema Chodron',
-  ),
-);
+return [
+    [
+        'America believes in education: the average professor earns more money in a year than a professional athlete earns in a whole week.',
+        'Evan Esar',
+    ],
+    [
+        'The NBA Schedule was made up by one man, Eddie Gottlieb, who had owned the Philadelphia Warriors. Eddie had a Buddha-like body and a crinkly smile, and because he had also been an owner in baseball\'s old Negro leagues, he was known as the Mogul.',
+        'Frank Deford',
+    ],
+    [
+        'Music is my religion.',
+        'Jimi Hendrix',
+    ],
+    [
+        'Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.',
+        'Carl Sandburg',
+    ],
+    [
+        'People forget I go to work. They forget that the Coleridge house was bought and paid for by the daughter of a travel agent and a barmaid from what the actor Richard Burton once described as the nightmarish \'featureless suburb\' of Croydon.',
+        'Kate Moss',
+    ],
+    [
+        'Well-timed silence is the most commanding expression.',
+        'Mark Helprin',
+    ],
+    [
+        'I believe in entrepreneurs. I believe in their ability to make positive change in the world.',
+        'Jessica Jackley',
+    ],
+    [
+        'Art is the tree of life. Science is the tree of death.',
+        'Henry Ford',
+    ],
+    [
+        'Creative risk taking is essential to success in any goal where the stakes are high. Thoughtless risks are destructive, of course, but perhaps even more wasteful is thoughtless caution which prompts inaction and promotes failure to seize opportunity.',
+        'Gary Ryan Blair',
+    ],
+    [
+        'Israel always has a special filter to look at things, and that is the attitude toward Jews.',
+        'Ehud Barak',
+    ],
+    [
+        'The butterfly counts not months but moments, and has time enough.',
+        'Rabindranath Tagore',
+    ],
+    [
+        'If a man walks in the woods for love of them half of each day, he is in danger of being regarded as a loafer. But if he spends his days as a speculator, shearing off those woods and making the earth bald before her time, he is deemed an industrious and enterprising citizen.',
+        'Henry David Thoreau',
+    ],
+    [
+        'All men are equal before fish.',
+        'Herbert Hoover',
+    ],
+    [
+        'In my work in Haiti, I\'ve seen the hugely positive effects that happen when people come together to build something in the middle of the most desperate situations.',
+        'Olivia Wilde',
+    ],
+    [
+        'The only way to have a friend is to be one.',
+        'Ralph Emerson',
+    ],
+    [
+        'Our hearts were drunk with a beauty Our eyes could never see.',
+        'George William Russell',
+    ],
+    [
+        'All systems in Pakistan appear to be in a haste to achieve something, which can have both positive and negative implications. Let us take a pause and examine the two fundamental questions: One, are we promoting the rule of law and the Constitution? Two, are we strengthening or weakening the institutions?',
+        'Ashfaq Parvez Kayani',
+    ],
+    [
+        'I have had a perfectly wonderful evening, but this wasn\'t it.',
+        'Groucho Marx',
+    ],
+    [
+        'My Christmas present to myself each year is to see how much air travel can open up the world and take me to places as far from sheltered California and Japan as possible.',
+        'Pico Iyer',
+    ],
+    [
+        'You can hold yourself back from the sufferings of the world, that is something you are free to do and it accords with your nature, but perhaps this very holding back is the one suffering you could avoid.',
+        'Franz Kafka',
+    ],
+    [
+        'I would love to have some sort of \'Back To The Future\' Delorean time machine travel device so I could go back to 1981 to see that very first Jackson 5 concert I went to, back when I was a kid.',
+        'Questlove',
+    ],
+    [
+        'The funny thing about having all this so-called success is that behind it is a certain horrible emptiness.',
+        'Sam Shepard',
+    ],
+    [
+        'What a stupid attitude we have in this country to personal stories.',
+        'Amanda Burton',
+    ],
+    [
+        'I say that I get paid to travel, and I play the shows for free.',
+        'Tyler Farr',
+    ],
+    [
+        'Wisdom is the reward you get for a lifetime of listening when you\'d have preferred to talk.',
+        'Doug Larson',
+    ],
+];

@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A somebody was once a nobody who wanted to and did.',
-    1 => 'John Burroughs',
-  ),
-  1 => 
-  array (
-    0 => 'Let nothing disturb thee; Let nothing dismay thee; All thing pass; God never changes. Patience attains All that it strives for. He who has God Finds he lacks nothing:God alone suffices.',
-    1 => 'St. Teresa of Avila',
-  ),
-  2 => 
-  array (
-    0 => 'We must not, in trying to think about how we can make a big difference, ignore the small daily differences we can make which, over time, add up to big differences that we often cannot foresee.',
-    1 => 'Marian Wright Edelman',
-  ),
-  3 => 
-  array (
-    0 => 'The key to success is to focus our conscious mind on things we desire not things we fear.',
-    1 => 'Brian Tracy',
-  ),
-  4 => 
-  array (
-    0 => 'The most important single ingredient in the formula of success is knowing how to get along with people.',
-    1 => 'Theodore Roosevelt',
-  ),
-  5 => 
-  array (
-    0 => 'It may seem absurd to believe that a \'primitive\' culture in the Himalaya has anything to teach our industrialized society. But our search for a future that works keeps spiraling back to an ancient connection between ourselves and the earth, an interconnectedness that ancient cultures have never abandoned.',
-    1 => 'Helena Norberg-Hodge',
-  ),
-  6 => 
-  array (
-    0 => 'The crest and crowning of all good, Life\'s final star, is Brotherhood.',
-    1 => 'Baltasar Gracian',
-  ),
-  7 => 
-  array (
-    0 => 'If I had any humility I would be perfect.',
-    1 => 'Ted Turner',
-  ),
-  8 => 
-  array (
-    0 => 'There is no end. There is no beginning. There is only the infinite passion of life.',
-    1 => 'Federico Fellini',
-  ),
-  9 => 
-  array (
-    0 => 'Never leave the scene of a good idea without taking action.',
-    1 => 'Joshua Fields Millburn',
-  ),
-  10 => 
-  array (
-    0 => 'This too, shall pass.',
-    1 => 'Anonymous',
-  ),
-  11 => 
-  array (
-    0 => 'The most beautiful discovery true friends make is that they can grow separately without growing apart.',
-    1 => 'Elizabeth Foley',
-  ),
-  12 => 
-  array (
-    0 => '43rd Law of Computing:
-        Anything that can go wr fortune: Segmentation fault',
-    1 => 'core dumped',
-  ),
-  13 => 
-  array (
-    0 => 'Overcoming fear is the first step to success for entrepreneurs. The winners all exemplify that, and the hard work and commitment they have shown underlines what is needed to set up a business.',
-    1 => 'Richard Branson',
-  ),
-  14 => 
-  array (
-    0 => 'Do it or don\'t do it — you will regret both.',
-    1 => 'Søren Kierkegaard',
-  ),
-  15 => 
-  array (
-    0 => 'If you wish to be a success in the world, promise everything, deliver nothing.',
-    1 => 'Napoleon Bonaparte',
-  ),
-  16 => 
-  array (
-    0 => 'Life is short, the art long, opportunity fleeting, experiment treacherous, judgment difficult.',
-    1 => 'Hippocrates',
-  ),
-  17 => 
-  array (
-    0 => 'There\'s a never-ending ocean of techniques out there.',
-    1 => 'Joe Rogan',
-  ),
-  18 => 
-  array (
-    0 => 'To be a good loser is to learn how to win.',
-    1 => 'Carl Sandburg',
-  ),
-  19 => 
-  array (
-    0 => 'The great essentials for happiness in this life are something to do, something to love and something to hope for.',
-    1 => 'Joseph Addison',
-  ),
-  20 => 
-  array (
-    0 => 'Striving for excellence motivates you; striving for perfection is demoralizing.',
-    1 => 'Harriet Braiker',
-  ),
-  21 => 
-  array (
-    0 => 'An unexamined life is not worth living.',
-    1 => 'Socrates',
-  ),
-  22 => 
-  array (
-    0 => 'To become who you want to become, make decisions that THAT person would make, TODAY.',
-    1 => 'Richie Norton',
-  ),
-  23 => 
-  array (
-    0 => 'Pray that success will not come any faster than you are able to endure it.',
-    1 => 'Elbert Hubbard',
-  ),
-  24 => 
-  array (
-    0 => 'Oliver\'s First Law of Computing:
-        Computers are much too complex; they\'ll never work.',
-    1 => 'Robert Oliver (circa 1982)',
-  ),
-);
+return [
+    [
+        'Liquid architecture. It\'s like jazz - you improvise, you work together, you play off each other, you make something, they make something. And I think it\'s a way of - for me, it\'s a way of trying to understand the city, and what might happen in the city.',
+        'Frank Gehry',
+    ],
+    [
+        'All this misjudgment that we have of each other is based on ignorance. The second you get to travel, you see that human beings, no matter where they come from, they are the same.',
+        'Marjane Satrapi',
+    ],
+    [
+        'I\'ve always been motivated more by negative comments than by positive ones. I know what I do well. Tell me what I don\'t do well.',
+        'Abby Wambach',
+    ],
+    [
+        'A smooth sea never made a skilled sailor.',
+        'Franklin D. Roosevelt',
+    ],
+    [
+        'Do not let a flattering woman coax and wheedle you and deceive you; she is after your barn.',
+        'Hesiod',
+    ],
+    [
+        'Collaboration is the best way to work. It\'s only way to work, really.',
+        'Antony Starr',
+    ],
+    [
+        'I\'ve never seen a smiling face that was not beautiful.',
+        '',
+    ],
+    [
+        'The overall view of the human genome project has been one of great excitement and positive press, but there are people who have concerns that are quite reasonable, and they are frightened of things they don\'t understand.',
+        'Thomas R. Cech',
+    ],
+    [
+        'To be a champion, I think you have to see the big picture. It\'s not about winning and losing; it\'s about every day hard work and about thriving on a challenge. It\'s about embracing the pain that you\'ll experience at the end of a race and not being afraid. I think people think too hard and get afraid of a certain challenge.',
+        'Summer Sanders',
+    ],
+    [
+        'If you look at the history of technology over a couple hundred years, it\'s all about time compression and making the globe smaller. It\'s had positive effects, all the ones that we know. So we\'re much less likely to have the kind of terrible misunderstandings that led to World War I, for example.',
+        'Eric Schmidt',
+    ],
+    [
+        'True generosity is an offering; given freely and out of pure love. No strings attached. No expectations. Time and love are the most valuable possession you can share.',
+        'Suze Orman',
+    ],
+    [
+        'I keep my beauty regimen as natural as possible. I wash my face four times a day. In the beginning of the day, I use an exfoliating cleanser made of besan, turmeric and sandalwood. I drink lots of water and avoid oily food. I use only The Body Shop products on my face, as they use the least amount of chemicals.',
+        'Tena Desae',
+    ],
+    [
+        'I\'m coming to this world not to work. I want to come to this world to enjoy my life. I don\'t want to die in my office. I want to die on the beaches.',
+        'Jack Ma',
+    ],
+    [
+        'The object of my relationship with Vietnam has been to heal the wounds that exist, particularly among our veterans, and to move forward with a positive relationship,... Apparently some in the Vietnamese government don\'t want to do that and that\'s their decision.',
+        'Ho Chi Minh',
+    ],
+    [
+        'There\'s only one band that could ever even pretend to assume the mantle of what the Beatles did, who have been so pre-eminent and world-dominating that they could effect a paradigm shift in the culture, who have been willing to leverage their success into musical change, and that is U2 - regardless of what the result of that is.',
+        'Todd Rundgren',
+    ],
+    [
+        'People rarely succeed unless they have fun in what they are doing.',
+        'Dale Carnegie',
+    ],
+    [
+        'Major League Baseball has the best idea of all. Three years before they\'ll take a kid out of college, then they have a minor league system that they put the kids in. I\'m sure that if the NBA followed the same thing, there would be a lot of kids in a minor league system that still were not good enough to play in the major NBA.',
+        'Bobby Knight',
+    ],
+    [
+        'For me, fragrances are very - one of these beautiful art forms that bring about a whole host of things. It\'s what you want to smell like, it\'s memories that make you smile or are resonant of times in your life, it can remind you of music. If you\'re a lover of scent, it\'s a very kind of particular and evocative thing.',
+        'Chris Pine',
+    ],
+    [
+        'The things that make me happiest in the whole world are going on the occasional picnic, either with my children or with my partner; big family gatherings; and being able to go to the grocery store - if I can get those things in, I\'m doing good.',
+        'Kate Winslet',
+    ],
+    [
+        'Every time you tear a leaf off a calendar, you present a new place for new ideas and progress.',
+        'Charles Kettering',
+    ],
+    [
+        'I always had the attitude that I wanted to throw a no-hitter every game.',
+        'Dennis Eckersley',
+    ],
+    [
+        'Socialism has no moral justification whatsoever; poor people are not morally superior to rich people, nor are they owed anything by rich people simply because of their lack of success. Charity is not a socialist concept - it is a religious one, an acknowledgment of God\'s sovereignty over property, a sovereignty the Left utterly rejects.',
+        'Ben Shapiro',
+    ],
+    [
+        'A winner makes commitments. A loser makes promises.',
+        'Unknown',
+    ],
+    [
+        'The noir hero is a knight in blood caked armor. He\'s dirty and he does his best to deny the fact that he\'s a hero the whole time.',
+        'Frank Miller',
+    ],
+    [
+        'Isn\'t that the great thing about Christmas? You get a lot of respite, time to recharge your batteries, time with family without too much else happening anywhere else in the world, time to focus on the people you love and the activities that you enjoy, time to exercise, to read.',
+        'Wayne Swan',
+    ],
+];

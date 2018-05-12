@@ -1,132 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'There are no traffic jams along the extra mile.',
-    1 => 'Roger Staubach',
-  ),
-  1 => 
-  array (
-    0 => 'Too many people overvalue what they are not and undervalue what they are.',
-    1 => 'Malcolm S. Forbes',
-  ),
-  2 => 
-  array (
-    0 => 'To be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it.',
-    1 => 'Marcus Aurelius',
-  ),
-  3 => 
-  array (
-    0 => 'No act of kindness, no matter how small, is ever wasted.',
-    1 => 'Aesop',
-  ),
-  4 => 
-  array (
-    0 => 'Enthusiasm moves the world.',
-    1 => 'Arthur Balfour',
-  ),
-  5 => 
-  array (
-    0 => 'Tomorrow is the most important thing in life. Comes into us at midnight very clean. It\'s perfect when it arrives and it puts itself in our hands. It hopes we\'ve learned something from yesterday.',
-    1 => 'John Wayne',
-  ),
-  6 => 
-  array (
-    0 => 'And now that you don\'t have to be perfect, you can be good',
-    1 => 'John Steinbeck',
-  ),
-  7 => 
-  array (
-    0 => 'From Fronto I learned to observe what envy, and duplicity, and hypocrisy are in a tyrant, and that generally those among us who are called Patricians are rather deficient in paternal affection.',
-    1 => 'Marcus Aurelius, "The Meditations", Book I',
-  ),
-  8 => 
-  array (
-    0 => 'When in doubt, do the courageous thing.',
-    1 => 'Jan Smuts',
-  ),
-  9 => 
-  array (
-    0 => 'Conscience is the root of all true courage; if a man would be brave let him obey his conscience.',
-    1 => 'James Freeman Clarke',
-  ),
-  10 => 
-  array (
-    0 => 'Come, seek, for search is the foundation of fortune: every success depends upon focusing the heart.',
-    1 => 'Rumi',
-  ),
-  11 => 
-  array (
-    0 => 'Your positive action combined with positive thinking results in success.',
-    1 => 'Shiv Khera',
-  ),
-  12 => 
-  array (
-    0 => 'Success or failure depends more upon attitude than upon capacity successful men act as though they have accomplished or are enjoying something. Soon it becomes a reality. Act, look, feel successful, conduct yourself accordingly, and you will be amazed at the positive results.',
-    1 => 'William James',
-  ),
-  13 => 
-  array (
-    0 => 'The whole purpose of education is to turn mirrors into windows.',
-    1 => 'Sydney Harris',
-  ),
-  14 => 
-  array (
-    0 => 'Loving parents have caring children.',
-    1 => 'Chinese Proverb',
-  ),
-  15 => 
-  array (
-    0 => 'Through perseverance many people win success out of what seemed destined to be certain failure.',
-    1 => 'Benjamin Disraeli',
-  ),
-  16 => 
-  array (
-    0 => 'When a door closes, another one opens up.',
-    1 => 'Cervantes',
-  ),
-  17 => 
-  array (
-    0 => 'If you cannot do great things, do small things in a great way.',
-    1 => 'Napoleon Hill',
-  ),
-  18 => 
-  array (
-    0 => 'Truthful, adj.:
-        Dumb and illiterate.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  19 => 
-  array (
-    0 => 'From success you get a lot of things, but not that great inside thing that love brings you.',
-    1 => 'Samuel Goldwyn',
-  ),
-  20 => 
-  array (
-    0 => 'Never allow a person to tell you no who doesn\'t have the power to say yes.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  21 => 
-  array (
-    0 => 'Anybody who succeeds is helping people. The secret to success is find a need and fill it; find a hurt and heal it; find a problem and solve it.',
-    1 => 'Robert H. Schuller',
-  ),
-  22 => 
-  array (
-    0 => 'We keep moving forward, opening new doors, and doing new things, because we\'re curious and curiosity keeps leading us down new paths',
-    1 => 'Walt Disney',
-  ),
-  23 => 
-  array (
-    0 => 'Faire de la bonne cuisine demande un certain temps. Si on vous fait attendre, c\'est pour mieux vous servir, et vous plaire.
-[Good cooking takes time. If you are made to wait, it is to serve you better, and to please you.]',
-    1 => 'Menu of Restaurant Antoine, New Orleans
-           [Also, what we\'re going to be telling our customers]',
-  ),
-  24 => 
-  array (
-    0 => 'Any job worth quitting is worth sticking around long enough until they fire you.',
-    1 => 'Tim Wirth',
-  ),
-);
+return [
+    [
+        'To survive, you\'ve got to keep wheedling your way. You can\'t just sit there and fight against odds when it\'s not going to work. You have to turn a corner, dig a hole, go through a tunnel - and find a way to keep moving.',
+        'Twyla Tharp',
+    ],
+    [
+        'I love a lot of the New York bands, but Patti Smith stands out. I just read \'Just Kids\' and it\'s an inspirational, well-written account of an emerging New York artist in the late seventies.',
+        'James Iha',
+    ],
+    [
+        'I obviously would love to have a girlfriend, but a girlfriend deserves so much of your time and energy. And she deserves to be treated like a princess because that\'s how you should treat your girls. And if I can\'t give them that time and that devotion because of my dedication to football, then I don\'t feel like I should almost waste their time.',
+        'J. J. Watt',
+    ],
+    [
+        'Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.',
+        'W. Clement Stone',
+    ],
+    [
+        'You can\'t choose up sides on a round world.',
+        'Wayne Dyer',
+    ],
+    [
+        'Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.',
+        'Mark Zuckerberg',
+    ],
+    [
+        'I believe in rules. Sure I do. If there weren\'t any rules, how could you break them?',
+        'Leo Durocher',
+    ],
+    [
+        'Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work.',
+        'H. L. Hunt',
+    ],
+    [
+        'Fortune cookies are a good idea. If the message is positive, it can make your day a little better.',
+        'Yao Ming',
+    ],
+    [
+        'Work is the curse of the drinking classes.',
+        'Oscar Wilde',
+    ],
+    [
+        'There is nothing so stable as change.',
+        'Bob Dylan',
+    ],
+    [
+        'The true way to be humble is not to stoop until you are smaller than yourself, but to stand at your real height against some higher nature that will show you what the real smallness of your greatness is.',
+        'Phillips Brooks',
+    ],
+    [
+        'Fear of failure, it\'s the greatest motivational tool. It drives me and drives me and drives me.',
+        'Jerry West',
+    ],
+    [
+        'A hostility to modernity is shared by ideologies that have nothing else in common - a nostalgia for moral clarity, small-town intimacy, family values, primitive communism, ecological sustainability, communitarian solidarity, or harmonies with the rhythms of nature.',
+        'Steven Pinker',
+    ],
+    [
+        'The two most important days in your life are the day you are born and the day you find out why',
+        'Mark Twain',
+    ],
+    [
+        'Don\'t frown because you never know who is falling in love with your smile.',
+        'Sinvyest Tan',
+    ],
+    [
+        'Well, I think that there\'s a very thin dividing line between success and failure. And I think if you start a business without financial backing, you\'re likely to go the wrong side of that dividing line.',
+        'Richard Branson',
+    ],
+    [
+        'Time brings all things to pass.',
+        'Aeschylus',
+    ],
+    [
+        'I conclude, therefore, that this star is not some kind of comet or a fiery meteor... but that it is a star shining in the firmament itself one that has never previously been seen before our time, in any age since the beginning of the world.',
+        'Tycho Brahe',
+    ],
+    [
+        'My attitude is, if someone\'s going to criticize me, tell me to my face.',
+        'Simon Cowell',
+    ],
+    [
+        'My first book was called, \'Mountain, Get Out of My Way,\' where I did an autobiographical sketch, if you will, looking back at myself and looking back at things in my life, and juxtaposing them against things that are happening in other people\'s lives and trying to be motivational.',
+        'Montel Williams',
+    ],
+    [
+        'He who is contented is rich.',
+        'Lao Tzu',
+    ],
+    [
+        'I think the only positive thing that came from Uruguay\'s dictatorship was the spread of Montevideo natives around the world, and I continued writing about them from my various places of exile.',
+        'Mario Benedetti',
+    ],
+    [
+        'A travel book is a book that puts you in the shoes of the traveler, and it\'s usually a book about having a very bad time; having a miserable time, even better.',
+        'Paul Theroux',
+    ],
+    [
+        'The cautious seldom err.',
+        'Confucius',
+    ],
+];

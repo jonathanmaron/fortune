@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It always takes two. For relationships to work, for them to break apart, for them to be fixed.',
-    1 => 'Emily Giffin',
-  ),
-  1 => 
-  array (
-    0 => 'No one can make you feel inferior without your consent.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  2 => 
-  array (
-    0 => 'Man needs difficulties in life because they are necessary to enjoy the success.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  3 => 
-  array (
-    0 => 'It takes 20 years to make an overnight success.',
-    1 => 'Eddie Cantor',
-  ),
-  4 => 
-  array (
-    0 => 'It is better to be faithful than famous.',
-    1 => 'Theodore Roosevelt',
-  ),
-  5 => 
-  array (
-    0 => 'Trusting your intuition means tuning in as deeply as you can to the energy you feel, following that energy moment to moment, trusting that it will lead you where you want to go and bring you everything you desire.',
-    1 => 'Shakti Gawain',
-  ),
-  6 => 
-  array (
-    0 => 'Always remember that the future comes one day at a time.',
-    1 => 'Dean Acheson',
-  ),
-  7 => 
-  array (
-    0 => 'Loyalty is a feature in a boy\'s character that inspires boundless hope.',
-    1 => 'Sir Robert Baden-Powell',
-  ),
-  8 => 
-  array (
-    0 => 'All the art of living lies in a fine mingling of letting go and holding on.',
-    1 => 'Henry Ellis',
-  ),
-  9 => 
-  array (
-    0 => 'Indomitable perseverance in a business, properly understood, always ensures ultimate success.',
-    1 => 'Cyrus McCormick',
-  ),
-  10 => 
-  array (
-    0 => 'Whether you come from a council estate or a country estate, your success will be determined by your own confidence and fortitude.',
-    1 => 'Michelle Obama',
-  ),
-  11 => 
-  array (
-    0 => 'The only thing to do with good advice is pass it on. It is never any use to oneself.',
-    1 => 'Oscar Wilde',
-  ),
-  12 => 
-  array (
-    0 => 'The older I get, the surer I am that I’m not running the show.',
-    1 => 'Leonard Cohen',
-  ),
-  13 => 
-  array (
-    0 => 'Confidence is the result of hours and days and weeks and years of constant work and dedication.',
-    1 => 'Roger Staubach',
-  ),
-  14 => 
-  array (
-    0 => 'Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers.',
-    1 => 'Jose Luis Borges',
-  ),
-  15 => 
-  array (
-    0 => '"Do you know what a duvet is?...It\'s a blanket. Just a blanket.
- Now why do guys like you and me know what a duvet is?
- Is this essential to our survival, in the hunter-gatherer sense of the word? No. What are we then?...We are consumers. We\'re the byproducts of a lifestyle obsession."',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  16 => 
-  array (
-    0 => 'What we do not understand we do not possess.',
-    1 => 'Goethe',
-  ),
-  17 => 
-  array (
-    0 => 'Life shrinks or expands in proportion to one\'s courage.',
-    1 => 'Anais Nin',
-  ),
-  18 => 
-  array (
-    0 => 'Like the ski resort of girls looking for husbands and husbands looking for girls, the situation is not as symmetrical as it might seem.',
-    1 => 'Alan McKay',
-  ),
-  19 => 
-  array (
-    0 => 'Meet the first beginnings. Look to the budding mischief before it has time to ripen to maturity.',
-    1 => 'Shakespeare',
-  ),
-  20 => 
-  array (
-    0 => 'I wouldn\'t be human if I didn\'t feel pride and something that transcends pride humility.',
-    1 => 'James Cash Penney',
-  ),
-  21 => 
-  array (
-    0 => 'Lady Gaga is the present and the future. She is the most revolutionary and inspirational artist. She is fearless and daring.',
-    1 => 'Donatella Versace',
-  ),
-  22 => 
-  array (
-    0 => 'God requireth not a uniformity of religion.',
-    1 => 'Roger Williams',
-  ),
-  23 => 
-  array (
-    0 => 'Good ideas are like Nike sports shoes. They may facilitate success for an athlete who possesses them, but on their own they are nothing but an overpriced pair of sneakers. Sports shoes don\'t win races. Athletes do.',
-    1 => 'Felix Dennis',
-  ),
-  24 => 
-  array (
-    0 => 'Never sacrifice happiness for the sake of achievement. The real key to life is to happily achieve.',
-    1 => 'Robin Sharma',
-  ),
-);
+return [
+    [
+        'Life is too short to be scared and not take risks. I\'d rather be the person that\'s like, \'I messed up,\' than, \'I wish I did that.\'',
+        'Ridley Scott',
+    ],
+    [
+        'Beauty is a fragile gift.',
+        'Ovid',
+    ],
+    [
+        'We are embedded in a biological world and related to the organisms around us.',
+        'Walter Gilbert',
+    ],
+    [
+        'All the rappers my age are getting Audemars and Rolexes. I want to find my own thing. That\'s why I travel the world - for me, that\'s my B-side, why we go places. I have a Hublot on from time to time but I want a home base watch - something that\'s elegant but has got a little pizzazz to it.',
+        'Wale',
+    ],
+    [
+        'Working with Chiranjeevi sir, I realized the professionalism and attitude they used work with. It\'s just so contagious. When such a personality is doing that, everyone around, too, would do that out of respect. Work was far more efficient, smoother.',
+        'Kajal Aggarwal',
+    ],
+    [
+        'I consider that a man\'s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose.',
+        'Arthur Conan Doyle',
+    ],
+    [
+        'I\'ve never liked my smile, you see. I should have had braces as a kid, but I was too proud and too vain. And I didn\'t want to be bullied at school.',
+        'Ricky Whittle',
+    ],
+    [
+        'Negligence is the rust of the soul, that corrodes through all her best resolves.',
+        'Owen Feltham',
+    ],
+    [
+        'A home with a loving and loyal husband and wife is the supreme setting in which children can be reared in love and righteousness and in which the spiritual and physical needs of children can be met.',
+        'David A. Bednar',
+    ],
+    [
+        'To some extent, people who are insane are nonconformists, and society and their family wish they would live what appear to be useful lives.',
+        'John Forbes Nash, Jr.',
+    ],
+    [
+        'There is no right time and right place for love... it can happen any time.',
+        'Shah Rukh Khan',
+    ],
+    [
+        'Life is a moderately good play with a badly written third act.',
+        'Kid Cudi',
+    ],
+    [
+        'I wish I could just go tell all the young women I work with, all these fabulous women, \'Believe in yourself and negotiate for yourself. Own your own success.\' I wish I could tell that to my daughter. But it\'s not that simple.',
+        'Sheryl Sandberg',
+    ],
+    [
+        'I\'ve done so much travelling in the past few years, and when you travel, you realise that we do actually have a cool, clean look in Scandinavia - it\'s not just Denmark - which I think brings peace if you have it in your home.',
+        'Birgitte Hjort Sorensen',
+    ],
+    [
+        'A period of detention in a chilly upstate facility can be a great attitude adjuster.',
+        'Judy Sheindlin',
+    ],
+    [
+        'Humility is the true key to success. Successful people lose their way at times. They often embrace and overindulge from the fruits of success. Humility halts this arrogance and self-indulging trap. Humble people share the credit and wealth, remaining focused and hungry to continue the journey of success.',
+        'Rick Pitino',
+    ],
+    [
+        'I never assumed I would have that commercial success, so it was a total surprise. And honestly, I never assumed that it would ever happen again.',
+        'Tracy Chapman',
+    ],
+    [
+        'I can\'t let time move on without fighting tooth and nail and hopefully being a part of a revolution that is positive.',
+        'Ian Somerhalder',
+    ],
+    [
+        'There\'s no such thing as soy milk. It\'s soy juice.',
+        'Lewis Black',
+    ],
+    [
+        'It was all so far away - there was quiet and an untouched feel to the country and I could work as I pleased.',
+        'Georgia O\'Keeffe',
+    ],
+    [
+        'It\'s OK to not be OK, as long as you don\'t stay that way.',
+        'Anonymous',
+    ],
+    [
+        'She gave up beauty in her tender youth, gave all her hope and joy and pleasant ways; she covered up her eyes lest they should gaze on vanity, and chose the bitter truth.',
+        'Christina Rossetti',
+    ],
+    [
+        'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.',
+        'Marcus Aurelius',
+    ],
+    [
+        'The doors we open and close each day decide the lives we live.',
+        'Flora Whittemore',
+    ],
+    [
+        'War is just a racket. A racket is best described, I believe, as something that is not what it seems to the majority of people. Only a small inside group knows what it is about. It is conducted for the benefit of the very few at the expense of the masses.',
+        'Smedley Butler',
+    ],
+];

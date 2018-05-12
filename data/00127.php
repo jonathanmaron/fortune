@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If you\'ve seen one Grand Canyon, you\'ve seen them all.',
-    1 => 'a member of the Monkey Wrench Gang',
-  ),
-  1 => 
-  array (
-    0 => 'Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend. Gratitude makes sense of our past, brings peace for today and creates a vision for tomorrow.',
-    1 => 'Melodie Beattie',
-  ),
-  2 => 
-  array (
-    0 => 'He didn\'t say that. He was reading what was given to him in a speech.',
-    1 => 'Richard Darman, director of OMB, explaining why President Bush wasn\'t following up on his campaign pledge that there would be no loss of wetlands',
-  ),
-  3 => 
-  array (
-    0 => 'Act as if what you do makes a difference. It does.',
-    1 => 'William James',
-  ),
-  4 => 
-  array (
-    0 => 'Let us sacrifice our today so that our children can have a better tomorrow.',
-    1 => 'A. P. J. Abdul Kalam',
-  ),
-  5 => 
-  array (
-    0 => 'Most important in a friendship? Tolerance and loyalty',
-    1 => 'J.K. Rowling',
-  ),
-  6 => 
-  array (
-    0 => 'While some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.',
-    1 => 'Apple Computer Inc.',
-  ),
-  7 => 
-  array (
-    0 => 'Listening to people keeps them entertained.',
-    1 => 'Mason Cooley',
-  ),
-  8 => 
-  array (
-    0 => 'Ah, but a man\'s reach should exceed his grasp, Or what\'s a heaven for?',
-    1 => 'Robert Browning',
-  ),
-  9 => 
-  array (
-    0 => 'The power of imagination makes us infinite.',
-    1 => 'John Muir',
-  ),
-  10 => 
-  array (
-    0 => 'Live life to the fullest, and focus on the positive.',
-    1 => 'Matt Cameron',
-  ),
-  11 => 
-  array (
-    0 => 'Every program has at least one bug and can be shortened by at least one instruction',
-    1 => 'from which, by induction, one can deduce that every program can be reduced to one instruction which doesn\'t work.',
-  ),
-  12 => 
-  array (
-    0 => 'One day, I got so disgusted that I sat down and wrote a list called \'Justin\'s list of things to do before he kicks the bucket.\' I wrote it for myself and shortened it to \'Justin\'s Bucket List.\' It was there on the wall, not as a story idea but as a motivational tool for myself, which actually ended up working pretty well.',
-    1 => 'Justin Zackham',
-  ),
-  13 => 
-  array (
-    0 => 'Every portrait that is painted with feeling is a portrait of the artist, not the sitter',
-    1 => 'Oscar Wilde',
-  ),
-  14 => 
-  array (
-    0 => 'The way we do small things determines the way we do everything.',
-    1 => 'Robin Sharma',
-  ),
-  15 => 
-  array (
-    0 => 'I do like alternative rock and rap, but as far as inspirational, then I go full-on orchestra. It fills up your entire being.',
-    1 => 'Osric Chau',
-  ),
-  16 => 
-  array (
-    0 => 'Everything is political. I will never be a politician or even think political. Me just deal with life and nature. That is the greatest thing to me.',
-    1 => 'Bob Marley',
-  ),
-  17 => 
-  array (
-    0 => 'Our soul desires to be understanding, our ego is only concerned with being understood. When you are being understanding you are connected to your soul.',
-    1 => 'Michaiel Bovenes',
-  ),
-  18 => 
-  array (
-    0 => 'Mirrors should reflect a little before throwing back images.',
-    1 => 'Jean Cocteau',
-  ),
-  19 => 
-  array (
-    0 => 'Do not spoil what you have by desiring what you have not; but remember that what you now have was once among the things you only hoped for.',
-    1 => 'Epictetus',
-  ),
-  20 => 
-  array (
-    0 => 'There\'s a fine line between fishing and standing on the shore looking like an idiot.',
-    1 => 'Steven Wright',
-  ),
-  21 => 
-  array (
-    0 => 'Other people\'s success spurs me on to do well and gives me motivation.',
-    1 => 'Nicholas Hoult',
-  ),
-  22 => 
-  array (
-    0 => 'All that is valuable in human society depends upon the opportunity for development accorded the individual.',
-    1 => 'Albert Einstein',
-  ),
-  23 => 
-  array (
-    0 => 'Optimism is the foundation of courage.',
-    1 => 'Nicholas Murray Butler',
-  ),
-  24 => 
-  array (
-    0 => 'Do you have blacks, too?',
-    1 => 'George W. Bush, to Brazilian president Fernando Cardoso;
-           Washington, D.C., November 8, 2001',
-  ),
-);
+return [
+    [
+        'One of the disadvantages of wine is that it makes a man mistake words for thoughts.',
+        'Samuel Johnson',
+    ],
+    [
+        'No, I was never one of those positive people who believes he can have whatever he sets his sights on. I just kept working at it.',
+        'George Miller',
+    ],
+    [
+        'In three words I can sum up everything I\'ve learned about life: it goes on.',
+        'Philip Sidney',
+    ],
+    [
+        'Love is a canvas furnished by nature and embroidered by imagination.',
+        'Voltaire',
+    ],
+    [
+        'The road to success runs uphill.',
+        'Willie Davis',
+    ],
+    [
+        'I am a huge believer in giving back and helping out in the community and the world. Think globally, act locally I suppose. I believe that the measure of a person\'s life is the affect they have on others.',
+        'Laura Ingalls Wilder',
+    ],
+    [
+        'Typically, if you reward something, you get more of it. You punish something, you get less of it. And our businesses have been built for the last 150 years very much on that kind of motivational scheme.',
+        'Daniel H. Pink',
+    ],
+    [
+        'His smile is like the silver plate on a coffin.',
+        'John Philpot Curran',
+    ],
+    [
+        'My family\'s lineage, we are warriors. The McGregor clan, we are warriors all through. We are famous all through the world for our fighting capabilities of all generations. So I have no doubt that\'s stood to me and that led me down this path and gave me what I have.',
+        'Conor McGregor',
+    ],
+    [
+        'I like to put on hardcore when I have to clean my apartment, which I hate to do, but it\'s motivational. I like old heavy metal when I\'m outside working on my car. Music has definite functions for me.',
+        'Peter Steele',
+    ],
+    [
+        'I think anyone who\'s perfectly happy isn\'t particularly funny.',
+        'Joan Rivers',
+    ],
+    [
+        'Your personal life, your professional life, and your creative life are all intertwined. I went through a few very difficult years where I felt like a failure. But it was actually really important for me to go through that. Struggle, for me, is the most inspirational thing in the world at the end of the day - as long as you treat it that way.',
+        'Skylar Grey',
+    ],
+    [
+        'I attribute my success to my mental approach to the game. I have always been a serious student of umpiring. I enjoy studying rules, situations, and positioning.',
+        'Jim Evans',
+    ],
+    [
+        'The truth is always exciting. Speak it, then. Life is dull without it.',
+        'Pearl Buck',
+    ],
+    [
+        'Growing up in the days when you still had to punch buttons to make a telephone call, I could recall the numbers of all my close friends and family. Today, I\'m not sure if I know more than four phone numbers by heart. And that\'s probably more than most.',
+        'Joshua Foer',
+    ],
+    [
+        'Travel magazines are just one cupcake after another. They\'re not about travel. The travel magazine is, in fact, about the opposite of travel. It\'s about having a nice time on a honeymoon, or whatever.',
+        'Paul Theroux',
+    ],
+    [
+        'Science is the best idea humans have ever had. The more people who embrace that idea, the better.',
+        'Bill Nye',
+    ],
+    [
+        'I travel in so many different ways; I travel high, I rough it... it all depends on who I travel with.',
+        'Diane von Furstenberg',
+    ],
+    [
+        'Dirty martinis and music - that\'s the big motto in our family. We get the booze going, and the music starts playing. Always old-school hip-hop. Jay-Z. Tribe Called Quest. The Pharcyde. My parents love that stuff.',
+        'Matt Harvey',
+    ],
+    [
+        'Victory has a thousand fathers, but defeat is an orphan.',
+        'John F. Kennedy',
+    ],
+    [
+        'People who make money often make mistakes, and even have major setbacks, but they believe they will eventually prosper, and they see every setback as a lesson to be applied in their move towards success.',
+        'Jerry Gillies',
+    ],
+    [
+        'It is such a luxury to open a new book that\'s highly recommended by friends - either an inspirational yet humorously self-deprecating memoir, or a page-turning piece of fiction.',
+        'Kelli O\'Hara',
+    ],
+    [
+        'To be beautiful means to be yourself. You don\'t need to be accepted by others. You need to be yourself.',
+        'Thich Nhat Hanh',
+    ],
+    [
+        'Sometimes the most positive thing you can be in a boring society is absolutely negative.',
+        'John Lydon',
+    ],
+    [
+        'To look almost pretty is an acquisition of higher delight to a girl who has been looking plain for the first fifteen years of her life than a beauty from her cradle can ever receive.',
+        'Jane Austen',
+    ],
+];

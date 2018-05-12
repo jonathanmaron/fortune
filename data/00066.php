@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The first duty of a revolutionary is to get away with it.',
-    1 => 'Abbie Hoffman',
-  ),
-  1 => 
-  array (
-    0 => 'Take away your opinion, and you then take away the complaint, "I have been harmed." Take away the complaint, "I have been harmed," and the harm is taken away.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IV',
-  ),
-  2 => 
-  array (
-    0 => 'You bring out the best in yourself by looking for the best in others.',
-    1 => 'Gene Bedley',
-  ),
-  3 => 
-  array (
-    0 => 'Everything that is excellent will come when this sleeping soul is aroused to self conscious activity.',
-    1 => 'Swami Vivekananda',
-  ),
-  4 => 
-  array (
-    0 => 'The only person you need to compare yourself with is who you were yesterday.',
-    1 => 'Rushton Herley',
-  ),
-  5 => 
-  array (
-    0 => 'I think the success that I have is due to hard work and destiny. It is important to stay grounded and not take things for granted.',
-    1 => 'Alia Bhatt',
-  ),
-  6 => 
-  array (
-    0 => 'Dodging and burning are steps to take care of mistakes God made in establishing tonal relationships.',
-    1 => 'Ansel Adams',
-  ),
-  7 => 
-  array (
-    0 => 'In general, it is best to assume that the network is filled with malevolent entities that will send in packets designed to have the worst possible effect.',
-    1 => 'the draft "Requirements for Internet Hosts" RFC',
-  ),
-  8 => 
-  array (
-    0 => 'Work for that feeling that you have accomplished something... Don\'t waste your time on this earth without making a mark.',
-    1 => 'Joe Rogan',
-  ),
-  9 => 
-  array (
-    0 => 'Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.',
-    1 => 'Thomas A. Edison',
-  ),
-  10 => 
-  array (
-    0 => 'Once your mind stretches to a new level it never goes back to its original dimension.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  11 => 
-  array (
-    0 => 'Today is not the day I die.',
-    1 => 'Oberyn Martell',
-  ),
-  12 => 
-  array (
-    0 => 'No horse gets anywhere until he is harnessed. No stream or gas drives anything until it is confined. No Niagara is ever turned into light and power until it is tunneled. No life ever grows great until it is focused, dedicated, disciplined.',
-    1 => 'Harry Emerson Fosdick',
-  ),
-  13 => 
-  array (
-    0 => 'Diligence is the mother of good fortune.',
-    1 => 'Benjamin Disraeli',
-  ),
-  14 => 
-  array (
-    0 => 'When a small child, I thought that success spelled happiness. I was wrong, happiness is like a butterfly which appears and delights us for one brief moment, but soon flits away.',
-    1 => 'Anna Pavlova',
-  ),
-  15 => 
-  array (
-    0 => 'It is your destiny.',
-    1 => 'Darth Vader',
-  ),
-  16 => 
-  array (
-    0 => 'Silent gratitude isn\'t much use to anyone.',
-    1 => 'G.B. [Gladys Bertha] Stern',
-  ),
-  17 => 
-  array (
-    0 => 'Innovation distinguishes between a leader and a follower',
-    1 => 'Steve Jobs',
-  ),
-  18 => 
-  array (
-    0 => 'It is the difference of opinion that makes horse races.',
-    1 => 'Mark Twain',
-  ),
-  19 => 
-  array (
-    0 => 'I suppose your security is your success and your key to success is your fine palate.',
-    1 => 'Gordon Ramsay',
-  ),
-  20 => 
-  array (
-    0 => 'The only journey is the one within.',
-    1 => 'Rainer Maria Rilke',
-  ),
-  21 => 
-  array (
-    0 => 'Why isn\'t there a special name for the tops of your feet?',
-    1 => 'Lily Tomlin',
-  ),
-  22 => 
-  array (
-    0 => 'Genius is more about what you have the discipline to say no to versus yes to.',
-    1 => 'Robin Sharma',
-  ),
-  23 => 
-  array (
-    0 => 'It matters not what someone is born, but what they grow to be.',
-    1 => 'Dumbledore-The Goblet of Fire',
-  ),
-  24 => 
-  array (
-    0 => 'God\'s promises are like the stars; the darker the night the brighter they shine.',
-    1 => 'David Nicholas',
-  ),
-);
+return [
+    [
+        'Our distrust is very expensive.',
+        'Ralph Emerson',
+    ],
+    [
+        'I don\'t buy a lot when I travel, but when I do, I like to send gifts from wherever I am. It\'s fun to find the local post office.',
+        'Juliana Hatfield',
+    ],
+    [
+        'As our case is new, we must think and act anew.',
+        'Abraham Lincoln',
+    ],
+    [
+        'Wilderness is not a luxury but a necessity of the human spirit.',
+        'Edward Abbey',
+    ],
+    [
+        'Let him who would enjoy a good future waste none of his present.',
+        'Roger Babson',
+    ],
+    [
+        'Sometimes the biggest act of courage is a small one.',
+        'Lauren Raffo',
+    ],
+    [
+        'I always wanted to be somebody, but now I realize I should have been more specific.',
+        'Lily Tomlin',
+    ],
+    [
+        'Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.',
+        'Byron Pulsifer',
+    ],
+    [
+        'I don\'t say it in a cocky way, but I take pride in being one of the best at doing what I do.',
+        'Sean Combs',
+    ],
+    [
+        'Currently, only 70 percent of our high school students earn diplomas with their peers, and less than one-third of our high school students graduate prepared for success in a four-year college.',
+        'Ruben Hinojosa',
+    ],
+    [
+        'I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let\'s face it, friends make life a lot more fun.',
+        'John Dewey',
+    ],
+    [
+        'I strongly believe that through dedication and perseverance, one can overcome adversity to achieve success. It is a privilege to accept membership in the Horatio Alger Association, an organization which promotes this principle.',
+        'Ginni Rometty',
+    ],
+    [
+        'Whenever you have taken up work in hand, you must see it to the finish. That is the ultimate secret of success. Never, never, never give up!',
+        'Dada Vaswani',
+    ],
+    [
+        'Whether a plane to Singapore, a subway in Manhattan, or the streets of Cincinnati, I search for meaningful conversation wherever I may travel. Without it, I believe we lose the ability to not only understand others, but more importantly, ourselves.',
+        'Dhani Jones',
+    ],
+    [
+        'Life was always a matter of waiting for the right moment to act.',
+        'Baltasar Gracian',
+    ],
+    [
+        'Nobody got where they are today by living for tomorrow.',
+        'Jawaharlal Nehru',
+    ],
+    [
+        'We need to protect our wilderness areas and national parks. Everywhere you travel, you see blight, denuded mountains, logging. If people know what\'s going on, they\'ll become activists to safeguard those places.',
+        'Christie Brinkley',
+    ],
+    [
+        'My favorite room in the house is the living room. We have two big couches, six recliners and over 20 pillows. It\'s a really comfortable place to hang out with my family.',
+        'Cody Linley',
+    ],
+    [
+        'That term\'s definitely got a negative aura to it, because people think a diva is somebody with an attitude who demands things all the time. Of course there is that type of diva, but my idea of a diva has always been a singer - whether male or female - who gets on that stage and captivates you with their presence and their voice.',
+        'Jordin Sparks',
+    ],
+    [
+        'Before you put on a frown, make absolutely sure there are no smiles available.',
+        'Jim Beggs',
+    ],
+    [
+        'I cry at anything remotely touching - smile at me warmly and I\'m off... television also does it, everything from \'X-Factor\' to cereal commercials. I cry when I am tired. I also cry when I laugh.',
+        'Natalie Massenet',
+    ],
+    [
+        'Soup is a lot like a family. Each ingredient enhances the others; each batch has its own characteristics; and it needs time to simmer to reach full flavor.',
+        'Marge Kennedy',
+    ],
+    [
+        'The further we distance ourselves from the spell of the present, explored by our senses, the harder it will be to understand and protect nature\'s precarious balance, let alone the balance of our own human nature.',
+        'Diane Ackerman',
+    ],
+    [
+        'I\'m for whatever gets you through the night.',
+        'Frank Sinatra',
+    ],
+    [
+        'I think anything is possible if you have the mindset and the will and desire to do it and put the time in.',
+        'Roger Clemens',
+    ],
+];

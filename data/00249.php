@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Patriotism is supporting your country all the time, and your government when it deserves it.',
-    1 => 'Mark Twain',
-  ),
-  1 => 
-  array (
-    0 => 'For marriage to be a success, every woman and every man should have her and his own bathroom. The end.',
-    1 => 'Catherine Zeta-Jones',
-  ),
-  2 => 
-  array (
-    0 => 'Power is of two kinds. One is obtained by the fear of punishment and the other by acts of love. Power based on love is a thousand times more effective and permanent then the one derived from fear of punishment.',
-    1 => 'Mohandas Karamchand Gandhi',
-  ),
-  3 => 
-  array (
-    0 => 'Failure is the condiment that gives success its flavor.',
-    1 => 'Truman Capote',
-  ),
-  4 => 
-  array (
-    0 => 'It is amusing that a virtue is made of the vice of chastity; and it\'s a pretty odd sort of chastity at that, which leads men straight into the sin of Onan, and girls to the waning of their color.',
-    1 => 'Voltaire',
-  ),
-  5 => 
-  array (
-    0 => 'Go the extra mile -- it\'s never crowded.',
-    1 => 'Anonymous',
-  ),
-  6 => 
-  array (
-    0 => 'Wherever you are is the entry point.',
-    1 => 'Kabirdas',
-  ),
-  7 => 
-  array (
-    0 => 'Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.',
-    1 => 'Albert Einstein',
-  ),
-  8 => 
-  array (
-    0 => 'Success has nothing to do with what you gain in life or accomplish for yourself. It\'s what you do for others.',
-    1 => 'Danny Thomas',
-  ),
-  9 => 
-  array (
-    0 => 'It always seems impossible until its done.',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  10 => 
-  array (
-    0 => 'Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure.',
-    1 => 'Oprah Winfrey',
-  ),
-  11 => 
-  array (
-    0 => 'Only I can change my life. No one can do it for me.',
-    1 => 'Carol Burnett',
-  ),
-  12 => 
-  array (
-    0 => 'All our dreams can come true, if we have the courage to pursue them.',
-    1 => 'Walt Disney',
-  ),
-  13 => 
-  array (
-    0 => 'You must never be fearful about what you are doing when it is right.',
-    1 => 'Rosa Parks',
-  ),
-  14 => 
-  array (
-    0 => 'To be successful you have to be lucky, or a little mad, or very talented, or find yourself in a rapid growth field.',
-    1 => 'Edward de Bono',
-  ),
-  15 => 
-  array (
-    0 => 'Strong is the soul, kind, and wise, and beautiful.',
-    1 => 'Matthew Arnold',
-  ),
-  16 => 
-  array (
-    0 => 'Too many of us are not living our dreams because we are living our fears.',
-    1 => 'Les Brown',
-  ),
-  17 => 
-  array (
-    0 => 'There\'s enormous progressive activism and, more often than not, success at the grassroots level - everything from living wage campaigns to efforts to finance our elections are having terrific success.',
-    1 => 'Jim Hightower',
-  ),
-  18 => 
-  array (
-    0 => 'Start by doing what\'s necessary; then do what\'s possible, and suddenly you\'re doing the impossible.',
-    1 => 'Francis of Assisi',
-  ),
-  19 => 
-  array (
-    0 => 'Almost no one is foolish enough to imagine that he automatically deserves great success in any field of activity; yet almost everyone believes that he automatically deserves success in marriage.',
-    1 => 'Sydney J. Harris',
-  ),
-  20 => 
-  array (
-    0 => 'I do not like to repeat successes, I like to go on to other things.',
-    1 => 'Walt Disney',
-  ),
-  21 => 
-  array (
-    0 => 'I beg you to have patience with everything unresolved in your heart and try to love the questions themselves...Don\'t search for the answers, which could not be given to you now...the point is, to live everything. Live the questions now.',
-    1 => 'Rainer Maria Rilke',
-  ),
-  22 => 
-  array (
-    0 => 'It\'s hard for a man to live with a successful woman - they seem to resent you so much. Very few men are generous enough to accept success in their women.',
-    1 => 'Shirley Bassey',
-  ),
-  23 => 
-  array (
-    0 => 'I am not a product of my circumstances. I am a product of my decisions.',
-    1 => 'Stephen Covey',
-  ),
-  24 => 
-  array (
-    0 => 'The more real you get, the more unreal the world gets.',
-    1 => 'John Lennon',
-  ),
-);
+return [
+    [
+        'There is no easy way from the earth to the stars',
+        'Seneca',
+    ],
+    [
+        'I do engage veterans. I meet with the veterans\' service organizations monthly. It\'s a direct, no-holds-barred discussion. I travel to their conventions, where I speak to the veterans membership. I do travel. I\'ve been to all 50 states. When I do, I engage veterans locally. So I get direct feedback from those veterans.',
+        'Eric Shinseki',
+    ],
+    [
+        'It\'s wonderful to travel with somebody that you love and we never travel anywhere without one another.',
+        'Roger Moore',
+    ],
+    [
+        'Negotiation means getting the best of your opponent.',
+        'Marvin Gaye',
+    ],
+    [
+        'The number of stressors has multiplied exponentially: traffic, money, success, work/life balance, the economy, the environment, parenting, family conflict, relationships, disease. As the nature of human life has become far more complicated, our ancient stress response hasn\'t been able to keep up.',
+        'Andrew J. Bernstein',
+    ],
+    [
+        'Good is positive. Evil is merely privative, not absolute: it is like cold, which is the privation of heat. All evil is so much death or nonentity. Benevolence is absolute and real. So much benevolence as a man hath, so much life hath he.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'I love to travel. I\'m a curious person.',
+        'Hilary Swank',
+    ],
+    [
+        'It may be a masculine attitude to take lovers, but it\'s definitely prevalent. I\'m certainly not the oldest person doing it - not that I\'m doing it right now, but when I was.',
+        'Diana Rigg',
+    ],
+    [
+        'Corruption, embezzlement, fraud, these are all characteristics which exist everywhere. It is regrettably the way human nature functions, whether we like it or not. What successful economies do is keep it to a minimum. No one has ever eliminated any of that stuff.',
+        'Alan Greenspan',
+    ],
+    [
+        'My family and I are so close, it\'s important to have a close knit relationship and to make time to spend with each other, especially at the holidays.',
+        'Gia Coppola',
+    ],
+    [
+        'I never feel lonely if I\'ve got a book - they\'re like old friends. Even if you\'re not reading them over and over again, you know they are there. And they\'re part of your history. They sort of tell a story about your journey through life.',
+        'John Locke',
+    ],
+    [
+        'No one\'s going to be able to operate without a grounding in the basic sciences. Language would be helpful, although English is becoming increasingly international. And travel. You have to have a global attitude.',
+        'Rupert Murdoch',
+    ],
+    [
+        'If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.',
+        'Ajahn Chah',
+    ],
+    [
+        'The more you know yourself, the more you forgive yourself.',
+        'Confucius',
+    ],
+    [
+        'Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on.',
+        'Paula Abdul',
+    ],
+    [
+        'One of the best things that ever happened to me is that I\'m a woman. That is the way all females should feel.',
+        'Marilyn Monroe',
+    ],
+    [
+        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
+        'Evgeny Morozov',
+    ],
+    [
+        'Your ordinary acts of love and hope point to the extraordinary promise that every human life is of inestimable value.',
+        'Desmond Tutu',
+    ],
+    [
+        'When you\'re working hard and doing all you can to achieve your goals, anything that can give you an edge is powerful and will streamline your path to success.',
+        'Travis Bradberry',
+    ],
+    [
+        'Beauty is boring because it is predictable.',
+        'Umberto Eco',
+    ],
+    [
+        'In order to succeed, we must first believe that we can.',
+        'Nikos Kazantzakis',
+    ],
+    [
+        'With the success of a show, you get an opportunity to call attention to things that you believe in.',
+        'Bradley Whitford',
+    ],
+    [
+        'If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.',
+        'Henry David Thoreau',
+    ],
+    [
+        'Each day is a little life: every waking and rising a little birth, every fresh morning a little youth, every going to rest and sleep a little death.',
+        'Swami Vivekananda',
+    ],
+    [
+        'I fly economy. I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
+        'Gene Simmons',
+    ],
+];

@@ -1,132 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Devotion, when it does not lie under the check of reason, is apt to degenerate into enthusiasm.',
-    1 => 'Joseph Addison',
-  ),
-  1 => 
-  array (
-    0 => 'Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got to keep going.',
-    1 => 'Chantal Sutherland',
-  ),
-  2 => 
-  array (
-    0 => 'The best things in life are unexpected, because there were no expectations.',
-    1 => 'Eli Khamarov',
-  ),
-  3 => 
-  array (
-    0 => 'By now, you\'ve probably caught on to something: my mother is always standing by with just the right Scripture or inspirational saying to get me through any tough situation.',
-    1 => 'Gabby Douglas',
-  ),
-  4 => 
-  array (
-    0 => 'I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone.',
-    1 => 'Henry Rollins',
-  ),
-  5 => 
-  array (
-    0 => 'A key to achieving success is to assemble a strong and stable management team.',
-    1 => 'Vivek Wadhwa',
-  ),
-  6 => 
-  array (
-    0 => 'Pioneering basically amounts to finding new and more horrible ways to die',
-    1 => 'John W. Campbell',
-  ),
-  7 => 
-  array (
-    0 => 'We are all in the gutter, but some of us are looking at the stars.',
-    1 => 'Oscar Wilde',
-  ),
-  8 => 
-  array (
-    0 => 'Life is too deep for words, so don\'t try to describe it, just live it.',
-    1 => 'C.S. Lewis',
-  ),
-  9 => 
-  array (
-    0 => 'Success listens only to applause. To all else it is deaf.',
-    1 => 'Elias Canetti',
-  ),
-  10 => 
-  array (
-    0 => 'There is a wonderful mythical law of nature that the three things we crave most in life-happiness, freedom, and peace of mind-are always attained by giving them to someone else.',
-    1 => 'Peyton C. March',
-  ),
-  11 => 
-  array (
-    0 => 'Aim above morality. Be not simply good, be good for something.',
-    1 => 'Henry David Thoreau',
-  ),
-  12 => 
-  array (
-    0 => 'What we think, we become.',
-    1 => 'Buddha',
-  ),
-  13 => 
-  array (
-    0 => 'If I didn\'t start painting, I would have raised chickens',
-    1 => 'William Lyon Phelps',
-  ),
-  14 => 
-  array (
-    0 => 'Sincere forgiveness isn\'t colored with expectations that the other person apologize or change. Don\'t worry whether or not they finally understand you. Love them and release them. Life feeds back truth to people in its own way and time',
-    1 => 'Sara Paddison',
-  ),
-  15 => 
-  array (
-    0 => 'What is defeat? Nothing but education; nothing but the first step to something better.',
-    1 => 'Wendell Phillips',
-  ),
-  16 => 
-  array (
-    0 => 'It\'s the constant and determined effort that breaks down all resistance, sweeps away all obstacles.',
-    1 => 'Claude M. Briston',
-  ),
-  17 => 
-  array (
-    0 => 'No person ever ended his eyesight by looking on the bright side.',
-    1 => 'William Wordsworth',
-  ),
-  18 => 
-  array (
-    0 => 'The art of effective listening is essential to clear communication, and clear communication is necessary to management success.',
-    1 => 'James Cash Penney',
-  ),
-  19 => 
-  array (
-    0 => 'Winners don\'t do different things; they do things differently',
-    1 => 'Shiv Khera',
-  ),
-  20 => 
-  array (
-    0 => 'Alack, when once our grace we have forgot, Nothing goes right; we would, and we would not.',
-    1 => 'William Shakespeare',
-  ),
-  21 => 
-  array (
-    0 => 'Some people go to priests; others to poetry; I to my friends.',
-    1 => 'Virginia Woolf',
-  ),
-  22 => 
-  array (
-    0 => 'I have not failed. I\'ve just found 10,000 ways that won\'t work.',
-    1 => 'Thomas Edison',
-  ),
-  23 => 
-  array (
-    0 => 'There are three rules.
-1. If you do not go after what you want, you will never have it.
-2. If you do not ask, the answer will always be no.
-3. If you do not step forward, you will remain in the same place.',
-    1 => 'Unknown',
-  ),
-  24 => 
-  array (
-    0 => 'The love of money is only one among many.',
-    1 => 'Alfred Marshall',
-  ),
-);
+return [
+    [
+        'If you want to achieve greatness stop asking for permission.',
+        'Unknown',
+    ],
+    [
+        'Chaotic people often have chaotic lives, and I think they create that. But if you try and have an inner peace and a positive attitude, I think you attract that.',
+        'Imelda Staunton',
+    ],
+    [
+        'The most difficult thing in life is to know yourself.',
+        'Martin Freeman',
+    ],
+    [
+        'People say funny things all the time during really serious moments in life.',
+        'Mark Ruffalo',
+    ],
+    [
+        'The negative is just as important as the positive.',
+        'Ellsworth Kelly',
+    ],
+    [
+        'Also, it\'s risky to try to duplicate earlier success. Magician had a certain charm to it, mostly due to my choice of lead characters, that I would be hard put to duplicate.',
+        'Raymond E. Feist',
+    ],
+    [
+        'The culture of a workplace - an organization\'s values, norms and practices - has a huge impact on our happiness and success.',
+        'Adam Grant',
+    ],
+    [
+        'People spend too much time finding other people to blame, too much energy finding excuses for not being what they are capable of being, and not enough energy putting themselves on the line, growing out of the past, and getting on with their lives.',
+        'J. Michael Straczynski',
+    ],
+    [
+        'Time travel used to be thought of as just science fiction, but Einstein\'s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.',
+        'Stephen Hawking',
+    ],
+    [
+        'Set a goal to achieve something that is so big, so exhilarating that it excites you and scares you at the same time.',
+        'Bob Proctor',
+    ],
+    [
+        'Success represents the 1% of your work which results from the 99% that is called failure.',
+        'Soichiro Honda',
+    ],
+    [
+        'I\'ve got a bunch of books... I rely on funny books and movies to cheer me up. Oh, but I must say, I do have the world\'s most perfect husband, so a cuddle from him always cheers me up. He\'s a good guy.',
+        'Wendi McLendon-Covey',
+    ],
+    [
+        'From the beginning, I\'ve always had a knack for catchy melodies. But I went through a period when I was trying to be rock n\' roll and have a rock n\' roll attitude. I was fighting my nature by trying to play really hard and sing really hard. But at a certain point, I realized that I loved syrupy pop music with tons of harmony.',
+        'Juliana Hatfield',
+    ],
+    [
+        'Every video I\'ve made has an inspirational message behind it. Since day one, I thought, \'Okay, I want my audience to be, like, Disney members.\' So if that\'s the case, I have to keep everything rated G.',
+        'Michelle Phan',
+    ],
+    [
+        'The police are the public and the public are the police; the police being only members of the public who are paid to give full time attention to duties which are incumbent on every citizen in the interests of community welfare and existence.',
+        'Robert Peel',
+    ],
+    [
+        'I\'m not sure what the future holds but I do know that I\'m going to be positive and not wake up feeling desperate. As my dad said \'Nic, it is what it is, it\'s not what it should have been, not what it could have been, it is what it is.\'',
+        'Nicole Kidman',
+    ],
+    [
+        'There\'s a fine line between angry and grumpy. Angry isn\'t nice, but grumpy is funny.',
+        'Rick Wakeman',
+    ],
+    [
+        'I had to create some good work habits and attitude.',
+        'S. Truett Cathy',
+    ],
+    [
+        'Perseverance is not a long race; it is many short races one after the other.',
+        'Walter Elliot',
+    ],
+    [
+        'You see, with me, when I\'m nervous, I smile and laugh.',
+        'Paula Radcliffe',
+    ],
+    [
+        'That\'s what makes Linux so good: you put in something, and that effort multiplies. It\'s a positive feedback cycle.',
+        'Linus Torvalds',
+    ],
+    [
+        'In raising children, we need to continuously keep in mind how we can best create the most favorable environment for their imitative behavior. Everything done in the past regarding imitation must become more and more conscious and more and more consciously connected with the future.',
+        'Rudolf Steiner',
+    ],
+    [
+        'I try to not work too many Sundays. At least on Sunday nights, I try to chill out a little bit. I call it Sunday Funday.',
+        'Miley Cyrus',
+    ],
+    [
+        'Truth is, I\'ll never know all there is to know about you just as you will never know all there is to know about me. Humans are by nature too complicated to be understood fully. So, we can choose either to approach our fellow human beings with suspicion or to approach them with an open mind, a dash of optimism and a great deal of candour.',
+        'Tom Hanks',
+    ],
+    [
+        'The will to succeed is important, but what\'s more important is the will to prepare.',
+        'Bobby Knight',
+    ],
+];

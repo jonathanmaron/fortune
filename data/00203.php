@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Friends are helpful not only because they will listen to us, but because they will laugh at us; Through them we learn a little objectivity, a little modesty, a little courtesy; We learn the rules of life and become better players of the game.',
-    1 => 'Will Durant',
-  ),
-  1 => 
-  array (
-    0 => 'Loyalty means nothing unless it has at its heart the absolute principle of self-sacrifice.',
-    1 => 'Woodrow Wilson',
-  ),
-  2 => 
-  array (
-    0 => 'Life is a negotiation. We all want. We all give to get what we want.',
-    1 => 'Mordin Solus',
-  ),
-  3 => 
-  array (
-    0 => 'All Birds find shelter during a rain. But Eagle avoids rain by flying above the Clouds.',
-    1 => 'A.P.J Abdul Kalam',
-  ),
-  4 => 
-  array (
-    0 => 'Why talk of the team when our Cricket Board is like an exclusive club with members being there for years on end? If they can stay on without performing, the players too feel they can stay in the team without too big a performance.',
-    1 => 'Sunil Gavaskar',
-  ),
-  5 => 
-  array (
-    0 => 'Freedom is what you do with what\'s been done to you.',
-    1 => 'Jean-Paul Sartre',
-  ),
-  6 => 
-  array (
-    0 => 'In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.',
-    1 => 'Theodore Roosevelt',
-  ),
-  7 => 
-  array (
-    0 => 'The number one reason people fail in life is because they listen to their friends, family, and neighbors.',
-    1 => 'Napoleon Hill',
-  ),
-  8 => 
-  array (
-    0 => 'You don\'t have to explain something you never said.',
-    1 => 'Calvin Coolidge',
-  ),
-  9 => 
-  array (
-    0 => 'Be honorable yourself if you wish to associate with honorable people.',
-    1 => 'Welsh Proverb',
-  ),
-  10 => 
-  array (
-    0 => 'Success means doing the best we can with what we have. Success is the doing, not the getting; in the trying, not the triumph. Success is a personal standard, reaching for the highest that is in us, becoming all that we can be.',
-    1 => 'Zig Ziglar',
-  ),
-  11 => 
-  array (
-    0 => 'Real success is finding you lifework in the work that you love.',
-    1 => 'David McCullough',
-  ),
-  12 => 
-  array (
-    0 => 'Don\'t let today\'s disappointments cast a shadow on tomorrow\'s dreams.',
-    1 => 'Unknown',
-  ),
-  13 => 
-  array (
-    0 => 'In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art.',
-    1 => 'Rumi',
-  ),
-  14 => 
-  array (
-    0 => 'Perfection is not attainable, but if we chase perfection we can catch excellence.',
-    1 => 'Vince Lombardi',
-  ),
-  15 => 
-  array (
-    0 => 'If opportunity doesn\'t knock, build a door.',
-    1 => 'Milton Berle',
-  ),
-  16 => 
-  array (
-    0 => 'We\'re the weirdest monkeys ever.',
-    1 => 'Karl Lehenbauer',
-  ),
-  17 => 
-  array (
-    0 => 'Learn what is to be taken seriously and laugh at the rest.',
-    1 => 'Hermann Hesse',
-  ),
-  18 => 
-  array (
-    0 => 'I\'m lucky to be part of a team who help to make me look good, and they deserve as much of the credit for my success as I do for the hard work we have all put in on the training ground.',
-    1 => 'Lionel Messi',
-  ),
-  19 => 
-  array (
-    0 => 'Skills are cheap. Passion is priceless.',
-    1 => 'Gary Vaynerchuk',
-  ),
-  20 => 
-  array (
-    0 => 'A moment of patience in a moment of anger can help us avoid a thousand moments of sorrow.',
-    1 => 'Imam Ali (A.S.)',
-  ),
-  21 => 
-  array (
-    0 => 'No person was ever honored for what he received. Honor has been the reward for what he gave.',
-    1 => 'Calvin Coolidge',
-  ),
-  22 => 
-  array (
-    0 => 'Aim for the moon. If you miss, you may hit a star.',
-    1 => 'W. Clement Stone',
-  ),
-  23 => 
-  array (
-    0 => 'Every strike brings me closer to the next home run.',
-    1 => 'Babe Ruth',
-  ),
-  24 => 
-  array (
-    0 => 'You can never cross the ocean until you have the courage to lose sight of the shore.',
-    1 => 'Christopher Columbus',
-  ),
-);
+return [
+    [
+        'As happy a man as any in the world, for the whole world seems to smile upon me!',
+        'Samuel Pepys',
+    ],
+    [
+        'To hear people saying, \'The music you are doing has really touched my life and it\'s moved me in a lot of ways. It\'s helped me get through some tough times.\' That\'s the best compliment that you could get.',
+        'Kip Moore',
+    ],
+    [
+        'Snowboarding\'s tough, because you\'ve got to go to the mountains. For me, I love the skateboard season because I get to hangout at home and still be skating. I don\'t have to travel to Norway or Japan or these crazy places to be snowboarding.',
+        'Shaun White',
+    ],
+    [
+        'Hard work opens doors and shows the world that you are serious about being one of those rare - and special - human beings who use the fullness of their talents to do their very best.',
+        'Robin S. Sharma',
+    ],
+    [
+        'I don\'t follow anything blindly. I have to know the entire thing, if I have to get in to it. It might sound funny to you, but it\'s like using English language. I use an English word only when I know its meaning and understand its connotation. You won\'t hear me say, \'What\'s up, dude\' or anything like that just for the heck of it.',
+        'Kailash Kher',
+    ],
+    [
+        'Focused. I\'m a hustler. And my hustle is trying to figure out the best ways to do what I like without having to do much else.',
+        'Mos Def',
+    ],
+    [
+        'When I write a goal down - and I truly write them down - it becomes a part of me. That\'s a contract that I sign with myself to say, \'I don\'t care what happens - I\'m going to stay on this path. I\'m going to try and see this through; I\'m going to give it my best shot, my best effort.\'',
+        'Gail Devers',
+    ],
+    [
+        'What do we live for, if it is not to make life less difficult for each other?',
+        'George Eliot',
+    ],
+    [
+        'We learned about dignity and decency - that how hard you work matters more than how much you make... that helping others means more than just getting ahead yourself.',
+        'Michelle Obama',
+    ],
+    [
+        'Work is much more fun than fun.',
+        'Noel Coward',
+    ],
+    [
+        'One of the best paradoxes of leadership is a leader\'s need to be both stubborn and open-minded. A leader must insist on sticking to the vision and stay on course to the destination. But he must be open-minded during the process.',
+        'Simon Sinek',
+    ],
+    [
+        'I come from a family of strong women, who have been positive role models for me.',
+        'Laura Harrier',
+    ],
+    [
+        'Positive feelings come from being honest about yourself and accepting your personality, and physical characteristics, warts and all; and, from belonging to a family that accepts you without question.',
+        'Willard Scott',
+    ],
+    [
+        'I want to be a positive influence. I want to be someone who they want to call in and want here consistently, regardless of my role.',
+        'Landon Donovan',
+    ],
+    [
+        'My agent says that I\'m a \'repeat business guy.\' If you hire me to come do a movie, I\'ll be on time, know all my material, be ready to go, have a good attitude. I\'m here to work, so I get hired over and over again by the same producers. If you just be a team player on set you can work so much more often.',
+        'Dean Cain',
+    ],
+    [
+        'Silence is true wisdom\'s best reply.',
+        'Euripides',
+    ],
+    [
+        'The fox has many tricks. The hedgehog has but one. But that is the best of all.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'The miracle is not that we do this work, but that we are happy to do it.',
+        'Mother Teresa',
+    ],
+    [
+        'I think the rise of China is one of the great events of all economic and human history, and I think this will be overwhelmingly a positive thing for the region and the world.',
+        'Paul Keating',
+    ],
+    [
+        'Everything you need for better future and success has already been written. And guess what? All you have to do is go to the library.',
+        'Henri Frederic Amiel',
+    ],
+    [
+        'The universe is full of magical things, patiently waiting for our wits to grow sharper.',
+        'Eden Phillpotts',
+    ],
+    [
+        'One important key to success is self-confidence. An important key to self-confidence is preparation.',
+        'Arthur Ashe',
+    ],
+    [
+        'I would love to go back to any time in European history, especially in Irish history, to the second or third century, prior to the arrival of Christianity when Paganism flourished. I can always go back there in my imagination, of course. It doesn\'t cost anything, and it\'s a form of time travel, I suppose.',
+        'Gabriel Byrne',
+    ],
+    [
+        'I couldn\'t buy my way - I had to work my way. What a great quote: \'I couldn\'t buy my way into success, I had to work my way into success.\'',
+        'Stewart Rahr',
+    ],
+    [
+        'What we observe is not nature itself, but nature exposed to our method of questioning.',
+        'Werner Heisenberg',
+    ],
+];

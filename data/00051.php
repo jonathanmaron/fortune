@@ -1,133 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'While formal schooling is an important advantage, it is not a guarantee of success nor is its absence a fatal handicap.',
-    1 => 'Ray Kroc',
-  ),
-  1 => 
-  array (
-    0 => 'Note how good you feel after you have encouraged someone else. No other argument is necessary to suggest that never miss the opportunity to give encouragement.',
-    1 => 'George Burton Adams',
-  ),
-  2 => 
-  array (
-    0 => 'The highest vocation we can have is Love. Love in action is service.',
-    1 => 'Ken Essien',
-  ),
-  3 => 
-  array (
-    0 => 'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
-    1 => 'Albert Einstein',
-  ),
-  4 => 
-  array (
-    0 => 'The price of greatness is responsibility.',
-    1 => 'Sir Winston Churchill',
-  ),
-  5 => 
-  array (
-    0 => 'Great achievement always requires great sacrifice.',
-    1 => 'Robin Sharma',
-  ),
-  6 => 
-  array (
-    0 => 'I have always believed, and I still believe, that whatever good or bad fortune may come our way we can always give it meaning and transform it into something of value.',
-    1 => 'Hermann Hesse',
-  ),
-  7 => 
-  array (
-    0 => 'Travel far enough, you meet yourself.',
-    1 => 'David Mitchell',
-  ),
-  8 => 
-  array (
-    0 => 'The harder you fall, the higher you bounce.',
-    1 => 'Doug Horton',
-  ),
-  9 => 
-  array (
-    0 => 'Gamble everything for love, if you are a true human being. Halfheartedness does not reach into majesty.',
-    1 => 'Rumi',
-  ),
-  10 => 
-  array (
-    0 => 'What is success? It is a toy balloon among children armed with pins.',
-    1 => 'Gene Fowler',
-  ),
-  11 => 
-  array (
-    0 => 'The authentic self is the soul made visible.',
-    1 => 'Sarah Ban Breathnach',
-  ),
-  12 => 
-  array (
-    0 => 'Ambition has one heel nailed in well, though she stretch her fingers to touch the heavens.',
-    1 => 'Lao Tzu',
-  ),
-  13 => 
-  array (
-    0 => 'Life is what happens to you while you\'re busy making other plans.',
-    1 => 'John Lennon',
-  ),
-  14 => 
-  array (
-    0 => 'Teachers need to be more inspirational. But it\'s also up to engineering to make itself more interesting.',
-    1 => 'Bruce Dickinson',
-  ),
-  15 => 
-  array (
-    0 => 'I\'ll tell you, there is nothing better in life than being a late bloomer. I believe that success can happen at any time and at any age.',
-    1 => 'Salma Hayek',
-  ),
-  16 => 
-  array (
-    0 => 'Without continual growth and progress, such words as improvement, achievement, and success have no meaning.',
-    1 => 'Benjamin Franklin',
-  ),
-  17 => 
-  array (
-    0 => 'I have a simple philosophy:
-        Fill what\'s empty.
-        Empty what\'s full.
-        Scratch where it itches.',
-    1 => 'A. R. Longworth',
-  ),
-  18 => 
-  array (
-    0 => 'The need for devotion to something outside ourselves is even more profound than the need for companionship. If we are not to go to pieces or wither away, we must have some purpose in life; for no man can live for himself alone.',
-    1 => 'Ross Parmenter',
-  ),
-  19 => 
-  array (
-    0 => 'Great spirits have always encountered violent opposition from mediocre minds.',
-    1 => 'Albert Einstein',
-  ),
-  20 => 
-  array (
-    0 => 'A man should be able to hear, and to bear, the worst that could be said of him.',
-    1 => 'Saul Bellow',
-  ),
-  21 => 
-  array (
-    0 => 'If you can dream it, then you can achieve it. You will get all you want in life if you help enough other people get what they want.',
-    1 => 'Zig Ziglar',
-  ),
-  22 => 
-  array (
-    0 => 'No pessimist ever discovered the secret of the stars, or sailed to an uncharted land, or opened a new doorway for the human spirit.',
-    1 => 'Helen Keller',
-  ),
-  23 => 
-  array (
-    0 => 'Age wrinkles the body. Quitting wrinkles the soul.',
-    1 => 'Douglas MacArthur',
-  ),
-  24 => 
-  array (
-    0 => 'Fourth Law of Thermodymanics:
-        If the probability of success is not almost one, then it is damn near zero.',
-    1 => 'David Ellis',
-  ),
-);
+return [
+    [
+        'The one thing you shouldn\'t do is try to tell a cab driver how to get somewhere.',
+        'Jimmy Fallon',
+    ],
+    [
+        'I tend to say faith is believing in life, and as I love life, I try to do the best with it, make it as serene and joyous as possible.',
+        'Sandrine Bonnaire',
+    ],
+    [
+        'Keep your face always toward the sunshine - and shadows will fall behind you.',
+        'Walt Whitman',
+    ],
+    [
+        'More power than all the success slogans ever penned by human hand is the realization for every man that he has but one boss. That boss is the man - he - himself.',
+        'Gabriel Heatter',
+    ],
+    [
+        'There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.',
+        'Oprah Winfrey',
+    ],
+    [
+        'There is a kind of beauty in imperfection.',
+        'Conrad Hall',
+    ],
+    [
+        'Successful entrepreneurs find the balance between listening to their inner voice and staying persistent in driving for success - because sometimes success is waiting right across from the transitional bump that\'s disguised as failure.',
+        'Naveen Jain',
+    ],
+    [
+        'Radio was my life growing up. Then, I started in our family band with my uncle, my father, my aunt and my little brother. We would go to The Chicken Box and all the bars and play.',
+        'Meghan Trainor',
+    ],
+    [
+        'I read \'The Great Gatsby\' in high school and was hypnotized by the beauty of the sentences and moved by the story about the irrevocability of lost love.',
+        'Tom Perrotta',
+    ],
+    [
+        'Find out who you are and be that person. That\'s what your soul was put on this Earth to be. Find that truth, live that truth and everything else will come.',
+        'Ellen DeGeneres',
+    ],
+    [
+        'Your present circumstances don\'t determine where you can go; they merely determine where you start.',
+        'Nido Qubein',
+    ],
+    [
+        'My father was a really sharp cartoonist and filmmaker. He used to tape-record the family surreptitiously, either while we were driving around or at dinner, and in 1963 he and I made up a story about a brother and a sister, Lisa and Matt, having an adventure out in the woods with animals.',
+        'Matt Groening',
+    ],
+    [
+        'If you can dream it, you can do it.',
+        'Walt Disney',
+    ],
+    [
+        'What do we live for, if not to make life less difficult for each other?',
+        'Guy Laliberte',
+    ],
+    [
+        'You go through life wondering what is it all about but at the end of the day it\'s all about family.',
+        'Steve Jobs',
+    ],
+    [
+        'I see myself as no color. I can play the role of a man. I can paint my face white if I want to and play the role of white. I can play a green, I can be a purple. I think I have that kind of frame and that kind of attitude where I can play an animal.',
+        'Grace Jones',
+    ],
+    [
+        'When I work fourteen hours a day, seven days a week, I get lucky.',
+        'Armand Hammer',
+    ],
+    [
+        'It\'s not about how hard you can hit; it\'s about how hard you can get hit and keep moving forward.',
+        'Rocky Balboa',
+    ],
+    [
+        'An investment said to have an 80% chance of success sounds far more attractive than one with a 20% chance of failure. The mind can\'t easily recognize that they are the same.',
+        'Daniel Kahneman',
+    ],
+    [
+        'A real entrepreneur is somebody who has no safety net underneath them.',
+        'Henry Kravis',
+    ],
+    [
+        'If you work just for money, you\'ll never make it, but if you love what you\'re doing and you always put the customer first, success will be yours.',
+        'Ray Kroc',
+    ],
+    [
+        'Autism doesn\'t have to define a person. Artists with autism are like anyone else: They define themselves through hard work and individuality.',
+        'Adrienne Bailon',
+    ],
+    [
+        'Take time to deliberate; but when the time for action arrives, stop thinking and go in.',
+        'Andrew Jackson',
+    ],
+    [
+        'With His love, you can wake up every day with an attitude of faith and expectancy.',
+        'Victoria Osteen',
+    ],
+    [
+        'A body smiles, like, 72 times a day. Where does that smile go? That\'s what I want to know.',
+        'Goldie Hawn',
+    ],
+];

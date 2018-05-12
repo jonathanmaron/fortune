@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Men\'s natures are alike. It is their habits that carry them far apart.',
-    1 => 'Confucius',
-  ),
-  1 => 
-  array (
-    0 => 'Probably no greater honor can come to any man than the respect of his colleagues.',
-    1 => 'Cary Grant',
-  ),
-  2 => 
-  array (
-    0 => 'Always give your best, never get discouraged, never be petty; always remember, others may hate you, but those who hate you don\'t win unless you hate them, and then you destroy yourself.',
-    1 => 'Richard Nixon',
-  ),
-  3 => 
-  array (
-    0 => 'The liberator who destroyed my property has realigned my perceptions.',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  4 => 
-  array (
-    0 => 'Oh dear, I think you\'ll find reality\'s on the blink again.',
-    1 => 'Marvin the Paranoid Android',
-  ),
-  5 => 
-  array (
-    0 => 'Nothing ever comes to one, that is worth having, except as a result of hard work.',
-    1 => 'Booker T. Washington',
-  ),
-  6 => 
-  array (
-    0 => 'Anything anybody can say about America is true.',
-    1 => 'Emmett Grogan',
-  ),
-  7 => 
-  array (
-    0 => 'Be who you are and say what you feel, because those who mind don\'t matter and those who matter don\'t mind.',
-    1 => 'Dr. Seuss',
-  ),
-  8 => 
-  array (
-    0 => 'Try not to become a person of success, but rather try to become a person of value.',
-    1 => 'Albert Einstein',
-  ),
-  9 => 
-  array (
-    0 => 'Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.',
-    1 => 'John Ruskin',
-  ),
-  10 => 
-  array (
-    0 => 'The only thing even in this world is the number of hours in a day. The difference in winning or losing is what you do with those hours.',
-    1 => 'Woody Hayes',
-  ),
-  11 => 
-  array (
-    0 => 'Happiness is simple. Everything we do to find it is complicated.',
-    1 => 'Karen Maezen Miller',
-  ),
-  12 => 
-  array (
-    0 => 'We need to accept that the commandments of God aren\'t just a long list of good ideas. They aren\'t \'life hacks\' from an Internet blog or motivational quotes from a Pinterest board.',
-    1 => 'Dieter F. Uchtdorf',
-  ),
-  13 => 
-  array (
-    0 => 'The activity you\'re most avoiding contains your biggest opportunity.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => 'Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.',
-    1 => 'Pema Chodron',
-  ),
-  15 => 
-  array (
-    0 => 'One becomes a critic when one cannot be an artist, just as a man becomes a stool pigeon when he cannot be a soldier.',
-    1 => 'Gustave Flaubert (letter to Madame Louise Colet, August 12, 1846)',
-  ),
-  16 => 
-  array (
-    0 => 'Don’t wish it were easier. Wish you were better.',
-    1 => 'Jim Rohn',
-  ),
-  17 => 
-  array (
-    0 => 'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\'t found it yet, keep looking. Don\'t settle. As with all matters of the heart, you\'ll know when you find it.',
-    1 => 'Steve Jobs',
-  ),
-  18 => 
-  array (
-    0 => 'I am a part of all that I have met.',
-    1 => 'Alfred Tennyson, 1st Baron Tennyson',
-  ),
-  19 => 
-  array (
-    0 => 'There is no limit to the amount of good a man can do, as long as he does not care who takes the credit.',
-    1 => 'Sunday-Bolorunduro Awoniyi',
-  ),
-  20 => 
-  array (
-    0 => 'Above all, watch with glittering eyes the whole world around you, because the greatest secrets are always hidden in the most unlikely places. Those who don\'t believe in magic will never find it.',
-    1 => 'Robert Orben',
-  ),
-  21 => 
-  array (
-    0 => 'History shows that the human mind, fed by constant accessions of knowledge, periodically grows too large for its theoretical coverings, and bursts them asunder to appear in new habiliments, as the feeding and growing grub, at intervals, casts its too narrow skin and assumes another... Truly the imago state of Man seems to be terribly distant, but every moult is a step gained.',
-    1 => 'Charles Darwin, from "Origin of the Species"',
-  ),
-  22 => 
-  array (
-    0 => 'Never violate the sacredness of your individual self-respect.',
-    1 => 'Theoore Parker',
-  ),
-  23 => 
-  array (
-    0 => 'If a man is called a street sweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and Earth will pause to say, \'Here lived a great street sweeper who did his job well.\'',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  24 => 
-  array (
-    0 => 'The world is full of magical things patiently waiting for our wits to grow sharper.',
-    1 => 'Bertrand Russell',
-  ),
-);
+return [
+    [
+        'Genius always gives its best at first; prudence, at last.',
+        'Lucius Annaeus Seneca',
+    ],
+    [
+        'Over the years, I\'ve learnt how to strike a balance between both my lives and give quality time to my passion as well as to my family. Yes, it is tiring at times, and every working woman goes through the phase.',
+        'Malaika Arora Khan',
+    ],
+    [
+        'Clever men are good, but they are not the best.',
+        'Thomas Carlyle',
+    ],
+    [
+        'There is no success without hardship.',
+        'Sophocles',
+    ],
+    [
+        'He who fears being conquered is sure of defeat.',
+        'Napoleon Bonaparte',
+    ],
+    [
+        'If it weren\'t for Philo T. Farnsworth, inventor of television, we\'d still be eating frozen radio dinners.',
+        'Johnny Carson',
+    ],
+    [
+        'A rescue mission doesn\'t involve going in and just taking a child and leaving. You can\'t just choose any child at random. Every kid has a case that is based on that child\'s original family. So, we made it over to a village, found the child; we were interacting with the child.',
+        'Jason Mraz',
+    ],
+    [
+        'Man, I\'m 31 years old and a husband with four kids; I hope I\'m no thug. I hear all those negative things and don\'t hear anything positive. I think that\'s all those people feel... that way that\'s all they hear about when you hear Allen Iverson did something negative or something.',
+        'Allen Iverson',
+    ],
+    [
+        'It is cruel, you know, that music should be so beautiful. It has the beauty of loneliness of pain: of strength and freedom. The beauty of disappointment and never-satisfied love. The cruel beauty of nature and everlasting beauty of monotony.',
+        'Benjamin Britten',
+    ],
+    [
+        'I grew up playing music and enjoying good food, friends and family in my own backyard.',
+        'Rodney Atkins',
+    ],
+    [
+        'Let me be a free man - free to travel, free to stop, free to work.',
+        'Chief Joseph',
+    ],
+    [
+        'Trust is the glue of life. It\'s the most essential ingredient in effective communication. It\'s the foundational principle that holds all relationships.',
+        'Jim Carrey',
+    ],
+    [
+        'Sensual love deceives one as to the nature of heavenly love; it could not do so alone, but since it unconsciously has the element of heavenly love within it, it can do so.',
+        'Franz Kafka',
+    ],
+    [
+        'I want to be a dad, first and foremost. I want to be a good father. I\'ve spent so much of my life on the move and travelling around the world that just to set up a home for my family and be a good dad is something that motivates me.',
+        'Ricky Ponting',
+    ],
+    [
+        'The most important thing is to stay positive.',
+        'Saku Koivu',
+    ],
+    [
+        'Head Start is designed to ensure that all children - regardless of their family\'s income, race, or ethnic background - are able to enter kindergarten ready to learn.',
+        'Lucille Roybal-Allard',
+    ],
+    [
+        'Humanism was not wrong in thinking that truth, beauty, liberty, and equality are of infinite value, but in thinking that man can get them for himself without grace.',
+        'Simone Weil',
+    ],
+    [
+        'I loved working on \'Happy Gilmore\' because I love to travel to new places and we got to go to British Columbia. Any Adam Sandler film is fun to work on because it is a reunion of the boys club of guys that have worked together in the past.',
+        'Kevin Nealon',
+    ],
+    [
+        'All ideas come about through some sort of observation. It sparks an attitude; some object or emotion causes a reaction in the other person.',
+        'Graham Chapman',
+    ],
+    [
+        'If you don\'t have many possessions, then you don\'t need to work all your life like a slave to sustain them, and therefore you have more time for yourself.',
+        'Jose Mujica',
+    ],
+    [
+        'I think anyone who has a passion for what they love to do, and who pursue it, is inspirational for me.',
+        'Colin Morgan',
+    ],
+    [
+        'If people ask me for the ingredients of success, I say one is talent, two is stubbornness or determination, and third is sheer luck. You have to have two out of the three. Any two will probably do.',
+        'Fred Saberhagen',
+    ],
+    [
+        'Scientists are not delinquents. Our work has changed the conditions in which men live, but the use made of these changes is the problem of governments, not of scientists.',
+        'J. Robert Oppenheimer',
+    ],
+    [
+        'How long are you going to wait before you demand the best for yourself',
+        'Epictetus',
+    ],
+    [
+        'I think music is the greatest art form that exists, and I think people listen to music for different reasons, and it serves different purposes. Some of it is background music, and some of it is things that might affect a person\'s day, if not their life, or change an attitude. The best songs are the ones that make you feel something.',
+        'Eddie Vedder',
+    ],
+];

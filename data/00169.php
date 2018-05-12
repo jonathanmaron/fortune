@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Your ‘I Can\' is more important than your IQ.',
-    1 => 'Robin Sharma',
-  ),
-  1 => 
-  array (
-    0 => 'The future rewards those who press on. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I\'m going to press on.',
-    1 => 'Barack Obama',
-  ),
-  2 => 
-  array (
-    0 => 'There is no witness so dreadful, no accuser so terrible as the conscience that dwells in the heart of every man.',
-    1 => 'Polybius',
-  ),
-  3 => 
-  array (
-    0 => 'Typically, if you reward something, you get more of it. You punish something, you get less of it. And our businesses have been built for the last 150 years very much on that kind of motivational scheme.',
-    1 => 'Daniel H. Pink',
-  ),
-  4 => 
-  array (
-    0 => 'Your positive action combined with positive thinking results in success.',
-    1 => 'Shiv Khera',
-  ),
-  5 => 
-  array (
-    0 => 'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.',
-    1 => 'Steve Jobs',
-  ),
-  6 => 
-  array (
-    0 => 'Remember you will not always win. Some days, the most resourceful individual will taste defeat. But there is, in this case, always tomorrow - after you have done your best to achieve success today.',
-    1 => 'Maxwell Maltz',
-  ),
-  7 => 
-  array (
-    0 => 'We are all capable of becoming fundamentalists because we get addicted to other people\'s wrongness.',
-    1 => 'Pema Chodron',
-  ),
-  8 => 
-  array (
-    0 => 'When someone says "I want a programming language in which I need only say what I wish done," give him a lollipop.',
-    1 => 'Alan J. Perlis',
-  ),
-  9 => 
-  array (
-    0 => 'Life\'s challenges are not supposed to paralyze you, they\'re supposed to help you discover who you are.',
-    1 => 'Bernice Johnson Reagon',
-  ),
-  10 => 
-  array (
-    0 => 'I do a lot of inspirational talks for kids, to motivate them to change their lives and give them hope.',
-    1 => 'Adam Beach',
-  ),
-  11 => 
-  array (
-    0 => 'The way to get started is to quit talking and begin doing.',
-    1 => 'Walt Disney',
-  ),
-  12 => 
-  array (
-    0 => 'When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.',
-    1 => 'Audre Lorde',
-  ),
-  13 => 
-  array (
-    0 => 'We Generate Fears While We Sit. We Overcome Them By Action.',
-    1 => 'Dr. Henry Link',
-  ),
-  14 => 
-  array (
-    0 => 'Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.',
-    1 => 'Robert Frost',
-  ),
-  15 => 
-  array (
-    0 => 'At the age of 18, I made up my mind to never have another bad day in my life. I dove into a endless sea of gratitude from which I\'ve never emerged.',
-    1 => 'Patch Adams',
-  ),
-  16 => 
-  array (
-    0 => 'If you look at a building by Mies van der Rohe, it might look very simple, but up close, the sheer quality of construction, materials and thought are inspirational.',
-    1 => 'David Chipperfield',
-  ),
-  17 => 
-  array (
-    0 => 'I\'ve been absolutely terrified every moment of my life - and I\'ve never let it keep me from doing a single thing I wanted to do.',
-    1 => 'Georgia O\'Keeffe',
-  ),
-  18 => 
-  array (
-    0 => 'Personal example carries more weight than preaching.',
-    1 => 'Chinese Proverb',
-  ),
-  19 => 
-  array (
-    0 => 'Listening, not imitation, may be the sincerest form of flattery.',
-    1 => 'Dr. Joyce [Diane Bauer] Brothers',
-  ),
-  20 => 
-  array (
-    0 => 'The most common way people give up their power is by thinking they don\'t have any.',
-    1 => 'Alice Walker',
-  ),
-  21 => 
-  array (
-    0 => 'Never, never be afraid to do what\'s right, especially if the well-being of a person or animal is at stake. Society\'s punishments are small compared to the wounds we inflict on our soul when we look the other way.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  22 => 
-  array (
-    0 => 'Understanding is the first step to acceptance, and only with acceptance can there be recovery.',
-    1 => 'J.K. Rowling',
-  ),
-  23 => 
-  array (
-    0 => 'I was under medication when I made the decision not to burn the tapes.',
-    1 => 'President Richard Nixon',
-  ),
-  24 => 
-  array (
-    0 => 'To live is so startling it leaves little time for anything else.',
-    1 => 'Emily Dickinson',
-  ),
-);
+return [
+    [
+        'In the case of \'Ocean at the End of the Lane,\' it\'s a book about helplessness. It\'s a book about family, it\'s a book about being 7 in a world of people who are bigger than you, and more dangerous, and stepping into territory that you don\'t entirely understand.',
+        'Neil Gaiman',
+    ],
+    [
+        'Atoms consist of a positive nucleus and negative electrons flying around outside it. Electrons closest to the nucleus feel a strong negative-on-positive tug, and the bigger atoms get, the bigger the tug. In really big atoms, electrons whip around at speeds close to the speed of light.',
+        'Sam Kean',
+    ],
+    [
+        'Never apologize for showing feeling. When you do so, you apologize for truth.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'It was through the private world of family that the public world of politics came alive for me: living in intimate proximity with people for whom larger questions of ideology and belief, as well as issues relating to politics and governance, were vivid daily realities.',
+        'Sonia Gandhi',
+    ],
+    [
+        'Nobody controls me. I travel with my husband when I can, when I know that I can go, and I know that my son is okay alone for a few days with the help.',
+        'Melania Trump',
+    ],
+    [
+        'The reason most people never reach their goals is that they don\'t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.',
+        'Denis Waitley',
+    ],
+    [
+        'The same people who smile in my face would be the same ones to talk behind my back.',
+        'Timbaland',
+    ],
+    [
+        'I definitely have the eye of the tiger. I\'ve fought my way to where I am and will continue to do so. I\'m a hard worker - I get it from my family. We only know work. Nothing was handed to us. When I believe in something, I go after it. It\'s very hard to tell me \'no.\'',
+        'Nicole Scherzinger',
+    ],
+    [
+        'Happiness is a perfume you cannot pour on others without getting a few drops on yourself.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'Talent alone won\'t make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: \'Are your ready?\'',
+        'Johnny Carson',
+    ],
+    [
+        'Every corny thing that\'s said about living with nature - being in harmony with the earth, feeling the cycle of the seasons - happens to be true.',
+        'Susan Orlean',
+    ],
+    [
+        'A lot of times I find that people who are blessed with the most talent don\'t ever develop that attitude, and the ones who aren\'t blessed in that way are the most competitive and have the biggest heart.',
+        'Tom Brady',
+    ],
+    [
+        'Ever since I was 2 or 3, I loved to perform for people. I would walk up to another table in a restaurant and crack a joke, sing a song, do a dance, or something entertaining, and the \'audience\' would almost always smile and laugh.',
+        'Maxim Knight',
+    ],
+    [
+        'I had a really bad temper, when I was growing up. Sport helped me channel that temper into more positive acts.',
+        'Mike Krzyzewski',
+    ],
+    [
+        'All my music is inspirational. You just gotta listen to the words and get what you can get out of it.',
+        'Young Jeezy',
+    ],
+    [
+        'War is a game that is played with a smile. If you can\'t smile, grin. If you can\'t grin, keep out of the way till you can.',
+        'Winston Churchill',
+    ],
+    [
+        'No family gets rich from earning the minimum wage. In fact, the current minimum wage does not even lift a family out of poverty.',
+        'Jon Corzine',
+    ],
+    [
+        'You know when someone\'s over-flattering you in a way. You smile but you can\'t believe it.',
+        'Laura Linney',
+    ],
+    [
+        '\'Closed timelike curve\' is the jargon for time travel. It means you go out, come back and meet yourself in the past.',
+        'Kip Thorne',
+    ],
+    [
+        'You can\'t cross the sea merely by standing and staring at the water.',
+        'Rabindranath Tagore',
+    ],
+    [
+        'Scarlett Johansson has a smile she tries to suppress in every movie she makes. She\'s been trying to keep a straight face since she appeared with Bill Murray 11 years ago in her breakthrough, \'Lost in Translation.\'',
+        'Steve Erickson',
+    ],
+    [
+        'In some way, people believe that if you are permeable, if you are a good listener, you don\'t have the quality of somebody with a firm attitude. This is what, fundamentally, I got from my mother.',
+        'Renzo Piano',
+    ],
+    [
+        'Three of the brightest baseball pitchers of their times staged comebacks without much success - David Cone, Jim Bouton and Jim Palmer - but there was room to admire their quixotic gesture.',
+        'George Vecsey',
+    ],
+    [
+        'Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.',
+        'Walt Disney',
+    ],
+    [
+        'To lead people walk behind them.',
+        'Lao Tzu',
+    ],
+];

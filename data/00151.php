@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A work well begun is half-ended.',
-    1 => 'Plato',
-  ),
-  1 => 
-  array (
-    0 => 'We don\'t set out to save the world; we set out to wonder how other people are doing and to reflect on how our actions affect other people\'s hearts.',
-    1 => 'Pema Chodron',
-  ),
-  2 => 
-  array (
-    0 => 'Carry on any enterprise as if all future success depended on it.',
-    1 => 'Cardinal Richelieu',
-  ),
-  3 => 
-  array (
-    0 => 'God runs electromagnetics by wave theory on Monday, Wednesday, and Friday, and the Devil runs them by quantum theory on Tuesday, Thursday, and Saturday.',
-    1 => 'William Bragg',
-  ),
-  4 => 
-  array (
-    0 => 'The inability to benefit from feedback appears to be the primary cause of pseudoscience. Pseudoscientists retain their beliefs and ignore or distort contradictory evidence rather than modify or reject a flawed theory. Because of their strong biases, they seem to lack the self-correcting mechanisms scientists must employ in their work.',
-    1 => 'Thomas L. Creed, "The Skeptical Inquirer," Summer 1987',
-  ),
-  5 => 
-  array (
-    0 => 'Learning is a treasure that will follow its owner everywhere.',
-    1 => 'Helen Keller',
-  ),
-  6 => 
-  array (
-    0 => 'Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work.',
-    1 => 'H. L. Hunt',
-  ),
-  7 => 
-  array (
-    0 => 'Our success educationally, industrially and politically is based upon the protection of a nation founded by ourselves. And the nation can be nowhere else but in Africa.',
-    1 => 'Marcus Garvey',
-  ),
-  8 => 
-  array (
-    0 => 'A diamond is just a piece of charcoal that handled stress exceptionally well.',
-    1 => 'Unknown',
-  ),
-  9 => 
-  array (
-    0 => 'Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.',
-    1 => 'Stephen Hawking',
-  ),
-  10 => 
-  array (
-    0 => 'Whatever our souls are made of, his and mine are the same.',
-    1 => 'Emily Brontë',
-  ),
-  11 => 
-  array (
-    0 => 'My best advice to anyone who wants to raise a happy, mentally healthy child is: Keep him or her as far away from a church as you can.',
-    1 => 'Frank Zappa',
-  ),
-  12 => 
-  array (
-    0 => 'When you doubt your power, you give power to your doubt.',
-    1 => 'Honore de Balzac',
-  ),
-  13 => 
-  array (
-    0 => 'Life at its noblest leaves mere happiness far behind; and indeed cannnot endure it.... Happiness is not the object of life: life has no object: it is an end in itself; and courage consists in the readiness to sacrifice happiness for an intenser quality of life.',
-    1 => 'George Bernard Shaw',
-  ),
-  14 => 
-  array (
-    0 => 'There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.',
-    1 => 'Nelson Mandela',
-  ),
-  15 => 
-  array (
-    0 => 'Who would have thought that a tap-dancing penguin would outpoint James Bond at the box office? And deserve to? Not that there\'s anything wrong with \'Casino Royale.\' But \'Happy Feet\' - written and directed by George Miller - is a complete charmer, even if, in the way of most family fare, it can\'t resist straying into the Inspirational.',
-    1 => 'Robert Gottlieb',
-  ),
-  16 => 
-  array (
-    0 => 'If you cannot do great things, do small things in a great way.',
-    1 => 'Napoleon Hill',
-  ),
-  17 => 
-  array (
-    0 => 'Don\'t be afraid to give up the good to go for the great.',
-    1 => 'John D. Rockefeller',
-  ),
-  18 => 
-  array (
-    0 => 'Nothing so much enhances a good as to make sacrifices for it.',
-    1 => 'George Santayana',
-  ),
-  19 => 
-  array (
-    0 => 'There\'s more to life than success, and if you can try to be more well-rounded, you\'ll be able to enjoy your success more. It won\'t own you or control you.',
-    1 => 'Ricky Williams',
-  ),
-  20 => 
-  array (
-    0 => 'This is my belief that through difficulties and problems God gives us the opportunity to grow. So when your hopes and dreams and goals are dashed, search among the wreckage, you may find a golden opportunity hidden in the ruins.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  21 => 
-  array (
-    0 => 'We are made wise not by the recollection of our past, but by the responsibility for our future.',
-    1 => 'George Bernard Shaw',
-  ),
-  22 => 
-  array (
-    0 => 'Maturity is only a short break in adolescence.',
-    1 => 'Jules Feiffer',
-  ),
-  23 => 
-  array (
-    0 => 'Opportunity lies in the place where the complaints are.',
-    1 => 'Jack Ma',
-  ),
-  24 => 
-  array (
-    0 => '...computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude in performance-price gain in 30 years.',
-    1 => 'Fred Brooks, Jr.',
-  ),
-);
+return [
+    [
+        'I feel that sin and evil are the negative part of you, and I think it\'s like a battery: you\'ve got to have the negative and the positive in order to be a complete person.',
+        'Dolly Parton',
+    ],
+    [
+        'I was trying to heal wounds all the time, whether it meant having affairs or having attitude. I didn\'t want to show how sad I was.',
+        'Peggy Lipton',
+    ],
+    [
+        'You can\'t have a better tomorrow if you are thinking about yesterday all the time.',
+        'Charles Kettering',
+    ],
+    [
+        'We owe a lot to Thomas Edison - if it wasn\'t for him, we\'d be watching television by candlelight.',
+        'Milton Berle',
+    ],
+    [
+        'When you\'re the best, you only want to surround yourself with the best.',
+        'Floyd Mayweather, Jr.',
+    ],
+    [
+        'It was one of my dreams as a child, growing up in my little village with my cousins. We used to walk together, and I used to say, when you look at the world map, \'This town is there, that town is there, that river is there.\' I used to say, \'One day, I\'m going to travel these places.\'',
+        'Jimmy Cliff',
+    ],
+    [
+        'When I let go of what I am, I become what I might be.',
+        'Lao Tzu',
+    ],
+    [
+        'For \'Fright Night,\' we really want to convey the fun attitude of the movie and show the intensity of Colin Farrell as a predator. He\'s not a brooding vampire - he\'s dark and dangerous.',
+        'Stacey Snider',
+    ],
+    [
+        'When I was 18, and when I entered my family business, I soon realised that it wasn\'t as easy as I thought. I had to deal with people of my father\'s generation. Building trust was key to doing business.',
+        'Binod Chaudhary',
+    ],
+    [
+        'Whenever a thing is done for the first time, it releases a little demon.',
+        'Emily Dickinson',
+    ],
+    [
+        'I just want to say to women, \'Be yourself - it\'s the inner beauty that counts. You are your own best friend, the key to your own happiness, and as soon as you understand that - and it takes a few heartbreaks - you can be happy.\'',
+        'Cherie Lunghi',
+    ],
+    [
+        'I wish my school days could have dragged on a little longer, or that I could go back and do it later in life.',
+        'Lauren Bacall',
+    ],
+    [
+        'No great achiever - even those who made it seem easy - ever succeeded without hard work.',
+        'Jonathan Sacks',
+    ],
+    [
+        'Certainly there are things in life that money can\'t buy, but it\'s very funny - Did you ever try buying them without money?',
+        'Ogden Nash',
+    ],
+    [
+        'If journalism is good, it is controversial, by its nature.',
+        'Julian Assange',
+    ],
+    [
+        'If you have no critics you\'ll likely have no success.',
+        'Malcolm X',
+    ],
+    [
+        'Success cannot come from standstill men. Methods change and men must change with them.',
+        'James Cash Penney',
+    ],
+    [
+        'There are as many kinds of beauty as there are habitual ways of seeking happiness.',
+        'Charles Baudelaire',
+    ],
+    [
+        'Nations, like individuals in a state of nature, are equal and independent, possessing certain rights and owing certain duties to each other.',
+        'Millard Fillmore',
+    ],
+    [
+        'I hate to say it but I hate black humor. I feel like a Klan member saying it, but it\'s just not funny.',
+        'Issa Rae',
+    ],
+    [
+        'You know some of the people in The Strokes, yeah, their parents had success - but we didn\'t live like yuppies.',
+        'Julian Casablancas',
+    ],
+    [
+        'The new midlife is where you realize that even your failures make you more beautiful and are turned spiritually into success if you became a better person because of them. You became a more humble person. You became a more merciful and compassionate person.',
+        'Marianne Williamson',
+    ],
+    [
+        'The family is one of nature\'s masterpieces.',
+        'George Santayana',
+    ],
+    [
+        'I drink too much. The last time I gave a urine sample it had an olive in it.',
+        'Rodney Dangerfield',
+    ],
+    [
+        'When I started counting my blessings, my whole life turned around.',
+        'Willie Nelson',
+    ],
+];

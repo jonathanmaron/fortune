@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The scornful nostril and the high head gather not the odors that lie on the track of truth.',
-    1 => 'George Eliot ',
-  ),
-  1 => 
-  array (
-    0 => 'Calvin Coolidge looks as if he had been weaned on a pickle.',
-    1 => 'Alice Roosevelt Longworth',
-  ),
-  2 => 
-  array (
-    0 => 'In the face of uncertainty there is nothing wrong with hope.',
-    1 => 'O. Carl Simonton',
-  ),
-  3 => 
-  array (
-    0 => 'Everything that can be counted does not necessarily count; everything that counts cannot necessarily be counted.',
-    1 => 'Albert Einstein',
-  ),
-  4 => 
-  array (
-    0 => 'Do your little bit of good where you are; it\'s those little bits of good put together that overwhelm the world.',
-    1 => 'Desmond Tutu',
-  ),
-  5 => 
-  array (
-    0 => 'It\'s good to test yourself and develop your talents and ambitions as fully as you can and achieve greater success; but I think success is the feeling you get from a job well done, and the key thing is to do the work.',
-    1 => 'Peter Thiel',
-  ),
-  6 => 
-  array (
-    0 => 'We are not retreating. We are advancing in another direction.',
-    1 => 'André Gide',
-  ),
-  7 => 
-  array (
-    0 => 'I\'ll play with it first and tell you what it is later.',
-    1 => 'Miles Davis',
-  ),
-  8 => 
-  array (
-    0 => 'One measure of your success will be the degree to which you build up others who work with you. While building up others, you will build up yourself.',
-    1 => 'James E. Casey',
-  ),
-  9 => 
-  array (
-    0 => 'God Damn! We just had a near-life experience, fellas.
-(suggesting that most experiences are, by nature, dead)',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  10 => 
-  array (
-    0 => 'Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all.',
-    1 => 'Vincent Van Gogh',
-  ),
-  11 => 
-  array (
-    0 => '\'All in With Laila Ali\' is educational, inspirational, compelling programming profiling individuals that have reached for the sky, pushed themselves to the limit and did things that you would think were impossible.',
-    1 => 'Laila Ali',
-  ),
-  12 => 
-  array (
-    0 => 'Curiosity is the engine of achievement.',
-    1 => 'Ken Robinson',
-  ),
-  13 => 
-  array (
-    0 => 'Somewhere, something incredible is waiting to be known.',
-    1 => 'Sharon Begley',
-  ),
-  14 => 
-  array (
-    0 => 'Before anything else, preparation is the key to success.',
-    1 => 'Alexander Graham Bell',
-  ),
-  15 => 
-  array (
-    0 => 'I\'m not about caring, I\'m about winning.',
-    1 => 'Harvey Specter',
-  ),
-  16 => 
-  array (
-    0 => 'Egotism is the anesthetic that dulls the pain of stupidity.',
-    1 => 'Frank Leahy',
-  ),
-  17 => 
-  array (
-    0 => 'Thinking: the talking of the soul with itself.',
-    1 => 'Plato',
-  ),
-  18 => 
-  array (
-    0 => 'Life begins at the end of your comfort zone.',
-    1 => 'Neale Donald Walsh',
-  ),
-  19 => 
-  array (
-    0 => 'If you\'re not stubborn, you\'ll give up on experiments too soon. And if you\'re not flexible, you\'ll pound your head against the wall and you won\'t see a different solution to a problem you\'re trying to solve.',
-    1 => 'Jeff Bezos',
-  ),
-  20 => 
-  array (
-    0 => 'What you do speaks so loud that I cannot hear you speak.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  21 => 
-  array (
-    0 => 'You can\'t build a reputation on what you are going to do.',
-    1 => 'Henry Ford',
-  ),
-  22 => 
-  array (
-    0 => 'My ambition is greater than my effort. My effort is greater than my talent. And my talent is a hostage of my temper. But I persist.',
-    1 => 'Tawfīq al-Ḥakīm',
-  ),
-  23 => 
-  array (
-    0 => 'Eschew obfuscatory digressiveness.',
-    1 => 'Barry Dancis (1983)',
-  ),
-  24 => 
-  array (
-    0 => 'Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself.',
-    1 => 'Mark Twain',
-  ),
-);
+return [
+    [
+        'Yesterday we obeyed kings and bent our necks before emperors. But today we kneel only to truth, follow only beauty, and obey only love.',
+        'Khalil Gibran',
+    ],
+    [
+        'I travel often, so my routine is always getting scrambled. But on a standard sort of day, I get up at 6, pack lunches, hustle the kids off to school, then brew a pot of coffee and head downstairs to the dungeon, as I call it: my cobwebby office in the basement.',
+        'Benjamin Percy',
+    ],
+    [
+        'Somebody said to me, \'Whenever somebody says your name, a smile comes to their face.\' That\'s a great accolade. I strive to keep it that way.',
+        'Clarence Clemons',
+    ],
+    [
+        'Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.',
+        'Stephen Sigmund',
+    ],
+    [
+        'I\'ve been very lucky to work on a wide variety of projects, including two long-run and top-10 dramatic television shows. That is why it is so important to offer a helping hand to the next generation of young Latinos coming up behind me.',
+        'Jimmy Smits',
+    ],
+    [
+        'My eyes are different sizes, my nose is too broad at the bridge and squishes up when I laugh, and my lips are sorta funny when I smile.',
+        'Terry Farrell',
+    ],
+    [
+        'At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
+        'Barbara Bush',
+    ],
+    [
+        'It\'s always difficult to say goodbye, especially when one has spent a long time - literally years, in the case of a series - inside a character or two, suffering and celebrating with them.',
+        'Lilith Saintcrow',
+    ],
+    [
+        'The Patriot Act is essential to our continued success in the war on terror here at home.',
+        'Mike Pence',
+    ],
+    [
+        'Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.',
+        'Oscar Wilde',
+    ],
+    [
+        'Its funny, because for females in general - not just in music, but the corporate ladder as well - anything we do has always been harder for us. When it comes to music, the industry wants you to conform, to look like this and to sound like this and do this or that. It makes it harder. It\'s harder for us to come out and be bosses and lead the pack.',
+        'Missy Elliott',
+    ],
+    [
+        'No matter how you travel, it\'s still you going.',
+        'Jeff Goldblum',
+    ],
+    [
+        'Rare is the union of beauty and purity.',
+        'Juvenal',
+    ],
+    [
+        'I really believe you can predict when someone has a great attitude, a real well of talent.',
+        'Taylor Hackford',
+    ],
+    [
+        'A beautiful body perishes, but a work of art dies not.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'All my life, I always wanted to be somebody. Now I see that I should have been more specific.',
+        'Jane Wagner',
+    ],
+    [
+        'The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do.',
+        'Galileo Galilei',
+    ],
+    [
+        'When I am wrong, I will learn the lesson and move on to face other challenges. For me, that\'s what creating your own life is. Doing your best work while being your best self.',
+        'Jennifer Lopez',
+    ],
+    [
+        'We need to have complete certainty that things will work out, not because we are righteous or wise, but because of the time, the effort, the prayers, and the tools we are using. From the moment we are given awareness about some bigger picture or mission, we have to have complete focus on what to do to get to that place.',
+        'Yehuda Berg',
+    ],
+    [
+        'So I wanted to sing inspirational music, and that\'s exactly how I approached it - only the words have been changed to declare my relationship with God.',
+        'Smokey Robinson',
+    ],
+    [
+        'No masterpiece was ever created by a lazy artist.',
+        'Unknown',
+    ],
+    [
+        'The problem with beauty is that it\'s like being born rich and getting poorer.',
+        'Joan Collins',
+    ],
+    [
+        'My attitude is that if anybody of any age wants to read a book, let them, but I do think that no child would want to read \'Boneland.\'',
+        'Alan Garner',
+    ],
+    [
+        'For disappearing acts, it\'s hard to beat what happens to the eight hours supposedly left after eight of sleep and eight of work.',
+        'Doug Larson',
+    ],
+    [
+        'I think Dr. King, if he were alive today, he wouldn\'t disrespect the flag or the anthem; he would use his words and his voice to send a message for positive change.',
+        'Kimberly Guilfoyle',
+    ],
+];

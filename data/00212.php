@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.',
-    1 => 'Albert Einstein',
-  ),
-  1 => 
-  array (
-    0 => 'Whoever is happy will make others happy too.',
-    1 => 'Anne Frank',
-  ),
-  2 => 
-  array (
-    0 => 'None of us will ever accomplish anything excellent or commanding except when he listens to this whisper which is heard by him alone.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  3 => 
-  array (
-    0 => 'Hatred paralyzes life; love releases it. Hatred confuses life; love harmonizes it. Hatred darkens life; love illumines it.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  4 => 
-  array (
-    0 => 'Every minute spent worrying about the way things were is a moment stolen from creating the way things can be.',
-    1 => 'Robin Sharma',
-  ),
-  5 => 
-  array (
-    0 => 'Failure defeats losers; failure inspires winners.',
-    1 => 'Robert T. Kiyosaki',
-  ),
-  6 => 
-  array (
-    0 => 'Money and success don\'t change people; they merely amplify what is already there.',
-    1 => 'Will Smith',
-  ),
-  7 => 
-  array (
-    0 => 'I\'ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.',
-    1 => 'Maya Angelou',
-  ),
-  8 => 
-  array (
-    0 => 'You can\'t shake hands with a clenched fist.',
-    1 => 'Indira Gandhi',
-  ),
-  9 => 
-  array (
-    0 => 'I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.',
-    1 => 'Neil Armstrong',
-  ),
-  10 => 
-  array (
-    0 => 'Life has meaning only if one barters it day by day for something other than itself.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  11 => 
-  array (
-    0 => 'He hadn\'t a single redeeming vice.',
-    1 => 'Oscar Wilde',
-  ),
-  12 => 
-  array (
-    0 => 'I\'d rather be hated for who I am, than loved for who I am not.',
-    1 => 'Kurt Cobain',
-  ),
-  13 => 
-  array (
-    0 => 'We ARE as gods and might as well get good at it.',
-    1 => 'Whole Earth Catalog',
-  ),
-  14 => 
-  array (
-    0 => 'Lord knows, every day is not a success, every year is not a success. You have to celebrate the good.',
-    1 => 'Reese Witherspoon',
-  ),
-  15 => 
-  array (
-    0 => 'Stop letting people who do so little for you control so much of your mind and emotions.',
-    1 => 'Will Smith',
-  ),
-  16 => 
-  array (
-    0 => 'The truth is that relative income is not directly related to happiness. Nonpartisan social-survey data clearly show that the big driver of happiness is earned success: a person\'s belief that he has created value in his life or the life of others.',
-    1 => 'Arthur C. Brooks',
-  ),
-  17 => 
-  array (
-    0 => 'Don\'t be afraid to give up the good to go for the great.',
-    1 => 'John D. Rockefeller',
-  ),
-  18 => 
-  array (
-    0 => 'They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?',
-    1 => 'Fidel Castro',
-  ),
-  19 => 
-  array (
-    0 => 'If someone were to ask me for a short cut to sensuality, I would suggest he go shopping for a used 427 Shelby-Cobra. But it is only fair to warn you that of the 300 guys who switched to them in 1966, only two went back to women.',
-    1 => 'Mort Sahl',
-  ),
-  20 => 
-  array (
-    0 => 'Architecture is not an inspirational business, it\'s a rational procedure to do sensible and hopefully beautiful things; that\'s all.',
-    1 => 'Harry Seidler',
-  ),
-  21 => 
-  array (
-    0 => 'The trouble is that rich people, well-to-do people, very often don\'t really know who the poor are; and that is why we can forgive them, for knowledge can only lead to love, and love to service. And so, if they are not touched by them, it\'s because they do not know them.',
-    1 => 'Mother Teresa',
-  ),
-  22 => 
-  array (
-    0 => 'Opinions are like assholes: everyone\'s got one, but nobody wants to look at the other guy\'s.',
-    1 => 'Hal Hickman',
-  ),
-  23 => 
-  array (
-    0 => 'Democracy is also a form of worship. It is the worship of Jackals by Jackasses.',
-    1 => 'H. L. Mencken',
-  ),
-  24 => 
-  array (
-    0 => 'Sometimes you can\'t see yourself clearly until you see yourself through the eyes of others.',
-    1 => 'Ellen DeGeneres',
-  ),
-);
+return [
+    [
+        'Nothing succeeds like success.',
+        'Alexandre Dumas',
+    ],
+    [
+        'We are entertainers. We have to give our audience a good time. If my name serves that purpose, if that brings a smile on your face, then I think it is good and my job has been done.',
+        'Tiger Shroff',
+    ],
+    [
+        'Truth, and goodness, and beauty are but different faces of the same all.',
+        'Ralph Emerson',
+    ],
+    [
+        'The beauty is that through disappointment you can gain clarity, and with clarity comes conviction and true originality.',
+        'Conan O\'Brien',
+    ],
+    [
+        'Life was a funny thing that happened to me on the way to the grave.',
+        'Quentin Crisp',
+    ],
+    [
+        'I got the travel bug when I was quite young. My parents took me and my sisters out of school and we travelled all over Europe. It was an eye-opening experience and, although I love Norway, I also enjoy visiting new countries. I don\'t get homesick.',
+        'Magnus Carlsen',
+    ],
+    [
+        'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.',
+        'John Wooden',
+    ],
+    [
+        'Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.',
+        'Walt Whitman',
+    ],
+    [
+        'So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservation, all of which may appear to give one peace of mind, but in reality, nothing is more damaging to the adventurous spirit.',
+        'Khalil Gibran',
+    ],
+    [
+        'Cigarettes and coffee: an alcoholic\'s best friend!',
+        'Gerard Way',
+    ],
+    [
+        'I have a company attitude about my work. I don\'t like to do just one thing; I like to do a lot of things.',
+        'Jack O\'Brien',
+    ],
+    [
+        'You don\'t fight racism with racism, the best way to fight racism is with solidarity.',
+        'Bobby Seale',
+    ],
+    [
+        'The negative side of the American Dream comes when people pursue success at any cost, which in turn destroys the vision and the dream.',
+        'Azar Nafisi',
+    ],
+    [
+        'Anything can happen, so you have to control your attitude and stay strong.',
+        'Jason Day',
+    ],
+    [
+        'There are a lot of people who give you the message that maybe you are not good enough, and the best thing you can do for yourself is to block out all of that noise.',
+        'Rachel Platten',
+    ],
+    [
+        'By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.',
+        'Thomas Carlyle',
+    ],
+    [
+        'Success means having the courage, the determination, and the will to become the person you believe you were meant to be.',
+        'George A. Sheehan',
+    ],
+    [
+        'I travel all the time, but when I come back to the South, I see such progress. In a real sense, a great deal of the South has been redeemed. People feel freer, more complete, more whole, because of what happened in the movement.',
+        'John Lewis',
+    ],
+    [
+        'As you navigate through the rest of your life, be open to collaboration. Other people and other people\'s ideas are often better than your own. Find a group of people who challenge and inspire you, spend a lot of time with them, and it will change your life.',
+        'Amy Poehler',
+    ],
+    [
+        'When we meet real tragedy in life, we can react in two ways - either by losing hope and falling into self-destructive habits, or by using the challenge to find our inner strength. Thanks to the teachings of Buddha, I have been able to take this second way.',
+        'Miley Cyrus',
+    ],
+    [
+        'It\'s funny how people who ain\'t never been down there can think that America is so fair and that we should be alright. It\'s funny that the people who have their foot on our neck are telling us, \'Get up. What\'s wrong with you?\'',
+        'Ice Cube',
+    ],
+    [
+        'Veterans Day is a time to celebrate the men and women who have worn this nation\'s uniform and to honor their service.',
+        'Tammy Duckworth',
+    ],
+    [
+        'The first voyagers to the stars will be creatures whose life cycle is matched to the voyage: the aeons involved in traversing the galaxy are not daunting to immortal beings. By the end of the third millennium, travel to other stars could be technically feasible. But would there be sufficient motive?',
+        'Martin Rees',
+    ],
+    [
+        'What I like about the jokes, to me it\'s a lot of logic, no matter how crazy they are. It has to make absolute sense, or it won\'t be funny.',
+        'Steven Wright',
+    ],
+    [
+        'I like Bobby Flay\'s attitude and his approach towards food. I think he\'s just passionate and very honest. I find him very honest about food and cooking and ingredients and I admire that because I think that it\'s easy to get away from that for various reasons.',
+        'Alex Guarnaschelli',
+    ],
+];

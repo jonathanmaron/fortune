@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.',
-    1 => 'Wilma Rudolph',
-  ),
-  1 => 
-  array (
-    0 => 'Be yourself. Follow your instincts. Success depends, at least in part, on the ability to \'carry it off.\'',
-    1 => 'Donald Rumsfeld',
-  ),
-  2 => 
-  array (
-    0 => 'Never look down to test the ground before taking your next step; only he who keeps his eye fixed on the far horizon will find the right road.',
-    1 => 'Dag Hammarskjold',
-  ),
-  3 => 
-  array (
-    0 => 'I haven\'t lost my mind',
-    1 => 'it\'s backed up on tape somewhere.',
-  ),
-  4 => 
-  array (
-    0 => 'In order to succeed, your desire for success should be greater than your fear of failure.',
-    1 => 'Bill Cosby',
-  ),
-  5 => 
-  array (
-    0 => 'The first and most important step toward success is the feeling that we can succeed.',
-    1 => 'Nelson Boswell',
-  ),
-  6 => 
-  array (
-    0 => 'The greatest test of courage on earth is to bear defeat without losing heart.',
-    1 => 'Robert Green Ingersoll',
-  ),
-  7 => 
-  array (
-    0 => 'There are nights when the wolves are silent and only the moon howls.',
-    1 => 'George Carlin',
-  ),
-  8 => 
-  array (
-    0 => 'A great social success is a pretty girl who plays her cards as carefully as if she were plain.',
-    1 => 'F. Scott Fitzgerald',
-  ),
-  9 => 
-  array (
-    0 => 'A good compromise is one where everybody makes a contribution.',
-    1 => 'Angela Merkel',
-  ),
-  10 => 
-  array (
-    0 => 'Ideas can be life-changing. Sometimes all you need to open the door is just one more good idea.',
-    1 => 'Jim Rohn',
-  ),
-  11 => 
-  array (
-    0 => 'Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.',
-    1 => 'Albert Schweitzer',
-  ),
-  12 => 
-  array (
-    0 => 'I decided to be happy because it\'s good for my health.',
-    1 => 'Voltaire',
-  ),
-  13 => 
-  array (
-    0 => 'Well, if you can\'t believe what you read in a comic book, what CAN you believe?!',
-    1 => 'Bullwinkle J. Moose [Jay Ward]',
-  ),
-  14 => 
-  array (
-    0 => 'Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational.',
-    1 => 'Kevin Brownlow',
-  ),
-  15 => 
-  array (
-    0 => 'What we hope ever to do with ease, we must learn first to do with diligence.',
-    1 => 'T.S. Eliot',
-  ),
-  16 => 
-  array (
-    0 => 'Inspiration does exist but it must find you working.',
-    1 => 'Pablo Picasso',
-  ),
-  17 => 
-  array (
-    0 => 'There\'s a difference between interest and commitment. When you\'re interested in doing something, you do it only when circumstance permit. When you\'re committed to something, you accept no excuses, only results.',
-    1 => 'Art Turock',
-  ),
-  18 => 
-  array (
-    0 => 'Rough diamonds may sometimes be mistaken for worthless pebbles.',
-    1 => 'Sir Thomas Browne',
-  ),
-  19 => 
-  array (
-    0 => 'I see you stand like greyhounds in the slips,
-Straining upon the start. The game\'s afoot.',
-    1 => 'King Henry V, "Henry V", Act III, Scene 1',
-  ),
-  20 => 
-  array (
-    0 => 'The bird is powered by its own life and by its motivation',
-    1 => 'APJ Abdul Kalam',
-  ),
-  21 => 
-  array (
-    0 => 'Our subliminal mental processes operate outside awareness because they arise in these portions of our mind that are inaccessible to our conscious self; their inaccessibility is due to the architecture of the brain rather than because they have been subject to Freudian motivational forces like repression.',
-    1 => 'Leonard Mlodinow',
-  ),
-  22 => 
-  array (
-    0 => 'Never regret yesterday. Life is in you today, and you make your tomorrow.',
-    1 => 'L. Ron Hubbard',
-  ),
-  23 => 
-  array (
-    0 => 'I can\'t change the direction of the wind, but I can adjust my sails to always reach my destination.',
-    1 => 'Jimmy Dean',
-  ),
-  24 => 
-  array (
-    0 => 'Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder.',
-    1 => 'Unknown',
-  ),
-);
+return [
+    [
+        'There are two ways of spreading light: to be the candle or the mirror that reflects it.',
+        'Edith Wharton',
+    ],
+    [
+        'Study the past, if you would divine the future.',
+        'Confucius',
+    ],
+    [
+        'I love being a woman. I love the sexiness we get to exude. But the best thing about being a woman is the power we have over men.',
+        'Eva Longoria',
+    ],
+    [
+        'My writing is a combination of three elements. The first is travel: not travel like a tourist, but travel as exploration. The second is reading literature on the subject. The third is reflection.',
+        'Ryszard Kapuscinski',
+    ],
+    [
+        'My favourite animal is the koala, but his life would be boring. I would rather be a giraffe so that I could contemplate the beauty of Africa.',
+        'Caterina Murino',
+    ],
+    [
+        'A chain is no stronger than its weakest link, and life is after all a chain.',
+        'Groucho Marx',
+    ],
+    [
+        'We can bring positive energy into our daily lives by smiling more, talking to strangers in line, replacing handshakes with hugs, and calling our friends just to tell them we love them.',
+        'Brandon Jenner',
+    ],
+    [
+        'The worst thing about being the laureate has been the attitude of a tiny minority of adults who haven\'t liked some of the things I\'m supposed to have said and who have used it as an opportunity to be verbally abusive and nasty, but I haven\'t let it rule my world!',
+        'Malorie Blackman',
+    ],
+    [
+        'You wanna know what scares people? Success. When you don\'t make moves and when you don\'t climb up the ladder, everybody loves you because you\'re not competition.',
+        'Nicki Minaj',
+    ],
+    [
+        'I am grateful every morning I wake up. I\'ve a big family full of kids, who laugh all the time and love each other.',
+        'Kris Kristofferson',
+    ],
+    [
+        'If you\'re walking down the right path and you\'re willing to keep walking, eventually you\'ll make progress.',
+        'Barack Obama',
+    ],
+    [
+        'Just as a candle cannot burn without fire, men cannot live without a spiritual life.',
+        'Jim Rohn',
+    ],
+    [
+        'The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.',
+        'Robert Kiyosaki',
+    ],
+    [
+        'The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life, and the promise of future accomplishments.',
+        'Gustave Flaubert',
+    ],
+    [
+        'The landscape painter must walk in the fields with a humble mind. No arrogant man was ever permitted to see Nature in all her beauty.',
+        'John Constable',
+    ],
+    [
+        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
+        'Summer Sanders',
+    ],
+    [
+        'I can\'t wait for summer in the city! I love all the free activities in the parks that become available to us New Yorkers. Yoga and movie screenings in Bryant Park, concerts in Central Park - there\'s so much more available to the New York community in the summer! And everyone just seems to smile more.',
+        'Kara Lindsay',
+    ],
+    [
+        'Helping people boost themselves out of poverty is the best way to make a lasting positive difference in a person\'s life.',
+        'Naveen Jain',
+    ],
+    [
+        'There\'s something about the Pacific Northwest, the scale of it, and the fact that not so long ago people came here and died getting here, and then died the first winter they were here. There\'s this breathtaking beauty, just a little bit of moss on the tree, just this little thread of danger, and the sinister. And I really like that.',
+        'Chelsea Cain',
+    ],
+    [
+        'Life is bigger than cinema. Cinema is just a part of life, so I never take success or failure seriously.',
+        'Pawan Kalyan',
+    ],
+    [
+        'I tend to look out for things with a resonance to my youth - artists or objects that seemed romantic all those years ago. I never buy anything purely for its value. I like possessions that smile back at me.',
+        'Nicholas Haslam',
+    ],
+    [
+        'The artist is not responsible to any one. His social role is asocial... his only responsibility consists in an attitude to the work he does.',
+        'Georg Baselitz',
+    ],
+    [
+        'What I like best is a book that\'s at least funny once in a while. What really knocks me out is a book that, when you\'re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn\'t happen much, though.',
+        'J. D. Salinger',
+    ],
+    [
+        'I think I\'ve always had a certain amount of skepticism of this whole \'shut up and smile\' theory. I haven\'t ever swallowed that pill so easily, although I tried.',
+        'Amber Heard',
+    ],
+    [
+        'Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.',
+        'Amiel',
+    ],
+];

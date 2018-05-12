@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The doors of the future are open to whoever can push them.',
-    1 => 'Coluche',
-  ),
-  1 => 
-  array (
-    0 => 'I have had all of the disadvantages required for success.',
-    1 => 'Larry Ellison',
-  ),
-  2 => 
-  array (
-    0 => 'Until you stop breathing, there\'s more right with you than wrong with you.',
-    1 => 'Jon Kabat-Zinn',
-  ),
-  3 => 
-  array (
-    0 => 'Success is steady progress toward one\'s personal goals.',
-    1 => 'Jim Rohn',
-  ),
-  4 => 
-  array (
-    0 => '...I would go so far as to suggest that, were it not for our ego and concern to be different, the African apes would be included in our family, the Hominidae.',
-    1 => 'Richard Leakey',
-  ),
-  5 => 
-  array (
-    0 => 'We must always have old memories and young hopes.',
-    1 => 'Arsène Houssaye',
-  ),
-  6 => 
-  array (
-    0 => 'A man may learn wisdom even from a foe.',
-    1 => 'Aristophanes',
-  ),
-  7 => 
-  array (
-    0 => 'Nobody made a greater mistake than he who did nothing because he could only do a little.',
-    1 => 'Edmund Burke',
-  ),
-  8 => 
-  array (
-    0 => 'There were barriers still, it is true, but barriers that could in time be swept away.',
-    1 => 'Helen Keller',
-  ),
-  9 => 
-  array (
-    0 => 'Success in business today requires real-time, mobile access to business opportunities.',
-    1 => 'Bob McDonnell',
-  ),
-  10 => 
-  array (
-    0 => 'Thriving for small things is achieving big things.',
-    1 => 'Samuel Becket',
-  ),
-  11 => 
-  array (
-    0 => 'Cooperation must be earned not demanded',
-    1 => 'Maya Angelou',
-  ),
-  12 => 
-  array (
-    0 => 'You can do anything if you have enthusiasm. Enthusiasm is the yeast that makes your hopes rise to the stars. With it, there is accomplishment. Without it there are only alibis.',
-    1 => 'Henry Ford',
-  ),
-  13 => 
-  array (
-    0 => 'If you don\'t give up, you still have a chance. Giving up is the greatest failure.',
-    1 => 'Jack Ma',
-  ),
-  14 => 
-  array (
-    0 => 'I have been up against tough competition all my life. I wouldn\'t know how to get along without it.',
-    1 => 'Walt Disney',
-  ),
-  15 => 
-  array (
-    0 => 'Every song you\'re trying to find something that going to connect in different ways but for me the songs that I\'m really drawn to are inspirational, songs that lift you and that everybody can relate to no matter where you\'re from.',
-    1 => 'Rodney Atkins',
-  ),
-  16 => 
-  array (
-    0 => 'If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.',
-    1 => 'Mark Twain',
-  ),
-  17 => 
-  array (
-    0 => 'Duct tape is like the force. It has a light side, and a dark side, and it holds the universe together ...',
-    1 => 'Carl Zwanzig',
-  ),
-  18 => 
-  array (
-    0 => 'The deepest...dream is not the hunger for money or fame; it is the dream of settling down, in peace and freedom and cooperation.',
-    1 => 'Scott Russell Sanders',
-  ),
-  19 => 
-  array (
-    0 => 'Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.',
-    1 => 'Jim Rohn',
-  ),
-  20 => 
-  array (
-    0 => 'The mistake you make is in trying to figure it out.',
-    1 => 'Tenessee Williams',
-  ),
-  21 => 
-  array (
-    0 => 'We all should know that diversity makes for a rich tapestry, and we must understand that all the threads of the tapestry are equal in value no matter what their color.',
-    1 => 'Maya Angelou',
-  ),
-  22 => 
-  array (
-    0 => 'It\'s Not Whether You Get Knocked Down, It\'s Whether You Get Up.',
-    1 => 'Vince Lombardi',
-  ),
-  23 => 
-  array (
-    0 => 'When you have exhausted all possibilities, remember this: you haven\'t.',
-    1 => 'Thomas Edison',
-  ),
-  24 => 
-  array (
-    0 => 'We make the world we live in and shape our own environment.',
-    1 => 'Orison Swett Marden',
-  ),
-);
+return [
+    [
+        'We have it in our power to begin the world over again.',
+        'Thomas Paine',
+    ],
+    [
+        'I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has had to overcome while trying to succeed.',
+        'Booker T. Washington',
+    ],
+    [
+        'Sometimes I envy people who can be only half crazy, with one foot in the passion and one foot in the real world. But that\'s not me. I dive into the total crazy experience. That\'s the only way to travel.',
+        'Kiran Ahluwalia',
+    ],
+    [
+        'The art of progress is to preserve order amid change, and to preserve change amid order.',
+        'Alfred Whitehead',
+    ],
+    [
+        'It is never too late to strengthen the foundation of faith. There is always time. With faith in the Savior, you can repent and plead for forgiveness. There is someone you can forgive. There is someone you can thank. There is someone you can serve and lift. You can do it wherever you are and however alone and deserted you may feel.',
+        'Henry B. Eyring',
+    ],
+    [
+        'The man who has done his best has done everything.',
+        'Charles M. Schwab',
+    ],
+    [
+        'When I remember my family, I always remember their backs. They were always indignantly leaving places.',
+        'John Cheever',
+    ],
+    [
+        'We all find joy and radiance and a reason to move on even in the most dire of circumstances. Even in chaos and madness, there\'s still a beauty that comes from just the vibrancy of another human spirit.',
+        'Ishmael Beah',
+    ],
+    [
+        'How long you can continue to be good at something is how much you believe in yourself and how much hard work you do with the training.',
+        'Jason Statham',
+    ],
+    [
+        'Education is the key to success in life, and teachers make a lasting impact in the lives of their students.',
+        'Solomon Ortiz',
+    ],
+    [
+        'If you don\'t design your own life plan, chances are you\'ll fall into someone else\'s plan. And guess what they have planned for you? Not much.',
+        'Jim Rohn',
+    ],
+    [
+        'Weakness of attitude becomes weakness of character.',
+        'Albert Einstein',
+    ],
+    [
+        'I coach soccer, and my wife and I are very involved in our kids\' lives. Our family is busy with doctor appointments, soccer practice, school, work, travel, vacation... life.',
+        'Patrick Lencioni',
+    ],
+    [
+        'Concentrate all your thoughts upon the work at hand. The sun\'s rays do not burn until brought to a focus.',
+        'Alexander Graham Bell',
+    ],
+    [
+        'Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'Originally I had planned to write just a couple of children\'s books and then, return the focus on adult literature. A funny thing happened along the way - I kept having new ideas, and then I looked up one day, and 30 years had passed!',
+        'Nikki Grimes',
+    ],
+    [
+        'I think my attitude has always been to put food on the table.',
+        'James Garner',
+    ],
+    [
+        'A goal without a plan is just a wish.',
+        'Larry Elder',
+    ],
+    [
+        'Saying thank you is more than good manners. It is good spirituality.',
+        'Alfred Painter',
+    ],
+    [
+        'Nothing ever comes to one, that is worth having, except as a result of hard work.',
+        'Booker T. Washington',
+    ],
+    [
+        'Beauty, to me is about being comfortable in your own skin.',
+        'Gwyneth Paltrow',
+    ],
+    [
+        'I believe that you should gravitate to people who are doing productive and positive things with their lives.',
+        'Nadia Comaneci',
+    ],
+    [
+        'The Antichrist will be the infernal prince again for the third and last time... so many evils shall be committed by the means of Satan, the infernal Prince, that almost the entire world shall be found undone and desolate. Before these events happen, many rare birds will cry in the air, \'Now! Now!\' and sometime later will vanish.',
+        'Nostradamus',
+    ],
+    [
+        '\'Perfect\' is about a set-up that looks perfect from the outside - beautiful country house, beautiful wife and mother, everything where it should be - and the deep fissures that, in fact, lie beneath that. \'Perfect\' was partly a response to the shock of my first book, \'The Unlikely Pilgrimage Of Harold Fry,\' being a success.',
+        'Rachel Joyce',
+    ],
+    [
+        'I believe that, by and large, people are good and everybody you meet is more likely to surprise you in a positive way than in a negative way.',
+        'Anthony Horowitz',
+    ],
+];

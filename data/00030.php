@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Whoever you are, whatever your dream, you have to be strong in your head and strong in your heart. Be strong. There\'s no quitting in the person who wants it bad enough.',
-    1 => 'Carly Patterson',
-  ),
-  1 => 
-  array (
-    0 => 'Children begin by loving their parents. After a time they judge them. Rarely, if ever, do they forgive them.',
-    1 => 'Oscar Wilde',
-  ),
-  2 => 
-  array (
-    0 => 'If something stands between you and your success, move it. Never be denied.',
-    1 => 'Dwayne “The Rock” Johnson, professional wrestler and actor',
-  ),
-  3 => 
-  array (
-    0 => 'Success is the progressive realization of predetermined, worthwhile, personal goals.',
-    1 => 'Paul J. Meyer',
-  ),
-  4 => 
-  array (
-    0 => 'Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.',
-    1 => 'e. e. cummings',
-  ),
-  5 => 
-  array (
-    0 => 'Wrinkles should merely indicate where smiles have been',
-    1 => 'Mark Twain',
-  ),
-  6 => 
-  array (
-    0 => 'Caring about others, running the risk of feeling, and leaving an impact on people, brings happiness.',
-    1 => 'Harold Kushner',
-  ),
-  7 => 
-  array (
-    0 => 'In sports teams, apart from talk of sporting prowess and the imparting of inspirational thought, an extraordinary amount of time is spent discussing, and flaunting, material possessions.',
-    1 => 'Harsha Bhogle',
-  ),
-  8 => 
-  array (
-    0 => 'Power is the ability to do good things for others.',
-    1 => 'Brooke Astor',
-  ),
-  9 => 
-  array (
-    0 => 'You will never find what you don\'t look for.',
-    1 => 'Confucius',
-  ),
-  10 => 
-  array (
-    0 => 'Quality is never an accident; it is always the result of intelligent effort.',
-    1 => 'John Ruskin',
-  ),
-  11 => 
-  array (
-    0 => 'Let yourself be silently drawn by the stronger pull of what you really love.',
-    1 => 'Rumi',
-  ),
-  12 => 
-  array (
-    0 => 'Enjoy the little things, for one day you may look back and realize they were the big things.',
-    1 => 'Robert Brault',
-  ),
-  13 => 
-  array (
-    0 => 'The steady state of disks is full.',
-    1 => 'Ken Thompson',
-  ),
-  14 => 
-  array (
-    0 => 'Progress is nothing but the victory of laughter over dogma.',
-    1 => 'Benjamin DeCasseres',
-  ),
-  15 => 
-  array (
-    0 => 'No man, for any considerable period, can wear one face to himself, and another to the multitude, without finally getting bewildered as to which may be true.',
-    1 => 'Nathaniel Hawthorne',
-  ),
-  16 => 
-  array (
-    0 => 'In most things success depends on knowing how long it takes to succeed.',
-    1 => 'Charles de Montesquieu',
-  ),
-  17 => 
-  array (
-    0 => 'Life is either a daring adventure or nothing.',
-    1 => 'Helen Keller.',
-  ),
-  18 => 
-  array (
-    0 => 'By learning you will teach, by teaching you will learn.',
-    1 => 'Latin Proverb',
-  ),
-  19 => 
-  array (
-    0 => 'Every good act is charity. A man\'s true wealth hereafter is the good that he does in this world to his fellows.',
-    1 => 'Jean Baptiste Poquelin Molière',
-  ),
-  20 => 
-  array (
-    0 => 'It is very easy to forgive others their mistakes; it takes more grit and gumption to forgive them for having witnessed your own.',
-    1 => 'Jessamyn West',
-  ),
-  21 => 
-  array (
-    0 => 'How can you be two places at once when you\'re not anywhere at all?',
-    1 => 'Firesign Theater',
-  ),
-  22 => 
-  array (
-    0 => 'Make your faith larger than your fears and your dreams bigger than your doubts.',
-    1 => 'Robin Sharma',
-  ),
-  23 => 
-  array (
-    0 => 'The most powerful weapon on earth is the human soul on fire.',
-    1 => 'Ferdinand Foch',
-  ),
-  24 => 
-  array (
-    0 => 'You never know when some small thing will lead to a big idea. Travel is very inspirational - but it\'s in the ordinary that I find my themes of love and work and family.',
-    1 => 'Adriana Trigiani',
-  ),
-);
+return [
+    [
+        'The bird is powered by its own life and by its motivation.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'My success was not based so much on any great intelligence but on great common sense.',
+        'Helen Gurley Brown',
+    ],
+    [
+        'I love to travel, I love to go out with my friends, but what I love most is being home with my family.',
+        'Deborah Raney',
+    ],
+    [
+        'What delights us in visible beauty is the invisible.',
+        'Marie von Ebner-Eschenbach',
+    ],
+    [
+        'I like guys with a sense of humor who smile a lot and are kind.',
+        'Nikki Glaser',
+    ],
+    [
+        'There are really four \'headlines\' for me: honesty, integrity, hard work, and what I call a \'can-do\' attitude. You could call that \'can-do\' attitude optimism, but it is not Pollyannaish optimism. Rather, it is a \'we\'ll figure it out\' type of mentality.',
+        'Dylan Taylor',
+    ],
+    [
+        'I pray to start my day and finish it in prayer. I\'m just thankful for everything, all the blessings in my life, trying to stay that way. I think that\'s the best way to start your day and finish your day. It keeps everything in perspective.',
+        'Tim Tebow',
+    ],
+    [
+        'Continuous effort, not strength or intelligence, is the key to unlocking our potential.',
+        'Winston Churchill',
+    ],
+    [
+        'It is possible for the assembly-line worker consigned to tightening the bolts on the transmission and the office worker who processes medical insurance claims to work with pride and efficiency, but it\'s not easy to maintain that attitude.',
+        'Paul Hawken',
+    ],
+    [
+        'I love short trips to New York; to me it is the finest three-day town on earth.',
+        'James Cameron',
+    ],
+    [
+        'We cannot put off living until we are ready.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'Everything about \'UY\' is new and fresh, and we are extremely happy at the response from the audiences, as most people are walking out of cinema halls with a smile on their faces.',
+        'Akkineni Nagarjuna',
+    ],
+    [
+        'I am, as it happens, a baby boomer, but not one who feels any broad-gauge nostalgia for the \'60s and \'70s. My attitude resembles that of my parents, who were born in the \'20s and lived through the Great Depression and World War II.',
+        'Terry Teachout',
+    ],
+    [
+        'Given the scale of issues like global warming and epidemic disease, we shouldn\'t underestimate the importance of a can-do attitude to science rather than a can\'t-afford-it attitude.',
+        'Martin Rees',
+    ],
+    [
+        'What if you gave someone a gift, and they neglected to thank you for it - would you be likely to give them another? Life is the same way. In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.',
+        'Lord Byron',
+    ],
+    [
+        'Interesting things come your way but as you get older, your lifestyle changes. I don\'t want to travel; I don\'t want to be in a hotel room away from my family.',
+        'Gary Oldman',
+    ],
+    [
+        'I\'ve never done it, but I think if you do a Google search for \'People who will help me travel across the country to meet my online love,\' I\'m probably the only person that comes up.',
+        'Nev Schulman',
+    ],
+    [
+        'My smile will always be broken, but I\'ll always be grateful for the chance to get to do what I get to do.',
+        'Trent Franks',
+    ],
+    [
+        'Time travel may be achieved one day, or it may not. But if it is, it should not require any fundamental change in world-view, at least for those who broadly share the world view I am presenting in this book.',
+        'David Deutsch',
+    ],
+    [
+        'A man is great by deeds, not by birth.',
+        'Chanakya',
+    ],
+    [
+        '\'Priced to sell\' - just the phrase makes me smile. When a dealer says all the items in his booth are priced to sell, he means he\'s tagged them as aggressively as he can to get you to buy them. Don\'t worry, though, I still haggle. You have to. That\'s the point of a flea market.',
+        'Nate Berkus',
+    ],
+    [
+        'Ocean: A body of water occupying about two-thirds of a world made for man - who has no gills.',
+        'Ambrose Bierce',
+    ],
+    [
+        'Success is following the pattern of life one enjoys most.',
+        'Al Capp',
+    ],
+    [
+        'The difference between utility and utility plus beauty is the difference between telephone wires and the spider web.',
+        'Edwin Way Teale',
+    ],
+    [
+        'Clock watchers never seem to be having a good time.',
+        'James Cash Penney',
+    ],
+];

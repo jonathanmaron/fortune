@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If you create incredible value and information for others that can change their lives - and you always stay focused on that service - the financial success will follow.',
-    1 => 'Brendon Burchard',
-  ),
-  1 => 
-  array (
-    0 => 'We must meet the challenge rather than wish it were not before us.',
-    1 => 'William J. Brennan, Jr.',
-  ),
-  2 => 
-  array (
-    0 => 'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
-    1 => 'Shawn Achor',
-  ),
-  3 => 
-  array (
-    0 => 'Young man, the secret of my success is that at early age I discovered that I was not God.',
-    1 => 'Oliver Wendell Holmes, Jr.',
-  ),
-  4 => 
-  array (
-    0 => 'The best cure for the body is a quiet mind.',
-    1 => 'Napoleon Bonaparte',
-  ),
-  5 => 
-  array (
-    0 => 'To those accustomed to the precise, structured methods of conventional system development, exploratory development techniques may seem messy, inelegant, and unsatisfying. But it\'s a question of congruence: precision and flexibility may be just as disfunctional in novel, uncertain situations as sloppiness and vacillation are in familiar, well-defined ones. Those who admire the massive, rigid bone structures of dinosaurs should remember that jellyfish still enjoy their very secure ecological niche.',
-    1 => 'Beau Sheil, "Power Tools for Programmers"',
-  ),
-  6 => 
-  array (
-    0 => 'Lying can never save us from another lie.',
-    1 => 'Vaclav Havel',
-  ),
-  7 => 
-  array (
-    0 => 'Being kind is the most important thing I\'ve ever been taught. That\'s what my parents always told me - more important than ambition or success is being kind to people. The cornerstone of my life. What I aspire to is to be kind.',
-    1 => 'Rafe Spall',
-  ),
-  8 => 
-  array (
-    0 => 'Things may come to those who wait, but only the things left by those who hustle.',
-    1 => 'Abraham Lincoln',
-  ),
-  9 => 
-  array (
-    0 => 'Success is about dedication. You may not be where you want to be or do what you want to do when you\'re on the journey. But you\'ve got to be willing to have vision and foresight that leads you to an incredible end.',
-    1 => 'Usher',
-  ),
-  10 => 
-  array (
-    0 => 'Rotten wood cannot be carved.',
-    1 => 'Confucius (Analects, Book 5, Chapter 9)',
-  ),
-  11 => 
-  array (
-    0 => 'In America, any boy may become president and I suppose that\'s just one of the risks he takes.',
-    1 => 'Adlai Stevenson',
-  ),
-  12 => 
-  array (
-    0 => 'Someone else\'s success does not equal a failure for you.',
-    1 => 'Joe Rogan',
-  ),
-  13 => 
-  array (
-    0 => 'A minute\'s success pays the failure of years.',
-    1 => 'Robert Browning',
-  ),
-  14 => 
-  array (
-    0 => 'I may be compelled to face danger, but never fear it, and while our soldiers can stand and fight, I can stand and feed and nurse them.',
-    1 => 'Clara Barton',
-  ),
-  15 => 
-  array (
-    0 => 'Like the United Nations, there is something inspirational about New York as a great melting pot of different cultures and traditions. And if this is the city that never sleeps, the United Nations works tirelessly, around the clock around the world.',
-    1 => 'Ban Ki-moon',
-  ),
-  16 => 
-  array (
-    0 => 'Fall seven times, stand up eight.',
-    1 => 'Japanese Proverb',
-  ),
-  17 => 
-  array (
-    0 => 'Be gentle to all and stern with yourself.',
-    1 => 'Saint Teresa of Avila',
-  ),
-  18 => 
-  array (
-    0 => 'My success was not based so much on any great intelligence but on great common sense.',
-    1 => 'Helen Gurley Brown',
-  ),
-  19 => 
-  array (
-    0 => 'Knowledge is being aware of what you can do. Wisdom is knowing when not to do it.',
-    1 => 'Unknown',
-  ),
-  20 => 
-  array (
-    0 => 'No! Try not. Do, or do not, there is no try.',
-    1 => 'Yoda',
-  ),
-  21 => 
-  array (
-    0 => 'Only those who will risk going too far can possibly find out how far it is possible to go.',
-    1 => 'TS Eliot',
-  ),
-  22 => 
-  array (
-    0 => 'In order to attain the impossible, one must attempt the absurd.',
-    1 => 'Miguel de Cervantes',
-  ),
-  23 => 
-  array (
-    0 => 'For me, success is a state of mind. I feel like success isn\'t about conquering something; it\'s being happy with who you are.',
-    1 => 'Britney Spears',
-  ),
-  24 => 
-  array (
-    0 => 'Four Very Powerful Words to Say to Your Child: I BELIEVE IN YOU.',
-    1 => 'Kevin Heath',
-  ),
-);
+return [
+    [
+        'I love insults, devastating takedowns, things that could be described by Twitter hacks as \'shots fired,\' and funny ad hominem attacks.',
+        'Alex Pareene',
+    ],
+    [
+        'I have a huge breakfast every morning because I never know if I\'ll have time for lunch, especially during Fashion Week. It keeps my mood positive all day. And my parents taught me to have tons of fruit and vegetables, which I think helps my skin.',
+        'Constance Jablonski',
+    ],
+    [
+        'I may not know everything, but everything is not known yet anyway.',
+        'Byron Pulsifer',
+    ],
+    [
+        'Old wood best to burn, old wine to drink, old friends to trust, and old authors to read.',
+        'Athenaeus',
+    ],
+    [
+        'Making better choices takes work. There is a daily give and take, but it is worth the effort.',
+        'Tom Rath',
+    ],
+    [
+        'While formal schooling is an important advantage, it is not a guarantee of success nor is its absence a fatal handicap.',
+        'Ray Kroc',
+    ],
+    [
+        'Learning to celebrate success is a key component of learning how to win in the market.',
+        'Douglas Conant',
+    ],
+    [
+        'It was one of those perfect English autumnal days which occur more frequently in memory than in life.',
+        'P. D. James',
+    ],
+    [
+        'When all the world appears to be in a tumult, and nature itself is feeling the assault of climate change, the seasons retain their essential rhythm. Yes, fall gives us a premonition of winter, but then, winter, will be forced to relent, once again, to the new beginnings of soft greens, longer light, and the sweet air of spring.',
+        'Madeleine M. Kunin',
+    ],
+    [
+        'This is just rap. I\'m not trying to make people think I\'m some sort of scientific wizard or inspirational poet.',
+        'Action Bronson',
+    ],
+    [
+        'The survival of liberty in our land increasingly depends on the success of liberty in other lands. The best hope for peace in our world is the expansion of freedom in all the world.',
+        'Bill Frist',
+    ],
+    [
+        'In 20 years, you probably won\'t even remember this.',
+        'Anonymous',
+    ],
+    [
+        'Just live life. That\'s the best way to learn how to act. Just live.',
+        'Rory Culkin',
+    ],
+    [
+        'Natural gas is hemispheric. I like to call it hemispheric in nature because it is a product that we can find in our neighborhoods.',
+        'George W. Bush',
+    ],
+    [
+        'There is only one success, to be able to spend your life in your own way.',
+        'Christopher Morley',
+    ],
+    [
+        'What nature delivers to us is never stale. Because what nature creates has eternity in it.',
+        'Isaac Bashevis Singer',
+    ],
+    [
+        'We are living in a culture where we are so led by the visual, and what is promoted in the media, that the attitude becomes, \'I don\'t have to go through normalcy in life - I can look for exemptions. And I expect them, and when I look for them and they are not there, I am angry.\'',
+        'Ben Harney',
+    ],
+    [
+        'The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter - for the future. His duty is to lay the foundation for those who are to come, and point the way.',
+        'Nikola Tesla',
+    ],
+    [
+        'If you\'re doing your best, you won\'t have any time to worry about failure.',
+        'H. Jackson Brown, Jr.',
+    ],
+    [
+        'Wisdom begins in wonder.',
+        'Socrates',
+    ],
+    [
+        'If you can attribute your success entirely to your own mental effort, to your own attitude, to some spiritual essence that you have that is better than other people\'s, then that must feel pretty good.',
+        'Barbara Ehrenreich',
+    ],
+    [
+        'All action results from thought, so it is thoughts that matter.',
+        'Sai Baba',
+    ],
+    [
+        'It\'s funny: in the middle of making \'The Muse,\' I was offered, at the time, the first \'Ice Age,\' the part that Ray Romano took: I was offered the elephant. And I couldn\'t even stop to breathe, so I didn\'t do it. They\'ve made, like, six of them. And in the animation business, for a voice actor, that\'s what you want. You want six, you know?',
+        'Albert Brooks',
+    ],
+    [
+        'It was a wonderful experience to play in the NFL, and I have no regrets. I truly will miss playing for the Lions. I consider the Lions\' players, coaches, staff, management and fans my family. I leave on good terms with everyone in the organization.',
+        'Barry Sanders',
+    ],
+    [
+        'My character\'s kind of grown up with Katniss. The beginning of the story, they\'re more or less brother and sister than anything. They\'re best friends. They\'ve been keeping each other alive. It\'s a little frustrating, for the character. As the character, not as me.',
+        'Liam Hemsworth',
+    ],
+];

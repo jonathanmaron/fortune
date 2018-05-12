@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Drag your thoughts away from your troubles... by the ears, by the heels, or any other way you can manage it.',
-    1 => 'Mark Twain',
-  ),
-  1 => 
-  array (
-    0 => 'It seems to me we can never give up longing and wishing while we are thoroughly alive. There are certain things we feel to be beautiful and good, and we must hunger after them.',
-    1 => 'George Eliot',
-  ),
-  2 => 
-  array (
-    0 => 'We were spanking each other with meat and then suddenly it got weird.',
-    1 => 'Joe Hacket',
-  ),
-  3 => 
-  array (
-    0 => 'A man should never neglect his family for business.',
-    1 => 'Walt Disney',
-  ),
-  4 => 
-  array (
-    0 => 'Being entirely honest with oneself is a good exercise.',
-    1 => 'Sigmund Freud',
-  ),
-  5 => 
-  array (
-    0 => 'If life were predictable it would cease to be life, and be without flavor.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  6 => 
-  array (
-    0 => 'There is one spectacle grander than the sea, that is the sky; there is one spectacle grander than the sky, that is the interior of the soul.',
-    1 => 'Victor Hugo',
-  ),
-  7 => 
-  array (
-    0 => 'Anyone who has never made a mistake has never tried anything new.',
-    1 => 'Albert Einstein',
-  ),
-  8 => 
-  array (
-    0 => 'I remember the day the candle shop burned down. Everyone just stood around and sang, "Happy birthday."',
-    1 => 'Steven Wright',
-  ),
-  9 => 
-  array (
-    0 => 'Try to look at your weakness and convert it into your strength. That\'s success.',
-    1 => 'Zig Ziglar',
-  ),
-  10 => 
-  array (
-    0 => 'The ego is not master in its own house.',
-    1 => 'Sigmund Freud',
-  ),
-  11 => 
-  array (
-    0 => 'Jumping at several small opportunities may get us there more quickly than waiting for one big one to come along.',
-    1 => 'Hugh Allen',
-  ),
-  12 => 
-  array (
-    0 => 'Drop the idea that you are Atlas carrying the world on your shoulders. The world would go on even without you. Don\'t take yourself so seriously.',
-    1 => 'Norman Vincent Peale',
-  ),
-  13 => 
-  array (
-    0 => 'May the spirit of the season be with you today and throughout the new year!',
-    1 => 'Edith Lovejoy Pierce',
-  ),
-  14 => 
-  array (
-    0 => 'I find that when you have a real interest in life and a curious life, that sleep is not the most important thing.',
-    1 => 'Martha Stewart',
-  ),
-  15 => 
-  array (
-    0 => 'As my mother says, \'You give back, you don\'t give up.\' You can always choose to help others. If you do, it will change you.',
-    1 => 'Susan Ford',
-  ),
-  16 => 
-  array (
-    0 => 'When choosing between two evils I always like to take the one I\'ve never tried before.',
-    1 => 'Mae West',
-  ),
-  17 => 
-  array (
-    0 => 'Action may not always bring happiness; but there is no happiness without action.',
-    1 => 'Benjamin Disraeli',
-  ),
-  18 => 
-  array (
-    0 => 'The Web is like a dominatrix. Everywhere I turn, I see little buttons ordering me to Submit.',
-    1 => 'Nytwind',
-  ),
-  19 => 
-  array (
-    0 => 'Critic, n.:
-        A person who boasts himself hard to please because nobody tries to please him.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  20 => 
-  array (
-    0 => 'Take risks in your life, if you win, you can lead. If you loose, you can guide!',
-    1 => 'Swami Vivekananda',
-  ),
-  21 => 
-  array (
-    0 => 'To this day, just always treat people the way you want to be treated. Whether it\'s family or friends or co-workers, I think it\'s the most important thing. Whether you have success or don\'t have it, whether you\'re a good person is all that matters.',
-    1 => 'Brenda Song',
-  ),
-  22 => 
-  array (
-    0 => 'Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.',
-    1 => 'Elie Wiesel',
-  ),
-  23 => 
-  array (
-    0 => 'The country needs and, unless I mistake its temper, the country demands bold, persistent experimentation.',
-    1 => 'Franklin Delano Roosevelt',
-  ),
-  24 => 
-  array (
-    0 => 'Religious bondage shackles and debilitates the mind and unfits it for every noble enterprise.',
-    1 => 'James Madison, in a letter to William Bradford, April 1, 1774',
-  ),
-);
+return [
+    [
+        'After working for years in Hollywood where the actors have taken over, it was a real relief to get down there and not only have some children, but also have some actors that had no attitude.',
+        'Phillip Noyce',
+    ],
+    [
+        'Why, I\'d like nothing better than to achieve some bold adventure, worthy of our trip.',
+        'Aristophanes',
+    ],
+    [
+        'A gentle word, a kind look, a good-natured smile can work wonders and accomplish miracles.',
+        'William Hazlitt',
+    ],
+    [
+        'Our limitations and success will be based, most often, on your own expectations for ourselves. What the mind dwells upon, the body acts upon.',
+        'Denis Waitley',
+    ],
+    [
+        'Failure is enriching. It\'s also important to accept that you\'ll make mistakes - it\'s how you build your expertise. The trick is to learn a positive lesson from all of life\'s negative moments.',
+        'Alain Ducasse',
+    ],
+    [
+        'You can\'t let praise or criticism get to you. It\'s a weakness to get caught up in either one.',
+        'John Wooden',
+    ],
+    [
+        'I just want to put some positive stuff out there. If it works, great. If it doesn\'t, no problem.',
+        'Kevin James',
+    ],
+    [
+        'When the soul looks out of its body, it should see only beauty in its path. These are the sights we must hold in mind, in order to move to a higher place.',
+        'Yusef Lateef',
+    ],
+    [
+        'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a game or a battle; the win comes from basic blocking and tackling.',
+        'Naveen Jain',
+    ],
+    [
+        'Love and business and family and religion and art and patriotism are nothing but shadows of words when a man\'s starving!',
+        'O. Henry',
+    ],
+    [
+        'If you are truly offended by an 80-year-old man saying you\'re not funny, then you\'re probably not funny.',
+        'Sarah Silverman',
+    ],
+    [
+        'I always knew I was a writer. And I always thought to myself, \'Well, why not me?\' Someone has to be on the best-seller list, \'Why not me?\' Someone has to write for the \'New Yorker,\' \'Why not me?\' And I didn\'t really get much positive reinforcement as a kid, so I thought, \'Well let me show you what I can do.\'',
+        'Elizabeth Wurtzel',
+    ],
+    [
+        'Gotta stay in the gym, stay funny, stay sharp. I just love working.',
+        'Marlon Wayans',
+    ],
+    [
+        'Happiness is the reward we get for living to the highest right we know.',
+        'Richard Bach',
+    ],
+    [
+        'I think it\'s difficult to say what exactly made me become a successful DJ. It depends on so many different things. If I were given an award, I would thank my family, friends, Tiesto and the great team behind me for all their support and hard work. Without them, I wouldn\'t be where I am today.',
+        'Martin Garrix',
+    ],
+    [
+        'Fuel prices are at the center of our lives. They affect our ability to travel, stay warm, and feed ourselves.',
+        'Robert Kiyosaki',
+    ],
+    [
+        'Time is more valuable than money, because time is irreplaceable.',
+        'John C. Maxwell',
+    ],
+    [
+        'Ignorance, hatred and greed are killing nature.',
+        'Masanobu Fukuoka',
+    ],
+    [
+        'How do you survive living in a cell knowing you are innocent? Many of those exonerated whom I have met seem to have a more benign, grateful attitude toward life than those of us who walk free. Many find a religious or spiritual stronghold.',
+        'Richard LaGravenese',
+    ],
+    [
+        'While you\'re improvising, you may come up with something which will break him up. As soon as that smile comes out, you know that, hey, we\'re having fun.',
+        'Shelley Berman',
+    ],
+    [
+        'You can\'t win unless you have good people with great attitude. They are the ones who won the games. I didn\'t win any games. You never saw a coach make a tackle anywhere. My philosophy was to get the best players and then try to do something new with them.',
+        'Hank Stram',
+    ],
+    [
+        'Everything that exists is in a manner the seed of that which will be.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Ostensibly rigorous and realistic, contemporary conservatism is an ideology of denial. Its symbol is a smile button.',
+        'Christopher Lasch',
+    ],
+    [
+        'Blaze with the fire that is never extinguished.',
+        'Luisa Sigea',
+    ],
+    [
+        'Our intention creates our reality.',
+        'Wayne Dyer',
+    ],
+];

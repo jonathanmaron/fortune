@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It\'s not what happens to you, but how you react to it that matters.',
-    1 => 'Epictetus',
-  ),
-  1 => 
-  array (
-    0 => 'When you begin to touch your heart or let your heart be touched, you begin to discover that it\'s bottomless, that it doesn\'t have any resolution, that this heart is huge, vast, and limitless. You begin to discover how much warmth and gentleness is there, as well as how much space.',
-    1 => 'Pema Chodron',
-  ),
-  2 => 
-  array (
-    0 => 'We all obviously need others to look up to, and be inspirational to us. Ford did a great job as far as putting the presidency back where it belonged, getting the trust back after Nixon. And President Reagan has been one of the most influential presidents.',
-    1 => 'Steve Garvey',
-  ),
-  3 => 
-  array (
-    0 => 'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
-    1 => 'Albert Einstein',
-  ),
-  4 => 
-  array (
-    0 => 'Success is when you see something, and you say, \'I want to do that,\' and then you do it. It\'s being happy with what you do and doing what you love every day.',
-    1 => 'Alessia Cara',
-  ),
-  5 => 
-  array (
-    0 => 'One man with courage makes a majority.',
-    1 => 'Andrew Jackson',
-  ),
-  6 => 
-  array (
-    0 => 'Ambition is the path to success, persistence is the vehicle you arrive in.',
-    1 => 'William Eardley IV',
-  ),
-  7 => 
-  array (
-    0 => 'Patience will achieve more than force.',
-    1 => 'Edmund Burke',
-  ),
-  8 => 
-  array (
-    0 => 'Begin, be bold, and venture to be wise.',
-    1 => 'Horace',
-  ),
-  9 => 
-  array (
-    0 => 'The way to get started is to quit talking and begin doing.',
-    1 => 'Walt Disney',
-  ),
-  10 => 
-  array (
-    0 => 'Socialism has no moral justification whatsoever; poor people are not morally superior to rich people, nor are they owed anything by rich people simply because of their lack of success. Charity is not a socialist concept - it is a religious one, an acknowledgment of God\'s sovereignty over property, a sovereignty the Left utterly rejects.',
-    1 => 'Ben Shapiro',
-  ),
-  11 => 
-  array (
-    0 => 'Attempt the impossible in order to improve your work.',
-    1 => 'Bette Davis',
-  ),
-  12 => 
-  array (
-    0 => 'Whatever the mind can conceive and believe, it can achieve.',
-    1 => 'Napoleon Hill',
-  ),
-  13 => 
-  array (
-    0 => 'For one American husband who maintains a chorus girl in Levantine luxury around the corner, there are hundreds who are as true to their oaths, year in and year out, as so many convicts in the deathhouse.',
-    1 => 'H.L. Mencken, In Defense of Women, 1922.',
-  ),
-  14 => 
-  array (
-    0 => 'The bassoon is one of my favorite instruments. It has a medieval aroma, like the days when everything used to sound like that. Some people crave baseball...I find this unfathomable, but I can easily understand why a person could get excited about playing the bassoon.',
-    1 => 'Frank Zappa',
-  ),
-  15 => 
-  array (
-    0 => 'If you don\'t invest very much, then defeat doesn\'t hurt very much and winning is not very exciting.',
-    1 => 'Dick Vermeil',
-  ),
-  16 => 
-  array (
-    0 => 'The shortest distance between two points is under construction.',
-    1 => 'Noelie Altito',
-  ),
-  17 => 
-  array (
-    0 => 'I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.',
-    1 => 'Dalai Lama',
-  ),
-  18 => 
-  array (
-    0 => 'The only thing I\'m addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent.',
-    1 => 'Charlie Sheen',
-  ),
-  19 => 
-  array (
-    0 => 'In every country and every age, the priest has been hostile to Liberty. He is always in alliance with the despot.',
-    1 => 'Thomas Jefferson, in a letter to Horatio G. Spafford, 1814',
-  ),
-  20 => 
-  array (
-    0 => 'I always felt that the great high privilege, relief and comfort of friendship was that one had to explain nothing.',
-    1 => 'Katherine Mansfield',
-  ),
-  21 => 
-  array (
-    0 => 'Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.',
-    1 => 'Colin Powell',
-  ),
-  22 => 
-  array (
-    0 => 'You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  23 => 
-  array (
-    0 => 'I don\'t have dreams, I have goals.',
-    1 => 'Harvey Specter',
-  ),
-  24 => 
-  array (
-    0 => 'I will contend that conceptual integrity is *the* most important consideration in system design.',
-    1 => 'Frederick Brooks, Jr., "The Mythical Man Month"',
-  ),
-);
+return [
+    [
+        'Miracles come in moments. Be ready and willing.',
+        'Wayne Dyer',
+    ],
+    [
+        'This is the paradox for me: in failure alone is there any possibility of success. I don\'t think I\'m alone in this - nor do I think it\'s an attitude that only prevails among people whose work is obviously \'creative\'.',
+        'Will Self',
+    ],
+    [
+        'Don\'t let the fear of losing be greater than the excitement of winning.',
+        'Robert Kiyosaki',
+    ],
+    [
+        'In most things success depends on knowing how long it takes to succeed.',
+        'Charles de Montesquieu',
+    ],
+    [
+        'I am a thing of beauty.',
+        'Frank Sinatra',
+    ],
+    [
+        'We\'re in a situation where talented, motivated school leavers and graduates can send off a hundred CVs and not get a reply, and where a trip to the Job Centre is depressing rather than inspirational. And you know what, that just feels wrong.',
+        'Jameela Jamil',
+    ],
+    [
+        'Many business leaders are seeing the relationship between long term success and sustainability, and that\'s very heartening.',
+        'Jacqueline Novogratz',
+    ],
+    [
+        'Nature... is nothing but the inner voice of self-interest.',
+        'Charles Baudelaire',
+    ],
+    [
+        'Every person remembers some moment in their life where they witnessed some injustice, big or small, and looked away because the consequences of intervening seemed too intimidating. But there\'s a limit to the amount of incivility and inequality and inhumanity that each individual can tolerate. I crossed that line. And I\'m no longer alone.',
+        'Malala Yousafzai',
+    ],
+    [
+        'To him who in the love of Nature holds Communion with her visible forms, she speaks A various language.',
+        'William C. Bryant',
+    ],
+    [
+        'I make funny videos of me playing video games, and I share those moments.',
+        'PewDiePie',
+    ],
+    [
+        'My dad said to me, \'Work hard and be patient.\' It was the best advice he ever gave me. You have to put the hours in.',
+        'Simon Cowell',
+    ],
+    [
+        'The single most important key to success is to be a good listener.',
+        'Kelly Wearstler',
+    ],
+    [
+        'Life\'s like a play: it\'s not the length, but the excellence of the acting that matters.',
+        'David Gerrold',
+    ],
+    [
+        'I don\'t know about you, but my girlfriends have been my girlfriends forever, and they\'re my sisters and my family.',
+        'Elizabeth Olsen',
+    ],
+    [
+        'A word to the wise is infuriating.',
+        'Hunter S. Thompson',
+    ],
+    [
+        'Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success.',
+        'William J. H. Boetcker',
+    ],
+    [
+        'You have to push yourself when you\'re older because it\'s very easy to fall into the trap. You start to fall apart - you just have to do your best to paste yourself together. I think doing things and being active is very important. When your mind is busy, you don\'t hurt so much.',
+        'Iris Apfel',
+    ],
+    [
+        'The beautiful remains so in ugly surroundings.',
+        'Malcolm de Chazal',
+    ],
+    [
+        'You should feel good about making your home nicer for your family and your friends. You should feel great about cooking a good dinner and making a dress for a granddaughter, creating a beautiful birthday party. It\'s all part of life.',
+        'Martha Stewart',
+    ],
+    [
+        'Act like you expect to get into the end zone.',
+        'Christopher Morley',
+    ],
+    [
+        'There is no traffic jam along the extra mile.',
+        'Roger Staubach',
+    ],
+    [
+        'I was the first in my family to go to college, and I waitressed all the way through, using my earnings to pay for a bachelor\'s degree first and then a master\'s. I resented classmates who didn\'t have to work real jobs, the ones who had the luxury of taking unpaid internships that would eventually position them for high-paying careers.',
+        'Ali Liebegott',
+    ],
+    [
+        'Life itself still remains a very effective therapist.',
+        'Mary J. Blige',
+    ],
+    [
+        'I was raised to believe that excellence is the best deterrent to racism or sexism. And that\'s how I operate my life.',
+        'Oprah Winfrey',
+    ],
+];

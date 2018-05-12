@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Every story I create, creates me. I write to create myself.',
-    1 => 'Octavia E. Butler',
-  ),
-  1 => 
-  array (
-    0 => 'Thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement.',
-    1 => 'Claude M. Bristol',
-  ),
-  2 => 
-  array (
-    0 => 'The aim of life is no more to control the mind, but to develop it harmoniously; not to achieve salvation here after, but to make the best use of it here below',
-    1 => 'Bhagat Singh',
-  ),
-  3 => 
-  array (
-    0 => 'Don\'t worry about things that you have no control over, because you have no control over them. Don\'t worry about things that you have control over, because you have control over them.',
-    1 => 'Mickey Rivers',
-  ),
-  4 => 
-  array (
-    0 => 'Your big opportunity may be right where you are now.',
-    1 => 'Napoleon Hill',
-  ),
-  5 => 
-  array (
-    0 => 'All you need in this life is ignorance and confidence, and then success is sure',
-    1 => 'Mark Twain',
-  ),
-  6 => 
-  array (
-    0 => 'Love one another and you will be happy. It\'s as simple and as difficult as that.',
-    1 => 'Alexander Chase',
-  ),
-  7 => 
-  array (
-    0 => 'You never lose a dream. It just incubates as a hobby.',
-    1 => 'Larry Page',
-  ),
-  8 => 
-  array (
-    0 => 'It takes a long time to understand nothing.',
-    1 => 'Edward Dahlberg',
-  ),
-  9 => 
-  array (
-    0 => 'Once you have a lot of success, you become a target in many ways.',
-    1 => 'Jennifer Lopez',
-  ),
-  10 => 
-  array (
-    0 => 'Wozencraft\'s Law:
-        If you make all of your plans on the assumption that a particular thing won\'t happen',
-    1 => 'it will.',
-  ),
-  11 => 
-  array (
-    0 => 'The things you own end up owning you.',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  12 => 
-  array (
-    0 => 'I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance.',
-    1 => 'William Faulkner',
-  ),
-  13 => 
-  array (
-    0 => 'The world is no nursery.',
-    1 => 'Sigmund Freud',
-  ),
-  14 => 
-  array (
-    0 => 'My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed.',
-    1 => 'Mark Warner',
-  ),
-  15 => 
-  array (
-    0 => 'He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.',
-    1 => 'Albert Einstein',
-  ),
-  16 => 
-  array (
-    0 => 'Your purpose may not always be obvious, but always remember that you do have a purpose.',
-    1 => 'Rodney Williams',
-  ),
-  17 => 
-  array (
-    0 => 'To live is the rarest thing in the world. Most people exist, that is all.',
-    1 => 'Oscar Wilde',
-  ),
-  18 => 
-  array (
-    0 => 'Life without love is like a tree without blossoms or fruit.',
-    1 => 'Khalil Gibran',
-  ),
-  19 => 
-  array (
-    0 => 'The hand that rocks the cradle can also cradle a rock.',
-    1 => 'Feminist saying, circa 1968-1972',
-  ),
-  20 => 
-  array (
-    0 => 'The culture of a workplace - an organization\'s values, norms and practices - has a huge impact on our happiness and success.',
-    1 => 'Adam Grant',
-  ),
-  21 => 
-  array (
-    0 => 'You can\'t wait for inspiration. You have to go after it with a club.',
-    1 => 'Jack London',
-  ),
-  22 => 
-  array (
-    0 => 'So we follow our wandering paths, and the very darkness acts as our guide and our doubts serve to reassure us.',
-    1 => 'Jean-Pierre de Caussade, eighteenth-century Jesuit priest',
-  ),
-  23 => 
-  array (
-    0 => 'We are here to make another world.',
-    1 => 'W. Edwards Deming',
-  ),
-  24 => 
-  array (
-    0 => 'It is such a luxury to open a new book that\'s highly recommended by friends - either an inspirational yet humorously self-deprecating memoir, or a page-turning piece of fiction.',
-    1 => 'Kelli O\'Hara',
-  ),
-);
+return [
+    [
+        'I\'ve shown that if you dream and are willing to work hard, you can achieve your dreams.',
+        'Mo Farah',
+    ],
+    [
+        'I\'m very lighthearted, outgoing, friendly, and funny, so I like to try new things.',
+        'Chandler Parsons',
+    ],
+    [
+        'The true mark of professionalism is the ability to respect everyone else for their styles and always find something positive in every dining experience and highlight it in your thoughts and words.',
+        'Johnny Iuzzini',
+    ],
+    [
+        'Love is what really fuels you, and that goes for relationships with a spouse or with family. Love is a beautiful thing.',
+        'Christina Milian',
+    ],
+    [
+        'You cannot find yourself by going into the past. You can find yourself by coming into the present.',
+        'Eckhart Tolle',
+    ],
+    [
+        'The fall is my favorite time of year. I love the colors. The sun is out, you get warmth on your skin but there\'s the coolness of the breeze. It\'s really comfortable.',
+        'Ricky Skaggs',
+    ],
+    [
+        'Since day one, since the first time I touched the pen, I wanted to be the best at what I do.',
+        'Kendrick Lamar',
+    ],
+    [
+        'And while the law of competition may be sometimes hard for the individual, it is best for the race, because it ensures the survival of the fittest in every department.',
+        'Andrew Carnegie',
+    ],
+    [
+        'Our challenge for the future is that we realize we are very much a part of the earth\'s ecosystem, and we must learn to respect and live according to the basic biological laws of nature.',
+        'Jim Fowler',
+    ],
+    [
+        'It can be easy to buy into anything. I would lose focus if I went with that attitude of wanting to be famous.',
+        'Tristan MacManus',
+    ],
+    [
+        'When I haven\'t been working I\'ve tried to travel a lot.',
+        'Emma Watson',
+    ],
+    [
+        'Arrogance, ignorance, and incompetence. Not a pretty cocktail of personality traits in the best of situations. No sirree. Not a pretty cocktail in an office-mate and not a pretty cocktail in a head of state. In fact, in a leader, it\'s a lethal cocktail.',
+        'Graydon Carter',
+    ],
+    [
+        'Loneliness is my least favorite thing about life. The thing that I\'m most worried about is just being alone without anybody to care for or someone who will care for me.',
+        'Stevie Wonder',
+    ],
+    [
+        'Nature is not only all that is visible to the eye... it also includes the inner pictures of the soul.',
+        'Edvard Munch',
+    ],
+    [
+        'When I go to my live shows it\'s often a multigenerational audience, a family bonding experience.',
+        'Al Yankovic',
+    ],
+    [
+        'Comedy is surprises, so if you\'re intending to make somebody laugh and they don\'t laugh, that\'s funny.',
+        'Norm MacDonald',
+    ],
+    [
+        'There are people out there who hate me and who say I\'m arrogant, vain, and whatever. That\'s all part of my success. I am made to be the best.',
+        'Cristiano Ronaldo',
+    ],
+    [
+        'The grand essentials of happiness are: something to do, something to love, and something to hope for.',
+        'Chalmers',
+    ],
+    [
+        'The older you get, the better you have to look, the higher you have to kick, the harder you have to work.',
+        'Salman Khan',
+    ],
+    [
+        'There is no wealth but life.',
+        'Jackson Pollock',
+    ],
+    [
+        'Most of us who become experimental physicists do so for two reasons; we love the tools of physics because to us they have intrinsic beauty, and we dream of finding new secrets of nature as important and as exciting as those uncovered by our scientific heroes.',
+        'Luis Walter Alvarez',
+    ],
+    [
+        'I always say be humble but be firm. Humility and openness are the key to success without compromising your beliefs.',
+        'George Hickenlooper',
+    ],
+    [
+        'Argue for your limitations, and sure enough they\'re yours.',
+        'Richard Bach',
+    ],
+    [
+        'In nicey-nicey land, you must be happy-clappy and positive all the time - bad news is taboo.',
+        'Michael Leunig',
+    ],
+    [
+        'I hope people remember me as a good and decent man. And if they do, then that\'s success.',
+        'Tim Cook',
+    ],
+];

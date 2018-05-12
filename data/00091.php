@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Be a hero, always say, I have no fear!',
-    1 => 'Swami Vivekananda',
-  ),
-  1 => 
-  array (
-    0 => 'Past success is no guarantee of future success, so I have learned to be an entrepreneur. I began to produce and direct my own projects.',
-    1 => 'Ian Ziering',
-  ),
-  2 => 
-  array (
-    0 => '“Unless India stands up to the world, no one will respect us. In this world, fear has no place. Only strength respects strength.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  3 => 
-  array (
-    0 => 'The more one does and sees and feels, the more one is able to do, and the more genuine may be one\'s appreciation of fundamental things like home, and love, and understanding companionship.',
-    1 => 'Amelia Earhart',
-  ),
-  4 => 
-  array (
-    0 => 'When the root is strong, the fruit is sweet.',
-    1 => 'Bob Marley',
-  ),
-  5 => 
-  array (
-    0 => 'There is no such thing as a \'self-made\' man. We are made up of thousands of others. Everyone who has ever done a kind deed for us, or spoken one word of encouragement to us, has entered into the make-up of our character and of our thoughts, as well as our success.',
-    1 => 'George Burton Adams',
-  ),
-  6 => 
-  array (
-    0 => 'Every human life is worth the same, and worth saving.',
-    1 => 'J.K. Rowling',
-  ),
-  7 => 
-  array (
-    0 => 'One secret of success in life is for a man to be ready for his opportunity when it comes.',
-    1 => 'Benjamin Disraeli',
-  ),
-  8 => 
-  array (
-    0 => 'A banker is a fellow who lends you his umbrella when the sun is shining and wants it back the minute it begins to rain.',
-    1 => 'Mark Twain',
-  ),
-  9 => 
-  array (
-    0 => 'I love you not because of who you are, but because of who I am when I am with you.',
-    1 => 'Adam Lindsay [Lionel Gordon] Gordon',
-  ),
-  10 => 
-  array (
-    0 => 'We have met the enemy and he is us',
-    1 => 'Walt Kelly (in POGO)',
-  ),
-  11 => 
-  array (
-    0 => 'The World is full of such wondrous things; we should all be as happy as kings.',
-    1 => 'Anonymous',
-  ),
-  12 => 
-  array (
-    0 => 'Fire tries gold, misfortune tries brave men.',
-    1 => 'Seneca',
-  ),
-  13 => 
-  array (
-    0 => 'Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment.',
-    1 => 'Seneca',
-  ),
-  14 => 
-  array (
-    0 => 'He who is outside his door has the hardest part of his journey behind him.',
-    1 => 'Dutch proverb',
-  ),
-  15 => 
-  array (
-    0 => 'How can you cross new bridges if you\'re not willing to burn old ones?',
-    1 => 'Robin Sharma',
-  ),
-  16 => 
-  array (
-    0 => 'To follow foolish precedents, and wink With both our eyes, is easier than to think.',
-    1 => 'William Cowper',
-  ),
-  17 => 
-  array (
-    0 => 'A wise man makes his own decisions; an ignorant man follows public opinion.',
-    1 => 'Chinese Proverb',
-  ),
-  18 => 
-  array (
-    0 => 'In inner-city, low-income communities of color, there\'s such a high correlation in terms of educational quality and success.',
-    1 => 'Bill Gates',
-  ),
-  19 => 
-  array (
-    0 => 'I regret to say that we of the F.B.I. are powerless to act in cases of oral-genital intimacy, unless it has in some way obstructed interstate commerce.',
-    1 => 'J. Edgar Hoover',
-  ),
-  20 => 
-  array (
-    0 => 'You should respect each other and refrain from disputes; you should not, like water and oil, repel each other, but should, like milk and water, mingle together.',
-    1 => 'Buddha',
-  ),
-  21 => 
-  array (
-    0 => 'I think of a hero as someone who understands the degree of responsibility that comes with his freedom.',
-    1 => 'Bob Dylan [Robert Allen Zimmerman]',
-  ),
-  22 => 
-  array (
-    0 => 'It was character that got us out of bed, commitment that moved us into action, and discipline that enabled us to follow through.',
-    1 => 'Zig Ziglar',
-  ),
-  23 => 
-  array (
-    0 => 'To do easily what is difficult for others is the mark of talent.',
-    1 => 'H. F. Amiel',
-  ),
-  24 => 
-  array (
-    0 => 'You don\'t play for the crowd, you play for the country.',
-    1 => 'M.S. Dhoni',
-  ),
-);
+return [
+    [
+        'Don\'t give up, Today is hard. Tomorrow will be worse. Day after tomorrow will be sunshine.',
+        'Jack Ma',
+    ],
+    [
+        'When I tried to play something and screwed up, I\'d hear some other note that would come into play. Then I started trying different things to find the beauty in it.',
+        'Dimebag Darrell',
+    ],
+    [
+        'The weaker the country, the stronger the smile.',
+        'Howard E. Koch',
+    ],
+    [
+        'No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.',
+        'Buddha',
+    ],
+    [
+        'You must be the change you wish to see in the world.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'If you\'re in my shoes, and your goal is to leave people with the biggest possible smile on their face, then doing the meet-and-greet afterwards makes sense.',
+        'Mick Foley',
+    ],
+    [
+        'Most of the things we decide are not what we know to be the best. We say yes, merely because we are driven into a corner and must say something.',
+        'Frank Crane',
+    ],
+    [
+        'I have been overcome by the beauty and richness of our life together, those early mornings setting out, those evenings gleaming with rivers and lakes below us, still holding the last light.',
+        'Anne Morrow Lindbergh',
+    ],
+    [
+        'We can\'t just rail against crime. We must speak of the root problems - devastating family breakup, an insidious culture of violence that cheapens human life, skyrocketing prisoner recidivism rates that rob our communities of husbands and fathers - and recognize that there is a societal role in rehabilitation and restoration.',
+        'Frank Wolf',
+    ],
+    [
+        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
+        'James D. Watson',
+    ],
+    [
+        'I never did a day\'s work in my life. It was all fun.',
+        'Thomas A. Edison',
+    ],
+    [
+        'It has been a long journey, but if you dream and have the ambition and want to work hard, then you can achieve.',
+        'Mo Farah',
+    ],
+    [
+        'Let us make our future now, and let us make our dreams tomorrow\'s reality.',
+        'Malala Yousafzai',
+    ],
+    [
+        'Time passes irrevocably.',
+        'Virgil',
+    ],
+    [
+        'I love a woman in a tuxedo, or in a dress, who looks comfortable, relaxed, happy. I\'d love to dress Daphne Guinness - she has exactly that attitude.',
+        'Stephane Rolland',
+    ],
+    [
+        'Good fiction is about asserting the beauties of the world, inventing a new, positive thing. Where am I going to get that? And it should be original; it should not be cliched. So the way I looked at history was not to accuse it of failure.',
+        'Orhan Pamuk',
+    ],
+    [
+        'He who is overly attached to his family members experiences fear and sorrow, for the root of all grief is attachment. Thus one should discard attachment to be happy.',
+        'Chanakya',
+    ],
+    [
+        'Don\'t confuse fame with success. Madonna is one; Helen Keller is the other.',
+        'Erma Bombeck',
+    ],
+    [
+        'The best way to inspire people to superior performance is to convince them by everything you do and by your everyday attitude that you are wholeheartedly supporting them.',
+        'Harold S. Geneen',
+    ],
+    [
+        'Art in Nature is rhythmic and has a horror of constraint.',
+        'Robert Delaunay',
+    ],
+    [
+        'Leonardo Fibonacci, the great 13th century Italian mathematician (1175-1250) created the \'Fibonacci sequence\' to explain behavior in nature mathematically. History has it that the first question he posed was how many rabbits would be created in one year starting with one pair.',
+        'Rick Santelli',
+    ],
+    [
+        'A stumble may prevent a fall.',
+        '',
+    ],
+    [
+        'Between stimulus and response, there is a space where we choose our response.',
+        'Stephen Covey',
+    ],
+    [
+        'If you do what you love, you\'ll never work a day in your life.',
+        'Marc Anthony',
+    ],
+    [
+        'Solitude is very different from a \'time-out\' from our busy lives. Solitude is the very ground from which community grows. Whenever we pray alone, study, read, write, or simply spend quiet time away from the places where we interact with each other directly, we are potentially opened for a deeper intimacy with each other.',
+        'Henri Nouwen',
+    ],
+];

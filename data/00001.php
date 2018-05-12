@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The world is a fantasy, so let\'s find out about it.',
-    1 => 'Astrophysicist Dennis Sciama, to Timothy Ferris (quoted in Ferris\'s book, "The Mind\'s Sky")',
-  ),
-  1 => 
-  array (
-    0 => 'I shall pass this way but once; any good that I can do or any kindness I can show to any human being; let me do it now. Let me not defer nor neglect it, for I shall not pass this way again.',
-    1 => 'Etienne de Grellet',
-  ),
-  2 => 
-  array (
-    0 => 'I don\'t dislike rappers or hip-hop or people who like it. I went to the Def Jam tour in Manchester in the \'80s when rap was inspirational. Public Enemy were awesome. But it\'s all about status and bling now, and it doesn\'t say anything to me.',
-    1 => 'Noel Gallagher',
-  ),
-  3 => 
-  array (
-    0 => 'When someone leaves, it\'s because someone else is about to arrive.',
-    1 => 'Paulo Coelho',
-  ),
-  4 => 
-  array (
-    0 => 'The solution to a problem changes the problem.',
-    1 => 'J. Martin',
-  ),
-  5 => 
-  array (
-    0 => 'To meet at all, one must open ones eyes to another; and there is no true conversation no matter how many words are spoken, unless the eye, unveiled and listening, opens itself to the other.',
-    1 => 'Jessamyn West',
-  ),
-  6 => 
-  array (
-    0 => 'I didn\'t fail the test. I just found 100 ways to do it wrong.',
-    1 => 'Benjamin Franklin',
-  ),
-  7 => 
-  array (
-    0 => 'Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success.',
-    1 => 'William J. H. Boetcker',
-  ),
-  8 => 
-  array (
-    0 => 'No self-respecting woman should wish or work for the success of a party who ignores her sex.',
-    1 => 'Susan B. Anthony',
-  ),
-  9 => 
-  array (
-    0 => 'Success is not a function of the size of your title but the richness of your contribution.',
-    1 => 'Robin S. Sharma',
-  ),
-  10 => 
-  array (
-    0 => 'Progress in every age results only from the fact that there are some men and women who refuse to believe that what they know to be right cannot be done.',
-    1 => 'Russell W. Davenport',
-  ),
-  11 => 
-  array (
-    0 => 'I\'m not tempted to write a song about George W. Bush. I couldn\'t figure out what sort of song I would write. That\'s the problem: I don\'t want to satirise George Bush and his puppeteers, I want to vaporize them.',
-    1 => 'Tom Lehrer (2003)',
-  ),
-  12 => 
-  array (
-    0 => 'A city is a large community where people are lonesome together.',
-    1 => 'Herbert Prochnow',
-  ),
-  13 => 
-  array (
-    0 => 'Happiness is itself a kind of gratitude.',
-    1 => 'Joseph Wood Krutch',
-  ),
-  14 => 
-  array (
-    0 => 'One finds limits by pushing them.',
-    1 => 'Herbert Simon',
-  ),
-  15 => 
-  array (
-    0 => 'I sort of understood that when I first started: that you shouldn\'t repeat a success. Very often you\'re going to, and maybe the first time you do, it works. And you love it. But then you\'re trapped.',
-    1 => 'Jack Nicholson',
-  ),
-  16 => 
-  array (
-    0 => 'One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.',
-    1 => 'Henry Brook Adams',
-  ),
-  17 => 
-  array (
-    0 => 'Ambition beats genius 99 percent of the time.',
-    1 => 'Jay Leno',
-  ),
-  18 => 
-  array (
-    0 => 'The only question to ask yourself is, how much are you willing to sacrifice to achieve this success?',
-    1 => 'Larry Flynt',
-  ),
-  19 => 
-  array (
-    0 => 'I attribute my success to this - I never gave or took any excuse.',
-    1 => 'Florence Nightingale',
-  ),
-  20 => 
-  array (
-    0 => 'Nurture your minds with great thoughts. To believe in the heroic makes heroes.',
-    1 => 'Benjamin Disraeli',
-  ),
-  21 => 
-  array (
-    0 => 'Keep on beginning and failing. Each time you fail, start all over again, and you will grow stronger until you have accomplished a purpose ... not the one you began with perhaps, but one you\'ll be glad to remember.',
-    1 => 'Anne Sullivan Macy',
-  ),
-  22 => 
-  array (
-    0 => 'Love yourself, accept yourself, forgive yourself, and be good to yourself, because without you the rest of us are without a source of many wonderful things.',
-    1 => 'Dr. Leo Buscaglia',
-  ),
-  23 => 
-  array (
-    0 => 'You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like.',
-    1 => 'Kevin O\'Leary',
-  ),
-  24 => 
-  array (
-    0 => 'A guitar is like an old friend that is there with me.',
-    1 => 'B.B. King',
-  ),
-);
+return [
+    [
+        'Those who find beauty in all of nature will find themselves at one with the secrets of life itself.',
+        'L. Wolfe Gilbert',
+    ],
+    [
+        'While looking up news from the North Caucasus on Twitter, I was linked to the sanguinely titled \'Seven Wonders of Chechnya Tour\' on the website of Chechnya Travel, the postwar republic\'s first tourism outfit, founded in 2012.',
+        'Anthony Marra',
+    ],
+    [
+        'I wake up every morning and I feel like I\'m juggling glass balls. I live in Los Angeles, my business is run out of London, and most evenings I\'m cuddled up in front of Skype, in my dressing gown, speaking with my studio in London. I travel a lot, my team travel a lot, but I wouldn\'t have it any other way.',
+        'Victoria Beckham',
+    ],
+    [
+        'Success isn\'t about the end result, it\'s about what you learn along the way.',
+        'Vera Wang',
+    ],
+    [
+        'Art is not the application of a canon of beauty but what the instinct and the brain can conceive beyond any canon. When we love a woman we don\'t start measuring her limbs.',
+        'Pablo Picasso',
+    ],
+    [
+        'Management is efficiency in climbing the ladder of success; leadership determines whether the ladder is leaning against the right wall.',
+        'Stephen Covey',
+    ],
+    [
+        'TV deals in very broad strokes. Like, \'Oh, that\'s my dumb friend\', or, \'That\'s my funny friend.\' A true best friend, a sidekick, has to be a little deeper then that. You have to feel like there\'s nothing either character won\'t do. That someone really, really has their back.',
+        'Willie Garson',
+    ],
+    [
+        'The best work is not what is most difficult for you; it is what you do best.',
+        'Jean-Paul Sartre',
+    ],
+    [
+        'I like to have Chinese furniture in my home as a constant and painful reminder of how much has been destroyed in China. The contrast between the beauty of the past and the ugliness of the modern is nowhere sharper than in China.',
+        'Jung Chang',
+    ],
+    [
+        'Real success is finding your lifework in the work that you love.',
+        'David McCullough',
+    ],
+    [
+        'Your attitude will go a long way in determining your success, your recognition, your reputation and your enjoyment in being a lawyer.',
+        'Joe Jamail',
+    ],
+    [
+        'The feminist movement is not about success for women. It is about treating women as victims and about telling women that you can\'t succeed because society is unfair to you, and I think that\'s a very unfortunate idea to put in the minds of young women because I believe women can do whatever they want.',
+        'Phyllis Schlafly',
+    ],
+    [
+        'Nature is a divine art; it cannot be the artist. It is a dominical book and cannot be the scribe. It is an embroidery and cannot be the embroiderer. It is a register and cannot be the accountant. It is the law and cannot be the power.',
+        'Said Nursi',
+    ],
+    [
+        'I\'m a very traditional person. The tattoos are about my grandmother dying and they tell the story about my mother and father, my brothers and my sister, my kids. It\'s pretty much a family tree on my arm with my life in football too.',
+        'Timothy F. Cahill',
+    ],
+    [
+        "You don\u{92}t have to explain your dreams, they belong to you.",
+        'Paulo Coelho',
+    ],
+    [
+        'Chilling out on the bed in your hotel room watching television, while wearing your own pajamas, is sometimes the best part of a vacation.',
+        'Laura Marano',
+    ],
+    [
+        'I survived because the fire inside me burned brighter than the fire around me.',
+        'Joshua Graham',
+    ],
+    [
+        'You have to approach something with indifference, as if you had no aesthetic emotion. The choice of readymades is always based on visual indifference and, at the same time, on the total absence of good or bad taste.',
+        'Marcel Duchamp',
+    ],
+    [
+        'Remember that it is not enough to abstain from lying by word of mouth; for the worst lies are often conveyed by a false look, smile, or act.',
+        'Abraham Cahan',
+    ],
+    [
+        'To enjoy enduring success we should travel a little in advance of the world.',
+        'John McDonald',
+    ],
+    [
+        'Success is the American Dream. And that success is not something to be ashamed of, or to demonize.',
+        'Susana Martinez',
+    ],
+    [
+        'The diversity of India, of our civilization, is actually a thing of beauty, which is something we are extremely proud of.',
+        'Narendra Modi',
+    ],
+    [
+        'I think it\'s a very firm part of human nature that if you surround yourself with like-minded people, you\'ll end up thinking more extreme versions of what you thought before.',
+        'Cass Sunstein',
+    ],
+    [
+        'I have had wrinkles on my forehead and my smile line since I was a kid. I see them in my own kids. I know what they\'re going to look like. So it\'s kind of like that\'s my personality. I feel the older you get, too, the more confident you become just in your own skin.',
+        'Faith Hill',
+    ],
+    [
+        'The present is a point just passed.',
+        'David Russell',
+    ],
+];

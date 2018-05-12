@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'He who prefers, before all things, his rational part and spirit... he shall never lament and exclaim; never sigh; he shall never want either solitude or company; and, which is chiefest of all, he shall live without either desire or fear.',
-    1 => 'Marcus Aurelius, "The Meditations", Book III',
-  ),
-  1 => 
-  array (
-    0 => 'We must continually remind students in the classroom that expression of different opinions and dissenting ideas affirms the intellectual process. We should forcefully explain that our role is not to teach them to think as we do but rather to teach them, by example, the importance of taking a stance that is rooted in rigorous engagement with the full range of ideas about a topic.',
-    1 => 'Bell Hooks [Gloria Jean Watkins]',
-  ),
-  2 => 
-  array (
-    0 => 'A right is not what someone gives you; it\'s what no one can take from you.',
-    1 => 'Ramsey Clark',
-  ),
-  3 => 
-  array (
-    0 => 'At the end of your life, you will never regret not having passed one more test, not winning one more verdict, or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
-    1 => 'Barbara Bush',
-  ),
-  4 => 
-  array (
-    0 => 'An investment in knowledge pays the best interest.',
-    1 => 'Benjamin Franklin',
-  ),
-  5 => 
-  array (
-    0 => 'If you accept the expectations of others, especially negative ones, then you never will change the outcome.',
-    1 => 'Michael Jordan',
-  ),
-  6 => 
-  array (
-    0 => 'No one can make you feel inferior without your consent.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  7 => 
-  array (
-    0 => 'Achieve success in any area of life by identifying the optimum strategies and repeating them until they become habits.',
-    1 => 'Charles J. Givens',
-  ),
-  8 => 
-  array (
-    0 => 'Friendship, love, health, energy, enthusiasm, and joy are the things that make life worth living and exploring.',
-    1 => 'Denise Austin',
-  ),
-  9 => 
-  array (
-    0 => 'Life consists not in holding good cards but in playing those you hold well.',
-    1 => 'Josh Billings',
-  ),
-  10 => 
-  array (
-    0 => 'Life is a series of punches. It presents a lot of challenges. It presents a lot of hardship, but the people that are able to take those punches and able to move forward are the ones that really do have a lot of success and have a lot of joy in their life and have a lot of stories to tell, too.',
-    1 => 'Josh Turner',
-  ),
-  11 => 
-  array (
-    0 => 'My success just evolved from working hard at the business at hand each day.',
-    1 => 'Johnny Carson',
-  ),
-  12 => 
-  array (
-    0 => 'Bodybuilding is an art, your body is the canvas, weights are your brush and nutrition is your paint. We all have the ability to turn a self-portrait into a masterpiece.',
-    1 => 'Kai Greene',
-  ),
-  13 => 
-  array (
-    0 => 'An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.',
-    1 => 'Dr. Thomas Fuller',
-  ),
-  14 => 
-  array (
-    0 => 'Tolerance is the positive and cordial effort to understand another\'s beliefs, practices, and habits without necessarily sharing or accepting them.',
-    1 => 'Joshua Loth Leibman',
-  ),
-  15 => 
-  array (
-    0 => 'All those who are around me are the bridge to my success, so they are all important.',
-    1 => 'Manny Pacquiao',
-  ),
-  16 => 
-  array (
-    0 => 'God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it.',
-    1 => 'Steve Harvey',
-  ),
-  17 => 
-  array (
-    0 => 'The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.',
-    1 => 'Ben Okri',
-  ),
-  18 => 
-  array (
-    0 => 'In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.',
-    1 => 'James Allen',
-  ),
-  19 => 
-  array (
-    0 => 'It always seems impossible until it is done.',
-    1 => 'Nelson Mandela',
-  ),
-  20 => 
-  array (
-    0 => 'You don\'t have to be great to start, but you have to start to be great.',
-    1 => 'Zig Ziglar',
-  ),
-  21 => 
-  array (
-    0 => 'Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity.',
-    1 => 'Henry Van Dyke',
-  ),
-  22 => 
-  array (
-    0 => 'The remarkable thing is that we really love our neighbor as ourselves: we do unto others as we do unto ourselves. We hate others when we hate ourselves. We are tolerant toward others when we tolerate ourselves. We forgive others when we forgive ourselves. We are prone to sacrifice others when we are ready to sacrifice ourselves.',
-    1 => 'Eric Hoffer',
-  ),
-  23 => 
-  array (
-    0 => 'Self-esteem is as important to our well-being as legs are to a table. It is essential for physical and mental health and for happiness.',
-    1 => 'Richard David De Vos',
-  ),
-  24 => 
-  array (
-    0 => 'Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.',
-    1 => 'Marcus Aurelius',
-  ),
-);
+return [
+    [
+        'Through perseverance many people win success out of what seemed destined to be certain failure.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'It\'s funny, because in deference to conventional wisdom, I spent my struggling writer years trying to suppress my naturally baroque literary voice and write clean, spare prose. I finally gave up and embraced my baroque tendencies when I wrote the Kushiel series.',
+        'Jacqueline Carey',
+    ],
+    [
+        'Men were not intended to work with the accuracy of tools, to be precise and perfect in all their actions.',
+        'John Ruskin',
+    ],
+    [
+        'Every girl should use what Mother Nature gave her before Father Time takes it away.',
+        'Laurence J. Peter',
+    ],
+    [
+        'The whole secret of a successful life is to find out what is one\'s destiny to do, and then do it.',
+        'Henry Ford',
+    ],
+    [
+        'I was looking for something a lot heavier, yet melodic at the same time. Something different from heavy metal, a different attitude.',
+        'Kurt Cobain',
+    ],
+    [
+        'Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.',
+        'Wayne Gretzky',
+    ],
+    [
+        'My only responsibility as a playwright and a storyteller is to give you the time of your life in the theatre. I just happen to think that with Hamilton\'s story, sticking close to the facts helps me. All the most interesting things in the show happened.',
+        'Lin-Manuel Miranda',
+    ],
+    [
+        'To maintain a joyful family requires much from both the parents and the children. Each member of the family has to become, in a special way, the servant of the others.',
+        'Pope John Paul II',
+    ],
+    [
+        'Baseball was, is and always will be to me the best game in the world.',
+        'Babe Ruth',
+    ],
+    [
+        'Be the chief but never the lord.',
+        'Lao Tzu',
+    ],
+    [
+        'I don\'t want to let my guard down and feel too comfortable. If you become complacent, you start feeling entitled. I\'m ready to go dig ditches if I have to. Whatever I gotta do to provide for my family. Whatever I gotta do to make sure that I do the best possible job at whatever wonderful opportunities I\'ve been handed.',
+        'Mark Wahlberg',
+    ],
+    [
+        'Success is the best revenge. I always feel women should answer back either with their sarcasm or success.',
+        'Kangana Ranaut',
+    ],
+    [
+        'The avant-garde theater is fun; it is free-swinging, bold, iconoclastic, and often wildly, wildly funny. If you will approach it with childlike innocence - putting your standard responses aside, for they do not apply - if you will approach it on its own terms, I think you will be in for a liberating surprise.',
+        'Edward Albee',
+    ],
+    [
+        'I married my best friend. I was still in awe after more than four years of being around her at how smart and strong and loving and caring she was. And I really hoped that her choosing me and rejecting my advice to pursue her own career was a decision she would never regret.',
+        'William J. Clinton',
+    ],
+    [
+        'Our ideals are our better selves.',
+        'Amos Bronson Alcott',
+    ],
+    [
+        'Fishes live in the sea, as men do a-land; the great ones eat up the little ones.',
+        'William Shakespeare',
+    ],
+    [
+        'I don\'t want my writing to be work to read. My main goal is completely shameless entertainment. I want people to smile and giggle and enjoy the book. I\'m not trying to save the world through literature.',
+        'Gail Carriger',
+    ],
+    [
+        'I never realized before this the emotional power of some really simple, corny tropes: people with top hats, people with batons, confetti going off, how important it is to smile.',
+        'Ira Glass',
+    ],
+    [
+        'Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.',
+        'Samuel Smiles',
+    ],
+    [
+        'There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.',
+        'Elie Wiesel',
+    ],
+    [
+        'I have a loyalty that runs in my bloodstream, when I lock into someone or something, you can\'t get me away from it because I commit that thoroughly. That\'s in friendship, that\'s a deal, that\'s a commitment. Don\'t give me paper - I can get the same lawyer who drew it up to break it. But if you shake my hand, that\'s for life.',
+        'Dean Koontz',
+    ],
+    [
+        'If somebody says no to you, or if you get cut, Michael Jordan was cut his first year, but he came back and he was the best ever. That is what you have to have. The attitude that I\'m going to show everybody, I\'m going to work hard to get better and better.',
+        'Magic Johnson',
+    ],
+    [
+        'When I drank, I had a very different attitude towards my playing. It was sloppier but I kind of liked it that way. It was like the alcohol was telling my mind what to do.',
+        'Mick Mars',
+    ],
+    [
+        'I am convinced after more than 50 years in the field of motivation that anyone who wants to learn to look at life and/or their circumstances in a positive light can do so.',
+        'Zig Ziglar',
+    ],
+];

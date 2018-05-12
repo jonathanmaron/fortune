@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The power of pop culture stories should not be underestimated, and there is an enormous potential for inspirational stories that can have a positive, transformative effect on our lives.',
-    1 => 'Anita Sarkeesian',
-  ),
-  1 => 
-  array (
-    0 => 'Success isn\'t everything but it makes a man stand straight.',
-    1 => 'Lillian Hellman',
-  ),
-  2 => 
-  array (
-    0 => 'Put your future in good hands',
-    1 => 'your own.',
-  ),
-  3 => 
-  array (
-    0 => 'Listen not merely to what is said but to the tone of voice in which it is said.',
-    1 => 'Chinese Proverb',
-  ),
-  4 => 
-  array (
-    0 => 'Behind every argument is someone\'s ignorance.',
-    1 => 'Louis Brandeis',
-  ),
-  5 => 
-  array (
-    0 => 'This day is your life in miniature. Make it brilliant.',
-    1 => 'Robin Sharma',
-  ),
-  6 => 
-  array (
-    0 => 'I\'ve failed over and over and over again in my life and that is why I succeed.',
-    1 => 'Michael Jordan',
-  ),
-  7 => 
-  array (
-    0 => 'Focus on being superb at what you do and, over time you will be known as remarkable.',
-    1 => 'Robin Sharma',
-  ),
-  8 => 
-  array (
-    0 => 'Nothing succeeds like the appearance of success.',
-    1 => 'Christopher Lasch',
-  ),
-  9 => 
-  array (
-    0 => 'Brand is not a product, that\'s for sure; it\'s not one item. It\'s an idea, it\'s a theory, it\'s a meaning, it\'s how you carry yourself. It\'s aspirational, it\'s inspirational.',
-    1 => 'Kevin Plank',
-  ),
-  10 => 
-  array (
-    0 => 'The path to success is to take massive, determined action.',
-    1 => 'Tony Robbins',
-  ),
-  11 => 
-  array (
-    0 => 'If you do not tell the truth about yourself you cannot tell it about other people.',
-    1 => 'Virginia Woolf',
-  ),
-  12 => 
-  array (
-    0 => 'A rejection is nothing more than a necessary step in the pursuit of success.',
-    1 => 'Bo Bennett',
-  ),
-  13 => 
-  array (
-    0 => 'An Englishman never enjoys himself, except for a noble purpose.',
-    1 => 'A. P. Herbert',
-  ),
-  14 => 
-  array (
-    0 => 'When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it, but all that had gone before.',
-    1 => 'Jacob Riis',
-  ),
-  15 => 
-  array (
-    0 => 'People without firmness of character love to make up a fate for themselves; that relieves them of the necessity of having their own will and of taking responsibility for themselves.',
-    1 => 'Ivan Turgenev',
-  ),
-  16 => 
-  array (
-    0 => 'There\'s more than one way to skin a cat:
-        Way number 27',
-    1 => 'Use an electric sander.',
-  ),
-  17 => 
-  array (
-    0 => 'I have amazing friends who have led inspirational lives.',
-    1 => 'Andrew Shue',
-  ),
-  18 => 
-  array (
-    0 => 'We live by our genius for hope; we survive by our talent for dispensing with it.',
-    1 => 'V.S. Pritchett',
-  ),
-  19 => 
-  array (
-    0 => 'Edit your life frequently and ruthlessly. It\'s your masterpiece after all.',
-    1 => 'Nathan W. Morris',
-  ),
-  20 => 
-  array (
-    0 => 'Perseverance is the hard work you do after you get tired of doing the hard work you already did.',
-    1 => 'Newt Gingrich',
-  ),
-  21 => 
-  array (
-    0 => 'Daring ideas are like chessmen moved forward,
-they may be beaten, but they may start a winning game.',
-    1 => 'J. W. von Goethe',
-  ),
-  22 => 
-  array (
-    0 => 'You are not weak just because your heart feels so heavy.',
-    1 => 'Andrea Gibson',
-  ),
-  23 => 
-  array (
-    0 => 'In the province of the mind, what one believes to be true either is true or becomes true.',
-    1 => 'John Lilly',
-  ),
-  24 => 
-  array (
-    0 => 'I never expected any sort of success with \'Mockingbird\'... I sort of hoped someone would like it enough to give me encouragement.',
-    1 => 'Harper Lee',
-  ),
-);
+return [
+    [
+        'Personally, I just think rap music is the best thing out there, period. If you look at my deck in my car radio, you\'re always going to find a hip-hop tape; that\'s all I buy, that\'s all I live, that\'s all I listen to, that\'s all I love.',
+        'Eminem',
+    ],
+    [
+        'For myself, for a long time... maybe I felt inauthentic or something, I felt like my voice wasn\'t worth hearing, and I think everyone\'s voice is worth hearing. So if you\'ve got something to say, say it from the rooftops.',
+        'Tom Hiddleston',
+    ],
+    [
+        'In this life, you should read everything you can read. Taste everything you can taste. Meet everyone you can meet. Travel everywhere you can travel. Learn everything you can learn. Experience everything you can experience.',
+        'Mario Cuomo',
+    ],
+    [
+        'I have had all of the disadvantages required for success.',
+        'Larry Ellison',
+    ],
+    [
+        'Only the educated are free.',
+        'Epictetus',
+    ],
+    [
+        'To avoid criticism, do nothing, say nothing, be nothing.',
+        'Elbert Hubbard',
+    ],
+    [
+        'Touch seems to be such an important tool for enhancing social cooperation and affiliation that we have evolved a special physical route along which those subliminal feelings of social connection travel from skin to brain.',
+        'Leonard Mlodinow',
+    ],
+    [
+        'Jessica Simpson is the youth ambassador for Operation Smile, and an episode of The Apprentice featured a team managing a charity concert she put on. Donald Trump came on stage and pledged a donation.',
+        'Roma Downey',
+    ],
+    [
+        'They tell us that suicide is the greatest piece of cowardice... that suicide is wrong; when it is quite obvious that there is nothing in the world to which every man has a more unassailable title than to his own life and person.',
+        'Rita Rudner',
+    ],
+    [
+        'Christmas is the day that holds all time together.',
+        'Alexander Smith',
+    ],
+    [
+        'The world\'s biggest power is the youth and beauty of a woman.',
+        'Chanakya',
+    ],
+    [
+        'Life is a series of punches. It presents a lot of challenges. It presents a lot of hardship, but the people that are able to take those punches and able to move forward are the ones that really do have a lot of success and have a lot of joy in their life and have a lot of stories to tell, too.',
+        'Josh Turner',
+    ],
+    [
+        'The more we do, the more we can do.',
+        'William Hazlitt',
+    ],
+    [
+        'I don\'t have a Pollyana attitude toward life that claims everything is lovely.',
+        'Eve Arden',
+    ],
+    [
+        'I did stand-up comedy for 18 years. Ten of those years were spent learning, four years were spent refining, and four years were spent in wild success. I was seeking comic originality, and fame fell on me as a byproduct. The course was more plodding than heroic.',
+        'Steve Martin',
+    ],
+    [
+        'One of the main focuses of my training sessions is to help individuals find their unique voices in the learning process. We all have our strengths, our weaknesses, our styles of learning, our personalities. Developing introspective sensitivity to these issues is critical to long-term success.',
+        'Joshua Waitzkin',
+    ],
+    [
+        'I don\'t care what the haters and naysayers say. If they make jokes about me, I\'ll laugh because they\'ll probably be funny.',
+        'Paula Deen',
+    ],
+    [
+        'No matter how difficult and painful it may be, nothing sounds as good to the soul as the truth.',
+        'Martha Beck',
+    ],
+    [
+        'People don\'t really understand, but having people stare, and point, and take pictures, even if it is in a positive framework, is quite isolating; there\'s no two ways about it. You feel a little bit, you know, freakish.',
+        'Emma Watson',
+    ],
+    [
+        'Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.',
+        'Rabindranath Tagore',
+    ],
+    [
+        'You call to a dog and a dog will break its neck to get to you. Dogs just want to please. Call to a cat and its attitude is, \'What\'s in it for me?\'',
+        'Lewis Grizzard',
+    ],
+    [
+        'You need a really solid foundation of friends and family to keep you where you need to be.',
+        'Lilly Singh',
+    ],
+    [
+        'When you delegate work to the member of the team, your job is to clearly frame success and describe the objectives.',
+        'Steven Sinofsky',
+    ],
+    [
+        'Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.',
+        'Napoleon Hill',
+    ],
+    [
+        'Time goes, you say? Ah, no! alas, time stays, we go.',
+        'Henry Austin Dobson',
+    ],
+];

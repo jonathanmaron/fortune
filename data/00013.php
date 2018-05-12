@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Even if you\'re on the right track, you\'ll get run over if you just sit there.',
-    1 => 'Will Rogers',
-  ),
-  1 => 
-  array (
-    0 => 'The greatest success stories were created by people who recognized a problem & turned it into an opportunity.',
-    1 => 'Joseph Sugarman',
-  ),
-  2 => 
-  array (
-    0 => 'Every day of my life I walk with the idea that I am black, no matter how successful I am. And our success is tempered by that; you\'re successful in this way given the fact you are black, and most blacks don\'t get to that point.',
-    1 => 'Danny Glover',
-  ),
-  3 => 
-  array (
-    0 => 'If my mind can concieve it, and my heart can believe it- then I can achieve it.',
-    1 => 'Muhammad Ali',
-  ),
-  4 => 
-  array (
-    0 => 'In a mood of faith and hope my work goes on. A ream of fresh paper lies on my desk waiting for the next book. I am a writer and I take up my pen to write.',
-    1 => 'Pearl S. Buck',
-  ),
-  5 => 
-  array (
-    0 => 'To do something, however small, to make others happier and better, is the highest ambition, the most elevating hope, which can inspire a human being.',
-    1 => 'John Lubbock',
-  ),
-  6 => 
-  array (
-    0 => 'You\'ve got to make your team have value, innovation, and vision.',
-    1 => 'Jack Ma',
-  ),
-  7 => 
-  array (
-    0 => 'You have many choices. You can choose forgiveness over revenge, joy over despair. You can choose action over apathy.',
-    1 => 'Stephanie Marston',
-  ),
-  8 => 
-  array (
-    0 => 'An artist must never be a prisoner. Prisoner? An artist should never be a prisoner of himself, prisoner of style, prisoner of reputation, prisoner of success, etc.',
-    1 => 'Henri Matisse',
-  ),
-  9 => 
-  array (
-    0 => 'Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a new world is born.',
-    1 => 'Anaïs Nin',
-  ),
-  10 => 
-  array (
-    0 => 'You can\'t get to your next best self by clinging to who you were yesterday.',
-    1 => 'Robin Sharma',
-  ),
-  11 => 
-  array (
-    0 => 'This world is ready to give up its secrets if we only know how to knock, how to give it the necessary blow. The strength and force of the blow come through concentration.',
-    1 => 'Swami Vivekananda',
-  ),
-  12 => 
-  array (
-    0 => 'The essential elements of giving are power and love - activity and affection - and the consciousness of the race testifies that in the high and appropriate exercise of these is a blessedness greater than any other.',
-    1 => 'Mark Hopkins',
-  ),
-  13 => 
-  array (
-    0 => 'Success is a consequence and must not be a goal.',
-    1 => 'Gustave Flaubert',
-  ),
-  14 => 
-  array (
-    0 => 'Failure is not an option for me. Success is all I envision.',
-    1 => 'Conor McGregor',
-  ),
-  15 => 
-  array (
-    0 => 'I don\'t know the key to success, but the key to failure is trying to please everybody.',
-    1 => 'Bill Cosby',
-  ),
-  16 => 
-  array (
-    0 => 'It were not best that we should all think alike; it is difference of opinion that makes horse races.',
-    1 => 'Mark Twain',
-  ),
-  17 => 
-  array (
-    0 => 'Don\'t be afraid of failure; be afraid of petty success.',
-    1 => 'Maude Adams',
-  ),
-  18 => 
-  array (
-    0 => 'Success is not in what you have, but who you are.',
-    1 => 'Bo Bennett',
-  ),
-  19 => 
-  array (
-    0 => 'The highfalutin aims of democracy, whether real or imaginary, are always assumed to be identical with its achievements. This, of course, is sheer hallucination. Not one of those aims, not even the aim of giving every adult a vote, has been realized. It has no more made men wise and free than Christianity has made them good.',
-    1 => 'H.L. Mencken, Minority Report, 1956',
-  ),
-  20 => 
-  array (
-    0 => 'Start where you are. Use what you have. Do what you can.',
-    1 => 'Arthur Ashe',
-  ),
-  21 => 
-  array (
-    0 => 'Go hard or go home',
-    1 => 'Phil Heath',
-  ),
-  22 => 
-  array (
-    0 => 'If you think you\'re too small to have an impact, try going to bed with a mosquito in the room.',
-    1 => 'Anita Roddick',
-  ),
-  23 => 
-  array (
-    0 => 'Motivation is like food for the brain. You cannot get enough in one sitting. It needs continual and regular top ups.',
-    1 => 'Peter Davies',
-  ),
-  24 => 
-  array (
-    0 => 'Not everything that can be counted counts, and not everything that counts can be counted.',
-    1 => 'Albert Einstein',
-  ),
-);
+return [
+    [
+        'We need two kinds of acquaintances, one to complain to, while to the others we boast.',
+        'Logan Pearsall Smith',
+    ],
+    [
+        'In the end, you make your reputation and you have your success based upon credibility and being able to provide people who are really hungry for information what they want.',
+        'Brit Hume',
+    ],
+    [
+        'Life is tough but so are you.',
+        'Anonymous',
+    ],
+    [
+        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.',
+        'Earl Nightingale',
+    ],
+    [
+        'A woman whose smile is open and whose expression is glad has a kind of beauty no matter what she wears.',
+        'Anne Roiphe',
+    ],
+    [
+        'Always do your best. What you plant now, you will harvest later.',
+        'Og Mandino',
+    ],
+    [
+        'Learn to listen. Opportunity could be knocking at your door very softly.',
+        'Frank Tyger',
+    ],
+    [
+        'I literally wear a mask. When I take it off, I\'m a father. I\'m a husband. I like to come home, and I like to spend time with family, and I like to travel, and I like to have a good time. And I like to be a kid every now and giggle and play with my kids.',
+        'Rey Mysterio',
+    ],
+    [
+        'Personal satisfaction is the most important ingredient of success.',
+        'Denis Waitley',
+    ],
+    [
+        'Don\'t stay in bed, unless you can make money in bed.',
+        'George Burns',
+    ],
+    [
+        'Care and diligence bring luck.',
+        'Proverb',
+    ],
+    [
+        'Many of our deepest motives come, not from an adult logic of how things work in the world, but out of something that is frozen from childhood.',
+        'Kazuo Ishiguro',
+    ],
+    [
+        'The theatre only knows what it\'s doing next week, not like the opera, where they say: What are we going to do in five years\' time? A completely different attitude.',
+        'Harrison Birtwistle',
+    ],
+    [
+        'As cheesy as it sounds, nothing beats a smile and a bit of confidence! As long as you feel good on the inside, you can still look beautiful without any makeup at all.',
+        'Zoe Sugg',
+    ],
+    [
+        'Experience can only be gained by doing not by thinking or dreaming.',
+        'Byron Pulsifer',
+    ],
+    [
+        'The love of beauty in its multiple forms is the noblest gift of the human cerebrum.',
+        'Alexis Carrel',
+    ],
+    [
+        'Evolution acts slowly. Our psychological characteristics today are those that promoted reproductive success in the ancestral environment.',
+        'Keith Henson',
+    ],
+    [
+        'Television is much better crafted today then in the 70s. The content is less positive but I\'m one of those that feel our entertainment reflects our world, it\'s not a driver - art imitates life.',
+        'Christopher Knight',
+    ],
+    [
+        'I know that, for me, I need to try to cover myself while breastfeeding so that no one snaps a picture. If this wasn\'t the case, I probably wouldn\'t mind as much because my son is my biggest concern. My attitude is, if someone sees a little somethin\' somethin\', don\'t look if you don\'t like it.',
+        'Kourtney Kardashian',
+    ],
+    [
+        'Great art picks up where nature ends.',
+        'Marc Chagall',
+    ],
+    [
+        'I work 338 days a year, 16 hours a day.',
+        'Dave Pelzer',
+    ],
+    [
+        'The success and the failure are not my concern, but His.',
+        'Joseph Barber Lightfoot',
+    ],
+    [
+        'A beautiful lady is an accident of nature. A beautiful old lady is a work of art.',
+        'Louis Nizer',
+    ],
+    [
+        'There is a tide in the affairs of men, Which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat. And we must take the current when it serves, or lose our ventures.',
+        'Confucius',
+    ],
+    [
+        'Behavior used to be reinforced by great deprivation; if people weren\'t hungry, they wouldn\'t work. Now we are committed to feeding people whether they work or not. Nor is money as great a reinforcer as it once was. People no longer work for punitive reasons, yet our culture offers no new satisfactions.',
+        'B. F. Skinner',
+    ],
+];

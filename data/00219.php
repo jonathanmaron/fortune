@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I do not want my house to be walled in on all sides and my windows to be stifled. I want all the cultures of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any.',
-    1 => 'Mohandas Karamchand Gandhi',
-  ),
-  1 => 
-  array (
-    0 => 'It is surely a great calamity for a human being to have no obsessions.',
-    1 => 'Robert Bly',
-  ),
-  2 => 
-  array (
-    0 => 'A man can sleep around, no questions asked, but if a woman makes nineteen or twenty mistakes she\'s a tramp.',
-    1 => 'Joan Rivers',
-  ),
-  3 => 
-  array (
-    0 => 'I\'m completely in favor of the separation of Church and State. My idea is that these two institutions screw us up enough on their own, so both of them together is certain death.',
-    1 => 'George Carlin',
-  ),
-  4 => 
-  array (
-    0 => 'Regardless of the legal speed limit, your Buick must be operated at speeds faster than 85 MPH (140k/h).',
-    1 => 'presumable misprint from the 1987 Buick Grand National owner\'s manual.',
-  ),
-  5 => 
-  array (
-    0 => 'Dream big, start small, act now.',
-    1 => 'Robin Sharma',
-  ),
-  6 => 
-  array (
-    0 => 'Go for it now. The future is promised to no one.',
-    1 => 'Wayne Dyer',
-  ),
-  7 => 
-  array (
-    0 => 'Go out into the world and do good until there is too much good in the world.',
-    1 => 'Larry H. Miller',
-  ),
-  8 => 
-  array (
-    0 => 'You know, I used to think the future was solid or fixed, something you inherited like an old building that you move into when the previous generation moves out or gets chased out. But it\'s not. The future is not fixed; it\'s fluid. You can build your own building, or hut or condo...the world is more malleable than you think and it\'s waiting for you to hammer it into shape.',
-    1 => 'Bono',
-  ),
-  9 => 
-  array (
-    0 => 'I will not be presumptuous enough to say that my life can be a role model for anybody; but some poor child living in an obscure place in an underprivileged social setting may find a little solace in the way my destiny has been shaped. It could perhaps help such children liberate themselves from the bondage of their illusory backwardness and hopelessness?',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  10 => 
-  array (
-    0 => 'The single most important thing in a child\'s performance is the quality of the teacher. Making sure a child spends the maximum amount of time with inspirational teachers is the most important thing.',
-    1 => 'Michael Gove',
-  ),
-  11 => 
-  array (
-    0 => 'No matter how you feel, Get up, dress up, show up and never give up.',
-    1 => 'Anonymous',
-  ),
-  12 => 
-  array (
-    0 => 'Reliable software must kill people reliably.',
-    1 => 'Andy Mickel',
-  ),
-  13 => 
-  array (
-    0 => 'Nothing is impossible, the word itself says \'I\'m possible\'!',
-    1 => 'Audrey Hepburn',
-  ),
-  14 => 
-  array (
-    0 => 'The world looks as if it has been left in the custody of trolls.',
-    1 => 'Father Robert F. Capon',
-  ),
-  15 => 
-  array (
-    0 => 'Be regular and orderly in your life so that you may be violent and original in your work.',
-    1 => 'Gustave Flaubert',
-  ),
-  16 => 
-  array (
-    0 => 'Seventy percent of success in life is showing up.',
-    1 => 'Woody Allen',
-  ),
-  17 => 
-  array (
-    0 => 'Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.',
-    1 => 'Samuel Beckett',
-  ),
-  18 => 
-  array (
-    0 => 'It is not best to swap horses while crossing the river.',
-    1 => 'Abraham Lincoln',
-  ),
-  19 => 
-  array (
-    0 => 'A resolute determination is the truest wisdom.',
-    1 => 'Napoleon Bonaparte',
-  ),
-  20 => 
-  array (
-    0 => 'Some say I\'m an overnight success. Well, that was a very long night that lasted about 10 years.',
-    1 => 'Lisa Morton',
-  ),
-  21 => 
-  array (
-    0 => 'If you will think about what you ought to do for other people, your character will take care of itself. Character is a by-product, and any man who devotes himself to its cultivation in his own case will become a selfish prig.',
-    1 => 'Woodrow Wilson',
-  ),
-  22 => 
-  array (
-    0 => 'Make the decision, make it with confidence, and the world will be yours.',
-    1 => 'Jaren L. Davis',
-  ),
-  23 => 
-  array (
-    0 => 'Early in life I had to choose between honest arrogance and hypocritical humility. I chose honest arrogance and have seen no occasion to change.',
-    1 => 'Frank Lloyd Wright',
-  ),
-  24 => 
-  array (
-    0 => 'Treat people as if they were what they ought to be, and you help them to become what they are capable of being.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-);
+return [
+    [
+        'I noticed that no matter where I went in the country, there was this group of questions that got asked. I would track them and keep them in categories. Like body image, school, family, friendship, you name it, the emotional life of a teenage girl.',
+        'Elizabeth Berkley',
+    ],
+    [
+        'True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.',
+        'William Penn',
+    ],
+    [
+        'If you want to be the best, you have to do things that other people aren\'t willing to do.',
+        'Michael Phelps',
+    ],
+    [
+        'Everybody does what she needs. And if you want plastic surgery, and then you feel better, why not? There is no law. I\'ve nothing against using something to help your beauty - but do it in a good way, with intelligence.',
+        'Monica Bellucci',
+    ],
+    [
+        'But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.',
+        'Alan Watts',
+    ],
+    [
+        'The greatest gift of all time is that you can make creation infectious because people spend less time being negative... If you log all the time with negativity in the while world, I wonder how much better the world would be if people sat down and did something positive. It spirals.',
+        'Skrillex',
+    ],
+    [
+        'The success of any great moral enterprise does not depend upon numbers.',
+        'William Lloyd Garrison',
+    ],
+    [
+        'I seriously feel like the best days are ahead, and I like the idea of getting to do everything I did before but with more knowledge, experience, and street smarts. There\'s a certain love, appreciation, and gratitude that you have at 40 that you don\'t have when you\'re younger, and it makes every accomplishment feel so much better.',
+        'Jennifer Lopez',
+    ],
+    [
+        'From my perspective, probably women are won over by people who are sweet and respectful and courteous and kind and funny. I think those are the things that win women over.',
+        'Zooey Deschanel',
+    ],
+    [
+        'Love and work... work and love, that\'s all there is.',
+        'Sigmund Freud',
+    ],
+    [
+        'I\'ve known entrepreneurs who were not great salespeople, or didn\'t know how to code, or were not particularly charismatic leaders. But I don\'t know of any entrepreneurs who have achieved any level of success without persistence and determination.',
+        'Harvey Mackay',
+    ],
+    [
+        'We\'re constantly striving for success, fame and comfort when all we really need to be happy is someone or some thing to be enthusiastic about.',
+        'H. Jackson Brown, Jr.',
+    ],
+    [
+        'Art is always and everywhere the secret confession, and at the same time the immortal movement of its time.',
+        'Karl Marx',
+    ],
+    [
+        'I take work very seriously and telling the truth in my job and professionalism.',
+        'Brittany Murphy',
+    ],
+    [
+        'Positive thinking is the notion that if you think good thoughts, things will work out well. Optimism is the feeling of thinking things will be well and be hopeful.',
+        'Martin Seligman',
+    ],
+    [
+        'We can do no great things, only small things with great love.',
+        'Mother Teresa',
+    ],
+    [
+        'President Obama called for a \'we\' nation in his Inauguration Address. Art convenes. It is not just inspirational. It is aspirational. It pricks the walls of our compartmentalized minds, opens our hearts and makes us brave. And that\'s what we need most in our country today.',
+        'Anna Deavere Smith',
+    ],
+    [
+        'If it looks like a duck, and quacks like a duck, we have at least to consider the possibility that we have a small aquatic bird of the family anatidae on our hands.',
+        'Douglas Adams',
+    ],
+    [
+        'As I wrote, I found that Aibileen had some things to say that really weren\'t in her character. She was older, soft-spoken, and she started showing some attitude.',
+        'Kathryn Stockett',
+    ],
+    [
+        'A good boss makes his men realize they have more ability than they think they have so that they consistently do better work than they thought they could.',
+        'Charles Erwin Wilson',
+    ],
+    [
+        'When I travel, I always take my Winsor &amp; Newton watercolor kit, which is the size of a pack of cigarettes when folded up. I bought my first one in the 1980s. It was handy to bring on trips, and I packed it into a leather pouch along with a couple of brushes, a pencil, an eraser and paper.',
+        'Susan Minot',
+    ],
+    [
+        'What I have tried to show is that the scientific attitude implies what I call the postulate of objectivity - that is to say, the fundamental postulate that there is no plan, that there is no intention in the universe.',
+        'Jacques Monod',
+    ],
+    [
+        'Stupidity is something unshakable; nothing attacks it without breaking itself against it; it is of the nature of granite, hard and resistant.',
+        'Gustave Flaubert',
+    ],
+    [
+        'If I remain true to what\'s in my heart, that\'s all the success I need.',
+        'Steve Vai',
+    ],
+    [
+        'Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.',
+        'Hal Borland',
+    ],
+];

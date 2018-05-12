@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Your spark can become a flame and change everything.',
-    1 => 'Latin Proverb',
-  ),
-  1 => 
-  array (
-    0 => 'I like motivational books, because I like the go-getting American spirit - your destiny is in your own hands, life is what you make it, don\'t accept your limitations, jump before you\'re pushed, leap before you look.',
-    1 => 'Louise Mensch',
-  ),
-  2 => 
-  array (
-    0 => 'The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.',
-    1 => 'Ray Kroc',
-  ),
-  3 => 
-  array (
-    0 => 'Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever.',
-    1 => 'R. Buckminster Fuller',
-  ),
-  4 => 
-  array (
-    0 => 'Do all the good you can, and make as little fuss about it as possible.',
-    1 => 'Charles Dickens',
-  ),
-  5 => 
-  array (
-    0 => 'You are not a drop in the ocean. You are the entire ocean in a drop',
-    1 => 'Rumi',
-  ),
-  6 => 
-  array (
-    0 => 'I am highly offended by the total lack of acknowledgement of my contribution to Laker success.',
-    1 => 'Kareem Abdul-Jabbar',
-  ),
-  7 => 
-  array (
-    0 => 'It just goes to show what you can do if you\'re a total psychotic.',
-    1 => 'Woody Allen',
-  ),
-  8 => 
-  array (
-    0 => 'I\'ve learned that something constructive comes from every defeat.',
-    1 => 'Tom Landry',
-  ),
-  9 => 
-  array (
-    0 => 'Your vocation in life is where your greatest joy meets the world\'s greatest need.',
-    1 => 'Frederick Buechner',
-  ),
-  10 => 
-  array (
-    0 => 'If it fails, admit it frankly and try another. But above all, try something.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  11 => 
-  array (
-    0 => 'Abnormally good or abnormally bad conditions do not last forever.',
-    1 => 'Benjamin Graham',
-  ),
-  12 => 
-  array (
-    0 => 'I am so fresh in soul and spirit that life gushes and bubbles around me in a thousand springs.',
-    1 => 'Robert Schumann',
-  ),
-  13 => 
-  array (
-    0 => 'We cannot always build the future for our youth, but we can build our youth for the future.',
-    1 => 'Albert Camus',
-  ),
-  14 => 
-  array (
-    0 => 'Please pay attention very carefully, because this is the truest thing a stranger will ever say to you: In the face of such hopelessness as our eventual, unavoidable death, there is little sense in not at least TRYING to accomplish all your wildest dreams in life.',
-    1 => 'Kevin Smith',
-  ),
-  15 => 
-  array (
-    0 => 'The chain that can be yanked is not the cosmic chain.',
-    1 => 'Cal Keegan',
-  ),
-  16 => 
-  array (
-    0 => 'Leaders who win the respect of others are the ones who deliver more than they promise, not the ones who promise more than they can deliver.',
-    1 => 'Zig Ziglar',
-  ),
-  17 => 
-  array (
-    0 => 'I believe that the only courage anybody ever needs is the courage to follow your own dreams.',
-    1 => 'Oprah Winfrey',
-  ),
-  18 => 
-  array (
-    0 => 'Mischief Managed.',
-    1 => 'Fred',
-  ),
-  19 => 
-  array (
-    0 => 'I don\'t think about financial success as the measurement of my success.',
-    1 => 'Christie Hefner',
-  ),
-  20 => 
-  array (
-    0 => 'Humor is man\'s greatest blessing.',
-    1 => 'Mark Twain',
-  ),
-  21 => 
-  array (
-    0 => 'Don\'t waste your time on jealousy. Sometimes you\'re ahead. Sometimes you\'re behind. The race is long. And in the end, it\'s only with yourself',
-    1 => 'Mary Schmich',
-  ),
-  22 => 
-  array (
-    0 => 'I\'ve missed more than 9000 shots in my career. I\'ve lost almost 300 games. 26 times, I\'ve been trusted to take the game winning shot and missed. I\'ve failed over and over and over again in my life. And that is why I succeed.',
-    1 => 'Michael Jordan',
-  ),
-  23 => 
-  array (
-    0 => 'Live for yourself and you will live in vain; live for others, and you will live again.',
-    1 => 'Bob Marley',
-  ),
-  24 => 
-  array (
-    0 => 'You don\'t have to preach honesty to men with creative purpose. Let a human being throw the engines of his soul into the making of something, and the instinct of workmanship will take care of his honesty.',
-    1 => 'Walter Lippman',
-  ),
-);
+return [
+    [
+        'The proud depend upon the world to tell them whether they have value or not. Their self-esteem is determined by where they are judged to be on the ladders of worldly success. They feel worthwhile as individuals if the numbers beneath them in achievement, talent, beauty, or intellect are large enough.',
+        'Ezra Taft Benson',
+    ],
+    [
+        'More than half of people who leave their jobs do so because of their relationship with their boss. Smart companies make certain their managers know how to balance being professional with being human. These are the bosses who celebrate an employee\'s success, empathize with those going through hard times, and challenge people, even when it hurts.',
+        'Travis Bradberry',
+    ],
+    [
+        'People seldom notice old clothes if you wear a big smile.',
+        'Lee Mildon',
+    ],
+    [
+        'Work is a necessity for man. Man invented the alarm clock.',
+        'Pablo Picasso',
+    ],
+    [
+        'A champion is afraid of losing. Everyone else is afraid of winning.',
+        'Billie Jean King',
+    ],
+    [
+        'I\'m going to do as much as I can with this life, and then I\'m going to make sure to take some time off and be simple and ride my bike and hang out with friends.',
+        'Jill Scott',
+    ],
+    [
+        'Success is not how high you have climbed, but how you make a positive difference to the world.',
+        'Roy T. Bennett',
+    ],
+    [
+        'You just have to find that thing that\'s special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.',
+        'Dr. Dre',
+    ],
+    [
+        'The problem was just a mean attitude that festers and has to be challenged.',
+        'Major Owens',
+    ],
+    [
+        'It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.',
+        'Voltaire',
+    ],
+    [
+        'Being a writer usually entails a fairly quiet life. However much travel one might do, however many tours and appearances, the job entails solitude: long hours in libraries, long hours at a desk.',
+        'Jill Paton Walsh',
+    ],
+    [
+        'We are constantly emphasizing to people that they need to address anything that affects flight safety or mission success - many pathways to do that. We need to understand better what may be preventing people from using those pathways.',
+        'Ellen Ochoa',
+    ],
+    [
+        'If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.',
+        'Robert Fulghum',
+    ],
+    [
+        'Life is full of happiness and tears; be strong and have faith.',
+        'Arthur Ashe',
+    ],
+    [
+        'The world is round and the place which may seem like the end may also be the beginning.',
+        'Ivy Baker Priest',
+    ],
+    [
+        'To me, the blues is an infection. I don\'t think it\'s necessarily a melancholy thing; the blues can be really positive and I think I think anyone and everyone can have a place for the blues. It need not always a woeful, sorrowful thing. It\'s more reflective; it reminds you to feel.',
+        'Mick Fleetwood',
+    ],
+    [
+        'Strange, is it not? That of the myriads who Before us pass\'d the door of Darkness through, Not one returns to tell us of the Road Which to discover we must travel too.',
+        'Edward Fitzgerald',
+    ],
+    [
+        'Inspiration comes of working every day.',
+        'Charles Baudelaire',
+    ],
+    [
+        'First-person narrators is the way I know how to write a book with the greatest power and chance of artistic success.',
+        'Anne Rice',
+    ],
+    [
+        'Hope is some extraordinary spiritual grace that God gives us to control our fears, not to oust them.',
+        'Vincent McNabb',
+    ],
+    [
+        'Solidarity is an attitude of resistance, I suppose, or it should be.',
+        'Christopher Hitchens',
+    ],
+    [
+        'We live in a fantasy world, a world of illusion. The great task in life is to find reality.',
+        'Aphra Behn',
+    ],
+    [
+        'I think I\'m funny because my family, my siblings were funny.',
+        'Martin Short',
+    ],
+    [
+        'You can\'t please everyone, and you have to trust your instincts, and you have to do your work and throw yourself in there and trust your instincts, and just trust that you\'re doing a good job that I can be proud of as well.',
+        'Matt Ryan',
+    ],
+    [
+        'The children have been a wonderful gift to me, and I\'m thankful to have once again seen our world through their eyes. They restore my faith in the family\'s future.',
+        'Jackie Kennedy',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'No one is fit to be trusted with power. ... No one. ... Any man who has lived at all knows the follies and wickedness he\'s capable of. ... And if he does know it, he knows also that neither he nor any man ought to be allowed to decide a single human fate.',
-    1 => 'C. P. Snow, The Light and the Dark',
-  ),
-  1 => 
-  array (
-    0 => 'We must walk consciously only part way toward our goal, and then leap in the dark to our success.',
-    1 => 'Henry David Thoreau',
-  ),
-  2 => 
-  array (
-    0 => 'You don\'t need a reason to help people.',
-    1 => 'Zidane Tribal',
-  ),
-  3 => 
-  array (
-    0 => 'The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.',
-    1 => 'Vince Lombardi',
-  ),
-  4 => 
-  array (
-    0 => 'Let us remember: One book, one pen, one child, and one teacher can change the world.',
-    1 => 'Malala Yousafzai',
-  ),
-  5 => 
-  array (
-    0 => 'Give out what you most want to come back.',
-    1 => 'Robin Sharma',
-  ),
-  6 => 
-  array (
-    0 => 'Get busy living, or get busy dying.',
-    1 => 'Stephen King',
-  ),
-  7 => 
-  array (
-    0 => 'We do not inherit the land from our ancestors, we borrow it from our children.',
-    1 => 'Native American Proverb',
-  ),
-  8 => 
-  array (
-    0 => 'The wise man belongs to all countries, for the home of a great soul is the whole world.',
-    1 => 'Democritus',
-  ),
-  9 => 
-  array (
-    0 => 'Dream your dream. Follow your heart. Imagine. Listen to the wind. Drink sunsets. Be free. Let the wonder never cease. Believe. Wish on EVERY star. Create adventure. Be Kind.',
-    1 => 'Debbie Coulter',
-  ),
-  10 => 
-  array (
-    0 => '...difference of opinion is advantageous in religion. The several sects perform the office of a common censor morum over each other. Is uniformity attainable? Millions of innocent men, women, and children, since the introduction of Christianity, have been burnt, tortured, fined, imprisoned; yet we have not advanced one inch towards uniformity.',
-    1 => 'Thomas Jefferson, "Notes on Virginia"',
-  ),
-  11 => 
-  array (
-    0 => 'We don\'t stop playing because we grow old; we grow old because we stop playing.',
-    1 => 'George Bernard Shaw',
-  ),
-  12 => 
-  array (
-    0 => 'Don\'t stop when you\'re tired. STOP when you are DONE.',
-    1 => 'Anonymous',
-  ),
-  13 => 
-  array (
-    0 => 'The best things in life are never rationed. Friendship, loyalty, love, do not require coupons.',
-    1 => 'Louisa May Alcott',
-  ),
-  14 => 
-  array (
-    0 => 'Innovation distinguishes between a leader and a follower',
-    1 => 'Steve Jobs',
-  ),
-  15 => 
-  array (
-    0 => 'Any clod can have the facts, but having opinions is an art.',
-    1 => 'Charles McCabe',
-  ),
-  16 => 
-  array (
-    0 => 'Start where you are. Use what you have. Do what you can.',
-    1 => 'Arthur Ashe',
-  ),
-  17 => 
-  array (
-    0 => 'God gave you a gift of 86,400 seconds today. Have you used one to say \'thank you?\'',
-    1 => 'William Arthur Ward',
-  ),
-  18 => 
-  array (
-    0 => 'There is no choice before us. Either we must Succeed in providing the rational coordination of impulses and guts, or for centuries civilization will sink into a mere welter of minor excitements. We must provide a Great Age or see the collapse of the upward striving of the human race.',
-    1 => 'Alfred North Whitehead',
-  ),
-  19 => 
-  array (
-    0 => 'The capacity for getting along with our neighbor depends to a large extent on the capacity for getting along with ourselves. The self-respecting individual will try to be as tolerant of his neighbor\'s shortcomings as he is of his own.',
-    1 => 'Eric Hoffer',
-  ),
-  20 => 
-  array (
-    0 => 'My success is not due to any personal superiority over other people.',
-    1 => 'John Philip Sousa',
-  ),
-  21 => 
-  array (
-    0 => 'The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.',
-    1 => 'James Allen',
-  ),
-  22 => 
-  array (
-    0 => 'Once I was walking through the woods, and I saw a rabbit standing in front of a candle, making shadows of people on a tree. I said, "Don\'t be so sarcastic."',
-    1 => 'Steven Wright',
-  ),
-  23 => 
-  array (
-    0 => 'Humankind has not woven the web of life. We are but one thread within it. Whatever we do to the web, we do to ourselves. All things are bound together. All things connect.',
-    1 => 'Chief Seattle',
-  ),
-  24 => 
-  array (
-    0 => 'True strength lies in submission which permits one to dedicate his life, through devotion, to something beyond himself.',
-    1 => 'Henry Miller',
-  ),
-);
+return [
+    [
+        'Be proud of your Latino culture and do the best work you can do, and you will always succeed.',
+        'Lionel Sosa',
+    ],
+    [
+        'If you don\'t ask, you don\'t get.',
+        'Stevie Wonder',
+    ],
+    [
+        'I have believed the best of every man. And find that to believe is enough to make a bad man show him at his best, or even a good man swings his lantern higher.',
+        'William Butler Yeats',
+    ],
+    [
+        'We were what you would call a poor family, but we were rich in so many things. We did family things together. We always had dessert, even if it was just Jell-O. So, I never knew I was poor.',
+        'August Wilson',
+    ],
+    [
+        'Let the gentle bush dig its root deep and spread upward to split one boulder.',
+        'Carl Sandburg',
+    ],
+    [
+        'I love sleep. My life has the tendency to fall apart when I\'m awake, you know?',
+        'Matt Cameron',
+    ],
+    [
+        'The successful man doesn\'t use others, other people use the successful man, for above all the success is of service.',
+        'Mark Caine',
+    ],
+    [
+        'Let\'s find those areas where modest and reasonable tax cuts will have the biggest positive impact on our economy, and which will improve the lives of those who need it most: working families, retirees, and small business owners.',
+        'Larry Hogan',
+    ],
+    [
+        'We must always take from nature what we paint and always choose the most beautiful things.',
+        'Leon Battista Alberti',
+    ],
+    [
+        'Don\'t try to be somebody you\'re not because it doesn\'t work. If you try to be this perfect person or perfect persona of what you think that somebody should be when they\'re involved in public office, it\'s just not going to work. Just be yourself, stay true to your core values, and really just stay abreast of the issues.',
+        'Ben Quayle',
+    ],
+    [
+        'The supreme quality for leadership is unquestionably integrity. Without it, no real success is possible, no matter whether it is on a section gang, a football field, in an army, or in an office.',
+        'Dwight D. Eisenhower',
+    ],
+    [
+        'Any celebration meal to which guests are invited, be they family or friends, should be an occasion for generous hospitality.',
+        'Julian Baggini',
+    ],
+    [
+        'Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.',
+        'Robert H. Schuller',
+    ],
+    [
+        'What is a weed? A plant whose virtues have not yet been discovered.',
+        'Ralph Emerson',
+    ],
+    [
+        'My life is devoted to business and supporting my family.',
+        'Colonel Sanders',
+    ],
+    [
+        'Gamer humor ranges all over the place. What it comes down to is taking a lot of what we see in gaming and we\'re familiar with in gaming and being like, \'OK, hold on, let\'s re-examine this for a second. Isn\'t this funny? Isn\'t this strange? Isn\'t this a little bit ridiculous?\' That\'s where it is.',
+        'Freddie Wong',
+    ],
+    [
+        'I\'ve never seen anyone more messed up over success than Richard Pryor. For him, it\'s a constant battle between success in the white world and keeping it real for his black self.',
+        'Paul Mooney',
+    ],
+    [
+        'At his best, man is the noblest of all animals; separated from law and justice he is the worst.',
+        'Aristotle',
+    ],
+    [
+        'Nature is the one song of praise that never stops singing.',
+        'Richard Rohr',
+    ],
+    [
+        'Tears of joy are like the summer rain drops pierced by sunbeams.',
+        'Hosea Ballou',
+    ],
+    [
+        'When in doubt, tell the truth.',
+        'Mark Twain',
+    ],
+    [
+        'I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.',
+        'Edna Millay',
+    ],
+    [
+        'We who work in technology have nurtured an especially rare gift: the opportunity to effect change at an unprecedented scale and rate. Technology, community, and capitalism combine to make Silicon Valley the potential epicenter of vast positive change.',
+        'Justin Rosenstein',
+    ],
+    [
+        'In particular I want to talk about natural black hair, and how it\'s not just hair. I mean, I\'m interested in hair in sort of a very aesthetic way, just the beauty of hair, but also in a political way: what it says, what it means.',
+        'Chimamanda Ngozi Adichie',
+    ],
+    [
+        'Beauty is but the sensible image of the Infinite. Like truth and justice it lives within us; like virtue and the moral law it is a companion of the soul.',
+        'George Bancroft',
+    ],
+];

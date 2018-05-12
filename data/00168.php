@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'perspiration. Accordingly a genius is often merely a talented person who has done all of his or her homework.',
-    1 => 'Thomas Edison',
-  ),
-  1 => 
-  array (
-    0 => 'Nothing contributes so much to tranquilize the mind as a steady purpose- a point on which the soul may fix its intellectual eye.',
-    1 => 'Mary Shelley',
-  ),
-  2 => 
-  array (
-    0 => 'Happiness is a how, not a what; a talent, not an object.',
-    1 => 'Hermann Hesse',
-  ),
-  3 => 
-  array (
-    0 => 'Please try to limit the amount of `this room doesn\'t have any bazingas\' until you are told that those rooms are `punched out.\' Once punched out, we have a right to complain about atrocities, missing bazingas, and such.',
-    1 => 'N. Meyrowitz',
-  ),
-  4 => 
-  array (
-    0 => 'Give me a couple of years, and I\'ll make that actress an overnight success.',
-    1 => 'Samuel Goldwyn',
-  ),
-  5 => 
-  array (
-    0 => 'What boots it at one gate to make defence,
-And at another to let in the foe?',
-    1 => 'John Milton, Samson Agonistes (l. 560)',
-  ),
-  6 => 
-  array (
-    0 => 'The only way you can truly control how you are seen is being honest all the time.',
-    1 => 'Tom Hanks',
-  ),
-  7 => 
-  array (
-    0 => 'Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.',
-    1 => 'Khalil Gibran',
-  ),
-  8 => 
-  array (
-    0 => 'To be courageous requires no exceptional qualifications, no magic formula. It\'s an opportunity that sooner or later is presented to us all and each person must look for that courage in his own soul.',
-    1 => 'John F. Kennedy',
-  ),
-  9 => 
-  array (
-    0 => 'Life is just a chance to grow a soul.',
-    1 => 'A. Powell Davies',
-  ),
-  10 => 
-  array (
-    0 => 'Let\'s give the historians something to write about',
-    1 => 'Propertius',
-  ),
-  11 => 
-  array (
-    0 => 'Kindness is an inner desire that makes us want to do good things even if we do not get anything in return. It is the joy of our life to do them. When we do good things from this inner desire, there is kindness in everything we think, say, want and do.',
-    1 => 'Emanuel Swedenborg',
-  ),
-  12 => 
-  array (
-    0 => 'I used to have a sign pinned up on my wall that read: Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us...It was all about letting go of everything.',
-    1 => 'Pema Chodron',
-  ),
-  13 => 
-  array (
-    0 => 'I\'m a motivational speaker.',
-    1 => 'Young Jeezy',
-  ),
-  14 => 
-  array (
-    0 => 'Reporter, n.:
-        A writer who guesses his way to the truth and dispels it with a tempest of words.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  15 => 
-  array (
-    0 => 'I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than You, and keep doing what you love. Do what you love, and you will find the way to get it out to the world.',
-    1 => 'Judy Collins',
-  ),
-  16 => 
-  array (
-    0 => 'Years of love have been forgot in the hatred of a minute.',
-    1 => 'Edgar Allan Poe',
-  ),
-  17 => 
-  array (
-    0 => 'If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.',
-    1 => 'Henry David Thoreau',
-  ),
-  18 => 
-  array (
-    0 => 'What you are thinking is what you are becoming.',
-    1 => 'Muhammad Ali',
-  ),
-  19 => 
-  array (
-    0 => 'Write [code] in a way that clearly communicates your intent.',
-    1 => 'Douglas Crockford, during his keynote at YUIConf 2011',
-  ),
-  20 => 
-  array (
-    0 => 'Yes, that was Richard Nixon. He used to be President. When he left the White House, the Secret Service would count the silverware.',
-    1 => 'Woody Allen, "Sleeper"',
-  ),
-  21 => 
-  array (
-    0 => 'I think Microsoft named .NET so it wouldn\'t show up in a Unix directory listing.',
-    1 => 'Oktal',
-  ),
-  22 => 
-  array (
-    0 => 'Happiness is when what you think, what you say, and what you do are in harmony.',
-    1 => 'Gandhi',
-  ),
-  23 => 
-  array (
-    0 => 'Friendship is born at that moment when one person says to another: What! You, too? I thought I was the only one.',
-    1 => 'C.S. Lewis',
-  ),
-  24 => 
-  array (
-    0 => 'Of all the tyrannies that affect mankind, tyranny in religion is the worst.',
-    1 => 'Thomas Paine',
-  ),
-);
+return [
+    [
+        'A guilty conscience needs to confess. A work of art is a confession.',
+        'Albert Camus',
+    ],
+    [
+        'In acting, there\'s a type of courage you\'re recognized for all the time. You lose 100 pounds and play a guy with AIDS, and you get rewarded. But, in life, doing what is courageous is quiet, and no one knows about it. Courage is someone making sacrifices for their family or making selfless decisions for what they hope or feel.',
+        'Rob Lowe',
+    ],
+    [
+        'Whenever something negative happens to you, there is a deep lesson concealed within it.',
+        'Eckhart Tolle',
+    ],
+    [
+        'My hobbies include maintaining my physical and mental health. It\'s a full-time job. Yoga definitely helps for both of them. I\'m a big fan of relaxing and not having a schedule. That\'s my best way to keep from going crazy.',
+        'Olivia Thirlby',
+    ],
+    [
+        'I\'m a great believer in the beauty and the power of surprise.',
+        'Mark Gatiss',
+    ],
+    [
+        'Leave the matter of religion to the family altar, the church, and the private school, supported entirely by private contributions. Keep the church and state forever separate.',
+        'Ulysses S. Grant',
+    ],
+    [
+        'It\'s when children are 15, 16 or 17 that they decide whether they want to be a doctor, an engineer, a politician or go to the Mars or moon. That is the time they start having a dream, and that\'s the time you can work on them. You can help them shape their dreams.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'Dont let someone else\'s opinion of you become your reality.',
+        'Les Brown',
+    ],
+    [
+        'You can\'t beat the beehive for glam punkette attitude.',
+        'Rob Sheffield',
+    ],
+    [
+        'I\'ve never been out with any of the cast of Coronation Street. We\'re all very close friends so it\'s very much a professional attitude.',
+        'Richard Fleeshman',
+    ],
+    [
+        'Until the June 1967 war I was completely caught up in the life of a young professor of English. Beginning in 1968, I started to think, write, and travel as someone who felt himself to be directly involved in the renaissance of Palestinian life and politics.',
+        'Edward Said',
+    ],
+    [
+        'True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.',
+        'Daisaku Ikeda',
+    ],
+    [
+        'I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.',
+        'Amy Tan',
+    ],
+    [
+        'The value of life is not in its duration, but in its donation. You are not important because of how long you live, you are important because of how effective you live.',
+        'Amy Waldman',
+    ],
+    [
+        'My best friend is the man who in wishing me well wishes it for my sake.',
+        'Aristotle',
+    ],
+    [
+        'Any fact facing us is not as important as our attitude toward it, for that determines our success or failure. The way you think about a fact may defeat you before you ever do anything about it. You are overcome by the fact because you think you are.',
+        'Norman Vincent Peale',
+    ],
+    [
+        'Beauty products always cheer me up and give me hope. If it makes you feel pretty, why not?',
+        'Salma Hayek',
+    ],
+    [
+        'I\'ve always found it easier to be funny than to be serious.',
+        'Molly Ivins',
+    ],
+    [
+        'Unlike a lot of people, I don\'t feel powerless. I know I can do something. But anyone can do something, it\'s not about being special. It\'s about deciding to do it - to dive into work for peace and justice and care for everybody on the planet.',
+        'Patch Adams',
+    ],
+    [
+        'What I look for in a role is the physical. But what\'s the journey emotionally? Can I take this person who is this archetypal tough guy and find the beauty?',
+        'Frank Grillo',
+    ],
+    [
+        'The greatest legacy one can pass on to one\'s children and grandchildren is not money or other material things accumulated in one\'s life, but rather a legacy of character and faith.',
+        'Ted Turner',
+    ],
+    [
+        'At this level, the individual perceives the maintenance of the expectations of his family, group, or nation as valuable in its own right, regardless of immediate and obvious consequences.',
+        'Lawrence Kohlberg',
+    ],
+    [
+        'I am positive that I would see the end of child labour around the world in my lifetime, as the poorest of the poor have realised that education is a tool that can empower them.',
+        'Kailash Satyarthi',
+    ],
+    [
+        'Working is actually a pleasure. It\'s just very time-consuming. It\'s a way of life. I find that I can work when I travel and work when I run. There is nothing like, on a rainy day, to work.',
+        'Helmut Jahn',
+    ],
+    [
+        'Forgiveness does not change the past, but it does enlarge the future.',
+        'Paul Boese',
+    ],
+];

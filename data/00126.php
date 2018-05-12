@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
-    1 => 'Thomas A. Edison',
-  ),
-  1 => 
-  array (
-    0 => 'A lot of America is kind of done. People have been making films about it for 100 years. Everything to me feels used up. But Jo-Burg feels unbelievably inspirational to me.',
-    1 => 'Neill Blomkamp',
-  ),
-  2 => 
-  array (
-    0 => 'Intelligence and courtesy not always are combined; Often in a wooden house a golden room we find.',
-    1 => 'Henry Wadsworth Longfellow',
-  ),
-  3 => 
-  array (
-    0 => 'Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  4 => 
-  array (
-    0 => 'I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living, It\'s a way of looking at life through the wrong end of a telescope. Which is what I do, And that enables you to laugh at life\'s realities.',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  5 => 
-  array (
-    0 => 'The boundary between what can be and your life, is your ideas',
-    1 => 'Pat Waldron',
-  ),
-  6 => 
-  array (
-    0 => 'The reason of my success is that I saw nothing else but the Bird\'s Eye',
-    1 => 'Arjun',
-  ),
-  7 => 
-  array (
-    0 => 'I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress.',
-    1 => 'Mark Zuckerberg',
-  ),
-  8 => 
-  array (
-    0 => 'My first book was called, \'Mountain, Get Out of My Way,\' where I did an autobiographical sketch, if you will, looking back at myself and looking back at things in my life, and juxtaposing them against things that are happening in other people\'s lives and trying to be motivational.',
-    1 => 'Montel Williams',
-  ),
-  9 => 
-  array (
-    0 => 'Don\'t waste your time with explanations, people only hear what they want to hear.',
-    1 => 'Paulo Coelho',
-  ),
-  10 => 
-  array (
-    0 => 'We must have a theme, a goal, a purpose in our lives. If you don\'t know where you\'re aiming, you don\'t have a goal. My goal is to live my life in such a way that when I die, someone can say, she cared.',
-    1 => 'Mary Kay Ash',
-  ),
-  11 => 
-  array (
-    0 => 'The only true measure of success is the ratio between what we might have done and what we might have been on the one hand, and the thing we have made and the things we have made of ourselves on the other.',
-    1 => 'H. G. Wells',
-  ),
-  12 => 
-  array (
-    0 => 'I am personally convinced that one person can be a change catalyst, a transformer in any situation, any organization. Such an individual is yeast that can leaven an entire loaf. It requires vision, initiative, patience, respect, persistence, courage, and faith to be a transforming leader.',
-    1 => 'Stephen R. Covey',
-  ),
-  13 => 
-  array (
-    0 => 'I\'d rather attempt to do something great and fail than to attempt to do nothing and succeed.',
-    1 => 'Robert H. Schuller',
-  ),
-  14 => 
-  array (
-    0 => 'Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations.',
-    1 => 'Albert Einstein',
-  ),
-  15 => 
-  array (
-    0 => 'In moments of discouragement, defeat, or even despair, there are always certain things to cling to. Little things usually: remembered laughter, the face of a sleeping child, a tree in the wind-in fact, any reminder of something deeply felt or dearly loved. No man is so poor as not to have many of these small candles. When they are lighted, darkness goes away-and a touch of wonder remains.',
-    1 => 'These Small Candles',
-  ),
-  16 => 
-  array (
-    0 => 'Look in the MIRROR...
-That\'s your COMPETITION.',
-    1 => 'Unknown',
-  ),
-  17 => 
-  array (
-    0 => 'Gadji beri bimba clandridi/Lauli lonni cadori gadjam A bim beri glassala glandride/E glassala tuffm I Zimbra.',
-    1 => 'Talking Heads (I Zimbra)',
-  ),
-  18 => 
-  array (
-    0 => 'The greatest discovery of all time is that a person can change his future by merely changing his attitude.',
-    1 => 'Oprah Winfrey',
-  ),
-  19 => 
-  array (
-    0 => 'You will rise by lifting others.',
-    1 => 'Robert G. Ingersoll',
-  ),
-  20 => 
-  array (
-    0 => 'The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it.',
-    1 => 'Elbert Hubbard',
-  ),
-  21 => 
-  array (
-    0 => 'How paramount the future is to the present when one is surrounded by children.',
-    1 => 'Charles Darwin',
-  ),
-  22 => 
-  array (
-    0 => '\'Do What You Gotta Do\' is a positive, inspirational song that says no matter what it is; whether you\'re up against challenges or trying to get your dreams and aspirations met, you should do what whatever you have to do shy of killing yourself or someone else.',
-    1 => 'Angie Stone',
-  ),
-  23 => 
-  array (
-    0 => 'Happiness is a butterfly, which when pursued, is always beyond your grasp, but which, if you will sit down quietly, may alight upon you.',
-    1 => 'Nathaniel Hawthorne',
-  ),
-  24 => 
-  array (
-    0 => 'I\'ve missed more than 9000 shots in my career. I\'ve lost almost 300 games. 26 times I\'ve been trusted to take the game winning shot and missed. I\'ve failed over and over and over again in my life. And that is why I succeed.',
-    1 => 'Michael Jordan',
-  ),
-);
+return [
+    [
+        'I\'m positive and I smile a lot, and I\'m kind of a banana, but serious work just seems to find me, so I\'m not going to argue with it.',
+        'Mireille Enos',
+    ],
+    [
+        'You have power over your mind, not outside events. Realize this, and you will find strength.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Time management is an oxymoron. Time is beyond our control, and the clock keeps ticking regardless of how we lead our lives. Priority management is the answer to maximizing the time we have.',
+        'John C. Maxwell',
+    ],
+    [
+        'For success, attitude is equally as important as ability.',
+        'Walter Scott',
+    ],
+    [
+        'I am inherently a little brother - that\'s just my nature. It has to do with my sister being very strong and wanting to protect me. It\'s the natural order of things.',
+        'Jake Gyllenhaal',
+    ],
+    [
+        'My daughter is my passion and my life.',
+        'Christopher McCandless',
+    ],
+    [
+        'On street corners everywhere, people are looking at their cell phones, and it\'s easy to dismiss this as some sort of bad trend in human culture. But the truth is life is being lived there. When they smile - right, you\'ve seen people stop - all of a sudden, life is being lived there, somewhere up in that weird, dense network.',
+        'Ze Frank',
+    ],
+    [
+        'Saudi Arabia has stability. The social contract and the political contract between the king and the rulers and the royal family and the ruled people in Saudi Arabia is very strong and the bondage is so solid.',
+        'Al-Waleed bin Talal',
+    ],
+    [
+        'The industrial revolution allowed us, for the first time, to start replacing human labour with machines.',
+        'Vitalik Buterin',
+    ],
+    [
+        'It may be a mistake, that man, in a state of nature, is more disposed to cruelty than courtesy.',
+        'Mercy Otis Warren',
+    ],
+    [
+        'The toughest thing about success is that you\'ve got to keep on being a success.',
+        'Irving Berlin',
+    ],
+    [
+        'The more natural or eco-based products you can introduce into your beauty regimen, the more beneficial it is for your skin. It\'s similar to introducing organic food into your daily diet.',
+        'Ivanka Trump',
+    ],
+    [
+        'A house divided against itself cannot stand.',
+        'Abraham Lincoln',
+    ],
+    [
+        'I\'m really exciting. I smile a lot, I win a lot, and I\'m really sexy.',
+        'Serena Williams',
+    ],
+    [
+        'Whenever possible, I use local, fresh ingredients, just because it tastes and feels better to eat an egg or a tomato or a hamburger that wasn\'t flown halfway around the world, that didn\'t travel on a truck and get stuck in traffic jams, that hasn\'t been sitting in a supermarket\'s refrigerator case for days.',
+        'Kate Christensen',
+    ],
+    [
+        'Shakespeare wrote about love. I write about love. Shakespeare wrote about gang warfare, family feuds and revenge. I write about all the same things.',
+        'Sister Souljah',
+    ],
+    [
+        'It\'s always too early to quit.',
+        'Norman Vincent Peale',
+    ],
+    [
+        'By the time we\'ve made it, we\'ve had it.',
+        'Malcolm Forbes',
+    ],
+    [
+        'There is perhaps nothing so bad and so dangerous in life as fear.',
+        'Lindsey Vonn',
+    ],
+    [
+        'Failure is simply the opportunity to begin again, this time more intelligently.',
+        'Henry Ford',
+    ],
+    [
+        'I feel that the simplicity of life is just being yourself.',
+        'Audrey Hepburn',
+    ],
+    [
+        'Ever since I began to compose, I have remained true to my starting principle: not to write a page because no matter what public, or what pretty girl wanted it to be thus or thus; but to write solely as I myself thought best, and as it gave me pleasure.',
+        'Felix Mendelssohn',
+    ],
+    [
+        'I like people that enjoy life, \'cause I do the same.',
+        'Charles R. Swindoll',
+    ],
+    [
+        'I decided, very early on, just to accept life unconditionally; I never expected it to do anything special for me, yet I seemed to accomplish far more than I had ever hoped. Most of the time it just happened to me without my ever seeking it.',
+        'Jim Carrey',
+    ],
+    [
+        'It\'s very expensive to be a professional tennis player with all the travel and the flights and the hotels and everything.',
+        'Caroline Wozniacki',
+    ],
+];

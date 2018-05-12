@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The subject matter of research is no longer nature in itself, but nature subjected to human questioning . . .',
-    1 => 'Werner Heisenberg',
-  ),
-  1 => 
-  array (
-    0 => 'Silence is the last thing the world will ever hear from me.',
-    1 => 'Marlee Matlin',
-  ),
-  2 => 
-  array (
-    0 => 'You do not pay the price of success, you enjoy the price of success.',
-    1 => 'Zig Ziglar',
-  ),
-  3 => 
-  array (
-    0 => 'The main thing is to be moved, to love, to hope, to tremble, to live.',
-    1 => 'Auguste Rodin',
-  ),
-  4 => 
-  array (
-    0 => 'Would you tell me, please, which way I ought to go from here?
-"That depends a good deal on where you want to get to," said the Cat.',
-    1 => 'Lewis Carrol',
-  ),
-  5 => 
-  array (
-    0 => 'Victims make excuses. Leaders deliver results.',
-    1 => 'Robin Sharma',
-  ),
-  6 => 
-  array (
-    0 => 'I began to realize how important it was to be an enthusiast in life. He taught me that if you are interested in something, no matter what it is, go at it at full speed ahead. Embrace it with both arms, hug it, love it and above all become passionate about it. Lukewarm is no good. Hot is no good either. White hot and passionate is the only thing to be.',
-    1 => 'Roald Dahl',
-  ),
-  7 => 
-  array (
-    0 => 'Jizz changes everything. It\'s science!',
-    1 => 'Jim Chapman',
-  ),
-  8 => 
-  array (
-    0 => 'Some come and leave, fulfilling a single purpose; others, for a time or a season to teach us by sharing their experiences; and last, a select few who participate forever with relationships that endure through eternity.',
-    1 => 'Jaren L. Davis',
-  ),
-  9 => 
-  array (
-    0 => 'Infinitely more important than sharing one\'s material wealth is sharing the wealth of ourselves, our time and energy, our passion and commitment, and, above all, our love.',
-    1 => 'William E. Simon',
-  ),
-  10 => 
-  array (
-    0 => 'Strength is life weakness is death.',
-    1 => 'Swami Vivekananda',
-  ),
-  11 => 
-  array (
-    0 => 'Coming together is a beginning; keeping together is progress; working together is success.',
-    1 => 'Henry Ford',
-  ),
-  12 => 
-  array (
-    0 => 'Entrepreneurs can\'t forecast accurately, because they are trying something fundamentally new. So they will often be laughably behind plan - and on the brink of success.',
-    1 => 'Eric Ries',
-  ),
-  13 => 
-  array (
-    0 => 'Put your heart, mind, and soul into even your smallest acts. This is the secret of success.',
-    1 => 'Swami Sivananda',
-  ),
-  14 => 
-  array (
-    0 => 'Begin doing what you want to do now. We are not living in eternity. We have only this moment, sparkling like a star in our hand-and melting like a snowflake.',
-    1 => 'Francis Bacon Sr.',
-  ),
-  15 => 
-  array (
-    0 => 'Tension is who you think you should be. Relaxation is who you are.',
-    1 => 'Chinese Proverb',
-  ),
-  16 => 
-  array (
-    0 => 'What we must decide is how we are valuable rather than how valuable we are.',
-    1 => 'Edgar Z. Friedenberg',
-  ),
-  17 => 
-  array (
-    0 => '[S]he refused to be bored chiefly because she wasn\'t boring.',
-    1 => 'Zelda Fitzgerald',
-  ),
-  18 => 
-  array (
-    0 => 'It is one of the superstitions of the human mind to have imagined that virginity could be a virtue.',
-    1 => 'Voltaire',
-  ),
-  19 => 
-  array (
-    0 => 'The individual choice of garnishment of a burger can be an important point to the consumer in this day when individualism is an increasingly important thing to people.',
-    1 => 'Donald N. Smith, president of Burger King',
-  ),
-  20 => 
-  array (
-    0 => 'Success is going from failure to failure with no loss of enthusiasm.',
-    1 => 'Winston Churchill',
-  ),
-  21 => 
-  array (
-    0 => 'When one must, one can.',
-    1 => 'Charlotte Whitton',
-  ),
-  22 => 
-  array (
-    0 => 'I\'m used to adversity and working really well in difficult situations. It was hard for me to accept the success.',
-    1 => 'Paula Cole',
-  ),
-  23 => 
-  array (
-    0 => 'We are not who we come from. We are who we allow ourselves to become.',
-    1 => 'Dawn Garcia',
-  ),
-  24 => 
-  array (
-    0 => 'Admiration, n.:
-        Our polite recognition of another\'s resemblance to ourselves.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-);
+return [
+    [
+        'I have no problem with the adventure travel movement. It makes better, more sensitive people. If you get people diving on a coral reef, they\'re going to become more respectful of the outdoors and more concerned with the threats that places like that face and they\'re going to care more about protecting them than they would have before.',
+        'Tim Cahill',
+    ],
+    [
+        'Spirituality is not a formula; it is not a test. It is a relationship. Spirituality is not about competency; it is about intimacy. Spirituality is not about perfection; it is about connection. The way of the spiritual life begins where we are now in the mess of our lives.',
+        'Steve Buyer',
+    ],
+    [
+        'Red carpets seem so glamorous, but you\'re really just standing there sweating and worrying your hair is going to fall. And in the end, people are only going to see one picture of you. You just smile for one second and then you walk over to the side and check your phone. It\'s pretty weird.',
+        'Morgan Saylor',
+    ],
+    [
+        'I\'m full of fears and I do my best to avoid difficulties and any kind of complications. I like everything around me to be clear as crystal and completely calm.',
+        'Alfred Hitchcock',
+    ],
+    [
+        'It really is an honor if I can be inspirational to a younger singer or person. It means I\'ve done my job.',
+        'Aretha Franklin',
+    ],
+    [
+        'Entrepreneurship is like a computer game in which you have to master every level before achieving success. Startups repeatedly stumble and have to go back to the drawing board. The best way to skip some levels and to increase the odds of survival is to learn from others who have already played the game.',
+        'Vivek Wadhwa',
+    ],
+    [
+        'For the man sound of body and serene of mind there is no such thing as bad weather; every day has its beauty, and storms which whip the blood do but make it pulse more vigorously.',
+        'George Gissing',
+    ],
+    [
+        'Think for yourselves and let others enjoy the privilege to do so too.',
+        'Voltaire',
+    ],
+    [
+        'No one ever thought Clint Eastwood was funny, but he was.',
+        'Annie Leibovitz',
+    ],
+    [
+        'Coming in solemn beauty like slow old tunes of Spain.',
+        'John Masefield',
+    ],
+    [
+        'The more we do the more we can do.',
+        'William Hazlitt',
+    ],
+    [
+        '\'24\' was so serious that it was nice to join \'NCIS\' and even be able to smile once or twice.',
+        'Annie Wersching',
+    ],
+    [
+        'I have no idea what I\'m going to say when I stand up to give a toast. But I do know that anything I say I find funny.',
+        'Don Rickles',
+    ],
+    [
+        'Change is the law of life. And those who look only to the past or present are certain to miss the future.',
+        'John D. Rockefeller',
+    ],
+    [
+        'People need to be cautious because anything built by man can be destroyed by Mother Nature.',
+        'Russel Honore',
+    ],
+    [
+        'Growth itself contains the germ of happiness.',
+        'Pearl Buck',
+    ],
+    [
+        'What you do on travel holiday is what your memories are based on. People want to do cool stuff, and this is what will shape your entire experience.',
+        'Ruzwana Bashir',
+    ],
+    [
+        'I was destined to work with dying patients. I had no choice when I encountered my first AIDS patient. I felt called to travel some 250,000 miles each year to hold workshops that helped people cope with the most painful aspects of life, death and the transition between the two.',
+        'Elisabeth Kubler-Ross',
+    ],
+    [
+        'The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn\'t deliver the goods.',
+        'John Maynard Keynes',
+    ],
+    [
+        'We can in fact first place the beam of rays of moving positive atomic ions in a plane perpendicular to the axis in which we see the spectral lines emitted by them.',
+        'Johannes Stark',
+    ],
+    [
+        'Students shy away from Maths, but in reality Maths is the best friend of man.',
+        'Shakuntala Devi',
+    ],
+    [
+        'Tell me how a person judges his or her self-esteem, and I will tell you how that person operates at work, in love, in sex, in parenting, in every important aspect of existence - and how high he or she is likely to rise. The reputation you have with yourself - your self-esteem - is the single most important factor for a fulfilling life.',
+        'Nathaniel Branden',
+    ],
+    [
+        'Barack Obama knows that to create an economy built to last, we need to focus on middle-class families. Families who stay up on Sunday nights pacing the floor, like my dad did, while their children, tucked in bed, dream big dreams. Families who aren\'t sure what Monday morning will bring, but who believe our nation\'s best days are still ahead.',
+        'Chuck Schumer',
+    ],
+    [
+        'Cinderella is not only an iconic character when it comes to beauty, grace and fairytale love, but also shoes.',
+        'Christian Louboutin',
+    ],
+    [
+        'The first step to getting the things you want out of life is this: decide what you want.',
+        'Ben Stein',
+    ],
+];

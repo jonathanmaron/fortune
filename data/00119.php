@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Prayer is man\'s greatest power!',
-    1 => 'W. Clement Stone',
-  ),
-  1 => 
-  array (
-    0 => 'I don\'t know what it\'s like to have a typical father figure. He\'s not the dad who\'s going to take me to the beach and go swimming, but he\'s such a motivational person.',
-    1 => 'Tiffany Trump',
-  ),
-  2 => 
-  array (
-    0 => 'Mistake is a mistake only if you make it twice.',
-    1 => 'Robin Sharma',
-  ),
-  3 => 
-  array (
-    0 => 'Taxation is the price we pay for failing to build a civilized society. The higher the tax level, the greater the failure. A centrally planned totalitarian state represents a complete defeat for the civilized world, while a totally voluntary society represents its ultimate success.',
-    1 => 'Mark Skousen',
-  ),
-  4 => 
-  array (
-    0 => 'One of the very important characteristics of a student is to question. Let the students ask questions.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  5 => 
-  array (
-    0 => 'Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.',
-    1 => 'Steve Jobs',
-  ),
-  6 => 
-  array (
-    0 => 'If my writing comes to a halt, I head to the shops: I find them very inspirational. And if I get into real trouble with my plot, I go out for a pizza with my husband.',
-    1 => 'Sophie Kinsella',
-  ),
-  7 => 
-  array (
-    0 => 'Success is the child of audacity.',
-    1 => 'Benjamin Disraeli',
-  ),
-  8 => 
-  array (
-    0 => 'The more you like yourself, the less you are like anyone else, which makes you unique.',
-    1 => 'Walt Disney',
-  ),
-  9 => 
-  array (
-    0 => 'About the only problem with success is that it does not teach you how to deal with failure.',
-    1 => 'Tommy Lasorda',
-  ),
-  10 => 
-  array (
-    0 => 'Listen. Do not have an opinion while you listen because frankly, your opinion doesn\'t hold much water outside of Your Universe. Just listen. Listen until their brain has been twisted like a dripping towel and what they have to say is all over the floor.',
-    1 => 'Hugh Elliott',
-  ),
-  11 => 
-  array (
-    0 => 'When bad men combine, the good must associate; else they will fall one by one, an unpitied sacrifice in a contemptible struggle.',
-    1 => 'Edmund Burke',
-  ),
-  12 => 
-  array (
-    0 => 'I think the authors of that notable instrument [the Declaration of Independence] intended to include all men.',
-    1 => 'Abraham Lincoln',
-  ),
-  13 => 
-  array (
-    0 => 'Education comes from within; you get it by struggle and effort and thought.',
-    1 => 'Napoleon Hill',
-  ),
-  14 => 
-  array (
-    0 => 'The real end winner of NAFTA is going to be Mexico because we have the human capital. We have that resource that is vital to the success of the U.S. economy.',
-    1 => 'Vicente Fox',
-  ),
-  15 => 
-  array (
-    0 => 'A mind is a fire to be kindled, not a vessel to be filled.',
-    1 => 'Plutarch',
-  ),
-  16 => 
-  array (
-    0 => 'Commitment, belief and positive attitude are all important if you\'re going to be a success, whether you\'re in sports, in business or, as in my case, anthropology.',
-    1 => 'Donald Johanson',
-  ),
-  17 => 
-  array (
-    0 => 'Education is the best provision for old age.',
-    1 => 'Aristotle',
-  ),
-  18 => 
-  array (
-    0 => 'Society is joint action and cooperation in which each participant sees the other partner\'s success as a means for the attainment of his own.',
-    1 => 'Ludwig von Mises',
-  ),
-  19 => 
-  array (
-    0 => 'Thoreau\'s Law:
-        If you see a man approaching you with the obvious intent of doing you good, you should run for your life.',
-    1 => 'Attributed to Thoreau by William H. Whyte, Jr., in The Organization Man (1956)',
-  ),
-  20 => 
-  array (
-    0 => 'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.',
-    1 => 'Marcus Aurelius',
-  ),
-  21 => 
-  array (
-    0 => 'I think people are reacting to what they perceive to be your simplistic and fetishistic understanding of the economy, which is becoming more and more pronouncedly so in its outward manifestations as you react to your misunderstanding of people\'s reactions to your reaction to what you perceived as Sam\'s simplistic and fetishistic understanding of the economy.',
-    1 => 'Gordan Todorovac',
-  ),
-  22 => 
-  array (
-    0 => 'The ones who want to achieve and win championships motivate themselves.',
-    1 => 'Mike Ditka',
-  ),
-  23 => 
-  array (
-    0 => 'What seems to us as bitter trials are often blessings in disguise.',
-    1 => 'Oscar Wilde',
-  ),
-  24 => 
-  array (
-    0 => 'The impediment to action advances action. What stands in the way becomes the way.',
-    1 => 'Marcus Aurelius',
-  ),
-);
+return [
+    [
+        'I think I have a hard time expressing myself in my relationships. I use songs to tell people how I\'m feeling. If I can\'t say \'I love you,\' I\'ll write a song about it and hope that the person figures it out.',
+        'Jenny Lewis',
+    ],
+    [
+        'I think everyone goes through chapters in their life and there was a time when I wasn\'t feeling terribly positive about what I was contributing to film, or wasn\'t feeling as if I was going in the direction I wanted and I re-evaluated what I was doing.',
+        'Jude Law',
+    ],
+    [
+        'Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.',
+        'Katharine Hepburn',
+    ],
+    [
+        'Don\'t ever doubt yourselves or waste a second of your life. It\'s too short, and you\'re too special.',
+        'A. J. McLean',
+    ],
+    [
+        'I\'m totally into new age and self-help books. I used to work in a bookstore and that\'s the section they gave me, and I got way into it. I just loved the power of positive thinking, letting yourself go.',
+        'Jason Mraz',
+    ],
+    [
+        'I absolutely love my job. I feel so privileged: I get to travel the world, I get to witness history... and I\'m constantly inspired by the different amazing characters I meet along the way.',
+        'Clarissa Ward',
+    ],
+    [
+        'Perhaps the mission of an artist is to interpret beauty to people - the beauty within themselves.',
+        'Langston Hughes',
+    ],
+    [
+        'That it will never come again is what makes life sweet.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Time flies like an arrow - but fruit flies like a banana.',
+        'Terry Wogan',
+    ],
+    [
+        'I started writing when I was 9 years old. I was like this weird kid who would just stay in my room, typing little funny magazines and drawing comic strips.',
+        'R. L. Stine',
+    ],
+    [
+        'If you have a success you have it for the wrong reasons. If you become popular it is always because of the worst aspects of your work.',
+        'Ernest Hemingway',
+    ],
+    [
+        'Life is short, and we should respect every moment of it.',
+        'Aeschylus',
+    ],
+    [
+        'All men\'s gains are the fruit of venturing.',
+        'Herodotus',
+    ],
+    [
+        'Tension is who you think you should be. Relaxation is who you are.',
+        'Chinese proverb',
+    ],
+    [
+        'Fears are nothing more than a state of mind.',
+        'Napoleon Hill',
+    ],
+    [
+        'The thing that can get kind of annoying is, when you travel so much, how hectic it gets. I was being interviewed once - it was a phone interview - and they said, \'Where are you right now?\' and I didn\'t know where I was.',
+        'Manika',
+    ],
+    [
+        'Life is far too important a thing ever to talk seriously about.',
+        'Aristotle',
+    ],
+    [
+        'Commitment in the face of conflict produces character.',
+        'Unknown',
+    ],
+    [
+        'More than anything, I like a jacket. You can do anything with a great jacket, the bigger the better. You can have any silhouette underneath. It gives you an attitude. It makes a gown look cool.',
+        'Rihanna',
+    ],
+    [
+        'City Ballet has to develop choreographers of stature and a new approach to coaching before everything we value about it fades away and, in the great tradition of the Cheshire Cat, there\'s nothing left but Peter Martins\' smile.',
+        'Robert Gottlieb',
+    ],
+    [
+        'We are presented with a unique situation in the black community in that we have embraced the beauty of hip hop, the real rawness of it, the real fun of it, but we also have to address the damage it has done. We have to look at what it\'s done to our black girls, especially when it comes to domestic violence.',
+        'Tamron Hall',
+    ],
+    [
+        'For my parents\' generation, the idea was not that marriage was about some kind of idealized, romantic love; it was a partnership. It\'s about creating family; it\'s about creating offspring. Indian culture is essentially much more of a \'we\' culture. It\'s a communal culture where you do what\'s best for the community - you procreate.',
+        'Aasif Mandvi',
+    ],
+    [
+        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
+        'Milton Berle',
+    ],
+    [
+        'Right now I just want to chill for a while. Take a hiatus from all the craziness. To clean my house, see my family. Just see some movies and pick some strawberries.',
+        'Lauren Ambrose',
+    ],
+    [
+        'Life is like an onion. You peel it off one layer at a time, and sometimes you weep.',
+        'Carl Sandburg',
+    ],
+];

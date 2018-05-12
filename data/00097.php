@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Once you\'ve found the craft you love and you start to get some momentum, share it with other people. Teach that thing you love so that other\'s can love it too.',
-    1 => 'Markus Almond',
-  ),
-  1 => 
-  array (
-    0 => 'Whenever I think about the past, it\'s just bring back so many memories.',
-    1 => 'Steven Wright',
-  ),
-  2 => 
-  array (
-    0 => 'I\'m not here to impose Sharia law, and I\'m not here to have a message about disability being inspirational - I\'m here to make people laugh. But when I can layer things and make people not only laugh but question, make people not only laugh but be offended... I have to do that.',
-    1 => 'Maysoon Zayid',
-  ),
-  3 => 
-  array (
-    0 => 'The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty.',
-    1 => 'Zig Ziglar',
-  ),
-  4 => 
-  array (
-    0 => 'If I had to select one quality, one personal characteristic that I regard as being most highly correlated with success, whatever the field, I would pick the trait of persistence. Determination. The will to endure to the end, to get knocked down seventy times and get up off the floor saying, \'Here comes number seventy-one\'!',
-    1 => 'Richard DeVos',
-  ),
-  5 => 
-  array (
-    0 => 'Without an open-minded mind, you can never be a great success.',
-    1 => 'Martha Stewart',
-  ),
-  6 => 
-  array (
-    0 => 'Desire is the key to motivation, but it\'s the determination and commitment to unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
-    1 => 'Mario Andretti',
-  ),
-  7 => 
-  array (
-    0 => 'All I can do will only ever be a faint image of what I see and my success will always be less than my failure or perhaps equal to the failure.',
-    1 => 'Alberto Giacometti',
-  ),
-  8 => 
-  array (
-    0 => 'Ask your boss to reconsider',
-    1 => 'it\'s so difficult to take "Go to hell" for an answer.',
-  ),
-  9 => 
-  array (
-    0 => 'As I\'ve progressed in my career, I\'ve come to appreciate - and really value - the other attributes that define a company\'s success beyond the P&L: great leadership, long-term financial strength, ethical business practices, evolving business strategies, sound governance, powerful brands, values-based decision-making.',
-    1 => 'Ursula Burns',
-  ),
-  10 => 
-  array (
-    0 => 'Under any conditions, anywhere, whatever you are doing, there is some ordinance under which you can be booked.',
-    1 => 'Robert D. Sprecht (Rand Corp)',
-  ),
-  11 => 
-  array (
-    0 => '\'No one can make you successful; the will to success comes from within.\' I\'ve made this my motto. I\'ve internalized it to the point of understanding that the success of my actions and/or endeavors doesn\'t depend on anyone else, and that includes a possible failure.',
-    1 => 'Fabrizio Moreira',
-  ),
-  12 => 
-  array (
-    0 => 'I don\'t think about what I have done. I only think of the things I want to do, and I haven\'t done.',
-    1 => 'Martha Graham',
-  ),
-  13 => 
-  array (
-    0 => 'We all have our own life to pursue, our own kind of dream to be weaving, and we all have the power to make wishes come true, as long as we keep believing.',
-    1 => 'Louisa May Alcott',
-  ),
-  14 => 
-  array (
-    0 => 'Don\'t allow your wounds to turn you into a person you are not.',
-    1 => 'Paulo Coelho',
-  ),
-  15 => 
-  array (
-    0 => 'You have two ears and two eyes and only one mouth. Because you will learn twice as much as what you will ever have to say.',
-    1 => 'Jeffrey Shultz',
-  ),
-  16 => 
-  array (
-    0 => 'If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth by which no man was ever injured. But he is injured who abides in his error and ignorance.',
-    1 => 'Marcus Aurelius, "The Meditations", Book VI',
-  ),
-  17 => 
-  array (
-    0 => 'Coward, n.:
-        One who in a perilous emergency thinks with his legs.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  18 => 
-  array (
-    0 => 'Lead, follow, or get out of the way.',
-    1 => 'Anon',
-  ),
-  19 => 
-  array (
-    0 => 'Desire is the most important factor in the success of any athlete.',
-    1 => 'Bill Shoemaker',
-  ),
-  20 => 
-  array (
-    0 => 'Once in a young lifetime one should be allowed to have as much sweetness as one can possibly want and hold.',
-    1 => 'Judith Olney',
-  ),
-  21 => 
-  array (
-    0 => 'Love is the harmony of two souls singing together.',
-    1 => 'Gregory J. P. Godek',
-  ),
-  22 => 
-  array (
-    0 => 'Do one thing every day that scares you.',
-    1 => 'Unknown',
-  ),
-  23 => 
-  array (
-    0 => 'TYou must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.',
-    1 => 'Mahatma Gandhi',
-  ),
-  24 => 
-  array (
-    0 => 'Either I will find a way, or I will make one.',
-    1 => 'Philip Sidney',
-  ),
-);
+return [
+    [
+        'Life is the flower for which love is the honey.',
+        'Amisha Patel',
+    ],
+    [
+        'I look at Jagger and the like and if I see a good attitude I\'ll admire it but I wouldn\'t copy their style.',
+        'Michael Hutchence',
+    ],
+    [
+        'I like motivational books, because I like the go-getting American spirit - your destiny is in your own hands, life is what you make it, don\'t accept your limitations, jump before you\'re pushed, leap before you look.',
+        'Louise Mensch',
+    ],
+    [
+        'Nature\'s far too subtle to repeat herself.',
+        'Paul Muni',
+    ],
+    [
+        'The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.',
+        'Havelock Ellis',
+    ],
+    [
+        'Every job is good if you do your best and work hard. A man who works hard stinks only to the ones that have nothing to do but smell.',
+        'Laura Ingalls Wilder',
+    ],
+    [
+        'The best liar is he who makes the smallest amount of lying go the longest way.',
+        'Samuel Butler',
+    ],
+    [
+        'I am just as comfortable in sweats and sneakers as I am in a dress and heels. Attitude is everything!',
+        'Blac Chyna',
+    ],
+    [
+        'We are learning, too, that the love of beauty is one of Nature\'s greatest healers.',
+        'Ellsworth Huntington',
+    ],
+    [
+        'Forgiveness is a way of opening up the doors again and moving forward, whether it\'s a personal life or a national life.',
+        'Albert Einstein',
+    ],
+    [
+        'Mostly I want to talk positive; I wanna talk about a bunch of great kids that I coached and made me look good and the university that I\'ve seen grow from a cow college, which it was, only 12,000 people, and when I came here, we weren\'t at Pennsylvania State University, we were at Penn State College.',
+        'Joe Paterno',
+    ],
+    [
+        'Imagination is the highest kite one can fly.',
+        'Lauren Bacall',
+    ],
+    [
+        'I\'m a funny guy. You\'ve got to be able to make fun of yourself. We only live once.',
+        'Jon Pardi',
+    ],
+    [
+        'Punk was defined by an attitude rather than a musical style.',
+        'David Byrne',
+    ],
+    [
+        'Life is painting a picture, not doing a sum.',
+        'Myles Munroe',
+    ],
+    [
+        "I always did something I was a little not ready to do. I think that's how you grow. When there's that moment of, \u{2018}Wow, I'm not really sure I can do this,' and you push through those moments, that's when you have a breakthrough.",
+        'Marissa Mayer',
+    ],
+    [
+        'Living at risk is jumping off the cliff and building your wings on the way down.',
+        'Ray Bradbury',
+    ],
+    [
+        'It\'s so important to realize that every time you get upset, it drains your emotional energy. Losing your cool makes you tired. Getting angry a lot messes with your health.',
+        'Joyce Meyer',
+    ],
+    [
+        'I never understand when people say, \'School days are the best of your life.\' So it\'s all downhill from 16? How depressing.',
+        'Marsha Thomason',
+    ],
+    [
+        'Most of the shadows of life are caused by standing in our own sunshine.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'I believe in Liberty for all men: the space to stretch their arms and their souls, the right to breathe and the right to vote, the freedom to choose their friends, enjoy the sunshine, and ride on the railroads, uncursed by color; thinking, dreaming, working as they will in a kingdom of beauty and love.',
+        'W. E. B. Du Bois',
+    ],
+    [
+        'The growth of purposeful travel is a good thing. It can have a positive impact. We should continue to experiment and move along this line.',
+        'Joe Garcia',
+    ],
+    [
+        'Tommie Aaron taught me how to have a good attitude, to be easy going and not get uptight.',
+        'Dale Murphy',
+    ],
+    [
+        'You get the best out of others when you get the best out of yourself.',
+        'Harvey S. Firestone',
+    ],
+    [
+        'To enjoy life, we must touch much of it lightly.',
+        'Voltaire',
+    ],
+];

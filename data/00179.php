@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.',
-    1 => 'William Penn',
-  ),
-  1 => 
-  array (
-    0 => 'The world is full of obvious things which nobody by any chance ever observes.',
-    1 => 'Sherlock Holmes',
-  ),
-  2 => 
-  array (
-    0 => 'The moment of truth, the sudden emergence of a new insight, is an act of intuition. Such intuitions give the appearance of miraculous flushes, or short-circuits of reasoning. In fact they may be likened to an immersed chain, of which only the beginning and the end are visible above the surface of consciousness. The diver vanishes at one end of the chain and comes up at the other end, guided by invisible links.',
-    1 => 'Arthur Koestler',
-  ),
-  3 => 
-  array (
-    0 => 'To make your children capable of honesty is the beginning of education.',
-    1 => 'John Ruskin',
-  ),
-  4 => 
-  array (
-    0 => 'You are the generation about to come into control and must prepare for this responsibility. Do not fill up your leisure with meaningless activity or with causes. Have the courage to stand aside and watch for a little while. It is more important to know where we are going than to get there quickly. Do not mistake activity for achievement.',
-    1 => 'Mabel Newcomer',
-  ),
-  5 => 
-  array (
-    0 => 'When you get into a tight place and everything goes against you, till it seems as though you could not hang on a minute longer, never give up then, for that is just the place and time that the tide will turn.',
-    1 => 'Harriet Beecher Stowe',
-  ),
-  6 => 
-  array (
-    0 => 'There are no secrets to success. It is the result of preparation, hard work, and learning from failure.',
-    1 => 'Colin Powell',
-  ),
-  7 => 
-  array (
-    0 => 'Any man\'s life will be filled with constant and unexpected encouragement if he makes up his mind to do his level best each day.',
-    1 => 'Booker T. Washington',
-  ),
-  8 => 
-  array (
-    0 => 'Success is often the result of taking a misstep in the right direction.',
-    1 => 'Norman MacEwan',
-  ),
-  9 => 
-  array (
-    0 => 'Do not struggle. Go with the flow of things, and you will find yourself at one with the mysterious unity of the Universe.',
-    1 => 'Chuang Tzu',
-  ),
-  10 => 
-  array (
-    0 => 'I grew up in a bookless house - my parents didn\'t read poetry, so if I hadn\'t had the chance to experience it at school I\'d never have experienced it. But I loved English, and I was very lucky in that I had inspirational English teachers, Miss Scriven and Mr. Walker, and they liked us to learn poems by heart, which I found I loved doing.',
-    1 => 'Carol Ann Duffy',
-  ),
-  11 => 
-  array (
-    0 => 'It is a blessed thing that in every age someone has had the individuality enough and courage enough to stand by his own convictions.',
-    1 => 'Thomas Edison',
-  ),
-  12 => 
-  array (
-    0 => 'Hope sees the invisible, feels the intangible, and achieves the impossible.',
-    1 => 'Charles Caleb Colton',
-  ),
-  13 => 
-  array (
-    0 => 'There is something fascinating about science. One gets such wholesale returns of conjecture out of such a trifling investment of fact.',
-    1 => 'Mark Twain',
-  ),
-  14 => 
-  array (
-    0 => 'Even the wisest mind has something yet to learn.',
-    1 => 'George Santayana',
-  ),
-  15 => 
-  array (
-    0 => 'Dreams and dedication are a powerful combination.',
-    1 => 'William Longgood',
-  ),
-  16 => 
-  array (
-    0 => 'Dedicate yourself to expressing your best.',
-    1 => 'Robin Sharma',
-  ),
-  17 => 
-  array (
-    0 => 'Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.',
-    1 => 'Og Mandino',
-  ),
-  18 => 
-  array (
-    0 => 'The superior man is modest in his speech, but exceeds in his actions.',
-    1 => 'Confucius',
-  ),
-  19 => 
-  array (
-    0 => 'Young man, the secret of my success is that at early age I discovered that I was not God.',
-    1 => 'Oliver Wendell Holmes, Jr.',
-  ),
-  20 => 
-  array (
-    0 => 'Fame or perceived success - it all comes from groupthink.',
-    1 => 'Chance The Rapper',
-  ),
-  21 => 
-  array (
-    0 => 'Hard work and togetherness. They go hand in hand. You need the hard work because it\'s such a tough atmosphere... to win week in and week out. You need togetherness because you don\'t always win, and you gotta hang though together.',
-    1 => 'Tony Dungy',
-  ),
-  22 => 
-  array (
-    0 => 'The making of friends who are real friends, is the best token we have of a man\'s success in life.',
-    1 => 'Edward Everett Hale',
-  ),
-  23 => 
-  array (
-    0 => 'The expert at anything was once a beginner',
-    1 => 'Helen Hayes',
-  ),
-  24 => 
-  array (
-    0 => 'Make sure you visualize what you really want, not what someone else wants for you.',
-    1 => 'Jerry Gillies',
-  ),
-);
+return [
+    [
+        'You can\'t be afraid to fail. It\'s the only way you succeed - you\'re not gonna succeed all the time, and I know that.',
+        'LeBron James',
+    ],
+    [
+        'When you come to the end of your rope, tie a knot and hang on.',
+        'Franklin Roosevelt',
+    ],
+    [
+        'Only those who will risk going too far can possibly find out how far it is possible to go.',
+        'TS Eliot',
+    ],
+    [
+        'For I must tell you that we artists cannot tread the path of Beauty without Eros keeping company with us and appointing himself as our guide.',
+        'Thomas Mann',
+    ],
+    [
+        'In comic strips, the person on the left always speaks first.',
+        'George Carlin',
+    ],
+    [
+        'I wish the government would put a tax on pianos for the incompetent.',
+        'Edith Sitwell',
+    ],
+    [
+        'If you want to be truly successful invest in yourself to get the knowledge you need to find your unique factor. When you find it and focus on it and persevere your success will blossom.',
+        'Sydney Madwed',
+    ],
+    [
+        'Yes, we\'re still five little people with a noisy attitude.',
+        'Angus Young',
+    ],
+    [
+        'What makes me feel good is all of the people that rooted for A.I. get a chance to say, \'He did what you never thought he could do. The critics. He did what you never thought he could accomplish.\' This is a moment that me and my fans and my family and friends can share together because we always believed in the dream.',
+        'Allen Iverson',
+    ],
+    [
+        'Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.',
+        'Oprah Winfrey',
+    ],
+    [
+        'Perfect is very boring, and if you happen to have a different look, that\'s a celebration of human nature, I think. If we were all symmetrical and perfect, life would be very dull.',
+        'Natalie Dormer',
+    ],
+    [
+        'I always think part of success is being able to replicate results, taking what is interesting or viable about yourself as a professional person and seeing if you bring it into different situations with similar results.',
+        'Robert Downey, Jr.',
+    ],
+    [
+        'The purpose of our lives is to be happy.',
+        'Robert Louis Stevenson',
+    ],
+    [
+        'I don\'t even really know what it is I do for a living - the level of insecurity is very, very high. You\'re making a lot of money, getting a lot of accolades and positive criticism for something where you don\'t even know what you\'re doing.',
+        'Shia LaBeouf',
+    ],
+    [
+        'Coming together should be considered something positive for people and communities. When thoughts come together, that can be more positive than an individual thought.',
+        'Amitabh Bachchan',
+    ],
+    [
+        'When you don\'t know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.',
+        '',
+    ],
+    [
+        'I have always believed that technology should do the hard work - discovery, organization, communication - so users can do what makes them happiest: living and loving, not messing with annoying computers! That means making our products work together seamlessly.',
+        'Larry Page',
+    ],
+    [
+        'Mountains cannot be surmounted except by winding paths.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'My work reflects a relationship to the built world that shifts between control and randomness, strangeness and beauty, comfort and fear.',
+        'David Allee',
+    ],
+    [
+        'The truth is that relative income is not directly related to happiness. Nonpartisan social-survey data clearly show that the big driver of happiness is earned success: a person\'s belief that he has created value in his life or the life of others.',
+        'Arthur C. Brooks',
+    ],
+    [
+        'So there was a fire inside me. And that fire inside you, it can be turned into a negative form or a positive form. And I gradually realised that I had this fire and that it had to be used in a positive way.',
+        'John Newcombe',
+    ],
+    [
+        'There\'s no explanation for success. Success just comes out of life.',
+        'Meat Loaf',
+    ],
+    [
+        'It\'s time to say goodbye, but I think goodbyes are sad and I\'d much rather say hello. Hello to a new adventure.',
+        'Ernie Harwell',
+    ],
+    [
+        'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
+        'James Best',
+    ],
+    [
+        'I think I have an inner confidence that my tastes are pretty simple, that what I find funny finds a wide audience. I\'m not particularly intellectual or clever or minority-focused in my creative instincts. And I\'m certainly not aware of suppressing more sophisticated ambitions.',
+        'Rowan Atkinson',
+    ],
+];

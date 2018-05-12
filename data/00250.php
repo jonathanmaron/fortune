@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Positive, adj.:
-        Mistaken at the top of one\'s voice.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  1 => 
-  array (
-    0 => 'Success is not free. Neither is failure.',
-    1 => 'Ray Kroc',
-  ),
-  2 => 
-  array (
-    0 => 'Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.',
-    1 => 'Pope John XXIII',
-  ),
-  3 => 
-  array (
-    0 => 'Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.',
-    1 => 'John F. Kennedy',
-  ),
-  4 => 
-  array (
-    0 => 'Real knowledge is to know the extent of one\'s ignorance.',
-    1 => 'Confucius',
-  ),
-  5 => 
-  array (
-    0 => 'Physical bravery is an animal instinct; moral bravery is much higher and truer courage.',
-    1 => 'Wendell Phillips',
-  ),
-  6 => 
-  array (
-    0 => 'With a rubber duck, one\'s never alone.',
-    1 => '"The Hitchhiker\'s Guide to the Galaxy"',
-  ),
-  7 => 
-  array (
-    0 => 'Adde parvum parvo magnus acervus erit.
-[Add little to little and there will be a big pile.]',
-    1 => 'Ovid',
-  ),
-  8 => 
-  array (
-    0 => 'The breaking of a wave cannot explain the whole sea.',
-    1 => 'Vladimir Nabokov',
-  ),
-  9 => 
-  array (
-    0 => 'Muddy water let stand will clear.',
-    1 => 'Chinese Proverb',
-  ),
-  10 => 
-  array (
-    0 => 'The success of any great moral enterprise does not depend upon numbers.',
-    1 => 'William Lloyd Garrison',
-  ),
-  11 => 
-  array (
-    0 => 'I have found Christian dogma unintelligible. Early in life, I absented myself from Christian assemblies.',
-    1 => 'Benjamin Franklin',
-  ),
-  12 => 
-  array (
-    0 => 'Earn your success based on service to others, not at the expense of others.',
-    1 => 'H. Jackson Brown, Jr.',
-  ),
-  13 => 
-  array (
-    0 => 'A society without the means to detect lies and theft soon squanders its liberty and freedom.',
-    1 => 'Chris Hedges',
-  ),
-  14 => 
-  array (
-    0 => 'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.',
-    1 => 'Anthony Robbins',
-  ),
-  15 => 
-  array (
-    0 => 'In the beginning I was made. I didn\'t ask to me made. No one consulted me or considered my feelings in this matter. But if it brought some passing fancy to some lowly humans as they haphazardly pranced their way through life\'s mournful jungle then so be it.',
-    1 => 'Marvin the Paranoid Android',
-  ),
-  16 => 
-  array (
-    0 => 'The liar\'s punishment is not in the least that he is not believed, but that he cannot believe anyone else.',
-    1 => 'George Bernard Shaw',
-  ),
-  17 => 
-  array (
-    0 => 'I think every good Christian ought to kick Falwell\'s ass.',
-    1 => 'Senator Barry Goldwater, when asked what he thought of Jerry Falwell\'s suggestion that all good Christians should be against Sandra Day O\'Connor\'s nomination to the Supreme Court',
-  ),
-  18 => 
-  array (
-    0 => 'Commerce and justice are not divorceable notions.',
-    1 => 'Jeffrey Swartz',
-  ),
-  19 => 
-  array (
-    0 => 'Why are you so enchanted by this world, when a mine of gold lies within you?',
-    1 => 'Rumi',
-  ),
-  20 => 
-  array (
-    0 => 'We\'re never in lack of money. We lack people with dreams, (people) who can die for those dreams.',
-    1 => 'Jack Ma',
-  ),
-  21 => 
-  array (
-    0 => 'Motivation is the art of getting people to do what you want them to do because they want to do it.',
-    1 => 'Dwight D. Eisenhower',
-  ),
-  22 => 
-  array (
-    0 => 'It is difficult to produce a television documentary that is both incisive and probing when every twelve minutes one is interrupted by twelve dancing rabbits singing about toilet paper.',
-    1 => 'Rod Serling',
-  ),
-  23 => 
-  array (
-    0 => 'Time is the most valuable thing a man can spend.',
-    1 => 'Theophrastus',
-  ),
-  24 => 
-  array (
-    0 => 'Any man worth his salt will stick up for what he believes right, but it takes a slightly better man to acknowledge instantly and without reservation that he is in error.',
-    1 => 'Andrew Jackson',
-  ),
-);
+return [
+    [
+        'I\'ve met so many who have opened doors for me and remained in my life both personally and professionally. After a while, networking doesn\'t feel like \'networking.\' It\'s both serendipitous and unpredictable, and something that just naturally becomes part of your work life and your personal life.',
+        'Narciso Rodriguez',
+    ],
+    [
+        'When fate hands us a lemon, lets try to make lemonade.',
+        'Dale Carnegie',
+    ],
+    [
+        'My childhood, adolescence and high school days are unusually important. If there has ever been a time that I developed a uniqueness and sense of humor and the ability to organize, it was then. In those early days, I developed the skills that gave me a certain degree of success in American politics.',
+        'Lee Atwater',
+    ],
+    [
+        'Strike and struggle precede success, even in the dictionary.',
+        'Christian Slater',
+    ],
+    [
+        'We\'ve got so many different cultural groups in my family that I\'ve had to learn to accommodate them in different ways. My father speaks different to my mum. My mum speaks different to my grandmother. Everybody speaks different, so you find you start tweaking your language to be more accessible to people.',
+        'Trevor Noah',
+    ],
+    [
+        'The man on top of the mountain didn\'t fall there.',
+        'Vince Lombardi',
+    ],
+    [
+        'The painter who is familiar with the nature of the sinews, muscles, and tendons, will know very well, in giving movement to a limb, how many and which sinews cause it; and which muscle, by swelling, causes the contraction of that sinew; and which sinews, expanded into the thinnest cartilage, surround and support the said muscle.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'Everything has its beauty, but not everyone sees it.',
+        'Andy Warhol',
+    ],
+    [
+        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
+        'Elmer Bernstein',
+    ],
+    [
+        'Of course! It takes a lot of strength to mend a broken heart. Channelising energies into your work helps, but also to be able to accept situations for what they are instead of questioning them helps immensely.',
+        'Deepika Padukone',
+    ],
+    [
+        'I always work with a goal - and the goal is to improve as a player and a person. That, finally, is the most important thing of all.',
+        'Rafael Nadal',
+    ],
+    [
+        'Growing up with three older brothers and being the youngest and the only girl, my mom always made me tough. She\'s taught me over the years how to be a strong, independent woman, how to carry yourself in a positive way and anything that my brothers can do, I can do.',
+        'Diana Lopez',
+    ],
+    [
+        'Often, these downplay the power of cultural imperialism - in that sense, playing the game of US interests - by reassuring us that the global success of American mass culture is not as bad as all that.',
+        'Fredric Jameson',
+    ],
+    [
+        'Wrinkles should merely indicate where smiles have been',
+        'Mark Twain',
+    ],
+    [
+        'I love women with attitude.',
+        'Kevin Hart',
+    ],
+    [
+        'People repeat behaviour that leads to flooding their brains with pleasurable chemicals. The short-term reward loop acts over hours to years, and the long-term reproductive success loop over generations.',
+        'Keith Henson',
+    ],
+    [
+        'By nature, I keep moving, man. My theory is, be the shark. You\'ve just got to keep moving. You can\'t stop.',
+        'Brad Pitt',
+    ],
+    [
+        'When you\'re in love it\'s the most glorious two and a half days of your life.',
+        'Richard Lewis',
+    ],
+    [
+        'I don\'t want just attitude and loud opinion.',
+        'John McLaughlin',
+    ],
+    [
+        'My grandma did opera singing for the better part of her life; she used to sing all over the place. My grandpa was a sax player, and he used to travel all over the place, too.',
+        'Mac DeMarco',
+    ],
+    [
+        'You know I think that going into therapy is a very positive thing, and talking about it is really helpful, because the more you talk the more your fears fade, because you get it out.',
+        'Fran Drescher',
+    ],
+    [
+        'Removing all stimulation around you is a really positive thing in terms of stimulating your creativity.',
+        'Grimes',
+    ],
+    [
+        'Maxim for life: You get treated in life the way you teach people to treat you.',
+        'Wayne Dyer',
+    ],
+    [
+        'When I was a little kid, I wrote this play about all these characters living in a haunted house. There was a witch who lived there, and a mummy. When they were all hassling him, this guy who bought the house - I can\'t believe I remember this - he said to them, \'Who\'s paying the mortgage on this haunted house?\' I thought that was really funny.',
+        'Mindy Kaling',
+    ],
+    [
+        'If you want things to be different, perhaps the answer is to become different yourself.',
+        'Norman Peale',
+    ],
+];

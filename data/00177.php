@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Your attitude, not your aptitude, will determine your altitude.',
-    1 => 'Zig Ziglar',
-  ),
-  1 => 
-  array (
-    0 => 'God made the integers; all else is the work of Man.',
-    1 => 'Kronecker',
-  ),
-  2 => 
-  array (
-    0 => 'Each work has to pass through these stages - ridicule, opposition, and then acceptance. Those who think ahead of their time are sure to be misunderstood.',
-    1 => 'Swami Vivekananda',
-  ),
-  3 => 
-  array (
-    0 => 'There is only one good, knowledge, and one evil, ignorance.',
-    1 => 'Socrates',
-  ),
-  4 => 
-  array (
-    0 => 'Once ... in the wilds of Afghanistan, I lost my corkscrew, and we were forced to live on nothing but food and water for days.',
-    1 => 'W. C. Fields, "My Little Chickadee"',
-  ),
-  5 => 
-  array (
-    0 => 'Class never runs scared. It is sure-footed and confident, and it can handle whatever comes along. Class has a sense of humor. It knows that a good laugh is the best lubricant for oiling the machinery of human relations. Class never makes excuses. It takes its lumps and learns from mistakes...Class is comfortable in its own skin. It never puts on airs. Class never tries to build itself up by tearing others down. If you have class, you\'ve got it made.',
-    1 => 'Abigail Van Buren [Pauline Phillips]',
-  ),
-  6 => 
-  array (
-    0 => 'Beware of bugs in the above code; I have only proved it correct, not tried it.',
-    1 => 'Donald Knuth',
-  ),
-  7 => 
-  array (
-    0 => 'Moderation is the feebleness and sloth of the soul, whereas ambition is the warmth and activity of it.',
-    1 => 'François Duc De La Rochefoucauld',
-  ),
-  8 => 
-  array (
-    0 => 'There\'s a direct correlation between positive energy and positive results in the physical form.',
-    1 => 'Joe Rogan',
-  ),
-  9 => 
-  array (
-    0 => 'Don\'t worry about losing. If it is right, it happens - The main thing is not to hurry. Nothing good gets away.',
-    1 => 'John Steinbeck',
-  ),
-  10 => 
-  array (
-    0 => 'Love never says: I have done enough!',
-    1 => 'Saint Marie-Eugenie de Jesus',
-  ),
-  11 => 
-  array (
-    0 => 'Learn all you can from the mistakes of others. You won\'t have time to make them all yourself.',
-    1 => 'Alfred Sheinwold',
-  ),
-  12 => 
-  array (
-    0 => 'To understand is to forgive, even oneself.',
-    1 => 'Euripides',
-  ),
-  13 => 
-  array (
-    0 => 'Create. Not for the money. Not for the fame. Not for the recognition. But for the pure joy of creating something and sharing it.',
-    1 => 'Ernest Barbaric',
-  ),
-  14 => 
-  array (
-    0 => 'I am seeking, I am striving, I am in it with all my heart.',
-    1 => 'Vincent Van Gogh',
-  ),
-  15 => 
-  array (
-    0 => 'Anyone who cannot cope with mathematics is not fully human. At best he is a tolerable subhuman who has learned to wear shoes, bathe and not make messes in the house.',
-    1 => 'Lazarus Long, "Time Enough for Love"',
-  ),
-  16 => 
-  array (
-    0 => 'It\'s the possibility of having a dream come true that makes life interesting.',
-    1 => 'Paulo Coelho',
-  ),
-  17 => 
-  array (
-    0 => 'Simplicity is the trademark of genius.',
-    1 => 'Robin Sharma',
-  ),
-  18 => 
-  array (
-    0 => 'It is the supreme art of the teacher to awaken joy in creative expression and knowledge.',
-    1 => 'Albert Einstein',
-  ),
-  19 => 
-  array (
-    0 => 'In three words I can sum up everything I\'ve learned about life: it goes on.',
-    1 => 'Robert Frost',
-  ),
-  20 => 
-  array (
-    0 => 'What you do makes a difference, and you have to decide what kind of difference you want to make.',
-    1 => 'Jane Goodall',
-  ),
-  21 => 
-  array (
-    0 => 'Your life does not get better by chance, it gets better by change.',
-    1 => 'Anonymous',
-  ),
-  22 => 
-  array (
-    0 => 'I used to be indecisive; now I\'m not sure.',
-    1 => 'Graffiti',
-  ),
-  23 => 
-  array (
-    0 => 'A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are worthwhile, it can be done.',
-    1 => 'Vince Lombardi',
-  ),
-  24 => 
-  array (
-    0 => 'My humanity is bound up in yours, for we can only be human together.',
-    1 => 'Archbishop Desmond Tutu',
-  ),
-);
+return [
+    [
+        'Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek.',
+        'Barack Obama',
+    ],
+    [
+        'My advice: Take a second out of the day today and be thankful for your family.',
+        'Jenna Morasca',
+    ],
+    [
+        'Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.',
+        'Walter Pater',
+    ],
+    [
+        'Cautious, careful people, always casting about to preserve their reputations can never effect a reform.',
+        'Susan B. Anthony',
+    ],
+    [
+        'All men\'s souls are immortal, but the souls of the righteous are immortal and divine.',
+        'Socrates',
+    ],
+    [
+        'My attitude goes back to my childhood. I used to audition for theatrical roles, and you can\'t stand out in a room full of ambitious eight-year-old girls by acting the wallflower. I realised then that I couldn\'t do things half-heartedly.',
+        'Jessie J',
+    ],
+    [
+        'People living deeply have no fear of death.',
+        'Hans Christian Andersen',
+    ],
+    [
+        'As in nature, all is ebb and tide, all is wave motion, so it seems that in all branches of industry, alternating currents - electric wave motion - will have the sway.',
+        'Nikola Tesla',
+    ],
+    [
+        'Take a course in good water and air; and in the eternal youth of Nature you may renew your own. Go quietly, alone; no harm will befall you.',
+        'John Muir',
+    ],
+    [
+        'Modeling is an incredible job for a girl if she approaches it with her head on her shoulders. You travel, you speak to people, and it opens your mind to different things.',
+        'Anja Rubik',
+    ],
+    [
+        'Of all the inventions of humans, the computer is going to rank near or at the top as history unfolds and we look back. It is the most awesome tool that we have ever invented. I feel incredibly lucky to be at exactly the right place in Silicon Valley, at exactly the right time, historically, where this invention has taken form.',
+        'Steve Jobs',
+    ],
+    [
+        'Id rather have a fake smile than a nasty stare.',
+        'Tamara Ecclestone',
+    ],
+    [
+        'If you live to be one hundred, you\'ve got it made. Very few people die past that age.',
+        'George Burns',
+    ],
+    [
+        'We love life, not because we are used to living but because we are used to loving.',
+        'Ashley Smith',
+    ],
+    [
+        'It\'s funny what memory does, isn\'t it? My favorite holiday tradition might not have happened more than once or twice. But because it is such a good memory, so encapsulating of everything I love about the holidays, in my mind it happened every year. Without fail.',
+        'Molly O\'Keefe',
+    ],
+    [
+        'It is the working man who is the happy man. It is the idle man who is the miserable man.',
+        'Benjamin Franklin',
+    ],
+    [
+        'Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.',
+        'Marcus Aurelius',
+    ],
+    [
+        'The real sin against life is to abuse and destroy beauty, even one\'s own even more, one\'s own, for that has been put in our care and we are responsible for its well-being.',
+        'Katherine Anne Porter',
+    ],
+    [
+        'But I think it is a serious issue to wonder about the other platonic absolutes of say beauty and morality.',
+        'Roger Penrose',
+    ],
+    [
+        'I just hate losing and that gives you an extra determination to work harder.',
+        'Wayne Rooney',
+    ],
+    [
+        'Dad could talk about peace and love out loud to the world, but he could never show it to the people who supposedly meant the most to him: his wife and son. How can you talk about peace and love and have a family in bits and pieces - no communication, adultery, divorce? You can\'t do it, not if you\'re being true and honest with yourself.',
+        'Julian Lennon',
+    ],
+    [
+        'Global warming will threaten our crops, so natural food will be scarce. Hourglass, curvy bodies will be the aspirational beauty standard, representing that those women have access to bounties of fulfilling yet healthy food, which means they are affluent.',
+        'Tyra Banks',
+    ],
+    [
+        'I don\'t like people who have never fallen or stumbled. Their virtue is lifeless and it isn\'t of much value. Life hasn\'t revealed its beauty to them.',
+        'Boris Pasternak',
+    ],
+    [
+        'I love the long grass coming up to meet the willows.',
+        'Jilly Cooper',
+    ],
+    [
+        'If a man has been his mother\'s undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it.',
+        'Sigmund Freud',
+    ],
+];

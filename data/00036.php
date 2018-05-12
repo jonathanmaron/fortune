@@ -1,134 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A classic is something that everybody wants to have read and nobody wants to read.',
-    1 => 'Mark Twain',
-  ),
-  1 => 
-  array (
-    0 => 'Smooth seas do not make skillful sailors.',
-    1 => 'African Proverb',
-  ),
-  2 => 
-  array (
-    0 => '[In the future], people like me will be underground and hunted.',
-    1 => 'Chuck Murcko, 1995,
-           at an employer-sponsored brainstorming session',
-  ),
-  3 => 
-  array (
-    0 => 'To forgive is the highest, most beautiful form of love. In return, you will receive untold peace and happiness.',
-    1 => 'Robert Muller',
-  ),
-  4 => 
-  array (
-    0 => 'The key is to keep company only with people who uplift you, whose presence calls forth your best.',
-    1 => 'Epictetus',
-  ),
-  5 => 
-  array (
-    0 => 'Moments, moments, that is what life is all about.',
-    1 => 'Lourdes Cortes Garcia',
-  ),
-  6 => 
-  array (
-    0 => 'You look at the tremendous success of Facebook. To my mind there is not a lot of commerce going on in these social networking sites. eBay is a community anchored in commerce. It is a commerce site that built a community around it. What has not been proven is if the reverse can happen and people will go to community sites to do commerce.',
-    1 => 'Meg Whitman',
-  ),
-  7 => 
-  array (
-    0 => 'Failure is a bruise, not a tattoo.',
-    1 => 'Jon Sinclair',
-  ),
-  8 => 
-  array (
-    0 => 'Leisure can be justified.
-Recreation maximizes productive stamina.
-Play is not the opposite of work.
-Idleness consolidates thought.',
-    1 => 'Thomas "Sam" Frantz',
-  ),
-  9 => 
-  array (
-    0 => 'Encouragement is the oxygen of the soul.',
-    1 => 'George M. Adams',
-  ),
-  10 => 
-  array (
-    0 => 'It is the unknown we fear when we look upon death and darkness, nothing more',
-    1 => 'The Half-Blood Prince',
-  ),
-  11 => 
-  array (
-    0 => 'People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within.',
-    1 => 'Elisabeth Kübler-Ross',
-  ),
-  12 => 
-  array (
-    0 => 'I don\'t know anything about luck. I\'ve never banked on it, and I\'m afraid of people who do. Luck to me is something else; hard work and realizing what is opportunity and what isn\'t.',
-    1 => 'Lucille Ball',
-  ),
-  13 => 
-  array (
-    0 => 'Racing improves the breed.',
-    1 => 'Soichiro Honda',
-  ),
-  14 => 
-  array (
-    0 => 'A place for everything, everything in its place.',
-    1 => 'Benjamin Franklin',
-  ),
-  15 => 
-  array (
-    0 => 'I\'m a greater believer in luck, and I find the harder I work the more I have of it.',
-    1 => 'Thomas Jefferson',
-  ),
-  16 => 
-  array (
-    0 => 'I have yet to see any problem, however complicated, which, when looked at in the right way, did not become still more complicated.',
-    1 => 'Paul Anderson',
-  ),
-  17 => 
-  array (
-    0 => 'To fear love is to fear life.',
-    1 => 'Bertrand Russell',
-  ),
-  18 => 
-  array (
-    0 => 'A human is a system for converting dust billions of years ago into dust billions of years from now via a roundabout process which involves checking email a lot.',
-    1 => 'Randall Munroe (xkcd #1173)',
-  ),
-  19 => 
-  array (
-    0 => 'People say nothing is impossible, but I do nothing every day.',
-    1 => 'A.A. Milne',
-  ),
-  20 => 
-  array (
-    0 => 'Alliance, n.:
-        In international politics, the union of two thieves who have their hands so deeply inserted in each other\'s pocket that they cannot separately plunder a third.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  21 => 
-  array (
-    0 => 'If you are not willing to risk the usual, you will have to settle for ordinary.',
-    1 => 'Jim Rohn.',
-  ),
-  22 => 
-  array (
-    0 => 'Act as if what you do makes a difference. It does.',
-    1 => 'William James',
-  ),
-  23 => 
-  array (
-    0 => 'The most difficult thing is the decision to act, the rest is merely tenacity.',
-    1 => 'Amelia Earhart',
-  ),
-  24 => 
-  array (
-    0 => 'Do not watch the clock. Do what it does. Keep going.',
-    1 => 'Sam Levenson',
-  ),
-);
+return [
+    [
+        'My family know not to get me any tech for Christmas. I can never get it to work, and it all becomes very tearful and pressurised.',
+        'Peter Capaldi',
+    ],
+    [
+        'It just happened that the course of the campaign went negative we actually went positive for a little over a week and you do the tracking of poll numbers and it hurt us. So the public responded to those type of ads.',
+        'Scott McCallum',
+    ],
+    [
+        'Fairness is not an attitude. It\'s a professional skill that must be developed and exercised.',
+        'Brit Hume',
+    ],
+    [
+        'In most professions, if you stay at the office an extra four hours every day, you\'re gonna impress the boss. You\'re gonna get that promotion; you\'re gonna get that raise. You\'re gonna at least have job security. But with acting, if you\'re really ambitious and you have a good work ethic and are really good at your job, it might not really matter.',
+        'Jason Bateman',
+    ],
+    [
+        'There is nothing in a caterpillar that tells you it\'s going to be a butterfly.',
+        'R. Buckminster Fuller',
+    ],
+    [
+        'Instead of drifting along like a leaf in a river, understand who you are and how you come across to people and what kind of an impact you have on the people around you and the community around you and the world, so that when you go out, you can feel you have made a positive difference.',
+        'Jane Fonda',
+    ],
+    [
+        'The more I see of deer, the more I admire them as mountaineers. They make their way into the heart of the roughest solitudes with smooth reserve of strength, through dense belts of brush and forest encumbered with fallen trees and boulder piles, across canons, roaring streams, and snow-fields, ever showing forth beauty and courage.',
+        'John Muir',
+    ],
+    [
+        'We are so obsessed with doing that we have no time and no imagination left for being. As a result, men are valued not for what they are but for what they do or what they have - for their usefulness.',
+        'Thomas Merton',
+    ],
+    [
+        'I try to do the right thing at the right time. They may just be little things, but usually they make the difference between winning and losing.',
+        'Kareem Abdul-Jabbar',
+    ],
+    [
+        'Reach for the stars.',
+        'Christa McAuliffe',
+    ],
+    [
+        'In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they\'re still beautiful.',
+        'Alice Walker',
+    ],
+    [
+        'Your success depends mainly upon what you think of yourself and whether you believe in yourself.',
+        'William J. H. Boetcker',
+    ],
+    [
+        'A photograph can be an instant of life captured for eternity that will never cease looking back at you.',
+        'Wayne Dyer',
+    ],
+    [
+        'My mind\'s my kingdom.',
+        'Francis Quarles',
+    ],
+    [
+        'The more you travel, the more well-off you\'ll be, I think.',
+        'RJ Mitte',
+    ],
+    [
+        'If you want to achieve things in life, you\'ve just got to do them, and if you\'re talented and smart, you\'ll succeed.',
+        'Juliana Hatfield',
+    ],
+    [
+        'It\'s funny because I remember when I came to the U.S. with \'Swimming Pool,\' the movie did well, and it was great box office for a French movie, but I remember I was a bit upset because all people talked to me about was the nudity.',
+        'Ludivine Sagnier',
+    ],
+    [
+        'I am not a religious person myself, but I did look for nature. I had spent my first sabbatical in New York City. Looked for something different for the second one. Europe and the U.S. didn\'t really feel enticing because I knew them too well. So Asia it was. The most beautiful landscapes I had seen in Asia were Sri Lanka and Bali.',
+        'Stefan Sagmeister',
+    ],
+    [
+        'Success or failure in business is caused more by the mental attitude even than by mental capacities.',
+        'Walter Scott',
+    ],
+    [
+        'Being made to feel like an irrelevant child was probably an asset. Benign negligence is not a bad parental attitude or at least a cross between a benevolent dictator and benign negligence - you should just let kids crack on with it.',
+        'Clare Balding',
+    ],
+    [
+        'We are the leaves of one branch, the drops of one sea, the flowers of one garden.',
+        'Jean Lacordaire',
+    ],
+    [
+        'Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living.',
+        'Mary Ritter Beard',
+    ],
+    [
+        'Life is just a chance to grow a soul.',
+        'A. Powell Davies',
+    ],
+    [
+        'What has happened is that to some degree they have taken an attitude where they don\'t listen to demos of diverse subject matters. They\'re looking for demos like the record the guy on the left just did.',
+        'Grandmaster Flash',
+    ],
+    [
+        'I don\'t know what keeps me going. Sometimes I wonder... I think it\'s just pure perseverance and wanting to succeed and having that burning desire to always have success.',
+        'Tanya Tucker',
+    ],
+];

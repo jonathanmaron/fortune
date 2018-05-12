@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Gratitude is the memory of the heart.',
-    1 => 'Jean-Baptiste Massieu',
-  ),
-  1 => 
-  array (
-    0 => 'Even the best of friends cannot attend each other\'s funeral.',
-    1 => 'Kehlog Albran, "The Profit"',
-  ),
-  2 => 
-  array (
-    0 => 'Life is about making an impact, not making an income.',
-    1 => 'Kevin Kruse',
-  ),
-  3 => 
-  array (
-    0 => 'Reach for the stars.',
-    1 => 'Christa McAuliffe',
-  ),
-  4 => 
-  array (
-    0 => 'If people knew how hard I worked to achieve my mastery, it wouldn\'t seem so wonderful after all.',
-    1 => 'Michelangelo',
-  ),
-  5 => 
-  array (
-    0 => 'What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.',
-    1 => 'Don Zimmer',
-  ),
-  6 => 
-  array (
-    0 => 'Why be a man when you can be a success?',
-    1 => 'Bertolt Brecht',
-  ),
-  7 => 
-  array (
-    0 => 'Believe in yourself and there will come a day when others will have no choice but to believe with you.',
-    1 => 'Cynthia Kersey',
-  ),
-  8 => 
-  array (
-    0 => 'He conquers who endures.',
-    1 => 'Persius',
-  ),
-  9 => 
-  array (
-    0 => 'God does not care about our mathematical difficulties. He integrates empirically.',
-    1 => 'Albert Einstein',
-  ),
-  10 => 
-  array (
-    0 => 'Don\'t fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.',
-    1 => 'Unknown',
-  ),
-  11 => 
-  array (
-    0 => 'Of all things visible, the highest is the heaven of the fixed stars.',
-    1 => 'Nicolaus Copernicus',
-  ),
-  12 => 
-  array (
-    0 => 'Under capitalism, man exploits man. Under Communism, it\'s just the opposite.',
-    1 => 'John Kenneth Galbraith',
-  ),
-  13 => 
-  array (
-    0 => 'After all, to the well-organised mind, death is but the next great adventure.',
-    1 => 'Dumbledore–The Philosopher\'s Stone',
-  ),
-  14 => 
-  array (
-    0 => 'Any sufficiently advanced technology is indistinguishable from a rigged demo.',
-    1 => 'Andy Finkel, computer guy',
-  ),
-  15 => 
-  array (
-    0 => 'That\'s the thing about people who think they hate computers. What they really hate is lousy programmers.',
-    1 => 'Larry Niven and Jerry Pournelle in "Oath of Fealty"',
-  ),
-  16 => 
-  array (
-    0 => 'Life\'s tragedy is that we get old too soon and wise too late.',
-    1 => 'Benjamin Franklin',
-  ),
-  17 => 
-  array (
-    0 => 'Dreams come true. Without that possibility, nature would not incite us to have them.',
-    1 => 'John Updike',
-  ),
-  18 => 
-  array (
-    0 => 'I never could have achieved the success that I have without setting physical activity and health goals.',
-    1 => 'Bonnie Blair',
-  ),
-  19 => 
-  array (
-    0 => 'You must learn to be still in the midst of activity and to be vibrantly alive in repose.',
-    1 => 'Indira Gandhi',
-  ),
-  20 => 
-  array (
-    0 => 'Respect for right conduct is felt by everybody.',
-    1 => 'Jane Austen',
-  ),
-  21 => 
-  array (
-    0 => 'One man may hit the mark, another blunder; but heed not these distinctions. Only from the alliance of the one, working with and through the other, are great things born.',
-    1 => 'Antoine de Sainte-Exupery',
-  ),
-  22 => 
-  array (
-    0 => 'You are your own best friend. Listen to yourself more often than someone else.',
-    1 => 'Steven Cuoco',
-  ),
-  23 => 
-  array (
-    0 => 'Don\'t cry because it\'s over, smile because it happened.',
-    1 => 'Dr. Seuss',
-  ),
-  24 => 
-  array (
-    0 => 'Fear doesn\'t shut you down; it wakes you up.',
-    1 => 'Veronica Roth',
-  ),
-);
+return [
+    [
+        'My mother is such an incredibly strong woman. She raised a family of five boys extremely well. She made us all strong, loving, caring people. We all support each other. I\'m really thankful to her.',
+        'Henry Cavill',
+    ],
+    [
+        'Dullness in matters of government is a good sign, and not a bad one - in particular, dullness in parliamentary government is a test of its excellence, an indication of its success.',
+        'Walter Bagehot',
+    ],
+    [
+        'Success is more dangerous than failure, the ripples break over a wider coastline.',
+        'Graham Greene',
+    ],
+    [
+        'I love inspirational R&B, like Mary J. Blige and Jennifer Hudson. I want to do that. That kind of music stays with you.',
+        'Ashthon Jones',
+    ],
+    [
+        'Flowers are without hope. Because hope is tomorrow and flowers have no tomorrow.',
+        'Antonio Porchia',
+    ],
+    [
+        'The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.',
+        'Seneca',
+    ],
+    [
+        'San Francisco is a mad city - inhabited for the most part by perfectly insane people whose women are of a remarkable beauty.',
+        'Rudyard Kipling',
+    ],
+    [
+        'Yes sir, I am a tortured man for all seasons, as they say, and I have powerful friends in high places. Birds sing where I walk, and children smile when they see me coming.',
+        'Hunter S. Thompson',
+    ],
+    [
+        'Flaming enthusiasm, backed up by horse sense and persistence, is the quality that most frequently makes for success.',
+        'Dale Carnegie',
+    ],
+    [
+        'Life\'s challenges are not supposed to paralyze you, they\'re supposed to help you discover who you are.',
+        'Bernice Johnson Reagon',
+    ],
+    [
+        'Every day is a new opportunity. You can build on yesterday\'s success or put its failures behind and start over again. That\'s the way life is, with a new game every day, and that\'s the way baseball is.',
+        'Bob Feller',
+    ],
+    [
+        'A lot of people like snow. I find it to be an unnecessary freezing of water.',
+        'Carl Reiner',
+    ],
+    [
+        'Go out and do something. It isn\'t your room that\'s a prison, it\'s yourself.',
+        'Sylvia Plath',
+    ],
+    [
+        'Women are so unforgiving of themselves. We don\'t recognize our own beauty because we\'re too busy comparing ourselves to other people.',
+        'Kelly Osbourne',
+    ],
+    [
+        'Success is not forever and failure isn\'t fatal.',
+        'Don Shula',
+    ],
+    [
+        'The only thing that overcomes hard luck is hard work.',
+        'Harry Golden',
+    ],
+    [
+        'The attitude is very important. Because, your behavior radiates how you feel.',
+        'Lou Ferrigno',
+    ],
+    [
+        'It\'s fine to celebrate success, but it is more important to heed the lessons of failure.',
+        'Bill Gates',
+    ],
+    [
+        'I lead no party; I follow no leader. I have given the best part of my life to careful study of Islam, its law and polity, its culture, its history and its literature.',
+        'W. Clement Stone',
+    ],
+    [
+        'What the imagination seizes as beauty must be truth.',
+        'John Keats',
+    ],
+    [
+        'Two years work wasted, I have been breeding those flies for all that time and I\'ve got nothing out of it.',
+        'Thomas Hunt Morgan',
+    ],
+    [
+        'The first question which the priest and the Levite asked was: \'If I stop to help this man, what will happen to me?\' But... the good Samaritan reversed the question: \'If I do not stop to help this man, what will happen to him?\'',
+        'Martin Luther King, Jr.',
+    ],
+    [
+        'The happiness of a man in this life does not consist in the absence but in the mastery of his passions.',
+        'Alfred Tennyson',
+    ],
+    [
+        'What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.',
+        'Don Zimmer',
+    ],
+    [
+        'Government, even in its best state, is but a necessary evil; in its worst state, an intolerable one.',
+        'Thomas Paine',
+    ],
+];

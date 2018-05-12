@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'What this calls for is a special blend of psychology and extreme violence.',
-    1 => 'Vyvyan Basterd, "The Young Ones"',
-  ),
-  1 => 
-  array (
-    0 => 'Adopt the pace of nature: her secret is patience.',
-    1 => 'Ralph Waldo Emmerson',
-  ),
-  2 => 
-  array (
-    0 => 'Success consists in being successful, not in having potential for success. Any wide piece of ground is the potential site of a palace, but there\'s no palace till it\'s built.',
-    1 => 'Fernando Pessoa',
-  ),
-  3 => 
-  array (
-    0 => 'Everything is only for a day, both that which remembers and that which is remembered.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IV',
-  ),
-  4 => 
-  array (
-    0 => 'You may have to fight a battle more than once to win it.',
-    1 => 'Margaret Thatcher',
-  ),
-  5 => 
-  array (
-    0 => 'Children show scars like medals. Lovers use them as a secrets to reveal. A scar is what happens when the word is made flesh.',
-    1 => 'Leonard Cohen, The Favorite Game',
-  ),
-  6 => 
-  array (
-    0 => 'Success is an absurd, erratic thing. She arrives when one least expects her and after she has come may depart again almost because of a whim.',
-    1 => 'Alice Foote MacDougall',
-  ),
-  7 => 
-  array (
-    0 => 'Dare to be true: nothing can need a lie: A fault, which needs it most, grows two thereby.',
-    1 => 'George Herbert',
-  ),
-  8 => 
-  array (
-    0 => 'Interpreter, n.:
-        One who enables two persons of different languages to understand each other by repeating to each what it would have been to the interpreter\'s advantage for the other to have said.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  9 => 
-  array (
-    0 => 'Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.',
-    1 => 'Roy T. Bennett',
-  ),
-  10 => 
-  array (
-    0 => 'Successful people do what unsuccessful people are not willing to do. Don\'t wish it were easier, wish you were better.',
-    1 => 'Jim Rohn',
-  ),
-  11 => 
-  array (
-    0 => 'Rome wasn\'t built in a day.',
-    1 => 'Unknown',
-  ),
-  12 => 
-  array (
-    0 => 'He that would have the fruit must climb the tree.',
-    1 => 'Dr. Thomas Fuller',
-  ),
-  13 => 
-  array (
-    0 => 'The real voyage of discovery lies not in seeking new lands, but in seeing with new eyes.',
-    1 => 'Marcel Proust',
-  ),
-  14 => 
-  array (
-    0 => 'Say what you will about the Ten Commandments, you must always come back to the pleasant fact that there are only ten of them.',
-    1 => 'H. L. Mencken',
-  ),
-  15 => 
-  array (
-    0 => 'Expect problems and eat them for breakfast.',
-    1 => 'Alfred A. Montapert',
-  ),
-  16 => 
-  array (
-    0 => 'When a fellow says, "It ain\'t the money but the principle of the thing," it\'s the money.',
-    1 => 'Kim Hubbard',
-  ),
-  17 => 
-  array (
-    0 => 'Enlightenment must come little by little - otherwise it would overwhelm.',
-    1 => 'Idries Shah',
-  ),
-  18 => 
-  array (
-    0 => 'Success is not the key to happiness. Happiness is the key to success.',
-    1 => 'Albert Schweitzer',
-  ),
-  19 => 
-  array (
-    0 => 'One must be fond of people and trust them if one is not to make a mess of life.',
-    1 => 'E. M. Forster',
-  ),
-  20 => 
-  array (
-    0 => 'Only in growth, reform, and change, paradoxically enough, is true security to be found.',
-    1 => 'Anne Morrow Lindbergh',
-  ),
-  21 => 
-  array (
-    0 => 'Everyone thinks of changing the world, but no one thinks of changing himself.',
-    1 => 'Leo Tolstoy',
-  ),
-  22 => 
-  array (
-    0 => 'Alimony is a system by which, when two people make a mistake, one of them keeps paying for it.',
-    1 => 'Peggy Joyce',
-  ),
-  23 => 
-  array (
-    0 => 'Success depends in a very large measure upon individual initiative and exertion, and cannot be achieved except by a dint of hard work.',
-    1 => 'Anna Pavlova',
-  ),
-  24 => 
-  array (
-    0 => 'The power to destroy a planet is insignificant when compared to the power of the Force.',
-    1 => 'Darth Vader',
-  ),
-);
+return [
+    [
+        'Rest when you\'re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.',
+        'Ralph Marston',
+    ],
+    [
+        'If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.',
+        'Thich Nhat Hanh',
+    ],
+    [
+        'I hope my desire to travel so much isn\'t forever because it\'s not the most conducive lifestyle for a relationship or a family by any means.',
+        'Lisa Ling',
+    ],
+    [
+        'Steven Gerrard was someone I looked up to massively. I\'d always try to copy him, right down to the boots he was wearing. It was his attitude on the pitch that stood out - you could really see how much he hated losing.',
+        'Dele Alli',
+    ],
+    [
+        'Economics is extremely useful as a form of employment for economists.',
+        'John Kenneth Galbraith',
+    ],
+    [
+        'We work to become, not to acquire.',
+        'Elbert Hubbard',
+    ],
+    [
+        'A tree is an incomprehensible mystery.',
+        'Jim Woodring',
+    ],
+    [
+        'Don\'t leave a stone unturned. It\'s always something, to know you have done the most you could.',
+        'Charles Dickens',
+    ],
+    [
+        'If you don\'t go after what you want, you\'ll never have it. If you don\'t ask, the answer is always no. If you don\'t step forward, you\'re always in the same place.',
+        'Nora Roberts',
+    ],
+    [
+        'Life is like riding a bicycle. To keep your balance, you must keep moving.',
+        'Ayn Rand',
+    ],
+    [
+        'I\'m not a Starbucks guy. I\'m a Dunkin Donuts guy, but I like to pay for the coffee of the other folks behind me in line. It typically costs me less than $10, and makes the other people feel good, but more importantly, it makes me feel so good, and random acts of kindness change the world one person at a time.',
+        'Robert Kraft',
+    ],
+    [
+        'I have a lot of funny friends, though not everyone\'s funny all the time. Doon Mackichan\'s my funniest friend in the pub; Nina Conti\'s the funniest with a monkey.',
+        'Sally Phillips',
+    ],
+    [
+        'I\'ve learned in my life that it\'s important to be able to step outside your comfort zone and be challenged with something you\'re not familiar or accustomed to. That challenge will allow you to see what you can do.',
+        'Henry James',
+    ],
+    [
+        'Make the most of yourself for that is all there is of you.',
+        'Ralph Emerson',
+    ],
+    [
+        'While we cannot predict the future, we will most surely live it. Every action and decision we take - or don\'t - ripples into the future. For the first time, we have the capability, the technology, and the knowledge to direct those ripples.',
+        'Jacque Fresco',
+    ],
+    [
+        'Whatever we expect with confidence becomes our own self-fulfilling prophecy.',
+        'Brian Tracy',
+    ],
+    [
+        'Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.',
+        'Lord Byron',
+    ],
+    [
+        'That best portion of a man\'s life, his little, nameless, unremembered acts of kindness and love.',
+        'William Wordsworth',
+    ],
+    [
+        'My mother is very funny. She is from a village; she has a typical village kind of humour. Often she says a lot of things she herself isn\'t aware is a punch line.',
+        'Kapil Sharma',
+    ],
+    [
+        'If your work requires you to travel, you will understand that there\'s no vacation destination like home.',
+        'Park Chan-wook',
+    ],
+    [
+        'It\'s true that a smile can take years off a person - not that such a thing matters in Yoko Ono\'s case.',
+        'Elvis Mitchell',
+    ],
+    [
+        'The victor belongs to the spoils.',
+        'F. Scott Fitzgerald',
+    ],
+    [
+        'Our judgments judge us, and nothing reveals us, exposes our weaknesses, more ingeniously than the attitude of pronouncing upon our fellows.',
+        'Paul Valery',
+    ],
+    [
+        'I have a deep tribal sense. I grew up in a synagogue that my ancestors built. I sat in the third row. My family was decent. They were good people; they were handshake people. So I never had a sense of rebellion.',
+        'Leonard Cohen',
+    ],
+    [
+        'Living with anyone for many years takes skill. To keep peace in the household, couples learn to adapt to one another, hopefully in positive ways.',
+        'Diane Ackerman',
+    ],
+];

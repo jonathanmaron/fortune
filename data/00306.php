@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Even if you can deceive people about a product through misleading statements, sooner or later the product will speak for itself.',
-    1 => 'Hajime Karatsu',
-  ),
-  1 => 
-  array (
-    0 => 'There are no traffic jams along the extra mile.',
-    1 => 'Roger Staubach',
-  ),
-  2 => 
-  array (
-    0 => 'If you were all alone in the universe with no one to talk to, no one with which to share the beauty of the stars, to laugh with, to touch, what would be your purpose in life? It is other life, it is love, which gives your life meaning. This is harmony. We must discover the joy of each other, the joy of challenge, the joy of growth.',
-    1 => 'Mitsugi Saotome',
-  ),
-  3 => 
-  array (
-    0 => 'There are no problems we cannot solve together, and very few that we can solve by ourselves.',
-    1 => 'Lyndon B. Johnson',
-  ),
-  4 => 
-  array (
-    0 => 'Honesty and transparency make you vulnerable. Be honest and transparent anyway.',
-    1 => 'Mother Teresa',
-  ),
-  5 => 
-  array (
-    0 => 'Noble life demands a noble architecture for noble uses of noble men. Lack of culture means what it has always meant: ignoble civilization and therefore imminent downfall.',
-    1 => 'Frank Lloyd Wright',
-  ),
-  6 => 
-  array (
-    0 => 'Bride, n.:
-        A woman with a fine prospect of happiness behind her.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  7 => 
-  array (
-    0 => 'There are those who look at things the way they are, and ask why... I dream of things that never were, and ask why not?',
-    1 => 'Robert F. Kennedy',
-  ),
-  8 => 
-  array (
-    0 => 'The fact is we can only love what we know personally. And we cannot know much. In public affairs, in the rebuilding of civilization, something less dramatic and emotional is needed, namely tolerance.',
-    1 => 'E. M. Forster',
-  ),
-  9 => 
-  array (
-    0 => 'I want to be everybody, and I want to be everything. One life is not enough.',
-    1 => 'Vladimir Sokoloff',
-  ),
-  10 => 
-  array (
-    0 => 'There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed.',
-    1 => 'Ray Goforth',
-  ),
-  11 => 
-  array (
-    0 => 'We must accept finite disappointment, but never lose infinite hope.',
-    1 => 'Martin Luther King Jr.',
-  ),
-  12 => 
-  array (
-    0 => 'Philosophy is the highest music.',
-    1 => 'Plato',
-  ),
-  13 => 
-  array (
-    0 => 'Anything that won\'t sell, I don\'t want to invent. Its sale is proof of utility, and utility is success.',
-    1 => 'Thomas A. Edison',
-  ),
-  14 => 
-  array (
-    0 => 'Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning.',
-    1 => 'Denis Waitley',
-  ),
-  15 => 
-  array (
-    0 => 'Many things are both useful and dangerous. An automobile is useful; an automobile is dangerous. Likewise for nostalgia.',
-    1 => 'Joshua Fields Millburn',
-  ),
-  16 => 
-  array (
-    0 => 'A good plan violently executed now is better than a perfect plan executed next week.',
-    1 => 'George S. Patton',
-  ),
-  17 => 
-  array (
-    0 => 'Now is no time to think of what you do not have. Think of what you can do with what there is.',
-    1 => 'Ernest Hemingway',
-  ),
-  18 => 
-  array (
-    0 => 'All love that has not friendship for its base, is like a mansion built upon sand.',
-    1 => 'Ella Wheeler Wilcox',
-  ),
-  19 => 
-  array (
-    0 => 'In the final analysis, there is no other solution to a man\'s problems but the day\'s honest work, the day\'s honest decisions, the day\'s generous utterance, and the day\'s good deed.',
-    1 => 'Claire Booth Luce',
-  ),
-  20 => 
-  array (
-    0 => 'I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.',
-    1 => 'Neil Armstrong',
-  ),
-  21 => 
-  array (
-    0 => 'If two men agree on everything, you may be sure that one of them is doing the thinking.',
-    1 => 'Lyndon Baines Johnson',
-  ),
-  22 => 
-  array (
-    0 => 'Our happiness is completely and utterly intertwined with other people: family, friends, neighbors and the woman who you hardly notice who cleans your office.',
-    1 => 'Eric Weiner',
-  ),
-  23 => 
-  array (
-    0 => 'Today with love and respect, I challenge you to do one thing that you never thought you could do. This day\'s your platform to transform.',
-    1 => 'Robin Sharma',
-  ),
-  24 => 
-  array (
-    0 => 'Sport is something that is very inspirational for young people.',
-    1 => 'Pele',
-  ),
-);
+return [
+    [
+        'Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.',
+        'Aristotle',
+    ],
+    [
+        'The dignity of everyday life - the beauty of it, the attitude of it - is what I live around. And it is never on screen, and it is certainly never associated with Africa. If we see Africa at all, it is always used as a backdrop: a big blob of a continent rather than a specific street or a country or a place.',
+        'Mira Nair',
+    ],
+    [
+        'Every successful organization has to make the transition from a world defined primarily by repetition to one primarily defined by change. This is the biggest transformation in the structure of how humans work together since the Agricultural Revolution.',
+        'Bill Drayton',
+    ],
+    [
+        'I don\'t deserve any credit for turning the other cheek as my tongue is always in it.',
+        'Flannery O\'Connor',
+    ],
+    [
+        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
+        'John P. Kotter',
+    ],
+    [
+        'Create. Not for the money. Not for the fame. Not for the recognition. But for the pure joy of creating something and sharing it.',
+        'Ernest Barbaric',
+    ],
+    [
+        'When I learn something new - and it happens every day - I feel a little more at home in this universe, a little more comfortable in the nest.',
+        'Bill Moyers',
+    ],
+    [
+        'The most basic question is not what is best, but who shall decide what is best.',
+        'Thomas Sowell',
+    ],
+    [
+        'To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else - means to fight the hardest battle which any human being can fight; and never stop fighting.',
+        'e. e. cummings',
+    ],
+    [
+        'A man should look for what is, and not for what he thinks should be.',
+        'Albert Einstein',
+    ],
+    [
+        'If you don\'t give up, you still have a chance.',
+        'Jack Ma',
+    ],
+    [
+        'I always say this about my music, and music in general: Music is like a time capsule. Each album reflects what I\'m going through or what\'s going on in my life at that moment.',
+        'Eminem',
+    ],
+    [
+        'It is the nature of the self to manifest itself, In every atom slumbers the might of the self.',
+        'Muhammad Iqbal',
+    ],
+    [
+        'When you realize who the good people are in your life, you\'re so lucky.',
+        'Brian Baumgartner',
+    ],
+    [
+        'Happiness is in our own hearts. I have no regrets of anything in the past. I\'m totally cheerful and happy, and I think that a lot of your attitude is not in the circumstances you find yourself in, but in the circumstances you make for yourself.',
+        'Maeve Binchy',
+    ],
+    [
+        'Crave for a thing, you will get it. Renounce the craving, the object will follow you by itself.',
+        'Swami Sivananda',
+    ],
+    [
+        'Travel for me is all about transformation, and I\'m fascinated by those people who really do come back from a trip unrecognizable to themselves and perhaps open to the same possibilities they\'d have written off not a month before.',
+        'Pico Iyer',
+    ],
+    [
+        'I\'m happy to be everybody\'s gay best friend.',
+        'Andy Cohen',
+    ],
+    [
+        'We never understand how little we need in this world until we know the loss of it.',
+        'James Barrie',
+    ],
+    [
+        'She was a handsome woman of forty-five and would remain so for many years.',
+        'J. B. Priestley',
+    ],
+    [
+        'Like the rest of the genetic lottery, beauty is unfair. Everyone falls short of perfection, but some are luckier than others. Real confidence requires self-knowledge, which includes recognizing one\'s shortcomings as well as one\'s strengths.',
+        'Virginia Postrel',
+    ],
+    [
+        'Failure is the condiment that gives success its flavor.',
+        'Truman Capote',
+    ],
+    [
+        'Learn from me, if not by my precepts, then by my example, how dangerous is the pursuit of knowledge and how much happier is that man who believes his native town to be the world than he who aspires to be greater than his nature will allow.',
+        'Mary Wollstonecraft',
+    ],
+    [
+        'When most people think of Woodrow Wilson, they see a dour minister\'s son who never cracked a smile, where in fact he was a man of genuine joy and great sadness.',
+        'A. Scott Berg',
+    ],
+    [
+        'If you hire people just because they can do a job, they\'ll work for your money. But if you hire people who believe what you believe, they\'ll work for you with blood, sweat, and tears.',
+        'Simon Sinek',
+    ],
+];

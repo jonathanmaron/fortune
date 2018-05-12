@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Wherever a man turns he can find someone who needs him.',
-    1 => 'Albert Schweitzer',
-  ),
-  1 => 
-  array (
-    0 => 'The least initial deviation from the truth is multiplied later a thousandfold.',
-    1 => 'Aristotle',
-  ),
-  2 => 
-  array (
-    0 => 'It is against the grain of modern education to teach children to program. What fun is there in making plans, acquiring discipline in organizing thoughts, devoting attention to detail, and learning to be self-critical?',
-    1 => 'Alan Perlis',
-  ),
-  3 => 
-  array (
-    0 => 'True success is when those who know you the best, love you the most.',
-    1 => 'John Maxwell',
-  ),
-  4 => 
-  array (
-    0 => 'Parking fees that Universal Studios collected from picketers of "The Last Temptation of Christ": $4,500',
-    1 => 'Harper\'s Index Nov. 1988',
-  ),
-  5 => 
-  array (
-    0 => 'We learned about gratitude and humility - that so many people had a hand in our success, from the teachers who inspired us to the janitors who kept our school clean... and we were taught to value everyone\'s contribution and treat everyone with respect.',
-    1 => 'Michelle Obama',
-  ),
-  6 => 
-  array (
-    0 => 'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.',
-    1 => 'Helen Keller',
-  ),
-  7 => 
-  array (
-    0 => 'Some people think only intellect counts: knowing how to solve problems, knowing how to get by, knowing how to identify an advantage and seize it. But the functions of intellect are insufficient without courage, love, friendship, compassion and empathy.',
-    1 => 'Dean Koontz',
-  ),
-  8 => 
-  array (
-    0 => 'A man\'s errors are his portals of discovery.',
-    1 => 'James Joyce',
-  ),
-  9 => 
-  array (
-    0 => 'Rivers know this: There is no hurry. We shall get there.',
-    1 => 'A. A. Milne',
-  ),
-  10 => 
-  array (
-    0 => 'Success isn\'t a result of spontaneous combustion. You must set yourself on fire.',
-    1 => 'Arnold H. Glasow',
-  ),
-  11 => 
-  array (
-    0 => 'It takes courage for people to listen to their own goodness and act on it.',
-    1 => 'Pablo Casals',
-  ),
-  12 => 
-  array (
-    0 => 'A true hero is not someone who thinks about doing what is right, but one that simply does what is right without thinking!',
-    1 => 'Kevin Heath',
-  ),
-  13 => 
-  array (
-    0 => 'When you come to the end of your rope, tie a knot and hang on.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  14 => 
-  array (
-    0 => 'The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.',
-    1 => 'Vince Lombardi',
-  ),
-  15 => 
-  array (
-    0 => 'Follow your inner moonlight; don\'t hide the madness.',
-    1 => 'Allen Ginsberg',
-  ),
-  16 => 
-  array (
-    0 => '... Fortunately, the responsibility for providing evidence is on the part of the person making the claim, not the critic. It is not the responsibility of UFO skeptics to prove that a UFO has never existed, nor is it the responsibility of paranormal-health-claims skeptics to prove that crystals or colored lights never healed anyone. The skeptic\'s role is to point out claims that are not adequately supported by acceptable evidence and to provide plausible alternative explanations that are more in keeping with the accepted body of scientific evidence. ...',
-    1 => 'Thomas L. Creed, The Skeptical Inquirer, Vol. XII No. 2, pg. 215',
-  ),
-  17 => 
-  array (
-    0 => 'If it wasn\'t hard, everyone would do it. It\'s the hard that makes it great.',
-    1 => 'Tom Hanks',
-  ),
-  18 => 
-  array (
-    0 => '...skill such as yours is evidence of a misspent youth.',
-    1 => 'Herbert Spencer',
-  ),
-  19 => 
-  array (
-    0 => 'Money does not guarantee success.',
-    1 => 'Jose Mourinho',
-  ),
-  20 => 
-  array (
-    0 => 'The difficult is what takes a little time; the impossible is what takes a little longer.',
-    1 => 'Fridtjof Nansen',
-  ),
-  21 => 
-  array (
-    0 => 'It\'s both rebellion and conformity that attack you with success.',
-    1 => 'Amy Tan',
-  ),
-  22 => 
-  array (
-    0 => 'Nurture your minds with great thoughts. To believe in the heroic makes heroes.',
-    1 => 'Benjamin Disraeli',
-  ),
-  23 => 
-  array (
-    0 => 'But who prays for Satan? Who, in eighteen centuries, has had the common humanity to pray for the one sinner that needed it most?',
-    1 => 'Mark Twain',
-  ),
-  24 => 
-  array (
-    0 => 'One kind word can warm three winter months.',
-    1 => 'Japanese Proverb',
-  ),
-);
+return [
+    [
+        'Taxation is the price we pay for failing to build a civilized society. The higher the tax level, the greater the failure. A centrally planned totalitarian state represents a complete defeat for the civilized world, while a totally voluntary society represents its ultimate success.',
+        'Mark Skousen',
+    ],
+    [
+        'Elvis Costello had a brand new bag. He was a musician, but he knew all about the attitude part of it.',
+        'Nick Lowe',
+    ],
+    [
+        'When Jonathan Winters died, it was like, \'Oh, man!\' I knew he was frail, but I always thought he was going to last longer. I knew him as being really funny, but at the same time, he had a dark side.',
+        'Robin Williams',
+    ],
+    [
+        'There is no better feeling than doing well while you are doing good. If you really want to meet the nicest, most caring people in your field, get involved with charity work. The thankless hours that go into planning charity dinners, running a carnival, and gathering donations for silent auctions are noticed and appreciated.',
+        'Jay Samit',
+    ],
+    [
+        'A person who never made a mistake never tried anything new.',
+        'Albert Einstein',
+    ],
+    [
+        'The job of the travel writer is to go far and wide, to make voluminous notes, to tell the truth.',
+        'Paul Theroux',
+    ],
+    [
+        'It\'s funny; as I get older I\'m reverting to my roots - I want to plant stuff.',
+        'Melissa McCarthy',
+    ],
+    [
+        'It\'s true that immigrant novels have to do with people going from one country to another, but there isn\'t a single novel that doesn\'t travel from one place to another, emotionally or locally.',
+        'Oscar Hijuelos',
+    ],
+    [
+        'Even with an improperly ground mirror, the Hubble delivered extraordinary images. When the flaw was corrected, the Hubble delivered images of transcendent beauty and value for many years. So too \'Terra Nova.\' Even in its flawed first season, each episode was full of marvelous moments and beautiful images.',
+        'Stephen Lang',
+    ],
+    [
+        'I have a family, loving aunts, and a good home. No, on the surface I seem to have everything except my one true friend. All I think about when I\'m with friends is having a good time. I can\'t bring myself to talk about anything but ordinary everyday things. We don\'t seem to be able to get any closer, and that\'s the problem.',
+        'Anne Frank',
+    ],
+    [
+        'I\'m not happy not doing anything. When positive things are rolling in, you\'ve got to take them when you can get them.',
+        'Tori Spelling',
+    ],
+    [
+        'Next to acquiring good friends, the best acquisition is that of good books.',
+        'Charles Caleb Colton',
+    ],
+    [
+        'It is better to travel well than to arrive.',
+        'Buddha',
+    ],
+    [
+        'Every family is dysfunctional, whether you want to admit it or not.',
+        'Shailene Woodley',
+    ],
+    [
+        'Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.',
+        'Leo Aikman',
+    ],
+    [
+        'Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.',
+        'Franklin Roosevelt',
+    ],
+    [
+        'As long as I am still interested and curious, I enjoy getting up in the morning, but I can\'t say I have a happy smile on my face 24/7.',
+        'Harriet Walter',
+    ],
+    [
+        'Family life is the backbone of mankind, and that life is dependent upon mutual giving, sharing, and receiving from each other. It entails the proper use of each other\'s successes and failures for mutual up-building.',
+        'Mother Angelica',
+    ],
+    [
+        'A women\'s greatest asset is her beauty.',
+        'Alex Comfort',
+    ],
+    [
+        'Lee\'s great gifts are teaching and inspirational guidance, not administration and management.',
+        'Cheryl Crawford',
+    ],
+    [
+        'Some people walk in the rain, others just get wet.',
+        'Roger Miller',
+    ],
+    [
+        'Pleasure in the job puts perfection in the work.',
+        'Aristotle',
+    ],
+    [
+        'Be as you wish to seem.',
+        'Socrates',
+    ],
+    [
+        'The only way to discover the limits of the possible is to go beyond them into the impossible.',
+        'Arthur C. Clarke',
+    ],
+    [
+        'When a moment in front of me appears to be particularly special, whether it be by beauty or experience, I capture it. I usually find a reason to justify taking that photo - symmetry, or color, or contrast - and it\'s my hope that my photography sheds light onto what I see and do on a daily basis.',
+        'Connor Franta',
+    ],
+];

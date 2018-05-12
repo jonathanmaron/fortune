@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The miracle, or the power, that elevates the few is to be found in their industry, application, and perseverance under the prompting of a brave, determined spirit.',
-    1 => 'Mark Twain',
-  ),
-  1 => 
-  array (
-    0 => 'You control your future, your destiny. What you think about comes about. By recording your dreams and goals on paper, you set in motion the process of becoming the person you most want to be. Put your future in good hands.',
-    1 => 'your own',
-  ),
-  2 => 
-  array (
-    0 => 'A mathematician named Hall Has a hexahedronical ball, And the cube of its weight Times his pecker\'s, plus eight Is his phone number',
-    1 => 'give him a call.',
-  ),
-  3 => 
-  array (
-    0 => 'No Ordinary American Cares About Their Constitutional Rights.',
-    1 => 'Joe Biden',
-  ),
-  4 => 
-  array (
-    0 => 'Angels are very good at math. That\'s why they call them arc-angels.',
-    1 => 'Steven Novella (The Skeptics Guide to the Universe)',
-  ),
-  5 => 
-  array (
-    0 => 'Shoot for the moon. Even if you miss, you\'ll land among the stars.',
-    1 => 'Norman Vincent Peale',
-  ),
-  6 => 
-  array (
-    0 => 'Happiness depends upon ourselves.',
-    1 => 'Aristotle',
-  ),
-  7 => 
-  array (
-    0 => 'You learn more from failure than from success. Don\'t let it stop you. Failure builds character.',
-    1 => 'Unknown',
-  ),
-  8 => 
-  array (
-    0 => 'The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  9 => 
-  array (
-    0 => 'Love all, trust a few, do wrong to none.',
-    1 => 'William Shakespeare',
-  ),
-  10 => 
-  array (
-    0 => 'History provides abundant examples of people whose greatest gift was in redeeming, inspiring, liberating, and nurturing the gifts of others.',
-    1 => 'Sonya Rudikoff',
-  ),
-  11 => 
-  array (
-    0 => 'Enjoy when you can, and endure when you must.',
-    1 => 'Goethe',
-  ),
-  12 => 
-  array (
-    0 => 'After a lifetime of working, raising families, and contributing to the success of this nation in countless other ways, senior citizens deserve to retire with dignity.',
-    1 => 'Charlie Gonzalez',
-  ),
-  13 => 
-  array (
-    0 => 'One of the things I learned the hard way was that it doesn\'t pay to get discouraged. Keeping busy and making optimism a way of life can restore your faith in yourself.',
-    1 => 'Lucille Ball',
-  ),
-  14 => 
-  array (
-    0 => 'Success is dependent on effort.',
-    1 => 'Sophocles',
-  ),
-  15 => 
-  array (
-    0 => 'As you live your hours, so you create your years. As you live your days, so you craft your life.',
-    1 => 'Robin Sharma',
-  ),
-  16 => 
-  array (
-    0 => 'There is only one thing that makes a dream impossible to achieve: the fear of failure.',
-    1 => 'Paulo Coelho',
-  ),
-  17 => 
-  array (
-    0 => 'There are three kinds of lies: Lies, Damn Lies, and Statistics.',
-    1 => 'Disraeli',
-  ),
-  18 => 
-  array (
-    0 => 'Furbling, v.:
-        Having to wander through a maze of ropes at an airport or bank even when you are the only person in line.',
-    1 => 'Rich Hall, "Sniglets"',
-  ),
-  19 => 
-  array (
-    0 => 'Great things are not done by impulse, but by a series of small things brought together.',
-    1 => 'Vincent Van Gogh',
-  ),
-  20 => 
-  array (
-    0 => 'I find that the harder I work, the more luck I seem to have.',
-    1 => 'Thomas Jefferson',
-  ),
-  21 => 
-  array (
-    0 => 'I believe success is preparation, because opportunity is going to knock on your door sooner or later but are you prepared to answer that?',
-    1 => 'Omar Epps',
-  ),
-  22 => 
-  array (
-    0 => 'Nearly all men can stand adversity, but if you want to test a man\'s character, give him power.',
-    1 => 'Abraham Lincoln',
-  ),
-  23 => 
-  array (
-    0 => '36 percent of the American public believes that boiling radioactive milk makes it safe to drink.',
-    1 => 'results of a survey by Jon Miller at Northern Illinois University',
-  ),
-  24 => 
-  array (
-    0 => 'Don\'t be pushed by your problems; be led by your dreams.',
-    1 => 'Unknown',
-  ),
-);
+return [
+    [
+        'I believe that laughter is the best emotional Band-Aid in the world. It\'s like nature\'s Neosporin.',
+        'Matt LeBlanc',
+    ],
+    [
+        'The reward of energy, enterprise and thrift is taxes.',
+        'William Feather',
+    ],
+    [
+        'Never promise more than you can perform.',
+        'Publilius Syrus',
+    ],
+    [
+        'The positive is I\'m delighted at the way the Liberal Democrats as a party have supported me and the way in which the work I\'m doing, through the Liberal Democrats, has abled to broaden some of the work I work on.',
+        'Maajid Nawaz',
+    ],
+    [
+        'Through travel, you discover a new aspect to your personality. You discover things which you wouldn\'t seated in the confines of your home.',
+        'Imtiaz Ali',
+    ],
+    [
+        'As you go through life, you\'ve got to see the valleys as well as the peaks.',
+        'Nicole Polizzi',
+    ],
+    [
+        'There is a saying that every nice piece of work needs the right person in the right place at the right time.',
+        'Benoit Mandelbrot',
+    ],
+    [
+        'God has already done everything He\'s going to do. The ball is now in your court. If you want success, if you want wisdom, if you want to be prosperous and healthy, you\'re going to have to do more than meditate and believe; you must boldly declare words of faith and victory over yourself and your family.',
+        'Joel Osteen',
+    ],
+    [
+        'I didn\'t allow failure to break my heart. So I wouldn\'t allow success to bloat my head.',
+        'Randeep Hooda',
+    ],
+    [
+        'It\'s a funny show. The characters are surprisingly likable, given how ugly they are. We\'ve got this huge cast of characters that we can move around. And over the last few seasons, we\'ve explored some of the secondary characters\' personal lives a bit more.',
+        'Matt Groening',
+    ],
+    [
+        'Take time to be kind and to say \'thank you.\'',
+        'Zig Ziglar',
+    ],
+    [
+        'I want to work for a company that contributes to and is part of the community. I want something not just to invest in. I want something to believe in.',
+        'Anita Roddick',
+    ],
+    [
+        'Experience hath shewn, that even under the best forms of government those entrusted with power have, in time, and by slow operations, perverted it into tyranny.',
+        'Thomas Jefferson',
+    ],
+    [
+        'My whole damn family was nice. I don\'t think I\'ve imagined it. It\'s true. Maybe it has to do with being brought up as Christian Scientists. Half of my relatives were Readers or Practitioners in the church.',
+        'Henry Fonda',
+    ],
+    [
+        'Some people dream of success, while other people get up every morning and make it happen.',
+        'Wayne Huizenga',
+    ],
+    [
+        'The phenomenon of home schooling is a wonderful example of the American can-do attitude. Growing numbers of parents have become disenchanted with government-run public schools. Many parents have simply taken matters into their own hands, literally.',
+        'Steve Forbes',
+    ],
+    [
+        'And know that I am with you always; yes, to the end of time.',
+        'Jesus Christ',
+    ],
+    [
+        'Kind words can be short and easy to speak but their echoes are truly endless.',
+        'Mother Teresa',
+    ],
+    [
+        'A woman can slip on a pair of embellished cage heels one night and a pair of streamlined, lightweight sneakers the next day. The beauty of modern luxury is the absence of rules.',
+        'Giuseppe Zanotti',
+    ],
+    [
+        'Being called a \'music legend\' is a very funny thing. It\'s nice to know that my work has been appreciated and that people have given me that status. On a personal level, however, I can\'t think about it too much. It means a lot... but then it doesn\'t.',
+        'Chris Squire',
+    ],
+    [
+        'The Stones are a different kind of group. I realized that when I joined them. It\'s not really so much their musical ability, it\'s just they have a certain kind of style and attitude which is unique.',
+        'Mick Taylor',
+    ],
+    [
+        'Just do what you do best.',
+        'Red Auerbach',
+    ],
+    [
+        'Although we can never fully repay our veterans, on Veterans Day we thank our veterans for their selflessness and commit to do what we can to improve the quality of life for our veterans and military families in communities across America.',
+        'Helen Mirren',
+    ],
+    [
+        'The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.',
+        'Albert Einstein',
+    ],
+    [
+        'Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.',
+        'Thomas Carlyle',
+    ],
+];

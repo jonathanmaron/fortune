@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A manager would rather live with a problem that he cannot solve than accept a solution that he does not understand.',
-    1 => 'G. Woolsey',
-  ),
-  1 => 
-  array (
-    0 => 'Cut your excuses in half and double your actions around your goals.',
-    1 => 'Robin Sharma',
-  ),
-  2 => 
-  array (
-    0 => 'Don\'t complain about what you don\'t have. Use what you\'ve got. To be less than your best is a sin.',
-    1 => 'Oprah Winfrey',
-  ),
-  3 => 
-  array (
-    0 => 'In an organization, each person rises to the level of his own incompetence.',
-    1 => 'The Peter Principle',
-  ),
-  4 => 
-  array (
-    0 => 'Both optimists and pessimists contribute to our society. The optimist invents the airplane and the pessimist the parachute.',
-    1 => 'G.B. [Gladys Bertha] Stern',
-  ),
-  5 => 
-  array (
-    0 => 'People think you\'re crazy if you talk about things they don\'t understand.',
-    1 => 'Elvis Presley',
-  ),
-  6 => 
-  array (
-    0 => 'Perseverance, secret of all triumphs.',
-    1 => 'Victor Hugo',
-  ),
-  7 => 
-  array (
-    0 => 'Be so good at what you do that you leave people breathless by your performance.',
-    1 => 'Robin Sharma',
-  ),
-  8 => 
-  array (
-    0 => 'A lot of people don\'t have near the amount of success as I\'ve been blessed to have, and it\'s all about working hard and hoping that continues.',
-    1 => 'Luke Bryan',
-  ),
-  9 => 
-  array (
-    0 => 'Less talk, more do. Less selfish, more selfless.',
-    1 => 'Robin Sharma',
-  ),
-  10 => 
-  array (
-    0 => 'To serve is beautiful, but only if it is done with joy and a whole heart and a free mind.',
-    1 => 'Pearl S. Buck',
-  ),
-  11 => 
-  array (
-    0 => 'Whenever an individual or a business decides that success has been attained, progress stops.',
-    1 => 'Thomas J. Watson',
-  ),
-  12 => 
-  array (
-    0 => 'The best way to predict the future is to invent it.',
-    1 => 'Alan Kay',
-  ),
-  13 => 
-  array (
-    0 => 'We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel for.',
-    1 => 'Swami Vivekananda',
-  ),
-  14 => 
-  array (
-    0 => 'Sometimes even to live is an act of courage.',
-    1 => 'Carl Sandburg',
-  ),
-  15 => 
-  array (
-    0 => 'The words which were formerly familiar are now antiquated: so also the names of those who were famed of old, are now in a manner antiquated... For all things soon pass away and become a mere tale, and complete oblivion soon buries them.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IV',
-  ),
-  16 => 
-  array (
-    0 => 'When A annoys or injures B on the pretense of saving or improving X, A is a scoundrel.',
-    1 => 'H. L. Mencken, "Newspaper Days: 1899-1906" (1941)',
-  ),
-  17 => 
-  array (
-    0 => 'Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.',
-    1 => 'Bertrand Russell',
-  ),
-  18 => 
-  array (
-    0 => 'Success isn\'t a result of spontaneous combustion. You must set yourself on fire.',
-    1 => 'Arnold H. Glasgow',
-  ),
-  19 => 
-  array (
-    0 => 'There is always room at the top.',
-    1 => 'Daniel Webster',
-  ),
-  20 => 
-  array (
-    0 => 'Have regular hours for work and play; make each day both useful and pleasant, and prove that you understand the worth of time by employing it well. Then youth will be delightful, old age will bring few regrets, and life will become a beautiful success.',
-    1 => 'Louisa May Alcott',
-  ),
-  21 => 
-  array (
-    0 => 'You have confidence in yourself, which is valuable, if not an indispensable quality.',
-    1 => 'Abraham Lincoln',
-  ),
-  22 => 
-  array (
-    0 => 'The way to love anything is to realize that it might be lost.',
-    1 => 'G. K. Chesterton',
-  ),
-  23 => 
-  array (
-    0 => 'Let yourself be open and life will be easier.',
-    1 => 'Buddha',
-  ),
-  24 => 
-  array (
-    0 => 'Unless commitment is made, there are only promises and hopes... but no plans.',
-    1 => 'Peter F. Drucker',
-  ),
-);
+return [
+    [
+        'To dare is to lose ones footing momentarily. To not dare is to lose oneself.',
+        'Soren Kierkegaard',
+    ],
+    [
+        'Integrity is so perishable in the summer months of success.',
+        'Vanessa Redgrave',
+    ],
+    [
+        'Success depends almost entirely on how effectively you learn to manage the game\'s two ultimate adversaries: the course and yourself.',
+        'Jack Nicklaus',
+    ],
+    [
+        'I like to travel by myself.',
+        'Carly Rae Jepsen',
+    ],
+    [
+        'In the stillness of your presence, you can feel your own formless and timeless reality as the unmanifested life that animates your physical form. You can then feel the same life deep within every other human and every other creature. You look beyond the veil of form and separation. This is the realization of oneness. This is love.',
+        'David Russell',
+    ],
+    [
+        'Traveling is my form of self-education. Every stream I fish now is not as good as it used to be. Traveling is my form of self-education. Every stream I fish now is not as good as it used to be. If you keep your eyes open as you travel around, you realize we are destroying this planet.',
+        'Yvon Chouinard',
+    ],
+    [
+        'This place? Nothing positive. OK, I want to say something positive. It\'s positively a dump.',
+        'Charles Barkley',
+    ],
+    [
+        'The American Dream is still alive out there, and hard work will get you there. You don\'t necessarily need to have an Ivy League education or to have millions of dollars startup money. It can be done with an idea, hard work and determination.',
+        'Bill Rancic',
+    ],
+    [
+        'I\'m experimental by nature... always exploring my creativity.',
+        'Christina Aguilera',
+    ],
+    [
+        'Whatever you define family as, family is just a part of belonging to something that takes care of you and nurtures you... and when you have lost that, and you want to get that back, it\'s pretty easy to get emotional about it.',
+        'Ellen DeGeneres',
+    ],
+    [
+        'Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.',
+        'Margaret Mead',
+    ],
+    [
+        'I think one great tip is that you should always love yourself. If you don\'t love yourself, take care of yourself, cater to yourself and that little inner voice, you will really not be very worthy of being with someone else, because you won\'t be the best version of you.',
+        'Kimora Lee Simmons',
+    ],
+    [
+        'I grew up playing hockey and some football, and I always think about the first time you walk into the locker room on a new team. The cliques are looking at you funny, and you make one friend, but then they\'re trying to stab you in the back.',
+        'Aaron Douglas',
+    ],
+    [
+        'Three things in human life are important. The first is to be kind. The second is to be kind. And the third is to be kind.',
+        'Carl Jung',
+    ],
+    [
+        'Most babies know how to win us over. We cannot help but smile at them and watch them smile back.',
+        'Madeleine M. Kunin',
+    ],
+    [
+        'I don\'t think quantity time is as special as quality time with your family.',
+        'Reba McEntire',
+    ],
+    [
+        'My mind has been both my best friend and my worst enemy.',
+        'Elyn Saks',
+    ],
+    [
+        'Taking time to sit back and watch and think about what you\'ve seen is important. Traveling did a great deal to me. I found that when I travel and just sit in the corner and watch, a million ideas come to me.',
+        'Lionel Richie',
+    ],
+    [
+        'The fame that goes with wealth and beauty is fleeting and fragile; intellectual superiority is a possession glorious and eternal.',
+        'Sallust',
+    ],
+    [
+        'Some people know that they are so adorable looking, all they have to do is smile and dress up and they get plenty from that. Then there are some of us who, early on, see that that doesn\'t work. So we joke about it.',
+        'Merrill Markoe',
+    ],
+    [
+        'Life is something to do when you can\'t get to sleep.',
+        'Andrew Bernstein',
+    ],
+    [
+        'No matter how many goals you have achieved, you must set your sights on a higher one.',
+        'Jessica Savitch',
+    ],
+    [
+        'Adrian Clayborn is somebody that relentlessly brings that attitude, energy, and toughness.',
+        'Dan Quinn',
+    ],
+    [
+        'All the candy corn that was ever made was made in 1911.',
+        'Lewis Black',
+    ],
+    [
+        'Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
+        'Swami Vivekananda',
+    ],
+];

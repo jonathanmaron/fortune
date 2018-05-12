@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'See first that the design is wise and just; that ascertained, pursue it resolutely.',
-    1 => 'William Shakespeare',
-  ),
-  1 => 
-  array (
-    0 => 'The only thing necessary for the triumph of evil is for good men to do nothing.',
-    1 => 'Edmund Burke',
-  ),
-  2 => 
-  array (
-    0 => 'Perpetuo vincit qui utitur clementia. (He is forever victor who employs clemency.)',
-    1 => 'Syrus',
-  ),
-  3 => 
-  array (
-    0 => 'As long as I\'m not selling out the people that ride or die with me, I\'m glad I\'m not an MC. I\'m a motivational speaker. I\'m not that rapper dude.',
-    1 => 'Young Jeezy',
-  ),
-  4 => 
-  array (
-    0 => 'Failures to heroic minds are the stepping stones to success.',
-    1 => 'Thomas Chandler Haliburton',
-  ),
-  5 => 
-  array (
-    0 => 'The man who has done his level best... is a success, even though the world may write him down a failure.',
-    1 => 'B. C. Forbes',
-  ),
-  6 => 
-  array (
-    0 => 'Courage is knowing what not to fear.',
-    1 => 'Plato',
-  ),
-  7 => 
-  array (
-    0 => 'A good decision is based on knowledge and not on numbers.',
-    1 => 'plato',
-  ),
-  8 => 
-  array (
-    0 => 'It\'s a moment that I\'m after, a fleeting moment, but not a frozen moment.',
-    1 => 'Andrew Wyeth',
-  ),
-  9 => 
-  array (
-    0 => 'The only real failure in life is not to be true to the best one knows.',
-    1 => 'Buddha',
-  ),
-  10 => 
-  array (
-    0 => 'I believe there are three keys to success. For me it is keeping my priorities in order: It\'s my faith and my family, and then the business.',
-    1 => 'Kathy Ireland',
-  ),
-  11 => 
-  array (
-    0 => 'Everyone in the world was programmed by the place they were born, hemmed in by their beliefs, but you had to at least try to grow your own brain',
-    1 => 'Scott Westerfeld',
-  ),
-  12 => 
-  array (
-    0 => 'Socialism is power, power, and more power.',
-    1 => 'Oswald Spengler, Hitler\'s intellectual forebear',
-  ),
-  13 => 
-  array (
-    0 => 'In politics stupidity is not a handicap',
-    1 => 'Napoleon Bonaparte',
-  ),
-  14 => 
-  array (
-    0 => 'The road to to success is always under construction.',
-    1 => 'Florian Bruckner',
-  ),
-  15 => 
-  array (
-    0 => 'Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.',
-    1 => 'Napoleon Hill',
-  ),
-  16 => 
-  array (
-    0 => 'Quality is much better than quantity. One home run is much better than two doubles.',
-    1 => 'Steve Jobs',
-  ),
-  17 => 
-  array (
-    0 => 'There can be no friendship without confidence, and no confidence without integrity.',
-    1 => 'Dr. Samuel Johnson',
-  ),
-  18 => 
-  array (
-    0 => 'A river cuts through the rock not because of its power but because of its persistence.',
-    1 => 'Jim Watkins',
-  ),
-  19 => 
-  array (
-    0 => 'Certain things catch your eye, but pursue only those that capture the heart.',
-    1 => 'Anonymous (Ancient Indian Proverb)',
-  ),
-  20 => 
-  array (
-    0 => 'Never let the fear of striking out get in your way.',
-    1 => 'Babe Ruth',
-  ),
-  21 => 
-  array (
-    0 => 'The greatest discovery of my generation is that human beings can alter their lives by altering their attitudes of mind.',
-    1 => 'William James',
-  ),
-  22 => 
-  array (
-    0 => 'Toughness is in the soul and spirit, not in muscles.',
-    1 => 'Alex Karras',
-  ),
-  23 => 
-  array (
-    0 => 'There comes a time in the spiritual journey when you start making choices from a very different place. And if a choice lines up so that it supports truth, health, happiness, wisdom and love, it\'s the right choice.',
-    1 => 'Angeles Arrien',
-  ),
-  24 => 
-  array (
-    0 => 'Faith is love taking the form of aspiration',
-    1 => 'William Ellery Channing',
-  ),
-);
+return [
+    [
+        'Life is not about finding yourself. Life is about creating yourself.',
+        'Lolly Daskal',
+    ],
+    [
+        'Yes\'m, old friends is always best, \'less you can catch a new one that\'s fit to make an old one out of.',
+        'Sarah Orne Jewett',
+    ],
+    [
+        'I\'m as happy a man as any in the world, for the whole world seems to smile upon me!',
+        'Samuel Smiles',
+    ],
+    [
+        'There\'s only two people in your life you should lie to... the police and your girlfriend.',
+        'A. R. Rahman',
+    ],
+    [
+        'I don\'t believe in the after life, although I am bringing a change of underwear.',
+        'Woody Allen',
+    ],
+    [
+        'The glow of one warm thought is to me worth more than money.',
+        'Thomas Jefferson',
+    ],
+    [
+        'I think working hard at anything when you\'re young and getting positive results, it\'s always an incredible feeling to see that.',
+        'Jessica Springsteen',
+    ],
+    [
+        'I was always the guy getting kicked out of my classes at school for having an attitude problem.',
+        'Chevy Chase',
+    ],
+    [
+        'There\'s more to life than success, and if you can try to be more well-rounded, you\'ll be able to enjoy your success more. It won\'t own you or control you.',
+        'Ricky Williams',
+    ],
+    [
+        'Remembering a wrong is like carrying a burden on the mind.',
+        'Buddha',
+    ],
+    [
+        'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\'t found it yet, keep looking. Don\'t settle. As with all matters of the heart, you\'ll know when you find it.',
+        'Steve Jobs',
+    ],
+    [
+        'Why do you have to be a nonconformist like everybody else?',
+        'James Thurber',
+    ],
+    [
+        'One of the best aspects of health care reform is it starts to emphasize prevention.',
+        'Anne Wojcicki',
+    ],
+    [
+        'Inspiration exists, but it has to find us working.',
+        'Pablo Picasso',
+    ],
+    [
+        'I travel like a maniac. I travel more than anyone I know. I love learning the languages.',
+        'Quincy Jones',
+    ],
+    [
+        '\'Star Wars\' is fun, its exciting, its inspirational, and people respond to that. It\'s what they want.',
+        'George Lucas',
+    ],
+    [
+        'It is the power of the mind to be unconquerable.',
+        'Seneca',
+    ],
+    [
+        'I\'m a diplomat by nature. I help find the middle ground. I crack a joke and use humour to help resolve potentially vicious situations quickly. It gets things in perspective and helps everyone to see that things aren\'t as bad as they seem.',
+        'Ronnie Wood',
+    ],
+    [
+        'I travel all over the world, usually 10 months out of the year. I stay at a lot of hotels, and the ones I like best are clean and not complicated. You go to bed and say, \'Wow, I feel comfortable.\'',
+        'Nobu Matsuhisa',
+    ],
+    [
+        'That\'s the key to success, isn\'t it? It has to be fun.',
+        'Monica Seles',
+    ],
+    [
+        'Football taught me how hard you had to work to achieve something.',
+        'Kenny Chesney',
+    ],
+    [
+        'Remember always that you not only have the right to be an individual, you have an obligation to be one.',
+        'Eleanor Roosevelt',
+    ],
+    [
+        'I\'ve had a very interesting career. I get to do amazing things and work with amazing people and travel and learn languages - things most people don\'t get the opportunity to do.',
+        'Gwyneth Paltrow',
+    ],
+    [
+        'Fear can be good when you\'re walking past an alley at night or when you need to check the locks on your doors before you go to bed, but it\'s not good when you have a goal and you\'re fearful of obstacles. We often get trapped by our fears, but anyone who has had success has failed before.',
+        'Queen Latifah',
+    ],
+    [
+        'Eagles come in all shapes and sizes, but you will recognize them chiefly by their attitudes.',
+        'E. F. Schumacher',
+    ],
+];

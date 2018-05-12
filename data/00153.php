@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Our children need our presence, not our presents.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  1 => 
-  array (
-    0 => 'Success is often the result of taking a misstep in the right direction.',
-    1 => 'Al Bernstein',
-  ),
-  2 => 
-  array (
-    0 => 'To love oneself is the beginning of a lifelong romance.',
-    1 => 'Oscar Wilde',
-  ),
-  3 => 
-  array (
-    0 => 'I think all right-thinking people in this country are sick and tired of being told that ordinary, decent people are fed up in this country with being sick and tired. I\'m certainly not! And I\'m sick and tired of being told that I am.',
-    1 => 'Monty Python',
-  ),
-  4 => 
-  array (
-    0 => 'You can\'t underestimate the power of fear.',
-    1 => 'Tricia Nixon',
-  ),
-  5 => 
-  array (
-    0 => 'I have always been pushed by the negative. The apparent failure of a play sends me back to my typewriter that very night, before the reviews are out. I am more compelled to get back to work than if I had a success.',
-    1 => 'Tennessee Williams',
-  ),
-  6 => 
-  array (
-    0 => 'Fun opens the doors to creativity, which then leads to inspiration, which then births passion, which all together equals both happiness and success!',
-    1 => 'Rachele Brooke Smith',
-  ),
-  7 => 
-  array (
-    0 => 'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  8 => 
-  array (
-    0 => 'Mere human beings can\'t afford to be fanatical about anything. Not even about justice or loyalty...If we are to survive on this planet, there must be compromises.',
-    1 => 'Storm [Margaret Storm Jameson]',
-  ),
-  9 => 
-  array (
-    0 => 'You know you\'re in love when you don\'t want to fall asleep because reality is finally better than your dreams.',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  10 => 
-  array (
-    0 => 'I worked half my life to be an overnight success, and still it took me by surprise.',
-    1 => 'Jessica Savitch',
-  ),
-  11 => 
-  array (
-    0 => 'Things are more like they are now than they ever were before.',
-    1 => 'Dwight D. Eisenhower',
-  ),
-  12 => 
-  array (
-    0 => 'Promise yourself to be just as enthusiastic about the success of others as you are about your own.',
-    1 => 'Christian D. Larson',
-  ),
-  13 => 
-  array (
-    0 => 'The words of kindness are more healing to a drooping heart than balm or honey.',
-    1 => 'Sarah Fielding',
-  ),
-  14 => 
-  array (
-    0 => 'Go confidently in the direction of your dreams. Live the life you have imagined.',
-    1 => 'Henry David Thoreau',
-  ),
-  15 => 
-  array (
-    0 => 'Motivation is what gets you started. Habit is what keeps you going.',
-    1 => 'Jim Ryun',
-  ),
-  16 => 
-  array (
-    0 => 'How do you know you\'re going to do something, untill you do it?',
-    1 => 'J. D. Salinger',
-  ),
-  17 => 
-  array (
-    0 => 'To steal from one person is theft. To steal from many is taxation.',
-    1 => 'Daiell\'s Law (a take-off on Felson\'s Law)',
-  ),
-  18 => 
-  array (
-    0 => 'To love deeply in one direction makes us more loving in all others.',
-    1 => 'Anne Sophie Swetchine',
-  ),
-  19 => 
-  array (
-    0 => 'To be an artist is to believe in life.',
-    1 => 'Henry Moore',
-  ),
-  20 => 
-  array (
-    0 => 'The greatest and most important problems in life are all in a certain sense insoluble. They can never be solved, but only outgrown.',
-    1 => 'Carl Gustav Jung',
-  ),
-  21 => 
-  array (
-    0 => 'The trouble is you think you have time.',
-    1 => 'Buddha',
-  ),
-  22 => 
-  array (
-    0 => 'Good things happen to those who hustle.',
-    1 => 'Anais Nin',
-  ),
-  23 => 
-  array (
-    0 => 'It does not do to dwell on dreams and forget to live.',
-    1 => 'J.K Rowling',
-  ),
-  24 => 
-  array (
-    0 => 'He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.',
-    1 => 'Epictetus',
-  ),
-);
+return [
+    [
+        'It\'s great to be somewhat of a role model. I want to be a positive and good role model and lead by example and try to do the best I can. Playing good golf definitely draws attention, but I want to have a good attitude on the course and do the right things.',
+        'Rickie Fowler',
+    ],
+    [
+        'I like to smile when its natural. I\'m not mad or anything. That\'s my style.',
+        'Jesse McCartney',
+    ],
+    [
+        'My dad is my best friend, my father, and my boss. When I do something that is exciting and he likes it, it feels three times as good as you can imagine.',
+        'David Lauren',
+    ],
+    [
+        'To affect the quality of the day, that is the highest of arts.',
+        'Zig Ziglar',
+    ],
+    [
+        'Minds are like parachutes. They only function when open.',
+        'Thomas Dewar',
+    ],
+    [
+        'My childhood dream was to study mechanical engineering. After reading \'The Mysterious Island\' - which I read 25 times as a boy - I thought that was the best thing a person could do. The engineer in the book knows mechanics and physics, and he creates a whole way of life on the island out of nothing. I wanted to be like that.',
+        'Dan Shechtman',
+    ],
+    [
+        'Success is the child of audacity.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'When you\'re not working is when you have to stay positive and remind yourself that you\'re talented.',
+        'Rutina Wesley',
+    ],
+    [
+        'When you are developing your style, you avoid weaknesses. I am not good at describing things, so I stay away from it. And if anyone is going to describe anything at all, it\'s going to be from the point of view of the character, because then I can use his voice, and his attitude will be revealed in the way he describes what he sees.',
+        'Elmore Leonard',
+    ],
+    [
+        'Love does not consist of gazing at each other, but in looking together in the same direction.',
+        'Antoine de Saint-Exupery',
+    ],
+    [
+        'You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations.',
+        'Zig Ziglar',
+    ],
+    [
+        'The family only represents one aspect, however important an aspect, of a human being\'s functions and activities. A life is beautiful and ideal or the reverse, only when we have taken into our consideration the social as well as the family relationship.',
+        'Havelock Ellis',
+    ],
+    [
+        'Any Republican who says he can work with Hillary Clinton is a traitor to the nation.',
+        'Ann Coulter',
+    ],
+    [
+        'Rome wasn\'t built in a day.',
+        'Unknown',
+    ],
+    [
+        'There is a sense that things, if you keep positive and optimistic about what can be done, do work out.',
+        'Hillary Clinton',
+    ],
+    [
+        'The pay is good and I can walk to work.',
+        'John F. Kennedy',
+    ],
+    [
+        'We can do better in higher education. And it is more than just technology. It\'s also an attitude on the part of faculty. We need to think through how we can produce a better quality product at less cost.',
+        'Roy Romer',
+    ],
+    [
+        'Perfectionism is not the same thing as striving to be our best. Perfectionism is not about healthy achievement and growth; it\'s a shield.',
+        'Brene Brown',
+    ],
+    [
+        'Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.',
+        'Byron Pulsifer',
+    ],
+    [
+        'It\'s weird to me to see how different everyone\'s opinion of beauty is.',
+        'Katee Sackhoff',
+    ],
+    [
+        'Poetry lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar.',
+        'Percy Bysshe Shelley',
+    ],
+    [
+        'Luck is what happens when preparation meets opportunity.',
+        'Seneca',
+    ],
+    [
+        'Furloughing a bunch of air traffic controllers has a pretty easy-to-predict effect on air travel: It causes delays.',
+        'Alex Pareene',
+    ],
+    [
+        'Memories are like stones, time and distance erode them like acid.',
+        'Ugo Betti',
+    ],
+    [
+        'All you can do is really the prep work and make sure you\'re ready to hit each golf shot. Outside of that, you\'re not sure really what\'s going to happen. It\'s a funny game, but I think that\'s why I love it. You never know, one day to the next; you could go shoot 62, and the next day you\'re going to shoot 78, and you can\'t predict it.',
+        'Rickie Fowler',
+    ],
+];

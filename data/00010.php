@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Happiness is like a butterfly which, when pursued, is always beyond our grasp, but, if you will sit down quietly, may alight upon you.',
-    1 => 'Nathaniel Hawthorne',
-  ),
-  1 => 
-  array (
-    0 => 'If the other person injures you, you may forget the injury; but if you injure him you will always remember.',
-    1 => 'Khalil Gibran',
-  ),
-  2 => 
-  array (
-    0 => 'I fear no one, but I respect everyone.',
-    1 => 'Roger Federer',
-  ),
-  3 => 
-  array (
-    0 => 'The tree laden with fruits always bends low. If you wish to be great, be lowly and meek.',
-    1 => 'Sri Ramakrishna Paramahamsa',
-  ),
-  4 => 
-  array (
-    0 => 'It is important to note that probably no large operating system using current design technology can withstand a determined and well-coordinated attack, and that most such documented penetrations have been remarkably easy.',
-    1 => 'B. Hebbard, "A Penetration Analysis of the Michigan Terminal System", Operating Systems Review, Vol. 14, No. 1, June 1980, pp. 7-20',
-  ),
-  5 => 
-  array (
-    0 => 'Every calling is great when greatly pursued.',
-    1 => 'Oliver Wendell Holmes, Jr.',
-  ),
-  6 => 
-  array (
-    0 => 'Experience is that marvelous thing that enables you recognize a mistake when you make it again.',
-    1 => 'Franklin P. Jones',
-  ),
-  7 => 
-  array (
-    0 => 'Success is going from failure to failure without losing your enthusiasm.',
-    1 => 'Winston Churchill',
-  ),
-  8 => 
-  array (
-    0 => 'Die? I should say not, dear fellow. No Barrymore would allow such a conventional thing to happen to him.',
-    1 => 'John Barrymore\'s dying words',
-  ),
-  9 => 
-  array (
-    0 => 'If we are constantly consuming, then we are not creating.',
-    1 => 'The Minimalists',
-  ),
-  10 => 
-  array (
-    0 => 'Don\'t take criticism from someone you wouldn\'t take advice.',
-    1 => 'Anonymous',
-  ),
-  11 => 
-  array (
-    0 => 'We think too much and feel too little. More than machinery, we need humanity. More than cleverness, we need kindness and gentleness.',
-    1 => 'Charlie Chaplin',
-  ),
-  12 => 
-  array (
-    0 => 'You create your opportunities by asking for them.',
-    1 => 'Shakti Gawain',
-  ),
-  13 => 
-  array (
-    0 => 'From the ice-age to the dole-age there is but one concern and I have just discovered: some girls are bigger than others some girls are bigger than others some girls are bigger than other girls\' mothers.',
-    1 => 'The Smiths',
-  ),
-  14 => 
-  array (
-    0 => 'What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others.',
-    1 => 'Pericles',
-  ),
-  15 => 
-  array (
-    0 => 'Maybe Computer Science should be in the College of Theology.',
-    1 => 'R. S. Barton',
-  ),
-  16 => 
-  array (
-    0 => 'He who joyfully marches to music in rank and file has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would suffice.',
-    1 => 'Albert Einstein',
-  ),
-  17 => 
-  array (
-    0 => 'In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.',
-    1 => 'Theodore Roosevelt',
-  ),
-  18 => 
-  array (
-    0 => 'If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles.',
-    1 => 'Wayne Dyer',
-  ),
-  19 => 
-  array (
-    0 => 'To be successful in business and life, spot the possibilities while others look for problems.',
-    1 => 'Robin Sharma',
-  ),
-  20 => 
-  array (
-    0 => 'Only those who dare to fail greatly can ever achieve greatly.',
-    1 => 'Robert F. Kennedy',
-  ),
-  21 => 
-  array (
-    0 => 'Modesty is of no use to a beggar.',
-    1 => 'Homer',
-  ),
-  22 => 
-  array (
-    0 => 'Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
-    1 => 'Swami Vivekananda',
-  ),
-  23 => 
-  array (
-    0 => 'Therefore, if one were to consider that there was virtually no possibility of success through the US-Japan negotiations, the military and economic pressures would only force Japan into further crisis if time were allowed to pass in vain.',
-    1 => 'Hideki Tojo',
-  ),
-  24 => 
-  array (
-    0 => 'De Borglie rules the wave, but Heisenberg waived the rules.',
-    1 => 'Piggins',
-  ),
-);
+return [
+    [
+        'I am trying to inspire people to just take control of their oral health, because if we don\'t take care of our oral health, it affects so many different aspects of our lives. If your smile and mouth is not together, it affects your relationship, your self-esteem, your health.',
+        'Sherri Shepherd',
+    ],
+    [
+        'I\'m very fortunate that I have a wonderful family around me and loved ones.',
+        'Melissa Etheridge',
+    ],
+    [
+        'The glamour of twentieth-century air travel helped to persuade once-fearful travelers to take to the skies and encouraged parochial Americans to go out and see the world.',
+        'Virginia Postrel',
+    ],
+    [
+        'Ah, but a man\'s reach should exceed his grasp, Or what\'s a heaven for?',
+        'Robert Browning',
+    ],
+    [
+        'Some guys travel with expensive Louis Vuitton luggage but it gets all scratched up under the plane. I\'d rather not spend too much money on something that\'s just going to get messed up.',
+        'James Harden',
+    ],
+    [
+        'Beauty is produced by the pleasing appearance and good taste of the whole, and by the dimensions of all the parts being duly proportioned to each other.',
+        'Vitruvius',
+    ],
+    [
+        'I love airports because funny things always happen at them. They\'re giant complexes full of urgency, seriousness, and confusion. Where am I supposed to be? Which way do I go? And that\'s just the staff.',
+        'Rhys Darby',
+    ],
+    [
+        'The spirit of Christmas is the spirit of love and of generosity and of goodness. It illuminates the picture window of the soul, and we look out upon the world\'s busy life and become more interested in people than in things.',
+        'H. L. Hunt',
+    ],
+    [
+        'America is still mostly xenophobic and racist. That\'s the nature of America, I think.',
+        'Jerry Garcia',
+    ],
+    [
+        'People talk about balance. Balance is an awful measure of things because it implies a scale that inevitably tips. I like to look through the filter of, \'Is the life I\'m leading consistent with my priorities?\' For me, my family is the ultimate litmus test.',
+        'Ivanka Trump',
+    ],
+    [
+        'I have always loved a hard-faced girl. I get that Alison Goldfrapp isn\'t easy, and I like her belligerence. She\'s deeply sexy and controlled, like a Strict Machine, and it seems to wind the b\'jesus out of the women I know. On the outside, I watch and smile and will her on like a twisted silent maiden aunt in the dark corner.',
+        'Alison Moyet',
+    ],
+    [
+        'No matter how popular you are as a stand-up - you can go out and fill a 10,000-seat arena and be smart and funny - it\'s delicate to host an awards show and know where your place is and know that it\'s not about you, that it\'s about the people who are nominated, and respect that, but at the same time have your moment to show them who you are.',
+        'Ellen DeGeneres',
+    ],
+    [
+        'Even if it turns out that time travel is impossible, it is important that we understand why it is impossible.',
+        'Stephen Hawking',
+    ],
+    [
+        'One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don\'t throw it away.',
+        'Stephen Hawking',
+    ],
+    [
+        'Life is a series of natural and spontaneous changes. Don\'t resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.',
+        'Lucille Ball',
+    ],
+    [
+        'It is never too late to be what you might have been.',
+        'George Eliot',
+    ],
+    [
+        'To read a writer is for me not merely to get an idea of what he says, but to go off with him and travel in his company.',
+        'Andre Gide',
+    ],
+    [
+        'A sense of the universe, a sense of the all, the nostalgia which seizes us when confronted by nature, beauty, music - these seem to be an expectation and awareness of a Great Presence.',
+        'Pierre Teilhard de Chardin',
+    ],
+    [
+        'Everything is perfect in the universe, even your desire to improve it.',
+        'Wayne Dyer',
+    ],
+    [
+        'All nature wears one universal grin.',
+        'Henry Fielding',
+    ],
+    [
+        'I have to travel a lot, but relaxation to me is when I am at home.',
+        'Mikhail Khodorkovsky',
+    ],
+    [
+        'I was lucky. My family is wonderful. And it\'s funny, because most of my best friends come from very large families. So it always felt as if I had lots of siblings, though in the end I had to leave them and go home. I kind of got the best of both worlds as a kid.',
+        'Sophia Bush',
+    ],
+    [
+        'I don\'t hear a lot about elected officials that are men talking about whether they smile a lot. My dad was in elected office my entire life. I don\'t remember many smiles, and nobody commented about it. He was serious about his job, and so am I.',
+        'Stephanie Rawlings-Blake',
+    ],
+    [
+        'Failure is success if we learn from it.',
+        'Malcolm Forbes',
+    ],
+    [
+        'For greed all nature is too little.',
+        'Lucius Annaeus Seneca',
+    ],
+];

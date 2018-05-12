@@ -1,132 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn\'t deliver the goods.',
-    1 => 'John Maynard Keynes',
-  ),
-  1 => 
-  array (
-    0 => 'Nothing is as seductive as the assurance of success.',
-    1 => 'Gertrude Himmelfarb',
-  ),
-  2 => 
-  array (
-    0 => 'There is no greater calling than to serve your fellow men. There is no greater contribution than to help the weak. There is no greater satisfaction than to have done it well.',
-    1 => 'Walter Reuther',
-  ),
-  3 => 
-  array (
-    0 => 'Every morning is a fresh beginning. Every day is the world made new. Today is a new day. Today is my world made new. I have lived all my life up to this moment, to come to this day. This moment...this day...is as good as any moment in all eternity. I shall make of this day...each moment of this day...a heaven on earth. This is my day of opportunity.',
-    1 => 'Dan Custer',
-  ),
-  4 => 
-  array (
-    0 => 'Whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon... must inevitably come to pass!',
-    1 => 'Paul J. Meyer',
-  ),
-  5 => 
-  array (
-    0 => 'Success is like reaching an important birthday and finding you\'re exactly the same.',
-    1 => 'Audrey Hepburn',
-  ),
-  6 => 
-  array (
-    0 => 'You cannot move things by not moving.',
-    1 => 'Suzy Kassem',
-  ),
-  7 => 
-  array (
-    0 => 'A habit cannot be tossed out the window; it must be coaxed down the stairs a step at a time.',
-    1 => 'Mark Twain',
-  ),
-  8 => 
-  array (
-    0 => 'Butterflies don\'t know their wings\' Colors, but others see their Splendor.',
-    1 => 'Mohith Agadi',
-  ),
-  9 => 
-  array (
-    0 => 'I thank you God for this most amazing day, for the leaping greenly spirits of trees, and for the blue dream of sky and for everything which is natural, which is infinite, which is yes.',
-    1 => 'e. e. cummings',
-  ),
-  10 => 
-  array (
-    0 => 'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
-    1 => 'Milla Jovovich',
-  ),
-  11 => 
-  array (
-    0 => 'A man may die, nations may rise and fall, but an idea lives on.',
-    1 => 'John F. Kennedy',
-  ),
-  12 => 
-  array (
-    0 => 'Do you know what my favorite part of the game is? The opportunity to play.',
-    1 => 'Mike Singletary',
-  ),
-  13 => 
-  array (
-    0 => 'I want to be motivational and inspirational for everybody: my big aim is more women on bicycles.',
-    1 => 'Marianne Vos',
-  ),
-  14 => 
-  array (
-    0 => 'As an actor there\'s a lot of scrutiny and, even when you\'ve had success, it becomes about sustaining that success. A friend of mine described it as a peakless mountain. Even for De Niro there\'s Pacino and for Pacino there\'s De Niro.',
-    1 => 'Eddie Redmayne',
-  ),
-  15 => 
-  array (
-    0 => 'People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.',
-    1 => 'Rob Siltanen',
-  ),
-  16 => 
-  array (
-    0 => 'Families, when a child is born / Want it to be intelligent.
-I, through intelligence, / Having wrecked my whole life,
-Only hope the baby will prove / Ignorant and stupid.
-Then he will crown a tranquil life / By becoming a Cabinet Minister',
-    1 => 'Su Tung-p\'o',
-  ),
-  17 => 
-  array (
-    0 => 'Anyone can carry his burden, however hard, until nightfall. Anyone can do his work, however hard, for one day. Anyone can live sweetly, patiently, lovingly, purely, till the sun goes down. And this is all life really means.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  18 => 
-  array (
-    0 => 'In the name of the best within you, do not sacrifice this world to those who are its worst. In the name of the values that keep you alive, do not let your vision of man be distorted by the ugly, the cowardly, the mindless... Do not let your fire go out, spark by irreplaceable spark, in the hopeless swamps of the approximate, the not-quite, the not-yet, the not-at-all. Do not let the hero in your soul perish, in lonely frustration for the life you deserved, but have never been able to reach. Check your road and the nature of your battle. The world you desired can be won, it exists, it is real, it is possible, it\'s yours.',
-    1 => 'Ayn Rand',
-  ),
-  19 => 
-  array (
-    0 => 'Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.',
-    1 => 'John Allen Paulos',
-  ),
-  20 => 
-  array (
-    0 => 'Life is less about what you do, and more about how and why you do those things. This is called character.',
-    1 => 'Josh Verseput',
-  ),
-  21 => 
-  array (
-    0 => 'It is by acts and not by ideas that people live.',
-    1 => 'Anatole France',
-  ),
-  22 => 
-  array (
-    0 => 'Look, let me explain something to you. I\'m not Mr. Lebowski. You\'re Mr. Lebowski. I\'m the Dude. So that\'s what you call me. That, or His Dudeness … Duder … or El Duderino, if, you know, you\'re not into the whole brevity thing.',
-    1 => 'The Dude ("The Big Lebowski")',
-  ),
-  23 => 
-  array (
-    0 => 'It usually takes me more than three weeks to prepare a good impromptu speech.',
-    1 => 'Mark Twain',
-  ),
-  24 => 
-  array (
-    0 => '"Beware of the man who works hard to learn something, learns it, and finds himself no wiser than before," Bokonon tells us. "He is full of murderous resentment of people who are ignorant without having come by their ignorance the hard way."',
-    1 => 'Kurt Vonnegut, "Cat\'s Cradle"',
-  ),
-);
+return [
+    [
+        'I\'m a gay disabled man who has become very successful. I don\'t get up in the morning and think I\'m inspirational; I just get up thinking that I love horses.',
+        'Lee Pearson',
+    ],
+    [
+        'Work will win when wishy washy wishing won t.',
+        'Thomas S. Monson',
+    ],
+    [
+        'Give me a couple of years, and I\'ll make that actress an overnight success.',
+        'Samuel Goldwyn',
+    ],
+    [
+        'I heard that people were really interested in the new haircut, which I think is so funny. Great haircut, I really like it. It goes great with the time period. And I was super, super, super-happy to have my bangs swept to the side rather than straight in front of me, which I dealt with for three seasons. I\'m very, very much done with that.',
+        'Elisabeth Moss',
+    ],
+    [
+        'Success without someone to share it with is hollow indeed. On the other hand, it beats the heck out of failure.',
+        'Judith McNaught',
+    ],
+    [
+        'My dad grew up with an avocado tree in his backyard. My entire family, my wife and daughters, they love avocado. I may well be allergic. It makes me physically sick.',
+        'Ted Cruz',
+    ],
+    [
+        'I went to Catholic school throughout my whole academic life. In fact, my children - my husband and I and our children in my own family now have over 100 years of Catholic education among us.',
+        'Nancy Pelosi',
+    ],
+    [
+        'I never called my work an \'art\'. It\'s part of show business, the business of building entertainment.',
+        'Walt Disney',
+    ],
+    [
+        'Nature gave us one tongue and two ears so we could hear twice as much as we speak.',
+        'Epictetus',
+    ],
+    [
+        'Solitude has its own very strange beauty to it.',
+        'Liv Tyler',
+    ],
+    [
+        'Your most important work is always ahead of you, never behind you.',
+        'Stephen Covey',
+    ],
+    [
+        'Every man dies. Not every man really lives.',
+        'George Takei',
+    ],
+    [
+        'The things that one most wants to do are the things that are probably most worth doing.',
+        'Winifred Holtby',
+    ],
+    [
+        'Loneliness adds beauty to life. It puts a special burn on sunsets and makes night air smell better.',
+        'Gordon B. Hinckley',
+    ],
+    [
+        'I\'ve always felt like an artistic person. I can\'t draw or paint or sculpt. I never really had technical skills, but I\'ve always felt like I appreciate really beautiful things, and part of taking a good photograph is being able to recognize beauty.',
+        'Brandon Stanton',
+    ],
+    [
+        'While we stop to think, we often miss our opportunity.',
+        'Publilius Syrus',
+    ],
+    [
+        'When we believe the best of people, we let go of each thing they do that is hurtful to us. And we choose to think things like, \'I don\'t believe they meant to hurt me.\' \'Maybe they\'re having a bad day or don\'t feel well.\' \'They probably don\'t even realize how they sound.\'',
+        'Joyce Meyer',
+    ],
+    [
+        'And we can see the positive impacts right here at Solyndra. Less than a year ago, we were standing on what was an empty lot. But through the Recovery Act, this company received a loan to expand its operations. This new factory is the result of those loans.',
+        'Barack Obama',
+    ],
+    [
+        'I think success shows a person\'s true colors.',
+        'Freddie Prinze, Jr.',
+    ],
+    [
+        'Dallas is a positive, get-it done city.',
+        'Laura Miller',
+    ],
+    [
+        'I had written two or three books before my husband noticed that in every one of them a family member was missing. He suggested that it was because my father\'s death, when I was five, utterly changed my world. I can only suppose he is right and that this is the reason I am drawn to a narrative where someone\'s life is changed by loss.',
+        'Jenny Nimmo',
+    ],
+    [
+        'Post-operatively the transplanted kidney functioned immediately with a dramatic improvement in the patient\'s renal and cardiopulmonary status. This spectacular success was a clear demonstration that organ transplantation could be life-saving.',
+        'Joseph Murray',
+    ],
+    [
+        'Usually, the stuff that\'s your best idea or work is going to be attacked the most.',
+        'Francis Ford Coppola',
+    ],
+    [
+        'Either I will find a way, or I will make one.',
+        'Philip Sidney',
+    ],
+    [
+        'I can do comedy, so people want me to do that, but the other side of comedy is depression. Deep, deep depression is the flip side of comedy. Casting agents don\'t realize it but in order to be funny you have to have that other side.',
+        'Parker Posey',
+    ],
+];

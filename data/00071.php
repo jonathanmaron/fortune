@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Temporary success can be achieved in spite of lack of other fundamental qualities, but no advancements can be maintained without hard work.',
-    1 => 'William Feather',
-  ),
-  1 => 
-  array (
-    0 => 'Honesty pays, but it doesn\'t seem to pay enough to suit some people.',
-    1 => 'F. M. Hubbard',
-  ),
-  2 => 
-  array (
-    0 => 'A true friend is one who overlooks your failures and tolerates your success!',
-    1 => 'Doug Larson',
-  ),
-  3 => 
-  array (
-    0 => 'We forget that every good that is worth possessing must be paid for in strokes of daily effort. We postpone and postpone, until those smiling possibilities are dead.',
-    1 => 'William James',
-  ),
-  4 => 
-  array (
-    0 => 'UNIX *is* user friendly. It\'s just selective about who its friends are.',
-    1 => 'unknown',
-  ),
-  5 => 
-  array (
-    0 => 'Above all be of single aim; have a legitimate and useful purpose, and devote yourself unreservedly to it.',
-    1 => 'James Allen',
-  ),
-  6 => 
-  array (
-    0 => 'The smallest act of kindness is worth more than the grandest intention.',
-    1 => 'Oscar Wilde',
-  ),
-  7 => 
-  array (
-    0 => 'Put all excuses aside and remember this: YOU are capable.',
-    1 => 'Zig Ziglar',
-  ),
-  8 => 
-  array (
-    0 => 'You are always free to change your mind and choose a different future, or a different past.',
-    1 => 'Richard Bach',
-  ),
-  9 => 
-  array (
-    0 => 'Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness, that frightens us most. We ask ourselves, who am I to be brilliant, gorgeous, talented and fabulous? Actually who are you not to be? You are a child of the universe. You were born to manifest the glory of the universe that is within us. It\'s not just in some of us; it\'s in everyone.',
-    1 => 'Marianne Williamson',
-  ),
-  10 => 
-  array (
-    0 => 'In all affairs it\'s a healthy thing now and then to hang a question mark on the things you have long taken for granted.',
-    1 => 'Bertrand Russell',
-  ),
-  11 => 
-  array (
-    0 => 'To the victim, adversity is bad. To the leader and warrior, hard times are life\'s richest times of growth, opportunity, and possibility. Use them to fly.',
-    1 => 'Robin Sharma',
-  ),
-  12 => 
-  array (
-    0 => 'Most success springs from an obstacle or failure. I became a cartoonist largely because I failed in my goal of becoming a successful executive.',
-    1 => 'Scott Adams',
-  ),
-  13 => 
-  array (
-    0 => 'I know that when I like music, when it touches my heart, that it will touch your heart, too. That, I think, is the secret to my success.',
-    1 => 'Andre Rieu',
-  ),
-  14 => 
-  array (
-    0 => 'The victor belongs to the spoils.',
-    1 => 'F. Scott Fitzgerald',
-  ),
-  15 => 
-  array (
-    0 => 'Contrary to the cliché, genuinely nice guys most often finish first or very near it.',
-    1 => 'Malcolm S. Forbes',
-  ),
-  16 => 
-  array (
-    0 => 'I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.',
-    1 => 'Dr. Seuss',
-  ),
-  17 => 
-  array (
-    0 => 'You may have heard that a dean is to faculty as a hydrant is to a dog.',
-    1 => 'Alfred Kahn',
-  ),
-  18 => 
-  array (
-    0 => 'Dreams and dedication are a powerful combination.',
-    1 => 'William Longgood',
-  ),
-  19 => 
-  array (
-    0 => 'Isn\'t it amazing how much stuff we get done the day before vacation?',
-    1 => 'Zig Ziglar',
-  ),
-  20 => 
-  array (
-    0 => 'A successful tool is one that was used to do something undreamed of by its author.',
-    1 => 'S. C. Johnson',
-  ),
-  21 => 
-  array (
-    0 => 'Prepare the umbrella before it rains.',
-    1 => 'Malay Proverb',
-  ),
-  22 => 
-  array (
-    0 => 'Unless someone like you cares a whole awful lot, nothing is going to get better. It\'s not.',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  23 => 
-  array (
-    0 => 'Keep your eyes on the stars and your feet on the ground.',
-    1 => 'Theodore Roosevelt',
-  ),
-  24 => 
-  array (
-    0 => 'The goal is not to get rich. The goal is to live rich.',
-    1 => 'Darren Hardy',
-  ),
-);
+return [
+    [
+        'Looking beautiful isn\'t just about what you apply on your face. It\'s the little things you do that matter. A combination of a good diet, exercise, healthy habits, discipline, dancing etc. is what my beauty routine consists of. Also, I have no bad habits; I don\'t drink or smoke. All these contribute to me being fit and looking good.',
+        'Madhuri Dixit',
+    ],
+    [
+        'The only durable sense of success is if you\'ve followed your calling.',
+        'Jim Harrison',
+    ],
+    [
+        'You are your greatest asset. Put your time, effort and money into training, grooming, and encouraging your greatest asset.',
+        'Tom Hopkins',
+    ],
+    [
+        'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.',
+        'Edsger W. Dijkstra',
+    ],
+    [
+        'I\'m at my best in a messy, middle-of-the-road muddle.',
+        'Harold Wilson',
+    ],
+    [
+        'I rejected the notion that my race or sex would bar my success in life.',
+        'Constance Baker Motley',
+    ],
+    [
+        'The positive aspect of my negative view is essentially that you shouldn\'t own cash and government bonds, but you should be in assets like real estate or equities or precious metals or in commodities.',
+        'Marc Faber',
+    ],
+    [
+        'I think it\'s very important for writers and artists generally to be witnesses to the world, and to be transparent. To let other people speak... to travel... to experience the world. And memorialize it.',
+        'Joyce Carol Oates',
+    ],
+    [
+        'Through hard work and education, we can deliver a strong economy and opportunity for all.',
+        'Julia Gillard',
+    ],
+    [
+        'I can\'t say enough about the guts and the talents of Amazon. They\'re so agile, they\'re so nimble; they picked us up two weeks after we premiered, and their whole attitude is, \'Go, go, go, go,\' so I\'m very, very impressed.',
+        'Jeffrey Tambor',
+    ],
+    [
+        'My dad was a terrible father. Dreadful. But he had a very difficult childhood. He was fostered - he never knew who his father was. So he had a very different attitude to family and kids. I don\'t have any issues. I\'m not suffering some secret angst.',
+        'Mark Billingham',
+    ],
+    [
+        'To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.',
+        'Jane Austen',
+    ],
+    [
+        'Travel works best when you\'re forced to come to terms with the place you\'re in.',
+        'Paul Theroux',
+    ],
+    [
+        'I\'m attracted to soccer\'s capacity for beauty. When well played, the game is a dance with a ball.',
+        'Eduardo Galeano',
+    ],
+    [
+        'The best way to cheer yourself up is to try to cheer somebody else up',
+        'Mark Twain',
+    ],
+    [
+        'If anybody has a bad day, they\'ll just come to my room because they know I\'ll bring out the positive in everything, or I\'ll make them laugh, or I\'ll be just crazy.',
+        'Simone Biles',
+    ],
+    [
+        'In the workplace, employees should be judged on their merit and hard work and not on aspects that are irrelevant to their performance.',
+        'Paul Singer',
+    ],
+    [
+        'The directors I respect are the ones who have a collaborative attitude, who collaborate with actors.',
+        'Eric Braeden',
+    ],
+    [
+        'There is no question that global warming will have a significant impact on already existing problems such as malaria, malnutrition, and water shortages. But this doesn\'t mean the best way to solve them is to cut carbon emissions.',
+        'Bjorn Lomborg',
+    ],
+    [
+        'Quality is not an act, it is a habit.',
+        'Aristotle',
+    ],
+    [
+        'I love to travel. During normal workdays, sometimes it feels like I have to bludgeon ideas out of my soul - but when I\'m traveling, relaxed and unpressured, the ideas just spill out.',
+        'Peter Lerangis',
+    ],
+    [
+        'I\'m learning all the time. I\'m evolving all the time as a human being. I\'m getting better, I hope, in all of the important ways.',
+        'Neil Peart',
+    ],
+    [
+        'There is in the DNA of the Italians a bit of madness, which in the overwhelming majority of cases is positive. It is genius. It is talent. It\'s the masterpieces of art. It\'s the food, fashion, everything that makes Italy great in the world.',
+        'Matteo Renzi',
+    ],
+    [
+        'I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.',
+        'Henry Rollins',
+    ],
+    [
+        'Even though you may want to move forward in your life, you may have one foot on the brakes. In order to be free, we must learn how to let go. Release the hurt. Release the fear. Refuse to entertain your old pain. The energy it takes to hang onto the past is holding you back from a new life. What is it you would let go of today?',
+        'William Morris',
+    ],
+];

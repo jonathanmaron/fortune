@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Antimatter doesn\'t matter as a matter of fact.',
-    1 => 'Piggins',
-  ),
-  1 => 
-  array (
-    0 => 'Receive wealth or prosperity without arrogance; and be ready to let it go.',
-    1 => 'Marcus Aurelius, "The Meditations", Book VIII',
-  ),
-  2 => 
-  array (
-    0 => 'Winning isn\'t everything, it\'s the only thing.',
-    1 => 'Vince Lombardi',
-  ),
-  3 => 
-  array (
-    0 => 'Even the future comes one day at a time.',
-    1 => 'W. Woodhouse',
-  ),
-  4 => 
-  array (
-    0 => 'When you believe something can be done, really believe, your mind will find ways to do it.',
-    1 => 'Dr. David Schwartz',
-  ),
-  5 => 
-  array (
-    0 => 'As the trials of life continue to take their toll, remember that there is always a future in Computer Maintenance.',
-    1 => 'National Lampoon, "Deteriorada"',
-  ),
-  6 => 
-  array (
-    0 => 'Can\'t move mountains? Try small stones.',
-    1 => 'Anonymous',
-  ),
-  7 => 
-  array (
-    0 => 'Not all those who wander are lost.',
-    1 => 'J.R.R. Tolkien',
-  ),
-  8 => 
-  array (
-    0 => 'The energy of the mind is the essence of life.',
-    1 => 'Aristotle',
-  ),
-  9 => 
-  array (
-    0 => 'If I could offer but one helpful hint to young Hoosiers hoping to better their odds for success in life, I would simply note the importance of thoughtful reading.',
-    1 => 'Richard Lugar',
-  ),
-  10 => 
-  array (
-    0 => 'Labor to keep alive in your breast that little spark of celestial fire called conscience.',
-    1 => 'George Washington',
-  ),
-  11 => 
-  array (
-    0 => 'When we do face the difficult times, we need to remember that circumstances don\'t make a person, they reveal a person.',
-    1 => 'Emma Jameson',
-  ),
-  12 => 
-  array (
-    0 => 'I\'d rather regret the things I\'ve done than regret the things I haven\'t done.',
-    1 => 'Lucille Ball',
-  ),
-  13 => 
-  array (
-    0 => 'Obsessed is a word that the lazy use to describe the dedicated.',
-    1 => 'Unknown',
-  ),
-  14 => 
-  array (
-    0 => 'I\'ve lost count of the number of times that I\'ve been approached by strangers wanting to tell me that they think I\'m brave or inspirational, and this was long before my work had any kind of public profile.',
-    1 => 'Stella Young',
-  ),
-  15 => 
-  array (
-    0 => 'It is difficult to produce a television documentary that is both incisive and probing when every twelve minutes one is interrupted by twelve dancing rabbits singing about toilet paper.',
-    1 => 'R. Serling',
-  ),
-  16 => 
-  array (
-    0 => 'I have found the paradox that if I love until it hurts, then there is no hurt, but only more love.',
-    1 => 'Mother Teresa',
-  ),
-  17 => 
-  array (
-    0 => 'Thoughtfulness for others, generosity, modesty, and self-respect, are the qualities which make a real gentleman, or lady, as distinguished from the veneered article which commonly goes by that name.',
-    1 => 'Thomas Henry Huxley',
-  ),
-  18 => 
-  array (
-    0 => 'My mind\'s my kingdom.',
-    1 => 'Francis Quarles',
-  ),
-  19 => 
-  array (
-    0 => 'A human being is only interesting if he\'s in contact with himself. I learned you have to trust yourself, be what you are, and do what you ought to do the way you should do it. You have got to discover you, what you do, and trust it.',
-    1 => 'Barbara Streisand',
-  ),
-  20 => 
-  array (
-    0 => 'If the bulk of American SF can be said to be written by robots, about robots, for robots, then the bulk of English fantasy seems to be written by rabbits, about rabbits and for rabbits.',
-    1 => 'Michael Moorcock',
-  ),
-  21 => 
-  array (
-    0 => 'Inside, I\'ve got a real purist desire and dream about the music. I like the idea of being able to carve out a kind of magical, colourful, artistic, inspirational life. And the reality just turns out to be quite different, working with the business to bring this thing you have created into the world.',
-    1 => 'Damien Rice',
-  ),
-  22 => 
-  array (
-    0 => 'That 150 lawyers should do business together ought not to be expected.',
-    1 => 'Thomas Jefferson, on the U.S. Congress.',
-  ),
-  23 => 
-  array (
-    0 => 'Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?',
-    1 => 'Tony Robbins',
-  ),
-  24 => 
-  array (
-    0 => 'To the world you may be one person, but to one person you may be the world.',
-    1 => 'Dr. Suess',
-  ),
-);
+return [
+    [
+        'People rarely succeed unless they have fun in what they are doing.',
+        'Dale Carnegie',
+    ],
+    [
+        'I don\'t want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well.',
+        'Diane Ackerman',
+    ],
+    [
+        'Every city across the country that has successfully renewed and revitalized itself points to a robust education system as its fundamental key to success.',
+        'Alan Autry',
+    ],
+    [
+        'Hope is nature\'s veil for hiding truth\'s nakedness.',
+        'Alfred Nobel',
+    ],
+    [
+        'I\'ve had a fairy tale life. I had a perfect family, a beautiful childhood, an incredible upbringing. I lived a lot of life but a lot of good life.',
+        'John Stamos',
+    ],
+    [
+        'Family, work, familiarity. Listen, if I had a magic wand and I could make myself really be happy, I\'d zap me onto a farm. And I know nothing about farming.',
+        'Scott Baio',
+    ],
+    [
+        'I think people are so immersed in the anti-Scientology mindset by consuming tabloid media and stories about space aliens. It\'s baffling. When I say I want to see a more positive side of the church, all I\'m saying is I want to get past these headlines that talk about aliens and Tom Cruise jumping on a sofa.',
+        'Louis Theroux',
+    ],
+    [
+        'I try to keep it real. I don\'t have time to worry about what I\'m projecting to the world. I\'m just busy being myself.',
+        'Demi Lovato',
+    ],
+    [
+        'I get to travel around the world and meet all of these amazing people, and they\'re singing my songs! And to me, that\'s crazy.',
+        'Kina Grannis',
+    ],
+    [
+        'Liberalism is an attitude rather than a set of dogmas - an attitude that insists upon questioning all plausible and self-evident propositions, seeking not to reject them but to find out what evidence there is to support them rather than their possible alternatives.',
+        'Morris Raphael Cohen',
+    ],
+    [
+        'Too many of us are not living our dreams because we are living our fears.',
+        'Les Brown',
+    ],
+    [
+        'It\'s important to maintain an attractive smile as you age. A lighter, less beige, more white tooth color is key, but no Chiclets.',
+        'Evelyn Lauder',
+    ],
+    [
+        'Wake up early and tackle the day before it tackles you. Be on offense, not defense.',
+        'Evan Carmichael',
+    ],
+    [
+        'It\'s easy to get negative because you get beat down. You go through a few disappointments and it\'s easy to stay in that negative frame of mind. Choosing to be positive and having a grateful attitude is a whole cliche, but your attitude is going to determine how you\'re going to live your life.',
+        'Joel Osteen',
+    ],
+    [
+        'That\'s the beauty of the Internet is that we\'re no longer tied to our communities by physical connections.',
+        'Edward Snowden',
+    ],
+    [
+        'Those songs are about getting out; they\'re not about getting out of family. It wasn\'t about how family life was curtailing because I didn\'t know family life.',
+        'Bob Geldof',
+    ],
+    [
+        'For me art and chess are closely related, both are forms in which the self finds beauty and expression.',
+        'Vladimir Kramnik',
+    ],
+    [
+        'He is a very positive captain; he is proactive as well as reactive. He is keen to read the game, to get in there, and he never stops thinking about the game, the situation, and trying to turn it to his advantage. He has been very good for the game.',
+        'David Gower',
+    ],
+    [
+        'I realized my family was funny, because nobody ever wanted to leave our house.',
+        'Anthony Anderson',
+    ],
+    [
+        'I\'ve had to learn to fight all my life - got to learn to keep smiling. If you smile things will work out.',
+        'Serena Williams',
+    ],
+    [
+        'Trying to understand the way nature works involves a most terrible test of human reasoning ability. It involves subtle trickery, beautiful tightropes of logic on which one has to walk in order not to make a mistake in predicting what will happen. The quantum mechanical and the relativity ideas are examples of this.',
+        'Richard P. Feynman',
+    ],
+    [
+        'My mother was a very, very funny, outrageous, outspoken person, and she never edited me. Her whole thing in my life was if anybody had a problem with me, tell them to go to hell.',
+        'Tig Notaro',
+    ],
+    [
+        'Nothing else matters so much as long as you can come home and be with your family.',
+        'Patrick Dempsey',
+    ],
+    [
+        'What is it we want out of travel? Is it to take snapshots of ourselves in front of famous monuments, surrounded by other tourists? To eat unfamiliar food chosen from unintelligible menus? To earn frequent-flier miles? No. It\'s to glimpse what life is like somewhere else.',
+        'Chris Pavone',
+    ],
+    [
+        'I don\'t mean this in a stuck-up way, but I needed an attitude song.',
+        'Gwen Stefani',
+    ],
+];

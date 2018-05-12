@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I don\'t consider myself a pessimist. I think of a pessimist as someone who is waiting for it to rain. And I feel soaked to the skin.',
-    1 => 'Leonard Cohen',
-  ),
-  1 => 
-  array (
-    0 => 'C, n.:
-        A programming language that is sort of like Pascal except more like assembly except that it isn\'t very much like either one, or anything else. It is either the best language available to the art today, or it isn\'t.',
-    1 => 'Ray Simard',
-  ),
-  2 => 
-  array (
-    0 => 'There\'s always someone, somewhere, with a big nose, who knows and who trips you up and laughs when you fall.',
-    1 => 'The Smiths',
-  ),
-  3 => 
-  array (
-    0 => 'When I was in my twenties, not shaving for a few days gave me a cool Don Johnson/Miami Vice look. Now that I\'m in my forties, though, it tends to make me look more like Otis from Mayberry.',
-    1 => 'Tom Gray',
-  ),
-  4 => 
-  array (
-    0 => 'Always remember that striving and struggle precede success, even in the dictionary.',
-    1 => 'Sarah Ban Breathnach',
-  ),
-  5 => 
-  array (
-    0 => 'The grateful person, being still the most severe exacter of himself, not only confesses, but proclaims, his debts.',
-    1 => 'Robert South',
-  ),
-  6 => 
-  array (
-    0 => 'Brain fried',
-    1 => 'core dumped',
-  ),
-  7 => 
-  array (
-    0 => 'Old age is the most unexpected of things that can happen to a man.',
-    1 => 'Trotsky',
-  ),
-  8 => 
-  array (
-    0 => 'The hardest thing to find in life is balance - especially the more success you have, the more you look to the other side of the gate. What do I need to stay grounded, in touch, in love, connected, emotionally balanced? Look within yourself.',
-    1 => 'Celine Dion',
-  ),
-  9 => 
-  array (
-    0 => 'Great people talk about ideas, average people talk about things, and small people talk about wine.',
-    1 => 'Fran Lebowitz',
-  ),
-  10 => 
-  array (
-    0 => 'No winter lasts forever; no spring skips it\'s turn.',
-    1 => 'Hal Borland',
-  ),
-  11 => 
-  array (
-    0 => 'The best thing to give to your enemy is forgiveness; to an opponent, tolerance; to a friend, your heart; to your child, a good example; to a father, deference; to your mother, conduct that will make her proud of you; to yourself, respect; to all men, charity.',
-    1 => 'Benjamin Franklin',
-  ),
-  12 => 
-  array (
-    0 => 'Impossible is nothing.',
-    1 => 'Muhammad Ali',
-  ),
-  13 => 
-  array (
-    0 => 'Your goals don\'t care how you feel.',
-    1 => 'Unknown',
-  ),
-  14 => 
-  array (
-    0 => 'Morality is one thing. Ratings are everything.',
-    1 => 'A Network 23 executive on "Max Headroom"',
-  ),
-  15 => 
-  array (
-    0 => 'All our dreams can come true, if we have the courage to pursue them.',
-    1 => 'Walt Disney',
-  ),
-  16 => 
-  array (
-    0 => 'Patriotism is the virtue of the vicious.',
-    1 => 'Oscar Wilde',
-  ),
-  17 => 
-  array (
-    0 => 'Nothing splendid has ever been achieved except by those who dared believe that something inside them was superior to circumstance.',
-    1 => 'Bruce Barton',
-  ),
-  18 => 
-  array (
-    0 => 'United Nations, New York, December 25. The peace and joy of the Christmas season was marred by a proclamation of a general strike of all the military forces of the world. Panic reigns in the hearts of all the patriots of every persuasion.
-Meanwhile, fears of universal disaster sank to an all-time low over the world.',
-    1 => 'Isaac Asimov',
-  ),
-  19 => 
-  array (
-    0 => 'Find out who you are and be that person. That\'s what your soul was put on this Earth to be. Find that truth, live that truth and everything else will come.',
-    1 => 'Ellen DeGeneres',
-  ),
-  20 => 
-  array (
-    0 => 'Remember you will not always win. Some days, the most resourceful individual will taste defeat. But there is, in this case, always tomorrow - after you have done your best to achieve success today.',
-    1 => 'Maxwell Maltz',
-  ),
-  21 => 
-  array (
-    0 => 'It\'s only after you\'ve stepped outside your comfort zone that you begin to change, grow, and transform.',
-    1 => 'Roy T. Bennett',
-  ),
-  22 => 
-  array (
-    0 => 'Don\'t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.',
-    1 => 'A.P.J Abdul Kalam',
-  ),
-  23 => 
-  array (
-    0 => 'Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IV',
-  ),
-  24 => 
-  array (
-    0 => 'I will not die an unlived life. I will not live in fear of falling or catching fire. I choose to inhabit my days, to allow my living to open me, to make me less afraid, more accessible, to loosen my heart until it becomes a wing, a torch, a promise. I choose to risk my significance; to live so that which came to me as a seed goes to the next as a blossom and that which came to me as a blossom, goes on as fruit.',
-    1 => 'Dawna Markova, Ph.D',
-  ),
-);
+return [
+    [
+        'Leave your ego at the door every morning, and just do some truly great work. Few things will make you feel better than a job brilliantly done.',
+        'Robin S. Sharma',
+    ],
+    [
+        'Ethical decisions ensure that everyone\'s best interests are protected. When in doubt, don\'t.',
+        'Harvey Mackay',
+    ],
+    [
+        'A long apprenticeship is the most logical way to success. The only alternative is overnight stardom, but I can\'t give you a formula for that.',
+        'Chet Atkins',
+    ],
+    [
+        'My books always focus on the response of the characters to extreme events. As dark as they get, they are ultimately positive, uplifting books about children who take control of their lives and overcome great adversaries. I think that is why they have been so popular.',
+        'Darren Shan',
+    ],
+    [
+        'When a man becomes a writer, I think he takes on a sacred obligation to produce beauty and enlightenment and comfort at top speed.',
+        'Kurt Vonnegut',
+    ],
+    [
+        'The only limit to your impact is your imagination and commitment.',
+        'Tony Robbins',
+    ],
+    [
+        'I\'m getting money over here. I\'m good, I\'m young, I\'m finally in a position to feed my family; please don\'t take that away from me.',
+        'Tory Lanez',
+    ],
+    [
+        'I work so hard to make that sure I\'m successful. If you\'re positive and really excited and enthusiastic about what you\'re doing, it\'s going to happen, and it\'s going to happen big time.',
+        'Shawn Mendes',
+    ],
+    [
+        'Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.',
+        'Byron Pulsifer',
+    ],
+    [
+        'Each day is the scholar of yesterday.',
+        'Sophia Bush',
+    ],
+    [
+        'I do love to eavesdrop. It\'s inspirational, not only for subject matter but for actual dialogue, the way people talk.',
+        'Lynda Barry',
+    ],
+    [
+        'Take no thought of who is right or wrong or who is better than. Be not for or against.',
+        'Bruce Lee',
+    ],
+    [
+        'Originally the dream was about traveling and developing a job that would permit me to travel. And I decided to go into street performing because it was a traveling job; it would let me go around the world.',
+        'Guy Laliberte',
+    ],
+    [
+        'Whenever I gaze up at the moon, I feel like I\'m on a time machine. I am back to that precious pinpoint of time, standing on the foreboding - yet beautiful - Sea of Tranquility. I could see our shining blue planet Earth poised in the darkness of space.',
+        'Buzz Aldrin',
+    ],
+    [
+        'From a person whose living depends on other people buying her creative work, this may sound odd, but one of my favorite things about the steampunk subculture is its do-it-yourself attitude.',
+        'Kaja Foglio',
+    ],
+    [
+        'I have my team. Like if you see everyone around me - I have my hair and makeup girl, my assistant. They\'re very calm, they\'re all about positive energy. There\'re no drama queens. Everyone wants everyone else to have a positive experience. There are no agendas. I think it creates a healthy environment and there are no boundaries to cross.',
+        'Fergie',
+    ],
+    [
+        'Everybody is different. Everybody has different styles. Just do it the best way you know how.',
+        'Vince Carter',
+    ],
+    [
+        'Short words are best and the old words when short are best of all.',
+        'Winston Churchill',
+    ],
+    [
+        'Without courage, wisdom bears no fruit.',
+        'Baltasar Gracian',
+    ],
+    [
+        'Let\'s not dismiss or attack individual ideas as being inadequate before we have had a chance to assess their positive effect as part of a whole solution.',
+        'John Thune',
+    ],
+    [
+        'There are so many different elements to surfing. Small waves, big waves, long boards, short boards. This makes it a sport you can share with people. It\'s not just a solitary thing - it\'s become a family thing, too. It\'s about exercising and passing something on from father to son, and from mother to daughter.',
+        'Kelly Slater',
+    ],
+    [
+        'We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.',
+        'Buddha',
+    ],
+    [
+        'Patience is the best remedy for every trouble.',
+        'Plautus',
+    ],
+    [
+        'When I travel abroad, because I\'m Columbian, I\'m always one that they check twice and security and I\'m the one that they open my bag and the one they pull to the side to check the visa.',
+        'Sofia Vergara',
+    ],
+    [
+        'You don\'t have to be the Dalai Lama to tell people that life\'s about change.',
+        'Mary Oliver',
+    ],
+];

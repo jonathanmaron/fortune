@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Start even if you don\'t know how.',
-    1 => 'Wendy Tremayne',
-  ),
-  1 => 
-  array (
-    0 => 'You dont have to explain your dreams, they belong to you.',
-    1 => 'Paulo Coelho',
-  ),
-  2 => 
-  array (
-    0 => 'A man without a purpose is like a ship without a rudder.',
-    1 => 'Thomas Carlyle',
-  ),
-  3 => 
-  array (
-    0 => 'You must do the things you think you cannot do.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  4 => 
-  array (
-    0 => 'That\'s my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard.',
-    1 => 'Joe Rogan',
-  ),
-  5 => 
-  array (
-    0 => 'You make each day a special day. You know how, by just your being you.',
-    1 => 'Fred Rogers',
-  ),
-  6 => 
-  array (
-    0 => 'When you fail, you also learn how not to fail.',
-    1 => 'Soichiro Honda',
-  ),
-  7 => 
-  array (
-    0 => 'There will always be a frontier where there is an open mind and a willing hand.',
-    1 => 'Charles F. Kettering',
-  ),
-  8 => 
-  array (
-    0 => 'Each honest calling, each walk of life, has its own elite, its own aristocracy based on excellence of performance.',
-    1 => 'James Bryant Conant',
-  ),
-  9 => 
-  array (
-    0 => 'Goals give you more than a reason to get up in the morning; they are an incentive to keep you going all day. Goals tend to tap the deeper resources and draw the best out of life.',
-    1 => 'Harvey Mackay',
-  ),
-  10 => 
-  array (
-    0 => 'But in our enthusiasm, we could not resist a radical overhaul of the system, in which all of its major weaknesses have been exposed, analyzed, and replaced with new weaknesses.',
-    1 => 'Bruce Leverett, "Register Allocation in Optimizing Compilers"',
-  ),
-  11 => 
-  array (
-    0 => 'We can\'t let children think it\'s okay to dress up like Vikings and go around hollering.',
-    1 => 'Dogbert, on opera',
-  ),
-  12 => 
-  array (
-    0 => 'If only God would give me some clear sign! Like making a large deposit in my name at a Swiss Bank.',
-    1 => 'Woody Allen',
-  ),
-  13 => 
-  array (
-    0 => 'You just can\'t beat the person who never gives up.',
-    1 => 'Babe Ruth',
-  ),
-  14 => 
-  array (
-    0 => 'If the point is sharp, and the arrow is swift, it can pierce through the dust no matter how thick.',
-    1 => 'Bob Dylan',
-  ),
-  15 => 
-  array (
-    0 => 'Goals. There\'s not telling what you can do when you get inspired by them. There\'s no telling what you can do when you believe in them. There\'s no telling what will happen when you act upon them.',
-    1 => 'Jim Rohn',
-  ),
-  16 => 
-  array (
-    0 => 'Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning.',
-    1 => 'Dennis Waitley',
-  ),
-  17 => 
-  array (
-    0 => 'Don\'t fight the problem, decide it.',
-    1 => 'George C. Marshall',
-  ),
-  18 => 
-  array (
-    0 => 'That which does not kill us makes us stronger.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  19 => 
-  array (
-    0 => 'Happiness is having a scratch for every itch.',
-    1 => 'Ogden Nash',
-  ),
-  20 => 
-  array (
-    0 => 'Don\'t grieve. Anything you lose comes round in another form.',
-    1 => 'Rumi',
-  ),
-  21 => 
-  array (
-    0 => 'We talk on principal, but act on motivation.',
-    1 => 'Walter Savage Landor',
-  ),
-  22 => 
-  array (
-    0 => 'The Man Who Has Confidence In Himself Gains The Confidence Of Others.',
-    1 => 'Hasidic Proverb',
-  ),
-  23 => 
-  array (
-    0 => 'The young should be treated with respect.',
-    1 => 'Chinese Proverb',
-  ),
-  24 => 
-  array (
-    0 => 'Tact is the ability to make a person see lightning without letting him feel the bolt.',
-    1 => 'Orlando A. Battista',
-  ),
-);
+return [
+    [
+        'I love the way Tyra Banks dresses up - she looks so elegant and glamorous in whatever she wears. The confidence and attitude she exudes on and off the ramp is remarkable.',
+        'Yami Gautam',
+    ],
+    [
+        'The trite saying that honesty is the best policy has met with the just criticism that honesty is not policy. The real honest man is honest from conviction of what is right, not from policy.',
+        'Robert E. Lee',
+    ],
+    [
+        'Understanding is the first step to acceptance, and only with acceptance can there be recovery.',
+        'J.K. Rowling',
+    ],
+    [
+        'Never ignore a gut feeling, but never believe that it\'s enough.',
+        'Robert Heller',
+    ],
+    [
+        'Push yourself because no one else is going to do it for you.',
+        'Unknown',
+    ],
+    [
+        'Being happy is of the utmost importance. Success in anything is through happiness.',
+        'Maharishi Mahesh Yogi',
+    ],
+    [
+        'For me, relationship is very important. I can lose money, but I cannot lose a relationship. The test is, at the end of a conversation or a negotiation, both must smile.',
+        'Sunil Mittal',
+    ],
+    [
+        'He has achieved success who has worked well, laughed often, and loved much.',
+        'Elbert Hubbard',
+    ],
+    [
+        'Success in the majority of circumstances depends on knowing how long it takes to succeed.',
+        'Charles de Montesquieu',
+    ],
+    [
+        'Until you value yourself, you won\'t value your time. Until you value your time, you will not do anything with it.',
+        'M. Scott Peck',
+    ],
+    [
+        'Twilight drops her curtain down, and pins it with a star.',
+        'Lucy Maud Montgomery',
+    ],
+    [
+        'Respect should be earned by actions, and not acquired by years.',
+        'Frank Wright',
+    ],
+    [
+        'Here is my prescription to heal all wounds. Watch the film \'Funny Girl\' at least five times, eat at least 45 chocolate bars, and hang out with all those friends you blew off to hang out with your ex. I truly believe that, through a combination of Nutella, old pals and Barbra Streisand, we can achieve happiness and, very probably, world peace.',
+        'Beth Ditto',
+    ],
+    [
+        'The biggest hurdle is rejection. Any business you start, be ready for it. The difference between successful people and unsuccessful people is the successful people do all the things the unsuccessful people don\'t want to do. When 10 doors are slammed in your face, go to door number 11 enthusiastically, with a smile on your face.',
+        'John Paul DeJoria',
+    ],
+    [
+        'He who knows himself is enlightened.',
+        'Lao Tzu',
+    ],
+    [
+        'It\'s not what happens to you, but how you react to it that matters.',
+        'Epictetus',
+    ],
+    [
+        'Grief is in two parts. The first is loss. The second is the remaking of life.',
+        'Will Smith',
+    ],
+    [
+        'Someone is special only if you tell them.',
+        'Byron Pulsifer',
+    ],
+    [
+        'I\'m happy with who I am inside. I\'d hate to have accolades and all that and not really be happy with who I was. So I\'m really thankful for my family and for the support system that I have for being the person that I am today. I\'m proud of who I am.',
+        'Keke Palmer',
+    ],
+    [
+        'As Americans, we have traditionally been the optimists sporting the \'can-do\' attitude. But when it comes to addressing climate adaptation and resiliency, we seem to be more \'can\'t do\' than \'can-do.\'',
+        'Paul Tonko',
+    ],
+    [
+        'Expect problems and eat them for breakfast.',
+        'Alfred A. Montapert',
+    ],
+    [
+        'Our life is the sum total of all the decisions we make every day, and those decisions are determined by our priorities.',
+        'Robert Stigwood',
+    ],
+    [
+        'Maybe you just don\'t see your own beauty.',
+        'Lena Headey',
+    ],
+    [
+        'As a female, you are often being asked by directors to be warmer, softer, flirt more, smile more etc... None of those things are bad, and obviously we are capable of a variety of human behavior, but it gets really old having to play into somebody\'s stereotype or ideal.',
+        'Trieste Kelly Dunn',
+    ],
+    [
+        'All I would say is that when I\'ve been very down or having kind of a tough time in my life, certain films or pieces of music or books have changed that. They\'ve taken me out of a dark place and put me into a more positive one. And I think that if we can do that for people, then it\'s certainly worth doing.',
+        'Rupert Friend',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'This isn\'t brain surgery; it\'s just television.',
-    1 => 'David Letterman',
-  ),
-  1 => 
-  array (
-    0 => 'Joel - That\'s the movies, Ed. Try reality. Ed - No thanks.',
-    1 => 'Ellen Herman',
-  ),
-  2 => 
-  array (
-    0 => 'There is more stupidity than hydrogen in the universe, and it has a longer shelf life.',
-    1 => 'Frank Zappa',
-  ),
-  3 => 
-  array (
-    0 => 'The ignorant work for their own profit, the wise work for the welfare of the world, without thought for themselves.',
-    1 => 'Bhagavad Gita',
-  ),
-  4 => 
-  array (
-    0 => 'I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.',
-    1 => 'Edward Everett Hale',
-  ),
-  5 => 
-  array (
-    0 => 'Some men give up their designs when they have almost reached the goal; while others, on the contrary, obtain a victory by exerting, at the last moment, more vigorous efforts than before.',
-    1 => 'Polybius',
-  ),
-  6 => 
-  array (
-    0 => 'Hope is some extraordinary spiritual grace that God gives us to control our fears, not to oust them.',
-    1 => 'Vincent McNabb',
-  ),
-  7 => 
-  array (
-    0 => 'Love the moment and the energy of that moment will spread beyond all boundaries.',
-    1 => 'Corita Kent',
-  ),
-  8 => 
-  array (
-    0 => 'Courage is like love; it must have hope for nourishment.',
-    1 => 'Napoleon Bonaparte',
-  ),
-  9 => 
-  array (
-    0 => 'True success, true happiness lies in freedom and fulfillment.',
-    1 => 'Dada Vaswani',
-  ),
-  10 => 
-  array (
-    0 => 'I firmly believe that unless one has tasted the bitter pill of failure, one cannot aspire enough for success.',
-    1 => 'A. P. J. Abdul Kalam',
-  ),
-  11 => 
-  array (
-    0 => 'Love is the great miracle cure. Loving ourselves works miracles in our lives.',
-    1 => 'Louise Hay',
-  ),
-  12 => 
-  array (
-    0 => 'The greatest mistake you can make in life is to be continually fearing that you will make one.',
-    1 => 'Elbert Hubbard',
-  ),
-  13 => 
-  array (
-    0 => 'Corruption is not the #1 priority of the Police Commissioner. His job is to enforce the law and fight crime.',
-    1 => 'P.B.A. President E. J. Kiernan',
-  ),
-  14 => 
-  array (
-    0 => 'Look at a football field. It looks like a big movie screen. This is theatre. Football combines the strategy of chess. It\'s part ballet. It\'s part battleground, part playground. We clarify, amplify and glorify the game with our footage, the narration and that music, and in the end create an inspirational piece of footage.',
-    1 => 'Steve Sabol',
-  ),
-  15 => 
-  array (
-    0 => 'Courtesy is the one coin you can never have too much of or be stingy with.',
-    1 => 'John Wanamaker',
-  ),
-  16 => 
-  array (
-    0 => 'We are all functioning at a small fraction of our capacity to live life fully in its total meaning of loving, caring, creating, and adventuring. Consequently, the actualizing of our potential can become the most exciting adventure of our lifetime.',
-    1 => 'Herbert A. Otto',
-  ),
-  17 => 
-  array (
-    0 => 'There is no satisfaction in hanging a man who does not object to it',
-    1 => 'G. B. Shaw',
-  ),
-  18 => 
-  array (
-    0 => 'Face reality as it is, not as it was or as you wish it to be.',
-    1 => 'Jack Welch',
-  ),
-  19 => 
-  array (
-    0 => 'Nothing in the world is more common than unsuccessful people with talent.',
-    1 => 'Unknown',
-  ),
-  20 => 
-  array (
-    0 => 'I saw a lot of people have success handed to them that then exploited it. They didn\'t protect it or cherish it.',
-    1 => 'Aaron Paul',
-  ),
-  21 => 
-  array (
-    0 => 'The trouble with programmers is that you can never tell what a programmer is doing until it\'s too late.',
-    1 => 'Seymour Cray',
-  ),
-  22 => 
-  array (
-    0 => 'Give light and people will find the way.',
-    1 => 'Ella Baker',
-  ),
-  23 => 
-  array (
-    0 => 'Don\'t gain the world and lose your soul. Wisdom is better than silver and gold.',
-    1 => 'Bob Marley',
-  ),
-  24 => 
-  array (
-    0 => 'It\'s okay to look back at the past. Just don\'t stare.',
-    1 => 'Benjamin Dover',
-  ),
-);
+return [
+    [
+        'Since we launched the original \'Pop Idol\' in England, I\'ve remained close with Simon Fuller. Working as executive producer on \'American idol\' for its first seven years not only was an inspirational journey into the heart of American pop culture, it opened my eyes to the untapped potential of the incredibly dynamic young people in this world.',
+        'Nigel Lythgoe',
+    ],
+    [
+        'Beauty ought to look a little surprised: it is the emotion that best suits her face. The beauty who does not look surprised, who accepts her position as her due - she reminds us too much of a prima donna.',
+        'E. M. Forster',
+    ],
+    [
+        'Survival was my only hope, success my only revenge.',
+        'Patricia Cornwell',
+    ],
+    [
+        'Your purpose is to make your audience see what you saw, hear what you heard, feel what you felt. Relevant detail, couched in concrete, colorful language, is the best way to recreate the incident as it happened and to picture it for the audience.',
+        'Dale Carnegie',
+    ],
+    [
+        'Creativity is the ability to introduce order into the randomness of nature.',
+        'Eric Hoffer',
+    ],
+    [
+        'For me, the most interesting people are ones who often work against their best interests. Bad choices. They go in directions where you go, \'No no no nooo!\' You push away someone who is trying to love you, you hurt someone who\'s trying to get your trust, or you love someone you shouldn\'t.',
+        'Paul Haggis',
+    ],
+    [
+        'Whether You Think You Can Or Think You Can\'t, You\'re Right.',
+        'Henry Ford',
+    ],
+    [
+        'It\'s so funny whenever things come full circle.',
+        'Swoosie Kurtz',
+    ],
+    [
+        'If you truly get in touch with a piece of carrot, you get in touch with the soil, the rain, the sunshine. You get in touch with Mother Earth and eating in such a way, you feel in touch with true life, your roots, and that is meditation. If we chew every morsel of our food in that way we become grateful and when you are grateful, you are happy.',
+        'Robert Louis Stevenson',
+    ],
+    [
+        'The ground we walk on, the plants and creatures, the clouds above constantly dissolving into new formations - each gift of nature possessing its own radiant energy, bound together by cosmic harmony.',
+        'Ruth Bernhard',
+    ],
+    [
+        'The expression of beauty is in direct ratio to the power of conception the artist has acquired.',
+        'Gustave Courbet',
+    ],
+    [
+        'Loyalty to the family must be merged into loyalty to the community, loyalty to the community into loyalty to the nation, and loyalty to the nation into loyalty to mankind. The citizen of the future must be a citizen of the world.',
+        'Thomas Cochrane',
+    ],
+    [
+        'The human brain is a wonderful organ. It starts to work as soon as you are born and doesn\'t stop until you get up to deliver a speech.',
+        'George Jessel',
+    ],
+    [
+        'In 2008, the Nobel Prize in Chemistry was awarded for work done on a molecule called green fluorescent protein that was isolated from the bioluminescent chemistry of a jellyfish, and it\'s been equated to the invention of the microscope in terms of the impact that it has had on cell biology and genetic engineering.',
+        'Edith Widder',
+    ],
+    [
+        'I\'m trying to stay as calm as possible and focus one day at a time, but when reality sets in, I feel everything: anxiety, excitement, nerves, pressure and joy.',
+        'Shawn Johnson',
+    ],
+    [
+        'Smile, for everyone lacks self-confidence and more than any other one thing a smile reassures them.',
+        'Andre Maurois',
+    ],
+    [
+        'But the best teams I\'ve encountered have one important thing in common: their team structure and processes cover a full range of distinct competencies necessary for success.',
+        'Jesse James Garrett',
+    ],
+    [
+        'The greatest error of a man is to think that he is weak by nature, evil by nature. Every man is divine and strong in his real nature. What are weak and evil are his habits, his desires and thoughts, but not himself.',
+        'Ramana Maharshi',
+    ],
+    [
+        'As a single mother of four, my mother taught me that you always want to show up strong for the moments that really matter with family, friends, and community. I now recognize how her strength helped shape the person I am today and the mother that I have become.',
+        'Andie MacDowell',
+    ],
+    [
+        'To cherish what remains of the Earth and to foster its renewal is our only legitimate hope of survival.',
+        'Wendell Berry',
+    ],
+    [
+        'Most women are dissatisfied with their appearance - it\'s the stuff that fuels the beauty and fashion industries.',
+        'Annie Lennox',
+    ],
+    [
+        'Every gift from a friend is a wish for your happiness.',
+        'Richard Bach',
+    ],
+    [
+        'My attitude on skis is different now. I have learned to put less pressure on myself and on the edges of my skis when I\'m racing, to be keep myself more under control.',
+        'Hermann Maier',
+    ],
+    [
+        'All things are perceived in the light of charity, and hence under the aspect of beauty; for beauty is simply reality seen with the eyes of love.',
+        'Evelyn Underhill',
+    ],
+    [
+        'I like to embrace natural beauty. I try to get at least 8 hours of sleep, drinking a lot of water and exercising.',
+        'Tia Mowry',
+    ],
+];

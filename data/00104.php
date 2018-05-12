@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Fame is a vapor, popularity an accident, riches take wings. Only one thing endures and that is character.',
-    1 => 'Horace Greeley',
-  ),
-  1 => 
-  array (
-    0 => 'We don\'t read and write poetry because it\'s cute. We read and write poetry because we are members of the human race.',
-    1 => 'Robin Williams',
-  ),
-  2 => 
-  array (
-    0 => 'Digital computers are themselves more complex than most things people build: They have very large numbers of states. This makes conceiving, describing, and testing them hard. Software systems have orders-of-magnitude more states than computers do.',
-    1 => 'Fred Brooks, Jr.',
-  ),
-  3 => 
-  array (
-    0 => 'It\'s always too early to quit.',
-    1 => 'Norman Vincent Peale',
-  ),
-  4 => 
-  array (
-    0 => 'Victory belongs to the most persevering.',
-    1 => 'Napoleon Bonaparte',
-  ),
-  5 => 
-  array (
-    0 => 'In times of great stress or adversity, it\'s always best to keep busy, to plow your anger and your energy into something positive.',
-    1 => 'Lee Iacocca',
-  ),
-  6 => 
-  array (
-    0 => 'Never retreat. Never explain. Get it done and let them howl.',
-    1 => 'Benjamin Jowett',
-  ),
-  7 => 
-  array (
-    0 => 'Someone with their feet planted firmly on the ground has no hope of reaching the stars.',
-    1 => 'Kelsey Dunn',
-  ),
-  8 => 
-  array (
-    0 => 'The starting point of all achievement is desire.',
-    1 => 'Napoleon Hill',
-  ),
-  9 => 
-  array (
-    0 => 'The applause of a single human being is of great consequence.',
-    1 => 'Samuel Johnson',
-  ),
-  10 => 
-  array (
-    0 => 'Just go out there and do what you\'ve got to do.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  11 => 
-  array (
-    0 => 'Believe, when you are most unhappy, that there is something for you to do in the world. So long as you can sweeten another\'s pain, life is not in vain.',
-    1 => 'Helen Keller',
-  ),
-  12 => 
-  array (
-    0 => 'Life is not the way it is supposed to be. It is the way it is. The way you cope with it is what makes the difference.',
-    1 => 'Virginia Satir',
-  ),
-  13 => 
-  array (
-    0 => 'Why allow a painful past to destroy your perfect future.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => 'There are a lot of things that go into creating success. I don\'t like to do just the things I like to do. I like to do things that cause the company to succeed. I don\'t spend a lot of time doing my favorite activities.',
-    1 => 'Michael Dell',
-  ),
-  15 => 
-  array (
-    0 => 'I hate to be a failure. I hate and regret the failure of my marriages. I would gladly give all my millions for just one lasting marital success.',
-    1 => 'J. Paul Getty',
-  ),
-  16 => 
-  array (
-    0 => 'Strength does not come from physical capacity. It comes from an indomitable will.',
-    1 => 'Mahatma Gandhi',
-  ),
-  17 => 
-  array (
-    0 => 'Before you can become a millionaire, you must learn to think like one. You must learn how to motivate yourself to counter fear with courage. Making critical decisions about your career, business, investments and other resources conjures up fear, fear that is part of the process of becoming a financial success.',
-    1 => 'Thomas J. Stanley',
-  ),
-  18 => 
-  array (
-    0 => 'To be capable of steady friendship or lasting love, are the two greatest proofs, not only of goodness of heart, but of strength of mind.',
-    1 => 'Paul Aubuchon',
-  ),
-  19 => 
-  array (
-    0 => 'He who knows patience knows peace.',
-    1 => 'Chinese Proverb',
-  ),
-  20 => 
-  array (
-    0 => 'Even successful musicians have had periods where people say they suck and no one likes them, even after they\'ve had periods of great success. So I think it\'s like you just gotta do you and try to stay motivated. Until, you know, you decide to stay home and make spaghetti all day.',
-    1 => 'K. Flay',
-  ),
-  21 => 
-  array (
-    0 => 'Love is a special word, and I use it only when I mean it. You say the word too much and it becomes cheap.',
-    1 => 'Ray Charles',
-  ),
-  22 => 
-  array (
-    0 => 'Belief consists in accepting the affirmations of the soul; unbelief, in denying them.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  23 => 
-  array (
-    0 => 'The capacity of human beings to bore one another seems to be vastly greater than that of any other animal.',
-    1 => 'H. L. Mencken',
-  ),
-  24 => 
-  array (
-    0 => 'The only limits for tomorrow are the doubts we have today.',
-    1 => 'Pittacus Lore',
-  ),
-);
+return [
+    [
+        'My grandmother started walking five miles a day when she was sixty. She\'s ninety-seven now, and we don\'t know where the hell she is.',
+        'Ellen DeGeneres',
+    ],
+    [
+        'Experience taught me that working families are often just one pay check away from economic disaster. And it showed me first-hand the importance of every family having access to good health care.',
+        'Dave Obey',
+    ],
+    [
+        'We need to accept that we won\'t always make the right decisions, that we\'ll screw up royally sometimes - understanding that failure is not the opposite of success, it\'s part of success.',
+        'Arianna Huffington',
+    ],
+    [
+        'Sometimes you just want to get away and be normal for a few days. It\'s a treat to travel without your racket bag.',
+        'Eugenie Bouchard',
+    ],
+    [
+        'I was born into a very religious family where everything was about setting the right example for the community and having to obey orders blindly. I felt that everyone was growing up in the world, except me. This is probably one of the reasons why I had such a rebellious attitude towards any form of authority.',
+        'Grace Jones',
+    ],
+    [
+        'For success of any mission, it is necessary to have creative leadership. Creative leadership is vital for government, non-governmental organisations as well as for industries.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'Music is the best way for me to say I love you.',
+        'Mireille Mathieu',
+    ],
+    [
+        'The two most important days in your life are the day you are born and the day you find out why.',
+        'Mark Twain',
+    ],
+    [
+        'Spending time with America\'s soldiers is always inspiring.',
+        'John Boehner',
+    ],
+    [
+        'The most common error made in matters of appearance is the belief that one should disdain the superficial and let the true beauty of one\'s soul shine through. If there are places on your body where this is a possibility, you are not attractive - you are leaking.',
+        'Charles Lamb',
+    ],
+    [
+        'There\'s a difference between beauty and charm. A beautiful woman is one I notice. A charming woman is one who notices me.',
+        'John Erskine',
+    ],
+    [
+        'You can learn from everyone, the president or the cleaner. You need teachers in life, but they\'re not always school teachers or professors. You learn from ordinary people. You learn from travel, from just walking down the street.',
+        'Lapo Elkann',
+    ],
+    [
+        'Ten people who speak make more noise than ten thousand who are silent.',
+        'Napoleon Bonaparte',
+    ],
+    [
+        'Fortune sides with him who dares.',
+        'Virgil',
+    ],
+    [
+        'What is necessary to change a person is to change his awareness of himself.',
+        'Abraham Maslow',
+    ],
+    [
+        'I am sort of an adventurer. I like to explore new places. I don\'t get to travel as often as I would like but I love it.',
+        'Edi Gathegi',
+    ],
+    [
+        'A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.',
+        'Jawaharlal Nehru',
+    ],
+    [
+        'A lot of people don\'t have near the amount of success as I\'ve been blessed to have, and it\'s all about working hard and hoping that continues.',
+        'Luke Bryan',
+    ],
+    [
+        'One way to get the most out of life is to look upon it as an adventure.',
+        'Serena Williams',
+    ],
+    [
+        'Vaccines and antibiotics have made many infectious diseases a thing of the past; we\'ve come to expect that public health and modern science can conquer all microbes. But nature is a formidable adversary.',
+        'Tom Frieden',
+    ],
+    [
+        'There is no forgiveness in nature.',
+        'Ugo Betti',
+    ],
+    [
+        'Tell me, why is the media here so negative? Why are we in India so embarrassed to recognise our own strengths, our achievements? We are such a great nation. We have so many amazing success stories but we refuse to acknowledge them. Why?',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'It would take six months to get to Mars if you go there slowly, with optimal energy cost. Then it would take eighteen months for the planets to realign. Then it would take six months to get back, though I can see getting the travel time down to three months pretty quickly if America has the will.',
+        'Elon Musk',
+    ],
+    [
+        'No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.',
+        'Helen Keller',
+    ],
+    [
+        'Coming to Nashville has been so motivating and inspirational. Just watching people live and breathe their music and create something that they can feel from start to finish.',
+        'Madi Diaz',
+    ],
+];

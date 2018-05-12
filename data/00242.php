@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The excitement of learning separates youth from old age. As long as you\'re learning, you\'re not old.',
-    1 => 'Rosalyn S.Yalow',
-  ),
-  1 => 
-  array (
-    0 => 'Controlling complexity is the essence of computer programming.',
-    1 => 'Brian W. Kernighan',
-  ),
-  2 => 
-  array (
-    0 => 'It is only in sorrow bad weather masters us; in joy we face the storm and defy it.',
-    1 => 'Amelia Barr',
-  ),
-  3 => 
-  array (
-    0 => 'It\'s like deja vu all over again.',
-    1 => 'Yogi Berra',
-  ),
-  4 => 
-  array (
-    0 => 'Democracy is a form of government in which it is permitted to wonder aloud what the country could do under first-class management.',
-    1 => 'Senator Soaper',
-  ),
-  5 => 
-  array (
-    0 => 'Criminal: A person with predatory instincts who has not sufficient capital to form a corporation.',
-    1 => 'Howard Scott',
-  ),
-  6 => 
-  array (
-    0 => 'I discovered I always have choices and sometimes it\'s only a choice of attitude.',
-    1 => 'Judith M. Knowlton',
-  ),
-  7 => 
-  array (
-    0 => 'You\'re never too old to become younger.',
-    1 => 'Mae West',
-  ),
-  8 => 
-  array (
-    0 => 'Take the Kama Sutra. How many people died from the Kama Sutra as opposed to the Bible? Who wins?',
-    1 => 'Frank Zappa',
-  ),
-  9 => 
-  array (
-    0 => 'Do you not see how necessary a world of pains and troubles is to school an intelligence and make it a soul?',
-    1 => 'John Keats',
-  ),
-  10 => 
-  array (
-    0 => 'If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.',
-    1 => 'George Bernard Shaw',
-  ),
-  11 => 
-  array (
-    0 => 'Singleness of purpose is one of the chief essentials for success in life, no matter what may be one\'s aim.',
-    1 => 'John D. Rockefeller',
-  ),
-  12 => 
-  array (
-    0 => 'Men exist for the sake of one another. Teach them then or bear with them.',
-    1 => 'Mary Ann Evans',
-  ),
-  13 => 
-  array (
-    0 => 'Love your neighbor as yourself.',
-    1 => 'Bible',
-  ),
-  14 => 
-  array (
-    0 => 'Life is full of surprises when you\'re up th\' stream of consciousness without a paddle...',
-    1 => 'Zippy the Pinhead',
-  ),
-  15 => 
-  array (
-    0 => 'My kind of loyalty was loyalty to one\'s country, not to...its office holders.',
-    1 => 'Mark Twain',
-  ),
-  16 => 
-  array (
-    0 => 'I claim to be an average man of less than average ability. I have not the shadow of a doubt that any man or woman can achieve what I have, if he or she would make the same effort and cultivate the same hope and faith.',
-    1 => 'Mohandas Karamchand Gandhi',
-  ),
-  17 => 
-  array (
-    0 => 'There are far, far better things ahead than any we leave behind.',
-    1 => 'C.S. Lewis',
-  ),
-  18 => 
-  array (
-    0 => 'He stands erect by bending over the fallen. He rises by lifting others.',
-    1 => 'Robert G. Ingersoll',
-  ),
-  19 => 
-  array (
-    0 => 'No one should negotiate their dreams. Dreams must be free to fly high. No government, no legislature, has a right to limit your dreams. You should never agree to surrender your dreams.',
-    1 => 'Lance Armstrong',
-  ),
-  20 => 
-  array (
-    0 => 'We tend to forget that happiness doesn\'t come as a result of getting something we don\'t have, but rather of recognizing and appreciating what we do have.',
-    1 => 'Fredrick Koeing',
-  ),
-  21 => 
-  array (
-    0 => 'Discovery consists in seeing what everyone else has seen and thinking what no one else has thought.',
-    1 => 'Albert Szent-Gyorgi',
-  ),
-  22 => 
-  array (
-    0 => 'A child\'s education should begin at least 100 years before he is born.',
-    1 => 'Oliver Wendell Holmes',
-  ),
-  23 => 
-  array (
-    0 => 'The very existence of flame-throwers proves that some time, somewhere, someone said to themselves, "You know, I want to set those people over there on fire, but I\'m just not close enough to get the job done."',
-    1 => 'George Carlin',
-  ),
-  24 => 
-  array (
-    0 => 'Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.',
-    1 => 'Stephen Hawking',
-  ),
-);
+return [
+    [
+        'The only place where success comes before work is in the dictionary.',
+        'Vidal Sassoon',
+    ],
+    [
+        'The best intelligence test is what we do with our leisure.',
+        'Laurence J. Peter',
+    ],
+    [
+        'Success makes men rigid and they tend to exalt stability over all the other virtues; tired of the effort of willing they become fanatics about conservatism.',
+        'Walter Lippmann',
+    ],
+    [
+        'If someone says \'grunge\' or \'punk,\' you know what the sound is, but if you say \'No Wave,\' it\'s kind of mysterious. That was the most interesting part and should have been the most inspirational thing about it... here\'s this collective sonic insanity, and none of it sounds anything alike.',
+        'Lydia Lunch',
+    ],
+    [
+        'I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating. Most people attach failure to something not working out or how people perceive you. This way, it is about answering to yourself.',
+        'Sara Blakely',
+    ],
+    [
+        'The world is being re-shaped by the convergence of social, mobile, cloud, big data, community and other powerful forces. The combination of these technologies unlocks an incredible opportunity to connect everything together in a new way and is dramatically transforming the way we live and work.',
+        'Marc Benioff',
+    ],
+    [
+        'Thinking is the hardest work there is, which is probably the reason why so few engage in it.',
+        'Henry Ford',
+    ],
+    [
+        'Men for the sake of getting a living forget to live.',
+        'Margaret Fuller',
+    ],
+    [
+        'I\'m an un-healable positive optimist.',
+        'Andre Rieu',
+    ],
+    [
+        'Family time was very difficult when my girls were little, but I never missed a birthday; I was there for every major event.',
+        'Jeff Dunham',
+    ],
+    [
+        'I wanted to have the opportunity to travel to Vietnam and Sydney, and have the chance to work there.',
+        'Brendan Fraser',
+    ],
+    [
+        'It is always the simple that produces the marvelous.',
+        'Amelia Barr',
+    ],
+    [
+        'A desire to be in charge of our own lives, a need for control, is born in each of us. It is essential to our mental health, and our success, that we take control.',
+        'Robert Foster Bennett',
+    ],
+    [
+        'I love all my fam. I have quite possibly the best dad, mom, and sister in the world.',
+        'Ryan Eggold',
+    ],
+    [
+        'The secret of success is to be ready when your opportunity comes.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.',
+        'Eric Berne',
+    ],
+    [
+        'Only those who dare to fail greatly can ever achieve greatly.',
+        'Robert Kennedy',
+    ],
+    [
+        'I never get tired of smiling. I\'m just the kind of guy who likes to smile.',
+        'Jason Ritter',
+    ],
+    [
+        'I\'m a really, really optimistic and really, really positive person. My main thing is, \'Enjoy life. Celebrate life.\'',
+        'Luke Bryan',
+    ],
+    [
+        'Put your heart, mind, and soul into even your smallest acts. This is the secret of success.',
+        'Swami Sivananda',
+    ],
+    [
+        'If dysfunction means that a family doesn\'t work, then every family ambles into some arena in which that happens, where relationships get strained or even break down entirely. We fail each other or disappoint each other. That goes for parents, siblings, kids, marriage partners - the whole enchilada.',
+        'Mary Karr',
+    ],
+    [
+        'Viewed freely, the English language is the accretion and growth of every dialect, race, and range of time, and is both the free and compacted composition of all.',
+        'Walt Whitman',
+    ],
+    [
+        'Britishness is just a way of putting things together and a certain don\'t care attitude about clothes. You don\'t care, you just do it and it looks great.',
+        'Vivienne Westwood',
+    ],
+    [
+        'All my books reflect travel adventures of some kind, and all have a soul: a spiritual or mystical underpinning.',
+        'O. R. Melling',
+    ],
+    [
+        'Animals have a much better attitude to life and death than we do. They know when their time has come. We are the ones that suffer when they pass, but it\'s a healing kind of grief that enables us to deal with other griefs that are not so easy to grab hold of.',
+        'Emmylou Harris',
+    ],
+];

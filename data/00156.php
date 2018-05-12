@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'There is nothing deep down inside us except what we have put there ourselves.',
-    1 => 'Richard Rorty',
-  ),
-  1 => 
-  array (
-    0 => 'Only in love are unity and duality not in conflict.',
-    1 => 'Rabindranath Tagore',
-  ),
-  2 => 
-  array (
-    0 => 'I cannot and will not cut my conscience to fit this year\'s fashions.',
-    1 => 'Lillian Hellman',
-  ),
-  3 => 
-  array (
-    0 => 'As kids we\'re not taught how to deal with success; we\'re taught how to deal with failure. If at first you don\'t succeed, try, try again. If at first you succeed, then what?',
-    1 => 'Charlie Sheen',
-  ),
-  4 => 
-  array (
-    0 => 'Graduate life',
-    1 => 'it\'s not just a job, it\'s an indenture.',
-  ),
-  5 => 
-  array (
-    0 => 'The very best thing you can do for the whole world is to make the most of yourself.',
-    1 => 'Wallace D. Wattles',
-  ),
-  6 => 
-  array (
-    0 => 'Why did I want to win? because I didn\'t want to lose!',
-    1 => 'Max Schmelling',
-  ),
-  7 => 
-  array (
-    0 => 'Success is always temporary. When all is said and one, the only thing you\'ll have left is your character.',
-    1 => 'Vince Gill',
-  ),
-  8 => 
-  array (
-    0 => 'Clear your mind of can\'t.',
-    1 => 'Samuel Johnson',
-  ),
-  9 => 
-  array (
-    0 => 'Work is either fun or drudgery. It depends on your attitude. I like fun.',
-    1 => 'Thomas Jefferson',
-  ),
-  10 => 
-  array (
-    0 => 'There are two ways to be fooled. One is to believe what isn\'t true. The other is to refuse to accept what is true.',
-    1 => 'Søren Kierkegaard',
-  ),
-  11 => 
-  array (
-    0 => 'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
-    1 => 'Gabrielle Aplin',
-  ),
-  12 => 
-  array (
-    0 => 'To be, or what?',
-    1 => 'Sylvester Stallone',
-  ),
-  13 => 
-  array (
-    0 => 'Welcome to the human race, with its wars, disease and brutality.',
-    1 => 'Chrissie Hynde (The Pretenders), "Show Me"',
-  ),
-  14 => 
-  array (
-    0 => 'Every day the bucket a-go a well, one day the bottom a-go drop out.',
-    1 => 'Bob Marley',
-  ),
-  15 => 
-  array (
-    0 => 'A friend is a person with whom I may be sincere. Before him, I may think aloud.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  16 => 
-  array (
-    0 => 'If there were no night, we would not appreciate the day, nor could we see the stars and the vastness of the heavens. We must partake of the bitter with the sweet. There is a divine purpose in the adversities we encounter every day. They prepare, they purge, they purify, and thus they bless.',
-    1 => 'James E. Faust',
-  ),
-  17 => 
-  array (
-    0 => 'Sometimes when learning comes before experience it doesn\'t make sense right away.',
-    1 => 'Richard David Bach',
-  ),
-  18 => 
-  array (
-    0 => 'When the character of a man is not clear to you, look at his friends.',
-    1 => 'Japanese Proverb',
-  ),
-  19 => 
-  array (
-    0 => 'Egotism is the anesthetic given by a kindly nature to relieve the pain of being a damned fool.',
-    1 => 'Bellamy Brooks',
-  ),
-  20 => 
-  array (
-    0 => 'It is not so much the example of others we imitate as the reflection of ourselves in their eyes and the echo of ourselves in their words.',
-    1 => 'Eric Hoffer',
-  ),
-  21 => 
-  array (
-    0 => 'Learn to get in touch with the silence within yourself, and know that everything in life has purpose. There are no mistakes, no coincidences. All events are blessings given to us to learn from.',
-    1 => 'Elisabeth Kübler-Ross',
-  ),
-  22 => 
-  array (
-    0 => 'I never wake up today with yesterday\'s problems.',
-    1 => 'Anthony Saleh',
-  ),
-  23 => 
-  array (
-    0 => 'The only time success comes before work is in dictionary.',
-    1 => 'Harvey Specter',
-  ),
-  24 => 
-  array (
-    0 => 'Live as if you were to die tomorrow. Learn as if you were to live forever.',
-    1 => 'Mohandas Karamchand Gandhi',
-  ),
-);
+return [
+    [
+        'I understand what\'s it like to work all week and on Friday night just want to go and leave your brain at the door, buy some popcorn and be thrilled by something.',
+        'Don Cheadle',
+    ],
+    [
+        'I am proud to have been born in Iowa. Through the eyes of a ten-year-old boy, it was a place of adventure and daily discoveries - the wonder of the growing crops, the excitements of the harvest, the journeys to the woods for nuts and hunting, the joys of snowy winters, the comfort of the family fireside, of good food and tender care.',
+        'Herbert Hoover',
+    ],
+    [
+        'That\'s my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard.',
+        'Joe Rogan',
+    ],
+    [
+        'Because of your smile, you make life more beautiful.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'Pay attention to the beauty surrounding you.',
+        'Anne Lamott',
+    ],
+    [
+        'I\'m a big fan of the laceless Converse for travel, with cute jeans, and throw on a little jacket, and you look presentable.',
+        'Melissa Rivers',
+    ],
+    [
+        'There is never just one thing that leads to success for anyone. I feel it always a combination of passion, dedication, hard work, and being in the right place at the right time.',
+        'Lauren Conrad',
+    ],
+    [
+        'Chicken, brown rice, and veggies is a great healthy dinner option. It\'s full of whole grains and protein, and will keep you full for a long time.',
+        'Mia Hamm',
+    ],
+    [
+        'Barack Obama\'s inspirational whoosh to the presidency in 2008 was unusual. Most campaigns are less exhilarating; indeed, they are downright disappointing - until someone wins.',
+        'Joe Klein',
+    ],
+    [
+        'As governor, I will always be willing to work with people who have ideas to offer and are ready to roll up their sleeves. That kind of teamwork will build a New Hampshire that will lead the nation and compete with the world. Together, we will help our businesses grow and build a stronger economy on a vision of innovation and growth.',
+        'Maggie Hassan',
+    ],
+    [
+        'A mountain is composed of tiny grains of earth. The ocean is made up of tiny drops of water. Even so, life is but an endless series of little details, actions, speeches, and thoughts. And the consequences whether good or bad of even the least of them are far-reaching.',
+        'Bob Marley',
+    ],
+    [
+        'If the world could remain within a frame like a painting on the wall, I think we\'d see the beauty then and stand staring in awe.',
+        'Conor Oberst',
+    ],
+    [
+        'We know we cannot underestimate the importance of emergency planning in our region, nor can we assume we\'ll have ample warning time. If an earthquake or terrorist attack hits, we won\'t necessarily have advance alerts or opportunities to double- and triple-check our plans.',
+        'Ellen Tauscher',
+    ],
+    [
+        'I was a vegetarian until I started leaning toward the sunlight.',
+        'Rita Rudner',
+    ],
+    [
+        'Never floss with a stranger.',
+        'Joan Rivers',
+    ],
+    [
+        'Dreams have only one owner at a time. That\'s why dreamers are lonely.',
+        'Erma Bombeck',
+    ],
+    [
+        'Tell me not of joy: there\'s none Now my little sparrow\'s gone; He, just as you, Would toy and woo, He would chirp and flatter me, He would hang the wing awhile, Till at length he saw me smile, Lord! how sullen he would be!',
+        'William Cartwright',
+    ],
+    [
+        'I really believe that everyone has a talent, ability, or skill that he can mine to support himself and to succeed in life.',
+        'Dean Koontz',
+    ],
+    [
+        'Don\'t time travel into the past, roaming through the nuances as if they can change. Don\'t bookmark pages you\'ve already read.',
+        'James Altucher',
+    ],
+    [
+        'You have to believe in yourself.',
+        'Sun Tzu',
+    ],
+    [
+        'The only Zen you find on the tops of mountains is the Zen you bring up there.',
+        'Robert Pirsig',
+    ],
+    [
+        'Anyone who says he can see through women is missing a lot.',
+        'Groucho Marx',
+    ],
+    [
+        'I like to travel any chance I get, even if it\'s just a local vacation to San Diego or Palm Springs or wherever. I just like to get out and do stuff and see the world.',
+        'Christa B. Allen',
+    ],
+    [
+        'Riding a bicycle is the summit of human endeavour - an almost neutral environmental effect coupled with the ability to travel substantial distances without disturbing anybody. The bike is the perfect marriage of technology and human energy.',
+        'Jeremy Corbyn',
+    ],
+    [
+        'The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you\'re being self-indulgent.',
+        'Paul Graham',
+    ],
+];

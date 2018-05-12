@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Dawn, n.:
-        The time when men of reason go to bed.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  1 => 
-  array (
-    0 => 'The keys to brand success are self-definition, transparency, authenticity and accountability.',
-    1 => 'Simon Mainwaring',
-  ),
-  2 => 
-  array (
-    0 => 'Virtue is bold, and goodness never fearful.',
-    1 => 'William Shakespeare',
-  ),
-  3 => 
-  array (
-    0 => 'Whatever the mind can conceive and believe, it can achieve.',
-    1 => 'Napoleon Hill',
-  ),
-  4 => 
-  array (
-    0 => 'Everyone who achieves success in a great venture, solves each problem as they came to it. They helped themselves. And they were helped through powers known and unknown to them at the time they set out on their voyage. They keep going regardless of the obstacles they met.',
-    1 => 'W. Clement Stone',
-  ),
-  5 => 
-  array (
-    0 => 'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
-    1 => 'George Horace Lorimer',
-  ),
-  6 => 
-  array (
-    0 => 'Never be afraid to try something new. Remember: An amateur built the Ark',
-    1 => 'professionals built the Titanic.',
-  ),
-  7 => 
-  array (
-    0 => 'You must be the change you wish to see in the world.',
-    1 => 'Mahatma Gandhi',
-  ),
-  8 => 
-  array (
-    0 => 'Man is only truly great when he acts from the passions.',
-    1 => 'Benjamin Disraeli',
-  ),
-  9 => 
-  array (
-    0 => 'I find that the harder I work, the more luck I seem to have.',
-    1 => 'Thomas Jefferson',
-  ),
-  10 => 
-  array (
-    0 => 'Space is big. You just won\'t believe how vastly, hugely, mind- bogglingly big it is. I mean, you may think it\'s a long way down the road to the chemist\'s, but that\'s just peanuts to space.',
-    1 => '"The Hitchhiker\'s Guide to the Galaxy"',
-  ),
-  11 => 
-  array (
-    0 => 'I find the great thing in this world is not so much where we stand, as in what direction we are moving... we must sail sometimes with the wind and sometimes against it... but we must sail and not drift nor lie at anchor.',
-    1 => 'Oliver Wendell Holmes, Sr.',
-  ),
-  12 => 
-  array (
-    0 => 'I\'m making wine at home, but I make it out of raisins, so it\'ll be aged automatically.',
-    1 => 'Steven Wright',
-  ),
-  13 => 
-  array (
-    0 => 'Success is walking from failure to failure with no loss of enthusiasm.',
-    1 => 'Winston Churchill',
-  ),
-  14 => 
-  array (
-    0 => 'Success is how high you bounce when you hit bottom.',
-    1 => 'George S. Patton',
-  ),
-  15 => 
-  array (
-    0 => 'Never apologize for showing feeling. When you do so, you apologize for the truth.',
-    1 => 'Benjamin Disraeli',
-  ),
-  16 => 
-  array (
-    0 => 'The only person who can really motivate you is you.',
-    1 => 'Shaquille "Shaq" O\'Neal',
-  ),
-  17 => 
-  array (
-    0 => 'If you fell down yesterday, stand up today.',
-    1 => 'H. G. Wells',
-  ),
-  18 => 
-  array (
-    0 => 'The soul was never put in the body to stand still.',
-    1 => 'John Webster',
-  ),
-  19 => 
-  array (
-    0 => 'The more man meditates upon good thoughts, the better will be his world and the world at large.',
-    1 => 'Confucius',
-  ),
-  20 => 
-  array (
-    0 => 'They learn tolerance for others\' faults through our tolerance of their own.',
-    1 => 'Cathy Ridner Tempelsman',
-  ),
-  21 => 
-  array (
-    0 => 'This fork in the road happens over a hundred times a day, and it\'s the choices that you make that will determine the shape of your life.',
-    1 => 'Liz Murray',
-  ),
-  22 => 
-  array (
-    0 => 'It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.',
-    1 => 'Proverb',
-  ),
-  23 => 
-  array (
-    0 => 'You can\'t build a reputation on what you are going to do.',
-    1 => 'Henry Ford',
-  ),
-  24 => 
-  array (
-    0 => 'Maybe the Fountain of Youth isn\'t a fountain at all. Maybe it\'s a way of looking at things. A way of thinking.',
-    1 => 'Charles Whitley',
-  ),
-);
+return [
+    [
+        'I just try to be the best I can, but I\'m human.',
+        'Selena Gomez',
+    ],
+    [
+        'To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.',
+        'Johannes Gaertner',
+    ],
+    [
+        'When one tugs at a single thing in nature, he finds it attached to the rest of the world.',
+        'John Muir',
+    ],
+    [
+        'For myself, personally, I am never really aware of timing or anything because I am passionate about what I do, so I have found that if you really love what you do, then time flies.',
+        'Colm Wilkinson',
+    ],
+    [
+        'It seems to be a law of nature, inflexible and inexorable, that those who will not risk cannot win.',
+        'John Paul Jones',
+    ],
+    [
+        'Sexiness wears thin after a while and beauty fades, but to be married to a man who makes you laugh every day, ah, now that\'s a real treat.',
+        'Joanne Woodward',
+    ],
+    [
+        'Lead us not into temptation. Just tell us where it is; we\'ll find it.',
+        'Sam Levenson',
+    ],
+    [
+        'Badminton is not only about winning. What is important to me is about playing hard, doing my best and putting up a good show for the spectators.',
+        'Lin Dan',
+    ],
+    [
+        'As you walk in God\'s divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.',
+        'Joseph Prince',
+    ],
+    [
+        'The true secret of happiness lies in taking a genuine interest in all the details of daily life.',
+        'Confucius',
+    ],
+    [
+        'If you spend your whole life waiting for the storm, you\'ll never enjoy the sunshine.',
+        'Michael Jordan',
+    ],
+    [
+        'I wasn\'t even 20 at the time, but it taught me something about drugs. They can take a good man, a warm, funny, loving family man, and turn him into a loser and worse.',
+        'Michael Bergin',
+    ],
+    [
+        'When I\'m on stage, it\'s really intense. My mind is going a million miles an hour, trying to remember my act, trying to say it all the right way. It\'s funny how different it looks and how it\'s happening. There are three Fellini circuses in my head, and outwardly it looks like I\'m going to get a bagel.',
+        'Steven Wright',
+    ],
+    [
+        'I\'d like to dial it back 5% or 10% and try to have a vacation that\'s not just e-mail with a view.',
+        'Elon Musk',
+    ],
+    [
+        'Whenever you fall, pick something up.',
+        'Oswald Avery',
+    ],
+    [
+        'As my family story shows, Latinos have been a blessing for USA for many generations. The future of America depends in part on the success of the Latino community, and this opportunity is just one more signifier of that.',
+        'Julian Castro',
+    ],
+    [
+        'The beauty of Maine is such that you can\'t really see it clearly while you live there. But now that I\'ve moved away, with each return it all becomes almost hallucinatory: the dark blue water, the rocky coast with occasional flashes of white sand, the jasper stone beaches along the coast, the pine and fir forests somehow vivid in their stillness.',
+        'Alexander Chee',
+    ],
+    [
+        'I have this necklace I always wear. I collect pendants from people I love; my best friends and members of my family have all given me one, and I put them on this chain so no matter where I am they\'re always with me.',
+        'Lake Bell',
+    ],
+    [
+        'Part of the secret of a success in life is to eat what you like and let the food fight it out inside.',
+        'Mark Twain',
+    ],
+    [
+        'All the men in my family were bearded, and most of the women.',
+        'W. C. Fields',
+    ],
+    [
+        'Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.',
+        'Lao Tzu',
+    ],
+    [
+        'The definition of success to me is not necessarily a price tag, not fame, but having a good life, and being able to say I did the right thing at the end of the day.',
+        'Jeremy Luke',
+    ],
+    [
+        'I\'m such a girl for the living room. I really like to stay in my nest and not move. I travel in my mind, and that that\'s a rigorous state of journeying for me. My body isn\'t that interested in moving from place to place.',
+        'bell hooks',
+    ],
+    [
+        "Ten years from now, make sure you can say that you chose your life, you didn\u{92}t settle for it.",
+        'Mandy Hale',
+    ],
+    [
+        'We know from science that nothing in the universe exists as an isolated or independent entity.',
+        'Margaret Wheatley',
+    ],
+];

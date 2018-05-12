@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Compassion is the antitoxin of the soul: where there is compassion even the most poisonous impulses remain relatively harmless.',
-    1 => 'Eric Hoffer',
-  ),
-  1 => 
-  array (
-    0 => 'Enthusiasm is the greatest asset in the world. It beats money, power, and influence.',
-    1 => 'Henry Chester',
-  ),
-  2 => 
-  array (
-    0 => 'It is not what he has, or even what he does which expresses the worth of a man, but what he is.',
-    1 => 'Henri-Frédéric Amiel',
-  ),
-  3 => 
-  array (
-    0 => '\'Chance\' is just a word expressing ignorance.',
-    1 => 'Richard Dawkins',
-  ),
-  4 => 
-  array (
-    0 => 'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  5 => 
-  array (
-    0 => 'Success is getting what you want. Happiness is liking what you get.',
-    1 => 'H. Jackson Brown, Jr.',
-  ),
-  6 => 
-  array (
-    0 => 'The shell must break before the bird can fly.',
-    1 => 'Alfred, Lord Tennyson',
-  ),
-  7 => 
-  array (
-    0 => 'As long as war is regarded as wicked, it will always have its fascination. When it is looked upon as vulgar, it will cease to be popular.',
-    1 => 'Oscar Wilde',
-  ),
-  8 => 
-  array (
-    0 => 'If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.',
-    1 => 'Calvin Coolidge',
-  ),
-  9 => 
-  array (
-    0 => 'People should pursue what they\'re passionate about. That will make them happier than pretty much anything else.',
-    1 => 'Elon Musk',
-  ),
-  10 => 
-  array (
-    0 => 'The success of any stand-up act comes out of life experience.',
-    1 => 'Howie Mandel',
-  ),
-  11 => 
-  array (
-    0 => 'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
-    1 => 'Smokey Robinson',
-  ),
-  12 => 
-  array (
-    0 => 'Doubts and jealousies often beget the facts they fear.',
-    1 => 'Thomas Jefferson',
-  ),
-  13 => 
-  array (
-    0 => 'Reach for it. Push yourself as far as you can.',
-    1 => 'Christa McAuliffe',
-  ),
-  14 => 
-  array (
-    0 => 'Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.',
-    1 => 'F. Scott Fiztgerald',
-  ),
-  15 => 
-  array (
-    0 => 'There are two ways of spreading light: to be the candle or the mirror that reflects it.',
-    1 => 'Edith Wharton',
-  ),
-  16 => 
-  array (
-    0 => 'Life is like riding a bicycle. To keep your balance you must keep moving.',
-    1 => 'Albert Einstein',
-  ),
-  17 => 
-  array (
-    0 => 'The supreme art of war is to subdue the enemy without fighting.',
-    1 => 'Sun Tzu',
-  ),
-  18 => 
-  array (
-    0 => 'The very spring and root of honesty and virtue lie in good education.',
-    1 => 'Plutarch',
-  ),
-  19 => 
-  array (
-    0 => 'Wherever you are - be all there.',
-    1 => 'Jim Elliot',
-  ),
-  20 => 
-  array (
-    0 => 'There is no security on this earth; there is only opportunity.',
-    1 => 'Douglas MacArthur',
-  ),
-  21 => 
-  array (
-    0 => 'To bear trials with a calm mind robs misfortune of its strength and burden.',
-    1 => 'Seneca',
-  ),
-  22 => 
-  array (
-    0 => 'I can\'t change the direction of the wind, but I can adjust my sails to always reach my destination.',
-    1 => 'Jimmy Dean',
-  ),
-  23 => 
-  array (
-    0 => 'Humility leads to strength and not to weakness. It is the highest form of self-respect to admit mistakes and to make amends for them.',
-    1 => 'John J. McCloy',
-  ),
-  24 => 
-  array (
-    0 => 'If you know your goal and work for it you will reach the peak.',
-    1 => 'Jounayet Rahman',
-  ),
-);
+return [
+    [
+        'Always remember that striving and struggle precede success, even in the dictionary.',
+        'Sarah Ban Breathnach',
+    ],
+    [
+        'Life is not measured by the breaths we take, but by the moments that take our breath.',
+        '',
+    ],
+    [
+        'The Viennese wash everything. Where else in the world does the government hire public servants to wash public telephone booths and the glass over traffic lights? Every time I see someone doing these things, I smile like a child.',
+        'Jonathan Carroll',
+    ],
+    [
+        'Close to a billion people - one-eighth of the world\'s population - still live in hunger. Each year 2 million children die through malnutrition. This is happening at a time when doctors in Britain are warning of the spread of obesity. We are eating too much while others starve.',
+        'Jonathan Sacks',
+    ],
+    [
+        'I can handle the craziness some of the time, maybe most of the time. But I know I can\'t handle it all of the time.',
+        'Chris Evans',
+    ],
+    [
+        'Women with low self-esteem love bad boys. Women who have work to do love bad boys. Women who love themselves love good men.',
+        'Tracy McMillan',
+    ],
+    [
+        'If you have a friend or family member with breast cancer, try not to look at her with \'sad eyes.\' Treat her like you always did; just show a little extra love.',
+        'Hoda Kotb',
+    ],
+    [
+        'And above all things, never think that you\'re not good enough yourself. A man should never think that. My belief is that in life people will take you at your own reckoning.',
+        'Isaac Asimov',
+    ],
+    [
+        'Strength does not come from physical capacity. It comes from an indomitable will.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'The coniferous forests of the Yosemite Park, and of the Sierra in general, surpass all others of their kind in America, or indeed the world, not only in the size and beauty of the trees, but in the number of species assembled together, and the grandeur of the mountains they are growing on.',
+        'John Muir',
+    ],
+    [
+        'Life is too short for long-term grudges.',
+        'Magdalena Neuner',
+    ],
+    [
+        'I just see too many people retire and say, \'I\'m going to take off, travel, spend time with my family\' and they are just miserable. They end up dying. People who work and stay active, and like what they are doing, live longer.',
+        'Terry Bradshaw',
+    ],
+    [
+        'I was raised in a dominantly Filipino family. I didn\'t know I was \'mixed\' until I got older and started asking questions about my grandparents, the origins of our middle and last names. We were kind of textbook Pinoys. A lot of the Filipino stereotypes that were joked about by me and my friends rang very true with my family.',
+        'Vincent Rodriguez III',
+    ],
+    [
+        'I realized I love motivating and I love empowering and I love inspiring people. I did that as an athlete for 18 years, and I am able to do that as a motivational speaker now as well as doing work on television.',
+        'Dominique Dawes',
+    ],
+    [
+        'Young people should travel, and they don\'t. You can\'t know if you don\'t go.',
+        'Quincy Jones',
+    ],
+    [
+        'Success is ... knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others.',
+        'John C. Maxwell',
+    ],
+    [
+        'With the new day comes new strength and new thoughts.',
+        'Eleanor Roosevelt',
+    ],
+    [
+        'Nature is a mutable cloud which is always and never the same.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.',
+        'Anthony Robbins',
+    ],
+    [
+        'I loved all the princess films, and I grew up with them, and I think it\'s really cool how they\'ve changed over the years - how the princesses have become more positive role models right up until \'Frozen.\'',
+        'Lily James',
+    ],
+    [
+        'Be thine own palace, or the world\'s thy jail.',
+        'John Donne',
+    ],
+    [
+        'Of all possible subjects, travel is the most difficult for an artist, as it is the easiest for a journalist.',
+        'W. H. Auden',
+    ],
+    [
+        'We don\'t make mistakes, just happy little accidents.',
+        'Bob Ross',
+    ],
+    [
+        'Foods high in bad fats, sugar and chemicals are directly linked to many negative emotions, whereas whole, natural foods rich in nutrients - foods such as fruits, vegetables, grains and legumes - contribute to greater energy and positive emotions.',
+        'Marilu Henner',
+    ],
+    [
+        'I think that something needs to be weird in order to have a real beauty.',
+        'Carine Roitfeld',
+    ],
+];

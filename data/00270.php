@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'You can\'t have great software without a great team, and most software teams behave like dysfunctional families.',
-    1 => 'Jim McCarthy',
-  ),
-  1 => 
-  array (
-    0 => 'Don\'t be afraid to be amazing.',
-    1 => 'Andy Offutt Irwin',
-  ),
-  2 => 
-  array (
-    0 => 'You can\'t stay in your corner of the forest waiting for others to come to you. You have to go to them sometimes.',
-    1 => 'A. A. Milne',
-  ),
-  3 => 
-  array (
-    0 => 'What is a friend? A single soul dwelling in two bodies.',
-    1 => 'Aristotle',
-  ),
-  4 => 
-  array (
-    0 => 'Success in training the boy depends largely on the Scoutmaster\'s own personal example.',
-    1 => 'Robert Baden-Powell',
-  ),
-  5 => 
-  array (
-    0 => 'I don\'t want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well.',
-    1 => 'Diane Ackerman',
-  ),
-  6 => 
-  array (
-    0 => 'I love inspirational R&B, like Mary J. Blige and Jennifer Hudson. I want to do that. That kind of music stays with you.',
-    1 => 'Ashthon Jones',
-  ),
-  7 => 
-  array (
-    0 => 'The real secret of success is enthusiasm.',
-    1 => 'Walter Chrysler',
-  ),
-  8 => 
-  array (
-    0 => 'The expert in anything was once a beginner.',
-    1 => 'Anonymous',
-  ),
-  9 => 
-  array (
-    0 => 'Success is the sum of small efforts, repeated day-in and day-out.',
-    1 => 'Robert Collier',
-  ),
-  10 => 
-  array (
-    0 => 'My father, Oliver Hynes, was an educator. He was originally just a teacher, a very good one, but then he was promoted to be in charge of education for the entire area. He was always an inspirational teacher. He was my big personal supporter, always coming here for the Tony Awards. My mother, Carmel, was a homemaker.',
-    1 => 'Garry Hynes',
-  ),
-  11 => 
-  array (
-    0 => 'The greatest pleasure in life is doing what people say you cannot do.',
-    1 => 'Walter Bagehot',
-  ),
-  12 => 
-  array (
-    0 => 'Your talent is God\'s gift to you. What you do with it is your gift back to God.',
-    1 => 'Leo Buscaglia',
-  ),
-  13 => 
-  array (
-    0 => 'Be passionate. Be optimistic. Be grateful.',
-    1 => 'Conor McGregor',
-  ),
-  14 => 
-  array (
-    0 => 'To be successful, you have to be out there, you have to hit the ground running, and if you have a good team around you and more than a fair share of luck, you might make something happen. But you certainly cant guarantee it just by following someone elses formula.',
-    1 => 'Richard Branson',
-  ),
-  15 => 
-  array (
-    0 => 'Always desire to learn something useful.',
-    1 => 'Sophocles',
-  ),
-  16 => 
-  array (
-    0 => 'If you find something very difficult to achieve yourself, don\'t imagine it impossible-for anything possible and proper for another person can be achieved as easily by you.',
-    1 => 'Marcus Aurelius',
-  ),
-  17 => 
-  array (
-    0 => 'Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success.',
-    1 => 'Og Mandino',
-  ),
-  18 => 
-  array (
-    0 => 'I am not afraid of tomorrow, for I have seen yesterday and I love today!',
-    1 => 'William Allen White',
-  ),
-  19 => 
-  array (
-    0 => 'We belong to the community. It is not the tailor alone who is the ninth part of a man; it is as much the preacher, and the merchant, and the farmer. Where is this division of labor to end? and what object does it finally serve? No doubt another may also think for me; but it is not therefore desirable that he should do so to the exclusion of my thinking for myself.',
-    1 => 'Henry David Thoreau',
-  ),
-  20 => 
-  array (
-    0 => 'The spiritual journey is individual, highly personal. It can\'t be organized or regulated. It isn\'t true that everyone should follow one path. Listen to your own truth.',
-    1 => 'Ram Dass',
-  ),
-  21 => 
-  array (
-    0 => 'Close all your escape routes, burn all your plan b\'s and get busy doing that dream that only you were built to do.',
-    1 => 'Robin Sharma',
-  ),
-  22 => 
-  array (
-    0 => 'Civilization is the progress toward a society of privacy.',
-    1 => 'Howard Roark, in Ayn Rand\'s "The Fountainhead"',
-  ),
-  23 => 
-  array (
-    0 => 'Your true success in life begins only when you make the commitment to become excellent at what you do.',
-    1 => 'Brian Tracy',
-  ),
-  24 => 
-  array (
-    0 => 'The truth of the matter is that you always know the right thing to do. The hard part is doing it.',
-    1 => 'H. Norman Schwarzkopf',
-  ),
-);
+return [
+    [
+        'I love things that age well - things that don\'t date, that stand the test of time and that become living examples of the absolute best.',
+        'Giorgio Armani',
+    ],
+    [
+        'The photograph reverses the purpose of travel, which until now had been to encounter the strange and unfamiliar.',
+        'Marshall McLuhan',
+    ],
+    [
+        'If I win and get the money, then the Oakland Police department is going to buy a boys\' home, me a house, my family a house, and a Stop Police Brutality Center.',
+        'Tupac Shakur',
+    ],
+    [
+        'As a footballer, you always want to test yourself against the best.',
+        'David Beckham',
+    ],
+    [
+        'I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... such emotions make a man forget food, sleep, friends, love, everything.',
+        'Nikola Tesla',
+    ],
+    [
+        'A good plan today is better than a perfect plan tomorrow.',
+        '',
+    ],
+    [
+        'Beauty is also submitted to the taste of time, so a beautiful woman from the Belle Epoch is not exactly the perfect beauty of today, so beauty is something that changes with time.',
+        'Karl Lagerfeld',
+    ],
+    [
+        'Life is difficult for everyone; everyone has bad days. Everyone has trouble in their life, because it doesn\'t matter how rich you are: Sickness and trouble and worry and love, these things will mess with you at every level of life.',
+        'Robin Williams',
+    ],
+    [
+        'I talked about my family, my family\'s so important.',
+        'Jim Valvano',
+    ],
+    [
+        'I didn\'t consider myself a fashion designer at all at the time of punk. I was just using fashion as a way to express my resistance and to be rebellious. I came from the country, and by the time I got to London, I considered myself to be very stupid. It was my ambition to understand the world I live in.',
+        'Vivienne Westwood',
+    ],
+    [
+        'And to me, fame is not a positive thing. The idea of being famous is a lot better than the reality. It\'s fantastic when you go to premieres and people cheer you, but it\'s not real. And it\'s totally not my approach to get my name on a club door just because I can.',
+        'Tom Felton',
+    ],
+    [
+        'As you think, so shall you become.',
+        'Bruce Lee',
+    ],
+    [
+        'How can any person with a myopic view and harbouring intense parochial attitude even think of leading the nation?',
+        'Sharad Pawar',
+    ],
+    [
+        'Work harder on yourself than you do on your job.',
+        'Jim Rohn',
+    ],
+    [
+        'My fans are honestly so unique and so similar. Wherever I travel, they are so, so different but so the same.',
+        'Lilly Singh',
+    ],
+    [
+        'That attitude and toughness that we want to play with, that, to me, is the most critical thing.',
+        'Dan Quinn',
+    ],
+    [
+        'I want to challenge myself to see where my limit is and experiment with a lot of different films. A lot of artists from Asia focus too much on their Asian background. I don\'t want to let go of my background, but to be a success in the U.S., which is my goal, I realize I need to surround myself with American filmmakers and producers.',
+        'Rain',
+    ],
+    [
+        'Sure there is a sexy attitude, and when they say, \'Give me a sexy look with your eyes,\' you give it to them. It doesn\'t have to relate to the product. People are just drawn to it.',
+        'Lisanne Falk',
+    ],
+    [
+        'Positive health means becoming whole-heartedly engaged with our own health care. It means not outsourcing our health to the health care system. It means getting rid of the fear and paralysis we too often feel, and instead cultivating a sense of agency.',
+        'Jane McGonigal',
+    ],
+    [
+        'Let there be work, bread, water and salt for all.',
+        'Nelson Mandela',
+    ],
+    [
+        'All love comes from the family.',
+        'John Updike',
+    ],
+    [
+        'A rich, robust, well-resourced public education is one of the best routes out of poverty and a pathway to prosperity.',
+        'Randi Weingarten',
+    ],
+    [
+        'I don\'t dislike rappers or hip-hop or people who like it. I went to the Def Jam tour in Manchester in the \'80s when rap was inspirational. Public Enemy were awesome. But it\'s all about status and bling now, and it doesn\'t say anything to me.',
+        'Noel Gallagher',
+    ],
+    [
+        'Nature uses only the longest threads to weave her patterns, so that each small piece of her fabric reveals the organization of the entire tapestry.',
+        'Richard P. Feynman',
+    ],
+    [
+        'People with a sense of humor tend to be less egocentric and more realistic in their view of the world and more humble in moments of success and less defeated in times of travail.',
+        'Bob Newhart',
+    ],
+];

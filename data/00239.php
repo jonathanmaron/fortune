@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'When you come to the edge of all the light you have, and must take a step into the darkness of the unknown believe that one of two things will happen. Either there will be something solid for you to stand on or you will be taught how to fly.',
-    1 => 'Patrick Overton',
-  ),
-  1 => 
-  array (
-    0 => 'It is the formidable character of the species to routinely seek the improbable, the difficult, even the impossible, as a source of pleasure and self-justification. Who would try to write poems, or novels, or paint pictures unless he is an optimist?',
-    1 => 'Lionel Tiger',
-  ),
-  2 => 
-  array (
-    0 => 'I know not age, nor weariness nor defeat.',
-    1 => 'Rose Kennedy',
-  ),
-  3 => 
-  array (
-    0 => 'You can cheat an honest man but not make a fool out of him.',
-    1 => 'Confucius',
-  ),
-  4 => 
-  array (
-    0 => 'Thus they have an idol that they petition for victory in war; another for success in their labors; and so for everything in which they seek or desire prosperity, they have their idols, which they honor and serve.',
-    1 => 'Hernan Cortes',
-  ),
-  5 => 
-  array (
-    0 => 'Happiness is not in our circumstances, but in ourselves. It is not something we see, like a rainbow, or feel, like the heat of the fire. Happiness is something we are.',
-    1 => 'John B. Sheerin',
-  ),
-  6 => 
-  array (
-    0 => 'Wonder rather than doubt is the root of all knowledge.',
-    1 => 'Abraham Joshua Heschel',
-  ),
-  7 => 
-  array (
-    0 => 'Every man who expresses an honest thought is a soldier in the army of intellectual liberty.',
-    1 => 'Robert G. Ingersoll',
-  ),
-  8 => 
-  array (
-    0 => 'I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I\'ve bought a big bat. I\'m all ready you see. Now my troubles are going to have troubles with me!',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  9 => 
-  array (
-    0 => 'There is nothing so deadly as not to hold up to people the opportunity to do great and wonderful things, if we wish to stimulate them in an active way.',
-    1 => 'Dr. Harold Urey, Nobel Laureate in chemistry',
-  ),
-  10 => 
-  array (
-    0 => 'Give your dreams all you\'ve got and you\'ll be amazed at the energy that comes out of you.',
-    1 => 'William James',
-  ),
-  11 => 
-  array (
-    0 => 'If, after hearing my songs, just one human being is inspired to say something nasty to a friend, or perhaps to strike a loved one, it will all have been worth the while.',
-    1 => 'Tom Lehrer',
-  ),
-  12 => 
-  array (
-    0 => 'Sometimes, a grand adventure begins when you lick the evil.',
-    1 => 'Joe Pizzirusso',
-  ),
-  13 => 
-  array (
-    0 => 'Put your heart, mind, intellect and soul even to your smallest acts. This is the secret of success.',
-    1 => 'Swami Sivananda',
-  ),
-  14 => 
-  array (
-    0 => 'The battle of life is, in most cases, fought uphill; and to win it without a struggle were perhaps to win it without honor. If there were no difficulties there would be no success; if there were nothing to struggle for, there would be nothing to be achieved.',
-    1 => 'Samuel Smiles',
-  ),
-  15 => 
-  array (
-    0 => 'Creativity doesn\'t wait for that perfect moment. It fashions its own perfect moments out of ordinary ones.',
-    1 => 'Bruce Garrabrandt',
-  ),
-  16 => 
-  array (
-    0 => 'Success is the most important to many, to me it\'s just a bonus.',
-    1 => 'Lucas Grabeel',
-  ),
-  17 => 
-  array (
-    0 => 'You will never win if you never begin.',
-    1 => 'Helen Rowland',
-  ),
-  18 => 
-  array (
-    0 => 'All Birds find shelter during a rain.
-But Eagle avoids rain by flying above the Clouds.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  19 => 
-  array (
-    0 => 'Most people never run far enough on their first wind to find out they\'ve got a second. Give your dreams all you\'ve got and you\'ll be amazed at the energy that comes out of you.',
-    1 => 'William James',
-  ),
-  20 => 
-  array (
-    0 => 'Commitment in the face of conflict produces character.',
-    1 => 'Unknown',
-  ),
-  21 => 
-  array (
-    0 => 'Criticism is inevitable—unless you do nothing important with your life.',
-    1 => 'The Minimalists',
-  ),
-  22 => 
-  array (
-    0 => 'Success is 99% failure.',
-    1 => 'Soichiro Honda',
-  ),
-  23 => 
-  array (
-    0 => 'Not all those who wander are lost.',
-    1 => 'J. R. R. Tolkien',
-  ),
-  24 => 
-  array (
-    0 => 'You can\'t cross the sea merely by standing and staring at the water.',
-    1 => 'Rabindranath Tagore',
-  ),
-);
+return [
+    [
+        'The inspiration for my Vines comes from thinking about funny and relatable experiences from my daily life.',
+        'Lele Pons',
+    ],
+    [
+        'Pain and death are part of life. To reject them is to reject life itself.',
+        'Muhammad Iqbal',
+    ],
+    [
+        'Mozart\'s music is so pure and beautiful that I see it as a reflection of the inner beauty of the universe.',
+        'Albert Einstein',
+    ],
+    [
+        'There are people who are able to plan their career, their future, but I\'ve never had any talent for that. I just do things and hope for the best. Say yes, take a chance, and sometimes it\'s terrific and sometimes it\'s not.',
+        'Christopher Walken',
+    ],
+    [
+        'Sometimes, wearing a scarf and a polo coat and no makeup and with a certain attitude of walking, I go shopping or just look at people living. But then, you know, there will be a few teenagers who are kind of sharp, and they\'ll say, \'Hey, just a minute. You know who I think that is?\' And they\'ll start tailing me. And I don\'t mind.',
+        'Marilyn Monroe',
+    ],
+    [
+        'For everything bad, there\'s a million really exciting things, whether it\'s someone puts out a really great book, there\'s a new movie, there\'s a new detective, the sky is unbelievably golden, or you have the best cup of coffee you ever had in your life.',
+        'Patti Smith',
+    ],
+    [
+        'It\'s pretty scary to know how quickly time flies.',
+        'James Wan',
+    ],
+    [
+        'Having a second chance makes you want to work even harder.',
+        'Tia Mowry',
+    ],
+    [
+        'Things do not change; we change.',
+        'Henry Thoreau',
+    ],
+    [
+        'The best luck of all is the luck you make for yourself.',
+        'Douglas MacArthur',
+    ],
+    [
+        'One who is kind is sympathetic and gentle with others. He is considerate of others\' feelings and courteous in his behavior. He has a helpful nature. Kindness pardons others\' weaknesses and faults. Kindness is extended to all - to the aged and the young, to animals, to those low of station as well as the high.',
+        'Ezra Taft Benson',
+    ],
+    [
+        'Each day can be one of triumph if you keep up your interests.',
+        'George Matthew Adams',
+    ],
+    [
+        'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
+        'Jeffrey Gitomer',
+    ],
+    [
+        'Creativity is putting your imagination to work, and it\'s produced the most extraordinary results in human culture.',
+        'Ken Robinson',
+    ],
+    [
+        'Any time you have defensive ends going above you in the draft, when you know you put up numbers that were equal to better, you just have to use that as motivation. Whenever you\'re the underdog, you have to have the right attitude and just go out there and be yourself; just play.',
+        'Justin Tuck',
+    ],
+    [
+        'Actually being funny is mostly telling the truth about things.',
+        'Bernard Sahlins',
+    ],
+    [
+        'I believe a leaf of grass is no less than the journey-work of the stars.',
+        'Walt Whitman',
+    ],
+    [
+        'For me, life is about being positive and hopeful, choosing to be joyful, choosing to be encouraging, choosing to be empowering.',
+        'Billy Porter',
+    ],
+    [
+        'In a certain sense, a writer is an exile, an outsider, always reporting on things, and it is part of his life to keep on the move. Travel is natural.',
+        'James Salter',
+    ],
+    [
+        'Old age and the passage of time teach all things.',
+        'Sophocles',
+    ],
+    [
+        'Let me recommend the best medicine in the world: a long journey, at a mild season, through a pleasant country, in easy stages.',
+        'James Madison',
+    ],
+    [
+        'I like to think I\'m a pretty good friend. I love having a good time, and I enjoy being able to share those good times with others.',
+        'Jacob Batalon',
+    ],
+    [
+        'I\'ve always had that attitude that things happen for a reason.',
+        'Ryne Sandberg',
+    ],
+    [
+        'Be like a postage stamp. Stick to it until you get there',
+        'Bob Proctor',
+    ],
+    [
+        'I think there should be a good balance between being a good student and being able to enjoy your high school life.',
+        'Danny Meyer',
+    ],
+];

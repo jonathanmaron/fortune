@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I believe in the equality of man; and I believe that religious duties consist in doing justice, loving mercy, and endeavoring to make our fellow-creatures happy.',
-    1 => 'Thomas Paine',
-  ),
-  1 => 
-  array (
-    0 => 'An imagination is a powerful tool. It can tint memories of the past, shade perceptions of the present, or paint a future so vivid that it can entice...or terrify, all depending upon how we conduct ourselves today.',
-    1 => 'James Robert "Jim" Davis',
-  ),
-  2 => 
-  array (
-    0 => 'I think it\'s the duty of the comedian to find out where the line is drawn and cross it deliberately.',
-    1 => 'George Carlin',
-  ),
-  3 => 
-  array (
-    0 => 'The future does not belong to those who are content with today, apathetic toward common problems and their fellow man alike, timid and fearful in the face of bold projects and new ideas. Rather, it will belong to those who can blend passion, reason and courage in a personal commitment to [their] ideals.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  4 => 
-  array (
-    0 => 'Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.',
-    1 => 'William Blake',
-  ),
-  5 => 
-  array (
-    0 => 'Sex is the mathematics urge sublimated.',
-    1 => 'M. C. Reed.',
-  ),
-  6 => 
-  array (
-    0 => 'Never trouble another for what you can do for yourself.',
-    1 => 'Thomas Jefferson',
-  ),
-  7 => 
-  array (
-    0 => 'The computer can\'t tell you the emotional story. It can give you the exact mathematical design, but what\'s missing is the eyebrows.',
-    1 => 'Frank Zappa',
-  ),
-  8 => 
-  array (
-    0 => 'Show me your hands. Do they have scars from giving? Show me your feet. Are they wounded in service? Show me your heart. Have you left a place for divine love?',
-    1 => 'Fulton J. Sheen',
-  ),
-  9 => 
-  array (
-    0 => 'My belief is that personal freedom cannot grow beyond personal responsibility. The more people that learn to be fully accountable for their lives, the more freedom each of us can enjoy and the more fulfilling all of our lives will be.',
-    1 => 'Ross Parmenter',
-  ),
-  10 => 
-  array (
-    0 => 'Success is not final, failure is not fatal: it is the courage to continue that counts.',
-    1 => 'Sir Winston Churchill',
-  ),
-  11 => 
-  array (
-    0 => 'What really distinguishes this generation in all countries from earlier generations...is its determination to act, its joy in action, the assurance of being able to change things by one\'s own efforts.',
-    1 => 'Buddha',
-  ),
-  12 => 
-  array (
-    0 => 'People are the key to success or extraordinary success.',
-    1 => 'Azim Premji',
-  ),
-  13 => 
-  array (
-    0 => 'I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.',
-    1 => 'Nelson Mandela',
-  ),
-  14 => 
-  array (
-    0 => 'The love in your heart wasn\'t put there to stay. Love isn\'t love \'til you give it away.',
-    1 => 'Oscar Hammerstein',
-  ),
-  15 => 
-  array (
-    0 => 'To understand all is to forgive all.',
-    1 => 'French Proverb',
-  ),
-  16 => 
-  array (
-    0 => 'The science of today is the technology of tomorrow',
-    1 => 'Edward Teller',
-  ),
-  17 => 
-  array (
-    0 => 'Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you.',
-    1 => 'Nathaniel Hawthorne',
-  ),
-  18 => 
-  array (
-    0 => 'My answer is, bring them on.',
-    1 => 'George W. Bush, on Iraqi militants attacking U.S. forces;
-           Washington, D.C.; July 3, 2003',
-  ),
-  19 => 
-  array (
-    0 => 'If you really look closely, most overnight successes took a long time.',
-    1 => 'Steve Jobs',
-  ),
-  20 => 
-  array (
-    0 => 'As to Jesus of Nazareth...I think the system of Morals and his Religion, as he left them to us, the best the World ever saw or is likely to see; but I apprehend it has received various corrupting Changes, and I have, with most of the present Dissenters in England, some doubts as to his divinity.',
-    1 => 'Benjamin Franklin',
-  ),
-  21 => 
-  array (
-    0 => 'Self-esteem creates natural highs. Knowing that you\'re lovable helps you to love more. Knowing that you\'re important helps you to make a difference to to others. Knowing that you are capable empowers you to create more. Knowing that you\'re valuable and that you have a special place in the universe is a serene spiritual joy in itself.',
-    1 => 'Louise Hart',
-  ),
-  22 => 
-  array (
-    0 => 'A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.',
-    1 => 'James Allen',
-  ),
-  23 => 
-  array (
-    0 => 'Believe you can and you\'re halfway there.',
-    1 => 'Theodore Roosevelt',
-  ),
-  24 => 
-  array (
-    0 => 'The way you get meaning into your life is to devote yourself to loving others, devote yourself to your community around you, and devote yourself to creating something that gives you purpose and meaning.',
-    1 => 'Oliver Wendell Holmes, Sr.',
-  ),
-);
+return [
+    [
+        'The life of the dead is placed in the memory of the living.',
+        'Confucius',
+    ],
+    [
+        'As long as you have discipline, you can be a success. Discipline is what makes you do everything you need to do.',
+        'Anthony Joshua',
+    ],
+    [
+        'Choose something you like to do. I know it\'s a cliche, and you\'ve heard it over and over. But the reason is, you\'re going to have to work long and hard to achieve any success. You better like it or life is going to be terrible.',
+        'Bill Kurtis',
+    ],
+    [
+        'You get somebody to crack a smile, that\'s a beautiful thing.',
+        'Tracy Morgan',
+    ],
+    [
+        'Even Napoleon had his Watergate.',
+        'Yogi Berra',
+    ],
+    [
+        'There was a great complexity to my father. He was a devoted family man. But, in the same breath, he simply was not suited to an anchored life. He should have been somebody who had a backpack, an old map, a bit of change in his pocket and that was it - roaming the world.',
+        'Christian Bale',
+    ],
+    [
+        'This June, I\'ll travel once again to the Food and Wine Magazine Classic in Aspen, Colorado. For many years, my dear friend Julia Child and I have teamed up to teach classes together at the event; for the past seven years, my daughter, Claudine, has been my cooking partner on stage.',
+        'Jacques Pepin',
+    ],
+    [
+        'If you accept the expectations of others, especially negative ones, then you never will change the outcome.',
+        'Michael Jordan',
+    ],
+    [
+        'If you give a good thing to the world, then over time your karma will be good, and you\'ll receive good.',
+        'Russell Simmons',
+    ],
+    [
+        'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
+        'Milla Jovovich',
+    ],
+    [
+        'I wish to be appreciated not only as a film star but also for the person I am. If I manage to bring a smile on people\'s faces, then I think I\'ll be successful.',
+        'Deepika Padukone',
+    ],
+    [
+        'My family kinda hit the skids. We were experiencing poverty at that point. We all got a job, where the whole family had to work as security guards and janitors. And I just got angry.',
+        'Jim Carrey',
+    ],
+    [
+        'Seeing Michelle Obama\'s bright color choices, and how she made people smile and reinforced Obama\'s platforms of hope and change, was inspiring.',
+        'Lilly Pulitzer',
+    ],
+    [
+        'Learning is a treasure that will follow its owner everywhere',
+        'Chinese proverb',
+    ],
+    [
+        'Humans have a light side and a dark side, and it\'s up to us to choose which way we\'re going to live our lives. Even if you start out on the dark side, it doesn\'t mean you have to continue your journey that way. You always have time to turn it around.',
+        'Taraji P. Henson',
+    ],
+    [
+        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
+        'Trey Anastasio',
+    ],
+    [
+        'When people divorce, it\'s always such a tragedy. At the same time, if people stay together it can be even worse.',
+        'Monica Bellucci',
+    ],
+    [
+        'In the Arctic, the Inuit are saying water and land are the same; they\'re an unbroken unity. In the winter, you travel on the ice because it\'s the linkage and the easiest way, and in the summer, you move around on the water.',
+        'John Ralston Saul',
+    ],
+    [
+        'Properly used, positive reinforcement is extremely powerful.',
+        'B. F. Skinner',
+    ],
+    [
+        'Regardless of what one\'s attitude towards prohibition may be, temperance is something against which, at a time of war, no reasonable protest can be made.',
+        'William Lyon Mackenzie King',
+    ],
+    [
+        'Life is like an ice-cream cone, you have to lick it one day at a time.',
+        'Charles M. Schulz',
+    ],
+    [
+        'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
+        'William Channing',
+    ],
+    [
+        'I tend to head for what\'s amusing because a lot of things aren\'t happy. But usually you can find a funny side to practically anything.',
+        'Maggie Smith',
+    ],
+    [
+        'If you force yourself to smile, within a couple minutes, you feel happy.',
+        'Dean Norris',
+    ],
+    [
+        'One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that ones life has meaning, that one is needed in this world.',
+        'Hannah Senesh',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Stop chasing the money and start chasing the passion.',
-    1 => 'Tony Hsieh',
-  ),
-  1 => 
-  array (
-    0 => 'If men could combine thus earnestly, and patiently, and harmoniously to some really worthy end, what might they not accomplish?',
-    1 => 'Henry David Thoreau',
-  ),
-  2 => 
-  array (
-    0 => 'You stand with the least likely to succeed until success is succeeded by something more valuable: kinship. You stand with the belligerent, the surly and the badly behaved until bad behavior is recognized for the language it is: the vocabulary of the deeply wounded and of those whose burdens are more than they can bear.',
-    1 => 'Greg Boyle',
-  ),
-  3 => 
-  array (
-    0 => 'I see now that one\'s birth is irrelevant. It\'s what you do that determines who you are.',
-    1 => 'Mewtwo',
-  ),
-  4 => 
-  array (
-    0 => 'Hollywood is where if you don\'t have happiness you send out for it.',
-    1 => 'Rex Reed',
-  ),
-  5 => 
-  array (
-    0 => 'There is no success without hardship.',
-    1 => 'Sophocles',
-  ),
-  6 => 
-  array (
-    0 => 'The true test of a person\'s character is how they treat the people in life that they don\'t need.',
-    1 => 'Lee Corso',
-  ),
-  7 => 
-  array (
-    0 => 'The Kennedy Constant: Don\'t get mad',
-    1 => 'get even.',
-  ),
-  8 => 
-  array (
-    0 => 'The spirited horse, which will try to win the race of its own accord, will run even faster if encouraged.',
-    1 => 'Ovid',
-  ),
-  9 => 
-  array (
-    0 => 'Whatever ought to be, can be.',
-    1 => 'James Rouse',
-  ),
-  10 => 
-  array (
-    0 => 'You have been my friend. That in itself is a tremendous thing.',
-    1 => 'Charlotte A. Cavatica',
-  ),
-  11 => 
-  array (
-    0 => 'The winner\'s edge is not in a gifted birth, a high IQ, or in talent. The winner\'s edge is all in the attitude, not aptitude. Attitude is the criterion for success.',
-    1 => 'Denis Waitley',
-  ),
-  12 => 
-  array (
-    0 => 'The wave of the future is not the conquest of the world by a single dogmatic creed but the liberation of the diverse energies of free nations and free men.',
-    1 => 'Oriana Fallaci',
-  ),
-  13 => 
-  array (
-    0 => 'I have found that if you love life, life will love you back.',
-    1 => 'Arthur Rubinstein',
-  ),
-  14 => 
-  array (
-    0 => 'If you have an idea of what you want to do in your future, you must go at it with almost monastic obsession, be it music, the ballet or just a basic degree. You have to go at it single-mindedly and let nothing get in your way.',
-    1 => 'Henry Rollins',
-  ),
-  15 => 
-  array (
-    0 => 'We\'ve been surrounded by images of space our whole lives, from the speculative images of science fiction to the inspirational visions of artists to the increasingly beautiful pictures made possible by complex technologies. But whilst we have an overwhelmingly vivid visual understanding of space, we have no sense of what space sounds like.',
-    1 => 'Honor Harger',
-  ),
-  16 => 
-  array (
-    0 => 'Will the highways on the Internet become more few?',
-    1 => 'George W. Bush, Concord, NH; January 29, 2000',
-  ),
-  17 => 
-  array (
-    0 => 'You must learn from the mistakes of others. You can\'t possibly live long enough to make them all yourself.',
-    1 => 'Sam Levenson',
-  ),
-  18 => 
-  array (
-    0 => 'Though I had success in my research both when I was mad and when I was not, eventually I felt that my work would be better respected if I thought and acted like a \'normal\' person.',
-    1 => 'John Forbes Nash, Jr.',
-  ),
-  19 => 
-  array (
-    0 => 'I learned that inspiration does not always come like a bolt, nor is it kinetic, energetic, striving, but it comes into us slowly and quietly and all the time.',
-    1 => 'Brenda Ueland',
-  ),
-  20 => 
-  array (
-    0 => 'The people who influence you are the people who believe in you.',
-    1 => 'Henry Drummond',
-  ),
-  21 => 
-  array (
-    0 => 'There are no secrets to success. It is the result of preparation, hard work, and learning from failure.',
-    1 => 'Erica Jong',
-  ),
-  22 => 
-  array (
-    0 => 'Arriving at one goal is the starting point to another.',
-    1 => 'John Dewey',
-  ),
-  23 => 
-  array (
-    0 => 'If you can count your money, you don\'t have a billion dollars.',
-    1 => 'J. Paul Getty',
-  ),
-  24 => 
-  array (
-    0 => 'Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.',
-    1 => 'Benjamin Franklin',
-  ),
-);
+return [
+    [
+        'Inner beauty should be the most important part of improving one\'s self.',
+        'Priscilla Presley',
+    ],
+    [
+        'When you have a bad day, a really bad day, try and treat the world better than it treated you.',
+        'Patrick Stump',
+    ],
+    [
+        'The social object of skilled investment should be to defeat the dark forces of time and ignorance which envelope our future.',
+        'John Maynard Keynes',
+    ],
+    [
+        'I sort of understood that when I first started: that you shouldn\'t repeat a success. Very often you\'re going to, and maybe the first time you do, it works. And you love it. But then you\'re trapped.',
+        'Jack Nicholson',
+    ],
+    [
+        'You do not become good by trying to be good, but by finding the goodness that is already within you.',
+        'Eckhart Tolle',
+    ],
+    [
+        'A beautiful bouquet or a long-lasting flowering plant is a traditional gift for women, but I have recommended that both men and women keep fresh flowers in the home for their beauty, fragrance, and the lift they give our spirits.',
+        'Andrew Weil',
+    ],
+    [
+        'With each new day in Africa, a gazelle wakes up knowing he must outrun the fastest lion or perish. At the same time, a lion stirs and stretches, knowing he must outrun the fastest gazelle or starve. It\'s no different for the human race. Whether you consider yourself a gazelle or a lion, you have to run faster than others to survive.',
+        'Mohammed bin Rashid Al Maktoum',
+    ],
+    [
+        'So, where\'s the Cannes Film Festival being held this year?',
+        'Christina Aguilera',
+    ],
+    [
+        'I had gotten to a place where I truly believed everything I was called: \'not sexy,\' \'not funny,\' \'too intense,\' desperate.\' All those labels they gave me, I took them because there wasn\'t a trace of my true self left.',
+        'Naomi Watts',
+    ],
+    [
+        'The best thing I did was to choose the right heroes.',
+        'Warren Buffett',
+    ],
+    [
+        'We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.',
+        'Buddha',
+    ],
+    [
+        'Perseverance is failing 19 times and succeeding the 20th.',
+        'Julie Andrews',
+    ],
+    [
+        'I have learned that acting is not about beauty.',
+        'Vincent Cassel',
+    ],
+    [
+        'People who cannot find time for recreation are obliged sooner or later to find time for illness.',
+        'John Wanamaker',
+    ],
+    [
+        'It\'s a special person - and personality - who can lead a start-up to soaring success and sustain that success for the long term. Apple co-founder Steve Jobs and Facebook\'s Mark Zuckerberg are star examples.',
+        'Marcus Buckingham',
+    ],
+    [
+        'My father was a psychiatrist, the medical director of a mental hospital in Scotland, and when I was a student, I took vacation jobs there as a nursing assistant. So I did get to see mental illness, but I don\'t remember conversations about mental conditions. My father was a cheerful man with a robust attitude to such things.',
+        'Morag Joss',
+    ],
+    [
+        'Working with Julie Andrews is like getting hit over the head with a valentine.',
+        'Christopher Plummer',
+    ],
+    [
+        'Work as though you would live forever, and live as though you would die today. Go another mile!',
+        'Og Mandino',
+    ],
+    [
+        'Time is nature\'s way of keeping everything from happening at once.',
+        'John Archibald Wheeler',
+    ],
+    [
+        'You are not weak just because your heart feels so heavy.',
+        'Andrea Gibson',
+    ],
+    [
+        'To get something you never had, you have to do something you never did.',
+        '',
+    ],
+    [
+        'Too often in life, something happens and we blame other people for us not being happy or satisfied or fulfilled. So the point is, we all have choices, and we make the choice to accept people or situations or to not accept situations.',
+        'Yoko Ono',
+    ],
+    [
+        'It\'s better to be a lion for a day than a sheep all your life.',
+        'Rupert Murdoch',
+    ],
+    [
+        'Recovery is something that you have to work on every single day and it\'s something that it doesn\'t get a day off.',
+        'Demi Lovato',
+    ],
+    [
+        'There is only one difference between a long life and a good dinner: that, in the dinner, the sweets come last.',
+        'Neil deGrasse Tyson',
+    ],
+];

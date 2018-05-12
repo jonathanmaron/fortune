@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'People can do whatever they want if they just set their heart to it, and just never give up, and just go out there and do it.',
-    1 => 'Bethany Hamilton',
-  ),
-  1 => 
-  array (
-    0 => 'I think, aesthetically, car design is so interesting - the dashboards, the steering wheels, and the beauty of the mechanics. I don\'t know how any of it works, I don\'t want to know, but it\'s inspirational.',
-    1 => 'Paloma Picasso',
-  ),
-  2 => 
-  array (
-    0 => 'The average pencil is seven inches long, with just a half-inch eraser-in case you thought optimism was dead.',
-    1 => 'Robert Brault',
-  ),
-  3 => 
-  array (
-    0 => 'Failure is a part of success.',
-    1 => 'Hank Aaron',
-  ),
-  4 => 
-  array (
-    0 => 'To know the world one must construct it.',
-    1 => 'Cesare Pavese',
-  ),
-  5 => 
-  array (
-    0 => 'There is no charm equal to tenderness of heart.',
-    1 => 'Jane Austen',
-  ),
-  6 => 
-  array (
-    0 => 'To be perfect is to have changed often.',
-    1 => 'J. H. Newman',
-  ),
-  7 => 
-  array (
-    0 => 'In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it.',
-    1 => 'Jane Smiley',
-  ),
-  8 => 
-  array (
-    0 => 'So why don\'t you make like a tree, and get outta here.',
-    1 => 'Biff in "Back to the Future"',
-  ),
-  9 => 
-  array (
-    0 => 'Bureaucrats cut read tape',
-    1 => 'length-wise.',
-  ),
-  10 => 
-  array (
-    0 => 'Don\'t be afraid to give up the good to go for the great.',
-    1 => 'John D. Rockefeller',
-  ),
-  11 => 
-  array (
-    0 => 'Be careful of your actions. You never know when your creating a memory.',
-    1 => 'Ricki Lee Jones',
-  ),
-  12 => 
-  array (
-    0 => 'Failure will never overtake me if my determination to succeed is strong enough.',
-    1 => 'Og Mandino',
-  ),
-  13 => 
-  array (
-    0 => 'The greatest virtues are those which are most useful to other persons.',
-    1 => 'Aristotle',
-  ),
-  14 => 
-  array (
-    0 => 'The compensation of a very early success is a conviction that life is a romantic matter. In the best sense one stays young.',
-    1 => 'F. Scott Fitzgerald',
-  ),
-  15 => 
-  array (
-    0 => 'Absurdity, n.:
-        A statement or belief manifestly inconsistent with one\'s own opinion.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  16 => 
-  array (
-    0 => 'I\'ve always tried to go a step past wherever people expected me to end up.',
-    1 => 'Beverly Sills',
-  ),
-  17 => 
-  array (
-    0 => 'Beside every great success are the seeds of enormous failure. In every failure, there\'s the opportunity seeds of great success. They\'re not miles apart. So if they\'re that close together, and if you\'re really working, you\'re always gonna have that likelihood that something\'s not going to work.',
-    1 => 'Peter Guber',
-  ),
-  18 => 
-  array (
-    0 => 'I look at where I\'m at today and realize that most of my success is owed to the mentors that was in my life.',
-    1 => 'Kendrick Lamar',
-  ),
-  19 => 
-  array (
-    0 => 'Difference is of the essence of humanity. Difference is an accident of birth and it should therefore never be the source of hatred or conflict. The answer to difference is to respect it. Therein lies a most fundamental principle of peace: respect for diversity.',
-    1 => 'John Hume',
-  ),
-  20 => 
-  array (
-    0 => 'If you don\'t like how things are, change it! You\'re not a tree.',
-    1 => 'Jim Rohn',
-  ),
-  21 => 
-  array (
-    0 => 'Vitality shows in not only the ability to persist but the ability to start over.',
-    1 => 'F. Scott Fitzgerald',
-  ),
-  22 => 
-  array (
-    0 => 'Fear is a natural reaction to moving closer to the truth.',
-    1 => 'Pema Chodron',
-  ),
-  23 => 
-  array (
-    0 => 'What lies behind us, and what lies before us are but tiny matters compared to what lies within us.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  24 => 
-  array (
-    0 => 'No apology is necessary for being truthful to the echoes of one\'s mother tongue.',
-    1 => 'Mulk Raj Anand',
-  ),
-);
+return [
+    [
+        'There are two kinds of artists in this world; those that work because the spirit is in them, and they cannot be silent if they would, and those that speak from a conscientious desire to make apparent to others the beauty that has awakened their own admiration.',
+        'Anna Katharine Green',
+    ],
+    [
+        'Things that were hard to bear are sweet to remember.',
+        'Seneca',
+    ],
+    [
+        'The best way to perpetuate poverty is by spending on arms and military, and the best way to fight terrorism is by fighting the basic needs of humanity, because hunger and poverty perpetuate crime.',
+        "\u{d3}scar Arias",
+    ],
+    [
+        'Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing.',
+        'Thomas Jefferson',
+    ],
+    [
+        'When virtue and modesty enlighten her charms, the lustre of a beautiful woman is brighter than the stars of heaven, and the influence of her power it is in vain to resist.',
+        'Akhenaton',
+    ],
+    [
+        'Alas, nothing reveals man the way war does. Nothing so accentuates in him the beauty and ugliness, the intelligence and foolishness, the brutishness and humanity, the courage and cowardice, the enigma.',
+        'Oriana Fallaci',
+    ],
+    [
+        'No, no, I was only funny on stage, really. I, I, think I was funny as a person toward my classmates when I was very young. You know, when I was a child, up to about the age of 12.',
+        'Rowan Atkinson',
+    ],
+    [
+        'I do love to capture beauty in this world. And photos can last the test of time.',
+        'Nathaniel Buzolic',
+    ],
+    [
+        'The truth is, I never travel without cash. I always take a few tens with me in case of an emergency. There\'s never been an emergency, and in time, I realized that Americans don\'t want to touch customers\' dirty bills. They also don\'t want to touch your credit card: you have to put it through the machine yourself, with your own fingers.',
+        'Sayed Kashua',
+    ],
+    [
+        'The beautiful part of writing is that you don\'t have to get it right the first time, unlike, say, a brain surgeon. You can always do it better, find the exact word, the apt phrase, the leaping simile.',
+        'Robert Cormier',
+    ],
+    [
+        'Above all, don\'t fear difficult moments. The best comes from them.',
+        'Rita Levi-Montalcini',
+    ],
+    [
+        'The first time you marry for love, the second for money, and the third for companionship.',
+        'Jackie Kennedy',
+    ],
+    [
+        'I try and stay positive; being negative isn\'t good for my personality. I don\'t just bring myself down, I bring everyone around me down. It\'s like a dark cloud, \'Uh oh, here we go,\' and have to snap out of it.',
+        'Catherine Zeta-Jones',
+    ],
+    [
+        'The biggest job we have is to teach a newly hired employee how to fail intelligently. We have to train him to experiment over and over and to keep on trying and failing until he learns what will work.',
+        'Charles Kettering',
+    ],
+    [
+        'Kind words can be short and easy to speak, but their echoes are truly endless.',
+        'Mother Teresa',
+    ],
+    [
+        'If you can kill animals, the same attitude can kill human beings. The mentality is the same which exploits nature and which creates wars.',
+        'Satish Kumar',
+    ],
+    [
+        'We\'ll love you just the way you are if you\'re perfect.',
+        'Alanis Morissette',
+    ],
+    [
+        'So long as a person is capable of self-renewal they are a living being.',
+        'Henri-Frederic Amiel',
+    ],
+    [
+        'People grow when they are loved well. If you want to help others heal, love them without an agenda.',
+        'Mike McHargue',
+    ],
+    [
+        'A government for the people must depend for its success on the intelligence, the morality, the justice, and the interest of the people themselves.',
+        'Grover Cleveland',
+    ],
+    [
+        'Few things are more important to each individual\'s future success or to our nation\'s prosperity than education.',
+        'Mark Kennedy',
+    ],
+    [
+        'Growing up, I had a very normal relationship with my brother and sister. But, over time, they became my best friends, and now I hang out with them all the time. I\'m very close with them.',
+        'Logan Lerman',
+    ],
+    [
+        'I\'m a real nature lover, so whenever possible, I like to get to the beach or get to a forest or get somewhere there\'s fresh air. Apart from that, I\'m a film addict and a DVD freak.',
+        'Murray Bartlett',
+    ],
+    [
+        'A man is a better citizen of the United States for being also a loyal citizen of his state and of his city; for being loyal to his family and to his profession or trade; for being loyal to his college or his lodge.',
+        'Louis D. Brandeis',
+    ],
+    [
+        'It\'s about enjoying your life. If you have no family, no friends to enjoy it with, it don\'t matter how much you have, how much success you have, how much fame you have, how much money you have, it doesn\'t matter.',
+        'Vanilla Ice',
+    ],
+];

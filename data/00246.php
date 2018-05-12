@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It is a grand thing to rise in the world. The ambition to do so is the very salt of the earth. It is the parent of all enterprise, and the cause of all improvement.',
-    1 => 'Anthony Trollope',
-  ),
-  1 => 
-  array (
-    0 => 'The only true wisdom is in knowing you know nothing.',
-    1 => 'Socrates',
-  ),
-  2 => 
-  array (
-    0 => 'Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories.',
-    1 => 'Hassanal Bolkiah',
-  ),
-  3 => 
-  array (
-    0 => 'The best and most beautiful things in the world cannot be seen or even touched, they must be felt with the heart.',
-    1 => 'Helen Keller',
-  ),
-  4 => 
-  array (
-    0 => 'Be yourself; everyone else is already taken.',
-    1 => 'Oscar Wilde',
-  ),
-  5 => 
-  array (
-    0 => 'Well done is better than well said.',
-    1 => 'Benjamin Franklin',
-  ),
-  6 => 
-  array (
-    0 => 'It always seems impossible until it\'s done.',
-    1 => 'Nelson Mandela',
-  ),
-  7 => 
-  array (
-    0 => 'It is a rough road that leads to the heights of greatness.',
-    1 => 'Seneca',
-  ),
-  8 => 
-  array (
-    0 => 'The thermometer of success is merely the jealousy of the malcontents.',
-    1 => 'Salvador Dali',
-  ),
-  9 => 
-  array (
-    0 => 'Knowing what must be done does away with fear.',
-    1 => 'Rosa Parks',
-  ),
-  10 => 
-  array (
-    0 => 'Wisdom is not a product of schooling but of the life-long attempt to acquire it.',
-    1 => 'Albert Einstein',
-  ),
-  11 => 
-  array (
-    0 => 'Once you choose hope, anything is possible.',
-    1 => 'Christopher Reeve',
-  ),
-  12 => 
-  array (
-    0 => 'After Goliath\'s defeat, giants ceased to command respect.',
-    1 => 'Freeman Dyson',
-  ),
-  13 => 
-  array (
-    0 => 'When you reach the end of your rope, tie a knot in it and hang on.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  14 => 
-  array (
-    0 => 'We don\'t know who discovered water, but we are certain it wasn\'t a fish.',
-    1 => 'John Culkin',
-  ),
-  15 => 
-  array (
-    0 => 'Army, n.:
-        A body of men assembled to rectify the mistakes of the diplomats.',
-    1 => 'Josephus Daniels',
-  ),
-  16 => 
-  array (
-    0 => 'Bypasses are devices that allow some people to dash from point A to point B very fast while other people dash from point B to point A very fast. People living at point C, being a point directly in between, are often given to wonder what\'s so great about point A that so many people from point B are so keen to get there and what\'s so great about point B that so many people from point A are so keen to get THERE. They often wish that people would just once and for all work out where the hell they wanted to be.',
-    1 => 'Douglas Adams, "The Hitchhiker\'s Guide to the Galaxy"',
-  ),
-  17 => 
-  array (
-    0 => 'Before someone\'s tomorrow has been taken away, cherish those you love, appreciate them today.',
-    1 => 'Michelle C. Ustaszeski',
-  ),
-  18 => 
-  array (
-    0 => 'How can they say my life is not a success? Have I not for more than sixty years got enough to eat and escaped being eaten?',
-    1 => 'Logan Pearsall Smith',
-  ),
-  19 => 
-  array (
-    0 => 'Every great story on the planet happened when someone decided not to give up, but kept going no matter what.',
-    1 => 'Spryte Loriano',
-  ),
-  20 => 
-  array (
-    0 => 'We are all broken, that\'s how the light gets in.',
-    1 => 'Ernest Hemingway',
-  ),
-  21 => 
-  array (
-    0 => 'Yesterday is not ours to recover, but tommorrow is ours to win or lose.',
-    1 => 'Lyndon B. Johnson',
-  ),
-  22 => 
-  array (
-    0 => 'Success is the most important to many, to me it\'s just a bonus.',
-    1 => 'Lucas Grabeel',
-  ),
-  23 => 
-  array (
-    0 => 'There\'s no escalators - there\'s only staircases to success. There is no substitute for hard work.',
-    1 => 'Lilly Singh',
-  ),
-  24 => 
-  array (
-    0 => 'Labor, n.:
-        One of the processes by which A acquires property for B.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-);
+return [
+    [
+        'I haven\'t spoken to my wife in years. I didn\'t want to interrupt her.',
+        'Rodney Dangerfield',
+    ],
+    [
+        'I had the good fortune of having a happy, closely knit family.',
+        'Carlos Fuentes',
+    ],
+    [
+        'I wasn\'t the kind of kid who would get A\'s without even trying. I had to work to get good grades, but I was very organised about it because I always wanted to do well at everything I did. I\'m very competitive.',
+        'Jessica Ennis',
+    ],
+    [
+        'The bad news is time flies. The good news is you\'re the pilot.',
+        'Michael Atshuler',
+    ],
+    [
+        'I find the positive in the negative all the time. Any time you give something power, it wins, and it can continuously happen, so I just let negative people know they have no place in my life. They have no place around my children.',
+        'Monica Denise Brown',
+    ],
+    [
+        'Karaoke isn\'t fair when you\'re a comedian. The whole idea is to get people laughing and enjoying themselves, and I\'m a professional funny guy.',
+        'Chris Rock',
+    ],
+    [
+        'Water is the driving force of all nature.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'The greatest sign of success for a teacher... is to be able to say, \'The children are now working as if I did not exist.\'',
+        'Maria Montessori',
+    ],
+    [
+        'Success to me is only two things: happiness and stability.',
+        'Kehlani',
+    ],
+    [
+        'There\'s no such thing as a specific authenticity to what Mexico is, because Mexico is incredibly complex and varied, and the food is completely different if you travel 50 kilometers. It just changes all the time.',
+        'Gael Garcia Bernal',
+    ],
+    [
+        'The sculptor who deals with form seeks to imprison beauty in a marble statue that will withstand the ravages of time during millenniums; but a marble statue is cold and speaks to but a few of the most evolved who are able to infuse the statue with their own life.',
+        'Max Heindel',
+    ],
+    [
+        'I usually stalk fans because I think they\'re really funny on Twitter. They don\'t know it, but I\'ll just go through their timelines, and if something is happening in the media, I always read fan accounts instead of the news because they have all the info and make the funniest jokes about it, so that\'s how I get my gossip - by stalking fans.',
+        'Gigi Hadid',
+    ],
+    [
+        'I\'m not funny in person. I mean I\'m really not. I\'m one of those people who always screw up anecdotes.',
+        'Bill Bryson',
+    ],
+    [
+        'Everyone talks about age, but it\'s not about age. It\'s about work ethic. Winning never gets old.',
+        'Lisa Leslie',
+    ],
+    [
+        'Perfect is boring: Beauty is irregular.',
+        'Gloria Steinem',
+    ],
+    [
+        'Positive, healthy, loving relationships in your twenties... I don\'t know if anyone would disagree with it: I think they\'re the exception, not the norm. People are either playing house really aggressively because they\'re scared of what an uncertain time it is, or they\'re avoiding commitment altogether.',
+        'Lena Dunham',
+    ],
+    [
+        'That the sea is one of the most beautiful and magnificent sights in Nature, all admit.',
+        'John Joly',
+    ],
+    [
+        'As a former veteran, I understand the needs of veterans, and have been clear - we will work together, stand together with the Administration, but we will also question their policies when they shortchange veterans and military retirees.',
+        'Solomon Ortiz',
+    ],
+    [
+        'Only then, approaching my fortieth birthday, I made philosophy my life\'s work.',
+        'Karl Jaspers',
+    ],
+    [
+        'Taking joy in living is a woman\'s best cosmetic.',
+        'Rosalind Russell',
+    ],
+    [
+        'When I was growing up, my family was so poor we couldn\'t afford to pay attention.',
+        'Mr. T',
+    ],
+    [
+        'Beauty surrounds us, but usually we need to be walking in a garden to know it.',
+        'Rumi',
+    ],
+    [
+        'No rational argument will have a rational effect on a man who does not want to adopt a rational attitude.',
+        'Karl Popper',
+    ],
+    [
+        'They can do all because they think they can.',
+        'Virgil',
+    ],
+    [
+        'What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.',
+        'Margaret Thatcher',
+    ],
+];

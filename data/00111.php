@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If you\'re going to do something tonight that you\'ll be sorry for tomorrow morning, sleep late.',
-    1 => 'Henny Youngman',
-  ),
-  1 => 
-  array (
-    0 => 'We\'re not afraid of risking what was our success yesterday in order to explore some new field. We\'re adventurous. We like the challenge of unknown territory, unknown artistic field, and that\'s what stimulates us.',
-    1 => 'Guy Laliberte',
-  ),
-  2 => 
-  array (
-    0 => 'True innovation often comes from the small startup who is lean enough to launch a market but lacks the heft to own it.',
-    1 => 'Timm Martin',
-  ),
-  3 => 
-  array (
-    0 => 'You dream. You plan. You reach. There will be obstacles. There will be doubters. There will be mistakes. But with hard work, with belief, with confidence and trust in yourself and those around you, there are no limits.',
-    1 => 'Michael Phelps, swimmer and Olympic gold medalist',
-  ),
-  4 => 
-  array (
-    0 => 'Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.',
-    1 => 'Thich Nhat Hanh',
-  ),
-  5 => 
-  array (
-    0 => 'There\'s no secret about success. Did you ever know a successful man who didn\'t tell you about it?',
-    1 => 'Kin Hubbard',
-  ),
-  6 => 
-  array (
-    0 => 'Let\'s give discredit where discredit is due.',
-    1 => 'Karl Lehenbauer',
-  ),
-  7 => 
-  array (
-    0 => 'The measure of success is not whether you have a tough problem to deal with, but whether it is the same problem you had last year.',
-    1 => 'John Foster Dulles',
-  ),
-  8 => 
-  array (
-    0 => 'Be kind, for everyone you meet is fighting a hard battle.',
-    1 => 'Plato',
-  ),
-  9 => 
-  array (
-    0 => 'Self-trust is the first secret of success.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  10 => 
-  array (
-    0 => 'Everything you want is on the other side of fear.',
-    1 => 'George Addair',
-  ),
-  11 => 
-  array (
-    0 => 'No more duty can be urged upon those who are entering the great theater of life than simple loyalty to their best convictions.',
-    1 => 'Edwin Hubbel Chapin',
-  ),
-  12 => 
-  array (
-    0 => 'There\'s no success story. Everybody\'s got a ghetto story. You always want to make it bigger than what it is.',
-    1 => 'Bernie Mac',
-  ),
-  13 => 
-  array (
-    0 => 'I believe that one key to success is to accept truth, no matter how it\'s spoken.',
-    1 => 'Robert Kiyosaki',
-  ),
-  14 => 
-  array (
-    0 => 'When love and skill work together, expect a masterpiece.',
-    1 => 'John Ruskin',
-  ),
-  15 => 
-  array (
-    0 => 'That\'s the way things come clear. All of a sudden. And then you realize how obvious they\'ve been all along.',
-    1 => 'Madeleine L\'Engle',
-  ),
-  16 => 
-  array (
-    0 => 'I survived because the fire inside me burned brighter than the fire around me.',
-    1 => 'Joshua Graham',
-  ),
-  17 => 
-  array (
-    0 => 'Different and new is just the same old if you keep doing it over and over.',
-    1 => 'Kyran Pittman,',
-  ),
-  18 => 
-  array (
-    0 => 'Action is the foundational key to all success.',
-    1 => 'Pablo Picasso',
-  ),
-  19 => 
-  array (
-    0 => 'It is during our darkest moments that we must focus to see the light.',
-    1 => 'Aristotle Onassis',
-  ),
-  20 => 
-  array (
-    0 => 'A powerful idea communicates some of its strength to him who challenges it.',
-    1 => 'Marcel Proust',
-  ),
-  21 => 
-  array (
-    0 => 'Truth has always been found to promote the best interests of mankind.',
-    1 => 'Percy Bysshe Shelley',
-  ),
-  22 => 
-  array (
-    0 => 'The happiest moments my heart knows are those in which it is pouring forth its affections to a few esteemed characters.',
-    1 => 'Thomas Jefferson',
-  ),
-  23 => 
-  array (
-    0 => 'If you are not willing to risk the usual you will have to settle for the ordinary.',
-    1 => 'Jim Rohn',
-  ),
-  24 => 
-  array (
-    0 => 'It is the unknown we fear when we look upon death and darkness, nothing more.',
-    1 => 'Dumbledore-The Half-Blood Prince',
-  ),
-);
+return [
+    [
+        'My time off is usually spent working out and getting better at football. When I come home and spend time with my little brother, we\'re out on the football field. We\'re working out or playing Madden. We\'re spending time with each other, but our quality time is football.',
+        'Stefon Diggs',
+    ],
+    [
+        'Have the courage to say no. Have the courage to face the truth. Do the right thing because it is right. These are the magic keys to living your life with integrity.',
+        'Marc Anthony',
+    ],
+    [
+        'I\'ve been lucky enough that I can gather all sorts of experiences and find inspiration by traveling around and by spending time with people I admire.',
+        'Bonnie Raitt',
+    ],
+    [
+        'As I get older, I want to do more films for kids because they\'re the best audience around. Just putting a smile on a kid\'s face is the best thing.',
+        'James McAvoy',
+    ],
+    [
+        'I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.',
+        'Albert Einstein',
+    ],
+    [
+        'Why don\'t you get a haircut? You look like a chrysanthemum.',
+        'P. G. Wodehouse',
+    ],
+    [
+        'Success is a journey, not a destination. The doing is often more important than the outcome.',
+        'Arthur Ashe',
+    ],
+    [
+        'I have a political attitude, but I\'m certainly not a politician.',
+        'Kgalema Motlanthe',
+    ],
+    [
+        'My grandmother, whom we call Biel, thinks it\'s very unbecoming of me not to smile for the paparazzi. So every time I see them, I think, \'Smile for Biel!\'',
+        'Jessica Biel',
+    ],
+    [
+        'It is only when the mind and character slumber that the dress can be seen.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'If you want to shine like a sun, first burn like a sun.',
+        'APJ Abdul Kalam',
+    ],
+    [
+        'The reports of my death have been greatly exaggerated.',
+        'Mark Twain',
+    ],
+    [
+        'Winter is nature\'s way of saying, \'Up yours.\'',
+        'Robert Byrne',
+    ],
+    [
+        'We owe to the Middle Ages the two worst inventions of humanity - romantic love and gunpowder.',
+        'Andre Maurois',
+    ],
+    [
+        'People come in and out of our lives, and the true test of friendship is whether you can pick back up right where you left off the last time you saw each other.',
+        'Lisa See',
+    ],
+    [
+        'Look, everything that you experience as a kid is the foundation of how you are today. I was brought up in a working class family in Leeds and when it comes to money both my parents worked hard and instilled the same attitude into me.',
+        'Melanie Brown',
+    ],
+    [
+        'Today, most young women are exposed to technology at a very young age, with mobile phones, tablets, the Web or social media. They are much more proficient with technology than prior generations since they use it for all their school work, communication and entertainment.',
+        'Susan Wojcicki',
+    ],
+    [
+        'Benazir Bhutto was an inspirational leader and an inspirational woman.',
+        'Malala Yousafzai',
+    ],
+    [
+        'I have a positive mental attitude, and I think I\'m divine, but I also think it takes a heck of a lot of blood, sweat and tears.',
+        'Steve Prefontaine',
+    ],
+    [
+        'Change is a continuous process. You cannot assess it with the static yardstick of a limited time frame. When a seed is sown into the ground, you cannot immediately see the plant. You have to be patient. With time, it grows into a large tree. And then the flowers bloom, and only then can the fruits be plucked.',
+        'Mamata Banerjee',
+    ],
+    [
+        'Of course, there will always be those who look only at technique, who ask \'how\', while others of a more curious nature will ask \'why\'. Personally, I have always preferred inspiration to information.',
+        'Man Ray',
+    ],
+    [
+        'Transformation doesn\'t take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.',
+        'Byron Pulsifer',
+    ],
+    [
+        'Space travel for everyone is the next frontier in the human experience.',
+        'Buzz Aldrin',
+    ],
+    [
+        'The road to success is always under construction.',
+        'Lily Tomlin',
+    ],
+    [
+        'Today is life-the only life you are sure of. Make the most of today. Get interested in something. Shake yourself awake. Develop a hobby. Let the winds of enthusiasm sweep through you. Live today with gusto.',
+        'Cristiano Ronaldo',
+    ],
+];

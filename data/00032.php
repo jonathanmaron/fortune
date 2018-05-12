@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A man has to learn that he cannot command things, but that he can command himself; that he cannot coerce the wills of others, but that he can mold and master his own will: and things serve him who serves Truth; people seek guidance of him who is master of himself.',
-    1 => 'James Allen',
-  ),
-  1 => 
-  array (
-    0 => 'I think being in love with life is a key to eternal youth.',
-    1 => 'Doug Hutchison',
-  ),
-  2 => 
-  array (
-    0 => 'There are good ships and wood ships, ships that sail the sea, but the best ships are friendships, may they always be!',
-    1 => 'Irish Proverb',
-  ),
-  3 => 
-  array (
-    0 => 'I feel that the greatest reward for doing is the opportunity to do more.',
-    1 => 'Dr. Jonas Salk',
-  ),
-  4 => 
-  array (
-    0 => 'If You Are Working On Something That You Really Care About, You Don\'t Have To Be Pushed. The Vision Pulls You.',
-    1 => 'Steve Jobs',
-  ),
-  5 => 
-  array (
-    0 => 'The best place to find a helping hand is at the end of your own arm.',
-    1 => 'Swedish Proverb',
-  ),
-  6 => 
-  array (
-    0 => 'Imagination is more important than knowledge.',
-    1 => 'Albert Einstein',
-  ),
-  7 => 
-  array (
-    0 => 'You cannot escape the results of your thoughts. Whatever your present environment may be, you will fall, remain or rise with your thoughts, your vision, your ideal. You will become as small as your controlling desire; as great as your dominant aspiration.',
-    1 => 'James Allen',
-  ),
-  8 => 
-  array (
-    0 => 'Trust men and they will be true to you; treat them greatly and they will show themselves great.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  9 => 
-  array (
-    0 => 'I\'ve got a theory that if you give 100 percent all of the time, somehow things will work out in the end.',
-    1 => 'Larry Bird',
-  ),
-  10 => 
-  array (
-    0 => 'There is, in fact, no reason to believe that any given natural phenomenon, however marvelous it may seem today, will remain forever inexplicable. Soon or late the laws governing the production of life itself will be discovered in the laboratory, and man may set up business as a creator on his own account. The thing, indeed, is not only conceivable; it is even highly probable.',
-    1 => 'H. L. Mencken, 1930',
-  ),
-  11 => 
-  array (
-    0 => 'The successful man will profit from his mistakes and try again in a different way.',
-    1 => 'Dale Carnegie',
-  ),
-  12 => 
-  array (
-    0 => 'Grace is the beauty of form under the influence of freedom.',
-    1 => 'Friedrich Schiller',
-  ),
-  13 => 
-  array (
-    0 => 'When two are of one mind, their strength can cut gold.',
-    1 => 'Chinese Proverb',
-  ),
-  14 => 
-  array (
-    0 => 'Bleeding into a new computer is always a good thing; it\'s an ancient geek voodoo magic to ensure its long life and reliability.',
-    1 => 'from Mike Taht\'s blog, http://the-edge.blogspot.com/',
-  ),
-  15 => 
-  array (
-    0 => 'I don\'t believe in failure. It is not failure if you enjoyed the process.',
-    1 => 'Oprah Winfrey',
-  ),
-  16 => 
-  array (
-    0 => 'Your current conditions are echoes of your past.',
-    1 => 'Robin Sharma',
-  ),
-  17 => 
-  array (
-    0 => 'Perseverance is not a long race; it is many short races one after the other.',
-    1 => 'Walter Elliot',
-  ),
-  18 => 
-  array (
-    0 => 'Berkeley\'s First Law of Mistakes:
-        The moment you have worked out an answer, start checking it',
-    1 => 'it probably isn\'t right.',
-  ),
-  19 => 
-  array (
-    0 => 'Life brings simple pleasures to us every day. It is up to us to make them wonderful memories.',
-    1 => 'Cathy Allen',
-  ),
-  20 => 
-  array (
-    0 => 'Revolution is the opiate of the intellectuals.',
-    1 => '"Oh, Lucky Man"',
-  ),
-  21 => 
-  array (
-    0 => 'Success is little more than a chemical compound of man with moment.',
-    1 => 'Philip Guedalla',
-  ),
-  22 => 
-  array (
-    0 => 'Ability is useless unless it is used.',
-    1 => 'Robert Half',
-  ),
-  23 => 
-  array (
-    0 => 'As the builders say, the larger stones do not lie well without the lesser.',
-    1 => 'Plato',
-  ),
-  24 => 
-  array (
-    0 => 'Prejudice is the child of ignorance.',
-    1 => 'William Hazlitt',
-  ),
-);
+return [
+    [
+        'I think that I shall never see a poem lovely as a tree.',
+        'Joyce Kilmer',
+    ],
+    [
+        'No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.',
+        'Godfrey Winn',
+    ],
+    [
+        'Nature chooses who will be transgender; individuals don\'t choose this.',
+        'Mercedes Ruehl',
+    ],
+    [
+        'Stem cell research holds enormous promise for easing human suffering, and federal support is critical to its success.',
+        'Tom Harkin',
+    ],
+    [
+        'Your chances of success in any undertaking can always be measured by your belief in yourself.',
+        'Robert Collier',
+    ],
+    [
+        'I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone.',
+        'Henry Rollins',
+    ],
+    [
+        'Success is about enjoying what you have and where you are, while pursuing achievable goals.',
+        'Bo Bennett',
+    ],
+    [
+        'Find out what you like doing best and get someone to pay you for it.',
+        'Katharine Whitehorn',
+    ],
+    [
+        'Anything you really want, you can attain, if you really go after it.',
+        'Wayne Dyer',
+    ],
+    [
+        'You define a good flight by negatives: you didn\'t get hijacked, you didn\'t crash, you didn\'t throw up, you weren\'t late, you weren\'t nauseated by the food. So you are grateful.',
+        'Paul Theroux',
+    ],
+    [
+        'What would you do if you weren\'t afraid?',
+        'Sheryl Sandberg',
+    ],
+    [
+        'His tenacity is unmatched in my opinion. Incredible how someone could have suffered that long and come back out of prison with such a good heart and positive things to say and do.',
+        'Maurice Ashley',
+    ],
+    [
+        'The sky is the part of creation in which nature has done for the sake of pleasing man.',
+        'John Ruskin',
+    ],
+    [
+        'Get correct views of life, and learn to see the world in its true light. It will enable you to live pleasantly, to do good, and, when summoned away, to leave without regret.',
+        'Steve Jobs',
+    ],
+    [
+        'True success is overcoming the fear of being unsuccessful.',
+        'Paul Sweeney',
+    ],
+    [
+        'I believe our legacy will be defined by the accomplishments and fearless nature by which our daughters and sons take on the global challenges we face. I also wonder if perhaps the most lasting expression of one\'s humility lies in our ability to foster and mentor our children.',
+        'Naveen Jain',
+    ],
+    [
+        'The stars shall fade away, the sun himself Grow dim with age, and nature sink in years, But thou shalt flourish in immortal youth, Unhurt amidst the wars of elements, The wrecks of matter, and the crush of worlds.',
+        'Joseph Addison',
+    ],
+    [
+        'Nothing is impossible, the word itself says \'I\'m possible\'!',
+        'Audrey Hepburn',
+    ],
+    [
+        'A smile is the universal welcome.',
+        'Max Eastman',
+    ],
+    [
+        'A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the \'why\' for his existence, and will be able to bear almost any \'how.\'',
+        'Viktor E. Frankl',
+    ],
+    [
+        'A society is defined as much by how it comes to terms with its past as by its attitude toward the future: its memories are no less revealing than its aims.',
+        'Octavio Paz',
+    ],
+    [
+        'All women have a perception much more developed than men. So all women somehow, being repressed for so many millennia, they ended up by developing this sixth sense and contemplation and love. And this is something that we have a hard time to accept as part of our society.',
+        'Paulo Coelho',
+    ],
+    [
+        'Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.',
+        'Anne Frank',
+    ],
+    [
+        'Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.',
+        'Matt Zotti',
+    ],
+    [
+        'You don\'t have to watch \'Gossip Girl\' to have an attitude.',
+        'Prince',
+    ],
+];

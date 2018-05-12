@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'To succeed, jump as quickly at opportunities as you do at conclusions.',
-    1 => 'Benjamin Franklin',
-  ),
-  1 => 
-  array (
-    0 => 'Motivation is when your dreams put on work clothes.',
-    1 => 'Benjamin Franklin',
-  ),
-  2 => 
-  array (
-    0 => 'No friendly hands constructed and placed for his ambition a ladder upon which he might climb. His own brave hands framed and nailed the cleats upon which he climbed to the heights of public usefulness and fame.',
-    1 => 'Benjamin Harrison',
-  ),
-  3 => 
-  array (
-    0 => 'Biggest security gap',
-    1 => 'an open mouth.',
-  ),
-  4 => 
-  array (
-    0 => 'You only live once, but if you do it right, once is enough.',
-    1 => 'Mae West',
-  ),
-  5 => 
-  array (
-    0 => 'Genius may have its limitations, but stupidity is not thus handicapped.',
-    1 => 'Elbert Hubbard',
-  ),
-  6 => 
-  array (
-    0 => 'Now the alternative to despair is courage. And human life can be viewed as a continuous struggle between these two options. Courage is the capacity to affirm one\'s life in spite of the elements which threaten it. The fact that courage usually predominates over despair in itself tells us something important about life. It tells you that the forces that affirm life are stronger than those that negate it.',
-    1 => 'Dr. Samuel Johnson',
-  ),
-  7 => 
-  array (
-    0 => 'Men must live and create. Live to the point of tears.',
-    1 => 'Albert Camus',
-  ),
-  8 => 
-  array (
-    0 => 'Character is much easier kept than recovered.',
-    1 => 'Thomas Paine',
-  ),
-  9 => 
-  array (
-    0 => 'Sometimes I wonder if men and women really suit each other. Perhaps they should live next door and just visit now and then.',
-    1 => 'Katherine Hepburn',
-  ),
-  10 => 
-  array (
-    0 => 'The more laws and order are made prominent, the more thieves and robbers there will be.',
-    1 => 'Lao Tsu',
-  ),
-  11 => 
-  array (
-    0 => 'When one door closes another door opens, but we so often look so long and so regretfully upon the closed door, that we do not see the ones which open for us.',
-    1 => 'Alexander Graham Bell',
-  ),
-  12 => 
-  array (
-    0 => 'Every child is an artist.  The problem is how to remain an artist once he grows up.',
-    1 => 'Pablo Picasso',
-  ),
-  13 => 
-  array (
-    0 => 'Success is the progressive realization of a worthy goal or ideal.',
-    1 => 'Earl Nightingale',
-  ),
-  14 => 
-  array (
-    0 => 'When the going gets tough, the tough get empirical.',
-    1 => 'Jon Carroll',
-  ),
-  15 => 
-  array (
-    0 => 'The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.',
-    1 => 'Ray Kroc',
-  ),
-  16 => 
-  array (
-    0 => 'We crave instant success these days. If you are a really good sprinter and long jumper, you don\'t want to spend two or three years on a whole new set of events. You\'re used to doing well and it\'s difficult to give that up.',
-    1 => 'Daley Thompson',
-  ),
-  17 => 
-  array (
-    0 => 'Success is survival.',
-    1 => 'Leonard Cohen',
-  ),
-  18 => 
-  array (
-    0 => 'Don\'t wait for extraordinary circumstance to do good; try to use ordinary situations.',
-    1 => 'Charles Richter',
-  ),
-  19 => 
-  array (
-    0 => 'Never be too busy to be kind.',
-    1 => 'Robin Sharma',
-  ),
-  20 => 
-  array (
-    0 => 'Think little goals and expect little achievements. Think big goals and win big success.',
-    1 => 'David Joseph Schwartz',
-  ),
-  21 => 
-  array (
-    0 => 'People think my friend George is weird because he wears sideburns...behind his ears. I think he\'s weird because he wears false teeth...with braces on them.',
-    1 => 'Steven Wright',
-  ),
-  22 => 
-  array (
-    0 => 'Hard work and dedication is important to success, and I have those qualities.',
-    1 => 'Nargis Fakhri',
-  ),
-  23 => 
-  array (
-    0 => 'What would you do if you weren\'t afraid?',
-    1 => 'Sheryl Sandberg',
-  ),
-  24 => 
-  array (
-    0 => 'To See What Is Right And Not Do It Is A Lack Of Courage.',
-    1 => 'Confucious',
-  ),
-);
+return [
+    [
+        'Stiletto, I look at it more as an attitude as opposed to a high-heeled shoe.',
+        'Lita Ford',
+    ],
+    [
+        'I believe that we all have a responsibility to give back. No one becomes successful without lots of hard work, support from others, and a little luck. Giving back creates a virtuous cycle that makes everyone more successful.',
+        'Ron Conway',
+    ],
+    [
+        'Whether in success or in failure, I\'m proud of every single movie I\'ve ever directed.',
+        'Steven Spielberg',
+    ],
+    [
+        'Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.',
+        'Ralph Emerson',
+    ],
+    [
+        'There must be something solemn, serious, and tender about any attitude which we denominate religious. If glad, it must not grin or snicker; if sad, it must not scream or curse.',
+        'William James',
+    ],
+    [
+        'It\'s lovely to work with a group of actors who make you laugh and smile.',
+        'Kelly Reilly',
+    ],
+    [
+        'Insanity runs in my family. It practically gallops.',
+        'Cary Grant',
+    ],
+    [
+        'The BBC is the greatest broadcaster in the world. It\'s the standard that everyone measures themselves against. If we lose the BBC, it won\'t be quite as bad as losing the royal family, but an integral part of this country will have gone. But then, I\'m an old guy.',
+        'Terry Wogan',
+    ],
+    [
+        'Do not wait; the time will never be \'just right.\' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.',
+        'George Herbert',
+    ],
+    [
+        'I am thankful for all the blessings and talents I have been given, but most of all I am thankful for my loving and supportive family.',
+        'Olivia Holt',
+    ],
+    [
+        'You fight, you try your best, but if you lose, you don\'t have to break five racquets and smash up the locker room. You can do those things, but when you\'ve finished, nothing\'s changed. You\'ve still lost. If something positive came from that, I probably would do it. But I see only negativity.',
+        'Rafael Nadal',
+    ],
+    [
+        'It\'s both rebellion and conformity that attack you with success.',
+        'Amy Tan',
+    ],
+    [
+        'I am a hopeless romantic who falls in lust and gets in trouble. I love my work and am very productive, yet I always find time to play.',
+        'Maksim Chmerkovskiy',
+    ],
+    [
+        'Until I was about 14, I was a fat boy, or at least I looked like a fat boy. I think that being funny was a bit of a defence mechanism for me, so I ended up being a bit of a joker.',
+        'Pippa Evans',
+    ],
+    [
+        'Rarely do members of the same family grow up under the same roof.',
+        'Richard Bach',
+    ],
+    [
+        'Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.',
+        'John F. Kennedy',
+    ],
+    [
+        'I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.',
+        'Neil Armstrong',
+    ],
+    [
+        'Beauty is an asset, just like physical prowess, charisma, brains or emotional intelligence. The key with any gift is in the way that you use it. It doesn\'t define you as a person. Rather, it\'s an asset to be used judiciously and with an understanding of how it is just a small part of who you are.',
+        'Dale Archer',
+    ],
+    [
+        'The way Moore\'s Law occurs in computing is really unprecedented in other walks of life. If the Boeing 747 obeyed Moore\'s Law, it would travel a million miles an hour, it would be shrunken down in size, and a trip to New York would cost about five dollars. Those enormous changes just aren\'t part of our everyday experience.',
+        'Nathan Myhrvold',
+    ],
+    [
+        'Accept the challenges so that you can feel the exhilaration of victory.',
+        'George S. Patton',
+    ],
+    [
+        'The most important thing is the indigenous people are not vindictive by nature. We are not here to oppress anybody - but to join together and build Bolivia, with justice and equality.',
+        'Evo Morales',
+    ],
+    [
+        'You\'ll live. Only the best get killed.',
+        'Charles de Gaulle',
+    ],
+    [
+        'Beauty and femininity are ageless and can\'t be contrived, and glamour, although the manufacturers won\'t like this, cannot be manufactured. Not real glamour; it\'s based on femininity.',
+        'Marilyn Monroe',
+    ],
+    [
+        'Travelers never think that they are the foreigners.',
+        'Mason Cooley',
+    ],
+    [
+        'I\'m not here to impose Sharia law, and I\'m not here to have a message about disability being inspirational - I\'m here to make people laugh. But when I can layer things and make people not only laugh but question, make people not only laugh but be offended... I have to do that.',
+        'Maysoon Zayid',
+    ],
+];

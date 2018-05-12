@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If you pay attention at every moment, you form a new relationship to time. In some magical way, by slowing down, you become more efficient, productive, and energetic, focusing without distraction directly on the task in front of you. Not only do you become immersed in the moment, you become that moment.',
-    1 => 'Michael Ray',
-  ),
-  1 => 
-  array (
-    0 => 'There is only one happiness in life – to love and to be loved.',
-    1 => 'George Sand',
-  ),
-  2 => 
-  array (
-    0 => 'Because of your smile, you make life more beautiful.',
-    1 => 'Thich Nhat Hanh',
-  ),
-  3 => 
-  array (
-    0 => 'The un-aimed arrow never misses.',
-    1 => 'Anonymous',
-  ),
-  4 => 
-  array (
-    0 => 'Believe you can and you\'re halfway there.',
-    1 => 'Theodore Roosevelt',
-  ),
-  5 => 
-  array (
-    0 => 'Every day you have the opportunity to learn and experience some-thing and some-one new. Seize the opportunity. Learn and experience everything you can, and use it to change the world.',
-    1 => 'Rodney Williams',
-  ),
-  6 => 
-  array (
-    0 => 'The American Dream is one of success, home ownership, college education for one\'s children, and have a secure job to provide these and other goals.',
-    1 => 'Leonard Boswell',
-  ),
-  7 => 
-  array (
-    0 => 'If you genuinely want something, don\'t wait for it--teach yourself to be impatient.',
-    1 => 'Gurbaksh Chahal',
-  ),
-  8 => 
-  array (
-    0 => 'To want to, is to be able to.',
-    1 => 'Józef Piłsudski',
-  ),
-  9 => 
-  array (
-    0 => 'As is our confidence, so is our capacity.',
-    1 => 'William Hazlitt',
-  ),
-  10 => 
-  array (
-    0 => 'Never look down on anybody unless you\'re helping him up.',
-    1 => 'Jesse Jackson',
-  ),
-  11 => 
-  array (
-    0 => 'Do what is right, not what is easy nor what is popular.',
-    1 => 'Roy T. Bennett',
-  ),
-  12 => 
-  array (
-    0 => 'You have brains in your head. You have feet in your shoes. You can steer yourself in any direction you choose. You\'re on your own. And you know what you know. You are the guy who\'ll decide where to go.',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  13 => 
-  array (
-    0 => 'Listening to someone talk isn\'t at all like listening to their words played over on a machine. What you hear when you have a face before you is never what you hear when you have before you a winding tape.',
-    1 => 'J. E. Buckrose',
-  ),
-  14 => 
-  array (
-    0 => 'There is nothing to writing. All you do is sit down at a typewriter and bleed.',
-    1 => 'Ernest Hemingway',
-  ),
-  15 => 
-  array (
-    0 => 'There is always room at the top.',
-    1 => 'Daniel Webster',
-  ),
-  16 => 
-  array (
-    0 => 'Happiness can exist only in acceptance.',
-    1 => 'George Orwell',
-  ),
-  17 => 
-  array (
-    0 => 'Sense shines with a double luster when it is set in humility. An able and yet humble man is a jewel worth a kingdom.',
-    1 => 'William Penn',
-  ),
-  18 => 
-  array (
-    0 => 'No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none.',
-    1 => 'Henry Kissinger',
-  ),
-  19 => 
-  array (
-    0 => 'The opposite of a profound truth may well be another profound truth.',
-    1 => 'Bohr',
-  ),
-  20 => 
-  array (
-    0 => 'If you can tune into your purpose and really align with it, setting goals so that your vision is an expression of that purpose, then life flows much more easily.',
-    1 => 'Jack Canfield',
-  ),
-  21 => 
-  array (
-    0 => 'of how I react to it.',
-    1 => 'John Maxwell',
-  ),
-  22 => 
-  array (
-    0 => 'If you have any young friends who aspire to become writers, the second greatest favor you can do them is to present them with copies of The Elements of Style. The first greatest, of course, is to shoot them now, while they’re happy.',
-    1 => 'Dorothy Parker',
-  ),
-  23 => 
-  array (
-    0 => 'To laugh often and much; to win the respect of intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty; to find the best in others; to leave the world a bit better; to know even one life has breathed easier because you have lived. This is to have succeeded.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  24 => 
-  array (
-    0 => 'Most rock journalism is people who can\'t write interviewing people who can\'t talk for the people who can\'t read.',
-    1 => 'Frank Zappa',
-  ),
-);
+return [
+    [
+        'The success of the suffrage movement would injure women spiritually and intellectually, for they would be assuming a burden though they knew themselves unable to bear it. It is the sediment, not the wave, of a sex. It is the antithesis of that highest and sweetest mystery - conviction by submission, and conquest by sacrifice.',
+        'John Boyle O\'Reilly',
+    ],
+    [
+        'The pool is terrible, but that doesn\'t have much to do with my record swims. That\'s all mental attitude.',
+        'Mark Spitz',
+    ],
+    [
+        'A smile is the chosen vehicle of all ambiguities.',
+        'Herman Melville',
+    ],
+    [
+        'When you are facing the wilderness on your own, you have a totally different attitude to someone who works in government or who has a monthly cheque.',
+        'Rick Santelli',
+    ],
+    [
+        'The most decisive actions of our life... are most often unconsidered actions.',
+        'Andre Gide',
+    ],
+    [
+        'There are positive things that come of social media as well as negative.',
+        'Millie Bobby Brown',
+    ],
+    [
+        'Our deep respect for the land and its harvest is the legacy of generations of farmers who put food on our tables, preserved our landscape, and inspired us with a powerful work ethic.',
+        'James H. Douglas, Jr.',
+    ],
+    [
+        'From little acorns mighty oaks do grow.',
+        'American proverb',
+    ],
+    [
+        'Funny is only something that others know about you - you can\'t be funny by yourself.',
+        'Chris Rock',
+    ],
+    [
+        'Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist.',
+        'Mary Kay Ash',
+    ],
+    [
+        'I don\'t think our government really has much of a policy about air travel. I would compare the policies of United Arab Emirates, which has done a terrific job recognizing the value of transportation, of travel.',
+        'Jeff Smisek',
+    ],
+    [
+        'I don\'t think I could have a genuine relationship with someone who didn\'t love to travel and appreciate new foods. Traveling is a big part of my life, and I want to share that with the people close to me.',
+        'Candice Accola',
+    ],
+    [
+        'I think that\'s a great opportunity, to pick a script where you can build up a good skill. I think the main thing I look for when I look at scripts is if it\'s inspirational. If it\'s something that teenagers can relate to. And is it something that the audience is going to get something out of. If not, then it\'s really not worth doing.',
+        'Carly Schroeder',
+    ],
+    [
+        'I just want to go in with the right attitude and from Day 1 make a difference.',
+        'Freddy Adu',
+    ],
+    [
+        'I didn\'t know how to deal with success. If there was a Rock Star 101, I would have liked to take it. It might have helped me.',
+        'Kurt Cobain',
+    ],
+    [
+        'Success is a terrible thing and a wonderful thing. If you can enjoy it, it\'s wonderful. If it starts eating away at you, and they\'re waiting for more from me, or what can I do to top this, then you\'re in trouble. Just do what you love. That\'s all I want to do.',
+        'Gene Wilder',
+    ],
+    [
+        'When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.',
+        'Charles R. Swindoll',
+    ],
+    [
+        'We need affordable space travel to inspire our youth, to let them know that they can experience their dreams, can set significant goals and be in a position to lead all of us to future progress in exploration, discovery and fun. Thanks to the X Prize for the inspiration.',
+        'Burt Rutan',
+    ],
+    [
+        'We\'re a phenomenally snobby society, and it\'s such a rich seam. The middle class is so funny: it\'s the class I know best, and it\'s the class where you find the most pretension, so that\'s what makes the middle classes so funny.',
+        'J. K. Rowling',
+    ],
+    [
+        'Through the years you, the Delaware State family and your predecessors, have faced many challenges. You worked through them with fierce determination and good will, and you have made great progress.',
+        'Michael N. Castle',
+    ],
+    [
+        'Everything I buy is vintage and smells funny. Maybe that\'s why I don\'t have a boyfriend.',
+        'Lucy Liu',
+    ],
+    [
+        'Haiti is always talking about decentralization and nothing has been so obvious, perhaps a weakness, as the centralized nature of Haitian society as being revealed by the earthquake. I mean, they lost all these medical training programs because they didn\'t have them anywhere else.',
+        'Paul Farmer',
+    ],
+    [
+        'The company of fools may first make us smile, but in the end we always feel melancholy.',
+        'Oliver Goldsmith',
+    ],
+    [
+        'I have good and bad days like everyone else. I just try to be positive and surround myself with great people. When I think about all the great things and people I have had in my life, that gives me confidence.',
+        'Jessica White',
+    ],
+    [
+        'Food is about communal togetherness. Our family does sit at the table. I think it\'s a great tragedy if a family doesn\'t have a table, as there is such an atmosphere of good will and warmth when we have eight people sitting around it.',
+        'Jonathan Dimbleby',
+    ],
+];

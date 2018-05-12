@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.',
-    1 => 'Alfred Adler',
-  ),
-  1 => 
-  array (
-    0 => 'To succeed in life, you need two things: ignorance and confidence.',
-    1 => 'Mark Twain',
-  ),
-  2 => 
-  array (
-    0 => 'What you do today can improve all your tomorrows.',
-    1 => 'Ralph Marston',
-  ),
-  3 => 
-  array (
-    0 => 'Failure will never overtake me if my definition to succeed is strong enough.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  4 => 
-  array (
-    0 => 'I wish that the Indians believed me a god, for upon the report of an enemy\'s valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution.',
-    1 => 'Alexander the Great',
-  ),
-  5 => 
-  array (
-    0 => 'Caeca invidia est. (Envy is blind.)',
-    1 => 'Livy',
-  ),
-  6 => 
-  array (
-    0 => 'Ambition is the path to success. Persistence is the vehicle you arrive in.',
-    1 => 'Bill Bradley',
-  ),
-  7 => 
-  array (
-    0 => 'I could not, at any age, be content to take my place by the fireside and simply look on. Life was meant to be lived. Curiosity must be kept alive. One must never, for whatever reason, turn his back on life.',
-    1 => 'Abraham Lincoln',
-  ),
-  8 => 
-  array (
-    0 => 'Choose something you like to do. I know it\'s a cliche, and you\'ve heard it over and over. But the reason is, you\'re going to have to work long and hard to achieve any success. You better like it or life is going to be terrible.',
-    1 => 'Bill Kurtis',
-  ),
-  9 => 
-  array (
-    0 => 'What\'s comin\' will come, an\' we\'ll meet it when it does.',
-    1 => 'Hagrid–The Goblet of Fire',
-  ),
-  10 => 
-  array (
-    0 => 'We all have two lives. The second one starts when we realize we only have one.',
-    1 => 'Anne Hathaway',
-  ),
-  11 => 
-  array (
-    0 => 'I\'d like to one day be featured on a list of inspirational people who have made a difference in the world, whether it be helping underprivileged people or putting an end to the poaching of wildlife in Africa.',
-    1 => 'Candice Swanepoel',
-  ),
-  12 => 
-  array (
-    0 => 'It\'s not enough that I should succeed - others should fail.',
-    1 => 'David Merrick',
-  ),
-  13 => 
-  array (
-    0 => 'All men by nature desire to know.',
-    1 => 'Aristotle',
-  ),
-  14 => 
-  array (
-    0 => 'Try not to have a good time ... This is supposed to be educational.',
-    1 => 'Charles Schulz',
-  ),
-  15 => 
-  array (
-    0 => 'There are those whose lives affect all others around them. Quietly touching one heart, who in turn, touches another. Reaching out to ends further than they would ever know.',
-    1 => 'William Bradfield',
-  ),
-  16 => 
-  array (
-    0 => 'Success is not assured, but America is resolute: this is the best chance for peace we are likely to see for some years to come - and we are acting to help Israelis and Palestinians seize this chance.',
-    1 => 'Condoleezza Rice',
-  ),
-  17 => 
-  array (
-    0 => 'There is never just one thing that leads to success for anyone. I feel it always a combination of passion, dedication, hard work, and being in the right place at the right time.',
-    1 => 'Lauren Conrad',
-  ),
-  18 => 
-  array (
-    0 => 'Action is character.',
-    1 => 'F. Scott Fiztgerald',
-  ),
-  19 => 
-  array (
-    0 => 'God has intended the great to be great and the little to be little ... The trade unions, under the European system, destroy liberty ... I do not mean to say that a dollar a day is enough to support a workingman ... not enough to support a man and five children if he insists on smoking and drinking beer. But the man who cannot live on bread and water is not fit to live! A family may live on good bread and water in the morning, water and bread at midday, and good bread and water at night!',
-    1 => 'Rev. Henry Ward Beecher',
-  ),
-  20 => 
-  array (
-    0 => 'Practice is the best of all instructors.',
-    1 => 'Publilius',
-  ),
-  21 => 
-  array (
-    0 => 'I am always with myself, and it is I who am my tormenter.',
-    1 => 'Leo Tolstoy',
-  ),
-  22 => 
-  array (
-    0 => 'Greater love has no one than this, that he lay down his life for his friends.',
-    1 => 'Bible',
-  ),
-  23 => 
-  array (
-    0 => 'A bird doesn\'t sing because it has an answer, it sings because it has a song.',
-    1 => 'Maya Angelou',
-  ),
-  24 => 
-  array (
-    0 => 'The trouble with us in America isn\'t that the poetry of life has turned to prose, but that it has turned to advertising copy.',
-    1 => 'Louis Kronenberger',
-  ),
-);
+return [
+    [
+        'Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.',
+        'e. e. cummings',
+    ],
+    [
+        'It is as necessary for man to live in beauty rather than ugliness as it is necessary for him to have food for an aching belly or rest for a weary body.',
+        'Abraham Maslow',
+    ],
+    [
+        'What I love most about this crazy life is the adventure of it.',
+        'Oprah Winfrey',
+    ],
+    [
+        'In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand. Nobody on earth can give you either the key or the door to open, except yourself.',
+        'Jiddu Krishnamurti',
+    ],
+    [
+        'I realize I will always be the poster child for police brutality, but I can try to use that as a positive force for healing and restraint.',
+        'Rodney King',
+    ],
+    [
+        'Paintings have a life of their own that derives from the painter\'s soul.',
+        'Rafael Nadal',
+    ],
+    [
+        'Education is not preparation for life; education is life itself.',
+        'Maya Angelou',
+    ],
+    [
+        'Our society is not a community, but merely a collection of isolated family units.',
+        'Valerie Solanas',
+    ],
+    [
+        'Life is too short not to celebrate nice moments!',
+        'Ralph Marston',
+    ],
+    [
+        'Commitment, belief and positive attitude are all important if you\'re going to be a success, whether you\'re in sports, in business or, as in my case, anthropology.',
+        'Donald Johanson',
+    ],
+    [
+        'My good friends are Mormon, some of the best people I know.',
+        'Katherine Heigl',
+    ],
+    [
+        'I reached rock bottom halfway through college. And it was - because of all the pressure that I think we\'re talking about right now - the pressure to learn how to budget, the pressure to really abandon everything that you ever learned. You don\'t have a comfort zone anymore. You don\'t have your neighborhood. You don\'t have your family with you.',
+        'Jidenna',
+    ],
+    [
+        'When I was in high school I used to sit by myself in the cafeteria - not necessarily by choice - but I thought it was funny to talk to people that weren\'t there.',
+        'Zach Galifianakis',
+    ],
+    [
+        'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.',
+        'Cicely Tyson',
+    ],
+    [
+        'Try to keep your soul always in peace and quiet, always ready for whatever our Lord may wish to work in you. It is certainly a higher virtue of the soul, and a greater grace, to be able to enjoy the Lord in different times and different places than in only one.',
+        'Saint Ignatius',
+    ],
+    [
+        'I was never a pretty girl, so I wasn\'t the one to get the boy. I used to cast myself as a good sport. Sometimes I wonder if I do that too much with roles I play, because if I\'m absolutely truthful, I quite like being the best friend, or the supporting role, and actually I ought to gear-change and make myself the leading role.',
+        'Celia Imrie',
+    ],
+    [
+        'Learning to trust is one of life\'s most difficult tasks.',
+        'Isaac Asimov',
+    ],
+    [
+        'I can retire from football with a smile on my face.',
+        'John Matuszak',
+    ],
+    [
+        'Perhaps we\'ve never been visited by aliens because they have looked upon Earth and decided there\'s no sign of intelligent life.',
+        'N. R. Narayana Murthy',
+    ],
+    [
+        'In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'If you want to conquer fear, don\'t sit home and think about it. Go out and get busy.',
+        'Dale Carnegie',
+    ],
+    [
+        'Here is the tragedy: when you are the victim of depression, not only do you feel utterly helpless and abandoned by the world, you also know that very few people can understand, or even begin to believe, that life can be this painful. There is nothing I can think of that is quite as isolating as this.',
+        'Denise Van Outen',
+    ],
+    [
+        'He that is giddy thinks the world turns round.',
+        'William Shakespeare',
+    ],
+    [
+        'If you walk down the street and smile at someone, that will get passed on to the next person. That has the power to change someone\'s day.',
+        'Julianna Margulies',
+    ],
+    [
+        'The idea of modernity is beginning to lose its vitality. It is losing it because modernity is no longer a critical attitude but an accepted, codified convention.',
+        'Octavio Paz',
+    ],
+];

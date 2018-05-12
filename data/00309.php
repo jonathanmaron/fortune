@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The poor man is not he who is without a cent, but he who is without a dream.',
-    1 => 'Harry Kemp',
-  ),
-  1 => 
-  array (
-    0 => 'A handfull of patience is worth a bushel of brains.',
-    1 => 'Dutch Proverb',
-  ),
-  2 => 
-  array (
-    0 => 'Traveling around the country, meeting fans and hearing their stories in person and on my radio show has reenergized my commitment to creating honest and inspirational content that not only serves my own creative purposes but can help and touch others as well.',
-    1 => 'Nikki Sixx',
-  ),
-  3 => 
-  array (
-    0 => 'Don\'t give up just because things get hard. Give up if you feel in your gut that moving on is the right choice for you.',
-    1 => 'Lori Deschene',
-  ),
-  4 => 
-  array (
-    0 => 'I am not afraid... I was born to do this.',
-    1 => 'Joan of Arc',
-  ),
-  5 => 
-  array (
-    0 => 'I\'ve learned from experience that the greater part of our happiness or misery depends on our dispositions and not on our circumstances.',
-    1 => 'Martha Washington',
-  ),
-  6 => 
-  array (
-    0 => 'The person who makes a success of living is the one who sees his goal steadily and aims for it unswervingly. That is dedication.',
-    1 => 'Cecil B. DeMille',
-  ),
-  7 => 
-  array (
-    0 => 'Success in life is founded upon attention to the small things rather than to the large things; to the every day things nearest to us rather than to the things that are remote and uncommon.',
-    1 => 'Booker T. Washington',
-  ),
-  8 => 
-  array (
-    0 => 'Stephen Colbert, The Colbert Report Learn the art of patience. Apply discipline to your thoughts when they become anxious over the outcome of a goal. Impatience breeds anxiety, fear, discouragement and failure. Patience creates confidence, decisiveness, and a rational outlook, which eventually leads to success.',
-    1 => 'Brian Adams',
-  ),
-  9 => 
-  array (
-    0 => 'First say to yourself what you would be; and then do what you have to do.',
-    1 => 'Epictetus',
-  ),
-  10 => 
-  array (
-    0 => 'The ideal life is in our blood and never will be still.',
-    1 => 'Phillips Brooks',
-  ),
-  11 => 
-  array (
-    0 => 'Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.',
-    1 => 'Epictetus',
-  ),
-  12 => 
-  array (
-    0 => 'Be faithful to that which exists within yourself.',
-    1 => 'Andre Gide',
-  ),
-  13 => 
-  array (
-    0 => 'We like to think we spend most of our time power-typing. "I\'m being productive, I\'m writing programs!" But, we don\'t. We spend most of our time looking into the abyss, saying, "My God, what have I done?"',
-    1 => 'Douglas Crockford, during his keynote at YUIConf 2011',
-  ),
-  14 => 
-  array (
-    0 => 'Little minds are tamed and subdued by misfortune; but great minds rise above it.',
-    1 => 'Washington Irving',
-  ),
-  15 => 
-  array (
-    0 => 'Let us touch the dying, the poor, the lonely and the unwanted according to the graces we have received and let us not be ashamed or slow to do the humble work.',
-    1 => 'Mother Teresa',
-  ),
-  16 => 
-  array (
-    0 => 'The president of the United States has claimed, on more than one occasion, to be in dialogue with God. If he said that he was talking to God through his hairdryer, this would precipitate a national emergency. I fail to see how the addition of a hairdryer makes the claim more ridiculous or offensive.',
-    1 => 'Sam Harris, Letter to a Christian Nation',
-  ),
-  17 => 
-  array (
-    0 => 'Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.',
-    1 => 'Helen Keller',
-  ),
-  18 => 
-  array (
-    0 => 'Don\'t count the things you do, do the things that count.',
-    1 => 'Zig Ziglar',
-  ),
-  19 => 
-  array (
-    0 => 'When something is important enough, you do it even if the odds are not in your favor.',
-    1 => 'Elon Musk',
-  ),
-  20 => 
-  array (
-    0 => 'Teach this triple truth to all: A generous heart, kind speech, and a life of service and compassion are the things that renew humanity.',
-    1 => 'Buddha',
-  ),
-  21 => 
-  array (
-    0 => 'I don\'t wait for moods. You accomplish nothing if you do that. Your mind must know it has got to get down to work.',
-    1 => 'Pearl S. Buck',
-  ),
-  22 => 
-  array (
-    0 => 'Arise, Awake and stop not until the goal is reached.',
-    1 => 'Swami Vivekananda',
-  ),
-  23 => 
-  array (
-    0 => 'I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.',
-    1 => 'Henry David Thoreau',
-  ),
-  24 => 
-  array (
-    0 => 'In helping others, we shall help ourselves, for whatever good we give out completes the circle and comes back to us.',
-    1 => 'Flora Edwards',
-  ),
-);
+return [
+    [
+        'I\'m trying to raise the awareness of the troops that, when they deploy and go to war, it\'s not just them at war - it\'s also their family. Their family is having to go through all the hardships and the stresses.',
+        'Chris Kyle',
+    ],
+    [
+        'My father instilled in me an attitude that you couldn\'t really enjoy yourself unless you had done something to deserve it. So, my childhood was spent working on farms or local shops or, when I got older, in banks.',
+        'Ben Elliot',
+    ],
+    [
+        'When I was born I owed twelve dollars.',
+        'George S. Kaufman',
+    ],
+    [
+        'It is funny that men who are supposed to be scientific cannot get themselves to realise the basic principle of physics, that action and reaction are equal and opposite, that when you persecute people you always rouse them to be strong and stronger.',
+        'Gertrude Stein',
+    ],
+    [
+        'We feel very honored to have been offered the responsibility to host this great event, Berlin is a wonderful city that is developing at a tremendous rate, and this decision means that we can now prepare to welcome the world\'s best athletes to a fascinating place.',
+        'Otto Schily',
+    ],
+    [
+        'The best way to pay for a lovely moment is to enjoy it.',
+        'Richard Bach',
+    ],
+    [
+        'I recognize in thieves, traitors and murderers, in the ruthless and the cunning, a deep beauty - a sunken beauty.',
+        'Jean Genet',
+    ],
+    [
+        'Poverty was the greatest motivating factor in my life.',
+        'Jimmy Dean',
+    ],
+    [
+        'The Creator has not given you a longing to do that which you have no ability to do.',
+        'Orison Marden',
+    ],
+    [
+        'You weren\'t born just to live a life and to die; you were born to accomplish something specifically. Matter of fact, success is making it to the end of your purpose; that is success... Success is not just existing. Success is making it to the end of why you were born.',
+        'Myles Munroe',
+    ],
+    [
+        'Those who dream by day are cognizant of many things which escape those who dream only by night.',
+        'Edgar Allan Poe',
+    ],
+    [
+        'The person lives twice who lives the first life well.',
+        'Adam Gopnik',
+    ],
+    [
+        'Life is fleeting, and permanence in this world is something we all strive for. The best way to achieve permanence is through philanthropy.',
+        'Ram Shriram',
+    ],
+    [
+        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
+        'Ariana Grande',
+    ],
+    [
+        'Success is survival.',
+        'Leonard Cohen',
+    ],
+    [
+        'The medical literature tells us that the most effective ways to reduce the risk of heart disease, cancer, stroke, diabetes, Alzheimer\'s, and many more problems are through healthy diet and exercise. Our bodies have evolved to move, yet we now use the energy in oil instead of muscles to do our work.',
+        'David Suzuki',
+    ],
+    [
+        'Success requires first expending ten units of effort to produce one unit of results. Your momentum will then produce ten units of results with each unit of effort.',
+        'Charles J. Givens',
+    ],
+    [
+        'There has been a change in attitude, though.',
+        'Daniel Petrie',
+    ],
+    [
+        'Time extracts various values from a painter\'s work. When these values are exhausted the pictures are forgotten, and the more a picture has to give, the greater it is.',
+        'Henri Matisse',
+    ],
+    [
+        'I make a fabulous tofurkey for Thanksgiving. My Mexican-Italian family can\'t tell the difference.',
+        'Christian Serratos',
+    ],
+    [
+        'The best part of beauty is that which no picture can express.',
+        'Francis Bacon',
+    ],
+    [
+        'No level of border security, no wall, doubling the size of the border patrol, all these things will not stop the illegal migration from countries as long as a 7-year-old is desperate enough to flee on her own and travel the entire length of Mexico because of the poverty and the violence in her country.',
+        'Jeh Johnson',
+    ],
+    [
+        'Smile at a stranger. See what happens.',
+        'Patti LuPone',
+    ],
+    [
+        'You don\'t have to be great to start, but you have to start to be great.',
+        'Zig Ziglar',
+    ],
+    [
+        'The idea of politics is just so uninteresting to me - I\'ve never paid much attention to it. I don\'t believe things can really change. It doesn\'t matter who\'s president. Nothing really gets resolved. I don\'t know. I guess that\'s not the right attitude to take.',
+        'Trent Reznor',
+    ],
+];

@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.',
-    1 => 'Ella Wheeler Wilcox',
-  ),
-  1 => 
-  array (
-    0 => 'It takes a noble man to plant a seed for a tree that will some day give shade to people he may never meet.',
-    1 => 'D. Elton Trueblood',
-  ),
-  2 => 
-  array (
-    0 => 'A man sees in the world what he carries in his heart.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  3 => 
-  array (
-    0 => 'Fortune befriends the bold.',
-    1 => 'Emily Dickinson',
-  ),
-  4 => 
-  array (
-    0 => 'Success is full of promise till one gets it, and then it seems like a nest from which the bird has flown.',
-    1 => 'Henry Ward Beecher',
-  ),
-  5 => 
-  array (
-    0 => 'I Don\'t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  6 => 
-  array (
-    0 => 'I am hitting my head against the walls, but the walls are giving way.',
-    1 => 'Gustav Mahler',
-  ),
-  7 => 
-  array (
-    0 => 'If people knew how hard I worked to get my mastery, it wouldn\'t seem so wonderful at all.',
-    1 => 'Michaelangelo',
-  ),
-  8 => 
-  array (
-    0 => 'Courtesy is as much a mark of a gentleman as courage.',
-    1 => 'Abraham Lincoln',
-  ),
-  9 => 
-  array (
-    0 => 'My job as a leader is to make sure everybody in the company has great opportunities, and that they feel they\'re having a meaningful impact and are contributing to the good of society.',
-    1 => 'Larry Page',
-  ),
-  10 => 
-  array (
-    0 => 'You miss 100% of the shots you don\'t take.',
-    1 => 'Wayne Gretzky',
-  ),
-  11 => 
-  array (
-    0 => 'Pereant, inquit, qui ante nos nostra dixerunt.
-(Confound those who have said our remarks before us.)',
-    1 => 'Aelius Donatus',
-  ),
-  12 => 
-  array (
-    0 => 'The mind is everything. What you think you become.',
-    1 => 'Buddha',
-  ),
-  13 => 
-  array (
-    0 => 'I can, therefore I am.',
-    1 => 'Simone Weil',
-  ),
-  14 => 
-  array (
-    0 => 'For success of any mission, it is necessary to have creative leadership. Creative leadership is vital for government, non-governmental organisations as well as for industries.',
-    1 => 'A. P. J. Abdul Kalam',
-  ),
-  15 => 
-  array (
-    0 => 'One of the annoying things about believing in free will and individual responsibility is the difficulty of finding somebody to blame your problems on. And when you do find somebody, it\'s remarkable how often his picture turns up on your driver\'s license.',
-    1 => 'Robert G. Ingersoll',
-  ),
-  16 => 
-  array (
-    0 => 'Happiness is not something readymade.  It comes from your own actions.',
-    1 => 'Dalai Lama',
-  ),
-  17 => 
-  array (
-    0 => 'People of mediocre ability sometimes achieve outstanding success because they don\'t know when to quit. Most men succeed because they are determined to.',
-    1 => 'George Allen, Sr.',
-  ),
-  18 => 
-  array (
-    0 => 'One way to keep momentum going is to have constantly greater goals.',
-    1 => 'Michael Korda',
-  ),
-  19 => 
-  array (
-    0 => 'What I have in common with the character in \'Truman\' is this incredible need to please people. I feel like I want to take care of everyone and I also feel this terrible guilt if I am unable to. And I have felt this way ever since all this success started.',
-    1 => 'Jim Carrey',
-  ),
-  20 => 
-  array (
-    0 => 'I wish the Peace Corps and its volunteers continued success and perseverance. We are grateful for their contributions to society and dedication to providing assistance where it is needed. May the Peace Corps continue its legacy of service, both at home and abroad.',
-    1 => 'Kenny Marchant',
-  ),
-  21 => 
-  array (
-    0 => 'It is wrong always, everywhere and for everyone to believe anything upon insufficient evidence.',
-    1 => 'W. K. Clifford, British philosopher, circa 1876',
-  ),
-  22 => 
-  array (
-    0 => 'Crash programs fail because they are based on the theory that, with nine women pregnant, you can get a baby a month.',
-    1 => 'Wernher von Braun',
-  ),
-  23 => 
-  array (
-    0 => 'I used to make up stuff in my bio all the time, that I used to be a professional ice-skater and stuff like that. I found it so inspirational. Why not make myself cooler than I am?',
-    1 => 'Stephen Colbert',
-  ),
-  24 => 
-  array (
-    0 => 'How wonderful that no one need wait a single moment to improve the world.',
-    1 => 'Anne Frank',
-  ),
-);
+return [
+    [
+        'The Journey of Reconciliation was organized not only to devise techniques for eliminating Jim Crow in travel, but also as a training ground for similar peaceful projects against discrimination in such major areas as employment and in the armed services.',
+        'Bayard Rustin',
+    ],
+    [
+        'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
+        'Confucius',
+    ],
+    [
+        'We are what we repeatedly do. Excellence, then, is not an act, but a habit.',
+        'Aristotle',
+    ],
+    [
+        'Genius is one percent inspiration and ninety-nine percent perspiration.',
+        'Thomas Edison',
+    ],
+    [
+        'To get the full value of joy you must have someone to divide it with.',
+        'Mark Twain',
+    ],
+    [
+        'Whosoever desires constant success must change his conduct with the times.',
+        'Niccolo Machiavelli',
+    ],
+    [
+        'The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.',
+        'Vincent Lombardi',
+    ],
+    [
+        'Beauty in things exists in the mind which contemplates them.',
+        'David Hume',
+    ],
+    [
+        'Funny is funny. I dare anyone to look at Tim Conway and Harvey Korman doing the dentist sketch, which is more than 40 years old, and not scream with laughter.',
+        'Carol Burnett',
+    ],
+    [
+        'Less is always more. The best language is silence. We live in a time of a terrible inflation of words, and it is worse than the inflation of money.',
+        'Eduardo Galeano',
+    ],
+    [
+        'We take so many of our freedoms for granted nowadays - I can travel where I like, I can do any job I want - but I think chivalry has been lost a little bit.',
+        'Michelle Dockery',
+    ],
+    [
+        'If you think you can do it, you can.',
+        'John Burroughs',
+    ],
+    [
+        'I\'m just here for good times, man. I want people to have the best time ever. Especially if they\'re around me.',
+        'Travis Scott',
+    ],
+    [
+        'Success has a simple formula: do your best, and people may like it.',
+        'Sam Ewing',
+    ],
+    [
+        'Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.',
+        'Margaret Runbeck',
+    ],
+    [
+        'But the only comparison that I want to Lenny Bruce is that I\'m funny. I\'m Freddie Prinze, Puerto Rican all the way.',
+        'Freddie Prinze',
+    ],
+    [
+        'You\'ve got to know how to hustle. I got a lot of inspiration from my parents. My father was definitely a hustler. With six kids in the house, you always got to be hustling. And my mom, she\'s got sick work ethic.',
+        'Jay Pharoah',
+    ],
+    [
+        'It\'s not a bad idea to occasionally spend a little time thinking about things you take for granted. Plain everyday things.',
+        'Evan Davis',
+    ],
+    [
+        'I do not need to hear how I am judged by others. I know by myself if I can be satisfied or not with my work.',
+        'Gianluigi Buffon',
+    ],
+    [
+        'I feel the older I get, the more I\'m learning to handle life. Being on this quest for a long time, it\'s all about finding yourself.',
+        'Ringo Starr',
+    ],
+    [
+        'We succeed in enterprises which demand the positive qualities we possess, but we excel in those which can also make use of our defects.',
+        'Alexis de Tocqueville',
+    ],
+    [
+        'Marriage is an act of will that signifies and involves a mutual gift, which unites the spouses and binds them to their eventual souls, with whom they make up a sole family - a domestic church.',
+        'Pope John Paul II',
+    ],
+    [
+        'Failure doesn\'t mean you are a failure it just means you haven\'t succeeded yet.',
+        'Robert Schuller',
+    ],
+    [
+        'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
+        'Bruce Lee',
+    ],
+    [
+        'You can choose not to sit on the fence. You can choose not to criticise. You must stand as guard at the door of your own mind and choose to be positive.',
+        'Gail Kelly',
+    ],
+];

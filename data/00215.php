@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Failure is not an option. It comes bundled with your Microsoft product.',
-    1 => 'Ferenc Mantfeld',
-  ),
-  1 => 
-  array (
-    0 => 'When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.',
-    1 => 'Henry Ford',
-  ),
-  2 => 
-  array (
-    0 => 'A desire presupposes the possibility of action to achieve it; action presupposes a goal which is worth achieving.',
-    1 => 'Ayn Rand',
-  ),
-  3 => 
-  array (
-    0 => 'Happiness is when what you think, what you say, and what you do are in harmony.',
-    1 => 'Mahatma Gandhi',
-  ),
-  4 => 
-  array (
-    0 => 'As soon as the fear approaches near, attack and destroy it.',
-    1 => 'Chanakya',
-  ),
-  5 => 
-  array (
-    0 => 'Those who have succeeded at anything and don\'t mention luck are kidding themselves.',
-    1 => 'Larry King',
-  ),
-  6 => 
-  array (
-    0 => 'Feeling lost? Good! Now you get to walk to new paths that lead to much better places.',
-    1 => 'Robin Sharma',
-  ),
-  7 => 
-  array (
-    0 => 'When I hear somebody sigh, ‘Life is hard,\' I am always tempted to ask, ‘Compared to what?\'',
-    1 => 'Sydney Harris',
-  ),
-  8 => 
-  array (
-    0 => 'Ordinary people love entertainment. Extraordinary people adore education.',
-    1 => 'Robin Sharma',
-  ),
-  9 => 
-  array (
-    0 => 'A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.',
-    1 => 'Saint Basil',
-  ),
-  10 => 
-  array (
-    0 => 'If you\'re not scared a lot you\'re not doing very much.',
-    1 => 'Robin Sharma',
-  ),
-  11 => 
-  array (
-    0 => 'The road to success is always under construction.',
-    1 => 'Lily Tomlin',
-  ),
-  12 => 
-  array (
-    0 => 'Many are called but few get up.',
-    1 => 'Oliver Herford',
-  ),
-  13 => 
-  array (
-    0 => 'If a man does not know what port he is steering for, no wind is favorable to him.',
-    1 => 'Seneca',
-  ),
-  14 => 
-  array (
-    0 => 'I don\'t think \'Cocktail\' was a perfect critical success, but it touched a vein in our culture.',
-    1 => 'Elisabeth Shue',
-  ),
-  15 => 
-  array (
-    0 => 'Greatness on the outside begins within.',
-    1 => 'Robin Sharma',
-  ),
-  16 => 
-  array (
-    0 => 'Don\'t worry about the world coming to an end today. It\'s already tomorrow in Australia.',
-    1 => 'Charles Schultz',
-  ),
-  17 => 
-  array (
-    0 => 'The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.',
-    1 => 'Winston Churchill',
-  ),
-  18 => 
-  array (
-    0 => 'That government is best which governs least.',
-    1 => 'Thomas Jefferson',
-  ),
-  19 => 
-  array (
-    0 => 'The world breaks everyone, and afterward, many are strong at the broken places.',
-    1 => 'Ernest Hemingway',
-  ),
-  20 => 
-  array (
-    0 => 'Man is a Generalist. Specialization is for insects.',
-    1 => 'Lazarus Long',
-  ),
-  21 => 
-  array (
-    0 => 'I\'m also not very analytical. You know, I don\'t spend a lot of time thinking about myself, about why I do things.',
-    1 => 'George W. Bush, aboard Air Force One; June 4, 2003',
-  ),
-  22 => 
-  array (
-    0 => 'You cannot allow your desire to be a winner to be diminished by achieving success before and I believe there is room for improvement in every sportsman.',
-    1 => 'Lionel Messi',
-  ),
-  23 => 
-  array (
-    0 => 'Sometimes the most important thing in a whole day is the rest we take between two deep breaths.',
-    1 => 'Etty Hillesum',
-  ),
-  24 => 
-  array (
-    0 => 'What makes the desert beautiful is that somewhere it hides a well.',
-    1 => 'Antoine de Saint-Exupery',
-  ),
-);
+return [
+    [
+        'I really cherish the memories I have of my trips. For some reason, when you travel, it\'s like your mind picks up on the fact that this is something uncharacteristic, so it tunes in more acutely and remembers better.',
+        'Jennette McCurdy',
+    ],
+    [
+        'I watched Gene Kelly for his smile, for his energy. Vittorio Gassman for his movement. Clark Gable for his mustache. And I watched Lassie who was happy as a dog.',
+        'Jean Dujardin',
+    ],
+    [
+        'It is not so important to know everything as to appreciate what we learn.',
+        'Hannah More',
+    ],
+    [
+        'Culture is the intersection of people and life itself. It\'s how we deal with life, love, death, birth, disappointment... all of that is expressed in culture.',
+        'Sai Baba',
+    ],
+    [
+        'The world is getting so small. Young people are mobile; they want to travel around the world. When you travel around the world, you exchange culture, you want to make friends, you want to exchange things.',
+        'Jack Ma',
+    ],
+    [
+        'When I look out at the people and they look at me and they\'re smiling, then I know that I\'m loved. That is the time when I have no worries, no problems.',
+        'Etta James',
+    ],
+    [
+        'It is critical that parents and other trusted adults initiate conversations with kids about underage drinking well in advance of the first time they are faced with a decision regarding alcohol.',
+        'Xavier Becerra',
+    ],
+    [
+        'We\'re teaching our kids that attributes as vague and relatively meaningless as a toothy smile or a fine head of hair make a fine statement about a person.',
+        'Neil Cavuto',
+    ],
+    [
+        'Frost is the greatest artist in our clime - he paints in nature and describes in rime.',
+        'Thomas Hood',
+    ],
+    [
+        'I think it\'s way harder when you have success, \'cause people tend to not treat you the same or look at you the same because they see the success or the money you make.',
+        'Meek Mill',
+    ],
+    [
+        'At the end of the day, life is about being happy being who you are, and I feel like we are so blessed to have the support system and the best family to really just support each other no matter what we\'re going through.',
+        'Benjamin Franklin',
+    ],
+    [
+        'If you\'re successful, it\'s important to enjoy it! I love shopping for clothes, branded clothes. I love shopping in England, Dubai. I like to travel whenever I can.',
+        'Suresh Raina',
+    ],
+    [
+        'Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best.',
+        'Napoleon Hill',
+    ],
+    [
+        'I\'m very naturally happy, quirky and positive.',
+        'Kiesza',
+    ],
+    [
+        'If our hearts are ready for anything, we are touched by the beauty and poetry and mystery that fill our world.',
+        'Tara Brach',
+    ],
+    [
+        'I\'ve always believed that there are funny people everywhere, but they\'re just not comedians. In fact, some of my best comedic inspirations were not professional entertainers.',
+        'Steve Martin',
+    ],
+    [
+        'A journey by Sea and Land, Five Hundred Miles, is not undertaken without money.',
+        'Lewis Hallam',
+    ],
+    [
+        'I\'m in love with beauty and things and people and love and being in love, and those things, I think, on the inside, show on the outside.',
+        'Gloria Vanderbilt',
+    ],
+    [
+        'Every girls\' night needs a funny movie and a good conversation about guys! My friends and I also love picking outfits out for each other to try on at slumber parties. It\'s so fun.',
+        'Jennette McCurdy',
+    ],
+    [
+        'I\'m ephemeral as much as I can be, so I started to think about the idea of not working. It\'s really about a change of attitude. It\'s not so much about stopping, but about re-thinking the meaning of one\'s production.',
+        'Rirkrit Tiravanija',
+    ],
+    [
+        'You can\'t really say what is beautiful about a place, but the image of the place will remain vividly with you.',
+        'Tadao Ando',
+    ],
+    [
+        'I want to thank you for taking time out of your day to come and witness my hanging.',
+        'George W. Bush',
+    ],
+    [
+        'There is no real beauty without some slight imperfection.',
+        'James Salter',
+    ],
+    [
+        'Knowing your own darkness is the best method for dealing with the darknesses of other people.',
+        'Carl Jung',
+    ],
+    [
+        'The true nature of evil is that it is so very casual.',
+        'James St. James',
+    ],
+];

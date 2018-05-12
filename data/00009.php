@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Volcano',
-    1 => 'a mountain with hiccups.',
-  ),
-  1 => 
-  array (
-    0 => 'Most people give up just when they\'re about to achieve success. They quit on the one yard line. They give up at the last minute of the game one foot from a winning touchdown.',
-    1 => 'Ross Perot',
-  ),
-  2 => 
-  array (
-    0 => 'The best part of life is not just surviving, but thriving with passion and compassion and humor and style and generosity and kindness.',
-    1 => 'Maya Angelou',
-  ),
-  3 => 
-  array (
-    0 => 'Let your love be like the misty rains, coming softly, but flooding the river.',
-    1 => 'Malagasy Proverb',
-  ),
-  4 => 
-  array (
-    0 => 'The question isn\'t who is going to let me; it\'s who is going to stop me.',
-    1 => 'Ayn Rand',
-  ),
-  5 => 
-  array (
-    0 => 'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.',
-    1 => 'Helen Keller',
-  ),
-  6 => 
-  array (
-    0 => 'Giving back, doing motivational speeches and stuff like that, that\'s always made me feel good. If you repeatedly go out there, and you are the change that you want to see, then that\'s what you are.',
-    1 => 'Keke Palmer',
-  ),
-  7 => 
-  array (
-    0 => 'I have never killed a man, but I have read many obituaries with great pleasure.',
-    1 => 'Clarence Darrow',
-  ),
-  8 => 
-  array (
-    0 => 'Do not fear mistakes. You will know failure. Continue to reach out.',
-    1 => 'Benjamin Franklin',
-  ),
-  9 => 
-  array (
-    0 => 'He who wishes to secure the good of others, has already secured his own.',
-    1 => 'Confucius',
-  ),
-  10 => 
-  array (
-    0 => 'Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.',
-    1 => 'Marcus Aurelius',
-  ),
-  11 => 
-  array (
-    0 => 'Try to look at your weakness and convert it into your strength. That\'s success.',
-    1 => 'Zig Ziglar',
-  ),
-  12 => 
-  array (
-    0 => 'You don\'t have to be great to start, but you have to start to be great.',
-    1 => 'Zig Ziglar',
-  ),
-  13 => 
-  array (
-    0 => 'Our grand duty is not to see what lies dimly in the distance, but to do what lies clearly at hand.',
-    1 => 'Thomas Carlyle',
-  ),
-  14 => 
-  array (
-    0 => 'The nice thing about standards is that there are so many of them to choose from.',
-    1 => 'Andrew S. Tanenbaum',
-  ),
-  15 => 
-  array (
-    0 => 'You can\'t win the game if you don\'t even play it.',
-    1 => 'Robin Sharma',
-  ),
-  16 => 
-  array (
-    0 => 'The one thing that matters is the effort.',
-    1 => 'Antoine de Sainte-Exupery',
-  ),
-  17 => 
-  array (
-    0 => 'I regret to say that we of the FBI are powerless to act in cases of oral-genital intimacy, unless it has in some way obstructed interstate commerce.',
-    1 => 'J. Edgar Hoover',
-  ),
-  18 => 
-  array (
-    0 => 'The system that enables the most people to earn the most success is free enterprise, by matching up people\'s skills, interests, and abilities. In contrast, redistribution simply spreads money around. Even worse, it attenuates the ability to earn success by perverting economic incentives.',
-    1 => 'Arthur C. Brooks',
-  ),
-  19 => 
-  array (
-    0 => 'Success to me is having ten honeydew melons and eating only the top half of each slice.',
-    1 => 'Barbra Streisand',
-  ),
-  20 => 
-  array (
-    0 => 'I realized a long time ago that instead of being jealous you can be inspired and appreciative. It carries more energy to you. That can be an awesome and motivating force that can improve your life if you choose to be inspired and not jealous. One has no benefit whatsoever, the other is an incredible resource for creating momentum and improvement.',
-    1 => 'Joe Rogan',
-  ),
-  21 => 
-  array (
-    0 => 'My own life has been spent chronicling the rise and fall of human systems, and I am convinced that we are terribly vulnerable.... We should be reluctant to turn back upon the frontier of this epoch. Space is indifferent to what we do; it has no feeling, no design, no interest in whether or not we grapple with it. But we cannot be indifferent to space, because the grand, slow march of intelligence has brought us, in our generation, to a point from which we can explore and understand and utilize it. To turn back now would be to deny our history, our capabilities.',
-    1 => 'James A. Michener',
-  ),
-  22 => 
-  array (
-    0 => 'Actually, I\'m an overnight success, but it took twenty years.',
-    1 => 'Monty Hall',
-  ),
-  23 => 
-  array (
-    0 => 'You don\'t have to accept the invitation to get angry. Instead, practice forgiveness, empathy and encouragement.',
-    1 => 'Hugh Sidey',
-  ),
-  24 => 
-  array (
-    0 => 'I support efforts to limit the terms of members of Congress, especially members of the House and members of the Senate.',
-    1 => 'former Vice-President Dan Quayle',
-  ),
-);
+return [
+    [
+        'We achieved our mission to the moon. Let\'s look home from that lofty perch and reimagine our mission on Earth - that is what we need to do here. Together, we can upcycle everything. The world will be better for our positive visions and actions.',
+        'William McDonough',
+    ],
+    [
+        'It is with words as with sunbeams. The more they are condensed, the deeper they burn.',
+        'Robert Southey',
+    ],
+    [
+        'Providing patients and consumers with solid information on the cost and quality of their healthcare options can literally make the difference between life or death; and play a decisive role in whether a family or employer can afford healthcare.',
+        'Timothy Murphy',
+    ],
+    [
+        'The best road to progress is freedom\'s road.',
+        'John F. Kennedy',
+    ],
+    [
+        'YouTube\'s a funny place because so many creators fall into their aesthetics out of necessity and the visuals are driven out of an urge to create. You get a lot of interesting examples of interesting design choices that have roots in practicality as well as an artistic sentiment.',
+        'Freddie Wong',
+    ],
+    [
+        'I can walk into a room and create a good ambience. I was taught all about this back when I studied acting. One of the things they would teach you is how to send out positive signals when you enter a room. I am glad I learned this.',
+        'Jean Reno',
+    ],
+    [
+        'We should be the pro-legal immigration party. A party that has a positive platform and agenda on how we can create a legal immigration system that works for immigrants and works for America.',
+        'Marco Rubio',
+    ],
+    [
+        'Of life\'s two chief prizes, beauty and truth, I found the first in a loving heart and the second in a laborer\'s hand.',
+        'Khalil Gibran',
+    ],
+    [
+        'A man who leaves home to mend himself and others is a philosopher; but he who goes from country to country, guided by the blind impulse of curiosity, is a vagabond.',
+        'Oliver Goldsmith',
+    ],
+    [
+        'There will always be a desire for something new, fresh and innovative, as well as a yearning and respect for timeless elegance and beauty.',
+        'Helena Christensen',
+    ],
+    [
+        'My life is about ups and downs, great joys and great losses.',
+        'Ludwig van Beethoven',
+    ],
+    [
+        'Winning isn\'t everything, it\'s the only thing.',
+        'Vince Lombardi',
+    ],
+    [
+        'Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.',
+        '',
+    ],
+    [
+        'The time you enjoy wasting is not wasted time.',
+        'Bertrand Russell',
+    ],
+    [
+        'Life begins at the end of your comfort zone.',
+        'Reba McEntire',
+    ],
+    [
+        'The best way to navigate through life is to give up all of our controls.',
+        'Gerald Jampolsky',
+    ],
+    [
+        'I don\'t believe in angels, no. But I do have a wee parking angel. It\'s on my dashboard and you wind it up. The wings flap and it\'s supposed to give you a parking space. It\'s worked so far.',
+        'Billy Connolly',
+    ],
+    [
+        'Adele shattered the image of how the stereotypical singer is supposed to look. She has that whole \'Screw you, I\'m awesome for what I do\' attitude, which I really look up to and want to be a part of.',
+        'Mary Lambert',
+    ],
+    [
+        'Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning.',
+        'Denis Waitley',
+    ],
+    [
+        'The ladder of success in Hollywood is usually a press agent, actor, director, producer, leading man; and you are a star if you sleep with each of them in that order. Crude, but true.',
+        'Hedy Lamarr',
+    ],
+    [
+        'I\'ll never stop dreaming that one day we can be a real family, together, all of us laughing and talking, loving and understanding, not looking at the past but only to the future.',
+        'LaToya Jackson',
+    ],
+    [
+        'Reading was very important to me as a kid. It was very inspirational to me. I went to a school where that wasn\'t encouraged so much, but my parents encouraged that, and it has made me part of who I am.',
+        'Sasha Grey',
+    ],
+    [
+        'Hope is not just... out in the sky, or accepting the facts or reality. Hope is having optimistic, positive expectations.',
+        'Craig Sager',
+    ],
+    [
+        'A good actor is someone who knows how to take the part and make it real and make it honest and be effective in it. If it\'s in a funny movie and, as long as they are cast in an appropriate way, humor will come from it.',
+        'Ivan Reitman',
+    ],
+    [
+        'I don\'t feel pressure in a negative way. I like pressure. I feel excitement and calm at the same time. No pressure, no diamonds. I want pressure: pressure creates drama, creates emotion.',
+        'Conor McGregor',
+    ],
+];

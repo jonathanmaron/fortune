@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A point of view can be a dangerous luxury when substituted for insight and understanding.',
-    1 => 'Marshall McLuhan',
-  ),
-  1 => 
-  array (
-    0 => 'The success and the failure are not my concern, but His.',
-    1 => 'Joseph Barber Lightfoot',
-  ),
-  2 => 
-  array (
-    0 => 'The power of hope upon human exertion, and happiness, is wonderful.',
-    1 => 'Abraham Lincoln',
-  ),
-  3 => 
-  array (
-    0 => 'Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.',
-    1 => 'Larry Wall',
-  ),
-  4 => 
-  array (
-    0 => 'A quarrel is quickly settled when deserted by one party; there is no battle unless there be two.',
-    1 => 'Seneca',
-  ),
-  5 => 
-  array (
-    0 => 'Life\'s blows cannot break a person whose spirit is warmed at the fire of enthusiasm.',
-    1 => 'Norman Vincent Peale',
-  ),
-  6 => 
-  array (
-    0 => 'The only failure is not trying.',
-    1 => 'Robin Sharma',
-  ),
-  7 => 
-  array (
-    0 => 'A second marriage is the triumph of hope over experience.',
-    1 => 'Samuel Johnson',
-  ),
-  8 => 
-  array (
-    0 => 'The success of the young entrepreneur will be the key to India\'s transformation in the new millennium.',
-    1 => 'Dhirubhai Ambani',
-  ),
-  9 => 
-  array (
-    0 => 'Pride slays thanksgiving, but a humble mind is the soil out of which thanks naturally grow. A proud man is seldom a grateful man, for he never thinks he gets as much as he deserves.',
-    1 => 'Henry Ward Beecher',
-  ),
-  10 => 
-  array (
-    0 => 'Be great in act, as you have been in thought.',
-    1 => 'William Shakespeare',
-  ),
-  11 => 
-  array (
-    0 => 'Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.',
-    1 => 'Pauline Kael',
-  ),
-  12 => 
-  array (
-    0 => 'Having a soft heart in a cruel world is courage, not weakness.',
-    1 => 'Katherine Henson',
-  ),
-  13 => 
-  array (
-    0 => 'Every day we should hear at least one little song, read one good poem, see one exquisite picture, and, if possible, speak a few sensible words.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  14 => 
-  array (
-    0 => 'When you are backed against the wall, Break the goddamn thing down.',
-    1 => 'Harvey Specter',
-  ),
-  15 => 
-  array (
-    0 => 'You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.',
-    1 => 'Zig Ziglar',
-  ),
-  16 => 
-  array (
-    0 => 'Without pain, without sacrifice, we would have nothing.',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  17 => 
-  array (
-    0 => 'If a building becomes architecture, then it is art',
-    1 => 'Arne Jacobsen',
-  ),
-  18 => 
-  array (
-    0 => 'Excellence can be obtained if you care more than others think is wise, risk more than others think is safe, dream more than others think is practical, expect more than others think is possible.',
-    1 => 'Unknown',
-  ),
-  19 => 
-  array (
-    0 => 'Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.',
-    1 => 'Jamie Paolinetti',
-  ),
-  20 => 
-  array (
-    0 => 'Saying that Java is nice because it works on all OSes is like saying that anal sex is nice because it works on all genders.',
-    1 => 'Alanna',
-  ),
-  21 => 
-  array (
-    0 => 'If you think you are too small to make a difference, try sleeping with a mosquito.',
-    1 => 'Dalai Lama',
-  ),
-  22 => 
-  array (
-    0 => 'Positive thinking is the key to success in business, education, pro football, anything that you can mention. I go out there thinking that I\'m going to complete every pass.',
-    1 => 'Ron Jaworski',
-  ),
-  23 => 
-  array (
-    0 => 'Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.',
-    1 => 'Buddha',
-  ),
-  24 => 
-  array (
-    0 => 'Success? You can\'t get a big head about it. When people stare at me, they could be whispering to their friend, \'That guy sucks! Have you seen him before? He\'s horrible.\'',
-    1 => 'David Spade',
-  ),
-);
+return [
+    [
+        'Do not worry about avoiding temptation. As you grow older it will avoid you.',
+        'Joey Adams',
+    ],
+    [
+        'I do try to speak of positive things. I still try to, like, present two sides of the story, and I do try to relate to life in a 360 degree and not be one-dimensional. But by all means, manage expectations.',
+        'Q-Tip',
+    ],
+    [
+        'Wearing the correct dress for any occasion is a matter of good manners.',
+        'Loretta Young',
+    ],
+    [
+        'Mankind\'s true moral test, its fundamental test (which lies deeply buried from view), consists of its attitude towards those who are at its mercy: animals. And in this respect mankind has suffered a fundamental debacle, a debacle so fundamental that all others stem from it.',
+        'Milan Kundera',
+    ],
+    [
+        'There is always room at the top.',
+        'Daniel Webster',
+    ],
+    [
+        'The important thing is this: to be able at any moment to sacrifice what we are for what we could become.',
+        'Charles Dubois',
+    ],
+    [
+        'As a Korean War Veteran, I know too well the troubling nature of war. This is why I will always support a diplomatic answer before military intervention.',
+        'Charles B. Rangel',
+    ],
+    [
+        'My best vacation is somewhere I could hide, somewhere warm and not a lot of people around.',
+        'Derek Jeter',
+    ],
+    [
+        'Good-quality travel and good-quality food are the two luxuries that I never have any guilt indulging in.',
+        'Charlie Hunnam',
+    ],
+    [
+        'If my life wasn\'t funny, it would just be true, and that\'s unacceptable.',
+        'Carrie Fisher',
+    ],
+    [
+        'Migration is as natural as breathing, as eating, as sleeping. It is part of life, part of nature. So we have to find a way of establishing a proper kind of scenario for modern migration to exist. And when I say \'we,\' I mean the world. We need to find ways of making that migration not forced.',
+        'Gael Garcia Bernal',
+    ],
+    [
+        'You may have to fight a battle more than once to win it.',
+        'Margaret Thatcher',
+    ],
+    [
+        'The best preparation for tomorrow is doing your best today.',
+        'H. Jackson Brown, Jr.',
+    ],
+    [
+        'I have to think of the positive; that\'s how I cope.',
+        'Ingrid Newkirk',
+    ],
+    [
+        'There\'s not an instruction manual on how to deal with success, so you just have to rely on having great friends and a good team.',
+        'Bryan Adams',
+    ],
+    [
+        'I feel that people are basically trying to do their best in the world. Even when you see people making mistakes, you understand why they\'re making a mistake. Everybody has flaws, everybody has demons, everybody has ghosts, but I think you watch people and you see everybody trying to do their best.',
+        'Jason Katims',
+    ],
+    [
+        'Everything has beauty, but not everyone sees it.',
+        'Confucius',
+    ],
+    [
+        'I have been a foreigner all my life, first as a daughter of diplomats, then as a political refugee and now as an immigrant in the U.S. I have had to leave everything behind and start anew several times, and I have lost most of my extended family.',
+        'Isabel Allende',
+    ],
+    [
+        'The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they\'re all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn\'t it?',
+        'Dennis C. Blair',
+    ],
+    [
+        'I allow a lot of room for improvisation and funny stuff. I always feel planned.',
+        'Michael Bay',
+    ],
+    [
+        'Keep close to Nature\'s heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean.',
+        'John Muir',
+    ],
+    [
+        'Imagination creates reality.',
+        'Richard Wagner',
+    ],
+    [
+        'You know, who cares about seeing the girls when everybody wants to see the band. That\'s what\'s important, KISS is important. I think we look great, and the attitude is there, and I\'m real happy with it.',
+        'Eric Carr',
+    ],
+    [
+        'Whatever the universal nature assigns to any man at any time is for the good of that man at that time.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.',
+        'Jules Renard',
+    ],
+];

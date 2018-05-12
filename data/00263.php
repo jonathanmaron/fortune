@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Gamble everything for love, if you are a true human being. Halfheartedness does not reach into majesty.',
-    1 => 'Rumi',
-  ),
-  1 => 
-  array (
-    0 => 'To double your income and success, triple your investment in personal development and professional mastery.',
-    1 => 'Robin Sharma',
-  ),
-  2 => 
-  array (
-    0 => 'Applause waits on success.',
-    1 => 'Benjamin Franklin',
-  ),
-  3 => 
-  array (
-    0 => 'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\'t found it yet, keep looking. Don\'t settle. As with all matters of the heart, you\'ll know when you find it.',
-    1 => 'Steve Jobs',
-  ),
-  4 => 
-  array (
-    0 => 'Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.',
-    1 => 'Jim Rohn',
-  ),
-  5 => 
-  array (
-    0 => 'Always fall in with what you\'re asked to accept. Take what is given, and make it over your way. My aim in life has always been to hold my own with whatever\'s going. Not against: with.',
-    1 => 'Swami Sivananda',
-  ),
-  6 => 
-  array (
-    0 => 'Man has responsibility, not power.',
-    1 => 'Tuscarora Proverb',
-  ),
-  7 => 
-  array (
-    0 => 'What matters is the value we\'ve created in our lives, the people we\'ve made happy and how much we\'ve grown as people.',
-    1 => 'Daisaku Ikeda',
-  ),
-  8 => 
-  array (
-    0 => 'Non-cooperation with evil is as much a duty as is cooperation with good.',
-    1 => 'Mohandas Karamchand Gandhi',
-  ),
-  9 => 
-  array (
-    0 => 'Push yourself because no one else is going to do it for you.',
-    1 => 'Unknown',
-  ),
-  10 => 
-  array (
-    0 => 'Do not wait; the time will never be \'just right.\' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.',
-    1 => 'George Herbert',
-  ),
-  11 => 
-  array (
-    0 => 'An ounce of practice is better than tons of teaching.',
-    1 => 'Mahatma Gandhi',
-  ),
-  12 => 
-  array (
-    0 => 'Evolution does not require the nonexistence of God, it merely allows for it. That alone is enough to evoke condemnation from those who fear the nonexistence of God more than they fear God Himself.',
-    1 => 'Keith Doyle, in talk.origins',
-  ),
-  13 => 
-  array (
-    0 => 'In a conflict between the heart and the brain, follow your heart.',
-    1 => 'Swami Vivekananda',
-  ),
-  14 => 
-  array (
-    0 => 'The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name.',
-    1 => 'Sylvia Browne',
-  ),
-  15 => 
-  array (
-    0 => 'Equality before the law is probably forever inattainable. It is a noble ideal, but it can never be realized, for what men value in this world is not rights but privileges.',
-    1 => 'H.L. Mencken, Minority Report, 1956',
-  ),
-  16 => 
-  array (
-    0 => 'Re: graphics: A picture is worth 10K words',
-    1 => 'but only those to describe the picture. Hardly any sets of 10K words can be adequately described with pictures.',
-  ),
-  17 => 
-  array (
-    0 => 'Fortune always favors the brave, and never helps a man who does not help himself.',
-    1 => 'P.T. Barnum',
-  ),
-  18 => 
-  array (
-    0 => 'If you set goals and go after them with all the determination you can muster, your gifts will take you places that will amaze you.',
-    1 => 'Les Brown',
-  ),
-  19 => 
-  array (
-    0 => 'If the world seems cold to you, kindle fires to warm it.',
-    1 => 'Lucy Larcom',
-  ),
-  20 => 
-  array (
-    0 => 'If you can dream it, you can do it.',
-    1 => 'Walt Disney',
-  ),
-  21 => 
-  array (
-    0 => 'Forgive many things in others; nothing in yourself.',
-    1 => 'Ausonuis',
-  ),
-  22 => 
-  array (
-    0 => 'I like a man who grins when he fights.',
-    1 => 'Winston Churchill',
-  ),
-  23 => 
-  array (
-    0 => 'Every creator painfully experiences the chasm between his inner vision and its ultimate expression',
-    1 => 'Isaac Bashevis Singer',
-  ),
-  24 => 
-  array (
-    0 => 'The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.',
-    1 => 'Helen Keller',
-  ),
-);
+return [
+    [
+        'Only the mediocre are always at their best.',
+        'Jean Giraudoux',
+    ],
+    [
+        'I have undertaken vengeance. I want Liberty and Equality to reign in Saint-Domingue. I work to bring them into existence. Unite yourselves to us, brothers, and fight with us for the same cause.',
+        'Toussaint Louverture',
+    ],
+    [
+        'I don\'t think I\'m yet peaceful because I have to struggle every day within myself when I see the suffering of the people of the world, the women and the children. And fury sets in. But I have to transform that and take it out and do something positive with it - but I have to do that sometimes minute to minute.',
+        'Betty Williams',
+    ],
+    [
+        'What material success does is provide you with the ability to concentrate on other things that really matter. And that is being able to make a difference, not only in your own life, but in other people\'s lives.',
+        'Oprah Winfrey',
+    ],
+    [
+        'Each season I find myself constantly inspired by \'The Biggest Loser\' contestants. Their tenacity and willingness to learn new, healthy habits is tremendous and the results speak for themselves. I am honored to be part of such an inspiring program that helps inspire positive change in so many lives.',
+        'Curtis Stone',
+    ],
+    [
+        'Individuals need to be willing to face truth about their attitudes, behaviors, even what we want out of life.',
+        'Joyce Meyer',
+    ],
+    [
+        'Being natural is incredibly empowering for women because it\'s just who you are. You\'re embracing all the beautiful things about you from your head to your toes. Because when you mask so much of your natural beauty, people don\'t get to see that.',
+        'Rozonda Thomas',
+    ],
+    [
+        'Nothing is better than going home to family and eating good food and relaxing.',
+        'Irina Shayk',
+    ],
+    [
+        'We\'re kind of the comic relief of this movie because most of the stories are very dark. And that\'s why these plays were so great, because it\'s such a dark, dark universe that it becomes funny because it\'s just too pathetic.',
+        'Caroline Dhavernas',
+    ],
+    [
+        'I want to be a young dad. By 25 or 26 I want to see myself, like, married or start looking for a family.',
+        'Justin Bieber',
+    ],
+    [
+        'Qualities you need to get through medical school and residency: Discipline. Patience. Perseverance. A willingness to forgo sleep. A penchant for sadomasochism. Ability to weather crises of faith and self-confidence. Accept exhaustion as fact of life. Addiction to caffeine a definite plus. Unfailing optimism that the end is in sight.',
+        'Voltaire',
+    ],
+    [
+        'Well I think any author or musician is anxious to have legitimate sales of their products, partly so they\'re rewarded for their success, partly so they can go on and do new things.',
+        'Bill Gates',
+    ],
+    [
+        'Never fight an inanimate object.',
+        'P. J. O\'Rourke',
+    ],
+    [
+        'Progress was all right. Only it went on too long.',
+        'James Thurber',
+    ],
+    [
+        'The only siblings I have are half-siblings. My nuclear family would have been an extra-suffocating threesome. Instead, I have an interesting brother and sister, in-laws, and darling nephews.',
+        'Jane Smiley',
+    ],
+    [
+        'Poor leaders motivate those following them with false promises of promotions, success, and a great tomorrow but rarely deliver on those promises. Leaders who do this can be manipulative and often hold the goals and aspirations of their followers hostage in order to get them to comply.',
+        'Lewis Howes',
+    ],
+    [
+        'Our parents deserve our honor and respect for giving us life itself. Beyond this they almost always made countless sacrifices as they cared for and nurtured us through our infancy and childhood, provided us with the necessities of life, and nursed us through physical illnesses and the emotional stresses of growing up.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'Most people can\'t see beauty and love. I see our music as medicine.',
+        'Maurice White',
+    ],
+    [
+        'There was a great strain in our family because my father didn\'t want anything to do with me. He was happy to see my brother and sister, but not me. I don\'t know why. Maybe it was shame. I don\'t know. But he never wanted anything to do with me. That rejection was terribly hurtful and it went on for years.',
+        'Carol Vorderman',
+    ],
+    [
+        'To me, beauty and makeup and color is like the finishing touch on everything.',
+        'Marc Jacobs',
+    ],
+    [
+        'Wherever you go, go with all your heart.',
+        'Confucius',
+    ],
+    [
+        'It is the quality of our work which will please God, not the quantity.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'Beauty has a lot to do with character.',
+        'Kevyn Aucoin',
+    ],
+    [
+        'When people talk, they lay lines on each other, do a lot of role playing, sidestep, shilly-shally and engage in all manner of vagueness and innuendo. We do this and expect others to do it, yet at the same time we profess to long for the plain truth, for people to say what they mean, simple as that. Such hypocrisy is a human universal.',
+        'Steven Pinker',
+    ],
+    [
+        'Begin to weave and God will give you the thread.',
+        'German proverb',
+    ],
+];

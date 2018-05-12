@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Courtesy is a silver lining around the dark clouds of civilization; it is the best part of refinement and in many ways, an art of heroic beauty in the vast gallery of man\'s cruelty and baseness.',
-    1 => 'Bryant H. McGill',
-  ),
-  1 => 
-  array (
-    0 => 'Work until you no longer have to introduce yourself.',
-    1 => 'Harvey Specter',
-  ),
-  2 => 
-  array (
-    0 => 'Life\'s ups and downs provide windows of opportunity to determine your values and goals. Think of using all obstacles as stepping stones.',
-    1 => 'Marsha Sinetar',
-  ),
-  3 => 
-  array (
-    0 => 'Jesus may love you, but I think you\'re garbage wrapped in skin.',
-    1 => 'Michael O\'Donoghue',
-  ),
-  4 => 
-  array (
-    0 => 'One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
-    1 => 'Thomas A. Edison',
-  ),
-  5 => 
-  array (
-    0 => 'Trust everybody, but cut the cards.',
-    1 => 'Finley Peter Dunne',
-  ),
-  6 => 
-  array (
-    0 => 'Success is ... knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others.',
-    1 => 'John C. Maxwell',
-  ),
-  7 => 
-  array (
-    0 => 'The only people who see the whole picture, are the ones who step out of the frame.',
-    1 => 'Salman Rushdie',
-  ),
-  8 => 
-  array (
-    0 => 'If you have to push so hard that you break your penis, you are doing something wrong.',
-    1 => 'Frank McLaughlin',
-  ),
-  9 => 
-  array (
-    0 => 'Fine, Java MIGHT be a good example of what a programming language should be like. But Java applications are good examples of what applications SHOULDN\'T be like.',
-    1 => 'pixadel',
-  ),
-  10 => 
-  array (
-    0 => 'May I never be complete. May I never be content. May I never be perfect.',
-    1 => 'Chuck Palahniuk',
-  ),
-  11 => 
-  array (
-    0 => 'I never assumed I would have that commercial success, so it was a total surprise. And honestly, I never assumed that it would ever happen again.',
-    1 => 'Tracy Chapman',
-  ),
-  12 => 
-  array (
-    0 => 'A conservative is a man who believes that nothing should be done for the first time.',
-    1 => 'Alfred E. Wiggam',
-  ),
-  13 => 
-  array (
-    0 => 'Continuous effort not strength or intelligence is the key to unlocking our potential.',
-    1 => 'Black Elk [Hehaka Sapa]',
-  ),
-  14 => 
-  array (
-    0 => 'Success is where preparation and opportunity meet.',
-    1 => 'Bobby Unser',
-  ),
-  15 => 
-  array (
-    0 => 'I am stable when my private life is a success.',
-    1 => 'Don Johnson',
-  ),
-  16 => 
-  array (
-    0 => 'My biggest success is getting over the things that have tried to destroy and take me out of this life. Those are my biggest successes. It has nothing to do with work.',
-    1 => 'Tyler Perry',
-  ),
-  17 => 
-  array (
-    0 => 'I have an idea of who I want to be, I have a vision of my own success.',
-    1 => 'Wiz Khalifa',
-  ),
-  18 => 
-  array (
-    0 => 'When you see yourself as a powerful creator of your conditions, you will see opportunities to get to your goals, and dreams, all around you.',
-    1 => 'Robin Sharma',
-  ),
-  19 => 
-  array (
-    0 => 'And above all things, never think that you\'re not good enough yourself. A man should never think that. My belief is that in life people will take you at your own reckoning.',
-    1 => 'Isaac Asimov',
-  ),
-  20 => 
-  array (
-    0 => 'Jay\'s First Law:
-        The classic hierarchy consists of one man at the top with three below him, each of who has three below him, and so on with fearful symmetry unto the seventh generation, by which stage there is a row of 729 managers.',
-    1 => 'Antony Jay, Management and Machiavelli, 1967',
-  ),
-  21 => 
-  array (
-    0 => 'The clothes have no emperor.',
-    1 => 'C. A. Hoare, about Ada.',
-  ),
-  22 => 
-  array (
-    0 => 'You are beautiful because you let yourself feel, and that is a brave thing indeed.',
-    1 => 'Shinji Moon',
-  ),
-  23 => 
-  array (
-    0 => 'Whatever I have tried to do in life, I have tried with all my heart to do it well; whatever I have devoted myself to, I have devoted myself completely; in great aims and in small I have always thoroughly been in earnest.',
-    1 => 'Charles Dickens',
-  ),
-  24 => 
-  array (
-    0 => 'Your heart is full of fertile seeds, waiting to sprout.',
-    1 => 'Morihei Ueshiba',
-  ),
-);
+return [
+    [
+        'The successful man will profit from his mistakes and try again in a different way.',
+        'Dale Carnegie',
+    ],
+    [
+        'A more secret, sweet, and overpowering beauty appears to man when his heart and mind open to the sentiment of virtue.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'The mind unlearns with difficulty what it has long learned.',
+        'Seneca',
+    ],
+    [
+        'Happiness is not always through success. Equally, the constant pursuit of success is sure unhappiness. But we have to find the balance. My own thoughts are that parenting is very personal. And we all feel enormous insecurity about parenting. What are they going to think of us 20 years down the line?',
+        'Amy Chua',
+    ],
+    [
+        'We are all born mad. Some remain so.',
+        'Samuel Beckett',
+    ],
+    [
+        'I don\'t know that I have any role models now that are fixed. Definitely my mom - she\'s the coolest. She\'s worked really hard her whole life and I just think she\'s got a great attitude. Moms just know so much it\'s so silly.',
+        'Larisa Oleynik',
+    ],
+    [
+        'The keys to brand success are self-definition, transparency, authenticity and accountability.',
+        'Simon Mainwaring',
+    ],
+    [
+        'Things are beautiful if you love them.',
+        'Jean Anouilh',
+    ],
+    [
+        'We don\'t tend to write about disease in fiction - not just teen novels but all American novels - because it doesn\'t fit in with our idea of the heroic romantic epic. There is room only for sacrifice, heroism, war, politics and family struggle.',
+        'John Green',
+    ],
+    [
+        'To follow, without halt, one aim: that\'s the secret of success.',
+        'Anna Pavlova',
+    ],
+    [
+        'Time travel was once considered scientific heresy, and I used to avoid talking about it for fear of being labelled a \'crank.\'',
+        'Stephen Hawking',
+    ],
+    [
+        'If a man neglects education, he walks lame to the end of his life.',
+        'Rosa Parks',
+    ],
+    [
+        'Writing is hard work: it is like doing homework for the rest of your life. You are always chipping away at it.',
+        'John Lutz',
+    ],
+    [
+        'Being funny wasn\'t a career choice growing up, it was my way out of situations; a way to survive another day.',
+        'Tracy Morgan',
+    ],
+    [
+        'I travel continuously, and I see many cities, but there is nowhere like London.',
+        'Norman Foster',
+    ],
+    [
+        'Having a positive mental attitude is asking how something can be done rather than saying it can\'t be done.',
+        'Bo Bennett',
+    ],
+    [
+        'Our success in Singapore was a Herculean effort by the whole team. Now I am determined to deliver on all we promised. I will be watching like a hawk.',
+        'Sebastian Coe',
+    ],
+    [
+        'Dare, dream, dance, smile, and sing loudly! And have faith that love is an unstoppable force!',
+        'Suzanne Brockmann',
+    ],
+    [
+        'Lighten up, just enjoy life, smile more, laugh more, and don\'t get so worked up about things.',
+        'Norman Vincent Peale',
+    ],
+    [
+        'I like England more than I did when I left. It\'s become a bit of a better country in the last ten years, in the attitude of it. A bit more Americanized, which is both good and bad. At least when you order a cup of coffee they don\'t give you a hard time.',
+        'Teddy Thompson',
+    ],
+    [
+        'Parents are the last people on earth who ought to have children.',
+        'Samuel Butler',
+    ],
+    [
+        'The most positive men are the most credulous.',
+        'Alexander Pope',
+    ],
+    [
+        'The greatest mistake you can make in life is to be continually fearing you will make one.',
+        'Elbert Hubbard',
+    ],
+    [
+        'For the past 33 years, I have looked in the mirror every morning and asked myself: \'If today were the last day of my life, would I want to do what I am about to do today?\' And whenever the answer has been \'No\' for too many days in a row, I know I need to change something.',
+        'Christopher McCandless',
+    ],
+    [
+        'The woman with dark hair, wide hips, and a few extra pounds has always been the essence of beauty in Morocco.',
+        'Fatema Mernissi',
+    ],
+];

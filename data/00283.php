@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The more you Learn, the more you Earn.',
-    1 => 'Warren Buffett',
-  ),
-  1 => 
-  array (
-    0 => 'The English have no respect for their language, and will not teach their children to speak it.',
-    1 => 'G. B. Shaw',
-  ),
-  2 => 
-  array (
-    0 => 'With the new day comes new strength and new thoughts.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  3 => 
-  array (
-    0 => 'Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.',
-    1 => 'Winston Churchill',
-  ),
-  4 => 
-  array (
-    0 => 'If liberty means anything at all, it means the right to tell people what they do not want to hear.',
-    1 => 'George Orwell',
-  ),
-  5 => 
-  array (
-    0 => 'There is a courtesy of the heart; it is allied to love. From it springs the purest courtesy in the outward behavior.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  6 => 
-  array (
-    0 => 'Benson, you are so free of the ravages of intelligence.',
-    1 => 'Time Bandits',
-  ),
-  7 => 
-  array (
-    0 => 'Stay is a charming word in a friend\'s vocabulary.',
-    1 => 'Louisa May Alcott',
-  ),
-  8 => 
-  array (
-    0 => 'Too many of us are not living our dreams because we are living our fears',
-    1 => 'Les Brown',
-  ),
-  9 => 
-  array (
-    0 => 'You are the creator of your own destiny.',
-    1 => 'Swami Vivekananda',
-  ),
-  10 => 
-  array (
-    0 => 'A government for the people must depend for its success on the intelligence, the morality, the justice, and the interest of the people themselves.',
-    1 => 'Grover Cleveland',
-  ),
-  11 => 
-  array (
-    0 => 'Motivation is knowing you are learning, growing, and succeeding toward your desired outcome while sustaining positive momentum.',
-    1 => 'Jaren L. Davis',
-  ),
-  12 => 
-  array (
-    0 => 'Changing the world is good for those who want their names in books. But being happy, that is for those who write their names in the lives of others, and hold the hearts of others as the treasure most dear.',
-    1 => 'Orson Scott Card',
-  ),
-  13 => 
-  array (
-    0 => 'An unexamined life is not worth living.',
-    1 => 'Socrates',
-  ),
-  14 => 
-  array (
-    0 => 'Correction does much, but encouragement does more.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  15 => 
-  array (
-    0 => 'Successful people breed success.',
-    1 => 'Phil Crosby',
-  ),
-  16 => 
-  array (
-    0 => 'One of the hardest decisions you\'ll ever make in life is choosing whether to walk away or try harder.',
-    1 => 'Ziad K. Abdelnour',
-  ),
-  17 => 
-  array (
-    0 => 'The brain may take advice, but not the heart, and love having no geography, knows no boundaries: weight and sink it deep, no matter, it will rise and find the surface.',
-    1 => 'Truman Capote',
-  ),
-  18 => 
-  array (
-    0 => 'Brain, v. [as in "to brain"]:
-    To rebuke bluntly, but not pointedly; to dispel a source of error in an opponent.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  19 => 
-  array (
-    0 => 'Doubt kills more dreams than failure ever will.',
-    1 => 'Karim Seddiki',
-  ),
-  20 => 
-  array (
-    0 => 'If the world is to be healed through human efforts, I am convinced it will be by ordinary people, people whose love for this life is even greater than their fear.',
-    1 => 'Joanna Macy',
-  ),
-  21 => 
-  array (
-    0 => 'Success is only meaningful and enjoyable if it feels like your own.',
-    1 => 'Michelle Obama',
-  ),
-  22 => 
-  array (
-    0 => 'Success is the sum of small efforts, repeated day in and day out.',
-    1 => 'Robert J. Collier',
-  ),
-  23 => 
-  array (
-    0 => 'Rap music\'s been around for too long now to be inspirational. The words are, but the music isn\'t.',
-    1 => 'Alexander McQueen',
-  ),
-  24 => 
-  array (
-    0 => 'For every beauty there is an eye somewhere to see it. For every truth there is an ear somewhere to hear it. For every love there is a heart somewhere to receive it.',
-    1 => 'Ivan Panin',
-  ),
-);
+return [
+    [
+        'Nobody will believe in you unless you believe in yourself.',
+        'Liberace',
+    ],
+    [
+        'I think the best thing about being pregnant would definitely have to be seeing just my belly grow and seeing, like, wow, there is, you know, something inside of me.',
+        'Tia Mowry',
+    ],
+    [
+        'When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.',
+        'George Bernard Shaw',
+    ],
+    [
+        'When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty.',
+        'John Muir',
+    ],
+    [
+        'Life doesn\'t require that we be the best, only that we try our best.',
+        'Publilius Syrus',
+    ],
+    [
+        'Saying goodbye doesn\'t mean anything. It\'s the time we spent together that matters, not how we left it.',
+        'Trey Parker',
+    ],
+    [
+        'I am still a victim of chess. It has all the beauty of art - and much more. It cannot be commercialized. Chess is much purer than art in its social position.',
+        'Marcel Duchamp',
+    ],
+    [
+        'Real beauty knocks you a little bit off kilter.',
+        'David Byrne',
+    ],
+    [
+        'One fails forward toward success.',
+        'Charles Kettering',
+    ],
+    [
+        'I\'m tired of all this nonsense about beauty being skin deep. That\'s deep enough. What do you want, an adorable pancreas?',
+        'Jean Kerr',
+    ],
+    [
+        'Stand-up can take you in so many different places, man. So many doors can be opened up from stand-up comedy, and the first one that was opened up for me was acting. But you can go from acting to being a TV personality to being a radio personality to being a writer to being a producer, to just being a visionary, to voiceover work.',
+        'Kevin Hart',
+    ],
+    [
+        'We have shown that it is possible to create a radioactivity characterized by the emission of positive or negative electrons in boron and magnesium by bombardment with alpha rays.',
+        'Irene Joliot-Curie',
+    ],
+    [
+        'We should bring in an environmental attitude, and I think luxury should automatically be about sustainability and quality.',
+        'Jochen Zeitz',
+    ],
+    [
+        'I sang in the choir for years, even though my family belonged to another church.',
+        'Paul Lynde',
+    ],
+    [
+        'Italians come to ruin most generally in three ways, women, gambling, and farming. My family chose the slowest one.',
+        'Pope John XXIII',
+    ],
+    [
+        'Believe that life is worth living and your belief will help create the fact.',
+        'William James',
+    ],
+    [
+        'Everything is blooming most recklessly; if it were voices instead of colors, there would be an unbelievable shrieking into the heart of the night.',
+        'Rainer Maria Rilke',
+    ],
+    [
+        'Your mind will answer most questions if you learn to relax and wait for the answer.',
+        'William Burroughs',
+    ],
+    [
+        'The cause is hidden. The effect is visible to all.',
+        'Ovid',
+    ],
+    [
+        'Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are.',
+        'Richard Branson',
+    ],
+    [
+        'We have ourselves begun to put our house in order by banning some experiments that may contain a risk for mankind. We would like to see society take a similar attitude, abandoning selfish practices that are dangerous for society itself.',
+        'Renato Dulbecco',
+    ],
+    [
+        'I saw a woman wearing a sweatshirt with Guess on it. I said, Thyroid problem?',
+        'Arnold Schwarzenegger',
+    ],
+    [
+        'What would be ugly in a garden constitutes beauty in a mountain.',
+        'Victor Hugo',
+    ],
+    [
+        'Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.',
+        'Robert Lynd',
+    ],
+    [
+        'All punk is is attitude. That\'s what makes it. The attitude.',
+        'Joey Ramone',
+    ],
+];

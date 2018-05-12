@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If you lose hope, somehow you lose the vitality that keeps life moving, you lose that courage to be, that quality that helps you go on in spite of it all.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  1 => 
-  array (
-    0 => 'For happiness is anyone and anything at all that\'s loved by you.',
-    1 => 'Charlie Brown',
-  ),
-  2 => 
-  array (
-    0 => 'Not how long, but how well you have lived is the main thing.',
-    1 => 'Seneca',
-  ),
-  3 => 
-  array (
-    0 => 'Small daily improvements lead to stunning results.',
-    1 => 'Robin Sharma',
-  ),
-  4 => 
-  array (
-    0 => 'When you repeat a mistake, it is not a mistake anymore: it is a decision.',
-    1 => 'Paulo Coelho',
-  ),
-  5 => 
-  array (
-    0 => 'How vain it is to sit down to write when you have not stood up to live.',
-    1 => 'Henry David Thoreau',
-  ),
-  6 => 
-  array (
-    0 => 'Average people talk about people. Exceptional people discuss their dreams.',
-    1 => 'Robin Sharma',
-  ),
-  7 => 
-  array (
-    0 => 'Success is when you see something, and you say, \'I want to do that,\' and then you do it. It\'s being happy with what you do and doing what you love every day.',
-    1 => 'Alessia Cara',
-  ),
-  8 => 
-  array (
-    0 => 'Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist.',
-    1 => 'Mary Kay Ash',
-  ),
-  9 => 
-  array (
-    0 => 'To the world you may be just one person, but to one person, you may be the world.',
-    1 => 'Brandi Snyder',
-  ),
-  10 => 
-  array (
-    0 => 'Patience and tenacity of purpose are worth more than twice their weight of cleverness.',
-    1 => 'Thomas Henry Huxley',
-  ),
-  11 => 
-  array (
-    0 => 'Never lose the sparkle in your eye, the fire in your belly and the steel in your character.',
-    1 => 'Robin Sharma',
-  ),
-  12 => 
-  array (
-    0 => 'Compassion is the keen awareness of the interdependence of all things.',
-    1 => 'Thomas Merton',
-  ),
-  13 => 
-  array (
-    0 => 'To burn always with this hard, gem-like flame, to maintain this ecstasy, is success in life.',
-    1 => 'Walter Pater',
-  ),
-  14 => 
-  array (
-    0 => 'Great hopes make great men.',
-    1 => 'Thomas Fuller',
-  ),
-  15 => 
-  array (
-    0 => 'Change your thoughts and you change your world.',
-    1 => 'Norman Vincent Peale',
-  ),
-  16 => 
-  array (
-    0 => 'Natural gas is hemispheric. I like to call it hemispheric in nature, because it is a product what we can find in our neighborhoods.',
-    1 => 'George W. Bush, Austin, Texas; December 20, 2000',
-  ),
-  17 => 
-  array (
-    0 => 'Be not diverted from your duty by any idle reflections the silly world may make upon you, for their censures are not in your power and should not be at all your concerns.',
-    1 => 'Epictetus',
-  ),
-  18 => 
-  array (
-    0 => 'I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.',
-    1 => 'Lee Ann Womack',
-  ),
-  19 => 
-  array (
-    0 => 'Your results are dependent on your devotion.',
-    1 => 'Robin Sharma',
-  ),
-  20 => 
-  array (
-    0 => 'The greatest revenge is massive success.',
-    1 => 'Les Brown',
-  ),
-  21 => 
-  array (
-    0 => 'The first step in solving a problem is to recognize that it does exist.',
-    1 => 'Zig Ziglar',
-  ),
-  22 => 
-  array (
-    0 => 'It is the quality rather than the quantity that matters.',
-    1 => 'Lucius Annaeus Seneca (4 B.C. - A.D. 65)',
-  ),
-  23 => 
-  array (
-    0 => 'If you want to know what a man\'s like, take a good look at how he treats his inferiors, not his equals.',
-    1 => 'Sirius Black–The Goblet of Fire',
-  ),
-  24 => 
-  array (
-    0 => 'Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.',
-    1 => 'Henry James',
-  ),
-);
+return [
+    [
+        'Believe in yourself, and the rest will fall into place. Have faith in your own abilities, work hard, and there is nothing you cannot accomplish.',
+        'Brad Henry',
+    ],
+    [
+        'When you see something that is technically sweet, you go ahead and do it and you argue about what to do about it only after you have had your technical success. That is the way it was with the atomic bomb.',
+        'J. Robert Oppenheimer',
+    ],
+    [
+        'It\'s painful for me to watch someone who isn\'t funny. It\'s horrifying to sit in the back and watch some guy who just totally sucks.',
+        'Joe Rogan',
+    ],
+    [
+        'Light tomorrow with today!',
+        'Elizabeth Barrett Browning',
+    ],
+    [
+        'The nature of the human mind is such that unless it is stimulated by images of things acting upon it from without, all remembrance of them passes easily away.',
+        'Galileo Galilei',
+    ],
+    [
+        'Time has a way of demonstrating that the most stubborn are the most intelligent.',
+        'Yevgeny Yevtushenko',
+    ],
+    [
+        'My beauty ethos? Well, I\'d love to tell you it\'s something like \'less is more,\' but honestly, it all starts with happiness. If only someone could bottle that up - when I\'m happy, I\'m at my most radiant and glowing. It does me better than any product ever could. And I stand by how cheesy and cliched that sounds.',
+        'Solange Knowles',
+    ],
+    [
+        'If you tell your own story to your children - that includes your positive moments and your negative moments, and how you overcame them - you give your children the skills and the confidence they need to feel like they can overcome some hardship that they\'ve felt.',
+        'Bruce Feiler',
+    ],
+    [
+        'I\'ll walk where my own nature would be leading: It vexes me to choose another guide.',
+        'Emily Bronte',
+    ],
+    [
+        'The success of a film at the box office will ensure happiness to the entire unit, but individual awards are like vitamin shots that will help boost the morale of an actor.',
+        'Akkineni Nagarjuna',
+    ],
+    [
+        'Short as life is, we make it still shorter by the careless waste of time.',
+        'Victor Hugo',
+    ],
+    [
+        'I have been a frequent air traveler since I was a few months shy of my sixth birthday, when my parents packed me off to boarding school two plane rides away from home. Those days of being willingly handed from air hostess to air hostess as an \'unaccompanied minor\' made me blase about the rigors of air travel.',
+        'Shashi Tharoor',
+    ],
+    [
+        'If you feel rooted in your home and family, if you\'re active in your community, there\'s nothing more empowering. The best way to make a difference in the world is to start by making a difference in your own life.',
+        'Julia Louis-Dreyfus',
+    ],
+    [
+        'There is joy in work. There is no happiness except in the realization that we have accomplished something.',
+        'Henry Ford',
+    ],
+    [
+        'Beauty is in the eye of the beer holder.',
+        'Kinky Friedman',
+    ],
+    [
+        'All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work.',
+        'Calvin Coolidge',
+    ],
+    [
+        '\'Star Trek\' is a \'Wagon Train\' concept - built around characters who travel to worlds \'similar\' to our own, and meet the action-adventure-drama which become our stories. Their transportation is the cruiser \'S.S. Yorktown,\' performing a well-defined and long-range Exploration-Science-Security mission which helps create our format.',
+        'Gene Roddenberry',
+    ],
+    [
+        'In tough times, some of us see protecting the climate as a luxury, but that\'s an outdated 20th-century worldview from a time when we thought industrialization was the end goal, waste was growth, and wealth meant a thick haze of air pollution.',
+        'Alex Steffen',
+    ],
+    [
+        'Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.',
+        'Nhat Hanh',
+    ],
+    [
+        'Happiness does not come from having much, but from being attached to little.',
+        'Cheng Yen',
+    ],
+    [
+        'We believed in our idea - a family park where parents and children could have fun- together.',
+        'Walt Disney',
+    ],
+    [
+        'A beam of light takes about two million years to reach from us to the Andromeda nebula. But my thought covers this distance in a few seconds. Perhaps some day some intermediate form of body and mind may permit us to say that we actually can travel faster than light.',
+        'Ragnar Frisch',
+    ],
+    [
+        'I wish that the Indians believed me a god, for upon the report of an enemy\'s valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution.',
+        'Alexander the Great',
+    ],
+    [
+        'People ask \'do you make a conscious effort not to swear?\' - if you\'re doing silly stuff you\'re not tempted to put swearing in. All the comics from my childhood, who were funny without swearing, were the people that influenced me. What I do is quite traditional anyway.',
+        'Tim Vine',
+    ],
+    [
+        'I think it\'s really important that I\'m not the only model in the world that goes through personal problems. People forget that we\'re human. We don\'t get to call in sick. You have to go and put on a smile. Every single day is a first impression, so you can\'t have a bummed-out day.',
+        'Gigi Hadid',
+    ],
+];

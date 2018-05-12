@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => '[Leslie Stahl was] a pussy compared to Rather.',
-    1 => 'George H. W. Bush',
-  ),
-  1 => 
-  array (
-    0 => 'There\'s no point in being grown up if you can\'t be childish sometimes.',
-    1 => 'Dr. Who',
-  ),
-  2 => 
-  array (
-    0 => 'Success is walking from failure to failure with no loss of enthusiasm.',
-    1 => 'Winston Churchill',
-  ),
-  3 => 
-  array (
-    0 => 'We few, we happy few, we band of brothers;
-For he to-day that sheds his blood with me Shall be my brother; be he ne\'er so vile, This day shall gentle his condition: And gentlemen in England now a-bed Shall think themselves accursed they were not here, And hold their manhoods cheap whiles any speaks That fought with us upon Saint Crispin\'s day.',
-    1 => 'King Henry V, "Henry V", Act IV, Scene 3',
-  ),
-  4 => 
-  array (
-    0 => 'After climbing a great hill, one only finds that there are many more hills to climb.',
-    1 => 'Nelson Mandela',
-  ),
-  5 => 
-  array (
-    0 => 'Success is not final, failure is not fatal: it is the courage to continue that counts.',
-    1 => 'Winston Churchill',
-  ),
-  6 => 
-  array (
-    0 => 'We fall forward to succeed.',
-    1 => 'Mary Kay Ash',
-  ),
-  7 => 
-  array (
-    0 => 'Sendmail(8) proved that if you polish a turd long enough, you may eventually end up with a shiny coprolite.',
-    1 => 'Bill Cheswick',
-  ),
-  8 => 
-  array (
-    0 => 'Be a good listener. Your ears will never get you in trouble.',
-    1 => 'Frank Tyger',
-  ),
-  9 => 
-  array (
-    0 => 'Take the whole responsibility on your own shoulders, and know that you are the creator of your own destiny.',
-    1 => 'Swami Vivekananda',
-  ),
-  10 => 
-  array (
-    0 => 'America, how can I write a holy litany in your silly mood?',
-    1 => 'Allen Ginsberg',
-  ),
-  11 => 
-  array (
-    0 => 'Democracy is good. I say this because other systems are worse.',
-    1 => 'Jawaharlal Nehru',
-  ),
-  12 => 
-  array (
-    0 => 'A mother is not a person to lean on but a person to make leaning unnecessary.',
-    1 => 'Dorothy C. Fisher',
-  ),
-  13 => 
-  array (
-    0 => 'Friendship is almost always the union of a part of one mind with a part of another: People are friends in spots.',
-    1 => 'George Santayana',
-  ),
-  14 => 
-  array (
-    0 => 'The freedom to be your best means nothing unless you are willing to do your best.',
-    1 => 'Colin Powell',
-  ),
-  15 => 
-  array (
-    0 => 'Modesty is an ornament, but you go further without it.',
-    1 => 'German Proverb',
-  ),
-  16 => 
-  array (
-    0 => 'God gave us memory that we might have roses in December.',
-    1 => 'James M. Barrie',
-  ),
-  17 => 
-  array (
-    0 => 'The key to accepting responsibility for your life is to accept the fact that your choices, every one of them, are leading you inexorably to either success or failure, however you define those terms.',
-    1 => 'Neal Boortz',
-  ),
-  18 => 
-  array (
-    0 => 'While children are struggling to be unique, the world around them is trying all means to make them look like everybody else.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  19 => 
-  array (
-    0 => 'One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
-    1 => 'Thomas A. Edison',
-  ),
-  20 => 
-  array (
-    0 => 'Always imitate the behavior of the winners when you lose.',
-    1 => 'Anonymous',
-  ),
-  21 => 
-  array (
-    0 => 'Chains of habit are too light to be felt until they are too heavy to be broken.',
-    1 => 'Warren Buffett',
-  ),
-  22 => 
-  array (
-    0 => 'Whenever you find that you are on the side of the majority, it is time to reform.',
-    1 => 'Mark Twain in "A Connecticut Yankee in King Arthur\'s Court"',
-  ),
-  23 => 
-  array (
-    0 => 'It\'s is not, it isn\'t ain\'t, and it\'s it\'s, not its, if you mean it is. If you don\'t, it\'s its. Then too, it\'s hers. It isn\'t her\'s. It isn\'t our\'s either. It\'s ours, and likewise yours and theirs.',
-    1 => 'Oxford University Press, Edpress News',
-  ),
-  24 => 
-  array (
-    0 => 'My childhood, adolescence and high school days are unusually important. If there has ever been a time that I developed a uniqueness and sense of humor and the ability to organize, it was then. In those early days, I developed the skills that gave me a certain degree of success in American politics.',
-    1 => 'Lee Atwater',
-  ),
-);
+return [
+    [
+        'Success does not come to you, you go to it.',
+        'Marva Collins.',
+    ],
+    [
+        'I always give Lindsay so much credit for her tennis game, for her attitude, for her person, and because of how she deals with all the things. I don\'t think people give her enough credit for how well she\'s doing.',
+        'Martina Hingis',
+    ],
+    [
+        'If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.',
+        'Margaret Thatcher',
+    ],
+    [
+        'In our music, in our everyday life, there are so many negative things. Why not have something positive and stamp it with blackness?',
+        'Jamie Foxx',
+    ],
+    [
+        'Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.',
+        'Jane Addams',
+    ],
+    [
+        'What is success? It is a toy balloon among children armed with pins.',
+        'Gene Fowler',
+    ],
+    [
+        'All our dreams can come true if we have the courage to pursue them.',
+        'Walt Disney',
+    ],
+    [
+        'Why does everyone think the future is space helmets, silver foil, and talking like computers, like a bad episode of Star Trek?',
+        'Tracey Ullman',
+    ],
+    [
+        'O sweet, delusive Noon, Which the morning climbs to find, O moment sped too soon, And morning left behind.',
+        'Helen Hunt Jackson',
+    ],
+    [
+        'The best way for guys to communicate is just don\'t talk to each other for nine hours. That\'s why I like long motorcycle rides. It\'s a great way for guys to socialize and not socialize.',
+        'Justin Theroux',
+    ],
+    [
+        'I love hanging out with friends and family.',
+        'Ashley Wagner',
+    ],
+    [
+        'Epilepsy is a disease in the shadows. Patients are often reluctant to admit their condition - even to close family, friends or co-workers - because there\'s still a great deal of stigma and mystery surrounding the disease that plagued such historical figures as Julius Caesar, Edgar Allan Poe and Lewis Carroll.',
+        'Lynda Resnick',
+    ],
+    [
+        'I\'ve specifically decided to say no to projects that weren\'t advancing Latinos, that weren\'t showing us in a positive light, roles that were gratuitous and spreading untruths.',
+        'Gina Rodriguez',
+    ],
+    [
+        'With any of the movies I\'ve had a chance to do, or any of the TV shows I\'ve had a chance to contribute to, people approach me and say, \'Hey, would you like to do this?\' I laugh out loud and say, \'Yes, that\'d be funny.\' Or, I\'m very moved by what I read and say, \'Yes. How can I help you?\'',
+        'John Cena',
+    ],
+    [
+        'Diwali means family, so either I go down to Bangalore, or my family comes to Mumbai. I always ensure I take a few days off.',
+        'Deepika Padukone',
+    ],
+    [
+        'I intend to travel to Okinawa and to visit with Okinawa officials and the citizens of Okinawa at an early date. I will send my best analysis of that situation, including the local attitudes, back to Washington, to the government there.',
+        'Howard Baker',
+    ],
+    [
+        'All life is an experiment. The more experiments you make the better.',
+        'Eleanor Roosevelt',
+    ],
+    [
+        'When I was four years old, my father, who was a colonel in the army, was stationed in Salzburg, Austria. Across the street from our house was an ancient castle on a cliff. So when I first heard fairy tales, I felt as if the magic of \'Cinderella\' or \'Sleeping Beauty\' was taking place right in my own neighborhood.',
+        'Mary Pope Osborne',
+    ],
+    [
+        'I can\'t believe that God put us on this earth to be ordinary.',
+        'Lou Holtz',
+    ],
+    [
+        'Donald Evans is a favorite person of mine. His worth ethic, his attitude and his dedication really set him apart.',
+        'Joe Greene',
+    ],
+    [
+        'Michael Palin decided to give up on his considerable comedy talents to make those dreadfully tedious travel shows. Have you ever tried to watch one?',
+        'John Cleese',
+    ],
+    [
+        'The secret of my success is that I make other people money. And, never ever, ever, ever be ashamed about trying to earn as much as possible for yourself, if the person you\'re working with is also making money. That\'s life!',
+        'Simon Cowell',
+    ],
+    [
+        'Clearly older women and especially older women who have led an active life or elder women who successfully maneuver through their own family life have so much to teach us about sharing, patience, and wisdom.',
+        'Alice Walker',
+    ],
+    [
+        'It\'s not enough that I should succeed - others should fail.',
+        'David Merrick',
+    ],
+    [
+        'Hawaii is a beautiful place to bring up a family.',
+        'Henry Ian Cusick',
+    ],
+];

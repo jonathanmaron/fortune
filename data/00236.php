@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If opportunity doesn\'t knock, build a door.',
-    1 => 'Milton Berle',
-  ),
-  1 => 
-  array (
-    0 => 'Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.',
-    1 => 'Albert Einstein',
-  ),
-  2 => 
-  array (
-    0 => 'The most important thing in life is to learn how to give out love, and to let it come in.',
-    1 => 'Morrie Schwartz',
-  ),
-  3 => 
-  array (
-    0 => 'Good men prefer to be accountable.',
-    1 => 'Michael Edwards',
-  ),
-  4 => 
-  array (
-    0 => 'A billion here, a billion there, sooner or later it adds up to real money.',
-    1 => 'Everett Dirksen',
-  ),
-  5 => 
-  array (
-    0 => 'The scholar does not consider gold and jade to be precious treasures, but loyalty and good faith.',
-    1 => 'Confucius',
-  ),
-  6 => 
-  array (
-    0 => 'Ambition is a poor excuse for not having sense enough to be lazy.',
-    1 => 'Charlie McCarthy',
-  ),
-  7 => 
-  array (
-    0 => 'I would defend the liberty of consenting adult creationists to practice whatever intellectual perversions they like in the privacy of their own homes; but it is also necessary to protect the young and innocent.',
-    1 => 'Arthur C. Clarke',
-  ),
-  8 => 
-  array (
-    0 => 'Success without honor is an unseasoned dish; it will satisfy your hunger, but it won\'t taste good.',
-    1 => 'Joe Paterno',
-  ),
-  9 => 
-  array (
-    0 => '"Where shall I begin, please your Majesty?" he asked. "Begin at the beginning," the King said, gravely, "and go on till you come to the end: then stop."',
-    1 => 'Alice\'s Adventures in Wonderland, Lewis Carroll',
-  ),
-  10 => 
-  array (
-    0 => 'Birth, n.:
-        The first and direst of all disasters.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  11 => 
-  array (
-    0 => 'If you have much, give of your wealth; if you have little, give of your heart.',
-    1 => 'Arabic Proverb',
-  ),
-  12 => 
-  array (
-    0 => 'That should be the measure of success for everyone. It\'s not money, it\'s not fame, it\'s not celebrity; my index of success is happiness.',
-    1 => 'Lupe Fiasco',
-  ),
-  13 => 
-  array (
-    0 => 'Most of us have far more courage than we ever dreamed we possessed.',
-    1 => 'Dale Carnegie',
-  ),
-  14 => 
-  array (
-    0 => 'Nothing in the cry of cicadas suggests they are about to die.',
-    1 => 'Bassho',
-  ),
-  15 => 
-  array (
-    0 => 'Flow is a state of being when we are completely focused, and fully immersed in what we are doing. In flow our work seems effortless, creativity goes into overdrive, we feel inspired, and motivation springs forth from within.',
-    1 => 'Dragos Bratasanu',
-  ),
-  16 => 
-  array (
-    0 => 'Your own resolution to succeed is more important than any other.',
-    1 => 'Abraham Lincoln',
-  ),
-  17 => 
-  array (
-    0 => 'I HATE arbitrary limits, especially when they\'re small.',
-    1 => 'Stephen Savitzky',
-  ),
-  18 => 
-  array (
-    0 => 'By the work one knows the workman.',
-    1 => 'Jean de La Fontaine',
-  ),
-  19 => 
-  array (
-    0 => 'You can do more with a kind word and a gun than with just a kind word.',
-    1 => 'Al Capone',
-  ),
-  20 => 
-  array (
-    0 => 'Anyone who has to fight, even with the most modern weapons, against an enemy in complete command of the air, fights like a savage against modern European troops, under the same handicaps and with the same chances of success.',
-    1 => 'Erwin Rommel',
-  ),
-  21 => 
-  array (
-    0 => 'Nothing is easier than to denounce the evildoer; nothing is more difficult than to understand him.',
-    1 => 'Fyodor Dostoevski',
-  ),
-  22 => 
-  array (
-    0 => 'Always bear in mind that your own resolution to succeed is more important than any other.',
-    1 => 'Abraham Lincoln',
-  ),
-  23 => 
-  array (
-    0 => 'When we stop taking risks, we stop living life.',
-    1 => 'Robin Sharma',
-  ),
-  24 => 
-  array (
-    0 => 'We are here to add what we can to, not get what we can from, life.',
-    1 => 'Sir William Osler',
-  ),
-);
+return [
+    [
+        'Heat cannot be separated from fire, or beauty from The Eternal.',
+        'Dante Alighieri',
+    ],
+    [
+        'You shall, I question not, find a way to the top if you diligently seek for it; for nature hath placed nothing so high that it is out of the reach of industry and valor.',
+        'Alexander the Great',
+    ],
+    [
+        'To be successful you must accept all challenges that come your way. You can\'t just accept the ones you like.',
+        'Mike Gafka',
+    ],
+    [
+        'As I get older, all sorts of things become less funny. Once one has children, any cruelty involving children becomes far less amusing than when one was at the mercy of one\'s friends\' and relatives\' children.',
+        'P. J. O\'Rourke',
+    ],
+    [
+        'The funny guy doesn\'t get the girl until later in life. High school, college, everyone still wants the brooding, dangerous guy you shouldn\'t have.',
+        'Will Ferrell',
+    ],
+    [
+        'Most comedy is based on getting a laugh at somebody else\'s expense. And I find that that\'s just a form of bullying in a major way. So I want to be an example that you can be funny and be kind, and make people laugh without hurting somebody else\'s feelings.',
+        'Ellen DeGeneres',
+    ],
+    [
+        'Prejudice is a great time saver. You can form opinions without having to get the facts.',
+        'E. B. White',
+    ],
+    [
+        'I am always struck by the fact that human awareness of our place in nature, like so much of modern science, began with the Industrial Revolution.',
+        'Kenneth R. Miller',
+    ],
+    [
+        'Cultivation of mind should be the ultimate aim of human existence.',
+        'B. R. Ambedkar',
+    ],
+    [
+        'We\'re here to bring beauty to the world and make a difference in this planet. That\'s what art forms are about.',
+        'Charlie Haden',
+    ],
+    [
+        'No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.',
+        'Alan Watts',
+    ],
+    [
+        'Being right is highly overrated. Even a stopped clock is right twice a day.',
+        '',
+    ],
+    [
+        'My store, Wine Library, outsells big national chains. How do you think we do it? It started with hustle. I always say that our success wasn\'t due to my hundreds of online videos about wine that went viral, but to the hours I spent talking to people online afterward, making connections and building relationships.',
+        'Gary Vaynerchuk',
+    ],
+    [
+        'Empathy is the faculty to resonate with the feelings of others. When we meet someone who is joyful, we smile. When we witness someone in pain, we suffer in resonance with his or her suffering.',
+        'Matthieu Ricard',
+    ],
+    [
+        'There\'s a constant tension in climbing, and really all exploration, between pushing yourself into the unknown but trying not to push too far. The best any of us can do is to tread that line carefully.',
+        'Alex Honnold',
+    ],
+    [
+        'I have often regretted my speech, never my silence.',
+        'Publilius Syrus',
+    ],
+    [
+        'Ability will never catch up with the demand for it.',
+        'Confucius',
+    ],
+    [
+        'A man\'s work is nothing but this slow trek to rediscover, through the detours of art, those two or three great and simple images in whose presence his heart first opened.',
+        'Albert Camus',
+    ],
+    [
+        'The communism of Karl Marx would probably be actually the best for everybody as a whole. But what he didn\'t figure into was human nature, and that\'s what corrupts it.',
+        'Jesse Ventura',
+    ],
+    [
+        'Nature was my kindergarten.',
+        'William Christopher Handy',
+    ],
+    [
+        'The desire to fly is an idea handed down to us by our ancestors who... looked enviously on the birds soaring freely through space... on the infinite highway of the air.',
+        'Wilbur Wright',
+    ],
+    [
+        'Most of my show is true; like, 90% of everything I say on stage is true. I just have to find the way to make it funny - that\'s the difficult thing.',
+        'Trevor Noah',
+    ],
+    [
+        'All I know is it destroyed my family, it destroyed my marriage to Sylvester and I will never get over it.',
+        'Brigitte Nielsen',
+    ],
+    [
+        'In our daily life, we encounter people who are angry, deceitful, intent only on satisfying their own needs. There is so much anger, distrust, greed, and pettiness that we are losing our capacity to work well together.',
+        'Margaret J. Wheatley',
+    ],
+    [
+        'The things I want to know are in books; my best friend is the man who\'ll get me a book I ain\'t read.',
+        'Abraham Lincoln',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Our liberty depends upon the freedom of the press, and that cannot be limited without being lost.',
-    1 => 'Thomas Jefferson (1786)',
-  ),
-  1 => 
-  array (
-    0 => 'Superiority is always detested.',
-    1 => 'Balasar Gracian',
-  ),
-  2 => 
-  array (
-    0 => 'The world can only change from within.',
-    1 => 'Eckhart Tolle',
-  ),
-  3 => 
-  array (
-    0 => 'Only after disaster can we be resurrected.',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  4 => 
-  array (
-    0 => 'A diplomat is someone who can tell you to go to hell in such a way that you will look forward to the trip.',
-    1 => 'Caskie Stinnett',
-  ),
-  5 => 
-  array (
-    0 => 'Sometimes I worry about being a success in a mediocre world.',
-    1 => 'Lily Tomlin',
-  ),
-  6 => 
-  array (
-    0 => 'Before success comes in any man\'s life, he\'s sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That\'s exactly what the majority of men do.',
-    1 => 'Napoleon Hill',
-  ),
-  7 => 
-  array (
-    0 => 'The first duty of love is to listen.',
-    1 => 'Paul Tillich',
-  ),
-  8 => 
-  array (
-    0 => '."',
-    1 => 'African Proverb',
-  ),
-  9 => 
-  array (
-    0 => 'People residing within the cult of average don\'t like to see others rise. It threatens their security and spotlights their low self-worth. Go for great, no matter what they say.',
-    1 => 'Robin Sharma',
-  ),
-  10 => 
-  array (
-    0 => 'My hope still is to leave the world a bit better than when I got here.',
-    1 => 'Jim Henson',
-  ),
-  11 => 
-  array (
-    0 => 'A creative man is motivated by the desire to achieve, not by the desire to beat others.',
-    1 => 'Ayn Rand',
-  ),
-  12 => 
-  array (
-    0 => 'Who you are becoming is more important than what you are accumulating.',
-    1 => 'Robin Sharma',
-  ),
-  13 => 
-  array (
-    0 => 'There\'s a lot of blood, sweat, and guts between dreams and success.',
-    1 => 'Paul Bryant',
-  ),
-  14 => 
-  array (
-    0 => 'It doesn\'t matter what temperature a room is, it\'s always room temperature.',
-    1 => 'Steven Wright',
-  ),
-  15 => 
-  array (
-    0 => 'Act like you expect to get into the end zone.',
-    1 => 'Christopher Morley',
-  ),
-  16 => 
-  array (
-    0 => 'I think that we may safely trust a good deal more than we do. We may waive just so much care of ourselves as we honestly bestow elsewhere. Nature is as well adapted to our weakness as to our strength.',
-    1 => 'Henry David Thoreau',
-  ),
-  17 => 
-  array (
-    0 => 'One of the hardest decision you\'ll ever face in life is choosing whether to walk away or try harder.',
-    1 => 'Ziad K. Abdelnour',
-  ),
-  18 => 
-  array (
-    0 => 'The happy heart runs with the river, floats on the air, lifts to the music, soars with the eagle, hopes with the prayer.',
-    1 => 'Richard Moss',
-  ),
-  19 => 
-  array (
-    0 => 'Don\'t go around saying the world owes you a living. The world owes you nothing. It was here first',
-    1 => 'Mark Twain',
-  ),
-  20 => 
-  array (
-    0 => 'It is possible to commit no mistakes and still lose. That is not a weakness; that is life.',
-    1 => 'Jean Luc Picard',
-  ),
-  21 => 
-  array (
-    0 => 'Love is friendship that has caught fire. It is quiet understanding, mutual confidence, sharing and forgiving. It is loyalty through good and bad times. It settles for less than perfection and makes allowances for human weaknesses.',
-    1 => 'Ann Landers',
-  ),
-  22 => 
-  array (
-    0 => 'If opportunity doesn\'t knock, build a door.',
-    1 => 'Milton Berle',
-  ),
-  23 => 
-  array (
-    0 => 'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
-    1 => 'Jeffrey Gitomer',
-  ),
-  24 => 
-  array (
-    0 => 'So with imagination, ingenuity and audacity, explore, discover, change the world. And have fun while you\'re at it. Always take time out to love and to live. You\'re going to be busy, but never forget family and friends.',
-    1 => 'Daniel S. Goldin',
-  ),
-);
+return [
+    [
+        'Not life, but good life, is to be chiefly valued.',
+        'Benjamin Franklin',
+    ],
+    [
+        'All you need is the plan, the road map, and the courage to press on to your destination.',
+        'Earl Nightingale',
+    ],
+    [
+        'Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.',
+        'Denis Waitley',
+    ],
+    [
+        'When my time ends, I want people to say, \'Man her music made me smile; it just enlightened my life; it inspired me; it made me feel good every time.\'',
+        'Ledisi',
+    ],
+    [
+        'Laziness is nothing more than the habit of resting before you get tired.',
+        'Jules Renard',
+    ],
+    [
+        'There\'s an ease that I have living in Australia. The best things about Sydney are free: the sunshine\'s free, and the harbour\'s free, and the beach is free.',
+        'Russell Crowe',
+    ],
+    [
+        'Rap music\'s been around for too long now to be inspirational. The words are, but the music isn\'t.',
+        'Alexander McQueen',
+    ],
+    [
+        'The most daring thing is to be yourself and to do exactly what you want to do at that point in time and not to be worried with what other people are doing or what\'s popular.',
+        'Wiz Khalifa',
+    ],
+    [
+        'Perpetual optimism is a force multiplier.',
+        'Colin Powell',
+    ],
+    [
+        'I think the word \'pregnant\' is funny.',
+        'Tracy Morgan',
+    ],
+    [
+        'The biggest ingredient in a best friend is someone whose actions you respect and who you can truly be yourself around.',
+        'Renee Olstead',
+    ],
+    [
+        'The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.',
+        'Helen Keller',
+    ],
+    [
+        'Nothing is so beautiful as spring - when weeds, in wheels, shoot long and lovely and lush; Thrush\'s eggs look little low heavens, and thrush through the echoing timber does so rinse and wring the ear, it strikes like lightning to hear him sing.',
+        'Gerard Manley Hopkins',
+    ],
+    [
+        'I believe myself to possess a most singular combination of qualities exactly fitted to make me pre-eminently a discoverer of the hidden realities of nature.',
+        'Ada Lovelace',
+    ],
+    [
+        'Much effort, much prosperity.',
+        'Euripides',
+    ],
+    [
+        'Every product you have ever loved was a compromise from the ideal vision of its creators to the realities of shipping on time, on budget, and on price point. Anyone who has ever manufactured a physical product that had to be on the shelves for Christmas shopping knows how painful these choices can be.',
+        'Jay Samit',
+    ],
+    [
+        'A lot of my stories about the old days, they\'re delicious and funny. But every time I recall the early days, it\'s painful. With every anecdote, it\'s painful because you\'re summoning up the terribly, terribly difficult life of my parents. And it\'s painful because I didn\'t realize at the time how hard it was for them.',
+        'Mario Cuomo',
+    ],
+    [
+        'It is often easier to ask for forgiveness than to ask for permission.',
+        'Grace Hopper',
+    ],
+    [
+        'I really struggle with that feeling of helplessness. That\'s why I really try to get my blogs, and even myself, to point to the positive and look at all the inspiring things that are happening.',
+        'Daryl Hannah',
+    ],
+    [
+        'What kind of influence did my parents have on my life? Well, they had the most influence. These are the people who are closest to me. My parents are very positive people. They\'ve been supportive. They\'re always there.',
+        'Derek Jeter',
+    ],
+    [
+        'Becoming a father increases your capacity for love and your level of patience. It opens up another door in a person - a door which you may not even have known was there. That\'s what I feel with my son. There\'s suddenly another level of love that expands. My son is my greatest joy, out of everything in my life.',
+        'Langston Hughes',
+    ],
+    [
+        'We especially need imagination in science. It is not all mathematics, nor all logic, but it is somewhat beauty and poetry.',
+        'Maria Mitchell',
+    ],
+    [
+        'I remember the first time I put on the Army uniform. I just felt like a totally different person - I felt proud.',
+        'Jessica Lynch',
+    ],
+    [
+        'I\'m just not one of those naturally funny, relaxed actors who enjoy the spotlight and are so good at it.',
+        'Heath Ledger',
+    ],
+    [
+        'Beauty, n: the power by which a woman charms a lover and terrifies a husband.',
+        'Ambrose Bierce',
+    ],
+];

@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Unheard of means it\'s only undreamed of yet; Impossible means it\'s just not yet done.',
-    1 => 'Julia Ecklar',
-  ),
-  1 => 
-  array (
-    0 => 'All our dreams can come true if we have the courage to pursue them.',
-    1 => 'Walt Disney',
-  ),
-  2 => 
-  array (
-    0 => 'Granholm\'s Definition of the Kludge: An ill-assorted collection of poorly matching parts forming a distressing whole.',
-    1 => 'Jackson W. Granholm, "How to Design a Kludge";
-           Datamation, Feb. 1962',
-  ),
-  3 => 
-  array (
-    0 => 'Sometimes the situation is only a problem because it is looked at in a certain way. Looked at in another way, the right course of action may be so obvious that the problem no longer exists.',
-    1 => 'Edward de Bono',
-  ),
-  4 => 
-  array (
-    0 => 'The world breaks everyone, and afterwards, some are strong at the broken places',
-    1 => 'Ernest Hemingway',
-  ),
-  5 => 
-  array (
-    0 => 'The hours that ordinary people waste, extraordinary people leverage.',
-    1 => 'Robin Sharma',
-  ),
-  6 => 
-  array (
-    0 => 'It\'s not about the end goal, it\'s about who you become by consistently pushing to the edge of your limits.',
-    1 => 'Robin Sharma',
-  ),
-  7 => 
-  array (
-    0 => 'A man is not idle because he is absorbed in thought. There is a visible labor and there is an invisible labor.',
-    1 => 'Victor Hugo',
-  ),
-  8 => 
-  array (
-    0 => 'What you do today can improve all your tomorrows.',
-    1 => 'Ralph Marston',
-  ),
-  9 => 
-  array (
-    0 => 'If I create from the heart, nearly everything works; if from the head, almost nothing.',
-    1 => 'Marc Chagall',
-  ),
-  10 => 
-  array (
-    0 => 'Good friends, good books, and a sleepy conscience: this is the ideal life.',
-    1 => 'Mark Twain',
-  ),
-  11 => 
-  array (
-    0 => 'In the practice of tolerance, one\'s enemy is the best teacher.',
-    1 => 'Dalai Lama',
-  ),
-  12 => 
-  array (
-    0 => 'Just living is not enough. One must have sunshine, freedom, and a little flower.',
-    1 => 'Hans Christian Anderson',
-  ),
-  13 => 
-  array (
-    0 => 'Failing to prepare is like preparing to fail.',
-    1 => 'John R. Wooden',
-  ),
-  14 => 
-  array (
-    0 => 'Only those who dare to fail greatly can ever achieve greatly.',
-    1 => 'Robert F. Kennedy',
-  ),
-  15 => 
-  array (
-    0 => 'A soul that is kind and intends justice discovers more than any sophist.',
-    1 => 'Sophocles',
-  ),
-  16 => 
-  array (
-    0 => 'And they told us, what they wanted...
-Was a sound that could kill some-one, from a distance.',
-    1 => 'Kate Bush',
-  ),
-  17 => 
-  array (
-    0 => 'Those who don\'t know how to weep with their whole heart don\'t know how to laugh either.',
-    1 => 'Golda Meir',
-  ),
-  18 => 
-  array (
-    0 => 'Keep your thoughts positive because your thoughts become your words. Keep your words positive because your words become your behaviors. Keep your behaviors positive because your behaviors become your habits. Keep your habits positive because your habits become your values. Keep your values positive because your values become your destiny.',
-    1 => 'Gandhi',
-  ),
-  19 => 
-  array (
-    0 => 'The love of our neighbor in all its fullness simply means being able to say, What are you going through?',
-    1 => 'Simone Weil',
-  ),
-  20 => 
-  array (
-    0 => 'Man invented language to satisfy his deep need to complain.',
-    1 => 'Lily Tomlin',
-  ),
-  21 => 
-  array (
-    0 => 'Success comes when people act together; failure tends to happen alone.',
-    1 => 'Deepak Chopra',
-  ),
-  22 => 
-  array (
-    0 => 'What we don\'t need to know for achievement, we need to know for our pleasure. Knowing how things work is the basis for appreciation, and is thus a source of civilized delight.',
-    1 => 'William L. Safire',
-  ),
-  23 => 
-  array (
-    0 => 'The fact that it works is immaterial.',
-    1 => 'L. Ogborn',
-  ),
-  24 => 
-  array (
-    0 => 'Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no help at all.',
-    1 => 'Dale Carnegie',
-  ),
-);
+return [
+    [
+        'What finally is beauty? Certainly nothing that can be calculated or measured. It is always something imponderable, something that lies between things.',
+        'Ludwig Mies van der Rohe',
+    ],
+    [
+        'Never measure the height of a mountain until you have reached the top. Then you will see how low it was.',
+        'Dag Hammarskjold',
+    ],
+    [
+        'I\'m happy to help Crest Whitestrips on their mission to inspire photographers everywhere to capture smile moments and would encourage aspiring photographers to express themselves through their photos.',
+        'Nigel Barker',
+    ],
+    [
+        'You got to be careful if you don\'t know where you\'re going, because you might not get there.',
+        'Yogi Berra',
+    ],
+    [
+        'What has been happening more lately - of course, I also put in my bio, I say I do the voice of Goliath, but some people go - you know, I say something, and it\'s a funny thing when you work in this business, people will talk out loud in front of you like you\'re not there.',
+        'Keith David',
+    ],
+    [
+        'All summer, I read fiction because you must read for the pleasure and beauty of it, and not only for research. I don\'t read thrillers, romance or mystery, and I don\'t read self-help books because I don\'t believe in shortcuts and loopholes.',
+        'Isabel Allende',
+    ],
+    [
+        'Design is about point of view, and there should be some sort of woman or lifestyle or attitude in one\'s head as a designer. So my being able to reach the masses was something that meant a great deal to me - especially for women who could never wear Vera Wang.',
+        'Vera Wang',
+    ],
+    [
+        'Great is the art of beginning, but greater is the art of ending.',
+        'Lazurus Long',
+    ],
+    [
+        'The will to work of everyone in the country is the best guarantee of national survival.',
+        'Bhumibol Adulyadej',
+    ],
+    [
+        'I do love to walk around in New York because people will notice me, smile, but they never bother anyone. New Yorkers are very cool. I love New York.',
+        'Creed Bratton',
+    ],
+    [
+        'The best news of the Christian gospel is that the supremely glorious Creator of the universe has acted in Jesus Christ\'s death and resurrection to remove every obstacle between us and himself so that we may find everlasting joy in seeing and savoring his infinite beauty.',
+        'John Piper',
+    ],
+    [
+        'Life\'s most persistent and urgent question is, \'What are you doing for others?\'',
+        'Eric Idle',
+    ],
+    [
+        'It\'s sad that the BBC is toning down Dennis the Menace for a cartoon series. He is losing his weapons, catapult and peashooter, will no longer pick on Walter the Softy, and his ferocious grimace is to be replaced by a charming, boyish smile.',
+        'Simon Hoggart',
+    ],
+    [
+        'Where there is humility, there is more success, and lasting success.',
+        'Patrick Lencioni',
+    ],
+    [
+        'The secret of getting ahead is getting started',
+        'Mark Twain',
+    ],
+    [
+        'Every person gets negative things, they learn from those negative things, and you become a positive person.',
+        'Kapil Dev',
+    ],
+    [
+        'In American history, it\'s about hard work and self-reliance. It\'s not about collecting giveaways or being on unemployment forever. That the economy moves ahead for people who are going to work to realize the American dream, own a home, send your kids to college. I think it\'s the founding cornerstone of America.',
+        'Ryan Zinke',
+    ],
+    [
+        'Some people think that you have to be the loudest voice in the room to make a difference. That is just not true. Often, the best thing we can do is turn down the volume. When the sound is quieter, you can actually hear what someone else is saying. And that can make a world of difference.',
+        'Nikki Haley',
+    ],
+    [
+        'I experience a period of frightening clarity in those moments when nature is so beautiful. I am no longer sure of myself, and the paintings appear as in a dream.',
+        'Vincent Van Gogh',
+    ],
+    [
+        'If you are patient in one moment of anger, you will escape one hundred days of sorrow.',
+        'Chinese proverb',
+    ],
+    [
+        'I had to live in the desert before I could understand the full value of grass in a green ditch.',
+        'Ella Maillart',
+    ],
+    [
+        'All the perplexities, confusion and distress in America arise, not from defects in their Constitution or Confederation, not from want of honor or virtue, so much as from the downright ignorance of the nature of coin, credit and circulation.',
+        'John Adams',
+    ],
+    [
+        'I do not demand equal pay for any women save those who do equal work in value. Scorn to be coddled by your employers; make them understand that you are in their service as workers, not as women.',
+        'Susan B. Anthony',
+    ],
+    [
+        'It scares you: all the noise, the rattling, the shaking. But the look on everybody\'s face when you\'re finished and packing, it\'s the best smile in the world; and there\'s nobody hurt, and the well\'s under control.',
+        'Red Adair',
+    ],
+    [
+        'Managers in all too many American companies do not achieve the desired results because nobody makes them do it.',
+        'Harold S. Geneen',
+    ],
+];

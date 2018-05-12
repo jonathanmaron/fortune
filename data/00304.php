@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Ask yourself: Have you been kind today? Make kindness your modus operandi and change your world.',
-    1 => 'Annie Lennox',
-  ),
-  1 => 
-  array (
-    0 => 'A government for the people must depend for its success on the intelligence, the morality, the justice, and the interest of the people themselves.',
-    1 => 'Grover Cleveland',
-  ),
-  2 => 
-  array (
-    0 => 'Believe that there\'s light at the end of the tunnel. Believe that you might be that light for someone else.',
-    1 => 'Kobi Yamada',
-  ),
-  3 => 
-  array (
-    0 => 'The real success in golf lies in turning three shots into two.',
-    1 => 'Bobby Locke',
-  ),
-  4 => 
-  array (
-    0 => 'I cannot lead you into battle. I do not give you laws or administer justice but I can do something else-I can give my heart and my devotion to these old islands and to all the peoples of our brotherhood of nations.',
-    1 => 'Elizabeth II',
-  ),
-  5 => 
-  array (
-    0 => 'How easy it is to repel and to wipe away every impression which is troublesome or unsuitable, and immediately to be in all tranquility.',
-    1 => 'Marcus Aurelius, "The Meditations", Book V',
-  ),
-  6 => 
-  array (
-    0 => 'Success or failure in business is caused more by the mental attitude even than by mental capacities.',
-    1 => 'Walter Scott',
-  ),
-  7 => 
-  array (
-    0 => 'One of the most difficult things everyone has to learn is that for your entire life you must keep fighting and adjusting if you hope to survive. No matter who you are or what your position is you must keep fighting for whatever it is you desire to achieve.',
-    1 => 'George Allen',
-  ),
-  8 => 
-  array (
-    0 => 'The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another\'s, smile at someone and receive a smile in return, are to me continual spiritual exercises.',
-    1 => 'Leo Buscaglia',
-  ),
-  9 => 
-  array (
-    0 => 'I\'m in Pittsburgh. Why am I here?',
-    1 => 'Harold Urey, Nobel Laureate',
-  ),
-  10 => 
-  array (
-    0 => 'When helping others, do not look for a reward; if you are looking for rewards, don\'t help others.',
-    1 => 'Chinese Proverb',
-  ),
-  11 => 
-  array (
-    0 => 'Your vision will become clear only when you look into your heart. Those who look outside, dream. Those who looks inside, awaken.',
-    1 => 'Carl Gustav Jung',
-  ),
-  12 => 
-  array (
-    0 => 'To downgrade the human mind is bad theology.',
-    1 => 'C. K. Chesterton',
-  ),
-  13 => 
-  array (
-    0 => 'I\'d rather attempt to do something great and fail, than to attempt nothing and succeed.',
-    1 => 'Robert H. Schuller',
-  ),
-  14 => 
-  array (
-    0 => 'The thing about growing up with Fred and George,is that you sort of start thinking anything\'s possible if you\'ve got enough nerve.',
-    1 => 'Ginny Weaseley- –Order of the Phoenix',
-  ),
-  15 => 
-  array (
-    0 => 'The time I had waited probably made the difference between success and failure.',
-    1 => 'Anna Neagle',
-  ),
-  16 => 
-  array (
-    0 => 'Be cautious of those who give you advice. That\'s my advice to you.',
-    1 => 'Steve Mayr',
-  ),
-  17 => 
-  array (
-    0 => 'The friend in my adversity I shall always cherish most. I can better trust those who helped to relieve the gloom of my dark hours than those who are so ready to enjoy with me the sunshine of my prosperity.',
-    1 => 'Ulysses S. Grant',
-  ),
-  18 => 
-  array (
-    0 => 'All endings are also beginnings. We just don\'t know it at the time.',
-    1 => 'Mitch Albom',
-  ),
-  19 => 
-  array (
-    0 => 'Anyone can exist. Most fools do. It takes guts to truly Live.',
-    1 => 'RMV',
-  ),
-  20 => 
-  array (
-    0 => 'You can\'t depend on your eyes when your imagination is out of focus',
-    1 => 'Mark Twain',
-  ),
-  21 => 
-  array (
-    0 => 'Gratitude bestows reverence, allowing us to encounter everyday epiphanies, those transcendent moments of awe that change forever how we experience life and the world.',
-    1 => 'John Milton',
-  ),
-  22 => 
-  array (
-    0 => 'The Law, in its majestic equality, forbids the rich, as well as the poor, to sleep under the bridges, to beg in the streets, and to steal bread.',
-    1 => 'Anatole France',
-  ),
-  23 => 
-  array (
-    0 => 'Life be not so short but that there is always time for courtesy.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  24 => 
-  array (
-    0 => 'Whatever is not nailed down is mine. What I can pry loose is not nailed down.',
-    1 => 'Collis P. Huntingdon',
-  ),
-);
+return [
+    [
+        'I read a funny story about how the Republicans freed the slaves. The Republicans are the ones who created slavery by law in the 1600\'s. Abraham Lincoln freed the slaves and he was not a Republican.',
+        'Marion Barry',
+    ],
+    [
+        'I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.',
+        'Robert Benchley',
+    ],
+    [
+        'I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.',
+        'Georg Lichtenberg',
+    ],
+    [
+        'I\'m very close with my family, so my mom is part of my entourage.',
+        'Kid Cudi',
+    ],
+    [
+        'Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
+        'Swami Vivekananda',
+    ],
+    [
+        'I couldn\'t go now to a brand that had a niche attitude like... gothic. I couldn\'t do that. Well, I could do it, but I wouldn\'t find it interesting, challenging.',
+        'Raf Simons',
+    ],
+    [
+        'When I pray, I always thank Mother Nature for all the beauty in the world. It\'s about having an attitude of gratitude.',
+        'Miranda Kerr',
+    ],
+    [
+        'Creativity takes courage.',
+        'Henri Matisse',
+    ],
+    [
+        'I\'ve had a lot of success; I\'ve had failures, so I learn from the failure.',
+        'Gordon Ramsay',
+    ],
+    [
+        'I play a female Indiana Jones, a professor who hunts down precious objects, like a bowl that belonged to the Buddha. They tailored the role to me: I wanted to be smart, funny, and to kick some ass.',
+        'Tia Carrere',
+    ],
+    [
+        'You can complain because roses have thorns, or you can rejoice because thorns have roses.',
+        'Ziggy',
+    ],
+    [
+        'It\'s the right idea, but not the right time.',
+        'John Dalton',
+    ],
+    [
+        'The secret of success is constancy to purpose.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'You tell your kids that no matter what, you set your goals and you go for them. Whatever it is you achieve, never give up. You want your kids to have that good attitude, the confidence, and the will power to believe in themselves.',
+        'Joel Parkinson',
+    ],
+    [
+        'When my wife and I met, I couldn\'t talk to her - and my defense mechanism is sarcasm. I belittle someone with verbal pokes and prods. I did it to her out of complete awe. When friends introduced us, I said \'Hi\' - and turned my back. Later, I called my mom and best friend and said, \'I think I just met my wife.\'',
+        'Mike Vogel',
+    ],
+    [
+        'There is no advertisement as powerful as a positive reputation traveling fast.',
+        'Brian Koslow',
+    ],
+    [
+        'Life changes when you have a child, when you have your own family. You become more careful about what you do. You\'re not going to be out late, going out to clubs, hanging out with your friends. You\'re going to be at home, taking care of your daughter, playing with her.',
+        'Mohammed bin Rashid Al Maktoum',
+    ],
+    [
+        'Everything is a blessing, even meetings. Whether it\'s meetings or running gassers or lifting, it\'s an opportunity, and the best thing to do is be thankful for it.',
+        'Eric Berry',
+    ],
+    [
+        'To handle that stardom, the red carpets, the photo shoots, people all of a sudden recognizing you and following you in everyday life, it\'s a bit weird. It\'s strange, and it can have funny effects on you in terms of do you like it or don\'t you like it. Some people run away from it, some people embrace it; I found a good middle ground.',
+        'Roger Federer',
+    ],
+    [
+        'A good attitude is really important. And a sense of optimism, someone who has ideas and isn\'t afraid to pitch them no matter what level she is. Someone who is proactive. Someone with efficiency and common sense. They don\'t always go hand-in-hand, common sense and, well, everything else.',
+        'Eva Chen',
+    ],
+    [
+        'It\'s funny because before I joined the cast of \'Heroes,\' I was an insomniac. I have suffered from insomnia for, like, so long. Now that I\'m on the show, seriously - I sleep like a baby. I\'m so tired all the time.',
+        'Dana Davis',
+    ],
+    [
+        'The four building blocks of the universe are fire, water, gravel and vinyl.',
+        'Dave Barry',
+    ],
+    [
+        'Exuberance is beauty.',
+        'William Blake',
+    ],
+    [
+        'Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.',
+        'Theodore Rubin',
+    ],
+    [
+        'If it is not right do not do it; if it is not true do not say it.',
+        'Marcus Aurelius',
+    ],
+];

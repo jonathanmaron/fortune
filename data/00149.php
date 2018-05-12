@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The only guide to a man is his conscience.',
-    1 => 'Sir Winston Churchill',
-  ),
-  1 => 
-  array (
-    0 => 'You have been my friend. That in itself is a tremendous thing... By helping you, perhaps I was trying to lift up my life a trifle. Heaven knows anyone\'s life can stand a little of that.',
-    1 => 'E. B. White',
-  ),
-  2 => 
-  array (
-    0 => 'Fill each day with life and heart. There is no pleasure in the world comparable to the delight and satisfaction that a good person takes in doing good.',
-    1 => 'John Tilloston',
-  ),
-  3 => 
-  array (
-    0 => 'You were born into genius. Don\'t settle for any mediocrity.',
-    1 => 'Robin Sharma',
-  ),
-  4 => 
-  array (
-    0 => 'We ought to walk through the rooms of our lives not looking for flaws, but looking for potential.',
-    1 => 'Ellen Goodman',
-  ),
-  5 => 
-  array (
-    0 => 'Every fool knows you can\'t touch the stars, but it doesn\'t stop a wise man from trying.',
-    1 => 'Harry Anderson',
-  ),
-  6 => 
-  array (
-    0 => 'The mind has exactly the same power as the hands: not merely to grasp the world, but to change it.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  7 => 
-  array (
-    0 => 'When we strive to become better than we are, everything around us becomes better too.',
-    1 => 'Paulo Coelho',
-  ),
-  8 => 
-  array (
-    0 => 'It\'s highly virtuous to say we\'ll be good, but we can\'t do it all at once, and it takes a long pull, a strong pull, and a pull all together before some of us even get our feet set in the right way.',
-    1 => 'Louisa May Alcott',
-  ),
-  9 => 
-  array (
-    0 => 'You miss 100% of the shots you don\'t take.',
-    1 => 'Wayne Gretzky',
-  ),
-  10 => 
-  array (
-    0 => 'Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.',
-    1 => 'Laozi',
-  ),
-  11 => 
-  array (
-    0 => 'Overcome the notion that you must be regular. It robs you of the chance to be extraordinary.',
-    1 => 'Uta Hagen',
-  ),
-  12 => 
-  array (
-    0 => 'Who had deceived thee so often as thyself?',
-    1 => 'Benjamin Franklin',
-  ),
-  13 => 
-  array (
-    0 => 'The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.',
-    1 => 'Thomas A. Edison',
-  ),
-  14 => 
-  array (
-    0 => 'Personal satisfaction is the most important ingredient of success.',
-    1 => 'Denis Waitley',
-  ),
-  15 => 
-  array (
-    0 => 'If I was a religious person, I would consider creationism nothing less than blasphemy. Do its adherents imagine that God is a cosmic hoaxer who has created that whole vast fossil record for the sole purpose of misleading mankind?',
-    1 => 'Arthur C. Clarke, June 5, 1998, in the essay "Presidents, Experts, and Asteroids"',
-  ),
-  16 => 
-  array (
-    0 => 'A lot of people don\'t have near the amount of success as I\'ve been blessed to have, and it\'s all about working hard and hoping that continues.',
-    1 => 'Luke Bryan',
-  ),
-  17 => 
-  array (
-    0 => 'I\'m not going to get somewhere and say, \'OK, I\'m done.\' Success is never final; I\'ll just keep on going. The same way as failure never being fatal. Just keep going. I\'m going to the stars and then past them.',
-    1 => 'Conor McGregor',
-  ),
-  18 => 
-  array (
-    0 => 'Nobody grows old by merely living a number of years. People grow old by deserting their ideals. Years may wrinkle the skin, but to give up wrinkles the soul.',
-    1 => 'Douglas MacArthur',
-  ),
-  19 => 
-  array (
-    0 => 'You can\'t always be happy. You can\'t always be sad.',
-    1 => 'Anonymous',
-  ),
-  20 => 
-  array (
-    0 => 'The value of compassion cannot be over-emphasized. Anyone can criticize. It takes a true believer to be compassionate. No greater burden can be borne by an individual than to know no one cares or understands.',
-    1 => 'Arthur H. Stainback',
-  ),
-  21 => 
-  array (
-    0 => 'If this country is worth saving, it\'s worth saving at a profit.',
-    1 => 'H. L. Hunt',
-  ),
-  22 => 
-  array (
-    0 => 'The best road to progress is freedom\'s road.',
-    1 => 'John F. Kennedy',
-  ),
-  23 => 
-  array (
-    0 => 'Listen to the Musn\'t\'s child, Listen to the Don\'t\'s. Listen to the Shouldn\'t\'s, the Impossibles, the Won\'t\'s. Listen to the Never Haves, then Listen close to me. ANYthing can happen, child, ANYthing can Be.',
-    1 => 'Shel Silverstein',
-  ),
-  24 => 
-  array (
-    0 => 'You\'ll discover that real love is millions of miles past falling in love with anyone or anything. When you make that one effort to feel compassion instead of blame or self-blame, the heart opens again and continues opening.',
-    1 => 'Sara Paddison',
-  ),
-);
+return [
+    [
+        'In high school, in sport, I had a coach who told me I was much better than I thought I was, and would make me do more in a positive sense. He was the first person who taught me not to be afraid of failure.',
+        'Mike Krzyzewski',
+    ],
+    [
+        'It is only in sorrow bad weather masters us; in joy we face the storm and defy it.',
+        'Amelia Barr',
+    ],
+    [
+        'The power of women in the politics is a soft power. It is a positive change that our country and other countries in the region... are making by giving a chance to women.',
+        'Atifete Jahjaga',
+    ],
+    [
+        'We still carry this old caveman-imprint idea that we\'re small, nature\'s big, and it\'s everything we can manage to hang on and survive. When big geophysical events happen - a huge earthquake, tsunami, or volcanic eruption - we\'re reminded of that.',
+        'James Balog',
+    ],
+    [
+        '\'All in With Laila Ali\' is educational, inspirational, compelling programming profiling individuals that have reached for the sky, pushed themselves to the limit and did things that you would think were impossible.',
+        'Laila Ali',
+    ],
+    [
+        'I think the most important thing in life is self-love, because if you don\'t have self-love, and respect for everything about your own body, your own soul, your own capsule, then how can you have an authentic relationship with anyone else?',
+        'Ralph Marston',
+    ],
+    [
+        'Don\'t work for recognition, but do work worthy of recognition.',
+        'H. Jackson Brown, Jr.',
+    ],
+    [
+        'Self-love, it is obvious, remains always positive and active in our natures.',
+        'Gordon W. Allport',
+    ],
+    [
+        'Take time for all things: great haste makes great waste.',
+        'Benjamin Franklin',
+    ],
+    [
+        'Adversity isn\'t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.',
+        'Byron Pulsifer',
+    ],
+    [
+        'I don\'t especially like to travel, not the way many people do. I know many people that love to go to far-off and different places, and I\'ve never been like that. I seem to get homesick as quickly as a child.',
+        'Elizabeth Strout',
+    ],
+    [
+        'Let us touch the dying, the poor, the lonely and the unwanted according to the graces we have received and let us not be ashamed or slow to do the humble work.',
+        'Mother Teresa',
+    ],
+    [
+        'Journalism is what we need to make democracy work.',
+        'Walter Cronkite',
+    ],
+    [
+        'Time is the least thing we have of.',
+        'Ernest Hemingway',
+    ],
+    [
+        'Does not the very word \'creative\' mean to build, to initiate, to give out, to act - rather than to be acted upon, to be subjective? Living photography is positive in its approach, it sings a song of life - not death.',
+        'Berenice Abbott',
+    ],
+    [
+        'Just as Darwin discovered the law of development of organic nature, so Marx discovered the law of development of human history: the simple fact, hitherto concealed by an overgrowth of ideology, that mankind must first of all eat, drink, have shelter and clothing, before it can pursue politics, science, art, religion, etc.',
+        'Friedrich Engels',
+    ],
+    [
+        'Beauty may be skin deep, but ugly goes clear to the bone.',
+        'Redd Foxx',
+    ],
+    [
+        'I\'ve always been about the power of a woman - accentuating the positive, deleting the negative, whether you\'re talking her body, her voice or her leadership.',
+        'Donna Karan',
+    ],
+    [
+        'Antigravity, teleportation, time travel, energetic DNA evolution and consciousness transformation could create a world few of us ever even dreamed of.',
+        'David Wilcock',
+    ],
+    [
+        'One of the first conditions of happiness is that the link between Man and Nature shall not be broken.',
+        'Leo Tolstoy',
+    ],
+    [
+        'The best way to hold a man is in your arms.',
+        'Mae West',
+    ],
+    [
+        'In a time of domestic crisis, men of goodwill and generosity should be able to unite regardless of party or politics.',
+        'John F. Kennedy',
+    ],
+    [
+        'Too many people say to their brokers, I can\'t deal with this. Take my money. Do what you want. That\'s the worst attitude you can have.',
+        'Maria Bartiromo',
+    ],
+    [
+        'However things may seem, no evil thing is success and no good thing is failure.',
+        'Henry Wadsworth Longfellow',
+    ],
+    [
+        'It\'s fun to have a partner who understands your life and lets you be you.',
+        'Ann Landers',
+    ],
+];

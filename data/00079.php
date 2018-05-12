@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Success is focusing the full power of all you are on what you have a burning desire to achieve.',
-    1 => 'Wilferd A. Peterson',
-  ),
-  1 => 
-  array (
-    0 => 'I always say be humble but be firm. Humility and openness are the key to success without compromising your beliefs.',
-    1 => 'George Hickenlooper',
-  ),
-  2 => 
-  array (
-    0 => 'Parents, teach your children to express themselves. Teach them to be in touch with their emotions, to speak honestly to people, and to maintain integrity and stick by their principles in all they do. This is perhaps the highest morality you can instill.',
-    1 => 'Jeffery Bryant',
-  ),
-  3 => 
-  array (
-    0 => 'To me, the Seventies were very inspirational and very influential... With my whole persona as Snoop Dogg, as a person, as a rapper. I just love the Seventies style, the way all the players dressed nice, you know, kept their hair looking good, drove sharp cars and they talked real slick.',
-    1 => 'Snoop Dogg',
-  ),
-  4 => 
-  array (
-    0 => 'What is not started today is never finished tomorrow.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  5 => 
-  array (
-    0 => 'Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.',
-    1 => 'Morgan Freeman',
-  ),
-  6 => 
-  array (
-    0 => 'Normal day, let me be aware of the treasure you are. Let me learn from you, love you, bless you before you depart. Let me not pass you by in the quest of some rare and perfect tomorrow.',
-    1 => 'Mary Jean Irion',
-  ),
-  7 => 
-  array (
-    0 => 'If you can\'t explain it simply, you don\'t understand it well enough.',
-    1 => 'Albert Einstein',
-  ),
-  8 => 
-  array (
-    0 => 'It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.',
-    1 => 'Joseph Campbell',
-  ),
-  9 => 
-  array (
-    0 => 'If your dream requires patience, give it.',
-    1 => 'M. Russell Ballard',
-  ),
-  10 => 
-  array (
-    0 => 'Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.',
-    1 => 'Marie Curie',
-  ),
-  11 => 
-  array (
-    0 => 'The way doesn\'t matter, ambition is enough to get anywhere.',
-    1 => 'Albert Camus',
-  ),
-  12 => 
-  array (
-    0 => 'It could probably be shown, by facts and figures, that there is no distinctly native criminal class except Congress.',
-    1 => 'Mark Twain',
-  ),
-  13 => 
-  array (
-    0 => 'If a group of N persons implements a COBOL compiler, there will be N-1 passes. Someone in the group has to be the manager.',
-    1 => 'T. Cheatham',
-  ),
-  14 => 
-  array (
-    0 => 'I dwell in possibility.',
-    1 => 'Emily Dickinson',
-  ),
-  15 => 
-  array (
-    0 => 'If only people would realize that moral principles are like measles...They have to be caught. And only the people who\'ve got them can pass on the contagion.',
-    1 => 'Aldous Huxley',
-  ),
-  16 => 
-  array (
-    0 => 'Eeny Meeny, Jelly Beanie, the spirits are about to speak.',
-    1 => 'Bullwinkle Moose',
-  ),
-  17 => 
-  array (
-    0 => 'Military intelligence is a contradiction in terms.',
-    1 => 'Groucho Marx',
-  ),
-  18 => 
-  array (
-    0 => 'Don\'t go around saying the world owes you a living. The world owes you nothing. It was here first.',
-    1 => 'Mark Twain',
-  ),
-  19 => 
-  array (
-    0 => 'However, never daunted, I will cope with adversity in my traditional manner ... sulking and nausea.',
-    1 => 'Tom K. Ryan',
-  ),
-  20 => 
-  array (
-    0 => 'I cannot affirm God if I fail to affirm man. Therefore, I affirm both.
-Without a belief in human unity I am hungry and incomplete. Human unity is the fulfillment of diversity. It is the harmony of opposites. It is a many-stranded texture, with color and depth.',
-    1 => 'Norman Cousins',
-  ),
-  21 => 
-  array (
-    0 => 'It is often easier to ask for forgiveness than to ask for permission.',
-    1 => 'Grace Hopper',
-  ),
-  22 => 
-  array (
-    0 => 'I have found no greater satisfaction than achieving success through honest dealing and strict adherence to the view that, for you to gain, those you deal with should gain as well.',
-    1 => 'Alan Greenspan',
-  ),
-  23 => 
-  array (
-    0 => 'The further the spiritual evolution of mankind advances, the more certain it seems to me that the path to genuine religiosity does not lie through the fear of life, and the fear of death, and blind faith, but through striving after rational knowledge.',
-    1 => 'Albert Einstein',
-  ),
-  24 => 
-  array (
-    0 => 'Blessed is the season which engages the whole world in a conspiracy of love.',
-    1 => 'Hamilton Wright Mabie',
-  ),
-);
+return [
+    [
+        'A good decision is based on knowledge and not on numbers.',
+        'Plato',
+    ],
+    [
+        'I think fun is an important part of the entertainment industry, and it should be. Anybody who\'s not incorporating some of that into their work needs to take a break, go away, and have an attitude adjustment.',
+        'Diane Lane',
+    ],
+    [
+        'I had a birthday party with my family and friends at a house, and Chipotle catered. It was beautiful.',
+        'Ansel Elgort',
+    ],
+    [
+        'It is only with the heart that one can see rightly, what is essential is invisible to the eye.',
+        'Antoine de Saint-Exupery',
+    ],
+    [
+        'The Republican Party - that was the end of the Republican Party. What Pete Wilson did with the xenophobia and the negative attitude, all this sort of anti-crime backlash.',
+        'Gavin Newsom',
+    ],
+    [
+        'If the chemistry is right between star and photographer and the geometry of the pictures pleases the star, often the two people end up with a long-term professional friendship during which they continue to work together and to produce highly personal images.',
+        'Eve Arnold',
+    ],
+    [
+        'I do love traveling, so I\'ve been able to travel a lot.',
+        'Taylor Lautner',
+    ],
+    [
+        'Concentrate on your job and you will forget your other troubles.',
+        'William Feather',
+    ],
+    [
+        'The reason I exercise is for the quality of life I enjoy.',
+        'Shakuntala Devi',
+    ],
+    [
+        'The fame of heroes owes little to the extent of their conquests and all to the success of the tributes paid to them.',
+        'Jean Genet',
+    ],
+    [
+        'You can get too close as a team. You need time away from each other. You change in the same dressing room, you play on the same cricket field, you stay in the same hotel, you travel in the same planes and buses. C\'mon - this business of everyone holding hands and being pally is nonsense.',
+        'Glenn Turner',
+    ],
+    [
+        'The road to success is not easy to navigate, but with hard work, drive and passion, it\'s possible to achieve the American dream.',
+        'Tommy Hilfiger',
+    ],
+    [
+        'To be wholly devoted to some intellectual exercise is to have succeeded in life.',
+        'Robert Louis Stevenson',
+    ],
+    [
+        'I like a girl with natural beauty.',
+        'Chandler Parsons',
+    ],
+    [
+        'Everyone has their own insecurities, regardless of how you look or how people perceive you, but sometimes people give their insecurities too much power. Defining beauty is simply a matter of opinion. For me, real beauty has very little to do with the structure of someone\'s face or body.',
+        'Devon Aoki',
+    ],
+    [
+        'Inappropriateness is funny to me. Rudeness is hilarious.',
+        'Zach Galifianakis',
+    ],
+    [
+        'The creed of a true saint is to make the best of life, and to make the most of it.',
+        'Edwin Hubbel Chapin',
+    ],
+    [
+        'I don\'t deserve this award, but I have arthritis and I don\'t deserve that either.',
+        'Jack Benny',
+    ],
+    [
+        'The past 6 and a half years have been the most amazing years of my life. It\'s sad it has come to an end but Avril and I are still family and moving forward in the most positive way possible.',
+        'Deryck Whibley',
+    ],
+    [
+        'Beauty is a radiance that originates from within and comes from inner security and strong character.',
+        'Jane Seymour',
+    ],
+    [
+        'I prioritize the things that need to get done at work, and I ask myself where I\'m spending the majority of my time. The answer to that question always needs to be \'with my family.\'',
+        'Elisabeth Hasselbeck',
+    ],
+    [
+        'I\'d love to travel to the Holy Land.',
+        'Loretta Lynn',
+    ],
+    [
+        'I think it\'s important to always keep professional and surround yourself with good people, work hard, and be nice to everyone.',
+        'Caroline Winberg',
+    ],
+    [
+        'Makeup is not a mask that covers up your beauty; it\'s a weapon that helps you express who you are from the inside.',
+        'Michelle Phan',
+    ],
+    [
+        'Trouble is only opportunity in work clothes.',
+        'Henry J. Kaiser',
+    ],
+];

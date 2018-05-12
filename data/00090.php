@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Happiness is not something ready made. It comes from your own actions.',
-    1 => 'Dalai Lama',
-  ),
-  1 => 
-  array (
-    0 => 'Failure is the condiment that gives success its flavor.',
-    1 => 'Truman Capote',
-  ),
-  2 => 
-  array (
-    0 => 'To him who is determined it remains only to act.',
-    1 => 'Italian Proverb',
-  ),
-  3 => 
-  array (
-    0 => 'Think for yourselves and let others enjoy the privilege to do so too.',
-    1 => 'Voltaire',
-  ),
-  4 => 
-  array (
-    0 => 'You can\'t change your past, and your future has not happened. Focus your energy on enjoying the moment you are living right now.',
-    1 => 'Rod Williams',
-  ),
-  5 => 
-  array (
-    0 => 'The hardest arithmetic to master is that which enables us to count our blessings.',
-    1 => 'Eric Hoffer',
-  ),
-  6 => 
-  array (
-    0 => 'Speak your truth even if your voice shakes.',
-    1 => 'Robin Sharma',
-  ),
-  7 => 
-  array (
-    0 => 'The most important thing is to enjoy your life - to be happy - it\'s all that matters.',
-    1 => 'Audrey Hepburn',
-  ),
-  8 => 
-  array (
-    0 => 'It\'s harder to be a success, globally, and be artistic. Harder to have that balance than just to be artistic when nobody understands you.',
-    1 => 'Andre Benjamin',
-  ),
-  9 => 
-  array (
-    0 => 'It is our choices that show what we truly are, far more than our abilities.',
-    1 => 'J.K. Rowling',
-  ),
-  10 => 
-  array (
-    0 => 'Do not wait; the time will never be \'just right\'. Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.',
-    1 => 'Napoleon Hill',
-  ),
-  11 => 
-  array (
-    0 => 'Neither fire nor wind, birth nor death can erase our good deeds.',
-    1 => 'Buddha',
-  ),
-  12 => 
-  array (
-    0 => 'If Virtue and Knowledge are diffused among the People, they will never be enslav\'d. This will be their great Security.',
-    1 => 'Samuel Adams',
-  ),
-  13 => 
-  array (
-    0 => 'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
-    1 => 'Francis Chan',
-  ),
-  14 => 
-  array (
-    0 => 'Success is a lousy teacher. It seduces smart people into thinking they can\'t lose.',
-    1 => 'Bill Gates',
-  ),
-  15 => 
-  array (
-    0 => 'The personal computer market is about the same size as the total potato chip market. Next year it will be about half the size of the pet food market and is fast approaching the total worldwide sales of pantyhose',
-    1 => 'James Finke, President, Commodore Int\'l Ltd. (1982)',
-  ),
-  16 => 
-  array (
-    0 => 'You\'re either changing your life or you\'re not. No waiting for this or that or better weather or other hurdles. Hurdles are the change.',
-    1 => 'Terri Guillemets',
-  ),
-  17 => 
-  array (
-    0 => 'This is my simple religion. There is no need for temples; no need for complicated philosophy. Our own brain, our own heart is our temple; the philosophy is kindness.',
-    1 => 'Dalai Lama',
-  ),
-  18 => 
-  array (
-    0 => 'I know of no great men except those who have rendered great service to the human race.',
-    1 => 'William Shakespeare',
-  ),
-  19 => 
-  array (
-    0 => 'Our prime purpose in this life is to help others. And if you can\'t help them, at least don\'t hurt them.',
-    1 => 'Charles De Gaulle',
-  ),
-  20 => 
-  array (
-    0 => 'At some point, everything\'s gonna go south on you and you\'re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That\'s all it is.',
-    1 => 'Mark Watney',
-  ),
-  21 => 
-  array (
-    0 => 'We must let go of the life we have planned, so as to accept the one that is waiting for us.',
-    1 => 'Joseph Campbell',
-  ),
-  22 => 
-  array (
-    0 => 'Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.',
-    1 => 'Oprah Winfrey',
-  ),
-  23 => 
-  array (
-    0 => 'Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.',
-    1 => 'Albert Einstein',
-  ),
-  24 => 
-  array (
-    0 => 'Part of the secret of a success in life is to eat what you like and let the food fight it out inside.',
-    1 => 'Mark Twain',
-  ),
-);
+return [
+    [
+        'There is something terribly morbid in the modern sympathy with pain. One should sympathise with the colour, the beauty, the joy of life. The less said about life\'s sores the better.',
+        'Oscar Wilde',
+    ],
+    [
+        'Good news doesn\'t necessarily have to be a positive thing. Bringing good news is imparting hope to one\'s fellow man.',
+        'Patti Smith',
+    ],
+    [
+        'We must reject the idea that every time a law\'s broken, society is guilty rather than the lawbreaker. It is time to restore the American precept that each individual is accountable for his actions.',
+        'Ronald Reagan',
+    ],
+    [
+        'I love every minute of fatherhood, staying up all night, changing nappies, kids crying, I find it really funny and inspiring. It connects you to the world in a new way.',
+        'Elton John',
+    ],
+    [
+        'We must not constantly talk about tackling obesity and warning people about the negative consequences of obesity. Instead we must be positive - positive about the fun and benefits to be had from healthy living, trying to get rid of people\'s excuses for being obese by tackling the issue in a positive way.',
+        'Andrew Lansley',
+    ],
+    [
+        'Strong beliefs win strong men, and then make them stronger.',
+        'Richard Bach',
+    ],
+    [
+        'Once you say you\'re going to settle for second, that\'s what happens to you in life.',
+        'Lou Holtz',
+    ],
+    [
+        'Always seek out the seed of triumph in every adversity.',
+        'Og Mandino',
+    ],
+    [
+        'A dream is what makes people love life even when it is painful.',
+        'Soren Kierkegaard',
+    ],
+    [
+        'We have such a long, familiar history with Peter Falk. The minute his mug is on that screen people smile.',
+        'Paul Reiser',
+    ],
+    [
+        'Photography is a small voice, at best, but sometimes one photograph, or a group of them, can lure our sense of awareness.',
+        'W. Eugene Smith',
+    ],
+    [
+        'I\'ve been lucky enough to travel widely. When you\'re based in Europe, it\'s very easy to go to Madrid or Budapest for the weekend. I also lived in Italy for ten years and now live in Ireland.',
+        'Laurie Graham',
+    ],
+    [
+        'All the world\'s a stage, and all the men and women merely players: they have their exits and their entrances; and one man in his time plays many parts, his acts being seven ages.',
+        'William Shakespeare',
+    ],
+    [
+        'The free man is he who does not fear to go to the end of his thought.',
+        'Leon Blum',
+    ],
+    [
+        'I used to work for the World Health Organisation in poor countries all over the world - Bangladesh, Korea, the Philippines and India. You learn a whole range of things about how other people are living and try to connect with them to gain an understanding of where they\'re coming from.',
+        'Robert Winston',
+    ],
+    [
+        'Revolution is as unpredictable as an earthquake and as beautiful as spring. Its coming is always a surprise, but its nature should not be.',
+        'Rebecca Solnit',
+    ],
+    [
+        'When a kid graduates from being the youngest in a family to being a big brother or sister, there\'s an amazing transformation. They have to make a big effort, and when they accept their new position in the family, everybody breathes a sigh of relief. All of a sudden they seem bigger, and they seem smarter, and they feel good about it, too.',
+        'Peggy Rathmann',
+    ],
+    [
+        'It\'s tricky. I\'ve never been standing at the top of the tree with tons of money thrown at me. I\'ve never really had a profile. So in a way I have this \'nothing to lose\' attitude.',
+        'Joel Edgerton',
+    ],
+    [
+        'Slow travel now rivals the fly-to-Barcelona-for-lunch culture. Advocates savour the journey, travelling by train or boat or bicycle, or even on foot, rather than crammed into an airplane. They take time to plug into the local culture instead of racing through a list of tourist traps.',
+        'Carl Honore',
+    ],
+    [
+        'Each one of us has our own evolution of life, and each one of us goes through different tests which are unique and challenging. But certain things are common. And we do learn things from each other\'s experience. On a spiritual journey, we all have the same destination.',
+        'Thomas Fuller',
+    ],
+    [
+        'Only the guy who isn\'t rowing has time to rock the boat.',
+        'Jean-Paul Sartre',
+    ],
+    [
+        'The way that people feel changes everything. Feelings are forces. They cause us to time travel. And to leave ourselves, to leave our bodies. I would be that kind of psychologist who says, \'You\'re absolutely right - there are monsters under the bed.\'',
+        'Helen Oyeyemi',
+    ],
+    [
+        'Two roads diverged in a wood and I  took the one less traveled by, and that made all the difference.',
+        'Robert Frost',
+    ],
+    [
+        'Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it\'s all over.',
+        'Octavia Butler',
+    ],
+    [
+        'You have to get under the hood and spend some quality time with someone to understand what they\'re really good at.',
+        'Aileen Lee',
+    ],
+];

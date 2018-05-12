@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If you realize that you have enough, you are truly rich.',
-    1 => 'Lao Tzu',
-  ),
-  1 => 
-  array (
-    0 => 'Nothing is impossible to him who will try.',
-    1 => 'Alexander The Great',
-  ),
-  2 => 
-  array (
-    0 => 'Beauty is only skin deep, but ugly goes clean to the bone.',
-    1 => 'Dorothy Parker',
-  ),
-  3 => 
-  array (
-    0 => 'Few companies really work like the Borg. Most work a lot more like the Holy Roman Empire. News often takes weeks to travel from castle to castle by minstrel.',
-    1 => 'Drew Sudell',
-  ),
-  4 => 
-  array (
-    0 => 'True heroism is remarkably sober, very undramatic. It is not the courage to surpass others at whatever cost, but the courage to serve others at whatever the cost.',
-    1 => 'Arthur Ashe',
-  ),
-  5 => 
-  array (
-    0 => 'Honorable, adj.:
-        Afflicted with an impediment in one\'s reach. In legislative bodies, it is customary to mention all members as honorable; as, "the honorable gentleman is a scurvy cur".',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  6 => 
-  array (
-    0 => 'To know even one life has breathed easier because you have lived. This is to have succeeded.',
-    1 => 'Bessie Anderson Stanley',
-  ),
-  7 => 
-  array (
-    0 => '... The book is worth attention for only two reasons: (1) it attacks attempts to expose sham paranormal studies; and (2) it is very well and plausibly written and so rather harder to dismiss or refute by simple jeering.',
-    1 => 'Harry Eagar, reviewing "Beyond the Quantum" by Michael Talbot,
-           The Skeptical Inquirer, Vol. XII No. 2, ppg. 200-201',
-  ),
-  8 => 
-  array (
-    0 => 'It is better to be prepared for an opportunity and not have one than to have an opportunity and not be prepared.',
-    1 => 'Whitney M. Young, Jr.',
-  ),
-  9 => 
-  array (
-    0 => 'Know what I hate most? Rhetorical questions.',
-    1 => 'Henry N. Camp',
-  ),
-  10 => 
-  array (
-    0 => 'True leaders don\'t invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people.',
-    1 => 'Myles Munroe',
-  ),
-  11 => 
-  array (
-    0 => 'Learning and innovation go hand in hand. The arrogance of success is to think that what you did yesterday will be sufficient for tomorrow.',
-    1 => 'William Pollard',
-  ),
-  12 => 
-  array (
-    0 => 'Live your life from your heart. Share from your heart. And your story will touch and heal people\'s souls.',
-    1 => 'Melodie Beattie',
-  ),
-  13 => 
-  array (
-    0 => 'Live, travel, adventure, bless, and don\'t be sorry.',
-    1 => 'Jack Kerouac',
-  ),
-  14 => 
-  array (
-    0 => 'The wise does at once what the fool does at last.',
-    1 => 'Baltasar Gracian',
-  ),
-  15 => 
-  array (
-    0 => 'The dog that trots about finds a bone.',
-    1 => 'Golda Meir',
-  ),
-  16 => 
-  array (
-    0 => 'Sometimes all the players get a bad hand. You just have to be determined enough to see the game through.',
-    1 => 'Dean Wilson',
-  ),
-  17 => 
-  array (
-    0 => 'You have brains in your head and feet in your shoes, you can steer yourself in any direction you choose.',
-    1 => 'Dr. Seuss',
-  ),
-  18 => 
-  array (
-    0 => 'The best revenge is massive success.',
-    1 => 'Frank Sinatra',
-  ),
-  19 => 
-  array (
-    0 => 'You have to be odd to be number one.',
-    1 => 'Dr. Suess',
-  ),
-  20 => 
-  array (
-    0 => 'Reject the basic assumptions of civilization, especially the importance of material possessions.',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  21 => 
-  array (
-    0 => 'Injustice anywhere is a threat to justice everywhere.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  22 => 
-  array (
-    0 => 'Success is nothing if you don\'t have the right people to share it with; you\'re just gonna end up lonely.',
-    1 => 'Selena Gomez',
-  ),
-  23 => 
-  array (
-    0 => 'I wish there was a knob on the TV to turn up the intelligence. There\'s a knob called "brightness", but it doesn\'t work.',
-    1 => 'Gallagher',
-  ),
-  24 => 
-  array (
-    0 => 'It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.',
-    1 => 'Robert Louis Stevenson',
-  ),
-);
+return [
+    [
+        'I do not expect the white media to create positive black male images.',
+        'Huey Newton',
+    ],
+    [
+        'There is nothing I can do to undo what I did. I can only say again how sorry I am to those I let down and then strive to go forward with a greater sense of humility and purpose, and with gratitude to those who stood with me during a very difficult chapter in my life.',
+        'Jim Elliot',
+    ],
+    [
+        'Long before we understand ourselves through the process of self-examination, we understand ourselves in a self-evident way in the family, society and state in which we live.',
+        'Hans-Georg Gadamer',
+    ],
+    [
+        'As an organizer I start from where the world is, as it is, not as I would like it to be.',
+        'Saul Alinsky',
+    ],
+    [
+        'Fear is a natural reaction to moving closer to the truth.',
+        'Pema Chodron',
+    ],
+    [
+        'Nature knows no pause in progress and development, and attaches her curse on all inaction.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'It\'s not whether you get knocked down, it\'s whether you get up.',
+        'Vince Lombardi',
+    ],
+    [
+        'The first \'D\' is to dream: dream big - not for yourself, but for the country and for the world. The second \'D\' is to discover: discover your full potential and the opportunities that surround you; and the third \'D\' is to do. \'Do\' means to act on your dreams and make best use of the opportunities you have discovered.',
+        'Kailash Satyarthi',
+    ],
+    [
+        'Negative attitude is nine times more powerful than positive attitude.',
+        'Bikram Choudhury',
+    ],
+    [
+        'If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.',
+        'Ralph Emerson',
+    ],
+    [
+        'You and I are, by birth, by nature, and by choice, inwardly depraved, which is to say that we are entirely corrupt. That\'s not to say that we have no good in us; we do. However, anything good in us has been tainted with evil. It touches everything. Without the redeeming power of Christ we cannot halt our own moral slide.',
+        'Charles R. Swindoll',
+    ],
+    [
+        'Shortly thereafter, some friends encouraged me to try out for the Miss South Carolina World beauty pageant. To my surprise, I won - and was sent to New York City to compete nationally.',
+        'Donna Rice',
+    ],
+    [
+        'I never laugh or smile when I am writing. When I come home for lunch after writing all morning, my wife says I look like I just came home from a funeral. This is not bragging. This is an illness.',
+        'Carl Hiaasen',
+    ],
+    [
+        'Only an artist can interpret the meaning of life.',
+        'Pat Conroy',
+    ],
+    [
+        'All things change; nothing perishes.',
+        'Ovid',
+    ],
+    [
+        'I feel it is important not to get overly obsessed and overly carried away with just the physical aspect. There is more to beauty than just the physical appearance. You are also a complete person, and a woman should have an identity beyond just the way she looks.',
+        'Katrina Kaif',
+    ],
+    [
+        'A dog will teach you unconditional love. If you can have that in your life, things won\'t be too bad.',
+        'Jimmy Dean',
+    ],
+    [
+        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
+        'Benjamin Franklin',
+    ],
+    [
+        'The only time you really live fully is from thirty to sixty. The young are slaves to dreams; the old servants of regrets. Only the middle-aged have all their five senses in the keeping of their wits.',
+        'Theodore Roosevelt',
+    ],
+    [
+        'I am happy to say that everyone that I have met in my life, I have gained something from them; be it negative or positive, it has enforced and reinforced my life in some aspect.',
+        'Walter Payton',
+    ],
+    [
+        'Poetry at its best can do you a lot of harm.',
+        'Sylvia Plath',
+    ],
+    [
+        'My perfect weekend is going for a walk with my family in the park. I don\'t think there\'s anything better.',
+        'Anne Wojcicki',
+    ],
+    [
+        'Going to the Academy Awards is something I remember since I was six, when I went with my mom for the first time, 14 with my dad, you know, and there I am, at 22, 23, whatever I was, sitting next to my mom. You know, and then again, there with my dad. Like, there\'s a beauty to it, and I care deeply about film history.',
+        'Laura Dern',
+    ],
+    [
+        'Success is doing ordinary things extraordinarily well.',
+        'Jim Rohn',
+    ],
+    [
+        'It\'s true, some senior Hungarian writers are not known for their laughter. There is a strong Germanic influence - an attitude that if it\'s enjoyable it can\'t possibly be literature.',
+        'Tibor Fischer',
+    ],
+];

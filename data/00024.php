@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'There is no material safety data sheet for astatine. If there were, it would just be the word "NO" scrawled over and over in charred blood.',
-    1 => 'Randall Munroe, "What If?"',
-  ),
-  1 => 
-  array (
-    0 => 'Just because you took longer than others, doesn\'t mean you failed.',
-    1 => 'Unknown',
-  ),
-  2 => 
-  array (
-    0 => 'The day the child realizes that all adults are imperfect he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself he becomes wise.',
-    1 => 'Alden Nowlan',
-  ),
-  3 => 
-  array (
-    0 => 'Success is not in never failing, but rising everytime you fall!',
-    1 => 'Jonathan Taylor Thomas',
-  ),
-  4 => 
-  array (
-    0 => 'We are all in the same boat in a stormy sea, and we owe each other a terrible loyalty.',
-    1 => 'Don Marquis',
-  ),
-  5 => 
-  array (
-    0 => 'As far as I\'m concerned, I prefer silent vice to ostentatious virtue.',
-    1 => 'Albert Einstein',
-  ),
-  6 => 
-  array (
-    0 => 'The harder the conflict, the more glorious the triumph. What we obtain too cheap, we esteem too lightly; it is dearness only that gives everything its value. I love the man that can smile in trouble, that can gather strength from distress and grow brave by reflection.',
-    1 => 'Thomas Paine',
-  ),
-  7 => 
-  array (
-    0 => 'There is no idea so sacred that it cannot be questioned, analyzed... and ridiculed.',
-    1 => 'Cal Keegan',
-  ),
-  8 => 
-  array (
-    0 => 'On our campus the UNIX system has proved to be not only an effective software tool, but an agent of technical and social change within the University.',
-    1 => 'John Lions (U. of Toronto (?))',
-  ),
-  9 => 
-  array (
-    0 => 'Patience is not passive; on the contrary, it is active; it is concentrated strength.',
-    1 => 'Edward G. Bulwer-Lytton',
-  ),
-  10 => 
-  array (
-    0 => 'The unnatural, that too is natural.',
-    1 => 'Goethe',
-  ),
-  11 => 
-  array (
-    0 => 'Motivation is what gets you started, habit it what keeps you going.',
-    1 => 'Jim Ryun',
-  ),
-  12 => 
-  array (
-    0 => 'He who would learn to fly one day must first learn to stand and walk and run and climb and dance; one cannot fly into flying.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  13 => 
-  array (
-    0 => 'You can\'t be great if you don\'t feel great. Make exceptional health your number one priority.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => 'The foundation of success in life is good health: that is the substratum fortune; it is also the basis of happiness. A person cannot accumulate a fortune very well when he is sick.',
-    1 => 'P. T. Barnum',
-  ),
-  15 => 
-  array (
-    0 => 'I\'m used to adversity and working really well in difficult situations. It was hard for me to accept the success.',
-    1 => 'Paula Cole',
-  ),
-  16 => 
-  array (
-    0 => 'The success of a production depends on the attention paid to detail.',
-    1 => 'David O. Selznick',
-  ),
-  17 => 
-  array (
-    0 => 'When spider webs unite they can tie up a lion.',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  18 => 
-  array (
-    0 => 'I went to a motivational training course once, a course of self-discovery, and I found out after a week that my fear - it was not a fear of not being accepted - was a very violent fear of failure.',
-    1 => 'Emanuel Steward',
-  ),
-  19 => 
-  array (
-    0 => 'Wishes don\'t bring riches; work make things work.',
-    1 => 'Ifeanyi Enoch Onuoha',
-  ),
-  20 => 
-  array (
-    0 => 'My tastes and inspirational artists were always rather eclectic and diverse.',
-    1 => 'Taylor Dayne',
-  ),
-  21 => 
-  array (
-    0 => 'Success has always been a great liar.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  22 => 
-  array (
-    0 => 'Success is the American Dream. And that success is not something to be ashamed of, or to demonize.',
-    1 => 'Susana Martinez',
-  ),
-  23 => 
-  array (
-    0 => 'Until you make peace with who you are, you will never be content with what you have.',
-    1 => 'Doris Mortman',
-  ),
-  24 => 
-  array (
-    0 => 'You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It\'s their mistake, not my failing.',
-    1 => 'Richard P. Feynman',
-  ),
-);
+return [
+    [
+        'I think I have a mental nappy attitude.',
+        'Paul Mooney',
+    ],
+    [
+        'That some achieve great success, is proof to all that others can achieve it as well.',
+        'Abraham Lincoln',
+    ],
+    [
+        'Be the change that you want to see in the world.',
+        'Mohandas Gandhi',
+    ],
+    [
+        'The music industry is really funny, when you have a hit record, everyone knows who are you, everyone wants to do duets with you, then if you have a miss, people suffer from amnesia.',
+        'Seal',
+    ],
+    [
+        'I may not have gone where I intended to go, but I think I have ended up where I needed to be.',
+        'Douglas Adams',
+    ],
+    [
+        'I have been very fortunate in my life. I have had a lot of happiness. I have a great family and I work a lot, and that\'s what I like to do.',
+        'Danny DeVito',
+    ],
+    [
+        'Everyday may not be good but there is something good in everyday.',
+        'Anonymous',
+    ],
+    [
+        'A bland smile is like a green light at an intersection, it feels good when you get one, but you forget it the moment you\'re past it.',
+        'Douglas Coupland',
+    ],
+    [
+        'I don\'t think I could, with a straight face, describe myself as a completely positive person, but I\'m not overly negative, either. On the whole, most writers think plots through to their consequences, and it\'s not always a sunny place. I have an occupational temperament for anxiety.',
+        'James Lasdun',
+    ],
+    [
+        'I\'m taking all the negatives in my life, and turning them into a positive.',
+        'Pitbull',
+    ],
+    [
+        'Don\'t pray when it rains if you don\'t pray when the sun shines.',
+        'Satchel Paige',
+    ],
+    [
+        'You know, there\'s nothing like seeing the smile on my kids\' faces. Laughing together. Playing. It\'s the best.',
+        'Mark Wahlberg',
+    ],
+    [
+        'The starting point of discovering who you are, your gifts, your talents, your dreams, is being comfortable with yourself. Spend time alone. Write in a journal. Take long walks in the woods.',
+        'Robin S. Sharma',
+    ],
+    [
+        'You, Eternal Trinity, are my Creator, and I am the work of Your hands, and I know through the new creation which You have given me in the blood of Your Son, that You are enamored of the beauty of Your workmanship.',
+        'Catherine of Siena',
+    ],
+    [
+        'That\'s my gift. I let that negativity roll off me like water off a duck\'s back. If it\'s not positive, I didn\'t hear it. If you can overcome that, fights are easy.',
+        'George Foreman',
+    ],
+    [
+        'Health and beauty is not just about what you apply. If you don\'t have it together on the inside, then nothing else is going to matter.',
+        'Nia Peeples',
+    ],
+    [
+        'There are times as a parent when you realize that your job is not to be the parent you always imagined you\'d be, the parent you always wished you had. Your job is to be the parent your child needs, given the particulars of his or her own life and nature.',
+        'Ayelet Waldman',
+    ],
+    [
+        'I would travel only by horse, if I had the choice.',
+        'Linda McCartney',
+    ],
+    [
+        'The key to growth is the introduction of higher dimensions of consciousness into our awareness.',
+        'Lao Tzu',
+    ],
+    [
+        'The Way Get Started Is To Quit Talking And Begin Doing.',
+        'Walt Disney',
+    ],
+    [
+        'And by the way, everything in life is writable about if you have the outgoing guts to do it, and the imagination to improvise. The worst enemy to creativity is self-doubt.',
+        'Jacques Yves Cousteau',
+    ],
+    [
+        'Learning without reflection is a waste, reflection without learning is dangerous.',
+        'Confucius',
+    ],
+    [
+        'If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.',
+        'Pema Chodron',
+    ],
+    [
+        'Count your joys instead of your woes. Count your friends instead of your foes.',
+        '',
+    ],
+    [
+        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that\'s why they call it the present.',
+        '',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.',
-    1 => 'Jules Renard',
-  ),
-  1 => 
-  array (
-    0 => 'When bad men combine, the good must associate; else they will fall, one by one, an unpitied sacrifice in a contemptible struggle.',
-    1 => 'Edmund Burke',
-  ),
-  2 => 
-  array (
-    0 => 'With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.',
-    1 => 'Keshavan Nair',
-  ),
-  3 => 
-  array (
-    0 => 'You can\'t wait for inspiration. You have to go after it with a club.',
-    1 => 'Jack London',
-  ),
-  4 => 
-  array (
-    0 => 'Change your life today. Don\'t gamble on the future, act now, without delay.',
-    1 => 'Simone de Beauvoir',
-  ),
-  5 => 
-  array (
-    0 => 'I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.',
-    1 => 'John D. Rockefeller',
-  ),
-  6 => 
-  array (
-    0 => 'Success and failure are both part of life. Both are not permanent.',
-    1 => 'Shah Rukh Khan',
-  ),
-  7 => 
-  array (
-    0 => 'Good, better, best. Never let it rest. Until your good is better and your better is best.',
-    1 => 'Tim Duncan',
-  ),
-  8 => 
-  array (
-    0 => 'Surround yourself with the best people you can find, delegate authority, and don\'t interfere.',
-    1 => 'Ronald Reagan',
-  ),
-  9 => 
-  array (
-    0 => 'He who knows, does not speak. He who speaks, does not know.',
-    1 => 'Tao Tzu',
-  ),
-  10 => 
-  array (
-    0 => 'Just give Alice some pencils and she will stay busy for hours.',
-    1 => 'B. Kliban',
-  ),
-  11 => 
-  array (
-    0 => 'Striving for success without hard work is like trying to harvest where you haven\'t planted.',
-    1 => 'David Bly',
-  ),
-  12 => 
-  array (
-    0 => 'We\'ve had great successes, but our future is not about our past success. It\'s going to be about whether we will invent things that are really going to drive our future.',
-    1 => 'Satya Nadella',
-  ),
-  13 => 
-  array (
-    0 => 'Politics is perhaps the only profession for which no preparation is thought necessary.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  14 => 
-  array (
-    0 => 'The first principle of success is desire - knowing what you want. Desire is the planting of your seed.',
-    1 => 'Robert Collier',
-  ),
-  15 => 
-  array (
-    0 => 'Technology is a useful servant but a dangerous master.',
-    1 => 'Christian Lous Lange',
-  ),
-  16 => 
-  array (
-    0 => 'If you want to make a permanent change, stop focusing on the size of your problems and start focusing on the size of you!',
-    1 => 'T. Harv Eker',
-  ),
-  17 => 
-  array (
-    0 => 'True religion is real living; living with all one\'s soul, with all one\'s goodness and righteousness.',
-    1 => 'Albert Einstein',
-  ),
-  18 => 
-  array (
-    0 => 'The best leaders are the most dedicated learners. Read great books daily.',
-    1 => 'Robin Sharma',
-  ),
-  19 => 
-  array (
-    0 => 'A physicist is an atom\'s way of knowing about atoms.',
-    1 => 'George Wald',
-  ),
-  20 => 
-  array (
-    0 => 'He that has patience may compass anything.',
-    1 => 'François Duc De La Rochefoucauld',
-  ),
-  21 => 
-  array (
-    0 => 'If you tell the truth, you don\'t have to remember anything',
-    1 => 'Mark Twain',
-  ),
-  22 => 
-  array (
-    0 => 'The best day of your life is the one on which you decide your life is your own. No apologies or excuses. No one to lean on, rely on, or blame. The gift of life is yours; it is an amazing journey; and you alone are responsible for the quality of it.',
-    1 => 'Dan Zadra',
-  ),
-  23 => 
-  array (
-    0 => 'You need to overcome the tug of people against you as you reach for high goals.',
-    1 => 'George S. Patton',
-  ),
-  24 => 
-  array (
-    0 => 'The word "spine" is, of course, an anagram of "penis". This is true in almost fifty percent of the languages of the Galaxy, and many people have attempted to explain why. Usually these explanations get bogged down in silly puns about "standing erect".',
-    1 => 'Douglas Adams, "The Hitchhiker\'s Guide to the Galaxy"',
-  ),
-);
+return [
+    [
+        '\'In Search of Excellence\' - even the title - is a reminder that business isn\'t dry, dreary, boring, or by the numbers. Life at work can be cool - and work that\'s cool isn\'t confined to Tiger Woods, Yo-Yo Ma, or Tom Hanks. It\'s available to all of us and any of us.',
+        'Tom Peters',
+    ],
+    [
+        'We believe in working hard and having fun at the same time. It\'s a way of life for me, and I feel tremendous.',
+        'Robert Stigwood',
+    ],
+    [
+        'Both of our children are adopted, and my wife and I didn\'t go out of ways to find kids that looked like us. We were just happy to have some kids. And people tell me all the time that they look like us, and that\'s because they learn to smile and laugh and move their head a certain way from studying their parents\' faces.',
+        'John Wells',
+    ],
+    [
+        'I\'m not a DJ, I don\'t know how to scratch and I don\'t know how to mix, but I do know how to party. One of my jobs is actually to travel the world and party.',
+        'Amber Rose',
+    ],
+    [
+        'When I was in my 20s it did occur to me that there was something perverted about an attitude that thought that killing somebody was a minor offence compared to kissing somebody.',
+        'John McGahern',
+    ],
+    [
+        'It\'s very important to take risks. I think that research is very important, but in the end you have to work from your instinct and feeling and take those risks and be fearless. When I hear a company is being run by a team, my heart sinks, because you need to have that leader with a vision and heart that can move things forward.',
+        'Anna Wintour',
+    ],
+    [
+        'Power means happiness; power means hard work and sacrifice.',
+        'Beyonce Knowles',
+    ],
+    [
+        'Time, whose tooth gnaws away everything else, is powerless against truth.',
+        'Thomas Huxley',
+    ],
+    [
+        'No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other\'s worth.',
+        'Robert Southey',
+    ],
+    [
+        'The most important criterion is this: hire someone whose character and humility and attitude you would like to have reproduced in your church and in yourself.',
+        'John Ortberg',
+    ],
+    [
+        'Why is it so painful to watch a person sink? Because there is something unnatural in it, for nature demands personal progress, evolution, and every backward step means wasted energy.',
+        'August Strindberg',
+    ],
+    [
+        'In the long run, I believe that honesty is definitely the best policy. One can get away by being dishonest for a short term, but ultimately, honesty is what pays.',
+        'Kapil Dev',
+    ],
+    [
+        'Many friends of mine told me that normally only guys like a kung fu movie and the girls would be turned off - they want to see a love story. But Ip Man is a family man, so the women see this and go: \'I want my husband to be like this man. He\'ll be a scholar, he\'ll be fighting, he\'ll care for the family.\' So we had a bigger audience.',
+        'Donnie Yen',
+    ],
+    [
+        'I\'m terrified of bugs and I travel with sprays, lotions, potions; the lot. I have to check the room before I go to sleep and if I come across a bug and fail to remove it I have to sleep in a separate room as I\'m paranoid that I\'ll be taken advantage of as I sleep.',
+        'Freema Agyeman',
+    ],
+    [
+        'When you do not know what you are doing and what you are doing is the best - that is inspiration.',
+        'Robert Bresson',
+    ],
+    [
+        'There\'s a time in your life where you\'re not quite sure where you are. You think everything\'s perfect, but it\'s not perfect... Then one day you wake up and you can\'t quite picture yourself in the situation you\'re in. But the secret is, if you can picture yourself doing anything in life, you can do it.',
+        'Tom DeLonge',
+    ],
+    [
+        'Moments of complete apathy are the best for new creations.',
+        'Philip Breedveld',
+    ],
+    [
+        'Ever since I was four years old, I loved making people smile, making them think, making them feel good, feel some kind of emotion.',
+        'Ann-Margret',
+    ],
+    [
+        'I haven\'t gotten a lot of feedback about, \'Oh, you helped me in this way.\' But on social media, people are like, \'Thank you for your positive posts,\' or \'It\'s fun to see you grow and your character. I feel like I\'m growing with you.\'',
+        'Taylour Paige',
+    ],
+    [
+        'It\'s good to test yourself and develop your talents and ambitions as fully as you can and achieve greater success; but I think success is the feeling you get from a job well done, and the key thing is to do the work.',
+        'Peter Thiel',
+    ],
+    [
+        'Even in modern art, artists have used methods based on calculation, inasmuch as these elements, alongside those of a more personal and emotional nature, give balance and harmony to any work of art.',
+        'Max Bill',
+    ],
+    [
+        'I don\'t like to leave anything unfinished on my desk before I travel.',
+        'Vijay Mallya',
+    ],
+    [
+        'Your best teacher is your last mistake.',
+        'Ralph Nader',
+    ],
+    [
+        'Weve got to have a dream if we are going to make a dream come true.',
+        'Walt Disney',
+    ],
+    [
+        'Allow the world to live as it chooses, and allow yourself to live as you choose.',
+        'Richard Bach',
+    ],
+];

@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'An empowered organisation is one in which individuals have the knowledge, skill, desire, and opportunity to personally succeed in a way that leads to collective organisational success.',
-    1 => 'Stephen Covey',
-  ),
-  1 => 
-  array (
-    0 => 'Time is a created thing. To say \'I don\'t have time,\' is like saying, \'I don\'t want to\'.',
-    1 => 'Lao Tzu',
-  ),
-  2 => 
-  array (
-    0 => 'Trust yourself. Create the kind of self that you will be happy to live with all your life. Make the most of yourself by fanning the tiny, inner sparks of possibility into flames of achievement.',
-    1 => 'Golda Meir',
-  ),
-  3 => 
-  array (
-    0 => 'Don\'t walk in front of me; I may not follow. Don\'t walk behind me; I may not lead. Just walk beside me and be my friend.',
-    1 => 'Albert Camus',
-  ),
-  4 => 
-  array (
-    0 => 'One man cannot practice many arts with success.',
-    1 => 'Plato',
-  ),
-  5 => 
-  array (
-    0 => 'Follow your bliss and the universe will open doors where there were only walls.',
-    1 => 'Joseph Campbell',
-  ),
-  6 => 
-  array (
-    0 => 'Prevalent beliefs that knowledge can be tapped from previous incarnations or from a "universal mind" (the repository of all past wisdom and creativity) not only are implausible but also unfairly demean the stunning achievements of individual human brains.',
-    1 => 'Barry L. Beyerstein, "The Brain and Consciousness: Implications for Psi Phenomena", The Skeptical Inquirer, Vol. XII No. 2, ppg. 163-171',
-  ),
-  7 => 
-  array (
-    0 => 'Progress might have been all right once, but it has gone on too long.',
-    1 => 'Ogden Nash',
-  ),
-  8 => 
-  array (
-    0 => 'When you have a bad day, a really bad day, try and treat the world better than it treated you.',
-    1 => 'Patrick Stump',
-  ),
-  9 => 
-  array (
-    0 => 'The most unambiguous sign that a person holds men in low esteem is this: That he either acknowledges them merely as means to his ends or does not acknowledge them at all.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  10 => 
-  array (
-    0 => 'Do what you feel in your heart to be right, for you\'ll be criticized anyway.',
-    1 => 'Eleanor Roosevelt.',
-  ),
-  11 => 
-  array (
-    0 => 'Please don\'t lie to me, unless you\'re absolutely sure I\'ll never find out the truth.',
-    1 => 'Ashleigh Brilliant',
-  ),
-  12 => 
-  array (
-    0 => 'After all these years, I am still involved in the process of self-discovery. It\'s better to explore life and make mistakes than to play it safe. Mistakes are part of the dues one pays for a full life.',
-    1 => 'Sophia Loren',
-  ),
-  13 => 
-  array (
-    0 => 'To all those who walk the path of human cooperation war must appear loathsome and inhuman.',
-    1 => 'Alfred Adler',
-  ),
-  14 => 
-  array (
-    0 => 'Sin is a dangerous toy in the hands of the virtuous. It should be left to the congenitally sinful, who know when to play with it and when to let it alone.',
-    1 => 'H. L. Mencken',
-  ),
-  15 => 
-  array (
-    0 => 'Compassion is not sentiment but is making justice and doing works of mercy. Compassion is not a moral commandment but a flow and overflow of the fullest human and divine energies.',
-    1 => 'Matthew Fox',
-  ),
-  16 => 
-  array (
-    0 => 'Have the guts to be true to yourself.',
-    1 => 'Robin Sharma',
-  ),
-  17 => 
-  array (
-    0 => 'The secret to success is good leadership, and good leadership is all about making the lives of your team members or workers better.',
-    1 => 'Tony Dungy',
-  ),
-  18 => 
-  array (
-    0 => 'Crowded classrooms and half-day sessions are a tragic waste of our greatest national resource - the minds of our children.',
-    1 => 'Walt Disney',
-  ),
-  19 => 
-  array (
-    0 => 'Ah, music,” he said wiping his eyes. “A magic beyond all we do here.',
-    1 => 'The Sorcerer\'s Stone',
-  ),
-  20 => 
-  array (
-    0 => 'The only person you are destined to become is the person you decide to be.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  21 => 
-  array (
-    0 => 'Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.',
-    1 => 'Henry Wadsworth Longfellow',
-  ),
-  22 => 
-  array (
-    0 => 'The quality of a person\'s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor.',
-    1 => 'Vincent "Vince" Lombardi',
-  ),
-  23 => 
-  array (
-    0 => 'You know you are on the road to success if you would do your job, and not be paid for it.',
-    1 => 'Oprah Winfrey',
-  ),
-  24 => 
-  array (
-    0 => 'Great changes may not happen right away, but with effort even the difficult may become easy.',
-    1 => 'Bill Blackman',
-  ),
-);
+return [
+    [
+        'Silence is the last thing the world will ever hear from me.',
+        'Marlee Matlin',
+    ],
+    [
+        '\'Thank you\' is the best prayer that anyone could say. I say that one a lot. Thank you expresses extreme gratitude, humility, understanding.',
+        'Alice Walker',
+    ],
+    [
+        'Some people say funny things, but I say things funny.',
+        'Don Rickles',
+    ],
+    [
+        'I grew up in a family in which political issues were often discussed, and debated intensely.',
+        'Joseph Stiglitz',
+    ],
+    [
+        'I need that aggressive attitude to play my music and more men have that attitude than women.',
+        'Lita Ford',
+    ],
+    [
+        'Family are the people that can hurt you the most.',
+        'Mahershala Ali',
+    ],
+    [
+        'A two-year-old is kind of like having a blender, but you don\'t have a top for it.',
+        'Jerry Seinfeld',
+    ],
+    [
+        'The consumer is deciding what they want to see and when and how, and filmmakers are more aware and accepting of the fact that success is not predicated on your movie showing in a traditional theater for a certain amount of time.',
+        'Ava DuVernay',
+    ],
+    [
+        'I am a gentleman. My natural inclination is to be on my best behavior.',
+        'Joe Wilson',
+    ],
+    [
+        'The greatest humiliation in life, is to work hard on something from which you expect great appreciation, and then fail to get it.',
+        'E. W. Howe',
+    ],
+    [
+        'If you\'re naturally kind, you attract a lot of people you don\'t like.',
+        'William Feather',
+    ],
+    [
+        'Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.',
+        'Bill Veeck',
+    ],
+    [
+        'In nature there are neither rewards nor punishments; there are consequences.',
+        'Robert Green Ingersoll',
+    ],
+    [
+        'The first time I got pregnant, I was a young girl - I was 17 years old. Although I knew right away that I wanted to keep my child, being a pregnant teen was an extremely scary experience for me. Luckily, my family and friends were very supportive and were there for me every step of the way.',
+        'Paula Garces',
+    ],
+    [
+        'If I were in the government, I would persuade the prime minister to see the beauty in the fact that people see Israel as a haven - from their sadness to their hope.',
+        'Elie Wiesel',
+    ],
+    [
+        'I want to build a legacy at the WWE, but I definitely want to continue to grow the Bella Empire. I want it to go beyond the ring. I would love to be a motivational speaker.',
+        'Nikki Bella',
+    ],
+    [
+        'What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.',
+        'Saint Augustine',
+    ],
+    [
+        'Beauty, like ice, our footing does betray; Who can tread sure on the smooth, slippery way: Pleased with the surface, we glide swiftly on, And see the dangers that we cannot shun.',
+        'John Dryden',
+    ],
+    [
+        'Almost no one is foolish enough to imagine that he automatically deserves great success in any field of activity; yet almost everyone believes that he automatically deserves success in marriage.',
+        'Sydney J. Harris',
+    ],
+    [
+        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
+        'Roger Andrew Taylor',
+    ],
+    [
+        'Suffering by nature or chance never seems so painful as suffering inflicted on us by the arbitrary will of another.',
+        'Arthur Schopenhauer',
+    ],
+    [
+        'I think that giving mindless praise is ridiculous. But I understand why parents do it. They want their kids to feel good about themselves. But parents are never going to teach their children true, positive self esteem by praising everything they do.',
+        'Rosalind Wiseman',
+    ],
+    [
+        'I have moments where I feel incredibly ugly or fat, and it sucks, you know? I\'ll usually try to keep a positive attitude because I\'m really so grateful for where I am and the life I get to live, but I definitely have to work hard not to feel insecure.',
+        'Charlotte McKinney',
+    ],
+    [
+        'As for our majority... one is enough.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'No matter how much success you\'re having, you can\'t continue working together if you can\'t communicate.',
+        'Matt Cameron',
+    ],
+];

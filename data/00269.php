@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Let no act be done without a purpose, nor otherwise than according to the perfect principles of art.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IV',
-  ),
-  1 => 
-  array (
-    0 => 'Justice, like lightning, should ever appear To some men hope, to other men fear.',
-    1 => 'Jefferson Pierce',
-  ),
-  2 => 
-  array (
-    0 => 'Dream, Dream Dream...
-Dreams transform into thoughts And thoughts result in action.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  3 => 
-  array (
-    0 => 'Than self restraint, there is nothing better.',
-    1 => 'Lao Tzu',
-  ),
-  4 => 
-  array (
-    0 => 'Do not go where the path may lead, go instead where there is no path and leave a trail.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  5 => 
-  array (
-    0 => 'Peace is not something you wish for; It\'s something you make, Something you do, Something you are, And something you give away.',
-    1 => 'Robert Fulghum',
-  ),
-  6 => 
-  array (
-    0 => 'Your personal life, your professional life, and your creative life are all intertwined. I went through a few very difficult years where I felt like a failure. But it was actually really important for me to go through that. Struggle, for me, is the most inspirational thing in the world at the end of the day - as long as you treat it that way.',
-    1 => 'Skylar Grey',
-  ),
-  7 => 
-  array (
-    0 => 'MacDonald has the gift on compressing the largest amount of words into the smallest amount of thoughts.',
-    1 => 'Winston Churchill',
-  ),
-  8 => 
-  array (
-    0 => 'My mind\'s my kingdom.',
-    1 => 'Francis Quarles',
-  ),
-  9 => 
-  array (
-    0 => 'California is the land of perpetual pubescence, where cultural lag is mistaken for renaissance.',
-    1 => 'Ashley Montagu',
-  ),
-  10 => 
-  array (
-    0 => 'He understood well enough how a man with a choice between pride and responsibility will almost always choose pride—if responsibility robs him of his manhood.',
-    1 => 'Stephen King',
-  ),
-  11 => 
-  array (
-    0 => 'If A equals success, then the formula is: A = X + Y + Z.
-X is work. Y is play. Z is keep your mouth shut.',
-    1 => 'Albert Einstein',
-  ),
-  12 => 
-  array (
-    0 => 'In the middle of difficulty lies opportunity.',
-    1 => 'Albert Einstein',
-  ),
-  13 => 
-  array (
-    0 => 'An essential part of a happy, healthy life is being of service to others.',
-    1 => 'Susan Patton Thoele',
-  ),
-  14 => 
-  array (
-    0 => 'The superior man makes the difficulty to be overcome his first interest; success only comes later.',
-    1 => 'Confucius',
-  ),
-  15 => 
-  array (
-    0 => 'The difference between try and triumph is a little umph.',
-    1 => 'Marvin Phillips (or an unknown author)',
-  ),
-  16 => 
-  array (
-    0 => 'An honest man nearly always thinks justly.',
-    1 => 'Jean-Jacques Rousseau',
-  ),
-  17 => 
-  array (
-    0 => 'Who controls the past controls the future. Who controls the present controls the past.',
-    1 => 'George Orwell',
-  ),
-  18 => 
-  array (
-    0 => 'It\'s inspirational to see someone who is dying smile.',
-    1 => 'Arlen Specter',
-  ),
-  19 => 
-  array (
-    0 => 'When you live on a round planet, there\'s no choosing sides.',
-    1 => 'Wayne Dyer',
-  ),
-  20 => 
-  array (
-    0 => 'Whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon... must inevitably come to pass!',
-    1 => 'Paul J. Meyer',
-  ),
-  21 => 
-  array (
-    0 => 'Tact is the art of building a fire under people without making their blood boil.',
-    1 => 'Franklin P. Jones',
-  ),
-  22 => 
-  array (
-    0 => 'Our brains have just one scale, and we resize our experiences to fit.',
-    1 => 'Randall Munroe, xkcd',
-  ),
-  23 => 
-  array (
-    0 => 'I had a great idea this morning but I did not like it.',
-    1 => 'Anon',
-  ),
-  24 => 
-  array (
-    0 => 'An empty stomach is not a good political adviser.',
-    1 => 'Albert Einstein',
-  ),
-);
+return [
+    [
+        'I never understand when people say, \'Do you do comedy or tragedy?\' I don\'t think they\'re very much different. They both have to be true, and there isn\'t a great play in the world that doesn\'t have funny parts to it - as \'Salesman\' does, as \'King Lear\' does. The whole idea is to reflect life in some way, which means surely you have to have both.',
+        'Mike Nichols',
+    ],
+    [
+        'Hope arouses, as nothing else can arouse, a passion for the possible.',
+        'William Sloane Coffin',
+    ],
+    [
+        'At first, I found the music I was making really hard to find a home for. I felt like my attitude was really British, but not the actual sounds I was making. Back in 2003, when I made \'Galang,\' there were no clubs that had an \'anything and everything\' attitude.',
+        'M.I.A.',
+    ],
+    [
+        'I try to look cute all the time.',
+        'Sloane Stephens',
+    ],
+    [
+        'Beauty awakens the soul to act.',
+        'Dante Alighieri',
+    ],
+    [
+        'Failure is a bruise, not a tattoo.',
+        'Jon Sinclair',
+    ],
+    [
+        'From a small seed a mighty trunk may grow.',
+        'Aeschylus',
+    ],
+    [
+        'I am a positive person. I never think of the glass as half empty. I just keep pushing forward.',
+        'Rosie Perez',
+    ],
+    [
+        'When I was 11, I had an Ugly Sister birthday party. All my idea. Most girls want to be a fairy or a princess, but there I am with beauty spots and fur and fluorescent pink kiss-curls.',
+        'Lucy Punch',
+    ],
+    [
+        'I don\'t dwell on success. Maybe that\'s one reason I\'m successful.',
+        'Calvin Klein',
+    ],
+    [
+        'I hated every minute of training, but I said, \'Don\'t quit. Suffer now and live the rest of your life as a champion.\'',
+        'Muhammad Ali',
+    ],
+    [
+        'I love beauty. But I like the beauty accidentally, not dished up, served up on a platter.',
+        'Wole Soyinka',
+    ],
+    [
+        'I\'m not a person who writes really abstract things with oblique references. I look at abstraction like I look at condiments. Give me some Tabasco sauce, some ketchup, some mayonnaise. I love all of that. Put it on a trumpet. I\'ve just got to have the ketchup and Tabasco sauce. That\'s my attitude about musical philosophy.',
+        'Wynton Marsalis',
+    ],
+    [
+        'I love the beach. I love the sea. All my life I live within - in front of the sea.',
+        'David L. Wolper',
+    ],
+    [
+        'He who knows best knows how little he knows.',
+        'Thomas Jefferson',
+    ],
+    [
+        '\'Sunrise Sunset\' is about trying to get to a place where life is simple and not letting the stress and happenings in the world get in the way of your happiness.',
+        'Tiffany Trump',
+    ],
+    [
+        'The Black Panther Party stood up and said that we don\'t care what anybody says. We don\'t think fighting fire with fire is best; we think you fight fire with water best.',
+        'Fred Hampton',
+    ],
+    [
+        'I think, aesthetically, car design is so interesting - the dashboards, the steering wheels, and the beauty of the mechanics. I don\'t know how any of it works, I don\'t want to know, but it\'s inspirational.',
+        'Paloma Picasso',
+    ],
+    [
+        'Overcoming fear is the first step to success for entrepreneurs. The winners all exemplify that, and the hard work and commitment they have shown underlines what is needed to set up a business.',
+        'Richard Branson',
+    ],
+    [
+        'Beauty is everlasting And dust is for a time.',
+        'Marianne Moore',
+    ],
+    [
+        'I\'m allergic to attitude.',
+        'Megan Boone',
+    ],
+    [
+        'A man has to learn that he cannot command things, but that he can command himself; that he cannot coerce the wills of others, but that he can mold and master his own will: and things serve him who serves Truth; people seek guidance of him who is master of himself.',
+        'James Allen',
+    ],
+    [
+        'I would love a family. I\'m at the age where the wish for a child gets stronger. But who knows.',
+        'Cameron Diaz',
+    ],
+    [
+        'Success consecrates the most offensive crimes.',
+        'Lucius Annaeus Seneca',
+    ],
+    [
+        'Research indicates that employees have three prime needs: Interesting work, recognition for doing a good job, and being let in on things that are going on in the company.',
+        'Zig Ziglar',
+    ],
+];

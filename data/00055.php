@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'My message, especially to young people is to have courage to think differently, courage to invent, to travel the unexplored path, courage to discover the impossible and to conquer the problems and succeed. These are great qualities that they must work towards. This is my message to the young people.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  1 => 
-  array (
-    0 => 'Perfection is finally attained not when there is no longer anything to add but when there is no longer anything to take away, when a body has been stripped down to its nakedness.',
-    1 => 'Antoine de Saint-Exupery',
-  ),
-  2 => 
-  array (
-    0 => 'Every time I plant a seed, He say kill it before it grow, he say kill it before they grow.',
-    1 => 'Bob Marley',
-  ),
-  3 => 
-  array (
-    0 => 'It does not do to dwell on dreams and forget to live.',
-    1 => 'The Sorcerer\'s Stone',
-  ),
-  4 => 
-  array (
-    0 => 'Of all things visible, the highest is the heaven of the fixed stars.',
-    1 => 'Nicolaus Copernicus',
-  ),
-  5 => 
-  array (
-    0 => 'Derive happiness in oneself from a good day\'s work, from illuminating the fog that surrounds us.',
-    1 => 'Henri Matisse',
-  ),
-  6 => 
-  array (
-    0 => 'Discipline is the bridge between goals and accomplishment.',
-    1 => 'Jim Rohn',
-  ),
-  7 => 
-  array (
-    0 => 'Nobody is bored when he is trying to make something that is beautiful, or to discover something that is true.',
-    1 => 'William Inge',
-  ),
-  8 => 
-  array (
-    0 => 'And the Grinch, with his Grinch-feet ice cold in the snow, stood puzzling and puzzling, how could it be so? It came without ribbons. It came without tags. It came without packages, boxes or bags. And he puzzled and puzzled \'till his puzzler was sore. Then the Grinch thought of something he hadn\'t before. What if Christmas, he thought, doesn\'t come from a store. What if Christmas, perhaps, means a little bit more.',
-    1 => 'Theodor Seuss Geisel',
-  ),
-  9 => 
-  array (
-    0 => 'The right thing to do never requires any subterfuge; it is always simple and direct.',
-    1 => 'Calvin Coolidge',
-  ),
-  10 => 
-  array (
-    0 => 'You deserve more in your life. Think big. Love more and share beyond your limits. You will then become limitless.',
-    1 => 'Steven Cuoco',
-  ),
-  11 => 
-  array (
-    0 => 'If you are the greatest, why would you go around talking about it?',
-    1 => 'Joe Rogan',
-  ),
-  12 => 
-  array (
-    0 => 'I sort of understood that when I first started: that you shouldn\'t repeat a success. Very often you\'re going to, and maybe the first time you do, it works. And you love it. But then you\'re trapped.',
-    1 => 'Jack Nicholson',
-  ),
-  13 => 
-  array (
-    0 => 'Work joyfully and peacefully, knowing that right thoughts and right efforts will inevitably bring about right results.',
-    1 => 'James Allen',
-  ),
-  14 => 
-  array (
-    0 => 'Remember: You cannot drain the ocean with a teaspoon.',
-    1 => 'Ignas Bernstein',
-  ),
-  15 => 
-  array (
-    0 => 'A man\'s character is his fate.',
-    1 => 'Heraclitus',
-  ),
-  16 => 
-  array (
-    0 => 'Hope, deceitful though it be, is at least of this good use to us that while we are traveling through this life, it conducts us by an easier and more pleasant way to our journey\'s end.',
-    1 => 'François Duc De La Rochefoucauld',
-  ),
-  17 => 
-  array (
-    0 => 'The invariable mark of wisdom is to see the miraculous in the common.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  18 => 
-  array (
-    0 => 'This is the first test of a gentleman: his respect for those who can be of no possible value to him.',
-    1 => 'William Lyon Phelps',
-  ),
-  19 => 
-  array (
-    0 => 'I love living in the future.',
-    1 => 'Bill Cheswick',
-  ),
-  20 => 
-  array (
-    0 => 'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
-    1 => 'John Wayne',
-  ),
-  21 => 
-  array (
-    0 => 'Home is not where, it is whom.',
-    1 => 'Christianne Dettmann',
-  ),
-  22 => 
-  array (
-    0 => 'The minute you settle for less than you deserve, you get even less than you settled for.',
-    1 => 'Maureen Dowd',
-  ),
-  23 => 
-  array (
-    0 => 'All that is valuable in human society depends upon the opportunity for development accorded the individual.',
-    1 => 'Albert Einstein',
-  ),
-  24 => 
-  array (
-    0 => 'I\'ll tell you what kind of guy I was. If you ordered a boxcar full of sons-of-bitches and opened the door and only found me inside, you could consider the order filled.',
-    1 => 'Robert Mitchum',
-  ),
-);
+return [
+    [
+        'Give whatever you are doing and whoever you are with the gift of your attention.',
+        'Jim Rohn',
+    ],
+    [
+        'I am really close to my family. My cousin is my best friend!',
+        'Daniella Monet',
+    ],
+    [
+        'The greatest good you can do for another is not just share your riches, but reveal to them their own.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'I also had a mistaken attitude towards certain comrades.',
+        'Bela Kun',
+    ],
+    [
+        'Stubborn and ardent clinging to one\'s opinion is the best proof of stupidity.',
+        'Michel de Montaigne',
+    ],
+    [
+        'There comes a point in your life when you realize how quickly time goes by, and how quickly it has gone. Then it really speeds up exponentially. With that, I think you start to put a lot of things into context; you start to see how huge the world is, and really, the universe.',
+        'Michael Keaton',
+    ],
+    [
+        'Character is the ability of a person to see a positive end of things. This is the hope that a man of character has.',
+        'Tom Landry',
+    ],
+    [
+        'As we begin to have landings on the moon, we can alternate those with vertical launch of similar crew modules on similar launch vehicles for vertical-launch tourism in space, if you want to call it that... adventure travel.',
+        'Buzz Aldrin',
+    ],
+    [
+        'I don\'t like to see projects that are all black or all white. It\'s how life is. I do like to make sure that I do a nice black family film; that\'s like keeping my home base. I do other things, but I like to always come back to a positive family film, because of all the negative influences today.',
+        'Vivica A. Fox',
+    ],
+    [
+        'Music is probably the only real magic I have encountered in my life. There\'s not some trick involved with it. It\'s pure and it\'s real. It moves, it heals, it communicates and does all these incredible things.',
+        'Thomas Jefferson',
+    ],
+    [
+        'The time I had waited probably made the difference between success and failure.',
+        'Anna Neagle',
+    ],
+    [
+        'An optimist is a fellow who believes a housefly is looking for a way to get out.',
+        'George Jean Nathan',
+    ],
+    [
+        'Always tell the truth. That way, you don\'t have to remember what you said.',
+        'Mark Twain',
+    ],
+    [
+        'Ocean is more ancient than the mountains, and freighted with the memories and the dreams of Time.',
+        'H. P. Lovecraft',
+    ],
+    [
+        'The genius of the United States is not best or most in its executives or legislatures, nor in its ambassadors or authors or colleges, or churches, or parlors, nor even in its newspapers or inventors, but always most in the common people.',
+        'Walt Whitman',
+    ],
+    [
+        'Don\'t be afraid in nature: one must be bold, at the risk of having been deceived and making mistakes.',
+        'Camille Pissarro',
+    ],
+    [
+        'Wake up. Kick ass. Repeat.',
+        'Anonymous',
+    ],
+    [
+        'The exercise of an extraordinary gift is the supremest pleasure in life.',
+        'Mark Twain',
+    ],
+    [
+        'My job is to make sure that if you\'re a family in Florida, your children can get a good education and you have the opportunity for a job. That\'s my job and that\'s what I think about every day.',
+        'Rick Scott',
+    ],
+    [
+        'No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none.',
+        'Henry Kissinger',
+    ],
+    [
+        'Your best creative assets do not occur unless you do a mental shift. You have to be in a positive frame of mind because inspiration is fleeting. I walk to work for inspiration and to clear my mind.',
+        'Ron Ben-Israel',
+    ],
+    [
+        'The best books... are those that tell you what you know already.',
+        'George Orwell',
+    ],
+    [
+        'To be beautiful means to be yourself. You don\'t need to be accepted by others. You need to accept yourself.',
+        'Thich Nhat Hanh',
+    ],
+    [
+        'Being effective at social media, whether for business or personal use, means capturing people who have short attention spans. They\'re only a click away from a picture of a funny cat, so you have to make your thing more compelling than that cat. And that can be a high bar.',
+        'Alexis Ohanian',
+    ],
+    [
+        'Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.',
+        'Epictetus',
+    ],
+];

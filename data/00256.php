@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The robbed that smiles steals something from the thief.',
-    1 => 'William Shakespeare',
-  ),
-  1 => 
-  array (
-    0 => 'The secret of your success is determined by your daily agenda.',
-    1 => 'John C. Maxwell',
-  ),
-  2 => 
-  array (
-    0 => 'What would life be if we had no courage to attempt anything?',
-    1 => 'Vincent Van Gogh',
-  ),
-  3 => 
-  array (
-    0 => 'You were born into fearlessness, but the world may have taught you to fear.',
-    1 => 'Robin Sharma',
-  ),
-  4 => 
-  array (
-    0 => 'What great thing would you attempt if you knew you could not fail?',
-    1 => 'Robert H. Schuller',
-  ),
-  5 => 
-  array (
-    0 => 'One may be old in years, but not in spirit, or poor in wealth, but not in ambition.',
-    1 => 'Chinese Proverb',
-  ),
-  6 => 
-  array (
-    0 => 'See, in my line of work you got to keep repeating things over and over and over again for the truth to sink in, to kind of catapult the propaganda.',
-    1 => 'George W. Bush; Greece, New York; May 24, 2005',
-  ),
-  7 => 
-  array (
-    0 => 'Honesty is the most single most important factor having a direct bearing on the final success of an individual, corporation, or product.',
-    1 => 'Ed McMahon',
-  ),
-  8 => 
-  array (
-    0 => 'Who works achieves and who sows reaps.',
-    1 => 'Arab Proverb',
-  ),
-  9 => 
-  array (
-    0 => 'Money matters, but less than we think and not in the way we think. Family is important. So are friends. Envy is toxic. So is excessive thinking. Beaches are optional. Trust is not. Neither is gratitude.',
-    1 => 'Eric Weiner',
-  ),
-  10 => 
-  array (
-    0 => 'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.',
-    1 => 'Earl Nightingale',
-  ),
-  11 => 
-  array (
-    0 => 'Don\'t Let Yesterday Take Up Too Much Of Today.',
-    1 => 'Will Rogers',
-  ),
-  12 => 
-  array (
-    0 => 'Well, the telling of jokes is an art of its own, and it always rises from some emotional threat. The best jokes are dangerous, and dangerous because they are in some way truthful.',
-    1 => 'Kurt Vonnegut',
-  ),
-  13 => 
-  array (
-    0 => 'So we shall let the reader answer this question for himself: who is the happier man, he who has braved the storm of life and lived or he who has stayed securely on shore and merely existed?',
-    1 => 'Hunter S. Thompson',
-  ),
-  14 => 
-  array (
-    0 => 'Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.',
-    1 => 'Mark Twain',
-  ),
-  15 => 
-  array (
-    0 => 'If you judge people, you have no time to love them.',
-    1 => 'Mother Teresa',
-  ),
-  16 => 
-  array (
-    0 => 'Be yourself; everyone else is already taken.',
-    1 => 'Oscar Wilde',
-  ),
-  17 => 
-  array (
-    0 => 'Strength and growth come only from continuous effort and struggle.',
-    1 => 'Napolean Hill',
-  ),
-  18 => 
-  array (
-    0 => 'Nothing succeeds like the appearance of success.',
-    1 => 'Christopher Lasch',
-  ),
-  19 => 
-  array (
-    0 => 'Well done is better than well said.',
-    1 => 'Benjamin Franklin',
-  ),
-  20 => 
-  array (
-    0 => 'Chance is always powerful. Let your hook be always cast in the pool where you least expect it; there will be a fish.',
-    1 => 'Ovid',
-  ),
-  21 => 
-  array (
-    0 => 'There is nothing in this world constant but inconstancy.',
-    1 => 'Swift',
-  ),
-  22 => 
-  array (
-    0 => 'If your dreams don\'t scare you, they are too small.',
-    1 => 'Richard Branson',
-  ),
-  23 => 
-  array (
-    0 => 'Find ecstasy in life; the mere sense of living is joy enough.',
-    1 => 'Emily Dickinson',
-  ),
-  24 => 
-  array (
-    0 => 'Idiot, n.:
-        A member of a large and powerful tribe whose influence in human affairs has always been dominant and controlling.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-);
+return [
+    [
+        'Good friends, good books and a sleepy conscience: this is the ideal life.',
+        'Muhammad Ali',
+    ],
+    [
+        'All seasons are beautiful for the person who carries happiness within.',
+        'Horace Friess',
+    ],
+    [
+        'My wife is the boss at home, and my daughters are the bosses. I am just the worker. We are a very warm family and very happy.',
+        'Jet Li',
+    ],
+    [
+        'Success is due to our stretching to the challenges of life. Failure comes when we shrink from them.',
+        'John C. Maxwell',
+    ],
+    [
+        'Beauty in distress is much the most affecting beauty.',
+        'Edmund Burke',
+    ],
+    [
+        'I am my own muse, the subject I know best.',
+        'Frida Kahlo',
+    ],
+    [
+        'I need to complete my homework on time.',
+        'Malala Yousafzai',
+    ],
+    [
+        'Inner beauty radiates from within, and there\'s nothing more beautiful than when a woman feels beautiful on the inside.',
+        'Erin Heatherton',
+    ],
+    [
+        'I was born January 6, 1937, eight years after Wall Street crashed and two years before John Steinbeck published The Grapes of Wrath, his Pulitzer Prize-winning novel about the plight of a family during the Great Depression.',
+        'Lou Holtz',
+    ],
+    [
+        'If we accept being talked to any kind of a way, then we are telling ourselves we are not quite worth the best. And if we have the effrontery to talk to anybody with less than courtesy, we tell ourselves and the world we are not very intelligent.',
+        'Maya Angelou',
+    ],
+    [
+        'I think true success is intrinsic... It\'s love. It\'s kindness. It\'s community.',
+        'Tom Shadyac',
+    ],
+    [
+        'If I went to them all dressed up and flashed a nice smile for the cameras it would probably be easier for me to get work. But I just can\'t tolerate it.',
+        'Charlie Hunnam',
+    ],
+    [
+        'You see some of these actors, they have a permanent smile on their face. How can they do that? It really fascinates me.',
+        'Agnes Bruckner',
+    ],
+    [
+        'Do what you love to do and give it your very best. Whether it\'s business or baseball, or the theater, or any field. If you don\'t love what you\'re doing and you can\'t give it your best, get out of it. Life is too short. You\'ll be an old man before you know it.',
+        'Melody Beattie',
+    ],
+    [
+        'Don\'t allow your wounds to turn you into a person you are not.',
+        'Paulo Coelho',
+    ],
+    [
+        'I grew up in a family that despised not only communism but collectivism, socialism, and any \'ism\' that deprived the individual of his or her natural rights.',
+        'Rand Paul',
+    ],
+    [
+        'If you\'re a good choice maker, you can choose the best emotional responses and choose the best new life paths, forward and upward.',
+        'Karen Salmansohn',
+    ],
+    [
+        'Every time you feel depressed about something, try to identify a corresponding negative thought you had just prior to and during the depression. Because these thoughts have actually created your bad mood, by learning to restructure them, you can change your mood.',
+        'David D. Burns',
+    ],
+    [
+        'The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.',
+        'Booker Washington',
+    ],
+    [
+        'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.',
+        'Lao Tzu',
+    ],
+    [
+        'There are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.',
+        'Henry David Thoreau',
+    ],
+    [
+        'Find a job you like and you add five days to every week.',
+        'H. Jackson Brown, Jr.',
+    ],
+    [
+        'At home in L.A., Sunday is lazy. It\'s the wife and me lying in bed with coffee, watching \'The Soup\' or something funny on TiVo. The kid will occasionally join us. Eventually, breakfast is at a place down the street called Paty\'s. And we always have some kind of great dinner - my wife makes a great roast beef.',
+        'Eric McCormack',
+    ],
+    [
+        'Truth is a thing immortal and perpetual, and it gives to us a beauty that fades not away in time.',
+        'Frank Norris',
+    ],
+    [
+        'All successful people men and women are big dreamers. They imagine what their future could be, ideal in every respect, and then they work every day toward their distant vision, that goal or purpose.',
+        'Brian Tracy',
+    ],
+];

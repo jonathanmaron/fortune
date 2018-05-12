@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Success isn\'t about the end result, it\'s about what you learn along the way.',
-    1 => 'Vera Wang',
-  ),
-  1 => 
-  array (
-    0 => 'What\'s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.',
-    1 => 'Bob Dylan',
-  ),
-  2 => 
-  array (
-    0 => 'There are all kinds of courage, it takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.',
-    1 => 'Dumbledore–The Philosopher\'s Stone',
-  ),
-  3 => 
-  array (
-    0 => 'There\'s nothing remarkable about it. All one has to do is hit the right keys at the right time and the instrument plays itself.',
-    1 => 'J. S. Bach',
-  ),
-  4 => 
-  array (
-    0 => 'We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort.',
-    1 => 'Jesse Owens',
-  ),
-  5 => 
-  array (
-    0 => 'Don\'t let the fear of losing be greater than the excitement of winning.',
-    1 => 'Robert Kiyosaki',
-  ),
-  6 => 
-  array (
-    0 => 'If you shoot a mime, should you use a silencer?',
-    1 => 'Steven Wright',
-  ),
-  7 => 
-  array (
-    0 => 'We can\'t help everyone, but everyone can help someone.',
-    1 => 'Ronald Reagan',
-  ),
-  8 => 
-  array (
-    0 => 'The one thing I think we learned this year is that the Democrats and the Republicans are completely worthless.',
-    1 => 'Lewis Black',
-  ),
-  9 => 
-  array (
-    0 => 'I pray God may preserve your health and life many years.',
-    1 => 'Junipero Serra',
-  ),
-  10 => 
-  array (
-    0 => 'Outstanding leaders go out of their way to boost the self-esteem of their personnel. If people believe in themselves, it\'s amazing what they can accomplish.',
-    1 => 'Sam Walton',
-  ),
-  11 => 
-  array (
-    0 => 'Your success and happiness lies in you. Resolve to keep happy, and your joy, and you shall form an invincible host against difficulties.',
-    1 => 'Helen Keller',
-  ),
-  12 => 
-  array (
-    0 => 'Blessed is the man who is too busy to worry in the daytime and too sleepy to worry at night.',
-    1 => 'Leo Aikman',
-  ),
-  13 => 
-  array (
-    0 => 'You never know that the things you\'re doing are that meaningful to society.',
-    1 => 'Jack Ma',
-  ),
-  14 => 
-  array (
-    0 => 'There is progress whether ye are going forward or backward! The thing is to move!',
-    1 => 'Edgar Cayce',
-  ),
-  15 => 
-  array (
-    0 => 'The best revenge is massive success.Frank Sinatra',
-    1 => 'Frank Sinatra',
-  ),
-  16 => 
-  array (
-    0 => 'The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.',
-    1 => 'George Bernard Shaw',
-  ),
-  17 => 
-  array (
-    0 => 'In the middle of difficulty lies opportunity.',
-    1 => 'Albert Einstein',
-  ),
-  18 => 
-  array (
-    0 => 'The greatest warriors are the ones who fight for peace.',
-    1 => 'Holly Near',
-  ),
-  19 => 
-  array (
-    0 => 'Success is dependent upon the glands - sweat glands.',
-    1 => 'Zig Ziglar',
-  ),
-  20 => 
-  array (
-    0 => 'But in the end I remind myself that people are merely shaved apes, and pretty much spend their time masturbating and throwing feces.',
-    1 => 'Rich Simons',
-  ),
-  21 => 
-  array (
-    0 => 'Success is counted sweetest by those who never succeed.',
-    1 => 'Emily Dickinson',
-  ),
-  22 => 
-  array (
-    0 => 'Sometimes, life is like this dark tunnel. You can\'t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.',
-    1 => 'Uncle Iroh',
-  ),
-  23 => 
-  array (
-    0 => 'Blood, Sweat and Respect. First Two You Give, Last One You Earn',
-    1 => 'Dwayne Johnson | The Rock',
-  ),
-  24 => 
-  array (
-    0 => 'Just because your tattoo has Chinese characters in it doesn\'t make you Spiritual. It\'s right above the crack of your butt. And it translates to "beef with broccoli." The last time you did anything spiritual, you were praying to God you weren\'t pregnant. You\'re not spiritual.',
-    1 => 'George Carlin',
-  ),
-);
+return [
+    [
+        'My denial and irresponsible attitude about asthma put me at great risk and caused me so much needless suffering. My hope is that the kids I talk to learn to open up about their asthma, become educated about their condition, and seek help.',
+        'Jackie Joyner-Kersee',
+    ],
+    [
+        'Don\'t worry if people don\'t like you. Most people are struggling to like themselves.',
+        'Unknown',
+    ],
+    [
+        'By making a comeback, I\'m changing the attitude of people toward me. If I\'d known that people would react so enthusiastically, I\'d have done it years ago.',
+        'Mark Spitz',
+    ],
+    [
+        'Life is either a daring adventure or nothing.',
+        'Helen Keller',
+    ],
+    [
+        'I\'ve been known to write 10 pages a day for 10 days running before I take a breath. I am not a disciplined writer. I\'m one of those people who laughingly call themselves inspirational writers, which basically means someone who has no control over their own creative process.',
+        'Catherine Ryan Hyde',
+    ],
+    [
+        'I find that the harder I work, the more luck I seem to have.',
+        'Thomas Jefferson',
+    ],
+    [
+        'I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.',
+        'Claude Monet',
+    ],
+    [
+        'Self-complacency is fatal to progress.',
+        'Margaret Sangster',
+    ],
+    [
+        'Whatever you do, do with determination. You have one life to live; do your work with passion and give your best. Whether you want to be a chef, doctor, actor, or a mother, be passionate to get the best result.',
+        'Alia Bhatt',
+    ],
+    [
+        'Stay away from what might have been and look at what will be.',
+        'Marsha Petrie Sue',
+    ],
+    [
+        'Why compare yourself with others? No one in the entire world can do a better job of being you than you.',
+        '',
+    ],
+    [
+        'No hours, nor amount of labor, nor amount of money would deter me from giving the best that there was in me.',
+        'Colonel Sanders',
+    ],
+    [
+        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
+        'Francis Chan',
+    ],
+    [
+        'I refuse to join any club that would have me as a member.',
+        'Groucho Marx',
+    ],
+    [
+        'Believe me, I do not like idleness but work.',
+        'Wolfgang Amadeus Mozart',
+    ],
+    [
+        'Every one has her own love life. Every one has a dream to get a perfect life partner. But this is not so easy in real life. In fact, one doesn\'t love; it happens.',
+        'Ariana Grande',
+    ],
+    [
+        'The present time has one advantage over every other - it is our own.',
+        'Charles Caleb Colton',
+    ],
+    [
+        'I actually think that I\'m a rather optimistic and happy person; it\'s just that I\'m not a very positive person, if you see the difference.',
+        'Linus Torvalds',
+    ],
+    [
+        'There\'s really no secret to success. You make your own success.',
+        'Alex Morgan',
+    ],
+    [
+        'Life is a journey that must be traveled no matter how bad the roads and accommodations.',
+        'George S. Patton',
+    ],
+    [
+        'I envy the sensibility in Europe, appreciating beauty in women as they age. I\'m going to go that way. I might dye my gray hair for a bit, but beyond that the buck stops. I\'m not having any work done.',
+        'Rachel Bilson',
+    ],
+    [
+        'I allow my intuition to lead my path.',
+        'Manuel Puig',
+    ],
+    [
+        'I\'ve just got a really bad smile. I go for the scowl instead.',
+        'Jason Statham',
+    ],
+    [
+        'Let us live for the beauty of our own reality.',
+        'Charles Lamb',
+    ],
+    [
+        'I am convinced that material things can contribute a lot to making one\'s life pleasant, but, basically, if you do not have very good friends and relatives who matter to you, life will be really empty and sad and material things cease to be important.',
+        'Stephen Gardiner',
+    ],
+];

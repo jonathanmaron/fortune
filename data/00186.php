@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Post-operatively the transplanted kidney functioned immediately with a dramatic improvement in the patient\'s renal and cardiopulmonary status. This spectacular success was a clear demonstration that organ transplantation could be life-saving.',
-    1 => 'Joseph Murray',
-  ),
-  1 => 
-  array (
-    0 => 'Your daily behavior reveals your deepest beliefs.',
-    1 => 'Robin Sharma',
-  ),
-  2 => 
-  array (
-    0 => 'If you find it in your heart to care for somebody else, you will have succeeded.',
-    1 => 'Maya Angelou',
-  ),
-  3 => 
-  array (
-    0 => 'The road to success and the road to failure are almost exactly the same.',
-    1 => 'Colin R. Davis',
-  ),
-  4 => 
-  array (
-    0 => 'It is during our darkest moments that we must focus to see the light.',
-    1 => 'Aristotle Onassis',
-  ),
-  5 => 
-  array (
-    0 => 'Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.',
-    1 => 'Rumi',
-  ),
-  6 => 
-  array (
-    0 => 'There\'s only one corner of the universe you can be certain of improving, and that\'s your own self.',
-    1 => 'Aldous Huxley',
-  ),
-  7 => 
-  array (
-    0 => 'At bottom every man knows well enough that he is a unique being, only once on this earth; and by no extraordinary chance will such a marvelously picturesque piece of diversity in unity as he is, ever be put together a second time.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  8 => 
-  array (
-    0 => 'Success is not how high you have climbed, but how you make a positive difference to the world.',
-    1 => 'Roy T. Bennett',
-  ),
-  9 => 
-  array (
-    0 => 'It is the business of the future to be dangerous.',
-    1 => 'Hawkwind',
-  ),
-  10 => 
-  array (
-    0 => 'Your attitude is your altitude. It determines how high you fly.',
-    1 => 'Anonymous',
-  ),
-  11 => 
-  array (
-    0 => 'Be passionate and bold. Always keep learning. You stop doing useful things if you don\'t learn. So the last part to me is the key, especially if you have had some initial success. It becomes even more critical that you have the learning \'bit\' always switched on.',
-    1 => 'Satya Nadella',
-  ),
-  12 => 
-  array (
-    0 => 'I realized I love motivating and I love empowering and I love inspiring people. I did that as an athlete for 18 years, and I am able to do that as a motivational speaker now as well as doing work on television.',
-    1 => 'Dominique Dawes',
-  ),
-  13 => 
-  array (
-    0 => 'Dare to be honest and fear no labor.',
-    1 => 'Robert Burns',
-  ),
-  14 => 
-  array (
-    0 => 'I\'m growing older, but not up.',
-    1 => 'Jimmy Buffett',
-  ),
-  15 => 
-  array (
-    0 => 'Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don\'t turn up at all.',
-    1 => 'Sam Ewing',
-  ),
-  16 => 
-  array (
-    0 => 'College isn\'t the place to go for ideas.',
-    1 => 'Hellen Keller',
-  ),
-  17 => 
-  array (
-    0 => 'I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.',
-    1 => 'Walt Disney',
-  ),
-  18 => 
-  array (
-    0 => 'There\'s no talent here, this is hard work. This is an obsession.',
-    1 => 'Conor McGregor',
-  ),
-  19 => 
-  array (
-    0 => 'Love is a non-possessive delight in the particularity of the other.',
-    1 => 'James E. Loder',
-  ),
-  20 => 
-  array (
-    0 => 'Racism towards Muslims is as evil as anti-Semitism, but try to express this simple truth on a partisan Palestinian or Israeli website.',
-    1 => 'Chris Hedges, Death of the Liberal Class',
-  ),
-  21 => 
-  array (
-    0 => 'dedication, you won\'t be able to do this.',
-    1 => 'Ernest Hemingway',
-  ),
-  22 => 
-  array (
-    0 => 'By and large, language is a tool for concealing the truth.',
-    1 => 'George Carlin',
-  ),
-  23 => 
-  array (
-    0 => 'You can\'t use up creativity. The more you use, the more you have.',
-    1 => 'Maya Angelou',
-  ),
-  24 => 
-  array (
-    0 => 'If I\'ve got correct goals, and if I keep pursuing them the best way I know how, everything else falls into line. If I do the right thing right, I\'m going to succeed.',
-    1 => 'Dan Dierdorf',
-  ),
-);
+return [
+    [
+        'And I tell you, having girls has made me a much better man. I have friends who are fathers, but they only have boys, and they have the same attitude toward women they always had, you know? And I don\'t play that... My girls, you mess with them? I will bury you underground.',
+        'Mark Wahlberg',
+    ],
+    [
+        'Success is all about persistence and doing the right thing for the long term.',
+        'Bruce Rauner',
+    ],
+    [
+        'Fear comes in two packages fear of failure, and sometimes, fear of success.',
+        'Tom Kite',
+    ],
+    [
+        'Success is tricky to deal with, both professionally and in your personal life.',
+        'Ewan McGregor',
+    ],
+    [
+        'Ignoring fame was my rebellion, in a funny way. I was insistent on being normal and doing normal things. It probably wasn\'t advisable to go to college in America and room with a complete stranger. And it probably wasn\'t wise to share a bathroom with eight other people in a coed dorm. Looking back, that was crazy.',
+        'Emma Watson',
+    ],
+    [
+        'Work hard. And have patience. Because no matter who you are, you\'re going to get hurt in your career and you have to be patient to get through the injuries.',
+        'Randy Johnson',
+    ],
+    [
+        'I think the biggest misconception about me is people really don\'t know who I really am. They see the party side of me, they see the crazy side of me. But I also have a laid-back side. You know, I\'m chill, down to earth. If you want to grab a cup of coffee and just talk about life, I can do that.',
+        'Elisabeth Kubler-Ross',
+    ],
+    [
+        'Once you agree upon the price you and your family must pay for success, it enables you to ignore the minor hurts, the opponent\'s pressure, and the temporary failures.',
+        'Vince Lombardi',
+    ],
+    [
+        'Everything in nature has its own intrinsic charm, as the work of its Creator\'s hand; but the chief beauty of the whole lies in its suggested relations to humanity. Things announce and wait for persons. The house would not have been thus beautifully built and furnished, except for an expected tenant.',
+        'Lucy Larcom',
+    ],
+    [
+        'A key to achieving success is to assemble a strong and stable management team.',
+        'Vivek Wadhwa',
+    ],
+    [
+        'There are people who can achieve huge success in life, while adding a bit of fun and a splash of colour to this increasingly grey world.',
+        'Peter James',
+    ],
+    [
+        'In order to succeed, your desire for success should be greater than your fear of failure.',
+        'Bill Cosby',
+    ],
+    [
+        'Beauty for some provides escape, who gain a happiness in eyeing the gorgeous buttocks of the ape or Autumn sunsets exquisitely dying.',
+        'Langston Hughes',
+    ],
+    [
+        'Success is a state of mind. If you want success, start thinking of yourself as a success.',
+        'Joyce Brothers',
+    ],
+    [
+        'My kids give me the balance to live right.',
+        'Celine Dion',
+    ],
+    [
+        'Feeling anxious or depressed sometimes is part of what it means to be a person, and it might even be essential to success.',
+        'K. Flay',
+    ],
+    [
+        'I\'m always angry. I wake up angry. There is a lot to be angry about. Anger is a positive energy.',
+        'Thandie Newton',
+    ],
+    [
+        'What I learned from my work as a physician is that even with the most complicated patients, the most complicated problems, you\'ve got to look hard to find every piece of data and evidence that you can to improve your decision-making. Medicine has taught me to be very much evidence-based and data-driven in making decisions.',
+        'Jim Yong Kim',
+    ],
+    [
+        'Life is like dancing. If we have a big floor, many people will dance. Some will get angry when the rhythm changes. But life is changing all the time.',
+        'Nev Schulman',
+    ],
+    [
+        'Success seems to be largely a matter of hanging on after others have let go.',
+        'William Feather',
+    ],
+    [
+        'Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense everything that comes from love is a miracle.',
+        'Marianne Williamson',
+    ],
+    [
+        'Time = Life, Therefore, waste your time and waste of your life, or master your time and master your life.',
+        'Alan Lakein',
+    ],
+    [
+        'There is nothing in the world that I loathe more than group activity, that communal bath where the hairy and slippery mix in a multiplication of mediocrity.',
+        'Vladimir Nabokov',
+    ],
+    [
+        'The turning point was when I hit my 30th birthday. I thought, if really want to write, it\'s time to start. I picked up the book How to Write a Novel in 90 Days. The author said to just write three pages a day, and I figured, I can do this. I never got past Page 3 of that book.',
+        'James Rollins',
+    ],
+    [
+        'Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.',
+        'Richard Bach',
+    ],
+];

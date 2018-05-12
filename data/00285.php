@@ -1,132 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If the only prayer you ever say in your entire life is thank you, it will be enough.',
-    1 => 'Meister Eckhart [Johannes Eckhart]',
-  ),
-  1 => 
-  array (
-    0 => 'He that embarks on the voyage of life will always wish to advance rather by the impulse of the wind than the strokes of the oar; and many fold in their passage; while they lie waiting for the gale.',
-    1 => 'Dr. Samuel Johnson',
-  ),
-  2 => 
-  array (
-    0 => 'Success is not only one thing. It\'s not only having a nice house in Beverly Hills and driving a nice Mercedes.',
-    1 => 'Malik Bendjelloul',
-  ),
-  3 => 
-  array (
-    0 => 'Religious speech is extreme, emotional, and motivational. It is anti-literal, relying on metaphor, allusion, and other rhetorical devices, and it assumes knowledge within a community of believers.',
-    1 => 'Amy Waldman',
-  ),
-  4 => 
-  array (
-    0 => 'The purpose of life is a life of purpose.',
-    1 => 'Robert Byrne',
-  ),
-  5 => 
-  array (
-    0 => 'If you fail, never give up because F.A.I.L. means “First Attempt In Learning”.
-End is not the end, if fact E.N.D. means “Effort Never Dies”. If you get No as an answer, remember N.O. means “Next Opportunity”.
-So Let\'s be positive.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  6 => 
-  array (
-    0 => 'Success is like death. The more successful you become, the higher the houses in the hills get and the higher the fences get.',
-    1 => 'Kevin Spacey',
-  ),
-  7 => 
-  array (
-    0 => 'A goal is a dream with a deadline.',
-    1 => 'Napoleon Hill',
-  ),
-  8 => 
-  array (
-    0 => 'Every thought is a seed. If you plant crab apples, don\'t count on harvesting Golden Delicious.',
-    1 => 'Bill Meyer',
-  ),
-  9 => 
-  array (
-    0 => 'Well, well, well! Well if it isn\'t fat stinking billy goat Billy Boy in poison! How art thou, thou globby bottle of cheap stinking chip oil? Come and get one in the yarbles, if ya have any yarble, ya eunuch jelly thou!',
-    1 => 'Alex in "Clockwork Orange"',
-  ),
-  10 => 
-  array (
-    0 => 'Largely because it is so tangible and exciting a program and as such will serve to keep alive the interest and enthusiasm of the whole spectrum of society...It is justified because...the program can give a sense of shared adventure and achievement to the society at large.',
-    1 => 'Dr. Colin S. Pittendrigh, in "The History of Manned Space Flight"',
-  ),
-  11 => 
-  array (
-    0 => '\'Star Wars\' is fun, its exciting, its inspirational, and people respond to that. It\'s what they want.',
-    1 => 'George Lucas',
-  ),
-  12 => 
-  array (
-    0 => 'Show business is just like high school, except you get paid.',
-    1 => 'Martin Mull',
-  ),
-  13 => 
-  array (
-    0 => 'Every now and again take a good look at something not made with hands: a mountain, a star, the turn of a stream. There will come to you wisdom and patience and solace and, above all, the assurance that you are not alone in the world.',
-    1 => 'Sidney Lovett',
-  ),
-  14 => 
-  array (
-    0 => 'There is nothing stronger in the world than gentleness.',
-    1 => 'Han Suyin',
-  ),
-  15 => 
-  array (
-    0 => 'Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.',
-    1 => 'Rumi',
-  ),
-  16 => 
-  array (
-    0 => 'The art of being yourself at your best is the art of unfolding your personality into the person you want to be...Be gentle with yourself, learn to love yourself, to forgive yourself, for only as we have the right attitude toward ourselves can we have the right attitude toward others.',
-    1 => 'Georges-Louis Leclerc Buffon',
-  ),
-  17 => 
-  array (
-    0 => 'I have not failed. I\'ve just found 10,000 ways that won\'t work.',
-    1 => 'Thomas A. Edison',
-  ),
-  18 => 
-  array (
-    0 => 'Een schip op het strand is een baken in zee.
-[A ship on the beach is a lighthouse to the sea.]',
-    1 => 'Dutch Proverb',
-  ),
-  19 => 
-  array (
-    0 => 'One of the greatest discoveries a man makes, one of his great surprises, is to find he can do what he was afraid he couldn\'t do.',
-    1 => 'Henry Ford',
-  ),
-  20 => 
-  array (
-    0 => 'Dare to reach out your hand into the darkness, to pull another hand into the light.',
-    1 => 'William Shakespeare',
-  ),
-  21 => 
-  array (
-    0 => 'When someone comes along and expresses him or herself as freely as they think, people flock to it. They enjoy it.',
-    1 => 'Joe Rogan',
-  ),
-  22 => 
-  array (
-    0 => 'Ask the experienced rather than the learned.',
-    1 => 'Arabic Proverb',
-  ),
-  23 => 
-  array (
-    0 => 'Step by step and the thing is done.',
-    1 => 'Charles Atlas',
-  ),
-  24 => 
-  array (
-    0 => 'If you believe you can do it, go out there and do it, because that is the only way you are gonna get it!',
-    1 => 'Harry Main',
-  ),
-);
+return [
+    [
+        'Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.',
+        'Barack Obama',
+    ],
+    [
+        'Dealing with global warming doesn\'t mean we have all got to suddenly stop breathing. Dealing with global warming means that we have to stop waste, and if you travel for no reason whatsoever, that is a waste.',
+        'David Attenborough',
+    ],
+    [
+        'In our town, Halloween was terrifying and thrilling, and there was a whiff of homicide. We\'d travel by foot in the dark for miles, collecting candy, watching out for adults who seemed too eager to give us treats.',
+        'Rosecrans Baldwin',
+    ],
+    [
+        'Looking back at my life\'s voyage, I can only say that it has been a golden trip.',
+        'Chris Pine',
+    ],
+    [
+        'Don\'t spend time beating on a wall, hoping to transform it into a door.',
+        'Coco Chanel',
+    ],
+    [
+        'When you\'re doing a different kind of film, you have to bring a different kind of attitude; you have to bring a different kind of concentration.',
+        'Jerry Lewis',
+    ],
+    [
+        'I am conscious of my inability to grasp, in all its details and positive developments, any very large portion of human knowledge.',
+        'Mikhail Bakunin',
+    ],
+    [
+        'I think the movie business and film crews are a little bit like the circus, in that we travel around like a pack and we\'re a big family for a finite period of time. We roll into someplace, cause a bunch of damage, and then roll out.',
+        'Francis Lawrence',
+    ],
+    [
+        'A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness.',
+        'John Keats',
+    ],
+    [
+        'You can\'t have a happy family if you don\'t have a happy marriage.',
+        'Jeremy Sisto',
+    ],
+    [
+        'Just because one brother is good and one brother is bad in the same family, we cannot say that the rest of the family is bad or good.',
+        'Sri Chinmoy',
+    ],
+    [
+        'How one handles success or failure is determined by their early childhood.',
+        'Harold Ramis',
+    ],
+    [
+        'I don\'t really desire things. I prefer to spend my money on experiences, on meals or travel.',
+        'Rachel McAdams',
+    ],
+    [
+        'There is one thing you have got to learn about our movement. Three people are better than no people.',
+        'Fannie Hamer',
+    ],
+    [
+        'You know you\'ve reached true success the day you become truly humble. That\'s the day you stop needing to prove to the world - and yourself - that you\'ve accomplished something meaningful.',
+        'Naveen Jain',
+    ],
+    [
+        'We\'re all moving at such a high rate that we have to grab the frozen dinners and the McDonald\'s. We can\'t make it a way of life - we have to get back to real, simple, clean good foods. It will save our lives on so many levels; not just spina bifida, but obesity, diabetes, everything. Food is our medicine.',
+        'Bernie Siegel',
+    ],
+    [
+        'Make big plans; aim high in hope and work, remembering that a noble, logical diagram once recorded will not die, but long after we are gone be a living thing, asserting itself with ever-growing insistence.',
+        'Daniel Burnham',
+    ],
+    [
+        'It\'s hard enough to work and raise a family when your kids are all healthy and relatively normal, but when you add on some kind of disability or disease, it can just be such a burden.',
+        'Patricia Heaton',
+    ],
+    [
+        'There\'s always been trying at some stage to design people. And it will always be presented initially as a positive thing, as a way to weed out diseases. Of course you know it ultimately will be used in a bad way too, to create slaves or servants.',
+        'Maria Doyle Kennedy',
+    ],
+    [
+        'If You Are Working On Something That You Really Care About, You Don\'t Have To Be Pushed. The Vision Pulls You.',
+        'Steve Jobs',
+    ],
+    [
+        'The best way to cheer yourself up is to try to cheer somebody else up.',
+        'Mark Twain',
+    ],
+    [
+        'In beauty, there\'s this idea of this perfect picture, and I think, \'How about being present in the now, and a little messy?\'',
+        'Emily Weiss',
+    ],
+    [
+        'We make a living by what we get, but we make a life by what we give.',
+        'Henry Ford',
+    ],
+    [
+        'I need to travel, of course, with my laptop, so I can do my business on the road.',
+        'Theophilus London',
+    ],
+    [
+        'A work of art when placed in a gallery loses its charge, and becomes a portable object or surface disengaged from the outside world.',
+        'Robert Smithson',
+    ],
+];

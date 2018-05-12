@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'We are prone to judge success by the index of our salaries or the size of our automobiles, rather than by the quality of our service and relationship to humanity.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  1 => 
-  array (
-    0 => 'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
-    1 => 'Aldous Huxley',
-  ),
-  2 => 
-  array (
-    0 => 'I believe in the essential unity of all that lives. Therefore, I believe that if one person gains spiritually, the whole world gains, and that if one person falls, the whole world falls to that extent.',
-    1 => 'Mohandas Karamchand Gandhi',
-  ),
-  3 => 
-  array (
-    0 => 'Charles Lamb (1775 - 1834) Never let the demands of tomorrow interfere with the pleasures and excitement of today.',
-    1 => 'Meredith Willson',
-  ),
-  4 => 
-  array (
-    0 => 'If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.',
-    1 => 'Pema Chodron',
-  ),
-  5 => 
-  array (
-    0 => 'In life you can never be too kind or too fair; everyone you meet is carrying a heavy load. When you go through your day expressing kindness and courtesy to all you meet, you leave behind a feeling of warmth and good cheer, and you help alleviate the burdens everyone is struggling with.',
-    1 => 'Colin Powell',
-  ),
-  6 => 
-  array (
-    0 => 'If I could I would always work in silence and obscurity, and let my efforts be known by their results.',
-    1 => 'Emily Brontë',
-  ),
-  7 => 
-  array (
-    0 => 'I find that the harder I work, the more luck I seem to have',
-    1 => 'Thomas Jefferson',
-  ),
-  8 => 
-  array (
-    0 => 'I found it interesting that as people become more technically oriented all over the world, at the same time people are becoming increasingly spiritual. The success of the Da Vinci code - even though it was a great yawn - also showed people\'s interest in religion.',
-    1 => 'Barbara Walters',
-  ),
-  9 => 
-  array (
-    0 => 'Disc space',
-    1 => 'the final frontier!',
-  ),
-  10 => 
-  array (
-    0 => 'Excellence is an art won by training and habituation. We do not act rightly because we have virtue or excellence, but we rather have those because we have acted rightly. We are what we repeatedly do. Excellence, then, is not an act but a habit.',
-    1 => 'Aristotle',
-  ),
-  11 => 
-  array (
-    0 => 'When we honestly ask ourselves which person in our lives means the most us, we often find that it is those who, instead of giving much advice, solutions, or cures, have chosen rather to share our pain and touch our wounds with a gentle and tender hand. The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing, not curing, not healing and face with us the reality of our powerlessness, that is a friend who cares.',
-    1 => 'Henri Nouwen',
-  ),
-  12 => 
-  array (
-    0 => 'The human mind ordinarily operates at only ten percent of its capacity',
-    1 => 'the rest is overhead for the operating system.',
-  ),
-  13 => 
-  array (
-    0 => 'The practice of patience toward one another, the overlooking of one another\'s defects, and the bearing of one another\'s burdens is the most elementary condition of all human and social activity in the family, in the professions, and in society.',
-    1 => 'Lawrence G. Lovasik',
-  ),
-  14 => 
-  array (
-    0 => '... And malt does more than Milton can/To justify God\'s ways to man',
-    1 => 'A. E. Housman',
-  ),
-  15 => 
-  array (
-    0 => 'Word is a shadow of deed.',
-    1 => 'Democritus',
-  ),
-  16 => 
-  array (
-    0 => 'The very least you can do in your life is to figure out what you hope for. And the most you can do is live inside that hope.',
-    1 => 'Barbara Kingsolver',
-  ),
-  17 => 
-  array (
-    0 => 'Imagination creates reality.',
-    1 => 'Richard Wagner',
-  ),
-  18 => 
-  array (
-    0 => 'Perseverance is more prevailing than violence; and many things which cannot be overcome when they are together, yield themselves up when taken little by little.',
-    1 => 'Plutarch',
-  ),
-  19 => 
-  array (
-    0 => 'No matter how much success you\'re having, you can\'t continue working together if you can\'t communicate.',
-    1 => 'Matt Cameron',
-  ),
-  20 => 
-  array (
-    0 => 'Your work is to discover your world and then with all your heart give yourself to it.',
-    1 => 'Buddha',
-  ),
-  21 => 
-  array (
-    0 => 'These are days when no one should rely unduly on his \'competence.\' Strength lies in improvisation. All the decisive blows are struck left-handed.',
-    1 => 'Walter Benjamin',
-  ),
-  22 => 
-  array (
-    0 => 'Live today. Not yesterday. Not tomorrow. Just today. Inhabit your moments. Don\'t rent them out to tomorrow.',
-    1 => 'Jerry Spinelli',
-  ),
-  23 => 
-  array (
-    0 => 'It turned out that the worm exploited three or four different holes in the system. From this, and the fact that we were able to capture and examine some of the source code, we realized that we were dealing with someone very sharp, probably not someone here on campus.',
-    1 => 'Dr. Richard LeBlanc, associate professor of ICS, quoted in "The Technique," Georgia Tech\'s newspaper, after the computer worm hit the Internet',
-  ),
-  24 => 
-  array (
-    0 => 'Life is truly known only to those who suffer, lose, endure adversity and stumble from defeat to defeat.',
-    1 => 'Anaïs Nin',
-  ),
-);
+return [
+    [
+        'It is sometimes said that the major discoveries have already been made and that there is nothing important left to find. This attitude is altogether too pessimistic. There are plenty of ideas and plenty of things left to discover. The trick is to find the right path from one to the other.',
+        'John Vane',
+    ],
+    [
+        'If I had been asked to write 1,200 words for a newspaper tomorrow, on any subject, I would just do it rather than leave a white hole in the page. And I think it\'s a very healthy attitude to take to writing anything.',
+        'Tom Stoppard',
+    ],
+    [
+        'I love fashion, and I love changing my style, my hair, my makeup, and everything I\'ve done in the past has made me what I am now. Not everyone is going to like what I do, but I look back at everything, and it makes me smile.',
+        'Victoria Beckham',
+    ],
+    [
+        'My purpose: to lift your spirit and to motivate you.',
+        'Mavis Staples',
+    ],
+    [
+        'The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.',
+        'Roy Ayers',
+    ],
+    [
+        'My mother never wore much make-up, and she was a kind of natural beauty; she knew just how to enhance what she had.',
+        'Francois Nars',
+    ],
+    [
+        'If you look at a painting that you love by one of the great masters, every time you go back to it, you see something different - a different attitude or brushstroke. \'Hamlet\' is like an entire gallery of old masters.',
+        'Rory Kinnear',
+    ],
+    [
+        'Be willing to step outside your comfort zone once in a while; take the risks in life that seem worth taking. The ride might not be as predictable if you\'d just planted your feet and stayed put, but it will be a heck of a lot more interesting.',
+        'Woody Hayes',
+    ],
+    [
+        'For every failure, there\'s an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.',
+        'Mary Kay Ash',
+    ],
+    [
+        'I was obliged to be industrious. Whoever is equally industrious will succeed equally well.',
+        'Johann Sebastian Bach',
+    ],
+    [
+        'I lived at home and I cycled every morning to the railway station to travel by train to Johannesburg followed by a walk to the University, carrying sandwiches for my lunch and returning in the evening the same way.',
+        'Sydney Brenner',
+    ],
+    [
+        'Even when I wasn\'t playing, I always had a smile on my face because if I acted sad or mad, it wouldn\'t help me.',
+        'Henrikh Mkhitaryan',
+    ],
+    [
+        'By nature, I\'m a very positive person, and because I\'m happy in myself, and in my life, and I\'ve got a great husband, and beautiful children, and I have a job that I love that calls for a certain amount of emotional expression, I get to realise a lot of my dreams and aspirations.',
+        'Kate Winslet',
+    ],
+    [
+        'I often say that poverty needs no passport to travel.',
+        "\u{d3}scar Arias",
+    ],
+    [
+        'Comfort is the enemy of achievement.',
+        'Farrah Gray',
+    ],
+    [
+        'Chaos in the midst of chaos isn\'t funny, but chaos in the midst of order is.',
+        'Steve Martin',
+    ],
+    [
+        'As far as I\'m concerned, \'whom\' is a word that was invented to make everyone sound like a butler.',
+        'Calvin Trillin',
+    ],
+    [
+        'The prevailing - and foolish - attitude is that a good manager can be a good manager anywhere, with no special knowledge of the production process he\'s managing. A man with a financial background may know nothing about manufacturing shoes or cars, but he\'s put in charge anyway.',
+        'W. Edwards Deming',
+    ],
+    [
+        'Our job is to represent the truth of human nature, whether you\'re playing a tender love story that\'s set in a coffee shop or whether you\'re in \'The Avengers,\' which is set in a Manhattan which is exploding.',
+        'Tom Hiddleston',
+    ],
+    [
+        'I can remember that on the shelves at home, there were these books by Thomas Wolfe. \'Look Homeward Angel\' and \'Of Time and the River.\' \'Of Time and the River\' had just come out when I was aware of his name. My parents had a hard time convincing me that he was no kin whatsoever. My attitude was, \'Well, what\'s he doing on the shelf, then?\'',
+        'Tom Wolfe',
+    ],
+    [
+        'All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.',
+        'Rudolf Arnheim',
+    ],
+    [
+        'My life has been a blessing. I\'m grateful for everything I do have and the places I\'m going and the things I\'ve seen.',
+        'Ariana Grande',
+    ],
+    [
+        'As a father, you want the best for your son, quite obviously. You want to create the best memories for your son.',
+        'Bill Goldberg',
+    ],
+    [
+        'As I get older, I just prefer to knit.',
+        'Tracey Ullman',
+    ],
+    [
+        'If at first you don\'t succeed... so much for skydiving.',
+        'Henny Youngman',
+    ],
+];

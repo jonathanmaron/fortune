@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'People often say that motivation doesn\'t last. Well, neither does bathing-that\'s why we recommend it daily.',
-    1 => 'Zig Ziglar',
-  ),
-  1 => 
-  array (
-    0 => 'The turning point was when I hit my 30th birthday. I thought, if really want to write, it\'s time to start. I picked up the book How to Write a Novel in 90 Days. The author said to just write three pages a day, and I figured, I can do this. I never got past Page 3 of that book.',
-    1 => 'James Rollins',
-  ),
-  2 => 
-  array (
-    0 => 'You just can\'t beat the person who never gives up.',
-    1 => 'Babe Ruth',
-  ),
-  3 => 
-  array (
-    0 => 'Never talk defeat. Use words like hope, belief, faith, victory.',
-    1 => 'Norman Vincent Peale',
-  ),
-  4 => 
-  array (
-    0 => 'From its brilliancy everything is illuminated.',
-    1 => 'Guru Nanak',
-  ),
-  5 => 
-  array (
-    0 => 'A little less hypocrisy and a little more tolerance towards oneself can only have good results in respect for our neighbor; for we are all too prone to transfer to our fellows the injustice and violence we inflict upon our own natures.',
-    1 => 'Carl Gustav Jung',
-  ),
-  6 => 
-  array (
-    0 => 'Lawyers, I suppose, were children once.',
-    1 => 'Charles Lamb',
-  ),
-  7 => 
-  array (
-    0 => 'Things we lose have a way of coming back to us in the end, if not always in the way we expect.',
-    1 => 'Luna Lovegood, The Order of the Phoenix',
-  ),
-  8 => 
-  array (
-    0 => 'The most difficult thing is the decision to act, the rest is merely tenacity.',
-    1 => 'Amelia Earhart',
-  ),
-  9 => 
-  array (
-    0 => 'What is mind? No matter.
-What is matter? Never mind.',
-    1 => 'Thomas Hewitt Key, 1799-1875',
-  ),
-  10 => 
-  array (
-    0 => 'Football combines the two worst features of American life: violence and committee meetings.',
-    1 => 'George Will',
-  ),
-  11 => 
-  array (
-    0 => 'Clothes make the man. Naked people have little or no influence on society.',
-    1 => 'Mark Twain',
-  ),
-  12 => 
-  array (
-    0 => 'I have not failed. I\'ve just found 10,000 ways that won\'t work.',
-    1 => 'Thomas A. Edison',
-  ),
-  13 => 
-  array (
-    0 => 'I will never use biometrics. I\'m afraid they\'ll make me change my password.',
-    1 => 'Drew Sudell',
-  ),
-  14 => 
-  array (
-    0 => 'By one count there are some 700 scientists with respectable academic credentials (out of a total of 480,000 U.S. earth and life scientists) who give credence to creation-science, the general theory that complex life forms did not evolve but appeared "abruptly".',
-    1 => 'Newsweek, June 29, 1987, pg. 23',
-  ),
-  15 => 
-  array (
-    0 => 'All progress is based upon a universal innate desire on the part of every organism to live beyond its income.',
-    1 => 'Samuel Butler',
-  ),
-  16 => 
-  array (
-    0 => 'An optimist is a man who starts a crossword puzzle with a fountain pen.',
-    1 => 'William Wordsworth',
-  ),
-  17 => 
-  array (
-    0 => 'Happiness can be found in even the darkest of times, but only to those who remember to turn on the light.',
-    1 => 'George Linnaeus Banks',
-  ),
-  18 => 
-  array (
-    0 => 'Diamonds are nothing more than chunks of coal that stuck to their jobs.',
-    1 => 'Malcolm S. Forbes',
-  ),
-  19 => 
-  array (
-    0 => 'I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn\'t enough. I was exploding inside.',
-    1 => 'Ingrid Bergman',
-  ),
-  20 => 
-  array (
-    0 => 'It is generally agreed that "Hello" is an appropriate greeting because if you entered a room and said "Goodbye," it could confuse a lot of people.',
-    1 => 'Dolph Sharp, "I\'m O.K., You\'re Not So Hot"',
-  ),
-  21 => 
-  array (
-    0 => 'Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.',
-    1 => 'Dr. Wayne Dyer',
-  ),
-  22 => 
-  array (
-    0 => 'Crave for a thing, you will get it. Renounce the craving, the object will follow you by itself.',
-    1 => 'Swami Sivananda',
-  ),
-  23 => 
-  array (
-    0 => 'There are physical characteristics which are inherited. These include things like good looks, high intelligence, physical coordination. These attributes contribute to success in life, and success in life is a determinant of optimism.',
-    1 => 'Martin Seligman',
-  ),
-  24 => 
-  array (
-    0 => 'A bore is a man you deprives you of solitude without providing you with company.',
-    1 => 'Gian Vincenzo Gravina',
-  ),
-);
+return [
+    [
+        'The year 2100 will see eugenics universally established. In past ages, the law governing the survival of the fittest roughly weeded out the less desirable strains. Then man\'s new sense of pity began to interfere with the ruthless workings of nature. As a result, we continue to keep alive and to breed the unfit.',
+        'Nikola Tesla',
+    ],
+    [
+        'I\'d love to do a comedy. I\'m terrified of comedy. I don\'t think I\'m funny, but I guess that\'s why it\'s so thrilling.',
+        'Jared Padalecki',
+    ],
+    [
+        'If you want to have a good life, you should focus on your family, on your business, on your dog, on your fun, and you\'ll have a good life.',
+        'Adam Carolla',
+    ],
+    [
+        'Dost thou love life? Then do not squander time, for that is the stuff life is made of.',
+        'Benjamin Franklin',
+    ],
+    [
+        'When I grew up here, there was no T-Hub. Probably, the closest to T was the Tank bund.',
+        'Satya Nadella',
+    ],
+    [
+        'I remember the first time I had sex - I kept the receipt.',
+        'Groucho Marx',
+    ],
+    [
+        'Every day may not be good, but there\'s something good in every day.',
+        '',
+    ],
+    [
+        'Every story I create, creates me. I write to create myself.',
+        'Octavia E. Butler',
+    ],
+    [
+        'Vanity can create a very cruel space for you if you don\'t know how to manage it.',
+        'Lady Gaga',
+    ],
+    [
+        'To change ones life, start immediately, do it flamboyantly, no exceptions.',
+        'William James',
+    ],
+    [
+        'Good humor is one of the best articles of dress one can wear in society.',
+        'William Makepeace Thackeray',
+    ],
+    [
+        'Your greatest asset is your earning ability. Your greatest resource is your time.',
+        'Brian Tracy',
+    ],
+    [
+        'What is called genius is the abundance of life and health.',
+        'Henry David Thoreau',
+    ],
+    [
+        'What\'s funny is funny. The same thing that made you laugh a hundred years ago makes you laugh now.',
+        'Chevy Chase',
+    ],
+    [
+        'I was so embarrassed about mispronouncing words. I just knew how to smile.',
+        'Adriana Lima',
+    ],
+    [
+        'I am suggesting that as we go through life, we \'accentuate the positive.\' I am asking that we look a little deeper for the good, that we still our voices of insult and sarcasm, that we more generously compliment and endorse virtue and effort.',
+        'Gordon B. Hinckley',
+    ],
+    [
+        'Aaah, summer - that long anticipated stretch of lazy, lingering days, free of responsibility and rife with possibility. It\'s a time to hunt for insects, master handstands, practice swimming strokes, conquer trees, explore nooks and crannies, and make new friends.',
+        'Darell Hammond',
+    ],
+    [
+        'We hire people who want to make the best things in the world.',
+        'Steve Jobs',
+    ],
+    [
+        'Life grants nothing to us mortals without hard work.',
+        'Horace',
+    ],
+    [
+        'I\'ve always believed that as actors, one of the biggest advantages of being in the film business - not just of being actors, but being in this industry - is the fact that you get to travel so much, and you get to see places that you probably would not if you went just as a tourist.',
+        'Deepika Padukone',
+    ],
+    [
+        'On the recollection of so many and great favours and blessings, I now, with a high sense of gratitude, presume to offer up my sincere thanks to the Almighty, the Creator and Preserver.',
+        'William Bartram',
+    ],
+    [
+        'If you spend too much time thinking about a thing, you\'ll never get it done',
+        'Bruce Lee',
+    ],
+    [
+        'We waste time looking for the perfect lover, instead of creating the perfect love.',
+        'Tom Robbins',
+    ],
+    [
+        'A hen is only an egg\'s way of making another egg.',
+        'Samuel Butler',
+    ],
+    [
+        'It is my feeling that Time ripens all things; with Time all things are revealed; Time is the father of truth.',
+        'Francois Rabelais',
+    ],
+];

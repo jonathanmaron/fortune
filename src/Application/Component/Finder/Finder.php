@@ -10,4 +10,9 @@ class Finder extends ParentFinder
     {
         return $this->files()->in($path)->name('*.php');
     }
+
+    public function json($path)
+    {
+        return $this->files()->in($path)->name('*.json');
+    }
 }

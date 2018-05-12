@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'When you stop chasing the wrong things you give the right things a chance to catch you.',
-    1 => 'Lolly Daskal',
-  ),
-  1 => 
-  array (
-    0 => 'Fear of a name increases fear of the thing itself.',
-    1 => 'The Sorcerer\'s Stone',
-  ),
-  2 => 
-  array (
-    0 => 'Formal education will make you a living; self-education will make you a fortune.',
-    1 => 'Jim Rohn',
-  ),
-  3 => 
-  array (
-    0 => 'Experience: that most brutal of teachers. But you learn, my God do you learn.',
-    1 => 'C.S. Lewis',
-  ),
-  4 => 
-  array (
-    0 => 'I hated every minute of training, but I said, ”Don\'t quit. Suffer now and live the rest of your life as a champion.',
-    1 => 'Mahummad Ali',
-  ),
-  5 => 
-  array (
-    0 => 'Do not allow this language (Ada) in its present state to be used in applications where reliability is critical, i.e., nuclear power stations, cruise missiles, early warning systems, anti-ballistic missle defense systems. The next rocket to go astray as a result of a programming language error may not be an exploratory space rocket on a harmless trip to Venus: It may be a nuclear warhead exploding over one of our cities. An unreliable programming language generating unreliable programs constitutes a far greater risk to our environment and to our society than unsafe cars, toxic pesticides, or accidents at nuclear power stations.',
-    1 => 'C. A. R. Hoare',
-  ),
-  6 => 
-  array (
-    0 => 'Equal laws protecting equal rights...the best guarantee of loyalty and love of country.',
-    1 => 'James Madison',
-  ),
-  7 => 
-  array (
-    0 => 'Little drops of water wear down big stones.',
-    1 => 'Russian Proverb',
-  ),
-  8 => 
-  array (
-    0 => 'The thing always happens that you really believe in; and the belief in a thing makes it happen.',
-    1 => 'Frank Lloyd Wright',
-  ),
-  9 => 
-  array (
-    0 => 'Writing in C or C++ is like running a chain saw with all the safety guards removed.',
-    1 => 'Bob Gray',
-  ),
-  10 => 
-  array (
-    0 => 'The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.',
-    1 => 'Ben Okri',
-  ),
-  11 => 
-  array (
-    0 => 'It is not the length of life, but depth of life.',
-    1 => 'Jim Rohn',
-  ),
-  12 => 
-  array (
-    0 => 'The power of accurate observation is commonly called cynicism by those who have not got it.',
-    1 => 'George Bernard Shaw (1856 - 1950)',
-  ),
-  13 => 
-  array (
-    0 => 'Wherever you go, go with all your heart.',
-    1 => 'Confucius',
-  ),
-  14 => 
-  array (
-    0 => 'Failure is not our only punishment for laziness; there is also the success of others.',
-    1 => 'Jules Renard',
-  ),
-  15 => 
-  array (
-    0 => 'There is no revenge so complete as forgiveness.',
-    1 => 'Josh Billings [Henry Wheeler Shaw]',
-  ),
-  16 => 
-  array (
-    0 => 'Confound these ancestors.... They\'ve stolen our best ideas!',
-    1 => 'Ben Jonson',
-  ),
-  17 => 
-  array (
-    0 => 'Be first and be lonely.',
-    1 => 'Ginni Rometty',
-  ),
-  18 => 
-  array (
-    0 => 'Throughout life people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.',
-    1 => 'Will Smith',
-  ),
-  19 => 
-  array (
-    0 => 'When being together is more important than what you do, you are with a friend.',
-    1 => 'Connie McMartin',
-  ),
-  20 => 
-  array (
-    0 => 'Leap, and the net will appear.',
-    1 => 'John Burroughs',
-  ),
-  21 => 
-  array (
-    0 => 'I am only one, but still I am one. I cannot do everything, but still I can do something; and because I cannot do everything, I will not refuse to do something that I can do.',
-    1 => 'Helen Keller',
-  ),
-  22 => 
-  array (
-    0 => 'Take the stones people throw at you and use them to build a monument.',
-    1 => 'Robin Sharma',
-  ),
-  23 => 
-  array (
-    0 => 'A question that sometimes drives me hazy: am I or are the others crazy?',
-    1 => 'Albert Einstein',
-  ),
-  24 => 
-  array (
-    0 => 'The difference between try and triumph is a little umph.',
-    1 => 'Anonymous',
-  ),
-);
+return [
+    [
+        'I don\'t want to wake up and be bored. That\'s probably my greatest fear is to have nothing to do. What better job is there than to play quarterback for an NFL team, and certainly one that I\'ve been on for a long time and had success with? I don\'t plan on giving it up any time soon.',
+        'Tom Brady',
+    ],
+    [
+        'I like being the underdog so they don\'t expect what\'s going to happen. It pushes me to work harder and do the things I\'m not doing better.',
+        'Kawhi Leonard',
+    ],
+    [
+        'If one is desperate for love, I suggest looking at one\'s friends and family and see if love is all around. If not, get a new set of friends, a new family.',
+        'Jasmine Guy',
+    ],
+    [
+        'Don\'t compromise yourself. You are all you\'ve got.',
+        'Janis Joplin',
+    ],
+    [
+        'And I have to work so hard at talking positively to myself. If I don\'t, it\'s just real hard to get through the day, and I\'ll get really down, and just want to cry. My whole body language changes. I get more slumped over.',
+        'Delta Burke',
+    ],
+    [
+        'Life is a long lesson in humility.',
+        'Dr. Seuss',
+    ],
+    [
+        'I look back on my life like a good day\'s work, it was done and I am satisfied with it.',
+        'Taylor Swift',
+    ],
+    [
+        'In my life I\'ve learned that true happiness comes from giving. Helping others along the way makes you evaluate who you are. I think that love is what we\'re all searching for. I haven\'t come across anyone who didn\'t become a better person through love.',
+        'Theodore Zeldin',
+    ],
+    [
+        'Prosperity is the best protector of principle.',
+        'Mark Twain',
+    ],
+    [
+        'I\'ve been around a long time, and life still has a whole lot of surprises for me.',
+        'Loretta Lynn',
+    ],
+    [
+        'Social media is something of a double-edged sword. At its best, social media offers unprecedented opportunities for marginalized people to speak and bring much needed attention to the issues they face. At its worst, social media also offers \'everyone\' an unprecedented opportunity to share in collective outrage without reflection.',
+        'Roxane Gay',
+    ],
+    [
+        'My father\'s best friend, Georgie Terra, was an Italian guy. The children and the cousins and nieces and nephews were children of the Mafia. Those were the children he grew up with. If you want to go to a safe neighborhood, go to where the Mafia is.',
+        'Louis Gossett, Jr.',
+    ],
+    [
+        'Proving I\'m a good mother is the one achievement I\'m most proud of. It\'s brought out the best in me.',
+        'Sheena Easton',
+    ],
+    [
+        'In just six weeks from the time the design was started, we had the motor on the block testing its power.',
+        'Orville Wright',
+    ],
+    [
+        'My journey has been a very fun one because I\'ve chosen to make the best of every challenge that I\'ve had along the way no matter what.',
+        'Ciara',
+    ],
+    [
+        'When I was eight, my piano teacher played seven or eight notes, and I sang them. She stopped and looked at me in shock! That was the first time I\'d gotten that reaction. I\'d had looks of horror, but never shock in a positive way.',
+        'Chris Cornell',
+    ],
+    [
+        'I have a secret project which adds four hours every day to the 24 hours we have. There\'s a bit of time travel involved.',
+        'Sundar Pichai',
+    ],
+    [
+        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
+        'Christopher McCandless',
+    ],
+    [
+        'Time takes the ugliness and horror out of death and turns it into beauty.',
+        'Dodie Smith',
+    ],
+    [
+        'Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.',
+        'Charles A. Lindbergh',
+    ],
+    [
+        'Try to be like the turtle - at ease in your own shell.',
+        'Bill Copeland',
+    ],
+    [
+        'Delete the negative; accentuate the positive!',
+        'Donna Karan',
+    ],
+    [
+        'Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.',
+        'John Adams',
+    ],
+    [
+        'Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.',
+        'Coolio',
+    ],
+    [
+        'It was just like a dream. I could have ended up with an album that\'s not all that different from anything else coming out of Nashville. Mutt made the difference. He took these songs, my attitude, my creativity, and colored them in a way that is unique.',
+        'Shania Twain',
+    ],
+];

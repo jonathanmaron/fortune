@@ -1,134 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Change doesn\'t always mean progress, but the status quo isn\'t always the best result either. It is merely the most convenient.',
-    1 => 'Harsha Bhogle',
-  ),
-  1 => 
-  array (
-    0 => 'Tell me and I\'ll forget; show me and I may remember; involve me and I\'ll understand.',
-    1 => 'Chinese Proverb',
-  ),
-  2 => 
-  array (
-    0 => 'Focusing your life solely on making a buck shows a certain poverty of ambition. It asks too little of yourself. Because it\'s only when you hitch your wagon to something larger than yourself that you realize your true potential.',
-    1 => 'Barack Obama',
-  ),
-  3 => 
-  array (
-    0 => 'Never, never, in nothing great or small, large or petty, never give in except to convictions of honor and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy.',
-    1 => 'Sir Winston Churchill',
-  ),
-  4 => 
-  array (
-    0 => 'You cannot be wimpy out there on the dream-seeking trail. Dare to break through barriers, to find your own path.',
-    1 => 'Roald Dahl',
-  ),
-  5 => 
-  array (
-    0 => 'Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the Galaxy lies a small unregarded yellow sun. Orbiting this at a distance of roughly ninety-eight million miles is an utterly insignificant little blue-green planet whose ape-descended life forms are so amazingly primitive that they still think digital watches are a pretty neat idea ...',
-    1 => 'Douglas Adams, "The Hitchhiker\'s Guide to the Galaxy"',
-  ),
-  6 => 
-  array (
-    0 => 'What we anticipate seldom occurs; what we least expect generally happens.',
-    1 => 'Bengamin Disraeli',
-  ),
-  7 => 
-  array (
-    0 => 'We are all worms, but I do believe I am a glowworm.',
-    1 => 'Sir Winston Churchill',
-  ),
-  8 => 
-  array (
-    0 => 'To dream anything that you want to dream.
-That\'s the beauty of the human mind.
-To do anything that you want to do.
-That is the strength of the human will.
-To trust yourself to test your limits.
-That is the courage to succeed.',
-    1 => 'Bernard Edmonds',
-  ),
-  9 => 
-  array (
-    0 => 'I never set out to be weird. It was always other people who called me weird.',
-    1 => 'Frank Zappa',
-  ),
-  10 => 
-  array (
-    0 => 'Arithmetic is being able to count up to twenty without taking off your shoes.',
-    1 => 'Mickey Mouse',
-  ),
-  11 => 
-  array (
-    0 => 'We see things not as they are, we see them as WE are.',
-    1 => 'Morrie Camhi',
-  ),
-  12 => 
-  array (
-    0 => 'My past is my own.',
-    1 => 'The Shadow (DC Comics)',
-  ),
-  13 => 
-  array (
-    0 => 'I hate quotations.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  14 => 
-  array (
-    0 => 'If we look at the world with a love of life, the world will reveal its beauty to us.',
-    1 => 'Daisaku Ikeda',
-  ),
-  15 => 
-  array (
-    0 => 'Four years of football are calculated to breed in the average man more of the ingredients of success in life than almost any academic course he takes.',
-    1 => 'Knute Rockne',
-  ),
-  16 => 
-  array (
-    0 => 'Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.',
-    1 => 'Michael Jackson',
-  ),
-  17 => 
-  array (
-    0 => 'Alas, I am dying beyond my means.',
-    1 => 'Oscar Wilde, as he sipped champagne on his deathbed',
-  ),
-  18 => 
-  array (
-    0 => 'I just wouldn\'t give in, no way.',
-    1 => 'Soichiro Honda',
-  ),
-  19 => 
-  array (
-    0 => 'Our worldly successes cannot be guaranteed, but our ability to achieve spiritual success is entirely up to us, thanks to the grace of God. The best advice I know is to give is to give those worldly things your best but never your all - reserve the ultimate hope for the only one who can grant it.',
-    1 => 'Mitt Romney',
-  ),
-  20 => 
-  array (
-    0 => 'Problems or successes, they all are the results of our own actions. Karma. The philosophy of action is that no one else is the giver of peace or happiness. One\'s own karma, one\'s own actions are responsible to come to bring either happiness or success or whatever.',
-    1 => 'Maharishi Mahesh Yogi',
-  ),
-  21 => 
-  array (
-    0 => 'Education is the manifestation of perfection already in a man.',
-    1 => 'Swami Vivekananda',
-  ),
-  22 => 
-  array (
-    0 => 'It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.',
-    1 => 'The Sorcerer\'s Stone',
-  ),
-  23 => 
-  array (
-    0 => 'The day-to-day travails of the IBM programmer are so amusing to most of us who are fortunate enough never to have been one',
-    1 => 'like watching Charlie Chaplin trying to cook a shoe.',
-  ),
-  24 => 
-  array (
-    0 => 'Strive not to be a success, but rather to be of value.',
-    1 => 'Albert Einstein',
-  ),
-);
+return [
+    [
+        'Since she got a cause and stopped being funny. I think she\'s real funny, but lately it\'s all been hearts and flowers and tears and saving teenagers and creating a role model. And that ain\'t funny. No giggles there.',
+        'Andy Richter',
+    ],
+    [
+        'This generation... they have a different attitude. Instead of sitting and watching something, they want to be a part of it - they\'re very hedonistic and sensual.',
+        'Steve Wynn',
+    ],
+    [
+        'People think because I\'ve got some success, I\'ve made it, but in my eyes it\'s like, \'How long has Jay Z been in the business? How many albums has he got?\' Not that I\'m trying to be Jay Z, but I am trying to be around for a long time.',
+        'J. Cole',
+    ],
+    [
+        'In every community, there is work to be done. In every nation, there are wounds to heal. In every heart, there is the power to do it.',
+        'Marianne Williamson',
+    ],
+    [
+        'I don\'t want any title. I just say what I say, and hopefully somebody gets it, man. I\'m not perfect, and I\'m just here and trying to make a dollar, and being real at the same time, you know?',
+        'Nas',
+    ],
+    [
+        'Failure is not our only punishment for laziness; there is also the success of others.',
+        'Jules Renard',
+    ],
+    [
+        'Beauty is that which is simultaneously attractive and sublime.',
+        'Karl Wilhelm Friedrich Schlegel',
+    ],
+    [
+        'It\'s always exciting to see different cities I love, and go on tour buses. It\'s so much fun to travel. My favorite part is being able to perform live in front of all these amazing people; being able to connect with them and seeing their reaction makes me feel very special.',
+        'Jackie Evancho',
+    ],
+    [
+        'Success? You can\'t get a big head about it. When people stare at me, they could be whispering to their friend, \'That guy sucks! Have you seen him before? He\'s horrible.\'',
+        'David Spade',
+    ],
+    [
+        'Work gives you meaning and purpose and life is empty without it.',
+        'Stephen Hawking',
+    ],
+    [
+        'The positive aspects of modernity are to be acknowledged unreservedly: we are all grateful for the marvellous possibilities that it has opened up for mankind and for the progress in humanity that has been granted to us.',
+        'Pope Benedict XVI',
+    ],
+    [
+        'Suffering is permanent, obscure and dark, And shares the nature of infinity.',
+        'William Wordsworth',
+    ],
+    [
+        'Vision without action is a daydream. Action without vision is a nightmare.',
+        'Japanese proverb',
+    ],
+    [
+        'Every time you dive, you hope you\'ll see something new - some new species. Sometimes the ocean gives you a gift, sometimes it doesn\'t.',
+        'James Cameron',
+    ],
+    [
+        'The ultimate dream in life is to be able to do what you love and learn something from it.',
+        'Tom DeLonge',
+    ],
+    [
+        'I grew up hunting and fishing. I\'ve always been into archery. I\'ve always been into cars... In my family, that was just stuff we did. That\'s just the way it was.',
+        'Paul Walker',
+    ],
+    [
+        'I love Saturday nights with my best friend and a big bowl of pasta, wanting a good scare, something that will say, \'Listen, your life is not as bad as this. Your life can be so much worse.\'',
+        'Vera Farmiga',
+    ],
+    [
+        'There is not one big cosmic meaning for all, there is only the meaning we each give to our life.',
+        'Anais Nin',
+    ],
+    [
+        'If we study learning as a data science, we can reverse engineer the human brain and tailor learning techniques to maximize the chances of student success. This is the biggest revolution that could happen in education, turning it into a data-driven science, and not such a medieval set of rumors professors tend to carry on.',
+        'Sebastian Thrun',
+    ],
+    [
+        'There were interesting ways that queerness could hide out and get played out pre-Stonewall. It is part of a vast history that is getting forgotten quickly as we trumpet forward into gay marriage and gays in the military and a much different cultural attitude toward gay lives.',
+        'Todd Haynes',
+    ],
+    [
+        'To love and win is the best thing. To love and lose, the next best.',
+        'William Makepeace Thackeray',
+    ],
+    [
+        'You are the bows from which your children as living arrows are sent forth.',
+        'Khalil Gibran',
+    ],
+    [
+        'Every moment and every event of every man\'s life on earth plants something in his soul.',
+        'Thomas Merton',
+    ],
+    [
+        'Reality does not conform to the ideal, but confirms it.',
+        'Gustave Flaubert',
+    ],
+    [
+        'There is a deep sadness to American poverty, greater than the sadness of any other kind. It\'s because America has such an ideology of success.',
+        'Will Self',
+    ],
+];

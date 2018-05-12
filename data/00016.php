@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Without a sense of caring, there can be no sense of community.',
-    1 => 'Anthony J. D\'Angelo',
-  ),
-  1 => 
-  array (
-    0 => 'Just know that I was once considered just a dreamer... Then I paid my dues and turned so many doubters to believers...',
-    1 => 'Big K.R.I.T.',
-  ),
-  2 => 
-  array (
-    0 => 'Quality is more important than quantity. One home run is much better than two doubles.',
-    1 => 'Steve Jobs',
-  ),
-  3 => 
-  array (
-    0 => 'Whenever you are asked if you can do a job, tell \'em, \'Certainly I can!\' Then get busy and find out how to do it.',
-    1 => 'Theodore Roosevelt',
-  ),
-  4 => 
-  array (
-    0 => 'We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way.',
-    1 => 'Les Brown',
-  ),
-  5 => 
-  array (
-    0 => 'When I was in college, I remember fearing that the dreary grind of adulthood would feature infinitely more existential dread than frat parties had, but the opposite has been true for me. I\'m much less likely to feel that gnawing fear of aimlessness and nihilism than I used to be and that\'s partly because education gave me job opportunities, but it\'s mostly because education gave me perspective and context.',
-    1 => 'John Green',
-  ),
-  6 => 
-  array (
-    0 => 'Careers, like rockets, don\'t always take off on schedule. The key is to keep working the engines.',
-    1 => 'Gary Sinise',
-  ),
-  7 => 
-  array (
-    0 => 'The best way to pay for a lovely moment is to enjoy it.',
-    1 => 'Richard David Bach',
-  ),
-  8 => 
-  array (
-    0 => 'If you can dream it, you can do it.',
-    1 => 'Walt Disney',
-  ),
-  9 => 
-  array (
-    0 => 'We do not remember days; we remember moments.',
-    1 => 'Cesare Pavese',
-  ),
-  10 => 
-  array (
-    0 => 'Never forget that you are one of a kind. Never forget that if there weren\'t any need for you in all your uniqueness to be on this earth, you wouldn\'t be here in the first place. And never forget, no matter how overwhelming life\'s challenges and problems seem to be, that one person can make a difference in the world. In fact, it is always because of one person that all the changes that matter in the world come about. So be that one person.',
-    1 => 'Laura Arrillaga-Andreessen',
-  ),
-  11 => 
-  array (
-    0 => 'Ordinary riches can be stolen, real riches cannot. In your soul are infinitely precious things that cannot be taken from you.',
-    1 => 'Oscar Wilde',
-  ),
-  12 => 
-  array (
-    0 => 'Memories of you remind me of you.',
-    1 => 'Karl',
-  ),
-  13 => 
-  array (
-    0 => 'A strong passion for any object will ensure success, for the desire of the end will point out the means.',
-    1 => 'Henry Hazlitt',
-  ),
-  14 => 
-  array (
-    0 => 'True happiness involves the full use of one\'s power and talents.',
-    1 => 'John W. Gardner',
-  ),
-  15 => 
-  array (
-    0 => 'Criticism comes easier than craftsmanship.',
-    1 => 'Zeuxis',
-  ),
-  16 => 
-  array (
-    0 => 'We convince by our presence.',
-    1 => 'Walt Whitman',
-  ),
-  17 => 
-  array (
-    0 => 'Children have never been very good at listening to their elders, but they have never failed to imitate them.',
-    1 => 'James Baldwin',
-  ),
-  18 => 
-  array (
-    0 => 'In the depths of winter I finally learned there was in me an invincible summer.',
-    1 => 'Albert Camus',
-  ),
-  19 => 
-  array (
-    0 => 'To endure is greater than to dare; to tire out the hostile fortune; to be daunted by no difficulty; to keep heart when all have lost it- who can say this is not greatness?',
-    1 => 'William Makepeace Thackeray',
-  ),
-  20 => 
-  array (
-    0 => 'As with most fine things, chocolate has its season. There is a simple memory aid that you can use to determine whether it is the correct time to order chocolate dishes: any month whose name contains the letter A, E, or U is the proper time for chocolate.',
-    1 => 'Sandra Boynton, "Chocolate: The Consuming Passion"',
-  ),
-  21 => 
-  array (
-    0 => 'There is only one way... to get anybody to do anything. And that is by making the other person want to do it.',
-    1 => 'Dale Carnegie',
-  ),
-  22 => 
-  array (
-    0 => 'Winning isn\'t everything, but wanting to win is.',
-    1 => 'Vince Lombardi',
-  ),
-  23 => 
-  array (
-    0 => 'Wisdom is knowing what to do next, skill is knowing how to do it, and virtue is doing it.',
-    1 => 'David Starr Jordan',
-  ),
-  24 => 
-  array (
-    0 => 'Tough times never last, but tough people do.',
-    1 => 'Robert H. Schuller',
-  ),
-);
+return [
+    [
+        'I can, therefore I am.',
+        'Simone Weil',
+    ],
+    [
+        'I get tired of comedies where there are a bunch of funny guys and a beautiful woman who doesn\'t do anything funny. And I don\'t like books where there\'s a rough-and-tumble boy and a really clever, snotty girl. That\'s just not my experience with teenagers.',
+        'Patrick Ness',
+    ],
+    [
+        'Children should be able to live a life free from bullying and harassment and it is time that we all took a stand against this.',
+        'Katherine Jenkins',
+    ],
+    [
+        'Whatever obstacle comes your way, you gotta be prepared to jump over it! And I think that\'s what separates the legends from the regular artists. It\'s all in how you manage that success, and how you deal with the controversy when it actually comes.',
+        'Akon',
+    ],
+    [
+        'That\'s who my mom is. She\'s a listener and a doer. She\'s a woman driven by compassion, by faith, by a fierce sense of justice and a heart full of love. So, this November, I\'m voting for a woman who is my role model, as a mother, and as an advocate. A woman who has spent her entire life fighting for families and children.',
+        'Bob Marley',
+    ],
+    [
+        'If we listened to our intellect, we\'d never have a love affair. We\'d never have a friendship. We\'d never go into business, because we\'d be cynical. Well, that\'s nonsense. You\'ve got to jump off cliffs all the time and build your wings on the way down.',
+        'Ray Bradbury',
+    ],
+    [
+        'If you manifest your true self through nature and your normal surroundings, I find that the most eerie. Like when you see birds suddenly start flying in a different direction or when you see moths forming weird shapes, I think that\'s the weirdest way to let yourself be known.',
+        'Holland Roden',
+    ],
+    [
+        'There\'s only one growth strategy: work hard.',
+        'William Hague',
+    ],
+    [
+        'There is no such thing as fun for the whole family.',
+        'Jerry Seinfeld',
+    ],
+    [
+        'We May Encounter Many Defeats But We Must Not Be Defeated.',
+        'Maya Angelou',
+    ],
+    [
+        'Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.',
+        'Don Miguel Ruiz',
+    ],
+    [
+        'Whether it\'s the best of times or the worst of times, it\'s the only time we\'ve got.',
+        'Art Buchwald',
+    ],
+    [
+        'Motivation is the art of getting people to do what you want them to do because they want to do it.',
+        'Dwight D. Eisenhower',
+    ],
+    [
+        'Success is blocked by concentrating on it and planning for it... Success is shy - it won\'t come out while you\'re watching.',
+        'Tennessee Williams',
+    ],
+    [
+        'I\'m taking a bit of a wait-and-see attitude towards 3D.',
+        'Christopher Nolan',
+    ],
+    [
+        'The black family survived centuries of slavery and generations of Jim Crow, but it has disintegrated in the wake of the liberals\' expansion of the welfare state.',
+        'Thomas Sowell',
+    ],
+    [
+        'After six years without seeing one, I love just seeing a smile - every smile I see gives me hope.',
+        'Ingrid Betancourt',
+    ],
+    [
+        'The good news is that real-world hands-on conservation is alive and well and catching on across the America I travel.',
+        'Ted Nugent',
+    ],
+    [
+        'I realised that if you get yourself labeled as the funny one, people don\'t look any further. I\'ve used that as I\'ve got older. It\'s controlling: I decide what part of my personality you\'re seeing. I don\'t want you to look at me, I really don\'t. I don\'t want you to comment on my clothes, my hair or the way I look.',
+        'Catherine Tate',
+    ],
+    [
+        'The smile on your face lets me know that you need me, there\'s a truth in your heart that says you\'ll never leave me, and the touch of your hand says you\'ll catch me whenever I fall.',
+        'Alison Krauss',
+    ],
+    [
+        'Global health issues remind us - perhaps more than any other issue - that we are all children of the same extended family.',
+        'Kathleen Sebelius',
+    ],
+    [
+        'The surface of American society is covered with a layer of democratic paint, but from time to time one can see the old aristocratic colours breaking through.',
+        'Alexis de Tocqueville',
+    ],
+    [
+        'But, when the work was finished, the Craftsman kept wishing that there were someone to ponder the plan of so great a work, to love its beauty, and to wonder at its vastness.',
+        'Giovanni Pico della Mirandola',
+    ],
+    [
+        'I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.',
+        'Robert Fulghum',
+    ],
+    [
+        'The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another\'s, smile at someone and receive a smile in return, are to me continual spiritual exercises.',
+        'Leo Buscaglia',
+    ],
+];

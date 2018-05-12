@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Those who make compassion an essential part of their lives find the joy of life. Kindness deepens the spirit and produces rewards that cannot be completely explained in words. It is an experience more powerful than words. To become acquainted with kindness one must be prepared to learn new things and feel new feelings. Kindness is more than a philosophy of the mind. It is a philosophy of the spirit.',
-    1 => 'Robert J. Furey',
-  ),
-  1 => 
-  array (
-    0 => 'Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who\'s in power has any plan at all.',
-    1 => 'xkcd #1081 (mouseover text)',
-  ),
-  2 => 
-  array (
-    0 => 'Only connect.',
-    1 => 'E. M. Forster',
-  ),
-  3 => 
-  array (
-    0 => 'Adversity makes men, prosperity monsters.',
-    1 => 'French Proverb',
-  ),
-  4 => 
-  array (
-    0 => 'One needs more than ambition and talent to make a success of anything, really. There must be love and a vocation.',
-    1 => 'Jessye Norman',
-  ),
-  5 => 
-  array (
-    0 => 'I\'m always asked, \'What\'s the secret to success?\' But there are no secrets. Be humble. Be hungry. And always be the hardest worker in the room.',
-    1 => 'Dwayne Johnson',
-  ),
-  6 => 
-  array (
-    0 => 'Go big or go home.Because it\'s true. What do you have to lose?',
-    1 => 'Eliza Dushku',
-  ),
-  7 => 
-  array (
-    0 => 'Winter is the time for comfort, for good food and warmth, for the touch of a friendly hand and for a talk beside the fire: it is the time for home.',
-    1 => 'Dame Edith Sitwell',
-  ),
-  8 => 
-  array (
-    0 => 'It is better to suffer wrong than to do it, and happier to be sometimes cheated than not to trust.',
-    1 => 'Dr. Samuel Johnson',
-  ),
-  9 => 
-  array (
-    0 => 'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
-    1 => 'A.P.J. Abdul Kalam',
-  ),
-  10 => 
-  array (
-    0 => 'In order to be irreplaceable one must always be different.',
-    1 => 'Coco Chanel',
-  ),
-  11 => 
-  array (
-    0 => 'Nobody knows what you feel inside unless you tell them.',
-    1 => 'Banksy',
-  ),
-  12 => 
-  array (
-    0 => 'Success means doing the best we can with what we have. Success is the doing, not the getting; in the trying, not the triumph. Success is a personal standard, reaching for the highest that is in us, becoming all that we can be.',
-    1 => 'Zig Ziglar',
-  ),
-  13 => 
-  array (
-    0 => 'Even if we lose the wealth of thousands, and our life is sacrificed, we…should keep smiling and be cheerful keeping our faith in God and Truth.',
-    1 => 'Sardar Patel',
-  ),
-  14 => 
-  array (
-    0 => 'No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself',
-    1 => 'Seneca',
-  ),
-  15 => 
-  array (
-    0 => 'To educate yourself for the feeling of gratitude means to take nothing for granted, but to always seek out and value the kind that will stand behind the action. Nothing that is done for you is a matter of course. Everything originates in a will for the good, which is directed at you. Train yourself never to put off the word or action for the expression of gratitude.',
-    1 => 'Albert Schweitzer',
-  ),
-  16 => 
-  array (
-    0 => 'For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?',
-    1 => 'James Allen',
-  ),
-  17 => 
-  array (
-    0 => 'If a man has any greatness in him, it comes to light, not in one flamboyant hour, but in the ledger of his daily work.',
-    1 => 'Henry David Thoreau',
-  ),
-  18 => 
-  array (
-    0 => 'America has become a tired old whore, selling her institutions like back alley blowjobs to fat cat businessmen for their pocket change.',
-    1 => 'Rich Simons',
-  ),
-  19 => 
-  array (
-    0 => 'If there is no wind, row.',
-    1 => 'Latin Proverb',
-  ),
-  20 => 
-  array (
-    0 => 'We want to create puppets that pull their own strings.',
-    1 => 'Ann Marion',
-  ),
-  21 => 
-  array (
-    0 => 'The most difficult thing is the decision to act, the rest is merely tenacity.',
-    1 => 'Amelia Earhart',
-  ),
-  22 => 
-  array (
-    0 => 'The lesson is that you can still make mistakes and be forgiven.',
-    1 => 'Robert Downey Jr.',
-  ),
-  23 => 
-  array (
-    0 => 'It\'s not enough to be Hungarian; you must have talent too.',
-    1 => 'Alexander Korda',
-  ),
-  24 => 
-  array (
-    0 => 'Honesty may be the best policy, but it\'s important to remember that apparently, by elimination, dishonesty is the second-best policy.',
-    1 => 'George Carlin',
-  ),
-);
+return [
+    [
+        'Passion creates the desire for more and action fuelled by passion creates a future.',
+        'Byron Pulsifer',
+    ],
+    [
+        'I don\'t expect to live forever, but I do intend to hang on as long as possible.',
+        'Socrates',
+    ],
+    [
+        'Someone remembers, someone cares; your name is whispered in someone\'s prayers.',
+        '',
+    ],
+    [
+        'A champion is someone who gets up when he can\'t.',
+        'Jack Dempsey',
+    ],
+    [
+        'Perhaps one of the only positive pieces of advice that I was ever given was that supplied by an old courtier who observed: Only two rules really count. Never miss an opportunity to relieve yourself; never miss a chance to sit down and rest your feet.',
+        'Edward VIII',
+    ],
+    [
+        'I think the Cold War works as a great analogy or simile for different kinds of conflict. It\'s funny, when you look back at it, it\'s one of the last times that the boundaries were clear. Now, as we see on \'Homeland,\' there are no clear boundaries and enemies.',
+        'Matthew Rhys',
+    ],
+    [
+        'It\'s like Forrest Gump said, \'Life is like a box of chocolates.\' Your career is like a box of chocolates - you never know what you\'re going to get. But everything you get is going to teach you something along the way and make you the person you are today. That\'s the exciting part - it\'s an adventure in itself.',
+        'Nick Carter',
+    ],
+    [
+        'In the West, it was believed that attitude and ambition saved you. In Africa, we had learned that no one was immune to capricious tragedy.',
+        'Alexandra Fuller',
+    ],
+    [
+        'Me carrying a briefcase is like a hotdog wearing earrings.',
+        'Sparky Anderson',
+    ],
+    [
+        'If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much beyond what you might have expected.',
+        'Bill Gates',
+    ],
+    [
+        'You have to defend your honor. And your family.',
+        'Suzanne Vega',
+    ],
+    [
+        'A really great talent finds its happiness in execution.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'You may only succeed if you desire succeeding; you may only fail if you do not mind failing.',
+        'Philippos',
+    ],
+    [
+        'People who urge you to be realistic generally want you to accept their version of reality.',
+        'Unknown',
+    ],
+    [
+        'I don\'t mind where I work, it\'s really nice to be able to travel around and taste the flavours of different countries.',
+        'Toni Collette',
+    ],
+    [
+        'The common idea that success spoils people by making them vain, egotistic and self-complacent is erroneous; on the contrary it makes them, for the most part, humble, tolerant and kind.',
+        'W. Somerset Maugham',
+    ],
+    [
+        'The person who lives life fully, glowing with life\'s energy, is the person who lives a successful life.',
+        'Daisaku Ikeda',
+    ],
+    [
+        'Your performance depends on your people. Select the best, train them and back them. When errors occur, give sharper guidance. If errors persist or if the fit feels wrong, help them move on. The country cannot afford amateur hour in the White House.',
+        'Donald Rumsfeld',
+    ],
+    [
+        'Cynical realism is the intelligent man\'s best excuse for doing nothing in an intolerable situation.',
+        'Aldous Huxley',
+    ],
+    [
+        'I had two family members involved in World War I: two great-uncles. One of them is on a memorial in France. And the other was a trench runner who survived the war. The average life span of a trench runner was 36 hours, but he survived the whole war.',
+        'Ben Barnes',
+    ],
+    [
+        'There are two kinds of failures: those who thought and never did, and those who did and never thought.',
+        'Laurence J. Peter',
+    ],
+    [
+        'The most general law in nature is equity-the principle of balance and symmetry which guides the growth of forms along the lines of the greatest structural efficiency.',
+        'Herbert Read',
+    ],
+    [
+        'My father was an engineer and my mother was a social worker, and they met as young socialists. That probably tells you everything you need to know about my attitude to money - I\'ve never really been bothered about it.',
+        'Jo Brand',
+    ],
+    [
+        'When men have a smile on their faces, that does a lot for me.',
+        'Michelle Yeoh',
+    ],
+    [
+        'Boston is actually the capital of the world. You didn\'t know that? We breed smart-ass, quippy, funny people. Not that I\'m one of them. I just sorta sneaked in under the radar.',
+        'John Krasinski',
+    ],
+];

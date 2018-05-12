@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I will speak ill of no man, and speak all the good I know of everybody.',
-    1 => 'Benjamin Franklin',
-  ),
-  1 => 
-  array (
-    0 => 'If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.',
-    1 => 'Vannevar Bush',
-  ),
-  2 => 
-  array (
-    0 => 'When we protect ourselves so we won\'t feel pain, that protection becomes like armor, like armor that imprisons the softness of of the heart.',
-    1 => 'Pema Chodron',
-  ),
-  3 => 
-  array (
-    0 => 'If you work just for money, you\'ll never make it, but if you love what you\'re doing and you always put the customer first, success will be yours.',
-    1 => 'Ray Kroc',
-  ),
-  4 => 
-  array (
-    0 => 'Nothing that has ever been thought and said with a clear mind and pure ethical strength is totally in vain; even if it comes from a weak hand and is imperfectly formed, it inspires the ethical spirit to constantly renewed creation.',
-    1 => 'Stefan Zweig',
-  ),
-  5 => 
-  array (
-    0 => 'Do, or do not. There is no \'try.\'',
-    1 => 'Yoda',
-  ),
-  6 => 
-  array (
-    0 => 'I glance at the headlines just to kind of get a flavor for what\'s moving. I rarely read the stories, and get briefed by people who are probably read the news themselves.',
-    1 => 'George W. Bush, Washington, D.C.; September 21, 2003',
-  ),
-  7 => 
-  array (
-    0 => 'It is usually best to admit mistakes when they occur, and to seek to restore honor..',
-    1 => 'Iroh',
-  ),
-  8 => 
-  array (
-    0 => 'In the face of entropy and nothingness, you kind of have to pretend it\'s not there if you want to keep writing good code.',
-    1 => 'Karl',
-  ),
-  9 => 
-  array (
-    0 => 'Any sufficiently advanced technology is indistinguishable from magic.',
-    1 => 'Arthur C. Clarke',
-  ),
-  10 => 
-  array (
-    0 => 'People think your success is just a matter of having a pretty face. But it\'s easy to be chewed up and spat out. You\'ve got to stay ahead of the game to be able to stay in it.',
-    1 => 'Kate Moss',
-  ),
-  11 => 
-  array (
-    0 => 'You are the sky. Everything else – it\'s just the weather.',
-    1 => 'Pema Chodron',
-  ),
-  12 => 
-  array (
-    0 => 'Our lives are defined by opportunities, even the ones we miss.',
-    1 => 'Theodore Roosevelt',
-  ),
-  13 => 
-  array (
-    0 => 'Pride is not the opposite of shame, but it\'s source. True humility is the only antidote to shame.',
-    1 => 'Iroh of the Fire Nation',
-  ),
-  14 => 
-  array (
-    0 => 'A man who can laugh, if only at himself, is never really miserable.',
-    1 => 'H.L. Mencken, Minority Report, 1956',
-  ),
-  15 => 
-  array (
-    0 => 'Leadership is not a title, it\'s a behavior.',
-    1 => 'Robin Sharma',
-  ),
-  16 => 
-  array (
-    0 => 'It\'s not a problem, if you always win.',
-    1 => 'Harvey Specter',
-  ),
-  17 => 
-  array (
-    0 => 'Responsibility finds a way. Irresponsibilty makes excuses!',
-    1 => 'Gene Bedley',
-  ),
-  18 => 
-  array (
-    0 => 'It\'s not what we don\'t know that gets us into trouble, it\'s what we know that ain\'t so.',
-    1 => 'Will Rogers',
-  ),
-  19 => 
-  array (
-    0 => 'The two most important days in your life are the day you are born and the day you find out why.',
-    1 => 'Mark Twain',
-  ),
-  20 => 
-  array (
-    0 => 'The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they\'re all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn\'t it?',
-    1 => 'Dennis C. Blair',
-  ),
-  21 => 
-  array (
-    0 => 'Nobody can be exactly like me. Even I have trouble doing it.',
-    1 => 'Tallulah Bankhead',
-  ),
-  22 => 
-  array (
-    0 => 'Instruction does much, but encouragement does everything.',
-    1 => 'Johann Wolfgang Von Goethe',
-  ),
-  23 => 
-  array (
-    0 => 'I don\'t believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.',
-    1 => 'Ken Venturi',
-  ),
-  24 => 
-  array (
-    0 => 'It is better to be hated for what you are than to be loved for what you are not.',
-    1 => 'André Gide',
-  ),
-);
+return [
+    [
+        'The Wine of Life keeps oozing drop by drop, The Leaves of Life keep falling one by one.',
+        'Les Brown',
+    ],
+    [
+        'But with exquisite breathing you smile, with satisfaction of love, And I touch you again as you tick in the silence and settle in sleep.',
+        'Karl Shapiro',
+    ],
+    [
+        'Everyone who achieves success in a great venture, solves each problem as they came to it. They helped themselves. And they were helped through powers known and unknown to them at the time they set out on their voyage. They keep going regardless of the obstacles they met.',
+        'W. Clement Stone',
+    ],
+    [
+        'I have the curse of thinking funny!',
+        'Adam West',
+    ],
+    [
+        'Study hard so that you can master technology, which allows us to master nature.',
+        'Che Guevara',
+    ],
+    [
+        'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
+        'Smokey Robinson',
+    ],
+    [
+        'I was the kind nobody thought could make it. I had a funny Boston accent. I couldn\'t pronounce my R\'s. I wasn\'t a beauty.',
+        'Barbara Walters',
+    ],
+    [
+        'Time is money says the proverb, but turn it around and you get a precious truth. Money is time.',
+        'George Gissing',
+    ],
+    [
+        'I never thought I was particularly good looking. But when I see old photographs, I realise that I was. I do wish I had known that at the time because beauty is power. I didn\'t realise how lucky I was to be young, beautiful and in Hollywood. It didn\'t hit me. Every day I woke up, went to the film studio and just got on with it.',
+        'Joan Collins',
+    ],
+    [
+        'If you do what you love, it is the best way to relax.',
+        'Christian Louboutin',
+    ],
+    [
+        'If you want to become a great chef, you have to work with great chefs. And that\'s exactly what I did.',
+        'Gordon Ramsay',
+    ],
+    [
+        'Mathematics has beauty and romance. It\'s not a boring place to be, the mathematical world. It\'s an extraordinary place; it\'s worth spending time there.',
+        'Marcus du Sautoy',
+    ],
+    [
+        'A horse is a thing of beauty... none will tire of looking at him as long as he displays himself in his splendor.',
+        'Xenophon',
+    ],
+    [
+        'When everything else physical and mental seems to diminish, the appreciation of beauty is on the increase.',
+        'Bernard Berenson',
+    ],
+    [
+        'We are often told we can\'t have brains and beauty, and I really hope that my message is that you can put on that red lip and curl your hair and put on that power dress - you don\'t have to sacrifice one for the other.',
+        'Tyra Banks',
+    ],
+    [
+        'Design is not just what it looks like and feels like. Design is how it works',
+        'Steve Jobs',
+    ],
+    [
+        'Gratitude is riches. Complaint is poverty.',
+        'Doris Day',
+    ],
+    [
+        'The single biggest surprise about arriving to the Senate is the defeatist attitude here.',
+        'Ted Cruz',
+    ],
+    [
+        'Work expands so as to fill the time available for its completion.',
+        'C. Northcote Parkinson',
+    ],
+    [
+        'I never smile when I have a bat in my hands. That\'s when you\'ve got to be serious. When I get out on the field, nothing\'s a joke to me. I don\'t feel like I should walk around with a smile on my face.',
+        'Hank Aaron',
+    ],
+    [
+        'First, I was so dazzled and besotted by India. People said the poverty was biblical, and I\'m afraid that was my attitude, too. It\'s terribly easy to get used to someone else\'s poverty if you\'re living a middle-class life in it. But after a while, I saw it wasn\'t possible to accept it, and I also didn\'t want to.',
+        'Ruth Prawer Jhabvala',
+    ],
+    [
+        'There is nothing impossible to him who will try.',
+        'Alexander the Great',
+    ],
+    [
+        'Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.',
+        'Milan Kundera',
+    ],
+    [
+        'I follow three rules: Do the right thing, do the best you can, and always show people you care.',
+        'Lou Holtz',
+    ],
+    [
+        'Life is the art of drawing without an eraser.',
+        'Walt Disney',
+    ],
+];

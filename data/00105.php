@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I can\'t understand why people are frightened of new ideas. I\'m frightened of the old ones.',
-    1 => 'John Cage',
-  ),
-  1 => 
-  array (
-    0 => 'I am ready to meet my Maker. Whether my Maker is prepared for the great ordeal of meeting me is another matter.',
-    1 => 'Winston Churchill',
-  ),
-  2 => 
-  array (
-    0 => 'In the end, you make your reputation and you have your success based upon credibility and being able to provide people who are really hungry for information what they want.',
-    1 => 'Brit Hume',
-  ),
-  3 => 
-  array (
-    0 => 'Setting goals is the first step into turning the invisible into the visible.',
-    1 => 'Tony Robbins',
-  ),
-  4 => 
-  array (
-    0 => 'If I\'d had to manage my company myself, I would have very quickly gone bankrupt.',
-    1 => 'Soichiro Honda',
-  ),
-  5 => 
-  array (
-    0 => 'Can you imagine what I would do if I could do all I can?',
-    1 => 'Jeff Rich',
-  ),
-  6 => 
-  array (
-    0 => 'The secret of getting ahead is getting started.',
-    1 => 'Mark Twain',
-  ),
-  7 => 
-  array (
-    0 => 'Humility must always be the portion of any man who receives acclaim earned in the blood of his followers and the sacrifices of his friends.',
-    1 => 'Dwight D. Eisenhower',
-  ),
-  8 => 
-  array (
-    0 => 'When you stop chasing the wrong things, you give the right things a chance to catch you.',
-    1 => 'Lolly Daskal',
-  ),
-  9 => 
-  array (
-    0 => 'No amount of ability is of the slightest avail without honor.',
-    1 => 'Henry Ward Beecher',
-  ),
-  10 => 
-  array (
-    0 => 'I don\'t know what your destiny will be, but one thing I do know: the only ones among you who will be really happy are those who have sought and found how to serve.',
-    1 => 'Albert Schweitzer',
-  ),
-  11 => 
-  array (
-    0 => 'We can choose to be affected by the world or we can choose to affect the world.',
-    1 => 'Henry David Thoreau',
-  ),
-  12 => 
-  array (
-    0 => 'The fears we don\'t face become our limits.',
-    1 => 'Robin Sharma',
-  ),
-  13 => 
-  array (
-    0 => 'Nothing is impossible, the word itself says \'I\'m possible\'!',
-    1 => 'Audrey Hepburn',
-  ),
-  14 => 
-  array (
-    0 => 'Learn to limit yourself; to content yourself with some definite work; dare to be what you are and learn to resign with a good grace all that you are not; and to believe in your own individuality.',
-    1 => 'Henri-Frederic Amiel',
-  ),
-  15 => 
-  array (
-    0 => 'When we are no longer able to change a situation, we are challenged to change ourselves.',
-    1 => 'Viktor E. Frankl',
-  ),
-  16 => 
-  array (
-    0 => 'Whatever the mind of man can conceive and believe, it can achieve.',
-    1 => 'Napoleon Hill',
-  ),
-  17 => 
-  array (
-    0 => 'Being happy is of the utmost importance. Success in anything is through happiness.',
-    1 => 'Maharishi Mahesh Yogi',
-  ),
-  18 => 
-  array (
-    0 => 'Refuse to accept the belief that your professional relevance, career success or financial security turns on the next update on the latest technology. Sometimes it\'s good to put the paddle down and just let the canoe glide.',
-    1 => 'Simon Mainwaring',
-  ),
-  19 => 
-  array (
-    0 => 'One may be able to quibble about the quality of a single experiment, or about the veracity of a given experimenter, but, taking all the supportive experiments together, the weight of evidence is so strong as readily to merit a wise man\'s reflection.',
-    1 => 'Professor William Tiller, parapsychologist, Stanford University,
-           commenting on psi research',
-  ),
-  20 => 
-  array (
-    0 => 'Friends show their love in times of trouble, not in happiness.',
-    1 => 'Euripides',
-  ),
-  21 => 
-  array (
-    0 => 'Integrity is so perishable in the summer months of success.',
-    1 => 'Vanessa Redgrave',
-  ),
-  22 => 
-  array (
-    0 => 'I don\'t believe in death, neither in flesh nor in spirit.',
-    1 => 'Bob Marley',
-  ),
-  23 => 
-  array (
-    0 => 'There\'s a hell of a distance between wise-cracking and wit. Wit has truth in it; wise-cracking is simply calisthenics with words.',
-    1 => 'Dorothy Parker',
-  ),
-  24 => 
-  array (
-    0 => 'The world is moving so fast these days that the man who says it can\'t be done is generally interrupted by someone doing it.',
-    1 => 'Elbert Hubbard',
-  ),
-);
+return [
+    [
+        'Normal is getting dressed in clothes that you buy for work, driving through traffic in a car that you are still paying for, in order to get to a job that you need so you can pay for the clothes, car and the house that you leave empty all day in order to afford to live in it.',
+        'Ellen Goodman',
+    ],
+    [
+        'I read on my iPad when I travel. I listen to audiobooks in the car. I read books in my bedroom, where I have a comfortable couch, a lamp and two dogs to keep me warm.',
+        'Isabel Allende',
+    ],
+    [
+        'Today is the only day. Yesterday is gone.',
+        'John Wooden',
+    ],
+    [
+        'I think about my work every minute of the day.',
+        'Jeff Koons',
+    ],
+    [
+        'You\'re never a loser until you quit trying.',
+        'Mike Ditka',
+    ],
+    [
+        'Know how to live the time that is given you.',
+        'Dario Fo',
+    ],
+    [
+        'To me, success is choice and opportunity.',
+        'Harrison Ford',
+    ],
+    [
+        'Spending time outdoors makes you feel great.',
+        'Elizabeth Hurley',
+    ],
+    [
+        'Remember that failure is an event, not a person.',
+        'Zig Ziglar',
+    ],
+    [
+        'Above and beyond having the social life, to have a core group of people that you work with and spend time with and learn how to work with is a nice thing.',
+        'Shawn Ashmore',
+    ],
+    [
+        'Automobiles have always been part of my life, and I\'m sure they always will be. What is it about them that moves me? The sound of a great engine, the unity and uniqueness of an automobile\'s engineering and coachwork, the history of the company and the car, and, of course, the sheer beauty of the thing.',
+        'Edward Herrmann',
+    ],
+    [
+        'I hate to be a failure. I hate and regret the failure of my marriages. I would gladly give all my millions for just one lasting marital success.',
+        'J. Paul Getty',
+    ],
+    [
+        'Soul travel can be a general expansion of awareness and knowingness or conscious experience of the heavenly worlds.',
+        'Bob Hayes',
+    ],
+    [
+        'People, unprotected by their roles, become isolated in beauty and intellect and illness and confusion.',
+        'Richard Avedon',
+    ],
+    [
+        'Respectable means rich, and decent means poor. I should die if I heard my family called decent.',
+        'Thomas Mann',
+    ],
+    [
+        'The best way to look stylish on a budget is to try second-hand, bargain hunting, and vintage.',
+        'Orlando Bloom',
+    ],
+    [
+        'There is little success where there is little laughter.',
+        'Andrew Carnegie',
+    ],
+    [
+        'A lot of us grow up and we grow out of the literal interpretation that we get when we\'re children, but we bear the scars all our life. Whether they\'re scars of beauty or scars of ugliness, it\'s pretty much in the eye of the beholder.',
+        'Stephen King',
+    ],
+    [
+        'Laughter and joy are part of the beauty of life.',
+        'Diogo Morgado',
+    ],
+    [
+        'If there is any one secret of success, it lies in the ability to get the other person\'s point of view and see things from that person\'s angle as well as from your own.',
+        'Henry Ford',
+    ],
+    [
+        'I try to be as positive as I can because I truly believe I am my feelings, and if I\'m sad, if I have regrets, they will show up as illnesses, they will show up as cancers... I don\'t want that.',
+        'Marie Helvin',
+    ],
+    [
+        'When I started out the videos, I was dealing with depression, and I wanted to make inspiring videos for others, which would end up inspiring me in turn. I wanted to show the world that it was possible to make a positive switch in life and start over.',
+        'Lilly Singh',
+    ],
+    [
+        'Life without love is like a tree without blossoms or fruit.',
+        'Berthold Auerbach',
+    ],
+    [
+        'I look my best when I\'m totally free, on holiday, walking on the beach.',
+        'Rosamund Pike',
+    ],
+    [
+        'The joke in our family is that we can cry reading the phone book.',
+        'Ron Reagan',
+    ],
+];

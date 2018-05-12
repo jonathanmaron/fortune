@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Love is the most difficult and dangerous form of courage. Courage is the most desperate, admirable and noble kind of love.',
-    1 => 'Delmore Schwartz',
-  ),
-  1 => 
-  array (
-    0 => 'There is an immutable conflict at work in life and in business, a constant battle between peace and chaos. Neither can be mastered, but both can be influenced. How you go about that is the key to success.',
-    1 => 'Phil Knight',
-  ),
-  2 => 
-  array (
-    0 => 'I\'ve had great success being a total idiot.',
-    1 => 'Jerry Lewis',
-  ),
-  3 => 
-  array (
-    0 => 'From what we get, we can make a living; what we give, however, makes a life.',
-    1 => 'Arthur Ashe',
-  ),
-  4 => 
-  array (
-    0 => 'When you\'re working hard and doing all you can to achieve your goals, anything that can give you an edge is powerful and will streamline your path to success.',
-    1 => 'Travis Bradberry',
-  ),
-  5 => 
-  array (
-    0 => 'Every tomorrow has two handles. We can take hold of it with the handle of anxiety or the handle of faith.',
-    1 => 'Henry Ward Beecher',
-  ),
-  6 => 
-  array (
-    0 => 'We are all in the gutter, but some of us are looking at the stars.',
-    1 => 'Oscar Wilde',
-  ),
-  7 => 
-  array (
-    0 => 'I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.',
-    1 => 'Robert Fulghum',
-  ),
-  8 => 
-  array (
-    0 => 'A long apprenticeship is the most logical way to success. The only alternative is overnight stardom, but I can\'t give you a formula for that.',
-    1 => 'Chet Atkins',
-  ),
-  9 => 
-  array (
-    0 => 'interest for 100 years will become $100,000, at which time it will be worth absolutely nothing.',
-    1 => 'Lazarus Long, "Time Enough for Love"',
-  ),
-  10 => 
-  array (
-    0 => 'It may take courage to embrace the possibilities of your own potential, but once you\'ve flown past the summit of your fears, nothing will seem impossible.',
-    1 => 'Michael McKee',
-  ),
-  11 => 
-  array (
-    0 => 'Overload',
-    1 => 'core meltdown sequence initiated.',
-  ),
-  12 => 
-  array (
-    0 => 'Never allow the fear of striking out keep you from playing the game!',
-    1 => 'Babe Ruth',
-  ),
-  13 => 
-  array (
-    0 => 'If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a year, inherit a fortune. If you want happiness for a lifetime, help somebody.',
-    1 => 'Chinese Proverb',
-  ),
-  14 => 
-  array (
-    0 => 'Service to a just cause rewards the worker with more real happiness and satisfaction than any other venture of life.',
-    1 => 'Carrie Chapman Catt',
-  ),
-  15 => 
-  array (
-    0 => 'Throw out your gold teeth / And see how they roll.
-The answer they reveal: / Life is unreal.',
-    1 => 'Steely Dan',
-  ),
-  16 => 
-  array (
-    0 => 'If I had a hammer, I\'d use it on Peter, Paul and Mary.',
-    1 => 'Howard Rosenberg',
-  ),
-  17 => 
-  array (
-    0 => 'Willpower is the key to success. Successful people strive no matter what they feel by applying their will to overcome apathy, doubt or fear.',
-    1 => 'Dan Millman',
-  ),
-  18 => 
-  array (
-    0 => 'Without coffee he could not work, or at least he could not have worked in the way he did. In addition to paper and pens, he took with him everywhere as an indispensable article of equipment the coffee machine, which was no less important to him than his table or his white robe.',
-    1 => 'Stefan Zweigs, Biography of Balzac',
-  ),
-  19 => 
-  array (
-    0 => 'It\'s kind of fun to do the impossible.',
-    1 => 'Walt Disney',
-  ),
-  20 => 
-  array (
-    0 => 'I\'ll bet the human brain is a kludge.',
-    1 => 'Marvin Minsky',
-  ),
-  21 => 
-  array (
-    0 => 'It is your duty to leave another man\'s wrongful act there, where it is.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IX',
-  ),
-  22 => 
-  array (
-    0 => 'Sometimes the best way to solve your own problems is to help someone else.',
-    1 => 'Iroh',
-  ),
-  23 => 
-  array (
-    0 => 'Shatter all fears.',
-    1 => 'Robin Sharma',
-  ),
-  24 => 
-  array (
-    0 => 'Listening is a magnetic and strange thing, a creative force. The friends who listen to us are the ones we move toward. When we are listened to, it creates us, makes us unfold and expand.',
-    1 => 'Dr. Karl Augustus Menninger',
-  ),
-);
+return [
+    [
+        'We cannot change our memories, but we can change their meaning and the power they have over us.',
+        'David Seamans',
+    ],
+    [
+        'The truth you believe and cling to makes you unavailable to hear anything new.',
+        'Pema Chodron',
+    ],
+    [
+        'Adopting the right attitude can convert a negative stress into a positive one.',
+        'Hans Selye',
+    ],
+    [
+        'Like all my family and class, I considered it a sign of weakness to show affection; to have been caught kissing my mother would have been a disgrace, and to have shown affection for my father would have been a disaster.',
+        'Agnes Smedley',
+    ],
+    [
+        'The fear of this delicate and fierce feminine has more to do with our fear of being vulnerable again, getting hurt again, than it does by our actual distaste for the beauty of the feminine and Her qualities.',
+        'Alanis Morissette',
+    ],
+    [
+        'I read everything: fiction, history, science, mathematics, biography, travel.',
+        'Martin Lewis Perl',
+    ],
+    [
+        "We live in a quick-fix society where we need instant gratification for everything. Too fat? Get lipo-sucked. Stringy hair? Glue on extensions. Wrinkles and lines? Head to the beauty shop for a pot of the latest miracle skin stuff. It's all a beautiful \u{a3}1 billion con foisted upon insecure women by canny cosmetic conglomerates.",
+        'Joan Collins',
+    ],
+    [
+        'Time is flying never to return.',
+        'Virgil',
+    ],
+    [
+        'The rain began again. It fell heavily, easily, with no meaning or intention but the fulfilment of its own nature, which was to fall and fall.',
+        'Helen Garner',
+    ],
+    [
+        'We are constituted so that simple acts of kindness, such as giving to charity or expressing gratitude, have a positive effect on our long-term moods. The key to the happy life, it seems, is the good life: a life with sustained relationships, challenging work, and connections to community.',
+        'Paul Bloom',
+    ],
+    [
+        'The spirit of L.A. is untamed wilderness. It\'s earthquakes and wildfires and oceans and mountain lions and fog. There\'s great physical beauty.',
+        'Dan Gilroy',
+    ],
+    [
+        'I\'m a positive man.',
+        'Mariano Rivera',
+    ],
+    [
+        'Both my father and mother were survivors of the Warsaw Ghetto and the Nazi concentration camps. Apart from my parents, every family member on both sides was exterminated by the Nazis.',
+        'Norman Finkelstein',
+    ],
+    [
+        'Being black is not a matter of pigmentation - being black is a reflection of a mental attitude.',
+        'Steven Biko',
+    ],
+    [
+        'We worked so hard, spent so much time in weight room and in camps to be where we are today. We wanted to come out and be as good as any team in the state, to prove we could hang with any team at any time.',
+        'Anthony Davis',
+    ],
+    [
+        'You must welcome change as the rule but not as your ruler.',
+        'Denis Waitley',
+    ],
+    [
+        'Experience keeps a dear school, but fools will learn in no other.',
+        'Benjamin Franklin',
+    ],
+    [
+        'There is nothing stronger in the world than gentleness.',
+        'Han Suyin',
+    ],
+    [
+        'Life is one grand, sweet song, so start the music.',
+        'Buddha',
+    ],
+    [
+        'Coffee has always been a significant part of my life. For me, it\'s a chance to start my day and gather my thoughts - it\'s fuel for my creative process.',
+        'Jessica Savitch',
+    ],
+    [
+        'Trust only movement. Life happens at the level of events, not of words. Trust movement.',
+        'Alfred Adler',
+    ],
+    [
+        'I won\'t be a rock star. I will be a legend.',
+        'Freddie Mercury',
+    ],
+    [
+        'Reason and free inquiry are the only effectual agents against error.',
+        'Thomas Jefferson',
+    ],
+    [
+        'I feel that the best companies are started not because the founder wanted a company but because the founder wanted to change the world... If you decide you want to found a company, you maybe start to develop your first idea. And hire lots of workers.',
+        'Mark Zuckerberg',
+    ],
+    [
+        'It is a scientific fact that your body will not absorb cholesterol if you take it from another person\'s plate.',
+        'Dave Barry',
+    ],
+];

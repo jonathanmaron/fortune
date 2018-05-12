@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'All through human history, tyrannies have tried to enforce obedience by prohibiting disrespect for the symbols of their power. The swastika is only one example of many in recent history.',
-    1 => 'American Bar Association task force on flag burning',
-  ),
-  1 => 
-  array (
-    0 => 'It is impossible to travel faster than light, and certainly not desirable, as one\'s hat keeps blowing off.',
-    1 => 'Woody Allen',
-  ),
-  2 => 
-  array (
-    0 => 'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
-    1 => 'Anatole France',
-  ),
-  3 => 
-  array (
-    0 => 'I know nothing except the fact of my ignorance.',
-    1 => 'Socrates',
-  ),
-  4 => 
-  array (
-    0 => 'Faith, a gift from God, is one of the most powerful forces governing our universe, just as the unseen power of gravity works to pull all things down, the unseen power of faith works to lifts all things up.',
-    1 => 'Gene Griffin',
-  ),
-  5 => 
-  array (
-    0 => 'Kill them with success, Bury them with a smile.',
-    1 => 'Harvey Specter',
-  ),
-  6 => 
-  array (
-    0 => 'If you are never scared, embarrassed, or hurt, it means you never take chances.',
-    1 => 'Julia Soul',
-  ),
-  7 => 
-  array (
-    0 => 'Always forgive your enemies - nothing annoys them so much.',
-    1 => 'Oscar Wilde',
-  ),
-  8 => 
-  array (
-    0 => 'Not everything that counts can be counted, and not everything that can be counted counts.',
-    1 => 'Albert Einstein',
-  ),
-  9 => 
-  array (
-    0 => 'The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else\'s highlight reel.',
-    1 => 'Steve Furtick',
-  ),
-  10 => 
-  array (
-    0 => 'Making money doesn\'t oblige people to forfeit their honor or their conscience.',
-    1 => 'Baron Guy de Rothschild',
-  ),
-  11 => 
-  array (
-    0 => 'Compassion will cure more sins than condemnation.',
-    1 => 'Henry Ward Beecher',
-  ),
-  12 => 
-  array (
-    0 => 'I do not mind what language an opera is sung in so long as it is a language I don\'t understand.',
-    1 => 'Sir Edware Appleton',
-  ),
-  13 => 
-  array (
-    0 => 'You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.',
-    1 => 'Walt Disney',
-  ),
-  14 => 
-  array (
-    0 => 'Have regular hours for work and play; make each day both useful and pleasant, and prove that you understand the worth of time by employing it well. Then youth will be delightful, old age will bring few regrets, and life will become a beautiful success.',
-    1 => 'Louisa May Alcott',
-  ),
-  15 => 
-  array (
-    0 => 'There is one thing one has to have: either a soul that is cheerful by nature, or a soul made cheerful by work, love, art, and knowledge.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  16 => 
-  array (
-    0 => 'Lovers don\'t finally meet somewhere. They\'re in each other all along.',
-    1 => 'Rumi',
-  ),
-  17 => 
-  array (
-    0 => 'A little retrospection shows that although many fine, useful software systems have been designed by committees and built as part of multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers. Consider Unix, APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast them with Cobol, PL/I, Algol, MVS/370, and MS-DOS.',
-    1 => 'Fred Brooks, Jr.',
-  ),
-  18 => 
-  array (
-    0 => 'All men\'s gains are the fruit of venturing.',
-    1 => 'Herodotus',
-  ),
-  19 => 
-  array (
-    0 => 'In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it.',
-    1 => 'Jane Smiley',
-  ),
-  20 => 
-  array (
-    0 => 'Keep your face always toward the sunshine - and shadows will fall behind you.',
-    1 => 'Walt Whitman',
-  ),
-  21 => 
-  array (
-    0 => 'Genderplex, n.:
-        The predicament of a person in a restaurant who is unable to determine his or her designated restroom (e.g., turtles and tortoises).',
-    1 => 'Rich Hall, "Sniglets"',
-  ),
-  22 => 
-  array (
-    0 => 'It is better to be hated for what you are than loved for what you aren\'t.',
-    1 => 'André Gide',
-  ),
-  23 => 
-  array (
-    0 => 'Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don\'t quit.',
-    1 => 'Conrad Hilton',
-  ),
-  24 => 
-  array (
-    0 => 'Don\'t trust people whose feelings change with time. Trust people whose feelings remain the same, even when the time changes.',
-    1 => 'Bob Marley',
-  ),
-);
+return [
+    [
+        'Time is the scarcest resource and unless it is managed nothing else can be managed.',
+        'Peter Drucker',
+    ],
+    [
+        'I really love showing up at work at 10 A.M., trying to make it funny until 3 P.M., and then going home. It\'s like comedy bankers\' hours.',
+        'Chris Eigeman',
+    ],
+    [
+        'The most irresistible charm of youth is its bubbling enthusiasm. Youth sees no darkness ahead - no defile that has no outlet - it forgets that there is such a thing as failure in the world and believes that mankind has been waiting all these centuries for him to come and be the liberator of truth and energy and beauty.',
+        'Orison Swett Marden',
+    ],
+    [
+        'In Reykjavik, Iceland, where I was born, you are in the middle of nature surrounded by mountains and ocean. But you are still in a capital in Europe. So I have never understood why I have to choose between nature or urban.',
+        'Bjork',
+    ],
+    [
+        'If one does not know to which port is sailing, no wind is favorable.',
+        'Seneca',
+    ],
+    [
+        'To me, the word \'hero\' hasn\'t got positive or negative value - \'hero\' is the person who leads you through the story.',
+        'Pierfrancesco Favino',
+    ],
+    [
+        'The best way to afford a suit is to work.',
+        'Emmanuel Macron',
+    ],
+    [
+        'Give light, and the darkness will disappear of itself.',
+        'Desiderius Erasmus',
+    ],
+    [
+        'Writing and travel broaden your ass if not your mind and I like to write standing up.',
+        'Ernest Hemingway',
+    ],
+    [
+        'Nature is the master of talents; genius is the master of nature.',
+        'Josiah Gilbert Holland',
+    ],
+    [
+        'It would be pretty funny to see a Beverly Hills white girl with mad rap skills.',
+        'Tori Spelling',
+    ],
+    [
+        'No valid plans for the future can be made by those who have no capacity for living now.',
+        'Alan Watts',
+    ],
+    [
+        'Together with a culture of work, there must be a culture of leisure as gratification. To put it another way: people who work must take the time to relax, to be with their families, to enjoy themselves, read, listen to music, play a sport.',
+        'Pope Francis',
+    ],
+    [
+        'I am seeking, I am striving, I am in it with all my heart.',
+        'Vincent Van Gogh',
+    ],
+    [
+        'Efficiency is doing things right; effectiveness is doing the right things.',
+        'Peter Drucker',
+    ],
+    [
+        'To give anything less than your best, is to sacrifice the gift.',
+        'Steve Prefontaine',
+    ],
+    [
+        'Deep in their roots, all flowers keep the light.',
+        'Theodore Roethke',
+    ],
+    [
+        'The people who influence you are the people who believe in you.',
+        'Henry Drummond',
+    ],
+    [
+        'I love the simplicity, the ingredients, the culture, the history and the seasonality of Italian cuisine. In Italy people do not travel. They cook the way grandma did, using fresh ingredients and what is available in season.',
+        'Anne Burrell',
+    ],
+    [
+        'The best scientists and explorers have the attributes of kids! They ask question and have a sense of wonder. They have curiosity. \'Who, what, where, why, when, and how!\' They never stop asking questions, and I never stop asking questions, just like a five year old.',
+        'Sylvia Earle',
+    ],
+    [
+        'I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.',
+        'Buddha',
+    ],
+    [
+        'This feat I also had no idea how to accomplish, but ignorance had never stopped me from taking action before.',
+        'Viet Thanh Nguyen',
+    ],
+    [
+        'Do I believe in coupling? Do I believe in commitment? Do I believe in co-parenting, raising children together, having a family, and growing old with someone? I absolutely believe in all of those things. I just don\'t believe that you need to be married to do that. I love going to weddings, though. I do love a good wedding.',
+        'Laura Wasser',
+    ],
+    [
+        'I had seen movies before that that had made me laugh, but I had never seen anything even remotely close to as funny as Richard Pryor was, just standing there talking.',
+        'Joe Rogan',
+    ],
+    [
+        'I\'ve three children, three grandchildren, I work, I travel, and I\'m very happily married. I\'m very satisfied and happy with my life and there really isn\'t anything I want.',
+        'Joan Collins',
+    ],
+];

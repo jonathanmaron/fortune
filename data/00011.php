@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'In the future, you\'re going to get computers as prizes in breakfast cereals. You\'ll throw them out because your house will be littered with them.',
-    1 => 'Robert Lucky',
-  ),
-  1 => 
-  array (
-    0 => 'If we cannot now end our differences, at least we can help made the world safe for diversity.',
-    1 => 'John F. Kennedy',
-  ),
-  2 => 
-  array (
-    0 => 'Science has proof without any certainty. Creationists have certainty without any proof.',
-    1 => 'Ashley Montague',
-  ),
-  3 => 
-  array (
-    0 => 'When we serve we experience, when we experience we teach, when we teach we learn, when we learn our lives are permanently changed, and as our lives are changed we are enriched beyond our wildest dreams.',
-    1 => 'Jaren L. Davis',
-  ),
-  4 => 
-  array (
-    0 => 'The ones who are crazy enough to think they can change the world, are the ones who do.',
-    1 => 'Anonymous',
-  ),
-  5 => 
-  array (
-    0 => 'The most beautiful thing in the world is, of course, the world itself.',
-    1 => 'Wallace Stevens',
-  ),
-  6 => 
-  array (
-    0 => 'No matter where you go, there you are.',
-    1 => 'Buckaroo Banzai',
-  ),
-  7 => 
-  array (
-    0 => 'If Java had true garbage collection, most programs would delete themselves upon execution.',
-    1 => 'Robert Sewell',
-  ),
-  8 => 
-  array (
-    0 => 'Make no little plans. They have no Magic to stir Men\'s blood.',
-    1 => 'D. B. Hudson',
-  ),
-  9 => 
-  array (
-    0 => 'I take great pride in all the tremendous success we\'ve enjoyed at CBS. And the good news is that I feel even more enthusiastic about what my terrific team and I will accomplish going forward.',
-    1 => 'Leslie Moonves',
-  ),
-  10 => 
-  array (
-    0 => 'Do your little bit of good where you are; its those little bits of good put together that overwhelm the world.',
-    1 => 'Archbishop Desmond Tutu',
-  ),
-  11 => 
-  array (
-    0 => 'Time is an illusion perpetrated by the manufacturers of space.',
-    1 => 'Graffiti',
-  ),
-  12 => 
-  array (
-    0 => 'But the best teams I\'ve encountered have one important thing in common: their team structure and processes cover a full range of distinct competencies necessary for success.',
-    1 => 'Jesse James Garrett',
-  ),
-  13 => 
-  array (
-    0 => 'Greatness begins beyond your comfort zone.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => '"You\'re not your job. You\'re not how much money you have in the bank.
- You\'re not the car you drive. You\'re not the contents of your wallet.
- You\'re not your fucking khakis. You\'re the all-singing, all-dancing crap of the world."',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  15 => 
-  array (
-    0 => 'Compassion is the ultimate and most meaningful embodiment of emotional maturity. It is through compassion that a person achieves the highest peak and deepest reach in his or her search for self-fulfillment.',
-    1 => 'Arthur Jersild',
-  ),
-  16 => 
-  array (
-    0 => 'Those who can adapt to change are those who will continue to grow.',
-    1 => 'Justin Ramalho',
-  ),
-  17 => 
-  array (
-    0 => 'But groundless hope, like unconditional love, is the only kind worth having.',
-    1 => 'John Perry Barlow',
-  ),
-  18 => 
-  array (
-    0 => 'An economist is a man who states the obvious in terms of the incomprehensible.',
-    1 => 'Alfred A. Knopf',
-  ),
-  19 => 
-  array (
-    0 => 'Letting go of control is the best way to regain total control.',
-    1 => 'Joshua Fields Millburn',
-  ),
-  20 => 
-  array (
-    0 => 'If you\'re going to be able to look back on something and laugh about it, you might as well laugh about it now.',
-    1 => 'Marie Osmond',
-  ),
-  21 => 
-  array (
-    0 => 'The only limit to our realization of tomorrow will be our doubts of today.',
-    1 => 'Franklin Roosevelt',
-  ),
-  22 => 
-  array (
-    0 => 'Behold I do not give lectures or a little charity, When I give I give myself.',
-    1 => 'Walt Whitman',
-  ),
-  23 => 
-  array (
-    0 => 'The way you start your day determines how well you live your day.',
-    1 => 'Robin Sharma',
-  ),
-  24 => 
-  array (
-    0 => 'When you get in a tight place and everything goes against you, till it seems as though you could not hold on a minute longer, never give up then, for that is just the place and time that the tide will turn.',
-    1 => 'Harriet Beecher Stowe',
-  ),
-);
+return [
+    [
+        'The one thing that makes me feel super lucky about my financial success is that I have a housekeeper.',
+        'Gwen Stefani',
+    ],
+    [
+        'The fun part of being a girl is that there are little beauty things you can do to make yourself feel special.',
+        'Jennifer Love Hewitt',
+    ],
+    [
+        'If you look at attitudes today and where they are headed, it\'s clear to me that supporting equal rights, including the rights to civil marriage, is a net positive for winning elections, as well as the right thing to do.',
+        'Ken Mehlman',
+    ],
+    [
+        'Being positive may be a character defect of mine.',
+        'Quentin Blake',
+    ],
+    [
+        'If the path be beautiful, let us not ask where it leads.',
+        'Anatole France',
+    ],
+    [
+        'You can\'t create in a vacuum. Life gives you the material and dreams can propel new beginnings.',
+        'Byron Pulsifer',
+    ],
+    [
+        'I am not afraid... I was born to do this.',
+        'Joan of Arc',
+    ],
+    [
+        'We live in a rainbow of chaos.',
+        'Sarah Louise Delany',
+    ],
+    [
+        'I like funny guys and those, for some reason, tend to be nerdy guys.',
+        'Megan Fox',
+    ],
+    [
+        'Time you enjoyed wasting was not wasted.',
+        'John Lennon',
+    ],
+    [
+        'Songwriting is like editing. You write down all this stuff - all this bad, stupid stuff - and then you have to get rid of everything except the very best.',
+        'Juliana Hatfield',
+    ],
+    [
+        'A person who won\'t read has no advantage over one who can\'t read',
+        'Mark Twain',
+    ],
+    [
+        'One of the advantages of being disorderly is that one is constantly making exciting discoveries.',
+        'A. A. Milne',
+    ],
+    [
+        'Propaganda has a negative connotation, which it partially deserves, but I think there is some propaganda that is very positive. I feel that if you can do something that gets people\'s attention, then maybe they\'ll go and find out more about the person.',
+        'Shepard Fairey',
+    ],
+    [
+        'Do not hire a man who does your work for money, but him who does it for love of it.',
+        'Henry David Thoreau',
+    ],
+    [
+        'You don\'t have to give birth to someone to have a family.',
+        'Sandra Bullock',
+    ],
+    [
+        'The human mind is capable of excitement without the application of gross and violent stimulants; and he must have a very faint perception of its beauty and dignity who does not know this.',
+        'William Wordsworth',
+    ],
+    [
+        'Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?',
+        'Tony Robbins',
+    ],
+    [
+        'When a woman puts on a heel, she has a different posture, a different attitude. She really stands up and has a consciousness of her body.',
+        'Christian Louboutin',
+    ],
+    [
+        'Most folks are about as happy as they make up their minds to be.',
+        'Abraham Lincoln',
+    ],
+    [
+        'The most effective check and balance on government has been an independent press which maintains its credibility by ensuring that its criticism is balanced and based on fact - based indeed on solid journalistic work.',
+        'Malcolm Turnbull',
+    ],
+    [
+        'The \'Aladdin\' thing - that\'s not work; that\'s just fun. Three days in the recording studio going mad, then the animators do all the work. Not a bad way to cash a large check, my friend.',
+        'Robin Williams',
+    ],
+    [
+        'Money can\'t buy life.',
+        'Albert Schweitzer',
+    ],
+    [
+        'Discovering your purpose doesn\'t have to be complicated. Look at what you do and why you do it. Is it to support your family? That\'s your purpose. Is it to make a difference in your customer\'s life? That\'s your purpose.',
+        'Anne F. Beiler',
+    ],
+    [
+        'I want it said of me by those who knew me best, that I always plucked a thistle and planted a flower where I thought a flower would grow.',
+        'Abraham Lincoln',
+    ],
+];

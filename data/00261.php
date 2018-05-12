@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I am a slow walker, but I never walk backwards.',
-    1 => 'Abraham Lincoln',
-  ),
-  1 => 
-  array (
-    0 => 'The reason most people never reach their goals is that they don\'t define them, learn about them, or even seriously consider them as believable or achievable.',
-    1 => 'Dennis Waitley',
-  ),
-  2 => 
-  array (
-    0 => 'Failure is an opportunity to begin again more intelligently.',
-    1 => 'Henry Ford.',
-  ),
-  3 => 
-  array (
-    0 => 'It\'s not that I\'m afraid to die. I just don\'t want to be there when it happens.',
-    1 => 'Woody Allen',
-  ),
-  4 => 
-  array (
-    0 => 'Believe that you can do it cause you can do it.',
-    1 => 'Bob Ross',
-  ),
-  5 => 
-  array (
-    0 => 'Let go of distractions—make room for intention.',
-    1 => 'Joshua Fields Millburn',
-  ),
-  6 => 
-  array (
-    0 => 'Equations are the devil\'s sentences.',
-    1 => 'Stephen Colbert',
-  ),
-  7 => 
-  array (
-    0 => 'Things are not as simple as they seems at first.',
-    1 => 'Edward Thorp',
-  ),
-  8 => 
-  array (
-    0 => 'A life full of enthusiasm, hope and contributions through one\'s own talent is a life well lived.',
-    1 => 'Kimberly Day',
-  ),
-  9 => 
-  array (
-    0 => 'Blessed are those who can give without remembering and take without forgetting.',
-    1 => 'Unknown',
-  ),
-  10 => 
-  array (
-    0 => 'Before death takes away what you are given, give away what there is to give.',
-    1 => 'Rumi',
-  ),
-  11 => 
-  array (
-    0 => 'You can tell how far we have to go, when FORTRAN is the language of supercomputers.',
-    1 => 'Steven Feiner',
-  ),
-  12 => 
-  array (
-    0 => 'The only way of discovering the limits of the possible is to venture a little way past them into the impossible.',
-    1 => 'Arthur C. Clarke',
-  ),
-  13 => 
-  array (
-    0 => 'Try not to become a man of success but a man of value.',
-    1 => 'Albert Einstein',
-  ),
-  14 => 
-  array (
-    0 => 'If your determination is fixed, I do not counsel you to despair. Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance.',
-    1 => 'Dr. Samuel Johnson',
-  ),
-  15 => 
-  array (
-    0 => 'Awards are not the only markers of success; I don\'t judge myself just based on them. I believe that each cinema-goer has his own mental trophies.',
-    1 => 'Fan Bingbing',
-  ),
-  16 => 
-  array (
-    0 => 'Ten years from now, make sure you can say that you chose your life, you didnt settle for it.',
-    1 => 'Mandy Hale',
-  ),
-  17 => 
-  array (
-    0 => 'Character consists of what you do on the third and fourth tries.',
-    1 => 'James Michener',
-  ),
-  18 => 
-  array (
-    0 => 'Excellence is to do a common thing in an uncommon way.',
-    1 => 'Booker T. Washington',
-  ),
-  19 => 
-  array (
-    0 => 'The most difficult times for many of us are the ones we give ourselves.',
-    1 => 'Pema Chodron',
-  ),
-  20 => 
-  array (
-    0 => 'To me, sadness is great! Without it we could not appriciate true happiness.',
-    1 => 'Kaitlyn Cox',
-  ),
-  21 => 
-  array (
-    0 => 'From a small seed a mighty trunk may grow.',
-    1 => 'Aeschylus',
-  ),
-  22 => 
-  array (
-    0 => 'Success is often achieved by those who don\'t know that failure is inevitable.',
-    1 => 'Coco Chanel',
-  ),
-  23 => 
-  array (
-    0 => 'With love and patience, nothing is impossible.',
-    1 => 'Dr. Daisaku Ikeda',
-  ),
-  24 => 
-  array (
-    0 => 'Little minds are tamed and subdued by misfortune; but great minds rise above them.',
-    1 => 'Washington Irving',
-  ),
-);
+return [
+    [
+        'No one can arrive from being talented alone, work transforms talent into genius.',
+        'Anna Pavlova',
+    ],
+    [
+        'Help others and give something back. I guarantee you will discover that while public service improves the lives and the world around you, its greatest reward is the enrichment and new meaning it will bring your own life.',
+        'Charles Darwin',
+    ],
+    [
+        'To See What Is Right And Not Do It Is A Lack Of Courage.',
+        'Confucious',
+    ],
+    [
+        'I want someone who will love me for the person I am and not because of my status. It has to be someone who understands the pressure of playing for India. It will be very difficult to be with a person who has her own career because someone has to make sacrifices for the family and house.',
+        'Yuvraj Singh',
+    ],
+    [
+        'As the eldest son of an Alabama sharecropper family, I was constantly troubled by a collage of North American southern behaviors and notions in reference to the inhumanity of people. There were questions that I did not know how to ask but could, in my young, unsophisticated way, articulate a series of answers.',
+        'John Henrik Clarke',
+    ],
+    [
+        'I don\'t believe in failure. It is not failure if you enjoyed the process.',
+        'Oprah Winfrey',
+    ],
+    [
+        'It\'s a common misconception that money is every entrepreneur\'s metric for success. It\'s not, and nor should it be.',
+        'Richard Branson',
+    ],
+    [
+        'It\'s a sad day when a woman being funny and interested in science is considered newsworthy.',
+        'Elise Andrew',
+    ],
+    [
+        'When we see the shadow on our images, are we seeing the time 11 minutes ago on Mars? Or are we seeing the time on Mars as observed from Earth now? It\'s like time travel problems in science fiction. When is now; when was then?',
+        'Bill Nye',
+    ],
+    [
+        'I always figure from the cradle to the grave, we all have our individual journeys, and maybe my journey was a positive one and I accomplished certain things without stepping on too many toes.',
+        'Robert Duvall',
+    ],
+    [
+        'The human foot is a masterpiece of engineering and a work of art.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'My inspiration has always been photography\'s ability to stop time and reveal what the naked eye cannot see.',
+        'Lois Greenfield',
+    ],
+    [
+        'I travel, I read, I write, I have other lives. But when I have a camera, I know that\'s my country, my island.',
+        'Leos Carax',
+    ],
+    [
+        'My ultimate life dream project is my kids. My family.',
+        'Denzel Washington',
+    ],
+    [
+        'As long as you know yourself and you got good people around you and you passionate about what you do, that\'s all that matters because at the end of the day, you go to sleep with the people you love, you wake up with the people you love, and you spend your time with the people you love.',
+        'Tyga',
+    ],
+    [
+        'Travel writing is harrowing. You are in paradise, more or less, having to prove it is paradise. It is hard to have a good time trying to figure out a way to say you are having a good time, whether you are having it or not, even in paradise.',
+        'Padgett Powell',
+    ],
+    [
+        'I think every girl needs to love herself, regardless of anything. Like if you\'re having a bad day, if you don\'t like your hair, if you don\'t have the best family situation, whatever, you have to love yourself and you can\'t do anything until you love yourself first.',
+        'Julianne Hough',
+    ],
+    [
+        'In everyone\'s life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit.',
+        'Albert Schweitzer',
+    ],
+    [
+        'Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.',
+        'Eleanor Roosevelt',
+    ],
+    [
+        'You need to think outside the box. You need to think differently if you want to sustain what, for me, is my peak performance: the very best that I can achieve as an athlete every day.',
+        'Tom Brady',
+    ],
+    [
+        'I believe alien life is quite common in the universe, although intelligent life is less so. Some say it has yet to appear on planet Earth.',
+        'Ronald Reagan',
+    ],
+    [
+        'A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.',
+        'Isaac Asimov',
+    ],
+    [
+        'May Heaven be propitious, and smile on the cause of my country.',
+        'Zebulon Pike',
+    ],
+    [
+        'Research has shown time and time again that infants who receive the high-quality child care and early education programs do better in school, have more developed social skills, and display fewer behavior problems.',
+        'Judy Biggert',
+    ],
+    [
+        'Life is too short to be doing work that doesn\'t make you feel happy and fulfilled. I\'d rather wait for the right project, as opposed to just taking whatever is handed to me.',
+        'Amanda Crew',
+    ],
+];

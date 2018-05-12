@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'No great thing is created suddenly.',
-    1 => 'Epictetus',
-  ),
-  1 => 
-  array (
-    0 => 'Business will be either better or worse.',
-    1 => 'Calvin Coolidge',
-  ),
-  2 => 
-  array (
-    0 => 'All men dream, but not equally. Those who dream by night in the dusty recesses of their minds, wake in the day to find that it was vanity: but the dreamers of the day are dangerous men, for they may act on their dreams with open eyes, to make them possible.',
-    1 => 'T. E. Lawrence "of Arabia"',
-  ),
-  3 => 
-  array (
-    0 => 'Don\'t think about making art, just get it done.  Let everyone else decide if it\'s good or bad, whether they love it or hate it.  While they are deciding, make even more art.',
-    1 => 'Andy Warhol',
-  ),
-  4 => 
-  array (
-    0 => 'If a writer falls in love with you, you can never die.',
-    1 => 'Mik Everett',
-  ),
-  5 => 
-  array (
-    0 => 'Even if you fall on your face, you\'re still moving forward.',
-    1 => 'Victor Kiam',
-  ),
-  6 => 
-  array (
-    0 => 'Life in a free society is friendly, prosperous, pleasant, cultured, and ever-longer.',
-    1 => 'Jeff Daiell, 1989, in counterpoint to Hobbes',
-  ),
-  7 => 
-  array (
-    0 => 'There\'s only one way to have a happy marriage and as soon as I learn what it is I\'ll get married again.',
-    1 => 'Clint Eastwood',
-  ),
-  8 => 
-  array (
-    0 => 'You are only as strong as your purpose, therefore let us choose reasons to act that are big, bold, righteous and eternal.',
-    1 => 'Barry Munro',
-  ),
-  9 => 
-  array (
-    0 => 'He who shits on the road will meet flies on his return.',
-    1 => 'South African Saying',
-  ),
-  10 => 
-  array (
-    0 => 'I\'m not an inspirational quote kind of person.',
-    1 => 'Christine Teigen',
-  ),
-  11 => 
-  array (
-    0 => 'Too clever is dumb.',
-    1 => 'Ogden Nash',
-  ),
-  12 => 
-  array (
-    0 => 'What we need is more people who specialize in the impossible.',
-    1 => 'Theodore Roethke',
-  ),
-  13 => 
-  array (
-    0 => 'There is some sort of perverse pleasure in knowing that it\'s basically impossible to send a piece of hate mail through the Internet without its being touched by a gay program. That\'s kind of funny.',
-    1 => 'Eric Allman',
-  ),
-  14 => 
-  array (
-    0 => 'Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals.',
-    1 => 'Jim Rohn',
-  ),
-  15 => 
-  array (
-    0 => 'A good photograph is knowing where to stand.',
-    1 => 'Ansel Adams',
-  ),
-  16 => 
-  array (
-    0 => 'Give whatever you are doing and whoever you are with the gift of your attention.',
-    1 => 'Jim Rohn',
-  ),
-  17 => 
-  array (
-    0 => 'The season of failure is the best time for sowing the seeds of success.',
-    1 => 'Paramahansa Yogananda',
-  ),
-  18 => 
-  array (
-    0 => 'Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.',
-    1 => 'Louis Pasteur',
-  ),
-  19 => 
-  array (
-    0 => 'Whether You Think You Can Or Think You Can\'t, You\'re Right.',
-    1 => 'Henry Ford',
-  ),
-  20 => 
-  array (
-    0 => 'Leadership means that a group, large or small, is willing to entrust authority to a person who has shown judgment, wisdom, personal appeal, and proven competence.',
-    1 => 'Walt Disney',
-  ),
-  21 => 
-  array (
-    0 => 'I believe in the city as a natural human environment, but we must humanize it. It\'s art that will re-define public space in the 21st Century. We can make our cities diverse, inspirational places by putting art, dance and performance in all its forms into the matrix of street life.',
-    1 => 'Antony Gormley',
-  ),
-  22 => 
-  array (
-    0 => 'Lord, grant that I may always desire more than I can accomplish.',
-    1 => 'Michelangelo',
-  ),
-  23 => 
-  array (
-    0 => 'Ultimately, we have just one moral duty: to reclaim large areas of peace in ourselves, more and more peace, and to reflect it towards others. And the more peace there is in us, the more peace there will be in our troubled world.',
-    1 => 'Etty Hillesum',
-  ),
-  24 => 
-  array (
-    0 => 'I used to think everyone should learn programming. When I first starting programming...I thought, "Wow, this is such an amazing way to organize information! Everybody should learn to do this!" I don\'t think that any more. I think there has to be something seriously wrong with you, in order to do this work. A normal person, once they\'ve looked into the abyss, will say, "I\'m done. This is stupid. I\'m going to go to something else." But not us, \'cause there\'s something really wrong with us.',
-    1 => 'Douglas Crockford, during his keynote at YUIConf 2011',
-  ),
-);
+return [
+    [
+        'The worst bankrupt in the world is the person who has lost his enthusiasm.',
+        'H. W. Arnold',
+    ],
+    [
+        'The study of beauty is a duel in which the artist cries with terror before being defeated.',
+        'Charles Baudelaire',
+    ],
+    [
+        'Nobody can give you freedom. Nobody can give you equality or justice or anything. If you\'re a man, you take it',
+        'Malcolm X',
+    ],
+    [
+        'You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement and, at the same time, share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful.',
+        'Marie Curie',
+    ],
+    [
+        'Music is the mediator between the spiritual and the sensual life.',
+        'Jack Canfield',
+    ],
+    [
+        'When leaders throughout an organization take an active, genuine interest in the people they manage, when they invest real time to understand employees at a fundamental level, they create a climate for greater morale, loyalty, and, yes, growth.',
+        'Patrick Lencioni',
+    ],
+    [
+        'Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.',
+        'Marcus Aurelius',
+    ],
+    [
+        'People work better when they know what the goal is and why. It is important that people look forward to coming to work in the morning and enjoy working.',
+        'Elon Musk',
+    ],
+    [
+        'I love my wife and I know she loves me. We\'re best friends. We\'re just lucky to have found each other. It takes a lot of work but I just feel very blessed that I found the right person. It\'s a very fortunate situation and not everyone has that.',
+        'Harry Connick, Jr.',
+    ],
+    [
+        'I think it\'s important to get your surroundings as well as yourself into a positive state - meaning surround yourself with positive people, not the kind who are negative and jealous of everything you do.',
+        'Heidi Klum',
+    ],
+    [
+        'I don\'t understand people whose gratification is a BMW. You don\'t know what joy is until you see a kid who was tortured get adopted by a family.',
+        'Andrew Vachss',
+    ],
+    [
+        'You can\'t just let nature run wild.',
+        'Walt Disney',
+    ],
+    [
+        'The world has the habit of making room for the man whose actions show that he knows where he is going.',
+        'Napoleon Hill',
+    ],
+    [
+        'We become what we think about.',
+        'Earl Nightingale',
+    ],
+    [
+        'Before I refuse to take your questions, I have an opening statement.',
+        'Ronald Reagan',
+    ],
+    [
+        'My keen love of travel was seldom hindered by Father. He permitted me, even as a mere boy, to visit many cities and pilgrimage spots.',
+        'Paramahansa Yogananda',
+    ],
+    [
+        'You cannot have maternal health without reproductive health. And reproductive health includes contraception and family planning and access to legal, safe abortion.',
+        'Hillary Clinton',
+    ],
+    [
+        'I\'m a pretty tough guy, you know. I\'m a pretty hard man. I\'ve got a lot of compassion, but I don\'t waste time with people.',
+        'Anthony Hopkins',
+    ],
+    [
+        'Think little goals and expect little achievements. Think big goals and win big success.',
+        'David Joseph Schwartz',
+    ],
+    [
+        'Athletic competition clearly defines the unique power of our attitude.',
+        'Bart Starr',
+    ],
+    [
+        'If you focus on results, you will never change. If you focus on change, you will get results.',
+        'Jack Dixon',
+    ],
+    [
+        'When you stop chasing the wrong things, you give the right things a chance to catch you.',
+        'Lolly Daskal',
+    ],
+    [
+        'I\'m going to try to enjoy the All-Star break, hope my players reflect on what happened the first half of the season, come back with a different attitude, try to find our solution on how to win it.',
+        'Don Baylor',
+    ],
+    [
+        'Players should know that if you can\'t make the contribution of the winning shot, that your attitude every day when you come to practice, or the positive contribution you make through cheering and keeping up team morale, is just as important in the overall picture.',
+        'Sue Wicks',
+    ],
+    [
+        'I think with my journey so far, it never felt like an overwhelming, overnight success story. I think that\'s good for me because I really got to take my time.',
+        'Tori Kelly',
+    ],
+];

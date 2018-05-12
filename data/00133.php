@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'We\'ve sent a man to the moon, and that\'s 29,000 miles away. The center of the Earth is only 4,000 miles away. You could drive that in a week, but for some reason nobody\'s ever done it.',
-    1 => 'Andy Rooney',
-  ),
-  1 => 
-  array (
-    0 => 'You can measure a programmer\'s perspective by noting his attitude on the continuing viability of FORTRAN.',
-    1 => 'Alan Perlis',
-  ),
-  2 => 
-  array (
-    0 => 'Spring ushers in the birth and growth of new beginnings. Summer develops and matures new life in the warmth of light. Fall celebrates life and displays inspiration through color. Winter then rests and builds for the new day, preparing for the next season.',
-    1 => 'Jaren L. Davis',
-  ),
-  3 => 
-  array (
-    0 => 'They [preachers] dread the advance of science as witches do the approach of daylight and scowl on the fatal harbinger announcing the subversions of the duperies on which they live.',
-    1 => 'Thomas Jefferson',
-  ),
-  4 => 
-  array (
-    0 => 'Discipline is the bridge between goals and accomplishment.',
-    1 => 'Jim Rohn',
-  ),
-  5 => 
-  array (
-    0 => 'Survival was my only hope, success my only revenge.',
-    1 => 'Patricia Cornwell',
-  ),
-  6 => 
-  array (
-    0 => 'Life is so short, so beautiful. Don\'t be so serious about work. Enjoy the lives.',
-    1 => 'Jack Ma',
-  ),
-  7 => 
-  array (
-    0 => 'To achieve the impossible, it is precisely the unthinkable that must be thought.',
-    1 => 'Tom Robbins',
-  ),
-  8 => 
-  array (
-    0 => 'Good parents give their children Roots and Wings. Roots to know where home is, Wings to fly away and exercise what\'s been taught them.',
-    1 => 'Dr. Jonas Salk',
-  ),
-  9 => 
-  array (
-    0 => 'We are all human, aren\'t we? Every human life is worth the same, and worth saving.',
-    1 => 'Kingsley Shacklebolt, The Deathly Hallows',
-  ),
-  10 => 
-  array (
-    0 => 'Good advice is something a man gives when he is too old to set a bad example.',
-    1 => 'La Rouchefoucauld',
-  ),
-  11 => 
-  array (
-    0 => 'Your thoughts, words and deeds are painting the world around you.',
-    1 => 'Jewel Diamond Taylor',
-  ),
-  12 => 
-  array (
-    0 => 'Government is an association of men who do violence to the rest of us.',
-    1 => 'Tolstoy',
-  ),
-  13 => 
-  array (
-    0 => 'Having talent is fantastic. Having confidence is even more important.',
-    1 => 'Robin Sharma',
-  ),
-  14 => 
-  array (
-    0 => 'Certain old men prefer to rise at dawn, taking a cold bath and a long walk with an empty stomach and otherwise mortifying the flesh. They then point with pride to these practices as the cause of their sturdy health and ripe years; the truth being that they are hearty and old, not because of their habits, but in spite of them. The reason we find only robust persons doing this thing is that it has killed all the others who have tried it.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  15 => 
-  array (
-    0 => 'My brother sent me a postcard the other day with this big satellite photo of the entire earth on it. On the back it said: "Wish you were here".',
-    1 => 'Steven Wright',
-  ),
-  16 => 
-  array (
-    0 => 'There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.',
-    1 => 'Epictetus',
-  ),
-  17 => 
-  array (
-    0 => 'Behold the turtle. He only makes progress when he sticks his neck out.',
-    1 => 'Khalil Gibran',
-  ),
-  18 => 
-  array (
-    0 => 'I feel like I want to take care of everyone and I also feel this terrible guilt if I am unable to. And I have felt this way ever since all this success started.',
-    1 => 'Jim Carrey',
-  ),
-  19 => 
-  array (
-    0 => 'Your time is limited, so don\'t waste it living someone else\'s life.',
-    1 => 'Steve Jobs',
-  ),
-  20 => 
-  array (
-    0 => 'The essence of optimism is that it takes no account of the present, but it is a source of inspiration, of vitality and hope where others have resigned; it enables a man to hold his head high, to claim the future for himself and not to abandon it to his enemy.',
-    1 => 'Dietrich Bonhoeffer',
-  ),
-  21 => 
-  array (
-    0 => 'Life has a way of testing a person\'s will, either by having nothing happen at all or by having everything happen at once.',
-    1 => 'Paulo Coelho',
-  ),
-  22 => 
-  array (
-    0 => 'You must expect great things of yourself before you can do them.',
-    1 => 'Michael Jordan',
-  ),
-  23 => 
-  array (
-    0 => 'The longer I am out of office, the more infallible I appear to myself.',
-    1 => 'Henry Kissinger',
-  ),
-  24 => 
-  array (
-    0 => 'It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.',
-    1 => 'Seneca',
-  ),
-);
+return [
+    [
+        'Your own resolution to succeed is more important than any other.',
+        'Abraham Lincoln',
+    ],
+    [
+        'We must balance conspicuous consumption with conscious capitalism.',
+        'Kevin Krus',
+    ],
+    [
+        'Positive energy knows no boundaries. If everyone were to spread positive energy on the Internet, the world would be a much better place.',
+        'Lu Wei',
+    ],
+    [
+        'I don\'t think homosexuality is a choice. Society forces you to think it\'s a choice, but in fact, it\'s in one\'s nature. The choice is whether one expresses one\'s nature truthfully or spends the rest of one\'s life lying about it.',
+        'Marlo Thomas',
+    ],
+    [
+        'I don\'t know, maybe I\'m immature, but I still find it funny if I dump cold water on my girlfriend when she\'s in the shower.',
+        'Daniel Tosh',
+    ],
+    [
+        'Be less curious about people and more curious about ideas.',
+        'Marie Curie',
+    ],
+    [
+        'Do not give your attention to what others do or fail to do; give it to what you do or fail to do.',
+        'Dhammapada',
+    ],
+    [
+        'One cannot violate the promptings of one\'s nature without having that nature recoil upon itself.',
+        'Jack London',
+    ],
+    [
+        'We\'ve got fuel prices coming down and good travel numbers coming out, so it\'s not surprising airline stocks are going up.',
+        'Andrew Sullivan',
+    ],
+    [
+        'And remember, it\'s also very funny, because side by side with grief lies joy.',
+        'Fran Drescher',
+    ],
+    [
+        'A beautiful person is someone who stays true to themselves and their spirit; someone who is self-confident and can make you smile.',
+        'Helena Christensen',
+    ],
+    [
+        'What you want in a mentor is someone who truly cares for you and who will look after your interests and not just their own. When you do come across the right person to mentor you, start by showing them that the time they spend with you is worthwhile.',
+        'Vivek Wadhwa',
+    ],
+    [
+        'I believe in process. I believe in four seasons. I believe that winter\'s tough, but spring\'s coming. I believe that there\'s a growing season. And I think that you realize that in life, you grow. You get better.',
+        'Paris Hilton',
+    ],
+    [
+        'Who included me among the ranks of the human race?',
+        'Joseph Brodsky',
+    ],
+    [
+        'I\'ve never wanted anybody to like me because I had long hair or short hair, or that they liked the way I dressed or they liked the way I dressed or they liked the way I smile.',
+        'David Allan Coe',
+    ],
+    [
+        'Americans are the most generous country on the planet. I\'ve worked in Europe, I\'ve worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.',
+        'Hugh Jackman',
+    ],
+    [
+        'The best way to find yourself is to lose yourself in the service of others.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'The mystery is what prompted men to leave caves, to come out of the womb of nature.',
+        'Stephen Gardiner',
+    ],
+    [
+        'You\'re not obligated to win. You\'re obligated to keep trying to do the best you can every day.',
+        'Marian Edelman',
+    ],
+    [
+        'As a personality, I\'m fighter, you know. And I don\'t give up, and if I believe I\'m correct, I\'m right, then I work, and I fight. Okay, this could be over a chess board, this could be in life, and so I defend my principles.',
+        'Anatoly Karpov',
+    ],
+    [
+        'Natural selection shaped the human brain to be drawn toward aspects of nature that enhance our survival and reproduction, like verdant landscapes and docile creatures. There is no payoff to getting the warm fuzzies in the presence of rats, snakes, mosquitoes, cockroaches, herpes simplex and the rabies virus.',
+        'Paul Bloom',
+    ],
+    [
+        'My family is my strength and my weakness.',
+        'Aishwarya Rai Bachchan',
+    ],
+    [
+        'Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.',
+        'Joel A. Barker',
+    ],
+    [
+        'The Analytical Engine does not occupy common ground with mere \'calculating machines.\' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.',
+        'Ada Lovelace',
+    ],
+    [
+        'Art is the proper task of life.',
+        'Thich Nhat Hanh',
+    ],
+];

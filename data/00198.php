@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Don\'t let your mouth write no check that your tail can\'t cash.',
-    1 => 'Bo Diddley',
-  ),
-  1 => 
-  array (
-    0 => 'He who knows others is wise. He who knows himself is enlightened.',
-    1 => 'Tao Te Ching',
-  ),
-  2 => 
-  array (
-    0 => 'Unity is power.',
-    1 => 'Arabic Proverb',
-  ),
-  3 => 
-  array (
-    0 => 'The artist must be an egotist because, like the spider, he draws all his building material from his own breast. But just the same the artist alone among men knows what true humility means. His reach forever exceeds his grasp. He can never be satisfied with his work. He knows when he has done well, but he knows he has never attained his dream. He knows he never can.',
-    1 => 'Rheta Childe Dorr',
-  ),
-  4 => 
-  array (
-    0 => 'Honest men fear neither the light nor the dark.',
-    1 => 'Dr. Thomas Fuller',
-  ),
-  5 => 
-  array (
-    0 => 'A love affair with knowledge will never end in heartbreak.',
-    1 => 'George A. Custer',
-  ),
-  6 => 
-  array (
-    0 => 'There can be no offense where none is taken.',
-    1 => 'Japanese proverb',
-  ),
-  7 => 
-  array (
-    0 => 'A person who won\'t read has no advantage over one who can\'t read',
-    1 => 'Mark Twain',
-  ),
-  8 => 
-  array (
-    0 => 'Be thankful for what you have; you\'ll end up having more. If you concentrate on what you don\'t have, you will never, ever have enough.',
-    1 => 'Oprah Winfrey',
-  ),
-  9 => 
-  array (
-    0 => 'I have a dream that my four children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  10 => 
-  array (
-    0 => 'You have to be burning with an idea, or a problem, or a wrong that you want to right. If you\'re not passionate enough from the start, you\'ll never stick it out.',
-    1 => 'Steve Jobs',
-  ),
-  11 => 
-  array (
-    0 => 'I hope that at the end of the seven years, people will say that I have been of some inspirational value to them at home in terms of inclusiveness and abroad, I look forward to representing Ireland.',
-    1 => 'Michael D. Higgins',
-  ),
-  12 => 
-  array (
-    0 => 'Excellence is not a skill. Excellence is an attitude.',
-    1 => 'Conor McGregor',
-  ),
-  13 => 
-  array (
-    0 => 'Leap, and the net will appear.',
-    1 => 'John Burroughs',
-  ),
-  14 => 
-  array (
-    0 => '... the Father, the Son and the Holy Ghost would never throw the Devil out of Heaven as long as they still need him as a fourth for bridge.',
-    1 => 'Letter in NEW LIBERTARIAN NOTES #19',
-  ),
-  15 => 
-  array (
-    0 => 'It has been said that the great scientific disciplines are examples of giants standing on the shoulders of other giants. It has also been said that the software industry is an example of midgets standing on the toes of other midgets.',
-    1 => 'Alan Cooper',
-  ),
-  16 => 
-  array (
-    0 => 'I still miss those I loved who are no longer with me but I find I am grateful for having loved them. The gratitude has finally conquered the loss.',
-    1 => 'Rita Mae Brown',
-  ),
-  17 => 
-  array (
-    0 => 'No one has yet computed how many imaginary triumphs are silently celebrated by people each year to keep up their courage.',
-    1 => 'Athenæus',
-  ),
-  18 => 
-  array (
-    0 => 'You\'ll never convince me there is a hopeless situation or there is any finality in any success or any failure.',
-    1 => 'Carlos Ghosn',
-  ),
-  19 => 
-  array (
-    0 => 'Egotist, n.:
-        A person of low taste, more interested in himself than in me.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  20 => 
-  array (
-    0 => 'To invent, you need a good imagination and a pile of junk.',
-    1 => 'Thomas Edison',
-  ),
-  21 => 
-  array (
-    0 => 'If we wait until we\'re ready, we\'ll be waiting for the rest of our lives.',
-    1 => 'Lemony Snicket',
-  ),
-  22 => 
-  array (
-    0 => 'The meek shall inherit the earth, but not its mineral rights.',
-    1 => 'J. Paul Getty',
-  ),
-  23 => 
-  array (
-    0 => 'Character wants room; must not be crowded on by persons, nor be judged from glimpses got in the press of affairs, or on few occasions. It needs perspective, as a great building.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  24 => 
-  array (
-    0 => 'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
-    1 => 'Vincent Van Gogh',
-  ),
-);
+return [
+    [
+        '\'Changes in Latitudes\' began when I was looking at a photograph of a sea turtle swimming underwater. I had such a strong feeling for the beauty of this ancient creature, at home in the sea. On the spot, I wanted to swim with that turtle. I began to imagine a character who would do just that.',
+        'Will Hobbs',
+    ],
+    [
+        'For a gallant spirit there can never be defeat.',
+        'Wallis Simpson',
+    ],
+    [
+        'No universal selfishness can bring social good to all. Communism - the effort to give all men what they need and to ask of each the best they can contribute - this is the only way of human life.',
+        'W. E. B. Du Bois',
+    ],
+    [
+        'Our attitude towards others determines their attitude towards us.',
+        'Earl Nightingale',
+    ],
+    [
+        'America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, even eaten with people who in America would have been considered \'white,\' but the \'white\' attitude had been removed from their minds by the religion of Islam.',
+        'Malcolm X',
+    ],
+    [
+        'You must respect people and work hard to be in shape. And I used to train very hard. When the others players went to the beach after training, I was there kicking the ball.',
+        'Pele',
+    ],
+    [
+        'An intelligent man is sometimes forced to be drunk to spend time with his fools.',
+        'Ernest Hemingway',
+    ],
+    [
+        'The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you\'re free.',
+        'Ray Manzarek',
+    ],
+    [
+        'I would say I\'m a nice person, and I take pride in the fact that I treat everyone really well, so there\'s no reason for anyone to ever come at me because I only want the best for everybody else.',
+        'Miley Cyrus',
+    ],
+    [
+        'Hope is favorable and confident expectation; it\'s an expectant attitude that something good is going to happen and things will work out, no matter what situation we\'re facing.',
+        'Joyce Meyer',
+    ],
+    [
+        'Keep your sense of humor, my friend; if you don\'t have a sense of humor it just isn\'t funny anymore.',
+        'Wavy Gravy',
+    ],
+    [
+        'Laugh and the world laughs with you, snore and you sleep alone.',
+        'Anthony Burgess',
+    ],
+    [
+        'Man has lost the capacity to foresee and to forestall. He will end by destroying the earth.',
+        'Albert Schweitzer',
+    ],
+    [
+        'Age does not protect you from love. But love, to some extent, protects you from age.',
+        'Anais Nin',
+    ],
+    [
+        'Honestly, it is not all about attitude; it is all about heart. You can have the attitude, you can have the swagger, you can talk your way, but it is all about heart.',
+        'Jason Pierre-Paul',
+    ],
+    [
+        'Each day as I travel through downtown Tucson, I am amazed at how quickly the most ancient of human behaviors have changed. For as long as there have been Homo sapiens - roughly 200,000 years - people have filled their lives principally with two activities: talking directly with other people, and doing physical things.',
+        'Andrew Weil',
+    ],
+    [
+        'Modern Orthodoxy has a highly positive attitude toward the State of Israel. Our Ultra-Orthodox brethren recognize only the Holy Land, but not the state.',
+        'Norman Lamm',
+    ],
+    [
+        'Work hard! In the end, passion and hard work beats out natural talent.',
+        'Pete Docter',
+    ],
+    [
+        'Always forgive your enemies - nothing annoys them so much.',
+        'Oscar Wilde',
+    ],
+    [
+        'Thing is, I went to a born-again Christian high school, was brought up in a traditional Mormon family where these ideas about parenting are of structure and sacrifice. To think outside of that idea of family and parenting that I\'ve grown up with is tough but also very freeing.',
+        'Paul Walker',
+    ],
+    [
+        'Since those who believe they need a hero/celebrity outnumber the actual heroes/celebrities, people feel safe and comfortably justified in numbers, committing egregious crimes in the name of the greater social ego. Ironically diminishing their own true hero-celebrity nature in the process.',
+        'Lauryn Hill',
+    ],
+    [
+        'I\'m having a great time. I get to travel and see the world. And yeah, I\'ll have a family, because I don\'t want to miss out on that amazing experience, but it\'s not defining who I am.',
+        'Krysten Ritter',
+    ],
+    [
+        'Ever since studying in Russia as a college student, I had been in a long-distance, one-sided love affair with Chechnya\'s remarkable history, culture and rugged natural beauty.',
+        'Anthony Marra',
+    ],
+    [
+        'I travel a lot and rarely make it home to Seattle.',
+        'Hope Solo',
+    ],
+    [
+        'I have wandered all my life, and I have also traveled; the difference between the two being this, that we wander for distraction, but we travel for fulfillment.',
+        'Hilaire Belloc',
+    ],
+];

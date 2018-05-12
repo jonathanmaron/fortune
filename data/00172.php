@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'People are the key to success or extraordinary success.',
-    1 => 'Azim Premji',
-  ),
-  1 => 
-  array (
-    0 => 'Success to me is being a good person, treating people well.',
-    1 => 'David LaChapelle',
-  ),
-  2 => 
-  array (
-    0 => 'Perseverance - a lowly virtue whereby mediocrity achieves an inglorious success.',
-    1 => 'Ambrose Bierce',
-  ),
-  3 => 
-  array (
-    0 => 'Well, you see, it\'s such a transitional creature. It\'s a piss-poor reptile and not very much of a bird.',
-    1 => 'Melvin Konner, from "The Tangled Wing", quoting a zoologist who has studied the archeopteryx and found it "very much like people"',
-  ),
-  4 => 
-  array (
-    0 => 'When you cannot make up your mind which of two evenly balanced courses of action you should take, choose the bolder.',
-    1 => 'General W.J. Slim',
-  ),
-  5 => 
-  array (
-    0 => 'Obstacles cannot crush me. Every obstacle yields to stern resolve. He who is fixed to a star does not change his mind.',
-    1 => 'Leonardo da da Vinci',
-  ),
-  6 => 
-  array (
-    0 => 'In ordinary life we hardly realize that we receive a great deal more than we give, and that it is only with gratitude that life becomes rich.',
-    1 => 'Dietrich Bonhoeffer',
-  ),
-  7 => 
-  array (
-    0 => 'Giving frees us from the familiar territory of our own needs by opening our mind to the unexplained worlds occupied by the needs of others.',
-    1 => 'Barbara Bush',
-  ),
-  8 => 
-  array (
-    0 => 'You measure the size of the accomplishment by the obstacles you had to overcome to reach your goals!',
-    1 => 'Booker T. Washington',
-  ),
-  9 => 
-  array (
-    0 => 'The Patriot Act is essential to our continued success in the war on terror here at home.',
-    1 => 'Mike Pence',
-  ),
-  10 => 
-  array (
-    0 => 'Our character...is an omen of our destiny, and the more integrity we have and keep, the simpler and nobler that destiny is likely to be.',
-    1 => 'George Santayana',
-  ),
-  11 => 
-  array (
-    0 => 'Everyone here has the sense that right now is one of those moments when we are influencing the future.',
-    1 => 'Steve Jobs',
-  ),
-  12 => 
-  array (
-    0 => 'There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.',
-    1 => 'Ella Wheeler Wilcox',
-  ),
-  13 => 
-  array (
-    0 => 'The biggest problem in the world today is not poverty or disease but the lack of love and charity and the feeling of being unwanted.',
-    1 => 'Mother Teresa',
-  ),
-  14 => 
-  array (
-    0 => 'The struggle ends when the gratitude begins.',
-    1 => 'Unknown',
-  ),
-  15 => 
-  array (
-    0 => 'Pleasure is Nature\'s test, her sign of approval. When man is happy, he is in harmony with himself and his environment.',
-    1 => 'Oscar Wilde',
-  ),
-  16 => 
-  array (
-    0 => 'Nothing is so strong as gentleness. Nothing is so gentle as real strength.',
-    1 => 'J.R.R. Tolkien',
-  ),
-  17 => 
-  array (
-    0 => 'What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.',
-    1 => 'Kurt Vonnegut, Jr.',
-  ),
-  18 => 
-  array (
-    0 => 'The whole secret of a successful life is to find out what is one\'s destiny to do, and then do it.',
-    1 => 'Henry Ford',
-  ),
-  19 => 
-  array (
-    0 => 'If you want others to be happy, practice compassion. If you want to be happy, practice compassion.',
-    1 => 'Tenzin Gyatso',
-  ),
-  20 => 
-  array (
-    0 => 'Action is the foundational key to all success.',
-    1 => 'Pablo Picasso',
-  ),
-  21 => 
-  array (
-    0 => 'Love is the triumph of imagination over intelligence.',
-    1 => 'attributed to H. L. Mencken',
-  ),
-  22 => 
-  array (
-    0 => 'Let us, then, fellow citizens, unite with one heart and one mind. Let us restore to social intercourse that harmony and affection without which liberty and even life itself are but dreary things. And let us reflect that having banished from our land that religious intolerance under which mankind so long bled, we have yet gained little if we countenance a political intolerance as despotic, as wicked, and capable of a bitter and bloody persecutions.',
-    1 => 'Thomas Jefferson',
-  ),
-  23 => 
-  array (
-    0 => 'The most important human endeavor is striving for morality in our actions. Our inner balance and even our very existence depend on it. Only morality in our actions can give beauty and dignity to our lives.',
-    1 => 'Albert Einstein',
-  ),
-  24 => 
-  array (
-    0 => 'If a child is to keep alive his inborn sense of wonder, he needs the companionship of at least one adult who can share it, rediscovering with him the joy, excitement and mystery of the world we live in.',
-    1 => 'Howard Arnold Walter',
-  ),
-);
+return [
+    [
+        'Oh, the ignorance of us upon whom Providence did not sufficiently smile to permit us to be born in New England.',
+        'Horace Porter',
+    ],
+    [
+        'People say that life is the thing, but I prefer reading.',
+        'Logan Pearsall Smith',
+    ],
+    [
+        'Adjusting to the passage of time, I think, is a key to success and to life: just being able to roll with the punches.',
+        'Dolly Parton',
+    ],
+    [
+        'My favorite spot is the Maldives. Since I travel so much for work, I like to go to places that are very secluded and quiet.',
+        'Irina Shayk',
+    ],
+    [
+        'Our heavenly Father understands our disappointment, suffering, pain, fear, and doubt. He is always there to encourage our hearts and help us understand that He\'s sufficient for all of our needs. When I accepted this as an absolute truth in my life, I found that my worrying stopped.',
+        'John de Mol, Jr.',
+    ],
+    [
+        'Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it\'s no longer a mistake. If you remain stuck, you learn nothing.',
+        'Eckhart Tolle',
+    ],
+    [
+        'A beautiful thing is never perfect.',
+        '',
+    ],
+    [
+        'Life is so fresh, life is every day so new if we are fighting, only for the best. Sometimes I think the only real satisfaction in life is failure, failure in your endeavor to do your best.',
+        'Rose Kennedy',
+    ],
+    [
+        'The one thing that kept our family together was the music. The only thing that our family would share emotionally was to have our dad cry over something the kids did with music.',
+        'Dennis Wilson',
+    ],
+    [
+        'In order to design a future of positive change, we must first become expert at changing our minds.',
+        'Jacque Fresco',
+    ],
+    [
+        'I\'m spending a year dead for tax reasons.',
+        'Douglas Adams',
+    ],
+    [
+        'Weddings are important because they celebrate life and possibility.',
+        'Eric Davis',
+    ],
+    [
+        'A strong passion for any object will ensure success, for the desire of the end will point out the means.',
+        'Henry Hazlitt',
+    ],
+    [
+        'Respect your parents. What they tell you is true. Hard work, dedication and faith will get you anything. Imagination will drive itself. You can get anything you want, but you have to have faith behind all your ideas. Stick to your goals and have an undying faith.',
+        'Russell Simmons',
+    ],
+    [
+        'Thinking is one thing no one has ever been able to tax.',
+        'Charles Kettering',
+    ],
+    [
+        'Being famous is having the power to really implement positive change in the world, and it gives you the power to do what you want. I\'m really grateful for it because I can play music and people will listen.',
+        'Sean Lennon',
+    ],
+    [
+        'Success is having to worry about every damn thing in the world, except money.',
+        'Johnny Cash',
+    ],
+    [
+        'My wish is to stay always like this, living quietly in a corner of nature.',
+        'Claude Monet',
+    ],
+    [
+        'I\'m happy to be on a winning team. My individual success, that lasts for a short period of time. The success of being a part of the South, of Atlanta, which is now the hot bed of music, that\'s what\'s gonna last the longest. The fact that I contributed to planting our flag and moving music to my city, that\'s what I\'m most proud of.',
+        'T.I.',
+    ],
+    [
+        'Engaging in social business is beneficial to a company because it leverages on business competencies to address social issues, involves one-time investment with sustainable results, and produces other positive effects such as employee motivation and improved organizational culture.',
+        'Muhammad Yunus',
+    ],
+    [
+        'Make-up is the last thing to enhance your beauty, but it\'s very important because it builds up your self-confidence and gives you more courage.',
+        'Evelyn Lauder',
+    ],
+    [
+        'Life is hard. Then you die. Then they throw dirt in your face. Then the worms eat you. Be grateful it happens in that order.',
+        'Melina Kanakaredes',
+    ],
+    [
+        'Americans think Soviets are so grim. I want them to see that they can smile.',
+        'Yakov Smirnoff',
+    ],
+    [
+        'I was perceived to be a first- to third-rounder. I kind of had a tough junior year and fell to the fifth round. At that time, it was motivational.',
+        'Ryan Howard',
+    ],
+    [
+        'Indeed every monad must be different from every other. For there are never in nature two beings, which are precisely alike, and in which it is not possible to find some difference which is internal, or based on some intrinsic quality.',
+        'Gottfried Leibniz',
+    ],
+];

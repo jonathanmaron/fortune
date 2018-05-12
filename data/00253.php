@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It’s not about perfect. It’s about effort. And when you bring that effort every single day, that’s where transformation happens. That’s how change occurs.',
-    1 => 'Jillian Michaels',
-  ),
-  1 => 
-  array (
-    0 => 'Patience, n. A minor form of despair, disguised as a virtue.',
-    1 => 'Ambrose Bierce',
-  ),
-  2 => 
-  array (
-    0 => 'Success is the one unpardonable sin against our fellows.',
-    1 => 'Ambrose Bierce',
-  ),
-  3 => 
-  array (
-    0 => 'Safety rules are written in blood.',
-    1 => 'Anonymous',
-  ),
-  4 => 
-  array (
-    0 => 'Trust your own instinct. Your mistakes might as well be your own, instead of someone else\'s.',
-    1 => 'Billy Wilder',
-  ),
-  5 => 
-  array (
-    0 => 'It always seems impossible until it\'s done.',
-    1 => 'Nelson Mandela',
-  ),
-  6 => 
-  array (
-    0 => 'The road to success is always under construction.',
-    1 => 'Arnold Palmer',
-  ),
-  7 => 
-  array (
-    0 => 'When we have money, we start making mistakes.',
-    1 => 'Jack Ma',
-  ),
-  8 => 
-  array (
-    0 => 'Be the reason someone smiles today.',
-    1 => 'Anonymous',
-  ),
-  9 => 
-  array (
-    0 => 'Believe you can and you\'re halfway there.',
-    1 => 'Theodore Roosevelt',
-  ),
-  10 => 
-  array (
-    0 => 'Live your beliefs and you can turn the world around.',
-    1 => 'Henry David Thoreau',
-  ),
-  11 => 
-  array (
-    0 => 'A hunch is creativity trying to tell you something.',
-    1 => 'Frank Capra',
-  ),
-  12 => 
-  array (
-    0 => 'Service is the rent we pay for being. It is the very purpose of life, and not something you do in your spare time.',
-    1 => 'Marian Wright Edelman',
-  ),
-  13 => 
-  array (
-    0 => 'Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no help at all.',
-    1 => 'Dale Carnegie',
-  ),
-  14 => 
-  array (
-    0 => 'Education is not the filling of the pail, but, the lighting of the fire.',
-    1 => 'William Butler Yeats',
-  ),
-  15 => 
-  array (
-    0 => 'You have no cause for anything but gratitude and joy.',
-    1 => 'William Shakespeare',
-  ),
-  16 => 
-  array (
-    0 => 'I believe that when you realize who you really are, you understand that nothing can stop you from becoming that person.',
-    1 => 'Christine Lincoln',
-  ),
-  17 => 
-  array (
-    0 => 'Perseverance is a great element of success. If you knock long enough and loud enough at the gate, you are sure to wake up somebody.',
-    1 => 'Henry Wadsworth Longfellow',
-  ),
-  18 => 
-  array (
-    0 => 'One word or a pleasing smile is often enough to raise up a saddened and wounded soul.',
-    1 => 'Therese of Lisieux',
-  ),
-  19 => 
-  array (
-    0 => 'Tomorrow will be the most beautiful day of Raymond K. Hessel\'s life. His breakfast will taste better than any meal you and I have ever tasted.
-(after Raymond Hessel faces death but lives)',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  20 => 
-  array (
-    0 => 'Every heart that has beat strong and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  21 => 
-  array (
-    0 => 'I require three things in a man: he must be handsome, ruthless, and stupid.',
-    1 => 'Dorothy Parker',
-  ),
-  22 => 
-  array (
-    0 => 'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
-    1 => 'Anatole France',
-  ),
-  23 => 
-  array (
-    0 => 'Act as if what you do makes a difference. It does.',
-    1 => 'William James',
-  ),
-  24 => 
-  array (
-    0 => 'In the land of the dark, the Ship of the Sun is driven by the Grateful Dead.',
-    1 => 'Egyptian Book of the Dead',
-  ),
-);
+return [
+    [
+        'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
+        'Nick Saban',
+    ],
+    [
+        'I love David\'s attitude in the Bible. He wasn\'t afraid to go against the trends. He wasn\'t going to be defined by the opinions of others.',
+        'Victoria Osteen',
+    ],
+    [
+        'Life is best when you are in love.',
+        'Michael Moriarty',
+    ],
+    [
+        'Talent grips us. We are overtaken by the beauty of Michelangelo\'s sculpture, riveted by Mariah Carey\'s angelic voice, doubled over in laughter by the comedy of Robin Williams, and captivated by the on screen performances of Denzel Washington.',
+        'John C. Maxwell',
+    ],
+    [
+        'In France, I guess there\'s something like a tyranny in mentalities - we accept success badly, beauty, money. People are certainly envious, and this creates negative energy. This is annoying. I suffered a great deal at one time. I had to fight harder than others. Add to that my marriage to Polanski.',
+        'Emmanuelle Seigner',
+    ],
+    [
+        'Beauty is in the character of a person. It\'s about having an interesting face and about what\'s inside. Anyone can take a good picture.',
+        'Patrick Demarchelier',
+    ],
+    [
+        'If truth is beauty, how come no one has their hair done in the library?',
+        'Lily Tomlin',
+    ],
+    [
+        'All the universe is full of the lives of perfect creatures.',
+        'Konstantin Tsiolkovsky',
+    ],
+    [
+        'Forget about all the reasons why something may not work. You only need to find one good reason why it will.',
+        'Robert Anthony',
+    ],
+    [
+        'No bird soars too high if he soars with his own wings.',
+        'William Blake',
+    ],
+    [
+        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
+        'Unknown',
+    ],
+    [
+        'It\'s kind of fun to do the impossible.',
+        'Walt Disney',
+    ],
+    [
+        'My attitude about death is, going into the next room, and it\'s a room that the rest of us can\'t get into because we don\'t have the key. But when we do get the key, we\'ll go in there, and we\'ll see one another again, in some shape or form or whatever. It\'s not the end.',
+        'Roger Moore',
+    ],
+    [
+        'There is no greater feeling in business than building a product which impacts people\'s lives in a profound way. When we look around at the thousands of people who have attended Summit gatherings, it makes us smile to see the new friendships, business partnerships and philanthropic initiatives that each event produces.',
+        'Elliott Bisnow',
+    ],
+    [
+        'If you think you can, you can. And if you think you can\'t, you\'re right.',
+        'Henry Ford',
+    ],
+    [
+        'Step by step and the thing is done.',
+        'Charles Atlas',
+    ],
+    [
+        'And History will smile to think that this is the species for which Socrates and Jesus Christ died.',
+        'Julien Benda',
+    ],
+    [
+        'I remember nearly having a fit of the giggles during the reading because dear Daniel was SO respectful and serious and I was finding the whole situation funny because I was speaking to his profile.',
+        'Madeleine Stowe',
+    ],
+    [
+        'Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.',
+        'George Whitefield',
+    ],
+    [
+        'Some people ask the secret of our long marriage. We take time to go to a restaurant two times a week. A little candlelight, dinner, soft music and dancing. She goes Tuesdays, I go Fridays.',
+        'Henny Youngman',
+    ],
+    [
+        'Nature, like man, sometimes weeps from gladness.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'Loving oneself isn\'t hard, when you understand who and what \'yourself\' is. It has nothing to do with the shape of your face, the size of your eyes, the length of your hair or the quality of your clothes. It\'s so beyond all of those things and it\'s what gives life to everything about you. Your own self is such a treasure.',
+        'Pope Paul VI',
+    ],
+    [
+        'What I enjoy most is travelling to different places and meeting new people. For me, it\'s all about life experiences, and I\'m very grateful that acting allows me so many interesting and fulfilling ones.',
+        'Miranda Kerr',
+    ],
+    [
+        'Racing is the only time I feel whole.',
+        'James Dean',
+    ],
+    [
+        'Take care of your inner, spiritual beauty. That will reflect in your face.',
+        'Dolores del Rio',
+    ],
+];

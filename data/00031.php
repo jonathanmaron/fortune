@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'He has achieved success who has worked well, laughed often, and loved much.',
-    1 => 'Elbert Hubbard',
-  ),
-  1 => 
-  array (
-    0 => 'No one will believe in you until you believe in you.',
-    1 => 'Robin Sharma',
-  ),
-  2 => 
-  array (
-    0 => 'In life, you don\'t do what you want but you are responsible for what you are.',
-    1 => 'Jean-Paul Sartre',
-  ),
-  3 => 
-  array (
-    0 => 'Real success is being totally indulgent about your own trip. You put your blinders on about the garbage and go full speed ahead.',
-    1 => 'Betsey Johnson',
-  ),
-  4 => 
-  array (
-    0 => 'To really appreciate life you got to know you\'re going to die.',
-    1 => 'Joe Rogan',
-  ),
-  5 => 
-  array (
-    0 => 'A word of encouragement during a failure is worth more than an hour of praise after success.',
-    1 => 'Unknown',
-  ),
-  6 => 
-  array (
-    0 => 'I know of no single formula for success. But over the years I have observed that some attributes of leadership are universal and are often about finding ways of encouraging people to combine their efforts, their talents, their insights, their enthusiasm and their inspiration to work together.',
-    1 => 'Queen Elizabeth II',
-  ),
-  7 => 
-  array (
-    0 => 'It doesn\'t matter who you are, where you come from. The ability to triumph begins with you. Always.',
-    1 => 'Oprah Winfrey',
-  ),
-  8 => 
-  array (
-    0 => 'Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.',
-    1 => 'Marcus Tullius Cicero',
-  ),
-  9 => 
-  array (
-    0 => 'The most important thing is being passionate about what you\'re doing and always give it your all. That is the key to success.',
-    1 => 'Charlie White',
-  ),
-  10 => 
-  array (
-    0 => 'Humor has bailed me out of more tight situations than I can think of. If you go with your instincts and keep your humor, creativity follows. With luck, success comes, too.',
-    1 => 'Jimmy Buffett',
-  ),
-  11 => 
-  array (
-    0 => 'Emptiness is a symptom that you are not living creatively. You either have not goal that is important enough to you, or you are not using your talents and efforts in a striving toward an important goal.',
-    1 => 'Maxwell Maltz',
-  ),
-  12 => 
-  array (
-    0 => 'A man should look for what is, and not for what he thinks should be.',
-    1 => 'Albert Einstein',
-  ),
-  13 => 
-  array (
-    0 => 'None of us really changes over time. We only become more fully what we are.',
-    1 => 'Anne Rice',
-  ),
-  14 => 
-  array (
-    0 => 'I can live for two months on a good compliment.',
-    1 => 'Mark Twain',
-  ),
-  15 => 
-  array (
-    0 => 'Do not let making a living prevent you from making a life.',
-    1 => 'John R. Wooden',
-  ),
-  16 => 
-  array (
-    0 => 'It\'s the steady, quiet, plodding ones who win in the lifelong race.',
-    1 => 'Robert W. Service',
-  ),
-  17 => 
-  array (
-    0 => 'If you don\'t act on life, life will act on you.',
-    1 => 'Robin Sharma',
-  ),
-  18 => 
-  array (
-    0 => 'Children are apt to live up to what you believe of them.',
-    1 => 'Lady Bird Johnson',
-  ),
-  19 => 
-  array (
-    0 => 'Geriatric Relativity: The observation that time goes faster the older you get.',
-    1 => 'Brian M. Clapper',
-  ),
-  20 => 
-  array (
-    0 => 'I think that success is having fun.',
-    1 => 'Bruno Mars',
-  ),
-  21 => 
-  array (
-    0 => 'Success is due to our stretching to the challenges of life. Failure comes when we shrink from them.',
-    1 => 'John C. Maxwell',
-  ),
-  22 => 
-  array (
-    0 => 'Commitment means that it is possible for a man to yield the nerve center of his consent to a purpose or cause, a movement or an ideal, which may be more important to him than whether he lives or dies.',
-    1 => 'Howard Thurman',
-  ),
-  23 => 
-  array (
-    0 => 'I belong to no organized party. I am a Democrat.',
-    1 => 'Will Rogers',
-  ),
-  24 => 
-  array (
-    0 => 'I believe in luck: how else can you explain the success of those you dislike?',
-    1 => 'Jean Cocteau',
-  ),
-);
+return [
+    [
+        'I don\'t feel restless, I just like to travel.',
+        'Brad Pitt',
+    ],
+    [
+        'The truest wisdom is a resolute determination.',
+        'Napoleon Bonaparte',
+    ],
+    [
+        'I will always desire to play with Bruce Springsteen. He\'s the most inspirational, most dedicated, most committed and most focused artist I\'ve ever seen. I like to be around people like that.',
+        'Max Weinberg',
+    ],
+    [
+        'There is no limit to suffering human beings have been willing to inflict on others, no matter how innocent, no matter how young, and no matter how old. This fact must lead all reasonable human beings, that is, all human beings who take evidence seriously, to draw only one possible conclusion: Human nature is not basically good.',
+        'Dennis Prager',
+    ],
+    [
+        'When you look at the calculation, it\'s amazing that every time you try to prove or disprove time travel, you\'ve pushed Einstein\'s theory to the very limits where quantum effects must dominate. That\'s telling us that you really need a theory of everything to resolve this question. And the only candidate is string theory.',
+        'Michio Kaku',
+    ],
+    [
+        'We\'re not afraid of risking what was our success yesterday in order to explore some new field. We\'re adventurous. We like the challenge of unknown territory, unknown artistic field, and that\'s what stimulates us.',
+        'Guy Laliberte',
+    ],
+    [
+        'My family life reads a bit like \'Little House on the Prairie.\' I was big sister to Joan, Renee, and brother William, and we grew up in Dalkey, a little town 10 miles outside of Dublin. It was a secure, safe and happy childhood, which was meant to be a disadvantage when it comes to writing stories about family dramas.',
+        'Maeve Binchy',
+    ],
+    [
+        'Sunsets are so beautiful that they almost seem as if we were looking through the gates of Heaven.',
+        'John Lubbock',
+    ],
+    [
+        'In a war situation or where violence and injustice are prevalent, poetry is called upon to be something more than a thing of beauty.',
+        'Seamus Heaney',
+    ],
+    [
+        'To be in the privileged position where I am able to give something back is, for me, perhaps the single most important measure of success.',
+        'Mohamed Bin Issa Al Jaber',
+    ],
+    [
+        'Don\'t smother each other. No one can grow in the shade.',
+        'Leo F. Buscaglia',
+    ],
+    [
+        'Nature is inside art as its content, not outside as its model.',
+        'Marilyn French',
+    ],
+    [
+        'To be happy is to be able to become aware of oneself without fright.',
+        'Walter Benjamin',
+    ],
+    [
+        'The waving of a pine tree on the top of a mountain - a magic wand in Nature\'s hand - every devout mountaineer knows its power; but the marvelous beauty value of what the Scotch call a breckan in a still dell, what poet has sung this?',
+        'John Muir',
+    ],
+    [
+        'I might have been born in a hovel but I am determined to travel with the wind and the stars.',
+        'Jacqueline Cochran',
+    ],
+    [
+        'Fate is in your hands and no one elses',
+        'Byron Pulsifer',
+    ],
+    [
+        'Travel, for me, is a little bit like being in love because suddenly, all your senses are at the setting marked \'on.\' Suddenly, you\'re alert to the secret patterns of the world.',
+        'Pico Iyer',
+    ],
+    [
+        'The true work of art is but a shadow of the divine perfection.',
+        'Michelangelo',
+    ],
+    [
+        'You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.',
+        'Pearl Buck',
+    ],
+    [
+        'In this world, shipmates, sin that pays its way can travel freely, and without passport; whereas Virtue, if a pauper, is stopped at all frontiers.',
+        'Herman Melville',
+    ],
+    [
+        'Light and funny has a more compelling quality when you\'re younger. But I haven\'t abandoned the genre: I love falling down; I love Lucille Ball. It\'s just that a lot of those stories revolve around problems that I can\'t convincingly portray at this age.',
+        'Julia Roberts',
+    ],
+    [
+        'Like the Earth, the Web is a less appealing place than it used to be. If I want attitude and arguing and meanness and profanity and wrong information screamed at me as gospel, I\'ll get in a time machine and spend Christmas with my family in 1977.',
+        'J. R. Moehringer',
+    ],
+    [
+        'The attitude is we live and let live. This is actually an amazing change in values in a rather short time and it\'s an example of freedom from religion.',
+        'Tom Wolfe',
+    ],
+    [
+        'How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.',
+        'Arthur Rubinstein',
+    ],
+    [
+        'What\'s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.',
+        'Bob Dylan',
+    ],
+];

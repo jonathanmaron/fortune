@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I solemnly swear that I am up to no good.',
-    1 => 'Harry Potter–The Prisoner of Azkaban',
-  ),
-  1 => 
-  array (
-    0 => 'Light tomorrow with today!',
-    1 => 'Elizabeth Barrett Browning',
-  ),
-  2 => 
-  array (
-    0 => 'Success is not built on success. It\'s built on failure. It\'s built on frustration. Sometimes its built on catastrophe.',
-    1 => 'Sumner Redstone',
-  ),
-  3 => 
-  array (
-    0 => 'Success is walking from failure to failure with no loss of enthusiasm.',
-    1 => 'Winston Churchill',
-  ),
-  4 => 
-  array (
-    0 => 'The aim of life is appreciation; there is no sense in not appreciating things; and there is no sense in having more of them if you have less appreciation of them.',
-    1 => 'G. K. Chesterton',
-  ),
-  5 => 
-  array (
-    0 => 'We define ourselves far too often by our past failures. That\'s not you. You are this person right now. You\'re the person who has learned from those failures. Build confidence and momentum with each good decision you make from here on out and choose to be inspired.',
-    1 => 'Joe Rogan',
-  ),
-  6 => 
-  array (
-    0 => 'Half our life is spent trying to find something to do with the time we have rushed through life trying to save.',
-    1 => 'Will Rogers',
-  ),
-  7 => 
-  array (
-    0 => 'It is by acts and not by ideas that people live.',
-    1 => 'Anatole France',
-  ),
-  8 => 
-  array (
-    0 => 'The true essence of humankind is kindness. There are other qualities which come from education or knowledge, but it is essential, if one wishes to be a genuine human being and impart satisfying meaning to one\'s existence, to have a good heart.',
-    1 => 'Tenzin Gyatso',
-  ),
-  9 => 
-  array (
-    0 => 'Dream is not that which you see while sleeping it is something that does not let you sleep.',
-    1 => 'Dr APJ Abdul Kalam',
-  ),
-  10 => 
-  array (
-    0 => 'Well, the idea is that failure is an inevitable partner on the road to success and, if you\'re not willing to confront failure, you can never find out how good you are.',
-    1 => 'Peter Guber',
-  ),
-  11 => 
-  array (
-    0 => 'The people who get on in this world are the people who get up and look for the circumstances they want, and, if they canâ€™t find them, make them.',
-    1 => 'George Bernard Shaw',
-  ),
-  12 => 
-  array (
-    0 => 'What\'s right is what\'s left if you do everything else wrong.',
-    1 => 'Robin Willaims',
-  ),
-  13 => 
-  array (
-    0 => 'Accept the challenges so that you can feel the exhilaration of victory.',
-    1 => 'George S. Patton',
-  ),
-  14 => 
-  array (
-    0 => 'Earth is a great, big funhouse without the fun.',
-    1 => 'Jeff Berner',
-  ),
-  15 => 
-  array (
-    0 => 'The reward of a thing well done is to have done it.',
-    1 => 'Emerson',
-  ),
-  16 => 
-  array (
-    0 => 'I do not think much of a man who is not wiser today than he was yesterday.',
-    1 => 'Abraham Lincoln',
-  ),
-  17 => 
-  array (
-    0 => 'Thoughts are but dreams till their effects be tried.',
-    1 => 'William Shakespeare',
-  ),
-  18 => 
-  array (
-    0 => 'I expect to pass through life but once. If therefore, there be any kindness I can show, or any good thing I can do to any fellow being, let me do it now, and not defer or neglect it, as I shall not pass this way again.',
-    1 => 'William Penn',
-  ),
-  19 => 
-  array (
-    0 => 'People don\'t notice whether it is winter or summer when they are happy.',
-    1 => 'Anton Chekhov',
-  ),
-  20 => 
-  array (
-    0 => 'Everyone has a story, make your own worth telling.',
-    1 => 'Abe Tannenbaum',
-  ),
-  21 => 
-  array (
-    0 => 'When in doubt, tell the truth',
-    1 => 'Mark Twain',
-  ),
-  22 => 
-  array (
-    0 => 'There is more money being spent on breast implants and Viagra than on Alzheimer\'s research. This means that by 2030, there should be a large elderly population with perky boobs and huge erections and absolutely no recollection of what to do with them.',
-    1 => 'Dave Barry',
-  ),
-  23 => 
-  array (
-    0 => 'Advertisement: The most truthful part of a newspaper.',
-    1 => 'Thomas Jefferson',
-  ),
-  24 => 
-  array (
-    0 => 'It\'s not an optical illusion, it just looks like one.',
-    1 => 'Phil White',
-  ),
-);
+return [
+    [
+        'The best way to fill time is to waste it.',
+        'Marguerite Duras',
+    ],
+    [
+        'We do not admire the man of timid peace. We admire the man who embodies victorious effort; the man who never wrongs his neighbor, who is prompt to help a friend, but who has those virile qualities necessary to win in the stern strife of actual life.',
+        'Theodore Roosevelt',
+    ],
+    [
+        'The more defects a man may have, the older he is, the less lovable, the more resounding his success.',
+        'Marquis de Sade',
+    ],
+    [
+        'Great talent finds happiness in execution.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.',
+        'Thomas Carlyle',
+    ],
+    [
+        'Occasionally I have come across a last patch of snow on top of a mountain in late May or June. There\'s something very powerful about finding snow in summer.',
+        'Andy Goldsworthy',
+    ],
+    [
+        'If you can do what you do best and be happy, you\'re further along in life than most people.',
+        'Wendell Pierce',
+    ],
+    [
+        'The breakdown of the black community, in order to maintain slavery, began with the breakdown of the black family. Men and women were not legally allowed to get married because you couldn\'t have that kind of love. It might get in the way of the economics of slavery. Your children could be taken from you and literally sold down the river.',
+        'Kerry Washington',
+    ],
+    [
+        'Baking has always been one of my many hobbies. After I uploaded my first baking tutorial video, I got a really positive response from the online community, and they started to demand more videos like that.',
+        'Rosanna Pansino',
+    ],
+    [
+        'If we don\'t hope, if we don\'t stay positive - at least about love, or finding love - then the rest of life becomes really just painful to think about, because for the most part, you know, day-to-day stuff is monotonous.',
+        'Nev Schulman',
+    ],
+    [
+        'Stay open-minded; stay focused. Train hard and train smart. For me, the older I get, the smarter I have to train also, because the recovery time is longer. Work on everything: become a well-rounded fighter - don\'t just be good at one thing; be good at everything.',
+        'Brock Lesnar',
+    ],
+    [
+        'The coolest part about seeing a girl wear something comfortable is the smile that you can just feel coming through from inside her.',
+        'Kellan Lutz',
+    ],
+    [
+        'Happiness is a choice. You can choose to be happy. There\'s going to be stress in life, but it\'s your choice whether you let it affect you or not.',
+        'Les Brown',
+    ],
+    [
+        'Nature is my springboard. From her I get my initial impetus. I have tried to relate the visible drama of mountains, trees, and bleached fields with the fantasy of wind blowing and changing colors and forms.',
+        'Milton Avery',
+    ],
+    [
+        'Let us remember we are all part of one American family. We are united in common values, and that includes belief in equality under the law, basic respect for public order, and the right of peaceful protest.',
+        'Barack Obama',
+    ],
+    [
+        'We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.',
+        'James Freeman Clarke',
+    ],
+    [
+        'The past cannot be changed. The future is yet in your power.',
+        'Unknown',
+    ],
+    [
+        'What happens in the context of war is that, in order for you to make a child into a killer, you destroy everything that they know, which is what happened to me and my town. My family was killed, all of my family, so I had nothing.',
+        'Ishmael Beah',
+    ],
+    [
+        'I have a couple of go-to sneakers off the pitch. I like to have shoes that I can slip on and wear with anything. I travel often, so it\'s about finding those two or three pairs of shoes that can go with any outfit, whether they go with leggings or a skirt or a dress or jeans.',
+        'Alex Morgan',
+    ],
+    [
+        'The people you choose to have around you make all the difference. My family and close friends keep me grounded. You have to have a mind of your own and a strong head on your shoulders. Cricket is the most important thing to me, so the rest of it pales in comparison.',
+        'Virat Kohli',
+    ],
+    [
+        'Somebody said something funny to me the other day. They said, \'Wolper, until two weeks ago, your tombstone was going to say, \'David Wolper, the man who produced \'Roots.\' I think the tombstone now has a new inscription. It\'s going to be \'David Wolper, the man who produced the opening ceremony of the 1984 Olympics.\'',
+        'David L. Wolper',
+    ],
+    [
+        'My first feeling about the paper and the attitude is that it is absurd.',
+        'Arthur Holly Compton',
+    ],
+    [
+        'What is one to say about June, the time of perfect young summer, the fulfillment of the promise of the earlier months, and with as yet no sign to remind one that its fresh young beauty will ever fade.',
+        'Gertrude Jekyll',
+    ],
+    [
+        'Ideas are a dime a dozen. People who implement them are priceless.',
+        'Mary Kay Ash',
+    ],
+    [
+        'I\'ve learned to lose with a smile on my face. That\'s what the Oscar teaches you.',
+        'Alejandro Gonzalez Inarritu',
+    ],
+];

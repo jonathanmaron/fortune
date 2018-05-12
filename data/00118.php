@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'You only live once, but if you do it right, once is enough.',
-    1 => 'Mae West',
-  ),
-  1 => 
-  array (
-    0 => 'Pain is inevitable. Suffering is optional.',
-    1 => 'Dalai Lama',
-  ),
-  2 => 
-  array (
-    0 => 'Every passing minute is another chance to turn it all around.',
-    1 => 'Cameron Crowe',
-  ),
-  3 => 
-  array (
-    0 => 'I use not only all the brains I have but all that I can borrow.',
-    1 => 'Woodrow Wilson',
-  ),
-  4 => 
-  array (
-    0 => 'Hope is itself a species of happiness, and, perhaps, the chief happiness which this world affords: but, like all other pleasures immoderately enjoyed, the excesses of hope must be expiated by pain; and expectations improperly indulged must end in disappointment.',
-    1 => 'Dr. Samuel Johnson',
-  ),
-  5 => 
-  array (
-    0 => 'I do not fear computers. I fear the lack of them.',
-    1 => 'Isaac Asimov',
-  ),
-  6 => 
-  array (
-    0 => 'Success is nothing more or less than being who you want to be; progressing toward your ideal each day.',
-    1 => 'Jaren L. Davis',
-  ),
-  7 => 
-  array (
-    0 => 'It is the combination of reasonable talent and the ability to keep going in the face of defeat that leads to success.',
-    1 => 'Martin Seligman',
-  ),
-  8 => 
-  array (
-    0 => 'Without hard work, nothing grows but weeds.',
-    1 => 'Gordon B. Hinckley',
-  ),
-  9 => 
-  array (
-    0 => 'Worst Vegetable of the Year: The brussels sprout.
-This is also the worst vegetable of next year.',
-    1 => 'Steve Rubenstein',
-  ),
-  10 => 
-  array (
-    0 => 'Don\'t be pushed around by the fears in your mind. Be led by the dreams in your heart.',
-    1 => 'Roy T. Bennett',
-  ),
-  11 => 
-  array (
-    0 => 'Music is the effort we make to explain to ourselves how our brains work. We listen to Bach transfixed because this is listening to a human mind.',
-    1 => 'Lewis Thomas',
-  ),
-  12 => 
-  array (
-    0 => 'Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.',
-    1 => 'Rabindranath Tagore',
-  ),
-  13 => 
-  array (
-    0 => 'Education has produced a vast population able to read but unable to distinguish what is worth reading.',
-    1 => 'G. M. Trevelyan',
-  ),
-  14 => 
-  array (
-    0 => 'Each day offers us the gift of being a special occasion if we can simply learn that as well as giving, it is blessed to receive with grace and a grateful heart.',
-    1 => 'Sarah Ban Breathnach',
-  ),
-  15 => 
-  array (
-    0 => 'There is no teaching to compare with example.',
-    1 => 'Sir Robert Baden-Powell',
-  ),
-  16 => 
-  array (
-    0 => 'Research is what I\'m doing when I don\'t know what I\'m doing.',
-    1 => 'Wernher von Braun',
-  ),
-  17 => 
-  array (
-    0 => 'Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows not victory or defeat.',
-    1 => 'Theodore Roosevelt',
-  ),
-  18 => 
-  array (
-    0 => 'We know what we are, but know not what we may be.',
-    1 => 'William Shakespeare',
-  ),
-  19 => 
-  array (
-    0 => 'Rational people don\'t go stomping around demanding that the world be perfect for them.',
-    1 => 'Matthew N. Dodd <winter [AT] jurai.net>, in comments posted to the freebsd-java mailing list, 6 Feb 2000',
-  ),
-  20 => 
-  array (
-    0 => 'ailure will never overtake me if my determination to succeed is strong enough.',
-    1 => 'Og Mandino',
-  ),
-  21 => 
-  array (
-    0 => 'All this will not be finished in the first one hundred days. Nor will it be finished in the first one thousand days . . .nor even perhaps in our lifetime on this planet. But let us begin.',
-    1 => 'John F. Kennedy',
-  ),
-  22 => 
-  array (
-    0 => 'Life is no brief candle to me. It is a sort of splendid torch which I am permitted to hold for the moment, and I want to make it burn as brightly as possible before handing it on to future generations.',
-    1 => 'George Bernard Shaw',
-  ),
-  23 => 
-  array (
-    0 => 'The craving for equality can express itself either as a desire to pull everyone down to our own level or as a desire to raise ourselves up along with everyone else.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  24 => 
-  array (
-    0 => 'The relationship between commitment and doubt is by no means an antagonistic one. Commitment is healthiest when it\'s not without doubt but in spite of doubt.',
-    1 => 'Rollo May',
-  ),
-);
+return [
+    [
+        'Follow your instincts. That is where true wisdom manifests itself.',
+        'Oprah Winfrey',
+    ],
+    [
+        'Courage, my friends; \'tis not too late to build a better world.',
+        'Tommy Douglas',
+    ],
+    [
+        'The best place to find a helping hand is at the end of your own arm.',
+        '',
+    ],
+    [
+        'Life isn\'t about finding yourself. Life is about creating yourself.',
+        'Bernard Shaw',
+    ],
+    [
+        'Football has to work really hard to put a smile on people\'s face and not to be so focused on the question of money. Everything is in danger of losing its soul if you\'re always going to sell out to the highest bidder.',
+        'Gordon Taylor',
+    ],
+    [
+        'I am a positive person and do not allow things to get on top of me.',
+        'Jamie Redknapp',
+    ],
+    [
+        'Research has shown that the best way to be happy is to make each day happy.',
+        'Deepak Chopra',
+    ],
+    [
+        'Research shows that there is only half as much variation in student achievement between schools as there is among classrooms in the same school. If you want your child to get the best education possible, it is actually more important to get him assigned to a great teacher than to a great school.',
+        'Bill Gates',
+    ],
+    [
+        'I\'ve always tried to work hard. I\'m not trying to show anybody up or do something spectacular for attention.',
+        'Roy Halladay',
+    ],
+    [
+        'The holidays are a rough time for the homeless, but it\'s a year-round problem we have to solve.',
+        'Mike Binder',
+    ],
+    [
+        'The best argument against democracy is a five-minute conversation with the average voter.',
+        'Winston Churchill',
+    ],
+    [
+        'I have found the best way to give advice to your children is to find out what they want and then advise them to do it.',
+        'Harry S Truman',
+    ],
+    [
+        'Why be a man when you can be a success?',
+        'Bertolt Brecht',
+    ],
+    [
+        'Earthshaking fire from the center of the Earth will cause tremors around the New City. Two great rocks will war for a long time, then Arethusa will redden a new river.',
+        'Nostradamus',
+    ],
+    [
+        'I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.',
+        'G. K. Chesterton',
+    ],
+    [
+        'Conversation would be vastly improved by the constant use of four simple words: I do not know.',
+        'Andre Maurois',
+    ],
+    [
+        'The foundation of family - that\'s where it all begins for me.',
+        'Faith Hill',
+    ],
+    [
+        'The sky lovingly smiles on the earth and her children.',
+        'Henry Morton Stanley',
+    ],
+    [
+        'In a serious struggle there is no worse cruelty than to be magnanimous at an inopportune time.',
+        'Leon Trotsky',
+    ],
+    [
+        'You are special, you are unique, you are the best!',
+        'Cathy Pulsifer',
+    ],
+    [
+        'My family is everything. I am what I am thanks to my mother, my father, my brother, my sister... because they have given me everything. The education I have is thanks to them.',
+        'Ronaldinho',
+    ],
+    [
+        'I came into this environment where there was so much love, so much positive energy. I never heard my parents say, \'We have adopted kids.\' The minute my sister Linda and I landed in Sweden, we were their kids.',
+        'Marcus Samuelsson',
+    ],
+    [
+        'Despise not death, but welcome it, for nature wills it like all else.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Science is organized knowledge. Wisdom is organized life.',
+        'Eileen Caddy',
+    ],
+    [
+        'The winner\'s edge is not in a gifted birth, a high IQ, or in talent. The winner\'s edge is all in the attitude, not aptitude. Attitude is the criterion for success.',
+        'Denis Waitley',
+    ],
+];

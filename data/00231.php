@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'We have committed the Golden Rule to memory; let us now commit it to life.',
-    1 => 'Edwin Markham',
-  ),
-  1 => 
-  array (
-    0 => 'The sweetest of all sounds is praise.',
-    1 => 'Xenophon',
-  ),
-  2 => 
-  array (
-    0 => 'When there is no where else to turn, turn inward. Enter into the sacred silence of your soul and ask for healing, guidance and personal peace.',
-    1 => 'Michaiel Bovenes',
-  ),
-  3 => 
-  array (
-    0 => 'The things that we love tell us what we are.',
-    1 => 'Thomas Aquinas',
-  ),
-  4 => 
-  array (
-    0 => 'Success is following the pattern of life one enjoys most.',
-    1 => 'Al Capp',
-  ),
-  5 => 
-  array (
-    0 => 'The funny thing about having all this so-called success is that behind it is a certain horrible emptiness.',
-    1 => 'Sam Shepard',
-  ),
-  6 => 
-  array (
-    0 => 'Be practical as well as generous in your ideals. Keep your eyes on the stars, but remember to keep your feet on the ground.',
-    1 => 'Jalal ad-Din Rumi',
-  ),
-  7 => 
-  array (
-    0 => 'Everything is created twice, first in the mind and then in reality.',
-    1 => 'Robin Sharma',
-  ),
-  8 => 
-  array (
-    0 => 'Tax reform means "Don\'t tax you, don\'t tax me, tax that fellow behind the tree."',
-    1 => 'Russell Long',
-  ),
-  9 => 
-  array (
-    0 => 'Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.',
-    1 => 'Ella Wheeler Wilcox',
-  ),
-  10 => 
-  array (
-    0 => 'Never let your persistence and passion turn into stubbornness and ignorance.',
-    1 => 'Anthony J. D\'Angelo',
-  ),
-  11 => 
-  array (
-    0 => 'I must have a prodigious quantity of mind; it takes me as much as a week sometimes to make it up.',
-    1 => 'Mark Twain, "The Innocents Abroad"',
-  ),
-  12 => 
-  array (
-    0 => 'Great spirits have always found violent opposition from mediocre minds. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence and fulfills the duty to express the results of his thoughts in clear form.`',
-    1 => 'Albert Einstein',
-  ),
-  13 => 
-  array (
-    0 => 'Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.',
-    1 => 'Abigail Adams',
-  ),
-  14 => 
-  array (
-    0 => 'The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty.',
-    1 => 'Zig Ziglar',
-  ),
-  15 => 
-  array (
-    0 => 'Whether you think you can or you think you can\'t, you\'re right.',
-    1 => 'Henry Ford',
-  ),
-  16 => 
-  array (
-    0 => 'Values are like fingerprints. Nobody\'s are the same, but you leave \'em all over everything you do.',
-    1 => 'Elvis Presley',
-  ),
-  17 => 
-  array (
-    0 => 'Choose to chance the rapids and dare to dance the skies.',
-    1 => 'Garth Brooks',
-  ),
-  18 => 
-  array (
-    0 => 'It is the business of little minds to shrink.',
-    1 => 'Carl Sandburg',
-  ),
-  19 => 
-  array (
-    0 => 'What actions are most excellent? To gladden the heart of a human being, to feed the hungry, to help the afflicted, to lighten the sorrow of the sorrowful, and to remove the wrongs of the injured.',
-    1 => 'Koran',
-  ),
-  20 => 
-  array (
-    0 => 'Courage is going from failure to failure without losing enthusiasm.',
-    1 => 'Winston Churchill',
-  ),
-  21 => 
-  array (
-    0 => 'Youth is wasted on the young.',
-    1 => 'George Bernard Shaw',
-  ),
-  22 => 
-  array (
-    0 => 'We live in a wonderful world that is full of beauty, charm and adventure. There is no end to the adventures that we can have if only we seek them with our eyes open.',
-    1 => 'Jawaharlal Nehru',
-  ),
-  23 => 
-  array (
-    0 => 'Just because everything is different doesn\'t mean anything has changed.',
-    1 => 'Southern California Oracle',
-  ),
-  24 => 
-  array (
-    0 => 'Giving connects two people, the giver and the receiver, and this connection gives birth to a new sense of belonging.',
-    1 => 'Deepak K. Chopra',
-  ),
-);
+return [
+    [
+        'I\'m thankful for each and every day. We never know when time is up.',
+        'Chuck Berry',
+    ],
+    [
+        'The battle against cancer has made me strong. It\'s like winning a war! When I was diagnosed, I was told by doctors my kidney, liver and other organs could fail. It was tough. I didn\'t know if I could save my life. But I was positive, and because of that, the doctor told me that I would be a man who would never have cancer.',
+        'Yuvraj Singh',
+    ],
+    [
+        'Kind words are the music of the world. They have a power which seems to be beyond natural causes, as if they were some angel\'s song, which had lost its way and come on Earth, and sang on undyingly, smiting the hearts of men with sweetest wounds, and putting for the while an angel\'s nature into us.',
+        'Frederick William Faber',
+    ],
+    [
+        'Anything created by human beings is already in the great book of nature.',
+        'Antoni Gaudi',
+    ],
+    [
+        'Not only does travel give us a new system of reckoning, it also brings to the fore unknown aspects of our own self. Our consciousness being broadened and enriched, we shall judge ourselves more correctly.',
+        'Ella Maillart',
+    ],
+    [
+        'The jealous are possessed by a mad devil and a dull spirit at the same time.',
+        'Johann Kaspar Lavater',
+    ],
+    [
+        'Sometimes all the players get a bad hand. You just have to be determined enough to see the game through.',
+        'Dean Wilson',
+    ],
+    [
+        'I\'m a positive guy, even if I don\'t smile a lot.',
+        'James Arthur',
+    ],
+    [
+        'For me beauty is valued more than anything - the beauty that is manifest in a curved line or in an act of creativity.',
+        'Oscar Niemeyer',
+    ],
+    [
+        'The beauty of Captain America is that you didn\'t have to come from a distant planet, like Superman, or he didn\'t have to be born into a family of billionaires like Bruce Wayne. He happened to be in the right place at the right time, and someone gave him a magic potion, and he grew muscles and became a superhero.',
+        'Mark Waid',
+    ],
+    [
+        'Our thoughts are mainly controlled by our subconscious, which is largely formed before the age of 6, and you cannot change the subconscious mind by just thinking about it. That\'s why the power of positive thinking will not work for most people. The subconscious mind is like a tape player. Until you change the tape, it will not change.',
+        'Bruce Lipton',
+    ],
+    [
+        'The difficulties of life are intended to make us better, not bitter.',
+        '',
+    ],
+    [
+        'Our criminal justice system is fallible. We know it, even though we don\'t like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.',
+        'Eliot Spitzer',
+    ],
+    [
+        'If love is the answer, could you please rephrase the question?',
+        'Lily Tomlin',
+    ],
+    [
+        'I have been up against tough competition all my life. I wouldn\'t know how to get along without it.',
+        'Walt Disney',
+    ],
+    [
+        'Men are like wine - some turn to vinegar, but the best improve with age.',
+        'Pope John XXIII',
+    ],
+    [
+        'Memories are the best things in life, I think.',
+        'James Rollins',
+    ],
+    [
+        'I feel that I\'ve got the opportunity to set a great role model for girls to look up to a strong, active, compassionate, loving, positive woman, and I think it\'s so important.',
+        'Gal Gadot',
+    ],
+    [
+        'Money won\'t buy happiness, but it will pay the salaries of a large research staff to study the problem.',
+        'Bill Vaughan',
+    ],
+    [
+        'You need to be able to manage stress because hard times will come, and a positive outlook is what gets you through.',
+        'Marie Osmond',
+    ],
+    [
+        'I choose to make the rest of my life the best of my life.',
+        'Louise Hay',
+    ],
+    [
+        'I did rebel. I was the rebel in my family, because my dad wanted me to go and just travel with him.',
+        'Dhani Harrison',
+    ],
+    [
+        'In any team sport, the best teams have consistency and chemistry.',
+        'Roger Staubach',
+    ],
+    [
+        'Sometimes I had to spend a whole day mixing a boiling mass with a heavy iron rod nearly as large as myself. I would be broken with fatigue at the day\'s end. Other days, on the contrary, the work would be a most minute and delicate fractional crystallization, in the effort to concentrate the radium.',
+        'Marie Curie',
+    ],
+    [
+        'Life is about growing and improving and getting better.',
+        'Bruce Lee',
+    ],
+];

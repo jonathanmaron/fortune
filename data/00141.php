@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'But man is not made for defeat. A man can be destroyed but not defeated.',
-    1 => 'Ernest Hemingway',
-  ),
-  1 => 
-  array (
-    0 => 'Never does the human soul appear so strong and noble as when it forgoes revenge and dares to forgive injury.',
-    1 => 'Edwin Hubbel Chapin',
-  ),
-  2 => 
-  array (
-    0 => 'I do believe that when we face challenges in life that are far beyond our own power, it\'s an opportunity to build on our faith, inner strength, and courage. I\'ve learned that how we face challenges plays a big role in the outcome of them.',
-    1 => 'Sasha Azevedo',
-  ),
-  3 => 
-  array (
-    0 => 'That\'s the key to success, isn\'t it? It has to be fun.',
-    1 => 'Monica Seles',
-  ),
-  4 => 
-  array (
-    0 => 'When you have a sense of your own identity and a vision of where you want to go in your life, you then have the basis for reaching out to the world and going after your dreams for a better life.',
-    1 => 'Stedman Graham',
-  ),
-  5 => 
-  array (
-    0 => 'Ambidextrous, adj.:
-        Able to pick with equal skill a right-hand pocket or a left.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  6 => 
-  array (
-    0 => 'Losers focus on winners. Winners focus on winning.',
-    1 => 'Conor McGregor',
-  ),
-  7 => 
-  array (
-    0 => 'What we do today, right now, will have an accumulated effect on all our tomorrows.',
-    1 => 'Alexandra Stoddard',
-  ),
-  8 => 
-  array (
-    0 => 'Action leads to Attention. that in the short-term releases Rewarding brain chemicals and in the long term improves reproductive success.',
-    1 => 'Keith Henson',
-  ),
-  9 => 
-  array (
-    0 => 'The measure of success is happiness and peace of mind.',
-    1 => 'Bobby Davro',
-  ),
-  10 => 
-  array (
-    0 => 'If we get our self-esteem from superficial places, from our popularity, appearance, business success, financial situation, health, any of these, we will be disappointed, because no one can guarantee that we\'ll have them tomorrow.',
-    1 => 'Kathy Ireland',
-  ),
-  11 => 
-  array (
-    0 => 'I always prefer to believe the best of everybody-it saves so much trouble.',
-    1 => 'Rudyard Kipling',
-  ),
-  12 => 
-  array (
-    0 => 'There are only two kinds of programming languages: those people always bitch about and those nobody uses.',
-    1 => 'Bjarne Stroustrup',
-  ),
-  13 => 
-  array (
-    0 => 'Gratitude is the sign of noble souls.',
-    1 => 'Aesop',
-  ),
-  14 => 
-  array (
-    0 => 'Don\'t let what you cannot do interfere with what you can do.',
-    1 => 'John R. Wooden',
-  ),
-  15 => 
-  array (
-    0 => 'The saddest thing that can happen to a person is to find out their memories are lies.',
-    1 => 'Juan Gabriel Vásquez',
-  ),
-  16 => 
-  array (
-    0 => 'I can honestly say that I was never affected by the question of the success of an undertaking. If I felt it was the right thing to do, I was for it regardless of the possible outcome.',
-    1 => 'Golda Meir',
-  ),
-  17 => 
-  array (
-    0 => 'Do something wonderful, people may imitate it.',
-    1 => 'Albert Schweitzer',
-  ),
-  18 => 
-  array (
-    0 => 'I like being single. I\'m always there when I need me.',
-    1 => 'Art Leo',
-  ),
-  19 => 
-  array (
-    0 => 'Love consists in this, that its own should be another\'s; to feel the joy of another as joy in oneself, that is loving.',
-    1 => 'Emanuel Swedenborg',
-  ),
-  20 => 
-  array (
-    0 => 'When you are kind to someone in trouble, you hope they\'ll remember and be kind to someone else. And it\'ll become like a wildfire.',
-    1 => 'Whoopi Goldberg',
-  ),
-  21 => 
-  array (
-    0 => 'The art of being wise is knowing what to overlook.',
-    1 => 'William James',
-  ),
-  22 => 
-  array (
-    0 => 'It\'s not the tragedies that kill us; it\'s the messes.',
-    1 => 'Dorothy Parker',
-  ),
-  23 => 
-  array (
-    0 => 'When you are small, you have to be very focused and rely on your brain, not your strength.',
-    1 => 'Jack Ma',
-  ),
-  24 => 
-  array (
-    0 => 'When you judge another, you do not define them, you define yourself.',
-    1 => 'Wayne Dyer',
-  ),
-);
+return [
+    [
+        'All one needs to do is read - books, magazines, research the Internet - and pay attention to the influencers in their lives to discover the myriad people of strong moral character who have and still are making positive, meaningful contributions and differences in our world.',
+        'Zig Ziglar',
+    ],
+    [
+        'The great art of life is sensation, to feel that we exist, even in pain.',
+        'Tim Tebow',
+    ],
+    [
+        'Travel like a pro, not like a hobo. That\'s my motto.',
+        'Greg Gutfeld',
+    ],
+    [
+        'Success is liking yourself, liking what you do, and liking how you do it.',
+        'Maya Angelou',
+    ],
+    [
+        'Revenge is a kind of wild justice, which the more a man\'s nature runs to, the more ought law to weed it out.',
+        'Francis Bacon',
+    ],
+    [
+        'I\'m really interested in the collaborative thing. It\'s what makes it scary because you never know what it\'s going to end up like. But you hope. You put yourself in the hands of the best people you can find, and you\'re completely dependent on the kindness of strangers and their commitment. It\'s like this mutual delusion.',
+        'Meryl Streep',
+    ],
+    [
+        'If life were predictable it would cease to be life, and be without flavor.',
+        'Jim Henson',
+    ],
+    [
+        'Stubbornness is a positive quality of presidential leadership - if you\'re right about what you\'re stubborn about.',
+        'Douglas Brinkley',
+    ],
+    [
+        'The first day one is a guest, the second a burden, and the third a pest.',
+        'Jean de la Bruyere',
+    ],
+    [
+        'I\'m a big advocate of the power of positive thinking, particularly for small businesses.',
+        'Kevin Plank',
+    ],
+    [
+        'If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.',
+        'Rachel Carson',
+    ],
+    [
+        'The greatest minds are capable of the greatest vices as well as of the greatest virtues.',
+        'Rene Descartes',
+    ],
+    [
+        'Spontaneity is what travel is all about.',
+        'Zach Anner',
+    ],
+    [
+        'The one thing I think I\'ve noticed about shows that are supposed to be funny on television is that they\'ve sort of become routinized, so there\'s an awful lot of mannerisms and joke lines that are sort of there to trigger laughter, rather than give actors a chance to play a moment.',
+        'Alan Alda',
+    ],
+    [
+        'Sometimes it takes dealing with a disability - the trauma, the relearning, the months of rehabilitation therapy - to uncover our true abilities and how we can put them to work for us in ways we may have never imagined.',
+        'Tammy Duckworth',
+    ],
+    [
+        'I am stable when my private life is a success.',
+        'Don Johnson',
+    ],
+    [
+        'Every second, every day, every year, we fail to address demand for reproductive health and family planning services. Lives are lost, and girls\' opportunities to thrive and contribute to their country\'s development shrink. These are real people.',
+        'Jenny Shipley',
+    ],
+    [
+        'Miracles are not contrary to nature, but only contrary to what we know about nature.',
+        'Saint Augustine',
+    ],
+    [
+        'Natural beauty products are a must! I use coconut oil-based RMS makeup, and I slather almond oil on my hands to soak while I watch a movie.',
+        'Phoebe Tonkin',
+    ],
+    [
+        'More than 90 percent of what Planned Parenthood does nationally is preventive care - including cervical cancer screenings, breast cancer screenings, and family planning - mostly for women with low resources and income below the poverty line.',
+        'Gene Green',
+    ],
+    [
+        'The weak can never forgive. Forgiveness is the attribute of the strong.',
+        'Mohandas Gandhi',
+    ],
+    [
+        'A leader\'s job is not to do the work for others, it\'s to help others figure out how to do it themselves, to get things done, and to succeed beyond what they thought possible.',
+        'Simon Sinek',
+    ],
+    [
+        'Work is not man\'s punishment. It is his reward and his strength and his pleasure.',
+        'George Sand',
+    ],
+    [
+        'The time you feel lonely is the time you most need to be by yourself.',
+        'Douglas Coupland',
+    ],
+    [
+        'As long as you smile, have sparkly eyes and stick your shoulders back, nobody\'s going to notice your bum or your waist or your feet, for that matter.',
+        'Cat Deeley',
+    ],
+];

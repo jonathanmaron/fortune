@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I want to make sure I don\'t interfere with the success of that team next year. I don\'t see any way I could go to practice like most of \'em do, and not hurt the team. I\'d go nuts if I tried doing that.',
-    1 => 'Bear Bryant',
-  ),
-  1 => 
-  array (
-    0 => 'As great scientists have said and as all children know, it is above all by the imagination that we achieve perception, and compassion, and hope.',
-    1 => 'Ursula K. Le Guin',
-  ),
-  2 => 
-  array (
-    0 => 'We do not realise that we are children of eternity. If we did, then success would be no success, and failure would be no failure to us.',
-    1 => 'Joseph Barber Lightfoot',
-  ),
-  3 => 
-  array (
-    0 => 'We are confronted with insurmountable opportunities.',
-    1 => 'Walt Kelly, "Pogo"',
-  ),
-  4 => 
-  array (
-    0 => 'Live to the point of tears.',
-    1 => 'Albert Camus',
-  ),
-  5 => 
-  array (
-    0 => 'Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.',
-    1 => 'Pope John XXIII',
-  ),
-  6 => 
-  array (
-    0 => 'Two can Live as Cheaply as One for Half as Long.',
-    1 => 'Howard Kandel',
-  ),
-  7 => 
-  array (
-    0 => 'Often, these downplay the power of cultural imperialism - in that sense, playing the game of US interests - by reassuring us that the global success of American mass culture is not as bad as all that.',
-    1 => 'Fredric Jameson',
-  ),
-  8 => 
-  array (
-    0 => 'Natural selection won\'t matter soon, not anywhere as much as concious selection. We will civilize and alter ourselves to suit our ideas of what we can be. Within one more human lifespan, we will have changed ourselves unrecognizably.',
-    1 => 'Greg Bear',
-  ),
-  9 => 
-  array (
-    0 => 'Cabbage, n.:
-        A familiar kitchen-garden vegetable about as large and wise as a man\'s head.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  10 => 
-  array (
-    0 => 'If everything seems under control, you\'re not going fast enough.',
-    1 => 'Mario Andretti',
-  ),
-  11 => 
-  array (
-    0 => 'Life is a series of moments. If you miss the moments, you miss your life.',
-    1 => 'Robin Sharma',
-  ),
-  12 => 
-  array (
-    0 => 'Personal relationships are the fertile soil from which all advancement, all success, all achievement in real life grows.',
-    1 => 'Ben Stein',
-  ),
-  13 => 
-  array (
-    0 => 'When you win, say nothing, when you lose, say less.',
-    1 => 'Paul Brown',
-  ),
-  14 => 
-  array (
-    0 => 'Be slow to criticize and fast to appreciate.',
-    1 => 'Robin Sharma',
-  ),
-  15 => 
-  array (
-    0 => 'Happiness is not something you postpone for the future;it is something you design for the present.',
-    1 => 'Jim Rohn',
-  ),
-  16 => 
-  array (
-    0 => 'Imagination will often carry us to worlds that never were, but without it we go nowhere.',
-    1 => 'Carl Sagan',
-  ),
-  17 => 
-  array (
-    0 => 'Nothing great ever came that easy.',
-    1 => 'Kresley Cole',
-  ),
-  18 => 
-  array (
-    0 => 'Nowhere in the world is superiority more easily attained, or more eagerly admitted. The chief business of the nation, as a nation, is the setting up of heroes, mainly bogus.',
-    1 => 'H.L. Mencken, Prejudices, 1923.',
-  ),
-  19 => 
-  array (
-    0 => 'Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility.',
-    1 => 'Saint Augustine',
-  ),
-  20 => 
-  array (
-    0 => 'One value that was sewn into the stitching of our character at a very early age had to do with our responsibility to help others....We were expected to be of assistance to our neighbors... \'Being neighborly\'... was synonymous with being kind, friendly, and helpful to our neighbors and something that we were encouraged to do on a regular basis through firsthand experience. It was a bit like mandatory community service.',
-    1 => 'BeNeca Ward',
-  ),
-  21 => 
-  array (
-    0 => 'It is the small doubts of timid souls that accomplish their ruin. It is the narrow vision, the fear and trembling hesitation, that constitute defeat.',
-    1 => 'Alice Foote MacDougall',
-  ),
-  22 => 
-  array (
-    0 => 'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
-    1 => 'George Lorimer',
-  ),
-  23 => 
-  array (
-    0 => 'Any two philosophers can tell each other all they know in two hours.',
-    1 => 'Oliver Wendell Holmes, Jr.',
-  ),
-  24 => 
-  array (
-    0 => 'The life of money-making is one undertaken under compulsion, and wealth is evidently not the good we are seeking, for it is merely useful for the sake of something else.',
-    1 => 'Aristotle',
-  ),
-);
+return [
+    [
+        'The things we know best are the things we haven\'t been taught.',
+        'Luc de Clapiers',
+    ],
+    [
+        'I think people in Botswana are pleased that my books paint a positive picture of their lives and portray the country as being very special. They\'ve made a great success of their country, and the people are fed up with the constant reporting of only the problems and poverty of the continent. They welcome something which puts the positive side.',
+        'Alexander McCall Smith',
+    ],
+    [
+        'I am against nature. I don\'t dig nature at all. I think nature is very unnatural. I think the truly natural things are dreams, which nature can\'t touch with decay.',
+        'Bob Dylan',
+    ],
+    [
+        'You\'re not going to say anything about me that I\'m not going to say about myself. There\'s so many things that I think about myself; if someone really wanted to get at me, they could say this and this and this. So I\'m going to say it before they can. It\'s the best policy for me.',
+        'Eminem',
+    ],
+    [
+        'I have lived long enough to satisfy both nature and glory.',
+        'Julius Caesar',
+    ],
+    [
+        'I\'m selfish, impatient, and a little insecure. I make mistakes, I\'m out of control, and at times hard to handle. But if you can\'t handle me at my worst, then you sure as hell don\'t deserve me at my best.',
+        'Marilyn Monroe',
+    ],
+    [
+        'The sea has neither meaning nor pity.',
+        'Anton Chekhov',
+    ],
+    [
+        'Beauty is variable, ugliness is constant.',
+        'Douglas Horton',
+    ],
+    [
+        'He who has imagination without learning has wings but no feet.',
+        'Joseph Joubert',
+    ],
+    [
+        'Before success comes in any man\'s life, he\'s sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That\'s exactly what the majority of men do.',
+        'Napoleon Hill',
+    ],
+    [
+        'I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.',
+        'Buddha',
+    ],
+    [
+        'When I look in the mirror, I see someone who\'s happy with how he looks, because I was never one of the handsome Hollywood people. And I\'ve had success as I\'ve gotten older, because I\'m able to play characters. I no longer get the girl, but I get the part.',
+        'Michael Caine',
+    ],
+    [
+        'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
+        'A.P.J. Abdul Kalam',
+    ],
+    [
+        'I have great respect for the past. If you don\'t know where you\'ve come from, you don\'t know where you\'re going. I have respect for the past, but I\'m a person of the moment. I\'m here, and I do my best to be completely centered at the place I\'m at, then I go forward to the next place.',
+        'Maya Angelou',
+    ],
+    [
+        'Faces that have charmed us the most escape us the soonest.',
+        'Walter Scott',
+    ],
+    [
+        'Written in 1895, Alfred Nobel\'s will endowed prizes for scientific research in chemistry, physics, and medicine. At that time, these fields were narrowly defined, and researchers were often classically trained in only one discipline. In the late 19th century, knowledge of science was not a requisite for success in other walks of life.',
+        'Peter Agre',
+    ],
+    [
+        '...but if a thing is humanly possible, consider it to be within your reach.',
+        'Marcus Aurelius',
+    ],
+    [
+        'Every success in limiting armaments is a sign that the will to achieve mutual understanding exists, and every such success thus supports the fight for international law and order.',
+        'Ludwig Quidde',
+    ],
+    [
+        'Life is a mirror and will reflect back to the thinker what he thinks into it.',
+        'Ben Roethlisberger',
+    ],
+    [
+        'Politics - I still think it\'s a bunch of liars and a bunch of self-interest. It\'s not about the people: it\'s about themselves and their rise to power. They are voting on things based on whether they will have the support of the people when they vote next time. They don\'t have the balls to say, \'I believe in this. I don\'t care what happens.\'',
+        'Jay-Z',
+    ],
+    [
+        'The best thing I could say is you do have to be a really good listener. If I go to a family reunion, and there\'s 400 people there, everybody comes up and tells me their stories, right? And I think that when you\'re a good listener, and you can imagine how someone\'s talking, dialogue is your key friend, is it not?',
+        'Susan Straight',
+    ],
+    [
+        'I feel like I have a new life and I\'m going to take full advantage of it.',
+        'Iain Duncan Smith',
+    ],
+    [
+        'I grew up in a Chinese family where the parents\' No. 1 priority is the kids\' education.',
+        'Weili Dai',
+    ],
+    [
+        'In modern life, we tend to forget family values because of the hectic schedule.',
+        'Mahesh Babu',
+    ],
+    [
+        'Really I don\'t like human nature unless all candied over with art.',
+        'Virginia Woolf',
+    ],
+];

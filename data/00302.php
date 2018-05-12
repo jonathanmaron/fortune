@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Any medium powerful enough to extend man\'s reach is powerful enough to topple his world. To get the medium\'s magic to work for one\'s aims rather than against them is to attain literacy.',
-    1 => 'Alan Kay, "Computer Software", Scientific American, September 1984',
-  ),
-  1 => 
-  array (
-    0 => 'No act of kindness, no matter how small, is ever wasted.',
-    1 => 'Aesop',
-  ),
-  2 => 
-  array (
-    0 => 'There are people who can achieve huge success in life, while adding a bit of fun and a splash of colour to this increasingly grey world.',
-    1 => 'Peter James',
-  ),
-  3 => 
-  array (
-    0 => 'The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function. One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise.',
-    1 => 'Dorothy Day',
-  ),
-  4 => 
-  array (
-    0 => 'If the doors of perception were cleansed everything would appear to man as it is, infinite.',
-    1 => 'William Blake',
-  ),
-  5 => 
-  array (
-    0 => 'Scientists study the world how it is now, but engineers take a paint brush and create a world that has never been before.',
-    1 => 'Asher Brandley',
-  ),
-  6 => 
-  array (
-    0 => 'Everything you can imagine is real.',
-    1 => 'Pablo Picasso',
-  ),
-  7 => 
-  array (
-    0 => 'The world is not a dream, but a reality, of which we are the chief part, and in which we must be up and doing something...Come out into the world about you, be it either wide or limited. Sympathize, not in thought only, but in action, with all about you. Make yourself known and felt for something that would be loved and missed, in twenty thousand little ways, if you were to die; then your life will be a happy one, believe me.',
-    1 => 'Charles Dickens',
-  ),
-  8 => 
-  array (
-    0 => 'Until he extends his circle of compassion to include all living things, man will not himself find peace.',
-    1 => 'Albert Schweitzer',
-  ),
-  9 => 
-  array (
-    0 => 'Vision is the art of seeing what is invisible to others.',
-    1 => 'Jonathan Swift',
-  ),
-  10 => 
-  array (
-    0 => 'Ethics is in origin the art of recommending to others the sacrifices required for cooperation with oneself.',
-    1 => 'Bertrand Russell',
-  ),
-  11 => 
-  array (
-    0 => 'A hero is no braver than an ordinary man, but he is brave five minutes longer.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  12 => 
-  array (
-    0 => 'We can only be said to be alive in those moments when our hearts are conscious of our treasures.',
-    1 => 'Thornton Wilder',
-  ),
-  13 => 
-  array (
-    0 => 'A will finds a way.',
-    1 => 'Orison Swett Marden',
-  ),
-  14 => 
-  array (
-    0 => 'One isn\'t necessarily born with courage, but one is born with potential. Without courage, we cannot practice any other virtue with consistency. We can\'t be kind, true, merciful, generous, or honest.',
-    1 => 'Maya Angelou',
-  ),
-  15 => 
-  array (
-    0 => 'Any fool can know. The point is to understand.',
-    1 => 'Albert Einstein',
-  ),
-  16 => 
-  array (
-    0 => 'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
-    1 => 'Elmer Bernstein',
-  ),
-  17 => 
-  array (
-    0 => 'A ship in the harbor is safe. But that\'s not what ships are for.',
-    1 => 'Unknown',
-  ),
-  18 => 
-  array (
-    0 => 'To the mind that is still, the whole universe surrenders.',
-    1 => 'Lao Tzu',
-  ),
-  19 => 
-  array (
-    0 => 'Don\'t let your sorrow come higher than your knees.',
-    1 => 'Swedish Proverb',
-  ),
-  20 => 
-  array (
-    0 => 'Never attribute to malice that which is adequately explained by stupidity.',
-    1 => 'Jargon File',
-  ),
-  21 => 
-  array (
-    0 => 'I\'ve found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often.',
-    1 => 'Brian Tracy',
-  ),
-  22 => 
-  array (
-    0 => 'Creativity takes courage.',
-    1 => 'Henri Matisse',
-  ),
-  23 => 
-  array (
-    0 => 'If a man does his best, what else is there?',
-    1 => 'George S. Patton',
-  ),
-  24 => 
-  array (
-    0 => 'You can\'t cross the sea merely by standing and staring at the water.',
-    1 => 'Rabindranath Tagore',
-  ),
-);
+return [
+    [
+        'Giant oak trees... have deep root systems that can extend two-and-one-half times their height. Such trees rarely are blown down regardless of how violent the storms may be.',
+        'Joseph B. Wirthlin',
+    ],
+    [
+        'When you assume negative intent, you\'re angry. If you take away that anger and assume positive intent, you will be amazed. Your emotional quotient goes up because you are no longer almost random in your response.',
+        'Indra Nooyi',
+    ],
+    [
+        'It is only when I am doing my work that I feel truly alive.',
+        'Federico Fellini',
+    ],
+    [
+        'When we hear the word \'beauty\', we inevitably think that beauty belongs in a special elite realm where only the extraordinary dwells. Yet without realizing it, each day each one of us is visited by beauty. When you actually listen to people, it is surprising how often beauty is mentioned. A world without beauty would be unbearable.',
+        'John O\'Donohue',
+    ],
+    [
+        'When someone shows you who they are, believe them the first time.',
+        'Maya Angelou',
+    ],
+    [
+        'Dada was an extreme protest against the physical side of painting. It was a metaphysical attitude.',
+        'Marcel Duchamp',
+    ],
+    [
+        'The best way to travel abroad is to live with the locals.',
+        'Zach Braff',
+    ],
+    [
+        'We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.',
+        'Anne Roiphe',
+    ],
+    [
+        'Your heart is full of fertile seeds, waiting to sprout.',
+        'Morihei Ueshiba',
+    ],
+    [
+        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
+        'Fritz Scholder',
+    ],
+    [
+        'What would life be if we had no courage to attempt anything?',
+        'Elon Musk',
+    ],
+    [
+        'Success is achieved and maintained by those who try and keep trying.',
+        'W. Clement Stone',
+    ],
+    [
+        'Of all things visible, the highest is the heaven of the fixed stars.',
+        'Nicolaus Copernicus',
+    ],
+    [
+        'Right actions in the future are the best apologies for bad actions in the past.',
+        'Tryon Edwards',
+    ],
+    [
+        'I\'ve been so lucky to work with such great people: people that are such hard workers and have such a respect and appreciation for one another.',
+        'Blake Lively',
+    ],
+    [
+        'Water and air, the two essential fluids on which all life depends, have become global garbage cans.',
+        'Lil Wayne',
+    ],
+    [
+        'If something is shocking without being funny it\'s hard to justify.',
+        'Seth MacFarlane',
+    ],
+    [
+        'Joy descends gently upon us like the evening dew, and does not patter down like a hailstorm.',
+        'Jean Paul',
+    ],
+    [
+        'A lot of these teams really forget that part of success comes with having veteran leadership. You see a lot of teams forget that and start letting go of these old veterans. They don\'t realize how important it is to have a veteran voice in your locker room or on the bench. It\'s important to have guys who have been there before.',
+        'David Robinson',
+    ],
+    [
+        'If you look around, complacency is the great disease of your autumn years, and I work hard to prevent that.',
+        'Nick Cave',
+    ],
+    [
+        'If the only prayer you ever say in your entire life is thank you, it will be enough.',
+        'Simone de Beauvoir',
+    ],
+    [
+        'Liturgy is like a strong tree whose beauty is derived from the continuous renewal of its leaves, but whose strength comes from the old trunk, with solid roots in the ground.',
+        'Pope Paul VI',
+    ],
+    [
+        'The ideal life is in our blood and never will be still.',
+        'Phillips Brooks',
+    ],
+    [
+        'On \'Van Halen,\' I was a young punk, and everything revolved around the fastest kid in town, gunslinger attitude. But I\'d say that at the time of \'Fair Warning,\' I started concentrating more on songwriting. But I guess in most people\'s minds I\'m just a gunslinger.',
+        'Eddie Van Halen',
+    ],
+    [
+        'There was a time when men thought it was sexy to have a housewife waiting for him to come home from work in her slippers, but in modern society, I think an independent woman is even more sexy.',
+        'Kat Graham',
+    ],
+];

@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Dont settle. Dont finish crappy books. If you dont like the menu, leave the restaurant. If youre not on the right path, get off it.',
-    1 => 'Chris Brogan',
-  ),
-  1 => 
-  array (
-    0 => 'Feeling anxious or depressed sometimes is part of what it means to be a person, and it might even be essential to success.',
-    1 => 'K. Flay',
-  ),
-  2 => 
-  array (
-    0 => 'To steal from a thief is not theft. It is merely irony.',
-    1 => 'Zorro, while retrieving money taxed from Californians',
-  ),
-  3 => 
-  array (
-    0 => 'Mistakes are the portals of discovery.',
-    1 => 'James Joyce',
-  ),
-  4 => 
-  array (
-    0 => 'Happiness comes and goes and is short on staying power.',
-    1 => 'Frank Tyger',
-  ),
-  5 => 
-  array (
-    0 => 'Kindness is the language which the deaf can hear and the blind can see',
-    1 => 'Mark Twain',
-  ),
-  6 => 
-  array (
-    0 => 'Once he had one leg in the White House and the nation trembled under his roars. Now he is a tinpot pope in the Coca-Cola belt and a brother to the forlorn pastors who belabor halfwits in galvanized iron tabernacles behind the railroad yards.',
-    1 => 'H. L. Mencken, writing of William Jennings Bryan,
-           counsel for the supporters of Tennessee\'s anti-evolution law at the Scopes "Monkey Trial" in 1925.',
-  ),
-  7 => 
-  array (
-    0 => 'Always remember that striving and struggle precede success, even in the dictionary.',
-    1 => 'Sarah Ban Breathnach',
-  ),
-  8 => 
-  array (
-    0 => 'Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them.',
-    1 => 'Vaibhav Shah',
-  ),
-  9 => 
-  array (
-    0 => 'For an actress to be a success, she must have the face of a Venus, the brains of a Minerva, the grace of Terpsichore, the memory of a MaCaulay, the figure of Juno, and the hide of a rhinoceros.',
-    1 => 'Ethel Barrymore',
-  ),
-  10 => 
-  array (
-    0 => 'Give yourself the gift of time in coming to answers for your life…It takes time, and a lot of introspection and soul-searching, to get clear about what you really want to manifest in your life.',
-    1 => 'David Emerald',
-  ),
-  11 => 
-  array (
-    0 => 'At the touch of love everyone becomes a poet.',
-    1 => 'Colin Wilson',
-  ),
-  12 => 
-  array (
-    0 => 'However we spend our time—be it surfing Facebook or exercising at the gym—those are our actual priorities.',
-    1 => 'The Minimalists',
-  ),
-  13 => 
-  array (
-    0 => 'So I feel like success is opportunity plus preparation, so work begets work, and as long as you\'re prepared it\'s going to continue to come your way.',
-    1 => 'Anthony Mackie',
-  ),
-  14 => 
-  array (
-    0 => 'Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine.',
-    1 => 'Jack Ma',
-  ),
-  15 => 
-  array (
-    0 => 'Real wealth can only increase.',
-    1 => 'R. Buckminster Fuller',
-  ),
-  16 => 
-  array (
-    0 => 'The split in America, rather than simply economic, is between those who embrace reason, who function in the real world of cause and effect, and those who, numbed by isolation and despair, now seek meaning in a mythical world of intuition, a world that is no longer reality-based, a world of magic.',
-    1 => 'Chris Hedges, American Fascists: The Christian Right and the War On America',
-  ),
-  17 => 
-  array (
-    0 => 'Nothing can withstand the power of the human will if it is willing to stake its very existence to the extent of its purpose.',
-    1 => 'Benjamin Disraeli',
-  ),
-  18 => 
-  array (
-    0 => 'Pain is temporary. Quitting lasts forever.',
-    1 => 'Lance Armstrong',
-  ),
-  19 => 
-  array (
-    0 => 'Yinkel, n.:
-        A person who combs his hair over his bald spot, hoping no one will notice.',
-    1 => 'Rich Hall, "Sniglets"',
-  ),
-  20 => 
-  array (
-    0 => 'As you walk in God\'s divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.',
-    1 => 'Joseph Prince',
-  ),
-  21 => 
-  array (
-    0 => 'I was taught that the way of progress is neither swift nor easy.',
-    1 => 'Marie Curie',
-  ),
-  22 => 
-  array (
-    0 => 'The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.',
-    1 => 'Helen Keller',
-  ),
-  23 => 
-  array (
-    0 => 'A creative man is motivated by the desire to achieve, not by the desire to beat others.',
-    1 => 'Ayn Rand',
-  ),
-  24 => 
-  array (
-    0 => 'Success is measured by your discipline and inner peace.',
-    1 => 'Mike Ditka',
-  ),
-);
+return [
+    [
+        'It\'s funny about men and women. Men pay in cash to get them and pay in cash to get rid of them. Women pay emotionally coming and going. Neither has it easy.',
+        'Hedy Lamarr',
+    ],
+    [
+        'Real success is being totally indulgent about your own trip. You put your blinders on about the garbage and go full speed ahead.',
+        'Betsey Johnson',
+    ],
+    [
+        'We believe in liberty, we believe in limited government, we believe in free enterprise, we believe in family values and the sanctity of human life, and we all believe Washington needs a good dose of Economics 101.',
+        'Kurt Bills',
+    ],
+    [
+        'I think the success that I have is due to hard work and destiny. It is important to stay grounded and not take things for granted.',
+        'Alia Bhatt',
+    ],
+    [
+        'A somebody was once a nobody who wanted to and did.',
+        'John Burroughs',
+    ],
+    [
+        'Consider a tree for a moment. As beautiful as trees are to look at, we don\'t see what goes on underground - as they grow roots. Trees must develop deep roots in order to grow strong and produce their beauty. But we don\'t see the roots. We just see and enjoy the beauty. In much the same way, what goes on inside of us is like the roots of a tree.',
+        'Joyce Meyer',
+    ],
+    [
+        'So to me, Texas Hold \'em puts me to sleep. At least when you play stud, you can be funny as you deal. Somebody some day is going to come up with a Stud show that\'s going to work.',
+        'Joseph Bologna',
+    ],
+    [
+        'Travel teaches as much as books.',
+        'Youssou N\'Dour',
+    ],
+    [
+        'Always keep that happy attitude. Pretend that you are holding a beautiful fragrant bouquet.',
+        'Earl Nightingale',
+    ],
+    [
+        'The handicap of deafness is not in the ear; it is in the mind.',
+        'Marlee Matlin',
+    ],
+    [
+        'I have found that a smile and a stick will carry you through all right, and in ninety-nine cases out of a hundred it is the smile that does the trick.',
+        'Robert Powell',
+    ],
+    [
+        'Genuine love should first be directed at oneself. if we do not love ourselves, how can we love others?',
+        'Dalai Lama',
+    ],
+    [
+        'You may only be someone in the world, but to someone else, you may be the world.',
+        '',
+    ],
+    [
+        'Great perils have this beauty, that they bring to light the fraternity of strangers.',
+        'Victor Hugo',
+    ],
+    [
+        'What is tolerance? It is the consequence of humanity. We are all formed of frailty and error; let us pardon reciprocally each other\'s folly - that is the first law of nature.',
+        'Voltaire',
+    ],
+    [
+        'Each time dawn appears, the mystery is there in its entirety.',
+        'Rene Daumal',
+    ],
+    [
+        'Success is not a function of the size of your title but the richness of your contribution.',
+        'Robin S. Sharma',
+    ],
+    [
+        'You can\'t just give someone a creativity injection. You have to create an environment for curiosity and a way to encourage people and get the best out of them.',
+        'Ken Robinson',
+    ],
+    [
+        'Things don\'t just happen in this world of arising and passing away. We don\'t live in some kind of crazy, accidental universe. Things happen according to certain laws, laws of nature. Laws such as the law of karma, which teaches us that as a certain seed gets planted, so will that fruit be.',
+        'Sharon Salzberg',
+    ],
+    [
+        'We live in a world of constant juxtaposition between joy that\'s possible and pain that\'s all too common. We hope for love and success and abundance, but we never quite forget that there is always lurking the possibility of disaster.',
+        'Marianne Williamson',
+    ],
+    [
+        'One finds limits by pushing them.',
+        'Herbert Simon',
+    ],
+    [
+        'I\'m not interested in age. People who tell me their age are silly. You\'re as old as you feel.',
+        'Elizabeth Arden',
+    ],
+    [
+        'When leaders know how to lead great meetings, there\'s less time wasted and less frustration. We have more energy to do the work that matters, realize our full potential, and do great things.',
+        'Justin Rosenstein',
+    ],
+    [
+        'Our environment, the world in which we live and work, is a mirror of our attitudes and expectations.',
+        'Earl Nightingale',
+    ],
+    [
+        'College was especially sweet because of the positive, hopeful atmosphere of a college campus.',
+        'Jerry Kramer',
+    ],
+];

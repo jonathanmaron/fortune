@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Three passions, simply but overwhelmingly strong, have governed my life:  the longing for love, the search for knowledge, and the unbearable pity for the suffering of mankind.',
-    1 => 'Bertrand Russell',
-  ),
-  1 => 
-  array (
-    0 => '... the educated person is not the person who can answer the questions, but the person who can question the answers.',
-    1 => 'Theodore Schick Jr., in "The Skeptical Inquirer", March/April, 1997',
-  ),
-  2 => 
-  array (
-    0 => 'Each person has an ideal, a hope, a dream which represents the soul. We must give to it the warmth of love, the light of understanding and the essence of encouragement.',
-    1 => 'Colby Dorr Dam',
-  ),
-  3 => 
-  array (
-    0 => 'I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon...',
-    1 => 'Lyndon B. Johnson',
-  ),
-  4 => 
-  array (
-    0 => 'Reflect upon your present blessings, of which every man has plenty; not on your past misfortunes of which all men have some.',
-    1 => 'Charles Dickens',
-  ),
-  5 => 
-  array (
-    0 => 'Those who do not understand Unix are condemned to reinvent it, poorly.',
-    1 => 'Henry Spencer, University of Toronto Unix hacker',
-  ),
-  6 => 
-  array (
-    0 => 'No matter what happens, somebody will find a way to take it too seriously.',
-    1 => 'Dave Barry',
-  ),
-  7 => 
-  array (
-    0 => 'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
-    1 => 'Nick Saban',
-  ),
-  8 => 
-  array (
-    0 => 'In the first six to twelve months of a war with the United States and Great Britain I will run wild and win victory upon victory. But then, if the war continues after that, I have no expectation of success.',
-    1 => 'Isoroku Yamamoto',
-  ),
-  9 => 
-  array (
-    0 => 'I\'m thrilled to continue my partnership with U by Kotex for Generation Know while helping to empower girls. I\'ve always been a motivational resource for my younger sisters and hope I can positively impact and inspire other young girls too.',
-    1 => 'Khloe Kardashian',
-  ),
-  10 => 
-  array (
-    0 => 'It doesn\'t matter if I failed. At least I passed the concept on to others. Even if I don\'t succeed, someone will succeed.',
-    1 => 'Jack Ma',
-  ),
-  11 => 
-  array (
-    0 => 'There\'s no free lunch.',
-    1 => 'Robert Heilein',
-  ),
-  12 => 
-  array (
-    0 => 'To be good is noble; but to show others how to be good is nobler and no trouble.',
-    1 => 'Mark Twain',
-  ),
-  13 => 
-  array (
-    0 => 'It\'s okay to have a bad day',
-    1 => 'Unknown',
-  ),
-  14 => 
-  array (
-    0 => 'Bond reflected that good Americans were fine people and that most of them seemed to come from Texas.',
-    1 => 'Ian Fleming, "Casino Royale"',
-  ),
-  15 => 
-  array (
-    0 => 'Some people dream of success, while other people get up every morning and make it happen.',
-    1 => 'Wayne Huizenga',
-  ),
-  16 => 
-  array (
-    0 => 'Education is what remains after one has forgotten what one has learned in school.',
-    1 => 'Albert Einstein',
-  ),
-  17 => 
-  array (
-    0 => 'If you put off everything till you\'re sure of it, you\'ll never get anything done.',
-    1 => 'Norman Vincent Peale',
-  ),
-  18 => 
-  array (
-    0 => 'When I was young, I observed that nine out of 10 things I did were failures. So I did 10 times more work.',
-    1 => 'George Bernard Shaw',
-  ),
-  19 => 
-  array (
-    0 => 'I never lose. I either win or learn.',
-    1 => 'Nelson Mandela',
-  ),
-  20 => 
-  array (
-    0 => 'The truth is rarely pure and never simple.',
-    1 => 'Oscar Wilde',
-  ),
-  21 => 
-  array (
-    0 => 'You can observe a lot just by watching.',
-    1 => 'Yogi Berra',
-  ),
-  22 => 
-  array (
-    0 => 'The secret of passion is purpose.',
-    1 => 'Robin Sharma',
-  ),
-  23 => 
-  array (
-    0 => 'Effort is only effort when it begins to hurt.',
-    1 => 'Jose Ortega y Gasset',
-  ),
-  24 => 
-  array (
-    0 => 'You know you\'ve reached true success the day you become truly humble. That\'s the day you stop needing to prove to the world - and yourself - that you\'ve accomplished something meaningful.',
-    1 => 'Naveen Jain',
-  ),
-);
+return [
+    [
+        'As a youngster, my mother and father always drilled into my head having something to fall back on. My father was kind of funny. I\'d score 40 points. I\'d come home and say, \'Look dad, I scored 40.\' He\'d never have a smile on his face. He\'d be like, \'I saw that move you did. What if you\'d hurt your knee?\'',
+        'Shaquille O\'Neal',
+    ],
+    [
+        'For a lot of people, Superman is and has always been America\'s hero. He stands for what we believe is the best within us: limitless strength tempered by compassion, that can bear adversity and emerge stronger on the other side. He stands for what we all feel we would like to be able to stand for, when standing is hardest.',
+        'J. Michael Straczynski',
+    ],
+    [
+        'The past cannot be cured.',
+        'Elizabeth I',
+    ],
+    [
+        'I\'ve failed over and over and over again in my life and that is why I succeed.',
+        'Michael Jordan',
+    ],
+    [
+        'It is impossible to feel grateful and depressed in the same moment.',
+        'Naomi Williams',
+    ],
+    [
+        'Everybody has their demons that they face, and I went through a time when I thought it was impossible to love myself.',
+        'Lindsey Stirling',
+    ],
+    [
+        'Happiness is the natural flower of duty.',
+        'Phillips Brooks',
+    ],
+    [
+        'Know how to listen, and you will profit even from those who talk badly.',
+        'Plutarch',
+    ],
+    [
+        'Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories.',
+        'Hassanal Bolkiah',
+    ],
+    [
+        'Surprise is the greatest gift which life can grant us.',
+        'Alana Stewart',
+    ],
+    [
+        'Half our life is spent trying to find something to do with the time we have rushed through life trying to save.',
+        'Will Rogers',
+    ],
+    [
+        'I was always really proud of the fact that I had a very positive influence as a role model.',
+        'David Cassidy',
+    ],
+    [
+        'I\'m a workhorse. I\'ll take anything and everything I can get, and I\'ll do it with a smile on my face.',
+        'Roman Reigns',
+    ],
+    [
+        'We hold these truths to be self-evident: that all men are created equal; that they are endowed by their Creator with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness.',
+        'Florence Nightingale',
+    ],
+    [
+        'There are a lot of movies I\'d like to throw away. That\'s not to say that I went in with that attitude. Any film I ever started, I went in with all the hope and best intentions in the world, but some films just don\'t work.',
+        'Kiefer Sutherland',
+    ],
+    [
+        'Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.',
+        'Dalai Lama',
+    ],
+    [
+        'Life is made up of marble and mud.',
+        'Nancy Reagan',
+    ],
+    [
+        'I want to live and feel all the shades, tones, and variations of mental and physical experience possible in my life. And I am horribly limited.',
+        'Tony Robbins',
+    ],
+    [
+        'Your talent is God\'s gift to you. What you do with it is your gift back to God.',
+        'Leo Buscaglia',
+    ],
+    [
+        'I love being immersed in nature, going to places in the world that are pristine and untouched by man. It\'s almost a religious experience when you go to a place like the Amazon, and there\'s no civilisation for thousands of miles.',
+        'Leonardo DiCaprio',
+    ],
+    [
+        'All you can do is be your best self. I\'ve always felt that I had to be that much more aware of how I present myself. I\'m representing more than just me. I think every person should think that way.',
+        'Misty Copeland',
+    ],
+    [
+        'Being funny is one of my greatest strengths. I can make girls smile when they\'re down, and when they\'re having a good time, I can carry on the joke.',
+        'John Krasinski',
+    ],
+    [
+        'Clearly the success of the Netflix model, releasing the entire season of \'House of Cards\' at once, proved one thing: The audience wants the control. They want the freedom. If they want to binge as they\'ve been doing on \'House of Cards\' and lots of other shows, we should let them binge.',
+        'Kevin Spacey',
+    ],
+    [
+        'The nature of catastrophe is, after all, reasonably unvarying in the way it ruins, destroys, wounds and devastates. But if something can be learned from the event - not least something as profound as the theory of plate tectonics - then it somehow puts the ruination into a much more positive light.',
+        'Simon Winchester',
+    ],
+    [
+        'As an actor, I travel around a lot and live in a lot of hotels, and many times I\'ve been in a town where the only entertainment to be had is what you find in the hotel bar or lobby.',
+        'Beau Bridges',
+    ],
+];

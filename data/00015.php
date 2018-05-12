@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Don\'t confuse fame with success. Madonna is one; Helen Keller is the other.',
-    1 => 'Erma Bombeck',
-  ),
-  1 => 
-  array (
-    0 => 'Decisions of the judges will be final unless shouted down by a really overwhelming majority of the crowd present. Abusive and obscene language may not be used by contestants when addressing members of the judging panel, or, conversely, by members of the judging panel when addressing contestants (unless struck by a boomerang).',
-    1 => 'Mudgeeraba Creek Emu-Riding and Boomerang-Throwing Association',
-  ),
-  2 => 
-  array (
-    0 => 'Persistence gets you farther than brilliance.',
-    1 => 'Robin Sharma',
-  ),
-  3 => 
-  array (
-    0 => 'Listen to yourself the voice that\'s in your Heart not your head,it will lead you to your Goal.',
-    1 => 'Les Brown',
-  ),
-  4 => 
-  array (
-    0 => 'Good planning is important. I\'ve also regarded a sense of humor as one of the most important things on a big expedition. When you\'re in a difficult or dangerous situation, or when you\'re depressed about the chances of success, someone who can make you laugh eases the tension.',
-    1 => 'Edmund Hillary',
-  ),
-  5 => 
-  array (
-    0 => 'When we avoid the legitimate suffering that results from dealing with problems, we also avoid the growth that problems demand from us.',
-    1 => 'Scott Peck',
-  ),
-  6 => 
-  array (
-    0 => 'Times and conditions change so rapidly that we must keep our aim constantly focused on the future.',
-    1 => 'Walt Disney',
-  ),
-  7 => 
-  array (
-    0 => 'Acting like you dont care is not letting it go',
-    1 => 'Penelope Douglas',
-  ),
-  8 => 
-  array (
-    0 => 'Success is falling nine times and getting up ten.',
-    1 => 'Jon Bon Jovi',
-  ),
-  9 => 
-  array (
-    0 => 'Extend to each person, no matter how trivial the contact, all the care and kindness and understanding and love that you can muster, and do it with no thought of any reward. Your life will never be the same again.',
-    1 => 'Og Mandino',
-  ),
-  10 => 
-  array (
-    0 => 'I really owe everything to my parents and their devotion and drive to see to it that their children had the education which led to the opportunities that they never were able to have.',
-    1 => 'Mark Twain',
-  ),
-  11 => 
-  array (
-    0 => 'Illinois isn\'t exactly the land that God forgot',
-    1 => 'it\'s more like the land He\'s trying to ignore.',
-  ),
-  12 => 
-  array (
-    0 => 'Watches are the only jewelry men can wear, unless you\'re Mr. T.',
-    1 => 'Gordon Bethune',
-  ),
-  13 => 
-  array (
-    0 => 'The mind determines what\'s possible. The heart surpasses it.',
-    1 => 'Pilar Coolinta',
-  ),
-  14 => 
-  array (
-    0 => 'The whole earth is in jail and we\'re plotting this incredible jailbreak.',
-    1 => 'Wavy Gravy',
-  ),
-  15 => 
-  array (
-    0 => 'All the world\'s a stage and most of us are desperately unrehearsed.',
-    1 => 'Sean O\'Casey',
-  ),
-  16 => 
-  array (
-    0 => 'At the center of your being you have the answer; you know who you are and you know what you want.',
-    1 => 'Lao Tzu',
-  ),
-  17 => 
-  array (
-    0 => 'Success is not just the crowning moment, the spiking of the ball in the end zone or the raising of the flag on the summit. It is the whole process of reaching for a goal and, sometimes, it begins with failure.',
-    1 => 'Erik Weihenmayer',
-  ),
-  18 => 
-  array (
-    0 => 'People seldom see the halting and painful steps by which the most insignificant success is achieved.',
-    1 => 'Anne Sullivan',
-  ),
-  19 => 
-  array (
-    0 => 'Of all the things people have taught me regarding life lessons or anything that would benefit me, I don\'t think anything helped me learn more about life than football. You go through so many different things: adversity, how to handle adversity, how to handle success, how to lead, how to be a teammate, how to communicate.',
-    1 => 'Josh McDaniels',
-  ),
-  20 => 
-  array (
-    0 => 'If you want to be truly successful invest in yourself to get the knowledge you need to find your unique factor. When you find it and focus on it and persevere your success will blossom.',
-    1 => 'Sydney Madwed',
-  ),
-  21 => 
-  array (
-    0 => 'Giving is a universal opportunity. Regardless of your age, profession, religion, income bracket, and background, you have the capacity to create change.',
-    1 => 'Carl Sandburg',
-  ),
-  22 => 
-  array (
-    0 => 'Our success as a nation is not measured by how many years we have governed or how many wars we have won. It is measured by the quality of life which we have created for the society that our ideals were founded upon.',
-    1 => 'Mathew Morgan',
-  ),
-  23 => 
-  array (
-    0 => 'All I can do will only ever be a faint image of what I see and my success will always be less than my failure or perhaps equal to the failure.',
-    1 => 'Alberto Giacometti',
-  ),
-  24 => 
-  array (
-    0 => 'We shouldn\'t teach great books; we should teach a love of reading.',
-    1 => 'B. F. Skinner',
-  ),
-);
+return [
+    [
+        'Whatever you want in life, other people are going to want it too. Believe in yourself enough to accept the idea that you have an equal right to it.',
+        'Diane Sawyer',
+    ],
+    [
+        'Ability is what you\'re capable of doing. Motivation determines what you do.Attitude determines how well you do it.',
+        'Lou Holtz',
+    ],
+    [
+        'It was my father who instilled the \'never say no\' attitude I carry around with me today, and who instilled in me a sense of wonder, always taking us on adventures in the car, never telling us the destination.',
+        'Marlee Matlin',
+    ],
+    [
+        'Beauty is not something you can count on. Usually, when people say you are beautiful, it is when there is a harmony between the inside and the outside.',
+        'Emmanuelle Beart',
+    ],
+    [
+        'I love the sea\'s sounds and the way it reflects the sky. The colours that shimmer across its surface are unbelievable. This, combined with the colour of the water over white sand, surprises me every time.',
+        'John Dyer',
+    ],
+    [
+        'It\'s your outlook on life that counts. If you take yourself lightly and don\'t take yourself too seriously, pretty soon you can find the humor in our everyday lives. And sometimes it can be a lifesaver.',
+        'Betty White',
+    ],
+    [
+        'As an African-American male born with a couple of strikes against you because of your skin color, I think it\'s very, very important to have some positive role models around, especially male influences.',
+        'Omari Hardwick',
+    ],
+    [
+        'I\'m a big believer in persistence, don\'t be greedy and, above all, work hard. It\'s what keeps me going.',
+        'Caprice Bourret',
+    ],
+    [
+        'It\'s funny how a chubby kid can just be having fun, and people call it entertainment!',
+        'Garth Brooks',
+    ],
+    [
+        'Sometimes not telling people anything is a good thing.',
+        'Jason Myers',
+    ],
+    [
+        'Live life for the moment because everything else is uncertain!',
+        'Rose Kennedy',
+    ],
+    [
+        'Wars will remain while human nature remains. I believe in my soul in cooperation, in arbitration; but the soldier\'s occupation we cannot say is gone until human nature is gone.',
+        'Rutherford B. Hayes',
+    ],
+    [
+        'The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life.',
+        'Neale Donald Walsch',
+    ],
+    [
+        'Coral reefs represent some of the world\'s most spectacular beauty spots, but they are also the foundation of marine life: without them many of the sea\'s most exquisite species will not survive.',
+        'Sheherazade Goldsmith',
+    ],
+    [
+        'I\'m a small-town boy who comes from a traditional family on a tiny island called Belitung. I may not know where I\'m going, but I\'ll always know where to come home to.',
+        'Andrea Hirata',
+    ],
+    [
+        'Life is pleasant. Death is peaceful. It\'s the transition that\'s troublesome.',
+        'Henry Ford',
+    ],
+    [
+        'For time is the longest distance between two places.',
+        'Tennessee Williams',
+    ],
+    [
+        'Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.',
+        'Wayne Dyer',
+    ],
+    [
+        'Beauty, sweet love, is like the morning dew, Whose short refresh upon tender green, Cheers for a time, but till the sun doth show And straight is gone, as it had never been.',
+        'Samuel Daniel',
+    ],
+    [
+        'Be not entangled in this world of days and nights; Thou hast another time and space as well.',
+        'Muhammad Iqbal',
+    ],
+    [
+        'Disasters are called natural, as if nature were the executioner and not the victim.',
+        'Eduardo Galeano',
+    ],
+    [
+        'What drives success, and the most successful students, is internal motivation.',
+        'Vivienne Ming',
+    ],
+    [
+        'You block your dream when you allow your fear to grow bigger than your faith.',
+        'Mary Morrissey',
+    ],
+    [
+        'You were not born a winner, and you were not born a loser. You are what you make yourself be.',
+        'Lou Holtz',
+    ],
+    [
+        'I\'m used to adversity and working really well in difficult situations. It was hard for me to accept the success.',
+        'Paula Cole',
+    ],
+];

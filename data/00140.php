@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The way is not in the sky. The way is in the heart.',
-    1 => 'Buddha',
-  ),
-  1 => 
-  array (
-    0 => 'A successful man is one who can lay a firm foundation with the bricks others have thrown at him.',
-    1 => 'David Brinkley',
-  ),
-  2 => 
-  array (
-    0 => 'Don\'t do something permanently stupid when you\'re temporarily upset.',
-    1 => '/u/joepamps',
-  ),
-  3 => 
-  array (
-    0 => 'Confidence comes not from always being right, but from not fearing to be wrong.',
-    1 => 'Peter McIntyre',
-  ),
-  4 => 
-  array (
-    0 => 'The happiness of a man in this life does not consist in the absence, but in the mastery, of his passions.',
-    1 => 'Alfred Tennyson, 1st Baron Tennyson',
-  ),
-  5 => 
-  array (
-    0 => 'It is easier to forgive an enemy than to forgive a friend.',
-    1 => 'William Blaker',
-  ),
-  6 => 
-  array (
-    0 => 'No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.',
-    1 => 'Godfrey Winn',
-  ),
-  7 => 
-  array (
-    0 => 'The fame of heroes owes little to the extent of their conquests and all to the success of the tributes paid to them.',
-    1 => 'Jean Genet',
-  ),
-  8 => 
-  array (
-    0 => 'There is nothing permanent except change.',
-    1 => 'Heraclitus',
-  ),
-  9 => 
-  array (
-    0 => 'You have it easily in your power to increase the sum total of this world\'s happiness now. How? By giving a few words of sincere appreciation to someone who is lonely or discouraged. Perhaps you will forget tomorrow the kind words you say today, but the recipient may cherish them over a lifetime.',
-    1 => 'Dale Carnegie',
-  ),
-  10 => 
-  array (
-    0 => 'A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.',
-    1 => 'Elbert Hubbard',
-  ),
-  11 => 
-  array (
-    0 => 'No man\'s life, liberty, or property is safe while the Legislature is in session.',
-    1 => 'Lysander Spooner',
-  ),
-  12 => 
-  array (
-    0 => 'I want you to be everything that\'s you, deep at the center of your being.',
-    1 => 'Confucius',
-  ),
-  13 => 
-  array (
-    0 => 'The flowers of all the tomorrows are in the seeds of today.',
-    1 => 'Chinese Proverb',
-  ),
-  14 => 
-  array (
-    0 => 'Ada is the work of an architect, not a computer scientist.',
-    1 => 'Jean Ichbiah, inventor of Ada, weenie',
-  ),
-  15 => 
-  array (
-    0 => 'Everything we know is only some kind of approximation.',
-    1 => 'Richard Feynman',
-  ),
-  16 => 
-  array (
-    0 => 'The best way to cheer yourself up is to try to cheer somebody else up',
-    1 => 'Mark Twain',
-  ),
-  17 => 
-  array (
-    0 => 'Indifference and neglect often do much more damage than outright dislike.',
-    1 => 'Dumbledore –The Order of the Phoenix',
-  ),
-  18 => 
-  array (
-    0 => '[He was] a solemn, unsmiling, sanctimonious old iceberg who looked like he was waiting for a vacancy in the Trinity.',
-    1 => 'Mark Twain',
-  ),
-  19 => 
-  array (
-    0 => 'Critical thinking is the antidote to gullibility and credulity, which explains why politicians aren\'t fond of critical thinking.',
-    1 => 'Brian M. Clapper',
-  ),
-  20 => 
-  array (
-    0 => 'Until you value yourself you will not value your time. Until you value your time, you will not do anything with it.',
-    1 => 'M. Scott Peck',
-  ),
-  21 => 
-  array (
-    0 => 'I appreciate people who are civil, whether they mean it or not. I think: Be civil. Do not cherish your opinion over my feelings. There\'s a vanity to candor that isn\'t really worth it. Be kind.',
-    1 => 'Richard Greenberg',
-  ),
-  22 => 
-  array (
-    0 => 'It ain\'t about how hard you can hit. Its about how hard you can get hit, and how much you can take, and keep moving forward.',
-    1 => 'Rocky Balboa',
-  ),
-  23 => 
-  array (
-    0 => 'Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.',
-    1 => 'A.P.J. Abdul Kalam',
-  ),
-  24 => 
-  array (
-    0 => 'Invest in the human soul. Who knows, it might be a diamond in the rough.',
-    1 => 'Mary McLeod Bethune',
-  ),
-);
+return [
+    [
+        'To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.',
+        'Byron Pulsifer',
+    ],
+    [
+        'When I was a kid, no one would believe anything positive that you could say about black people. That\'s a terrible burden.',
+        'Kareem Abdul-Jabbar',
+    ],
+    [
+        'If you come to a fork in the road, take it.',
+        '',
+    ],
+    [
+        'I\'m a greater believer in luck, and I find the harder I work the more I have of it.',
+        'Thomas Jefferson',
+    ],
+    [
+        'Luck is where opportunity meets preparation.',
+        'Seneca',
+    ],
+    [
+        'Be regular and orderly in your life, so that you may be violent and original in your work.',
+        'Gustave Flaubert',
+    ],
+    [
+        'A person will sometimes devote all his life to the development of one part of his body - the wishbone.',
+        'Josephine de La Baume',
+    ],
+    [
+        'To have faith doesn\'t mean you get any less frustrated when you don\'t do your best, but you know that it\'s not life and death. Take what you\'re given, and when you continue to work hard, you will see results. That will give you the confidence you need to keep going.',
+        'Tom Lehman',
+    ],
+    [
+        'Best thing that\'s happened this year? Maybe Hostel. It was a great experience. I loved it.',
+        'Jay Hernandez',
+    ],
+    [
+        'Sometimes we may ask God for success, and He gives us physical and mental stamina. We might plead for prosperity, and we receive enlarged perspective and increased patience, or we petition for growth and are blessed with the gift of grace. He may bestow upon us conviction and confidence as we strive to achieve worthy goals.',
+        'David A. Bednar',
+    ],
+    [
+        'There is an inherent hope and positive drive to New Yorkers.',
+        'John Oliver',
+    ],
+    [
+        'If we can produce more ethanol and bio-diesel to help fuel our vehicles, we will create jobs, boost local economies and produce cleaner burning fuels. This will keep dollars here at home where they can have a positive impact on our economy.',
+        'Rick Renzi',
+    ],
+    [
+        'There are certain expectations that are put on you as a child actor, but mainly it\'s just turn up and say your lines with a lot of energy and a cute smile.',
+        'Naomie Harris',
+    ],
+    [
+        'Every man\'s life is a fairy tale written by God\'s fingers.',
+        'Hans Christian Andersen',
+    ],
+    [
+        'I am very close to my family. I have learned a lot from my father. He used to tell me to be honest with yourself and not to argue with your seniors. You don\'t need to be involved in any quarrel, as sometimes you need to remain silent intelligently.',
+        'Suresh Raina',
+    ],
+    [
+        'The power of intuitive understanding will protect you from harm until the end of your days.',
+        'Laozi',
+    ],
+    [
+        'I hate banks. They do nothing positive for anybody except take care of themselves. They\'re first in with their fees and first out when there\'s trouble.',
+        'Earl Warren',
+    ],
+    [
+        'I try to explain to people that the only way to be cool is to be who you truly are, and the only way to live life is to do the things that you want to do and be the person that you want to be no matter who that is or what that is or how you have to do it. That\'s the only way you can be genuinely happy.',
+        'Scott Hamilton',
+    ],
+    [
+        'I surround myself with positive, productive people of good will and decency.',
+        'Ted Nugent',
+    ],
+    [
+        'My ultimate goal is to end up being happy. Most of the time.',
+        'Taylor Swift',
+    ],
+    [
+        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
+        'Unknown',
+    ],
+    [
+        'Play is the work of childhood.',
+        'Jean Piaget',
+    ],
+    [
+        'If you play the same club every week of every month, it\'s kind of boring. It\'s great that you can play one night in Brazil and one night in Japan, one night in Europe, and see the world. It\'s amazing what you see if you travel around the world.',
+        'Tiesto',
+    ],
+    [
+        'The way to Heaven is ascending; we must be content to travel uphill, though it be hard and tiresome, and contrary to the natural bias of our flesh.',
+        'Jonathan Edwards',
+    ],
+    [
+        'Actors are supposed to be these runaways that get in a covered wagon filled with hats and tambourines and go from town to town making people smile.',
+        'John Cho',
+    ],
+];

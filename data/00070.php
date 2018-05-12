@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Compassion for myself is the most powerful healer of them all.',
-    1 => 'Theodore Isaac Rubin',
-  ),
-  1 => 
-  array (
-    0 => 'Open the doors of opportunity to talent and virtue and they will do themselves justice.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  2 => 
-  array (
-    0 => 'Change is what people fear most.',
-    1 => 'Dostoevski',
-  ),
-  3 => 
-  array (
-    0 => 'The mode by which the inevitable comes to pass is effort.',
-    1 => 'Mary Helen Doyle',
-  ),
-  4 => 
-  array (
-    0 => 'Do the scary thing first, and get scared later.',
-    1 => 'Lemony Snicket',
-  ),
-  5 => 
-  array (
-    0 => 'First-person narrators is the way I know how to write a book with the greatest power and chance of artistic success.',
-    1 => 'Anne Rice',
-  ),
-  6 => 
-  array (
-    0 => 'If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.',
-    1 => 'Joseph Addison',
-  ),
-  7 => 
-  array (
-    0 => 'Extremes of fortune are fatal to folks of small dimensions.',
-    1 => 'Arnold Glasow',
-  ),
-  8 => 
-  array (
-    0 => 'True compassion does not come from wanting to help out those less fortunate than ourselves but from realizing our kinship with all beings.',
-    1 => 'Pema Chodron',
-  ),
-  9 => 
-  array (
-    0 => 'There are worse crimes than burning books. One of them is not reading them.',
-    1 => 'Ray Bradbury',
-  ),
-  10 => 
-  array (
-    0 => 'The truth.It is a beautiful and terrible thing, and should therefore be treated with great caution.',
-    1 => 'Dumbledore–The Philosopher\'s Stone',
-  ),
-  11 => 
-  array (
-    0 => 'I will put honesty before the risk of humiliation.',
-    1 => 'Edwin Markham',
-  ),
-  12 => 
-  array (
-    0 => 'Frequently people think compassion and love are merely sentimental. No! They are very demanding. If you are going to be compassionate, be prepared for action.',
-    1 => 'Archbishop Desmond Tutu',
-  ),
-  13 => 
-  array (
-    0 => 'Help young people. Help small guys. Because small guys will be big. Young people will have the seeds you bury in their minds, and when they grow up, they will change the world.',
-    1 => 'Jack Ma',
-  ),
-  14 => 
-  array (
-    0 => '"Hitting bottom isn\'t a weekend retreat. It\'s not a goddamn seminar.
- Stop trying to control everything and just let go! LET GO!"',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  15 => 
-  array (
-    0 => 'If you can\'t reward then you should thank.',
-    1 => 'Arabic Proverb',
-  ),
-  16 => 
-  array (
-    0 => 'Anyone can hold the helm when the sea is calm.',
-    1 => 'Publilius Syrus',
-  ),
-  17 => 
-  array (
-    0 => 'Opportunities multiply as they are seized.',
-    1 => 'Sun Tzu',
-  ),
-  18 => 
-  array (
-    0 => 'The keys to brand success are self-definition, transparency, authenticity and accountability.',
-    1 => 'Simon Mainwaring',
-  ),
-  19 => 
-  array (
-    0 => 'One of the rewards of success is freedom, the ability to do whatever you like.',
-    1 => 'Sting',
-  ),
-  20 => 
-  array (
-    0 => 'If you\'re on the right track, you\'ll get run over if you just sit there.',
-    1 => 'Will Rogers',
-  ),
-  21 => 
-  array (
-    0 => 'It\'s not about how hard you can hit; it\'s about how hard you can get hit and keep moving forward.',
-    1 => 'Rocky Balboa',
-  ),
-  22 => 
-  array (
-    0 => 'Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.',
-    1 => 'Paulo Coelho',
-  ),
-  23 => 
-  array (
-    0 => 'The highest of distinctions is service to others.',
-    1 => 'King George IV',
-  ),
-  24 => 
-  array (
-    0 => 'I congratulate you, my brave countrymen and fellow soldiers, on the spirit and success with which you have executed this important part of our enterprise.',
-    1 => 'James Wolfe',
-  ),
-);
+return [
+    [
+        'A simple life is good with me. I don\'t need a whole lot. For me, a T-shirt, a pair of shorts, barefoot on a beach and I\'m happy.',
+        'John Dewey',
+    ],
+    [
+        'The care of human life and happiness, and not their destruction, is the first and only object of good government.',
+        'Robert Henri',
+    ],
+    [
+        'The Amen of nature is always a flower.',
+        'Oliver Wendell Holmes, Sr.',
+    ],
+    [
+        'If your ego starts out, \'I am important, I am big, I am special,\' you\'re in for some disappointments when you look around at what we\'ve discovered about the universe. No, you\'re not big. No, you\'re not. You\'re small in time and in space. And you have this frail vessel called the human body that\'s limited on Earth.',
+        'Neil deGrasse Tyson',
+    ],
+    [
+        'People who work together will win, whether it be against complex football defenses, or the problems of modern society.',
+        'Vince Lombardi',
+    ],
+    [
+        'The attitude we have towards our personal pets as opposed to the animals that suffer under the factory farm is hypocritical and delusional.',
+        'James Cromwell',
+    ],
+    [
+        'When you realize there is nothing lacking, the whole world belongs to you.',
+        'Lao Tzu',
+    ],
+    [
+        'I wish that all of nature\'s magnificence, the emotion of the land, the living energy of place could be photographed.',
+        'Annie Leibovitz',
+    ],
+    [
+        'Such is the nature of men, that howsoever they may acknowledge many others to be more witty, or more eloquent, or more learned; yet they will hardly believe there be many so wise as themselves.',
+        'Thomas Hobbes',
+    ],
+    [
+        'Only put off until tomorrow what you are willing to die having left undone.',
+        'Pablo Picasso',
+    ],
+    [
+        'From my earliest acquaintance with the science of political economy, it has been evident to my mind that capital was the product of labor, and that therefore, in its best analysis there could be no natural conflict between capital and labor.',
+        'Leland Stanford',
+    ],
+    [
+        'Miracles do not, in fact, break the laws of nature.',
+        'C. S. Lewis',
+    ],
+    [
+        'I\'ve lived in many things - boats, caravans, and buses. I\'ve been homeless, I\'ve had no money: everything. But I believe in magic, and having a vision. The tough times made me a warrior. I work hard.',
+        'Neon Hitch',
+    ],
+    [
+        'As I travel around Idaho and visit with seniors, I hear almost universal concern about the rising cost of health care, particularly the cost of prescription drugs.',
+        'Michael K. Simpson',
+    ],
+    [
+        'Success to me is having ten honeydew melons and eating only the top half of each slice.',
+        'Barbra Streisand',
+    ],
+    [
+        'True life is lived when tiny changes occur.',
+        'Kay Granger',
+    ],
+    [
+        'When you encourage others, you in the process are encouraged because you\'re making a commitment and difference in that person\'s life. Encouragement really does make a difference.',
+        'Buddha',
+    ],
+    [
+        'When the human race neglects its weaker members, when the family neglects its weakest one - it\'s the first blow in a suicidal movement. I see the neglect in cities around the country, in poor white children in West Virginia and Virginia and Kentucky - in the big cities, too, for that matter.',
+        'Maya Angelou',
+    ],
+    [
+        'By nature, men love newfangledness.',
+        'Geoffrey Chaucer',
+    ],
+    [
+        'It is the function of science to discover the existence of a general reign of order in nature and to find the causes governing this order. And this refers in equal measure to the relations of man - social and political - and to the entire universe as a whole.',
+        'Dmitri Mendeleev',
+    ],
+    [
+        'I\'m fortunate enough to have learned not to waste time getting frustrated with my kids, or co-workers, or friends and family for not doing everything I wish they would. If someone doesn\'t respond to me the way I want them to, I understand that it doesn\'t have anything to do with me.',
+        'Chandra Wilson',
+    ],
+    [
+        'If I go to someplace like Switzerland, I find a lot of uptight people because they\'re living amongst so much beauty; there\'s no urgency in trying to find the beauty within themselves. If you\'re stuck in New York, you have to somehow look within yourself - otherwise, you\'d go crackers.',
+        'George Harrison',
+    ],
+    [
+        'Nothing, indeed, is more dangerous to the young artist than any conception of ideal beauty: he is constantly led by it either into weak prettiness or lifeless abstraction: whereas to touch the ideal at all, you must not strip it of vitality.',
+        'Oscar Wilde',
+    ],
+    [
+        'It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.',
+        'Byron Roberts',
+    ],
+    [
+        'Beauty is the greatest seducer of man.',
+        'Paulo Coelho',
+    ],
+];

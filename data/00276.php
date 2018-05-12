@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I think the purpose of life is to be useful, responsible, honorable, compassionate. It is, above all, to matter: to count, to stand for something, to have made some difference that you lived at all.',
-    1 => 'Leo Rosten',
-  ),
-  1 => 
-  array (
-    0 => 'No one ever went broke underestimating the taste of the American public.',
-    1 => 'Attributed to H.L. Mencken.',
-  ),
-  2 => 
-  array (
-    0 => 'Creativity is a natural extension of our enthusiasm.',
-    1 => 'Earl Nightingale',
-  ),
-  3 => 
-  array (
-    0 => 'We all need to know what it means to be honest. Honesty is more than not lying. It is truth telling, truth speaking, truth living, and truth loving.',
-    1 => 'James E. Faust',
-  ),
-  4 => 
-  array (
-    0 => 'People need to realise what real happiness and success is, because success as an actor is fleeting. You can be up there one day and gone the next.',
-    1 => 'Chuck Norris',
-  ),
-  5 => 
-  array (
-    0 => 'It is well to remember that the entire population of the universe, with one trifling exception, is composed of others.',
-    1 => 'Andrew J. Holmes',
-  ),
-  6 => 
-  array (
-    0 => 'As far as men go, it is not what they are that interests me, but what they can become.',
-    1 => 'Morrie Schwartz',
-  ),
-  7 => 
-  array (
-    0 => 'Ignorance is the Mother of Devotion.',
-    1 => 'Robert Burton',
-  ),
-  8 => 
-  array (
-    0 => 'Life does not stop and start at your convenience, you miserable piece of shit',
-    1 => 'Walter Sobchak',
-  ),
-  9 => 
-  array (
-    0 => 'Without giving up hope—that there\'s somewhere better to be, that there\'s someone better to be—we will never relax with where we are or who we are.',
-    1 => 'Pema Chodron',
-  ),
-  10 => 
-  array (
-    0 => 'Ideas shape the course of history.',
-    1 => 'John Maynard Keynes',
-  ),
-  11 => 
-  array (
-    0 => 'Let me play with it first and I\'ll tell you what it is later.',
-    1 => 'Miles Davis',
-  ),
-  12 => 
-  array (
-    0 => 'Whatever success I\'ve had, I always like to top it.',
-    1 => 'Bernie Mac',
-  ),
-  13 => 
-  array (
-    0 => 'They always say time changes things, but you actually have to change them yourself.',
-    1 => 'Andy Warhol',
-  ),
-  14 => 
-  array (
-    0 => 'The difference between a misfortune and a calamity? If Gladstone fell into the Thames, it would be a misfortune. But if someone dragged him out again, it would be a calamity.',
-    1 => 'Benjamin Disraeli',
-  ),
-  15 => 
-  array (
-    0 => 'Always read stuff that will make you look good if you die in the middle of it.',
-    1 => 'P. J. O\'Rourke',
-  ),
-  16 => 
-  array (
-    0 => 'A #2 pencil and a dream can take you anywhere.',
-    1 => 'Joyce Meyer',
-  ),
-  17 => 
-  array (
-    0 => 'He who lives in harmony with himself lives in harmony with the universe',
-    1 => 'Marcus Aurelius',
-  ),
-  18 => 
-  array (
-    0 => 'Gratitude is not only the greatest of virtues, but the parent of all the others.',
-    1 => 'Sir Winston Churchill',
-  ),
-  19 => 
-  array (
-    0 => 'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.',
-    1 => 'Mother Teresa',
-  ),
-  20 => 
-  array (
-    0 => 'Life is like riding a bicycle. In order to maintain balance, you must keep moving.',
-    1 => 'Albert Einstein',
-  ),
-  21 => 
-  array (
-    0 => 'Problems can become opportunities when the right people come together.',
-    1 => 'Robert Redford',
-  ),
-  22 => 
-  array (
-    0 => 'Every exit is an entry somewhere else.',
-    1 => 'Tom Stoppard',
-  ),
-  23 => 
-  array (
-    0 => 'It is bad luck to be superstitious.',
-    1 => 'Andrew W. Mathis',
-  ),
-  24 => 
-  array (
-    0 => 'If you can figure out my success on the screen, you\'re a better man than I.',
-    1 => 'Alan Ladd',
-  ),
-);
+return [
+    [
+        'Being alone on the moors is scary; as the rain clouds settle in, it makes you realise your place in nature.',
+        'Dave Davies',
+    ],
+    [
+        'In many a piece of music, it\'s the pause or the rest that gives the piece its beauty and its shape. And I know I, as a writer, will often try to include a lot of empty space on the page so that the reader can complete my thoughts and sentences and so that her imagination has room to breathe.',
+        'Pico Iyer',
+    ],
+    [
+        'If you\'re not comfortable with public speaking - and nobody starts out comfortable; you have to learn how to be comfortable - practice. I cannot overstate the importance of practicing. Get some close friends or family members to help evaluate you, or somebody at work that you trust.',
+        'Hillary Clinton',
+    ],
+    [
+        'All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.',
+        'Martin Luther King, Jr.',
+    ],
+    [
+        'If you really believe in what you\'re doing, work hard, take nothing personally and if something blocks one route, find another. Never give up.',
+        'Laurie Notaro',
+    ],
+    [
+        'The attitude that poetry should not be analyzed is prevalent among many who consider themselves experts on children\'s literature. But I suspected that kids like to look closely at things and figure out what makes them go.',
+        'X. J. Kennedy',
+    ],
+    [
+        'Young women from a very young age are taught that life will be easier if you can just turn on the charming smile and say very little and be complacent and docile and sweet.',
+        'Amber Heard',
+    ],
+    [
+        'Of course, I think that people are just waiting for that time when I make a mistake and they\'re gonna jump on it.... There\'s gonna be haters.',
+        'Justin Bieber',
+    ],
+    [
+        'The mind is everything. What you think you become.',
+        'Buddha',
+    ],
+    [
+        'A hero is someone who has given his or her life to something bigger than oneself.',
+        'Joseph Campbell',
+    ],
+    [
+        'When I was little, I didn\'t smile much. Don\'t get me wrong. I was a happy kid, but I couldn\'t stand the space, dead center, in between my teeth. Yeah, I could whistle through it, but so what? That didn\'t win me many points on the playground in Medfield, Massachusetts.',
+        'Uzo Aduba',
+    ],
+    [
+        'After a point of time, when you get success and fame, money and everything, the purpose of life has to be redefined. For me, I think that purpose is to build bridges. Artists can do that very easily, more than politicians.',
+        'A. R. Rahman',
+    ],
+    [
+        'You can do it if you believe you can!',
+        'Napoleon Hill',
+    ],
+    [
+        'When you get into a tight place and everything goes against you, till it seems as though you could not hang on a minute longer, never give up then, for that is just the place and time that the tide will turn.',
+        'Harriet Beecher Stowe',
+    ],
+    [
+        'I am positive that flexibility is a feminine characteristic.',
+        'Emma Bonino',
+    ],
+    [
+        'Everybody is vulnerable to being in relationships where they get fooled. I\'m no different. It\'s just human nature.',
+        'Michelle Pfeiffer',
+    ],
+    [
+        'I think for any small business that\'s bootstrapped, the overwhelming challenge initially is getting to positive cash flow.',
+        'John Mackey',
+    ],
+    [
+        'What you fear is that which requires action to overcome.',
+        'Byron Pulsifer',
+    ],
+    [
+        'The trouble is you think you have time.',
+        'Buddha',
+    ],
+    [
+        'There is simply no substitute for hard work when it comes to achieving success.',
+        'Heather Bresch',
+    ],
+    [
+        'But the funny thing is, I broke my finger not on set doing kung fu. I broke my finger when I fell down the stairs prior to going on set.',
+        'Jaime King',
+    ],
+    [
+        'I am two with nature.',
+        'Woody Allen',
+    ],
+    [
+        'I\'m a little bit phobic about stains on my clothes, so I never travel without a little packet of organic stain remover.',
+        'John Malkovich',
+    ],
+    [
+        'The best thing to do when you find yourself in a hurting or vulnerable place is to surround yourself with the strongest, finest, most positive people you know.',
+        'Kristin Armstrong',
+    ],
+    [
+        'Family violence is a criminal act; perpetrators, while often former victims themselves, need to accept culpability.',
+        'Leslie Morgan Steiner',
+    ],
+];

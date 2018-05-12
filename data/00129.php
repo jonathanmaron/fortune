@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It does me no injury for my neighbor to say there are twenty gods or no God. It neither picks my pocket nor breaks my leg.',
-    1 => 'Thomas Jefferson',
-  ),
-  1 => 
-  array (
-    0 => 'We cannot change the cards we are dealt, just how we play the hand.',
-    1 => 'Randy Pausch',
-  ),
-  2 => 
-  array (
-    0 => 'As knowledge increases, wonder deepens.',
-    1 => 'Charles Morgan',
-  ),
-  3 => 
-  array (
-    0 => 'We are what we pretend to be.',
-    1 => 'Kurt Vonnegut, JR',
-  ),
-  4 => 
-  array (
-    0 => 'Nothing happens unless first a dream.',
-    1 => 'Carl Sandburg',
-  ),
-  5 => 
-  array (
-    0 => 'Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing.',
-    1 => 'Thomas Jefferson',
-  ),
-  6 => 
-  array (
-    0 => 'No matter what sort of adversity or challenge you might face, you can always believe that, with hope, it can be conquered and, in the end, you will be stronger for it.',
-    1 => 'Brooke Ellison',
-  ),
-  7 => 
-  array (
-    0 => 'We are disturbed not by what happens to us, but by our thoughts about what happens.',
-    1 => 'Epictetus',
-  ),
-  8 => 
-  array (
-    0 => 'I don\'t believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.',
-    1 => 'Ken Venturi',
-  ),
-  9 => 
-  array (
-    0 => 'If you don\'t like something change it; if you can\'t change it, change the way you think about it.',
-    1 => 'Mary Engelbreit',
-  ),
-  10 => 
-  array (
-    0 => 'If we all did the things we are capable of doing we would literally astound ourselves.',
-    1 => 'Thomas Edison',
-  ),
-  11 => 
-  array (
-    0 => '[The Ramones\'] "I Wanna Be Sedated" should be played loud, poorly, and in some dingy club where you\'d get grounded if your folks found out you were there, not quietly while strolling down the freezer aisle.',
-    1 => 'Drew Sudell',
-  ),
-  12 => 
-  array (
-    0 => 'Spiritual leadership should remain spiritual leadership and the temporal power should not become too important in any church.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  13 => 
-  array (
-    0 => 'Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.',
-    1 => 'Marcus Aurelius',
-  ),
-  14 => 
-  array (
-    0 => 'Last night somebody broke into my apartment and replaced everything with exact duplicates... When I pointed it out to my roommate, he said, \'Do I know you?\'',
-    1 => 'Steven Wright ',
-  ),
-  15 => 
-  array (
-    0 => 'If people sat outside the looked at the stars each night, I\'ll bet they\'d live a lot differently',
-    1 => 'Bill Watterson',
-  ),
-  16 => 
-  array (
-    0 => 'Sometimes good guys gotta to bad things to make the bad guys pay.',
-    1 => 'Harvey Specter',
-  ),
-  17 => 
-  array (
-    0 => 'Well, vegans, as you know, don\'t have eggs, meat, dairy, or senses of humor.',
-    1 => 'Peter Sagal, on NPR\'s "Wait, Wait, Don\'t Tell Me" (21 Sep, 2013)',
-  ),
-  18 => 
-  array (
-    0 => 'Either move or be moved.',
-    1 => 'Ezra Pound',
-  ),
-  19 => 
-  array (
-    0 => 'Make treating yourself a priority and always remember your life is happening now. Don\'t put off all your dreams and pleasures to another day. In any balanced personal definition of success there has to be a powerful element of living life in the present.',
-    1 => 'Mireille Guiliano',
-  ),
-  20 => 
-  array (
-    0 => 'Lord, defend me from my friends; I can account for my enemies.',
-    1 => 'D\'Hericault',
-  ),
-  21 => 
-  array (
-    0 => 'Hope is not pretending that troubles don\'t exist. It is the hope that they won\'t last forever. That hurts will be healed and difficulties overcome. That we will be led out of the darkness and into the sunshine.',
-    1 => 'Anonymous',
-  ),
-  22 => 
-  array (
-    0 => 'Wise men speak because they have something to say; Fools because they have to say something.',
-    1 => 'Plato',
-  ),
-  23 => 
-  array (
-    0 => 'Evolution is a bankrupt speculative philosophy, not a scientific fact.
-Only a spiritually bankrupt society could ever believe it. ... Only atheists could accept this Satanic theory.',
-    1 => 'Rev. Jimmy Swaggart, "The Pre-Adamic Creation and Evolution"',
-  ),
-  24 => 
-  array (
-    0 => 'All suffering originates from craving, from attachment, from desire.',
-    1 => 'Edgar Allan Poe',
-  ),
-);
+return [
+    [
+        'You want a friend who\'s going to tell you the truth. That\'s what it\'s about. If you don\'t have a friend who\'s going to tell you the truth every time something comes up, you feel like he\'s not a true friend.',
+        'Donald Driver',
+    ],
+    [
+        'Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man\'s life is independent. He is born not for the development of the society alone, but for the development of his self.',
+        'Lenny Kravitz',
+    ],
+    [
+        'The time you think you\'re missing, misses you too.',
+        'Ymber Delecto',
+    ],
+    [
+        'Your problem isn\'t the problem. Your reaction is the problem.',
+        'Unknown',
+    ],
+    [
+        'Turn your face to the sun and the shadows fall behind you.',
+        'Unknown',
+    ],
+    [
+        'You must know that Iran has a great number of productions. Many films are released. Most of them, like in the rest of the world, are commercial and shallow films. These are the most popular ones. And there are a few ones that actually develop more profound and thoughtful aspects of life. Only some of these films travel out of Iran.',
+        'Asghar Farhadi',
+    ],
+    [
+        'Do your best, one shot at a time and then move on. Remember that golf is just a game.',
+        'Nancy Lopez',
+    ],
+    [
+        'Why do I talk about the benefits of failure? Simply because failure meant a stripping away of the inessential. I stopped pretending to myself that I was anything other than what I was, and began to direct all my energy into finishing the only work that mattered to me.',
+        'J. K. Rowling',
+    ],
+    [
+        'It\'s very hypocritical to constantly say, \'We want to keep our kids close,\' then send them home with so much homework that family time becomes nonexistent.',
+        'Marcia Gay Harden',
+    ],
+    [
+        'I love to swim. When I jump in the water, I feel like I\'m 12 years old again. It\'s really funny how it does that to me.',
+        'Summer Sanders',
+    ],
+    [
+        'Nerves can be useful, as they sharpen you up, make you determined to try your hardest and do your best.',
+        'Stephen Cole',
+    ],
+    [
+        'Being in Blur has allowed me to travel and hear the music that\'s being made all over the world.',
+        'Damon Albarn',
+    ],
+    [
+        'Young man, the secret of my success is that at early age I discovered that I was not God.',
+        'Oliver Wendell Holmes, Jr.',
+    ],
+    [
+        'Yesterday is not ours to recover, but tomorrow is ours to win or lose.',
+        'Lyndon B. Johnson',
+    ],
+    [
+        'The number one reason people fail in life is because they listen to their friends, family, and neighbors.',
+        'Napoleon Hill',
+    ],
+    [
+        'All our knowledge has its origins in our perceptions.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'Wishing to be friends is quick work, but friendship is a slow ripening fruit.',
+        'Aristotle',
+    ],
+    [
+        'For me, music is all about emotion and attitude.',
+        'Peter Criss',
+    ],
+    [
+        'You don\'t drown by falling in water. You drown by staying there.',
+        '',
+    ],
+    [
+        'It\'s funny, because there are so many stereotypes out there about actors and movie stars in general, but I\'ve had a great opportunity to meet a lot of them, and maybe it\'s just because they don\'t behave that way around me, but I rarely see that kind of abuse of power.',
+        'Ryan Reynolds',
+    ],
+    [
+        'I learned that we can do anything, but we can\'t do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.',
+        'Dan Millman',
+    ],
+    [
+        'The best thing is to look natural, but it takes makeup to look natural.',
+        'Calvin Klein',
+    ],
+    [
+        'The demons you have are what motivate you to make your art. This is what drives the detective, this is what drives the painter, this is what drives the writer: a conflicting urge to forget pain and at the same time remember it and fight for some kind of justice. I know these powerful things are inside of me and everyone in some way or another.',
+        'Tom Reiss',
+    ],
+    [
+        'You want everyone to be great and funny. I\'m not saying I\'m great, but I\'m funny.',
+        'Jon Lovitz',
+    ],
+    [
+        'Men are disturbed not by things, but by the view which they take of them.',
+        'Epictetus',
+    ],
+];

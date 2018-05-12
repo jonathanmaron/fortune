@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It\'s cool to have critical success because it\'s always nice for your peers to say, \'Good job.\' But who cares about them?',
-    1 => 'Zac Hanson',
-  ),
-  1 => 
-  array (
-    0 => 'What you get by achieving your goals is not as important as what you become by achieving your goals.',
-    1 => 'Zig Ziglar',
-  ),
-  2 => 
-  array (
-    0 => 'Life is what happens to you while you\'re busy making other plans.',
-    1 => 'John Lennon',
-  ),
-  3 => 
-  array (
-    0 => 'We have the best government that money can buy.',
-    1 => 'Mark Twain',
-  ),
-  4 => 
-  array (
-    0 => 'Geology shows that fossils are of different ages. Paleontology shows a fossil sequence, the list of species represented changes through time. Taxonomy shows biological relationships among species. Evolution is the explanation that threads it all together. Creationism is the practice of squeeezing one\'s eyes shut and wailing, "Does not!"',
-    1 => 'Dr.Pepper [AT] f241.n103.z1.fidonet.org',
-  ),
-  5 => 
-  array (
-    0 => 'Don\'t raise your voice, improve your argument.',
-    1 => 'Unknown',
-  ),
-  6 => 
-  array (
-    0 => '...when fits of creativity run strong, more than one programmer or writer has been known to abandon the desktop for the more spacious floor.',
-    1 => 'Fred Brooks, Jr.',
-  ),
-  7 => 
-  array (
-    0 => 'Courage is not the absence of fear, but rather the judgment that something else is more important than fear.',
-    1 => 'James Neil Hollingworth (pseudonym Ambrose Redmoon)',
-  ),
-  8 => 
-  array (
-    0 => 'The supreme art of war is to subdue the enemy without fighting.',
-    1 => 'Sun Tzu',
-  ),
-  9 => 
-  array (
-    0 => 'If you\'re trying to achieve, there will be road blocks. I\'ve had them; everybody has had them. But obstacles don\'t have to stop you. If you run into a wall, don\'t turn around and give up. Figure out how to climb it, go through it, or work around it.',
-    1 => 'Michael Jordan',
-  ),
-  10 => 
-  array (
-    0 => 'The wife you save may be your own.',
-    1 => 'Unofficial slogan of supporters of one of FDR\'s sons,
-           a notorious womanizer, during the son\'s first congressional race',
-  ),
-  11 => 
-  array (
-    0 => 'What luck for rulers that men do not think',
-    1 => 'Adolf Hitler',
-  ),
-  12 => 
-  array (
-    0 => 'Experience is a hard teacher because she gives the test first, the lesson afterwards.',
-    1 => 'Vernon Sanders Law',
-  ),
-  13 => 
-  array (
-    0 => 'I\'m not a defender of old or new football managers. I believe in good ones and bad ones, those that achieve success and those that don\'t.',
-    1 => 'Jose Mourinho',
-  ),
-  14 => 
-  array (
-    0 => 'Sponges grow in the ocean. That kills me. I wonder how much deeper the ocean would be, if that didn\'t happen.',
-    1 => 'Steven Wright',
-  ),
-  15 => 
-  array (
-    0 => 'If you want to be successful, you must respect one rule – Never lie to yourself.',
-    1 => 'Paulo Coelho',
-  ),
-  16 => 
-  array (
-    0 => 'We are what we believe we are.',
-    1 => 'C.S. Lewis',
-  ),
-  17 => 
-  array (
-    0 => 'Cultivation of mind should be the ultimate aim of human existence.',
-    1 => 'B. R. Ambedkar',
-  ),
-  18 => 
-  array (
-    0 => 'If you need inspiring words, don\'t do it.',
-    1 => 'Elon Musk',
-  ),
-  19 => 
-  array (
-    0 => 'The connection between the language in which we think/program and the problems and solutions we can imagine is very close. For this reason restricting language features with the intent of eliminating programmer errors is at best dangerous.',
-    1 => 'Bjarne Stroustrup in "The C++ Programming Language"',
-  ),
-  20 => 
-  array (
-    0 => 'George loves the T Rex because it\'s the noisiest and the scariest.',
-    1 => 'Kate Middleton',
-  ),
-  21 => 
-  array (
-    0 => 'Honesty and integrity are absolutely essential for success in life - all areas of life. The really good news is that anyone can develop both honesty and integrity.',
-    1 => 'Zig Ziglar',
-  ),
-  22 => 
-  array (
-    0 => 'Success and failure are equally disastrous.',
-    1 => 'Tennessee Williams',
-  ),
-  23 => 
-  array (
-    0 => 'Life is a progress, and not a station.',
-    1 => 'Ralph Waldo Emerson',
-  ),
-  24 => 
-  array (
-    0 => 'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
-    1 => 'Milla Jovovich',
-  ),
-);
+return [
+    [
+        'I congratulate you, my brave countrymen and fellow soldiers, on the spirit and success with which you have executed this important part of our enterprise.',
+        'James Wolfe',
+    ],
+    [
+        'To travel is to discover that everyone is wrong about other countries.',
+        'Aldous Huxley',
+    ],
+    [
+        'I haven\'t seen Clones, which has been during this period when I haven\'t seen much of anything, but I did see Phantom Menace, and see my feelings about it - see, first of all, I think that when you make a lot of movies, your attitude about the movies changes.',
+        'Lawrence Kasdan',
+    ],
+    [
+        'Retaliation is related to nature and instinct, not to law. Law, by definition, cannot obey the same rules as nature.',
+        'Albert Camus',
+    ],
+    [
+        'I think it is a combination of looks, aura, success, the energies that one gives out, the person you are and the person you feel like that makes you \'desirable.\' When the outside world sees you as a man who is responsible for himself and his family, as a man who is fit and sensitive, it kind of ups your desirability.',
+        'Arjun Rampal',
+    ],
+    [
+        'My job is to be fit and I\'m really blessed that I get to go and work out and live a really healthy lifestyle.',
+        'Kerri Walsh Jennings',
+    ],
+    [
+        'I rant, therefore I am.',
+        'Dennis Miller',
+    ],
+    [
+        'Who seeks shall find.',
+        'Sophocles',
+    ],
+    [
+        'Attitude is your acceptance of the natural laws, or your rejection of the natural laws.',
+        'Stuart Chase',
+    ],
+    [
+        'I needed somebody to love me, and the people that I chose were my coaches. I would sacrifice my body to be successful for my coaches because I wanted them to love me, to respect me, to have positive feelings about me.',
+        'Steve Largent',
+    ],
+    [
+        'When you believe in a thing, believe in it all the way, implicitly and unquestionable.',
+        'Walt Disney',
+    ],
+    [
+        'I am never at my best in the early morning, especially a cold morning in the Yorkshire spring with a piercing March wind sweeping down from the fells, finding its way inside my clothing, nipping at my nose and ears.',
+        'James Herriot',
+    ],
+    [
+        'My stories are fundamentally about the love of family.',
+        'Patricia Polacco',
+    ],
+    [
+        'You know, my family and friends have never been yes-men: \'Yes, you\'re doing the right thing, you\'re always right.\' No, they tell me when I\'m wrong, and that\'s why I\'ve been able to stay who I am and stay humble.',
+        'LeBron James',
+    ],
+    [
+        'Once you have a lot of success, you become a target in many ways.',
+        'Jennifer Lopez',
+    ],
+    [
+        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it.',
+        'Earl Nightingale',
+    ],
+    [
+        'To remain a credible leader, I must always work first, hardest, and longest on changing myself. This is neither easy nor natural, but it is essential.',
+        'John C. Maxwell',
+    ],
+    [
+        'Every man\'s work, whether it be literature, or music or pictures or architecture or anything else, is always a portrait of himself.',
+        'Samuel Butler',
+    ],
+    [
+        'Frustration, although quite painful at times, is a very positive and essential part of success.',
+        'Bo Bennett',
+    ],
+    [
+        'No matter what anybody tells you, words and ideas can change the world.',
+        'John Keating',
+    ],
+    [
+        'Our spiritual attitude is determined by our conception of our relation to infinite spirit.',
+        'Paul Twitchell',
+    ],
+    [
+        'I look at an ant and I see myself: a native South African, endowed by nature with a strength much greater than my size so I might cope with the weight of a racism that crushes my spirit.',
+        'Miriam Makeba',
+    ],
+    [
+        'I\'m very physical. I\'m extremely active, and I would love to do something a little more sexy and dangerous, a la Sophia Loren, or funny and humorous, a la Woody Allen. Getting to do things along those lines would be extremely wicked and a dream come true.',
+        'Azita Ghanizada',
+    ],
+    [
+        'I thought \'Moulin Rouge\' was inspirational, and \'Jesus Christ Superstar\' I loved.',
+        'Pierce Brosnan',
+    ],
+    [
+        'There are two books that I often travel with; one is \'The Theory on Moral Sentiments\' by Adam Smith. The other is \'The Meditations.\' It\'s not that I agree with either views expressed in the books, but I believe ideas and thoughts of older generations can offer food for thought for the current generation.',
+        'Wen Jiabao',
+    ],
+];

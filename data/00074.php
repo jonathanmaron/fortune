@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'As far as we know, our computer has never had an undetected error.',
-    1 => 'Weisert',
-  ),
-  1 => 
-  array (
-    0 => 'In our daily lives, we must see that it is not happiness that makes us grateful, but the gratefulness that makes us happy.',
-    1 => 'Albert Clarke',
-  ),
-  2 => 
-  array (
-    0 => 'Time and money spent in helping people to do more for themselves is far better than mere giving.',
-    1 => 'Henry Ford',
-  ),
-  3 => 
-  array (
-    0 => 'When everything has been seen to work, all integrated, you have four more months of work to do.',
-    1 => 'C. Portman of ICL Ltd.',
-  ),
-  4 => 
-  array (
-    0 => 'If you don\'t give up, you still have a chance.',
-    1 => 'Jack Ma',
-  ),
-  5 => 
-  array (
-    0 => 'When obstacles arise, you change your direction to reach your goal, you do not change your decision to get there.',
-    1 => 'Zig Ziglar',
-  ),
-  6 => 
-  array (
-    0 => 'Successful entrepreneurs find the balance between listening to their inner voice and staying persistent in driving for success - because sometimes success is waiting right across from the transitional bump that\'s disguised as failure.',
-    1 => 'Naveen Jain',
-  ),
-  7 => 
-  array (
-    0 => 'Idleness is not doing nothing. Idleness is being free to do anything.',
-    1 => 'Floyd Dell',
-  ),
-  8 => 
-  array (
-    0 => 'Working in Windows is like baking moose shit pie. Sure, you\'re baking pies, but look what\'s in \'em.',
-    1 => 'Rich Simons',
-  ),
-  9 => 
-  array (
-    0 => 'We are taught to consume. And that\'s what we do. But if we realized that there really is no reason to consume, that it\'s just a mind set, that it\'s just an addiction, then we wouldn\'t be out there stepping on people\'s hands climbing the corporate ladder of success.',
-    1 => 'River Phoenix',
-  ),
-  10 => 
-  array (
-    0 => 'At the end of the day, the most overwhelming key to a child\'s success is the positive involvement of parents.',
-    1 => 'Jane D. Hull',
-  ),
-  11 => 
-  array (
-    0 => 'You can do anything, but not everything.',
-    1 => 'Unknown',
-  ),
-  12 => 
-  array (
-    0 => 'If it\'s working, the diagnostics say it\'s fine.
-If it\'s not working, the diagnostics say it\'s fine.',
-    1 => 'A proposed addition to rules for realtime programming',
-  ),
-  13 => 
-  array (
-    0 => 'There is nothing permanent except change.',
-    1 => 'Heraclitus',
-  ),
-  14 => 
-  array (
-    0 => 'If all the world\'s a stage, I want to operate the trap door.',
-    1 => 'Paul Beatty',
-  ),
-  15 => 
-  array (
-    0 => 'Sometimes I think we\'re alone in the universe, and sometimes I think we\'re not. In either case the idea is quite staggering.',
-    1 => 'Arthur C. Clarke',
-  ),
-  16 => 
-  array (
-    0 => 'Maintain composure in times of heightened emotion, reacting only when thoughts are calm and clear. Being sensible will open doors for solutions and creativity.',
-    1 => 'Jaren L. Davis',
-  ),
-  17 => 
-  array (
-    0 => 'The bond that links your true family is not one of blood, but of respect and joy in each other\'s life.',
-    1 => 'Segoyewatha [Red Jacket]',
-  ),
-  18 => 
-  array (
-    0 => 'No matter how many goals you have achieved, you must set your sights on a higher one.',
-    1 => 'Jessica Savitch',
-  ),
-  19 => 
-  array (
-    0 => 'The deepest craving of human nature is the need to be appreciated.',
-    1 => 'William James',
-  ),
-  20 => 
-  array (
-    0 => 'Whosoever desires constant success must change his conduct with the times.',
-    1 => 'Niccolo Machiavelli',
-  ),
-  21 => 
-  array (
-    0 => 'I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.',
-    1 => 'George Washington',
-  ),
-  22 => 
-  array (
-    0 => 'They are not poor that have little, but they that desire much. The richest man, whatever his lot, is the one who\'s content with his lot.',
-    1 => 'Dutch Proverb',
-  ),
-  23 => 
-  array (
-    0 => 'May your home always be too small to hold all your friends.',
-    1 => 'Irish Blessing',
-  ),
-  24 => 
-  array (
-    0 => 'What makes a champion is not how elegantly you start, but how strongly you finish.',
-    1 => 'Robin Sharma',
-  ),
-);
+return [
+    [
+        'Let\'s have some new cliches.',
+        'Samuel Goldwyn',
+    ],
+    [
+        'Talking is always positive. That\'s why I talk too much.',
+        'Louis C. K.',
+    ],
+    [
+        'Romanticism is not just about being in a fixed state of endless beauty, because you can\'t live like that or live on that, that\'s what I\'ve learnt.',
+        'Elizabeth Peyton',
+    ],
+    [
+        'For everything that lives is holy, life delights in life.',
+        'William Blake',
+    ],
+    [
+        'Everything that slows us down and forces patience, everything that sets us back into the slow circles of nature, is a help. Gardening is an instrument of grace.',
+        'May Sarton',
+    ],
+    [
+        'The beauty that addresses itself to the eyes is only the spell of the moment; the eye of the body is not always that of the soul.',
+        'George Sand',
+    ],
+    [
+        'All children are artists. The problem is how to remain an artist once he grows up.',
+        'Pablo Picasso',
+    ],
+    [
+        'If you have no respect for your own values how can you be worthy of respect from others.',
+        'Byron Pulsifer',
+    ],
+    [
+        'Attitude is everything.',
+        'Diane von Furstenberg',
+    ],
+    [
+        'If you want to build a ship, don\'t drum up people to collect wood and don\'t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.',
+        'Antoine de Saint-Exupery',
+    ],
+    [
+        'The only person who never makes mistakes is the person who never does anything.',
+        'Denis Waitley',
+    ],
+    [
+        'I like to use my hands and make things... It might seem pretty stupid or pointless but that doesn\'t matter... some of the most interesting work is the stuff that starts like that - out of a raw need for activity.',
+        'Bruce Nauman',
+    ],
+    [
+        'When I was a seminarian, I was dazzled by a girl I met at an uncle\'s wedding. I was surprised by her beauty, her intellectual brilliance... and, well, I was bowled over for quite a while.',
+        'Pope Francis',
+    ],
+    [
+        'Improving Africa\'s farming sector would have multiple positive outcomes for African people.',
+        'Richard Attias',
+    ],
+    [
+        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
+        'John de Mol, Jr.',
+    ],
+    [
+        'The solution for mankind is of a spiritual nature. It is not a political or religious solution. It\'s the ability to love each other. That\'s the only solution I see.',
+        'Ziggy Marley',
+    ],
+    [
+        'My mother, she had a very good attitude toward money. I\'m very grateful for the fact that we had to learn to save. I used to get like 50 pence a week, and I\'d save it for like five months. And then I\'d spend it on Christmas presents. I\'d save up like eight pounds. It\'s nothing, but we did that.',
+        'Gemma Arterton',
+    ],
+    [
+        'Success comes when people act together; failure tends to happen alone.',
+        'Deepak Chopra',
+    ],
+    [
+        'One thing an exceptional employee never says is, \'That\'s not in my job description.\' Exceptional employees work outside the boundaries of job descriptions.',
+        'Travis Bradberry',
+    ],
+    [
+        'Each day provides its own gifts.',
+        'Marcus Aurelius',
+    ],
+    [
+        'We do not celebrate people who have made success out of serious hard work.',
+        'Iain Duncan Smith',
+    ],
+    [
+        'People who use time wisely spend it on activities that advance their overall purpose in life.',
+        'John C. Maxwell',
+    ],
+    [
+        'My father instilled in me the attitude of prevailing. If there\'s a challenge, go for it. If there\'s a wall to break down, break it down.',
+        'Donny Osmond',
+    ],
+    [
+        'Patience is the companion of wisdom.',
+        'Saint Augustine',
+    ],
+    [
+        'My success is the team\'s success. It\'s one of those things to a certain degree that it\'s effort and ability but also how I benefit from what my teammates do, and then it is up to me to perform.',
+        'Jason Babin',
+    ],
+];

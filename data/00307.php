@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'We all live with the objective of being happy; our lives are all different and yet the same.',
-    1 => 'Anne Frank',
-  ),
-  1 => 
-  array (
-    0 => 'You have this idea that you\'d better keep working otherwise people will forget. And that was dangerous. And then you realize, no, actually if you take a break people might be more interested in you.',
-    1 => 'Robin Willaims',
-  ),
-  2 => 
-  array (
-    0 => 'The number of stressors has multiplied exponentially: traffic, money, success, work/life balance, the economy, the environment, parenting, family conflict, relationships, disease. As the nature of human life has become far more complicated, our ancient stress response hasn\'t been able to keep up.',
-    1 => 'Andrew J. Bernstein',
-  ),
-  3 => 
-  array (
-    0 => 'Guys, what would you wish you\'d done before you died?',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  4 => 
-  array (
-    0 => 'I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.',
-    1 => 'Albert Einstein',
-  ),
-  5 => 
-  array (
-    0 => 'Here, with whitened hair, desires failing, strength ebbing out of him, with the sun gone down and with only the serenity and the calm warning of the evening star left to him, he drank to Life, to all it had been, to what it was, to what it would be. Hurrah!',
-    1 => 'Sean O\'Casey',
-  ),
-  6 => 
-  array (
-    0 => 'Just about every massively creative person was considered an oddball by everyone around them.',
-    1 => 'Robin Sharma',
-  ),
-  7 => 
-  array (
-    0 => 'I have spread my dreams under your feet; Tread softly because you tread on my dreams.',
-    1 => 'William Butler Yeats',
-  ),
-  8 => 
-  array (
-    0 => 'Ah, music, A magic beyond all we do here!',
-    1 => 'Dumbledore-The Philosopher\'s stone',
-  ),
-  9 => 
-  array (
-    0 => 'The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. Anything. As long as you believe.',
-    1 => 'Bob Ross',
-  ),
-  10 => 
-  array (
-    0 => 'Go placidly amid the noise and waste, and remember what value there may be in owning a piece thereof.',
-    1 => 'National Lampoon, "Deteriorada"',
-  ),
-  11 => 
-  array (
-    0 => 'Even if you came last, you won over all those who feared to give it a try.',
-    1 => 'Pulkit Goel',
-  ),
-  12 => 
-  array (
-    0 => 'Encouragement of higher education for our youth is critical to the success of our collective future.',
-    1 => 'Charles B. Rangel',
-  ),
-  13 => 
-  array (
-    0 => 'Know or listen to those who know.',
-    1 => 'Baltasar Gracian',
-  ),
-  14 => 
-  array (
-    0 => 'Life doesn\'t require that we be the best, only that we try our best.',
-    1 => 'H. Jackson Brown Jr.',
-  ),
-  15 => 
-  array (
-    0 => 'Some people hold their noses when used as toilet paper by the shadowy overlords; some people inhale the heady aroma with gusto.',
-    1 => 'Rich Simons',
-  ),
-  16 => 
-  array (
-    0 => 'I maintain there is much more wonder in science than in pseudoscience. And in addition, to whatever measure this term has any meaning, science has the additional virtue, and it is not an inconsiderable one, of being true.',
-    1 => 'Carl Sagan, The Burden Of Skepticism, The Skeptical Inquirer,
-           Vol. 12, Fall 87',
-  ),
-  17 => 
-  array (
-    0 => 'A person who has good thoughts cannot ever be ugly. You can have a wonky nose and a crooked mouth and a double chin and stick-out teeth, but if you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.',
-    1 => 'Roald Dahl',
-  ),
-  18 => 
-  array (
-    0 => 'The best revenge is massive success.',
-    1 => 'Frank Sinatra',
-  ),
-  19 => 
-  array (
-    0 => 'There are no traffic jams on the extra mile.',
-    1 => 'Zig Ziglar',
-  ),
-  20 => 
-  array (
-    0 => 'I attribute my success to this: I never gave or took any excuse.',
-    1 => 'Florence Nightingale',
-  ),
-  21 => 
-  array (
-    0 => 'Your chances of success in any undertaking can always be measured by your belief in yourself.',
-    1 => 'Robert Collier',
-  ),
-  22 => 
-  array (
-    0 => 'Don\'t be afraid to go out on a limb. That\'s where the fruit is.',
-    1 => 'H. Jackson Browne',
-  ),
-  23 => 
-  array (
-    0 => 'How many of us have enough trust, strength, and faith to believe that we could do the impossible?',
-    1 => 'Rachel Joy Scott',
-  ),
-  24 => 
-  array (
-    0 => 'Start by doing what\'s necessary; then do what\'s possible; and suddenly you are doing the impossible.',
-    1 => 'Francis of Assisi',
-  ),
-);
+return [
+    [
+        'Climate change is destroying our path to sustainability. Ours is a world of looming challenges and increasingly limited resources. Sustainable development offers the best chance to adjust our course.',
+        'Ban Ki-moon',
+    ],
+    [
+        'I don\'t really remember a time younger than 5 years old that I didn\'t have skates on because all I can remember is every day, tying up my skates and a big smile on my face, excited to go on the ice.',
+        'Michelle Kwan',
+    ],
+    [
+        'Originally, the burden of proof was on physicists to prove that time travel was possible. Now the burden of proof is on physicists to prove there must be a law forbidding time travel.',
+        'Michio Kaku',
+    ],
+    [
+        'The odds of hitting your target go up dramatically when you aim at it.',
+        'Mal Pancoast',
+    ],
+    [
+        'The way positive reinforcement is carried out is more important than the amount.',
+        'B. F. Skinner',
+    ],
+    [
+        'If it\'s great stuff, the people who consume it are nourished. It\'s a positive force.',
+        'Manuel Puig',
+    ],
+    [
+        'There should not be a question of legal or illegal immigration. People came and immigrated to this country from the time of the Indians. No one\'s illegal. They should just be able to come.',
+        'Linda Ronstadt',
+    ],
+    [
+        'The IRS! They\'re like the Mafia, they can take anything they want!',
+        'Jerry Seinfeld',
+    ],
+    [
+        'Being in love is the best thing in my life.',
+        'Olivia Newton-John',
+    ],
+    [
+        'Happiness is having a large, loving, caring, close-knit family in another city.',
+        'George Burns',
+    ],
+    [
+        'If only wed stop trying to be happy wed have a pretty good time.',
+        'Edith Wharton',
+    ],
+    [
+        'It sounds funny, but my biggest fear is that I\'m not perfect. I\'m a perfectionist, and I get upset when things go wrong or when I don\'t do well.',
+        'Nick Jonas',
+    ],
+    [
+        'If you love someone, set them free. If they come back they\'re yours; if they don\'t they never were.',
+        'Richard Bach',
+    ],
+    [
+        'Everyone and everything that shows up in our life is a reflection of something that is happening inside of us.',
+        'Frank Abagnale',
+    ],
+    [
+        'The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.',
+        'Helen Keller',
+    ],
+    [
+        'Anyone who keeps the ability to see beauty never grows old.',
+        'Franz Kafka',
+    ],
+    [
+        'The nature of things is dharma.',
+        'Mahavira',
+    ],
+    [
+        'Sometimes sushi is just superb, and other times there\'s nothing like a great big steak. It depends where your taste buds are at the time.',
+        'Francesca Annis',
+    ],
+    [
+        'The biggest adventure you can take is to live the life of your dreams.',
+        'Oprah Winfrey.',
+    ],
+    [
+        'I love Christmas. I really do love Christmas. I love being with my family and I love snow. I love the music and the lights and all of it.',
+        'Christina Applegate',
+    ],
+    [
+        'I find that it\'s the simple things that remind you of family around the holidays.',
+        'Amy Adams',
+    ],
+    [
+        'Other people\'s success spurs me on to do well and gives me motivation.',
+        'Nicholas Hoult',
+    ],
+    [
+        'White sharks and tuna travel for thousands of miles before returning to the same hot spot just as salmon do when they return to the same stream. These journeys are the marine equivalent of wildebeest migrations that take place on the Serengeti plain in Africa.',
+        'Barbara Block',
+    ],
+    [
+        'People don\'t believe in positive changes anymore.',
+        'Alexei Navalny',
+    ],
+    [
+        'Without music to decorate it, time is just a bunch of boring production deadlines or dates by which bills must be paid.',
+        'Frank Zappa',
+    ],
+];

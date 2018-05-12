@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If you ever start taking things too seriously, just remember that we are talking monkeys on an organic spaceship flying through the universe.',
-    1 => 'Joe Rogan',
-  ),
-  1 => 
-  array (
-    0 => 'If mzero doesn\'t need to be a single, unambiguous value, then the algebra of monads would seem to be a bit hinky.',
-    1 => 'A tweet from @djspiewak (Daniel J. Spiewak)',
-  ),
-  2 => 
-  array (
-    0 => 'The impossible often has a kind of integrity which the merely improbable lacks.',
-    1 => 'Douglas Adams',
-  ),
-  3 => 
-  array (
-    0 => 'Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.',
-    1 => 'Albert Schweitzer',
-  ),
-  4 => 
-  array (
-    0 => 'Motivation is what gets you started. Habit is what keeps you going.',
-    1 => 'Jim Ryun',
-  ),
-  5 => 
-  array (
-    0 => 'Conceptual integrity in turn dictates that the design must proceed from one mind, or from a very small number of agreeing resonant minds.',
-    1 => 'Frederick Brooks Jr., "The Mythical Man Month"',
-  ),
-  6 => 
-  array (
-    0 => 'If you can do what you do best and be happy, you\'re further along in life than most people.',
-    1 => 'Leonardo DiCaprio',
-  ),
-  7 => 
-  array (
-    0 => 'Complacency is the enemy of progress.',
-    1 => 'Dave Stutman',
-  ),
-  8 => 
-  array (
-    0 => 'I can be changed by what happens to me. But I refuse to be reduced by it.',
-    1 => 'Maya Angelou',
-  ),
-  9 => 
-  array (
-    0 => 'The most important thing in communication is to hear what isn\'t being said.',
-    1 => 'Peter F. Drucker',
-  ),
-  10 => 
-  array (
-    0 => 'The goal isn\'t to live forever, the goal is to create something that will.',
-    1 => 'Chuck Palahniuk',
-  ),
-  11 => 
-  array (
-    0 => 'Being rich of heart makes you wealthy beyond compare.',
-    1 => 'Rodney Williams',
-  ),
-  12 => 
-  array (
-    0 => 'You know, you really half give me a buzz.',
-    1 => 'Stevie Ray Vaughan, "Honey Bee" (from "Couldn\'t Stand the Weather")',
-  ),
-  13 => 
-  array (
-    0 => 'Those who are lifting the world upward and onward are those who encourage more than criticize.',
-    1 => 'Elizabeth Harrison',
-  ),
-  14 => 
-  array (
-    0 => 'Doubt kills more dreams than failure ever will.',
-    1 => 'Karim Seddiki',
-  ),
-  15 => 
-  array (
-    0 => 'No government is ever really in favor of so-called civil rights. It always tries to whittle them down. They are preserved under all governments, insofar as they survive at all, by special classes of fanatics, often highly dubious.',
-    1 => 'H.L. Mencken, Minority Report, 1956',
-  ),
-  16 => 
-  array (
-    0 => 'You really have to work hard and apply yourself and by applying yourself and working hard and being diligent, you can achieve success.',
-    1 => 'Julie Benz',
-  ),
-  17 => 
-  array (
-    0 => 'He who is not courageous enough to take risks will accomplish nothing in life.',
-    1 => 'Muhammad Ali',
-  ),
-  18 => 
-  array (
-    0 => 'Love the moment. Flowers grow out of dark moments. Therefore, each moment is vital. It affects the whole. Life is a succession of such moments and to live each, is to succeed.',
-    1 => 'Sister Mary Corita Kent',
-  ),
-  19 => 
-  array (
-    0 => 'If there are no struggles, there is no progress.',
-    1 => 'Frederick Douglas',
-  ),
-  20 => 
-  array (
-    0 => 'Without courage, wisdom bears no fruit.',
-    1 => 'Leonardo da da Vinci',
-  ),
-  21 => 
-  array (
-    0 => 'Nothing is more dangerous than a man whose actions are the responsibility of his deity.',
-    1 => 'Rich Simons',
-  ),
-  22 => 
-  array (
-    0 => 'All happy families resemble one another, each unhappy in its own way.',
-    1 => 'Tolstoy',
-  ),
-  23 => 
-  array (
-    0 => 'Oh captain, my captain.',
-    1 => 'Todd Anderson',
-  ),
-  24 => 
-  array (
-    0 => 'You can\'t expect to hit the jackpot if you don\'t put a few nickels in the machine.',
-    1 => 'Flip Wilson',
-  ),
-);
+return [
+    [
+        'All of us grow up in particular realities - a home, family, a clan, a small town, a neighborhood. Depending upon how we\'re brought up, we are either deeply aware of the particular reading of reality into which we are born, or we are peripherally aware of it.',
+        'Chaim Potok',
+    ],
+    [
+        'We are looking for a set of personal characteristics that predict success, the first and foremost of which is perseverance in the face of challenges. We also look for the ability to influence and motivate others who share your values, strong problem-solving ability, and leadership.',
+        'Wendy Kopp',
+    ],
+    [
+        'I think people should have fun. And don\'t get so down on yourself. Enjoy life and be the best person you can be.',
+        'Keke Palmer',
+    ],
+    [
+        'There\'s an easygoing nature that comes with a perspective of things that aren\'t as important as we make them sometimes.',
+        'Marguerite Moreau',
+    ],
+    [
+        'Music in the soul can be heard by the universe.',
+        'Lao Tzu',
+    ],
+    [
+        'My beauty secret is... nothing! I don\'t drink too much water. I don\'t eat very well. Sometimes I cheat and grab some chocolate. The best thing is to eat what you want, but not very much.',
+        'Yoko Ono',
+    ],
+    [
+        'What we see depends mainly on what we look for.',
+        'John Lubbock',
+    ],
+    [
+        'Always bear in mind that your own resolution to succeed is more important than any one thing.',
+        'Abraham Lincoln',
+    ],
+    [
+        'Being hardworking is the best thing you can show children.',
+        'David Beckham',
+    ],
+    [
+        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
+        'Alek Wek',
+    ],
+    [
+        'There\'s nothing better than people talking to each other, sharing best practices, and opening up communications.',
+        'Dan Gilbert',
+    ],
+    [
+        'Italian men do appreciate beautiful women. They\'re not afraid of the beauty, which is nice.',
+        'Eva Herzigova',
+    ],
+    [
+        'Fortune always favors the brave, and never helps a man who does not help himself.',
+        'P.T. Barnum',
+    ],
+    [
+        'Art is the child of Nature; yes, her darling child, in whom we trace the features of the mother\'s face, her aspect and her attitude.',
+        'Beck',
+    ],
+    [
+        'Do not leave yourself or your family unprotected against financial storms... Build up savings.',
+        'Ezra Taft Benson',
+    ],
+    [
+        'One of the rewards of success is freedom, the ability to do whatever you like.',
+        'Sting',
+    ],
+    [
+        'No one can possibly know what is about to happen: it is happening, each time, for the first time, for the only time.',
+        'James A. Baldwin',
+    ],
+    [
+        'It\'s sort of a feeling of power onstage. It\'s really the ability to make people smile, or just to turn them one way or another for that duration of time, and for it to have some effect later on. I don\'t really think it\'s power... it\'s the goodness.',
+        'Robert Plant',
+    ],
+    [
+        'Rise above sectional interests and private ambitions... Pass from matter to spirit. Matter is diversity; spirit is light, life and unity.',
+        'Anne Hathaway',
+    ],
+    [
+        'I love faltering. I love, in a sense, coming up short. Because you learn nothing from success. You learn so much from failing.',
+        'Charlie Trotter',
+    ],
+    [
+        'I believe in the value of life. I believe we must prepare our children for tomorrow with the family values of my grandparents.',
+        'Ryan Zinke',
+    ],
+    [
+        'Money won\'t create success, the freedom to make it will.',
+        'Nelson Mandela',
+    ],
+    [
+        'I\'m a motivational speaker.',
+        'Young Jeezy',
+    ],
+    [
+        'I have a good support system of friends and family.',
+        'Penny Marshall',
+    ],
+    [
+        'Like religion, politics, and family planning, cereal is not a topic to be brought up in public. It\'s too controversial.',
+        'Erma Bombeck',
+    ],
+];

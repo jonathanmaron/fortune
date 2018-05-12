@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.',
-    1 => 'Morris Adler',
-  ),
-  1 => 
-  array (
-    0 => 'My father was an immigrant who literally walked across Europe to get out of Russia. He fought in World War I. He was wounded in action. My father was a great success even though he never had money. He was a very determined man, a great role model.',
-    1 => 'Arlen Specter',
-  ),
-  2 => 
-  array (
-    0 => 'The human spirit is stronger than anything that can happen to it.',
-    1 => 'C.C. Scott',
-  ),
-  3 => 
-  array (
-    0 => 'I realise that I do not change the course of history. I am an actor, I do a movie, that\'s the end of it. You have to realise we are just clowns for hire. After I had success it was great, at first, not to worry about money. It was on my mind when I was growing up.',
-    1 => 'Leonardo DiCaprio',
-  ),
-  4 => 
-  array (
-    0 => 'Let the beauty of what you love be what you do.',
-    1 => 'Rumi',
-  ),
-  5 => 
-  array (
-    0 => 'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
-    1 => 'John Wayne',
-  ),
-  6 => 
-  array (
-    0 => 'I watched a small man with thick calluses on both hands work 15 and 16 hours a day. I saw him once literally bleed from the bottoms of his feet, a man who came here uneducated, alone, unable to speak the language, who taught me all I needed to know about faith and hard work by the simple eloquence of his example.',
-    1 => 'Mario Cuomo',
-  ),
-  7 => 
-  array (
-    0 => 'You may be deceived if you trust too much, but you will live in torment if you don\'t trust enough.',
-    1 => 'Frank H. Crane',
-  ),
-  8 => 
-  array (
-    0 => 'Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.',
-    1 => 'Dale Turner',
-  ),
-  9 => 
-  array (
-    0 => 'If someone had told me I would be Pope one day, I would have studied harder.',
-    1 => 'Pope John Paul I',
-  ),
-  10 => 
-  array (
-    0 => 'It is the hopeful, buoyant, cheerful attitude of mind that wins. Optimism is a success builder; pessimism an achievement killer.',
-    1 => 'Orison Swett Marden',
-  ),
-  11 => 
-  array (
-    0 => 'If you surrender to the wind, you can ride it.',
-    1 => 'Toni Morrison',
-  ),
-  12 => 
-  array (
-    0 => 'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
-    1 => 'Smokey Robinson',
-  ),
-  13 => 
-  array (
-    0 => 'Excess on occasion is exhilarating. It prevents moderation from acquiring the deadening effect of a habit.',
-    1 => 'W. Somerset Maugham',
-  ),
-  14 => 
-  array (
-    0 => 'The meaning of life is to find your gift. The purpose of life is to give it away.',
-    1 => 'Unknown',
-  ),
-  15 => 
-  array (
-    0 => 'Success is doing ordinary things extraordinarily well.',
-    1 => 'Jim Rohn',
-  ),
-  16 => 
-  array (
-    0 => 'If you are going through hell, keep going.',
-    1 => 'Winston Churchill',
-  ),
-  17 => 
-  array (
-    0 => 'I\'m not afraid of storms, for I\'m learning to sail my ship.',
-    1 => 'Louisa May Alcott',
-  ),
-  18 => 
-  array (
-    0 => 'We can\'t schedule an orgy, it might be construed as fighting',
-    1 => 'Stanley Sutton',
-  ),
-  19 => 
-  array (
-    0 => 'Just because it\'s only \'stuff\' doesn\'t mean I can\'t appreciate it while I have it.',
-    1 => 'Starline X. Hodge',
-  ),
-  20 => 
-  array (
-    0 => 'There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation.',
-    1 => 'Marcus Garvey',
-  ),
-  21 => 
-  array (
-    0 => 'Life shrinks or expands in proportion to one\'s courage.',
-    1 => 'Anais Nin',
-  ),
-  22 => 
-  array (
-    0 => 'Problems are not stop signs, they are guidelines.',
-    1 => 'Robert H. Schuller',
-  ),
-  23 => 
-  array (
-    0 => 'Treat the other man\'s faith gently; it is all he has to believe with.',
-    1 => 'Athenæus',
-  ),
-  24 => 
-  array (
-    0 => 'As people are walking all the time, in the same spot, a path appears.',
-    1 => 'John Locke',
-  ),
-);
+return [
+    [
+        'My parents raised me with a never-give-up attitude, telling me I could be anything I wanted to be. I was a serious violinist and a valedictorian of my high school class. I knew all about hard work.',
+        'Gretchen Carlson',
+    ],
+    [
+        'The thing always happens that you really believe in; and the belief in a thing makes it happen.',
+        'Frank Wright',
+    ],
+    [
+        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
+        'Gil Scott-Heron',
+    ],
+    [
+        'Intelligence is the source of technology. If we can use technology to improve intelligence, that closes the loop and potentially creates a positive feedback cycle.',
+        'Eliezer Yudkowsky',
+    ],
+    [
+        'Leaders aren\'t born they are made. And they are made just like anything else, through hard work. And that\'s the price well have to pay to achieve that goal, or any goal.',
+        'Vince Lombardi',
+    ],
+    [
+        'You can have anything you want if you are willing to give up the belief that you can\'t have it.',
+        'Robert Anthony',
+    ],
+    [
+        'I tried for a short time to be something I wasn\'t, and had no success with it. It\'s a practical solution to just be yourself.',
+        'Kate McKinnon',
+    ],
+    [
+        'You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.',
+        'Emmet Fox',
+    ],
+    [
+        'The idea that we should write towards the unknown aspects of our experience was totally groundbreaking for me. It gave me the license I needed to try to write outside myself. This attitude has deeply informed my approach to fiction, emboldening me to write characters with voices or situations that are vastly different from my own.',
+        'Molly Antopol',
+    ],
+    [
+        'The best weapon against an enemy is another enemy.',
+        'Friedrich Nietzsche',
+    ],
+    [
+        'It\'s almost always possible to be honest and positive.',
+        'Naval Ravikant',
+    ],
+    [
+        'One of the best things to do sometimes is simply to be.',
+        'Eric Butterworth',
+    ],
+    [
+        'Bilingualism lets you have your cake and eat it. The new language opens the doors to the best jobs in society; the old language allows you to keep your sense of \'who you are.\' It preserves your identity. With two languages, you have the best of both worlds.',
+        'David Crystal',
+    ],
+    [
+        'Nothing surpasses the beauty and elegance of a bad idea.',
+        'Craig Bruce',
+    ],
+    [
+        'What I like about cities is that everything is king size, the beauty and the ugliness.',
+        'Joseph Brodsky',
+    ],
+    [
+        'I loved my mom so much because she had to work on a penny just to put food on the table... During the Depression in the United States, everybody had a tough time. And I was so hurt because she was crying that she didn\'t have any food for us for Thanksgiving.',
+        'Tony Bennett',
+    ],
+    [
+        'At the beginning of my career as a writer, I felt I knew nothing of Chinese culture. I was writing about emotional confusion with my mother related to our different beliefs. Hers was based in family history, which I didn\'t know anything about. I always felt hesitant in talking about Chinese culture and American culture.',
+        'Amy Tan',
+    ],
+    [
+        'You couldn\'t get me to go travel around and sit in a hotel room again. I have no interest in doing that. So everybody\'s happy. I am, at 74. Some people like doing it, but I never was much for that, anyway. It\'s a lot of work. So the only thing I miss about all of it is the camaraderie of the tour, but that doesn\'t offset the rest of it.',
+        'Phil Everly',
+    ],
+    [
+        'Always concentrate on how far you\'ve come, rather than how far you have left to go.',
+        'Unknown',
+    ],
+    [
+        'There are great challenges before you, from the overwhelming nature of climate change to the unfairness of an economy that excludes so many from our collective wealth, and the changes necessary to build a more inclusive and generous Canada. I believe in you.',
+        'Jack Layton',
+    ],
+    [
+        'Take a method and try it. If it fails, admit it frankly, and try another. But by all means, try something.',
+        'Franklin D. Roosevelt',
+    ],
+    [
+        'Our covering ministry is Challenge for Christ ministries, and Travel the Road was solely our mission arm, designed to expose people to what missions are, then connect them with agencies that send people out.',
+        'Michael Scott',
+    ],
+    [
+        'When I prayed for success, I forgot to ask for sound sleep and good digestion.',
+        'Mason Cooley',
+    ],
+    [
+        'Strong women, when respected, make the whole society stronger. One must be careful with such rapid changes, though, and make an effort to preserve, at the same time, the positive traditions of Indian culture.',
+        'Chitra Banerjee Divakaruni',
+    ],
+    [
+        'There\'s a lot more to me than just funny.',
+        'Steve Harvey',
+    ],
+];

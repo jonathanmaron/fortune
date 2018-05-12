@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Age is an issue of mind over matter. If you don\'t mind, it doesn\'t matter',
-    1 => 'Mark Twain',
-  ),
-  1 => 
-  array (
-    0 => 'When more and more people are thrown out of work, unemployment results.',
-    1 => 'Calvin Coolidge',
-  ),
-  2 => 
-  array (
-    0 => 'A bachelor is a selfish, undeserving guy who has cheated some woman out of a divorce.',
-    1 => 'Don Quinn',
-  ),
-  3 => 
-  array (
-    0 => 'The very basic core of a man\'s living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.',
-    1 => 'Christopher McCandless',
-  ),
-  4 => 
-  array (
-    0 => 'Never put off till tomorrow what you can do today.',
-    1 => 'Thomas Jefferson',
-  ),
-  5 => 
-  array (
-    0 => 'Trust yourself. You know more than you think you do.',
-    1 => 'Dr. Benjamin McLane Spock',
-  ),
-  6 => 
-  array (
-    0 => 'There are no shortcuts to any place worth going.',
-    1 => 'Beverly Sills',
-  ),
-  7 => 
-  array (
-    0 => 'Mind is all that counts. You can be whatever you make up your mind to be.',
-    1 => 'Robert J. Collier',
-  ),
-  8 => 
-  array (
-    0 => 'Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.',
-    1 => 'Thomas A. Edison',
-  ),
-  9 => 
-  array (
-    0 => 'Friendship is the finest balm for the pangs of despised love.',
-    1 => 'Jane Austen',
-  ),
-  10 => 
-  array (
-    0 => 'Motivation will almost always beat mere talent.',
-    1 => 'Norman Ralph Augustine',
-  ),
-  11 => 
-  array (
-    0 => 'Our greatest glory is not in never falling, but in rising every time we fall.',
-    1 => 'Confucius',
-  ),
-  12 => 
-  array (
-    0 => 'A goal should scare you a little and excite you a lot.',
-    1 => 'Joe Vitale',
-  ),
-  13 => 
-  array (
-    0 => 'I\'m as proud of many of the things we haven\'t done as the things we have done. Innovation is saying no to a thousand things.',
-    1 => 'Steve Jobs',
-  ),
-  14 => 
-  array (
-    0 => 'To be defeated and not submit, is victory; to be victorious and rest on one\'s laurels, is defeat.',
-    1 => 'Józef Piłsudski',
-  ),
-  15 => 
-  array (
-    0 => 'Failure is only postponed success as long as courage \'coaches\' ambition. The habit of persistence is the habit of victory.',
-    1 => 'Herbert Kaufman',
-  ),
-  16 => 
-  array (
-    0 => 'He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead: his eyes are closed.',
-    1 => 'Albert Einstein',
-  ),
-  17 => 
-  array (
-    0 => 'To be wholly devoted to some intellectual exercise is to have succeeded in life.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  18 => 
-  array (
-    0 => 'The advertisement is the most truthful part of a newspaper',
-    1 => 'Thomas Jefferson',
-  ),
-  19 => 
-  array (
-    0 => 'As soon as we started programming, we found to our surprise that it wasn\'t as easy to get programs right as we had thought. Debugging had to be discovered. I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs.',
-    1 => 'Maurice Wilkes discovers debugging, 1949',
-  ),
-  20 => 
-  array (
-    0 => 'The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn, like fabulous yellow roman candles exploding like spiders across the stars...',
-    1 => 'Jack Kerouac',
-  ),
-  21 => 
-  array (
-    0 => 'Were it not for hope the heart would break.',
-    1 => 'Scottish Proverb',
-  ),
-  22 => 
-  array (
-    0 => 'Human culture has always had to exist under the shadow of something infinitely more important than itself. If men had postponed the search for knowledge and beauty until they were secure, the search would never have begun.',
-    1 => 'C.S. Lewis',
-  ),
-  23 => 
-  array (
-    0 => 'The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.',
-    1 => 'Vince Lombardi',
-  ),
-  24 => 
-  array (
-    0 => 'Evolution acts slowly. Our psychological characteristics today are those that promoted reproductive success in the ancestral environment.',
-    1 => 'Keith Henson',
-  ),
-);
+return [
+    [
+        'I\'ve always wanted a family since I was a little girl - a big family. I\'m an only child, so I wanted, like, 10 kids... for sure.',
+        'Behati Prinsloo',
+    ],
+    [
+        'You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?',
+        'W. Clement Stone',
+    ],
+    [
+        'There are people who make things happen, there are people who watch things happen, and there are people who wonder what happened. To be successful, you need to be a person who makes things happen.',
+        'Jim Lovell',
+    ],
+    [
+        'Americans have always had an ambivalent attitude toward intelligence. When they feel threatened, they want a lot of it, and when they don\'t, they regard the whole thing as somewhat immoral.',
+        'Vernon A. Walters',
+    ],
+    [
+        'I write funny. If I can make my wife laugh, I know I\'m on the right track.',
+        'Gene Wilder',
+    ],
+    [
+        'Obedience is the mother of success and is wedded to safety.',
+        'Aeschylus',
+    ],
+    [
+        'Never apologize for showing feelings. When you do so, you apologize for the truth.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'You get more churches burned down in the United States in the last two years than in the last hundred, because of the lack of understanding of culture and diversity and the beauty of it.',
+        'Edward James Olmos',
+    ],
+    [
+        'The best way to turn a woman\'s head is to tell her she has a beautiful profile.',
+        'Sacha Guitry',
+    ],
+    [
+        'We can all agree that government can\'t solve the obesity crisis alone. It\'s an ongoing issue that will require a collaborative effort across private and public sectors if we want to see some long-term success.',
+        'Marcus Samuelsson',
+    ],
+    [
+        'The biggest challenge is how to affect public attitudes and make people care.',
+        'Jim Fowler',
+    ],
+    [
+        'The best way to resolve any problem in the human world is for all sides to sit down and talk.',
+        'Dalai Lama',
+    ],
+    [
+        'Poetry, at its best, is the language your soul would speak if you could teach your soul to speak.',
+        'Jim Harrison',
+    ],
+    [
+        'The moon looks upon many night flowers; the night flowers see but one moon.',
+        'Jean Ingelow',
+    ],
+    [
+        'Imagination will often carry us to worlds that never were. But without it we go nowhere.',
+        'Carl Sagan',
+    ],
+    [
+        'One day I looked in the mirror, and I wasn\'t happy. If you\'re not feeling good mentally, emotionally and physically, you\'re just a mess - and that\'s the point I felt like. It was a change in attitude and a shift in lifestyle. There\'s no crazy diet; I train six days a week, and I eat really well.',
+        'Ricki-Lee Coulter',
+    ],
+    [
+        'There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.',
+        'Robert Louis Stevenson',
+    ],
+    [
+        'The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.',
+        'J. Robert Oppenheimer',
+    ],
+    [
+        'There\'s always been something deeply disturbing about the Abbott government\'s attitude to women.',
+        'Richard Flanagan',
+    ],
+    [
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
+        'Bruce Lee',
+    ],
+    [
+        'Porsche is a driver\'s car - a performance car. That was funny - here\'s this awesome car, but it\'s got no cup holders.',
+        'Jason McCoy',
+    ],
+    [
+        'Every man who has shown the world the way to beauty, to true culture, has been a rebel, a \'universal\' without patriotism, without home, who has found his people everywhere.',
+        'Chaim Potok',
+    ],
+    [
+        'Beauty has so many forms, and I think the most beautiful thing is confidence and loving yourself.',
+        'Kiesza',
+    ],
+    [
+        'Success has a lot to do with luck, but it also involves a lot of real hard work. The thing about success is you really can\'t gauge things by album sales.',
+        'Jerry Cantrell',
+    ],
+    [
+        'Youth is the best time to be rich, and the best time to be poor.',
+        'Euripides',
+    ],
+];

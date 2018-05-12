@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Hell hath no fury like a bureaucrat scorned.',
-    1 => 'Milton Friedman',
-  ),
-  1 => 
-  array (
-    0 => 'It does not do to dwell on dreams and forget to live.',
-    1 => 'Dumbledore–The Philosopher\'s Stone',
-  ),
-  2 => 
-  array (
-    0 => 'Vision without execution is just hallucination.',
-    1 => 'Henry Ford',
-  ),
-  3 => 
-  array (
-    0 => 'I can accept failure, but I can\'t accept not trying.',
-    1 => 'Michael Jordan',
-  ),
-  4 => 
-  array (
-    0 => 'If you wish your merit to be known, acknowledge that of other people.',
-    1 => 'Chinese Proverb',
-  ),
-  5 => 
-  array (
-    0 => 'Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time',
-    1 => 'Thomas Edison',
-  ),
-  6 => 
-  array (
-    0 => 'The greatest obstacle to connecting with our joy is resentment.',
-    1 => 'Pema Chodron',
-  ),
-  7 => 
-  array (
-    0 => 'Happiness is the natural flower of duty.',
-    1 => 'Phillips Brooks',
-  ),
-  8 => 
-  array (
-    0 => 'You have the need and the right to spend part of your life caring for your soul. It is not easy...To be a soulful person means to go against all the pervasive, prove-yourself values of our culture and instead treasure what is unique and internal and valuable in yourself and your own personal evolution.',
-    1 => 'Jean Shinoda Bolen',
-  ),
-  9 => 
-  array (
-    0 => 'Don\'t tell me how hard you work. Tell me how much you get done.',
-    1 => 'James J. Ling',
-  ),
-  10 => 
-  array (
-    0 => 'If you quit ONCE it becomes a habit.Never quit!!!',
-    1 => 'Michael Jordan',
-  ),
-  11 => 
-  array (
-    0 => 'Assuming that either the left wing or the right wing gained control of the country, it would probably fly around in circles.',
-    1 => 'Pat Paulsen',
-  ),
-  12 => 
-  array (
-    0 => 'Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.',
-    1 => 'Mark Zuckerberg',
-  ),
-  13 => 
-  array (
-    0 => 'There never were, in the world, two opinions alike, no more than two hairs, or two grains; the most universal quality is diversity.',
-    1 => 'Michel Yquem de Montaigne',
-  ),
-  14 => 
-  array (
-    0 => 'We shall find peace. We shall hear angels. We shall see the sky sparkling with diamonds.',
-    1 => 'W. Anton Chekov',
-  ),
-  15 => 
-  array (
-    0 => 'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
-    1 => 'Confucius',
-  ),
-  16 => 
-  array (
-    0 => 'One day you will wake up and there won\'t be any more time to do the things you\'ve always wanted. Do it now.',
-    1 => 'Paulo Coelho',
-  ),
-  17 => 
-  array (
-    0 => 'Every normal man must be tempted at times to spit on his hands, hoist the black flag, and begin slitting throats.',
-    1 => 'H.L. Mencken',
-  ),
-  18 => 
-  array (
-    0 => 'You need to be aware of what others are doing, applaud their efforts, acknowledge their successes, and encourage them in their pursuits. When we all help one another, everybody wins.',
-    1 => 'Jim Stovall',
-  ),
-  19 => 
-  array (
-    0 => 'People grow through experience if they meet life honestly and courageously. This is how character is built.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  20 => 
-  array (
-    0 => 'Love must be as much a light, as it is a flame.',
-    1 => 'Henry David Thoreau',
-  ),
-  21 => 
-  array (
-    0 => 'It does not matter how slowly you go so long as you do not stop.',
-    1 => 'Confucius',
-  ),
-  22 => 
-  array (
-    0 => 'If you have built castles in the air, your work need not be lost: that is where they should be. Now put the foundations under them.',
-    1 => 'Henry David Thoreau',
-  ),
-  23 => 
-  array (
-    0 => 'You take all the things that frighten you, and when you can get them to work for you all of sudden people are calling you a success.',
-    1 => 'Randy Bachman',
-  ),
-  24 => 
-  array (
-    0 => 'The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.',
-    1 => 'Vince Lombardi',
-  ),
-);
+return [
+    [
+        'But Jesus changes your attitude towards yourself and towards other people.',
+        'Cliff Richard',
+    ],
+    [
+        'Life loves the liver of it.',
+        'Khalil Gibran',
+    ],
+    [
+        'Poetry: the best words in the best order.',
+        'Samuel Taylor Coleridge',
+    ],
+    [
+        'I always thought when I hit 50 years old that\'d be it for the travel. I don\'t have to tell you - you wait at an airport, your flight\'s delayed, get on a 14-hour flight, get off, get stuck in traffic, you get to the hotel and the room service is closed.',
+        'Brian Setzer',
+    ],
+    [
+        'Love is not blind; it simply enables one to see things others fail to see.',
+        '',
+    ],
+    [
+        'An inexhaustible good nature is one of the most precious gifts of heaven, spreading itself like oil over the troubled sea of thought, and keeping the mind smooth and equable in the roughest weather.',
+        'Washington Irving',
+    ],
+    [
+        'The difference between Marilyn Monroe and the early Pamela Anderson is not that great. What\'s amazing is that the taste of American men and international tastes in terms of beauty have essentially stayed the same. Styles change, but our view of beauty stays the same.',
+        'Hugh Hefner',
+    ],
+    [
+        'Better three hours too soon than a minute too late.',
+        'William Shakespeare',
+    ],
+    [
+        'Please pay attention very carefully, because this is the truest thing a stranger will ever say to you: In the face of such hopelessness as our eventual, unavoidable death, there is little sense in not at least TRYING to accomplish all your wildest dreams in life.',
+        'Kevin Smith',
+    ],
+    [
+        'Cats are intended to teach us that not everything in nature has a function.',
+        'Garrison Keillor',
+    ],
+    [
+        'Since 2005, I have not spent much time with my family. In fact I have spent more time at the Taj Landsend in Mumbai. It was my 100th visit recently, which means I have spent more than 400 days in that hotel, and that is a lot more than I have spent with my family.',
+        'Mahendra Singh Dhoni',
+    ],
+    [
+        'I favor pocket-sized hard drives that travel between home and office, syncing with computers on both ends.',
+        'Barton Gellman',
+    ],
+    [
+        'The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. Anything. As long as you believe.',
+        'Bob Ross',
+    ],
+    [
+        'I am able to really enjoy the positive attention I receive.',
+        'Doutzen Kroes',
+    ],
+    [
+        'Everyone has been made for some particular work, and the desire for that work has been put in every heart.',
+        'Rumi',
+    ],
+    [
+        'The vibe in our locker room is real energetic and fun and real personable, I think from Day 1. That gets you through a lot of tough times, where in hard times, it might be common nature for guys to do their own thing and split up and become silent.',
+        'Stephen Curry',
+    ],
+    [
+        'Work is a necessary evil to be avoided.',
+        'Mark Twain',
+    ],
+    [
+        'Earth and sky, woods and fields, lakes and rivers, the mountain and the sea, are excellent schoolmasters, and teach some of us more than we can ever learn from books.',
+        'John Lubbock',
+    ],
+    [
+        'There\'s something about the ukulele that just makes you smile. It makes you let your guard down. It brings out the child in all of us.',
+        'Jake Shimabukuro',
+    ],
+    [
+        'If the doors of perception were cleansed everything would appear to man as it is, infinite.',
+        'William Blake',
+    ],
+    [
+        'Few ideas work on the first try. Iteration is key to innovation.',
+        'Sebastian Thrun',
+    ],
+    [
+        'The importance of satire is bringing more people to the table. There are a lot of average citizens who aren\'t interested in politics and would be more interested if it\'s brought to them in a comedic, funny, satirical way.',
+        'Bassem Youssef',
+    ],
+    [
+        'I always said punk was an attitude. It was never about having a Mohican haircut or wearing a ripped T-shirt. It was all about destruction, and the creative potential within that.',
+        'Malcolm Mclaren',
+    ],
+    [
+        'I\'ve always followed my heart and pursued my dreams, and I imagine that people find that inspiring. I hope that is the effect I have on my fans and people in general. I definitely want to project a positive energy out into the world.',
+        'Britney Spears',
+    ],
+    [
+        'Hurricane season brings a humbling reminder that, despite our technologies, most of nature remains unpredictable.',
+        'Diane Ackerman',
+    ],
+];

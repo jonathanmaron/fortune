@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  1 => 
-  array (
-    0 => 'I contend that we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods, you will understand why I dismiss yours.',
-    1 => 'Steven Roberts',
-  ),
-  2 => 
-  array (
-    0 => 'We\'re in a situation where talented, motivated school leavers and graduates can send off a hundred CVs and not get a reply, and where a trip to the Job Centre is depressing rather than inspirational. And you know what, that just feels wrong.',
-    1 => 'Jameela Jamil',
-  ),
-  3 => 
-  array (
-    0 => 'There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.',
-    1 => 'Albert Einstein',
-  ),
-  4 => 
-  array (
-    0 => 'Sometimes I worry about being a success in a mediocre world.',
-    1 => 'Lily Tomlin',
-  ),
-  5 => 
-  array (
-    0 => 'Go confidently in the direction of our dreams! Live the life you\'ve imagined.',
-    1 => 'Henry David Thoreau',
-  ),
-  6 => 
-  array (
-    0 => 'You have reached the pinnacle of success as soon as you become uninterested in money, compliments, or publicity.',
-    1 => 'Thomas Wolfe',
-  ),
-  7 => 
-  array (
-    0 => 'By failing to prepare, you are preparing to fail.',
-    1 => 'Benjamin Franklin',
-  ),
-  8 => 
-  array (
-    0 => 'This feat I also had no idea how to accomplish, but ignorance had never stopped me from taking action before.',
-    1 => 'Viet Thanh Nguyen',
-  ),
-  9 => 
-  array (
-    0 => 'Grain grows best in shit.',
-    1 => 'Ursula K. LeGuin',
-  ),
-  10 => 
-  array (
-    0 => 'Success is tricky to deal with, both professionally and in your personal life.',
-    1 => 'Ewan McGregor',
-  ),
-  11 => 
-  array (
-    0 => 'Its better to have nobody than someone who is half there, or who doesnt want to be there.',
-    1 => 'Angelina Jolie',
-  ),
-  12 => 
-  array (
-    0 => 'Once you choose hope, anything\'s possible.',
-    1 => 'Carlos Casteneda',
-  ),
-  13 => 
-  array (
-    0 => 'The young man and woman with sight see things as they are. The young man and woman with insight, see things as they could be.',
-    1 => 'Joseph P. Martino',
-  ),
-  14 => 
-  array (
-    0 => 'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
-    1 => 'Gautama Buddha',
-  ),
-  15 => 
-  array (
-    0 => 'When I ran the stock exchange, it was the most successful it\'s been in its 200-plus-year history. And I was rewarded for success; I would not have been rewarded if we failed.',
-    1 => 'Richard Grasso',
-  ),
-  16 => 
-  array (
-    0 => 'Respect is love in plain clothes.',
-    1 => 'Frank Byrnes',
-  ),
-  17 => 
-  array (
-    0 => 'A champion is someone who gets up when he can\'t.',
-    1 => 'Jack Dempsey',
-  ),
-  18 => 
-  array (
-    0 => 'Proclaim liberty throughout the land and to all the inhabitants thereof.',
-    1 => 'Leviticus 25:10',
-  ),
-  19 => 
-  array (
-    0 => 'Success is not two cars or a swimming pool. It\'s the approval of your peers.',
-    1 => 'Peter Finch',
-  ),
-  20 => 
-  array (
-    0 => 'The great virtue in life is real courage that knows how to face facts and live beyond them.',
-    1 => 'D.H. Lawrence',
-  ),
-  21 => 
-  array (
-    0 => 'Frustration, although quite painful at times, is a very positive and essential part of success.',
-    1 => 'Bo Bennett',
-  ),
-  22 => 
-  array (
-    0 => 'PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil perpetrated by skilled but perverted professionals.',
-    1 => 'Jon Ribbens',
-  ),
-  23 => 
-  array (
-    0 => 'In the United States there\'s a Puritan ethic and a mythology of success. He who is successful is good. In Latin countries, in Catholic countries, a successful person is a sinner.',
-    1 => 'Umberto Eco',
-  ),
-  24 => 
-  array (
-    0 => 'Within sorrow is grace. When we come close to those things that break us down, we touch those things that also break us open. And in that breaking open, we uncover our true nature.',
-    1 => 'Wayne Muller',
-  ),
-);
+return [
+    [
+        'The more man meditates upon good thoughts, the better will be his world and the world at large.',
+        'Confucius',
+    ],
+    [
+        'Love and desire are the spirit\'s wings to great deeds.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'My whole life is about winning. I don\'t lose often. I almost never lose.',
+        'Marcus Aurelius',
+    ],
+    [
+        'I was a little doubtful about the propriety of going to the Mammoth Cave without a gentleman escort, but if two ladies travel alone they must have the courage of men.',
+        'Maria Mitchell',
+    ],
+    [
+        'The world is always in movement.',
+        'V. S. Naipaul',
+    ],
+    [
+        'To fulfill a dream, to be allowed to sweat over lonely labor, to be given a chance to create, is the meat and potatoes of life. The money is the gravy.',
+        'Bette Davis',
+    ],
+    [
+        'I grew up in an immigrant neighborhood. We just knew the rule was you\'re going to have to work twice as hard.',
+        'Lin-Manuel Miranda',
+    ],
+    [
+        'To me, I\'ve never understood why there is any question about are women as funny as men.',
+        'Judd Apatow',
+    ],
+    [
+        'Life\'s tragedy is that we get old too soon and wise too late.',
+        'Ella Woodward',
+    ],
+    [
+        'I find the whole time travel question very unsettling if you take it to its logical extension. I think it might eventually be possible, but then what happens?',
+        'William Shatner',
+    ],
+    [
+        'No matter how irrelevant social class now is, even the most eager egalitarian must be quietly proud that the posh English rose is still an industry standard for peerlessly sophisticated beauty.',
+        'Kate Reardon',
+    ],
+    [
+        'If you travel first class, you think first class and you are more likely to play first class.',
+        'Ray Floyd',
+    ],
+    [
+        'What seems to us as bitter trials are often blessings in disguise.',
+        'Oscar Wilde',
+    ],
+    [
+        'The other thing is quality of life; if you have a place where you can go and have a picnic with your family, it doesn\'t matter if it\'s a recession or not, you can include that in your quality of life.',
+        'Jim Fowler',
+    ],
+    [
+        'All the best performers bring to their role something more, something different than what the author put on paper. That\'s what makes theatre live. That\'s why it persists.',
+        'Stephen Sondheim',
+    ],
+    [
+        'All things are subject to interpretation whichever interpretation prevails at a given time is a function of power and not truth.',
+        'Friedrich Nietzsche',
+    ],
+    [
+        'I would warn you that I do not attribute to nature either beauty or deformity, order or confusion. Only in relation to our imagination can things be called beautiful or ugly, well-ordered or confused.',
+        'Baruch Spinoza',
+    ],
+    [
+        'There are two ways to worry words. One is hoping for the greatest possible beauty in what is created. The other is to tell the truth.',
+        'June Jordan',
+    ],
+    [
+        'The United States is the world\'s best hope, but if you fetter her in the interests and quarrels of other nations, if you tangle her in the intrigues of Europe, you will destroy her power for good and endanger her very existence.',
+        'Henry Cabot Lodge',
+    ],
+    [
+        'I have always considered it as treason against the great republic of human nature, to make any man\'s virtues the means of deceiving him.',
+        'Samuel Johnson',
+    ],
+    [
+        'The longer we dwell on our misfortunes, the greater is their power to harm us.',
+        'Voltaire',
+    ],
+    [
+        'Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.',
+        'Pele',
+    ],
+    [
+        'For me, Dracula has always been associated with travel and beautiful historical places.',
+        'Elizabeth Kostova',
+    ],
+    [
+        'When you reach the end of your rope, tie a knot in it and hang on.',
+        'Franklin D. Roosevelt',
+    ],
+    [
+        'Teaching was the hardest work I had ever done, and it remains the hardest work I have done to date.',
+        'Ann Richards',
+    ],
+];

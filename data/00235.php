@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'I don\'t believe in astrology. But then I\'m an Aquarius, and Aquarians don\'t believe in astrology.',
-    1 => 'James R. F. Quirk',
-  ),
-  1 => 
-  array (
-    0 => 'Those who want the Government to regulate matters of the mind and spirit are like men who are so afraid of being murdered that they commit suicide to avoid assassination.',
-    1 => 'Harry S Truman',
-  ),
-  2 => 
-  array (
-    0 => 'Envy always implies conscious inferiority wherever it resides.',
-    1 => 'Pliny',
-  ),
-  3 => 
-  array (
-    0 => 'God may be subtle, but He isn\'t plain mean.',
-    1 => 'Albert Einstein',
-  ),
-  4 => 
-  array (
-    0 => 'Problems are not stop signs, they are guidelines.',
-    1 => 'Robert H. Schuller',
-  ),
-  5 => 
-  array (
-    0 => 'You will be a failure, until you impress the subconscious with the conviction you are a success. This is done by making an affirmation which \'clicks.\'',
-    1 => 'Florence Scovel Shinn',
-  ),
-  6 => 
-  array (
-    0 => 'Never lose sight of the fact that the most important yardstick of your success will be how you treat other people - your family, friends, and coworkers, and even strangers you meet along the way.',
-    1 => 'Barbara Bush',
-  ),
-  7 => 
-  array (
-    0 => 'The problem with people who have no vices is that generally you can be pretty sure they\'re going to have some pretty annoying virtues.',
-    1 => 'Elizabeth Taylor',
-  ),
-  8 => 
-  array (
-    0 => 'The hardest thing to find in life is balance - especially, the more success you have, the more you look to the other side of the gate.',
-    1 => 'Celine Dion',
-  ),
-  9 => 
-  array (
-    0 => 'Computer Science: the boring art of coping with a large number of trivialities.',
-    1 => 'The Devil\'s DP Dictionary',
-  ),
-  10 => 
-  array (
-    0 => 'Only a life lived for others is worth living.',
-    1 => 'Albert Einstein',
-  ),
-  11 => 
-  array (
-    0 => 'It takes less time to do things right than to explain why you did it wrong.',
-    1 => 'Henry Wadsworth Longfellow',
-  ),
-  12 => 
-  array (
-    0 => 'It is something to be able to paint a particular picture, or to carve a statue, and so to make a few objects beautiful; but it is far more glorious to carve and paint the very atmosphere and medium through which we look, which morally we can do. To affect the quality of the day, that is the highest of arts.',
-    1 => 'Henry David Thoreau, "Where I Live"',
-  ),
-  13 => 
-  array (
-    0 => 'Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.',
-    1 => 'Robert Frost',
-  ),
-  14 => 
-  array (
-    0 => 'Personality can open doors, but only character can keep them open.',
-    1 => 'Elmer G. Letterman',
-  ),
-  15 => 
-  array (
-    0 => 'The love of what you do, combined with your belief in what you do, will not determine your success. It will determine how hard you will work and how dedicated you will be to achieving it. Success just shows up from there.',
-    1 => 'Jeffrey Gitomer',
-  ),
-  16 => 
-  array (
-    0 => 'Fourth Law of Revision:
-        It is usually impractical to worry beforehand about interferences',
-    1 => 'if you have none, someone will make one for you.',
-  ),
-  17 => 
-  array (
-    0 => 'There is nothing impossible to him who will try.',
-    1 => 'Alexander the Great',
-  ),
-  18 => 
-  array (
-    0 => 'Never consider the possibility of failure; as long as you persist, you will be successful.',
-    1 => 'Brian Tracy',
-  ),
-  19 => 
-  array (
-    0 => 'All my life I wanted to be someone; I guess I should have been more specific.',
-    1 => 'Jane Wagner',
-  ),
-  20 => 
-  array (
-    0 => 'When people do not respect us we are sharply offended; yet in his private heart no man much respects himself.',
-    1 => 'Mark Twain',
-  ),
-  21 => 
-  array (
-    0 => 'We all romanticize the people we adore.',
-    1 => 'John Green',
-  ),
-  22 => 
-  array (
-    0 => 'Do not watch the clock. Do what it does. Keep going.',
-    1 => 'Sam Levenson',
-  ),
-  23 => 
-  array (
-    0 => 'I think you ought to know I\'m feeling very depressed.',
-    1 => 'Marvin',
-  ),
-  24 => 
-  array (
-    0 => 'Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.',
-    1 => 'Lao Tzu',
-  ),
-);
+return [
+    [
+        'Lost - yesterday, somewhere between sunrise and sunset, two golden hours, each set with sixty diamond minutes. No reward is offered, for they are gone forever.',
+        'Horace Mann',
+    ],
+    [
+        'You will be a failure, until you impress the subconscious with the conviction you are a success. This is done by making an affirmation which \'clicks.\'',
+        'Florence Scovel Shinn',
+    ],
+    [
+        'Love is just a word until someone comes along and gives it meaning.',
+        '',
+    ],
+    [
+        'Somehow a bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
+        'Helen Rowland',
+    ],
+    [
+        'I just think that people take me a little more seriously as a brunette. I don\'t know if that\'s just because of a societal preconceived notion that all blondes are stupid, but it\'s a different kind of attitude.',
+        'Kate Bosworth',
+    ],
+    [
+        'Focus 90% of your time on solutions and only 10% of your time on problems.',
+        'Anthony J. D\'Angelo',
+    ],
+    [
+        'We have two ears and one mouth so that we can listen twice as much as we speak.',
+        'Epictetus',
+    ],
+    [
+        'Why don\'t you get out of that wet coat and into a dry martini?',
+        'Robert Benchley',
+    ],
+    [
+        'Learning should be engaging. Testing should not be the be all and end all. All students should have a broad curriculum that includes the arts and enrichment. Students should have opportunities to work in teams and engage in project-based learning. And student and family well-being should be front and center.',
+        'Randi Weingarten',
+    ],
+    [
+        'To find joy in work is to discover the fountain of youth.',
+        'Pearl S. Buck',
+    ],
+    [
+        'The time was ripe for Flower. The vibe was right.',
+        'Jody Watley',
+    ],
+    [
+        'I have short goals - to get better every day, to help my teammates every day - but my only ultimate goal is to win an NBA championship. It\'s all that matters. I dream about it. I dream about it all the time, how it would look, how it would feel. It would be so amazing.',
+        'LeBron James',
+    ],
+    [
+        'There can be many reasons to travel, but wandering into the world for no particular reason is a sublime madness, which in all its whimsy and pointlessness may depict the story of life - and indeed could be a useful model to keep in mind, seeing as so much of life\'s ambition comes unstuck or leads to nothing much at all.',
+        'Michael Leunig',
+    ],
+    [
+        'You were made perfectly to be loved - and surely I have loved you, in the idea of you, my whole life long.',
+        'Alia Bhatt',
+    ],
+    [
+        'I am not embarrassed to tell you that I believe in miracles.',
+        'Corazon Aquino',
+    ],
+    [
+        'Because it\'s cheaper and easier to fly than ever before, air travel is becoming democratized.',
+        'Peter Diamandis',
+    ],
+    [
+        'Trust is the conduit for influence; it\'s the medium through which ideas travel.',
+        'Amy Cuddy',
+    ],
+    [
+        'If you want to be successful, put yourself in a discomfort zone.',
+        'Sharfaraz Ahmed',
+    ],
+    [
+        'The World Cup tournament overall and, naturally, the new stadiums at its heart, are the ideal platform to portray Germany as a positive and exceptional location, and above all of course, as a highly capable economic location.',
+        'Franz Beckenbauer',
+    ],
+    [
+        'When I\'m with my friends I\'m funny, but I don\'t feel like I\'m a funny clown.',
+        'Nora Dunn',
+    ],
+    [
+        'Our deeds still travel with us from afar, and what we have been makes us what we are.',
+        'George Eliot',
+    ],
+    [
+        'The starting point of all achievement is desire.',
+        'Napoleon Hill',
+    ],
+    [
+        'If I ever do anything, it actually might be some fantasy elf thing or even some cute, funny thing. Just to do something a little bit out of the ordinary. I\'ve done my superhero gig.',
+        'Todd McFarlane',
+    ],
+    [
+        'On receiving from the people the sacred trust twice confided on my illustrious predecessor, and which he has discharged so faithfully and so well, I know that I can not expect to perform the arduous task with equal ability and success.',
+        'Martin Van Buren',
+    ],
+    [
+        'True health infuses positive energy in the mind, body and spirit; it is a main focus in my life.',
+        'Maximillian Degenerez',
+    ],
+];

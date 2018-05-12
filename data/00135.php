@@ -1,134 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Either that wallpaper goes, or I do.',
-    1 => 'Oscar Wilde\'s last words',
-  ),
-  1 => 
-  array (
-    0 => 'I think that when we have a better educated society, when there is less violence in our cities, when people get back into the workforce and have the opportunity to take care of themselves and their families - that for me really is the kind of success and the kind of America that I think most of us still want, we aspire to.',
-    1 => 'Michael Nutter',
-  ),
-  2 => 
-  array (
-    0 => 'It\'s the price of success: people start to think you\'re omnipotent.',
-    1 => 'Ben Bernanke',
-  ),
-  3 => 
-  array (
-    0 => 'We cannot really love anybody with whom we never laugh.',
-    1 => 'Agnes Repplier',
-  ),
-  4 => 
-  array (
-    0 => 'Patience, persistence and perspiration make an unbeatable combination for success.',
-    1 => 'Napoleon Hill',
-  ),
-  5 => 
-  array (
-    0 => 'Whatever you want in life, other people are going to want it too. Believe in yourself enough to accept the idea that you have an equal right to it.',
-    1 => 'Diane Sawyer',
-  ),
-  6 => 
-  array (
-    0 => 'Hatred, n.:
-        A sentiment appropriate to the occasion of another\'s superiority.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  7 => 
-  array (
-    0 => 'Our heritage and ideals, our code and standards - the things we live by and teach our children - are preserved or diminished by how freely we exchange ideas and feelings.',
-    1 => 'Walt Disney',
-  ),
-  8 => 
-  array (
-    0 => 'Did I forget to mention, forget to mention Memphis?
-Home of Elvis and the ancient Greeks.
-Do I smell? I smell home cooking.
-It\'s only the river, it\'s only the river.',
-    1 => 'Talking Heads (Cities)',
-  ),
-  9 => 
-  array (
-    0 => 'The price of greatness is responsibility.',
-    1 => 'Winston Churchill',
-  ),
-  10 => 
-  array (
-    0 => 'If you set your goals ridiculously high and it\'s a failure, you will fail above everyone else\'s success.',
-    1 => 'James Cameron',
-  ),
-  11 => 
-  array (
-    0 => 'If one is lucky, a solitary fantasy can totally transform one million realities.',
-    1 => 'Maya Angelou',
-  ),
-  12 => 
-  array (
-    0 => 'Luck is probability taken personally.',
-    1 => 'Chip Denman',
-  ),
-  13 => 
-  array (
-    0 => 'The best form of flattery is to be admired, imitated or respected. I\'ve always felt proud our fans look up to us or feel we are inspirational.',
-    1 => 'Cheryl James',
-  ),
-  14 => 
-  array (
-    0 => 'A vacuum is a hell of a lot better than some of the stuff that nature replaces it with.',
-    1 => 'Tenessee Williams',
-  ),
-  15 => 
-  array (
-    0 => 'Definiteness of purpose is the starting point of all achievement.',
-    1 => 'W. Clement Stone',
-  ),
-  16 => 
-  array (
-    0 => 'I feel lucky because I was a nerd, which I talk about in the book, but I had academic success, so through that, because that\'s what my parents put a great deal of value on, I had a great childhood because I sort of fulfilled the expectations of being good at school.',
-    1 => 'Mindy Kaling',
-  ),
-  17 => 
-  array (
-    0 => 'No matter how hard the past, you can always begin again.',
-    1 => 'Buddha',
-  ),
-  18 => 
-  array (
-    0 => 'Coronation, n.:
-        The ceremony of investing a sovereign with the outward and visible signs of his divine right to be blown sky-high with a dynamite bomb.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  19 => 
-  array (
-    0 => 'By failing to prepare, you are preparing to fail.',
-    1 => 'Benjamin Franklin',
-  ),
-  20 => 
-  array (
-    0 => 'I just need enough to tide me over until I need more.',
-    1 => 'Bill Hoest',
-  ),
-  21 => 
-  array (
-    0 => 'Success - keeping your mind awake and your desire asleep.',
-    1 => 'Walter Scott',
-  ),
-  22 => 
-  array (
-    0 => 'You\'re going to go through tough times - that\'s life. But I say, \'Nothing happens to you, it happens for you.\' See the positive in negative events.',
-    1 => 'Joel Osteen',
-  ),
-  23 => 
-  array (
-    0 => 'There are people out there who hate me and who say I\'m arrogant, vain, and whatever. That\'s all part of my success. I am made to be the best.',
-    1 => 'Cristiano Ronaldo',
-  ),
-  24 => 
-  array (
-    0 => 'I don\'t measure a man\'s success by how high he climbs but how high he bounces when he hits bottom.',
-    1 => 'George S. Patton',
-  ),
-);
+return [
+    [
+        'In my situation, every time I write a sentence, I\'m thinking not only of the people I ended up in college with but my siblings, my family, my school friends, the people from my neighborhood. I\'ve come to realize that this is an advantage, really: it keeps you on your toes.',
+        'Zadie Smith',
+    ],
+    [
+        'Especially as a title-holder, you can do great things with charities, because people suddenly care about what you have to say. I wanted to make a difference, which is why I created the Queen of the Universe pageant. I want to change all of those stigmas in the beauty pageant world.',
+        'Joyce Giraud',
+    ],
+    [
+        'Peace is a never-ending process, the work of many decisions by many people in many countries. It is an attitude, a way of life, a way of solving problems and resolving conflicts.',
+        "\u{d3}scar Arias",
+    ],
+    [
+        'Beauty when unadorned is adorned the most.',
+        'St. Jerome',
+    ],
+    [
+        'Beauty is nature\'s brag, and must be shown in courts, at feasts, and high solemnities, where most may wonder at the workmanship.',
+        'John Milton',
+    ],
+    [
+        'A person sets out to write a poem for a variety of reasons: to win the heart of his beloved; to express his attitude toward the reality surrounding him, be it a landscape or a state; to capture his state of mind at a given instant; to leave - as he thinks at that moment - a trace on the earth.',
+        'Joseph Brodsky',
+    ],
+    [
+        'Twilight - a time of pause when nature changes her guard. All living things would fade and die from too much light or too much dark, if twilight were not.',
+        'Howard Thurman',
+    ],
+    [
+        'Communication - the human connection - is the key to personal and career success.',
+        'Paul J. Meyer',
+    ],
+    [
+        'Even when bad things happen you have to try to use those bad things in a positive manner and really just take the positive out of it.',
+        'Natalie du Toit',
+    ],
+    [
+        'Ninety-eight per cent of laughter is nothing to do with jokes, which do not deserve to bear the weight of all the funny stuff in the world.',
+        'Arthur Smith',
+    ],
+    [
+        'A sculptor wields The chisel, and the stricken marble grows To beauty.',
+        'William C. Bryant',
+    ],
+    [
+        'The cost of our success is the exhaustion of natural resources, leading to energy crises, climate change, pollution, and the destruction of our habitat. If you exhaust natural resources, there will be nothing left for your children. If we continue in the same direction, humankind is headed for some frightful ordeals, if not extinction.',
+        'Christian de Duve',
+    ],
+    [
+        'Life is not a matter of place, things or comfort; rather, it concerns the basic human rights of family, country, justice and human dignity.',
+        'Imelda Marcos',
+    ],
+    [
+        'It\'s always more interesting to take on someone that\'s going to have hidden sides or a fatal flaw, because there\'s going to be more to play with - more conflict, internally or in and around them - but it\'s probably the thing of finding the positive in there.',
+        'Aidan Gillen',
+    ],
+    [
+        'Morality is simply the attitude we adopt towards people whom we personally dislike.',
+        'Oscar Wilde',
+    ],
+    [
+        'Of course I used to smile and laugh in 1976, but not when I was competing. Please show me somebody who laughs when they are concentrating; I always smiled.',
+        'Nadia Comaneci',
+    ],
+    [
+        'As kids we\'re not taught how to deal with success; we\'re taught how to deal with failure. If at first you don\'t succeed, try, try again. If at first you succeed, then what?',
+        'Charlie Sheen',
+    ],
+    [
+        'There is no substitute for victory.',
+        'Douglas MacArthur',
+    ],
+    [
+        'Honesty is the most single most important factor having a direct bearing on the final success of an individual, corporation, or product.',
+        'Ed McMahon',
+    ],
+    [
+        'Life is short, youth is finite, and opportunities endless. Have you found the intersection of your passion and the potential for world-shaping positive impact? If you don\'t have a great idea of your own, there are plenty of great teams that need you - unknown startups and established teams in giant companies alike.',
+        'Justin Rosenstein',
+    ],
+    [
+        'Happiness mainly comes from our own attitude, rather than from external factors.',
+        'Dalai Lama',
+    ],
+    [
+        'When my father died, my mother came back from being Mrs. Birkin to being Judy Campbell. She was a stunning actress. She came out of her shell. She was herself again: this very independent, funny, intellectual lady - and was able to perform again, which was her life before meeting my father squashed it out.',
+        'Jane Birkin',
+    ],
+    [
+        'Success is not only one thing. It\'s not only having a nice house in Beverly Hills and driving a nice Mercedes.',
+        'Malik Bendjelloul',
+    ],
+    [
+        'The only guaranteed way to make something not very funny is to make it vague.',
+        'Thomas Lennon',
+    ],
+    [
+        'If there is no struggle, there is no progress.',
+        'Frederick Douglass',
+    ],
+];

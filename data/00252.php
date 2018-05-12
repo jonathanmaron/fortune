@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Man\'s mind stretched to a new idea never goes back to its original dimensions.',
-    1 => 'Oliver Wendell Holmes, Jr.',
-  ),
-  1 => 
-  array (
-    0 => 'A scout troop consists of twelve little kids dressed like schmucks following a big schmuck dressed like a kid.',
-    1 => 'Jack Benny',
-  ),
-  2 => 
-  array (
-    0 => 'In the market, there can be no such thing as exploitation.',
-    1 => 'Murray Rothbard',
-  ),
-  3 => 
-  array (
-    0 => 'Check your ego at the door. The ego can be the great success inhibitor. It can kill opportunities, and it can kill success.',
-    1 => 'Dwayne Johnson',
-  ),
-  4 => 
-  array (
-    0 => 'The secret of success is sincerity.',
-    1 => 'Jean Giraudoux',
-  ),
-  5 => 
-  array (
-    0 => 'My career started young and I was really ambitious, and then I had success and I hung out with people who were much older. I think I might have been temporally misplaced, so I thought I was 40. It was a premature midlife crisis.',
-    1 => 'Elizabeth Gilbert',
-  ),
-  6 => 
-  array (
-    0 => 'Happiness must happen, and the same holds for success: you have to let it happen by not caring about it.',
-    1 => 'Viktor E. Frankl',
-  ),
-  7 => 
-  array (
-    0 => 'Success is simply a matter of luck. Ask any failure.',
-    1 => 'Earl Wilson',
-  ),
-  8 => 
-  array (
-    0 => 'Space is an inspirational concept that allows you to dream big.',
-    1 => 'Peter Diamandis',
-  ),
-  9 => 
-  array (
-    0 => 'When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  10 => 
-  array (
-    0 => 'What I admire in Columbus is not his having discovered a world, but his having gone to search for it on the faith of his own opinion.',
-    1 => 'Albert Einstein',
-  ),
-  11 => 
-  array (
-    0 => 'I thought \'Moulin Rouge\' was inspirational, and \'Jesus Christ Superstar\' I loved.',
-    1 => 'Pierce Brosnan',
-  ),
-  12 => 
-  array (
-    0 => 'Success in the majority of circumstances depends on knowing how long it takes to succeed.',
-    1 => 'Charles de Montesquieu',
-  ),
-  13 => 
-  array (
-    0 => 'Luck is what happens when preparation meets opportunity.',
-    1 => 'E. Letterman',
-  ),
-  14 => 
-  array (
-    0 => 'Would you rather be right or free?',
-    1 => 'Byron Katie',
-  ),
-  15 => 
-  array (
-    0 => 'Kind hearts are the gardens, Kind thoughts are the roots, Kind words are the flowers, Kind deeds are the fruits, Take care of your garden And keep out the weeds, Fill it with sunshine, Kind words, and Kind deeds.',
-    1 => 'Henry Wadsworth Longfellow',
-  ),
-  16 => 
-  array (
-    0 => 'Good-bye. I am leaving because I am bored.',
-    1 => 'George Saunders\' dying words',
-  ),
-  17 => 
-  array (
-    0 => 'Let the beauty that we love be what we do.',
-    1 => 'Jalal ad-Din Rumi',
-  ),
-  18 => 
-  array (
-    0 => 'How far that little candle throws its beams! So shines a good deed in a naughty world.',
-    1 => 'William Shakespeare',
-  ),
-  19 => 
-  array (
-    0 => 'A bend in the road is not the end of the road…unless you fail to make the turn.',
-    1 => 'Unknown',
-  ),
-  20 => 
-  array (
-    0 => 'What sunshine is to flowers, smiles are to humanity.',
-    1 => 'Alexander Pope',
-  ),
-  21 => 
-  array (
-    0 => 'Don\'t wait for extraordinary opportunities. Seize common occasions and make them great. Weak men wait for opportunities; strong men make them.',
-    1 => 'Orison Swett Marden',
-  ),
-  22 => 
-  array (
-    0 => 'Great spirits have always encountered violent opposition from mediocre minds.',
-    1 => 'Albert Einstein',
-  ),
-  23 => 
-  array (
-    0 => 'Numbing the pain for a while will make it worse when you finally feel it.',
-    1 => 'The Goblet of Fire',
-  ),
-  24 => 
-  array (
-    0 => 'The lion and the calf shall lie down together but the calf won\'t get much sleep.',
-    1 => 'Woody Allen',
-  ),
-);
+return [
+    [
+        'I had the opportunity to go into the hospitals and talk to kids and see a kid and make him smile. Why? Because I\'m a special person? No. It had nothing to do with that. It has everything to do with me being the quarterback at the University of Florida. And to not take advantage of that is a shame.',
+        'Tim Tebow',
+    ],
+    [
+        'Success is walking from failure to failure with no loss of enthusiasm.',
+        'Winston Churchill',
+    ],
+    [
+        'The world is getting more connected through technology and travel. Cuisines are evolving. Some people are scared of globalization, but I think people will always take pride in cultural heritage.',
+        'John Mackey',
+    ],
+    [
+        'Facts which at first seem improbable will, even on scant explanation, drop the cloak which has hidden them and stand forth in naked and simple beauty.',
+        'Galileo Galilei',
+    ],
+    [
+        'In the investigation of a neurotic style of life, we must always suspect an opponent, and note who suffers most because of the patient\'s condition. Usually this is a member of the family.',
+        'Alfred Adler',
+    ],
+    [
+        'In 1985, I was living with my sister in Virginia, and since I was still in high school, I worked at McDonald\'s to save money to get an abortion. It sounds really terrible, but it was the best decision I ever made. It was the first time I took responsibility for my actions. I messed up, had sex without contraception, and got pregnant at 15.',
+        'Kathleen Hanna',
+    ],
+    [
+        'What I miss most about Mexico isn\'t the food or the customs; it\'s my family and the way we\'d all sit around chatting together.',
+        'Javier Hernandez',
+    ],
+    [
+        'Just what future the Designer of the universe has provided for the souls of men I do not know, I cannot prove. But I find that the whole order of Nature confirms my confidence that, if it is not like our noblest hopes and dreams, it will transcend them.',
+        'Henry Norris Russell',
+    ],
+    [
+        'There have been many different artists that have been inspirational. I suppose the question is directed to what was the reason why I went into fantasy illustration.',
+        'Boris Vallejo',
+    ],
+    [
+        'The other night I ate at a real nice family restaurant. Every table had an argument going.',
+        'George Carlin',
+    ],
+    [
+        'When I was drafted to Smackdown, I was like, \'Hell yes, I\'m going to captain this ship.\' Then I was like, \'Oh, wait, you\'re losing your best friend and travel partner and the person you enjoy having matches with the absolute most.\' That\'s Charlotte. We travel together, and she is my best friend.',
+        'Becky Lynch',
+    ],
+    [
+        'Super-ambitious goals tend to be unifying and energizing to people; but only if they believe there\'s a chance of success.',
+        'Peter Diamandis',
+    ],
+    [
+        'Common sense would suggest that having ability, like being smart, inspires confidence. It does, but only while the going is easy. The deciding factor in life is how you handle setbacks and challenges. People with a growth mindset welcome setbacks with open arms.',
+        'Ezra Taft Benson',
+    ],
+    [
+        'Meditation is all about the pursuit of nothingness. It\'s like the ultimate rest. It\'s better than the best sleep you\'ve ever had. It\'s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.',
+        'Hugh Jackman',
+    ],
+    [
+        'All blame is a waste of time. No matter how much fault you find with another, and regardless of how much you blame him, it will not change you. The only thing blame does is to keep the focus off you when you are looking for... reasons to explain your unhappiness or frustration.',
+        'Casey Stengel',
+    ],
+    [
+        'Do not watch the clock. Do what it does. Keep going.',
+        'Sam Levenson',
+    ],
+    [
+        'What I always think about when I think about \'Girls\' is Lena being in a scene where she\'s very vulnerable, possibly directing, acting, and she\'s probably written the dialogue. It\'s 2 in the morning. Everyone\'s tired. Everyone\'s grumpy. And she has a smile on her face and kindness for everyone who interacts with her.',
+        'Jennifer Konner',
+    ],
+    [
+        'Because sorry to say, women run the house. They run the family. They hold things up. I mean, it\'s like you don\'t ever see your mom get sick because she handles everything. And it\'s kind of amazing I think to show people just how strong women are.',
+        'Sophia Bush',
+    ],
+    [
+        'Being rich is a good thing. Not just in the obvious sense of benefitting you and your family, but in the broader sense. Profits are not a zero sum game. The more you make, the more of a financial impact you can have.',
+        'Mark Cuban',
+    ],
+    [
+        'Motherhood has most definitely changed me and my life. It\'s so crazy how drastic even the small details change - in such an amazing way. Even silly things, like the fact that all of my pictures on my cell phone used to be of me at photo shoots - conceited, I know! - but now every single picture on my phone is of Mason.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'If it\'s flipping hamburgers at McDonald\'s, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft.',
+        'Snoop Dogg',
+    ],
+    [
+        'It\'s funny how the music industry is enraged about the Internet and the way things are copied without being paid for. But you know why people steal the music? Because they can\'t afford the music.',
+        'Tom Petty',
+    ],
+    [
+        'The big problem of our modern society is that we feel that we are separated from the nature. But it\'s just the opposite. We are interrelated and our DNA is the same. And only when human beings understand that, the nature will not be obstacle.',
+        'Marina Abramovic',
+    ],
+    [
+        'Sudden success in golf is like the sudden acquisition of wealth. It is apt to unsettle and deteriorate the character.',
+        'P. G. Wodehouse',
+    ],
+    [
+        'I know what Germans are. They are a funny people. They are always choosing someone to lead them in a direction which they do not want to go.',
+        'Gertrude Stein',
+    ],
+];

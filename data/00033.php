@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'If God had intended us not to masturbate, he would\'ve made our arms shorter.',
-    1 => 'George Carlin',
-  ),
-  1 => 
-  array (
-    0 => 'Happiness can be found, even in the darkest of times, if only one remembers to turn on the light',
-    1 => 'The Prisoner of Azkaban',
-  ),
-  2 => 
-  array (
-    0 => 'It\'s not whether you get knocked down, it\'s whether you get up.',
-    1 => 'Vince Lombardi',
-  ),
-  3 => 
-  array (
-    0 => 'I\'ve been blessed to be somebody that\'s been climbing that success mountain top for years of hard work, you know, but now it\'s all connecting. And now, the whole world is watching, you know what I\'m saying, and it feels good \'cause it\'s good energy. This is all positive vibes, and good vibes and good energy, so it feels incredible.',
-    1 => 'DJ Khaled',
-  ),
-  4 => 
-  array (
-    0 => 'The key to success is action, and the essential in action is perseverance.',
-    1 => 'Sun Yat-sen',
-  ),
-  5 => 
-  array (
-    0 => 'So I wanted to sing inspirational music, and that\'s exactly how I approached it - only the words have been changed to declare my relationship with God.',
-    1 => 'Smokey Robinson',
-  ),
-  6 => 
-  array (
-    0 => 'Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.',
-    1 => 'Dale Carnegie',
-  ),
-  7 => 
-  array (
-    0 => 'There is only one thing that makes a dream impossible to achieve: the fear of failure.',
-    1 => 'Paulo Coelho',
-  ),
-  8 => 
-  array (
-    0 => 'I\'m a gay disabled man who has become very successful. I don\'t get up in the morning and think I\'m inspirational; I just get up thinking that I love horses.',
-    1 => 'Lee Pearson',
-  ),
-  9 => 
-  array (
-    0 => 'Even a toad has four ounces of strength.',
-    1 => 'Chinese Proverb',
-  ),
-  10 => 
-  array (
-    0 => 'To be beautiful means to be yourself. You don\'t need to be accepted by others. You need to be yourself.',
-    1 => 'Thich Nhat Hanh',
-  ),
-  11 => 
-  array (
-    0 => 'It is not the going out of port, but the coming in, that determines the success of a voyage.',
-    1 => 'Henry Ward Beecher',
-  ),
-  12 => 
-  array (
-    0 => 'Real friends are those who, when you\'ve made a fool of yourself, don\'t feel that you\'ve done a permanent job.',
-    1 => 'Erwin T. Randall',
-  ),
-  13 => 
-  array (
-    0 => 'Pour on, I will endure.',
-    1 => 'William Shakespeare',
-  ),
-  14 => 
-  array (
-    0 => 'No legacy is so rich as honesty.',
-    1 => 'William Shakespeare',
-  ),
-  15 => 
-  array (
-    0 => 'It matters not what someone is born, but what they grow to be.',
-    1 => 'The Goblet of Fire',
-  ),
-  16 => 
-  array (
-    0 => 'The only way to get rid of a temptation is to yield to it.',
-    1 => 'Oscar Wilde',
-  ),
-  17 => 
-  array (
-    0 => 'Let us not be content to wait and see what will happen, but give us the determination to make the right things happen.',
-    1 => 'Peter Marshall',
-  ),
-  18 => 
-  array (
-    0 => 'The greatest use of life is to spend it for something that will outlast it.',
-    1 => 'William James',
-  ),
-  19 => 
-  array (
-    0 => 'It\'s not the size of the dog in the fight, it\'s the size of the fight in the dog',
-    1 => 'Mark Twain',
-  ),
-  20 => 
-  array (
-    0 => 'The ideal is impossible. The idea of the ideal is essential.',
-    1 => 'P. Taylor',
-  ),
-  21 => 
-  array (
-    0 => 'When one door is closed, don\'t you know, another is open.',
-    1 => 'Bob Marley',
-  ),
-  22 => 
-  array (
-    0 => 'The cow is nothing but a machine which makes grass fit for us people to eat.',
-    1 => 'John McNulty',
-  ),
-  23 => 
-  array (
-    0 => 'I think \'Heroes of Cosplay\' will show a lot of the positive things, like how much effort it takes to make a costume. These people on the show aren\'t taking shortcuts. As long as that effort gets through to the viewers, we will be inspirational. Then there will be people who watch the show that want to get in and hands-on make outfits.',
-    1 => 'Yaya Han',
-  ),
-  24 => 
-  array (
-    0 => 'It is better to fail in originality than to succeed in imitation.',
-    1 => 'Herman Melville',
-  ),
-);
+return [
+    [
+        'To this day, just always treat people the way you want to be treated. Whether it\'s family or friends or co-workers, I think it\'s the most important thing. Whether you have success or don\'t have it, whether you\'re a good person is all that matters.',
+        'Brenda Song',
+    ],
+    [
+        'No matter how good you are at planning, the pressure never goes away. So I don\'t fight it. I feed off it. I turn pressure into motivation to do my best.',
+        'Ben Carson',
+    ],
+    [
+        'The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.',
+        'Kalpana Chawla',
+    ],
+    [
+        'I wasn\'t close to my father, but I wanted to be all my life. He had a funny sense of humor, and he laughed all the time - good and loud, like I do. He was a gay Irish gentleman and very good-looking. And he wanted to be close to me, too, but we never had much time together.',
+        'Judy Garland',
+    ],
+    [
+        'Anyone who wants to sell you overnight success or wealth is not interested in your success; they are interested in your money.',
+        'Bo Bennett',
+    ],
+    [
+        'No alibi will save you from accepting the responsibility.',
+        'Napoleon Hill',
+    ],
+    [
+        'People always accuse me of being motivational in a way, like it was a bad thing, but that\'s just how I was raised. My mom raised me in a positive environment, with lots of love in my heart, and that reflects in my music.',
+        'Lenny Kravitz',
+    ],
+    [
+        'Either you run the day, or the day runs you.',
+        'Jim Rohn',
+    ],
+    [
+        'That old law about \'an eye for an eye\' leaves everybody blind. The time is always right to do the right thing.',
+        'Martin Luther King, Jr.',
+    ],
+    [
+        'So, we have choice, and sometimes it seems very hard, but the best way to heal physically or emotionally is to keep positive.',
+        'Petra Nemcova',
+    ],
+    [
+        'A lot of things have been thrown at me in life, and I\'ve got through it all without a rule book, taking it one day at a time.',
+        'Yoko Ono',
+    ],
+    [
+        'I wasn\'t a vegan when I came to Congress. It was a decision I made soon after I got here, and it\'s had such a positive impact on my life that I decided to try to help others as well.',
+        'Ted Deutch',
+    ],
+    [
+        'My mother and father, with my newborn brother and me in the backseat of the 1938 Ford sedan that would be our family car for the next decade, moved to that hastily constructed Army ammunition depot called Igloo, on the alkaline and sagebrush landscape of far southwestern South Dakota. I was three years old.',
+        'Tom Brokaw',
+    ],
+    [
+        'What looks like enjoyment is the sneer of contempt. That\'s not a smile.',
+        'Jack Kevorkian',
+    ],
+    [
+        'In the long run we get no more than we have been willing to risk giving.',
+        'Sheldon Kopp',
+    ],
+    [
+        'Loyal and efficient work in a great cause, even though it may not be immediately recognized, ultimately bears fruit.',
+        'Jawaharlal Nehru',
+    ],
+    [
+        'The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.',
+        'Dalai Lama',
+    ],
+    [
+        'Poverty is about people lacking the tools they need to get on in life. And solving it is about tackling educational failure, antisocial behaviour, debt problems and addiction, and of course it\'s about work.',
+        'Theresa May',
+    ],
+    [
+        'The mind that tries to shape tomorrow beyond its capacities will find no rest.',
+        'Rumi',
+    ],
+    [
+        'I had hoped when my life was chronicled, it would be an inspirational story.',
+        'Om Puri',
+    ],
+    [
+        'Greatness is so often a courteous synonym for great success.',
+        'Philip Guedalla',
+    ],
+    [
+        'All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.',
+        'Albert Camus',
+    ],
+    [
+        'Suddenly life has new meaning to me, there\'s beauty up above and things we never take notice of, you wake up suddenly you\'re in love.',
+        'Billy Ocean',
+    ],
+    [
+        'I do like alternative rock and rap, but as far as inspirational, then I go full-on orchestra. It fills up your entire being.',
+        'Osric Chau',
+    ],
+    [
+        'Life itself is the most wonderful fairy tale.',
+        'Amy Winehouse',
+    ],
+];

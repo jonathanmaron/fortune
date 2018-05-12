@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Success is never final, failure is never fatal. It\'s courage that counts.',
-    1 => 'John Wooden',
-  ),
-  1 => 
-  array (
-    0 => 'The secret of success is constancy to purpose.',
-    1 => 'Benjamin Disraeli',
-  ),
-  2 => 
-  array (
-    0 => 'At the end of the day, the one commonality that both Hindi cinema and Hollywood share is that they are full of talented and inspirational people. Outside of this, there are many differences, from the scheduling and rehearsal to promotion and directing techniques.',
-    1 => 'Nargis Fakhri',
-  ),
-  3 => 
-  array (
-    0 => 'The heart may be broken, and the soul remain unshaken.',
-    1 => 'Jean de La Fontaine',
-  ),
-  4 => 
-  array (
-    0 => 'In Sedona, "Namaste" means "What can I sell you?"',
-    1 => 'Chuck Murcko',
-  ),
-  5 => 
-  array (
-    0 => 'Kind words can be short and easy to speak, but their echoes are truly endless.',
-    1 => 'Mother Teresa',
-  ),
-  6 => 
-  array (
-    0 => 'Success is a process, a quality of mind and way of being, an outgoing affirmation of life.',
-    1 => 'Alex Noble',
-  ),
-  7 => 
-  array (
-    0 => 'Whether a party can have much success without a woman present I must ask others to decide, but one thing is certain, no party is any fun unless seasoned with folly.',
-    1 => 'Desiderius Erasmus',
-  ),
-  8 => 
-  array (
-    0 => '"It was hell," recalls former child.',
-    1 => 'caption to a B. Kliban cartoon',
-  ),
-  9 => 
-  array (
-    0 => 'Joy descends gently upon us like the evening dew, and does not patter down like a hailstorm.',
-    1 => 'Jean Paul',
-  ),
-  10 => 
-  array (
-    0 => 'Every skill you acquire doubles your odds of success.',
-    1 => 'Scott Adams',
-  ),
-  11 => 
-  array (
-    0 => 'The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they\'re all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn\'t it?',
-    1 => 'Dennis C. Blair',
-  ),
-  12 => 
-  array (
-    0 => 'A gem cannot be polished without friction, nor a man perfected without trials.',
-    1 => 'Lucius Annaeus Seneca',
-  ),
-  13 => 
-  array (
-    0 => 'Rejoice in the things that are present; all else is beyond thee.',
-    1 => 'Khalil Gibran',
-  ),
-  14 => 
-  array (
-    0 => 'Babies don\'t need a vacation, but I still see \'em at the beach. Pisses me off.',
-    1 => 'Steven Wright',
-  ),
-  15 => 
-  array (
-    0 => 'Always do right. This will gratify some people and astonish the rest.',
-    1 => 'Mark Twain',
-  ),
-  16 => 
-  array (
-    0 => 'Only one who devotes himself to a cause with his whole strength and soul can be a true master. For this reason mastery demands all of a person.',
-    1 => 'Albert Einstein',
-  ),
-  17 => 
-  array (
-    0 => 'The question isn\'t who is going to let me; it\'s who is going to stop me.',
-    1 => 'Ayn Rand',
-  ),
-  18 => 
-  array (
-    0 => 'Hope is that thing with feathers that perches in the soul and sings the tune without the words and never stops... at all.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  19 => 
-  array (
-    0 => 'Once I knew only darkness and stillness... my life was without past or future... but a little word from the fingers of another fell into my hand that clutched at emptiness, and my heart leaped to the rapture of living.',
-    1 => 'Helen Keller',
-  ),
-  20 => 
-  array (
-    0 => 'Forgiveness is not an occasional act: it is an attitude.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  21 => 
-  array (
-    0 => 'Start by doing what\'s necessary, then what\'s possible; and suddenly you are doing the impossible.',
-    1 => 'Saint Francis of Assisi',
-  ),
-  22 => 
-  array (
-    0 => 'When Maurice touched a keyboard, it was like something from a movie, magical. He would always give you something from a movie, and you\'d go, what did you just play... immediately inspirational writings, amazing. That\'s what we\'re going to miss.',
-    1 => 'Robin Gibb',
-  ),
-  23 => 
-  array (
-    0 => 'There is just a lot of creativity and theatricality in performers who happen to be gay. Maybe there\'s a success in numbers, so by the law of averages we are going to get these jobs.',
-    1 => 'Neil Patrick Harris',
-  ),
-  24 => 
-  array (
-    0 => 'Go big or go home. Because it\'s true. What do you have to lose?',
-    1 => 'Eliza Dushku',
-  ),
-);
+return [
+    [
+        'In my own life, I think legends of supernatural, mythic things are really just a manifestation of the collective unconscious. So I don\'t really get freaked out. I mean certainly, you read about things people did to each other in the pursuit of some mystical or occult goal, and it\'s horrifying. But that\'s just human nature.',
+        'Alan Ball',
+    ],
+    [
+        'I considered becoming a priest very seriously. I wanted to travel the world. By the time I turned 16, I realized I was only in it for selfish reasons. And, more importantly, I didn\'t want to sacrifice the ladies!',
+        'James McAvoy',
+    ],
+    [
+        'I\'ve never followed a vegan or vegetarian diet in the past, but I think I could do it. It would not be easy. I have worked with nutritionists who have said a vegan diet is not necessarily all positive for your health, because you need nutrients you only find in meats. I believe in a balanced diet.',
+        'Joel Robuchon',
+    ],
+    [
+        'Anticipate the difficult by managing the easy.',
+        'Lao Tzu',
+    ],
+    [
+        'I have a wonderful shelter, which is my family. I have a wonderful relationship with my brother and sister; this makes me feel that I know always where I belong.',
+        'Jose Carreras',
+    ],
+    [
+        'I never did quite fit the glamour mode. It is life with my husband and family that is my high now.',
+        'Patty Duke',
+    ],
+    [
+        'For the first time ever I was taking the family on the road. We stayed with my in-laws, which on life\'s list of experiences ranks right below sitting in a tub full of scissors.',
+        'Jeff Foxworthy',
+    ],
+    [
+        'There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.',
+        'Nelson Mandela',
+    ],
+    [
+        'It is the nature of babies to be in bliss.',
+        'Deepak Chopra',
+    ],
+    [
+        'My father got a trade union scholarship to Oxford; he lived and breathed politics; he was always watching current-affairs programmes. But I have a five-year-old child\'s attitude towards the news. Mainly, that it absolutely turns me off.',
+        'Jez Butterworth',
+    ],
+    [
+        'You have to be positive, and I\'m not just talking about athletics, this also applies to life.',
+        'Sheryl Swoopes',
+    ],
+    [
+        'People say, what is she thinking? I\'m thinking: fun; cash; travel.',
+        'Gail Porter',
+    ],
+    [
+        'All I really need to know... I learned in kindergarten.',
+        'Thomas Merton',
+    ],
+    [
+        'Bjorn was a different breed, I threw my best material at him, but he would never smile, but that added to the charm when he played me and Mac. We were going nuts and losing our mind and he was sitting back like he was on a Sunday stroll.',
+        'Jimmy Connors',
+    ],
+    [
+        'Like love, breakfast is best when made at home.',
+        'Gina Barreca',
+    ],
+    [
+        'A man is not where he lives but where he loves.',
+        '',
+    ],
+    [
+        'It takes courage to grow up and become who you really are.',
+        'E. E. Cummings',
+    ],
+    [
+        'Background scores allow me an absolute flight of the imagination, and I travel in my mind\'s eye. I do not like the scores to have vocal notes, because they act as a limitation to these flights of fancy.',
+        'Nawazuddin Siddiqui',
+    ],
+    [
+        'The attitude of independence toward a constructed language which all national speakers must adopt is really a great advantage, because it tends to make man see himself as the master of language instead of its obedient servant.',
+        'Edward Sapir',
+    ],
+    [
+        'Id rather regret the things that I have done than the things that I have not done.',
+        'Lucille Ball',
+    ],
+    [
+        'The Oscars are a lot different when you are a nominee. You walk around with this big smile on your face, and everyone, even people who work for rival film companies, tells you they voted for you.',
+        'Samuel Goldwyn',
+    ],
+    [
+        'Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.',
+        'Buddha',
+    ],
+    [
+        'The most important investment you can make is in yourself.',
+        'Warren Buffett',
+    ],
+    [
+        'Nature scarcely ever gives us the very best; for that we must have recourse to art.',
+        'Baltasar Gracian',
+    ],
+    [
+        'You need to overcome the tug of people against you as you reach for high goals.',
+        'George S. Patton',
+    ],
+];

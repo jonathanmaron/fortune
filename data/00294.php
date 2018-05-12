@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Sometimes not telling people anything is a good thing.',
-    1 => 'Jason Myers',
-  ),
-  1 => 
-  array (
-    0 => 'Always accept good fortune with grace and humility.',
-    1 => 'Mark L. Mika',
-  ),
-  2 => 
-  array (
-    0 => 'Even if you do learn to speak correct English, whom are you going to speak it to?',
-    1 => 'Clarence Darrow',
-  ),
-  3 => 
-  array (
-    0 => 'Parents can only give good advice or put [their children] on the right path, but the final forming of a person\'s character lies in their own hands.',
-    1 => 'Anne Frank',
-  ),
-  4 => 
-  array (
-    0 => 'Anyone who has never made a mistake has never tried anything new.',
-    1 => 'Albert Einstein',
-  ),
-  5 => 
-  array (
-    0 => 'A pessimist, they say, sees a glass as being half empty; an optimist sees the same glass as half full. But a giving person sees a glass of water and starts looking for someone who might be thirsty.',
-    1 => 'G. Donald Gale',
-  ),
-  6 => 
-  array (
-    0 => 'Marriage is the only adventure open to the cowardly.',
-    1 => 'Voltaire',
-  ),
-  7 => 
-  array (
-    0 => 'Variety is the spice of life.',
-    1 => 'American Proverb',
-  ),
-  8 => 
-  array (
-    0 => 'With the success of a show, you get an opportunity to call attention to things that you believe in.',
-    1 => 'Bradley Whitford',
-  ),
-  9 => 
-  array (
-    0 => 'This is the time. This is the place. This is the vastness. Right here is paradise. Always. Always.',
-    1 => 'Byron Katie',
-  ),
-  10 => 
-  array (
-    0 => 'I view art as an inspirational tool.',
-    1 => 'Thomas Kincade',
-  ),
-  11 => 
-  array (
-    0 => 'True achievement in any sphere of action depends upon real ability, and a strong, deep, whole-souled love.',
-    1 => 'David Emerald',
-  ),
-  12 => 
-  array (
-    0 => 'The most important thing about motivation is goal setting. You should always have a goal.',
-    1 => 'Francie Larrieu Smith',
-  ),
-  13 => 
-  array (
-    0 => 'The past is a guidepost, not a hitching post.',
-    1 => 'L. Thomas Holdcroft',
-  ),
-  14 => 
-  array (
-    0 => 'Those who believe that they believe in God, but without passion in their hearts, without anguish in mind, without uncertainty, without doubt, without an element of despair even in their consolation, believe only in the God idea, not God Himself.',
-    1 => 'Miguel de Unamuno, Spanish philosopher and writer',
-  ),
-  15 => 
-  array (
-    0 => 'That man is a success who has lived well, laughed often and loved much.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  16 => 
-  array (
-    0 => 'Life. Don\'t talk to me about life.',
-    1 => 'Marvin the Paranoid Anroid',
-  ),
-  17 => 
-  array (
-    0 => 'I will offer a choice, not an echo.',
-    1 => 'Barry M. Goldwater',
-  ),
-  18 => 
-  array (
-    0 => 'Ideas are only lethal if you suppress and don\'t discuss them. Ignorance is not bliss, it\'s stupid. Banning books shows you don\'t trust your kids to think and you don\'t trust yourself to be able to talk to them.',
-    1 => 'Anna Quindlen',
-  ),
-  19 => 
-  array (
-    0 => 'Fortune sides with him who dares.',
-    1 => 'Virgil',
-  ),
-  20 => 
-  array (
-    0 => 'The study of theology, as it stands in the Christian churches, is the study of nothing; it is founded on nothing; it rests on no principles; it proceeds by no authority; it has no data; it can demonstrate nothing; and it admits of no conclusion.',
-    1 => 'Thomas Paine, from The Age of Reason',
-  ),
-  21 => 
-  array (
-    0 => 'Acquaintance, n.:
-        A person whom we know well enough to borrow from, but not well enough to lend to.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  22 => 
-  array (
-    0 => 'Excuse me, I don\'t like people just because they\'re handsome!',
-    1 => 'The Goblet of Fire',
-  ),
-  23 => 
-  array (
-    0 => 'People have a way of becoming what you encourage them to be, not what you nag them to be.',
-    1 => 'Scudder N. Parker',
-  ),
-  24 => 
-  array (
-    0 => 'You or I must yield up his life to Ahrimanes. I would rather it were you. I should have no hesitation in sacrificing my own life to spare yours, but we take stock next week, and it would not be fair on the company.',
-    1 => 'J. Wellington Wells',
-  ),
-);
+return [
+    [
+        'There\'s a lot of blood, sweat, and guts between dreams and success.',
+        'Paul Bryant',
+    ],
+    [
+        'Either positive or negative comments are good because it shows I am still relevant.',
+        'Justin Guarini',
+    ],
+    [
+        'All you have in comedy, in general, is just going with your instincts. You can only hope that other people think that what you think is funny is funny. I don\'t have an answer but I just try to plough straight ahead.',
+        'Will Ferrell',
+    ],
+    [
+        'I believe in persevering. If you persevere, success lies ahead of you.',
+        'Liu Yang',
+    ],
+    [
+        'It\'s as if inside the White House the belief in Obama\'s inspirational charisma is still such that every time the ugliness of brute politics intrudes, it\'s a startling revelation.',
+        'Tina Brown',
+    ],
+    [
+        'I really enjoy what I do, and who I\'m with and where I am. Having said that, I\'m not really a person of habit, because what I do in my job is travel around the world and play concerts to people, and occasionally do very weird things.',
+        'Robert Smith',
+    ],
+    [
+        'The travel, the amazing work I have had the chance to do, the meetings with different people are all very inspiring and give me lots of positive energy.',
+        'Saskia de Brauw',
+    ],
+    [
+        'Follow your inner moonlight; don\'t hide the madness.',
+        'Allen Ginsberg',
+    ],
+    [
+        'The very best thing you can do for the whole world is to make the most of yourself.',
+        'Wallace D. Wattles',
+    ],
+    [
+        'To the artist there is never anything ugly in nature.',
+        'Auguste Rodin',
+    ],
+    [
+        'You know, fame is a funny thing, man, especially, you know, actors, musicians, rappers, rock singers, it\'s kind of a lifestyle and it\'s easy to get caught up in it - you go to bars, you go to clubs, everyone\'s doing a certain thing... It\'s tough.',
+        'Eminem',
+    ],
+    [
+        'What is not started today is never finished tomorrow.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'Love is a positive effect. Love can never have a negative effect, only a positive effect.',
+        'Ziggy Marley',
+    ],
+    [
+        'Talk doesn\'t cook rice.',
+        'Chinese proverb',
+    ],
+    [
+        'Liberty, taking the word in its concrete sense, consists in the ability to choose.',
+        'Simone Weil',
+    ],
+    [
+        'I guess we all like to be recognized not for one piece of fireworks, but for the ledger of our daily work.',
+        'Neil Armstrong',
+    ],
+    [
+        'Here is my wish and my desire and my pledge as well: that we remember our true nature and our womanhood. That we own and know that we are more than our bodies and yet our bodies are these sacred, beautiful, rhythmic houses for us.',
+        'Tracee Ellis Ross',
+    ],
+    [
+        'In the practice of tolerance, one\'s enemy is the best teacher.',
+        'Dalai Lama',
+    ],
+    [
+        'Success comes from knowing that you did your best to become the best that you are capable of becoming.',
+        'John Wooden',
+    ],
+    [
+        'The diversity of the phenomena of nature is so great, and the treasures hidden in the heavens so rich, precisely in order that the human mind shall never be lacking in fresh nourishment.',
+        'Johannes Kepler',
+    ],
+    [
+        'If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.',
+        'Albert Einstein',
+    ],
+    [
+        'Eighty percent of success is showing up.',
+        'Woody Allen',
+    ],
+    [
+        'I take a cooking class everywhere I travel. I find it\'s the best way to get to know a culture.',
+        'Blake Lively',
+    ],
+    [
+        'The secret of my success is my hairspray.',
+        'Richard Gere',
+    ],
+    [
+        'The root of the kingdom is in the state. The root of the state is in the family. The root of the family is in the person of its head.',
+        'Mencius',
+    ],
+];

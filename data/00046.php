@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
-    1 => 'John P. Kotter',
-  ),
-  1 => 
-  array (
-    0 => 'Who, being loved, is poor?',
-    1 => 'Oscar Wilde',
-  ),
-  2 => 
-  array (
-    0 => 'Try not to become a man of success. Rather become a man of value.',
-    1 => 'Albert Einstein',
-  ),
-  3 => 
-  array (
-    0 => 'A good head and a good heart are always a formidable combination.',
-    1 => 'Nelson Mandela',
-  ),
-  4 => 
-  array (
-    0 => 'Pray that success will not come any faster than you are able to endure it.',
-    1 => 'Elbert Hubbard',
-  ),
-  5 => 
-  array (
-    0 => 'In great matters men show themselves as they wish to be seen; in small matters, as they are.',
-    1 => 'Gamaliel Bradford',
-  ),
-  6 => 
-  array (
-    0 => 'Greatness is more than potential. It is the execution of that potential. Beyond the raw talent. You need the appropriate training. You need the discipline. You need the inspiration. You need the drive.',
-    1 => 'Eric A. Burns',
-  ),
-  7 => 
-  array (
-    0 => 'Self-belief and hard work will always earn you success.',
-    1 => 'Virat Kohli',
-  ),
-  8 => 
-  array (
-    0 => 'It is a rather pleasant experience to be alone in a bank at night.',
-    1 => 'Willie Sutton',
-  ),
-  9 => 
-  array (
-    0 => 'Honest towards ourselves and towards anyone else who is our friend; brave towards the enemy; magnanimous towards the defeated; polite always: this is how the four cardinal virtues want us to act.',
-    1 => 'Friedrich Nietzsche',
-  ),
-  10 => 
-  array (
-    0 => 'You can tell a lot about a fellow\'s character by his way of eating jellybeans.',
-    1 => 'Ronald Reagan',
-  ),
-  11 => 
-  array (
-    0 => 'There is a destiny that makes us brothers, No one goes his way alone; All that we send into the lives of others, Comes back into our own.',
-    1 => 'Edwin Markham',
-  ),
-  12 => 
-  array (
-    0 => 'What is uttered from the heart alone, Will win the hearts of others to your own.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  13 => 
-  array (
-    0 => 'Ideas are a dime a dozen. People who implement them are priceless.',
-    1 => 'Mary Kay Ash',
-  ),
-  14 => 
-  array (
-    0 => 'A blessed thing it is for any man or woman to have a friend, one human soul whom we can trust utterly, who knows the best and worst of us, and who loves us in spite of all our faults.',
-    1 => 'Charles Kingsley',
-  ),
-  15 => 
-  array (
-    0 => 'Believe that life is worth living and your belief will help create the fact.',
-    1 => 'William James',
-  ),
-  16 => 
-  array (
-    0 => 'I showed the America I knew and observed to others who might not have noticed.',
-    1 => 'Norman Rockwell',
-  ),
-  17 => 
-  array (
-    0 => 'You should never wear your best trousers when you go out to fight for freedom and liberty.',
-    1 => 'Henrick Ibson',
-  ),
-  18 => 
-  array (
-    0 => 'Life is strange. You keep moving and keep moving. Before you know it, you look back and think, \'What was that?\'.',
-    1 => 'Joe Rogan',
-  ),
-  19 => 
-  array (
-    0 => 'A great many people think they are thinking when they are merely rearranging their prejudices.',
-    1 => 'William James',
-  ),
-  20 => 
-  array (
-    0 => 'To achieve great things, two things are needed; a plan, and not quite enough time.',
-    1 => 'Leonard Bernstein',
-  ),
-  21 => 
-  array (
-    0 => 'You must expect great things of yourself before you can do them.',
-    1 => 'Michael Jordan',
-  ),
-  22 => 
-  array (
-    0 => 'Find out who you are and do it on purpose.',
-    1 => 'Dolly Parton',
-  ),
-  23 => 
-  array (
-    0 => 'Honesty and integrity are by far the most important assets of an entrepreneur.',
-    1 => 'Zig Ziglar',
-  ),
-  24 => 
-  array (
-    0 => 'Progress is often equal to the difference between mind and mindset.',
-    1 => 'Narayana Murthy',
-  ),
-);
+return [
+    [
+        'You may delay, but time will not.',
+        'Benjamin Franklin',
+    ],
+    [
+        'I wouldn\'t call myself successful, just obsessively exhausted. The music makes me smile, the movies make me feel humbled, and the comedy saves my life every day.',
+        'Vir Das',
+    ],
+    [
+        'Nothing strengthens authority so much as silence.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'My father was an immigrant who literally walked across Europe to get out of Russia. He fought in World War I. He was wounded in action. My father was a great success even though he never had money. He was a very determined man, a great role model.',
+        'Arlen Specter',
+    ],
+    [
+        'The tax collector must love poor people, he\'s creating so many of them.',
+        'Bill Vaughan',
+    ],
+    [
+        'Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.',
+        'Chuang Tzu',
+    ],
+    [
+        'I get a friend to travel with me... I need somebody to bring me back to who I am. It\'s hard to be alone.',
+        'Leonardo DiCaprio',
+    ],
+    [
+        'I have never been hurt by what I have not said.',
+        'Calvin Coolidge',
+    ],
+    [
+        'I always think that today is the best day that there\'s ever been. The song that I\'m working on is always the best song I\'ve ever written. The woman I\'m looking at is the most incomprehensibly beautiful woman I\'ve ever seen. These dogs that I have now are, by far, the best dogs I\'ve ever had - although, so were the last pair of dogs I had.',
+        'J. D. Souther',
+    ],
+    [
+        'When I lose the sense of motivation and the sense to prove something as a basketball player, it\'s time for me to move away from the game.',
+        'Michael Jordan',
+    ],
+    [
+        'Good things come to people who wait, but better things come to those who go out and get them.',
+        'Unknown',
+    ],
+    [
+        'To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.',
+        'Henri Bergson',
+    ],
+    [
+        'Work is the meat of life, pleasure the dessert.',
+        'B. C. Forbes',
+    ],
+    [
+        'Majorities, as such, afford no guarantees for justice. They are men of the same nature as minorities. They have the same passions for fame, power, and money, as minorities; and are liable and likely to be equally - perhaps more than equally, because more boldly - rapacious, tyrannical and unprincipled, if intrusted with power.',
+        'Lysander Spooner',
+    ],
+    [
+        'The success I have achieved in bodybuilding, motion pictures, and business would not have been possible without the generosity of the American people and the freedom here to pursue your dreams.',
+        'Arnold Schwarzenegger',
+    ],
+    [
+        'Psychographics speaks more to an attitude, a lifestyle.',
+        'Richard Hayne',
+    ],
+    [
+        'Quality is everyone\'s responsibility.',
+        'W. Edwards Deming',
+    ],
+    [
+        'There is only one happiness in life, to love and be loved.',
+        'George Sand',
+    ],
+    [
+        'I do get to have my normal childhood. I just love to get together with my friends and family and have a good time.',
+        'Austin O\'Brien',
+    ],
+    [
+        'The truth is that since childhood I had cultivated an existential independence. It came from perceiving the adults around me as unreliable, and without it I felt I wouldn\'t have survived. I cared deeply for everyone in my family, but in the end I depended on myself.',
+        'Sonia Sotomayor',
+    ],
+    [
+        'I don\'t have to jump up and smile just because TV wants me to.',
+        'Walter Payton',
+    ],
+    [
+        'My parents being Bengali, we always had music in our house. My nani was a trained classical singer, who taught my mum, who, in turn, was my first teacher. Later I would travel almost 70 kms to the nearest town, Kota, to learn music from my guru Mahesh Sharmaji, who was also the principal of the music college there.',
+        'Shreya Ghoshal',
+    ],
+    [
+        'Technology gives us the facilities that lessen the barriers of time and distance - the telegraph and cable, the telephone, radio, and the rest.',
+        'Emily Greene Balch',
+    ],
+    [
+        'My theory on life is that life is beautiful. Life doesn\'t change. You have a day, and a night, and a month, and a year. We people change - we can be miserable or we can be happy. It\'s what you make of your life.',
+        'William Butler Yeats',
+    ],
+    [
+        'Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.',
+        'Dr. David M. Burns',
+    ],
+];

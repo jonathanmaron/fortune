@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'It is only imperfection that complains of what is imperfect. The more perfect we are, the more gentle and quiet we become towards the defects of others.',
-    1 => 'Joseph Addison',
-  ),
-  1 => 
-  array (
-    0 => 'We will have solar energy as soon as the utility companies solve one technical problem',
-    1 => 'how to run a sunbeam through a meter.',
-  ),
-  2 => 
-  array (
-    0 => 'It is the province of knowledge to speak and it is the privilege of wisdom to listen.',
-    1 => 'Audre Lorde',
-  ),
-  3 => 
-  array (
-    0 => 'Never confuse motion with action.',
-    1 => 'Benjamin Franklin',
-  ),
-  4 => 
-  array (
-    0 => 'Work is love made visible. And if you cannot work with joy but only with distaste, it is better that you should leave your work and sit at the gate of the temple, and take alms from them who work with joy.',
-    1 => 'Khalil Gibran',
-  ),
-  5 => 
-  array (
-    0 => 'The greater man the greater courtesy.',
-    1 => 'Alfred Tennyson, 1st Baron Tennyson',
-  ),
-  6 => 
-  array (
-    0 => 'You always pass failure on the way to success.',
-    1 => 'Mickey Rooney',
-  ),
-  7 => 
-  array (
-    0 => 'Coming to Nashville has been so motivating and inspirational. Just watching people live and breathe their music and create something that they can feel from start to finish.',
-    1 => 'Madi Diaz',
-  ),
-  8 => 
-  array (
-    0 => 'Joy is prayer - Joy is strength - Joy is love - Joy is a net of love by which you can catch souls. She gives most who gives with Joy.',
-    1 => 'Mother Teresa',
-  ),
-  9 => 
-  array (
-    0 => 'A leader should have higher grit and tenacity, and be able to endure what the employees can\'t.',
-    1 => 'Jack Ma',
-  ),
-  10 => 
-  array (
-    0 => 'The optimist underestimates how difficult it is to achieve real change, believing that anything is possible and it\'s possible now. Only by confronting head-on the reality that all progress is going to be obstructed by vested interests and corrupted by human venality can we create realistic programmes that actually have a chance of success.',
-    1 => 'Julian Baggini',
-  ),
-  11 => 
-  array (
-    0 => 'When the whole world is silent, even one voice becomes powerful.',
-    1 => 'Malala Yousafzai',
-  ),
-  12 => 
-  array (
-    0 => 'There are two novels that can change a bookish fourteen-year old\'s life:
-"The Lord of the Rings" and "Atlas Shrugged". One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.',
-    1 => 'John Rogers (kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html)',
-  ),
-  13 => 
-  array (
-    0 => 'Courage, my friends; \'tis not too late to build a better world.',
-    1 => 'Tommy Douglas',
-  ),
-  14 => 
-  array (
-    0 => 'If you take the easy way out, nothing will come easy.',
-    1 => 'Steve Mayr',
-  ),
-  15 => 
-  array (
-    0 => 'The most I can do for my friend is simply to be his friend. I have no wealth to bestow on him. If he knows that I am happy in loving him, he will want no other reward. Is not friendship divine in this?',
-    1 => 'Henry David Thoreau',
-  ),
-  16 => 
-  array (
-    0 => 'The chief contribution of Protestantism to human thought is its massive proof that God is a bore.',
-    1 => 'H.L. Mencken, "The Aesthetic Recoil," American Mercury, July, 1931.',
-  ),
-  17 => 
-  array (
-    0 => 'Champions extend their limits and make things happen.',
-    1 => 'Amit Ray',
-  ),
-  18 => 
-  array (
-    0 => 'It does not matter how slowly you go as long as you do not stop.',
-    1 => 'Confucius',
-  ),
-  19 => 
-  array (
-    0 => 'Think Thousand times before taking a decision But -After taking decision never turn back even if you get Thousand difficulties!',
-    1 => 'Adolf Hitler',
-  ),
-  20 => 
-  array (
-    0 => 'The best preparation for tomorrow is doing your best today.',
-    1 => 'H. Jackson Brown, Jr.',
-  ),
-  21 => 
-  array (
-    0 => 'Sacrifices are concerned with the feelings of devotion and longing.',
-    1 => 'Xun Zi',
-  ),
-  22 => 
-  array (
-    0 => 'The more we do, the more we can do.',
-    1 => 'William Hazlitt',
-  ),
-  23 => 
-  array (
-    0 => 'Small deeds done are better than great deeds planned.',
-    1 => 'Peter Marshall',
-  ),
-  24 => 
-  array (
-    0 => 'Don\'t try too hard to fit in; you were born to stand out.',
-    1 => 'Anonymous',
-  ),
-);
+return [
+    [
+        'Peace is not something you wish for. It\'s something you make, something you do, something you are, and something you give away.',
+        'Robert Fulghum',
+    ],
+    [
+        'I\'m an optimist, but an optimist who carries a raincoat.',
+        'Harold Wilson',
+    ],
+    [
+        'When people have success, one of two things happen. They either get really satisfied and want to keep thinking about it and talking about what they did, or the success becomes a little addictive, and it makes them want to keep having more.',
+        'Nick Saban',
+    ],
+    [
+        'We take it for granted that we can see at all times of day and night. But there was a time, not all that long ago, in the age before electricity, when night brought total darkness - and with it, a not-so-small amount of terror. We get a sense of this when we go camping or when there\'s a power outage, and our fear of the darkness is primal.',
+        'Jake Halpern',
+    ],
+    [
+        'Marie Antoinette was funny, I\'m sure she was just misinterpreted. You know the \'Let them eat cake\' line. She seems like she was kind of funny, like a Chelsea Handler or Kathy Griffin type.',
+        'Colin Quinn',
+    ],
+    [
+        'Evening is a time of real experimentation. You never want to look the same way.',
+        'Donna Karan',
+    ],
+    [
+        'The key to success is to focus our conscious mind on things we desire not things we fear.',
+        'Brian Tracy',
+    ],
+    [
+        'You, too, women, cast away all the cowards from your embraces; they will give you only cowards for children, and you who are the daughters of the land of beauty must bear children who are noble and brave.',
+        'Giuseppe Garibaldi',
+    ],
+    [
+        'Pick battles big enough to matter, small enough to win.',
+        'Jonathan Kozol',
+    ],
+    [
+        'I\'m so envious of that genetic wiring that immediately puts a smile on your face. My genetic wiring just puts creases in my eyebrows.',
+        'Chris Pine',
+    ],
+    [
+        'Small deeds done are better than great deeds planned.',
+        'Peter Marshall',
+    ],
+    [
+        'Now, I\'m not saying I\'m fashionable, but there are sociological interests that matter to me, things that are theoretical, political, intellectual and also concerned with vanity and beauty that we all think about but that I try to mix up and translate into fashion.',
+        'Miuccia Prada',
+    ],
+    [
+        'Success can allow you to try for greatness, can give you an opportunity to take a chance on something. I\'m very blessed to have the success that I\'ve had, and that\'s given me so many opportunities to work on being great.',
+        'Orlando Bloom',
+    ],
+    [
+        'The Universe is one great kindergarten for man. Everything that exists has brought with it its own peculiar lesson.',
+        'Orison Swett Marden',
+    ],
+    [
+        'To travel hopefully is better than to arrive.',
+        'James Jeans',
+    ],
+    [
+        'My life is part humor, part roses, part thorns.',
+        'Andrew Shue',
+    ],
+    [
+        'There are movies that I love tonally, that I would love to emulate. Anything from Wes Anderson or the Coen brothers is right in my wheelhouse, as something that I would aspire to. I love that kind of indie, fun, colorful, funny, sweet, heartfelt but dark film.',
+        'Sam Huntington',
+    ],
+    [
+        'People will travel anywhere for good food - it\'s crazy.',
+        'Rene Redzepi',
+    ],
+    [
+        'Sorrows gather around great souls as storms do around mountains; but, like them, they break the storm and purify the air of the plain beneath them.',
+        'Jean Paul',
+    ],
+    [
+        'I think a smile can make your whole body. Models, they look fabulous, but they don\'t smile, and they look so mad.',
+        'Serena Williams',
+    ],
+    [
+        'Autumn wins you best by this its mute appeal to sympathy for its decay.',
+        'Robert Browning',
+    ],
+    [
+        'He who knows no hardships will know no hardihood. He who faces no calamity will need no courage. Mysterious though it is, the characteristics in human nature which we love best grow in a soil with a strong mixture of troubles.',
+        'Harry Emerson Fosdick',
+    ],
+    [
+        'A woman should be home with the children, building that home and making sure there\'s a secure family atmosphere.',
+        'Mel Gibson',
+    ],
+    [
+        'I think it\'s a comedian\'s job to make everything funny. Nothing is off-limits.',
+        'Donald Glover',
+    ],
+    [
+        'No one really wants to admit they are lonely, and it is never really addressed very much between friends and family. But I have felt lonely many times in my life.',
+        'Bill Murray',
+    ],
+];

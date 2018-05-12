@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Nothing makes one feel so strong as a call for help.',
-    1 => 'Pope Paul VI',
-  ),
-  1 => 
-  array (
-    0 => 'What do do with a mistake: recognize it, admit it, learn from it, forget it.',
-    1 => 'Dean Smith',
-  ),
-  2 => 
-  array (
-    0 => 'The greatest good you can do for another is not just to share your riches but to reveal to him his own.',
-    1 => 'Benjamin Disraeli',
-  ),
-  3 => 
-  array (
-    0 => 'Opportunity does not knock, it presents itself when you beat down the door.',
-    1 => 'Kyle Chandler',
-  ),
-  4 => 
-  array (
-    0 => 'I go on working for the same reason a hen goes on laying eggs.',
-    1 => 'H. L. Mencken',
-  ),
-  5 => 
-  array (
-    0 => 'But I like not these great success of yours; for I know how jealous are the gods.',
-    1 => 'Herodotus',
-  ),
-  6 => 
-  array (
-    0 => 'When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.',
-    1 => 'The 14th Dalai Lama',
-  ),
-  7 => 
-  array (
-    0 => 'There is only one thing in the world worse than being talked about, and that is not being talked about.',
-    1 => 'Oscar Wilde',
-  ),
-  8 => 
-  array (
-    0 => 'People will love you. People will hate you. And none of it will have anything to do with you.',
-    1 => 'Abraham Hicks',
-  ),
-  9 => 
-  array (
-    0 => 'Hopefully, when people see \'Senna\', they will understand why this inspirational story needed to be told, why it had to be made as a movie for the big screen, and why it is a film for everyone.',
-    1 => 'Asif Kapadia',
-  ),
-  10 => 
-  array (
-    0 => 'I have always depended on the kindness of strangers.',
-    1 => 'Tennessee Williams',
-  ),
-  11 => 
-  array (
-    0 => 'The most difficult thing is the decision to act, the rest is merely tenacity.',
-    1 => 'Amelia Earhart',
-  ),
-  12 => 
-  array (
-    0 => 'Our greatest glory is not in never falling, but in getting up every time we do.',
-    1 => 'Confucius',
-  ),
-  13 => 
-  array (
-    0 => 'It\'s not what you look at that matters, it\'s what you see.',
-    1 => 'Henry David Thoreau',
-  ),
-  14 => 
-  array (
-    0 => 'I\'m happy to be on a winning team. My individual success, that lasts for a short period of time. The success of being a part of the South, of Atlanta, which is now the hot bed of music, that\'s what\'s gonna last the longest. The fact that I contributed to planting our flag and moving music to my city, that\'s what I\'m most proud of.',
-    1 => 'T.I.',
-  ),
-  15 => 
-  array (
-    0 => 'A passionate belief in your business and personal objectives can make all the difference between success and failure. If you aren\'t proud of what you\'re doing, why should anybody else be?',
-    1 => 'Richard Branson',
-  ),
-  16 => 
-  array (
-    0 => 'A winner makes commitments. A loser makes promises.',
-    1 => 'Unknown',
-  ),
-  17 => 
-  array (
-    0 => 'If someone says \'grunge\' or \'punk,\' you know what the sound is, but if you say \'No Wave,\' it\'s kind of mysterious. That was the most interesting part and should have been the most inspirational thing about it... here\'s this collective sonic insanity, and none of it sounds anything alike.',
-    1 => 'Lydia Lunch',
-  ),
-  18 => 
-  array (
-    0 => 'Diligence is the mother of good luck.',
-    1 => 'Benjamin Franklin',
-  ),
-  19 => 
-  array (
-    0 => 'A fanatic is a person who can\'t change his mind and won\'t change the subject.',
-    1 => 'Winston Churchill',
-  ),
-  20 => 
-  array (
-    0 => 'In the hour of adversity, be not without hope; for crystal rain falls from black clouds.',
-    1 => 'Nizami',
-  ),
-  21 => 
-  array (
-    0 => 'There is more hunger for love and appreciation in this world than for bread.',
-    1 => 'Mother Teresa',
-  ),
-  22 => 
-  array (
-    0 => 'The ladder of success is best climbed by stepping on the rungs of opportunity.',
-    1 => 'Ayn Rand',
-  ),
-  23 => 
-  array (
-    0 => 'Cynic, n.:
-        A blackguard whose faulty vision sees things as they are, not as they ought to be. Hence the custom among the Scythians of plucking out a cynic\'s eyes to improve his vision.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  24 => 
-  array (
-    0 => 'Many people will try to Sell you a Dream, its Your place to let them know you Already have one',
-    1 => 'Kalon Jackson',
-  ),
-);
+return [
+    [
+        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
+        'Herb Caen',
+    ],
+    [
+        'I believe that every person is born with talent.',
+        'Maya Angelou',
+    ],
+    [
+        'Zoos are becoming facsimiles - or perhaps caricatures - of how animals once were in their natural habitat. If the right policies toward nature were pursued, we would need no zoos at all.',
+        'Michael J. Fox',
+    ],
+    [
+        'I\'ve spent enough time in the business community to know there are certain regulators who are very constructive in their approach - those who enforce the laws and who actually want to help you comply - and there are others who have a prosecutorial attitude.',
+        'Chris Gabrieli',
+    ],
+    [
+        'Neither the Christian attitude of love for all mankind nor humane hopes for an organized society must cause us to forget that the \'human stratum\' may not be homogeneous.',
+        'Pierre Teilhard de Chardin',
+    ],
+    [
+        'I want to go ahead of Father Time with a scythe of my own.',
+        'H. G. Wells',
+    ],
+    [
+        'I read all the time that people think I\'m arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, \'That image doesn\'t fit you.\'',
+        'Zlatan Ibrahimovic',
+    ],
+    [
+        'We never respect those who amuse us, however we may smile at their comic powers.',
+        'Marguerite Gardiner',
+    ],
+    [
+        'I\'m a very competitive person, but competitive with myself. I want to be the best that I can be, and if that means that I\'m eventually better than everyone else, then so be it. But I don\'t go around comparing and contrasting myself with other actors if I can help it. It\'s also, I think, the key to my success.',
+        'Wentworth Miller',
+    ],
+    [
+        'Let your hook always be cast; in the pool where you least expect it, there will be a fish.',
+        'Ovid',
+    ],
+    [
+        'You have to have a little humility if you\'re Danish because you\'re never going to be able to travel outside the country unless you can speak another language.',
+        'Sidse Babett Knudsen',
+    ],
+    [
+        'Boys do not evaluate a book. They divide books into categories. There are sexy books, war books, westerns, travel books, science fiction. A boy will accept anything from a section he knows rather than risk another sort. He has to have the label on the bottle to know it is the mixture as before.',
+        'William Golding',
+    ],
+    [
+        'Whatever is funny is subversive, every joke is ultimately a custard pie... a dirty joke is a sort of mental rebellion.',
+        'George Orwell',
+    ],
+    [
+        'I actually think some of my best moments in life have been while I was with people from Instagram - whether it\'s super late nights getting a release out or being able to travel to places I\'d never visited and meeting some of the most interesting people I\'ve ever met.',
+        'Kevin Systrom',
+    ],
+    [
+        'Who sows virtue reaps honour.',
+        'Leonardo da Vinci',
+    ],
+    [
+        'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
+        'Anatole France',
+    ],
+    [
+        'Loneliness is such an omnipotent and painful threat to many persons that they have little conception of the positive values of solitude and even, at times, are frightened at the prospect of being alone.',
+        'Rollo May',
+    ],
+    [
+        'In politics you learn to always smile.',
+        'Eliot Spitzer',
+    ],
+    [
+        'One of my favorite luxuries in life is travel. Jet lag and lost baggage aside, it\'s an incredible way to learn about other cultures, meet new people, broaden your horizons... and do some amazing shopping!',
+        'Amanda Hearst',
+    ],
+    [
+        'What makes photography a strange invention is that its primary raw materials are light and time.',
+        'John Berger',
+    ],
+    [
+        'Being in love is the best feeling on the planet. I really believe that love makes the world go round.',
+        'Sonam Kapoor',
+    ],
+    [
+        'Give thanks for a little and you will find a lot.',
+        'Hausa',
+    ],
+    [
+        'For the naysayers that claimed \'American Family\' revealed us to be vacant, unloving, uncaring morons of the materialistic \'70s, this image will be proven wrong when Mom and Dad remarry... Make no mistake. This is not to emphasize the sadness of my demise but rather emphasize the love of my family and friends.',
+        'Lance Loud',
+    ],
+    [
+        'Human judges can show mercy. But against the laws of nature, there is no appeal.',
+        'Arthur C. Clarke',
+    ],
+    [
+        'Where all think alike, no one thinks very much.',
+        'Walter Lippmann',
+    ],
+];

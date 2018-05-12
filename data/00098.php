@@ -1,132 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'We must develop and maintain the capacity to forgive. He who is devoid of the power to forgive is devoid of the power to love. There is some good in the worst of us and some evil in the best of us.',
-    1 => 'Martin Luther King, Jr.',
-  ),
-  1 => 
-  array (
-    0 => 'A champion is someone who gets up when he can\'t.',
-    1 => 'Jack Dempsey',
-  ),
-  2 => 
-  array (
-    0 => 'The more you love, the more you suffer.',
-    1 => 'Vincent van Gogh',
-  ),
-  3 => 
-  array (
-    0 => 'There is little success where there is little laughter.',
-    1 => 'Andrew Carnegie',
-  ),
-  4 => 
-  array (
-    0 => 'Lowery\'s Law:
-        If it jams',
-    1 => 'force it. If it breaks, it needed replacing anyway.',
-  ),
-  5 => 
-  array (
-    0 => 'You must expect great things of yourself before you can do them',
-    1 => 'Michael Jordan',
-  ),
-  6 => 
-  array (
-    0 => 'Go on, prove me wrong. Destroy the fabric of the universe. See if I care.',
-    1 => 'Terry Prachett',
-  ),
-  7 => 
-  array (
-    0 => 'Hippogriff, n.:
-        An animal (now extinct) which was half horse and half griffin. The griffin was itself a compound creature, half lion and half eagle. The hippogriff was actually, therefore, only one quarter eagle, which is two dollars and fifty cents in gold. The study of zoology is full of surprises.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  8 => 
-  array (
-    0 => 'An honest man\'s word is as good as his bond.',
-    1 => 'Miguel de Cervantes',
-  ),
-  9 => 
-  array (
-    0 => 'Man is a rationalizing animal, not a rational animal.',
-    1 => 'R. A. Heinlein',
-  ),
-  10 => 
-  array (
-    0 => 'One Page Principle: A specification that will not fit on one page of 8.5x11- inch paper cannot be understood.',
-    1 => 'Mark Ardis',
-  ),
-  11 => 
-  array (
-    0 => 'The soul gives unity to what it looks at with love.',
-    1 => 'Thomas Carlyle',
-  ),
-  12 => 
-  array (
-    0 => 'Ten years of rejection slips is nature\'s way of telling you to stop writing.',
-    1 => 'R. Geis',
-  ),
-  13 => 
-  array (
-    0 => 'Bureaucracy is a giant mechanism operated by pygmies.',
-    1 => 'Balzac',
-  ),
-  14 => 
-  array (
-    0 => 'Gratitude is the most exquisite form of courtesy.',
-    1 => 'Jacques Maritain',
-  ),
-  15 => 
-  array (
-    0 => 'Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.',
-    1 => 'Benjamin Franklin',
-  ),
-  16 => 
-  array (
-    0 => 'No matter what anybody tells you, words and ideas can change the world.',
-    1 => 'John Keating',
-  ),
-  17 => 
-  array (
-    0 => 'Happiness is an attitude. We either make ourselves miserable, or happy and strong. The amount of work is the same.',
-    1 => 'Francesca Reigler',
-  ),
-  18 => 
-  array (
-    0 => 'Holy water is often contaminated with bacteria and, as a result, I hypothesize that Pasteur went to Hell, since, if he\'d gone to heaven, all the water would be clean."',
-    1 => 'Dr. Mark Crislip',
-  ),
-  19 => 
-  array (
-    0 => 'Salad is what food eats.',
-    1 => 'Bill Cheswick',
-  ),
-  20 => 
-  array (
-    0 => 'We rise by lifting others.',
-    1 => 'Robert G. Ingersoll',
-  ),
-  21 => 
-  array (
-    0 => 'Your belief determines your action and your action determines your results, but first you have to believe.',
-    1 => 'Mark Victor Hansen',
-  ),
-  22 => 
-  array (
-    0 => 'We are all part of the same compost heap.
-(talking about consumerism)',
-    1 => 'Chuck Palahniuk - Fight Club',
-  ),
-  23 => 
-  array (
-    0 => 'There is more learning in the question itself than the answer.',
-    1 => 'Andrew Weremy',
-  ),
-  24 => 
-  array (
-    0 => 'About the time we think we can make ends meet, somebody moves the ends.',
-    1 => 'Herbert Hoover',
-  ),
-);
+return [
+    [
+        'Nothing will be beyond our reach when we make the flames of creating positive deeds flare up across the country with the virtues of the young vanguard as the initial spark and bring into full play the mounting vigour of the millions of young people.',
+        'Kim Jong-un',
+    ],
+    [
+        'Japan is the most intoxicating place for me. In Kyoto, there\'s an inn called the Tawaraya which is quite extraordinary. The Japanese culture fascinates me: the food, the dress, the manners and the traditions. It\'s the travel experience that has moved me the most.',
+        'Roman Coppola',
+    ],
+    [
+        'I\'ve been dealing with the press for 45 years. You need a very long spoon to sup with them. While you are always grateful, they are like badly trained dogs. They smile and wag and bite your arm off.',
+        'Joanna Lumley',
+    ],
+    [
+        'If you are good at studies, and you want to play cricket, you may work harder than any other person, but you may not achieve it. So it\'s something you have to balance in life and be practical where you are good and then channelise your efforts in the right direction to be successful in life.',
+        'Mahendra Singh Dhoni',
+    ],
+    [
+        'My dad would always say, \'Girl, you\'ve been given gifts. Use them.\' And what he meant by that was, \'Don\'t just be successful. Don\'t just use your talents for your own success. But make a difference with them. Do something significant.\' And when I put those two things together, it just causes me to not accept the status quo.',
+        'Beth Brooke',
+    ],
+    [
+        'Just do the best you can. No one can do more than that.',
+        'John Wooden',
+    ],
+    [
+        'Just got back from a pleasure trip: I took my mother-in-law to the airport.',
+        'Henny Youngman',
+    ],
+    [
+        'The world is a book, and those who do not travel read only a page.',
+        'Augustinus Sanctus',
+    ],
+    [
+        'I cook with wine, sometimes I even add it to the food.',
+        'W. C. Fields',
+    ],
+    [
+        'The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.',
+        'Cecil B. DeMille',
+    ],
+    [
+        'A little less complaint and whining, and a little more dogged work and manly striving, would do us more credit than a thousand civil rights bills.',
+        'W. E. B. Du Bois',
+    ],
+    [
+        'In my forties, my optimism was boundless. I had really good health and tremendous success which allowed me to do anything I wanted.',
+        'Patricia Cornwell',
+    ],
+    [
+        'Courage is knowing what not to fear.',
+        'Plato',
+    ],
+    [
+        'Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.',
+        'Harriet Tubman',
+    ],
+    [
+        'I\'m a strong person, I\'m a strong family man, I\'m a strong husband and a strong father.',
+        'David Beckham',
+    ],
+    [
+        'Opportunities to find deeper powers within ourselves come when life seems most challenging.',
+        'Lao Tzu',
+    ],
+    [
+        'My guiding principles in life are to be honest, genuine, thoughtful and caring.',
+        'Tom Brady',
+    ],
+    [
+        'It takes a long time for a man to look like his portrait.',
+        'James Whistler',
+    ],
+    [
+        'The manic pursuit of success cost me everything I could love: my wife, my three children, some friends I would have liked to grow old with.',
+        'Sammy Davis, Jr.',
+    ],
+    [
+        'I\'m enjoying my years, I\'m enjoying my life, I\'m enjoying my family. I\'m just happy - a happy person.',
+        'Sharon Stone',
+    ],
+    [
+        'Friends are the best to turn to when you\'re having a rough day.',
+        'Justin Bieber',
+    ],
+    [
+        'I decided to fly through the air and live in the sunlight and enjoy life as much as I could.',
+        'John Burroughs',
+    ],
+    [
+        'As winter approaches - bringing cold weather and family drama - we crave page-turners, books made for long nights and tryptophan-induced sloth.',
+        'Sarah MacLean',
+    ],
+    [
+        'I wanted to do my part to help preserve that golden age of travel... I step aboard The Patron Tequila Express railcar, and I go back in time to the days when a long journey was something fun and very special.',
+        'John Paul DeJoria',
+    ],
+    [
+        'My art is an attempt to reach beyond the surface appearance. I want to see growth in wood, time in stone, nature in a city, and I do not mean its parks but a deeper understanding that a city is nature too-the ground upon which it is built, the stone with which it is made.',
+        'Andy Goldsworthy',
+    ],
+];

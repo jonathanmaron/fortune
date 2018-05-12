@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Be Brave. Take Risks. Nothing can substitute experience.',
-    1 => 'Paulo Coelho',
-  ),
-  1 => 
-  array (
-    0 => 'Ordinary people: I fuckin\' hate \'em.',
-    1 => 'Harry Dean Stanton in "Repo Man"',
-  ),
-  2 => 
-  array (
-    0 => 'It does not matter how slowly you go, so long as you do not stop.',
-    1 => 'Confucius',
-  ),
-  3 => 
-  array (
-    0 => 'This is a broken world, and we live with broken hearts and broken lives, but still that is no alibi for anything. On the contrary, you have to stand up and say, "Hallelujah," under those circumstances.',
-    1 => 'Leonard Cohen',
-  ),
-  4 => 
-  array (
-    0 => 'Long-range goals keep you from being frustrated by short-term failures.',
-    1 => 'James Cash (J.C.) Penney',
-  ),
-  5 => 
-  array (
-    0 => 'A person who doubts himself is like a man who would enlist in the ranks of his enemies and bear arms against himself. He makes his failure certain by himself being the first person to be convinced of it.',
-    1 => 'Alexandre Dumas',
-  ),
-  6 => 
-  array (
-    0 => 'When a family is free of abuse and oppression, it can be the place where we share our deepest secrets and stand the most exposed, a place where we learn to feel distinct without being \'better,\' and sacrifice for others without losing ourselves.',
-    1 => 'Letty Cottin Pogrebin',
-  ),
-  7 => 
-  array (
-    0 => 'True merit, like a river, the deeper it is, the less noise it makes.',
-    1 => 'Edward Frederick Lindley Wood',
-  ),
-  8 => 
-  array (
-    0 => 'Perhaps the most delightful friendships are those in which there is much agreement, much disputation, and yet more personal liking.',
-    1 => 'George Eliot [Mary Ann Evans]',
-  ),
-  9 => 
-  array (
-    0 => 'Microsoft has had two goals in the last 10 years. One was to copy the Mac, and the other was to copy Lotus\' success in the spreadsheet - basically, the applications business. And over the course of the last 10 years, Microsoft accomplished both of those goals. And now they are completely lost.',
-    1 => 'Steve Jobs',
-  ),
-  10 => 
-  array (
-    0 => 'Either do not attempt at all, or go through with it.',
-    1 => 'Ovid',
-  ),
-  11 => 
-  array (
-    0 => 'Integrity is what we say, what we do, and what we say we do.',
-    1 => 'Don Galer',
-  ),
-  12 => 
-  array (
-    0 => 'You can teach a student a lesson for a day; but if you can teach him to learn by creating curiosity, he will continue the learning process as long as he lives.',
-    1 => 'Clay P. Bedford',
-  ),
-  13 => 
-  array (
-    0 => 'Success demands singleness of purpose.',
-    1 => 'Vince Lombardi',
-  ),
-  14 => 
-  array (
-    0 => 'If you want to eat hippopotamus, you\'ve got to pay the freight.',
-    1 => 'some IBM guy',
-  ),
-  15 => 
-  array (
-    0 => 'It\'s not Camelot, but it\'s not Cleveland, either.',
-    1 => 'Kevin White, mayor of Boston',
-  ),
-  16 => 
-  array (
-    0 => 'Don\'t think, just do.',
-    1 => 'Horace',
-  ),
-  17 => 
-  array (
-    0 => 'Divorce is never a pleasant experience. You look upon it as a failure. But I learned to be a different person once we broke up. Sometimes you learn more from failure than you do from success.',
-    1 => 'Michael Crawford',
-  ),
-  18 => 
-  array (
-    0 => 'Life affords no higher pleasure than that of surmounting difficulties, passing from one step of success to another, forming new wishes and seeing them gratified.',
-    1 => 'Samuel Johnson',
-  ),
-  19 => 
-  array (
-    0 => 'Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.',
-    1 => 'Orison Swett Marden',
-  ),
-  20 => 
-  array (
-    0 => 'When we are no longer able to change a situation, we are challenged to change ourselves.',
-    1 => 'Viktor Frankl',
-  ),
-  21 => 
-  array (
-    0 => 'Honesty is the first chapter in the book of wisdom.',
-    1 => 'Thomas Jefferson',
-  ),
-  22 => 
-  array (
-    0 => 'What you love is a sign from your higher self of what you are to do.',
-    1 => 'Sanaya Roman',
-  ),
-  23 => 
-  array (
-    0 => 'If you aren\'t going all the way, why go at all?',
-    1 => 'Joe Namath',
-  ),
-  24 => 
-  array (
-    0 => 'Never, never, never give up.',
-    1 => 'Winston Churchill',
-  ),
-);
+return [
+    [
+        'I believe that when you put a smile out there, you get a smile back.',
+        'Heidi Klum',
+    ],
+    [
+        'Maybe that is why kids like Dumbledore: because he is funny rather than a miserable old sod with a long white beard.',
+        'Michael Gambon',
+    ],
+    [
+        'Most people are about as happy as they make up their minds to be',
+        'Abraham Lincoln',
+    ],
+    [
+        'My son gave me the permission to accept my success.',
+        'Gary Burghoff',
+    ],
+    [
+        'If someone in your life talked to you the way you talk to yourself, you would have left them long ago.',
+        'Carla Gordon',
+    ],
+    [
+        'I think the kids in school that laughed at the clothes that we wore and the house that we lived in, and then my mother had to cut hair... I think that was a good motivator. Every time they laughed at me, they just built a fire, and there was only one way to put it out - to try and show \'em I was as good as they were.',
+        'Jimmy Dean',
+    ],
+    [
+        'I worked at The Old Globe Theater under the great baton of Craig Noel. One of the great theater heroes that we have. He was so great and so inspirational. I think I did \'Antony and Cleopatra\' and \'The Taming of the Shrew\'. I lived in Ocean Beach, and my rent was $140 a month.',
+        'Jeffrey Tambor',
+    ],
+    [
+        'Sometimes in the most tragic situation, something just profoundly funny happens.',
+        'David Hyde Pierce',
+    ],
+    [
+        'If you have a secret, people will sit a little bit closer.',
+        'Rob Corddry',
+    ],
+    [
+        'I grew up in a small, strictly-Catholic fishing village on the coast of Wales. The people there have a different attitude to life than those in Hollywood - people stick together more.',
+        'Catherine Zeta-Jones',
+    ],
+    [
+        'We all have our time machines. Some take us back, they\'re called memories. Some take us forward, they\'re called dreams.',
+        'Jeremy Irons',
+    ],
+    [
+        'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
+        'Gabrielle Aplin',
+    ],
+    [
+        'I hear and I forget. I see and I remember. I do and I understand.',
+        'Confucius',
+    ],
+    [
+        'Hope sees the invisible, feels the intangible, and achieves the impossible.',
+        'Charles Caleb Colton',
+    ],
+    [
+        'I don\'t have time for hobbies. At the end of the day, I treat my job as a hobby. It\'s something I love doing.',
+        'David Beckham',
+    ],
+    [
+        'History is a cyclic poem written by time upon the memories of man.',
+        'Percy Bysshe Shelley',
+    ],
+    [
+        'Life is made up of sobs, sniffles, and smiles, with sniffles predominating.',
+        'Diane von Furstenberg',
+    ],
+    [
+        'You have to do your own growing no matter how tall your grandfather was.',
+        'Abraham Lincoln',
+    ],
+    [
+        'How often I found where I should be going only by setting out for somewhere else.',
+        'R. Buckminster Fuller',
+    ],
+    [
+        'I think swagger\'s a confidence. It\'s a confidence of you knowing that you work hard for your success. A lot of times, you can\'t develop swagger if you haven\'t worked hard to succeed.',
+        'Amar\'e Stoudemire',
+    ],
+    [
+        'Experience is simply the name we give our mistakes.',
+        'Oscar Wilde',
+    ],
+    [
+        'I always challenge myself. I get out in deep water and I always try to get back. But I get hung up. The audience never knows, but that\'s when I smile the most, when I show the most ivory.',
+        'Earl Hines',
+    ],
+    [
+        'The way it works in our family is, it\'s the family business. Much like in the Mafia. Every child is given the opportunity to act at a young age and to learn what it\'s like to be in the business.',
+        'Jordan Bridges',
+    ],
+    [
+        'If Botticelli were alive today he\'d be working for Vogue.',
+        'Peter Ustinov',
+    ],
+    [
+        'You\'d like more people to recognise what you do is special. But I take the attitude that the best thing I can do for my sport is to be the best at it. The best way people will come to recognise that track and field is a great sport is to see athletes excelling at it.',
+        'Maurice Greene',
+    ],
+];

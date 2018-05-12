@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'A monad is just a monoid in the category of endofunctors, what\'s the problem?',
-    1 => 'Saunders Mac Lane, filtered through James Iry',
-  ),
-  1 => 
-  array (
-    0 => 'I can and I will. Watch me.',
-    1 => 'Anonymous',
-  ),
-  2 => 
-  array (
-    0 => 'Any fact facing us is not as important as our attitude toward it, for that determines our success or failure. The way you think about a fact may defeat you before you ever do anything about it. You are overcome by the fact because you think you are.',
-    1 => 'Norman Vincent Peale',
-  ),
-  3 => 
-  array (
-    0 => 'If we are to achieve a richer culture, rich in contrasting values, we must recognize the whole gamut of human potentialities, and so weave a less arbitrary social fabric, one in which each diverse human gift will find a fitting place.',
-    1 => 'Margaret Mead',
-  ),
-  4 => 
-  array (
-    0 => 'A critical factor in its success was that the X developers were willing to give the sources away for free in accordance with the hacker ethic, and able to distribute them over the Internet.',
-    1 => 'Eric S. Raymond',
-  ),
-  5 => 
-  array (
-    0 => 'Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon.',
-    1 => 'Susan Ertz',
-  ),
-  6 => 
-  array (
-    0 => 'To make the right choices in life, you have to get in touch with your soul. To do this, you need to experience solitude, which most people are afraid of, because in the silence you hear the truth and know the solutions.',
-    1 => 'Deepak K. Chopra',
-  ),
-  7 => 
-  array (
-    0 => 'The path to our destination is not always a straight one. We go down the wrong road, we get lost, we turn back. Maybe it doesn\'t matter which road we embark on. Maybe what matters is that we embark.',
-    1 => 'Barbara Hall',
-  ),
-  8 => 
-  array (
-    0 => 'Suppose two-thirds of the members of the national House of Representatives were dumped into the Washington garbage incinerator tomorrow, what would we lose to offset our gain of their salaries and the salaries of their parasites?',
-    1 => 'H. L. Mencken, "Prejudices, Fourth Series" (1924)',
-  ),
-  9 => 
-  array (
-    0 => 'Paranoids are people, too; they have their own problems. It\'s easy to criticize, but if everybody hated you, you\'d be paranoid too.',
-    1 => 'D. J. Hicks',
-  ),
-  10 => 
-  array (
-    0 => 'Through perseverance many people win success out of what seemed destined to be certain failure.',
-    1 => 'Benjamin Disraeli',
-  ),
-  11 => 
-  array (
-    0 => 'History will be kind to me for I intend to write it.',
-    1 => 'Sir Winston Churchill',
-  ),
-  12 => 
-  array (
-    0 => 'I attribute my success to my mental approach to the game. I have always been a serious student of umpiring. I enjoy studying rules, situations, and positioning.',
-    1 => 'Jim Evans',
-  ),
-  13 => 
-  array (
-    0 => 'There is no easy way from the earth to the stars',
-    1 => 'Seneca',
-  ),
-  14 => 
-  array (
-    0 => 'Some people like my advice so much that they frame it upon the wall instead of using it',
-    1 => 'Gordon R. Dickson',
-  ),
-  15 => 
-  array (
-    0 => 'Sherry [Thomas Sheridan] is dull, naturally dull; but it must have taken him a great deal of pains to become what we now see him. Such an excess of stupidity, sir, is not in Nature.',
-    1 => 'Samuel Johnson',
-  ),
-  16 => 
-  array (
-    0 => 'Our purpose in Vietnam is to prevent the success of aggression. It is not conquest, it is not empire, it is not foreign bases, it is not domination. It is, simply put, just to prevent the forceful conquest of South Vietnam by North Vietnam.',
-    1 => 'Lyndon B. Johnson',
-  ),
-  17 => 
-  array (
-    0 => 'An ant on the move does more than a dozing ox.',
-    1 => 'Lao Tzu',
-  ),
-  18 => 
-  array (
-    0 => 'I think that success is having fun.',
-    1 => 'Bruno Mars',
-  ),
-  19 => 
-  array (
-    0 => 'Blessed are those who can give without remembering and take without forgetting.',
-    1 => 'Elizabeth Bibesco',
-  ),
-  20 => 
-  array (
-    0 => 'If you want to achieve things in life, you\'ve just got to do them, and if you\'re talented and smart, you\'ll succeed.',
-    1 => 'Juliana Hatfield',
-  ),
-  21 => 
-  array (
-    0 => 'Few things are more important to each individual\'s future success or to our nation\'s prosperity than education.',
-    1 => 'Mark Kennedy',
-  ),
-  22 => 
-  array (
-    0 => 'I\'d rather attempt to do something great and fail, than to attempt nothing and succeed.',
-    1 => 'Robert H. Schuller',
-  ),
-  23 => 
-  array (
-    0 => '... because all things have contributed to your advancement, you should include all things in your gratitude.',
-    1 => 'Wallace D. Wattles',
-  ),
-  24 => 
-  array (
-    0 => 'Life\'s greatest gift is natural talent.',
-    1 => 'P. K. Thomajan',
-  ),
-);
+return [
+    [
+        'I definitely at times notice a difference in service when I go out. You know, I can walk in to grab a cup of coffee or walk in to have lunch or dinner, and people definitely seem on their best behavior, which is funny, or I start to see people clean up around me, which I always find really, really amusing.',
+        'Tabatha Coffey',
+    ],
+    [
+        'A man\'s friendships are one of the best measures of his worth.',
+        'Charles Darwin',
+    ],
+    [
+        'Nothing makes me so happy as to observe nature and to paint what I see.',
+        'Henri Rousseau',
+    ],
+    [
+        'It is not ignorance but knowledge which is the mother of wonder.',
+        'Joseph Wood Krutch',
+    ],
+    [
+        'You don\'t have to travel, but I find extended travel to be a helpful tool for reexamining yourself and the constraints you\'ve artificially placed on your life. It\'s easy to believe everything has to be done one way if you\'re always in one place around the same people.',
+        'Timothy Ferriss',
+    ],
+    [
+        'Cognitive therapy is based on the idea that when you change the way you think, you can change the way you feel and behave. In other words, if we can learn to think about other people in a more positive and realistic way, it will be far easier to resolve conflicts and develop rewarding personal and professional relationships.',
+        'David D. Burns',
+    ],
+    [
+        'Over time, naturally, you lose your innocence from gaining knowledge. You can\'t be innocent forever, but there\'s something in innocence you need to regain to be creative.',
+        'Albert Hammond, Jr.',
+    ],
+    [
+        'I have inspiration and feelings of being alive most every day I live.',
+        'Richard L. Evans',
+    ],
+    [
+        'A critical factor in its success was that the X developers were willing to give the sources away for free in accordance with the hacker ethic, and able to distribute them over the Internet.',
+        'Eric S. Raymond',
+    ],
+    [
+        'If you wish to travel far and fast, travel light. Take off all your envies, jealousies, unforgiveness, selfishness and fears.',
+        'Cesare Pavese',
+    ],
+    [
+        'Failure is only postponed success as long as courage \'coaches\' ambition. The habit of persistence is the habit of victory.',
+        'Herbert Kaufman',
+    ],
+    [
+        'I tend to be pessimistic about everything: If things seem to be going good, I\'m worried that it\'s going to end; if things are bad, then I\'m worried that it\'s going to be permanent. It\'s not a very comfortable attitude to have all the time.',
+        'Jesse Eisenberg',
+    ],
+    [
+        'You can\'t climb the ladder of success with your hands in your pockets.',
+        'Arnold Schwarzenegger',
+    ],
+    [
+        'Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can\'t ride you unless your back is bent.',
+        'Martin Luther King, Jr.',
+    ],
+    [
+        'The only time I get sick of making people laugh is when I\'m in a non-writing-joke mode, and I just can\'t seem to come up with anything new that\'s funny. That\'s a tough place to be as a comedian.',
+        'Bill Burr',
+    ],
+    [
+        'The events of my life are too unimportant, and have too little interest for any person not of my immediate family, to render them worth communicating or preserving.',
+        'John Marshall',
+    ],
+    [
+        'Therefore, if one were to consider that there was virtually no possibility of success through the US-Japan negotiations, the military and economic pressures would only force Japan into further crisis if time were allowed to pass in vain.',
+        'Hideki Tojo',
+    ],
+    [
+        'Our greatest glory is not in never failing, but in rising up every time we fail.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'And when is there time to remember, to sift, to weigh, to estimate, to total?',
+        'Tillie Olsen',
+    ],
+    [
+        'I love to see the smiles on people\'s faces when you cook for them. I love to go to different restaurants. I want to cook because I know this acting isn\'t going to last forever, and I want something to fall back on. It\'s another way to make people smile.',
+        'Raven-Symone',
+    ],
+    [
+        'Nature teaches more than she preaches. There are no sermons in stones. It is easier to get a spark out of a stone than a moral.',
+        'John Burroughs',
+    ],
+    [
+        'To feel much for others and little for ourselves; to restrain our selfishness and exercise our benevolent affections, constitute the perfection of human nature.',
+        'Adam Smith',
+    ],
+    [
+        'Friends are thieves of time.',
+        'Francis Bacon',
+    ],
+    [
+        'My greatest beauty secret is being happy with myself. I don\'t use special creams or treatments - I\'ll use a little bit of everything. It\'s a mistake to think you are what you put on yourself. I believe that a lot of how you look is to do with how you feel about yourself and your life. Happiness is the greatest beauty secret.',
+        'William James',
+    ],
+    [
+        'An obstacle may be either a stepping stone or a stumbling block.',
+        '',
+    ],
+];

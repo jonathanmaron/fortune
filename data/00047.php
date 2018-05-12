@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'The wise person understands that his own happiness must include the happiness of others.',
-    1 => 'Dennis Weaver',
-  ),
-  1 => 
-  array (
-    0 => 'Words are a pretext. It is the inner bond that draws one person to another, not words.',
-    1 => 'Rumi',
-  ),
-  2 => 
-  array (
-    0 => 'Many are the wonders of the Universe, and none so wonderful as Mankind!',
-    1 => 'Sophocles',
-  ),
-  3 => 
-  array (
-    0 => 'One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don\'t throw it away.',
-    1 => 'Stephen Hawking',
-  ),
-  4 => 
-  array (
-    0 => 'Knowing is not enough; we must apply. Willing is not enough; we must do.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  5 => 
-  array (
-    0 => 'You have reached the pinnacle of success as soon as you become uninterested in money, compliments, or publicity.',
-    1 => 'Thomas Wolfe',
-  ),
-  6 => 
-  array (
-    0 => 'Follow your instincts. That\'s where true wisdom manifests itself.',
-    1 => 'Oprah Winfrey',
-  ),
-  7 => 
-  array (
-    0 => 'We all learn lessons in life. Some stick, some don\'t. I have always learned more from rejection and failure than from acceptance and success.',
-    1 => 'Henry Rollins',
-  ),
-  8 => 
-  array (
-    0 => 'Success is not the result of spontaneous combustion. You must set yourself on fire.',
-    1 => 'Reggie Leach',
-  ),
-  9 => 
-  array (
-    0 => 'When I started counting my blessings, my whole life turned around.',
-    1 => 'Willie Nelson',
-  ),
-  10 => 
-  array (
-    0 => 'What other people think of me is none of my business.',
-    1 => 'Wayne Dyer',
-  ),
-  11 => 
-  array (
-    0 => 'There never is but one opportunity of a kind.',
-    1 => 'Henry David Thoreau',
-  ),
-  12 => 
-  array (
-    0 => 'To these ideals which were instilled in me when I was a youth, I attribute in a large degree the success that was mine on the bicycle tracks of the world.',
-    1 => 'Major Taylor',
-  ),
-  13 => 
-  array (
-    0 => 'As my family story shows, Latinos have been a blessing for USA for many generations. The future of America depends in part on the success of the Latino community, and this opportunity is just one more signifier of that.',
-    1 => 'Julian Castro',
-  ),
-  14 => 
-  array (
-    0 => 'Successful people make money. It\'s not that people who make money become successful, but that successful people attract money. They bring success to what they do.',
-    1 => 'Wayne Dyer',
-  ),
-  15 => 
-  array (
-    0 => 'By long-standing tradition, I take this opportunity to savage other designers in the thin disguise of good, clean fun.',
-    1 => 'P. J. Plauger, from his April Fool\'s column in the April 1988 issue of "Computer Language"',
-  ),
-  16 => 
-  array (
-    0 => 'A ship in port is safe, but that\'s not what ships are built for.',
-    1 => 'Grace Hopper',
-  ),
-  17 => 
-  array (
-    0 => 'Only stupid people are changed by success.',
-    1 => 'Jurgen Klopp',
-  ),
-  18 => 
-  array (
-    0 => 'Miracles are a retelling in small letters of the very same story which is written across the whole world in letters too large for some of us to see.',
-    1 => 'C. S. Lewis',
-  ),
-  19 => 
-  array (
-    0 => 'Never let the fear of striking out keep you from playing the game.',
-    1 => 'Anonymous',
-  ),
-  20 => 
-  array (
-    0 => 'When two people are under the influence of the most violent, most insane, most delusive, and most transient of passions, they are required to swear that they will remain in that excited, abnormal, and exhausting condition continuously until death do them part.',
-    1 => 'George Bernard Shaw',
-  ),
-  21 => 
-  array (
-    0 => 'With every experience, you alone are painting your own canvas, thought by thought, choice by choice.',
-    1 => 'Oprah Winfrey',
-  ),
-  22 => 
-  array (
-    0 => 'If you cannot convince them, confuse them.',
-    1 => 'Harry S Truman',
-  ),
-  23 => 
-  array (
-    0 => 'Never let go of that fiery sadness called desire.',
-    1 => 'Patti Smith',
-  ),
-  24 => 
-  array (
-    0 => 'Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.',
-    1 => 'Thomas Carlyle',
-  ),
-);
+return [
+    [
+        'In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it.',
+        'Jane Smiley',
+    ],
+    [
+        'I looked on my stomach and saw Frieda Rebecca, white as flour with the cream that covers new babies, funny little dark squiggles of hair plastered over her head, with big, dark-blue eyes.',
+        'Sylvia Plath',
+    ],
+    [
+        'I have no regrets, because I\'ve done everything I could to the best of my ability.',
+        'Robert Redford',
+    ],
+    [
+        'Time can be an ally or an enemy. What it becomes depends entirely upon you, your goals, and your determination to use every available minute.',
+        'Zig Ziglar',
+    ],
+    [
+        'It\'s a moment that I\'m after, a fleeting moment, but not a frozen moment.',
+        'Andrew Wyeth',
+    ],
+    [
+        'Life is too short to worry about anything. You had better enjoy it because the next day promises nothing.',
+        'William James',
+    ],
+    [
+        'You are always free to change your mind and choose a different future, or a different past.',
+        'Richard Bach',
+    ],
+    [
+        'In chess, there are some extremely beautiful things in the domain of movement, but not in the visual domain. It\'s the imagining of the movement or of the gesture that makes the beauty in this case.',
+        'Marcel Duchamp',
+    ],
+    [
+        'I love Snoop. I worked with him on \'Old School,\' and he\'s very accessible. He\'s very kind. He\'s always nice to everyone, to the crew. He\'s always got something positive to say. He\'s very childlike and loves to come and play. So, I had fun working with him.',
+        'Vince Vaughn',
+    ],
+    [
+        'I think if everyone would write down the funny stories from their own childhoods, the world would be a better place.',
+        'Jeff Kinney',
+    ],
+    [
+        'The great thing for me about \'The Resurrection of Gavin Stone\' is it\'s a throwback to the old fashioned Hollywood movie that you can watch with your family, has a message, and is funny and entertaining. They didn\'t call them faith-based movies; they just called them good movies.',
+        'D. B. Sweeney',
+    ],
+    [
+        'I grew up in a family where we weren\'t allowed to talk about beauty or to put any emphasis on physical appearance.',
+        'Pam Grier',
+    ],
+    [
+        'I\'ve got a real sense of three-dimensional geometry. I can look at a flat piece of fabric and know that if I put a slit in it and make some fabric travel around a square, then when you lift it up it will drape in a certain way, and I can feel how that will happen.',
+        'Vivienne Westwood',
+    ],
+    [
+        'I can speak Esperanto like a native.',
+        'Spike Milligan',
+    ],
+    [
+        'Doing the best at this moment puts you in the best place for the next moment.',
+        'Oprah Winfrey',
+    ],
+    [
+        'To have success in your professional life is not so hard. To succeed as a man is more difficult.',
+        'Yann Arthus-Bertrand',
+    ],
+    [
+        'You may be deceived if you trust too much, but you will live in torment if you don\'t trust enough.',
+        'Frank Crane',
+    ],
+    [
+        'And Fall, with her yeller harvest moon and the hills growin\' brown and golden under a sinkin\' sun.',
+        'Roy Bean',
+    ],
+    [
+        'Trees love to toss and sway; they make such happy noises.',
+        'Emily Carr',
+    ],
+    [
+        'Instead of this confusion, we need the unifying force of an official language, English, which is the language of success in America.',
+        'Ernest Istook',
+    ],
+    [
+        'A positive self-image has little relationship to our material circumstances.',
+        'Ezra Taft Benson',
+    ],
+    [
+        'We may smile at these matters, but they are melancholy illustrations.',
+        'Joseph Howe',
+    ],
+    [
+        'The team that is going to win is the one that does its homework the best by studying its opponents.',
+        'Imran Khan',
+    ],
+    [
+        'I managed to take a family trip to the Bahamas and it was quite lovely.',
+        'Jackie Collins',
+    ],
+    [
+        'We become what we think about most of the time, and that\'s the strangest secret.',
+        'Earl Nightingale',
+    ],
+];

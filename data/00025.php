@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Great things come to those who don\'t wait.',
-    1 => 'Anonymous',
-  ),
-  1 => 
-  array (
-    0 => 'Humor brings insight and tolerance. Irony brings a deeper and less friendly understanding.',
-    1 => 'Agnes Repplier',
-  ),
-  2 => 
-  array (
-    0 => 'I\'ve done a lot of albums and I kinda know when I\'m onto something that was inspirational for me to record and create, and this was one of those projects where I really enjoyed making the album.',
-    1 => 'Lee Ritenour',
-  ),
-  3 => 
-  array (
-    0 => 'If a wind blows, ride it!',
-    1 => 'Arabic Proverb',
-  ),
-  4 => 
-  array (
-    0 => 'Arise, awake, and stop not until the goal is achieved.',
-    1 => 'Swami Vivekananda',
-  ),
-  5 => 
-  array (
-    0 => 'Let everyone sweep in front of his own door, and the whole world will be clean.',
-    1 => 'Johann Wolfgang von Goethe',
-  ),
-  6 => 
-  array (
-    0 => 'A hungry mob is an angry mob.',
-    1 => 'Bob Marley',
-  ),
-  7 => 
-  array (
-    0 => 'It\'s hard to beat a person who never gives up.',
-    1 => 'Babe Ruth',
-  ),
-  8 => 
-  array (
-    0 => 'The greatest sign of success for a teacher... is to be able to say, \'The children are now working as if I did not exist.\'',
-    1 => 'Maria Montessori',
-  ),
-  9 => 
-  array (
-    0 => 'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
-    1 => 'Robert Louis Stevenson',
-  ),
-  10 => 
-  array (
-    0 => 'We\'re constantly striving for success, fame and comfort when all we really need to be happy is someone or some thing to be enthusiastic about.',
-    1 => 'H. Jackson Brown, Jr.',
-  ),
-  11 => 
-  array (
-    0 => 'Those who make peaceful revolution impossible will make violent revolution inevitable.',
-    1 => 'John F. Kennedy',
-  ),
-  12 => 
-  array (
-    0 => 'Always do your best. What you plant now, you will harvest later.',
-    1 => 'Og Mandino',
-  ),
-  13 => 
-  array (
-    0 => 'Visualize this thing that you want, see it, feel it, believe in it. Make your mental blue print, and begin to build.',
-    1 => 'R Collier',
-  ),
-  14 => 
-  array (
-    0 => 'Don\'t quit. Suffer now and live the rest of your life as a Champion.',
-    1 => 'Muhammad Ali',
-  ),
-  15 => 
-  array (
-    0 => 'No masterpiece was ever created by a lazy artist.',
-    1 => 'Unknown',
-  ),
-  16 => 
-  array (
-    0 => 'Is life worth living? It depends on the liver.',
-    1 => 'Herbert Beerbohm Tree',
-  ),
-  17 => 
-  array (
-    0 => 'If I have seen further than others, it is by standing upon the shoulders of giants.',
-    1 => 'Isaac Newton',
-  ),
-  18 => 
-  array (
-    0 => 'One of the greatest victories you can gain over someone is to beat him at politeness.',
-    1 => 'Josh Billings',
-  ),
-  19 => 
-  array (
-    0 => 'I would rather be able to appreciate things I can not have than to have things I am not able to appreciate.',
-    1 => 'Elbert Hubbard',
-  ),
-  20 => 
-  array (
-    0 => 'A programmer is a person who passes as an exacting expert on the basis of being able to turn out, after innumerable punching, an infinite series of incomprehensive answers calculated with micrometric precisions from vague assumptions based on debatable figures taken from inconclusive documents and carried out on instruments of problematical accuracy by persons of dubious reliability and questionable mentality for the avowed purpose of annoying and confounding a hopelessly defenseless department that was unfortunate enough to ask for the information in the first place.',
-    1 => 'IEEE Grid newsmagazine',
-  ),
-  21 => 
-  array (
-    0 => 'Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.',
-    1 => 'George S. Patton',
-  ),
-  22 => 
-  array (
-    0 => 'Imagine what a harmonious world it could be if every single person, both young and old, shared a little of what he is good at doing.',
-    1 => 'Quincy Jones',
-  ),
-  23 => 
-  array (
-    0 => 'Thoughts lead on to purposes; purposes go forth in action; actions form habits; habits decide character; and character fixes our destiny.',
-    1 => 'Tyron Edwards',
-  ),
-  24 => 
-  array (
-    0 => 'I didn\'t accept it. I received it.',
-    1 => 'Richard Allen, National Security Advisor to President Reagan,
-           explaining the $1000 in cash and two watches he was given by two Japanese journalists after he helped arrange a private interview for them with First Lady Nancy Reagan.',
-  ),
-);
+return [
+    [
+        'I mean I don\'t really think about it. You know, do you know what I often say to myself? I think you\'re very lucky in life if you know what you want to do.',
+        'Andrew Lloyd Webber',
+    ],
+    [
+        'Space travel is the only technology that is more dangerous and more expensive now than it was in its first year. Fifty years after Yuri Gagarin, the space shuttle ended up being more dangerous and more expensive to fly than those first throwaway rockets, even though large portions of it were reusable. It\'s absurd.',
+        'Burt Rutan',
+    ],
+    [
+        'One\'s family is the most important thing in life. I look at it this way: One of these days I\'ll be over in a hospital somewhere with four walls around me. And the only people who\'ll be with me will be my family.',
+        'Robert Byrd',
+    ],
+    [
+        'It takes a lot of energy to be negative. You have to work at it. But smiling is painless. I\'d rather spend my energy smiling.',
+        'Eric Davis',
+    ],
+    [
+        'Life is very short and what we have to do must be done in the now.',
+        'Tim O\'Brien',
+    ],
+    [
+        'What matters is the value we\'ve created in our lives, the people we\'ve made happy and how much we\'ve grown as people.',
+        'Daisaku Ikeda',
+    ],
+    [
+        'In fitness, there are no short cuts. It involves immense discipline and hard work.',
+        'Mahesh Babu',
+    ],
+    [
+        'I know a lot of Eastern Europeans, and because of what they have been through and what they have seen, they have an attitude where they are not easily fooled.',
+        'Francine Prose',
+    ],
+    [
+        'It\'s been a huge blessing, being able to travel and have a great life.',
+        'Seann William Scott',
+    ],
+    [
+        'It\'s human nature that if you get 20 positive comments and one negative one, you\'re going to focus on the negative. We all do that. It can be something that drags you down. It\'s easy to get bogged down with it, but I try to concentrate on the good things.',
+        'Bindi Irwin',
+    ],
+    [
+        'Write it on your heart that every day is the best day in the year.',
+        'Ralph Waldo Emerson',
+    ],
+    [
+        'A woman can be demure, lady-like and the most prim and proper character, and still have a toughness and resiliency as apparent as a superhero-type female character or a warrior or soldier type. It\'s all about the story, the character, and the course of events in that piece of work and how that character is presented.',
+        'Katherine McNamara',
+    ],
+    [
+        'To transcend limitations and form positive new patterns of life based on who you know you can be rather than who you were yesterday, you must give up the modes of thinking, feeling and behaving that only keep you chained to your past.',
+        'Debbie Ford',
+    ],
+    [
+        'A film set becomes its own family anyway, and all family dynamics come out during a shoot. The trick is hiring people who know how to handle that.',
+        'Noah Baumbach',
+    ],
+    [
+        'Reality continues to ruin my life.',
+        'Bill Watterson',
+    ],
+    [
+        'The bottom line is, when people are crystal clear about the most important priorities of the organization and team they work with and prioritized their work around those top priorities, not only are they many times more productive, they discover they have the time they need to have a whole life.',
+        'Stephen Covey',
+    ],
+    [
+        'On the tennis court, one needs a cool temperament, tremendous ball sense, reflexes, speed, hand-eye co-ordination, power, timing and peak physical fitness. Off the court, the player and support team need skills in planning, execution, travel, an ability to raise funds when needed, and several other talents.',
+        'Sania Mirza',
+    ],
+    [
+        'An English man does not travel to see English men.',
+        'Laurence Sterne',
+    ],
+    [
+        'I think the thing about that was I was always willing to work; I was not the fastest or biggest player but I was determined to be the best football player I could be on the football field and I think I was able to accomplish that through hard work.',
+        'Jerry Rice',
+    ],
+    [
+        'I learned a long time ago the wisest thing I can do is be on my own side, be an advocate for myself and others like me.',
+        'Maya Angelou',
+    ],
+    [
+        'Straight men just can\'t imagine the bliss of being in a relationship with someone who finds farting as funny as they do.',
+        'Graham Norton',
+    ],
+    [
+        'The main difference in the effectiveness of teaching comes from the thoughts the teacher has had during the entire time of his or her existence and brings into the classroom. A teacher concerned with developing humans affects the students quite differently from a teacher who never thinks about such things.',
+        'Rudolf Steiner',
+    ],
+    [
+        'I love spending time with my friends and family. The simplest things in life give me the most pleasure: cooking a good meal, enjoying my friends.',
+        'Cindy Morgan',
+    ],
+    [
+        'The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.',
+        'George Shaw',
+    ],
+    [
+        'My success has been something I\'ve worked a long time at and it\'s been a gradual process. I compare it to the idea of someone losing a lot of weight over a period of a few years. You don\'t really notice the weight loss overall but if you compare photos from then and now there\'s a big difference.',
+        'Ray William Johnson',
+    ],
+];

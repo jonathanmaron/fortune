@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.',
-    1 => 'Ben Jonson',
-  ),
-  1 => 
-  array (
-    0 => 'Conservation is a state of hrmony between men and land',
-    1 => 'Aldo Leopold',
-  ),
-  2 => 
-  array (
-    0 => 'Be realistic, demand the impossible!',
-    1 => 'Che Guevara',
-  ),
-  3 => 
-  array (
-    0 => 'Success is what happens when something goes right.',
-    1 => 'Arnold Glasow',
-  ),
-  4 => 
-  array (
-    0 => 'To be successful you must accept all challenges that come your way. You can\'t just accept the ones you like.',
-    1 => 'Mike Gafka',
-  ),
-  5 => 
-  array (
-    0 => 'We look forward to the time when the power to love will replace the love of power. Then will our world know the blessing of peace.',
-    1 => 'William Gladstone',
-  ),
-  6 => 
-  array (
-    0 => 'Please, no matter how we advance technologically, please don\'t abandon the book. There is nothing in our material world more beautiful than the book.',
-    1 => 'Patti Smith',
-  ),
-  7 => 
-  array (
-    0 => 'Rejoicing in ordinary things is not sentimental or trite. It actually takes guts. Each time we drop our complaints and allow everyday good fortune to inspire us, we enter the warrior\'s world.',
-    1 => 'Pema Chodron',
-  ),
-  8 => 
-  array (
-    0 => 'Success is the sweetest revenge.',
-    1 => 'Vanessa Williams',
-  ),
-  9 => 
-  array (
-    0 => 'Till the full stop doesn\'t comes, the sentence doesn\'t completes.',
-    1 => 'M.S. Dhoni',
-  ),
-  10 => 
-  array (
-    0 => 'The future belongs to those who believe in the beauty of their dreams.',
-    1 => 'Eleanor Roosevelt',
-  ),
-  11 => 
-  array (
-    0 => 'I never dreamt of success, I worked for it.',
-    1 => 'Estee Lauder',
-  ),
-  12 => 
-  array (
-    0 => 'The Wright brothers flew right through the smoke screen of impossibility.',
-    1 => 'Charles Kettering',
-  ),
-  13 => 
-  array (
-    0 => 'If you don\'t underestimate me, I won\'t underestimate you.',
-    1 => 'Bob Dylan',
-  ),
-  14 => 
-  array (
-    0 => 'In theory, theory and practice are the same. In practice, they\'re different.',
-    1 => 'Albert Einstein',
-  ),
-  15 => 
-  array (
-    0 => 'Nobody motivates today\'s workers. If it doesn\'t come from within, it doesn\'t come. Fun helps remove the barriers that allow people to motivate themselves.',
-    1 => 'Herman Cain',
-  ),
-  16 => 
-  array (
-    0 => 'Every man is guilty of all the good he didn\'t do.',
-    1 => 'Voltaire',
-  ),
-  17 => 
-  array (
-    0 => 'You can have anything you want if you are willing to give up the belief that you can\'t have it.',
-    1 => 'Robert Anthony',
-  ),
-  18 => 
-  array (
-    0 => 'If you make it plain you like people, it\'s hard for them to resist liking you back.',
-    1 => 'Lois McMaster Bujold',
-  ),
-  19 => 
-  array (
-    0 => 'It\'s never too late to be what you might have been.',
-    1 => 'George Eliot [Mary Ann Evans]',
-  ),
-  20 => 
-  array (
-    0 => 'What we achieve inwardly will change outer reality.',
-    1 => 'Plutarch',
-  ),
-  21 => 
-  array (
-    0 => 'Successful and fortunate crime is called virtue.',
-    1 => 'Seneca',
-  ),
-  22 => 
-  array (
-    0 => 'Each success only buys an admission ticket to a more difficult problem.',
-    1 => 'Henry Kissinger',
-  ),
-  23 => 
-  array (
-    0 => 'Liar, n.:
-        A lawyer with a roving commission.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  24 => 
-  array (
-    0 => 'Remember not only to say the right thing in the right place, but far more difficult still, to leave unsaid the wrong thing at the tempting moment.',
-    1 => 'Benjamin Franklin',
-  ),
-);
+return [
+    [
+        'Whenever I travel to a poor country, I try to help at least one person. Usually, that person helps me just as much - I can find a local poor person to be my guide or my interpreter. That person makes money from me, I make money from him or her, we both learn about each other. It\'s an equal win-win relationship.',
+        'William T. Vollmann',
+    ],
+    [
+        'If I can lead a happy life, touch the lives of others in a positive way, win the respect of those that I care about - and make a few million along the way - then I have been successful.',
+        'Bill Rancic',
+    ],
+    [
+        'This was nostalgia in the literal Greek sense: the pain of not being able to return to one\'s home and family.',
+        'John Thorn',
+    ],
+    [
+        'I like to say it\'s an attitude of not just thinking outside the box, but not even seeing the box.',
+        'Safra A. Catz',
+    ],
+    [
+        'To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.',
+        'Theodore H. White',
+    ],
+    [
+        'One day, I got so disgusted that I sat down and wrote a list called \'Justin\'s list of things to do before he kicks the bucket.\' I wrote it for myself and shortened it to \'Justin\'s Bucket List.\' It was there on the wall, not as a story idea but as a motivational tool for myself, which actually ended up working pretty well.',
+        'Justin Zackham',
+    ],
+    [
+        'Science is like a love affair with nature; an elusive, tantalising mistress. It has all the turbulence, twists and turns of romantic love, but that\'s part of the game.',
+        'Vilayanur S. Ramachandran',
+    ],
+    [
+        'Financial institutions, the corporate world and civil society - all must uphold high standards of probity in their working. Only a genuine partnership between the Government and its people can bring about positive change to create a just society.',
+        'Pratibha Patil',
+    ],
+    [
+        'The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.',
+        'Edward Ericson',
+    ],
+    [
+        'All of nature begins to whisper its secrets to us through its sounds. Sounds that were previously incomprehensible to our soul now become the meaningful language of nature.',
+        'Rudolf Steiner',
+    ],
+    [
+        'There is a role and function for beauty in our time.',
+        'Tadao Ando',
+    ],
+    [
+        'Successful people are not gifted; they just work hard, then succeed on purpose.',
+        'G.K.Nielson',
+    ],
+    [
+        'I used to think that everything was just being funny but now I don\'t know. I mean, how can you tell?',
+        'Andy Warhol',
+    ],
+    [
+        'Giving responsibility is the key to success with boys, especially with the rowdiest and most difficult boys.',
+        'Robert Baden-Powell',
+    ],
+    [
+        'I do not regret one moment of my life.',
+        'Pope Paul VI',
+    ],
+    [
+        'Play like you\'re positive on the victory, even though they\'re leading big now.',
+        'Knute Rockne',
+    ],
+    [
+        'I think a lot of times we don\'t pay enough attention to people with a positive attitude because we assume they are naive or stupid or unschooled.',
+        'Amy Adams',
+    ],
+    [
+        'Nature does not hurry, yet everything is accomplished.',
+        'Lao Tzu',
+    ],
+    [
+        'I write for no other purpose than to add to the beauty that now belongs to me. I write a book for no other reason than to add three or four hundred acres to my magnificent estate.',
+        'Jack London',
+    ],
+    [
+        'Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.',
+        'Colin Powell',
+    ],
+    [
+        'Every time a woman leaves the workforce because she can\'t find or afford childcare, or she can\'t work out a flexible arrangement with her boss, or she has no paid maternity leave, her family\'s income falls down a notch. Simultaneously, national productivity numbers decline.',
+        'Madeleine M. Kunin',
+    ],
+    [
+        'Once you do embark upon the separation or divorce process, it is very important to remember three key things: Be kind, be reasonable, be brief. Remember that this person will no longer be your spouse, but he or she will continue to be your co-parent, family member, and perhaps business partner in certain assets or entities.',
+        'Laura Wasser',
+    ],
+    [
+        'I have often said that the lure of flying is the lure of beauty.',
+        'Amelia Earhart',
+    ],
+    [
+        'I am positive - determined to move forward with my life, bring up my babies, and do the best job I can as a mother, entertainer, and person.',
+        'Jennifer Lopez',
+    ],
+    [
+        'Everyone wants an iPhone, but it would be impossible to design an iPhone in China because it\'s not a product; it\'s an understanding of human nature.',
+        'Ai Weiwei',
+    ],
+];

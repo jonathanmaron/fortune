@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Successful people are not gifted; they just work hard, then succeed on purpose.',
-    1 => 'G.K.Nielson',
-  ),
-  1 => 
-  array (
-    0 => 'Never be bullied into silence. Never allow yourself to be made a victim. Accept no one\'s definition of your life; define yourself.',
-    1 => 'Harvey Fierstein',
-  ),
-  2 => 
-  array (
-    0 => 'Don\'t Let Yesterday Take Up Too Much Of Today.',
-    1 => 'Will Rogers',
-  ),
-  3 => 
-  array (
-    0 => 'We can change our lives. We can do, have, and be exactly what we wish.',
-    1 => 'Tony Robbins',
-  ),
-  4 => 
-  array (
-    0 => 'We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light.',
-    1 => 'Mary Dunbar',
-  ),
-  5 => 
-  array (
-    0 => 'Laugh at yourself, but don\'t ever aim your doubt at yourself. Be bold. When you embark for strange places, don\'t leave any of yourself safely on shore. Have the nerve to go into unexplored territory.',
-    1 => 'Alan Alda',
-  ),
-  6 => 
-  array (
-    0 => 'The greatest pleasure of life is love',
-    1 => 'Euripides',
-  ),
-  7 => 
-  array (
-    0 => 'Don\'t watch the clock, do what it does, keep going.',
-    1 => 'Sam Levenson',
-  ),
-  8 => 
-  array (
-    0 => 'Every program has two purposes',
-    1 => 'one for which it was written and another for which it wasn\'t.',
-  ),
-  9 => 
-  array (
-    0 => 'Aim for the moon. If you miss, you may hit a star.',
-    1 => 'W. Clement Stone',
-  ),
-  10 => 
-  array (
-    0 => 'Had I not come out with an inspirational CD, you perhaps would have never known that I feel like I feel, that all songs, all the music I\'ve ever done is a gift from God.',
-    1 => 'Smokey Robinson',
-  ),
-  11 => 
-  array (
-    0 => 'I have had interactions with developers who are convinced that everything in .Net was created solely by MS for open source usage. But that could be another result of vaccination preservatives.',
-    1 => 'Larry Weber',
-  ),
-  12 => 
-  array (
-    0 => 'That woman speaks eight languages and can\'t say "no" in any of them.',
-    1 => 'Dorothy Parker',
-  ),
-  13 => 
-  array (
-    0 => 'Courage is resistance to fear, mastery of fear--not absence of fear.',
-    1 => 'Mark Twain',
-  ),
-  14 => 
-  array (
-    0 => 'To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful.',
-    1 => 'Edward R. Murrow',
-  ),
-  15 => 
-  array (
-    0 => 'It takes each of us to make a difference for all of us.',
-    1 => 'Jackie Mutcheson',
-  ),
-  16 => 
-  array (
-    0 => 'Remember, if you ever need a helping hand, it\'s at the end of your arm. As you get older, remember you have another hand: The first is to help yourself, the second is to help others.',
-    1 => 'Audrey Hepburn',
-  ),
-  17 => 
-  array (
-    0 => 'Happiness lies in the joy of achievement and the thrill of creative effort.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  18 => 
-  array (
-    0 => 'We were taught to respect everyone, especially those who were older and wiser than we were from whom we could learn.',
-    1 => 'BeNeca Ward',
-  ),
-  19 => 
-  array (
-    0 => 'Don\'t give in to your fears. If you do, you won\'t be able to talk to your heart.',
-    1 => 'Paulo Coelho',
-  ),
-  20 => 
-  array (
-    0 => 'Wake up. Kick ass. Repeat.',
-    1 => 'Anonymous',
-  ),
-  21 => 
-  array (
-    0 => 'I always did something I was a little not ready to do. I think that\'s how you grow. When there\'s that moment of, ‘Wow, I\'m not really sure I can do this,\' and you push through those moments, that\'s when you have a breakthrough.',
-    1 => 'Marissa Mayer',
-  ),
-  22 => 
-  array (
-    0 => 'There are thousands of inspirational stories waiting to be told about young women who yearn for a great education. They are stories of struggle and stories of success, and they will inspire others to take action and work to change lives.',
-    1 => 'Soledad O\'Brien',
-  ),
-  23 => 
-  array (
-    0 => 'Success depends upon previous preparation, and without such preparation there is sure to be failure.',
-    1 => 'Confucius',
-  ),
-  24 => 
-  array (
-    0 => 'The first and great commandment is: Do not let them scare you.',
-    1 => 'Elmer Davis',
-  ),
-);
+return [
+    [
+        'I don\'t regret what I\'ve been through. I\'ve had ups and downs, super highs and some really low lows. I\'ve been so blessed that I could never say, \'I wish this didn\'t happen.\' It\'s part of who I am. There\'s nothing in my life that\'s so ugh.',
+        'Lil\' Kim',
+    ],
+    [
+        'If a country is to be corruption free and become a nation of beautiful minds, I strongly feel there are three key societal members who can make a difference. They are the father, the mother and the teacher.',
+        'A. P. J. Abdul Kalam',
+    ],
+    [
+        'Whenever I\'ve had success, I never learn from it. Success usually breeds a degree of hubris. When you fail, that\'s when you learn.',
+        'Moby',
+    ],
+    [
+        'No one realizes how beautiful it is to travel until he comes home and rests his head on his old, familiar pillow.',
+        'Lin Yutang',
+    ],
+    [
+        'People talk about bullying, but you can be your own bully in some ways. You can be the person who is standing in the way of your success, and that was the case for me.',
+        'Katy Perry',
+    ],
+    [
+        'The more time you spend contemplating what you should have done... you lose valuable time planning what you can and will do.',
+        'Lil Wayne',
+    ],
+    [
+        'My goal in coming to General Motors was to help restore profitability, build a strong market position and position this iconic company for success. We are clearly on that path.',
+        'Edward Whitacre, Jr.',
+    ],
+    [
+        'Doing Good is a simple and universal vision. A vision to which each and every one of us can connect and contribute to its realisation. A vision based on the belief that by doing good deeds, positive thinking and affirmative choice of words, feelings and actions, we can enhance goodness in the world.',
+        'Shari Arison',
+    ],
+    [
+        'Fixing a broken immigration system. Protecting our kids from gun violence. Equal pay for equal work, paid leave, raising the minimum wage. All these things still matter to hardworking families; they are still the right thing to do; and I will not let up until they get done.',
+        'Barack Obama',
+    ],
+    [
+        'The day, water, sun, moon, night - I do not have to purchase these things with money.',
+        'Plautus',
+    ],
+    [
+        'You need to be silly to be funny.',
+        'William Shatner',
+    ],
+    [
+        'Arriving at one goal is the starting point to another.',
+        'John Dewey',
+    ],
+    [
+        'Beauty is a manifestation of secret natural laws, which otherwise would have been hidden from us forever.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'You can learn more from the lows than the highs. The highs are great but the lows make you really look at things in a different way and want to improve. Every player will have both in their careers and I have, but what you get is that experience which is so important to perform at your best.',
+        'Wayne Rooney',
+    ],
+    [
+        'America is the one rich country with the biggest slums, the least democratic and least developed health system, and the most niggardly attitude against its old people.',
+        'Gunnar Myrdal',
+    ],
+    [
+        'Life is a lively process of becoming.',
+        'Taylor Spreitler',
+    ],
+    [
+        'The things I was allowed to experience, the people I was able to call friends, teammates, mentors, coaches and opponents, the travel, all of it, are far more than anything I ever thought possible in my lifetime.',
+        'Curt Schilling',
+    ],
+    [
+        'Time sometimes flies like a bird, sometimes crawls like a snail; but a man is happiest when he does not even notice whether it passes swiftly or slowly.',
+        'Ivan Turgenev',
+    ],
+    [
+        'Life comes from the earth and life returns to the earth.',
+        'Gavin Rossdale',
+    ],
+    [
+        'You cannot step twice into the same river, for other waters are continually flowing in.',
+        'Heraclitus',
+    ],
+    [
+        'Everyone has his own specific vocation or mission in life; everyone must carry out a concrete assignment that demands fulfillment. Therein he cannot be replaced, nor can his life be repeated, thus, everyone\'s task is unique as his specific opportunity to implement it.',
+        'Riley Keough',
+    ],
+    [
+        'Testing oneself is best when done alone.',
+        'Jimmy Carter',
+    ],
+    [
+        'One can not be an American by going about saying that one is an American. It is necessary to feel America, like America, love America and then work.',
+        'Georgia O\'Keeffe',
+    ],
+    [
+        'Boundary setting is really a huge part of time management.',
+        'Jim Loehr',
+    ],
+    [
+        'Hip-hop is more about attaining wealth. People respect success. They respect big. They don\'t even have to like your music. If you\'re big enough, people are drawn to you.',
+        'Jay-Z',
+    ],
+];

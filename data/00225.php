@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Be cool to people. Be nice to as many people as you can. Smile to as many people as you can, and have them smile back at you.',
-    1 => 'Joe Rogan',
-  ),
-  1 => 
-  array (
-    0 => 'Freedom from effort in the present merely means that there has been effort stored up in the past.',
-    1 => 'Theodore Roosevelt',
-  ),
-  2 => 
-  array (
-    0 => 'To YOU I\'m an atheist; to God, I\'m the Loyal Opposition.',
-    1 => 'Woody Allen',
-  ),
-  3 => 
-  array (
-    0 => 'It sometimes seems that intense desire creates not only its own opportunities, but its own talents.',
-    1 => 'Eric Hoffer',
-  ),
-  4 => 
-  array (
-    0 => 'Risk comes from not knowing what you\'re doing.',
-    1 => 'Warren Buffet',
-  ),
-  5 => 
-  array (
-    0 => 'Difficulties strengthen the mind, as labor does the body.',
-    1 => 'Seneca',
-  ),
-  6 => 
-  array (
-    0 => 'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It\'s never your fault. But it\'s always your fault, because if you wanted to change you\'re the one who has got to change.',
-    1 => 'Katharine Hepburn',
-  ),
-  7 => 
-  array (
-    0 => 'Stop being afraid of what could go wrong, and start being excited about what could go right.',
-    1 => 'Unknown',
-  ),
-  8 => 
-  array (
-    0 => 'Rarely is the question asked: Is our children learning?',
-    1 => 'George W. Bush; Florence, South Carolina; January 11, 2000',
-  ),
-  9 => 
-  array (
-    0 => 'If you\'re not failing every now and again, it\'s a sign you\'re not doing anything very innovative.',
-    1 => 'Woody Allen',
-  ),
-  10 => 
-  array (
-    0 => 'Be brave enough to live life creatively. The creative place where no one else has ever been.',
-    1 => 'Alan Alda',
-  ),
-  11 => 
-  array (
-    0 => 'Believe in your dreams and dream big. And then after you\'ve done that, dream bigger.',
-    1 => 'Howard Schultz, CEO Starbucks',
-  ),
-  12 => 
-  array (
-    0 => 'You are very powerful, provided you know how powerful you are.',
-    1 => 'Yogi Bhajan',
-  ),
-  13 => 
-  array (
-    0 => 'No man is an island, entire of itself; every man is a piece of the continent.',
-    1 => 'John Donne',
-  ),
-  14 => 
-  array (
-    0 => 'From every human being there rises a light that reaches straight to heaven. And when two souls that are destined to be together find each other, their streams of light flow together, and a single brighter light goes forth from their united being.',
-    1 => 'Marianne Williamson',
-  ),
-  15 => 
-  array (
-    0 => 'Your attitude determines your attitude.',
-    1 => 'Zig Ziglar, self-improvement doofus',
-  ),
-  16 => 
-  array (
-    0 => 'A ship is safe in a harbor. But thats not what ships are for.',
-    1 => '/u/the_big_mothergoose',
-  ),
-  17 => 
-  array (
-    0 => 'Failure is the key to success; each mistake teaches us something.',
-    1 => 'Morihei Ueshiba',
-  ),
-  18 => 
-  array (
-    0 => 'Begin somewhere; you cannot build a reputation on what you intend to do.',
-    1 => 'Liz Smith',
-  ),
-  19 => 
-  array (
-    0 => 'Deserve your dream.',
-    1 => 'Octavio Paz',
-  ),
-  20 => 
-  array (
-    0 => 'Crime does not pay ... as well as politics.',
-    1 => 'A. E. Newman',
-  ),
-  21 => 
-  array (
-    0 => 'Try not to become a person of success but a person of value.',
-    1 => 'Albert Einstein',
-  ),
-  22 => 
-  array (
-    0 => 'To carry a grudge is like being stung to death by one bee.',
-    1 => 'William Walton',
-  ),
-  23 => 
-  array (
-    0 => 'To see ourselves as others see us can be eye-opening. To see others as sharing a nature with ourselves is the merest decency. But it is from the far more difficult achievement of seeing ourselves amongst others…that the largeness of mind, without which objectivity is self-congratulation and tolerance a sham, comes.',
-    1 => 'Clifford Geertz',
-  ),
-  24 => 
-  array (
-    0 => 'The price one pays for pursuing any profession, or calling, is an intimate knowledge of its ugly side.',
-    1 => 'James Baldwin',
-  ),
-);
+return [
+    [
+        'I tell young entrepreneurs to use the leader in their industry and as a benchmark as they work to create their own brand. Don\'t look at what your competition is doing - if you emulate the leader in your industry, you will achieve a higher level of engagement with consumers and make their buying experience richer.',
+        'Steve Stoute',
+    ],
+    [
+        'For those who have made the ultimate sacrifice, we are grateful that such men and women were among us. For those who continue to serve, we honor their commitment. For those who return to civilian life, we honor their service.',
+        'Leo Tolstoy',
+    ],
+    [
+        'I fell in love with Erica Kane the summer before my freshman year of high school. Like all red-blooded teen American boys, I\'d come home from water polo practice and eat a box of Entenmann\'s Pop\'Ems donut holes in front of the TV while obsessively fawning over \'All My Children\' and Erica, her clothes, and her narcissistic attitude.',
+        'Andy Cohen',
+    ],
+    [
+        'Politeness and civility are the best capital ever invested in business. Large stores, gilt signs, flaming advertisements, will all prove unavailing if you or your employees treat your patrons abruptly. The truth is, the more kind and liberal a man is, the more generous will be the patronage bestowed upon him.',
+        'P. T. Barnum',
+    ],
+    [
+        'My attitude is that, if you have nothing to hide, why not show it?',
+        'Bradley Wiggins',
+    ],
+    [
+        'Im not in this world to live up to your expectations and you\'re not in this world to live up to mine.',
+        'Bruce Lee',
+    ],
+    [
+        'High heels are like a beauty lift. In a flat, you can feel beautiful, but a stiletto changes your mood, how you move - like a wild, beautiful animal. The idea was always to follow a woman\'s wardrobe, her desires.',
+        'Giuseppe Zanotti',
+    ],
+    [
+        'In a gentle way, you can shake the world.',
+        'Mahatma Gandhi',
+    ],
+    [
+        'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
+        'Buddha',
+    ],
+    [
+        'All life demands struggle. Those who have everything given to them become lazy, selfish, and insensitive to the real values of life. The very striving and hard work that we so constantly try to avoid is the major building block in the person we are today.',
+        'Pope Paul VI',
+    ],
+    [
+        'Sweat, sweat, sweat! Work and sweat, cry and sweat, pray and sweat!',
+        'Zora Neale Hurston',
+    ],
+    [
+        'Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.',
+        'Sue Patton Thoele',
+    ],
+    [
+        'People fall forward to success.',
+        'Mary Kay Ash',
+    ],
+    [
+        'The higher the better. It\'s more about an attitude. High heels empower women in a way.',
+        'Christian Louboutin',
+    ],
+    [
+        'I have a lot of friends, but my biggest fear is loneliness. I miss my family in Mumbai, and my biggest nightmare every day is to go back home alone.',
+        'Deepika Padukone',
+    ],
+    [
+        'It\'s so hard not to smile.',
+        'Zoe Sugg',
+    ],
+    [
+        'Hopefully, when people see \'Senna\', they will understand why this inspirational story needed to be told, why it had to be made as a movie for the big screen, and why it is a film for everyone.',
+        'Asif Kapadia',
+    ],
+    [
+        'What we think, we become.',
+        'Buddha',
+    ],
+    [
+        'Jesus wept; Voltaire smiled. From that divine tear and from that human smile is derived the grace of present civilization.',
+        'Victor Hugo',
+    ],
+    [
+        'I love dressing up. It\'s the best part of being a girl, I think.',
+        'Emma Roberts',
+    ],
+    [
+        'Along with success comes a reputation for wisdom.',
+        'Euripides',
+    ],
+    [
+        'What has happened to the good old-fashioned travel agent? I want to go to a really posh travel agent and have them organise everything for me. I don\'t want to do things on the Internet.',
+        'Jenny Eclair',
+    ],
+    [
+        'When I go away to do a movie, I bring the blanket I\'ve had since I was a little girl. It helps me sleep. I also always bring my laptop so I can E-mail friends. And I bring my dog, Beauty, wherever I can.',
+        'Kirsten Dunst',
+    ],
+    [
+        'I look my best when I take my helmet off after a long motorcycle ride. I have a glow and a bit of helmet hair.',
+        'Eric Bana',
+    ],
+    [
+        'The superior man makes the difficulty to be overcome his first interest; success only comes later.',
+        'Confucius',
+    ],
+];

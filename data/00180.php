@@ -1,130 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.',
-    1 => 'Mark Twain',
-  ),
-  1 => 
-  array (
-    0 => 'Experience is something you don\'t get until just after you need it.',
-    1 => 'Olivier',
-  ),
-  2 => 
-  array (
-    0 => 'When you\'re old, you\'ll have wished you dreamed bigger, reached higher and achieved more. So why wait until you\'re old?',
-    1 => 'Robin Sharma',
-  ),
-  3 => 
-  array (
-    0 => 'It has been observed that one\'s nose is never so happy as when it is thrust into the affairs of another, from which some physiologists have drawn the inference that the nose is devoid of the sense of smell.',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  4 => 
-  array (
-    0 => 'All power is within you; you can do anything and everything.',
-    1 => 'Swami Vivekananda',
-  ),
-  5 => 
-  array (
-    0 => 'The Idea is like grass. It craves light, likes crowds, thrives on cross-breeding, grows better for being stepped on.',
-    1 => 'Ursula K. LeGuin, "The Dispossessed"',
-  ),
-  6 => 
-  array (
-    0 => 'I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles.',
-    1 => 'Audrey Hepburn',
-  ),
-  7 => 
-  array (
-    0 => 'Conservative, n.:
-        One who admires radicals centuries after they\'re dead.',
-    1 => 'Leo C. Rosten',
-  ),
-  8 => 
-  array (
-    0 => 'Shake hands with your mother again.',
-    1 => 'from an old hymn',
-  ),
-  9 => 
-  array (
-    0 => 'Change can either challenge or threaten us. Your beliefs pave your way to success or block you.',
-    1 => 'Marsha Sinetar',
-  ),
-  10 => 
-  array (
-    0 => 'The wise does at once what the fool does at last.',
-    1 => 'Baltasar Gracian',
-  ),
-  11 => 
-  array (
-    0 => 'Entrepreneurship is like a computer game in which you have to master every level before achieving success. Startups repeatedly stumble and have to go back to the drawing board. The best way to skip some levels and to increase the odds of survival is to learn from others who have already played the game.',
-    1 => 'Vivek Wadhwa',
-  ),
-  12 => 
-  array (
-    0 => 'The more defects a man may have, the older he is, the less lovable, the more resounding his success.',
-    1 => 'Marquis de Sade',
-  ),
-  13 => 
-  array (
-    0 => 'How much trouble he avoids who does not look to see what his neighbour says or does or thinks, but only to what he does himself, that it may be just and pure.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IV',
-  ),
-  14 => 
-  array (
-    0 => 'No one can whistle a symphony. It takes a whole orchestra to play it.',
-    1 => 'Halford E. Luccock',
-  ),
-  15 => 
-  array (
-    0 => 'Sometimes a cigar is just a cigar.',
-    1 => 'Sigmund Freud',
-  ),
-  16 => 
-  array (
-    0 => 'Look deep into nature, and then you will understand everything better.',
-    1 => 'Albert Einstein',
-  ),
-  17 => 
-  array (
-    0 => 'Old age is like everything else. To make a success of it, you\'ve got to start young.',
-    1 => 'Theodore Roosevelt',
-  ),
-  18 => 
-  array (
-    0 => 'I wanted to change the world. But I have found that the only thing one can be sure of changing is oneself.',
-    1 => 'Aldous Huxley',
-  ),
-  19 => 
-  array (
-    0 => 'The one charm of marriage is that it makes a life of deception a necessity.',
-    1 => 'Oscar Wilde',
-  ),
-  20 => 
-  array (
-    0 => 'The Way Get Started Is To Quit Talking And Begin Doing.',
-    1 => 'Walt Disney',
-  ),
-  21 => 
-  array (
-    0 => 'When you have established that one alternative is good and the other is evil, there is no justification for the choice of a mixture. There is no justification ever for choosing any part of what you know to be evil.',
-    1 => 'Ayn Rand',
-  ),
-  22 => 
-  array (
-    0 => 'I would not dare to so dishonor my Creator God by attaching His name to that book [the Bible].',
-    1 => 'Thomas Paine, The Age of Reason, Part 1, Section 5',
-  ),
-  23 => 
-  array (
-    0 => 'After all, what is your hosts\' purpose in having a party? Surely not for you to enjoy yourself; if that were their sole purpose, they\'d have simply sent champagne and women over to your place by taxi.',
-    1 => 'P. J. O\'Rourke',
-  ),
-  24 => 
-  array (
-    0 => 'Even a slow walker will arrive.',
-    1 => 'African Proverb',
-  ),
-);
+return [
+    [
+        'The music is first and foremost everything - no egos, no attitude, nothing - it\'s about the music.',
+        'Big Boi',
+    ],
+    [
+        'Turn your face toward the sun and the shadows will fall behind you.',
+        'Maori Proverb',
+    ],
+    [
+        'Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul.',
+        'John Muir',
+    ],
+    [
+        'Perhaps I know best why it is man alone who laughs; he alone suffers so deeply that he had to invent laughter.',
+        'Friedrich Nietzsche',
+    ],
+    [
+        'Bottom line, I removed myself from the victim mentality and took control of my life. I\'m not just going to take responsibility for the success in my life - I\'m going to take responsibility for the failures in my life. When you\'re willing to accept that you\'re the problem, you immediately become the solution.',
+        'Eric D. Thomas',
+    ],
+    [
+        'I may not be the number one movie star, or my films might not be doing too good. I am grateful for what life has offered me. I have got a great family, parents are together, have a great sister, I get to holiday. All these things make me grateful towards life, for everything. I always say - have an attitude of gratitude.',
+        'Sonam Kapoor',
+    ],
+    [
+        'While I have felt lonely many times in my life, the oddest feeling of all was after my mother, Lucille, died. My father had already died, but I always had some attachment to our big family while she was alive. It seems strange to say now that I felt so lonely, yet I did.',
+        'Bill Murray',
+    ],
+    [
+        'You do not travel if you are afraid of the unknown, you travel for the unknown, that reveals you with yourself.',
+        'Ella Maillart',
+    ],
+    [
+        'Be obscure clearly.',
+        'E. B. White',
+    ],
+    [
+        'Desire is the key to motivation, but it\'s determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
+        'Mario Andretti',
+    ],
+    [
+        'Kindness is the language which the deaf can hear and the blind can see.',
+        'Mark Twain',
+    ],
+    [
+        'So I had to be careful. I recognized the responsibility that, whether I liked it or not, I had to accept whatever the obligation was. That was to behave in a manner, to carry myself in such a professional way, as if there ever is a reflection, it\'s a positive one.',
+        'Sidney Poitier',
+    ],
+    [
+        'I want to let you in on a little secret: I don\'t always feel like I\'m a success. That\'s right. There are plenty of times when I feel like I\'ve just totally messed up and failed to connect with the people I\'m trying to communicate with.',
+        'Joyce Meyer',
+    ],
+    [
+        'I live a very joyful life, with a lot of laughter and good times.',
+        'L. Lionel Kendrick',
+    ],
+    [
+        'You have to accept whatever comes and the only important thing is that you meet it with courage and with the best that you have to give.',
+        'Eleanor Roosevelt',
+    ],
+    [
+        'Happiness is nothing but good health and freedom, and money is the single best way you can buy your freedom.',
+        'Scott Adams',
+    ],
+    [
+        'Money is a very important tool to make a big difference in people\'s life. It is positive or negative depending on the values.',
+        'Shiv Khera',
+    ],
+    [
+        'It\'s funny, but when I arrived in California to start college I was much more interested in becoming a surfer and cruise along in life from one beach to the next. I didn\'t plan out any huge career for myself.',
+        'Benicio Del Toro',
+    ],
+    [
+        'Confront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing.',
+        'August Wilson',
+    ],
+    [
+        'Work out your own salvation. Do not depend on others.',
+        'Buddha',
+    ],
+    [
+        'I distrust camels, and anyone else who can go a week without a drink.',
+        'Joe E. Lewis',
+    ],
+    [
+        'I\'d rather be a failure at something I love than a success at something I hate.',
+        'George Burns',
+    ],
+    [
+        'I travel a lot. I\'m on the move.',
+        'Ted Turner',
+    ],
+    [
+        'I had given myself a sort of early retirement when I left the scene in 1985. All of the people in my family worked until they dropped, including my father. I decided to take a little time to enjoy life. I traveled, built my dream house, rescued a few dogs. My return to music, and acting, was deliberate, part of my musical arc.',
+        'J. D. Souther',
+    ],
+    [
+        'I\'ll tell you, there is nothing better in life than being a late bloomer. I believe that success can happen at any time and at any age.',
+        'Salma Hayek',
+    ],
+];

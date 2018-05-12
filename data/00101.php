@@ -1,131 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'All you need is the plan, the road map, and the courage to press on to your destination.',
-    1 => 'Earl Nightingale',
-  ),
-  1 => 
-  array (
-    0 => 'If you don\'t read the newspaper, you\'re uniformed. If you read the newspaper, you\'re mis-informed',
-    1 => 'Mark Twain',
-  ),
-  2 => 
-  array (
-    0 => 'Beware of Programmers who carry screwdrivers.',
-    1 => 'Leonard Brandwein',
-  ),
-  3 => 
-  array (
-    0 => 'To err is human, to compute divine. Trust your computer but not its programmer.',
-    1 => 'Morris Kingston',
-  ),
-  4 => 
-  array (
-    0 => 'There are four kinds of homicide: felonious, excusable, justifiable, and praiseworthy ...',
-    1 => 'Ambrose Bierce, "The Devil\'s Dictionary"',
-  ),
-  5 => 
-  array (
-    0 => 'Among the things you can give and still keep are your word, a smile, and a grateful heart.',
-    1 => 'Zig Ziglar',
-  ),
-  6 => 
-  array (
-    0 => 'A tragic irony of life is that we so often achieve success or financial independence after the chief reason for which we sought it has passed away.',
-    1 => 'Ellen Glasgow',
-  ),
-  7 => 
-  array (
-    0 => 'Strive not to be a success, but rather to be of value.',
-    1 => 'Albert Einstein',
-  ),
-  8 => 
-  array (
-    0 => 'Tomorrow is the most important thing in life. Comes into us at midnight very clean. It\'s perfect when it arrives and it puts itself in our hands. It hopes we\'ve learned something from yesterday.',
-    1 => 'John Wayne',
-  ),
-  9 => 
-  array (
-    0 => 'This is the art of courage: to see things as they are and still believe that the victory lies not with those who avoid the bad, but those who taste, in living awareness, every drop of the good.',
-    1 => 'Victoria Lincoln',
-  ),
-  10 => 
-  array (
-    0 => 'Ideas are like stars; you will not succeed in touching them with your hands. But like the seafaring man on the desert of waters, you choose them as your guides, and following them you will reach your destiny.',
-    1 => 'Carl Schurz',
-  ),
-  11 => 
-  array (
-    0 => 'There will come a time when you believe everything is finished. That will be the beginning.',
-    1 => 'Louis L\'Amour',
-  ),
-  12 => 
-  array (
-    0 => 'The pessimistic says: «I\'ll it believe when I see it». The optimistic says «I\'ll see it when I believe it».',
-    1 => 'Zig Ziglar',
-  ),
-  13 => 
-  array (
-    0 => 'Life isn\'t about getting and having, it\'s about giving and being.',
-    1 => 'Kevin Kruse',
-  ),
-  14 => 
-  array (
-    0 => '"It depends on your definition of asleep. They were not stretched out.
-They had their eyes closed. They were seated at their desks with their heads in a nodding position."',
-    1 => 'John Hogan, Commonwealth Edison Supervisor of News Information,
-           responding to a charge by a Nuclear Regulatory Commission inspector that two Dresden Nuclear Plant operators were sleeping on the job.',
-  ),
-  15 => 
-  array (
-    0 => 'Do not wait to strike till the iron is hot; but make it hot by striking.',
-    1 => 'William Butler Yeats',
-  ),
-  16 => 
-  array (
-    0 => 'One kernel is felt in a hogshead; one drop of water helps to swell the ocean; a spark of fire helps to give light to the world. None are too small, too feeble, too poor to be of service. Think of this and act.',
-    1 => 'Hannah More',
-  ),
-  17 => 
-  array (
-    0 => 'We should not give up and we should not allow the problem to defeat us.',
-    1 => 'A. P. J. Abdul Kalam',
-  ),
-  18 => 
-  array (
-    0 => 'Kill them with success, Bury them with a smile.',
-    1 => 'Harvey Specter',
-  ),
-  19 => 
-  array (
-    0 => 'Things work out best for those who make the best of how things work out.',
-    1 => 'John Wooden',
-  ),
-  20 => 
-  array (
-    0 => 'Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.',
-    1 => 'Wolfgang Amadeus Mozart',
-  ),
-  21 => 
-  array (
-    0 => 'The greatest way to live with honor in this world is to be what we pretend to be.',
-    1 => 'Socrates',
-  ),
-  22 => 
-  array (
-    0 => 'When something is important enough, you do it even if the odds are not in your favor.',
-    1 => 'Elon Musk',
-  ),
-  23 => 
-  array (
-    0 => 'An ounce of perversion is worth a pound of pure.',
-    1 => 'Dr. Mark Crislip',
-  ),
-  24 => 
-  array (
-    0 => 'Removing the error messages "now that the program is working" is like wearing a parachute on the ground, but taking it off once you\'re in the air.',
-    1 => 'Kernighan & Plauger [Software Tools]',
-  ),
-);
+return [
+    [
+        'Weight loss can change your whole character. That always amazed me: Shedding pounds does change your personality. It changes your philosophy of life because you recognize that you are capable of using your mind to change your body.',
+        'Ciara',
+    ],
+    [
+        'I\'m a happy guy. I just want to see people laugh and smile.',
+        'Gerry Cooney',
+    ],
+    [
+        'I made myself a little angry before beam. That\'s the best way to do beam. It\'s important to fuel yourself with some devastating things, but I also realized that if I daydream about doing well and having this silver medal, it\'s more motivating than focusing on the negatives. So I learned to focus on the positive.',
+        'Aly Raisman',
+    ],
+    [
+        'Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.',
+        'Amy Bloom',
+    ],
+    [
+        'I think people take a liking to a voice or something that makes them smile and feel good about themselves.',
+        'Jess Glynne',
+    ],
+    [
+        'How long can men thrive between walls of brick, walking on asphalt pavements, breathing the fumes of coal and oil, growing, working, dying, with hardly a thought of wind, and sky, and fields of grain, seeing only machine-made beauty, the mineral-like quality of life?',
+        'Charles Lindbergh',
+    ],
+    [
+        'Food, love, career, and mothers, the four major guilt groups.',
+        'Cathy Guisewite',
+    ],
+    [
+        'We can\'t plan life. All we can do is be available for it.',
+        'Conor McGregor',
+    ],
+    [
+        'Problems are only opportunities with thorns on them.',
+        'Hugh Miller',
+    ],
+    [
+        'Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.',
+        'Wolfgang Amadeus Mozart',
+    ],
+    [
+        'We\'ve had great successes, but our future is not about our past success. It\'s going to be about whether we will invent things that are really going to drive our future.',
+        'Satya Nadella',
+    ],
+    [
+        'If I were involved with the NBA, I wouldn\'t want a 19-year-old or a 20-year-old kid to bring into all the travel and all the problems that exist in the NBA. I would want a much more mature kid. I would want a kid that maybe I\'ve been watching on another team, and now he\'s 21, 22 years old instead of 18 or 19, and I might trade for that kid.',
+        'Bobby Knight',
+    ],
+    [
+        'Things do not happen. Things are made to happen.',
+        'John F. Kennedy',
+    ],
+    [
+        'Opportunity does not knock, it presents itself when you beat down the door.',
+        'Kyle Chandler',
+    ],
+    [
+        'If you take a band like Nirvana, their biggest hits are structurally the same as even a hair metal band\'s biggest hits. The structure\'s not different - the attitude was different. Except it really wasn\'t. It seemed a little more human.',
+        'Buzz Osborne',
+    ],
+    [
+        'Not how long, but how well you have lived is the main thing.',
+        'Seneca',
+    ],
+    [
+        'Science fiction is filled with Martians and space travel to other planets, and things like that.',
+        'Margaret Atwood',
+    ],
+    [
+        'Men have looked upon the desert as barren land, the free holding of whoever chose; but in fact each hill and valley in it had a man who was its acknowledged owner and would quickly assert the right of his family or clan to it, against aggression.',
+        'T. E. Lawrence',
+    ],
+    [
+        'I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.',
+        'Muhammad Iqbal',
+    ],
+    [
+        'The more you like yourself, the less you are like anyone else, which makes you unique.',
+        'Walt Disney',
+    ],
+    [
+        'The place of chess in the society is closely related to the attitude of young people towards our game.',
+        'Boris Spassky',
+    ],
+    [
+        'Time and space - time to be alone, space to move about - these may well become the great scarcities of tomorrow.',
+        'Edwin Way Teale',
+    ],
+    [
+        '\'Glee\' is one of the very few mainstream outlets that is giving a voice to communities of people that don\'t necessarily have a loud voice, specifically the gay community. It gives a really positive and forward statement.',
+        'Jack Antonoff',
+    ],
+    [
+        'America won the Cold War by protecting our strategic resources from the threat of foreign control. We must bring the same attitude to our trade relationship with China.',
+        'Jo Ann Emerson',
+    ],
+    [
+        'The sky is always there for me, while my life has been going through many, many changes. When I look up the sky, it gives me a nice feeling, like looking at an old friend.',
+        'Ron White',
+    ],
+];

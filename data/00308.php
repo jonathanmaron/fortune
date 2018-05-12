@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'Make hatred hated!',
-    1 => 'Anatole France',
-  ),
-  1 => 
-  array (
-    0 => '"The Dude abides." I don\'t know about you but I take comfort in that. It\'s good knowin\' he\'s out there. The Dude. Takin\' \'er easy for all us sinners. Shoosh. I sure hope he makes the finals.',
-    1 => 'The Stranger ("The Big Lebowski")',
-  ),
-  2 => 
-  array (
-    0 => 'When you are immune to the opinions and actions of others, you won\'t be the victim of needless suffering.',
-    1 => 'Miguel Ruiz',
-  ),
-  3 => 
-  array (
-    0 => 'My mother said to me, \'If you are a soldier, you will become a general. If you are a monk, you will become the Pope.\' Instead, I was a painter, and became Picasso.',
-    1 => 'Pablo Picasso',
-  ),
-  4 => 
-  array (
-    0 => 'Luck is what happens when preparation meets opportunity.',
-    1 => 'Seneca',
-  ),
-  5 => 
-  array (
-    0 => 'Being the richest man in the cemetery doesn\'t matter to me. Going to bed at night saying we\'ve done something wonderful… that\'s what matters to me.',
-    1 => 'Steve Jobs',
-  ),
-  6 => 
-  array (
-    0 => 'A diamond is merely a lump of coal that did well under pressure.',
-    1 => 'Unknown',
-  ),
-  7 => 
-  array (
-    0 => 'Life isn\'t always fair. Some people are born into better environments. Some people have better genetics. Some are in the right place at the right time. If you\'re trying to change your life, all of this is irrelevant. All that matters is that you accept where you are, figure out where you want to be, and then do what you can, today and every day, to hold your head high and keep moving forward.',
-    1 => 'Lori Deschene',
-  ),
-  8 => 
-  array (
-    0 => 'He who has overcome his fears will truly be free.',
-    1 => 'Aristotle',
-  ),
-  9 => 
-  array (
-    0 => 'Few are those who see with their own eyes and feel with their own hearts.',
-    1 => 'Albert Einstein',
-  ),
-  10 => 
-  array (
-    0 => 'So act that your principle of action might safely be made law for the whole world.',
-    1 => 'Immanuel Kant',
-  ),
-  11 => 
-  array (
-    0 => 'Success is not final, failure is not fatal: it is the courage to continue that counts.',
-    1 => 'Winston Churchill',
-  ),
-  12 => 
-  array (
-    0 => 'By hero, we tend to mean a heightened man who, more than other men, possesses qualities of courage, loyalty, resourcefulness, charisma, above all, selflessness. He is an example of right behavior; the sort of man who risks his life to protect his society\'s values, sacrificing his personal needs for those of the community.',
-    1 => 'John Ruskin',
-  ),
-  13 => 
-  array (
-    0 => 'Opportunities are usually disguised as hard work, so most people don\'t recognize them.',
-    1 => 'Ann Landers',
-  ),
-  14 => 
-  array (
-    0 => 'Victory has a thousand fathers, but defeat is an orphan.',
-    1 => 'John F. Kennedy',
-  ),
-  15 => 
-  array (
-    0 => 'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.',
-    1 => 'Mark Twain',
-  ),
-  16 => 
-  array (
-    0 => 'Success for me means being able to work. I don\'t look at so much at what I\'ve done as much as I look to what I will do.',
-    1 => 'Phylicia Rashad',
-  ),
-  17 => 
-  array (
-    0 => 'Be yourself. Everyone else is already taken.',
-    1 => 'Oscar Wilde',
-  ),
-  18 => 
-  array (
-    0 => 'I stopped believing in Santa Claus at age six when my mother took me to see him in a store and he asked for my autograph.',
-    1 => 'Shirley Temple Black',
-  ),
-  19 => 
-  array (
-    0 => 'There\'s so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic.',
-    1 => 'Lily Tomlin',
-  ),
-  20 => 
-  array (
-    0 => 'The more things you do, the more you can do.',
-    1 => 'Lucille Ball',
-  ),
-  21 => 
-  array (
-    0 => 'A university is what a college becomes when the faculty loses interest in students.',
-    1 => 'John Ciardi',
-  ),
-  22 => 
-  array (
-    0 => 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-    1 => 'Mohandas Karamchand Gandhi',
-  ),
-  23 => 
-  array (
-    0 => 'Greatness is so often a courteous synonym for great success.',
-    1 => 'Philip Guedalla',
-  ),
-  24 => 
-  array (
-    0 => 'Tears of joy are like the summer rain drops pierced by sunbeams.',
-    1 => 'Hosea Ballou',
-  ),
-);
+return [
+    [
+        'The reason that Google was such a success is because they were the first ones to take advantage of the self-organizing properties of the web. It\'s in ecological sustainability. It\'s in the developmental power of entrepreneurship, the ethical power of democracy.',
+        'Ron Eglash',
+    ],
+    [
+        'Success is measured by your discipline and inner peace.',
+        'Mike Ditka',
+    ],
+    [
+        'To send light into the darkness of men\'s hearts - such is the duty of the artist.',
+        'Schumann',
+    ],
+    [
+        'Formula for success: rise early, work hard, strike oil.',
+        'J. Paul Getty',
+    ],
+    [
+        'I like to smile a lot before going in the car. I make jokes, even on the grid, and then I can still manage to focus when it counts.',
+        'Romain Grosjean',
+    ],
+    [
+        'Negative emotions like loneliness, envy, and guilt have an important role to play in a happy life; they\'re big, flashing signs that something needs to change.',
+        'Leo Buscaglia',
+    ],
+    [
+        'Beverly Hills is too intimidating. Everyone\'s got lovely teeth, so you don\'t want to smile. Everyone\'s ripped, so you start working out at 4 in the morning and eating egg white omelets.',
+        'Rob James-Collier',
+    ],
+    [
+        'I guess after college, I just got really into food. I also think going on the road doing stand-up makes you more into food. Because when you travel like that, one of the things to do is find really good places to eat.',
+        'Aziz Ansari',
+    ],
+    [
+        'We must fight terrorism as if there\'s no peace process and work to achieve peace as if there\'s no terror.',
+        'Yitzhak Rabin',
+    ],
+    [
+        'I\'ve been blessed to be somebody that\'s been climbing that success mountain top for years of hard work, you know, but now it\'s all connecting. And now, the whole world is watching, you know what I\'m saying, and it feels good \'cause it\'s good energy. This is all positive vibes, and good vibes and good energy, so it feels incredible.',
+        'DJ Khaled',
+    ],
+    [
+        'The best thing about the future is that it comes only one day at a time.',
+        'Dean Acheson',
+    ],
+    [
+        'Filipinos want beauty. I have to look beautiful so that the poor Filipinos will have a star to look at from their slums.',
+        'Imelda Marcos',
+    ],
+    [
+        'What is social proof? Put simply, it\'s the positive influence created when someone finds out that others are doing something. It\'s also known as informational social influence.',
+        'Aileen Lee',
+    ],
+    [
+        'Knowing yourself, and learning to love yourself as you are, is the beginning of beauty. I think the most important thing is to show off what\'s most beautiful about you and to hide what\'s less beautiful.',
+        'Sonia Rykiel',
+    ],
+    [
+        'Forget not that the earth delights to feel your bare feet and the winds long to play with your hair.',
+        'Khalil Gibran',
+    ],
+    [
+        'Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.',
+        'Orison Marden',
+    ],
+    [
+        'Never go on trips with anyone you do not love.',
+        'Ernest Hemingway',
+    ],
+    [
+        'The soul that sees beauty may sometimes walk alone.',
+        'Johann Wolfgang von Goethe',
+    ],
+    [
+        'The person that\'s always talkin\', you don\'t have to worry about that person. The person that while you\'re in his face, he\'s just lookin\' at you with a smile on his face, that\'s the guy you worry about.',
+        'Michael Clarke Duncan',
+    ],
+    [
+        'We live between the act of awakening and the act of surrender. Each morning, we awaken to the light and the invitation to a new day in the world of time; each night, we surrender to the dark to be taken to play in the world of dreams where time is no more.',
+        'John O\'Donohue',
+    ],
+    [
+        'Most businesses think that product is the most important thing, but without great leadership, mission and a team that deliver results at a high level, even the best product won\'t make a company successful.',
+        'Robert Kiyosaki',
+    ],
+    [
+        'It\'s an absolute honor to be taking part in the pageant for the Diamond Jubilee. This is a once-in-a-lifetime opportunity and will be a moment in history that will always be remembered. I\'m really looking forward to being out on the river with friends and family. To mark this historic moment will be extremely special.',
+        'Steve McFadden',
+    ],
+    [
+        'Travel teaches toleration.',
+        'Benjamin Disraeli',
+    ],
+    [
+        'A good character is the best tombstone. Those who loved you and were helped by you will remember you when forget-me-nots have withered. Carve your name on hearts, not on marble.',
+        'Charles Spurgeon',
+    ],
+    [
+        'I never could have done what I have done without the habits of punctuality, order, and diligence, without the determination to concentrate myself on one subject at a time.',
+        'Charles Dickens',
+    ],
+];

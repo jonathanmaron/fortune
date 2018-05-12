@@ -1,129 +1,104 @@
 <?php
 
-return array (
-  0 => 
-  array (
-    0 => 'How far you go in life depends on you being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and the strong. Because someday in life you will have been all of these.',
-    1 => 'George Washington Carver',
-  ),
-  1 => 
-  array (
-    0 => 'Whatever the mind of man can conceive and believe, it can achieve.',
-    1 => 'Napoleon Hill',
-  ),
-  2 => 
-  array (
-    0 => 'Honesty is the best policy. If I lose mine honor, I lose myself.',
-    1 => 'William Shakespeare',
-  ),
-  3 => 
-  array (
-    0 => 'The notion of a "record" is an obsolete remnant of the days of the 80-column card.',
-    1 => 'Dennis M. Ritchie',
-  ),
-  4 => 
-  array (
-    0 => 'There is a miracle in your mess, don\'t let the mess make you miss the miracle.',
-    1 => 'Patience Johnson',
-  ),
-  5 => 
-  array (
-    0 => 'A man is not old until regrets take the place of dreams.',
-    1 => 'John Barrymore',
-  ),
-  6 => 
-  array (
-    0 => 'Hey, careful, man, there\'s a beverage here!',
-    1 => 'The Dude ("The Big Lebowski")',
-  ),
-  7 => 
-  array (
-    0 => 'Talent doesn\'t exist. Talent is wanting to do something.',
-    1 => 'Jacques Brel',
-  ),
-  8 => 
-  array (
-    0 => 'Hold yourself responsible for a higher standard than anybody else expects of you, never excuse yourself.',
-    1 => 'Henry Ward Beecher',
-  ),
-  9 => 
-  array (
-    0 => 'Whenever you find yourself on the side of the majority, it is time to pause and reflect.',
-    1 => 'Mark Twain',
-  ),
-  10 => 
-  array (
-    0 => 'Why was I born with such contemporaries?',
-    1 => 'Oscar Wilde',
-  ),
-  11 => 
-  array (
-    0 => 'Expect problems and eat them for breakfast.',
-    1 => 'Alfred A. Montapert',
-  ),
-  12 => 
-  array (
-    0 => 'The question is not what you look at, but what you see.',
-    1 => 'Henry David Thoreau',
-  ),
-  13 => 
-  array (
-    0 => 'Confidence...thrives on honesty, on honor, on the sacredness of obligations, on faithful protection and on unselfish performance. Without them it cannot live.',
-    1 => 'Franklin D. Roosevelt',
-  ),
-  14 => 
-  array (
-    0 => 'It\'s a damn poor mind that can only think of one way to spell a word.',
-    1 => 'Andrew Jackson',
-  ),
-  15 => 
-  array (
-    0 => 'True friendship is like sound health, the value of it is seldom known until it be lost.',
-    1 => 'Charles Caleb Colton',
-  ),
-  16 => 
-  array (
-    0 => 'A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.',
-    1 => 'Harry Truman',
-  ),
-  17 => 
-  array (
-    0 => 'When people stand up and talk about the great success that the EU has been, I\'m not sure anybody saying it really believes it themselves anymore.',
-    1 => 'Nigel Farage',
-  ),
-  18 => 
-  array (
-    0 => 'If you want to be respected, you must respect yourself.',
-    1 => 'Spanish Proverb',
-  ),
-  19 => 
-  array (
-    0 => 'He often acts unjustly who does not do a certain thing; not only he who does a certain thing.',
-    1 => 'Marcus Aurelius, "The Meditations", Book IX',
-  ),
-  20 => 
-  array (
-    0 => 'A diploma is by no means a sure ticket to life.',
-    1 => 'Soichiro Honda',
-  ),
-  21 => 
-  array (
-    0 => 'You grow up the day you have your first real laugh at yourself.',
-    1 => 'Ethel Barrymore',
-  ),
-  22 => 
-  array (
-    0 => 'If you put your mind to it, you can accomplish anything.',
-    1 => 'Marty McFly',
-  ),
-  23 => 
-  array (
-    0 => 'Most people are nice when you finally see them.',
-    1 => 'Harper Lee',
-  ),
-  24 => 
-  array (
-    0 => 'I come to win.',
-    1 => 'Leo Durocher',
-  ),
-);
+return [
+    [
+        'Sometimes I wish that I could go into a time machine right now and just look at my self and say, \'Calm down. Things are gonna be fine. Things are gonna be all great. Just relax.\'',
+        'Tristan Wilds',
+    ],
+    [
+        'We are all inclined to judge ourselves by our ideals; others, by their acts.',
+        'Harold Nicolson',
+    ],
+    [
+        'I think family is very important in West Virginia and has long been so because the mountains made travel difficult in the past, and family members had to depend on each other.',
+        'David Selby',
+    ],
+    [
+        'For a writer only one form of patriotism exists: his attitude toward language.',
+        'Joseph Brodsky',
+    ],
+    [
+        'There\'s nothing I value more than the closeness of friends and family, a smile as I pass someone on the street.',
+        'Willie Stargell',
+    ],
+    [
+        'I will end up with someone in the arts. I am positive. I eat, breathe and sleep acting. And I\'ll end up with someone who is happy staying at home and having me cook supper. But I also really need to be intellectually challenged and stimulated. I want someone bookish, and someone who is passionate.',
+        'Ginnifer Goodwin',
+    ],
+    [
+        'When we recognise the virtues, the talent, the beauty of Mother Earth, something is born in us, some kind of connection, love is born.',
+        'Thich Nhat Hanh',
+    ],
+    [
+        'Photographers usually want to photograph facts and things. But I\'m interested in the nature of the thing itself. A photograph of someone sleeping tells me nothing about their dream state; a photograph of a corpse tells me nothing about the nature of death. My work is about my life as an event, and I find myself to be very temporal, transient.',
+        'Duane Michals',
+    ],
+    [
+        'We\'ve seen over time that countries that have the best economic growth are those that have good governance, and good governance comes from freedom of communication. It comes from ending corruption. It comes from a populace that can go online and say, \'This politician is corrupt, this administrator, or this public official is corrupt.\'',
+        'Ramez Naam',
+    ],
+    [
+        'I love not man the less, but Nature more.',
+        'Lord Byron',
+    ],
+    [
+        'Because beauty isn\'t enough, there must be something more.',
+        'Eva Herzigova',
+    ],
+    [
+        'Big jobs usually go to the men who prove their ability to outgrow small ones.',
+        'Theodore Roosevelt',
+    ],
+    [
+        'I grew up in a big family. You have to learn to get along with each other... get things done as a family.',
+        'John Boehner',
+    ],
+    [
+        'I actually think of being funny as an odd turn of mind, like a mild disability, some weird way of looking at the world that you can\'t get rid of.',
+        'Calvin Trillin',
+    ],
+    [
+        'No act of kindness, no matter how small, is ever wasted.',
+        'Aesop',
+    ],
+    [
+        'They can conquer who believe they can.',
+        'Virgil',
+    ],
+    [
+        'We must use time wisely and forever realize that the time is always ripe to do right.',
+        'Nelson Mandela',
+    ],
+    [
+        'The real end winner of NAFTA is going to be Mexico because we have the human capital. We have that resource that is vital to the success of the U.S. economy.',
+        'Vicente Fox',
+    ],
+    [
+        'It\'s a funny thing, the less people have to live for, the less nerve they have to risk losing nothing.',
+        'Zora Neale Hurston',
+    ],
+    [
+        'I don\'t have any beauty shop memories. I remember the barber shop.',
+        'Jenifer Lewis',
+    ],
+    [
+        'It\'s obviously funny to be a meme, so I could be down with it in that regard, but it also belittles one\'s art.',
+        'Grimes',
+    ],
+    [
+        'Inspirational leaders need to have a winning mentality in order to inspire respect. It is hard to trust in the leadership of someone who is half-hearted about their purpose, or only sporadic in focus or enthusiasm.',
+        'Sebastian Coe',
+    ],
+    [
+        'We know that the nature of genius is to provide idiots with ideas twenty years later.',
+        'Louis Aragon',
+    ],
+    [
+        'I know but one freedom and that is the freedom of the mind.',
+        'Antoine de Saint-Exupery',
+    ],
+    [
+        'As a single withered tree, if set aflame, causes a whole forest to burn, so does a rascal son destroy a whole family.',
+        'Chanakya',
+    ],
+];
