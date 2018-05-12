@@ -72,7 +72,7 @@ class FortuneCommand extends AbstractCommand
 
         $array  = $this->getFortune()->getRandomFortune();
         $quote  = $array['quote'];
-        $author = $array['author'];
+        $author = sprintf('    -- %s', $array['author']);
 
         if ($wordwrap > self::WORDWRAP_MIN) {
             $quote  = wordwrap($quote, $wordwrap);
@@ -81,7 +81,7 @@ class FortuneCommand extends AbstractCommand
 
         $lines = [
             sprintf('<fg=green;options=bold>"%s"</>', $quote),
-            sprintf('<fg=magenta;options=bold>    -- %s</>', $author),
+            sprintf('<fg=magenta;options=bold>%s</>', $author),
         ];
 
         $output->writeln($lines);
