@@ -71,8 +71,8 @@ class FortuneCommand extends AbstractCommand
         $wordwrap = $input->getOption('wordwrap');
 
         $array  = $this->getFortune()->getRandomFortune();
-        $quote  = $array['quote'];
-        $author = sprintf('    -- %s', $array['author']);
+        $quote  = $array[0];
+        $author = sprintf('    -- %s', $array[1]);
 
         if ($wordwrap > self::WORDWRAP_MIN) {
             $quote  = wordwrap($quote, $wordwrap);

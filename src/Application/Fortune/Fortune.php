@@ -26,8 +26,8 @@ class Fortune
         $key   = array_rand($stack);
 
         return [
-            'quote'  => $stack[$key][0] ?? null,
-            'author' => $stack[$key][1] ?? null,
+            $stack[$key][0] ?? null,
+            $stack[$key][1] ?? null,
         ];
     }
 
