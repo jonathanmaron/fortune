@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I was never a pretty girl, so I wasn\'t the one to get the boy. I used to cast myself as a good sport. Sometimes I wonder if I do that too much with roles I play, because if I\'m absolutely truthful, I quite like being the best friend, or the supporting role, and actually I ought to gear-change and make myself the leading role.',
-        'Celia Imrie',
+    '37796820-874f-5119-b6a1-b7d782cce620' => [
+        'I suppose, in a way, this has become part of my soul. It is a symbol of my life. Whatever I have done that really matters, I\'ve done wearing it. When the time comes, it will be in this that I journey forth. What greater honor could come to an American, and a soldier?',
+        'Douglas MacArthur',
     ],
-    [
-        'In Delhi, where I grew up, commerce is brusque. You don\'t ask each other how your day has been. You might not even smile. I\'m not saying this is ideal - it\'s how it is. You\'re tied together by a transaction. The customer doesn\'t tremble before complaining about how cold his food is.',
-        'Karan Mahajan',
+    'f89f5ded-6bd1-5981-99a4-342f99c6d24f' => [
+        'Suppose you could be hooked up to a hypothetical \'experience machine\' that, for the rest of your life, would stimulate your brain and give you any positive feelings you desire. Most people to whom I offer this imaginary choice refuse the machine. It is not just positive feelings we want: we want to be entitled to our positive feelings.',
+        'Martin Seligman',
     ],
-    [
-        'Be sure you put your feet in the right place, then stand firm.',
-        'Abraham Lincoln',
+    'b28e9c9c-d6e4-5dea-96dd-60a9afb000af' => [
+        'I love fools\' experiments. I am always making them.',
+        'Charles Darwin',
     ],
-    [
-        'I always believe that if you feel good and look happy, you\'re always going to be beautiful. My one actual beauty trick is pretty cliche: Never, ever go to bed with your makeup on.',
-        'Joyce Giraud',
+    '8a6ba516-d5e3-5886-b11e-d92761d3b496' => [
+        'I hate housework! You make the beds, you do the dishes and six months later you have to start all over again.',
+        'Joan Rivers',
     ],
-    [
-        'Do what you love to do and give it your very best. Whether it\'s business or baseball, or the theater, or any field. If you don\'t love what you\'re doing and you can\'t give it your best, get out of it. Life is too short. You\'ll be an old man before you know it.',
-        'Melody Beattie',
+    '8e0ea6cf-5770-52bc-b2c1-5d94a9c65676' => [
+        'It\'s so simple to be wise. Just think of something stupid to say and then don\'t say it.',
+        'Sam Levenson',
     ],
-    [
-        'I have long recognized a link between fitness and mental health and I think we need to encourage young people to take part in sports and team activities because we know it has such positive results.',
-        'Tipper Gore',
+    'b5e1acbd-248d-54c5-afab-06320cfda055' => [
+        'To be tested is good. The challenged life may be the best therapist.',
+        'Gail Sheehy',
     ],
-    [
-        'The price of anything is the amount of life you exchange for it.',
+    '18b4d9a0-44fb-5b3d-816c-dfdb175560f8' => [
+        'I try to keep people happy. I go out of my way to get a smile. That\'s the way my mother raised me.',
+        'Donald Dunn',
+    ],
+    'be61ee4f-2793-56ad-9ebc-ca96f7ca3256' => [
+        'Human settlements are like living organisms. They must grow, and they will change. But we can decide on the nature of that growth - on the quality and the character of it - and where it ought to go. We don\'t have to scatter the building blocks of our civic life all over the countryside, destroying our towns and ruining farmland.',
+        'James Howard Kunstler',
+    ],
+    '076b9527-3435-5b60-98b5-0ccbf2124159' => [
+        'Each day can be one of triumph if you keep up your interests.',
+        'George Matthew Adams',
+    ],
+    '2ece749b-0251-5b90-bbdd-6ab15393ac92' => [
+        'If you correct your mind, the rest of your life will fall into place.',
         'Lao Tzu',
     ],
-    [
-        'What is pride? A rocket that emulates the stars.',
-        'William Wordsworth',
+    '93b673d3-fd6a-5d33-96ef-db45c64b172a' => [
+        'Her friends say she is very funny. At a family dinner, she stood to go, and the footman very properly pulled her chair away. At that moment I asked her a question and she sat down again, except there was no chair. Everyone, including the Queen, laughed and laughed.',
+        'Prince Andrew',
     ],
-    [
-        'What is one to say about June, the time of perfect young summer, the fulfillment of the promise of the earlier months, and with as yet no sign to remind one that its fresh young beauty will ever fade.',
-        'Gertrude Jekyll',
+    '526c0ff7-1091-5f41-957a-1ed9945ecc73' => [
+        'When Bill Clinton ran in \'92, and I listened to him, and I had of course known of his record from Arkansas, I found him extraordinarily inspirational, and I voted Democratic.',
+        'Wesley Clark',
     ],
-    [
-        'Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.',
-        'Amiel',
+    'd942a9fd-4fbe-5cab-9836-a3c534efb160' => [
+        'No parent is perfect; we all can look back and think of things we could\'ve done to help our children be better prepared for adulthood. And sometimes it\'s best to admit it to them and encourage them to learn from our mistakes.',
+        'Billy Graham',
     ],
-    [
-        'Kind words will unlock an iron door.',
-        'Turkish proverb',
+    '04dd3eed-2b51-5297-860c-4ea42495aaa1' => [
+        'Mankind is made great or little by its own will.',
+        'Friedrich Schiller',
     ],
-    [
-        'Work hard, be kind, and amazing things will happen.',
-        'Conan O\'Brien',
+    'e97a6e21-3324-53c3-845e-4f809dc81f8f' => [
+        'In terms of my marriage, you know, falling in love with my husband was by far the best thing that\'s ever happened to me.',
+        'Caroline Kennedy',
     ],
-    [
-        'How can they say my life is not a success? Have I not for more than sixty years got enough to eat and escaped being eaten?',
-        'Logan Pearsall Smith',
+    '72f5d0dd-a267-5738-a793-2df82ad64536' => [
+        'When my time on earth is gone, and my activities here are passed, I want they bury me upside down, and my critics can kiss my ass!',
+        'Bobby Knight',
     ],
-    [
-        'I\'m an eternal realist and the success rate for being an actor is pretty low.',
-        'Tom Hiddleston',
+    '8e30c217-caf1-5cd6-96c2-4c92190f2a09' => [
+        'I am sort of an adventurer. I like to explore new places. I don\'t get to travel as often as I would like but I love it.',
+        'Edi Gathegi',
     ],
-    [
-        'In chess, there are some extremely beautiful things in the domain of movement, but not in the visual domain. It\'s the imagining of the movement or of the gesture that makes the beauty in this case.',
-        'Marcel Duchamp',
+    '8fed8552-4aee-5ddc-8b5a-9aa6e8cf01eb' => [
+        'Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations',
+        'Steve Jobs',
     ],
-    [
-        'There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.',
-        'Malcolm X',
+    '00b259f1-58e5-5a39-ba24-32b43ebaf752' => [
+        'Waking up sober is a good day. I love being able to wake up and do positive things, to go to the gym.',
+        'Rodney King',
     ],
-    [
-        'Your worst enemy cannot harm you as much as your own unguarded thoughts.',
-        'Buddha',
+    'e180d5f0-43ae-5528-9e31-4c7a24542d5b' => [
+        'The meaning of life is to find your gift. The purpose of life is to give it away.',
+        'Unknown',
     ],
-    [
-        'I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.',
-        'Elisabeth Kubler-Ross',
+    '4be8e655-3b62-5258-8a0a-ea455a7bcbc0' => [
+        'Ever since studying in Russia as a college student, I had been in a long-distance, one-sided love affair with Chechnya\'s remarkable history, culture and rugged natural beauty.',
+        'Anthony Marra',
     ],
-    [
-        'I prefer to win titles with the team ahead of individual awards or scoring more goals than anyone else. I\'m more worried about being a good person than being the best football player in the world. When all this is over, what are you left with? When I retire, I hope I am remembered for being a decent guy.',
-        'Lionel Messi',
+    '2853a1bb-b5d4-563e-92e8-09947cefddc3' => [
+        'When we are no longer able to change a situation, we are challenged to change ourselves.',
+        'Viktor Frankl',
     ],
-    [
-        'Every so often, we all gaze into the abyss. It\'s a depressing fact of life that eventually the clock expires; eventually the sand in the hourglass runs out. It\'s the leaving behind of everything that matters to us that hurts the most.',
-        'Bob Marley',
+    'cdaa8ad3-55f8-5c5d-83b2-6483bcab0f6f' => [
+        'But the only comparison that I want to Lenny Bruce is that I\'m funny. I\'m Freddie Prinze, Puerto Rican all the way.',
+        'Freddie Prinze',
     ],
-    [
-        'I firmly believe that success lies in the combination of both talent and business savvy, and that the magic comes through partnership between both.',
-        'Delphine Arnault',
+    '1abdb923-f33c-5fb4-91f0-a5aa01e0c2ee' => [
+        'The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.',
+        'Mark Zuckerberg',
     ],
-    [
-        'As an entrepreneur, I\'ve come across countless articles and quotes proudly telling me that I should accept failure, smile, and keep my head up. In other words, I\'ve been told to stay positive. The thing is, when you\'re forced to shut down a business and let really awesome people you care about go, staying positive is the last thing on your mind.',
-        'John Rampton',
-    ],
-    [
-        'The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.',
-        'Albert Einstein',
-    ],
-    [
-        'I can\'t stress to you enough how much I can relate to teens being cyberbullied. Something that helps me is looking at old videos of me and my friends from middle school, or videos of my family. I love watching funny videos of my favorite people - it really cheers me up.',
-        'Ariana Grande',
-    ],
-    [
-        'Transformation is a process, and as life happens there are tons of ups and downs. It\'s a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.',
-        'Peter Marshall',
+    '709c021a-5c98-530b-9a1d-a117672d31b7' => [
+        'We should meet abuse by forbearance. Human nature is so constituted that if we take absolutely no notice of anger or abuse, the person indulging in it will soon weary of it and stop.',
+        'Mahatma Gandhi',
     ],
 ];

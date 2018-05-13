@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'One important key to success is self-confidence. An important key to self-confidence is preparation.',
-        'Arthur Ashe',
+    'db5a072e-b4b2-52ee-ae0f-685d6831fbcd' => [
+        'Difficult times often bring out the best in people.',
+        'Bernie Sanders',
     ],
-    [
-        'I\'ve got a long way to go to being the ultimate best, but I think my time is now. And I\'m starting to enter my prime.',
-        'Kevin Durant',
+    'a8643926-60e6-5e15-ad13-d7ca95c381dd' => [
+        'I want to put concepts in front of people that make them laugh or smile or even hate what I do. I\'m not interested in just putting clothes in stores.',
+        'Thom Browne',
     ],
-    [
-        'I would try to promote something that I loved, and the entire interview would be about my personal life. I would leave a room feeling defeated, feeling embarrassed, but I would always make sure to put that smile on my face because I wasn\'t going to let them get to me.',
-        'Selena Gomez',
+    '1f3de078-d4d7-5532-b3e6-f0b1bb47e5cc' => [
+        'On reflection, I am always pleasantly surprised when ordinary members of the public stop me in the street to say, \'Thank you,\' I guess for making travel and other goods and services affordable to them.',
+        'Stelios Haji-Ioannou',
     ],
-    [
-        'Of course, when I say that human nature is gentleness, it is not 100 percent so. Every human being has that nature, but there are many people acting against their nature, being false.',
-        'Dalai Lama',
+    'd722dc93-8d08-54f8-9119-55440eb37253' => [
+        'Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.',
+        'Og Mandino',
     ],
-    [
-        'The real test of a musician is live performance. It\'s one thing to spend a long time learning how to play well in the studio, but to do it in front of people is what keeps me coming back to touring.',
-        'Neil Peart',
+    '2f876e54-7dc1-55fc-8950-7d7ab14ee567' => [
+        'The fun part of being a girl is that there are little beauty things you can do to make yourself feel special.',
+        'Jennifer Love Hewitt',
     ],
-    [
-        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
-        'John P. Kotter',
+    '4771d2ff-2c25-56ef-bbe5-d28cc2f7dc88' => [
+        'I\'m such a girl for the living room. I really like to stay in my nest and not move. I travel in my mind, and that that\'s a rigorous state of journeying for me. My body isn\'t that interested in moving from place to place.',
+        'bell hooks',
     ],
-    [
-        'In education, technology can be a life-changer, a game changer, for kids who are both in school and out of school. Technology can bring textbooks to life. The Internet can connect students to their peers in other parts of the world. It can bridge the quality gaps.',
-        'Paulo Coelho',
+    '3a7ac5c6-3f7d-54f1-b965-53ebc2d68072' => [
+        'At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
+        'Barbara Bush',
     ],
-    [
-        'My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength.',
-        'Michael Jordan',
+    '5ba0a5d9-1272-507a-a467-df378e50a546' => [
+        'Begin doing what you want to do now. We are not living in eternity. We have only this moment, sparkling like a star in our hand-and melting like a snowflake.',
+        'Francis Bacon Sr.',
     ],
-    [
-        'My boy, one small breeze doesn\'t make a wind storm.',
-        'John McGraw',
+    '012a9449-23df-5a56-b3d0-49f16276be6a' => [
+        'Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.',
+        'Charles M. Schulz',
     ],
-    [
-        'As you think, so shall you become.',
-        'Bruce Lee',
+    'ef344e2e-cc14-519c-9ad2-57513d198734' => [
+        'I\'m not happy not doing anything. When positive things are rolling in, you\'ve got to take them when you can get them.',
+        'Tori Spelling',
     ],
-    [
-        'The first condition of understanding a foreign country is to smell it.',
-        'Rudyard Kipling',
+    '4ad2f5ad-a6f0-5162-8204-7e3518f719d5' => [
+        'Part of the punk attitude was that you should project your music through your whole body... show your personality as much as possible.',
+        'Billy Idol',
     ],
-    [
-        'Obama does not represent America. Nor does he represent anything what our forefathers stood for. This country is basically built on an attitude. It\'s a way of life. It\'s not because you\'re born here. It\'s not that you\'re supposed to take from those who have and give to those who haven\'t. That kills a country. It killed Russia.',
-        'Luke Scott',
+    '0193dd08-bd3c-5725-a934-177bfc37e965' => [
+        'Put your future in good hands : your own.',
+        'Unknown',
     ],
-    [
-        'I love things made out of animals. It\'s just so funny to think of someone saying, \'I need a letter opener. I guess I\'ll have to kill a deer.',
-        'David Sedaris',
+    '8481e904-bc4e-5e41-a062-1e6348ce3062' => [
+        'If we live good lives, the times are also good. As we are, such are the times.',
+        'Malala Yousafzai',
     ],
-    [
-        'Every moment and every event of every man\'s life on earth plants something in his soul.',
-        'Thomas Merton',
+    '7b5b7f59-2beb-5aee-a6c9-6ddfcb3c9a2b' => [
+        'We\'ve had hassles, ups and downs, ins and outs, failures and triumphs. We\'re human beings, and we\'re not perfect. And we\'re mortal. But the Beach Boys is musically a tremendous body of work that transcends individuality and time and national boundaries.',
+        'Mike Love',
     ],
-    [
-        'You don\'t have to have anything in common with people you\'ve known since you were five. With old friends, you\'ve got your whole life in common.',
-        'H. Jackson Brown, Jr.',
+    '1e084596-c7d3-50e4-a72f-f8c3049eede4' => [
+        'I like to put on hardcore when I have to clean my apartment, which I hate to do, but it\'s motivational. I like old heavy metal when I\'m outside working on my car. Music has definite functions for me.',
+        'Peter Steele',
     ],
-    [
-        'Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.',
-        'Bruce Lee',
+    '73b3da5c-97ac-5a39-909a-cb17a4233b0c' => [
+        'Beauty is everlasting And dust is for a time.',
+        'Marianne Moore',
     ],
-    [
-        'There is a loftier ambition than merely to stand high in the world. It is to stoop down and lift mankind a little higher.',
-        'Henry Van Dyke',
+    'cbebcc51-0c55-5d6c-86f6-776eceb10a2c' => [
+        'Both my father and mother were survivors of the Warsaw Ghetto and the Nazi concentration camps. Apart from my parents, every family member on both sides was exterminated by the Nazis.',
+        'Norman Finkelstein',
     ],
-    [
-        'My family moved from California to New Jersey in the beginning of my sophomore year of high school. I will never forget the first day in a new school, walking into the cafeteria during lunch and not knowing a single soul. I didn\'t feel confident enough to share a seat at just anyone\'s table.',
-        'Camille Guaty',
+    '6d5e5a0c-7865-521f-8243-877fbdc8aa34' => [
+        'Hell is nothing else but nature departed or excluded from the beam of divine light.',
+        'William Law',
     ],
-    [
-        'The happiest moment of my life was probably when my daughter was born.',
-        'Andy Andrews',
+    'c6810f1a-af6b-5bda-9189-f9294694a6e6' => [
+        'The power of one, if fearless and focused, is formidable, but the power of many working together is better.',
+        'Gloria Macapagal Arroyo',
     ],
-    [
-        'When you\'re in love it\'s the most glorious two and a half days of your life.',
-        'Richard Lewis',
+    '479701bb-23ed-5940-be64-ee60a6ebc49a' => [
+        'If you\'re looking for can-do, earthy-crunchy attitude then you\'ve got to go to Wisconsin.',
+        'Dar Williams',
     ],
-    [
-        'The art of medicine consists in amusing the patient while nature cures the disease.',
-        'Voltaire',
+    '1e871b14-6019-50d4-a443-2fcc22ea0b49' => [
+        'Our economy is increasingly dependent on the success and integrity of the financial markets.',
+        'Michael Douglas',
     ],
-    [
-        'The optimist underestimates how difficult it is to achieve real change, believing that anything is possible and it\'s possible now. Only by confronting head-on the reality that all progress is going to be obstructed by vested interests and corrupted by human venality can we create realistic programmes that actually have a chance of success.',
-        'Julian Baggini',
+    'baf0e424-d741-5c60-bc82-9e582fc7c1dc' => [
+        'What is worthy or unworthy on the Sabbath day will have to be judged by each of us by trying to be honest with the Lord. On the Sabbath day, we should do what we have to do and what we ought to do in an attitude of worshipfulness and then limit our other activities.',
+        'James E. Faust',
     ],
-    [
-        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something--your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
-        'Steve Jobs',
+    'b5fefb9f-4fc8-5ba9-ac19-ebc64d34128c' => [
+        'Sooner or later, those who win are those who think they can.',
+        'Richard Bach',
     ],
-    [
-        'The historical basis for the gap between the black middle class and underclass shows that ending discrimination, by itself, would not eradicate black poverty and dysfunction. We also need intervention to promulgate a middle-class ethic of success among the poor, while expanding opportunities for economic betterment.',
-        'Henry Louis Gates',
+    '1ecc1169-3e32-5927-9082-bbdf294a9b44' => [
+        'I was born into the most remarkable and eccentric family I could possibly have hoped for.',
+        'Maureen O\'Hara',
     ],
-    [
-        'In the depth of winter I finally learned that there was in me an invincible summer.',
-        'Albert Camus',
+    '76365a69-4927-518e-89f6-81c2db76c9b8' => [
+        'I come from a family of strong women, who have been positive role models for me.',
+        'Laura Harrier',
     ],
 ];

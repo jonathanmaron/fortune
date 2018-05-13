@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The only true measure of success is the ratio between what we might have done and what we might have been on the one hand, and the thing we have made and the things we have made of ourselves on the other.',
-        'H. G. Wells',
+    '87d0a4c4-129b-5dfd-8119-6d62121cb8b0' => [
+        'How do you go from where you are to where you wanna be? And I think you have to have an enthusiasm for life. You have to have a dream, a goal. And you have to be willing to work for it.',
+        'Jim Valvano',
     ],
-    [
-        'My brothers and sister and me grew up making fun of each other, the way we\'d speak or move. When we get together, everyone\'s funny, quick, loud, and speaks on top of each other. It was like a great comedy school; nothing is precious.',
-        'Colman Domingo',
+    '79010fef-04f9-5149-941e-fb72413a280a' => [
+        'Our scientific age demands that we provide definitions, measurements, and statistics in order to be taken seriously. Yet most of the important things in life cannot be precisely defined or measured. Can we define or measure love, beauty, friendship, or decency, for example?',
+        'Dennis Prager',
     ],
-    [
-        'We have a lot of people that are oppressed. We have a lot of people that aren\'t treated equally, aren\'t given equal opportunities. Police brutality is a huge thing that needs to be addressed. There are a lot of issues that need to be talked about, need to be brought to life, and we need to fix those.',
-        'Suze Orman',
+    '43b631ca-6362-5e8e-bd1d-3bad6b5faabb' => [
+        'Restore human legs as a means of travel. Pedestrians rely on food for fuel and need no special parking facilities.',
+        'Lewis Mumford',
     ],
-    [
-        'In the central place of every heart, there is a recording chamber; so long as it receives messages of beauty, hope, cheer and courage, you are young.',
-        'Samuel Ullman',
+    'cc36c998-44fa-591f-8969-5d527fbb37c6' => [
+        'Talking with my friends and family every day helps keep me grounded and connected to home. They are the most important things to me.',
+        'Colbie Caillat',
     ],
-    [
-        'I am decidedly of the opinion that in very many instances we can trace such a necessary connexion, especially among birds, and often with more complete success than in the case which I have here attempted to explain.',
-        'Alfred Russel Wallace',
+    '50c77188-4e40-5f95-bae2-37a8f55d3c85' => [
+        'Writing is hard work: it is like doing homework for the rest of your life. You are always chipping away at it.',
+        'John Lutz',
     ],
-    [
-        'Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.',
-        'Michael Jackson',
+    '174c6b40-92fb-525f-b2e8-83be954a475f' => [
+        'When you have balance in your life, work becomes an entirely different experience. There is a passion that moves you to a whole new level of fulfillment and gratitude, and that\'s when you can do your best... for yourself and for others.',
+        'Cara Delevingne',
     ],
-    [
-        'To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.',
-        'Byron Pulsifer',
+    '49595615-6e44-5e48-a419-a5048e034d51' => [
+        'Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all.',
+        'George Washington',
     ],
-    [
-        'Be true to yourself and surround yourself with positive, supportive people.',
-        'Payal Kadakia',
+    'f22580fb-281b-5966-95dd-bd725731067a' => [
+        'Someone remembers, someone cares; your name is whispered in someone\'s prayers.',
+        'Unknown',
     ],
-    [
-        'A woman\'s mind is cleaner than a man\'s: She changes it more often.',
-        'Oliver Herford',
+    '67f09ea2-c619-5d19-b04c-d825fed30bf2' => [
+        'You need to overcome the tug of people against you as you reach for high goals.',
+        'George S. Patton',
     ],
-    [
-        'The time to repair the roof is when the sun is shining.',
-        'John F. Kennedy',
+    'ad5ae1c6-1183-5d76-8721-1195e1132e55' => [
+        'The auto industry must acknowledge that a rational transportation policy should seek a balance between individual convenience, the efficient use of limited resources, and urban-living values that protect spaciousness, natural beauty, and human-scale mobility.',
+        'Stewart Udall',
     ],
-    [
-        'Argue for your limitations, and sure enough they\'re yours.',
-        'Richard Bach',
+    'dd5193aa-5c52-5810-a57b-9219771c584c' => [
+        'It is not so important to know everything as to appreciate what we learn.',
+        'Hannah More',
     ],
-    [
-        'My family know not to get me any tech for Christmas. I can never get it to work, and it all becomes very tearful and pressurised.',
-        'Peter Capaldi',
+    '70fe6b13-6d45-58c4-bd48-d4617bb0ebc6' => [
+        'I never wake up today with yesterday\'s problems.',
+        'Anthony Saleh',
     ],
-    [
-        'It\'s such a funny thing when you see your daughter transitioning from your baby, your little girl, to suddenly being a young woman. If you\'re not really looking for it, you can miss it, and Lily-Rose is on that road already, and there\'s nothing I can do to stop it.',
-        'Johnny Depp',
+    '82ad4059-e225-5dcf-b017-808053608b87' => [
+        'Remember you will not always win. Some days, the most resourceful individual will taste defeat. But there is, in this case, always tomorrow - after you have done your best to achieve success today.',
+        'Maxwell Maltz',
     ],
-    [
-        'A strong, positive self-image is the best possible preparation for success.',
-        'Joyce Brothers',
+    '2a9a05b4-735d-5e1e-99b1-5cad5a14ad8d' => [
+        'I didn\'t plan to be the rude middle-class comedian. You write a certain type of joke that you find funny, and mine happen to be often rude. Yes, it\'s juvenile, but that\'s me.',
+        'Jimmy Carr',
     ],
-    [
-        'The greatest discovery of all time is that a person can change his future by merely changing his attitude.',
-        'Oprah Winfrey',
+    '63b057a7-d2db-561b-8f12-54f8df9288da' => [
+        'Crave for a thing, you will get it. Renounce the craving, the object will follow you by itself.',
+        'Swami Sivananda',
     ],
-    [
-        'I love a woman with a relaxed attitude.',
-        'Stephane Rolland',
+    '8ad598fe-1b0b-5baa-97c1-18f0ef3503bc' => [
+        'I\'m not one to think of burying my head in the sand - I\'ve always been a positive person and still am now.',
+        'Bastian Schweinsteiger',
     ],
-    [
-        'Take your mind off the problems for a moment, and focus on the positive possibilities. Consider how very much you are able to do.',
-        'Ralph Marston',
+    '9b5fc786-f5f1-5a33-a910-44242df8a0ee' => [
+        'The one thing I regret was that my work required an enormous amount of my time, and a lot of travel.',
+        'Neil Armstrong',
     ],
-    [
-        'Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.',
-        'Mary Parrish',
+    '53d487f1-7a38-5586-9baf-c60772630afb' => [
+        'What is man\'s ultimate direction in life? It is to look for love, truth, virtue, and beauty.',
+        'Shinichi Suzuki',
     ],
-    [
-        'Never retreat. Never explain. Get it done and let them howl.',
-        'Benjamin Jowett',
+    '54014a80-9416-5d40-96a2-3b65774f4d5a' => [
+        'When I was younger, my family would go camping and fishing on our ranches. My dad loves being around all kinds of animals. He\'s the one who got me to be a really big animal lover.',
+        'Paris Hilton',
     ],
-    [
-        'You have to approach something with indifference, as if you had no aesthetic emotion. The choice of readymades is always based on visual indifference and, at the same time, on the total absence of good or bad taste.',
-        'Marcel Duchamp',
+    '1dc6ff80-e4b7-52a5-8b78-d0910b73688e' => [
+        'Nature never breaks her own laws.',
+        'Leonardo da Vinci',
     ],
-    [
-        'The best thing I could say is you do have to be a really good listener. If I go to a family reunion, and there\'s 400 people there, everybody comes up and tells me their stories, right? And I think that when you\'re a good listener, and you can imagine how someone\'s talking, dialogue is your key friend, is it not?',
-        'Susan Straight',
+    'd696e898-9d92-56ae-a4ef-b86a0ac551d6' => [
+        'I think it all comes down to motivation. If you really want to do something, you will work hard for it.',
+        'Edmund Hillary',
     ],
-    [
-        'I wake up each and every day with a smile on my face knowing I get to do something musically.',
-        'Two Chainz',
+    '958d53f4-94e8-55c3-95f0-32e291360418' => [
+        'Do the right thing. It will gratify some people and astonish the rest',
+        'Mark Twain',
     ],
-    [
-        'The reason why people wear pajamas to the airport in the first place is so that they\'ll be comfortable during their flight. But you know, typically, air travel is 50 to 75 percent of the time you spend traveling. The rest of the time you spend in public places like airports and around other people. That\'s when looking good trumps comfort.',
-        'Casey Neistat',
+    'b6d341bf-2aec-539a-b416-4e608f442656' => [
+        'Children are smarter than any of us. Know how I know that? I don\'t know one child with a full time job and children.',
+        'Bill Hicks',
     ],
-    [
-        'If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.',
-        'Rachel Carson',
+    '364d2713-c873-516d-a274-f1c6fce5aebc' => [
+        'People spend too much time finding other people to blame, too much energy finding excuses for not being what they are capable of being, and not enough energy putting themselves on the line, growing out of the past, and getting on with their lives.',
+        'J. Michael Straczynski',
     ],
-    [
-        'If you want to be thought a liar, always tell the truth.',
-        'Logan Pearsall Smith',
+    '01b3ce89-2ecd-5da2-b21e-e6120fed56b8' => [
+        'I always loved aesthetics. Not particularly fashion, but an idea of beauty.',
+        'Miuccia Prada',
     ],
 ];

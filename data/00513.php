@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When you die, others who think they know you, will concoct things about you... Better pick up a pen and write it yourself, for you know yourself best.',
-        'Sholom Aleichem',
+    '7b9f2518-bcf2-5078-9301-2571fc7c6007' => [
+        'I mean, I\'m married first of all to one of, if not the most wonderful women in the world. She is everything - funny, attractive, hard-working, she has integrity, she loves me to bits.',
+        'Seal',
     ],
-    [
-        'Greatness is so often a courteous synonym for great success.',
-        'Philip Guedalla',
+    '4cd2f42f-1854-5806-b621-75d0c406cf38' => [
+        'If you don\'t have time to do it right, when will you have time to do it over?',
+        'John Wooden',
     ],
-    [
-        'If I win and get the money, then the Oakland Police department is going to buy a boys\' home, me a house, my family a house, and a Stop Police Brutality Center.',
-        'Tupac Shakur',
+    '05d90f40-0e65-50da-b4fa-2862f939c486' => [
+        'Going by my past journey, I am not certain where life will take me, what turns and twists will happen; nobody knows where they will end up. As life changes direction, I\'ll flow with it.',
+        'Joyce Meyer',
     ],
-    [
-        'I have this horrible sense of humor where I think discomfort is funny - partly because I experience discomfort a lot, and it\'s a way of laughing at it and getting a release.',
-        'Joaquin Phoenix',
+    '4d231655-d37a-5163-af99-1fce64b6c53c' => [
+        'Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.',
+        'Oprah Winfrey',
     ],
-    [
-        'The rain began again. It fell heavily, easily, with no meaning or intention but the fulfilment of its own nature, which was to fall and fall.',
-        'Helen Garner',
+    'e02f23cf-2b60-5169-9ee2-05d093f9758d' => [
+        'Do you remember any instance where tyranny was destroyed and freedom established on its ruins, among a people possessing so small a share of virtue and public spirit? I recollect none, and this more than the British arms makes me fearful of final success, without a reform.',
+        'Patrick Henry',
     ],
-    [
-        'Happiness in intelligent people is the rarest thing I know.',
-        'Ernest Hemingway',
+    '88def328-4f6c-57b8-a5cf-8951116e5cf4' => [
+        'When it comes to life the critical thing is whether you take things for granted or take them with gratitude.',
+        'William Barclay',
     ],
-    [
-        'Solar power, wind power, the way forward is to collaborate with nature - it\'s the only way we are going to get to the other end of the 21st century.',
-        'Bjork',
+    'c90a75f5-79ce-59a9-bb8b-29e8d1171611' => [
+        'Hollywood\'s a very weird place. I think there\'s less of everything except for attitude.',
+        'Dean Cain',
     ],
-    [
-        'I\'m quite sarcastic, and I\'m funny, but not kind of funny. It\'s a weird funny, and some people don\'t get me, and some people do.',
-        'Millie Bobby Brown',
+    '712e1d2c-b6cd-5ef8-9ab5-0a0f4385c31b' => [
+        'I\'m happy to be on a winning team. My individual success, that lasts for a short period of time. The success of being a part of the South, of Atlanta, which is now the hot bed of music, that\'s what\'s gonna last the longest. The fact that I contributed to planting our flag and moving music to my city, that\'s what I\'m most proud of.',
+        'T.I.',
     ],
-    [
-        'Basically, when you get to my age, you\'ll really measure your success in life by how many of the people you want to have love you actually do love you.',
-        'Warren Buffett',
+    '14e4045a-c0a3-5876-abc8-eb6d27f1cecf' => [
+        'One of the things that\'s unique about Louisiana politics is that people here have a much more realistic attitude about who their politicians are. They know they are human and not saints or Mormons or Eagle Scouts.',
+        'Mark Frost',
     ],
-    [
-        'Happiness lies in the joy of achievement and the thrill of creative effort.',
-        'Franklin D. Roosevelt',
+    'f34c6634-e138-515b-b70d-2426ece2d042' => [
+        "To have striven, to have made the effort, to have been true to certain ideals\u{2013}this alone is worth the struggle.",
+        'William Penn',
     ],
-    [
-        'You must know that Iran has a great number of productions. Many films are released. Most of them, like in the rest of the world, are commercial and shallow films. These are the most popular ones. And there are a few ones that actually develop more profound and thoughtful aspects of life. Only some of these films travel out of Iran.',
-        'Asghar Farhadi',
+    '0dfa4444-9129-52dd-8edc-37d7d95a6f89' => [
+        'If it\'s flipping hamburgers at McDonald\'s, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft.',
+        'Snoop Dogg',
     ],
-    [
-        'It is time we recognised the huge contribution that migration has made to the economic growth of this country.',
-        'Jeremy Corbyn',
+    'b658fc51-023a-53d5-b809-1813610b2f0c' => [
+        'While we try to teach our children all about life, our children teach us what life is all about.',
+        'Angela Schwindt',
     ],
-    [
-        'Passion creates the desire for more and action fuelled by passion creates a future.',
-        'Byron Pulsifer',
+    '18cdfa29-2138-571a-a037-56ca6b8f6fdb' => [
+        'Time destroys the speculation of men, but it confirms nature.',
+        'Marcus Tullius Cicero',
     ],
-    [
-        'To look almost pretty is an acquisition of higher delight to a girl who has been looking plain for the first fifteen years of her life than a beauty from her cradle can ever receive.',
-        'Jane Austen',
+    '3f16eaa0-3385-5507-bbeb-c921387b724b' => [
+        'I think it\'s funny to be delicate with subjects that are explosive.',
+        'Jerry Seinfeld',
     ],
-    [
-        'Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.',
-        'Samuel Beckett',
+    '4f48dca8-84c4-557f-99d0-171cfc1aea2c' => [
+        'In wisdom gathered over time I have found that every experience is a form of exploration.',
+        'Ansel Adams',
     ],
-    [
-        'When I was a child I asked my mother what homosexuality was about and she said - and this was 100 years ago in Germany and she was very open-minded - \'It\'s like hair color. It\'s nothing. Some people are blond and some people have dark hair. It\'s not a subject.\' This was a very healthy attitude.',
-        'Karl Lagerfeld',
+    '9d170ae8-6f9e-5aa5-9460-fdf11f508150' => [
+        'I looked up my family tree and found out I was the sap.',
+        'Rodney Dangerfield',
     ],
-    [
-        'Television is a medium of entertainment which permits millions of people to listen to the same joke at the same time, and yet remain lonesome.',
-        'T. S. Eliot',
+    'a204111b-c2f6-5868-8efb-7c4bc47f6716' => [
+        'I travel in so many different ways; I travel high, I rough it... it all depends on who I travel with.',
+        'Diane von Furstenberg',
     ],
-    [
-        'The most important thing is being passionate about what you\'re doing and always give it your all. That is the key to success.',
-        'Charlie White',
+    '8c1a24a6-d3e6-5dab-afa2-501e3f4c3b26' => [
+        'True generosity is an offering; given freely and out of pure love. No strings attached. No expectations. Time and love are the most valuable possession you can share.',
+        'Suze Orman',
     ],
-    [
-        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
-        'Francis Chan',
+    '848a40b9-a175-5772-b6a1-30a4516d7910' => [
+        'When you\'re climbing with someone who always sees the bright spot, even if there is no bright spot, that attitude is really helpful.',
+        'Kevin Jorgeson',
     ],
-    [
-        'Don\'t disrespect me, lie about it, and then come smile in my face and act like nothing\'s wrong.',
-        'Scottie Pippen',
+    'bcf50887-4ee7-5583-8311-da7e1c5ba401' => [
+        'I loved my mom so much because she had to work on a penny just to put food on the table... During the Depression in the United States, everybody had a tough time. And I was so hurt because she was crying that she didn\'t have any food for us for Thanksgiving.',
+        'Tony Bennett',
     ],
-    [
-        'When a positive exchange between a brand and customers becomes quantifiable metrics, it encourages brand to provide better service, customer service to do a better job, and consumers to actively show their gratitude.',
-        'Simon Mainwaring',
+    'a7239f03-24c3-5083-8ec4-74c92750522f' => [
+        'I\'m not here to discuss the past... I\'m here to be positive.',
+        'Mark McGwire',
     ],
-    [
-        'One of the things that I did before I ran for president is I was a professional speaker. Not a motivational speaker - an inspirational speaker. Motivation comes from within. You have to be inspired. That\'s what I do. I inspire people, I inspire the public, I inspire my staff. I inspired the organizations I took over to want to succeed.',
-        'Herman Cain',
+    'ffabe7a7-f560-5c7c-afd6-a4ead108adc1' => [
+        'The best fiction is geared towards conflict. We learn most about our characters through tension, when they are put up against insurmountable obstacles. This is true in real life.',
+        'Sufjan Stevens',
     ],
-    [
-        'Really I don\'t like human nature unless all candied over with art.',
-        'Virginia Woolf',
+    '91749e21-059f-58bc-a50a-c8bee55eb497' => [
+        'A strong passion for any object will ensure success, for the desire of the end will point out the means.',
+        'Henry Hazlitt',
     ],
-    [
-        'Plans are only good intentions unless they immediately degenerate into hard work.',
-        'Peter Drucker',
+    '426bf763-88d6-5967-a961-bbd122bfa587' => [
+        'One of the best ways to make yourself happy in the present is to recall happy times from the past. Photos are a great memory-prompt, and because we tend to take photos of happy occasions, they weight our memories to the good.',
+        'Gretchen Rubin',
     ],
-    [
-        'Our judgments judge us, and nothing reveals us, exposes our weaknesses, more ingeniously than the attitude of pronouncing upon our fellows.',
-        'Paul Valery',
+    'acb4fbe7-eb43-549b-9db7-c85cd42d5e38' => [
+        'But I want people to understand that poker\'s not all glamorous, it\'s not all being on TV and making tons of money. It\'s a hard life. It\'s a lot of travel. It\'s a lot of weird hours.',
+        'Chris Moneymaker',
     ],
 ];

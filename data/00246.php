@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Life was always a matter of waiting for the right moment to act.',
-        'Baltasar Gracian',
+    '345b8ac7-6fff-5c2b-9fb3-c8bdde47ae60' => [
+        'In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don\'t try to control. In work, do what you enjoy. In family life, be completely present.',
+        'Lao Tzu',
     ],
-    [
-        'Americans think Soviets are so grim. I want them to see that they can smile.',
-        'Yakov Smirnoff',
+    '94a8c1a8-e186-5af9-8e04-b541ad700aa6' => [
+        'The person born with a talent they are meant to use will find their greatest happiness in using it.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'When you are content to be simply yourself and don\'t compare or compete, everybody will respect you.',
-        'Laozi',
+    '249dcd36-1dd4-5a23-9c2a-1ce06760583d' => [
+        'Nature, philosophy and social issues are the three things that always occupy my mind. You do not have any power over others but can only change yourself.',
+        'Pawan Kalyan',
     ],
-    [
-        'The most positive men are the most credulous.',
-        'Alexander Pope',
+    'baa3155e-7736-58b6-b975-624d23b2bac3' => [
+        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
+        'Christopher McCandless',
     ],
-    [
-        'Our Party attaches great importance to the work with young people and firmly believes in them.',
-        'Kim Jong-un',
+    '0be63fd8-09fb-511d-9576-ec4b94666a15' => [
+        'Enthusiasm is the best protection in any situation. Wholeheartedness is contagious. Give yourself, if you wish to get others.',
+        'David Seabury',
     ],
-    [
-        'Why is Cloud 9 so amazing? What is wrong with Cloud 8? That joke came off the top of my head, and the top of my head ain\'t funny!',
-        'Mitch Hedberg',
+    'b139cd92-7209-5a25-9e97-c2305ef83ee5' => [
+        'Culture is the intersection of people and life itself. It\'s how we deal with life, love, death, birth, disappointment... all of that is expressed in culture.',
+        'Sai Baba',
     ],
-    [
+    '3ffe6a06-b658-5a0e-b312-361514342a63' => [
+        'Intelligence is the ability to avoid doing work, yet getting the work done.',
+        'Linus Torvalds',
+    ],
+    'ae3c7795-3f3a-5763-b7e3-ab7352539570' => [
+        'Our best thoughts come from others.',
+        'Ralph Waldo Emerson',
+    ],
+    '7e3451d7-a831-5955-bafa-148e2eb20b88' => [
+        'Children are the keys of paradise.',
+        'Eric Hoffer',
+    ],
+    'dd067dcd-47c4-59ac-b0a0-d50718c2b5d1' => [
         'Animals are sentient, intelligent, perceptive, funny and entertaining. We owe them a duty of care as we do to children.',
         'Michael Morpurgo',
     ],
-    [
-        'Just do what you do best.',
-        'Red Auerbach',
+    '6d1f39dd-dfa9-556c-83d9-18c34640d1b0' => [
+        'If it\'s endurable, then endure it. Stop complaining.',
+        'Marcus Aurelius',
     ],
-    [
-        'To know nothing is the happiest life.',
-        'Oksana Baiul',
+    '1c974813-8631-5666-886e-8da452e0cb5d' => [
+        'Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art.',
+        'Andy Warhol',
     ],
-    [
-        'To be able to throw one\'s self away for the sake of a moment, to be able to sacrifice years for a woman\'s smile - that is happiness.',
-        'Hermann Hesse',
+    '51a72f6b-5189-5194-a461-9b323955985c' => [
+        'Nobody ever went broke underestimating the taste of the American public.',
+        'H. L. Mencken',
     ],
-    [
-        'Indeed, our particular concept of private property, which deters us from exhausting the positive resources of the earth, favors pollution.',
-        'Garrett Hardin',
+    '6c77d3e8-a541-5f83-97b0-aaece01738db' => [
+        'The greatest antidote to insecurity and the sense of fear is compassion, it brings one back to the basis of one\'s inner strength',
+        'Dalai Lama',
     ],
-    [
-        'Happiness doesn\'t depend on any external conditions, it is governed by our mental attitude.',
-        'Dale Carnegie',
+    '78a32e9c-47e2-5aa8-91d4-e2508683b216' => [
+        'A man who doesn\'t trust himself can never really trust anyone else.',
+        'Cardinal Retz',
     ],
-    [
-        'As the rest of the world is walking out the door, your best friends are the ones walking in.',
-        'Unknown',
+    '84c4556c-8c50-5cf3-a185-fb0ebf8ba51c' => [
+        'I hated every minute of training, but I said, \'Don\'t quit. Suffer now and live the rest of your life as a champion.\'',
+        'Muhammad Ali',
     ],
-    [
-        'I went to a motivational training course once, a course of self-discovery, and I found out after a week that my fear - it was not a fear of not being accepted - was a very violent fear of failure.',
-        'Emanuel Steward',
+    'd2dca1e7-4a27-53cd-9b51-7466853a92ba' => [
+        'It was just like a dream. I could have ended up with an album that\'s not all that different from anything else coming out of Nashville. Mutt made the difference. He took these songs, my attitude, my creativity, and colored them in a way that is unique.',
+        'Shania Twain',
     ],
-    [
-        'Anyone who has to fight, even with the most modern weapons, against an enemy in complete command of the air, fights like a savage against modern European troops, under the same handicaps and with the same chances of success.',
-        'Erwin Rommel',
+    '31e0300e-15ad-5de0-82c3-98b2cb1718c3' => [
+        'The skills I acquired in Southeastern Louisiana University, Thrifty Drugs, Pacific Mutual, along with knowing the history, behavior and local staff, helped make Golden Eagle a success story.',
+        'Roger Wang',
     ],
-    [
-        'From very early on in my childhood - four, five years old - I felt alien to the human race. I felt very comfortable with thinking I was from another planet, because I felt disconnected - I was very tall and skinny, and I didn\'t look like anybody else, I didn\'t even look like any member of my family.',
-        'Patti Smith',
+    '15ea5103-01c2-5e11-87cc-cd5fc6195d18' => [
+        'You don\'t want to love - your eternal and abnormal craving is to be loved. You aren\'t positive, you\'re negative. You absorb, absorb, as if you must fill yourself up with love, because you\'ve got a shortage somewhere.',
+        'D. H. Lawrence',
     ],
-    [
-        'It\'s fun to be on the edge. I think you do your best work when you take chances, when you\'re not safe, when you\'re not in the middle of the road, at least for me, anyway.',
-        'Danny DeVito',
+    '007e1e22-d23c-51cb-afe2-d0aba74cea1b' => [
+        'Teaching was the hardest work I had ever done, and it remains the hardest work I have done to date.',
+        'Ann Richards',
     ],
-    [
-        'I try to look cute all the time.',
-        'Sloane Stephens',
+    '72246671-93ef-5a9b-b2d9-e7b191f0496e' => [
+        'There is nothing in which the birds differ more from man than the way in which they can build and yet leave a landscape as it was before.',
+        'Robert Wilson Lynd',
     ],
-    [
-        'The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature.',
-        'Joseph Campbell',
+    'ca79582b-24d3-5779-8331-8474f3d8a60e' => [
+        'If you take the contempt some Americans have for yuppies and multiply it by 10 you might come close to understanding their attitude towards the City, as they call it - London, the people of the south.',
+        'Martin Cruz Smith',
     ],
-    [
-        'What lies behind us and what lies before us are tiny matters compared to what lies within us.',
-        'Ralph Waldo Emerson',
+    '5787b180-6e6b-55e5-8532-515d49937a3d' => [
+        'We should all be thankful for those people who rekindle the inner spirit.',
+        'Albert Schweitzer',
     ],
-    [
-        'My writing is a combination of three elements. The first is travel: not travel like a tourist, but travel as exploration. The second is reading literature on the subject. The third is reflection.',
-        'Ryszard Kapuscinski',
+    '2194c5c4-59f7-55e5-a40c-cd6cdc3fd0cd' => [
+        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
+        'Kurt Cobain',
     ],
-    [
-        'Inspirational leaders need to have a winning mentality in order to inspire respect. It is hard to trust in the leadership of someone who is half-hearted about their purpose, or only sporadic in focus or enthusiasm.',
-        'Sebastian Coe',
-    ],
-    [
-        'A lasting solution to this problem will have an exceptionally positive influence foremost on the peoples of Palestine and Israel, as well as on the region and the international community.',
-        'Recep Tayyip Erdogan',
-    ],
-    [
-        'Don\'t fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.',
-        'Unknown',
-    ],
-    [
-        'I drank some boiling water because I wanted to whistle.',
-        'Mitch Hedberg',
+    'c316b6fe-da64-5a38-9dd7-11832427ec73' => [
+        'Furloughing a bunch of air traffic controllers has a pretty easy-to-predict effect on air travel: It causes delays.',
+        'Alex Pareene',
     ],
 ];

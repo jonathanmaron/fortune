@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When you are missing someone, time seems to move slower, and when I\'m falling in love with someone, time seems to be moving faster.',
-        'Taylor Swift',
+    '0e82b8b8-42d8-5b1c-bbee-cd127bff0613' => [
+        'Being angry never solves anything.',
+        'Catherine Pulsifer',
     ],
-    [
+    'b78dd95e-7a53-535b-ba2c-adc970f3ad4b' => [
+        'I\'ve learned that mistakes can often be as good a teacher as success.',
+        'Jack Welch',
+    ],
+    '87a2405e-4330-586a-b8d0-cc4028760187' => [
+        'I think we all suffer from guilt at some point in our lives, but for the most part, I never really regret, and I try to always remain positive.',
+        'Channing Tatum',
+    ],
+    '1fa165fb-debd-5e22-b63a-6c7edf66b07b' => [
+        'Knowing yourself, and learning to love yourself as you are, is the beginning of beauty. I think the most important thing is to show off what\'s most beautiful about you and to hide what\'s less beautiful.',
+        'Sonia Rykiel',
+    ],
+    '02e1d425-d45d-528c-a1bc-1aeff63b038d' => [
+        'Part of our tradition as black women is that we are universalists. Black children, yellow children, red children, brown children, that is the black woman\'s normal, day-to-day relationship. In my family alone, we are about four different colors.',
+        'Alice Walker',
+    ],
+    '07d763d6-0454-556d-8ef1-9ebd53425cdc' => [
+        'Because of the dog\'s joyfulness, our own is increased. It is no small gift. It is not the least reason why we should honor as love the dog of our own life, and the dog down the street, and all the dogs not yet born.',
+        'Robert Louis Stevenson',
+    ],
+    '07032155-5b58-520d-9ef7-f0df10be93bc' => [
+        'Fears are nothing more than a state of mind.',
+        'Napoleon Hill',
+    ],
+    '774249fe-1e9e-50ef-adbe-4baebaa8dac3' => [
         'Part of doing good work is caring deeply about it, believing in what you\'re doing, and getting incredibly attached to the characters that you\'re playing, the stories you\'re telling, and the people you\'re working with.',
         'Ari Graynor',
     ],
-    [
-        'Anybody who knows me knows that I\'m just here to put a smile on people\'s faces.',
-        'Jason Mitchell',
+    'b4d4ba38-c298-5e5c-bb76-2dbdc380a2ae' => [
+        'Every bit of joy in my heart, you know, every smile on my face is yours. It\'s awesome to be able to share that with somebody.',
+        'Brantley Gilbert',
     ],
-    [
-        'Time is more valuable than money, because time is irreplaceable.',
-        'John C. Maxwell',
+    '50597116-d24b-58eb-9e8a-33bacc02450c' => [
+        'My attitude is govern as if you\'ve run your last race. That\'s not to say I\'ve run my last race, but govern with a liberation and a freedom; change your mind frame to operate that way.',
+        'Rahm Emanuel',
     ],
-    [
-        'I define success as being comfortable with yourself and your life. And that is about as good as it gets, really.',
-        'Treat Williams',
+    '1e543689-47f7-50ed-ac13-828b726a4779' => [
+        'Don\'t forget Mother\'s Day. Or as they call it in Beverly Hills, Dad\'s Third Wife Day.',
+        'Jay Leno',
     ],
-    [
-        'What kind of influence did my parents have on my life? Well, they had the most influence. These are the people who are closest to me. My parents are very positive people. They\'ve been supportive. They\'re always there.',
-        'Derek Jeter',
+    'eaf31235-9e81-5792-be66-577468086ccf' => [
+        'If you can visualize the whole of spring and see Paradise with the eye of belief, you may understand the utter majesty of everlasting Beauty. If you respond to that Beauty with the beauty of belief and worship, you will be a most beautiful creature.',
+        'Said Nursi',
     ],
-    [
-        'There\'s nothing I dislike more than being in a photo shoot where they say, \'Be yourself.\' That\'s not why I became an actress. That\'s what I find so funny: that you become an actor, and all of a sudden, everyone wants to know about you. But I didn\'t become an actor so I could show you me.',
-        'Margot Robbie',
+    'a35659a0-5730-5545-8858-f0b75f52d830' => [
+        'Jews have deep respect for the Queen and the royal family. We say a prayer for them every Sabbath in synagogue. We recite a special blessing on seeing the Queen.',
+        'Jonathan Sacks',
     ],
-    [
-        'Technology gives us the facilities that lessen the barriers of time and distance - the telegraph and cable, the telephone, radio, and the rest.',
-        'Emily Greene Balch',
+    '18606d75-0817-52a8-83e7-af15ad3f6dce' => [
+        'I don\'t see the desert as barren at all; I see it as full and ripe. It doesn\'t need to be flattered with rain. It certainly needs rain, but it does with what it has, and creates amazing beauty.',
+        'Joy Harjo',
     ],
-    [
-        'One day you will wake up and there won\'t be any more time to do the things you\'ve always wanted. Do it now',
-        'Paulo Coelho',
+    '763f4e1e-5853-5917-96bb-3f523d7d9bbc' => [
+        'If someone does something in an entertainment/pop ambience, that person becomes someone who has an impact on the conduct and attitude of a huge number of people who peripherally come in contact with them.',
+        'Richard Attenborough',
     ],
-    [
-        'I collect crystals and gemstones, and I\'ve been collecting them since I was a little girl. They give me positive energy and strength. They make me feel connected to the earth. I cherish them.',
-        'Isabel Lucas',
+    '4e35ffba-f926-51d7-9a1e-d5f9cfaeb962' => [
+        'I quite like the idea of family. That\'s probably the greatest achievement in the world. I\'ve got a lot to achieve workwise - I\'d love to direct - but family would be good.',
+        'Matt Smith',
     ],
-    [
-        'Wrong life cannot be lived rightly.',
-        'Walter Hagen',
+    '3fdb18a6-b0ae-5611-b7b6-4068242cfbbe' => [
+        'Success in the majority of circumstances depends on knowing how long it takes to succeed.',
+        'Charles de Montesquieu',
     ],
-    [
-        'All art is but imitation of nature.',
-        'Lucius Annaeus Seneca',
+    'eac12ad1-3700-5f42-b6e7-04abc7b8ac8e' => [
+        'Beauty is only skin deep. I think what\'s really important is finding a balance of mind, body and spirit.',
+        'Jennifer Lopez',
     ],
-    [
-        'What I love best in life is new starts.',
-        'Karl Lagerfeld',
+    '900903e7-1f24-50e6-83cd-c38b9dc24d85' => [
+        'Now that I\'m older, I have a much better appreciation of nature, and I love being alone.',
+        'Gia Coppola',
     ],
-    [
-        'I can\'t believe the pro-choicers attitude toward unborn children-to me it\'s the ultimate liberal cause, to defend those without a voice.',
-        'Michael Aston',
+    '8fedfce9-d249-5e61-a004-00774927bebe' => [
+        'There\'s a lot of things that go on when you\'re on tour that cannot be controlled. I\'m not even talking about myself, but of course there\'s sexual activity and drugs, fighting and language; it is certainly not a place to raise a family.',
+        'Peter Steele',
     ],
-    [
-        'We read the world wrong and say that it deceives us.',
-        'Rabindranath Tagore',
+    '47e25125-429e-5569-babc-93fd18bcd9b7' => [
+        'Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.',
+        'Napoleon Hill',
     ],
-    [
-        'Kids go to school and college and get through, but they don\'t seem to really care about using their minds. School doesn\'t have the kind of long term positive impact that it should.',
-        'Howard Gardner',
+    'ca3038c7-905a-59eb-a1c1-75cda36d1598' => [
+        'Success is simple. Do what\'s right, the right way, at the right time.',
+        'Arnold H. Glasow',
     ],
-    [
-        'There\'s something about the ukulele that just makes you smile. It makes you let your guard down. It brings out the child in all of us.',
-        'Jake Shimabukuro',
+    '1329e0eb-8333-5ede-a5b0-2c76eca59eaa' => [
+        'If the stars should appear but one night every thousand years how man would marvel and adore.',
+        'Ralph Emerson',
     ],
-    [
-        'Of all the inventions of humans, the computer is going to rank near or at the top as history unfolds and we look back. It is the most awesome tool that we have ever invented. I feel incredibly lucky to be at exactly the right place in Silicon Valley, at exactly the right time, historically, where this invention has taken form.',
-        'Steve Jobs',
+    '2ca93604-a126-5fbe-87d3-7be8b02b8909' => [
+        'You know it\'s only 50 miles from Grand River to Canton, but it took me 67 years to travel that distance.',
+        'Don Shula',
     ],
-    [
-        'Everything is funny, as long as it\'s happening to somebody else.',
-        'Will Rogers',
-    ],
-    [
-        'What makes photography a strange invention is that its primary raw materials are light and time.',
-        'John Berger',
-    ],
-    [
-        'It is not light that we need, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake.',
-        'Frederick Douglass',
-    ],
-    [
-        'The \'Aladdin\' thing - that\'s not work; that\'s just fun. Three days in the recording studio going mad, then the animators do all the work. Not a bad way to cash a large check, my friend.',
-        'Robin Williams',
-    ],
-    [
-        'Lead singers not only do the majority of the work, but their personalities are singled out and taken as the general attitude of the unit.',
-        'Martha Reeves',
-    ],
-    [
-        'I\'m always going to try to win with a positive mindset.',
-        'Brock Osweiler',
-    ],
-    [
-        'America is the most grandiose experiment the world has seen, but, I am afraid, it is not going to be a success.',
-        'Sigmund Freud',
+    '8d2f900c-17f2-5e75-aa75-202593569b31' => [
+        'The importance of satire is bringing more people to the table. There are a lot of average citizens who aren\'t interested in politics and would be more interested if it\'s brought to them in a comedic, funny, satirical way.',
+        'Bassem Youssef',
     ],
 ];

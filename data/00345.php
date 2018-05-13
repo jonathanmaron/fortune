@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I think those who invest in mutual funds want someone else to do the thinking for them. But the fact that they can move the money around the family of mutual funds just through a phone call lets them feel that they can play tycoons.',
-        'Ron Chernow',
+    '148e34e8-479c-562b-818c-61a6f7a4c65c' => [
+        'You can\'t really be strong until you see a funny side to things.',
+        'Ken Kesey',
     ],
-    [
-        'A day of worry is more exhausting than a day of work.',
-        'John Lubbock',
+    '42ab11c7-d586-5a01-b2b9-b31416474eca' => [
+        'Success leaves clues, and if you sow the same seeds, you\'ll reap the same rewards.',
+        'Brad Thor',
     ],
-    [
-        'Do not wait to strike till the iron is hot; but make it hot by striking.',
-        'William Butler Yeats',
+    '5c3f9f3c-d94e-5469-b080-7b82ee3376bd' => [
+        'I\'d like to one day be featured on a list of inspirational people who have made a difference in the world, whether it be helping underprivileged people or putting an end to the poaching of wildlife in Africa.',
+        'Candice Swanepoel',
     ],
-    [
-        'I believe that the best cameraman is one who recognizes the source, the story, as the basis of his work.',
-        'James Wong Howe',
+    '416cfabe-e40d-5ebc-87ec-c0908a8c0b62' => [
+        'I love things made out of animals. It\'s just so funny to think of someone saying, \'I need a letter opener. I guess I\'ll have to kill a deer.',
+        'David Sedaris',
     ],
-    [
-        'The World Cup tournament overall and, naturally, the new stadiums at its heart, are the ideal platform to portray Germany as a positive and exceptional location, and above all of course, as a highly capable economic location.',
-        'Franz Beckenbauer',
+    'c88b2757-e8cf-5ac9-9bf2-8a310af35cec' => [
+        'There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed.',
+        'Ray Goforth',
     ],
-    [
-        'I\'m fascinated with being able to travel the world via \'Instagram\' and just be somewhere different.',
-        'Mike Krieger',
+    'cf3ef55f-2cbb-5755-abf0-d91d1aff8366' => [
+        'Success is like death. The more successful you become, the higher the houses in the hills get and the higher the fences get.',
+        'Kevin Spacey',
     ],
-    [
-        'I would say I\'m a nice person, and I take pride in the fact that I treat everyone really well, so there\'s no reason for anyone to ever come at me because I only want the best for everybody else.',
-        'Miley Cyrus',
+    '6770db5f-0898-5d2d-bf98-371dfd1fe95f' => [
+        'We rise by lifting others.',
+        'Robert G. Ingersoll',
     ],
-    [
-        'In my whole career, I\'ve never seen this type of race that you had to wait for the last day. There\'s so many teams that are involved. You\'ve got to smile because we\'re in it.',
-        'David Wells',
+    '810571aa-40d2-574c-97e4-7c9ef9457ed1' => [
+        'Adopting a really positive attitude can work wonders to adding years to your life, a spring to your step, a sparkle to your eye, and all of that.',
+        'Christie Brinkley',
     ],
-    [
-        'Life experience is what defines our character, even if it means getting your heart broken or being lied to. You know, you need the downs to appreciate the ups. Going on the adventure or taking that risk is important.',
-        'Victor Hugo',
+    '85a27431-f516-5893-bc3d-e1891fc3515b' => [
+        'Unemployment insurance, abolishing child labor, the 40-hour work week, collective bargaining, strong banking regulations, deposit insurance, and job programs that put millions of people to work were all described, in one way or another, as \'socialist.\' Yet, these programs have become the fabric of our nation and the foundation of the middle class.',
+        'Bernie Sanders',
     ],
-    [
-        'Reading - the best state yet to keep absolute loneliness at bay.',
-        'William Styron',
+    'beb07908-b722-5de0-a73f-fbbdcf977c26' => [
+        'Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.',
+        'Byron Pulsifer',
     ],
-    [
-        'Nature is at work. Character and destiny are her handiwork. She gives us love and hate, jealousy and reverence. All that is ours is the power to choose which impulse we shall follow.',
-        'David Seabury',
+    'f1829d3a-cf24-5a63-8267-9a408024c660' => [
+        'I am the baby in the family, and I always will be. I am actually very happy to have that position. But I still get teased. I don\'t mind that.',
+        'Janet Jackson',
     ],
-    [
-        'Life is what you make of it. Always has been, always will be.',
-        'Grandma Moses',
+    '78ce025b-6232-546f-9fab-72830f89927a' => [
+        'You look at the tremendous success of Facebook. To my mind there is not a lot of commerce going on in these social networking sites. eBay is a community anchored in commerce. It is a commerce site that built a community around it. What has not been proven is if the reverse can happen and people will go to community sites to do commerce.',
+        'Meg Whitman',
     ],
-    [
-        'I get nostalgic for British negativity. There is an inherent hope and positive drive to New Yorkers. When you go back to Britain, everybody is just running everything down. It\'s like whatever the opposite of a hug is.',
-        'John Oliver',
+    '0c496621-2607-55a7-8065-067a2374053c' => [
+        'Too many people say to their brokers, I can\'t deal with this. Take my money. Do what you want. That\'s the worst attitude you can have.',
+        'Maria Bartiromo',
     ],
-    [
-        'To me, the word \'hero\' hasn\'t got positive or negative value - \'hero\' is the person who leads you through the story.',
-        'Pierfrancesco Favino',
+    'dd091334-30c4-5094-86aa-55d06685054d' => [
+        'I want to live my life, not record it.',
+        'Jensen Ackles',
     ],
-    [
-        'Fear is a darkroom where negatives develop.',
-        'Usman Asif',
+    'a203fb32-336b-56fd-bb01-c14024f3ee15' => [
+        'Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.',
+        'Norman Vincent Peale',
     ],
-    [
-        'I\'ve played a ghost, cat, snake. I\'ve been funny, sad. I\'ve been filmed flying on screen. So why not spend time on something else? I don\'t need to accept everything I\'m offered.',
-        'Maggie Cheung',
+    '4bee81cb-b596-53ff-879b-e0919258c3d2' => [
+        'The truth you believe and cling to makes you unavailable to hear anything new.',
+        'Pema Chodron',
     ],
-    [
-        'Proving I\'m a good mother is the one achievement I\'m most proud of. It\'s brought out the best in me.',
-        'Sheena Easton',
+    'bda5fb6b-467a-5b5d-bcb4-715335946a33' => [
+        'Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'To refrain from imitation is the best revenge.',
-        'Marcus Aurelius',
+    '51a21aa6-4cae-5ea6-848d-8857cf8d42b2' => [
+        'I have a boutique in L.A. and travel there frequently. My visits always put me in a good mood. Maybe it\'s all the sunshine. I could totally live in L.A.',
+        'Monika Chiang',
     ],
-    [
-        'And I like the look on people\'s faces when I say I\'m doing this movie called Pride and Prejudice and they kind of smile, and then I say I\'m in a movie called Doom and they kind of do a double take and try and put the two things together. And they never quite manage to.',
-        'Rosamund Pike',
+    '018ab537-976f-55e7-a0e9-a6775be217d8' => [
+        'I have a lot of very close girlfriends and sisters - I\'m from an all female family. My father often quips that even the cat was neutered!',
+        'Shirley Manson',
     ],
-    [
-        'For my part I know nothing with any certainty, but the sight of the stars makes me dream.',
-        'Vincent Van Gogh',
+    '164de961-f62e-5c08-8305-3ea20bf4ffd9' => [
+        'Let the gentle bush dig its root deep and spread upward to split one boulder.',
+        'Carl Sandburg',
     ],
-    [
-        'You may only be someone in the world, but to someone else, you may be the world.',
-        'Unknown',
+    'c3a8c165-3a14-59c8-920b-904c6c220e32' => [
+        'A guilty conscience needs to confess. A work of art is a confession.',
+        'Albert Camus',
     ],
-    [
-        'I don\'t mean to be funny.',
-        'Yogi Berra',
+    '8a39945f-c6ec-5966-9207-c26747e89b48' => [
+        'There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.',
+        'Alfred Korzybski',
     ],
-    [
-        'You\'ve got a movie where the pro-choice family gives their daughter no choice. The pro-life family murders. What seems to be the good mother, the kind of hippie painter, sweet and cute mother has no love for her daughter really.',
-        'Ellen Barkin',
+    '639bd516-a024-59b2-8412-8f2a585eac60' => [
+        'Before the sacred, people lost all sense of power and all confidence; they occupy a powerless and humble attitude toward it. And yet no thing is sacred of itself, but by declaring it sacred, by my declaration, my judgment, my bending the knee; in short, by my - conscience.',
+        'Max Stirner',
     ],
-    [
-        'The best way to learn is by doing. The only way to build a strong work ethic is getting your hands dirty.',
-        'Alex Spanos',
+    'b4ed23c7-6e7d-54b1-8003-1dd26944119e' => [
+        'But I like not these great success of yours; for I know how jealous are the gods.',
+        'Herodotus',
     ],
-    [
-        'Is it right to probe so deeply into Nature\'s secrets? The question must here be raised whether it will benefit mankind, or whether the knowledge will be harmful.',
-        'Pierre Curie',
+    'd134d467-2b37-571e-bf98-6e89e5a54faa' => [
+        'Trust in dreams, for in them is hidden the gate to eternity.',
+        'Khalil Gibran',
     ],
 ];

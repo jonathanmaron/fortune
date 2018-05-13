@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Luck is not chance, it\'s toil; fortune\'s expensive smile is earned.',
-        'Emily Dickinson',
+    '3dff4755-e030-5ba3-9338-d1f0cdd027ef' => [
+        'Where the spirit does not work with the hand, there is no art.',
+        'Leonardo da Vinci',
     ],
-    [
-        'Most of the things we decide are not what we know to be the best. We say yes, merely because we are driven into a corner and must say something.',
-        'Frank Crane',
+    '2fe1347c-bea7-5f30-9493-f6a0c918cabc' => [
+        'Choose your corner, pick away at it carefully, intensely and to the best of your ability and that way you might change the world.',
+        'Charles Eames',
     ],
-    [
-        'One of the hardest decision you\'ll ever face in life is choosing whether to walk away or try harder.',
-        'Ziad K. Abdelnour',
+    'b46aee98-6da7-5e65-9fd0-d1f0f6fd8f04' => [
+        'There are some women whose pregnancy would make some sly bachelor smile.',
+        'Honore de Balzac',
     ],
-    [
-        'And finally Winter, with its bitin\', whinin\' wind, and all the land will be mantled with snow.',
-        'Roy Bean',
+    '3165cc24-48a7-528c-b974-f489f7a6017b' => [
+        'It is an immutable law in business that words are words, explanations are explanations, promises are promises-but only performance is reality.',
+        'Harold S. Geneen',
     ],
-    [
-        'My attitude is, a monument, a statue, ought to signify unity instead of division.',
-        'Bill Nelson',
+    '65291f54-20fd-503b-a8d0-e26215bc2175' => [
+        'To be able to look back upon ones life in satisfaction, is to live twice.',
+        'Thomas A. Edison',
     ],
-    [
-        'Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it. I never heard of anyone ever stumbling on something sitting down.',
-        'Charles F. Kettering',
+    '9e20b36d-c665-5e4d-994c-60169f67a1e0' => [
+        'I hate going to L.A. and dealing with the contempt people have for television and television actors. It\'s unbelievable the kind of attitude people take toward what is the most exciting medium we\'ve got right now.',
+        'Michael Moriarty',
     ],
-    [
-        'I was so naive as a kid I used to sneak behind the barn and do nothing.',
-        'Johnny Carson',
+    '4d5c8c0e-20dc-5fde-9320-d3547b2466ca' => [
+        'Weddings seem to be magnets for mishap and for whatever craziness lurks in family closets. In more ways than one, weddings bring out the ding-dong in everybody involved.',
+        'Robert Fulghum',
     ],
-    [
-        'Almost every college playwright or sketch or improv comedian was sort of aware of Christopher Durang - even kids in high school. His short plays were so accessible to younger people and I think that was inspirational to me.',
-        'Mindy Kaling',
+    'dcf765f9-838b-5c96-8269-bc625756dacc' => [
+        'The next time you have a thought... let it go.',
+        'Ron White',
     ],
-    [
-        'Ideals are an imaginative understanding of that which is desirable in that which is possible.',
-        'Walter Lippmann',
+    '6acb83f3-5b91-5d27-8224-9488cd6c33c8' => [
+        'If you want to be truly successful invest in yourself to get the knowledge you need to find your unique factor. When you find it and focus on it and persevere your success will blossom.',
+        'Sydney Madwed',
     ],
-    [
-        'Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.',
-        'Walt Disney',
+    '787f9a09-ead0-5cea-b5ca-070a51fc11ee' => [
+        'I have looked into your eyes with my eyes. I have put my heart near your heart.',
+        'Pope John XXIII',
     ],
-    [
-        'All journeys have secret destinations of which the traveler is unaware.',
-        'Martin Buber',
+    '0d801012-1e38-528c-b027-cd1678500d3d' => [
+        'The supreme accomplishment is to blur the line between work and play.',
+        'Arnold J. Toynbee',
     ],
-    [
-        'Beauty is perfect in its imperfections, so you just have to go with the imperfections.',
-        'Diane von Furstenberg',
+    '289b2941-2729-5d0c-9681-da3b6b1c605f' => [
+        'I don\'t believe in an outside agent that creates the world, then walks away. But I feel very strongly there is an intelligence at work in every flower, in every blade of grass, in every cell of my body. And it is that intelligence that, I wouldn\'t say created the universe. It is creating the universe. It\'s an ongoing process.',
+        'Eckhart Tolle',
     ],
-    [
-        'Who does not desire such a victory by which we shall join places in our Kingdom, so far divided by nature, and for which we shall set up trophies in another conquered world?',
-        'Alexander the Great',
+    'c2376e87-716a-5d8c-9ab5-cf9975816d40' => [
+        'I\'m just trying to be the me that I am and not all of this other crap. I just want to be the family man, and if somehow I can make the money to get my ranch and get the hell away from everybody else, that would be awesome.',
+        'Chris Kyle',
     ],
-    [
-        'Note to self: Keep going. You\'re doing great. You might not be where you want to be yet, but that\'s okay. Just take it one step at a time and keep believing in yourself. And remember: No matter what happens, you can still enjoy your life and be happy.',
-        'Lori Deschene',
+    '0c72a8e8-b878-52e5-ab92-8c086000236b' => [
+        'Every man\'s life is a fairy tale written by God\'s fingers.',
+        'Hans Christian Andersen',
     ],
-    [
-        'I would never die for my beliefs because I might be wrong.',
-        'Bertrand Russell',
+    '87d8847f-9af8-56fd-bb9d-7c227450cba2' => [
+        'I think that public service is tough on a family - no ifs, ands, buts about it. I have my own personal wishes, but they\'re not always front and center.',
+        'Maria Shriver',
     ],
-    [
-        'Set a goal to achieve something that is so big, so exhilarating that it excites you and scares you at the same time.',
-        'Bob Proctor',
+    '461e2aed-d688-583b-91d3-bff485293faa' => [
+        'The possibility of a scientific treatment of history means a wider experience, a greater maturity of practical reason, and finally a fuller realization of certain basic ideas regarding the nature of life and time.',
+        'Muhammad Iqbal',
     ],
-    [
-        'I wouldn\'t totally rule out doing Letterman or the Tonight Show if I had a set that I just happened to write that I thought was funny but was still appropriate for network censors. But I\'m not going to go out of my way.',
-        'Joe Rogan',
+    'e4d0fd9d-df9b-5658-8509-25ebddcc580a' => [
+        'When I write a goal down - and I truly write them down - it becomes a part of me. That\'s a contract that I sign with myself to say, \'I don\'t care what happens - I\'m going to stay on this path. I\'m going to try and see this through; I\'m going to give it my best shot, my best effort.\'',
+        'Gail Devers',
     ],
-    [
-        'The attitude of independence toward a constructed language which all national speakers must adopt is really a great advantage, because it tends to make man see himself as the master of language instead of its obedient servant.',
-        'Edward Sapir',
+    '8830b80e-794d-57cf-8d24-1979ae132366' => [
+        'Custom, that is before all law; Nature, that is above all art.',
+        'Samuel Daniel',
     ],
-    [
-        'The final proof of greatness lies in being able to endure criticism without resentment.',
-        'Elbert Hubbard',
+    '6dc26f05-8d2f-54e1-81ec-9dfcb04eb730' => [
+        'There is no way to happiness, happiness is the way.',
+        'Thich Nhat Hanh',
     ],
-    [
-        'Steady, firm, and kind government of prisoners is the truest humanity and the best exercise of duty. It is with convicts as with children: unseasonable indulgence, indiscreetly granted, leads to mischiefs which we may deplore but cannot repair.',
-        'Dorothea Dix',
+    '495f7433-a79e-54e8-a19f-be8308838e26' => [
+        'It\'s a blessing because the Baldwin vibe on the street is what I live for the most. I think our name is something that a lot of people get a good feeling about and brings a smile to their face, and we\'re very fortunate.',
+        'Stephen Baldwin',
     ],
-    [
-        'Muslims have a very bad attitude to homosexuality, they\'re very intolerant.',
-        'Pim Fortuyn',
+    'bcb82f61-c072-541f-99d4-10829d813a61' => [
+        'If we just wanted positive emotions, our species would have died out a long time ago.',
+        'Martin Seligman',
     ],
-    [
-        'He is richest who is content with the least, for content is the wealth of nature.',
-        'Socrates',
+    '824c6e19-8d57-524e-9ad6-bd1750153cb2' => [
+        'America won the Cold War by protecting our strategic resources from the threat of foreign control. We must bring the same attitude to our trade relationship with China.',
+        'Jo Ann Emerson',
     ],
-    [
-        'The painter, sculptor, writer, and musician are protected by law. So are inventors. But the chef has absolutely no redress for plagiarism on his work; on the contrary, the more the latter is liked and appreciated, the more will people clamour for his recipes.',
-        'Auguste Escoffier',
+    'fd11400f-6388-5eb0-9511-01551a9cfd90' => [
+        'When we hear the word \'beauty\', we inevitably think that beauty belongs in a special elite realm where only the extraordinary dwells. Yet without realizing it, each day each one of us is visited by beauty. When you actually listen to people, it is surprising how often beauty is mentioned. A world without beauty would be unbearable.',
+        'John O\'Donohue',
     ],
-    [
-        'Success is determined by those whom prove the impossible, possible.',
-        'James Pence',
+    '9a3732a6-1289-50e3-ad89-639cc84416fc' => [
+        'The first voyagers to the stars will be creatures whose life cycle is matched to the voyage: the aeons involved in traversing the galaxy are not daunting to immortal beings. By the end of the third millennium, travel to other stars could be technically feasible. But would there be sufficient motive?',
+        'Martin Rees',
     ],
-    [
-        'No man is free who is not master of himself.',
-        'Epictetus',
+    'a474092a-7ac3-5446-bf39-6e3aa1e63e27' => [
+        'The best thing to do with the best things in life is to give them up.',
+        'Ambrose Bierce',
     ],
 ];

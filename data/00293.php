@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'By living deeply in the present moment we can understand the past better and we can prepare for a better future.',
-        'Thich Nhat Hanh',
+    'cbfc6cbf-573a-5a54-a1bb-3b3bcfa4c48a' => [
+        'Cultivate the habit of zest. Purposefully seek out the beauty in the seemingly trivial. Especially in the trivial. The colors and shapes of the foods you eat. The shadows a vase makes on your table. The interesting faces of the people on the bus with you.',
+        'Karen Salmansohn',
     ],
-    [
-        'I have a very positive attitude to anyone who is protecting the environment, but it\'s inadmissible when people are using it as a means of promoting themselves, using it as a source of self-enrichment. I don\'t want to name any specific examples... but often, environmentalism is used to blackmail companies.',
-        'Vladimir Putin',
+    '7626fd9e-4dd1-56f3-b440-b372bbdde2ae' => [
+        'And I\'m a believer that you take a negative and turn it into a positive, and as it turned out, it was one of the best things that ever happened to me. And so I do appreciate the Ranger staff and the Ranger organization for giving me that opportunity.',
+        'Nolan Ryan',
     ],
-    [
-        'My art is an attempt to reach beyond the surface appearance. I want to see growth in wood, time in stone, nature in a city, and I do not mean its parks but a deeper understanding that a city is nature too-the ground upon which it is built, the stone with which it is made.',
-        'Andy Goldsworthy',
+    '057e5136-a7a4-5673-a1ca-500423aa29a5' => [
+        'The best marriages are the ones where we can go out in the world and really put ourselves out there. A lot of times we\'ll fail, and sometimes we\'ll pull it off. But good marriages are when you can go home and know that your vulnerability will be honored as courage, and that you\'ll find support.',
+        'Brene Brown',
     ],
-    [
-        'Knock the \'t\' off the \'can\'t\'',
-        'George Reeves',
+    '2be6cf79-2ab4-5d2b-82c3-434547e246a1' => [
+        'The true mark of professionalism is the ability to respect everyone else for their styles and always find something positive in every dining experience and highlight it in your thoughts and words.',
+        'Johnny Iuzzini',
     ],
-    [
-        'Did I offer peace today? Did I bring a smile to someone\'s face? Did I say words of healing? Did I let go of my anger and resentment? Did I forgive? Did I love? These are the real questions. I must trust that the little bit of love that I sow now will bear many fruits, here in this world and the life to come.',
-        'Henri Nouwen',
+    '79c20174-d1d9-54a4-ae41-5ebbf2962f6a' => [
+        'It is absolutely impossible to transcend the laws of nature. What can change in historically different circumstances is only the form in which these laws expose themselves.',
+        'Karl Marx',
     ],
-    [
-        'Sister is probably the most competitive relationship within the family, but once the sisters are grown, it becomes the strongest relationship.',
-        'Margaret Mead',
+    'cb649118-d44e-595b-8f97-3d251b77121b' => [
+        'It is more important to eat some carbohydrates at breakfast, because the brain needs fuel right away, and carbohydrate is the best source.',
+        'Andrew Weil',
     ],
-    [
-        'Honesty is the most single most important factor having a direct bearing on the final success of an individual, corporation, or product.',
-        'Ed McMahon',
+    '74632bc0-345b-55ea-88d7-a8b1ffbb4bd3' => [
+        'My best friend is the one who brings out the best in me.',
+        'Henry Ford',
     ],
-    [
-        'I adore Madrid. It\'s my city. If I ever move, it will only be for work. Whenever I travel, I always want to get back home.',
-        'Maria Valverde',
+    'bad78293-19a4-51a4-87f7-a05988cafda5' => [
+        'Science is like a love affair with nature; an elusive, tantalising mistress. It has all the turbulence, twists and turns of romantic love, but that\'s part of the game.',
+        'Vilayanur S. Ramachandran',
     ],
-    [
-        'You need to overcome the tug of people against you as you reach for high goals.',
-        'George S. Patton',
+    'ea58250e-8158-5106-94ad-7a9530850909' => [
+        'I would like to say to people, open your eyes and find beauty where you normally don\'t expect it.',
+        'Jean Paul Gaultier',
     ],
-    [
-        'Cheryl Cole and Katy Perry are two of the hottest girls in the world - and so normal and funny with it. If I was a few years older they are the kind of girls I\'d like to date. I want a younger version of Cheryl and Katy - a mixture of the two would be hot.',
-        'Justin Bieber',
+    '38b7688a-2109-50b0-951a-9208f93e9662' => [
+        'Loving a child doesn\'t mean giving in to all his whims; to love him is to bring out the best in him, to teach him to love what is difficult.',
+        'Nadia Boulanger',
     ],
-    [
-        'Time makes more converts than reason.',
-        'Thomas Paine',
+    'd0aeedcf-ba5a-5e7f-a723-ce7c2614256e' => [
+        'What I am looking for is a blessing not in disguise.',
+        'Jerome K. Jerome',
     ],
-    [
-        'The only thing you have to have is patience and an attitude that you aren\'t ever going to give up.',
-        'Shawn Michaels',
+    'b3768903-f6fe-5749-873b-e9524a69ba55' => [
+        'Only solitary men know the full joys of friendship. Others have their family; but to a solitary and an exile, his friends are everything.',
+        'Willa Cather',
     ],
-    [
-        'Nothing is impossible to him who will try.',
-        'Alexander The Great',
+    '45fd9281-acee-51c9-8f01-b4287e485bd2' => [
+        'The beauty of Maine is such that you can\'t really see it clearly while you live there. But now that I\'ve moved away, with each return it all becomes almost hallucinatory: the dark blue water, the rocky coast with occasional flashes of white sand, the jasper stone beaches along the coast, the pine and fir forests somehow vivid in their stillness.',
+        'Alexander Chee',
     ],
-    [
-        'One does not discover new lands without consenting to lose sight of the shore for a very long time.',
-        'Andre Gide',
+    '674301a5-36be-5071-ac7c-87675b324879' => [
+        'Turn your face toward the sun and the shadows will fall behind you.',
+        'Maori Proverb',
     ],
-    [
-        'Anytime you see a turtle up on top of a fence post, you know he had some help.',
-        'Alex Haley',
+    'e4339129-3ba1-555f-88fd-93727ac085e5' => [
+        'A fit body gives you confidence. And there\'s nothing more impressive than a great attitude, which you can wear on your sleeve. But you\'ll have to remember the difference between being rude and being confident.',
+        'Virat Kohli',
     ],
-    [
-        'The beauty of a face is not a separate quality but a relation or proportion of qualities to each other.',
-        'George Herbert Mead',
+    'e13fb21a-dc22-50fc-bbe5-9651f6dee666' => [
+        '\'In Search of Excellence\' - even the title - is a reminder that business isn\'t dry, dreary, boring, or by the numbers. Life at work can be cool - and work that\'s cool isn\'t confined to Tiger Woods, Yo-Yo Ma, or Tom Hanks. It\'s available to all of us and any of us.',
+        'Tom Peters',
     ],
-    [
-        'In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it.',
-        'Jane Smiley',
+    '772256a5-0803-5939-952c-30737a024c16' => [
+        'I think that a lot of people in all walks of life have the impression, of course, that, \'I specialize in something. I can\'t - I don\'t have the time to read other things. I\'ll just go to pure entertainment when I\'m relaxing, and then I\'ll come back to my pure specialty.\' That produces - that attitude produces idiot savants, unfortunately.',
+        'Robert J. Shiller',
     ],
-    [
-        'Don\'t aim for success if you want it; just do what you love and believe in, and it will come naturally.',
-        'David Frost',
+    '9a82f159-9893-577b-98e9-34fdf781f4a4' => [
+        'Words, like nature, half reveal and half conceal the soul within.',
+        'Alfred Lord Tennyson',
     ],
-    [
-        'People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.',
-        'Rob Siltanen',
+    '9bd3c821-1a9f-5da6-abf6-6a130885f6a3' => [
+        'Most people would assume my business success, and the wealth that comes with it, have brought me happiness. But I know I am successful, wealthy, and connected because I am happy.',
+        'Richard Branson',
     ],
-    [
-        'You\'ve got to be success minded. You\'ve got to feel that things are coming your way when you\'re out selling; otherwise, you won\'t be able to sell anything.',
-        'Benjamin Jowett',
+    '9e6d343f-c46a-5819-b46c-82d26f4e94af' => [
+        'Go, forget me - why should sorrow, O\'er that brow a shadow fling? Go, forget me - and tomorrow, brightly smile and sweetly sing. Smile - though I shall not be near thee; Sing - though I shall never hear thee.',
+        'Charles Wolfe',
     ],
-    [
-        'With each new day in Africa, a gazelle wakes up knowing he must outrun the fastest lion or perish. At the same time, a lion stirs and stretches, knowing he must outrun the fastest gazelle or starve. It\'s no different for the human race. Whether you consider yourself a gazelle or a lion, you have to run faster than others to survive.',
-        'Mohammed bin Rashid Al Maktoum',
+    'c98e818f-b768-5f73-9763-b8679ca0cec1' => [
+        'Art in Nature is rhythmic and has a horror of constraint.',
+        'Robert Delaunay',
     ],
-    [
-        'I don\'t like people who have never fallen or stumbled. Their virtue is lifeless and it isn\'t of much value. Life hasn\'t revealed its beauty to them.',
-        'Boris Pasternak',
+    '24192710-1ce9-5b5f-b791-7dc2240ed77a' => [
+        'In politics you learn to always smile.',
+        'Eliot Spitzer',
     ],
-    [
-        'Like all technology, social media is neutral but is best put to work in the service of building a better world.',
-        'Simon Mainwaring',
+    '6695e0cc-2e17-5ff1-b6d6-64cead6fb6d3' => [
+        'I just want to make people smile.',
+        'Julie Garwood',
     ],
-    [
-        'The sky is always there for me, while my life has been going through many, many changes. When I look up the sky, it gives me a nice feeling, like looking at an old friend.',
-        'Ron White',
+    '59fb2e4a-ff3c-5967-8d80-b050bd078063' => [
+        'Today, we have private airline companies, but if you take a look at a Boeing plane next time you travel, you\'ll see that you are basically taking a ride on a modified bomber.',
+        'Noam Chomsky',
     ],
-    [
-        'Success is simply a matter of luck. Ask any failure.',
-        'Earl Wilson',
+    '884109b5-f7ce-5691-8897-1352d8a93875' => [
+        'Stand up is really fun because if I think of a joke or a funny idea, then I can just go and tell some people and if they laugh, they laugh right away.',
+        'Demetri Martin',
     ],
 ];

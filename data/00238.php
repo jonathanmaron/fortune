@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Always wear a smile because you never know who is watching.',
-        'Gracie Gold',
+    '2b530615-69e0-5051-8d3f-7c639047369f' => [
+        'He who knows that enough is enough will always have enough.',
+        'Lao Tzu',
     ],
-    [
-        'I like to think my dad was easygoing and kind, and I think some of those things have been passed down. I am like him in a sense of being positive and hopeful. He was compassionate, and I\'ve got a lot of that in me as well.',
-        'Joel Osteen',
+    'dbffa2fc-bf31-538a-a395-845eeb5beb05' => [
+        'If you have a fear of flying, don\'t. The data are very clear: If you have to travel someplace, the safest way is by airplane.',
+        'Peter Diamandis',
     ],
-    [
-        'The more you are positive and say, \'I want to have a good life,\' the more you build that reality for yourself by creating the life that you want.',
-        'Chris Pine',
+    '3afa7c7c-25e0-53f4-88a2-8196f98f560c' => [
+        'Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.',
+        'Robert Lynd',
     ],
-    [
-        'Every song you\'re trying to find something that going to connect in different ways but for me the songs that I\'m really drawn to are inspirational, songs that lift you and that everybody can relate to no matter where you\'re from.',
-        'Rodney Atkins',
+    '3283587b-06b3-507f-bb05-e42e324adcb9' => [
+        'I don\'t think our government really has much of a policy about air travel. I would compare the policies of United Arab Emirates, which has done a terrific job recognizing the value of transportation, of travel.',
+        'Jeff Smisek',
     ],
-    [
-        'The beauty, the poetry of the fear in their eyes. I didn\'t mind going to jail for, what, five, six hours? It was absolutely worth it.',
-        'Johnny Depp',
+    'c5da16a8-a84e-596a-9c60-6e2bebbdb55f' => [
+        'Deserve your dream.',
+        'Octavio Paz',
     ],
-    [
-        'The only thing that I travel with is an Ole Henriksen facial cleanser, something that my skin is used to avoid using different soaps at different hotels all the time, and Givenchy Man Pro-Energizing Massive Moisturizer. I usually keep my hair pretty short, too, so I don\'t require a lot of stuff.',
-        'Justin Timberlake',
+    '31ff18b6-259d-5bc6-b9d3-63f80ffbb00c' => [
+        'I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.',
+        'Ranbir Kapoor',
     ],
-    [
-        'The one thing that makes me feel super lucky about my financial success is that I have a housekeeper.',
-        'Gwen Stefani',
+    '13192f7a-1873-55ed-beaa-30f369ef2ee9' => [
+        'I can only do something that my sister or my daughter, if I have one, could watch and feel positive about.',
+        'Romola Garai',
     ],
-    [
-        'I love eating it - grilled chicken, pasta, rice, and other foods that give me long term energy. Every once in a while, my sweet tooth gets the best of me and I have to snack on some candy. Beverage wise, I stick to sports drinks, water, milk, and juice.',
-        'Derrick Rose',
+    'dab32d82-8779-5ff5-8415-8da4c3b76c64' => [
+        'You can\'t go back and make a brand new start. But, you can start now and make a brand new ending.',
+        'Anonymous',
     ],
-    [
-        'Winter is nature\'s way of saying, \'Up yours.\'',
-        'Robert Byrne',
+    '5bab02dc-5712-5719-bf61-534f03ed3c12' => [
+        'Interviewing Rei Kawakubo in Tokyo and John Galliano in Paris, both for \'Pop\' magazine, were huge for me, not just in learning about fashion and writing but about how little desire I had to be a critic/reporter/journalist/commentator so much as a kind of travel diarist.',
+        'Tavi Gevinson',
     ],
-    [
-        'One of the signs of a bad coworker is a pattern of persistent undermining - intentionally hindering a colleague\'s success, reputation, or relationships.',
-        'Adam Grant',
+    '5d0839c1-cd28-52eb-b46e-697e318897d9' => [
+        'I think every chef, not just in America, but across the world, has a double-edged sword - two jackets, one that\'s driven, a self-confessed perfectionist, thoroughbred, hate incompetence and switch off the stove, take off the jacket and become a family man.',
+        'Gordon Ramsay',
     ],
-    [
-        'Human beings, by changing the inner attitudes of their minds, can change the outer aspects of their lives.',
-        'William James',
+    '7f2c6249-c93a-5870-b26f-f18c9524875a' => [
+        'Fishes live in the sea, as men do a-land; the great ones eat up the little ones.',
+        'William Shakespeare',
     ],
-    [
-        'When we long for life without difficulties, remind us that oaks grow strong in contrary winds and diamonds are made under pressure.',
-        'Joan Lunden',
+    '096e8bb4-df99-5f97-8461-d5661b47b285' => [
+        'In the United States there\'s a Puritan ethic and a mythology of success. He who is successful is good. In Latin countries, in Catholic countries, a successful person is a sinner.',
+        'Umberto Eco',
     ],
-    [
-        'What finally is beauty? Certainly nothing that can be calculated or measured. It is always something imponderable, something that lies between things.',
-        'Ludwig Mies van der Rohe',
+    'f7a251ac-2a59-513c-9fe2-bcb76b7139cc' => [
+        'In terms of the Eastern Europe stories, my family is originally from there; even as a kid, it was the Russian writers I loved most, and I\'ve spent a substantial amount of time there myself, traveling and on research grants.',
+        'Molly Antopol',
     ],
-    [
-        'If it looks like a duck, and quacks like a duck, we have at least to consider the possibility that we have a small aquatic bird of the family anatidae on our hands.',
-        'Douglas Adams',
+    '8d89d5a4-9a27-58ee-a15f-fe5908061170' => [
+        'Love and compassion open our own inner life, reducing stress, distrust and loneliness.',
+        'Dalai Lama',
     ],
-    [
-        'Instead of hating, I have chosen to forgive and spend all of my positive energy on changing the world.',
-        'Camryn Manheim',
+    '93108549-ade9-58f3-88b5-74eb204b3c40' => [
+        'I\'d rather be a failure at something I love than a success at something I hate.',
+        'George Burns',
     ],
-    [
-        'To be beautiful means to be yourself. You don\'t need to be accepted by others. You need to be yourself.',
-        'Thich Nhat Hanh',
+    '9ae69f2c-00aa-5425-85b8-08bf08846a63' => [
+        'I\'m quite a particular singer, and I need to feel like I can bite into the song, in a way, to make it my own. You want the challenge of the songs having some attitude.',
+        'Neneh Cherry',
     ],
-    [
-        'I quit therapy because my analyst was trying to help me behind my back.',
-        'Richard Lewis',
+    '9cb09d78-8079-5864-9e3a-544ed413c779' => [
+        'It\'s how you deal with failure that determines how you achieve success.',
+        'Charlotte Whitton',
     ],
-    [
-        'Think of success as a game of chance in which you have control over the odds. As you begin to master concepts in personal achievement, you are increasing your odds of achieving success.',
-        'Bo Bennett',
+    '7dd799f5-f38c-525b-8561-bb29cbfe68ad' => [
+        'Life is half spent before we know what it is.',
+        'Martha Graham',
     ],
-    [
-        'Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.',
-        'Samuel Ullman',
+    'e52253b5-567f-5c1f-a3d9-5c06548340a6' => [
+        'The way positive reinforcement is carried out is more important than the amount.',
+        'B. F. Skinner',
     ],
-    [
-        'I try and stay positive; being negative isn\'t good for my personality. I don\'t just bring myself down, I bring everyone around me down. It\'s like a dark cloud, \'Uh oh, here we go,\' and have to snap out of it.',
-        'Catherine Zeta-Jones',
+    '2e7d0125-50a6-53fd-87fc-fd9eb39c3ed9' => [
+        'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
+        'Jeffrey Gitomer',
     ],
-    [
-        'If the path be beautiful, let us not ask where it leads.',
-        'Anatole France',
+    'c521e8f5-7d84-5fed-8491-643a0554aa14' => [
+        'Elective office and public service are obviously something that have long ties with my family, and something I\'m definitely interested in.',
+        'Joseph P. Kennedy III',
     ],
-    [
-        'The most general law in nature is equity-the principle of balance and symmetry which guides the growth of forms along the lines of the greatest structural efficiency.',
-        'Herbert Read',
+    '400dbd83-771c-5501-af01-481693bff495' => [
+        'It\'s fun to have a partner who understands your life and lets you be you.',
+        'Ann Landers',
     ],
-    [
-        'The men I idolized built their bodies and became somebody - like Sylvester Stallone and Arnold Schwarzenegger - and I thought, \'That can be me.\' So I started working out. The funny thing is I didn\'t realize back then that I was having a defining moment.',
-        'Dwayne Johnson',
+    '12910b62-c8ae-5393-ac80-217723bd64c4' => [
+        'I don\'t think the world focuses on the positive things enough.',
+        'Dwyane Wade',
     ],
-    [
-        'It\'s always funny until someone gets hurt. Then it\'s just hilarious.',
-        'Bill Hicks',
+    '67c91ef7-c8de-58fb-958d-6a52ef902664' => [
+        'I\'ve got a pretty iconoclastic attitude about all institutions myself. And I just think the church was corrupted right after Christ was killed.',
+        'Harry Dean Stanton',
     ],
-    [
-        'I know virtually no one of my age who can remember a hug, or a smile from their father, or a \'Let\'s go play football.\'',
-        'Peter Mullan',
+    '7559cc69-826a-506f-b179-0a1785254139' => [
+        'It takes a lot of energy to be negative. You have to work at it. But smiling is painless. I\'d rather spend my energy smiling.',
+        'Eric Davis',
     ],
 ];

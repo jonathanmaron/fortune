@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I write what I think is funny and I write from a sense of popping a balloon or a sense of injustice, whether it\'s about yourself, or whether it\'s about something else. It\'s my worldview; it doesn\'t mean that everybody has to agree with it.',
-        'Denis Leary',
+    '317882dc-8008-52af-85e9-f842970a378d' => [
+        'Very gifted people, they win and they win, and they are told that they win because they are a winner. That seems like a positive thing to tell children, but ultimately, what that means is when they lose, it must make them a loser.',
+        'Joshua Waitzkin',
     ],
-    [
-        'If a man walks in the woods for love of them half of each day, he is in danger of being regarded as a loafer. But if he spends his days as a speculator, shearing off those woods and making the earth bald before her time, he is deemed an industrious and enterprising citizen.',
-        'Henry David Thoreau',
+    'eb828320-f552-56a7-9ea8-ed871b6542e8' => [
+        'Cherish sunsets, wild creatures and wild places. Have a love affair with the wonder and beauty of the earth.',
+        'Stewart Udall',
     ],
-    [
-        'Life is like riding a bicycle. To keep your balance you must keep moving.',
-        'Einstein',
+    'c7f2032f-90e2-526c-9462-7dcbc4cbe1f5' => [
+        'An empowered organisation is one in which individuals have the knowledge, skill, desire, and opportunity to personally succeed in a way that leads to collective organisational success.',
+        'Stephen Covey',
     ],
-    [
-        'I remember early on, in my very, very early days, I had a makeup artist tell me that I needed to get an attitude. I had no idea what he was talking about.',
-        'Andie MacDowell',
+    '9dd032fe-5f1c-5457-ac45-cf9f8b61faf2' => [
+        'Grit can\'t be measured on pop quizzes, but it can often predict long-term success more than mere intelligence.',
+        'Laura Moser',
     ],
-    [
-        'It is easy to make promises - it is hard work to keep them.',
-        'Boris Johnson',
+    '0326ef88-853d-507b-b424-b35d33e6dffe' => [
+        'Women in particular need to keep an eye on their physical and mental health, because if we\'re scurrying to and from appointments and errands, we don\'t have a lot of time to take care of ourselves. We need to do a better job of putting ourselves higher on our own \'to do\' list.',
+        'Michelle Obama',
     ],
-    [
-        'Treat your kid like a darling for the first five years. For the next five years, scold them. By the time they turn sixteen, treat them like a friend. Your grown up children are your best friends.',
-        'Chanakya',
+    'd800eb75-f83d-5f35-a4e2-17be1978943e' => [
+        'Everyone is a genius at least once a year. A real genius has his original ideas closer together.',
+        'Georg Lichtenberg',
     ],
-    [
-        'Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.',
-        'Pele',
+    'f59b4b1b-d354-53ed-8b22-93dfb586297d' => [
+        'After my husband John Lennon passed away, I tried to smile for my health.',
+        'Yoko Ono',
     ],
-    [
-        'What a wonderful life I\'ve had! I only wish I\'d realized it sooner.',
-        'Liu Xiaobo',
+    'b70300d4-5d65-512f-9870-1141ddbd7a67' => [
+        'I envy those old Greek bathers, into whose hands were delivered Pericles, and Alcibiades, and the perfect models of Phidias. They had daily before their eyes the highest types of Beauty which the world has ever produced; for of all things that are beautiful, the human body is the crown.',
+        'Bayard Taylor',
     ],
-    [
-        'My attitude about Hollywood is that I wouldn\'t walk across the street to pull one of those executives out of the snow if he was bleeding to death. Not unless I was paid for it. None of them ever did me any favors.',
-        'James Woods',
+    '172bb314-9ef0-5ca7-9d90-2cf34f2ccaf8' => [
+        'It\'s a funny thing: You want so badly for people to see what you do - you\'re proud of it - and I like the effect that movies have on people. But the attention can also make me uncomfortable.',
+        'Kristen Stewart',
     ],
-    [
-        'Smile at a stranger. See what happens.',
-        'Patti LuPone',
+    '7091c96e-2bc5-541c-8fe0-0c0d41609641' => [
+        'The diversity of the phenomena of nature is so great, and the treasures hidden in the heavens so rich, precisely in order that the human mind shall never be lacking in fresh nourishment.',
+        'Johannes Kepler',
     ],
-    [
-        'My advice to an aspiring actor would be to never stop learning or working for what you want. Nothing comes easy, ever, if you want something, you have to work for it. By working for it I mean work on your craft, learn from people who have something to teach. It\'s just like anything else, practice makes perfect.',
-        'James Lafferty',
+    '4064ca4b-afb6-5cd1-8a3d-d9df2b6e1b43' => [
+        'Natural ability is important, but you can go far without it if you have the focus, drive, desire and positive attitude.',
+        'Kirsten Sweetland',
     ],
-    [
-        'By \'justice\', I understand nothing more than that bond which is necessary to keep the interest of individuals united, without which men would return to their original state of barbarity. All punishments which exceed the necessity of preserving this bond are, in their nature, unjust.',
-        'Cesare Beccaria',
+    '6ed60daf-feae-5714-910a-a923bf622e24' => [
+        'America is the most grandiose experiment the world has seen, but, I am afraid, it is not going to be a success.',
+        'Sigmund Freud',
     ],
-    [
-        'Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.',
-        'C. S. Lewis',
+    '29edf528-6c4f-596a-b605-f0974f0066d8' => [
+        'In hindsight, I slid into arrogance based upon past success.',
+        'Reed Hastings',
     ],
-    [
-        'Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man\'s life is independent. He is born not for the development of the society alone, but for the development of his self.',
-        'Lenny Kravitz',
+    '421d3ce6-5d3d-5251-901f-ee28c0bae4d0' => [
+        'We have eyes, and we\'re looking at stuff all the time, all day long. And I just think that whatever our eyes touch should be beautiful, tasteful, appealing, and important.',
+        'Eric Carle',
     ],
-    [
-        'Life imitates art far more than art imitates Life.',
-        'Ayn Rand',
+    'c71cdad8-c388-5af3-9093-a558e92f8765' => [
+        'Life\'s tragedy is that we get old too soon and wise too late.',
+        'Ella Woodward',
     ],
-    [
-        'As a model, I really stand for not being a model, if that makes sense. When I started, the whole idea of the model was very different; it was a bit stuck-up. Not stuck-up, but no one was trying to have fun, or not even have fun, but be willing to smile.',
-        'Cara Delevingne',
+    'c7308673-33cf-512e-a740-20ff2c9d9f5e' => [
+        'It\'s sort of a feeling of power onstage. It\'s really the ability to make people smile, or just to turn them one way or another for that duration of time, and for it to have some effect later on. I don\'t really think it\'s power... it\'s the goodness.',
+        'Robert Plant',
     ],
-    [
-        'If you kick a stone in anger, you\'ll hurt your own foot.',
-        'Korean proverb',
+    '546c4b6b-15d3-5a77-b184-7b07d505e297' => [
+        'Wars and elections are both too big and too small to matter in the long run. The daily work - that goes on, it adds up.',
+        'Arthur Miller',
     ],
-    [
-        'The things that make me happiest in the whole world are going on the occasional picnic, either with my children or with my partner; big family gatherings; and being able to go to the grocery store - if I can get those things in, I\'m doing good.',
-        'Kate Winslet',
+    'fe2c3b04-9c08-5606-90e2-d06e2ee1c9b8' => [
+        'Knowing is not enough; we must apply!',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'Success demands singleness of purpose.',
-        'Vince Lombardi',
+    'd7221d98-f1d0-5a18-847b-9bab0648bfbc' => [
+        'Derive happiness in oneself from a good day\'s work, from illuminating the fog that surrounds us.',
+        'Henri Matisse',
     ],
-    [
-        'I found that being with happy positive people annoys me.',
-        'Karl Pilkington',
+    'c2f2310d-7e93-5601-bc77-3ac137e83741' => [
+        'Beauty is ever to the lonely mind a shadow fleeting; she is never plain. She is a visitor who leaves behind the gift of grief, the souvenir of pain.',
+        'Christopher Morley',
     ],
-    [
-        'The difference between a democracy and a dictatorship is that in a democracy you vote first and take orders later; in a dictatorship you don\'t have to waste your time voting.',
-        'Charles Bukowski',
+    '239f7cbd-4eab-5a28-8af4-43492d2817f7' => [
+        'I was born January 6, 1937, eight years after Wall Street crashed and two years before John Steinbeck published The Grapes of Wrath, his Pulitzer Prize-winning novel about the plight of a family during the Great Depression.',
+        'Lou Holtz',
     ],
-    [
-        'This success led my theoretical group to the chemical reactivity theory, extending more and more widely the range of compound and reactions that were discussed.',
-        'Kenichi Fukui',
+    'f0128e66-f028-5e51-bea3-afc5112a15e6' => [
+        'Nine-tenths of wisdom is being wise in time.',
+        'Theodore Roosevelt',
     ],
-    [
-        'I think the best way to get a good night sleep is to work hard throughout the day. If you work hard and, of course, work out.',
-        'William H. McRaven',
+    'a47ec48f-acc2-55f5-8078-32d9ec250942' => [
+        'Your most important friendships should be with your own brothers and sisters and with your father and mother. Love your family. Be loyal to them. Have a genuine concern for your brothers and sisters.',
+        'Ezra Taft Benson',
     ],
-    [
-        'We don\'t stop playing because we grow old; we grow old because we stop playing.',
-        'Bernard Shaw',
+    '361a30f1-6d96-5b6d-923b-66f8071b5a74' => [
+        'While we celebrate our diversity, what surprises me time and time again as I travel around the constituency is that we are far more united and have far more in common with each other than things that divide us.',
+        'Jo Cox',
     ],
-    [
-        'Since we launched the original \'Pop Idol\' in England, I\'ve remained close with Simon Fuller. Working as executive producer on \'American idol\' for its first seven years not only was an inspirational journey into the heart of American pop culture, it opened my eyes to the untapped potential of the incredibly dynamic young people in this world.',
-        'Nigel Lythgoe',
+    'f2cbd4ac-c5f1-5e34-90f4-1797e0623968' => [
+        'When we ask for advice, we are usually looking for an accomplice.',
+        'Saul Bellow',
     ],
 ];

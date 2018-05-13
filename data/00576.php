@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I like my hair long, and I love my bangs. I love them because I can pin them back or keep the fringe with attitude.',
-        'Cassie Steele',
+    'f8f34035-44f2-53b3-b602-7fffd6a486af' => [
+        'If my writing comes to a halt, I head to the shops: I find them very inspirational. And if I get into real trouble with my plot, I go out for a pizza with my husband.',
+        'Sophie Kinsella',
     ],
-    [
-        'Overcome your barriers, intend the best, and be patient. You will enjoy more balance, more growth, more income, and more fun!',
-        'Jack Canfield',
+    '830c7019-ed3c-5b77-b63e-09c966451c77' => [
+        'Life is anything that dies when you stomp on it.',
+        'Zig Ziglar',
     ],
-    [
-        'These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.',
-        'Vernon Cooper',
+    'b260575c-6a32-5ea1-a23e-0dd30f333594' => [
+        'The glow of one warm thought is to me worth more than money.',
+        'Thomas Jefferson',
     ],
-    [
-        'The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools.',
-        'Confucius',
+    '7e110a47-7362-5852-95b3-4d4dc5da40c4' => [
+        'Nobody can do everything, but everybody can do something.',
+        'Unknown',
     ],
-    [
-        'I do kabbalistic meditation. It\'s not unlike time travel; it can change the past and not just the future. You can look at what was lost and go beyond the grief of what was lost.',
-        'Roseanne Barr',
+    'b19b9caa-7334-5701-96d9-cc1a3410f8b7' => [
+        'It\'s best to have failure happen early in life. It wakes up the Phoenix bird in you so you rise from the ashes.',
+        'Anne Baxter',
     ],
-    [
-        'All our dreams can come true, if we have the courage to pursue them.',
-        'Walt Disney',
+    '8c965300-720c-5455-ad23-1ba1b14dcdab' => [
+        'The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.',
+        'Drew Barrymore',
     ],
-    [
-        'I wasn\'t close to my father, but I wanted to be all my life. He had a funny sense of humor, and he laughed all the time - good and loud, like I do. He was a gay Irish gentleman and very good-looking. And he wanted to be close to me, too, but we never had much time together.',
-        'Judy Garland',
+    '2a2052c8-13aa-5de2-81bb-5caa8833bbf7' => [
+        'You can\'t cross the sea merely by standing and staring at the water.',
+        'Rabindranath Tagore',
     ],
-    [
-        'The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.',
-        'Charles R. Swindoll',
+    '8f9b0989-2063-5924-851f-b157b808915f' => [
+        'Many are called but few get up.',
+        'Oliver Herford',
     ],
-    [
-        'Keep true to the dreams of thy youth.',
-        'Friedrich von Schiller',
+    '0888a171-55a6-568b-9a54-5a1b1c6b5994' => [
+        'No universal selfishness can bring social good to all. Communism - the effort to give all men what they need and to ask of each the best they can contribute - this is the only way of human life.',
+        'W. E. B. Du Bois',
     ],
-    [
-        'I used to make up stuff in my bio all the time, that I used to be a professional ice-skater and stuff like that. I found it so inspirational. Why not make myself cooler than I am?',
-        'Stephen Colbert',
+    '13ec3ec8-49c9-58d8-9f4a-ff934c93e85b' => [
+        'The sculptor who deals with form seeks to imprison beauty in a marble statue that will withstand the ravages of time during millenniums; but a marble statue is cold and speaks to but a few of the most evolved who are able to infuse the statue with their own life.',
+        'Max Heindel',
     ],
-    [
-        'Happy is said to be the family which can eat onions together. They are, for the time being, separate, from the world, and have a harmony of aspiration.',
-        'Charles Dudley Warner',
+    'd6928bfa-ecbf-5028-a655-13a52e7620c6' => [
+        'If I buy a Fiat Uno, I\'ll read that, for a man like me, a Ferrari was more suitable. If instead I buy a Ferrari, they\'ll write that I should have kept my feet on the ground and bought a Fiat. If I smile, I\'m not serious. If I don\'t smile, I\'m a rich sulker that doesn\'t enjoy having the most beautiful job in the world.',
+        'Mario Balotelli',
     ],
-    [
-        'I intend to live life, not just exist.',
-        'Brooke Shields',
+    'fcc38085-b9aa-562f-8eba-2062b822cfed' => [
+        'I think if there\'s something one needs to change with oneself, it doesn\'t have to happen in the New Year. You can do that any time you please - not that it\'s not a good inspirational tactic for the people that it works for.',
+        'Brittany Murphy',
     ],
-    [
-        'Unfortunately, we can never truly know if we\'re making the right decision. What we do know is that wherever we are, that\'s where the Light wants us to be. It\'s the best place for us to be now. And as long as we don\'t try to control the situation, then we won\'t end up in the place we shouldn\'t be.',
-        'Yehuda Berg',
+    '885b8fa0-1f3d-5168-bc6f-d6ad8682506a' => [
+        'When you stop chasing the wrong things you give the right things a chance to catch you.',
+        'Lolly Daskal',
     ],
-    [
-        'If you work for it, you\'ll deserve what comes. Hard work.',
-        'DeMar DeRozan',
+    'dca631cc-ed46-5fdb-9a8e-0bfd528d4123' => [
+        'There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.',
+        'Nelson Mandela',
     ],
-    [
-        'All happy families resemble one another, each unhappy family is unhappy in its own way.',
-        'Leo Tolstoy',
+    '3224c789-4e03-5871-a290-0b475e5fbed3' => [
+        'Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.',
+        'Theodore Rubin',
     ],
-    [
-        'Perseverance is failing 19 times and succeeding the 20th.',
-        'Julie Andrews',
+    'ca40a7d3-9ea2-5c4c-87c9-7eb314aeb728' => [
+        'TV is chewing gum for the eyes.',
+        'Frank Lloyd Wright',
     ],
-    [
-        'My second husband believed I had such a fickle attitude to friendship that each Friday he would update the list of my \'Top Ten\' friends in the manner of a Top Of The Pops chart countdown.',
-        'Julie Burchill',
+    'e5063423-089a-5523-b940-d8ad8d768905' => [
+        'Imagination creates reality.',
+        'Richard Wagner',
     ],
-    [
-        'I was very pleased that the positive things about me and my game outshone the aggressive style of play I use. I would never tone that down, because I believe in that style of play, and I believe that you can play rough on the court and still be a good sport.',
-        'Sue Wicks',
+    'b7e33f35-1f6b-52c3-ac1b-b7835f26976b' => [
+        'Guilt is just as powerful, but its influence is positive, while shame\'s is destructive. Shame erodes our courage and fuels disengagement.',
+        'Brene Brown',
     ],
-    [
-        'Beauty is unbearable, drives us to despair, offering us for a minute the glimpse of an eternity that we should like to stretch out over the whole of time.',
-        'Albert Camus',
+    '823447b3-9676-5c61-b7cf-51c270fce6c9' => [
+        'The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.',
+        'J. Robert Oppenheimer',
     ],
-    [
-        'One measure of your success will be the degree to which you build up others who work with you. While building up others, you will build up yourself.',
-        'James E. Casey',
+    '9de9dbc6-e5bd-53b9-8063-fa62ac9e6170' => [
+        'Traveling, you realize that differences are lost: each city takes to resembling all cities, places exchange their form, order, distances, a shapeless dust cloud invades the continents.',
+        'Italo Calvino',
     ],
-    [
-        'It is the power of the mind to be unconquerable.',
-        'Seneca',
+    '02426331-63f8-51b5-a733-d75a65b532b2' => [
+        'While the spoken word can travel faster, you can\'t take it home in your hand. Only the written word can be absorbed wholly at the convenience of the reader.',
+        'Kingman Brewster, Jr.',
     ],
-    [
-        'If you want to meet a woman, it\'s best just to smile and say hi.',
-        'Karen McDougal',
+    '69b8dd03-2d0d-5a7f-a8b8-a6d82d8f73a2' => [
+        'I just sing the stuff that makes me smile, makes me feel like I didn\'t sell myself out.',
+        'Patti LaBelle',
     ],
-    [
-        'The 1st period is won by the best technician. The 2nd period is won by the kid in the best shape. The 3rd period is won by the kid with the biggest heart.',
-        'Dan Gable',
+    '7c941dc8-ae6d-5957-a5c1-998bc66e1644' => [
+        'Give yourself a gift of five minutes of contemplation in awe of everything you see around you. Go outside and turn your attention to the many miracles around you. This five-minute-a-day regimen of appreciation and gratitude will help you to focus your life in awe.',
+        'Eminem',
     ],
-    [
-        'Every year of my life I grow more convinced that it is wisest and best to fix our attention on the beautiful and the good, and dwell as little as possible on the evil and the false.',
-        'Richard Cecil',
+    '37bbf79c-6c6f-5ed3-90aa-f73708f87644' => [
+        'Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time',
+        'Thomas Edison',
     ],
-    [
-        'To work in architecture you are so much involved with society, with politics, with bureaucrats. It\'s a very complicated process to do large projects. You start to see the society, how it functions, how it works. Then you have a lot of criticism about how it works.',
-        'Ai Weiwei',
+    'ae5b9b55-5267-553c-a844-53bd20bfae3f' => [
+        'The negative is just as important as the positive.',
+        'Ellsworth Kelly',
     ],
 ];

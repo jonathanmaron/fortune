@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The more things you do, the more you can do.',
-        'Lucille Ball',
+    '9da04049-75aa-5dd8-b795-c701c9c989e4' => [
+        'Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.',
+        'Ralph Emerson',
     ],
-    [
-        'The ultimate dream in life is to be able to do what you love and learn something from it.',
-        'Tom DeLonge',
+    '082210a5-3e54-51e0-8504-f7e5a535656a' => [
+        'One of the few luxuries left is travel. And the aspect of travel that is luxurious is not the movement, but the being there.',
+        'Andre Balazs',
     ],
-    [
-        'The economy in the Valley will need to grow if students want to come back and work with their specialized degrees. We need to develop more to create more opportunities.',
-        'Frank Murphy',
+    '2729c9d0-530a-5239-88ab-e78d9be63884' => [
+        'My life has been such a blur since I was 18, 19 years old. I haven\'t even had time to contemplate my own life. By forcing yourself to write your life story you learn a great deal about yourself.',
+        'Grant Achatz',
     ],
-    [
-        'I like Aurora, \'Sleeping Beauty,\' because she\'s just sleeping and looking pretty and waiting for boys to come kiss her. Sounds like a good life - lots of naps and cute boys fighting dragons to come kiss you.',
-        'Ariana Grande',
+    '47572f77-2219-53b7-ad18-aa3d743e3a7f' => [
+        'When you\'re watching somebody read your material and they smile and nod, you know you\'ve found that place where your experience and their experience match, even though they aren\'t the same exact experience.',
+        'Chris Crutcher',
     ],
-    [
-        'A few of the sublimest geniuses of Rome and Athens had some faint discoveries of the spiritual nature of the human soul, and formed some probable conjectures, that man was designed for a future state of existence.',
-        'David Brainerd',
+    '2d83c795-1012-5448-b545-98c3c9ebdeda' => [
+        'We have a president who stole the presidency through family ties, arrogance and intimidation, employing Republican operatives to exercise the tactics of voter fraud by disenfranchising thousands of blacks, elderly Jews and other minorities.',
+        'Barbra Streisand',
     ],
-    [
-        'Be who you are and say what you feel, because those who mind don\'t matter and those who matter don\'t mind.',
-        'Dr. Seuss',
+    'c3bf40a8-423c-5683-b36e-51b05ed3a699' => [
+        'This success led my theoretical group to the chemical reactivity theory, extending more and more widely the range of compound and reactions that were discussed.',
+        'Kenichi Fukui',
     ],
-    [
-        'My personal view is that such total planning by the state is an absolute good and not simply a relative good... I do not myself think of the attitude I take as deriving from Marx - though this undoubtedly will be suggested - but from Fichte and Hegel.',
-        'John Grierson',
+    'c9c4b6b7-e1ba-522c-9131-2c2c59349c58' => [
+        'The buffalo is all gone, and an Indian can\'t catch enough jack rabbits to subsist himself and his family, and then, there aren\'t enough jack rabbits to catch. What are they to do?',
+        'George Crook',
     ],
-    [
-        'When I read things like the foundations of capitalism are shattering, I\'m like, maybe we need that. Maybe we need some time where we\'re walking around with a donkey with pots clanging on the sides.',
-        'Louis C. K.',
+    'cc5c0139-d756-5269-b75d-e42dd566d4a4' => [
+        'I want the kids to know that it\'s not a myth that somebody from their city plays and wins in the NBA. I just want to influence them to work hard and do whatever they want to do in life, whether it\'s to be a basketball player or scientist... if they believe in themselves, they can do anything.',
+        'Kawhi Leonard',
     ],
-    [
-        'The music industry is dominated by guys. I work with men 98 percent of the time - producers, arrangers, musicians, engineers.',
-        'Shakira',
+    'ac8ec8e0-55fe-5f1d-84c1-9ba1a6c604e2' => [
+        'Hope... is the companion of power, and the mother of success; for who so hopes has within him the gift of miracles.',
+        'Samuel Smiles',
     ],
-    [
-        'No matter how you feel, Get up, dress up, show up and never give up.',
-        'Anonymous',
+    'e59fe687-3ac3-55e5-b468-12f4890558d3' => [
+        'Life is all about evolution. What looks like a mistake to others has been a milestone in my life. Even if people have betrayed me, even if my heart was broken, even if people misunderstood or judged me, I have learned from these incidents. We are human and we make mistakes, but learning from them is what makes the difference.',
+        'Diane Sawyer',
     ],
-    [
-        'Decision is a risk rooted in the courage of being free.',
-        'Paul Tillich',
+    '85a16c4b-ae56-5414-9d59-6dd1747b0694' => [
+        'As kids we\'re not taught how to deal with success; we\'re taught how to deal with failure. If at first you don\'t succeed, try, try again. If at first you succeed, then what?',
+        'Charlie Sheen',
     ],
-    [
-        'If you believe you can make a difference, then you will make a difference. Believe in yourself, your family and your community and you will win.',
-        'Lindsay Fox',
+    '1cb07f34-42a6-5a71-b1f0-9b42f125e2bf' => [
+        'You know, I\'ve got wrinkles on my forehead and smile lines, but what\'s wrong with that? I love to smile.',
+        'Jennifer Aniston',
     ],
-    [
-        'People are like stained - glass windows. They sparkle and shine when the sun is out, but when the darkness sets in, their true beauty is revealed only if there is a light from within.',
-        'Elisabeth Kubler-Ross',
+    '15b943fc-329a-5312-8344-b950d7680987' => [
+        'When you win, nothing hurts.',
+        'Joe Namath',
     ],
-    [
-        'I always prefer to believe the best of everybody, it saves so much trouble.',
-        'Rudyard Kipling',
+    '6d0dae88-1392-57b8-9d6a-f58479bbdae5' => [
+        'What matters to me is that I do what I think is right and I see, I\'m a numbers guy, that\'s my attitude. I know we have a debt tsunami coming, we are bankrupting this country and I\'m in a position where I can actually advance ideas to prevent that from happening. That\'s exactly what I should be doing.',
+        'Paul Ryan',
     ],
-    [
-        'My Hellboy is modeled on my father in some ways: a guy who\'s been in the Korean War, and he\'s traveled, and he\'s done a lot of stuff, and he\'s kind of got a been there, done that attitude. He\'s also been in the world. Del Toro\'s change was to have Hellboy bottled up in a room and mooning over the girl he can\'t have.',
-        'Mike Mignola',
+    '40f38114-158c-5c9a-a31d-39f5d8dfa860' => [
+        'Sunlight is painting.',
+        'Nathaniel Hawthorne',
     ],
-    [
-        'When you\'re a man, you want to make decisions for your family, and sometimes the lady doesn\'t see what you see.',
-        'Future',
+    'fc265d53-2cd6-5aa1-98b0-c8b8f74267d6' => [
+        'It\'s not so much what you learn about Mumbai, it\'s what you learn about yourself, really. It\'s a funny old hippie thing, but it\'s true as well. You find out a lot about yourself and your tolerance, and about your inclusiveness.',
+        'Danny Boyle',
     ],
-    [
-        'I really admire a woman for her intelligence, her personality. Beauty is not enough.',
-        'Roberto Cavalli',
+    '7c6fba40-a989-5f83-8a8b-17b5812143d0' => [
+        'The path to success is to take massive, determined action.',
+        'Tony Robbins',
     ],
-    [
-        'The music is first and foremost everything - no egos, no attitude, nothing - it\'s about the music.',
-        'Big Boi',
+    'd4ab5869-ff29-59dd-ad0d-6ead203247a8' => [
+        'The older we get, the swifter time seems to pass and the quicker memories seem to fade.',
+        'Brian Sibley',
     ],
-    [
-        'I know what it is to feel unloved, to want revenge, to make mistakes, to suffer disappointment, yet also to find the courage to go forward in life.',
-        'Justine Skye',
+    '23f80417-758b-5b8a-a69f-3bfb5ce17b62' => [
+        'The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.',
+        'Thich Nhat Hanh',
     ],
-    [
-        'All the world\'s a stage, and all the men and women merely players: they have their exits and their entrances; and one man in his time plays many parts, his acts being seven ages.',
-        'William Shakespeare',
+    '8dc8ec89-d894-5a32-8d58-e04e55e9af70' => [
+        'You know, it\'s funny... when you\'re making money, people don\'t think you\'re playing jazz. Now when you\'re not making money, people think that you\'re a good jazz musician.',
+        'Pete Fountain',
     ],
-    [
-        'The events of my life are too unimportant, and have too little interest for any person not of my immediate family, to render them worth communicating or preserving.',
-        'John Marshall',
+    '5576b5c4-52cd-56c5-84a7-1f56f0296d3d' => [
+        'Success comes to those who dedicate everything to their passion in life. To be successful, it is also very important to be humble and never let fame or money travel to your head.',
+        'A. R. Rahman',
     ],
-    [
-        'Life is a zoo in a jungle.',
-        'Stephen Hawking',
+    'add606ab-56b2-5553-90dc-7af0375af2af' => [
+        'The purpose of our lives is to be happy.',
+        'Robert Louis Stevenson',
     ],
-    [
-        'Who included me among the ranks of the human race?',
-        'Joseph Brodsky',
+    '3af1aa54-2a27-52a1-af6a-a50e1fe3f953' => [
+        'The biggest message I have for young women is, Don\'t start cutting off branches of your career tree unnecessarily early. Sometimes women say, I know I want to have a family or play in the local symphony, and they start pulling themselves out of their career path. You don\'t have to take yourself out of the running before you even start.',
+        'Mary Barra',
     ],
-    [
-        'Almost all of my jobs have been on locations. And I think you can be that person who says, \'I have a job that forces me to travel and I\'m just going to go ahead and do it and pray for my next flight home.\' Or \'this is where I am, this is my life, let me see a part of this world I now live in.\'',
-        'Erin Cummings',
+    '6979e2e1-44d4-55ac-adee-b05e76f1e08f' => [
+        'Most people travel with a good book, but I also keep my agenda with me; I\'ll flip through the pages and take a few moments to organize my life a little - I rarely get the time to do this normally.',
+        'Carolina Herrera',
     ],
-    [
-        'Until you value yourself, you won\'t value your time. Until you value your time, you will not do anything with it.',
-        'M. Scott Peck',
+    '36de4b54-710b-53e9-aa4c-7261d9142e89' => [
+        'I pray to start my day and finish it in prayer. I\'m just thankful for everything, all the blessings in my life, trying to stay that way. I think that\'s the best way to start your day and finish your day. It keeps everything in perspective.',
+        'Tim Tebow',
     ],
 ];

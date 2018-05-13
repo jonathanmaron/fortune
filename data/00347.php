@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Britishness is just a way of putting things together and a certain don\'t care attitude about clothes. You don\'t care, you just do it and it looks great.',
-        'Vivienne Westwood',
+    '604ae91f-fb8c-51db-a571-8f877d56bbc0' => [
+        'Be kind whenever possible. It is always possible.',
+        'Dalai Lama',
     ],
-    [
-        'I always figure from the cradle to the grave, we all have our individual journeys, and maybe my journey was a positive one and I accomplished certain things without stepping on too many toes.',
-        'Robert Duvall',
+    '7176e507-daa9-52bb-92c7-f51ef84b119c' => [
+        'It\'s funny, I listen to friends who talk about back when they were 14, eight, 16, whatever, as if it was yesterday. Me, I\'ve no idea what I did. It\'s all a blur, I\'m afraid.',
+        'Catherine McCormack',
     ],
-    [
-        'My family is everything. I am what I am thanks to my mother, my father, my brother, my sister... because they have given me everything. The education I have is thanks to them.',
-        'Ronaldinho',
+    '464733fc-c2a9-5f00-948c-76013a3255fb' => [
+        'When love and skill work together, expect a masterpiece.',
+        'John Ruskin',
     ],
-    [
-        'Life is about making an impact, not making an income.',
-        'Kevin Kruse',
+    '61f3d762-a5a9-53fe-804c-63b40661923a' => [
+        'Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
+        'Swami Vivekananda',
     ],
-    [
-        'We are such stuff as dreams are made on; and our little life is rounded with a sleep.',
-        'David Petraeus',
+    '778fc2ac-b24e-5fe9-b665-44eab5469823' => [
+        'Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to.',
+        'Byron Pulsifer',
     ],
-    [
-        'It seems like every time you come up something happens to bring you back down.',
-        'Tupac Shakur',
+    '12f83851-3faa-5961-a594-a029f48ed1a9' => [
+        'Growing up, I was a little hippie kid. I went to some good concerts... Amnesty International with Bob Dylan and Tracy Chapman... The best concert I ever went to was this one at the Cow Palace my freshman year in college on New Year\'s Eve. It was Pearl Jam opening for Nirvana opening for Red Hot Chili Peppers.',
+        'Summer Sanders',
     ],
-    [
-        'We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.',
-        'Buddha',
+    '14437086-0943-5bb9-91dd-7f7f8946d30f' => [
+        'My family comes first. Maybe that\'s what makes me different from other guys.',
+        'Bobby Darin',
     ],
-    [
-        'If you embrace \'positive thinking,\' you are - by definition - spurning \'negative thinking.\' So it\'s as if you were on a teeter-totter and are trying desperately to put all your weight on one side - the \'positive thinking\' side.',
-        'Srikumar Rao',
+    '61a9414b-ecc4-550a-847c-04c1ce4c18bb' => [
+        'People think they have a perfect idea of who you are from a four-second Snapchat video... and fake blogs, stories, magazine covers. In reality, that\'s not the case. Nobody knows who I am except family and my close friends.',
+        'Kylie Jenner',
     ],
-    [
-        'He who has imagination without learning has wings but no feet.',
-        'Joseph Joubert',
+    '8fb71556-814b-545e-9f60-d1ec224e976f' => [
+        'It hurts when you have to smile and you don\'t want to smile, but the best thing to do is to smile.',
+        'Mary J. Blige',
     ],
-    [
-        'Autumn wins you best by this its mute appeal to sympathy for its decay.',
-        'Robert Browning',
+    '0d4cefaa-8abe-5210-adae-7f0efe42bf6e' => [
+        'Life is a series of baby steps along the way and if you add up these tiny little steps you take toward your goal, whatever it is, whether it\'s giving up something, a terrible addiction or trying to work your way through an illness. When you total up those baby steps you\'d be amazed over the course of 10 years, the strides you\'ve taken.',
+        'Hoda Kotb',
     ],
-    [
-        'The whole beauty of music is that it goes where your words won\'t let you.',
-        'Anne Hathaway',
+    '7b7fc2fd-59d0-55ef-b606-de3527f6be21' => [
+        'I have a political attitude, but I\'m certainly not a politician.',
+        'Kgalema Motlanthe',
     ],
-    [
-        'Everything I do in life is framed through the view of a businessman. That\'s my instinct. If I go into a pharmacy to buy shaving cream, then I\'m going to look for the best deal on shaving cream.',
-        'Donald Trump',
+    '395c408a-dc06-5ac7-ab21-bc574553a9f5' => [
+        'I had this attitude, that Silicon Valley obnoxious attitude, that I know what I\'m doing, and the rest was going to be pretty easy.',
+        'Kimbal Musk',
     ],
-    [
-        'So, we just kind of created our own thing and that\'s part of the beauty of Athens: is that it\'s so off the map and there\'s no way you could ever be the East Village or an L.A. scene or a San Francisco scene, that it just became its own thing.',
-        'Michael Stipe',
+    '872640c7-b8ac-599c-9c23-9b5e72d774a7' => [
+        'Whence, then, did the cathedral derive its power? Clearly here: It took back the family into the confidences of religion. It taught man and woman how the human and the divine love could go hand in hand.',
+        'Jenkin Lloyd Jones',
     ],
-    [
-        'We spend to pretend that we\'re upper class. And when the dust clears - when bankruptcy hits or a family member bails us out of our stupidity - there\'s nothing left over. Nothing for the kids\' college tuition, no investment to grow our wealth, no rainy-day fund if someone loses her job.',
-        'J. D. Vance',
+    '46708baa-04a5-5eb0-ad0a-61e1d10ceab6' => [
+        'The Chinese people have only family and clan groups; there is no national spirit. Consequently, in spite of four hundred million people gathered together in one China, we are, in fact, but a sheet of loose sand.',
+        'Sun Yat-sen',
     ],
-    [
-        'There\'s a certain elitism that has crept into the attitudes of some in journalism, and it played out perfectly over the issue of these little American flag lapel pins.',
-        'Brit Hume',
+    '27e3f2ec-e54b-5d16-baa6-788064f47644' => [
+        'If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.',
+        'Joseph Addison',
     ],
-    [
-        'Truth is a thing immortal and perpetual, and it gives to us a beauty that fades not away in time.',
-        'Frank Norris',
+    '8bb5f2fc-2c01-5331-b3fe-0240454c0c5d' => [
+        'Creativity comes from trust. Trust your instincts. And never hope more than you work.',
+        'Rita Mae Brown',
     ],
-    [
-        'Work is a necessity for man. Man invented the alarm clock.',
-        'Pablo Picasso',
+    'fcd61d17-427a-505a-a704-c945f2ec3b31' => [
+        'When you\'re doing a medieval show like \'Pillars,\' it starts off a bit like a school play. You\'re all in funny costumes; you\'ve had your coffee, and you say, \'Good morning\'. Then you go on set and, if you\'ve got good actors and directors, it takes on a life of its own.',
+        'Ian McShane',
     ],
-    [
-        'You know, the standard state for people is \'mildly pleasant.\' Negative emotions are quite rare, and extremely positive emotions are rare. But people are mildly pleased most of the time, they\'re mildly tired a lot of the time, and they wish they were somewhere else a substantial part of the time - but mostly they\'re mildly pleased.',
-        'Daniel Kahneman',
+    '534f251c-7cc1-5f44-b3b5-4b57d7294b30' => [
+        'Spirituality is not a formula; it is not a test. It is a relationship. Spirituality is not about competency; it is about intimacy. Spirituality is not about perfection; it is about connection. The way of the spiritual life begins where we are now in the mess of our lives.',
+        'Steve Buyer',
     ],
-    [
-        'The art of life is to know how to enjoy a little and to endure very much.',
-        'Nikola Tesla',
+    '9f031baa-1937-54ae-a8ef-9c9e4bbd6f2f' => [
+        'I was doing a Broadway musical called \'Smile\' with Howard Ashman and Marvin Hamlisch in 1984/5 when it abruptly closed. Howard was in the middle of pre-production for \'The Little Mermaid,\' so he kindly invited all the girls in our cast to audition for the film.',
+        'Jodi Benson',
     ],
-    [
-        'If you look at a building by Mies van der Rohe, it might look very simple, but up close, the sheer quality of construction, materials and thought are inspirational.',
-        'David Chipperfield',
+    '922c4434-7cd6-56a4-a700-418b2c4f974b' => [
+        'I love mankind; it\'s people I can\'t stand.',
+        'Charles M. Schulz',
     ],
-    [
-        'You\'ll never convince me there is a hopeless situation or there is any finality in any success or any failure.',
-        'Carlos Ghosn',
+    '414bb63b-73b7-5bf9-8121-2ad108a7dbcd' => [
+        'As I\'ve progressed in my career, I\'ve come to appreciate - and really value - the other attributes that define a company\'s success beyond the P&L: great leadership, long-term financial strength, ethical business practices, evolving business strategies, sound governance, powerful brands, values-based decision-making.',
+        'Ursula Burns',
     ],
-    [
-        'I believe in persevering. If you persevere, success lies ahead of you.',
-        'Liu Yang',
+    '8749af2e-afd8-5aff-9f32-d91296cb0a46' => [
+        'There\'s a positive side to film and television, the sense of feeding into the theater... Your fans will follow you, hopefully, and be open-minded to see you play other things and experience other stories you want to tell.',
+        'Kim Cattrall',
     ],
-    [
-        'For marriage to be a success, every woman and every man should have her and his own bathroom. The end.',
-        'Catherine Zeta-Jones',
+    'ecae9097-0b62-5e65-a77c-fefc8017285c' => [
+        'A lot of people deal with things that are bad. Once you\'ve been through something, you grow from it and you take a lot in. You can always turn it into something positive.',
+        'Chino Moreno',
     ],
-    [
-        'If I were a liberal Democrat, people would say I\'m the super genius of all time. The super genius of all time. If you\'re a conservative Republican, you\'ve got to fight for your life. It\'s really an amazing thing.',
-        'Donald Trump',
+    'eeaea7bf-29b6-50b9-a170-b26f3923876c' => [
+        'This hook nose and crab meister attitude has gotten me every job I\'ve ever had. And more divorces than I care to remember.',
+        'Norman Fell',
     ],
-    [
-        'If opportunity doesn\'t knock, build a door.',
-        'Milton Berle',
+    '26560630-b195-5648-a535-026647d06f1d' => [
+        'The details surrounding both my marriage and subsequent filing for divorce are private, and I had hoped to keep them that way for the sake of my family.',
+        'Eminem',
     ],
 ];

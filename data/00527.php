@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Art enables us to find ourselves and lose ourselves at the same time.',
-        'Thomas Merton',
+    '79908880-fb84-5137-8e39-da0937aeced8' => [
+        'I find that the harder I work, the more luck I seem to have.',
+        'Thomas Jefferson',
     ],
-    [
-        'I have moments where I miss my old self. But I think anyone can get caught up in what we used to have. But at the same time, we can choose to focus on the beauty of now.',
-        'Steve Gleason',
+    '2e398dad-4b3a-5d72-ba9c-963117077f8e' => [
+        'Our attitude towards others determines their attitude towards us.',
+        'Earl Nightingale',
     ],
-    [
-        'Even if you fall on your face you\'re still moving forward.',
-        'Victor Kiam',
+    '8eb75300-6831-55e7-a95e-76bd3bb3ba09' => [
+        'Cure for an obsession: get another one.',
+        'Mason Cooley',
     ],
-    [
-        'We all have our imperfections. But I\'m human, and you know, it\'s important to concentrate on other qualities besides outer beauty.',
-        'Beyonce Knowles',
+    'f68ba73d-1af7-5dff-b998-50941a46462e' => [
+        'I\'ve always been able to transform happiness and pain and sorrow and tears into positive energy.',
+        'Thalia',
     ],
-    [
-        'I have never, ever focused on the negative of things. I always look at the positive.',
-        'Sonia Sotomayor',
+    'be1817ca-1170-5ba9-803c-26249b529c56' => [
+        'When one travels around the world, one notices to what an extraordinary degree human nature is the same, whether in India or America, in Europe or Australia.',
+        'Jiddu Krishnamurti',
     ],
-    [
-        'The truth, the absolute truth, is that the chief beauty for the theatre consists in fine bodily proportions.',
-        'Sarah Bernhardt',
+    '78a97931-8276-5f31-89d7-42bf9f70594a' => [
+        'Imagination is not a talent of some men but is the health of every man.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'I have a motto: Work to become, not to acquire.',
-        'Alan Kulwicki',
+    'c0664633-cf12-5ece-ae0d-6d0b7070fd45' => [
+        'I spend days on my Xperia logging on Facebook chatting with my friends and family at home; I love listening to Rihanna and Pink and watching movies. Basically, anything that makes me smile, but most of my fans will know that I am always smiling!',
+        'Dominika Cibulkova',
     ],
-    [
-        'I\'m extremely blessed because I travel extensively for my work, but I always try to incorporate a bit of leisure with business.',
-        'Linda Gray',
+    'acd08336-f9a2-5e88-bfc9-9baf6ead06e5' => [
+        'There\'s no such thing as failure - just waiting for success.',
+        'John Osborne',
     ],
-    [
-        'Every child\'s taste is different. Don\'t worry if they\'re not reading \'War and Peace\' at age 12. First, build a good foundation and a positive attitude about reading by letting them pick the stories they enjoy. Make friends with a bookseller or librarian. They are a wealth of information on finding books that kids enjoy.',
-        'Rick Riordan',
+    'aec5a464-ba2c-5a32-915a-fc3ce1856064' => [
+        'Either positive or negative comments are good because it shows I am still relevant.',
+        'Justin Guarini',
     ],
-    [
-        'We help people to begin truly healthful diets, and it is absolutely wonderful to see, not only their success, but also their delight at their ability to break old habits and feel really healthy for a change.',
-        'Neal Barnard',
+    '9b93d654-145d-5d08-b6f6-2edd6eea764b' => [
+        'If you don\'t like something, change it. If you can\'t change it, change your attitude.',
+        'Maya Angelou',
     ],
-    [
-        'Equal pay isn\'t just a women\'s issue; when women get equal pay, their family incomes rise and the whole family benefits.',
-        'Mike Honda',
+    'fb1f1909-7ff5-5f4d-96f9-04c58f0dabe7' => [
+        'As we look ahead into the next century, leaders will be those who empower others.',
+        'Bill Gates',
     ],
-    [
-        'I love to travel and to be inspired by new things, so everything is always new. I\'ve never done the same bathroom or the same kitchen a second time. It\'s challenging, and I like to be challenged.',
-        'Kelly Wearstler',
+    '10d4257b-a54e-5deb-972a-c7efce6af289' => [
+        'No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none.',
+        'Henry Kissinger',
     ],
-    [
-        'For me, being tall was very positive because I thought my mom was the most beautiful person ever.',
-        'Lisa Leslie',
+    '0ca313fe-f651-5d38-8f71-3553d1b47d03' => [
+        'Had I not come out with an inspirational CD, you perhaps would have never known that I feel like I feel, that all songs, all the music I\'ve ever done is a gift from God.',
+        'Smokey Robinson',
     ],
-    [
-        'I have a huge breakfast every morning because I never know if I\'ll have time for lunch, especially during Fashion Week. It keeps my mood positive all day. And my parents taught me to have tons of fruit and vegetables, which I think helps my skin.',
-        'Constance Jablonski',
+    '7c722501-4ec3-51d3-a636-d21167669ed8' => [
+        'Tennis has had a very positive impact on my life.',
+        'Gabriela Sabatini',
     ],
-    [
-        'I feel it is important not to get overly obsessed and overly carried away with just the physical aspect. There is more to beauty than just the physical appearance. You are also a complete person, and a woman should have an identity beyond just the way she looks.',
-        'Katrina Kaif',
+    '1319684d-f059-57c9-b1f7-6d153830f74f' => [
+        'Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.',
+        'Marie Curie',
     ],
-    [
-        'Be kind whenever possible. It is always possible.',
-        'Dalai Lama',
+    '337ffb7f-6ead-5d6e-bad1-8f944fa244a1' => [
+        'There are things that you cannot talk to your mother and father about, there are things that you cannot talk to your children about.',
+        'Shirley Knight',
     ],
-    [
-        'If you have an important point to make, don\'t try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time - a tremendous whack.',
-        'Winston Churchill',
+    'c2601827-50dc-5368-baf8-908d690502d7' => [
+        'Your body is precious. It is our vehicle for awakening. Treat it with care.',
+        'Buddha',
     ],
-    [
-        'I\'ve been very lucky to have achieved a lot of the things that I dreamt of achieving as a young man. But, at the end of the day - and I truly believe this - it is not about achieving great wealth or success. Because they don\'t bring happiness, ultimately.',
-        'Leonardo DiCaprio',
+    '6330713d-4ba2-598c-a1f7-843a48eec044' => [
+        'Beauty, more than bitterness, makes the heart break.',
+        'Sara Teasdale',
     ],
-    [
-        'When a woman puts on a heel, she has a different posture, a different attitude. She really stands up and has a consciousness of her body.',
-        'Christian Louboutin',
+    '855df140-0a87-54c9-bd01-a7b282d8b3d3' => [
+        'There is pleasure in the pathless woods, there is rapture in the lonely shore, there is society where none intrudes, by the deep sea, and music in its roar; I love not Man the less, but Nature more.',
+        'Lord Byron',
     ],
-    [
-        'When it comes to social consequences, they\'ve got all different people acting in different ways, very difficult to even have a proper criterion of success. So, it\'s a difficult task.',
-        'George Soros',
+    'cdd65e41-12c8-560b-9cc0-d4313e4bea79' => [
+        'I think if everyone would write down the funny stories from their own childhoods, the world would be a better place.',
+        'Jeff Kinney',
     ],
-    [
-        'That\'s the beauty of coaching. You get to touch lives, you get to make a difference. You get to do things for people who will never pay you back and they say you never have had a perfect day until you\'ve done something for someone who will never pay you back.',
-        'Morgan Wootten',
+    '9d433f91-443c-56bf-a8a9-2b5911956b24' => [
+        'It takes a long time to grow an old friend.',
+        'John Leonard',
     ],
-    [
-        'I am not a big fan of positive thinking. The term suggests that there is something negative that you have to counteract by being positive. That is an artificial duality.',
-        'Srikumar Rao',
+    '62d69477-d788-575e-8d75-a3ae1e6d5659' => [
+        'When checking in at an airport, no matter how rude the check-in person is to you, always smile and be nice because you don\'t know what kind of day they\'ve had. You are going on holiday and they\'re stuck wherever they are. Be nice to them because they can re-route your baggage to wherever they feel like.',
+        'Ross Kemp',
     ],
-    [
-        'I think a lot of the American people feel more than a little disappointed that the high-water mark for human exploration was 1969. The dream of human space travel has almost died for a lot of people.',
-        'Elon Musk',
+    'f6a07962-9969-5677-a9b8-5f8ea66a07f9' => [
+        'A period of detention in a chilly upstate facility can be a great attitude adjuster.',
+        'Judy Sheindlin',
     ],
-    [
-        'When I\'m on stage, it\'s really intense. My mind is going a million miles an hour, trying to remember my act, trying to say it all the right way. It\'s funny how different it looks and how it\'s happening. There are three Fellini circuses in my head, and outwardly it looks like I\'m going to get a bagel.',
-        'Steven Wright',
+    '2dad13d7-e0b8-55d1-8dd2-7097b69f44ee' => [
+        'If the \'Post\' can play the role of a connector between the West and the East, I have confidence in the paper\'s future success.',
+        'Jack Ma',
     ],
-    [
-        'A rolling stone gathers no moss.',
-        'Publilius Syrus',
+    '3e215bb1-d678-57b1-8e1d-ac5f12a7eaea' => [
+        'I think fitness is important. I think a healthy lifestyle is important. I think putting positive energy out there is important and just staying connected with the people.',
+        'LL Cool J',
     ],
 ];

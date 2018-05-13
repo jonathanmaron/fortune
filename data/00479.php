@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.',
-        'Ralph Waldo Emerson',
+    '6fbdac85-2877-5627-8884-0dbf3c02d1f6' => [
+        'The compensation of a very early success is a conviction that life is a romantic matter. In the best sense one stays young.',
+        'F. Scott Fitzgerald',
     ],
-    [
-        'What draws me in is that a trip is a leap in the dark. It\'s like a metaphor for life. You set off from home, and in the classic travel book, you go to an unknown place. You discover a different world, and you discover yourself.',
-        'Paul Theroux',
+    '7f736633-7bf1-552d-a388-fb2194ac01dd' => [
+        'Don\'t allow your wounds to turn you into a person you are not.',
+        'Paulo Coelho',
     ],
-    [
-        'The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.',
-        'Thomas A. Edison',
+    '8e5ebd6b-c5d2-5580-bcf6-75e4b5fb74db' => [
+        'Dost thou love life? Then do not squander time, for that is the stuff life is made of.',
+        'Benjamin Franklin',
     ],
-    [
-        'A film set becomes its own family anyway, and all family dynamics come out during a shoot. The trick is hiring people who know how to handle that.',
-        'Noah Baumbach',
+    'eb0c2c48-6695-51c9-9de4-b5a1fcb241f7' => [
+        'If dysfunction means that a family doesn\'t work, then every family ambles into some arena in which that happens, where relationships get strained or even break down entirely. We fail each other or disappoint each other. That goes for parents, siblings, kids, marriage partners - the whole enchilada.',
+        'Mary Karr',
     ],
-    [
-        'When checking in at an airport, no matter how rude the check-in person is to you, always smile and be nice because you don\'t know what kind of day they\'ve had. You are going on holiday and they\'re stuck wherever they are. Be nice to them because they can re-route your baggage to wherever they feel like.',
-        'Ross Kemp',
+    '9ed303cf-71bd-5d00-b04c-87119cc31682' => [
+        'The family is one of nature\'s masterpieces.',
+        'George Santayana',
     ],
-    [
-        'Romance and novel paint beauty in colors more charming than nature, and describe a happiness that humans never taste. How deceptive and destructive are those pictures of consummate bliss!',
-        'Oliver Goldsmith',
+    'df2f64f6-e3c0-5cb1-9261-42e164465d21' => [
+        'In nicey-nicey land, you must be happy-clappy and positive all the time - bad news is taboo.',
+        'Michael Leunig',
     ],
-    [
-        'You have to believe in yourself.',
-        'Sun Tzu',
+    '0a595fac-7006-59d3-94e0-c30cae609659' => [
+        'Friendship is the shadow of the evening, which increases with the setting sun of life.',
+        'Octavio Paz',
     ],
-    [
-        'One of the most important responsibilities in the Christian life is to care about others, smile at them, and be a friend to the friendless.',
-        'James Dobson',
+    'fc0cd5b0-553f-580e-8cc1-80031964c74d' => [
+        'Less make-up is better, and it\'s always better to let your natural beauty shine. Essentially, be happy with your appearance.',
+        'Park Shin-hye',
     ],
-    [
-        'Time brings all things to pass.',
-        'Aeschylus',
+    '520936eb-bec3-5be0-ba99-46ddacb65f31' => [
+        'There are many wonderful things that will never be done if you do not do them.',
+        'Charles D Gill',
     ],
-    [
-        'If you drive to, say, Shenandoah National Park, or the Great Smoky Mountains, you\'ll get some appreciation for the scale and beauty of the outdoors. When you walk into it, then you see it in a completely different way. You discover it in a much slower, more majestic sort of way.',
-        'Bill Bryson',
+    'a8ee011f-a209-53c3-bbdb-870bf4a35f23' => [
+        'Sometimes nature guards her secrets with the unbreakable grip of physical law. Sometimes the true nature of reality beckons from just beyond the horizon.',
+        'Brian Greene',
     ],
-    [
-        'I grew up in a rough environment. You want to be strong and have your presence felt out there. That attitude reflects how people see you.',
-        'Mekhi Phifer',
+    'f70e392f-6f63-5c34-859c-0b10082c7cb1' => [
+        'Try to look at your weakness and convert it into your strength. That\'s success.',
+        'Zig Ziglar',
     ],
-    [
-        'I have had success throughout the years. Some of the hard rock bands today don\'t have the history that I have.',
-        'Gary Cherone',
+    'b54751a0-f602-5208-951f-f6d7d4e90f2a' => [
+        'The big problem of our modern society is that we feel that we are separated from the nature. But it\'s just the opposite. We are interrelated and our DNA is the same. And only when human beings understand that, the nature will not be obstacle.',
+        'Marina Abramovic',
     ],
-    [
-        'The best road to progress is freedom\'s road.',
-        'John F. Kennedy',
+    '353bdee7-6235-529f-8c64-6e6f603a4340' => [
+        'The only difference between death and taxes is that death doesn\'t get worse every time Congress meets.',
+        'Will Rogers',
     ],
-    [
-        'Execute every act of thy life as though it were thy last.',
-        'Brandon Jenner',
+    '458c84be-b054-5443-8807-18e607d0cc33' => [
+        'The only rock I know that stays steady, the only institution I know that works, is the family.',
+        'Lee Iacocca',
     ],
-    [
-        'I have rituals for cleaning out resentments, disappointments, heartbreak, depression and for work. One of the things I do is go over old stuff if I have been unable to write for a while.',
-        'Hubert Selby, Jr.',
+    'baad2e9b-cce8-56dd-afbf-1e92cb9f7080' => [
+        'Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.',
+        'Tori Amos',
     ],
-    [
-        'Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.',
-        'Nathaniel Hawthorne',
+    'de42f886-926f-58d3-9397-4f8b71db1629' => [
+        'We have reached a new milestone as a human family. With seven billion of us now inhabiting our planet, it is time to ask some fundamental questions. How can we provide a dignified life for ourselves and future generations while preserving and protecting the global commons - the atmosphere, the oceans and the ecosystems that support us?',
+        'Ban Ki-moon',
     ],
-    [
-        'Sometimes you just want to get away and be normal for a few days. It\'s a treat to travel without your racket bag.',
-        'Eugenie Bouchard',
+    'aa34931b-3320-587d-88a6-380d0edc178a' => [
+        'Art should never be limited - the beauty of art is that it gives us the freedom to go places where we wouldn\'t go to in our normal lives. Inside, I\'m just so many different people. I go from the pretty girl on the red carpet to the singer at Ozzfest, spitting in the crowd. That\'s Jada.',
+        'Jada Pinkett Smith',
     ],
-    [
-        'Pageants were an amazing platform that gave a little girl like me from the mountains of my beautiful Puerto Rico a chance to travel, explore the world, meet amazing people, work for great charities and be a voice to empower women wherever I went. For all those things, I am grateful.',
-        'Joyce Giraud',
+    'e9c2d57d-479b-5294-a9a0-38c0c296d4d4' => [
+        'But while they prate of economic laws, men and women are starving. We must lay hold of the fact that economic laws are not made by nature. They are made by human beings.',
+        'Franklin D. Roosevelt',
     ],
-    [
-        'I would travel only by horse, if I had the choice.',
-        'Linda McCartney',
+    '723f94d4-0ddf-532c-8b6e-54032ad97ae9' => [
+        'Yesterday is not ours to recover, but tomorrow is ours to win or lose.',
+        'Lyndon B. Johnson',
     ],
-    [
-        'I\'m not a Starbucks guy. I\'m a Dunkin Donuts guy, but I like to pay for the coffee of the other folks behind me in line. It typically costs me less than $10, and makes the other people feel good, but more importantly, it makes me feel so good, and random acts of kindness change the world one person at a time.',
-        'Robert Kraft',
+    '668637c1-e019-5ff0-9c2b-b9dec6e90c03' => [
+        'Trying to understand the way nature works involves a most terrible test of human reasoning ability. It involves subtle trickery, beautiful tightropes of logic on which one has to walk in order not to make a mistake in predicting what will happen. The quantum mechanical and the relativity ideas are examples of this.',
+        'Richard P. Feynman',
     ],
-    [
-        'I remember the first time I put on the Army uniform. I just felt like a totally different person - I felt proud.',
-        'Jessica Lynch',
+    'ef2d4a80-c468-548a-891a-3128541c127e' => [
+        'I destroy my enemies when I make them my friends.',
+        'Abraham Lincoln',
     ],
-    [
-        'My duty is to try to reach beauty. Cinema is emotion. When you laugh you cry.',
-        'Roberto Benigni',
+    'f3b101d3-9820-5f30-8813-081dd114b9b1' => [
+        'Money has never made man happy, nor will it, there is nothing in its nature to produce happiness. The more of it one has the more one wants.',
+        'Benjamin Franklin',
     ],
-    [
-        'If you can\'t change your fate, change your attitude.',
-        'Charles Revson',
+    'e9606a50-0ca8-59b2-90f9-b3a3a14b1063' => [
+        'You can take no credit for beauty at sixteen. But if you are beautiful at sixty, it will be your soul\'s own doing.',
+        'Marie Stopes',
     ],
-    [
-        'I love beauty. But I like the beauty accidentally, not dished up, served up on a platter.',
-        'Wole Soyinka',
+    'fdc1171b-d46a-511e-96ad-00cf231a5f0c' => [
+        'It was the labor movement that helped secure so much of what we take for granted today. The 40-hour work week, the minimum wage, family leave, health insurance, Social Security, Medicare, retirement plans. The cornerstones of the middle-class security all bear the union label.',
+        'Barack Obama',
     ],
-    [
-        'There are so many awful things in this world, but I wanted readers to share with me the small, beautiful, enjoyable things. Things like cute clothes, beautiful art and pretty flowers; items that are overflowing with beauty. If you just become obsessed with your own problems, you miss these things. When you discover them, you become happy.',
-        'Novala Takemoto',
+    '076d277f-5ce4-5561-b255-8ead93e24c7b' => [
+        'As a single withered tree, if set aflame, causes a whole forest to burn, so does a rascal son destroy a whole family.',
+        'Chanakya',
     ],
 ];

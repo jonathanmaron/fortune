@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I don\'t feel pressure in a negative way. I like pressure. I feel excitement and calm at the same time. No pressure, no diamonds. I want pressure: pressure creates drama, creates emotion.',
-        'Conor McGregor',
+    'c37de78b-0895-59b5-8541-af9be59b0d67' => [
+        'The essential lesson I\'ve learned in life is to just be yourself. Treasure the magnificent being that you are and recognize first and foremost you\'re not here as a human being only. You\'re a spiritual being having a human experience.',
+        'Connor Franta',
     ],
-    [
-        'No man should bring children into the world who is unwilling to persevere to the end in their nature and education.',
-        'Plato',
+    '597faa1e-31b2-5a16-b690-717897f870b2' => [
+        'The sea is everything. It covers seven tenths of the terrestrial globe. Its breath is pure and healthy. It is an immense desert, where man is never lonely, for he feels life stirring on all sides.',
+        'Jules Verne',
     ],
-    [
-        'What really interests me is how a woman who has had a bad experience with a man comes through it and gets a new life. I feel you have to be positive. You have to say, \'Look, okay, he\'s ditched you, but there\'s life after.\'',
-        'Kate O\'Mara',
+    '5aeb07f0-9daf-53e2-b7e5-f6e5b1ac1de5' => [
+        'I always spend time exploring the customs and attitudes of the countries I\'m using for locations, and interviewing the people who live there. I\'ve visited over 90 countries thus far.',
+        'Sidney Sheldon',
     ],
-    [
-        'Learning to celebrate success is a key component of learning how to win in the market.',
-        'Douglas Conant',
+    '17f8a1b2-27b3-5cf8-aa99-f0ad29f7d258' => [
+        'I tend to look out for things with a resonance to my youth - artists or objects that seemed romantic all those years ago. I never buy anything purely for its value. I like possessions that smile back at me.',
+        'Nicholas Haslam',
     ],
-    [
-        'Personality is the most important thing to an actress\'s success.',
-        'Mae West',
+    'a8a5080b-dfe4-519a-afba-3612ac6880a6' => [
+        'Strike and struggle precede success, even in the dictionary.',
+        'Christian Slater',
     ],
-    [
-        'And whereas women had to fight to find their way into the workforce, men are now fighting to reclaim their place in the family structure.',
-        'Bob Geldof',
+    '01ca3274-8744-5c47-90b7-1d33078cf4ad' => [
+        'My attitude when I\'m in Mexico is I wake up in the morning with nothing to do and I go to bed half done. I don\'t wear a watch. When I live down there, I do nothing according to time. I eat when I\'m hungry and go to sleep when I\'m tired.',
+        'Jesse Ventura',
     ],
-    [
-        'Life\'s most persistent and urgent question is, \'What are you doing for others?\'',
-        'Eric Idle',
+    '2c1b16cc-9422-59cc-bcdf-92be461b82ef' => [
+        'A whopping 89 percent of buyers start their home search online. How your house looks online is the modern equivalent of \'curb appeal.\' Rent a wide-angle lens and good lighting, get rid of your clutter and post at least eight great photos to win the beauty contest.',
+        'Barbara Corcoran',
     ],
-    [
-        'If time be of all things the most precious, wasting time must be the greatest prodigality.',
-        'Benjamin Franklin',
+    'ea1b74ff-7150-58a2-b8d4-dc2716dd9e7d' => [
+        'Jesus Christ belonged to the true race of prophets. He saw with open eye the mystery of the soul. Drawn by its severe harmony, ravished with its beauty, he lived in it and had his being there. Alone in all history, he estimated the greatness of man.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'What saddens me is the corruption of youth and beauty, and the loss of soul, which is only replaced by money.',
-        'Lisa Bonet',
+    '95d40200-cc20-5f9b-85a1-52e7ed3285c9' => [
+        'When deeds speak, words are nothing.',
+        'Pierre-Joseph Proudhon',
     ],
-    [
-        'The great thing in life is efficiency. If you amount to anything in the world, your time is valuable, your energy precious. They are your success capital, and you cannot afford to heedlessly throw them away or trifle with them.',
-        'Orison Swett Marden',
+    'd69b23e1-2c59-592b-a398-baa8b711e064' => [
+        'You were made perfectly to be loved - and surely I have loved you, in the idea of you, my whole life long.',
+        'Alia Bhatt',
     ],
-    [
-        'I come from a really big family, my father was a businessman and what he always instilled in us was to be your own boss. My father built up his business, and he was by no means a rich man, but he figured out how to work four-and-a-half days a week.',
-        'Tony Shalhoub',
+    '6309f2af-1e27-5530-9ed0-27690e2f432f' => [
+        'My father worked in agriculture, and I got to travel round remote rural areas with him and see a bit of the landscape and people.',
+        'Giles Foden',
     ],
-    [
-        'I am not a has-been. I am a will be.',
-        'Lauren Bacall',
+    'a3569b2f-c8df-5d85-ae45-505d27fff672' => [
+        'I like it best when two ideas collide, like when you have a crazed attitude towards women combined with a crazed attitude towards the Vietnamese. I like that. Even if it\'s not true, I don\'t care whether it\'s true or false. I just do it.',
+        'Peter Saul',
     ],
-    [
-        'I\'ve lived in many things - boats, caravans, and buses. I\'ve been homeless, I\'ve had no money: everything. But I believe in magic, and having a vision. The tough times made me a warrior. I work hard.',
-        'Neon Hitch',
+    'c5df52c2-f1c7-5817-9873-bf9143b9198a' => [
+        'I love to travel, I love to go out with my friends, but what I love most is being home with my family.',
+        'Deborah Raney',
     ],
-    [
-        'To conceal anything from those to whom I am attached, is not in my nature. I can never close my lips where I have opened my heart.',
-        'Charles Dickens',
+    'c653969c-f2f0-5d23-a062-1983b670b94f' => [
+        'You have to stay true to yourself and where you\'re coming from, and sometimes people see you in a different light, but you have to take it in and try to be positive about anything.',
+        'McKayla Maroney',
     ],
-    [
-        'Old wood best to burn, old wine to drink, old friends to trust, and old authors to read.',
-        'Athenaeus',
+    '83d09bca-78ff-5f08-998d-23ca938ae354' => [
+        'The beauty that addresses itself to the eyes is only the spell of the moment; the eye of the body is not always that of the soul.',
+        'George Sand',
     ],
-    [
-        'The success combination in business is: Do what you do better... and: do more of what you do.',
-        'David Joseph Schwartz',
+    '2f31341d-e60f-5656-aa51-1fb52fd3e91d' => [
+        'I love to smile.',
+        'Inge de Bruijn',
     ],
-    [
-        'I was a huge Beatles fan. We could talk about who I listened to growing up and what my sources were, but certainly the Beatles were a late, important resource for me, and I just took my guitar and a handful of songs, and I decided, well, I\'ll just go over and travel around Europe and see what comes of it.',
-        'James Taylor',
+    '3ff287d0-082d-501d-b5a3-4be02faa92cc' => [
+        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that\'s why they call it the present.',
+        'Unknown',
     ],
-    [
-        'The best music happens when you have a personal connection to it. That same philosophy can extend to the instrument you hold in your hands: if a guitar means something special, you\'re bound to do great things with it.',
-        'Frank Iero',
+    '8283756a-0375-5663-abe7-16d0b83e786b' => [
+        'I wanted to say thanks... and share my gratitude for everything I\'ve been blessed with. Family, friends, and continued support from everyone.',
+        'Travis Barker',
     ],
-    [
-        'You have to push yourself when you\'re older because it\'s very easy to fall into the trap. You start to fall apart - you just have to do your best to paste yourself together. I think doing things and being active is very important. When your mind is busy, you don\'t hurt so much.',
-        'Iris Apfel',
+    '4d35959f-1527-54e3-a611-50b93e95aa31' => [
+        'I\'m very lighthearted, outgoing, friendly, and funny, so I like to try new things.',
+        'Chandler Parsons',
     ],
-    [
-        'Creativity itself doesn\'t care at all about results - the only thing it craves is the process. Learn to love the process and let whatever happens next happen, without fussing too much about it. Work like a monk, or a mule, or some other representative metaphor for diligence. Love the work. Destiny will do what it wants with you, regardless.',
-        'Elizabeth Gilbert',
+    '15335eab-4b2d-5fe8-a4f3-2438b1f6019e' => [
+        'Never floss with a stranger.',
+        'Joan Rivers',
     ],
-    [
-        'I would like to wish the England squad every success. I would also very much like to extend those wishes to Martin Johnson, Brian Smith, Mike Ford, John Wells, Graham Rowntree and the rest of the England 2011 World Cup management team who have been fantastic and deserve people to know that.',
-        'Jonny Wilkinson',
+    'e734f613-a088-5dfe-86f1-8c4a2a96a844' => [
+        'Diligence is the mother of good fortune.',
+        'Benjamin Disraeli',
     ],
-    [
-        'Nobody can give you freedom. Nobody can give you equality or justice or anything. If you\'re a man, you take it',
-        'Malcolm X',
+    '682109c4-62a5-5144-b7ad-6c0d0283bf59' => [
+        'I\'ve always followed my heart and pursued my dreams, and I imagine that people find that inspiring. I hope that is the effect I have on my fans and people in general. I definitely want to project a positive energy out into the world.',
+        'Britney Spears',
     ],
-    [
-        'True success is overcoming the fear of being unsuccessful.',
-        'Paul Sweeney',
+    '1a60b2d2-42b4-59bb-bddd-a3a5d41cfd54' => [
+        'Your goals don\'t care how you feel.',
+        'Unknown',
     ],
-    [
-        'New Year\'s Day. A fresh start. A new chapter in life waiting to be written. New questions to be asked, embraced, and loved. Answers to be discovered and then lived in this transformative year of delight and self-discovery. Today carve out a quiet interlude for yourself in which to dream, pen in hand. Only dreams give birth to change.',
-        'Rabindranath Tagore',
+    '70c1fe68-52c2-54e3-bb55-e23df6f2d32e' => [
+        'There\'s a way to do it better - find it.',
+        'Thomas A. Edison',
     ],
-    [
-        'Evolution isn\'t just a take-it-or-leave-it story about where we came from. It\'s an epic at the centre of life itself. It tells us we are part of nature in every respect.',
-        'Kenneth R. Miller',
+    'e9119f02-84a4-5575-8b0e-3a8fff0953d6' => [
+        'Real estate sales was perfect training for the experience to go into public life because you learn to accept rejection, learn to meet new people, learn to work with people and find common ground. That\'s the way you sell houses... that\'s also the way you win over constituency.',
+        'Johnny Isakson',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I think there\'s a right time for everything, and I\'m a true believer that everything happens for a reason.',
-        'Bella Hadid',
+    'c40912b5-dfa7-58de-8f31-fffdd7be5ff4' => [
+        'To choose what is difficult all ones days, as if it were easy, that is faith.',
+        'W. H. Auden',
     ],
-    [
-        'A happy family is but an earlier heaven.',
-        'George Bernard Shaw',
+    'ebe9c317-3ee5-5b33-8731-26f075b9aff5' => [
+        'There\'s something very authentic about humor, when you think about it. Anybody can pretend to be serious. But you can\'t pretend to be funny.',
+        'Billy Collins',
     ],
-    [
-        'Recovery is something that you have to work on every single day and it\'s something that it doesn\'t get a day off.',
-        'Demi Lovato',
+    'a6b9495e-6f4d-501c-a574-e195af28f3e8' => [
+        'I never laugh or smile when I am writing. When I come home for lunch after writing all morning, my wife says I look like I just came home from a funeral. This is not bragging. This is an illness.',
+        'Carl Hiaasen',
     ],
-    [
-        'Participation, I think, or one of the best methods of educating.',
-        'Tom Glazer',
+    '71e7d4b1-779f-5681-8e0d-05a5cb053fd5' => [
+        'I never understand when people say, \'School days are the best of your life.\' So it\'s all downhill from 16? How depressing.',
+        'Marsha Thomason',
     ],
-    [
-        'The story of civilization is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man\'s good.',
-        'L. Sprague de Camp',
+    'b874fc50-8e17-5abd-8cb0-3f712bd2f5bf' => [
+        'All human actions have one or more of these seven causes: chance, nature, compulsions, habit, reason, passion, desire.',
+        'Aristotle',
     ],
-    [
-        'Solitude is creativity\'s best friend, and solitude is refreshment for our souls.',
-        'Naomi Judd',
+    'def7da29-de6e-563d-b8cd-02fca7ee89b0' => [
+        'The best thing about Berlin was that I got to be surrounded by people who pursue their ideas for themselves.',
+        'Agnes Obel',
     ],
-    [
-        'When I was young, all I wanted to do was to compete, have fun and travel.',
-        'Mitch Gaylord',
+    '5194804e-6513-58fe-a159-3d461d347b11' => [
+        'Live your beliefs and you can turn the world around.',
+        'Henry David Thoreau',
     ],
-    [
-        'Success is a matter of one\'s own feeling about oneself.',
-        'Edward James Olmos',
+    '9c4a9589-a019-5666-aa23-57a08ad43151' => [
+        'I\'m very happy with my life and career, but I do find myself having serious attacks of nostalgia, and I don\'t quite know why. Even though I\'ve got to travel the world and do amazing things, I still want to go back to my teenage years and change little aspects of it. It\'s strange, but it does continue to bug me.',
+        'Edgar Wright',
     ],
-    [
-        'I don\'t know what keeps me going. Sometimes I wonder... I think it\'s just pure perseverance and wanting to succeed and having that burning desire to always have success.',
-        'Tanya Tucker',
+    'ff27475e-831f-599e-b686-7de2610b56f3' => [
+        'When I finally got the chance to do \'The People v. O.J. Simpson,\' my peers embraced me with the same attitude. They didn\'t make me feel small or insignificant. They treated me as a peer. It was a wonderful experience.',
+        'Sterling K. Brown',
     ],
-    [
-        'I keep guitars that are, you know, the neck\'s a little bit bent and it\'s a little bit out of tune. I want to work and battle it and conquer it and make it express whatever attitude I have at that moment. I want it to be a struggle.',
-        'Jack White',
+    '2573b7c8-654d-5498-9195-070a6571b79c' => [
+        'A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.',
+        'Jawaharlal Nehru',
     ],
-    [
-        'Miracles do not, in fact, break the laws of nature.',
-        'C. S. Lewis',
+    'b9dc8359-d5b8-57a9-8df6-7461a7105f45' => [
+        'Success is what you do with your ability. It\'s how you use your talent.',
+        'George Allen, Sr.',
     ],
-    [
-        'There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.',
-        'Wayne Dyer',
+    '60b8eb84-d5c5-5cc6-8ae9-10726faaa75e' => [
+        'I have long been a supporter of the Head Start program because each and every year I witness the dramatic positive impact that early intervention services have on children\'s lives in my congressional district.',
+        'Lucille Roybal-Allard',
     ],
-    [
-        'There\'s no success story. Everybody\'s got a ghetto story. You always want to make it bigger than what it is.',
-        'Bernie Mac',
+    '98e8a7bc-61e0-5e67-8376-ad816d52d31d' => [
+        'In 1967 I entered Harvard as a freshman, confident - in the way that only 17-year-olds are - that I could change the world. My major was African Studies, and my plan was to travel to Tanzania, where President Julius Nyerere was creating a government based on democracy and socialism.',
+        'Bonnie Raitt',
     ],
-    [
-        'There\'s one more thing I want to say. It\'s a touchy subject. Black beauty. Black sensuality. We live in a culture where the beauty of black people isn\'t always as celebrated as other types. I\'d like to help change that if I can!',
-        'Jody Watley',
+    'e2dcb3b1-5fb3-5cf2-ae72-152fbe214541' => [
+        'You\'re going to go through tough times - that\'s life. But I say, \'Nothing happens to you, it happens for you.\' See the positive in negative events.',
+        'Joel Osteen',
     ],
-    [
-        'When everything else physical and mental seems to diminish, the appreciation of beauty is on the increase.',
-        'Bernard Berenson',
+    'c5dd4323-ecdb-547f-9b26-a0211c859bc4' => [
+        'When I was at the Royal Ballet School, I remember receiving my first eyeshadow palette from Marks &amp; Spencer as a gift. It sparked my interest in beauty, which peaked when I became more involved in theatre and got to experience so many stunning image transformations to suit different productions.',
+        'Darcey Bussell',
     ],
-    [
-        'Trust yourself. You know more than you think you do.',
-        'Benjamin Spock',
+    'd14c7f41-0822-5bcf-a23f-8688fa23a8b7' => [
+        'People have to work to maintain happiness. It\'s easy to be miserable. It\'s easy to stay miserable. It\'s easy to live in a place where nothing\'s working and not being able to work your way out of it. It\'s much harder to choose happiness, to choose laughter, to choose a positive.',
+        'Tituss Burgess',
     ],
-    [
-        'Nothing great was ever achieved without enthusiasm.',
-        'Ralph Emerson',
+    '8ebcd84a-79ad-5b00-9eb6-b4bcbbd9d2f3' => [
+        'We will be more successful in all our endeavors if we can let go of the habit of running all the time, and take little pauses to relax and re-center ourselves. And we\'ll also have a lot more joy in living.',
+        'Thich Nhat Hanh',
     ],
-    [
-        'We have a president who stole the presidency through family ties, arrogance and intimidation, employing Republican operatives to exercise the tactics of voter fraud by disenfranchising thousands of blacks, elderly Jews and other minorities.',
-        'Barbra Streisand',
+    'ad623dfa-e56c-5567-a7b4-b336bc049cab' => [
+        'I often say that poverty needs no passport to travel.',
+        "\u{d3}scar Arias",
     ],
-    [
-        'Positive psychology is not remotely intended to replace therapy or pharmacology. So when depressed, anxious or in panic or post-traumatic stress disorder, I am all for therapies that will work. Positive psychology is another arrow in the quiver of public policy and psychology through which we can raise wellbeing above zero.',
-        'Martin Seligman',
+    '7480fd5e-e8f0-51fe-91f7-adeb1250f324' => [
+        'Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.',
+        'William Shakespeare',
     ],
-    [
-        'To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.',
-        'Jane Austen',
+    '73e038ee-f0f4-58f5-917e-2a95e28d4730' => [
+        'We not only need to work happy, we need to work at being happy.',
+        'Shawn Achor',
     ],
-    [
-        'The best way to fill time is to waste it.',
-        'Marguerite Duras',
+    '587ce893-6ecf-5364-bd09-f66ea8e0e758' => [
+        'People with a sense of humor tend to be less egocentric and more realistic in their view of the world and more humble in moments of success and less defeated in times of travail.',
+        'Bob Newhart',
     ],
-    [
-        'I allow a lot of room for improvisation and funny stuff. I always feel planned.',
-        'Michael Bay',
+    'd0aa695f-38e7-5839-a99c-9c51da99ef47' => [
+        'Yes, we do defend our office as we do defend our homes. This is a constitutional right everybody has, and nothing\'s funny about that. The only reason they get mad at the Black Panther Party when you do it is for the simple reason that we\'re political.',
+        'Fred Hampton',
     ],
-    [
-        'I love the long grass coming up to meet the willows.',
-        'Jilly Cooper',
+    'ae2a7fd2-e3a8-5308-8e1c-a5e3ffc803bf' => [
+        'I love Ralph Lauren. As I travel so much, I prefer to shop online.',
+        'Meghan Markle',
     ],
-    [
-        'I wish to be appreciated not only as a film star but also for the person I am. If I manage to bring a smile on people\'s faces, then I think I\'ll be successful.',
-        'Deepika Padukone',
+    'ef268fdb-8494-5615-9a3b-519791c1dd52' => [
+        'The very winds whispered in soothing accents, and maternal Nature bade me weep no more.',
+        'Mary Shelley',
     ],
-    [
-        'There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.',
-        'Jiddu Krishnamurti',
+    'b9cda07f-8c5d-560c-859d-3e4e09376f24' => [
+        'The tax collector must love poor people, he\'s creating so many of them.',
+        'Bill Vaughan',
     ],
 ];

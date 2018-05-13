@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Tyga\'s one of my best friends ever, so it\'s so much fun to travel with him. I always like having my friends out on the road with me.',
-        'Kylie Jenner',
+    '48a04bbe-7638-5efe-9cbc-6c18c3c29afe' => [
+        'Stay open-minded; stay focused. Train hard and train smart. For me, the older I get, the smarter I have to train also, because the recovery time is longer. Work on everything: become a well-rounded fighter - don\'t just be good at one thing; be good at everything.',
+        'Brock Lesnar',
     ],
-    [
-        'Nature holds the key to our aesthetic, intellectual, cognitive and even spiritual satisfaction.',
-        'E. O. Wilson',
+    '1a9fe4f1-a76d-5572-93a5-c6052e877a34' => [
+        'Life and death are one thread, the same line viewed from different sides.',
+        'Oscar Wilde',
     ],
-    [
-        'The true way to render ourselves happy is to love our work and find in it our pleasure.',
-        'Francoise de Motteville',
+    '04e6166b-2b31-51f1-ae1f-8e39ca831d58' => [
+        'The greatest education in the world is watching the masters at work.',
+        'Michael Jackson',
     ],
-    [
-        'All personality traits have their good side and their bad side. But for a long time, we\'ve seen introversion only through its negative side and extroversion mostly through its positive side.',
-        'Susan Cain',
+    'e41ca009-efe2-54df-b28d-d8d488656371' => [
+        'What you do makes a difference, and you have to decide what kind of difference you want to make.',
+        'Jane Goodall',
     ],
-    [
-        'You know, fame is a funny thing, man, especially, you know, actors, musicians, rappers, rock singers, it\'s kind of a lifestyle and it\'s easy to get caught up in it - you go to bars, you go to clubs, everyone\'s doing a certain thing... It\'s tough.',
-        'Eminem',
+    '1aeb1241-71f3-529f-adbe-65f0ea9e72c2' => [
+        'I would say I\'m an inspirational guidelines book. You can take my life story or scenarios or songs and relate to them and apply them to your everyday life.',
+        'Chris Brown',
     ],
-    [
-        'Any time you have defensive ends going above you in the draft, when you know you put up numbers that were equal to better, you just have to use that as motivation. Whenever you\'re the underdog, you have to have the right attitude and just go out there and be yourself; just play.',
-        'Justin Tuck',
+    '560259b6-45af-57e4-901c-253fd559851d' => [
+        'Why be a man when you can be a success?',
+        'Bertolt Brecht',
     ],
-    [
-        'No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind.',
-        'Caroline Kennedy',
+    '42867bf4-aef0-567d-afa1-e9187ab1389b' => [
+        'Don\'t disrespect me, lie about it, and then come smile in my face and act like nothing\'s wrong.',
+        'Scottie Pippen',
     ],
-    [
-        'I love to travel, but hate to arrive.',
-        'Hernan Cortes',
+    '3f0860e4-9eca-5857-98af-50c277fd60a8' => [
+        'I am grateful every morning I wake up. I\'ve a big family full of kids, who laugh all the time and love each other.',
+        'Kris Kristofferson',
     ],
-    [
-        'We travel, some of us forever, to seek other states, other lives, other souls.',
-        'Anais Nin',
+    '02eff1d1-071e-592c-abe2-871d9338bd0a' => [
+        'People travel north from Barcelona, not south.',
+        'Jose Andres',
     ],
-    [
-        'My parents being Bengali, we always had music in our house. My nani was a trained classical singer, who taught my mum, who, in turn, was my first teacher. Later I would travel almost 70 kms to the nearest town, Kota, to learn music from my guru Mahesh Sharmaji, who was also the principal of the music college there.',
-        'Shreya Ghoshal',
+    '5634bbae-2faf-569b-bfd0-7d559579a74f' => [
+        'It\'s often hard for us to imagine going without some of our luxuries like travel, dining out, or Internet, much less our basic necessities like food and water. But try for a minute to imagine how life would be with such deprivations.',
+        'Marcus Samuelsson',
     ],
-    [
-        'Beauty products always cheer me up and give me hope. If it makes you feel pretty, why not?',
-        'Salma Hayek',
+    '5362f5db-0cdf-5121-989a-310aeecf9c46' => [
+        'If you don\'t like me, if you like me; both are equally cool. I send love and positive energy to all those people in their lives. I hope they find where they\'re meant to be.',
+        'Willow Smith',
     ],
-    [
-        'I travel around the world, and there are so many beautiful girls, but that\'s not going to make you a supermodel. You have to have something more than just a pretty face.',
-        'Irina Shayk',
+    'a186ed37-2e74-553b-9344-9319d5757838' => [
+        'I like to think I\'m a pretty good friend. I love having a good time, and I enjoy being able to share those good times with others.',
+        'Jacob Batalon',
     ],
-    [
-        'I have often said that the lure of flying is the lure of beauty.',
-        'Amelia Earhart',
+    'ec2b8d0d-ac68-5c80-b0a8-988ad300d2e1' => [
+        'If you really believe in what you\'re doing, work hard, take nothing personally and if something blocks one route, find another. Never give up.',
+        'Laurie Notaro',
     ],
-    [
-        'I\'ve known my best friend since I was a baby, and I don\'t know what I would do without her. She is always straight with me and can make me laugh hysterically. Everyone should have someone like that in their life.',
-        'Jasmine Guinness',
+    '774a64e7-3d95-528a-9348-2bfa224edeb4' => [
+        'I didn\'t grow up identifying with beauty. I grew up thinking I could be smart and funny - those are the things I got feedback on.',
+        'Lauren Graham',
     ],
-    [
-        'Champions are not the ones who always win races - champions are the ones who get out there and try. And try harder the next time. And even harder the next time. \'Champion\' is a state of mind. They are devoted. They compete to best themselves as much if not more than they compete to best others. Champions are not just athletes.',
-        'Simon Sinek',
+    '7f8b0b7f-5c45-56f2-b442-d3d43e29fdc8' => [
+        'What is one to say about June, the time of perfect young summer, the fulfillment of the promise of the earlier months, and with as yet no sign to remind one that its fresh young beauty will ever fade.',
+        'Gertrude Jekyll',
     ],
-    [
-        'Divorce is never a pleasant experience. You look upon it as a failure. But I learned to be a different person once we broke up. Sometimes you learn more from failure than you do from success.',
-        'Michael Crawford',
+    '5da438ed-f061-5caf-903d-87dbdda11c4c' => [
+        'What\'s another word for Thesaurus?',
+        'Steven Wright',
     ],
-    [
-        'When you have balance in your life, work becomes an entirely different experience. There is a passion that moves you to a whole new level of fulfillment and gratitude, and that\'s when you can do your best... for yourself and for others.',
-        'Cara Delevingne',
+    'e8a53480-702f-5eb8-8231-7163be9998be' => [
+        'My favorite thing is to have a big dinner with friends and talk about life.',
+        'Muhammad Ali',
     ],
-    [
-        'Taught from infancy that beauty is woman\'s sceptre, the mind shapes itself to the body, and roaming round its gilt cage, only seeks to adorn its prison.',
-        'Mary Wollstonecraft',
+    '2cb65fc9-c55b-597a-bc63-fff6a03a427d' => [
+        'With the realization of ones own potential and self-confidence in ones ability, one can build a better world.',
+        'Dalai Lama',
     ],
-    [
-        'I\'m totally into new age and self-help books. I used to work in a bookstore and that\'s the section they gave me, and I got way into it. I just loved the power of positive thinking, letting yourself go.',
-        'Jason Mraz',
+    'd5eecad3-cca0-5ab2-8472-7129588a3315' => [
+        'Suffering is permanent, obscure and dark, And shares the nature of infinity.',
+        'William Wordsworth',
     ],
-    [
-        'The more you care, the stronger you can be.',
+    'cba05b84-bbea-509d-8d9e-ec7d51121392' => [
+        'You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you\'ll get to tomorrow. Intention without action is useless.',
+        'Caroline Myss',
+    ],
+    'eecd481e-fa17-5d8a-867c-e324fa34d917' => [
+        'I was born in South Africa during apartheid, a system of laws that made it illegal for people to mix in South Africa. And this was obviously awkward because I grew up in a mixed family. My mother\'s a black woman, South African Xhosa woman... and my father\'s Swiss, from Switzerland.',
+        'Trevor Noah',
+    ],
+    '5edfe106-458c-5d41-b679-2723f46a11b2' => [
+        'Formal education will make you a living; self-education will make you a fortune.',
         'Jim Rohn',
     ],
-    [
-        'I don\'t care how handsome or fabulous or funny the groom is, or how sweet and accommodating the bride, or vice versa. Marriage is hard.',
-        'Jenna McCarthy',
+    '48221f2c-4d89-5e1f-8f8b-23981a84f1c9' => [
+        'It\'s wonderful to learn about new cultures and to be able to travel easily to so many countries.',
+        'Stephen A. Schwarzman',
     ],
-    [
-        'If you want a thing done well, do it yourself.',
-        'Napoleon Bonaparte',
+    'a5d0f01c-71a2-5ac4-b0c5-d10723a05a84' => [
+        'Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.',
+        'e. e. cummings',
     ],
-    [
-        'There is hope and a kind of beauty in there somewhere, if you look for it.',
-        'H. R. Giger',
-    ],
-    [
-        'I am a gentleman. My natural inclination is to be on my best behavior.',
-        'Joe Wilson',
-    ],
-    [
-        'The sea, once it casts its spell, holds one in its net of wonder forever.',
-        'Jacques Yves Cousteau',
+    'f7c28a0e-75b2-5137-ad2e-51b4f0dcf918' => [
+        'Even if one tree falls down it wouldn\'t affect the entire forest.',
+        'Chen Shui-bian',
     ],
 ];

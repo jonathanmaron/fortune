@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I always got my work done before playing.',
-        'Edwin Moses',
+    '4d30cf7d-eb90-543f-ba94-31699a9344d9' => [
+        'Imperfection is beauty, madness is genius and it\'s better to be absolutely ridiculous than absolutely boring.',
+        'Marilyn Monroe',
     ],
-    [
-        'Typically, if you reward something, you get more of it. You punish something, you get less of it. And our businesses have been built for the last 150 years very much on that kind of motivational scheme.',
-        'Daniel H. Pink',
+    '210d2904-5907-5507-a0bf-2114bcb8832c' => [
+        'If a man walks in the woods for love of them half of each day, he is in danger of being regarded as a loafer. But if he spends his days as a speculator, shearing off those woods and making the earth bald before her time, he is deemed an industrious and enterprising citizen.',
+        'Henry David Thoreau',
     ],
-    [
-        'If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.',
-        'John D. Rockefeller',
+    'd9c909e8-b859-5a9e-bc7e-1e6d1e967c47' => [
+        "It\u{92}s better to have nobody than someone who is half there, or who doesn\u{92}t want to be there.",
+        'Angelina Jolie',
     ],
-    [
-        'As a Korean War Veteran, I know too well the troubling nature of war. This is why I will always support a diplomatic answer before military intervention.',
-        'Charles B. Rangel',
+    '1a650c27-a9a8-5cc7-bcec-36bb3fa9dcbd' => [
+        'A Bond girl must be a strong and independent woman, but at the same time charming and sensual. Those opposite qualities combined together make her interesting. She must be strong but at the same time feminine.',
+        'Olga Kurylenko',
     ],
-    [
-        'Great hopes make great men.',
-        'Thomas Fuller',
+    'df63a255-0357-571f-b124-f8b22a13792e' => [
+        'The idea that happiness could have a share in beauty would be too much of a good thing.',
+        'Walter Benjamin',
     ],
-    [
-        'Beauty is a relation, and the apprehension of it a comparison.',
-        'Gerard Manley Hopkins',
+    'd81493eb-0684-5696-a661-01b9a355cf6c' => [
+        'My kids give me the balance to live right.',
+        'Celine Dion',
     ],
-    [
-        'If you don\'t have many possessions, then you don\'t need to work all your life like a slave to sustain them, and therefore you have more time for yourself.',
-        'Jose Mujica',
+    '3d3416a9-6a88-5a84-8ceb-8114c29bffa5' => [
+        'I\'m for whatever gets you through the night.',
+        'Frank Sinatra',
     ],
-    [
-        'I can\'t understand why people are frightened of new ideas. I\'m frightened of the old ones.',
-        'John Cage',
+    '336b5287-bab3-59ff-8765-0187c830e178' => [
+        'Dirty martinis and music - that\'s the big motto in our family. We get the booze going, and the music starts playing. Always old-school hip-hop. Jay-Z. Tribe Called Quest. The Pharcyde. My parents love that stuff.',
+        'Matt Harvey',
     ],
-    [
-        'Everybody is vulnerable to being in relationships where they get fooled. I\'m no different. It\'s just human nature.',
-        'Michelle Pfeiffer',
+    '6fc8db19-8af0-5532-aad1-89cfa41353ab' => [
+        'The funniest racism is the racism between minorities. It\'s something you don\'t see dramatized, but almost every minority I know who\'s my age, they have these funny stories about their parents stereotyping other minorities.',
+        'Mindy Kaling',
     ],
-    [
-        'The great thing is that the funny side of getting old is fuel for my comedy.',
-        'Steve Coogan',
+    '67ad56d2-bcd3-50ba-bd47-21a33e23e142' => [
+        'Nature is our chapel.',
+        'Bjork',
     ],
-    [
-        'I\'ve got a pretty iconoclastic attitude about all institutions myself. And I just think the church was corrupted right after Christ was killed.',
-        'Harry Dean Stanton',
+    'e5db862a-ea1c-592d-bac8-a3b9c6af5a60' => [
+        'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
+        'William Channing',
     ],
-    [
-        'You, too, women, cast away all the cowards from your embraces; they will give you only cowards for children, and you who are the daughters of the land of beauty must bear children who are noble and brave.',
-        'Giuseppe Garibaldi',
+    '8c529426-4088-50ea-862c-8b0852cb1850' => [
+        'I realized I love motivating and I love empowering and I love inspiring people. I did that as an athlete for 18 years, and I am able to do that as a motivational speaker now as well as doing work on television.',
+        'Dominique Dawes',
     ],
-    [
-        'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
-        'Bruce Lee',
+    'baf77330-aca1-5e2c-8bc8-8837cf31c4f9' => [
+        'Well, capitalism is going to grow and grow. The nature of it is that the guy who has the most poker chips on the table has more leverage than everyone else. He can eventually outbluff everyone else and outraise everyone else at the table. That\'s what has happened and it needs to be corrected.',
+        'Simon Baker',
     ],
-    [
-        'Mind you, physical training doesn\'t necessarily mean going to an expert for advice. One doesn\'t have to make a mountain out of a molehill. Get out in the fresh air and walk briskly - and don\'t forget to wear a smile while you\'re at it. Don\'t over-do. Take it easy at first and build on your effort day by day.',
-        'Douglas Fairbanks',
+    'eb9774dc-9e79-579e-8c27-97aa17a59985' => [
+        'I am humbled and excited by new opportunities for me to support and share the amazing work NASA is doing to help us travel farther into the solar system and work with the next generation of science and technology leaders.',
+        'Scott Kelly',
     ],
-    [
-        'If a person can be said to have the wrong attitude, there is no need to pay attention to his arguments.',
-        'John McCarthy',
+    'a4313678-544a-57a2-bede-70ec6cd656d2' => [
+        'For an athlete, there\'s no time off... until it\'s over.',
+        'Terry Bradshaw',
     ],
-    [
-        'Beauty is a fragile gift.',
-        'Ovid',
+    '16c2ce77-9473-5ad1-8977-dc9bba1e237c' => [
+        'The attitude of the West and of Russia towards a crisis like Ukraine is diametrically different. The West is trying to establish the legality of any established border. For Russia, Ukraine is part of the Russian patrimony.',
+        'Henry Kissinger',
     ],
-    [
-        'And, in a funny way, each death is different and you mourn each death differently and each death brings back the death you mourned earlier and you get into a bit of a pile-up.',
-        'Nigella Lawson',
+    '02bbeda4-781d-500b-98c8-c326c43de9fd' => [
+        'Nothing is impossible to him who will try.',
+        'Alexander The Great',
     ],
-    [
-        'Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.',
-        'Byron Pulsifer',
+    'ff6cd42c-c4fa-5b31-86ef-a6970a065790' => [
+        'Someone told me that when they go to Vermont, they feel like they\'re home. I\'m that way at Saks.',
+        'Caroline Rhea',
     ],
-    [
-        'Many people feel so pressured by the expectations of others that it causes them to be frustrated, miserable and confused about what they should do. But there is a way to live a simple, joy-filled, peaceful life, and the key is learning how to be led by the Holy Spirit, not the traditions or expectations of man.',
-        'Natalie Massenet',
+    '19dde445-18cd-5588-88a9-82112c572b92' => [
+        'Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.',
+        'Ben Jonson',
     ],
-    [
-        'None of us can claim to be fair and square in love - and I\'m definitely not a hypocrite! Humans are built to evolve with time. It depends on the nature of the relationship you share with a person. It is there today, tomorrow it may be gone; c\'est la vie.',
-        'Randeep Hooda',
+    '0a4b9718-7104-5ccb-a2b8-53bccb411a46' => [
+        'Any idiot can face a crisis - it\'s day to day living that wears you out.',
+        'Russell Westbrook',
     ],
-    [
-        'When the media defines something, you have to question: Is it the definition that you want applied to your culture? I\'m trying to determine who\'s leaving the legacy, and if the legacy that is being left is a positive one.',
-        'Tim Reid',
+    '98d7f4d8-8651-5fbb-ba37-568b6848fad8' => [
+        'Success is really about your mindset.',
+        'F. Gary Gray',
     ],
-    [
-        'I\'ve always believed that you can think positive just as well as you can think negative.',
-        'James A. Baldwin',
+    '83de05c6-2888-5dfe-9b4b-27d37e5a389d' => [
+        'We all have problems. The way we solve them is what makes us different.',
+        'Unknown',
     ],
-    [
-        'Who controls the past controls the future. Who controls the present controls the past.',
-        'George Orwell',
+    '2e799948-c44e-5c3c-9688-98f5df844f16' => [
+        'Awards are not the only markers of success; I don\'t judge myself just based on them. I believe that each cinema-goer has his own mental trophies.',
+        'Fan Bingbing',
     ],
-    [
-        'Though pleas\'d to see the dolphins play, I mind my compass and my way.',
-        'Matthew Green',
+    '1207933c-a094-5aa8-9b61-290e7ffc045e' => [
+        'Personally, I just think rap music is the best thing out there, period. If you look at my deck in my car radio, you\'re always going to find a hip-hop tape; that\'s all I buy, that\'s all I live, that\'s all I listen to, that\'s all I love.',
+        'Eminem',
     ],
-    [
-        'Travel works best when you\'re forced to come to terms with the place you\'re in.',
-        'Paul Theroux',
+    'ffd80a05-8d4a-5bc3-af18-4f459a37f928' => [
+        'Art is not the application of a canon of beauty but what the instinct and the brain can conceive beyond any canon. When we love a woman we don\'t start measuring her limbs.',
+        'Pablo Picasso',
     ],
 ];

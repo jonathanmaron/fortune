@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It is so inspirational, to see that in the world of Westeros, men are answering to women, and they are a force to be reckoned with. It\'s empowering, and it\'s inspirational as well, because you\'re just like, \'This is great!\'',
-        'Rose Leslie',
+    '52d7dac5-5ded-5d24-8262-35f233a52261' => [
+        'We sometimes laugh from ear to ear, but it would be impossible for a smile to be wider than the distance between our eyes.',
+        'Malcolm de Chazal',
     ],
-    [
-        'The present time has one advantage over every other - it is our own.',
-        'Charles Caleb Colton',
+    '0f667b75-7494-55b1-974e-0039c7ae72f9' => [
+        'Time makes more converts than reason.',
+        'Thomas Paine',
     ],
-    [
-        'My father instilled in me the attitude of prevailing. If there\'s a challenge, go for it. If there\'s a wall to break down, break it down.',
-        'Donny Osmond',
+    '96a2fd95-3dd3-5b10-8cef-cc5539802b5b' => [
+        'Shortly thereafter, some friends encouraged me to try out for the Miss South Carolina World beauty pageant. To my surprise, I won - and was sent to New York City to compete nationally.',
+        'Donna Rice',
     ],
-    [
-        'I\'ve always wanted a family since I was a little girl - a big family. I\'m an only child, so I wanted, like, 10 kids... for sure.',
-        'Behati Prinsloo',
+    '0d51ccc3-9cdf-5512-99f7-011b4e86f06a' => [
+        'You can never control who you fall in love with, even when you\'re in the most sad, confused time of your life. You don\'t fall in love with people because they\'re fun. It just happens.',
+        'Kirsten Dunst',
     ],
-    [
-        'Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning.',
-        'Denis Waitley',
+    '0c941232-6fed-55bb-bc9a-a35d8ffccd39' => [
+        'To me, \'beauty\' means to be natural, creative, honest - to say the truth.',
+        'Nawal El Saadawi',
     ],
-    [
-        'It is not fit that every man should travel; it makes a wise man better, and a fool worse.',
-        'William Hazlitt',
+    'a1e39722-1efc-5319-ab28-53ddd8d88d70' => [
+        'Winners make a habit of manufacturing their own positive expectations in advance of the event.',
+        'Brian Tracy',
     ],
-    [
-        'I am a thing of beauty.',
-        'Frank Sinatra',
+    'f18a7754-8824-54ad-b171-236f54c1b47b' => [
+        'It\'s hard now to imagine that kind of travel and the daily tasks they simply took for granted. If a wagon axle broke, you had to stop and carve a new one. To cross a river, you sometimes had to build a raft.',
+        'James Houston',
     ],
-    [
-        'It is the mark of an educated mind to be able to entertain a thought without accepting it.',
-        'Aristotle',
+    '8f9bee01-882d-58bd-98ea-fd6ef6c1eaf7' => [
+        'One measure of your success will be the degree to which you build up others who work with you. While building up others, you will build up yourself.',
+        'James E. Casey',
     ],
-    [
-        'Sex and beauty are inseparable, like life and consciousness. And the intelligence which goes with sex and beauty, and arises out of sex and beauty, is intuition.',
-        'D. H. Lawrence',
+    '9776e7a3-f12a-5336-8963-1cf4f6bf8711' => [
+        'As an organizer I start from where the world is, as it is, not as I would like it to be.',
+        'Saul Alinsky',
     ],
-    [
-        'When everything happens to you when you\'re so young, you\'re very lucky, but by the same token, you\'re never going to have that same feeling again. The first time anything happens to you - your first love, your first success - the second one is never the same.',
-        'Lauren Bacall',
+    '28213e01-1648-5dd8-90c4-28f2f10ef74a' => [
+        'I think I have a hard time expressing myself in my relationships. I use songs to tell people how I\'m feeling. If I can\'t say \'I love you,\' I\'ll write a song about it and hope that the person figures it out.',
+        'Jenny Lewis',
     ],
-    [
-        'When push comes to shove, it ain\'t the science that\'s going to lift you up - it\'s the belief, the spiritual side of life, that\'s going to lift you up, no matter what religion you are.',
-        'Kirstie Alley',
+    '33fa1e3e-556c-527b-a7c3-53d6a20bfff7' => [
+        'The biggest thing we get out of it is seeing the kids smile. And hopefully we will also see that the lessons we\'re teaching - not only the fundamentals of hockey, but also the life values - are sinking in.',
+        'Bobby Orr',
     ],
-    [
-        'Whatever obstacle comes your way, you gotta be prepared to jump over it! And I think that\'s what separates the legends from the regular artists. It\'s all in how you manage that success, and how you deal with the controversy when it actually comes.',
-        'Akon',
+    '5b72b5c1-43e5-50f2-a522-6abaed7c1eda' => [
+        'My writing is a combination of three elements. The first is travel: not travel like a tourist, but travel as exploration. The second is reading literature on the subject. The third is reflection.',
+        'Ryszard Kapuscinski',
     ],
-    [
-        'A lot of punk rock is not going to be in the mainstream. It\'s below the radar. The beauty of it is that you\'re not supposed to always know. It\'s subterranean.',
-        'Billie Joe Armstrong',
+    'e19afebb-6e24-5ee9-939d-008f18dda962' => [
+        'The pain passes, but the beauty remains.',
+        'Auguste Renoir',
     ],
-    [
-        'I don\'t believe in failure. It is not failure if you enjoyed the process.',
-        'Oprah Winfrey',
+    'bd3c77ce-c9f7-5264-8c23-23afae672021' => [
+        'A birthday is just another day where you go to work and people give you love. Age is just a state of mind, and you are as old as you think you are. You have to count your blessings and be happy.',
+        'Abhishek Bachchan',
     ],
-    [
-        'Progress is man\'s ability to complicate simplicity.',
-        'Thor Heyerdahl',
+    '42dd322e-8925-5c61-b49a-9627d91a1f96' => [
+        'It was a very emotional dinner... Everyone shared personal stories about her and gave her words of encouragement and inspiration. Everyone tried to remain positive.',
+        'Lil\' Kim',
     ],
-    [
-        'My parents leaving a third world country to a first world country and building from nothing - that\'s really inspiring to me and it\'s influenced me in a positive way.',
-        'Melanie Fiona',
+    'fe61e0f2-b8b6-5a04-87e0-309b167f1137' => [
+        'Consider how hard it is to change yourself and you\'ll understand what little chance you have in trying to change others.',
+        'Jacob Braude',
     ],
-    [
-        'I am so happy to be alive. That\'s the one thing I\'d like for people to know. Sometimes people walk by and slip up and say the wrong thing about me, and I\'ll smile. They wonder why am I smiling. Because I\'m happy that I\'m alive.',
-        'George Foreman',
+    '76c9fa52-a9da-5009-8188-c6ded62fe477' => [
+        'My definition of success is to live your life in a way that causes you to feel a ton of pleasure and very little pain - and because of your lifestyle, have the people around you feel a lot more pleasure than they do pain.',
+        'Tony Robbins',
     ],
-    [
-        'What I miss most about Mexico isn\'t the food or the customs; it\'s my family and the way we\'d all sit around chatting together.',
-        'Javier Hernandez',
+    'bf8c674d-e375-53b9-be28-33c5c890210a' => [
+        'And we can see the positive impacts right here at Solyndra. Less than a year ago, we were standing on what was an empty lot. But through the Recovery Act, this company received a loan to expand its operations. This new factory is the result of those loans.',
+        'Barack Obama',
     ],
-    [
-        'Effective philanthropy requires a lot of time and creativity - the same kind of focus and skills that building a business requires.',
-        'Bill Gates',
+    '84a5f708-2e1e-5263-914d-e90ab0e3200b' => [
+        'I decided that if I could paint that flower in a huge scale, you could not ignore its beauty.',
+        'Georgia O\'Keeffe',
     ],
-    [
-        'To know even one life has breathed easier because you have lived. This is to have succeeded.',
-        'Bessie Anderson Stanley',
+    '4175f652-7ff0-52eb-b860-0ced96a99b87' => [
+        'Carry on any enterprise as if all future success depended on it.',
+        'Cardinal Richelieu',
     ],
-    [
-        'You cannot have maternal health without reproductive health. And reproductive health includes contraception and family planning and access to legal, safe abortion.',
-        'Hillary Clinton',
+    'dd0b97cc-98ad-5bca-9c45-d93f17429442' => [
+        'The greatest good you can do for another is not just to share your riches but to reveal to him his own.',
+        'Benjamin Disraeli',
     ],
-    [
-        'He who is fixed to a star does not change his mind.',
-        'Leonardo da Vinci',
+    '28d9f0ec-2944-5963-8689-813ee986422b' => [
+        '\'Dancing with the Stars\' is a great format for us. It\'s a format we license from the BBC, so that can\'t travel for us, but we consider it a great success. \'Desperate Housewives,\' on the other hand, a huge success for us internationally. \'Missing\' has actually sold to 80 territories before it\'s even gone on the air.',
+        'Anne Sweeney',
     ],
-    [
-        'When your time comes to die, be not like those whose hearts are filled with fear of death, so that when their time comes they weep and pray for a little more time to live their lives over again in a different way. Sing your death song, and die like a hero going home.',
-        'Tecumseh',
+    'a587d97b-7d45-56c2-8d09-170a61635d2e' => [
+        'Some people say I have attitude - maybe I do... but I think you have to. You have to believe in yourself when no one else does - that makes you a winner right there.',
+        'Venus Williams',
     ],
-    [
-        'Life\'s challenges are not supposed to paralyse you, they\'re supposed to help you discover who you are.',
-        'Bernice Reagon',
+    'ecc040f4-e21a-5f68-988b-37bfc6c37de3' => [
+        'Here is my prescription to heal all wounds. Watch the film \'Funny Girl\' at least five times, eat at least 45 chocolate bars, and hang out with all those friends you blew off to hang out with your ex. I truly believe that, through a combination of Nutella, old pals and Barbra Streisand, we can achieve happiness and, very probably, world peace.',
+        'Beth Ditto',
     ],
-    [
-        'I have no idea what I\'m going to say when I stand up to give a toast. But I do know that anything I say I find funny.',
-        'Don Rickles',
+    '91cbbbb9-e353-5ebe-a2c6-d052d59d34c9' => [
+        'From there to here, and here to there, funny things are everywhere.',
+        'Dr. Seuss',
     ],
 ];

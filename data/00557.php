@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Our deepest wishes are whispers of our authentic selves. We must learn to respect them. We must learn to listen.',
-        'Sarah Breathnach',
+    '491549c0-c5e9-5187-8b1b-dbc01c2815f6' => [
+        'I could have probably raised them in L.A. and they would have been great and had so many things at their fingertips and been exposed to so many things. But we travel a lot, so I don\'t think that moving out of town is sheltering the girls at all. Maybe protecting them a little bit more, trying to prolong their youth.',
+        'Jennie Garth',
     ],
-    [
-        'Modern science says: \'The sun is the past, the earth is the present, the moon is the future.\' From an incandescent mass we have originated, and into a frozen mass we shall turn. Merciless is the law of nature, and rapidly and irresistibly we are drawn to our doom.',
-        'Nikola Tesla',
+    'b8775b7d-71c9-5289-b37b-204566036407' => [
+        'If war occurs, that positive adult contact in every shape is needed more than ever. It will be a matter of emotional life and death. There\'s not a handy one-minute way of talking to your kid about war.',
+        'Richard Louv',
     ],
-    [
-        'Inspiration is one thing and you can\'t control it, but hard work is what keeps the ship moving. Good luck means, work hard. Keep up the good work.',
-        'Kevin Eubanks',
+    'f1a7c11d-92ed-5ad3-94ec-c5fe8d00017a' => [
+        'The biggest ingredient in a best friend is someone whose actions you respect and who you can truly be yourself around.',
+        'Renee Olstead',
     ],
-    [
-        'You know, I always say white is not a colour, white is an attitude, and if you haven\'t got trillions of dollars in the bank that you don\'t need, you can\'t be white.',
-        'Dick Gregory',
+    '45e8ce90-71dd-5dd3-9b79-5bdd1eb32a2d' => [
+        'Tramping is too easy with all this money. My days were more exciting when I was penniless and had to forage around for my next meal... I\'ve decided that I\'m going to live this life for some time to come. The freedom and simple beauty of it is just too good to pass up.',
+        'Christopher McCandless',
     ],
-    [
-        'A beam of light takes about two million years to reach from us to the Andromeda nebula. But my thought covers this distance in a few seconds. Perhaps some day some intermediate form of body and mind may permit us to say that we actually can travel faster than light.',
-        'Ragnar Frisch',
+    'b6b84345-3fc4-50de-842f-e0b14f25a57a' => [
+        'Be better than you were yesterday.',
+        'Unknown',
     ],
-    [
-        'Thelonious Monk was one of the musicians I most connected with early on. I\'m a huge Betty Carter fan, and the way that Abbey Lincoln and Shirley Horn grew immensely from the time they were young is so inspirational.',
-        'Cecile McLorin Salvant',
+    'd14428c3-b787-593e-9241-cf5a806e86ee' => [
+        'It is easier to live through someone else than to become complete yourself.',
+        'Betty Friedan',
     ],
-    [
-        'You stand with the least likely to succeed until success is succeeded by something more valuable: kinship. You stand with the belligerent, the surly and the badly behaved until bad behavior is recognized for the language it is: the vocabulary of the deeply wounded and of those whose burdens are more than they can bear.',
-        'Greg Boyle',
+    '95d3b1f1-a3cc-52ed-96e4-1cda1f9bdbd7' => [
+        'The only thing that overcomes hard luck is hard work.',
+        'Harry Golden',
     ],
-    [
-        'I managed to take a family trip to the Bahamas and it was quite lovely.',
-        'Jackie Collins',
+    'ce4a0ba8-fbb0-5c50-9a0f-31549f2d5265' => [
+        'Opportunities are usually disguised as hard work, so most people don\'t recognize them.',
+        'Ann Landers',
     ],
-    [
-        'Johnny Colt is a character, and most people in Lynyrd Skynyrd are characters, so he fits in great with us. He\'s got an attitude, man, and I love it, and that\'s what we need.',
-        'Johnny Van Zant',
+    '858c383b-173a-5f55-8772-4693ccd80ff4' => [
+        'Life is not always not always what one wants it to be., but to make the best of it as it is the only way of being happy.',
+        'Lady Randolph Churchill',
     ],
-    [
-        'The catch phrase for the day is \'Do an act of kindness. Help one person smile.\'',
-        'Harvey Ball',
+    '03cc1dbc-7a1a-5d5a-8991-61d6fc697d6b' => [
+        'Love is a chain of love as nature is a chain of life.',
+        'Truman Capote',
     ],
-    [
-        'Patience, persistence and perspiration make an unbeatable combination for success.',
-        'Napoleon Hill',
+    'd7f5068c-df48-5836-a12b-8ce57460539a' => [
+        'A game one of my sisters will play with me in my first year of being alive is called Good Baby, Bad Baby. This consists of being told I am a good baby until I smile and laugh, then being told I am a bad baby until I burst into tears. This training will stand me in good stead all through my life.',
+        'Ali Smith',
     ],
-    [
-        'If you want to achieve things in life, you\'ve just got to do them, and if you\'re talented and smart, you\'ll succeed.',
-        'Juliana Hatfield',
+    '31d2f2e3-b04c-5141-86eb-dbae4de8e666' => [
+        'You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.',
+        'Brian Tracy',
     ],
-    [
-        'Success is not only one thing. It\'s not only having a nice house in Beverly Hills and driving a nice Mercedes.',
-        'Malik Bendjelloul',
+    '1658b3f8-4dca-5bab-a055-7611a9fe05d7' => [
+        'The last of human freedoms - the ability to chose one\'s attitude in a given set of circumstances.',
+        'Viktor E. Frankl',
     ],
-    [
-        'Everybody loves success, but they hate successful people.',
-        'John McEnroe',
+    '7cf16263-bde0-5823-a939-b990c43d2260' => [
+        'For many years, I hated nature. As a student, I refused to put a plant anywhere - a living plant, that is. Dead plants were OK.',
+        'Zaha Hadid',
     ],
-    [
-        'Studies have shown that inmate participation in education, vocational and job training, prison work skills development, drug abuse, mental health and other treatment programs, all reduce recidivism, significantly.',
-        'Bobby Scott',
+    '6df340b5-76bb-54da-bc49-ab574c5e298f' => [
+        'Follow your dreams, work hard, practice and persevere. Make sure you eat a variety of foods, get plenty of exercise and maintain a healthy lifestyle.',
+        'Sasha Cohen',
     ],
-    [
-        'I realised that if you get yourself labeled as the funny one, people don\'t look any further. I\'ve used that as I\'ve got older. It\'s controlling: I decide what part of my personality you\'re seeing. I don\'t want you to look at me, I really don\'t. I don\'t want you to comment on my clothes, my hair or the way I look.',
-        'Catherine Tate',
+    '4422ddec-3bf3-5121-a707-098cd29c9d22' => [
+        'Blessed is the man who expects nothing, for he shall never be disappointed.',
+        'Alexander Pope',
     ],
-    [
-        'Tell people you\'re a Canadian or a Kiwi when you travel and they\'ll adore you.',
-        'Daniel Gillies',
+    '8651fcaf-6e7f-526d-9656-5c08601ba825' => [
+        'Hardboiled crime fiction came of age in \'Black Mask\' magazine during the Twenties and Thirties. Writers like Dashiell Hammett and Raymond Chandler learnt their craft and developed a distinct literary style and attitude toward the modern world.',
+        'Charles Frazier',
     ],
-    [
-        'Work out your own salvation. Do not depend on others.',
-        'Buddha',
+    'e906745c-91b4-5adb-8f76-8788253d6aad' => [
+        'You never lose a dream. It just incubates as a hobby.',
+        'Larry Page',
     ],
-    [
-        'You have to train your brain to be positive just like you work out your body.',
-        'Shawn Achor',
+    '1ebc523d-b232-579a-8d6d-a0f4db230acc' => [
+        'Instead of this confusion, we need the unifying force of an official language, English, which is the language of success in America.',
+        'Ernest Istook',
     ],
-    [
-        'I generally travel with my laptop, a couple of great books, and my iPod.',
-        'Orlando Bloom',
+    'c447b919-4673-5c6a-9f27-a2df337cb7a9' => [
+        'One of the main secrets to staying young is staying healthy. I\'ve sometimes had to suppress a smile when some young lady, who has obviously not taken care of herself through diet or exercise, says admiringly, \'Ooh, I hope I look as good as you do when I\'m your age!\' Although it\'s intended to be complimentary, it\'s actually a back-hander.',
+        'Joan Collins',
     ],
-    [
-        'Sculpture is the best comment that a painter can make on painting.',
-        'Pablo Picasso',
+    'ef64f41e-85e7-5d39-932f-745fc7ddbe4a' => [
+        'I live a very joyful life, with a lot of laughter and good times.',
+        'L. Lionel Kendrick',
     ],
-    [
-        'A man should be able to hear, and to bear, the worst that could be said of him.',
-        'Saul Bellow',
+    'ee83a0da-377f-568e-b30d-92be92b28760' => [
+        'The best partnerships aren\'t dependent on a mere common goal but on a shared path of equality, desire, and no small amount of passion.',
+        'Sarah MacLean',
     ],
-    [
-        'I think working hard at anything when you\'re young and getting positive results, it\'s always an incredible feeling to see that.',
-        'Jessica Springsteen',
+    'ddcef959-3477-59da-9e94-e8ac899b53d0' => [
+        'London \'Harry Potter\' premieres are very special events: There is this sense of love and ownership and pride, and it\'s just palpable. It\'s a very different feel from an L.A. premiere. It\'s nice to be a part of something that\'s so positive.',
+        'Michael Goldenberg',
     ],
-    [
-        'I only travel to good material, a good director and a good company. I won\'t work in another country for a year any longer, because I have a lovely wife and I adore her and I can\'t bear to be away from her.',
-        'Jim Dale',
+    '5907c581-864c-5b89-afa3-513047731a57' => [
+        'Thanks to malaria elimination efforts in United States in the 1940s, most people in the U.S. today have never had any direct contact with the disease, and most doctors have never seen a case. That success means it\'s easy to have a relaxed attitude about protecting ourselves.',
+        'Tom Frieden',
     ],
-    [
-        'I hoped I could make people smile and laugh and have a good time.',
-        'Carson Kressley',
+    '07594183-d668-5624-af82-194663a8c260' => [
+        'Familial betrayal is, to me, the most heartbreaking kind - because if you can\'t trust your family to love you and protect you, who can you really trust?',
+        'Alexandra Bracken',
     ],
 ];

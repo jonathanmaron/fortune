@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'In places where this beauty has already disappeared, we will reconstruct it.',
-        'Fritz Todt',
+    'b2cbb645-ecf0-5041-bf26-4cb807ca870c' => [
+        'It\'s fine to celebrate success, but it is more important to heed the lessons of failure.',
+        'Bill Gates',
     ],
-    [
-        'Jews have deep respect for the Queen and the royal family. We say a prayer for them every Sabbath in synagogue. We recite a special blessing on seeing the Queen.',
-        'Jonathan Sacks',
+    'd0c4fd1d-ee7f-56d7-ac80-5056a08a017a' => [
+        'The energy of the mind is the essence of life.',
+        'Aristotle',
     ],
-    [
-        'Nobody controls me. I travel with my husband when I can, when I know that I can go, and I know that my son is okay alone for a few days with the help.',
-        'Melania Trump',
+    'c4a12f6f-0280-5f41-9f92-f0ae3dd8b3cd' => [
+        'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
+        'Shawn Achor',
     ],
-    [
-        'When you start about family, about lineage and ancestry, you are talking about every person on earth.',
-        'Alex Haley',
+    '101602ff-e53f-5dc3-b389-797223ddb284' => [
+        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
+        'Jimmy Reid',
     ],
-    [
-        'With all the travel we\'re doing to cold-weather cities, your mind definitely starts to wander. It gets you away from the game. Even when you arrive in a city, you\'re tempted to just sit in your hotel and rest. Sometimes it\'s nice to just get out and walk around, to see what\'s there.',
-        'Stephen Curry',
+    'e3fd041c-6c9e-515b-ba76-cd4ab137c807' => [
+        'I love life. There\'s so much to learn and see all the time, and nothing nicer for me than to wake up, and the sky is blue.',
+        'Pattie Boyd',
     ],
-    [
-        'Find a place inside where there\'s joy, and the joy will burn out the pain.',
-        'Joseph Campbell',
+    'd4934dd2-5c38-5313-9bae-78b6dc41ab20' => [
+        'We didn\'t even think about it, you know? I used to collect laser discs, and you\'d have some college professor analyzing It\'s a Wonderful Life or Citizen Kane, and now it is pretty funny - the idea of commentary for a silly kid\'s movie, you know?',
+        'Dana Carvey',
     ],
-    [
-        '\'Tis pleasant, sure, to see one\'s name in print. A book\'s a book, although there\'s nothing in \'t.',
-        'Lord Byron',
+    'e2f634a9-8cea-5759-9f36-f0d57b6cfc46' => [
+        'The time you feel lonely is the time you most need to be by yourself.',
+        'Douglas Coupland',
     ],
-    [
-        'You have to learn the rules of the game. And then you have to play better than anyone else.',
-        'Unknown',
+    'bbcc46a5-c4d0-5564-a79a-acc59b48de66' => [
+        'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
+        'James Best',
     ],
-    [
-        'The best time to plant a tree was 20 years ago. The second best time is now.',
-        'Chinese Proverb',
+    'aa195257-c6b9-5137-acd8-c161c4edbc11' => [
+        'I\'m the one that has to die when it\'s time for me to die, so let me live my life, the way I want to.',
+        'Jimi Hendrix',
     ],
-    [
-        'I think goals should never be easy, they should force you to work, even if they are uncomfortable at the time.',
-        'Michael Phelps',
+    '80823c4d-72e7-56cf-8552-3b2e729e380e' => [
+        'By believing passionately in something that does not yet exist, we create it.',
+        'Nikos Kazantzakis',
     ],
-    [
-        'I am thankful for all the blessings and talents I have been given, but most of all I am thankful for my loving and supportive family.',
-        'Olivia Holt',
+    '691c8906-9bf0-5d18-9969-d0525ebb3f11' => [
+        'Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what\'s right for you.',
+        'Julie Morgenstern',
     ],
-    [
-        'Happiness is when what you think, what you say, and what you do are in harmony.',
-        'Mahatma Gandhi',
+    'fb94e0af-ac5b-56a4-9b49-b505706dc1c8' => [
+        'Being hardworking is the best thing you can show children.',
+        'David Beckham',
     ],
-    [
-        'Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.',
-        'Carl Jung',
+    '3abf093a-9ef3-597f-ba5a-7abbccdecae8' => [
+        'Life is short and if you\'re looking for extension, you had best do well. \'Cause there\'s good deeds and then there\'s good intentions. They are as far apart as Heaven and Hell.',
+        'Ben Harper',
     ],
-    [
-        'I need to complete my homework on time.',
-        'Malala Yousafzai',
+    '5aa07aff-8298-5b3a-aaf8-de5ff7157f12' => [
+        'The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.',
+        'Abernathy',
     ],
-    [
-        'I\'m very naturally happy, quirky and positive.',
-        'Kiesza',
+    '9a12266c-926e-523b-a853-4baf2b7d5dc7' => [
+        'All mankind... being all equal and independent, no one ought to harm another in his life, health, liberty or possessions.',
+        'Mark Caine',
     ],
-    [
-        'Mathematics has beauty and romance. It\'s not a boring place to be, the mathematical world. It\'s an extraordinary place; it\'s worth spending time there.',
-        'Marcus du Sautoy',
+    '3feebd7e-fcdf-5c32-b188-c01ad28eaf81' => [
+        'Wealth is the ability to fully experience life.',
+        'Solomon Ortiz',
     ],
-    [
-        'Writers, as they gain success, feel like outsiders because writers don\'t come together in real groups.',
-        'Anne Rice',
+    '2f242f65-b40a-5030-a726-f93a924ca37b' => [
+        'The creation of a world view is the work of a generation rather than of an individual, but we each of us, for better or for worse, add our brick to the edifice.',
+        'John Dos Passos',
     ],
-    [
-        'I don\'t like formal gardens. I like wild nature. It\'s just the wilderness instinct in me, I guess.',
-        'Walt Disney',
+    'ecf16f78-be88-5d59-b4fb-f6be9694e4d2' => [
+        'The way my luck is running, if I was a politician I would be honest.',
+        'Rodney Dangerfield',
     ],
-    [
-        'Mercedes does beautiful work, absolutely.',
-        'Sebastian Thrun',
+    'e754b780-16ee-5830-96da-f8898359c749' => [
+        'Every kid has a toy that they believe is their best friend, that they believe communicates with them, and they imagine it being alive, their toy horse or car or whatever it is. Stop-motion is the only medium where we literally can make a toy come to life, an actual object.',
+        'Henry Selick',
     ],
-    [
-        'Organizing is what you do before you do something, so that when you do it, it is not all mixed up.',
-        'A. A. Milne',
+    '155a1e1e-eab4-5fbc-afc7-24ec754b168b' => [
+        'I don\'t think of all the misery but of the beauty that still remains.',
+        'Anne Frank',
     ],
-    [
-        'It\'s not comfortable for me to write about my family. I\'m not comfortable writing about me.',
-        'Karl Rove',
+    'c2bd1963-6c42-5a6d-b6f1-a48b30b827ca' => [
+        'Beauty is in the strangest places. A piece of garbage floating in the wind. And that beauty exists in America. It exists everywhere. You have to develop an eye for it and be able to see it.',
+        'Alan Ball',
     ],
-    [
-        'When people have success, one of two things happen. They either get really satisfied and want to keep thinking about it and talking about what they did, or the success becomes a little addictive, and it makes them want to keep having more.',
-        'Nick Saban',
+    'f21f5c77-c898-522c-b806-cacf66e60811' => [
+        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something--your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
+        'Steve Jobs',
     ],
-    [
-        'A sister is someone who owns part of what you own: a house, perhaps, or a less tangible legacy, like memories of your childhood and the experience of your family.',
-        'Deborah Tannen',
+    '85ce3c3b-100a-5928-b280-dd493cbe3b50' => [
+        'Stubbornness is a positive quality of presidential leadership - if you\'re right about what you\'re stubborn about.',
+        'Douglas Brinkley',
     ],
-    [
-        'Photography records the gamut of feelings written on the human face, the beauty of the earth and skies that man has inherited, and the wealth and confusion man has created. It is a major force in explaining man to man.',
-        'Edward Steichen',
+    'e61ae072-f04f-515d-ba0b-43b34efe7d47' => [
+        'Retaliation is related to nature and instinct, not to law. Law, by definition, cannot obey the same rules as nature.',
+        'Albert Camus',
     ],
-    [
-        'I read everything: fiction, history, science, mathematics, biography, travel.',
-        'Martin Lewis Perl',
+    '5df7db66-34b3-5849-b685-b0a9ef20b63e' => [
+        'The wisest men follow their own direction.',
+        'Euripides',
     ],
 ];

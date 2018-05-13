@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'An artist cannot fail; it is a success to be one.',
-        'Charles Horton Cooley',
+    'feaed8db-286f-5579-803c-2fb0c05e4f1a' => [
+        'The reason most of the children are having problems in any inner-city neighborhood is because they don\'t see enough positive role models in their own environment.',
+        'Marla Gibbs',
     ],
-    [
-        'Raising children is an uncertain thing; success is reached only after a life of battle and worry.',
-        'Democritus',
+    'd7fb5f7b-362b-5eb2-8f2b-1aaf12aef1bf' => [
+        'The world is round and the place which may seem like the end may also be the beginning.',
+        'Ivy Baker Priest',
     ],
-    [
-        'At the end of the day, you are solely responsible for your success and your failure. And the sooner you realize that, you accept that, and integrate that into your work ethic, you will start being successful. As long as you blame others for the reason you aren\'t where you want to be, you will always be a failure.',
-        'Erin Cummings',
+    'b000e271-f143-5056-94da-0c95747a66f1' => [
+        'People ask me all the time, \'What keeps you up at night?\' And I say, \'Spicy Mexican food, weapons of mass destruction, and cyber attacks.\'',
+        'Dutch Ruppersberger',
     ],
-    [
-        'Everyone has things that they don\'t love about themselves but I think that as a woman its much healthier and more positive to focus on your good parts and the things you like about yourself, not pick yourself apart.',
-        'Miranda Kerr',
+    'fbcdd668-21bb-5998-a8ff-9fe516e74839' => [
+        'Earn your success based on service to others, not at the expense of others.',
+        'H. Jackson Brown, Jr.',
     ],
-    [
-        'People just want to watch people live their authentic lives and share the good and the bad. You can have fun and be a positive influence and have a good impact. And it can still be entertaining.',
-        'Tyler Oakley',
+    '18c14e2a-5003-5b7a-8b09-99f8b54d2b4c' => [
+        'Play is the work of childhood.',
+        'Jean Piaget',
     ],
-    [
-        'When I hear somebody sigh, \'Life is hard,\' I am always tempted to ask, \'Compared to what?\'',
-        'Alejandro Gonzalez Inarritu',
+    'b22bb06d-81f6-522a-9130-ba0cfbd7df8a' => [
+        'That\'s the thing about awards - it\'s for the people who do all the hard work behind the scenes. An award is just a clap at them.',
+        'Sia',
     ],
-    [
-        'No connection to the average voter - Clinton has an air of superiority. Despite her wide smile and pleasant appearance, she is envisioned as someone who is trying to hide something all the time.',
-        'Fabrizio Moreira',
+    'f8e1510d-d062-5de2-9b0a-84dca254e702' => [
+        'Success is survival.',
+        'Leonard Cohen',
     ],
-    [
-        'Creativity comes from trust. Trust your instincts. And never hope more than you work.',
-        'Rita Mae Brown',
+    '3e392b6d-8461-5b54-9f4c-6e292181a9c4' => [
+        'A minute\'s success pays the failure of years.',
+        'Robert Browning',
     ],
-    [
-        'All I want to do when I have time off is to have a laugh with my school friends and go down the pub.',
-        'Samantha Mumba',
+    '54010352-023d-54f7-98fa-d82f6bcac7f8' => [
+        'Weekends are sacred for me. They\'re the perfect time to relax and spend time with family and friends.',
+        'Marcus Samuelsson',
     ],
-    [
-        'My grandmother, she\'s been the positive portion of my life the entire time. She raised us Baptist, and when I got old enough to say I didn\'t want to go to church, she didn\'t force me. She was cool.',
-        'Curtis Jackson',
+    'f2e57581-92b8-5fc2-bc67-5de1c7df3e4b' => [
+        'Rhetoric is the art of ruling the minds of men.',
+        'Plato',
     ],
-    [
-        'I am able to really enjoy the positive attention I receive.',
-        'Doutzen Kroes',
+    '7ad7f184-ee37-5bc9-a210-86714598849f' => [
+        'Every song you\'re trying to find something that going to connect in different ways but for me the songs that I\'m really drawn to are inspirational, songs that lift you and that everybody can relate to no matter where you\'re from.',
+        'Rodney Atkins',
     ],
-    [
-        'Service to others is the rent you pay for your room here on earth',
-        'Muhammad Ali',
+    'c8367b48-f5d9-5061-b2a6-d9890f0179ad' => [
+        'I think Sydney has so much natural beauty; it\'s just a beautiful city.',
+        'Flume',
     ],
-    [
-        'Yeah. I\'ve been pretty fortunate to travel I guess, all around the place.',
-        'Ben E. King',
+    'd880051e-8ee4-5b4c-8058-596adae4c892' => [
+        'A woman whose smile is open and whose expression is glad has a kind of beauty no matter what she wears.',
+        'Anne Roiphe',
     ],
-    [
-        'If women had to promise to provide for a man for a lifetime before he removed his veil and showed her his smile, would we think of this as a system of female privilege?',
-        'Warren Farrell',
+    'e28b31d9-bc80-5a45-a152-858bb9bef91e' => [
+        'Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.',
+        'Ralph Emerson',
     ],
-    [
-        'Time flies. It\'s up to you to be the navigator.',
-        'Robert Orben',
+    'a526f1ad-f1aa-528f-8b71-92f9f8b3e5ea' => [
+        'Like all my family and class, I considered it a sign of weakness to show affection; to have been caught kissing my mother would have been a disgrace, and to have shown affection for my father would have been a disaster.',
+        'Agnes Smedley',
     ],
-    [
-        'Nature is ever at work building and pulling down, creating and destroying, keeping everything whirling and flowing, allowing no rest but in rhythmical motion, chasing everything in endless song out of one beautiful form into another.',
-        'John Muir',
+    '388ac764-454d-59ae-bbec-f625d2b333d6' => [
+        'I love improv so much. Listening. I think that\'s the key. When you improvise, you put a lot of pressure on yourself to create, and to be generating information, and trying to be funny, but if you just listen to what\'s being said to you, and then react honestly, you generally get better results.',
+        'Rob Riggle',
     ],
-    [
-        'Failure is only postponed success as long as courage \'coaches\' ambition. The habit of persistence is the habit of victory.',
-        'Herbert Kaufman',
+    '81660c1b-cb94-5ef5-aced-1a49de237242' => [
+        'Any of us can be happy and have a good attitude when everything is going our way. But I believe it\'s the real test of your character and of your faith to say, \'Things are not going our way, but I\'m still being good to people; I\'m still attending church; I still have a good attitude.\'',
+        'Joel Osteen',
     ],
-    [
-        'When I used to wrestle professionally, I preferred being the bad guy known as \'The Heel;\' you would get to \'work the crowd,\' getting them to hate you and want to see you lose, while the good guy \'Babyface\' would walk in, smile and shake hands with a few kids, and his acting job was done.',
-        'Conan Stevens',
+    'b7e55b79-865a-54af-8db0-f150e01f7cfc' => [
+        'The sea has neither meaning nor pity.',
+        'Anton Chekhov',
     ],
-    [
-        'We try to make the name longer and longer every year. First, it was \'Larry the Cable Guy\'s Christmas Spectacular.\' Then it was \'It\'s a Very Larry Christmas.\' Now it\'s \'Larry the Cable Guy\'s Hula-palooza Christmas Luau.\' I\'ll tell you what it is: It\'s funny. That\'s what it is. Who cares what the name of it is? It is a funny special.',
-        'Larry the Cable Guy',
+    'ea50f531-8c4d-545a-948b-b9001e13d924' => [
+        'To be free is not merely to cast off one\'s chains, but to live in a way that respects and enhances the freedom of others.',
+        'Nelson Mandela',
     ],
-    [
-        'The reason that Google was such a success is because they were the first ones to take advantage of the self-organizing properties of the web. It\'s in ecological sustainability. It\'s in the developmental power of entrepreneurship, the ethical power of democracy.',
-        'Ron Eglash',
+    'aa5298a1-f9ce-5942-88de-8de94bb7f521' => [
+        'Countless as the sands of the sea are human passions.',
+        'Nikolai Gogol',
     ],
-    [
-        'No matter where I\'ve been overseas, the food stinks, except in Italy.',
-        'Carmen Electra',
+    'ecaaf422-bc22-546e-ac99-ad26addb67d7' => [
+        'I\'d love to do a comedy. I\'m terrified of comedy. I don\'t think I\'m funny, but I guess that\'s why it\'s so thrilling.',
+        'Jared Padalecki',
     ],
-    [
-        'We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.',
-        'Sam Keen',
+    '23c2d61a-f247-57d2-8aef-dfb55b0db7eb' => [
+        'White sharks and tuna travel for thousands of miles before returning to the same hot spot just as salmon do when they return to the same stream. These journeys are the marine equivalent of wildebeest migrations that take place on the Serengeti plain in Africa.',
+        'Barbara Block',
     ],
-    [
-        'The greatest error of a man is to think that he is weak by nature, evil by nature. Every man is divine and strong in his real nature. What are weak and evil are his habits, his desires and thoughts, but not himself.',
-        'Ramana Maharshi',
+    '64d5e3cd-3017-541f-ac16-016f8d782d2b' => [
+        'I have a great smile. A lot of people don\'t know that.',
+        'Draymond Green',
     ],
-    [
-        'All our dreams can come true if we have the courage to pursue them.',
-        'Walt Disney',
+    '4f594fb5-3caa-5dc8-b9a6-b07e574e9c12' => [
+        'It\'s amazing. Life changes very quickly, in a very positive way, if you let it.',
+        'Lindsey Vonn',
     ],
-    [
-        'I think the media can be a very positive influence by essentially holding people to task about the importance of high quality medical care. And when the media is scrutinizing you, then I think that\'s a very good, positive thing for the field of medicine.',
-        'Anthony Fauci',
+    'bc3e8d71-03aa-5346-950f-6f994e19cb6e' => [
+        'I can pull off anything; I have the height and the attitude. The only thing I can\'t wear is a leotard, but I can wear anything else.',
+        'Theophilus London',
     ],
 ];

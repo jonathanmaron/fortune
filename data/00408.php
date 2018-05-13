@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If you tell the truth about how you\'re feeling, it becomes funny.',
-        'Larry David',
+    '32f91131-50b9-5666-8a6a-ededce982f82' => [
+        'Any captain can only do his best for the team and for cricket. When you are winning, you are a hero. Lose, and the backslappers fade away.',
+        'Richie Benaud',
     ],
-    [
-        'The true treasure lies within. It is the underlying theme of the songs we sing, the shows we watch and the books we read. It is woven into the Psalms of the Bible, the ballads of the Beatles and practically every Bollywood film ever made. What is that treasure? Love. Love is the nature of the Divine.',
-        'Radhanath Swami',
+    'f633d0a7-0a7f-5427-ba32-a16faa436070' => [
+        'Yesterday\'s the past, tomorrow\'s the future, but today is a gift. That\'s why it\'s called the present.',
+        'Bil Keane',
     ],
-    [
-        'A good job is more than just a paycheck. A good job fosters independence and discipline, and contributes to the health of the community. A good job is a means to provide for the health and welfare of your family, to own a home, and save for retirement.',
-        'James H. Douglas, Jr.',
+    '03b0a73e-d0ed-5779-847e-acfa4988c490' => [
+        'Neither the Christian attitude of love for all mankind nor humane hopes for an organized society must cause us to forget that the \'human stratum\' may not be homogeneous.',
+        'Pierre Teilhard de Chardin',
     ],
-    [
-        'Life is a gift, given in trust - like a child.',
-        'Ginger Rogers',
+    '61cfe95a-330f-516b-ada0-73880969f0ad' => [
+        'I like to think my dad was easygoing and kind, and I think some of those things have been passed down. I am like him in a sense of being positive and hopeful. He was compassionate, and I\'ve got a lot of that in me as well.',
+        'Joel Osteen',
     ],
-    [
-        'Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.',
-        'Dale Carnegie',
+    '1299d349-8015-527d-bafb-3ea15a643c1d' => [
+        'I never get tired of smiling. I\'m just the kind of guy who likes to smile.',
+        'Jason Ritter',
     ],
-    [
-        'Learn to say \'no\' to the good so you can say \'yes\' to the best.',
-        'John C. Maxwell',
+    '03572dec-4e73-5884-9896-192a701de364' => [
+        'Life is the art of drawing sufficient conclusions from insufficient premises.',
+        'Big Boi',
     ],
-    [
-        'Your best T-shirt should be like your bed; it just feels like you are home when you are in it.',
-        'Ashton Kutcher',
+    '48649d67-145c-5b42-8d47-cd2be92c5123' => [
+        'A single conversation across the table with a wise person is worth a months study of books.',
+        'Chinese proverb',
     ],
-    [
-        'All of nature begins to whisper its secrets to us through its sounds. Sounds that were previously incomprehensible to our soul now become the meaningful language of nature.',
-        'Rudolf Steiner',
+    '93c6ab3f-29ce-5da9-998d-e77a216762ec' => [
+        'Life hands us a lot of hard choices, and other people can help us more than we might realize. We often think we should make important decisions using just our own internal resources. What are the pros and cons? What does my gut tell me? But often we have friends and family who know us in ways we don\'t know ourselves.',
+        'Sheena Iyengar',
     ],
-    [
-        'The bad news is time flies. The good news is you\'re the pilot.',
-        'Michael Atshuler',
+    'd2d3a813-8d8d-5d5d-bd18-68666b3cda1c' => [
+        'The ultimate dream in life is to be able to do what you love and learn something from it.',
+        'Tom DeLonge',
     ],
-    [
-        'It is never too late to strengthen the foundation of faith. There is always time. With faith in the Savior, you can repent and plead for forgiveness. There is someone you can forgive. There is someone you can thank. There is someone you can serve and lift. You can do it wherever you are and however alone and deserted you may feel.',
-        'Henry B. Eyring',
+    '8cad55d1-3da5-50d5-8075-c3c78f6dc181' => [
+        'Fixing a broken immigration system. Protecting our kids from gun violence. Equal pay for equal work, paid leave, raising the minimum wage. All these things still matter to hardworking families; they are still the right thing to do; and I will not let up until they get done.',
+        'Barack Obama',
     ],
-    [
-        'Great perils have this beauty, that they bring to light the fraternity of strangers.',
-        'Victor Hugo',
+    'fa8c36f2-92d8-56d1-9b4e-2d90645fd41e' => [
+        'Every man has his follies - and often they are the most interesting thing he has got.',
+        'Josh Billings',
     ],
-    [
-        'The funny thing about directing is that you have your own opinions, but it\'s a collaboration. Directing is a group effort. Even though you might think something works, the smartest thing you can do as a director is try and weigh the opinions of the people around you.',
-        'Chris Evans',
+    '3ccb52af-f811-5514-9ffe-792be6d9695a' => [
+        'I\'m very fortunate that I have a wonderful family around me and loved ones.',
+        'Melissa Etheridge',
     ],
-    [
-        'Success is all about persistence and doing the right thing for the long term.',
-        'Bruce Rauner',
+    '634bfe71-a53c-5438-893c-721ef069a007' => [
+        'Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.',
+        'Samuel Ullman',
     ],
-    [
-        'Beauty, like truth, is relative to the time when one lives and to the individual who can grasp it. The expression of beauty is in direct ratio to the power of conception the artist has acquired.',
-        'Gustave Courbet',
+    'e85a91a7-9e0b-5bab-b8da-ace367d111a7' => [
+        'I don\'t think it\'s a good attitude in your life to feel that you have to be rich to have self-esteem.',
+        'Tom Petty',
     ],
-    [
-        'I\'ve been around a long time, and life still has a whole lot of surprises for me.',
-        'Loretta Lynn',
+    'ed9eba1e-1438-5e04-82bd-e5f4e4344298' => [
+        'Never idealize others. They will never live up to your expectations.',
+        'Leo Buscaglia',
     ],
-    [
-        'And if small businesspeople say they made it on their own, all they are saying is that nobody else worked seven days a week in their place. Nobody showed up in their place to open the door at five in the morning. Nobody did their thinking, and worrying, and sweating for them.',
-        'Paul Ryan',
+    '3a62c511-5fce-5aea-9ff0-78481992fe69' => [
+        'There is nothing in this world that I love more than my family. To be able to share the joy of running with them at the Runner\'s World Half Marathon and Running Festival where we can all participate together is as close as you can get to a perfect weekend.',
+        'Summer Sanders',
     ],
-    [
-        'Textbook science is beautiful! Textbook science is comprehensible, unlike mere fascinating words that can never be truly beautiful. Elementary science textbooks describe simple theories, and simplicity is the core of scientific beauty. Fascinating words have no power, nor yet any meaning, without the math.',
-        'Eliezer Yudkowsky',
+    '234ee77e-e45d-5b46-b8ab-cae0ec229160' => [
+        'It comes down to building your own world out here on the road. It\'s who you surround yourself with. My band and crew are really positive guys.',
+        'Brad Paisley',
     ],
-    [
-        'Life is an exciting business, and most exciting when it is lived for others.',
-        'Miriam Toews',
+    'e2c477a8-4af3-5e0c-ab0e-fb36101417de' => [
+        'Beauty is the promise of happiness.',
+        'Edmund Burke',
     ],
-    [
-        'A beautiful bouquet or a long-lasting flowering plant is a traditional gift for women, but I have recommended that both men and women keep fresh flowers in the home for their beauty, fragrance, and the lift they give our spirits.',
-        'Andrew Weil',
+    '61e91a4c-365f-52fc-8654-96564972c7c2' => [
+        'The best thing in every noble dream is the dreamer...',
+        'Moncure Conway',
     ],
-    [
-        'But time growing old teaches all things.',
-        'Aeschylus',
+    'c5c49bb4-baa8-5299-9892-745eaabde8a2' => [
+        'Social media gives one a family to share one\'s life with.',
+        'Sonu Nigam',
     ],
-    [
-        'Some people are born good-looking. Some have the gift of gab. And some are lucky enough to be born smarter than the rest of us. Whether we like it or not, Mother Nature does not dole these characteristics out evenly.',
-        'Simon Sinek',
+    '4821fff5-2a8d-58c6-8ce6-ac18f48bdd04' => [
+        'Ocean is more ancient than the mountains, and freighted with the memories and the dreams of Time.',
+        'H. P. Lovecraft',
     ],
-    [
-        'Because sorry to say, women run the house. They run the family. They hold things up. I mean, it\'s like you don\'t ever see your mom get sick because she handles everything. And it\'s kind of amazing I think to show people just how strong women are.',
-        'Sophia Bush',
+    'dcb7149a-d55c-557c-81d1-19fb48dd12e8' => [
+        'A little credulity helps one on through life very smoothly.',
+        'Chuck Schumer',
     ],
-    [
-        'I read for the \'ah-ha\'s,\' the information that makes a light bulb go off in my mind. I want to put information in my mind that is going to be the most beneficial to me, my family and my fellow man - financially, morally, spiritually, and emotionally.',
-        'Zig Ziglar',
+    '6d78f1d8-b438-55ab-a7de-ac491cbde9b8' => [
+        'Success is not only one thing. It\'s not only having a nice house in Beverly Hills and driving a nice Mercedes.',
+        'Malik Bendjelloul',
     ],
-    [
-        'Success is really about your mindset.',
-        'F. Gary Gray',
+    'fc520dd0-fd0d-507f-a2ce-48f86790b6ee' => [
+        'The best prophet of the future is the past.',
+        'Lord Byron',
     ],
-    [
-        'Everybody is a political person, whether you say something or you are silent. A political attitude is not whether you go to parliament; it\'s how you deal with your life, with your surroundings.',
-        'Paulo Coelho',
+    '87916f73-c4ec-5057-a607-5c85773e5ef2' => [
+        'To you wives who are constantly complaining and see only the dark side of life, and feel that you are unloved and unwanted, look into your own hearts and minds. If there is something wrong, turn about. Put a smile on your faces. Make yourselves more attractive. Brighten your outlook.',
+        'Gordon B. Hinckley',
     ],
 ];

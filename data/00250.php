@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The learned is happy, nature to explore; The fool is happy, that he knows no more.',
-        'Alexander Pope',
+    'c10f82a9-5d7a-5c33-8161-639b1a9512ee' => [
+        'Although I know it\'s unfair I reveal myself one mask at a time.',
+        'Stephen Dunn',
     ],
-    [
-        'It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves.',
-        'Thornton Wilder',
+    '60e55826-fa05-5d35-a6b1-53075b41482a' => [
+        'Obstacles are those frightful things you see when you take your eyes off your goal.',
+        'Henry Ford',
     ],
-    [
-        'Of course I used to smile and laugh in 1976, but not when I was competing. Please show me somebody who laughs when they are concentrating; I always smiled.',
-        'Nadia Comaneci',
+    '5633a2bd-0adc-5caf-90d4-a0be40106882' => [
+        'For people to understand me when I travel, I speak with my hands.',
+        'Marcel Carne',
     ],
-    [
-        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
-        'Roger Andrew Taylor',
+    '4ad735e4-4e17-547c-9471-808465983cfa' => [
+        'Our uniqueness, our individuality, and our life experience molds us into fascinating beings. I hope we can embrace that. I pray we may all challenge ourselves to delve into the deepest resources of our hearts to cultivate an atmosphere of understanding, acceptance, tolerance, and compassion. We are all in this life together.',
+        'Matthew Henry',
     ],
-    [
-        'Some people would rather have a lie that makes them smile than a truth that makes them cry. I\'m the opposite; I\'d rather have people make me cry with the truth than try to make me smile.',
-        'Joyce Giraud',
+    'a4e1bd1f-1e31-5a88-a791-435ad9b09f47' => [
+        'There is a need for financial reform along ethical lines that would produce in its turn an economic reform to benefit everyone. This would nevertheless require a courageous change of attitude on the part of political leaders.',
+        'Pope Francis',
     ],
-    [
-        'You create your opportunities by asking for them.',
-        'Shakti Gawain',
+    'dc90c486-38f1-55f3-8709-85b60fd2b88b' => [
+        'You may delay, but time will not.',
+        'Benjamin Franklin',
     ],
-    [
-        'Make-up is the last thing to enhance your beauty, but it\'s very important because it builds up your self-confidence and gives you more courage.',
-        'Evelyn Lauder',
+    '1a224eb0-64b6-5d08-9f4f-a4018fc8b426' => [
+        'My attitude is that, if you have nothing to hide, why not show it?',
+        'Bradley Wiggins',
     ],
-    [
-        'People don\'t really understand, but having people stare, and point, and take pictures, even if it is in a positive framework, is quite isolating; there\'s no two ways about it. You feel a little bit, you know, freakish.',
-        'Emma Watson',
+    'd6cb38d6-24bf-5aad-ae20-779453e19fad' => [
+        'Day, n. A period of twenty-four hours, mostly misspent.',
+        'Ambrose Bierce',
     ],
-    [
-        'What after all, is a halo? It\'s only one more thing to keep clean.',
-        'Christopher Fry',
-    ],
-    [
-        'Adopting the right attitude can convert a negative stress into a positive one.',
-        'Hans Selye',
-    ],
-    [
-        'In the late \'70s, maybe just before I started, there was still an attitude that if you did film you didn\'t do TV and vice versa, but that\'s gone now.',
-        'Robert Carlyle',
-    ],
-    [
-        'Freedom of religion is a principle that is central to our Nation\'s Declaration of Independence. Congress has taken this positive step to protect our freedom to express allegiance to America\'s flag and the ideals it represents.',
-        'Ron Lewis',
-    ],
-    [
-        'Prospering just doesn\'t have to do with money.',
-        'Joel Osteen',
-    ],
-    [
-        'In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact.',
-        'Les Brown',
-    ],
-    [
-        'I always wanted to be a farmer. There is a tradition of that in my family.',
-        'Bjork',
-    ],
-    [
-        'Whenever I run into prejudice. I smile and feel sorry for them, and I say to myself, There\'s one more argument for birth control.',
-        'Freddy Fender',
-    ],
-    [
-        'It\'s funny what memory does, isn\'t it? My favorite holiday tradition might not have happened more than once or twice. But because it is such a good memory, so encapsulating of everything I love about the holidays, in my mind it happened every year. Without fail.',
-        'Molly O\'Keefe',
-    ],
-    [
-        'I come from a working-class family, and I\'ve been working since I was 13, from babysitting to blueberry picking to factory work to bookstore work. And of course, being a mother and homemaker, the hardest work of all.',
-        'Patti Smith',
-    ],
-    [
-        'The productivity of work is not the responsibility of the worker but of the manager.',
-        'Peter Drucker',
-    ],
-    [
-        'After every storm the sun will smile; for every problem there is a solution, and the soul\'s indefeasible duty is to be of good cheer.',
-        'William R. Alger',
-    ],
-    [
-        'Even when I\'m playing someone named \'Fat Amy.\' I\'m all about confidence and attitude.',
-        'Rebel Wilson',
-    ],
-    [
-        'So far as female beauty is concerned, the Circassian women have no superiors. They have preserved in their mountain home the purity of the Grecian models, and still display the perfect physical loveliness, whose type has descended to us in the Venus de Medici.',
-        'Bayard Taylor',
-    ],
-    [
-        'The best way to cheer yourself up is to try to cheer somebody else up',
+    'ee69cc88-aa0c-5cdb-90b3-d4193ed85e12' => [
+        'Loyalty to the Nation all the time, loyalty to the Government when it deserves it.',
         'Mark Twain',
     ],
-    [
-        'Dear disgruntled artists: the key to success isn\'t kicking down the door; it\'s building your own.',
-        'Brian Celio',
+    'dc64587f-44b4-5e6d-9d12-b59464faa570' => [
+        'I consider that a man\'s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose.',
+        'Arthur Conan Doyle',
     ],
-    [
-        'Variety\'s the very spice of life, That gives it all its flavor.',
-        'Rachael Ray',
+    '95ffe44d-9985-5a98-965c-48f8d049586f' => [
+        'I learned the value of hard work by working hard.',
+        'Margaret Mead',
+    ],
+    'd1ffa0d9-ac94-512d-a202-fdd323d4e95f' => [
+        'The whole notion of pain, and how every individual experiences pain, is up for debate. We don\'t know how another person experiences pain - physical pain or psychic pain. Some of these clinics where assisted suicide or euthanasia is practiced, they call it \'weariness of life.\'',
+        'Shemar Moore',
+    ],
+    '3c32d1d4-ab72-54a8-ac08-f4b96ddab336' => [
+        'Nothing is at last sacred but the integrity of your own mind.',
+        'Ralph Emerson',
+    ],
+    '2406b557-ab47-55fc-a402-378172ebaa6d' => [
+        'Empowering the individual means empowering the nation. And empowerment is best served through rapid economic growth with rapid social change.',
+        'Atal Bihari Vajpayee',
+    ],
+    'cdd07aff-5122-59ea-a683-48ec53c58728' => [
+        'Nature is the mother and the habitat of man, even if sometimes a stepmother and an unfriendly home.',
+        'John Dewey',
+    ],
+    '91b0bea9-ee50-5c99-9eaf-833f0d97219b' => [
+        'Music is moonlight in the gloomy night of life.',
+        'Shakira',
+    ],
+    '13340013-f009-5984-a928-aa0c6183a90b' => [
+        'Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.',
+        'Walt Disney',
+    ],
+    'ee92177f-596d-5744-a82c-eacc4ee491c1' => [
+        'To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.',
+        'Plato',
+    ],
+    'a9aff8d0-0315-56c7-b1c3-164def604502' => [
+        'Nobody got where they are today by living for tomorrow.',
+        'Jawaharlal Nehru',
+    ],
+    'a64cb6f6-ff6c-5ce1-8e27-5dae4e473211' => [
+        'We expect all our businesses to have a positive impact on our top and bottom lines. Profitability is very important to us or we wouldn\'t be in this business.',
+        'Jeff Bezos',
+    ],
+    '149e67bc-65d3-5f44-afd1-efacba894bd5' => [
+        'I had gotten to a place where I truly believed everything I was called: \'not sexy,\' \'not funny,\' \'too intense,\' desperate.\' All those labels they gave me, I took them because there wasn\'t a trace of my true self left.',
+        'Naomi Watts',
+    ],
+    '67f56d2b-98a1-5e2b-81bf-1a90d840cb0e' => [
+        'Tears are sometimes an inappropriate response to death. When a life has been lived completely honestly, completely successfully, or just completely, the correct response to death\'s perfect punctuation mark is a smile.',
+        'Julie Burchill',
+    ],
+    'c7b1e01a-45af-5a9f-97e0-0060fe5bb1bc' => [
+        'What they have done in Japan, which I find so inspirational, is they\'ve brought the toilet out from behind the locked door. They\'ve made it conversational. People go out and upgrade their toilet. They talk about it. They\'ve sanitized it.',
+        'Rose George',
+    ],
+    'd6d28b7c-4029-5b59-bb7e-d90cf35358b6' => [
+        'Somehow I can\'t believe that there are any heights that can\'t be scaled by a man who knows the secrets of making dreams come true. This special secret, it seems to me, can be summarized in four C s. They are curiosity, confidence, courage, and constancy.',
+        'Walt Disney',
+    ],
+    '01f6924c-b3a1-51e6-9fd9-9528d1152c49' => [
+        'If we were to use the success of \'Need You Now\' as the barometer for every other song, then we\'ll probably be highly disappointed. That song will probably undoubtedly be the biggest song of our career. We can hopefully have success for 20 years, but we may not ever have the success of that one particular song again.',
+        'Charles Kelley',
     ],
 ];

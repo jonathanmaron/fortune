@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The handicap of deafness is not in the ear; it is in the mind.',
-        'Marlee Matlin',
+    '209054c8-3f0b-53a8-abbc-4db99e01d8ab' => [
+        'Life is a succession of lessons which must be lived to be understood. All is riddle, and the key to a riddle is another riddle.',
+        'Viktor E. Frankl',
     ],
-    [
-        'To be a champion, I think you have to see the big picture. It\'s not about winning and losing; it\'s about every day hard work and about thriving on a challenge. It\'s about embracing the pain that you\'ll experience at the end of a race and not being afraid. I think people think too hard and get afraid of a certain challenge.',
-        'Summer Sanders',
+    'c18c916f-43f3-5ab5-a567-f78033af01bc' => [
+        'The next time some academics tell you how important diversity is, ask how many Republicans there are in their sociology department.',
+        'Thomas Sowell',
     ],
-    [
-        'The world is a country which nobody ever yet knew by description; one must travel through it one\'s self to be acquainted with it.',
-        'Philip Stanhope, 4th Earl of Chesterfield',
+    '2868470f-6fda-51f9-a8f2-84a1658a0435' => [
+        'I\'m not here to impose Sharia law, and I\'m not here to have a message about disability being inspirational - I\'m here to make people laugh. But when I can layer things and make people not only laugh but question, make people not only laugh but be offended... I have to do that.',
+        'Maysoon Zayid',
     ],
-    [
-        'Baking is one of my many hobbies. I was originally introduced to baking as a child by my grandmother. I continued to bake for friends and family throughout the years for special occasions. I began to create themed treats after receiving continued requests from a lot of my friends.',
-        'Rosanna Pansino',
+    '2c8d9859-0f0c-5e43-a23c-61283d913a63' => [
+        'Denmark is like a big family of people.',
+        'Susanne Bier',
     ],
-    [
-        'I am a passionate traveler, and from the time I was a child, travel formed me as much as my formal education.',
-        'David Rockefeller',
+    'a15ac365-5d66-50a5-b2d1-7091b6934465' => [
+        'My dad\'s my best mate, and he always will be.',
+        'Cher Lloyd',
     ],
-    [
-        'If life had a second edition, how I would correct the proofs.',
-        'Hugh Hefner',
+    '0aa44f23-750c-5563-91f4-e161b7271feb' => [
+        'Evangelicals always assume that humor and faith are contradictory. It\'s OK to smile, to be nice, but not frivolous.',
+        'Mike Yaconelli',
     ],
-    [
-        'Americans have always had an ambivalent attitude toward intelligence. When they feel threatened, they want a lot of it, and when they don\'t, they regard the whole thing as somewhat immoral.',
-        'Vernon A. Walters',
+    'd64a68ad-1c3e-50ad-a183-09b4159181a6' => [
+        'Revenge is not a positive state of mind or energy to indulge your self in.',
+        'Michael K. Williams',
     ],
-    [
-        'Yoga disciplines both the mind and the souls and not just your body. It helps me in having a constant positive outlook in life. I would love my family to adopt this form of fitness as well.',
-        'Jacqueline Fernandez',
+    '2f65a904-530c-5fe4-836d-2f4636d27fa5' => [
+        'Everything is a blessing, even meetings. Whether it\'s meetings or running gassers or lifting, it\'s an opportunity, and the best thing to do is be thankful for it.',
+        'Eric Berry',
     ],
-    [
-        'It goes without saying that the Jewish people can have no other goal than Palestine and that, whatever the fate of the proposition may be, our attitude toward the land of our fathers is and shall remain unchangeable.',
-        'Theodor Herzl',
+    '15772b7e-3a3a-52ab-86c0-e80da6af38cb' => [
+        'Life loves the liver of it.',
+        'Khalil Gibran',
     ],
-    [
-        'Loneliness is such an omnipotent and painful threat to many persons that they have little conception of the positive values of solitude and even, at times, are frightened at the prospect of being alone.',
-        'Rollo May',
+    'd440259b-837a-59cd-88e8-cda4c1a6ed8d' => [
+        'Though we travel the world over to find the beautiful, we must carry it with us or we find it not.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'To be free is not merely to cast off one\'s chains, but to live in a way that respects and enhances the freedom of others.',
-        'Nelson Mandela',
+    '0057b655-020b-5de1-8049-2f6bd60fee8f' => [
+        'Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren\'t sure which way to do something, do it both ways and see which works better.',
+        'John Carmack',
     ],
-    [
-        'Enthusiasm moves the world.',
-        'Arthur Balfour',
+    '4b00d995-f502-5f39-a20f-689e3f46149c' => [
+        'If you see a Renaissance body, this is completely ugly in this time. Everybody has to be skinny. But the Renaissance body with incredible flow of the meat everywhere, it was beauty.',
+        'Marina Abramovic',
     ],
-    [
-        'When I lose the sense of motivation and the sense to prove something as a basketball player, it\'s time for me to move away from the game.',
-        'Michael Jordan',
+    '2330c1ff-a6c9-566e-a3b6-b08b2127ef5e' => [
+        'Academic success depends on research and publications.',
+        'Philip Zimbardo',
     ],
-    [
-        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
-        'Benjamin Franklin',
+    'a820934a-59bf-5d82-bf56-dafefda482e4' => [
+        'A good boss makes his men realize they have more ability than they think they have so that they consistently do better work than they thought they could.',
+        'Charles Erwin Wilson',
     ],
-    [
-        'Hope is favorable and confident expectation; it\'s an expectant attitude that something good is going to happen and things will work out, no matter what situation we\'re facing.',
-        'Joyce Meyer',
+    '137e2d34-2395-5be9-b477-dbf8c6683e2c' => [
+        'Any girl can be glamorous. All you have to do is stand still and look stupid.',
+        'Hedy Lamarr',
     ],
-    [
-        'I was successful materially, but I know life is much more than worldly success. I saw all these blessings God had given me. The way to give thanks is obedience to God.',
-        'Hakeem Olajuwon',
+    '4a9d471f-db24-5d51-b0e3-e07928be70f7' => [
+        'Creative risk taking is essential to success in any goal where the stakes are high. Thoughtless risks are destructive, of course, but perhaps even more wasteful is thoughtless caution which prompts inaction and promotes failure to seize opportunity.',
+        'Gary Ryan Blair',
     ],
-    [
-        'Child labor and poverty are inevitably bound together and if you continue to use the labor of children as the treatment for the social disease of poverty, you will have both poverty and child labor to the end of time.',
-        'Grace Abbott',
+    '2fed3156-cab6-5fab-8fb8-0115b7971bf1' => [
+        'If your ego starts out, \'I am important, I am big, I am special,\' you\'re in for some disappointments when you look around at what we\'ve discovered about the universe. No, you\'re not big. No, you\'re not. You\'re small in time and in space. And you have this frail vessel called the human body that\'s limited on Earth.',
+        'Neil deGrasse Tyson',
     ],
-    [
-        'I truly believe my job is to make sure people smile.',
-        'Shah Rukh Khan',
+    '983dab01-6d68-5529-b76e-959001e9d9d4' => [
+        'My ultimate aim is to make euthanasia a positive experience.',
+        'Jack Kevorkian',
     ],
-    [
-        'Age is not measured by years. Nature does not equally distribute energy. Some people are born old and tired while others are going strong at seventy.',
-        'Dorothy Thompson',
+    '3d9a957e-4754-5aa4-b869-25fc292bfcef' => [
+        'Employers have recognized for some time that it\'s smart business to have a diverse workforce - one in which many views are represented and everyone\'s talents are valued. Well, disability is part of diversity.',
+        'Thomas Perez',
     ],
-    [
-        'My father was an engineer and my mother was a social worker, and they met as young socialists. That probably tells you everything you need to know about my attitude to money - I\'ve never really been bothered about it.',
-        'Jo Brand',
+    '31ef6771-21c9-550d-9d06-3702157c80c7' => [
+        'It is with words as with sunbeams. The more they are condensed, the deeper they burn.',
+        'Robert Southey',
     ],
-    [
-        'Once you have a firefighter in your family, your family and the families from his crew become one big extended family.',
-        'Denis Leary',
+    'dc68ae5c-19bf-54f3-9e5a-24632e63e16e' => [
+        'I know you can be funny without being filthy.',
+        'Jonathan Winters',
     ],
-    [
-        'Loss is nothing else but change,and change is Natures delight.',
-        'Marcus Aurelius',
+    '1871481b-8d88-52b6-90d0-9a18676b78fa' => [
+        'You just have to find that thing that\'s special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.',
+        'Dr. Dre',
     ],
-    [
-        'It is a scientific fact that your body will not absorb cholesterol if you take it from another person\'s plate.',
-        'Dave Barry',
+    '6e76cbb3-6bca-5860-8482-ea0f089a3bbb' => [
+        'All the great performers I have worked with are fuelled by a personal dream.',
+        'John Eliot',
     ],
-    [
-        'I\'m a night person. My best times are midnight to six, actually.',
-        'Rita Dove',
+    '48fdaeaf-11c8-5d23-bbce-4fee3f4f0d3b' => [
+        'It\'s a funny thing that when a man hasn\'t anything on earth to worry about, he goes off and gets married.',
+        'Robert Frost',
     ],
-    [
-        'I made myself a little angry before beam. That\'s the best way to do beam. It\'s important to fuel yourself with some devastating things, but I also realized that if I daydream about doing well and having this silver medal, it\'s more motivating than focusing on the negatives. So I learned to focus on the positive.',
-        'Aly Raisman',
+    '7558761b-f2da-5d95-9a9d-15aef8e1c5c5' => [
+        'Words empty as the wind are best left unsaid.',
+        'Homer',
     ],
 ];

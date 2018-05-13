@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My mum is the funniest and sweetest person I know; my sister\'s like my best friend, so it\'s great having them around.',
-        'Jacob Whitesides',
+    'ddd088fb-44d8-56b0-b874-dfd1fb745309' => [
+        'Let me smile with the wise, and feed with the rich.',
+        'Samuel Johnson',
     ],
-    [
-        'We are not a typical family that goes for a movie on Sunday or has dinner together every night. But we are strong as the Great Wall of China. Nothing can stop us from supporting one another and enduring each other\'s pain as well.',
-        'Alia Bhatt',
+    'ca573d3a-32fa-525e-9165-01d6e355b4a0' => [
+        'I\'ve worked too hard and too long to let anything stand in the way of my goals. I will not let my teammates down and I will not let myself down.',
+        'Mia Hamm',
     ],
-    [
-        'It\'s interesting - I always thought when I was doing more melodramatic stuff like \'Everwood\' that the directors were constantly reeling me in and stopping me from being funny.',
-        'Chris Pratt',
+    '7930189f-a35c-5b65-9362-b72567ffab89' => [
+        'We know what we are, but know not what we may be.',
+        'William Shakespeare',
     ],
-    [
-        'I\'ve decided to run for the U.S. Senate because I believe Wisconsin families need a senator who will work hard to deliver results for the middle class - a leader with the courage to do what\'s right, no matter how tough the odds or how powerful the special interests we have to fight.',
-        'Tammy Baldwin',
+    'e5ecd657-8da1-5404-a791-695e19a08559' => [
+        'Love is like a virus. It can happen to anybody at any time.',
+        'Maya Angelou',
     ],
-    [
-        'Stop doing things that waste time. Don\'t replace time with your family or things that you need to do. I needed to put together two fantasy teams this weekend because that\'s something I enjoy, but I did stop playing Nintendo Wii for hours on end.',
-        'Gary Vaynerchuk',
+    '462caabe-441c-578c-8cf3-673e64c57a38' => [
+        'Veterans Day is a time to celebrate the men and women who have worn this nation\'s uniform and to honor their service.',
+        'Tammy Duckworth',
     ],
-    [
-        'You have to listen to the people who have a negative opinion as well as those who have positive opinion. Just to make sure that you are blending all these opinions in your mind before a decision is made.',
-        'Carlos Ghosn',
-    ],
-    [
-        'Victory belongs to the most persevering.',
-        'Napoleon Bonaparte',
-    ],
-    [
-        'When you doubt your power, you give power to your doubt.',
-        'Honore de Balzac',
-    ],
-    [
-        'My goals have changed throughout my life. At one time it was winning awards, selling out concert dates, selling more albums than anyone else. Now, my goals are to see my grandchildren grown, live a long and healthy life with my family and friends and travel the world.',
-        'Reba McEntire',
-    ],
-    [
-        'Time is a created thing. To say \'I don\'t have time,\' is like saying, \'I don\'t want to\'.',
-        'Lao Tzu',
-    ],
-    [
-        'We adore babies because they\'re so cute. And, of course, we are amused by jokes because they are funny. This is all backwards. It is. And Darwin shows us why.',
-        'Daniel Dennett',
-    ],
-    [
-        'In college I never realized the opportunities available to a pro athlete. I\'ve been given the chance to meet all kinds of people, to travel and expand my financial capabilities, to get ideas and learn about life, to create a world apart from basketball.',
-        'Michael Jordan',
-    ],
-    [
-        'The poem is not, as someone put it, deflective of entry. But the real question is, \'What happens to the reader once he or she gets inside the poem?\' That\'s the real question for me, is getting the reader into the poem and then taking the reader somewhere, because I think of poetry as a kind of form of travel writing.',
-        'Billy Collins',
-    ],
-    [
-        'We fall forward to succeed.',
-        'Mary Kay Ash',
-    ],
-    [
-        'A hybrid human-robot mission to investigate an asteroid affords a realistic opportunity to demonstrate new technological capabilities for future deep-space travel and to test spacecraft for long-duration spaceflight.',
-        'Buzz Aldrin',
-    ],
-    [
-        'When I see a bird that walks like a duck and swims like a duck and quacks like a duck, I call that bird a duck.',
-        'James Whitcomb Riley',
-    ],
-    [
-        'I think \'Heroes of Cosplay\' will show a lot of the positive things, like how much effort it takes to make a costume. These people on the show aren\'t taking shortcuts. As long as that effort gets through to the viewers, we will be inspirational. Then there will be people who watch the show that want to get in and hands-on make outfits.',
-        'Yaya Han',
-    ],
-    [
-        'Sometimes you have to accept you can\'t win all the time.',
-        'Lionel Messi',
-    ],
-    [
-        'I\'ve given it my all. I\'ve done my best. Now, I\'m ready with my family to begin the next phase of our lives.',
-        'Richard M. Daley',
-    ],
-    [
-        'Everyone has attitude, and I think everyone should have attitude. But I know I have attitude, but that\'s just, I think if you don\'t have attitude, it comes only with self confidence. So if you don\'t have self confidence, you won\'t have attitude, and I think there\'s a difference when you have attitude and when you have arrogance.',
-        'Sania Mirza',
-    ],
-    [
-        'Once I accidentally left my passport in Nice, France, when I was on my way to Prague. Upon arriving in Vienna, after taking an overnight, and being asked to present my travel documents and realizing I forgot them at the hotel, they kicked me off the train and sent me back!',
-        'Megalyn Echikunwoke',
-    ],
-    [
-        'I have met so many people who are negative, and it tells on their attitude towards life and towards everything.',
-        'Phaneesh Murthy',
-    ],
-    [
-        'Most folks are about as happy as they make up their minds to be.',
+    '822305d9-ce14-5257-9b87-89bd3bd45b46' => [
+        'Your own resolution to succeed is more important than any other.',
         'Abraham Lincoln',
     ],
-    [
-        'One of the very rewarding aspects of my work has been the interaction with a superb group of colleagues and friends in the atmospheric sciences community.',
-        'Mario J. Molina',
+    '6880d248-516d-546c-8908-300795503439' => [
+        'The most effective check and balance on government has been an independent press which maintains its credibility by ensuring that its criticism is balanced and based on fact - based indeed on solid journalistic work.',
+        'Malcolm Turnbull',
     ],
-    [
-        'Be your own hero, it\'s cheaper than a movie ticket.',
-        'Doug Horton',
+    'c7f52b7a-3239-57c7-a68c-51847f0035d3' => [
+        'People are beginning to see that the first requisite to success in life is to be a good animal.',
+        'Herbert Spencer',
+    ],
+    '4818c62f-20a1-55a8-a803-9dc3e8dbff3e' => [
+        'The world is a book, and those who do not travel read only a page.',
+        'Augustinus Sanctus',
+    ],
+    '2464f5fb-9320-54e4-be78-10afeca284b7' => [
+        'The one thing that makes me feel super lucky about my financial success is that I have a housekeeper.',
+        'Gwen Stefani',
+    ],
+    '65030789-993d-5d78-953d-94bf9bbd27cb' => [
+        'I think the success around any product is really about subtle insights. You need a great product and a bigger vision to execute against, but it\'s really those small things that make the big difference.',
+        'Chad Hurley',
+    ],
+    'e1d62466-de8e-5ff0-9a58-3f8f241179e8' => [
+        'My children are the reason I laugh, smile and want to get up every morning.',
+        'Gena Lee Nolin',
+    ],
+    '368683a9-a8f3-52b9-a328-6b0e2c7c3329' => [
+        'Life is a series of waves to be embraced and overcome.',
+        'Albert Schweitzer',
+    ],
+    '77c40144-b256-590e-9bf0-31ea11266a2c' => [
+        'We are learning, too, that the love of beauty is one of Nature\'s greatest healers.',
+        'Ellsworth Huntington',
+    ],
+    'dd69eb89-c6e2-56d8-9f7f-34af3d7d3dfb' => [
+        'Be slow of tongue and quick of eye.',
+        'Cervantes',
+    ],
+    'ac2349ff-425d-5045-aab3-a9a4e8775f8c' => [
+        'I have a positive mental attitude, and I think I\'m divine, but I also think it takes a heck of a lot of blood, sweat and tears.',
+        'Steve Prefontaine',
+    ],
+    '575cf3bf-356d-577d-bbee-61eeab7b3bc8' => [
+        'Our duty is to encourage every one in his struggle to live up to his own highest idea, and strive at the same time to make the ideal as near as possible to the Truth.',
+        'Swami Vivekananda',
+    ],
+    'ce89bc47-0cad-54fe-b027-5e44ce96e00c' => [
+        'We know that the nature of genius is to provide idiots with ideas twenty years later.',
+        'Louis Aragon',
+    ],
+    '87513c3c-4d9b-5930-b6e9-b40413304e7a' => [
+        '\'Closed timelike curve\' is the jargon for time travel. It means you go out, come back and meet yourself in the past.',
+        'Kip Thorne',
+    ],
+    'cd289ad0-d9fc-5972-a500-0818ed62cc72' => [
+        'It does not matter how slowly you go as long as you do not stop.',
+        'Confucius',
+    ],
+    '901ef467-2391-5899-9e24-6f06735c33c8' => [
+        'There is nothing so stable as change.',
+        'Bob Dylan',
+    ],
+    'cd2ad9ba-631f-5708-8a64-bc088d724043' => [
+        'Behaving like a princess is work. It\'s not just about looking beautiful or wearing a crown. It\'s more about how you are inside.',
+        'Julie Andrews',
+    ],
+    'a4850d3d-c991-5f8c-a07e-0e6a0c2a17f7' => [
+        'Life goes by fast. Enjoy it. Calm down. It\'s all funny. Next. Everyone gets so upset about the wrong things.',
+        'Joan Rivers',
+    ],
+    'cf4bb60e-3dec-5151-900e-e70d1a315887' => [
+        'As I get older, I just prefer to knit.',
+        'Tracey Ullman',
+    ],
+    'c979eb6f-7d59-5ce3-8196-d138e08e2d81' => [
+        'Many are harmed by fear itself, and many may have come to their fate while dreading fate',
+        'Seneca',
     ],
 ];

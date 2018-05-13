@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I have found the best way to give advice to your children is to find out what they want and then advise them to do it.',
-        'Harry S Truman',
+    '618d9050-f795-50ba-a52c-b7b7478840a7' => [
+        'Think of all the beauty still left around you and be happy.',
+        'Anne Frank',
     ],
-    [
-        'His tenacity is unmatched in my opinion. Incredible how someone could have suffered that long and come back out of prison with such a good heart and positive things to say and do.',
-        'Maurice Ashley',
+    'eb32e0f4-d909-5c0d-9ddb-f9c196899e83' => [
+        'The royal family are protected from public accountability by law.',
+        'Heather Brooke',
     ],
-    [
-        'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It\'s never your fault. But it\'s always your fault, because if you wanted to change you\'re the one who has got to change.',
-        'Katharine Hepburn',
+    'e289b6dd-ac78-5337-9f41-3e9b7a63a33d' => [
+        'I never see what has been done; I only see what remains to be done.',
+        'Marie Curie',
     ],
-    [
-        'Heat cannot be separated from fire, or beauty from The Eternal.',
-        'Dante Alighieri',
+    'f28b6aa7-b8d0-5473-94a1-bac3f3370ebc' => [
+        'Earth is a flower and it\'s pollinating.',
+        'Neil Young',
     ],
-    [
-        'A good man often appears gauche simply because he does not take advantage of the myriad mean little chances of making himself look stylish. Preferring truth to form, he is not constantly at work upon the facade of his appearance.',
-        'Alanis Morissette',
+    'd0cb1048-4cff-5932-8bdd-e1f46a80e49f' => [
+        'Living well is the best revenge.',
+        'George Herbert',
     ],
-    [
-        'Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.',
-        'Thomas Carlyle',
+    'a36f0cec-c8fe-5dc4-86bc-9bac1fec2562' => [
+        'Our brand of democracy is hard. But I can promise that a year from now, when I no longer hold this office, I\'ll be right there with you as a citizen - inspired by those voices of fairness and vision, of grit and good humor and kindness that have helped America travel so far.',
+        'Barack Obama',
     ],
-    [
-        'In particular I want to talk about natural black hair, and how it\'s not just hair. I mean, I\'m interested in hair in sort of a very aesthetic way, just the beauty of hair, but also in a political way: what it says, what it means.',
-        'Chimamanda Ngozi Adichie',
+    'f49e45be-213c-5ca5-8606-3da6b4e5b5f3' => [
+        'Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.',
+        'Sri Chinmoy',
     ],
-    [
-        'What I\'ve learned from my own journey, and from my family\'s experience with cancer, is how important it is to stay positive and move forward. Not every day is going to be perfect; that\'s life. But staying positive is going to get you to the next day.',
-        'Bonnie Blair',
+    '440efedc-dfed-5b17-8e99-71162ce0c599' => [
+        'Epilepsy is a disease in the shadows. Patients are often reluctant to admit their condition - even to close family, friends or co-workers - because there\'s still a great deal of stigma and mystery surrounding the disease that plagued such historical figures as Julius Caesar, Edgar Allan Poe and Lewis Carroll.',
+        'Lynda Resnick',
     ],
-    [
-        'I wasn\'t as used to the new dumb questions, so when men I had once thought of as wise daddies now asked me \'How do you write?\' I did not try and spill red wine in their suede pants. I would just smile and say, \'On a typewriter in the mornings when there\'s nothing else to do.\'',
-        'Eve Babitz',
+    '697f0dc5-a789-58fb-bd13-5ab70bf431f1' => [
+        'Ships that pass in the night, and speak each other in passing, only a signal shown, and a distant voice in the darkness; So on the ocean of life, we pass and speak one another, only a look and a voice, then darkness again and a silence.',
+        'Stephen Hawking',
     ],
-    [
-        'Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.',
-        'e. e. cummings',
+    '17a81334-0764-5b3c-a538-40c2a7826e98' => [
+        'What about the rat race in the first place? Is it worthwhile? Or are you just buying into someone else\'s definition of success? Only you can decide that, and you\'ll have to decide it over and over and over. But if you think it\'s a rat race, before you drop out, take a deep breath. Maybe you picked the wrong job. Try again. And then try again.',
+        'Sheryl Sandberg',
     ],
-    [
-        'My life comes down to three moments: the death of my father, meeting my husband, and the birth of my daughter. Everything I did previous to that just doesn\'t seem to add up to very much.',
-        'Gwyneth Paltrow',
+    'c9eee31a-6380-5341-9df3-320c111bff04' => [
+        'One touch of nature makes the whole world kin.',
+        'William Shakespeare',
     ],
-    [
-        'The success of any great moral enterprise does not depend upon numbers.',
-        'William Lloyd Garrison',
+    '61b7ce86-b3cd-539f-84e3-34050b2f25f3' => [
+        'All of us profit from being corrected - if we\'re corrected in a positive way.',
+        'Sam Walton',
     ],
-    [
-        'Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.',
-        'Chuang Tzu',
+    '367f6c4f-8366-5739-8bb8-40a9291c2490' => [
+        'We know from science that nothing in the universe exists as an isolated or independent entity.',
+        'Margaret Wheatley',
     ],
-    [
-        'The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.',
-        'Albert Ellis',
+    'f210611f-9f9f-563f-8bd0-db8539349150' => [
+        'I\'m a positive person, and I try to look at the good side of everything.',
+        'Leona Lewis',
     ],
-    [
-        'Covetousness is both the beginning and the end of the devil\'s alphabet - the first vice in corrupt nature that moves, and the last which dies.',
-        'Michel de Montaigne',
+    'fc1d27bb-d772-5bd7-8f37-998ff957cc73' => [
+        'From error to error one discovers the entire truth.',
+        'Sigmund Freud',
     ],
-    [
-        'Here you do have forests, where pigs could be raised by letting them root about in the forests for a good part of the year. Therefore, you have a different attitude toward them compared with what continues to exist in the Middle East.',
-        'Marvin Harris',
+    '98bfd0a0-4d35-517b-a80b-7e0309ec5c20' => [
+        'I come to win.',
+        'Leo Durocher',
     ],
-    [
-        'Smiling is very important. If we are not able to smile, then the world will not have peace. It is not by going out for a demonstration against nuclear missiles that we can bring about peace. It is with our capacity of smiling, breathing, and being peace that we can make peace.',
-        'Nhat Hanh',
+    '61284c63-2019-5092-a714-a039b9e084dd' => [
+        'We do not know, in most cases, how far social failure and success are due to heredity, and how far to environment. But environment is the easier of the two to improve.',
+        'John B. S. Haldane',
     ],
-    [
-        'Fame is a funny thing. I like doing normal things. I like going to fairs. I like going to ball games. I like going to Disney World or a big field on the Fourth of July and having picnics with friends. The problem is you\'re either worried you\'re going to be recognized, or you\'re thankful you\'re not. It\'s always there.',
-        'Chris Evans',
+    '23d11cec-e9fd-504c-a4b2-19eeecbe1dba' => [
+        'If you get a diagnosis, get on a therapy, keep a good attitude and keep your sense of humor.',
+        'Teri Garr',
     ],
-    [
-        'Everywhere is nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.',
-        'Lucius Annaeus Seneca',
+    'c5c7810e-fa56-5dc7-917c-73ae22d1a4bc' => [
+        'I believe that, by and large, people are good and everybody you meet is more likely to surprise you in a positive way than in a negative way.',
+        'Anthony Horowitz',
     ],
-    [
-        'I know but one freedom and that is the freedom of the mind.',
-        'Antoine de Saint-Exupery',
+    'c31ef4fc-e53d-513d-9af1-5dade1f04263' => [
+        'I will prepare and some day my chance will come.',
+        'Abraham Lincoln',
     ],
-    [
-        'Each person is an enigma. You\'re a puzzle not only to yourself but also to everyone else, and the great mystery of our time is how we penetrate this puzzle.',
-        'Theodore Zeldin',
+    'e76095fc-a828-5452-aa3b-b3a482361224' => [
+        'The only journey is the one within.',
+        'Rainer Maria Rilke',
     ],
-    [
-        'I have no problem with the adventure travel movement. It makes better, more sensitive people. If you get people diving on a coral reef, they\'re going to become more respectful of the outdoors and more concerned with the threats that places like that face and they\'re going to care more about protecting them than they would have before.',
-        'Tim Cahill',
+    'b213dc21-8146-54f8-b591-1052393dccd4' => [
+        'Over the years, my work became both my vocation and avocation. Since I enjoyed it so much, I never felt a great need to go outside for relaxation. Nevertheless, I became an avid photographer and traveler. Possibly my love for travel stems from the early years when my family seldom went away on vacation.',
+        'Gertrude B. Elion',
     ],
-    [
-        'Maybe that\'s what life is... a wink of the eye and winking stars.',
-        'Gary Allan',
+    'b4fdef5c-dbab-5874-a957-f27bdfa749c6' => [
+        'The devil ain\'t got no power over me. The devil come, and me shake hands with the devil. Devil have his part to play. Devil\'s a good friend, too... because when you don\'t know him, that\'s the time he can mosh you down.',
+        'Bob Marley',
     ],
-    [
-        'The reports of my death have been greatly exaggerated.',
-        'Mark Twain',
+    '22ea13b6-98cd-5a73-b6e2-5755dfceee17' => [
+        'Men want a battle to fight, an adventure to live, and a beauty to rescue. That is what is written in their hearts. That is what little boys play at. That is what men\'s movies are about. You just see it. It is undeniable.',
+        'John Eldredge',
     ],
-    [
-        'I like to make the best of what I have. I\'m not a supermodel, clearly. I\'m not a makeup artist. I\'m a real woman.',
-        'Victoria Beckham',
+    '4574069f-b0a8-507a-b476-941a1382962f' => [
+        'Dignity is not negotiable. Dignity is the honor of the family.',
+        'Vartan Gregorian',
     ],
 ];

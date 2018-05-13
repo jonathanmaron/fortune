@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I cry if something bad happens. I grab a drink with friends when I get stressed out. I travel. I sometimes lash out at my closest friends.',
-        'Song Hye-kyo',
+    '9e8ccecc-1b16-52ab-9f5c-9a767646b5fb' => [
+        'Anyone who wants to sell you overnight success or wealth is not interested in your success; they are interested in your money.',
+        'Bo Bennett',
     ],
-    [
-        'How inscrutable and incomprehensible are the hidden works of Nature!',
-        'Antonie van Leeuwenhoek',
+    'e1af597c-ce67-5475-8709-8d6a2044f16c' => [
+        'The work an unknown good man has done is like a vein of water flowing hidden underground, secretly making the ground green.',
+        'Thomas Carlyle',
     ],
-    [
-        'When I go away to do a movie, I bring the blanket I\'ve had since I was a little girl. It helps me sleep. I also always bring my laptop so I can E-mail friends. And I bring my dog, Beauty, wherever I can.',
-        'Kirsten Dunst',
+    'c57a121d-29be-59f8-8d9f-4f5d32812b97' => [
+        'I don\'t have a bank account because I don\'t know my mother\'s maiden name.',
+        'Paula Poundstone',
     ],
-    [
-        'I believe alien life is quite common in the universe, although intelligent life is less so. Some say it has yet to appear on planet Earth.',
-        'Ronald Reagan',
+    '9dbf2252-cbab-524e-b1ed-1542c92bdab1' => [
+        'Cute is when a person\'s personality shines through their looks. Like in the way they walk, every time you see them you just want to run up and hug them.',
+        'Natalie Portman',
     ],
-    [
-        'Our fatigue is often caused not by work, but by worry, frustration and resentment.',
-        'Dale Carnegie',
+    'bfdaae62-8ffc-5a2a-a8f4-8ed5720979f6' => [
+        'I had to come from something, come from a place that was negative and positive but the majority of it is a negative place.',
+        'Kendrick Lamar',
     ],
-    [
-        'All successful people men and women are big dreamers. They imagine what their future could be, ideal in every respect, and then they work every day toward their distant vision, that goal or purpose.',
-        'Brian Tracy',
+    'a41c8b17-bfed-5cd6-ba4b-bbe754280dd5' => [
+        'Keep close to Nature\'s heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean.',
+        'John Muir',
     ],
-    [
-        'Too much self-centered attitude, you see, brings, you see, isolation. Result: loneliness, fear, anger. The extreme self-centered attitude is the source of suffering.',
-        'Dalai Lama',
+    'a7ad5479-47ea-500e-b05d-38f1907970ab' => [
+        'When you invest your time, you make a goal and a decision of something that you want to accomplish. Whether it\'s make good grades in school, be a good athlete, be a good person, go down and do some community service and help somebody who\'s in need, whatever it is you choose to do, you\'re investing your time in that.',
+        'Nick Saban',
     ],
-    [
-        'The social object of skilled investment should be to defeat the dark forces of time and ignorance which envelope our future.',
-        'John Maynard Keynes',
+    '3478709b-c946-5f26-9538-51e3405da53f' => [
+        'Saudi Arabia isn\'t the enemy, but it is a problem. It could make so much positive difference in the Islamic world if it used its status to soothe Sunni-Shiite tensions and encourage tolerance. For a time, under King Abdullah, it seemed that the country was trying to reform, but now under King Salman, it has stalled.',
+        'Nicholas Kristof',
     ],
-    [
-        'Fatherhood is not a matter of station or wealth. It is a matter of desire, diligence and determination to see one\'s family exalted in the celestial kingdom. If that prize is lost, nothing else really matters.',
-        'Ezra Taft Benson',
+    'd3a7a2d3-a916-5ee3-ab46-2f6536392a6c' => [
+        'What am I responsible for? Who am I responsible to? Everybody? How come when Archie Bunker nailed everybody, it was funny - but when I do it, it\'s not?',
+        'Sam Kinison',
     ],
-    [
-        'You can learn more from the lows than the highs. The highs are great but the lows make you really look at things in a different way and want to improve. Every player will have both in their careers and I have, but what you get is that experience which is so important to perform at your best.',
-        'Wayne Rooney',
+    'ed6a990a-7e32-569a-be5b-f65d207ea7b0' => [
+        'I\'m having a great time. I get to travel and see the world. And yeah, I\'ll have a family, because I don\'t want to miss out on that amazing experience, but it\'s not defining who I am.',
+        'Krysten Ritter',
     ],
-    [
-        'The truth is on the march and nothing will stop it.',
-        'Emile Zola',
+    'c0dff6a9-433b-5583-b1aa-5a13488053ec' => [
+        'I find the family the most mysterious and fascinating institution in the world.',
+        'Amos Oz',
     ],
-    [
-        'We do not remember days, we remember moments.',
-        'Confucius',
+    'b24c22c5-959a-5e47-931a-608e44b55727' => [
+        'Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.',
+        'Lord Byron',
     ],
-    [
-        'Be thankful when you don\'t know something for it gives you the opportunity to learn.',
-        'Unknown',
+    '40be22ee-92f9-5999-ba36-ccbe3b879ee3' => [
+        'Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.',
+        'Jean-Paul Sartre',
     ],
-    [
-        'The word \'spinster\' tells you everything you need to know about our attitude of women who choose not to marry.',
-        'Caitlin Moran',
+    '6964210b-9d2f-58da-901f-d314f0041d36' => [
+        'Head Start is designed to ensure that all children - regardless of their family\'s income, race, or ethnic background - are able to enter kindergarten ready to learn.',
+        'Lucille Roybal-Allard',
     ],
-    [
-        'Lead yourself whenever your boss\' leadership deteriorates. When your boss doesn\'t praise what you do, praise yourself. When your boss doesn\'t make you big, make yourself big. Remember, if you have done your best, failure does not count.',
-        'Mario Teguh',
+    '33a1034b-c7e9-5b46-b7c0-f1e0db1dae82' => [
+        'I thought to be feminine was to give in to straight culture, or the beauty standard, but in my heart I had a flair for fashion and style. They were passions I kept secret because I didn\'t understand I could love clothes and hair and makeup and still like girls.',
+        'Beth Ditto',
     ],
-    [
-        'To make democracy work, we must be a nation of participants, not simply observers. One who does not vote has no right to complain.',
-        'Louis L\'Amour',
+    '228db470-9524-5991-a94c-941c8156d989' => [
+        'America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, even eaten with people who in America would have been considered \'white,\' but the \'white\' attitude had been removed from their minds by the religion of Islam.',
+        'Malcolm X',
     ],
-    [
-        'I\'m an un-healable positive optimist.',
-        'Andre Rieu',
+    '81de2275-3844-54d7-b322-f86d349883ff' => [
+        'If I don\'t make the team out of spring training, I\'ll keep a good attitude. I\'ll just go polish up the parts of my game that made me not stay in the big leagues.',
+        'Cory Lidle',
     ],
-    [
-        'The most common error made in matters of appearance is the belief that one should disdain the superficial and let the true beauty of one\'s soul shine through. If there are places on your body where this is a possibility, you are not attractive - you are leaking.',
-        'Charles Lamb',
+    '213aa877-550a-5957-9bc6-e33ea0761454' => [
+        'Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.',
+        'George Whitefield',
     ],
-    [
-        'Some people are drawn naturally - there are natural guitarists, and there are natural piano players, and I think guitar implies travel, a sort of footloose gypsy existence. You grab your bag and you go to the next town.',
-        'Hugh Laurie',
+    '4bb396a9-c438-5914-8f58-1a2173c25745' => [
+        'To achieve great things, two things are needed; a plan, and not quite enough time.',
+        'Leonard Bernstein',
     ],
-    [
-        'Life is like riding a bicycle. In order to maintain balance, you must keep moving.',
-        'Albert Einstein',
+    'aedfae94-f936-57ee-971a-b46ad2908e70' => [
+        'Who cares about great marks left behind? We have one life... just one. Our life. We have nothing else.',
+        'Grace Jones',
     ],
-    [
-        'Where there is love there is life.',
-        'Jerry Lewis',
+    '0378f912-db87-5aed-85e4-0ff882ed69d8' => [
+        'Eventually soul mates meet, for they have the same hiding place.',
+        'Robert Brault',
     ],
-    [
-        'Scarlett Johansson has a smile she tries to suppress in every movie she makes. She\'s been trying to keep a straight face since she appeared with Bill Murray 11 years ago in her breakthrough, \'Lost in Translation.\'',
-        'Steve Erickson',
+    '02ca115b-8e90-5250-b6bc-879a3fc88711' => [
+        'Becoming an author changes your attitude too. Once you see where books come from, and how they\'re made, they never seem quite as sacred again.',
+        'Lev Grossman',
     ],
-    [
-        'Four things for success: work and pray, think and believe.',
-        'Norman Vincent Peale',
+    '93de324b-4b62-574e-bf0b-c1e08a298859' => [
+        'My success has been something I\'ve worked a long time at and it\'s been a gradual process. I compare it to the idea of someone losing a lot of weight over a period of a few years. You don\'t really notice the weight loss overall but if you compare photos from then and now there\'s a big difference.',
+        'Ray William Johnson',
     ],
-    [
-        'The beauty one can find in art is one of the pitifully few real and lasting products of human endeavor.',
-        'J. Paul Getty',
+    'b2fc1c8e-6b33-56c3-a26d-020b0ada8f8e' => [
+        'The directors I respect are the ones who have a collaborative attitude, who collaborate with actors.',
+        'Eric Braeden',
     ],
-    [
-        'Probably because I\'m from a middle class family, I have that nature in me that I don\'t get too excited with big things.',
-        'Virat Kohli',
+    '14af8002-8e93-5ff0-8394-b77c63d46b55' => [
+        'Time is generally the best doctor.',
+        'Ovid',
     ],
 ];

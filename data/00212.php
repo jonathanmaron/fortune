@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The important thing is to learn a lesson every time you lose. Life is a learning process and you have to try to learn what\'s best for you. Let me tell you, life is not fun when you\'re banging your head against a brick wall all the time.',
-        'John McEnroe',
+    'd99921ea-d6e8-5d69-8da0-5eae7ccc39fb' => [
+        'You have to trust in something - your gut, destiny, life, karma, whatever.This approach has never let me down.',
+        'Steve Jobs',
     ],
-    [
-        'Paris is always a good idea.',
-        'Audrey Hepburn',
+    '81de359d-3f2b-58c4-b975-b13f64d70f27' => [
+        'My denial and irresponsible attitude about asthma put me at great risk and caused me so much needless suffering. My hope is that the kids I talk to learn to open up about their asthma, become educated about their condition, and seek help.',
+        'Jackie Joyner-Kersee',
     ],
-    [
-        'Being right is highly overrated. Even a stopped clock is right twice a day.',
-        'Unknown',
+    'e714ce7b-3f26-51f4-bcf9-93436296fc1b' => [
+        'If you take a band like Nirvana, their biggest hits are structurally the same as even a hair metal band\'s biggest hits. The structure\'s not different - the attitude was different. Except it really wasn\'t. It seemed a little more human.',
+        'Buzz Osborne',
     ],
-    [
-        'All my life through, the new sights of Nature made me rejoice like a child.',
-        'Marie Curie',
+    '669865cc-08d3-5488-9375-af033e252275' => [
+        'And, behold, I come quickly; and my reward is with Me, to give every man according as his work shall be. I am Alpha and Omega, the beginning and the end, the first and the last.',
+        'Jesus Christ',
     ],
-    [
-        'It\'s about having an active lifestyle, staying healthy, and making the right decisions. Life is about balance. Not everybody wants to run a marathon, but we could all start working out and being active, whether you walk to work or take an extra flight of stairs.',
-        'Apolo Ohno',
+    'c5ffe7d1-4240-5061-86d3-401fdf3c8321' => [
+        "Choose not to be harmed\u{2014}and you won't feel harmed. Don't feel harmed\u{2014}and you haven't been.",
+        'Marcus Aurelius',
     ],
-    [
-        'I gave my beauty and my youth to men. I am going to give my wisdom and experience to animals.',
-        'Brigitte Bardot',
+    '3c8a6a98-8451-5761-b095-d4783610c05b' => [
+        'War is a game that is played with a smile. If you can\'t smile, grin. If you can\'t grin, keep out of the way till you can.',
+        'Winston Churchill',
     ],
-    [
-        'I can\'t be around someone who is negative because I am such a positive person. If you are mean, then we don\'t speak.',
-        'Trevor Jackson',
+    '6c937438-1d78-552e-a9a8-3b145beb2724' => [
+        'O sweet, delusive Noon, Which the morning climbs to find, O moment sped too soon, And morning left behind.',
+        'Helen Hunt Jackson',
     ],
-    [
-        'It\'s true that a smile can take years off a person - not that such a thing matters in Yoko Ono\'s case.',
-        'Elvis Mitchell',
+    '234bd5ee-944a-51ef-a1df-5e36b11eb3f8' => [
+        'It takes discipline not to let social media steal your time.',
+        'Alexis Ohanian',
     ],
-    [
-        'I don\'t believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.',
-        'Ken Venturi',
+    '80864bad-e3e1-5576-a34d-63ff229191cb' => [
+        'The best way to be productive is to have a great team. So I spend more time than most CEOs on human resources. That\'s 20 percent of my week.',
+        'Kevin P. Ryan',
     ],
-    [
-        'Love is a positive, symbiotic, reciprocal flow between two or more entities.',
-        'Inga Muscio',
+    '6bc1ad48-21e0-5ee9-862a-55218f4ff4c5' => [
+        'There are times as a parent when you realize that your job is not to be the parent you always imagined you\'d be, the parent you always wished you had. Your job is to be the parent your child needs, given the particulars of his or her own life and nature.',
+        'Ayelet Waldman',
     ],
-    [
-        'I always thought of myself as more American than Americans when I was living in Germany, because I always had this attitude of can-do, and if you\'re successful, you can show it, which is a very un-German thing, you know.',
-        'Kim Dotcom',
+    'fff04e45-d6bc-5476-ba09-a531995077f6' => [
+        'My dream is to be World Lightweight Champion in the UFC. Have more money than I know what to do with. And have a great life for my kids, grandkids, and everyone in my family.',
+        'Conor McGregor',
     ],
-    [
-        'Our best thoughts come from others.',
-        'Ralph Waldo Emerson',
+    '97a12264-408b-5324-8860-0c9e5bb3bb02' => [
+        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
+        'Benjamin Franklin',
     ],
-    [
-        'One of the funny things in life to me is a guy who takes himself very seriously.',
-        'Dennis Farina',
+    '4d859a55-13ad-5ee1-94ac-240dc8676147' => [
+        'Beauty is all very well at first sight; but who ever looks at it when it has been in the house three days?',
+        'George Bernard Shaw',
     ],
-    [
-        'I would prefer to have no money but to have a nice family and good friends around.',
-        'Li Na',
+    'eb81dfbe-458d-54c9-a670-afe1cd735ed0' => [
+        'We all know how we can be turned around by a magic place; that\'s why we travel, often. And yet we all know, too, that the change cannot be guaranteed. Travel is a fool\'s paradise, Emerson reminded us, if we think that we can find anything far off that we could not find at home.',
+        'Pico Iyer',
     ],
-    [
-        'There\'s always been trying at some stage to design people. And it will always be presented initially as a positive thing, as a way to weed out diseases. Of course you know it ultimately will be used in a bad way too, to create slaves or servants.',
-        'Maria Doyle Kennedy',
+    '2caa1d75-3e97-5626-aff9-b2e837600556' => [
+        'I am just a beginner. The two films so far are baby steps. If I develop an attitude, I\'ll be finished even before I\'ve started. Besides, if I started misbehaving, my folks would give me a tight slap.',
+        'Kriti Sanon',
     ],
-    [
-        'I always travel with my guitar. I take it myself - with me in my hand. I don\'t like to send it by cargo because it\'s dangerous. There is no way I would do that.',
-        'Juanes',
+    '8e40ea00-c5a7-582d-a6b1-a38291652f24' => [
+        'Success is the sum of small efforts - repeated day in and day out.',
+        'Robert Collier',
     ],
-    [
-        'Whatever you do in life, surround yourself with smart people who\'ll argue with you.',
-        'William Wordsworth',
+    '683767b3-a6ca-5b4a-8fc8-922089979cb1' => [
+        'Its funny, because for females in general - not just in music, but the corporate ladder as well - anything we do has always been harder for us. When it comes to music, the industry wants you to conform, to look like this and to sound like this and do this or that. It makes it harder. It\'s harder for us to come out and be bosses and lead the pack.',
+        'Missy Elliott',
     ],
-    [
-        'When one has success, the answer is not to undo that success. It is to continue what has been done.',
-        'Chuck Schumer',
+    'bfbaf528-8550-55e3-bc2a-d475b8bf59eb' => [
+        'I\'d rather attempt to do something great and fail than to attempt to do nothing and succeed.',
+        'Robert H. Schuller',
     ],
-    [
-        'All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.',
-        'Albert Camus',
+    '8e758c70-7419-5bfe-ad63-f1c51cb01fbe' => [
+        'It\'s only I have seen enough of it and the funny thing is now, I know that I\'m skinny, because I know there are even smaller clothes in the store. I think I\'m big, when I was big, I never thought about it.',
+        'Karl Lagerfeld',
     ],
-    [
-        'Every time I took a long leave from home, I felt as if I were going to conquer the world. Or rather, take possession of what is my birthright, my inheritance.',
-        'Ella Maillart',
+    '673c72c4-11b9-5e01-a6e9-8dc1e03244ec' => [
+        'It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.',
+        'Voltaire',
     ],
-    [
-        'What I miss the most is chatting with my friends and family and having a good laugh over a simple meal.',
-        'Kim Yuna',
+    '4b2bdb8c-72ea-59bc-82af-74f21d47e1d2' => [
+        'Barack Obama, he just sits out. He sits back; he criticizes everybody. He\'s got his professorial attitude, real condescending, as if he\'s got all the answers.',
+        'Steve Scalise',
     ],
-    [
-        'There is something mean in human nature that prefers to think evil, that gives a willing ear and a ready welcome to calumny, a sort of jealousy of goodness and greatness and things of good report.',
-        'Richard Le Gallienne',
+    '21bb7f4b-2b52-55d9-a88d-c54040c8a27e' => [
+        'If you have a friend or a family member who\'s bipolar, or has panic attack disorder, or is depressed, read up on it a little bit so you can get to know where they\'re coming from.',
+        'Eric Millegan',
     ],
-    [
-        'Live as if you were living a second time, and as though you had acted wrongly the first time.',
-        'Viktor E. Frankl',
+    'c2de7507-0839-5f22-b37e-1d9a1e3f1e6a' => [
+        'I find the positive in the negative all the time. Any time you give something power, it wins, and it can continuously happen, so I just let negative people know they have no place in my life. They have no place around my children.',
+        'Monica Denise Brown',
     ],
-    [
-        'Mere goodness can achieve little against the power of nature.',
-        'Georg Wilhelm Friedrich Hegel',
+    '3244c54c-21f1-5763-8ab5-94c99f972bd0' => [
+        'It\'s a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient.',
+        'Daniel Kahneman',
     ],
-    [
-        'I think I have a hard time expressing myself in my relationships. I use songs to tell people how I\'m feeling. If I can\'t say \'I love you,\' I\'ll write a song about it and hope that the person figures it out.',
-        'Jenny Lewis',
+    '90a717e2-31a7-58ba-94cf-3311e949dd5d' => [
+        'Fear comes in two packages fear of failure, and sometimes, fear of success.',
+        'Tom Kite',
     ],
 ];

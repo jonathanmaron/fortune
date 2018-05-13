@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'What we think, we become.',
-        'Buddha',
+    'f4c0a3b3-5578-5d27-8b9c-73a23fa596b6' => [
+        'I think now that I\'m in the autumn of my life, and I\'m getting a chance of having an overview and looking at the shape of how things happen, when things happen, why things happen, I think it was fitting that I spent most of my early career doing mask work, because I just don\'t think I was that comfortable in my own skin.',
+        'Ron Perlman',
     ],
-    [
-        'When the world becomes a massive mess with nobody at the helm, it\'s time for artists to make their mark.',
-        'Joni Mitchell',
+    '3154a4bb-8730-5642-90c4-baaf8742bda4' => [
+        'The way a woman carries herself and the way she dresses ought to promote the following types of words: modesty, discretion, wisdom, beauty, elegance and refinement, but not sensuality, luxury, extravagance.',
+        'Paul Washer',
     ],
-    [
-        'People work better when they know what the goal is and why. It is important that people look forward to coming to work in the morning and enjoy working.',
-        'Elon Musk',
+    '6fd688fc-d3b4-5242-bf9c-c0dde0ea340b' => [
+        'Do you feel gloomy? Lift your eyes. Stand on your feet. Say a few words of appreciation and love to the Lord. Be positive.',
+        'Gordon B. Hinckley',
     ],
-    [
-        'My mother always called me an ugly weed, so I never was aware of anything until I was older. Plain girls should have someone telling them they are beautiful. Sometimes this works miracles.',
-        'Hedy Lamarr',
+    '236fdb71-d568-5a12-abe4-ddd568d06f09' => [
+        'I\'d rather regret the things I\'ve done than regret the things I haven\'t done.',
+        'Lucille Ball',
     ],
-    [
-        'Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.',
-        'Henry Reed',
+    '1a6c10a6-df42-5d9d-b418-ab1af7bfa64a' => [
+        'If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.',
+        'Pema Chodron',
     ],
-    [
-        'We need prisons because there are some hardcore criminals, but I never met a guy who has been in jail that came out with a smile on his face thinking, \'Right, that\'s it - now I am going to be good!\'',
-        'Tahar Rahim',
+    'd5a64efe-796d-543b-a5e0-4e51f9840aaa' => [
+        'If you study both \'Gilligan\' and \'Brady,\' you will see they are based on a similar philosophy: that it\'s possible for different kinds of people to learn to live together, either in a family or stuck on an island with no escape.',
+        'Sherwood Schwartz',
     ],
-    [
-        'It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.',
-        'Max Planck',
+    '0e9a2794-efa2-5506-b1c8-de318dac918f' => [
+        'Successful people ask better questions, and as a result, they get better answers.',
+        'Tony Robbins',
     ],
-    [
-        'Some people think it\'s holding that makes one strong, sometimes it\'s letting go.',
-        'Unknown',
-    ],
-    [
-        'Something I\'ve noticed as I get older is that I do think about the future more. It\'s all positive thinking.',
-        'Abbie Cornish',
-    ],
-    [
-        'The beauty of Captain America is that you didn\'t have to come from a distant planet, like Superman, or he didn\'t have to be born into a family of billionaires like Bruce Wayne. He happened to be in the right place at the right time, and someone gave him a magic potion, and he grew muscles and became a superhero.',
-        'Mark Waid',
-    ],
-    [
-        'There are some things you learn best in calm, and some in storm.',
-        'Willa Cather',
-    ],
-    [
-        'The positive aspects of modernity are to be acknowledged unreservedly: we are all grateful for the marvellous possibilities that it has opened up for mankind and for the progress in humanity that has been granted to us.',
-        'Pope Benedict XVI',
-    ],
-    [
-        'You should also appreciate the goodness around you, and surround yourself with positive people.',
-        'Nadia Comaneci',
-    ],
-    [
-        'Personally, I just think rap music is the best thing out there, period. If you look at my deck in my car radio, you\'re always going to find a hip-hop tape; that\'s all I buy, that\'s all I live, that\'s all I listen to, that\'s all I love.',
-        'Eminem',
-    ],
-    [
-        'Close to a billion people - one-eighth of the world\'s population - still live in hunger. Each year 2 million children die through malnutrition. This is happening at a time when doctors in Britain are warning of the spread of obesity. We are eating too much while others starve.',
-        'Jonathan Sacks',
-    ],
-    [
-        'For me, the fall of the Wall came at the exact right time because, I mean, I was 17, basically I hadn\'t missed anything, unlike the generation of my parents, who were deprived of a lot of things. They couldn\'t travel, and they couldn\'t really get ahead in their professional careers. So for me, it was perfect timing.',
-        'Tom Wlaschiha',
-    ],
-    [
-        'We are one people with one family. We all live in the same house... and through books, through information, we must find a way to say to people that we must lay down the burden of hate. For hate is too heavy a burden to bear.',
-        'John Lewis',
-    ],
-    [
-        'Nothing exists except atoms and empty space; everything else is just opinion.',
-        'Democritus',
-    ],
-    [
-        'My philosophy is it\'s none of my business what people say of me and think of me. I am what I am, and I do what I do. I expect nothing and accept everything. And it makes life so much easier.',
-        'Oscar Wilde',
-    ],
-    [
-        'For me, the most interesting people are ones who often work against their best interests. Bad choices. They go in directions where you go, \'No no no nooo!\' You push away someone who is trying to love you, you hurt someone who\'s trying to get your trust, or you love someone you shouldn\'t.',
-        'Paul Haggis',
-    ],
-    [
-        'Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours.',
+    '852fee6d-eeee-51d1-b700-f8eecf4181cd' => [
+        'Being confident is the key to life. Don\'t be afraid to be you! I\'m super different from a lot of kids my age with style and personality, and I\'m OK with it. And if you are OK with it, everyone else will be, too. Just be yourself.',
         'Orison Swett Marden',
     ],
-    [
-        'I\'ve been thinking about disowning some of my genes lately. I have a few healthy, happy, long-living optimists in my family tree - most of them fans of Christian Science founder Mary Baker Eddy, a major champion of positive thinking. But I\'ve got plenty of ancestors who played out more tortured hands.',
-        'Ariel Gore',
+    '83d8ab0c-51ff-5089-817c-cc363f55e0b0' => [
+        'He looks as though he\'s been weaned on a pickle.',
+        'Alice Roosevelt Longworth',
     ],
-    [
-        'I\'m positive and I smile a lot, and I\'m kind of a banana, but serious work just seems to find me, so I\'m not going to argue with it.',
-        'Mireille Enos',
+    '42104c6f-c708-5438-89c7-605fc1173c6d' => [
+        'America is still mostly xenophobic and racist. That\'s the nature of America, I think.',
+        'Jerry Garcia',
     ],
-    [
-        'The reason why you know more funny dudes than funny chicks is that dudes are funnier than chicks. If my daughter has a mediocre sense of humor, I\'m just gonna tell her, \'Be a staff writer for a sitcom. Because they\'ll have to hire you, they can\'t really fire you, and you don\'t have to produce that much. It\'ll be awesome.\'',
-        'Adam Carolla',
+    'da162899-f7f9-516a-b5d9-91c341ad5966' => [
+        'How wonderful that we have met with a paradox. Now we have some hope of making progress.',
+        'Niels Bohr',
     ],
-    [
-        'Beauty is that which is simultaneously attractive and sublime.',
-        'Karl Wilhelm Friedrich Schlegel',
+    '30d8acf7-1d0d-5569-8b87-c67d6f756311' => [
+        'Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.',
+        'Mark Zuckerberg',
+    ],
+    '21aaf4da-379e-535a-9579-0f842f1e54eb' => [
+        'We tell them that we believe it will be beautiful because that is our specialty, we only create joy and beauty. We have never done a sad work. Through the drawings, we hope a majority will be able to visualize it.',
+        'Christo',
+    ],
+    '20457f3b-42a1-59c6-a72a-b0a43cc00777' => [
+        'The only way to discover the limits of the possible is to go beyond them into the impossible.',
+        'Arthur C. Clarke',
+    ],
+    '9455aa31-b16a-58cc-8466-4b01b5b7b21b' => [
+        'The American Dream I believe in is one that provides anyone willing to work hard enough with the opportunity to succeed.',
+        'Tammy Duckworth',
+    ],
+    '1d95a465-0da1-54e6-84ac-43adc181684c' => [
+        'The art of living is more like wrestling than dancing.',
+        'Neil deGrasse Tyson',
+    ],
+    '980f4dc1-418a-5ea7-8455-8c052d4fe770' => [
+        'Do something wonderful, people may imitate it.',
+        'Albert Schweitzer',
+    ],
+    'aa26e33e-9bc9-5d38-906b-6886e2381200' => [
+        'I feel that people are basically trying to do their best in the world. Even when you see people making mistakes, you understand why they\'re making a mistake. Everybody has flaws, everybody has demons, everybody has ghosts, but I think you watch people and you see everybody trying to do their best.',
+        'Jason Katims',
+    ],
+    'f19f01c4-0b34-5efb-a766-a3de738a0b5a' => [
+        'When I travel, I always take my Winsor &amp; Newton watercolor kit, which is the size of a pack of cigarettes when folded up. I bought my first one in the 1980s. It was handy to bring on trips, and I packed it into a leather pouch along with a couple of brushes, a pencil, an eraser and paper.',
+        'Susan Minot',
+    ],
+    '44b31a3d-926c-50eb-916d-e6a7e4e0e9be' => [
+        'Love is the attempt to form a friendship inspired by beauty.',
+        'Marcus Tullius Cicero',
+    ],
+    'b9ceaae4-7ec2-551f-b83e-c90fc2a2e9ba' => [
+        'Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.',
+        'Byron Pulsifer',
+    ],
+    '2ea44739-41ff-5f2c-8da7-e3f49b1d0c3d' => [
+        'Time abides long enough for those who make use of it.',
+        'Leonardo da Vinci',
+    ],
+    '77bee3f1-2601-5e1c-b197-302e54bade80' => [
+        'The poetry of the earth is never dead.',
+        'John Keats',
+    ],
+    '143f6d44-c22e-59ed-8175-fb2aa315531d' => [
+        'Many people feel so pressured by the expectations of others that it causes them to be frustrated, miserable and confused about what they should do. But there is a way to live a simple, joy-filled, peaceful life, and the key is learning how to be led by the Holy Spirit, not the traditions or expectations of man.',
+        'Natalie Massenet',
+    ],
+    'a0977ee2-a725-536b-9de4-515be541594b' => [
+        'The human face is the organic seat of beauty. It is the register of value in development, a record of Experience, whose legitimate office is to perfect the life, a legible language to those who will study it, of the majestic mistress, the soul.',
+        'Eliza Farnham',
     ],
 ];

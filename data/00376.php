@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'One picture is worth 1,000 denials.',
-        'Ronald Reagan',
+    '6e29a621-48c0-55af-a64b-16103bbd05f5' => [
+        'I knew, of course, that trees and plants had roots, stems, bark, branches and foliage that reached up toward the light. But I was coming to realize that the real magician was light itself.',
+        'Edward Steichen',
     ],
-    [
-        'If you don\'t want to work you have to work to earn enough money so that you won\'t have to work.',
-        'Ogden Nash',
+    'ee1bfb78-f041-5c59-b10b-87bf2064cda7' => [
+        'When I admire the wonders of a sunset or the beauty of the moon, my soul expands in the worship of the creator.',
+        'Mahatma Gandhi',
     ],
-    [
-        'Mother Nature is the great equalizer. You can\'t get away from it.',
-        'Christopher Heyerdahl',
+    '6c8bd8cb-272f-59fd-81c7-000247d83b0a' => [
+        'Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers.',
+        'Jose Luis Borges',
     ],
-    [
-        'Art should never be limited - the beauty of art is that it gives us the freedom to go places where we wouldn\'t go to in our normal lives. Inside, I\'m just so many different people. I go from the pretty girl on the red carpet to the singer at Ozzfest, spitting in the crowd. That\'s Jada.',
-        'Jada Pinkett Smith',
+    '7a95d469-28dc-5543-a90a-f0991f329eac' => [
+        'Peace is a journey of a thousand miles and it must be taken one step at a time.',
+        'Lyndon B. Johnson',
     ],
-    [
-        'Spring is when you feel like whistling even with a shoe full of slush.',
-        'Doug Larson',
+    '285094e9-cd6d-5730-a38b-f50bb8caf421' => [
+        'Beauty is eternity gazing at itself in a mirror.',
+        'Khalil Gibran',
     ],
-    [
-        'Feelings aroused by the touch of someone\'s hand, the sound of music, the smell of a flower, a beautiful sunset, a work of art, love, laughter, hope and faith - all work on both the unconscious and the conscious aspects of the self, and they have physiological consequences as well.',
-        'Bernie Siegel',
+    '9a6172aa-4c8e-523e-bb25-b5d0f128d76a' => [
+        'Everything is political. I will never be a politician or even think political. Me just deal with life and nature. That is the greatest thing to me.',
+        'Bob Marley',
     ],
-    [
-        'Grow old with me! The best is yet to be.',
-        'Robert Browning',
+    '7cc8814a-0e84-530a-a366-d2d1cdcac522' => [
+        'If we are facing in the right direction, all we have to do is keep on walking.',
+        'Proverb',
     ],
-    [
-        'Life itself still remains a very effective therapist.',
-        'Mary J. Blige',
+    '2f6bc7e1-44ab-54cf-823c-f9856ec1c65b' => [
+        'It appears to be a law that you cannot have a deep sympathy with both man and nature.',
+        'Henry David Thoreau',
     ],
-    [
-        'The theatre only knows what it\'s doing next week, not like the opera, where they say: What are we going to do in five years\' time? A completely different attitude.',
-        'Harrison Birtwistle',
+    'b86c789b-84a5-52de-9c02-4ceb1faa636e' => [
+        'To remain a credible leader, I must always work first, hardest, and longest on changing myself. This is neither easy nor natural, but it is essential.',
+        'John C. Maxwell',
     ],
-    [
-        'In everyone\'s life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit.',
-        'Albert Schweitzer',
+    'd671215c-a810-55b1-ab36-a7a1a279d3c8' => [
+        'A lot of people say to me, \'Stay grounded; be humble.\' David Schwimmer was just like, \'You need to love what you do.\' And I think that\'s really nice. Just love your work. My family has given me great advice saying, you know, \'Don\'t work too hard.\' And it\'s really nice to have someone like that - you know that they love you.',
+        'Millie Bobby Brown',
     ],
-    [
-        'The day I made that statement, about the inventing the internet, I was tired because I\'d been up all night inventing the Camcorder.',
-        'Al Gore',
+    '5785a56a-a4a2-5034-8129-f704e36ff46d' => [
+        'I have had it up to here with the prosecutions, the government\'s attitude, the judiciary, the media\'s stance and the majority of Turks who view the Kurdish people\'s justified cause through a nationalist lens.',
+        'Osman Baydemir',
     ],
-    [
-        'We still carry this old caveman-imprint idea that we\'re small, nature\'s big, and it\'s everything we can manage to hang on and survive. When big geophysical events happen - a huge earthquake, tsunami, or volcanic eruption - we\'re reminded of that.',
-        'James Balog',
+    'b0cf590c-bafc-50b4-b134-3ab7b5d22aee' => [
+        'I think it\'s part of my personality - I love to travel; I love different cultures and philosophies and perspectives on things.',
+        'Martin Henderson',
     ],
-    [
-        'Sunsets are so beautiful that they almost seem as if we were looking through the gates of Heaven.',
-        'John Lubbock',
+    '86eea265-cae3-5c1b-9fb3-7d4e3d24473a' => [
+        'I\'m positive and I smile a lot, and I\'m kind of a banana, but serious work just seems to find me, so I\'m not going to argue with it.',
+        'Mireille Enos',
     ],
-    [
-        'I have no hostility to nature, but a child\'s love to it. I expand and live in the warm day like corn and melons.',
-        'Ralph Waldo Emerson',
+    '4edaed68-400e-5e55-8e70-6efaa34bc9db' => [
+        'If you want to be thought a liar, always tell the truth.',
+        'Logan Pearsall Smith',
     ],
-    [
-        'When Bangladesh refused to renew my passport, I used U.N. travel documents. You can\'t disown your country.',
-        'Taslima Nasrin',
+    '88dcb69d-9e9c-526e-8272-6a525c5f26a7' => [
+        'This life is worth living, we can say, since it is what we make it.',
+        'Kurt Vonnegut',
     ],
-    [
-        'I am a marathon worker and marathon mother. I\'ll spend three or four days completely swallowed up by work. And if I make it home in time to say good night, I may have one good hour with the girls, maybe a brief family dinner or a family walk with the dog, and then it is back on the computer to prepare for tomorrow\'s shows.',
-        'Mika Brzezinski',
+    'bcba37f7-dcf5-55d7-8a23-67c25e584719' => [
+        'If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.',
+        'Anne Bradstreet',
     ],
-    [
-        'Sexy is attitude, but fitness for me is my dance. I dance two hours nearly every day. You break into good sweat, and it doesn\'t even feel like exercise. Apart from that, I enjoy Pilates.',
-        'Jiah Khan',
+    'f0ab1a7c-51cc-5ec2-bae4-daa5419f0eac' => [
+        'Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.',
+        'Carl Sandburg',
     ],
-    [
-        'The successful man will profit from his mistakes and try again in a different way.',
-        'Dale Carnegie',
+    'f82a710d-f051-536c-8d75-c2e852b0b18a' => [
+        'I have just returned from Boston. It is the only thing to do if you find yourself up there.',
+        'Fred Allen',
     ],
-    [
-        'There\'s a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family.',
-        'Gordon Ramsay',
+    'a20524e7-d40e-5884-bb35-90155dab76dc' => [
+        'Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.',
+        'Plato',
     ],
-    [
-        'With the coming of spring, I am calm again.',
-        'Gustav Mahler',
+    '0dab5981-b6eb-5791-9bbb-56188d1785a3' => [
+        'It takes a long time to become young.',
+        'Pablo Picasso',
     ],
-    [
-        'I don\'t want to get myself in trouble - and I don\'t think I\'m super important or anything - but I think it\'s so funny that when you look at the business and the way that people make decisions in their lives, whether they\'re in art or music or they\'re in industry, they forget that being unique is the answer.',
-        'Justin Vernon',
+    'f36920d2-31cb-5469-b73b-4d90f69c6901' => [
+        'It was a secular cathedral, dedicated to the rites of travel.',
+        'Robert Hughes',
     ],
-    [
-        'I think we all suffer from guilt at some point in our lives, but for the most part, I never really regret, and I try to always remain positive.',
-        'Channing Tatum',
+    'e5acbe07-d555-55c6-b906-337cbb12c61b' => [
+        'Beauty is truth\'s smile when she beholds her own face in a perfect mirror.',
+        'Rabindranath Tagore',
     ],
-    [
-        'In the West, you have always associated the Islamic faith 100 percent with Arab culture. This in itself is a fundamentalist attitude and it is mistaken.',
-        'Youssou N\'Dour',
+    '8dcae61a-69cf-5bee-869b-0abe086b5c5b' => [
+        'Travelling expands the mind rarely.',
+        'Hans Christian Andersen',
     ],
-    [
-        'Kindness, I\'ve discovered, is everything in life.',
-        'Charlie Chaplin',
+    'ef97246a-82d3-5a09-a49a-372d4f72b4ec' => [
+        'I can barely conceive of a type of beauty in which there is no Melancholy.',
+        'Charles Baudelaire',
     ],
-    [
-        'New York is the great stone desert.',
-        'Israel Zangwill',
+    'a8b6fbcd-c66d-57ba-9bf8-8889e6287d18' => [
+        'I like to travel by myself.',
+        'Carly Rae Jepsen',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Expecting to be able to get rid of the competitive drive, first of all, flies in the face of human nature - and little girls certainly have this drive, as much as little boys do, or at least the little girls I have observed in my immediate family have it.',
-        'Lynne Cheney',
+    'af76124e-13df-5dba-99bb-f146c16ee96b' => [
+        'The elusive nature of love... it can be such a fleeting thing. You see it there and it\'s just fluttering and it\'s gone.',
+        'Mick Jagger',
     ],
-    [
-        'Success on any major scale requires you to accept responsibility... in the final analysis, the one quality that all successful people have... is the ability to take on responsibility.',
-        'Michael Korda',
+    '0fcfe35a-5477-584a-90e8-167c14f9eb05' => [
+        'You only do good work when you\'re taking risks and pushing yourself.',
+        'Sally Hawkins',
     ],
-    [
-        'An unexamined life is not worth living.',
-        'Socrates',
+    'f6088943-6d40-5abe-9184-9d0e312c2775' => [
+        'We must not say every mistake is a foolish one.',
+        'Cicero',
     ],
-    [
-        'What really went wrong is that General Motors has had this philosophy from the beginning that what\'s good for General Motors is good for the country. So, their attitude was, \'We\'ll build it and you buy it. We\'ll tell you what to buy. You just buy it.\'',
-        'Michael Moore',
+    '4cc79693-b20d-5947-9789-d14576d07c1e' => [
+        'Every particular in nature, a leaf, a drop, a crystal, a moment of time is related to the whole, and partakes of the perfection of the whole.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'Perfection is the child of time.',
-        'Joseph Hall',
+    'd25bd95b-cb69-5170-8937-12a598a98e5b' => [
+        'I\'m still craving approval from my parents. It took a lot of success for me to realize it was never coming. It\'s just not in their nature.',
+        'Andrew Stanton',
     ],
-    [
-        'It\'s all about quality of life and finding a happy balance between work and friends and family.',
-        'Tony Robbins',
+    '0bb236cb-767c-501a-ba29-cead04527428' => [
+        'Failure will never overtake me if my determination to succeed is strong enough.',
+        'Og Mandino',
     ],
-    [
-        'It is impossible to work in information technology without also engaging in social engineering.',
-        'Jaron Lanier',
+    'cbd111d3-8318-5ea0-a03f-3af70068c226' => [
+        'Start where you are. Use what you have. Do what you can.',
+        'Arthur Ashe',
     ],
-    [
-        'The greatest barrier to success is the fear of failure.',
-        'Eriksson',
+    'cd6e263a-af90-528d-bb38-068bdfa45a40' => [
+        'Only by acknowledging the success and sacrifice made by those who came before us can we fully understand what we must do to ensure the liberty of those who will succeed us.',
+        'Yvette Clarke',
     ],
-    [
-        'Life is a series of steps. Things are done gradually. Once in a while there is a giant step, but most of the time we are taking small, seemingly insignificant steps on the stairway of life.',
-        'Ralph Ransom',
+    'd7593c57-e994-57dd-a8f0-a36feb8a2cad' => [
+        'One of the funny things of being a producer, you have these fleeting, intense relationships with people, and they go off to global megastardom, and you don\'t see them.',
+        'Paul Epworth',
     ],
-    [
-        'The artist is the confidant of nature, flowers carry on dialogues with him through the graceful bending of their stems and the harmoniously tinted nuances of their blossoms. Every flower has a cordial word which nature directs towards him.',
-        'Auguste Rodin',
+    'ff3f6ba9-991b-58d9-a654-1c553b1ad152' => [
+        'The harder the conflict, the more glorious the triumph.',
+        'Thomas Paine',
     ],
-    [
-        'In order to attain the impossible, one must attempt the absurd.',
-        'Miguel de Cervantes',
+    '4c241379-07ac-5e58-9177-87315687c452' => [
+        'People change with time. There are things that happened to a person in his childhood and years later they seem to him alien and strange. I am trying to decipher that child. Sometimes he is a stranger to me. When you think about when you were 14, don\'t you feel a certain alienation?',
+        'Gunter Grass',
     ],
-    [
-        'Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.',
-        'A. P. J. Abdul Kalam',
+    '662b5391-a750-5ef6-a6a3-a10dfca2af5d' => [
+        'I think the philosophy that you have to have if you travel frequently is, stuff is just stuff. Even if it has some sentimental or family connection, if you lose it in the world, it\'s still just a thing, and I think if you don\'t have that attitude, you will get incredibly stressed out and not enjoy your travels.',
+        'Leila Janah',
     ],
-    [
-        'Nature uses as little as possible of anything.',
-        'Johannes Kepler',
+    'cbe698c7-058d-5db9-bcff-9587c60a1c64' => [
+        'Either I will find a way, or I will make one.',
+        'Philip Sidney',
     ],
-    [
-        'A person will sometimes devote all his life to the development of one part of his body - the wishbone.',
-        'Josephine de La Baume',
+    '33446ab5-fb69-56b9-8ab1-688f91eb3ab1' => [
+        'I grew up in a working class family. People thought I might go work at a mill. My mom wanted me to learn how to lay carpet because she was concerned about my future. Nobody had high hopes for me. But I was a hustler.',
+        'Mark Cuban',
     ],
-    [
-        'As a child, I was aware of the widely-held attitude that the ocean is so big, so resilient that we could use the sea as the ultimate place to dispose of anything we did not want, from garbage and nuclear wastes to sludge from sewage to entire ships that had reached the end of their useful life.',
-        'Sylvia Earle',
+    'f6904854-e391-5c40-abab-11ddbb83a171' => [
+        'One of the most obvious parts of my character is the smile, and if I wasn\'t comfortable in myself then I wouldn\'t be able to smile so much.',
+        'Max Walker',
     ],
-    [
-        'When virtue and modesty enlighten her charms, the lustre of a beautiful woman is brighter than the stars of heaven, and the influence of her power it is in vain to resist.',
-        'Akhenaton',
+    'c5c44f70-4c13-5ea3-b0f9-d2e3578bc157' => [
+        'I like to play a strong woman, but a strong woman can also be very fragile and vulnerable at the same time.',
+        'Carice van Houten',
     ],
-    [
-        'My theory is that all of Scottish cuisine is based on a dare.',
-        'Mike Myers',
+    'd258bcc1-e0fa-50c5-a68b-80a2d9e46ac0' => [
+        'I think every girl needs to love herself, regardless of anything. Like if you\'re having a bad day, if you don\'t like your hair, if you don\'t have the best family situation, whatever, you have to love yourself and you can\'t do anything until you love yourself first.',
+        'Julianne Hough',
     ],
-    [
-        'If you tell your own story to your children - that includes your positive moments and your negative moments, and how you overcame them - you give your children the skills and the confidence they need to feel like they can overcome some hardship that they\'ve felt.',
-        'Bruce Feiler',
+    'ac04d439-a30b-5709-890c-412f059cf6f5' => [
+        'Japan is the most intoxicating place for me. In Kyoto, there\'s an inn called the Tawaraya which is quite extraordinary. The Japanese culture fascinates me: the food, the dress, the manners and the traditions. It\'s the travel experience that has moved me the most.',
+        'Roman Coppola',
     ],
-    [
-        '... because all things have contributed to your advancement, you should include all things in your gratitude.',
-        'Wallace D. Wattles',
+    '04301451-fda7-508a-915f-8e56be33537d' => [
+        'Truth is by nature self-evident. As soon as you remove the cobwebs of ignorance that surround it, it shines clear.',
+        'Mahatma Gandhi',
     ],
-    [
-        'It\'s fun to have a partner who understands your life and lets you be you.',
-        'Ann Landers',
+    '58898ac2-2dbf-51be-801b-057b19c027bc' => [
+        'Loving oneself isn\'t hard, when you understand who and what \'yourself\' is. It has nothing to do with the shape of your face, the size of your eyes, the length of your hair or the quality of your clothes. It\'s so beyond all of those things and it\'s what gives life to everything about you. Your own self is such a treasure.',
+        'Pope Paul VI',
     ],
-    [
-        'There are movies that I love tonally, that I would love to emulate. Anything from Wes Anderson or the Coen brothers is right in my wheelhouse, as something that I would aspire to. I love that kind of indie, fun, colorful, funny, sweet, heartfelt but dark film.',
-        'Sam Huntington',
+    '55f9fdc2-07d4-53f2-88dd-94e4dd4cb9e1' => [
+        'Dealing with global warming doesn\'t mean we have all got to suddenly stop breathing. Dealing with global warming means that we have to stop waste, and if you travel for no reason whatsoever, that is a waste.',
+        'David Attenborough',
     ],
-    [
-        'My life is full of drama, and I don\'t have time to worry about something as petty as what I look like.',
-        'Adele',
+    'dae67904-8694-5ee3-bf4c-b59787bbfa15' => [
+        'I\'ve been known to write 10 pages a day for 10 days running before I take a breath. I am not a disciplined writer. I\'m one of those people who laughingly call themselves inspirational writers, which basically means someone who has no control over their own creative process.',
+        'Catherine Ryan Hyde',
     ],
-    [
-        'Success is that old ABC - ability, breaks, and courage.',
-        'Charles Luckman',
+    'bd13bd8e-d9bc-5ec4-bd64-3a094052da3a' => [
+        'Those who look for the laws of Nature as a support for their new works collaborate with the creator.',
+        'Antoni Gaudi',
     ],
-    [
-        'Suffering by nature or chance never seems so painful as suffering inflicted on us by the arbitrary will of another.',
-        'Arthur Schopenhauer',
+    'e525af1b-978c-5f70-b053-6fcf91414463' => [
+        'I know I\'m really lucky to do what I do, but sometimes with the hours and the travelling, I don\'t get to see my family and friends as much as I\'d like. It can be lonely on the road. Sometimes I come offstage after a massive adrenaline rush, and then when I go to an empty hotel room on my own, it can be an anti-climax.',
+        'Olly Murs',
     ],
-    [
-        'If you are patient in one moment of anger, you will escape one hundred days of sorrow.',
-        'Chinese proverb',
+    '129819e3-7280-535e-831f-f3f18264b132' => [
+        'You don\'t have to give birth to someone to have a family.',
+        'Sandra Bullock',
     ],
 ];

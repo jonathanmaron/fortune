@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'All life is an experiment. The more experiments you make the better.',
-        'Eleanor Roosevelt',
+    'c215bd9d-32af-50ff-9250-b09846faeafd' => [
+        'Sweeter than the perfume of roses is a reputation for a kind, charitable, unselfish nature; a ready disposition to do to others any good turn in your power.',
+        'Orison Swett Marden',
     ],
-    [
-        'As a New Yorker, this is what you do: you confront, jab, and slap, sometimes wrongly, then smile and forget about it.',
-        'Greg Gutfeld',
+    '2f00870a-3bd7-5717-b91d-c6a957e43bd0' => [
+        'In order to succeed, your desire for success should be greater than your fear of failure.',
+        'Bill Cosby',
     ],
-    [
-        'When you come up with a theory, you fall in love with the beauty the simplicity and elegance of it. But then you have to get a sheet of paper and pencil and crack out all the details. Hundreds and hundreds of pages. Because you have to prove it.',
-        'Michio Kaku',
+    'cd314a71-fe43-5894-8651-1c96b6493a74' => [
+        'Every artist was first an amateur.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'I think it\'s way harder when you have success, \'cause people tend to not treat you the same or look at you the same because they see the success or the money you make.',
-        'Meek Mill',
+    '0f2e9c67-a27d-5128-a622-09f7aad81280' => [
+        'The garden suggests there might be a place where we can meet nature halfway.',
+        'Michael Pollan',
     ],
-    [
-        'To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.',
-        'Byron Pulsifer',
+    '1d59b0b2-d37a-5c92-83df-5e63cd24bf7b' => [
+        'An oversupply of national sentiment is not the problem in Somalia. The problem is a lack of it. The problem is an oversupply of sub-sub-clannish attitude.',
+        'Meles Zenawi',
     ],
-    [
-        'I like to wear dresses and skirts when I go onstage because the attitude that I have is, \'I\'m so excited to introduce myself to you.\' And I want to be wearing what I\'d be wearing to a date or a dinner party.',
-        'Jenny Slate',
+    '89df4e03-3684-56b6-9057-4f31425bca8c' => [
+        'When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.',
+        'Confucius',
     ],
-    [
-        'I go, and I do my work, and I try to do the best I can, and I collect my money, and I go home, and then I go on to the next thing. That\'s my attitude.',
-        'Billy Dee Williams',
+    '4886fe30-1954-5fbe-b022-71b0c12efb98' => [
+        'As a personality, I\'m fighter, you know. And I don\'t give up, and if I believe I\'m correct, I\'m right, then I work, and I fight. Okay, this could be over a chess board, this could be in life, and so I defend my principles.',
+        'Anatoly Karpov',
     ],
-    [
-        'Life is about having a good time, and it was a good time. We did some things well and some things poorly, but that was always the case.',
-        'Norman Lear',
+    'a87749d8-9d85-5f91-aaa7-5fc7ab2d350e' => [
+        'I can accept failure, everyone fails at something. But I can\'t accept not trying.',
+        'Michael Jordan',
     ],
-    [
-        'The attitude of insolent haughtiness is characteristic of the relationships Americans form with what is alien to them, with others.',
-        'Jose Saramago',
+    '04573b81-ea92-5ebf-8a2d-99a49f3a5fbc' => [
+        'Indeed, our particular concept of private property, which deters us from exhausting the positive resources of the earth, favors pollution.',
+        'Garrett Hardin',
     ],
-    [
-        'Surprise is the greatest gift which life can grant us.',
-        'Alana Stewart',
+    'ad82cee2-bb5d-540f-ba36-95bb978a947c' => [
+        'What is not started today is never finished tomorrow.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'Fighting for one\'s freedom, struggling towards being free, is like struggling to be a poet or a good Christian or a good Jew or a good Muslim or good Zen Buddhist. You work all day long and achieve some kind of level of success by nightfall, go to sleep and wake up the next morning with the job still to be done. So you start all over again.',
-        'Maya Angelou',
+    'b5be045e-22e2-5af5-8d4b-cdc6680cd419' => [
+        'My life comes down to three moments: the death of my father, meeting my husband, and the birth of my daughter. Everything I did previous to that just doesn\'t seem to add up to very much.',
+        'Gwyneth Paltrow',
     ],
-    [
-        'First, I was so dazzled and besotted by India. People said the poverty was biblical, and I\'m afraid that was my attitude, too. It\'s terribly easy to get used to someone else\'s poverty if you\'re living a middle-class life in it. But after a while, I saw it wasn\'t possible to accept it, and I also didn\'t want to.',
-        'Ruth Prawer Jhabvala',
+    '78a73722-5b2e-53d3-b763-85b6ead17da3' => [
+        'It is conventional to call \'monster\' any blending of dissonant elements. I call \'monster\' every original inexhaustible beauty.',
+        'Alfred Jarry',
     ],
-    [
-        'I tell everyone in the world that I have always been the best father I could be and that I was the worst husband. Wooo!',
-        'Ric Flair',
+    '7d791623-e8d0-5f5c-a25c-609080a7e54b' => [
+        'Unrest of spirit is a mark of life.',
+        'William Shakespeare',
     ],
-    [
-        'If you look at the history of technology over a couple hundred years, it\'s all about time compression and making the globe smaller. It\'s had positive effects, all the ones that we know. So we\'re much less likely to have the kind of terrible misunderstandings that led to World War I, for example.',
-        'Eric Schmidt',
+    '55706747-0d3d-5f7c-97c9-d3849bedcb59' => [
+        'A major league pitching coach is a really difficult job. It takes a big commitment in terms of time, travel and workload.',
+        'David Cone',
     ],
-    [
-        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased or obscured by mortal power.',
-        'Alexander Hamilton',
+    '1252d626-91d0-5d41-a01b-25fb7d3e87f2' => [
+        'Glory is attained from hard work, step by step.',
+        'Ma Long',
     ],
-    [
-        'I was born into the most remarkable and eccentric family I could possibly have hoped for.',
-        'Maureen O\'Hara',
+    '9303ffdd-c257-5e4c-94ab-ea9bd06b16a7' => [
+        'The one thing you\'ve gotta do is that you need to always do the best you can do, no matter what the given situation, no matter what comes up against you. You do the best you can do, and you never give up. Never quit.',
+        'James Corden',
     ],
-    [
-        'I am really, I think, truly an easygoing, positive, fun person.',
-        'Lisa Scottoline',
+    'adb80149-7eb2-5fba-aa62-78858ab3f76b' => [
+        'Among the natural rights of the colonists are these: First a right to life, secondly to liberty, and thirdly to property; together with the right to defend them in the best manner they can.',
+        'Vince Lombardi',
     ],
-    [
-        'We tend to block off many of our senses when we\'re staring at a screen. Nature time can literally bring us to our senses.',
-        'Richard Louv',
+    'd620e750-39b2-5b37-88bd-98a14bcd4922' => [
+        'Time is the least thing we have of.',
+        'Ernest Hemingway',
     ],
-    [
-        'Travel can also be the spirit of adventure somewhat tamed, for those who desire to do something they are a bit afraid of.',
-        'Ella Maillart',
+    'a2b167dd-0c5e-570e-8ec4-842868607f4b' => [
+        'I\'m used to adversity and working really well in difficult situations. It was hard for me to accept the success.',
+        'Paula Cole',
     ],
-    [
-        'The ocean is a mighty harmonist.',
-        'William Wordsworth',
+    'ae9ee5ea-aa4f-561d-aa56-a7b94ede3602' => [
+        'We cannot wait for governments to do it all. Globalization operates on Internet time. Governments tend to be slow moving by nature, because they have to build political support for every step.',
+        'Kofi Annan',
     ],
-    [
-        'You can measure a programmer\'s perspective by noting his attitude on the continuing vitality of FORTRAN.',
-        'Alan Perlis',
+    'dc2589c2-26a9-5a55-8fb4-11f27a389c82' => [
+        'I can resist everything except temptation.',
+        'Oscar Wilde',
     ],
-    [
-        'Who looks outside, dreams; who looks inside, awakes.',
-        'Carl Jung',
+    '7e283eb9-9df3-51d1-972a-856b19797bc8' => [
+        'Always desire to learn something useful.',
+        'Sophocles',
     ],
-    [
-        'Religious speech is extreme, emotional, and motivational. It is anti-literal, relying on metaphor, allusion, and other rhetorical devices, and it assumes knowledge within a community of believers.',
-        'Amy Waldman',
+    '28bed132-71cd-5e70-8c7f-be3223f70b05' => [
+        'Success or failure in business is caused more by the mental attitude even than by mental capacities.',
+        'Walter Scott',
     ],
-    [
-        'The battle over genetically modified crops is rife with business interests and political opportunism. When GMOs were first produced in laboratories around the world, they were rightly heralded as a tremendous leap forward in our ability to supplement nature by providing high-nutrient foods.',
-        'Richard J. Roberts',
+    '6fdfcb90-6ce6-588f-a462-3c7f261e94a4' => [
+        'As long as you smile, have sparkly eyes and stick your shoulders back, nobody\'s going to notice your bum or your waist or your feet, for that matter.',
+        'Cat Deeley',
     ],
-    [
-        'Each misfortune you encounter will carry in it the seed of tomorrows good luck.',
-        'Og Mandino',
+    'fac9b601-5aa5-598f-8d21-22efd3cd0b61' => [
+        'I was taking myself very seriously when I was going through life changes. And I realized that I needed to laugh at myself, particularly at my mistakes.',
+        'Kevin Bacon',
     ],
 ];

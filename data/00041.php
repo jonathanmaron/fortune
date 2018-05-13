@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I want to challenge myself to see where my limit is and experiment with a lot of different films. A lot of artists from Asia focus too much on their Asian background. I don\'t want to let go of my background, but to be a success in the U.S., which is my goal, I realize I need to surround myself with American filmmakers and producers.',
-        'Rain',
+    '3dadc116-f8e9-5232-9e9e-2c3dca1b8932' => [
+        'It\'s not that diamonds are a girl\'s best friend, but it\'s your best friends who are your diamonds. It\'s your best friends who are supremely resilient, made under pressure and of astonishing value. They\'re everlasting; they can cut glass if they need to.',
+        'Gina Barreca',
     ],
-    [
-        'Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.',
-        'Theodore Isaac Rubin',
+    '8134ded1-6332-5a6c-be9b-c67ac59dbe01' => [
+        'Were I called on to define, very briefly, the term Art, I should call it \'the reproduction of what the Senses perceive in Nature through the veil of the soul.\' The mere imitation, however accurate, of what is in Nature, entitles no man to the sacred name of \'Artist.\'',
+        'Edgar Allan Poe',
     ],
-    [
-        'I lead a simple life. I get residuals. I have a family; we\'re doing alright.',
-        'Robert Morse',
+    'f19bbc4a-8b8e-528a-b74e-7878369de979' => [
+        'Maybe that\'s what life is... a wink of the eye and winking stars.',
+        'Gary Allan',
     ],
-    [
-        'If you spend too much time thinking about a thing, you\'ll never get it done.',
-        'Bruce Lee',
+    '4609b690-148a-5bd7-91b5-b864dcfc5d9d' => [
+        'The way it works in our family is, it\'s the family business. Much like in the Mafia. Every child is given the opportunity to act at a young age and to learn what it\'s like to be in the business.',
+        'Jordan Bridges',
     ],
-    [
-        'All the trouble you will cause by not leaving a will. All the heartache! Family feuds are going to happen anyway, so be as clear as you can. And even if it\'s only to leave it to the cat\'s home, make a will.',
-        'Joanna Lumley',
+    '784cd4da-247e-5829-887e-c863aa382755' => [
+        'If you have an ongoing relationship with a person, think of everything positive about that person that you possibly can and enter your interaction from that space. Ignore all the crap that used to drive you up the wall before. You will be amazed at what a change this attitude shift brings about.',
+        'Srikumar Rao',
     ],
-    [
-        'It was a secular cathedral, dedicated to the rites of travel.',
-        'Robert Hughes',
+    'ce7c2c16-3503-5f8b-b67b-599a148f2fbf' => [
+        'Schubert had arguably the same melodic gift as Mozart, but even less support. He didn\'t have the early exposure, never got to travel anywhere, and yet generated and amassed a body of work that grew and developed and is very profound.',
+        'Twyla Tharp',
     ],
-    [
-        'It\'s how you look at beauty. Is it only an outward appearance with hair and makeup and a hot body, or is it something deeper than that?',
-        'Hilary Swank',
+    'f5c8e0d4-8440-5a6d-9722-5ae779d21a4a' => [
+        'If we could get your subconscious mind to agree with your conscious mind about being happy, that\'s when your positive thoughts work.',
+        'Bruce Lipton',
     ],
-    [
-        'We live in a fantasy world, a world of illusion. The great task in life is to find reality.',
-        'Aphra Behn',
+    '8b14a066-bff3-587b-add9-da8d785a8212' => [
+        'I think every single imperfection adds to your beauty. I\'d rather be imperfect than perfect.',
+        'Sonam Kapoor',
     ],
-    [
-        'We know from science that nothing in the universe exists as an isolated or independent entity.',
-        'Margaret Wheatley',
+    'ab06d99b-c63e-5803-bec8-4d0f7c532de7' => [
+        'At the end of the day, my goal was to be the best hacker.',
+        'Kevin Mitnick',
     ],
-    [
-        'Success is a great deodorant.',
-        'Elizabeth Taylor',
+    '787088be-de45-58df-8be4-19f2b09b5616' => [
+        'But quality of work can be expected only through personal satisfaction, dedication and enjoyment. In our profession, precision and perfection are not a dispensible luxury, but a simple necessity.',
+        'Niklaus Wirth',
     ],
-    [
-        'We Orientals find beauty not only in the thing itself but in the pattern of the shadows, the light and darkness which that thing provides.',
-        'Junichiro Tanizaki',
+    'cc3ed0fd-60e7-54ed-9870-8cbaef7058ab' => [
+        'My favourite animal is the koala, but his life would be boring. I would rather be a giraffe so that I could contemplate the beauty of Africa.',
+        'Caterina Murino',
     ],
-    [
-        'There are moments of life that we never forget, which brighten and brighten as time steals away.',
-        'James Gates Percival',
+    'ce69543b-173d-5e22-a8db-c9c667ecca56' => [
+        'When I am putting looks together, I dare myself to make something work. I always look for the most interesting silhouette or something that\'s a little off, but I have to figure it out. I have to make it me. I think that\'s the thrill in fashion.',
+        'Rihanna',
     ],
-    [
-        'I just want to put some positive stuff out there. If it works, great. If it doesn\'t, no problem.',
-        'Kevin James',
+    'e641bb47-eff3-5972-8795-f372ae2d2a6e' => [
+        'I feel lucky because I was a nerd, which I talk about in the book, but I had academic success, so through that, because that\'s what my parents put a great deal of value on, I had a great childhood because I sort of fulfilled the expectations of being good at school.',
+        'Mindy Kaling',
     ],
-    [
-        'The greatest antidote to insecurity and the sense of fear is compassion, it brings one back to the basis of one\'s inner strength',
-        'Dalai Lama',
+    'b215158c-006c-51f4-8f2c-bde35e792ce9' => [
+        'Success is not final, failure is not fatal: it is the courage to continue that counts.',
+        'Winston Churchill',
     ],
-    [
-        'My mother and my father have been married 50 years, and he\'s just started to understand that something\'s wrong with the system. He accepted the whole thing, you see. Yet this industrious kind of engagement didn\'t bring him the success, according to American terms, that he wanted. I was probably affected by this very much. In fact, I know I was.',
-        'Huey Newton',
+    '78aa24b2-0189-5346-b95b-eaa8684a0c91' => [
+        'People do not seem to realise that their opinion of the world is also a confession of their character.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'Truth is, I cut my hair for freedom, not for beauty.',
-        'Chrisette Michele',
+    '5328540d-14d4-55c9-8e7f-ba7587ad69c1' => [
+        'You are beautiful because you let yourself feel, and that is a brave thing indeed.',
+        'Shinji Moon',
     ],
-    [
-        'I wanted to travel the world - I don\'t how that idea got in my head, but I really wanted to see the world... towns, cities, countries, I wanted to see them all.',
-        'Jimmy Cliff',
+    '6eb296bb-ee90-5707-9bef-4b2ae9441aa5' => [
+        'Actors are supposed to be these runaways that get in a covered wagon filled with hats and tambourines and go from town to town making people smile.',
+        'John Cho',
     ],
-    [
-        'When I was younger, my father was in the Foreign Service and we lived in Nigeria, Panama, and London, but for the most part I grew up in the South and D.C. I got the travel bug as a little person and I\'ve bounced around a lot.',
-        'Nicole Beharie',
+    'c5401a6a-db97-5991-96e8-2e882b739860' => [
+        'I know it sounds a bit corny, but I do think that beauty and sexiness come from within.',
+        'Rachel Stevens',
     ],
-    [
-        'I intend to travel to Okinawa and to visit with Okinawa officials and the citizens of Okinawa at an early date. I will send my best analysis of that situation, including the local attitudes, back to Washington, to the government there.',
-        'Howard Baker',
+    '502e35c5-1648-58e5-9f46-4974e3f89fef' => [
+        'Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.',
+        'Margaret Mead',
     ],
-    [
-        'Divide each difficulty into as many parts as is feasible and necessary to resolve it.',
-        'Rene Descartes',
+    '370a5bac-4846-597f-811e-7b0e3fec91da' => [
+        'Eating well was something I learned as I started to be successful and had to travel and perform concerts, which are an intense cardio workout.',
+        'Curtis Jackson',
     ],
-    [
-        'Listening is a positive act: you have to put yourself out to do it.',
-        'David Hockney',
+    '9626edfe-fa25-5b59-80bb-c770788a63b0' => [
+        'Your attitude will go a long way in determining your success, your recognition, your reputation and your enjoyment in being a lawyer.',
+        'Joe Jamail',
     ],
-    [
-        'Ethical decisions ensure that everyone\'s best interests are protected. When in doubt, don\'t.',
-        'Harvey Mackay',
+    'ccf589dd-3825-5131-8b3f-750bf5fad2dc' => [
+        'With every experience, you alone are painting your own canvas, thought by thought, choice by choice.',
+        'Oprah Winfrey',
     ],
-    [
-        'A birthday is just another day where you go to work and people give you love. Age is just a state of mind, and you are as old as you think you are. You have to count your blessings and be happy.',
-        'Abhishek Bachchan',
+    '22a18200-294e-51d5-8cfe-4bc2f9536e5b' => [
+        'Of all human activities, man\'s listening to God is the supreme act of his reasoning and will.',
+        'Pope Paul VI',
     ],
-    [
-        'I think acting is about forgetting yourself in order to give the best of yourself. It\'s passing through you more than you\'re creating it. You\'re not the flower, but the vase which holds the flower.',
-        'Juliette Binoche',
+    'e361f2b8-ff3d-52f0-b720-da5968d9501c' => [
+        'Live your days on the positive side of life, in tune with your most treasured values. And in each moment you\'ll have much to live for.',
+        'Ralph Marston',
     ],
-    [
-        'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
-        'William Channing',
+    '7fb037af-2e70-594a-9f8f-0c7be52d3991' => [
+        'If you really want to be world class - to be the best you can be - it comes down to preparation and practice.',
+        'Robin S. Sharma',
     ],
 ];

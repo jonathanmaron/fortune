@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The more people explore the world, the more they realize in every country there\'s a different aesthetic. Beauty really is in the eye of the beholder.',
-        'Helena Christensen',
+    'f7c22d2e-5d08-5688-acbc-3827849c7a6e' => [
+        'The world of reality has its limits; the world of imagination is boundless.',
+        'Jean-Jacques Rousseau',
     ],
-    [
-        'My life is devoted to business and supporting my family.',
-        'Colonel Sanders',
+    'ed149a64-e3d0-5ef2-b7a6-a23b99004c98' => [
+        'It gets kinda monotonous, but that\'s television. There are plus sides and down sides. The positive side is that you have steady work for nine months of the year for however many years your show is on TV,.',
+        'Alexis Bledel',
     ],
-    [
-        'The best way to guarantee a loss is to quit.',
-        'Morgan Freeman',
+    '2400ed6e-3a37-5d07-af35-b3017d17f20f' => [
+        'I\'ve had to learn to fight all my life - got to learn to keep smiling. If you smile things will work out.',
+        'Serena Williams',
     ],
-    [
-        'The best way to solve problems and to fight against war is through dialogue.',
-        'Malala Yousafzai',
+    '3e11c63b-90df-5fcd-845c-906fd543e98f' => [
+        'Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.',
+        'Napoleon Hill',
     ],
-    [
-        'I\'ve always tried to go a step past wherever people expected me to end up.',
-        'Beverly Sills',
+    'a9550f3a-ae70-572d-842a-478f008a9bd2' => [
+        'When we meet real tragedy in life, we can react in two ways - either by losing hope and falling into self-destructive habits, or by using the challenge to find our inner strength. Thanks to the teachings of Buddha, I have been able to take this second way.',
+        'Miley Cyrus',
     ],
-    [
-        'You just can\'t beat the person who never gives up.',
-        'Babe Ruth',
+    '55bc0e32-1278-5864-b3a0-884aaaacb935' => [
+        'A friend is what the heart needs all the time.',
+        'Henry Van Dyke',
     ],
-    [
-        'Such a faith would be fatal to my reason, to my liberty, and even to the success of my undertakings; it would immediately transform me into a stupid slave, an instrument of the will and interests of others.',
-        'Mikhail Bakunin',
+    'f9789810-0a58-5b0c-8000-4102cc1fbd89' => [
+        'I would warn you that I do not attribute to nature either beauty or deformity, order or confusion. Only in relation to our imagination can things be called beautiful or ugly, well-ordered or confused.',
+        'Baruch Spinoza',
     ],
-    [
-        'You are the bows from which your children as living arrows are sent forth.',
-        'Khalil Gibran',
+    '7d6be134-08d2-538c-b4a2-5b792f506cc2' => [
+        'Well, sometimes if I go out to dinner with my family, people will come up to me and put their hand across my plate for me to shake, sometimes when I have a bite of food in my mouth. I find this a bit disturbing.',
+        'Abdul Qadeer Khan',
     ],
-    [
-        'You cannot allow your desire to be a winner to be diminished by achieving success before and I believe there is room for improvement in every sportsman.',
-        'Lionel Messi',
+    '455db41b-23e2-55a5-9482-0b064dd1fc29' => [
+        'There\'s enormous progressive activism and, more often than not, success at the grassroots level - everything from living wage campaigns to efforts to finance our elections are having terrific success.',
+        'Jim Hightower',
     ],
-    [
-        'Make space in your life for the things that matter, for family and friends, love and generosity, fun and joy. Without this, you will burn out in mid-career and wonder where your life went.',
-        'Arthur Keith',
+    'ef8430da-a065-54d3-9e62-5023849605bf' => [
+        'In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.',
+        'Buddha',
     ],
-    [
-        'The first step to getting the things you want out of life is this: decide what you want.',
-        'Ben Stein',
+    '0bca3702-ad06-5027-b781-73279288e30f' => [
+        'Anyone who\'s ever driven to Atlantic City knows that Trump\'s got a big billboard. For years, you used to see his angry face on it. I said, \'Trump, that expression is making people afraid to go to the Taj Mahal. Why don\'t you give them a big smile.? \'C\'mon in, folks! Spend your money here!\' I think we got that corrected.',
+        'Regis Philbin',
     ],
-    [
-        'Quality is never an accident; it is always the result of intelligent effort.',
-        'John Ruskin',
+    '6bf51063-36ae-5f6c-a771-3b35afc95627' => [
+        'In the restaurant business, you never want to have enemies, whereas it seems that many politicians judge their success by how high their enemies are and whether they can show that they can hold their ground and give a punch for every punch they take.',
+        'John Hickenlooper',
     ],
-    [
-        'Respect should be earned by actions, and not acquired by years.',
-        'Frank Wright',
+    '87cf0495-ded6-5054-93ac-d46951a3e0fe' => [
+        'At the end of the day, life is about being happy being who you are, and I feel like we are so blessed to have the support system and the best family to really just support each other no matter what we\'re going through.',
+        'Benjamin Franklin',
     ],
-    [
-        'What I am looking for is a blessing not in disguise.',
-        'Jerome K. Jerome',
+    '09bc9f6a-4fcf-5e81-9c7e-8ecbfefd988d' => [
+        'My success is not due to any personal superiority over other people.',
+        'John Philip Sousa',
     ],
-    [
-        'The two most important days in your life are the day you are born and the day you find out why.',
-        'Mark Twain',
+    '75519cde-d7b6-515a-98a5-4c253834fe42' => [
+        'The best customer service is if the customer doesn\'t need to call you, doesn\'t need to talk to you. It just works.',
+        'Jeff Bezos',
     ],
-    [
-        'Wrinkles will only go where the smiles have been.',
-        'Jimmy Buffett',
+    '25ceabdb-26a5-5300-a206-052e8002f9c6' => [
+        'I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near.',
+        'Margaret Thatcher',
     ],
-    [
-        'No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.',
-        'Godfrey Winn',
+    '59c1f5bc-e55c-5d33-b621-3a788be85e50' => [
+        'Photography is a small voice, at best, but sometimes one photograph, or a group of them, can lure our sense of awareness.',
+        'W. Eugene Smith',
     ],
-    [
-        'You know, you can touch a stick of dynamite, but if you touch a venomous snake it\'ll turn around and bite you and kill you so fast it\'s not even funny.',
-        'Steve Irwin',
+    'f683d247-bdda-576c-87bf-ec10f2013e0b' => [
+        'Like beautiful homes, cute babies, or noble careers helping others, books can make us feel like we mean something positive, and in gratitude, we truly love them.',
+        'Nell Zink',
     ],
-    [
-        'Choose a job you love, and you will never have to work a day in your life.',
-        'Confucius',
+    '608f6e96-0018-560c-82db-91b21a606121' => [
+        'Of all possible subjects, travel is the most difficult for an artist, as it is the easiest for a journalist.',
+        'W. H. Auden',
     ],
-    [
-        'Give me the luxuries of life and I will willingly do without the necessities.',
-        'Adam Braun',
+    '9a522261-b576-52f2-b32f-c7d63ecbfcce' => [
+        'We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.',
+        'Ralph Emerson',
     ],
-    [
-        'I\'ve had a lot of very positive feedback about those stories, and seem to have struck upon something that most people feel. I can also tap dance, and don\'t know many other authors who can.',
-        'Paul Kane',
+    'ae9b182d-9a25-51a8-babe-ea946fdf6fa9' => [
+        'When a moment in front of me appears to be particularly special, whether it be by beauty or experience, I capture it. I usually find a reason to justify taking that photo - symmetry, or color, or contrast - and it\'s my hope that my photography sheds light onto what I see and do on a daily basis.',
+        'Connor Franta',
     ],
-    [
-        'You can\'t run a government from one single person. What instead matters is that leadership be about gathering around extraordinary individuals and getting the best out of them.',
-        'Justin Trudeau',
+    '46a824ad-a3ea-5002-82b7-af41f1019d23' => [
+        'There\'s always something funny about men chasing women.',
+        'David Spade',
     ],
-    [
-        'Do you know, it\'s funny, but I never thought of being blind as a disadvantage, and I never thought of being black as a disadvantage.',
-        'Stevie Wonder',
+    'd244e9a3-afd2-5e5b-a9b8-914642b9ad7c' => [
+        'I consider myself to have been the bridge between the shotgun and the binoculars in bird watching. Before I came along, the primary way to observe birds was to shoot them and stuff them.',
+        'Roger Tory Peterson',
     ],
-    [
-        'The attempt to redefine the family as a purely voluntary arrangement grows out of the modern delusion that people can keep all their options open all the time.',
-        'Christopher Lasch',
+    '4a241c08-86fc-5081-9b99-9302814aaf18' => [
+        'The ocean is a mighty harmonist.',
+        'William Wordsworth',
     ],
-    [
-        'Do not go where the path may lead, go instead where there is no path and leave a trail.',
-        'Ralph Waldo Emerson',
+    'ef2f9981-3352-59ea-ae5f-ddec90e4cdfc' => [
+        'I have rituals for cleaning out resentments, disappointments, heartbreak, depression and for work. One of the things I do is go over old stuff if I have been unable to write for a while.',
+        'Hubert Selby, Jr.',
     ],
 ];

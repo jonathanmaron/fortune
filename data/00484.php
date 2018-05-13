@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I\'ve got a real sense of three-dimensional geometry. I can look at a flat piece of fabric and know that if I put a slit in it and make some fabric travel around a square, then when you lift it up it will drape in a certain way, and I can feel how that will happen.',
-        'Vivienne Westwood',
+    '59d2d38c-d9e3-59d1-826f-79ed36ec4279' => [
+        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.',
+        'Helen Keller',
     ],
-    [
-        'Art requires philosophy, just as philosophy requires art. Otherwise, what would become of beauty?',
-        'Paul Gauguin',
+    'fd10b92f-a20d-522a-9ade-18502be3af22' => [
+        'Life will always be to a large extent what we ourselves make it.',
+        'Katherine Jenkins',
     ],
-    [
-        'A wise man can learn more from a foolish question than a fool can learn from a wise answer.',
-        'Bruce Lee',
+    'df36b333-329c-59a9-8136-dd2ec0b65684' => [
+        'As you walk in God\'s divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.',
+        'Joseph Prince',
     ],
-    [
-        'Eyebrows are really important because they structure the face. In school it was funny because I was always the one walking around with tweezers plucking my girlfriends\' eyebrows. I was really good; eyebrow tweezing runs in my family - my mother used to do mine, and I picked it up.',
-        'Rita Ora',
+    'e5b48126-763b-5f55-99d2-1ed425b948bd' => [
+        'I have flown with British Airways since I was a very little child, so it feels quite special to have gone from family holidays flying around Europe to become a gold card holder and be spoiled enough to travel more than not in first class.',
+        'Orlando Bloom',
     ],
-    [
-        'If you have a success you have it for the wrong reasons. If you become popular it is always because of the worst aspects of your work.',
-        'Ernest Hemingway',
+    'bf9debdb-72fa-5525-8e5a-acb006a3b879' => [
+        'When we run out of them upstairs, I\'ve been known to appropriate some from our greenroom, pocketing a few with one hand as I smile and greet our guests with the other. One time, Dave Zinczenko of \'Eat this, Not That!\' fame, busted me in the act. The cookies apparently fall in the \'not that\' category. I made a note of it.',
+        'Lester Holt',
     ],
-    [
-        'Every man\'s dream is to be able to sink into the arms of a woman without also falling into her hands.',
-        'Jerry Lewis',
+    'fa4b73a2-74a7-5a68-bca5-5e44436eb15e' => [
+        'Do you know, it\'s funny, but I never thought of being blind as a disadvantage, and I never thought of being black as a disadvantage.',
+        'Stevie Wonder',
     ],
-    [
-        'Beauty in art is often nothing but ugliness subdued.',
-        'Jean Rostand',
+    '34d3702a-7dd3-5e0d-9109-369ed51e4d5a' => [
+        'Love is a canvas furnished by nature and embroidered by imagination.',
+        'Voltaire',
     ],
-    [
-        'One thing I didn\'t understand in life was that I had $100,000,000 in the bank and I couldn\'t buy happiness. I had everything: mansions, yachts, Ferraris, Lamborghinis, but I was depressed. I didn\'t know where I fitted in. But then I found family and friends and I learned the value of life.',
-        'Vanilla Ice',
+    'd49d9e5e-d1b2-59bb-9d49-d68863e7c076' => [
+        'In a great many stories that deal with time travel, there\'s usually somebody who knows how time travel works. They lay out the rules.',
+        'Diana Galbadon',
     ],
-    [
-        'Life is a lot like jazz... it\'s best when you improvise.',
-        'Greg Anderson',
+    '43b6989e-1f2c-5c49-be68-28534565286d' => [
+        'The historical basis for the gap between the black middle class and underclass shows that ending discrimination, by itself, would not eradicate black poverty and dysfunction. We also need intervention to promulgate a middle-class ethic of success among the poor, while expanding opportunities for economic betterment.',
+        'Henry Louis Gates',
     ],
-    [
-        'Stay away from what might have been and look at what will be.',
-        'Marsha Petrie Sue',
+    '78148e2e-ac05-59f6-9f08-f45ed59e8ed7' => [
+        'Ours is the century of enforced travel of disappearances. The century of people helplessly seeing others, who were close to them, disappear over the horizon.',
+        'John Berger',
     ],
-    [
-        'Vanity, showing off, is an attitude that reduces spirituality to a worldly thing, which is the worst sin that could be committed in the church.',
-        'Pope Francis',
+    'ce2dcfab-d787-5316-afc4-b38b7af16d4d' => [
+        'In three words I can sum up everything I\'ve learned about life: it goes on.',
+        'Philip Sidney',
     ],
-    [
-        'I would vote for the man who\'s lived life, who\'s done different occupations, who\'s been out in the real world and struggled to make a living, struggled to raise a family, struggled with life as it exists. So I\'d vote for experience, honest experience.',
-        'Oliver Stone',
+    '4138c1d1-e78c-531b-b64c-fcd1daa44255' => [
+        'Even someone as photographed and aware of the camera as members of the royal family needs to feel completely comfortable if they are to look their best.',
+        'Mario Testino',
     ],
-    [
-        'I\'m from a middle class family, but my father squandered all the money, so I didn\'t really run around with rich people.',
-        'Benjamin Clementine',
+    '5e713a0f-6e87-52c8-a990-5af1b1a0b426' => [
+        'My attitude toward men who mess around is simple: If you find \'em, kill \'em.',
+        'Loretta Lynn',
     ],
-    [
-        'When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.',
-        'Charles R. Swindoll',
+    'cf075e5f-0b74-5c40-bc5b-a882d3d78aed' => [
+        'Take time to deliberate, but when the time for action has arrived, stop thinking and go in.',
+        'Napoleon Bonaparte',
     ],
-    [
-        'Our attitudes control our lives. Attitudes are a secret power working twenty-four hours a day, for good or bad. It is of paramount importance that we know how to harness and control this great force.',
-        'Irving Berlin',
+    '10c03d47-f96a-52f8-ae2c-065066d14d2f' => [
+        'I get really frustrated if people don\'t smile.',
+        'Sophie Ellis-Bextor',
     ],
-    [
-        'Mainly what I learned from Buddy... was an attitude. He loved music, and he taught me that it shouldn\'t have any barriers to it.',
-        'Waylon Jennings',
+    'f2cbce02-54d0-5832-8c31-f2989c5322db' => [
+        'The only real mistake is the one from which we learn nothing.',
+        'John Powell',
     ],
-    [
-        'A woman can be demure, lady-like and the most prim and proper character, and still have a toughness and resiliency as apparent as a superhero-type female character or a warrior or soldier type. It\'s all about the story, the character, and the course of events in that piece of work and how that character is presented.',
-        'Katherine McNamara',
+    'd588cde0-53b7-5ed4-87f9-2aae04605052' => [
+        'When people ask me about my story, I just go through the positive stuff: the tent-pole moments, the big landmark checkpoints.',
+        'Shia LaBeouf',
     ],
-    [
-        'There is no personal achievement in being born beautiful.',
-        'Loretta Young',
+    '60fb8537-f4cd-5b31-ae1a-2008538ad80f' => [
+        'I never think of yesterday. Can\'t do anything about it. I\'m a positive guy. When you really deep down look at it, we go to bed every night, get up every morning, stay here for 70 or 80 years, and then we die.',
+        'Lee Trevino',
     ],
-    [
-        'I grew up as a very sarcastic person. I was always the class clown, and to date girls, I had to be really funny. I was really skinny growing up. I was so thin, I had to run around in the shower to get wet. That kind of thin. So I always had to rely on humor and sarcasm.',
-        'Kurt Fuller',
+    'e9ded935-45da-5b75-a267-197673370ba0' => [
+        'It is often said that before you die your life passes before your eyes. It is in fact true. It\'s called living.',
+        'Henri Frederic Amiel',
     ],
-    [
-        'Today I see beauty everywhere I go, in every face I see, in every single soul.',
-        'Kevyn Aucoin',
+    '5d0f3345-026a-5f32-ab48-4962e46354af' => [
+        'Every good citizen makes his country\'s honor his own, and cherishes it not only as precious but as sacred. He is willing to risk his life in its defense and is conscious that he gains protection while he gives it.',
+        'Linda Thompson',
     ],
-    [
-        'It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome.',
-        'William James',
+    '6a899d74-ab49-502c-b4b7-44b955770efb' => [
+        'What is pride? A rocket that emulates the stars.',
+        'William Wordsworth',
     ],
-    [
-        'I learned a long time ago that reality was much weirder than anyone\'s imagination.',
-        'Hunter S. Thompson',
+    '769fe5b9-d61a-5ccd-a69d-b60141704bca' => [
+        'The growth of purposeful travel is a good thing. It can have a positive impact. We should continue to experiment and move along this line.',
+        'Joe Garcia',
     ],
-    [
-        'Because it\'s cheaper and easier to fly than ever before, air travel is becoming democratized.',
-        'Peter Diamandis',
+    'e9abac67-4a0e-54a3-a571-19731538d1f3' => [
+        'Drugs are a waste of time. They destroy your memory and your self-respect and everything that goes along with with your self-esteem. They\'re no good at all.',
+        'Kurt Cobain',
     ],
-    [
-        'From small beginnings come great things.',
-        'Proverb',
+    '3c7c6b3f-d6b5-547c-a968-71974c6adc02' => [
+        "Look in the MIRROR...\nThat's your COMPETITION.",
+        'Unknown',
     ],
-    [
-        'We all have our down days, but it\'s not hard to smile and say, \'Thank you.\'',
-        'Yvette Nicole Brown',
+    '31cb8af8-664e-52ae-9e00-641ab9866241' => [
+        'If somebody asked me about my inspiration I would say that it\'s not the peopleand it\'s not the things, it\'s travel and experiencing different environments.',
+        'Marc Newson',
     ],
 ];

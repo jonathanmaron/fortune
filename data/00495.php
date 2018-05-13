@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If you have no confidence in self, you are twice defeated in the race of life.',
-        'Simone Weil',
+    '3947d6bd-4f9a-5a2e-b22a-9fcfb6abca69' => [
+        'I don\'t do it often, but I do cry. I also laugh a lot; people tell me I\'m funny and I do like to laugh.',
+        'Michael Caine',
     ],
-    [
-        'Any idiot can face a crisis - it\'s day to day living that wears you out.',
-        'Russell Westbrook',
+    '4ecfab93-8325-51bc-ac3b-434527d7879e' => [
+        'But I think it is a serious issue to wonder about the other platonic absolutes of say beauty and morality.',
+        'Roger Penrose',
     ],
-    [
-        'I do believe in love; it\'s wonderful - especially love third time around, it\'s even more precious; it\'s kind of amazing.',
-        'Robin Williams',
+    '6d73311a-5970-5da5-9b5e-06ce376af89e' => [
+        'To be great is to be misunderstood.',
+        'Ralph Emerson',
     ],
-    [
-        'You don\'t drown by falling in water. You drown by staying there.',
+    '867bbacb-1d24-5796-9a44-31c571cd74e3' => [
+        'A great social success is a pretty girl who plays her cards as carefully as if she were plain.',
+        'F. Scott Fitzgerald',
+    ],
+    '82483382-2a99-5978-b18d-b231c04dad7e' => [
+        'Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.',
+        'Dalai Lama',
+    ],
+    'ddccd4e7-c41a-525c-9f36-ab7ce1b87bfd' => [
+        'One of the things that makes our military the best in the world is the certain knowledge of each soldier, sailor, airman, and Marine that they can always count on their comrades should they need help - that they will never be abandoned.',
+        'Jon Kyl',
+    ],
+    '72f218d9-1749-59a7-9882-3a058512ca21' => [
+        'Today is the tomorrow we worried about yesterday.',
         'Unknown',
     ],
-    [
-        'A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.',
-        'Jawaharlal Nehru',
+    '94bb5728-60ab-5846-bc32-e03a5ba94137' => [
+        'To make flexibility work, it is not only necessary to change our attitude about who is a good worker and who is not, but we have to train managers at all levels to recognize the difference between the number of hours worked and the quality of work produced.',
+        'Madeleine M. Kunin',
     ],
-    [
-        'My wife has a slight impediment in her speech. Every now and then she stops to breathe.',
-        'Jimmy Durante',
+    'c12bdba9-a2e5-50ab-b954-bfd134edc935' => [
+        'There\'s no one particular road that will lead you to success. I think everybody will find it differently.',
+        'Marina and the Diamonds',
     ],
-    [
-        'People travel and hunt on the sea ice - in Alaska, they hunt in skin boats for bowhead whales; in Greenland, they hunt with dogsleds. The ice is their highway. The ice is also the ecosystem in which marine mammals and terrestrial animals such as polar bears exist.',
-        'Gretel Ehrlich',
+    '7ce140be-f1f4-5d79-9cb3-2b25b7d9dc58' => [
+        'My dementia hasn\'t just affected me - it\'s affected my friends and family, too.',
+        'Gerry Anderson',
     ],
-    [
-        'Like almost everyone who uses e-mail, I receive a ton of spam every day. Much of it offers to help me get out of debt or get rich quick. It would be funny if it weren\'t so exciting.',
-        'Bill Gates',
+    '1fcd0df0-d058-529d-b32d-c896b82118a1' => [
+        'There is no forgiveness in nature.',
+        'Ugo Betti',
     ],
-    [
-        'But, I would be naive not to recognize the number of musicians who tell me they have been influenced by me and sight me - as well as Alex and Neil - as a musician who has been a positive influence on their playing.',
-        'Geddy Lee',
+    '98b7c9b3-09d4-5e6e-82c2-8fcce5fba732' => [
+        'He who has health has hope, and he who has hope has everything.',
+        'Unknown',
     ],
-    [
-        'In wisdom gathered over time I have found that every experience is a form of exploration.',
-        'Ansel Adams',
+    'a191361b-fe4d-59a7-a2a2-c5e61217bc15' => [
+        'If you are truly offended by an 80-year-old man saying you\'re not funny, then you\'re probably not funny.',
+        'Sarah Silverman',
     ],
-    [
-        'Now I see the secret of making the best person: it is to grow in the open air and to eat and sleep with the earth.',
-        'Walt Whitman',
+    '32530faf-29b2-5874-a36a-42053cffe451' => [
+        'The value of life is not in its duration, but in its donation. You are not important because of how long you live, you are important because of how effective you live.',
+        'Amy Waldman',
     ],
-    [
-        'I\'m very inspired by nature - you could say Mother Nature. I look at things around me and get all kinds of inspiration daily.',
-        'Martha Stewart',
+    'b8c542cb-427a-5fe2-863a-168a20215d3c' => [
+        'You don\'t have to watch \'Gossip Girl\' to have an attitude.',
+        'Prince',
     ],
-    [
-        'Cherish sunsets, wild creatures and wild places. Have a love affair with the wonder and beauty of the earth.',
-        'Stewart Udall',
+    '75be64c6-7a20-5466-b809-71389b1904c8' => [
+        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
+        'Michelangelo',
     ],
-    [
-        'Since day one, since the first time I touched the pen, I wanted to be the best at what I do.',
-        'Kendrick Lamar',
+    '9bde49f1-43bd-5d53-8072-b5507673eeba' => [
+        'I\'m not the best person at putting words together. I can\'t give you the melody. But I might inspire somebody.',
+        'Meek Mill',
     ],
-    [
-        'You will enrich your life immeasurably if you approach it with a sense of wonder and discovery, and always challenge yourself to try new things.',
-        'RuPaul',
+    '72f48766-27e4-57a5-9e5c-38d22a03bdf2' => [
+        'There are no failures. Just experiences and your reactions to them.',
+        'Tom Krause',
     ],
-    [
-        'I think every single imperfection adds to your beauty. I\'d rather be imperfect than perfect.',
-        'Sonam Kapoor',
+    'a589b525-b79f-58b8-be22-b92f677e4c86' => [
+        'There have been many different artists that have been inspirational. I suppose the question is directed to what was the reason why I went into fantasy illustration.',
+        'Boris Vallejo',
     ],
-    [
-        'No spring nor summer beauty hath such grace as I have seen in one autumnal face.',
-        'John Donne',
+    'bb0c7a3f-913f-5f33-b0ab-503c147a371a' => [
+        'Know, first, who you are, and then adorn yourself accordingly.',
+        'Epictetus',
     ],
-    [
-        'An optimist is a fellow who believes a housefly is looking for a way to get out.',
-        'George Jean Nathan',
+    'c68fcf9d-8ba6-5968-b0c5-70fd090f611c' => [
+        'I can\'t believe the pro-choicers attitude toward unborn children-to me it\'s the ultimate liberal cause, to defend those without a voice.',
+        'Michael Aston',
     ],
-    [
-        'All the universe is full of the lives of perfect creatures.',
-        'Konstantin Tsiolkovsky',
+    '238eec28-16f8-50ed-8269-ee97e53aa5ae' => [
+        'All men are equal before fish.',
+        'Herbert Hoover',
     ],
-    [
-        'Usually, if you smile at them and show some interest in the toy, they will give it to you. That\'s a straight up Democrat move!',
-        'Margaret Cho',
+    'b3238191-52a9-5afc-b4ce-81346cdb41fc' => [
+        'Every day we should hear at least one little song, read one good poem, see one exquisite picture, and, if possible, speak a few sensible words.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'Arriving at one point is the starting point to another.',
-        'John Dewey',
+    '91b34cbe-855f-5478-adf9-44d8d44c0785' => [
+        'I don\'t want just attitude and loud opinion.',
+        'John McLaughlin',
     ],
-    [
-        'Remember your dreams and fight for them. You must know what you want from life. There is just one thing that makes your dream become impossible: the fear of failure.',
-        'Dieter F. Uchtdorf',
-    ],
-    [
-        'I\'ve never seen anyone more messed up over success than Richard Pryor. For him, it\'s a constant battle between success in the white world and keeping it real for his black self.',
-        'Paul Mooney',
-    ],
-    [
-        'Gardens are not made by singing \'Oh, how beautiful,\' and sitting in the shade.',
-        'Rudyard Kipling',
-    ],
-    [
-        'If you have a chance to accomplish something that will make things better for people coming behind you, and you don\'t do that, you are wasting your time on this earth.',
-        'Roberto Clemente',
+    'cafc1635-d42d-5369-87b5-92f21426e8c6' => [
+        'You can stand tall without standing on someone. You can be a victor without having victims.',
+        'Harriet Woods',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I get invited to many more literary festivals than I used to because I\'m associated with \'Slumdog Millionaire,\' the brand. Many more doors have opened up for me as a result of the global success of the film, although I believe that I\'m the same person that existed before it.',
-        'Vikas Swarup',
+    '3d78f618-6977-5051-a904-0d2ac6524191' => [
+        'Life is so constructed that an event does not, cannot, will not, match the expectation.',
+        'Charlotte Bronte',
     ],
-    [
-        'I\'m not a DJ, I don\'t know how to scratch and I don\'t know how to mix, but I do know how to party. One of my jobs is actually to travel the world and party.',
-        'Amber Rose',
+    '7fdfcc4c-0fcc-5a59-b3ef-05e706147431' => [
+        'Happiness is the reward we get for living to the highest right we know.',
+        'Richard Bach',
     ],
-    [
-        'If you\'ve got a talent, protect it.',
-        'Jim Carrey',
+    'f9542dee-bc25-5ca0-a064-b31b25ca75fa' => [
+        'One who is too insistent on his own views, finds few to agree with him.',
+        'Lao Tzu',
     ],
-    [
-        'We are all full of weakness and errors; let us mutually pardon each other our follies - it is the first law of nature.',
-        'Voltaire',
+    'f61ec85d-3868-551c-a147-31b9979aab8f' => [
+        'I was impressed by Hendrix. His attitude was brilliant. Even the way he walked was amazing.',
+        'Ritchie Blackmore',
     ],
-    [
-        'To travel is to take a journey into yourself.',
-        'Danny Kaye',
+    '1ce5d0e8-d5dc-50b8-a1ce-e6dc5584a5ef' => [
+        'I believe love at first sight is possible. Centuries of literature and art and beauty has been dedicated to that idea, so who am I to argue, even if I\'ve never experienced it?',
+        'Maggie Grace',
     ],
-    [
-        'The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.',
-        'Margaret Smith',
+    'f84b80f9-9d2d-57fb-9031-9c3fec602aa0' => [
+        'Mountains cannot be surmounted except by winding paths.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'Self-belief and hard work will always earn you success.',
-        'Virat Kohli',
+    '2c584dce-bfc7-5256-a7ea-cbb9e68675eb' => [
+        'Creativity itself doesn\'t care at all about results - the only thing it craves is the process. Learn to love the process and let whatever happens next happen, without fussing too much about it. Work like a monk, or a mule, or some other representative metaphor for diligence. Love the work. Destiny will do what it wants with you, regardless.',
+        'Elizabeth Gilbert',
     ],
-    [
-        'The beauty comes with the balance. Everyone should find his own balance in his personal as well as his professional life. Once you do so, you will feel and look beautiful.',
-        'Karolina Kurkova',
+    '8a0293af-4ebd-5b12-8c7c-940d96c083bf' => [
+        'Yeah. I\'ve been pretty fortunate to travel I guess, all around the place.',
+        'Ben E. King',
     ],
-    [
-        'My problem is that I think everybody needs to work as hard as I worked when I was in my prime.',
-        'Ric Flair',
+    'a3a7ca54-abb9-5df0-9934-fc72b00b7783' => [
+        'Someone said adversity builds character, but someone else said adversity reveals character. I\'m pleasantly surprised with my resilience. I persevere, and not just blindly. I take the best, get rid of the rest, and move on, realizing that you can make a choice to take the good.',
+        'Brooke Shields',
     ],
-    [
-        'Never continue in a job you don\'t enjoy. If you\'re happy in what you\'re doing, you\'ll like yourself, you\'ll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined.',
-        'Johnny Carson',
+    'fe594441-9ec9-545e-9f33-e21a1b1bea79' => [
+        'A diva is someone who is a perfectionist, who does her best in her craft.',
+        'Patti LaBelle',
     ],
-    [
-        'If you\'ll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.',
-        'Vince Lombardi',
+    'b436d6f8-1d77-537d-aedd-4c8cbd40d33b' => [
+        'I\'ve only had two rules: Do all you can and do it the best you can. It\'s the only way you ever get that feeling of accomplishing something.',
+        'Colonel Sanders',
     ],
-    [
-        'If you don\'t die of thirst, there are blessings in the desert. You can be pulled into limitlessness, which we all yearn for, or you can do the beauty of minutiae, the scrimshaw of tiny and precise. The sky is your ocean, and the crystal silence will uplift you like great gospel music, or Neil Young.',
-        'Anne Lamott',
+    '51bebf93-9b09-5008-903b-607d48c1f5e5' => [
+        'In every aspect of life, have a game plan, and then do your best to achieve it.',
+        'Alan Kulwicki',
     ],
-    [
-        'Experience is not what happens to a man. It is what a man does with what happens to him.',
-        'Aldous Huxley',
+    '89ff10d7-f975-5336-9fec-a5264204d32a' => [
+        'It\'s a sad day when a woman being funny and interested in science is considered newsworthy.',
+        'Elise Andrew',
     ],
-    [
-        'Players should know that if you can\'t make the contribution of the winning shot, that your attitude every day when you come to practice, or the positive contribution you make through cheering and keeping up team morale, is just as important in the overall picture.',
-        'Sue Wicks',
+    '7ce76198-9d81-5241-835f-9b5d6abbe003' => [
+        'If you keep yourself alive and current, funny is funny.',
+        'Alan King',
     ],
-    [
-        'Diligence is the mother of good fortune.',
-        'Benjamin Disraeli',
+    '3a22e5c4-7f94-5855-b181-abd12feca006' => [
+        'Silence is deep as Eternity, Speech is shallow as Time.',
+        'Carlyle',
     ],
-    [
-        'I try to keep a positive intention and use whatever resources I have to benefit others. I try to create businesses that I think are not hurtful. I try to do things that I think are helpful to the environment, to the animals, and to the planet.',
-        'Russell Simmons',
+    'bd863295-91e4-5209-8f63-7a5f6cc632c7' => [
+        'Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.',
+        'Serena Williams',
     ],
-    [
-        'As long as you think your past is bad you must be improving',
-        'Louis C.K',
+    '29811ad8-e900-5efd-8d68-2dc3778547d9' => [
+        'One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.',
+        'Albert Schweitzer',
     ],
-    [
-        'Good news doesn\'t necessarily have to be a positive thing. Bringing good news is imparting hope to one\'s fellow man.',
-        'Patti Smith',
+    'ff7ffb9e-e006-5534-bc98-10a31407ba06' => [
+        'The best luck of all is the luck you make for yourself.',
+        'Douglas MacArthur',
     ],
-    [
-        'Having a baby is one of the most wonderful things in your life, as well as the hardest thing in your life.',
-        'Tom Welling',
+    '80cd3651-14b2-573e-a8b6-57e608657847' => [
+        'I refuse to dress \'hot\' for Halloween, \'cause I always have to have makeup and hair and look cute for my job. So on Halloween, I either go gory or weird or funny.',
+        'Rachel Platten',
     ],
-    [
-        'After a lifetime of world travel I\'ve been fascinated that those in the third world don\'t have the same perception of reality that we do.',
-        'Jim Harrison',
+    '9819b4f2-0aed-5a66-b010-bb8b7977094f' => [
+        'I think Spain will always remain inspirational, and I think French cuisine will continue to be very French and yet very relevant with its time and keep evolving. But the last thing you want for it is to become too trendy and confusing. It has too much history.',
+        'Daniel Boulud',
     ],
-    [
-        'I thought \'Moulin Rouge\' was inspirational, and \'Jesus Christ Superstar\' I loved.',
-        'Pierce Brosnan',
+    '34514fc1-1649-51b3-8459-6ae2298d6a9c' => [
+        'I\'m enthusiastic and ambitious, and I work hard.',
+        'Jason Statham',
     ],
-    [
-        'I had two family members involved in World War I: two great-uncles. One of them is on a memorial in France. And the other was a trench runner who survived the war. The average life span of a trench runner was 36 hours, but he survived the whole war.',
-        'Ben Barnes',
+    '7c1dbbdd-ca10-56ed-b749-dd2ebbade5d4' => [
+        'The science of psychology has been far more successful on the negative than on the positive side... It has revealed to us much about man\'s shortcomings, his illnesses, his sins, but little about his potentialities, his virtues, his achievable aspirations, or his psychological health.',
+        'Abraham Maslow',
     ],
-    [
-        'To him who in the love of Nature holds Communion with her visible forms, she speaks A various language.',
-        'William C. Bryant',
+    'a083514e-dbca-5f0f-9ffb-dc4a6dff24d4' => [
+        'I kept hiding my smile in pictures throughout middle school and most of high school until picture day came my senior year.',
+        'Uzo Aduba',
     ],
-    [
-        'When I was a kid I used to pray every night for a new bicycle. Then I realised that the Lord doesn\'t work that way so I stole one and asked Him to forgive me.',
-        'Emo Philips',
+    '50e24aa1-e497-56b1-bd22-d52d083b7e9d' => [
+        'It\'s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.',
+        'Jerry Seinfeld',
     ],
-    [
-        'We can\'t help everyone, but everyone can help someone.',
-        'Ronald Reagan',
+    '98fdbcf0-d2e5-5f87-9a4e-5e833ad86c0a' => [
+        'No student ever attains very eminent success by simply doing what is required of him: it is the amount and excellence of what is over and above the required, that determines the greatness of ultimate distinction.',
+        'Charles Kendall Adams',
     ],
 ];

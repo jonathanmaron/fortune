@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'This place? Nothing positive. OK, I want to say something positive. It\'s positively a dump.',
-        'Charles Barkley',
+    'cc6ca94d-cdc3-53ee-aa55-5c286c91a0ca' => [
+        'Life changes so quickly. feeling grateful to be around such wonderful people to strengthen and grow with.',
+        'Myles Munroe',
     ],
-    [
-        'The best teamwork comes from men who are working independently toward one goal in unison.',
-        'James Cash Penney',
+    '63af19b8-6405-52d5-84ae-23871287c0a4' => [
+        'I have been a foreigner all my life, first as a daughter of diplomats, then as a political refugee and now as an immigrant in the U.S. I have had to leave everything behind and start anew several times, and I have lost most of my extended family.',
+        'Isabel Allende',
     ],
-    [
-        'I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than You, and keep doing what you love. Do what you love, and you will find the way to get it out to the world.',
-        'Judy Collins',
+    '1e3c2759-91fe-564d-8f56-f9b751b1979e' => [
+        'Jerry Ford is so dumb he can\'t fart and chew gum at the same time.',
+        'Lyndon B. Johnson',
     ],
-    [
-        'It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.',
-        'Lama Yeshe',
+    'a6966fa8-41be-501f-9202-0dd8a31c5c23' => [
+        'The very women who object to the morals of a notoriously beautiful actress, grow big with pride when an admirer suggests their marked resemblance to this stage beauty in physique.',
+        'Minna Antrim',
     ],
-    [
-        'When you judge another, you do not define them, you define yourself.',
-        'Wayne Dyer',
+    'cf80066e-f2dd-5051-bc46-38d837c5cc93' => [
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
+        'Bruce Lee',
     ],
-    [
-        'Whenever I gaze up at the moon, I feel like I\'m on a time machine. I am back to that precious pinpoint of time, standing on the foreboding - yet beautiful - Sea of Tranquility. I could see our shining blue planet Earth poised in the darkness of space.',
-        'Buzz Aldrin',
+    '63b341af-ca36-5b36-95ee-dedc223a7c25' => [
+        'If one had but a single glance to give the world, one should gaze on Istanbul.',
+        'Alphonse de Lamartine',
     ],
-    [
-        'One of the sad truths about leadership is that, the higher up the ladder you travel, the less you know.',
-        'Margaret Heffernan',
+    'd7ddb7bc-55b9-5e73-a937-47a0f630282e' => [
+        'I have been very blessed in my life and rewarded with good friends and good health. I am grateful and happy to be able to share this.',
+        'Unknown',
     ],
-    [
-        'Life is the flower for which love is the honey.',
-        'Amisha Patel',
+    'f6941f23-2bdd-59c8-92ae-090669434f66' => [
+        'The Dolls were an attitude. If nothing else they were a great attitude.',
+        'Johnny Thunders',
     ],
-    [
-        'Time is the wisest counselor of all.',
-        'Pericles',
+    '445ae03e-2091-5f25-8eac-ae4b2776ab59' => [
+        'One that desires to excel should endeavour in those things that are in themselves most excellent.',
+        'Epictetus',
     ],
-    [
-        'I travel like a maniac. I travel more than anyone I know. I love learning the languages.',
-        'Quincy Jones',
+    'd63a8a75-184a-5191-acf5-5456078417b4' => [
+        'There\'s something to be said in favor of working in isolation in the real world.',
+        'A. R. Ammons',
     ],
-    [
-        'Everybody seems to be wasting their time online. There is such a narcissistic attitude. It\'s such a strange world.',
-        'Sebastian Maniscalco',
+    'ffedf7bd-9fe5-5682-9745-273131d081db' => [
+        'Fear not, we are of the nature of the lion, and cannot descend to the destruction of mice and such small beasts.',
+        'Elizabeth I',
     ],
-    [
-        'There\'s always been something deeply disturbing about the Abbott government\'s attitude to women.',
-        'Richard Flanagan',
+    '7fb8b69f-6b52-52dd-9f9e-66369037c3f6' => [
+        'What is it to enjoy life? Sit at the beach? No. What it is is that you have to do something, you have be productive, make a contribution to the society, to the family, to yourself.',
+        'Frank Lowy',
     ],
-    [
-        'Traveling around the country, meeting fans and hearing their stories in person and on my radio show has reenergized my commitment to creating honest and inspirational content that not only serves my own creative purposes but can help and touch others as well.',
-        'Nikki Sixx',
+    'dded753b-0da3-58d9-af4e-2b3b321f666c' => [
+        'The greatest humiliation in life, is to work hard on something from which you expect great appreciation, and then fail to get it.',
+        'E. W. Howe',
     ],
-    [
-        'I\'ve always been interested in the idea of space exploration. When I was younger it was just a dream, but the theory of rockets being able to travel through space was very much alive. I found it very exciting.',
-        'Gerry Anderson',
+    '1f7e42c7-d7f9-5da8-a69c-5883771f63c3' => [
+        'Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.',
+        'Johann Wolfgang Von Goethe',
     ],
-    [
-        'If at first you don\'t succeed, find out if the loser gets anything.',
-        'William Lyon Phelps',
+    'adb2743d-4ec0-5de7-a1f7-fcec744c870f' => [
+        'Child slavery is a crime against humanity. Humanity itself is at stake here. A lot of work still remains, but I will see the end of child labor in my lifetime.',
+        'Kailash Satyarthi',
     ],
-    [
-        'You have to learn how to harness technology so you can use it for positive stuff without being disconnected from nature.',
-        'Talib Kweli',
+    '9b12a518-97de-582a-86ee-99761f6872dd' => [
+        'I\'ve never been a die-hard Beyonce fan. I always thought she was inspirational and beautiful.',
+        'Winnie Harlow',
     ],
-    [
-        'I prefer to work with grey characters rather than black and white.',
-        'George R. R. Martin',
+    '2ea390f5-f5f8-5608-a549-0595ed3de751' => [
+        'One man is as good as another until he has written a book.',
+        'Benjamin Jowett',
     ],
-    [
-        'The further we distance ourselves from the spell of the present, explored by our senses, the harder it will be to understand and protect nature\'s precarious balance, let alone the balance of our own human nature.',
-        'Diane Ackerman',
+    'a4f16e7f-ab8f-5407-a54a-476e76017236' => [
+        'Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.',
+        'Cadet Maxim',
     ],
-    [
-        'A single conversation across the table with a wise person is worth a months study of books.',
-        'Chinese proverb',
+    'b48528e5-2aaf-5c7a-aa54-7dd0004fb517' => [
+        'I don\'t think of myself as a role model for others, but I like to live my life by my own integrity. So, in that sense, I might be a positive influence. I do believe you should get over your insecurities and just try to be the best you can.',
+        'Lily Cole',
     ],
-    [
-        'Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.',
-        'Dale Carnegie',
+    '4e244b8f-d2ee-5949-8f7e-b2dceb2bfaa8' => [
+        'The black holes of nature are the most perfect macroscopic objects there are in the universe: the only elements in their construction are our concepts of space and time.',
+        'Subrahmanyan Chandrasekhar',
     ],
-    [
-        'That is the difference between good teachers and great teachers: good teachers make the best of a pupil\'s means; great teachers foresee a pupil\'s ends.',
-        'Maria Callas',
+    '3e3e7205-542a-5f53-8333-fd552b7ee1ac' => [
+        'Travel is impossible, but daydreaming about travel is easy.',
+        'B. J. Novak',
     ],
-    [
-        'If you have learned how to disagree without being disagreeable, then you have discovered the secrete of getting along - whether it be business, family relations, or life itself.',
-        'Bernard Meltzer',
+    'ded290c3-6e3f-536b-9007-a5d681b9cb82' => [
+        'If you\'re funny, if there\'s something that makes you laugh, then every day\'s going to be okay.',
+        'Tom Hanks',
     ],
-    [
-        'While you\'re improvising, you may come up with something which will break him up. As soon as that smile comes out, you know that, hey, we\'re having fun.',
-        'Shelley Berman',
+    '259fd5a5-80d2-5344-be52-6db8cc93f246' => [
+        'No one can make you feel inferior without your consent.',
+        'Eleanor Roosevelt',
     ],
-    [
-        'The best form of government is that which is most likely to prevent the greatest sum of evil.',
-        'James Monroe',
+    '9951f341-58dc-5502-a8ce-c54bf0dda388' => [
+        'I believe any success in life is made by going into an area with a blind, furious optimism.',
+        'Sylvester Stallone',
     ],
-    [
-        'I have believed the best of every man. And find that to believe is enough to make a bad man show him at his best, or even a good man swings his lantern higher.',
-        'William Butler Yeats',
+    'df16feef-67ac-5b8c-bb35-af66970bdb6c' => [
+        'And now I have a big house, nice clothes and I travel in first class and I love it, so maybe it\'s time to enjoy being a star.',
+        'Vincent Cassel',
     ],
 ];

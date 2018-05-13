@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The greatest use of a life is to spend it on something that will outlast it.',
-        'Prince William',
+    'a54b540c-80de-5525-8e65-9da67aa80f41' => [
+        'To follow, without halt, one aim: There is the secret of success.',
+        'Anna Pavlova',
     ],
-    [
-        'Battle is the most magnificent competition in which a human being can indulge. It brings out all that is best; it removes all that is base. All men are afraid in battle. The coward is the one who lets his fear overcome his sense of duty. Duty is the essence of manhood.',
-        'George S. Patton',
+    'f68fb9ff-ef62-5030-ac71-89e43c0c1f2b' => [
+        'If life had a second edition, how I would correct the proofs.',
+        'Hugh Hefner',
     ],
-    [
-        'I know that when I like music, when it touches my heart, that it will touch your heart, too. That, I think, is the secret to my success.',
-        'Andre Rieu',
+    '483fff61-3c0d-509e-819e-7819224b56b8' => [
+        'And now, this is the sweetest and most glorious day that ever my eyes did see.',
+        'Donald Cargill',
     ],
-    [
-        'During the holiday season, it\'s easy to forget that sometimes the best gift of all is simply the gift of time. I can\'t think of anything a writer would appreciate more than being given time and space to work.',
-        'Kate Klise',
+    'e21739c6-5761-5646-8352-627f5b334a5e' => [
+        'Publicity is justly commended as a remedy for social and industrial diseases. Sunlight is said to be the best of disinfectants; electric light the most efficient policeman.',
+        'Louis D. Brandeis',
     ],
-    [
-        'I have been overcome by the beauty and richness of our life together, those early mornings setting out, those evenings gleaming with rivers and lakes below us, still holding the last light.',
-        'Anne Morrow Lindbergh',
+    '1464944a-1d06-5cc9-88dc-a08ad1f6f00c' => [
+        'Without health life is not life; it is only a state of langour and suffering - an image of death.',
+        'Kenneth Branagh',
     ],
-    [
-        'A family can develop only with a loving woman as its center.',
-        'Karl Wilhelm Friedrich Schlegel',
+    '462c156c-467b-504b-832b-f31ba5cc862f' => [
+        'She felt like a chess player who, by the clever handling of his pieces, sees the game taking the course intended. Her eyes were bright and tender with a smile as they glanced up into his; and her lips looked hungry for the kiss which they invited.',
+        'Kate Chopin',
     ],
-    [
-        'You think about child abuse and you think of a father viciously attacking a daughter or a son, but in my family it was my mother. My mother, I would say, was a... very brutal disciplinarian.',
-        'Lynn Johnston',
+    '5ef51ef7-0253-5fbd-bc7c-880898c208f5' => [
+        'So long as you have food in your mouth, you have solved all questions for the time being.',
+        'Franz Kafka',
     ],
-    [
-        'I knew, of course, that trees and plants had roots, stems, bark, branches and foliage that reached up toward the light. But I was coming to realize that the real magician was light itself.',
-        'Edward Steichen',
+    '2f165594-b14b-5e0e-b106-67615c0ff75d' => [
+        'I usually don\'t like to \'spoon feed\' my audience, because I grew up idolizing story tellers who tell stories using symbolism, so it was in my nature to do the same.',
+        'The Weeknd',
     ],
-    [
-        'I\'m not interested in age. People who tell me their age are silly. You\'re as old as you feel.',
-        'Elizabeth Arden',
+    'f1f16bd3-cb9b-5239-a2d6-fe6b84dc0928' => [
+        'When I was growing up, my family was so poor we couldn\'t afford to pay attention.',
+        'Mr. T',
     ],
-    [
-        'My dream is to be World Lightweight Champion in the UFC. Have more money than I know what to do with. And have a great life for my kids, grandkids, and everyone in my family.',
-        'Conor McGregor',
+    '0bb96677-4de8-5196-8a70-bdb325bc02df' => [
+        'I think we all suffer from guilt at some point in our lives, but for the most part I never really regret, and I try to always remain positive. Yes, I think that those issues are very interesting to play in a character, and they\'re prominent issues in life, and I think people can relate to them.',
+        'Channing Tatum',
     ],
-    [
-        'And when I was young, my family was perfectly nice. I write a lot about it, as you noticed. But it was rather limited. I think, I don\'t think anyone in my family would really feel I\'d done them an injustice by saying that. We didn\'t see many people. There were many books. It was as if I wanted to get away from home.',
-        'Christopher Hitchens',
+    '6b929680-8a78-5895-9e03-82d8cbdd1f29' => [
+        'After six years without seeing one, I love just seeing a smile - every smile I see gives me hope.',
+        'Ingrid Betancourt',
     ],
-    [
-        'The greatest discovery of my generation is that man can alter his life simply by altering his attitude of mind.',
-        'James Truslow Adams',
+    '804d5793-00b4-55fc-98c8-82103bd05e46' => [
+        'The things that make me angry still make me angry. George Carlin is 67, and he\'s still as funny as he\'s ever been, and he\'s still angry. And that makes me feel good, because I feel like if I stick around long enough, I\'ll still be able to work.',
+        'Denis Leary',
     ],
-    [
-        'Your life is the fruit of your own doing. You have no one to blame but yourself.',
-        'Lindsey Vonn',
+    '4a1442af-aed2-5988-ad06-2f62e7b199f3' => [
+        'Haiti is always talking about decentralization and nothing has been so obvious, perhaps a weakness, as the centralized nature of Haitian society as being revealed by the earthquake. I mean, they lost all these medical training programs because they didn\'t have them anywhere else.',
+        'Paul Farmer',
     ],
-    [
-        'I\'d like to grow up and be beautiful. I know it doesn\'t matter, but it doesn\'t hurt.',
-        'Kirsten Dunst',
+    '313e2674-fbc9-5771-83eb-1f307af995a5' => [
+        'It\'s very important to take risks. I think that research is very important, but in the end you have to work from your instinct and feeling and take those risks and be fearless. When I hear a company is being run by a team, my heart sinks, because you need to have that leader with a vision and heart that can move things forward.',
+        'Anna Wintour',
     ],
-    [
-        'Love and fear. Everything the father of a family says must inspire one or the other.',
-        'Joseph Joubert',
+    'f4882075-6ba2-5917-b91f-dcc8cf5da5bf' => [
+        'When you die, others who think they know you, will concoct things about you... Better pick up a pen and write it yourself, for you know yourself best.',
+        'Sholom Aleichem',
     ],
-    [
-        'Success isn\'t always going to be a huge contract; success is going to be if you just live out your purpose in life.',
-        'Allan Houston',
+    '01dc9325-bcc8-5c03-88c8-98d97420de85' => [
+        'Time travel was once considered scientific heresy, and I used to avoid talking about it for fear of being labelled a \'crank.\'',
+        'Stephen Hawking',
     ],
-    [
-        'People are basically the same the world over. Everybody wants the same things - to be happy, to be healthy, to be at least reasonably prosperous, and to be secure. They want friends, peace of mind, good family relationships, and hope that tomorrow is going to be even better than today.',
-        'Zig Ziglar',
+    'f69d1d08-b492-54c7-85dc-3df8c037f396' => [
+        'I never did anything by accident, nor did any of my inventions come by accident; they came by work.',
+        'Thomas A. Edison',
     ],
-    [
-        'You can\'t create in a vacuum. Life gives you the material and dreams can propel new beginnings.',
-        'Byron Pulsifer',
+    '32895fb0-06df-5540-a31f-c1e709283950' => [
+        'I believe that the open exchange of information can have a positive global impact.',
+        'Biz Stone',
     ],
-    [
-        'My grandmother, she\'s been the positive portion of my life the entire time.',
-        'Curtis Jackson',
+    '851d63cf-9962-5eeb-815e-204d5d1d9ec8' => [
+        'My goal in my career is to inspire people, is to get my music out there and have people enjoy it, and have people think of me as an inspirational artist.',
+        'Christina Grimmie',
     ],
-    [
-        'Success in business today requires real-time, mobile access to business opportunities.',
-        'Bob McDonnell',
+    '39e65280-c10e-573f-becb-47c822560046' => [
+        'Marriage is an act of will that signifies and involves a mutual gift, which unites the spouses and binds them to their eventual souls, with whom they make up a sole family - a domestic church.',
+        'Pope John Paul II',
     ],
-    [
-        'A good rest is half the work.',
-        'Unknown',
+    'd567c8bd-fa7b-550e-8f6e-26453ef96ef6' => [
+        'Three things cannot be long hidden: the sun, the moon, and the truth.',
+        'Buddha',
     ],
-    [
-        'My attitudes have changed, but somebody would have to read all my books to find out how they have.',
-        'Irwin Shaw',
+    '56752239-3b64-58fa-b9e5-c620fcb7e141' => [
+        'Well, I took a sabbatical. I walked away from shooting movies because I couldn\'t handle the travel. I\'m a single parent. I had young kids, and I found that keeping in touch with them from hotel rooms and airports wasn\'t working for me. So I stopped.',
+        'Rick Moranis',
     ],
-    [
-        'I was born in very sorry circumstances. Both of my parents were very sorry.',
-        'Norman Wisdom',
+    '8884c59d-4810-58cb-a9b7-be2b6b0c5475' => [
+        'Well I think any author or musician is anxious to have legitimate sales of their products, partly so they\'re rewarded for their success, partly so they can go on and do new things.',
+        'Bill Gates',
     ],
-    [
-        'No yesterdays are ever wasted for those who give themselves to today.',
-        'Brendan Francis',
+    '8a9a801c-14e1-581f-9e1a-fd4293df47e2' => [
+        'On \'Van Halen,\' I was a young punk, and everything revolved around the fastest kid in town, gunslinger attitude. But I\'d say that at the time of \'Fair Warning,\' I started concentrating more on songwriting. But I guess in most people\'s minds I\'m just a gunslinger.',
+        'Eddie Van Halen',
     ],
-    [
-        'The very best thing you can do for the whole world is to make the most of yourself.',
-        'Wallace D. Wattles',
+    'c4dc23e2-4aca-55ea-b1d4-b31062d82499' => [
+        'It\'s true, Christmas can feel like a lot of work, particularly for mothers. But when you look back on all the Christmases in your life, you\'ll find you\'ve created family traditions and lasting memories. Those memories, good and bad, are really what help to keep a family together over the long haul.',
+        'Caroline Kennedy',
     ],
 ];

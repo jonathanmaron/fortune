@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Oh, I would love to be a motivational speaker. I have pulled myself out of a million potholes, and I can see the potholes ahead of me. That doesn\'t mean that I could always do that so perfectly for my own life. I totally fall in potholes.',
-        'Drew Barrymore',
+    '93e719cd-7960-5823-b412-5a3c212bfa61' => [
+        'Life is a journey and it\'s about growing and changing and coming to terms with who and what you are and loving who and what you are.',
+        'Buddha',
     ],
-    [
-        'A warm smile is the universal language of kindness.',
-        'William Arthur Ward',
+    '58db5ca9-ed53-51d0-87dc-153057314bb5' => [
+        'Strength does not come from winning. Your struggles develop your strengths.',
+        'Arnold Schwarzenegger',
     ],
-    [
-        'Life is a series of waves to be embraced and overcome.',
-        'Albert Schweitzer',
+    'a640aa18-4694-5bbb-820e-8d53afbfb269' => [
+        'There is a very remarkable inclination in human nature to bestow on external objects the same emotions which it observes in itself, and to find every where those ideas which are most present to it.',
+        'David Hume',
     ],
-    [
-        'Since I\'m always working, my best holiday memories are definitely when I can just go home and spend time with my family.',
-        'Chris Brown',
+    '3b48695c-8a0c-5804-9919-8c1af6439d71' => [
+        'Life is not measured by the breaths you take, but by its breathtaking moments.',
+        'Michael Vance',
     ],
-    [
-        'If you violate Nature\'s laws you are your own prosecuting attorney, judge, jury, and hangman.',
-        'Luther Burbank',
+    'b3bee190-5dda-5f26-9714-335842bf848d' => [
+        'Honestly, it is not all about attitude; it is all about heart. You can have the attitude, you can have the swagger, you can talk your way, but it is all about heart.',
+        'Jason Pierre-Paul',
     ],
-    [
-        'I look at the NFL and see how the transition has gone at quarterback. I might be coming along at a good time. For me personally, this is about doing the same thing I\'ve been doing at USF - just smile, have fun, enjoy the experience, keep a positive attitude and encourage my teammates. I like to feed off the people around me.',
-        'B. J. Daniels',
+    'bc51d27a-7e32-5b43-bd5c-e2c7bcf952ac' => [
+        'When you believe in a thing, believe in it all the way, implicitly and unquestionable.',
+        'Walt Disney',
     ],
-    [
-        'Adopting a really positive attitude can work wonders to adding years to your life, a spring to your step, a sparkle to your eye, and all of that.',
-        'Christie Brinkley',
+    '0a56cbe7-0b72-5121-b23d-a4c829c53122' => [
+        'Life is change. Growth is optional. Choose wisely.',
+        'Karen Clark',
     ],
-    [
-        'A man\'s errors are his portals of discovery.',
-        'James Joyce',
+    '8f26e8a5-cb3e-5f11-a260-386a6ad5a96b' => [
+        'I go into it with the attitude that I\'m not going to look at my leg, and as soon as they get the wrapping off of it, I\'m like, \'I\'ve got to look.\' It\'s like yelling at a dog going, \'Squirrel!\' I cannot not look. And then I spend the rest of the time sitting there with a wet washcloth on my forehead trying to regain consciousness.',
+        'Tony Stewart',
     ],
-    [
-        'Creativity is a highfalutin word for the work I have to do between now and Tuesday.',
-        'Ray Kroc',
+    'e69608e9-ab92-539d-82a9-5369b00779be' => [
+        'Let\'s find those areas where modest and reasonable tax cuts will have the biggest positive impact on our economy, and which will improve the lives of those who need it most: working families, retirees, and small business owners.',
+        'Larry Hogan',
     ],
-    [
-        'When you have a great and difficult task, something perhaps almost impossible, if you only work a little at a time, every day a little, suddenly the work will finish itself.',
-        'Isak Dinesen',
+    '99b3d39d-8719-58b4-a435-5774f9f641df' => [
+        'How beautiful the leaves grow old. How full of light and color are their last days.',
+        'John Burroughs',
     ],
-    [
-        'In order to succeed you must fail, so that you know what not to do the next time.',
-        'Anthony J. D\'Angelo',
+    '25c986a5-4b3b-5265-9d83-2b547706f08e' => [
+        'Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.',
+        'John Holmes',
     ],
-    [
-        'There is nothing more corrupting, nothing more destructive of the noblest and finest feelings of our nature, than the exercise of unlimited power.',
-        'William Henry Harrison',
+    'd149536c-de84-5b12-b907-52805b3e0f93' => [
+        'There can be many reasons to travel, but wandering into the world for no particular reason is a sublime madness, which in all its whimsy and pointlessness may depict the story of life - and indeed could be a useful model to keep in mind, seeing as so much of life\'s ambition comes unstuck or leads to nothing much at all.',
+        'Michael Leunig',
     ],
-    [
-        'You miss 100% of the shots you don\'t take.',
-        'Wayne Gretzky',
+    '7de37f1d-ef23-5610-8b23-76540af11fd0' => [
+        'To enjoy enduring success we should travel a little in advance of the world.',
+        'John McDonald',
     ],
-    [
-        'Human nature is above all things lazy.',
-        'Harriet Beecher Stowe',
+    '8f8a51ce-dba2-544f-bd8d-b5e03caf9514' => [
+        'America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world.',
+        'Bill Frist',
     ],
-    [
-        'Life begins at the end of your comfort zone.',
-        'Reba McEntire',
+    'eac4b470-2b3c-5b78-b686-23e81207c24e' => [
+        'Clearly older women and especially older women who have led an active life or elder women who successfully maneuver through their own family life have so much to teach us about sharing, patience, and wisdom.',
+        'Alice Walker',
     ],
-    [
-        'I learn stuff from making music every time I go in the studio. I\'m continuing to try to find new ways to play in a song or be in a song and have a positive impact on a song.',
-        'Stone Gossard',
+    '20cba622-14a9-5503-b369-6e8c39fa1a12' => [
+        'It is the nature of babies to be in bliss.',
+        'Deepak Chopra',
     ],
-    [
-        'Mediocre men work at their best; men seeking excellence strive to do better.',
-        'Edwin Louis Cole',
+    'e60c2081-ac87-53aa-8d94-a4061f267961' => [
+        'One of the main lessons I have learned during my five years as Secretary-General is that broad partnerships are the key to solving broad challenges. When governments, the United Nations, businesses, philanthropies and civil society work hand-in-hand, we can achieve great things.',
+        'Ban Ki-moon',
     ],
-    [
-        'I like to make jokes; I consider myself a funny person. I just think making jokes about people who are in a situation beyond their control is not funny to them or their families.',
-        'Maria Shriver',
+    'c072a2b8-b193-527e-ab62-6e273489f43d' => [
+        'Be stubborn about your goals, and flexible about your methods.',
+        'Author Unknown',
     ],
-    [
-        'Inspiration does exist but it must find you working.',
-        'Pablo Picasso',
+    '22339586-8ce2-554d-add1-c0346b9320eb' => [
+        'My perfect weekend is going for a walk with my family in the park. I don\'t think there\'s anything better.',
+        'Anne Wojcicki',
     ],
-    [
-        'I never for a day gave up listening to the songs of our birds, or watching their peculiar habits, or delineating them in the best way I could.',
-        'John James Audubon',
+    '23a89c45-9aca-5f5c-ac89-4050ea5e6706' => [
+        'Our government shouldn\'t tell us where to travel and where not to travel.',
+        'Jeff Flake',
     ],
-    [
-        'Adrian Clayborn is somebody that relentlessly brings that attitude, energy, and toughness.',
-        'Dan Quinn',
+    '07a641f4-4701-5bbf-883f-98fee20bb7b9' => [
+        'They must often change, who would be constant in happiness or wisdom.',
+        'Confucius',
     ],
-    [
-        'Natural selection shaped the human brain to be drawn toward aspects of nature that enhance our survival and reproduction, like verdant landscapes and docile creatures. There is no payoff to getting the warm fuzzies in the presence of rats, snakes, mosquitoes, cockroaches, herpes simplex and the rabies virus.',
-        'Paul Bloom',
+    '36b7dc13-c1dc-5afc-adb7-5508f61c2c0f' => [
+        'Worrying is stupid. It\'s like walking around with an umbrella waiting for it to rain.',
+        'Wiz Khalifa',
     ],
-    [
-        'If I write a book where all I\'ve ever experienced is success, people won\'t take a positive lesson from it. In being candid, I have to own up to my own failures, both in my marriage and in my work environment.',
-        'Sonia Sotomayor',
+    '170a8506-b6f6-5023-8a29-f3195f4db101' => [
+        'Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.',
+        'Arthur Conan Doyle',
     ],
-    [
-        'The creation of a world view is the work of a generation rather than of an individual, but we each of us, for better or for worse, add our brick to the edifice.',
-        'John Dos Passos',
+    '533b52c4-ca44-50bd-8eee-1c287c2de09c' => [
+        'Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty. There is a way out of every dark mist, over a rainbow trail.',
+        'Robert Motherwell',
     ],
-    [
-        'The most important criterion is this: hire someone whose character and humility and attitude you would like to have reproduced in your church and in yourself.',
-        'John Ortberg',
+    '966a9bda-9021-54ed-bb26-8890691d6999' => [
+        'My work is not about \'form follows function,\' but \'form follows beauty\' or, even better, \'form follows feminine.\'',
+        'Oscar Niemeyer',
     ],
 ];

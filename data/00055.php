@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The greatest development is achieved during the first years of life, and therefore it is then that the greatest care should be taken. If this is done, then the child does not become a burden; he will reveal himself as the greatest marvel of nature.',
-        'Maria Montessori',
+    'e9a29501-41af-54a7-ab68-df0d99353e79' => [
+        'My grandchildren are fabulous and funny.',
+        'Erica Jong',
     ],
-    [
-        'I love grocery shopping when I\'m home. That\'s what makes me feel totally normal. I love both the idea of home as in being with my family and friends, and also the idea of exploration. I think those two are probably my great interests.',
-        'Yo-Yo Ma',
+    'd4699980-51c4-5687-9fb9-c0744f606ae9' => [
+        'I know Donald Trump. I\'ve met him; I know his family. I have love and friendship and affection for his family members. But I\'m going to work very hard to ensure that he is not our president.',
+        'Cory Booker',
     ],
-    [
-        'The glamour of twentieth-century air travel helped to persuade once-fearful travelers to take to the skies and encouraged parochial Americans to go out and see the world.',
-        'Virginia Postrel',
+    '06139fc2-8260-593b-bc24-85504ceb5c85' => [
+        'All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.',
+        'Immanuel Kant',
     ],
-    [
-        'Put your heart, mind, and soul into even your smallest acts. This is the secret of success.',
-        'Swami Sivananda',
+    '0f9dbb9b-37d6-5f29-a117-e92b74218390' => [
+        'Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it\'s no longer a mistake. If you remain stuck, you learn nothing.',
+        'Eckhart Tolle',
     ],
-    [
-        'We keep moving forward, opening new doors, and doing new things, because we\'re curious and curiosity keeps leading us down new paths.',
-        'Walt Disney',
+    '8658e7c6-d519-5bb7-8513-3c47815fd053' => [
+        'Never give up, for that is just the place and time that the tide will turn.',
+        'Harriet Beecher Stow',
     ],
-    [
-        'The trite saying that honesty is the best policy has met with the just criticism that honesty is not policy. The real honest man is honest from conviction of what is right, not from policy.',
-        'Robert E. Lee',
+    '09bc5676-e8bc-58f5-b1f0-a542d1f43b63' => [
+        'When you dance, your purpose is not to get to a certain place on the floor. It\'s to enjoy each step along the way.',
+        'Wayne Dyer',
     ],
-    [
-        'You wish to put a positive construction on your deeds and words.',
-        'Nigel Rees',
+    '69895758-6451-5300-bd14-0a21747e31b2' => [
+        'There\'s an easygoing nature that comes with a perspective of things that aren\'t as important as we make them sometimes.',
+        'Marguerite Moreau',
     ],
-    [
-        'Your attitude is like a box of crayons that color your world. Constantly color your picture gray, and your picture will always be bleak. Try adding some bright colors to the picture by including humor, and your picture begins to lighten up.',
-        'Allen Klein',
+    '2d99617b-685a-5e40-b97f-2cf7906cb8f1' => [
+        'Small deeds done are better than great deeds planned.',
+        'Peter Marshall',
     ],
-    [
-        'There\'s a certain beauty and majesty to Wimbledon. The elegance, the way the grass looks on TV.',
-        'John McEnroe',
+    '3565ad69-0f53-5c31-bb0c-2dc5b2ce3692' => [
+        'To ensure good health: eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.',
+        'William Londen',
     ],
-    [
-        'Refuse to be a lazy Christian, and resist a passive, apathetic attitude.',
-        'Joyce Meyer',
+    'e518dd42-e968-577d-9ee0-af7a5e4782e0' => [
+        'To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.',
+        'John Dewey',
     ],
-    [
-        'Who among us has never looked up into the heavens on a starlit night, lost in wonder at the vastness of space and the beauty of the stars?',
-        'Jeb Bush',
+    '7cbfb9e5-6c14-5cc2-bc9c-3058d4a307d9' => [
+        'I am blood type O-positive, which I remember by staying \'optimistic positive.\'',
+        'Michael Weatherly',
     ],
-    [
-        'I still love things that you don\'t even need to pay for. Going to the beach and being around five of your friends and having a good time means so much more than going out and spending hundreds of dollars.',
-        'Maria Sharapova',
+    '042b7936-c628-5d67-b883-277db354082d' => [
+        'All happy families resemble one another, each unhappy family is unhappy in its own way.',
+        'Leo Tolstoy',
     ],
-    [
-        'Don\'t go around saying the world owes you a living. The world owes you nothing. It was here first.',
-        'Mort Sahl',
+    '48ee2adc-4b04-5266-879a-d8825591596a' => [
+        'The only person who never makes mistakes is the person who never does anything.',
+        'Denis Waitley',
     ],
-    [
-        'Never ignore a gut feeling, but never believe that it\'s enough.',
-        'Robert Heller',
+    '554f1add-fb36-5678-a813-63ae18debcae' => [
+        'That which you create in beauty and goodness and truth lives on for all time to come. Don\'t spend your life accumulating material objects that will only turn to dust and ashes.',
+        'Denis Waitley',
     ],
-    [
-        'From 2002-2008, Planned Parenthood received $342 million in federal taxpayer money through Title X funding alone. With these funds, Planned Parenthood has provided women throughout the U.S. with important family planning and contraceptive services as well as screening for breast and cervical cancers for low-income women.',
-        'Lisa Murkowski',
+    'aad94f53-23ea-50d8-b879-b0807b101b18' => [
+        'Defeat is not the worst of failures. Not to have tried is the true failure.',
+        'George Edward Woodberry',
     ],
-    [
-        'If you\'re authentic, people smile because they sense there\'s a piece of themselves there.',
-        'Bonnie Hunt',
+    '8f5ac1c2-bad1-5ec0-9306-0fd70ab5fc64' => [
+        'I am a gentleman. My natural inclination is to be on my best behavior.',
+        'Joe Wilson',
     ],
-    [
-        'Time is money.',
-        'Benjamin Franklin',
+    '3ce40ffe-f73b-5527-9ffa-fc3cdd1dd99a' => [
+        'Textbook science is beautiful! Textbook science is comprehensible, unlike mere fascinating words that can never be truly beautiful. Elementary science textbooks describe simple theories, and simplicity is the core of scientific beauty. Fascinating words have no power, nor yet any meaning, without the math.',
+        'Eliezer Yudkowsky',
     ],
-    [
-        'I became a librarian at the Sainte-Genevieve Library in Paris. I made this gesture to rid myself of a certain milieu, a certain attitude, to have a clean conscience, but also to make a living. I was twenty-five. I had been told that one must make a living, and I believed it.',
-        'Marcel Duchamp',
+    'ccf75106-45b4-5305-9a31-fe1485c68db5' => [
+        'Sorrows gather around great souls as storms do around mountains; but, like them, they break the storm and purify the air of the plain beneath them.',
+        'Jean Paul',
     ],
-    [
-        'A man\'s friendships are one of the best measures of his worth.',
-        'Charles Darwin',
+    '1ea61985-c12f-57d5-9da6-43ba9df5651a' => [
+        'Time can be an ally or an enemy. What it becomes depends entirely upon you, your goals, and your determination to use every available minute.',
+        'Zig Ziglar',
     ],
-    [
-        'I am originally from Florida. So Thanksgiving was always something I really looked forward to, because I got to travel back home every year and see everyone all at once, around one big happy table.',
-        'Troy Gentile',
+    '1a710fe4-7f93-59b2-9c8b-64cee37d2811' => [
+        'What irritates me is the bland way people go around saying, \'Oh, our attitude has changed. We don\'t dislike these people any more.\' But by the strangest coincidence, they haven\'t taken away the injustice; the laws are still on the books.',
+        'Christopher Isherwood',
     ],
-    [
-        'Life is half spent before we know what it is.',
-        'Martha Graham',
+    'd99d445c-6d23-5f90-ac74-8784a90ae4f8' => [
+        'I have a lot of nieces and nephews. I was always around kids. I was like the family babysitter because I was the only one that wasn\'t married.',
+        'Doreen Cronin',
     ],
-    [
-        'It is best to rise from life as from a banquet, neither thirsty nor drunken.',
-        'Aristotle',
+    '8df7a629-dc60-5224-b97e-780f4e321c18' => [
+        'It\'s been proven by quite a few studies that plants are good for our psychological development. If you green an area, the rate of crime goes down. Torture victims begin to recover when they spend time outside in a garden with flowers. So we need them, in some deep psychological sense, which I don\'t suppose anybody really understands yet.',
+        'Jane Goodall',
     ],
-    [
-        'Natural ability is important, but you can go far without it if you have the focus, drive, desire and positive attitude.',
-        'Kirsten Sweetland',
+    'f4c46df5-375f-59b5-a21d-7b6545f03397' => [
+        'I think it\'s very important to have a feedback loop, where you\'re constantly thinking about what you\'ve done and how you could be doing it better. I think that\'s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.',
+        'Elon Musk',
     ],
-    [
-        'The golden moments in the stream of life rush past us, and we see nothing but sand; the angels come to visit us, and we only know them when they are gone.',
-        'Van Morrison',
+    'a297e69d-af97-51ae-b3f3-1c37e434e885' => [
+        'I\'m totally into new age and self-help books. I used to work in a bookstore and that\'s the section they gave me, and I got way into it. I just loved the power of positive thinking, letting yourself go.',
+        'Jason Mraz',
     ],
-    [
-        'Electrical science has revealed to us the true nature of light, has provided us with innumerable appliances and instruments of precision, and has thereby vastly added to the exactness of our knowledge.',
-        'Nikola Tesla',
+    '57b26ae2-2192-5e74-9b17-b31a52f7f713' => [
+        'My father\'s best friend, Georgie Terra, was an Italian guy. The children and the cousins and nieces and nephews were children of the Mafia. Those were the children he grew up with. If you want to go to a safe neighborhood, go to where the Mafia is.',
+        'Louis Gossett, Jr.',
     ],
 ];

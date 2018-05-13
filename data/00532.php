@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Those who find beauty in all of nature will find themselves at one with the secrets of life itself.',
-        'L. Wolfe Gilbert',
+    '70d25871-fd04-51ca-8798-da8730ae14b6' => [
+        'When I read things like the foundations of capitalism are shattering, I\'m like, maybe we need that. Maybe we need some time where we\'re walking around with a donkey with pots clanging on the sides.',
+        'Louis C. K.',
     ],
-    [
-        'I\'m opening up my heart to the idea of dating. It\'s funny - my friends would always come to me for romantic advice. I know nothing, and things have changed since I was dating in high school! I\'m really trying hard to spend this time working on myself.',
-        'Olivia Wilde',
+    '48c59b65-e14e-5c08-af87-7ca43314eb59' => [
+        'We never respect those who amuse us, however we may smile at their comic powers.',
+        'Marguerite Gardiner',
     ],
-    [
-        'You know you\'ve reached true success the day you become truly humble. That\'s the day you stop needing to prove to the world - and yourself - that you\'ve accomplished something meaningful.',
-        'Naveen Jain',
+    'a53da219-c930-5f78-bc9d-1ded03297d20' => [
+        'An investigator starts research in a new field with faith, a foggy idea, and a few wild experiments. Eventually the interplay of negative and positive results guides the work. By the time the research is completed, he or she knows how it should have been started and conducted.',
+        'Donald Cram',
     ],
-    [
-        'A diamond is just a piece of charcoal that handled stress exceptionally well.',
-        'Unknown',
+    'a8ce4dc7-cfdd-55c6-8498-56f611908d27' => [
+        'If one does not know to which port is sailing, no wind is favorable.',
+        'Seneca',
     ],
-    [
-        'I believe in Karma. If the good is sown, the good is collected. When positive things are made, that returns well.',
-        'Yannick Noah',
+    '08b7698d-e8c3-50c6-a8e5-952fdd7d83cf' => [
+        'My mother always called me an ugly weed, so I never was aware of anything until I was older. Plain girls should have someone telling them they are beautiful. Sometimes this works miracles.',
+        'Hedy Lamarr',
     ],
-    [
-        'He who knows best knows how little he knows.',
-        'Thomas Jefferson',
+    '4acdaaca-18e3-50e9-bb41-81c59b859b5e' => [
+        'While we see the course of the final abolition of human slavery is onward, &amp; we give it the aid of our prayers &amp; all justifiable means in our power, we must leave the progress as well as the result in his hands who sees the end; who chooses to work by slow influences; &amp; with whom two thousand years are but as a single day.',
+        'Robert E. Lee',
     ],
-    [
-        'Youth is the spirit of adventure and awakening. It is a time of physical emerging when the body attains the vigor and good health that may ignore the caution of temperance. Youth is a period of timelessness when the horizons of age seem too distant to be noticed.',
-        'Ezra Taft Benson',
+    'b78abff4-b864-5350-a692-4c32d37dc59d' => [
+        'Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.',
+        'Lao Tzu',
     ],
-    [
-        'Fortunately analysis is not the only way to resolve inner conflicts. Life itself still remains a very effective therapist.',
-        'Corrie Ten Boom',
+    'c9bf1427-78fa-5624-ac6f-002d631f6a9e' => [
+        'I always thought it would be funny to have the Parents Television Council write an episode of \'Family Guy\' and give them full creative control. Then see how good the episode is. That\'s something we\'ve actually discussed in the writers\' room. We haven\'t proposed it yet, but if somebody from the PTC reads this, it might be worth discussing.',
+        'Seth MacFarlane',
     ],
-    [
-        'If you can do what you do best and be happy, you\'re further along in life than most people.',
-        'Wendell Pierce',
+    '3129b721-2bd0-5c62-bddb-9d7cefbdaff4' => [
+        'Very few things are totally devoid of any possibility of humor. If you are aware of that possibility and alive to the scene becoming that way, then it just happens naturally. That\'s what I feel living is like, too. I find a lot of things that make me smile or make me laugh over the course of the day.',
+        'Tom Drury',
     ],
-    [
-        'The heart has its reasons which reason knows not of.',
-        'Blaise Pascal',
+    '298d47f9-dd3e-56eb-a567-b3e94a2ecbd9' => [
+        'Men must live and create. Live to the point of tears.',
+        'Albert Camus',
     ],
-    [
-        'The more light you allow within you, the brighter the world you live in will be.',
-        'Shakti Gawain',
+    'f7cb72b7-a6cf-50f3-b4dc-3472bee62ce2' => [
+        'The game of life is a lot like football. You have to tackle your problems, block your fears, and score your points when you get the opportunity.',
+        'Herman Cain',
     ],
-    [
-        'Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.',
-        'Robert C. Solomon',
+    '7973c143-2e77-5d2c-9c24-bc1b78a08de7' => [
+        'Stop saying these negative things about yourself. Look in the mirror and find something about yourself that\'s positive and celebrate that!',
+        'Tyra Banks',
     ],
-    [
-        'We are here to make another world.',
-        'W. Edwards Deming',
+    '53a4b7c7-b2f6-5e01-91f3-3cd8108c8797' => [
+        'How much do you as a consumer value a positive experience with a brand or its customer service department? How willing are you to share that with your friends? How inclined are you to let that person know that you\'re interaction with them was positive?',
+        'Simon Mainwaring',
     ],
-    [
-        'There\'s always the motivation of wanting to win. Everybody has that. But a champion needs, in his attitude, a motivation above and beyond winning.',
-        'Pat Riley',
+    'd4252339-b61c-544a-8795-af7b0a2021b8' => [
+        'Your belief determines your action and your action determines your results, but first you have to believe.',
+        'Mark Victor Hansen',
     ],
-    [
-        'Dad kept us out of school, but school comes and goes. Family is forever.',
-        'Charlie Sheen',
+    '4e09c349-ccbd-5c3e-a54d-0b8e5802b857' => [
+        'For as the eyes of bats are to the blaze of day, so is the reason in our soul to the things which are by nature most evident of all.',
+        'Aristotle',
     ],
-    [
-        'Better than a thousand hollow words is one word that brings peace.',
-        'Buddha',
+    '6b837fad-bfd2-5dd1-90cb-4635a74d284b' => [
+        'I actually used to smile a lot in pictures. I think I only stopped smiling when I got into fashion. Fashion stole my smile!',
+        'Victoria Beckham',
     ],
-    [
-        'Courtesy is a silver lining around the dark clouds of civilization; it is the best part of refinement and in many ways, an art of heroic beauty in the vast gallery of man\'s cruelty and baseness.',
-        'Bryant H. McGill',
+    '3ae89507-d485-53e2-a9ef-2bf1d11556ed' => [
+        'Success is the sweetest revenge.',
+        'Vanessa Williams',
     ],
-    [
-        'Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.',
-        'Coolio',
+    'd6f59e32-0a83-572d-8309-b8da951f0685' => [
+        'I grew up in a funny way.',
+        'Gordon Ramsay',
     ],
-    [
-        'When I was little, I didn\'t smile much. Don\'t get me wrong. I was a happy kid, but I couldn\'t stand the space, dead center, in between my teeth. Yeah, I could whistle through it, but so what? That didn\'t win me many points on the playground in Medfield, Massachusetts.',
-        'Uzo Aduba',
+    '4677e3a7-c783-5835-8ce1-fd32b90be3e7' => [
+        'Beauty is the first test: there is no permanent place in the world for ugly mathematics.',
+        'G. H. Hardy',
     ],
-    [
-        'Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.',
-        'Napoleon Hill',
+    '02ed2232-b202-5b25-a117-7358e7875732' => [
+        'The more I see of deer, the more I admire them as mountaineers. They make their way into the heart of the roughest solitudes with smooth reserve of strength, through dense belts of brush and forest encumbered with fallen trees and boulder piles, across canons, roaring streams, and snow-fields, ever showing forth beauty and courage.',
+        'John Muir',
     ],
-    [
-        'Every day we should hear at least one little song, read one good poem, see one exquisite picture, and, if possible, speak a few sensible words.',
-        'Johann Wolfgang von Goethe',
+    'ad1790c5-579b-54b5-9658-88b4861882e6' => [
+        'Invincibility lies in the defence; the possibility of victory in the attack.',
+        'Sun Tzu',
     ],
-    [
-        'Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!',
-        'Charlotte Gilman',
+    '35525516-e7a2-53c1-a5d6-f9c26501d16f' => [
+        'I always give Lindsay so much credit for her tennis game, for her attitude, for her person, and because of how she deals with all the things. I don\'t think people give her enough credit for how well she\'s doing.',
+        'Martina Hingis',
     ],
-    [
-        'I\'ve been on both sides: the victim and the villain. I was the victimised model, and everything from my weight to my fertility was held up for discussion. And then I was the person that could garner some kind of positive outcome, by taking on the role of vice chairman of the British Fashion Council and becoming an activist of body image.',
-        'Erin O\'Connor',
+    '39f03e3d-5618-5242-8b60-9600a8cceb3b' => [
+        'Self-preservation is the first law of nature.',
+        'Samuel Butler',
     ],
-    [
-        'I don\'t want to walk in the middle. I want people to read what I write and feel strongly about it. If, at some point, whatever I am doing is failing to elicit a response, whether it\'s very positive or very negative, then I am going to stop doing it.',
-        'James Frey',
+    'ea08c1b8-aaee-5798-9e5a-4c848a4269f6' => [
+        'I don\'t mean this in a stuck-up way, but I needed an attitude song.',
+        'Gwen Stefani',
     ],
-    [
-        'The best way to get anybody\'s attention is dinner. I have good kitchen skills and good grocery shopping skills.',
-        'Al Roker',
+    '2beaa628-3ba1-5307-8e84-7325190f61cc' => [
+        'I think writing is really about a journey of understanding. So you take something that seems very far away, and the more you write about it, the more you travel into it, and you see it from within.',
+        'Pico Iyer',
     ],
 ];

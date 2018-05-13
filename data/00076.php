@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I have moments where I feel incredibly ugly or fat, and it sucks, you know? I\'ll usually try to keep a positive attitude because I\'m really so grateful for where I am and the life I get to live, but I definitely have to work hard not to feel insecure.',
-        'Charlotte McKinney',
+    '75b21b22-6cc5-5475-aa11-e1ed6977694d' => [
+        'Human nature is potentially aggressive and destructive and potentially orderly and constructive.',
+        'Margaret Mead',
     ],
-    [
-        'Bjorn was a different breed, I threw my best material at him, but he would never smile, but that added to the charm when he played me and Mac. We were going nuts and losing our mind and he was sitting back like he was on a Sunday stroll.',
-        'Jimmy Connors',
+    '4dd56895-bdda-50e1-9ca2-a12625114d7e' => [
+        'The difficulty in life is the choice.',
+        'Emmy Rossum',
     ],
-    [
-        'I believe a leaf of grass is no less than the journey-work of the stars.',
-        'Walt Whitman',
+    '91756740-1eb8-5519-aae3-459a21698c99' => [
+        'The painter who is familiar with the nature of the sinews, muscles, and tendons, will know very well, in giving movement to a limb, how many and which sinews cause it; and which muscle, by swelling, causes the contraction of that sinew; and which sinews, expanded into the thinnest cartilage, surround and support the said muscle.',
+        'Leonardo da Vinci',
     ],
-    [
-        'As a cure for worrying, work is better than whiskey.',
-        'Ralph Waldo Emerson',
+    'd3fa7b80-4633-5723-8893-7f0600f01be7' => [
+        'It\'s very strange to go to cities like London and New York. People walk so quickly, they seem to be in a hurry all the time. And you don\'t say \'Hi\' to everyone you meet, and you don\'t smile to everyone you meet, because there\'s just so many. Which is also very strange.',
+        'Aurora',
     ],
-    [
-        'I write for no other purpose than to add to the beauty that now belongs to me. I write a book for no other reason than to add three or four hundred acres to my magnificent estate.',
-        'Jack London',
+    '68abcd58-2ee0-5c1b-9aff-16d59a1ab4f7' => [
+        'If a person gets his attitude toward money straight, it will help straighten out almost every other area in his life.',
+        'Billy Graham',
     ],
-    [
-        'Cute is when a person\'s personality shines through their looks. Like in the way they walk, every time you see them you just want to run up and hug them.',
-        'Natalie Portman',
+    '02078942-10b9-54aa-9abc-f64bb50a3cd7' => [
+        'I was one of those weird kids who didn\'t really speak or smile. I remember my teachers would call home and ask if everything was fine at home because I would never smile. Then I got into this phase, from maybe fourth to eighth grade, where my personality just did a 180.',
+        'Alessia Cara',
     ],
-    [
-        'Doing and making positive programming for young people is so important to me, and I will keep doing it.',
-        'Zendaya',
+    '0660f6f6-ad7e-59ba-8c61-c58975bd540a' => [
+        'Until the June 1967 war I was completely caught up in the life of a young professor of English. Beginning in 1968, I started to think, write, and travel as someone who felt himself to be directly involved in the renaissance of Palestinian life and politics.',
+        'Edward Said',
     ],
-    [
-        'Defeat is not the worst of failures. Not to have tried is the true failure.',
-        'George Edward Woodberry',
+    'd6b76168-304a-575e-bc7e-cea94331308b' => [
+        'Me carrying a briefcase is like a hotdog wearing earrings.',
+        'Sparky Anderson',
     ],
-    [
-        'Whenever I get fed up with life I love to go wandering in nature.',
-        'Andrea Arnold',
+    'e135ecbf-1812-5b54-9bc5-fb60d82f0584' => [
+        'The snow itself is lonely or, if you prefer, self-sufficient. There is no other time when the whole world seems composed of one thing and one thing only.',
+        'Joseph Wood Krutch',
     ],
-    [
-        'Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you.',
-        'Saint Augustine',
+    '1cab86eb-44b5-56a7-ae07-bfd9efb60cef' => [
+        'We\'re in a situation where talented, motivated school leavers and graduates can send off a hundred CVs and not get a reply, and where a trip to the Job Centre is depressing rather than inspirational. And you know what, that just feels wrong.',
+        'Jameela Jamil',
     ],
-    [
-        'One of the luckiest things that can happen to you in life is, I think, to have a happy childhood.',
-        'Michael Korda',
+    '2b3409e3-78a1-5d4d-a5cb-95204873bf97' => [
+        'It\'s easier to see the mistakes on someone else\'s paper.',
+        'Unknown',
     ],
-    [
-        'Right now, I\'m following the Buddhist principle: Smile as abuse is hurled your way and this too shall pass.',
-        'Aishwarya Rai Bachchan',
+    '00eab664-2fde-51ae-8394-962823b93282' => [
+        'Progress might have been alright once, but it has gone on too long.',
+        'Ogden Nash',
     ],
-    [
-        'I think people feel threatened by homosexuality. The problem isn\'t about gay people, the problem is about the attitude towards gay people. People think that all gays are Hannibal Lecters. But gay people are sons and daughters, politicians and doctors, American heroes and daughters of American heroes.',
-        'Hollis Stacy',
+    '439c220f-e510-51b3-9273-f5fbb5d7add0' => [
+        'Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.',
+        'Og Mandino',
     ],
-    [
-        'Growing up around Amish farmland, I enjoyed the opportunity to witness firsthand their love of family, of the domestic arts - sewing, quilting, cooking, baking - as well as seeing them live out their tradition of faith in such a unique way.',
-        'Beverly Lewis',
+    'cc5b54e0-8c0f-5577-a7ce-f0190c0c51b4' => [
+        'Simply enjoy life and the great pleasures that come with it.',
+        'Norman Ralph Augustine',
     ],
-    [
-        'The future is completely open, and we are writing it moment to moment.',
-        'Pema Chodron',
+    'c473ca77-08aa-5348-ad31-1c3ab1bd48f1' => [
+        'Who will tell whether one happy moment of love or the joy of breathing or walking on a bright morning and smelling the fresh air, is not worth all the suffering and effort which life implies.',
+        'Muhammad Iqbal',
     ],
-    [
-        'I\'m real. I believe what I\'m saying. If Motel 6 wasn\'t the type of operation they say it is - and I stay at them when I travel - I wouldn\'t do their commercials. That comes through on the radio, and that\'s what it\'s all about.',
-        'Tom Bodett',
+    '24754373-25f8-5ad5-8912-66eb7b46a24f' => [
+        'I firmly believe that success lies in the combination of both talent and business savvy, and that the magic comes through partnership between both.',
+        'Delphine Arnault',
     ],
-    [
-        'The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.',
+    '2cf29845-1e18-550b-a5fa-f694cd02f37b' => [
+        'When I look out at the people and they look at me and they\'re smiling, then I know that I\'m loved. That is the time when I have no worries, no problems.',
+        'Etta James',
+    ],
+    'ca1a4451-f8f7-589c-9568-8a8cffc70a37' => [
+        'The measure of who we are is what we do with what we have.',
         'Vince Lombardi',
     ],
-    [
-        'Rehab is one thing, but it takes years to get that attitude adjustment.',
-        'Johnny Colt',
+    '8ccc8739-6f25-5cd9-a5d1-a6801d1ee77e' => [
+        'The aim of life is self-development. To realize ones nature perfectly, that is what each of us is here for.',
+        'Oscar Wilde',
     ],
-    [
-        'Every year, I travel extensively in the autumn and the spring. I set most of the winter and summer aside for my family and my own tribal relatives. But during that traveling time, I often find myself visiting other native communities around the continent - perhaps a dozen or more each year.',
-        'Joseph Bruchac',
+    '28e5b2b6-1c56-5e4f-ae22-c34da33115bf' => [
+        'For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.',
+        'Richard P. Feynman',
     ],
-    [
-        'No matter where I travel, I make sure to carry a Vaseline body lotion with me to keep my skin well moisturised all the time.',
-        'Nargis Fakhri',
+    '11ab531f-73c0-5640-91b7-c34d79719bac' => [
+        'Believe me, I do not like idleness but work.',
+        'Wolfgang Amadeus Mozart',
     ],
-    [
-        'Touring is tough. You\'re almost in a haze because you don\'t really know where you are half the time: You\'re in a hotel room one moment, and the next thing you know, you\'re onstage performing for 60,000 people, then you\'re back on an airplane. It\'s very hectic and I couldn\'t do it without my family.',
-        'Vanessa Hudgens',
+    'f4dd477f-a358-5944-a7c2-af169b9200ec' => [
+        'My mom has made it possible for me to be who I am. Our family is everything. Her greatest skill was encouraging me to find my own person and own independence.',
+        'Charlize Theron',
     ],
-    [
-        'Little children are still the symbol of the eternal marriage between love and duty.',
-        'George Eliot',
+    '0c3b8e38-b8d7-55db-a1db-c70d6ff75df8' => [
+        'I walk slowly, but I never walk backward.',
+        'Abraham Lincoln',
     ],
-    [
-        'I don\'t have any office; I can write everywhere. So, I put a piece of paper on the table, and then I travel. Literally, writing for me is like travelling. It\'s getting out of myself and living another life - maybe a better life.',
-        'J. M. G. Le Clezio',
+    '5f8e010f-c63e-5d44-aacd-fe19f056864b' => [
+        'Post-operatively the transplanted kidney functioned immediately with a dramatic improvement in the patient\'s renal and cardiopulmonary status. This spectacular success was a clear demonstration that organ transplantation could be life-saving.',
+        'Joseph Murray',
     ],
-    [
-        'Forgiveness is a way of opening up the doors again and moving forward, whether it\'s a personal life or a national life.',
-        'Albert Einstein',
-    ],
-    [
-        'Some people have no respect whether you are with your family or not. That\'s the hardest part. I was shopping in a grocery store in Seattle looking for stuff for Nicholas. This guy kept following me with his cell phone video on.',
-        'Joe Montana',
+    '1c2fb10f-2d5e-5d8f-8630-83f300690647' => [
+        'Your outlook on life is a direct reflection on how much you like yourself.',
+        'Lululemon',
     ],
 ];

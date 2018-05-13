@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'As I wrote, I found that Aibileen had some things to say that really weren\'t in her character. She was older, soft-spoken, and she started showing some attitude.',
-        'Kathryn Stockett',
+    '77751499-a328-5ce1-8319-08f247159de6' => [
+        'Our deeds still travel with us from afar, and what we have been makes us what we are.',
+        'George Eliot',
     ],
-    [
-        'Success is a state of mind. If you want success, start thinking of yourself as a success.',
-        'Joyce Brothers',
+    'ef2a43ee-ccc6-5459-b85d-5cc778be3e1b' => [
+        'Now, therefore, the Directors of the company are hereby ordered to see that precautions are taken to make travel on said railroad perfectly safe by using a screw with at least twenty-four inches diameter.',
+        'Joshua A. Norton',
     ],
-    [
-        'Beauty is merciless. You do not look at it, it looks at you and does not forgive.',
-        'Nikos Kazantzakis',
+    '9ff12399-16d9-585d-bac8-63fcb7881b96' => [
+        'I am odd-looking. I sometimes think I look like a funny Muppet.',
+        'Angelina Jolie',
     ],
-    [
-        'Writing is hard work: it is like doing homework for the rest of your life. You are always chipping away at it.',
-        'John Lutz',
+    'f001faf2-bd11-5098-9ab0-ac887fdf363a' => [
+        'You learn so much about yourself as an artist. I never would have thought that I could sing every night, you know? Travel and perform every single night, and travel to another city the next day and do it all over again? You learn a lot of new things about yourself, and you make a lot of connections with people.',
+        'Yuna',
     ],
-    [
-        'If in my youth I had realized that the sustaining splendour of beauty of with which I was in love would one day flood back into my heart, there to ignite a flame that would torture me without end, how gladly would I have put out the light in my eyes.',
-        'Michelangelo',
+    '76aa2b0c-c54b-5163-8549-436da96b70d2' => [
+        'When you start hiding things away, that\'s when the darkness creeps up. Sunlight is the best disinfectant.',
+        'Steve Kazee',
     ],
-    [
-        'You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.',
-        'Catherine Pulsifer',
+    '211d021c-478d-5866-9aff-d85de5468d6a' => [
+        'Jordan has a strange, haunting beauty and a sense of timelessness. Dotted with the ruins of empires once great, it is the last resort of yesterday in the world of tomorrow. I love every inch of it.',
+        'Hussein of Jordan',
     ],
-    [
-        'In a great many stories that deal with time travel, there\'s usually somebody who knows how time travel works. They lay out the rules.',
-        'Diana Galbadon',
+    '92e52044-022a-5d8f-8ceb-9d0e0b37323f' => [
+        'Do what you feel in your heart to be right, for you\'ll be criticized anyway.',
+        'Eleanor Roosevelt.',
     ],
-    [
-        'Have you not noticed that love is silence? It may be while holding the hand of another, or looking lovingly at a child, or taking in the beauty of an evening. Love has no past or future, and so it is with this extraordinary state of silence.',
-        'Jiddu Krishnamurti',
+    'a5bc8001-6d50-5b0c-b04b-922f37ea5628' => [
+        'I\'m thankful for each and every day. We never know when time is up.',
+        'Chuck Berry',
     ],
-    [
-        'For me, fragrances are very - one of these beautiful art forms that bring about a whole host of things. It\'s what you want to smell like, it\'s memories that make you smile or are resonant of times in your life, it can remind you of music. If you\'re a lover of scent, it\'s a very kind of particular and evocative thing.',
-        'Chris Pine',
+    'ecb705e8-256c-57ca-8f77-c1f2aaf8a44d' => [
+        'Maybe it\'s stress or anger or adrenaline or disillusionment or a bullying nature or simple fear of getting killed themselves, but there is a problem if a cop cannot tell the difference between a menacing gangster and the far more common person they encounter whose life is a little frayed and messy.',
+        'David Horsey',
     ],
-    [
-        'After two weeks of working on a project, you know whether it will work or not.',
-        'Bill Budge',
+    '9a788866-0aff-5607-9c43-812271657c03' => [
+        'If you do what you always did, you will get what you always got.',
+        'Unknown',
     ],
-    [
-        'Inside, I\'ve got a real purist desire and dream about the music. I like the idea of being able to carve out a kind of magical, colourful, artistic, inspirational life. And the reality just turns out to be quite different, working with the business to bring this thing you have created into the world.',
-        'Damien Rice',
+    'c23296f9-0c12-5b37-9c6b-b50bfb2cdad3' => [
+        'When you believe something can be done, really believe, your mind will find ways to do it.',
+        'Dr. David Schwartz',
     ],
-    [
-        'Poor leaders motivate those following them with false promises of promotions, success, and a great tomorrow but rarely deliver on those promises. Leaders who do this can be manipulative and often hold the goals and aspirations of their followers hostage in order to get them to comply.',
-        'Lewis Howes',
+    '60360f20-387d-5cbf-aad5-0f51c440bfdc' => [
+        'The best revenge in the world is success.',
+        'Suge Knight',
     ],
-    [
-        'Everything family does is reflection on the other people.',
-        'Kim Kardashian',
+    '96faec8f-f09f-5d76-95ab-8cc27cfe257c' => [
+        'The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.',
+        'H. Bertram Lewis',
     ],
-    [
-        'Success is an absurd, erratic thing. She arrives when one least expects her and after she has come may depart again almost because of a whim.',
-        'Alice Foote MacDougall',
+    'ab2c6ec5-eb11-5f19-a52f-dd844ca505b3' => [
+        'I think that\'s a great opportunity, to pick a script where you can build up a good skill. I think the main thing I look for when I look at scripts is if it\'s inspirational. If it\'s something that teenagers can relate to. And is it something that the audience is going to get something out of. If not, then it\'s really not worth doing.',
+        'Carly Schroeder',
     ],
-    [
-        'I play video games a lot... I love to read... I enjoy spending time with my husband and daughter, who are my most favorite people in the world.',
-        'Lea Salonga',
+    'b7fc24b8-b6a9-5b96-895f-0b1def4f3fce' => [
+        'Until 1914 I loved to travel; I often went to Italy and once spent a few months in India. Since then I have almost entirely abandoned travelling, and I have not been outside of Switzerland for over ten years.',
+        'Herman Hesse',
     ],
-    [
-        'You can\'t have a better tomorrow if you are thinking about yesterday all the time.',
-        'Charles Kettering',
+    'ef7f7b5d-6d2d-5160-8e2c-90941a85c1e7' => [
+        'We were a family that made our Halloween costumes. Or, more accurately, my mother made them. She took no suggestions or advice. Halloween costumes were her territory. She was the brain behind my brother\'s winning girl costume, stuffing her own bra with newspapers for him to wear under a cashmere sweater and smearing red lipstick on his lips.',
+        'Ann Hood',
     ],
-    [
-        'I don\'t like the way young people write and talk about the old. I don\'t like their attitude, which, if they weren\'t young and therefore bright and vibrant, would be called outdated.',
-        'Ruth Rendell',
+    'ce5f1f51-fe93-510a-b137-1a83792aba84' => [
+        'I would travel only by horse, if I had the choice.',
+        'Linda McCartney',
     ],
-    [
-        'It is not the going out of port, but the coming in, that determines the success of a voyage.',
-        'Henry Ward Beecher',
+    '37ca4f94-0c76-56cd-8e51-9d1bc2466411' => [
+        'If you meet a woman in a burqa, she can\'t reply to your smile. It\'s a denial of identity.',
+        'Jean-Francois Cope',
     ],
-    [
-        'In the long run, I believe that honesty is definitely the best policy. One can get away by being dishonest for a short term, but ultimately, honesty is what pays.',
-        'Kapil Dev',
+    '5d21d32a-1cf8-583d-a294-29ade98e74d0' => [
+        'Swift speedy time, feathered with flying hours, Dissolves the beauty of the fairest brow.',
+        'Philip Stanhope, 4th Earl of Chesterfield',
     ],
-    [
-        'The reactionary is always willing to take a progressive attitude on any issue that is dead.',
-        'Theodore Roosevelt',
+    '2ba651db-a72a-5a8d-9bf2-17ed7c11ed6e' => [
+        'I travel to Cambodia, Thailand, Bali, and Nairobi for my charities: Somaly Mam and Friends to Mankind.',
+        'Serinda Swan',
     ],
-    [
-        'Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.',
-        'Leo Aikman',
+    '7c36b7dc-f007-5206-80be-ebe22b9aff51' => [
+        'Leave your ego at the door every morning, and just do some truly great work. Few things will make you feel better than a job brilliantly done.',
+        'Robin S. Sharma',
     ],
-    [
-        'Two famous happy warriors - Reagan and his political soulmate, British Prime Minister Margaret Thatcher - knew they were fighting their own ideological and external wars. But they did so with the sunny dispositions and positive outlooks of those who knew they were on the right side of history.',
-        'Monica Crowley',
+    '6afe60f9-33ef-5a96-9c80-2eec0ddcdcac' => [
+        'I surround myself with positive, productive people of good will and decency.',
+        'Ted Nugent',
     ],
-    [
-        'Do not pray for easy lives. Pray to be stronger men.',
-        'John F. Kennedy',
+    '342da2c7-30d8-56a1-b887-c8fe958212c8' => [
+        'Any time I have any time off, I try to travel.',
+        'Margot Robbie',
     ],
-    [
-        'At a book festival in Fort Lauderdale, I met David Eisenhower, Ike\'s grandson, who was promoting his book \'Going Home to Glory: A Memoir of Life with Dwight D. Eisenhower,\' in which he describes attending the Yankees\' 154th game in 1961. The whole family had been following Mantle and Maris chase Babe Ruth\'s home run record across the country.',
-        'Jane Leavy',
+    'a2575f72-2834-5d33-b447-a2f3cfe07cce' => [
+        'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
+        'Anatole France',
     ],
-    [
-        'The work environment is very important in determining how enjoyable work is. It is very important to work with smart guys who have a superior level of intellectual bandwidth and still have softer skills as well.',
-        'Kumar Mangalam Birla',
+    '9ed3e657-ece0-5827-8ee2-f8f8e0f73ebf' => [
+        'My scientific studies have afforded me great gratification; and I am convinced that it will not be long before the whole world acknowledges the results of my work.',
+        'Gregor Mendel',
     ],
 ];

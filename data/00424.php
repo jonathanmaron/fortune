@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Difficulties increase the nearer we get to the goal.',
-        'Johann Wolfgang von Goethe',
+    'a962606e-966a-564f-bfb6-345de785c7c3' => [
+        'The whole point about laughter is it\'s like mercury: you can\'t catch it, you can\'t catch what motivates it - that\'s why it\'s funny.',
+        'Mike Nichols',
     ],
-    [
-        'Everything that irritates us about others can lead us to an understanding of ourselves.',
-        'Carl Jung',
+    '9585c9a0-287d-5aad-8fb3-920091be7d46' => [
+        'Laugh and the world laughs with you, snore and you sleep alone.',
+        'Anthony Burgess',
     ],
-    [
-        'As cheesy as it sounds, nothing beats a smile and a bit of confidence! As long as you feel good on the inside, you can still look beautiful without any makeup at all.',
-        'Zoe Sugg',
+    '845a5176-3abd-5707-8a98-4499661ddaa2' => [
+        'I take great pride in all the tremendous success we\'ve enjoyed at CBS. And the good news is that I feel even more enthusiastic about what my terrific team and I will accomplish going forward.',
+        'Leslie Moonves',
     ],
-    [
-        'Life could be wonderful if people would leave you alone.',
-        'Travis Bradberry',
+    'dfdfb804-614e-553a-8bc3-723251abfda5' => [
+        'I think that it\'s when we step out of the road, step outside the box, become our own person, and we walk fearlessly down paths other people wouldn\'t look at, that true progress comes. And sometimes true beauty as well.',
+        'John McAfee',
     ],
-    [
-        'You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.',
-        'Zig Ziglar',
+    'c68e94ed-3588-54e4-8ee0-0f173577084b' => [
+        'The true nature of evil is that it is so very casual.',
+        'James St. James',
     ],
-    [
-        'I travel all the time, but when I come back to the South, I see such progress. In a real sense, a great deal of the South has been redeemed. People feel freer, more complete, more whole, because of what happened in the movement.',
-        'John Lewis',
+    'fb5a5ccf-2f25-5f7a-96f3-907a2649780a' => [
+        'Life is like an onion. You peel it off one layer at a time, and sometimes you weep.',
+        'Carl Sandburg',
     ],
-    [
-        'Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no help at all.',
-        'Dale Carnegie',
+    '19537e87-27fa-5825-b2b6-15596d0aadae' => [
+        'Reality does not conform to the ideal, but confirms it.',
+        'Gustave Flaubert',
     ],
-    [
-        'Excellence can be obtained if you care more than others think is wise, risk more than others think is safe, dream more than others think is practical, expect more than others think is possible.',
-        'Unknown',
+    '5edaf063-4629-5e69-9178-4ad869efa2b3' => [
+        'And, in a funny way, each death is different and you mourn each death differently and each death brings back the death you mourned earlier and you get into a bit of a pile-up.',
+        'Nigella Lawson',
     ],
-    [
-        'The statistics on sanity are that one out of every four Americans is suffering from some form of mental illness. Think of your three best friends. If they\'re okay, then it\'s you.',
-        'Rita Mae Brown',
+    '39ec4ffb-d416-535d-9091-c3ea4899e83c' => [
+        'If I were a liberal Democrat, people would say I\'m the super genius of all time. The super genius of all time. If you\'re a conservative Republican, you\'ve got to fight for your life. It\'s really an amazing thing.',
+        'Donald Trump',
     ],
-    [
-        'Arrogance, ignorance, and incompetence. Not a pretty cocktail of personality traits in the best of situations. No sirree. Not a pretty cocktail in an office-mate and not a pretty cocktail in a head of state. In fact, in a leader, it\'s a lethal cocktail.',
-        'Graydon Carter',
-    ],
-    [
-        'People have to work to maintain happiness. It\'s easy to be miserable. It\'s easy to stay miserable. It\'s easy to live in a place where nothing\'s working and not being able to work your way out of it. It\'s much harder to choose happiness, to choose laughter, to choose a positive.',
-        'Tituss Burgess',
-    ],
-    [
-        'I am little concerned with beauty or perfection. I don\'t care for the great centuries. All I care about is life, struggle, intensity.',
-        'Emile Zola',
-    ],
-    [
-        'Vitality shows in not only the ability to persist but the ability to start over.',
-        'F. Scott Fitzgerald',
-    ],
-    [
-        'There are no secrets that time does not reveal.',
-        'Jean Racine',
-    ],
-    [
-        'I had written two or three books before my husband noticed that in every one of them a family member was missing. He suggested that it was because my father\'s death, when I was five, utterly changed my world. I can only suppose he is right and that this is the reason I am drawn to a narrative where someone\'s life is changed by loss.',
-        'Jenny Nimmo',
-    ],
-    [
-        'The human mind is capable of excitement without the application of gross and violent stimulants; and he must have a very faint perception of its beauty and dignity who does not know this.',
-        'William Wordsworth',
-    ],
-    [
-        'I realized that food was actually a metaphor for bringing us all together. It\'s about us communicating and being like family.',
-        'George Tillman, Jr.',
-    ],
-    [
-        'For me, music makes my smile brighter during my workouts. It adds that extra something that motivates me to go further or work harder!',
-        'Summer Sanders',
-    ],
-    [
-        'Our many different cultures notwithstanding, there\'s something about the holidays that makes the planet communal. Even nations that do not celebrate Christmas can\'t help but be caught up in the collective spirit of their neighbors, as twinkling lights dot the landscape and carols fill the air. It\'s an inspiring time of the year.',
-        'Marlo Thomas',
-    ],
-    [
-        'Because of its phantom nature, and despite elaborate defense mechanisms, the ego is very vulnerable and insecure, and it sees itself as constantly under threat. This, by the way, is the case even if the ego is outwardly very confident.',
+    '534ded9b-6c25-5c1a-8c73-0c83b8ed2a94' => [
+        'If we went by the world\'s definition of who I\'m supposed to be because I look weird... \'Well, surely, this guy can\'t have a productive life, surely, he doesn\'t have a sense of humor. Surely, he can\'t love life.\' We stereotype people in this world. And so... if the world thinks you\'re not good enough, it\'s a lie, you know. Get a second opinion.',
         'Eckhart Tolle',
     ],
-    [
-        'My dad was a very quiet person, and unbelievably tough. But my grandmother gave me my first look at negative thinking to bring about positive results. When I was just a little guy, anytime I came to my grandmother and said I wish for this or that, Grandma would say, \'If wishes were horses, beggars would ride.\'',
-        'Bobby Knight',
+    '405d7317-8746-504a-aa3e-cae8a2ecf810' => [
+        'Beauty shouldn\'t be superficial and should come from within, and your eyes will tell the story.',
+        'Michelle Yeoh',
     ],
-    [
-        'I always have a funny story at communion time that underscores that no one is perfect, and that communion is not for perfect people but for hungry people.',
-        'Greg Boyle',
+    '17198614-8743-5c34-8be3-753b0663e759' => [
+        'My success is the team\'s success. It\'s one of those things to a certain degree that it\'s effort and ability but also how I benefit from what my teammates do, and then it is up to me to perform.',
+        'Jason Babin',
     ],
-    [
-        'Everything in life is luck.',
-        'Jennifer Love Hewitt',
+    'd715c2a0-e7f4-5cf3-85e3-f4eebd1adf23' => [
+        'I\'d like to grow up and be beautiful. I know it doesn\'t matter, but it doesn\'t hurt.',
+        'Kirsten Dunst',
     ],
-    [
-        'Any fact facing us is not as important as our attitude toward it, for that determines our success or failure. The way you think about a fact may defeat you before you ever do anything about it. You are overcome by the fact because you think you are.',
-        'Norman Vincent Peale',
+    '01042e5e-e718-5de9-bfee-aa9abf9a2e5e' => [
+        'People like to be around those who give off positive energy.',
+        'Erin Heatherton',
     ],
-    [
-        'To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.',
-        'Confucius',
+    'f479adbb-0b9c-53da-9e65-a07c6f417a79' => [
+        'I was lucky to have such a loving, crazy family. I learned to give and share.',
+        'Leo Buscaglia',
+    ],
+    'eab5f732-ed8a-5804-8285-bf399c9dc696' => [
+        'Life can only be understood backwards; but it must be lived forwards.',
+        'William Hazlitt',
+    ],
+    '2b5a2ab3-a2c4-53d2-a782-d64d8bb6dc04' => [
+        'It\'s very difficult to think that you\'re with someone that you know, and all of a sudden you don\'t know them: it turns out that they betray you. It\'s painful, but it\'s best to turn the page.',
+        'Shakira',
+    ],
+    '8d53b453-0133-5600-b8db-ece899e23299' => [
+        'Sarcasm helps me overcome the harshness of the reality we live, eases the pain of scars and makes people smile.',
+        'Mahmoud Darwish',
+    ],
+    '86ed8f5a-c8ac-5c20-9016-486eb425979b' => [
+        'Nature is inside art as its content, not outside as its model.',
+        'Marilyn French',
+    ],
+    '134a7bce-0a30-5ec2-a5d6-772c7fc3fb61' => [
+        'You only live once, but if you do it right, once is enough.',
+        'Mae West',
+    ],
+    '6bc7ee2b-ab9e-5446-a2e7-fb09c07c3238' => [
+        'God has already done everything He\'s going to do. The ball is now in your court. If you want success, if you want wisdom, if you want to be prosperous and healthy, you\'re going to have to do more than meditate and believe; you must boldly declare words of faith and victory over yourself and your family.',
+        'Joel Osteen',
+    ],
+    '929a157a-d29d-51f2-a57b-ffcc65739255' => [
+        'They say Yogi Berra is funny. Well, he has a lovely wife and family, a beautiful home, money in the bank, and he plays golf with millionaires. What\'s funny about that?',
+        'Casey Stengel',
+    ],
+    'c46edbe5-c29e-5dda-bf48-9ccc8fee5a42' => [
+        'When I started Giorgio Armani in the mid-\'70s, I realized that women needed a way to dress that was equivalent to that of men - something that would give them dignity, an attitude that would help them handle their work life.',
+        'Giorgio Armani',
+    ],
+    'ce385f02-1da4-5b30-9e25-9999d5f93cf1' => [
+        'Learning to celebrate success is a key component of learning how to win in the market.',
+        'Douglas Conant',
+    ],
+    'd1d08013-3a0d-5457-a16c-2096a70d16a1' => [
+        'Country music has become the music that best represents the reality of American life.',
+        'Brad Paisley',
     ],
 ];

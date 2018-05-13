@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I have so much chaos in my life, it\'s become normal. You become used to it. You have to just relax, calm down, take a deep breath and try to see how you can make things work rather than complain about how they\'re wrong.',
-        'Tom Welling',
+    '46deb437-f4e2-5121-824b-eca7267e8f9f' => [
+        'Friends are those rare people who ask how we are and then wait to hear the answer.',
+        'Ed Cunningham',
     ],
-    [
-        'I have had wrinkles on my forehead and my smile line since I was a kid. I see them in my own kids. I know what they\'re going to look like. So it\'s kind of like that\'s my personality. I feel the older you get, too, the more confident you become just in your own skin.',
-        'Faith Hill',
+    '29e38f1c-b6e0-5449-8f88-5b5e69fe3be7' => [
+        'The one thing you shouldn\'t do is try to tell a cab driver how to get somewhere.',
+        'Jimmy Fallon',
     ],
-    [
-        'Only those who will risk going too far can possibly find out how far it is possible to go.',
-        'TS Eliot',
+    '96311305-3d0f-52e8-8119-2324011a81c1' => [
+        'The pursuit, even of the best things, ought to be calm and tranquil.',
+        'Marcus Tullius Cicero',
     ],
-    [
-        'When you rise in the morning, give thanks for the light, for your life, for your strength. Give thanks for your food and for the joy of living. If you see no reason to give thanks, the fault lies in yourself.',
-        'Leo Buscaglia',
+    'b04abef4-3c8b-55c5-b3f5-0117b5e8f79d' => [
+        'By making college unaffordable and student loans unbearable, we risk deterring our best and brightest from pursuing higher education and securing a good-paying job.',
+        'Mark Pocan',
     ],
-    [
-        'When you do good work, people will notice you.',
-        'Ram Kapoor',
+    'caf58b7c-56ca-503d-8f90-9bfdeb69d99a' => [
+        'The novelist teaches the reader to comprehend the world as a question. There is wisdom and tolerance in that attitude. In a world built on sacrosanct certainties the novel is dead.',
+        'Milan Kundera',
     ],
-    [
-        'Nothing is impossible, the word itself says \'I\'m possible\'!',
-        'Audrey Hepburn',
+    'b5fd7b67-716c-5493-ac65-e0b8f91377a8' => [
+        'When everything happens to you when you\'re so young, you\'re very lucky, but by the same token, you\'re never going to have that same feeling again. The first time anything happens to you - your first love, your first success - the second one is never the same.',
+        'Lauren Bacall',
     ],
-    [
-        "BE STRONG\nYou never know who you are inspiring",
+    '64870551-1ae2-57e0-b1e9-37d3b0f11f0e' => [
+        'Any revolutionary change must be preceded by a passive, affirmative, non-challenging attitude toward change among the mass of our people. They must feel so frustrated, so defeated, so lost, so futureless in the prevailing system that they are willing to let go of the past and chance the future.',
+        'Saul Alinsky',
+    ],
+    '694d0186-ed0e-5e74-9b69-d6cad30cdf72' => [
+        'What should I have known or written had I been a quiet, mercantile politician or a lord in waiting? A man must travel, and turmoil, or there is no existence.',
+        'Lord Byron',
+    ],
+    '71ab878c-6671-5fee-95e1-c92431fcce0c' => [
+        'I used to wear a lot of red lipstick, and when I got a pimple, I\'d cover it up with eyeliner to turn it into a beauty mark.',
+        'Selma Blair',
+    ],
+    'e1d77148-b9a7-5106-b9cf-304fa0b37db5' => [
+        'No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.',
+        'Helen Keller',
+    ],
+    'a8b62f25-e860-557c-b5af-49373786d90c' => [
+        'All the privileged can travel, see different worlds; not everyone can. I think it is important for people to have an interesting locale nearby.',
+        'Zaha Hadid',
+    ],
+    'b4acadb2-d357-5473-bd35-8e3a8919ad28' => [
+        'Silence is a true friend who never betrays.',
+        'Confucius',
+    ],
+    '7d01c1d9-1fe0-53f6-b4e1-d3e49b82b22e' => [
+        'I\'ll stick to finding the funny in the ordinary because my life is pretty ordinary and so are the lives of my friends - and my friends are hilarious.',
+        'Issa Rae',
+    ],
+    '409345ae-103f-58be-9ef0-f9ea2ee2d5bf' => [
+        'Especially as a title-holder, you can do great things with charities, because people suddenly care about what you have to say. I wanted to make a difference, which is why I created the Queen of the Universe pageant. I want to change all of those stigmas in the beauty pageant world.',
+        'Joyce Giraud',
+    ],
+    'd5ab6c17-23c1-57cb-ab8a-30e3b8fc1ea6' => [
+        'That the sea is one of the most beautiful and magnificent sights in Nature, all admit.',
+        'John Joly',
+    ],
+    'df929353-1fc2-5fe9-8308-55f66f55d5f3' => [
+        'It\'s also a question of finding good material and interesting roles. I\'m not the only actress out there, and good parts just don\'t fall into your lap that easily. But I like most of the films I\'ve made recently and so I\'m pretty positive about the future.',
+        'Winona Ryder',
+    ],
+    '87286897-9726-551d-b6d5-5fa5dd441e5a' => [
+        'The reason I exercise is for the quality of life I enjoy.',
+        'Shakuntala Devi',
+    ],
+    '0cb21db6-55ea-532f-84db-4868f811831b' => [
+        'In particular I want to talk about natural black hair, and how it\'s not just hair. I mean, I\'m interested in hair in sort of a very aesthetic way, just the beauty of hair, but also in a political way: what it says, what it means.',
+        'Chimamanda Ngozi Adichie',
+    ],
+    '4fbaef4d-fcc7-5272-8d8e-706afa9d12bf' => [
+        'Your future depends on many things, but mostly on you.',
+        'Frank Tyger',
+    ],
+    'abe818e2-1cc2-5f2e-a16f-2b16b7014fac' => [
+        'My attitude is, if someone\'s going to criticize me, tell me to my face.',
+        'Simon Cowell',
+    ],
+    '6151ec5f-2591-5a5a-be15-d29486d1688b' => [
+        'Normal is not something to aspire to, it\'s something to get away from.',
+        'Jodie Foster',
+    ],
+    '4409e07c-e718-54c0-aaa6-4daf186683d8' => [
+        'A stumble may prevent a fall.',
         'Unknown',
     ],
-    [
-        'I started to travel like this at the age of 15 so for me, it\'s normal. Some days you get tired and you feel, \'I want to stay at home a little bit more,\' but it\'s only the moment.',
-        'Rafael Nadal',
+    'a030732f-0df1-5d6f-8f3c-71f21acc16e7' => [
+        'You reach a point where you don\'t work for money.',
+        'Walt Disney',
     ],
-    [
-        'And I tell you, having girls has made me a much better man. I have friends who are fathers, but they only have boys, and they have the same attitude toward women they always had, you know? And I don\'t play that... My girls, you mess with them? I will bury you underground.',
-        'Mark Wahlberg',
+    '33e31742-42d8-5cd1-84ea-8cf9e30f1b1f' => [
+        'The president felt that it was important to send an ordinary citizen to experience the excitement of space travel as a representative for all Americans.',
+        'Christa McAuliffe',
     ],
-    [
-        'Lost - yesterday, somewhere between sunrise and sunset, two golden hours, each set with sixty diamond minutes. No reward is offered, for they are gone forever.',
-        'Horace Mann',
-    ],
-    [
-        'The ideas of the ruling class are in every epoch the ruling ideas, i.e., the class which is the ruling material force of society, is at the same time its ruling intellectual force.',
-        'Karl Marx',
-    ],
-    [
-        'When one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior',
-        'Henry C Link',
-    ],
-    [
-        'Doing your best means never stop trying.',
-        'Unknown',
-    ],
-    [
-        'You always want to win. That is why you play tennis, because you love the sport and try to be the best you can at it.',
-        'Roger Federer',
-    ],
-    [
-        'What moves those of genius, what inspires their work is not new ideas, but their obsession with the idea that what has already been said is still not enough.',
-        'Eugene Delacroix',
-    ],
-    [
-        'Id rather have a fake smile than a nasty stare.',
-        'Tamara Ecclestone',
-    ],
-    [
-        'Some of our important choices have a time line. If we delay a decision, the opportunity is gone forever. Sometimes our doubts keep us from making a choice that involves change. Thus an opportunity may be missed.',
-        'James E. Faust',
-    ],
-    [
-        'I am the family face; flesh perishes, I live on.',
-        'Thomas Hardy',
-    ],
-    [
-        'Happiness is a Swedish sunset, it is there for all, but most of us look the other way and lose it.',
-        'Mark Twain',
-    ],
-    [
-        'I think there\'s an awful lot of noise about the Church being persecuted but there is a more real issue that the conventional churches face - that the people who are really driving their revival and success believe in an old-time religion which, in my view, is incompatible with a modern, multi-ethnic, multicultural society.',
-        'Trevor Phillips',
-    ],
-    [
-        'Day, n. A period of twenty-four hours, mostly misspent.',
-        'Ambrose Bierce',
-    ],
-    [
-        'It\'s funny, I do try to maintain health. I started doing Bikram yoga which is that hothouse yoga, the 105 degrees yoga for 90 minutes. It\'s great, you purge out all the sweat and you\'re drinking water.',
-        'Bryan Cranston',
-    ],
-    [
-        'We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.',
-        'Stephen Covey',
-    ],
-    [
-        'Jazz, to me, is one of the inherent expressions of Negro life in America: the eternal tom-tom beating in the Negro soul - the tom-tom of revolt against weariness in a white world, a world of subway trains, and work, work, work; the tom-tom of joy and laughter, and pain swallowed in a smile.',
-        'Langston Hughes',
-    ],
-    [
-        'If you accept the expectations of others, especially negative ones, then you never will change the outcome.',
-        'Michael Jordan',
+    'a56c9dc1-8403-51bd-b2d3-4bc2ba67e926' => [
+        'Your big opportunity may be right where you are now.',
+        'Napoleon Hill',
     ],
 ];

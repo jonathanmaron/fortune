@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility.',
-        'Saint Augustine',
+    '97e33b60-59c0-510d-85f4-9b10cde4cff6' => [
+        'It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.',
+        'Epictetus',
     ],
-    [
-        'You dream. You plan. You reach. There will be obstacles. There will be doubters. There will be mistakes. But with hard work, with belief, with confidence and trust in yourself and those around you, there are no limits.',
-        'Michael Phelps, swimmer and Olympic gold medalist',
+    '819ae726-debb-52e9-baa1-298c7603ba6b' => [
+        'Work is much more fun than fun.',
+        'Noel Coward',
     ],
-    [
-        'Can miles truly separate you from friends... If you want to be with someone you love, aren\'t you already there?',
-        'Richard Bach',
+    '13410bce-da80-57e9-a58d-2667644bae7c' => [
+        'Never mistake motion for action.',
+        'Ernest Hemingway',
     ],
-    [
-        'My height doesn\'t define my skill set. To be a great quarterback, you have to have great leadership, great attention to detail and a relentless competitive nature - and I try to bring that on a daily basis.',
-        'Russell Wilson',
+    '56783352-34ff-52fe-8f00-59e25af4074e' => [
+        'We need two kinds of acquaintances, one to complain to, while to the others we boast.',
+        'Logan Pearsall Smith',
     ],
-    [
-        'If one comes across sometimes as being cold or brusque, it\'s simply because I\'m striving for the best.',
-        'Anna Wintour',
+    '6e0a110a-f43a-5f2d-9d70-02655938cd84' => [
+        'I do the very best I know how - the very best I can; and I mean to keep on doing so until the end.',
+        'Abraham Lincoln',
     ],
-    [
-        'My mom taught me the power of love. I learned to focus on the long-term big picture from my father. His sense of humor and light-hearted approach always make me smile. My husband is a pivotal anchor in my life. His influence encourages me to be independent and take risks.',
-        'Padmasree Warrior',
+    '486a79ee-4008-566d-96a6-62baf41b9dbc' => [
+        'I work to stay alive.',
+        'Bette Davis',
     ],
-    [
-        'Let us touch the dying, the poor, the lonely and the unwanted according to the graces we have received and let us not be ashamed or slow to do the humble work.',
-        'Mother Teresa',
+    'd05882c1-3c61-55c4-82f3-635bf4f5bf7c' => [
+        'Expect problems and eat them for breakfast.',
+        'Alfred A. Montapert',
     ],
-    [
-        'I do get to have my normal childhood. I just love to get together with my friends and family and have a good time.',
-        'Austin O\'Brien',
+    'a7f27eb2-7ba6-542d-9427-5552524574ca' => [
+        'If the rights of civil partners are met differently in law to those of married couples, there is no discrimination in law, and if civil partnerships are seen as somehow \'second class\' that is a social attitude which will change and cannot, in any case, be turned around by redefining the law of marriage.',
+        'John Sentamu',
     ],
-    [
-        'Never lose sight of the fact that the most important yardstick of your success will be how you treat other people - your family, friends, and coworkers, and even strangers you meet along the way.',
-        'Barbara Bush',
+    '537c3b36-6368-5a85-bc16-69610f453a5b' => [
+        'The suburbs are the American dream, right? Living in a nice house, having a good job, a happy family.',
+        'Cheryl Hines',
     ],
-    [
-        'Expect the best. Prepare for the worst. Capitalize on what comes.',
-        'Zig Ziglar',
+    'f211b6e1-22ea-5c9c-8aa8-0385a241b9ef' => [
+        'My dad is my best friend, my father, and my boss. When I do something that is exciting and he likes it, it feels three times as good as you can imagine.',
+        'David Lauren',
     ],
-    [
-        'A lot of America is kind of done. People have been making films about it for 100 years. Everything to me feels used up. But Jo-Burg feels unbelievably inspirational to me.',
-        'Neill Blomkamp',
+    '6b546196-9142-5d1e-abc3-8448e77057b9' => [
+        'I want to thank you for taking time out of your day to come and witness my hanging.',
+        'George W. Bush',
     ],
-    [
-        'People dwell so much on the little things, but why should they hold you back when you have the big things to look forward to? By exuding positive energy when dealing with your problems, you will exude it in your being in general. Treat yourself with love and you will exude love to others.',
-        'Hayley Hasselhoff',
+    'e9033ebd-8edf-5926-95d9-f069fd1e98a5' => [
+        'My best friend is the most important girl, outside of family, to me. I met her when I went to college and we bonded immediately. I\'d do anything for her at any time. We phone each other every day.',
+        'Dawn French',
     ],
-    [
-        'It sounds funny, but my biggest fear is that I\'m not perfect. I\'m a perfectionist, and I get upset when things go wrong or when I don\'t do well.',
-        'Nick Jonas',
+    '763375c3-e2ff-5f81-85a4-f4b7b8b88c0e' => [
+        'The 1st period is won by the best technician. The 2nd period is won by the kid in the best shape. The 3rd period is won by the kid with the biggest heart.',
+        'Dan Gable',
     ],
-    [
-        'Coca-Cola is the only business in the world where no matter which country or town or village you are in, if someone asks what do you do, and you say you work for Coca-Cola, you never have to answer the question, \'What is that?\'',
-        'Muhtar Kent',
+    'b6a7e6b1-80a9-59fa-a655-d840ecc9be26' => [
+        'Such discussions help us very little to enjoy what has been well done in art or poetry, to discriminate between what is more and what is less excellent in them, or to use words like beauty, excellence, art, poetry, with a more precise meaning than they would otherwise have.',
+        'Walter Pater',
     ],
-    [
-        'Who cares about great marks left behind? We have one life... just one. Our life. We have nothing else.',
-        'Grace Jones',
+    '43ba1e1c-5ad8-55a0-863d-e9943b9ea85e' => [
+        'When a trait is universal, evolutionary biologists look for a genetic explanation and wonder how that gene or genes might enhance survival or reproductive success.',
+        'Robin Marantz Henig',
     ],
-    [
-        'I\'m happy that the sacrificing, the hard training, the travel, the time being away from the family, is going to stop. So I\'m happy; I\'m glad about that. But I\'m also terrified. Frightened. Because, I mean, in my whole adult life, cycling was the most consistent thing I ever did.',
-        'Jens Voigt',
+    'c2624e10-33b3-580e-a528-d39bfa76efbd' => [
+        'I think success shows a person\'s true colors.',
+        'Freddie Prinze, Jr.',
     ],
-    [
-        'The amount of happiness that you have depends on the amount of freedom you have in your heart.',
-        'Thich Nhat Hanh',
+    '8271cd26-953c-593c-8826-d9ac695aab3f' => [
+        'Just don\'t give up trying to do what you really want to do. Where there is love and inspiration, I don\'t think you can go wrong.',
+        'Ella Fitzgerald',
     ],
-    [
-        'Where the spirit does not work with the hand, there is no art.',
-        'Leonardo da Vinci',
+    '6ab56ac9-3034-5669-913c-c1e966618261' => [
+        'My mind has been both my best friend and my worst enemy.',
+        'Elyn Saks',
     ],
-    [
-        'Football is a great deal like life in that it teaches that work, sacrifice, perseverance, competitive drive, selflessness and respect for authority is the price that each and every one of us must pay to achieve any goal that is worthwhile.',
-        'Vince Lombardi',
+    '6cd3d3b4-b4c6-5189-b004-e37dc1d12f4d' => [
+        'Writing and travel broaden your ass if not your mind and I like to write standing up.',
+        'Ernest Hemingway',
     ],
-    [
-        'Be open to the amazing changes which are occurring in the field that interest you.',
-        'Leigh Steinberg',
+    'd65e7ccf-70ce-5158-b609-5bc6d3c70b07' => [
+        'If we listened to our intellect, we\'d never have a love affair. We\'d never have a friendship. We\'d never go into business, because we\'d be cynical. Well, that\'s nonsense. You\'ve got to jump off cliffs all the time and build your wings on the way down.',
+        'Ray Bradbury',
     ],
-    [
-        'Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.',
-        'John Wooden',
+    '0b4efd04-107e-5900-a482-07eaec85b037' => [
+        'I hear and I forget. I see and I remember. I do and I understand.',
+        'Confucius',
     ],
-    [
-        'You know it\'s only 50 miles from Grand River to Canton, but it took me 67 years to travel that distance.',
-        'Don Shula',
+    '2ad59835-c6f3-562e-82c4-03b5c548d66a' => [
+        'When I\'ve had hard times in my life, the one thing about being in TV is that it\'s positive. I withdrew to \'Cheers,\' it was familiar in that it was family. It had a kind of realistic positiveness to it.',
+        'Bruno Heller',
     ],
-    [
-        'Mohammed was not an apparent failure. He was a dazzling success, politically as well as spiritually, and Islam went from strength to strength to strength.',
-        'Karen Armstrong',
+    'c03e9022-23de-509a-9a5a-7fc2158d193e' => [
+        'Absence makes the heart grow fonder.',
+        'Haynes Bayly',
     ],
-    [
-        'I was sleeping the other night, alone, thanks to the exterminator.',
-        'Emo Philips',
+    '80b88a86-2d56-5eab-91de-6e2ef3531872' => [
+        'Autumn is a second spring when every leaf is a flower.',
+        'Albert Camus',
     ],
-    [
-        'Work gives you meaning and purpose and life is empty without it.',
-        'Stephen Hawking',
+    'e21fe6cc-73cb-5691-8f9a-5191732a8c86' => [
+        'Beauty is a fragile gift.',
+        'Ovid',
     ],
 ];

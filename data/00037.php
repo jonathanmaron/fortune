@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'We may not know what each day has in store for us. We could be gone tomorrow. Any minute could truly be our goodbye. But we do have this moment. This time. Today. Right now. It takes way more effort to shell out hate then it does to allow love to flow freely in our lives. After all, it\'s what we were born to do.',
-        'Grace Gealey',
+    '4fbf967a-232e-5da2-b1bb-c19fec8270fe' => [
+        'Victory has a thousand fathers, but defeat is an orphan.',
+        'John F. Kennedy',
     ],
-    [
-        'No matter how good you are at planning, the pressure never goes away. So I don\'t fight it. I feed off it. I turn pressure into motivation to do my best.',
-        'Ben Carson',
+    'f60a123f-7a15-5021-b3d4-c643f937b0f1' => [
+        'Out of labor\'s struggle in Arizona came better conditions for the workers, who must everywhere, at all times, under advantage and disadvantage work out their own salvation.',
+        'Mary Harris Jones',
     ],
-    [
-        'Now, therefore, the Directors of the company are hereby ordered to see that precautions are taken to make travel on said railroad perfectly safe by using a screw with at least twenty-four inches diameter.',
-        'Joshua A. Norton',
+    'a2f4e700-f3ce-5ff1-8d22-ad9c621ceccc' => [
+        'Our success educationally, industrially and politically is based upon the protection of a nation founded by ourselves. And the nation can be nowhere else but in Africa.',
+        'Marcus Garvey',
     ],
-    [
-        'Nothing is a waste of time if you use the experience wisely.',
-        'Auguste Rodin',
+    '8ac9ec52-712a-55a5-b6b1-c79f33b36e07' => [
+        'There is no disgrace in working. There was no silver spoon around at the time I was born.',
+        'Anna Held',
     ],
-    [
-        'We cannot solve our problems with the same thinking we used when we created them.',
-        'Albert Einstein',
+    'b08ad2f8-fceb-59dc-b6d6-1ac1f8be01e2' => [
+        'Whenever I\'ve had success, I never learn from it. Success usually breeds a degree of hubris. When you fail, that\'s when you learn.',
+        'Moby',
     ],
-    [
-        'People who say it cannot be done should not interrupt those who are doing it.',
-        'Chinese proverb',
+    'efb570e0-e43a-5cf6-8520-2451aae4db38' => [
+        'I\'m as happy a man as any in the world, for the whole world seems to smile upon me!',
+        'Samuel Smiles',
     ],
-    [
-        'I\'m not one to think of burying my head in the sand - I\'ve always been a positive person and still am now.',
-        'Bastian Schweinsteiger',
+    'f57911c2-d1a5-514f-b305-fe2c709c1894' => [
+        'The American attitude towards efficiency and execution should always underlie architecture.',
+        'Helmut Jahn',
     ],
-    [
-        'Happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.',
-        'J. Donald Walters',
+    '79b26c97-21a5-5f69-8c1e-cbe24db377da' => [
+        'The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.',
+        'William James',
     ],
-    [
-        'Could I say that the reason that I am here today, you know, from the mouth of the State Department itself, is: I should not be allowed to travel because I have struggled for years for the independence of the colonial peoples of Africa.',
-        'Paul Robeson',
+    '23510a24-7f8b-5712-84fa-c6034fd2ddf1' => [
+        'There is an inherent hope and positive drive to New Yorkers.',
+        'John Oliver',
     ],
-    [
-        'The very women who object to the morals of a notoriously beautiful actress, grow big with pride when an admirer suggests their marked resemblance to this stage beauty in physique.',
-        'Minna Antrim',
+    '6ef607b9-e262-5778-83e5-5bac10aea0b1' => [
+        'We cannot change our memories, but we can change their meaning and the power they have over us.',
+        'David Seamans',
     ],
-    [
-        'You can\'t win unless you have good people with great attitude. They are the ones who won the games. I didn\'t win any games. You never saw a coach make a tackle anywhere. My philosophy was to get the best players and then try to do something new with them.',
-        'Hank Stram',
+    '921fe53e-1056-5022-81c5-b633465a66af' => [
+        'If nothing else, the act of reaching a milestone often serves to reveal a superstar\'s true nature.',
+        'Stephen Rodrick',
     ],
-    [
-        'Sometimes a loss is the best thing that can happen. It teaches you what you should have done next time.',
-        'Snoop Dogg',
+    '9f4ff05e-1455-5139-8ddc-c5032dd6131b' => [
+        'Open your eyes, look within. Are you satisfied with the life you\'re living?',
+        'Martin Luther King, Jr.',
     ],
-    [
-        'The Man Who Has Confidence In Himself Gains The Confidence Of Others.',
-        'Hasidic Proverb',
+    '82b84ab9-c0fe-5e7a-8c6d-5fc60973a912' => [
+        'Deacon Jones has been the most inspirational person in my football career.',
+        'Jack Youngblood',
     ],
-    [
-        'I look at Jagger and the like and if I see a good attitude I\'ll admire it but I wouldn\'t copy their style.',
-        'Michael Hutchence',
+    '312b0823-a736-5dcb-9421-ccbe23f7ce40' => [
+        'You can hold yourself back from the sufferings of the world, that is something you are free to do and it accords with your nature, but perhaps this very holding back is the one suffering you could avoid.',
+        'Franz Kafka',
     ],
-    [
-        'Positive rights are the right to shelter, the right to education, the right to health care, the right to a living wage. These things are - these are, I would call them, more properly, political rights rather than positive rights. And they are extremely tricky, because now we are dealing with things that are zero sum.',
-        'P. J. O\'Rourke',
+    '32afb9a6-f8ea-5d58-9200-163ea681e6bc' => [
+        'All successful people men and women are big dreamers. They imagine what their future could be, ideal in every respect, and then they work every day toward their distant vision, that goal or purpose.',
+        'Brian Tracy',
     ],
-    [
-        'There are more important things in life than winning or losing a game.',
-        'Tim Hetherington',
+    'd50565b4-149d-51a4-9f5e-e8eeb3234f7f' => [
+        'Making money is art and working is art and good business is the best art.',
+        'Andy Warhol',
     ],
-    [
-        'As a female, you are often being asked by directors to be warmer, softer, flirt more, smile more etc... None of those things are bad, and obviously we are capable of a variety of human behavior, but it gets really old having to play into somebody\'s stereotype or ideal.',
-        'Trieste Kelly Dunn',
+    '9fc2d24a-6b90-5419-a291-cb8a3b7c655c' => [
+        'All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.',
+        'Anne Bronte',
     ],
-    [
-        'Nothing. We\'re all friends and friendly. So when the cameras go down, depending on the mood or the nature of the material we\'re dealing with, there\'s usually a kind of a prevailing light attitude that\'s floating around.',
-        'Richard Dean Anderson',
+    'a4929508-b852-5958-94d9-2b8685e9289c' => [
+        'Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.',
+        'Robert Baden-Powell',
     ],
-    [
-        'When a work lifts your spirits and inspires bold and noble thoughts in you, do not look for any other standard to judge by: the work is good, the product of a master craftsman.',
-        'Jean de la Bruyere',
+    '4612b4eb-f2bd-5ca1-962c-be20b9bb38bd' => [
+        'When I eventually met Mr. Right I had no idea that his first name was Always.',
+        'Rita Rudner',
     ],
-    [
-        'Never throughout history has a man who lived a life of ease left a name worth remembering.',
-        'Samuel Ullman',
+    'c47a5218-7025-5da7-a842-e25a3a7c7b56' => [
+        'One fails forward toward success.',
+        'Charles Kettering',
     ],
-    [
-        'We succeed in enterprises which demand the positive qualities we possess, but we excel in those which can also make use of our defects.',
-        'Alexis de Tocqueville',
+    'c6012400-9742-516a-b11e-f9dbf8521575' => [
+        'The ego is only an illusion, but a very influential one. Letting the ego-illusion become your identity can prevent you from knowing your true self. Ego, the false idea of believing that you are what you have or what you do, is a backwards way of assessing and living life.',
+        'Bertrand Russell',
     ],
-    [
-        'The things I want to know are in books; my best friend is the man who\'ll get me a book I ain\'t read.',
-        'Abraham Lincoln',
+    'ec25dd77-4c63-527a-811c-2fdc089120bd' => [
+        'As I get older, the things that I want are starting to make more sense. Being able to travel makes me happy, and I am a person that lives in the moment. I also want to live a good life. Traveling makes everyday issues seem so much smaller and really changes my perspective on things.',
+        'Jacqueline MacInnes Wood',
     ],
-    [
-        'The secret of your success is determined by your daily agenda.',
-        'John C. Maxwell',
+    '204bde02-0d05-5828-b188-79b8c4e8c46f' => [
+        'You see, without hard work and responsibility, there is no American Dream. Hard work lays the foundation. Our solidarity makes work pay - for all of us. For the greater good. That\'s what our vision of shared prosperity is all about.',
+        'Richard Trumka',
     ],
-    [
-        'The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.',
-        'Anais Nin',
+    'e3c6a585-e939-54b6-bd5f-d08c73c9bfa3' => [
+        'Every man loves what he is good at.',
+        'Thomas Shadwell',
     ],
-    [
-        'I was born in 1950, so there were tons of Westerns on TV by the time I was 6, 7, 8 years old. In terms of television, \'Maverick\' and \'Have Gun - Will Travel.\' But filmically, classics like \'High Noon\' and \'The Man Who Shot Liberty Valance\' - that\'s one of my favorite films.',
-        'Ed Harris',
+    '26509c68-f976-5c63-bcb8-9400a26ff669' => [
+        'Now\'s the best time you\'ll ever have in life to get ahead!',
+        'Zig Ziglar',
     ],
 ];

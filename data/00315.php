@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When you\'re the best, you only want to surround yourself with the best.',
-        'Floyd Mayweather, Jr.',
+    'a970a78a-dfb4-5f59-b90a-63ac8751f597' => [
+        'I am a Piscean, and they have a lovingly detached attitude towards life.',
+        'Shahid Kapoor',
     ],
-    [
-        'If at first you don\'t succeed, blame your parents.',
-        'Marcelene Cox',
+    'd49f4b8e-66ac-53ca-beec-dc74b7e6d56a' => [
+        'It is easy to be beautiful; it is difficult to appear so.',
+        'Hosea Ballou',
     ],
-    [
-        'Despite living in this post-9/11 age of transnational terrorism, the risk of death during air travel has plummeted to the point where we now measure it in the \'per billions\' of passengers.',
-        'Thomas P.M. Barnett',
+    'cc37d92b-9f86-512d-a1fd-90e3f6641926' => [
+        'Despite the success cult, men are most deeply moved not by the reaching of the goal but by the grandness of the effort involved in getting there - or failing to get there.',
+        'Max Lerner',
     ],
-    [
-        'It is one of the most effective attitudes of the neurotic to measure thumbs down, so to speak, a real person by an ideal, since in doing so he can depreciate him as much as he wishes.',
-        'Alfred Adler',
+    '503c5309-8efe-5a49-97a8-93157e9297ec' => [
+        'The universe is transformation; our life is what our thoughts make it.',
+        'Marcus Aurelius',
     ],
-    [
-        'A bend in the road is not the end of the road...unless you fail to make the turn.',
-        'Unknown',
+    '1f5ff764-2841-513f-bae4-7daa4b95eeea' => [
+        'Some people can be president, some people can speak, some people, you know, anything that\'s positive, man - a dentist, a doctor. Just hang in there and never give up, and find out what is your talent. First you got to find your talent and just stick with your talent, and I guarantee you\'ll get there, man.',
+        'Juicy J',
     ],
-    [
-        'War is a game that is played with a smile. If you can\'t smile, grin. If you can\'t grin, keep out of the way till you can.',
-        'Winston Churchill',
+    '109abdfa-0b44-5c03-9ccf-fb2260bfc15b' => [
+        'It is better to understand a little than to misunderstand a lot.',
+        'Anatole France',
     ],
-    [
-        'If you have issues with family, friends, and people at work, try and solve these issues head on so you can move on and concentrate on having the life you want.',
-        'Heidi Klum',
+    '0b4914af-2ef8-5091-ac9c-2ab39fe29631' => [
+        'Sensual love deceives one as to the nature of heavenly love; it could not do so alone, but since it unconsciously has the element of heavenly love within it, it can do so.',
+        'Franz Kafka',
     ],
-    [
-        'How beautiful the leaves grow old. How full of light and color are their last days.',
-        'John Burroughs',
+    '7c7e387e-1f0e-53b0-bae3-bd3351bdf436' => [
+        'I would rather be adorned by beauty of character than jewels. Jewels are the gift of fortune, while character comes from within.',
+        'Plautus',
     ],
-    [
-        'Love is the only force capable of transforming an enemy into friend.',
-        'Martin Luther King, Jr.',
+    '88586d99-a558-57fb-8a7c-92971fcb55f5' => [
+        'To know nothing is the happiest life.',
+        'Oksana Baiul',
     ],
-    [
-        'Positive culture comes from being mindful, and respecting your coworkers, and being empathetic.',
-        'Biz Stone',
+    'c6ee2935-a952-51de-9380-3d26fb69aa50' => [
+        'I write in my study, where I also have my prayer altar. I believe that keeps me focused and gives me positive energy and reminds me that I\'m merely the instrument of greater creative forces.',
+        'Chitra Banerjee Divakaruni',
     ],
-    [
-        'The difference between Marilyn Monroe and the early Pamela Anderson is not that great. What\'s amazing is that the taste of American men and international tastes in terms of beauty have essentially stayed the same. Styles change, but our view of beauty stays the same.',
-        'Hugh Hefner',
+    'f7f1b106-76b4-5833-85ea-bb05c358c085' => [
+        'Kindness is the language which the deaf can hear and the blind can see',
+        'Mark Twain',
     ],
-    [
-        'Measuring success in cultural diplomacy - the use of education, creative expression in any form, or people-to-people exchange to increase understanding across regions, cultures, or peoples - is challenging. How does one quantify changes in attitude, abandoning stereotypes, or feeling empathy as a result of a performance, a film, a book?',
-        'Cynthia P. Schneider',
+    'b5708e23-2c92-5c07-a74a-4ae5c040f358' => [
+        'My definition of family is just unconditional love. The people who rely on you and who love you, they are there, too.',
+        'Will Arnett',
     ],
-    [
-        'The most exhausting thing in life is being insincere.',
-        'Booker T. Washington',
+    'dc910402-326b-5818-821d-445beed2e3d6' => [
+        'I hope the millions of people I\'ve touched have the optimism and desire to share their goals and hard work and persevere with a positive attitude.',
+        'Michael Jordan',
     ],
-    [
-        'Just what future the Designer of the universe has provided for the souls of men I do not know, I cannot prove. But I find that the whole order of Nature confirms my confidence that, if it is not like our noblest hopes and dreams, it will transcend them.',
-        'Henry Norris Russell',
+    'ac7188f5-3d23-538f-adb1-b44d99edb108' => [
+        'That\'s one of the nice things. I mean, part of the beauty of me is that I\'m very rich. So if I need $600 million, I can put $600 million myself. That\'s a huge advantage. I must tell you, that\'s a huge advantage over the other candidates.',
+        'Donald Trump',
     ],
-    [
-        'Design is about point of view, and there should be some sort of woman or lifestyle or attitude in one\'s head as a designer. So my being able to reach the masses was something that meant a great deal to me - especially for women who could never wear Vera Wang.',
-        'Vera Wang',
+    '004383fa-7546-58c2-8f91-868188437db1' => [
+        'The thoughts we choose to think are the tools we use to paint the canvas of our lives.',
+        'Louise Hay',
     ],
-    [
-        'No matter what, I\'m trying to have fun and, depending on the mood, fun can be on a roller coaster and playing onstage, or fun can be sitting in a room with three of your best friends talking for two hours.',
-        'Shawn Mendes',
+    'aa1fb4cc-3a29-51ed-8a99-4865aa2f7afb' => [
+        'Jazz is a very democratic musical form. It comes out of a communal experience. We take our respective instruments and collectively create a thing of beauty.',
+        'Max Roach',
     ],
-    [
-        'I was brought up by a single mom in a poor town in Arkansas and while some aspects of small-town life were really positive - like the fact that everyone there is really sweet and hospitable - there is also this close-minded mentality, and that naturally made me want to rebel.',
-        'Beth Ditto',
+    'f6396c2a-d5fb-589e-8ede-8e84ff6cbc0f' => [
+        'There is no advertisement as powerful as a positive reputation traveling fast.',
+        'Brian Koslow',
     ],
-    [
-        'The one thing that I know is that you win with good people.',
-        'Don Shula',
+    '2c9fb1ee-cafe-5ab3-a477-4edfd9bef05d' => [
+        'I started singing about three years ago, I entered a local singing competition called Stratford Idol. The other people in the competition had been taking singing lessons and had vocal coaches. I wasn\'t taking it too seriously at the time, I would just sing around the house. I was only 12 and I got second place.',
+        'Justin Bieber',
     ],
-    [
-        'Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that.',
-        'Jean Lacordaire',
+    '051e7724-b5be-5c09-a019-3efa3f7656c1' => [
+        'We were what you would call a poor family, but we were rich in so many things. We did family things together. We always had dessert, even if it was just Jell-O. So, I never knew I was poor.',
+        'August Wilson',
     ],
-    [
-        'All our work, our whole life is a matter of semantics, because words are the tools with which we work, the material out of which laws are made, out of which the Constitution was written. Everything depends on our understanding of them.',
-        'Felix Frankfurter',
+    'e67acbcf-0cb4-58b9-8c8d-281b320d2010' => [
+        'Everybody has goals, aspirations or whatever, and everybody has been at a point in their life where nobody believed in them.',
+        'Pope Francis',
     ],
-    [
-        'Luck is what happens when preparation meets opportunity.',
-        'Seneca',
+    'a20eddd6-e61e-58fe-aefe-23efa9250f3f' => [
+        'I like trees because they seem more resigned to the way they have to live than other things do.',
+        'Willa Cather',
     ],
-    [
-        'Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.',
-        'Leonardo da Vinci',
+    '84724469-58d4-515d-b5a9-5a2f4434d079' => [
+        'Real success is finding you lifework in the work that you love.',
+        'David McCullough',
     ],
-    [
-        'I like the cold weather. It means you get work done.',
-        'Noam Chomsky',
+    '8f4cf4cd-ceb8-57aa-8356-18ffc4ecc41e' => [
+        'Space exploration is important research to our economic and national defense, and America\'s space program is a symbol of our success as a scientifically and technologically advanced nation.',
+        'Randy Forbes',
     ],
-    [
-        'There\'s enormous progressive activism and, more often than not, success at the grassroots level - everything from living wage campaigns to efforts to finance our elections are having terrific success.',
-        'Jim Hightower',
+    '1f2037cf-0042-58a6-8d92-384ada934692' => [
+        'Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.',
+        'Buddha',
     ],
-    [
-        'For the past 33 years, I have looked in the mirror every morning and asked myself: \'If today were the last day of my life, would I want to do what I am about to do today?\' And whenever the answer has been \'No\' for too many days in a row, I know I need to change something.',
-        'Christopher McCandless',
+    '76ff7cfb-340d-518d-b9e6-90fa689c0a09' => [
+        'Fifty years of isolating Cuba had failed to promote democracy, setting us back in Latin America. That\'s why we restored diplomatic relations, opened the door to travel and commerce, and positioned ourselves to improve the lives of the Cuban people.',
+        'Barack Obama',
     ],
 ];

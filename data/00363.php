@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I\'ve been very lucky to work on a wide variety of projects, including two long-run and top-10 dramatic television shows. That is why it is so important to offer a helping hand to the next generation of young Latinos coming up behind me.',
-        'Jimmy Smits',
+    'c0e07ae3-9683-5a9f-b650-933090e5bb82' => [
+        'People with high blood pressure, diabetes - those are conditions brought about by life style. If you change the life style, those conditions will leave.',
+        'Sarah Ban Breathnach',
     ],
-    [
-        'Except during the nine months before he draws his first breath, no man manages his affairs as well as a tree does.',
-        'George Bernard Shaw',
+    '4c5c3d1d-f35c-5c65-a52e-efadfd82e769' => [
+        'Making cartoons means very hard work at every step of the way, but creating a successful cartoon character is the hardest work of all.',
+        'Joseph Barbera',
     ],
-    [
-        'Desire is the most important factor in the success of any athlete.',
-        'Bill Shoemaker',
+    '9c9bd2b3-7444-51d9-b502-6a1715ea02e1' => [
+        'All of life is peaks and valleys. Don\'t let the peaks get too high and the valleys too low.',
+        'Jimmy Dean',
     ],
-    [
-        'I will know how to hold you just by the look in your eye, I will never forget - not even on the day that I die. This is a promise of my passion for you, smile at me and make it true.',
-        'Diana Lynn',
+    'ed1776d1-6b9e-5654-91bb-8796966694ff' => [
+        'I specifically remember doing the musical \'Sweet Charity\' at Stagedoor. I was playing Vittorio Vidal, which is a very funny part, and some other small roles. I couldn\'t really sing that well, but there were so many fun bits, and I just remember the tremendous adrenaline rush I felt from being onstage and hearing the audience enjoying it.',
+        'Sebastian Stan',
     ],
-    [
-        'Believe deep down in your heart that you\'re destined to do great things.',
-        'Joe Paterno',
+    '1833e5a1-c1a9-5496-970b-0aa6b61d21bc' => [
+        'Rome wasn\'t built in a day.',
+        'Unknown',
     ],
-    [
-        'We all find joy and radiance and a reason to move on even in the most dire of circumstances. Even in chaos and madness, there\'s still a beauty that comes from just the vibrancy of another human spirit.',
-        'Ishmael Beah',
+    '7b702963-a522-54e1-bd22-177b92fd73a6' => [
+        'I was perceived to be a first- to third-rounder. I kind of had a tough junior year and fell to the fifth round. At that time, it was motivational.',
+        'Ryan Howard',
     ],
-    [
-        'Success is the only motivational factor that a boy with character needs.',
-        'Woody Hayes',
+    '39caf133-6e02-5253-ae44-84a4c36aac55' => [
+        'The battle over genetically modified crops is rife with business interests and political opportunism. When GMOs were first produced in laboratories around the world, they were rightly heralded as a tremendous leap forward in our ability to supplement nature by providing high-nutrient foods.',
+        'Richard J. Roberts',
     ],
-    [
-        'Do not watch the clock. Do what it does. Keep going.',
-        'Sam Levenson',
+    '1ae3950a-d9c1-5967-90f0-7521636dbf30' => [
+        'Blessed is he who has found his work; let him ask no other blessedness.',
+        'Thomas Carlyle',
     ],
-    [
-        'Everybody know, I don\'t do no promoting. I don\'t ever have to promote nothing, that\'s the beauty of Lil Wayne.',
-        'Lil Wayne',
+    '05b464db-16f6-57b5-bfbd-cb8f07c006f2' => [
+        'Memories of our lives, of our works and our deeds will continue in others.',
+        'Rosa Parks',
     ],
-    [
-        'The weak can never forgive. Forgiveness is the attribute of the strong.',
-        'Mohandas Gandhi',
+    '088b4586-a7c8-5503-bf8c-0b71f5f0ef84' => [
+        'And beauty immortal awakes from the tomb.',
+        'James Beattie',
     ],
-    [
-        'The true secret of happiness lies in taking a genuine interest in all the details of daily life.',
-        'Confucius',
+    '392d9478-e3bf-5446-8950-3af5069907c9' => [
+        'People are the key to success or extraordinary success.',
+        'Azim Premji',
     ],
-    [
-        'In the business world today, failure is apparently not an option. We need to change this attitude toward failure - and celebrate the idea that only by falling on our collective business faces do we learn enough to succeed down the road.',
-        'Naveen Jain',
+    '6a819bfc-b503-5eff-9c48-74210ff05c4f' => [
+        'Natural beauty takes at least two hours in front of a mirror.',
+        'Pamela Anderson',
     ],
-    [
-        'I\'ve always found it easier to be funny than to be serious.',
-        'Molly Ivins',
+    '710c892f-268b-5813-ae00-2de0dcb01ccd' => [
+        'Women of worth are those who want positive change for themselves, their families, community or society, which I think is important. For me, a woman of worth is someone who has self -espect, who believes that she can change things in society.',
+        'Sonam Kapoor',
     ],
-    [
-        'I want to give kids that fall-off-the-bed-laughing feeling. Either that, or the sixth-grade feeling that life is hard - sometimes unbearably hard - and it is ultimately about death. But in the meantime, life can be really funny, too.',
-        'Kate Klise',
+    '3b296f12-36ec-5a8b-87c9-5ee9cfa1e1a8' => [
+        'Most of us start out with a positive attitude and a plan to do our best.',
+        'Marilu Henner',
     ],
-    [
-        'The attitude of, \'I will never self-publish,\' coming from any author, indicates that they have never been in a position where it is their only option.',
-        'Jennifer Armintrout',
+    '0c5e0889-dc9c-57e1-be25-88ea4aadd432' => [
+        'No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.',
+        'Godfrey Winn',
     ],
-    [
-        'The miracle is not that we do this work, but that we are happy to do it.',
-        'Mother Teresa',
+    '64205424-2e18-52ba-b453-f2582d03203f' => [
+        'I don\'t really remember a time younger than 5 years old that I didn\'t have skates on because all I can remember is every day, tying up my skates and a big smile on my face, excited to go on the ice.',
+        'Michelle Kwan',
     ],
-    [
-        'There are those who believe that the value of a children\'s book can be measured only in terms of the moral lessons it tries to impose or the perfect role models it offers. Personally, I happen to think that a book is of extraordinary value if it gives the reader nothing more than a smile or two. In fact, I happen to think that\'s huge.',
-        'Barbara Park',
+    'e7af7d9b-b6b4-5de4-9054-6d8dd1ff4767' => [
+        'Lend your ears to music, open your eyes to painting, and... stop thinking! Just ask yourself whether the work has enabled you to \'walk about\' into a hitherto unknown world. If the answer is yes, what more do you want?',
+        'Wassily Kandinsky',
     ],
-    [
-        'As I get older, I just prefer to knit.',
-        'Tracey Ullman',
+    '804193a6-c600-56d4-9183-31b14b8c1944' => [
+        'For \'Around the World in 80 Plates\' we got to travel all over, having what was like a cross between a culinary competition and races. And in each country we had a chef Ambassador. We went to London, Barcelona, Bologna, Hong Kong, Thailand, Morocco... It was amazing.',
+        'Curtis Stone',
     ],
-    [
-        'Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.',
-        'Henry Van Dyke',
+    '9910fbf2-8b9a-531c-88ab-71e05b317033' => [
+        'Fatigue is the best pillow.',
+        'Benjamin Franklin',
     ],
-    [
-        'I have an issue with others ordering for me, and I spend far too long haranguing people that my choices are the best. I apologize for the amount of conversations I have ruined with this attitude.',
-        'Ben Elliot',
+    '1f759352-3f3c-5dac-8ce1-d98fbc4aff60' => [
+        'I smile so much at the theater my face hurts when I leave.',
+        'Heather Matarazzo',
     ],
-    [
-        'I\'ve never met a funny person who wasn\'t smart. I\'ve met a lot of dramatic people who were stupid. But I\'ve never met a funny person who wasn\'t smart.',
-        'Rob Lowe',
+    '8c4e1ae7-9a3d-5368-80fc-735ee24ea7e2' => [
+        'Anything you really want, you can attain, if you really go after it.',
+        'Wayne Dyer',
     ],
-    [
-        'I spend days on my Xperia logging on Facebook chatting with my friends and family at home; I love listening to Rihanna and Pink and watching movies. Basically, anything that makes me smile, but most of my fans will know that I am always smiling!',
-        'Dominika Cibulkova',
+    '996ce790-86a9-5f60-a2e6-a89f8b90a238' => [
+        'Time is the wisest counselor of all.',
+        'Pericles',
     ],
-    [
-        'One of the things that I love to do is travel around the world and look at archaeological sites. Because archaeology gives us an opportunity to study past civilizations, and see where they succeeded and where they failed. Use science to, you know, work backwards and say, \'Well, really, what were they thinking?\'',
-        'Nathan Myhrvold',
+    '4fcb58fd-e9aa-5f50-99c8-fcf1eee08684' => [
+        'I experience a period of frightening clarity in those moments when nature is so beautiful. I am no longer sure of myself, and the paintings appear as in a dream.',
+        'Vincent Van Gogh',
     ],
-    [
-        'One goes through school, college, medical school and one\'s internship learning little or nothing about goodness but a good deal about success.',
-        'Ashley Montagu',
+    '1f3eb06e-4b63-5d5e-842d-1d7525e333cf' => [
+        'The meaning I picked, the one that changed my life: Overcome fear, behold wonder.',
+        'Richard Bach',
     ],
-    [
-        'We hope that through these trade arrangements, through collaboration in training, in manpower development, and what have you, ASEAN in, say, ten years\' time, will be a very different ASEAN.',
-        'Sellapan Ramanathan',
+    '242acb1d-7f42-589f-a716-43c7a44eef60' => [
+        'I always got my work done before playing.',
+        'Edwin Moses',
     ],
 ];

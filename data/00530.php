@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'On Earth Day, we celebrate all the gifts the world and nature make available to us. We recognize our complete dependence on its bounty. And we acknowledge the need for good stewardship to preserve its fruits for future generations.',
-        'John Hoeven',
+    '86b5d590-cde5-5e37-ad58-687fd023d24e' => [
+        'Ninety-eight per cent of laughter is nothing to do with jokes, which do not deserve to bear the weight of all the funny stuff in the world.',
+        'Arthur Smith',
     ],
-    [
-        'My guiding principles in life are to be honest, genuine, thoughtful and caring.',
-        'Tom Brady',
+    'bd963a35-45f4-5420-b057-66fb6ba16451' => [
+        'For me, I think the Lord wanted me to win to put a smile on Chinese people\'s faces.',
+        'Michael Chang',
     ],
-    [
-        'Leadership means that a group, large or small, is willing to entrust authority to a person who has shown judgment, wisdom, personal appeal, and proven competence.',
-        'Walt Disney',
+    'd9f45e6d-a68a-5240-a45e-425ee686ed1b' => [
+        'A professional is someone who can do his best work when he doesn\'t feel like it.',
+        'Alistair Cooke',
     ],
-    [
-        'Almost everything comes from nothing.',
-        'Henri Amiel',
+    'ef20410a-ad0e-539f-b37c-07f3dfd7de27' => [
+        'Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.',
+        'Helen Keller',
     ],
-    [
-        'There\'s a difference between beauty and charm. A beautiful woman is one I notice. A charming woman is one who notices me.',
-        'John Erskine',
+    '9cbd4c27-64ef-55c7-8c35-f13273b74eeb' => [
+        'Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma - which is living with the results of other people\'s thinking. Don\'t let the noise of others\' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.',
+        'Bo Jackson',
     ],
-    [
-        'The embarrassment of a situation can, once you are over it, be the funniest time in your life. And I suppose a lot of my comedy comes from painful moments or experiences in life, and you just flip them on their head.',
-        'Miranda Hart',
+    '30516480-630f-59a9-bb20-f8655fcfb43c' => [
+        'My inspiration has always been photography\'s ability to stop time and reveal what the naked eye cannot see.',
+        'Lois Greenfield',
     ],
-    [
-        'Don\'t give up, Today is hard. Tomorrow will be worse. Day after tomorrow will be sunshine.',
-        'Jack Ma',
+    'c05b16b7-2cad-5d50-9ce2-c615ce81e311' => [
+        'Thinking well to be wise: planning well, wiser: doing well wisest and best of all.',
+        'Malcolm Forbes',
     ],
-    [
-        'And we can see the positive impacts right here at Solyndra. Less than a year ago, we were standing on what was an empty lot. But through the Recovery Act, this company received a loan to expand its operations. This new factory is the result of those loans.',
-        'Barack Obama',
+    '75dfda4a-3bd1-56fa-a6a3-605d07ea9d21' => [
+        'I do not own a car, and my main form of travel to Westminster and in my constituency is by bicycle. I also take my bike on trains to meetings in other parts of the country, which enables me to see other cities and the other parts of the country.',
+        'Jeremy Corbyn',
     ],
-    [
-        'We have the ability to craft a life where we are completely fulfilled. We think it is dependent on outsiders, and to some extent it is, but it is much more dependent on the attitude we bring to life.',
-        'Srikumar Rao',
+    '8ed59313-743b-5f79-8a85-6681a47644a9' => [
+        'Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.',
+        'Henry Van Dyke',
     ],
-    [
-        'A ship in port is safe, but that\'s not what ships are built for.',
-        'Grace Hopper',
+    '3515d6e8-d204-510c-8928-12b7327913e5' => [
+        'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a game or a battle; the win comes from basic blocking and tackling.',
+        'Naveen Jain',
     ],
-    [
-        'Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.',
-        'Alphonse Karr',
+    'dcb53cff-32e3-596a-b33c-2d23454ce56d' => [
+        'O, thou art fairer than the evening air clad in the beauty of a thousand stars.',
+        'Christopher Marlowe',
     ],
-    [
-        'Applause waits on success.',
+    '37384309-c520-5092-8327-41eef21cf1b3' => [
+        'I think one of the best words in the English language is \'compassion.\' I think it holds everything. It holds love, it holds care... and if everybody just did something. We all make a difference.',
+        'Michael Crawford',
+    ],
+    '23e76e31-a837-5511-9943-ec69d4fba402' => [
+        'An important priority for me is a business must get their own house in order. Be or become an agent of positive change in your own enterprise and adopt responsible practices to eliminate the risks that often lie at the root of inequality and poverty.',
+        'Richard Branson',
+    ],
+    '09f37e55-c308-544c-b138-1293f19d70bf' => [
+        'We\'ve gotta reinvest in space travel. We should\'ve never left the moon.',
+        'Ray Bradbury',
+    ],
+    'cc5ce327-2447-5413-933e-29618c2bcc40' => [
+        'As the time goes by, you change, your learn new things, your attitude is different. For the moment, I\'m still enjoying ski racing so much that it would be difficult for me to think about ending my career.',
+        'Hermann Maier',
+    ],
+    'c31c6f59-599a-5f7f-82ff-111249343830' => [
+        'Doing the best at this moment puts you in the best place for the next moment.',
+        'Oprah Winfrey',
+    ],
+    '9ef42217-7d92-5e59-beb8-3af779a35337' => [
+        'I have gone from being a 21-year-old with wide eyes to a 24-year-old woman. With success comes a lot of responsibility and power.',
+        'Vanessa Carlton',
+    ],
+    '8fb9cd4c-cd3b-56d7-8cc2-c61af0d4d85c' => [
+        'Progress was all right. Only it went on too long.',
+        'James Thurber',
+    ],
+    'a9ce7148-1ee0-51aa-a6e5-bee4778106ac' => [
+        'You achieve long-term success step by step. Try to achieve your goals one at a time, like you do target practice.',
+        'Daniel Snyder',
+    ],
+    '7746f3c2-19e1-5c33-9bd7-bc6353eb941e' => [
+        'The best thing I could say is you do have to be a really good listener. If I go to a family reunion, and there\'s 400 people there, everybody comes up and tells me their stories, right? And I think that when you\'re a good listener, and you can imagine how someone\'s talking, dialogue is your key friend, is it not?',
+        'Susan Straight',
+    ],
+    'aefcfdef-2fa7-5949-a073-bd79cde63100' => [
+        'I would rather die a meaningful death than to live a meaningless life.',
+        'John Burroughs',
+    ],
+    '0f756c2d-28ee-58c4-b65a-4b65eec6be4e' => [
+        'One today is worth two tomorrows.',
         'Benjamin Franklin',
     ],
-    [
-        'My parents were kind of over protective people. Me and my sister had to play in the backyard all the time. They bought us bikes for Christmas but wouldn\'t let us ride in the street, we had to ride in the backyard. Another Christmas, my dad got me a basketball hoop and put it in the middle of the lawn! You can\'t dribble on grass.',
-        'Jimmy Fallon',
+    '5a65c9e3-420d-504a-b7cd-e5d4d77209e2' => [
+        'It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.',
+        'Max Planck',
     ],
-    [
-        'We are time\'s subjects, and time bids be gone.',
-        'William Shakespeare',
+    '5c3f73b0-fba5-558d-8535-adbdaf579961' => [
+        'Don\'t cry because it\'s over. Smile because it happened.',
+        'Dr. Seuss',
     ],
-    [
-        'Hollywood needs to recognise all shades of African American beauty.',
-        'Gabrielle Union',
-    ],
-    [
-        'I\'ve never had any prima donna attitude against me. It\'s always been very respectful.',
-        'Rey Mysterio',
-    ],
-    [
-        'You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations.',
-        'Zig Ziglar',
-    ],
-    [
-        'My favourite beauty look is definitely \'70s beauty - sun kissed skin, wavy hair and defined eyes.',
-        'Erin Heatherton',
-    ],
-    [
-        'The new midlife is where you realize that even your failures make you more beautiful and are turned spiritually into success if you became a better person because of them. You became a more humble person. You became a more merciful and compassionate person.',
-        'Marianne Williamson',
-    ],
-    [
-        'No matter what else is going on, Christmas is my all-time favorite period in the year. It has a positive effect on me like very little else does, seasonally, that is.',
-        'Rush Limbaugh',
-    ],
-    [
-        'I have an idea of who I want to be, I have a vision of my own success.',
-        'Wiz Khalifa',
-    ],
-    [
-        'Taxation is the price we pay for failing to build a civilized society. The higher the tax level, the greater the failure. A centrally planned totalitarian state represents a complete defeat for the civilized world, while a totally voluntary society represents its ultimate success.',
-        'Mark Skousen',
-    ],
-    [
-        'The thing we often forget to talk about, or perhaps we take for granted, is our country\'s dazzling beauty. Our natural environment is so much a part of Australia\'s art, writing, music and culture, both indigenous and non indigenous.',
-        'Quentin Bryce',
-    ],
-    [
-        'My experience has been that work is almost the best way to pull oneself out of the depths.',
-        'Eleanor Roosevelt',
-    ],
-    [
-        'Unilever, Nestle and SAB Miller are all taking a long-term approach to investing in sustainable resource consumption. Each is driving through better resource management, which is expected to yield positive returns in the future.',
-        'Jacob Rothschild',
+    '2f075bf6-0c62-505e-a767-2fadffc2dd27' => [
+        'No one ever thought Clint Eastwood was funny, but he was.',
+        'Annie Leibovitz',
     ],
 ];

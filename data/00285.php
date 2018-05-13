@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Success represents the 1% of your work which results from the 99% that is called failure.',
-        'Soichiro Honda',
+    '4650d1f7-de7a-5bdd-abae-b75e1bf59b6a' => [
+        'Beauty is in the eye of the beholder.',
+        'Oliver Platt',
     ],
-    [
-        'Solidarity is an attitude of resistance, I suppose, or it should be.',
-        'Christopher Hitchens',
+    '25baeb29-1e1b-59a1-8af1-dcd11d703fde' => [
+        'I grew up as a very sarcastic person. I was always the class clown, and to date girls, I had to be really funny. I was really skinny growing up. I was so thin, I had to run around in the shower to get wet. That kind of thin. So I always had to rely on humor and sarcasm.',
+        'Kurt Fuller',
     ],
-    [
-        'Learn to get in touch with the silence within yourself, and know that everything in life has purpose. There are no mistakes, no coincidences, all events are blessings given to us to learn from.',
-        'Cesare Pavese',
+    '8e08fdef-748b-5122-8220-d51e8c6b0f4e' => [
+        'Through devotion, your family cares become more peaceful, mutual love between husband and wife becomes more sincere, the service we owe to the prince more faithful, and our work, no matter what it is, becomes more pleasant and agreeable.',
+        'Saint Francis de Sales',
     ],
-    [
-        'For years, I had a top secret clearance and never left Russia. Just once did I go to Bulgaria with my wife for a holiday at the Golden Sands resort, but I could not mention my real name. I was allowed to travel abroad only in the early 1990s.',
-        'Mikhail Kalashnikov',
+    'f281f720-b985-5f97-8fc7-3ba9b0b4a2a4' => [
+        'If success attends my steps, honor and glory await my name-if defeat, still shall it be said we died like brave men, and conferred honor, even in death, on the American Name.',
+        'Zebulon Pike',
     ],
-    [
-        'It\'s never been an issue for me - I don\'t want to go on a diet, I don\'t want to eat a Caesar salad with no dressing, why would I do that? I ain\'t got time for this, just be happy and don\'t be stupid. If I\'ve got a boyfriend and he loves my body then I\'m not worried.',
-        'Adele',
+    '8fe35998-c24c-5e7b-9de3-ce3578fbf3be' => [
+        'I think, aesthetically, car design is so interesting - the dashboards, the steering wheels, and the beauty of the mechanics. I don\'t know how any of it works, I don\'t want to know, but it\'s inspirational.',
+        'Paloma Picasso',
     ],
-    [
-        '\'Halal in the Family\' will expose a broad audience to some of the realities of being Muslim in America. By using satire, we will encourage people to reconsider their assumptions about Muslims, while providing a balm to those experiencing anti-Muslim bias. I also hope those Uncles and Aunties out there will crack a smile!',
-        'Aasif Mandvi',
+    'a89fbd72-e00e-5a0a-b019-a83028fc23a0' => [
+        'I\'ve had great success being a total idiot.',
+        'Jerry Lewis',
     ],
-    [
-        'I find that it\'s the simple things that remind you of family around the holidays.',
-        'Amy Adams',
+    'a7331702-859e-5c44-88a2-1269c4b5a2a4' => [
+        'The genre has moved into this commercial aspect of itself, and ignored this extraordinarily rich literature that\'s filed everywhere else except under travel.',
+        'Robyn Davidson',
     ],
-    [
-        'I wasn\'t a big fan of social anthropology. And, luckily, that created room for me to work in visual arts because I sort of ignored my requirements. I think I was attracted to social anthropology because I liked to travel and was always interested in far-off places.',
-        'Darren Aronofsky',
+    '35fd93ca-17d3-51e5-96a5-5aa64d1b6a71' => [
+        'All of us grow up in particular realities - a home, family, a clan, a small town, a neighborhood. Depending upon how we\'re brought up, we are either deeply aware of the particular reading of reality into which we are born, or we are peripherally aware of it.',
+        'Chaim Potok',
     ],
-    [
-        'Funny is funny. I dare anyone to look at Tim Conway and Harvey Korman doing the dentist sketch, which is more than 40 years old, and not scream with laughter.',
-        'Carol Burnett',
+    '459986a8-1aba-5d41-996c-e5b48cfacba9' => [
+        'Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.',
+        'Harry Burchell Mathews',
     ],
-    [
-        'After all, it is the divinity within that makes the divinity without; and I have been more fascinated by a woman of talent and intelligence, though deficient in personal charms, than I have been by the most regular beauty.',
-        'Washington Irving',
+    '74066f58-50d9-5239-85af-59b5fb9b5ecc' => [
+        'There\'s a lot of blood, sweat, and guts between dreams and success.',
+        'Paul Bryant',
     ],
-    [
-        'I think the rise of China is one of the great events of all economic and human history, and I think this will be overwhelmingly a positive thing for the region and the world.',
-        'Paul Keating',
+    'ca688284-4b75-5c79-9f99-f501493f01ca' => [
+        'Beauty is but a flower, which wrinkles will devour.',
+        'Thomas Nashe',
     ],
-    [
-        'Having plants and flowers in my space makes me feel very calm and Zen. For me, it\'s important to meditate every morning to be very clear in the head, and nature really helps me do the same thing.',
-        'Nicola Formichetti',
+    '8fdc11f6-75e8-5758-afe2-93225ea19e1e' => [
+        'All the best people in life seem to like LINUX.',
+        'Steve Wozniak',
     ],
-    [
-        'For a writer only one form of patriotism exists: his attitude toward language.',
-        'Joseph Brodsky',
+    '62f99c93-edc7-5ae2-9e2e-a65037830665' => [
+        'Whatever happens, take responsibility.',
+        'Tony Robbins',
     ],
-    [
-        'Life is not a matter of place, things or comfort; rather, it concerns the basic human rights of family, country, justice and human dignity.',
-        'Imelda Marcos',
+    'faed8542-8e57-56fa-ac76-9f965922a0c9' => [
+        'If you have fun and keep a good attitude, people want to work with you.',
+        'James Marsden',
     ],
-    [
-        'If you look hard at it, if you look hard at the bleeding heart attitude to always throw money at issues, throw money at problems, what you\'re in fact probably saying is you\'re exercising a prejudicism of low expectations.',
-        'Andrew Forrest',
+    '25b68b3a-ce79-5acf-9400-ba3ad3eb7ac3' => [
+        'I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.',
+        'Muhammad Iqbal',
     ],
-    [
-        'Take it easy, but take it.',
-        'Woody Guthrie',
+    'b2d424b7-30fb-5669-830f-0f906d3c989a' => [
+        'You know what? I\'m not always in a positive, happy place. But I\'m able to concentrate enough to come up with a really good song.',
+        'Brian Wilson',
     ],
-    [
-        'There is no racial or ethnic involvement in Thanksgiving, and people who may be very distant from the Christian system can see the beauty and the positive spirit that comes from the holiday.',
-        'John Clayton',
+    '1e6525cd-5e38-5077-8b26-8e6c1f138553' => [
+        'Nature is impersonal, awe-inspiring, elegant, eternal. It\'s geometrically perfect. It\'s tiny and gigantic. You can travel far to be in a beautiful natural setting, or you can observe it in your backyard - or, in my case, in the trees lining New York City sidewalks, or in the clouds above skyscrapers.',
+        'Gretchen Rubin',
     ],
-    [
-        'The best advice that was given to me was that I had to be 10 times smarter, braver and more polite to be equal. So I did.',
-        'Samuel L. Jackson',
+    '422156a6-912d-54a8-8aa3-9e784b6b18ad' => [
+        'He who obtains has little. He who scatters has much.',
+        'Richard Braunstein',
     ],
-    [
-        'Learning should be engaging. Testing should not be the be all and end all. All students should have a broad curriculum that includes the arts and enrichment. Students should have opportunities to work in teams and engage in project-based learning. And student and family well-being should be front and center.',
-        'Randi Weingarten',
+    '1be799a8-496d-5c48-bead-3358058f0b9d' => [
+        'If I have learned anything, it is to keep my wife happy by sending her lavish gifts. Other men can learn from my success and send their wives and girlfriends fresh flowers for birthdays, anniversaries, and of course, Valentine\'s Day.',
+        'Don Rickles',
     ],
-    [
-        'I didn\'t work hard to sit down and not work.',
-        'Kevin Hart',
+    '5df88b18-d50e-5e9c-a893-942778607cae' => [
+        'Without music, life would be a mistake.',
+        'Benjamin Jowett',
     ],
-    [
-        'The superior man makes the difficulty to be overcome his first interest; success only comes later.',
-        'Confucius',
+    '0a9081ca-d6f6-504a-b2ab-c31c4503ae40' => [
+        'Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.',
+        'Samuel Beckett',
     ],
-    [
-        'Sometimes the most important thing in a whole day is the rest we take between two deep breaths.',
-        'Etty Hillesum',
+    '26c53060-93d3-5ba4-8d6b-bc0424ce9978' => [
+        'You can\'t climb the ladder of success with your hands in your pockets.',
+        'Arnold Schwarzenegger',
     ],
-    [
-        'Forgiveness does not change the past, but it does enlarge the future.',
-        'Paul Boese',
+    '18a4f2fb-072f-5273-826b-a745addfe93f' => [
+        'I am positive that I would see the end of child labour around the world in my lifetime, as the poorest of the poor have realised that education is a tool that can empower them.',
+        'Kailash Satyarthi',
     ],
-    [
-        'The worst tragedy that could have befallen me was my success. I knew right away that I was through - cast out.',
-        'Jonas Salk',
+    '214c854c-2c32-57ca-a698-45f1de4fe9ad' => [
+        'For those who have made the ultimate sacrifice, we are grateful that such men and women were among us. For those who continue to serve, we honor their commitment. For those who return to civilian life, we honor their service.',
+        'Leo Tolstoy',
     ],
-    [
-        'I love the fact that we are surrounded by this spectacular natural beauty that routinely strikes us dead. Hikers walk off into the woods and are never seen again. And still we tug on our fleece and skip off into the wilderness, not a care in the world.',
-        'Chelsea Cain',
+    '308a64d7-4466-5a04-9d83-7df60cdb8f07' => [
+        'It always seems impossible until it is done.',
+        'Nelson Mandela',
     ],
 ];

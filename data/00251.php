@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'There was a great strain in our family because my father didn\'t want anything to do with me. He was happy to see my brother and sister, but not me. I don\'t know why. Maybe it was shame. I don\'t know. But he never wanted anything to do with me. That rejection was terribly hurtful and it went on for years.',
-        'Carol Vorderman',
+    'f438f432-e651-55a4-b470-671e6e68e537' => [
+        'Happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.',
+        'J. Donald Walters',
     ],
-    [
-        'Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.',
-        'Norman Cousins',
+    '524c4ad5-af7f-56ef-8474-2ae32f9ded69' => [
+        'To be happy is to be able to become aware of oneself without fright.',
+        'Walter Benjamin',
     ],
-    [
-        'There is an electric fire in human nature tending to purify - so that among these human creatures there is continually some birth of new heroism. The pity is that we must wonder at it, as we should at finding a pearl in rubbish.',
-        'John Keats',
+    '0855a639-62cc-5f47-be96-9cb674151b5e' => [
+        'Don\'t write anything you can phone. Don\'t phone anything you can talk. Don\'t talk anything you can whisper. Don\'t whisper anything you can smile. Don\'t smile anything you can nod. Don\'t nod anything you can wink.',
+        'Earl Long',
     ],
-    [
-        'If you come from a solid family structure, it doesn\'t matter what you go through in your life. You\'re going to be okay.',
-        'Alyssa Milano',
+    'ff14c7f5-36ab-580c-9b29-68bddd568b77' => [
+        'You can only perceive real beauty in a person as they get older.',
+        'Anouk Aimee',
     ],
-    [
-        'Sometimes, the other characters are too normal and then you start to be brought back to reality but then Luna shows up and she is just so funny and cool and honest and slightly mad and she\'s all that matters. She is 100% true. She puts on no shows, because she is so comfortable with herself.',
-        'Evanna Lynch',
+    '8cc46287-80b2-5d56-9b51-60aa723c4b51' => [
+        'Find ecstasy in life; the mere sense of living is joy enough.',
+        'Nick Vujicic',
     ],
-    [
-        'In our daily life, we encounter people who are angry, deceitful, intent only on satisfying their own needs. There is so much anger, distrust, greed, and pettiness that we are losing our capacity to work well together.',
-        'Margaret J. Wheatley',
+    'd67e971b-14fe-56fa-a42d-25c9f9469301' => [
+        'I just really think every job I do, I get this gypsy attitude to money.',
+        'Jessica Brown Findlay',
     ],
-    [
-        'When you\'re out of sight for as long as I was, there\'s a funny feeling of betrayal that comes over people when they see you again.',
-        'Esther Williams',
+    '916f2a57-defe-53ec-8968-45129ceecead' => [
+        'Those who dream by day are cognizant of many things which escape those who dream only by night.',
+        'Edgar Allan Poe',
     ],
-    [
-        'When one travels around the world, one notices to what an extraordinary degree human nature is the same, whether in India or America, in Europe or Australia.',
-        'Jiddu Krishnamurti',
+    'f33aeca5-3717-5358-88b6-34f9d0901cef' => [
+        'I\'m a prankster, so some of the - you know, I like a good joke. I think when it\'s funny, it\'s funny.',
+        'Sean Spicer',
     ],
-    [
-        'Beauty is the bait which with delight allures man to enlarge his kind.',
-        'Socrates',
+    'd51e2407-a175-5316-96bc-d1e3bbd675a4' => [
+        'Man, being reasonable, must get drunk; the best of life is but intoxication.',
+        'Lord Byron',
     ],
-    [
-        'If you can attribute your success entirely to your own mental effort, to your own attitude, to some spiritual essence that you have that is better than other people\'s, then that must feel pretty good.',
-        'Barbara Ehrenreich',
+    '53ee295e-c707-58d6-befb-2f482fcf45ac' => [
+        'The most fundamental fact about the ideas of the political left is that they do not work. Therefore we should not be surprised to find the left concentrated in institutions where ideas do not have to work in order to survive.',
+        'Thomas Sowell',
     ],
-    [
-        'The land created me. I\'m wild and lonesome. Even as I travel the cities, I\'m more at home in the vacant lots.',
-        'Bob Dylan',
+    '8dd31287-accc-51c7-a4c8-cbb5b873f8cc' => [
+        'There\'s no such thing as a specific authenticity to what Mexico is, because Mexico is incredibly complex and varied, and the food is completely different if you travel 50 kilometers. It just changes all the time.',
+        'Gael Garcia Bernal',
     ],
-    [
-        'Atoms consist of a positive nucleus and negative electrons flying around outside it. Electrons closest to the nucleus feel a strong negative-on-positive tug, and the bigger atoms get, the bigger the tug. In really big atoms, electrons whip around at speeds close to the speed of light.',
-        'Sam Kean',
+    '99d2433a-489e-5e9b-add8-04aea9463852' => [
+        'The meaning of things lies not in the things themselves, but in our attitude towards them.',
+        'Antoine de Saint-Exupery',
     ],
-    [
-        'When I have had a long day at work, I want something to watch that is funny, lighthearted and easy to get into, and reality is that. I\'m not really into serious programmes or documentaries.',
-        'Amy Childs',
+    '20753895-4531-593c-8b86-ada32ee64084' => [
+        'I have wandered all my life, and I have also traveled; the difference between the two being this, that we wander for distraction, but we travel for fulfillment.',
+        'Hilaire Belloc',
     ],
-    [
-        'There is no substitute for victory.',
-        'Douglas MacArthur',
+    '247e3f81-070d-5a45-bcee-b11600ccf1d8' => [
+        'To me, it doesn\'t matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.',
+        'Ian Botham',
     ],
-    [
-        'Raising children uses every bit of your being - your heart, your time, your patience, your foresight, your intuition to protect them, and you have to use all of this while trying to figure out how to discipline them.',
-        'Nicole Ari Parker',
+    'bb55b244-de15-5f87-8d4e-adda9533a39f' => [
+        'I realise myself that hate wastes a lot of time and energy, and I would rather re-direct any energy that I have to good and positive use.',
+        'Julian Lennon',
     ],
-    [
-        'Every successful organization has to make the transition from a world defined primarily by repetition to one primarily defined by change. This is the biggest transformation in the structure of how humans work together since the Agricultural Revolution.',
-        'Bill Drayton',
+    '7885883d-dec7-5f0f-b21c-d5222767be13' => [
+        'Think little goals and expect little achievements. Think big goals and win big success.',
+        'David Joseph Schwartz',
     ],
-    [
-        'Especially as a title-holder, you can do great things with charities, because people suddenly care about what you have to say. I wanted to make a difference, which is why I created the Queen of the Universe pageant. I want to change all of those stigmas in the beauty pageant world.',
-        'Joyce Giraud',
+    'ebbccf2a-0f10-5a0a-ae55-e854222937a1' => [
+        'Here is my wish and my desire and my pledge as well: that we remember our true nature and our womanhood. That we own and know that we are more than our bodies and yet our bodies are these sacred, beautiful, rhythmic houses for us.',
+        'Tracee Ellis Ross',
     ],
-    [
-        'Fairness is not an attitude. It\'s a professional skill that must be developed and exercised.',
-        'Brit Hume',
+    '8b885248-ee1d-50e1-bd66-9016b4ab3341' => [
+        'Nothing is softer or more flexible than water, yet nothing can resist it.',
+        'Lao Tzu',
     ],
-    [
-        'I have an unfortunate personality.',
-        'Orson Welles',
+    'bb6cf7b8-647a-53e2-8bb0-439d87504a76' => [
+        'Believe in your dreams and dream big. And then after you\'ve done that, dream bigger.',
+        'Howard Schultz, CEO Starbucks',
     ],
-    [
-        'Just telling the facts are no longer enough. You now have to be persuasive, charismatic, interesting, and funny. Just telling people things isn\'t enough anymore.',
-        'Milo Yiannopoulos',
+    'cb698a58-ee08-57ae-bce6-be3eac383288' => [
+        'Life\'s short. Anything could happen, and it usually does, so there is no point in sitting around thinking about all the ifs, ands and buts.',
+        'Joan D. Vinge',
     ],
-    [
-        'Find beauty not only in the thing itself but in the pattern of the shadows, the light and dark which that thing provides.',
-        'Junichiro Tanizaki',
+    'bd4af360-728a-594b-bca1-03b8d8884b79' => [
+        'Since she got a cause and stopped being funny. I think she\'s real funny, but lately it\'s all been hearts and flowers and tears and saving teenagers and creating a role model. And that ain\'t funny. No giggles there.',
+        'Andy Richter',
     ],
-    [
-        'If you are not willing to risk the usual you will have to settle for the ordinary.',
-        'Jim Rohn',
+    'cb1055f3-a0a7-5454-a843-de466abfd42a' => [
+        'When asked, \'How do you write?\' I invariably answer, \'one word at a time.\'',
+        'Stephen King',
     ],
-    [
-        'As I get older, all sorts of things become less funny. Once one has children, any cruelty involving children becomes far less amusing than when one was at the mercy of one\'s friends\' and relatives\' children.',
-        'P. J. O\'Rourke',
+    'fc9be0db-7d6a-5fb5-8505-c7d6b67efc74' => [
+        'Dada was an extreme protest against the physical side of painting. It was a metaphysical attitude.',
+        'Marcel Duchamp',
     ],
-    [
-        'Never let lack of money interfere with having fun.',
-        'Unknown',
+    'fd74ae9e-cf32-57e7-9c2d-76a8914bfd4b' => [
+        'People will love you. People will hate you. And none of it will have anything to do with you.',
+        'Abraham Hicks',
     ],
-    [
-        'The power of women in the politics is a soft power. It is a positive change that our country and other countries in the region... are making by giving a chance to women.',
-        'Atifete Jahjaga',
+    '5efc98ec-32a2-50ca-8d72-8d096213e33b' => [
+        'There is no scientific reason to think that we, even with space travel, are going to survive as a species for ever, certainly not by biting off the hand that feeds us, which is exactly what we are doing.',
+        'Lynn Margulis',
     ],
 ];

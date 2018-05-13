@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Speak when you are angry and you will make the best speech you will ever regret.',
-        'Ambrose Bierce',
+    '581e30a1-62d3-595f-901c-201a763cf5e4' => [
+        'Man does not control his own fate. The women in his life do that for him.',
+        'Joseph Campbell',
     ],
-    [
-        'It takes considerable knowledge just to realize the extent of your own ignorance.',
-        'Thomas Sowell',
+    '797b4703-5da2-549c-842a-69df7bd045e7' => [
+        'Love is not blind; it simply enables one to see things others fail to see.',
+        'Unknown',
     ],
-    [
-        'I hate to be a failure. I hate and regret the failure of my marriages. I would gladly give all my millions for just one lasting marital success.',
-        'J. Paul Getty',
+    'a116929c-5529-522e-aab2-cbee0fe76fc7' => [
+        'I used to jog but the ice cubes kept falling out of my glass.',
+        'David Lee Roth',
     ],
-    [
-        'My mother-in-law speaks not a word of English. I speak not a word of Tajiki. So I smile at her ingratiatingly and she fixes me with a beady eye.',
-        'Wilbur Smith',
+    '9b39951e-f91f-5b23-9b5b-0be9758885ae' => [
+        'There are other writers who try for subtle and minimalists effects, but I don\'t travel in that tribe.',
+        'Pat Conroy',
     ],
-    [
-        'I love a man with a great sense of humor and who is intelligent - a man who has a great smile. He has to make me laugh. I like a man who is very ambitious and driven and who has a good heart and makes me feel safe. I like a man who is very strong and independent and confident - that is very sexy - but at the same time, he\'s very kind to people.',
-        'Nicole Scherzinger',
+    '57e17518-ea03-5ede-8c46-3c3f2bb766d0' => [
+        'Seek goodness and be goodness. Seek beauty and be beauty. Seek love and be love.',
+        'Bryant H. McGill',
     ],
-    [
-        'It\'s a slow process, but quitting won\'t speed it up.',
-        'Anonymous',
+    'ef6d2ff8-8526-51e0-b171-2cdb0f29acf4' => [
+        'Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational.',
+        'Kevin Brownlow',
     ],
-    [
-        'Seventy percent of success in life is showing up.',
-        'Woody Allen',
+    '368ca8f6-7292-51c1-a480-f4b141fb3358' => [
+        'I\'ve been thinking about disowning some of my genes lately. I have a few healthy, happy, long-living optimists in my family tree - most of them fans of Christian Science founder Mary Baker Eddy, a major champion of positive thinking. But I\'ve got plenty of ancestors who played out more tortured hands.',
+        'Ariel Gore',
     ],
-    [
-        'I have a deep tribal sense. I grew up in a synagogue that my ancestors built. I sat in the third row. My family was decent. They were good people; they were handshake people. So I never had a sense of rebellion.',
-        'Leonard Cohen',
+    '952b016f-5bdd-5e2d-a54a-5256ddfa1a85' => [
+        'Maybe there is no actual place called hell. Maybe hell is just having to listen to our grandparents breathe through their noses when they\'re eating sandwiches.',
+        'Jim Carrey',
     ],
-    [
-        'Establishing lasting peace is the work of education; all politics can do is keep us out of war.',
-        'Maria Montessori',
+    '2cd09bd7-89cf-5049-a355-7eb6b7ea6bc3' => [
+        'Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.',
+        'Charles A. Lindbergh',
     ],
-    [
-        'We have become aware of the responsibility for our attitude towards the dark pages in our history. We have understood that bad service is done to the nation by those who are impelling to renounce that past.',
-        'Aleksander Kwasniewski',
+    '6aaa7f1b-d4fb-5026-9011-ae5332ed790d' => [
+        'The Internet has done nothing but good for comedy all around. Comedians no longer have to rely on TV execs and club owners deciding if they are funny or not.',
+        'Doug Stanhope',
     ],
-    [
-        'The greatest good you can do for another is not just to share your riches but to reveal to him his own.',
-        'Benjamin Disraeli',
+    'aefe4aea-8317-5ce4-a436-23632dc53d56' => [
+        'Many hands make light work.',
+        'John Heywood',
     ],
-    [
-        'If everyone is moving forward together, then success takes care of itself.',
-        'Henry Ford',
+    'f2470a31-767f-5865-b01a-a920815c3c4c' => [
+        'There\'s no explanation for success. Success just comes out of life.',
+        'Meat Loaf',
     ],
-    [
-        'I aimlessly travel, meaning I have no agenda other than to get small in the world, be quiet and observe people.',
-        'Walton Goggins',
-    ],
-    [
-        'Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.',
-        'Thomas Carlyle',
-    ],
-    [
-        'I wanted to do another movie that could make us laugh and cry and feel good about the world. I wanted to do something else that could make us smile. This is a time when we need to smile more and Hollywood movies are supposed to do that for people in difficult times.',
-        'Steven Spielberg',
-    ],
-    [
-        'The family, that dear octopus from whose tentacles we never quite escape, nor in our innermost hearts never quite wish to.',
-        'Dodie Smith',
-    ],
-    [
-        'Kids are meant to believe that their stepping stone to massive money is \'The X Factor.\' Luck is great, but most of life is hard work. We do not celebrate people who have made success out of serious hard work.',
-        'Iain Duncan Smith',
-    ],
-    [
-        'I never knew a man come to greatness or eminence who lay abed late in the morning.',
-        'Johnathan Swift',
-    ],
-    [
-        'Improving Africa\'s farming sector would have multiple positive outcomes for African people.',
-        'Richard Attias',
-    ],
-    [
-        'The biggest message I have for young women is, Don\'t start cutting off branches of your career tree unnecessarily early. Sometimes women say, I know I want to have a family or play in the local symphony, and they start pulling themselves out of their career path. You don\'t have to take yourself out of the running before you even start.',
-        'Mary Barra',
-    ],
-    [
-        'If dysfunction means that a family doesn\'t work, then every family ambles into some arena in which that happens, where relationships get strained or even break down entirely. We fail each other or disappoint each other. That goes for parents, siblings, kids, marriage partners - the whole enchilada.',
-        'Mary Karr',
-    ],
-    [
-        'No other game combines the wonder of nature with the discipline of sport in such carefully planned ways. A great golf course both frees and challenges a golfer\'s mind.',
-        'Tom Watson',
-    ],
-    [
-        'Chaos is inherent in all compounded things. Strive on with diligence.',
+    '01c433b8-51dd-581b-96d2-682437f625c9' => [
+        'Better than a thousand hollow words, is one word that brings peace.',
         'Buddha',
     ],
-    [
-        'Christmas is the day that holds all time together.',
-        'Alexander Smith',
+    '4e778c34-866a-5a59-af07-0e291393f905' => [
+        'Beauty has so many forms, and I think the most beautiful thing is confidence and loving yourself.',
+        'Kiesza',
     ],
-    [
-        'To be successful you have to be lucky, or a little mad, or very talented, or find yourself in a rapid growth field.',
-        'Edward de Bono',
+    '86100410-77d2-5d95-8e9b-f29c5015f0b2' => [
+        'I love pizza. I want to marry it, but it would just be to eat her family at the wedding.',
+        'Mike Birbiglia',
+    ],
+    'fc867d9d-85d7-5614-bf1a-52c14aa0448b' => [
+        'Life is something to do when you can\'t get to sleep.',
+        'Andrew Bernstein',
+    ],
+    'f7e0f302-2dbb-5216-ae99-edd21c915d5b' => [
+        'Religious speech is extreme, emotional, and motivational. It is anti-literal, relying on metaphor, allusion, and other rhetorical devices, and it assumes knowledge within a community of believers.',
+        'Amy Waldman',
+    ],
+    'dcd609ef-ce8f-5293-85f0-4060d25451c8' => [
+        'There\'s a great power in words, if you don\'t hitch too many of them together.',
+        'Josh Billings',
+    ],
+    'd65f0065-a8c8-581c-9f65-f3a893055829' => [
+        'No act of kindness, no matter how small, is ever wasted.',
+        'Aesop',
+    ],
+    '9688b797-43ef-5024-8dec-4f0b70ce5c16' => [
+        'Her beauty didn\'t do her any good and she couldn\'t use it in any positive way or manipulative way. I just hope that people will look and see and believe in that hope of love, that hope of freedom, even if it was just for a limited time.',
+        'Diane Kruger',
+    ],
+    '85e90b41-dd23-5da1-b028-636aa0ddceb9' => [
+        'My life is like a speeding bullet that just hasn\'t hit the target yet.',
+        'Dick Gregory',
+    ],
+    'f25f9642-10a0-5d1c-87f9-b13b03787a03' => [
+        'I like the idea of being warm and secure. That\'s what home should be. That you have a sense of warmth, security, love, and you love the things around you and surround yourself with beauty.',
+        'Andre Leon Talley',
+    ],
+    '21f31915-eef6-5fe2-ad1c-d2e031082b05' => [
+        'Patience is the best remedy for every trouble.',
+        'Plautus',
+    ],
+    '583c8ca4-2f6b-5f54-9666-90a47b565091' => [
+        'To be prepared is half the victory.',
+        'Miguel de Cervantes',
+    ],
+    '15f199a0-4b49-52e8-8595-9c967c9dfbb6' => [
+        'All identity labels are umbrella terms to some degree, but this term \'bisexual\' is not only serviceable, but it is sufficient. And yes, it brings together a bunch of people who are maybe shades different from one another. And maybe that\'s the beauty of labels: that they force you to be with other people and see the difference.',
+        'Charles M. Blow',
     ],
 ];

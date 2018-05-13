@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Boys used to call me Soda in school days. Soda means \'serving officers daughters association.\' I miss those days when I had a very protected life: one could get close and bond with other army people that they gradually would become your extended family.',
-        'Anushka Sharma',
+    'e8cfe651-f8b1-5272-92cd-61457dadd5bb' => [
+        'We lost because we told ourselves we lost.',
+        'Leo Tolstoy',
     ],
-    [
-        'Once you agree upon the price you and your family must pay for success, it enables you to ignore the minor hurts, the opponent\'s pressure, and the temporary failures.',
-        'Vince Lombardi',
+    'c258060d-b6d1-5b74-bae4-bc72c522391e' => [
+        'If there is no struggle, there is no progress.',
+        'Frederick Douglass',
     ],
-    [
-        'When I was a boy the Dead Sea was only sick.',
-        'George Burns',
+    'f7ab9c9b-ae93-5a3d-9436-41cd7b306d1b' => [
+        'Positive, adj.: Mistaken at the top of one\'s voice.',
+        'Ambrose Bierce',
     ],
-    [
-        'Things turn out best for the people who make the best of the way things turn out.',
-        'John Wooden',
+    '29d02255-9bf5-5b3e-9d41-7b45635f75b1' => [
+        'There is only one success - to be able to spend your life in your own way.',
+        'Christopher Morley',
     ],
-    [
-        'Nobody got where they are today by living for tomorrow.',
-        'Jawaharlal Nehru',
+    '959fdec0-4fca-51db-af60-0472727478e5' => [
+        'There are those who love to get dirty and fix things. They drink coffee at dawn, beer after work. And those who stay clean, just appreciate things. At breakfast they have milk and juice at night. There are those who do both, they drink tea.',
+        'Gary Snyder',
     ],
-    [
-        'I think being funny is not anyone\'s first choice.',
-        'Woody Allen',
+    '39b40d6a-6b05-5f4f-a34f-5efdad8c0659' => [
+        'Here ends my forever memorable first High Sierra excursion. I have crossed the Range of Light, surely the brightest and best of all the Lord has built. And, rejoicing in its glory, I gladly, gratefully, hopefully pray I may see it again.',
+        'John Muir',
     ],
-    [
-        'You know, I think the greatest gift in the world is a good employee, you know, or people who can do your work for you and do it well the way you\'d like to have it done. And I\'ve always been able to surround myself with really good people.',
-        'Kenny Rogers',
+    '7cf107f3-f3cc-55e4-a60b-7e41dfbbe0c5' => [
+        'Exercise is one of the best ways in preventing the rapid growth of obesity in America.',
+        'Lee Haney',
     ],
-    [
-        'We must reject the idea that every time a law\'s broken, society is guilty rather than the lawbreaker. It is time to restore the American precept that each individual is accountable for his actions.',
-        'Ronald Reagan',
+    'd29fde21-6499-56fe-a623-cfacdd1013eb' => [
+        'Our heavenly Father understands our disappointment, suffering, pain, fear, and doubt. He is always there to encourage our hearts and help us understand that He\'s sufficient for all of our needs. When I accepted this as an absolute truth in my life, I found that my worrying stopped.',
+        'John de Mol, Jr.',
     ],
-    [
-        'Be slow of tongue and quick of eye.',
-        'Cervantes',
+    '5a233bda-1678-5c4a-b237-487c7259276d' => [
+        'The more often we see the things around us - even the beautiful and wonderful things - the more they become invisible to us. That is why we often take for granted the beauty of this world: the flowers, the trees, the birds, the clouds - even those we love. Because we see things so often, we see them less and less.',
+        'Joseph B. Wirthlin',
     ],
-    [
-        'Playing video games is something I enjoy in my spare time. I\'m a gamer, always have been.',
-        'Kevin Garnett',
+    '083d9856-d238-5438-a2c8-077aab839bc0' => [
+        'Some say I\'m an overnight success. Well, that was a very long night that lasted about 10 years.',
+        'Lisa Morton',
     ],
-    [
-        'What is the good of your stars and trees, your sunrise and the wind, if they do not enter into our daily lives?',
-        'E. M. Forster',
+    '223c2a1c-d848-547c-9aa6-d99b9ddb4f0f' => [
+        'Do not take life too seriously. You will never get out of it alive.',
+        'Og Mandino',
     ],
-    [
-        'Action may not always bring happiness; but there is no happiness without action.',
-        'Benjamin Disraeli',
+    '8fa85f08-b18c-5c69-aeff-3bc4548887f4' => [
+        'Life\'s more amusing than we thought.',
+        'Morgan Freeman',
     ],
-    [
-        'I had gotten to a place where I truly believed everything I was called: \'not sexy,\' \'not funny,\' \'too intense,\' desperate.\' All those labels they gave me, I took them because there wasn\'t a trace of my true self left.',
-        'Naomi Watts',
+    '2b410199-9d0e-5993-8d94-c5d88f161d54' => [
+        'As long as your going to be thinking anyway, think big.',
+        'Donald Trump',
     ],
-    [
-        'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.',
-        'Everett Dirksen',
+    '6eed7ae4-4f0e-554e-a4b2-7e1acd358962' => [
+        'Anybody who succeeds is helping people. The secret to success is find a need and fill it; find a hurt and heal it; find a problem and solve it.',
+        'Robert H. Schuller',
     ],
-    [
-        'Propaganda has a negative connotation, which it partially deserves, but I think there is some propaganda that is very positive. I feel that if you can do something that gets people\'s attention, then maybe they\'ll go and find out more about the person.',
-        'Shepard Fairey',
+    'd2873db1-41a8-5679-91c8-de9847ff8380' => [
+        'Satisfaction consists in freedom from pain, which is the positive element of life.',
+        'Arthur Schopenhauer',
     ],
-    [
-        'I think fitness is important. I think a healthy lifestyle is important. I think putting positive energy out there is important and just staying connected with the people.',
-        'LL Cool J',
+    '62115a54-417d-579c-b5dd-e3feb714b18a' => [
+        'The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity.',
+        'Ruby Dee',
     ],
-    [
-        'Space exploration is important research to our economic and national defense, and America\'s space program is a symbol of our success as a scientifically and technologically advanced nation.',
-        'Randy Forbes',
+    'f99cc4d1-217b-58fa-abb1-2c2bfac1e297' => [
+        'I think Operation Smile is in more than 22 countries, mostly Third World. It just happened that my schedule opened up at the time they were heading to Vietnam.',
+        'Roma Downey',
     ],
-    [
-        'Life is pleasant. Death is peaceful. It\'s the transition that\'s troublesome.',
-        'Henry Ford',
+    'a98753c3-1329-5054-852f-ae8d4b232a74' => [
+        'When I let go of what I am, I become what I might be.',
+        'Lao Tzu',
     ],
-    [
-        'I learned the value of hard work by working hard.',
-        'Margaret Mead',
+    'b2f0e489-1202-551c-b116-309adbeeebd5' => [
+        'I think home has become my friends and family, wherever they are.',
+        'Rachel Brosnahan',
     ],
-    [
-        'The greatest humiliation in life, is to work hard on something from which you expect great appreciation, and then fail to get it.',
-        'E. W. Howe',
+    'f39b8449-67c6-5829-85cc-b17e706bb77c' => [
+        'If there were no night, we would not appreciate the day, nor could we see the stars and the vastness of the heavens. We must partake of the bitter with the sweet. There is a divine purpose in the adversities we encounter every day. They prepare, they purge, they purify, and thus they bless.',
+        'James E. Faust',
     ],
-    [
-        'Don\'t time travel into the past, roaming through the nuances as if they can change. Don\'t bookmark pages you\'ve already read.',
-        'James Altucher',
+    '42021f2b-b0cd-511c-b16f-598f5f0c7b35' => [
+        'I mean, I look at my dad. He was twenty when he started having a family, and he was always the coolest dad. He did everything for his kids, and he never made us feel like he was pressured. I know that it must be a great feeling to be a guy like that.',
+        'Adam Sandler',
     ],
-    [
-        'Dad could talk about peace and love out loud to the world, but he could never show it to the people who supposedly meant the most to him: his wife and son. How can you talk about peace and love and have a family in bits and pieces - no communication, adultery, divorce? You can\'t do it, not if you\'re being true and honest with yourself.',
-        'Julian Lennon',
+    '9926fb80-cac8-5e66-815a-6b84d4ccc6f8' => [
+        'Two great talkers will not travel far together.',
+        'George Borrow',
     ],
-    [
-        'I don\'t smile as much as I should, even though I smile inside a lot.',
-        'James Patterson',
+    '3a3a8f0e-dc61-5035-bdad-0d3007d62ec7' => [
+        'No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other\'s worth.',
+        'Robert Southey',
     ],
-    [
-        'We worked so hard, spent so much time in weight room and in camps to be where we are today. We wanted to come out and be as good as any team in the state, to prove we could hang with any team at any time.',
-        'Anthony Davis',
+    'd51c516e-5e27-593d-9b74-3f016e55d01c' => [
+        'Surrounded by all the members of my dear family, enjoying the affection of numerous friends, who have never abandoned me, and possessing a sufficient share of all that contributes to make life agreeable, I lift my grateful eyes towards the Supreme Being and feel that I am happy.',
+        'John James Audubon',
     ],
-    [
-        'Selfishness, narcissism, being uncomfortable in your own skin, not feeling connected to the world around you, feeling dislocated from family and youth, having a strange relationship with your childhood - all those things feel really true to me.',
-        'Jason Reitman',
+    '0d50a23f-96fe-5339-a5b2-20870e82492e' => [
+        'In the non-Greek stories, Persia, Egypt, even China, Central Asia, in oral traditions and written literature, anyone who fights Amazons admires their courage and beauty, and they want to be allies of the Amazon; they don\'t wanna kill them.',
+        'Adrienne Mayor',
     ],
 ];

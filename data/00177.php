@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Guitar is the best form of self-expression I know. Everything else, and I\'m just sort of tripping around, trying to figure my way through life.',
-        'Slash',
+    'bb6f937e-24b1-5eb6-8653-68056966304f' => [
+        'The only thing I can do is fight. Win or lose, I\'m here every damn time.',
+        'Donald Cerrone',
     ],
-    [
-        'The idea that we should write towards the unknown aspects of our experience was totally groundbreaking for me. It gave me the license I needed to try to write outside myself. This attitude has deeply informed my approach to fiction, emboldening me to write characters with voices or situations that are vastly different from my own.',
-        'Molly Antopol',
+    '01c1b39b-10d9-5b47-ab12-19dae4d44acc' => [
+        'In the depth of winter I finally learned that there was in me an invincible summer.',
+        'Albert Camus',
     ],
-    [
-        'The greatest minds are capable of the greatest vices as well as of the greatest virtues.',
-        'Rene Descartes',
+    'b591c494-3049-5a87-bf55-fb08fff19c55' => [
+        'Success is blocked by concentrating on it and planning for it... Success is shy - it won\'t come out while you\'re watching.',
+        'Tennessee Williams',
     ],
-    [
-        'I think it is going to be very difficult to be a company in silos. I think the game has changed. We won\'t define our success by looking at the competitors but at how satisfied are our customers, how engaged are our internal stakeholders, and how good is our product pipeline.',
-        'Michael Dell',
+    'f2678d1f-500b-5ab4-aa07-d90491bc4900' => [
+        'My pals, such as they are, in Hollywood, ask me why I love to travel to D.C. so much, why it\'s a vacation destination for me. I say, \'Because I sometimes have perfect days there.\'',
+        'Ben Stein',
     ],
-    [
-        'Nobody sees a flower really; it is so small. We haven\'t time, and to see takes time - like to have a friend takes time.',
-        'Georgia O\'Keeffe',
+    '1dd83da3-51c3-5dab-8e63-3c0211c721ff' => [
+        'When one side benefits more than the other, that\'s a win-lose situation. To the winner it might look like success for a while, but in the long run, it breeds resentment and distrust.',
+        'Stephen Covey',
     ],
-    [
-        'Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living.',
-        'Mary Ritter Beard',
+    '0c869be6-e98a-57f9-81d3-13e7bd2f13ca' => [
+        'The greatest test of courage on earth is to bear defeat without losing heart.',
+        'Robert Green Ingersoll',
     ],
-    [
-        'If a writer falls in love with you, you can never die.',
-        'Mik Everett',
+    'b0bb7e56-7d74-55d2-954a-84c2b577fcce' => [
+        'To love beauty is to see light.',
+        'Victor Hugo',
     ],
-    [
-        'If you love someone, set them free. If they come back they\'re yours; if they don\'t they never were.',
-        'Richard Bach',
+    '72836810-8fc5-5b6f-b281-e20e45dbd0b1' => [
+        'We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way.',
+        'Les Brown',
     ],
-    [
-        'Whoever is my relative, I will not be nice to them.',
-        'George Lopez',
+    '85069305-425f-5acb-83fb-bc372ecf50e6' => [
+        '\'Thank you\' is the best prayer that anyone could say. I say that one a lot. Thank you expresses extreme gratitude, humility, understanding.',
+        'Alice Walker',
     ],
-    [
-        'The heart has eyes which the brain knows nothing of.',
-        'Charles Perkhurst',
+    '89f2330b-1a4d-5aad-99a7-297bfcd2210a' => [
+        'When you are enthusiastic about what you do, you feel this positive energy. It\'s very simple.',
+        'Paulo Coelho',
     ],
-    [
-        'Quality is much better than quantity. One home run is much better than two doubles.',
-        'Steve Jobs',
+    'eafc051c-4112-5957-8b71-1f0be7a21896' => [
+        'Every man regards his own life as the New Year\'s Eve of time.',
+        'Emily Dickinson',
     ],
-    [
-        'It is not so much for its beauty that the forest makes a claim upon men\'s hearts, as for that subtle something, that quality of air that emanation from old trees, that so wonderfully changes and renews a weary spirit.',
-        'Robert Louis Stevenson',
+    '183191db-0405-5334-af02-976479a3359c' => [
+        'Go for it now. The future is promised to no one.',
+        'Wayne Dyer',
     ],
-    [
-        'I buy everything India Arie, just because she\'s such a positive person, and I just love her music. Her music\'s so soulful... I think Kanye West is a genius musically.',
-        'Tika Sumpter',
+    'b33246ae-7e89-50e4-acc8-6b525d224a3e' => [
+        'If your best friend has stolen your girlfriend, it does become life and death.',
+        'Ben Kingsley',
     ],
-    [
-        'No, I was never one of those positive people who believes he can have whatever he sets his sights on. I just kept working at it.',
-        'George Miller',
+    'cd7fa187-0d47-5a63-8cee-a365acf916e2' => [
+        'Stage fright is not a thing about \'Am I any good?\' It\'s about \'Am I gonna be good tonight?\' It\'s a right-now thing. It helps me. If I went out there thinkin\', \'Eh, we\'ll go slaughter \'em,\' I\'m positive something would go seriously wrong.',
+        'Gregg Allman',
     ],
-    [
-        'Even in decline, a virtuous man increases the beauty of his behavior. A burning stick, though turned to the ground, has its flame drawn upwards.',
-        'Saskya Pandita',
+    '840be4a4-85cb-5060-a804-28312500dc23' => [
+        'Therefore, when I considered this carefully, the contempt which I had to fear because of the novelty and apparent absurdity of my view, nearly induced me to abandon utterly the work I had begun.',
+        'Nicolaus Copernicus',
     ],
-    [
-        'My father considered a walk among the mountains as the equivalent of churchgoing.',
-        'Aldous Huxley',
+    '3efd5fc7-ed38-502c-8502-272c63ef61fe' => [
+        'It\'s funny... you can make fun of AIDS or Haiti, but if you make fun of some starlet in Hollywood\'s looks? That\'s like the one thing... the line you are not to cross.',
+        'Daniel Tosh',
     ],
-    [
-        'I always spend time exploring the customs and attitudes of the countries I\'m using for locations, and interviewing the people who live there. I\'ve visited over 90 countries thus far.',
-        'Sidney Sheldon',
+    '8a1b8bde-8fa5-5a0b-9e63-880970456906' => [
+        'The purpose of life is a life of purpose.',
+        'Paula Deen',
     ],
-    [
-        'I think the world is ambivalent about feminism. So I can\'t blame college students. I think they\'re reflecting the greater culture\'s attitude toward feminism. So what I can do is, in ways that are appropriate, advocate for feminism and help the students learn what feminism is about.',
-        'Roxane Gay',
+    '692a3574-95a1-539a-b09c-e08028ad4bc8' => [
+        'I favor pocket-sized hard drives that travel between home and office, syncing with computers on both ends.',
+        'Barton Gellman',
     ],
-    [
-        'Words empty as the wind are best left unsaid.',
-        'Homer',
+    'bfa9b28b-88ad-5c3e-ae7b-e4c952591924' => [
+        'I have always thought the actions of men the best interpreters of their thoughts.',
+        'John Locke',
     ],
-    [
-        'If interstellar travel is as time- or energy- demanding as the above figures indicate, it is far from obvious what the motive for colonization might be.',
-        'Barney Oliver',
+    'fc64e6f0-bc1b-55ec-b150-d2939b3f16d8' => [
+        'I went to a motivational training course once, a course of self-discovery, and I found out after a week that my fear - it was not a fear of not being accepted - was a very violent fear of failure.',
+        'Emanuel Steward',
     ],
-    [
-        'I don\'t travel anywhere without the PS3 and XBox. There\'s nothing better to do on long bus trips while on tour.',
-        'Soulja Boy',
+    '04544622-1092-5956-aafa-21658fa97429' => [
+        'My childhood was protected by love and a comfortable home. Yet, while still a very young child, I began instinctively to feel that there was something lacking, even in my own home, some false conception of family relations, some incomplete ideal.',
+        'Emmeline Pankhurst',
     ],
-    [
-        'If you live long enough, you\'ll make mistakes. But if you learn from them, you\'ll be a better person. It\'s how you handle adversity, not how it affects you. The main thing is never quit, never quit, never quit.',
-        'Bill Clinton',
+    '4b8c5622-ebca-5eb7-acde-65d1c19b7cd1' => [
+        'Water is the driving force of all nature.',
+        'Leonardo da Vinci',
     ],
-    [
-        'Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.',
-        'Stephen King',
+    '8af0a5be-34f4-5806-b2b0-6b2843e4b6db' => [
+        'The experience of being in the Army changed my whole life; I never believed that an organization such as ours could ever go to war, leave alone win it. It was, as Yeats remarked of the Easter Rising, \'A terrible beauty.\'',
+        'Spike Milligan',
     ],
-    [
-        'Experiments with animals have long been handicapped by our anthropocentric attitude: We often test them in ways that work fine with humans but not so well with other species.',
-        'Frans de Waal',
+    '228083f6-2c12-590e-a903-7414db197bbb' => [
+        'There is just a lot of creativity and theatricality in performers who happen to be gay. Maybe there\'s a success in numbers, so by the law of averages we are going to get these jobs.',
+        'Neil Patrick Harris',
     ],
-    [
-        'A short saying often contains much wisdom.',
-        'Sophocles',
+    'be795b95-5356-592c-a421-77f10e3ac1e2' => [
+        'Vegetation is the basic instrument the creator uses to set all of nature in motion.',
+        'Antoine Lavoisier',
     ],
 ];

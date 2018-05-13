@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My character in \'OK OK\' has a lot of attitude, and it is an interesting one.',
-        'Hansika Motwani',
+    '428fb8b1-8614-5724-b4a0-922f70a0b50a' => [
+        'Weddings are important because they celebrate life and possibility.',
+        'Eric Davis',
     ],
-    [
-        'Tears are often the telescope by which men see far into heaven.',
-        'Henry Ward Beecher',
+    '66004ad7-3b4b-58b8-8f56-99d9113bdcc1' => [
+        'All the seven deadly sins are man\'s true nature. To be greedy. To be hateful. To have lust. Of course, you have to control them, but if you\'re made to feel guilty for being human, then you\'re going to be trapped in a never-ending sin-and-repent cycle that you can\'t escape from.',
+        'Marilyn Manson',
     ],
-    [
-        'He has achieved success who has worked well, laughed often, and loved much.',
-        'Elbert Hubbard',
+    '548ebc15-09d6-5b73-85a8-9dc222925eb2' => [
+        'A man of ability and the desire to accomplish something can do anything.',
+        'Donald Kircher',
     ],
-    [
-        'You cannot travel the path until you have become the path itself.',
-        'Buddha',
+    '8639f82a-0b5e-5719-8907-daf0ffa61004' => [
+        'Our hearts were drunk with a beauty Our eyes could never see.',
+        'George William Russell',
     ],
-    [
-        'Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.',
-        'Stephen Sigmund',
+    '7089ead3-4a20-53d0-95e0-e88de3819688' => [
+        'I believe in being positive.',
+        'Joe Greene',
     ],
-    [
-        'Cooking is one of the strongest ceremonies for life. When recipes are put together, the kitchen is a chemical laboratory involving air, fire, water and the earth. This is what gives value to humans and elevates their spiritual qualities. If you take a frozen box and stick it in the microwave, you become connected to the factory.',
-        'Stephen Covey',
+    '794389b0-1c28-5e71-b9af-7691769855d2' => [
+        'A little knowledge that acts is worth infinitely more than much knowledge that is idle.',
+        'Kahlil Gibran',
     ],
-    [
-        'I hope that at the end of the seven years, people will say that I have been of some inspirational value to them at home in terms of inclusiveness and abroad, I look forward to representing Ireland.',
-        'Michael D. Higgins',
+    'cb146bd6-fa5e-5a9f-be8a-25e0e8b57c0f' => [
+        'The optimist underestimates how difficult it is to achieve real change, believing that anything is possible and it\'s possible now. Only by confronting head-on the reality that all progress is going to be obstructed by vested interests and corrupted by human venality can we create realistic programmes that actually have a chance of success.',
+        'Julian Baggini',
     ],
-    [
-        'Don\'t let today\'s disappointments cast a shadow on tomorrow\'s dreams.',
-        'Unknown',
+    '7861b95c-7b28-572e-9a2a-12e5f8203259' => [
+        'Time you enjoyed wasting was not wasted.',
+        'John Lennon',
     ],
-    [
-        'My eyes are different sizes, my nose is too broad at the bridge and squishes up when I laugh, and my lips are sorta funny when I smile.',
-        'Terry Farrell',
+    '6b42f912-691d-5d23-aa7e-76e7a775e611' => [
+        'He who wishes to secure the good of others, has already secured his own.',
+        'Confucius',
     ],
-    [
-        'If we look at the world with a love of life, the world will reveal its beauty to us.',
-        'Daisaku Ikeda',
+    '5ea2ca64-9231-5dcd-ab30-be02c1a6470d' => [
+        'It was a unique childhood, to say the least. My father was born in Patiala to refugee parents and was a part of the Indian Air Force. The talented few amongst the Air Force pilots are made test pilots. Test pilots are best suited to look at the space programme as they are trained to expect the unexpected.',
+        'Kapil Sharma',
     ],
-    [
-        'A lot of these teams really forget that part of success comes with having veteran leadership. You see a lot of teams forget that and start letting go of these old veterans. They don\'t realize how important it is to have a veteran voice in your locker room or on the bench. It\'s important to have guys who have been there before.',
-        'David Robinson',
+    '234a35af-8dbd-5ecf-8ef1-b0580bf04447' => [
+        'I don\'t want to know what time it is. I don\'t want to know what day it is or where I am. None of that matters.',
+        'Christopher McCandless',
     ],
-    [
-        'Things are never quite as scary when you\'ve got a best friend.',
-        'Bill Watterson',
+    '19af33a7-4240-5294-b799-20a77229e853' => [
+        'Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.',
+        'Nikola Tesla',
     ],
-    [
-        'All seasons are beautiful for the person who carries happiness within.',
-        'Horace Friess',
+    '70f53dcc-d091-55d4-9120-10d6adf37a43' => [
+        'I wanted to be an independent woman, a woman who could pay for her bills, a woman who could run her own life - and I became that woman.',
+        'Martin Luther King, Jr.',
     ],
-    [
-        'It\'s not who\'s the best - it\'s who can take the most pain.',
-        'Steve Prefontaine',
+    'e062f17d-92b0-5ca8-9fb4-5a52cb27c51a' => [
+        'Water and air, the two essential fluids on which all life depends, have become global garbage cans.',
+        'Lil Wayne',
     ],
-    [
-        'Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.',
-        'Bill Veeck',
+    '161ce3bf-29a2-5de7-b1d7-9729bc79c825' => [
+        'Never have more children than you have car windows.',
+        'Erma Bombeck',
     ],
-    [
-        'Write your story as it needs to be written. Write it honestly, and tell it as best you can. I\'m not sure that there are any other rules. Not ones that matter.',
-        'Neil Gaiman',
+    '8f29a2bf-9087-5f49-9c08-1fb27d222600' => [
+        'Sometimes life hits you in the head with a brick. Don\'t lose faith.',
+        'Benjamin Disraeli',
     ],
-    [
-        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
-        'Summer Sanders',
+    '945ab588-be9e-5676-aece-3c29444f8d30' => [
+        'Achieve success in any area of life by identifying the optimum strategies and repeating them until they become habits.',
+        'Charles J. Givens',
     ],
-    [
-        'If you have knowledge, let others light their candles in it.',
-        'Margaret Fuller',
+    'a4c1b876-ecd7-5550-be8c-c706df7e9a92' => [
+        'Travel for me is all about transformation, and I\'m fascinated by those people who really do come back from a trip unrecognizable to themselves and perhaps open to the same possibilities they\'d have written off not a month before.',
+        'Pico Iyer',
     ],
-    [
-        'Success is simple. Do what\'s right, the right way, at the right time.',
-        'Arnold H. Glasow',
+    '857ca17d-5aed-5104-b62e-d773ff539864' => [
+        'When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.',
+        'W. Clement Stone',
     ],
-    [
-        'A government for the people must depend for its success on the intelligence, the morality, the justice, and the interest of the people themselves.',
-        'Grover Cleveland',
+    'd25db766-2941-5a5d-813f-b91ea078bfca' => [
+        'Success for me its to raise happy, healthy human beings.',
+        'Kelly LeBrock',
     ],
-    [
-        'Look at people for an example, but then make sure to do things your way. Surround yourself with positive people.',
-        'Queen Latifah',
+    'f5c0afcc-263e-5b67-be3b-eb0d1e8b3694' => [
+        'One of things I like about looking at pictures when you\'re young and also meeting back with old friends you haven\'t seen in a long time is, for me, it\'s a glimpse of who I was.',
+        'Lea Thompson',
     ],
-    [
-        'Musicals are, by nature, theatrical, meaning poetic, meaning having to move the audience\'s imagination and create a suspension of disbelief, by which I mean there\'s no fourth wall.',
-        'Stephen Sondheim',
+    '9db44436-29c6-5104-8846-29ead46163fb' => [
+        'Time goes on. So whatever you\'re going to do, do it. Do it now. Don\'t wait.',
+        'Robert De Niro',
     ],
-    [
-        'We choose our destiny in the way we treat others.',
-        'Wit',
+    'bcd6d090-b8d8-50a4-873c-ee8af20dea5c' => [
+        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.',
+        'Emilia Fox',
     ],
-    [
-        'Today a minimum wage earner has to work a day and a half just to pay for a full tank of gas. That is simply shameful.',
-        'Bill Pascrell',
+    'f88ecbf4-2f5c-5015-9297-e3c2562f0543' => [
+        'I think a lot of times our culture has an attitude toward art and the production of art that separates artists from the rest of us, like making art or music or painting or whatever is some magical thing that you have to be inspired to do, and special people do it.',
+        'Ann Leckie',
     ],
-    [
-        'I think that beauty can injure you to death. It can cause an injury that can never be cured. Or it can so traumatise you, your life changes direction. The beauty of the harmony of nature that is forever lost, or a daily rite that you perform, or diving into the sea for a swim. Those experiences are going to mark you.',
-        'Toni Servillo',
+    'fa8b9cf5-0579-5eb1-b783-3e4c59063bc1' => [
+        'I like guys with a sense of humor who smile a lot and are kind.',
+        'Nikki Glaser',
     ],
 ];

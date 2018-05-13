@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'To give anything less than your best, is to sacrifice the gift.',
-        'Steve Prefontaine',
+    '3f6b9643-dbd3-501f-80d9-c6aa48a83f76' => [
+        'Work is not man\'s punishment. It is his reward and his strength and his pleasure.',
+        'George Sand',
     ],
-    [
-        'Good grooming is integral and impeccable style is a must. If you don\'t look the part, no one will want to give you time or money.',
-        'Daymond John',
+    '51fe3911-98c8-5ae1-a711-db971f53b20b' => [
+        'The best work is not what is most difficult for you; it is what you do best.',
+        'Jean-Paul Sartre',
     ],
-    [
-        'Motherhood has most definitely changed me and my life. It\'s so crazy how drastic even the small details change - in such an amazing way. Even silly things, like the fact that all of my pictures on my cell phone used to be of me at photo shoots - conceited, I know! - but now every single picture on my phone is of Mason.',
-        'Mahatma Gandhi',
+    '320c2efa-b147-508b-9406-6239854cefa2' => [
+        'We take so many of our freedoms for granted nowadays - I can travel where I like, I can have a baby when I like, I can do any job I want - but I do think chivalry has been lost a little bit.',
+        'Dan Stevens',
     ],
-    [
-        'You will be a failure, until you impress the subconscious with the conviction you are a success. This is done by making an affirmation which \'clicks.\'',
-        'Florence Scovel Shinn',
+    '932703d3-437d-524e-87ee-1e45e41c26c0' => [
+        'Nature is often hidden, sometimes overcome, seldom extinguished.',
+        'Francis Bacon',
     ],
-    [
-        'If it is not right do not do it; if it is not true do not say it.',
-        'Marcus Aurelius',
+    '90130b27-a01d-5dea-a560-5db98af93080' => [
+        'Sometimes words are not needed, and the simplicity of expressing yourself through an art form is one of the best ways of communication.',
+        'Emmanuel Jal',
     ],
-    [
-        'Great talent finds happiness in execution.',
-        'Johann Wolfgang von Goethe',
+    'd2b11fcc-8a66-5a29-9b33-cb29da2f701d' => [
+        'We have been so trying to convince them from the very beginning of our organization, but with no success.',
+        'George Haven Putnam',
     ],
-    [
-        'Just when I think I have learned the way to live, life changes.',
-        'Samuel Beckett',
+    '03e8ad72-3bb7-5bae-b9e6-522927509120' => [
+        'Life is about making an impact, not making an income.',
+        'Kevin Kruse',
     ],
-    [
-        'In skating over thin ice our safety is in our speed.',
-        'Ralph Emerson',
+    '568e3571-944c-5784-aaba-e18dabb3acc2' => [
+        'I think it\'s real easy to be famous these days; it\'s not real easy to sustain success.',
+        'Jerry Jeff Walker',
     ],
-    [
-        'The meat that I choose to feed my family, it\'s healthy meats such as lamb, which is very low in cholesterol and saturated fat. And then turkey - we eat a lot of turkey. We don\'t eat loads of beef.',
-        'Tia Mowry',
+    'e303c02a-2414-5d0f-9153-3698a5ec7514' => [
+        'I took the decision that everything I would post would be positive. If you say, \'Ahh, I feel terrible today,\' and you spread that to the eyes and ears of millions of people, that\'s not good.',
+        'Jerome Jarre',
     ],
-    [
-        'I travel Europe every couple of weeks. I just came back from London, Holland and Denmark. Every nation on this planet has its issues with race, and I am not sure if everyone has figured out how to deal with it.',
-        'Montel Williams',
+    'e208ccab-7419-57fe-a128-ec846b94e75e' => [
+        'One of the things that I love to do is travel around the world and look at archaeological sites. Because archaeology gives us an opportunity to study past civilizations, and see where they succeeded and where they failed. Use science to, you know, work backwards and say, \'Well, really, what were they thinking?\'',
+        'Nathan Myhrvold',
     ],
-    [
-        'The resistance that you fight physically in the gym and the resistance that you fight in life can only build a strong character.',
-        'Travis Barker',
+    'fc508f32-7b83-50d5-8f35-d8aa76caa65a' => [
+        'Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.',
+        'Booker T. Washington',
     ],
-    [
-        'Soon after, I returned home to my family, with a determination to bring them as soon as possible to live in Kentucky, which I esteemed a second paradise, at the risk of my life and fortune.',
-        'Daniel Boone',
+    '922becfe-4523-5d59-8d0a-784131d1d6e6' => [
+        'Why do you have to be a nonconformist like everybody else?',
+        'James Thurber',
     ],
-    [
-        'No single man can be taken as a model for a perfect figure, for no man lives on earth who is endowed with the whole of beauty.',
-        'Albrecht Durer',
+    '2930d351-b0bd-59a6-8ae6-f11852182ffd' => [
+        'Muslims have a very bad attitude to homosexuality, they\'re very intolerant.',
+        'Pim Fortuyn',
     ],
-    [
-        'The fruit of your own hard work is the sweetest.',
-        'Deepika Padukone',
+    '3184c59c-5eb2-5ea1-9da0-5d30d4ff67be' => [
+        'Other people\'s success spurs me on to do well and gives me motivation.',
+        'Nicholas Hoult',
     ],
-    [
-        'There are a lot of female artists my age around at the moment, but they\'re all American and blonde and blue-eyed and smiley. I\'m totally the opposite of that. I want to show a bit more attitude and I have an opinion.',
-        'Samantha Mumba',
+    '5a69f6f0-e6a4-5158-8ba8-ae53f351a56a' => [
+        'Complete strangers can stand silent next to each other in an elevator and not even look each other in the eye. But at a concert, those same strangers could find themselves dancing and singing together like best friends. That\'s the power of music.',
+        'LZ Granderson',
     ],
-    [
-        'I love my past. I love my present. Im not ashamed of what Ive had, and Im not sad because I have it no longer.',
-        'Colette',
+    '4d32eff1-7373-5671-8bb1-40eba7155719' => [
+        'Students shy away from Maths, but in reality Maths is the best friend of man.',
+        'Shakuntala Devi',
     ],
-    [
-        'Life is hard, and a lot of people come home tired from work. If they\'re gonna spend half an hour reading, they want some entertainment and a sense of achievement. So that\'s what I give them. That\'s all I\'m trying to do. Is that really so wrong?',
-        'James Patterson',
+    'f470dd8f-5d48-59dc-a489-fab9b2e4aa35' => [
+        'The important thing for me was that the World Cup should travel round the world.',
+        'Sepp Blatter',
     ],
-    [
-        'Among the natural rights of the colonists are these: First a right to life, secondly to liberty, and thirdly to property; together with the right to defend them in the best manner they can.',
-        'Vince Lombardi',
+    '6f7770b9-9247-597c-89af-e66548b1ff95' => [
+        'The human brain is a wonderful organ. It starts to work as soon as you are born and doesn\'t stop until you get up to deliver a speech.',
+        'George Jessel',
     ],
-    [
-        'If you develop a dialogue with me and take an interest in me, I\'ll want to give you the business. It\'s human nature.',
-        'Danny Meyer',
+    'e1eba387-f1f9-5e59-8ef8-344f8f6e10c9' => [
+        'This idea that being youthful is the only thing that\'s beautiful or attractive simply isn\'t true. I don\'t want to be an \'ageless beauty.\' I want to be a woman who is the best I can be at my age.',
+        'Sharon Stone',
     ],
-    [
-        'I\'m on JetBlue and United. So I spend a lot of time on airplanes with other people and in terminals or just traveling around and going to restaurants or whatever. The interaction I get on a daily basis is always positive. I\'ve never had a negative interaction.',
-        'Lance Armstrong',
+    'f4f86c06-e348-5727-81a0-7c24025ec871' => [
+        'I did rebel. I was the rebel in my family, because my dad wanted me to go and just travel with him.',
+        'Dhani Harrison',
     ],
-    [
-        'Even in modern art, artists have used methods based on calculation, inasmuch as these elements, alongside those of a more personal and emotional nature, give balance and harmony to any work of art.',
-        'Max Bill',
+    'd5848fb7-b236-5a30-9311-9f34811099e8' => [
+        'Success can make you go one of two ways. It can make you a prima donna - or it can smooth the edges, take away the insecurities, let the nice things come out.',
+        'Barbara Walters',
     ],
-    [
-        'We never live; we are always in the expectation of living.',
-        'Voltaire',
+    '0a9a710c-b103-5a31-ac96-b368836c06c2' => [
+        'Solidarity is an attitude of resistance, I suppose, or it should be.',
+        'Christopher Hitchens',
     ],
-    [
-        'Give light, and the darkness will disappear of itself.',
-        'Desiderius Erasmus',
+    'b6becf9e-7f68-56ba-8025-85d0ca5de1df' => [
+        'Time is the wisest counsellor of all.',
+        'Pericles',
     ],
-    [
-        'I would talk in iambic pentameter if it were easier.',
-        'Howard Nemerov',
+    '22156545-f549-55a2-83da-193ec1842b90' => [
+        'Negotiation means getting the best of your opponent.',
+        'Marvin Gaye',
     ],
-    [
-        'I\'m fortunate enough to have learned not to waste time getting frustrated with my kids, or co-workers, or friends and family for not doing everything I wish they would. If someone doesn\'t respond to me the way I want them to, I understand that it doesn\'t have anything to do with me.',
-        'Chandra Wilson',
+    '35540e08-4b52-528c-b908-46cd6c45f6a3' => [
+        'When I was a boy the Dead Sea was only sick.',
+        'George Burns',
     ],
 ];

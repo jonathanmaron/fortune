@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Life is never easy for those who dream.',
-        'Chuck Norris',
+    '9889f4e7-ffb7-5ccb-b8c2-c75548ee579f' => [
+        'It\'s not what you look at that matters, it\'s what you see.',
+        'Unknown',
     ],
-    [
-        'Being a humorist is not a voluntary thing. You can tell this because in a situation where saying a funny thing will cause a lot of trouble, a humorist will still say the funny thing. No matter how inappropriate.',
-        'P. J. O\'Rourke',
+    'c1acd031-fd1b-532c-85b1-87acd4d223de' => [
+        'Great effort springs naturally from great attitude.',
+        'Pat Riley',
     ],
-    [
-        'People grow through experience if they meet life honestly and courageously. This is how character is built.',
-        'Bobby Brown',
+    '4761f5ca-3624-597e-b17b-e51b3dac56d9' => [
+        'When you\'re surrounded by feathers and sequins and ridiculous Lycra outfits, it\'s impossible not to have a smile on your face.',
+        'Catherine Martin',
     ],
-    [
-        'Success is never final, failure is never fatal. It\'s courage that counts.',
-        'John Wooden',
+    'd3dd29b0-cbd0-5657-a44a-fa2201b0550d' => [
+        'Reproof on her lip, but a smile in her eye.',
+        'Samuel Lover',
     ],
-    [
-        'Let\'s not dismiss or attack individual ideas as being inadequate before we have had a chance to assess their positive effect as part of a whole solution.',
-        'John Thune',
+    'db30c9e3-094d-5250-8086-bf2958fd1a0e' => [
+        'The functions of the family in a highly differentiated society are not to be interpreted as functions directly on behalf of the society, but on behalf of personality.',
+        'Talcott Parsons',
     ],
-    [
-        'Our economy is increasingly dependent on the success and integrity of the financial markets.',
-        'Michael Douglas',
+    '23915ddb-b6a7-5899-a44d-5374ea3af4d5' => [
+        'In Heaven, I believe my dad is somewhere doing something nice. I feel I\'ve been too lucky to travel this far without somebody guiding me.',
+        'Katherine Jenkins',
     ],
-    [
-        'Humor is mankind\'s greatest blessing',
-        'Mark Twain',
+    'e45a5252-18ee-5592-8645-2e73a315ba20' => [
+        'Don\'t settle for a relationship that won\'t let you be yourself.',
+        'Oprah Winfrey',
     ],
-    [
-        'In the workplace, employees should be judged on their merit and hard work and not on aspects that are irrelevant to their performance.',
-        'Paul Singer',
+    '4d75390a-4036-5804-8233-6f1db632e2d1' => [
+        'Dreams come true. Without that possibility, nature would not incite us to have them.',
+        'John Updike',
     ],
-    [
-        'Success is not assured, but America is resolute: this is the best chance for peace we are likely to see for some years to come - and we are acting to help Israelis and Palestinians seize this chance.',
-        'Condoleezza Rice',
+    '2389d2cc-f03c-50e8-8b3f-b1b0b28460f7' => [
+        'I did this role in Life Goes On as an HIV positive character and so emotionally that was the most challenging.',
+        'Chad Lowe',
     ],
-    [
-        'Any girl can be glamorous. All you have to do is stand still and look stupid.',
-        'Hedy Lamarr',
+    'fb5d674e-dd55-5833-92a1-cfba0ef96817' => [
+        'The more you like yourself, the less you are like anyone else, which makes you unique.',
+        'Walt Disney',
     ],
-    [
-        'The best thing about animals is that they don\'t talk much.',
-        'Thornton Wilder',
+    'e922f8a8-b616-59d1-8514-b38b61ad9cbb' => [
+        'It is not light that we need, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake.',
+        'Frederick Douglass',
     ],
-    [
-        'Cigarettes and coffee: an alcoholic\'s best friend!',
-        'Gerard Way',
+    '9bc11a9b-f16c-5574-83ed-cd84bdc07723' => [
+        'We are free, but not to be evil, not to be indifferent to human suffering, not to profit from the people, from the work created and sustained through their spirit of political association, while refusing to contribute to the political state that we profit from.',
+        'Jose Marti',
     ],
-    [
-        'No amount of law enforcement can solve a problem that goes back to the family.',
-        'J. Edgar Hoover',
+    'a2fb5695-1be7-53d0-80ba-7fafa08dd760' => [
+        'Let me be a free man - free to travel, free to stop, free to work.',
+        'Chief Joseph',
     ],
-    [
-        'Never regret. If it\'s good, it\'s wonderful. If it\'s bad, it\'s experience.',
-        'Victoria Holt',
+    '91992086-3f5a-540e-97ed-a1bf81149369' => [
+        'Tis distance lends enchantment to the view, and robes the mountain in its azure hue.',
+        'Thomas Campbell',
     ],
-    [
-        'There are no failures, just experiences and your reactions to them.',
-        'Tom Krause',
+    '24c2c379-4661-533f-8f06-961ecbdb26fe' => [
+        'We have such a long, familiar history with Peter Falk. The minute his mug is on that screen people smile.',
+        'Paul Reiser',
     ],
-    [
-        'Every mother and daughter should make time for a trip together. It\'s good for the soul.',
-        'Anne Robinson',
+    '36e514f8-8a91-5644-83b4-e13f9c61f193' => [
+        'A bad system will beat a good person every time.',
+        'W. Edwards Deming',
     ],
-    [
-        'A woman has two smiles that an angel might envy, the smile that accepts a lover before words are uttered, and the smile that lights on the first born babe, and assures it of a mother\'s love.',
-        'Thomas Chandler Haliburton',
+    '50fa69fe-df18-5ec8-9e86-349faa89f64e' => [
+        'A government for the people must depend for its success on the intelligence, the morality, the justice, and the interest of the people themselves.',
+        'Grover Cleveland',
     ],
-    [
-        'You can\'t let praise or criticism get to you. It\'s a weakness to get caught up in either one.',
-        'John Wooden',
+    '0f921e4c-9b65-55dc-8ca3-17492f3df6e7' => [
+        'We are infected by our own misunderstanding of how our own minds work.',
+        'Kevin Kelly',
     ],
-    [
-        'We who work in technology have nurtured an especially rare gift: the opportunity to effect change at an unprecedented scale and rate. Technology, community, and capitalism combine to make Silicon Valley the potential epicenter of vast positive change.',
-        'Justin Rosenstein',
+    '52d25da4-d721-549d-849a-06f3ed246e1b' => [
+        'The spirit of Christmas is the spirit of love and of generosity and of goodness. It illuminates the picture window of the soul, and we look out upon the world\'s busy life and become more interested in people than in things.',
+        'H. L. Hunt',
     ],
-    [
-        'It\'s not the style that motivates me, as much as an attitude of openness that I have when I go into a project.',
-        'Herbie Hancock',
+    '976fd81b-c80f-5610-b12f-64907ce07257' => [
+        'A person always doing his or her best becomes a natural leader, just by example.',
+        'Joe DiMaggio',
     ],
-    [
-        'We think of stars as celestial beings. And once in a while, they smile at us from the pages of \'People\' magazine.',
-        'A. E. Hotchner',
+    'f0ffc3ad-a933-5d77-a64c-c7fbf3ed8567' => [
+        'Without self-discipline, success is impossible, period.',
+        'Lou Holtz',
     ],
-    [
-        'Time abides long enough for those who make use of it.',
-        'Leonardo da Vinci',
+    'df676fb5-8349-57d6-8ea9-898b3bba8f7e' => [
+        'You don\'t have to travel, but I find extended travel to be a helpful tool for reexamining yourself and the constraints you\'ve artificially placed on your life. It\'s easy to believe everything has to be done one way if you\'re always in one place around the same people.',
+        'Timothy Ferriss',
     ],
-    [
-        'Umpires are necessary evils. That\'s just the nature of the beast. For years, people have looked on umpiring as a job they could get any postman to do.',
-        'Doug Harvey',
+    '70fc2b5b-ca88-5169-9cd8-ab4e6e7c242a' => [
+        'I go on walks during lunch breaks and travel with a fold-up yoga mat. I also love reading by candlelight at night.',
+        'Rachel Boston',
     ],
-    [
-        'I like to smile when its natural. I\'m not mad or anything. That\'s my style.',
-        'Jesse McCartney',
+    '79162321-7300-5ca6-bcf4-c9594a065880' => [
+        'Life was always a matter of waiting for the right moment to act.',
+        'Baltasar Gracian',
     ],
-    [
-        'Don\'t wait to be successful at some future point. Have a successful relationship with the present moment and be fully present in whatever you are doing. That is success.',
-        'Eckhart Tolle',
+    'bdb29006-3294-59fa-b64d-504cf24f93a0' => [
+        'Life can be dramatic and funny all in the same day.',
+        'Jennifer Aniston',
     ],
 ];

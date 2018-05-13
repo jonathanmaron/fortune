@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I never had a policy; I have just tried to do my very best each and every day.',
-        'Abraham Lincoln',
+    'b5bc23cf-a49c-5893-bc9d-cadb031c01ae' => [
+        'Forget not that the earth delights to feel your bare feet and the winds long to play with your hair.',
+        'Khalil Gibran',
     ],
-    [
-        '\'No one can make you successful; the will to success comes from within.\' I\'ve made this my motto. I\'ve internalized it to the point of understanding that the success of my actions and/or endeavors doesn\'t depend on anyone else, and that includes a possible failure.',
-        'Fabrizio Moreira',
+    'a08a1263-46ac-5dd3-894c-7c3b3807f058' => [
+        'There are elements of intrinsic beauty in the simplification of a house built on the log cabin idea.',
+        'Gustav Stickley',
     ],
-    [
-        'We are all here for a spell, get all the good laughs you can.',
-        'Richard Dawkins',
+    '3c6c9b71-1a28-5955-b897-60e371e6f490' => [
+        'Bad times have a scientific value. These are occasions a good learner would not miss.',
+        'Ralph Emerson',
     ],
-    [
-        'I\'ve specifically decided to say no to projects that weren\'t advancing Latinos, that weren\'t showing us in a positive light, roles that were gratuitous and spreading untruths.',
-        'Gina Rodriguez',
+    '45297f1e-765c-51f8-aad7-c0e93f1621af' => [
+        'The best way to get to know the place you are traveling in is to walk around... and the best way to walk around is with comfortable shoes! Grab your travel buddy and your running shoes and go explore!',
+        'Laura Marano',
     ],
-    [
-        'Retaliation is related to nature and instinct, not to law. Law, by definition, cannot obey the same rules as nature.',
-        'Albert Camus',
+    '86efbe26-1b1c-5939-8d07-13a457eea233' => [
+        'Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life.',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        'People often say that motivation doesn\'t last. Well, neither does bathing--that\'s why we recommend it daily.',
-        'Zig Ziglar',
+    'bc4ec09d-9a89-574b-b1b4-0321a1bf1b6b' => [
+        'Rehab is one thing, but it takes years to get that attitude adjustment.',
+        'Johnny Colt',
     ],
-    [
-        'There are two tests in life, more important than any other test. On Monday morning, when you wake up, do you feel in the pit of your stomach you can\'t wait to go to work? And when you\'re ready to go home Friday afternoon, do you say, \'I can\'t wait to go home?\'',
-        'Chuck Schumer',
+    '8674a960-6ef7-542c-8431-aafbbe5c502c' => [
+        'I like to think that as I get older I\'m getting better at spending time with people who have qualities that make them worth spending time with.',
+        'Samantha Power',
     ],
-    [
-        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
-        'Charice Pempengco',
+    '38d17494-fc71-5fa5-a3ba-f1965d45e220' => [
+        'There are a lot of female artists my age around at the moment, but they\'re all American and blonde and blue-eyed and smiley. I\'m totally the opposite of that. I want to show a bit more attitude and I have an opinion.',
+        'Samantha Mumba',
     ],
-    [
-        'Science is the best idea humans have ever had. The more people who embrace that idea, the better.',
-        'Bill Nye',
+    '47668ab7-12ab-502a-8b31-100269e8047e' => [
+        'Who among us has never looked up into the heavens on a starlit night, lost in wonder at the vastness of space and the beauty of the stars?',
+        'Jeb Bush',
     ],
-    [
-        'Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!',
-        'Andrew Carnegie',
+    '0811b4ee-ec88-559f-970c-8ae63c52714d' => [
+        'Character develops itself in the stream of life.',
+        'Joan Rivers',
     ],
-    [
-        'It\'s funny that I got to do \'On the Road\' because the thing that had the biggest impact on me growing up was reading books. I was very inspired by the book and this spirit of Dean Moriarty and how envious we all are of somebody who can be that carefree.',
-        'Garrett Hedlund',
+    '5cb59316-ae2f-55ab-a1ce-f2c8c4f0d786' => [
+        'The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it.',
+        'Elbert Hubbard',
     ],
-    [
-        'What\'s the point of being alive if you don\'t at least try to do something remarkable.',
-        'Unknown',
+    '9fb8da39-1fc3-5a5e-9720-ae4c7080a742' => [
+        'If our nation wants to reduce global warming, air pollution and energy instability, we should invest only in the best energy options. Nuclear energy isn\'t one of them.',
+        'Mark Z. Jacobson',
     ],
-    [
-        'Nature is a divine art; it cannot be the artist. It is a dominical book and cannot be the scribe. It is an embroidery and cannot be the embroiderer. It is a register and cannot be the accountant. It is the law and cannot be the power.',
-        'Said Nursi',
+    '59e6f5f1-797d-5cbe-8794-0e0cfa322815' => [
+        'Failure is the condiment that gives success its flavor.',
+        'Truman Capote',
     ],
-    [
-        'The month of November makes me feel that life is passing more quickly. In an effort to slow it down, I try to fill the hours more meaningfully.',
-        'Ella Wheeler Wilcox',
+    '1d486ac4-36df-5768-997e-20475fa713db' => [
+        'Normally, it takes me about three years to write one of the big books. It is usually four years between releases because of the huge amount of travel and PR and just nuisance going on around them. I have a lot of pressure from publishers and agents.',
+        'Diana Galbadon',
     ],
-    [
-        'You don\'t need to be a spook to care about encryption. If you travel with your computer or keep it in a place where other people can put their hands on it, you\'re vulnerable.',
-        'Barton Gellman',
+    '8da6df1e-6590-50b4-a828-fc9cdb2edc36' => [
+        'I do find the sibling connection endlessly fascinating, as I do all family dynamics. I like how siblings seem to create their own parentless mini-civilization within a family, one that has its own laws, myths, language, humor, its own loyalties and treacheries.',
+        'Jandy Nelson',
     ],
-    [
-        'My success isn\'t a result of arrogance - it\'s a result of belief.',
-        'Conor McGregor',
+    '714e56ec-46d8-5d89-a9f4-cd93c7636269' => [
+        'It would be impossible to estimate how much time and energy we invest in trying to fix, change and deny our emotions - especially the ones that shake us at our very core, like hurt, jealousy, loneliness, shame, rage and grief.',
+        'Debbie Ford',
     ],
-    [
-        'The great art of life is sensation, to feel that we exist, even in pain.',
-        'Tim Tebow',
+    '5d94f307-a730-5ca3-a006-b5fbbdc27975' => [
+        'Great ideas often receive violent opposition from mediocre minds.',
+        'Albert Einstein',
     ],
-    [
-        'He conquers who endures.',
-        'Persius',
+    '8da5e782-c577-5748-94db-8cb9adf00944' => [
+        'Change can either challenge or threaten us. Your beliefs pave your way to success or block you.',
+        'Marsha Sinetar',
     ],
-    [
-        'Things that were hard to bear are sweet to remember.',
-        'Seneca',
+    '9f1f267f-6e81-5944-929e-082ae2a4b5a9' => [
+        'Most of my arguments with musicians through the years have had more to do with their attitude about music, or their attitude about their own lives, or their personal responsibility. Music has never really been the big centerpiece of the fight.',
+        'Billy Corgan',
     ],
-    [
-        'Do not worry about avoiding temptation. As you grow older it will avoid you.',
-        'Joey Adams',
+    'aced65b4-a160-59f8-87b9-086b93338d41' => [
+        'The person who lives life fully, glowing with life\'s energy, is the person who lives a successful life.',
+        'Daisaku Ikeda',
     ],
-    [
-        'At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
-        'Barbara Bush',
+    '7578f512-bf37-5eb8-9819-de7d049d0d6b' => [
+        'People think I have courage. The courage in my family are my wife Pam, my three daughters, here, Nicole, Jamie, LeeAnn, my mom, who\'s right here too.',
+        'Jim Valvano',
     ],
-    [
-        'I was just a goofy little funny kid, who was always getting sent to the principal. It wasn\'t serious because I was smart. I wasn\'t like a true troublemaker, just rambunctious - like, talkative and trying to be funny. That was me in middle-school.',
-        'J. Cole',
+    '7ecb659c-6325-521f-ba93-03f6892dab4a' => [
+        'But little white lies here and there is human nature. Everybody does that.',
+        'Lucy Hale',
     ],
-    [
-        'In this life, you should read everything you can read. Taste everything you can taste. Meet everyone you can meet. Travel everywhere you can travel. Learn everything you can learn. Experience everything you can experience.',
-        'Mario Cuomo',
+    '56116afa-480d-5b60-bcad-5899d9a442ca' => [
+        'You can\'t let praise or criticism get to you. It\'s a weakness to get caught up in either one.',
+        'John Wooden',
     ],
-    [
-        'If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.',
-        'Charles Darwin',
+    '72d78291-bb95-53ee-9c1b-e365e61edb50' => [
+        'Comedians like to see people smile. With acting, I love giving people a feeling, an emotion. I like to give people a feeling. When they come away from my scene, I want them to think.',
+        'Keke Palmer',
     ],
-    [
-        'Veterans Day is a time to celebrate the men and women who have worn this nation\'s uniform and to honor their service.',
-        'Tammy Duckworth',
+    '29623681-1df2-5945-95f9-e7db3b000c10' => [
+        'Never go on trips with anyone you do not love.',
+        'Ernest Hemingway',
     ],
 ];

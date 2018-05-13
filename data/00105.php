@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'What sunshine is to flowers, smiles are to humanity. These are but trifles, to be sure; but scattered along life\'s pathway, the good they do is inconceivable.',
-        'Joseph Addison',
+    '83ffae2b-e97a-54e1-9618-bc55f6b3ccc1' => [
+        'I think it\'s a very firm part of human nature that if you surround yourself with like-minded people, you\'ll end up thinking more extreme versions of what you thought before.',
+        'Cass Sunstein',
     ],
-    [
-        'Positive feelings come from being honest about yourself and accepting your personality, and physical characteristics, warts and all; and, from belonging to a family that accepts you without question.',
-        'Willard Scott',
+    '860727c4-6396-51ae-b27f-dd7d960ea7ea' => [
+        'The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.',
+        'Charles Lamb',
     ],
-    [
-        'It is only in the country that we can get to know a person or a book.',
-        'Cyril Connolly',
+    '559b2e99-3870-57a3-a579-2ccdfb40997e' => [
+        'There is joy in work. There is no happiness except in the realization that we have accomplished something.',
+        'Henry Ford',
     ],
-    [
-        'We all have a social mask, right? We put it on, we go out, put our best foot forward, our best image. But behind that social mask is a personal truth, what we really, really believe about who we are and what we\'re capable of.',
-        'Phil McGraw',
+    '0a2156a3-1595-5dfe-8f76-71c7a5b68080' => [
+        'Poetry may make us from time to time a little more aware of the deeper, unnamed feelings which form the substratum of our being, to which we rarely penetrate; for our lives are mostly a constant evasion of ourselves.',
+        'T. S. Eliot',
     ],
-    [
-        'Some actors specialize in shooting weapons and punching people. Some have the market on playing buffoons cornered, others specialize in roles that require heavy makeup or outrageous wardrobe. Some trade exclusively in a post-ironic blase attitude.',
-        'Rob Lowe',
+    'e55c1149-d01d-5e35-8731-bccc298332ae' => [
+        'I have two rules for a great book: make me think and make me smile.',
+        'Adam Grant',
     ],
-    [
-        'The ego is only an illusion, but a very influential one. Letting the ego-illusion become your identity can prevent you from knowing your true self. Ego, the false idea of believing that you are what you have or what you do, is a backwards way of assessing and living life.',
-        'Bertrand Russell',
+    '09c9b553-1191-5043-881c-0d03acf80a1a' => [
+        'Self-complacency is fatal to progress.',
+        'Margaret Sangster',
     ],
-    [
-        'That\'s my gift. I let that negativity roll off me like water off a duck\'s back. If it\'s not positive, I didn\'t hear it. If you can overcome that, fights are easy.',
-        'George Foreman',
+    'c706f7d6-a17d-5ac6-914a-cde2a1dc62da' => [
+        'The positive aspects of modernity are to be acknowledged unreservedly: we are all grateful for the marvellous possibilities that it has opened up for mankind and for the progress in humanity that has been granted to us.',
+        'Pope Benedict XVI',
     ],
-    [
-        'I demolish my bridges behind me...then there is no choice but to move forward.',
-        'Fridtjof Nansen',
+    '41600825-8f98-52f2-a1d0-bec76fb865a1' => [
+        'How wonderful it is that nobody need wait a single moment before starting to improve the world.',
+        'Anne Frank',
     ],
-    [
-        'Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance.',
-        'Benny Cassette',
+    '3b78c3bc-2a78-59ac-83c6-620885a002a7' => [
+        'Now we have black and white elected officials working together. Today, we have gone beyond just passing laws. Now we have to create a sense that we are one community, one family. Really, we are the American family.',
+        'John Lewis',
     ],
-    [
-        'Adversity causes some men to break, others to break records.',
-        'William Ward',
+    '3bbb9796-874f-53e5-a8e6-996122fcdabc' => [
+        'Genuine love should first be directed at oneself. if we do not love ourselves, how can we love others?',
+        'Dalai Lama',
     ],
-    [
-        'I think one of the things that language poets are very involved with is getting away from conventional ideas of beauty, because those ideas contain a certain attitude toward women, certain attitudes toward sex, certain attitudes toward race, etc.',
-        'Diane Wakoski',
+    '8336867f-2b06-588f-8d9c-0aa0e81c8846' => [
+        'Communication - the human connection - is the key to personal and career success.',
+        'Paul J. Meyer',
     ],
-    [
-        'Only the mediocre are always at their best.',
-        'Jean Giraudoux',
+    '1610f354-e162-554b-82d2-360c0b03e99d' => [
+        'As a general thing, when a woman wears the pants in a family, she has a good right to them.',
+        'Josh Billings',
     ],
-    [
-        'The same way that I practiced the violin, the same way that I practiced my dance moves, I decided that I was going to practice being positive and practice loving myself.',
-        'Lindsey Stirling',
+    '08e6bd8d-86f8-5382-acc1-b9a476f2f38b' => [
+        'I am hitting my head against the walls, but the walls are giving way.',
+        'Gustav Mahler',
     ],
-    [
-        'It may be a masculine attitude to take lovers, but it\'s definitely prevalent. I\'m certainly not the oldest person doing it - not that I\'m doing it right now, but when I was.',
-        'Diana Rigg',
+    'bce90394-52fb-5f06-b0d6-9a4f68f53620' => [
+        'A happy wife is a happy life.',
+        'Charles Lindbergh',
     ],
-    [
-        'Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn\'t will be priceless.',
-        'Kevin Ngo',
+    'a8309c99-79da-5765-9a14-00b4329746b4' => [
+        'A lot of my stories about the old days, they\'re delicious and funny. But every time I recall the early days, it\'s painful. With every anecdote, it\'s painful because you\'re summoning up the terribly, terribly difficult life of my parents. And it\'s painful because I didn\'t realize at the time how hard it was for them.',
+        'Mario Cuomo',
     ],
-    [
-        'Some guys say beauty is only skin deep. But when you walk into a party, you don\'t see somebody\'s brain. The initial contact has to be the sniffing.',
-        'James Caan',
+    'd3e107b8-1243-57e8-9f70-31c60c511fc0' => [
+        "I hated every minute of training, but I said, \u{201d}Don't quit. Suffer now and live the rest of your life as a champion.",
+        'Mahummad Ali',
     ],
-    [
-        'Push yourself because no one else is going to do it for you.',
-        'Unknown',
+    'fd3054e8-3b63-506a-b17e-58d9b3587920' => [
+        'If you travel to the States... they have a lot of different words than like what we use. For instance: they say \'elevator\', we say \'lift\'; they say \'drapes\', we say \'curtains\'; they say \'president\', we say \'seriously deranged git.\'',
+        'Alexei Sayle',
     ],
-    [
-        'Every video I\'ve made has an inspirational message behind it. Since day one, I thought, \'Okay, I want my audience to be, like, Disney members.\' So if that\'s the case, I have to keep everything rated G.',
-        'Michelle Phan',
+    '5fde8fe7-8621-5df3-b062-6896169d3456' => [
+        'Personal relationships are the fertile soil from which all advancement, all success, all achievement in real life grows.',
+        'Ben Stein',
     ],
-    [
-        'When I was campaigning, I told the people if nothing happens under my mandate it will still be a positive thing because my mandate will be used as a rupture between the past and the future.',
-        'Michel Martelly',
+    'dc29d25d-7883-5f3e-9a16-1d31771dacc2' => [
+        'The secret of a happy marriage is finding the right person. You know they\'re right if you love to be with them all the time.',
+        'Julia Child',
     ],
-    [
-        'I have been up against tough competition all my life. I wouldn\'t know how to get along without it.',
-        'Walt Disney',
+    '86d42d32-d25d-55ae-a269-23ab20434d84' => [
+        'Civilization began the first time an angry person cast a word instead of a rock.',
+        'Sigmund Freud',
     ],
-    [
-        'Don\'t waste time on jealousy. Sometimes you\'re ahead, sometimes you\'re behind.',
-        'Mary Schmich',
+    '6827ef68-e234-5508-a8d1-c08e251d6e4d' => [
+        'Those who will play with cats must expect to be scratched.',
+        'Cervantes',
     ],
-    [
-        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
-        'Christopher McCandless',
+    '9e72979c-fd42-5853-8b04-b9fe7c7aaa5f' => [
+        'Success is often the result of taking a misstep in the right direction.',
+        'Al Bernstein',
     ],
-    [
-        'The only reason we make good role models is because you guys look up to athletes and we can influence you in positive ways. But the real role models should be your parents and teachers!',
-        'Dante Hall',
+    '37e191ed-6d67-5e8c-be84-6dcfa706c7be' => [
+        'If I hadn\'t spent many years trying to be as compassionate as Mother Teresa, as positive a thinker as W. Clement Stone, as prolific a writer as Stephen King, and as good a speaker as many of the legends I have studied, I would not be as successful as I am today.',
+        'Jack Canfield',
     ],
-    [
-        'I mean, I\'m married first of all to one of, if not the most wonderful women in the world. She is everything - funny, attractive, hard-working, she has integrity, she loves me to bits.',
-        'Seal',
+    '8ff0e670-4122-5c6c-83d8-8a02ddddec81' => [
+        'Everything that exists is in a manner the seed of that which will be.',
+        'Marcus Aurelius',
     ],
-    [
-        'It\'s wonderful to learn about new cultures and to be able to travel easily to so many countries.',
-        'Stephen A. Schwarzman',
+    'fb3a1131-b4a8-5729-8c3e-8e481626d759' => [
+        'Success is only meaningful and enjoyable if it feels like your own.',
+        'Michelle Obama',
     ],
 ];

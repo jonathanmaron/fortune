@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'During my first years in the Sierra, I was ever calling on everybody within reach to admire them, but I found no one half warm enough until Emerson came. I had read his essays, and felt sure that of all men he would best interpret the sayings of these noble mountains and trees. Nor was my faith weakened when I met him in Yosemite.',
-        'John Muir',
+    'e52f928b-0e0d-5899-be45-0e1eaf0a9af3' => [
+        'I think it\'s your mental attitude. So many of us start dreading age in high school and that\'s a waste of a lovely life. \'Oh... I\'m 30, oh, I\'m 40, oh, 50.\' Make the most of it.',
+        'Betty White',
     ],
-    [
-        'There are so many funny women in the world, and there has been for so many years, so I\'ll be happy when people can just move on from that, and things can just be \'comedies\' and not \'female\' or \'male,\' and everyone gets an equal opportunity.',
-        'Kristen Wiig',
+    '9bfe7754-383d-510f-9c8c-eaf8a2f95490' => [
+        'Learn to get in touch with the silence within yourself, and know that everything in life has purpose. There are no mistakes, no coincidences, all events are blessings given to us to learn from.',
+        'Cesare Pavese',
     ],
-    [
-        'I try to live my life like my father lives his. He always takes care of everyone else first. He won\'t even start eating until he\'s sure everyone else in the family has started eating. Another thing: My dad never judges me by whether I win or lose.',
-        'Justin Zackham',
+    '38689f5e-b8c0-51dd-961e-2156da2d240a' => [
+        'We all naturally want to become successful... we also want to take shortcuts. And it\'s easy to do so, but you can never take away the effort of hard work and discipline and sacrifice.',
+        'Apolo Ohno',
     ],
-    [
-        'I think of myself as a positive agnostic. I don\'t know, therefore I\'m open. I don\'t know, therefore I\'m interested.',
-        'Grace Slick',
+    '4d604827-e979-570f-942f-0255bedeae3e' => [
+        'There are two kinds of artists in this world; those that work because the spirit is in them, and they cannot be silent if they would, and those that speak from a conscientious desire to make apparent to others the beauty that has awakened their own admiration.',
+        'Anna Katharine Green',
     ],
-    [
-        'Well, if I called the wrong number, why did you answer the phone?',
-        'James Thurber',
+    '3c1229d2-d088-5d61-b62c-3ee73752ab4a' => [
+        'I\'m 42 and the age of a guy who has kids, so I guess I\'m playing right where I\'m supposed to be. I\'m comfortable with that, but in the same breath I\'d do something edgy. If someone came to me and offered me an edgy and funny story, then I\'d do it.',
+        'Eddie Murphy',
     ],
-    [
-        'I love what I do, and when you love what you do, you want to be the best at it.',
-        'Jay-Z',
+    '3ffc5128-96b6-5463-a180-69eaa5281524' => [
+        'Our greatest glory is not in never falling, but in rising every time we fall.',
+        'Confucius',
     ],
-    [
-        'Remember that sometimes not getting what you want is a wonderful stroke of luck.',
-        'Dalai Lama',
+    '326e7532-1f22-5ff2-b1b3-069ee86b75e1' => [
+        'We knew sports was important to us and our family, but there are priorities in life.Obviously, faith is foremost; how we did in school is important. If we didn\'t handle that business then there were no privileges.',
+        'Stephen Curry',
     ],
-    [
-        'Nature never deceives us; it is we who deceive ourselves.',
-        'Jean-Jacques Rousseau',
+    '530a36f5-271c-53d6-9ca2-26fbec7e7152' => [
+        'This is love: to fly toward a secret sky, to cause a hundred veils to fall each moment. First to let go of life. Finally, to take a step without feet.',
+        'Rabindranath Tagore',
     ],
-    [
-        'Genuine expressions of emotion rarely persist longer than five seconds and almost never longer than 10. A fixed smile is likely to conceal anger, anxiety, or some other negative emotion.',
-        'Pamela Meyer',
+    '545bc194-d37e-5df5-900d-a4d344b496aa' => [
+        'I am a positive person. I never think of the glass as half empty. I just keep pushing forward.',
+        'Rosie Perez',
     ],
-    [
-        'We have to nurture our young women and understand the beauty and the strength of being a woman. It\'s kind of a catch-22: Strength in women isn\'t appreciated, and vulnerability in women isn\'t appreciated. It\'s like, \'What the hell do you do?\' What you do is you don\'t allow anyone to dictate who you are.',
-        'Jada Pinkett Smith',
+    '5b8a2bf7-1b51-5a3f-b214-2e22d862254f' => [
+        'The struggle ends when the gratitude begins.',
+        'Unknown',
     ],
-    [
-        'If you tell the truth, you don\'t have to remember anything',
-        'Mark Twain',
+    'd552af28-fbae-5d03-afc3-2db41ee5d88e' => [
+        'The superior man is modest in his speech, but exceeds in his actions.',
+        'Confucius',
     ],
-    [
-        'I am responsible. Although I may not be able to prevent the worst from happening, I am responsible for my attitude toward the inevitable misfortunes that darken life.',
-        'Walter Anderson',
+    '1c9d4163-fc0a-5876-af50-d57741840fe3' => [
+        'The self is not something ready-made, but something in continuous formation through choice of action.',
+        'John Dewey',
     ],
-    [
-        'I believe in the brotherhood of man, all men, but I don\'t believe in brotherhood with anybody who doesn\'t want brotherhood with me. I believe in treating people right, but I\'m not going to waste my time trying to treat somebody right who doesn\'t know how to return the treatment.',
-        'Malcolm X',
+    '65fdc587-832b-59d5-99db-258875404037' => [
+        'A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.',
+        'Washington Irving',
     ],
-    [
-        'Funny is funny.',
-        'Don Rickles',
+    '5cc41028-7dba-538c-abdd-8165e69b8103' => [
+        'My songs are basically my diaries. Some of my best songwriting has come out of time when I\'ve been going through a personal nightmare.',
+        'Gwen Stefani',
     ],
-    [
-        'A lot of times I find that people who are blessed with the most talent don\'t ever develop that attitude, and the ones who aren\'t blessed in that way are the most competitive and have the biggest heart.',
-        'Tom Brady',
+    '60173583-b879-5437-9ffd-bdaa83d9cffb' => [
+        'Play like you\'re positive on the victory, even though they\'re leading big now.',
+        'Knute Rockne',
     ],
-    [
-        'Radicals must be resilient, adaptable to shifting political circumstances, and sensitive enough to the process of action and reaction to avoid being trapped by their own tactics and forced to travel a road not of their choosing. In short, radicals must have a degree of control over the flow of events.',
-        'Saul Alinsky',
+    'd714f42e-14f5-5640-bf7a-9f3d7593dcde' => [
+        'During the time men live without a common power to keep them all in awe, they are in that conditions called war; and such a war, as if of every man, against every man.',
+        'Thomas Hobbes',
     ],
-    [
-        'When men have a smile on their faces, that does a lot for me.',
-        'Michelle Yeoh',
+    '723c0d3d-b2ca-5e75-a58f-a29a0ff7e469' => [
+        'A little less complaint and whining, and a little more dogged work and manly striving, would do us more credit than a thousand civil rights bills.',
+        'W. E. B. Du Bois',
     ],
-    [
-        'If you want to become a great chef, you have to work with great chefs. And that\'s exactly what I did.',
-        'Gordon Ramsay',
+    'f3705353-3d33-51f1-9c27-308486f0a27b' => [
+        'What you are is what you have been. What you\'ll be is what you do now.',
+        'Buddha',
     ],
-    [
-        'On earth there is no heaven, but there are pieces of it.',
-        'Jules Renard',
+    'd6702141-ec98-573c-80cc-4dbffc6a6a25' => [
+        'The word \'spinster\' tells you everything you need to know about our attitude of women who choose not to marry.',
+        'Caitlin Moran',
     ],
-    [
-        'Just as you wouldn\'t leave the house without taking a shower, you shouldn\'t start the day without at least 10 minutes of sacred practice: prayer, meditation, inspirational reading.',
-        'Marianne Williamson',
+    'f9000ff3-6723-5a29-a1be-5840ecc776af' => [
+        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
+        'Paul Bryant',
     ],
-    [
-        'There are no menial jobs, only menial attitudes.',
-        'William J. Brennan, Jr.',
+    '06e2988b-4cdb-593a-a1c8-e404e2350cf1' => [
+        'It is not enough to do your best; you must know what to do, and then do your best.',
+        'W. Edwards Deming',
     ],
-    [
-        'Gymnastics demands so much of our time. We train all week and travel and compete on weekends. The people you\'re surrounded by really become your second family, your best friends, your sisters. My coach was like a second mother for me.',
-        'Amanda Borden',
+    '06db94b9-4f60-54d5-8df3-f1b18de046bb' => [
+        'As I was growing up, I did a lot of talent shows. I won fifteen Sunday nights straight in a series of talent shows in Macon. I showed up the sixteenth night, and they wouldn\'t let me go on any more. Whatever success I had was through the help of the good Lord.',
+        'Otis Redding',
     ],
-    [
-        'A sure cure for seasickness is to sit under a tree.',
-        'Spike Milligan',
+    'a211dece-27dc-50df-a7c1-a28b0b78d49d' => [
+        'Nobody will believe in you unless you believe in yourself.',
+        'Liberace',
     ],
-    [
-        'All you need in this life is ignorance and confidence, and then success is sure.',
-        'Mark Twain',
+    '3ce517f0-a483-51c9-8b03-137fe4cc9376' => [
+        'And I like the look on people\'s faces when I say I\'m doing this movie called Pride and Prejudice and they kind of smile, and then I say I\'m in a movie called Doom and they kind of do a double take and try and put the two things together. And they never quite manage to.',
+        'Rosamund Pike',
     ],
-    [
-        'I came back to performing with a different attitude about performing and myself. I wasn\'t expecting perfection any more, just hoping for an occasional inspiration.',
-        'Neil Diamond',
+    'b4a1de13-4b3d-56d2-bd2c-b62832bb7c10' => [
+        'You have brains in your head and feet in your shoes, you can steer yourself in any direction you choose.',
+        'Dr. Seuss',
     ],
 ];

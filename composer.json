@@ -15,7 +15,8 @@
         "symfony/filesystem": "^4.0",
         "symfony/finder": "^4.0",
         "symfony/lock": "^4.0",
-        "riimu/kit-phpencoder": "^2.3"
+        "riimu/kit-phpencoder": "^2.3",
+        "ramsey/uuid": "^3.7"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.0"

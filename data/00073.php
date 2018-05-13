@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Impossibilities are merely things which we have not yet learned.',
-        'Charles Chesnutt',
+    'e68acc4b-faac-584e-885c-f14b8f369f82' => [
+        'I think we all have blocks between us and the best version of ourselves, whether it\'s shyness, insecurity, anxiety, whether it\'s a physical block, and the story of a person overcoming that block to their best self. It\'s truly inspiring because I think all of us are engaged in that every day.',
+        'Tom Hooper',
     ],
-    [
-        'It was one of those evenings when men feel that truth, goodness and beauty are one. In the morning, when they commit their discovery to paper, when others read it written there, it looks wholly ridiculous.',
-        'Aldous Huxley',
+    '73ea1dbb-a9d0-56ab-bf25-f9ec08672352' => [
+        'The perception of beauty is a moral test.',
+        'Henry David Thoreau',
     ],
-    [
-        'Efficiency is doing things right; effectiveness is doing the right things.',
-        'Peter Drucker',
+    'de538473-35bd-5815-a7f5-03414cf66f4c' => [
+        'Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.',
+        'Niccolo Machiavelli',
     ],
-    [
-        'For unflagging interest and enjoyment, a household of children, if things go reasonably well, certainly all other forms of success and achievement lose their importance by comparison.',
+    'e80848de-a7d6-5bc0-9a48-105c395d7c06' => [
+        'Next to hurting my family, cheating on me is the worst thing someone could do.',
+        'Robert Buckley',
+    ],
+    'dafc5123-a016-5173-b202-816261c31071' => [
+        'Until you walk a mile in another man\'s moccasins you can\'t imagine the smell.',
+        'Robert Byrne',
+    ],
+    '51b59a92-95b2-588b-8a2e-3d64f1ec95fb' => [
+        'Everyone and everything that shows up in our life is a reflection of something that is happening inside of us.',
+        'Frank Abagnale',
+    ],
+    '73bdb8d9-d88c-53a2-95bf-67ef60e54754' => [
+        'The chief symptom of adolescence is a state of expectation, a tendency towards creative work, and a need for the strengthening of self-confidence. Suddenly, the child becomes very sensitive to the rudeness and humiliations which he had previously suffered with patient indifference.',
+        'Maria Montessori',
+    ],
+    '6beb507c-af19-5a4b-bd70-db673ad3e140' => [
+        'I think it was my mom\'s attitude about art and being part of the narcissistic digital generation or whatever that made me think anyone would care what I had to say about anything!',
+        'Tavi Gevinson',
+    ],
+    '261fadc2-0bed-5a85-9f2d-ec0714940b52' => [
+        'I have an unfortunate personality.',
+        'Orson Welles',
+    ],
+    '8f500793-f251-5740-90dc-f9f2e740e6f6' => [
+        'Reykjavik has a mixture of southern and northern mentality. There\'s a laid-back, relaxed attitude but also the feeling things are going to get done.',
+        'John Grant',
+    ],
+    'caa56e95-722c-5c5e-bbc2-e73b82dc5a81' => [
+        'One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don\'t throw it away.',
+        'Stephen Hawking',
+    ],
+    '82a72b24-a8f6-56c0-8286-0902a48509d5' => [
+        'I\'m a great believer in the beauty and the power of surprise.',
+        'Mark Gatiss',
+    ],
+    'c2e6ec53-646d-59af-b6dc-c81254a24b85' => [
+        'I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.',
+        'Albert Einstein',
+    ],
+    '2531695f-b446-53e6-8c0f-001b8192ca58' => [
+        'We\'ve been trained since kindergarten: Be nice, be kind, share, put on a smile. So we\'re conditioned to squash our natural selfish instincts, and that\'s the right thing for society.',
+        'Bryan Cranston',
+    ],
+    '234a6884-cffd-58c7-8a1b-a2ee7f1531af' => [
+        'No matter where I\'ve been overseas, the food stinks, except in Italy.',
+        'Carmen Electra',
+    ],
+    'f3e166c7-15d2-5a96-afca-63eb146aec3a' => [
+        'A wise traveler never despises his own country.',
+        'William Hazlitt',
+    ],
+    'acb90e08-e7e8-5127-a727-b1ff80cb22bd' => [
+        'The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful.',
+        'Noam Chomsky',
+    ],
+    '858acd57-26c7-578d-ae54-411aa5eb9c9b' => [
+        'It seems to me we can never give up longing and wishing while we are thoroughly alive. There are certain things we feel to be beautiful and good, and we must hunger after them.',
+        'George Eliot',
+    ],
+    '59dc9137-e27b-5c9b-a4e6-3c777af6b73b' => [
+        'Sometimes success means having the right idea in the right place at the right time. Other times, it\'s about not being afraid to quit and move onto something new.',
+        'John Rampton',
+    ],
+    '935cb0d1-8cc5-57d8-ab28-b1471e31644a' => [
+        'We should celebrate how amazing our bodies are! We all have things that we like and dislike about our bodies, but we need to focus on what we love - maybe it\'s a great smile, strong legs or curly hair?',
+        'Katherine Schwarzenegger',
+    ],
+    '05532332-e01f-578b-a00f-ad070f88ce24' => [
+        'Human nature is complex. Even if we do have inclinations toward violence, we also have inclination to empathy, to cooperation, to self-control.',
+        'Steven Pinker',
+    ],
+    '982c936b-d0a4-5a33-a7b7-a81d6e708cb4' => [
+        'I am Classic Rock Revisited. I revisit it every waking moment of my life because it has the spirit and the attitude and the fire and the middle finger. I am Rosa Parks with a Gibson guitar.',
+        'Ted Nugent',
+    ],
+    'fbf179af-026c-5570-b25a-cfb070786815' => [
+        'In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.',
         'Theodore Roosevelt',
     ],
-    [
-        'Every morning, I crawl out of bed. I sit there and think, \'Do I really need this?\' And I drag myself to the gym in my garage. It\'s not fun. I hate it. I work out alone. Weights.',
-        'Sylvester Stallone',
+    '05bed1ce-7bfa-5a27-9aa7-fb9f3d725b5f' => [
+        'The good life is one inspired by love and guided by knowledge.',
+        'John F. Kennedy',
     ],
-    [
-        'I\'m really careful about not slamming my politics home in my shows, but I don\'t try to hide, either. The arts can be a great way to bring people together. I don\'t preach from the stage. I try to stay positive on solutions.',
-        'Bonnie Raitt',
-    ],
-    [
-        'Check your ego at the door. The ego can be the great success inhibitor. It can kill opportunities, and it can kill success.',
-        'Dwayne Johnson',
-    ],
-    [
-        'Step with care and great tact, and remember that Life\'s a Great Balancing Act.',
-        'Carla Gugino',
-    ],
-    [
-        'Even after all this time, the sun never says to the earth, \'You owe me.\' Look what happens with a love like that. It lights the whole sky.',
-        'Hafez',
-    ],
-    [
-        'In our town, Halloween was terrifying and thrilling, and there was a whiff of homicide. We\'d travel by foot in the dark for miles, collecting candy, watching out for adults who seemed too eager to give us treats.',
-        'Rosecrans Baldwin',
-    ],
-    [
-        'Living well is the best revenge.',
-        'George Herbert',
-    ],
-    [
-        'Give a little love to a child, and you get a great deal back.',
-        'John Ruskin',
-    ],
-    [
-        'I think home has become my friends and family, wherever they are.',
-        'Rachel Brosnahan',
-    ],
-    [
-        'Time is long but life is short.',
-        'Stevie Wonder',
-    ],
-    [
-        'Having a soft heart in a cruel world is courage, not weakness.',
-        'Katherine Henson',
-    ],
-    [
-        'The NBA Schedule was made up by one man, Eddie Gottlieb, who had owned the Philadelphia Warriors. Eddie had a Buddha-like body and a crinkly smile, and because he had also been an owner in baseball\'s old Negro leagues, he was known as the Mogul.',
-        'Frank Deford',
-    ],
-    [
-        'Success is measured by your discipline and inner peace.',
-        'Mike Ditka',
-    ],
-    [
-        'To many people, \'biodiversity\' is almost synonymous with the word \'nature,\' and \'nature\' brings to mind steamy forests and the big creatures that dwell there. Fair enough. But biodiversity is much more than that, for it encompasses not only the diversity of species, but also the diversity within species.',
-        'Cary Fowler',
-    ],
-    [
-        'I always see the glass half full. I see the beauty in others, and I see the hope for tomorrow. If we don\'t have hope and faith, we have nothing.',
-        'Craig Sager',
-    ],
-    [
-        'Both of our children are adopted, and my wife and I didn\'t go out of ways to find kids that looked like us. We were just happy to have some kids. And people tell me all the time that they look like us, and that\'s because they learn to smile and laugh and move their head a certain way from studying their parents\' faces.',
-        'John Wells',
-    ],
-    [
-        'Hiding, secrets, and not being able to be yourself is one of the worst things ever for a person. It gives you low self-esteem. You never get to reach that peak in your life. You should always be able to be yourself and be proud of yourself.',
-        'Isabel Allende',
-    ],
-    [
-        'I love sleep. My life has the tendency to fall apart when I\'m awake, you know?',
-        'Matt Cameron',
-    ],
-    [
-        'The very best hotel I\'ve stayed in is the Intercontinental on Park Lane. We went there for the Chelsea Flower Show a few years ago, and it was sheer luxury. Everybody had a smile on their face. I came home and changed all my pillows because the hotel ones were so beautiful.',
-        'Mary Berry',
-    ],
-    [
-        'Sometimes in life, we try to do our very best to help others, and in the process, it brings some anguish to us. But we can\'t ever let that stop us. We can\'t ever be stopped from helping others and allowing them to have some sense of happiness and joy in their life.',
-        'Jon Huntsman, Sr.',
-    ],
-    [
-        'Survival was my only hope, success my only revenge.',
-        'Patricia Cornwell',
+    '0b07b038-fe76-546e-a95c-8166477951c5' => [
+        'If you spend too much time thinking about a thing, you\'ll never get it done',
+        'Bruce Lee',
     ],
 ];

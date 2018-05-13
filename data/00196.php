@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Never apologize for showing feelings. When you do so, you apologize for the truth.',
-        'Benjamin Disraeli',
+    '0b3c6dd0-c179-59f1-b915-9b24849ba622' => [
+        'Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them.',
+        'Jack Canfield',
     ],
-    [
-        'Success is where preparation and opportunity meet.',
-        'Bobby Unser',
+    '0009affb-4017-504e-aea1-3eb5b1f7dd41' => [
+        'Forgiveness is a funny thing. It warms the heart and cools the sting.',
+        'William Arthur Ward',
     ],
-    [
-        'I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake.',
-        'George Bernard Shaw',
+    '7bb1c58b-7fe1-50f5-bdf0-cb414f7d81f5' => [
+        'There\'s going to be space travel at some point.',
+        'Anne Wojcicki',
     ],
-    [
-        'The number of stressors has multiplied exponentially: traffic, money, success, work/life balance, the economy, the environment, parenting, family conflict, relationships, disease. As the nature of human life has become far more complicated, our ancient stress response hasn\'t been able to keep up.',
-        'Andrew J. Bernstein',
+    'cf3eda08-749e-5059-9c9e-94fbad55596d' => [
+        'The love of family and the admiration of friends is much more important than wealth and privilege.',
+        'Charles Kuralt',
     ],
-    [
-        'I do not demand equal pay for any women save those who do equal work in value. Scorn to be coddled by your employers; make them understand that you are in their service as workers, not as women.',
-        'Susan B. Anthony',
+    '83a9f83c-c606-5dcf-b477-a4bbffdac136' => [
+        'People want to go out and travel around and meet cool people. I could just go live in Vermont, but is that what I really want?',
+        'Tom Brady',
     ],
-    [
-        'One of my favorite luxuries in life is travel. Jet lag and lost baggage aside, it\'s an incredible way to learn about other cultures, meet new people, broaden your horizons... and do some amazing shopping!',
-        'Amanda Hearst',
+    '29a8b693-8cf0-5845-b515-2624a2a6b4b1' => [
+        'My stories are fundamentally about the love of family.',
+        'Patricia Polacco',
     ],
-    [
-        'Maybe the Burberry woman is undefinable! I think it\'s less about what she looks like and more about an attitude.',
-        'Edie Campbell',
+    'e3379a9b-aa36-579d-8320-f0ce07a8295a' => [
+        'I can look back now and say, \'Aw, that was a little dumb taking huge bumps onto concrete before a couple of hundred fans,\' but if it wasn\'t for that attitude and that type of work ethic, I never would have gotten to WWE.',
+        'Mick Foley',
     ],
-    [
-        'Circumstances in life often take us places that we never intended to go. We visit some places of beauty, others of pain and desolation.',
-        'Kristin Armstrong',
+    '1b1a42cf-fe51-530d-8712-56d9891aa2df' => [
+        'A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.',
+        'Oliver Holmes',
     ],
-    [
-        'Women do come up to me, and they tell me what they think! I\'ve gotten great compliments on my eyes and my smile. But I don\'t see myself as sexy.',
-        'Jesse L. Martin',
+    'e07b3357-a054-50e7-ab0f-b909b47cc746' => [
+        'Endurance is nobler than strength, and patience than beauty.',
+        'John Ruskin',
     ],
-    [
-        'I am a great admirer of mystery and magic. Look at this life - all mystery and magic.',
-        'Kyle MacLachlan',
+    '083e77e2-1159-5ba8-86a6-639fbae03bce' => [
+        'Change your thoughts and you change your world.',
+        'Norman Vincent Peale',
     ],
-    [
-        'The power of imagination makes us infinite.',
-        'John Muir',
+    'ee7f76c2-4575-5d69-8427-b2551b30ca7f' => [
+        'The team with the best players wins.',
+        'Jack Welch',
     ],
-    [
-        'It is impossible for a man to learn what he thinks he already knows.',
-        'Epictetus',
+    'b962799a-af35-5789-9d8c-64c3022bd966' => [
+        'Don\'t focus on negative things; focus on the positive, and you will flourish.',
+        'Alek Wek',
     ],
-    [
-        'If you are good at studies, and you want to play cricket, you may work harder than any other person, but you may not achieve it. So it\'s something you have to balance in life and be practical where you are good and then channelise your efforts in the right direction to be successful in life.',
-        'Mahendra Singh Dhoni',
+    'd342dbf8-5b91-5d41-b441-235da072347d' => [
+        'A vegetarian is a person who won\'t eat anything that can have children.',
+        'David Brenner',
     ],
-    [
-        'Who knows better than artists how much ugliness there is on the way to beauty, how many ghastly, mortifying missteps, how many days of granitic blockheadedness and dismaying ineptitude there is on the way to accomplishment, how partial all accomplishment is, how incomplete?',
-        'Tony Kushner',
+    '27e436e6-2f5b-57f5-a793-92eafcd13495' => [
+        'I pull a lot of the stuff that I play off the rhythm tracks - and Keith Richards has been one of the main contributors to my inspirational playing.',
+        'Bobby Keys',
     ],
-    [
-        'Things derive their being and nature by mutual dependence and are nothing in themselves.',
-        'Nagarjuna',
+    '601f75aa-deda-52aa-8716-13d399d52604' => [
+        'No one can travel your own road for you; you must travel it for yourself. My faith in this stems from my childhood. I grew up in a family with a system of religious beliefs handed down to me.',
+        'Amy Tan',
     ],
-    [
-        'My family was my guide to my reality.',
-        'Haywood Nelson',
+    '7f511503-be74-5258-9ddb-52a2e2f4ba49' => [
+        'Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.',
+        'Don Miguel Ruiz',
     ],
-    [
-        'Either positive or negative comments are good because it shows I am still relevant.',
-        'Justin Guarini',
+    '48126158-6ba4-508f-936b-f74008d1700e' => [
+        'You cannot have what you do not want.',
+        'John Acosta',
     ],
-    [
-        'I learned a long time ago the wisest thing I can do is be on my own side, be an advocate for myself and others like me.',
-        'Maya Angelou',
+    'b8302d68-95b7-5193-ac21-6eb680f18b94' => [
+        'Every time you get into a new job, new location, you have an amazing opportunity in front of you. You get to play dumb for as long as people will allow you to play dumb. You get to ask all the dumb questions, you get to ask multiple people the dumb questions, and you get to make mistakes. That\'s how you stand out in the crowd.',
+        'Gary Cohn',
     ],
-    [
-        'Sadness flies away on the wings of time.',
-        'Jean de La Fontaine',
+    '0e15e709-df9b-5b9d-a528-99f98db32d0e' => [
+        'I love beauty. But I like the beauty accidentally, not dished up, served up on a platter.',
+        'Wole Soyinka',
     ],
-    [
-        'Carry on any enterprise as if all future success depended on it.',
-        'Cardinal Richelieu',
+    'bc319b04-c7c8-5a5f-8357-47d53ed556ba' => [
+        'Nature is wont to hide herself.',
+        'Heraclitus',
     ],
-    [
-        'When my father died, my mother came back from being Mrs. Birkin to being Judy Campbell. She was a stunning actress. She came out of her shell. She was herself again: this very independent, funny, intellectual lady - and was able to perform again, which was her life before meeting my father squashed it out.',
-        'Jane Birkin',
+    'f6428e78-ebef-522e-b63b-831e7a6ff9fa' => [
+        'Champions extend their limits and make things happen.',
+        'Amit Ray',
     ],
-    [
-        'They thought I was a success as soon as I started paying the bills.',
-        'Mahalia Jackson',
+    'f52f9f2d-227f-5063-89b7-12382831df99' => [
+        'That\'s the beauty of coaching. You get to touch lives, you get to make a difference. You get to do things for people who will never pay you back and they say you never have had a perfect day until you\'ve done something for someone who will never pay you back.',
+        'Morgan Wootten',
     ],
-    [
-        'Time and memory are true artists; they remould reality nearer to the heart\'s desire.',
-        'John Dewey',
+    '3f760c4d-4d96-5181-a361-c34ab1949ac7' => [
+        'Our career is a dream. I mean, we get to act, travel around the world, and meet cool people. What\'s not to love!',
+        'Mary-Kate Olsen',
     ],
-    [
-        'A lot of people love to do affirmations first thing in the morning - to keep themselves feeling peppy and positive.',
-        'Karen Salmansohn',
+    '8f1fc9bd-5aa8-5402-b33c-13fc59841cf6' => [
+        'We went to church every Sunday. When I was a kid, the only time I sang was around my family.',
+        'Darius Rucker',
     ],
-    [
-        'As we all know, there is inner beauty and outer beauty. If we examine inner beauty, to me there is nothing more beautiful than inner peace, in a man or a woman.',
-        'Alice Greczyn',
+    '52402ca9-960e-56a8-85cc-00650085ae4f' => [
+        'To be candid, some people have given positive thinking a bad name. I can\'t stand to hear some gung-ho individual say that with positive thinking you can just do \'anything.\' If you think about that one for a moment, you recognize the absurdity of it.',
+        'Zig Ziglar',
     ],
 ];

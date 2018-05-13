@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Men are liars. We\'ll lie about lying if we have to. I\'m an algebra liar. I figure two good lies make a positive.',
-        'Tim Allen',
+    'a5e5fd88-881d-57d0-9128-fc337477d7de' => [
+        'If you try to come off as this big-time star with an attitude, people don\'t like that.',
+        'Selena',
     ],
-    [
-        'The glamour of air travel - its aspirational meaning in the public imagination - disappeared before its luxury did, dissipating as flying gradually became commonplace.',
-        'Virginia Postrel',
+    '7e206e3c-8d04-5048-a50d-2a53eea62938' => [
+        'The monotony and solitude of a quiet life stimulates the creative mind.',
+        'Billie Jean King',
     ],
-    [
-        'Love doesn\'t make the world go round, love is what makes the ride worthwhile.',
-        'Elizabeth Browning',
+    'beb6c9ac-cee8-5c10-b3a8-6badba4ad586' => [
+        'The earth laughs in flowers.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'Every girls\' night needs a funny movie and a good conversation about guys! My friends and I also love picking outfits out for each other to try on at slumber parties. It\'s so fun.',
-        'Jennette McCurdy',
+    'c37bb2b8-42c0-573c-87a9-7570fa876f67' => [
+        'You\'re only here for a short visit. Don\'t hurry, don\'t worry. And be sure to smell the flowers along the way.',
+        'William Wordsworth',
     ],
-    [
-        'Life affords no higher pleasure than that of surmounting difficulties, passing from one step of success to another, forming new wishes and seeing them gratified.',
-        'Samuel Johnson',
+    'e16e78ec-3d5e-5f0f-bbdb-053e409bb8f0' => [
+        'Solitude is creativity\'s best friend, and solitude is refreshment for our souls.',
+        'Naomi Judd',
     ],
-    [
-        'For an actress to be a success, she must have the face of a Venus, the brains of a Minerva, the grace of Terpsichore, the memory of a MaCaulay, the figure of Juno, and the hide of a rhinoceros.',
-        'Ethel Barrymore',
+    'd6233113-1ba4-5707-a9d5-f64905e51137' => [
+        'Make the most of yourself, for that is all there is of you.',
+        'Ralph Emerson',
     ],
-    [
-        'I\'m a funny guy. You\'ve got to be able to make fun of yourself. We only live once.',
-        'Jon Pardi',
+    'fcf9f05d-9527-5467-9ce6-2b8b4ca262d6' => [
+        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
+        'Roger Andrew Taylor',
     ],
-    [
-        'Since the day I was born, wrestling has sustained me and my family. It\'s the way my father fed me; it\'s the way I feed my kids. More importantly, wrestling is my greatest release. It\'s been such a blessing for me. I can step into the ring and let it all go - all my anger, all my frustration, all my pain.',
-        'Eddie Guerrero',
-    ],
-    [
-        'Words, like nature, half reveal and half conceal the soul within.',
-        'Alfred Lord Tennyson',
-    ],
-    [
-        'The important thing for me was that the World Cup should travel round the world.',
-        'Sepp Blatter',
-    ],
-    [
-        'People with high blood pressure, diabetes - those are conditions brought about by life style. If you change the life style, those conditions will leave.',
-        'Sarah Ban Breathnach',
-    ],
-    [
-        'Beauty: the adjustment of all parts proportionately so that one cannot add or subtract or change without impairing the harmony of the whole.',
-        'Leon Battista Alberti',
-    ],
-    [
-        'Throughout life people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.',
-        'Will Smith',
-    ],
-    [
-        'Travel early and travel often. Live abroad, if you can. Understand cultures other than your own. As your understanding of other cultures increases, your understanding of yourself and your own culture will increase exponentially.',
-        'Tom Freston',
-    ],
-    [
-        'The team which handles the pressure best, carries the day.',
-        'Imran Khan',
-    ],
-    [
-        'We\'re here to bring beauty to the world and make a difference in this planet. That\'s what art forms are about.',
-        'Charlie Haden',
-    ],
-    [
-        'From little acorns mighty oaks do grow.',
-        'American proverb',
-    ],
-    [
-        'The way to get started is to quit talking and begin doing.',
-        'Walt Disney',
-    ],
-    [
-        'Nature\'s great masterpiece, an elephant; the only harmless great thing.',
-        'John Donne',
-    ],
-    [
-        'Family is a unique gift that needs to be appreciated and treasured, even when they\'re driving you crazy. As much as they make you mad, interrupt you, annoy you, curse at you, try to control you, these are the people who know you the best and who love you.',
-        'Jenna Morasca',
-    ],
-    [
-        'No self-respecting woman should wish or work for the success of a party who ignores her sex.',
-        'Susan B. Anthony',
-    ],
-    [
-        'I mean, I - it\'s so funny, I am, you know, I am, you know, a working woman out in the world, but I still live with my parents half the time. I\'ve been sort of taking this very long, stuttering period of moving out.',
-        'Lena Dunham',
-    ],
-    [
-        'People idealise their animals, and at the same time they patronisingly overlook a dog\'s natural life - biting fleas, burying bones, rolling in garbage, barking up an empty tree all night... But what do they do themselves? Bury stuff that will rot in secret and then dig it up and bury it again and rant and rave under empty trees!',
-        'Tove Jansson',
-    ],
-    [
-        'There\'s a certain attitude to Los Angeles.',
-        'Inara George',
-    ],
-    [
-        'Life is too short to worry about anything. You had better enjoy it because the next day promises nothing.',
+    '280277d3-af21-5048-938f-dfc62126f6cd' => [
+        'Belief creates the actual fact.',
         'William James',
+    ],
+    '24798145-27e3-581f-9fd6-db9c5e909192' => [
+        'To be successful you have to be lucky, or a little mad, or very talented, or find yourself in a rapid growth field.',
+        'Edward de Bono',
+    ],
+    'b3623fa7-15da-5509-a0e0-de32d3a70674' => [
+        'All things change; nothing perishes.',
+        'Ovid',
+    ],
+    'd3665278-2085-5f38-bf76-6222bfe0295d' => [
+        'Life would be tragic if it weren\'t funny.',
+        'Rumi',
+    ],
+    'd3c6fab4-4732-575c-b31f-447470c45780' => [
+        'We are what we repeatedly do. Excellence, then, is not an act, but a habit.',
+        'Aristotle',
+    ],
+    '59a52c1d-a5d8-57b2-887c-b00da9e95bf7' => [
+        'There is a tide in the affairs of men, Which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat. And we must take the current when it serves, or lose our ventures.',
+        'Confucius',
+    ],
+    '2c06fea2-d395-556e-abda-2615a69784fd' => [
+        'Water is life, and clean water means health.',
+        'Lawrence Welk',
+    ],
+    '0a964aca-c8a3-5554-aa4b-21f40b87b076' => [
+        'On Thanksgiving I will stop to give thanks that my family is safe and healthy, especially because I realize that, following the tragedies of this year, it is all too real a possibility that they might not have been.',
+        'Bobby Jindal',
+    ],
+    '5cda284f-9dc8-58b4-99ae-ae5d4d853ada' => [
+        'I tried for a short time to be something I wasn\'t, and had no success with it. It\'s a practical solution to just be yourself.',
+        'Kate McKinnon',
+    ],
+    '047a7849-0366-50d1-a1a4-c62b44d22fbe' => [
+        'Life is a series of experiences, each one of which makes us bigger, even though sometimes it is hard to realize this. For the world was built to develop character, and we must learn that the setbacks and grieves which we endure help us in our marching onward.',
+        'Robert Frost',
+    ],
+    'd0c7826e-540d-5193-b630-4f676e57f75d' => [
+        'Until you value yourself, you won\'t value your time. Until you value your time, you won\'t do anything with it.',
+        'M. Scott Peck',
+    ],
+    'df03a710-28cd-5a61-9010-3abcec242c6b' => [
+        'Indonesia is a very huge country, geographically and in number of people, and there is still a lot of growth in the income level; It is very easy to assume there is a lot of demand for travel.',
+        'Edwin Soeryadjaya',
+    ],
+    'bc758dc2-f2ef-5ca2-9ba7-f3daf857f36c' => [
+        'Over the years, I\'ve become barraged by comments from people, such as, \'Beam me up, Scotty!\' and I became defensive. I felt they were derisive and engendered an attitude. I am grateful for the success, but didn\'t want to be mocked.',
+        'William Shatner',
+    ],
+    'e232e221-afe1-5f5f-8a92-cc59e5b73dad' => [
+        'A smart manager will establish a culture of gratitude. Expand the appreciative attitude to suppliers, vendors, delivery people, and of course, customers.',
+        'Harvey Mackay',
+    ],
+    'e33a6f55-199b-5eaa-9bf6-df2f8c883211' => [
+        'The travel, the amazing work I have had the chance to do, the meetings with different people are all very inspiring and give me lots of positive energy.',
+        'Saskia de Brauw',
+    ],
+    '972ff0d1-0c99-5363-8e69-aa240611c902' => [
+        'Chaos was the law of nature; Order was the dream of man.',
+        'Henry Adams',
+    ],
+    '259816bd-63c6-5b3e-aaa9-59377aa88508' => [
+        'If you wish to be a writer, write.',
+        'Epictetus',
+    ],
+    '35cc68de-4c3e-515d-b4ed-bdb486591ba7' => [
+        'Some people say that I have an attitude- Maybe I do. But I think that you have to. You have to believe in yourself when no one else does- that makes you a winner right there.',
+        'Venus Williams',
     ],
 ];

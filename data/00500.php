@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'You really don\'t need to wear any make-up most of the time; keep your eyebrows the way they are, and find your own natural beauty signature.',
-        'Erin Heatherton',
+    '40b74e62-07ee-53e1-b7ea-1f5b8cf9bddc' => [
+        'The greenest home is the one you don\'t build. If you really want to save the Earth, move in with another family and share a house that\'s already built. Better yet, live in the forest and eat whatever the squirrels don\'t want.',
+        'Scott Adams',
     ],
-    [
-        'The attitude of the people proves that not only do we want to, but that we can succeed in pulling our country out of the difficult position it finds itself in. The banking system of our country will survive and grow.',
-        'Nicos Anastasiades',
+    '33567c51-baa8-52f5-93de-925bfe5e0d25' => [
+        'Happiness is in our own hearts. I have no regrets of anything in the past. I\'m totally cheerful and happy, and I think that a lot of your attitude is not in the circumstances you find yourself in, but in the circumstances you make for yourself.',
+        'Maeve Binchy',
     ],
-    [
-        'Stay hungry, stay foolish',
-        'Steve Jobs',
+    'ec30b53c-3ec7-5d73-afa5-b7506392eddb' => [
+        'I was brought up by a single mom in a poor town in Arkansas and while some aspects of small-town life were really positive - like the fact that everyone there is really sweet and hospitable - there is also this close-minded mentality, and that naturally made me want to rebel.',
+        'Beth Ditto',
     ],
-    [
-        'The superior man is satisfied and composed; the mean man is always full of distress.',
-        'Confucius',
+    'c3d3e6eb-ae34-549d-b05f-d9b1fcf01a1e' => [
+        'A successful man is one who can lay a firm foundation with the bricks others have thrown at him.',
+        'David Brinkley',
     ],
-    [
-        'As an African-American male born with a couple of strikes against you because of your skin color, I think it\'s very, very important to have some positive role models around, especially male influences.',
-        'Omari Hardwick',
+    '342e636a-7e26-5ea5-86f9-3580ecc31871' => [
+        'Local economies are suffering as people spend more on fuel and less on consumer goods and travel.',
+        'Dan Lipinski',
     ],
-    [
-        'Trust is the conduit for influence; it\'s the medium through which ideas travel.',
-        'Amy Cuddy',
+    '11ec0858-22e5-5901-8c68-20cd202d749b' => [
+        'For me, the beauty of a person is a matter of the whole package. You have to look at the whole thing, not just a matter of outward appearance or whatever. It has to do with one\'s character, personality, upbringing and so on.',
+        'Gong Li',
     ],
-    [
-        'In hindsight, I see the great value of family and how it moulded my life and kept me together. So now family means everything to me.',
-        'Jimmy Cliff',
+    'b6c88c71-1f62-5ac7-90b0-09b41ba687e2' => [
+        'A wise man will make more opportunities than he finds.',
+        'Francis Bacon',
     ],
-    [
-        'We\'ve certainly learned a lot of lessons from Katrina, from Rita. Rita was better than Katrina. We\'re doing a better job planning. We\'re closer - more closely aligned with the Department of Defense. These things would be positive things if we were to have another attack.',
-        'Michael Chertoff',
+    'd3092051-6d68-54a8-b9f4-6be88fbfeef3' => [
+        'Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.',
+        'John Ruskin',
     ],
-    [
-        'Think like a man of action; act like a man of thought.',
-        'Henri L. Bergson',
+    'cc3aada5-7954-5db7-91e7-6fc2678f0e18' => [
+        'Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.',
+        'Napoleon Hill',
     ],
-    [
-        'When the best leader\'s work is done the people say, \'We did it ourselves.\'',
-        'Lao Tzu',
+    '0b0b7a9e-011a-5ad4-8169-705aa31f85cf' => [
+        'I believe in Karma. If the good is sown, the good is collected. When positive things are made, that returns well.',
+        'Yannick Noah',
     ],
-    [
-        'I\'m not going to take this defeatist attitude and listen to all this crap any more from all these people who have nothing except doomsday to predict.',
-        'Carroll Shelby',
+    '38ca9c70-11f2-553a-bc4c-a3616f3e61e9' => [
+        'To me, the world\'s rather beautiful if you look at it. Especially nature.',
+        'David Hockney',
     ],
-    [
-        'I have found in work that you only get back what you put into it, but it does come back gift-wrapped.',
-        'Joyce Brothers',
+    'b651ca7f-75e7-5ebb-b222-be8351dac482' => [
+        'Success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.',
+        'Orison Swett Marden',
     ],
-    [
-        'As a kid, I thought of myself as a funny person who secretly wanted to be serious, but now I think maybe I\'m a serious person who secretly wants to be funny.',
-        'Noah Baumbach',
+    'fed48857-9fed-5e7f-8460-2bcb201c28af' => [
+        'Nature, more of a stepmother than a mother in several ways, has sown a seed of evil in the hearts of mortals, especially in the more thoughtful men, which makes them dissatisfied with their own lot and envious of another\'s.',
+        'Desiderius Erasmus',
     ],
-    [
-        'What am I responsible for? Who am I responsible to? Everybody? How come when Archie Bunker nailed everybody, it was funny - but when I do it, it\'s not?',
-        'Sam Kinison',
+    'ba76dc0e-131d-5a4e-9721-eafd18dcb018' => [
+        'If you tell your own story to your children - that includes your positive moments and your negative moments, and how you overcame them - you give your children the skills and the confidence they need to feel like they can overcome some hardship that they\'ve felt.',
+        'Bruce Feiler',
     ],
-    [
-        'If people work together in an open way with porous boundaries - that is, if they listen to each other and really talk to each other - then they are bound to trade ideas that are mutual to each other and be influenced by each other. That mutual influence and open system of working creates collaboration.',
-        'Richard Thomas',
+    '958a9a49-127c-570d-a9c0-e990043cff15' => [
+        'If there is any one secret of success, it lies in the ability to get the other person\'s point of view and see things from that person\'s angle as well as from your own.',
+        'Henry Ford',
     ],
-    [
-        'Friends are those rare people who ask how we are and then wait to hear the answer.',
-        'Ed Cunningham',
+    'e3fd5e83-2812-52e9-bee4-5639744da5d1' => [
+        'Birds sing after a storm; why shouldn\'t people feel as free to delight in whatever sunlight remains to them?',
+        'Rose Kennedy',
     ],
-    [
-        'As in nature, all is ebb and tide, all is wave motion, so it seems that in all branches of industry, alternating currents - electric wave motion - will have the sway.',
-        'Nikola Tesla',
+    '7889a499-9bd6-58fc-a0c3-44d16c43d18d' => [
+        'I take care of my flowers and my cats. And enjoy food. And that\'s living.',
+        'Stephen Covey',
     ],
-    [
-        'Be like the flower, turn your face to the sun.',
-        'Kahlil Gibran',
+    '23c8e9dd-c80f-5b62-bb8d-f04190dbd64e' => [
+        'If you have no confidence in self, you are twice defeated in the race of life.',
+        'Simone Weil',
     ],
-    [
-        'This is the miracle that happens every time to those who really love: the more they give, the more they possess.',
-        'Rainer Maria Rilke',
+    '84452d06-af0c-5884-9cfd-e3548ffc678e' => [
+        'I greatly fear some of America\'s greatest and most dangerous enemies are such as think themselves her best friends.',
+        'Nathan Hale',
     ],
-    [
-        'The history of science shows that theories are perishable. With every new truth that is revealed we get a better understanding of Nature and our conceptions and views are modified.',
-        'Nikola Tesla',
+    '0c7c7389-f10e-544f-907e-6331e2292391' => [
+        'The pilot looked at his cues of attitude and speed and orientation and so on and responded as he would from the same cues in an airplane, but there was no way it flew the same. The simulators had showed us that.',
+        'Alan Shepard',
     ],
-    [
-        'The history of the relationship between comedy and swimming is short indeed. Of course it is always funny when someone falls into water, but that\'s about it.',
-        'Arthur Smith',
+    '7d9e4d94-edef-538c-9e98-645ed85517b8' => [
+        'It has been my observation that most people get ahead during the time that others waste.',
+        'Henry Ford',
     ],
-    [
-        'Cats are intended to teach us that not everything in nature has a function.',
-        'Garrison Keillor',
+    '83c67f72-c8c0-591b-bf83-054527ad1010' => [
+        'Art is not a study of positive reality, it is the seeking for ideal truth.',
+        'John Ruskin',
     ],
-    [
-        'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.',
-        'Maya Angelou',
+    'fa6c33af-7fb2-5aec-9e6b-191d69498225' => [
+        'I wear sunglasses almost all the time outside - not because I think I\'m really, really cool, but because of the rays.',
+        'Ronda Rousey',
     ],
-    [
-        'I find that it\'s best to take one step at a time and cross each bridge as they come to you.',
-        'Michael Stuhlbarg',
+    'a4687c01-162c-5ba0-8f34-a57d8104663d' => [
+        'No fine work can be done without concentration and self-sacrifice and toil and doubt.',
+        'Max Beerbohm',
     ],
-    [
-        'Essentially, all expressions of human nature ever produced, from a caveman\'s paintings to Mozart\'s symphonies and Einstein\'s view of the universe, emerge from the same source: the relentless dynamic toil of large populations of interconnected neurons.',
-        'Miguel Nicolelis',
+    '9d5bd821-d0a8-52c6-8849-f734a145261d' => [
+        'I grew up in Brooklyn, and my parents were Holocaust survivors, so they never taught me anything about nature, but they taught me a lot about gratitude.',
+        'Louie Schwartzberg',
     ],
 ];

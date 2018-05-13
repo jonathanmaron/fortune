@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'America\'s wealth comes from the efforts of people striving for success. Take away their incentive with badmouthing success and you take away the wealth that helps us take care of the needy.',
-        'Thomas Peterffy',
+    '5c160b7e-7edb-5c58-8d0d-f6ca83c65e5f' => [
+        'Think about what people are doing on Facebook today. They\'re keeping up with their friends and family, but they\'re also building an image and identity for themselves, which in a sense is their brand. They\'re connecting with the audience that they want to connect to. It\'s almost a disadvantage if you\'re not on it now.',
+        'Mark Zuckerberg',
     ],
-    [
-        'If you don\'t give up, you still have a chance.',
-        'Jack Ma',
+    '41fb4e28-5db9-53b2-817a-a43a03b84a3c' => [
+        'If you can\'t tell a spoon from a ladle, then you\'re fat!',
+        'Demetri Martin',
     ],
-    [
-        'You, yourself, as much as anybody in the entire universe, deserve your love and affection.',
-        'Buddha',
+    'b1b765b0-0bb1-54f8-8535-10ba7774b388' => [
+        'Coming together should be considered something positive for people and communities. When thoughts come together, that can be more positive than an individual thought.',
+        'Amitabh Bachchan',
     ],
-    [
-        'Don\'t lower your expectations to meet your performance. Raise your level of performance to meet your expectations. Expect the best of yourself, and then do what is necessary to make it a reality.',
-        'Ralph Marston',
+    'd18e1e12-f743-54d6-8075-9ffe1e65a26e' => [
+        'For the mind disturbed, the still beauty of dawn is nature\'s finest balm.',
+        'Edwin Way Teale',
     ],
-    [
-        'Success in the majority of circumstances depends on knowing how long it takes to succeed.',
-        'Charles de Montesquieu',
+    'a16ec52a-9644-5d52-b35f-330850372ed6' => [
+        'I feel like life is really short, and it\'s important to enjoy yourself and embrace whatever comes your way, whether it\'s a challenging day or a great day, just welcome it with open arms. No matter who you are, you can\'t escape challenges; they are part of life.',
+        'Paulo Coelho',
     ],
-    [
-        'The stars that have most glory have no rest.',
-        'Samuel Daniel',
+    'a3f1aa6a-be57-5ffb-ac28-dd45a4f23d4d' => [
+        'Life is too short to be living somebody else\'s dream.',
+        'Henry Rollins',
     ],
-    [
-        'But I think it is a serious issue to wonder about the other platonic absolutes of say beauty and morality.',
-        'Roger Penrose',
+    '1c65c866-5d25-587c-949b-73ed819131bd' => [
+        'I come from a poor family, I have seen poverty. The poor need respect, and it begins with cleanliness.',
+        'Narendra Modi',
     ],
-    [
-        'The age of a woman doesn\'t mean a thing. The best tunes are played on the oldest fiddles.',
-        'Ralph Waldo Emerson',
+    '60a0cf5b-0622-5522-98cc-9660956951db' => [
+        'Invent your world. Surround yourself with people, color, sounds, and work that nourish you.',
+        'Unknown',
     ],
-    [
-        'The good news is that real-world hands-on conservation is alive and well and catching on across the America I travel.',
-        'Ted Nugent',
+    '86938b42-d8b2-5410-be6a-ce84c9bf3ab2' => [
+        'When people stand up and talk about the great success that the EU has been, I\'m not sure anybody saying it really believes it themselves anymore.',
+        'Nigel Farage',
     ],
-    [
-        'Travel at faster than the speed of light certainly can have dramatic implications that are difficult to understand, such as time travel.',
-        'Lisa Randall',
+    '01146e77-4466-56ac-9353-2a735e063ac3' => [
+        'Tension is who you think you should be. Relaxation is who you are.',
+        'Chinese proverb',
     ],
-    [
-        'Our lives are a sum total of the choices we have made.',
-        'Wayne Dyer',
+    '662e09fe-73ee-575d-9a54-7601dd214da4' => [
+        'Thats the risk you take if you change: that people you\'ve been involved with won\'t like the new you. But other people who do will come along.',
+        'Lisa Alther',
     ],
-    [
-        'Peace is a journey of a thousand miles and it must be taken one step at a time.',
-        'Lyndon B. Johnson',
+    '1e7c1947-dd1e-5531-a24e-b73fb3f6aa25' => [
+        'Trust is the glue of life. It\'s the most essential ingredient in effective communication. It\'s the foundational principle that holds all relationships.',
+        'Jim Carrey',
     ],
-    [
-        'The first case of Ebola diagnosed in the United States has caused some to call on the United States to ban travel for anyone from the countries in West Africa facing the worst of the Ebola epidemic. That response is understandable. It\'s only human to want to protect ourselves and our families.',
-        'Tom Frieden',
+    '723fe3c1-6e1b-5427-a4e1-5bb330a475fc' => [
+        'We will see that our new attitude toward liquor has been given to us without any thought or effort on our part. It just comes! That is the miracle of it.',
+        'William Griffith Wilson',
     ],
-    [
-        'I don\'t take any photographs. I travel a lot by myself, and I feel weird taking photos on my own.',
-        'Jamie Bell',
+    'be592115-856e-5cbd-afb1-9e7c15c25def' => [
+        'Occasionally I have come across a last patch of snow on top of a mountain in late May or June. There\'s something very powerful about finding snow in summer.',
+        'Andy Goldsworthy',
     ],
-    [
-        'When you come from a big family, you see that, growing up, you\'re learning how to share. Your sisters have got your back; you\'re not alone in this - \'We all support you!\' Your family provides that; it gives you a sense of safety, and it\'s a very grounding feeling.',
-        'Gisele Bundchen',
+    'f7aba84b-9e5b-5b7b-904e-3beb94c7118e' => [
+        'My greatest success story has been my family.',
+        'Alex Spanos',
     ],
-    [
-        'I also had a mistaken attitude towards certain comrades.',
-        'Bela Kun',
+    'dac5e102-fb45-5d0d-a141-25d2a27e92c3' => [
+        'I can give you a six-word formula for success: Think things through - then follow through.',
+        'Eddie Rickenbacker',
     ],
-    [
-        'I grew up in Doncaster and have felt the love for football run through the town; it\'s for that reason that I have a real personal passion to make Doncaster Rovers a success story.',
-        'Louis Tomlinson',
+    'd0538c75-aa5f-5a68-b7e3-0305a08500fe' => [
+        'My incarceration was actually a positive thing from the beginning. I needed a gimmick to get my act going again, it gave me material.',
+        'Tommy Chong',
     ],
-    [
-        'More than 90 percent of what Planned Parenthood does nationally is preventive care - including cervical cancer screenings, breast cancer screenings, and family planning - mostly for women with low resources and income below the poverty line.',
-        'Gene Green',
+    '4371542d-149f-527b-bdb4-1978a5de6bb9' => [
+        'The value of life lies not in the length of days, but in the use we make of them... Whether you find satisfaction in life depends not on your tale of years, but on your will.',
+        'Joyce Meyer',
     ],
-    [
-        'I\'ve learned to start from a really sound argument, boil down the essence of what you\'re trying to say, then build your humor around that, rather than starting with, \'This sounds funny,\' and going from there.',
-        'Hasan Minhaj',
+    '63367395-b794-5ff0-80dd-db90898d4a9b' => [
+        'Silence is the true friend that never betrays.',
+        'Confucius',
     ],
-    [
-        'I was trying to heal wounds all the time, whether it meant having affairs or having attitude. I didn\'t want to show how sad I was.',
-        'Peggy Lipton',
+    '1af1e175-10a7-59e9-8aac-8db5a4919b10' => [
+        'The only guaranteed way to make something not very funny is to make it vague.',
+        'Thomas Lennon',
     ],
-    [
-        'As a personality, I\'m fighter, you know. And I don\'t give up, and if I believe I\'m correct, I\'m right, then I work, and I fight. Okay, this could be over a chess board, this could be in life, and so I defend my principles.',
-        'Anatoly Karpov',
+    '55b117ab-3d9b-5746-bfb6-b605a1d223db' => [
+        'The discovery of agriculture was the first big step toward a civilized life.',
+        'Ranbir Kapoor',
     ],
-    [
-        'Success is going from failure to failure with no loss of enthusiasm.',
-        'Winston Churchill',
+    'e8e337df-255a-5390-a7c5-6578ab1a8415' => [
+        'There are cities that get by on their good looks, offer climate and scenery, views of mountains or oceans, rockbound or with palm trees. And there are cities like Detroit that have to work for a living.',
+        'Elmore Leonard',
     ],
-    [
-        'I grew up in South Africa and I would look at maps and we were at the bottom of the world. There was this whole thing up there. I was always reading encyclopedias about the world. So travel was something I was always attracted to.',
-        'Charlize Theron',
+    '47721539-2c14-58d1-b308-7f0667783b37' => [
+        'Everybody is vulnerable to being in relationships where they get fooled. I\'m no different. It\'s just human nature.',
+        'Michelle Pfeiffer',
     ],
-    [
-        'It makes me sad when I find sisters who aren\'t joyful. They might smile, but with just a smile they could be flight attendants!',
-        'Pope Francis',
+    'f9fe9ca1-4654-51c2-b86c-fcf838369c57' => [
+        'I\'m a big fan of Courtney Love. I love Hole and I love her acting and I love her attitude. I just hope I never meet her in a dark alley.',
+        'Jeff Ross',
     ],
-    [
-        'From my earliest acquaintance with the science of political economy, it has been evident to my mind that capital was the product of labor, and that therefore, in its best analysis there could be no natural conflict between capital and labor.',
-        'Leland Stanford',
+    '20295c12-f79f-56c5-8bd5-d77a7ad7a8b1' => [
+        'The Negro race, like all races, is going to be saved by its exceptional men. The problem of education, then, among Negroes must first of all deal with the Talented Tenth; it is the problem of developing the Best of this race that they may guide the Mass away from the contamination and death of the Worst, in their own and other races.',
+        'W. E. B. Du Bois',
     ],
 ];

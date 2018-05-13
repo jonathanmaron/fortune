@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When I was a kid, dressing right and looking good was a priority. As I grew up, I just wanted to stay that way, stick out a bit and have my own thing. That\'s where white belts and wearing some colors started. So signing with Puma was a great fit for me. I usually travel with nine pairs of golf shoes and 10 belts.',
-        'Rickie Fowler',
+    '12520570-7bf3-520a-8c72-757b33d11b7d' => [
+        'We\'re made for the light of a cave and for twilight. Twilight is the time we see best. When we dim the light down, and the pupil opens, feeling comes out of the eye like touch. Then you really can feel colour, and experience it.',
+        'James Turrell',
     ],
-    [
-        'Because I had my family, I felt like I could be a bird and fly and experience and do. Because I had roots somewhere, I knew that they would love me no matter what, and I could always go back home and they were going to love me.',
-        'Gisele Bundchen',
+    '80a57580-cda9-590d-8222-2ee588e0537e' => [
+        'I just want to be successful. I\'m not going to sit here and be like, \'I want to win a Grammy\' or whatever; if that comes, that\'s awesome. But I just want to be successful and provide for my whole family and get my family out the hood.',
+        'Lil Uzi Vert',
     ],
-    [
-        'Age and size are only numbers. It\'s the attitude you bring to clothes that make the difference.',
-        'Donna Karan',
+    'd4c9a9e7-39ea-534d-b28d-b473f7e63b7d' => [
+        'I play guys who never smile, and I never stop smiling.',
+        'Michael Joseph Kelly',
     ],
-    [
-        'The world is but a canvas to the imagination.',
-        'Henry Thoreau',
+    'f9ffb41e-e905-53a3-82f1-1728dbec3c4a' => [
+        'Growing up, I just wanted to be like everyone else. I didn\'t value or understand the beauty in being different at the time in my life.',
+        'Marisol Nichols',
     ],
-    [
-        'You get tough when you grow up unloved. People described me as a boyish girl - rather shy, but I didn\'t show it. I had an attitude. I was rather wild. I lied a lot because I knew the alternative was to be punished. As I got older I realised I didn\'t have to lie any more and it was a nice feeling. I could be myself.',
-        'Maj Sjowall',
+    '1cfa70bd-5a64-5c33-9227-d5e041876702' => [
+        'Be the change that you want to see in the world.',
+        'Mohandas Gandhi',
     ],
-    [
-        'I think if you just look at life in a positive way, positive things will happen.',
-        'Jake Owen',
+    'f536d68d-fe63-540e-97f8-b5ea9cb3f760' => [
+        'Don\'t pray when it rains if you don\'t pray when the sun shines.',
+        'Satchel Paige',
     ],
-    [
-        'I don\'t know why my smile has become a signature pose. I think it\'s a nice change. I think people want to see happiness, so a smile is what can bring that. I didn\'t make it my trademark on purpose.',
-        'Arizona Muse',
+    'c44f7cf2-9591-5b42-9b83-89b0445cc43a' => [
+        'My father was an absolutely wonderful human being. From him I learned to always assume positive intent. Whatever anybody says or does, assume positive intent.',
+        'Indra Nooyi',
     ],
-    [
-        'Success is always dangerous, and we need to be alert and avoid becoming the victims of our own success. Will we influence the world for Christ, or will the world influence us?',
-        'Billy Graham',
+    'b24b76c2-02db-5a94-bbc2-628377ad2836' => [
+        'If you have learned how to disagree without being disagreeable, then you have discovered the secrete of getting along - whether it be business, family relations, or life itself.',
+        'Bernard Meltzer',
     ],
-    [
-        'No alibi will save you from accepting the responsibility.',
-        'Napoleon Hill',
+    'f57f161e-f310-5bd1-b136-0b456f28362b' => [
+        'An award means a lot to me. It brings happiness along with a kind of fear. It brings fear because the award is the responsibility which audiences have put on us. So a singer winning an award should always try to give best of him to the audiences.',
+        'Shreya Ghoshal',
     ],
-    [
-        'Time flies really quickly. It feels like only a few months ago that I was traded over here and started my career as a Cub in 2013.',
-        'Jake Arrieta',
+    '9315d478-dc50-5b6c-90d8-03f3a4752b53' => [
+        'How many cares one loses when one decides not to be something but to be someone.',
+        'Coco Chanel',
     ],
-    [
-        'To win in Australia, for me, has to be the ultimate success because the Aussies live for sport.',
-        'Ian Botham',
+    'ec2f0c20-bd9f-5f20-985e-5b22dcb433a9' => [
+        'Life is best when you are in love.',
+        'Michael Moriarty',
     ],
-    [
-        'Our goal is to make the best devices in the world, not to be the biggest.',
-        'Steve Jobs',
+    '3f98d9b0-5613-56a2-9943-54a916941f64' => [
+        'My father, who was from a wealthy family and highly educated, a lawyer, Yale and Columbia, walked out with the benefit of a healthy push from my mother, a seventh grade graduate, who took a typing course and got a secretarial job as fast as she could.',
+        'George Weinberg',
     ],
-    [
-        'That\'s what I love from metal, and that\'s what I love from hip-hop. That\'s what I love from any music that\'s hard, that\'s got an edge to it-The attitude in it.',
-        'Kid Rock',
+    '51f3f1d1-f7a8-5d42-a6e8-71def82674c1' => [
+        'It is not the going out of port, but the coming in, that determines the success of a voyage.',
+        'Henry Ward Beecher',
     ],
-    [
-        'You can\'t be a crazy rebel in the face of death, it\'s not a fitting attitude.',
-        'Michel Houellebecq',
+    '3eccd406-8c3b-54ee-bcb0-d15e1c6b81f1' => [
+        'The final proof of greatness lies in being able to endure criticism without resentment.',
+        'Elbert Hubbard',
     ],
-    [
-        'My dad was in the army so we moved around a lot and I changed schools every year and had to make new friends, and I found that if I was the funny guy I could do that easier.',
-        'Jason Gann',
+    'e8865890-9746-5d79-8812-a254b0a65205' => [
+        'My mother, she had a very good attitude toward money. I\'m very grateful for the fact that we had to learn to save. I used to get like 50 pence a week, and I\'d save it for like five months. And then I\'d spend it on Christmas presents. I\'d save up like eight pounds. It\'s nothing, but we did that.',
+        'Gemma Arterton',
     ],
-    [
-        'Lose not yourself in a far off time, seize the moment that is thine.',
-        'Friedrich Schiller',
+    'c824dc2a-6aba-5b2b-bd42-b0280d9f46c1' => [
+        'That it will never come again is what makes life sweet.',
+        'Marcus Aurelius',
     ],
-    [
-        'In all things of nature there is something of the marvellous.',
-        'Aristotle',
+    'd606c062-2d25-5cc0-83eb-9f39765bb70e' => [
+        'Robots will harvest, cook, and serve our food. They will work in our factories, drive our cars, and walk our dogs. Like it or not, the age of work is coming to an end.',
+        'Gray Scott',
     ],
-    [
-        'He who is contented is rich.',
-        'Lao Tzu',
+    'acdaf607-5606-5483-b8c3-3b59abb0d96a' => [
+        'I try to make people smile and dance, not think about things or educate them.',
+        'Norman Cook',
     ],
-    [
-        'When you dance, your purpose is not to get to a certain place on the floor. It\'s to enjoy each step along the way.',
-        'Wayne Dyer',
+    '760a1712-4d03-58c1-827c-b80c242f4c72' => [
+        'Research shows that when women are empowered as political leaders, countries often experience higher standards of living with positive developments in education, infrastructure, and health care.',
+        'Miriam Defensor-Santiago',
     ],
-    [
-        'I think my mom put it best. She said, \'Little girls soften their daddy\'s hearts.\'',
-        'Paul Walker',
+    'e5a7e8b0-47ad-53f1-b8a1-929d29c1d972' => [
+        'My life is every moment of my life. It is not a culmination of the past.',
+        'Isaac Asimov',
     ],
-    [
-        'People, unprotected by their roles, become isolated in beauty and intellect and illness and confusion.',
-        'Richard Avedon',
+    '07ecdc32-339d-5ba9-80e3-2ccb26ad050e' => [
+        'Despise not death, but welcome it, for nature wills it like all else.',
+        'Marcus Aurelius',
     ],
-    [
-        'I\'ve developed into quite a swan. I\'m one of those people that will probably look better and better as I get older until I drop dead of beauty.',
-        'Rufus Wainwright',
+    'eacc04ff-be8f-5cfb-9a6c-6459912c2273' => [
+        'People are patronizing the theatres with renewed enthusiasm - there is an entire picnic-like attitude when families go out to see movies, which is a very good sign. They want to see larger-than-life characters on the big screen and not just watch movies on television or on DVDs.',
+        'Salman Khan',
     ],
-    [
-        'We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.',
-        'George W. Bush',
+    'ca22926b-3011-55fc-b659-d49199c5bfaa' => [
+        'From the very early stage when I started doing performance art in the \'70s, the general attitude - not just me, but also my colleagues - was that there should not be any documentation, that the performance itself is artwork and there should be no documentation.',
+        'Marina Abramovic',
     ],
-    [
-        'Festivals are fun for kids, fun for parents and offer a welcome break from the stresses of the nuclear family. The sheer quantities of people make life easier: loads of adults for the adults to talk to and loads of kids for the kids to play with.',
-        'Tom Hodgkinson',
+    'c3b2e073-da3d-56ba-b82f-766b751507ee' => [
+        'I have never, ever focused on the negative of things. I always look at the positive.',
+        'Sonia Sotomayor',
     ],
-    [
-        'The Oscars are a lot different when you are a nominee. You walk around with this big smile on your face, and everyone, even people who work for rival film companies, tells you they voted for you.',
-        'Samuel Goldwyn',
+    '9f076ff1-1a91-50b3-8df9-4115ee99c39c' => [
+        'The one way to get me to work my hardest was to doubt me.',
+        'Michelle Obama',
     ],
 ];

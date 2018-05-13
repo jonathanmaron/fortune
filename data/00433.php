@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I have never won a race, and that is my main disappointment - but you have to be positive.',
-        'Jean Alesi',
+    '1e7a312a-a679-5c5b-ad68-b2fcb26b34a1' => [
+        'We do not realise that we are children of eternity. If we did, then success would be no success, and failure would be no failure to us.',
+        'Joseph Barber Lightfoot',
     ],
-    [
-        'Congress must take responsibility for a new positive direction - an innovative agenda that will lead to a more secure America. Secure communities, secure economies, and a secure quality of life.',
-        'Rick Larsen',
+    '01b30333-7dd6-598f-a0c4-a931f915a453' => [
+        'Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.',
+        'Coolio',
     ],
-    [
-        'I\'m a car fanatic and each morning I wake up with a smile on my face, whether I\'m commentating on the Formula One or at Silver Hatch racetrack in Roary the Racing Car.',
-        'Murray Walker',
+    '7aeee24c-f549-559e-aa48-69148406710a' => [
+        'I would fight for my liberty so long as my strength lasted, and if the time came for me to go, the Lord would let them take me.',
+        'Harriet Tubman',
     ],
-    [
-        'I got the chance to do things that I dreamed of when I was a kid: I got to travel around the world; I had my own \'Goosebumps\' attraction at Disney World; I\'ve been on TV and had three TV series.',
-        'R. L. Stine',
+    '8c8ef7de-9f18-56d1-bf74-4ba687f208ef' => [
+        'All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.',
+        'William Shakespeare',
     ],
-    [
-        'When it comes down to it, glam rock was all very amusing. At the time, it was funny, then a few years later it became sort of serious-looking and a bit foreboding.',
-        'David Bowie',
+    '2d61d0b1-0b34-5264-a133-7e2476eb9915' => [
+        'Character is the result of two things: mental attitude and the way we spend our time.',
+        'Elbert Hubbard',
     ],
-    [
-        'Actually, we chose the name Sun Cellular because we believe the name \'Sun\' is bright, forward-looking and optimistic. It is my sincere hope that the whole Philippines will share our positive outlook, optimism and faith in the country\'s future.',
-        'John Gokongwei',
+    '1034f20b-7737-5fa7-92c1-c0e28c1d6642' => [
+        'Even after all this time, the sun never says to the earth, \'You owe me.\' Look what happens with a love like that. It lights the whole sky.',
+        'Hafez',
     ],
-    [
-        'I think what\'s important in a good manager and a good agent is that they know your vision and that they are passionate about you and believe in you. Because if they don\'t, then they\'re not going to work hard for you, and they\'re going to send you out on things that you don\'t want to do.',
-        'Maiara Walsh',
+    'eb089430-0432-59ac-bb4b-92d781fcac46' => [
+        'Before the BBC, I joined the Navy in order to travel.',
+        'David Attenborough',
     ],
-    [
-        'People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn\'t mean they\'ve gotten lost.',
-        'Dalai Lama',
+    '6f7f56f9-a609-5ecc-8668-c381b8d085d6' => [
+        'It has never been my object to record my dreams, just to realize them.',
+        'Man Ray',
     ],
-    [
-        'I see myself as no color. I can play the role of a man. I can paint my face white if I want to and play the role of white. I can play a green, I can be a purple. I think I have that kind of frame and that kind of attitude where I can play an animal.',
-        'Grace Jones',
+    '5f1ae13f-5050-5edd-87a1-1fb2720859e5' => [
+        'What kind of influence did my parents have on my life? Well, they had the most influence. These are the people who are closest to me. My parents are very positive people. They\'ve been supportive. They\'re always there.',
+        'Derek Jeter',
     ],
-    [
-        'Every time I look at you I get a fierce desire to be lonesome.',
-        'Oscar Levant',
+    '75d61722-80a7-5749-8e55-dd00198c247d' => [
+        'Put your heart, mind, and soul into even your smallest acts. This is the secret of success.',
+        'Swami Sivananda',
     ],
-    [
-        'Keep all special thoughts and memories for lifetimes to come. Share these keepsakes with others to inspire hope and build from the past, which can bridge to the future.',
-        'Mattie Stepanek',
+    '9ce2f176-0ac3-5f35-a164-d60662f8c97e' => [
+        'Good things come to people who wait, but better things come to those who go out and get them.',
+        'Unknown',
     ],
-    [
-        'The family only represents one aspect, however important an aspect, of a human being\'s functions and activities. A life is beautiful and ideal or the reverse, only when we have taken into our consideration the social as well as the family relationship.',
-        'Havelock Ellis',
+    'a1ac3551-e0a6-5b6e-b25b-b365ecc4c634' => [
+        'Touring is tough. You\'re almost in a haze because you don\'t really know where you are half the time: You\'re in a hotel room one moment, and the next thing you know, you\'re onstage performing for 60,000 people, then you\'re back on an airplane. It\'s very hectic and I couldn\'t do it without my family.',
+        'Vanessa Hudgens',
     ],
-    [
-        'The only rock I know that stays steady, the only institution I know that works, is the family.',
-        'Lee Iacocca',
+    '4bc07d7a-6363-5486-aa54-46820dadacf8' => [
+        'The most exhausting thing in life is being insincere.',
+        'Booker T. Washington',
     ],
-    [
-        'I mean, the shoe - there is a music to it, there is attitude, there is sound, it\'s a movement. Clothes - it\'s a different story. There are a million things I\'d rather do before designing clothes: directing, landscaping.',
-        'Christian Louboutin',
+    'f7ed0f6a-7e1c-58cd-abfc-d075aa7761e9' => [
+        'To transcend limitations and form positive new patterns of life based on who you know you can be rather than who you were yesterday, you must give up the modes of thinking, feeling and behaving that only keep you chained to your past.',
+        'Debbie Ford',
     ],
-    [
-        'Learning is a treasure that will follow its owner everywhere',
-        'Chinese proverb',
+    'e0865af5-5539-50e2-8b69-43f940d20959' => [
+        'Inspiration is one thing and you can\'t control it, but hard work is what keeps the ship moving. Good luck means, work hard. Keep up the good work.',
+        'Kevin Eubanks',
     ],
-    [
-        'Genius is one percent inspiration and ninety-nine percent perspiration.',
+    '109a822b-7929-5dc8-b715-9bf053b1533b' => [
+        'People might not get all they work for in this world, but they must certainly work for all they get.',
+        'Frederick Douglass',
+    ],
+    'f25a4362-bb11-58f7-9b5f-25a85eaf8f9a' => [
+        'Painting from nature is not copying the object; it is realizing one\'s sensations.',
+        'Paul Cezanne',
+    ],
+    '5ff91912-3f68-50af-bd39-275db1618d36' => [
+        'Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to.',
+        'Demi Lovato',
+    ],
+    'a3be4d1c-cc4f-5ca0-807c-bd32c0f89635' => [
+        'One must ask children and birds how cherries and strawberries taste.',
+        'Johann Wolfgang von Goethe',
+    ],
+    '0ce92653-4d9a-55ef-9084-e61d40f394ce' => [
+        'The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.',
+        'Ray Kroc',
+    ],
+    '624b9a0f-fe2a-5436-bd2d-07344b7e656d' => [
+        'If we did the things we are capable of, we would astound ourselves.',
         'Thomas Edison',
     ],
-    [
-        'I had a really bad temper, when I was growing up. Sport helped me channel that temper into more positive acts.',
-        'Mike Krzyzewski',
+    'f2e3e7bb-b5e5-560b-a05c-2d9411d6ae98' => [
+        'My favorite books are the ones that make me smile for hours after reading them. I want that for my readers, for the sweetness to linger. Sort of like chocolate, but without the calories.',
+        'Sarah Addison Allen',
     ],
-    [
-        'I really believe that all of us have a lot of darkness in our souls. Anger, rage, fear, sadness. I don\'t think that\'s only reserved for people who have horrible upbringings. I think it really exists and is part of the human condition. I think in the course of your life you figure out ways to deal with that.',
-        'Winston Churchill',
+    'e9fe9fb7-eca2-500d-b5e8-c8ea0cdf53ef' => [
+        'I define success as being comfortable with yourself and your life. And that is about as good as it gets, really.',
+        'Treat Williams',
     ],
-    [
-        'If I create from the heart, nearly everything works; if from the head, almost nothing.',
-        'Marc Chagall',
+    'e27ecdd3-dcdd-596e-b92a-c2863c5f3155' => [
+        'We do not quit playing because we grow old, we grow old because we quit playing.',
+        'Oliver Holmes',
     ],
-    [
-        'I have my ethics and morals. I have my anchor point of what is right and wrong in real life, but I\'m not afraid to entertain any and every aspect of personality in relationship to creating a character.',
-        'Henry David Thoreau',
-    ],
-    [
-        'Take a step back, evaluate what is important, and enjoy life.',
-        'Phillips Brooks',
-    ],
-    [
-        'Every job has its downside. For example, being in a band; the travel part of it - getting picked up from your house in a car, going to the airport, getting on a plane, going from the airplane to a van, then going from the van to a hotel.',
-        'Dave Lombardo',
-    ],
-    [
-        'The ambition and focus that propel you to success can also be your downfall.',
-        'Judy Smith',
-    ],
-    [
-        'I\'ve felt that if you dwell too much on your errors, you\'re dealing in the negativity of things. I don\'t like that. I\'d rather work on the positive reinforcement, the things I did well.',
-        'Hale Irwin',
-    ],
-    [
-        'What should I have known or written had I been a quiet, mercantile politician or a lord in waiting? A man must travel, and turmoil, or there is no existence.',
-        'Lord Byron',
+    'f6ddd38f-cac9-5fca-b5c8-20df801031ae' => [
+        'Every problem has a gift for you in its hands.',
+        'Richard Bach',
     ],
 ];

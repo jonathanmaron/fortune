@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Simplicity is natures first step, and the last of art.',
-        'Philip James Bailey',
+    'db9a87ff-08fe-5e66-894a-3b9573e84119' => [
+        'The embarrassment of a situation can, once you are over it, be the funniest time in your life. And I suppose a lot of my comedy comes from painful moments or experiences in life, and you just flip them on their head.',
+        'Miranda Hart',
     ],
-    [
-        'Life\'s like a play: it\'s not the length, but the excellence of the acting that matters.',
-        'David Gerrold',
+    '79db083c-42da-5b5f-a4d2-37c0d55c961b' => [
+        'In all things of nature there is something of the marvelous.',
+        'Aristotle',
     ],
-    [
-        'My parents are both very funny but they\'re also relatively soft-spoken, normal human beings while I\'m just a lunatic. I don\'t know where this loud, ballsy, hammy ridiculousness came from. I\'m just glad I followed my goals and my parents did too. It\'s not like we even had a plan when I dragged my mom to Los Angeles.',
-        'Emma Stone',
+    'ff6db982-6c6a-5bcb-8601-2b2b2b98b79e' => [
+        'I just feel like people like a little break. Especially at 12:37 at night, you go, like, \'I\'m just tired of the snarky right now. I just want to lie down and have somebody make me laugh for an hour. Entertain me, and then I\'m going to sleep with a smile on my face.\' That\'s my job; that\'s what I do.',
+        'Jimmy Fallon',
     ],
-    [
-        'I never drink water because of the disgusting things that fish do in it.',
-        'Unknown',
+    'a6cfd5ff-222a-550f-aea8-0e43815b8cc8' => [
+        'I may be a living legend, but that sure don\'t help when I\'ve got to change a flat tire.',
+        'Roy Orbison',
     ],
-    [
-        'What sculptors do is represent the essence of gesture. What is important in mime is attitude.',
-        'Marcel Marceau',
+    '14be48fe-f813-5fd0-a64c-e2571bd2a0e5' => [
+        'To photograph truthfully and effectively is to see beneath the surfaces and record the qualities of nature and humanity which live or are latent in all things.',
+        'Ansel Adams',
     ],
-    [
-        'Laughter is the best medicine - unless you\'re diabetic, then insulin comes pretty high on the list.',
-        'Jasper Carrott',
+    'f0a97848-41d5-5dd6-a9a7-588a732347a3' => [
+        'I realized my family was funny, because nobody ever wanted to leave our house.',
+        'Anthony Anderson',
     ],
-    [
-        'Beauty and femininity are ageless and can\'t be contrived, and glamour, although the manufacturers won\'t like this, cannot be manufactured. Not real glamour; it\'s based on femininity.',
-        'Marilyn Monroe',
+    'a51d070e-bcfb-572b-b114-4cc526baf126' => [
+        'Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better take things as they come along with patience and equanimity.',
+        'Richard Rorty',
     ],
-    [
-        'I think that\'s a great opportunity, to pick a script where you can build up a good skill. I think the main thing I look for when I look at scripts is if it\'s inspirational. If it\'s something that teenagers can relate to. And is it something that the audience is going to get something out of. If not, then it\'s really not worth doing.',
-        'Carly Schroeder',
+    '10695446-bc15-5a26-8672-d835a837e0fe' => [
+        'I am deliberate and afraid of nothing.',
+        'Audre Lorde',
     ],
-    [
-        'Los Angeles is a true postmodern city. Here, we celebrate with equal aplomb the high and the low. I am just as influenced by the punk rock attitude of local skate and surf cultures as I am by old-school glamour and stardust.',
-        'Liz Goldwyn',
+    '6d9adc3a-b001-5a32-b690-d35228db422b' => [
+        'Mosquito control in the United States is very much a local and state activity. Some states have excellent programs, other states not so much. It\'s one of the reasons it\'s so urgent to identify and spread best practices to try and track and reduce mosquito populations.',
+        'Tom Frieden',
     ],
-    [
-        'I\'ve got a sense of humor. I\'m a funny guy.',
-        'Daryl Hall',
+    '6dc0576c-9dff-53da-a041-319cae4767f9' => [
+        'I own and operate a ferocious ego.',
+        'Bill Moyers',
     ],
-    [
-        'Let me be the first to tell you, drinking alcohol is the worst thing to do in cold weather. Hot soup is the best because the process of digesting food helps to warm you up.',
-        'Morgan Freeman',
+    'b1b0be28-5993-5fa9-bcb1-61527fb373f4' => [
+        'My beauty icons are women whose images are self-created.',
+        'Dita Von Teese',
     ],
-    [
-        'Nothing diminishes anxiety faster than action.',
-        'Walter Anderson',
+    'd9b0da06-e940-5edd-872a-3037e3cec920' => [
+        'I put instant coffee in a microwave oven and almost went back in time.',
+        'Steven Wright',
     ],
-    [
-        'If your ego starts out, \'I am important, I am big, I am special,\' you\'re in for some disappointments when you look around at what we\'ve discovered about the universe. No, you\'re not big. No, you\'re not. You\'re small in time and in space. And you have this frail vessel called the human body that\'s limited on Earth.',
-        'Neil deGrasse Tyson',
+    'cab08f23-89bd-525f-8519-6cdf864276d9' => [
+        'Try to be like the turtle - at ease in your own shell.',
+        'Bill Copeland',
     ],
-    [
-        'The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.',
-        'Robert Frost',
+    'e9cd4030-1b1b-5950-8c9e-42afa0c770a7' => [
+        'Wrinkles should merely indicate where smiles have been.',
+        'Mark Twain',
     ],
-    [
-        'It always takes two. For relationships to work, for them to break apart, for them to be fixed.',
-        'Emily Giffin',
+    '466dd9c7-b53e-51df-af4b-5c948e6158d8' => [
+        'I am thrilled to support World of Children and its superlative efforts to fund changemakers around the world. It\'s a great privilege to be associated with an organization that recognizes and funds those individuals really working in the trenches, and I look forward to being part of advancing positive change for children everywhere.',
+        'Stephanie March',
     ],
-    [
-        'Whatever ought to be, can be.',
-        'James Rouse',
+    '8e67d9a5-715b-5e46-aad7-f718599dd10f' => [
+        'I mean, the shoe - there is a music to it, there is attitude, there is sound, it\'s a movement. Clothes - it\'s a different story. There are a million things I\'d rather do before designing clothes: directing, landscaping.',
+        'Christian Louboutin',
     ],
-    [
-        'I can resist everything except temptation.',
-        'Oscar Wilde',
+    'f770a1d4-a1fe-53fc-ae61-09a42be9fd1f' => [
+        'Today is your own. Tomorrow perchance may never come.',
+        'Helen Keller',
     ],
-    [
-        'I was a vegetarian until I started leaning toward the sunlight.',
-        'Rita Rudner',
+    'df361981-7ecd-5a31-be6b-82c2d3829d76' => [
+        'People are at their best when they can be natural. And that\'s the hardest thing as a photographer.',
+        'Platon',
     ],
-    [
-        'I know you can be funny without being filthy.',
-        'Jonathan Winters',
+    '0f9955a1-4545-59ec-adf0-9c7e56c8ac81' => [
+        'Although there may be tragedy in your life, there\'s always a possibility to triumph. It doesn\'t matter who you are, where you come from. The ability to triumph begins with you. Always.',
+        'Oprah Winfrey',
     ],
-    [
-        'To any artist, worthy of the name, all in nature is beautiful, because his eyes, fearlessly accepting all exterior truth, read there, as in an open book, all the inner truth.',
-        'Auguste Rodin',
+    'c76ad693-206f-548f-aa03-32b8ae52b2ab' => [
+        'As long as I\'m not selling out the people that ride or die with me, I\'m glad I\'m not an MC. I\'m a motivational speaker. I\'m not that rapper dude.',
+        'Young Jeezy',
     ],
-    [
-        'Music is probably the only real magic I have encountered in my life. There\'s not some trick involved with it. It\'s pure and it\'s real. It moves, it heals, it communicates and does all these incredible things.',
-        'Thomas Jefferson',
+    'ba7f3804-bf01-5a97-a16d-3b359c161de4' => [
+        'My work reflects a relationship to the built world that shifts between control and randomness, strangeness and beauty, comfort and fear.',
+        'David Allee',
     ],
-    [
-        'You can\'t trust without risk but neither can you live in a cocoon.',
-        'Byron Pulsifer',
+    '582e5725-a6fa-5191-af35-e57b9f27bdf9' => [
+        'A compliment is something like a kiss through a veil.',
+        'Victor Hugo',
     ],
-    [
-        'I never cut class. I loved getting A\'s, I liked being smart. I liked being on time. I thought being smart is cooler than anything in the world.',
-        'Michelle Obama',
+    '9153693a-88c5-519a-a36d-2ba8116dde44' => [
+        'I have a company attitude about my work. I don\'t like to do just one thing; I like to do a lot of things.',
+        'Jack O\'Brien',
     ],
-    [
-        'Having lots of siblings is like having built-in best friends.',
-        'Kim Kardashian',
+    '0f6be41e-1c06-519d-9bb4-eb4c5a4febf5' => [
+        'I went to Catholic school throughout my whole academic life. In fact, my children - my husband and I and our children in my own family now have over 100 years of Catholic education among us.',
+        'Nancy Pelosi',
     ],
-    [
-        'Working together in concert more smoothly not only helps us move more quickly; it changes the nature of what we can undertake. When we have the confidence that we can orchestrate the group effort required to realize them, we dare bigger dreams.',
-        'Justin Rosenstein',
+    'df66d4e3-158e-5d53-8b50-c98fb09fd6b9' => [
+        'A person with a new idea is a crank until the idea succeeds.',
+        'Mark Twain',
     ],
 ];

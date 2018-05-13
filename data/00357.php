@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.',
+    'c2f18ae6-8904-54e4-8d26-24e342ee09e3' => [
+        'I\'ve never run into a guy who could win at the top level in anything today and didn\'t have the right attitude, didn\'t give it everything he had, at least while he was doing it; wasn\'t prepared and didn\'t have the whole program worked out.',
+        'Ted Turner',
+    ],
+    '24064012-1596-57ab-9b0b-f6c24bd0eb91' => [
+        'I knew, regardless of anything else, singing in front of an orchestra was going to be inspirational. It would feed me.',
+        'George Michael',
+    ],
+    'b7fe8677-1cee-50bf-96a8-ecaafd0067bc' => [
+        'Social media reactions to celebrity death have taken on a predictable pattern: an outpouring of shock with expressions of grief, followed by a ghoulish need to know all the details, to see the scene of the death and the family in mourning. Then a post-mortem dissection of all the perceived flaws the celebrity had.',
+        'Jennifer Armintrout',
+    ],
+    '3f1f5f1c-11b7-5d9b-8eff-97c370073f35' => [
+        'Tommie Aaron taught me how to have a good attitude, to be easy going and not get uptight.',
+        'Dale Murphy',
+    ],
+    'ba5917e3-1e71-58d2-ba82-7e82b5acbffd' => [
+        'Don\'t let your sorrow come higher than your knees.',
+        'Swedish Proverb',
+    ],
+    '1a6cf5ed-7ee5-590a-8169-1a466e917501' => [
+        'The grass is always greener on the other side. We are busy applying fairness creams while people in the West go bare-bodied on the beach to get a tan. Indian girls have ruled the roost when it comes to beauty pageants. I flaunt my complexion, and I am proud to be noticed as an Indian wherever I go.',
+        'Shilpa Shetty',
+    ],
+    '286e943d-f8db-5595-b4c3-52e55c0effcc' => [
+        'If you want to make peace with your enemy, you have to work with your enemy. Then he becomes your partner.',
+        'Nelson Mandela',
+    ],
+    '0003a5f2-54e4-5bba-a1cc-506c4edf7c13' => [
+        'Once I knew only darkness and stillness... my life was without past or future... but a little word from the fingers of another fell into my hand that clutched at emptiness, and my heart leaped to the rapture of living.',
+        'Helen Keller',
+    ],
+    '3524c280-d214-5a30-88f9-1e08fba28e40' => [
+        'My proudest achievement has been the success of the shows and artists I have been involved with, because they were made in Britain.',
+        'Simon Cowell',
+    ],
+    'ad869b8a-7611-5dd2-9186-cb294b828157' => [
+        'I sang in the choir for years, even though my family belonged to another church.',
+        'Paul Lynde',
+    ],
+    '66c6c575-e43d-50b8-b7f2-7f8e07c152de' => [
+        'The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.',
+        'Thomas Edison',
+    ],
+    '1790db24-b907-5b59-90b6-76e28e1ce51d' => [
+        'Good actions give strength to ourselves and inspire good actions in others.',
+        'Plato',
+    ],
+    '09b1366c-b6c9-571a-bba9-6386c12efaf5' => [
+        'Know or listen to those who know.',
+        'Baltasar Gracian',
+    ],
+    '3fd5f0f7-1540-58f7-9001-a250393d4c0f' => [
+        'Man has lost the capacity to foresee and to forestall. He will end by destroying the earth.',
+        'Albert Schweitzer',
+    ],
+    'd92f3a9c-ea42-54d0-9e9c-255b9d2ad236' => [
+        'The real success in golf lies in turning three shots into two.',
+        'Bobby Locke',
+    ],
+    'b1c87906-1443-5b78-bb39-984134010fd9' => [
+        'Every man\'s work, whether it be literature, or music or pictures or architecture or anything else, is always a portrait of himself.',
+        'Samuel Butler',
+    ],
+    '9717c964-f3d6-5830-b4bb-6daea99eeef3' => [
+        'A good character is the best tombstone. Those who loved you and were helped by you will remember you when forget-me-nots have withered. Carve your name on hearts, not on marble.',
+        'Charles Spurgeon',
+    ],
+    '1067f4a9-b741-5bc4-9854-aeb9864b6a81' => [
+        'Ambition is the path to success. Persistence is the vehicle you arrive in.',
+        'Bill Bradley',
+    ],
+    '920b1e01-e975-508d-a114-962bf8d54b53' => [
+        'There\'s a lot more to me than just funny.',
+        'Steve Harvey',
+    ],
+    '6cbdf8e9-e8b7-5137-83d6-0b0ac0a7279d' => [
+        'My ideal travel companions are my family.',
+        'Pharrell Williams',
+    ],
+    '16eac998-40b0-56ba-91f4-c06c95821de2' => [
+        'How long are you going to wait before you demand the best for yourself',
         'Epictetus',
     ],
-    [
-        'Gamer humor ranges all over the place. What it comes down to is taking a lot of what we see in gaming and we\'re familiar with in gaming and being like, \'OK, hold on, let\'s re-examine this for a second. Isn\'t this funny? Isn\'t this strange? Isn\'t this a little bit ridiculous?\' That\'s where it is.',
-        'Freddie Wong',
+    '8c2d9bfe-cced-5165-bec9-bc3064c817f7' => [
+        'Life is the most exciting opportunity we have. But we have one shot. You graduate from college once, and that\'s it. You\'re going out of that nest. And you have to find that courage that\'s deep, deep, deep in there. Every step of the way.',
+        'Wilma Rudolph',
     ],
-    [
-        'Everything is a blessing, even meetings. Whether it\'s meetings or running gassers or lifting, it\'s an opportunity, and the best thing to do is be thankful for it.',
-        'Eric Berry',
+    '0a832f44-7ed5-57e9-97b0-6a89919edd74' => [
+        'Every traveler knows too well the endless quest for the perfect travel bag: the one that\'s stylish enough to carry through Paris, sturdy enough to tote around Peru, and - most important - doesn\'t make your shoulder sag even before you\'ve loaded it up with everything you need for a day of sightseeing.',
+        'Hanya Yanagihara',
     ],
-    [
-        'I was the kind nobody thought could make it. I had a funny Boston accent. I couldn\'t pronounce my R\'s. I wasn\'t a beauty.',
-        'Barbara Walters',
+    'ad870a82-9842-55d3-8e11-f0e324e91bb8' => [
+        'Setting goals is the first step in turning the invisible into the visible.',
+        'Tony Robbins',
     ],
-    [
-        'Honesty and integrity are absolutely essential for success in life - all areas of life. The really good news is that anyone can develop both honesty and integrity.',
-        'Zig Ziglar',
-    ],
-    [
-        'Having nothing, nothing can he lose.',
-        'William Shakespeare',
-    ],
-    [
-        'The Analytical Engine does not occupy common ground with mere \'calculating machines.\' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.',
-        'Ada Lovelace',
-    ],
-    [
-        'Whatever is received is received according to the nature of the recipient.',
-        'Thomas Aquinas',
-    ],
-    [
-        'Coffee has always been a significant part of my life. For me, it\'s a chance to start my day and gather my thoughts - it\'s fuel for my creative process.',
-        'Jessica Savitch',
-    ],
-    [
-        'The only thing to do with good advice is to pass it on. It is never of any use to oneself.',
-        'Oscar Wilde',
-    ],
-    [
-        'In raising children, we need to continuously keep in mind how we can best create the most favorable environment for their imitative behavior. Everything done in the past regarding imitation must become more and more conscious and more and more consciously connected with the future.',
-        'Rudolf Steiner',
-    ],
-    [
-        'There\'s an ease that I have living in Australia. The best things about Sydney are free: the sunshine\'s free, and the harbour\'s free, and the beach is free.',
-        'Russell Crowe',
-    ],
-    [
-        'As a life coach, I love makeovers, from new clothes to surgery, pedicures to highlights. But redoing makes you feel better only if approached with the right attitude.',
-        'Martha Beck',
-    ],
-    [
-        'My children are the reason I laugh, smile and want to get up every morning.',
-        'Gena Lee Nolin',
-    ],
-    [
-        'When my time on earth is gone, and my activities here are passed, I want they bury me upside down, and my critics can kiss my ass!',
-        'Bobby Knight',
-    ],
-    [
-        'You have to figure out what\'s important and keep the main points, though I will swing a little outside the box. It affords me the freedom to find out who the character is, and it\'s been a positive technique for me. I\'m not saying everyone should change words, but if you can do it with confidence, you may nail it.',
-        'Dawn Olivieri',
-    ],
-    [
-        'The fun part of being a girl is that there are little beauty things you can do to make yourself feel special.',
-        'Jennifer Love Hewitt',
-    ],
-    [
-        'Beauty is the promise of happiness.',
-        'Edmund Burke',
-    ],
-    [
-        'Compassion and happiness are not a sign of weakness but a sign of strength.',
-        'Dalai Lama',
-    ],
-    [
-        'Beauty and the devil are the same thing.',
-        'Robert Mapplethorpe',
-    ],
-    [
-        'Each one of us has our own evolution of life, and each one of us goes through different tests which are unique and challenging. But certain things are common. And we do learn things from each other\'s experience. On a spiritual journey, we all have the same destination.',
-        'Thomas Fuller',
-    ],
-    [
-        'If you live to be one hundred, you\'ve got it made. Very few people die past that age.',
-        'George Burns',
-    ],
-    [
-        'If you could cross a lion and a monkey, that\'s what I\'d be, because monkeys are funny and lions are strong.',
-        'Marlon Wayans',
-    ],
-    [
-        'Dates that come around every year help us measure progress in our lives. One annual event, New Year\'s Day, is a time of reflection and resolution.',
-        'Joseph B. Wirthlin',
-    ],
-    [
-        'Utrip makes it easy for travelers to experience the destination highlights that most interest them, be it food, art or history. Just like a culinary experience, every palate is different, and Utrip is all about personalizing travel for their users.',
-        'Tom Douglas',
+    '12e38a0a-d823-5ca0-9262-d56d99f8d33c' => [
+        'The world is full of magical things patiently waiting for our wits to grow sharper.',
+        'Bertrand Russell',
     ],
 ];

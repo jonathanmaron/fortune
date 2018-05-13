@@ -42,4 +42,16 @@ class Fortune
 
         return $stack[array_rand($stack)];
     }
+
+    public function getFortunes()
+    {
+        $finder = new Finder();
+
+        $ret = [];
+        foreach ($finder->php($this->getPath()) as $fileInfo) {
+            $ret = array_merge($ret, include $fileInfo->getPathname());
+        }
+
+        return $ret;
+    }
 }

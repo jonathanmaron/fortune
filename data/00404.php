@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'You may delay, but time will not.',
-        'Benjamin Franklin',
+    '0f49ed53-eeba-5dfc-8f38-f1e8aca4a202' => [
+        'But Hopes are Shy Birds flying at a great distance seldom reached by the best of Guns.',
+        'John James Audubon',
     ],
-    [
-        'Be passionate. Be courageous. Be your best.',
-        'Gabrielle Giffords',
+    'cc2bbe50-080a-5247-b9cf-af2d310fa9ae' => [
+        'All travel has its advantages. If the passenger visits better countries, he may learn to improve his own. And if fortune carries him to worse, he may learn to enjoy it.',
+        'Samuel Johnson',
     ],
-    [
-        'I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.',
-        'Muhammad Iqbal',
+    '639c4985-c3dc-5f15-9d12-9817c2147d9a' => [
+        'Cigarettes and coffee: an alcoholic\'s best friend!',
+        'Gerard Way',
     ],
-    [
-        'I\'m happy with who I am inside. I\'d hate to have accolades and all that and not really be happy with who I was. So I\'m really thankful for my family and for the support system that I have for being the person that I am today. I\'m proud of who I am.',
-        'Keke Palmer',
+    '4c1536d5-708f-59b9-8f3e-9f825e6bcb19' => [
+        'Learning to love my inner and outer beauty wasn\'t an easy road. I still don\'t always love the reflection I see in the mirror, but I have learned that my outer appearance does not define me.',
+        'Katherine Schwarzenegger',
     ],
-    [
-        'Every man has his follies - and often they are the most interesting thing he has got.',
-        'Josh Billings',
+    'f734589a-ca74-5380-b7a0-887406b06c6d' => [
+        'What a wonderful life I\'ve had! I only wish I\'d realized it sooner.',
+        'Liu Xiaobo',
     ],
-    [
-        'There is no greater harm than that of time wasted.',
-        'Michelangelo',
+    'f9db9e51-f0d8-54ad-b71a-9c4077d769c1' => [
+        'And when I breathed, my breath was lightning.',
+        'Black Elk',
     ],
-    [
-        'The least of things with a meaning is worth more in life than the greatest of things without it.',
-        'Carl Jung',
+    '4ac4da50-31e1-59f2-8f11-c4500ebc2b99' => [
+        'Love is what really fuels you, and that goes for relationships with a spouse or with family. Love is a beautiful thing.',
+        'Christina Milian',
     ],
-    [
-        'In philanthropy, you have to take the attitude of a mother... You have to be patient, and we have been very patient for a long time.',
-        'Shiv Nadar',
+    '99ba4694-b68e-5a63-8b10-c97eb96413f4' => [
+        'Our parents deserve our honor and respect for giving us life itself. Beyond this they almost always made countless sacrifices as they cared for and nurtured us through our infancy and childhood, provided us with the necessities of life, and nursed us through physical illnesses and the emotional stresses of growing up.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'The difficulty in life is the choice.',
-        'Emmy Rossum',
+    '8cc5bf78-c829-5895-92bb-a1bd893408c8' => [
+        'Anytime you see a turtle up on top of a fence post, you know he had some help.',
+        'Alex Haley',
     ],
-    [
-        'We sit in a room for months trying to think of funny things.',
-        'David Walliams',
+    'e5065e74-05cf-5d25-8c39-c971f0866bbf' => [
+        'It\'s always exciting to see different cities I love, and go on tour buses. It\'s so much fun to travel. My favorite part is being able to perform live in front of all these amazing people; being able to connect with them and seeing their reaction makes me feel very special.',
+        'Jackie Evancho',
     ],
-    [
-        'My work reflects a relationship to the built world that shifts between control and randomness, strangeness and beauty, comfort and fear.',
-        'David Allee',
+    '4fd0ada6-4bf1-5a36-b356-9c9363db27e4' => [
+        'By nature, I keep moving, man. My theory is, be the shark. You\'ve just got to keep moving. You can\'t stop.',
+        'Brad Pitt',
     ],
-    [
-        'If a man has been his mother\'s undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it.',
-        'Sigmund Freud',
+    'b72bd6e3-6d4c-54c4-9d80-fd20e0c356ec' => [
+        'Travel works best when you\'re forced to come to terms with the place you\'re in.',
+        'Paul Theroux',
     ],
-    [
-        'Work is not man\'s punishment. It is his reward and his strength and his pleasure.',
-        'George Sand',
+    'f8e5ab34-c101-5f2f-8e43-7c449e3ee916' => [
+        'When it comes to success, there are no shortcuts.',
+        'Bo Bennett',
     ],
-    [
-        'I am an emotional person, and soccer is sheer emotion. For me, it is the best way to unwind.',
-        'Martin Winterkorn',
+    '2836701c-e564-519f-ab1a-fbbf60c9a763' => [
+        'The woman with dark hair, wide hips, and a few extra pounds has always been the essence of beauty in Morocco.',
+        'Fatema Mernissi',
     ],
-    [
-        'People living deeply have no fear of death.',
-        'Hans Christian Andersen',
+    '32424474-3eab-5d72-8ef8-f05991db320b' => [
+        'It seems to be a law of nature, inflexible and inexorable, that those who will not risk cannot win.',
+        'John Paul Jones',
     ],
-    [
-        'I honestly think it is better to be a failure at something you love than to be a success at something you hate.',
-        'George Burns',
+    '523faeeb-1c9f-5474-bb36-5470dcd9fab6' => [
+        'Normal is getting dressed in clothes that you buy for work, driving through traffic in a car that you are still paying for, in order to get to a job that you need so you can pay for the clothes, car and the house that you leave empty all day in order to afford to live in it.',
+        'Ellen Goodman',
     ],
-    [
-        'So if diva means giving your best, then yes, I guess I am a diva.',
-        'Patti LaBelle',
+    '688fe76c-d96b-50f6-b134-6c3111b46e77' => [
+        'The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.',
+        'Aldous Huxley',
     ],
-    [
-        'Our distrust is very expensive.',
-        'Ralph Emerson',
+    '5d2da2d2-31a9-5fd4-9352-f56fe42f5408' => [
+        'Art is built on the deepest themes of human meaning: good and evil, beauty and ugliness, life and death, love and hate. No other story has incarnated those themes more than the story of Jesus.',
+        'John Ortberg',
     ],
-    [
-        'Without imagination we can go nowhere. And imagination is not restricted to the arts. Every scientist I have met who has been a success has had to imagine.',
-        'Rita Dove',
+    'df70ea65-30ff-557b-b345-d5e822d9b1a7' => [
+        'But when I really look back on my life, being really honest about it and now that I\'ve got the chance to travel the world, seeing how a lot of little kids grow up - my life wasn\'t so bad.',
+        'Coolio',
     ],
-    [
-        'Leaders must exemplify integrity and earn the trust of their teams through their everyday actions. When you do this, you set high standards for everyone at your company. And when you do so with positive energy and enthusiasm for shared goals and purpose, you can deeply connect with your team and customers.',
-        'Marillyn Hewson',
+    'b6708ebe-5e55-5370-b015-0e1bb61d664b' => [
+        'The clock talked loud. I threw it away, it scared me what it talked.',
+        'Tillie Olsen',
     ],
-    [
-        'The best way of removing negativity is to laugh and be joyous.',
-        'David Icke',
+    '07807452-dd0a-5a27-b5f8-75b58460c8a4' => [
+        'I smile every time I hear that I\'m a fan favorite or a teenage hottie. It is a nice compliment, and the remarks from the fans are great.',
+        'Sean Berdy',
     ],
-    [
-        'Endurance is nobler than strength, and patience than beauty.',
-        'John Ruskin',
+    '86655706-7e6d-5ce3-be96-432eec7cc1a9' => [
+        'Achievers have an enabling attitude, realism, and a conviction that they themselves were the laboratory of innovation. Their ability to change themselves is central to their success. They have learned to conserve their energy by minimizing the time spent in regret or complaint. Every event is a lesson to them, every person a teacher.',
+        'Marilyn Ferguson',
     ],
-    [
-        'I would love to have some sort of \'Back To The Future\' Delorean time machine travel device so I could go back to 1981 to see that very first Jackson 5 concert I went to, back when I was a kid.',
-        'Questlove',
+    '68a6e044-cf50-5df2-a008-3a4886cc4c11' => [
+        'Maybe people don\'t see me as believable playing a person of today. I guess I\'m just more realistic in a corset and funny hairstyles.',
+        'Katie McGrath',
     ],
-    [
-        'A major league pitching coach is a really difficult job. It takes a big commitment in terms of time, travel and workload.',
-        'David Cone',
+    '13f76a49-15a8-5d43-ad57-a38335a3b329' => [
+        'As our case is new, we must think and act anew.',
+        'Abraham Lincoln',
     ],
-    [
-        'Leave the matter of religion to the family altar, the church, and the private school, supported entirely by private contributions. Keep the church and state forever separate.',
-        'Ulysses S. Grant',
+    'fd6425f6-b408-5733-ab23-365345b4111b' => [
+        'Freedom is not worth having if it does not connote freedom to err.',
+        'Mohandas Gandhi',
     ],
 ];

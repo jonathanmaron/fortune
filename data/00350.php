@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Everywhere I travel around my home state of Wyoming - but also around the country - I continue to hear, \'How can Washington make us buy something we don\'t want to buy, a product? They can\'t tell us to buy breakfast cereal or something else - how can they do that?\'',
-        'John Barrasso',
+    'ce111aa1-d78e-5c63-80a3-a53598fb4c29' => [
+        'Don\'t be afraid. There are exquisite things in store for you. This is merely the beginning.',
+        'Oscar Wilde',
     ],
-    [
-        'Blessed are those who can give without remembering and take without forgetting.',
-        'Unknown',
+    'dc496825-9ae4-5aab-b5ab-85a65a4588da' => [
+        'To realize the American dream, the most important thing to understand is that it belongs to everybody. It\'s a human dream. If you understand this and work very hard, it is possible.',
+        'Cristina Saralegui',
     ],
-    [
-        'Wealth is the ability to fully experience life.',
-        'Solomon Ortiz',
+    'aeeeba64-70df-579b-a377-f60991592755' => [
+        'When I was young, all I wanted to do was to compete, have fun and travel.',
+        'Mitch Gaylord',
     ],
-    [
-        'A fit body gives you confidence. And there\'s nothing more impressive than a great attitude, which you can wear on your sleeve. But you\'ll have to remember the difference between being rude and being confident.',
-        'Virat Kohli',
+    'bd11a1c4-510f-5ec9-b30f-413baeb8345a' => [
+        'I wanted to do my part to help preserve that golden age of travel... I step aboard The Patron Tequila Express railcar, and I go back in time to the days when a long journey was something fun and very special.',
+        'John Paul DeJoria',
     ],
-    [
-        'Young women from a very young age are taught that life will be easier if you can just turn on the charming smile and say very little and be complacent and docile and sweet.',
-        'Amber Heard',
+    '135ba6a0-289b-58a5-95cb-8a1fe94263f4' => [
+        '\'Green Garden\' is about beauty and joy and lush green and dance and excitement and smiling from within.',
+        'Laura Mvula',
     ],
-    [
-        'If we did all the things we are capable of, we would literally astound ourselves.',
-        'Thomas A. Edison',
+    'e60438d6-e73a-5316-ab7a-eb2993bcdbd3' => [
+        'I love to go to Washington - if only to be near my money.',
+        'Bob Hope',
     ],
-    [
-        'The beauty and riddle in studying the motives of any politician is in trying to decide what is idealism and what is self-interest, and often we are left to conclude that the answer is a mixture of the two.',
-        'Boris Johnson',
+    'f481d6d8-7986-567d-924e-557dc4923841' => [
+        'I think goals should never be easy, they should force you to work, even if they are uncomfortable at the time.',
+        'Michael Phelps',
     ],
-    [
-        'Every man who has shown the world the way to beauty, to true culture, has been a rebel, a \'universal\' without patriotism, without home, who has found his people everywhere.',
-        'Chaim Potok',
+    'e651705a-cf3a-5ba1-815c-2d071acbc59a' => [
+        'It was a wonderful experience to play in the NFL, and I have no regrets. I truly will miss playing for the Lions. I consider the Lions\' players, coaches, staff, management and fans my family. I leave on good terms with everyone in the organization.',
+        'Barry Sanders',
     ],
-    [
-        'An image of the Earth, its landscapes, directly affects people. The beauty of the Earth creates enormous emotion, and through that emotion, you can transmit knowledge and raise consciousness.',
-        'Yann Arthus-Bertrand',
+    '85d5160b-ede1-593e-848a-d39b4cef986a' => [
+        'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
+        'Albert Einstein',
     ],
-    [
-        'Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense everything that comes from love is a miracle.',
-        'Marianne Williamson',
+    '78822461-b473-5315-a797-276e0eb2ac45' => [
+        'Official education was telling people almost nothing of the nature of all those things on the seashores, and in the redwood forests, in the deserts and in the plains.',
+        'Gregory Bateson',
     ],
-    [
-        'I was born into a Christian family and brought up in a Lutheran church. My faith has been the center point of my life, really, since I was a child, but at 16 years of age, I fully surrendered my life over to Christ. At that point, as a teenager, I began to grasp the concept of Christ\'s true love and forgiveness.',
-        'Michele Bachmann',
+    '81003111-1d5a-52d7-86b2-895dbb992409' => [
+        'To be able to look back upon one\'s past life with satisfaction is to live twice.',
+        'Jake Gyllenhaal',
     ],
-    [
-        'People should pursue what they\'re passionate about. That will make them happier than pretty much anything else.',
-        'Elon Musk',
+    'e5c5426b-7408-582f-a561-d6e2dd02f8ac' => [
+        'In a time of domestic crisis, men of goodwill and generosity should be able to unite regardless of party or politics.',
+        'John F. Kennedy',
     ],
-    [
-        'No life\'s worth more than any other, no sister worth less than any brother.',
-        'Bruce Lee',
+    '3703d14b-656a-5366-845c-b851a536baba' => [
+        'There is no success without hardship.',
+        'Sophocles',
     ],
-    [
-        'All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.',
-        'Martin Luther King, Jr.',
+    'd1b5fd1f-e5fe-5825-b6b1-de0dd9b994ce' => [
+        'Willpower is the key to success. Successful people strive no matter what they feel by applying their will to overcome apathy, doubt or fear.',
+        'Dan Millman',
     ],
-    [
-        'There is only one thing for us to do, and that is to do our level best right where we are every day of our lives; To use our best judgment, and then to trust the rest to that Power which holds the forces of the universe in his hands.',
-        'Orison Swett Marden',
+    '6d74931a-9b77-5f52-8a3e-a55927789320' => [
+        'The view of Earth is spectacular.',
+        'Sally Ride',
     ],
-    [
-        'We smile at the ignorance of the savage who cuts down the tree in order to reach its fruit; but the same blunder is made by every person who is over eager and impatient in the pursuit of pleasure.',
-        'William Ellery Channing',
+    'f6a46044-0299-5231-9a87-9a6a6b3e04ff' => [
+        'I loved working on \'Happy Gilmore\' because I love to travel to new places and we got to go to British Columbia. Any Adam Sandler film is fun to work on because it is a reunion of the boys club of guys that have worked together in the past.',
+        'Kevin Nealon',
     ],
-    [
-        'My deepest impulses are optimistic, an attitude that seems to me as spiritually necessary and proper as it is intellectually suspect.',
-        'Ellen Willis',
+    '6b6f8d9b-1945-596a-b5f5-2080cc299979' => [
+        'The key to immortality is first living a life worth remembering.',
+        'Groucho Marx',
     ],
-    [
-        'I don\'t think homosexuality is a choice. Society forces you to think it\'s a choice, but in fact, it\'s in one\'s nature. The choice is whether one expresses one\'s nature truthfully or spends the rest of one\'s life lying about it.',
-        'Marlo Thomas',
+    'cb998290-df21-575c-a463-96c3361e2d37' => [
+        'I think my philosophy in music has been to accentuate the positive.',
+        'Mike Love',
     ],
-    [
-        'Shortly thereafter, some friends encouraged me to try out for the Miss South Carolina World beauty pageant. To my surprise, I won - and was sent to New York City to compete nationally.',
-        'Donna Rice',
+    '8347a12a-3d78-547e-b91b-80cf05490997' => [
+        'I go to nature to be soothed and healed, and to have my senses put in order.',
+        'John Burroughs',
     ],
-    [
-        'The possibility of a scientific treatment of history means a wider experience, a greater maturity of practical reason, and finally a fuller realization of certain basic ideas regarding the nature of life and time.',
-        'Muhammad Iqbal',
+    '611135fa-c3a8-5af9-973f-6edcff5efa32' => [
+        'My character in \'OK OK\' has a lot of attitude, and it is an interesting one.',
+        'Hansika Motwani',
     ],
-    [
-        'I can\'t really explain what it\'s like to be in love, but I feel like it\'s being comfortable. It\'s almost like having a best friend. It\'s a beautiful thing.',
-        'Ashton Irwin',
+    '5d5e322e-ba2a-5b13-8b68-e8d707f17f99' => [
+        'If someone you know makes a bad decision or uses bad judgment, it doesn\'t mean you have to allow that to alter your attitude. Why should you allow anyone else\'s bad decisions to send you into a tailspin of misery?',
+        'Joyce Meyer',
     ],
-    [
-        'I am easily satisfied with the very best.',
-        'Winston Churchill',
+    '788ddf32-4150-57fe-aefb-57cab4dc39ed' => [
+        'There are people in every time and every land who want to stop history in its tracks. They fear the future, mistrust the present, and invoke the security of a comfortable past which, in fact, never existed.',
+        'Robert Kennedy',
     ],
-    [
-        'You have to enjoy life. Always be surrounded by people that you like, people who have a nice conversation. There are so many positive things to think about.',
-        'Sophia Loren',
+    '416940af-6b73-5a2c-a933-d2d20a2ceb5e' => [
+        'I think my mother is my biggest influence. There are so many things I hate about her but at the same time I\'m thankful for her. All I know is that when I\'m a parent I want to be just like my mom. I can talk to my mom more than any of my friends could talk to their parents.',
+        'Nikki Reed',
     ],
-    [
-        'The best proof of love is trust.',
-        'Joyce Brothers',
+    '71f65a94-4da6-5a6a-b050-e2e01f2efa85' => [
+        'I\'m trying to broaden the scope of positive psychology well beyond the smiley face. Happiness is just one-fifth of what human beings choose to do.',
+        'Martin Seligman',
     ],
-    [
-        'To handle that stardom, the red carpets, the photo shoots, people all of a sudden recognizing you and following you in everyday life, it\'s a bit weird. It\'s strange, and it can have funny effects on you in terms of do you like it or don\'t you like it. Some people run away from it, some people embrace it; I found a good middle ground.',
-        'Roger Federer',
+    'c076d408-db9f-5139-b54a-54a94f3cb484' => [
+        'Technology is a useful servant but a dangerous master.',
+        'Christian Lous Lange',
     ],
 ];

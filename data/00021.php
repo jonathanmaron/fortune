@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.',
-        'Dale Carnegie',
+    '675c91d1-362c-5c6b-a5eb-89c4e236eb92' => [
+        'Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity.',
+        'Leonardo da Vinci',
     ],
-    [
-        'In both business and personal life, I\'ve always found that travel inspires me more than anything else I do. Evidence of the languages, cultures, scenery, food, and design sensibilities that I discover all over the world can be found in every piece of my jewelry.',
-        'Ivanka Trump',
+    'c776c170-f95c-569d-8147-f335e3affaa1' => [
+        'I find it sad that by not talking about who I sleep with, that makes me mysterious. There was a time when I would have been called a gentleman.',
+        'Kevin Spacey',
     ],
-    [
-        'Be thankful we\'re not getting all the government we\'re paying for.',
-        'Will Rogers',
+    '9979e834-4f69-52c1-9d12-496a7d3ef837' => [
+        'Fine words and an insinuating appearance are seldom associated with true virtue',
+        'Confucius',
     ],
-    [
-        'Yes I have made a lot of money and I have a lot of respect, my films have done well, and I know there are loads of loads of people who look up to me and really love me. I really just thought this is like a strange dream. I have never thought this is a success - I don\'t have a standard.',
-        'Shah Rukh Khan',
+    '35bfc6e3-4c9e-52ca-a9b4-1298555686b9' => [
+        'This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.',
+        'Thomas Carlyle',
     ],
-    [
-        'Your soul is infinitely creative. It is alive and expansive in nature. It is curious and playful, changing with the tides of time.',
-        'Debbie Ford',
+    'a0b33000-adaf-5f4a-ac24-2a40014af755' => [
+        'I have great respect for the men and women that have fought for this country. I have family, I have friends that have gone and fought for this country. And they fight for freedom, they fight for the people, they fight for liberty and justice, for everyone.',
+        'Colin Kaepernick',
     ],
-    [
-        'Life is short and if you\'re looking for extension, you had best do well. \'Cause there\'s good deeds and then there\'s good intentions. They are as far apart as Heaven and Hell.',
-        'Ben Harper',
+    'b41be0a1-17eb-5eb4-ae6c-8fa8318de8d3' => [
+        'Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.',
+        'Marcus Aurelius',
     ],
-    [
-        'Even with, or perhaps, because of, this background, I have over the past few years sensed a very dramatic change in attitude on the part of Prince Edward Islanders towards the on-going rush for so-called modernization.',
-        'Alex Campbell',
+    'ab0c36a3-fc74-578b-b56a-e96524f10eec' => [
+        'I was entirely natural and in many ways I have the same attitude now. I don\'t mourn the loss of my youth because I believe you should enjoy what you have while you have it.',
+        'Koo Stark',
     ],
-    [
-        'I\'ve been so blessed to be part of a family that has dedicated its life to public service.',
-        'Jeb Bush',
+    '50819838-07ae-5c6c-b871-2b36617955ad' => [
+        'The characteristic political attitude of today is not one of positive belief, but of despair.',
+        'Herbert Read',
     ],
-    [
-        'I trained as a writer before I became a lawyer. I was headed for a life as an English professor, but that just wasn\'t me. I\'m not a scholar; I didn\'t have a scholar\'s attitude toward literature.',
-        'Scott Turow',
+    '1efdfc25-dc99-5b7f-b374-f330e8d395b0' => [
+        'The pilgrim is humble and devout, and human, and charitable, and ready to smile and admire; therefore, he should comprehend the whole of his way, the people in it, and the hills and the clouds, and the habits of the various cities.',
+        'Hilaire Belloc',
     ],
-    [
-        'I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... such emotions make a man forget food, sleep, friends, love, everything.',
-        'Nikola Tesla',
+    '0ab14f06-b315-54ea-82ab-dfee785ccfac' => [
+        'How nice it would be to breeze through life and just brush things off. I never read reviews because I hate to lose more than I like to win; I experience negative emotions far greater than positive ones.',
+        'Catherine Tate',
     ],
-    [
-        'If you walk down the street and smile at someone, that will get passed on to the next person. That has the power to change someone\'s day.',
-        'Julianna Margulies',
+    '824cb12d-0786-5336-af22-01f6241ea046' => [
+        'What I always think about when I think about \'Girls\' is Lena being in a scene where she\'s very vulnerable, possibly directing, acting, and she\'s probably written the dialogue. It\'s 2 in the morning. Everyone\'s tired. Everyone\'s grumpy. And she has a smile on her face and kindness for everyone who interacts with her.',
+        'Jennifer Konner',
     ],
-    [
-        'I come from a place where everything about me, even my body language, is saying: I mean you no harm. I smile, I laugh. Basic stuff for most people.',
-        'Oscar Isaac',
+    '74e40420-4ab7-55be-909d-7f7c7cf29efa' => [
+        'Everybody should be able to enjoy their life, because you only live once. So I just want to get it all out there and be the best role model that I can be, if people want to put me in that kind of predicament. I mean, I didn\'t ask to be a role model, because I\'m not perfect.',
+        'ASAP Rocky',
     ],
-    [
-        'Let him who expects one class of society to prosper in the highest degree, while the other is in distress, try whether one side; of the face can smile while the other is pinched.',
-        'Thomas Fuller',
+    'e1c6122d-c266-5ddf-a8ae-23baea4a1dd8' => [
+        'I\'m not going to get somewhere and say, \'OK, I\'m done.\' Success is never final; I\'ll just keep on going. The same way as failure never being fatal. Just keep going. I\'m going to the stars and then past them.',
+        'Conor McGregor',
     ],
-    [
-        'Saudi Arabia has stability. The social contract and the political contract between the king and the rulers and the royal family and the ruled people in Saudi Arabia is very strong and the bondage is so solid.',
-        'Al-Waleed bin Talal',
+    '7640786a-d4fc-5691-9786-dc1745b2d64e' => [
+        'The best thing about being a DJ is making people happy. There is nothing like seeing people get up from a table to dance or the expression on their face when they hear a song they love. I also love to educate people on music they have never heard.',
+        'Chelsea Leyland',
     ],
-    [
-        'You know, it\'s funny... when you\'re making money, people don\'t think you\'re playing jazz. Now when you\'re not making money, people think that you\'re a good jazz musician.',
-        'Pete Fountain',
+    '66cc3a5a-135d-5e2d-942a-d8fc8f56290e' => [
+        'I didn\'t know how to show my self love, and I didn\'t want anyone else to hurt me. So my tough girl attitude was like, \'I\'m not having it.\'',
+        'Mary J. Blige',
     ],
-    [
-        'It\'s so funny whenever things come full circle.',
-        'Swoosie Kurtz',
+    'd763f61b-030a-593a-8503-0cff43f56120' => [
+        'Do right. Do your best. Treat others as you want to be treated.',
+        'Lou Holtz',
     ],
-    [
-        'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
-        'Jeffrey Gitomer',
+    '18d38bca-967c-5a15-adb7-69b78e8ba8b6' => [
+        'To give anything less than your best, is to sacrifice the gift.',
+        'Steve Prefontaine',
     ],
-    [
-        'Laugh and the world laughs with you, snore and you sleep alone.',
-        'Anthony Burgess',
+    '26c1c44d-cdad-5a80-9f2a-6f8cfb028b9b' => [
+        'Reading - the best state yet to keep absolute loneliness at bay.',
+        'William Styron',
     ],
-    [
-        'Family always gonna be there. The material things, they come and go.',
-        'Romeo Miller',
+    '7bac751b-adce-5952-88d0-8153daafe038' => [
+        'The significance of the cherry blossom tree in Japanese culture goes back hundreds of years. In their country, the cherry blossom represents the fragility and the beauty of life. It\'s a reminder that life is almost overwhelmingly beautiful but that it is also tragically short.',
+        'Homaro Cantu',
     ],
-    [
-        'The patient decides when it\'s best to go.',
-        'Jack Kevorkian',
+    '2e6caa50-e7ff-5a09-85cc-7b999bcd4ea0' => [
+        'Desire is the key to motivation, but it\'s determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
+        'Mario Andretti',
     ],
-    [
-        'Success doesn\'t happen in a vacuum. You\'re only as good as the people you work with and the people you work for.',
-        'Casey Kasem',
+    '30f0e7a6-3acc-5b5e-af9f-3146f6ef6f3f' => [
+        'Don\'t let life discourage you; everyone who got where he is had to begin where he was.',
+        'Spencer Johnson',
     ],
-    [
-        'In all chaos there is a cosmos, in all disorder a secret order.',
-        'Carl Jung',
+    'ca2c4d26-036c-5462-8dbd-4c80448e3488' => [
+        'I follow the most random people on Twitter. I follow famous people like Khloe Kardashian, who surprisingly makes really funny tweets all the time.',
+        'Chloe Grace Moretz',
     ],
-    [
-        'If you cannot work on the marriage or the women is a moron, staying married and cheating makes the most sense because divorce is disruptive to the family life and your bank account.',
-        'Al Goldstein',
+    '0d37364c-a6db-5e0b-aef1-5fb735517a24' => [
+        'Life well spent is long.',
+        'Voltaire',
     ],
-    [
-        'Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.',
-        'Jean-Paul Sartre',
+    'd658cba4-6ab3-5003-bf34-c3529fb04a34' => [
+        'Step by step and the thing is done.',
+        'Charles Atlas',
     ],
-    [
-        'If you want to build a ship, don\'t drum up people to collect wood and don\'t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.',
-        'Antoine de Saint-Exupery',
+    '7bd2281d-6fcb-5c8d-a55c-01c83217e462' => [
+        'We must let go of the life we have planned, so as to accept the one that is waiting for us.',
+        'Joseph Campbell',
     ],
 ];

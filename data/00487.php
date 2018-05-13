@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'All you have in comedy, in general, is just going with your instincts. You can only hope that other people think that what you think is funny is funny. I don\'t have an answer but I just try to plough straight ahead.',
-        'Will Ferrell',
+    '7971b507-2b0b-5b97-964a-6f0a517c7802' => [
+        'For a Catholic kid in parochial school, the only way to survive the beatings - by classmates, not the nuns - was to be the funny guy.',
+        'George A. Romero',
     ],
-    [
-        'As long as your going to be thinking anyway, think big.',
-        'Donald Trump',
+    '00f4d45d-ce2c-5c31-b301-16507a3df827' => [
+        'We know the seductive alchemy of art. To transform private anguish into a narrative of truth, if not beauty; to make sense where there was none; to bring order out of chaos - these are the promises art makes.',
+        'Kathryn Harrison',
     ],
-    [
-        'Men have looked upon the desert as barren land, the free holding of whoever chose; but in fact each hill and valley in it had a man who was its acknowledged owner and would quickly assert the right of his family or clan to it, against aggression.',
-        'T. E. Lawrence',
+    '905aa92e-81ae-56a1-9ae3-c0eea4a10022' => [
+        'Of life\'s two chief prizes, beauty and truth, I found the first in a loving heart and the second in a laborer\'s hand.',
+        'Khalil Gibran',
     ],
-    [
-        'Being able to travel and see the world really makes me appreciate the blessings in my life. There are so many people that will never get a chance to see some of the things that I\'ve seen during my travels. I\'ll never take that for granted.',
-        'Laz Alonso',
+    '6c9aae49-7f01-55dd-9491-867ba9034eac' => [
+        'A woman can slip on a pair of embellished cage heels one night and a pair of streamlined, lightweight sneakers the next day. The beauty of modern luxury is the absence of rules.',
+        'Giuseppe Zanotti',
     ],
-    [
-        'I represent poor people, I represent working people. I represent senior citizens. I represent family businesses. I represent people who don\'t have the wherewithal to hire overpriced Washington lobbyists and lawyers. I want to send the powers back to the states and the people.',
-        'Paul Broun',
+    '5c14757e-9a90-5c4a-9400-0f6f5dae3223' => [
+        'To know oneself is to study oneself in action with another person.',
+        'Bruce Lee',
     ],
-    [
-        'I have found no greater satisfaction than achieving success through honest dealing and strict adherence to the view that, for you to gain, those you deal with should gain as well.',
-        'Alan Greenspan',
+    '9eec22ca-ec84-5c79-bbae-b0491fe5f736' => [
+        'Time goes, you say? Ah, no! alas, time stays, we go.',
+        'Henry Austin Dobson',
     ],
-    [
+    'c7f1a1eb-ad0c-571e-820b-5863a09588ec' => [
+        'We forget that this music, music made by my brothers and sisters, is still a baby. It\'s just beginning. When I think of the possibilities, it makes me smile.',
+        'Barry White',
+    ],
+    'a4fae131-ef3a-5c1d-ab45-1a89fba55e9f' => [
+        'Always turn a negative situation into a positive situation.',
+        'Michael Jordan',
+    ],
+    '9a4e9999-93e5-5276-ab8b-f925e9b52b28' => [
+        'There is nothing so useless as doing efficiently that which should not be done at all.',
+        'Peter Drucker',
+    ],
+    '917b942d-c92e-5b38-9869-4a562795b9f8' => [
         'It is time to effect a revolution in female manners - time to restore to them their lost dignity. It is time to separate unchangeable morals from local manners.',
         'Mary Wollstonecraft',
     ],
-    [
-        'When I\'m home, I spend Sunday with my husband. If we\'re not cooking, we travel around in our camper, stop at fast-food restaurants, and picnic. We love that stuff that will harden your arteries in a hurry.',
-        'Dolly Parton',
+    'a3c0742e-bb1a-528d-a3b6-02194ba9ef4f' => [
+        'Life is tough but so are you.',
+        'Anonymous',
     ],
-    [
-        'A people without a positive history is like a vehicle without an engine.',
-        'Steven Biko',
+    '99b91c68-f78a-54b5-a0ba-ab9d2da33a1c' => [
+        'It\'s a wonderful time when you sit down around the table for dinner and discuss life. No matter where you are, it gives the semblance of normalcy to my crazy world.',
+        'Melina Kanakaredes',
     ],
-    [
-        'I was raised by a single mother who made a way for me. She used to scrub floors as a domestic worker, put a cleaning rag in her pocketbook and ride the subways in Brooklyn so I would have food on the table. But she taught me as I walked her to the subway that life is about not where you start, but where you\'re going. That\'s family values.',
-        'Al Sharpton',
+    'a573bf81-0b12-5c75-93b4-e1fc44499fec' => [
+        'Borrow trouble for yourself, if that\'s your nature, but don\'t lend it to your neighbours.',
+        'Rudyard Kipling',
     ],
-    [
-        'Nothing is work unless you\'d rather be doing something else.',
-        'George Halas',
+    '226ab5e8-b4e1-5cf4-9f7c-33035d903bd0' => [
+        'I never smile unless I mean it.',
+        'Donny Osmond',
     ],
-    [
-        'As happy a man as any in the world, for the whole world seems to smile upon me!',
-        'Samuel Pepys',
+    'a8675562-a91d-5f9e-a755-f3d634c2d20d' => [
+        'I have the curse of thinking funny!',
+        'Adam West',
     ],
-    [
-        'As a child my family\'s menu consisted of two choices: take it or leave it.',
-        'Buddy Hackett',
+    '64ec6b62-c824-5690-962f-08936393d4cf' => [
+        'My attitude is never to be satisfied, never enough, never.',
+        'Duke Ellington',
     ],
-    [
-        'Life is very short and what we have to do must be done in the now.',
-        'Tim O\'Brien',
+    '94364b59-102e-522f-8666-738760ce8d72' => [
+        'The most formidable weapon against errors of every kind is reason.',
+        'Thomas Paine',
     ],
-    [
-        'We find delight in the beauty and happiness of children that makes the heart too big for the body.',
-        'Ralph Waldo Emerson',
+    '3a9f1a60-d3af-557c-9973-0c75e23063f9' => [
+        'In America, our differences matter, but our country matters more. That\'s the attitude I wanted to take to the Senate.',
+        'Cory Booker',
     ],
-    [
-        'What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.',
-        'Saint Augustine',
+    '1df68fe8-7c46-52d9-8ff0-52d19b596609' => [
+        'We don\'t need bigger cars or fancier clothes. We need self-respect, identity, community, love, variety, beauty, challenge and a purpose in living that is greater than material accumulation.',
+        'Donella Meadows',
     ],
-    [
-        'In truth, I am a single mother. But I don\'t feel alone at all in parenting my daughter. Krishna has a whole other side of her family who loves her, too. And so Krishna is parented by me, but also by her grandmother and aunts and cousins and uncles and friends.',
-        'Padma Lakshmi',
+    '336712d4-2dae-5061-92e5-10124926dc84' => [
+        'Life is what happens while you are busy making other plans.',
+        'Menachem Begin',
     ],
-    [
-        'Without health life is not life; it is only a state of langour and suffering - an image of death.',
-        'Kenneth Branagh',
+    '4d5fc344-1f86-5924-aa54-eb21442fc07c' => [
+        'My jet lag is getting a bit ridiculous. But, you know, it\'s first-world problems. It\'s a wonderful problem, \'Oh I have to travel around the world; how awful.\'',
+        'Margot Robbie',
     ],
-    [
-        'All know the way; few actually walk it.',
-        'Bodhidharma',
+    '57196d5f-921d-5083-8c91-2b496bc8e980' => [
+        'Sibling rivalry was, and still is to this day, rampant in my family. We were all competing for my parents\' divided attention.',
+        'Janine di Giovanni',
     ],
-    [
-        'I travel, I read, I write, I have other lives. But when I have a camera, I know that\'s my country, my island.',
-        'Leos Carax',
+    '0fb2b92a-5bf2-50e8-870f-c5cb4b66ed5a' => [
+        'I love the long grass coming up to meet the willows.',
+        'Jilly Cooper',
     ],
-    [
-        'Leap, and the net will appear.',
-        'John Burroughs',
+    'c56d9e99-e831-5735-9294-268d9c2c70e9' => [
+        'The season of failure is the best time for sowing the seeds of success.',
+        'Paramahansa Yogananda',
     ],
-    [
-        'Men judge us by the success of our efforts. God looks at the efforts themselves.',
-        'Charlotte Bronte',
-    ],
-    [
-        'I can tell you for sure: people who are at their peak right now will not sustain that. You can\'t. It\'s against the law of nature.',
-        'Bryan Cranston',
-    ],
-    [
-        'What is a scientist after all? It is a curious man looking through a keyhole, the keyhole of nature, trying to know what\'s going on.',
-        'Jacques Yves Cousteau',
-    ],
-    [
-        'If you don\'t build your dream someone will hire you to help build theirs.',
-        'Tony A. Gaskins Jr.',
+    '19ebb89b-43fa-5b91-82e9-e820c1f82196' => [
+        'Tell me how a person judges his or her self-esteem, and I will tell you how that person operates at work, in love, in sex, in parenting, in every important aspect of existence - and how high he or she is likely to rise. The reputation you have with yourself - your self-esteem - is the single most important factor for a fulfilling life.',
+        'Nathaniel Branden',
     ],
 ];

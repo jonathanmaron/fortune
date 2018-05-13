@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The real secret of success is enthusiasm.',
-        'Walter Chrysler',
+    '34060fae-341a-5572-aae2-369d4dd59392' => [
+        'The only thing you have to have is patience and an attitude that you aren\'t ever going to give up.',
+        'Shawn Michaels',
     ],
-    [
-        'I\'m not going to get somewhere and say, \'OK, I\'m done.\' Success is never final; I\'ll just keep on going. The same way as failure never being fatal. Just keep going. I\'m going to the stars and then past them.',
-        'Conor McGregor',
+    '6715c7de-b310-5305-9369-1cf63e0fadfa' => [
+        'Laughter and joy are part of the beauty of life.',
+        'Diogo Morgado',
     ],
-    [
-        'Hollywood\'s a very weird place. I think there\'s less of everything except for attitude.',
-        'Dean Cain',
+    'e3f0cf15-ea08-52fd-a55e-5a8d86606e42' => [
+        'The will to succeed is important, but what\'s more important is the will to prepare.',
+        'Bobby Knight',
     ],
-    [
-        'The person who makes a success of living is the one who sees his goal steadily and aims for it unswervingly.',
-        'Cecil B. DeMille',
+    '767ca5c9-a627-5e34-b4f9-c3a653fa0cb7' => [
+        'For me, the most interesting people are ones who often work against their best interests. Bad choices. They go in directions where you go, \'No no no nooo!\' You push away someone who is trying to love you, you hurt someone who\'s trying to get your trust, or you love someone you shouldn\'t.',
+        'Paul Haggis',
     ],
-    [
-        'People naturally want to know about what happened, about my leukemia. They ask the same questions again and again. And there have been so many positive conclusions, even through the bad times, that I don\'t mind at all to be reminded of my struggles.',
-        'Jose Carreras',
+    'c8b2b18e-b2ba-5c10-8484-1a0a94945699' => [
+        'Mother Nature is the great equalizer. You can\'t get away from it.',
+        'Christopher Heyerdahl',
     ],
-    [
-        'Always think of what is useful and not what is beautiful. Beauty will come of its own accord.',
-        'Nikolai Gogol',
+    '446f0dba-ea33-5330-bd31-be503ae64070' => [
+        'He who controls others may be powerful, but he who has mastered himself is mightier still.',
+        'Lao Tzu',
     ],
-    [
-        'I\'ve learned that to survive, you need a positive state of mind.',
-        'Thalia',
+    '47d767db-d068-5d51-b203-39a21195cc64' => [
+        'Success comes when people act together; failure tends to happen alone.',
+        'Deepak Chopra',
     ],
-    [
-        'The supreme quality for leadership is unquestionably integrity. Without it, no real success is possible, no matter whether it is on a section gang, a football field, in an army, or in an office.',
-        'Dwight D. Eisenhower',
+    '73cf0543-41f3-5cbc-88ba-27dbb9b5b6d6' => [
+        'Have regular hours for work and play; make each day both useful and pleasant, and prove that you understand the worth of time by employing it well. Then youth will be delightful, old age will bring few regrets, and life will become a beautiful success.',
+        'Louisa May Alcott',
     ],
-    [
-        'I spent two years in the Army. And my older brother, who was also a great positive influence on me, encouraged me to think about law school, and I said - well, I didn\'t have any money.',
-        'George J. Mitchell',
+    '649327f8-7930-5df7-9898-95e81281e4da' => [
+        '\'Get along, go along\' is not an inspirational philosophy, and only God knows how much moral cowardice it has covered up over the years. Serve your time, collect your chits, and cash \'em in for your home state? No, I\'d say we could ask for more than that from our senators.',
+        'Molly Ivins',
     ],
-    [
-        'Certain thoughts are prayers. There are moments when, whatever be the attitude of the body, the soul is on its knees.',
-        'Victor Hugo',
+    '82616b09-7d11-5beb-8752-98c54bd001ed' => [
+        'Like all best families, we have our share of eccentricities, of impetuous and wayward youngsters and of family disagreements.',
+        'Queen Elizabeth II',
     ],
-    [
-        'There is a saying that every nice piece of work needs the right person in the right place at the right time.',
-        'Benoit Mandelbrot',
+    '72d61a10-2e6e-51ad-b93a-d1fa31c39b26' => [
+        'I get my best ideas in a thunderstorm. I have the power and majesty of nature on my side.',
+        'Ralph Steadman',
     ],
-    [
-        'Caring - about people, about things, about life - is an act of maturity.',
-        'Adlai E. Stevenson',
+    '4891dce5-8b5e-55de-8c29-5a5dd7588dfe' => [
+        'Art is about expressing the true nature of the human spirit in whatever way one wishes to express it. If it is honest, it is beautiful. If it is not honest, it is obvious.',
+        'Corin Nemec',
     ],
-    [
-        'Whatever your life\'s work is, do it well. A man should do his job so well that the living, the dead, and the unborn could do it no better.',
-        'Martin Luther King, Jr.',
+    '9763b8f9-a00f-50cf-9a04-71c0ecfb0ea0' => [
+        'My uncle Sammy was an angry man. He had printed on his tombstone: What are you looking at?',
+        'Margaret Smith',
     ],
-    [
-        'The will to work of everyone in the country is the best guarantee of national survival.',
-        'Bhumibol Adulyadej',
+    '7dcc92d7-2b30-5901-bc0d-bfc63a59d903' => [
+        'There is a kind of beauty in imperfection.',
+        'Conrad Hall',
     ],
-    [
-        'Teamwork makes the dream work, but a vision becomes a nightmare when the leader has a big dream and a bad team.',
-        'John C. Maxwell',
+    '41606c7f-f94c-5a32-b137-b180f73304bb' => [
+        'Happiness is the natural flower of duty.',
+        'Phillips Brooks',
     ],
-    [
-        'I\'m fascinated with the stories that we tell. Real histories become fantasies and fairy tales, morality tales and fables. There\'s something interesting and funny and perverse about the way fairytale sometimes passes for history, for truth.',
-        'Kara Walker',
+    'c60c8fe5-0e9c-5b84-84e4-6f8408fe5fa6' => [
+        'I\'m actually pretty shy in real life. But I guess in front of the camera, I focus.',
+        'Steve Jobs',
     ],
-    [
-        'I wanted to travel from the beginning. As a kid, I used to dream about airplanes, before I ever flew in one.',
-        'Mary Ellen Mark',
+    'f10168c1-ccee-5fd1-b7e5-ee70171c2aba' => [
+        'Trees are the earth\'s endless effort to speak to the listening heaven.',
+        'Rabindranath Tagore',
     ],
-    [
-        'Achievement of your happiness is the only moral purpose of your life, and that happiness, not pain or mindless self-indulgence, is the proof of your moral integrity, since it is the proof and the result of your loyalty to the achievement of your values.',
-        'Jennifer Aniston',
+    '1e51fa79-c6b8-51d6-8587-d0e3b0816f02' => [
+        'Babies control and bring up their families as much as they are controlled by them; in fact the family brings up baby by being brought up by him.',
+        'Erik Erikson',
     ],
-    [
-        'Think about what people are doing on Facebook today. They\'re keeping up with their friends and family, but they\'re also building an image and identity for themselves, which in a sense is their brand. They\'re connecting with the audience that they want to connect to. It\'s almost a disadvantage if you\'re not on it now.',
-        'Mark Zuckerberg',
+    'a0810db6-6d41-560b-be82-896e9dbddddd' => [
+        'Just find what works for you, what style suits you best, and just be confident enough to rock it.',
+        'Odell Beckham, Jr.',
     ],
-    [
-        'Today is your own. Tomorrow perchance may never come.',
-        'Helen Keller',
+    '0412546b-1b46-542f-8af5-11cdc3a84a0e' => [
+        'Time spent with cats is never wasted.',
+        'Sigmund Freud',
     ],
-    [
-        'Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.',
-        'Bruce Lee',
+    'c7c9a040-e180-5d04-8448-6eb3abe1bcc6' => [
+        'I\'m convinced that there\'s a new way to define capitalism, and that the definition should include three ingredients - that we love our work, that we are building a traditionally successful business, and that we are having some positive impact in the world, whether it\'s local or global.',
+        'Biz Stone',
     ],
-    [
-        'Accept challenges, so that you may feel the exhilaration of victory.',
-        'George Patton',
+    'c3554ec9-893a-59de-bc7e-f91f73bbcf43' => [
+        'The art of effective listening is essential to clear communication, and clear communication is necessary to management success.',
+        'James Cash Penney',
     ],
-    [
-        'Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties.',
-        'Helen Keller',
+    '79e06b50-c9e0-50e6-a6f2-4b5f650b68b7' => [
+        'I do kabbalistic meditation. It\'s not unlike time travel; it can change the past and not just the future. You can look at what was lost and go beyond the grief of what was lost.',
+        'Roseanne Barr',
     ],
-    [
-        'Many persons swear by positive thinking, and quite a few have been helped by it. Nevertheless, it is not a very effective tool and can be downright harmful in some cases.',
-        'Srikumar Rao',
+    'b5fe6ebb-c006-5f58-a0e3-07a71b305474' => [
+        'In Reykjavik, Iceland, where I was born, you are in the middle of nature surrounded by mountains and ocean. But you are still in a capital in Europe. So I have never understood why I have to choose between nature or urban.',
+        'Bjork',
     ],
-    [
-        'If you work hard and you do your best, you can do anything.',
-        'Erin Heatherton',
+    'ee5e1705-f2a7-5c27-aed5-68020d1d48af' => [
+        'Most great people have attained their greatest success just one step beyond their greatest failure.',
+        'Napoleon Hill',
     ],
 ];

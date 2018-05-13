@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'That man is a success who has lived well, laughed often and loved much.',
-        'Robert Louis Stevenson',
+    '578f938f-db27-5a8b-8cd7-48c247848821' => [
+        'Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.',
+        'Norman Cousins',
     ],
-    [
-        'Beauty of whatever kind, in its supreme development, invariably excites the sensitive soul to tears.',
-        'Edgar Allan Poe',
+    'f8bd0b61-0c5b-5447-a608-b8f523357706' => [
+        'Mistakes are almost always of a sacred nature. Never try to correct them. On the contrary: rationalize them, understand them thoroughly. After that, it will be possible for you to sublimate them.',
+        'Salvador Dali',
     ],
-    [
-        'The single most important factor in our long-term happiness is the relationships we have with our family and close friends.',
-        'Clayton M. Christensen',
+    '7eb2c828-05ba-51a0-a0fb-2eff6bcc9daa' => [
+        'One of the very best reasons for having children is to be reminded of the incomparable joys of a snow day.',
+        'Susan Orlean',
     ],
-    [
-        'The truth is that relative income is not directly related to happiness. Nonpartisan social-survey data clearly show that the big driver of happiness is earned success: a person\'s belief that he has created value in his life or the life of others.',
-        'Arthur C. Brooks',
+    '55403a42-c7d0-5f7b-9777-4577f03ae9e6' => [
+        'Mercedes does beautiful work, absolutely.',
+        'Sebastian Thrun',
     ],
-    [
-        'Motivation will almost always beat mere talent.',
-        'Norman Ralph Augustine',
+    'cb3533fe-3873-5d30-86a0-380e091d8f4a' => [
+        'Photographers usually want to photograph facts and things. But I\'m interested in the nature of the thing itself. A photograph of someone sleeping tells me nothing about their dream state; a photograph of a corpse tells me nothing about the nature of death. My work is about my life as an event, and I find myself to be very temporal, transient.',
+        'Duane Michals',
     ],
-    [
-        'Feeling and longing are the motive forces behind all human endeavor and human creations.',
-        'Albert Einstein',
+    '12dbef3c-591b-58fb-87d2-b7a8b52dc6d9' => [
+        'The war changed everybody\'s attitude. We became international almost overnight.',
+        'W. Averell Harriman',
     ],
-    [
-        'Rather than wishing for change, you first must be prepared to change.',
-        'Catherine Pulsifer',
+    'c308c808-bb43-5c80-a332-2e7d3d56a097' => [
+        'I always believe in pants. You can play with your legs, your attitude, with pants. It\'s much more funny. It\'s much more sophisticated. It\'s much more arrogant, like a man with feminine attitude. I love pants.',
+        'Sonia Rykiel',
     ],
-    [
-        'It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt',
-        'Mark Twain',
+    'aa892c3b-81ef-5141-a4b4-93e7dd234dec' => [
+        'It\'s cool to have critical success because it\'s always nice for your peers to say, \'Good job.\' But who cares about them?',
+        'Zac Hanson',
     ],
-    [
-        'Tension is who you think you should be. Relaxation is who you are.',
-        'Chinese proverb',
+    '1bcc5cb5-9aed-504f-9111-2375ac744d44' => [
+        'When you retire, it\'s a place in life, a part of the journey. You just don\'t quit work; you develop an attitude where you can do what you please.',
+        'Tom T. Hall',
     ],
-    [
-        'Action will remove the doubts that theory cannot solve.',
-        'Tehyi Hsieh',
+    'd1394e53-4e9a-545c-b033-3e5d76e45d4f' => [
+        'The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty.',
+        'Zig Ziglar',
     ],
-    [
-        'When I started out, everyone seemed to be adopting these names... Johnny Rotten, Sid Vicious. I wasn\'t really Rotten or Vicious or Nasty, so I wanted something a bit more funny - yet something that seemed real rock \'n\' roll... something that acknowledged my ambition.',
-        'Billy Idol',
+    '3e4c1849-8683-5945-bbb1-5fd838c14dfc' => [
+        'There is beauty when something works and it works intuitively.',
+        'Jonathan Ive',
     ],
-    [
-        'Being nerdy just means being passionate about something, including everyone - the coolest people on Earth are passionate and therefore nerdy about something whatever it is, whether it\'s sports, or gaming, or technology, or fashion, or beauty, or food, or whatever.',
-        'Zachary Levi',
+    '189444be-fe3e-51fb-a18c-9e20887a6be2' => [
+        'The handicap of deafness is not in the ear; it is in the mind.',
+        'Marlee Matlin',
     ],
-    [
-        'The day always looks brighter from behind a smile.',
-        'Unknown',
+    'b3f87819-f079-5262-8ca3-b2d36fa07abd' => [
+        'All men\'s gains are the fruit of venturing.',
+        'Herodotus',
     ],
-    [
-        'I don\'t hear a lot about elected officials that are men talking about whether they smile a lot. My dad was in elected office my entire life. I don\'t remember many smiles, and nobody commented about it. He was serious about his job, and so am I.',
-        'Stephanie Rawlings-Blake',
+    'f2f47dfd-551a-5d21-9543-c54eee381962' => [
+        'Also, after people play these Sim games, it tends to change their perception of the world around them, so they see their city, house or family in a slightly different way after playing.',
+        'Will Wright',
     ],
-    [
-        'We are all here on earth to help others; what on earth the others are here for I don\'t know.',
-        'W. H. Auden',
+    '5ed48dbb-2083-5fee-902f-b31e2565ad32' => [
+        'Each moment is perfect and heaven-sent, in that each moment holds the seeds for growth.',
+        'Suzan-Lori Parks',
     ],
-    [
-        'The violets in the mountains have broken the rocks.',
-        'Tennessee Williams',
+    '50bd8355-710e-5ed0-93dc-9a18cc05c628' => [
+        'I\'m taking all the negatives in my life, and turning them into a positive.',
+        'Pitbull',
     ],
-    [
-        'Love is not blind; it simply enables one to see things others fail to see.',
-        'Unknown',
-    ],
-    [
-        'Life is a game and true love is a trophy.',
-        'Marie Curie',
-    ],
-    [
-        'All my big mistakes are when I try to second-guess or please an audience. My work is always stronger when I get very selfish about it.',
-        'David Bowie',
-    ],
-    [
-        'The secret of life is honesty and fair dealing. If you can fake that, you\'ve got it made.',
-        'Marcus Tullius Cicero',
-    ],
-    [
-        'I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.',
-        'Buddha',
-    ],
-    [
-        'Personally, I\'ve learned about perseverance: when you hear the word \'No,\' and when you hear rejection, that it\'s not always final. And that timing is everything, and you have to stay the course and just keep working hard and know that, when your time comes, that it will be sweet and that it will be the perfect time.',
-        'Angela Robinson',
-    ],
-    [
-        'Nature works with five polymers. Only five polymers. In the natural world, life builds from the bottom up, and it builds in resilience and multiple uses.',
-        'Janine Benyus',
-    ],
-    [
-        'Silence is a source of great strength.',
+    '0f3a895e-819b-5405-9a1c-883a6a0ea2ec' => [
+        'Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.',
         'Lao Tzu',
     ],
-    [
-        'I\'m the kind of person who likes to hang out and observe what\'s going on in the streets, or in certain places. I used to do that a lot. But having to become an international superstar, I can\'t do that comfortably! But it\'s all positive, you know.',
-        'Jimmy Cliff',
+    '51eb9aca-ac19-5410-8f86-d3c042d0124b' => [
+        'The privilege I\'ve had as a curator is not just the discovery of new works... but what I\'ve discovered about myself and what I can offer in the space of an exhibition - to talk about beauty, to talk about power, to talk about ourselves, and to talk and speak to each other.',
+        'Thelma Golden',
+    ],
+    '1d8e483e-1138-5fd9-8748-1ad3d7db675c' => [
+        'It\'s so funny whenever things come full circle.',
+        'Swoosie Kurtz',
+    ],
+    '0f11f874-8178-5e01-abbd-c57449d80536' => [
+        'I don\'t like people who have never fallen or stumbled. Their virtue is lifeless and it isn\'t of much value. Life hasn\'t revealed its beauty to them.',
+        'Boris Pasternak',
+    ],
+    '7b515017-e7c8-5df3-8637-9a48d902b0c6' => [
+        'My one regret in life is that I am not someone else.',
+        'Woody Allen',
+    ],
+    'fde565a5-37b7-50a1-bea2-71102c72c117' => [
+        'Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man\'s life is independent. He is born not for the development of the society alone, but for the development of his self.',
+        'Lenny Kravitz',
+    ],
+    '26f7994c-8ba6-5acc-9a58-e5e0d687b001' => [
+        'Our attitude is that we want to cross over. You can\'t go on making records just for your own hometown.',
+        'Cheryl James',
+    ],
+    '5e4b76ee-5899-531d-9098-0c9df54f8631' => [
+        'If you don\'t have anything nice to say, don\'t say it at all. And if you do have to say it, make it really funny so I can screenshot it and save it for later.',
+        'Sabrina Carpenter',
+    ],
+    'b7004f0e-addd-592c-b930-57cef9e93731' => [
+        'The corruption of the best things gives rise to the worst.',
+        'David Hume',
     ],
 ];

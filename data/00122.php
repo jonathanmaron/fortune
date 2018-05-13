@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
-        'Jimmy Reid',
+    '7f583ebf-9dde-5862-9af0-ea795e9f8f00' => [
+        'I have the best roommates in the world! It creates a fun sense of family... and that\'s really important to me. Things can get so lonely without it.',
+        'Kristen Bell',
     ],
-    [
-        'The Book of Mormon is our handbook of instructions as we travel the pathway from bad to good to better and strive to have our hearts changed.',
-        'David A. Bednar',
+    '6037ed07-4e9d-5992-a8dd-7bed4646848a' => [
+        'Take a course in good water and air; and in the eternal youth of Nature you may renew your own. Go quietly, alone; no harm will befall you.',
+        'John Muir',
     ],
-    [
-        'I think success shows a person\'s true colors.',
-        'Freddie Prinze, Jr.',
+    'aa417969-d6e4-51f3-8802-6f462648e980' => [
+        'Do not worry about avoiding temptation. As you grow older it will avoid you.',
+        'Joey Adams',
     ],
-    [
-        'At a certain point I\'m going to want to have a family.',
-        'Gwen Stefani',
+    'b7cd9e3c-f729-5b60-9b45-6fafda1d9711' => [
+        'A great secret of success is to go through life as a man who never gets used up.',
+        'Albert Schweitzer',
     ],
-    [
-        'Our ability to achieve happiness and success depends on the strength of our wings.',
-        'Catherine Pulsifer',
+    'c4b48a2b-b163-53ee-8217-2a47f8afdb56' => [
+        'What people don\'t understand is joining a gang ain\'t bad, it\'s cool, it\'s fine. When you in the hood, joining a gang it\'s cool because all your friends are in the gang, all your family\'s in the gang. We\'re not just killing people every night, we\'re just hanging out, having a good time.',
+        'Snoop Dogg',
     ],
-    [
-        'Doing stunt work is risky, but it\'s something I enjoy.',
-        'Verne Troyer',
+    '1a9ec812-ccce-5467-8794-ae93af516dec' => [
+        'Excellence encourages one about life generally; it shows the spiritual wealth of the world.',
+        'George Eliot',
     ],
-    [
-        'The problem with beauty is that it\'s like being born rich and getting poorer.',
-        'Joan Collins',
+    '35b70534-ca55-52a0-80ed-8191d3bcb22c' => [
+        'I grew up skateboarding; it was fun. I didn\'t think about money, I didn\'t know how much professional skateboarders made. I just knew that if I became a professional skateboarder, I would achieve a lot and get to travel and do these great things.',
+        'Jason Lee',
     ],
-    [
-        'Your chances of success are directly proportional to the degree of pleasure you desire from what you do. If you are in a job you hate, face the fact squarely and get out.',
-        'Michael Korda',
+    '63271f00-9291-56ff-b690-365ce2a3d476' => [
+        'Nature never did betray the heart that loved her.',
+        'William Wordsworth',
     ],
-    [
-        'Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.',
-        'Tina Brown',
+    '8a3860ea-094c-56e6-b06d-1a451585a2e6' => [
+        'Even with all our technology and the inventions that make modern life so much easier than it once was, it takes just one big natural disaster to wipe all that away and remind us that, here on Earth, we\'re still at the mercy of nature.',
+        'Neil deGrasse Tyson',
     ],
-    [
-        'If you want your life to be more rewarding, you have to change the way you think.',
-        'Oprah Winfrey',
+    '2f319064-39ef-5084-88c0-2d21b0558faf' => [
+        'I like doing what I do, but I like having the opportunity to do different things, and obviously comedy would be a fun jump. I\'ve just been lucky enough to stay working. In my case, playing intense roles or playing character roles is something that people will hire me for, but yeah, I\'d like somebody to think I\'m funny. I guess we all do, right?',
+        'Jason Wiles',
     ],
-    [
-        'To design the future effectively, you must first let go of your past.',
-        'Charles J. Givens',
+    'a5b4a651-ac00-5a49-9cd3-3775fde83c38' => [
+        'To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.',
+        'Plutarch',
     ],
-    [
-        'To live is to change, and to be perfect is to have changed often.',
-        'Colin Kaepernick',
+    'd79862d8-ba03-5973-8ea3-67872168c815' => [
+        'Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.',
+        'Walter Pater',
     ],
-    [
-        'The family is the test of freedom; because the family is the only thing that the free man makes for himself and by himself.',
-        'Gilbert K. Chesterton',
+    'e853673c-59c2-507a-9724-b8292a69eb9b' => [
+        'An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.',
+        'Thomas Fuller',
     ],
-    [
-        'Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
-        'Swami Vivekananda',
+    'fc177eb7-b02e-5cce-b6a7-df2f50c650f3' => [
+        'Success usually comes to those who are too busy to be looking for it.',
+        'Henry David Thoreau',
     ],
-    [
-        'Loyalty to the family must be merged into loyalty to the community, loyalty to the community into loyalty to the nation, and loyalty to the nation into loyalty to mankind. The citizen of the future must be a citizen of the world.',
-        'Thomas Cochrane',
+    '69bcbef0-ee24-5650-9607-35a2606b5daf' => [
+        'I hope to make a positive, productive contribution, as cheesy as that may sound.',
+        'Chelsea Clinton',
     ],
-    [
-        'Dreams can become a reality when we possess a vision that is characterized by the willingness to work hard, a desire for excellence, and a belief in our right and our responsiblity to be equal members of society.',
-        'Janet Jackson',
+    'c4875ba8-3f74-5bd8-af8d-6a8b264d9bc5' => [
+        'Blue thou art, intensely blue; Flower, whence came thy dazzling hue?',
+        'James Montgomery',
     ],
-    [
-        'The crest and crowning of all good, Life\'s final star, is brotherhood.',
-        'Kenneth H. Cooper',
+    'd10330f9-716e-558e-b456-04fc81f11ede' => [
+        'Life is not measured by the breaths we take, but by the moments that take our breath.',
+        'Unknown',
     ],
-    [
-        'For most Americans, Friday afternoons are filled with positive anticipation of the weekend. In Washington, it\'s where government officials dump stories they want to bury. Good news gets dropped on Monday so bureaucrats can talk about it all week.',
-        'John Sununu',
+    'a9f7cd2f-bb22-5b2f-8f56-1ccd851f6b64' => [
+        'A woman\'s mind is cleaner than a man\'s: She changes it more often.',
+        'Oliver Herford',
     ],
-    [
-        'It was one of those perfect English autumnal days which occur more frequently in memory than in life.',
-        'P. D. James',
+    'dd0e8d75-b538-5722-9d43-5513cdbc975b' => [
+        'The \'Billionaire\' song is what my kids tease me with. They sing it to me. It\'s funny.',
+        'Bill Gates',
     ],
-    [
-        'Going home and spending time with your family and your real friends keeps you grounded.',
-        'Jennifer Ellison',
+    'd1bb594c-4cc0-5fbd-b42f-24e752319079' => [
+        'The Patriot Act is essential to our continued success in the war on terror here at home.',
+        'Mike Pence',
     ],
-    [
-        'When my wife and I met, I couldn\'t talk to her - and my defense mechanism is sarcasm. I belittle someone with verbal pokes and prods. I did it to her out of complete awe. When friends introduced us, I said \'Hi\' - and turned my back. Later, I called my mom and best friend and said, \'I think I just met my wife.\'',
-        'Mike Vogel',
+    '60178f34-3a88-5aa8-b5d3-cde26b6d407c' => [
+        'I played the violin my whole life. I wanted to play from the time I was just a little kid, and I\'ve always loved dance as well. I wanted to make people smile. I wanted to add an extra energy to my playing and make it visual and make it unique and fun.',
+        'Lindsey Stirling',
     ],
-    [
-        'The real end winner of NAFTA is going to be Mexico because we have the human capital. We have that resource that is vital to the success of the U.S. economy.',
-        'Vicente Fox',
+    '5a5aea35-6d1c-53bc-97ef-f7ea0d0e9738' => [
+        'I would like to make a building as intellectually driven as it is sculptural and as positive as it would be acceptable to hope.',
+        'Frank Gehry',
     ],
-    [
-        'When you believe something can be done, really believe, your mind will find ways to do it.',
-        'Dr. David Schwartz',
+    '5ea7bf3b-e1aa-532e-b16f-8b099d08376d' => [
+        'When I go to the clinic next and sit with a tube in my arm and watch the poison go in, I\'m in an attitude of abject passivity. It doesn\'t feel like fighting at all; it just feels like submitting.',
+        'Christopher Hitchens',
     ],
-    [
-        'But Jesus changes your attitude towards yourself and towards other people.',
-        'Cliff Richard',
+    '6978e384-a725-5818-a9b9-d3d8d8c0092c' => [
+        'Japan, not only a mega-busy city that thrives on electronics and efficiency, actually has an almost sacred appreciation of nature. One must travel outside of Tokyo to truly experience the \'old Japan\' and more importantly feel these aspects of Japanese culture.',
+        'Apolo Ohno',
     ],
-    [
-        'I\'m quite a particular singer, and I need to feel like I can bite into the song, in a way, to make it my own. You want the challenge of the songs having some attitude.',
-        'Neneh Cherry',
+    '3cbf2520-1c34-5f85-9e9a-3c4705aa2840' => [
+        'As no one knew much about my mental illness, a lot of people had the attitude that I had the capability to \'kick it\' and get better instantly. This was the most frustrating attitude for me.',
+        'Andy Behrman',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Modern art, in particular, seems especially vulnerable to fraud. Its abstractions are sometimes difficult to understand or grasp, and a modern painting is often loved less because of its intrinsic quality - its beauty, as conventionally understood - than because of the identity of the painter, its mark of social status.',
-        'Peter Landesman',
+    'fd04a1bf-f489-5bd2-bb37-b3d3cccd8781' => [
+        'Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn\'t will be priceless.',
+        'Kevin Ngo',
     ],
-    [
-        'If we don\'t hope, if we don\'t stay positive - at least about love, or finding love - then the rest of life becomes really just painful to think about, because for the most part, you know, day-to-day stuff is monotonous.',
-        'Nev Schulman',
+    '12d33073-50fb-5f34-a476-76567cbee8de' => [
+        'We are time\'s subjects, and time bids be gone.',
+        'William Shakespeare',
     ],
-    [
-        'Culture is the intersection of people and life itself. It\'s how we deal with life, love, death, birth, disappointment... all of that is expressed in culture.',
-        'Sai Baba',
+    '86b8086b-5406-5eee-a7cf-683cfc328f1e' => [
+        'The demons you have are what motivate you to make your art. This is what drives the detective, this is what drives the painter, this is what drives the writer: a conflicting urge to forget pain and at the same time remember it and fight for some kind of justice. I know these powerful things are inside of me and everyone in some way or another.',
+        'Tom Reiss',
     ],
-    [
-        'What I believe unites the people of this nation, regardless of race or region or party, young or old, rich or poor, is the simple, profound belief in opportunity for all - the notion that if you work hard and take responsibility, you can get ahead.',
-        'Barack Obama',
+    'e3fba0ad-6d7a-5177-a4a4-bd8405014ea4' => [
+        'I look back on my life like a good day\'s work, it was done and I am satisfied with it.',
+        'Taylor Swift',
     ],
-    [
-        'In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they\'re still beautiful.',
-        'Alice Walker',
+    'acacf13d-ab6c-58d4-8160-56f0d3840e7b' => [
+        'I didn\'t understand key signatures or anything, you know. I\'d say silly things at the top of a trumpet part like, \'Note, when you play B naturals, make the B naturals a half step lower because they sound funny if they\'re B naturals.\' And some guy said: \'Idiot, just put a flat on the third line and it\'s a key signature, you know?\'',
+        'Quincy Jones',
     ],
-    [
-        'Each of us should think of the future. Every puff on a cigarette is another tick closer to a time bomb of terrible consequences. Christopher Hitchens didn\'t care about the consequences of smoking cigarettes. Tragically, he died of throat cancer in December 2011.',
-        'Ray Comfort',
+    '3e45f58a-0cf8-599c-b4bc-efa25f533886' => [
+        'My second husband believed I had such a fickle attitude to friendship that each Friday he would update the list of my \'Top Ten\' friends in the manner of a Top Of The Pops chart countdown.',
+        'Julie Burchill',
     ],
-    [
-        'I mean, the first \'Back to the Future\' is kind of a perfect script, I think, in terms of handling time travel the best. It depends on your definition. To me, that means it effectively uses it in the story.',
-        'Rian Johnson',
+    'd28f6ecd-1d05-531b-bf74-db7e09eacffb' => [
+        'I\'m not anti-fashion, but I\'ve always had a bit of a punk attitude. That\'s important, I think. I do my own thing.',
+        'Sade Adu',
     ],
-    [
-        'We are here to add what we can to life, not to get what we can from life.',
-        'Franklin D. Roosevelt',
+    'cd8bc832-b514-595b-81bf-3119504a4d19' => [
+        'Some people know that they are so adorable looking, all they have to do is smile and dress up and they get plenty from that. Then there are some of us who, early on, see that that doesn\'t work. So we joke about it.',
+        'Merrill Markoe',
     ],
-    [
-        'Growing up, I was a huge fan of horror movies. There\'s nothing more fun than going into a movie with a smile because you know you\'re going to be scared to death. There\'s something thrilling about sitting there waiting for a scare to happen.',
-        'Ashley Bell',
+    'fc489ff3-4d92-517a-ad45-a5eceaa138a6' => [
+        'I usually stalk fans because I think they\'re really funny on Twitter. They don\'t know it, but I\'ll just go through their timelines, and if something is happening in the media, I always read fan accounts instead of the news because they have all the info and make the funniest jokes about it, so that\'s how I get my gossip - by stalking fans.',
+        'Gigi Hadid',
     ],
-    [
-        'Contracts are not a holy relic in football. You can like this attitude or not, but it\'s the truth. Sometimes you have to think about if it is meaningful to try out a new impulse.',
-        'Robert Lewandowski',
+    '2e85f125-5d3f-5439-8cb2-59bbd07a517e' => [
+        'There is a miracle in your mess, don\'t let the mess make you miss the miracle.',
+        'Patience Johnson',
     ],
-    [
-        'Because of their size, parents may be difficult to discipline properly.',
-        'P. J. O\'Rourke',
+    'fe56742b-9dc8-5662-9994-6cac22d6c2dd' => [
+        'I was always anti-marriage. I didn\'t understand monogamy. I couldn\'t figure out how that could last. And then I met Bryn and I started to understand the beauty of constancy and history and change and going on the roller coaster with someone - of having a partner in life.',
+        'Maria Bello',
     ],
-    [
-        'We must all obey the great law of change. It is the most powerful law of nature.',
-        'Edmund Burke',
+    '27ed872b-ed25-529e-acdb-6d9c7bf9908c' => [
+        'I tried without much success to learn a little of the humanities and the arts, but even passing the courses in art history and music history was a challenge.',
+        'John C. Mather',
     ],
-    [
-        'The ladder of success in Hollywood is usually a press agent, actor, director, producer, leading man; and you are a star if you sleep with each of them in that order. Crude, but true.',
-        'Hedy Lamarr',
+    '12e4511d-c307-5fd9-8168-dbbd03621a45' => [
+        'I tried out various experiments described in treatises on physics and chemistry, and the results were sometimes unexpected. At times, I would be encouraged by a little unhoped-for success; at others, I would be in the deepest despair because of accidents and failures resulting from my inexperience.',
+        'Marie Curie',
     ],
-    [
-        'I don\'t like being choreographed to a T. I like to take steps and make them my own.',
-        'John Cameron Mitchell',
+    'fd9531d6-52aa-5797-aee5-df88ebbe149f' => [
+        'I\'ve covered a lot of ground geographically and emotionally and for years I lost my connection with my family. But the best comfort you can have, whether you are on the phone or sitting there in the living room with them, is with your parents, and to me family has always meant protection. When you smile you get a smile back, unconditionally.',
+        'Brigitte Nielsen',
     ],
-    [
-        'I\'ve always tried to work hard. I\'m not trying to show anybody up or do something spectacular for attention.',
-        'Roy Halladay',
+    '4a2a3904-b3bb-5e01-a9ff-60665d6b329c' => [
+        'I don\'t think there\'s any dearth of talent in India - we\'ve always had the best juniors in the world.',
+        'Mahesh Bhupathi',
     ],
-    [
-        'You can be discouraged by failure, or you can learn from it. So go ahead and make mistakes, make all you can. Because, remember that\'s where you\'ll find success - on the far side of failure.',
-        'Thomas J. Watson',
+    '8714a672-5ca9-5a37-b34b-9b9c01474d29' => [
+        'I just think Valentine\'s Day is a day to really appreciate the person you love, no matter who it is, and to spend time with them. I don\'t think it\'s all about fancy presents or whatever. I think it\'s about spending that quality time with that special person.',
+        'Prince Royce',
     ],
-    [
-        'The harder you work... and visualize something, the luckier you get.',
-        'Seal',
+    '17c9cd16-4519-56a2-ba05-41d6387c0458' => [
+        'I went to the Performing Arts School and studied classical ballet. That attitude is something that\'s put into your head. You are never thin enough.',
+        'Carmen Electra',
     ],
-    [
-        'You live in the image you have of the world. Every one of us lives in a different world, with different space and different time.',
-        'Alejandro Jodorowsky',
+    '6be014c1-92aa-5899-8144-2b179953745d' => [
+        'Regardless of what one\'s attitude towards prohibition may be, temperance is something against which, at a time of war, no reasonable protest can be made.',
+        'William Lyon Mackenzie King',
     ],
-    [
-        'It is not enough to have a good mind; the main thing is to use it well.',
-        'Rene Descartes',
+    '200ddd4f-6b3c-5ac5-a4b4-62f4f5371937' => [
+        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
+        'Jean-Michel Jarre',
     ],
-    [
-        'I don\'t like to leave anything unfinished on my desk before I travel.',
-        'Vijay Mallya',
+    '22ff8bbd-1c11-5e91-836f-5c088ee2a9d8' => [
+        'The journey of a thousand miles begins with one step.',
+        'Lao Tzu',
     ],
-    [
-        'On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.',
-        'Edward Young',
+    'cb946960-075c-591b-8c93-a767a497aeb2' => [
+        'Stubborn and ardent clinging to one\'s opinion is the best proof of stupidity.',
+        'Michel de Montaigne',
     ],
-    [
-        'A good actor is someone who knows how to take the part and make it real and make it honest and be effective in it. If it\'s in a funny movie and, as long as they are cast in an appropriate way, humor will come from it.',
-        'Ivan Reitman',
+    '345a9d52-0c5c-59a2-aa4e-57d4520eb800' => [
+        'Playing is just about feeling. Playing isn\'t necessarily about misery. Playing isn\'t necessarily about happiness. But it\'s just about letting yourself feel all those things that you have already on the inside of you, but you\'re all the time trying to push them aside because they don\'t make for polite conversation or something.',
+        'Janis Joplin',
     ],
-    [
-        'If it weren\'t for Philo T. Farnsworth, inventor of television, we\'d still be eating frozen radio dinners.',
-        'Johnny Carson',
+    '0298813f-8b8d-570b-93dd-2c736a61b2ba' => [
+        'Good teachers know how to bring out the best in students.',
+        'Charles Kuralt',
     ],
-    [
-        'The IRS! They\'re like the Mafia, they can take anything they want!',
-        'Jerry Seinfeld',
+    '29b32b58-2ff2-5cdf-8f4b-f99c0b7ecae2' => [
+        'It is easy to make promises - it is hard work to keep them.',
+        'Boris Johnson',
     ],
-    [
-        'Greed is a basic part of animal nature. Being against it is like being against breathing or eating. It means nothing.',
-        'Ben Stein',
+    'cafe31b4-7cae-50e8-bb92-2bcc04df3cc4' => [
+        'One\'s philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.',
+        'Eleanor Roosevelt',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I kind of resent this attitude of men that we somehow must always look good.',
-        'Sharon Gless',
+    '93c5cac7-86f6-58c1-84c9-fdf042b44ec3' => [
+        'It was the best of times, it was the worst of times.',
+        'Charles Dickens',
     ],
-    [
-        'Defy your own group. Rebel against yourself.',
-        'Cathy Guisewite',
+    '9a998362-0409-5f19-9b29-1744e63b5c31' => [
+        'Success is doing ordinary things extraordinarily well.',
+        'Jim Rohn',
     ],
-    [
-        'If you travel to the States... they have a lot of different words than like what we use. For instance: they say \'elevator\', we say \'lift\'; they say \'drapes\', we say \'curtains\'; they say \'president\', we say \'seriously deranged git.\'',
-        'Alexei Sayle',
+    'f08c29af-cef3-518e-980b-67e2999f9f6e' => [
+        'In regard to music, I just think that it\'s always best to have an attitude of being a perpetual student and always look to learn something new about music, because there\'s always something new to learn.',
+        'David Sanborn',
     ],
-    [
-        'I was a vegetarian first. I had high blood pressure at 27, everybody in my family died of cancer, and I knew it was in the food, so I changed my diet.',
-        'John Salley',
+    '5d29c4d9-82c8-53de-ad4c-f76e89ccd230' => [
+        'I think the American Dream says that anything can happen if you work hard enough at it and are persistent, and have some ability. The sky is the limit to what you can build, and what can happen to you and your family.',
+        'Sanford I. Weill',
     ],
-    [
-        'A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.',
-        'Helen Rowland',
+    '563e79fc-5b3d-511e-948c-fc9f7801d3eb' => [
+        'The NBA Schedule was made up by one man, Eddie Gottlieb, who had owned the Philadelphia Warriors. Eddie had a Buddha-like body and a crinkly smile, and because he had also been an owner in baseball\'s old Negro leagues, he was known as the Mogul.',
+        'Frank Deford',
     ],
-    [
-        'One travels to run away from routine, that dreadful routine that kills all imagination and all our capacity for enthusiasm.',
-        'Ella Maillart',
+    '5decae44-58a9-5a87-b53f-4a81d2e3bca2' => [
+        'We live in a culture that\'s been hijacked by the management consultant ethos. We want everything boiled down to a Power Point slide. We want metrics and \'show me the numbers.\' That runs counter to the immensely complex nature of so many social, economic and political problems. You cannot devise an algorithm to fix them.',
+        'Carl Honore',
     ],
-    [
-        'I\'m attracted to soccer\'s capacity for beauty. When well played, the game is a dance with a ball.',
-        'Eduardo Galeano',
+    '80244a0b-62bd-5ff4-afd7-77d32002537a' => [
+        'We were astonished by the beauty and refinement of the art displayed by the objects surpassing all we could have imagined - the impression was overwhelming.',
+        'Howard Carter',
     ],
-    [
-        'I am very proud of my mom and consider her the most courageous woman I know. With perseverance, sacrifice and hard work, she raised a family of Olympic athletes and gave us the tools and the spirit to succeed. That is something that my brothers and I will always be thankful for.',
-        'Diana Lopez',
+    '86b9fc65-b620-5c2c-8ca9-081d4700a8ce' => [
+        'Life\'s challenges are not supposed to paralyse you, they\'re supposed to help you discover who you are.',
+        'Bernice Reagon',
     ],
-    [
-        'Success is the sum of details.',
-        'Harvey S. Firestone',
+    '5cb93dd9-154b-5e63-918b-7df4bc6ca8e6' => [
+        'I think stutterers are funny. And I know it\'s rude and politically incorrect to laugh at stutterers. But I think it is okay because I know why they\'re funny. They make people nervous. People think, when on earth are they going to get the word out, so they start laughing out of their own nervousness.',
+        'James Earl Jones',
     ],
-    [
-        'I\'m not ugly, but my beauty is a total creation.',
-        'Georg Wilhelm Friedrich Hegel',
+    'c6c4a157-7b2b-5602-ac62-323bef298d6d' => [
+        'Creating a better world requires teamwork, partnerships, and collaboration, as we need an entire army of companies to work together to build a better world within the next few decades. This means corporations must embrace the benefits of cooperating with one another.',
+        'Simon Mainwaring',
     ],
-    [
-        'I\'ve always believed that as actors, one of the biggest advantages of being in the film business - not just of being actors, but being in this industry - is the fact that you get to travel so much, and you get to see places that you probably would not if you went just as a tourist.',
-        'Deepika Padukone',
+    '294e4390-eb99-5773-a699-8a5284f41dbb' => [
+        'Thank you for life, and all the little ups and downs that make it worth living.',
+        'George C. Marshall',
     ],
-    [
-        'I lived at home and I cycled every morning to the railway station to travel by train to Johannesburg followed by a walk to the University, carrying sandwiches for my lunch and returning in the evening the same way.',
-        'Sydney Brenner',
+    '0afd1967-a81c-5737-83af-94cd6205b0fe' => [
+        'Modern science says: \'The sun is the past, the earth is the present, the moon is the future.\' From an incandescent mass we have originated, and into a frozen mass we shall turn. Merciless is the law of nature, and rapidly and irresistibly we are drawn to our doom.',
+        'Nikola Tesla',
     ],
-    [
-        'People like to be around those who give off positive energy.',
-        'Erin Heatherton',
+    'd02f6fb8-277e-5b02-b680-78c84579e264' => [
+        'Be what you are. This is the first step toward becoming better than you are.',
+        'Julius Charles Hare',
     ],
-    [
-        'People say I am the king of painful shoes. I don\'t want to create painful shoes, but it is not my job to create something comfortable. I try to make high heels as comfortable as they can be, but my priority is design, beauty and sexiness. I\'m not against them, but comfort is not my focus.',
-        'Christian Louboutin',
+    'd3d388ec-9de1-5d53-8b0e-9e9dc2bff88b' => [
+        'If you look hard at it, if you look hard at the bleeding heart attitude to always throw money at issues, throw money at problems, what you\'re in fact probably saying is you\'re exercising a prejudicism of low expectations.',
+        'Andrew Forrest',
     ],
-    [
-        'The wisest men follow their own direction.',
-        'Euripides',
+    'e267646d-e92e-58ef-bb03-3777ae0c0712' => [
+        'I\'ve always thought of acting as more of an exercise in empathy, which is not to be confused with sympathy. You\'re trying to get inside a certain emotional reality or motivational reality and try to figure out what that\'s about so you can represent it.',
+        'Edward Norton',
     ],
-    [
-        'A lot of us grow up and we grow out of the literal interpretation that we get when we\'re children, but we bear the scars all our life. Whether they\'re scars of beauty or scars of ugliness, it\'s pretty much in the eye of the beholder.',
-        'Stephen King',
+    '305221bf-2402-5b5d-bd5c-67de48b40968' => [
+        'Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.',
+        'Winston Churchill',
     ],
-    [
-        'The attitude of the Democrat Party is that wherever there are Republicans they are so bad, they are so discriminatory, they are so racist, they\'re so bigoted, they\'re just such reprobates that we can\'t afford to let them have any say whatsoever in what\'s happening.',
-        'Rush Limbaugh',
+    '5800995f-8a66-5a42-954a-ea15a767c72e' => [
+        'What has happened to the good old-fashioned travel agent? I want to go to a really posh travel agent and have them organise everything for me. I don\'t want to do things on the Internet.',
+        'Jenny Eclair',
     ],
-    [
-        'Im not in this world to live up to your expectations and you\'re not in this world to live up to mine.',
-        'Bruce Lee',
+    '1881b612-d41a-5459-b393-c27e64b85a26' => [
+        'The greatest pleasure of life is love.',
+        'Shailene Woodley',
     ],
-    [
-        'We live in a world of constant juxtaposition between joy that\'s possible and pain that\'s all too common. We hope for love and success and abundance, but we never quite forget that there is always lurking the possibility of disaster.',
-        'Marianne Williamson',
+    'fc3bfb35-1f11-5afd-8853-9894ee1235d7' => [
+        'Traveling is seeing; it is the implicit that we travel by.',
+        'Cynthia Ozick',
     ],
-    [
-        'You are beautiful because you let yourself feel, and that is a brave thing indeed.',
-        'Shinji Moon',
+    '5e79aac8-9f9d-513a-ade8-3d8db685ef3c' => [
+        'Good advice is always certain to be ignored, but that\'s no reason not to give it.',
+        'Agatha Christie',
     ],
-    [
-        'If war occurs, that positive adult contact in every shape is needed more than ever. It will be a matter of emotional life and death. There\'s not a handy one-minute way of talking to your kid about war.',
-        'Richard Louv',
+    'bb5acfae-2102-5ee2-8bf6-73ccb4a11f40' => [
+        'I have a Woody Allen Jewish attitude to life: that it\'s all going to be disastrous. That it hasn\'t all been that way is simply down to some random quirk of fate.',
+        'Antony Sher',
     ],
-    [
-        'I just think that people take me a little more seriously as a brunette. I don\'t know if that\'s just because of a societal preconceived notion that all blondes are stupid, but it\'s a different kind of attitude.',
-        'Kate Bosworth',
+    '9c723fdc-6a2e-5adc-accc-eaf6f908def9' => [
+        'Often, these downplay the power of cultural imperialism - in that sense, playing the game of US interests - by reassuring us that the global success of American mass culture is not as bad as all that.',
+        'Fredric Jameson',
     ],
-    [
-        'The meaning of things lies not in the things themselves, but in our attitude towards them.',
-        'Antoine de Saint-Exupery',
+    'a6224420-2d12-5a22-af80-e3e7cb99a54a' => [
+        'I support concrete and progressive immigration reform based on three primary criteria: family reunification, economic contributions, and humanitarian concerns.',
+        'Jeff Bingaman',
     ],
-    [
-        'I kept hiding my smile in pictures throughout middle school and most of high school until picture day came my senior year.',
-        'Uzo Aduba',
+    'f210faf2-623a-5864-b5c7-c555467ee7a1' => [
+        'The cure for boredom is curiosity. There is no cure for curiosity.',
+        'Ellen Parr',
     ],
-    [
-        'What troubles me is the Internet and the electronic technology revolution. Shyness is fueled in part by so many people spending huge amounts of time alone, isolated on e-mail, in chat rooms, which reduces their face-to-face contact with other people.',
-        'Philip Zimbardo',
+    'b3f8c82a-de02-59a1-b27c-a61668aa5ae5' => [
+        'The proud depend upon the world to tell them whether they have value or not. Their self-esteem is determined by where they are judged to be on the ladders of worldly success. They feel worthwhile as individuals if the numbers beneath them in achievement, talent, beauty, or intellect are large enough.',
+        'Ezra Taft Benson',
     ],
 ];

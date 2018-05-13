@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Life is a journey that must be traveled no matter how bad the roads and accommodations.',
-        'George S. Patton',
+    '7d6ca96d-95b1-5dfc-a579-cfb39edcfca7' => [
+        'It\'s a funny business. I kind of compare it to baseball. I\'m always looking for a home run.',
+        'Billy Mays',
     ],
-    [
-        'I consider my ability to arouse enthusiasm among men the greatest asset I possess. The way to develop the best that is in a man is by appreciation and encouragement.',
-        'Charles M. Schwab',
+    '91d5dc9a-6cc5-5bfc-a120-cdc9561d45e4' => [
+        'The \'good\' mother, with her fixed smile, her rigidity, her goody-goody outlook, her obsession with unnecessary hygiene, is in fact a fool. It is the \'bad\' mother, unafraid of a joke and a glass of wine, richly self-expressive, scornful of suburban values, who is, in reality, good.',
+        'Rachel Cusk',
     ],
-    [
-        'Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.',
-        'Anupam Kher',
+    '9dd6f8f9-9ca7-5a60-afc7-8d48cccc7c9e' => [
+        'We convince by our presence.',
+        'Walt Whitman',
     ],
-    [
-        'What does it mean to pre-board? Do you get on before you get on?',
-        'George Carlin',
+    'd0278813-7f62-5670-a76b-e392b997e754' => [
+        'Success isn\'t about the end result, it\'s about what you learn along the way.',
+        'Vera Wang',
     ],
-    [
-        'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.',
-        'Elayne Boosler',
+    'ef32f314-5585-5247-bc11-e5929e51f6dd' => [
+        'I love life because what more is there?',
+        'Albert Einstein',
     ],
-    [
-        'The greatest day in your life and mine is when we take total responsibility for our attitudes. That\'s the day we truly grow up.',
-        'Geoffrey Rush',
+    'cc1d116a-db64-5f64-9351-c96d3a51b389' => [
+        'Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories.',
+        'Hassanal Bolkiah',
     ],
-    [
-        'I don\'t see the desert as barren at all; I see it as full and ripe. It doesn\'t need to be flattered with rain. It certainly needs rain, but it does with what it has, and creates amazing beauty.',
-        'Joy Harjo',
+    '1458358e-dae7-5a9b-900a-19d9c71c4d74' => [
+        'A good attitude is really important. And a sense of optimism, someone who has ideas and isn\'t afraid to pitch them no matter what level she is. Someone who is proactive. Someone with efficiency and common sense. They don\'t always go hand-in-hand, common sense and, well, everything else.',
+        'Eva Chen',
     ],
-    [
-        'You can\'t play life like an untuned instrument and then ask why the music is unpleasent.',
-        'Shaan Ahmed',
+    '20c1a23a-795c-5f62-b5b2-1358f370a429' => [
+        'The best move you can make in negotiation is to think of an incentive the other person hasn\'t even thought of - and then meet it.',
+        'Eli Broad',
     ],
-    [
-        'Macho does not prove mucho.',
-        'Zsa Zsa Gabor',
+    '4f55f6a2-e22a-5a75-b11f-c57fbca0c4e6' => [
+        'You learn more about life from watching \'Big Brother\' than from reading a book.',
+        'Phillip Sweet',
     ],
-    [
-        'My father\'s music gives hope to people and also inspires them to break the bonds of injustice and to be positive in life. I\'ve seen that everywhere I go, especially in poor countries and poor neighborhoods.',
-        'Ziggy Marley',
+    '4077584b-faeb-5128-b9b1-dc602e9c8bb7' => [
+        'Beauty is everywhere a welcome guest.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'Most people treat the office manual the way they treat a software manual. They never look at it.',
-        'James Levine',
+    'bd576ede-9437-5443-a61d-7946ecd6e1e6' => [
+        'There are so many local nonprofits making a positive impact every day, and yet, oftentimes we don\'t hear enough about them or their needs.',
+        'Sylvia Mathews Burwell',
     ],
-    [
-        'Life is without meaning. You bring the meaning to it. The meaning of life is whatever you ascribe it to be. Being alive is the meaning.',
-        'Katrina Kaif',
+    '75f80f1b-19a7-5641-89cf-c409e0a6a89d' => [
+        'The dearest days in one\'s life are those that seem very far and very near at once.',
+        'Pope Francis',
     ],
-    [
-        'Just like gold, which has to weather very high temperatures to achieve the sheen and shine it finally gets, so also every person has to go through struggles in his life to achieve success.',
-        'Kailash Kher',
+    '66c13b3e-25ce-58fa-8078-b9410c484f24' => [
+        'Success doesn\'t mean that you are healthy, success doesn\'t mean that you\'re happy, success doesn\'t mean that you\'re rested. Success really doesn\'t mean that you look good, or feel good, or are good.',
+        'Victoria Principal',
     ],
-    [
-        'No matter how difficult and painful it may be, nothing sounds as good to the soul as the truth.',
-        'Martha Beck',
+    '952c795d-7715-5cf5-9709-1efa15619508' => [
+        'It\'s funny how the music industry is enraged about the Internet and the way things are copied without being paid for. But you know why people steal the music? Because they can\'t afford the music.',
+        'Tom Petty',
     ],
-    [
-        'I have a lot to say about fashion - not just about fashion, but beauty, art.',
-        'Carine Roitfeld',
+    '8148c67f-7d7e-5bf4-ad92-361458a16501' => [
+        'Every strike brings me closer to the next home run.',
+        'Babe Ruth',
     ],
-    [
-        'My label, my team and I are always looking to get involved with positive things.',
-        'Sevyn Streeter',
+    '5f550f0d-e53d-5a21-ad37-3f8c8bf47896' => [
+        'The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn\'t deliver the goods.',
+        'John Maynard Keynes',
     ],
-    [
-        'That the sea is one of the most beautiful and magnificent sights in Nature, all admit.',
-        'John Joly',
+    'c71df150-c72e-5377-a2f6-d66c03a90e50' => [
+        'There is a vitality, a life force, an energy, a quickening, that is translated through you into action, and because there is only one of you in all time, this expression is unique.',
+        'Martha Graham',
     ],
-    [
-        'My family is more important than my party.',
-        'Zell Miller',
+    '3716fa67-cd42-5007-8438-78f76f16c27d' => [
+        'When the mind is empty, silent, when it is in a state of complete negation - which is not blankness, nor the opposite of being positive, but a totally different state in which all thought has ceased - only then is it possible for that which is unnameable to come into being.',
+        'Jiddu Krishnamurti',
     ],
-    [
-        'In a person\'s career, well, if you\'re process-oriented and not totally outcome-oriented, then you\'re more likely to be success. I often say \'pursue excellence, ignore success.\' Success is a by-product of excellence.',
-        'Deepak Chopra',
+    '8ae7ed63-b976-5083-9600-001b8532a178' => [
+        'In the workplace, employees should be judged on their merit and hard work and not on aspects that are irrelevant to their performance.',
+        'Paul Singer',
     ],
-    [
-        'The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.',
-        'J. Robert Oppenheimer',
+    '7f4fb5f8-7348-5608-8cf1-e30035b1d5f9' => [
+        'What was past was past. I suppose that was the general attitude.',
+        'V. S. Naipaul',
     ],
-    [
-        'If my writing comes to a halt, I head to the shops: I find them very inspirational. And if I get into real trouble with my plot, I go out for a pizza with my husband.',
-        'Sophie Kinsella',
+    '49feb8f1-586e-5af2-9c75-95a64cc82aa5' => [
+        'We must realise that man\'s nature will remain the same so long as he remains man; that civilisation is but a slight coverlet beneath which the dominant beast sleeps lightly and ever ready to awake. To preserve civilisation, we must deal scientifically with the brute element, using only genuine biological principles.',
+        'H. P. Lovecraft',
     ],
-    [
-        'All these jokes have been pre-approved as funny by me.',
-        'Mitch Hedberg',
+    '2ef6d656-8b67-5a2c-a632-820b0cfb92a5' => [
+        'In a fit at the bookstore one day, I bought all my favourite composers\' biographies: Schubert, Massenet, Wolf. I\'ve still not had a chance to read them; it breaks my heart. But when you travel so much, you just can\'t take that many books with you.',
+        'Danielle de Niese',
     ],
-    [
-        'You just hope that you will get the opportunity to do what you love and pay your bills, and that is being a success as an actor.',
-        'Debra Messing',
+    '32024600-0750-5790-b9d8-4c14b5c945b9' => [
+        'Slavery is founded in the selfishness of man\'s nature - opposition to it is his love of justice. These principles are an eternal antagonism; and when brought into collision so fiercely, as slavery extension brings them, shocks and throes and convulsions must ceaselessly follow.',
+        'Abraham Lincoln',
     ],
-    [
-        'The simple act of paying positive attention to people has a great deal to do with productivity.',
-        'Tom Peters',
+    'cefcfe49-5d89-5153-8297-113603d0fd7c' => [
+        'You can lead a man to Congress, but you can\'t make him think.',
+        'Milton Berle',
     ],
-    [
-        'I gave a funny speech at my wife\'s birthday party, and I\'m thinking, \'Hey, I\'ve still got it.\'',
-        'Larry David',
+    'c64eabe6-9a16-5171-b2d4-7d493e286d72' => [
+        'You will always have ups and downs in your life and your career, but just stay positive and go for it.',
+        'Angelique Kerber',
     ],
 ];

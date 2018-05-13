@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Know how to listen, and you will profit even from those who talk badly.',
-        'Plutarch',
+    '1ebcf1a1-ba98-536d-9bd8-3fbeed60d9a4' => [
+        'In a completely rational society, the best of us would be teachers and the rest of us would have to settle for something else.',
+        'Lee Iacocca',
     ],
-    [
-        'Our best hope for the future is not to get people to think of all humanity as family - that\'s impossible. It lies, instead, in an appreciation of the fact that, even if we don\'t empathize with distant strangers, their lives have the same value as the lives of those we love.',
-        'Paul Bloom',
+    'cffedae6-45f9-5c05-8fe9-7b19e1da51ee' => [
+        'This was nostalgia in the literal Greek sense: the pain of not being able to return to one\'s home and family.',
+        'John Thorn',
     ],
-    [
-        'Whatever you define family as, family is just a part of belonging to something that takes care of you and nurtures you... and when you have lost that, and you want to get that back, it\'s pretty easy to get emotional about it.',
-        'Ellen DeGeneres',
+    '16ed8469-db3a-514d-82dd-1a51386934c2' => [
+        'As we grow old, the beauty steals inward.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'Truth isn\'t always beauty, but the hunger for it is.',
-        'Nadine Gordimer',
+    'd29d44b4-683f-5b29-b9a6-d9b1b07d4399' => [
+        'Whereas I used to get depressed or neurotic or dwell on things, I see my son\'s bright eyes and smile in the morning, and suddenly, I don\'t feel like I\'m depressed anymore. There\'s nothing to be depressed about when you\'ve got that.',
+        'Corey Feldman',
     ],
-    [
-        'Learn to listen. Opportunity could be knocking at your door very softly.',
-        'Frank Tyger',
+    '0d3d6549-3aae-52b6-a70c-a8683ae15d3a' => [
+        'The impediment to action advances action. What stands in the way becomes the way.',
+        'Marcus Aurelius',
     ],
-    [
-        'You got to be willing to walk in a storm. That\'s what I tell people all the time.',
-        'Ray Lewis',
+    '018bdc04-425f-52f2-a574-2e4ce29dd70c' => [
+        'You Are Never Too Old To Set Another Goal Or To Dream A New Dream.',
+        'C.S. Lewis',
     ],
-    [
-        'There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.',
-        'Elie Wiesel',
+    '9bb4258f-8519-5a6c-8623-3c7b5e770251' => [
+        'The travel writer seeks the world we have lost - the lost valleys of the imagination.',
+        'Alexander Cockburn',
     ],
-    [
-        'You can always enhance your natural beauty; you learn what works for your face because crazy make-up doesn\'t really suit anyone.',
-        'Caroline Winberg',
+    '52953d49-d731-5268-9652-2dc6d670df43' => [
+        'Everyone\'s dream can come true if you just stick to it and work hard.',
+        'Serena Williams',
     ],
-    [
-        'It\'s a funny thing that when a man hasn\'t anything on earth to worry about, he goes off and gets married.',
-        'Robert Frost',
+    '725574a6-717d-5d02-bcba-df2ab475ee04' => [
+        'Live your life as though your every act were to become a universal law.',
+        'Isabel Allende',
     ],
-    [
-        'It is not the language of painters but the language of nature which one should listen to, the feeling for the things themselves, for reality is more important than the feeling for pictures.',
-        'Vincent Van Gogh',
+    '66c23ee7-76e0-56d4-84e0-ae37bb2f635e' => [
+        'I do try to speak of positive things. I still try to, like, present two sides of the story, and I do try to relate to life in a 360 degree and not be one-dimensional. But by all means, manage expectations.',
+        'Q-Tip',
     ],
-    [
-        'All this misjudgment that we have of each other is based on ignorance. The second you get to travel, you see that human beings, no matter where they come from, they are the same.',
-        'Marjane Satrapi',
+    '9e452ca8-d93e-5695-b9da-6f81f90c0fe2' => [
+        'I had no blood relatives till I made some.',
+        'Carl Jung',
     ],
-    [
-        'I have always loved a hard-faced girl. I get that Alison Goldfrapp isn\'t easy, and I like her belligerence. She\'s deeply sexy and controlled, like a Strict Machine, and it seems to wind the b\'jesus out of the women I know. On the outside, I watch and smile and will her on like a twisted silent maiden aunt in the dark corner.',
-        'Alison Moyet',
+    '5294676b-3815-5c2c-aacb-02231da6229d' => [
+        'What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.',
+        'Saint Augustine',
     ],
-    [
-        'The deepest principle in human nature is the craving to be appreciated.',
-        'William James',
+    '2ce56b2b-871d-5d60-baf7-80c800a5f97a' => [
+        'My family didn\'t have money to travel, so reading was how I knew about the world. It made me hungry to have more experiences than just what I could possibly experience in Arkansas.',
+        'Mary Steenburgen',
     ],
-    [
-        'I went window shopping today! I bought four windows.',
-        'Tommy Cooper',
+    '05ccf4fd-93e7-5fe7-99f1-7e59d8d62768' => [
+        'As we grow as unique persons, we learn to respect the uniqueness of others.',
+        'Robert Schuller',
     ],
-    [
-        'I\'ve been lucky enough to travel widely. When you\'re based in Europe, it\'s very easy to go to Madrid or Budapest for the weekend. I also lived in Italy for ten years and now live in Ireland.',
-        'Laurie Graham',
+    '8b017d93-2629-5e56-bbf0-4a22808fb65e' => [
+        'There is a beauty and clarity that comes from simplicity that we sometimes do not appreciate in our thirst for intricate solutions.',
+        'Dieter F. Uchtdorf',
     ],
-    [
-        'Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art.',
-        'Andy Warhol',
+    '242a29f9-1116-56aa-8854-4a972eb341fc' => [
+        'Living life at a young age is like being a sponge thrust into the ocean. You absorb what\'s around you. If you\'re around people who are supportive and positive, that\'s how you look at the world.',
+        'Freddie Prinze, Jr.',
     ],
-    [
-        'I define nothing. Not beauty, not patriotism. I take each thing as it is, without prior rules about what it should be.',
+    'b3a2fefb-5f46-5786-b5f7-f8c349c9f1c5' => [
+        'Respect your parents. What they tell you is true. Hard work, dedication and faith will get you anything. Imagination will drive itself. You can get anything you want, but you have to have faith behind all your ideas. Stick to your goals and have an undying faith.',
+        'Russell Simmons',
+    ],
+    '8162644b-0cef-53b4-829e-ab7e325b0823' => [
+        'The land created me. I\'m wild and lonesome. Even as I travel the cities, I\'m more at home in the vacant lots.',
         'Bob Dylan',
     ],
-    [
-        'Three things cannot be long hidden: the sun, the moon, and the truth.',
-        'Buddha',
+    'e134ab79-b029-59f2-bfd7-a06e4d2face7' => [
+        'America believes in education: the average professor earns more money in a year than a professional athlete earns in a whole week.',
+        'Evan Esar',
     ],
-    [
-        'I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn\'t enough. I was exploding inside.',
-        'Ingrid Bergman',
+    '35bd1c52-24e0-51ae-9ecb-0f8b3ff9e632' => [
+        'I trained as a journalist in America where paying sources is frowned upon. Now I work in the U.K. where there is a more flexible attitude.',
+        'Heather Brooke',
     ],
-    [
-        'Holding on to anger, resentment and hurt only gives you tense muscles, a headache and a sore jaw from clenching your teeth. Forgiveness gives you back the laughter and the lightness in your life.',
-        'Anthony Hopkins',
+    'd15afeaa-0260-5a9c-829a-c09f2222d341' => [
+        'Electrical science has disclosed to us the more intimate relation existing between widely different forces and phenomena and has thus led us to a more complete comprehension of Nature and its many manifestations to our senses.',
+        'Nikola Tesla',
     ],
-    [
-        'I hated every minute of training, but I said, \'Don\'t quit. Suffer now and live the rest of your life as a champion.\'',
-        'Muhammad Ali',
+    '579d99d8-e6c0-5e4d-a459-49dfc4c09503' => [
+        'Transformation doesn\'t take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.',
+        'Byron Pulsifer',
     ],
-    [
-        'I could sooner reconcile all Europe than two women.',
-        'Louis XIV',
+    'dfe3df61-7608-50ce-abd8-b62709cc77cc' => [
+        'Me and my family are straight. I am blessed. I am alive, man, and I am healthy, and that is the only thing that matters. Me and my family, everybody else, it really doesn\'t matter because why do you care about somebody talking negative about you if they don\'t know you?',
+        'Allen Iverson',
     ],
-    [
-        'Getting an audience is hard. Sustaining an audience is hard. It demands a consistency of thought, of purpose, and of action over a long period of time.',
-        'Bruce Springsteen',
+    '93b00846-d184-5669-b4e5-c6c0a58f4bd7' => [
+        'In life, you have to take the pace that love goes. You don\'t force it. You just don\'t force love, you don\'t force falling in love, you don\'t force being in love - you just become. I don\'t know how to say that in English, but you just feel it.',
+        'William James',
     ],
-    [
-        'I have very positive memories of reading biographies of unusual Americans as a child.',
-        'Chris Van Allsburg',
-    ],
-    [
-        'I come to work with a smile and I leave with a laugh, and I\'m so grateful.',
-        'Robert Knepper',
+    '9fbc6b6e-1163-50f1-9358-16e885a4cf67' => [
+        'Check your ego at the door. The ego can be the great success inhibitor. It can kill opportunities, and it can kill success.',
+        'Dwayne Johnson',
     ],
 ];

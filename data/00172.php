@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Go put your creed into the deed. Nor speak with double tongue.',
-        'Ralph Emerson',
+    '51093819-ae9c-5223-b78b-70ed498c352b' => [
+        'Be patient, work hard and consistently, have faith in your writing, and don\'t be afraid to listen to constructive criticism.',
+        'Jonathan Galassi',
     ],
-    [
-        'As I was growing up, I did a lot of talent shows. I won fifteen Sunday nights straight in a series of talent shows in Macon. I showed up the sixteenth night, and they wouldn\'t let me go on any more. Whatever success I had was through the help of the good Lord.',
-        'Otis Redding',
+    '760f802c-9891-5ddc-bb75-4038ba4fbeb7' => [
+        'Perfection is impossible; just strive to do your best.',
+        'Angela Watson',
     ],
-    [
-        'The beauty of diversification is it\'s about as close as you can get to a free lunch in investing.',
-        'Barry Ritholtz',
+    'e3579a21-5619-5265-a0b6-bdedcb8f58d3' => [
+        'We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.',
+        'Uta Hagen',
     ],
-    [
-        'When I travel, there are no rules with my diet. I eat whatever looks good, but in small portions. Food is such a rich part of the travel experience. There is no way I would cut that out!',
-        'Zoe McLellan',
+    '7039b6d5-3d7f-5a51-b5b1-c41f503e645d' => [
+        'A manager is responsible for the application and performance of knowledge.',
+        'Peter Drucker',
     ],
-    [
-        'We\'re constantly striving for success, fame and comfort when all we really need to be happy is someone or some thing to be enthusiastic about.',
-        'H. Jackson Brown, Jr.',
+    '83fa61b8-a8f6-5cb5-ac0b-fc2add157abe' => [
+        'Even with, or perhaps, because of, this background, I have over the past few years sensed a very dramatic change in attitude on the part of Prince Edward Islanders towards the on-going rush for so-called modernization.',
+        'Alex Campbell',
     ],
-    [
-        'An aim in life is the only fortune worth finding.',
-        'Vincent Van Gogh',
+    '25e79137-798f-52c9-b2f0-170a7f8c350b' => [
+        'If you\'re not willing to work hard, let someone else do it. I\'d rather be with someone who does a horrible job, but gives 110% than with someone who does a good job and gives 60%.',
+        'Will Smith',
     ],
-    [
-        'The human face is the organic seat of beauty. It is the register of value in development, a record of Experience, whose legitimate office is to perfect the life, a legible language to those who will study it, of the majestic mistress, the soul.',
-        'Eliza Farnham',
+    'b1afb807-f461-5697-b802-9f004c27a40e' => [
+        'I love David\'s attitude in the Bible. He wasn\'t afraid to go against the trends. He wasn\'t going to be defined by the opinions of others.',
+        'Victoria Osteen',
     ],
-    [
-        'Someone said adversity builds character, but someone else said adversity reveals character. I\'m pleasantly surprised with my resilience. I persevere, and not just blindly. I take the best, get rid of the rest, and move on, realizing that you can make a choice to take the good.',
-        'Brooke Shields',
+    '85664610-4a94-5e23-bde3-b0af60d48907' => [
+        'I get tired of comedies where there are a bunch of funny guys and a beautiful woman who doesn\'t do anything funny. And I don\'t like books where there\'s a rough-and-tumble boy and a really clever, snotty girl. That\'s just not my experience with teenagers.',
+        'Patrick Ness',
     ],
-    [
-        'I didn\'t know how to deal with success. If there was a Rock Star 101, I would have liked to take it. It might have helped me.',
-        'Kurt Cobain',
+    '23e1740c-4911-5531-a445-afc4620759c9' => [
+        'Procrastination is the thief of time.',
+        'Edward Young',
     ],
-    [
-        'In my situation, every time I write a sentence, I\'m thinking not only of the people I ended up in college with but my siblings, my family, my school friends, the people from my neighborhood. I\'ve come to realize that this is an advantage, really: it keeps you on your toes.',
-        'Zadie Smith',
+    '2312d88b-363a-5978-b4e7-d66f9a956ed3' => [
+        'But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.',
+        'Alan Watts',
     ],
-    [
-        'Putting on a movie is like going to war - for me, at least. It\'s all about time; time is money, and we don\'t have it. So it\'s all about getting to know each other intimately quickly. You are with family members that you like or don\'t like, but you can\'t leave them because you\'re stuck with them.',
-        'Lee Daniels',
+    '7676e142-0603-5a4e-8ab6-78023b0e6034' => [
+        'Through my optimism I naturally prefer and capture the beauty in life.',
+        'Leni Riefenstahl',
     ],
-    [
-        'If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much beyond what you might have expected.',
-        'Bill Gates',
+    'd7af30dc-573c-5ff5-9064-bac23ea7b7b2' => [
+        'Success is simply a matter of luck. Ask any failure.',
+        'Earl Wilson',
     ],
-    [
-        'Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.',
-        'Tom Jackson',
+    '4af822e5-75e9-5c46-b255-30106cf69128' => [
+        'Playing video games is something I enjoy in my spare time. I\'m a gamer, always have been.',
+        'Kevin Garnett',
     ],
-    [
-        'If there are no struggles, there is no progress.',
-        'Frederick Douglas',
+    'aacfd962-130a-563d-bc6b-bdc99f722356' => [
+        'Labor gives birth to ideas.',
+        'Jim Rohn',
     ],
-    [
-        'We cannot command Nature except by obeying her.',
-        'Francis Bacon',
+    '1fc8715e-f381-5c30-b99f-9096f57049dc' => [
+        'There is no substitute for hard work.',
+        'Thomas A. Edison',
     ],
-    [
-        'Only then, approaching my fortieth birthday, I made philosophy my life\'s work.',
-        'Karl Jaspers',
+    '9cc5916f-0912-59ce-8a22-7c0f7045fde3' => [
+        'I like books that aren\'t just lovely but that have memories in themselves. Just like playing a song, picking up a book again that has memories can take you back to another place or another time.',
+        'Emma Watson',
     ],
-    [
-        'There is great beauty in going through life without anxiety or fear. Half our fears are baseless, and the other half discreditable.',
-        'Christian Nestell Bovee',
+    'c82200fa-e77c-5dd4-ba7c-4085762bd581' => [
+        'A mode of conduct, a standard of courage, discipline, fortitude and integrity can do a great deal to make a woman beautiful.',
+        'Jacqueline Bisset',
     ],
-    [
-        'I\'m very close with my family, so my mom is part of my entourage.',
-        'Kid Cudi',
+    'acd3e2de-e1cf-5c75-8da0-bfa2db597dea' => [
+        'Habituated from our Infancy to trample upon the Rights of Human Nature, every generous, every liberal Sentiment, if not extinguished, is enfeebled in our Minds.',
+        'George Mason',
     ],
-    [
-        'People are craving this great progress in electronics, going after computers, the Internet, etc. It\'s a giant progress technologically. But they must have a balance of soul, a balance for human beauty. That means art has an important role.',
-        'Mstislav Rostropovich',
+    'ceac3b3e-47fc-54f0-8fe9-2a8ff2a30ede' => [
+        'I don\'t get jealous of people. Jealousy is such a waste of time because you\'re jealous of them, and they go about their lives and have a wonderful time, so what\'s the point?',
+        'Joy Behar',
     ],
-    [
-        'And I have to work so hard at talking positively to myself. If I don\'t, it\'s just real hard to get through the day, and I\'ll get really down, and just want to cry. My whole body language changes. I get more slumped over.',
-        'Delta Burke',
+    '73124ca7-a120-53ff-a374-1bbc2d79ebe3' => [
+        'Anyone who doesn\'t take truth seriously in small matters cannot be trusted in large ones either.',
+        'Albert Einstein',
     ],
-    [
-        'Who seeks shall find.',
-        'Sophocles',
+    '6338c900-24d0-5ba3-baa7-abf6cd545787' => [
+        'Every story I write adds to me a little, changes me a little, forces me to reexamine an attitude or belief, causes me to research and learn, helps me to understand people and grow.',
+        'Octavia E. Butler',
     ],
-    [
-        'It\'s the game of life. Do I win or do I lose? One day they\'re gonna shut the game down. I gotta have as much fun and go around the board as many times as I can before it\'s my turn to leave.',
-        'Emanuel Steward',
+    '58dd2fc9-83f2-511b-b9c6-fe56b893a34f' => [
+        'My attitude is always one of sensuality, aggressive enthusiasm and a kind of outrageousness in my expression.',
+        'Sally Kirkland',
     ],
-    [
-        'I failed the LSAT. Basically, if I had not failed, I\'d have been a lawyer and there would be no Spanx. I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating.',
-        'Sara Blakely',
+    '77d47aa3-893a-533c-8c5a-747624024dae' => [
+        'Positive health means becoming whole-heartedly engaged with our own health care. It means not outsourcing our health to the health care system. It means getting rid of the fear and paralysis we too often feel, and instead cultivating a sense of agency.',
+        'Jane McGonigal',
     ],
-    [
-        'There are two means of refuge from the miseries of life: music and cats.',
-        'Daniel H. Pink',
+    '742faf67-b2ab-57b4-8583-e4e7d098ae64' => [
+        'Public relations is at best promotion or manipulation, at worst evasion and outright deception. What it is never about is a free flow of information.',
+        'Heather Brooke',
     ],
-    [
-        'I just believe in the goodwill of people, the power of people to do something positive.',
-        'Eddie Izzard',
+    'a8b87f33-0b5a-56bd-9d6f-22aa55cc2a6d' => [
+        'Make the best use of what is in your power, and take the rest as it happens.',
+        'Epictetus',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I usually don\'t like to \'spoon feed\' my audience, because I grew up idolizing story tellers who tell stories using symbolism, so it was in my nature to do the same.',
-        'The Weeknd',
+    'e0acd22e-ae61-581c-b3df-19e357f06b00' => [
+        'We link our future to the euro, to the euro zone, and to the European Union while being the nearest neighbor of the United Kingdom with, obviously, a common travel area and a very close working relationship with the U.K.',
+        'Enda Kenny',
     ],
-    [
-        'If you cannot be silent be brilliant and thoughtful.',
+    '1f422cc4-c502-599b-b396-b4cfa1ef446d' => [
+        'Staying in one place is the best path to be taken over and surpassed by many.',
         'Byron Pulsifer',
     ],
-    [
-        'If you don\'t read the newspaper, you\'re uniformed. If you read the newspaper, you\'re mis-informed',
-        'Mark Twain',
+    'ddc17e64-7b9e-5c1a-a1c6-3b5928180b81' => [
+        'I don\'t deserve this award, but I have arthritis and I don\'t deserve that either.',
+        'Jack Benny',
     ],
-    [
-        'Discovering your purpose doesn\'t have to be complicated. Look at what you do and why you do it. Is it to support your family? That\'s your purpose. Is it to make a difference in your customer\'s life? That\'s your purpose.',
-        'Anne F. Beiler',
+    '06794e25-dfbd-559d-a611-e37fa1f8fb49' => [
+        '\'Communication Breakdown\' - it was punchy and direct, with a real attitude that was different to other bands going around.',
+        'Jimmy Page',
     ],
-    [
-        'Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me.',
-        'Anna Held',
-    ],
-    [
-        'My father, who was from a wealthy family and highly educated, a lawyer, Yale and Columbia, walked out with the benefit of a healthy push from my mother, a seventh grade graduate, who took a typing course and got a secretarial job as fast as she could.',
-        'George Weinberg',
-    ],
-    [
-        'When in doubt, take more time.',
-        'John Zimmerman',
-    ],
-    [
-        'I guess I don\'t like the fact that my life is becoming less and less my own - the prevailing attitude that you have an obligation to deliver yourself to the public. Actually, you\'re delivered to the public whether you like it or not. I guess if you don\'t like it, you should stop doing what provokes it. In my case, that\'s acting.',
-        'Robert Redford',
-    ],
-    [
-        'After all is said and done, sit down.',
-        'Bill Copeland',
-    ],
-    [
-        'There is a miracle in your mess, don\'t let the mess make you miss the miracle.',
-        'Patience Johnson',
-    ],
-    [
-        'If you travel too often, you actually come face-to-face with what you\'re trying to escape. I feel like when I travel alone, sometimes it\'s like being locked in a hotel room with my own worst enemy.',
-        'Simon Van Booy',
-    ],
-    [
-        'There\'s a beauty to math. Math is so simple. It\'s just one step after the next.',
-        'Ethan Canin',
-    ],
-    [
-        'Beauty is ever to the lonely mind a shadow fleeting; she is never plain. She is a visitor who leaves behind the gift of grief, the souvenir of pain.',
-        'Christopher Morley',
-    ],
-    [
-        'The spring, summer, is quite a hectic time for people in their lives, but then it comes to autumn, and to winter, and you can\'t but help think back to the year that was, and then hopefully looking forward to the year that is approaching.',
-        'Enya',
-    ],
-    [
-        'We choose our joys and sorrows long before we experience them.',
+    '5b918eb6-5c37-51da-825d-0639ef076b4c' => [
+        'Be like the flower, turn your face to the sun.',
         'Kahlil Gibran',
     ],
-    [
-        'The best way to predict the future is to invent it.',
-        'Alan Kay',
+    '03310969-bb92-5aa9-8b98-408d2c3c1481' => [
+        'Just as courage imperils life, fear protects it.',
+        'Nuno Bettencourt',
     ],
-    [
-        'I\'m not that good looking. That\'s why \'Gangnam Style\' works. If someone handsome uses that phrase it\'s just awkward. But if someone like me uses it, it\'s funny.',
-        'Psy',
+    '44e0b957-b97e-5b1a-81db-10dc68e2675f' => [
+        'My father got a trade union scholarship to Oxford; he lived and breathed politics; he was always watching current-affairs programmes. But I have a five-year-old child\'s attitude towards the news. Mainly, that it absolutely turns me off.',
+        'Jez Butterworth',
     ],
-    [
-        'The skills I acquired in Southeastern Louisiana University, Thrifty Drugs, Pacific Mutual, along with knowing the history, behavior and local staff, helped make Golden Eagle a success story.',
-        'Roger Wang',
+    '9af72ad7-4d2a-548a-8e1a-9fe3e8df3925' => [
+        'Anyone who can walk to the welfare office can walk to work.',
+        'Al Capp',
     ],
-    [
-        'When liberals finally grasped the strength of popular feeling about the family, they cried to appropriate the rhetoric and symbolism of family values for their own purposes.',
-        'Christopher Lasch',
+    '45eb72a0-1e9b-5a77-9c60-c96e768fc06c' => [
+        'It\'s a matter of taking the side of the weak against the strong, something the best people have always done.',
+        'Harriet Beecher Stowe',
     ],
-    [
-        'When I first began choreographing, I never thought of it as choreography but as expressing feelings. Though every piece is different, they are all trying to get at certain things that are difficult to put into words. In the work, everything belongs to everything else - the music, the set, the movement and whatever is said.',
-        'Pina Bausch',
+    '38b189b6-9f1e-50d9-9d3b-95f2aae19875' => [
+        'Begin to be now what you will be hereafter.',
+        'William James',
     ],
-    [
-        'You develop a sympathy for all human beings when you travel a lot.',
-        'Shakuntala Devi',
+    '0b1a9d10-6763-505a-b98e-89037c8a97cf' => [
+        'People need to be made more aware of the need to work at learning how to live because life is so quick and sometimes it goes away too quickly.',
+        'Andy Warhol',
     ],
-    [
-        'To want to be what one can be is purpose in life.',
-        'Cynthia Ozick',
+    'dcee2377-36ed-5add-a5b3-6c59e2b5c076' => [
+        'The parrot\'s so funny. He imitates me and I don\'t even realize he\'s doing it. I\'m walking around the house talking to myself and whistling and the next day he\'s said something I\'ve said... it\'s scary you know?',
+        'Mick Ralphs',
     ],
-    [
-        'Next to acquiring good friends, the best acquisition is that of good books.',
-        'Charles Caleb Colton',
+    '58b4b6ed-1c27-533b-91c2-e2463395cef8' => [
+        'Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.',
+        'Ambrose Bierce',
     ],
-    [
-        'We can\'t all be good at everything. This is partly the logic behind having a team in the first place, so each role can be filled with the person best suited for that role and together, every job and every strength is covered.',
-        'Simon Sinek',
+    'cb9bc571-809f-55df-88ab-a1d2354fa655' => [
+        'Southerners smile more than other Americans.',
+        'John Shelton Reed',
     ],
-    [
-        'We\'re all biased, right, in many different ways - politically, religiously, ideologically, the way our family raised us - and that\'s fine. Nobody wants to live in a world where everybody thinks exactly the same. The key, though, is to try to figure out where your biases are holding you back from solving problems.',
-        'Stephen J. Dubner',
+    '245fc0a5-c3f9-5066-8199-ef87978ec91e' => [
+        'The trains that travel the Chunnel are massive machines. The Eurostars are bullet-shaped and a quarter-mile long. They are pulled by a 136,000-pound locomotive and move in the open air at 185 m.p.h. and through the tunnel at 100 m.p.h.',
+        'Peter Landesman',
+    ],
+    '4bfd9878-225e-5d6a-b8f1-3c04454c856e' => [
+        'I think and that is all that I am.',
+        'Wayne Dyer',
+    ],
+    '16cdf434-2197-5854-b7eb-740d368570c3' => [
+        'Why compare yourself with others? No one in the entire world can do a better job of being you than you.',
+        'Unknown',
+    ],
+    '46313d72-d7ab-5d1c-8070-119b21eccf4d' => [
+        'Modern art, in particular, seems especially vulnerable to fraud. Its abstractions are sometimes difficult to understand or grasp, and a modern painting is often loved less because of its intrinsic quality - its beauty, as conventionally understood - than because of the identity of the painter, its mark of social status.',
+        'Peter Landesman',
+    ],
+    '2de41599-a153-593d-b26b-3f4400b58bb0' => [
+        'Hatred is corrosive of a person\'s wisdom and conscience; the mentality of enmity can poison a nation\'s spirit, instigate brutal life and death struggles, destroy a society\'s tolerance and humanity, and block a nation\'s progress to freedom and democracy.',
+        'Jim Rohn',
+    ],
+    '49ffbac6-4b84-5db3-954a-0a8040b926c4' => [
+        'Beauty is being comfortable and confident in your own skin.',
+        'Iman',
+    ],
+    '73abdf12-0ae5-5efa-8a52-fcc3a9a02430' => [
+        'It is a rough road that leads to the heights of greatness.',
+        'Seneca',
+    ],
+    'f89d21e6-c27c-5b8d-a94c-07b342478c18' => [
+        'It\'s nice to look out and see your family supporting you.',
+        'Zayn Malik',
+    ],
+    '0225d394-bb2d-5b3b-adbc-207eb1c83f0b' => [
+        'Whenever you fall, pick something up.',
+        'Oswald Avery',
+    ],
+    '2702c005-21e8-51c3-b9e2-8907bdbd466f' => [
+        'All men\'s souls are immortal, but the souls of the righteous are immortal and divine.',
+        'Socrates',
+    ],
+    '87de1867-8410-5a92-b2ac-8c999e5cab5b' => [
+        'A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby\'s temperature. Plus, it really teaches the baby who\'s boss.',
+        'Tina Fey',
     ],
 ];

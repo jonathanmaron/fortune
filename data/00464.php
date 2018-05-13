@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I didn\'t see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.',
-        'Steve Jobs',
+    'bd70ea48-db4f-599f-9b1b-50a684919024' => [
+        'Learning lessons is a little like reaching maturity. You\'re not suddenly more happy, wealthy, or powerful, but you understand the world around you better, and you\'re at peace with yourself. Learning life\'s lessons is not about making your life perfect, but about seeing life as it was meant to be.',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        'The Antichrist will be the infernal prince again for the third and last time... so many evils shall be committed by the means of Satan, the infernal Prince, that almost the entire world shall be found undone and desolate. Before these events happen, many rare birds will cry in the air, \'Now! Now!\' and sometime later will vanish.',
-        'Nostradamus',
+    '6c22015f-ed16-507e-890e-163b735e9198' => [
+        'Our ideals are our better selves.',
+        'Amos Bronson Alcott',
     ],
-    [
-        'Winning isn\'t everything, but it beats anything in second place.',
-        'William C. Bryant',
+    'de3293f8-5283-54c9-9f2e-943863e63f57' => [
+        'It\'s a special person - and personality - who can lead a start-up to soaring success and sustain that success for the long term. Apple co-founder Steve Jobs and Facebook\'s Mark Zuckerberg are star examples.',
+        'Marcus Buckingham',
     ],
-    [
-        'If you find yourself in a hole, the first thing to do is stop digging.',
-        'Will Rogers',
+    'd5b5626d-78ad-5512-92af-82ecd0c208f3' => [
+        'The pool is terrible, but that doesn\'t have much to do with my record swims. That\'s all mental attitude.',
+        'Mark Spitz',
     ],
-    [
-        'The best intelligence test is what we do with our leisure.',
-        'Laurence J. Peter',
+    'eaa6b771-b089-50d5-8642-84723a41b0b8' => [
+        'From a small seed a mighty trunk may grow.',
+        'Aeschylus',
     ],
-    [
-        'The pilot looked at his cues of attitude and speed and orientation and so on and responded as he would from the same cues in an airplane, but there was no way it flew the same. The simulators had showed us that.',
-        'Alan Shepard',
+    'ec3fc7ba-8fbb-5482-a6e6-c5a70f5c1026' => [
+        'The design process usually starts as a fantasy, with ideas that I dream of and visualize. These ideas become a reality by bringing various ingredients together, from the lifestyle of my bride, her age and sex appeal, to the textures of the finest fabrics and embroideries that we produce in my family factories in India.',
+        'Naeem Khan',
     ],
-    [
-        'A hostility to modernity is shared by ideologies that have nothing else in common - a nostalgia for moral clarity, small-town intimacy, family values, primitive communism, ecological sustainability, communitarian solidarity, or harmonies with the rhythms of nature.',
-        'Steven Pinker',
+    'b01cdda3-843f-5beb-a0b6-6d3ebf8b9b49' => [
+        'I want to continue modeling and do the best that I can with that.',
+        'Kendall Jenner',
     ],
-    [
-        'It is the hopeful, buoyant, cheerful attitude of mind that wins. Optimism is a success builder; pessimism an achievement killer.',
-        'Orison Swett Marden',
+    '45e6a20f-2967-5c56-b768-a25ced24f00b' => [
+        'The amount of happiness that you have depends on the amount of freedom you have in your heart.',
+        'Thich Nhat Hanh',
     ],
-    [
-        'It\'s easier to change what you do than people think it is. If you don\'t change, your field changes around you.',
-        'Walter Gilbert',
+    'e9b5a131-6461-511d-8dbe-0d5d3a918e64' => [
+        'Men have looked upon the desert as barren land, the free holding of whoever chose; but in fact each hill and valley in it had a man who was its acknowledged owner and would quickly assert the right of his family or clan to it, against aggression.',
+        'T. E. Lawrence',
     ],
-    [
-        'The best ideas come as jokes. Make your thinking as funny as possible.',
-        'David Ogilvy',
+    '2b4b626f-2cbc-5695-b8e1-211e6e70de6d' => [
+        'As a single mother of four, my mother taught me that you always want to show up strong for the moments that really matter with family, friends, and community. I now recognize how her strength helped shape the person I am today and the mother that I have become.',
+        'Andie MacDowell',
     ],
-    [
-        'The government will see that human spaceflight is useful - for science and the economy - and inspirational.',
-        'Helen Sharman',
+    '5d1f7e2a-ad49-52e9-a14e-bd0a6bda155c' => [
+        'There\'s always a period of curious fear between the first sweet-smelling breeze and the time when the rain comes cracking down.',
+        'Don DeLillo',
     ],
-    [
-        'The measure of who we are is what we do with what we have.',
-        'Vince Lombardi',
+    '3c49f938-b526-5157-9b41-9490e683dba5' => [
+        'I write funny. If I can make my wife laugh, I know I\'m on the right track.',
+        'Gene Wilder',
     ],
-    [
-        'Photography does deal with \'truth\' or a kind of superficial reality better than any of the other arts, but it never questions the nature of reality - it simply reproduces reality. And what good is that when the things of real value in life are invisible?',
-        'Duane Michals',
+    'd4fef7e0-a35b-52c3-a8bc-196641545931' => [
+        'One of the rewards of success is freedom, the ability to do whatever you like.',
+        'Sting',
     ],
-    [
-        'Over the years, my work became both my vocation and avocation. Since I enjoyed it so much, I never felt a great need to go outside for relaxation. Nevertheless, I became an avid photographer and traveler. Possibly my love for travel stems from the early years when my family seldom went away on vacation.',
-        'Gertrude B. Elion',
+    'bc31f169-4e0d-5397-8694-750ab1543da9' => [
+        'Success is not a function of the size of your title but the richness of your contribution.',
+        'Robin S. Sharma',
     ],
-    [
-        'I love to swim. When I jump in the water, I feel like I\'m 12 years old again. It\'s really funny how it does that to me.',
-        'Summer Sanders',
+    '5b6f1ea1-4d5f-55bf-9145-2fef5171ca24' => [
+        'Who we are never changes. Who we think we are does.',
+        'Mary Almanac',
     ],
-    [
-        'Comedy was my sport. It taught me how to roll with the punches. Failure is the exact same as success when it comes to comedy because it just keeps coming. It never stops.',
-        'Emma Stone',
+    'b40220d9-5f89-5c6d-98ae-932ee40ef3c5' => [
+        'I don\'t want to be married to someone who feels inferior to my success or because I make more money than he does.',
+        'Grace Kelly',
     ],
-    [
-        'Remember that it is not enough to abstain from lying by word of mouth; for the worst lies are often conveyed by a false look, smile, or act.',
-        'Abraham Cahan',
+    'b6c11e8c-33fb-514c-89a5-3ebdb02a74e1' => [
+        'Our ability to achieve happiness and success depends on the strength of our wings.',
+        'Catherine Pulsifer',
     ],
-    [
-        'It\'s funny because I remember when I came to the U.S. with \'Swimming Pool,\' the movie did well, and it was great box office for a French movie, but I remember I was a bit upset because all people talked to me about was the nudity.',
-        'Ludivine Sagnier',
+    'cb4d4f81-1978-5457-bb14-a9447b5acc50' => [
+        'When I see these young girls who are dreaming the dream that I\'m living, it\'s very very exciting and it puts a big smile on my face.',
+        'Sue Wicks',
     ],
-    [
-        'I wish everyone well, but you need to focus on yourself. You need to stop putting your hand out. Everyone wants hand outs. Everyone wants things for free. You\'ve got to put in the work. You\'ve got to grind. You\'ve got go through the struggle, and you\'ve got to get it.',
-        'Conor McGregor',
+    'a816b36c-f711-5995-b29d-02da073c4fdd' => [
+        'Certain travellers give the impression that they keep moving because only then do they feel fully alive.',
+        'Ella Maillart',
     ],
-    [
-        'We\'ve got so many different cultural groups in my family that I\'ve had to learn to accommodate them in different ways. My father speaks different to my mum. My mum speaks different to my grandmother. Everybody speaks different, so you find you start tweaking your language to be more accessible to people.',
-        'Trevor Noah',
+    '76033c4d-e9b5-573f-afc3-0f4fd56f37ea' => [
+        'Wherever we go, across the Pacific or Atlantic, we meet, not similarity so much as \'the bizarre\'. Things astonish us, when we travel, that surprise nobody else.',
+        'Mary Ritter Beard',
     ],
-    [
-        'Happiness must happen, and the same holds for success: you have to let it happen by not caring about it.',
-        'Viktor E. Frankl',
+    '60be5ff5-cf5e-5253-b134-4ad45c08f74e' => [
+        'I am living proof that the American dream still exists. It is still alive and well. There is only one trick, you have to be willing to roll up your sleeves and work very, very hard.',
+        'Paula Deen',
     ],
-    [
-        'Success to me is only two things: happiness and stability.',
-        'Kehlani',
+    'f2bf576e-6fbc-5282-8540-531abe255eac' => [
+        'My grandmother is this amazingly theatrical woman. She acted like a movie star, as far as looks and attitude, kind of like Susan Hayward.',
+        'Parker Posey',
     ],
-    [
-        'We need quantitative assessments of the success of education. We need certification and qualifications both for teachers and for pupils. It is not a choice between quantity and quality, between access and excellence. Both of these will happen together if people really do believe in the importance of education to change lives.',
-        'Gordon Brown',
+    '398fedb4-d455-5400-9835-1fe4d539da16' => [
+        'The time I spent thinking about how I was better than somebody else or worrying about somebody else\'s attitude was time I could put to better use.',
+        'Charley Pride',
     ],
-    [
-        'I try to keep it real. I don\'t have time to worry about what I\'m projecting to the world. I\'m just busy being myself.',
-        'Demi Lovato',
+    '7ddf51b5-8d20-5896-8903-facd4ac46995' => [
+        'Wicked people are always surprised to find ability in those that are good.',
+        'Marquis Vauvenargues',
     ],
-    [
-        'I have a very big family, and that is my number one thing, and we go away for a month to see my cousins in Italy every year, but I need to work.',
-        'Richard Rogers',
+    '3c73737c-262f-52a5-92ef-776a9461cfc8' => [
+        'Hopefully I\'m a role model for positive change for everyone - not just women. It\'s very important to find balance between men and women.',
+        'Shari Arison',
     ],
 ];

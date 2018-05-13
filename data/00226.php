@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Success is not a destination, but the road that you\'re on. Being successful means that you\'re working hard and walking your walk every day. You can only live your dream by working hard towards it. That\'s living your dream.',
-        'Marlon Wayans',
+    '2a1c038e-b016-556f-b53e-1e9aff512487' => [
+        'Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.',
+        'Barack Obama',
     ],
-    [
-        'Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.',
-        'Stephen Hawking',
+    '51f4bb57-d784-5608-992b-0ea1ce47732a' => [
+        'I managed to take a family trip to the Bahamas and it was quite lovely.',
+        'Jackie Collins',
     ],
-    [
-        'There is one rule for the industrialist and that is: Make the best quality of goods possible at the lowest cost possible, paying the highest wages possible.',
-        'Henry Ford',
+    'c4df287d-ee40-547a-ad25-f3469f9e7c7b' => [
+        'I understand what\'s it like to work all week and on Friday night just want to go and leave your brain at the door, buy some popcorn and be thrilled by something.',
+        'Don Cheadle',
     ],
-    [
-        'And as we let our own light shine, we unconsciously give other people permission to do the same.',
-        'Nelson Mandela',
+    '1174c96b-5750-5b0f-bbb6-3355c390bd11' => [
+        'There is no higher religion than human service. To work for the common good is the greatest creed.',
+        'Woodrow Wilson',
     ],
-    [
-        'If one had but a single glance to give the world, one should gaze on Istanbul.',
-        'Alphonse de Lamartine',
+    'eeeaa262-8c6f-5e37-8c23-11958fcb10f3' => [
+        'Pour on, I will endure.',
+        'William Shakespeare',
     ],
-    [
-        'The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.',
-        'Christopher McCandless',
+    '3dffa62f-cc5a-5b7f-8b54-cc11cfae9721' => [
+        'When it comes to the things that people really want in science fiction - like space travel - the simplest things end up causing them not to happen. Humans are 100-pound bags of water, built to live on Earth.',
+        'Lawrence M. Krauss',
     ],
-    [
-        'My daughter is my passion and my life.',
-        'Christopher McCandless',
+    '20fa13fa-898c-5602-b449-fb43dd91406b' => [
+        'Love is a strange emotion. It is ever evolving. Lust is transient. With time, one realizes that love and togetherness are two different things. Very few people are lucky enough to experience the two emotions simultaneously.',
+        'Randeep Hooda',
     ],
-    [
-        'My daughter is my biggest achievement. She is a little star and my life has changed so much for the better since she came along.',
-        'Orison Swett Marden',
+    'ec9523b5-91c8-5dd0-bb7e-1a4cdd572cc6' => [
+        'Success is about dedication. You may not be where you want to be or do what you want to do when you\'re on the journey. But you\'ve got to be willing to have vision and foresight that leads you to an incredible end.',
+        'Usher',
     ],
-    [
-        'I mix all different oils - my bathroom at home is littered with oils; I\'m really into natural beauty and natural healing. Peppermint is really good if you put it on your stomach for a tummy ache; lavender is kind of all-purpose - I think everyone should carry it.',
-        'Liz Goldwyn',
+    'd6719697-1582-555e-b5c1-c3f665a42ee4' => [
+        'Obscenity, which is ever blasphemy against the divine beauty in life, is a monster for which the corruption of society forever brings forth new food, which it devours in secret.',
+        'Percy Bysshe Shelley',
     ],
-    [
-        'Children should be able to live a life free from bullying and harassment and it is time that we all took a stand against this.',
-        'Katherine Jenkins',
+    '25797d9b-16ba-5be5-9757-2956fb4e5ec0' => [
+        'O human beauty, what a dream art thou, that we should cast our life and hopes away on thee!',
+        'Bryan Procter',
     ],
-    [
-        'I have learned that acting is not about beauty.',
-        'Vincent Cassel',
+    'e734d7bb-1418-5ff2-85ff-6f1822c2f837' => [
+        'Sound is the vocabulary of nature.',
+        'Pierre Schaeffer',
     ],
-    [
-        'Time travel may be achieved one day, or it may not. But if it is, it should not require any fundamental change in world-view, at least for those who broadly share the world view I am presenting in this book.',
-        'David Deutsch',
+    '709d323a-8388-5a20-83d0-5907fb2b9c51' => [
+        'Beauty of whatever kind, in its supreme development, invariably excites the sensitive soul to tears.',
+        'Edgar Allan Poe',
     ],
-    [
-        'I feel that I\'ve got the opportunity to set a great role model for girls to look up to a strong, active, compassionate, loving, positive woman, and I think it\'s so important.',
-        'Gal Gadot',
+    '70519b30-3539-5b1f-8004-717e2c2165e6' => [
+        'The best reason why Monarchy is a strong government is, that it is an intelligible government. The mass of mankind understand it, and they hardly anywhere in the world understand any other.',
+        'Walter Bagehot',
     ],
-    [
-        'To fly, we have to have resistance.',
-        'Maya Lin',
+    '3dac5e07-392c-56c5-b7df-920f9ee76735' => [
+        'Just like gold, which has to weather very high temperatures to achieve the sheen and shine it finally gets, so also every person has to go through struggles in his life to achieve success.',
+        'Kailash Kher',
     ],
-    [
-        'Poetry at its best can do you a lot of harm.',
-        'Sylvia Plath',
+    '4d5b6484-2476-5086-980b-37b75d60c046' => [
+        'You can do anything with bayonets except sit on them.',
+        'Thomas Hardy',
     ],
-    [
-        'The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.',
-        'Edward Ericson',
+    'f2fdb49e-62e0-5837-a942-2df3a4225d88' => [
+        'I had an attitude problem when I was a kid. I\'m not gonna lie.',
+        'Tionne Watkins',
     ],
-    [
-        'My own personal popularity can have no influence over me when the dictates of my best judgment and the obligations of an oath require of me a particular course. Under such circumstances, whether I sink or swim on the tide of popular favor is, to me, a matter of inferior consideration.',
-        'John Tyler',
+    '1c9e4699-0178-510a-a4ec-69a645955bad' => [
+        'I\'m a real nature lover, so whenever possible, I like to get to the beach or get to a forest or get somewhere there\'s fresh air. Apart from that, I\'m a film addict and a DVD freak.',
+        'Murray Bartlett',
     ],
-    [
-        'People forget I go to work. They forget that the Coleridge house was bought and paid for by the daughter of a travel agent and a barmaid from what the actor Richard Burton once described as the nightmarish \'featureless suburb\' of Croydon.',
-        'Kate Moss',
+    'da419191-9a46-58bd-98b5-0168e0b1401c' => [
+        'Let me tell you something - being thought of as a beautiful woman has spared me nothing in life. No heartache, no trouble. Love has been difficult. Beauty is essentially meaningless and it is always transitory.',
+        'Halle Berry',
     ],
-    [
-        'It\'s human nature to take the easy route and leap at storage methods that promise quick and convenient ways to remove visible clutter. Putting things away creates the illusion that the clutter problem has been solved. But sooner or later, all the storage units are full, and the room once again overflows with things.',
-        'Marie Kondo',
+    'bb4b06b5-5ea1-54d9-8300-265035ac9f64' => [
+        'I find that it\'s the simple things that remind you of family around the holidays.',
+        'Amy Adams',
     ],
-    [
-        'We shall never know all the good that a simple smile can do.',
-        'Mother Teresa',
+    '09bcdd58-873a-55a5-8e67-b0c821330831' => [
+        'Be passionate. Be courageous. Be your best.',
+        'Gabrielle Giffords',
     ],
-    [
-        'I know why I am here and my only real focused goal is to live each day to the fullest and to try and honor God and be an encouragement to others. What the future holds is firmly in God\'s hands, and I am very happy about that!',
-        'Ken Hensley',
+    '0a08a992-6b5f-565e-a86f-fcaa9259b814' => [
+        'There\'s no escalators - there\'s only staircases to success. There is no substitute for hard work.',
+        'Lilly Singh',
     ],
-    [
-        'The funny thing about insane people is that it is kind of the opposite of being a celebrity. Nobody envies you.',
-        'Robert M. Pirsig',
+    '8930baf7-1b70-5c3c-9b8d-8f8991ef1079' => [
+        'Smoking kills. If you\'re killed, you\'ve lost a very important part of your life.',
+        'Robert Wagner',
     ],
-    [
-        'My family\'s lineage, we are warriors. The McGregor clan, we are warriors all through. We are famous all through the world for our fighting capabilities of all generations. So I have no doubt that\'s stood to me and that led me down this path and gave me what I have.',
-        'Conor McGregor',
+    'e5faa1ce-fe87-5d21-9be1-c3cb82cab820' => [
+        'The way to get started is to quit talking ans begin doing.',
+        'Walt Disney Company',
     ],
-    [
-        'Forty for you, sixty for me. And equal partners we will be.',
-        'Joan Rivers',
+    '186987f4-c87a-566e-8604-dd15c97d6cb4' => [
+        'Mistakes are a part of being human. Appreciate your mistakes for what they are: precious life lessons that can only be learned the hard way. Unless it\'s a fatal mistake, which, at least, others can learn from.',
+        'Robert Baden-Powell',
     ],
-    [
-        'I launched Chefs for Humanity, a national nonprofit, with my voice, heart and money from my own pocket. Money gives you the ability to make a difference in the world and, when used in a positive way, is a lot of fun.',
-        'Cat Cora',
+    'e5a36af7-b10c-515e-a075-3f30ecde4366' => [
+        'You can never quit. Winners never quit, and quitters never win.',
+        'Ted Turner',
     ],
 ];

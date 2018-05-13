@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I\'ve got a bunch of books... I rely on funny books and movies to cheer me up. Oh, but I must say, I do have the world\'s most perfect husband, so a cuddle from him always cheers me up. He\'s a good guy.',
-        'Wendi McLendon-Covey',
+    '331e2e41-1cdb-5dc8-b473-c80f22dec7d6' => [
+        'When all the world appears to be in a tumult, and nature itself is feeling the assault of climate change, the seasons retain their essential rhythm. Yes, fall gives us a premonition of winter, but then, winter, will be forced to relent, once again, to the new beginnings of soft greens, longer light, and the sweet air of spring.',
+        'Madeleine M. Kunin',
     ],
-    [
-        'When I was working at the Sprint store, I got laid off. I was bummed out, but I stayed positive. I used the money I had earned while working there to make my first album. Without that job, maybe \'Corazon Sin Cara\' would never had been made. It\'s a very inspirational story.',
-        'Prince Royce',
+    '19ff13dc-6dd4-5de1-be19-43052c7f370e' => [
+        'Ball caps travel far and wide. They do far more than keep the sun out of your eyes or the cold off your head. Ball caps are a statement.',
+        'George Vecsey',
     ],
-    [
-        'The skull is nature\'s sculpture.',
-        'David Bailey',
+    '23389d53-9735-5ade-a1ef-9b8e6cd42397' => [
+        'One of the nice things about being busy is it makes you focus on what\'s important to you and how you use your time.',
+        'Lorne Michaels',
     ],
-    [
-        'All mankind... being all equal and independent, no one ought to harm another in his life, health, liberty or possessions.',
-        'Mark Caine',
+    '69d1a8dd-2866-5c35-8b5d-b9421a926196' => [
+        'Time passes irrevocably.',
+        'Virgil',
     ],
-    [
-        'Don\'t be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.',
-        'Richard Bach',
+    'b36fd028-f1e8-5a00-8bcb-6eff6991cfae' => [
+        'You can\'t use up creativity. The more you use, the more you have.',
+        'Maya Angelou',
     ],
-    [
-        'Shoot for the moon. Even if you miss, you\'ll land among the stars.',
-        'Les Brown',
+    '45a73c86-6015-5f5b-b95e-1c7cdab2be93' => [
+        'I think it\'s important to get your surroundings as well as yourself into a positive state - meaning surround yourself with positive people, not the kind who are negative and jealous of everything you do.',
+        'Heidi Klum',
     ],
-    [
-        'This is love: to fly toward a secret sky, to cause a hundred veils to fall each moment. First to let go of life. Finally, to take a step without feet.',
-        'Rabindranath Tagore',
+    'e912a32a-1e9a-5cda-a291-0e160c00ae78' => [
+        'The Senator from Massachusetts has given us ample grounds to doubt the judgment and the attitude he brings to bear on vital issues of national security.',
+        'Dick Cheney',
     ],
-    [
-        'It was my father who instilled the \'never say no\' attitude I carry around with me today, and who instilled in me a sense of wonder, always taking us on adventures in the car, never telling us the destination.',
-        'Marlee Matlin',
+    '928e692f-6842-5edb-bf94-3153a4464ca1' => [
+        'Only the educated are free.',
+        'Epictetus',
     ],
-    [
-        'Age focuses you. You are much better concentrated. There\'s more time when you travel less, don\'t do book tours, avoid interviews or public appearances. You walk the dogs, fish, hunt, cook and write.',
-        'Jim Harrison',
+    '74fbb20c-b64c-5e1a-ab51-a9894690a08d' => [
+        'A man\'s work is nothing but this slow trek to rediscover, through the detours of art, those two or three great and simple images in whose presence his heart first opened.',
+        'Albert Camus',
     ],
-    [
-        'Whatever you do to gain success, you have to hang in there and hope good things happen. Always think positive.',
-        'Don Rickles',
+    '40a693c8-463e-5595-aee9-1f1a0c7a50f7' => [
+        'In just six weeks from the time the design was started, we had the motor on the block testing its power.',
+        'Orville Wright',
     ],
-    [
-        'By nature, I really am a fairly bouncy and sunny individual.',
-        'Julie Andrews',
+    '14244a1e-1a15-5858-b701-7e208dfc6542' => [
+        'The boundaries which divide Life from Death are at best shadowy and vague. Who shall say where the one ends, and where the other begins?',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        'When I go back to Texas, I travel the state, and I see people all the time who come up to me, men and women across Texas, and they grab me by the shoulder, and they\'re afraid. They say, \'Ted, you know, I just lost my health insurance. I got a child with diabetes. I\'m scared. Please stop this from happening.\'',
-        'Ted Cruz',
+    '02cd58b1-e3d1-5b69-a8e6-a5e25a1fc1ad' => [
+        'After working for years in Hollywood where the actors have taken over, it was a real relief to get down there and not only have some children, but also have some actors that had no attitude.',
+        'Phillip Noyce',
     ],
-    [
-        'Perfect is boring: Beauty is irregular.',
-        'Gloria Steinem',
+    '9e8eda65-636e-5fe7-bef7-90ed935d294a' => [
+        'When I grew up, my family, we sat down, all of us to watch \'Good Times,\' \'Sanford and Son,\' all those shows that were out at that time.',
+        'Magic Johnson',
     ],
-    [
-        'To measure the success of our societies, we should examine how well those with different abilities, including persons with autism, are integrated as full and valued members.',
-        'Ban Ki-moon',
+    'b3196c48-4929-5a22-b3df-5e5d900041ad' => [
+        'You have to promote yourself; you have to have this smile on your face all the time and be this nice guy - which I am!',
+        'Craig Roberts',
     ],
-    [
-        'The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.',
-        'Ray Kroc',
+    'b5c9b5ae-c1cd-5ce3-b863-df3171e1808b' => [
+        'I have a nice smile, pretty lips, and big round cheeks. They help me look like a teenager.',
+        'Gabourey Sidibe',
     ],
-    [
-        'I like being the underdog so they don\'t expect what\'s going to happen. It pushes me to work harder and do the things I\'m not doing better.',
-        'Kawhi Leonard',
+    'a3ac28c9-b620-5fc1-ae15-7cc0af574cec' => [
+        'I find what I do for a living really funny. I mean, acting is kind of a hilarious thing for a grown man to call a job.',
+        'Christian Bale',
     ],
-    [
-        'I\'d rather have huge success and huge failures than travel in the middle of the road.',
-        'Kevyn Aucoin',
+    'bbacaef5-e0f8-5d58-9db5-2c220ead26a9' => [
+        'It was pretty clear that I was a funny guy, just as a guy.',
+        'Chevy Chase',
     ],
-    [
-        'Never fight an inanimate object.',
-        'P. J. O\'Rourke',
+    '9b869e95-0c21-5519-9a56-0906c50dee3f' => [
+        'We are at our very best, and we are happiest, when we are fully engaged in work we enjoy on the journey toward the goal we\'ve established for ourselves. It gives meaning to our time off and comfort to our sleep. It makes everything else in life so wonderful, so worthwhile.',
+        'Earl Nightingale',
     ],
-    [
-        'I don\'t have any superstitions, but what I always travel with is my pillow and my coffee.',
-        'Natalie Coughlin',
+    '3b770547-5acd-5cdf-8a8c-d9a507857a99' => [
+        'Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.',
+        'Calvin Coolidge',
     ],
-    [
-        'I don\'t know that I have any role models now that are fixed. Definitely my mom - she\'s the coolest. She\'s worked really hard her whole life and I just think she\'s got a great attitude. Moms just know so much it\'s so silly.',
-        'Larisa Oleynik',
+    '56a32ada-8b80-54b5-90f2-c87447e5bef3' => [
+        'Adopt the pace of nature: her secret is patience.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'There was a much more self-destructive nature in \'Appetite.\' It was a going-for-it-at-all-cost thing that worked then.',
-        'Axl Rose',
+    '0718c221-0ab1-5c7e-8f13-eecb373ca853' => [
+        'I don\'t care how handsome or fabulous or funny the groom is, or how sweet and accommodating the bride, or vice versa. Marriage is hard.',
+        'Jenna McCarthy',
     ],
-    [
-        'I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let\'s face it, friends make life a lot more fun.',
-        'John Dewey',
+    '51b5f1ee-52a1-5f4b-a851-fef1b14562f8' => [
+        'A man\'s dreams are an index to his greatness.',
+        'Zadok Rabinowitz',
     ],
-    [
-        'If you look at the history of Wonder Woman, you look at the iconography, the images that have kept her alive - they\'re not dark. The thing I think is so important to always keep in mind about her is how positive and bright and shiny she is - very much in the same way that Superman has been.',
-        'Patty Jenkins',
+    'd8ae5b6c-03aa-518d-8cc0-5306ddf1d31d' => [
+        'Going home and spending time with your family and your real friends keeps you grounded.',
+        'Jennifer Ellison',
     ],
-    [
-        'People are rejecting the power of the elite, but individuals such as Snowden are doing so in a positive way, trying to change things for the better. He is a very intelligent man and obviously interested in electronic music.',
-        'Jean-Michel Jarre',
+    '9a9c521a-7961-5c25-8fe0-181a855fba8a' => [
+        'For me life is continuously being hungry. The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to achieve, to conquer.',
+        'Drew Houston',
     ],
-    [
-        'I\'m so thankful for my family and friends - they\'re really supportive. Everyone I work with on \'Austin &amp; Ally;\' the cast and crew are like my family now. We have so much fun, and I\'m so happy they\'re in my life!',
-        'Laura Marano',
+    '7a16bb40-f187-5f9c-a26d-b9034961e745' => [
+        'It pays to get drunk with the best people.',
+        'Joe E. Lewis',
     ],
 ];

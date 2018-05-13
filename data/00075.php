@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I\'ve learned it\'s really important to work hard and keep your family and friends close. You\'ve got to let them know how much you appreciate them for sticking by you.',
-        'Carrie Underwood',
+    '80046488-94dc-57c2-96a4-e7cb23aadc28' => [
+        'What is government itself but the greatest of all reflections on human nature?',
+        'James Madison',
     ],
-    [
-        'A bad review is like baking a cake with all the best ingredients and having someone sit on it.',
-        'Danielle Steel',
+    'd1660654-e60a-5599-b038-2927d2b743a3' => [
+        'Winter is nature\'s way of saying, \'Up yours.\'',
+        'Robert Byrne',
     ],
-    [
-        'I really believe you can predict when someone has a great attitude, a real well of talent.',
-        'Taylor Hackford',
+    '1389b206-5766-5e53-9bdf-94d39ff1be63' => [
+        'I got the travel bug when I was quite young. My parents took me and my sisters out of school and we travelled all over Europe. It was an eye-opening experience and, although I love Norway, I also enjoy visiting new countries. I don\'t get homesick.',
+        'Magnus Carlsen',
     ],
-    [
-        'The work of healing is not my work, but by faith, healing is done. The work of deliverance, great and mighty deliverance, is not my work but is my faith in Him. It is not the works of righteousness which I have done, but according to His grace. I am a product of His grace.',
-        'T. B. Joshua',
+    '7224383c-0848-5191-b5a9-2fb4980e29cc' => [
+        'I grew up in a big family with a lot of kids around, and I definitely want to have children as well.',
+        'Heidi Klum',
     ],
-    [
-        'I pray God may preserve your health and life many years.',
-        'Junipero Serra',
+    'da9885a1-27d4-50d7-b8ed-b413c237b80e' => [
+        'I come from a poor family.',
+        'Manny Pacquiao',
     ],
-    [
-        'Temperance is essential, if the services of men and women are to be employed to the best and most useful effect according, to the physical capacity and ability of each. Nothing less will assure a total effort.',
-        'William Lyon Mackenzie King',
+    '90813278-e72a-500f-816b-a7e18e3379a2' => [
+        'I\'m all about your mindset, being focused, staying positive, being optimistic, and knowing that these are all aspects of my life that I love and enjoy.',
+        'Kyla Pratt',
     ],
-    [
-        'I\'m really not that funny in real life! But I am the best audience one could find. I love to laugh.',
-        'Carol Burnett',
+    '290ddf36-0c8b-5946-a593-6cbef453cdbb' => [
+        'Encourage good music and art and literature in your homes. Homes that have a spirit of refinement and beauty will bless the lives of your children forever.',
+        'Ezra Taft Benson',
     ],
-    [
-        'I won\'t be a rock star. I will be a legend.',
-        'Freddie Mercury',
+    'ff97c2fe-dd7f-5422-a42b-703ba426f789' => [
+        'No amount of law enforcement can solve a problem that goes back to the family.',
+        'J. Edgar Hoover',
     ],
-    [
-        'He who knows no hardships will know no hardihood. He who faces no calamity will need no courage. Mysterious though it is, the characteristics in human nature which we love best grow in a soil with a strong mixture of troubles.',
-        'Harry Emerson Fosdick',
+    'c8294e3d-d54e-564f-b00c-808b34daebce' => [
+        'Divine Nature gave the fields, human art built the cities.',
+        'Marcus Terentius Varro',
     ],
-    [
-        'I walk tall; I got a tall attitude.',
-        'Dolly Parton',
+    '165d7e74-061a-58bb-97d1-dad16e4b1019' => [
+        'The saddest thing that can happen to a person is to find out their memories are lies.',
+        "Juan Gabriel V\u{e1}squez",
     ],
-    [
-        'The exercise of an extraordinary gift is the supremest pleasure in life.',
-        'Mark Twain',
+    'f00fc123-315b-5c4f-901d-d085aa07f5d6' => [
+        'I had to create some good work habits and attitude.',
+        'S. Truett Cathy',
     ],
-    [
-        'If you\'re looking for can-do, earthy-crunchy attitude then you\'ve got to go to Wisconsin.',
-        'Dar Williams',
+    '7b375997-2849-5b31-b19c-080f5db89d41' => [
+        'By \'justice\', I understand nothing more than that bond which is necessary to keep the interest of individuals united, without which men would return to their original state of barbarity. All punishments which exceed the necessity of preserving this bond are, in their nature, unjust.',
+        'Cesare Beccaria',
     ],
-    [
-        'Always work hard. Intensity clarifies. It creates not only momentum, but also the pressure you need to feel either friction, or fulfillment.',
-        'Marcus Buckingham',
+    '96d6cac9-0960-56dd-acea-1815505c2fad' => [
+        'No, I like to wear as least amount of makeup as I can during my everyday life because I\'m just all about keeping my skin healthy and hydrated and I love to laugh and have a great time and smile - that\'s when I feel the most pretty so I just want to make sure that I stay happy.',
+        'Lily Collins',
     ],
-    [
-        'Change your thoughts and you change your world.',
-        'Norman Vincent Peale',
+    '18f19995-7465-56b1-a792-8613b4763eaa' => [
+        'It\'s not comfortable for me to write about my family. I\'m not comfortable writing about me.',
+        'Karl Rove',
     ],
-    [
-        'The only real failure in life is not to be true to the best one knows.',
-        'Buddha',
+    '423a2d14-c3bc-5178-885c-a5589fc3b521' => [
+        'You have a lot of ups and downs in coaching, especially, but I can\'t remember any bad times at this point. I mean, they\'re all good. A lot of tears when you lose, a lot of down times, but I can\'t remember any of them. They\'re all positive now. Even the bad times were good.',
+        'Don Nelson',
     ],
-    [
-        'I can only control my own performance. If I do my best, then I can feel good at the end of the day.',
-        'Michael Phelps',
+    'c0d2a8e9-676a-590e-af6d-510d526b8148' => [
+        'To get away from one\'s working environment is, in a sense, to get away from one\'s self; and this is often the chief advantage of travel and change.',
+        'Charles Horton Cooley',
     ],
-    [
-        'Decide that you want it more than you are afraid of it.',
-        'Bill Cosby',
+    '6327d707-0d27-5f44-803e-fbc975025c75' => [
+        'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
+        'Aldous Huxley',
     ],
-    [
-        'I think the issue of North Korea is one where the international community as a whole has to work to resolve the crisis.',
-        'Helen Clark',
+    '1971c8ba-6341-5058-be0c-0bd0b8656c0c' => [
+        'I work hard. I focus on myself and putting food on my dinner table before anything else. I don\'t worry about other artists. Worrying about the next person in a negative way is the wrong way to be.',
+        'Meek Mill',
     ],
-    [
-        'Obviously social media has had a massive impact on the fame game, but not in a positive way. But it can be for some.',
-        'Margot Robbie',
+    '1c57c850-ec1e-582d-b24c-6fc0af5724a1' => [
+        'When I was a little kid, I wrote this play about all these characters living in a haunted house. There was a witch who lived there, and a mummy. When they were all hassling him, this guy who bought the house - I can\'t believe I remember this - he said to them, \'Who\'s paying the mortgage on this haunted house?\' I thought that was really funny.',
+        'Mindy Kaling',
     ],
-    [
-        'It\'s funny: I always, as a high school teacher and particularly as a high school yearbook teacher, because yearbook staffs are 90 percent female, I got to sit in and overhear teenage girl talk for many years. I like teenage girls; I like their drama, their foibles. And I think, \'I\'ll be good with a teenage daughter!\'',
-        'Rob Thomas',
+    '13d05607-3dc2-5bcc-88f8-12220785b03f' => [
+        'Every job has its downside. For example, being in a band; the travel part of it - getting picked up from your house in a car, going to the airport, getting on a plane, going from the airplane to a van, then going from the van to a hotel.',
+        'Dave Lombardo',
     ],
-    [
-        'One travels more usefully when alone, because he reflects more.',
-        'Thomas Jefferson',
+    '1100639a-2b1c-5c34-9fb0-e5713af7d1da' => [
+        'Many people spend more time in planning the wedding than they do in planning the marriage.',
+        'Zig Ziglar',
     ],
-    [
-        'All men\'s souls are immortal, but the souls of the righteous are immortal and divine.',
-        'Socrates',
+    '0c3345ce-413d-5e8e-acd0-c534425663c1' => [
+        'The best thing about animals is that they don\'t talk much.',
+        'Thornton Wilder',
     ],
-    [
-        'I never could have achieved the success that I have without setting physical activity and health goals.',
-        'Bonnie Blair',
+    '9f3ed25a-fbc1-53ee-a13a-f778be468b2f' => [
+        'Great things are done by a series of small things brought together.',
+        'Vincent van Gogh',
     ],
-    [
-        'The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.',
-        'Michelangelo',
+    '5bd001c5-db12-53d4-a1e3-a0c11f288b2c' => [
+        'Each time dawn appears, the mystery is there in its entirety.',
+        'Rene Daumal',
     ],
-    [
-        'If you have only one smile in you give it to the people you love.',
-        'Maya Angelou',
+    '3144a83d-9c97-5730-90d9-0be53eaf1d5b' => [
+        'If you\'re going to do something, you\'re going to do it to be the best.',
+        'Colin Kaepernick',
     ],
 ];

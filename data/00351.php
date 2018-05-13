@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I believe that one key to success is to accept truth, no matter how it\'s spoken.',
-        'Robert Kiyosaki',
+    '2a92e90a-a8f4-5a02-8306-d5a4d797e9c2' => [
+        'Someone told me I had funny facial expressions. I don\'t know whether I take that as a compliment or not, but.',
+        'Lucy Punch',
     ],
-    [
-        'Time, the devourer of all things.',
-        'Ovid',
+    '4ba691cd-c20a-57d4-8950-202474814654' => [
+        'I love getting the pontoon boat out, and I don\'t get to do it as much anymore. If I know in two weeks or a month from now I\'ve got three days off, I can start planning for that stuff, getting out there with friends and family and relaxing, just floating around and hanging out.',
+        'Blake Shelton',
     ],
-    [
-        'When you have got an elephant by the hind legs and he is trying to run away, it\'s best to let him run.',
-        'Abraham Lincoln',
+    '133bba1c-72bf-5dd2-8f12-e111c22878e7' => [
+        'You don\'t want to have to come into work on Monday already apologizing. I try to save my apologies for what I\'ve done later in the week.',
+        'Ike Barinholtz',
     ],
-    [
-        'Work on good prose has three steps: a musical stage when it is composed, an architectonic one when it is built, and a textile one when it is woven.',
-        'Walter Benjamin',
+    '4a84fef8-6088-5159-8676-0934602d0aba' => [
+        'There\'s been so many different types of musicals, and it\'s a funny genre because there\'s a fine line between clever and stupid. It really takes a genius to know how to do it.',
+        'Melissa Etheridge',
     ],
-    [
-        'Americans try to talk about positive family values, although the actual state of things is disastrous.',
-        'Vladimir Zhirinovsky',
+    'f1621d67-c6fd-5df1-9389-011af41771af' => [
+        'Truth is, I cut my hair for freedom, not for beauty.',
+        'Chrisette Michele',
     ],
-    [
-        'President Obama called for a \'we\' nation in his Inauguration Address. Art convenes. It is not just inspirational. It is aspirational. It pricks the walls of our compartmentalized minds, opens our hearts and makes us brave. And that\'s what we need most in our country today.',
-        'Anna Deavere Smith',
+    '0b6be833-194d-50f6-a828-0f80c72e2ea9' => [
+        'My attitude goes back to my childhood. I used to audition for theatrical roles, and you can\'t stand out in a room full of ambitious eight-year-old girls by acting the wallflower. I realised then that I couldn\'t do things half-heartedly.',
+        'Jessie J',
     ],
-    [
-        'The man on top of the mountain didn\'t fall there.',
+    'ceca7ddf-6998-5566-b2b5-dd72b1681bed' => [
+        'This June, I\'ll travel once again to the Food and Wine Magazine Classic in Aspen, Colorado. For many years, my dear friend Julia Child and I have teamed up to teach classes together at the event; for the past seven years, my daughter, Claudine, has been my cooking partner on stage.',
+        'Jacques Pepin',
+    ],
+    '33aaea79-b770-5cac-a930-294d96dfebad' => [
+        'Dont let someone else\'s opinion of you become your reality.',
+        'Les Brown',
+    ],
+    '4c11f5ef-3b14-5027-be2a-6d16c0978fd9' => [
+        'Age and size are only numbers. It\'s the attitude you bring to clothes that make the difference.',
+        'Donna Karan',
+    ],
+    'babd7dc9-e899-5276-a5e7-62a756df2d5f' => [
+        'Never cut a tree down in the wintertime. Never make a negative decision in the low time. Never make your most important decisions when you are in your worst moods. Wait. Be patient. The storm will pass. The spring will come.',
+        'Robert H. Schuller',
+    ],
+    '7cd446ac-e3b0-5168-8da5-90277105cabe' => [
+        'Impossible is a word to be found only in the dictionary of fools.',
+        'Napoleon Bonaparte',
+    ],
+    '22355742-f276-5e32-94b7-d710a0c79def' => [
+        'A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies.',
+        'Confucius',
+    ],
+    'dffbf62d-fdcc-5d3b-8e3f-55db1c235b8a' => [
+        'I\'ve followed Leeds since I was a little kid. I used to come home from sport in the afternoon, me and my brother, and watch \'Match of the Day.\' I love the club. I want nothing but success for the club.',
+        'Russell Crowe',
+    ],
+    '24ccbd3c-f387-5887-8db9-f8c2b42d2d61' => [
+        'Belief in oneself is one of the most important bricks in building any successful venture.',
+        'Lydia M. Child',
+    ],
+    'ae8d5a45-e8f6-5866-b377-a0618aed62f1' => [
+        'Living at risk is jumping off the cliff and building your wings on the way down.',
+        'Ray Bradbury',
+    ],
+    '630fa949-b60c-53fe-80b3-391f3c1255b8' => [
+        'A winner makes commitments. A loser makes promises.',
+        'Unknown',
+    ],
+    'c2bad761-c416-56ae-9937-9053fb5c90e6' => [
+        'I know some people say I can be funny. But there is always a deeper meaning to what I say. I am a socialist at heart and have the interests of the poor in mind. When people see how I manage to work my way out of tough situations, it gives them hope in their own life.',
+        'Lalu Prasad Yadav',
+    ],
+    '3120d75c-afb8-5888-8f07-b5ae7e20f1e1' => [
+        'In the long term we can hope that religion will change the nature of man and reduce conflict. But history is not encouraging in this respect. The bloodiest wars in history have been religious wars.',
+        'Richard M. Nixon',
+    ],
+    '9a5cf87b-b01e-55cf-a721-4040580c373c' => [
+        'I don\'t work at being ordinary.',
+        'Paul McCartney',
+    ],
+    '3d5a7b56-1159-5db9-bca5-c9bc15403d3e' => [
+        'We say we want to create beauty, identity, quality, singularity. And yet, maybe in truth these cities that we have are desired. Maybe their very characterlessness provides the best context for living.',
+        'Rem Koolhaas',
+    ],
+    '7de2fd0c-21f4-5076-8c89-4d7bfe840371' => [
+        'One of the signs of a bad coworker is a pattern of persistent undermining - intentionally hindering a colleague\'s success, reputation, or relationships.',
+        'Adam Grant',
+    ],
+    '8daa7960-184e-59ee-8139-5fa40c79a85a' => [
+        'All our sweetest hours fly fastest.',
+        'Virgil',
+    ],
+    '1d25b200-2e6c-57d2-9c03-85c755e3e285' => [
+        'I fly economy. I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
+        'Gene Simmons',
+    ],
+    '60d3c17d-5539-598d-a1c2-49c5b37a0413' => [
+        'I walk tall; I got a tall attitude.',
+        'Dolly Parton',
+    ],
+    '46e5d591-f838-545d-a839-4c60827ef28f' => [
+        'If you\'ll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.',
         'Vince Lombardi',
-    ],
-    [
-        'Putting forward your positive energy connects you back to basic human values which we all share. Good Deeds Day shows that no matter the size of the gesture, a smile that brightens someone else\'s day or volunteering in your community, we can all take active part in making a difference.',
-        'Shari Arison',
-    ],
-    [
-        'About the time we can make the ends meet, somebody moves the ends.',
-        'Herbert Hoover',
-    ],
-    [
-        'Fashion is always of the time in which you live. It is not something standing alone. But the grand problem, the most important problem, is to rejeuvenate women. To make women look young. Then their outlook changes. They feel more joyous.',
-        'Coco Chanel',
-    ],
-    [
-        'Most people would assume my business success, and the wealth that comes with it, have brought me happiness. But I know I am successful, wealthy, and connected because I am happy.',
-        'Richard Branson',
-    ],
-    [
-        'I think my mother is my biggest influence. There are so many things I hate about her but at the same time I\'m thankful for her. All I know is that when I\'m a parent I want to be just like my mom. I can talk to my mom more than any of my friends could talk to their parents.',
-        'Nikki Reed',
-    ],
-    [
-        'I\'ve done a lot of albums and I kinda know when I\'m onto something that was inspirational for me to record and create, and this was one of those projects where I really enjoyed making the album.',
-        'Lee Ritenour',
-    ],
-    [
-        'Success in golf depends less on strength of body than upon strength of mind and character.',
-        'Arnold Palmer',
-    ],
-    [
-        'When the traveler goes alone he gets acquainted with himself.',
-        'Liberty Hyde Bailey',
-    ],
-    [
-        'To have the chance to see your music be elevated and to have almost universally positive response to that music, makes me feel better every day. I feel more confident and inspired, and that\'s fun.',
-        'John Legend',
-    ],
-    [
-        'Without music, life is a journey through a desert.',
-        'Aristotle',
-    ],
-    [
-        'I decided to fly through the air and live in the sunlight and enjoy life as much as I could.',
-        'John Burroughs',
-    ],
-    [
-        'Beauty is an outward gift, which is seldom despised, except by those to whom it has been refused.',
-        'Ralph Waldo Emerson',
-    ],
-    [
-        'In every conceivable manner, the family is link to our past, bridge to our future.',
-        'Alex Haley',
-    ],
-    [
-        'The secret of my success is that I make other people money. And, never ever, ever, ever be ashamed about trying to earn as much as possible for yourself, if the person you\'re working with is also making money. That\'s life!',
-        'Simon Cowell',
-    ],
-    [
-        'Most people work just hard enough not to get fired and get paid just enough money not to quit.',
-        'George Carlin',
-    ],
-    [
-        'There\'s a difference between being a comic and a comedian. A comic is a guy who says funny things, and a comedian is a guy who says things funny, and he has a style and point of view that will last much longer.',
-        'Milton Berle',
-    ],
-    [
-        'The essence of life is the smile of round female bottoms, under the shadow of cosmic boredom.',
-        'Guy de Maupassant',
-    ],
-    [
-        'If we can soften our hearts, and if we can access the pure and simple aspect of our nature, then we can regain the realization that everything we need is already inside us and anything is attainable.',
-        'Yehuda Berg',
     ],
 ];

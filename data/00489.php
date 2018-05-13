@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Poverty is about people lacking the tools they need to get on in life. And solving it is about tackling educational failure, antisocial behaviour, debt problems and addiction, and of course it\'s about work.',
-        'Theresa May',
+    '63ff0845-aeec-5df2-8ed5-5eb14163c0a6' => [
+        'If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.',
+        'Henry David Thoreau',
     ],
-    [
-        'In the family, in interpersonal relationships, even in friendship, faith is tremendously important. If you have a partner who you believe is a good person, then it is your duty to have faith in them until the end, despite the fact that they might have done some bad things. And you have to support and believe in your children.',
-        'Greg Graffin',
+    '2eead88e-46d0-5860-ab92-4fd2538e4b66' => [
+        'Life is a horizontal fall.',
+        'Khalil Gibran',
     ],
-    [
-        'Nature is a temple in which living columns sometimes emit confused words. Man approaches it through forests of symbols, which observe him with familiar glances.',
-        'Charles Baudelaire',
+    '54e875e8-9211-5f38-9ae1-e272229814b6' => [
+        'Strength of character may be learned at work, but beauty of character is learned at home.',
+        'Henry Drummond',
     ],
-    [
-        'I have so many indie bands on my iPod. What I don\'t really understand is the attitude that if a band is unknown, they\'re good, and if they get fans, then you move on to the next band.',
-        'Taylor Swift',
+    'a53804e2-5001-5813-8b77-20e66e6e0d07' => [
+        'I think it\'s huge that I\'m wearing my natural hair texture on ABC in prime time. As Dr. Rainbow Johnson on \'Black-ish,\' I think my hair is part of the reality of this woman\'s life. She has four children and is an anesthesiologist and a wife. She doesn\'t have a lot of time to fuss with beauty, so her look is pretty simple.',
+        'Tracee Ellis Ross',
     ],
-    [
-        'I used to really love Fiend, but he stopped. He just stopped. Every time he had a project, every project - \'There\'s One In Every Family,\' \'Street Life\' - I had to have them. And he just stopped. And that was disappointing, \'cause that was my favorite rapper at one time.',
-        'Kevin Gates',
+    '75615621-4532-5130-a538-3ceddfba3e30' => [
+        'A real entrepreneur is somebody who has no safety net underneath them.',
+        'Henry Kravis',
     ],
-    [
-        'When people divorce, it\'s always such a tragedy. At the same time, if people stay together it can be even worse.',
-        'Monica Bellucci',
+    '3c4d8d45-15dc-51f3-b300-3dd1abe0a0d1' => [
+        'There are people who have money and people who are rich.',
+        'Coco Chanel',
     ],
-    [
-        'Each person must live their life as a model for others.',
-        'Wayne Dyer',
+    '57602c23-38ba-54b4-9859-c86c00404432' => [
+        'What a man does for pay is of little significance. What he is, as a sensitive instrument responsive to the world\'s beauty, is everything!',
+        'H. P. Lovecraft',
     ],
-    [
-        'People don\'t know that when there is something running in my mind, I start smiling. If I\'m angry, I smile and blush.',
-        'Hansika Motwani',
+    'b17dc976-2ce8-5614-b651-035f5e4d8068' => [
+        'Men are disturbed not by things, but by the view which they take of them.',
+        'Epictetus',
     ],
-    [
-        'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
-        'Anatole France',
+    '63ba18e0-2b0a-5467-b42e-73e86c92fd25' => [
+        'One out of every 100 American men is HIV positive. The rate of infection has reached epidemic proportions in 40 developing nations.',
+        'Philip Emeagwali',
     ],
-    [
-        'The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.',
-        'Ben Okri',
+    '7c657b09-9f97-5199-9765-f6a2000043f3' => [
+        'Therefore, if one were to consider that there was virtually no possibility of success through the US-Japan negotiations, the military and economic pressures would only force Japan into further crisis if time were allowed to pass in vain.',
+        'Hideki Tojo',
     ],
-    [
-        'Imagine all the people living life in peace. You may say I\'m a dreamer, but I\'m not the only one. I hope someday you\'ll join us, and the world will be as one.',
-        'Dalai Lama',
+    '558f2130-0273-5441-8765-725040bbf576' => [
+        'Do what you need to do and enjoy life as it happens.',
+        'Pauline Kael',
     ],
-    [
-        'I\'m glad I was born when I was. My time was the golden age of variety. If I were starting out again now, maybe things would happen for me, but it certainly would not be on a variety show with 28 musicians, 12 dancers, two major guest stars, 50 costumes a week by Bob Mackie. The networks just wouldn\'t spend the money today.',
-        'Carol Burnett',
+    'e9f6ce39-908c-5a0c-ab00-0fee66f6f8c8' => [
+        'Nature is my springboard. From her I get my initial impetus. I have tried to relate the visible drama of mountains, trees, and bleached fields with the fantasy of wind blowing and changing colors and forms.',
+        'Milton Avery',
     ],
-    [
-        'Blue thou art, intensely blue; Flower, whence came thy dazzling hue?',
-        'James Montgomery',
+    '3079bf72-6457-5b30-80ef-988fdf2d1d4c' => [
+        'Life moves so fast. You gotta document the good times, man.',
+        'Nas',
     ],
-    [
-        'My hobbies include maintaining my physical and mental health. It\'s a full-time job. Yoga definitely helps for both of them. I\'m a big fan of relaxing and not having a schedule. That\'s my best way to keep from going crazy.',
-        'Olivia Thirlby',
+    'e6994e5b-ccdf-534d-95c9-d8b642386445' => [
+        'In the stillness of your presence, you can feel your own formless and timeless reality as the unmanifested life that animates your physical form. You can then feel the same life deep within every other human and every other creature. You look beyond the veil of form and separation. This is the realization of oneness. This is love.',
+        'David Russell',
     ],
-    [
-        'You don\'t manage people; you manage things. You lead people.',
-        'Grace Hopper',
+    'cbcb4877-11c3-55d8-9f98-a261e5e59dfc' => [
+        'You dream. You plan. You reach. There will be obstacles. There will be doubters. There will be mistakes. But with hard work, with belief, with confidence and trust in yourself and those around you, there are no limits.',
+        'Michael Phelps, swimmer and Olympic gold medalist',
     ],
-    [
-        'Even with all the negativeness of the whole social media thing, I still think it\'s leaps and bounds more positive.',
-        'Luke Bryan',
+    '1bc153b1-1470-55d0-b08c-75606f5babe0' => [
+        'I think anyone who has a passion for what they love to do, and who pursue it, is inspirational for me.',
+        'Colin Morgan',
     ],
-    [
-        'Family, nature and health all go together.',
-        'Olivia Newton-John',
+    '866c7414-4886-5ea9-9ae5-66761dab274a' => [
+        'I hope people remember me as a good and decent man. And if they do, then that\'s success.',
+        'Tim Cook',
     ],
-    [
-        'The moment you cheat for the sake of beauty, you know you\'re an artist.',
-        'David Hockney',
+    '02ca8620-dd64-585a-bc72-b924c8192166' => [
+        'If you don\'t mind, it doesn\'t matter.',
+        'Jack Benny',
     ],
-    [
-        'With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.',
-        'Keshavan Nair',
+    '03763aaf-2231-50eb-8a19-0f2e2bca4114' => [
+        'Family life is fragmenting in this modern age, but it\'s up to all of us to keep it together.',
+        'Mary Berry',
     ],
-    [
-        'Success is a terrible thing and a wonderful thing. If you can enjoy it, it\'s wonderful. If it starts eating away at you, and they\'re waiting for more from me, or what can I do to top this, then you\'re in trouble. Just do what you love. That\'s all I want to do.',
-        'Gene Wilder',
+    '17a233ab-0a3d-502a-a6d2-336a2c4bae3f' => [
+        'What is certain is that singing is not merely modulating a song by means of the voice: we sing and we celebrate the beauty that we can grow and live every day. If you want to sing and give emotions to those who are listening, you must have something to tell through your singing; you have to use singing like an instrument to tell something.',
+        'Andrea Bocelli',
     ],
-    [
-        'If you can\'t explain it simply, you don\'t understand it well enough.',
-        'Albert Einstein',
+    'e0b688d6-25b6-5d49-916c-f86338bd72fe' => [
+        'There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.',
+        'Jiddu Krishnamurti',
     ],
-    [
-        'Your performance depends on your people. Select the best, train them and back them. When errors occur, give sharper guidance. If errors persist or if the fit feels wrong, help them move on. The country cannot afford amateur hour in the White House.',
-        'Donald Rumsfeld',
+    '21d12979-08f0-5f3f-a984-f18ae1b5efca' => [
+        'I\'ve done a lot of albums and I kinda know when I\'m onto something that was inspirational for me to record and create, and this was one of those projects where I really enjoyed making the album.',
+        'Lee Ritenour',
     ],
-    [
-        'What you do on travel holiday is what your memories are based on. People want to do cool stuff, and this is what will shape your entire experience.',
-        'Ruzwana Bashir',
+    '354c7197-5c25-5a3a-999d-adb9d1e3e716' => [
+        'Really, at the end of the day, the only thing you can control is yourself; the only person you can truly educate is yourself. You have to redefine what beauty is to you so you can\'t be affected by what people are saying.',
+        'Rupi Kaur',
     ],
-    [
-        'There have been some positive things that have happened for the tribes, but it\'s a constant, vigilant fight about protecting what resources we have in terms of land and rights.',
-        'John Trudell',
+    'a57e18e7-84b7-57ed-bb25-81980b0839b8' => [
+        'I looked up my family tree and found three dogs using it.',
+        'Rodney Dangerfield',
     ],
-    [
-        'The judge is not the knight-errant, roaming at will in pursuit of his own ideal of beauty or of goodness.',
-        'Benjamin N. Cardozo',
+    'c7395611-15e3-5535-b82a-7f958db69cb8' => [
+        'The best way for guys to communicate is just don\'t talk to each other for nine hours. That\'s why I like long motorcycle rides. It\'s a great way for guys to socialize and not socialize.',
+        'Justin Theroux',
     ],
 ];

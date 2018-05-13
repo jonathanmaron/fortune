@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Fishes live in the sea, as men do a-land; the great ones eat up the little ones.',
-        'William Shakespeare',
+    '820b37f1-f623-5a47-8238-cac6687372de' => [
+        'Healing is a matter of time, but it is sometimes also a matter of opportunity.',
+        'Hippocrates',
     ],
-    [
-        'Every person who wins in any undertaking must be willing to cut all sources of retreat. Only by doing so can one be sure of maintaining that state of mind known as a burning desire to win - essential to success.',
-        'Napoleon Hill',
+    'b96968ad-6d03-5432-80ed-16f9acfca910' => [
+        'We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.',
+        'Anne Roiphe',
     ],
-    [
-        'The main thing is to be moved, to love, to hope, to tremble, to live.',
-        'Auguste Rodin',
+    '135fb8d6-ebe2-50f1-bcbb-3cf3d09383d3' => [
+        'Sometimes you need to push people into the deep for some people will never learn to swim if they\'ve never been taught how it feels to drown',
+        'Shaan Ahmed',
     ],
-    [
-        'Be the reason someone smiles today.',
-        'Anonymous',
+    '1905547a-fc7a-546d-b394-33105c23631d' => [
+        'The stars, that nature hung in heaven, and filled their lamps with everlasting oil, give due light to the misled and lonely traveller.',
+        'John Milton',
     ],
-    [
-        'Work is much more fun than fun.',
-        'Noel Coward',
+    '6f72fe4d-76db-5c42-88ec-0a0240d406ed' => [
+        'Beauty is grace and confidence. I\'ve learned to accept and appreciate what nature gave me.',
+        'Lindsay Lohan',
     ],
-    [
-        'President Obama has basically avoided or not done any attempt to intervene in any positive way in the housing market. I think in the financial crisis that\'s been a shame.',
-        'Glenn Hubbard',
+    'daff9e03-e67e-55fe-bb52-031d644db6e4' => [
+        'I\'m a very positive thinker, and I think that is what helps me the most in difficult moments.',
+        'Roger Federer',
     ],
-    [
-        'I\'m tired of all this nonsense about beauty being skin deep. That\'s deep enough. What do you want, an adorable pancreas?',
-        'Jean Kerr',
+    'd9301a29-ed87-5c56-883c-1e2713c461d2' => [
+        'Rome is the city of echoes, the city of illusions, and the city of yearning.',
+        'Giotto di Bondone',
     ],
-    [
-        'I\'ve thought it would be cool to have a baby young. You know, be my road dog - like my dogs, they travel the world - but there\'s always something you have to give up for success. Everything comes at a cost. Just what are you willing to pay for it?',
-        'Serena Williams',
+    'c4575781-f443-5529-a110-a3a5386caab1' => [
+        'The person that\'s always talkin\', you don\'t have to worry about that person. The person that while you\'re in his face, he\'s just lookin\' at you with a smile on his face, that\'s the guy you worry about.',
+        'Michael Clarke Duncan',
     ],
-    [
-        'Every man regards his own life as the New Year\'s Eve of time.',
-        'Emily Dickinson',
+    '8e140853-a162-5ce5-a581-e7c146bd65d8' => [
+        'No matter what the recipe, any baker can do wonders in the kitchen with some good ingredients and an upbeat attitude!',
+        'Buddy Valastro',
     ],
-    [
-        'Our passion is our strength.',
-        'Billie Armstrong',
+    'cd35f3e1-87c0-5311-a664-cefc94047b7b' => [
+        'There are two ways to worry words. One is hoping for the greatest possible beauty in what is created. The other is to tell the truth.',
+        'June Jordan',
     ],
-    [
-        'Nature\'s music is never over; her silences are pauses, not conclusions.',
-        'Mary Webb',
+    'ec5d46a4-8500-564a-bff5-c0ca68197d7d' => [
+        'Grace is in garments, in movements, in manners; beauty in the nude, and in forms. This is true of bodies; but when we speak of feelings, beauty is in their spirituality, and grace in their moderation.',
+        'Joseph Joubert',
     ],
-    [
-        'Give thanks for a little and you will find a lot.',
-        'Hausa',
+    'db0070be-d45d-5be6-b1a5-235db5ffa38e' => [
+        'Funny is a good foil. Humor is illuminating, and it also gives you power.',
+        'J. Tillman',
     ],
-    [
-        'The power of intuitive understanding will protect you from harm until the end of your days.',
-        'Laozi',
+    'e68d4450-ebf2-5370-90a4-e3fc5ec92841' => [
+        'Never bend your head. Always hold it high. Look the world right in the eye.',
+        'Helen Keller',
     ],
-    [
-        'Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around.',
-        'A. P. J. Abdul Kalam',
+    '7e262324-370c-522b-984e-0bdbbf1e6e3b' => [
+        'There is no failure except in no longer trying.',
+        'Elbert Hubbard',
     ],
-    [
-        'Power, that\'s one thing, but love of family and of siblings is more important, is more powerful than any other power - at least earthly power, at least earthly power.',
-        'Sander Levin',
+    '720f4b90-3d33-5e90-ab5b-14e33b4165a3' => [
+        'My label, my team and I are always looking to get involved with positive things.',
+        'Sevyn Streeter',
     ],
-    [
-        'I think we\'re going to the moon because it\'s in the nature of the human being to face challenges. It\'s by the nature of his deep inner soul... we\'re required to do these things just as salmon swim upstream.',
-        'Neil Armstrong',
+    '7172c806-16cb-59db-bf99-96758133593f' => [
+        'Life is without meaning. You bring the meaning to it. The meaning of life is whatever you ascribe it to be. Being alive is the meaning.',
+        'Katrina Kaif',
     ],
-    [
-        'True leaders don\'t invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people.',
-        'Myles Munroe',
+    '6f878ec0-2be7-5ead-a863-d364dfeff03d' => [
+        'Spring is when you feel like whistling even with a shoe full of slush.',
+        'Doug Larson',
     ],
-    [
-        'Antigravity, teleportation, time travel, energetic DNA evolution and consciousness transformation could create a world few of us ever even dreamed of.',
-        'David Wilcock',
+    '520af79d-ce59-5fbe-9193-a5509261c184' => [
+        'Every day is intense and alive, whether it\'s travel, work, even down time, which there is so little of.',
+        'Josh Lucas',
     ],
-    [
-        'The best way to look at any business is from the standpoint of the clients.',
-        'Jamie Dimon',
+    'e3119cba-cc2f-51a6-8bdf-e2b6f452b811' => [
+        'Someone is sitting in the shade today because someone planted a tree a long time ago.',
+        'Warren Buffett',
     ],
-    [
-        'Emotional self-control is the result of hard work, not an inherent skill.',
-        'Travis Bradberry',
+    '7d08c38e-c6ee-5b4d-a3df-e72123c35414' => [
+        'Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.',
+        'Dr. David M. Burns',
     ],
-    [
-        'When I was doing \'Smile,\' I was looking back at pictures of myself and going, \'Thank goodness I couldn\'t do the sprayed-bangs thing! Everybody\'s so embarrassed by that hairstyle now, but I was never cool enough to pull it off!\'',
-        'Raina Telgemeier',
+    'ff09cadc-ad19-5d8b-8316-7de7f5933fa0' => [
+        'I think I\'ve discovered the secret of life - you just hang around until you get used to it.',
+        'Vince Lombardi',
     ],
-    [
-        'We do not see nature with our eyes, but with our understandings and our hearts.',
-        'William Hazlitt',
+    '6615abd2-c96f-536a-8c70-9e10d40e1bd7' => [
+        'No matter what a woman\'s appearance may be, it will be used to undermine what she is saying and taken to individualize - as her personal problem - observations she makes about the beauty myth in society.',
+        'Naomi Wolf',
     ],
-    [
-        'Winners embrace hard work. They love the discipline of it, the trade-off they\'re making to win. Losers, on the other hand, see it as punishment. And that\'s the difference.',
-        'Lou Holtz',
+    'b96391d1-aa5d-5a83-a2ae-65cd366c8c61' => [
+        'A year or so ago I went through all the people in my life and asked myself: does this person inspire me, genuinely love me and support me unconditionally? I wanted nothing but positive influences in my life.',
+        'Mena Suvari',
     ],
-    [
-        'Sometimes we may ask God for success, and He gives us physical and mental stamina. We might plead for prosperity, and we receive enlarged perspective and increased patience, or we petition for growth and are blessed with the gift of grace. He may bestow upon us conviction and confidence as we strive to achieve worthy goals.',
-        'David A. Bednar',
+    'a309c39f-aecc-5a9b-8b80-a0ab77dd5298' => [
+        'Creativity Is Intelligence Having Fun.',
+        'Albert Einstein',
     ],
-    [
-        'The success of the young entrepreneur will be the key to India\'s transformation in the new millennium.',
-        'Dhirubhai Ambani',
+    '4e1596d4-ad79-5687-afc1-20f6131a8417' => [
+        'Common sense would suggest that having ability, like being smart, inspires confidence. It does, but only while the going is easy. The deciding factor in life is how you handle setbacks and challenges. People with a growth mindset welcome setbacks with open arms.',
+        'Ezra Taft Benson',
     ],
 ];

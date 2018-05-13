@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Our life is the sum total of all the decisions we make every day, and those decisions are determined by our priorities.',
-        'Robert Stigwood',
+    'baa3e9ea-a313-50b7-96df-824f8f94eae5' => [
+        'The greatest minds are capable of the greatest vices as well as of the greatest virtues.',
+        'Rene Descartes',
     ],
-    [
-        'If you don\'t have time to do it right, when will you have time to do it over?',
-        'John Wooden',
+    'b39d10bf-2139-51d0-a7a5-12e174a773bb' => [
+        'We Generate Fears While We Sit. We Overcome Them By Action.',
+        'Dr. Henry Link',
     ],
-    [
-        'March on. Do not tarry. To go forward is to move toward perfection. March on, and fear not the thorns, or the sharp stones on life\'s path.',
-        'Khalil Gibran',
+    '5c946795-b437-5b69-ae92-ce2aedfaa268' => [
+        'There were interesting ways that queerness could hide out and get played out pre-Stonewall. It is part of a vast history that is getting forgotten quickly as we trumpet forward into gay marriage and gays in the military and a much different cultural attitude toward gay lives.',
+        'Todd Haynes',
     ],
-    [
-        'When you reach the end of your rope, tie a knot in it and hang on.',
-        'Franklin D. Roosevelt',
+    '860eef1b-cb7c-5c59-aa87-e49b21d57a7b' => [
+        'We choose our destiny in the way we treat others.',
+        'Wit',
     ],
-    [
-        'There is a vitality, a life force, an energy, a quickening, that is translated through you into action, and because there is only one of you in all time, this expression is unique.',
-        'Martha Graham',
+    '77d59c91-8062-57a2-9f35-0de9b9eaac7f' => [
+        'Be the reason someone smiles today.',
+        'Anonymous',
     ],
-    [
-        'Water is life, and clean water means health.',
-        'Lawrence Welk',
+    '4aefbc3e-6d60-5856-ac9a-13b87248d2b3' => [
+        'You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations.',
+        'Zig Ziglar',
     ],
-    [
-        'Don\'t make being a girl or a victim part of your stand-up act. If you encounter sexism in the business, don\'t bring it on stage; it\'s not funny.',
-        'Jen Kirkman',
+    '93fc1677-f380-5c49-9007-ffb40a909aad' => [
+        'When I work fourteen hours a day, seven days a week, I get lucky.',
+        'Armand Hammer',
     ],
-    [
-        'Time is the father of truth, its mother is our mind.',
-        'Giordano Bruno',
+    '01d3fc6e-88f4-59a6-9912-bcc59646bfe0' => [
+        'In the time of darkest defeat, victory may be nearest.',
+        'William McKinley',
     ],
-    [
-        'The workingmen have perceived that women are in the field of industry to stay; and they see, too, that there can not be two standards of work and wages for any trade without constant menace to the higher standard.',
-        'Florence Kelley',
+    '2d1d2f32-1a20-54e2-9f47-aef2d7ec42c5' => [
+        'Don\'t walk through life just playing football. Don\'t walk through life just being an athlete. Athletics will fade. Character and integrity and really making an impact on someone\'s life, that\'s the ultimate vision, that\'s the ultimate goal - bottom line.',
+        'Albert Einstein',
     ],
-    [
-        'Happiness resides not in possessions, and not in gold, happiness dwells in the soul.',
-        'Democritus',
+    '4516fb24-3b57-57f2-9cde-942a4f466027' => [
+        'I\'m a happy guy. I just want to see people laugh and smile.',
+        'Gerry Cooney',
     ],
-    [
-        'I think my attitude to human beings has changed since leaving prison.',
-        'Jeffrey Archer',
+    'a81c240f-e9a6-52c9-be0e-41a5cc1ac6d1' => [
+        'If you look at human society, it is very easy, of course, to compare our warfare and territoriality with the chimpanzee. But that\'s only one side of what we do. We also trade, we intermarry, we allow each other to travel through our territory. There\'s an enormous amount of cooperation.',
+        'Frans de Waal',
     ],
-    [
-        'The story of \'Highway\' is completely about travel. It is about the fascination of travel to an extent that I don\'t want to even reach the destination and also being away from society gives you a certain view of the society, so that was the intention of the film.',
-        'Imtiaz Ali',
+    'c416e98e-e298-5bb9-a6d2-bd8a19a2c16a' => [
+        'The best way to afford a suit is to work.',
+        'Emmanuel Macron',
     ],
-    [
-        'Practice yourself, for heavens sake in little things, and then proceed to greater.',
-        'Epictetus',
+    'c70066ba-6f7f-593d-97bf-9aa298b2330a' => [
+        'Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.',
+        'Winston Churchill',
     ],
-    [
-        'For what the horse does under compulsion, as Simon also observes, is done without understanding; and there is no beauty in it either, any more than if one should whip and spur a dancer.',
-        'Xenophon',
+    '92b89c2e-d760-58b3-91c8-2102dca1396d' => [
+        'We could never learn to be brave and patient if there were only joy in the world.',
+        'Helen Keller',
     ],
-    [
-        'You are always free to change your mind and choose a different future, or a different past.',
+    '14b0a9fe-9077-5567-9b1c-23baf8bd5f94' => [
+        'Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.',
+        'Ralph Emerson',
+    ],
+    '419f48d5-7fa2-592d-a708-00d7bad06a31' => [
+        'I have a family to support. And I\'m not always going to be doing exactly what I want to do.',
+        'Patrick Warburton',
+    ],
+    '2f83b22c-9ae3-5cba-ba8d-e80bf42827cc' => [
+        'People need to realise what real happiness and success is, because success as an actor is fleeting. You can be up there one day and gone the next.',
+        'Chuck Norris',
+    ],
+    'b190adc7-7dd4-52cb-863c-96f8b150196e' => [
+        'Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind.',
+        'Henri Frederic Amiel',
+    ],
+    'f43484c8-720c-5869-b878-8726a151e384' => [
+        'No matter what people tell you, words and ideas can change the world.',
+        'Robin Williams',
+    ],
+    '2a3016cb-0ed8-50e1-8d5e-81492a784455' => [
+        'Success is a consequence and must not be a goal.',
+        'Gustave Flaubert',
+    ],
+    'ed7acdb3-d87c-53d2-82cf-ebe4e7553408' => [
+        'I was going through a little bit of turbulence in my career. And so, it\'s funny how turbulence itself will make you hold onto something for security. And so the only thing I knew is trust in the Lord and lean not unto your own heart, in all thy ways acknowledge him and he shall direct thy path.',
+        'Emmitt Smith',
+    ],
+    '42441977-0942-587b-a753-a3ca4e32468b' => [
+        'Argue for your limitations, and sure enough they\'re yours.',
         'Richard Bach',
     ],
-    [
-        'Each success only buys an admission ticket to a more difficult problem.',
-        'Henry Kissinger',
+    'd5a66776-9c0c-5207-80d4-878d55bf845c' => [
+        'Economy is the basis of society. When the economy is stable, society develops. The ideal economy combines the spiritual and the material, and the best commodities to trade in are sincerity and love.',
+        'Morihei Ueshiba',
     ],
-    [
-        'Parrots make great pets. They have more personality than goldfish.',
-        'Chevy Chase',
+    '2c7b9c69-66f1-54a9-9bf5-7c5eb2536edf' => [
+        'I don\'t take success and failure seriously. The only thing I do seriously is march forward. If I fall, I get up and march again.',
+        'Kareena Kapoor Khan',
     ],
-    [
-        'I don\'t know, maybe I\'m immature, but I still find it funny if I dump cold water on my girlfriend when she\'s in the shower.',
-        'Daniel Tosh',
-    ],
-    [
-        'On a cosmic scale, our life is insignificant, yet this brief period when we appear in the world is the time in which all meaningful questions arise.',
-        'Paul Ricoeur',
-    ],
-    [
-        'Point-to-point transit via low orbit could dramatically speed up international flights, connecting the world even further. And safe, consistent space travel opens up the possibility of commercial space stations, trips to the moon and exploration beyond.',
-        'Ben Parr',
-    ],
-    [
-        'I\'m a really nice guy when you meet me, and that surprises a lot of people. I\'m not that eccentric in real life - and certainly not that disrespectful. In my own time, I like to just chill out with friends and not get in people\'s faces.',
-        'KSI',
-    ],
-    [
-        'Two years work wasted, I have been breeding those flies for all that time and I\'ve got nothing out of it.',
-        'Thomas Hunt Morgan',
-    ],
-    [
-        'Everyone can have their heart broken. Even if you know the relationship isn\'t working, it\'s still sad. Even in a bad relationship, they\'re part of your life for a long time, and saying goodbye to that can be difficult.',
-        'James Marsden',
-    ],
-    [
-        'It got very tedious saying the same jokes in the same way with the same attitude.',
-        'Norm MacDonald',
-    ],
-    [
-        'Nature hasn\'t gone anywhere. It is all around us, all the planets, galaxies and so on. We are nothing in comparison.',
-        'Bjork',
+    'a1d3d74f-5742-5483-9292-77517ab0caa7' => [
+        'Waste no more time arguing about what a good man should be. Be one.',
+        'Marcus Aurelius',
     ],
 ];

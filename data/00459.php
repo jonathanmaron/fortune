@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'We all know how we can be turned around by a magic place; that\'s why we travel, often. And yet we all know, too, that the change cannot be guaranteed. Travel is a fool\'s paradise, Emerson reminded us, if we think that we can find anything far off that we could not find at home.',
-        'Pico Iyer',
+    'ad355541-75b2-572a-9930-1fdbb3f62be9' => [
+        'They thought I was a success as soon as I started paying the bills.',
+        'Mahalia Jackson',
     ],
-    [
-        'Transparency, honesty, kindness, good stewardship, even humor, work in businesses at all times.',
-        'John Gerzema',
+    '8d996cbc-0c0c-56e1-a300-ca7d591d21e8' => [
+        'My mentality has always been, If I\'m not the best at something, then I might as well be the best at something else. I realized that I wasn\'t going to be an Olympic volleyball player, but I knew I could model at that level.',
+        'Gigi Hadid',
     ],
-    [
-        'I have a wonderful shelter, which is my family. I have a wonderful relationship with my brother and sister; this makes me feel that I know always where I belong.',
-        'Jose Carreras',
+    '49a23122-e879-52d8-bc41-f021f8e7d09f' => [
+        'Solar power, wind power, the way forward is to collaborate with nature - it\'s the only way we are going to get to the other end of the 21st century.',
+        'Bjork',
     ],
-    [
-        'The mystic cords of memory, stretching from every battlefield and patriot grave to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the angels of our nature.',
-        'Abraham Lincoln',
+    '2a04da85-4cc4-5b93-b44e-879203dc7d07' => [
+        'The place to improve the world is first in one\'s own heart and head and hands.',
+        'Robert M. Pirsig',
     ],
-    [
-        'Smile. It instantly lifts the face, and it just lights up the room.',
-        'Christie Brinkley',
+    'a3362d85-f67f-5731-93dd-5ed0dff91359' => [
+        'Suffering is the positive element in this world, indeed it is the only link between this world and the positive.',
+        'Franz Kafka',
     ],
-    [
-        'Indomitable perseverance in a business, properly understood, always ensures ultimate success.',
-        'Cyrus McCormick',
+    'e21e8d72-fc31-5c95-8563-453fab9e5ffb' => [
+        'Of course my family and friends are incredibly valuable to me. They keep me sane, they teach me things and I love spending time with them. I think that ranking what you value is a sort of western and linear way of looking at things.',
+        'Julia Stiles',
     ],
-    [
-        'Success is not a place at which one arrives but rather the spirit with which one undertakes and continues the journey.',
-        'Alex Noble',
+    '98bab4bd-a3fa-5839-9821-95eb5b6c26eb' => [
+        'I saw a woman wearing a sweatshirt with Guess on it. I said, Thyroid problem?',
+        'Arnold Schwarzenegger',
     ],
-    [
-        'Be positive and laugh at everything.',
-        'Alexandra Roach',
+    'ca71929e-067f-51f5-9356-ef5719abf4a1' => [
+        'The nose of a mob is its imagination. By this, at any time, it can be quietly led.',
+        'Edgar Allan Poe',
     ],
-    [
-        '\'A Court of Thorns and Roses\' was actually inspired by three of my all-time-favorite fairy/folktales: \'Beauty and the Beast,\' \'East of the Sun, West of the Moon\' and \'Tam Lin.\' I got the kernel of inspiration by wondering: \'What if \'Beauty\' was a huntress?\'',
-        'Sarah J. Maas',
+    '3976d67e-002a-5769-86e1-76c2cfeea099' => [
+        'I do this system called TRX. It was developed by a Navy SEAL and is basically a simple cord that you can wrap around something anywhere, anytime, and you use your body weight as resistance. We installed one in our home gym, but you can also attach it to a tree. It\'s very easy to travel with.',
+        'Elizabeth Banks',
     ],
-    [
-        'I like to put on hardcore when I have to clean my apartment, which I hate to do, but it\'s motivational. I like old heavy metal when I\'m outside working on my car. Music has definite functions for me.',
-        'Peter Steele',
+    '64f39380-4c68-5706-820f-456bf8e6f8db' => [
+        'Learning is a treasure that will follow its owner everywhere',
+        'Chinese proverb',
     ],
-    [
-        'My family background was deeply Christian.',
-        'Abbe Pierre',
+    'e8ace1ae-5ce5-5c5d-bc4f-054389687b8f' => [
+        'If I could travel back in time, I\'d bring back the entire Wu-Tang Clan.',
+        'Hannah Simone',
     ],
-    [
-        'Through my optimism I naturally prefer and capture the beauty in life.',
-        'Leni Riefenstahl',
+    '5f56cee6-e39d-5157-b0df-27809a8d0f08' => [
+        'Every flower is a soul blossoming in nature.',
+        'Gerard De Nerval',
     ],
-    [
-        'Hard work opens doors and shows the world that you are serious about being one of those rare - and special - human beings who use the fullness of their talents to do their very best.',
-        'Robin S. Sharma',
+    'e5a5bbe1-ac9d-5df4-a286-d9b4d9074f7c' => [
+        'Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.',
+        'Albert Schweitzer',
     ],
-    [
-        'Reality must take precedence over public relations, for nature cannot be fooled.',
-        'Richard P. Feynman',
+    'e642cb16-4233-5d6b-b25c-9f6a2eba9be2' => [
+        'Success is ... knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others.',
+        'John C. Maxwell',
     ],
-    [
-        'You cannot find yourself by going into the past. You can find yourself by coming into the present.',
-        'Eckhart Tolle',
+    'e129dd41-32c6-533e-9adb-8990ae9fc6b7' => [
+        'The best books... are those that tell you what you know already.',
+        'George Orwell',
     ],
-    [
-        'I\'ve three children, three grandchildren, I work, I travel, and I\'m very happily married. I\'m very satisfied and happy with my life and there really isn\'t anything I want.',
-        'Joan Collins',
+    '76c75729-00bb-5994-bc0a-edba7e57a197' => [
+        'In marriage do thou be wise: prefer the person before money, virtue before beauty, the mind before the body; then thou hast a wife, a friend, a companion, a second self.',
+        'William Penn',
     ],
-    [
-        'I don\'t care whether people like me or dislike me. I\'m not on earth to win a popularity contest. I\'m here to be the best human being I possibly can be.',
-        'Tab Hunter',
+    'd52b7d61-8c5f-5a66-94da-485af81552ee' => [
+        'To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else - means to fight the hardest battle which any human being can fight; and never stop fighting.',
+        'e. e. cummings',
     ],
-    [
-        'As you think, you travel, and as you love, you attract. You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you.',
-        'James Lane Allen',
+    'c92d4dfd-09b2-57b2-b0e5-63da5957d6f3' => [
+        'In individual industries where female labour pays an important role, any movement advocating better wages, shorter working hours, etc., would not be doomed from the start because of the attitude of those women workers who are not organized.',
+        'Clara Zetkin',
     ],
-    [
-        'My real dream is to have a whole, like, buy a whole piece of land. Imagine, like, a long driveway. Like, a cul de sac-type street, with maybe, like, seven houses. Me be right here. Have my mom be able to be right here. My brother over here. My girl\'s grandmother and family right here. Friends over there. That\'s my real dream.',
-        'J. Cole',
+    'db14e3e2-9a25-5a00-aad9-77019f070492' => [
+        'Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.',
+        'Sidney Hook',
     ],
-    [
-        'You might well remember that nothing can bring you success but yourself.',
-        'Napoleon Hill',
+    '9d6cc84e-438f-5d8f-9b1c-fd902f084cd5' => [
+        'I was never a pretty girl, so I wasn\'t the one to get the boy. I used to cast myself as a good sport. Sometimes I wonder if I do that too much with roles I play, because if I\'m absolutely truthful, I quite like being the best friend, or the supporting role, and actually I ought to gear-change and make myself the leading role.',
+        'Celia Imrie',
     ],
-    [
-        'Life has meaning only if one barters it day by day for something other than itself.',
-        'George Gershwin',
+    'fa93d510-0104-5cfd-96f1-40026680f911' => [
+        'Time begins the healing process of wounds cut deeply by oppression. We soothe ourselves with the salve of attempted indifference, accepting the false pattern set up by the horrible restriction of Jim Crow laws.',
+        'Rosa Parks',
     ],
-    [
-        'Bite off more than you can chew, then chew it.',
-        'Ella Williams',
+    'c7cac34b-9412-59b8-8fd1-6d74ae51e023' => [
+        'A real man loves his wife, and places his family as the most important thing in life. Nothing has brought me more peace and content in life than simply being a good husband and father.',
+        'Epictetus',
     ],
-    [
-        'They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?',
-        'Fidel Castro',
+    'ebef1c12-3bd8-5c5c-96ca-491061f0e4ba' => [
+        'I have been up against tough competition all my life. I wouldn\'t know how to get along without it.',
+        'Walt Disney',
     ],
-    [
-        'How long was I in the army? Five foot eleven.',
-        'Spike Milligan',
+    '50ae7267-62d7-53ba-a42a-f95747569d0b' => [
+        'What I like in this job is you can travel to many places, many imaginations.',
+        'Marion Cotillard',
     ],
-    [
-        'Diwali means family, so either I go down to Bangalore, or my family comes to Mumbai. I always ensure I take a few days off.',
-        'Deepika Padukone',
+    '7dcd2d30-1c19-5e11-b3ad-cc8fb4985e94' => [
+        'There is just one life for each of us: our own.',
+        'Jean Nidetch',
     ],
 ];

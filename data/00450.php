@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'You never know what motivates you.',
-        'Cicely Tyson',
+    '7b3d55d7-a6b5-51e2-8863-fed6ae9bb14b' => [
+        'We need to accept that the commandments of God aren\'t just a long list of good ideas. They aren\'t \'life hacks\' from an Internet blog or motivational quotes from a Pinterest board.',
+        'Dieter F. Uchtdorf',
     ],
-    [
-        'God has given you one face, and you make yourself another.',
-        'William Shakespeare',
+    'a92e9950-4c40-5c40-a3ed-b63a3569337a' => [
+        'Every article on these islands has an almost personal character, which gives this simple life, where all art is unknown, something of the artistic beauty of medieval life.',
+        'John Millington Synge',
     ],
-    [
-        'Boys do not evaluate a book. They divide books into categories. There are sexy books, war books, westerns, travel books, science fiction. A boy will accept anything from a section he knows rather than risk another sort. He has to have the label on the bottle to know it is the mixture as before.',
-        'William Golding',
+    '5b9c0431-5dd6-57ae-a9da-dfd2a89dcdda' => [
+        'No one can feel more gratefully the charm of noble scenery, or the refreshment of escape into the unspoiled solitudes of nature, than the laborer at some close in-door employment.',
+        'Lucy Larcom',
     ],
-    [
-        'Women who stay true to themselves are always more interesting and beautiful to me: women like Frida Kahlo, Georgia O\'Keeffe and Anna Magnani - women who have style, chic, allure and elegance. They didn\'t submit to any standard of beauty - they defined it.',
-        'Isabella Rossellini',
+    '1abb7694-1fdc-5092-b23b-1d3ca7d9f21a' => [
+        'A good traveller is one who does not know where he is going to, and a perfect traveller does not know where he came from.',
+        'Lin Yutang',
     ],
-    [
-        'I\'m just thankful for everything, all the blessings in my life, trying to stay that way. I think that\'s the best way to start your day and finish your day. It keeps everything in perspective.',
-        'Og Mandino',
+    '16fef8b6-5137-505d-8c95-0e04af0b7b26' => [
+        'I spent two years in the Army. And my older brother, who was also a great positive influence on me, encouraged me to think about law school, and I said - well, I didn\'t have any money.',
+        'George J. Mitchell',
     ],
-    [
-        'The human soul is hungry for beauty; we seek it everywhere - in landscape, music, art, clothes, furniture, gardening, companionship, love, religion, and in ourselves. No one would desire not to be beautiful. When we experience the beautiful, there is a sense of homecoming.',
-        'John O\'Donohue',
+    '42963ee1-5535-515b-8de7-c909aeb3f329' => [
+        'Americans try to talk about positive family values, although the actual state of things is disastrous.',
+        'Vladimir Zhirinovsky',
     ],
-    [
-        'Beauty is truth\'s smile when she beholds her own face in a perfect mirror.',
-        'Rabindranath Tagore',
+    '544de1e9-e3f6-5f89-8297-3e56c6510571' => [
+        'The travel and tourism industry is the lifeblood of many states around the country - including Florida, California, New York and Nevada, to name a few.',
+        'Mark Foley',
     ],
-    [
-        'If love is the answer, could you please rephrase the question?',
-        'Lily Tomlin',
+    '50f1442a-4e5b-5f6c-bb60-9428624f80ba' => [
+        'The heart has eyes which the brain knows nothing of.',
+        'Charles Perkhurst',
     ],
-    [
-        'A government that robs Peter to pay Paul can always depend on the support of Paul.',
-        'George Bernard Shaw',
+    '048a684e-3cce-5f13-9038-c0b3c151111f' => [
+        'All is flux; nothing stays still.',
+        'Heraclitus',
     ],
-    [
-        'Progress might have been alright once, but it has gone on too long.',
-        'Ogden Nash',
+    '03f33215-597d-5127-bfef-116a7b176c60' => [
+        'Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.',
+        'Louis Pasteur',
     ],
-    [
-        'YouTube and other sites will bring together all the diverse media which matters to you, from videos of family and friends to news, music, sports, cooking and much, much more.',
-        'Chad Hurley',
+    '621de1a9-dfa3-5dc8-82ac-d7b32bdb6036' => [
+        'Family violence is a criminal act; perpetrators, while often former victims themselves, need to accept culpability.',
+        'Leslie Morgan Steiner',
     ],
-    [
-        'The fairest thing in nature, a flower, still has its roots in earth and manure.',
-        'D. H. Lawrence',
+    'af918a0c-7ebd-55c3-9d61-81e504b13f15' => [
+        'Keep on beginning and failing. Each time you fail, start all over again, and you will grow stronger until you have accomplished a purpose - not the one you began with perhaps, but one you\'ll be glad to remember.',
+        'Anne Sullivan',
     ],
-    [
-        'When you go through hell, your own personal hell, and you have lost - loss of fame, loss of money, loss of career, loss of family, loss of love, loss of your own identity that I experienced in my own life - and you\'ve been able to face the demons that have haunted you... I appreciate everything that I have.',
-        'David Cassidy',
+    '2f0c0c18-5292-599a-a0ef-0d1803d27e5c' => [
+        'One of the funny things in life to me is a guy who takes himself very seriously.',
+        'Dennis Farina',
     ],
-    [
-        'One thing I never want to be accused of is not working.',
-        'Don Shula',
+    '6a492b49-e6a1-59d6-94c8-08d13e17dcbd' => [
+        'I really do believe that inner beauty is so much more than any kind of outer beauty.',
+        'Rachele Brooke Smith',
     ],
-    [
-        'To create a work of art is to create the world.',
-        'Wassily Kandinsky',
+    'a3c0f3b2-abe2-5f37-99df-3df99d90bd72' => [
+        'You\'re not obligated to win. You\'re obligated to keep trying to do the best you can every day.',
+        'Marian Edelman',
     ],
-    [
-        'Memories are the best things in life, I think.',
-        'James Rollins',
+    'ba0ee9da-3451-5b48-b68c-9d3859ca3489' => [
+        'I\'ve been through a lot of things in my personal and family life. That turned me into a fighter. I always strive to be the best I possibly can.',
+        'Hope Solo',
     ],
-    [
-        'The secret of getting ahead is getting started.',
-        'Mark Twain',
+    'd9b81aa9-d6bc-55c4-9e62-6087d1d4c5f9' => [
+        'It is easy for me to love myself, but for ladies to do it is another question altogether.',
+        'Johnny Vegas',
     ],
-    [
-        'I like the thought that what we are to do on this earth is embellish it for its greater beauty, so that oncoming generations can look back to the shapes we leave here and get the same thrill that I get in looking back at theirs - at the Parthenon, at Chartres Cathedral.',
-        'Philip Johnson',
+    '1fb624be-6a02-5f7d-971a-c235266a3d97' => [
+        'The way to deal with the devil of obesity and diabetes is literally one day at a time.',
+        'Stephen Furst',
     ],
-    [
-        'Travel stories teach geography; insect stories lead the child into natural science; and so on. The teacher, in short, can use reading to introduce her pupils to the most varied subjects; and the moment they have been thus started, they can go on to any limit guided by the single passion for reading.',
-        'Maria Montessori',
+    'b2de30f1-dd8d-5743-b653-12ee8bf12827' => [
+        'If you so choose, even the unexpected setbacks can bring new and positive possibilities. If you so choose, you can find value and fulfillment in every circumstance.',
+        'Ralph Marston',
     ],
-    [
-        'When you are developing your style, you avoid weaknesses. I am not good at describing things, so I stay away from it. And if anyone is going to describe anything at all, it\'s going to be from the point of view of the character, because then I can use his voice, and his attitude will be revealed in the way he describes what he sees.',
-        'Elmore Leonard',
+    '6dbe7cff-d148-5bce-9dd4-e192032b200b' => [
+        'City Ballet has to develop choreographers of stature and a new approach to coaching before everything we value about it fades away and, in the great tradition of the Cheshire Cat, there\'s nothing left but Peter Martins\' smile.',
+        'Robert Gottlieb',
     ],
-    [
-        'I hate to say it but I hate black humor. I feel like a Klan member saying it, but it\'s just not funny.',
-        'Issa Rae',
+    '61be12bb-605c-595e-8c03-302be4afaf76' => [
+        'We especially need imagination in science. It is not all mathematics, nor all logic, but it is somewhat beauty and poetry.',
+        'Maria Mitchell',
     ],
-    [
-        'What a man does for pay is of little significance. What he is, as a sensitive instrument responsive to the world\'s beauty, is everything!',
-        'H. P. Lovecraft',
+    '174f5b91-bb22-56cd-a949-86bf0f9c6175' => [
+        'If you go through life, and you don\'t find the beauty in an unexpected place, then you really have a sad existence.',
+        'Octavia Spencer',
     ],
-    [
-        'I grew up in a very strong, nuclear family. My father was a sportsman. He represented South Africa in a couple of sports, so he was a very positive person and someone who encouraged you to be your best and give your best with everything that you do.',
-        'Gail Kelly',
+    '7c5d0dad-d0c4-5a31-833a-5528ef8a39eb' => [
+        'Believe it or not, I have about the same success rate as anyone else. Sometimes you hit, sometimes you miss.',
+        'Seth MacFarlane',
     ],
-    [
-        'Permanent success cannot be achieved except by incessant intellectual labour, always inspired by the ideal.',
-        'Sarah Bernhardt',
+    '581d7c3e-f6f8-5e18-8e2b-7c7e54db44b9' => [
+        'The only question to ask yourself is, how much are you willing to sacrifice to achieve this success?',
+        'Larry Flynt',
     ],
-    [
-        'A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.',
-        'George Bernard Shaw',
+    'fed222be-e6f8-500f-a878-63bf0d06dc4d' => [
+        'I wanted to have the adoration of John Lennon but have the anonymity of Ringo Starr. I didn\'t want to be a frontman. I just wanted to be back there and still be a rock and roll star at the same time.',
+        'Kurt Cobain',
     ],
 ];

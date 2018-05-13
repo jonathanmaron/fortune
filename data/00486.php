@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Life is always going to be stranger than fiction, because fiction has to be convincing, and life doesn\'t.',
-        'Hillary Clinton',
+    'bf07b25c-2fd0-57d6-92e5-0fdb13795f42' => [
+        'We\'re constantly striving for success, fame and comfort when all we really need to be happy is someone or some thing to be enthusiastic about.',
+        'H. Jackson Brown, Jr.',
     ],
-    [
-        'Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen.',
-        'Isaac Bashevis Singer',
+    '1811051f-3fd6-56c7-96ab-cf37d46d6fea' => [
+        'People don\'t associate red hair, pale skin, and freckles with beauty.',
+        'Shirley Manson',
     ],
-    [
-        'I love airports because funny things always happen at them. They\'re giant complexes full of urgency, seriousness, and confusion. Where am I supposed to be? Which way do I go? And that\'s just the staff.',
-        'Rhys Darby',
+    'c47f92f5-0d6a-59f7-93ea-73916ac80198' => [
+        'Its success lies in the fact that it\'s an insurance plan, not an investment plan or a welfare plan.',
+        'James Roosevelt',
     ],
-    [
-        '\'Top Gear\' changed people\'s perceptions of me. I\'ve had much more positive responses from my TV appearances than written articles. And I have the weirdest voice.',
-        'James Blunt',
+    '0ed99dc5-2dbc-537c-8c27-da1675df7091' => [
+        'An unexamined life is not worth living.',
+        'Socrates',
     ],
-    [
-        'The artist forges himself to the others, midway between the beauty he cannot do without and the community he cannot tear himself away from. That is why true artists scorn nothing: they are obliged to understand rather than to judge.',
-        'Albert Camus',
+    'c6050b6f-6b5f-5e40-bd3d-8143b51896cb' => [
+        'Loyalty to the family must be merged into loyalty to the community, loyalty to the community into loyalty to the nation, and loyalty to the nation into loyalty to mankind. The citizen of the future must be a citizen of the world.',
+        'Thomas Cochrane',
     ],
-    [
-        'Life is short, so I\'m knowing exactly where I\'m putting my time. I don\'t want to do things that I don\'t have to do.',
-        'Mira Nair',
+    '983b76f2-60dd-5d07-a0f9-325008d4cc36' => [
+        'The key thing about wealth in a capitalist economy is that it reproduces itself and usually earns a positive net return.',
+        'Robert Solow',
     ],
-    [
-        'Excellence is to do a common thing in an uncommon way.',
-        'Booker Washington',
+    'f833b839-0d63-51cc-8b3a-142110aab522' => [
+        'Marie Antoinette was funny, I\'m sure she was just misinterpreted. You know the \'Let them eat cake\' line. She seems like she was kind of funny, like a Chelsea Handler or Kathy Griffin type.',
+        'Colin Quinn',
     ],
-    [
-        'My goal is to be able to provide for myself and not have to worry about the daily expenses. I do want to be able to benefit from my work and make a good living, but I love it so much that I would do it for free.',
-        'Jenn Proske',
+    '98f45744-a522-5334-bfc4-2ee34bed39a5' => [
+        'Every job is good if you do your best and work hard. A man who works hard stinks only to the ones that have nothing to do but smell.',
+        'Laura Ingalls Wilder',
     ],
-    [
-        'Try not to become a man of success, but rather try to become a man of value.',
-        'Albert Einstein',
+    '57a6a501-8094-5fd3-bae1-069210fc6a95' => [
+        'I\'m not a \'sexy\' \'beautiful\' woman. It takes a lot of work to make me look like a girl.',
+        'Megan Fox',
     ],
-    [
-        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
-        'Alek Wek',
+    '14616db5-8082-5fbb-87c6-75f58a3966e4' => [
+        'All personality traits have their good side and their bad side. But for a long time, we\'ve seen introversion only through its negative side and extroversion mostly through its positive side.',
+        'Susan Cain',
     ],
-    [
-        'My father was a really sharp cartoonist and filmmaker. He used to tape-record the family surreptitiously, either while we were driving around or at dinner, and in 1963 he and I made up a story about a brother and a sister, Lisa and Matt, having an adventure out in the woods with animals.',
-        'Matt Groening',
+    '2fc6217d-d1c1-53ca-8f29-0a5920e613ba' => [
+        'It\'s better for me to play with guys because Rock \'n\' Roll has such an aggressive attitude.',
+        'Lita Ford',
     ],
-    [
-        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
-        'Milton Berle',
+    '4a74b04a-ded4-524b-a262-9cc0997072d0' => [
+        'Truth is powerful and it prevails.',
+        'Sojourner Truth',
     ],
-    [
-        'Life is a progress, and not a station.',
-        'Ralph Emerson',
+    'ff7beaad-dadf-50a4-9b7d-2f5c984307ff' => [
+        'A goal is not always meant to be reached; it often serves simply as something to aim at.',
+        'Bruce Lee',
     ],
-    [
-        'The art of progress is to preserve order amid change, and to preserve change amid order.',
-        'Alfred Whitehead',
+    '0e4e89d9-95f4-5237-bdf4-ea44b2d5f2f1' => [
+        'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.',
+        'Theodore Roosevelt',
     ],
-    [
-        'Only an artist can interpret the meaning of life.',
-        'Pat Conroy',
+    '15820f36-0cb9-56ab-a74f-883ef6290154' => [
+        'To design the future effectively, you must first let go of your past.',
+        'Charles J. Givens',
     ],
-    [
-        'I\'m a human, and I\'m multidimensional. If I was the perfect form of anything, I\'d be boring. If I was a free spirit all the time, I would be boring; I would lack depth. If I was dark and enigmatic all the time, then I would lack relatability.',
-        'Halsey',
+    '4d6de24e-645c-5107-be65-da74143d9e9b' => [
+        'We need an attitude of defiance, not an attitude of cowardice. Out in the street, that\'s how we are winning against the TransCanada Pipeline. This is how we have delayed the Trans-Pacific Partnership and forced it into an election season, gotten everybody to stand against it. Democracy is not about surrender.',
+        'Jill Stein',
     ],
-    [
-        'Work, look for peace and calm in work: you will find it nowhere else.',
-        'Dmitri Mendeleev',
+    '466574b7-60dc-54b0-87b5-4c92cd66ac46' => [
+        'We smile at the ignorance of the savage who cuts down the tree in order to reach its fruit; but the same blunder is made by every person who is over eager and impatient in the pursuit of pleasure.',
+        'William Ellery Channing',
     ],
-    [
-        'Together with a culture of work, there must be a culture of leisure as gratification. To put it another way: people who work must take the time to relax, to be with their families, to enjoy themselves, read, listen to music, play a sport.',
-        'Pope Francis',
+    '4ecdad91-c309-5d9f-a80d-f0ea17737028' => [
+        'First of all, I try to be a positive role model.',
+        'Caitlyn Jenner',
     ],
-    [
-        'Thanks to the Interstate Highway System, it is now possible to travel across the country from coast to coast without seeing anything.',
-        'Charles Kuralt',
+    '0c95498d-fbc8-57ea-88c4-6b5b7c53cfca' => [
+        'If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.',
+        'Ajahn Chah',
     ],
-    [
-        'Reach for the stars.',
-        'Christa McAuliffe',
+    '4ab530cf-7656-5b38-9f66-507af3b423eb' => [
+        'The more you travel, the more well-off you\'ll be, I think.',
+        'RJ Mitte',
     ],
-    [
-        'We can do better in higher education. And it is more than just technology. It\'s also an attitude on the part of faculty. We need to think through how we can produce a better quality product at less cost.',
-        'Roy Romer',
+    '45ba50d0-2181-5b28-bbe7-5052b8775362' => [
+        'Excellence can be obtained if you care more than others think is wise, risk more than others think is safe, dream more than others think is practical, expect more than others think is possible.',
+        'Unknown',
     ],
-    [
-        'I think the problems with comedians that are political, and there are some brilliant ones, are the ones that offer no solutions. Not that there\'s a moral obligation for a comic to fix things, but I like to see a comic that\'s upset about something and offer a solution. It can be a funny solution. I like to see the thought process.',
-        'Kyle Kinane',
+    'de22b35e-0992-5080-ad0f-49a2f9fd8ecf' => [
+        'That\'s why I began doing makeup in the first place: I was hoping that through helping people see the beauty in themselves, I could try and find it in me.',
+        'Kevyn Aucoin',
     ],
-    [
-        'I was perceived to be a first- to third-rounder. I kind of had a tough junior year and fell to the fifth round. At that time, it was motivational.',
-        'Ryan Howard',
+    '0e025569-9b48-5969-a864-832d98c9775f' => [
+        'All the freaky people make the beauty of the world.',
+        'Michael Franti',
     ],
-    [
-        'I experience a period of frightening clarity in those moments when nature is so beautiful. I am no longer sure of myself, and the paintings appear as in a dream.',
-        'Vincent Van Gogh',
+    '7f6c876e-cf88-57d5-a100-522e97bc80e7' => [
+        'In every conceivable manner, the family is link to our past, bridge to our future.',
+        'Alex Haley',
     ],
-    [
-        'Choose to focus your time, energy and conversation around people who inspire you, support you and help you to grow you into your happiest, strongest, wisest self.',
-        'Karen Salmansohn',
+    '649b4f27-0608-5b15-ac52-b0c5d61f03b1' => [
+        'When you wake up every day, you have two choices. You can either be positive or negative; an optimist or a pessimist. I choose to be an optimist. It\'s all a matter of perspective.',
+        'Harvey Mackay',
     ],
 ];

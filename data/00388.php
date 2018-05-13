@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Good teachers know how to bring out the best in students.',
-        'Charles Kuralt',
+    'ec58c6ed-95f8-55d8-8127-3677fd6b95a7' => [
+        'I have to travel a lot, but relaxation to me is when I am at home.',
+        'Mikhail Khodorkovsky',
     ],
-    [
-        'About the most exciting thing a baby can do is burp - I\'ve spent hours of my life holding a baby on my shoulder and patting its back, trying to loosen up a burp. Burping was probably invented to give the father something positive to do, since our chests are not equipped to allow us to do much else.',
-        'W. Bruce Cameron',
+    '72d3a2f7-e663-5be0-956c-b7ff6e1e9fd9' => [
+        'Don\'t ever doubt yourselves or waste a second of your life. It\'s too short, and you\'re too special.',
+        'A. J. McLean',
     ],
-    [
-        'I was weaned not on television or Wild West sagas but on stories of nationalism and patriotism. I would sit at my mother\'s feet by the hour and drink in these exciting tales of the freedom fighters in our family.',
-        'Sukarno',
+    '6411d563-3e46-54a6-9e4d-917ca9e1b72a' => [
+        'But I think Kiss Kiss, Bang Bang really got that thing where, if a movie reads really funny and then has some dramatic or violent or sinister stuff in it, you can\'t forget that primarily it has to be even funnier than you read it or that other stuff doesn\'t work.',
+        'Robert Downey, Jr.',
     ],
-    [
-        'I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.',
-        'Herbert Swope',
+    '770f5b71-c208-5167-831d-cfff31d156bb' => [
+        'Every video I make, I want to make sure that it\'s doing something entertaining or hopefully inspiring or maybe teaching somebody something or sharing my mistakes so that they can learn from them or anything that will make a positive impact in the world.',
+        'Tyler Oakley',
     ],
-    [
-        'I\'d rather be a failure at something I love than a success at something I hate.',
-        'George Burns',
+    '671157e3-a471-5618-ae55-c97cd612dd07' => [
+        'All of nature begins to whisper its secrets to us through its sounds. Sounds that were previously incomprehensible to our soul now become the meaningful language of nature.',
+        'Rudolf Steiner',
     ],
-    [
-        'When you\'re surrounded by feathers and sequins and ridiculous Lycra outfits, it\'s impossible not to have a smile on your face.',
-        'Catherine Martin',
+    '7f01cac6-4364-5dc5-92e6-06dad1d7cb90' => [
+        'Our environment, the world in which we live and work, is a mirror of our attitudes and expectations.',
+        'Earl Nightingale',
     ],
-    [
-        'You know, it was just another presentation of my work, and a funny one, because the cards are quite different from the normal Tarot deck, no?',
-        'H. R. Giger',
+    '1c6101e9-ed32-5a96-ad5a-d1c529e6a348' => [
+        'Success depends almost entirely on how effectively you learn to manage the game\'s two ultimate adversaries: the course and yourself.',
+        'Jack Nicklaus',
     ],
-    [
-        'Success is walking from failure to failure with no loss of enthusiasm.',
-        'Winston Churchill',
+    '1b4ad79e-9051-531c-86c9-74dc464c95af' => [
+        'There is no great genius without some touch of madness.',
+        'Seneca',
     ],
-    [
-        'Management must manage!',
-        'Harold S. Geneen',
+    '0fba8e66-4a50-5cf3-a87e-9e12fd967071' => [
+        'Wake up. Kick ass. Repeat.',
+        'Anonymous',
     ],
-    [
-        'We\'ve got fuel prices coming down and good travel numbers coming out, so it\'s not surprising airline stocks are going up.',
-        'Andrew Sullivan',
+    'a8fa85f1-b11d-5d0b-9048-779068ffe727' => [
+        'The minute we stop learning, we begin death, the process of dying. We learn from each other with every action we perform. We are teaching goodness or evil every time we step out of the house and into the street.',
+        'Leo Buscaglia',
     ],
-    [
-        'You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.',
-        'Remez Sasson',
+    'a5b894fb-d3bb-52e8-ab13-2721cef63c5e' => [
+        'For me, forgiveness and compassion are always linked: how do we hold people accountable for wrongdoing and yet at the same time remain in touch with their humanity enough to believe in their capacity to be transformed?',
+        'bell hooks',
     ],
-    [
-        'Keep yourself to the sunshine and you cannot see the shadow.',
-        'Helen Keller',
+    '0152dfb5-50ec-534d-93ca-f9393a8d897c' => [
+        'I still find each day too short for all the thoughts I want to think, all the walks I want to take, all the books I want to read, and all the friends I want to see.',
+        'Zoe Foster Blake',
     ],
-    [
-        'Women are called upon to defend every bit of progress we have made against particularly virulent attack. But we must also hold out a vision, put forth a positive agenda of what women need and want and then move forward toward that dream.',
-        'Patricia Ireland',
+    '634b5cf9-2938-5550-93e5-c4e81eba57c5' => [
+        'Pink isn\'t just a color, it\'s an attitude!',
+        'Miley Cyrus',
     ],
-    [
-        'I failed to make the chess team because of my height.',
-        'Woody Allen',
+    '5248b771-f6be-5ffa-b314-510232c8cb15' => [
+        'The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.',
+        'Havelock Ellis',
     ],
-    [
-        'We talk of communing with Nature, but \'tis with ourselves we commune... Nature furnishes the conditions - the solitude - and the soul furnishes the entertainment.',
-        'John Burroughs',
+    '2e34d657-0663-5226-bb64-f492ccca6144' => [
+        'When one tugs at a single thing in nature, he finds it attached to the rest of the world.',
+        'John Muir',
     ],
-    [
-        'I didn\'t know how to smile for the paparazzi.',
-        'Peggy Lipton',
+    '71a9a537-fc25-55d8-9298-fbfb2062cec5' => [
+        'There are those who believe that the value of a children\'s book can be measured only in terms of the moral lessons it tries to impose or the perfect role models it offers. Personally, I happen to think that a book is of extraordinary value if it gives the reader nothing more than a smile or two. In fact, I happen to think that\'s huge.',
+        'Barbara Park',
     ],
-    [
-        'When someone asks, \'Does success make you into a monster?\' I always say, \'No, it enables you to be a monster.\'',
-        'Simon Cowell',
+    '4de08a3d-eb65-57ca-94ee-932c4ad9d0ce' => [
+        'History is a cyclic poem written by time upon the memories of man.',
+        'Percy Bysshe Shelley',
     ],
-    [
-        'In the end, it\'s a mental maturity to let your best come out.',
-        'Lindsey Vonn',
+    'bc446cee-be0b-53d1-ad0d-6c6d2aeffd3d' => [
+        'All what we hope for is that a day will come, when we have all gone, when people will say that this man has tried, and his family tried. This is all there is to seek in this world.',
+        'Hussein of Jordan',
     ],
-    [
-        'We submit to the majority because we have to. But we are not compelled to call our attitude of subjection a posture of respect.',
-        'Ambrose Bierce',
+    '4aa0c12c-845f-5d6b-98c5-a6f402c52262' => [
+        'Don\'t go around saying the world owes you a living. The world owes you nothing. It was here first.',
+        'Mort Sahl',
     ],
-    [
-        'The family you come from isn\'t as important as the family you\'re going to have.',
-        'Ring Lardner',
+    'b53158aa-89a5-5d53-ac3e-41a8ac32946b' => [
+        'Racism is a much more clandestine, much more hidden kind of phenomenon, but at the same time it\'s perhaps far more terrible than it\'s ever been.',
+        'Angela Davis',
     ],
-    [
-        'The key to success is action, and the essential in action is perseverance.',
-        'Sun Yat-sen',
+    '43a38e45-8c82-54df-be74-d653a293848a' => [
+        'Set up another case bartender! The best thing for a case of nerves is a case of Scotch.',
+        'W. C. Fields',
     ],
-    [
-        'My denial and irresponsible attitude about asthma put me at great risk and caused me so much needless suffering. My hope is that the kids I talk to learn to open up about their asthma, become educated about their condition, and seek help.',
-        'Jackie Joyner-Kersee',
+    'a3334f03-c636-5dfd-b3e9-4e048153c1d3' => [
+        'When works of art are presented like rare butterflies on the walls, they\'re decontextualized. We admire their beauty, and I have nothing against that, per se. But there is more to art than that.',
+        'Hans Haacke',
     ],
-    [
-        'I consider myself to have been the bridge between the shotgun and the binoculars in bird watching. Before I came along, the primary way to observe birds was to shoot them and stuff them.',
-        'Roger Tory Peterson',
+    '9cf3f63f-0668-5b77-99c1-e878863ccdc6' => [
+        'I\'ve always tried to go a step past wherever people expected me to end up.',
+        'Beverly Sills',
     ],
-    [
-        'My grandfather was a man, when he talked about freedom, his attitude was really interesting. His view was that you had obligations or you had responsibilities, and when you fulfilled those obligations or responsibilities, that then gave you the liberty to do other things.',
-        'Clarence Thomas',
+    'a550ade7-0de2-5756-ac4e-ffba700f7ba3' => [
+        'I always say this about my music, and music in general: Music is like a time capsule. Each album reflects what I\'m going through or what\'s going on in my life at that moment.',
+        'Eminem',
     ],
-    [
-        'Nothing in life is to be feared; it is only to be understood. Now is the time to understand more so that we may fear less.',
-        'Marie Curie',
+    '21c38b48-4674-55ce-bbce-c49f0c41f1b2' => [
+        'I do love traveling, so I\'ve been able to travel a lot.',
+        'Taylor Lautner',
     ],
 ];

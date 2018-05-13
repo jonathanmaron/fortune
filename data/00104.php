@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'There\'s no explanation for success. Success just comes out of life.',
-        'Meat Loaf',
+    '59ba4a40-40ed-5557-887b-9fa509bd1969' => [
+        'I had an inspirational teacher at my junior school: Peter Nixon. He was enthusiastic, knowledgeable and slightly scary - a good combination for a teacher.',
+        'Stephen Mangan',
     ],
-    [
-        'Music always lived with me, like a family tradition.',
-        'Desiigner',
+    'eb20c458-eabd-5de0-b6df-f6c7acc34421' => [
+        'It\'s important to maintain an attractive smile as you age. A lighter, less beige, more white tooth color is key, but no Chiclets.',
+        'Evelyn Lauder',
     ],
-    [
-        'I did an A Level in Theatre Studies and had a really inspirational teacher, and then I just went on to university.',
-        'Jessica Raine',
+    'aacf3f79-29e9-5168-a0bc-f3678ccc5621' => [
+        'I have yet to hear a man ask for advice on how to combine marriage and a career.',
+        'Gloria Steinem',
     ],
-    [
-        'The 1990s, after the reign of terror of academic vandalism, will be a decade of restoration: restoration of meaning, value, beauty, pleasure, and emotion to art and restoration of art to its audience.',
-        'Camille Paglia',
+    '7d8c17ac-937f-5730-83d8-08dca8b3ce5e' => [
+        'Though music transcends language, culture and time, and though notes are the same, Indian music is unique because it is evolved, sophisticated and melodies are defined.',
+        'Dayananda Saraswati',
     ],
-    [
-        'You should feel good about making your home nicer for your family and your friends. You should feel great about cooking a good dinner and making a dress for a granddaughter, creating a beautiful birthday party. It\'s all part of life.',
-        'Martha Stewart',
+    '2e8b7aad-5104-53ce-9686-7b4bce27a5e5' => [
+        'I work hard, like I\'m sure everyone else does, and I\'m very honest with the work I do.',
+        'Shah Rukh Khan',
     ],
-    [
-        'Commitment in the face of conflict produces character.',
-        'Unknown',
+    '0def28ea-f6f8-54b5-880b-7fe2fcb6c980' => [
+        'It\'s funny: people who meet me say, \'I thought you\'d be different.\' But I\'m still the same guy.',
+        'Bill Engvall',
     ],
-    [
-        'I think the divine is like a huge smile that breaks somewhere in the sea within you, and gradually comes up again.',
-        'John O\'Donohue',
+    '4351fe02-73be-5511-b526-7dd02cb0a5d8' => [
+        'Never be bullied into silence. Never allow yourself to be made a victim. Accept no one\'s definition of your life; define yourself.',
+        'Harvey Fierstein',
     ],
-    [
-        'New knowledge is the most valuable commodity on earth. The more truth we have to work with, the richer we become.',
-        'Kurt Vonnegut',
+    '5f185d98-f2a8-52e5-8eb3-a2f7886fec0d' => [
+        'When one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior',
+        'Henry C Link',
     ],
-    [
-        'There\'s really no secret to success. You make your own success.',
-        'Alex Morgan',
+    'a0691913-6dda-5a8c-81cf-f73a2867e195' => [
+        'My sister and I truly are best friends.',
+        'Solange Knowles',
     ],
-    [
-        'For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?',
-        'James Allen',
+    'b9c4fa26-e2d1-592f-94e4-ebc44d152807' => [
+        'I served at the Pentagon and at Fort Leavenworth - my job was video cameraman, and that allowed me to travel to places like Korea, Japan, Alaska, Germany and the Netherlands.',
+        'Chad Coleman',
     ],
-    [
-        'Learning and innovation go hand in hand. The arrogance of success is to think that what you did yesterday will be sufficient for tomorrow.',
-        'William Pollard',
+    'adda23c1-e8f8-5f56-a69b-a23d6a66e959' => [
+        'In general, men are wired to notice obvious signs that convey interest in mating - a warm smile, for example - and ignore other subtleties, like if your lipstick is faded.',
+        'Helen Fisher',
     ],
-    [
-        'Learn from me, if not by my precepts, then by my example, how dangerous is the pursuit of knowledge and how much happier is that man who believes his native town to be the world than he who aspires to be greater than his nature will allow.',
-        'Mary Wollstonecraft',
+    '605c5fe1-5b39-5312-980a-b767bf35872f' => [
+        'Be yourself; everyone else is already taken.',
+        'Oscar Wilde',
     ],
-    [
-        'I am disturbed when I see the majority of so-called Christians having such little understanding of the real nature of the faith they profess. Faith is a subject of such importance that we should not ignore it because of the distractions or the hectic pace of our lives.',
-        'William Wilberforce',
+    'f5825004-02b6-5ed7-8b83-8dde97321c7e' => [
+        'Our deep respect for the land and its harvest is the legacy of generations of farmers who put food on our tables, preserved our landscape, and inspired us with a powerful work ethic.',
+        'James H. Douglas, Jr.',
     ],
-    [
-        'My father instilled in me an attitude that you couldn\'t really enjoy yourself unless you had done something to deserve it. So, my childhood was spent working on farms or local shops or, when I got older, in banks.',
-        'Ben Elliot',
+    'c8f6e8c5-b35d-56c4-8b54-84c62b6b4c09' => [
+        'The road leading to a goal does not separate you from the destination; it is essentially a part of it.',
+        'Charles DeLint',
     ],
-    [
-        'We live in a culture that\'s been hijacked by the management consultant ethos. We want everything boiled down to a Power Point slide. We want metrics and \'show me the numbers.\' That runs counter to the immensely complex nature of so many social, economic and political problems. You cannot devise an algorithm to fix them.',
-        'Carl Honore',
+    'b64749ab-6a79-5a2b-8eb5-e3bff65c6de2' => [
+        'May I never be complete. May I never be content. May I never be perfect.',
+        'Chuck Palahniuk',
     ],
-    [
-        'A sculptor wields The chisel, and the stricken marble grows To beauty.',
-        'William C. Bryant',
+    '73077268-c015-5ce0-9696-e3c5cd92f6d0' => [
+        'I cry if something bad happens. I grab a drink with friends when I get stressed out. I travel. I sometimes lash out at my closest friends.',
+        'Song Hye-kyo',
     ],
-    [
-        'I\'m a really nostalgic person. I love taking photos and video and having memories. I remember all my childhood videos that my dad used to take. I think that\'s really what life is about - especially when you start a family of your own.',
-        'Kim Kardashian',
+    '1d1af22e-e0f6-5ac5-8f17-d909a3151d21' => [
+        'I love inspirational R&amp;B, like Mary J. Blige and Jennifer Hudson. I want to do that. That kind of music stays with you.',
+        'Ashthon Jones',
     ],
-    [
-        'My favorite kind of humor is basically, if it was happening to you, it wouldn\'t be funny, but to observe it, it\'s hilarious.',
-        'Bill Burr',
+    'cd4db386-5595-55c6-8899-dcac66a1f6a6' => [
+        'I think there\'s something in the fact that it\'s hard to be good looking and funny. You have to have an oddball quality; people have to sympathise with you to find you funny.',
+        'Chris O\'Dowd',
     ],
-    [
-        'True refuge is that which allows us to be at home, at peace, to discover true happiness. The only thing that can give us true refuge is the awareness and love that is intrinsic to who we are. Ultimately, it\'s our own true nature.',
-        'Tara Brach',
+    '1f7b5b6a-48da-5325-8653-c52edc398248' => [
+        'I\'m not a sad person, upset the whole time, but I seem to be quite emotional.',
+        'Freddie Highmore',
     ],
-    [
-        'I have a company attitude about my work. I don\'t like to do just one thing; I like to do a lot of things.',
-        'Jack O\'Brien',
+    '72ba055d-ccd9-533c-8e25-889663ace557' => [
+        'I looked on my stomach and saw Frieda Rebecca, white as flour with the cream that covers new babies, funny little dark squiggles of hair plastered over her head, with big, dark-blue eyes.',
+        'Sylvia Plath',
     ],
-    [
-        'My family kinda hit the skids. We were experiencing poverty at that point. We all got a job, where the whole family had to work as security guards and janitors. And I just got angry.',
-        'Jim Carrey',
+    'b1d2c8d3-5eab-5ee8-990d-b8d79cd275c2' => [
+        'You can complain because roses have thorns, or you can rejoice because thorns have roses.',
+        'Ziggy',
     ],
-    [
-        'I don\'t think of myself as a role model. I do try to live in a compassionate, considerate and positive way. The only advice I can offer is to find what you love to do, find the joy in it, and express yourself through your passion.',
-        'Barry Williams',
+    'b6aa7eb8-9620-599e-9b02-9a71f968417b' => [
+        'You have to defend your honor. And your family.',
+        'Suzanne Vega',
     ],
-    [
-        'Of course! It takes a lot of strength to mend a broken heart. Channelising energies into your work helps, but also to be able to accept situations for what they are instead of questioning them helps immensely.',
-        'Deepika Padukone',
+    'a9d7bc7b-8d82-5b63-9843-8cff53952060' => [
+        'Positive energy is meant to give people confidence and hope, encourage people to love their country, society and life, as well as to pursue nice things. Everything we do is ultimately for the sake of spreading positive energy.',
+        'Lu Wei',
     ],
-    [
-        'The only person who never makes mistakes is the person who never does anything.',
-        'Denis Waitley',
+    '2ab00a2e-4c4a-5608-a104-df4cd978d39d' => [
+        '\'Chef\' is a dish of arroz con pollo served with a smile but not much style. The critic in the film would give it a low grade, for agreeability without ambition.',
+        'Richard Corliss',
     ],
-    [
-        'Don\'t waste time on what\'s not important. Don\'t get sucked into the drama. Get on with it: don\'t dwell on the past. Be a big person; be generous of spirit; be the person you\'d admire.',
-        'Allegra Huston',
+    'db59b860-ef9c-593b-a868-0b7f83646327' => [
+        'Sculpture is the best comment that a painter can make on painting.',
+        'Pablo Picasso',
     ],
 ];

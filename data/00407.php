@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The one way to get me to work my hardest was to doubt me.',
-        'Michelle Obama',
+    'e9c3cf60-ba5e-59c4-85e7-5682f1b13fc3' => [
+        'Life grants nothing to us mortals without hard work.',
+        'Horace',
     ],
-    [
-        'It is the combination of reasonable talent and the ability to keep going in the face of defeat that leads to success.',
-        'Martin Seligman',
+    'f9dfa264-89ed-5406-9af9-33659dba6003' => [
+        'Los Angeles is a true postmodern city. Here, we celebrate with equal aplomb the high and the low. I am just as influenced by the punk rock attitude of local skate and surf cultures as I am by old-school glamour and stardust.',
+        'Liz Goldwyn',
     ],
-    [
-        'Nothing is better than going home to family and eating good food and relaxing.',
-        'Irina Shayk',
+    'd62e2d9c-da98-5b85-98a4-2f1ebfce1900' => [
+        'In the investigation of a neurotic style of life, we must always suspect an opponent, and note who suffers most because of the patient\'s condition. Usually this is a member of the family.',
+        'Alfred Adler',
     ],
-    [
-        'If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.',
-        'Henry David Thoreau',
+    '6aaaa1a8-db11-5b14-86c5-1e16c3e62292' => [
+        'Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.',
+        'Morgan Freeman',
     ],
-    [
-        'Although I have a lot of close female friends in my life, my number one is still my mom. Without her, I wouldn\'t have the values that I have and see the world the way that I do today. She taught me how to appreciate and respect women. She taught me chivalry and how to love a woman and respect their feelings and emotions.',
-        'Charlotte Whitton',
+    '8d6b7548-3ce1-5c16-9a2d-3f280ce02b0a' => [
+        'Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don\'t quit.',
+        'Conrad Hilton',
     ],
-    [
-        'Even when I wasn\'t playing, I always had a smile on my face because if I acted sad or mad, it wouldn\'t help me.',
-        'Henrikh Mkhitaryan',
+    '838df646-0c51-5d44-bbbf-d3f2ccbe9930' => [
+        'Spring is nature\'s way of saying, \'Let\'s party!\'',
+        'Robin Williams',
     ],
-    [
-        'In actuality, California could be a wonderful place to live. In fact, if you\'re highly educated and ambitious, you can do quite well here while enjoying the sun and the fun. The only problem: California will then blame you for your success and recommend that all your cash be removed from you.',
-        'Ben Shapiro',
+    'c8b2d3d6-b059-571b-b47b-82abd37656f3' => [
+        'Beauty and folly are old companions.',
+        'Benjamin Franklin',
     ],
-    [
-        'He who talks more is sooner exhausted.',
-        'Lao Tzu',
+    'ff72f5aa-4480-5368-89ba-823548fa6d55' => [
+        'Nothing puzzles me more than the time and space; and yet nothing troubles me less.',
+        'Charles Lamb',
     ],
-    [
-        'It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.',
-        'Voltaire',
+    '3aa785ca-533d-5738-8ef7-967e449e3584' => [
+        'I\'m a fun song maker. I love to make people smile. I also love to see them big, burly dudes crying because their wives\' song is \'Die a Happy Man.\'',
+        'Thomas Rhett',
     ],
-    [
-        'Sculpture is an art of the open air. Daylight, sunlight, is necessary to it, and for me, its best setting and complement is nature.',
-        'Henry Moore',
+    'd006b790-ca96-53a0-ac0e-4a51223acc39' => [
+        'There must be something solemn, serious, and tender about any attitude which we denominate religious. If glad, it must not grin or snicker; if sad, it must not scream or curse.',
+        'William James',
     ],
-    [
-        'I wanted Jesus in \'A.D.\' to be very, very, very human - to have those qualities of vulnerability and doubt and pain and sadness and loneliness. Once the resurrection happens and we see that Jesus has risen, it\'s almost complete, right? It\'s all about the joy and the smile and the happiness and the closeness to the disciples.',
-        'Juan Pablo Di Pace',
+    '28e6870d-6ab6-5af9-a392-083c618059a2' => [
+        'I\'m the middle man. I try to keep people happy. I go out of my way to get a smile. That\'s the way my mother raised me.',
+        'Donald Dunn',
     ],
-    [
-        'Minds are like parachutes. They only function when open.',
-        'Thomas Dewar',
+    '214576c7-2923-503e-aeb4-712e5b40abaf' => [
+        'If you\'re a goal scorer, you have to have a certain attitude. I\'m very serious. My missus thinks I\'m a bit weird. I\'m cold, I don\'t have many emotions. It\'s very rare I cry.',
+        'Michael Owen',
     ],
-    [
-        'Obviously, a long-distance relationship is hard. But, like anything worth having, you make it work.',
-        'Leona Lewis',
+    'ddb16680-44f8-5275-9160-f4583dc73cb3' => [
+        'You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.',
+        'Zig Ziglar',
     ],
-    [
-        'I hold that the perfection of form and beauty is contained in the sum of all men.',
-        'Albrecht Durer',
+    '45b22f3b-c2d7-5ed5-ba1c-0de158eb3292' => [
+        'I believe in luck: how else can you explain the success of those you dislike?',
+        'Jean Cocteau',
     ],
-    [
-        'If your mother did not know how to love herself, or your father did not know how to love himself, then it would be impossible for them to teach you to love yourself. They were doing the best they could with what they had been taught as children.',
-        'Louise L. Hay',
+    'a58e6f4f-2456-574c-8cbf-648813e31702' => [
+        'You can always tell when a man\'s well informed. His views are pretty much like your own.',
+        'H. Jackson Brown, Jr.',
     ],
-    [
-        'Right now I\'m having amnesia and deja vu at the same time... I think I\'ve forgotten this before.',
-        'Steven Wright',
+    '6f6edb65-01ae-5646-af81-cabab64bb708' => [
+        'What I have tried to show is that the scientific attitude implies what I call the postulate of objectivity - that is to say, the fundamental postulate that there is no plan, that there is no intention in the universe.',
+        'Jacques Monod',
     ],
-    [
-        'Your children are not your children. They are the sons and daughters of Life\'s longing for itself. They came through you but not from you and though they are with you yet they belong not to you.',
-        'Khalil Gibran',
+    '012392f3-2170-5375-9e90-9ab81f17a591' => [
+        'The road to success runs uphill.',
+        'Willie Davis',
     ],
-    [
-        'There\'s a punk-rock attitude, clearly, to \'Hated.\' There\'s even a punk-rock attitude to \'The Hangover,\' I think. We start the movie with a Glenn Danzig song.',
-        'Todd Phillips',
+    'ca3af1fc-bc2e-55fc-b319-310f350ce7fe' => [
+        'What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.',
+        'Margaret Thatcher',
     ],
-    [
-        'I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.',
-        'Buddha',
+    '76750b1d-588a-577c-a0ca-48292ca4f859' => [
+        'Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.',
+        'Oprah Winfrey',
     ],
-    [
-        'It is human nature to instinctively rebel at obscurity or ordinariness.',
-        'Taylor Caldwell',
+    '9ec53950-6173-5d1e-b199-f54c4cc803b2' => [
+        'Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity.',
+        'Henry Van Dyke',
     ],
-    [
-        'The conundrum that I face on a daily basis is that I have two sons who have grown up watching \'The Simpsons,\' so they know exactly what buttons to push. They know how Bart irritates Homer, and they use these lines against me to tell me that I\'m not funny anymore.',
-        'Matt Groening',
+    'f0893431-6244-5af1-a06d-2d88b9e3328c' => [
+        'Life is movement-we breathe, we eat, we walk, we move!',
+        'John Pierrakos',
     ],
-    [
-        'I look at an ant and I see myself: a native South African, endowed by nature with a strength much greater than my size so I might cope with the weight of a racism that crushes my spirit.',
-        'Miriam Makeba',
+    '0b713669-1921-50bf-9ec1-5bdb62b574c3' => [
+        'Life itself is the proper binge.',
+        'Christy Turlington',
     ],
-    [
-        'I have a Woody Allen Jewish attitude to life: that it\'s all going to be disastrous. That it hasn\'t all been that way is simply down to some random quirk of fate.',
-        'Antony Sher',
+    '1fb6f8cb-d5cc-5884-b2f2-430a5dfe33c3' => [
+        'Sometimes I feel an obligation to be accessible as a personality, but for me the driving force since the beginning has always been good work, taking risks, trying new things. If the door opens, go through it. Always go forwards.',
+        'David Soul',
     ],
-    [
-        'Life is a succession of lessons, which must be lived to be understood.',
-        'Ralph Emerson',
+    'f549ceb8-9162-557e-9dbf-c0a6fa608a90' => [
+        'I gave up my struggle with perfection a long time ago. That is a concept I don\'t find very interesting anymore. Everyone just wants to look good in the photographs. I think that is where some of the pressure comes from. Be happy. Be yourself, the day is about a lot more.',
+        'Anne Hathaway',
     ],
-    [
-        'I think music, in my opinion, is not about motivation in the way it\'s - it\'s not a running base. It\'s art. And my whole philosophy of music is different. It\'s almost like cooking and serving to people, seeing them smile and enjoying the food, really.',
-        'A. R. Rahman',
+    '2bd51874-ba73-59d7-8940-b16f61b5758d' => [
+        'Boundary setting is really a huge part of time management.',
+        'Jim Loehr',
     ],
 ];

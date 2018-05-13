@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Maybe all one can do is hope to end up with the right regrets.',
-        'Sonia Sotomayor',
+    '6eceac9c-7228-512f-9ca0-7c4a98078e90' => [
+        'Success in business requires training and discipline and hard work. But if you\'re not frightened by these things, the opportunities are just as great today as they ever were.',
+        'David Rockefeller',
     ],
-    [
-        'Getting married, for me, was the best thing I ever did. I was suddenly beset with an immense sense of release, that we have something more important than our separate selves, and that is the marriage. There\'s immense happiness that can come from working towards that.',
-        'Nick Cave',
+    'c0370b20-6495-542b-aa9e-7df875f5ff60' => [
+        'I believe that if life gives you lemons, you should make lemonade... And try to find somebody whose life has given them vodka, and have a party.',
+        'Babe Ruth',
     ],
-    [
-        'The only guaranteed way to make something not very funny is to make it vague.',
-        'Thomas Lennon',
+    '35cf3420-03ce-51cf-b1f7-abe92244451b' => [
+        'To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.',
+        'Buddha',
     ],
-    [
-        'Nothing will be beyond our reach when we make the flames of creating positive deeds flare up across the country with the virtues of the young vanguard as the initial spark and bring into full play the mounting vigour of the millions of young people.',
-        'Kim Jong-un',
+    '96cea406-444c-5075-8c68-a30f60fda70e' => [
+        'Nature does nothing in vain.',
+        'Aristotle',
     ],
-    [
-        'A lion\'s work hours are only when he\'s hungry; once he\'s satisfied, the predator and prey live peacefully together.',
-        'Chuck Jones',
+    'c61582ff-404f-5cb6-a9d2-56f36f069960' => [
+        'A committee is organic rather than mechanical in its nature: it is not a structure but a plant. It takes root and grows, it flowers, wilts, and dies, scattering the seed from which other committees will bloom in their turn.',
+        'C. Northcote Parkinson',
     ],
-    [
-        'I love Jesus Christ with all my heart and everything He stands for. I think that sums up everything that I want for my life, everything I want for my family, everything I want for my career. I want it to be entertaining. I want people to smile and tap their toes, but I want it to be meaningful when the day is done.',
-        'Josh Turner',
+    '9bb00f88-084e-5dca-bcfb-bbb8d21fa5fc' => [
+        'For me the greatest beauty always lies in the greatest clarity.',
+        'Gotthold Ephraim Lessing',
     ],
-    [
-        'I make these little films. I\'m just a working person. I just study people a little bit more. It\'s more sociological, and it\'s funny anyway - not that serious. It\'s not like false humility. I just take it for what it is.',
-        'Julie Delpy',
+    '51045bb4-726a-526d-be9e-0419e08415f0' => [
+        'A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.',
+        'Moliere',
     ],
-    [
-        'Fate is in your hands and no one elses',
-        'Byron Pulsifer',
+    '8035e932-65ff-522d-a71b-22fd01272021' => [
+        'We are all broken, that\'s how the light gets in.',
+        'Ernest Hemingway',
     ],
-    [
-        'There are a lot of funny things that happen in one\'s life.',
-        'Pierce Brosnan',
+    '47005626-2c7c-51e1-8887-59b0653051cd' => [
+        'It would be good for us Africans to accept ourselves as we are and recapture some of the positive aspects of our culture.',
+        'Wangari Maathai',
     ],
-    [
-        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
-        'Evgeny Morozov',
+    'ba601ac2-688d-59d4-b94b-34f26dab69b0' => [
+        'Success is not the result of spontaneous combustion. You must set yourself on fire.',
+        'Reggie Leach',
     ],
-    [
-        'I\'m one of five sisters. I\'m the younger of twins, and we\'re the youngest of five girls, and we\'ve always been very close. We were pretty much a gang. I take after my mother a lot in terms of personality and character. She was very positive; always looked on the bright side of things. She had a tough time of it with my dad but did her best.',
-        'Jerry Hall',
+    'e25690e4-c1d1-5fce-bfaa-3aa9440e2552' => [
+        'Obedience is the mother of success and is wedded to safety.',
+        'Aeschylus',
     ],
-    [
-        'My definition of an intellectual is someone who can listen to the William Tell Overture without thinking of the Lone Ranger.',
-        'Billy Connolly',
+    '0eb80517-abbc-510f-9b7a-d7cdf72a1923' => [
+        'Do whatever interests you the most. Passion breeds success.',
+        'Shane Smith',
     ],
-    [
-        'That\'s the beauty of the Internet is that we\'re no longer tied to our communities by physical connections.',
-        'Edward Snowden',
-    ],
-    [
-        'It will be disastrous when a leader or manager shows up with one attitude one day and treats people with a different attitude the next day.',
-        'Zig Ziglar',
-    ],
-    [
-        'O, thou art fairer than the evening air clad in the beauty of a thousand stars.',
-        'Christopher Marlowe',
-    ],
-    [
-        'A body smiles, like, 72 times a day. Where does that smile go? That\'s what I want to know.',
-        'Goldie Hawn',
-    ],
-    [
-        'Clearly older women and especially older women who have led an active life or elder women who successfully maneuver through their own family life have so much to teach us about sharing, patience, and wisdom.',
-        'Alice Walker',
-    ],
-    [
-        'The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.',
+    '6e6c4952-41f8-5979-a4b0-78a61253b3a6' => [
+        'Every time I slip into the ocean, it\'s like going home.',
         'Sylvia Earle',
     ],
-    [
-        'Only solitary men know the full joys of friendship. Others have their family; but to a solitary and an exile, his friends are everything.',
-        'Willa Cather',
+    'b6e84a49-5f60-5e52-83cd-0e9b02f7528c' => [
+        'The possibilities are numerous once we decide to act and not react.',
+        'George Bernard Shaw',
     ],
-    [
-        'Make people have a smile when they finish your e-mail.',
-        'Letitia Baldrige',
+    'c73cb55f-42fa-511a-9e15-105287892511' => [
+        'You weren\'t born just to live a life and to die; you were born to accomplish something specifically. Matter of fact, success is making it to the end of your purpose; that is success... Success is not just existing. Success is making it to the end of why you were born.',
+        'Myles Munroe',
     ],
-    [
-        'The best thing to do when you find yourself in a hurting or vulnerable place is to surround yourself with the strongest, finest, most positive people you know.',
-        'Kristin Armstrong',
+    'b3eed844-3ceb-57f6-9e52-45e74ff3b9af' => [
+        'I like the sci-fi channel. Just science in general. I came across a segment on time travel and how time travel is possible. We create a spaceship that\'s moving at almost the speed of light, we go in that spaceship in outer space, and we fly around for a year, when we get back to Earth, Earth would\'ve aged 10 years.',
+        'Von Miller',
     ],
-    [
-        'Surround yourself with the best people you can find, delegate authority, and don\'t interfere as long as the policy you\'ve decided upon is being carried out.',
-        'Ronald Reagan',
+    'fe9b8faa-bcd6-5c70-b16e-4fe4bfae375a' => [
+        'Yet, it is true, poetry is delicious; the best prose is that which is most full of poetry.',
+        'Virginia Woolf',
     ],
-    [
-        'If you eat something and get fat, you should be responsible for it. I think that is the attitude of the great majority of Americans, that you should be responsible for what you eat.',
-        'Vic Snyder',
+    'd13bf87a-2e5f-57f5-b510-7800f494779b' => [
+        'Like all great travellers, I have seen more than I remember, and remember more than I have seen.',
+        'Benjamin Disraeli',
     ],
-    [
-        'You know, I\'m just a very boring, not very funny person in person. I don\'t feel pressured to be otherwise.',
-        'Lorrie Moore',
+    '7f69a91a-99b5-52ee-bcca-6c4ba72bba23' => [
+        'Memory is the mother of all wisdom.',
+        'Samuel Johnson',
     ],
-    [
-        'There was a great complexity to my father. He was a devoted family man. But, in the same breath, he simply was not suited to an anchored life. He should have been somebody who had a backpack, an old map, a bit of change in his pocket and that was it - roaming the world.',
-        'Christian Bale',
+    'db891e89-46a0-5c29-bf8b-5208718d60f9' => [
+        'I know what it is to feel unloved, to want revenge, to make mistakes, to suffer disappointment, yet also to find the courage to go forward in life.',
+        'Justine Skye',
+    ],
+    '6e6cabeb-e190-53d5-a58e-7be658bf7c2c' => [
+        'I\'m not an inspirational quote kind of person.',
+        'Christine Teigen',
+    ],
+    'afb94517-e601-55a6-9403-37290b0cdb8a' => [
+        'Most people yearn to contribute, make the world a better place and have success.... all at the same time... Make sure to give your business a background, a mission and a story. That might be the most important step part of any venture. And remember, giving may be the best investment you ever make.',
+        'Blake Mycoskie',
+    ],
+    '10672142-29ee-58b5-919e-9af94bba2028' => [
+        'Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose-it teaches you about life.',
+        'Muhammad Ali',
+    ],
+    '33cdeb33-9166-51d5-a2f8-d35af2e88eeb' => [
+        'Entrepreneurship is like a computer game in which you have to master every level before achieving success. Startups repeatedly stumble and have to go back to the drawing board. The best way to skip some levels and to increase the odds of survival is to learn from others who have already played the game.',
+        'Vivek Wadhwa',
+    ],
+    '1226dd5f-0bae-5636-8de7-9d5a2fbcd1ab' => [
+        'When I remember my family, I always remember their backs. They were always indignantly leaving places.',
+        'John Cheever',
     ],
 ];

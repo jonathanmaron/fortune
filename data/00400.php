@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If you change the way you look at things, the things you look at change.',
-        'Wayne Dyer',
+    '4561dfed-9aaa-5980-a6d8-e8d6f69c996f' => [
+        'I don\'t think homosexuality is a choice. Society forces you to think it\'s a choice, but in fact, it\'s in one\'s nature. The choice is whether one expresses one\'s nature truthfully or spends the rest of one\'s life lying about it.',
+        'Marlo Thomas',
     ],
-    [
-        'The thing that can get kind of annoying is, when you travel so much, how hectic it gets. I was being interviewed once - it was a phone interview - and they said, \'Where are you right now?\' and I didn\'t know where I was.',
-        'Manika',
+    'e85ea867-5af5-5546-ac1b-7869dfcb1b24' => [
+        'Life\'s like a movie, write your own ending. Keep believing, keep pretending.',
+        'Andrew Jackson',
     ],
-    [
-        'Go hard or go home',
-        'Phil Heath',
+    '80e68785-8079-502e-8eb1-8190511f402e' => [
+        'After every storm the sun will smile; for every problem there is a solution, and the soul\'s indefeasible duty is to be of good cheer.',
+        'William R. Alger',
     ],
-    [
-        'I know I\'m really lucky to do what I do, but sometimes with the hours and the travelling, I don\'t get to see my family and friends as much as I\'d like. It can be lonely on the road. Sometimes I come offstage after a massive adrenaline rush, and then when I go to an empty hotel room on my own, it can be an anti-climax.',
-        'Olly Murs',
+    '062dcd5d-0bc0-558a-8ec0-a95170f77577' => [
+        'The world judge of men by their ability in their profession, and we judge of ourselves by the same test: for it is on that on which our success in life depends.',
+        'William Hazlitt',
     ],
-    [
-        'It is only when I am doing my work that I feel truly alive.',
-        'Federico Fellini',
+    '153f58a3-5921-5595-8f41-8d41f09970b0' => [
+        'True, when you behold Damascus from the Salahiyeh, the last slope of the Anti-Lebanon, it is the realization of all that you have dreamed of Oriental splendor; the world has no picture more dazzling. It is Beauty carried to the Sublime, as I have felt when overlooking some boundless forest of palms within the tropics.',
+        'Bayard Taylor',
     ],
-    [
-        'Barack Obama likes to point to General Motors as the poster child for the job creation success of his economic policies. However, whatever your sentiments about the government\'s bailout of General Motors, for every job Barack Obama \'saved-or-created\' in the U.S. there were two jobs off shore.',
-        'Bob Beauprez',
+    '54d27836-a3b6-5ea8-93f7-5a8bdfccd1d3' => [
+        'We have been educated into believing someone else\'s concept of the deity, and someone else\'s standard of beauty. You have the right to practice any religion and politics in a way that best suits your freedom, your dignity, and your understanding. And once you do that, you don\'t apologize.',
+        'John Henrik Clarke',
     ],
-    [
-        'In the hierarchy of public lands, national parks by law have been above the rest: America\'s most special places, where natural beauty and all its attendant pleasures - quiet waters, the scents of fir and balsam, the hoot of an owl, and the dark of a night sky unsullied by city lights - are sacrosanct.',
-        'Michael Shnayerson',
+    'b363e8c5-2b34-5ece-bbc5-46b32b0a4ca2' => [
+        'My family\'s lineage, we are warriors. The McGregor clan, we are warriors all through. We are famous all through the world for our fighting capabilities of all generations. So I have no doubt that\'s stood to me and that led me down this path and gave me what I have.',
+        'Conor McGregor',
     ],
-    [
-        'Every minute you spend looking through clutter, wondering where you put this or that, being unable to focus because you\'re not organized costs you: time you could have spent with family or friends, time you could have been productive around the house, time you could have been making money.',
-        'Jean Chatzky',
+    '06b9c709-8547-5ed8-97e5-9cd8cd3f0497' => [
+        'When you go through a negative situation, don\'t think about it. Make it positive.',
+        'Yoko Ono',
     ],
-    [
-        'I think the attraction of \'American Idol\' is about the basic human nature attitude that is, \'We can put you up there. But we can take you down.\'',
-        'Quincy Jones',
+    'd7489604-6cab-5f1b-9f3b-429e95ff53fb' => [
+        'I\'d rather try and cram in another two gags than leave a pause to say, \'Hey, wasn\'t that bit funny?\'',
+        'Edgar Wright',
     ],
-    [
-        'Nothing happens unless first we dream.',
-        'Carl Sandburg',
+    '1a432d2b-e6f3-5b82-8a0d-00ca97eef4f7' => [
+        'No water, no life. No blue, no green.',
+        'Richard Bach',
     ],
-    [
-        'Ignorance, hatred and greed are killing nature.',
-        'Masanobu Fukuoka',
+    '1b7eca9e-cce5-5efb-aef1-b7074e3dbedb' => [
+        'Let life happen to you. Believe me: life is in the right, always.',
+        'Viktor E. Frankl',
     ],
-    [
-        'I guess the news is this: If you\'re a Republican and you smile, liberals don\'t like it. Maybe that\'s because Democrats are afraid that I\'ve been able to show an optimistic vision for this country.',
-        'Cory Gardner',
+    '7f719ade-c79e-53ec-91a3-a63893c19e4e' => [
+        'To look almost pretty is an acquisition of higher delight to a girl who has been looking plain for the first fifteen years of her life than a beauty from her cradle can ever receive.',
+        'Jane Austen',
     ],
-    [
-        'A smile is a curve that sets everything straight.',
-        'Phyllis Diller',
+    'cb8e50c4-e4a7-5f15-a2f6-7a8ce0819bf5' => [
+        'A goal without a plan is just a wish.',
+        'Larry Elder',
     ],
-    [
-        'It seems to me that the natural world is the greatest source of excitement; the greatest source of visual beauty; the greatest source of intellectual interest. It is the greatest source of so much in life that makes life worth living.',
-        'John C. Maxwell',
+    'c7ec5c55-40dd-5471-8097-97c945edf545' => [
+        'I would talk in iambic pentameter if it were easier.',
+        'Howard Nemerov',
     ],
-    [
-        'Our attitude toward life determines life\'s attitude towards us.',
-        'John N. Mitchell',
+    '1cbb44e3-08d4-5f64-ba66-938de695667e' => [
+        'Travel can be one of the most rewarding forms of introspection.',
+        'Lawrence Durrell',
     ],
-    [
-        'Don\'t limit a child to your own learning, for he was born in another time.',
-        'Rabindranath Tagore',
+    'd463346c-ed06-58f9-a872-8d9b202f9200' => [
+        'Red carpets seem so glamorous, but you\'re really just standing there sweating and worrying your hair is going to fall. And in the end, people are only going to see one picture of you. You just smile for one second and then you walk over to the side and check your phone. It\'s pretty weird.',
+        'Morgan Saylor',
     ],
-    [
-        'I\'ve shown that if you dream and are willing to work hard, you can achieve your dreams.',
-        'Mo Farah',
+    '45f5566a-c153-5871-b20b-7a3015319538' => [
+        'The greatest achievement was at first and for a time a dream. The oak sleeps in the acorn, the bird waits in the egg, and in the highest vision of the soul a waking angel stirs. Dreams are the seedlings of realities.',
+        'James Allen',
     ],
-    [
-        'Worrying is stupid. It\'s like walking around with an umbrella waiting for it to rain.',
-        'Wiz Khalifa',
+    'c018eff8-81fc-5ddf-ad47-aa6442b8c077' => [
+        'I love my brothers\' kids. It\'s funny - as an uncle, you become so protective of them.',
+        'Liam Hemsworth',
     ],
-    [
-        'Beware the barrenness of a busy life.',
-        'Swami Vivekananda',
+    '3234d54c-f4ee-5759-8f16-df2924856d81' => [
+        'I have a great family, I live an amazing life.',
+        'John Oates',
     ],
-    [
-        'If you\'re talking about Java in particular, Python is about the best fit you can get amongst all the other languages. Yet the funny thing is, from a language point of view, JavaScript has a lot in common with Python, but it is sort of a restricted subset.',
-        'Guido van Rossum',
+    'dbb3cf70-a56c-5cb7-99d6-3a6a02b4f7ac' => [
+        'I no doubt deserved my enemies, but I don\'t believe I deserved my friends.',
+        'Walt Whitman',
     ],
-    [
-        'Life moves so fast. You gotta document the good times, man.',
-        'Nas',
+    '7b9d3bc1-b1d6-5b6f-bce4-7389b828b658' => [
+        'Success in business today requires real-time, mobile access to business opportunities.',
+        'Bob McDonnell',
     ],
-    [
-        'The work an unknown good man has done is like a vein of water flowing hidden underground, secretly making the ground green.',
-        'Thomas Carlyle',
+    'a16ea76b-7d4c-5068-abe6-2d020218f1ff' => [
+        'The attitude in Baltimore in 1999 was almost one of resignation, that our problems were bigger than our capacity to handle them.',
+        'Martin O\'Malley',
     ],
-    [
-        'I guess a psychiatrist would say there\'s some good to the venting process, but it does also promote an attitude of saying, \'Hey there\'s nothing wrong with being filled with hate; there\'s so much of it around.\' I don\'t like that.',
-        'Mario Cuomo',
+    'aaaf867a-ebfb-5fdc-bf0f-d3ed0706397c' => [
+        'We need to accept that we won\'t always make the right decisions, that we\'ll screw up royally sometimes - understanding that failure is not the opposite of success, it\'s part of success.',
+        'Arianna Huffington',
     ],
-    [
-        'It\'s easy to play any musical instrument: all you have to do is touch the right key at the right time and the instrument will play itself.',
-        'Johann Sebastian Bach',
+    '5116e181-a763-5e96-9797-0ddbdf14f0d9' => [
+        'When I was about five, I gave my heart to Jesus Christ, and since then it\'s just been a stronghold in my life. Really, through the shark attack and all the hard times that my family and I went through, it gave us unity and perseverance to push through all this crazy stuff that we never knew was going to happen.',
+        'Bethany Hamilton',
     ],
-    [
-        'Every man loves what he is good at.',
-        'Thomas Shadwell',
+    '4212a5b6-8df2-53a6-9484-36d3502c60fc' => [
+        'In Scotland over many years we have cultivated through our justice system what I hope can be described as a \'culture of compassion.\' On the other hand, there still exists in many parts of the U.S., if not nationally, an attitude towards the concept of justice which can only be described as a \'culture of vengeance.\'',
+        'Keith O\'Brien',
     ],
 ];

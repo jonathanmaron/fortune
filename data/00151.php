@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Smile, smile, smile at your mind as often as possible. Your smiling will considerably reduce your mind\'s tearing tension.',
-        'Sri Chinmoy',
+    '537d120d-6db6-5bad-80ab-3cf6e99a39b7' => [
+        'We can\'t help everyone, but everyone can help someone.',
+        'Ronald Reagan',
     ],
-    [
-        'Barack Obama\'s inspirational whoosh to the presidency in 2008 was unusual. Most campaigns are less exhilarating; indeed, they are downright disappointing - until someone wins.',
-        'Joe Klein',
+    '1879ac7f-5df3-5181-a96b-ea770729a628' => [
+        'A short saying often contains much wisdom.',
+        'Sophocles',
     ],
-    [
-        'Clinton\'s hands remain incredibly clean, don\'t they, and Tony Blair\'s smile remains as wide as ever. I view these guises with profound contempt.',
-        'Harold Pinter',
+    '1fb4b414-ccb8-50ff-a567-29d2de62214a' => [
+        'The bottom line is, when people are crystal clear about the most important priorities of the organization and team they work with and prioritized their work around those top priorities, not only are they many times more productive, they discover they have the time they need to have a whole life.',
+        'Stephen Covey',
     ],
-    [
-        'Bilingualism lets you have your cake and eat it. The new language opens the doors to the best jobs in society; the old language allows you to keep your sense of \'who you are.\' It preserves your identity. With two languages, you have the best of both worlds.',
-        'David Crystal',
+    '818ab997-19b6-5b47-befe-c94c42e09d26' => [
+        'In my situation, every time I write a sentence, I\'m thinking not only of the people I ended up in college with but my siblings, my family, my school friends, the people from my neighborhood. I\'ve come to realize that this is an advantage, really: it keeps you on your toes.',
+        'Zadie Smith',
     ],
-    [
-        'Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.',
-        'Johann Wolfgang von Goethe',
+    '2dd42b64-76f8-5944-86f2-28c8125a289a' => [
+        'All life demands struggle. Those who have everything given to them become lazy, selfish, and insensitive to the real values of life. The very striving and hard work that we so constantly try to avoid is the major building block in the person we are today.',
+        'Pope Paul VI',
     ],
-    [
-        'I get pretty much all the exercise I need walking down airport concourses carrying bags.',
-        'Guy Clark',
+    '47ce13fd-e054-5ea6-900e-1dbc3ab8c125' => [
+        'Your sacred space is where you can find yourself again and again.',
+        'Joseph Campbell',
     ],
-    [
-        'A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.',
-        'Joseph Roux',
+    '8182bb06-63ed-51c7-b393-f38a5dbda4f9' => [
+        'Work harder than anybody you\'ve ever seen. That\'s what I believe.',
+        'Meek Mill',
     ],
-    [
-        'Paintings have a life of their own that derives from the painter\'s soul.',
-        'Rafael Nadal',
+    '19ac4d55-7fa4-57c1-a23f-ec5926399838' => [
+        'Beauty awakens the soul to act.',
+        'Dante Alighieri',
     ],
-    [
-        'Juvenile crime is not naturally born in the boy, but is largely due either to the spirit of adventure that is in him, to his own stupidity, or to his lack of discipline, according to the nature of the individual.',
-        'Robert Baden-Powell',
+    '68005ffc-e4fa-59cb-b6bd-ee3b4ed8f7f6' => [
+        'Personally, I\'ve learned about perseverance: when you hear the word \'No,\' and when you hear rejection, that it\'s not always final. And that timing is everything, and you have to stay the course and just keep working hard and know that, when your time comes, that it will be sweet and that it will be the perfect time.',
+        'Angela Robinson',
     ],
-    [
-        'That\'s the beauty of education, kids taking lessons out of the classroom and back into their own world where they can positively affect their family, their friends, and their greater community.',
-        'Erin Gruwell',
+    'f5627d4f-8b6a-5a1d-828b-c67b3c31a77e' => [
+        'Don\'t let what you can\'t do stop you from doing what you can do.',
+        'Unknown',
     ],
-    [
-        'Every student of science, even if he cannot start his journey where his predecessors left off, can at least travel their beaten track more quickly than they could while they were clearing the way: and so before his race is run, he comes to virgin forest and becomes himself a pioneer.',
-        'Theodore William Richards',
+    '9e38b737-8678-566d-9aeb-41c126d7e4d5' => [
+        'Acting is a sense of wonder and magic and mystery for me and when life takes me on a new journey, I simply remember the smile my first ballet recital put on my face and I move forward.',
+        'Andrea Thompson',
     ],
-    [
-        'If you give a good thing to the world, then over time your karma will be good, and you\'ll receive good.',
-        'Russell Simmons',
+    '97790930-6549-5f09-a158-e37a118b2ac4' => [
+        'It\'s music. It\'s supposed to be fun and inspirational. You have to be inspired. If I did it because it was my \'job,\' and I only did it to make money, I don\'t think I\'d still be doing it.',
+        'Max Martin',
     ],
-    [
-        'I like actors that are good with pantomime and that can transmit a lot by their presence and attitude more than through their dialogue.',
-        'Guillermo del Toro',
+    '118a4ac7-f894-5682-a1ac-7f0b641ffe2a' => [
+        'I love to see the smiles on people\'s faces when you cook for them. I love to go to different restaurants. I want to cook because I know this acting isn\'t going to last forever, and I want something to fall back on. It\'s another way to make people smile.',
+        'Raven-Symone',
     ],
-    [
-        'Ostensibly rigorous and realistic, contemporary conservatism is an ideology of denial. Its symbol is a smile button.',
-        'Christopher Lasch',
+    'df8b90ee-d331-55b3-986f-7714a9428406' => [
+        'In such ugly times, the only true protest is beauty.',
+        'Phil Ochs',
     ],
-    [
-        'I am trying to show the world that we are all human beings and that color is not important. What is important is the quality of our work.',
-        'Alvin Ailey',
+    '7e8253c0-111c-5ae6-9508-bf122b5b245b' => [
+        'I am convinced after more than 50 years in the field of motivation that anyone who wants to learn to look at life and/or their circumstances in a positive light can do so.',
+        'Zig Ziglar',
     ],
-    [
-        'I\'ve followed Leeds since I was a little kid. I used to come home from sport in the afternoon, me and my brother, and watch \'Match of the Day.\' I love the club. I want nothing but success for the club.',
-        'Russell Crowe',
+    '3d1d3fc6-f2dc-5323-a9f2-7945dadac3e6' => [
+        'It\'s funny about men and women. Men pay in cash to get them and pay in cash to get rid of them. Women pay emotionally coming and going. Neither has it easy.',
+        'Hedy Lamarr',
     ],
-    [
-        'Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product.',
-        'Elon Musk',
+    '036a93ad-a324-5dc1-81ce-af569aa37321' => [
+        'Why should we think upon things that are lovely? Because thinking determines life. It is a common habit to blame life upon the environment. Environment modifies life but does not govern life. The soul is stronger than its surroundings.',
+        'Buzz Aldrin',
     ],
-    [
-        'The world has become more complex as technology and easy travel mixes cultures without homogenizing them.',
-        'Norman Spinrad',
+    '1dcf10c2-9360-506e-91d0-a3fa4a8482b9' => [
+        'Talent alone won\'t make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: \'Are your ready?\'',
+        'Johnny Carson',
     ],
-    [
-        'We have the power to make this the best generation of mankind in the history of the world or to make it the last.',
-        'John F. Kennedy',
+    '2af3086e-c1d3-59bf-9372-29820076d0a2' => [
+        'Let us permit nature to have her way. She understands her business better than we do.',
+        'Michel de Montaigne',
     ],
-    [
-        'The man who interprets Nature is always held in great honor.',
-        'Zora Neale Hurston',
+    '13e4c8a7-bffb-5e72-be17-e9d68556d100' => [
+        'Hip-hop is more about attaining wealth. People respect success. They respect big. They don\'t even have to like your music. If you\'re big enough, people are drawn to you.',
+        'Jay-Z',
     ],
-    [
-        'I don\'t want to miss out on the chance of having a good time.',
-        'Victor Webster',
+    '0f9dafa3-d021-5f1c-a19a-0f87867bbfc6' => [
+        'The bond that links your true family is not one of blood, but of respect and joy in each other\'s life.',
+        'George Lucas',
     ],
-    [
-        'Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.',
-        'Elbert Hubbard',
+    'a99c2c90-be85-52cc-8de1-7c38ba4b5e67' => [
+        'A man has to learn that he cannot command things, but that he can command himself; that he cannot coerce the wills of others, but that he can mold and master his own will: and things serve him who serves Truth; people seek guidance of him who is master of himself.',
+        'James Allen',
     ],
-    [
-        'In nature there are few sharp lines.',
-        'A. R. Ammons',
+    'decd97e2-fa95-5615-8799-a0010e9c79ed' => [
+        'Two roads diverged in a wood and I - I took the one less traveled by, and that has made all the difference.',
+        'Robert Frost',
     ],
-    [
-        'Perseverance is the hard work you do after you get tired of doing the hard work you already did.',
-        'Newt Gingrich',
+    'c1d9de52-8fb0-5bb1-9a07-9d952ae6979a' => [
+        'I can\'t be told life is beautiful through a normal positive thinking book or a Hallmark movie; that language doesn\'t work for me.',
+        'James Gunn',
     ],
-    [
-        'To be what we are, and to become what we are capable of becoming, is the only end of life.',
-        'Robert Stevenson',
+    'b6336af0-9045-5f7f-b382-01d441cb63e3' => [
+        'The biggest thing for me is the passion that I\'ve always had for hockey. I remember growing up, no matter what I did in life, my parents always told me to try to do my best at it and be my best. I can say going through different things that that passion is the most important part. It\'s not skills or talent or any of that stuff.',
+        'Sidney Crosby',
     ],
 ];

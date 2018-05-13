@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The really magical things are the ones that happen right in front of you. A lot of the time you keep looking for beauty, but it is already there. And if you look with a bit more intention, you see it.',
-        'Vik Muniz',
+    'd43a1a21-59f9-5c5a-a5f7-cedf7c4f08dd' => [
+        'Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication. Remember all things are possible for those who believe.',
+        'Gail Devers',
     ],
-    [
-        'Never allow a person to tell you no who doesn\'t have the power to say yes.',
-        'Eleanor Roosevelt',
+    '116bbc8a-6507-5719-b46e-7cafed2b30b3' => [
+        'What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.',
+        'Chris Kyle',
     ],
-    [
-        'After I finished high school I went to Hong Kong and Thailand and spent some time there. Just to get that whole experience of being out of the bubble that I was in from high school in Vancouver, to be able to travel around and be on your own was an amazing experience.',
-        'Shay Mitchell',
+    '58cd31bf-0d22-566b-85a6-c140b80a1804' => [
+        'It takes considerable knowledge just to realize the extent of your own ignorance.',
+        'Thomas Sowell',
     ],
-    [
-        'When you\'re working hard and doing all you can to achieve your goals, anything that can give you an edge is powerful and will streamline your path to success.',
-        'Travis Bradberry',
+    '05fa3206-fdf7-554e-b6fb-a57a4bc26d0a' => [
+        'You can follow your favorite company or organization. You can also mix that in with your family and your social network and talk about all these interests in real time. That\'s the value, not the brand \'Twitter.\' Twitter just provides the venue for it.',
+        'Jack Dorsey',
     ],
-    [
-        'I could be hit by a Sara Lee truck tomorrow. Which is not a bad way of going: \'Richard Simmons Found in a Freeway in Pound Cake and Fudge, With a Smile on His Face.\' Let\'s face it. We don\'t know anything.',
-        'Richard Simmons',
+    '00c7b432-22ba-5b00-a485-e69e77c3d2fc' => [
+        'The very best hotel I\'ve stayed in is the Intercontinental on Park Lane. We went there for the Chelsea Flower Show a few years ago, and it was sheer luxury. Everybody had a smile on their face. I came home and changed all my pillows because the hotel ones were so beautiful.',
+        'Mary Berry',
     ],
-    [
-        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
-        'Peter Diamandis',
+    '8cb6059a-806e-50e2-bf17-7415a2b29e7c' => [
+        'As a former veteran, I understand the needs of veterans, and have been clear - we will work together, stand together with the Administration, but we will also question their policies when they shortchange veterans and military retirees.',
+        'Solomon Ortiz',
     ],
-    [
-        'Time changes everything except something within us which is always surprised by change.',
-        'Thomas Hardy',
+    'f4517c5c-1ea1-50c9-8c8d-95ea98a61139' => [
+        'The police are the public and the public are the police; the police being only members of the public who are paid to give full time attention to duties which are incumbent on every citizen in the interests of community welfare and existence.',
+        'Robert Peel',
     ],
-    [
-        'Beauty is produced by the pleasing appearance and good taste of the whole, and by the dimensions of all the parts being duly proportioned to each other.',
-        'Vitruvius',
+    '07677e95-f576-5abb-ba30-b8dcbecd0964' => [
+        'I never expect to see a perfect work from an imperfect man.',
+        'Alexander Hamilton',
     ],
-    [
-        'My son has been the best thing that has happened in my life. He has been amazing, and he is truly heaven-sent. And so, I just feel all that love.',
-        'Ciara',
+    'a19c9c0a-eee9-5495-9da9-34f052d35b5b' => [
+        'Life is far too important a thing ever to talk seriously about.',
+        'Aristotle',
     ],
-    [
-        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
-        'Ariana Grande',
+    '8de5650e-08ec-5aca-9127-3440bc30470c' => [
+        'A lot of punk rock is not going to be in the mainstream. It\'s below the radar. The beauty of it is that you\'re not supposed to always know. It\'s subterranean.',
+        'Billie Joe Armstrong',
     ],
-    [
-        'A doctor must work eighteen hours a day and seven days a week. If you cannot console yourself to this, get out of the profession.',
-        'Martin H. Fischer',
+    'db25c80f-2aaa-5eed-9aa6-d6a8d72f6021' => [
+        'The communism of Karl Marx would probably be actually the best for everybody as a whole. But what he didn\'t figure into was human nature, and that\'s what corrupts it.',
+        'Jesse Ventura',
     ],
-    [
-        'The laissez-faire attitude to science education has resulted in a disaster exemplified by the fact that more young people are opting for media studies than physics.',
-        'Harry Kroto',
+    'c492a5b8-8c63-5b41-9c10-02fda02bee1e' => [
+        'It\'s better to waste money, than it is to waste time. You can always get more money.',
+        'Hal Sparks',
     ],
-    [
-        'Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?',
-        'Brian Tracy',
+    '59b34910-30aa-52cd-b6e6-88b21454e434' => [
+        'I\'ve always found it easier to be funny than to be serious.',
+        'Molly Ivins',
     ],
-    [
-        'Beauty is about perception, not about make-up. I think the beginning of all beauty is knowing and liking oneself. You can\'t put on make-up, or dress yourself, or do you hair with any sort of fun or joy if you\'re doing it from a position of correction.',
-        'Kevyn Aucoin',
+    'a4f8e290-aed1-5372-94d0-17c76593cd39' => [
+        'Young man, the secret of my success is that at early age I discovered that I was not God.',
+        'Oliver Wendell Holmes, Jr.',
     ],
-    [
-        'It\'s a wonderful time when you sit down around the table for dinner and discuss life. No matter where you are, it gives the semblance of normalcy to my crazy world.',
-        'Melina Kanakaredes',
+    'c565781c-6196-5bb7-ac45-a820d506849a' => [
+        'Old wood best to burn, old wine to drink, old friends to trust, and old authors to read.',
+        'Athenaeus',
     ],
-    [
-        'Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.',
-        'Robert Baden-Powell',
+    '564d40f1-e00f-57af-b5f8-b2361548461b' => [
+        'What makes me feel good is all of the people that rooted for A.I. get a chance to say, \'He did what you never thought he could do. The critics. He did what you never thought he could accomplish.\' This is a moment that me and my fans and my family and friends can share together because we always believed in the dream.',
+        'Allen Iverson',
     ],
-    [
-        'Some people walk in the rain, others just get wet.',
-        'Roger Miller',
+    '1fa646aa-a4b0-5ddc-94b2-acc3236120fb' => [
+        'When a man tells you that he got rich through hard work, ask him: \'Whose?\'',
+        'Don Marquis',
     ],
-    [
-        'There are only three things women need in life: food, water, and compliments.',
-        'Og Mandino',
+    '874a5489-7ad9-5e28-b5aa-b8874fc2ddf4' => [
+        'If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.',
+        'Buddha',
     ],
-    [
-        'Some people dream of success, while other people get up every morning and make it happen.',
-        'Wayne Huizenga',
+    'c596cbf7-c103-5c92-952e-d209a50756fb' => [
+        'I have kind of a funny relationship with movies. I don\'t have to see the whole movie to get an impression of it or to let it have an influence on me.',
+        'Lana Del Rey',
     ],
-    [
-        'I\'m happiest with my family around me.',
-        'Amy Winehouse',
+    '70febd18-d143-5a78-a286-1e845ca44d45' => [
+        'The best thing to hold onto in life is each other.',
+        'Amelia Earhart',
     ],
-    [
-        'Success leaves clues, and if you sow the same seeds, you\'ll reap the same rewards.',
-        'Brad Thor',
+    'f6f06388-23b4-53a9-a867-8320611b5510' => [
+        'Repeal the Missouri Compromise - repeal all compromises - repeal the Declaration of Independence - repeal all past history, you still cannot repeal human nature. It will be the abundance of man\'s heart that slavery extension is wrong; and out of the abundance of his heart, his mouth will continue to speak.',
+        'Abraham Lincoln',
     ],
-    [
-        'But I have found that in the simple act of living with hope, and in the daily effort to have a positive impact in the world, the days I do have are made all the more meaningful and precious. And for that I am grateful.',
-        'Elizabeth Edwards',
+    'e305003e-07b3-5805-b156-8f9e4184eb4a' => [
+        'Men are liars. We\'ll lie about lying if we have to. I\'m an algebra liar. I figure two good lies make a positive.',
+        'Tim Allen',
     ],
-    [
-        'I\'m a happy guy. I just want to see people laugh and smile.',
-        'Gerry Cooney',
+    '406ec114-af17-59e0-bc02-2e716328906e' => [
+        'I believe the wedding vows are sacred and precious, and it\'s been one of my goals as a writer to portray the kind of marriages I\'ve seen modeled in my family - my parents and grandparents, who all celebrated fifty-year anniversaries and well-beyond.',
+        'Deborah Raney',
     ],
-    [
-        'My one regret in life is that I am not someone else.',
-        'Woody Allen',
+    '3d19c0b4-6d9b-535a-af99-73b1d1707531' => [
+        'I conclude, therefore, that this star is not some kind of comet or a fiery meteor... but that it is a star shining in the firmament itself one that has never previously been seen before our time, in any age since the beginning of the world.',
+        'Tycho Brahe',
     ],
-    [
-        'I read all the time that people think I\'m arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, \'That image doesn\'t fit you.\'',
-        'Zlatan Ibrahimovic',
+    '19b18231-05d2-5486-9aa3-8fa0183d466e' => [
+        'The mission of art is to represent nature not to imitate her.',
+        'William Morris Hunt',
     ],
 ];

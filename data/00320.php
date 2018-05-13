@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I travel the garden of music, thru inspiration. It\'s a large, very large garden, seen?',
-        'Peter Tosh',
+    '25c68a17-85a7-5a59-9d3b-55bebad06a80' => [
+        'We could only solve our problems by cooperating with other countries. It would have been paradoxical not to cooperate. And therefore we needed to put an end to the Iron Curtain, to change the nature of international relations, to rid them of ideological confrontation, and particularly to end the arms race.',
+        'Mikhail Gorbachev',
     ],
-    [
-        'Beverly Hills is too intimidating. Everyone\'s got lovely teeth, so you don\'t want to smile. Everyone\'s ripped, so you start working out at 4 in the morning and eating egg white omelets.',
-        'Rob James-Collier',
+    '55e23edc-50f0-5590-805f-cd06e8469dda' => [
+        'Music is the mediator between the spiritual and the sensual life.',
+        'Jack Canfield',
     ],
-    [
-        'If all difficulties were known at the outset of a long journey, most of us would never start out at all.',
-        'Dan Rather',
+    '2b40d727-3a8d-5c8b-ab83-9e200a6f336e' => [
+        'I have learned that champions aren\'t just born; champions can be made when they embrace and commit to life-changing positive habits.',
+        'Lewis Howes',
     ],
-    [
-        'Men want a battle to fight, an adventure to live, and a beauty to rescue. That is what is written in their hearts. That is what little boys play at. That is what men\'s movies are about. You just see it. It is undeniable.',
-        'John Eldredge',
+    '978bb62f-a77a-5e12-b1b9-941a33654acf' => [
+        'Politeness is to human nature what warmth is to wax.',
+        'Arthur Schopenhauer',
     ],
-    [
-        'Time is a beautiful thing. It\'s like when you meet an old lover on the street six years later and they don\'t look so ugly anymore.',
-        'Sarah McLachlan',
+    '3691132b-6195-5b4b-933d-b7f4bac3bf28' => [
+        'Tears of joy are like the summer rain drops pierced by sunbeams.',
+        'Hosea Ballou',
     ],
-    [
-        'No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude.',
-        'Alfred North Whitehead',
+    'e74958d8-28ef-5b95-aff8-6d49d278c50e' => [
+        'If we do not permit the earth to produce beauty and joy, it will in the end not produce food, either.',
+        'Joseph Wood Krutch',
     ],
-    [
-        'I remember telling my creative writing teacher that you never want to have a journal, because if you lose it, then someone\'s going to know all your secrets. And then she stopped using a journal, but I always write everything down... Anytime I travel, I try and fill up notepads.',
-        'Garrett Hedlund',
+    '55cc7eb5-b638-5156-92e0-996908cf4fe3' => [
+        'I would rather die of passion than of boredom.',
+        'Vincent van Gogh',
     ],
-    [
-        'I grew up in an immigrant neighborhood. We just knew the rule was you\'re going to have to work twice as hard.',
-        'Lin-Manuel Miranda',
+    'e85e70f6-919e-5065-9e09-8185bdd06d1a' => [
+        'If you spend too much time thinking about a thing, you\'ll never get it done.',
+        'Bruce Lee',
     ],
-    [
-        'Whoever is happy will make others happy too.',
-        'Anne Frank',
+    '5096d7e8-8317-5d8c-b60b-ec802723f4ec' => [
+        'When you put a lot of hard work into one goal and you achieve it, that\'s a really good feeling.',
+        'Derek Jeter',
     ],
-    [
-        'If you want to be the best, you have to do things that other people aren\'t willing to do.',
-        'Michael Phelps',
+    '768571eb-7221-5b39-ae76-5627635978ad' => [
+        'Nations need to understand their own strengths and weaknesses, and India\'s tradition of dissent and democratic debate is a positive aspect.',
+        'Rosabeth Moss Kanter',
     ],
-    [
-        'The ideal intern is committed, creative, organized, ambitious, independent, and able to crack a smile, whether meeting a celebrity or folding socks.',
-        'Emily Weiss',
+    'da868d6c-ac33-51d1-bd78-458aa4f1eb29' => [
+        'Every student of science, even if he cannot start his journey where his predecessors left off, can at least travel their beaten track more quickly than they could while they were clearing the way: and so before his race is run, he comes to virgin forest and becomes himself a pioneer.',
+        'Theodore William Richards',
     ],
-    [
-        'It\'s an absolute honor to be taking part in the pageant for the Diamond Jubilee. This is a once-in-a-lifetime opportunity and will be a moment in history that will always be remembered. I\'m really looking forward to being out on the river with friends and family. To mark this historic moment will be extremely special.',
-        'Steve McFadden',
+    '1669d405-4a9e-5d78-a21c-fb3188087bcb' => [
+        'I am both honored and blessed to have had such a wonderful career with the L.A. Galaxy and I am thankful for everything the club, the fans and the community has done for me and my family.',
+        'Cobi Jones',
     ],
-    [
-        'Any relationship should have love, and if there is no love, it is better to call off a relationship. People say that love happens only once, but I don\'t believe in it because for me, if one relationship doesn\'t work, you should move on and seek love in another relationship. Who knows; you might find love in the second relationship.',
-        'Bipasha Basu',
+    'b57d4218-b01c-5279-b760-5b9d07290672' => [
+        'Liquid architecture. It\'s like jazz - you improvise, you work together, you play off each other, you make something, they make something. And I think it\'s a way of - for me, it\'s a way of trying to understand the city, and what might happen in the city.',
+        'Frank Gehry',
     ],
-    [
-        'While we celebrate our diversity, what surprises me time and time again as I travel around the constituency is that we are far more united and have far more in common with each other than things that divide us.',
-        'Jo Cox',
+    '7906917f-2fd8-53ff-ad94-c75214acb377' => [
+        'A healthy attitude is contagious but don\'t wait to catch it from others. Be a carrier.',
+        'Tom Stoppard',
     ],
-    [
-        'Having a clear faith, based on the creed of the church is often labeled today as fundamentalism. Whereas relativism, which is letting oneself be tossed and swept along by every wind of teaching, look like the only attitude acceptable to today\'s standards.',
-        'Pope Benedict XVI',
+    '6397a97d-8671-5fbe-9f6e-77b6405af966' => [
+        'Take time for all things: great haste makes great waste.',
+        'Benjamin Franklin',
     ],
-    [
-        'Life is the most exciting opportunity we have. But we have one shot. You graduate from college once, and that\'s it. You\'re going out of that nest. And you have to find that courage that\'s deep, deep, deep in there. Every step of the way.',
-        'Wilma Rudolph',
+    '092836de-1e37-5355-9578-d6b1e125966e' => [
+        'Motivation is what gets you started. Habit is what keeps you going.',
+        'Jim Ryun',
     ],
-    [
-        'Sometimes the biggest act of courage is a small one.',
-        'Lauren Raffo',
+    'aedcb47a-6696-5e3b-8af4-bea7bfea7daa' => [
+        'Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.',
+        'Buddha',
     ],
-    [
-        'Thanks to capitalism, the importance placed on beauty has never been so manipulated. We are the guinea pigs force-fed ads that tell us how pathetic we are: that we will never be loved, happy or valuable unless we have the body, the face, the hair, even the personality that will apparently be ours, if only we buy their products.',
-        'Beth Ditto',
+    '66600acd-0c33-58e6-8a92-f187a795278c' => [
+        'A beautiful person is someone who stays true to themselves and their spirit; someone who is self-confident and can make you smile.',
+        'Helena Christensen',
     ],
-    [
-        'If you\'re walking down the right path and you\'re willing to keep walking, eventually you\'ll make progress.',
-        'Barack Obama',
+    'fceab831-8ad3-5d28-a042-f450439391cf' => [
+        'Our prime purpose in this life is to help others. And if you can\'t help them, at least don\'t hurt them.',
+        'Edward Norton',
     ],
-    [
-        'I work a lot of hours, and in this business you really try to keep as busy as you possibly can. Sometimes when you really focus on kids in your free time you lose the husband and wife relationship to some degree. It\'s been a real focus for us to make sure we stay focused on us two.',
-        'Cameron Mathison',
+    'e4b90b46-908a-51e2-8bbc-79537c5aaef9' => [
+        'If I write a book where all I\'ve ever experienced is success, people won\'t take a positive lesson from it. In being candid, I have to own up to my own failures, both in my marriage and in my work environment.',
+        'Sonia Sotomayor',
     ],
-    [
-        'We may smile at these matters, but they are melancholy illustrations.',
-        'Joseph Howe',
+    '3cf2b9e7-21ed-5523-ad23-fbaba8d20c73' => [
+        'You are never given a wish without also being given the power to make it come true. You may have to work for it, however.',
+        'Richard Bach',
     ],
-    [
-        'He who has done his best for his own time has lived for all times.',
-        'Friedrich Schiller',
+    '339e96a7-e4a5-59af-a9a3-bd0be28cfcaa' => [
+        'Don\'t believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you\'ll see the way to fly.',
+        'Richard Bach',
     ],
-    [
-        'Desire is the key to motivation, but it\'s the determination and commitment to unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
-        'Mario Andretti',
+    '53458d8d-71a4-548f-8302-2ba0457450ac' => [
+        'You must stand for something! It does not have to be grand, but it must be a positive that brings light to someone else\'s darkness.',
+        'Anthony Carmona',
     ],
-    [
-        'When I grew up here, there was no T-Hub. Probably, the closest to T was the Tank bund.',
-        'Satya Nadella',
+    '09b56aae-5c13-5e59-af37-efb51086db52' => [
+        'Two wrongs don\'t make a right, but they make a good excuse.',
+        'Thomas Szasz',
     ],
-    [
-        'The sole meaning of life is to serve humanity.',
-        'Chris Rock',
+    '246685af-0962-560b-a1eb-696cbc182450' => [
+        'I didn\'t plan on being a single mom, but you have to deal with the cards you are dealt the best way you can.',
+        'Tichina Arnold',
     ],
 ];

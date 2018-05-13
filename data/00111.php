@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Every day of my life I walk with the idea that I am black, no matter how successful I am. And our success is tempered by that; you\'re successful in this way given the fact you are black, and most blacks don\'t get to that point.',
-        'Danny Glover',
+    '744ffb95-ff1f-5289-9c45-860357b2dc93' => [
+        'New beginnings are often disguised as painful endings.',
+        'Lao Tzu',
     ],
-    [
-        'Solitary trees, if they grow at all, grow strong.',
-        'Winston Churchill',
+    '60378f91-8ec9-573f-97d8-b211d268b835' => [
+        'Nothing. We\'re all friends and friendly. So when the cameras go down, depending on the mood or the nature of the material we\'re dealing with, there\'s usually a kind of a prevailing light attitude that\'s floating around.',
+        'Richard Dean Anderson',
     ],
-    [
-        'That which you create in beauty and goodness and truth lives on for all time to come. Don\'t spend your life accumulating material objects that will only turn to dust and ashes.',
-        'Denis Waitley',
+    '4e420bb4-dcc8-512a-ad07-14bff01b6b6b' => [
+        'Ten people who speak make more noise than ten thousand who are silent.',
+        'Napoleon Bonaparte',
     ],
-    [
-        'Every success in limiting armaments is a sign that the will to achieve mutual understanding exists, and every such success thus supports the fight for international law and order.',
-        'Ludwig Quidde',
-    ],
-    [
-        'Music doesn\'t lie. If there is something to be changed in this world, then it can only happen through music.',
-        'Jimi Hendrix',
-    ],
-    [
-        'Great minds are related to the brief span of time during which they live as great buildings are to a little square in which they stand: you cannot see them in all their magnitude because you are standing too close to them.',
-        'Arthur Schopenhauer',
-    ],
-    [
-        'The Stones are a different kind of group. I realized that when I joined them. It\'s not really so much their musical ability, it\'s just they have a certain kind of style and attitude which is unique.',
-        'Mick Taylor',
-    ],
-    [
-        'We know a way now to make use of democracy, and we know how to change the attitude of people towards government, but yet the majority of people are without vision. We who have prevision must lead them and guide them into the right way if we want to escape the confusions of Western democracy and not follow in the tracks of the West.',
-        'Sun Yat-sen',
-    ],
-    [
-        'Be obscure clearly.',
-        'E. B. White',
-    ],
-    [
-        'The best revenge is to be unlike him who performed the injury.',
+    'f82b3240-8852-5512-aa30-17d0c2d8049d' => [
+        'Reject your sense of injury and the injury itself disappears.',
         'Marcus Aurelius',
     ],
-    [
-        'I wanted to do my part to help preserve that golden age of travel... I step aboard The Patron Tequila Express railcar, and I go back in time to the days when a long journey was something fun and very special.',
-        'John Paul DeJoria',
+    'b2996f35-0479-5051-99d4-94060ebaa833' => [
+        'I\'m a really, really optimistic and really, really positive person. My main thing is, \'Enjoy life. Celebrate life.\'',
+        'Luke Bryan',
     ],
-    [
-        'There was plenty of dysfunction in my family and I went to Catholic School with these psychotic nuns. I would always try to be funny to lighten the mood.',
-        'Julie Brown',
+    'e824c01f-96a1-5242-8f0d-ce1e59ebdf15' => [
+        'The trouble is you think you have time.',
+        'Buddha',
     ],
-    [
-        'No one really wants to admit they are lonely, and it is never really addressed very much between friends and family. But I have felt lonely many times in my life.',
-        'Bill Murray',
+    'd2737724-12f2-5804-9e96-170d29727a32' => [
+        'Fashion pictures show people looking glamorous. Travel pictures show a place looking at its best, nothing to do with the reality. In the cookery pages, the food always looks amazing, right? Most of the pictures we consume are propaganda.',
+        'Martin Parr',
     ],
-    [
-        'The possibilities are numerous once we decide to act and not react.',
-        'George Bernard Shaw',
+    '4aeb3783-9f94-5ad9-adfb-39d812641c6d' => [
+        'For unflagging interest and enjoyment, a household of children, if things go reasonably well, certainly all other forms of success and achievement lose their importance by comparison.',
+        'Theodore Roosevelt',
     ],
-    [
-        'Don\'t let nobody tell you that you can\'t do it. Love what you do until you don\'t love it anymore. Nothing\'s impossible.',
-        'Fetty Wap',
+    'a4f87889-9c8e-5985-ad23-eab56d103b7b' => [
+        'I think working hard at anything when you\'re young and getting positive results, it\'s always an incredible feeling to see that.',
+        'Jessica Springsteen',
     ],
-    [
-        'It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.',
-        'Dalai Lama',
+    '6dd3ad27-418b-5a4e-9fb5-08f86e502ccb' => [
+        'I have been known for some time as a person who speaks the truth and speaks it strongly. I have always called a liar a liar and a hypocrite a hypocrite.',
+        'Cindy Sheehan',
     ],
-    [
-        'You can assume that the leaf you see let go of a branch and fall towards the ground has never been considered by any being but yourself. Catch it in your hand - or, even better, keep walking until one falls into your reach naturally - and it will have spent its whole time on the planet without ever touching the ground, only because of you.',
-        'Eliot Schrefer',
+    '517db057-8c2c-5c8e-8031-c703a5a2947d' => [
+        'It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.',
+        'Proverb',
     ],
-    [
-        'Weather forecast for tonight: dark.',
-        'George Carlin',
+    'c8d08ca7-dc34-5675-9c4d-f3bdecb5c2c6' => [
+        'Radio was my life growing up. Then, I started in our family band with my uncle, my father, my aunt and my little brother. We would go to The Chicken Box and all the bars and play.',
+        'Meghan Trainor',
     ],
-    [
-        'I mostly like to travel and volunteer because I get antsy if I stay in my comfort zone for too long.',
-        'Eden Sher',
+    'b0a212e5-3549-5d6f-bd6c-694a030b5501' => [
+        'We didn\'t ever want \'Tarzan\' to feel like he was just a man. We didn\'t want him to stand up straight or wave good-bye. We wanted to make sure he always had that piece of gorilla in him, that he always had an animal attitude about him.',
+        'Kevin Lima',
     ],
-    [
-        'If at first you don\'t succeed... so much for skydiving.',
-        'Henny Youngman',
+    '5ae2a959-377f-5d4f-828b-23b8c22bc813' => [
+        'A bee is never as busy as it seems; it\'s just that it can\'t buzz any slower.',
+        'Kin Hubbard',
     ],
-    [
-        'I don\'t even really know what it is I do for a living - the level of insecurity is very, very high. You\'re making a lot of money, getting a lot of accolades and positive criticism for something where you don\'t even know what you\'re doing.',
-        'Shia LaBeouf',
+    'c29988d2-695e-585e-9c24-a41060a68761' => [
+        'The world is a crazy, beautiful, ugly complicated place, and it keeps moving on from crisis to strangeness to beauty to weirdness to tragedy. The caravan keeps moving on, and the job of the longform writer or filmmaker or radio broadcaster is to stop - is to pause - and when the caravan goes away, that\'s when this stuff comes.',
+        'David Remnick',
     ],
-    [
-        'Living life at a young age is like being a sponge thrust into the ocean. You absorb what\'s around you. If you\'re around people who are supportive and positive, that\'s how you look at the world.',
-        'Freddie Prinze, Jr.',
+    'de0302ff-065d-5aef-b19c-f0f3f193ecd9' => [
+        'Don\'t waste time on jealousy. Sometimes you\'re ahead, sometimes you\'re behind.',
+        'Mary Schmich',
     ],
-    [
-        'You can\'t study comedy; it\'s within you. It\'s a personality. My humor is an attitude.',
-        'Don Rickles',
+    'c921375f-a4e5-50f3-a158-12f1d2b8f6e9' => [
+        'Being the best at whatever talent you have, that\'s what stimulates life.',
+        'Tom Landry',
     ],
-    [
-        'As you navigate through the rest of your life, be open to collaboration. Other people and other people\'s ideas are often better than your own. Find a group of people who challenge and inspire you, spend a lot of time with them, and it will change your life.',
-        'Amy Poehler',
+    '3f1a60aa-3986-596f-b88b-70d8f5363cb0' => [
+        'To make democracy work, we must be a nation of participants, not simply observers. One who does not vote has no right to complain.',
+        'Louis L\'Amour',
     ],
-    [
-        'Dont let someone else\'s opinion of you become your reality.',
-        'Les Brown',
+    'b79a77fe-ff22-5c29-b2a5-7cc317f1a5e3' => [
+        'Chess has given me a lot more than I could ask for. I have been able to feel special, travel the world and do what I truly enjoy. Moreover, chess players love being their own boss and hate having to wake up early!',
+        'Viswanathan Anand',
+    ],
+    '870537c7-fa1b-5c7d-96af-cb6c5f216903' => [
+        'For success of any mission, it is necessary to have creative leadership. Creative leadership is vital for government, non-governmental organisations as well as for industries.',
+        'A. P. J. Abdul Kalam',
+    ],
+    'b5ea0f4e-1d80-5d7e-9924-a3fb65eed497' => [
+        'Civilization is a method of living, an attitude of equal respect for all men.',
+        'Jane Addams',
+    ],
+    '41cfe8e8-a7dc-5d7d-b7b9-2247a4aa15cd' => [
+        'So I wanted to sing inspirational music, and that\'s exactly how I approached it - only the words have been changed to declare my relationship with God.',
+        'Smokey Robinson',
+    ],
+    'eb04e56a-cafc-55df-a44f-d8cfab5fc8ca' => [
+        'When I was doing ensemble theater and comedy work, I felt I had some talents. But when I started doing my shows in Berkeley and found that I could be funny on my own, I was shocked.',
+        'Whoopi Goldberg',
+    ],
+    '868acd95-8bbd-53c6-a081-863fbd7fd300' => [
+        'In times like these, it helps to recall that there have always been times like these.',
+        'Paul Harvey',
+    ],
+    'a6b3e6c0-18fc-579f-a0f4-af8087ae269c' => [
+        'Sometimes I envy people who can be only half crazy, with one foot in the passion and one foot in the real world. But that\'s not me. I dive into the total crazy experience. That\'s the only way to travel.',
+        'Kiran Ahluwalia',
     ],
 ];

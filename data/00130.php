@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It is a blessing to have pretty people around me. I like people who are sparky, positive. Evil, dark people are repelled by me: \'Oooh no! Too much sunlight.\'',
-        'Geri Halliwell',
+    '16196b15-6d7d-5f88-b19c-da50853082ed' => [
+        'Sometimes you have to accept you can\'t win all the time.',
+        'Lionel Messi',
     ],
-    [
-        'The attention of a traveller, should be particularly turned, in the first place, to the various works of Nature, to mark the distinctions of the climates he may explore, and to offer such useful observations on the different productions as may occur.',
-        'William Bartram',
+    'c6a485d6-4dc1-5da9-89fb-2e4b6e174574' => [
+        'Sometimes people just want you to fail. Except your really good friends. I\'ve always known who my best friends were.',
+        'Kato Kaelin',
     ],
-    [
-        'I like the sci-fi channel. Just science in general. I came across a segment on time travel and how time travel is possible. We create a spaceship that\'s moving at almost the speed of light, we go in that spaceship in outer space, and we fly around for a year, when we get back to Earth, Earth would\'ve aged 10 years.',
-        'Von Miller',
+    'ebb90347-34e4-57c0-8d78-fba4281fbee7' => [
+        'Space is an inspirational concept that allows you to dream big.',
+        'Peter Diamandis',
     ],
-    [
-        'I have been able to have a family and to dedicate quality time to my two sets of twins and my husband, as well as to serve on the boards of The Michael J. Fox Foundation for Parkinson\'s Research and Montefiore Medical Center.',
-        'Karen Finerman',
+    '0f1ccb3f-1e44-56a2-9e75-9245e8100f76' => [
+        'Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.',
+        'Carl Jung',
     ],
-    [
-        'To be upset over what you don\'t have is to waste what you do have.',
-        'Ken S. Keyes',
+    '628a832c-bc81-5a40-bb60-e2238c8976e8' => [
+        'There are certain things about me that I will never tell to anyone because I am a very private person. But basically, what you see is who I am. I\'m independent, I do like to be liked, I do look for the good side of life and people. I\'m positive, I\'m disciplined, I like my life in order, and I\'m neat as a pin.',
+        'Mary Tyler Moore',
     ],
-    [
-        'Someone asked me the other day what it feels like to see all my \'old stuff\' reappearing, at long last, in digital. And I had to smile because to me it doesn\'t feel like \'old stuff.\'',
-        'Barbara Hambly',
+    'ad7870c2-c047-5b05-a354-52444b476a0c' => [
+        'All the trouble you will cause by not leaving a will. All the heartache! Family feuds are going to happen anyway, so be as clear as you can. And even if it\'s only to leave it to the cat\'s home, make a will.',
+        'Joanna Lumley',
     ],
-    [
-        'Originally the dream was about traveling and developing a job that would permit me to travel. And I decided to go into street performing because it was a traveling job; it would let me go around the world.',
-        'Guy Laliberte',
+    '6d1b5007-f925-5254-830d-82e9f0995b30' => [
+        'The Book of Mormon is our handbook of instructions as we travel the pathway from bad to good to better and strive to have our hearts changed.',
+        'David A. Bednar',
     ],
-    [
-        'People might not get all they work for in this world, but they must certainly work for all they get.',
-        'Frederick Douglass',
+    'ae540163-df7c-54df-b077-59554303d58b' => [
+        'Only I can change my life. No one can do it for me.',
+        'Carol Burnett',
     ],
-    [
-        'Let me recommend the best medicine in the world: a long journey, at a mild season, through a pleasant country, in easy stages.',
-        'James Madison',
+    '5a3fd17f-bad3-51b5-a95f-65df18c0b405' => [
+        'Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.',
+        'Thomas Carlyle',
     ],
-    [
-        'I believe that when you put a smile out there, you get a smile back.',
-        'Heidi Klum',
+    '8268d7cc-1903-5864-b3e1-812893a95f56' => [
+        '\'Tis easy enough to be pleasant, When life flows along like a song; But the man worth while is the one who will smile when everything goes dead wrong.',
+        'Ella Wheeler Wilcox',
     ],
-    [
-        'All the adversity I\'ve had in my life, all my troubles and obstacles, have strengthened me... You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.',
-        'Walt Disney',
+    '963d90e7-5479-589b-a033-75da0d4f6816' => [
+        'You\'re perceived as being a success if you find a job in some big city and work with hundreds of other people and draw a paycheck every month.',
+        'Jerry Moran',
     ],
-    [
-        'I work 338 days a year, 16 hours a day.',
-        'Dave Pelzer',
+    '78c1dc73-1d65-582e-b888-e50ba5651f89' => [
+        'All the perplexities, confusion and distress in America arise, not from defects in their Constitution or Confederation, not from want of honor or virtue, so much as from the downright ignorance of the nature of coin, credit and circulation.',
+        'John Adams',
     ],
-    [
-        'When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty.',
-        'John Muir',
+    '5fc145dc-0bd2-57a9-b3e0-003c565b4cbf' => [
+        'I feel the best after a workout - I\'m sweaty and exhausted, but it also gives me an energy I really like.',
+        'Hilary Rhoda',
     ],
-    [
-        'Each time we face a fear, we gain strength, courage, and confidence in the doing.',
-        'Unknown',
+    '5e3a4035-6291-5e36-a8db-a83f1227a4db' => [
+        'With just about every player in Australia, his whole goal and ambition is to play for Australia. That\'s why they\'re playing first class cricket. It\'s just a different attitude.',
+        'Shane Warne',
     ],
-    [
-        'Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.',
-        'Pope John XXIII',
+    '1696039b-52a8-54e6-8791-6238ec79388c' => [
+        'Happiness lies in the joy of achievement and the thrill of creative effort.',
+        'Franklin D. Roosevelt',
     ],
-    [
-        'I did the best I could, and in some arenas, my best was not good enough. I\'ve made some bad choices.',
-        'Amy Grant',
+    '3d6dbe66-7fd5-5f7c-a1a6-8d241c39ba39' => [
+        'Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending.',
+        'Carl Bard',
     ],
-    [
-        'It\'s simple, if it jiggles, it\'s fat.',
-        'Arnold Schwarzenegger',
+    '90353cc2-fbc3-52fa-a3b4-f9c0e77fbfd2' => [
+        'You will not be punished for your anger, you will be punished by your anger.',
+        'Buddha',
     ],
-    [
-        'Beware of missing chances; otherwise it may be altogether too late some day.',
-        'Franz Liszt',
+    '48750461-a18b-5055-bccc-d10f369bf4ff' => [
+        'Delicious autumn! My very soul is wedded to it, and if I were a bird I would fly about the earth seeking the successive autumns.',
+        'George Eliot',
     ],
-    [
-        'Freedom is the right to live as we wish.',
-        'Epictetus',
+    'c4b32b3e-a185-57a0-b3bd-c44be1acf4a5' => [
+        'Big jobs usually go to the men who prove their ability to outgrow small ones.',
+        'Theodore Roosevelt',
     ],
-    [
-        'My ultimate aim is to make euthanasia a positive experience.',
-        'Jack Kevorkian',
+    'd9a8c51a-2b77-510a-aeb5-b8f0d8030eaf' => [
+        'I was so embarrassed about mispronouncing words. I just knew how to smile.',
+        'Adriana Lima',
     ],
-    [
-        'When you begin to touch your heart or let your heart be touched, you begin to discover that it\'s bottomless.',
-        'Pema Chodron',
+    '6213242f-828a-54c9-8ae4-2003196ee2f9' => [
+        'My attitude is, a monument, a statue, ought to signify unity instead of division.',
+        'Bill Nelson',
     ],
-    [
-        'We sometimes laugh from ear to ear, but it would be impossible for a smile to be wider than the distance between our eyes.',
-        'Malcolm de Chazal',
+    '15fe709a-f2a4-5368-93c4-ca8fab66c1d5' => [
+        'Failure is the key to success; each mistake teaches us something.',
+        'Morihei Ueshiba',
     ],
-    [
-        'There\'s beauty everywhere. There are amazing things happening everywhere, you just have to be able to open your eyes and witness it. Some days, that\'s harder than others.',
-        'Sarah McLachlan',
+    'ee6d763a-1c22-5f02-8d20-7a215127b0cc' => [
+        'Loyal and efficient work in a great cause, even though it may not be immediately recognized, ultimately bears fruit.',
+        'Jawaharlal Nehru',
     ],
-    [
-        'Be regular and orderly in your life, so that you may be violent and original in your work.',
-        'Gustave Flaubert',
+    '4f9b46c3-bdef-5e54-8452-0c31d90285c5' => [
+        'The worst part of success is, to me, adapting to it. It\'s scary.',
+        'Kendrick Lamar',
     ],
-    [
-        'It\'s not the tools that you have faith in - tools are just tools. They work, or they don\'t work. It\'s people you have faith in or not. Yeah, sure, I\'m still optimistic I mean, I get pessimistic sometimes but not for long.',
-        'Steve Jobs',
+    '21826564-182c-5c57-8486-2af20e8acc5f' => [
+        'I like to stay happy, and I like to live life light and make the best of life.',
+        'Ciara',
     ],
 ];

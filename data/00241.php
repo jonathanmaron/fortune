@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It is no use saying, \'We are doing our best.\' You have got to succeed in doing what is necessary.',
-        'Winston Churchill',
+    '0d389d28-ab99-5807-9ba9-fd3d8e94ee9f' => [
+        'Happiness must happen, and the same holds for success: you have to let it happen by not caring about it.',
+        'Viktor E. Frankl',
     ],
-    [
-        'Guilt can prevent us from setting the boundaries that would be in our best interests, and in other people\'s best interests.',
-        'Melody Beattie',
+    'c5601ecd-14a2-5b6c-98e1-28d0c25ea714' => [
+        'The industrial revolution allowed us, for the first time, to start replacing human labour with machines.',
+        'Vitalik Buterin',
     ],
-    [
-        'When people ask me about my story, I just go through the positive stuff: the tent-pole moments, the big landmark checkpoints.',
-        'Shia LaBeouf',
+    '9d641ae5-e2cc-5c43-b9ee-b33c1dad7424' => [
+        'Those who say we should dismantle the role of Poet Laureate altogether, the trick they miss is that being called this thing, with the weight of tradition behind it, and with the association of the Royal family, does allow you to have conversations and to open doors, and wallets, for the good of poetry in a way that nothing else would allow.',
+        'Andrew Motion',
     ],
-    [
-        'I think there are some liberals who are extremely biased about Fox News and wish to shun it or wish to criticize any liberal who appears on Fox News. That, to me, is not a particularly liberal attitude.',
-        'Alan Colmes',
+    '49f07bb5-de6c-5352-b83a-326fc6cbfe13' => [
+        'Happiness is just a positive perception from our brain. Some days, you will be unhappy. Our brain is a tool we use. It\'s not who we are.',
+        'James Altucher',
     ],
-    [
-        'Unless I can come in in the morning and smile, walk in the lobby and say, \'Good morning!\' - if I am stressed - I am not going to do a good job. Everybody is watching us. They are feeding off of our energy.',
-        'Angela Ahrendts',
+    '6c8f14bc-24ef-5e10-88d4-f412fc426429' => [
+        'Originally the dream was about traveling and developing a job that would permit me to travel. And I decided to go into street performing because it was a traveling job; it would let me go around the world.',
+        'Guy Laliberte',
     ],
-    [
-        'I saw 28 Days. I don\'t remember rehab being like a day camp or being that funny. Rehab is a dumping ground. It\'s a big landfill.',
-        'Charlie Sheen',
+    '210d6de5-fb10-56f3-a84b-e7c04888a876' => [
+        'A man sees in the world what he carries in his heart.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'If atomic bombs are to be added as new weapons to the arsenals of a warring world, or to the arsenals of nations preparing for war, then the time will come when mankind will curse the names of Los Alamos and of Hiroshima.',
-        'J. Robert Oppenheimer',
+    '2eed0837-af11-5bf7-a758-d0c59190e1d9' => [
+        'I think that anybody that smiles automatically looks better.',
+        'Diane Lane',
     ],
-    [
-        'My store, Wine Library, outsells big national chains. How do you think we do it? It started with hustle. I always say that our success wasn\'t due to my hundreds of online videos about wine that went viral, but to the hours I spent talking to people online afterward, making connections and building relationships.',
-        'Gary Vaynerchuk',
+    'f0e9b029-68dd-5259-8f73-0a970954b438' => [
+        'When we see the shadow on our images, are we seeing the time 11 minutes ago on Mars? Or are we seeing the time on Mars as observed from Earth now? It\'s like time travel problems in science fiction. When is now; when was then?',
+        'Bill Nye',
     ],
-    [
-        'Success is very ephemeral. You depend entirely on the desire of others, which makes it difficult to relax.',
-        'Eva Green',
+    '24d2b4bb-7eea-5d8e-9e57-609ead9b2822' => [
+        'Try not to become a man of success, but rather try to become a man of value.',
+        'Albert Einstein',
     ],
-    [
-        'To lead people walk behind them.',
-        'Lao Tzu',
+    '653fd759-da1a-561f-b7ba-8132c8eb9100' => [
+        'The further we distance ourselves from the spell of the present, explored by our senses, the harder it will be to understand and protect nature\'s precarious balance, let alone the balance of our own human nature.',
+        'Diane Ackerman',
     ],
-    [
-        'Success is doing ordinary things extraordinarily well.',
-        'Jim Rohn',
+    'cc8a5876-c570-535e-a364-e2b7beacd225' => [
+        'I like girls that have a nice smile and nice eyes. I want to date a girl who understands my busy schedule and that I have to be on tour a lot. And she has to make me laugh!',
+        'Austin Mahone',
     ],
-    [
-        'What would be left of our tragedies if an insect were to present us his?',
-        'Emile M. Cioran',
+    '5b06531c-4e29-5067-b75a-dfb90b88261f' => [
+        'Singleness of purpose is one of the chief essentials for success in life, no matter what may be one\'s aim.',
+        'John D. Rockefeller',
     ],
-    [
-        'My grandmother started walking five miles a day when she was sixty. She\'s ninety-seven now, and we don\'t know where the hell she is.',
-        'Ellen DeGeneres',
+    'fc51d3b6-1b43-56b5-8907-7128df4b204f' => [
+        'Fortune befriends the bold.',
+        'Emily Dickinson',
     ],
-    [
-        'It all depends on how we look at things, and not how they are in themselves.',
+    'd092940d-eb12-5531-b3ed-c67c98e8cd60' => [
+        'People are saying I am against the chador. I am not. On the contrary. I am for traditional family values.',
+        'Rula Ghani',
+    ],
+    '70a1907f-2613-5cdd-a0d7-26f82030fd0d' => [
+        'If you have a good support system like your family and your friends around you, then you can\'t go wrong. So just believe in yourself, do you your thing, and stay strong in what you believe in.',
+        'Roman Reigns',
+    ],
+    'a63fe3d2-70fb-5c36-b5e7-418c853f761f' => [
+        'I\'m a misplaced American, but don\'t know where I was misplaced.',
+        'Ruby Wax',
+    ],
+    '0f2e452c-b0dd-5e39-bb0e-d8303d87f1da' => [
+        'I believe in soulmates, yes, but I believe you also have to work at love. I happen to believe your soulmate doesn\'t have to be your partner - your soulmate could be your best friend, your sibling, it doesn\'t have to be the person you marry.',
+        'Cheryl Cole',
+    ],
+    '6b063559-1125-5ef6-9940-2d11fdca2720' => [
+        'They say that time changes things, but you actually have to change them yourself.',
+        'Andy Warhol',
+    ],
+    '090cb119-8a0e-5208-85f7-66795431ad23' => [
+        'Who looks outside, dreams; who looks inside, awakes.',
         'Carl Jung',
     ],
-    [
-        'The thoughts we choose to think are the tools we use to paint the canvas of our lives.',
-        'Louise Hay',
+    'b3e317eb-b449-502d-927e-421a3fdde9bb' => [
+        'I got attention by being funny at school, pretending to be retarded, and jumping around with a deformed hand.',
+        'Leonardo DiCaprio',
     ],
-    [
-        'Focus 90% of your time on solutions and only 10% of your time on problems.',
-        'Anthony J. D\'Angelo',
+    '2d225e90-c666-571e-b8c8-958e494e475e' => [
+        'It\'s not the tools that you have faith in - tools are just tools. They work, or they don\'t work. It\'s people you have faith in or not. Yeah, sure, I\'m still optimistic I mean, I get pessimistic sometimes but not for long.',
+        'Steve Jobs',
     ],
-    [
-        'Its funny, because for females in general - not just in music, but the corporate ladder as well - anything we do has always been harder for us. When it comes to music, the industry wants you to conform, to look like this and to sound like this and do this or that. It makes it harder. It\'s harder for us to come out and be bosses and lead the pack.',
-        'Missy Elliott',
+    'a11ebd07-dd03-52de-b275-d86cb7fcd87a' => [
+        'So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservation, all of which may appear to give one peace of mind, but in reality, nothing is more damaging to the adventurous spirit.',
+        'Khalil Gibran',
     ],
-    [
-        'It is through gratitude for the present moment that the spiritual dimension of life opens up.',
-        'Buddha',
+    '31897fab-32c6-5541-977d-5ea616a1f506' => [
+        'You have to be odd to be number one.',
+        'Dr. Suess',
     ],
-    [
-        'If you do what you love, you\'ll never work a day in your life.',
-        'Marc Anthony',
+    '37bc22d2-7f83-5d75-b92c-98795b9dc5de' => [
+        'Generally, I love being part of a project that imparts a positive message, is somehow educational or enlightening, helps to bridge differences, or inspires viewers in some way.',
+        'Nazanin Boniadi',
     ],
-    [
-        'There comes a time when people get tired of being pushed out of the glittering sunlight of life\'s July and left standing amid the piercing chill of an alpine November.',
-        'Martin Luther King, Jr.',
-    ],
-    [
-        'I was obliged to be industrious. Whoever is equally industrious will succeed equally well.',
-        'Johann Sebastian Bach',
-    ],
-    [
-        'In 1967 I entered Harvard as a freshman, confident - in the way that only 17-year-olds are - that I could change the world. My major was African Studies, and my plan was to travel to Tanzania, where President Julius Nyerere was creating a government based on democracy and socialism.',
-        'Bonnie Raitt',
-    ],
-    [
-        'My generation was born to work with social media - it\'s a natural part of our communication with the world.',
-        'Anwar Hadid',
-    ],
-    [
-        'Kindness is the language which the deaf can hear and the blind can see',
-        'Mark Twain',
-    ],
-    [
-        'Without a family, man, alone in the world, trembles with the cold.',
-        'Andre Maurois',
+    '06d4057a-f03a-5b11-8e06-06b808d5847c' => [
+        'Comedy is surprises, so if you\'re intending to make somebody laugh and they don\'t laugh, that\'s funny.',
+        'Norm MacDonald',
     ],
 ];

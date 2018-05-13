@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Beauty is a gift, just like good health or intelligence. The only thing is not to be proud of being beautiful. Because you didn\'t do anything - it was given to you.',
-        'Monica Bellucci',
+    '39882271-efd9-5d5c-afaf-72f30ed7ff22' => [
+        'Imagination is the highest kite one can fly.',
+        'Lauren Bacall',
     ],
-    [
-        'No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other\'s worth.',
-        'Robert Southey',
+    '03c64e2c-1c8e-5388-9671-0faeb2df9262' => [
+        'The best time for you to hold your tongue is the time you feel you must say something or bust.',
+        'Josh Billings',
     ],
-    [
-        'Success - it\'s what you do with what you\'ve got.',
-        'Woody Hayes',
+    'fdcea44e-2181-5ef7-9386-c2f2bf41e113' => [
+        'Our body is a machine for living. It is organized for that, it is its nature. Let life go on in it unhindered and let it defend itself.',
+        'Leo Tolstoy',
     ],
-    [
-        'I\'ve done so much travelling in the past few years, and when you travel, you realise that we do actually have a cool, clean look in Scandinavia - it\'s not just Denmark - which I think brings peace if you have it in your home.',
-        'Birgitte Hjort Sorensen',
+    '2f8c281b-aeca-5dc6-a459-0b5977fa5edb' => [
+        'For all of those willing to help me start a family, I am flattered. I will let you know when I need your help.',
+        'Paula Abdul',
     ],
-    [
-        'One can ascend to a higher development only by bringing rhythm and repetition into one\'s life. Rhythm holds sway in all nature.',
-        'Rudolf Steiner',
+    '7716a220-1cc0-5176-97d1-6d84d4e17c2f' => [
+        'I\'m a positive guy, even if I don\'t smile a lot.',
+        'James Arthur',
     ],
-    [
-        'It is impossible to persuade a man who does not disagree, but smiles.',
-        'Muriel Spark',
+    'a8201acb-b038-5531-82eb-9d541b427fee' => [
+        'Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.',
+        'Buddha',
     ],
-    [
-        'Every year, like a good Catholic, I wait for Christmas. Putting up the lights, decorating the tree, making sweets and then unwrapping gifts on Christmas morning... it\'s a tradition my family has followed since I was very little.',
-        'Malaika Arora Khan',
+    '7fe84a49-a9d4-509f-8ee4-13047557d0a4' => [
+        'A hybrid human-robot mission to investigate an asteroid affords a realistic opportunity to demonstrate new technological capabilities for future deep-space travel and to test spacecraft for long-duration spaceflight.',
+        'Buzz Aldrin',
     ],
-    [
-        'I think it\'s important for us as a society to remember that the youth within juvenile justice systems are, most of the time, youths who simply haven\'t had the right mentors and supporters around them - because of circumstances beyond their control.',
-        'Q\'orianka Kilcher',
+    'af9e9084-ada9-5a6a-814a-362671e18587' => [
+        '\'Sunset Boulevard\' - the story of Hollywood movies draped on a depressing sex affair - is an uncompromising study of American decadence displaying a sad, worn, methodical beauty few films have had since the late twenties.',
+        'Manny Farber',
     ],
-    [
-        'Really you just gotta keep chugging along and keep a positive attitude and get through all the problems. You gotta face them, otherwise you don\'t get through.',
-        'Lesley Gore',
+    '1ae2efef-3e91-5881-a926-152e357a6334' => [
+        'Freedom is what you do with what\'s been done to you.',
+        'Jean-Paul Sartre',
     ],
-    [
-        'Disasters are called natural, as if nature were the executioner and not the victim.',
-        'Eduardo Galeano',
+    'd9660127-50ff-5233-9059-6c3d173532e7' => [
+        'Men talk of killing time, while time quietly kills them.',
+        'Dion Boucicault',
     ],
-    [
-        'What happens in the context of war is that, in order for you to make a child into a killer, you destroy everything that they know, which is what happened to me and my town. My family was killed, all of my family, so I had nothing.',
-        'Ishmael Beah',
+    'f94fa155-1fb0-506e-ad43-022fa5716e71' => [
+        'To conceal anything from those to whom I am attached, is not in my nature. I can never close my lips where I have opened my heart.',
+        'Charles Dickens',
     ],
-    [
-        'People ask why there are so few female artists who succeed. It\'s because women are not ready to sacrifice as much as men. Women want a man, they want a family, they want to have children, they want to be loved, and to be an artist. And they can\'t; it\'s impossible.',
-        'Marina Abramovic',
+    '199c5b43-f80b-5799-a7ec-08d75d230dd6' => [
+        'People always fear change. People feared electricity when it was invented, didn\'t they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters.',
+        'Bill Gates',
     ],
-    [
-        'It is in the character of very few men to honor without envy a friend who has prospered.',
-        'Aeschylus',
+    'f6a4529a-0509-52e0-8a8e-2f3338224257' => [
+        'The new midlife is where you realize that even your failures make you more beautiful and are turned spiritually into success if you became a better person because of them. You became a more humble person. You became a more merciful and compassionate person.',
+        'Marianne Williamson',
     ],
-    [
-        'You may be deceived if you trust too much, but you will live in torment if you don\'t trust enough.',
-        'Frank Crane',
+    '703ef2c8-0f9f-5d9f-bd96-7a4f1cab0dd3' => [
+        'My whole life is about winning. I don\'t lose often. I almost never lose.',
+        'Marcus Aurelius',
     ],
-    [
-        'The only real mistake is the one from which we learn nothing.',
-        'John Powell',
-    ],
-    [
-        'He who looks the higher is the more highly distinguished, and turning over the great book of nature (which is the proper object of philosophy) is the way to elevate one\'s gaze.',
-        'Galileo Galilei',
-    ],
-    [
-        'Reality is easy. It\'s deception that\'s the hard work.',
-        'Lauryn Hill',
-    ],
-    [
-        'When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.',
-        'Helen Keller',
-    ],
-    [
-        'We should not give up and we should not allow the problem to defeat us.',
-        'A. P. J. Abdul Kalam',
-    ],
-    [
-        'We have a system that increasingly taxes work and subsidizes nonwork.',
-        'Milton Friedman',
-    ],
-    [
-        'I grew up in Brooklyn, and my parents were Holocaust survivors, so they never taught me anything about nature, but they taught me a lot about gratitude.',
-        'Louie Schwartzberg',
-    ],
-    [
-        'Wise and humane management of the patient is the best safeguard against infection.',
-        'Florence Nightingale',
-    ],
-    [
-        'If you can capture the humanity of a family struggling in an economic crisis you can make a difference. You can raise awareness just of the simple humanity.',
-        'Emily Blunt',
-    ],
-    [
-        'Time stays long enough for anyone who will use it.',
+    '25060397-9599-53b5-8e64-51a6304babed' => [
+        'Who sows virtue reaps honour.',
         'Leonardo da Vinci',
     ],
-    [
-        'You can\'t stop the waves, but you can learn to surf.',
-        'Jon Kabat-Zinn',
+    '5b95acd1-4d86-5e75-b915-a240149f1724' => [
+        'The only thing I\'m addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent.',
+        'Charlie Sheen',
+    ],
+    '882cad1e-6536-51a1-aec3-23077850ead7' => [
+        'I sat in at every club in New York City, jamming with musicians, because it felt right - and because it felt right and we were having fun - the people dancing and sipping their drinks in the clubs felt it too and it made them smile.',
+        'Ray Conniff',
+    ],
+    '01c3609a-1883-5349-8d32-a85477beb783' => [
+        'A lot of people think they should be happy all the time. But the writer understands you need both. You need the whole piano: the richness of the whole human experience. Depression, suffering and anger are all part of being human.',
+        'Janet Fitch',
+    ],
+    '214d3d2b-0971-5d51-8d30-7d68b6bc44fb' => [
+        'You can\'t be afraid to fail. It\'s the only way you succeed - you\'re not gonna succeed all the time, and I know that.',
+        'LeBron James',
+    ],
+    '22eeea74-116e-5469-9b37-bf21ec827708' => [
+        'I\'d rather not have a moment when I\'m known for my looks; being funny and interesting lasts longer.',
+        'Kelly Ripa',
+    ],
+    'a2a08468-a25b-50c2-a04b-8b5fc6366235' => [
+        'While it is desirable to build up the colored race, we must not sacrifice our best and purest white friends.',
+        'Hiram Rhodes Revels',
+    ],
+    '357a59b8-f743-54de-9ff3-48651f811732' => [
+        'We\'ve got fuel prices coming down and good travel numbers coming out, so it\'s not surprising airline stocks are going up.',
+        'Andrew Sullivan',
+    ],
+    '835e2494-44cd-5160-a843-fc063773928f' => [
+        'Jazz, to me, is one of the inherent expressions of Negro life in America: the eternal tom-tom beating in the Negro soul - the tom-tom of revolt against weariness in a white world, a world of subway trains, and work, work, work; the tom-tom of joy and laughter, and pain swallowed in a smile.',
+        'Langston Hughes',
+    ],
+    'cc77ba62-7736-567d-96e0-3e269da84db4' => [
+        'Always keep your smile. That\'s how I explain my long life.',
+        'Jeanne Calment',
+    ],
+    '83dc0177-22d2-5a0c-a2f7-923e9c5c5671' => [
+        'You get more churches burned down in the United States in the last two years than in the last hundred, because of the lack of understanding of culture and diversity and the beauty of it.',
+        'Edward James Olmos',
     ],
 ];

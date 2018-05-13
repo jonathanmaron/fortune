@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Majorities, as such, afford no guarantees for justice. They are men of the same nature as minorities. They have the same passions for fame, power, and money, as minorities; and are liable and likely to be equally - perhaps more than equally, because more boldly - rapacious, tyrannical and unprincipled, if intrusted with power.',
-        'Lysander Spooner',
+    'f99e5680-33be-55a5-9470-9d2bf88276f6' => [
+        'The attitude of independence toward a constructed language which all national speakers must adopt is really a great advantage, because it tends to make man see himself as the master of language instead of its obedient servant.',
+        'Edward Sapir',
     ],
-    [
-        'My life needs editing.',
-        'Jack Nicholson',
+    '733a0afd-9f9c-53b3-ad00-318f63542051' => [
+        'Chicago is an October sort of city even in spring.',
+        'Nelson Algren',
     ],
-    [
-        'Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.',
-        'Charles Eastman',
+    'fe5a8778-baaa-5627-948d-7d013f7acef6' => [
+        'Success represents the 1% of your work which results from the 99% that is called failure.',
+        'Soichiro Honda',
     ],
-    [
-        'Action is drama. If we cannot make the audience laugh, smile or cry with us, we are not actors.',
-        'Sonny Chiba',
+    'cdc15ea5-c38c-54d7-bdff-b7a14911119b' => [
+        'A woman knows by intuition, or instinct, what is best for herself.',
+        'Marilyn Monroe',
     ],
-    [
-        'I know what it\'s like to be famous. It\'s good money and it\'s great fun. A real kick in the pants. People wave at you and smile at you. You get great tables in restaurants. They send you gifts - beautiful clothes and cars.',
-        'Pierce Brosnan',
+    'bf697493-f226-5f52-b8b5-08568eb25ae4' => [
+        'Smog is affecting larger parts of China, and environmental pollution has become a major problem, which is nature\'s red-light warning against the model of inefficient and blind development.',
+        'Li Keqiang',
     ],
-    [
-        'Although we can never fully repay our veterans, on Veterans Day we thank our veterans for their selflessness and commit to do what we can to improve the quality of life for our veterans and military families in communities across America.',
-        'Helen Mirren',
+    '33f90bd0-c181-579c-8564-4c69f604e8d9' => [
+        'Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.',
+        'Unknown',
     ],
-    [
-        'The journey of a thousand miles begins with one step.',
-        'Lao Tzu',
+    '552ef1f4-924c-5cb5-84d1-85cab3cc360f' => [
+        'Do not let a flattering woman coax and wheedle you and deceive you; she is after your barn.',
+        'Hesiod',
     ],
-    [
-        'The audience changes every night. You\'re the same person. You have to speak your mind and do the stuff that you think is funny and makes you laugh.',
-        'Joe Rogan',
+    'aa5d98bc-01a4-57a3-b749-8c0c42a47b40' => [
+        'An artist cannot fail; it is a success to be one.',
+        'Charles Horton Cooley',
     ],
-    [
-        'The best way to predict your future is to create it.',
-        'Peter Drucker',
+    '21040980-a816-5ce4-955f-0d87eb09dfb1' => [
+        'Since the end of the 1970s, something has gone profoundly wrong in America. Inequality has soared. Educational progress slowed. Incarceration rates quintupled. Family breakdown accelerated. Median household income stagnated.',
+        'Nicholas Kristof',
     ],
-    [
-        'These flowers, which were splendid and sprightly, waking in the dawn of the morning, in the evening will be a pitiful frivolity, sleeping in the cold night\'s arms.',
-        'Pedro Calderon de la Barca',
+    '7dd5e133-8a0e-5c6e-9bae-a72f35184379' => [
+        'I love nerds. Comic-Con junkies are the tastemakers of tomorrow. Isn\'t that funny? The tables have turned.',
+        'Kristen Bell',
     ],
-    [
-        'I was asked to act when I couldn\'t act. I was asked to sing \'Funny Face\' when I couldn\'t sing, and dance with Fred Astaire when I couldn\'t dance - and do all kinds of things I wasn\'t prepared for. Then I tried like mad to cope with it.',
-        'Audrey Hepburn',
+    '8c325e6a-6dc6-550a-b465-73369b2499f4' => [
+        'Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.',
+        'Byron Pulsifer',
     ],
-    [
-        'It is impossible to exaggerate the wide, and widening, gulf between the American attitude on the Iraq war and the view from our friends across the Atlantic.',
-        'Nick Clooney',
+    '5b4920a5-7210-543d-bc27-a97701eccb9d' => [
+        'Beauty and the devil are the same thing.',
+        'Robert Mapplethorpe',
     ],
-    [
-        'To love beauty is to see light.',
-        'Victor Hugo',
+    'd08080a2-21ca-575f-961e-3a2998639c07' => [
+        'It was through the private world of family that the public world of politics came alive for me: living in intimate proximity with people for whom larger questions of ideology and belief, as well as issues relating to politics and governance, were vivid daily realities.',
+        'Sonia Gandhi',
     ],
-    [
-        'People are crazy and times are strange/ I\'m locked in tight, I\'m out of range/ I used to care, but things have changed.',
-        'Bob Dylan',
+    '47e84965-cc1b-5edc-9dd9-1a7a46827bb9' => [
+        'Enhancing a woman\'s silhouette and enhancing a woman\'s beauty - both contribute to enhancing her confidence, so they\'re synonymous, really.',
+        'L\'Wren Scott',
     ],
-    [
-        'After working for years in Hollywood where the actors have taken over, it was a real relief to get down there and not only have some children, but also have some actors that had no attitude.',
-        'Phillip Noyce',
+    'c1b9cfdb-d930-5a8b-91f3-d62949aecc4e' => [
+        'I would love to go back to any time in European history, especially in Irish history, to the second or third century, prior to the arrival of Christianity when Paganism flourished. I can always go back there in my imagination, of course. It doesn\'t cost anything, and it\'s a form of time travel, I suppose.',
+        'Gabriel Byrne',
     ],
-    [
-        'Success has a lot to do with luck, but it also involves a lot of real hard work. The thing about success is you really can\'t gauge things by album sales.',
-        'Jerry Cantrell',
+    'c38482ae-04dd-575d-8a64-ad58e8f04ade' => [
+        'If you don\'t die of thirst, there are blessings in the desert. You can be pulled into limitlessness, which we all yearn for, or you can do the beauty of minutiae, the scrimshaw of tiny and precise. The sky is your ocean, and the crystal silence will uplift you like great gospel music, or Neil Young.',
+        'Anne Lamott',
     ],
-    [
-        'Happiness is a choice. You can choose to be happy. There\'s going to be stress in life, but it\'s your choice whether you let it affect you or not.',
-        'Les Brown',
+    '4334da80-1c33-5ab4-a886-4cdbaaae2d3b' => [
+        'You live in the image you have of the world. Every one of us lives in a different world, with different space and different time.',
+        'Alejandro Jodorowsky',
     ],
-    [
-        'I loved all the princess films, and I grew up with them, and I think it\'s really cool how they\'ve changed over the years - how the princesses have become more positive role models right up until \'Frozen.\'',
-        'Lily James',
+    '343f8994-037d-5ceb-a9dc-4f196819176a' => [
+        'Epic poetry exhibits life in some great symbolic attitude. It cannot strictly be said to symbolize life itself, but always some manner of life.',
+        'Lascelles Abercrombie',
     ],
-    [
-        'Go after what you really love and find a way to make that work for you, and then you\'ll be a happy person.',
-        'Tom Petty',
+    '03755a61-45a3-54b7-94df-7857df986b98' => [
+        'Decision is a risk rooted in the courage of being free.',
+        'Paul Tillich',
     ],
-    [
-        'With the new day comes new strength and new thoughts.',
-        'Eleanor Roosevelt',
+    '298c931f-f5ad-5d11-ace7-715d0509a364' => [
+        'I think music, in my opinion, is not about motivation in the way it\'s - it\'s not a running base. It\'s art. And my whole philosophy of music is different. It\'s almost like cooking and serving to people, seeing them smile and enjoying the food, really.',
+        'A. R. Rahman',
     ],
-    [
-        'Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.',
-        'Buddha',
+    '1e3f2c96-6ac3-5d7d-a876-56f22a0cc5e8' => [
+        'If I had to live my life again, I\'d make the same mistakes, only sooner.',
+        'Tallulah Bankhead',
     ],
-    [
-        'I am a positive person and do not allow things to get on top of me.',
-        'Jamie Redknapp',
+    'f198ecd3-5905-5787-9506-7c30e16d3973' => [
+        'We are all here on earth to help others; what on earth the others are here for I don\'t know.',
+        'W. H. Auden',
     ],
-    [
-        'All the candy corn that was ever made was made in 1911.',
-        'Lewis Black',
+    '3988e504-733d-53ef-9b66-2e923532e558' => [
+        'Courage is not the absence of fear, but simply moving on with dignity despite that fear.',
+        'Pat Riley',
     ],
-    [
-        'The best advice I ever got was that knowledge is power and to keep reading.',
-        'David Bailey',
+    'd7377c29-b0af-5d1b-9770-27cce08ed119' => [
+        'Success is a process, a quality of mind and way of being, an outgoing affirmation of life.',
+        'Alex Noble',
     ],
-    [
-        'I always said punk was an attitude. It was never about having a Mohican haircut or wearing a ripped T-shirt. It was all about destruction, and the creative potential within that.',
-        'Malcolm Mclaren',
+    '183de637-7e4b-534b-81d3-3ab4ef0f25e4' => [
+        'Work is love made visible. And if you cannot work with love but only with distaste, it is better that you should leave your work and sit at the gate of the temple and take alms of those who work with joy.',
+        'Khalil Gibran',
     ],
 ];

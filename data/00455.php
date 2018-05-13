@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'No day in which you learn something is a complete loss.',
-        'David Eddings',
+    '547a97ad-7445-5652-92a0-818b1a18d650' => [
+        'Well done is better than well said.',
+        'Benjamin Franklin',
     ],
-    [
-        'I have a smile 24/7.',
-        'Candis Cayne',
+    '7d2f7cc3-f5f7-55a9-b5ea-4f12ee06331a' => [
+        'I\'ve been blessed to be somebody that\'s been climbing that success mountain top for years of hard work, you know, but now it\'s all connecting. And now, the whole world is watching, you know what I\'m saying, and it feels good \'cause it\'s good energy. This is all positive vibes, and good vibes and good energy, so it feels incredible.',
+        'DJ Khaled',
     ],
-    [
-        'People smile at me as if they know me. I just smile back. They probably might know me.',
-        'Jim Broadbent',
+    'f23864d3-dd76-5a2b-8910-f2356f320c69' => [
+        'Natural selection shaped the human brain to be drawn toward aspects of nature that enhance our survival and reproduction, like verdant landscapes and docile creatures. There is no payoff to getting the warm fuzzies in the presence of rats, snakes, mosquitoes, cockroaches, herpes simplex and the rabies virus.',
+        'Paul Bloom',
     ],
-    [
-        'Family traditions counter alienation and confusion. They help us define who we are; they provide something steady, reliable and safe in a confusing world.',
-        'Susan Lieberman',
+    'ffcc487d-c912-545e-a3a9-9c3ccb624522' => [
+        'A house divided against itself cannot stand.',
+        'Abraham Lincoln',
     ],
-    [
-        'You cannot step twice into the same river, for other waters are continually flowing in.',
-        'Heraclitus',
+    '607030ed-9556-511e-a9de-c1288b8e3952' => [
+        'I want to be an inspirational model. I want people to look at me and say, \'Wow, she looks healthy.\'',
+        'Ireland Baldwin',
     ],
-    [
-        'Talent alone won\'t make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: \'Are your ready?\'',
-        'Johnny Carson',
+    '56895ae9-be4e-55d3-8edd-9eddea81c092' => [
+        'Women need opportunity and encouragement. If a girl can climb mountains, she can do anything positive within her field of work.',
+        'Samina Baig',
     ],
-    [
-        'There is no substitute for hard work.',
-        'Thomas A. Edison',
+    'aea0d710-ae5f-5d7d-b271-241b0aae2265' => [
+        'Always remember that striving and struggle precede success, even in the dictionary.',
+        'Sarah Ban Breathnach',
     ],
-    [
-        'I learned early in sports that to be effective - for a player to play the best he can play - is a matter of concentration and being unaware of distractions, positive or negative.',
-        'Tom Landry',
+    'a3f62f7c-96c8-56c1-b612-3b427e2ec59f' => [
+        'I wake up every morning and I feel like I\'m juggling glass balls. I live in Los Angeles, my business is run out of London, and most evenings I\'m cuddled up in front of Skype, in my dressing gown, speaking with my studio in London. I travel a lot, my team travel a lot, but I wouldn\'t have it any other way.',
+        'Victoria Beckham',
     ],
-    [
-        'I bear a charmed life.',
-        'Joel Osteen',
+    '83fe94b7-966c-55a7-a595-98025c35d9c2' => [
+        'There is only one happiness in life, to love and be loved.',
+        'George Sand',
     ],
-    [
-        'The past itself, as historical change continues to accelerate, has become the most surreal of subjects - making it possible... to see a new beauty in what is vanishing.',
-        'Susan Sontag',
+    'c76b6b0f-27da-5b1d-ba4d-e16c10f8e924' => [
+        'Background scores allow me an absolute flight of the imagination, and I travel in my mind\'s eye. I do not like the scores to have vocal notes, because they act as a limitation to these flights of fancy.',
+        'Nawazuddin Siddiqui',
     ],
-    [
-        'Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.',
-        'Norman Vincent Peale',
+    'e9aff383-52b8-5408-9f87-dac0867a70d0' => [
+        'Success is not an accident. When you put yourself in the right place at the right time, then you\'re likely to be more successful because of how you prepare yourself on a daily basis.',
+        'Andrew Cherng',
     ],
-    [
-        'A good laugh is sunshine in the house.',
-        'William Makepeace Thackeray',
+    '9315bb39-1640-523b-b7b2-3467845e59a1' => [
+        'I wish the Peace Corps and its volunteers continued success and perseverance. We are grateful for their contributions to society and dedication to providing assistance where it is needed. May the Peace Corps continue its legacy of service, both at home and abroad.',
+        'Kenny Marchant',
     ],
-    [
-        'I have always believed that technology should do the hard work - discovery, organization, communication - so users can do what makes them happiest: living and loving, not messing with annoying computers! That means making our products work together seamlessly.',
-        'Larry Page',
+    '3277f637-00aa-5aca-9a32-52c80d04213f' => [
+        'I wish I could say I see my little brother more. We used to fight all the time but now that I don\'t see him very often I cherish the time I have with him.',
+        'Zac Efron',
     ],
-    [
-        'A lot of my stories about the old days, they\'re delicious and funny. But every time I recall the early days, it\'s painful. With every anecdote, it\'s painful because you\'re summoning up the terribly, terribly difficult life of my parents. And it\'s painful because I didn\'t realize at the time how hard it was for them.',
-        'Mario Cuomo',
+    '9d4137ca-80b7-5925-8c72-af40aadac7d8' => [
+        'This is my journey. If I fall, I have to pick myself up. If I\'m not getting the playing time I want, it\'s up to me to figure out why.',
+        'Carli Lloyd',
     ],
-    [
-        'Beauty is only skin deep.',
-        'Thomas Overbury',
+    'e066b572-f5bc-5d31-9028-a8b98aed8ee1' => [
+        'Life is a learning experience, only if you learn.',
+        'Yogi Berra',
     ],
-    [
-        'The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.',
-        'William James',
+    '4af9baa9-34be-5444-9e82-10d51290a584' => [
+        'We cannot hold a torch to light another\'s path without brightening our own.',
+        'Ben Sweetland',
     ],
-    [
-        'I think fun is an important part of the entertainment industry, and it should be. Anybody who\'s not incorporating some of that into their work needs to take a break, go away, and have an attitude adjustment.',
-        'Diane Lane',
+    'dac417e1-b37a-56c1-b4d3-24ee82c6a063' => [
+        'I try my best to confront situations because I know, at the end of the day, you can deal with it or it will deal with you. I\'ve had enough experience to know that that\'s how it goes down. There\'s no going around it.',
+        'Jada Pinkett Smith',
     ],
-    [
-        'A drunkard in the gutter is just where he ought to be, according to the fitness and tendency of things. Nature has set upon him the process of decline and dissolution by which she removes things which have survived their usefulness.',
-        'William Graham Sumner',
+    '9e6ad7d2-114c-5ed0-b457-367a2597ca4f' => [
+        'Forests, lakes, and rivers, clouds and winds, stars and flowers, stupendous glaciers and crystal snowflakes - every form of animate or inanimate existence, leaves its impress upon the soul of man.',
+        'Orison Swett Marden',
     ],
-    [
-        'When you are facing the wilderness on your own, you have a totally different attitude to someone who works in government or who has a monthly cheque.',
-        'Rick Santelli',
+    '75ad30e3-c9c5-5f45-a49f-35599564698c' => [
+        'We never understand how little we need in this world until we know the loss of it.',
+        'James Barrie',
     ],
-    [
-        'I tell young entrepreneurs to use the leader in their industry and as a benchmark as they work to create their own brand. Don\'t look at what your competition is doing - if you emulate the leader in your industry, you will achieve a higher level of engagement with consumers and make their buying experience richer.',
-        'Steve Stoute',
+    '9a72d661-dbd9-55a1-a140-9f68dc889a06' => [
+        'People say funny things all the time during really serious moments in life.',
+        'Mark Ruffalo',
     ],
-    [
-        'It is strange that the years teach us patience; that the shorter our time, the greater our capacity for waiting.',
-        'Elizabeth Taylor',
+    '8dc1b642-5af3-5bd7-9da1-76cc4f20910b' => [
+        'Write your story as it needs to be written. Write it honestly, and tell it as best you can. I\'m not sure that there are any other rules. Not ones that matter.',
+        'Neil Gaiman',
     ],
-    [
-        'We should attempt to bring nature, houses, and human beings together in a higher unity.',
-        'Ludwig Mies van der Rohe',
+    '80aebc9c-886e-5a7c-8de9-4282517b17dc' => [
+        'The purpose of art is washing the dust of daily life off our souls.',
+        'Jim Rohn',
     ],
-    [
-        'The beautiful spring came; and when Nature resumes her loveliness, the human soul is apt to revive also.',
-        'Harriet Ann Jacobs',
+    '9250f355-84b6-571c-90b3-a1c2497afe24' => [
+        'A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are worthwhile, it can be done.',
+        'Vince Lombardi',
     ],
-    [
-        'Loving a child doesn\'t mean giving in to all his whims; to love him is to bring out the best in him, to teach him to love what is difficult.',
-        'Nadia Boulanger',
+    '021ca585-555f-5fca-9916-c94204159ec0' => [
+        'Every time you walk down the street people are screaming, \'You\'re fired!\'',
+        'Donald Trump',
     ],
-    [
-        'Trust only movement. Life happens at the level of events, not of words. Trust movement.',
-        'Alfred Adler',
+    '17891604-7f54-559f-8114-dc8c99f1254b' => [
+        'It is in your moments of decision that your destiny is shaped.',
+        'Tony Robbins',
     ],
 ];

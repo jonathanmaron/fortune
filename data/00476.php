@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It\'s funny... you can make fun of AIDS or Haiti, but if you make fun of some starlet in Hollywood\'s looks? That\'s like the one thing... the line you are not to cross.',
-        'Daniel Tosh',
+    'f8256678-2694-53d1-9faf-10a901d6be0c' => [
+        'Whatever success I\'ve had, I always like to top it.',
+        'Bernie Mac',
     ],
-    [
-        'The person attempting to travel two roads at once will get nowhere.',
-        'Xun Kuang',
+    '997a38db-a1df-5395-9825-f2427ee56d9b' => [
+        'If you are patient in one moment of anger, you will escape one hundred days of sorrow.',
+        'Chinese proverb',
     ],
-    [
-        'I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.',
-        'Brigitte Bardot',
+    '18ed8164-8fb4-5353-87e9-2ab997397bde' => [
+        'Men are only as loyal as their options.',
+        'Bill Maher',
     ],
-    [
-        'I don\'t deserve this award, but I have arthritis and I don\'t deserve that either.',
-        'Jack Benny',
+    'cf63b764-d918-5960-bfb5-fc2b6269e8e0' => [
+        'To give and then not feel that one has given is the very best of all ways of giving.',
+        'Max Beerbohm',
     ],
-    [
-        'I don\'t know the key to success, but the key to failure is trying to please everybody.',
-        'Bill Cosby',
+    '2f0c79d1-13cc-5fe7-8508-5df72928abc9' => [
+        'You want a friend who\'s going to tell you the truth. That\'s what it\'s about. If you don\'t have a friend who\'s going to tell you the truth every time something comes up, you feel like he\'s not a true friend.',
+        'Donald Driver',
     ],
-    [
-        'Mark Twain was a great traveler and he wrote three or four great travel books. I wouldn\'t say that I\'m a travel novelist but rather a novelist who travels - and who uses travel as a background for finding stories of places.',
-        'Paul Theroux',
+    'a1f0ea79-a695-52f3-bbb3-98d78f3a284e' => [
+        'Without some goals and some efforts to reach it, no man can live.',
+        'John Dewey',
     ],
-    [
-        'Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now! There are only so many tomorrows.',
-        'Regina Brett',
+    'e457fe49-6e95-511b-a0ab-c2af20fe6150' => [
+        'I believe that the greatest gift you can give your family and the world is a healthy you.',
+        'Joyce Meyer',
     ],
-    [
-        'Life gives you plenty of time to do whatever you want to do if you stay in the present moment.',
-        'Deepak Chopra',
+    '06984db0-9d97-5f1f-ac7f-ea051fff1163' => [
+        'The victor belongs to the spoils.',
+        'F. Scott Fitzgerald',
     ],
-    [
-        'I cry at anything remotely touching - smile at me warmly and I\'m off... television also does it, everything from \'X-Factor\' to cereal commercials. I cry when I am tired. I also cry when I laugh.',
-        'Natalie Massenet',
+    '7fa30246-1781-5074-b77c-1e6b09c22313' => [
+        'Some people say funny things, but I say things funny.',
+        'Don Rickles',
     ],
-    [
-        'If you want to go somewhere, it is best to find someone who has already been there.',
-        'Robert Kiyosaki',
+    'c6d2b5e1-1a75-544e-843f-c042723f7936' => [
+        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
+        'Ariana Grande',
     ],
-    [
-        'I made myself famous by writing \'songs\' and lyrics about the beauty of the things I did and ugliness, too.',
-        'Jack Kerouac',
+    '9bf7b18f-f445-53ec-8c7f-b53a3a1f84ec' => [
+        'Except during the nine months before he draws his first breath, no man manages his affairs as well as a tree does.',
+        'George Bernard Shaw',
     ],
-    [
-        'When you form a team, why do you try to form a team? Because teamwork builds trust and trust builds speed.',
-        'Russel Honore',
+    '1193cd7f-1a93-53cb-9c37-03a79e497b29' => [
+        'I\'ve always been that person: If it gets into my head, I\'ve got to do it until I get it perfect - a perfectionist\'s attitude.',
+        'Brendon Urie',
     ],
-    [
-        'Infuse your life with action. Don\'t wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.',
-        'Bradley Whitford',
+    '75b7e4f3-b6ad-5898-8793-7d56c958790d' => [
+        'Yoga is a method for restraining the natural turbulence of thoughts, which otherwise impartially prevent all men, of all lands, from glimpsing their true nature of Spirit. Yoga cannot know a barrier of East and West any more than does the healing and equitable light of the sun.',
+        'Paramahansa Yogananda',
     ],
-    [
-        'I tend to regard the Coase theorem as a stepping stone on the way to an analysis of an economy with positive transaction costs.',
-        'Ronald Coase',
+    '67f23347-2674-50fb-b4b9-a4d870956557' => [
+        'All women deserve a dignified and respectful workplace in which talent, hard work and loyalty are recognized, revered, and rewarded.',
+        'Gretchen Carlson',
     ],
-    [
-        'If there were no night, we would not appreciate the day, nor could we see the stars and the vastness of the heavens. We must partake of the bitter with the sweet. There is a divine purpose in the adversities we encounter every day. They prepare, they purge, they purify, and thus they bless.',
-        'James E. Faust',
+    '5925d105-be83-572f-ad1d-2ab662543eac' => [
+        'A woman should be home with the children, building that home and making sure there\'s a secure family atmosphere.',
+        'Mel Gibson',
     ],
-    [
-        'Work as though you would live forever, and live as though you would die today. Go another mile!',
-        'Og Mandino',
+    'c8fe25c3-3d9d-58c6-b6d1-59638f2cc3d0' => [
+        'A beauty is a woman you notice; a charmer is one who notices you.',
+        'Adlai E. Stevenson',
     ],
-    [
-        'I wouldn\'t call myself successful, just obsessively exhausted. The music makes me smile, the movies make me feel humbled, and the comedy saves my life every day.',
-        'Vir Das',
+    '98de918f-2e02-5a16-b213-6a77c17d3dc2' => [
+        'I argue thee that love is life. And life hath immortality.',
+        'Persis Khambatta',
     ],
-    [
-        'You can\'t build a reputation on what you are going to do.',
-        'Henry Ford',
+    'f1510076-8a6c-5209-bec5-933efdaa5a26' => [
+        'The more things you do, the more you can do.',
+        'Lucille Ball',
     ],
-    [
-        'When the mind is empty, silent, when it is in a state of complete negation - which is not blankness, nor the opposite of being positive, but a totally different state in which all thought has ceased - only then is it possible for that which is unnameable to come into being.',
-        'Jiddu Krishnamurti',
+    'a484584f-3dcd-5acc-96fb-be975f5e7dc6' => [
+        'The positive is I\'m delighted at the way the Liberal Democrats as a party have supported me and the way in which the work I\'m doing, through the Liberal Democrats, has abled to broaden some of the work I work on.',
+        'Maajid Nawaz',
     ],
-    [
-        'I travel regularly and have learnt to be very methodical as far as packing is concerned. For example, I always check the weather in advance of where I\'m going to ensure that I\'ve packed the right clothes.',
-        'Paloma Faith',
+    'f4e28080-daaf-532c-bae2-784cfc8038ef' => [
+        'So is cheerfulness, or a good temper, the more it is spent, the more remains.',
+        'Ralph Emerson',
     ],
-    [
-        'I had to act in a school play when I was about ten years old. I really didn\'t want to do it. But everyone had to do it so I didn\'t have a choice. A talent agent came and watched it and later gave me some work. It\'s funny because I\'d always known that I wanted a movie career. I just didn\'t think that I would be in the movies.',
-        'Kristen Stewart',
+    '4ee2b69a-dd4b-570a-aabe-f7ea152b022b' => [
+        'I had hoped when my life was chronicled, it would be an inspirational story.',
+        'Om Puri',
     ],
-    [
-        'Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don\'t quit.',
-        'Conrad Hilton',
+    '5de8205b-a9d9-5420-b9bc-c53fe469e42f' => [
+        'There are a lot of things that go into creating success. I don\'t like to do just the things I like to do. I like to do things that cause the company to succeed. I don\'t spend a lot of time doing my favorite activities.',
+        'Michael Dell',
     ],
-    [
-        'The impossible often has a kind of integrity which the merely improbable lacks.',
-        'Douglas Adams',
+    '68355fb0-4103-5788-8ea3-914ed39b798c' => [
+        'I often read nonfiction with a pencil in hand. I love the feel, the smell, the design, the weight of a book, but I also enjoy the convenience of my Kindle - for travel and for procuring a book in seconds.',
+        'Drew Gilpin Faust',
     ],
-    [
-        'The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. If you do that, you\'re in control of your life. If you don\'t, life controls you.',
-        'Tony Robbins',
+    'e580d34f-fd86-55a2-872b-c2d5da174ada' => [
+        'No matter how difficult and painful it may be, nothing sounds as good to the soul as the truth.',
+        'Martha Beck',
     ],
-    [
-        'I\'ve always believed that success for anyone is all about drive, dedication, and desire, but for me, it\'s also been about confidence and faith.',
-        'Stephen Curry',
+    '5948ce31-64a3-5a2f-bdde-12a2c16db3ca' => [
+        'Successful people are not gifted; they just work hard, then succeed on purpose.',
+        'G.K.Nielson',
     ],
 ];

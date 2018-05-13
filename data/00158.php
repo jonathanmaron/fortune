@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Unlike a lot of people, I don\'t feel powerless. I know I can do something. But anyone can do something, it\'s not about being special. It\'s about deciding to do it - to dive into work for peace and justice and care for everybody on the planet.',
-        'Patch Adams',
+    'a8ca4e12-7da1-58f7-90c8-552de65a1037' => [
+        'I\'m not that good looking. That\'s why \'Gangnam Style\' works. If someone handsome uses that phrase it\'s just awkward. But if someone like me uses it, it\'s funny.',
+        'Psy',
     ],
-    [
-        'That\'s my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard.',
-        'Joe Rogan',
+    'f6def68e-1094-5e07-a9e1-145a4915685a' => [
+        'To be free is to have achieved your life.',
+        'Nate Berkus',
     ],
-    [
-        'It\'s not what happens to you, but how you react to it that matters.',
-        'Epictetus',
+    'f52fbd16-8686-56b7-a0a0-dca4d3359eba' => [
+        'When I first left university, I thought about going into the private sector. But I discovered when I went to interview that I could only have a career in the back office, or doing HR. The attitude was, \'My dear lady, you cannot possibly think about going on the board.\'',
+        'Pauline Neville-Jones',
     ],
-    [
-        'The learner always begins by finding fault, but the scholar sees the positive merit in everything.',
-        'Georg Wilhelm Friedrich Hegel',
+    'ac21328d-2fef-5bec-b92f-6119270d3540' => [
+        'When you rise in the morning, give thanks for the light, for your life, for your strength. Give thanks for your food and for the joy of living. If you see no reason to give thanks, the fault lies in yourself.',
+        'Leo Buscaglia',
     ],
-    [
-        'I\'ve always believed that one woman\'s success can only help another woman\'s success.',
-        'Gloria Vanderbilt',
+    '5d7dc0ff-faf4-5a88-b48b-7525cd3042c3' => [
+        'Turn up the lights. I don\'t want to go home in the dark.',
+        'O. Henry',
     ],
-    [
-        'I don\'t think punk ever really dies, because punk rock attitude can never die.',
-        'Billy Idol',
+    'ea25424e-aaf8-5c3e-99f2-182f9ee36fb1' => [
+        'I am not a has-been. I am a will be.',
+        'Lauren Bacall',
     ],
-    [
-        'Luck is a dividend of sweat. The more you sweat, the luckier you get.',
-        'Ray Kroc',
+    '24f8e302-5cbf-5bd1-a7fc-6e8b04df2320' => [
+        'The easiest diet is, you know, eat vegetables, eat fresh food. Just a really sensible healthy diet like you read about all the time.',
+        'Drew Carey',
     ],
-    [
-        'Of course, the most important factor of all for long life is a good family. When a person goes home with the wife or the kids giving him endless headaches, then it\'s hard for that person to enjoy a long life. I am very fortunate, because my wife Elizabeth and my obedient children are very good; they have given me happiness.',
-        'John Gokongwei',
+    '1166ab1e-7ba6-593f-9edf-b354a65b0779' => [
+        'It\'s funny how social activists usually protest against the only things that have a credible chance of achieving the activists\' goals.',
+        'Craig Bruce',
     ],
-    [
-        'I tried without much success to learn a little of the humanities and the arts, but even passing the courses in art history and music history was a challenge.',
-        'John C. Mather',
+    '0858c131-a4ed-5d24-b87f-c38aafea52f1' => [
+        'You just got with the flow because life is just all about how you feel.',
+        'Carl Rogers',
     ],
-    [
-        'I want every Filipino woman empowered with information regarding all options available to her regarding family planning.',
-        'Lea Salonga',
+    'e02292b7-1ab9-5d0d-a41a-9df97946454d' => [
+        'What\'s the point of being alive if you don\'t at least try to do something remarkable.',
+        'Unknown',
     ],
-    [
-        'Education is the best provision for old age.',
-        'Aristotle',
+    '93ca9adc-7943-5735-8e03-602205bc8abd' => [
+        'Being able to travel and see the world really makes me appreciate the blessings in my life. There are so many people that will never get a chance to see some of the things that I\'ve seen during my travels. I\'ll never take that for granted.',
+        'Laz Alonso',
     ],
-    [
-        'I\'ve been fascinated by the Internet from the very start. In 2001, I had made a funny black-and-white film called \'How to Dance Properly,\' a short video of me dancing to a Madonna song. I sent it to 17 of my friends on a Thursday, and by Monday, one million people a day were logging on to view it.',
-        'Ze Frank',
+    '8a594383-18db-5cec-9af7-0d170d625cf2' => [
+        'I think the problems with comedians that are political, and there are some brilliant ones, are the ones that offer no solutions. Not that there\'s a moral obligation for a comic to fix things, but I like to see a comic that\'s upset about something and offer a solution. It can be a funny solution. I like to see the thought process.',
+        'Kyle Kinane',
     ],
-    [
-        'Refuse to accept the belief that your professional relevance, career success or financial security turns on the next update on the latest technology. Sometimes it\'s good to put the paddle down and just let the canoe glide.',
-        'Simon Mainwaring',
+    '01f1fa4f-2ccc-5793-9bca-8f417b305085' => [
+        'I\'m really careful about not slamming my politics home in my shows, but I don\'t try to hide, either. The arts can be a great way to bring people together. I don\'t preach from the stage. I try to stay positive on solutions.',
+        'Bonnie Raitt',
     ],
-    [
-        'My success is not due to any personal superiority over other people.',
-        'John Philip Sousa',
+    '53ee6163-d8c7-56ac-a1a1-a2709e3cea36' => [
+        'Cautious, careful people, always casting about to preserve their reputations can never effect a reform.',
+        'Susan B. Anthony',
     ],
-    [
-        'I think our family motto is to always work hard, be humble, kind, and thoughtful about others around us.',
-        'Anwar Hadid',
+    '47ac0fe6-b4b1-523a-8004-f80045176b99' => [
+        'I travel so much on stories, so I don\'t take vacation much, but one place I go back to again and again is my ranch.',
+        'Bill Kurtis',
     ],
-    [
-        'The two impulses in travel are to get away from home, and the other is to pursue something - a landscape, people, an exotic place. Certainly finding a place that you like or discovering something unusual is a very sustaining thing in travel.',
-        'Paul Theroux',
+    'd98ad6c1-9b52-5023-9e90-5704afc86b1e' => [
+        'Never put off till tomorrow what you can do today.',
+        'Thomas Jefferson',
     ],
-    [
-        'I\'ve had a lot of success; I\'ve had failures, so I learn from the failure.',
-        'Gordon Ramsay',
+    'aca708b6-b3fc-5724-8f17-7f928d401e3e' => [
+        'My father leaving the family shaped who I was and how I looked at the world. By the same token, my father telling me fairy tales that he had made up shaped me profoundly, too.',
+        'Kate DiCamillo',
     ],
-    [
-        'We are so obsessed with doing that we have no time and no imagination left for being. As a result, men are valued not for what they are but for what they do or what they have - for their usefulness.',
-        'Thomas Merton',
+    '5be9d5f7-3797-5aab-8a8e-749fa5164bb7' => [
+        'A true friend is one who overlooks your failures and tolerates your success!',
+        'Doug Larson',
     ],
-    [
-        'All our knowledge has its origins in our perceptions.',
-        'Leonardo da Vinci',
+    'd41a5176-a846-5350-b05f-b194c6a4395a' => [
+        'The avant-garde theater is fun; it is free-swinging, bold, iconoclastic, and often wildly, wildly funny. If you will approach it with childlike innocence - putting your standard responses aside, for they do not apply - if you will approach it on its own terms, I think you will be in for a liberating surprise.',
+        'Edward Albee',
     ],
-    [
-        'When fear rushed in, I learned how to hear my heart racing but refused to allow my feelings to sway me. That resilience came from my family. It flowed through our bloodline.',
-        'Coretta Scott King',
+    'f8416a2e-40d6-587d-91d2-059c14eff4ac' => [
+        'Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.',
+        'Maya Angelou',
     ],
-    [
-        'The black family survived centuries of slavery and generations of Jim Crow, but it has disintegrated in the wake of the liberals\' expansion of the welfare state.',
-        'Thomas Sowell',
+    '994c6c59-603e-5f29-9294-15e79dc25c47' => [
+        'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.',
+        'Everett Dirksen',
     ],
-    [
-        'I believe success is preparation, because opportunity is going to knock on your door sooner or later but are you prepared to answer that?',
-        'Omar Epps',
+    '11c1c7b2-eb15-5a25-b768-3adab492489b' => [
+        'Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing.',
+        'Thomas Jefferson',
     ],
-    [
-        'I considered becoming a priest very seriously. I wanted to travel the world. By the time I turned 16, I realized I was only in it for selfish reasons. And, more importantly, I didn\'t want to sacrifice the ladies!',
-        'James McAvoy',
+    'a5964d9f-5557-5606-8e80-d5bd95d3aaa1' => [
+        'I love short trips to New York; to me it is the finest three-day town on earth.',
+        'James Cameron',
     ],
-    [
-        'A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.',
-        'Elbert Hubbard',
+    'a7755ada-170a-5deb-b423-e5de67f0aed6' => [
+        'Nature is never finished.',
+        'Robert Smithson',
     ],
-    [
-        'I want to live my life, not record it.',
-        'Jensen Ackles',
+    '28d8fb51-18ec-5e5f-b166-4ffa59653b61' => [
+        'Arnold Palmer has what I call an \'Eisenhower smile\'. Those two men, they\'d smile and their whole faces would look so pleasant; it was like they were smiling all over.',
+        'Byron Nelson',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Pain is temporary. Quitting lasts forever.',
-        'Lance Armstrong',
+    '01f36d55-44bc-5b1d-ae08-e2bdc31a8423' => [
+        'Just when I think I have learned the way to live, life changes.',
+        'Samuel Beckett',
     ],
-    [
-        'Expect problems and eat them for breakfast.',
-        'Alfred A. Montapert',
+    '87e74860-ab85-5e96-ac6e-e2a1fc4727b8' => [
+        'You may not be able to change a situation, but with humor you can change your attitude about it.',
+        'Allen Klein',
     ],
-    [
-        'Anyone who keeps the ability to see beauty never grows old.',
-        'Franz Kafka',
+    '8364530c-5cee-50f2-b358-56e83f68f377' => [
+        'Don\'t think of it as failure. Think of it as time-released success.',
+        'Robert Orben',
     ],
-    [
-        'I like being on a set where you can make decisions and everything is involved and are happy to work together to make the best work. For me, it\'s all about making the best work and creative people working together and all being respected and all having their opinions of what gives it the best quality is important.',
-        'Aneurin Barnard',
+    'ee00a558-48b9-5c21-a5b8-bfb16960bdeb' => [
+        'The negative side of the American Dream comes when people pursue success at any cost, which in turn destroys the vision and the dream.',
+        'Azar Nafisi',
     ],
-    [
-        'I realized my family was funny, because nobody ever wanted to leave our house.',
-        'Anthony Anderson',
+    'da083b6c-409e-55f0-b784-3363da2f6362' => [
+        'As a teenager, I used to travel everywhere with my guitar. I appreciated the fact it was with me, but it was always an absolute pain to carry around - even though, in those days, you could take in on a plane as hand luggage.',
+        'Greg Wise',
     ],
-    [
-        'An important priority for me is a business must get their own house in order. Be or become an agent of positive change in your own enterprise and adopt responsible practices to eliminate the risks that often lie at the root of inequality and poverty.',
-        'Richard Branson',
+    'c73bddb2-a341-5043-94fb-1a8fb3f0c2bb' => [
+        'In all my wild mountaineering, I have enjoyed only one avalanche ride; and the start was so sudden, and the end came so soon, I thought but little of the danger that goes with this sort of travel, though one thinks fast at such times.',
+        'John Muir',
     ],
-    [
-        'I like marriage. The idea.',
-        'Toni Morrison',
+    '20872d9d-8c16-52c5-bd6d-fa3cbf0ab974' => [
+        'Telecom is a dramatic success in India and our view is, respecting the political process, and respecting the fact that these are sovereign decisions, is that, approaching India as a friend.',
+        'John W. Snow',
     ],
-    [
-        'People who make money often make mistakes, and even have major setbacks, but they believe they will eventually prosper, and they see every setback as a lesson to be applied in their move towards success.',
-        'Jerry Gillies',
+    '989b40cc-c45c-569f-bd9d-8432f852216f' => [
+        'Abstraction is real, probably more real than nature.',
+        'Josef Albers',
     ],
-    [
-        'Nature knows no pause in progress and development, and attaches her curse on all inaction.',
-        'Johann Wolfgang von Goethe',
+    'f57ef03d-e5dc-5b19-b07a-2deb7a0eff39' => [
+        'An aim in life is the only fortune worth finding.',
+        'Vincent Van Gogh',
     ],
-    [
-        'The diversity of India, of our civilization, is actually a thing of beauty, which is something we are extremely proud of.',
-        'Narendra Modi',
+    '5f4f5b84-704a-5054-be88-9309395656a1' => [
+        'There is a soak-the-rich attitude in the air, a feeling that if you have a lot of money you must have got it by some ghastly means. I can quite happily say there was never any family money. All the money we got was mine, just from writing books.',
+        'Terry Pratchett',
     ],
-    [
-        'People come to see beauty, and I dance to give it to them.',
-        'Judith Jamison',
+    '2c912d96-12fa-5f3c-9cf8-cf123e4f3f99' => [
+        'Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.',
+        'Wolfgang Amadeus Mozart',
     ],
-    [
-        'There\'s no night without stars.',
-        'Andre Norton',
+    'edc48c3f-d332-564b-844d-ff1868ffe5e7' => [
+        'The airplane stays up because it doesn\'t have the time to fall.',
+        'Orville Wright',
     ],
-    [
-        'For I must tell you that we artists cannot tread the path of Beauty without Eros keeping company with us and appointing himself as our guide.',
-        'Thomas Mann',
+    '663ffab0-62ea-58fb-9995-61d624393adc' => [
+        'A healthful hunger for a great idea is the beauty and blessedness of life.',
+        'Hans Christian Andersen',
     ],
-    [
-        'It\'s so essential to happiness to speak your truth out loud - because this sharing of your core pain is what creates a necessary healing shift - from negative beliefs about the world - to positive beliefs - and frees you up to be able to fully view life with meaning, purpose and connection with others.',
-        'Karen Salmansohn',
+    '03d12806-d5ab-526d-a845-430848fce683' => [
+        'Success is the space one occupies in the newspaper. Success is one day\'s insolence.',
+        'Elias Canetti',
     ],
-    [
-        'I have a great family, I live an amazing life.',
-        'John Oates',
+    '2c35a5f5-df20-5db4-89aa-d0b91349d36b' => [
+        'I travel to Chicago a lot. And I\'ve followed Obama through his Senate race and beyond. I found him to be an exceptional candidate who was able to transcend ethnic and racial lines.',
+        'Sal Albanese',
     ],
-    [
-        'Human nature is complex. Even if we do have inclinations toward violence, we also have inclination to empathy, to cooperation, to self-control.',
-        'Steven Pinker',
+    '73f9e655-5012-59bb-ac85-9edd6ef04449' => [
+        'We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.',
+        'Buddha',
     ],
-    [
-        'Taking time to sit back and watch and think about what you\'ve seen is important. Traveling did a great deal to me. I found that when I travel and just sit in the corner and watch, a million ideas come to me.',
-        'Lionel Richie',
+    '9482d045-0c5b-5532-99f9-401c29116600' => [
+        'We still carry this old caveman-imprint idea that we\'re small, nature\'s big, and it\'s everything we can manage to hang on and survive. When big geophysical events happen - a huge earthquake, tsunami, or volcanic eruption - we\'re reminded of that.',
+        'James Balog',
     ],
-    [
-        'I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.',
-        'Elizabeth Montagu',
+    '2dd60d1a-3d9a-519e-a2c1-76436d09305b' => [
+        'I do not know which to prefer, The beauty of inflections, Or the beauty of innuendoes, The blackbird whistling, Or just after.',
+        'Wallace Stevens',
     ],
-    [
-        'We pass through this world but once.',
-        'Aristotle',
+    '3d709203-77b0-5860-9831-cbb2df2f1ba5' => [
+        'Good things are associated with blue, like clear days, more than singing the blues. Just the word \'blue\' in the singular is full of optimism and positive connotation to most people.',
+        'David Carson',
     ],
-    [
-        'In this world, with thy earthly life, thou art under heaven, stars, and elements, also under hell and devils; all ruleth in thee, and over thee.',
-        'Tiger Woods',
+    '0fcea1d7-3190-5ebe-9457-c1dcdfce3877' => [
+        'Negative freedom is freedom from - freedom from oppression, whether it\'s a colonial power or addiction to alcohol oppressing you. You need to be freed from negative freedom. Positive freedom is freedom for, freedom to be. And that\'s what\'s routinely ignored today.',
+        'Os Guinness',
     ],
-    [
-        'Extensive traveling induces a feeling of encapsulation, and travel, so broadening at first, contracts the mind.',
-        'Paul Theroux',
+    'b3343b5b-2a87-5c94-a11b-0e1d5567452b' => [
+        'Every day brings new choices.',
+        'Martha Beck',
     ],
-    [
-        'The height of your accomplishments will equal the depth of your convictions.',
-        'William Scolavino',
+    'f818df44-2c7f-5e57-8c1c-d359857de249' => [
+        'By making a comeback, I\'m changing the attitude of people toward me. If I\'d known that people would react so enthusiastically, I\'d have done it years ago.',
+        'Mark Spitz',
     ],
-    [
-        'Every story I create, creates me. I write to create myself.',
-        'Octavia E. Butler',
+    'ee039937-2351-52fb-95ca-a6c383ebd392' => [
+        'Oh, if I could but live another century and see the fruition of all the work for women! There is so much yet to be done.',
+        'Susan B. Anthony',
     ],
-    [
-        'Tears of joy are like the summer rain drops pierced by sunbeams.',
-        'Hosea Ballou',
+    '9037e384-9f28-5de0-969f-935e01328cb8' => [
+        'I would define, in brief, the poetry of words as the rhythmical creation of Beauty.',
+        'Edgar Allan Poe',
     ],
-    [
-        'The old cathedrals are good, but the great blue dome that hangs over everything is better.',
-        'Thomas Carlyle',
+    'bcbf8e6f-c16e-5bc5-bd90-58a3a6070cb0' => [
+        'My goals have changed throughout my life. At one time it was winning awards, selling out concert dates, selling more albums than anyone else. Now, my goals are to see my grandchildren grown, live a long and healthy life with my family and friends and travel the world.',
+        'Reba McEntire',
     ],
 ];

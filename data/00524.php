@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Time is not measured by the passing of years but by what one does, what one feels, and what one achieves.',
-        'Jawaharlal Nehru',
+    'edc05cc1-a6e0-5314-9dbd-1314c77a6321' => [
+        'Mindfulness is about love and loving life. When you cultivate this love, it gives you clarity and compassion for life, and your actions happen in accordance with that.',
+        'Eminem',
     ],
-    [
-        'For me the greatest beauty always lies in the greatest clarity.',
-        'Gotthold Ephraim Lessing',
+    'a66a449c-9d07-549e-839d-a919892370ee' => [
+        'Do not look for approval except for the consciousness of doing your best.',
+        'Andrew Carnegie',
     ],
-    [
-        'I\'m a big believer that your life is basically a sum of all the choices you make. The better your choices, the better opportunity to lead a happy life.',
-        'Swami Sivananda',
+    '22ab50b2-451c-5cfe-b625-bf6277f34a83' => [
+        'What we have found in this country, and maybe we\'re more aware of it now, is one problem that we\'ve had, even in the best of times, and that is the people who are sleeping on the grates, the homeless, you might say, by choice.',
+        'Ronald Reagan',
     ],
-    [
-        'Life is 10 percent what you make it, and 90 percent how you take it.',
-        'Kourtney Kardashian',
+    '7a5f4f8f-8f88-50fa-b810-98a5ffe76532' => [
+        'One can not be an American by going about saying that one is an American. It is necessary to feel America, like America, love America and then work.',
+        'Georgia O\'Keeffe',
     ],
-    [
-        'I hope there have been times when I made you all proud, or made you all smile or at least piqued your interest in this wonderful institution we call government.',
-        'John Rowland',
+    '106f9454-abe5-5174-90c2-04250b8c9f49' => [
+        'My school days were the happiest days of my life; which should give you some indication of the misery I\'ve endured over the past twenty-five years.',
+        'Al Franken',
     ],
-    [
-        'She was a handsome woman of forty-five and would remain so for many years.',
-        'J. B. Priestley',
+    '1f6264b7-17b7-59d0-a127-dc46d6a0b7a4' => [
+        'I don\'t want to be linked to anything negative. I don\'t want negative energy. I want everything positive around me.',
+        'Kendra Wilkinson',
     ],
-    [
-        'Over and over I marvel at the blessings of my life: Each year has grown better than the last.',
-        'Philip Green',
+    'f2b0f939-75c3-502d-88c8-73fcb8aa3fa9' => [
+        'I believe that in the long run, separation between Israel and the Palestinians is the best solution for resolving the Israeli-Palestinian conflict.',
+        'Yitzhak Rabin',
     ],
-    [
-        'Directing a movie is a little bit like being back in student government and putting on the homecoming dance. You\'re like, \'You put up the streamers, and you hire the DJ, and you get the punch bowl.\' Some people are just like, \'This dance sucks.\' And you\'re like, \'No no, this dance is awesome!\' You have to be really positive.',
-        'Mike Birbiglia',
+    'a8f2fb8b-5652-594e-8dfe-8c85f6a6454f' => [
+        'I have always believed that technology should do the hard work - discovery, organization, communication - so users can do what makes them happiest: living and loving, not messing with annoying computers! That means making our products work together seamlessly.',
+        'Larry Page',
     ],
-    [
-        'By nature, men love newfangledness.',
-        'Geoffrey Chaucer',
+    'e5fbd0cd-9069-5ae5-9771-687ad55cc40c' => [
+        'The worst thing that happens to you may be the best thing for you if you don\'t let it get the best of you.',
+        'Will Rogers',
     ],
-    [
-        'It is usually best to admit mistakes when they occur, and to seek to restore honor..',
-        'Iroh',
+    '1d1f8e23-a7e0-5c34-8215-f0177a7bf255' => [
+        'There is no greater feeling in business than building a product which impacts people\'s lives in a profound way. When we look around at the thousands of people who have attended Summit gatherings, it makes us smile to see the new friendships, business partnerships and philanthropic initiatives that each event produces.',
+        'Elliott Bisnow',
     ],
-    [
-        'Some people are fighting much, much more important battles and much bigger battles, and if we get the chance to put a smile on their face for ten seconds, it\'s so worth it.',
-        'Dolph Ziggler',
+    '50385020-0985-50d1-bf48-70a16b7bfe6b' => [
+        'The gift of sobriety is clarity and a sense of connection - and travel only enhances that.',
+        'J. Maarten Troost',
     ],
-    [
-        'All things are difficult before they are easy.',
-        'Thomas Fuller',
+    'f235e91d-03a9-5c96-9e7e-4f7f0c3a9ffb' => [
+        'If you would take, you must first give, this is the beginning of intelligence.',
+        'Lao Tzu',
     ],
-    [
-        'Everything about \'UY\' is new and fresh, and we are extremely happy at the response from the audiences, as most people are walking out of cinema halls with a smile on their faces.',
-        'Akkineni Nagarjuna',
+    '6a045267-13da-5c12-8c04-c8088e834765' => [
+        'Of all the inventions of humans, the computer is going to rank near or at the top as history unfolds and we look back. It is the most awesome tool that we have ever invented. I feel incredibly lucky to be at exactly the right place in Silicon Valley, at exactly the right time, historically, where this invention has taken form.',
+        'Steve Jobs',
     ],
-    [
-        'Just as treasures are uncovered from the earth, so virtue appears from good deeds, and wisdom appears from a pure and peaceful mind. To walk safely through the maze of human life, one needs the light of wisdom and the guidance of virtue.',
-        'John W. Gardner',
+    '8f9605c5-d361-5c11-a4cd-d58e4768ee13' => [
+        'Everything in life is luck.',
+        'Jennifer Love Hewitt',
     ],
-    [
-        'My mentality has always been, If I\'m not the best at something, then I might as well be the best at something else. I realized that I wasn\'t going to be an Olympic volleyball player, but I knew I could model at that level.',
-        'Gigi Hadid',
+    'a32eea5b-60b0-52e0-9baf-b803149c9bc0' => [
+        'The best way to guarantee a loss is to quit.',
+        'Morgan Freeman',
     ],
-    [
-        'Count your joys instead of your woes. Count your friends instead of your foes.',
-        'Unknown',
+    '016ef44a-4980-582d-9398-539a6fa7a312' => [
+        'To help yourself, you must be yourself. Be the best that you can be. When you make a mistake, learn from it, pick yourself up and move on.',
+        'Dave Pelzer',
     ],
-    [
-        'What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.',
-        'Margaret Thatcher',
+    '20ff0a79-f216-55ca-b091-7ab21d1296ef' => [
+        'I truly believe that the people who have a negative view of Trump will be pleasantly surprised when he becomes the leader of our country. I also believe he will make positive changes that will benefit the people who need it most.',
+        'Chuck Norris',
     ],
-    [
-        'If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved.',
-        'A. P. J. Abdul Kalam',
+    '709a7c46-c92d-56a2-bb27-3c288eddb141' => [
+        'I\'ve always believed that if you put in the work, the results will come.',
+        'Michael Jordan',
     ],
-    [
-        'Nothing exterior to me will ever take command of me.',
-        'Walt Whitman',
+    '3d0f129b-d91c-5438-8be5-58191dbbfec3' => [
+        'The person who can bring the spirit of laughter into a room is indeed blessed.',
+        'Bennett Cerf',
     ],
-    [
-        'It seems like everybody\'s perception of me is very bipolar. To one group, it\'s overpaid, overrated; to another group, it\'s underpaid, underrated, underdog. It\'s funny to me because there\'s no real balance.',
-        'Jeremy Lin',
+    '3040b693-7e4c-5651-aac4-714f20dc7165' => [
+        'You are not weak just because your heart feels so heavy.',
+        'Andrea Gibson',
     ],
-    [
-        'You\'re not gonna get through life without being worshipful or devoted to something. You\'re either devoted to your job, or to your desires. So the best way to spend your life is to try to be devoted to prayer, to Allah.',
-        'Mos Def',
+    '9e665074-88b5-5d35-afae-a3b3d9230fa8' => [
+        'Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.',
+        'William Arthur Ward',
     ],
-    [
-        'What I learned from my work as a physician is that even with the most complicated patients, the most complicated problems, you\'ve got to look hard to find every piece of data and evidence that you can to improve your decision-making. Medicine has taught me to be very much evidence-based and data-driven in making decisions.',
-        'Jim Yong Kim',
+    '54b677a8-278a-5f7c-98a1-082e6c710516' => [
+        'Time travel is such a magic concept.',
+        'Matt Smith',
     ],
-    [
-        'Each day, I come in with a positive attitude, trying to get better.',
-        'Stefon Diggs',
+    'f07a6a11-89d3-546f-bc33-18c256996ece' => [
+        'The best career advice I\'ve gotten is to stay focused, keep moving forward.',
+        'Tyga',
     ],
-    [
-        'People always fear change. People feared electricity when it was invented, didn\'t they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters.',
-        'Bill Gates',
+    '3513bf5c-49c2-5917-8067-d3b36202a599' => [
+        'The positive and negative poles of a battery create an electrical flow. The masculine and feminine poles between people create a flow of sexual energy in motion.',
+        'David Deida',
     ],
-    [
-        'You got to be careful if you don\'t know where you\'re going, because you might not get there.',
-        'Yogi Berra',
+    'bdba53e9-06f0-5545-bc35-842d77f785ed' => [
+        'Nature is a temple in which living columns sometimes emit confused words. Man approaches it through forests of symbols, which observe him with familiar glances.',
+        'Charles Baudelaire',
     ],
 ];

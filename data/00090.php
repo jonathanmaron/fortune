@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'There\'s a darkness under \'The Hangover\' because ultimately there\'s a missing person and it\'s not really that funny. There\'s a sort of darkness under it that I love, and still people are laughing as hard if not harder than they did in \'Old School.\'',
-        'Todd Phillips',
+    '0472f854-a3a7-591b-acab-9da86c3b3d0a' => [
+        'Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.',
+        'Melody Beattie',
     ],
-    [
-        'I\'m not anti-fashion, but I\'ve always had a bit of a punk attitude. That\'s important, I think. I do my own thing.',
-        'Sade Adu',
+    '2c9f6926-27b3-54db-bc68-5d2ef440f537' => [
+        'Theo van Doesburg wanted to teach in the Bauhaus in 1922. I refused, however, to appoint him since I considered him to be too aggressive and too rigidly theoretical: he would have wrought havoc in the Bauhaus through his fanatic attitude, which ran counter to my own broader approach.',
+        'Walter Gropius',
     ],
-    [
-        'Whoso loves, believes the impossible.',
-        'Elizabeth Browning',
+    '9726a23c-fd3a-591f-bc53-9563d4c289f3' => [
+        "Two roads diverged in a wood, and I\u{2014}I took the one less traveled by, And that has made all the difference.",
+        'Robert Frost',
     ],
-    [
-        'I can\'t be told life is beautiful through a normal positive thinking book or a Hallmark movie; that language doesn\'t work for me.',
-        'James Gunn',
+    '58e282ae-7827-5e33-af15-22fa643e293a' => [
+        'Just what future the Designer of the universe has provided for the souls of men I do not know, I cannot prove. But I find that the whole order of Nature confirms my confidence that, if it is not like our noblest hopes and dreams, it will transcend them.',
+        'Henry Norris Russell',
     ],
-    [
-        'Everyone feels like family and I am back in the city that I love.',
-        'Chris Noth',
+    'f188b7a2-77f3-5c42-a4c9-a5bd75e9d0a4' => [
+        'Although beauty may be in the eye of the beholder, the feeling of being beautiful exists solely in the mind of the beheld.',
+        'Martha Beck',
     ],
-    [
-        'There\'s time enough, but none to spare.',
-        'Charles W. Chesnutt',
+    'b89f7a51-fb0d-5e56-9f87-3414268e63f9' => [
+        'Time is but the stream I go a-fishing in.',
+        'Henry David Thoreau',
     ],
-    [
-        'I always work with a goal - and the goal is to improve as a player and a person. That, finally, is the most important thing of all.',
-        'Rafael Nadal',
+    'da0392df-8731-51ee-bff4-8d348edeb7e7' => [
+        'I love insults, devastating takedowns, things that could be described by Twitter hacks as \'shots fired,\' and funny ad hominem attacks.',
+        'Alex Pareene',
     ],
-    [
-        'You define a good flight by negatives: you didn\'t get hijacked, you didn\'t crash, you didn\'t throw up, you weren\'t late, you weren\'t nauseated by the food. So you are grateful.',
-        'Paul Theroux',
+    'bcfd1984-88c8-59f2-925f-a2a56a42bd2a' => [
+        'It\'s how you look at beauty. Is it only an outward appearance with hair and makeup and a hot body, or is it something deeper than that?',
+        'Hilary Swank',
     ],
-    [
-        'Obstacles are those frightful things you see when you take your eyes off your goal.',
-        'Henry Ford',
+    '8ca7d1a3-ec49-548b-8fcb-c295f6403d9c' => [
+        'The absence of flaw in beauty is itself a flaw.',
+        'Havelock Ellis',
     ],
-    [
-        'Your smile will give you a positive countenance that will make people feel comfortable around you.',
-        'Les Brown',
+    '3a6b01bd-4776-5f7e-9649-3b6f8868033a' => [
+        'The laissez-faire attitude to science education has resulted in a disaster exemplified by the fact that more young people are opting for media studies than physics.',
+        'Harry Kroto',
     ],
-    [
-        'Life consists not in holding good cards but in playing those you hold well.',
-        'Cesare Pavese',
+    'fa40afc1-b331-543c-a691-4712c6714cec' => [
+        'Our greatness lies not so much in being able to remake the world as being able to remake ourselves.',
+        'Mahatma Gandhi',
     ],
-    [
-        'A thing well said will be wit in all languages.',
-        'John Dryden',
+    '8a530767-f0c7-5a21-937d-92b87997b857' => [
+        'Work expands so as to fill the time available for its completion.',
+        'C. Northcote Parkinson',
     ],
-    [
-        'Our greatness has always come from people who expect nothing and take nothing for granted - folks who work hard for what they have, then reach back and help others after them.',
-        'Michelle Obama',
+    'd82d3b13-dc30-5962-ba40-691ec3fc0310' => [
+        'The clearest way into the Universe is through a forest wilderness.',
+        'John Muir',
     ],
-    [
-        'Find your own way, have an open spirit, and believe in your own beauty.',
-        'Francois Nars',
+    'd9d5c797-a487-5e89-a253-c11d775688c2' => [
+        'There\'s a picture of Christopher and the real Ken Titus and myself in my dressing room. He\'s a great guy, by the way. I just think the real Ken is just super. And he\'s so happy for his son\'s success.',
+        'Stacy Keach',
     ],
-    [
-        'Much may be done in those little shreds and patches of time which every day produces, and which most men throw away.',
-        'Charles Caleb Colton',
+    '9a68fa8e-76ec-533a-baf8-f244d8769275' => [
+        'The world doesn\'t happen to you it happens from you.',
+        'Unknown',
     ],
-    [
-        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.',
-        'Earl Nightingale',
+    'd27a09cf-eb28-54ed-a763-574c41b0b40c' => [
+        'What you wear in the evening is important for women because it\'s so personal, and it\'s so complicated to get it right. I like trousers for evening, especially when they have that width and attitude to them.',
+        'Stella McCartney',
     ],
-    [
-        'When there is no enemy within, the enemies outside cannot hurt you.',
-        'African proverb',
+    '2e03e03d-e63a-56cc-885c-dd3d443a43ea' => [
+        'Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.',
+        'Margaret Cousins',
     ],
-    [
-        'Now that I\'m older, I have a much better appreciation of nature, and I love being alone.',
-        'Gia Coppola',
+    'f5c46475-8389-5fe5-b92b-931b3f243264' => [
+        'When you have a bad day, a really bad day, try and treat the world better than it treated you.',
+        'Patrick Stump',
     ],
-    [
-        'Watching movies in the U.S. is great fun because they get every joke, they smile, they laugh so much; it\'s a great feeling.',
-        'Jet Li',
+    'edccc41f-315a-5f39-bc76-18b415235b62' => [
+        'Be stupid, be dumb, be funny, if that\'s who you are. Don\'t try to be someone that society wants you to be; that\'s stupid. So be yourself.',
+        'Christina Grimmie',
     ],
-    [
-        'Love is our true destiny. We do not find the meaning of life by ourselves alone - we find it with another.',
-        'Christopher Reeve',
+    'a7896ec8-a80b-5c38-ab8d-09e1c99348a4' => [
+        'The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools.',
+        'Confucius',
     ],
-    [
-        'As we begin to have landings on the moon, we can alternate those with vertical launch of similar crew modules on similar launch vehicles for vertical-launch tourism in space, if you want to call it that... adventure travel.',
-        'Buzz Aldrin',
+    '94404f13-af06-5ba6-bdf8-77669841ac80' => [
+        'A jug fills drop by drop.',
+        'Buddha',
     ],
-    [
-        'Obstacles don\'t have to stop you. If you run into a wall, don\'t turn around and give up. Figure out how to climb it, go through it, or work around it.',
-        'Michael Jordan',
+    'f8d084a4-8982-55bf-b93b-ad361d4cc21d' => [
+        'The flow of Guiness into the studio was inspirational as well as nutritive.',
+        'Carter Burwell',
     ],
-    [
-        'We must not allow ourselves to become like the system we oppose.',
-        'Bishop Desmond Tutu',
+    'a303094f-5c1f-57ac-8f1a-6e03357054c7' => [
+        'It just happened that the course of the campaign went negative we actually went positive for a little over a week and you do the tracking of poll numbers and it hurt us. So the public responded to those type of ads.',
+        'Scott McCallum',
     ],
-    [
-        'Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.',
-        'John F. Kennedy',
+    '93ddd322-b11c-5205-a3dc-e8edb579cb15' => [
+        'I like a woman with a head on her shoulders. I hate necks.',
+        'Steve Martin',
     ],
-    [
-        'I had to create some good work habits and attitude.',
-        'S. Truett Cathy',
+    '2f817fe6-1040-558f-b77b-6ac831c2fd77' => [
+        'It is one of the blessings of old friends that you can afford to be stupid with them.',
+        'Ralph Emerson',
     ],
 ];

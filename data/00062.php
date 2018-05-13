@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'For greed all nature is too little.',
-        'Lucius Annaeus Seneca',
+    '5d4eee50-70b5-5667-8d21-08de0c4d90b3' => [
+        'The measure of a life, after all, is not its duration, but its donation.',
+        'Audrey Hepburn',
     ],
-    [
-        'The real metric of success isn\'t the size of your bank account. It\'s the number of lives in whom you might be able to make a positive difference.',
-        'Naveen Jain',
+    '55aa9edf-a7cd-5895-9703-6ea6b5be4918' => [
+        'I can be dramatic. I can be funny. I can be sexy. I can be sad. I can be glad.',
+        'Kimberly Elise',
     ],
-    [
-        'We must go fast, because the race is against time.',
-        'Anna Held',
+    '3d1efdce-c865-5a93-9392-f29e8524bd19' => [
+        'I think people in Botswana are pleased that my books paint a positive picture of their lives and portray the country as being very special. They\'ve made a great success of their country, and the people are fed up with the constant reporting of only the problems and poverty of the continent. They welcome something which puts the positive side.',
+        'Alexander McCall Smith',
     ],
-    [
-        'Plant thy foot firmly in the prints which His foot has made before thee.',
-        'Joseph Barber Lightfoot',
+    '641088ce-bf1f-5cfb-9a4c-0a9a69ddf0c0' => [
+        'I have no fear of making changes, destroying the image, etc., because the painting has a life of its own.',
+        'Bill Shankly',
     ],
-    [
-        'Feeling is the consciousness of the resulting conditions - of success, failure, equilibrium, compromise or balance, in this continuous rivalry of ideas.',
-        'James Mark Baldwin',
+    '79051b85-7cc5-5ec3-b2c9-d331f3010f72' => [
+        'At the age of 18, I made up my mind to never have another bad day in my life. I dove into a endless sea of gratitude from which I\'ve never emerged.',
+        'Patch Adams',
     ],
-    [
-        'Working is actually a pleasure. It\'s just very time-consuming. It\'s a way of life. I find that I can work when I travel and work when I run. There is nothing like, on a rainy day, to work.',
-        'Helmut Jahn',
+    'b28a2019-06a3-5268-b81e-64fbeb17f181' => [
+        'For my part, I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
+        'Robert Louis Stevenson',
     ],
-    [
-        'It\'s all positive energy from me, man.',
-        'Swizz Beatz',
+    '441f59d4-1c76-5f99-880f-dce2133a16ba' => [
+        'I try to live my life like my father lives his. He always takes care of everyone else first. He won\'t even start eating until he\'s sure everyone else in the family has started eating. Another thing: My dad never judges me by whether I win or lose.',
+        'Justin Zackham',
     ],
-    [
-        'Perhaps nature is our best assurance of immortality.',
-        'Eleanor Roosevelt',
+    'fb01b933-886c-5e88-873f-f019d111b677' => [
+        'We have to get back to the beauty of just being alive in this present moment.',
+        'Mary McDonnell',
     ],
-    [
+    'f0b24167-d372-5f7d-812c-1fd8765ab54a' => [
         'I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.',
         'Walt Disney',
     ],
-    [
-        'Stop this attitude that older people ain\'t any good anymore! We\'re as good as we ever were - if we ever were any good.',
-        'Dolly Parton',
+    'a4b6b289-cc77-54dc-b982-a074650a45d1' => [
+        'Today\'s students can put dope in their veins or hope in their brains. If they can conceive it and believe it, they can achieve it. They must know it is not their aptitude but their attitude that will determine their altitude.',
+        'Jesse Jackson',
     ],
-    [
-        'My father, Oliver Hynes, was an educator. He was originally just a teacher, a very good one, but then he was promoted to be in charge of education for the entire area. He was always an inspirational teacher. He was my big personal supporter, always coming here for the Tony Awards. My mother, Carmel, was a homemaker.',
-        'Garry Hynes',
+    '7e75234f-e893-5210-9de9-357fdea6be52' => [
+        'My goal when I started out was to get to the point where I could tour a lot and make a living, which means getting paid enough to hire my own band, travel and end up with a bit of money, but I\'m still nowhere near that point. Because I didn\'t have a band and fan base when I started, I did everything backward.',
+        'Teddy Thompson',
     ],
-    [
-        'Falling in love is the best way to kill your heart because then it\'s not yours anymore. It\'s laid in a coffin, waiting to be cremated.',
-        'Ville Valo',
+    '16ebad30-559a-535c-a495-9957b68611c5' => [
+        'To hell with circumstances; I create opportunities.',
+        'Bruce Lee',
     ],
-    [
-        'Do your best, one shot at a time and then move on. Remember that golf is just a game.',
-        'Nancy Lopez',
+    'dc34ef0c-e90c-5763-ab05-05e4968680ea' => [
+        'Don\'t wait. The time will never be just right.',
+        'Napoleon Hill',
     ],
-    [
-        'I like joy; I want to be joyous; I want to have fun on the set; I want to wear beautiful clothes and look pretty. I want to smile, and I want to make people laugh. And that\'s all I want. I like it. I like being happy. I want to make others happy.',
-        'Doris Day',
+    'e992e1ef-0130-576f-97ad-7f228222d6aa' => [
+        'I wake up every day with a smile on my face.',
+        'Henry Ian Cusick',
     ],
-    [
-        'A simple compliment goes a really long way - for a guy to just come over and say, \'You have great hair\' or \'I really like your dress,\' and then just smile and walk away. That\'s a great move, because he\'s sort of putting himself out there by doing that, but it won\'t lead to any embarrassment if the girl isn\'t interested.',
-        'Stacy Keibler',
+    'ea6d944f-6b34-5da1-ad1b-2b6dbbd78a93' => [
+        'I can\'t change the direction of the wind, but I can adjust my sails to always reach my destination.',
+        'Jimmy Dean',
     ],
-    [
-        'The physician\'s duty is not to stave off death or return patients to their old lives, but to take into our arms a patient and family whose lives have disintegrated and work until they can stand back up and face - and make sense of - their own existence.',
-        'Paul Kalanithi',
+    'e40c7216-47b2-5bb1-aabe-b913e710096d' => [
+        'The sky broke like an egg into full sunset and the water caught fire.',
+        'Pamela Hansford Johnson',
     ],
-    [
-        'Giving up doesn\'t always mean you are weak; sometimes it means that you are strong enough to let go.',
-        'Unknown',
+    'ce107958-dbed-501b-afd6-9b99de68b392' => [
+        'Having family responsibilities and concerns just has to make you a more understanding person.',
+        'Sandra Day O\'Connor',
     ],
-    [
-        'Success is about dedication. You may not be where you want to be or do what you want to do when you\'re on the journey. But you\'ve got to be willing to have vision and foresight that leads you to an incredible end.',
-        'Usher',
+    '87302819-7d9e-5b00-a12e-9e330183d9ed' => [
+        'I learned a long time ago that some people would rather die than forgive. It\'s a strange truth, but forgiveness is a painful and difficult process. It\'s not something that happens overnight. It\'s an evolution of the heart.',
+        'Sue Monk Kidd',
     ],
-    [
-        'The path to success is to take massive, determined action.',
-        'Tony Robbins',
+    '66f77208-a860-5aed-ba14-20ff3034dca0' => [
+        'Like charity, I believe glamour should begin at home.',
+        'Loretta Young',
     ],
-    [
-        'Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.',
-        'John Holmes',
+    'bceddfee-f586-549f-88cc-5a9fedc89833' => [
+        'The art of progress is to preserve order amid change, and to preserve change amid order.',
+        'Alfred Whitehead',
     ],
-    [
-        'How many thorns of human nature are bristling conceits, buds of promise grown sharp for want of congenial climate.',
-        'John Burroughs',
+    'daa9656d-eb63-570b-8cb0-7e2bba129d96' => [
+        'My father and his eight siblings grew up in the kind of poverty that Americans don\'t like to talk about unless a natural disaster like Hurricane Katrina strikes, and then the conversation only lasts as long as the news cycle. His family squatted in shacks. The children scavenged for food.',
+        'Karin Slaughter',
     ],
-    [
-        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
-        'Pam Brown',
+    'd0fc517c-ab5f-575f-ac20-6269d00f5f55' => [
+        'Rarely do great beauty and great virtue dwell together.',
+        'Petrarch',
     ],
-    [
-        'My eyes are constantly wide open to the extraordinary fact of existence. Not just human existence, but the existence of life and how this breathtakingly powerful process, which is natural selection, has managed to take the very simple facts of physics and chemistry and build them up to redwood trees and humans.',
-        'Arnold Schwarzenegger',
+    '1e3e8cc9-31ef-5064-bc96-e62ba6c52d79' => [
+        'Give light and people will find the way.',
+        'Ella Baker',
     ],
-    [
-        'Each moment is perfect and heaven-sent, in that each moment holds the seeds for growth.',
-        'Suzan-Lori Parks',
+    '9614b832-37aa-5f9b-9e9f-128c6dd2930b' => [
+        'Screaming at children over their grades, especially to the point of the child\'s tears, is child abuse, pure and simple. It\'s not funny and it\'s not good parenting. It is a crushing, scarring, disastrous experience for the child. It isn\'t the least bit funny.',
+        'Ben Stein',
     ],
-    [
-        'If it\'s your job to eat a frog, it\'s best to do it first thing in the morning. And If it\'s your job to eat two frogs, it\'s best to eat the biggest one first.',
-        'Mark Twain',
+    'f0136cd6-9d73-5c4b-a0b9-f872a154da1d' => [
+        'I think that everything you do helps you to write if you\'re a writer. Adversity and success both contribute largely to making you what you are. If you don\'t experience either one of those, you\'re being deprived of something.',
+        'Shelby Foote',
     ],
 ];

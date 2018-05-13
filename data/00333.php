@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I always thought it would be funny to have the Parents Television Council write an episode of \'Family Guy\' and give them full creative control. Then see how good the episode is. That\'s something we\'ve actually discussed in the writers\' room. We haven\'t proposed it yet, but if somebody from the PTC reads this, it might be worth discussing.',
-        'Seth MacFarlane',
+    'b09b5654-3c8d-5fb7-8d1a-7bcd348d40c4' => [
+        'A failure is a man who has blundered but is not capable of cashing in on the experience.',
+        'Elbert Hubbard',
     ],
-    [
-        'If you\'re being ignored, that\'s a good time to concentrate on finding yourself and creating your own mystery.',
-        'Lykke Li',
+    '3c105941-bb00-5021-9f30-7b6308225f64' => [
+        'I believe in the brotherhood of man, all men, but I don\'t believe in brotherhood with anybody who doesn\'t want brotherhood with me. I believe in treating people right, but I\'m not going to waste my time trying to treat somebody right who doesn\'t know how to return the treatment.',
+        'Malcolm X',
     ],
-    [
-        'I\'m very competitive by nature. And I like to be the underdog - It\'s the best way to win. To come from behind and win is a great feeling!',
-        'Zac Efron',
+    '0b312c05-84fa-544a-a158-2ab4edb00e17' => [
+        'We read the world wrong and say that it deceives us.',
+        'Rabindranath Tagore',
     ],
-    [
-        'We must realise that man\'s nature will remain the same so long as he remains man; that civilisation is but a slight coverlet beneath which the dominant beast sleeps lightly and ever ready to awake. To preserve civilisation, we must deal scientifically with the brute element, using only genuine biological principles.',
-        'H. P. Lovecraft',
+    '82827a0f-dd01-5534-ae49-9659a606c6e5' => [
+        'Most smiles are started by another smile.',
+        'Frank A. Clark',
     ],
-    [
-        'They must often change, who would be constant in happiness or wisdom.',
-        'Confucius',
+    '22c79dda-4999-5426-a7cd-a6d52788286e' => [
+        'The difficulties of life are intended to make us better, not bitter.',
+        'Unknown',
     ],
-    [
-        'Character develops itself in the stream of life.',
-        'Joan Rivers',
+    'abde2142-7825-5f6d-aa9a-5edf100ed072' => [
+        'The battle against cancer has made me strong. It\'s like winning a war! When I was diagnosed, I was told by doctors my kidney, liver and other organs could fail. It was tough. I didn\'t know if I could save my life. But I was positive, and because of that, the doctor told me that I would be a man who would never have cancer.',
+        'Yuvraj Singh',
     ],
-    [
-        'I always find beauty in things that are odd and imperfect - they are much more interesting.',
-        'Marc Jacobs',
+    'a247632e-3f79-5f27-b448-cfc00d301cd2' => [
+        'You mustn\'t smile when you lose. You have to be sad like other people. You have to win every game.',
+        'Eden Hazard',
     ],
-    [
-        'In the practice of tolerance, one\'s enemy is the best teacher.',
-        'Dalai Lama',
+    'cef7ecc5-8636-5639-bc94-ac57e05beab7' => [
+        'When people have success, one of two things happen. They either get really satisfied and want to keep thinking about it and talking about what they did, or the success becomes a little addictive, and it makes them want to keep having more.',
+        'Nick Saban',
     ],
-    [
-        'There\'s sadness to anyone that dies before their time, and specifically ones that seem to affect people in a positive way. It doesn\'t matter if it\'s Whitney Houston or a nameless, faceless person on the street. That\'s just as big of a tragedy for me.',
-        'Chris Cornell',
+    '64bc1482-7f32-5e0f-b4df-20afa4f3731f' => [
+        'It seems like every time you come up something happens to bring you back down.',
+        'Tupac Shakur',
     ],
-    [
-        'Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
-        'Swami Vivekananda',
+    'f06efc00-2024-5dfd-ae5e-e25ae4ce2bad' => [
+        'Important principles may, and must, be inflexible.',
+        'Abraham Lincoln',
     ],
-    [
-        'This is how many people become artists, musicians, writers, computer programmers, record-holding athletes, scientists... by spending time alone practicing what they love.',
-        'Meg Cabot',
+    '7f98c475-2389-533a-bf17-56143a6c0d59' => [
+        'I think I have a mental nappy attitude.',
+        'Paul Mooney',
     ],
-    [
-        'All I can say about life is, Oh God, enjoy it!',
-        'Bob Newhart',
-    ],
-    [
-        'Your big opportunity may be right where you are now.',
-        'Napoleon Hill',
-    ],
-    [
-        'Art is not a study of positive reality, it is the seeking for ideal truth.',
+    '11c0c29f-ec05-566a-8d81-531212c2d72c' => [
+        'The sky is the part of creation in which nature has done for the sake of pleasing man.',
         'John Ruskin',
     ],
-    [
-        'There are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.',
-        'Henry David Thoreau',
+    '59e5c305-a8e0-575e-a322-851d01e31cf6' => [
+        'My interpretation of the word \'ugly\'... I like ugly beauty. That can happen. In France, we have phrase \'jolie laide.\' We like certain women who are not pretty or cute - it\'s the opposite in France of pretty. It\'s more strange and interesting.',
+        'Francois Nars',
     ],
-    [
-        'Our criminal justice system is fallible. We know it, even though we don\'t like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.',
-        'Eliot Spitzer',
+    '001a4d2c-83ae-5c89-b90a-9b4a05d51cf3' => [
+        'I lived at home and I cycled every morning to the railway station to travel by train to Johannesburg followed by a walk to the University, carrying sandwiches for my lunch and returning in the evening the same way.',
+        'Sydney Brenner',
     ],
-    [
-        'I like bowling. I suck at it, but I like it. You know what\'s so funny? I have days when I\'m absolutely great at doing it, and then I have days when I just don\'t understand it.',
-        'Lil\' Kim',
+    '0964bf94-d57c-553b-b7c6-b9c9420b6285' => [
+        'A bachelor is a man who comes to work each morning from a different direction.',
+        'Sholom Aleichem',
     ],
-    [
-        'People say that life is the thing, but I prefer reading.',
-        'Logan Pearsall Smith',
+    '67baabeb-6a41-5ee7-a689-088a7938c47a' => [
+        'Our subliminal mental processes operate outside awareness because they arise in these portions of our mind that are inaccessible to our conscious self; their inaccessibility is due to the architecture of the brain rather than because they have been subject to Freudian motivational forces like repression.',
+        'Leonard Mlodinow',
     ],
-    [
-        'Why should conservationists have a positive interest in... farming? There are lots of reasons, but the plainest is: Conservationists eat.',
-        'Wendell Berry',
+    '4e33ae50-9222-5f74-8038-95d7ee34eb35' => [
+        'As Americans, we have traditionally been the optimists sporting the \'can-do\' attitude. But when it comes to addressing climate adaptation and resiliency, we seem to be more \'can\'t do\' than \'can-do.\'',
+        'Paul Tonko',
     ],
-    [
-        'Success in management requires learning as fast as the world is changing.',
-        'Warren Bennis',
+    '0e9d6805-7a31-55b3-ad43-5276c08608ad' => [
+        'Cooking is one of the strongest ceremonies for life. When recipes are put together, the kitchen is a chemical laboratory involving air, fire, water and the earth. This is what gives value to humans and elevates their spiritual qualities. If you take a frozen box and stick it in the microwave, you become connected to the factory.',
+        'Stephen Covey',
     ],
-    [
-        'I broke two knuckles in my right hand when I gave Jean-Claude Van Damme an attitude adjustment. I got nothing except a medical bill.',
-        'Chuck Zito',
+    '1fed5835-4c3f-5c74-b544-a30201b7d2a3' => [
+        'You do not become good by trying to be good, but by finding the goodness that is already within you.',
+        'Eckhart Tolle',
     ],
-    [
-        'I believe in being positive.',
-        'Joe Greene',
+    '3ca4031c-717c-5bed-aa7b-6b0165f9af50' => [
+        'When your time comes to die, be not like those whose hearts are filled with fear of death, so that when their time comes they weep and pray for a little more time to live their lives over again in a different way. Sing your death song, and die like a hero going home.',
+        'Tecumseh',
     ],
-    [
-        'In Scotland over many years we have cultivated through our justice system what I hope can be described as a \'culture of compassion.\' On the other hand, there still exists in many parts of the U.S., if not nationally, an attitude towards the concept of justice which can only be described as a \'culture of vengeance.\'',
-        'Keith O\'Brien',
+    '42f5fc8c-a258-5b31-9ae2-74104284eb31' => [
+        'Beauty is not all there is of poetry. It must contain the truth. It is not simply an oak, rude and grand, neither is it simply a vine. It is both. Around the oak of truth runs the vine of beauty.',
+        'Robert Green Ingersoll',
     ],
-    [
-        'A family with the wrong members in control; that, perhaps, is as near as one can come to describing England in a phrase.',
-        'George Orwell',
+    '8cc47621-dcab-54f1-aefa-784425716460' => [
+        'At a certain point I\'m going to want to have a family.',
+        'Gwen Stefani',
     ],
-    [
-        'The moon is at her full, and riding high, Floods the calm fields with light. The airs that hover in the summer sky Are all asleep tonight.',
-        'William C. Bryant',
+    'd1c60c65-dca1-5c72-aa5c-eb535cb37433' => [
+        'Smile. It instantly lifts the face, and it just lights up the room.',
+        'Christie Brinkley',
+    ],
+    '038f18a3-28e6-5228-9590-f5647182956a' => [
+        'My family moved from California to New Jersey in the beginning of my sophomore year of high school. I will never forget the first day in a new school, walking into the cafeteria during lunch and not knowing a single soul. I didn\'t feel confident enough to share a seat at just anyone\'s table.',
+        'Camille Guaty',
+    ],
+    '0297530c-2c05-54fc-bb6b-ccd20a9ddc17' => [
+        'I do not have much patience with a thing of beauty that must be explained to be understood. If it does need additional interpretation by someone other than the creator, then I question whether it has fulfilled its purpose.',
+        'Charlie Chaplin',
     ],
 ];

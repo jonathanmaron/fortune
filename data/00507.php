@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The foundation of family - that\'s where it all begins for me.',
-        'Faith Hill',
+    'c3bacfc1-1059-5682-a23f-fcb09680456c' => [
+        'I see travelling as a great learning process, and my biggest dream is to travel the world.',
+        'Pooja Hegde',
     ],
-    [
-        'Talking is always positive. That\'s why I talk too much.',
-        'Louis C. K.',
+    '046c1f3e-e443-5e91-bd91-ca4b40a59207' => [
+        'Although I do wrong, I do not the wrongs that I am charged with doing; the wrong that I do is through the frailty of human nature, like other men. No man lives without fault.',
+        'Joseph Smith, Jr.',
     ],
-    [
-        'My diabetes is such a central part of my life... it did teach me discipline... it also taught me about moderation... I\'ve trained myself to be super-vigilant... because I feel better when I am in control.',
-        'Mark Twain',
+    '6e762acc-0fc2-59db-997e-f0069a4519f8' => [
+        'Truth, and goodness, and beauty are but different faces of the same all.',
+        'Ralph Emerson',
     ],
-    [
-        'Crime is terribly revealing. Try and vary your methods as you will, your tastes, your habits, your attitude of mind, and your soul is revealed by your actions.',
-        'Agatha Christie',
+    '24179367-1ce4-5419-afe2-8d29954e6588' => [
+        'Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent.',
+        'Nolan Ryan',
     ],
-    [
-        'I greatly fear some of America\'s greatest and most dangerous enemies are such as think themselves her best friends.',
-        'Nathan Hale',
+    '3f2781f2-780a-51f5-ae0d-69a34bbf5703' => [
+        'The minute you settle for less than you deserve, you get even less than you settled for.',
+        'Maureen Dowd',
     ],
-    [
-        'They will always assume that this guy - an upcoming actor, what if he becomes a star tomorrow? He would not work with me then... so I might as well choose to be nice. But women are not treated with the same attitude. Women they treat really badly.',
-        'Kangana Ranaut',
+    '34f3c039-fc8d-5ae8-9a38-f7f5fbe3df82' => [
+        'I look around me and nowhere do I see a stamp of disapproval with which nature marked a woman\'s candid brow.',
+        'Franz Grillparzer',
     ],
-    [
-        'Common sense would suggest that having ability, like being smart, inspires confidence. It does, but only while the going is easy. The deciding factor in life is how you handle setbacks and challenges. People with a growth mindset welcome setbacks with open arms.',
-        'Ezra Taft Benson',
+    'a38a9e3c-250b-580c-9e60-5374e0792078' => [
+        'We are what we believe we are.',
+        'C.S. Lewis',
     ],
-    [
-        'That attitude does not exist so much today, but in those days there was a very sharp distinction between basic physics and applied physics. Columbia did not deal with applied physics.',
-        'Gordon Gould',
+    '11b34926-22bf-5a46-96d8-e76311aaf729' => [
+        'The will to work of everyone in the country is the best guarantee of national survival.',
+        'Bhumibol Adulyadej',
     ],
-    [
-        'The saddest thing that can happen to a person is to find out their memories are lies.',
-        "Juan Gabriel V\u{e1}squez",
+    'dd67ccca-8830-565a-8df9-0c7d863cbed8' => [
+        'Maxim for life: You get treated in life the way you teach people to treat you.',
+        'Wayne Dyer',
     ],
-    [
-        'Life is made up of marble and mud.',
-        'Nancy Reagan',
+    'f075970b-7489-5940-98ff-6e49f42590d8' => [
+        'Dreaming in public is an important part of our job description, as science writers, but there are bad dreams as well as good dreams. We\'re dreamers, you see, but we\'re also realists, of a sort.',
+        'William Gibson',
     ],
-    [
-        'The rainbow is a part of nature, and you have to be in the right place to see it. It\'s beautiful, all of the colors, even the colors you can\'t see. That really fit us as a people because we are all of the colors. Our sexuality is all of the colors. We are all the genders, races, and ages.',
-        'Gilbert Baker',
+    '3ab3a726-4097-5f34-a457-6e57715cfcf9' => [
+        'Before \'Gangnam Style\' I was not a good attitude artist.',
+        'Psy',
     ],
-    [
-        'All the seven deadly sins are man\'s true nature. To be greedy. To be hateful. To have lust. Of course, you have to control them, but if you\'re made to feel guilty for being human, then you\'re going to be trapped in a never-ending sin-and-repent cycle that you can\'t escape from.',
-        'Marilyn Manson',
+    '62ceaadd-7981-5f6e-9b73-bb1861b8dcda' => [
+        'I used to work for the World Health Organisation in poor countries all over the world - Bangladesh, Korea, the Philippines and India. You learn a whole range of things about how other people are living and try to connect with them to gain an understanding of where they\'re coming from.',
+        'Robert Winston',
     ],
-    [
-        'I don\'t dislike rappers or hip-hop or people who like it. I went to the Def Jam tour in Manchester in the \'80s when rap was inspirational. Public Enemy were awesome. But it\'s all about status and bling now, and it doesn\'t say anything to me.',
-        'Noel Gallagher',
+    '7424fd25-7203-5718-b17e-d8ec2c47668e' => [
+        'As we all know, there is inner beauty and outer beauty. If we examine inner beauty, to me there is nothing more beautiful than inner peace, in a man or a woman.',
+        'Alice Greczyn',
     ],
-    [
-        'Each one of us can do a good deed, every day and everywhere. In hospitals in desperate need of volunteers, in homes for the elderly where our parents and grandparents are longing for a smile, a listening ear, in the street, in our workplaces and especially at home.',
-        'Shari Arison',
+    'ee24460b-3c76-54bc-ac73-155cb803723f' => [
+        'Art and nature shall always be wrestling until they eventually conquer one another so that the victory is the same stroke and line: that which is conquered, conquers at the same time.',
+        'Maria Sibylla Merian',
     ],
-    [
-        'There is more to life than increasing its speed.',
-        'Stephen Hawking',
+    'cec2231a-aada-5229-a944-6d843aeeb3f5' => [
+        'Sometimes all the players get a bad hand. You just have to be determined enough to see the game through.',
+        'Dean Wilson',
     ],
-    [
-        'Ninety-eight per cent of laughter is nothing to do with jokes, which do not deserve to bear the weight of all the funny stuff in the world.',
-        'Arthur Smith',
+    '25427413-8312-553c-bedc-36b8e8a3c7ef' => [
+        'All serious daring starts from within.',
+        'Harriet Beecher Stowe',
     ],
-    [
-        'Everything I do, writing, touring, travelling, it all comes from the punk and hardcore attitude, from that expression - from being open to try things but relying on yourself, taking what you have into the battle and making of it what you will, hoping you can figure it out as you go. Make some sense of it.',
-        'Henry Rollins',
+    '13c96dff-d25d-53b6-b4df-d99885fcdab7' => [
+        'If you want things to be different, perhaps the answer is to become different yourself.',
+        'Norman Peale',
     ],
-    [
-        'Even with an improperly ground mirror, the Hubble delivered extraordinary images. When the flaw was corrected, the Hubble delivered images of transcendent beauty and value for many years. So too \'Terra Nova.\' Even in its flawed first season, each episode was full of marvelous moments and beautiful images.',
-        'Stephen Lang',
+    '5b5a9001-49e8-5765-bdab-7955ebefdc6f' => [
+        'I never thought I was particularly good looking. But when I see old photographs, I realise that I was. I do wish I had known that at the time because beauty is power. I didn\'t realise how lucky I was to be young, beautiful and in Hollywood. It didn\'t hit me. Every day I woke up, went to the film studio and just got on with it.',
+        'Joan Collins',
     ],
-    [
-        'Believe it or not, I have about the same success rate as anyone else. Sometimes you hit, sometimes you miss.',
-        'Seth MacFarlane',
+    '101df013-9257-546c-aa0c-c24c9f973670' => [
+        'I guess, growing up at Australia Zoo and getting to travel all over the world, I have this great outlook on life, and that\'s what I hope I inspire other kids to have.',
+        'Bindi Irwin',
     ],
-    [
-        'Familial betrayal is, to me, the most heartbreaking kind - because if you can\'t trust your family to love you and protect you, who can you really trust?',
-        'Alexandra Bracken',
+    '28b3cf94-89a9-5bd9-88c7-6f95ec01873b' => [
+        'The man who trusts men will make fewer mistakes than he who distrusts them.',
+        'Cavour',
     ],
-    [
-        'Being a teenager is an amazing time and a hard time. It\'s when you make your best friends - I have girls who will never leave my heart and I still talk to. You get the best and the worst as a teen. You have the best friendships and the worst heartbreaks.',
-        'Sophia Bush',
+    '355773b5-6bb7-5294-86ee-b91f13e814bd' => [
+        'The average Londoner knows just one neighbour. I travel a lot, and I\'m always surprised by the strong sense of community in some countries. We\'ve lost something fundamentally human, and we don\'t even realise it.',
+        'Lily Cole',
     ],
-    [
-        'The bond that links your true family is not one of blood, but of respect and joy in each other\'s life.',
-        'George Lucas',
+    '1913a732-61ac-5a65-825c-4d19a29e5c0d' => [
+        'Commitment, belief and positive attitude are all important if you\'re going to be a success, whether you\'re in sports, in business or, as in my case, anthropology.',
+        'Donald Johanson',
     ],
-    [
-        'Don\'t Let Yesterday Take Up Too Much Of Today.',
-        'Will Rogers',
+    '321536be-4d8b-5396-a70e-9f25244d8e9a' => [
+        'You know I think that going into therapy is a very positive thing, and talking about it is really helpful, because the more you talk the more your fears fade, because you get it out.',
+        'Fran Drescher',
     ],
-    [
-        'To be successful, you have to have your heart in your business and your business in your heart.',
-        'Thomas J. Watson',
+    '7527bafa-d08d-5264-86f3-bfc5dd8d53fd' => [
+        'My dad said to me, \'Work hard and be patient.\' It was the best advice he ever gave me. You have to put the hours in.',
+        'Simon Cowell',
     ],
-    [
-        'It\'s never too late to be whoever you want to be. I hope you live a life you\'re proud of, And if you find that you\'re not, I hope you have the strength to start over.',
-        'F. Scott Fitzgerald',
+    'fc7bbc61-8f47-5c83-b6f1-4178df02b346' => [
+        'I have never been hurt by anything I didn\'t say.',
+        'Calvin Coolidge',
     ],
 ];

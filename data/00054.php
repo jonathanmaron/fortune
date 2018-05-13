@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'There was a time when nails were high-tech. There was a time when people had to be told how to use a telephone. Technology is just a tool. People use tools to improve their lives.',
-        'Tom Clancy',
+    '65a747d0-0c8c-545c-bc5c-a23c9acc9397' => [
+        'The hardest thing to find in life is balance - especially the more success you have, the more you look to the other side of the gate. What do I need to stay grounded, in touch, in love, connected, emotionally balanced? Look within yourself.',
+        'Celine Dion',
     ],
-    [
-        'Today is the tomorrow you worried about yesterday.',
-        'Unknown',
+    '03957bde-1061-5667-8150-979ff93f55e5' => [
+        'My family is more important than my party.',
+        'Zell Miller',
     ],
-    [
-        'Too low they build, who build beneath the stars.',
-        'Edward Young',
+    'd3434109-f09c-5820-b3eb-d4eb90f9bc09' => [
+        'Peace cannot be kept by force. It can only be achieved by understanding.',
+        'Albert Einstein',
     ],
-    [
-        'Humor has bailed me out of more tight situations than I can think of. If you go with your instincts and keep your humor, creativity follows. With luck, success comes, too.',
-        'Jimmy Buffett',
+    '63b8d1a1-0a0e-571f-90b2-ac18264c2227' => [
+        'It is not the style of clothes one wears, neither the kind of automobile one drives, nor the amount of money one has in the bank, that counts. These mean nothing. It is simply service that measures success.',
+        'George Washington Carver',
     ],
-    [
-        'Loving oneself isn\'t hard, when you understand who and what \'yourself\' is. It has nothing to do with the shape of your face, the size of your eyes, the length of your hair or the quality of your clothes. It\'s so beyond all of those things and it\'s what gives life to everything about you. Your own self is such a treasure.',
-        'Pope Paul VI',
+    '18c2adf7-1e32-595e-bfc5-853600ff8b9f' => [
+        'The world has the habit of making room for the man whose actions show that he knows where he is going.',
+        'Napoleon Hill',
     ],
-    [
-        'In order to understand why George W. Bush doesn\'t get it, you have to take several strands of common Texas attitude, then add an impressive degree of class-based obliviousness. What you end up with is a guy who sees himself as a perfectly nice fellow - and who is genuinely disconnected from the impact of his decisions on people.',
-        'Molly Ivins',
+    '59bd8aad-e4a3-5014-bd78-5cfdceb52be2' => [
+        'The difference between utility and utility plus beauty is the difference between telephone wires and the spider web.',
+        'Edwin Way Teale',
     ],
-    [
-        'I write little quotes all the time to help encourage people to come together, like this one: \'If fate happens to toss you a lightbulb, use it to light the path of others, for they will use theirs to light the path of you. With your light together with mine, it\'s two times as bright and twice as strong.\'',
-        'Matthew Underwood',
+    '17f160b9-60be-5d68-b8a5-22b1bdfec976' => [
+        'I think the chance of finding beauty is higher if you don\'t work on it directly. Beauty in architecture is driven by practicality. This is what you learn from studying the old townscapes of the Swiss farmers.',
+        'Peter Zumthor',
     ],
-    [
-        'One time, the teacher was the storehouse of knowledge. That will no longer be so. So what would a teacher do? A very good teacher will play the role of augmenter. Also, the teacher will be located anywhere and helping students.',
-        'Shiv Nadar',
+    '16b5ab86-4de8-515b-9c8c-03e4c55249b9' => [
+        'What separates the winners from the losers is how a person reacts to each new twist of fate.',
+        'Donald Trump',
     ],
-    [
-        'Failure is not our only punishment for laziness; there is also the success of others.',
-        'Jules Renard',
+    '0953639a-eafb-5f14-989a-dacbe6d543b1' => [
+        'I love a lot of the New York bands, but Patti Smith stands out. I just read \'Just Kids\' and it\'s an inspirational, well-written account of an emerging New York artist in the late seventies.',
+        'James Iha',
     ],
-    [
-        'Time begins the healing process of wounds cut deeply by oppression. We soothe ourselves with the salve of attempted indifference, accepting the false pattern set up by the horrible restriction of Jim Crow laws.',
-        'Rosa Parks',
+    'aa314374-c4c3-5be7-aeba-1508d152c98f' => [
+        'The first case of Ebola diagnosed in the United States has caused some to call on the United States to ban travel for anyone from the countries in West Africa facing the worst of the Ebola epidemic. That response is understandable. It\'s only human to want to protect ourselves and our families.',
+        'Tom Frieden',
     ],
-    [
-        'The nature of the movies is different than it was five years ago, and they\'re all driven by the possibilities of CGI, which means you can make anything happen on screen that you can possibly desire.',
-        'Tom Hanks',
+    'e32ad68a-3634-53bd-80e2-fa0695f3fdd0' => [
+        'Ah, but a man\'s reach should exceed his grasp, Or what\'s a heaven for?',
+        'Robert Browning',
     ],
-    [
-        'Growing up, I had a very normal relationship with my brother and sister. But, over time, they became my best friends, and now I hang out with them all the time. I\'m very close with them.',
-        'Logan Lerman',
+    'f68997a1-807c-5edb-a649-57f720ae1b96' => [
+        'When we adopt a dog or any pet, we know it is going to end with us having to say goodbye, but we still do it. And we do it for a very good reason: They bring so much joy and optimism and happiness. They attack every moment of every day with that attitude.',
+        'Bruce Cameron',
     ],
-    [
-        'The measure of success is not whether you have a tough problem to deal with, but whether it is the same problem you had last year.',
-        'John Foster Dulles',
+    '37d70855-45d9-53e8-a734-ae699a480286' => [
+        'It\'s amazing what sleep does for your looks.',
+        'Emily Procter',
     ],
-    [
-        'AIDS can destroy a family if you let it, but luckily for my sister and me, Mom taught us to keep going. Don\'t give up, be proud of who you are, and never feel sorry for yourself.',
-        'Ryan White',
+    'b04b50d2-c44c-59bb-b7f9-a4e6f72e196f' => [
+        'Success isn\'t a result of spontaneous combustion. You must set yourself on fire.',
+        'Arnold H. Glasow',
     ],
-    [
-        'I grew up with an Italian family in an era when a woman\'s path was laid out for her: You got married and had children. Simple, right? Then I got to a point around the age of 30 when I had three little children and was a single mom, and I realized life was not so simple.',
-        'Joy Mangano',
+    '7090d81d-807e-5458-8ae7-ac22cc9e98e8' => [
+        'I love airports because funny things always happen at them. They\'re giant complexes full of urgency, seriousness, and confusion. Where am I supposed to be? Which way do I go? And that\'s just the staff.',
+        'Rhys Darby',
     ],
-    [
-        'Our success educationally, industrially and politically is based upon the protection of a nation founded by ourselves. And the nation can be nowhere else but in Africa.',
-        'Marcus Garvey',
+    'f452c3f0-683d-53f7-ba5f-c6afa2a34176' => [
+        'In Wyoming, the beauty of our mountains is matched only by the grit of our people.',
+        'Liz Cheney',
     ],
-    [
-        'Send out a cheerful, positive greeting, and most of the time you will get back a cheerful, positive greeting. It\'s also true that if you send out a negative greeting, you will, in most cases, get back a negative greeting.',
-        'Zig Ziglar',
+    'b5799609-ea36-5cb8-82d0-acbe5c5cb087' => [
+        'I\'m trying to stay as calm as possible and focus one day at a time, but when reality sets in, I feel everything: anxiety, excitement, nerves, pressure and joy.',
+        'Shawn Johnson',
     ],
-    [
-        'I think a smile can make your whole body. Models, they look fabulous, but they don\'t smile, and they look so mad.',
-        'Serena Williams',
+    '20ca5684-ec3a-50ca-8099-69adae109e6d' => [
+        'Purpose and laughter are the twins that must not separate. Each is empty without the other.',
+        'Robert Greenleaf',
     ],
-    [
-        'The average family spends 30 hours in front of a television, and they say they don\'t have the time to have a balanced, integrated life.',
-        'Stephen Covey',
+    '99d1da7e-6913-5387-918b-93f350b6afa8' => [
+        'When you are grateful - when you can see what you have - you unlock blessings to flow in your life.',
+        'Bob Feller',
     ],
-    [
-        'I have a really beautiful life right now, so there is no reason to be hostile. I\'m a husband, a father and a man who tries to do the right thing in life and in my work.',
-        'Ice Cube',
+    '1cb4cb9f-5b48-5048-897d-50f1222de367' => [
+        'I love the Rio Grande Valley. I always say it\'s home - Texas is home. I\'ve been out in L.A. a little over ten years, and I still get so excited when I go back home. It just feels comfortable; it makes me smile.',
+        'Cristela Alonzo',
     ],
-    [
-        'As a teenager, I used to travel everywhere with my guitar. I appreciated the fact it was with me, but it was always an absolute pain to carry around - even though, in those days, you could take in on a plane as hand luggage.',
-        'Greg Wise',
+    'ce9a349d-60a0-5b45-9f52-3fb98b423b97' => [
+        'The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.',
+        'Edward Ericson',
     ],
-    [
-        'When Bill Clinton ran in \'92, and I listened to him, and I had of course known of his record from Arkansas, I found him extraordinarily inspirational, and I voted Democratic.',
-        'Wesley Clark',
+    '809c5cc2-fc60-5786-84ed-b8de06a95e1c' => [
+        'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
+        'Nick Saban',
     ],
-    [
-        'We are looking for a set of personal characteristics that predict success, the first and foremost of which is perseverance in the face of challenges. We also look for the ability to influence and motivate others who share your values, strong problem-solving ability, and leadership.',
-        'Wendy Kopp',
+    '1d41843a-18a4-5838-9814-b5b72b93d8d0' => [
+        'My wife, a schoolteacher, very disciplined. If you think I\'m tough, trust me, and wait till you see when the children are on the naughty step. It\'s hilarious. So we decided that I\'m going to work like a donkey and provide amazing support for the family.',
+        'Gordon Ramsay',
     ],
-    [
-        '\'Thank you\' is the best prayer that anyone could say. I say that one a lot. Thank you expresses extreme gratitude, humility, understanding.',
-        'Alice Walker',
+    'a133e6a0-c9c3-5145-a724-cee8a8718904' => [
+        'In both business and personal life, I\'ve always found that travel inspires me more than anything else I do. Evidence of the languages, cultures, scenery, food, and design sensibilities that I discover all over the world can be found in every piece of my jewelry.',
+        'Ivanka Trump',
     ],
-    [
-        'My only responsibility as a playwright and a storyteller is to give you the time of your life in the theatre. I just happen to think that with Hamilton\'s story, sticking close to the facts helps me. All the most interesting things in the show happened.',
-        'Lin-Manuel Miranda',
+    '33677c9e-b302-5300-b0b4-2fc10a1ac09b' => [
+        'I think we live in a world where the most important thing is daily life: sharing a space with your family, making meals, being with your people. It\'s not only the idea of privacy, it\'s the beauty of the moment, at a time in the world when everything goes really fast - too fast.',
+        'Ana Tijoux',
     ],
 ];

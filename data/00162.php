@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Man cannot discover new oceans unless he has the courage to lose sight of the shore.',
-        'Andre Gide',
+    'ff1675b9-57a1-5132-adf2-11e6d55cca4b' => [
+        'I will have my publicist pull pictures of the way I look at events so I can see, \'Oh, that cut is not as flattering as I thought,\' or \'I should smile bigger,\' or \'That positioning is odd.\' I learn from it.',
+        'Allison Williams',
     ],
-    [
-        'Sometimes life hits you in the head with a brick. Don\'t lose faith.',
+    '8bf153ef-035a-59db-8708-e8cc810c7581' => [
+        'I like children - fried.',
+        'W. C. Fields',
+    ],
+    '80e0b05f-d8a8-5f94-b70f-c975f2505960' => [
+        'The secret of your success is determined by your daily agenda.',
+        'John C. Maxwell',
+    ],
+    '6928cbe4-d5e9-5497-bf4e-8d622ebfad61' => [
+        'I don\'t feel restless, I just like to travel.',
+        'Brad Pitt',
+    ],
+    'e0c086bc-8883-53cd-91ea-e9f056b381ef' => [
+        'Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense everything that comes from love is a miracle.',
+        'Marianne Williamson',
+    ],
+    '81f860cb-ca21-5026-bd11-c921b5bd0be0' => [
+        'I think we pursue positive relationships whether or not they bring us engagement or happiness.',
+        'Martin Seligman',
+    ],
+    '5b026cfc-b75c-5dc0-9fd8-6705a6ab3fdc' => [
+        'Beauty is not caused. It is.',
+        'Emily Dickinson',
+    ],
+    '6ee9e8cf-66fd-5eed-ace4-9680b41e3add' => [
+        'Christmas to a child is the first terrible proof that to travel hopefully is better than to arrive.',
+        'Stephen Fry',
+    ],
+    '17bca660-bc60-582a-a14e-55d6dbe43225' => [
+        'Tact is the ability to describe others as they see themselves.',
+        'Abraham Lincoln',
+    ],
+    '1f4d7dd3-e6a4-5a39-9fb3-ff32ce8f7b8e' => [
+        'Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.',
+        'C. S. Lewis',
+    ],
+    'c802cc5d-d984-5ffb-9518-6266de2be178' => [
+        'Act as if what you do makes a difference. It does.',
+        'William James',
+    ],
+    '70a084c7-97a9-55ab-b315-bfecb7dee635' => [
+        'Fairness is not an attitude. It\'s a professional skill that must be developed and exercised.',
+        'Brit Hume',
+    ],
+    '73d1ab0b-5637-53ed-9a3e-968f6996693e' => [
+        'Get up tomorrow early in the morning, and earlier than you did today, and do the best that you can. Always stay near me, for tomorrow I will have much to do and more than I ever had, and tomorrow blood will leave my body above the breast.',
+        'Joan of Arc',
+    ],
+    '2f67e398-b717-5aa4-9e24-0626aa64ac30' => [
+        'All punk is is attitude. That\'s what makes it. The attitude.',
+        'Joey Ramone',
+    ],
+    'b4d864ee-6197-5d45-a0f5-81e5a206d7db' => [
+        'Nurture your minds with great thoughts. To believe in the heroic makes heroes.',
         'Benjamin Disraeli',
     ],
-    [
-        'A good boss makes his men realize they have more ability than they think they have so that they consistently do better work than they thought they could.',
-        'Charles Erwin Wilson',
+    '0725bf7d-2a36-5d93-aa67-4cb31820f358' => [
+        'Think of success as a game of chance in which you have control over the odds. As you begin to master concepts in personal achievement, you are increasing your odds of achieving success.',
+        'Bo Bennett',
     ],
-    [
-        'When I wake up every morning, I smile and say, \'Thank you.\' Because out of my window I can see the mountains, then go hiking with my dog and share her bounding joy in the world.',
-        'Carole King',
+    'edeba0db-a56c-519d-97dc-ae34d142e3f6' => [
+        'Adapt or perish, now as ever, is nature\'s inexorable imperative.',
+        'H. G. Wells',
     ],
-    [
-        'Everybody should be able to enjoy their life, because you only live once. So I just want to get it all out there and be the best role model that I can be, if people want to put me in that kind of predicament. I mean, I didn\'t ask to be a role model, because I\'m not perfect.',
-        'ASAP Rocky',
+    'e5631f87-71b1-5f20-b6a2-70a3b8a60c82' => [
+        'Fast cars like Porsches and Ferraris - they are things of beauty.',
+        'Rod Stewart',
     ],
-    [
-        'We learned about honesty and integrity - that the truth matters... that you don\'t take shortcuts or play by your own set of rules... and success doesn\'t count unless you earn it fair and square.',
-        'Michelle Obama',
+    '324ea13f-944e-51fb-b06b-0a54428f3e40' => [
+        'Making money is often more fun than spending it, though I personally have never regretted money I\'ve spent on friends, new experiences, saving time, travel, and causes I believe in.',
+        'Sam Altman',
     ],
-    [
-        'Although we work through financial markets, our goal is to help Main Street, not Wall Street.',
-        'Janet Yellen',
+    'c9e1135a-6939-55f9-88a7-132520391fc6' => [
+        'I do not need a trophy to tell myself that I am the best.',
+        'Zlatan Ibrahimovic',
     ],
-    [
-        'Sometimes I think we\'re alone in the universe, and sometimes I think we\'re not. In either case the idea is quite staggering.',
-        'Arthur C. Clarke',
+    '7fe90cea-608d-5e59-800a-cc3784d43ca8' => [
+        'Work is a prayer. And I start off every morning dedicating it to our Creator.',
+        'Joseph Murray',
     ],
-    [
-        'If you don\'t read it, you don\'t know. I mean, that\'s why I have a PR team. They read it and tell me if there\'s something, and that keeps you focused. I know my family and me well enough; why do I need to read about myself? I\'m not going to change, I\'m very stubborn in this way. I am what I am.',
-        'Anne Wojcicki',
+    'ca85ec50-1794-5a16-9675-e1f2b3682d11' => [
+        'I think in London - and I don\'t wanna offend anybody in America, but this is a real statement - they still have the right approach to making music. In the U.S., people see it as a way to make money; they see it as a means to get out. It\'s a hustle, which is great - any way you can provide for your family that\'s legal is fantastic.',
+        'Jay-Z',
     ],
-    [
-        'No man is a failure who is enjoying life.',
-        'Musiq Soulchild',
+    '42e86ae6-a0a4-5148-8813-e57ed6fee442' => [
+        'When I write, I\'m still imagining a kid reading it on paper. I read e-books when I travel, but in general I still prefer holding an old-fashioned book in my hands. There\'s a special, tactile experience.',
+        'Rick Riordan',
     ],
-    [
-        'I am always acting, be at a party, at work or in office. My attitude changes from meeting to meeting, from being serious to intense to funny, depending on who is in the room.',
-        'Karan Johar',
+    '94e0dbd6-cebc-58b3-a255-8f8840da63bd' => [
+        'Action is drama. If we cannot make the audience laugh, smile or cry with us, we are not actors.',
+        'Sonny Chiba',
     ],
-    [
-        'I\'m very fond of the British cinema. I\'m a big fan of Martin Campbell and Daniel Craig. I actually find Daniel very inspirational, especially on the physical side of things. He really inspired me to get back into shape when I started to add on a few pounds. I think he\'s a great role model.',
-        'Steven Bauer',
-    ],
-    [
-        'Besides, I\'m a gypsy at heart and I like to travel around.',
-        'Reba McEntire',
-    ],
-    [
-        'In the States, you can buy Chinese food. In Beijing you can buy hamburger. It\'s very close. Now I feel the world become a big family, like a really big family. You have many neighbors. Not like before, two countries are far away.',
-        'Jet Li',
-    ],
-    [
-        'Do not weep; do not wax indignant. Understand.',
-        'Baruch Spinoza',
-    ],
-    [
-        'Champions extend their limits and make things happen.',
-        'Amit Ray',
-    ],
-    [
-        'Travel is the best and probably cheapest graduate school you can buy.',
-        'Tom Freston',
-    ],
-    [
-        'When life is too easy for us, we must beware or we may not be ready to meet the blows which sooner or later come to everyone, rich or poor.',
-        'Peter Marshall',
-    ],
-    [
-        'If you are truly offended by an 80-year-old man saying you\'re not funny, then you\'re probably not funny.',
-        'Sarah Silverman',
-    ],
-    [
-        'I take great pride in all the tremendous success we\'ve enjoyed at CBS. And the good news is that I feel even more enthusiastic about what my terrific team and I will accomplish going forward.',
-        'Leslie Moonves',
-    ],
-    [
-        'Fashion pictures show people looking glamorous. Travel pictures show a place looking at its best, nothing to do with the reality. In the cookery pages, the food always looks amazing, right? Most of the pictures we consume are propaganda.',
-        'Martin Parr',
-    ],
-    [
-        'No great achiever - even those who made it seem easy - ever succeeded without hard work.',
-        'Jonathan Sacks',
-    ],
-    [
-        'From my tribe I take nothing, I am the maker of my own fortune.',
-        'Tecumseh',
-    ],
-    [
-        'The best thing is to always keep honest people around, because when you have a bunch of yes men around that know that you\'re making a mistake but let you go on with it, that\'s when it ruins your mind state as an artist.',
-        'Kendrick Lamar',
-    ],
-    [
-        'Chilling out on the bed in your hotel room watching television, while wearing your own pajamas, is sometimes the best part of a vacation.',
-        'Laura Marano',
+    '3c83a90e-fcf1-56b1-91d0-1d41d86995fd' => [
+        'The funny thing is that my husband couldn\'t be sweeter. He looks like this bad boy. He\'s got tattoos and earrings and a mohawk, but when you talk to him and he\'s around you, he\'s such a gentleman. He holds doors for ladies. He pulls out chairs. He cooks. He cleans.',
+        'Malin Akerman',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Whenever I look at a baby or children in general, I smile and just want to play with them.',
-        'Odeya Rush',
+    'bcf618bc-e499-5051-acf0-70a4985bd07e' => [
+        'Stop being a critic and be a light; don\'t be a judge, be a model. I think we are far too critical. I think the best way to correct behavior is to accentuate and affirm positive behavior and to ignore negative behavior. Generally speaking, there is a time to correct, of course; but my biggest advice would be, \'Affirm your child.\'',
+        'Sean Covey',
     ],
-    [
-        'There are people in every time and every land who want to stop history in its tracks. They fear the future, mistrust the present, and invoke the security of a comfortable past which, in fact, never existed.',
-        'Robert Kennedy',
+    '4222e1f1-1e77-519e-bd16-26cb92e208a9' => [
+        'An important finding is that by determining the genome sequences of an entire family, one can identify many DNA sequencing errors and thus greatly increase the accuracy of the data. This will ultimately help us understand the role of genetic variations in the diagnosis, treatment, and prevention of disease.',
+        'Leroy Hood',
     ],
-    [
-        'Too often in life, something happens and we blame other people for us not being happy or satisfied or fulfilled. So the point is, we all have choices, and we make the choice to accept people or situations or to not accept situations.',
-        'Yoko Ono',
+    '2f4c0740-25bd-594a-bf1b-c2fd716265b0' => [
+        'The family farm is the foundation for who we are as a Commonwealth. And for over a century, the family farm in Kentucky has centered around one crop: tobacco.',
+        'Jim Bunning',
     ],
-    [
-        'Set your goals high, and don\'t stop till you get there.',
-        'Bo Jackson',
+    '578abf3f-4436-57dd-9f35-40343ef5c6da' => [
+        'Life is short, youth is finite, and opportunities endless. Have you found the intersection of your passion and the potential for world-shaping positive impact? If you don\'t have a great idea of your own, there are plenty of great teams that need you - unknown startups and established teams in giant companies alike.',
+        'Justin Rosenstein',
     ],
-    [
-        'All I can do will only ever be a faint image of what I see and my success will always be less than my failure or perhaps equal to the failure.',
-        'Alberto Giacometti',
+    'ec86b17a-ceb5-5d5a-8815-2b8264bbf575' => [
+        'The ultimate victory in competition is derived from the inner satisfaction of knowing that you have done your best and that you have gotten the most out of what you had to give.',
+        'Howard Cosell',
     ],
-    [
-        'The flow of Guiness into the studio was inspirational as well as nutritive.',
-        'Carter Burwell',
+    '3f8a5b02-caa0-54ff-8c86-50112afb168f' => [
+        'It\'s toughest to forgive ourselves. So it\'s probably best to start with other people. It\'s almost like peeling an onion. Layer by layer, forgiving others, you really do get to the point where you can forgive yourself.',
+        'Patty Duke',
     ],
-    [
-        'Exercise is one of the best ways in preventing the rapid growth of obesity in America.',
-        'Lee Haney',
+    'f4504ef8-5df6-5e4e-b844-d4e55ebc7af4' => [
+        'It is the working man who is the happy man. It is the idle man who is the miserable man.',
+        'Benjamin Franklin',
     ],
-    [
-        'Glory is attained from hard work, step by step.',
-        'Ma Long',
+    '072a6d3e-7d20-55b2-8fa7-5bee7a2dbf67' => [
+        'For whatever trauma came with service in tough circumstances, we should take what we learned - take our post-traumatic growth - and, like past generations coming home, bring our sharpened strengths to bear, bring our attitude of gratitude to bear.',
+        'James Mattis',
     ],
-    [
-        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
-        'Bruce Lee',
+    '0591477f-43ae-52bf-9bdd-c223bb5dfc37' => [
+        'Nations, like individuals in a state of nature, are equal and independent, possessing certain rights and owing certain duties to each other.',
+        'Millard Fillmore',
     ],
-    [
-        'The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name.',
-        'Sylvia Browne',
+    'c14eb168-8e9a-533b-b21c-aafaa7f6e7a1' => [
+        'I heard that people were really interested in the new haircut, which I think is so funny. Great haircut, I really like it. It goes great with the time period. And I was super, super, super-happy to have my bangs swept to the side rather than straight in front of me, which I dealt with for three seasons. I\'m very, very much done with that.',
+        'Elisabeth Moss',
     ],
-    [
-        'I\'ve lost count of the number of times that I\'ve been approached by strangers wanting to tell me that they think I\'m brave or inspirational, and this was long before my work had any kind of public profile.',
-        'Stella Young',
+    'c96fbab7-6386-5604-9fe5-50a50a6a50c3' => [
+        'Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.',
+        'Helen Keller',
     ],
-    [
-        'For the signifier is a unit in its very uniqueness, being by nature symbol only of an absence.',
-        'Jacques Lacan',
+    '73cda5cf-51ca-5323-ae7c-c377d94f7798' => [
+        'Play is often talked about as if it were a relief from serious learning. But for children play is serious learning. Play is really the work of childhood.',
+        'Fred Rogers',
     ],
-    [
-        'Bald as the bare mountain tops are bald, with a baldness full of grandeur.',
-        'Matthew Arnold',
+    '255b8783-fe03-5f3a-b354-02465b584c2c' => [
+        'All the universe is full of the lives of perfect creatures.',
+        'Konstantin Tsiolkovsky',
     ],
-    [
-        'Work is a necessary evil to be avoided.',
-        'Mark Twain',
+    'd6a23fe7-7eaa-5eab-b3ea-d00d87fcab0a' => [
+        'For me, the fall of the Wall came at the exact right time because, I mean, I was 17, basically I hadn\'t missed anything, unlike the generation of my parents, who were deprived of a lot of things. They couldn\'t travel, and they couldn\'t really get ahead in their professional careers. So for me, it was perfect timing.',
+        'Tom Wlaschiha',
     ],
-    [
-        'The toughest thing about success is that you\'ve got to keep on being a success.',
-        'Irving Berlin',
+    'dbd4849b-7b2c-5e27-968a-2d4ff7301d48' => [
+        'Beauty products always cheer me up and give me hope. If it makes you feel pretty, why not?',
+        'Salma Hayek',
     ],
-    [
-        'My goal when I started out was to get to the point where I could tour a lot and make a living, which means getting paid enough to hire my own band, travel and end up with a bit of money, but I\'m still nowhere near that point. Because I didn\'t have a band and fan base when I started, I did everything backward.',
-        'Teddy Thompson',
+    'faed3449-4c44-5506-ad0e-da080ac7cc76' => [
+        'I\'m learning all the time. I\'m evolving all the time as a human being. I\'m getting better, I hope, in all of the important ways.',
+        'Neil Peart',
     ],
-    [
-        'Words have life and must be cared for. If they are stolen for ugly uses or careless slang or false promotion work, they need to be brought back to their original meaning - back to their roots.',
-        'Corita Kent',
+    'd8d09899-f134-5a05-87f4-aefdba2f66ef' => [
+        'We know beauty when we see it, and our reactions are remarkably consistent. Beauty is not just a social construct, and not every girl is beautiful just the way she is.',
+        'Virginia Postrel',
     ],
-    [
-        'You\'ve got to know what you want. This is central to acting on your intentions. When you know what you want, you realize that all there is left then is time management. You\'ll manage your time to achieve your goals because you clearly know what you\'re trying to achieve in your life.',
-        'Patch Adams',
+    '2e82c5df-fea4-58ba-97d2-d75aad8ebb12' => [
+        'Family is a unique gift that needs to be appreciated and treasured, even when they\'re driving you crazy. As much as they make you mad, interrupt you, annoy you, curse at you, try to control you, these are the people who know you the best and who love you.',
+        'Jenna Morasca',
     ],
-    [
-        'When my time ends, I want people to say, \'Man her music made me smile; it just enlightened my life; it inspired me; it made me feel good every time.\'',
-        'Ledisi',
+    '48df1959-c96b-56cf-b094-d309e19e3006' => [
+        'I would like to do something dark or small. I love independent films. I love emotional scenes. I love people who are struggling with something. I think it\'s just the juxtaposition to my incredibly happy, positive demeanor.',
+        'Shailene Woodley',
     ],
-    [
-        'It hurts when you have to smile and you don\'t want to smile, but the best thing to do is to smile.',
-        'Mary J. Blige',
+    '15c6ee7a-7efd-5273-93bc-8bba5d64c1d2' => [
+        '\'24\' was so serious that it was nice to join \'NCIS\' and even be able to smile once or twice.',
+        'Annie Wersching',
     ],
-    [
-        'You have survived every single bad day so far',
-        'Unknown',
+    'd6569b42-46f9-5f67-9ab9-e5af2baf7b22' => [
+        'There\'s really no secret to success. You make your own success.',
+        'Alex Morgan',
     ],
-    [
-        'An ounce of practice is better than tons of teaching.',
-        'Mahatma Gandhi',
+    '05537a9e-1bf8-594d-b5d9-9942b3bfed68' => [
+        'The moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity.',
+        'Joshua Waitzkin',
     ],
-    [
-        'My dad is too cute. Every morning, he sends me one motivational quote. I have a folder full of all his quotes.',
-        'Alia Bhatt',
+    '7709090c-edc1-5ff6-9dc3-5d934adc4298' => [
+        'Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.',
+        'Denis Waitley',
     ],
-    [
-        'Keep your eyes on the stars, and your feet on the ground.',
-        'Theodore Roosevelt',
+    'f6d702b5-2fba-567d-a49c-b5cbb8020eb5' => [
+        'If I could time travel into the future, my first port of call would be the point where medical technology is at its best because, like most people on this planet, I have this aversion to dying.',
+        'Neal Asher',
     ],
-    [
-        'Life is short and the older you get, the more you feel it. Indeed, the shorter it is. People lose their capacity to walk, run, travel, think, and experience life. I realise how important it is to use the time I have.',
-        'Viggo Mortensen',
+    'a4d12fb0-b43e-51d0-9669-e736793e339b' => [
+        'Not on one strand are all life\'s jewels strung.',
+        'William Morris',
     ],
 ];

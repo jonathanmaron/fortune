@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The key to growth is the introduction of higher dimensions of consciousness into our awareness.',
-        'Lao Tzu',
+    '4a400526-d28b-5e6f-8940-3a173f2cdcdc' => [
+        'Unbeing dead isn\'t being alive.',
+        'John C. Maxwell',
     ],
-    [
-        'There is no wealth but life.',
-        'Jackson Pollock',
+    '46d0b3bb-47ff-5822-a325-28f10070d82d' => [
+        'What we play is life.',
+        'Jackie Robinson',
     ],
-    [
-        'Everyone has inside of him a piece of good news. The good news is that you don\'t know how great you can be! How much you can love! What you can accomplish! And what your potential is!',
-        'Anne Frank',
+    '51906f8e-58ac-5788-8278-e2da8bc25e0d' => [
+        'My attitude to peace is rather based on the Burmese definition of peace - it really means removing all the negative factors that destroy peace in this world. So peace does not mean just putting an end to violence or to war, but to all other factors that threaten peace, such as discrimination, such as inequality, poverty.',
+        'Aung San Suu Kyi',
     ],
-    [
-        'Inspiration comes of working every day.',
-        'Charles Baudelaire',
+    'fed7d5d4-da82-5ddd-8892-5e3d7cf3e579' => [
+        'If the shoe doesn\'t fit, must we change the foot?',
+        'Gloria Steinem',
     ],
-    [
-        'Vegetation is the basic instrument the creator uses to set all of nature in motion.',
-        'Antoine Lavoisier',
+    '72a8e99f-5ff5-5c76-aa8d-4d6074606c6d' => [
+        'Travelers repose and dream among my leaves.',
+        'William Blake',
     ],
-    [
-        'Power doesn\'t back up in the face of a smile, or in the face of a threat of some kind of nonviolent loving action. It\'s not the nature of power to back up in the face of anything but some more power.',
-        'Malcolm X',
+    '73642555-352d-528e-931d-062cc504f7fa' => [
+        'I don\'t say it in a cocky way, but I take pride in being one of the best at doing what I do.',
+        'Sean Combs',
     ],
-    [
-        'Success in any endeavor depends on the degree to which it is an expression of your true self.',
-        'Ralph Marston',
+    '685b4a67-ee08-5e86-96c8-d254323c0bd2' => [
+        'Non-violence is a permanent attitude we bring to the breakfast table and bring to bed at night.',
+        'Coretta Scott King',
     ],
-    [
-        'In terms of work I\'ve always had a Bad Attitude in that I won\'t work anywhere which requires me to work strict hours or follow a dress code. I don\'t know if that\'s an Asperger\'s thing or not, I think it\'s just being reasonable.',
-        'Bram Cohen',
+    '411d0234-1321-56f6-98ac-d050ba690495' => [
+        'At some point in life the world\'s beauty becomes enough. You don\'t need to photograph, paint or even remember it. It is enough.',
+        'Toni Morrison',
     ],
-    [
-        'Is everything funny? For me, yes. There\'s a positive to every negative. Even my divorce? For me, yes. If you go back and look at it, why it happened or how it happened, there\'s something in there that\'ll make you laugh.',
-        'Kevin Hart',
+    '5bae3b9c-b12d-5262-92aa-a527060c8f09' => [
+        'Why worry about tomorrow, when today is all we have?',
+        'Unknown',
     ],
-    [
-        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
-        'Jim Rohn',
+    'a3200a9a-83e8-51fd-a802-c6a4977248a8' => [
+        'The whole point is to live life and be - to use all the colors in the crayon box.',
+        'Romy Schneider',
     ],
-    [
-        'I fell in love with Erica Kane the summer before my freshman year of high school. Like all red-blooded teen American boys, I\'d come home from water polo practice and eat a box of Entenmann\'s Pop\'Ems donut holes in front of the TV while obsessively fawning over \'All My Children\' and Erica, her clothes, and her narcissistic attitude.',
-        'Andy Cohen',
+    '37f94d33-690e-5b70-8909-2b59466f25dc' => [
+        'I distrust camels, and anyone else who can go a week without a drink.',
+        'Joe E. Lewis',
     ],
-    [
-        'Better by far you should forget and smile that you should remember and be sad.',
-        'Christina Rossetti',
+    'e7f795cb-d4c5-5d0d-bc68-2e349a13833b' => [
+        'I travel without barely any luggage. Just a second set of underwear and binoculars and a map and a toothbrush.',
+        'Werner Herzog',
     ],
-    [
-        'To me, the Seventies were very inspirational and very influential... With my whole persona as Snoop Dogg, as a person, as a rapper. I just love the Seventies style, the way all the players dressed nice, you know, kept their hair looking good, drove sharp cars and they talked real slick.',
-        'Snoop Dogg',
+    '8059cfe6-cac6-5369-acc1-352f6df1297e' => [
+        'Everybody know, I don\'t do no promoting. I don\'t ever have to promote nothing, that\'s the beauty of Lil Wayne.',
+        'Lil Wayne',
     ],
-    [
-        'The first time I see a jogger smiling, I\'ll consider it.',
-        'Joan Rivers',
+    'b3facd3c-4f49-54ee-9018-d48414cfd2ba' => [
+        'There is a part of me that still wants to go out and grab a backpack and unplug - not take a cellphone or even a camera and just get out there and experience the world and travel. I have yet to do that, but someday I hope.',
+        'Emilio Estevez',
     ],
-    [
-        'Thank you for life, and all the little ups and downs that make it worth living.',
-        'George C. Marshall',
+    '06537ea1-da52-5591-b1a8-b14862a24d58' => [
+        'While looking up news from the North Caucasus on Twitter, I was linked to the sanguinely titled \'Seven Wonders of Chechnya Tour\' on the website of Chechnya Travel, the postwar republic\'s first tourism outfit, founded in 2012.',
+        'Anthony Marra',
     ],
-    [
-        'Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.',
-        'Carl Jung',
+    'f3df5bec-4fbd-57e5-8305-2036ab3adc63' => [
+        'Good timber does not grow with ease; the stronger the wind, the stronger the trees.',
+        'J. Willard Marriott',
     ],
-    [
-        'Marie Antoinette was funny, I\'m sure she was just misinterpreted. You know the \'Let them eat cake\' line. She seems like she was kind of funny, like a Chelsea Handler or Kathy Griffin type.',
-        'Colin Quinn',
+    '945ea7f8-7703-55b5-8825-879545a75413' => [
+        'Fuel prices are at the center of our lives. They affect our ability to travel, stay warm, and feed ourselves.',
+        'Robert Kiyosaki',
     ],
-    [
-        'It is not the beauty of a building you should look at; its the construction of the foundation that will stand the test of time.',
-        'David Allan Coe',
+    '7250b7e2-8743-5614-99d4-ac776c990404' => [
+        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
+        'Richard Bach',
     ],
-    [
-        'Having a child makes you strong and gives you chutzpah. It relaxed my attitude to the job; my center of focus shifted, which I think is very helpful, because even if you\'re not a very indulgent actor you spend a lot of time thinking about yourself. I don\'t think that is particularly healthy.',
-        'Imelda Staunton',
+    'd1dd7a9d-6a2a-5109-9ae9-a35e8a776e0c' => [
+        'Success is a science; if you have the conditions, you get the result.',
+        'Oscar Wilde',
     ],
-    [
-        '\'Sunrise Sunset\' is about trying to get to a place where life is simple and not letting the stress and happenings in the world get in the way of your happiness.',
-        'Tiffany Trump',
+    '31446001-952a-5f0b-93c4-620a3b10276d' => [
+        'Only bad golfers are lucky. They\'re the ones bouncing balls off trees, curbs, turtles and cars. Good golfers have bad luck. When you hit the ball straight, a funny bounce is bound to be unlucky.',
+        'Lee Trevino',
     ],
-    [
-        'After you have exhausted what there is in business, politics, conviviality, and so on - have found that none of these finally satisfy, or permanently wear - what remains? Nature remains.',
-        'Walt Whitman',
+    '983b0245-a27b-54a1-b91c-35c64dd48572' => [
+        'We have so many young men, especially, who are growing up without their dads. We have to fill that void. We have to do a better job helping young people see what it means to be a man, what it means to be a woman. And then, somehow, we have to put that family structure back together.',
+        'Tony Dungy',
     ],
-    [
-        'I believe that the greatest gift you can give your family and the world is a healthy you.',
-        'Joyce Meyer',
+    'fd358637-4975-5e7c-9c6f-888cb1d39116' => [
+        'You cannot have maternal health without reproductive health. And reproductive health includes contraception and family planning and access to legal, safe abortion.',
+        'Hillary Clinton',
     ],
-    [
-        'Some guys travel with expensive Louis Vuitton luggage but it gets all scratched up under the plane. I\'d rather not spend too much money on something that\'s just going to get messed up.',
-        'James Harden',
+    '4e90e709-4e56-511f-a0de-b67226400221' => [
+        'Why don\'t you get out of that wet coat and into a dry martini?',
+        'Robert Benchley',
     ],
-    [
-        'Mostly I want to talk positive; I wanna talk about a bunch of great kids that I coached and made me look good and the university that I\'ve seen grow from a cow college, which it was, only 12,000 people, and when I came here, we weren\'t at Pennsylvania State University, we were at Penn State College.',
-        'Joe Paterno',
+    'ca210b47-49ad-5761-8af7-3f8d737d39b1' => [
+        'Travel is glamorous only in retrospect.',
+        'Paul Theroux',
     ],
-    [
-        'I still don\'t have a car. I still travel by public transport. I take autos to travel to and fro for recordings.',
-        'Arijit Singh',
+    '4b1fa4e1-d654-5d2b-b9ad-2590c7e607f0' => [
+        'The preparation is what allows the success to happen naturally.',
+        'Jake Arrieta',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I have often regretted my speech, never my silence.',
-        'Publilius Syrus',
+    'be404a3c-a7a5-5c0d-a680-9e538f744a46' => [
+        'Life is a series of punches. It presents a lot of challenges. It presents a lot of hardship, but the people that are able to take those punches and able to move forward are the ones that really do have a lot of success and have a lot of joy in their life and have a lot of stories to tell, too.',
+        'Josh Turner',
     ],
-    [
-        'Fortune sides with him who dares.',
-        'Virgil',
+    '873bff5c-dd35-572c-b696-9f7360f4f004' => [
+        'We have an obligation and a responsibility to be investing in our students and our schools. We must make sure that people who have the grades, the desire and the will, but not the money, can still get the best education possible.',
+        'Barack Obama',
     ],
-    [
-        'I may not have proved a great explorer, but we have done the greatest march ever made and come very near to great success.',
-        'Robert Falcon Scott',
+    '56e7e143-6328-50af-8c68-77ff71e94a11' => [
+        'I like motivational books, because I like the go-getting American spirit - your destiny is in your own hands, life is what you make it, don\'t accept your limitations, jump before you\'re pushed, leap before you look.',
+        'Louise Mensch',
     ],
-    [
-        'I think beauty is not just about what we put on our heads or on our faces or what we wear: it\'s deeper than that, and if we can celebrate that, celebrate the women, not just the superficiality... I think it would be really gorgeous.',
-        'Alek Wek',
+    'b883be92-5c12-59de-94a6-077de5ef5524' => [
+        'Age focuses you. You are much better concentrated. There\'s more time when you travel less, don\'t do book tours, avoid interviews or public appearances. You walk the dogs, fish, hunt, cook and write.',
+        'Jim Harrison',
     ],
-    [
-        'I love those who can smile in trouble, who can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but they whose heart is firm, and whose conscience approves their conduct, will pursue their principles unto death.',
-        'Leonardo da Vinci',
+    '674aa62e-4666-5e8e-89c1-a25696764130' => [
+        'Take time to be kind and to say \'thank you.\'',
+        'Zig Ziglar',
     ],
-    [
-        'You must be the change you wish to see in the world.',
-        'Mahatma Gandhi',
+    '5d7fd302-00a4-50de-87b9-a20ddbbb195f' => [
+        'The best thing about the future is that it comes only one day at a time.',
+        'Dean Acheson',
     ],
-    [
-        'So long as the memory of certain beloved friends lives in my heart, I shall say that life is good.',
-        'Hubert H. Humphrey',
+    '7d8903c5-3fdc-5d2f-bc43-2e826ec6fb48' => [
+        'The social issues outside of football are not as defined as they were earlier, when integration took place and certain rights were legislated. The Civil Rights movement is over. Individuals can buy homes wherever they want, travel first class wherever they want, eat wherever they want.',
+        'Jim Brown',
     ],
-    [
-        'Children are the anchors that hold a mother to life.',
-        'Jerry West',
+    'd9f9b774-6a44-5a8c-b6ae-95d123912b4a' => [
+        'Set your goals high, and don\'t stop till you get there.',
+        'Bo Jackson',
     ],
-    [
-        'I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.',
-        'Michel de Montaigne',
+    '7ef7115f-4147-542a-9464-b881b3695124' => [
+        'Patience, persistence and perspiration make an unbeatable combination for success.',
+        'Napoleon Hill',
     ],
-    [
-        'I\'m trying to stay as calm as possible and focus one day at a time, but when reality sets in, I feel everything: anxiety, excitement, nerves, pressure and joy.',
-        'Shawn Johnson',
+    'bad28ddc-62a5-534c-964f-4f96a7a93eab' => [
+        'A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.',
+        'Elbert Hubbard',
     ],
-    [
-        'I never expect to see a perfect work from an imperfect man.',
-        'Alexander Hamilton',
+    'f3352aaa-9ada-5559-9269-f2cf78a501bf' => [
+        'It doesn\'t matter if you\'re a man or a woman - stay alert and focused on your surroundings. Travel with friends. Know where you are at all times, and never let your guard down.',
+        'Kimberly Guilfoyle',
     ],
-    [
-        'Our spiritual attitude is determined by our conception of our relation to infinite spirit.',
-        'Paul Twitchell',
+    '0664ac48-b05b-5880-a00e-f67077c7d845' => [
+        'When many work together for a goal, Great things may be accomplished. It is said a lion cub was killed By a single colony of ants.',
+        'Saskya Pandita',
     ],
-    [
-        'I usually stalk fans because I think they\'re really funny on Twitter. They don\'t know it, but I\'ll just go through their timelines, and if something is happening in the media, I always read fan accounts instead of the news because they have all the info and make the funniest jokes about it, so that\'s how I get my gossip - by stalking fans.',
-        'Gigi Hadid',
+    'fda461e5-3d13-51f9-ac63-eab0fd30dabd' => [
+        'Work will win when wishy washy wishing won t.',
+        'Thomas S. Monson',
     ],
-    [
-        'That\'s been one of my mantras - focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it\'s worth it in the end because once you get there, you can move mountains.',
-        'Steve Jobs',
+    '86113ab1-8077-5aad-a3cd-815b37980625' => [
+        'I just see too many people retire and say, \'I\'m going to take off, travel, spend time with my family\' and they are just miserable. They end up dying. People who work and stay active, and like what they are doing, live longer.',
+        'Terry Bradshaw',
     ],
-    [
-        'Time is a circus, always packing up and moving away.',
-        'Ben Hecht',
+    '1eacc510-05dc-51e7-9601-3d2bf44d9735' => [
+        'I\'m not concerned that my stuff isn\'t extreme. I don\'t want to be heavy. I can\'t think of another attitude to have toward an audience than a hopeful and a positive one. And if that includes such unfashionable things as sentimentality, well, I can afford it.',
+        'Robert Palmer',
     ],
-    [
-        'If you feel rooted in your home and family, if you\'re active in your community, there\'s nothing more empowering. The best way to make a difference in the world is to start by making a difference in your own life.',
-        'Julia Louis-Dreyfus',
+    'c218d792-a40e-5e11-9214-ed1265f01fcf' => [
+        'I was in Italy in 1992 working on magazine articles when I got a call from the Italian travel commission. They asked, would I mind being an escort for an older woman? I told them I don\'t do that kind of work, but then they said it was Julia Child, and I said I\'d be right there.',
+        'Bob Spitz',
     ],
-    [
-        'You can observe a lot just by watching.',
-        'Yogi Berra',
+    '57700e62-955d-5883-93de-a9e48663dbed' => [
+        'My first agent dissuaded me from calling myself \'Cumberbatch.\' I had six months of not very productive time with her, so I changed agents. The new one said, \'Why aren\'t you using your family name? It\'s a real attention-grabber.\' I worried, \'How much is it going to cost to put my name in lights?\' But then I decided that\'s not my problem.',
+        'Benedict Cumberbatch',
     ],
-    [
-        'I just realized the best way to live your life is to just be you, as cliche as it sounds. I grew up trying to please everyone.',
-        'Yuna',
+    '23aa6320-6732-55e9-aae2-8770d2d727a4' => [
+        'What material success does is provide you with the ability to concentrate on other things that really matter. And that is being able to make a difference, not only in your own life, but in other people\'s lives.',
+        'Oprah Winfrey',
     ],
-    [
-        'The victor belongs to the spoils.',
-        'F. Scott Fitzgerald',
+    '0d18257d-033d-5ef3-bb4a-c4b63909b946' => [
+        'When men have a smile on their faces, that does a lot for me.',
+        'Michelle Yeoh',
     ],
-    [
-        'I grew up in a bookless house - my parents didn\'t read poetry, so if I hadn\'t had the chance to experience it at school I\'d never have experienced it. But I loved English, and I was very lucky in that I had inspirational English teachers, Miss Scriven and Mr. Walker, and they liked us to learn poems by heart, which I found I loved doing.',
-        'Carol Ann Duffy',
+    '970a1bb8-7383-5dea-90d5-8c05759907f9' => [
+        'All children are artists. The problem is how to remain an artist once he grows up.',
+        'Pablo Picasso',
     ],
-    [
-        'In all my wild mountaineering, I have enjoyed only one avalanche ride; and the start was so sudden, and the end came so soon, I thought but little of the danger that goes with this sort of travel, though one thinks fast at such times.',
-        'John Muir',
+    '8e4ebdff-f5de-5582-8180-a57fcf42bad5' => [
+        'Earthshaking fire from the center of the Earth will cause tremors around the New City. Two great rocks will war for a long time, then Arethusa will redden a new river.',
+        'Nostradamus',
     ],
-    [
-        'We owe a lot to Thomas Edison - if it wasn\'t for him, we\'d be watching television by candlelight.',
-        'Milton Berle',
+    '13dea64f-3450-52ff-b933-011554975c5b' => [
+        'And to me, fame is not a positive thing. The idea of being famous is a lot better than the reality. It\'s fantastic when you go to premieres and people cheer you, but it\'s not real. And it\'s totally not my approach to get my name on a club door just because I can.',
+        'Tom Felton',
     ],
-    [
-        'Life grants nothing to us mortals without hard work.',
-        'Horace',
+    '9c97294a-f18a-5150-9b5c-344e7ded241f' => [
+        'By the work one knows the workman.',
+        'Jean de La Fontaine',
     ],
-    [
-        'A professional is someone who can do his best work when he doesn\'t feel like it.',
-        'Alistair Cooke',
+    'f4863ecc-c6f4-52c7-a2fc-8e7716091f85' => [
+        'Airplane travel is nature\'s way of making you look like your passport photo.',
+        'Al Gore',
     ],
-    [
-        'Surround yourself with positive people and you\'ll be a positive person.',
-        'Kellie Pickler',
+    '26ac8104-7fd6-53fb-b419-eaba43bb9582' => [
+        'Where there is love there is life.',
+        'Jerry Lewis',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'There is a kind of victory in good work, no matter how humble.',
-        'Jack Kemp',
+    '102ec08e-ecc0-513b-bd65-f4cab1737aaa' => [
+        'It\'s a funny relationship that makeup artists have. I always feel kind of like a dentist. People look at me and think of pain.',
+        'Rick Baker',
     ],
-    [
-        'I heard that people were really interested in the new haircut, which I think is so funny. Great haircut, I really like it. It goes great with the time period. And I was super, super, super-happy to have my bangs swept to the side rather than straight in front of me, which I dealt with for three seasons. I\'m very, very much done with that.',
-        'Elisabeth Moss',
+    'c920e02f-93b0-544c-a183-9d5074b4d82b' => [
+        'I don\'t want to take the escalators. Give me the stairs that have the dips and the two old ladies that are blocking it and they\'ve got an attitude, and they don\'t want you to go past them.',
+        'RJ Cyler',
     ],
-    [
-        'I love to see the smiles on people\'s faces when you cook for them. I love to go to different restaurants. I want to cook because I know this acting isn\'t going to last forever, and I want something to fall back on. It\'s another way to make people smile.',
-        'Raven-Symone',
+    'cca49f60-dde8-5a38-abdd-d5e32b623838' => [
+        'The attitude of giving a full commitment to the partnership will usually result in getting the same commitment in return.',
+        'Denise Morrison',
     ],
-    [
-        'For many years when I was younger, I let negative things that people said about me affect my life. What I\'ve learned is that it\'s really important to find the right support network, focus on the positive things in your life and quiet that negative voice in your head.',
-        'Brittany Snow',
+    '0b375acb-0a0d-5d0f-84a7-632ee79b39ce' => [
+        'Leaders must exemplify integrity and earn the trust of their teams through their everyday actions. When you do this, you set high standards for everyone at your company. And when you do so with positive energy and enthusiasm for shared goals and purpose, you can deeply connect with your team and customers.',
+        'Marillyn Hewson',
     ],
-    [
-        'I come from a poor family.',
-        'Manny Pacquiao',
+    '0d56dd37-4bb2-56a8-87b1-fc56791a779c' => [
+        'Go put your creed into the deed. Nor speak with double tongue.',
+        'Ralph Emerson',
     ],
-    [
-        'Comedy is surprises, so if you\'re intending to make somebody laugh and they don\'t laugh, that\'s funny.',
-        'Norm MacDonald',
+    'aca80a5a-ca1c-5831-bc8d-f5f9c0fc9fba' => [
+        'Look back, and smile on perils past.',
+        'Walter Scott',
     ],
-    [
-        'When deeds speak, words are nothing.',
-        'Pierre-Joseph Proudhon',
+    'f1da138b-17cc-5ff0-834c-20f8c5791cf4' => [
+        'Bad things do happen; how I respond to them defines my character and the quality of my life. I can choose to sit in perpetual sadness, immobilized by the gravity of my loss, or I can choose to rise from the pain and treasure the most precious gift I have - life itself.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'Aim for the moon. If you miss, you may hit a star.',
-        'W. Clement Stone',
+    '99b1d7e5-a00c-5059-9f23-ed57d9da4c6d' => [
+        'Don\'t stay in bed, unless you can make money in bed.',
+        'George Burns',
     ],
-    [
-        'Engineering or technology is all about using the power of science to make life better for people, to reduce cost, to improve comfort, to improve productivity, etc.',
-        'Elbert Hubbard',
+    '6bb97545-fb15-5256-9e83-c1623f1fc859' => [
+        'Racing is the only time I feel whole.',
+        'James Dean',
     ],
-    [
-        'Instead of drifting along like a leaf in a river, understand who you are and how you come across to people and what kind of an impact you have on the people around you and the community around you and the world, so that when you go out, you can feel you have made a positive difference.',
-        'Jane Fonda',
+    'fed03707-8b37-5543-af88-a4c1460cf7be' => [
+        'Beauty deprived of its proper foils and adjuncts ceases to be enjoyed as beauty, just as light deprived of all shadows ceases to be enjoyed as light.',
+        'John Ruskin',
     ],
-    [
-        'Woman must have her freedom, the fundamental freedom of choosing whether or not she will be a mother and how many children she will have. Regardless of what man\'s attitude may be, that problem is hers - and before it can be his, it is hers alone.',
-        'Margaret Sanger',
+    '9e13a111-ab2d-52af-8c5b-bfcf489465a4' => [
+        'What is called genius is the abundance of life and health.',
+        'Henry David Thoreau',
     ],
-    [
-        'My optimism wears heavy boots and is loud.',
-        'Henry Rollins',
+    '9f420d0c-946f-574b-a6f0-cd4e064c6854' => [
+        'Clinton\'s hands remain incredibly clean, don\'t they, and Tony Blair\'s smile remains as wide as ever. I view these guises with profound contempt.',
+        'Harold Pinter',
     ],
-    [
-        'Failure is simply the non-presence of success. But a fiasco is a disaster of mythic proportions.',
-        'Orlando Bloom',
+    'e740e9df-0329-567f-9104-43973c26ad33' => [
+        'I think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.',
+        'Joseph Campbell',
     ],
-    [
-        'Hip-hop is more about attaining wealth. People respect success. They respect big. They don\'t even have to like your music. If you\'re big enough, people are drawn to you.',
-        'Jay-Z',
+    '753a712d-dac9-563c-a67f-94a871d8a390' => [
+        'The fame that goes with wealth and beauty is fleeting and fragile; intellectual superiority is a possession glorious and eternal.',
+        'Sallust',
     ],
-    [
-        'As I\'ve progressed in my career, I\'ve come to appreciate - and really value - the other attributes that define a company\'s success beyond the P&L: great leadership, long-term financial strength, ethical business practices, evolving business strategies, sound governance, powerful brands, values-based decision-making.',
-        'Ursula Burns',
+    'e2ed1ad8-6faf-544d-8fb4-53c4beda125e' => [
+        'Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.',
+        'Lao Tzu',
     ],
-    [
-        'What I look for in a role is the physical. But what\'s the journey emotionally? Can I take this person who is this archetypal tough guy and find the beauty?',
-        'Frank Grillo',
+    'e480b364-49a8-58d2-aded-e5fc8116261b' => [
+        'There are just some really beautiful people in the world. When you\'re walking down the street, or you\'re at a restaurant, someone catches your eye because they have their own look. It goes way beyond what they\'re wearing - into their mannerisms, the way they smile, or just the way they hold themselves.',
+        'Mary-Kate Olsen',
     ],
-    [
-        'You have to promote yourself; you have to have this smile on your face all the time and be this nice guy - which I am!',
-        'Craig Roberts',
+    'e4f663fc-a871-5d50-83b1-7a464be1a250' => [
+        'I am very surprised by someone like Alexander Wang. I am amazed how he is good with fashion, with business, with public relations himself, with an attitude in his clothes that is spoken immediately.',
+        'Carine Roitfeld',
     ],
-    [
-        'No matter how irrelevant social class now is, even the most eager egalitarian must be quietly proud that the posh English rose is still an industry standard for peerlessly sophisticated beauty.',
-        'Kate Reardon',
+    'e1563e6f-ceda-5214-8f67-e346769d50ed' => [
+        'You can\'t stop the waves, but you can learn to surf.',
+        'Jon Kabat-Zinn',
     ],
-    [
-        'Expert: a man who makes three correct guesses consecutively.',
-        'Laurence J. Peter',
+    '91179336-bc1e-5c29-bb5c-e9dbf4f5b72f' => [
+        'A sculptor wields The chisel, and the stricken marble grows To beauty.',
+        'William C. Bryant',
     ],
-    [
-        'When you grow up in poverty, suffer from abuse, live in a violent neighborhood, come from a broken home, lack positive role models, are told you\'ll never amount to anything, etc, the challenges are enormous.',
-        'Christine Tsai',
+    '979a4242-6bac-5719-a6ab-ff6f584f3290' => [
+        'I told my father to stop smoking around the age of two or three years old and he stopped smoking. So the relationship between the kid and the parent is very powerful, and if you give the kid the right information, it can be very useful to the family.',
+        'Doug E. Fresh',
     ],
-    [
-        'No, no, I was only funny on stage, really. I, I, think I was funny as a person toward my classmates when I was very young. You know, when I was a child, up to about the age of 12.',
-        'Rowan Atkinson',
+    'baeda4b5-36f7-50c1-bca1-32bad03ff86b' => [
+        'You have to be confident in who you are and what you\'re doing. Of course, you try to evolve. I would never tell you, \'Today is the best I will ever be.\' I\'m always trying to be a better chef, a better dad, a better person.',
+        'Guy Fieri',
     ],
-    [
-        'The one phrase you can use is that success has a thousand fathers, and failure is an orphan.',
-        'Alan Price',
+    '0a8d9947-4a31-5c11-8fea-ee6126a2175f' => [
+        'A rescue mission doesn\'t involve going in and just taking a child and leaving. You can\'t just choose any child at random. Every kid has a case that is based on that child\'s original family. So, we made it over to a village, found the child; we were interacting with the child.',
+        'Jason Mraz',
     ],
-    [
-        'There are no secrets to success. It is the result of preparation, hard work, and learning from failure.',
-        'Colin Powell',
+    '53a38fea-9271-5aa8-aace-929ad4303cb8' => [
+        'I can walk into a room and create a good ambience. I was taught all about this back when I studied acting. One of the things they would teach you is how to send out positive signals when you enter a room. I am glad I learned this.',
+        'Jean Reno',
     ],
-    [
-        'I come from the slums; I come from a hard background; I come from a poor family; and I was a soldier.',
-        'Michael Caine',
+    'a505b4ed-9c1b-5edd-933b-e48f430b2010' => [
+        'Times and conditions change so rapidly that we must keep our aim constantly focused on the future.',
+        'Walt Disney',
     ],
-    [
-        'Life is difficult for everyone; everyone has bad days. Everyone has trouble in their life, because it doesn\'t matter how rich you are: Sickness and trouble and worry and love, these things will mess with you at every level of life.',
-        'Robin Williams',
+    '649d840d-d638-5f8e-bc98-670a796f2268' => [
+        'If you travel too often, you actually come face-to-face with what you\'re trying to escape. I feel like when I travel alone, sometimes it\'s like being locked in a hotel room with my own worst enemy.',
+        'Simon Van Booy',
     ],
 ];

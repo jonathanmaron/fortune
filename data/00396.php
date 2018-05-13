@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My incarceration was actually a positive thing from the beginning. I needed a gimmick to get my act going again, it gave me material.',
-        'Tommy Chong',
+    'ea44f6cf-0592-51b2-b3d0-4626a61ae86b' => [
+        'The world is being re-shaped by the convergence of social, mobile, cloud, big data, community and other powerful forces. The combination of these technologies unlocks an incredible opportunity to connect everything together in a new way and is dramatically transforming the way we live and work.',
+        'Marc Benioff',
     ],
-    [
-        'When I was 18, and when I entered my family business, I soon realised that it wasn\'t as easy as I thought. I had to deal with people of my father\'s generation. Building trust was key to doing business.',
-        'Binod Chaudhary',
+    '0d651650-dfd3-567c-9b2f-f98354a96ef8' => [
+        'I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.',
+        'Robert Benchley',
     ],
-    [
-        'Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.',
-        'Rumi',
+    'eb9a6303-66b2-5339-be33-0f42f1f4b6d2' => [
+        'What being a socialist means is... that you hold out... a vision of society where poverty is absolutely unnecessary, where international relations are not based on greed... but on cooperation... where human beings can own the means of production and work together rather than having to work as semi-slaves to other people who can hire and fire.',
+        'Bernie Sanders',
     ],
-    [
-        'What moves men of genius, or rather what inspires their work, is not new ideas, but their obsession with the idea that what has already been said is still not enough.',
-        'Eugene Delecroix',
+    'b2c91d4d-aa73-5d95-b9f7-2a626ca83fbe' => [
+        'Life is never easy for those who dream.',
+        'Chuck Norris',
     ],
-    [
-        'When all the original blues guys are gone, you start to realize that someone has to tend to the tradition. I recognize that I have some responsibility to keep the music alive, and it\'s a pretty honorable position to be in.',
-        'Eric Clapton',
+    '542753ff-0c6f-5008-901b-b14cdececbc4' => [
+        'I have not failed. I\'ve just found 10,000 ways that won\'t work.',
+        'Thomas A. Edison',
     ],
-    [
-        'We still do not know one thousandth of one percent of what nature has revealed to us.',
-        'Albert Einstein',
+    'e0371f42-ea94-5017-b137-1d105583ddec' => [
+        'We can only be said to be alive in those moments when our hearts are conscious of our treasures.',
+        'Thornton Wilder',
     ],
-    [
-        'I\'m just part of a tradition of people who aren\'t pleased. I would never think anyone else who has the same attitude was getting it from me. I\'d just think they\'re... sensible.',
-        'Jack Dee',
+    '948e3a3e-cebc-5dd8-bb8c-8903b1909a3a' => [
+        'Time is more value than money. You can get more money, but you cannot get more time.',
+        'Jim Rohn',
     ],
-    [
-        'Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.',
-        'Ralph Emerson',
+    '76209604-08b0-5e24-a623-9717481df179' => [
+        'Your best creative assets do not occur unless you do a mental shift. You have to be in a positive frame of mind because inspiration is fleeting. I walk to work for inspiration and to clear my mind.',
+        'Ron Ben-Israel',
     ],
-    [
-        'To be an artist is to believe in life.',
-        'Henry Moore',
+    'a7107f5d-09ba-57e9-92c3-6c733ece8f9e' => [
+        'Life and death are illusions. We are in a constant state of transformation.',
+        'William Shakespeare',
     ],
-    [
-        'I am tortured when I am away from my family, from my children. I am horribly guilt-ridden.',
-        'Jessica Lange',
+    '0253f31a-df82-5438-b1dc-92ad7e2a3240' => [
+        'What matters is the value we\'ve created in our lives, the people we\'ve made happy and how much we\'ve grown as people.',
+        'Daisaku Ikeda',
     ],
-    [
-        'Our environment, the world in which we live and work, is a mirror of our attitudes and expectations.',
-        'Earl Nightingale',
+    '7f2bd9e7-7a24-50b4-bb47-15544239271f' => [
+        'The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.',
+        'Carlos Castaneda',
     ],
-    [
-        'I just smile. And they - my opponents don\'t like it when I smile at them. They think I\'m playing or something. But - like I smile throughout the whole fight. Sometimes I\'ll be throwing combinations and I just smile and stick my tongue out at them.',
-        'Rau\'Shee Warren',
+    '0ddd107e-b709-5292-b2d5-23561d5a6ed3' => [
+        'I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.',
+        'Edward Everett Hale',
     ],
-    [
-        'There is a single thread of attitude, a single direction of flow, that joins our present time to its early burgeoning in Mediterranean civilization.',
-        'Arthur Erickson',
+    '4be2c9b0-d495-5f6f-89ba-f92953d39085' => [
+        'Really in technology, it\'s about the people, getting the best people, retaining them, nurturing a creative environment and helping to find a way to innovate.',
+        'Marissa Mayer',
     ],
-    [
-        'Life is about growing and improving and getting better.',
-        'Bruce Lee',
+    'ee794d54-6949-5a1b-9907-846d4c1c05ae' => [
+        'Work hard. And have patience. Because no matter who you are, you\'re going to get hurt in your career and you have to be patient to get through the injuries.',
+        'Randy Johnson',
     ],
-    [
-        'The beautiful seems right by force of beauty and the feeble wrong because of weakness.',
-        'Elizabeth Barrett Browning',
+    '7319761f-274b-52af-a7df-4d42561bc89f' => [
+        'Encouragement to others is something everyone can give. Somebody needs what you have to give. It may not be your money; it may be your time. It may be your listening ear. It may be your arms to encourage. It may be your smile to uplift. Who knows?',
+        'Joel Osteen',
     ],
-    [
-        'One of the best paradoxes of leadership is a leader\'s need to be both stubborn and open-minded. A leader must insist on sticking to the vision and stay on course to the destination. But he must be open-minded during the process.',
-        'Simon Sinek',
+    'f2b5f8ab-1476-5b6d-b200-9c8dc9fc0203' => [
+        'My parents, grandmother and brother were teachers. My mother taught Latin and French and was the school librarian. My father taught geography and a popular class called Family Living, the precursor to Sociology, which he eventually taught. My grandmother was a beloved one-room school teacher at Knob School, near Sonora in Larue County, Ky.',
+        'Sam Abell',
     ],
-    [
-        'Everyone is looking for the hack, the secret to success without hard work.',
-        'Sam Altman',
+    'fcd18a5a-7faf-5211-b30c-9bd460bf6923' => [
+        'Success makes so many people hate you. I wish it wasn\'t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.',
+        'Marilyn Monroe',
     ],
-    [
-        'Any authentic work of art must start an argument between the artist and his audience.',
-        'Rebecca West',
+    'edf22928-600a-5cb8-a10f-983abf396108' => [
+        'Being a sex symbol has to do with an attitude, not looks. Most men think it\'s looks, most women know otherwise.',
+        'Kathleen Turner',
     ],
-    [
-        'Positive social emotions like compassion and empathy are generally good for us, and we want to encourage them. But do we know how to most reliably raise children to care about the suffering of other people? I\'m not sure we do.',
-        'Sam Harris',
+    'e2f74271-f6aa-5401-b28f-97706ce15386' => [
+        'My daughter is my passion and my life.',
+        'Christopher McCandless',
     ],
-    [
-        'There is no planning. On the night it is really great, it\'s euphoria and if it is not so great there is always tomorrow night. That was his attitude.',
-        'Ed McMahon',
+    '20cecbe0-138c-5276-95f9-b50188458fe5' => [
+        'I realise that I do not change the course of history. I am an actor, I do a movie, that\'s the end of it. You have to realise we are just clowns for hire. After I had success it was great, at first, not to worry about money. It was on my mind when I was growing up.',
+        'Leonardo DiCaprio',
     ],
-    [
-        'My wife is the boss at home, and my daughters are the bosses. I am just the worker. We are a very warm family and very happy.',
-        'Jet Li',
+    '06ca3266-5f9a-50e6-a34b-548c8cd0bcca' => [
+        'I have done my best: that is about all the philosophy of living one needs.',
+        'Lin-yutang',
     ],
-    [
-        'The truth is that when Lennon is Bosephus, she is so mean to me. She can\'t smile because the mustache will come off. So in between takes, it\'s just scowling. And then when we are on camera, Bosephus treats me like a piece of meat. I\'m repulsed and also attracted to it.',
-        'Jessica St. Clair',
+    '0e8bdbd5-6373-5c02-b0df-a04a94003916' => [
+        'And while the law of competition may be sometimes hard for the individual, it is best for the race, because it ensures the survival of the fittest in every department.',
+        'Andrew Carnegie',
     ],
-    [
-        'There is an immutable conflict at work in life and in business, a constant battle between peace and chaos. Neither can be mastered, but both can be influenced. How you go about that is the key to success.',
-        'Phil Knight',
+    '8a940964-fca1-5958-b1a7-b4fd54428be2' => [
+        'I guess after college, I just got really into food. I also think going on the road doing stand-up makes you more into food. Because when you travel like that, one of the things to do is find really good places to eat.',
+        'Aziz Ansari',
     ],
-    [
-        'The beautiful seems right by force of beauty, and the feeble wrong because of weakness.',
-        'Virginia Woolf',
+    '02544e3e-9350-5daf-a409-6713f6aaec20' => [
+        'Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.',
+        'Byron Pulsifer',
     ],
-    [
-        'Ambition is the path to success, persistence is the vehicle you arrive in.',
-        'William Eardley IV',
+    '991f1609-d8f7-51b5-b8eb-8fddf598a0f8' => [
+        'True leaders don\'t invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people.',
+        'Myles Munroe',
     ],
 ];

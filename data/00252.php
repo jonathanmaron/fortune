@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Love is a symbol of eternity. It wipes out all sense of time, destroying all memory of a beginning and all fear of an end.',
-        'Madame de Stael',
+    'faa7056f-c280-5a4e-9402-764a0087bb86' => [
+        'Try to be a rainbow in someone\'s cloud.',
+        'Maya Angelou',
     ],
-    [
-        'Divine Nature gave the fields, human art built the cities.',
-        'Marcus Terentius Varro',
+    '963d9e24-6a4c-5913-a834-a0e162ed39ad' => [
+        'Only then, approaching my fortieth birthday, I made philosophy my life\'s work.',
+        'Karl Jaspers',
     ],
-    [
-        'Never measure the height of a mountain until you have reached the top. Then you will see how low it was.',
-        'Dag Hammarskjold',
+    '4490cf32-4a9e-5047-aff4-68de3aa3314d' => [
+        'Automobiles have always been part of my life, and I\'m sure they always will be. What is it about them that moves me? The sound of a great engine, the unity and uniqueness of an automobile\'s engineering and coachwork, the history of the company and the car, and, of course, the sheer beauty of the thing.',
+        'Edward Herrmann',
     ],
-    [
-        'If you correct your mind, the rest of your life will fall into place.',
-        'Lao Tzu',
+    '80847ff8-c93a-53f0-b220-e11c111200df' => [
+        'A day of worry is more exhausting than a day of work.',
+        'John Lubbock',
     ],
-    [
-        'The success of a film at the box office will ensure happiness to the entire unit, but individual awards are like vitamin shots that will help boost the morale of an actor.',
-        'Akkineni Nagarjuna',
+    'c6386608-7107-5b11-8745-a69e071bc4e9' => [
+        'Playing hard to get is not the way to win me over. I\'m definitely more for the girl who can smile and laugh all the time and just have a good time!',
+        'Taylor Lautner',
     ],
-    [
-        'Quality means doing it right when no one is looking.',
-        'Henry Ford',
+    '8373e784-e553-582b-b73b-a73acda5d383' => [
+        'If you could kick the person in the pants responsible for most of your trouble, you wouldn\'t sit for a month.',
+        'Theodore Roosevelt',
     ],
-    [
-        'If a work of art is rich and vital and complete, those who have artistic instincts will see its beauty, and those to whom ethics appeal more strongly than aesthetics will see its moral lesson. It will fill the cowardly with terror, and the unclean will see in it their own shame.',
-        'Oscar Wilde',
+    '5e254e0c-6fa6-5fba-a088-cba639fd5b58' => [
+        'Life without love is like a tree without blossoms or fruit.',
+        'Berthold Auerbach',
     ],
-    [
-        'The difficult is what takes a little time; the impossible is what takes a little longer.',
-        'Fridtjof Nansen',
+    'f824951f-2097-551b-9a07-77cbba94ae1d' => [
+        'Read nature; nature is a friend to truth.',
+        'Edward Young',
     ],
-    [
-        'Baseball gives every American boy a chance to excel, not just to be as good as someone else but to be better than someone else. This is the nature of man and the name of the game.',
-        'Ted Williams',
+    '8b1f79e7-83b3-50f6-a09f-b3eed0374d13' => [
+        'No man goes before his time - unless the boss leaves early.',
+        'Groucho Marx',
     ],
-    [
-        'You change your life by changing your heart.',
-        'Max Lucado',
+    '95a26958-134a-57c4-a0ff-2ec763330b20' => [
+        'I don\'t believe in angels, no. But I do have a wee parking angel. It\'s on my dashboard and you wind it up. The wings flap and it\'s supposed to give you a parking space. It\'s worked so far.',
+        'Billy Connolly',
     ],
-    [
-        'And I\'m a pretty positive person - I don\'t put a lot of energy into worrying, and I\'m not a person who lives in a great deal of fear.',
-        'Rachel Hunter',
+    'a44066f0-9d76-5c2b-8289-3c97eda42cca' => [
+        'The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name.',
+        'Sylvia Browne',
     ],
-    [
-        'Better to have loved and lost, than to have never loved at all.',
-        'St. Augustine',
+    '4f515f54-b243-56fa-a59d-65b494b56e38' => [
+        'The world is a slightly better place for having improvisation in it than it was before. There\'s something about it that says something positive about the human spirit, that a bunch of people can get together and by following a few simple traffic rules can create art and can entertain an audience and can thrill and exalt each other.',
+        'Del Close',
     ],
-    [
-        'Ability is what you\'re capable of doing. Motivation determines what you do.Attitude determines how well you do it.',
-        'Lou Holtz',
+    '98e7ece4-52f5-523f-b22a-43dfc5715b28' => [
+        'He who angers you conquers you.',
+        'Elizabeth Kenny',
     ],
-    [
+    '5fc4900c-51a0-5d41-b8b1-9af0a0374788' => [
+        'Pick a theme and work it to exhaustion... the subject must be something you truly love or truly hate.',
+        'Dorothea Lange',
+    ],
+    'da66e054-4c98-5aa5-8dd5-9ad3bd8641bc' => [
+        'Your work is to discover your world and then with all your heart give yourself to it.',
+        'Buddha',
+    ],
+    '22420267-fd0d-556e-a9f9-e51435055bdc' => [
+        'Step out of the history that is holding you back. Step into the new story you are willing to create.',
+        'Oprah Winfrey',
+    ],
+    'b991f05b-c364-5fcb-9cdf-95a4c4feca90' => [
+        'Human nature is above all things lazy.',
+        'Harriet Beecher Stowe',
+    ],
+    '8fe1c8b2-f54a-5d40-b928-735d2531d433' => [
         'Wilderness is not a luxury but a necessity of the human spirit.',
         'Edward Abbey',
     ],
-    [
-        'Respect your parents. What they tell you is true. Hard work, dedication and faith will get you anything. Imagination will drive itself. You can get anything you want, but you have to have faith behind all your ideas. Stick to your goals and have an undying faith.',
-        'Russell Simmons',
+    'b910e534-a83d-545d-8aeb-46f03b41667d' => [
+        'If you\'re going through hell, keep going.',
+        'Winston Churchill',
     ],
-    [
-        'When people say \'Charlie Chaplin\' I still think now of the guy in the moustache and bowler hat and funny walk - I don\'t think of an old man who was my grandfather.',
-        'Oona Chaplin',
+    'e1f5d6c4-dffa-5f41-950a-bff3cfe8aa17' => [
+        'The most important investment you can make is in yourself.',
+        'Warren Buffett',
     ],
-    [
-        'The sky is the part of creation in which nature has done for the sake of pleasing man.',
-        'John Ruskin',
+    '0e4eb3de-bc6a-5ff1-ba8c-d31aae495a92' => [
+        'Having contemplated this admirable grove, I proceeded towards the shrubberies on the banks of the river, and though it was now late in December, the aromatic groves appeared in full bloom.',
+        'William Bartram',
     ],
-    [
-        'Some people say funny things, but I say things funny.',
-        'Don Rickles',
+    'cebc1b55-2605-5944-9040-ec47a66bca9f' => [
+        'The truth is always exciting. Speak it, then. Life is dull without it.',
+        'Pearl Buck',
     ],
-    [
-        'Every man has a sane spot somewhere.',
-        'Robert Louis Stevenson',
-    ],
-    [
-        'A funny thing happens in real estate. When it comes back, it comes back up like gangbusters.',
-        'Barbara Corcoran',
-    ],
-    [
-        'There is a soak-the-rich attitude in the air, a feeling that if you have a lot of money you must have got it by some ghastly means. I can quite happily say there was never any family money. All the money we got was mine, just from writing books.',
-        'Terry Pratchett',
-    ],
-    [
-        'Colleagues are a wonderful thing - but mentors, that\'s where the real work gets done.',
-        'Junot Diaz',
-    ],
-    [
-        'The way of the Creative works through change and transformation, so that each thing receives its true nature and destiny and comes into permanent accord with the Great Harmony: this is what furthers and what perseveres.',
+    '1955bcbd-427f-5812-9b17-ffe8b522d38f' => [
+        'Do good by stealth, and blush to find it fame.',
         'Alexander Pope',
     ],
-    [
-        'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
-        'Nick Saban',
+    '2057645c-49ea-5a42-9ba4-6673a83b42ea' => [
+        'Everyday may not be good but there is something good in everyday.',
+        'Anonymous',
     ],
-    [
-        'Post-operatively the transplanted kidney functioned immediately with a dramatic improvement in the patient\'s renal and cardiopulmonary status. This spectacular success was a clear demonstration that organ transplantation could be life-saving.',
-        'Joseph Murray',
+    '2481515d-1bfa-53a6-9800-465b25c9e1c4' => [
+        'There is never enough time to do everything, but there is always enough time to do the most important thing.',
+        'Brian Tracy',
     ],
 ];

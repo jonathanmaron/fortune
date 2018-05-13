@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'There are actually no political aspirations. I think you need to have the right attitude and aptitude for it. I don\'t think I have the right aptitude for it. I think it is unfair to push somebody in that direction just because my father happens to be a politician.',
-        'Sonakshi Sinha',
+    '6d63c81c-bc76-5462-8cf6-8756c95e272e' => [
+        'If you come from a solid family structure, it doesn\'t matter what you go through in your life. You\'re going to be okay.',
+        'Alyssa Milano',
     ],
-    [
-        'The secret of success is sincerity.',
-        'Jean Giraudoux',
+    '7ecd5dc6-2d36-5c70-9f3e-14ccc7a75491' => [
+        'It\'s nice to just embrace the natural beauty within you.',
+        'Victoria Justice',
     ],
-    [
-        'My personal ambition remains the same - to be creative, to be modern, to stay one step ahead, to enjoy life.',
-        'Valerie Bertinelli',
+    'b118caf0-64db-5131-a3a9-7c0bcba1c7f3' => [
+        'It seems like the chaos of this world is accelerating, but so is the beauty in the consciousness of more and more people.',
+        'Anthony Kiedis',
     ],
-    [
-        'Never apologize for burning too brightly or collapsing into yourself every night. That is how galaxies are made.',
-        'Tyler Kent White',
+    'f598db8c-b83e-5de1-adb9-dbc0c128f6f4' => [
+        'I think the older you get, the more you realize how important life is, the more you think about your family.',
+        'Wes Welker',
     ],
-    [
-        'Every performance is different. That\'s the beauty of it.',
-        'Van Morrison',
+    '955172e8-66a2-50d9-a317-c6d98381ef23' => [
+        'There are few aspects of everyday life that aren\'t touched by the technologies developed for space travel.',
+        'Scott Kelly',
     ],
-    [
-        'You need to think outside the box. You need to think differently if you want to sustain what, for me, is my peak performance: the very best that I can achieve as an athlete every day.',
-        'Tom Brady',
+    '53d18470-d845-59ad-a077-267f2cd211cc' => [
+        'The amount of hassle involved in travel can be overwhelming.',
+        'Paul Theroux',
     ],
-    [
-        'I\'m a big cockeyed optimist. I try to accentuate the positive as opposed to the negative.',
-        'Betty White',
+    '5b19c4ff-baae-5200-bf7a-6ef1e7e430ff' => [
+        'If I remain true to what\'s in my heart, that\'s all the success I need.',
+        'Steve Vai',
     ],
-    [
-        'Sibling rivalry was, and still is to this day, rampant in my family. We were all competing for my parents\' divided attention.',
-        'Janine di Giovanni',
+    'ab4d601a-bb92-51e4-94c7-3d497cd4a75b' => [
+        'Knowledge doesn\'t really form part of human nature. Conflict, combat, the outcome of the combat, and, consequently, risk and chance are what gives rise to knowledge. Knowledge is not instinctive; it is counter instinctive, just as it is not natural but counter natural.',
+        'Michel Foucault',
     ],
-    [
-        'When you have a dream, you\'ve got to grab it and never let go.',
-        'Carol Burnett',
+    '54e2d687-b353-5b0e-8a62-494ed876d241' => [
+        'Time and memory are true artists; they remould reality nearer to the heart\'s desire.',
+        'John Dewey',
     ],
-    [
-        'Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.',
-        'Henry James',
+    '636017b4-12a0-5526-bc5d-8669e7c5c80d' => [
+        'I\'m passionate about travel.',
+        'Jordana Spiro',
     ],
-    [
-        'If you\'re going to have a bad attitude, you may as well not even tee it up that week because you probably won\'t play good anyways.',
-        'Jason Day',
+    'd0831c62-7f80-5691-b3bf-9a0d8f73bed7' => [
+        'Beauty is about perception, not about make-up. I think the beginning of all beauty is knowing and liking oneself. You can\'t put on make-up, or dress yourself, or do you hair with any sort of fun or joy if you\'re doing it from a position of correction.',
+        'Kevyn Aucoin',
     ],
-    [
-        'Failure is nature\'s plan to prepare you for great responsibilities.',
-        'Napoleon Hill',
+    'df3589ed-a33c-5cc9-9574-e4b8949017bb' => [
+        'If you don\'t read the newspaper, you\'re uniformed. If you read the newspaper, you\'re mis-informed',
+        'Mark Twain',
     ],
-    [
-        'I\'ve always been motivated more by negative comments than by positive ones. I know what I do well. Tell me what I don\'t do well.',
-        'Abby Wambach',
+    'b1fafa5f-942e-53f5-b8ea-c8847b8fe58e' => [
+        'I thank you God for this most amazing day, for the leaping greenly spirits of trees, and for the blue dream of sky and for everything which is natural, which is infinite, which is yes.',
+        'e. e. cummings',
     ],
-    [
-        'Spring is nature\'s way of saying, \'Let\'s party!\'',
-        'Robin Williams',
+    '8d4fbfc8-1e23-55f0-9acc-4e314b8b88a3' => [
+        'Colors are the smiles of nature.',
+        'Leigh Hunt',
     ],
-    [
-        'America\'s trying to do the best for its veterans.',
-        'R. Lee Ermey',
+    'a7badafd-e94b-5ee2-b0d0-158217cab10f' => [
+        'Question: Why are we Masters of our Fate, the captains of our souls? Because we have the power to control our thoughts, our attitudes. That is why many people live in the withering negative world. That is why many people live in the Positive Faith world.',
+        'Alfred A. Montapert',
     ],
-    [
-        'Change can either challenge or threaten us. Your beliefs pave your way to success or block you.',
-        'Marsha Sinetar',
+    '3548fbf3-8b84-5059-87b2-a5b35541046f' => [
+        'The measure of success is happiness and peace of mind.',
+        'Bobby Davro',
     ],
-    [
-        'The best employees are those who bring real energy and initiative to the job. I like to know whether you\'re the kind of person who can set priorities, take initiative, and drive results right from the beginning.',
-        'Marillyn Hewson',
+    'f892bf01-5e66-5be7-a4b0-39c7494a1b15' => [
+        'There\'s a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family.',
+        'Gordon Ramsay',
     ],
-    [
-        'If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.',
-        'Mary Pickford',
+    'f72866fe-54da-5a86-8b19-9d6ee2783897' => [
+        'Musicals are, by nature, theatrical, meaning poetic, meaning having to move the audience\'s imagination and create a suspension of disbelief, by which I mean there\'s no fourth wall.',
+        'Stephen Sondheim',
     ],
-    [
-        'If you wish to be a writer, write.',
-        'Epictetus',
+    '9f1bd28f-dbd2-5bd4-bc48-687093ee7b66' => [
+        'Don\'t give up just because things get hard. Give up if you feel in your gut that moving on is the right choice for you.',
+        'Lori Deschene',
     ],
-    [
-        'A work of art is above all an adventure of the mind.',
-        'Eugene Ionesco',
+    'c717f27a-6eb0-5284-b9f3-43dc1f4092ec' => [
+        'I like to engage the public because when I was in high school, I had all these questions about anti-matter, higher dimensions and time travel. Every time I went to the library, every time I asked people these questions, I would get some strange looks. Nobody could answer any of these questions.',
+        'Michio Kaku',
     ],
-    [
-        'When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.',
-        'Confucius',
+    'f9b28767-3528-591a-aa39-99f84d50fa3e' => [
+        'Enjoy the little things, for one day you may look back and realize they were the big things.',
+        'Robert Brault',
     ],
-    [
-        'We have two ears and one mouth so that we can listen twice as much as we speak.',
-        'Epictetus',
+    '44e325e3-b673-5f6f-aa59-7720f403d11f' => [
+        'Understanding is the first step to acceptance, and only with acceptance can there be recovery.',
+        'J.K. Rowling',
     ],
-    [
-        'Revenge is not a positive state of mind or energy to indulge your self in.',
-        'Michael K. Williams',
+    '23bde00f-1d35-5670-94bd-e2aac51a4684' => [
+        'Like the United Nations, there is something inspirational about New York as a great melting pot of different cultures and traditions. And if this is the city that never sleeps, the United Nations works tirelessly, around the clock around the world.',
+        'Ban Ki-moon',
     ],
-    [
-        'Wikipedia is just an incredible thing. It is fact-encirclingly huge, and it is idiosyncratic, careful, messy, funny, shocking and full of simmering controversies - and it is free, and it is fast.',
-        'Nicholson Baker',
+    '757be2e3-7d41-5659-a27c-e7edf3e2818c' => [
+        'I like to think that today is the best day of my life and tomorrow will be the next best day of my life. And if you think that way, you\'re living for the beauty of today.',
+        'Conrad Anker',
     ],
-    [
-        'Before the sacred, people lose all sense of power and all confidence; they occupy a powerless and humble attitude toward it. And yet no thing is sacred of itself, but by my declaring it sacred, by my declaration, my judgment, my bending the knee; in short, by my - conscience.',
-        'Max Stirner',
+    '78b99863-3131-58fd-91d7-b4c1a47c40e9' => [
+        'After I finished high school I went to Hong Kong and Thailand and spent some time there. Just to get that whole experience of being out of the bubble that I was in from high school in Vancouver, to be able to travel around and be on your own was an amazing experience.',
+        'Shay Mitchell',
     ],
 ];

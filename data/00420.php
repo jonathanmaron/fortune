@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When I go to the clinic next and sit with a tube in my arm and watch the poison go in, I\'m in an attitude of abject passivity. It doesn\'t feel like fighting at all; it just feels like submitting.',
-        'Christopher Hitchens',
+    'a0d61a29-79eb-53dd-99cb-6899dfc1e2d9' => [
+        'I\'ve always enjoyed traveling and having experience with different cultures and different people. But it\'s also a wonderful thing to be able to benefit and enable research, not only in our country but around the world.',
+        'Laurel Clark',
     ],
-    [
-        'When you realize there is nothing lacking, the whole world belongs to you.',
-        'Lao Tzu',
+    '7ab58bd3-1cc8-5d7f-bf07-fdb288102e0f' => [
+        'God loves to help him who strives to help himself.',
+        'Aeschylus',
     ],
-    [
-        'We love life, not because we are used to living but because we are used to loving.',
-        'Ashley Smith',
+    '260edf20-221c-51e2-bc4e-5736b0e0efb7' => [
+        'Time and health are two precious assets that we don\'t recognize and appreciate until they have been depleted.',
+        'Denis Waitley',
     ],
-    [
-        'Man is by nature a political animal.',
-        'Aristotle',
+    '52893eca-234d-56d8-b47b-bf8d67782c69' => [
+        'Truth is generally the best vindication against slander.',
+        'Abraham Lincoln',
     ],
-    [
-        'Going to the Academy Awards is something I remember since I was six, when I went with my mom for the first time, 14 with my dad, you know, and there I am, at 22, 23, whatever I was, sitting next to my mom. You know, and then again, there with my dad. Like, there\'s a beauty to it, and I care deeply about film history.',
-        'Laura Dern',
+    'fe5cfeec-c8cf-524c-acb9-f10af8737df8' => [
+        'If I could reach up and hold a star for every time you\'ve made me smile, the entire evening sky would be in the palm of my hand.',
+        'Unknown',
     ],
-    [
-        'Diabetes is a disease that\'s had a deep impact on my family. My little brother has had type 1 diabetes since he was a baby and I have spent time learning about the disease and trying to bring attention to it so that one day soon we will reach a cure.',
-        'Izabel Goulart',
+    '643f556a-5358-521c-a18d-c46a777992e5' => [
+        'The best way to do ourselves good is to be doing good to others; the best way to gather is to scatter.',
+        'Thomas Brooks',
     ],
-    [
-        'There is no royal road to anything, one thing at a time, all things in succession. That which grows fast, withers as rapidly. That which grows slowly, endures.',
-        'Josiah Gilbert Holland',
+    'c676f789-584b-5852-84bb-960795cd52af' => [
+        'You, yourself, as much as anybody in the entire universe, deserve your love and affection.',
+        'Buddha',
     ],
-    [
-        'The making of friends who are real friends, is the best token we have of a man\'s success in life.',
-        'Edward Everett Hale',
+    'f3d491d3-90b0-5467-b95a-269030ac4b79' => [
+        'When I was fourteen years old, our family drove all the way from Vancouver to Newfoundland and back. I\'ve been all across the great land of Canada. I absolutely love the Maritimes, and I\'m very excited to go back, particularly in the fall when it\'s one of the most beautiful places on Earth.',
+        'Aaron Douglas',
     ],
-    [
-        'If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.',
-        'Robert Fulghum',
+    '6d580487-ab1f-5428-9dba-f1247c5573ca' => [
+        'How do you nurture a positive attitude when all the statistics say you\'re a dead man? You go to work.',
+        'Patrick Swayze',
     ],
-    [
-        'No hours, nor amount of labor, nor amount of money would deter me from giving the best that there was in me.',
-        'Colonel Sanders',
+    '209c27f8-f206-5ac1-9353-56c870f828da' => [
+        'Yes, we\'re still five little people with a noisy attitude.',
+        'Angus Young',
     ],
-    [
-        'When I finally got the chance to do \'The People v. O.J. Simpson,\' my peers embraced me with the same attitude. They didn\'t make me feel small or insignificant. They treated me as a peer. It was a wonderful experience.',
-        'Sterling K. Brown',
+    '5ff7cdcd-99ed-5ae8-8981-19b7f05246bc' => [
+        'Truth is a thing immortal and perpetual, and it gives to us a beauty that fades not away in time.',
+        'Frank Norris',
     ],
-    [
-        'I think a spiritual journey is not so much a journey of discovery. It\'s a journey of recovery. It\'s a journey of uncovering your own inner nature. It\'s already there.',
-        'Billy Corgan',
+    '7975ca03-0cc8-5b7a-818a-a3a433c09537' => [
+        'What would you do if you weren\'t afraid.',
+        'Spencer Johnson',
     ],
-    [
-        'Sport is something that is very inspirational for young people.',
-        'Pele',
+    'd4bb928d-ce2a-57df-9f8e-84a6afd5e03e' => [
+        'Whether it\'s the best of times or the worst of times, it\'s the only time we\'ve got.',
+        'Art Buchwald',
     ],
-    [
-        'It\'s funny: people who meet me say, \'I thought you\'d be different.\' But I\'m still the same guy.',
-        'Bill Engvall',
+    'f2cbce35-6201-57d3-b6a0-bda3b999fee1' => [
+        'You know what\'s funny to me? Attitude.',
+        'Don Rickles',
     ],
-    [
-        'If you go to work on your goals, your goals will go to work on you. If you go to work on your plan, your plan will go to work on you. Whatever good things we build end up building us.',
-        'Jim Rohn',
+    '9025b642-f703-5ebb-ae5d-b17074ff01c5' => [
+        'Mother Earth needs us to keep our covenant. We will do this in courts, we will do this on our radio station, and we will commit to our descendants to work hard to protect this land and water for them. Whether you have feet, wings, fins, or roots, we are all in it together.',
+        'Winona LaDuke',
     ],
-    [
-        'The devil ain\'t got no power over me. The devil come, and me shake hands with the devil. Devil have his part to play. Devil\'s a good friend, too... because when you don\'t know him, that\'s the time he can mosh you down.',
-        'Bob Marley',
+    'a4893633-9533-54cd-9694-5272bc344104' => [
+        'To travel hopefully is a better thing than to arrive.',
+        'Robert Louis Stevenson',
     ],
-    [
-        'There\'s going to be space travel at some point.',
-        'Anne Wojcicki',
+    '309bfcd9-d284-5d36-bd94-de8d0718f53d' => [
+        'A person who has been punished is not less inclined to behave in a given way; at best, he learns how to avoid punishment.',
+        'B. F. Skinner',
     ],
-    [
-        'Social media gives one a family to share one\'s life with.',
-        'Sonu Nigam',
+    '24f46c77-f0b5-57d0-94ba-9c842b42144f' => [
+        'Remember your dreams and fight for them. You must know what you want from life. There is just one thing that makes your dream become impossible: the fear of failure.',
+        'Dieter F. Uchtdorf',
     ],
-    [
-        'The travel book is a convenient metaphor for life, with its optimistic beginning or departure, its determined striving, and its reflective conclusion. Journeys change travellers just as a good travel book can change readers.',
-        'Rory MacLean',
+    'ea435f88-9f92-59c4-b955-09ff2de9ef6e' => [
+        'Love does not consist of gazing at each other, but in looking together in the same direction.',
+        'Antoine de Saint-Exupery',
     ],
-    [
-        'I work to stay alive.',
-        'Bette Davis',
+    '124bace1-27fc-58f0-ba4d-d88727b2e9b6' => [
+        'There\'s a difference between beauty and charm. A beautiful woman is one I notice. A charming woman is one who notices me.',
+        'John Erskine',
     ],
-    [
-        'Less make-up is better, and it\'s always better to let your natural beauty shine. Essentially, be happy with your appearance.',
-        'Park Shin-hye',
+    '07a1c601-cb58-5512-85fc-6b78a974d0ad' => [
+        'Do you want to know who you are? Don\'t ask. Act! Action will delineate and define you.',
+        'Thomas Jefferson',
     ],
-    [
-        'Never take a solemn oath. People think you mean it.',
-        'Norman Douglas',
+    '59905c16-9391-5edf-aaed-299a58d4eaf2' => [
+        'Go the extra mile -- it\'s never crowded.',
+        'Anonymous',
     ],
-    [
-        'Success is about enjoying what you have and where you are, while pursuing achievable goals.',
-        'Bo Bennett',
+    'f25395ec-764d-599e-a43b-e113ba743ca1' => [
+        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
+        'Unknown',
     ],
-    [
-        'When you come to the end of your rope, tie a knot and hang on.',
-        'Franklin Roosevelt',
+    '4d4cf75b-1b6f-5941-a950-1ddb723eb0b4' => [
+        'Everywhere is within walking distance if you have the time.',
+        'Steven Wright',
     ],
-    [
-        'The smile on your face lets me know that you need me, there\'s a truth in your heart that says you\'ll never leave me, and the touch of your hand says you\'ll catch me whenever I fall.',
-        'Alison Krauss',
+    '63c56929-c5d1-5beb-8b8b-72ca3be075c2' => [
+        'The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature.',
+        'Joseph Campbell',
     ],
 ];

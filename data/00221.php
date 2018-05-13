@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'With every experience, you alone are painting your own canvas, thought by thought, choice by choice.',
-        'Oprah Winfrey',
+    '55616c53-9753-5c87-8861-84645730b5e9' => [
+        'I have undertaken vengeance. I want Liberty and Equality to reign in Saint-Domingue. I work to bring them into existence. Unite yourselves to us, brothers, and fight with us for the same cause.',
+        'Toussaint Louverture',
     ],
-    [
-        'My journey has been a very fun one because I\'ve chosen to make the best of every challenge that I\'ve had along the way no matter what.',
-        'Ciara',
+    'a58b63e4-bd29-58ad-9631-61a4c7789c9c' => [
+        'Take heed: you do not find what you do not seek.',
+        'English proverb',
     ],
-    [
-        'All my life, I have been a positive thinker... I have always been able to survive by telling myself that no matter how bad things are, they will one day be better. And that out of every event - no matter how tragic - one can always find a way to survive and even, perhaps, to be a little bit happy.',
-        'Zsa Zsa Gabor',
+    '25b99d60-57ec-58e5-a6a8-63215e589bb9' => [
+        'We know a way now to make use of democracy, and we know how to change the attitude of people towards government, but yet the majority of people are without vision. We who have prevision must lead them and guide them into the right way if we want to escape the confusions of Western democracy and not follow in the tracks of the West.',
+        'Sun Yat-sen',
     ],
-    [
-        'Most of the people who act and sing do so for their own pleasure and that of their friends and family.',
-        'Kate Smith',
+    '38839ec3-4893-5253-8c38-fb015c2bc0b8' => [
+        'Once you don\'t smile on film, they say, \'Let\'s have that bloke who doesn\'t smile.\'',
+        'Richard C. Armitage',
     ],
-    [
-        'If you can\'t feed a hundred people, then feed just one.',
-        'Mother Teresa',
+    '440caae4-81a5-55dd-a4cc-dba02b6aef49' => [
+        'Steroids do not guarantee you\'re going to have success. I think a lot of people think that they will, but they don\'t.',
+        'Tony Gwynn',
     ],
-    [
-        'The only thing I\'m addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent.',
-        'Charlie Sheen',
+    '6e83b449-2f44-52b3-b3b0-d147f012941c' => [
+        'It\'s funny how all of this has worked out - I wasn\'t popular in high school, but now every drunken guy in the United States wants to be my pal. They all want to buy me a shot, and pretty soon I\'m throwing up.',
+        'Jimmy Kimmel',
     ],
-    [
-        'Traveling is seeing; it is the implicit that we travel by.',
-        'Cynthia Ozick',
+    '7131e35a-8531-5070-8cda-ca0f22e06493' => [
+        'PETA has a proven track record of success. Each victory PETA wins for the animals is a stepping stone upon which we build a more compassionate world for all beings - and we will never give up our fight until all animals are treated with respect and kindness.',
+        'Bea Arthur',
     ],
-    [
-        'My sculptures cause an uproar, astonishment, and put a smile on your face.',
-        'Florentijn Hofman',
+    '12c28962-2250-56ef-8cd0-3700b73f79d2' => [
+        'I am delighted with the strong vote I have received. My message of positive leadership, patriotism and commitment clearly was resonating with tens of thousands of ordinary Irish people.',
+        'Michael D. Higgins',
     ],
-    [
-        'I\'m not a fan of any genre but am a fan of movies that are intelligent and/or funny. That goes across all genres: a horror movie, a zombie movie, alien invaders, chick flick, or raunchy comedy. If it\'s well done, I\'m a fan.',
-        'J. K. Simmons',
+    '76513f2a-a919-53dc-b5ba-1fc56556c696' => [
+        'I do a good job of staying positive and just moving on.',
+        'Katie Taylor',
     ],
-    [
-        'Perhaps we believe that everything travels by air, or magically and instantaneously like information (which is actually anchored by cables on the seabed), not by hefty ships that travel more slowly than senior citizens drive.',
-        'Rose George',
+    'e6504151-d768-5790-be7c-0b0b97018c66' => [
+        'Continuous effort, not strength or intelligence, is the key to unlocking our potential.',
+        'Winston Churchill',
     ],
-    [
-        'If we just wanted positive emotions, our species would have died out a long time ago.',
-        'Martin Seligman',
+    '96b12681-f47f-5834-a685-28b847f51073' => [
+        'If you show emotion in competition, temporarily, you\'ll be ineffective. If you\'re disciplined enough, you don\'t get down when you\'re behind, and you have a chance to create something positive.',
+        'Tom Landry',
     ],
-    [
-        'The more you travel, the more well-off you\'ll be, I think.',
-        'RJ Mitte',
+    '564e4f8c-03fb-5802-911a-b8b84b605aa0' => [
+        'Work out your own salvation. Do not depend on others.',
+        'Buddha',
     ],
-    [
-        'I tend to be pessimistic about everything: If things seem to be going good, I\'m worried that it\'s going to end; if things are bad, then I\'m worried that it\'s going to be permanent. It\'s not a very comfortable attitude to have all the time.',
-        'Jesse Eisenberg',
+    'a539ebdb-7afc-5178-92dc-f26d7491982b' => [
+        'What a stupid attitude we have in this country to personal stories.',
+        'Amanda Burton',
     ],
-    [
-        'For everything that lives is holy, life delights in life.',
-        'William Blake',
+    '3428c9de-eb18-5f05-a1ea-3ec577b917cc' => [
+        'I am tortured when I am away from my family, from my children. I am horribly guilt-ridden.',
+        'Jessica Lange',
     ],
-    [
-        'With the success of a show, you get an opportunity to call attention to things that you believe in.',
-        'Bradley Whitford',
+    'd1291e03-942e-5f6d-b58e-a4ac0d2df2e1' => [
+        'A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.',
+        'Lao Tzu',
     ],
-    [
-        'Diabetes is an all-too-personal time bomb which can go off today, tomorrow, next year, or 10 years from now - a time bomb affecting millions like me and the children here today.',
-        'Mary Tyler Moore',
+    '2c0812b0-22ad-564e-85ea-32874a348f37' => [
+        'You were not born a winner, and you were not born a loser. You are what you make yourself be.',
+        'Lou Holtz',
     ],
-    [
-        'You can have meaning, accomplishment, engagement and good relationships, even if you are dull on the positive affect side.',
-        'Martin Seligman',
+    'e6b31e66-a2b7-5e29-8da3-a175c8968a8f' => [
+        'I\'ll bring my grits when I travel, because I get so hungry on the road.',
+        'Dolly Parton',
     ],
-    [
-        'We\'ve seen over time that countries that have the best economic growth are those that have good governance, and good governance comes from freedom of communication. It comes from ending corruption. It comes from a populace that can go online and say, \'This politician is corrupt, this administrator, or this public official is corrupt.\'',
-        'Ramez Naam',
+    '2a2f5ab6-9348-5428-958b-c57f786296b3' => [
+        'The truth is on the march and nothing will stop it.',
+        'Emile Zola',
     ],
-    [
-        'What can a pencil do for all of us? Amazing things. It can write transcendent poetry, uplifting music, or life-changing equations; it can sketch the future, give life to untold beauty, and communicate the full-force of our love and aspirations.',
-        'Alice Waters',
+    '33e16478-f4c7-5b1c-9dfb-21ce6be848b0' => [
+        'Today we are searching for things in nature that are hidden behind the veil of appearance... We look for and paint this inner, spiritual side of nature.',
+        'Franz Marc',
     ],
-    [
-        'Many people say I smile more in Africa than in Sweden.',
-        'Henning Mankell',
+    '822b4286-ba9a-5862-9be5-00bee3abc561' => [
+        'Ability is what you\'re capable of doing. Motivation determines what you do. Attitude determines how well you do it.',
+        'Lou Holtz',
     ],
-    [
-        'Strength to carry on despite the odds means you have faith in your own abilities and know how.',
-        'Byron Pulsifer',
+    '168b85b1-8086-58ac-a250-27333e862596' => [
+        'For me, bomber jackets are smart, but they are also street and have a lot of attitude.',
+        'The Weeknd',
     ],
-    [
-        'To get nostalgic about other people\'s music, or even about your own, makes a terrible statement about the condition of your life and your prospects for the future. I have no patience with that kind of attitude, whether it\'s on radio or among friends.',
-        'Neil Peart',
+    'e2d09cd1-d890-5924-8585-d13527614758' => [
+        'I\'m a gay disabled man who has become very successful. I don\'t get up in the morning and think I\'m inspirational; I just get up thinking that I love horses.',
+        'Lee Pearson',
     ],
-    [
-        'It\'s only when we truly know and understand that we have a limited time on earth - and that we have no way of knowing when our time is up, we will then begin to live each day to the fullest, as if it was the only one we had.',
-        'Elisabeth Kubler-Ross',
+    'f92aa1cc-7759-5f91-9607-21b847c96ed5' => [
+        'I believe all positive things and negative things are valuable because they shape you.',
+        'Natalie Massenet',
     ],
-    [
-        'To make flexibility work, it is not only necessary to change our attitude about who is a good worker and who is not, but we have to train managers at all levels to recognize the difference between the number of hours worked and the quality of work produced.',
-        'Madeleine M. Kunin',
+    '9eb35ee7-9d63-5ff4-8d8a-73acb21f4b27' => [
+        'Everyone here has the sense that right now is one of those moments when we are influencing the future.',
+        'Steve Jobs',
     ],
-    [
-        'Good thoughts are no better than good dreams, unless they be executed.',
-        'Ralph Emerson',
+    '25e01b22-d8b3-5a54-9fa0-60514c6ea294' => [
+        'God always takes the simplest way.',
+        'Albert Einstein',
     ],
 ];

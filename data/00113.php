@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The biggest challenge we all face is to learn about ourselves and to understand our strengths and weaknesses. We need to utilize our strengths, but not so much that we don\'t work on our weaknesses.',
-        'Mae Jemison',
+    'b9d54d14-ecf5-542f-bfec-165511ee13d8' => [
+        'I was always spiritual, even as a child. I was taught to pray, show gratitude. We had an attitude of gratitude. Even if life was ugly, bad or sad - we prayed.',
+        'Shilpa Shetty',
     ],
-    [
-        'Climate change and ozone depletion are two global issues that are different but have many connections. In the ozone depletion case, we managed to work with decision makers effectively so that an international agreement called the Montreal Protocol was achieved that essentially solved the ozone depletion problem.',
-        'Mario J. Molina',
+    '9e53d19d-b59b-5258-8fe1-1b9128bc6beb' => [
+        'The U.K. needs a system for family migration underpinned by three simple principles. One: that those who come here should do so on the basis of a genuine relationship. Two: that migrants should be able to pay their way. And three: that they are able to integrate into British society.',
+        'Theresa May',
     ],
-    [
-        'Rarely do members of the same family grow up under the same roof.',
-        'Richard Bach',
+    'aed72902-c307-53fb-840d-f33750def48c' => [
+        'Remember that sometimes not getting what you want is a wonderful stroke of luck.',
+        'Dalai Lama',
     ],
-    [
-        'If you try to come off as this big-time star with an attitude, people don\'t like that.',
-        'Selena',
+    'bef5b08d-fc57-5b38-8584-5f903e7a25f5' => [
+        'People idealise their animals, and at the same time they patronisingly overlook a dog\'s natural life - biting fleas, burying bones, rolling in garbage, barking up an empty tree all night... But what do they do themselves? Bury stuff that will rot in secret and then dig it up and bury it again and rant and rave under empty trees!',
+        'Tove Jansson',
     ],
-    [
-        'As people are walking all the time, in the same spot, a path appears.',
-        'John Locke',
+    '46252470-551b-51a3-9628-3d887fdbb524' => [
+        'I\'d love to look like my mum when I am her age. She taught ballet for years, and my attitude to exercise and fitness has definitely been influenced by her. She\'s 84 now, and I\'ve watched how well she has aged, and a lot of that is to do with her fantastic posture.',
+        'Sarah Parish',
     ],
-    [
-        'I saw a woman wearing a sweatshirt with Guess on it. I said, Thyroid problem?',
-        'Arnold Schwarzenegger',
+    '9ac5d819-7f0a-5da2-893f-845cc49faae9' => [
+        'We are all inclined to judge ourselves by our ideals; others, by their acts.',
+        'Harold Nicolson',
     ],
-    [
-        'Nothing succeeds like the appearance of success.',
-        'Christopher Lasch',
+    'd32df472-55a4-5ea1-8072-b65a30ffea42' => [
+        'My favorite parable for living a positive and influential life is the Golden Rule: \'Do unto others what you would have them do unto you.\'',
+        'Tony Oller',
     ],
-    [
-        'I believe Watergate shows that the system did work. Particularly the Judiciary and the Congress, and ultimately an independent prosecutor working in the Executive Branch.',
-        'Bob Woodward',
+    'd9031196-bad8-5617-9039-01dca9eab1f0' => [
+        'For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?',
+        'James Allen',
     ],
-    [
-        'I think that I shall never see a poem lovely as a tree.',
-        'Joyce Kilmer',
+    'e865ea20-ca4d-551d-98ae-53d046f29671' => [
+        'Whatever the mind of man can conceive and believe, it can achieve.',
+        'Napoleon Hill',
     ],
-    [
-        'Automobiles have always been part of my life, and I\'m sure they always will be. What is it about them that moves me? The sound of a great engine, the unity and uniqueness of an automobile\'s engineering and coachwork, the history of the company and the car, and, of course, the sheer beauty of the thing.',
-        'Edward Herrmann',
+    '6ed58ed7-4de2-5cf6-b405-60722e3433b0' => [
+        'The human brain is a funny thing: it\'s very susceptible to tempo and melody. You put the right words to it, and it becomes very influential.',
+        'Ray Stevens',
     ],
-    [
-        'We must balance conspicuous consumption with conscious capitalism.',
-        'Kevin Krus',
+    'f6d051c3-107a-5a3b-a7bf-e080814ca7ca' => [
+        'You shall, I question not, find a way to the top if you diligently seek for it; for nature hath placed nothing so high that it is out of the reach of industry and valor.',
+        'Alexander the Great',
     ],
-    [
-        'Here\'s the thing - I\'m single, I haven\'t been married, I don\'t have kids yet. If I do have kids I would be interested to see them in my life, so here\'s a movie for kids and I\'m in there and I\'m supposed to be kind of funny for kids.',
-        'Garry Shandling',
+    'fb50037a-fd3f-5acc-9b86-c667f9efa6ba' => [
+        'It seems to me that the natural world is the greatest source of excitement; the greatest source of visual beauty; the greatest source of intellectual interest. It is the greatest source of so much in life that makes life worth living.',
+        'John C. Maxwell',
     ],
-    [
-        'The power of one, if fearless and focused, is formidable, but the power of many working together is better.',
-        'Gloria Macapagal Arroyo',
+    '3a90370b-6554-594c-8dca-763eefab9913' => [
+        'People who keep stiff upper lips find that it\'s damn hard to smile.',
+        'Judith Guest',
     ],
-    [
-        'Entrepreneurs can\'t forecast accurately, because they are trying something fundamentally new. So they will often be laughably behind plan - and on the brink of success.',
-        'Eric Ries',
+    '2b734c13-5e87-57b2-87f6-35f16a848332' => [
+        'Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.',
+        'Byron Pulsifer',
     ],
-    [
-        'Life is best when you are in love.',
-        'Michael Moriarty',
+    'b318f66d-3196-541c-b5b6-83516df9dd91' => [
+        'I believe in stopping work and eating lunch.',
+        'L\'Wren Scott',
     ],
-    [
-        'The other thing is quality of life; if you have a place where you can go and have a picnic with your family, it doesn\'t matter if it\'s a recession or not, you can include that in your quality of life.',
-        'Jim Fowler',
+    '39b025f9-436b-54d2-9c6d-7cecdd42bc4f' => [
+        'I hope my desire to travel so much isn\'t forever because it\'s not the most conducive lifestyle for a relationship or a family by any means.',
+        'Lisa Ling',
     ],
-    [
-        'A place for everything, everything in its place.',
-        'Benjamin Franklin',
+    '2ec0f091-7851-5ccc-b16a-fd7401380c7d' => [
+        'What we observe is not nature itself, but nature exposed to our method of questioning.',
+        'Werner Heisenberg',
     ],
-    [
-        'I am shocked by the easy attitude of many in the media towards disclosing our Nation\'s secrets.',
-        'Todd Tiahrt',
-    ],
-    [
-        'Italians come to ruin most generally in three ways, women, gambling, and farming. My family chose the slowest one.',
-        'Pope John XXIII',
-    ],
-    [
-        'It\'s true that immigrant novels have to do with people going from one country to another, but there isn\'t a single novel that doesn\'t travel from one place to another, emotionally or locally.',
-        'Oscar Hijuelos',
-    ],
-    [
-        'My first feeling about the paper and the attitude is that it is absurd.',
-        'Arthur Holly Compton',
-    ],
-    [
-        'A good attitude is really important. And a sense of optimism, someone who has ideas and isn\'t afraid to pitch them no matter what level she is. Someone who is proactive. Someone with efficiency and common sense. They don\'t always go hand-in-hand, common sense and, well, everything else.',
-        'Eva Chen',
-    ],
-    [
-        'I was always just into my music and maybe into trying to save the world a little bit. I never really thought I\'d have a hit record or anything like that. I was prepared to travel around all over the country, kind of like a Johnny Appleseed, and sing.',
-        'Don McLean',
-    ],
-    [
-        'Wishing to be friends is quick work, but friendship is a slow ripening fruit.',
-        'Aristotle',
-    ],
-    [
-        'I don\'t want to know what time it is. I don\'t want to know what day it is or where I am. None of that matters.',
+    'b093accd-dae3-549e-9cdd-711e4cf1c992' => [
+        'The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.',
         'Christopher McCandless',
+    ],
+    '3a0da067-b47d-5629-bb5e-cade7932be30' => [
+        'We are often told we can\'t have brains and beauty, and I really hope that my message is that you can put on that red lip and curl your hair and put on that power dress - you don\'t have to sacrifice one for the other.',
+        'Tyra Banks',
+    ],
+    '65517007-0297-5893-bc24-e8af7c94cbba' => [
+        'With ideas it is like with dizzy heights you climb: At first they cause you discomfort and you are anxious to get down, distrustful of your own powers; but soon the remoteness of the turmoil of life and the inspiring influence of the altitude calm your blood; your step gets firm and sure and you begin to look - for dizzier heights.',
+        'Martin Luther',
+    ],
+    '1f42657f-8119-5837-831b-aa51a6de0f32' => [
+        'It\'s not an experiment if you know it\'s going to work.',
+        'Jeff Bezos',
+    ],
+    '75dfce19-9481-57db-9ea3-80e045233281' => [
+        'As a youngster, my mother and father always drilled into my head having something to fall back on. My father was kind of funny. I\'d score 40 points. I\'d come home and say, \'Look dad, I scored 40.\' He\'d never have a smile on his face. He\'d be like, \'I saw that move you did. What if you\'d hurt your knee?\'',
+        'Shaquille O\'Neal',
+    ],
+    '12deab41-a7ab-5e3c-b38a-199774b8a0b3' => [
+        'Being a survivor doesn\'t mean being strong - it\'s telling people when you need a meal or a ride, company, whatever. It\'s paying attention to heart wisdom, feelings, not living a role, but having a unique, authentic life, having something to contribute, finding time to love and laugh. All these things are qualities of survivors.',
+        'Bernie Siegel',
+    ],
+    '177de676-42f8-58a0-815c-b7ea8775ae4f' => [
+        'Baseball was, is and always will be to me the best game in the world.',
+        'Babe Ruth',
+    ],
+    '843493dc-207c-5ecd-8b2e-0774ca10c13a' => [
+        'Death is the mother of Beauty; hence from her, alone, shall come fulfillment to our dreams and our desires.',
+        'Wallace Stevens',
     ],
 ];

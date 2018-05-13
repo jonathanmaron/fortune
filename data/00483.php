@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If you find it in your heart to care for somebody else, you will have succeeded.',
-        'Maya Angelou',
-    ],
-    [
-        'I\'m looking for the best person irregardless of political party, of race or religion, or color of their skin. Those things don\'t matter to me. I want someone who\'s qualified, who has a qualification to character and the integrity to do the things that have to be done to save this world.',
-        'Edward Brooke',
-    ],
-    [
-        'The past cannot be cured.',
-        'Elizabeth I',
-    ],
-    [
-        'Experience taught me that working families are often just one pay check away from economic disaster. And it showed me first-hand the importance of every family having access to good health care.',
-        'Dave Obey',
-    ],
-    [
-        'Courage is going from failure to failure without losing enthusiasm.',
-        'Winston Churchill',
-    ],
-    [
-        'The best advice I\'ve received is to be yourself. The best artists do that.',
-        'Frank Gehry',
-    ],
-    [
-        'I live in a crazy time.',
-        'Anne Frank',
-    ],
-    [
-        'Life is what happens to you while you\'re busy making other plans.',
-        'John Lennon',
-    ],
-    [
-        'For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.',
-        'Martin Luther',
-    ],
-    [
-        'From what we get, we can make a living; what we give, however, makes a life.',
-        'Arthur Ashe',
-    ],
-    [
-        'Procrastination is the thief of time.',
-        'Edward Young',
-    ],
-    [
-        'A women\'s greatest asset is her beauty.',
-        'Alex Comfort',
-    ],
-    [
-        'While we try to teach our children all about life, our children teach us what life is all about.',
-        'Angela Schwindt',
-    ],
-    [
-        'I went to private school for a very long time, and we always wore uniforms. Then in third grade, I switched to a public school, so I was so excited to wear what I wanted on the first day. I remember I chose this orange hoodie with a skirt, and it\'s so funny when I think about it now because my style really hasn\'t changed that much.',
-        'Keke Palmer',
-    ],
-    [
-        'What interests me is whatever it is that allows the heart to continue to yearn for something the intelligence knows is impossible to have: a lost love, a shelter from life\'s blows, the return of a time past, even a connection to the dead.',
-        'Alice McDermott',
-    ],
-    [
-        'Worry gives a small thing a big shadow.',
+    '28204cea-4020-5a80-81b3-a34cede97edd' => [
+        'A beautiful thing is never perfect.',
         'Unknown',
     ],
-    [
-        'Wellness is not a \'medical fix\' but a way of living - a lifestyle sensitive and responsive to all the dimensions of body, mind, and spirit, an approach to life we each design to achieve our highest potential for well-being now and forever.',
-        'Jennifer Lopez',
+    'c3208bb2-3629-5e66-bf60-9abc3680da20' => [
+        'Chains of habit are too light to be felt until they are too heavy to be broken.',
+        'Warren Buffett',
     ],
-    [
-        'We are free, but not to be evil, not to be indifferent to human suffering, not to profit from the people, from the work created and sustained through their spirit of political association, while refusing to contribute to the political state that we profit from.',
-        'Jose Marti',
+    'd6e69c3f-56a9-5834-b958-2dedc95af866' => [
+        'A pessimist is a person who has had to listen to too many optimists.',
+        'Don Marquis',
     ],
-    [
-        'There\'s a very go-to kind of attitude in New Zealand that stems from that psyche of being quite isolated and not being able to rely on the rest of the world\'s infrastructure.',
-        'Peter Jackson',
+    '25287d6d-f1e1-5a5b-8410-dba8be58586a' => [
+        'When I tried to play something and screwed up, I\'d hear some other note that would come into play. Then I started trying different things to find the beauty in it.',
+        'Dimebag Darrell',
     ],
-    [
-        'Life has a higher end, than to be amused.',
-        'Havelock Ellis',
+    '521aa84d-197e-560b-95ac-a95f3c41b9b8' => [
+        'I found it interesting that as people become more technically oriented all over the world, at the same time people are becoming increasingly spiritual. The success of the Da Vinci code - even though it was a great yawn - also showed people\'s interest in religion.',
+        'Barbara Walters',
     ],
-    [
-        'Not everything is going to be handed to you just because you\'re talented with a big smile. Sometimes you just gotta get out and shoot jumpers for hours and hours and hours. That\'s something I didn\'t really get a grasp on until way later, waking up early and treating it like a job if you\'re serious about it. Get the freak up and, you know, work.',
-        'Anderson Paak',
+    '3cefc570-d1e4-503d-8058-69a25e3d4274' => [
+        'It\'s the best feeling when you wake up and it\'s warm and cozy, and you don\'t have to go to work.',
+        'Emmy Rossum',
     ],
-    [
-        'I always hear myself saying, \'She\'s a beauty!\' or \'He\'s a beauty!\' or \'What a beauty!\' but I never know what I\'m talking about.',
-        'Andy Warhol',
+    '69aaea6e-ee32-5cad-847f-036f79780187' => [
+        'Disruption is a critical element of the evolution of technology - from the positive and negative aspects of disruption a typical pattern emerges, as new technologies come to market and subsequently take hold.',
+        'Steven Sinofsky',
     ],
-    [
-        'Just find what works for you, what style suits you best, and just be confident enough to rock it.',
-        'Odell Beckham, Jr.',
+    'fc2ecf3c-d2a3-5ae9-bbd4-eae26d39370a' => [
+        'The whole object of travel is not to set foot on foreign land; it is at last to set foot on one\'s own country as a foreign land.',
+        'Gilbert K. Chesterton',
     ],
-    [
-        'We were what you would call a poor family, but we were rich in so many things. We did family things together. We always had dessert, even if it was just Jell-O. So, I never knew I was poor.',
-        'August Wilson',
+    '04e46f90-d0f3-5231-9818-92972aeb82e6' => [
+        'Life goes by really fast, and it seems that there are times when you\'re burying a lot of friends and family. And then there are times that feel really precious and everybody is doing okay. This is one of those times.',
+        'Amy Grant',
     ],
-    [
-        'A positive attitude is not going to save you. What it\'s going to do is, everyday, between now and the day you die, whether that\'s a short time from now or a long time from now, that every day, you\'re going to actually live.',
-        'Elizabeth Edwards',
+    'b9fb0a1d-a517-5d68-8154-9d23b8b9289a' => [
+        'When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.',
+        'Helen Keller',
+    ],
+    '378af356-f152-5cf1-976a-d2485c978f25' => [
+        'Not how long, but how well you have lived is the main thing.',
+        'Seneca',
+    ],
+    'c2eaa01c-38a1-566e-a377-08114054403f' => [
+        'Tourists don\'t know where they\'ve been, travelers don\'t know where they\'re going.',
+        'Paul Theroux',
+    ],
+    'a3164ce9-fba6-5841-8039-728f9db1a6e8' => [
+        'I\'ve had more ups than downs in my career. All you can do is keep working. You still have to take enjoyment out of what you\'re doing, and things will turn, and my smile has always been there. In good moments and bad.',
+        'Eden Hazard',
+    ],
+    '36973ac2-5d77-545d-b454-e726339833d5' => [
+        'If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?',
+        'Rabbi Hillel',
+    ],
+    '304aee44-41d5-5b20-bc85-680cc48df02d' => [
+        'Arrogance, ignorance, and incompetence. Not a pretty cocktail of personality traits in the best of situations. No sirree. Not a pretty cocktail in an office-mate and not a pretty cocktail in a head of state. In fact, in a leader, it\'s a lethal cocktail.',
+        'Graydon Carter',
+    ],
+    'ab8bbd20-40f9-588a-b307-4b8412080d7f' => [
+        'A smile costs about $240.',
+        'Roma Downey',
+    ],
+    '2b77b434-2954-5fc3-8ba0-84f26d405e05' => [
+        'We all become great explorers during our first few days in a new city, or a new love affair.',
+        'Mignon McLaughlin',
+    ],
+    'f3c8a4b6-9454-5b34-9966-a35e602dd650' => [
+        'When a positive exchange between a brand and customers becomes quantifiable metrics, it encourages brand to provide better service, customer service to do a better job, and consumers to actively show their gratitude.',
+        'Simon Mainwaring',
+    ],
+    '5231de4e-847a-506b-beb5-52b046966bae' => [
+        'Success is not how high you have climbed, but how you make a positive difference to the world.',
+        'Roy T. Bennett',
+    ],
+    '0258e7b6-2c73-50f4-9086-7bfda7f5a167' => [
+        'When you\'re walking down the street, or you\'re at a restaurant, someone catches your eye because they have their own look. It goes way beyond what they\'re wearing - into their mannerisms, the way they smile, or just the way they hold themselves.',
+        'Mary-Kate Olsen',
+    ],
+    '38f27f00-3866-5536-a8f8-aef6bacc78e1' => [
+        'If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.',
+        'Calvin Coolidge',
+    ],
+    'ee46de4d-7b07-550a-b947-a3f0a9e66ab5' => [
+        'The traveller has reached the end of the journey!',
+        'Edmund Burke',
+    ],
+    '3861d69a-760b-5e0a-aac8-814fce080aeb' => [
+        'There was plenty of dysfunction in my family and I went to Catholic School with these psychotic nuns. I would always try to be funny to lighten the mood.',
+        'Julie Brown',
+    ],
+    '10d52d97-315f-51df-91df-e4837b9f1a7c' => [
+        'When I travel, I draw and paint sketches which is great fun. And as long as you are fully aware that it has nothing to do with actual art, I think that\'s all right.',
+        'Arne Jacobsen',
+    ],
+    '30ac3d94-423b-56f2-808b-3bfa4b08cbd7' => [
+        'It really is an honor if I can be inspirational to a younger singer or person. It means I\'ve done my job.',
+        'Aretha Franklin',
     ],
 ];

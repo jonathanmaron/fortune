@@ -1,103 +1,103 @@
 <?php
 
 return [
-    [
-        'If you don\'t find time to meditate and get all that negative out, and if you don\'t have the right people being positive around you, this is a very scary job to have if you don\'t learn how to control your fear.',
-        'Nate Diaz',
+    '1e4059a9-faaf-5b76-94f3-0055dacc1f19' => [
+        'People forget I go to work. They forget that the Coleridge house was bought and paid for by the daughter of a travel agent and a barmaid from what the actor Richard Burton once described as the nightmarish \'featureless suburb\' of Croydon.',
+        'Kate Moss',
     ],
-    [
-        'I thought I was going to be killed. The casualties were so heavy, it was just a given. I learned to take each day, each mission, as it came. That\'s an attitude I\'ve carried into my professional life. I take each case, each job, as it comes.',
-        'Elliot Richardson',
+    'eb4cd604-8887-5809-85e1-16e560308803' => [
+        'With patient and firm determination, I am going to press on for jobs. I\'m going to press on for equality. I\'m going to press on for the sake of our children. I\'m going to press on for the sake of all those families who are struggling right now. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I am going to press on.',
+        'Barack Obama',
     ],
-    [
-        'The nature of things is dharma.',
-        'Mahavira',
+    '45b460f7-fc59-5a17-8f64-b7c698b3c364' => [
+        'Why should conservationists have a positive interest in... farming? There are lots of reasons, but the plainest is: Conservationists eat.',
+        'Wendell Berry',
     ],
-    [
-        'Aviation, this young modern giant, exemplifies the possible relationship of women and the creations of science. Although women have not taken full advantage of its use and benefits, air travel is as available to them as to men.',
-        'Amelia Earhart',
+    '78b4c409-4530-510d-8164-b272c6ec3d3b' => [
+        'Kids who are poor often have families that have not really been kept informed about... how important it is to read to your child, to reduce stresses in their life, to use positive incentives and words.',
+        'Geoffrey Canada',
     ],
-    [
-        'The worst thing about being the laureate has been the attitude of a tiny minority of adults who haven\'t liked some of the things I\'m supposed to have said and who have used it as an opportunity to be verbally abusive and nasty, but I haven\'t let it rule my world!',
-        'Malorie Blackman',
+    '30220a04-d80d-5eaf-8977-b3869eb65615' => [
+        'Success has nothing to do with what you gain in life or accomplish for yourself. It\'s what you do for others.',
+        'Danny Thomas',
     ],
-    [
-        'The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter - for the future. His duty is to lay the foundation for those who are to come, and point the way.',
-        'Nikola Tesla',
+    'd8368953-3f14-56d6-a3e9-8688c0089f4f' => [
+        'I like to encourage people to realize that any action is a good action if it\'s proactive and there is positive intent behind it.',
+        'Michael J. Fox',
     ],
-    [
-        'Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.',
-        'Leo Buscaglia',
+    '7da0ed26-3b80-5d0b-84cc-2beb562568bd' => [
+        'I did not want to be a tree, a flower or a wave. In a dancer\'s body, we as audience must see ourselves, not the imitated behavior of everyday actions, not the phenomenon of nature, not exotic creatures from another planet, but something of the miracle that is a human being.',
+        'Martha Graham',
     ],
-    [
-        'We owe to the Middle Ages the two worst inventions of humanity - romantic love and gunpowder.',
-        'Andre Maurois',
+    '1bf3f2cd-a64c-5eaf-8f94-ac42a33cabdb' => [
+        'To mistrust science and deny the validity of scientific method is to resign your job as a human. You\'d better go look for work as a plant or wild animal.',
+        'P. J. O\'Rourke',
     ],
-    [
-        'I was going through a little bit of turbulence in my career. And so, it\'s funny how turbulence itself will make you hold onto something for security. And so the only thing I knew is trust in the Lord and lean not unto your own heart, in all thy ways acknowledge him and he shall direct thy path.',
-        'Emmitt Smith',
+    '75730dab-8f38-5b44-8569-b122c494c977' => [
+        'We must use time as a tool, not as a couch.',
+        'John F. Kennedy',
     ],
-    [
-        'Not by appointment do we meet delight Or joy; they heed not our expectancy; But round some corner of the streets of life they of a sudden greet us with a smile.',
-        'Gerald Massey',
+    'e3d27df8-0951-5b1f-81f5-e97b371c7192' => [
+        'I wasn\'t as used to the new dumb questions, so when men I had once thought of as wise daddies now asked me \'How do you write?\' I did not try and spill red wine in their suede pants. I would just smile and say, \'On a typewriter in the mornings when there\'s nothing else to do.\'',
+        'Eve Babitz',
     ],
-    [
-        'It is time to return to core values, time to get back to basics, to self-discipline and respect for the law, to consideration for the others, to accepting responsibility for yourself and your family - and not shuffling it off on other people and the state.',
-        'John Major',
-    ],
-    [
-        'My father was short for a man, with a child\'s plaything for a name - Spinner. He had flawless dark brown skin and a head full of big, wet-looking curls, black as oil. And he had the smile of a scoundrel - the kind of smile that disarmed men and undressed women.',
-        'Charles M. Blow',
-    ],
-    [
-        'One today is worth two tomorrows.',
-        'Benjamin Franklin',
-    ],
-    [
-        'When a kid graduates from being the youngest in a family to being a big brother or sister, there\'s an amazing transformation. They have to make a big effort, and when they accept their new position in the family, everybody breathes a sigh of relief. All of a sudden they seem bigger, and they seem smarter, and they feel good about it, too.',
-        'Peggy Rathmann',
-    ],
-    [
-        'I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.',
-        'Frederick Douglass',
-    ],
-    [
-        'Nations need to understand their own strengths and weaknesses, and India\'s tradition of dissent and democratic debate is a positive aspect.',
-        'Rosabeth Moss Kanter',
-    ],
-    [
-        'It\'s not enough that I should succeed - others should fail.',
-        'David Merrick',
-    ],
-    [
-        'The parrot\'s so funny. He imitates me and I don\'t even realize he\'s doing it. I\'m walking around the house talking to myself and whistling and the next day he\'s said something I\'ve said... it\'s scary you know?',
-        'Mick Ralphs',
-    ],
-    [
-        'Travel can be one of the most rewarding forms of introspection.',
-        'Lawrence Durrell',
-    ],
-    [
-        'Each day provides its own gifts.',
+    '5cde4e6d-e76c-55e7-ad41-4195c96df2fc' => [
+        'Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.',
         'Marcus Aurelius',
     ],
-    [
-        'You will not be punished for your anger, you will be punished by your anger.',
-        'Buddha',
+    '89571fc8-9b74-5b73-be1a-ab727e718f32' => [
+        'Most people can\'t see beauty and love. I see our music as medicine.',
+        'Maurice White',
     ],
-    [
-        'I think it\'s important to always keep professional and surround yourself with good people, work hard, and be nice to everyone.',
-        'Caroline Winberg',
+    '2bcf5da7-a5a3-51b8-902e-9968103823eb' => [
+        'Art enables us to find ourselves and lose ourselves at the same time.',
+        'Thomas Merton',
     ],
-    [
-        'My parents are both really, really funny, and my little sister is a really good painter, and my other sister is a really good writer.',
-        'Michael Cera',
+    '1d327264-b7e2-5b67-a0e1-2d527083f159' => [
+        'I have had a perfectly wonderful evening, but this wasn\'t it.',
+        'Groucho Marx',
     ],
-    [
-        'Take heed: you do not find what you do not seek.',
-        'English proverb',
+    'd4e65085-41ff-520f-b393-5a566a333248' => [
+        'Don\'t talk about what you have done or what you are going to do.',
+        'Thomas Jefferson',
     ],
-    [
+    '95046472-f82a-5d86-9aee-00edc27697d1' => [
+        'Work hard. Through determination and self-focus and discipline, you can accomplish anything.',
+        'Kimberly Guilfoyle',
+    ],
+    '8dfd8bdc-a420-5eba-a4de-12b1ab7766de' => [
+        'We take so many of our freedoms for granted nowadays - I can travel where I like, I can do any job I want - but I think chivalry has been lost a little bit.',
+        'Michelle Dockery',
+    ],
+    '08221c6c-8c96-52e1-86dc-afa25ffe82a3' => [
+        'I am not trendy. I am not \'in fashion.\' I am simply a positive human being who has a positive outlook on life.',
+        'Thierry Mugler',
+    ],
+    'ba5a4705-dfc8-5501-90d8-13ae7c0f84d5' => [
+        'The only time I ever enjoyed ironing was the day I accidentally got gin in the steam iron.',
+        'Phyllis Diller',
+    ],
+    'e103eeaa-5fa3-598d-9be3-13c674f6dd02' => [
+        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
+        'Rowan Atkinson',
+    ],
+    '27ea93f7-92c0-5018-870e-f44bd618665f' => [
+        'From very early on in my childhood - four, five years old - I felt alien to the human race. I felt very comfortable with thinking I was from another planet, because I felt disconnected - I was very tall and skinny, and I didn\'t look like anybody else, I didn\'t even look like any member of my family.',
+        'Patti Smith',
+    ],
+    '7ac47d9b-b887-5449-b70f-221fdca4a983' => [
+        'I can see how you could get dragged into the bad stuff, but I\'ve got good friends around me, good family. I think I\'ve got my head screwed on.',
+        'Harry Styles',
+    ],
+    '3c1f6e5e-8080-5148-8570-bb8896d7a026' => [
+        'Sales are contingent upon the attitude of the salesman - not the attitude of the prospect.',
+        'W. Clement Stone',
+    ],
+    '1dc17368-7eb8-5c1d-b8ee-e410b5a0178f' => [
+        'I live and work alone and travel light, relying largely on my memory and making a point of letting intuition guide my way.',
+        'Lyall Watson',
+    ],
+    '64a560f2-7957-51fb-8e2f-213831b8edb9' => [
         'Leonardo Fibonacci, the great 13th century Italian mathematician (1175-1250) created the \'Fibonacci sequence\' to explain behavior in nature mathematically. History has it that the first question he posed was how many rabbits would be created in one year starting with one pair.',
         'Rick Santelli',
     ],

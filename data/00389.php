@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.',
-        'Theodore Roosevelt',
+    'e363e1a9-d8b4-5c38-93a2-f7ea932797d1' => [
+        'Even in winter an isolated patch of snow has a special quality.',
+        'Andy Goldsworthy',
     ],
-    [
-        'Curiosity is the one thing invincible in Nature.',
-        'Freya Stark',
+    '4956ba23-416c-5c84-a6ab-ca89d2ff0c75' => [
+        'I\'m an addict, I\'m addicted to success. Thankfully, there\'s no rehab for success.',
+        'Lil Wayne',
     ],
-    [
-        'The way that people feel changes everything. Feelings are forces. They cause us to time travel. And to leave ourselves, to leave our bodies. I would be that kind of psychologist who says, \'You\'re absolutely right - there are monsters under the bed.\'',
-        'Helen Oyeyemi',
+    'ccb25cc1-e291-5d19-b98b-7e9e6a356125' => [
+        'Our criminal justice system is fallible. We know it, even though we don\'t like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.',
+        'Eliot Spitzer',
     ],
-    [
-        'Both my best and my worst habit is that I\'m very impulsive.',
-        'Tove Lo',
+    '5cc22637-402b-518d-b97d-622215a64c51' => [
+        'I think women have to change their hairstyle from time to time.',
+        'Yulia Tymoshenko',
     ],
-    [
-        'A pessimist is a person who has had to listen to too many optimists.',
-        'Don Marquis',
+    'cfc143f0-74ef-55fb-92f6-524e37025efb' => [
+        'At Netflix, we think you have to build a sense of responsibility where people care about the enterprise. Hard work, like long hours at the office, doesn\'t matter as much to us. We care about great work.',
+        'Reed Hastings',
     ],
-    [
-        'No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none.',
-        'Henry Kissinger',
+    '2cbb3974-63cc-52e3-91f8-efa489f0d186' => [
+        'The cool wind blew in my face and all at once I felt as if I had shed dullness from myself. Before me lay a long gray line with a black mark down the center. The birds were singing. It was spring.',
+        'Burl Ives',
     ],
-    [
-        'There is no forgiveness in nature.',
-        'Ugo Betti',
+    'cb7cb9d0-403b-5ddf-b7af-724478dbfd22' => [
+        'The person lives twice who lives the first life well.',
+        'Adam Gopnik',
     ],
-    [
-        'Success breeds complacency. Complacency breeds failure. Only the paranoid survive.',
-        'Andy Grove',
+    '3453a748-c68d-5793-a8ca-4704f90c0e44' => [
+        'Happiness does not come from having much, but from being attached to little.',
+        'Cheng Yen',
     ],
-    [
-        'What is important in life is life, and not the result of life.',
-        'Michel de Montaigne',
+    '55c6438e-d1bc-5c74-a5e8-85f06b40a3d1' => [
+        'The first condition of understanding a foreign country is to smell it.',
+        'Rudyard Kipling',
     ],
-    [
-        'I am pleased to say that I am not a tortured comedian - I laugh a lot. My twenties weren\'t particularly happy, but it\'s the same for a lot of people. In your thirties, you realise that your life and your worries are really insignificant, and you have to force yourself to be more positive and take each day as a gift.',
-        'Miranda Hart',
+    'a9c600ef-de3a-5b7b-9f84-1d088f623998' => [
+        'I think journaling is a key to success. You can set clear goals for yourself. You can start noticing repetitive behavior patterns and see the type of things that keep bothering you, and then you can have a bird\'s eye view of it.',
+        'Eric Andre',
     ],
-    [
-        'If you think you can do it, you can.',
-        'John Burroughs',
+    '48f40c3f-2813-589a-991f-42ce1af702ac' => [
+        'Family means no one gets left behind or forgotten.',
+        'David Ogden Stiers',
     ],
-    [
-        'Life is not a matter of holding good cards, but sometimes, playing a poor hand well.',
-        'Thomas Jefferson',
+    '655a1458-1dfc-5d86-9cd7-c6cb59da6bd6' => [
+        'Do not fear mistakes - there are none.',
+        'Miles Davis',
     ],
-    [
-        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
-        'Michelangelo',
+    '2ac3965d-2f98-53fc-b9e8-c398a198e841' => [
+        'Whatever we expect with confidence becomes our own self-fulfilling prophecy.',
+        'Brian Tracy',
     ],
-    [
-        'I believe with great fortunes come great responsibility, so with our family\'s assets and many wealthy friends, we could help raise a lot of money to help others.',
-        'Eric Trump',
+    '23c1a615-4385-5b63-a990-30c944465f25' => [
+        'Know the true value of time; snatch, seize, and enjoy every moment of it. No idleness, no laziness, no procrastination: never put off till tomorrow what you can do today.',
+        'Philip Stanhope, 4th Earl of Chesterfield',
     ],
-    [
-        'Motivation is the art of getting people to do what you want them to do because they want to do it.',
-        'Dwight D. Eisenhower',
+    '47ba6bce-f909-5d34-8617-d356ec826162' => [
+        'Don\'t turn away from possible futures before you\'re certain you don\'t have anything to learn from them.',
+        'Richard Bach',
     ],
-    [
-        'Everybody\'s got a job to do, and I do mine as best I can.',
-        'Marlee Matlin',
+    'd02be3e6-b83e-5452-9dc1-a7c3636fe6b1' => [
+        'Light tomorrow with today!',
+        'Elizabeth Barrett Browning',
     ],
-    [
-        'Everyone has at least one story, and each of us is funny if we admit it. You have to admit you\'re the funniest person you\'ve ever heard of.',
-        'Maya Angelou',
+    '74f477fa-5750-5e0b-b11f-af12ce9403d7' => [
+        'I firmly believe that unless one has tasted the bitter pill of failure, one cannot aspire enough for success.',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        '\'UFO\'s\' attitude toward the subject is very similar to mine. It\'s not an advocacy; its philosophy is more \'I want to believe this, but I want it proved.\'',
-        'Dwight Schultz',
+    '07d85064-aa40-5640-ba10-c620a2ca34c0' => [
+        'Even if people do wrong, we\'re social animals, so what can we do about stopping them doing the same things in future? Saying people are \'bad\' or \'evil\' is just an unwillingness to engage; an unwillingness to try to empathise. That sanctimonious attitude doesn\'t help anyone.',
+        'Denise Mina',
     ],
-    [
-        'Everything that exists is in a manner the seed of that which will be.',
-        'Marcus Aurelius',
+    '8e9467ee-045c-58e8-8c80-4b35eeef09ac' => [
+        'Doing what you love is the cornerstone of having abundance in your life.',
+        'Jean Paul',
     ],
-    [
-        'I work hard. I focus on myself and putting food on my dinner table before anything else. I don\'t worry about other artists. Worrying about the next person in a negative way is the wrong way to be.',
-        'Meek Mill',
+    'a19eed6e-14f6-5579-b296-6c5c56a7c2e6' => [
+        'Joy is what happens to us when we allow ourselves to recognize how good things really are.',
+        'Marianne Williamson',
     ],
-    [
-        'When I first decided I was going to have a go at writing a book - and really, it was a mid-life crisis - I was 39. I was in business with my husband; we had a very busy lifestyle and quite a hectic schedule running this flourishing business in travel, and I found myself waking up and realising that I didn\'t want to do this anymore.',
-        'Fiona McIntosh',
+    '7c000662-5d8b-5aed-a740-96978d50b8ee' => [
+        'Smile, smile, smile at your mind as often as possible. Your smiling will considerably reduce your mind\'s tearing tension.',
+        'Sri Chinmoy',
     ],
-    [
-        'Hatred is corrosive of a person\'s wisdom and conscience; the mentality of enmity can poison a nation\'s spirit, instigate brutal life and death struggles, destroy a society\'s tolerance and humanity, and block a nation\'s progress to freedom and democracy.',
-        'Jim Rohn',
+    '8ba7cf19-e2b8-51a5-a9c1-13226924310c' => [
+        'Anyone with a heart, with a family, has experienced loss. No one escapes unscathed. Every story of separation is different, but I think we all understand that basic, wrenching emotion that comes from saying goodbye, not knowing if we\'ll see that person again - or perhaps knowing that we won\'t.',
+        'Luanne Rice',
     ],
-    [
-        'Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.',
-        'Hasidic saying',
+    'a9203ed2-6fd6-52f0-8859-7ef6df0ef938' => [
+        'In today\'s world, social media, people get judged so much by the last thing that happened, I almost feel, in a way, young people get to see that not only is it OK to fail - that\'s the way you get to championship success, whether it\'s sports or business or life.',
+        'Dan Gilbert',
     ],
-    [
-        'A man sees in the world what he carries in his heart.',
-        'Johann Wolfgang von Goethe',
+    '87bb8b6a-251a-5857-84ac-f935ace61458' => [
+        'Fame usually comes to those who are thinking about something else.',
+        'Holmes',
     ],
-    [
-        'No rational argument will have a rational effect on a man who does not want to adopt a rational attitude.',
-        'Karl Popper',
+    '947e9afb-381e-5451-8f79-2ba3e80bf464' => [
+        'Things don\'t just happen in this world of arising and passing away. We don\'t live in some kind of crazy, accidental universe. Things happen according to certain laws, laws of nature. Laws such as the law of karma, which teaches us that as a certain seed gets planted, so will that fruit be.',
+        'Sharon Salzberg',
     ],
 ];

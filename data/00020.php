@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I thought one should have the attitude of \'What do you care what other people think!\'',
-        'Richard P. Feynman',
+    'c4933d47-1b5a-5c1c-83a9-9409f1dad85b' => [
+        'Everything you need for better future and success has already been written. And guess what? All you have to do is go to the library.',
+        'Henri Frederic Amiel',
     ],
-    [
-        'Only one thing can conquer war - that attitude of mind which can see nothing in war but destruction and annihilation.',
-        'Ludwig von Mises',
+    '42d67f35-0996-58a5-87dd-a184e502e66c' => [
+        'Life experience is what defines our character, even if it means getting your heart broken or being lied to. You know, you need the downs to appreciate the ups. Going on the adventure or taking that risk is important.',
+        'Victor Hugo',
     ],
-    [
-        'Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are.',
-        'Richard Branson',
+    'b576c76c-0dd7-508f-a0e3-6c1f5389a7e8' => [
+        'I think the best thing about being pregnant would definitely have to be seeing just my belly grow and seeing, like, wow, there is, you know, something inside of me.',
+        'Tia Mowry',
     ],
-    [
-        'When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another.',
-        'Helen Keller',
+    '3a2bbd61-1033-5a91-945e-a8b42647fcda' => [
+        'There are three principal means of acquiring knowledge... observation of nature, reflection, and experimentation. Observation collects facts; reflection combines them; experimentation verifies the result of that combination.',
+        'Denis Diderot',
     ],
-    [
-        'We didn\'t even think about it, you know? I used to collect laser discs, and you\'d have some college professor analyzing It\'s a Wonderful Life or Citizen Kane, and now it is pretty funny - the idea of commentary for a silly kid\'s movie, you know?',
-        'Dana Carvey',
+    'df32dfd1-787c-54f8-80af-22e699169a49' => [
+        'I don\'t want to let my guard down and feel too comfortable. If you become complacent, you start feeling entitled. I\'m ready to go dig ditches if I have to. Whatever I gotta do to provide for my family. Whatever I gotta do to make sure that I do the best possible job at whatever wonderful opportunities I\'ve been handed.',
+        'Mark Wahlberg',
     ],
-    [
-        'I do not expect the white media to create positive black male images.',
-        'Huey Newton',
+    '0f0f2370-7a01-52a3-827a-b83e57dea34d' => [
+        'Every exit is an entry somewhere else.',
+        'Tom Stoppard',
     ],
-    [
-        'Bob Dylan has always sealed his decisions with the unexplainable. His motives for withholding the release of the magnificent \'Basement Tapes\' will be as forever obscure as Brian Wilson\'s reasons for the destruction of the tapes for \'Smile.\'',
-        'Jon Landau',
+    '939db077-24de-550d-a3ba-87f3fd9da59d' => [
+        'As I travel the world, it seems that younger people identify me merely with some of the folklore in the \'Chuck Norris Facts\' - those hyperbolic sayings that elevate my abilities beyond my capabilities. Others view me in light of the character I played in \'Walker, Texas Ranger\' or in one of my 20 tough-guy films.',
+        'Chuck Norris',
     ],
-    [
-        'We become what we think about.',
-        'Earl Nightingale',
+    'b6e79258-d24d-5cfd-9d01-db07a0885ceb' => [
+        'He is able who thinks he is able.',
+        'Buddha',
     ],
-    [
-        'Choose your corner, pick away at it carefully, intensely and to the best of your ability and that way you might change the world.',
-        'Charles Eames',
+    '6bb8ed60-64bd-598e-b006-1633e545955b' => [
+        'Whenever I run into prejudice. I smile and feel sorry for them, and I say to myself, There\'s one more argument for birth control.',
+        'Freddy Fender',
     ],
-    [
-        'Sweeter than the perfume of roses is a reputation for a kind, charitable, unselfish nature; a ready disposition to do to others any good turn in your power.',
-        'Orison Swett Marden',
+    'cda6324e-059a-5440-a5d1-c2e0722c72fb' => [
+        'They can do all because they think they can.',
+        'Virgil',
     ],
-    [
-        'I refuse to dress \'hot\' for Halloween, \'cause I always have to have makeup and hair and look cute for my job. So on Halloween, I either go gory or weird or funny.',
-        'Rachel Platten',
+    '7b9b3e37-2c8c-51f8-a856-b886a752858e' => [
+        'No bird soars too high if he soars with his own wings.',
+        'William Blake',
     ],
-    [
-        'The number of people with HIV receiving Medicare benefits has grown over time, reflecting growth in the size of the of the HIV positive population in the U.S. but also an increased lifespan for people with HIV due to antiretroviral medicines and other treatment advances.',
-        'David Mixner',
+    '0264048f-36c4-551e-820e-501d83559e2c' => [
+        'Comedy is simply a funny way of being serious.',
+        'Peter Ustinov',
     ],
-    [
-        'I don\'t regret what I\'ve been through. I\'ve had ups and downs, super highs and some really low lows. I\'ve been so blessed that I could never say, \'I wish this didn\'t happen.\' It\'s part of who I am. There\'s nothing in my life that\'s so ugh.',
-        'Lil\' Kim',
+    '4c079e50-c9ca-59f0-ada8-787d4913c5dd' => [
+        'Sharks are among the most perfectly constructed creatures in nature. Some forms have survived for two hundred million years.',
+        'Eugenie Clark',
     ],
-    [
-        'Arriving at one goal is the starting point to another.',
-        'John Dewey',
+    'f713dfce-6151-5c89-b99f-9bff9f81c690' => [
+        'God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it.',
+        'Steve Harvey',
     ],
-    [
-        'My mom keeps me going, man. She deserves such a good life. I just wanna give it to her. My dad, too. My family, my friends, they keep me motivated. Just knowing my personal legend, just knowing what I\'m supposed to do, that keeps me going.',
-        'Big Sean',
+    '0021794f-8951-529f-aa33-f98bf95a8323' => [
+        'I think \'Heroes of Cosplay\' will show a lot of the positive things, like how much effort it takes to make a costume. These people on the show aren\'t taking shortcuts. As long as that effort gets through to the viewers, we will be inspirational. Then there will be people who watch the show that want to get in and hands-on make outfits.',
+        'Yaya Han',
     ],
-    [
-        'Beauty is everlasting And dust is for a time.',
-        'Marianne Moore',
+    '2ee0cdf0-a5d5-5bb6-8651-828144cf776c' => [
+        'A man is great by deeds, not by birth.',
+        'Chanakya',
     ],
-    [
-        'It really is an honor if I can be inspirational to a younger singer or person. It means I\'ve done my job.',
-        'Aretha Franklin',
+    '3c0b3bd3-5734-5c25-b658-fea83d3ac56c' => [
+        'Beauty is not in the face; beauty is a light in the heart.',
+        'Kahlil Gibran',
     ],
-    [
-        'Beauty in distress is much the most affecting beauty.',
-        'Edmund Burke',
+    '815061de-d6f4-5346-9bf0-b07be6d8027c' => [
+        'Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don\'t give up.',
+        'Anne Lamott',
     ],
-    [
-        'Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.',
-        'Abraham Lincoln',
+    '12d78132-1e38-53ae-8b6c-2b0778d10e6b' => [
+        'If you look at a painting that you love by one of the great masters, every time you go back to it, you see something different - a different attitude or brushstroke. \'Hamlet\' is like an entire gallery of old masters.',
+        'Rory Kinnear',
     ],
-    [
-        'I want to extend my gratitude and thankfulness to all those who care and love my family and myself, and our situation, especially the American people who show their care about the quality of justice as a universal value and I\'m very grateful to all of you.',
-        'Chen Guangcheng',
+    '16b5f6cf-600c-5b11-bcaa-297a56091423' => [
+        'Positive thinking is so firmly enshrined in our culture that knocking it is a little like attacking motherhood or apple pie.',
+        'Srikumar Rao',
     ],
-    [
-        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
-        'Francis Chan',
+    'f746efca-1d8c-52ae-b901-dc55346784ad' => [
+        'Lady Gaga is the present and the future. She is the most revolutionary and inspirational artist. She is fearless and daring.',
+        'Donatella Versace',
     ],
-    [
-        'Honestly, I like someone who is really grounded, super sweet, honest. I need them to have a sense of humor. I need them to laugh at what\'s funny, I need them to get jokes and be funny and be witty and sarcastic.',
-        'Casper Smart',
+    '96cafaf3-2a0a-5d07-b279-ddc51a14d35d' => [
+        'When the negative thoughts come - and they will; they come to all of us - it\'s not enough to just not dwell on it... You\'ve got to replace it with a positive thought.',
+        'Joel Osteen',
     ],
-    [
-        'Success is tricky to deal with, both professionally and in your personal life.',
-        'Ewan McGregor',
+    'e3b9b42c-824b-59f0-a491-81d113dc675d' => [
+        'We can change our lives. We can do, have, and be exactly what we wish.',
+        'Tony Robbins',
     ],
-    [
-        'Life has a funny way of becoming ordinary as soon as it can.',
-        'Colm Toibin',
+    '05bef8d1-e80b-5164-8b38-949823efad98' => [
+        'I pretend I\'m one of the royal family when I\'m in a hotel and that the hotel belongs to me - it is a palace.',
+        'Martin Short',
     ],
-    [
-        'In the first six to twelve months of a war with the United States and Great Britain I will run wild and win victory upon victory. But then, if the war continues after that, I have no expectation of success.',
-        'Isoroku Yamamoto',
+    '33a76b6d-23d4-5455-a8e1-ef11558f6b0c' => [
+        'If a man neglects education, he walks lame to the end of his life.',
+        'Rosa Parks',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Why don\'t you start believing that no matter what you have or haven\'t done, that your best days are still out in front of you.',
-        'Joel Osteen',
+    'e9a2390e-3139-59aa-9b2b-99325adf9320' => [
+        'Let go of your attachment to being right, and suddenly your mind is more open. You\'re able to benefit from the unique viewpoints of others, without being crippled by your own judgement.',
+        'Ralph Marston',
     ],
-    [
-        'Every girl should use what Mother Nature gave her before Father Time takes it away.',
-        'Laurence J. Peter',
+    '33783c4c-e64e-5b41-8d27-69acce485f1d' => [
+        'We Orientals find beauty not only in the thing itself but in the pattern of the shadows, the light and darkness which that thing provides.',
+        'Junichiro Tanizaki',
     ],
-    [
-        'If you\'re successful, it\'s important to enjoy it! I love shopping for clothes, branded clothes. I love shopping in England, Dubai. I like to travel whenever I can.',
-        'Suresh Raina',
+    '7424e825-f217-5a70-8484-7c229521e240' => [
+        'Look in the mirror... That\'s your competition.',
+        'Anonymous',
     ],
-    [
-        'We didn\'t ever want \'Tarzan\' to feel like he was just a man. We didn\'t want him to stand up straight or wave good-bye. We wanted to make sure he always had that piece of gorilla in him, that he always had an animal attitude about him.',
-        'Kevin Lima',
+    '817ea952-7c57-55ce-aa23-177268040947' => [
+        'We must walk consciously only part way toward our goal, and then leap in the dark to our success.',
+        'Henry David Thoreau',
     ],
-    [
-        'My best vacation memory is getting barreled at the beach in Hawaii.',
-        'Troy Polamalu',
+    '10365354-689a-5976-9dbf-6e65908a166f' => [
+        'I have a lot of friends, but my biggest fear is loneliness. I miss my family in Mumbai, and my biggest nightmare every day is to go back home alone.',
+        'Deepika Padukone',
     ],
-    [
-        'To photograph truthfully and effectively is to see beneath the surfaces and record the qualities of nature and humanity which live or are latent in all things.',
-        'Ansel Adams',
+    'b3b15728-3c8f-54c6-b88e-d5aadc50fbf3' => [
+        'The meaning of life is contained in every single expression of life. It is present in the infinity of forms and phenomena that exist in all of creation.',
+        'Leonardo da Vinci',
     ],
-    [
-        'In motivating people, you\'ve got to engage their minds and their hearts. I motivate people, I hope, by example - and perhaps by excitement, by having productive ideas to make others feel involved.',
-        'Rupert Murdoch',
+    'fcb60e13-0e40-514e-bee1-ec38356e7a4c' => [
+        'You can\'t make positive choices for the rest of your life without an environment that makes those choices easy, natural, and enjoyable.',
+        'Deepak Chopra',
     ],
-    [
-        'I have an interest in understanding evil. Who is the bad guy - the vampire who kills people and sucks their blood, or the survivalists who kill people to save their own lives? Is evil merely a creation of people? Or is there an evil nature? Or is it in the eye of the beholder? I really like these questions.',
-        'Lois Tilton',
+    'ddc3c2f6-9b2b-575c-86ec-9a5cde10b6d6' => [
+        'The distance, being far away from your home, from your family, that\'s not easy. There are times when you say, \'Wow, what a fight, what a battle.\'',
+        'Rodrigo Santoro',
     ],
-    [
-        'If you don\'t like something, change it. If you can\'t change it, change your attitude.',
-        'Maya Angelou',
+    '8670e778-c490-5c70-950b-dcf310f93f2c' => [
+        'I can handle the craziness some of the time, maybe most of the time. But I know I can\'t handle it all of the time.',
+        'Chris Evans',
     ],
-    [
-        'The Twenties have this sort of attitude where you never know what\'s around the corner.',
-        'Laura Carmichael',
+    'e396bc41-b22d-5297-881f-8fdfa22ba7cc' => [
+        'An optimist is a fellow who believes a housefly is looking for a way to get out.',
+        'George Jean Nathan',
     ],
-    [
-        'One who is too insistent on his own views, finds few to agree with him.',
-        'Lao Tzu',
+    'ef7ee49f-d344-5b2d-a0cb-29e0d23d0634' => [
+        'It\'s not who\'s the best - it\'s who can take the most pain.',
+        'Steve Prefontaine',
     ],
-    [
-        'Even out of severe difficulty, some positive things come.',
-        'Jose Carreras',
+    '1a57bd48-a00d-557a-ac78-05f4a6c78411' => [
+        'I know a lot of aesthetically beautiful women who are not nice people, and they do not come across as beautiful to me. I think the number one thing for beauty is a smile. I love a woman with a beautiful smile.',
+        'Sara Foster',
     ],
-    [
-        'A dog will teach you unconditional love. If you can have that in your life, things won\'t be too bad.',
-        'Jimmy Dean',
+    'fdae0f24-87cc-520d-8702-f7c00322303f' => [
+        'Expect the best, Prepare for the worst.',
+        'Muhammad Ali Jinnah',
     ],
-    [
-        'Natural beauty really entices men. They will tell you this time and time again, and studies consistently prove it.',
-        'Helen Fisher',
+    '1924df7d-e1de-5891-bdbf-0a976bb1ed98' => [
+        'The past cannot be changed. The future is yet in your power.',
+        'Unknown',
     ],
-    [
-        'Red carpets seem so glamorous, but you\'re really just standing there sweating and worrying your hair is going to fall. And in the end, people are only going to see one picture of you. You just smile for one second and then you walk over to the side and check your phone. It\'s pretty weird.',
-        'Morgan Saylor',
+    'ca18dae9-1c3e-5fc6-a814-fdadfb988270' => [
+        'I\'m not looking for anything more than any other guy. I like a good smile. Pretty eyes. She has to be active, like not play-sports active, but she\'ll play air hockey, do some pool, go for rides on the Santa Monica Pier. I would much rather have fun with her than do the cool thing.',
+        'Mitchel Musso',
     ],
-    [
-        'The single most important key to success is to be a good listener.',
-        'Kelly Wearstler',
+    '94ca6f94-db31-5188-a34f-7e0924235fc0' => [
+        'Later in my life, I\'m going to look back and smile and be very fulfilled. I know that if I don\'t give it my all right now I\'ll regret it later. That\'s very important to me, because I\'ve worked all my life to have this.',
+        'Shania Twain',
     ],
-    [
-        'The way taxes are, you might as well marry for love.',
-        'Joe E. Lewis',
+    'd00f8414-c9fa-5e38-a93c-e87d14837385' => [
+        'The best way to look at any business is from the standpoint of the clients.',
+        'Jamie Dimon',
     ],
-    [
-        'Every time I start to get worked up over something, I just think to myself, \'Is this really going to matter in my life tomorrow, in an hour, in a year?\' You just can\'t get stressed about the little things \'cause it\'s just not worth it at the end of the day.',
-        'Kylie Jenner',
+    '05dea4e5-5051-5733-a350-6c6b502bed10' => [
+        'It\'s funny the way most people love the dead. Once you are dead, you are made for life.',
+        'Jimi Hendrix',
     ],
-    [
-        'You shouldn\'t get too close to the truth, because then maybe you stop being funny.',
-        'Bob Newhart',
+    '1489fe95-3a08-5836-93ab-5359656f1865' => [
+        'The history of science shows that theories are perishable. With every new truth that is revealed we get a better understanding of Nature and our conceptions and views are modified.',
+        'Nikola Tesla',
     ],
-    [
-        'I developed a problem with authority. Any time that authority was what I interpreted as being unjust, I stood up to it, and that became my personality.',
-        'Tom Petty',
+    '2b4e4a66-419e-5d45-9885-0582ae00cc6e' => [
+        'Work is the curse of the drinking classes.',
+        'Oscar Wilde',
     ],
-    [
-        'It scares you: all the noise, the rattling, the shaking. But the look on everybody\'s face when you\'re finished and packing, it\'s the best smile in the world; and there\'s nobody hurt, and the well\'s under control.',
-        'Red Adair',
+    'ec0b99c0-66f9-5066-a55d-8484855acf0d' => [
+        'After a point of time, when you get success and fame, money and everything, the purpose of life has to be redefined. For me, I think that purpose is to build bridges. Artists can do that very easily, more than politicians.',
+        'A. R. Rahman',
     ],
-    [
-        'If you\'re going to do something, you\'re going to do it to be the best.',
-        'Colin Kaepernick',
+    '0101c959-4255-5439-8007-4aee148ceffe' => [
+        'As a child, I was aware of the widely-held attitude that the ocean is so big, so resilient that we could use the sea as the ultimate place to dispose of anything we did not want, from garbage and nuclear wastes to sludge from sewage to entire ships that had reached the end of their useful life.',
+        'Sylvia Earle',
     ],
-    [
-        'You know, there\'s nothing like seeing the smile on my kids\' faces. Laughing together. Playing. It\'s the best.',
-        'Mark Wahlberg',
+    '81251edf-a175-558c-87e8-8f20112e397c' => [
+        'To fly, we have to have resistance.',
+        'Maya Lin',
     ],
-    [
-        'The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.',
-        'Henry Miller',
+    '8ca6e609-e52d-5f5c-b297-62f3ab25139b' => [
+        'Nature is something outside our body, but the mind is within us.',
+        'Bhumibol Adulyadej',
     ],
-    [
-        'Becoming a father increases your capacity for love and your level of patience. It opens up another door in a person - a door which you may not even have known was there. That\'s what I feel with my son. There\'s suddenly another level of love that expands. My son is my greatest joy, out of everything in my life.',
-        'Langston Hughes',
+    '770595eb-8b15-56f1-bf13-f4753c51c020' => [
+        'I want to go ahead of Father Time with a scythe of my own.',
+        'H. G. Wells',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Poetry lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar.',
-        'Percy Bysshe Shelley',
+    'e4515666-ec3d-5a2e-9bbd-c2e22e875a57' => [
+        'When nature has work to be done, she creates a genius to do it.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'Positive thinking is so firmly enshrined in our culture that knocking it is a little like attacking motherhood or apple pie.',
-        'Srikumar Rao',
+    '52bb3c87-18c0-5ba8-b8d0-740e2e76e270' => [
+        'The heart has its reasons which reason knows not of.',
+        'Blaise Pascal',
     ],
-    [
-        'Japan, not only a mega-busy city that thrives on electronics and efficiency, actually has an almost sacred appreciation of nature. One must travel outside of Tokyo to truly experience the \'old Japan\' and more importantly feel these aspects of Japanese culture.',
-        'Apolo Ohno',
+    'fecdc33f-cb0e-59fa-b478-01071ff1e44c' => [
+        'The willow is my favorite tree. I grew up near one. It\'s the most flexible tree in nature and nothing can break it - no wind, no elements, it can bend and withstand anything.',
+        'Pink',
     ],
-    [
-        'I\'m enthusiastic and ambitious, and I work hard.',
-        'Jason Statham',
+    'f7da58d7-44a9-5e90-98f8-01d04bab7436' => [
+        'I think it takes a strong man to be in a relationship with a strong woman. A lot of people hear the word \'diva\' and think of it as a negative. I see it as a positive. I want somebody who knows what they want out of life and isn\'t afraid to show it.',
+        'Nick Cannon',
     ],
-    [
-        'People are fighting over how our heartsongs are different. But they don\'t need to be the same. That\'s the beauty. We are a mosaic of gifts. Each of us has our inner beauty no matter how we look.',
-        'Mattie Stepanek',
+    'a5979092-971a-5483-bf5b-12fe0259b82d' => [
+        'I am a passionate traveler, and from the time I was a child, travel formed me as much as my formal education. In order to appreciate cultures of another nation, one needs to go there, know the people and mingle with the culture of that country. One way to do that, if one is lucky enough, is to buy things from those cultures.',
+        'David Rockefeller',
     ],
-    [
-        'For whatever trauma came with service in tough circumstances, we should take what we learned - take our post-traumatic growth - and, like past generations coming home, bring our sharpened strengths to bear, bring our attitude of gratitude to bear.',
-        'James Mattis',
+    'a52a8c34-cd63-5bb5-b6f8-a3681c4073f9' => [
+        'The price of greatness is responsibility.',
+        'Winston Churchill',
     ],
-    [
-        'Ask yourself the secret of your success. Listen to your answer, and practice it.',
-        'Richard Bach',
+    '0872d96e-ac92-5046-a368-7d104229537b' => [
+        'We must go beyond textbooks, go out into the bypaths and untrodden depths of the wilderness and travel and explore and tell the world the glories of our journey.',
+        'John Hope Franklin',
     ],
-    [
-        'The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.',
-        'Eckhart Tolle',
+    'e9716ac1-e736-5ddf-9a14-bfca2c8e1315' => [
+        'Success is a high, but the way up is hard, and you have to give your all.',
+        'Randeep Hooda',
     ],
-    [
-        'I don\'t want to be linked to anything negative. I don\'t want negative energy. I want everything positive around me.',
-        'Kendra Wilkinson',
+    '4a986bbb-ec1e-5215-8ee9-1b40d7d9fd88' => [
+        'The work of healing is not my work, but by faith, healing is done. The work of deliverance, great and mighty deliverance, is not my work but is my faith in Him. It is not the works of righteousness which I have done, but according to His grace. I am a product of His grace.',
+        'T. B. Joshua',
     ],
-    [
-        'A mode of conduct, a standard of courage, discipline, fortitude and integrity can do a great deal to make a woman beautiful.',
-        'Jacqueline Bisset',
+    '15fdcaa6-8be8-55be-a177-8141e451c87c' => [
+        'You fight, you try your best, but if you lose, you don\'t have to break five racquets and smash up the locker room. You can do those things, but when you\'ve finished, nothing\'s changed. You\'ve still lost. If something positive came from that, I probably would do it. But I see only negativity.',
+        'Rafael Nadal',
     ],
-    [
-        'It\'s been proven by quite a few studies that plants are good for our psychological development. If you green an area, the rate of crime goes down. Torture victims begin to recover when they spend time outside in a garden with flowers. So we need them, in some deep psychological sense, which I don\'t suppose anybody really understands yet.',
-        'Jane Goodall',
+    '9ca2c4e7-5fda-5e13-b3e2-41e035126338' => [
+        'I come from a place where everything about me, even my body language, is saying: I mean you no harm. I smile, I laugh. Basic stuff for most people.',
+        'Oscar Isaac',
     ],
-    [
-        'Every human being is the author of his own health or disease.',
-        'Buddha',
+    'e7177f48-85fb-5d59-b60c-7936207cd798' => [
+        'What you do not want done to yourself, do not do to others.',
+        'Confucius',
     ],
-    [
-        'Shoot for the moon and if you miss you will still be among the stars.',
-        'Les Brown',
+    '8a6b6ed8-a022-50de-9676-29d33e73fc27' => [
+        'It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves.',
+        'Thornton Wilder',
     ],
-    [
-        'I grew up very differently than a lot of other people in my hometown in Mississippi. But I can\'t imagine my life any other way. I flew home and surprised my best friend at his graduation, and I remember turning to my mom and saying, \'My graduation was so much cooler than this.\' I had Melissa Joan Hart give my commencement speech.',
-        'Friedrich Nietzsche',
+    'e67eab43-7eaa-550b-8ebc-0922ceefd9aa' => [
+        'Life is all about having a good time.',
+        'Miley Cyrus',
     ],
-    [
-        'I look at it like this: that if Shakespeare were alive today, he would have written two or three plays about the Kennedy family, and actors would traditionally play JFK like they Hamlet or King Lear. They just would. I mean, people have played JFK, and they\'ll play him long after I have.',
-        'Rob Lowe',
+    '14acd225-e071-58f8-bbcf-c0ba6975e85e' => [
+        'My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed.',
+        'Mark Warner',
     ],
-    [
-        'Beauty is an ecstasy; it is as simple as hunger. There is really nothing to be said about it. It is like the perfume of a rose: you can smell it and that is all.',
-        'W. Somerset Maugham',
+    '98f48f89-a297-5a63-844f-7b127be4e248' => [
+        'Much effort, much prosperity.',
+        'Euripides',
     ],
-    [
-        'I was a little doubtful about the propriety of going to the Mammoth Cave without a gentleman escort, but if two ladies travel alone they must have the courage of men.',
-        'Maria Mitchell',
+    '8da18a12-964f-51c0-87c1-a6018ae3ba65' => [
+        'For me beauty is valued more than anything - the beauty that is manifest in a curved line or in an act of creativity.',
+        'Oscar Niemeyer',
     ],
-    [
-        'Abortion isn\'t a lesser evil, it\'s a crime. Taking one life to save another, that\'s what the Mafia does. It\'s a crime. It\'s an absolute evil.',
-        'Steve Jobs',
+    'd60f4b42-d6ae-5b43-823c-cf1f2e120628' => [
+        'One of the best paradoxes of leadership is a leader\'s need to be both stubborn and open-minded. A leader must insist on sticking to the vision and stay on course to the destination. But he must be open-minded during the process.',
+        'Simon Sinek',
     ],
-    [
-        'Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.',
-        'Lao Tzu',
+    '8ba7e9a7-d887-5c95-8dc3-6c6cbc798730' => [
+        'We don\'t have enough support for maternal leave and the kinds of things that some of the European countries do. So we still make it hard on women to go into the work force and feel that they can be good at work but then doing the most important job, which is raising your children in a responsible and positive way.',
+        'Hillary Clinton',
     ],
-    [
-        'When a man and a woman have an overwhelming passion for each other, it seems to me, in spite of such obstacles dividing them as parents or husband, that they belong to each other in the name of Nature, and are lovers by Divine right, in spite of human convention or the laws.',
-        'Nicolas Chamfort',
+    '22f6710c-2171-5ea5-8538-79362402a1fa' => [
+        'During their service, men and women in our Armed Forces live by a common creed, promising never to leave a soldier behind. We should live by the same principle. When our veterans are asked to travel hundreds of miles for care that\'s offered right next door, we simply aren\'t living up to that standard, and something has to change.',
+        'John Delaney',
     ],
-    [
-        'We have what we seek, it is there all the time, and if we give it time, it will make itself known to us.',
-        'Thomas Merton',
+    'c45f437f-1296-533c-a75e-58dfcd5149cc' => [
+        'If you don\'t value your time, neither will others. Stop giving away your time and talents--start charging for it.',
+        'Kim Garst',
     ],
-    [
-        'Another thing I like to do is sit back and take in nature. To look at the birds, listen to their singing, go hiking, camping and jogging and running, walking along the beach, playing games and sometimes being alone with the great outdoors. It\'s very special to me.',
-        'Larry Wilcox',
+    'd6527681-fc6d-525a-a929-d93477e350ea' => [
+        'It is with children that we have the best chance of studying the development of logical knowledge, mathematical knowledge, physical knowledge, and so forth.',
+        'Jean Piaget',
     ],
-    [
-        'Do it now.Sometimes \'later\' becomes \'never\'.',
-        'Anonymous',
+    'f92808d2-07df-56f5-ba66-1c25341a6895' => [
+        'Life could be wonderful if people would leave you alone.',
+        'Travis Bradberry',
     ],
-    [
-        'Money has never made man happy, nor will it, there is nothing in its nature to produce happiness. The more of it one has the more one wants.',
-        'Benjamin Franklin',
+    '2688c029-ee59-5755-8dd5-048e5b462cd5' => [
+        'I think that my biggest attribute to any success that I have had is hard work. There really is no substitute for working hard.',
+        'Maria Bartiromo',
     ],
-    [
-        'Literature is dangerous: it awakens a rebellious attitude in us.',
-        'Mario Vargas Llosa',
+    '4a162af7-a565-50a8-81e8-ea3f51e14397' => [
+        'There are a lot of people who give you the message that maybe you are not good enough, and the best thing you can do for yourself is to block out all of that noise.',
+        'Rachel Platten',
     ],
 ];

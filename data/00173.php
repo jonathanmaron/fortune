@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I am a positive person. I never think of the glass as half empty. I just keep pushing forward.',
-        'Rosie Perez',
+    '572c306b-79ad-5c02-a6c3-e44ee750cd0a' => [
+        'I can, therefore I am.',
+        'Simone Weil',
     ],
-    [
-        'I\'m for whatever gets you through the night.',
-        'Frank Sinatra',
+    'f377ad56-4d61-56f8-b235-248e1d0f673f' => [
+        'I want to make sure I don\'t interfere with the success of that team next year. I don\'t see any way I could go to practice like most of \'em do, and not hurt the team. I\'d go nuts if I tried doing that.',
+        'Bear Bryant',
     ],
-    [
-        'Being confident is the key to life. Don\'t be afraid to be you! I\'m super different from a lot of kids my age with style and personality, and I\'m OK with it. And if you are OK with it, everyone else will be, too. Just be yourself.',
-        'Orison Swett Marden',
+    '4c82d0bf-7f53-5b4f-8052-216fda1a4284' => [
+        'I do not need to hear how I am judged by others. I know by myself if I can be satisfied or not with my work.',
+        'Gianluigi Buffon',
     ],
-    [
-        'I live a good life but a pretty simply life. I just store all my money under my mattress. My wife and I travel, and I bought my dream car, the Cobra.',
-        'Aaron Paul',
+    'ff38db06-eb7a-5d25-b5dd-41e39e0d19e1' => [
+        'I grew up in an era of thinking of travel as escape. The idea that you could conceivably have a new life, go somewhere, fall in love, have little children under the palm trees.',
+        'Paul Theroux',
     ],
-    [
-        'I sit around listening to classical music. I don\'t play video games. I love to go to dinner, go on picnics, travel.',
-        'George A. Romero',
+    '54e3866b-4401-5e19-9230-4d69b3fa1036' => [
+        'The best road to progress is freedom\'s road.',
+        'John F. Kennedy',
     ],
-    [
-        'What would you do if you weren\'t afraid?',
-        'Sheryl Sandberg',
+    '4c58c71a-8315-5bd4-9c12-21526c8d81e1' => [
+        'If people are not laughing at your goals, your goals are too small',
+        'Asim Premji',
     ],
-    [
-        'Well begun is half done.',
-        'Aristotle',
+    'dc4d358f-8e76-553a-be69-4d5897c8b5f7' => [
+        'As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.',
+        'John F. Kennedy',
     ],
-    [
-        'Success is often achieved by those who don\'t know that failure is inevitable.',
-        'Coco Chanel',
+    'ee371d7c-8060-5f2d-ab72-49e9fec4e067' => [
+        'Knock the \'t\' off the \'can\'t\'',
+        'George Reeves',
     ],
-    [
-        'I will form good habits and become their slave. And how will I accomplish this difficult feat? Through these scrolls it will be done, for each scroll contains a principle which will drive a bad habit from my life and replace it with one which will bring me closer to success.',
-        'Og Mandino',
+    '9c6297b3-095e-5526-82d0-b012fa9e94ad' => [
+        'Beware of missing chances; otherwise it may be altogether too late some day.',
+        'Franz Liszt',
     ],
-    [
-        'She felt like a chess player who, by the clever handling of his pieces, sees the game taking the course intended. Her eyes were bright and tender with a smile as they glanced up into his; and her lips looked hungry for the kiss which they invited.',
-        'Kate Chopin',
+    '440275ca-6c49-5285-9bff-d1359a24ba2b' => [
+        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.',
+        'Earl Nightingale',
     ],
-    [
-        'So it allows me to travel, I\'ll be doing that and running these great rivers and doing what I\'ve done in the past without much purpose other than for the experience.',
-        'Richard Dean Anderson',
+    'b4ef1019-4fb1-5ec0-b5f7-2bdb86491388' => [
+        'A strong positive mental attitude will create more miracles than any wonder drug.',
+        'Patricia Neal',
     ],
-    [
-        'Japan is the most intoxicating place for me. In Kyoto, there\'s an inn called the Tawaraya which is quite extraordinary. The Japanese culture fascinates me: the food, the dress, the manners and the traditions. It\'s the travel experience that has moved me the most.',
-        'Roman Coppola',
+    'de8b325c-b189-5a73-902d-190babb0d8c3' => [
+        'You learn more from failure than from success. Don\'t let it stop you. Failure builds character.',
+        'Unknown',
     ],
-    [
-        'It all started when my dog began getting free roll over minutes.',
-        'Jay London',
+    'a3603c92-3897-582f-8a98-30f9ab2a1fbf' => [
+        'I come from that society and there is a common thread, specifically family values - the idea that you do anything for your family, and the unconditional love for one\'s children.',
+        'Ednita Nazario',
     ],
-    [
-        'My progress was rendered delightful by the sylvan elegance of the groves, chearful meadows, and high distant forests, which in grand order presented themselves to view.',
-        'William Bartram',
+    '5213b65a-892b-56b1-9756-bd95cee6a405' => [
+        'It\'s not the size of the dog in the fight, it\'s the size of the fight in the dog',
+        'Mark Twain',
     ],
-    [
-        '\'24\' was so serious that it was nice to join \'NCIS\' and even be able to smile once or twice.',
-        'Annie Wersching',
+    'b6f12118-dd1a-5392-a635-bdce93d5e6ca' => [
+        'We would go back and maybe not say that thing to our dad that we said, or maybe be a little nicer to someone who we cared about and had a relationship with when we were young. You know, they\'re subtle things, but we carry those with us forever. And I think that regret and time travel are intrinsically linked to me.',
+        'Colin Trevorrow',
     ],
-    [
-        'At home in L.A., Sunday is lazy. It\'s the wife and me lying in bed with coffee, watching \'The Soup\' or something funny on TiVo. The kid will occasionally join us. Eventually, breakfast is at a place down the street called Paty\'s. And we always have some kind of great dinner - my wife makes a great roast beef.',
-        'Eric McCormack',
+    '91995b6f-c45b-5b7e-ab4c-6663794a8cb1' => [
+        'Not a shred of evidence exists in favor of the idea that life is serious.',
+        'Mahatma Gandhi',
     ],
-    [
-        'I think music is the greatest art form that exists, and I think people listen to music for different reasons, and it serves different purposes. Some of it is background music, and some of it is things that might affect a person\'s day, if not their life, or change an attitude. The best songs are the ones that make you feel something.',
-        'Eddie Vedder',
+    'c74f68db-2817-5b16-81d0-45c0cb182c8b' => [
+        'You can\'t expect to hit the jackpot if you don\'t put a few nickels in the machine.',
+        'Flip Wilson',
     ],
-    [
-        'Not what we have but what we enjoy constitutes our abundance.',
-        'John Petit-Senn',
+    'e1fd384c-0d9c-5489-8c93-79bd40d66023' => [
+        'If you violate Nature\'s laws you are your own prosecuting attorney, judge, jury, and hangman.',
+        'Luther Burbank',
     ],
-    [
-        'I think the American Dream says that anything can happen if you work hard enough at it and are persistent, and have some ability. The sky is the limit to what you can build, and what can happen to you and your family.',
-        'Sanford I. Weill',
+    '0b9b5585-a7d7-5ab2-a0d9-89f0d82aec15' => [
+        '\'Perfect\' is about a set-up that looks perfect from the outside - beautiful country house, beautiful wife and mother, everything where it should be - and the deep fissures that, in fact, lie beneath that. \'Perfect\' was partly a response to the shock of my first book, \'The Unlikely Pilgrimage Of Harold Fry,\' being a success.',
+        'Rachel Joyce',
     ],
-    [
-        'One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that ones life has meaning, that one is needed in this world.',
-        'Hannah Senesh',
+    '075728d2-1934-53f2-9038-627c0b3ac048' => [
+        'Fear grows in darkness; if you think theres a bogeyman around, turn on the light.',
+        'Dorothy Thompson',
     ],
-    [
-        'I think it\'s great to see how they\'ve grown up, not just as actors but as people. They\'re still very much the same kids that I met many years ago. They\'ve grown up and they are funny and wicked and naughty and bright, and I think as actors their work is just getting better and better. They\'ve blossomed.',
-        'David Heyman',
+    '0c23e28f-1a15-5d40-b8ee-2be710138ca5' => [
+        'Happiness mainly comes from our own attitude, rather than from external factors.',
+        'Dalai Lama',
     ],
-    [
-        'When I first came to America, you know, I would look at the newsstands and see the women on the magazine covers. I had never seen anyone smile the way these girls smile! It\'s like they have nothing to worry about!',
-        'Anchee Min',
+    '2dbfa4b7-fd87-53fb-af3d-c910cb673722' => [
+        'Every child should have a caring adult in their lives. And that\'s not always a biological parent or family member. It may be a friend or neighbor. Often times it is a teacher.',
+        'Joe Manchin',
     ],
-    [
-        'I love Charlie, Billy Burke\'s character. Writing for him is so spectacular, he\'s so funny and wry and every scene he\'s in he just takes. There\'s a scene in \'Eclipse\' where Bella tells him she\'s a virgin, and it\'s the funniest, most awkward scene I\'ve ever seen on film.',
-        'Melissa Rosenberg',
+    'fbcc7e53-64e0-5f9a-ad74-ef6ed16d5a9e' => [
+        'Life is a great sunrise. I do not see why death should not be an even greater one.',
+        'Elisabeth Kubler-Ross',
     ],
-    [
-        'I\'m a real nature lover, so whenever possible, I like to get to the beach or get to a forest or get somewhere there\'s fresh air. Apart from that, I\'m a film addict and a DVD freak.',
-        'Murray Bartlett',
+    '73109adc-d797-5468-991a-2e40de38e412' => [
+        'All the candy corn that was ever made was made in 1911.',
+        'Lewis Black',
     ],
-    [
-        'Please, no matter how we advance technologically, please don\'t abandon the book. There is nothing in our material world more beautiful than the book.',
-        'Patti Smith',
+    'd0b68740-fbb9-5cd3-b922-8b9d3f8d5b05' => [
+        'When I was little, I didn\'t smile much. Don\'t get me wrong. I was a happy kid, but I couldn\'t stand the space, dead center, in between my teeth. Yeah, I could whistle through it, but so what? That didn\'t win me many points on the playground in Medfield, Massachusetts.',
+        'Uzo Aduba',
     ],
 ];

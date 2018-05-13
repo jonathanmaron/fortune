@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Life is hard. After all, it kills you.',
-        'Thomas Jefferson',
+    'f37254e4-5e00-53c5-9a1e-a6a9b31311ed' => [
+        'I seriously feel like the best days are ahead, and I like the idea of getting to do everything I did before but with more knowledge, experience, and street smarts. There\'s a certain love, appreciation, and gratitude that you have at 40 that you don\'t have when you\'re younger, and it makes every accomplishment feel so much better.',
+        'Jennifer Lopez',
     ],
-    [
-        'Qualities you need to get through medical school and residency: Discipline. Patience. Perseverance. A willingness to forgo sleep. A penchant for sadomasochism. Ability to weather crises of faith and self-confidence. Accept exhaustion as fact of life. Addiction to caffeine a definite plus. Unfailing optimism that the end is in sight.',
-        'Voltaire',
+    '27f55a3a-9776-57cb-a4a6-583ae67bf238' => [
+        'The whole infrastructure of air travel was, and is, part of government policy. It is not a natural development of a free economic system - at least not in the way that is claimed. The same is true of the roads, of course.',
+        'Noam Chomsky',
     ],
-    [
-        'I wake up every morning and I feel like I\'m juggling glass balls. I live in Los Angeles, my business is run out of London, and most evenings I\'m cuddled up in front of Skype, in my dressing gown, speaking with my studio in London. I travel a lot, my team travel a lot, but I wouldn\'t have it any other way.',
-        'Victoria Beckham',
+    '77151113-1c3c-5714-a12e-ae4cabd6a9e5' => [
+        'Every second, every day, every year, we fail to address demand for reproductive health and family planning services. Lives are lost, and girls\' opportunities to thrive and contribute to their country\'s development shrink. These are real people.',
+        'Jenny Shipley',
     ],
-    [
-        'Life is a DNA software system.',
-        'Mike Yaconelli',
+    'db2ab33d-17f1-5947-a3ee-2d19f6eed1e9' => [
+        'The days you work are the best days.',
+        'Georgia O\'Keeffe',
     ],
-    [
-        'Bad attitudes will ruin your team.',
-        'Terry Bradshaw',
+    '32fd376b-961a-5747-b593-1658826c0951' => [
+        'Surfers have the most attitude.',
+        'Shaun White',
     ],
-    [
-        'You don\'t have to be the Dalai Lama to tell people that life\'s about change.',
-        'Mary Oliver',
+    '091d1dc4-895a-5349-bda2-9509f56aa5ce' => [
+        'The best argument against democracy is a five-minute conversation with the average voter.',
+        'Winston Churchill',
     ],
-    [
-        'I do love to walk around in New York because people will notice me, smile, but they never bother anyone. New Yorkers are very cool. I love New York.',
-        'Creed Bratton',
+    '6930f0b8-76a6-5ecb-98b0-9f440f89dedb' => [
+        'If you don\'t embrace who you are and accept who you are, you won\'t be able to live a happy life.',
+        'Steve Jobs',
     ],
-    [
-        'If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.',
-        'Henry David Thoreau',
+    'b46cf6b1-77c3-5fb4-b46e-66428cc6d4ae' => [
+        'Art requires philosophy, just as philosophy requires art. Otherwise, what would become of beauty?',
+        'Paul Gauguin',
     ],
-    [
-        'Before you put on a frown, make absolutely sure there are no smiles available.',
-        'Jim Beggs',
+    '30338ccb-d8cc-5354-999c-83f9d92bada8' => [
+        'Work smart. Get things done.',
+        'Susan Wojcicki',
     ],
-    [
-        'Old friends are best.',
-        'John Selden',
-    ],
-    [
-        '\'Do What You Gotta Do\' is a positive, inspirational song that says no matter what it is; whether you\'re up against challenges or trying to get your dreams and aspirations met, you should do what whatever you have to do shy of killing yourself or someone else.',
-        'Angie Stone',
-    ],
-    [
-        'Tomorrow is the most important thing in life. Comes into us at midnight very clean. It\'s perfect when it arrives and it puts itself in our hands. It hopes we\'ve learned something from yesterday.',
-        'John Wayne',
-    ],
-    [
-        'The goal is not to get rich. The goal is to live rich.',
-        'Darren Hardy',
-    ],
-    [
-        'You cannot move things by not moving.',
-        'Suzy Kassem',
-    ],
-    [
-        'You win football games by first getting possession and then running 3- and 5-yard plays. Not by Hail Mary passes. Common sense, elbow grease, and keeping a positive attitude.',
-        'Greg Gianforte',
-    ],
-    [
-        'If you surrender to the wind, you can ride it.',
-        'Toni Morrison',
-    ],
-    [
-        'Concentrate on your job and you will forget your other troubles.',
-        'William Feather',
-    ],
-    [
-        'My attitude is never to be satisfied, never enough, never.',
-        'Duke Ellington',
-    ],
-    [
-        'The most daring thing is to be yourself and to do exactly what you want to do at that point in time and not to be worried with what other people are doing or what\'s popular.',
+    'a77d2cf0-3fc1-5a4e-b366-c58054ae4b14' => [
+        'I have an idea of who I want to be, I have a vision of my own success.',
         'Wiz Khalifa',
     ],
-    [
-        'My attitude about death is, going into the next room, and it\'s a room that the rest of us can\'t get into because we don\'t have the key. But when we do get the key, we\'ll go in there, and we\'ll see one another again, in some shape or form or whatever. It\'s not the end.',
-        'Roger Moore',
+    '51adbe2d-3d46-577a-bd1e-9cd48d625332' => [
+        'I think that ultimately your age is determined by your attitude. It\'s not the number; it\'s not how many wrinkles you have on your face. It\'s the energy that you project.',
+        'Christie Brinkley',
     ],
-    [
-        'Lots of companies don\'t succeed over time. What do they fundamentally do wrong? They usually miss the future.',
-        'Larry Page',
+    '7096471d-b299-5d42-bb23-7bce40469217' => [
+        'I want to travel. Maybe I\'ll end up living in Norway, making cakes.',
+        'Eva Green',
     ],
-    [
-        'When the plane is delayed, it\'s not the fault of the girl at the desk. I\'m resigned to the fact that everything is out of my control and that air travel nowadays is barbaric.',
-        'Tom Conti',
+    'c753d904-6718-583a-a4ed-b9b8d43f9b48' => [
+        'I take work very seriously and telling the truth in my job and professionalism.',
+        'Brittany Murphy',
     ],
-    [
-        'I try to make the good days great and take something positive from the days I\'m not feeling good - work on technique or something like that.',
-        'Katie Ledecky',
+    '87810812-2d6b-5d1a-9007-f22d41eda27e' => [
+        'There have been some positive things that have happened for the tribes, but it\'s a constant, vigilant fight about protecting what resources we have in terms of land and rights.',
+        'John Trudell',
     ],
-    [
-        'I come from that society and there is a common thread, specifically family values - the idea that you do anything for your family, and the unconditional love for one\'s children.',
-        'Ednita Nazario',
+    '257f410d-6054-55e4-838d-dfd6edf59b14' => [
+        'Beauty in distress is much the most affecting beauty.',
+        'Edmund Burke',
     ],
-    [
-        'When I see a friend play Hamlet or see an inspirational performance, I absolutely get excited by the idea of changing things up.',
-        'Andrew Lincoln',
+    'e6149329-9466-5f01-8180-b57491114328' => [
+        'Any saxophone player will have those influences come through in their music in a very different way. I can listen to the same 10 sax players as someone else for my entire life, and we\'ll both play completely differently. That\'s the beauty of being a musician.',
+        'Kenny G',
+    ],
+    '064c0aed-4773-58de-b4a6-5666dbfa4169' => [
+        'There is no scientific answer for success. You can\'t define it. You\'ve simply got to live it and do it.',
+        'Anita Roddick',
+    ],
+    '776ed731-37b6-5e1d-9dbb-5f997d669bca' => [
+        'If one is desperate for love, I suggest looking at one\'s friends and family and see if love is all around. If not, get a new set of friends, a new family.',
+        'Jasmine Guy',
+    ],
+    '39dd3854-b78f-5211-bf48-b8d2d854c17d' => [
+        'The forest restoration campaign is a war to ameliorate nature.',
+        'Kim Jong-un',
+    ],
+    '6f60fc61-5cbf-5841-9efb-cc16570a2ba2' => [
+        'It is very important to know who you are. To make decisions. To show who you are.',
+        'Malala Yousafzai',
+    ],
+    '796543dd-1a0b-568e-aa12-38da43abf9db' => [
+        'The most successful men in the end are those whose success is the result of steady accretion.',
+        'Alexander Graham Bell',
+    ],
+    'b85ff7d3-b72d-5ac0-a9a0-beffb2982d65' => [
+        'You give before you get.',
+        'Napoleon Hill',
+    ],
+    '92c4565a-6054-5262-9bc2-a8b57aeb5463' => [
+        'In your 20s you can be pretty, but you don\'t accomplish real beauty until you find wisdom and depth.',
+        'Evangeline Lilly',
+    ],
+    'fe389daf-d302-532b-825f-acb97da823f5' => [
+        'Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.',
+        'Denis Waitley',
+    ],
+    'dccdc20a-937e-52ee-a71b-f9677e06d56f' => [
+        'Don\'t look at someone else and want to be them. Search within yourself and find out who you are and be someone positive.',
+        'Kelly Rowland',
     ],
 ];

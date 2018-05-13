@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Travel and society polish one, but a rolling stone gathers no moss, and a little moss is a good thing on a man.',
-        'John Burroughs',
+    'b82e609c-c928-5fdb-98c8-68de8e6d500c' => [
+        'To be a utilitarian means that you judge actions as right or wrong in accordance with whether they have good consequences. So you try to do what will have the best consequences for all of those affected.',
+        'Peter Singer',
     ],
-    [
-        'If Botticelli were alive today he\'d be working for Vogue.',
-        'Peter Ustinov',
+    'ce10c8f0-cf10-5752-933d-9b27e95f85ff' => [
+        'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.',
+        'Cicely Tyson',
     ],
-    [
-        'The coniferous forests of the Yosemite Park, and of the Sierra in general, surpass all others of their kind in America, or indeed the world, not only in the size and beauty of the trees, but in the number of species assembled together, and the grandeur of the mountains they are growing on.',
-        'John Muir',
+    '4c23b08f-72af-5cb1-98b2-837f4c60a9f7' => [
+        'In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.',
+        'Buddha',
     ],
-    [
-        'There is a fountain of youth: it is your mind, your talents, the creativity you bring to your life and the lives of people you love. When you learn to tap this source, you will truly have defeated age.',
-        'Michael Franti',
+    '0cfd8e5a-362e-54e4-887e-4c657fccd54c' => [
+        'You may only succeed if you desire succeeding; you may only fail if you do not mind failing.',
+        'Philippos',
     ],
-    [
-        'The snow itself is lonely or, if you prefer, self-sufficient. There is no other time when the whole world seems composed of one thing and one thing only.',
-        'Joseph Wood Krutch',
+    '3d806282-8c7c-5f5e-bf42-d5a0b93d156b' => [
+        'If you don\'t find time to meditate and get all that negative out, and if you don\'t have the right people being positive around you, this is a very scary job to have if you don\'t learn how to control your fear.',
+        'Nate Diaz',
     ],
-    [
-        'The best way to escape from your problem is to solve it.',
-        'Robert Anthony',
+    '83ce29dc-e60a-5349-97b3-a1af485bdfce' => [
+        'She got her looks from her father. He\'s a plastic surgeon.',
+        'Groucho Marx',
     ],
-    [
-        'If you look at attitudes today and where they are headed, it\'s clear to me that supporting equal rights, including the rights to civil marriage, is a net positive for winning elections, as well as the right thing to do.',
-        'Ken Mehlman',
+    'bde526a7-e23c-5869-b27f-4e9f15e789c2' => [
+        'I surf more now for other people than myself. I feel a lot of support from people wanting me to do well, and I feed off that. I can send a positive message to people from what I do.',
+        'Kelly Slater',
     ],
-    [
-        'Touch seems to be such an important tool for enhancing social cooperation and affiliation that we have evolved a special physical route along which those subliminal feelings of social connection travel from skin to brain.',
-        'Leonard Mlodinow',
+    'd38cfc26-f420-55ec-8d62-8b4f8929929c' => [
+        'I don\'t stop when I am tired, I stop when I am done.',
+        'James Bond',
     ],
-    [
-        'Sometimes all the players get a bad hand. You just have to be determined enough to see the game through.',
-        'Dean Wilson',
+    'c80318f4-e019-510b-93e8-d43b00f3fbd8' => [
+        'I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive.',
+        'Yoko Ono',
     ],
-    [
-        'The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.',
-        'Mark Caine',
+    '741e2904-96a1-5a73-a44a-a4cca7b216dc' => [
+        'We all romanticize the people we adore.',
+        'John Green',
     ],
-    [
-        'Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.',
-        'Blaise Pascal',
+    '529437f7-6824-5a6f-aa0a-3a9934b060fc' => [
+        'Nature, to be commanded, must be obeyed.',
+        'Francis Bacon',
     ],
-    [
-        'I relax by catching up with my friends and family. When I am at home in Ibiza, I find the contrast of living on a divided island relaxing - with beauty and tranquillity in the north and a sense of fun, shallowness and celebration in the south.',
-        'James Blunt',
+    '940e8d4f-6b4a-5a8c-8702-f8924aaeaf7a' => [
+        'No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.',
+        'Alan Watts',
     ],
-    [
-        'I miss all of my old friends who have passed away. Sometimes you just don\'t understand why they were taken so soon. I loved and miss Johnny Cash. I miss my old buddy Johnny Paycheck, who happens to be buried in an area of the cemetery that I bought for my family.',
-        'George Jones',
+    '85b1eb47-eba0-5f1c-b111-2d3069b2c0bf' => [
+        'I am in the fighting game. I don\'t care about anything else. I don\'t watch the news, I don\'t care about politics, I don\'t care about other sports. I don\'t care about anything I don\'t need to care about. This is my sport: it is my life. I study it; I think about it all the time. Nothing else matters.',
+        'Conor McGregor',
     ],
-    [
-        'Originality is the fine art of remembering what you hear but forgetting where you heard it.',
-        'Laurence J. Peter',
+    'bdc65b2b-8451-5b71-9f58-0eca1df9cccd' => [
+        'People have a way of becoming what you encourage them to be, not what you nag them to be.',
+        'Scudder N. Parker',
     ],
-    [
-        'Forever is composed of nows.',
-        'Emily Dickinson',
+    '04fa6c9c-019d-5c25-92be-1bb4fb06ef2e' => [
+        'It was Chicago with its World\'s Fair which vivified the national desire for civic beauty.',
+        'Daniel Burnham',
     ],
-    [
-        'Everything that has existed, lingers in the Eternity.',
-        'Agatha Christie',
+    '189220db-dc33-59bf-b079-ea072c2b562c' => [
+        'I just think that there\'s so much judgment in the world, whether it\'s coming from women in general or from men onto women - it\'s a lot. And when it comes to being a mom, I wish everyone could band together and realize that everyone has different beliefs, different styles, and different things that work for them and their family.',
+        'Hilary Duff',
     ],
-    [
-        'Time is bunk.',
-        'Douglas Adams',
+    '7cdb7ab3-03a1-5543-bcfc-74f05d26f377' => [
+        'Beauty, to me is about being comfortable in your own skin.',
+        'Gwyneth Paltrow',
     ],
-    [
-        'Sincerity is the way of Heaven. The attainment of sincerity is the way of men.',
-        'Confucius',
+    '00578004-a836-5a84-98e8-dc5174cbfc00' => [
+        'Strength to carry on despite the odds means you have faith in your own abilities and know how.',
+        'Byron Pulsifer',
     ],
-    [
-        'I believe that the only courage anybody ever needs is the courage to follow your own dreams.',
-        'Oprah Winfrey',
+    'e7ddec01-6dc8-52c7-a3e5-2449f22f9dcc' => [
+        'I love to see people laugh and put a smile on peoples\' faces. Anytime I\'m doing that I\'m happy.',
+        'Dexter Darden',
     ],
-    [
-        'I am a huge believer in giving back and helping out in the community and the world. Think globally, act locally I suppose. I believe that the measure of a person\'s life is the affect they have on others.',
-        'Laura Ingalls Wilder',
+    '9b7da546-4573-5d22-be6b-d6a22397485a' => [
+        'Half our life is spent trying to find something to do with the time we have rushed through life trying to save.',
+        'Will Rogers',
     ],
-    [
-        'Never do things others can do and will do, if there are things others cannot do or will not do.',
-        'Amelia Earhart',
+    '55199b53-0091-5389-85fc-4451dcaefec5' => [
+        'The rose is the flower and handmaiden of love - the lily, her fair associate, is the emblem of beauty and purity.',
+        'Dorothea Dix',
     ],
-    [
-        'Success requires first expending ten units of effort to produce one unit of results. Your momentum will then produce ten units of results with each unit of effort.',
-        'Charles J. Givens',
+    'adf76c82-a0c1-5a48-828e-ff5baa86166e' => [
+        'Southern political personalities, like sweet corn, travel badly. They lose flavor with every hundred yards away from the patch. By the time they reach New York, they are like Golden Bantam that has been trucked up from Texas - stale and unprofitable. The consumer forgets that the corn tastes different where it grows.',
+        'A. J. Liebling',
     ],
-    [
-        'The best way to heal a broken heart, it turns out, is to find a way to move past the hurt.',
-        'Mary Kay Andrews',
+    'f43f3b4c-c66a-51c6-8327-cf8a80330f8e' => [
+        'I do not regret one moment of my life.',
+        'Pope Paul VI',
     ],
-    [
-        'Don\'t wait for your feelings to change to take the action. Take the action and your feelings will change.',
-        'Barbara Baron',
+    '2e0ff51f-5e22-5486-ac07-7404e7bb6c05' => [
+        'The mind of America is seized by a fatal dry rot - and it\'s only a question of time before all that the mind controls will run amuck in a frenzy of stupid, impotent fear.',
+        'Hunter S. Thompson',
     ],
-    [
-        'It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.',
-        'Seneca',
+    '23c46c39-5d61-553b-a6a5-a7abf016cacb' => [
+        'A tragic irony of life is that we so often achieve success or financial independence after the chief reason for which we sought it has passed away.',
+        'Ellen Glasgow',
     ],
 ];

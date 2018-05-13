@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'In my life I\'ve learned that true happiness comes from giving. Helping others along the way makes you evaluate who you are. I think that love is what we\'re all searching for. I haven\'t come across anyone who didn\'t become a better person through love.',
-        'Theodore Zeldin',
+    '2da1e61e-2799-52ba-8b67-b83ef68bdf11' => [
+        'What I like about cities is that everything is king size, the beauty and the ugliness.',
+        'Joseph Brodsky',
     ],
-    [
-        'Being a survivor doesn\'t mean being strong - it\'s telling people when you need a meal or a ride, company, whatever. It\'s paying attention to heart wisdom, feelings, not living a role, but having a unique, authentic life, having something to contribute, finding time to love and laugh. All these things are qualities of survivors.',
-        'Bernie Siegel',
+    '59159019-c9c9-58d0-adf0-2c6b599bb933' => [
+        'Dallas is a positive, get-it done city.',
+        'Laura Miller',
     ],
-    [
-        'The best time for you to hold your tongue is the time you feel you must say something or bust.',
-        'Josh Billings',
+    'b03686b7-6fe8-59fd-8263-be142080c850' => [
+        'All things are subject to interpretation whichever interpretation prevails at a given time is a function of power and not truth.',
+        'Friedrich Nietzsche',
     ],
-    [
-        'At the end of the day, the most overwhelming key to a child\'s success is the positive involvement of parents.',
-        'Jane D. Hull',
+    'f419286f-0386-5b51-aa4b-d0671ec89934' => [
+        'I love a good laugh as well, I think that\'s so important in life, which is probably why I\'ve dabbled in comedy writing as well as horror. I think if you can make someone laugh or smile it\'s the most special thing in the world.',
+        'Paul Kane',
     ],
-    [
-        'Visual surprise is natural in the Caribbean; it comes with the landscape, and faced with its beauty, the sigh of History dissolves.',
-        'Derek Walcott',
+    '119c5da1-d64c-5c56-8935-542bb2f20a76' => [
+        'For every two minutes of glamour, there are eight hours of hard work.',
+        'Jessica Savitch',
     ],
-    [
-        'I\'m just myself. That\'s the best way to put it.',
-        'Post Malone',
+    '837eac4c-3b51-55a7-88ca-c1ba8627d848' => [
+        'Something I\'ve noticed as I get older is that I do think about the future more. It\'s all positive thinking.',
+        'Abbie Cornish',
     ],
-    [
-        'It is extraordinary that when you are acquainted with a whole family you can forget about them.',
-        'Gertrude Stein',
+    '05ac35b1-1a08-50ef-81fb-8b1183641400' => [
+        'It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.',
+        'Seneca',
     ],
-    [
-        'Reading is a basic tool in the living of a good life.',
-        'Juliette Binoche',
+    '32eb21fc-82ca-5eb8-b0f0-54992dd2a5a3' => [
+        'Son, give \'em a good show, and always travel first class.',
+        'Walter Huston',
     ],
-    [
-        'Read nature; nature is a friend to truth.',
-        'Edward Young',
+    '49819662-496b-52ca-a43e-b9755dc07d4d' => [
+        'I never appreciated \'positive heroes\' in literature. They are almost always cliches, copies of copies, until the model is exhausted. I prefer perplexity, doubt, uncertainty, not just because it provides a more \'productive\' literary raw material, but because that is the way we humans really are.',
+        'Jose Saramago',
     ],
-    [
-        'The ultimate aim of the ego is not to see something, but to be something.',
-        'Muhammad Iqbal',
+    '175bff29-4863-5f6b-ad8d-ed9e1ed36c9d' => [
+        'Be true to yourself and surround yourself with positive, supportive people.',
+        'Payal Kadakia',
     ],
-    [
-        'She gave me a smile I could feel in my hip pocket.',
-        'Raymond Chandler',
+    '6527ae5b-3fb3-52dc-9e7f-f8e8cf190ff0' => [
+        'Keep silence for the most part, and speak only when you must, and then briefly.',
+        'Epictetus',
     ],
-    [
-        'There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things.',
-        'Niccolo Machiavelli',
+    '8ee52072-2f6c-53fd-8044-d6053d42d270' => [
+        'Elvis Costello had a brand new bag. He was a musician, but he knew all about the attitude part of it.',
+        'Nick Lowe',
     ],
-    [
-        'The best executive is one who has sense enough to pick good people to do what he wants done, and self-restraint enough to keep from meddling with them while they do it.',
-        'Theodore Roosevelt',
+    '1fa2010d-3b7a-5859-b90b-bb0ccd8dff70' => [
+        'For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.',
+        'Martin Luther',
     ],
-    [
-        'Don\'t frown because you never know who is falling in love with your smile.',
-        'Sinvyest Tan',
+    'ada4cc20-5580-539b-a10d-ed5958edaa66' => [
+        'Your heart is full of fertile seeds, waiting to sprout.',
+        'Morihei Ueshiba',
     ],
-    [
-        'Every great architect is - necessarily - a great poet. He must be a great original interpreter of his time, his day, his age.',
-        'Frank Lloyd Wright',
+    '5c7a23b1-0fc9-5111-b407-975bdc7dd388' => [
+        'Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that.',
+        'Jean Lacordaire',
     ],
-    [
-        'There are lots of things which I would love to tell him, but in some way, I also feel that I lost the person closest to me. And I got a second chance to live. So in a way I feel that I live for both of us... and I will do my best.',
-        'Petra Nemcova',
+    '1cd9047e-4766-5701-ab66-354169664a3b' => [
+        'A travel book is a book that puts you in the shoes of the traveler, and it\'s usually a book about having a very bad time; having a miserable time, even better.',
+        'Paul Theroux',
     ],
-    [
-        'Try to be like the turtle - at ease in your own shell.',
-        'Bill Copeland',
+    'b24959d7-76e0-54f1-9f30-5172a807edef' => [
+        'There\'s no lotion or potion that will make sales faster and easier for you - unless your potion is hard work.',
+        'Jeffrey Gitomer',
     ],
-    [
-        'The Indian Summer of life should be a little sunny and a little sad, like the season, and infinite in wealth and depth of tone, but never hustled.',
-        'Denis Waitley',
+    'aecb7bdb-79dd-56a9-abf7-b491cee437c5' => [
+        'In high school, in sport, I had a coach who told me I was much better than I thought I was, and would make me do more in a positive sense. He was the first person who taught me not to be afraid of failure.',
+        'Mike Krzyzewski',
     ],
-    [
-        'Life is growth. If we stop growing, technically and spiritually, we are as good as dead.',
-        'Lionel Messi',
+    'e7c56fdd-bfd4-5d5f-bcbe-0ef3ae8fa6bc' => [
+        'It\'s a question of keeping one\'s eyes and ears open and watching how other people play the game. They\'re watching me too, to see what my attitude is like.',
+        'Charles Dance',
     ],
-    [
-        'I love getting dressed up in a suit because I don\'t do it all the time.',
-        'Jason Statham',
+    'b51fc66e-c53d-5107-b59b-ac9980ddb76d' => [
+        'Nature does not hurry, yet everything is accomplished.',
+        'Lao Tzu',
     ],
-    [
-        'For small business people, less paperwork means higher profits, boosted sales and more time with the family.',
-        'Tony Abbott',
+    'fab44b49-c743-58f6-8c5d-7b90ffea2371' => [
+        'When you come out of the storms and sub-zero temperatures into a tiny yurt, there\'s a sense that family love and care is the most important thing in the world.',
+        'Tim Cope',
     ],
-    [
-        'Every man, every woman who has to take up the service of government, must ask themselves two questions: \'Do I love my people in order to serve them better? Am I humble and do I listen to everybody, to diverse opinions in order to choose the best path?\' If you don\'t ask those questions, your governance will not be good.',
-        'Pope Francis',
+    '4cee6386-6604-5cab-ba24-793b603e7fa6' => [
+        'I guess a psychiatrist would say there\'s some good to the venting process, but it does also promote an attitude of saying, \'Hey there\'s nothing wrong with being filled with hate; there\'s so much of it around.\' I don\'t like that.',
+        'Mario Cuomo',
     ],
-    [
-        'You have to fight to reach your dream. You have to sacrifice and work hard for it.',
-        'Lionel Messi',
+    'cfafca62-0c84-5487-903a-741f08a5ce19' => [
+        'I\'m very apolitical. I mean, after having covered politicians so much all my life, I basically have no belief in politics. But it\'s more of an attitude and a discipline in the way you approach life, I think, than it is just what lever you pull in a voting booth.',
+        'Liz Trotta',
     ],
-    [
-        'As long as you smile, have sparkly eyes and stick your shoulders back, nobody\'s going to notice your bum or your waist or your feet, for that matter.',
-        'Cat Deeley',
+    '655b66a3-0624-5c10-9b80-63d65c31cc8f' => [
+        'The starting point of discovering who you are, your gifts, your talents, your dreams, is being comfortable with yourself. Spend time alone. Write in a journal. Take long walks in the woods.',
+        'Robin S. Sharma',
     ],
-    [
-        'Whatever happens, take responsibility.',
-        'Tony Robbins',
+    '61a0fc42-250c-58d8-a994-971d9baa3b8e' => [
+        'The greatest trap in our life is not success, popularity or power, but self-rejection.',
+        'Henri Nouwen',
     ],
 ];

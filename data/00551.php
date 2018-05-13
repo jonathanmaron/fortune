@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'A lot of people say to me, \'Stay grounded; be humble.\' David Schwimmer was just like, \'You need to love what you do.\' And I think that\'s really nice. Just love your work. My family has given me great advice saying, you know, \'Don\'t work too hard.\' And it\'s really nice to have someone like that - you know that they love you.',
-        'Millie Bobby Brown',
+    '37cb5ee1-cc86-57db-b451-68602131f982' => [
+        'Doing Good is a simple and universal vision. A vision to which each and every one of us can connect and contribute to its realisation. A vision based on the belief that by doing good deeds, positive thinking and affirmative choice of words, feelings and actions, we can enhance goodness in the world.',
+        'Shari Arison',
     ],
-    [
-        'Write it on your heart that every day is the best day in the year.',
-        'Ralph Waldo Emerson',
+    'f3a66ece-cae3-545b-ba9d-619c878f0dae' => [
+        'The two most important days in your life are the day you are born and the day you find out why.',
+        'Mark Twain',
     ],
-    [
-        'The greatest thing in family life is to take a hint when a hint is intended-and not to take a hint when a hint isn\'t intended.',
-        'Robert Frost',
+    '1c63759e-d944-58c5-9c5d-f7afc658eec9' => [
+        'Nature holds the key to our aesthetic, intellectual, cognitive and even spiritual satisfaction.',
+        'E. O. Wilson',
     ],
-    [
-        'No one can make you feel inferior without your consent.',
-        'Eleanor Roosevelt',
+    'fe8ce3a6-2bd2-5025-9018-809f1d803d2c' => [
+        'Rocket scientists agree that we have about reached the limit of our ability to travel in space using chemical rockets. To achieve anything near the speed of light we will need a new energy source and a new propellant. Nuclear fission is not an option.',
+        'Wilson Greatbatch',
     ],
-    [
-        'Competition is always a good thing. It forces us to do our best. A monopoly renders people complacent and satisfied with mediocrity.',
-        'Nancy Pearcey',
+    'd14665a4-d3cf-513c-964b-099f1675da37' => [
+        'Failure is a part of success.',
+        'Hank Aaron',
     ],
-    [
-        'I feel like looking in the mirror when you brush your teeth, yes, I see lines, and then I smile and I see things here and there. But that\'s just, you know, you - that\'s your journey, you know?',
-        'Heidi Klum',
+    '57f1c901-ab10-5801-a97e-22efa36124cf' => [
+        'Could we change our attitude, we should not only see life differently, but life itself would come to be different.',
+        'Katherine Mansfield',
     ],
-    [
-        'The Law of Divine Compensation posits that this is a self-organizing and self-correcting universe: the embryo becomes a baby, the bud becomes a blossom, the acorn becomes an oak tree. Clearly, there is some invisible force that is moving every aspect of reality to its next best expression.',
-        'Marianne Williamson',
+    '7a16d237-670d-5e35-9a0b-12c9cce73282' => [
+        'There\'s a certain attitude to Los Angeles.',
+        'Inara George',
     ],
-    [
-        'Live your life, do your work, then take your hat.',
-        'Henry David Thoreau',
+    '10364b05-2be9-55bd-9986-2c2bce813964' => [
+        'If you ever face a significant disaster, do your best to keep up the spirits of those around you, act flexibly and creatively to help, try to sort rumors from truth, and remember that the decisions you make will have repercussions after the disaster has passed.',
+        'Sheri Fink',
     ],
-    [
-        'If I buy a Fiat Uno, I\'ll read that, for a man like me, a Ferrari was more suitable. If instead I buy a Ferrari, they\'ll write that I should have kept my feet on the ground and bought a Fiat. If I smile, I\'m not serious. If I don\'t smile, I\'m a rich sulker that doesn\'t enjoy having the most beautiful job in the world.',
-        'Mario Balotelli',
+    '74164401-82ad-5d9b-9a98-09b1c7902e52' => [
+        'Millions of us, myself included, go back generations in this country, with ancestors who put in the painstaking work to become citizens. So we don\'t like the notion that anyone might get a free pass to American citizenship.',
+        'Barack Obama',
     ],
-    [
-        'Having the positive belief that it will all be O.K. just means that you hustle and make it work because failure is not even an option in your own mind.',
-        'Natalie Massenet',
+    '273ca1de-112b-57b7-a455-e03ca854d8cc' => [
+        'The reason most goals are not achieved is that we spend our time doing second things first.',
+        'Robert McKain',
     ],
-    [
-        'The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.',
-        'Helen Keller',
+    '23eb77e3-3f3b-5d56-9aa2-1de346065f73' => [
+        'Extra dimensional theories are sometimes considered science fiction with equations. I think that\'s a wrong attitude. I think extra dimensions are with us, they are with us to stay, and they entered physics a long time ago. They are not going to go away.',
+        'Leonard Susskind',
     ],
-    [
-        'A person always doing his or her best becomes a natural leader, just by example.',
-        'Joe DiMaggio',
+    '7bef1efc-9af5-59de-9a52-210a1b95e07a' => [
+        'I want to be a positive influence. I want to be someone who they want to call in and want here consistently, regardless of my role.',
+        'Landon Donovan',
     ],
-    [
-        'Even if one tree falls down it wouldn\'t affect the entire forest.',
-        'Chen Shui-bian',
+    '31020e94-4138-553e-9dcf-e11967c43f09' => [
+        'The Games are just a nice, positive way to build friendships, camaraderie and, of course, self-esteem. Plus, the Games are a great opportunity for people to participate in sports who normally wouldn\'t.',
+        'Greg Louganis',
     ],
-    [
-        'I can\'t imagine anything more worthwhile than doing what I most love. And they pay me for it.',
-        'Edgar Winter',
+    '9e65049a-9e17-5adb-b0cb-5218bc9c6081' => [
+        'On the recollection of so many and great favours and blessings, I now, with a high sense of gratitude, presume to offer up my sincere thanks to the Almighty, the Creator and Preserver.',
+        'William Bartram',
     ],
-    [
-        'I have gotten to travel the world and experience all these incredible things thanks to my career.',
-        'Karlie Kloss',
+    '95045c53-db53-5edf-9ad5-6a730edf3932' => [
+        'It is the combination of reasonable talent and the ability to keep going in the face of defeat that leads to success.',
+        'Martin Seligman',
     ],
-    [
-        'It\'s obviously funny to be a meme, so I could be down with it in that regard, but it also belittles one\'s art.',
-        'Grimes',
+    'cd959beb-f83a-594a-9eb1-c9060c5f7e83' => [
+        'The sailor\'s life is at the best a life of danger. He pursues honor on the mountain wave and finds it in the battle and in the storm, and never did more distinguished chivalry display itself than in the conduct of our seamen during the late war.',
+        'John Tyler',
     ],
-    [
-        'It\'s better for me to play with guys because Rock \'n\' Roll has such an aggressive attitude.',
-        'Lita Ford',
+    'd537bbce-f2ad-545f-bf37-4963119dc5cf' => [
+        'Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.',
+        'Madame de Stael',
     ],
-    [
-        'However, I must say that I am very happy to see that we have such a positive result for our first referendum in our history and that gives me more confidence in Taiwan\'s democracy.',
-        'Chen Shui-bian',
+    '966ab27f-9a79-5201-a7d2-80b91c152b4c' => [
+        'A short saying oft contains much wisdom.',
+        'Sophocles',
     ],
-    [
-        'A work well begun is half-ended.',
-        'Plato',
+    '8bb50e31-1cb4-5bbb-b9fd-5fcd3671b475' => [
+        'If you cannot work on the marriage or the women is a moron, staying married and cheating makes the most sense because divorce is disruptive to the family life and your bank account.',
+        'Al Goldstein',
     ],
-    [
-        'I want to do to you what spring does with the cherry trees.',
-        'Pablo Neruda',
+    '74f9a4c0-993d-5abd-96c5-18e5ab06a59d' => [
+        'Technology can be our best friend, and technology can also be the biggest party pooper of our lives. It interrupts our own story, interrupts our ability to have a thought or a daydream, to imagine something wonderful, because we\'re too busy bridging the walk from the cafeteria back to the office on the cell phone.',
+        'Steven Spielberg',
     ],
-    [
-        'One thing an exceptional employee never says is, \'That\'s not in my job description.\' Exceptional employees work outside the boundaries of job descriptions.',
-        'Travis Bradberry',
+    '56a8f9ae-d4ce-5968-9949-9a3fd0b00268' => [
+        'I come to work with a smile and I leave with a laugh, and I\'m so grateful.',
+        'Robert Knepper',
     ],
-    [
-        'The measure of success is happiness and peace of mind.',
-        'Bobby Davro',
+    'f573b746-7f2f-5e53-85db-2bb8f845d07f' => [
+        'Painting is by nature a luminous language.',
+        'Robert Delaunay',
     ],
-    [
-        'In modern life, we tend to forget family values because of the hectic schedule.',
-        'Mahesh Babu',
+    'e1856a8c-7293-5f58-89f6-7202f74d7a45' => [
+        'Gardens are not made by singing \'Oh, how beautiful,\' and sitting in the shade.',
+        'Rudyard Kipling',
     ],
-    [
-        'Art and nature shall always be wrestling until they eventually conquer one another so that the victory is the same stroke and line: that which is conquered, conquers at the same time.',
-        'Maria Sibylla Merian',
+    '14035db7-f684-5c06-88e0-1193516e4e0f' => [
+        'Management is efficiency in climbing the ladder of success; leadership determines whether the ladder is leaning against the right wall.',
+        'Stephen Covey',
     ],
-    [
-        'The two centre-backs, Rob Huth and Wes Morgan, are in many ways journeyman pros, but they have that wonderful attitude and never-say-die spirit that has culminated in them being top of the league.',
-        'Gary Lineker',
+    'fe0a47a1-9ae4-51ea-8d5d-c684742a66ab' => [
+        'The height of your accomplishments will equal the depth of your convictions.',
+        'William Scolavino',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I have now disposed of all my property to my family. There is one thing more I wish I could give them, and that is the Christian religion.',
-        'Patrick Henry',
+    'cf33e32a-be53-5cec-b2ef-bb76b2d9ac83' => [
+        'Collaboration is the best way to work. It\'s only way to work, really. Everyone\'s there because they have a set of skills to offer across the board.',
+        'Antony Starr',
     ],
-    [
-        'Nature is never finished.',
-        'Robert Smithson',
+    'f5cf34e5-68f2-53e7-a349-86db5168b333' => [
+        'Great minds discuss ideas; average minds discuss events; small minds discuss people.',
+        'Eleanor Roosevelt',
     ],
-    [
-        'We must not constantly talk about tackling obesity and warning people about the negative consequences of obesity. Instead we must be positive - positive about the fun and benefits to be had from healthy living, trying to get rid of people\'s excuses for being obese by tackling the issue in a positive way.',
-        'Andrew Lansley',
+    'c4907c05-0ff5-595c-9c4f-5cea2b2682de' => [
+        'We look for opportunities to play together including basketball, tennis, swimming, riding bikes and touch football. I try to provide a loving environment where we can play. I think that\'s good on so many levels - emotionally, for family interactions and, of course, physically.',
+        'Alan Thicke',
     ],
-    [
-        'Life isn\'t about getting and having, it\'s about giving and being.',
-        'Kevin Kruse',
+    'f11a2f17-9c31-552f-9e36-8b5635706284' => [
+        'The one who always loses, is the only person who gets the reward.',
+        'Claire Charmont',
     ],
-    [
-        'For success, attitude is equally as important as ability.',
-        'Walter Scott',
+    'cc45ed8f-d24a-5ac9-b985-f9f6ef870dcf' => [
+        'In the state of nature profit is the measure of right.',
+        'Thomas Hobbes',
     ],
-    [
-        'Michael Palin decided to give up on his considerable comedy talents to make those dreadfully tedious travel shows. Have you ever tried to watch one?',
-        'John Cleese',
+    'a4b1cc4a-508c-5c64-8575-6d628a2e7540' => [
+        'It\'s all about quality of life and finding a happy balance between work and friends and family.',
+        'Tony Robbins',
     ],
-    [
-        'The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.',
-        'Eckhart Tolle',
+    '3638fc03-2e4c-59d9-90ac-cc4a0ea8bcfc' => [
+        'Enjoy failure and learn from it. You can never learn from success.',
+        'James Dyson',
     ],
-    [
-        'Do the best that you can in the place where you are, and be kind.',
-        'Scott Nearing',
+    'e6b2c717-1e84-55f5-bfa7-93c99a2bfb14' => [
+        'I was never pretty, never really popular. I was lanky and funny looking.',
+        'Tanya Roberts',
     ],
-    [
-        'The single most important thing in a child\'s performance is the quality of the teacher. Making sure a child spends the maximum amount of time with inspirational teachers is the most important thing.',
-        'Michael Gove',
+    '9f665aa8-e85d-5ebe-8381-7f5d2fb8d3eb' => [
+        'Whether we or our politicians know it or not, Nature is party to all our deals and decisions, and she has more votes, a longer memory, and a sterner sense of justice than we do.',
+        'Wendell Berry',
     ],
-    [
-        'I can speak Esperanto like a native.',
-        'Spike Milligan',
+    '988cdb19-9223-50fb-919a-fdea9784d5d8' => [
+        'Success demands singleness of purpose.',
+        'Vince Lombardi',
     ],
-    [
-        'You have a lot of ups and downs in coaching, especially, but I can\'t remember any bad times at this point. I mean, they\'re all good. A lot of tears when you lose, a lot of down times, but I can\'t remember any of them. They\'re all positive now. Even the bad times were good.',
-        'Don Nelson',
+    '89bde6d4-679e-5d05-8f62-3722c1812450' => [
+        'We\'re teaching our kids that attributes as vague and relatively meaningless as a toothy smile or a fine head of hair make a fine statement about a person.',
+        'Neil Cavuto',
     ],
-    [
-        'I like funny guys and those, for some reason, tend to be nerdy guys.',
-        'Megan Fox',
+    'aa916338-3e20-596b-a7e0-e22b4643f5fa' => [
+        '\'Hollywood maids\' are so idiotic. They grin at everything. I told Norman Lear I didn\'t want to play a maid because of that \'hee-hee/grin-grin\' attitude, and he said, \'Who said I wanted that?\' He told me he wanted two strong women that are the black and white of the same coin. I said, \'Oh, well - in that case, I\'ll be right there!\'',
+        'Esther Rolle',
     ],
-    [
-        'My attitude to writing is like when you do wallpapering, you remember where all the little bits are that don\'t meet. And then your friends say: It\'s terrific!',
-        'Harrison Birtwistle',
+    '4c26f581-42d6-58ec-8485-404e03341e7c' => [
+        'Women with low self-esteem love bad boys. Women who have work to do love bad boys. Women who love themselves love good men.',
+        'Tracy McMillan',
     ],
-    [
-        'Extra dimensional theories are sometimes considered science fiction with equations. I think that\'s a wrong attitude. I think extra dimensions are with us, they are with us to stay, and they entered physics a long time ago. They are not going to go away.',
-        'Leonard Susskind',
+    '07ba2be1-920d-5e9d-b891-ffc474dc3d9b' => [
+        'In everyday things the law of sacrifice takes the form of positive duty.',
+        'James Anthony Froude',
     ],
-    [
-        'My view is there\'s no bad time to innovate.',
-        'Jeff Bezos',
+    'aa958b0a-918d-5162-998f-239e69e6a18b' => [
+        'I wasn\'t close to my father, but I wanted to be all my life. He had a funny sense of humor, and he laughed all the time - good and loud, like I do. He was a gay Irish gentleman and very good-looking. And he wanted to be close to me, too, but we never had much time together.',
+        'Judy Garland',
     ],
-    [
-        'Teaching man his relatively small sphere in the creation, it also encourages him by its lessons of the unity of Nature and shows him that his power of comprehension allies him with the great intelligence over-reaching all.',
-        'Annie Jump Cannon',
+    '336402e7-4255-50d7-bbaa-23a70bb2980e' => [
+        'I think a major element of jetlag is psychological. Nobody ever tells me what time it is at home.',
+        'David Attenborough',
     ],
-    [
-        'If someone in your life talked to you the way you talk to yourself, you would have left them long ago.',
-        'Carla Gordon',
+    '13098c76-a298-5ab4-b54c-8bf82651475c' => [
+        'Every time we walk along a beach some ancient urge disturbs us so that we find ourselves shedding shoes and garments or scavenging among seaweed and whitened timbers like the homesick refugees of a long war.',
+        'Loren Eiseley',
     ],
-    [
-        'As to war, I am and always was a great enemy, at the same time a warrior the greater part of my life and were I young again, should still be a warrior while ever this country should be invaded and I lived.',
-        'Daniel Morgan',
+    '3d5ef301-69f2-510d-8512-8c3c0c956ea5' => [
+        'No connection to the average voter - Clinton has an air of superiority. Despite her wide smile and pleasant appearance, she is envisioned as someone who is trying to hide something all the time.',
+        'Fabrizio Moreira',
     ],
-    [
-        'I feel truth, beauty, love, grief, anger, intimacy &amp; alive in my body... Women in the global south live in their bodies much more than we in the global north. Not as distracted by patriarchy\'s controlling images - They know power is in their bodies. I am deeply grateful for the women who showed me the way home.',
-        'Jodie Evans',
+    '4fd1f7b9-c546-5fb8-bec2-9730a476bb87' => [
+        'There is no shame in making an honest effort.',
+        'Epictetus',
     ],
-    [
-        'I\'d rather regret the things I\'ve done than regret the things I haven\'t done.',
-        'Lucille Ball',
+    'eec52e1b-5bce-530e-ae6c-1ea5e1207389' => [
+        'Simplicity is natures first step, and the last of art.',
+        'Philip James Bailey',
     ],
-    [
-        'One man\'s wage increase is another man\'s price increase.',
-        'Harold Wilson',
+    '15c04971-107e-5d37-9120-d441402e491d' => [
+        'Beauty is that which is simultaneously attractive and sublime.',
+        'Karl Wilhelm Friedrich Schlegel',
     ],
-    [
-        'Follow your bliss and the universe will open doors where there were only walls.',
-        'Joseph Campbell',
+    '8b9fa67b-7a82-5a98-8b59-962d1616d2de' => [
+        'I have a little bit of that gamer spirit in me. I just don\'t have the time to be a gamer. But in another life, I would be one.',
+        'J. Cole',
     ],
-    [
-        'Everything is a learning process: any time you fall over, it\'s just teaching you to stand up the next time.',
-        'Joel Edgerton',
+    '83d2fc6d-e421-5b9e-8323-fee30c27d2c8' => [
+        'Over every mountain there is a path, although it may not be seen from the valley.',
+        'Theodore Roethke',
     ],
-    [
-        'Don\'t let people disrespect you. My mom says don\'t open the door to the devil. Surround yourself with positive people.',
-        'Cuba Gooding, Jr.',
+    'cab4496d-4df5-5048-98ad-b32203e07a90' => [
+        'Just when the caterpillar thought the world was ending, he turned into a butterfly.',
+        'Proverb',
     ],
-    [
-        'I do find the sibling connection endlessly fascinating, as I do all family dynamics. I like how siblings seem to create their own parentless mini-civilization within a family, one that has its own laws, myths, language, humor, its own loyalties and treacheries.',
-        'Jandy Nelson',
+    'accd610a-262b-510a-9468-c8b406e2ff43' => [
+        'Each person must live their life as a model for others.',
+        'Wayne Dyer',
     ],
 ];

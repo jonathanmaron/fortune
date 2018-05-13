@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Coaches will eventually notice a great attitude, and they respect that.',
-        'Heather O\'Reilly',
+    '05554486-d5f3-5dc7-8230-3e14bdaa22f0' => [
+        'My family was my guide to my reality.',
+        'Haywood Nelson',
     ],
-    [
-        'Everything that happens happens as it should, and if you observe carefully, you will find this to be so.',
-        'Marcus Aurelius',
+    'ab375c92-7026-5472-824d-f20253a5ead9' => [
+        'Let us live for the beauty of our own reality.',
+        'Charles Lamb',
     ],
-    [
-        'I was always the guy getting kicked out of my classes at school for having an attitude problem.',
-        'Chevy Chase',
+    '69bc0847-8333-5cd5-b894-a6525a2768a1' => [
+        'If women ran the world we wouldn\'t have wars, just intense negotiations every 28 days.',
+        'Robin Williams',
     ],
-    [
-        'Most of the luxuries and many of the so-called comforts of life are not only not indispensable, but positive hindrances to the elevation of mankind.',
-        'Henry David Thoreau',
+    'aa0dcca4-d540-5874-96af-ee30014bfbc9' => [
+        'Change is a continuous process. You cannot assess it with the static yardstick of a limited time frame. When a seed is sown into the ground, you cannot immediately see the plant. You have to be patient. With time, it grows into a large tree. And then the flowers bloom, and only then can the fruits be plucked.',
+        'Mamata Banerjee',
     ],
-    [
-        'That\'s the nature of women, not to love when we love them, and to love when we love them not.',
-        'Miguel de Cervantes',
+    '5e482631-222d-52d9-85a1-cf2b191aa463' => [
+        'You never know when some small thing will lead to a big idea. Travel is very inspirational - but it\'s in the ordinary that I find my themes of love and work and family.',
+        'Adriana Trigiani',
     ],
-    [
-        'Over the years, I\'ve become barraged by comments from people, such as, \'Beam me up, Scotty!\' and I became defensive. I felt they were derisive and engendered an attitude. I am grateful for the success, but didn\'t want to be mocked.',
-        'William Shatner',
+    'a88a8377-d794-5969-840b-09e599b0d4dc' => [
+        'I travel a lot; I hate having my life disrupted by routine.',
+        'Caskie Stinnett',
     ],
-    [
-        'I developed a nutty attitude where I\'d think, If some guy really loves me he doesn\'t care if I\'m fat. I\'d come up with all these stupid reasons why it would be OK to be fat.',
-        'Kirstie Alley',
+    'a8a65800-89a1-56ea-bf04-9b9669877ab8' => [
+        'Fragrance takes you on a journey of time. You can walk down the street and pass someone and get taken back 20 years. It\'s very Proustian that way.',
+        'Daphne Guinness',
     ],
-    [
-        'You know, I\'ve got wrinkles on my forehead and smile lines, but what\'s wrong with that? I love to smile.',
-        'Jennifer Aniston',
+    'add038a8-5a0e-57ff-9a61-8a220059b698' => [
+        'I just want to say to women, \'Be yourself - it\'s the inner beauty that counts. You are your own best friend, the key to your own happiness, and as soon as you understand that - and it takes a few heartbreaks - you can be happy.\'',
+        'Cherie Lunghi',
     ],
-    [
-        'I always challenge myself. I get out in deep water and I always try to get back. But I get hung up. The audience never knows, but that\'s when I smile the most, when I show the most ivory.',
-        'Earl Hines',
+    '5cee4466-6b48-55af-a311-060d53462833' => [
+        'Don\'t make being a girl or a victim part of your stand-up act. If you encounter sexism in the business, don\'t bring it on stage; it\'s not funny.',
+        'Jen Kirkman',
     ],
-    [
-        'I absolutely love my job. I feel so privileged: I get to travel the world, I get to witness history... and I\'m constantly inspired by the different amazing characters I meet along the way.',
-        'Clarissa Ward',
+    '086a2047-024c-5f59-a0cb-bc73f022cf85' => [
+        'But the best teams I\'ve encountered have one important thing in common: their team structure and processes cover a full range of distinct competencies necessary for success.',
+        'Jesse James Garrett',
     ],
-    [
-        'If it\'s endurable, then endure it. Stop complaining.',
-        'Marcus Aurelius',
+    '742e4e35-4b82-5a39-ac8e-0723ef3b4552' => [
+        'It\'s never been an issue for me - I don\'t want to go on a diet, I don\'t want to eat a Caesar salad with no dressing, why would I do that? I ain\'t got time for this, just be happy and don\'t be stupid. If I\'ve got a boyfriend and he loves my body then I\'m not worried.',
+        'Adele',
     ],
-    [
-        'I\'ve never really been aware of what is said about me, whether it\'s positive or negative. I ignore it. I\'ve always had the mind-set: \'No one can challenge me better than myself.\'',
-        'Troy Polamalu',
+    'db032b66-1057-579d-884c-04b6528d0569' => [
+        'Research has shown that the best way to be happy is to make each day happy.',
+        'Deepak Chopra',
     ],
-    [
-        'Don\'t fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.',
-        'Unknown',
+    'b02e0bd8-3a1c-5565-be7c-1e8fca6cf065' => [
+        'My mother taught me to be honest, to be selfless, and to touch people in a positive way.',
+        'Scott Eastwood',
     ],
-    [
-        'Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.',
-        'Dalai Lama',
+    '17be4fe4-0758-569d-a746-4b40323b1a20' => [
+        'Dreams have only one owner at a time. That\'s why dreamers are lonely.',
+        'Erma Bombeck',
     ],
-    [
-        'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.',
-        'Mother Teresa',
+    'e756055b-bc4b-5ca0-bce0-0232bafa14cd' => [
+        'If you believe that your best years are behind you, you\'ve guaranteed they are; I\'m going to dance into that good night, with the oldies turned up loud.',
+        'Gina Barreca',
     ],
-    [
-        'All suffering originates from craving, from attachment, from desire.',
-        'Edgar Allan Poe',
+    '9245ead0-250e-598a-8e37-af8ab93909f6' => [
+        'It is only in the country that we can get to know a person or a book.',
+        'Cyril Connolly',
     ],
-    [
-        'I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.',
-        'Ranbir Kapoor',
+    '2bc03cf9-a84c-5750-bce1-71b846fa20af' => [
+        'Get up and dance, get up and smile, get up and drink to the days that are gone in the shortest while.',
+        'Simon Fowler',
     ],
-    [
-        'I can\'t wait for summer in the city! I love all the free activities in the parks that become available to us New Yorkers. Yoga and movie screenings in Bryant Park, concerts in Central Park - there\'s so much more available to the New York community in the summer! And everyone just seems to smile more.',
-        'Kara Lindsay',
+    '767d52be-a727-5e13-a140-33080b916a48' => [
+        'Some people think that you have to be the loudest voice in the room to make a difference. That is just not true. Often, the best thing we can do is turn down the volume. When the sound is quieter, you can actually hear what someone else is saying. And that can make a world of difference.',
+        'Nikki Haley',
     ],
-    [
-        'Remarkable contributions are typically spawned by a passionate commitment to transcendent values such as beauty, truth, wisdom, justice, charity, fidelity, joy, courage and honor.',
-        'Gary Hamel',
+    'cbcd1bb7-4653-5ed3-be66-fe71c8d8a1f1' => [
+        'The best weapon of a dictatorship is secrecy, but the best weapon of a democracy should be the weapon of openness.',
+        'Niels Bohr',
     ],
-    [
-        'It\'s funny, when bands or younger musicians ask me: \'So, what does it take to make it?\' Well, first explain to me what you mean by \'making it\': Do you want to be a rock star or do you want music to be your livelihood?',
-        'Eddie Van Halen',
+    '08fcb01d-ec81-5b2f-ad29-5f0b4f912ec5' => [
+        'There are no limitations to the mind except those we acknowledge.',
+        'Napoleon Hill',
     ],
-    [
-        'Donald has a deep and unbounding determination and a never-give-up attitude. I have seen him fight for years to get a project done - or even started - and he does not give up! If you want someone to fight for you and your country, I can assure you, he is the \'guy.\'',
-        'Melania Trump',
+    'b0d01bc5-32a4-525f-a45d-f10c52634325' => [
+        'The most important thing is to stay positive.',
+        'Saku Koivu',
     ],
-    [
-        'What you are is what you have been. What you\'ll be is what you do now.',
-        'Buddha',
+    'df8da5e7-29cb-5cb8-b70c-7004911a398e' => [
+        'There is something beautiful about all scars of whatever nature. A scar means the hurt is over, the wound is closed and healed, done with.',
+        'Harry Crews',
     ],
-    [
-        'Anything is possible if you\'re willing to work for it.',
-        'Rob Dyrdek',
+    '3290c7eb-4c9b-5d1b-85c7-796ad1a849ca' => [
+        'Time is a created thing. To say \'I don\'t have time,\' is like saying, \'I don\'t want to\'.',
+        'Lao Tzu',
     ],
-    [
-        'All of life is peaks and valleys. Don\'t let the peaks get too high and the valleys too low.',
-        'Jimmy Dean',
+    'd6827ce3-9cd1-586c-bbe2-228f1b8b4271' => [
+        'A man who dares to waste one hour of time has not discovered the value of life.',
+        'Charles Darwin',
     ],
-    [
-        'Nature, philosophy and social issues are the three things that always occupy my mind. You do not have any power over others but can only change yourself.',
-        'Pawan Kalyan',
+    '4708ebed-7f41-5197-bfe9-901c8337ff54' => [
+        'You can have a laugh in Los Angeles, or you can weep in Los Angeles, depending on your attitude towards it.',
+        'Miranda Richardson',
     ],
 ];

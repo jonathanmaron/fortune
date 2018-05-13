@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'We tried to set up a company that patterned ourselves after Southwest in all the fun, the spirit, the great people, the smile, the efficiency side of it, but we\'ve added some extras that people aren\'t used to finding on Southwest.',
-        'David Neeleman',
+    '267c20e8-e456-5b2a-8322-7899c13ecbce' => [
+        'I try to look cute all the time.',
+        'Sloane Stephens',
     ],
-    [
-        'Certainly there are things in life that money can\'t buy, but it\'s very funny - Did you ever try buying them without money?',
-        'Ogden Nash',
+    '81104178-be62-5a3e-a873-7ed7e16ea6af' => [
+        'Mostly I want to talk positive; I wanna talk about a bunch of great kids that I coached and made me look good and the university that I\'ve seen grow from a cow college, which it was, only 12,000 people, and when I came here, we weren\'t at Pennsylvania State University, we were at Penn State College.',
+        'Joe Paterno',
     ],
-    [
-        'When the solution is simple, God is answering.',
-        'Albert Einstein',
+    'e7454847-32ce-541a-9416-6233afa2df5a' => [
+        'In truth, the world is now a seamless web from which no nation, large or small, young or old, can disassociate itself. Every attitude and every action of every nation can affect the welfare and security of every other nation around the globe.',
+        'Robert Kennedy',
     ],
-    [
-        'You\'re only here for a short visit. Don\'t hurry, don\'t worry. And be sure to smell the flowers along the way.',
-        'William Wordsworth',
+    'fe6a6498-de46-5eac-b3f6-de8c5b2d8d42' => [
+        'I am very optimistic, and I wish that God almighty grants me success to get a qualifying time. Only then can I go to the Olympics. If this happens I will be the first Palestinian athlete to gain a qualifying time. This will be a big achievement.',
+        'Nader al-Masri',
     ],
-    [
-        'The culture of a workplace - an organization\'s values, norms and practices - has a huge impact on our happiness and success.',
-        'Adam Grant',
+    '2df97f62-29dc-5133-87bd-b382ee1c717e' => [
+        'The beauty of our country is that when it was founded that they took some time to lay out civil liberties in the first 10 Amendments - the Bill of Rights. I\'m a firm believer in those civil liberties and the ability to have your own opinion.',
+        'Aaron Rodgers',
     ],
-    [
-        'Venice is like eating an entire box of chocolate liqueurs in one go.',
-        'Truman Capote',
+    '5647463f-2507-5ac5-8283-b4f4454105d9' => [
+        'To be happy when you are travelling, you need to be happy inside before you leave. A positive frame of mind will definitely enhance your travelling experience. If I\'m not in a positive frame of mind then the whole thing definitely becomes more of a challenge for me.',
+        'Andrea Bocelli',
     ],
-    [
-        'The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.',
-        'Carlos Castaneda',
+    'c8b18aa6-0b35-5469-b571-82eb50fcb53d' => [
+        'If you have this enormous talent, it\'s got you by the balls, it\'s a demon. You can\'t be a family man and a husband and a caring person and be that animal. Dickens wasn\'t that nice a guy.',
+        'Dustin Hoffman',
     ],
-    [
-        'Most businesses think that product is the most important thing, but without great leadership, mission and a team that deliver results at a high level, even the best product won\'t make a company successful.',
-        'Robert Kiyosaki',
+    '859da57f-cf53-5771-836a-246845b2af20' => [
+        'The reward for work well done is the opportunity to do more.',
+        'Jonas Salk',
     ],
-    [
-        'Don\'t judge each day by the harvest you reap but by the seeds you plant.',
-        'Robert Stevenson',
+    '3888aeb9-87bb-539b-a450-a06f96b2a57e' => [
+        'The attitude is we live and let live. This is actually an amazing change in values in a rather short time and it\'s an example of freedom from religion.',
+        'Tom Wolfe',
     ],
-    [
-        'I travel in so many different ways; I travel high, I rough it... it all depends on who I travel with.',
-        'Diane von Furstenberg',
+    'b5d854b9-437b-5445-9d39-368d596b223e' => [
+        'Just try to be the best you can be; never cease trying to be the best you can be. That\'s in your power.',
+        'John Wooden',
     ],
-    [
-        'The success and the failure are not my concern, but His.',
-        'Joseph Barber Lightfoot',
+    'f217ab0b-a10c-5c2c-ba08-52198d6b4a4c' => [
+        'Build a better mousetrap and the world will beat a path to your door.',
+        'Ralph Emerson',
     ],
-    [
-        'In regard to music, I just think that it\'s always best to have an attitude of being a perpetual student and always look to learn something new about music, because there\'s always something new to learn.',
-        'David Sanborn',
+    '30da6dd3-f693-5bfd-b3b6-e3ea0b2d0a1f' => [
+        'If you get up one more time than you fall, you will make it through.',
+        'Unknown',
     ],
-    [
-        'Everybody talks about the weather, but nobody does anything about it.',
-        'Charles Dudley Warner',
+    '5c304f9c-a6b5-598e-a727-7caae4b77ab4' => [
+        'Make a Goal Box, a chart of positive daily contact with a family when you are working with them.',
+        'Richard G. Scott',
     ],
-    [
-        'A failure is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to stop trying.',
-        'B. F. Skinner',
+    '2fe433e1-c318-57b8-853c-2d1a047d0f91' => [
+        'The traveler sees what he sees, the tourist sees what he has come to see.',
+        'Gilbert K. Chesterton',
     ],
-    [
-        'I love hanging out with friends and family.',
-        'Ashley Wagner',
+    '59dd400f-7b69-54a9-9dfe-6ed0fd89bf73' => [
+        'I got a lot of support from my parents. That\'s the one thing I always appreciated. They didn\'t tell me I was being stupid; they told me I was being funny.',
+        'Jim Carrey',
     ],
-    [
-        'I never realized before this the emotional power of some really simple, corny tropes: people with top hats, people with batons, confetti going off, how important it is to smile.',
-        'Ira Glass',
+    '8244de6a-d147-513b-bdfb-8d46a6928aef' => [
+        'If we can soften our hearts, and if we can access the pure and simple aspect of our nature, then we can regain the realization that everything we need is already inside us and anything is attainable.',
+        'Yehuda Berg',
     ],
-    [
-        'Dream small dreams. If you make them too big, you get overwhelmed and you don\'t do anything. If you make small goals and accomplish them, it gives you the confidence to go on to higher goals.',
-        'John H. Johnson',
+    '10241cd1-a7ed-5d9f-bb6f-38dcb357f980' => [
+        'Part of being a man is learning to take responsibility for your successes and for your failures. You can\'t go blaming others or being jealous. Seeing somebody else\'s success as your failure is a cancerous way to live.',
+        'Kevin Bacon',
     ],
-    [
-        'Social media is something of a double-edged sword. At its best, social media offers unprecedented opportunities for marginalized people to speak and bring much needed attention to the issues they face. At its worst, social media also offers \'everyone\' an unprecedented opportunity to share in collective outrage without reflection.',
-        'Roxane Gay',
+    '16d34f61-0533-5332-b361-7b55bc207886' => [
+        'I wanted to have the opportunity to travel to Vietnam and Sydney, and have the chance to work there.',
+        'Brendan Fraser',
     ],
-    [
-        'Your belief determines your action and your action determines your results, but first you have to believe.',
-        'Mark Victor Hansen',
+    '959b33b1-7262-5ba5-9d20-6540dd82344b' => [
+        'I think it is going to be very difficult to be a company in silos. I think the game has changed. We won\'t define our success by looking at the competitors but at how satisfied are our customers, how engaged are our internal stakeholders, and how good is our product pipeline.',
+        'Michael Dell',
     ],
-    [
-        'We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.',
-        'Buddha',
+    '8e70ae3e-ce0b-566e-99f3-0d56e568a009' => [
+        'Life is measured in love and positive contributions and moments of grace.',
+        'Carly Fiorina',
     ],
-    [
-        'Sales are contingent upon the attitude of the salesman - not the attitude of the prospect.',
-        'W. Clement Stone',
+    '5328ab5b-8f30-5f70-ad5c-b28a916868b0' => [
+        'The best way to predict the future is to create it.',
+        'Peter Drucker',
     ],
-    [
-        'I think the iPhone is the best consumer product ever. That\'s what I feel about it. And it\'s become so integrated and integral to our lives, you wouldn\'t think about leaving home without it.',
-        'Tim Cook',
+    '7625c8ef-321b-511b-86c0-86225e0b3759' => [
+        'There is definitely something sexy about a girl with an attitude and a pair of leather pants.',
+        'Eliza Dushku',
     ],
-    [
-        'In the United States, I am a great success, but I am not a celebrity.',
-        'Paulo Coelho',
+    '8be77849-91df-5550-a449-7c6fd0159f03' => [
+        'I\'m not a music lover in the sense that I look for something to have on. I\'ve never had that attitude to music.',
+        'Harrison Birtwistle',
     ],
-    [
-        'My school days were the happiest days of my life; which should give you some indication of the misery I\'ve endured over the past twenty-five years.',
-        'Al Franken',
+    'fe0d7948-fc8e-5287-9e01-38161fa6b943' => [
+        'The funny guy doesn\'t get the girl until later in life. High school, college, everyone still wants the brooding, dangerous guy you shouldn\'t have.',
+        'Will Ferrell',
     ],
-    [
-        'My jet lag is getting a bit ridiculous. But, you know, it\'s first-world problems. It\'s a wonderful problem, \'Oh I have to travel around the world; how awful.\'',
-        'Margot Robbie',
+    'f6c7158b-731a-5c34-976f-db1d6fd69f30' => [
+        'Words, once they are printed, have a life of their own.',
+        'B. R. Ambedkar',
     ],
 ];

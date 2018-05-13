@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It\'s time to end the cruel slaughter of whales and leave these magnificent creatures alone.',
-        'Paul McCartney',
+    '78830092-46c4-51b8-9383-6ee9dcfebb6c' => [
+        'It was my father who instilled the \'never say no\' attitude I carry around with me today, and who instilled in me a sense of wonder, always taking us on adventures in the car, never telling us the destination.',
+        'Marlee Matlin',
     ],
-    [
-        'There never was a good knife made of bad steel.',
-        'Benjamin Franklin',
+    '5b5e7e27-92da-532a-99c5-e8b8916d7385' => [
+        'Write it on your heart that every day is the best day in the year.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'The success of a production depends on the attention paid to detail.',
-        'David O. Selznick',
+    'fe0aa9d8-1493-58ee-a3c4-70db441ebeb6' => [
+        'Every time you dive, you hope you\'ll see something new - some new species. Sometimes the ocean gives you a gift, sometimes it doesn\'t.',
+        'James Cameron',
     ],
-    [
-        'Soup is a lot like a family. Each ingredient enhances the others; each batch has its own characteristics; and it needs time to simmer to reach full flavor.',
-        'Marge Kennedy',
+    'b6d6ff2a-10ec-54e9-b55a-659f218c54fa' => [
+        'Beauty is a gift, just like good health or intelligence. The only thing is not to be proud of being beautiful. Because you didn\'t do anything - it was given to you.',
+        'Monica Bellucci',
     ],
-    [
-        'Zest is the secret of all beauty. There is no beauty that is attractive without zest.',
-        'Christian Dior',
+    '738f12d6-e0b4-53d3-8f32-3fd36c73d809' => [
+        'Time to open up a new chapter in life, and to explore a larger centre.',
+        'Lillian Russell',
     ],
-    [
-        'Fortunately for me, my mother loved travel. Our first non-beach family trip abroad - to England, France, and Switzerland - came when I was 11, and thereafter, we often tagged along on my father\'s European business trips.',
-        'Andrew Solomon',
+    'b7cabde8-7459-51c4-b694-112e77c57f2d' => [
+        'The stars that have most glory have no rest.',
+        'Samuel Daniel',
     ],
-    [
-        'People think it\'s funny that I enjoy dreaming so much. I just use it as a form of entertainment. It\'s very private. I don\'t see my dreams as separate. I mean, half the time I\'m wandering around dreaming anyway.',
-        'Robert Smith',
+    '2d634bba-c8e9-55f3-8b69-817824156165' => [
+        'As soon as you \'Botox\' your smile lines away, you lose part of your identity.',
+        'Nigel Barker',
     ],
-    [
-        'There are cities that get by on their good looks, offer climate and scenery, views of mountains or oceans, rockbound or with palm trees. And there are cities like Detroit that have to work for a living.',
-        'Elmore Leonard',
+    '33db68c4-3c8d-55a5-bbed-08607529dd1e' => [
+        'Architecture is not an inspirational business, it\'s a rational procedure to do sensible and hopefully beautiful things; that\'s all.',
+        'Harry Seidler',
     ],
-    [
-        'My theory is, if you force yourself to smile enough, then you start to feel it. Which comes in handy all the time.',
-        'Erika Christensen',
+    '13b4134d-893c-5cd1-ab03-a16adfb5c81c' => [
+        'Longing and desire goes further than instant satisfaction. That\'s human nature.',
+        'Anna Sui',
     ],
-    [
-        'The main facts in human life are five: birth, food, sleep, love and death.',
-        'Dale Carnegie',
+    '2ddd353e-6e44-5ba0-8887-685ce7bc0674' => [
+        'Beauty is in the eye of the beer holder.',
+        'Kinky Friedman',
     ],
-    [
-        'For the last several years and culminating in six months in orbit next year, I\'ve been training for my third space flight. This one is almost in a category completely different than the previous two, specifically to live in on the space station for six months, to command a space ship and to fly a new rocket ship.',
-        'Chris Hadfield',
+    '9a61cff4-21a3-50de-a485-85469e0fbb3a' => [
+        'I mix all different oils - my bathroom at home is littered with oils; I\'m really into natural beauty and natural healing. Peppermint is really good if you put it on your stomach for a tummy ache; lavender is kind of all-purpose - I think everyone should carry it.',
+        'Liz Goldwyn',
     ],
-    [
-        'Only I can change my life. No one can do it for me.',
-        'Carol Burnett',
+    '05156300-e223-5731-8e4c-bc1046a0fc0c' => [
+        'Whenever you find yourself on the side of the majority, it is time to pause and reflect.',
+        'Mark Twain',
     ],
-    [
-        'What is it we want out of travel? Is it to take snapshots of ourselves in front of famous monuments, surrounded by other tourists? To eat unfamiliar food chosen from unintelligible menus? To earn frequent-flier miles? No. It\'s to glimpse what life is like somewhere else.',
-        'Chris Pavone',
+    'ca39075d-40d9-5c20-b03f-957321282f0a' => [
+        'A morning-glory at my window satisfies me more than the metaphysics of books.',
+        'Walt Whitman',
     ],
-    [
-        'Positive thinking is the key to success in business, education, pro football, anything that you can mention. I go out there thinking that I\'m going to complete every pass.',
-        'Ron Jaworski',
+    '6569948c-ffca-5545-84d3-66d986302fec' => [
+        'Going home, spending time with the family, I feel they\'re my friends as well, all of them. I look forward to meeting any one of them for a coffee, and when we all get together, I just love it.',
+        'Domhnall Gleeson',
     ],
-    [
-        'What unites Oklahomans today is what has always united us: Our unshakable faith. Our love of family and compassion for others. The unlimited promise of a hopeful future.',
-        'Brad Henry',
+    'adee3874-4d30-50da-90e5-9abe1cc07c60' => [
+        'Keep your eyes on the stars, and your feet on the ground.',
+        'Theodore Roosevelt',
     ],
-    [
-        'The starting point of discovering who you are, your gifts, your talents, your dreams, is being comfortable with yourself. Spend time alone. Write in a journal. Take long walks in the woods.',
-        'Robin S. Sharma',
+    'f2e2860e-eed0-54d6-b1d1-07cb794f95da' => [
+        'Be faithful in small things because it is in them that your strength lies.',
+        'Mother Teresa',
     ],
-    [
-        'The good man is the friend of all living things.',
-        'Mahatma Gandhi',
+    'd0cb8fb1-42a5-55ed-8cf4-05909359a837' => [
+        'I am much pleased to find how very well I stand work &amp; how my powers of attention &amp; continued effort increase.',
+        'Ada Lovelace',
     ],
-    [
-        'Today or any day that phone may ring and bring good news.',
-        'Ethel Waters',
+    '58e0fc09-681a-5267-9966-244556bff1f9' => [
+        'All great achievements require time.',
+        'Maya Angelou',
     ],
-    [
-        'Time spent in nature is the most cost-effective and powerful way to counteract the burnout and sort of depression that we feel when we sit in front of a computer all day.',
-        'Richard Louv',
+    '76254bd3-1321-5df4-9340-ea0dcc9dd667' => [
+        'The best thing to do when you find yourself in a hurting or vulnerable place is to surround yourself with the strongest, finest, most positive people you know.',
+        'Kristin Armstrong',
     ],
-    [
-        'Without social cohesion, the human race wouldn\'t be here: We\'re not formidable enough to survive without the tactics, rules and strategies that allow people to work together.',
-        'Peter Guber',
+    '104ee2b6-6dd6-5585-8e90-98d3f050810e' => [
+        'Life is an unfoldment, and the further we travel the more truth we can comprehend. To understand the things that are at our door is the best preparation for understanding those that lie beyond.',
+        'Hypatia',
     ],
-    [
-        'There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation.',
-        'Marcus Garvey',
+    'ffe7f1e8-9681-5d01-a523-75ceb48edbd1' => [
+        'It\'s all positive energy from me, man.',
+        'Swizz Beatz',
     ],
-    [
-        'Success is a high, but the way up is hard, and you have to give your all.',
-        'Randeep Hooda',
+    'fc2d3af4-a439-519d-803c-e58b76960a7a' => [
+        'My keen love of travel was seldom hindered by Father. He permitted me, even as a mere boy, to visit many cities and pilgrimage spots.',
+        'Paramahansa Yogananda',
     ],
-    [
-        'With a great poet the sense of Beauty overcomes every other consideration, or rather obliterates all consideration.',
-        'John Keats',
+    '239d00d3-b19e-5aeb-9943-201826011bdd' => [
+        'Masculinity comes from your look, all the way down to your attitude. It\'s a big part of being a tennis player. Even though tennis is a fairly friendly sport, intimidation is still a big part of it.',
+        'Milos Raonic',
     ],
-    [
-        'A smile is the chosen vehicle of all ambiguities.',
-        'Herman Melville',
+    'a3f5d788-3bef-5c73-a3ca-a0b9a3cd043b' => [
+        'People think that at the top there isn\'t much room. They tend to think of it as an Everest. My message is that there is tons of room at the top.',
+        'Margaret Thatcher',
     ],
-    [
-        'One of the main dilemmas that\'s pretty common to a lot of people who are getting older is the idea that maybe there\'s a finish line and that maybe there\'s a time in your life when you start to slow down and stop and smell the roses and just kind of settle into what will be a comfortable period in your life.',
-        'Chris Cornell',
+    '8f9429ca-c071-5bb1-912d-66bfb3da9979' => [
+        'It\'s funny how people who ain\'t never been down there can think that America is so fair and that we should be alright. It\'s funny that the people who have their foot on our neck are telling us, \'Get up. What\'s wrong with you?\'',
+        'Ice Cube',
     ],
 ];

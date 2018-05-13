@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My favorite spot is the Maldives. Since I travel so much for work, I like to go to places that are very secluded and quiet.',
-        'Irina Shayk',
+    '1157a8fc-6f89-52ca-b478-8018005aa31f' => [
+        'San Francisco is a mad city - inhabited for the most part by perfectly insane people whose women are of a remarkable beauty.',
+        'Rudyard Kipling',
     ],
-    [
-        'It is not what he has, or even what he does which expresses the worth of a man, but what he is.',
-        "Henri-Fr\u{e9}d\u{e9}ric Amiel",
+    '4dd533a4-445d-582e-b934-26b41a8e07a2' => [
+        'A lot of comedies are based on the reaction shot. You have one person doing something stupid and one person is generally the straight man, and the laughs generally come on the reaction of the straight man to the funny thing the other person has done.',
+        'Richard Ayoade',
     ],
-    [
-        'I appreciate simplicity, true beauty that lasts over time, and a little wit and eclecticism that make life more fun.',
-        'Elliott Erwitt',
+    '3da78a15-2780-5906-8666-1c0d74b82eb4' => [
+        'I love \'Braxton Family Values!\' I love seeing a strong family unit striving for success while dealing with everyday struggles like everyone else. Whatever drama they find themselves in, they find a way to solve it and get back to the importance of family. A positive show for sure.',
+        'Drew Sidora',
     ],
-    [
-        'If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.',
-        'Colin Powell',
+    '1fa8ffb1-1fe2-55dc-88d5-f975f350d5c6' => [
+        'The best thing one can do when it\'s raining is to let it rain.',
+        'Henry Wadsworth Longfellow',
     ],
-    [
-        'When you love someone, the best thing you can offer is your presence. How can you love if you are not there?',
-        'Thich Nhat Hanh',
+    '30c341bc-5991-5e37-976d-5b79ca8229fe' => [
+        'Young people are threatened... by the evil use of advertising techniques that stimulate the natural inclination to avoid hard work by promising the immediate satisfaction of every desire.',
+        'Pope John Paul II',
     ],
-    [
-        'Let me smile with the wise, and feed with the rich.',
-        'Samuel Johnson',
-    ],
-    [
-        'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
-        'Smokey Robinson',
-    ],
-    [
-        'People need to be made more aware of the need to work at learning how to live because life is so quick and sometimes it goes away too quickly.',
-        'Andy Warhol',
-    ],
-    [
-        'In the end, you make your reputation and you have your success based upon credibility and being able to provide people who are really hungry for information what they want.',
-        'Brit Hume',
-    ],
-    [
-        'Set yourself earnestly to see what you are made to do, and then set yourself earnestly to do it.',
-        'Phillips Brooks',
-    ],
-    [
-        'It is possible to commit no mistakes and still lose. That is not a weakness; that is life.',
-        'Jean Luc Picard',
-    ],
-    [
-        'Be here now. Be someplace else later. Is that so complicated?',
-        'David Bader',
-    ],
-    [
-        'Success is the one unpardonable sin against our fellows.',
-        'Ambrose Bierce',
-    ],
-    [
-        'The key thing about wealth in a capitalist economy is that it reproduces itself and usually earns a positive net return.',
-        'Robert Solow',
-    ],
-    [
-        'You can\'t please everyone, and you have to trust your instincts, and you have to do your work and throw yourself in there and trust your instincts, and just trust that you\'re doing a good job that I can be proud of as well.',
-        'Matt Ryan',
-    ],
-    [
-        'Think for yourselves and let others enjoy the privilege to do so too.',
+    '55914e9a-db89-5ada-b5f3-c3d13e3f2796' => [
+        'Qualities you need to get through medical school and residency: Discipline. Patience. Perseverance. A willingness to forgo sleep. A penchant for sadomasochism. Ability to weather crises of faith and self-confidence. Accept exhaustion as fact of life. Addiction to caffeine a definite plus. Unfailing optimism that the end is in sight.',
         'Voltaire',
     ],
-    [
-        'Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.',
-        'Lao Tzu',
+    'c7a5ec55-0915-5ed7-bae0-954d707cc49a' => [
+        'Once you say you\'re going to settle for second, that\'s what happens to you in life.',
+        'Lou Holtz',
     ],
-    [
-        'Success is the American Dream. And that success is not something to be ashamed of, or to demonize.',
-        'Susana Martinez',
+    '31c63c89-2c2d-5e27-b443-e96e74126d73' => [
+        'My parents were, had a marriage of passion, and the passion was about their religious beliefs. They were both immigrant families that - well, my father\'s family came as Puritans to Massachusetts.',
+        'Phil Jackson',
     ],
-    [
-        'The appreciative smile, the chuckle, the soundless mirth, so important to the success of comedy, cannot be understood unless one sits among the audience and feels the warmth created by the quality of laughter that the audience takes home with it.',
-        'James Thurber',
+    'a774a41e-e529-5565-a274-f957dbfe4183' => [
+        'Once you have a firefighter in your family, your family and the families from his crew become one big extended family.',
+        'Denis Leary',
     ],
-    [
-        'Adversity isn\'t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.',
-        'Byron Pulsifer',
+    'b0cecba0-c076-59ea-9a53-e53746e58f5a' => [
+        'Some people never contribute anything positive to society, they may even drain our resources, but most of us try to do something better, to give back.',
+        'Martin Yan',
     ],
-    [
-        'Genuine sincerity opens people\'s hearts, while manipulation causes them to close.',
-        'Daisaku Ikeda',
+    '4851e373-9f2e-50cd-9d3d-0c5d9a3d4c01' => [
+        'It is precisely the purpose of the public opinion generated by the press to make the public incapable of judging, to insinuate into it the attitude of someone irresponsible, uninformed.',
+        'Walter Benjamin',
     ],
-    [
-        'As soon as beauty is sought not from religion and love, but for pleasure, it degrades the seeker.',
-        'Annie Dillard',
+    '90b0b2d3-c0c5-577c-a4d2-510202f283f6' => [
+        'Ideas shape the course of history.',
+        'John Maynard Keynes',
     ],
-    [
-        'I think hearts are very much like glasses. If they do not break with the first ring, they usually last a considerable time.',
-        'Letitia Elizabeth Landon',
+    'e62f8bea-efaa-50f2-8715-8b4bccd37660' => [
+        'Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.',
+        'Chuang Tzu',
     ],
-    [
-        'Noble deeds that are concealed are most esteemed.',
-        'Blaise Pascal',
+    '5d460bc5-9cbe-5c64-b7d4-16535d18e56e' => [
+        'Life has loveliness to sell, all beautiful and splendid things, blue waves whitened on a cliff, soaring fire that sways and sings, and children\'s faces looking up, holding wonder like a cup.',
+        'Sara Teasdale',
     ],
-    [
-        'People of mediocre ability sometimes achieve outstanding success because they don\'t know when to quit. Most men succeed because they are determined to.',
-        'George Allen, Sr.',
+    '7ea4fa8d-938c-56d8-ad83-af4c3634a359' => [
+        'People don\'t really understand, but having people stare, and point, and take pictures, even if it is in a positive framework, is quite isolating; there\'s no two ways about it. You feel a little bit, you know, freakish.',
+        'Emma Watson',
+    ],
+    'ef2be10a-07dd-5060-ac12-c1a818fd755b' => [
+        'The use of travelling is to regulate imagination by reality, and instead of thinking how things may be, to see them as they are.',
+        'Samuel Johnson',
+    ],
+    '6fc5f289-feb9-57a3-bc4a-bbc8733350fd' => [
+        'I know that I\'ve got big ears and a big forehead and that my hair sticks up. But I\'m happy with myself. I\'m not necessarily trying to win a beauty pageant here.',
+        'Clay Aiken',
+    ],
+    'bfe17121-84ed-5c20-b9bd-5de500a3b3cd' => [
+        'My brothers and sister and me grew up making fun of each other, the way we\'d speak or move. When we get together, everyone\'s funny, quick, loud, and speaks on top of each other. It was like a great comedy school; nothing is precious.',
+        'Colman Domingo',
+    ],
+    'f9c25fa6-cd2f-5e3e-a368-6a38ad19c7fa' => [
+        'True success is overcoming the fear of being unsuccessful.',
+        'Paul Sweeney',
+    ],
+    'b693fbd4-b6b7-5d46-8712-9007489d6f51' => [
+        'Fashion is always of the time in which you live. It is not something standing alone. But the grand problem, the most important problem, is to rejeuvenate women. To make women look young. Then their outlook changes. They feel more joyous.',
+        'Coco Chanel',
+    ],
+    '27f37e7b-c3ff-5414-ace8-e069a4622e04' => [
+        'People travel and hunt on the sea ice - in Alaska, they hunt in skin boats for bowhead whales; in Greenland, they hunt with dogsleds. The ice is their highway. The ice is also the ecosystem in which marine mammals and terrestrial animals such as polar bears exist.',
+        'Gretel Ehrlich',
+    ],
+    'c8bf835e-6078-5c31-b254-186a63b943a2' => [
+        'Innovation distinguishes between a leader and a follower.',
+        'Steve Jobs',
+    ],
+    'd3a9c91e-36a5-5fc3-9f71-48377225b1c6' => [
+        'The battle of life is, in most cases, fought uphill; and to win it without a struggle were perhaps to win it without honor. If there were no difficulties there would be no success; if there were nothing to struggle for, there would be nothing to be achieved.',
+        'Samuel Smiles',
+    ],
+    '00d30dfb-e030-57e4-a8c3-46c2533668c8' => [
+        'President Obama has basically avoided or not done any attempt to intervene in any positive way in the housing market. I think in the financial crisis that\'s been a shame.',
+        'Glenn Hubbard',
+    ],
+    '9df0f5c1-d2b6-5f61-9423-3b0cc96f48c4' => [
+        'Natural gas is hemispheric. I like to call it hemispheric in nature because it is a product that we can find in our neighborhoods.',
+        'George W. Bush',
     ],
 ];

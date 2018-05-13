@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If your best friend has stolen your girlfriend, it does become life and death.',
-        'Ben Kingsley',
+    'd290d955-1e10-5092-beb6-f5b008ba22c4' => [
+        'There is an immutable conflict at work in life and in business, a constant battle between peace and chaos. Neither can be mastered, but both can be influenced. How you go about that is the key to success.',
+        'Phil Knight',
     ],
-    [
-        'We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.',
-        'Swami Vivekananda',
+    '806caaae-5446-502d-8f63-5e088f1b4924' => [
+        'Respect should be earned by actions, and not acquired by years.',
+        'Frank Wright',
     ],
-    [
-        'To enjoy life, we must touch much of it lightly.',
-        'Voltaire',
+    '3d64f080-d449-5fc5-84f8-8733baefa922' => [
+        'I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... such emotions make a man forget food, sleep, friends, love, everything.',
+        'Nikola Tesla',
     ],
-    [
-        'I think the best advice came from Drew Barrymore, about always finding love in everything you do and keeping a positive attitude and being thankful.',
-        'Bella Thorne',
+    '93fb46fe-9e64-5229-822f-199a480a64e9' => [
+        'For me, every day is a new thing. I approach each project with a new insecurity, almost like the first project I ever did. And I get the sweats. I go in and start working, I\'m not sure where I\'m going. If I knew where I was going I wouldn\'t do it.',
+        'Frank Gehry',
     ],
-    [
-        'Try not to become a person of success, but rather try to become a person of value.',
-        'Albert Einstein',
+    'dbb9fbdb-3a42-504f-9ee5-af0f55d78682' => [
+        'Most folks are as happy as they make up their minds to be.',
+        'Abraham Lincoln',
     ],
-    [
-        'From the first opening of our eyes, it is the light that attracts us. We clutch aimlessly with our baby fingers at the gossamer-motes in the sunbeam, and we die reaching out after an ineffable blending of earthly and heavenly beauty which we shall never fully comprehend.',
-        'Lucy Larcom',
+    'ed745d1e-2136-55ba-ab95-fcce2bcb0300' => [
+        'The Way Get Started Is To Quit Talking And Begin Doing.',
+        'Walt Disney',
     ],
-    [
-        'In marriage do thou be wise: prefer the person before money, virtue before beauty, the mind before the body; then thou hast a wife, a friend, a companion, a second self.',
-        'William Penn',
+    'c021de7a-6cc4-516e-babd-52cf70e08276' => [
+        'All my big mistakes are when I try to second-guess or please an audience. My work is always stronger when I get very selfish about it.',
+        'David Bowie',
     ],
-    [
-        'I have flown with British Airways since I was a very little child, so it feels quite special to have gone from family holidays flying around Europe to become a gold card holder and be spoiled enough to travel more than not in first class.',
-        'Orlando Bloom',
+    '3d8f8582-d419-5f34-8ca8-ccf402301849' => [
+        'I think the thing to do is enjoy the ride while you\'re on it.',
+        'Johnny Depp',
     ],
-    [
-        'You are the only person on Earth who can use your ability.',
+    '19027991-aabe-577d-b958-644c37bb7035' => [
+        'Don\'t knock the weather; nine-tenths of the people couldn\'t start a conversation if it didn\'t change once in a while.',
+        'Kin Hubbard',
+    ],
+    '88ba96b4-6e4e-5d60-a172-282a4b3c98dd' => [
+        'What you get by achieving your goals is not as important as what you become by achieving your goals.',
         'Zig Ziglar',
     ],
-    [
-        'Opportunity often comes disguised in the form of misfortune, or temporary defeat.',
-        'Napoleon Hill',
+    '86fc76a8-9cd3-5c1c-8c1c-e276c5e7fbb6' => [
+        'I look at graphic design as communication, meaning that the work has to have a vibe to connect to the viewer or perceiver. I make a black and white drawing and then add color digitally, bringing in a contemporary pattern to the composition to create a vibrance.',
+        'John Van Hamersveld',
     ],
-    [
-        'You have to think anyway, so why not think big?',
-        'Donald Trump',
+    '59073d83-efc6-5abf-8fe1-fe181fcab9c1' => [
+        'Fortune always favors the brave, and never helps a man who does not help himself.',
+        'P.T. Barnum',
     ],
-    [
-        'Unemployment insurance, abolishing child labor, the 40-hour work week, collective bargaining, strong banking regulations, deposit insurance, and job programs that put millions of people to work were all described, in one way or another, as \'socialist.\' Yet, these programs have become the fabric of our nation and the foundation of the middle class.',
-        'Bernie Sanders',
+    '0ea365d4-4572-5ea5-8736-ec8da1fecc6f' => [
+        'Life isn\'t always really glamorous and fabulous. It\'s about encouraging people to go back to natural beauty.',
+        'Joseph Campbell',
     ],
-    [
-        'I envy those old Greek bathers, into whose hands were delivered Pericles, and Alcibiades, and the perfect models of Phidias. They had daily before their eyes the highest types of Beauty which the world has ever produced; for of all things that are beautiful, the human body is the crown.',
-        'Bayard Taylor',
+    'cb812779-49e9-5695-a439-a1415228bfb2' => [
+        'Love is just a word until someone comes along and gives it meaning.',
+        'Unknown',
     ],
-    [
-        'I think sometimes in life we want to ignore the problems of society and just think about the good. I believe in positive thinking and affirmative living, I also think it\'s really important to remember all of our disenfranchised members of society.',
-        'Kerry Washington',
+    '05415f91-aa4b-52fd-852a-0bc1a290454f' => [
+        'I\'m a small-town boy who comes from a traditional family on a tiny island called Belitung. I may not know where I\'m going, but I\'ll always know where to come home to.',
+        'Andrea Hirata',
     ],
-    [
-        'My success has been something I\'ve worked a long time at and it\'s been a gradual process. I compare it to the idea of someone losing a lot of weight over a period of a few years. You don\'t really notice the weight loss overall but if you compare photos from then and now there\'s a big difference.',
-        'Ray William Johnson',
+    'e9f3ab49-60be-5d0e-9a27-6e1bc8c0f93f' => [
+        'There are no plans that always work in life. For me, the secret to happiness is being positive and looking at the brighter side of my life.',
+        'Karisma Kapoor',
     ],
-    [
-        'Time is the friend of the wonderful company, the enemy of the mediocre.',
-        'Warren Buffett',
+    '6da715e1-6b81-5d3a-83e3-6f74680e8e75' => [
+        'I love dressing up. It\'s the best part of being a girl, I think.',
+        'Emma Roberts',
     ],
-    [
-        'If you wish to make an apple pie from scratch, you must first invent the universe.',
-        'Carl Sagan',
+    '6d44940b-42a4-5cf7-8f60-99f14f4eb84f' => [
+        'If we accept being talked to any kind of a way, then we are telling ourselves we are not quite worth the best. And if we have the effrontery to talk to anybody with less than courtesy, we tell ourselves and the world we are not very intelligent.',
+        'Maya Angelou',
     ],
-    [
-        'Life is painting a picture, not doing a sum.',
-        'Myles Munroe',
+    '6c85fc6d-d002-59e2-979d-09f113d4b46e' => [
+        'It\'s funny, when bands or younger musicians ask me: \'So, what does it take to make it?\' Well, first explain to me what you mean by \'making it\': Do you want to be a rock star or do you want music to be your livelihood?',
+        'Eddie Van Halen',
     ],
-    [
-        'I have a wonderful make-up crew. They\'re the same people restoring the Statue of Liberty.',
-        'Bob Hope',
+    '750b3c1e-2590-5ef8-a9bc-108d212de227' => [
+        'To me, success is choice and opportunity.',
+        'Harrison Ford',
     ],
-    [
-        'Super-ambitious goals tend to be unifying and energizing to people; but only if they believe there\'s a chance of success.',
-        'Peter Diamandis',
+    '7f9d57b0-88b8-5b28-a4a6-b70aca556d56' => [
+        'The world is getting so small. Young people are mobile; they want to travel around the world. When you travel around the world, you exchange culture, you want to make friends, you want to exchange things.',
+        'Jack Ma',
     ],
-    [
-        'Borrow trouble for yourself, if that\'s your nature, but don\'t lend it to your neighbours.',
-        'Rudyard Kipling',
+    'd10b485f-2a88-5ba1-b733-66d9fad610c5' => [
+        'Obstacles are those things you see when you take your eyes off the goal.',
+        'Hannah More',
     ],
-    [
-        'It brings a smile to my face every time I look in the record book and see my name with the likes of Hutson and Lance Alworth and Raymond Berry, some of the fabled receivers of the NFL. It\'s all like a dream to me. I can\'t believe it\'s true.',
-        'Steve Largent',
+    'feeaea49-843b-5b92-8094-bda48f39c511' => [
+        'Ever since I was four years old, I loved making people smile, making them think, making them feel good, feel some kind of emotion.',
+        'Ann-Margret',
     ],
-    [
-        'A woman can plan when to have her family and how to support a family.',
-        'Kathleen Turner',
+    'd35ac398-1b6d-5398-8187-e4e69ba95c66' => [
+        'The power of pop culture stories should not be underestimated, and there is an enormous potential for inspirational stories that can have a positive, transformative effect on our lives.',
+        'Anita Sarkeesian',
     ],
-    [
-        'Never give up, for that is just the place and time that the tide will turn.',
-        'Harriet Beecher Stow',
-    ],
-    [
-        'I love Thanksgiving because it\'s a holiday that is centered around food and family, two things that are of utmost importance to me.',
-        'Marcus Samuelsson',
+    '106dd3e9-05bf-5a92-a8d1-9b24a1148bb9' => [
+        'I\'m a travel enthusiast.',
+        'Iggy Pop',
     ],
 ];

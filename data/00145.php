@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It has never been my object to record my dreams, just to realize them.',
-        'Man Ray',
+    'c8890b33-3c03-53d0-83d5-2ebff55b248f' => [
+        'She was a handsome woman of forty-five and would remain so for many years.',
+        'J. B. Priestley',
     ],
-    [
-        'Surround yourself with good people. People who are going to be honest with you and look out for your best interests.',
-        'Derek Jeter',
+    'ed845eee-73c5-5d1f-aea8-8c945f1b259f' => [
+        'Fun is one of the most important - and underrated - ingredients in any successful venture. If you\'re not having fun, then it\'s probably time to call it quits and try something else.',
+        'Richard Branson',
     ],
-    [
-        'The \'Billionaire\' song is what my kids tease me with. They sing it to me. It\'s funny.',
-        'Bill Gates',
+    'b0fd15ca-2f62-5624-80c8-0181a3742c96' => [
+        'Sweat, sweat, sweat! Work and sweat, cry and sweat, pray and sweat!',
+        'Zora Neale Hurston',
     ],
-    [
-        'There\'s no damn business like show business - you have to smile to keep from throwing up.',
-        'Billie Holiday',
+    '0409e8bb-7596-535d-88c4-b0bca5607b73' => [
+        'I\'ll walk where my own nature would be leading: It vexes me to choose another guide.',
+        'Emily Bronte',
     ],
-    [
-        'If people want to compete for leadership of a religious group, they can compete in piety. A chilling thought. Or funny.',
-        'Mary Douglas',
+    'a69847da-80b7-5032-a7cc-44738ddb5e20' => [
+        'Either move or be moved.',
+        'Ezra Pound',
     ],
-    [
-        'When the history books are written in a thousand years, when space travel would have become routine, the moment that humans first left Earth will be of huge importance. Star City is a central part of this story and it deserves more recognition.',
-        'Helen Sharman',
+    'f32f6f31-fa8a-5147-b919-cf9a51a7e678' => [
+        'The best compliment that has ever been given to me was, I was at the airport one day and a guy came in and said, \'Lionel, my wife loves you, the kids love you, my mother-in-law loves you, the family loves you.\'',
+        'Lionel Richie',
     ],
-    [
-        'The deviation of man from the state in which he was originally placed by nature seems to have proved to him a prolific source of diseases.',
-        'Edward Jenner',
+    '6a43c657-46d4-5b8d-882f-9417e0890923' => [
+        'The standard of \'affordable\' housing is that which costs roughly 30 percent or less of a family\'s income. Because of rising housing costs and stagnant wages, slightly more than half of all poor renting families in the country spend more than 50 percent of their income on housing costs, and at least one in four spends more than 70 percent.',
+        'Matthew Desmond',
     ],
-    [
-        'The best form of flattery is to be admired, imitated or respected. I\'ve always felt proud our fans look up to us or feel we are inspirational.',
-        'Cheryl James',
+    '7a4b9be2-2aa4-5044-955a-9b0ee56f1b79' => [
+        'I travel. I do a lot of traveling around the world.',
+        'Chris Tucker',
     ],
-    [
-        'Everything happens to everybody sooner or later if there is time enough.',
-        'George Bernard Shaw',
+    '10540ff6-13ba-5e94-bc94-c43d8a69b27a' => [
+        'My definition, a definition in the drill books from the time that General Von Steuben wrote the regulations for General George Washington, the definition of the object of military training is success in battle... It wouldn\'t be any sense to have a military organization on the backs of the American taxpayers with any other definition.',
+        'Chesty Puller',
     ],
-    [
-        'Few and far between are the books you\'ll cherish, returning to them time and again, to revisit old friends, relive old happiness, and recapture the magic of that first read.',
-        'Michael A. Stackpole',
+    'c3c062bf-17f2-541a-afae-e68d678d4755' => [
+        'A smile is so sexy, yet so warm. When someone genuinely smiles at you, it\'s the greatest feeling in the world.',
+        'Mandy Moore',
     ],
-    [
-        'A lot of people say, \'What set the Attitude Era up?\' or, \'What started the Attitude Era?\' To me - and I was allegedly the leader of it - sports entertainment, pro wrestling, whatever you want to call it has always had an attitude. So, why that particular generation got labeled, I don\'t know.',
-        'Stone Cold Steve Austin',
+    'b184fb28-c754-5cf6-8472-4d5f8992e5a0' => [
+        'I think there can be a positive sort of futurism even in a presentist society. But I think it\'s a kind of futurism that envisions augmenting human ability and intellect rather than creating some artificial machine intelligence that displaces us.',
+        'Douglas Rushkoff',
     ],
-    [
-        'The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.',
-        'Roy Ayers',
+    '6be3d8f7-2439-50e6-ae30-bc9161b2cfc0' => [
+        'I\'ll never, ever be full. I\'ll always be hungry. Obviously, I\'m not talking about food. Growing up, I had nothing for such a long time. Someone told me a long time ago, and I\'ve never forgotten it, \'Once you\'ve ever been hungry, really, really hungry, then you\'ll never, ever be full.\'',
+        'Dwayne Johnson',
     ],
-    [
-        'Benazir Bhutto was an inspirational leader and an inspirational woman.',
-        'Malala Yousafzai',
+    '6e10cc7a-6cdd-5d10-855e-d58d84708000' => [
+        'As long as you think your past is bad you must be improving',
+        'Louis C.K',
     ],
-    [
-        'Sexy in India is not considered positive. But, with today\'s crop of fresh faces in the modelling arena, being sexy is an asset.',
-        'Aishwarya Rai Bachchan',
+    '4c92138d-cadf-5f57-8261-aec5dc4c4689' => [
+        'Ignorance never settle a question.',
+        'Benjamin Disraeli',
     ],
-    [
-        'More people smile at me now I\'m richer.',
-        'Mo Ibrahim',
+    '835fdc55-56c1-5c80-91f0-cfe7f8fc0524' => [
+        'The best thing is to always keep honest people around, because when you have a bunch of yes men around that know that you\'re making a mistake but let you go on with it, that\'s when it ruins your mind state as an artist.',
+        'Kendrick Lamar',
     ],
-    [
-        'Time is nature\'s way of keeping everything from happening at once.',
-        'John Archibald Wheeler',
+    '60af5083-c666-5b32-8ee7-8730a17ee731' => [
+        'I play video games a lot... I love to read... I enjoy spending time with my husband and daughter, who are my most favorite people in the world.',
+        'Lea Salonga',
     ],
-    [
-        'Makeup is not a mask that covers up your beauty; it\'s a weapon that helps you express who you are from the inside.',
-        'Michelle Phan',
+    '65e38994-c9a0-530b-b84e-3f98b65703c2' => [
+        'Im not in this world to live up to your expectations and you\'re not in this world to live up to mine.',
+        'Bruce Lee',
     ],
-    [
-        'My proudest achievement has been the success of the shows and artists I have been involved with, because they were made in Britain.',
-        'Simon Cowell',
+    '16d17a40-065f-51cf-9f25-1348c307e5af' => [
+        'The stars shall fade away, the sun himself Grow dim with age, and nature sink in years, But thou shalt flourish in immortal youth, Unhurt amidst the wars of elements, The wrecks of matter, and the crush of worlds.',
+        'Joseph Addison',
     ],
-    [
-        'The key to immortality is first living a life worth remembering.',
-        'Groucho Marx',
+    'd1dcd6b4-0b61-5604-8780-6c3814df6f4e' => [
+        'You can\'t beat the beehive for glam punkette attitude.',
+        'Rob Sheffield',
     ],
-    [
-        'I do not like people touching my underwear. That\'s just weird! I travel with a washer and dryer, and I like cooking on the bus, too.',
-        'Carrie Underwood',
+    '8e313cd1-3506-5185-9ea9-a0f8b3d86e9b' => [
+        'I wouldn\'t totally rule out doing Letterman or the Tonight Show if I had a set that I just happened to write that I thought was funny but was still appropriate for network censors. But I\'m not going to go out of my way.',
+        'Joe Rogan',
     ],
-    [
-        'With every inch of land on Earth now catalogued by our satellites, the stars are the next place we as a species must travel. And with a booming world population that will hit 9.1 billion in 2050, large-scale space travel may become a necessity.',
-        'Ben Parr',
+    '26801267-ec83-523a-9af4-2429814d7a36' => [
+        'These words dropped into my childish mind as if you should accidentally drop a ring into a deep well. I did not think of them much at the time, but there came a day in my life when the ring was fished up out of the well, good as new.',
+        'John Steinbeck',
     ],
-    [
-        'Men for the sake of getting a living forget to live.',
-        'Margaret Fuller',
+    'a87ea66b-bcd2-581b-820e-2b326084b884' => [
+        'Visualize this thing that you want, see it, feel it, believe in it. Make your mental blue print, and begin to build.',
+        'R Collier',
     ],
-    [
-        'All love comes from the family.',
-        'John Updike',
+    '65d87b46-bb0e-5ca3-a08c-7afc60862f7c' => [
+        'Perfect happiness would be knowing that all my family and friends were happy and safe. Then I\'d go to a tropical island with my husband where it was gorgeous and fun all day long and interesting and fun all evening. Good food and dancing would be nice, too, and weekly visits from those safe and happy family and friends. Plus world peace.',
+        'Suzanne Weyn',
     ],
-    [
-        'The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.',
-        'Charles Lamb',
+    'a8b0e5ad-e14f-52f7-aab4-1d94a5c9a5e1' => [
+        'To listen well is as powerful a means of communication and influence as to talk well.',
+        'John Marshall',
     ],
-    [
-        'Museums are managers of consciousness. They give us an interpretation of history, of how to view the world and locate ourselves in it. They are, if you want to put it in positive terms, great educational institutions. If you want to put it in negative terms, they are propaganda machines.',
-        'Hans Haacke',
+    '671da7b0-d245-5ac3-a76b-a1171929d62e' => [
+        'If somebody says no to you, or if you get cut, Michael Jordan was cut his first year, but he came back and he was the best ever. That is what you have to have. The attitude that I\'m going to show everybody, I\'m going to work hard to get better and better.',
+        'Magic Johnson',
     ],
 ];

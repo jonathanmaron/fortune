@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Some of my fans don\'t really like it when I respond to people who say things that are trying to be hurtful on social media. But I think it\'s kind of funny. There\'s a lot of things that make me laugh, that people would try and say those things. I mean, there\'s some that I can\'t even retweet or respond to just because of how bad it is.',
-        'Rickie Fowler',
+    'b1a0b1bc-5529-5192-8ebe-7bfeca17f0cb' => [
+        'I gave my beauty and my youth to men. I am going to give my wisdom and experience to animals.',
+        'Brigitte Bardot',
     ],
-    [
-        'Accuracy is, in every case, advantageous to beauty, and just reasoning to delicate sentiment. In vain would we exalt the one by depreciating the other.',
-        'David Hume',
+    '6e3f44f7-83e5-5738-a9cb-281026a26dba' => [
+        'We have to nurture our young women and understand the beauty and the strength of being a woman. It\'s kind of a catch-22: Strength in women isn\'t appreciated, and vulnerability in women isn\'t appreciated. It\'s like, \'What the hell do you do?\' What you do is you don\'t allow anyone to dictate who you are.',
+        'Jada Pinkett Smith',
     ],
-    [
-        'For there is no friend like a sister in calm or stormy weather; To cheer one on the tedious way, to fetch one if one goes astray, to lift one if one totters down, to strengthen whilst one stands.',
-        'Christina Rossetti',
+    'cb2ec713-31d4-54b1-9439-6dd851301bd4' => [
+        'To bring anything into your life, imagine that it\'s already there.',
+        'Richard Bach',
     ],
-    [
-        'I always have a positive reaction to Times Square - you\'ve got so many people passing through here, so many cultures, and so many people merging into the central community of New York City. This is the hub of America.',
-        'Dhani Jones',
+    '125705c7-2cd2-591d-971d-c2d5d127529d' => [
+        'If we look at the world with a love of life, the world will reveal its beauty to us.',
+        'Daisaku Ikeda',
     ],
-    [
-        'I always believe that funny is serious and serious is funny. You don\'t really need a distinction between them.',
-        'Trevor Noah',
+    '079b0c4c-d90d-5e08-a62a-47def2ff72be' => [
+        'I love fairy tales because of their haunting beauty and magical strangeness. They are set in worlds where anything can happen. Frogs can be kings, a thicket of brambles can hide a castle where a royal court has lain asleep for a hundred years, a boy can outwit a giant, and a girl can break a curse with nothing but her courage and steadfastness.',
+        'Kate Forsyth',
     ],
-    [
-        'In three words I can sum up everything Ive learned about life: it goes on.',
-        'Robert Frost',
+    'a38dd782-0a44-5287-b422-04449309bb6e' => [
+        'I saw old Autumn in the misty morn stand shadowless like silence, listening to silence.',
+        'Thomas Hood',
     ],
-    [
-        'We see things not as they are, but as we are. Our perception is shaped by our previous experiences.',
-        'Dennis Kimbro',
-    ],
-    [
-        'Without faith, nothing is possible. With it, nothing is impossible.',
-        'Mary Bethune',
-    ],
-    [
-        'In order to succeed, we must first believe that we can.',
-        'Nikos Kazantzakis',
-    ],
-    [
-        'Most people are about as happy as they make up their minds to be',
-        'Abraham Lincoln',
-    ],
-    [
-        'Thinking: the talking of the soul with itself.',
-        'Plato',
-    ],
-    [
-        'Beware of the half truth. You may have gotten hold of the wrong half.',
+    'e67d5957-203a-5d6c-a4c7-cb5f40093430' => [
+        'Obsessed is a word that the lazy use to describe the dedicated.',
         'Unknown',
     ],
-    [
-        'As soon as you \'Botox\' your smile lines away, you lose part of your identity.',
-        'Nigel Barker',
+    '21932c36-1599-5a8c-8c09-f686f5058a71' => [
+        'The best government is a benevolent tyranny tempered by an occasional assassination.',
+        'Voltaire',
     ],
-    [
-        'To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.',
-        'Buddha',
+    'f296630d-4f97-589f-abea-9d629f786edc' => [
+        'I don\'t like to see projects that are all black or all white. It\'s how life is. I do like to make sure that I do a nice black family film; that\'s like keeping my home base. I do other things, but I like to always come back to a positive family film, because of all the negative influences today.',
+        'Vivica A. Fox',
     ],
-    [
-        'Why do they call it rush hour when nothing moves?',
-        'Robin Williams',
+    'b493a01e-4e38-5fe9-bc7e-7ade20d521ef' => [
+        'Friends are thieves of time.',
+        'Francis Bacon',
     ],
-    [
-        'Normal is getting dressed in clothes that you buy for work, driving through traffic in a car that you are still paying for, in order to get to a job that you need so you can pay for the clothes, car and the house that you leave empty all day in order to afford to live in it.',
-        'Ellen Goodman',
+    'aac872f3-0b35-5fc3-be3d-85288bfd5182' => [
+        'I want to teach. I want to speak. I want to travel.',
+        'Hillary Clinton',
     ],
-    [
-        'The world is full of musicians who can play great, and you wouldn\'t cross the road to see them. It\'s people who have this indefinable attitude that are the good ones.',
-        'Nick Lowe',
+    '7aaeb0e1-8cbe-5edb-8430-c32ece28d292' => [
+        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.',
+        'Babatunde Olatunji',
     ],
-    [
-        'I wanted my fans and my family and my friends to be proud of me.',
-        'Allen Iverson',
+    'df2b9474-d611-554e-9e12-74ae099a247e' => [
+        'The attitude of the Democrat Party is that wherever there are Republicans they are so bad, they are so discriminatory, they are so racist, they\'re so bigoted, they\'re just such reprobates that we can\'t afford to let them have any say whatsoever in what\'s happening.',
+        'Rush Limbaugh',
     ],
-    [
-        'Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.',
-        'Arthur Conan Doyle',
+    '5a0947bc-5f48-5995-851f-79a5a9cca733' => [
+        'If you can\'t sit in a cafe quietly and be ignored, how can you observe human nature and write a story?',
+        'Evangeline Lilly',
     ],
-    [
-        'I\'m really exciting. I smile a lot, I win a lot, and I\'m really sexy.',
-        'Serena Williams',
+    '968457c1-42fa-5ace-9c15-a17e927e2e6b' => [
+        'In a meadow full of flowers, you cannot walk through and breathe those smells and see all those colors and remain angry. We have to support the beauty, the poetry, of life.',
+        'Jonas Mekas',
     ],
-    [
-        'As a general thing, when a woman wears the pants in a family, she has a good right to them.',
-        'Josh Billings',
+    '34bd4777-88bd-5bd1-95c4-d606ec2a8821' => [
+        'I love faltering. I love, in a sense, coming up short. Because you learn nothing from success. You learn so much from failing.',
+        'Charlie Trotter',
     ],
-    [
-        'Creativity takes courage.',
-        'Henri Matisse',
+    '01301630-8bd8-5524-8433-4d6b8df3af80' => [
+        'In nature there are few sharp lines.',
+        'A. R. Ammons',
     ],
-    [
-        'I think the eyes flirt most. There are so many ways to use them.',
-        'Anna Held',
+    'c3f9a15d-e793-5854-9be2-846987d1fd94' => [
+        'We are ramping up security in the United States but also looking at visa applicants, visa waiver applicants - and looking at travel manifests on the airplanes trying to come into the United States.',
+        'Mike McCaul',
     ],
-    [
-        'As a team, you need to come from behind every once in awhile just to do it. Good for the attitude. It makes it exciting. And when everybody knows you have to throw it... that makes it fun too.',
-        'Dan Marino',
+    'a307a751-8f9a-575b-ab5d-010bfb205730' => [
+        'We have what we seek, it is there all the time, and if we give it time, it will make itself known to us.',
+        'Thomas Merton',
     ],
-    [
-        'Is it rather stupid and dangerous to take Magna Carta so much for granted, as many of us seem to do, and to think of this attitude as \'very English?\'',
-        'Melvyn Bragg',
+    '3e002c44-f297-5f6c-b205-9458cd34c9a6' => [
+        'Make people have a smile when they finish your e-mail.',
+        'Letitia Baldrige',
+    ],
+    '487f6fd0-c288-5f03-856e-d70d43dacb98' => [
+        'Perfection is the child of time.',
+        'Joseph Hall',
+    ],
+    'd5375542-3b6c-53a6-a26d-428455f57776' => [
+        'We must never forget that it is through our actions, words, and thoughts that we have a choice.',
+        'Sogyal Rinpoche',
+    ],
+    'e79a6ca3-938d-59de-b234-0115101e6732' => [
+        'Action films are great, but an action film that has characters that are compelling and a story that people can care about is something even better. We love to see action heroes that are vulnerable, that are sensitive, that are family people, that are accessible.',
+        'Steven Seagal',
+    ],
+    'b07b122a-6ef5-5b8d-8faf-1bb050192a11' => [
+        'Winning isn\'t everything, but it beats anything in second place.',
+        'William C. Bryant',
+    ],
+    'a94c0fc0-d76a-525e-a4e7-912b86319234' => [
+        'Applause waits on success.',
+        'Benjamin Franklin',
     ],
 ];

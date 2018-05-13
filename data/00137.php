@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Everyone talks about how we\'re on our phones all the time, but the fact remains that when I\'m away on a film set for two months, I can Skype my family. I remember the phone calls my parents had to make when my dad was away for a while when I was younger - that once-a-week expensive phone call! The time pressure on talking to your father!',
-        'Domhnall Gleeson',
+    'e20d4caa-f7a1-52fa-912e-91cc903575bc' => [
+        'Honesty and integrity are absolutely essential for success in life - all areas of life. The really good news is that anyone can develop both honesty and integrity.',
+        'Zig Ziglar',
     ],
-    [
-        'I have great respect for the past. If you don\'t know where you\'ve come from, you don\'t know where you\'re going. I have respect for the past, but I\'m a person of the moment. I\'m here, and I do my best to be completely centered at the place I\'m at, then I go forward to the next place.',
+    '624923b0-f263-5c17-be40-71016cf39e79' => [
+        'The best comfort food will always be greens, cornbread, and fried chicken.',
         'Maya Angelou',
     ],
-    [
-        'A healthful hunger for a great idea is the beauty and blessedness of life.',
-        'Hans Christian Andersen',
+    'c6b15016-e791-5b50-99e2-b4b7c9e0fc30' => [
+        'We become what we think about.',
+        'Earl Nightingale',
     ],
-    [
-        'The way to Heaven is ascending; we must be content to travel uphill, though it be hard and tiresome, and contrary to the natural bias of our flesh.',
-        'Jonathan Edwards',
+    'c6774962-770d-5ea3-b465-02946d905204' => [
+        'My wife was the first romantic partner who understood both American and native parts of me - not so much the positive stuff, but the damage.',
+        'Sherman Alexie',
     ],
-    [
-        'I have often been struck by the fact that most parents who are experiencing positive and rewarding relationships with their pre-adolescent children are, nevertheless, waiting apprehensively and bracing themselves for the stormy adolescent period.',
-        'Albert Bandura',
+    '99655bde-99f9-513e-97dc-eeae0a7aae91' => [
+        'I was obliged to be industrious. Whoever is equally industrious will succeed equally well.',
+        'Johann Sebastian Bach',
     ],
-    [
-        'Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.',
-        'Denis Waitley',
+    'a0dcd686-4e86-566f-bd02-ebd3ee84a3cc' => [
+        'In some way, people believe that if you are permeable, if you are a good listener, you don\'t have the quality of somebody with a firm attitude. This is what, fundamentally, I got from my mother.',
+        'Renzo Piano',
     ],
-    [
-        'I\'m a positive person, and I try to look at the good side of everything.',
-        'Leona Lewis',
+    '7581fb79-8c79-5b69-a7fa-8bf27e03b12e' => [
+        'We may not know what each day has in store for us. We could be gone tomorrow. Any minute could truly be our goodbye. But we do have this moment. This time. Today. Right now. It takes way more effort to shell out hate then it does to allow love to flow freely in our lives. After all, it\'s what we were born to do.',
+        'Grace Gealey',
     ],
-    [
-        'Providing patients and consumers with solid information on the cost and quality of their healthcare options can literally make the difference between life or death; and play a decisive role in whether a family or employer can afford healthcare.',
-        'Timothy Murphy',
+    'c61daf8e-c5fd-5e02-9e6c-383819a3b96d' => [
+        'It\'s funny what memory does, isn\'t it? My favorite holiday tradition might not have happened more than once or twice. But because it is such a good memory, so encapsulating of everything I love about the holidays, in my mind it happened every year. Without fail.',
+        'Molly O\'Keefe',
     ],
-    [
-        'I have played on many teams throughout my career, and I know when a team has the tools, and the right positive attitude towards winning.',
-        'Boomer Esiason',
+    '862019fe-1fe0-5a6a-b057-94c9eca9b914' => [
+        'Each day as I travel through downtown Tucson, I am amazed at how quickly the most ancient of human behaviors have changed. For as long as there have been Homo sapiens - roughly 200,000 years - people have filled their lives principally with two activities: talking directly with other people, and doing physical things.',
+        'Andrew Weil',
     ],
-    [
-        'Despite what some would have us believe, success is not built on resentment and fear.',
-        'Susana Martinez',
+    '9adfbbf6-144d-5d6e-b3f1-af39f06b5672' => [
+        'Temperance is essential, if the services of men and women are to be employed to the best and most useful effect according, to the physical capacity and ability of each. Nothing less will assure a total effort.',
+        'William Lyon Mackenzie King',
     ],
-    [
-        'This feat I also had no idea how to accomplish, but ignorance had never stopped me from taking action before.',
-        'Viet Thanh Nguyen',
+    '2cca10e9-a388-5aaf-8576-c0eafa8dca8a' => [
+        'The beauty of the world, which is so soon to perish, has two edges, one of laughter, one of anguish, cutting the heart asunder.',
+        'Virginia Woolf',
     ],
-    [
-        'Good things come to people who wait, but better things come to those who go out and get them.',
+    '2fdab998-6d45-5fc2-9bf6-359ceb2ee63f' => [
+        'I\'m experimental by nature... always exploring my creativity.',
+        'Christina Aguilera',
+    ],
+    '97880b01-3c1a-5cad-aa2a-09f956372577' => [
+        'A good plan today is better than a perfect plan tomorrow.',
         'Unknown',
     ],
-    [
-        'I will sit in the car on the way to a meeting and just smile. I really mean that. It helps you get through life. If you have nothing to say, smile. Look up at the sky and smile. Just be grateful.',
-        'Andre Leon Talley',
+    'd8460f72-2d7f-559c-8bb4-d98cda024eb7' => [
+        'Stop being afraid of what could go wrong, and start being excited about what could go right.',
+        'Unknown',
     ],
-    [
-        'Being in love is the best feeling on the planet. I really believe that love makes the world go round.',
-        'Sonam Kapoor',
+    'c75679c2-d2de-51e8-a65f-3174b098c082' => [
+        'Giving back, doing motivational speeches and stuff like that, that\'s always made me feel good. If you repeatedly go out there, and you are the change that you want to see, then that\'s what you are.',
+        'Keke Palmer',
     ],
-    [
-        'Furloughing a bunch of air traffic controllers has a pretty easy-to-predict effect on air travel: It causes delays.',
-        'Alex Pareene',
+    'b0696f09-064f-528d-ad1a-d9e1bd0b2a2c' => [
+        'Should you shield the canyons from the windstorms you would never see the true beauty of their carvings.',
+        'Elisabeth Kubler-Ross',
     ],
-    [
-        'Great ideas often receive violent opposition from mediocre minds.',
+    'd4b6c24a-a5df-532e-b35f-8298b1c28186' => [
+        'The chief function of the body is to carry the brain around.',
+        'Thomas A. Edison',
+    ],
+    'd62f2265-2848-5bca-93f3-656192fc3a85' => [
+        'If you are given a chance to be a role model, I think you should always take it because you can influence a person\'s life in a positive light, and that\'s what I want to do. That\'s what it\'s all about.',
+        'Tiger Woods',
+    ],
+    '747e542c-dda8-517f-b677-7f78f06e1f80' => [
+        'It is only when the mind and character slumber that the dress can be seen.',
+        'Ralph Waldo Emerson',
+    ],
+    'fe277a09-08c0-5eed-bdb9-623a6e806093' => [
+        'A bland smile is like a green light at an intersection, it feels good when you get one, but you forget it the moment you\'re past it.',
+        'Douglas Coupland',
+    ],
+    '78fc6835-c24d-5129-88e0-3baaa52b3156' => [
+        'The only real valuable thing is intuition.',
         'Albert Einstein',
     ],
-    [
-        'I don\'t do very much for beauty. I use very simple things on my skin. I haven\'t got time. I would always get facials and then come home laden with product, and pay a lot of money and never use it. Anyway, one day a dermatologist told me to use Cetaphil to clean my face and as a moisturizer, and that\'s what I do.',
-        'Iris Apfel',
+    'fb59b0bb-d4b7-5958-8d55-df144ac90132' => [
+        'All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.',
+        'Martin Luther King, Jr.',
     ],
-    [
-        'There is no better feeling than doing well while you are doing good. If you really want to meet the nicest, most caring people in your field, get involved with charity work. The thankless hours that go into planning charity dinners, running a carnival, and gathering donations for silent auctions are noticed and appreciated.',
-        'Jay Samit',
+    '79df7ef6-9cf3-5e3e-b039-1f64db1298ce' => [
+        'All the best performers bring to their role something more, something different than what the author put on paper. That\'s what makes theatre live. That\'s why it persists.',
+        'Stephen Sondheim',
     ],
-    [
-        'My dad had this philosophy that if you tell children they\'re beautiful and wonderful then they believe it, and they will be. So I never thought I was unattractive. But I was never one of the girls at school who had lots of boyfriends.',
-        'Emily Mortimer',
+    '88647cf6-7f42-50ac-84aa-c8cb2b2901ef' => [
+        'I always wanted to be somebody, but I should have been more specific.',
+        'Lily Tomlin',
     ],
-    [
-        'Every day, people settle for less than they deserve. They are only partially living or at best living a partial life. Every human being has the potential for greatness.',
-        'Bo Bennett',
-    ],
-    [
-        'I believe in stopping work and eating lunch.',
-        'L\'Wren Scott',
-    ],
-    [
-        'Rockefeller once explained the secret of success. \'Get up early, work late - and strike oil.\'',
-        'Joey Adams',
-    ],
-    [
-        'I must admit that I personally measure success in terms of the contributions an individual makes to her or his fellow human beings.',
-        'Margaret Mead',
-    ],
-    [
-        'To me, the blues is an infection. I don\'t think it\'s necessarily a melancholy thing; the blues can be really positive and I think I think anyone and everyone can have a place for the blues. It need not always a woeful, sorrowful thing. It\'s more reflective; it reminds you to feel.',
-        'Mick Fleetwood',
-    ],
-    [
-        'Those who are free of resentful thoughts surely find peace.',
-        'Buddha',
+    '20373160-c344-5149-8c95-aa42b117347f' => [
+        'Hopefully I\'ll continue to have the success I\'ve had.',
+        'Tiger Woods',
     ],
 ];

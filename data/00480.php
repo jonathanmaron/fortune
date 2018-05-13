@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If you find something very difficult to achieve yourself, don\'t imagine it impossible-for anything possible and proper for another person can be achieved as easily by you.',
-        'Marcus Aurelius',
+    'fd1ec34b-4aaa-5a10-b14b-57326dee5924' => [
+        'I launched Chefs for Humanity, a national nonprofit, with my voice, heart and money from my own pocket. Money gives you the ability to make a difference in the world and, when used in a positive way, is a lot of fun.',
+        'Cat Cora',
     ],
-    [
-        'If I don\'t need the money, I don\'t work. I\'m going to spend time with my family and friends, and I\'m going to travel and read and listen to music and try to learn a little bit more about how to be a human being, as opposed to learning how to be somebody else.',
-        'James Spader',
+    'ddc0141e-22c6-526f-9cdd-d9d0b1c57692' => [
+        'Most people spend more time and energy going around problems than in trying to solve them.',
+        'Henry Ford',
     ],
-    [
-        'I guess when you turn off the main road, you have to be prepared to see some funny houses.',
-        'Stephen King',
+    '4593a9a7-1eea-5828-a2a7-106e5e11ad99' => [
+        'Be less curious about people and more curious about ideas.',
+        'Marie Curie',
     ],
-    [
-        '...but if a thing is humanly possible, consider it to be within your reach.',
-        'Marcus Aurelius',
+    '6a7a2f20-57a4-5329-8e65-47cfe916d690' => [
+        'If you set your goals ridiculously high and it\'s a failure, you will fail above everyone else\'s success.',
+        'James Cameron',
     ],
-    [
-        'For more and more of us, home has really less to do with a piece of soil than, you could say, with a piece of soul. If somebody suddenly asks me, \'Where\'s your home?\' I think about my sweetheart or my closest friends or the songs that travel with me wherever I happen to be.',
-        'Pico Iyer',
+    '47c9596a-fcf1-5680-add0-d35dd9f83835' => [
+        'Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.',
+        'Matt Zotti',
     ],
-    [
-        'The functions of the family in a highly differentiated society are not to be interpreted as functions directly on behalf of the society, but on behalf of personality.',
-        'Talcott Parsons',
+    '4203532b-3f9f-5323-84dd-69af65715df3' => [
+        'I\'ve always felt like I\'ve had the ability to choose which roles I was going to play. I don\'t think that the industry agreed with me, but I\'ve always had a bit of a headstrong attitude of only doing the things that I really believe in and want to explore.',
+        'Brie Larson',
     ],
-    [
-        'The seventies is what I love. Soft, touchable beauty is what I love.',
-        'Tom Ford',
+    '78a4cb80-0b9f-5250-ab89-ee293ba73727' => [
+        'I don\'t like work... but I like what is in work - the chance to find yourself. Your own reality - for yourself, not for others - which no other man can ever know.',
+        'Joseph Conrad',
     ],
-    [
-        'The purpose of Disneyland is to make people smile.',
-        'Kevin Plank',
+    '284c414c-c5e7-5e75-84fa-4539af602734' => [
+        'When you come up with a theory, you fall in love with the beauty the simplicity and elegance of it. But then you have to get a sheet of paper and pencil and crack out all the details. Hundreds and hundreds of pages. Because you have to prove it.',
+        'Michio Kaku',
     ],
-    [
-        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
-        'Rowan Atkinson',
+    'fca4f586-c939-5efc-a119-7454dfe072d4' => [
+        'All cities are mad: but the madness is gallant. All cities are beautiful: but the beauty is grim.',
+        'Christopher Morley',
     ],
-    [
-        'It\'s quite funny in that I once won Rear of the Year at my school! I was about 17 in the sixth form and we used to have an end of year celebration and give out different awards. I even got a little trophy!',
-        'Jessica Ennis',
+    '31dcbc5e-5386-52bc-b5c3-740d6d01d730' => [
+        'The only way to enjoy anything in this life is to earn it first.',
+        'Ginger Rogers',
     ],
-    [
-        'Just be yourself. Be honest, work towards a goal, and you\'ll achieve it.',
-        'Emraan Hashmi',
+    'b2708d98-1219-558b-99fb-8ce8cf0583ad' => [
+        'Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.',
+        'Eleanor Roosevelt',
     ],
-    [
-        'If you want to achieve greatness stop asking for permission.',
-        'Unknown',
+    '9d3dcebd-3713-55d5-be67-9ed6e7f338d4' => [
+        'Nothing ever comes to one, that is worth having, except as a result of hard work.',
+        'Booker T. Washington',
     ],
-    [
-        'My family is no different from yours. We may be different from the geography that we come from. Some of you all may pray differently than I do, some of you all may be from a different ethnicity, but we all have the same story.',
-        'Cory Booker',
+    '54c8d17e-c8ee-571b-a723-c89e1a453340' => [
+        'The best kind of accountability on a team is peer-to-peer. Peer pressure is more efficient and effective than going to the leader, anonymously complaining, and having them stop what they are doing to intervene.',
+        'Patrick Lencioni',
     ],
-    [
-        'Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.',
-        'Johann Wolfgang von Goethe',
+    '9931442d-2aed-5b99-ae74-e231981c6ce4' => [
+        'Kids can learn a lot about necessities and wants by recognizing what people live without. A common routine, but one that should not be overlooked, is having a family donation to a charity for those less fortunate. Ask your kids to search for items, toys, or clothes that they no longer use and contribute those items a collection box.',
+        'Alexa Von Tobel',
     ],
-    [
-        'Is there any possibility of giving international air travel, which we all need and use and hate, a touch of glamour, or even of reliable, soulless efficiency? I suspect future historians will puzzle over our failure. But by then, of course, we shall be in the age of mass space travel, with its fresh and unimaginable crop of horrors.',
-        'Paul Johnson',
+    'c677f906-8977-5350-a33b-614c09cf5109' => [
+        'One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute.',
+        'William Feather',
     ],
-    [
-        'It\'s also a question of finding good material and interesting roles. I\'m not the only actress out there, and good parts just don\'t fall into your lap that easily. But I like most of the films I\'ve made recently and so I\'m pretty positive about the future.',
-        'Winona Ryder',
+    'e4c18b69-27f6-564d-a623-181114705dfb' => [
+        'Shoot for the moon. Even if you miss, you\'ll land among the stars.',
+        'Les Brown',
     ],
-    [
-        'Children have adopted a consumerist attitude - I dare you to entertain me.',
-        'Walter Dean Myers',
+    '6588f8f8-e859-58a2-a751-9d5ccb7a67d4' => [
+        'Our Party attaches great importance to the work with young people and firmly believes in them.',
+        'Kim Jong-un',
     ],
-    [
-        'Nothing strengthens authority so much as silence.',
-        'Leonardo da Vinci',
+    'e7590cab-0b89-5343-ab6f-76f615a71ae6' => [
+        'I want to have fun. It\'s a beautiful life. You learn, you win, you lose, but you get up.',
+        'John Wooden',
     ],
-    [
-        'I really struggle with that feeling of helplessness. That\'s why I really try to get my blogs, and even myself, to point to the positive and look at all the inspiring things that are happening.',
-        'Daryl Hannah',
+    '00cb8ab7-a6d8-5d5e-b597-bcffef9187e4' => [
+        'Show me one guy or woman as funny as Rodney Dangerfield or as good as George Carlin, Richard Pryor, Bill Cosby, or Joan Rivers. There are a lot of good comics out there, no doubt, but as far as the quality of the comics goes, I think what you have is a bunch of situational comics.',
+        'Chris Rock',
     ],
-    [
-        'The drawings in \'Portal\' were actually me scribbling that stuff... I had a funny moment when I realized that someone gotten \'The cake is a lie\' tattooed on themselves. It was really interesting to see my handwriting tattooed on another human being. That... that\'s odd.',
-        'Kim Swift',
+    '79502c8b-7019-5571-8023-a475bcc339be' => [
+        'Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.',
+        'Jeremy Bentham',
     ],
-    [
-        'The Negro race, like all races, is going to be saved by its exceptional men. The problem of education, then, among Negroes must first of all deal with the Talented Tenth; it is the problem of developing the Best of this race that they may guide the Mass away from the contamination and death of the Worst, in their own and other races.',
-        'W. E. B. Du Bois',
+    '2792c7ac-85dc-515c-b373-008e6c03fd08' => [
+        'The statistics on sanity are that one out of every four Americans is suffering from some form of mental illness. Think of your three best friends. If they\'re okay, then it\'s you.',
+        'Rita Mae Brown',
     ],
-    [
-        'The greenest home is the one you don\'t build. If you really want to save the Earth, move in with another family and share a house that\'s already built. Better yet, live in the forest and eat whatever the squirrels don\'t want.',
-        'Scott Adams',
+    '0a580cd5-7d9c-5431-b6a8-e7b1d71b7106' => [
+        'Originality is the fine art of remembering what you hear but forgetting where you heard it.',
+        'Laurence J. Peter',
     ],
-    [
-        'I can only do something that my sister or my daughter, if I have one, could watch and feel positive about.',
-        'Romola Garai',
+    '0b6731e4-80da-5272-bb08-b508eb10af34' => [
+        'An idea that is developed and put into action is more important than an idea that exists only as an idea.',
+        'Buddha',
     ],
-    [
-        'All blame is a waste of time. No matter how much fault you find with another, and regardless of how much you blame him, it will not change you. The only thing blame does is to keep the focus off you when you are looking for... reasons to explain your unhappiness or frustration.',
-        'Casey Stengel',
+    '9e2c5273-0f3c-5c56-9a7f-acfd29faef74' => [
+        'Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.',
+        'Leo Buscaglia',
     ],
-    [
-        'I am not someone who is ashamed of my past. I\'m actually really proud. I know I made a lot of mistakes, but they, in turn, were my life lessons.',
-        'Jessica White',
+    '65933d65-cd1c-5e86-ad77-ecf18575633b' => [
+        'Along with success comes a reputation for wisdom.',
+        'Euripides',
     ],
 ];

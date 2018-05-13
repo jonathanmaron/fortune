@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Things are beautiful if you love them.',
-        'Jean Anouilh',
+    '2ee2dca0-51ae-5606-82de-c922df6ac529' => [
+        'My attitude is that if anybody of any age wants to read a book, let them, but I do think that no child would want to read \'Boneland.\'',
+        'Alan Garner',
     ],
-    [
-        'I am living proof that the American dream still exists. It is still alive and well. There is only one trick, you have to be willing to roll up your sleeves and work very, very hard.',
-        'Paula Deen',
+    '7b8dfb8c-adeb-5d5e-b00c-4d7437bdab77' => [
+        'I like to travel in jeans because I don\'t want to wallow around in my suit, you know? They cost too much. Jeans are comfortable.',
+        'Louie Gohmert',
     ],
-    [
-        'Do more of what makes you happy.',
-        'Carmel McConnell',
+    'e7432ebc-21c7-5f2a-b976-3e04e1429a84' => [
+        'Be a good listener. Your ears will never get you in trouble.',
+        'Frank Tyger',
     ],
-    [
-        'Intuition is the wisdom formed by feeling and instinct - a gift of knowing without reasoning... Belief is ignited by hope and supported by facts and evidence - it builds alignment and creates confidence. Belief is what sets energy in motion and creates the success that breeds more success.',
-        'Angela Ahrendts',
+    'b8b8b098-6f99-5b0e-81db-a57d63b3d5d6' => [
+        'History will be kind to me for I intend to write it.',
+        'Winston Churchill',
     ],
-    [
-        "A hard fall means a high bounce\u{2026}if you're made of the right material.",
-        'Unknown',
+    'ae4309fc-02f0-5436-a0f5-c28318e3f2fe' => [
+        'Don\'t give up. Don\'t lose hope. Don\'t sell out.',
+        'Christopher Reeve',
     ],
-    [
-        'I need that aggressive attitude to play my music and more men have that attitude than women.',
-        'Lita Ford',
+    '19bda292-3be3-50cc-b508-7c1858b8954e' => [
+        'I was the kid next door\'s imaginary friend.',
+        'Emo Philips',
     ],
-    [
-        'My first agent dissuaded me from calling myself \'Cumberbatch.\' I had six months of not very productive time with her, so I changed agents. The new one said, \'Why aren\'t you using your family name? It\'s a real attention-grabber.\' I worried, \'How much is it going to cost to put my name in lights?\' But then I decided that\'s not my problem.',
-        'Benedict Cumberbatch',
+    'eed47da2-a391-58a0-9b35-c02b88ce1585' => [
+        'Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.',
+        'Robert Graves',
     ],
-    [
-        'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
-        'Shawn Achor',
+    'a1be31be-4da9-5407-a16c-8cc777a91845' => [
+        'Everything in the universe goes by indirection. There are no straight lines.',
+        'Ralph Emerson',
     ],
-    [
-        'Unlike some of the time-travel movies I love, like \'Primer\' or \'12 Monkeys,\' \'Looper\' is not about time travel. It\'s about this situation that time travel creates and the people dealing with that situation. So narratively, the big challenge was to have time travel get out of the way.',
-        'Rian Johnson',
+    'd0ad0501-8c53-5062-abc6-ea078507c9a8' => [
+        'The cautious seldom err.',
+        'Confucius',
     ],
-    [
-        'Earthshaking fire from the center of the Earth will cause tremors around the New City. Two great rocks will war for a long time, then Arethusa will redden a new river.',
-        'Nostradamus',
+    '52568ab3-b7dd-5f51-9498-6dd7bb474326' => [
+        'Oh, I would love to be a motivational speaker. I have pulled myself out of a million potholes, and I can see the potholes ahead of me. That doesn\'t mean that I could always do that so perfectly for my own life. I totally fall in potholes.',
+        'Drew Barrymore',
     ],
-    [
-        'Even in winter an isolated patch of snow has a special quality.',
-        'Andy Goldsworthy',
+    '6ab83b2a-64a6-5778-832d-2be14fbb423b' => [
+        'I\'ve always surrounded myself with funny people.',
+        'Leslie Mann',
     ],
-    [
-        'I think the kids in school that laughed at the clothes that we wore and the house that we lived in, and then my mother had to cut hair... I think that was a good motivator. Every time they laughed at me, they just built a fire, and there was only one way to put it out - to try and show \'em I was as good as they were.',
-        'Jimmy Dean',
+    'db1ab791-5b41-56a7-9ac2-b444f8d5aa04' => [
+        'If I go anywhere, and I don\'t have my coffee, I don\'t drink coffee. When I travel, I carry it with me - and I ask hotels to grind it and brew it for me if I can\'t have it in my room myself. I\'m dedicated that way.',
+        'Grace Hightower',
     ],
-    [
-        'Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.',
-        'Nikola Tesla',
+    '1611a31e-d6ec-5c37-b600-b357ce548dda' => [
+        'I say always follow your passion, no matter what, because even if it\'s not the same financial success, it\'ll lead you to the money that\'ll make you the happiest.',
+        'Ellen DeGeneres',
     ],
-    [
-        'The superfluous, a very necessary thing.',
-        'Voltaire',
+    '7828f433-2e36-5370-aad8-3cfa417f1ef6' => [
+        "He understood well enough how a man with a choice between pride and responsibility will almost always choose pride\u{2014}if responsibility robs him of his manhood.",
+        'Stephen King',
     ],
-    [
-        'Life is largely a matter of expectation.',
-        'Neil Young',
+    '470da825-262f-50f7-8e7f-1fb52d3abd75' => [
+        'Trouble is only opportunity in work clothes.',
+        'Henry J. Kaiser',
     ],
-    [
-        'Many are called but few get up.',
-        'Oliver Herford',
+    'd88b2d17-b098-512c-b5b2-c1565c10befc' => [
+        'Such a faith would be fatal to my reason, to my liberty, and even to the success of my undertakings; it would immediately transform me into a stupid slave, an instrument of the will and interests of others.',
+        'Mikhail Bakunin',
     ],
-    [
-        'The secret to success is good leadership, and good leadership is all about making the lives of your team members or workers better.',
-        'Tony Dungy',
+    '608e9b97-b930-5d13-ab77-d93c6d5d8ed4' => [
+        'The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.',
+        'Sylvia Earle',
     ],
-    [
-        'After my husband John Lennon passed away, I tried to smile for my health.',
-        'Yoko Ono',
+    'f55a6730-856f-5d46-94e1-45e466fea125' => [
+        'And it was a great experience, you know, to travel the world and compete at a certain level. It teaches you discipline, focus, and certainly keeps you out of trouble.',
+        'Jason Statham',
     ],
-    [
-        'You know, real life doesn\'t just suddenly resolve itself. You have to keep working at it. Democracy, marriage, friendship. You can\'t just say, \'She\'s my best friend.\' That\'s not a given, it\'s a process.',
-        'Viggo Mortensen',
+    '6f0d3a35-e6fa-573d-8382-d81e848b807a' => [
+        'Ability will never catch up with the demand for it.',
+        'Confucius',
     ],
-    [
-        'I think there are a lot of really positive aspects to social media for novelists. Even though our work is pretty solitary, through Twitter and Tumblr and Facebook and Instagram and blogging in general, we\'re better able to connect directly with readers.',
-        'Holly Black',
+    '9fa7f848-3da0-5e7c-bc38-f7d41370d786' => [
+        'At the end of the day, you are solely responsible for your success and your failure. And the sooner you realize that, you accept that, and integrate that into your work ethic, you will start being successful. As long as you blame others for the reason you aren\'t where you want to be, you will always be a failure.',
+        'Erin Cummings',
     ],
-    [
-        'Gambling: The sure way of getting nothing for something.',
-        'Wilson Mizner',
+    'ed46267b-2c3e-526c-9e74-dbe4591d26e7' => [
+        'A work of art is above all an adventure of the mind.',
+        'Eugene Ionesco',
     ],
-    [
-        'I grew up playing hockey and some football, and I always think about the first time you walk into the locker room on a new team. The cliques are looking at you funny, and you make one friend, but then they\'re trying to stab you in the back.',
-        'Aaron Douglas',
+    'faaf8486-f545-5823-a1a2-43e7741dcde5' => [
+        'The learner always begins by finding fault, but the scholar sees the positive merit in everything.',
+        'Georg Wilhelm Friedrich Hegel',
     ],
-    [
-        'I don\'t really remember a time younger than 5 years old that I didn\'t have skates on because all I can remember is every day, tying up my skates and a big smile on my face, excited to go on the ice.',
-        'Michelle Kwan',
+    '0d9d65e1-d79f-53a4-abf8-49895551ba7e' => [
+        'I always said that if I could just find a guy who could chop wood and had a nice smile, it wouldn\'t bother me if he was a thug or an aristocrat, as long as he was a good guy. And I\'ve ended up with an educated thug.',
+        'Sade Adu',
     ],
-    [
-        'I think anyone who has a passion for what they love to do, and who pursue it, is inspirational for me.',
-        'Colin Morgan',
+    'ebab565f-bad2-5ce5-b39c-9a0968a664d7' => [
+        'I think we all have our own personality, unique and distinctive, and at the same time, I think that our own unique and distinctive personality blends with the wind, with the footsteps in the street, with the noises around the corner, and with the silence of memory, which is the great producer of ghosts.',
+        'Octavio Paz',
     ],
-    [
-        'Rhetoric is the art of ruling the minds of men.',
-        'Plato',
+    'c54e8f8d-3361-5620-b6de-bced74e10480' => [
+        'Never take a solemn oath. People think you mean it.',
+        'Norman Douglas',
     ],
 ];

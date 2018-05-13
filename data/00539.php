@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Sometimes negative news does come out, but it is often exaggerated and manipulated to spread scandal. Journalists sometimes risk becoming ill from coprophilia and thus fomenting coprophagia: which is a sin that taints all men and women, that is, the tendency to focus on the negative rather than the positive aspects.',
-        'Pope Francis',
+    '25ef8908-39eb-5446-9eee-54487d1dfb21' => [
+        'Time is the most valuable thing on earth: time to think, time to act, time to extend our fraternal relations, time to become better men, time to become better women, time to become better and more independent citizens.',
+        'Samuel Gompers',
     ],
-    [
-        'If you want to have a good life, you should focus on your family, on your business, on your dog, on your fun, and you\'ll have a good life.',
-        'Adam Carolla',
+    'b08cbc2e-4e18-5519-8e50-81ef53400e2a' => [
+        'I would love to be a travel writer. I\'d be so stoked.',
+        'Drew Barrymore',
     ],
-    [
-        'The reward for work well done is the opportunity to do more.',
-        'Jonas Salk',
+    'b2cb3b2b-d75a-503e-8d34-1bb33f8f7d85' => [
+        'I love spending time with my dog, my niece and my family. I\'m very family-oriented.',
+        'Lil\' Kim',
     ],
-    [
-        'I want to live and feel all the shades, tones, and variations of mental and physical experience possible in my life. And I am horribly limited.',
-        'Tony Robbins',
+    'f6a5e552-b3fc-5c2b-a867-91c0b0e7a32e' => [
+        'How we spend our days is, of course, how we spend our lives.',
+        'Annie Dillard',
     ],
-    [
-        'Happiness is found in doing, not merely possessing.',
-        'Napoleon Hill',
+    '41035e2f-6340-5428-83d7-dec70eb38baa' => [
+        'I always have a funny story at communion time that underscores that no one is perfect, and that communion is not for perfect people but for hungry people.',
+        'Greg Boyle',
     ],
-    [
-        'To be happy is to be able to become aware of oneself without fright.',
-        'Walter Benjamin',
+    'cbbae015-787e-5d41-83d7-d861d1be352e' => [
+        'Bjorn was a different breed, I threw my best material at him, but he would never smile, but that added to the charm when he played me and Mac. We were going nuts and losing our mind and he was sitting back like he was on a Sunday stroll.',
+        'Jimmy Connors',
     ],
-    [
-        'I am generally a very happy and easygoing person. I also believe it\'s always better to meet people with a smile rather than looking cold, especially when you first meet. It changes everything.',
-        'Heidi Klum',
+    'c02e9172-0df1-53fe-a7e3-c6c1e47b4161' => [
+        'Youth is something I never wanna take for granted. I just want to smile and live life.',
+        'Tyler, The Creator',
     ],
-    [
-        'I surround myself with positive, productive people of good will and decency.',
-        'Ted Nugent',
+    '8e28eb4c-ee8e-5b16-8a1b-d87337bcbd65' => [
+        'We cannot change our past. We can not change the fact that people act in a certain way. We can not change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude.',
+        'Charles R. Swindoll',
     ],
-    [
-        'Do I like being thought of as attractive? I don\'t know anyone on Earth who doesn\'t, but I do find it funny.',
-        'Benedict Cumberbatch',
+    'e9d76575-57c9-5fb5-9ac9-a147af188889' => [
+        'Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.',
+        'Bruce Lee',
     ],
-    [
-        'Discipline is the bridge between goals and accomplishment.',
-        'Jim Rohn',
+    'b6df2c88-b945-5466-88b2-a215e58cdcd0' => [
+        'I\'ve always believed that as actors, one of the biggest advantages of being in the film business - not just of being actors, but being in this industry - is the fact that you get to travel so much, and you get to see places that you probably would not if you went just as a tourist.',
+        'Deepika Padukone',
     ],
-    [
-        'The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.',
-        'Vincent Lombardi',
+    '017ea543-eee4-5b6e-b0cc-0801a5d07155' => [
+        'Whenever the pressure of our complex city life thins my blood and numbs my brain, I seek relief in the trail; and when I hear the coyote wailing to the yellow dawn, my cares fall from me - I am happy.',
+        'Hamlin Garland',
     ],
-    [
-        'We learned about gratitude and humility - that so many people had a hand in our success, from the teachers who inspired us to the janitors who kept our school clean... and we were taught to value everyone\'s contribution and treat everyone with respect.',
-        'Michelle Obama',
+    '94cf950b-21e3-5c96-a346-4640e34f8e3d' => [
+        'Israel was not created in order to disappear - Israel will endure and flourish. It is the child of hope and the home of the brave. It can neither be broken by adversity nor demoralized by success. It carries the shield of democracy and it honors the sword of freedom.',
+        'John F. Kennedy',
     ],
-    [
-        'We didn\'t lose the game; we just ran out of time.',
-        'Vince Lombardi',
+    '359c3308-68e3-5360-b6b6-c92dde43f2db' => [
+        'I am a passionate traveler, and from the time I was a child, travel formed me as much as my formal education.',
+        'David Rockefeller',
     ],
-    [
-        'Bats drink on the wing, like swallows, by sipping the surface, as they play over pools and streams.',
-        'Gilbert White',
+    '699fb180-68a2-553e-98a9-a4e29c37136e' => [
+        'Time management is an oxymoron. Time is beyond our control, and the clock keeps ticking regardless of how we lead our lives. Priority management is the answer to maximizing the time we have.',
+        'John C. Maxwell',
     ],
-    [
-        'Adapt or perish, now as ever, is nature\'s inexorable imperative.',
-        'H. G. Wells',
+    '56ad5cb7-f7bc-596a-ac59-9bd6d41eebf8' => [
+        'A man is a better citizen of the United States for being also a loyal citizen of his state and of his city; for being loyal to his family and to his profession or trade; for being loyal to his college or his lodge.',
+        'Louis D. Brandeis',
     ],
-    [
-        'The consumer is deciding what they want to see and when and how, and filmmakers are more aware and accepting of the fact that success is not predicated on your movie showing in a traditional theater for a certain amount of time.',
-        'Ava DuVernay',
+    '43299866-5f48-55d6-8c2b-6a49f11a1940' => [
+        'Nature never deceives us; it is we who deceive ourselves.',
+        'Jean-Jacques Rousseau',
     ],
-    [
-        'So I feel like success is opportunity plus preparation, so work begets work, and as long as you\'re prepared it\'s going to continue to come your way.',
-        'Anthony Mackie',
+    '0f9623b6-fe88-52e1-a742-ac5e03c1c984' => [
+        'Only when we are no longer afraid do we begin to live.',
+        'Dorothy Thompson',
     ],
-    [
-        'I\'ve had a fairy tale life. I had a perfect family, a beautiful childhood, an incredible upbringing. I lived a lot of life but a lot of good life.',
-        'John Stamos',
+    'cc145290-3478-5183-8fb1-38c2f3a0cb55' => [
+        'I\'m doing my best to be mindful about how I\'m living: to be kind and patient, and not to impose a bad mood on somebody else. Being mindful is as good a way to be spiritual as anything else.',
+        'Deirdre O\'Kane',
     ],
-    [
-        'Beauty is worse than wine, it intoxicates both the holder and beholder.',
-        'Aldous Huxley',
+    'daaf4899-c62e-58f5-8f57-2831e3029a0e' => [
+        'Happiness is dependent on self-discipline. We are the biggest obstacles to our own happiness. It is much easier to do battle with society and with others than to fight our own nature.',
+        'Dennis Prager',
     ],
-    [
-        'My whole life is about winning. I don\'t lose often. I almost never lose.',
-        'Marcus Aurelius',
+    '22399592-8948-55a8-8353-e94a1328d7c1' => [
+        'Why does a woman work ten years to change a man\'s habits and then complain that he\'s not the man she married?',
+        'Barbra Streisand',
     ],
-    [
-        'The pursuit, even of the best things, ought to be calm and tranquil.',
-        'Marcus Tullius Cicero',
+    'fab3bca8-aee5-505b-8bc7-70e44658a907' => [
+        'We should not say that one man\'s hour is worth another man\'s hour, but rather that one man during an hour is worth just as much as another man during an hour. Time is everything, man is nothing: he is at the most time\'s carcass.',
+        'Karl Marx',
     ],
-    [
-        'I have a very good family. I\'m very fortunate to have a very good family. I believe very strongly in the family. It\'s one of the things we have in our platform, is to talk about it.',
-        'Dan Quayle',
+    '888342ce-4025-53f6-a105-a315306f3ae9' => [
+        'If you\'re a good choice maker, you can choose the best emotional responses and choose the best new life paths, forward and upward.',
+        'Karen Salmansohn',
     ],
-    [
-        'We can only learn to love by loving.',
-        'Iris Murdoch',
+    'cfc6c24e-88e0-5c88-bb53-e9af5d0562fa' => [
+        'The Web is not a prize to be won, and Mr. Ballmer\'s attitude is deplorable in the light of what the Web means to the world, to users, to designers and developers, and - to put it into Microsoft parlance - customers.',
+        'Molly Holzschlag',
     ],
-    [
-        'Being fully present is the best guarantee for a bright future.',
-        'Guy Finley',
+    '1fe6a2c8-7984-53c7-9412-2dddfb7e8d94' => [
+        'Some people hate lime-green; red has all this emotional baggage. Blue seems to be overall one of the more positive colors, and a little more serious than yellow.',
+        'David Carson',
     ],
-    [
-        'It is not length of life, but depth of life.',
-        'David Attenborough',
+    '15afd086-b39c-5606-ae00-783cf2c77893' => [
+        'Don\'t send funny greeting cards on birthdays or at Christmas. Save them for funerals, when their cheery effect is needed.',
+        'P. J. O\'Rourke',
     ],
 ];

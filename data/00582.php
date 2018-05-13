@@ -1,104 +1,40 @@
 <?php
 
 return [
-    [
-        'The details surrounding both my marriage and subsequent filing for divorce are private, and I had hoped to keep them that way for the sake of my family.',
-        'Eminem',
+    'acd03f59-4e41-5e86-9f63-36baeb9b4bcf' => [
+        'The worst bankrupt in the world is the person who has lost his enthusiasm.',
+        'H. W. Arnold',
     ],
-    [
-        'Wishes don\'t bring riches; work make things work.',
-        'Ifeanyi Enoch Onuoha',
+    'e80cf250-c2ce-5870-ac80-898e0b838290' => [
+        'The best person to get something done is a busy person.',
+        'Mark Burnett',
     ],
-    [
-        'Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.',
-        'Barack Obama',
+    '3c50c659-18b2-5400-8352-3e3947b1350a' => [
+        'I always tell people, \'The music\'s free. I get paid to travel.\'',
+        'Chris Stapleton',
     ],
-    [
-        'My mom was a model, so she\'s been really good about giving me tips on how to navigate behind the scenes - like the importance of being nice to everyone on set and remembering people\'s names, to how to be a positive part of the photo shoot and stuff like that.',
-        'Gigi Hadid',
+    '39fa6da8-d58c-56d5-82eb-49ba48cfb6ab' => [
+        'Learn to say \'no\' to the good so you can say \'yes\' to the best.',
+        'John C. Maxwell',
     ],
-    [
-        'Success and failure are both part of life. Both are not permanent.',
-        'Shah Rukh Khan',
+    'e0bee849-5d7d-5250-af65-9355cf77d59e' => [
+        'I get very nervous whenever I think about it. I\'ve never done a serious play, and I have such awe of the woman - she\'s really my only idol. It\'s going to be a big stretch - certain people come out on stage and your face muscles automatically tense and you get ready to smile.',
+        'Judy Holliday',
     ],
-    [
-        'People feel vulnerable when they travel. Nobody wants to be taken advantage of or talked into something they don\'t want. Staying at Motel 6 makes you feel smarter. In fact, I think it actually means you are smarter, but I have no hard data to support that.',
-        'Tom Bodett',
+    'ea05e293-1003-56ff-a7c0-1a52ed52ce4f' => [
+        'A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness.',
+        'John Keats',
     ],
-    [
-        'Poetry: the best words in the best order.',
-        'Samuel Taylor Coleridge',
+    '238afc8f-bf41-5d57-8e39-7603be3dfade' => [
+        'Michael Palin decided to give up on his considerable comedy talents to make those dreadfully tedious travel shows. Have you ever tried to watch one?',
+        'John Cleese',
     ],
-    [
-        'I just think that there\'s so much judgment in the world, whether it\'s coming from women in general or from men onto women - it\'s a lot. And when it comes to being a mom, I wish everyone could band together and realize that everyone has different beliefs, different styles, and different things that work for them and their family.',
-        'Hilary Duff',
+    '778f93b8-804b-5289-b299-5089c1f8c130' => [
+        'Real shapes and real patterns are things you would observe in nature, like the marks on the back of a cobra\'s hood or the markings on a fish or a lizard. Imaginary shapes are just that, symbols that come to a person in dreams or reveries and are charged with meaning.',
+        'Jim Woodring',
     ],
-    [
-        'You can\'t use up creativity. The more you use, the more you have.',
-        'Maya Angelou',
-    ],
-    [
-        'I am trying to inspire people to just take control of their oral health, because if we don\'t take care of our oral health, it affects so many different aspects of our lives. If your smile and mouth is not together, it affects your relationship, your self-esteem, your health.',
-        'Sherri Shepherd',
-    ],
-    [
-        'Life is a process. We are a process. The universe is a process.',
-        'Anne Schaef',
-    ],
-    [
-        'If you aren\'t going all the way, why go at all?',
-        'Joe Namath',
-    ],
-    [
-        'Little minds are tamed and subdued by misfortune; but great minds rise above it.',
-        'Washington Irving',
-    ],
-    [
-        'Pour on, I will endure.',
-        'William Shakespeare',
-    ],
-    [
-        'Nobody was my support. You have to support yourself, and I think that is the beauty of being a woman. You can handle anything and be ten times better than men.',
-        'Kangana Ranaut',
-    ],
-    [
-        'I think Nina Simone has had an amazing journey. She was spicy and she had attitude and she didn\'t care, she wanted her money in a paper bag and don\'t mess with me and I\'ve been doing some research on that so.',
-        'Nia Long',
-    ],
-    [
-        'Weight loss can change your whole character. That always amazed me: Shedding pounds does change your personality. It changes your philosophy of life because you recognize that you are capable of using your mind to change your body.',
-        'Ciara',
-    ],
-    [
-        'Go out and do something. It isn\'t your room that\'s a prison, it\'s yourself.',
-        'Sylvia Plath',
-    ],
-    [
-        'When you\'ve been touched by sadness and grief, it makes you vulnerable. And because I am vulnerable, I try to be positive. And when I say \'try,\' I really do mean try, because it\'s an effort.',
-        'Marie Helvin',
-    ],
-    [
-        'Change is the law of life. And those who look only to the past or present are certain to miss the future.',
-        'John D. Rockefeller',
-    ],
-    [
-        'Success consists of going from failure to failure without loss of enthusiasm.',
-        'Winston Churchill',
-    ],
-    [
-        'We come in many different shapes and sizes, and we need to support each other and our differences. Our beauty is in our differences.',
-        'Carre Otis',
-    ],
-    [
-        'I\'m just a regular person who believes life is simple, and I like a simple life.',
-        'Virgil',
-    ],
-    [
-        'There was a time when men thought it was sexy to have a housewife waiting for him to come home from work in her slippers, but in modern society, I think an independent woman is even more sexy.',
-        'Kat Graham',
-    ],
-    [
-        'We must travel in the direction of our fear.',
-        'John Berryman',
+    '57404daa-d95d-5892-a480-57bb29b6b997' => [
+        'Comedy taste changes. It only changes slightly, but there\'s always a different angle, a different attitude.',
+        'Ronnie Corbett',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Sometimes when I\'m being photographed, I hear the voice of this photographer who told me when I was about six while he was taking my school photo that I didn\'t have a nice smile, and I shouldn\'t smile in photos.',
-        'Brad Goreski',
+    'c3fb5b43-3530-5b7d-b967-37d6e136d2f1' => [
+        'My life motto is \'Do my best, so that I can\'t blame myself for anything.\'',
+        'W. Clement Stone',
     ],
-    [
-        'If a man does his best, what else is there?',
-        'George S. Patton',
+    '2db2a520-1a31-5110-8999-5eae158ce0e0' => [
+        'I would love a family. I\'m at the age where the wish for a child gets stronger. But who knows.',
+        'Cameron Diaz',
     ],
-    [
-        'My parents raised me with a never-give-up attitude, telling me I could be anything I wanted to be. I was a serious violinist and a valedictorian of my high school class. I knew all about hard work.',
-        'Gretchen Carlson',
+    'a6c4fbde-fd91-5a48-8237-ca3a5242917a' => [
+        'Childbirth changed my perception of my wife. She was now the bloodied special forces soldier who had fought and risked everything for our family.',
+        'Mohsin Hamid',
     ],
-    [
-        'I never thought I was particularly good looking. But when I see old photographs, I realise that I was. I do wish I had known that at the time because beauty is power. I didn\'t realise how lucky I was to be young, beautiful and in Hollywood. It didn\'t hit me. Every day I woke up, went to the film studio and just got on with it.',
-        'Joan Collins',
+    '3aa3b2b9-c051-563d-923c-b439fcec99d5' => [
+        'I am a positive person. I am not cynical. If you are born in this world, no matter who you are, negative things will happen. If you aren\'t positive as a person, you\'ll be very unhappy. It\'s extremely important to be positive, to laugh, to be happy, to accept life as it comes.',
+        'Bipasha Basu',
     ],
-    [
-        'The bottom line: if you want a happier family, create, refine and retell the story of your family\'s positive moments and your ability to bounce back from the difficult ones. That act alone may increase the odds that your family will thrive for many generations to come.',
-        'Bruce Feiler',
+    '89c17768-43e7-549f-8a43-3fd48ab28419' => [
+        'I\'m a huge reggae fan. I want to go to Jamaica and make, like, Bob Marley \'One Love\' positive songs. That\'s what the world needs.',
+        'Jenny Lewis',
     ],
-    [
-        'I love every minute of fatherhood, staying up all night, changing nappies, kids crying, I find it really funny and inspiring. It connects you to the world in a new way.',
-        'Elton John',
+    'd72a502b-4465-56b9-a26b-0b2a06a8b1e7' => [
+        'Every small business will give you an entrepreneurial way of looking at things. I guarantee you that for every plant that closes, if you gave it to one small-business person in that community, he or she would find a way to make it work. The small-business attitude is you always find a way to make it work.',
+        'Hamdi Ulukaya',
     ],
-    [
-        'I don\'t really desire things. I prefer to spend my money on experiences, on meals or travel.',
-        'Rachel McAdams',
+    '45e2e369-abff-5252-b2f7-eb578f812821' => [
+        'I think we\'re all good and bad, but good\'s not funny. Bad is funny. Suppress the good and let the bad out, and then you can be funny.',
+        'Larry David',
     ],
-    [
-        'From its brilliancy everything is illuminated.',
-        'Guru Nanak',
+    '3d4948b0-7f3e-5f40-8fbe-feaed8b2d947' => [
+        'The success of each of us benefits us all, and the success of us all benefits each of us individually.',
+        'Walter Ulbricht',
     ],
-    [
-        'Well, I took a sabbatical. I walked away from shooting movies because I couldn\'t handle the travel. I\'m a single parent. I had young kids, and I found that keeping in touch with them from hotel rooms and airports wasn\'t working for me. So I stopped.',
-        'Rick Moranis',
+    '6f3c4677-d305-57da-94e4-bb892d05ab27' => [
+        'The envious man grows lean at the success of his neighbor.',
+        'Horace',
     ],
-    [
-        'With the past, I have nothing to do; nor with the future. I live now.',
-        'Shah Rukh Khan',
+    'd2f1c04f-8ba2-5eb9-b562-584cf32e4799' => [
+        'This has always been a motto of mine: Attempt the impossible in order to improve your work.',
+        'Bette Davis',
     ],
-    [
-        'There\'s only one band that could ever even pretend to assume the mantle of what the Beatles did, who have been so pre-eminent and world-dominating that they could effect a paradigm shift in the culture, who have been willing to leverage their success into musical change, and that is U2 - regardless of what the result of that is.',
-        'Todd Rundgren',
+    'fb6dd0ea-f719-5ef6-9a6f-0babfd81d7bf' => [
+        'If you have knowledge, let others light their candles in it.',
+        'Margaret Fuller',
     ],
-    [
-        'Beauty when unadorned is adorned the most.',
-        'St. Jerome',
+    'acec7f08-7ded-5f61-91c6-03badbc3ee10' => [
+        'What I wish I had, is that I wish I was a little more Greek, in that I wish I could lose my North American driven attitude and that I could be a little bit more poetic and laissez faire.',
+        'Nia Vardalos',
     ],
-    [
-        'I have been a foreigner all my life, first as a daughter of diplomats, then as a political refugee and now as an immigrant in the U.S. I have had to leave everything behind and start anew several times, and I have lost most of my extended family.',
-        'Isabel Allende',
+    '865b3e46-e0e2-5eaa-930f-ed3e5f8f2555' => [
+        'Nearly all monster stories depend for their success on Jack killing the Giant, Beowulf or St. George slaying the Dragon, Harry Potter triumphing over the basilisk. That is their inner grammar, and the whole shape of the story leads towards it.',
+        'A. N. Wilson',
     ],
-    [
-        'When I was little, I didn\'t really travel - from the suburbs to Paris was already a journey. I had a foreigner\'s eye on the city, and I still enjoy that point of view. Then there\'s the fact that one of the things that touches me most is injustice.',
-        'JR',
+    '6f43c3c7-0cdd-5899-ab89-dc2714827b6d' => [
+        'Don\'t be afraid to give up the good to go for the great.',
+        'John D. Rockefeller',
     ],
-    [
-        'I am prepared for the worst, but hope for the best.',
-        'Benjamin Disraeli',
+    '5b231407-034a-555f-9bed-27c33dc631ff' => [
+        'The reason most people never reach their goals is that they don\'t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.',
+        'Denis Waitley',
     ],
-    [
-        'Life\'s too mysterious to take too serious.',
-        'Mary Engelbreit',
+    '419f5fe4-3299-5f37-8207-0837c216579a' => [
+        'I think that when we have a better educated society, when there is less violence in our cities, when people get back into the workforce and have the opportunity to take care of themselves and their families - that for me really is the kind of success and the kind of America that I think most of us still want, we aspire to.',
+        'Michael Nutter',
     ],
-    [
-        'Either you run the day, or the day runs you.',
-        'Jim Rohn',
+    '7003015b-78bf-5dc4-8546-fd9ed05b855b' => [
+        'My work is like my vacation, so in a way every day is like Saturday.',
+        'Ludacris',
     ],
-    [
-        'I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.',
-        'Amy Tan',
+    '47708ffd-51ac-5a83-9834-8966bbb807cd' => [
+        'Travel, instead of broadening the mind, often merely lengthens the conversation.',
+        'Elizabeth Drew',
     ],
-    [
-        'I travel. I do a lot of traveling around the world.',
-        'Chris Tucker',
+    '32f12c89-9e2e-506e-b96f-28fa97775ff8' => [
+        'I was born into a Christian family and brought up in a Lutheran church. My faith has been the center point of my life, really, since I was a child, but at 16 years of age, I fully surrendered my life over to Christ. At that point, as a teenager, I began to grasp the concept of Christ\'s true love and forgiveness.',
+        'Michele Bachmann',
     ],
-    [
-        'I served at the Pentagon and at Fort Leavenworth - my job was video cameraman, and that allowed me to travel to places like Korea, Japan, Alaska, Germany and the Netherlands.',
-        'Chad Coleman',
+    '428de270-adb8-59a4-8f4b-59c90b66e8f5' => [
+        'The compulsion to do good is an innate American trait. Only North Americans seem to believe that they always should, may, and actually can choose somebody with whom to share their blessings. Ultimately this attitude leads to bombing people into the acceptance of gifts.',
+        'Ivan Illich',
     ],
-    [
-        'There\'s no escalators - there\'s only staircases to success. There is no substitute for hard work.',
-        'Lilly Singh',
+    'ae7b24e9-e1c5-58b3-b864-0d895cbedc1b' => [
+        'One may miss the mark by aiming too high as too low.',
+        'Thomas Fuller',
     ],
-    [
-        'I used to jog but the ice cubes kept falling out of my glass.',
-        'David Lee Roth',
+    'a74b0839-402f-5952-b5bb-716f784305e2' => [
+        'Thunder is good, thunder is impressive; but it is lightning that does the work.',
+        'Mark Twain',
     ],
-    [
-        'The most important thing is to stay positive.',
-        'Saku Koivu',
+    'c7e17340-c325-5ffe-8df2-81b614b38bdf' => [
+        'I think it\'s a comedian\'s job to make everything funny. Nothing is off-limits.',
+        'Donald Glover',
     ],
-    [
-        'Every man\'s life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.',
-        'George Eliot',
+    'd117ae91-ddae-5898-b070-58c0594be6d1' => [
+        'I was motivated to be different in part because I was different.',
+        'Donna Brazile',
     ],
-    [
-        'There is something in even the darkest situations that we can make a positive in our lives.',
-        'Deborah Norville',
+    '017968ba-21e2-5802-a4ff-e782ccdcdb56' => [
+        'Happiness is having a large, loving, caring, close-knit family in another city.',
+        'George Burns',
     ],
 ];

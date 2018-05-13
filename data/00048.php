@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Going to a restaurant is one of my keenest pleasures. Meeting someplace with old and new friends, ordering wine, eating food, surrounded by strangers, I think is the core of what it means to live a civilised life.',
-        'William Feather',
+    'c9fdfaac-6cc2-5826-8c75-96aa2089d3b0' => [
+        'To accomplish great things, we must not only act, but also dream; not only plan, but also believe.',
+        'Anatole France',
     ],
-    [
-        'We could never learn to be brave and patient if there were only joy in the world.',
-        'Helen Keller',
+    '0c1a86f6-5cb2-529f-b3c1-96ad47798164' => [
+        'I used to think that the worst thing in life was to end up alone. It\'s not. The worst thing in life is to end up with people who make you feel alone.',
+        'Norman Cousins',
     ],
-    [
-        'It\'s better to be a lion for a day than a sheep all your life.',
-        'Rupert Murdoch',
+    '0cb74e6d-1f9a-57cb-86e5-25d42b09d41d' => [
+        'Animals have a much better attitude to life and death than we do. They know when their time has come. We are the ones that suffer when they pass, but it\'s a healing kind of grief that enables us to deal with other griefs that are not so easy to grab hold of.',
+        'Emmylou Harris',
     ],
-    [
-        'Vampires are so old that they don\'t need to impress anyone anymore. They\'re comfortable in their own skin. It\'s this enigmatic strength that\'s very romantic and old-fashioned. I think it goes back to something of a Victorian attitude of finding a strong man who\'s going to look after his woman.',
-        'Stephen Moyer',
+    'f9da89b8-9759-5571-a0f4-f30c28f48ecb' => [
+        'Prejudice is a great time saver. You can form opinions without having to get the facts.',
+        'E. B. White',
     ],
-    [
-        'I was walking around legally blind. Now I have 20-20 vision. I can\'t believe I spent so many years blurry, but I think that coincides with how I was feeling. Now I notice if people are watching me, but I also smile right back if someone waves, which helps.',
-        'Nicole Kidman',
+    'c809b3ad-6099-57e4-b275-74ce4608a9ad' => [
+        'I would vote for the man who\'s lived life, who\'s done different occupations, who\'s been out in the real world and struggled to make a living, struggled to raise a family, struggled with life as it exists. So I\'d vote for experience, honest experience.',
+        'Oliver Stone',
     ],
-    [
-        'We learn wisdom from failure much more than from success. We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.',
-        'Samuel Smiles',
+    '2333515a-a071-5a69-8985-e6aef86ada7d' => [
+        'Everything has its beauty, but not everyone sees it.',
+        'Andy Warhol',
     ],
-    [
-        'To get down to the quick of it, respect motivates me - not success.',
-        'Hugh Jackman',
+    '0c673ee1-0f2a-565f-978e-bdbe3396f82a' => [
+        'Jazz is the only music in which the same note can be played night after night but differently each time.',
+        'Ornette Coleman',
     ],
-    [
-        'One can have no smaller or greater mastery than mastery of oneself.',
-        'Lenoardo da Vinci',
+    'f7aa5c40-be23-593a-9e95-2b6289b83097' => [
+        'I never think of the future. It comes soon enough.',
+        'Albert Einstein',
     ],
-    [
-        'The trouble with travelling back later on is that you can never repeat the same experience.',
-        'Michael Palin',
+    '69872010-d734-57fd-abed-750b165c25be' => [
+        'If you hire people just because they can do a job, they\'ll work for your money. But if you hire people who believe what you believe, they\'ll work for you with blood, sweat, and tears.',
+        'Simon Sinek',
     ],
-    [
-        'I\'m trying to broaden the scope of positive psychology well beyond the smiley face. Happiness is just one-fifth of what human beings choose to do.',
-        'Martin Seligman',
+    '254dcd6e-f6bc-5e09-a226-d58e42dbdafb' => [
+        'Give a little love to a child, and you get a great deal back.',
+        'John Ruskin',
     ],
-    [
-        'There are always young bands playing in their garages. A lot of punk rock is not going to be in the mainstream. It\'s below the radar. The beauty of it is that you\'re not supposed to always know. It\'s subterranean.',
-        'Billie Joe Armstrong',
+    '16d8803c-c520-50e9-8ce4-058b619b01cc' => [
+        'I never could have achieved the success that I have without setting physical activity and health goals.',
+        'Bonnie Blair',
     ],
-    [
-        'An aristocratic culture does not advertise its emotions. In its forms of expression it is sober and reserved. Its general attitude is stoic.',
-        'Johan Huizinga',
+    'db078eec-2afe-5d8b-b368-5b9b7d5ca89f' => [
+        'Success didn\'t spoil me, I\'ve always been insufferable.',
+        'Fran Lebowitz',
     ],
-    [
-        'Life brings simple pleasures to us every day. It is up to us to make them wonderful memories.',
-        'Cathy Allen',
+    '94fd4b4b-0c15-5426-a344-e02251ffba17' => [
+        'I like to write sad songs. They\'re much easier to write and you get a lot more emotion into them. But people don\'t want to hear them as much. And radio definitely doesn\'t; they want that positive, uptempo thing.',
+        'Alan Jackson',
     ],
-    [
-        'At home in Ireland, there\'s a habit of avoidance, an ironical attitude towards the authority figure.',
-        'Seamus Heaney',
+    '99875799-9709-553a-9759-12c02c745965' => [
+        'You can be a pretty face, but if you\'re not a nice person, it just doesn\'t work. I\'m not traditionally a beauty, but apparently people think I\'m all right. If you\'re a nice person, it definitely helps.',
+        'Kate Moss',
     ],
-    [
-        'Our heritage and ideals, our code and standards - the things we live by and teach our children - are preserved or diminished by how freely we exchange ideas and feelings.',
-        'Walt Disney',
+    'af60081a-e28a-5afc-a5c3-5d145475cff5' => [
+        'Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.',
+        'Pope John XXIII',
     ],
-    [
-        'The ferment and viability in any society is directly proportionate to the number of people actively living their ideas. This is not positive thinking - it is positive action: the spirit of experiment.',
-        'Marilyn Ferguson',
+    'b34d24a2-3a6a-5470-b863-4b42cce6e747' => [
+        'I could not think higher of Governor Palin. She is a force of nature and has inspired a generation of women to really get actively involved in politics and, more importantly, take their culture back and take their country back.',
+        'Stephen Bannon',
     ],
-    [
-        'I\'m very lighthearted, outgoing, friendly, and funny, so I like to try new things.',
-        'Chandler Parsons',
+    '99166335-8b36-5838-8f04-07842ad3240c' => [
+        'Any celebration meal to which guests are invited, be they family or friends, should be an occasion for generous hospitality.',
+        'Julian Baggini',
     ],
-    [
-        'I have a lot of younger fans, obviously the choices I make often influence them. But having said that, it\'s kind of the best motivation in the world to stay positive and make good choices.',
-        'James Maslow',
+    '4b51fb08-67ba-5e06-b99d-3bb4c0ab75dd' => [
+        'I get a friend to travel with me... I need somebody to bring me back to who I am. It\'s hard to be alone.',
+        'Leonardo DiCaprio',
     ],
-    [
-        'I go on walks during lunch breaks and travel with a fold-up yoga mat. I also love reading by candlelight at night.',
-        'Rachel Boston',
+    'ff3af336-065b-50f5-8c8a-81507c8a0019' => [
+        'I have so much chaos in my life, it\'s become normal. You become used to it. You have to just relax, calm down, take a deep breath and try to see how you can make things work rather than complain about how they\'re wrong.',
+        'Tom Welling',
     ],
-    [
-        'They\'ve been fairly positive, as firm as they could be in regards to the derivatives operations in Montreal. We didn\'t sense that there was a hesitation about it. But things change.',
-        'Jean Charest',
+    '6ba628af-09d6-5331-b3ff-5b124666a7b0' => [
+        'How strange that nature does not knock, and yet does not intrude!',
+        'Emily Dickinson',
     ],
-    [
-        'Before the sacred, people lost all sense of power and all confidence; they occupy a powerless and humble attitude toward it. And yet no thing is sacred of itself, but by declaring it sacred, by my declaration, my judgment, my bending the knee; in short, by my - conscience.',
-        'Max Stirner',
+    '0a75593b-eba7-5adb-ba6f-468e9a0f1104' => [
+        'Mistakes are the portals of discovery.',
+        'James Joyce',
     ],
-    [
-        'That\'s what I do this for, to secure my family\'s future. I don\'t care about anything else. I\'m able to spoil people, and that\'s the best thing.',
-        'Conor McGregor',
+    '487935a1-267f-503a-b387-650003287f65' => [
+        'I did standup for a lot of years, too, but when you come out as a standup, you get the feeling from a crowd - it\'s a kind of a \'make me laugh\' attitude. But when you come out as an improvisor, they realize that they\'re suggesting everything you do. So they\'re already invested in the scene, and they actually want it to work.',
+        'Ryan Stiles',
     ],
-    [
-        'We know from research that growth is actually contagious, so if you want to reach your goals, you\'ve got to get around people that are going in the same direction you want to be going, and you will catch the success.',
-        'Henry Cloud',
+    'ad805b8d-8049-56fe-99ed-c9bad435de7a' => [
+        'I never travel without my sketch book.',
+        'Ian Wright',
     ],
-    [
-        'An organization, no matter how well designed, is only as good as the people who live and work in it.',
-        'Dee Hock',
+    '6da30af1-86e9-5bc2-9f9b-490bfc2c0ae5' => [
+        'By the time we get to the 2040s, we\'ll be able to multiply human intelligence a billionfold. That will be a profound change that\'s singular in nature. Computers are going to keep getting smaller and smaller. Ultimately, they will go inside our bodies and brains and make us healthier, make us smarter.',
+        'Ray Kurzweil',
     ],
-    [
-        'Whenever the pressure of our complex city life thins my blood and numbs my brain, I seek relief in the trail; and when I hear the coyote wailing to the yellow dawn, my cares fall from me - I am happy.',
-        'Hamlin Garland',
+    '753fc20a-dbee-5391-aa93-7cee21f45e1c' => [
+        'Comedy was my sport. It taught me how to roll with the punches. Failure is the exact same as success when it comes to comedy because it just keeps coming. It never stops.',
+        'Emma Stone',
     ],
 ];

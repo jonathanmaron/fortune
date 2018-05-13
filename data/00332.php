@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It is the greatest of all mistakes to do nothing because you can only do little, do what you can.',
-        'Sydney Smith',
+    'f1389271-0e53-5db0-a883-645ab2698410' => [
+        'Some people dream of success, while other people get up every morning and make it happen.',
+        'Wayne Huizenga',
     ],
-    [
-        'Create each day anew.',
-        'Morihei Ueshiba',
+    '4704f20a-c2d3-56d2-9be6-e615c779a3dd' => [
+        'Travel is the best and probably cheapest graduate school you can buy.',
+        'Tom Freston',
     ],
-    [
-        'Set your sights high, the higher the better. Expect the most wonderful things to happen, not in the future but right now. Realize that nothing is too good. Allow absolutely nothing to hamper you or hold you up in any way.',
-        'Eileen Caddy',
+    '8b547ce4-7644-5964-8d71-8191727fcab3' => [
+        'I like stand-up. But I\'d also like a family and house and a yard. I want to work with a lot of people, have colleagues; and on good film sets, there\'s people there that work with the same people for years and years. I love that collaborative spirit in that medium. Comedy is a lot more solitary.',
+        'Demetri Martin',
     ],
-    [
-        'This is my journey. If I fall, I have to pick myself up. If I\'m not getting the playing time I want, it\'s up to me to figure out why.',
-        'Carli Lloyd',
+    'ce5dc67a-bd92-5a89-9a13-ff17f87254bb' => [
+        'Life is a game and true love is a trophy.',
+        'Marie Curie',
     ],
-    [
-        'As a general rule, I don\'t plan to travel with my Oscars, but we may have to make an exception.',
-        'Paul Haggis',
+    'a9312f15-b55a-5c0b-8c94-a2f79302b5be' => [
+        'We hire people who want to make the best things in the world.',
+        'Steve Jobs',
     ],
-    [
-        'The old attitude toward newspapers was that they were completely disposable - today\'s newspaper is tomorrow\'s fish wrap.',
-        'Ray Guy',
+    'bea42c28-8b8b-5a7c-b699-778c6e38b0c5' => [
+        'Hope sees the invisible, feels the intangible, and achieves the impossible.',
+        'Charles Caleb Colton',
     ],
-    [
-        'I have never had a problem with national service. I am not sure the draft is the way to go about it, but I am positive that you live in a society and you take from this society, which every citizen here does. You owe something back to this country, and that should be paid back in some form of national service.',
-        'Montel Williams',
+    '6537fc84-6406-577c-9c65-19c5dd4a9ede' => [
+        'I utterly reject the view that the Third World is doomed to poverty and starvation. Not only is this wrong, I think this attitude verges on the immoral, like thinking that slavery is an unalterable facet of the human condition so why bother doing anything about it?',
+        'Alex Tabarrok',
     ],
-    [
-        'One thing is sure. We have to do something. We have to do the best we know how at the moment... If it doesn\'t turn out right, we can modify it as we go along.',
-        'Franklin D. Roosevelt',
+    'a6d6e917-e199-5fa7-aa13-29663570b4b6' => [
+        'Success is falling nine times and getting up ten.',
+        'Jon Bon Jovi',
     ],
-    [
-        'Who would have thought that a tap-dancing penguin would outpoint James Bond at the box office? And deserve to? Not that there\'s anything wrong with \'Casino Royale.\' But \'Happy Feet\' - written and directed by George Miller - is a complete charmer, even if, in the way of most family fare, it can\'t resist straying into the Inspirational.',
-        'Robert Gottlieb',
+    'afa1c20b-3b16-562f-8690-52f56b825c8e' => [
+        'Be different, stand out, and work your butt off.',
+        'Reba McEntire',
     ],
-    [
-        'Conduct is three-fourths of our life and its largest concern.',
-        'Ralph Waldo Emerson',
+    'd843b968-1cef-5ec5-b53f-ece694151cf9' => [
+        'The only place where success comes before work is in the dictionary.',
+        'Vidal Sassoon',
     ],
-    [
-        'When the negative thoughts come - and they will; they come to all of us - it\'s not enough to just not dwell on it... You\'ve got to replace it with a positive thought.',
-        'Joel Osteen',
+    'e2d65d83-df52-57b5-9f4d-b4167bcd0875' => [
+        'While we are postponing, life speeds by.',
+        'Karen Salmansohn',
     ],
-    [
-        'I did not direct my life. I didn\'t design it. I never made decisions. Things always came up and made them for me. That\'s what life is.',
-        'Henry Ward Beecher',
+    '2496071a-3a9f-58de-9b0e-d55c4b75d165' => [
+        'I want someone who will love me for the person I am and not because of my status. It has to be someone who understands the pressure of playing for India. It will be very difficult to be with a person who has her own career because someone has to make sacrifices for the family and house.',
+        'Yuvraj Singh',
     ],
-    [
-        'No one can possibly know what is about to happen: it is happening, each time, for the first time, for the only time.',
-        'James A. Baldwin',
+    '49b98fda-cab3-575f-9dd1-15ea40b890a9' => [
+        'True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well.',
+        'Bill Owens',
     ],
-    [
-        'You measure the size of the accomplishment by the obstacles you had to overcome to reach your goals.',
-        'Booker T. Washington',
+    '0f8f8bb8-3c0c-5b58-b0da-c7a19f3beeeb' => [
+        'Blood, Sweat and Respect. First Two You Give, Last One You Earn',
+        'Dwayne Johnson | The Rock',
     ],
-    [
-        'The best way for guys to communicate is just don\'t talk to each other for nine hours. That\'s why I like long motorcycle rides. It\'s a great way for guys to socialize and not socialize.',
-        'Justin Theroux',
+    'f6de0587-0f3c-586a-bcd8-2214b2531b47' => [
+        'One way to get the most out of life is to look upon it as an adventure.',
+        'Serena Williams',
     ],
-    [
-        'There have been many different artists that have been inspirational. I suppose the question is directed to what was the reason why I went into fantasy illustration.',
-        'Boris Vallejo',
+    '7e145ecf-fa9c-5da2-a0c0-a70d518e6cce' => [
+        'To be wholly devoted to some intellectual exercise is to have succeeded in life.',
+        'Robert Louis Stevenson',
     ],
-    [
-        'Punctuality is the virtue of the bored.',
-        'Evelyn Waugh',
+    '8acc0465-9ea6-59e7-a3d9-b653c986713c' => [
+        'I am so fresh in soul and spirit that life gushes and bubbles around me in a thousand springs.',
+        'Robert Schumann',
     ],
-    [
-        'You can\'t please everyone. When you\'re too focused on living up to other people\'s standards, you aren\'t spending enough time raising your own. Some people may whisper, complain and judge. But for the most part, it\'s all in your head. People care less about your actions than you think. Why? They have their own problems!',
-        'Kris Carr',
+    '3cb18854-2e4d-5724-b8ab-4f3cfa18c82f' => [
+        'If you cannot smile when you listen to music, then do not listen to it!',
+        'Estelle',
     ],
-    [
-        'I do take very good care of myself, and I\'m always in love. And by that I mean I have an appetite for life. I\'m in love with beauty and things and people and love and being in love, and those things I think, on the inside, show on the outside.',
-        'Gloria Vanderbilt',
+    '19b059bd-f254-5044-9111-a86ab81a53c8' => [
+        'I\'ve realized the extraordinary power of sports to heal, unite and inspire. I believe the Olympics will serve as the ultimate platform to provide positive changes and I hope to inspire all of Japan through my strong showing there.',
+        'Kohei Uchimura',
     ],
-    [
-        'We need affordable space travel to inspire our youth, to let them know that they can experience their dreams, can set significant goals and be in a position to lead all of us to future progress in exploration, discovery and fun. Thanks to the X Prize for the inspiration.',
-        'Burt Rutan',
+    '455a58c2-bd6a-5a7f-aef4-09ee284ce714' => [
+        'Life is full of confusion. Confusion of love, passion, and romance. Confusion of family and friends. Confusion with life itself. What path we take, what turns we make. How we roll our dice.',
+        'Matthew Underwood',
     ],
-    [
-        'I think and that is all that I am.',
-        'Wayne Dyer',
+    'c3fab6fd-893c-54a5-b3c0-74a7ebe0b102' => [
+        'I was a vegetarian first. I had high blood pressure at 27, everybody in my family died of cancer, and I knew it was in the food, so I changed my diet.',
+        'John Salley',
     ],
-    [
-        'It is funny that men who are supposed to be scientific cannot get themselves to realise the basic principle of physics, that action and reaction are equal and opposite, that when you persecute people you always rouse them to be strong and stronger.',
-        'Gertrude Stein',
+    'bdafc54c-391e-5218-943a-79ffb7f09250' => [
+        'It\'s funny: I was a photographer before I was a programmer.',
+        'Kevin Systrom',
     ],
-    [
-        'Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.',
-        'Peter Drucker',
+    '1c8dfd5b-9cea-5be3-9b67-568963b3928c' => [
+        'I like a girl with natural beauty.',
+        'Chandler Parsons',
     ],
-    [
-        'Let\'s find those areas where modest and reasonable tax cuts will have the biggest positive impact on our economy, and which will improve the lives of those who need it most: working families, retirees, and small business owners.',
-        'Larry Hogan',
+    'f6127a4a-24c8-5f33-b465-62c65b18eb6a' => [
+        'I read all the time that people think I\'m arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, \'That image doesn\'t fit you.\'',
+        'Zlatan Ibrahimovic',
     ],
-    [
-        'Dictators, unlike Democrats, depend on a small coterie to sustain their power. These backers, generally drawn from the military, the senior civil service, and family or clan members, have a synergistic relationship with their dictator. The dictator delivers opportunities for them to become rich, and they protect him from being overthrown.',
-        'Bruce Bueno de Mesquita',
+    'b4bb996f-0fac-55b0-af89-d6d19ceac52c' => [
+        'Women\'s natural role is to be a pillar of the family.',
+        'Grace Kelly',
     ],
 ];

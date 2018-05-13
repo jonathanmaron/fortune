@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Cognitive therapy is based on the idea that when you change the way you think, you can change the way you feel and behave. In other words, if we can learn to think about other people in a more positive and realistic way, it will be far easier to resolve conflicts and develop rewarding personal and professional relationships.',
-        'David D. Burns',
+    'd1b6abc4-34f4-56ad-a320-ba9f3aa82c3f' => [
+        'My culture comes from everywhere. I\'m sick of this notion of nationality, that if you\'re brought up in the same city or same country you\'re the same. Even three kids brought up in the same family with the same genes, they are not the same. Just consider a human a human.',
+        'Marjane Satrapi',
     ],
-    [
-        'My dad has an incredible passion for living life, and he\'s really, really funny, so he definitely encourages me to enjoy all aspects of life. He\'s very proud of me and definitely encourages my career path, and we have a good time talking about work.',
-        'Spencer Grammer',
+    'e817f829-5885-571c-932d-82059ca07c51' => [
+        'Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        'The success I have achieved in bodybuilding, motion pictures, and business would not have been possible without the generosity of the American people and the freedom here to pursue your dreams.',
-        'Arnold Schwarzenegger',
+    '24ce15ac-7318-59ba-b3e7-fa8c0f8ca050' => [
+        'I\'ve had to listen to candidates tell me they are the most wonderful thing since the invention of sliced bread, and it bores me to death. It also makes me doubt that they are actually any good at all - plus it\'s an attitude that would never fly in the culture I\'ve created in my company.',
+        'John Rampton',
     ],
-    [
-        'I hated the ballet, but I liked performing. I did 20 shows, and I couldn\'t get the smile off my face.',
-        'Ansel Elgort',
+    'f680dc6c-05a0-5b1b-ad20-07b769c3ac10' => [
+        'Any time I need to get a serious attitude adjustment, I put on one of their records, and there are examples there for all time to keep us honest and keep us reaching; they\'ll never be eclipsed.',
+        'Benny Green',
     ],
-    [
-        'A jug fills drop by drop.',
-        'Buddha',
+    '721eabfb-c9d2-5258-8fde-277f314f6d29' => [
+        'Songwriting is like editing. You write down all this stuff - all this bad, stupid stuff - and then you have to get rid of everything except the very best.',
+        'Juliana Hatfield',
     ],
-    [
-        'Nothing is so beautiful as spring - when weeds, in wheels, shoot long and lovely and lush; Thrush\'s eggs look little low heavens, and thrush through the echoing timber does so rinse and wring the ear, it strikes like lightning to hear him sing.',
-        'Gerard Manley Hopkins',
+    '4cfb4f35-f8d7-588f-82c2-85053c489785' => [
+        'Museums are managers of consciousness. They give us an interpretation of history, of how to view the world and locate ourselves in it. They are, if you want to put it in positive terms, great educational institutions. If you want to put it in negative terms, they are propaganda machines.',
+        'Hans Haacke',
     ],
-    [
-        'Follow your inner moonlight; don\'t hide the madness.',
-        'Allen Ginsberg',
+    '15546513-6ea4-530d-8c2e-5e34ce2799a6' => [
+        'I couldn\'t wait for success, so I went ahead without it.',
+        'Jonathan Winters',
     ],
-    [
-        'When a parent says about a book, \'That\'s not my child\'s world,\' I remind them of the future. Social fluency will be the new currency of success. Not experiencing diversity challenges our kids\' future in the global work force. It handicaps them from making America and the world more livable and just.',
-        'Jewell Parker Rhodes',
+    '9ff0ccff-93f2-5ed9-aa63-2b607d6fec8a' => [
+        'Giving up doesn\'t always mean you are weak; sometimes it means that you are strong enough to let go.',
+        'Unknown',
     ],
-    [
-        'My attitude is, if someone\'s going to criticize me, tell me to my face.',
-        'Simon Cowell',
+    '0a357714-b10d-538a-9ef3-9fa982e2066f' => [
+        'I was successful materially, but I know life is much more than worldly success. I saw all these blessings God had given me. The way to give thanks is obedience to God.',
+        'Hakeem Olajuwon',
     ],
-    [
-        'There is no black-and-white situation. It\'s all part of life. Highs, lows, middles.',
-        'Dalai Lama',
+    'bf80fce8-671c-5aeb-a71d-25a0722e3444' => [
+        'Everything that slows us down and forces patience, everything that sets us back into the slow circles of nature, is a help. Gardening is an instrument of grace.',
+        'May Sarton',
     ],
-    [
-        'My family didn\'t have money to travel, so reading was how I knew about the world. It made me hungry to have more experiences than just what I could possibly experience in Arkansas.',
-        'Mary Steenburgen',
+    '0f319a7e-558a-5bbd-a1fd-221d3c5156b1' => [
+        'Sometimes it is better to lose and do the right thing than to win and do the wrong thing.',
+        'Tony Blair',
     ],
-    [
-        'You can\'t beat the beehive for glam punkette attitude.',
-        'Rob Sheffield',
+    '1cbecfda-0933-5fe7-981d-a1316ac62c60' => [
+        'The purpose of human life is to serve, and to show compassion and the will to help others.',
+        'Bobby Knight',
     ],
-    [
-        'Authenticity is everything! You have to wake up every day and look in the mirror, and you want to be proud of the person who\'s looking back at you. And you can only do that if you\'re being honest with yourself and being a person of high character. You have an opportunity every single day to write that story of your life.',
-        'John Donne',
+    'ea0b1275-5299-51ce-98de-45aadd7a6967' => [
+        'Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.',
+        'Epictetus',
     ],
-    [
-        'The beautiful remains so in ugly surroundings.',
-        'Malcolm de Chazal',
+    '1dd0069b-9cf8-54c6-b502-1aaac905c8df' => [
+        'People from a planet without flowers would think we must be mad with joy the whole time to have such things about us.',
+        'Iris Murdoch',
     ],
-    [
-        'It\'s hard to be funny when you have to be clean.',
-        'Mae West',
+    '8646b4d4-00f9-5b88-91b0-158e80982b96' => [
+        'Yes I have made a lot of money and I have a lot of respect, my films have done well, and I know there are loads of loads of people who look up to me and really love me. I really just thought this is like a strange dream. I have never thought this is a success - I don\'t have a standard.',
+        'Shah Rukh Khan',
     ],
-    [
-        'Life is too short to be scared and not take risks. I\'d rather be the person that\'s like, \'I messed up,\' than, \'I wish I did that.\'',
-        'Ridley Scott',
+    '8e94a12c-de48-50e4-941b-553f3c63bfc4' => [
+        'I didn\'t see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.',
+        'Steve Jobs',
     ],
-    [
-        'The most beautiful as well as the most ugly inclinations of man are not part of a fixed biologically given human nature, but result from the social process which creates man.',
-        'Erich Fromm',
+    '248f9c7c-c606-5d85-83d9-b9dbf5df6534' => [
+        'Do more than dream: work.',
+        'William Arthur Ward',
     ],
-    [
-        'I am in the fighting game. I don\'t care about anything else. I don\'t watch the news, I don\'t care about politics, I don\'t care about other sports. I don\'t care about anything I don\'t need to care about. This is my sport: it is my life. I study it; I think about it all the time. Nothing else matters.',
-        'Conor McGregor',
+    'e87a17c0-5542-5a31-a389-67a7c8dad7da' => [
+        'Only a life lived for others is a life worthwhile.',
+        'Theodore Roosevelt',
     ],
-    [
-        'I want a man who isn\'t questioning who he is. I want a man to be able to stand next to me and not disappear and not be emasculated by my success.',
-        'Jessica White',
+    '633dd2c4-3fd6-52fd-9c17-06a6814a0f28' => [
+        'The one thing I regret is that I will never have time to read all the books I want to read.',
+        'Francoise Sagan',
     ],
-    [
-        'What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.',
-        'Chris Kyle',
+    '24f49ce5-21e0-51b6-877f-cd28c23b1587' => [
+        'Personal discipline, when it becomes a way of life in our personal, family, and career lives, will enable us to do some incredible things.',
+        'Zig Ziglar',
     ],
-    [
-        'In the beginning you must subject yourself to the influence of nature. You must be able to walk firmly on the ground before you start walking on a tightrope.',
-        'Henri Matisse',
+    '535703f3-19e1-5b39-8fb8-de3bfbed2457' => [
+        'Few things are more important to each individual\'s future success or to our nation\'s prosperity than education.',
+        'Mark Kennedy',
     ],
-    [
-        'Two great talkers will not travel far together.',
-        'George Borrow',
+    'c4e5ea0a-db22-568b-9add-49d25c2c8b8e' => [
+        'My ideal prom date would have to be cute, funny, sweet, nice.',
+        'Kendall Jenner',
     ],
-    [
-        'Travel, instead of broadening the mind, often merely lengthens the conversation.',
-        'Elizabeth Drew',
+    '0a4550cd-274d-5045-a310-e0036e691a27' => [
+        'I truly believe my job is to make sure people smile.',
+        'Shah Rukh Khan',
     ],
-    [
-        'As a person, I was born to give out my opinions. By giving out my opinions, I realize who I am. As long as I can communicate, I\'m not so lonely. If I cannot travel, or do art, or have company, if they take away all my belongings, it doesn\'t matter at all.',
-        'Ai Weiwei',
+    'acb50713-0289-5a40-8128-4e9f7a71ffb5' => [
+        'I think it\'s important to always keep professional and surround yourself with good people, work hard, and be nice to everyone.',
+        'Caroline Winberg',
     ],
-    [
-        'If we are facing in the right direction, all we have to do is keep on walking.',
-        'Proverb',
+    'a6b400d5-f14f-52c7-a5df-645577d5f6a5' => [
+        'Salman will always be that special person in my life because he was able to change my career. I will never ever forget what he has done for me. On the personal front, too, he has advised me as a friend and family, something I couldn\'t have even asked for.',
+        'Jacqueline Fernandez',
     ],
 ];

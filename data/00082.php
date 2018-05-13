@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Art is not the application of a canon of beauty but what the instinct and the brain can conceive beyond any canon. When we love a woman we don\'t start measuring her limbs.',
-        'Pablo Picasso',
+    'b1aff763-94a8-581d-a01d-9b4e7fd809a6' => [
+        'Even in modern art, artists have used methods based on calculation, inasmuch as these elements, alongside those of a more personal and emotional nature, give balance and harmony to any work of art.',
+        'Max Bill',
     ],
-    [
-        'A lot of people deal with things that are bad. Once you\'ve been through something, you grow from it and you take a lot in. You can always turn it into something positive.',
-        'Chino Moreno',
+    'e941ec7d-b594-5be0-8180-661ce8b6b733' => [
+        'You know, it was just another presentation of my work, and a funny one, because the cards are quite different from the normal Tarot deck, no?',
+        'H. R. Giger',
     ],
-    [
-        'The BBC is the greatest broadcaster in the world. It\'s the standard that everyone measures themselves against. If we lose the BBC, it won\'t be quite as bad as losing the royal family, but an integral part of this country will have gone. But then, I\'m an old guy.',
-        'Terry Wogan',
+    '33246a99-3349-57eb-84eb-fde5dc29f0bb' => [
+        'Look for your choices, pick the best one, then go with it.',
+        'Pat Riley',
     ],
-    [
-        'Take stock of your thoughts and behavior. Each night ask yourself, when were you negative when you could have been positive? When did you withhold love when you might have given it? When did you play a neurotic game instead of behaving in a powerful way? Use this process to self-correct.',
-        'Marianne Williamson',
+    'a9d52be7-f315-5ff9-8a04-dec0b412c59c' => [
+        'We pass through this world but once.',
+        'Aristotle',
     ],
-    [
-        'If you would be a good reader, read; if a writer, write.',
-        'Epictetus',
+    '16f23f73-632a-54ac-a635-8464001ac0d9' => [
+        'Food is everything. Food, friends, family: Those are the most important things in life.',
+        'Zac Posen',
     ],
-    [
-        'Everything is political. I will never be a politician or even think political. Me just deal with life and nature. That is the greatest thing to me.',
-        'Bob Marley',
+    '82aedbb8-13b1-5021-aeee-6e05bc626f4d' => [
+        'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It\'s never your fault. But it\'s always your fault, because if you wanted to change you\'re the one who has got to change.',
+        'Katharine Hepburn',
     ],
-    [
-        'When we seek to discover the best in others, we somehow bring out the best in ourselves.',
-        'William Arthur Ward',
+    'c6782034-0356-512e-9dae-3ef5d8e01bac' => [
+        'I used to make up stuff in my bio all the time, that I used to be a professional ice-skater and stuff like that. I found it so inspirational. Why not make myself cooler than I am?',
+        'Stephen Colbert',
     ],
-    [
-        'When you live on the road, going home is a place to escape and just be with your family to unwind.',
-        'Jonathan Davis',
+    '63842dec-84e3-5be9-b574-07420e51afaf' => [
+        'What would air travel look like if airplanes were thrown out after each flight? No one would be flying in airplanes.',
+        'Gwynne Shotwell',
     ],
-    [
-        'I used to rely on black-and-white, and while I was working on \'Smile,\' I learned to adapt to color on my end.',
-        'Raina Telgemeier',
+    'b1d3ceb0-1214-57d3-a6f3-f3cd3f8a3c2d' => [
+        'It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.',
+        'Donald Trump',
     ],
-    [
-        'The moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity.',
-        'Joshua Waitzkin',
+    '41b1c174-fcb5-5cc3-bd48-7d0b5c966a04' => [
+        'My mother has had breast cancer twice. And my mother has always been this very positive human being: a glass-half-full type. Like, when she was in treatment and feeling really bad, she would always talk about some nurse that was particularly nice to her.',
+        'Susanne Bier',
     ],
-    [
-        'One of the best things to do sometimes is simply to be.',
-        'Eric Butterworth',
+    'c4c10c47-00b5-5224-bbff-824db6cf9094' => [
+        'Kind words can be short and easy to speak but their echoes are truly endless.',
+        'Mother Teresa',
     ],
-    [
-        'Things are beautiful or ugly only in time and space. The new man\'s vision being liberated from these two factors, all is unified in one unique beauty.',
-        'Piet Mondrian',
+    '544d6879-73ff-5806-bd4d-3a757f5794e3' => [
+        'Sometimes, comics will make the observation that it\'s not jokes that are funny, it\'s characters that are funny. And isn\'t that true! That\'s why I always kill jokes. I\'m terrible at them, because I get the joke right, but I can\'t get the character right, and it just goes down like a lead balloon.',
+        'David Mitchell',
     ],
-    [
-        'Man is fully responsible for his nature and his choices.',
-        'Jean-Paul Sartre',
+    '7cee1851-10dc-53f0-a3cb-129fd3103cd7' => [
+        'Research shows that there is only half as much variation in student achievement between schools as there is among classrooms in the same school. If you want your child to get the best education possible, it is actually more important to get him assigned to a great teacher than to a great school.',
+        'Bill Gates',
     ],
-    [
-        'If you\'re funny, if there\'s something that makes you laugh, then every day\'s going to be okay.',
-        'Tom Hanks',
+    'abdff8c9-ac45-51bc-a86e-a103fa6108a6' => [
+        'Most success springs from an obstacle or failure. I became a cartoonist largely because I failed in my goal of becoming a successful executive.',
+        'Scott Adams',
     ],
-    [
-        'People always ask me, \'Were you funny as a child?\' Well, no, I was an accountant.',
-        'Ellen DeGeneres',
+    '2bf79e3c-6652-54cc-afbe-3ddf633024a6' => [
+        'Life is a succession of lessons, which must be lived to be understood.',
+        'Ralph Emerson',
     ],
-    [
-        'Take off your bedroom slippers. Put on your marching shoes,\' he said, his voice rising as applause and cheers mounted. \'Shake it off. Stop complainin\'. Stop grumblin\'. Stop cryin\'. We are going to press on. We have work to do.',
-        'Barack Obama',
+    '502e54db-cfdc-55a6-829c-f9ba264140b6' => [
+        'I can\'t let time move on without fighting tooth and nail and hopefully being a part of a revolution that is positive.',
+        'Ian Somerhalder',
     ],
-    [
-        'A great social success is a pretty girl who plays her cards as carefully as if she were plain.',
-        'F. Scott Fitzgerald',
+    '0c2d38ea-f006-5076-b15d-a8835ba698b9' => [
+        'I am not bothered by the fact that I am unknown. I am bothered when I do not know others.',
+        'Confucius',
     ],
-    [
-        'Do not try to push your way through to the front ranks of your profession; do not run after distinctions and rewards; but do your utmost to find an entry into the world of beauty.',
-        'Constantin Stanislavski',
+    '1c12b94b-1962-5fb7-937e-0aca02806a3a' => [
+        'Crowds are the most difficult thing for me these days because I have to walk with my head down and my eyes averted. There\'s still that part of me that wants to hold my head up, make eye contact and smile.',
+        'Cameron Diaz',
     ],
-    [
-        'It takes a lot of work to put together a marriage, to put together a family and a home.',
-        'Elizabeth Edwards',
+    '23af1650-4014-5db7-a803-850e2c6c2edb' => [
+        'Flexible working is not just for women with children. It is necessary at the other end of the scale. If people can move into part-time work, instead of retirement, then that will be a huge help. If people can fit their work around caring responsibilities for the elderly, the disabled, then again that\'s very positive.',
+        'Theresa May',
     ],
-    [
-        'Laughter is involuntary. If it\'s funny you laugh.',
-        'Tom Lehrer',
+    '65d8bf59-181d-58c2-a502-a6652a557858' => [
+        'Drawing on my fine command of the English language, I said nothing.',
+        'Robert Benchley',
     ],
-    [
-        'An arrogant person considers himself perfect. This is the chief harm of arrogance. It interferes with a person\'s main task in life - becoming a better person.',
-        'Ernest Holmes',
+    '21634a63-fd7e-5951-9f3f-a97958b465cc' => [
+        'When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.',
+        'Audre Lorde',
     ],
-    [
-        'Through a long and painful process, I\'ve learned that happiness is an inside job - not based on anything or anyone in the outer material world. I\'ve become a different and better person - not perfect, but still a work in progress.',
-        'Alana Stewart',
+    '7dad1497-3bda-5296-8c1e-b574cb342a1f' => [
+        'The true measure of your worth includes all the benefits others have gained from your success.',
+        'Cullen Hightower',
     ],
-    [
-        'Our responsibility is to rally and lead the whole party and the Chinese people of all ethnic groups, take up this historic baton and continue working hard for the great renewal of the Chinese nation, so that we will stand rock firm in the family of nations and make fresh and greater contribution to mankind.',
-        'Xi Jinping',
+    '1c924916-adce-565e-9691-930fd9f9a1aa' => [
+        'Never apologize for burning too brightly or collapsing into yourself every night. That is how galaxies are made.',
+        'Tyler Kent White',
     ],
-    [
-        'How do you know you\'re going to do something, untill you do it?',
-        'J. D. Salinger',
+    '5e440da4-b69e-519d-9d4d-ba5ea8f8d3a7' => [
+        'Time has a way of demonstrating that the most stubborn are the most intelligent.',
+        'Yevgeny Yevtushenko',
     ],
-    [
-        'I wanted to race cars. I didn\'t like school, and all I wanted to do was work on cars. But right before I graduated, I got into a really bad car accident, and I spent that summer in the hospital thinking about where I was heading. I decided to take education more seriously and go to a community college.',
-        'George Lucas',
+    '902cd08a-7f7a-58ec-83da-760386dd2449' => [
+        'The funny thing about directing is that you have your own opinions, but it\'s a collaboration. Directing is a group effort. Even though you might think something works, the smartest thing you can do as a director is try and weigh the opinions of the people around you.',
+        'Chris Evans',
     ],
 ];

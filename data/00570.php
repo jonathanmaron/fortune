@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Any product that needs a manual to work is broken.',
-        'Elon Musk',
+    '3a7672cb-935a-55e8-8252-c3f070e817e2' => [
+        'All love comes from the family.',
+        'John Updike',
     ],
-    [
-        'The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.',
-        'Kalpana Chawla',
+    '4687cac9-a727-56f2-beb9-9041e4b6c6c4' => [
+        'Scientists are not delinquents. Our work has changed the conditions in which men live, but the use made of these changes is the problem of governments, not of scientists.',
+        'J. Robert Oppenheimer',
     ],
-    [
-        'As long as I\'m not selling out the people that ride or die with me, I\'m glad I\'m not an MC. I\'m a motivational speaker. I\'m not that rapper dude.',
-        'Young Jeezy',
+    'a84a3606-88e1-537d-8b45-af54b27b184b' => [
+        'People don\'t know that when there is something running in my mind, I start smiling. If I\'m angry, I smile and blush.',
+        'Hansika Motwani',
     ],
-    [
-        'The things that make me angry still make me angry. George Carlin is 67, and he\'s still as funny as he\'s ever been, and he\'s still angry. And that makes me feel good, because I feel like if I stick around long enough, I\'ll still be able to work.',
-        'Denis Leary',
+    '40018b0b-0eed-5592-b543-a72626d01636' => [
+        'I come from a family of Russian immigrant Jews who were all big storytellers, who would get together, and one would try to top the others\' stories, and stories would get bigger and bigger. And the lying aspect, the exaggeration, would get large.',
+        'Philip Schultz',
     ],
-    [
-        'After the success of \'August,\' there were people saying I should change my life. And maybe I should have bought a yacht and traveled the world instead of returning to Steppenwolf to act in and write plays. But I\'m from the Midwest, and that\'s what we do: We go back to work.',
-        'Tracy Letts',
+    '61892242-b694-55ae-9615-02bda3b5e072' => [
+        'We all have goals: We want to matter. We want to be important. We want to have freedom and power to pursue our creative work. We want respect from our peers and recognition for our accomplishments. Not out of vanity or selfishness, but of an earnest desire to fulfill our personal potential.',
+        'Ryan Holiday',
     ],
-    [
-        'The vampire was a complete change from the usual romantic characters I was playing, but it was a success.',
-        'Bela Lugosi',
+    '7038fc8e-22b4-5cdd-bb3e-3a1403a687c9' => [
+        'Creativity takes courage.',
+        'Henri Matisse',
     ],
-    [
-        'Technology doesn\'t address everything - for example, air travel still sucks.',
-        'Brad Feld',
+    'beb5d160-bd11-53b3-9c47-8ce89dc41e3a' => [
+        'To insult someone we call him \'bestial. For deliberate cruelty and nature, \'human\' might be the greater insult.',
+        'Isaac Asimov',
     ],
-    [
-        'The breakdown of the black community, in order to maintain slavery, began with the breakdown of the black family. Men and women were not legally allowed to get married because you couldn\'t have that kind of love. It might get in the way of the economics of slavery. Your children could be taken from you and literally sold down the river.',
-        'Kerry Washington',
+    '457aaf01-d95b-5a92-8d6f-7d7a0fc43bd8' => [
+        'There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.',
+        'Mark Twain',
     ],
-    [
-        'I don\'t believe in the after life, although I am bringing a change of underwear.',
-        'Woody Allen',
+    'fb7ab952-4f36-5fad-ac1b-e0569bfa214e' => [
+        'The best things in life are silly.',
+        'Scott Adams',
     ],
-    [
-        'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
-        'A.P.J. Abdul Kalam',
+    '1c3f8dca-a723-53d9-a22a-764af427bc87' => [
+        'My boy, one small breeze doesn\'t make a wind storm.',
+        'John McGraw',
     ],
-    [
-        'People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.',
-        'Johann Wolfgang von Goethe',
+    '5791bef8-9edc-5b41-955e-28db8ec61ce4' => [
+        'You have to push yourself when you\'re older because it\'s very easy to fall into the trap. You start to fall apart - you just have to do your best to paste yourself together. I think doing things and being active is very important. When your mind is busy, you don\'t hurt so much.',
+        'Iris Apfel',
     ],
-    [
-        'Social mores change all the time. In the mid-1970s, it would\'ve been astonishing, say, to see two men holding hands in the streets. And the attitude to having a fling with a girl, or whatever, was quite different then.',
-        'Robert Harris',
+    '841ceb61-098f-54ed-ad4b-e92ca98d1d36' => [
+        'This sunlight linked me through the ages to that past consciousness.',
+        'Richard Jefferies',
     ],
-    [
-        'I\'ve been blessed to be somebody that\'s been climbing that success mountain top for years of hard work, you know, but now it\'s all connecting. And now, the whole world is watching, you know what I\'m saying, and it feels good \'cause it\'s good energy. This is all positive vibes, and good vibes and good energy, so it feels incredible.',
-        'DJ Khaled',
+    '430f9102-4beb-51b3-be98-0987e0de14b6' => [
+        'Push yourself because no one else is going to do it for you.',
+        'Unknown',
     ],
-    [
-        'The waving of a pine tree on the top of a mountain - a magic wand in Nature\'s hand - every devout mountaineer knows its power; but the marvelous beauty value of what the Scotch call a breckan in a still dell, what poet has sung this?',
-        'John Muir',
+    '29ab483b-d670-55f2-a123-f994e97642ab' => [
+        'My greatest beauty secret is being happy with myself. I don\'t use special creams or treatments - I\'ll use a little bit of everything. It\'s a mistake to think you are what you put on yourself. I believe that a lot of how you look is to do with how you feel about yourself and your life. Happiness is the greatest beauty secret.',
+        'William James',
     ],
-    [
-        'I\'m not a sad person, upset the whole time, but I seem to be quite emotional.',
-        'Freddie Highmore',
+    '4cf898e3-873a-5222-a37b-4c519328885f' => [
+        'Obama does not represent America. Nor does he represent anything what our forefathers stood for. This country is basically built on an attitude. It\'s a way of life. It\'s not because you\'re born here. It\'s not that you\'re supposed to take from those who have and give to those who haven\'t. That kills a country. It killed Russia.',
+        'Luke Scott',
     ],
-    [
-        'Attitude is your acceptance of the natural laws, or your rejection of the natural laws.',
-        'Stuart Chase',
+    '09fe26c5-a98c-5423-b920-300cc5e9c2d8' => [
+        'Watches are the only jewelry men can wear, unless you\'re Mr. T.',
+        'Gordon Bethune',
     ],
-    [
-        'Right now I just want to chill for a while. Take a hiatus from all the craziness. To clean my house, see my family. Just see some movies and pick some strawberries.',
-        'Lauren Ambrose',
+    'da08e6f5-379a-55d6-87b7-137c2aa8746b' => [
+        'Don\'t be pushed by your problems; be led by your dreams.',
+        'Unknown',
     ],
-    [
-        'A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.',
-        'Moliere',
+    'bc4f4ed8-a793-51bf-9cf2-1c70f03ae83d' => [
+        "If you're going through hell,\nKEEP GOING.",
+        'Winston Churchill',
     ],
-    [
-        'No matter what nationalities became a part of our country in the future, they would have to assimilate into the Han nationality. The nationalism our party supports is a positive nationalism. Do not forget that.',
-        'Sun Yat-sen',
+    'aa2f177f-55c2-5490-9fe1-57ad7af9227a' => [
+        'Take a step back, evaluate what is important, and enjoy life.',
+        'Phillips Brooks',
     ],
-    [
-        'You learn so much about yourself as an artist. I never would have thought that I could sing every night, you know? Travel and perform every single night, and travel to another city the next day and do it all over again? You learn a lot of new things about yourself, and you make a lot of connections with people.',
-        'Yuna',
+    '15a05b26-e4d4-5163-a6aa-bb6acd9dc448' => [
+        'I don\'t look at negative comments because my parents and family don\'t let me. My big sister controls my Instagram, and my big brother controls my Twitter. I also don\'t really Google myself or anything like that.',
+        'Millie Bobby Brown',
     ],
-    [
-        'Teaching\'s hard! You need different skills: positive reinforcement, keeping students from getting bored, commanding their attention in a certain way.',
-        'Bill Gates',
+    'e9360a65-970a-532d-a8fd-38b694d2dd65' => [
+        'To be happy, it first takes being comfortable being in your own shoes. The rest can work up from there.',
+        'Sophia Bush',
     ],
-    [
-        'Time is a dressmaker specializing in alterations.',
-        'Faith Baldwin',
+    'd58bc2fa-46a1-53e1-9321-768eb4af84ff' => [
+        'Those who cannot learn from history are doomed to repeat it.',
+        'George Santayan',
     ],
-    [
-        'I\'m thankful enough or blessed enough to be able to say that Miles Davis was a friend when he was alive, and he was a wonderful mentor and really, really funny, you know.',
-        'Prince',
+    '2759d096-e76c-5242-bd1d-59f8ed74857d' => [
+        'In terms of instilling the values of mental toughness and work ethic, discipline is the gift that keeps on giving.',
+        'William Baldwin',
     ],
-    [
-        'When you realize how perfect everything is you will tilt your head back and laugh at the sky.',
-        'Buddha',
+    '8b2d9b23-7697-5dd8-8c05-1866e2a8b93b' => [
+        'Life is never fair, and perhaps it is a good thing for most of us that it is not.',
+        'Elizabeth Esty',
     ],
-    [
-        'It\'s a funny relationship that makeup artists have. I always feel kind of like a dentist. People look at me and think of pain.',
-        'Rick Baker',
+    '50adcbdc-c4ad-5f01-9c02-a6138733bf3f' => [
+        'There is an electric fire in human nature tending to purify - so that among these human creatures there is continually some birth of new heroism. The pity is that we must wonder at it, as we should at finding a pearl in rubbish.',
+        'John Keats',
     ],
 ];

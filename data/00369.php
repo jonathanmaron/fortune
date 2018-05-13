@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My husband and I always have fun together in everything we do. Some people call me crazy, but the reality is that I enjoy spending each second with him. He is not just my husband - he is my rock and my very best friend!',
-        'Joyce Giraud',
+    'e563e673-7f0c-51dc-bc98-c26264054e20' => [
+        'Nobody was my support. You have to support yourself, and I think that is the beauty of being a woman. You can handle anything and be ten times better than men.',
+        'Kangana Ranaut',
     ],
-    [
-        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
-        'Kurt Cobain',
+    '8fc2b39b-581c-5fd0-8b17-7775fbc070f5' => [
+        'You are the sum total of everything you\'ve ever seen, heard, eaten, smelled, been told, forgot - it\'s all there. Everything influences each of us, and because of that I try to make sure that my experiences are positive.',
+        'Maya Angelou',
     ],
-    [
-        'The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.',
-        'Richard Bach',
+    'b002e9cc-5832-56d7-8fc9-63b5130152e3' => [
+        'Success is getting what you want. Happiness is liking what you get.',
+        'H. Jackson Brown, Jr.',
     ],
-    [
-        'Neither man nor woman is perfect or complete without the other. Thus, no marriage or family, no ward or stake is likely to reach its full potential until husbands and wives, mothers and fathers, men and women work together in unity of purpose, respecting and relying upon each other\'s strengths.',
-        'Sheri L. Dew',
+    'a1578a42-b129-5713-8d3b-5308b38398ca' => [
+        'I have a wonderful make-up crew. They\'re the same people restoring the Statue of Liberty.',
+        'Bob Hope',
     ],
-    [
-        'The reason most people never reach their goals is that they don\'t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.',
-        'Denis Waitley',
+    'a4012efd-83de-5edc-a081-f92ee67b78b5' => [
+        'Wellness is not a \'medical fix\' but a way of living - a lifestyle sensitive and responsive to all the dimensions of body, mind, and spirit, an approach to life we each design to achieve our highest potential for well-being now and forever.',
+        'Jennifer Lopez',
     ],
-    [
-        'One of the best things about paintings is their silence - which prompts reflection and random reverie.',
-        'Mark Stevens',
+    '1c69b526-309e-5ade-a871-9e0d90a2c8f9' => [
+        'I try to make the good days great and take something positive from the days I\'m not feeling good - work on technique or something like that.',
+        'Katie Ledecky',
     ],
-    [
-        'It\'s a funny thing about life; if you refuse to accept anything but the best, you very often get it.',
-        'W. Somerset Maugham',
+    'f4d72167-5e4f-5d83-a5c3-b9774d150926' => [
+        'Positive rights are the right to shelter, the right to education, the right to health care, the right to a living wage. These things are - these are, I would call them, more properly, political rights rather than positive rights. And they are extremely tricky, because now we are dealing with things that are zero sum.',
+        'P. J. O\'Rourke',
     ],
-    [
-        'The most difficult is the first family, to bring someone out of the world.',
-        'Richard G. Scott',
+    'e1530bd8-d9ba-54c1-a499-d48ee758d82d' => [
+        'The indispensable first step to getting the things you want out of life is this: decide what you want.',
+        'William Wordsworth',
     ],
-    [
-        'When you\'re walking at the airport, you\'re expected to smile at people because they know you... I find that tough. I\'m only trying to protect myself. So I don\'t take my eyes off the floor. People can take that as attitude. But it\'s actually shyness. Yes, it is a bad habit. But it\'s a defense mechanism.',
-        'Katrina Kaif',
+    '9f72f725-d067-5a32-8a48-0593519eed53' => [
+        'A poet ought not to pick nature\'s pocket. Let him borrow, and so borrow as to repay by the very act of borrowing. Examine nature accurately, but write from recollection, and trust more to the imagination than the memory.',
+        'Samuel Taylor Coleridge',
     ],
-    [
-        'How did it get so late so soon? Its night before its afternoon. December is here before its June. My goodness how the time has flewn. How did it get so late so soon?',
-        'Dr. Seuss',
+    'ab1767d4-7e96-566b-86f7-1c31d224730d' => [
+        'Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.',
+        'Henry Wadsworth Longfellow',
     ],
-    [
-        'And beauty immortal awakes from the tomb.',
-        'James Beattie',
+    '30694fe2-64aa-526e-800f-813215432812' => [
+        'My wife has a slight impediment in her speech. Every now and then she stops to breathe.',
+        'Jimmy Durante',
     ],
-    [
-        'Success follows those adept at preserving the substance of the past by clothing it in the forms of the future.',
-        'Dee Hock',
+    '0b4fa03b-556c-5580-a5d8-f100678687f5' => [
+        'When life partner happens, I hope he is not a youth icon then because I doubt even I would be youthful then. Whether life partner is hot or not, that doesn\'t matter. He has to be a nice man. He should be funny, responsible, and he should be sweet, and he should love me a lot.',
+        'Alia Bhatt',
     ],
-    [
-        'Do not wait; the time will never be \'just right.\' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.',
-        'George Herbert',
+    '009360d3-8213-58ad-970c-d6b3dbd15671' => [
+        'When you\'re a self-made man, you start very early in life. In my case it was at 9 years old when I started bringing income into the family. You get a drive that\'s a little different, maybe a little stronger, than somebody who inherited.',
+        'Kirk Kerkorian',
     ],
-    [
-        'Purpose and laughter are the twins that must not separate. Each is empty without the other.',
-        'Robert Greenleaf',
+    'b66dad46-06fd-596f-8924-cab62dc86936' => [
+        'Work is accomplished by those employees who have not yet reached their level of incompetence.',
+        'Laurence J. Peter',
     ],
-    [
-        'I\'m always thinking about creating. My future starts when I wake up every morning... Every day I find something creative to do with my life.',
-        'Dong Dong',
+    '9007cb60-66a7-5b76-a7c0-362892aa23e9' => [
+        'You grow up a bit damaged or broken then you have some success but you don\'t know how to feel good about the work you\'re doing or the life you\'re leading.',
+        'Johnny Depp',
     ],
-    [
-        'I am a happy person and I choose to be a positive person. I think some people think my life has been tragic and there have been these horrible dramas but things really have been, and are, fine.',
-        'Patsy Kensit',
+    '2ebc124d-4a6d-5edb-913f-703103a7ffc0' => [
+        'Nothing surpasses the beauty and elegance of a bad idea.',
+        'Craig Bruce',
     ],
-    [
-        'I think I\'ve always had a certain amount of skepticism of this whole \'shut up and smile\' theory. I haven\'t ever swallowed that pill so easily, although I tried.',
-        'Amber Heard',
+    'd265568a-a895-553d-9bee-e40cc0e9d3ed' => [
+        'I read the script for Wonder Boys, and I said that was almost perfect, it was so classy, cool and funny. It\'s a really specific thing. We stuck to it, it turned out good and a lot of people liked it.',
+        'Robert Downey, Jr.',
     ],
-    [
-        'An American orchestra doesn\'t want to play more than it has to. I respectfully disagree with that attitude.',
-        'Zubin Mehta',
+    'b12d3b1a-dcbe-5d54-938c-98735f9551e4' => [
+        'I travel Europe every couple of weeks. I just came back from London, Holland and Denmark. Every nation on this planet has its issues with race, and I am not sure if everyone has figured out how to deal with it.',
+        'Montel Williams',
     ],
-    [
-        'Your purpose is to make your audience see what you saw, hear what you heard, feel what you felt. Relevant detail, couched in concrete, colorful language, is the best way to recreate the incident as it happened and to picture it for the audience.',
-        'Dale Carnegie',
+    'ceaf109c-4750-5514-98b5-2a4df1dfbdac' => [
+        'It is my goal to love everyone. I hate no one. Regardless of their race, religion, their proclivities, the desire of their heart and how they want to live their life and the decisions that they make. I can even respect people\'s decisions and lifestyle choices just as I hope they have the courtesy to respect my decisions and my choices.',
+        'Alan Alda',
     ],
-    [
-        'Anybody can make history. Only a great man can write it.',
-        'Oscar Wilde',
+    'f9a196de-e174-5b70-8282-b68aae95e91c' => [
+        'We spend to pretend that we\'re upper class. And when the dust clears - when bankruptcy hits or a family member bails us out of our stupidity - there\'s nothing left over. Nothing for the kids\' college tuition, no investment to grow our wealth, no rainy-day fund if someone loses her job.',
+        'J. D. Vance',
     ],
-    [
-        'Not everything in old age is grim. I haven\'t walked through an airport for years, and wheelchairs are the way to travel.',
-        'Donald Hall',
+    '632f12e8-cd79-5c2e-ac79-a26a2591e869' => [
+        'Don\'t let the fear of losing be greater than the excitement of winning.',
+        'Robert Kiyosaki',
     ],
-    [
-        'Joy\'s smile is much closer to tears than laughter.',
-        'Victor Hugo',
+    '2c58bea6-7f98-55b8-8cd8-daf689ae9254' => [
+        'I want to build a legacy at the WWE, but I definitely want to continue to grow the Bella Empire. I want it to go beyond the ring. I would love to be a motivational speaker.',
+        'Nikki Bella',
     ],
-    [
-        'To such an extent does nature delight and abound in variety that among her trees there is not one plant to be found which is exactly like another; and not only among the plants, but among the boughs, the leaves and the fruits, you will not find one which is exactly similar to another.',
-        'Leonardo da Vinci',
+    '01b2fa61-cef9-5381-8653-cdfe6ecf4436' => [
+        'Having a baby is one of the most wonderful things in your life, as well as the hardest thing in your life.',
+        'Tom Welling',
     ],
-    [
-        'I don\'t love Photoshop; I like imperfection. It doesn\'t mean ugly. I love a girl with a gap between her teeth, versus perfect white veneers. Perfection is just... boring. Perfect is what\'s natural or real; that is beauty.',
-        'Marc Jacobs',
+    'e6128740-7217-55d8-bc07-4a97915a1deb' => [
+        'Human life is as evanescent as the morning dew or a flash of lightning.',
+        'Samuel Butler',
     ],
-    [
-        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
-        'Fritz Scholder',
+    'a91ba2e3-b76d-586f-944f-cedc4dc3d1e7' => [
+        'Our job is to represent the truth of human nature, whether you\'re playing a tender love story that\'s set in a coffee shop or whether you\'re in \'The Avengers,\' which is set in a Manhattan which is exploding.',
+        'Tom Hiddleston',
     ],
 ];

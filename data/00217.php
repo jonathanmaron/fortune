@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Once you bring life into the world, you must protect it. We must protect it by changing the world.',
-        'Leah LaBelle',
+    '8cc7ff43-c6ff-5075-8eb7-6e649087ae11' => [
+        'Marvin\'s Motivational Moments actually started as something that was actually therapeutic for me. I would sit up late at night after my wife passed trying to adjust to being alone.',
+        'Marvin Sapp',
     ],
-    [
-        'It\'s not an experiment if you know it\'s going to work.',
-        'Jeff Bezos',
+    '7fcd0e8a-e59b-5553-9d05-1e6936be02ac' => [
+        'In the long run we get no more than we have been willing to risk giving.',
+        'Sheldon Kopp',
     ],
-    [
-        'Nothing succeeds like success.',
-        'Alexandre Dumas',
+    '9acb5683-e807-5795-9e63-d0eb28de9d45' => [
+        'The more you know yourself, the more you forgive yourself.',
+        'Confucius',
     ],
-    [
-        'Tell me how a person judges his or her self-esteem, and I will tell you how that person operates at work, in love, in sex, in parenting, in every important aspect of existence - and how high he or she is likely to rise. The reputation you have with yourself - your self-esteem - is the single most important factor for a fulfilling life.',
-        'Nathaniel Branden',
+    '3c70ac71-c4a8-5b97-99b2-5e187a8c2167' => [
+        'Good news doesn\'t necessarily have to be a positive thing. Bringing good news is imparting hope to one\'s fellow man.',
+        'Patti Smith',
     ],
-    [
-        'I believe that being successful means having a balance of success stories across the many areas of your life. You can\'t truly be considered successful in your business life if your home life is in shambles.',
-        'Zig Ziglar',
+    '41f2cf3f-ab2b-539d-bd0e-c6526ff2ffd6' => [
+        'The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter - for the future. His duty is to lay the foundation for those who are to come, and point the way.',
+        'Nikola Tesla',
     ],
-    [
-        'Pick a flower on Earth and you move the farthest star.',
-        'Paul Dirac',
+    '7d210dc5-abbe-54d6-a5d1-e6250caaa5d8' => [
+        'It\'s not that our family has no taste, it\'s just that our family\'s taste is inconsistent.',
+        'Dave Eggers',
     ],
-    [
-        'When you\'re curious, you find lots of interesting things to do.',
-        'Walt Disney',
+    'd5044308-6fa9-5296-bf1a-849ecd18fec5' => [
+        'When I ran the stock exchange, it was the most successful it\'s been in its 200-plus-year history. And I was rewarded for success; I would not have been rewarded if we failed.',
+        'Richard Grasso',
     ],
-    [
-        'This idea that being youthful is the only thing that\'s beautiful or attractive simply isn\'t true. I don\'t want to be an \'ageless beauty.\' I want to be a woman who is the best I can be at my age.',
-        'Sharon Stone',
+    'd54c61f3-8890-57d6-b83b-9965f61c1094' => [
+        'Your present circumstances don\'t determine where you can go; they merely determine where you start.',
+        'Nido Qubein',
     ],
-    [
-        'Anyone who has a continuous smile on his face conceals a toughness that is almost frightening.',
-        'Greta Garbo',
+    '2bb14169-5633-523f-934e-af7d4c266055' => [
+        'We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.',
+        'Stephen Covey',
     ],
-    [
-        'You will also allow me to thank the Academy for inviting me to lecture in Stockholm, for its hospitality, and for the opportunity afforded me for admiring the charm of your people and the beauty of your country.',
-        'Guglielmo Marconi',
+    '0c7506ad-402a-513f-89db-ca58c73dde8a' => [
+        'It is not the years in your life but the life in your years that counts.',
+        'Malala Yousafzai',
     ],
-    [
-        'I think it\'s important to find the little things in everyday life that make you happy.',
-        'Thich Nhat Hanh',
+    '2b182879-a317-54f7-8c8c-977400e0a812' => [
+        'I think anyone who\'s perfectly happy isn\'t particularly funny.',
+        'Joan Rivers',
     ],
-    [
-        'Our brand of democracy is hard. But I can promise that a year from now, when I no longer hold this office, I\'ll be right there with you as a citizen - inspired by those voices of fairness and vision, of grit and good humor and kindness that have helped America travel so far.',
-        'Barack Obama',
+    '0984e0aa-ccf8-5569-a668-a0f15278dcb2' => [
+        'I have no regrets, because I\'ve done everything I could to the best of my ability.',
+        'Robert Redford',
     ],
-    [
-        'What they have done in Japan, which I find so inspirational, is they\'ve brought the toilet out from behind the locked door. They\'ve made it conversational. People go out and upgrade their toilet. They talk about it. They\'ve sanitized it.',
-        'Rose George',
+    '649c2cc3-6a7a-52be-a06b-0558a79da24b' => [
+        'The temple bell stops but I still hear the sound coming out of the flowers.',
+        'Matsuo Basho',
     ],
-    [
-        'You can be a pretty face, but if you\'re not a nice person, it just doesn\'t work. I\'m not traditionally a beauty, but apparently people think I\'m all right. If you\'re a nice person, it definitely helps.',
-        'Kate Moss',
+    '7cf259f7-75b2-540f-87ce-97f30a91e3a5' => [
+        'Wrinkles will only go where the smiles have been.',
+        'Jimmy Buffett',
     ],
-    [
-        'Success didn\'t spoil me, I\'ve always been insufferable.',
-        'Fran Lebowitz',
+    'c3d0a8fc-7ca4-567f-bf93-c18d6d782f2b' => [
+        'I feel like a little kid who just walked into a candy store. I think that\'s something to smile about.',
+        'Brandon Boyd',
     ],
-    [
-        'Life teaches you that you need to make decisions in the right time - not too early, not too late.',
-        'Jeb Bush',
-    ],
-    [
-        'I had an attitude problem when I was a kid. I\'m not gonna lie.',
-        'Tionne Watkins',
-    ],
-    [
-        'Courage is resistance to fear, master of fear, not absence of fear',
-        'Mark Twain',
-    ],
-    [
-        'I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.',
-        'Leonardo da Vinci',
-    ],
-    [
-        'I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.',
+    '14742bc2-bd22-5272-b3e5-5d270719b773' => [
+        'Each life is made up of mistakes and learning, waiting and growing, practicing patience and being persistent.',
         'Albert Einstein',
     ],
-    [
-        'When someone shows you who they are, believe them the first time.',
-        'Maya Angelou',
+    '061ba664-dff9-5c99-9c51-dddb6e5d1203' => [
+        'I\'m full of fears and I do my best to avoid difficulties and any kind of complications. I like everything around me to be clear as crystal and completely calm.',
+        'Alfred Hitchcock',
     ],
-    [
-        'In just six weeks from the time the design was started, we had the motor on the block testing its power.',
-        'Orville Wright',
+    '3bf89917-efc9-560e-8799-bbc29aca961d' => [
+        'Humans have a light side and a dark side, and it\'s up to us to choose which way we\'re going to live our lives. Even if you start out on the dark side, it doesn\'t mean you have to continue your journey that way. You always have time to turn it around.',
+        'Taraji P. Henson',
     ],
-    [
-        'Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.',
-        'Margaret Runbeck',
+    'df397016-7aa1-5f0d-a46a-f799e6d732db' => [
+        'The flower in the vase smiles, but no longer laughs.',
+        'Malcolm de Chazal',
     ],
-    [
-        'The most used program in computers and education is PowerPoint. What are you learning about the nature of the medium by knowing how do to a great PowerPoint presentation? Nothing. It certainly doesn\'t teach you how to think critically about living in a culture of simulation.',
-        'Sherry Turkle',
+    '8b2edf51-4822-5a74-bc26-105f64b3bf13' => [
+        'Wondrous is the strength of cheerfulness, and its power of endurance - the cheerful man will do more in the same time, will do it; better, will preserve it longer, than the sad or sullen.',
+        'Thomas Carlyle',
     ],
-    [
-        'The best books... are those that tell you what you know already.',
-        'George Orwell',
+    'be90ee0f-cddb-5a11-912e-850a874e883e' => [
+        'My only responsibility as a playwright and a storyteller is to give you the time of your life in the theatre. I just happen to think that with Hamilton\'s story, sticking close to the facts helps me. All the most interesting things in the show happened.',
+        'Lin-Manuel Miranda',
+    ],
+    '67df8278-286f-5ca1-b6ff-2b2deefff36d' => [
+        'There will always be a desire for something new, fresh and innovative, as well as a yearning and respect for timeless elegance and beauty.',
+        'Helena Christensen',
+    ],
+    'f4649093-8ac8-571c-92cc-078ceb8e2dd9' => [
+        'Whatever you do in life, surround yourself with smart people who\'ll argue with you.',
+        'William Wordsworth',
+    ],
+    '3b55dabc-933b-5942-a7ed-44505aea648a' => [
+        'The secret to happiness is freedom. And the secret to freedom is courage.',
+        'Thucydides',
+    ],
+    'af6d5ebe-fad4-54c9-baaf-1ec1c21d0850' => [
+        'If you love life, don\'t waste time, for time is what life is made up of.',
+        'Pope John XXIII',
     ],
 ];

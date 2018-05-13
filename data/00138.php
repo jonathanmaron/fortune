@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Man, I\'m 31 years old and a husband with four kids; I hope I\'m no thug. I hear all those negative things and don\'t hear anything positive. I think that\'s all those people feel... that way that\'s all they hear about when you hear Allen Iverson did something negative or something.',
-        'Allen Iverson',
+    '4d7f0c34-6c01-5064-a7d5-b1b99609688c' => [
+        'I always prefer to believe the best of everybody, it saves so much trouble.',
+        'Rudyard Kipling',
     ],
-    [
-        'I love my wife and I know she loves me. We\'re best friends. We\'re just lucky to have found each other. It takes a lot of work but I just feel very blessed that I found the right person. It\'s a very fortunate situation and not everyone has that.',
-        'Harry Connick, Jr.',
+    'e2dda5e4-20e0-50f2-a879-d20b60dc3f57' => [
+        'That best portion of a man\'s life, his little, nameless, unremembered acts of kindness and love.',
+        'William Wordsworth',
     ],
-    [
-        'Every one has her own love life. Every one has a dream to get a perfect life partner. But this is not so easy in real life. In fact, one doesn\'t love; it happens.',
-        'Ariana Grande',
+    '25a7d353-a5f5-530e-9bb0-b937f7738f99' => [
+        'I have very positive memories of reading biographies of unusual Americans as a child.',
+        'Chris Van Allsburg',
     ],
-    [
-        'I\'m doing a pilot for Comedy Central with the band Steel Panther. They\'re faux heavy metal. They started as kind of a tribute band out here, or a cover band, and they\'re funny guys, and they just sort of morphed into their own thing.',
-        'Brian Posehn',
+    '43827351-da08-51c4-beda-0ecb4f2d9051' => [
+        'I have this horrible sense of humor where I think discomfort is funny - partly because I experience discomfort a lot, and it\'s a way of laughing at it and getting a release.',
+        'Joaquin Phoenix',
     ],
-    [
-        'Travel is glamorous only in retrospect.',
-        'Paul Theroux',
+    '79dc9d7e-c0f4-50dd-a2f4-867f718f4f2f' => [
+        'The cost of our success is the exhaustion of natural resources, leading to energy crises, climate change, pollution, and the destruction of our habitat. If you exhaust natural resources, there will be nothing left for your children. If we continue in the same direction, humankind is headed for some frightful ordeals, if not extinction.',
+        'Christian de Duve',
     ],
-    [
-        'The social issues outside of football are not as defined as they were earlier, when integration took place and certain rights were legislated. The Civil Rights movement is over. Individuals can buy homes wherever they want, travel first class wherever they want, eat wherever they want.',
-        'Jim Brown',
+    '30e13883-9b45-521d-9066-c1430aace327' => [
+        'Immortality may be impossible, but imagine what humanity could learn if we all lived 700 years. We could travel deep into utopia and beyond.',
+        'Gray Scott',
     ],
-    [
-        'He who is of calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden.',
-        'Plato',
+    'bb430b0a-0fc2-5b06-9887-38946ce0df00' => [
+        'To give hope to someone occurs when you teach them how to use the tools to do it for themselves.',
+        'Byron Pulsifer',
     ],
-    [
-        'Ultimately, leadership is not about glorious crowning acts. It\'s about keeping your team focused on a goal and motivated to do their best to achieve it, especially when the stakes are high and the consequences really matter. It is about laying the groundwork for others\' success, and then standing back and letting them shine.',
-        'Chris Hadfield',
-    ],
-    [
-        'The Creator has not given you a longing to do that which you have no ability to do.',
-        'Orison Marden',
-    ],
-    [
-        'Ideas are a dime a dozen. People who implement them are priceless.',
-        'Mary Kay Ash',
-    ],
-    [
-        'It\'s extremely important just to keep things positive and happy as much as we can... I think it\'s important that singers, actors, or whatever use our voice to spread positive messages as much as we possibly can.',
-        'Shawn Mendes',
-    ],
-    [
-        'This too, shall pass.',
-        'Anonymous',
-    ],
-    [
-        'Attitude and enthusiasm play a big part in my life. I get excited about the things that inspire me. I also believe in laughing and having a good time.',
-        'Dwayne Johnson',
-    ],
-    [
-        'I\'m not here to discuss the past... I\'m here to be positive.',
-        'Mark McGwire',
-    ],
-    [
-        'Italian men do appreciate beautiful women. They\'re not afraid of the beauty, which is nice.',
-        'Eva Herzigova',
-    ],
-    [
-        'If you\'re going through hell, keep going.',
-        'Winston Churchill',
-    ],
-    [
-        'I definitely at times notice a difference in service when I go out. You know, I can walk in to grab a cup of coffee or walk in to have lunch or dinner, and people definitely seem on their best behavior, which is funny, or I start to see people clean up around me, which I always find really, really amusing.',
-        'Tabatha Coffey',
-    ],
-    [
-        'We opened Panda Inn on June 8, 1973. The whole family - my parents, a brother and sister - all worked at the restaurant for free. We lived in a two-bedroom apartment in San Gabriel and didn\'t have any money.',
-        'Andrew Cherng',
-    ],
-    [
-        'It does not matter how slowly you go as long as you do not stop.',
-        'Confucius',
-    ],
-    [
-        'Nature hath framed strange fellows in her time.',
-        'William Shakespeare',
-    ],
-    [
-        'Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.',
-        'Jack Welch',
-    ],
-    [
-        'Life is a mirror and will reflect back to the thinker what he thinks into it.',
-        'Ben Roethlisberger',
-    ],
-    [
-        'I wish the government would put a tax on pianos for the incompetent.',
-        'Edith Sitwell',
-    ],
-    [
-        'Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.',
+    '9d3cdbbb-f8fb-55db-ab9b-836ea304dbde' => [
+        'Life is a progress, and not a station.',
         'Ralph Emerson',
     ],
-    [
-        'The most beautiful thing in the world is, of course, the world itself.',
-        'Wallace Stevens',
+    'e47559fb-2d93-5996-95fc-7fcb3086f68c' => [
+        'Being stylish is about enjoying your life and expressing yourself and your inner light.',
+        'Paulo Coelho',
+    ],
+    '64fe867f-308e-5210-a772-f69e8487b530' => [
+        'Take no thought of who is right or wrong or who is better than. Be not for or against.',
+        'Bruce Lee',
+    ],
+    '45e49c9d-c835-56ba-9a92-8f634b6e2fdc' => [
+        'As you think, you travel, and as you love, you attract. You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you.',
+        'James Lane Allen',
+    ],
+    'f1dbee76-c692-53ed-adf0-25266aa32890' => [
+        'What we think, we become.',
+        'Buddha',
+    ],
+    'fe7cdbce-0065-5d79-a741-d9148d74bc5b' => [
+        'Can you imagine what I would do if I could do all I can?',
+        'Jeff Rich',
+    ],
+    '721745ad-3b9a-5a00-8019-7965503e392d' => [
+        'Just trust yourself, then you will know how to live.',
+        'Goethe',
+    ],
+    '1e7214f6-3c3c-5568-9d2e-aea1eaf90a60' => [
+        'What has been happening more lately - of course, I also put in my bio, I say I do the voice of Goliath, but some people go - you know, I say something, and it\'s a funny thing when you work in this business, people will talk out loud in front of you like you\'re not there.',
+        'Keith David',
+    ],
+    '8c3310f8-3c0d-5338-a010-cd0292adb117' => [
+        'London is a roost for every bird.',
+        'Benjamin Disraeli',
+    ],
+    '38530922-9095-5a90-b1fb-0a85f0f7021c' => [
+        'If you surrender to the wind, you can ride it.',
+        'Toni Morrison',
+    ],
+    '0604c7f3-f668-5997-93bf-d854688c1480' => [
+        'Food makes travel so exceptional, because you get to taste what it\'s actually supposed to taste like. To eat the real Pad Thai or finally have a proper curry is something pretty amazing.',
+        'Meghan Markle',
+    ],
+    '72bd9483-a3d1-58e2-ae5a-e53ebefeb7aa' => [
+        'After a lifetime of world travel I\'ve been fascinated that those in the third world don\'t have the same perception of reality that we do.',
+        'Jim Harrison',
+    ],
+    'd143d062-545f-59dc-b8b7-f1a5c2406e1f' => [
+        'Also, my mom and family are very important to me and I know that this is not expected.',
+        'Christina Milian',
+    ],
+    '94582899-3d4e-5c26-b1b5-87f968e2651b' => [
+        'Behind every cloud is another cloud.',
+        'Judy Garland',
+    ],
+    'f77d60a8-e901-58b8-80ac-714318859574' => [
+        'I am not bound for any public place, but for ground of my own where I have planted vines and orchard trees, and in the heat of the day climbed up into the healing shadow of the woods.',
+        'Wendell Berry',
+    ],
+    '19499b69-2b2e-582d-b848-959ee940dbbb' => [
+        'I love being immersed in nature, going to places in the world that are pristine and untouched by man. It\'s almost a religious experience when you go to a place like the Amazon, and there\'s no civilisation for thousands of miles.',
+        'Leonardo DiCaprio',
+    ],
+    '6369af34-087d-548e-859f-6e6e1a253503' => [
+        'By nature, I\'m a very positive person, and because I\'m happy in myself, and in my life, and I\'ve got a great husband, and beautiful children, and I have a job that I love that calls for a certain amount of emotional expression, I get to realise a lot of my dreams and aspirations.',
+        'Kate Winslet',
+    ],
+    'c4908f28-b238-5272-bd94-44772fc55069' => [
+        'Realize deeply that the present moment is all you ever have. Make the Now the primary focus of your life.',
+        'Anais Nin',
     ],
 ];

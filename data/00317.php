@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When the human race neglects its weaker members, when the family neglects its weakest one - it\'s the first blow in a suicidal movement. I see the neglect in cities around the country, in poor white children in West Virginia and Virginia and Kentucky - in the big cities, too, for that matter.',
-        'Maya Angelou',
+    '1f268758-1d8b-5ada-a1c5-25b9d2013d57' => [
+        'People see you as an object, not as a person, and they project a set of expectations onto you. People who don\'t have it think beauty is a blessing, but actually it sets you apart.',
+        'Candice Bergen',
     ],
-    [
-        'Sometimes words are not needed, and the simplicity of expressing yourself through an art form is one of the best ways of communication.',
-        'Emmanuel Jal',
+    '310435b6-e05e-5087-87f3-0dba05439ac0' => [
+        'Y\'know, smile, dance, get crazy... we sure do while we\'re making it, because music is our leeezshure; it\'s my fun.',
+        'Bernard Edwards',
     ],
-    [
-        'I\'m like old wine. They don\'t bring me out very often - but I\'m well preserved.',
-        'Rose Kennedy',
+    'ec2fd524-6d8d-56bc-84db-505683c8c8f8' => [
+        'The content I create reflects my personality: goofy, fun, positive, a bit clumsy, family-friendly, educational and helpful.',
+        'Rosanna Pansino',
     ],
-    [
-        'A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies.',
-        'Confucius',
+    '1fb138a7-c482-5472-949d-a57380e6a58c' => [
+        'From 2002-2008, Planned Parenthood received $342 million in federal taxpayer money through Title X funding alone. With these funds, Planned Parenthood has provided women throughout the U.S. with important family planning and contraceptive services as well as screening for breast and cervical cancers for low-income women.',
+        'Lisa Murkowski',
     ],
-    [
-        'Frisbeetarianism is the belief that when you die, your soul goes up on the roof and gets stuck.',
-        'George Carlin',
+    '600c185b-e7f0-523d-aa97-35ba97796426' => [
+        'The only thing even in this world is the number of hours in a day. The difference in winning or losing is what you do with those hours.',
+        'Woody Hayes',
     ],
-    [
-        'I believe that we all have a responsibility to give back. No one becomes successful without lots of hard work, support from others, and a little luck. Giving back creates a virtuous cycle that makes everyone more successful.',
-        'Ron Conway',
+    '5c3f3a6c-2a81-5af3-89dd-5bd65a6db15f' => [
+        'Coffee has always been a significant part of my life. For me, it\'s a chance to start my day and gather my thoughts - it\'s fuel for my creative process.',
+        'Jessica Savitch',
     ],
-    [
-        'Every child is an artist.  The problem is how to remain an artist once he grows up.',
-        'Pablo Picasso',
+    'c327125c-ad15-5520-802b-2e13919a64da' => [
+        'If you know your goal and work for it you will reach the peak.',
+        'Jounayet Rahman',
     ],
-    [
-        'Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing.',
-        'Helen Keller',
+    'caa80c53-3978-5a55-b474-b0a433cb6b98' => [
+        'People need to be cautious because anything built by man can be destroyed by Mother Nature.',
+        'Russel Honore',
     ],
-    [
-        'I grew up in a family that despised not only communism but collectivism, socialism, and any \'ism\' that deprived the individual of his or her natural rights.',
-        'Rand Paul',
+    '17033a42-a745-5cb8-8325-fcc6c017b1cc' => [
+        'Working hard is very important. You\'re not going to get anywhere without working extremely hard.',
+        'George Lucas',
     ],
-    [
-        'Don\'t let people see when you\'re mad - just smile and laugh.',
-        'Astro',
+    'e64dfd7a-250e-57cf-b600-e68746144772' => [
+        'I think if you just look at life in a positive way, positive things will happen.',
+        'Jake Owen',
     ],
-    [
-        'If you see a Renaissance body, this is completely ugly in this time. Everybody has to be skinny. But the Renaissance body with incredible flow of the meat everywhere, it was beauty.',
-        'Marina Abramovic',
+    '6db5ffc9-b114-5070-8afd-c6ee35012d37' => [
+        'The best way to deal with that is to live in a fully conscious, compassionate, loving way. Don\'t wait until you\'re on your deathbed to recognize that this is the only way to live.',
+        'Morrie Schwartz',
     ],
-    [
-        'All men who have achieved great things have been great dreamers.',
-        'Orison Marden',
+    '8a9d60fe-99bb-5eea-a526-7f47926d5797' => [
+        'Our work is the presentation of our capabilities.',
+        'Edward Gibbon',
     ],
-    [
-        'A life is not important except in the impact it has on other lives.',
-        'Oliver Goldsmith',
+    '2572109b-fd45-5f1a-a8a4-6c5910cb26e2' => [
+        'It\'s a fundamental, social attitude that the 1% supports symphonies and operas and doesn\'t support Johnny learning to program hip-hop beats. When I put it like that, it sounds like, \'Well, yeah,\' but you start to think, \'Why not, though?\' What makes one more valuable than another?',
+        'David Byrne',
     ],
-    [
-        'I no doubt deserved my enemies, but I don\'t believe I deserved my friends.',
-        'Walt Whitman',
+    '43d3d578-7491-5363-8b99-746313543ec7' => [
+        'During the holiday season, it\'s easy to forget that sometimes the best gift of all is simply the gift of time. I can\'t think of anything a writer would appreciate more than being given time and space to work.',
+        'Kate Klise',
     ],
-    [
-        'We should measure welfare\'s success by how many people leave welfare, not by how many are added.',
-        'Ronald Reagan',
+    '28216c03-5589-59b2-b74a-52c2c74b712f' => [
+        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
+        'Trey Anastasio',
     ],
-    [
-        'When I was a young boy, growing up in Durham, North Carolina, the women in my family were truly passionate about their clothes; nothing was more beautiful to me than women dressing with the utmost, meticulous attention to accessories, shoes, handbags, hats, coats, dresses and gloves to attend Sunday church services.',
-        'Andre Leon Talley',
+    'd9eb4712-78d7-578c-bcf7-92c7d0ad69a3' => [
+        'The one thing we know about the future is that it comes only one day at a time.',
+        'Jeff Rich',
     ],
-    [
-        'Beauty and fashion are not really local anymore. You really have to be a global citizen to know what trends are. Now, it\'s pretty much the same designers and the same kind of trends, whether I am in New York, Milan, or Mumbai - it\'s the same.',
-        'Priyanka Chopra',
+    '5bd8a988-1e4d-5b33-8bd4-8b29d3b50505' => [
+        'If you can figure out my success on the screen, you\'re a better man than I.',
+        'Alan Ladd',
     ],
-    [
-        'Tennis has had a very positive impact on my life.',
-        'Gabriela Sabatini',
+    '2aeab0e7-dfe7-50d7-b6e5-f5bac228a1ab' => [
+        'The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.',
+        'Thomas A. Edison',
     ],
-    [
-        'The mind always fails first, not the body. The secret is to make your mind work for you, not against you.',
-        'Arnold Schwarzenegger',
+    '6013b443-b570-5c25-bc3b-3e8b658ea2ec' => [
+        'The true work of art is but a shadow of the divine perfection.',
+        'Michelangelo',
     ],
-    [
-        'I have the best roommates in the world! It creates a fun sense of family... and that\'s really important to me. Things can get so lonely without it.',
-        'Kristen Bell',
+    '12cc412c-8dcd-5a25-b96e-4e92f2891553' => [
+        'I am prepared for the worst, but hope for the best.',
+        'Benjamin Disraeli',
     ],
-    [
-        'Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.',
-        'Unknown',
+    '1a63e962-5c0c-58b1-8501-6b65be595ba4' => [
+        'It is on our failures that we base a new and different and better success.',
+        'Havelock Ellis',
     ],
-    [
-        'Challenge is the pathway to engagement and progress in our lives. But not all challenges are created equal. Some challenges make us feel alive, engaged, connected, and fulfilled. Others simply overwhelm us. Knowing the difference as you set bigger and bolder challenges for yourself is critical to your sanity, success, and satisfaction.',
-        'Brendon Burchard',
+    'b301d3db-4132-5bce-a784-b9bfc679332d' => [
+        'I always try to stay aggressive. I always use my strengths and always work on my weaknesses to get better. That\'s just who I am.',
+        'Kristaps Porzingis',
     ],
-    [
-        'Both for Havana\'s beauty and decay, it\'s very hard to restrain yourself from staring everywhere you look.',
-        'Brin-Jonathan Butler',
+    'cb54c2af-773e-569e-b7d0-f7c7ad9db06c' => [
+        'The way to get started is to quit talking and begin doing.',
+        'Walt Disney',
     ],
-    [
-        'Time and space - time to be alone, space to move about - these may well become the great scarcities of tomorrow.',
-        'Edwin Way Teale',
+    'c279bd61-ff83-5991-89bc-d5b0c5f6788c' => [
+        'Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.',
+        'W. Clement Stone',
     ],
-    [
-        'Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it\'s all over.',
-        'Octavia Butler',
+    '9f88d709-7776-5076-9740-bc2d7b7e1a9a' => [
+        'Once you have a lot of success, you become a target in many ways.',
+        'Jennifer Lopez',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'In today\'s world, social media, people get judged so much by the last thing that happened, I almost feel, in a way, young people get to see that not only is it OK to fail - that\'s the way you get to championship success, whether it\'s sports or business or life.',
-        'Dan Gilbert',
+    '06ef38b8-ca79-5421-9054-f82dd949237e' => [
+        'What looks like enjoyment is the sneer of contempt. That\'s not a smile.',
+        'Jack Kevorkian',
     ],
-    [
-        'I\'ll bring my grits when I travel, because I get so hungry on the road.',
-        'Dolly Parton',
+    '08a5a688-4fe0-5fc5-a384-22a98ae1cd08' => [
+        'Let your hook always be cast; in the pool where you least expect it, there will be a fish.',
+        'Ovid',
     ],
-    [
-        'It\'s funny about men and women. Men pay in cash to get them and pay in cash to get rid of them. Women pay emotionally coming and going. Neither has it easy.',
-        'Hedy Lamarr',
+    'f174f1db-e7cb-551d-9a21-0b463cdd2aab' => [
+        'Our chief want is someone who will inspire us to be what we know we could be.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'I can\'t summarize my favorite movie, Jacques Tati\'s \'Play Time.\' You just have to see it.',
-        'Rick Perlstein',
+    '98be3973-90db-55d2-a984-48c872dc384e' => [
+        'I would like to be remembered as someone who did the best she could with the talent she had.',
+        'J. K. Rowling',
     ],
-    [
-        'Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.',
-        'Maya Angelou',
+    '882ac5b1-6b63-5f0f-933c-c6cedd544820' => [
+        'The Republican Party - that was the end of the Republican Party. What Pete Wilson did with the xenophobia and the negative attitude, all this sort of anti-crime backlash.',
+        'Gavin Newsom',
     ],
-    [
-        'Success is sweet and sweeter if long delayed and gotten through many struggles and defeats.',
-        'Amos Bronson Alcott',
+    '989da889-530b-5d96-b518-7eb01672f0fc' => [
+        'You just can\'t beat the person who never gives up.',
+        'Babe Ruth',
     ],
-    [
-        'Yesterday\'s the past, tomorrow\'s the future, but today is a gift. That\'s why it\'s called the present.',
-        'Bil Keane',
+    '7c2eaa71-8ce4-5049-b5d1-5daa593a2811' => [
+        'Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.',
+        'Thomas Carlyle',
     ],
-    [
-        'You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.',
-        'Abraham Lincoln',
+    '5dfb97ba-c167-5cc1-97e5-39abd94e1d0b' => [
+        'It got very tedious saying the same jokes in the same way with the same attitude.',
+        'Norm MacDonald',
     ],
-    [
-        'My goal in my career is to inspire people, is to get my music out there and have people enjoy it, and have people think of me as an inspirational artist.',
-        'Christina Grimmie',
+    'af32799e-31f9-5f65-b5ea-3b357ad3ec1f' => [
+        'The overall view of the human genome project has been one of great excitement and positive press, but there are people who have concerns that are quite reasonable, and they are frightened of things they don\'t understand.',
+        'Thomas R. Cech',
     ],
-    [
-        'A vegetarian is a person who won\'t eat anything that can have children.',
-        'David Brenner',
+    '1c6ad7cf-3415-502a-bf53-d22eb6fcce8a' => [
+        'Don\'t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.',
+        'Mary Kay Ash',
     ],
-    [
-        'Riding a bicycle is the summit of human endeavour - an almost neutral environmental effect coupled with the ability to travel substantial distances without disturbing anybody. The bike is the perfect marriage of technology and human energy.',
-        'Jeremy Corbyn',
+    'f3ac75d0-12e2-5f73-b662-f5ac53a04442' => [
+        'If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.',
+        'Rachel Carson',
     ],
-    [
-        'I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
-        'Robert Louis Stevenson',
+    'f01f3164-a786-579b-96c1-dc0d66ebd0b3' => [
+        'In my work in Haiti, I\'ve seen the hugely positive effects that happen when people come together to build something in the middle of the most desperate situations.',
+        'Olivia Wilde',
     ],
-    [
-        'Life is hard. Then you die. Then they throw dirt in your face. Then the worms eat you. Be grateful it happens in that order.',
-        'Melina Kanakaredes',
+    '57d4f4e7-f2bb-5f9d-aa3c-806e8f49205d' => [
+        'Art is a harmony parallel with nature.',
+        'Paul Cezanne',
     ],
-    [
-        'Pray that success will not come any faster than you are able to endure it.',
-        'Elbert Hubbard',
+    '0d6f74ca-f332-56e6-885c-e87b9980abba' => [
+        'The truth is, I never travel without cash. I always take a few tens with me in case of an emergency. There\'s never been an emergency, and in time, I realized that Americans don\'t want to touch customers\' dirty bills. They also don\'t want to touch your credit card: you have to put it through the machine yourself, with your own fingers.',
+        'Sayed Kashua',
     ],
-    [
-        'This is a fundamental view of the world. It says that when you build a thing you cannot merely build that thing in isolation, but must repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it.',
-        'Christopher Alexander',
+    'c9d0d11f-b3dd-54d0-9a9e-acc8b88dfc6f' => [
+        'Raising awareness on the most pressing environmental issues of our time is more important than ever.',
+        'Leonardo DiCaprio',
     ],
-    [
-        'Success usually comes to those who are too busy to be looking for it.',
-        'Henry David Thoreau',
+    '68ca1650-6b88-5dab-afbc-b73c7f2d3622' => [
+        'I\'m going to write a book, continue acting, continue motivational speaking and just share with people who I am and what I\'ve learned in my second chance of life and pass it on to people in their first chance of life.',
+        'J. R. Martinez',
     ],
-    [
-        'Success is not final, failure is not fatal: it is the courage to continue that counts.',
-        'Winston Churchill',
+    '1cc51278-80e7-5688-bea0-7fc34898b9a0' => [
+        'Being busy does not always mean real work. The object of all work is production or accomplishment and to either of these ends there must be forethought, system, planning, intelligence, and honest purpose, as well as perspiration. Seeming to do is not doing.',
+        'Thomas A. Edison',
     ],
-    [
-        'We have committed the Golden Rule to memory; let us now commit it to life.',
-        'Edwin Markham',
+    '63dd60e1-340b-5b11-8cd2-0b9910385ae5' => [
+        'Be so good they can\'t ignore you.',
+        'Steve Martin',
     ],
-    [
-        'I like to think I\'m a pretty good friend. I love having a good time, and I enjoy being able to share those good times with others.',
-        'Jacob Batalon',
+    '22eb2643-3714-57da-b097-4e0c85ec78fa' => [
+        'The privilege of a lifetime is being who you are.',
+        'Sophocles',
     ],
-    [
-        'There is only one happiness in life, to love and be loved.',
-        'George Sand',
+    '973e75e2-9225-5143-9855-ca95a93bcdc2' => [
+        'Show me your hands. Do they have scars from giving? Show me your feet. Are they wounded in service? Show me your heart. Have you left a place for divine love?',
+        'Fulton J. Sheen',
     ],
-    [
-        'I allow my intuition to lead my path.',
-        'Manuel Puig',
+    '6743ad02-6022-5e24-a689-53d38ac4f923' => [
+        'I\'m going to marry a Jewish woman because I like the idea of getting up Sunday morning and going to the deli.',
+        'Michael J. Fox',
     ],
-    [
-        'In Naples, Fla., I met a self-made man, a multimillionaire, whose round penthouse apartment is home to Pierre-Auguste Renoir, Claude Monet, Henry Moore, and Mickey Mantle. He had purchased the most coveted items auctioned by the Mantle family at Madison Square Garden in December 2003.',
-        'Jane Leavy',
+    '68c98bfd-f715-595d-8b4b-10f13cc8c9cd' => [
+        "Nothing is impossible, the word itself says, \u{201c}I'm possible!\u{201d}",
+        'Audrey Hepburn',
     ],
-    [
-        'In our nature, however, there is a provision, alike marvelous and merciful, that the sufferer should never know the intensity of what he endures by its present torture, but chiefly by the pang that rankles after it.',
-        'Nathaniel Hawthorne',
+    'df719a18-3a09-56a0-9a53-c469483d0ee1' => [
+        'We are all born with a unique genetic blueprint, which lays out the basic characteristics of our personality as well as our physical health and appearance... And yet, we all know that life experiences do change us.',
+        'Agatha Christie',
     ],
-    [
-        'It\'s always exciting to see different cities I love, and go on tour buses. It\'s so much fun to travel. My favorite part is being able to perform live in front of all these amazing people; being able to connect with them and seeing their reaction makes me feel very special.',
-        'Jackie Evancho',
+    'b324a136-6f48-57c9-b486-f7645f64ee7d' => [
+        'My hope still is to leave the world a bit better than when I got here.',
+        'Jim Henson',
     ],
-    [
-        'They can conquer who believe they can.',
-        'Virgil',
+    '393d8064-a3c0-5886-9e25-66e10eb3428b' => [
+        'There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.',
+        'Oprah Winfrey',
     ],
 ];

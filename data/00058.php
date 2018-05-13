@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Enjoy failure and learn from it. You can never learn from success.',
-        'James Dyson',
+    '51307f50-9ae4-5517-80fc-a2817ee7eb11' => [
+        'I just want to continue to break barriers and to show the industry and the world that beauty is diverse, and you don\'t have to be a certain stereotype to be beautiful.',
+        'Joan Smalls',
     ],
-    [
-        'A discipline I have observed is an attitude of love and reverence to people.',
-        'Bessie Head',
+    '45f523e7-fde3-5d07-871e-42a364be4acd' => [
+        'Being funny is everything to me.',
+        'Allison Jones',
     ],
-    [
-        'A compliment is something like a kiss through a veil.',
-        'Victor Hugo',
+    '1a6fa4a8-68fe-54ea-8183-bf7904a83293' => [
+        'Pick battles big enough to matter, small enough to win.',
+        'Jonathan Kozol',
     ],
-    [
-        'I\'ve missed more than 9000 shots in my career. I\'ve lost almost 300 games. 26 times I\'ve been trusted to take the game winning shot and missed. I\'ve failed over and over and over again in my life. And that is why I succeed.',
-        'Michael Jordan',
+    '70e8e1cf-5009-5628-83d2-2e04773e2487' => [
+        'I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
+        'Gene Simmons',
     ],
-    [
-        'My quick beauty tip is always have a tinted gloss of some kind to give you some color even if you have no makeup on.',
-        'Rachel Bilson',
+    '2fa206c9-a669-55d7-87a9-bc6c57ba53c3' => [
+        'The beauty of a woman is not in the clothes she wears, the figure that she carries or the way she combs her hair.',
+        'Audrey Hepburn',
     ],
-    [
-        'Look up, laugh loud, talk big, keep the color in your cheek and the fire in your eye, adorn your person, maintain your health, your beauty and your animal spirits.',
-        'William Hazlitt',
+    '3f679178-305c-54ea-a2ac-6bf8215fbefc' => [
+        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything hes got.',
+        'Walter Cronkite',
     ],
-    [
-        'It\'s funny, but you get to a time in your life when you think you have all the friends you will ever have.',
-        'Liam Neeson',
+    '7c30fd91-dbde-5aa2-bbc8-9e1595c62266' => [
+        'The attitude among the people I knew was, \'Fleur wants to be a singer\' but it was never, \'Go for it. You can do it.\' Everyone was cynical because we\'d never seen anyone where we came from do it.',
+        'Fleur East',
     ],
-    [
-        'TV is chewing gum for the eyes.',
-        'Frank Lloyd Wright',
+    '0f0076a3-7e47-5112-a332-4fb35beac4b2' => [
+        'Poetry at its best can do you a lot of harm.',
+        'Sylvia Plath',
     ],
-    [
-        'Don\'t smother each other. No one can grow in the shade.',
-        'Leo F. Buscaglia',
+    'b425b9ae-2b0d-552d-9212-d999b32b5491' => [
+        'I grew up in a very religious family. I could read the Qu\'ran easily at the age of five.',
+        'Akhmad Kadyrov',
     ],
-    [
-        'Steven Gerrard was someone I looked up to massively. I\'d always try to copy him, right down to the boots he was wearing. It was his attitude on the pitch that stood out - you could really see how much he hated losing.',
-        'Dele Alli',
+    '506eb17b-bcde-5343-8a55-1ca3e46f6a95' => [
+        'There comes a time in the affairs of man when he must take the bull by the tail and face the situation.',
+        'W. C. Fields',
     ],
-    [
-        'Personal beauty is a greater recommendation than any letter of reference.',
-        'Aristotle',
+    '56369b7c-8606-5991-8fc0-1dbaa82d895f' => [
+        'There\'s a fine line between stubbornness and the positive side of that, which is dogged determination.',
+        'Jeb Bush',
     ],
-    [
-        'If you set your goals ridiculously high and it\'s a failure, you will fail above everyone else\'s success.',
-        'James Cameron',
+    '71d9e463-25d0-50d9-a037-08faec2ba2c7' => [
+        'And time for reflection with colleagues is for me a lifesaver; it is not just a nice thing to do if you have the time. It is the only way you can survive.',
+        'Margaret J. Wheatley',
     ],
-    [
-        'As governor, I will always be willing to work with people who have ideas to offer and are ready to roll up their sleeves. That kind of teamwork will build a New Hampshire that will lead the nation and compete with the world. Together, we will help our businesses grow and build a stronger economy on a vision of innovation and growth.',
-        'Maggie Hassan',
+    'a1f3a1a7-b178-5f8c-9f4b-0fdde8fb0526' => [
+        'I wish the government would put a tax on pianos for the incompetent.',
+        'Edith Sitwell',
     ],
-    [
-        'Family life itself, that safest, most traditional, most approved of female choices, is not a sanctuary: It is, perpetually, a dangerous place.',
-        'Margaret Drabble',
+    '57c50397-bcf2-5d2e-bf27-6b6ec937361e' => [
+        'I just love where I am right now in my career. I love country music. I don\'t ever feel restricted by the genre. I\'ve been able to have a solid career that we\'ve built one step at a time and a family. I know that I\'m in a good place.',
+        'Martina McBride',
     ],
-    [
-        'I really think that it\'s disgusting that Paris is the only place where it is illegal for paps to follow you around. It actually took someone losing their life - Diana, an inspirational woman - and then it changed, but they still won\'t change it in London! It\'s horrible!',
-        'Cara Delevingne',
+    '84c580a4-76ee-5278-beac-23609b58f0bf' => [
+        'Leaders cannot work in a vacuum. They may take on larger, seemingly more important roles in an organization, but this does not exclude them from asking for and using feedback. In fact, a leader arguably needs feedback more so than anyone else. It\'s what helps a leader respond appropriately to events in pursuit of successful outcomes.',
+        'Jack Canfield',
     ],
-    [
-        'When I speak in English, my expressions become different. My attitude, too. I\'m not sure why, but there really is a difference. My hands move differently when I speak English.',
-        'Gong Li',
+    'b7c98d88-d857-5cfe-a877-9033dceeda72' => [
+        'Beauty in art is often nothing but ugliness subdued.',
+        'Jean Rostand',
     ],
-    [
-        'Success comes in waves.',
-        'Guy Pearce',
+    '218d87e6-0980-53e5-86f2-975691f8ff0d' => [
+        'It is wonderful how much time good people spend fighting the devil. If they would only expend the same amount of energy loving their fellow men, the devil would die in his own tracks of ennui.',
+        'Helen Keller',
     ],
-    [
-        'The coolest part about seeing a girl wear something comfortable is the smile that you can just feel coming through from inside her.',
-        'Kellan Lutz',
+    '551ae924-4498-557a-863f-2629b10af2b1' => [
+        'Success in the revolution and construction depends on how a party, the General Staff of the revolution, is built and on how its leadership role is enhanced.',
+        'Kim Jong-un',
     ],
-    [
-        'What a stupid attitude we have in this country to personal stories.',
-        'Amanda Burton',
+    '825ff020-8b72-571b-a9fc-89ad5422d632' => [
+        'The reason why you know more funny dudes than funny chicks is that dudes are funnier than chicks. If my daughter has a mediocre sense of humor, I\'m just gonna tell her, \'Be a staff writer for a sitcom. Because they\'ll have to hire you, they can\'t really fire you, and you don\'t have to produce that much. It\'ll be awesome.\'',
+        'Adam Carolla',
     ],
-    [
-        'This is the artist, then, life\'s hungry man, the glutton of eternity, beauty\'s miser, glory\'s slave.',
-        'Tom Wolfe',
+    '5adddc4a-acb2-5187-8c24-fdde35834f01' => [
+        'Believe you can and you\'re half way there.',
+        'Theodore Roosevelt',
     ],
-    [
-        'There is a time in the last few days of summer when the ripeness of autumn fills the air.',
-        'Rudolfo Anaya',
+    'e3646e44-c771-5cd7-a4fc-66e4f99d49e4' => [
+        'Be like a postage stamp. Stick to it until you get there',
+        'Bob Proctor',
     ],
-    [
-        'Google is my best friend and my worst enemy. It\'s fabulous for research, but then it becomes addictive. I\'ll have a character eating an orange, and next thing I\'m Googling types of oranges, I\'m visiting chat rooms about oranges, I\'m learning the history of the orange.',
-        'Liane Moriarty',
+    '75193047-64ae-5d5b-b0d2-976209e2c3ec' => [
+        'A home with a loving and loyal husband and wife is the supreme setting in which children can be reared in love and righteousness and in which the spiritual and physical needs of children can be met.',
+        'David A. Bednar',
     ],
-    [
-        'Badminton is not only about winning. What is important to me is about playing hard, doing my best and putting up a good show for the spectators.',
-        'Lin Dan',
+    '14713cc2-b5d5-5161-93fc-27c3970558c3' => [
+        'If you look at the common denominator of all the comics who have had big success, it\'s being true to their nature... that\'s what takes a long time to learn.',
+        'Ron White',
     ],
-    [
-        'But I am convinced that those Jews who stand aside today with a malicious smile and with their hands in their trousers\' pockets will also want to dwell in our beautiful home.',
-        'Theodor Herzl',
+    '92d089ce-d0f3-52c5-9bee-78f8e36683da' => [
+        'Talk doesn\'t cook rice.',
+        'Chinese proverb',
     ],
-    [
-        'Being alone on the moors is scary; as the rain clouds settle in, it makes you realise your place in nature.',
-        'Dave Davies',
+    'df9837c9-975c-50f3-bccc-4438ab492434' => [
+        'Negligence is the rust of the soul, that corrodes through all her best resolves.',
+        'Owen Feltham',
     ],
 ];

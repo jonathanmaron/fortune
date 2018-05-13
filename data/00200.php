@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I surf more now for other people than myself. I feel a lot of support from people wanting me to do well, and I feed off that. I can send a positive message to people from what I do.',
-        'Kelly Slater',
+    '4d7f213c-25b9-5c1b-926f-4c6f5dad7feb' => [
+        'With the dramatic increase in ease of transportation and the incredible decrease in the amount of time required to travel between far-flung areas of the United States, representatives began spending more and more time in Washington and less and less time in their home districts.',
+        'Ben Shapiro',
     ],
-    [
-        'Cinderella is not only an iconic character when it comes to beauty, grace and fairytale love, but also shoes.',
-        'Christian Louboutin',
+    'cd6d0250-ff62-5844-b678-2981e8534223' => [
+        'Life imitates art far more than art imitates Life.',
+        'Ayn Rand',
     ],
-    [
-        'There is no traffic jam along the extra mile.',
-        'Roger Staubach',
+    'ebb1e0a1-3b1e-565a-a817-d7a685d86410' => [
+        'Goodness is beauty in the best estate.',
+        'Christopher Marlowe',
     ],
-    [
-        'The secret of success is to be ready when your opportunity comes.',
-        'Benjamin Disraeli',
+    '0a0e1ddd-d6be-5a12-b2b6-c5a1ae9a1a18' => [
+        'The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.',
+        'Thomas A. Edison',
     ],
-    [
-        'Kind words can be short and easy to speak, but their echoes are truly endless.',
-        'Mother Teresa',
+    '2a358246-f0e8-51eb-bd2d-b7d83e05fe09' => [
+        'I learned a long time ago that reality was much weirder than anyone\'s imagination.',
+        'Hunter S. Thompson',
     ],
-    [
-        'Why is it so painful to watch a person sink? Because there is something unnatural in it, for nature demands personal progress, evolution, and every backward step means wasted energy.',
-        'August Strindberg',
+    'c72908dd-202d-5e95-a34e-20dd08bd867d' => [
+        'One of the things I like best about \'Biggest Loser\' is being around people who are trying to make the right choices. When you feel defeated about your weight and your health, like there\'s no hope, and you still make the choice to fight for it, to make the change happen no matter what people say or think, that\'s inspiring to me.',
+        'Alison Sweeney',
     ],
-    [
-        'There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.',
-        'Dalai Lama',
+    '77c0b790-c744-5b24-8307-dc47c192143e' => [
+        'I was determined to share my positive approach and not let diabetes stand in the way of enjoying my life.',
+        'Paula Deen',
     ],
-    [
-        'Music became a healer for me. And I learned to listen with all my being. I found that it could wipe away all the emotions of fear and confusion relating to my family.',
-        'Eric Clapton',
+    '5951fa56-8fbc-5f6b-bf32-cb0146bc158b' => [
+        'Being a humorist is not a voluntary thing. You can tell this because in a situation where saying a funny thing will cause a lot of trouble, a humorist will still say the funny thing. No matter how inappropriate.',
+        'P. J. O\'Rourke',
     ],
-    [
-        'I think the importance of doing activist work is precisely because it allows you to give back and to consider yourself not as a single individual who may have achieved whatever but to be a part of an ongoing historical movement.',
-        'Angela Davis',
+    '317f61a1-a22d-5874-91af-2c0256a2dd3e' => [
+        'If I win and get the money, then the Oakland Police department is going to buy a boys\' home, me a house, my family a house, and a Stop Police Brutality Center.',
+        'Tupac Shakur',
     ],
-    [
-        'I think the big problem this country has is being politically correct. I\'ve been challenged by so many people, and I don\'t frankly have time for total political correctness. And to be honest with you, this country doesn\'t have time either.',
-        'Donald Trump',
+    'cfe731b4-5403-5b9e-a573-2f2f3bff75d0' => [
+        'Too much agreement kills a chat.',
+        'Eldridge Cleaver',
     ],
-    [
-        'In order that people may be happy in their work, these three things are needed: They must be fit for it. They must not do too much of it. And they must have a sense of success in it.',
-        'John Ruskin',
+    '01b2ecc7-2aa2-5ecd-88db-c9eeab450d79' => [
+        'For every moment of triumph, for every instance of beauty, many souls must be trampled.',
+        'Hunter S. Thompson',
     ],
-    [
-        'When I let go of what I am, I become what I might be.',
-        'Lao Tzu',
+    '210c6ec7-612b-5221-92f9-ffb53ed8a281' => [
+        'I don\'t regret what I\'ve been through. I\'ve had ups and downs, super highs and some really low lows. I\'ve been so blessed that I could never say, \'I wish this didn\'t happen.\' It\'s part of who I am. There\'s nothing in my life that\'s so ugh.',
+        'Lil\' Kim',
     ],
-    [
-        'I was always anti-marriage. I didn\'t understand monogamy. I couldn\'t figure out how that could last. And then I met Bryn and I started to understand the beauty of constancy and history and change and going on the roller coaster with someone - of having a partner in life.',
-        'Maria Bello',
+    '7ccdd8d0-b452-598e-abe4-4e4df49c88dc' => [
+        'The power of imagination makes us infinite.',
+        'John Muir',
     ],
-    [
-        'The pressure on young chefs today is far greater than ever before in terms of social skills, marketing skills, cooking skills, personality and, more importantly, delivering on the plate. So you need to be strong. Physically fit. So my chefs get weighed every time they come into the kitchen.',
-        'Gordon Ramsay',
+    '26e4682e-da8a-50c8-b005-7a3159359cae' => [
+        'I don\'t know if the term \'liberation theology,\' which can be interpreted in a very positive sense, will help us much. What\'s important is the common rationality to which the church offers a fundamental contribution, and which must always help in the education of conscience, both for public and for private life.',
+        'Pope Benedict XVI',
     ],
-    [
-        'Meditation can help us embrace our worries, our fear, our anger; and that is very healing. We let our own natural capacity of healing do the work.',
-        'Thich Nhat Hanh',
+    '2697899f-ff8d-5fa1-b70f-98944d1804d6' => [
+        'You know, when you really connect with the instrument and everything just comes out on an emotional level very naturally through your playing. That\'s, you know, a great night. And I think the reason I love touring so much is you\'re chasing that high around all the time, trying to have another good night.',
+        'Slash',
     ],
-    [
-        'There is a role and function for beauty in our time.',
-        'Tadao Ando',
+    'de234454-56c4-5de0-a9f1-8c9a4ce7db97' => [
+        'What is important is family, friends, giving back to your community and finding meaning in life.',
+        'Adrian Grenier',
     ],
-    [
-        'I had seen the ballet of \'Swan Lake\' as a child but it was as an adult, when I saw a production featuring Erik Bruhn, that I first noticed how significant a part the ever-present threat of violence played. This juxtaposition of great beauty and grace with a backdrop of pure evil stayed with me for years.',
-        'Walter Dean Myers',
+    'bc85828a-6691-59e8-812f-729918950b80' => [
+        'There is something terribly morbid in the modern sympathy with pain. One should sympathise with the colour, the beauty, the joy of life. The less said about life\'s sores the better.',
+        'Oscar Wilde',
     ],
-    [
-        'Opportunities are usually disguised as hard work, so most people don\'t recognize them.',
-        'Ann Landers',
+    'd3adf5cb-8c32-5f59-9254-2771e094d9ce' => [
+        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
+        'Gil Scott-Heron',
     ],
-    [
-        'Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people.',
-        'Fred Rogers',
+    '645fe290-2188-5a26-9b7a-40e0957d4cb1' => [
+        'Every gift from a friend is a wish for your happiness.',
+        'Richard Bach',
     ],
-    [
-        'Physical attributes can make you appealing, but to keep the appeal going, one has to draw from within. You have to be a real person. Your fans and the people you associate with have to be able to see beyond your looks. You have to be a good friend, dutiful son and a good family man.',
-        'Arjun Rampal',
+    '18aa594f-5e10-51d0-a5b8-68ab66d80989' => [
+        'I\'m just an individual who doesn\'t feel that I need to have somebody qualify my work in any particular way. I\'m working for me.',
+        'David Bowie',
     ],
-    [
-        'Sailing is the closest I can get to nature - it\'s adrenaline, fear, a constant challenge and learning experience, an adventure into the unknown. And of course there is nothing better than wearing the same T-shirt for days and not brushing my hair for weeks.',
-        'Daria Werbowy',
+    '2530c7db-f0a7-56a0-a9d7-d0d57ebca266' => [
+        'Have enough sense to know, ahead of time, when your skills will not extend to wallpapering.',
+        'Marilyn vos Savant',
     ],
-    [
-        'Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.',
-        'Aristotle',
+    '05714a97-1dc7-5407-a650-a9d498e59bb1' => [
+        'Don\'t frown because you never know who is falling in love with your smile.',
+        'Sinvyest Tan',
     ],
-    [
-        'To be happy, it first takes being comfortable being in your own shoes. The rest can work up from there.',
-        'Sophia Bush',
+    'e5b0b816-e792-5cee-8131-94f467ecc59c' => [
+        'Television is a medium of entertainment which permits millions of people to listen to the same joke at the same time, and yet remain lonesome.',
+        'T. S. Eliot',
     ],
-    [
-        'When I write, I\'m still imagining a kid reading it on paper. I read e-books when I travel, but in general I still prefer holding an old-fashioned book in my hands. There\'s a special, tactile experience.',
-        'Rick Riordan',
+    'fe83cfce-f9d8-5d3f-b664-3bb0f9fb41c3' => [
+        'Growth is the only evidence of life.',
+        'Lillian Gish',
     ],
-    [
-        'An artist must possess Nature. He must identify himself with her rhythm, by efforts that will prepare the mastery which will later enable him to express himself in his own language.',
-        'Henri Matisse',
+    'df68a516-c864-5857-bd8c-86d2927333ee' => [
+        'I do think that travel can be part of a journey of inner maturation, but you\'ve got to do it right.',
+        'Alain de Botton',
     ],
 ];

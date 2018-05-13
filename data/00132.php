@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The time you think you\'re missing, misses you too.',
-        'Ymber Delecto',
+    '4c3050d0-99fc-5eca-9228-97613b744db6' => [
+        'I recognize in thieves, traitors and murderers, in the ruthless and the cunning, a deep beauty - a sunken beauty.',
+        'Jean Genet',
     ],
-    [
-        'Competence, like truth, beauty, and contact lenses, is in the eye of the beholder.',
-        'Laurence J. Peter',
+    '227b9fd5-02b8-5075-8296-3d617e376508' => [
+        'Inspirational leaders need to have a winning mentality in order to inspire respect. It is hard to trust in the leadership of someone who is half-hearted about their purpose, or only sporadic in focus or enthusiasm.',
+        'Sebastian Coe',
     ],
-    [
-        'When I first left university, I thought about going into the private sector. But I discovered when I went to interview that I could only have a career in the back office, or doing HR. The attitude was, \'My dear lady, you cannot possibly think about going on the board.\'',
-        'Pauline Neville-Jones',
+    '4756de37-3e45-5166-a645-169eb7acd35e' => [
+        'America is the one rich country with the biggest slums, the least democratic and least developed health system, and the most niggardly attitude against its old people.',
+        'Gunnar Myrdal',
     ],
-    [
-        'Nature is not human hearted.',
-        'Lao Tzu',
+    'aa99cbcd-da79-559a-92e5-8f31734dbe44' => [
+        'Success is the sum of details.',
+        'Harvey S. Firestone',
     ],
-    [
-        'If you create incredible value and information for others that can change their lives - and you always stay focused on that service - the financial success will follow.',
-        'Brendon Burchard',
+    'd8faceef-eeea-5c3c-bc90-0ae6f4682a88' => [
+        'Wisdom begins in wonder.',
+        'Socrates',
     ],
-    [
-        'Treat failure as a lesson on how not to approach achieving a goal, and then use that learning to improve your chances of success when you try again. Failure is only the end if you decide to stop.',
-        'Richard Branson',
+    '78f1f691-689f-5c0d-82a2-4724dca963d6' => [
+        'To dream of the person you would like to be is to waste the person you are.',
+        'Tim Menchen',
     ],
-    [
-        'The secret to success is to know something nobody else knows.',
-        'Aristotle Onassis',
+    'c04ca5ea-f5b8-5232-897a-7e240ce79a47' => [
+        'The three ordinary things that we often don\'t pay enough attention to, but which I believe are the drivers of all success, are hard work, perseverance, and basic honesty.',
+        'Azim Premji',
     ],
-    [
-        'My pals, such as they are, in Hollywood, ask me why I love to travel to D.C. so much, why it\'s a vacation destination for me. I say, \'Because I sometimes have perfect days there.\'',
-        'Ben Stein',
+    '6f0c5efc-087f-5491-8a67-1b2403966184' => [
+        'My childhood dream was to study mechanical engineering. After reading \'The Mysterious Island\' - which I read 25 times as a boy - I thought that was the best thing a person could do. The engineer in the book knows mechanics and physics, and he creates a whole way of life on the island out of nothing. I wanted to be like that.',
+        'Dan Shechtman',
     ],
-    [
-        'It\'s funny how seeing a love story never gets boring, because it\'s the dream, isn\'t it? It\'s the dream to have a true connection with another human being.',
-        'Felicity Jones',
+    '50473095-8043-52e6-8e82-481dc417810f' => [
+        'There\'s a certain elitism that has crept into the attitudes of some in journalism, and it played out perfectly over the issue of these little American flag lapel pins.',
+        'Brit Hume',
     ],
-    [
-        'Praise or blame has but a momentary effect on the man whose love of beauty in the abstract makes him a severe critic on his own works.',
-        'John Keats',
+    'a801c352-06a8-5b94-a10c-824501b61a6c' => [
+        'Time flies really quickly. It feels like only a few months ago that I was traded over here and started my career as a Cub in 2013.',
+        'Jake Arrieta',
     ],
-    [
-        'I\'m not the athlete I was when I was training for the Olympics in \'92 or when I was working out every single day. I have to live in moderation: I work out three or four days a week, and I smile while I\'m working out - I really do enjoy it. I work out with my girlfriends and make it a social competition.',
-        'Summer Sanders',
+    '9f999169-991e-5bef-844c-6d65f75b4993' => [
+        'Thinking is one thing no one has ever been able to tax.',
+        'Charles Kettering',
     ],
-    [
-        'That\'s one of the nice things. I mean, part of the beauty of me is that I\'m very rich. So if I need $600 million, I can put $600 million myself. That\'s a huge advantage. I must tell you, that\'s a huge advantage over the other candidates.',
-        'Donald Trump',
+    '64c03049-6902-5910-b629-99614df832b5' => [
+        'Latinos, Asians, African-Americans, women - we\'re all trying to find our place in this world of cinema and television and theater. And the great thing with comedy is that most of the time, you could be orange. It doesn\'t matter, as long you\'re funny.',
+        'Sandra Bullock',
     ],
-    [
-        'I had many teachers that were great, positive role models and taught me to be a good person and stand up and be a good man. A lot of the principals they taught me still affect how I act sometimes and it\'s 30 years later.',
-        'Kevin James',
+    '8fd43174-848d-5c04-960f-ab69f9bc7486' => [
+        'Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.',
+        'Richard Bach',
     ],
-    [
-        'To give pain is the tyranny; to make happy, the true empire of beauty.',
-        'Samuel Butler',
+    '7c5a4169-9530-59fe-8ac3-0230e2139123' => [
+        'Child labor and poverty are inevitably bound together and if you continue to use the labor of children as the treatment for the social disease of poverty, you will have both poverty and child labor to the end of time.',
+        'Grace Abbott',
     ],
-    [
-        'I love natural beauty, and I think it\'s your best look, but I think makeup as an artist is so transformative.',
-        'Marina and the Diamonds',
+    '864ff917-f630-5601-ba02-10be32eaa1aa' => [
+        'Preparation is a mentality... With wrestling being my background, I\'ve always learned to overwork, overwork. Work, work, work, work. It\'s not always the talented that wins, but it\'s the one who puts in the most preparation and thought into things.',
+        'Dominick Cruz',
     ],
-    [
-        'What is it to enjoy life? Sit at the beach? No. What it is is that you have to do something, you have be productive, make a contribution to the society, to the family, to yourself.',
-        'Frank Lowy',
+    '4e492dee-4474-50c8-967d-bac852a4bccc' => [
+        'All the art of living lies in a fine mingling of letting go and holding on.',
+        'Juan Pablo Galavis',
     ],
-    [
-        'Every artist was first an amateur.',
-        'Ralph Waldo Emerson',
+    '9f8145b5-aac0-5cce-9dd5-534c3f61b0f6' => [
+        'Beauty is less important than quality.',
+        'Eugene Ormandy',
     ],
-    [
-        'But every great scripture, whether Hebrew, Indian, Persian, or Chinese, apart from its religious value will be found to have some rare and special beauty of its own; and in this respect the original Bible stands very high as a monument of sublime poetry and of artistic prose.',
-        'Lafcadio Hearn',
+    'f89035fc-e3b4-5a32-8913-7c94e733f803' => [
+        'To those who have always wondered how they might best serve the wider world, wildlife conservation is, at its core, one of the purest forms of giving.',
+        'Thomas Kaplan',
     ],
-    [
-        'Nature is full of genius, full of the divinity; so that not a snowflake escapes its fashioning hand.',
-        'Henry David Thoreau',
+    '71c66695-3a5f-56d9-98a1-72638ec57669' => [
+        'Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.',
+        'Stephen Hawking',
     ],
-    [
-        'Anything created by human beings is already in the great book of nature.',
-        'Antoni Gaudi',
+    '35ceb591-9126-5bf7-80c1-fdace8527be4' => [
+        'I was born to travel and write verse.',
+        'Theophile Gautier',
     ],
-    [
-        'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
-        'Aldous Huxley',
+    '5cc3bf87-edd5-53f0-9e06-da317b493848' => [
+        'I have the simplest tastes. I am always satisfied with the best.',
+        'Oscar Wilde',
     ],
-    [
-        'This is the key to time management - to see the value of every moment.',
-        'Menachem Mendel Schneerson',
+    '6b857079-24cc-5413-b5c2-817f965dde8b' => [
+        'I come from a great family. I\'ve seen family life and I know how wonderful, how nurturing, and how wonderful it can be.',
+        'Sidney Poitier',
     ],
-    [
-        'You are capable of more than you know. Choose a goal that seems right for you and strive to be the best, however hard the path. Aim high. Behave honorably. Prepare to be alone at times, and to endure failure. Persist! The world needs all you can give.',
-        'E. O. Wilson',
+    '9b1d3a17-9ddf-50fe-896f-e938f93adb85' => [
+        'Silence is as deep as eternity, speech a shallow as time.',
+        'Thomas Carlyle',
     ],
-    [
-        'Life must be lived as play.',
-        'Will Rogers',
+    '5357561e-620b-5e69-b0a2-a92538fec172' => [
+        'You don\'t fight racism with racism, the best way to fight racism is with solidarity.',
+        'Bobby Seale',
     ],
-    [
-        'I want my children to have all the things I couldn\'t afford. Then I want to move in with them.',
-        'Phyllis Diller',
+    'cc8a716e-0d76-56ef-8e53-22240e05253f' => [
+        'The biggest job we have is to teach a newly hired employee how to fail intelligently. We have to train him to experiment over and over and to keep on trying and failing until he learns what will work.',
+        'Charles Kettering',
     ],
 ];

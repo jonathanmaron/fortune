@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'One cannot violate the promptings of one\'s nature without having that nature recoil upon itself.',
-        'Jack London',
+    'abc76524-dee5-5c60-918b-c285ec13a81f' => [
+        'Do not give your attention to what others do or fail to do; give it to what you do or fail to do.',
+        'Dhammapada',
     ],
-    [
-        'My greatest beauty secret is being happy with myself. I don\'t use special creams or treatments - I\'ll use a little bit of everything. It\'s a mistake to think you are what you put on yourself. I believe that a lot of how you look is to do with how you feel about yourself and your life. Happiness is the greatest beauty secret.',
-        'William James',
+    'dd9694af-7493-5715-8d23-c1bc36f5b63f' => [
+        'Punctuality is the virtue of the bored.',
+        'Evelyn Waugh',
     ],
-    [
-        'Working with Chiranjeevi sir, I realized the professionalism and attitude they used work with. It\'s just so contagious. When such a personality is doing that, everyone around, too, would do that out of respect. Work was far more efficient, smoother.',
-        'Kajal Aggarwal',
+    '364428aa-3f45-55d0-8305-536c4281dac4' => [
+        'I\'m definitely attracted to other Australians; I have a laid-back attitude to life that I feel is very Australian; I love a good barbie.',
+        'Isla Fisher',
     ],
-    [
-        'To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.',
-        'Plato',
+    'c4527c7f-3b90-5545-aba2-ac21e71ae6aa' => [
+        'I like being upbeat, positive, happy, enjoying family.',
+        'Jamie-Lynn Sigler',
     ],
-    [
-        'After a point of time, when you get success and fame, money and everything, the purpose of life has to be redefined. For me, I think that purpose is to build bridges. Artists can do that very easily, more than politicians.',
-        'A. R. Rahman',
+    '9918da5e-7e81-5fdd-84b5-9c556362393f' => [
+        'You can observe a lot just by watching.',
+        'Yogi Berra',
     ],
-    [
-        'The best way to hold a man is in your arms.',
-        'Mae West',
+    '3b1a5229-fe1c-5ecb-a7da-d70fb5a93fb8' => [
+        'What a costume designer does is a cross between magic and camouflage. We create the illusion of changing the actors into what they are not. We ask the public to believe that every time they see a performer on the screen, he\'s become a different person.',
+        'Edith Head',
     ],
-    [
-        'There\'s not an instruction manual on how to deal with success, so you just have to rely on having great friends and a good team.',
-        'Bryan Adams',
+    '6e694f99-f3a0-56c4-adff-4ff94f9e985f' => [
+        'I never understand when people say, \'Do you do comedy or tragedy?\' I don\'t think they\'re very much different. They both have to be true, and there isn\'t a great play in the world that doesn\'t have funny parts to it - as \'Salesman\' does, as \'King Lear\' does. The whole idea is to reflect life in some way, which means surely you have to have both.',
+        'Mike Nichols',
     ],
-    [
-        'People tell you the world looks a certain way. Parents tell you how to think. Schools tell you how to think. TV. Religion. And then at a certain point, if you\'re lucky, you realize you can make up your own mind. Nobody sets the rules but you. You can design your own life.',
-        'Carrie-Anne Moss',
-    ],
-    [
-        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
-        'Aldo Leopold',
-    ],
-    [
-        'Never wear your best trousers when you go out to fight for freedom and truth.',
-        'Henrik Ibsen',
-    ],
-    [
-        'Youth is the best time to be rich, and the best time to be poor.',
-        'Euripides',
-    ],
-    [
-        'Viewed freely, the English language is the accretion and growth of every dialect, race, and range of time, and is both the free and compacted composition of all.',
-        'Walt Whitman',
-    ],
-    [
-        'Employees are your most valuable assets. They are the heart and guts of a company. This doesn\'t mean that from time to time, you aren\'t going to do what is good for the company.',
-        'Carlos Ghosn',
-    ],
-    [
-        'Every now and then, someone will tell me that one of my books has made them laugh out loud. I never believe them because: a.) my books don\'t make me laugh out loud; and b.) sometimes I have said this to a writer, when really what I meant was, \'Your book made me smile appreciatively.\'',
-        'Mary Roach',
-    ],
-    [
-        'The Senator from Massachusetts has given us ample grounds to doubt the judgment and the attitude he brings to bear on vital issues of national security.',
-        'Dick Cheney',
-    ],
-    [
-        'What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.',
-        'Don Zimmer',
-    ],
-    [
-        'The architect should strive continually to simplify; the ensemble of the rooms should then be carefully considered that comfort and utility may go hand in hand with beauty.',
+    '48c9f870-ca79-55be-ab04-506b58fa6972' => [
+        'Simplicity and repose are the qualities that measure the true value of any work of art.',
         'Frank Lloyd Wright',
     ],
-    [
-        'I\'ve got a woman\'s ability to stick to a job and get on with it when everyone else walks off and leaves it.',
-        'Margaret Thatcher',
+    '5fa39fd3-543c-57f9-9bef-026ba99f37ac' => [
+        'Land is the secure ground of home, the sea is like life, the outside, the unknown.',
+        'Montel Williams',
     ],
-    [
-        'Perhaps the mission of an artist is to interpret beauty to people - the beauty within themselves.',
-        'Langston Hughes',
+    '5ad7cf16-f810-57c3-a1b9-a2bc8cded2d9' => [
+        'I cannot sing, dance or act; what else would I be but a talk show host.',
+        'David Letterman',
     ],
-    [
-        'This hook nose and crab meister attitude has gotten me every job I\'ve ever had. And more divorces than I care to remember.',
-        'Norman Fell',
+    '25bceaf8-454e-5a1d-9ffa-7d5e2e29682b' => [
+        'Physical beauty isn\'t so impressive to me.',
+        'Dita Von Teese',
     ],
-    [
-        'I don\'t care what the haters and naysayers say. If they make jokes about me, I\'ll laugh because they\'ll probably be funny.',
-        'Paula Deen',
+    'fbdc98d7-245f-51a4-b23b-04b79beee50a' => [
+        'Challenges are gifts that force us to search for a new center of gravity. Don\'t fight them. Just find a new way to stand.',
+        'Oprah Winfrey',
     ],
-    [
-        'As the twig is bent the tree inclines.',
-        'Virgil',
+    'f49f0be1-0630-5df9-a6bf-82a700ced423' => [
+        'By the time we\'ve made it, we\'ve had it.',
+        'Malcolm Forbes',
     ],
-    [
-        'I have found adventure in flying, in world travel, in business, and even close at hand... Adventure is a state of mind - and spirit.',
-        'Jacqueline Cochran',
+    '8cb929b7-d569-5f84-85ba-d552c27f519f' => [
+        'Genius always gives its best at first; prudence, at last.',
+        'Lucius Annaeus Seneca',
     ],
-    [
-        'In general, when you travel, you get into a different reality and are able to more accurately reflect on your ordinary life. Hiking does that for me.',
-        'John Mackey',
+    '4d748387-6a77-57b9-8396-056c34f5da05' => [
+        'How long was I in the army? Five foot eleven.',
+        'Spike Milligan',
     ],
-    [
-        'You must stand for something! It does not have to be grand, but it must be a positive that brings light to someone else\'s darkness.',
-        'Anthony Carmona',
+    '1f07ceed-1c59-59bc-9edc-862f7bc713af' => [
+        'Rome has not seen a modern building in more than half a century. It is a city frozen in time.',
+        'Richard Meier',
+    ],
+    'ff79d194-8cc5-59c5-b41e-96ab1f80a572' => [
+        'It isn\'t what happens to us that causes us to suffer; it\'s what we say to ourselves about what happens.',
+        'Pema Chodron',
+    ],
+    '2589b152-4efd-5686-8d72-0133929c25b0' => [
+        'I\'m hungry for knowledge. The whole thing is to learn every day, to get brighter and brighter. That\'s what this world is about. You look at someone like Gandhi, and he glowed. Martin Luther King glowed. Muhammad Ali glows. I think that\'s from being bright all the time, and trying to be brighter.',
+        'Jay-Z',
+    ],
+    '9d43faa6-f398-5a9d-8739-f466dec0da9e' => [
+        'Definiteness of purpose is the starting point of all achievement.',
+        'W. Clement Stone',
+    ],
+    'b6dc6cb1-dd5d-5145-b385-c983272e3ed4' => [
+        'Real success is not on the stage, but off the stage as a human being, and how you get along with your fellow man.',
+        'Sammy Davis, Jr.',
+    ],
+    '74998ecf-a7e8-5662-b266-459ede0761b3' => [
+        'The success of the young entrepreneur will be the key to India\'s transformation in the new millennium.',
+        'Dhirubhai Ambani',
+    ],
+    'cf767cec-7d5f-5424-ade3-c232c1a21c98' => [
+        'It is good to dream big but your dreams will never see the light of day if you sleep big too.',
+        'Anonymous',
+    ],
+    '1a85ec71-9124-5583-868d-ed8164b31f2b' => [
+        'I have always been a flirt. My mother says whe I was a child, I used to stand outside the house and just smile at everyone who walked by. Like, \'Please take me with you!\'',
+        'bell hooks',
+    ],
+    '38b66e3d-1007-5ff9-9a41-b713a902d39a' => [
+        'In order to excel, you must be completely dedicated to your chosen sport. You must also be prepared to work hard and be willing to accept constructive criticism. Without one-hundred percent dedication, you won\'t be able to do this.',
+        'Willie Mays',
+    ],
+    'ad7d6c45-f507-5108-bf2b-0ba95c97d613' => [
+        'If men knew how women pass the time when they are alone, they\'d never marry.',
+        'O. Henry',
     ],
 ];

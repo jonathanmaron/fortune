@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If you are the kind of person who is waiting for the \'right\' thing to happen, you might wait for a long time. It\'s like waiting for all the traffic lights to be green for five miles before starting the trip.',
-        'Robert Kiyosaki',
+    '221ee7a9-09b9-5876-aa9c-1c9182c19e35' => [
+        'Many business leaders are seeing the relationship between long term success and sustainability, and that\'s very heartening.',
+        'Jacqueline Novogratz',
     ],
-    [
-        'The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.',
-        'Charles Atlas',
+    '08a4a67a-2424-5a07-838f-dc4b8ea30598' => [
+        'Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.',
+        'Charles Schwab',
     ],
-    [
-        'Happiness doesn\'t come from being rich, nor merely from being successful in your career, nor by self-indulgence. One step towards happiness is to make yourself healthy and strong while you are a boy so that you can be useful and so you can enjoy life when you are a man.',
-        'Louise Mensch',
+    'a768dea8-1198-5317-b93f-d5526fc2b649' => [
+        'Research indicates that employees have three prime needs: Interesting work, recognition for doing a good job, and being let in on things that are going on in the company.',
+        'Zig Ziglar',
     ],
-    [
-        'The eye sees only what the mind is prepared to comprehend.',
-        'Henri Bergson',
+    'e7fe4f3b-e7f8-5b71-b0c7-9e270aa76ea8' => [
+        'Hurricane season brings a humbling reminder that, despite our technologies, most of nature remains unpredictable.',
+        'Diane Ackerman',
     ],
-    [
-        'Some people know that they are so adorable looking, all they have to do is smile and dress up and they get plenty from that. Then there are some of us who, early on, see that that doesn\'t work. So we joke about it.',
-        'Merrill Markoe',
+    '954d70ef-ef90-5182-b47e-3eef2bfccabc' => [
+        'We have one planet in our solar system that\'s habitable, and that\'s the Earth, and space travel can transform things back here for the better. First of all, by just having people go to space and look back on this fragile planet we live on. People have come back transformed and have done fantastic things.',
+        'Richard Branson',
     ],
-    [
-        'Raising awareness on the most pressing environmental issues of our time is more important than ever.',
-        'Leonardo DiCaprio',
+    '37a8c101-f58c-50f0-a609-bc249a41ca80' => [
+        'If the path be beautiful, let us not ask where it leads.',
+        'Anatole France',
     ],
-    [
-        'The best partnerships aren\'t dependent on a mere common goal but on a shared path of equality, desire, and no small amount of passion.',
-        'Sarah MacLean',
+    'e1f2935a-2a51-5570-baf6-745fab71d51e' => [
+        'Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.',
+        'Henry Reed',
     ],
-    [
-        'In the animal kingdom, one of the keys to survival is to outwit your enemies. And when you\'re surrounded by carnivores, one of the best strategies is to fade into the background and disappear.',
-        'Neil deGrasse Tyson',
+    'c058d97f-1c99-5769-ad35-c3525eadef74' => [
+        'Since I travel so much, it\'s always great to be home. There\'s nothing like getting to raid my own refrigerator at two in the morning.',
+        'Amy Grant',
     ],
-    [
-        'The whole secret of life is to be interested in one thing profoundly and in a thousand things well.',
-        'Daniel Libeskind',
+    'df021a1a-b94e-59e0-82c5-fa6d31134d78' => [
+        'Trust is hard to come by. That\'s why my circle is small and tight. I\'m kind of funny about making new friends.',
+        'Eminem',
     ],
-    [
-        'Your outlook on life is a direct reflection on how much you like yourself.',
-        'Lululemon',
+    '4cd626a4-b0e3-5ae1-966c-a5bb4e25727c' => [
+        'My deepest impulses are optimistic, an attitude that seems to me as spiritually necessary and proper as it is intellectually suspect.',
+        'Ellen Willis',
     ],
-    [
-        'When you do something best in life, you don\'t really want to give that up - and for me it\'s tennis.',
-        'Roger Federer',
+    'e8978021-c190-5acb-8590-55c54fe8f0a9' => [
+        'Negative emotions like loneliness, envy, and guilt have an important role to play in a happy life; they\'re big, flashing signs that something needs to change.',
+        'Leo Buscaglia',
     ],
-    [
-        'Our family life was certainly not intellectual.',
-        'Douglass North',
+    '3e5c8901-4597-5b52-8f47-b0af2c97ae64' => [
+        'The best way to find yourself is to lose yourself in the service of others.',
+        'Mahatma Gandhi',
     ],
-    [
-        'The only Zen you find on the tops of mountains is the Zen you bring up there.',
-        'Robert Pirsig',
+    'ee712fe7-0c6b-58f6-8468-0502d469faeb' => [
+        'We make our own fortunes and we call them fate.',
+        'Benjamin Disraeli',
     ],
-    [
-        'Success cannot come from standstill men. Methods change and men must change with them.',
-        'James Cash Penney',
+    'd5bb6a83-a1e2-584f-b05d-165ec8200689' => [
+        'Life is either a daring adventure or nothing.',
+        'Helen Keller',
     ],
-    [
-        'Only fools are positive.',
-        'Moe Howard',
+    'e4b87814-4f56-59cd-9d51-3b80b4d42281' => [
+        'When I first decided I was going to have a go at writing a book - and really, it was a mid-life crisis - I was 39. I was in business with my husband; we had a very busy lifestyle and quite a hectic schedule running this flourishing business in travel, and I found myself waking up and realising that I didn\'t want to do this anymore.',
+        'Fiona McIntosh',
     ],
-    [
-        'If you\'re changing the world, you\'re working on important things. You\'re excited to get up in the morning.',
-        'Larry Page',
+    '97402622-a028-53e2-a510-aced3965a161' => [
+        'I have no time for those who say there is no way Scotland could go it alone. I know first-hand the contribution Scotland and Scots make to Britain\'s success - so for me there\'s no question about whether Scotland could be an independent nation.',
+        'David Cameron',
     ],
-    [
-        'Within the hearts men, loyalty and consideration are esteemed greater than success.',
-        'Bryant H. McGill',
+    '56132d77-d16c-5dfd-99e0-e7623f42c6a4' => [
+        'On \'America\'s Top Model,\' I\'ve always told my girls to smile with their eyes. We call it \'smizing.\' Over the years, it\'s actually become part of pop culture. I would be walking down the street, and girls would say, \'Smize!\'',
+        'Tyra Banks',
     ],
-    [
-        'At Netflix, we think you have to build a sense of responsibility where people care about the enterprise. Hard work, like long hours at the office, doesn\'t matter as much to us. We care about great work.',
-        'Reed Hastings',
+    '29ae98ff-cff5-55cd-bcc4-2be6d37c9b72' => [
+        'So it allows me to travel, I\'ll be doing that and running these great rivers and doing what I\'ve done in the past without much purpose other than for the experience.',
+        'Richard Dean Anderson',
     ],
-    [
-        'Suffering is permanent, obscure and dark, And shares the nature of infinity.',
-        'William Wordsworth',
+    'd7abb974-8547-565b-bc35-c585b78e9cb0' => [
+        'I\'ve been lucky enough that I can gather all sorts of experiences and find inspiration by traveling around and by spending time with people I admire.',
+        'Bonnie Raitt',
     ],
-    [
-        'My success comes in making fun of whatever you\'re doing. That\'s my way.',
-        'Kevin Hart',
+    'cdf49e21-e11e-538b-b037-b61ae81fa6d3' => [
+        'Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.',
+        'H. P. Lovecraft',
     ],
-    [
-        'In a spiritual sense, a positive attitude may help you get through chemotherapy and surgery and radiation and what have you. But a positive mental attitude does not cure cancer - any more than a negative mental attitude causes cancer.',
-        'Siddhartha Mukherjee',
+    '752387ee-9848-54c9-97d3-9241a9bc6f35' => [
+        'You change your life by changing your heart.',
+        'Max Lucado',
     ],
-    [
-        'I think that from the time you start playing sports as a child you see that your responsibility to your team is to play the best that you can play as an individual... and yet, not take anything away from being part of a team.',
-        'Wayne Gretzky',
+    'd4559078-83ed-53ec-a331-bfe15b0d3108' => [
+        'I did not have three thousand pairs of shoes, I had one thousand and sixty.',
+        'Imelda Marcos',
     ],
-    [
-        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
-        'Gil Scott-Heron',
+    '4ae72204-10f4-5712-8b13-44481ec3bb03' => [
+        'Success? You can\'t get a big head about it. When people stare at me, they could be whispering to their friend, \'That guy sucks! Have you seen him before? He\'s horrible.\'',
+        'David Spade',
     ],
-    [
-        'I am positive - determined to move forward with my life, bring up my babies, and do the best job I can as a mother, entertainer, and person.',
-        'Jennifer Lopez',
+    'aff6b56d-0c42-5e37-bf7b-13c78bdf1ca8' => [
+        'To all the girls out there who think being funny is not sexy, you are wrong!',
+        'Chad Michael Murray',
     ],
-    [
-        'Failure is a bruise, not a tattoo.',
-        'Jon Sinclair',
+    'cb00de25-cd2b-5685-822e-2696eee378f7' => [
+        'Do I believe in coupling? Do I believe in commitment? Do I believe in co-parenting, raising children together, having a family, and growing old with someone? I absolutely believe in all of those things. I just don\'t believe that you need to be married to do that. I love going to weddings, though. I do love a good wedding.',
+        'Laura Wasser',
     ],
 ];

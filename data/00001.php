@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'A kiss is a lovely trick designed by nature to stop speech when words become superfluous.',
-        'Ingrid Bergman',
+    'd2b67de5-e287-5e60-ad63-c3d9c06d2c79' => [
+        'The best way to perpetuate poverty is by spending on arms and military, and the best way to fight terrorism is by fighting the basic needs of humanity, because hunger and poverty perpetuate crime.',
+        "\u{d3}scar Arias",
     ],
-    [
-        'I just try to be the best I can, but I\'m human.',
-        'Selena Gomez',
+    '327b5b47-c3a3-5b9a-a174-e81837994fbc' => [
+        'Having a positive mental attitude is asking how something can be done rather than saying it can\'t be done.',
+        'Bo Bennett',
     ],
-    [
-        'For me, the beauty of a person is a matter of the whole package. You have to look at the whole thing, not just a matter of outward appearance or whatever. It has to do with one\'s character, personality, upbringing and so on.',
-        'Gong Li',
+    '8cd93de3-f3b8-5515-bbfa-0b29612dd9bf' => [
+        'I realize I will always be the poster child for police brutality, but I can try to use that as a positive force for healing and restraint.',
+        'Rodney King',
     ],
-    [
-        'The common idea that success spoils people by making them vain, egotistic and self-complacent is erroneous; on the contrary it makes them, for the most part, humble, tolerant and kind.',
-        'W. Somerset Maugham',
+    'fc910ce5-8dcb-58f2-8b4b-c7c1769a63d6' => [
+        'Love is the only force capable of transforming an enemy into friend.',
+        'Martin Luther King, Jr.',
     ],
-    [
-        'As straight Americans we have two choices: we can choose to sit back and enjoy our rights as we have them, or we can realize that it is actually not freedom at all when our friends, family, neighbors, and colleagues do not share these basic rights.',
-        'Jack Antonoff',
+    '20837dc2-570c-5b3e-9160-0faf4e1f8c67' => [
+        'Thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement.',
+        'Claude M. Bristol',
     ],
-    [
-        'All, all is theft, all is unceasing and rigorous competition in nature; the desire to make off with the substance of others is the foremost - the most legitimate - passion nature has bred into us and, without doubt, the most agreeable one.',
-        'Marquis de Sade',
+    '2566480b-6b80-57e5-8b08-9afcf8f43f20' => [
+        'Leap, and the net will appear.',
+        'John Burroughs',
     ],
-    [
-        'I feel like a tiger right now. There\'s nothing impossible if you get up and work for it.',
-        'Michael Flatley',
+    '3e4fa65f-5078-5fcf-9152-4ebc204ac3f4' => [
+        'I would love to be a guest on a talk show or a panel that shows women who have been on reality shows who\'ve had success, to prove to audiences that you don\'t have to be a fool to become successful.',
+        'NeNe Leakes',
     ],
-    [
-        'Just as the left has to be more willing to question \'Government knows best,\' the right has to rethink its laissez-faire attitude toward government.',
-        'Jack Kemp',
+    '0dbe0528-bd32-56db-98f2-838a2b1867a2' => [
+        'Beauty is the greatest seducer of man.',
+        'Paulo Coelho',
     ],
-    [
-        'I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive.',
-        'Yoko Ono',
+    '8b99fc68-cae3-524b-8df0-7dfa1e9bf2e3' => [
+        'I am very much against makeup and high heels and all that we inherit as \'beauty.\'',
+        'Nawal El Saadawi',
     ],
-    [
-        'Success is a process, a quality of mind and way of being, an outgoing affirmation of life.',
-        'Alex Noble',
+    '9ebd2a48-074f-5dcc-9630-32c0571917dd' => [
+        'It\'s sort of a mental attitude about critical thinking and curiosity. It\'s about mindset of looking at the world in a playful and curious and creative way.',
+        'Adam Savage',
     ],
-    [
-        'To be able to make a good living in a challenging medium like soap operas is great. The best is that I get to act and am rewarded for it. And the people I work with are great. Funny, intelligent, hard working. They\'re all great to be around.',
-        'David Canary',
+    'f566e5e0-c514-5233-aa78-7b0dab593c08' => [
+        'He who has done his best for his own time has lived for all times.',
+        'Friedrich Schiller',
     ],
-    [
-        'If you want to make peace with your enemy, you have to work with your enemy. Then he becomes your partner.',
-        'Nelson Mandela',
+    '9bb0e51a-563c-5545-8461-41ad30ed783e' => [
+        'Experience is simply the name we give our mistakes.',
+        'Oscar Wilde',
     ],
-    [
-        'I think I usually have quite ordinary dreams. Sometimes my dreams take me to other dimensions. I can travel in my mind especially when I\'m dreaming I focus my mind on what I want to dream. If I want to fly, I focus on flying.',
-        'Uri Geller',
+    'a100a601-52e4-5d05-831a-1d5c82f06253' => [
+        'I\'m a strong person, I\'m a strong family man, I\'m a strong husband and a strong father.',
+        'David Beckham',
     ],
-    [
-        'I go back to the old school days of that Attitude Era stuff. Everybody knows when I speak of the Attitude Era, my favorite stuff is of the mid-\'80s, all that NWA stuff, the World Class stuff, the stuff that Bill Watts was doing.',
-        'Stone Cold Steve Austin',
+    '8a8b663c-609c-593c-a307-96f8c215ce7a' => [
+        'I believe the world is one big family, and we need to help each other.',
+        'Jet Li',
     ],
-    [
-        'It always seems impossible until it\'s done.',
-        'Nelson Mandela',
+    'c1eb005f-86eb-56d7-82f3-a3fdca8e97ba' => [
+        'It\'s important to know that words don\'t move mountains. Work, exacting work moves mountains.',
+        'Danilo Dolci',
     ],
-    [
-        'Do not wait for leaders; do it alone, person to person.',
-        'Mother Teresa',
+    '3bce4e60-f9b7-534f-99b5-739b82194572' => [
+        'Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.',
+        'Bill Veeck',
     ],
-    [
-        'Halloween is one of my favorite days of the year. I have a strict rule: I don\'t work on Halloween and I won\'t travel on Halloween. Not for any reason.',
-        'Simon Sinek',
+    '60c5876f-2417-5315-bc4d-81919f618487' => [
+        'Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.',
+        'Harriet Lerner',
     ],
-    [
-        'I was one of those kids, inner-city youth and finding my way. I made it. I made a success out of myself, surprisingly.',
-        'CeeLo Green',
+    'f582c41f-1e54-5dfd-ae7a-525e671e93a2' => [
+        'Sunday, for me, is all about being home with the family with no plans.',
+        'John Lasseter',
     ],
-    [
-        'Slaves are generally expected to sing as well as to work.',
-        'Frederick Douglass',
+    'ae2aea97-794b-5089-8ef8-795d9e4da2bc' => [
+        'I\'m a big believer in persistence, don\'t be greedy and, above all, work hard. It\'s what keeps me going.',
+        'Caprice Bourret',
     ],
-    [
-        'You can only perceive real beauty in a person as they get older.',
-        'Anouk Aimee',
+    '760d2759-c4d1-5759-b1a2-52f6b2269ac6' => [
+        'What after all, is a halo? It\'s only one more thing to keep clean.',
+        'Christopher Fry',
     ],
-    [
-        'Do What You Can With All You Have, Wherever You Are.',
-        'Theodore Roosevelt',
+    '45385ffc-d13c-5254-9a23-f584798ab6eb' => [
+        'Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.',
+        'Milan Kundera',
     ],
-    [
-        'I think that when we have a better educated society, when there is less violence in our cities, when people get back into the workforce and have the opportunity to take care of themselves and their families - that for me really is the kind of success and the kind of America that I think most of us still want, we aspire to.',
-        'Michael Nutter',
+    'acda3d37-a4a4-52b7-9e2c-eadd82c26eba' => [
+        'I just like the continue doing what I\'ve been doing. A melange of funny, straight drama, television, movies, a little theater here and there wouldn\'t hurt. So if I can keep doing that, I\'ll be a very happy person.',
+        'Mary Tyler Moore',
     ],
-    [
-        'One of the most obvious parts of my character is the smile, and if I wasn\'t comfortable in myself then I wouldn\'t be able to smile so much.',
-        'Max Walker',
+    'f299249e-9216-5760-8071-d687827aaf3f' => [
+        'Let Actions Do Your Talkin For You, (Unless Your Telling A Good Dirty Joke)',
+        'Dwayne Johnson | The Rock',
     ],
-    [
-        'The landscape painter must walk in the fields with a humble mind. No arrogant man was ever permitted to see Nature in all her beauty.',
-        'John Constable',
+    '9df10a27-3d4a-50fb-afdf-2536446361e4' => [
+        'The key to life is your attitude. Whether you\'re single or married or have kids or don\'t have kids, it\'s how you look at your life, what you make of it. It\'s about making the best of your life wherever you are in life.',
+        'Candace Bushnell',
     ],
-    [
-        'Success is not the key to happiness. Happiness is the key to success. If you love what you do, you\'ll be successful.',
-        'Tyga',
+    '9a6a90bd-f855-5f05-a7f9-93c755e4bd65' => [
+        'I loved all the princess films, and I grew up with them, and I think it\'s really cool how they\'ve changed over the years - how the princesses have become more positive role models right up until \'Frozen.\'',
+        'Lily James',
     ],
 ];

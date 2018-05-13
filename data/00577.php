@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The tax collector must love poor people, he\'s creating so many of them.',
-        'Bill Vaughan',
+    '558fc175-0277-5d1f-924b-4485e401c60f' => [
+        'I hoped I could make people smile and laugh and have a good time.',
+        'Carson Kressley',
     ],
-    [
-        'I would feel more optimistic about a bright future for man if he spent less time proving that he can outwit Nature and more time tasting her sweetness and respecting her seniority.',
-        'E. B. White',
+    '33210414-5a44-5afe-ae8a-8f0db1f86358' => [
+        'Business gives you a massive high. Doing a great deal, coming up with an inspirational solution... It\'s very addictive. But it doesn\'t last long. In isolation, it\'s a bit sterile. It doesn\'t reward the soul.',
+        'John Caudwell',
     ],
-    [
-        'Don\'t listen to what anybody says except the people who encourage you. If it\'s what you want to do and it\'s within yourself, then keep going and try to do it for the rest of your life.',
-        'Joseph Campbell',
+    '97ff7fae-8ef0-5622-aaa6-9a5f0fac6bc2' => [
+        'What manner of thing this \'public opinion\' is, should be best known to those who have its name forever in their mouths and erect the regard for it into a positive article of religion. Its self-styled organ in our times is the \'Press.\'',
+        'Richard Wagner',
     ],
-    [
-        'It\'s true, Christmas can feel like a lot of work, particularly for mothers. But when you look back on all the Christmases in your life, you\'ll find you\'ve created family traditions and lasting memories. Those memories, good and bad, are really what help to keep a family together over the long haul.',
-        'Caroline Kennedy',
+    '2acb35ee-29c4-5120-b170-83753be82692' => [
+        'A black suit can be classic and timeless and certainly for most occasions. But remember, it\'s not so much the color of suit as it is about the fit, cut, style, and, of course, attitude you have when wearing it.',
+        'John Varvatos',
     ],
-    [
-        'To be a man requires that you accept everything life has to give you, beginning with your name',
-        'Burl Ives',
+    '5e5dc8b1-9db9-52ab-9423-a62accfdbca7' => [
+        'Canada was built around a very simple premise. A promise that you can work hard and succeed and build a future for yourselves and your kids, and that future for your kids would be better than the one you had.',
+        'Justin Trudeau',
     ],
-    [
-        'Today, we have private airline companies, but if you take a look at a Boeing plane next time you travel, you\'ll see that you are basically taking a ride on a modified bomber.',
-        'Noam Chomsky',
+    '2bb5a164-569a-5e3a-9363-74cbfce6ed2d' => [
+        'We have a lot of people that are oppressed. We have a lot of people that aren\'t treated equally, aren\'t given equal opportunities. Police brutality is a huge thing that needs to be addressed. There are a lot of issues that need to be talked about, need to be brought to life, and we need to fix those.',
+        'Suze Orman',
     ],
-    [
-        'Silence is the true friend that never betrays.',
-        'Confucius',
+    'c9553045-5e14-54db-8e28-267cde6581ac' => [
+        'But you see, our society is still trapped in this binary, black/white logic and that has had some very positive implications for our generation. It\'s had some very negative ones as well and one of the negative ones is that it creates enormous identity problems for people who have one black ancestor and all white ancestors for example.',
+        'Henry Louis Gates',
     ],
-    [
-        'Who sows virtue reaps honour.',
-        'Leonardo da Vinci',
+    'f935cd98-d447-5562-8912-53307c2fa8cb' => [
+        'It\'s a slow process, but quitting won\'t speed it up.',
+        'Anonymous',
     ],
-    [
-        'I have to read something positive every single day. I have to have faith that the day is unfolding in a way that is going to be useful to somebody else... For me, living every day in gratitude has been profound for me.',
-        'Lea Thompson',
+    'fa68efc6-d0db-598e-b031-5943e98c2fbf' => [
+        'Mankind\'s true moral test, its fundamental test (which lies deeply buried from view), consists of its attitude towards those who are at its mercy: animals. And in this respect mankind has suffered a fundamental debacle, a debacle so fundamental that all others stem from it.',
+        'Milan Kundera',
     ],
-    [
-        'All the perplexities, confusion and distress in America arise, not from defects in their Constitution or Confederation, not from want of honor or virtue, so much as from the downright ignorance of the nature of coin, credit and circulation.',
-        'John Adams',
+    'bd1dd05f-b92f-57cf-b2ec-de38fbc344ba' => [
+        'Your attitude, not your aptitude, will determine your altitude.',
+        'Zig Ziglar',
     ],
-    [
-        'Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.',
-        'Serena Williams',
+    'f9e1f6dc-160c-5898-bc9d-6b6538cf9aa3' => [
+        'I love festivals because they seem like more of an artsy, supportive attitude - which benefits a more theatrical performer sometimes with having theater and other non-club venues, as well as the audience being filled with other artists. It\'s nice to be with other comics, as usually at other road gigs, I\'m solo for the most part.',
+        'Maria Bamford',
     ],
-    [
-        'Nobody needs a smile so much as the one who has none to give. So get used to smiling heart-warming smiles, and you will spread sunshine in a sometimes dreary world.',
-        'Lawrence G. Lovasik',
+    'e190e552-88d0-5ddb-ae46-5869008bc808' => [
+        'I know people who\'ve had a nose job, and they\'ve walked out feeling a million dollars, and their confidence is tenfold. Good on them! Natural beauty comes in all different shapes and sizes, but if you think surgery would right something you have a problem with, then why shouldn\'t you do it?',
+        'Louise Nurding',
     ],
-    [
-        'So I wanted to sing inspirational music, and that\'s exactly how I approached it - only the words have been changed to declare my relationship with God.',
-        'Smokey Robinson',
+    '97a18515-d8d1-5e9a-9710-ea20929d8e8f' => [
+        'Part of what made the Macintosh great was that the people working on it were musicians, poets, and artists, and zoologists, and historians. They also happened to be the best computer scientists in the world. But if it hadn\'t been computer science, these people would have been doing amazing things in other fields.',
+        'Steve Jobs',
     ],
-    [
-        'Nature is infinitely creative. It is always producing the possibility of new beginnings.',
-        'Marianne Williamson',
+    '2ed7e285-2c81-5d73-96fb-bb6e2fdf164f' => [
+        'Life is about growing and improving and getting better.',
+        'Bruce Lee',
     ],
-    [
-        'The way it works in our family is, it\'s the family business. Much like in the Mafia. Every child is given the opportunity to act at a young age and to learn what it\'s like to be in the business.',
-        'Jordan Bridges',
+    '8023d662-29b8-5980-b8be-c3955e7632d4' => [
+        'You have to listen to the people who have a negative opinion as well as those who have positive opinion. Just to make sure that you are blending all these opinions in your mind before a decision is made.',
+        'Carlos Ghosn',
     ],
-    [
-        'My definition of success is to live your life in a way that causes you to feel a ton of pleasure and very little pain - and because of your lifestyle, have the people around you feel a lot more pleasure than they do pain.',
-        'Tony Robbins',
+    '628f65ec-177e-50b6-8fb0-f512b6ed1c27' => [
+        'To be successful in coaching you have to treat your team like a family. The leader needs backing from everyone.',
+        'Morgan Wootten',
     ],
-    [
-        'Attitude is everything.',
-        'Diane von Furstenberg',
+    'fdd405ce-b11f-5f6a-b1e0-09c94473513e' => [
+        'Each time we face a fear, we gain strength, courage, and confidence in the doing.',
+        'Unknown',
     ],
-    [
-        'You know, I said I have this problem that I need to more carefully read Akron\'s text because it\'s too much, too much fantasy, and so I am busy with other stuff - it\'s funny, it\'s nice to hear that someone is studying that carefully and now I know a little bit more about that.',
-        'H. R. Giger',
+    'ec7769a3-ba29-578d-b93c-2b5ddf00eee2' => [
+        'I had rather have a fool to make me merry than experience to make me sad and to travel for it too!',
+        'William Shakespeare',
     ],
-    [
-        'I had a stick of CareFree gum, but it didn\'t work. I felt pretty good while I was blowing that bubble, but as soon as the gum lost its flavor, I was back to pondering my mortality.',
-        'Mitch Hedberg',
+    '7e9b6891-4a5e-5fae-af97-2a39ed4e3e46' => [
+        'He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.',
+        'Epictetus',
     ],
-    [
-        'Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.',
-        'David Jordan',
+    '23cf3c1e-6fd9-50d3-9fac-40e819645368' => [
+        'The idea is that there is a kind of memory in nature. Each kind of thing has a collective memory. So, take a squirrel living in New York now. That squirrel is being influenced by all past squirrels.',
+        'Rupert Sheldrake',
     ],
-    [
-        'Don\'t write anything you can phone. Don\'t phone anything you can talk. Don\'t talk anything you can whisper. Don\'t whisper anything you can smile. Don\'t smile anything you can nod. Don\'t nod anything you can wink.',
-        'Earl Long',
+    '04113630-7e1e-56f2-890e-9c51f1d9db1a' => [
+        'Beauty doesn\'t need ornaments. Softness can\'t bear the weight of ornaments.',
+        'Munshi Premchand',
     ],
-    [
-        'When I haven\'t been working I\'ve tried to travel a lot.',
-        'Emma Watson',
+    'abfe506b-56c7-5576-8547-3dfd723b19f4' => [
+        'People just hate the idea of losing. Any loss, even a small one, is just so terrible to contemplate that they compensate by buying insurance, including totally absurd policies like air travel.',
+        'Daniel Kahneman',
     ],
-    [
-        'Be first and be lonely.',
-        'Ginni Rometty',
+    '0e98f80e-2d73-5112-b9fb-8a5c83aafe45' => [
+        'The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.',
+        'Marcel Proust',
     ],
-    [
-        'I did not want to be a tree, a flower or a wave. In a dancer\'s body, we as audience must see ourselves, not the imitated behavior of everyday actions, not the phenomenon of nature, not exotic creatures from another planet, but something of the miracle that is a human being.',
-        'Martha Graham',
+    'b5a35c55-99db-52a0-b2fc-81d5e606752f' => [
+        'A dog will teach you unconditional love. If you can have that in your life, things won\'t be too bad.',
+        'Jimmy Dean',
     ],
-    [
-        'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
-        'George Lorimer',
+    '7990b464-5414-56b6-ad4f-e3cdcc9c51e6' => [
+        'Liza, I love you more than any words can say. You have made me a complete person. You are everything to me. And I cannot think of living life without you. And I love you forever.',
+        'Dwight D. Eisenhower',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Let me encourage you to get up every day and focus on what you do have in life. Be thankful for the blessings of the little things, even when you don\'t get what you expect.',
-        'Persius',
+    'f6fa215b-03f1-512d-a654-1477fd685af8' => [
+        'My company is known for being funny as well as moving. You get a bit of everything in these shows. I think people know they\'re going to have a surprising experience.',
+        'Matthew Bourne',
     ],
-    [
-        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it.',
-        'Earl Nightingale',
+    'e73ab169-649c-5039-abaa-399a1113b1b6' => [
+        'It\'s funny. All you have to do is say something nobody understands and they\'ll do practically anything you want them to.',
+        'J. D. Salinger',
     ],
-    [
-        'I was actually born and raised in Puerto Rico. I was born to a single mom. She was a wonderful woman, and she taught me to believe in myself, to work hard, play by the rules. She wanted me to get a good education, and she just told me that the best thing I could do is just study hard.',
-        'Raul Labrador',
+    'f1b406d3-5b0f-5097-bbc2-14ef9b90bc7e' => [
+        'Learning should be engaging. Testing should not be the be all and end all. All students should have a broad curriculum that includes the arts and enrichment. Students should have opportunities to work in teams and engage in project-based learning. And student and family well-being should be front and center.',
+        'Randi Weingarten',
     ],
-    [
-        'All punk is is attitude. That\'s what makes it. The attitude.',
-        'Joey Ramone',
+    '71f0eb4c-2afd-5d31-b2fc-dbb8d5a68820' => [
+        'Every product you have ever loved was a compromise from the ideal vision of its creators to the realities of shipping on time, on budget, and on price point. Anyone who has ever manufactured a physical product that had to be on the shelves for Christmas shopping knows how painful these choices can be.',
+        'Jay Samit',
     ],
-    [
-        'My life is about ups and downs, great joys and great losses.',
-        'Ludwig van Beethoven',
+    '03985720-2532-5c8d-92b2-e4fefe6c228a' => [
+        'Bambi can\'t act. Bambi had major attitude.',
+        'Treat Williams',
     ],
-    [
-        'Reinforced concrete buildings are by nature skeletal buildings. No noodles nor armoured turrets. A construction of girders that carry the weight, and walls that carry no weight. That is to say, buildings consisting of skin and bones.',
-        'Ludwig Mies van der Rohe',
+    'e8520a7f-ba63-5f3b-b644-3fafcbdceae6' => [
+        'Unlike a lot of people, I don\'t feel powerless. I know I can do something. But anyone can do something, it\'s not about being special. It\'s about deciding to do it - to dive into work for peace and justice and care for everybody on the planet.',
+        'Patch Adams',
     ],
-    [
-        'Successful entrepreneurs are givers and not takers of positive energy.',
-        'Unknown',
+    'a18e9865-cc07-57b2-b32c-7cb46021a2f6' => [
+        'You don\'t wanna walk around and say, \'I\'m somebody\'s niece, I\'m somebody\'s cousin, I\'m somebody\'s daughter. Who are you?\' And I think that\'s always the challenge when you grow up in a well-known family, is ultimately, you have to face yourself in the mirror and say, \'Who are you? What have you done?\'',
+        'Maria Shriver',
     ],
-    [
-        'My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed.',
-        'Mark Warner',
+    '4202c4bb-6e8d-524a-87b3-7e05405195c7' => [
+        'I do find things funny. When you see life through the eyes of someone with a good sense of humor, which my grandmother did, life is a human comedy.',
+        'George Takei',
     ],
-    [
-        'I specifically remember doing the musical \'Sweet Charity\' at Stagedoor. I was playing Vittorio Vidal, which is a very funny part, and some other small roles. I couldn\'t really sing that well, but there were so many fun bits, and I just remember the tremendous adrenaline rush I felt from being onstage and hearing the audience enjoying it.',
-        'Sebastian Stan',
+    '3ec1755a-59b6-5625-9933-edbb0214ff44' => [
+        'The issue of equal rights for lesbian, gay, bisexual and transgender individuals has vexed politicians for decades. I have my own cloudy history with the issue, having supported a law in Mississippi that made it illegal for LGBT couples to adopt children. I believed at the time this was a principled position based on my faith.',
+        'Ronnie Musgrove',
     ],
-    [
-        'Why don\'t you get a haircut? You look like a chrysanthemum.',
-        'P. G. Wodehouse',
+    '4c861d29-8d4d-5b58-9410-fadc0b29ac62' => [
+        'Who would have thought that a tap-dancing penguin would outpoint James Bond at the box office? And deserve to? Not that there\'s anything wrong with \'Casino Royale.\' But \'Happy Feet\' - written and directed by George Miller - is a complete charmer, even if, in the way of most family fare, it can\'t resist straying into the Inspirational.',
+        'Robert Gottlieb',
     ],
-    [
-        'When you look at the calculation, it\'s amazing that every time you try to prove or disprove time travel, you\'ve pushed Einstein\'s theory to the very limits where quantum effects must dominate. That\'s telling us that you really need a theory of everything to resolve this question. And the only candidate is string theory.',
-        'Michio Kaku',
+    'b0477557-0b80-5d4d-bca5-c13cca46a779' => [
+        'A mockumentary is supposed to be real, and we were frustrated with mockumentaries on TV, which are so rampant because of the success of \'The Office.\' It\'s not real. You watch and ask why is there even a crew there. They never set it up in the narrative. You have a documentary crew following families for reasons we don\'t understand.',
+        'Benny Fine',
     ],
-    [
-        'Be happy for this moment. This moment is your life.',
-        'Nelson Mandela',
+    '386bc9f4-d676-5467-9b92-bc4aaf38fc2c' => [
+        'Beauty is the only thing that time cannot harm. Philosophies fall away like sand, creeds follow one another, but what is beautiful is a joy for all seasons, a possession for all eternity.',
+        'Oscar Wilde',
     ],
-    [
-        'My mama always said: life\'s like a box of chocolate, you never know what you gonna get.',
-        'Forrest Gump',
+    '0f374d64-87b4-5eed-9278-b8a26848c130' => [
+        'Change your life today. Don\'t gamble on the future, act now, without delay.',
+        'Simone de Beauvoir',
     ],
-    [
-        'After six years without seeing one, I love just seeing a smile - every smile I see gives me hope.',
-        'Ingrid Betancourt',
+    '53696b76-c2a6-576d-a023-d70510cdd491' => [
+        'Don\'t aim for success if you want it; just do what you love and believe in, and it will come naturally.',
+        'David Frost',
     ],
-    [
-        'The measure of a life, after all, is not its duration, but its donation.',
-        'Audrey Hepburn',
+    '25a7d80c-81c9-5416-b5df-8a74dbdeefbc' => [
+        'You walk into the playgrounds in Shanghai and Beijing, and you see youngsters who are shorter, shaking and baking and having attitude. And Jeremy Lin is going to inspire all of them.',
+        'David Stern',
     ],
-    [
-        'I find it an absolute pleasure to read travel guides, especially the Michelin guides, and their description of places I know I\'ll probably never visit. I spend a large part of my life reading descriptions of restaurants.',
-        'Michel Houellebecq',
+    'f9741657-b268-5ab9-9ef5-c7bafbee15b0' => [
+        'I love a man with a great sense of humor and who is intelligent - a man who has a great smile. He has to make me laugh. I like a man who is very ambitious and driven and who has a good heart and makes me feel safe. I like a man who is very strong and independent and confident - that is very sexy - but at the same time, he\'s very kind to people.',
+        'Nicole Scherzinger',
     ],
-    [
-        'Good timber does not grow with ease; the stronger the wind, the stronger the trees.',
-        'J. Willard Marriott',
+    '75f14d09-ac49-5011-971b-ecf09eff8cc5' => [
+        'The best vision is insight.',
+        'Malcolm Forbes',
     ],
-    [
-        'See the positive side, the potential, and make an effort.',
-        'Dalai Lama',
+    '52f4288c-b801-5e39-a62f-7e821d141980' => [
+        'I truly believe that everything that we do and everyone that we meet is put in our path for a purpose. There are no accidents; we\'re all teachers - if we\'re willing to pay attention to the lessons we learn, trust our positive instincts and not be afraid to take risks or wait for some miracle to come knocking at our door.',
+        'Marla Gibbs',
     ],
-    [
-        'I have always been pushed by the negative. The apparent failure of a play sends me back to my typewriter that very night, before the reviews are out. I am more compelled to get back to work than if I had a success.',
-        'Tennessee Williams',
+    '471b569e-e090-5cfd-93d8-d7c093777375' => [
+        'We need to make sure that we have one another\'s back and recognize the fact that patriots come in all different sizes, shapes, colors, not all of them wear uniforms, some of them are employers, some of them are the family members who stay at home and take of business back here in the state of Oklahoma.',
+        'Harry M. Wyatt III',
     ],
-    [
-        'You don\'t have to watch \'Gossip Girl\' to have an attitude.',
-        'Prince',
+    'd0e91f66-225d-5f03-94c9-2880fde6db2c' => [
+        'At the beginning of my career as a writer, I felt I knew nothing of Chinese culture. I was writing about emotional confusion with my mother related to our different beliefs. Hers was based in family history, which I didn\'t know anything about. I always felt hesitant in talking about Chinese culture and American culture.',
+        'Amy Tan',
     ],
-    [
-        'A little knowledge that acts is worth infinitely more than much knowledge that is idle.',
-        'Kahlil Gibran',
+    '74e43f5b-72f4-5fff-9049-b81c2677786d' => [
+        'I like to spend as much time with my friends and family as possible.',
+        'Zara Larsson',
     ],
-    [
-        'His smile is like the silver plate on a coffin.',
-        'John Philpot Curran',
+    'bb848511-392d-52fb-a509-96683e35ff39' => [
+        'A family can develop only with a loving woman as its center.',
+        'Karl Wilhelm Friedrich Schlegel',
     ],
-    [
-        'There are two kinds of people, those who do the work and those who take the credit. Try to be in the first group; there is less competition there.',
-        'Indira Gandhi',
+    'f1a5ee25-9d2b-5157-8818-c8e57a927204' => [
+        'The sun, the earth, love, friends, our very breath are parts of the banquet.',
+        'Rebecca Harding Davis',
     ],
-    [
-        'My smile has been my ticket to the world. Smiling releases the same feel-good hormones you get jogging. Caring for your lips and gums is important. I brush my teeth morning and night, alternating toothpaste brands. In addition to flossing, I use a Water Pik to massage my gums and remove food particles.',
-        'Christie Brinkley',
+    '17810586-d415-5ff6-a3ce-f39c42924e33' => [
+        'I want to be motivational and inspirational for everybody: my big aim is more women on bicycles.',
+        'Marianne Vos',
     ],
-    [
-        'Real estate sales was perfect training for the experience to go into public life because you learn to accept rejection, learn to meet new people, learn to work with people and find common ground. That\'s the way you sell houses... that\'s also the way you win over constituency.',
-        'Johnny Isakson',
+    '49127f28-fcb1-5f5a-9167-c9135201c041' => [
+        'I don\'t need you to remind me of my age. I have a bladder to do that for me.',
+        'Stephen Fry',
     ],
 ];

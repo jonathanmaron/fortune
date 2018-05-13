@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'People may doubt what you say, but they will believe what you do.',
-        'Lewis Cass',
+    '12227166-4842-526d-90ed-dc6cba0ab8b1' => [
+        'My children and my husband make me smile. My work makes me smile.',
+        'Victoria Beckham',
     ],
-    [
-        'Wherever you go, go with all your heart.',
+    '0d66a893-cf9a-51f0-a8e2-75df9f238d49' => [
+        'I grew up in a rough environment. You want to be strong and have your presence felt out there. That attitude reflects how people see you.',
+        'Mekhi Phifer',
+    ],
+    '2a8296c3-b55a-5b78-b536-1c5479f2a7cf' => [
+        'As you become more clear about who you really are, you\'ll be better able to decide what is best for you - the first time around.',
+        'Oprah Winfrey',
+    ],
+    '0333c9e1-14d6-5964-ae3d-9dd22aff4a7e' => [
+        'All know the way; few actually walk it.',
+        'Bodhidharma',
+    ],
+    '7e159324-3d6e-5c83-81c2-57d12933f21e' => [
+        'You\'re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.',
+        'Richard P. Feynman',
+    ],
+    'dd242c42-fa8a-541e-b92d-3b9bd0f0b0c0' => [
+        'The one thing I\'ve always said: Let your family and close friends be the judge of who you are as a person. Don\'t worry about being judged by others who don\'t know you, because your family and close friends know what you\'re all about, good and bad.',
+        'Rick Pitino',
+    ],
+    'db85872e-464b-5276-ab5d-ad6b569919fd' => [
+        'I buy everything India Arie, just because she\'s such a positive person, and I just love her music. Her music\'s so soulful... I think Kanye West is a genius musically.',
+        'Tika Sumpter',
+    ],
+    '9c842f44-282d-5735-8b0a-9c90b493e4aa' => [
+        'It\'s funny how a chubby kid can just be having fun, and people call it entertainment!',
+        'Garth Brooks',
+    ],
+    '5804b512-a15b-50dd-a22e-e9dad982ce27' => [
+        'Well-timed silence is the most commanding expression.',
+        'Mark Helprin',
+    ],
+    '41911d3a-aebf-5dbf-bad9-bc09a34483d9' => [
+        'Actually being funny is mostly telling the truth about things.',
+        'Bernard Sahlins',
+    ],
+    '0c4d810d-2c06-52f3-bfb3-c1feaa03b27c' => [
+        'To avoid criticism, do nothing, say nothing, be nothing.',
+        'Elbert Hubbard',
+    ],
+    'f0eb837e-ec4c-513c-afeb-072ebfb1a998' => [
+        'Every time I see an adult on a bicycle, I no longer despair for the future of the human race.',
+        'H. G. Wells',
+    ],
+    '84460e6b-c44d-51b5-9a3f-5964aaf1dfae' => [
+        'A woman can be demure, lady-like and the most prim and proper character, and still have a toughness and resiliency as apparent as a superhero-type female character or a warrior or soldier type. It\'s all about the story, the character, and the course of events in that piece of work and how that character is presented.',
+        'Katherine McNamara',
+    ],
+    'cf331257-6904-5183-9eed-c794c2af672f' => [
+        'I have seven children by six different mothers. Maybe success was too good to me.',
+        'Eazy-E',
+    ],
+    '19a4b65d-9d3f-5480-92a4-2989bcccee0d' => [
+        'More often than not, anger is actually an indication of weakness rather than of strength.',
+        'Dalai Lama',
+    ],
+    '12600447-4306-530d-bf7e-4c1304390180' => [
+        'Today or any day that phone may ring and bring good news.',
+        'Ethel Waters',
+    ],
+    'd4424364-0926-530b-99c4-0160f3809aaa' => [
+        'And they said if we help with the crisis, they would do a lot of positive acts. After we helped in those crises, they showed negative acts and the Japanese and Turks were ashamed.',
+        'Akbar Hashemi Rafsanjani',
+    ],
+    'e029521e-3041-5865-8ace-983a9846e941' => [
+        'Nature is not only all that is visible to the eye... it also includes the inner pictures of the soul.',
+        'Edvard Munch',
+    ],
+    '14139d15-66df-5132-8fc5-7c4552fae243' => [
+        'The superior man makes the difficulty to be overcome his first interest; success only comes later.',
         'Confucius',
     ],
-    [
-        'My mother never put an emphasis on looks. She let us grow up on our own time line. She never forced any beauty regimen into my world.',
-        'Rachel McAdams',
+    '625123c3-64b4-51c2-8f93-8d78047e444a' => [
+        'It\'s kind of funny, with all of the different outlets that come from acting that you could try, I would love to direct and kind of be involved in art direction, too.',
+        'Imogen Poots',
     ],
-    [
-        'I travel a lot. I\'m on the move.',
-        'Ted Turner',
+    '45141334-3037-5715-8f63-24be552d6674' => [
+        'When you\'re walking at the airport, you\'re expected to smile at people because they know you... I find that tough. I\'m only trying to protect myself. So I don\'t take my eyes off the floor. People can take that as attitude. But it\'s actually shyness. Yes, it is a bad habit. But it\'s a defense mechanism.',
+        'Katrina Kaif',
     ],
-    [
-        'It\'s a moment that I\'m after, a fleeting moment, but not a frozen moment.',
-        'Andrew Wyeth',
+    'f76a9c7d-b1e2-57a4-839b-44f2192b41d4' => [
+        'There are great challenges before you, from the overwhelming nature of climate change to the unfairness of an economy that excludes so many from our collective wealth, and the changes necessary to build a more inclusive and generous Canada. I believe in you.',
+        'Jack Layton',
     ],
-    [
-        'Love is a really scary thing, and you never know what\'s going to happen. It\'s one of the most beautiful things in life, but it\'s one of the most terrifying. It\'s worth the fear because you have more knowledge, experience, you learn from people, and you have memories.',
-        'Divyanka Tripathi',
+    '73c00749-7bfe-58d4-bf42-84782b5fe2cb' => [
+        'Success is often achieved by those who don\'t know that failure is inevitable.',
+        'Coco Chanel',
     ],
-    [
-        'While I put forth the suntan and the teeth and the cavalier attitude, I\'ve survived under the worst of eras and times, and I\'ve always had a good time doing it, because I never really took myself seriously, nor did I take life seriously because it is already terribly serious.',
-        'George Hamilton',
+    '0b626669-b757-5982-9e72-a950e2c48060' => [
+        'Loneliness is my least favorite thing about life. The thing that I\'m most worried about is just being alone without anybody to care for or someone who will care for me.',
+        'Stevie Wonder',
     ],
-    [
-        'To hell with circumstances; I create opportunities.',
-        'Bruce Lee',
-    ],
-    [
-        'I like to encourage people to realize that any action is a good action if it\'s proactive and there is positive intent behind it.',
-        'Michael J. Fox',
-    ],
-    [
-        'It\'s funny because I\'m a sucker for glitz and glitter when it comes to clothes and nail polish, but with my makeup, I\'m more comfortable with a natural look. It feels more like me.',
-        'Alison Sweeney',
-    ],
-    [
-        'The two most powerful warriors are patience and time.',
-        'Leo Tolstoy',
-    ],
-    [
-        'If I want to knock a story off the front page, I just change my hairstyle.',
-        'Hillary Clinton',
-    ],
-    [
-        'It\'s really funny - when I\'m depressed or I\'m having a hard time, I\'ll write really fun stuff. And then when I\'m really happy, I write really depressing stuff.',
-        'Kathleen Hanna',
-    ],
-    [
-        'The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.',
-        'Anna Quindlen',
-    ],
-    [
-        'Man needs his difficulties because they are necessary to enjoy success.',
-        'A. P. J. Abdul Kalam',
-    ],
-    [
-        'Mankind\'s true moral test, its fundamental test (which lies deeply buried from view), consists of its attitude towards those who are at its mercy: animals. And in this respect mankind has suffered a fundamental debacle, a debacle so fundamental that all others stem from it.',
-        'Milan Kundera',
-    ],
-    [
-        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
-        'Richard Bach',
-    ],
-    [
-        'Two roads diverged in a wood and I  took the one less traveled by, and that made all the difference.',
-        'Robert Frost',
-    ],
-    [
-        'If nothing else, the act of reaching a milestone often serves to reveal a superstar\'s true nature.',
-        'Stephen Rodrick',
-    ],
-    [
-        'If you spend too much time thinking about a thing, you\'ll never get it done',
-        'Bruce Lee',
-    ],
-    [
-        'There are always things I find difficult - being in crowds, remembering faces. I do like routines. I always travel with someone. My life in Avignon is a very quiet one. I have an apartment that looks over the whole city. I can drop into town, but a lot of the time I write from home. In some respects I still live a very quiet, simple life.',
-        'Daniel Tammet',
-    ],
-    [
-        'The road to success is not easy to navigate, but with hard work, drive and passion, it\'s possible to achieve the American dream.',
-        'Tommy Hilfiger',
-    ],
-    [
-        'Big pay and little responsibility are circumstances seldom found together.',
-        'Napoleon Hill',
-    ],
-    [
-        'Failure doesn\'t mean you are a failure it just means you haven\'t succeeded yet.',
-        'Robert Schuller',
-    ],
-    [
-        'I have always detested any departure from reality, an attitude which I relate to my mother\'s poor mental health.',
-        'Jean Piaget',
+    '3f86b927-29f7-5f85-83d7-a90998c9bdc4' => [
+        'I\'m doing my best to raise my son and give him a nurturing, loving, and caring environment so he can grow up and be the best version of himself.',
+        'Miranda Kerr',
     ],
 ];

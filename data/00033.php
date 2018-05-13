@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.',
-        'Lao Tzu',
+    '7c60ddd3-e510-5e8d-a11c-0693e252bcb9' => [
+        'Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.',
+        'Paramahansa Yogananda',
     ],
-    [
-        'It\'s fine to celebrate success but it is more important to heed the lessons of failure.',
-        'Bill Gates',
+    'cd78c148-05aa-5e95-a1bc-cbcef75b84a0' => [
+        'Much may be done in those little shreds and patches of time which every day produces, and which most men throw away.',
+        'Charles Caleb Colton',
     ],
-    [
-        'Do your damnedest in an ostentatious manner all the time.',
-        'George S. Patton',
+    'e10c9415-7151-5835-b90e-38f693425194' => [
+        'We need affordable space travel to inspire our youth, to let them know that they can experience their dreams, can set significant goals and be in a position to lead all of us to future progress in exploration, discovery and fun. Thanks to the X Prize for the inspiration.',
+        'Burt Rutan',
     ],
-    [
-        'We have an obligation and a responsibility to be investing in our students and our schools. We must make sure that people who have the grades, the desire and the will, but not the money, can still get the best education possible.',
-        'Barack Obama',
+    '05699b5d-e2a0-52f6-8fc6-8db41258e3a4' => [
+        'Not to sound corny, but intelligence is big. Everything fades, and everything can be modified. But intelligence is something you can\'t fake. I\'m not even talking about whether you can read a thesaurus backwards. But there is a beauty in common sense.',
+        'Wale',
     ],
-    [
-        'The thing that helped me come to terms with performing was an anxiety, a desperation for acceptance. There was never enough positive motivation in my life.',
-        'Phoebe Snow',
+    'eac8e7ee-176b-5f7d-92eb-4514033bcb32' => [
+        'A government that robs Peter to pay Paul can always depend on the support of Paul.',
+        'George Bernard Shaw',
     ],
-    [
-        'The simplest things are often the truest.',
-        'Richard Bach',
+    'a9fc32ef-69f0-551c-806c-b5af79ab400b' => [
+        'It\'s a funny old world.',
+        'Margaret Thatcher',
     ],
-    [
-        'He who controls others may be powerful, but he who has mastered himself is mightier still.',
-        'Lao Tzu',
+    'e24f8513-b4f2-52da-a694-f8398b916d5f' => [
+        'No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude.',
+        'Alfred North Whitehead',
     ],
-    [
-        'Everyone here has the sense that right now is one of those moments when we are influencing the future.',
-        'Steve Jobs',
+    'a28ac1cc-98f2-56be-b558-e2143f059432' => [
+        'Real success is not, like, materialistic. It\'s being where you want to be when you want to be; just living your life how you feel; having an ultimate goal and being able to accomplish it.',
+        'Lindsey Wixson',
     ],
-    [
-        'My father and his eight siblings grew up in the kind of poverty that Americans don\'t like to talk about unless a natural disaster like Hurricane Katrina strikes, and then the conversation only lasts as long as the news cycle. His family squatted in shacks. The children scavenged for food.',
-        'Karin Slaughter',
+    '4bcf2597-21b0-58f9-934e-c1fd144594a5' => [
+        'Aviation - and space travel, in particular - have always been especially captivating.',
+        'Felix Baumgartner',
     ],
-    [
-        'When you fail you learn from the mistakes you made and it motivates you to work even harder.',
-        'Natalie Gulbis',
+    '391fb9ae-c6d9-5a1a-a5e7-c2bc6c8af68e' => [
+        'Adversity isn\'t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.',
+        'Byron Pulsifer',
     ],
-    [
-        'Time = Life, Therefore, waste your time and waste of your life, or master your time and master your life.',
-        'Alan Lakein',
+    'e7ada5e0-dbe6-5154-bb35-9388d6adaf6c' => [
+        'The only siblings I have are half-siblings. My nuclear family would have been an extra-suffocating threesome. Instead, I have an interesting brother and sister, in-laws, and darling nephews.',
+        'Jane Smiley',
     ],
-    [
-        'The hardest thing to find in life is balance - especially the more success you have, the more you look to the other side of the gate. What do I need to stay grounded, in touch, in love, connected, emotionally balanced? Look within yourself.',
-        'Celine Dion',
+    'cb6ad256-8970-5028-b870-0d21cbc17336' => [
+        'I never liked apples. In fact, when I was a little girl, my mom wanted to give me apples in my lunch box and I would ask for green peppers. So bizarre... It\'s funny - I don\'t have an apple a day, but I can say that I have a few a week.',
+        'Lana Parrilla',
     ],
-    [
-        'I want anyone who believes in life, liberty, pursuit of happiness to succeed. And I want any force, any person, any element of an overarching Big Government that would stop your success, I want that organization, that element or that person to fail. I want you to succeed.',
-        'Rush Limbaugh',
+    '722252d1-e7a4-5078-ba8a-1627327c22ec' => [
+        'I don\'t talk about success. I don\'t know what it is. Wait until I\'m dead.',
+        'Imogen Cunningham',
     ],
-    [
-        'I look forward to making tangible and inspirational contributions to the Houston Technology Center\'s initiatives. HTC is an engine behind Houston\'s and Texas\' continued growth.',
-        'Walter O\'Brien',
+    '3c79b7e1-0bbf-56da-b5c0-9a7ada39a031' => [
+        'I don\'t feel that I\'m explaining the world or teaching people anything. And I\'m not trying to be a mirror, showing them what\'s really going on the world. All I\'m trying to do is think of stuff that\'s funny, just like when I\'m kidding around with my friends.',
+        'Steven Wright',
     ],
-    [
-        'I want my handbags and my shoes to be stylish but I want to make sure that they\'re versatile. I travel and I have to make sure the pieces I put into my bag can go with a dress or with shorts or jeans.',
-        'Maria Sharapova',
+    '8e4b12e3-8b6a-5d0f-a868-31d6ac8ecc58' => [
+        'The great thing for me about \'The Resurrection of Gavin Stone\' is it\'s a throwback to the old fashioned Hollywood movie that you can watch with your family, has a message, and is funny and entertaining. They didn\'t call them faith-based movies; they just called them good movies.',
+        'D. B. Sweeney',
     ],
-    [
-        'I\'m doing my best to be mindful about how I\'m living: to be kind and patient, and not to impose a bad mood on somebody else. Being mindful is as good a way to be spiritual as anything else.',
-        'Deirdre O\'Kane',
+    '36c36698-61b5-545e-b688-417645667fc4' => [
+        'While there\'s life, there\'s hope.',
+        'Sonam Kapoor',
     ],
-    [
-        'Every time a woman leaves the workforce because she can\'t find or afford childcare, or she can\'t work out a flexible arrangement with her boss, or she has no paid maternity leave, her family\'s income falls down a notch. Simultaneously, national productivity numbers decline.',
-        'Madeleine M. Kunin',
+    'ee3e7759-201d-5f5f-bdfb-ac2ed545d5e7' => [
+        'Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.',
+        'Peter Drucker',
     ],
-    [
-        'By the way, I\'m funniest when I\'m not being funny. I\'m better to laugh at than with, pretty much.',
-        'Jemima Kirke',
+    '547145f9-0f82-5acf-8f08-0ad704284728' => [
+        'Someone once told me I\'m a sore winner, and they\'re right. I rarely take more than a moment to enjoy a success before I\'m moving on and looking for the next challenge.',
+        'Eli Broad',
     ],
-    [
-        'Let go of your attachment to being right, and suddenly your mind is more open. You\'re able to benefit from the unique viewpoints of others, without being crippled by your own judgement.',
-        'Ralph Marston',
+    '6e22771c-4c38-59df-9eb4-256d39dbd3aa' => [
+        'I don\'t expect to live forever, but I do intend to hang on as long as possible.',
+        'Socrates',
     ],
-    [
-        'The man who has no inner-life is a slave to his surroundings.',
-        'Keri Russell',
+    'd456c8f1-f9d9-5ab3-9259-1297e6b5e77f' => [
+        'When I say that human beings are just gene machines, one shouldn\'t put too much emphasis on the word \'just.\' There is a very great deal of complication, and indeed beauty in being a gene machine.',
+        'Richard Dawkins',
     ],
-    [
-        'All the flowers of all the tomorrows are in the seeds of today.',
-        'Unknown',
+    '0cbfad1e-88db-5f0b-add4-28a5e2ae1e95' => [
+        'Don\'t let nobody tell you that you can\'t do it. Love what you do until you don\'t love it anymore. Nothing\'s impossible.',
+        'Fetty Wap',
     ],
-    [
-        'Travel, for me, is a little bit like being in love because suddenly, all your senses are at the setting marked \'on.\' Suddenly, you\'re alert to the secret patterns of the world.',
-        'Pico Iyer',
+    '3e339e91-ac3a-59a8-bec9-a9103e17b52a' => [
+        'Life has meaning only if one barters it day by day for something other than itself.',
+        'George Gershwin',
     ],
-    [
-        'He who is not courageous enough to take risks will accomplish nothing in life.',
-        'Joan of Arc',
+    'ac0c5615-3c47-53ed-bd09-7cf9166e8e04' => [
+        'There is no glory in star or blossom till looked upon by a loving eye; There is no fragrance in April breezes till breathed with joy as they wander by.',
+        'William C. Bryant',
     ],
-    [
-        'Academic success depends on research and publications.',
-        'Philip Zimbardo',
+    '7e7a1a35-1959-5698-964b-b8a6951e6a0a' => [
+        'The advance of technology is based on making it fit in so that you don\'t really even notice it, so it\'s part of everyday life.',
+        'Tecumseh',
     ],
-    [
-        'The number-one job of the hedge-fund manager is not to make sure that you can retire with a smile on your face - it\'s for him to retire with a smile on his face.',
-        'Mark Cuban',
+    'd2fb7ba2-f323-57c4-b4ef-2b65db1c2cd1' => [
+        'A positive attitude is not going to save you. What it\'s going to do is, everyday, between now and the day you die, whether that\'s a short time from now or a long time from now, that every day, you\'re going to actually live.',
+        'Elizabeth Edwards',
     ],
 ];

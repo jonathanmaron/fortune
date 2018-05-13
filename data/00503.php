@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Hard work and dedication is important to success, and I have those qualities.',
-        'Nargis Fakhri',
+    'a19ec4f8-b08c-546a-a300-b62003b46f37' => [
+        'Choosing an attitude of faith will release peace out of your spirit and into your soul.',
+        'Joyce Meyer',
     ],
-    [
-        'In my own life, I think legends of supernatural, mythic things are really just a manifestation of the collective unconscious. So I don\'t really get freaked out. I mean certainly, you read about things people did to each other in the pursuit of some mystical or occult goal, and it\'s horrifying. But that\'s just human nature.',
-        'Alan Ball',
+    'a7bbd580-b353-5079-9afe-38313228b60f' => [
+        'To be able to throw one\'s self away for the sake of a moment, to be able to sacrifice years for a woman\'s smile - that is happiness.',
+        'Hermann Hesse',
     ],
-    [
-        'Age is something that doesn\'t matter, unless you are a cheese.',
-        'Luis Bunuel',
+    '4a33686f-fb6a-5949-8f6f-466cd9c8e9bb' => [
+        'Being happy is of the utmost importance. Success in anything is through happiness.',
+        'Maharishi Mahesh Yogi',
     ],
-    [
-        'Work harder on yourself than you do on your job.',
-        'Jim Rohn',
+    'f4497284-ede0-5fcf-aa74-ca577d76e18b' => [
+        'The most important thing is to enjoy your life - to be happy - it\'s all that matters.',
+        'Winston Churchill',
     ],
-    [
-        'So long as you have food in your mouth, you have solved all questions for the time being.',
-        'Franz Kafka',
+    '392e0acc-5c2c-546f-a33e-09d948478ae3' => [
+        'Our national flower is the concrete cloverleaf.',
+        'Lewis Mumford',
     ],
-    [
-        'I believe innately in the human spirit being a powerful and positive thing. And that just comes out, whether you like it or not. It comes out in the writing.',
-        'Simon Beaufoy',
+    'a45d5c45-42ec-5074-80ce-050eb23b4b92' => [
+        'In three words I can sum up everything Ive learned about life: it goes on.',
+        'Robert Frost',
     ],
-    [
-        'You need an attitude of service. You\'re not just serving yourself. You help others to grow up and you grow with them.',
-        'David Green',
+    '146c8e15-6d7a-53ff-9c9b-86125b47a69f' => [
+        'We are all full of weakness and errors; let us mutually pardon each other our follies - it is the first law of nature.',
+        'Voltaire',
     ],
-    [
-        'Even if you fall on your face, you\'re still moving forward.',
-        'Victor Kiam',
+    '3a14e027-40ef-504d-83a3-73dfc5433e54' => [
+        'Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.',
+        'Albert Einstein',
     ],
-    [
-        'He is a man, who is to be a man, the fruit is always present in the seed.',
-        'Rene Descartes',
+    'd2b6569a-3046-596a-b07b-4926c6b645df' => [
+        'If you can\'t relax during your interview, then nothing you do to prepare will matter. Being yourself is essential to the selection process, and interviewers will feel it if you\'re too nervous. Showing fear or anxiety appears weak compared to a relaxed smile and genuine confidence.',
+        'Travis Bradberry',
     ],
-    [
-        'I always carry lip balm and lipstick. Lipstick is a very important beauty product because I find that lips are the most beautiful feature of anyone\'s face.',
-        'Fan Bingbing',
+    '6836b87b-7e78-529a-a335-1e55bfd99822' => [
+        'I didn\'t know how to smile for the paparazzi.',
+        'Peggy Lipton',
     ],
-    [
-        'Chess has given me a lot more than I could ask for. I have been able to feel special, travel the world and do what I truly enjoy. Moreover, chess players love being their own boss and hate having to wake up early!',
-        'Viswanathan Anand',
+    '44e15b07-afeb-5253-baaa-c306412cbb9b' => [
+        'Sometimes in the most tragic situation, something just profoundly funny happens.',
+        'David Hyde Pierce',
     ],
-    [
-        'I don\'t believe in failure. It\'s not failure if you enjoyed the process.',
-        'Oprah Winfrey',
+    '206dce7e-8a03-53fa-9295-3f4e98a71858' => [
+        'I remember nearly having a fit of the giggles during the reading because dear Daniel was SO respectful and serious and I was finding the whole situation funny because I was speaking to his profile.',
+        'Madeleine Stowe',
     ],
-    [
-        'It\'s very difficult to think that you\'re with someone that you know, and all of a sudden you don\'t know them: it turns out that they betray you. It\'s painful, but it\'s best to turn the page.',
-        'Shakira',
+    '88f004dc-83e6-51e7-9392-e79efe2bc233' => [
+        'Execute every act of thy life as though it were thy last.',
+        'Brandon Jenner',
     ],
-    [
-        'Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.',
-        'Albert Schweitzer',
+    'daa79d62-10be-5786-a700-11b993bd79e1' => [
+        'Without football, my life is worth nothing.',
+        'Lord Byron',
     ],
-    [
-        'If the Starbucks secret is a smile when you get your latte... ours is that the Web site adapts to the individual\'s taste.',
-        'Reed Hastings',
+    'abd5647e-7e95-5410-89d2-16beea7d17df' => [
+        'If you\'re going to have a bad attitude, you may as well not even tee it up that week because you probably won\'t play good anyways.',
+        'Jason Day',
     ],
-    [
-        'Flowers are without hope. Because hope is tomorrow and flowers have no tomorrow.',
-        'Antonio Porchia',
+    '41bc3753-9115-5dc6-9805-7b6991267d56' => [
+        'I tend to pack light but still keep a large bag because I love to shop. For each destination I travel to, I like to buy something that the country or city is known for such as olive oil, truffle, jewelry, etc. I also like to buy perfumes because the smell brings me back to the memory of my travels.',
+        'Jacqueline MacInnes Wood',
     ],
-    [
-        'My life is really quite conservative. I\'ve been married nearly 50 years. I don\'t have hobbies or children. I don\'t much care to travel. I\'ve never had a big social life. I really just stay home, except when I go to work.',
-        'Christopher Walken',
+    '902945ad-02a9-5f4b-9788-e4c75e692b94' => [
+        'We are what we repeatedly do. Excellence, then, is not an act but a habit.',
+        'Aristotle',
     ],
-    [
-        'Solidarity and interdependence, a sense of worth, a pride and hope in the future: these are positive gains for those who believe in progressive politics and the beneficial role of government, rather than a detriment.',
-        'David Blunkett',
+    'f6d3d2fb-750f-56a9-bbd6-b1f9c04b8577' => [
+        'Inner beauty radiates from within, and there\'s nothing more beautiful than when a woman feels beautiful on the inside.',
+        'Erin Heatherton',
     ],
-    [
-        'Do what you feel in your heart to be right, for you\'ll be criticized anyway.',
-        'Eleanor Roosevelt.',
+    'b965e21d-d456-5324-afae-cac4f0fe7f09' => [
+        'I just hate losing and that gives you an extra determination to work harder.',
+        'Wayne Rooney',
     ],
-    [
-        'Decades of research have shown that most happy families communicate effectively. But talking doesn\'t mean simply \'talking through problems,\' as important as that is. Talking also means telling a positive story about yourselves.',
-        'Bruce Feiler',
+    'ae932a15-3d1a-5ff6-81d8-b64c92b31a53' => [
+        'Anybody who was in the military or a military family has a certain sensitivity to the separation. Everyone knows military wives have the hardest jobs. I was born into one. When I think back to those days, I didn\'t appreciate it then.',
+        'Lester Holt',
     ],
-    [
-        'I believe in the value of life. I believe we must prepare our children for tomorrow with the family values of my grandparents.',
-        'Ryan Zinke',
+    '153853fe-9b9f-5e17-b49b-a7c4f4429ce5' => [
+        'I have found that a smile and a stick will carry you through all right, and in ninety-nine cases out of a hundred it is the smile that does the trick.',
+        'Robert Powell',
     ],
-    [
-        'At any given moment, you have the power to say: This is not how the story is going to end.',
-        'Christine Mason Miller',
+    'ce73b499-11ad-5936-9467-5a58ca4e0ed2' => [
+        'Nothing is work unless you\'d rather be doing something else.',
+        'George Halas',
     ],
-    [
-        'I always had the attitude that I wanted to throw a no-hitter every game.',
-        'Dennis Eckersley',
+    'aefcad3e-bd9c-5eeb-9d94-a8044a5e0ad1' => [
+        'I\'ve always put my family first and that\'s just the way it is.',
+        'Jamie Lee Curtis',
     ],
-    [
-        'It\'s a funny thing. I\'ll be in my home town of Columbus at a restaurant or something, and the waiter maybe asks, \'What do you do?\' and I say, \'Oh, I\'m in a band... Twenty One Pilots,\' and he\'ll say, \'Cool, I\'ll check it out. I never heard of them.\' And then I say, \'In September we\'re playing the Schottenstein Center,\' and it\'s like, \'What?!\'',
-        'Tyler Joseph',
+    '06cc7d83-f8e6-5746-8e7b-d648a241d45f' => [
+        'Life is just a chance to grow a soul.',
+        'A. Powell Davies',
     ],
-    [
-        'For all of those willing to help me start a family, I am flattered. I will let you know when I need your help.',
-        'Paula Abdul',
+    '13621349-f70c-55f7-bccf-2304e30b9164' => [
+        'Boys do not evaluate a book. They divide books into categories. There are sexy books, war books, westerns, travel books, science fiction. A boy will accept anything from a section he knows rather than risk another sort. He has to have the label on the bottle to know it is the mixture as before.',
+        'William Golding',
     ],
 ];

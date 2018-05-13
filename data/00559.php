@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I grew up in a working class family. People thought I might go work at a mill. My mom wanted me to learn how to lay carpet because she was concerned about my future. Nobody had high hopes for me. But I was a hustler.',
-        'Mark Cuban',
+    'c3474866-4b09-5728-858d-c5070da57346' => [
+        'I am responsible. Although I may not be able to prevent the worst from happening, I am responsible for my attitude toward the inevitable misfortunes that darken life.',
+        'Walter Anderson',
     ],
-    [
-        'It is as if my life were magically run by two electric currents: joyous positive and despairing negative - whichever is running at the moment dominates my life, floods it.',
-        'Sylvia Plath',
+    '508276ca-192b-5e1e-949d-de1274966644' => [
+        'We\'re born with success. It is only others who point out our failures, and what they attribute to us as failure.',
+        'Whoopi Goldberg',
     ],
-    [
-        'Knowledge is a process of piling up facts; wisdom lies in their simplification.',
-        'Martin Fischer',
+    '048c5cf2-c44c-50c5-9d33-c6efa5d56256' => [
+        'I\'m passionate and I travel the world not just as a tourist but to understand cultures... I\'ve lived with Masai tribe... I travel the world and bring it back in the form of a research book that would become the starting point for the collection.',
+        'John Galliano',
     ],
-    [
-        'Just don\'t give up trying to do what you really want to do. Where there is love and inspiration, I don\'t think you can go wrong.',
-        'Ella Fitzgerald',
+    '4fa855c7-10bc-5dbe-a9cb-e15dc5fada26' => [
+        'I want my handbags and my shoes to be stylish but I want to make sure that they\'re versatile. I travel and I have to make sure the pieces I put into my bag can go with a dress or with shorts or jeans.',
+        'Maria Sharapova',
     ],
-    [
-        'When Fortune smiles, I smile to think how quickly she will frown.',
-        'Robert Southwell',
+    '74b7806e-f78d-545b-8315-ae9909c1e25e' => [
+        'The kind of people that all teams need are people who are humble, hungry, and smart: humble being little ego, focusing more on their teammates than on themselves. Hungry, meaning they have a strong work ethic, are determined to get things done, and contribute any way they can. Smart, meaning not intellectually smart but inner personally smart.',
+        'Patrick Lencioni',
     ],
-    [
-        'I\'ve always said that I use my voice as an instrument. It was something I created myself, and I said, \'Have voice, will travel.\'',
-        'Yoko Ono',
+    'd2311f93-9c44-566f-8aed-f163dc69a173' => [
+        'In chess one cannot control everything. Sometimes a game takes an unexpected turn, in which beauty begins to emerge. Both players are always instrumental in this.',
+        'Vladimir Kramnik',
     ],
-    [
-        'Simply enjoy life and the great pleasures that come with it.',
-        'Norman Ralph Augustine',
+    '5bb814c7-5a79-5770-b487-2878e954b10d' => [
+        'If you create incredible value and information for others that can change their lives - and you always stay focused on that service - the financial success will follow.',
+        'Brendon Burchard',
     ],
-    [
-        'Going home, spending time with the family, I feel they\'re my friends as well, all of them. I look forward to meeting any one of them for a coffee, and when we all get together, I just love it.',
-        'Domhnall Gleeson',
+    '903dac73-e8d9-541a-94a9-85ddceb42a2e' => [
+        'It\'s great working with my sister, because we are very close as a family - my brother, my sister and myself. We have a great relationship.',
+        'Penelope Cruz',
     ],
-    [
-        'The way to deal with the devil of obesity and diabetes is literally one day at a time.',
-        'Stephen Furst',
+    '84cf7e7b-1aaf-5d9f-912a-3f552b6aa457' => [
+        'The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.',
+        'Winston Churchill',
     ],
-    [
-        'Human nature is potentially aggressive and destructive and potentially orderly and constructive.',
-        'Margaret Mead',
+    '8c5cee97-3303-576f-a8e0-8d9454a312ae' => [
+        'Meditation is to dive all the way within, beyond thought, to the source of thought and pure consciousness. It enlarges the container, every time you transcend. When you come out, you come out refreshed, filled with energy and enthusiasm for life.',
+        'David Lynch',
     ],
-    [
-        'I look around me and nowhere do I see a stamp of disapproval with which nature marked a woman\'s candid brow.',
-        'Franz Grillparzer',
+    '7dfdab61-bd87-5ce7-8e2d-e265f17eb248' => [
+        'I love my iPhone; it\'s great to have a camera around all the time.',
+        'Win Butler',
     ],
-    [
-        'The trouble with our times is that the future is not what it used to be.',
-        'Paul Valery',
+    '7d5b63ab-6588-51b0-9d6b-a8ad802da42a' => [
+        'The company of fools may first make us smile, but in the end we always feel melancholy.',
+        'Oliver Goldsmith',
     ],
-    [
-        'Persistence and resilience only come from having been given the chance to work though difficult problems.',
-        'Gever Tulley',
+    '745bb6ab-76e3-5e58-ba16-ba96e9aaec1d' => [
+        'Time travel offends our sense of cause and effect - but maybe the universe doesn\'t insist on cause and effect.',
+        'Edward M. Lerner',
     ],
-    [
-        'A house divided against itself cannot stand.',
-        'Abraham Lincoln',
+    '0ae40bba-2f08-5347-9388-80cf650b38da' => [
+        'On the red carpet, one tip is to suck in your cheekbones - apparently it looks better on camera. I don\'t know, though; I think a nice smile is best.',
+        'David Harewood',
     ],
-    [
-        'I\'ve been a huge fan of Marc Jacobs for many, many years, even going back to when I was wearing men\'s clothing. He captures a kind of simplicity and a kind of beauty that I like - projecting strength through femininity.',
-        'Chelsea Manning',
+    '005564aa-bb12-5afb-87b9-9fa707cb5f44' => [
+        'People, unprotected by their roles, become isolated in beauty and intellect and illness and confusion.',
+        'Richard Avedon',
     ],
-    [
-        'Even when I\'m sick and depressed, I love life.',
-        'Georgia O\'Keeffe',
+    '0fb3b0a6-908f-5549-9cd6-6900bfe5d30f' => [
+        'If you give a good thing to the world, then over time your karma will be good, and you\'ll receive good.',
+        'Russell Simmons',
     ],
-    [
-        'Our intention creates our reality.',
-        'Wayne Dyer',
+    '2ce9a042-a3f0-5a61-abb2-a8837214abbd' => [
+        'Surround yourself with positive people and you\'ll be a positive person.',
+        'Kellie Pickler',
     ],
-    [
-        'There is little difference in people, but that little difference makes a big difference. The little difference is attitude. The big difference is whether it is positive or negative.',
-        'W. Clement Stone',
+    'dfd3e725-01ff-57dd-99c5-0c5639c75e44' => [
+        'Time plays a role in almost every decision. And some decisions define your attitude about time.',
+        'John Cale',
     ],
-    [
-        'Television has brought back murder into the home - where it belongs.',
-        'Alfred Hitchcock',
+    'f71ed435-c653-54ec-a37e-cd1246195344' => [
+        'A film set becomes its own family anyway, and all family dynamics come out during a shoot. The trick is hiring people who know how to handle that.',
+        'Noah Baumbach',
     ],
-    [
-        'I make funny videos of me playing video games, and I share those moments.',
-        'PewDiePie',
+    'e349609f-6eb3-57a2-89d5-f9224b78c2b4' => [
+        'Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.',
+        'William Menninger',
     ],
-    [
-        'Selling wine is all about sizing people up, and it takes a certain amount of chutzpah. The tableside bottle sell is a very funny thing - you take a look at the guy\'s blazer, what kind of shoes he\'s wearing, what kind of broad he\'s with. Is he trying to be a hero?',
-        'Joe Bastianich',
+    'ad23ee76-32ae-578d-895d-1f87ca857213' => [
+        'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
+        'Robert Louis Stevenson',
     ],
-    [
-        'Fortune favours the brave.',
-        'Virgil',
+    '6b4301b2-f4ec-5022-aed0-fd156cb46583' => [
+        'Hitch your wagon to a star.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'The best way to be productive is to have a great team. So I spend more time than most CEOs on human resources. That\'s 20 percent of my week.',
-        'Kevin P. Ryan',
+    '34f9103c-5437-54c9-bc86-172946dd3134' => [
+        'The mind always fails first, not the body. The secret is to make your mind work for you, not against you.',
+        'Arnold Schwarzenegger',
     ],
-    [
-        'When you\'re in the editing room, the dangerous thing is that it becomes like telling a joke again and again and again. Eventually, the joke starts to not be funny. So you have to be careful that you\'re not throwing the baby out with the bath water.',
-        'Ridley Scott',
+    '00bb6417-6304-5ba2-8574-516f1e692a3a' => [
+        'I love the way Tyra Banks dresses up - she looks so elegant and glamorous in whatever she wears. The confidence and attitude she exudes on and off the ramp is remarkable.',
+        'Yami Gautam',
     ],
-    [
-        'I eat every two hours. I sleep for eight hours. I have lots of water. I pray to keep calm. Most importantly, I have a smile on my face.',
-        'Vidya Balan',
+    '30c3237b-a36d-5f23-aa52-ea82eda3b2fe' => [
+        'I\'m a clown, which could be a public health role. I\'m really interested in moving our society away from a society needing Xanax and Prozac, and that is really feeling depressed, to one that is celebrating, and so I find just walking around in colorful clothes, people smile.',
+        'Patch Adams',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.',
-        'Joseph Campbell',
+    'c195634e-b8d3-5b64-8bd3-e13328f336ed' => [
+        'On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.',
+        'Edward Young',
     ],
-    [
-        'Half a century ago, the amazing courage of Rosa Parks, the visionary leadership of Martin Luther King, and the inspirational actions of the civil rights movement led politicians to write equality into the law and make real the promise of America for all her citizens.',
-        'David Cameron',
+    '908d9f79-18fe-5db4-a89c-3bc46191089a' => [
+        'A \'naughty pickle\' is how I\'d best describe myself. I think fun and laughter is the whole point of life.',
+        'Celia Imrie',
     ],
-    [
-        'You hear about quality time a lot but I really think that quantity time with a person is really what strengthens a relationship. That\'s when you really get to know somebody. You get to know their strengths and their weaknesses and that brings you closer. That\'s what \'Time Is Love\' is all about.',
-        'Josh Turner',
+    '19e48a4e-a11e-538b-851c-54bc498ef541' => [
+        'Even successful musicians have had periods where people say they suck and no one likes them, even after they\'ve had periods of great success. So I think it\'s like you just gotta do you and try to stay motivated. Until, you know, you decide to stay home and make spaghetti all day.',
+        'K. Flay',
     ],
-    [
-        'I like outgoing girls with a lovely smile and beautiful eyes.',
-        'Corbin Bleu',
+    '2feca040-9cad-5ee7-9c87-bb89f1e0cea7' => [
+        'What would be ugly in a garden constitutes beauty in a mountain.',
+        'Victor Hugo',
     ],
-    [
-        'I love community, I love to be around other people. I love to be around other people when everyone\'s feeling good and doing their best. Not to just be the only one in the room that\'s shining.',
-        'Ava DuVernay',
+    'c134f2b8-3c93-59fb-b0bb-7a46084bbf32' => [
+        'Solitary trees, if they grow at all, grow strong.',
+        'Winston Churchill',
     ],
-    [
-        'Once we accept our limits, we go beyond them.',
+    'ce801440-156e-57be-bf41-3b723fa03e72' => [
+        'When we recognise the virtues, the talent, the beauty of Mother Earth, something is born in us, some kind of connection; love is born.',
+        'Nhat Hanh',
+    ],
+    'd4aed79d-c1d1-5719-8c3f-130b5240b330' => [
+        'Joy in looking and comprehending is nature\'s most beautiful gift.',
         'Albert Einstein',
     ],
-    [
-        'My journey through life has led me through both light and dark places, and it\'s because of those experiences that I have learned how to work through my character defects and to help others do the same.',
-        'Jessie Pavelka',
+    '44724c4e-d356-572b-b101-27b329445d70' => [
+        'You know some of the people in The Strokes, yeah, their parents had success - but we didn\'t live like yuppies.',
+        'Julian Casablancas',
     ],
-    [
-        'The Lord wants us to follow His righteous life, but yet we have to exist in the 21st century. You can\'t be going about riding a bicycle and to travel the world... that is not smart.',
-        'Benny Hinn',
+    'aef31e9c-a2f1-5030-845a-289b083f2be8' => [
+        'We just want to win. That\'s the bottom line. I think a lot of times people may become content with one championship or a little bit of success, but we don\'t really reflect on what we\'ve done in the past. We focus on the present.',
+        'Derek Jeter',
     ],
-    [
-        'Turn up the lights. I don\'t want to go home in the dark.',
-        'O. Henry',
+    'c038e2e7-a6f3-561e-8ef2-3820fa3767af' => [
+        'My mother lived through the Great Depression. Her family of 11 children pulled themselves up by their bootstraps and moved to wherever there was work at the time. And in rural Oklahoma, that wasn\'t easy to find.',
+        'Chuck Norris',
     ],
-    [
-        'A lot of baby boomers are baby bongers.',
-        'Kevin Nealon',
+    '99cb6652-242d-5ccd-985f-2358413d1f8b' => [
+        '\'Sunrise Sunset\' is about trying to get to a place where life is simple and not letting the stress and happenings in the world get in the way of your happiness.',
+        'Tiffany Trump',
     ],
-    [
-        'One of the things that people don\'t realize is that that natural beauty, those recreational forests, they have an economic development impact for the state as well.',
-        'Ed Rendell',
+    'a8a97fff-a528-58c6-9dba-e2c61efef6b3' => [
+        'The most important single ingredient in the formula of success is knowing how to get along with people.',
+        'Theodore Roosevelt',
     ],
-    [
-        'There are companies with management and companies with money. You can always find money. Management is the key to success in any business.',
-        'Husnu Ozyegin',
+    '07e6361b-42f2-52a5-a9ea-e0d12a05f222' => [
+        'Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.',
+        'Marcus Aurelius',
     ],
-    [
-        'I\'m a big believer in persistence, don\'t be greedy and, above all, work hard. It\'s what keeps me going.',
-        'Caprice Bourret',
+    'b1c328a9-a36c-5ffc-8316-28f6b50d244d' => [
+        'I don\'t return anybody\'s calls unless it\'s going to mean extra money for me. And I\'ve completely cut off all relationships with any friends that I had before the show. And I\'ve copped an attitude.',
+        'Mike Judge',
     ],
-    [
-        'Creative risk taking is essential to success in any goal where the stakes are high. Thoughtless risks are destructive, of course, but perhaps even more wasteful is thoughtless caution which prompts inaction and promotes failure to seize opportunity.',
-        'Gary Ryan Blair',
+    '857999ce-c4de-578f-8eae-8f538dfe24c5' => [
+        'Being in Blur has allowed me to travel and hear the music that\'s being made all over the world.',
+        'Damon Albarn',
     ],
-    [
-        'If there is any one secret of success, it lies in the ability to get the other person\'s point of view and see things from that person\'s angle as well as from your own.',
-        'Henry Ford',
+    '6591763a-abfd-5f75-bb7e-ddf3c5f40689' => [
+        'For me, life is about being positive and hopeful, choosing to be joyful, choosing to be encouraging, choosing to be empowering.',
+        'Billy Porter',
     ],
-    [
-        'I feel that sin and evil are the negative part of you, and I think it\'s like a battery: you\'ve got to have the negative and the positive in order to be a complete person.',
-        'Dolly Parton',
-    ],
-    [
-        'Music in the soul can be heard by the universe.',
+    'fe55c2d2-ef55-5b97-a276-ce2c1a3bf764' => [
+        'Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend. Non-being is the greatest joy.',
         'Lao Tzu',
     ],
-    [
-        'My ultimate goal is to end up being happy. Most of the time.',
-        'Taylor Swift',
+    '9522fcf2-dade-572d-846b-df4c1a21049d' => [
+        'Despite living in this post-9/11 age of transnational terrorism, the risk of death during air travel has plummeted to the point where we now measure it in the \'per billions\' of passengers.',
+        'Thomas P.M. Barnett',
     ],
-    [
-        'I feel like a little kid who just walked into a candy store. I think that\'s something to smile about.',
-        'Brandon Boyd',
+    '6a7ffd2a-7074-5bce-af92-af291945b15c' => [
+        'My restaurants are never opened on Thanksgiving; I want my staff to spend time with their family if they can. My feeling is, if I can\'t figure out how to make money the rest of the year so that my workers can enjoy the holidays, then I don\'t deserve to be an owner.',
+        'Michael Symon',
     ],
-    [
-        'Anyone who says they\'re not afraid at the time of a hurricane is either a fool or a liar, or a little bit of both.',
-        'Anderson Cooper',
+    '3014585d-62ce-5afb-9a17-14a1de69c1ce' => [
+        'Love is a portion of the soul itself, and it is of the same nature as the celestial breathing of the atmosphere of paradise.',
+        'Victor Hugo',
     ],
-    [
-        'Yet, taught by time, my heart has learned to glow for other\'s good, and melt at other\'s woe.',
-        'Homer',
+    'd46d3695-18ca-5a95-8ec0-e00cf4817449' => [
+        'While journalists cannot right every wrong, champion every cause or fix every problem, they can - through the written word - lift someone\'s burden for a day, make some elderly woman on a bus smile or let them know they are noticed by someone.',
+        'Regina Brett',
     ],
-    [
-        'It\'s worth noting that at the time of the American Revolution, no sane person would have given two cents for its success.',
-        'Diana Gabaldon',
+    '61ecda97-ab77-5654-89cd-37d9b59efc4f' => [
+        'If you have an important point to make, don\'t try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time - a tremendous whack.',
+        'Winston Churchill',
     ],
-    [
-        'What the imagination seizes as beauty must be truth.',
-        'John Keats',
+    '56bbf826-2896-51dd-a0cc-1660a9ef1657' => [
+        'There is one thing you have got to learn about our movement. Three people are better than no people.',
+        'Fannie Hamer',
     ],
-    [
-        'If you look at a painting that you love by one of the great masters, every time you go back to it, you see something different - a different attitude or brushstroke. \'Hamlet\' is like an entire gallery of old masters.',
-        'Rory Kinnear',
+    '96cabdd1-9ae0-58f9-b234-7853a608eade' => [
+        'If what I have to do is share a sandwich to lift someone\'s spirits, put a smile on their face - the worst thing that happens is I go broke!',
+        'Jose Andres',
     ],
-    [
-        'Funny is a good foil. Humor is illuminating, and it also gives you power.',
-        'J. Tillman',
+    '172021e5-2c06-5a9c-a663-254979385c1d' => [
+        'People should pursue what they\'re passionate about. That will make them happier than pretty much anything else.',
+        'Elon Musk',
     ],
 ];

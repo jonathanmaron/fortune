@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I am never at my best in the early morning, especially a cold morning in the Yorkshire spring with a piercing March wind sweeping down from the fells, finding its way inside my clothing, nipping at my nose and ears.',
-        'James Herriot',
+    '94112736-79ff-5ed8-b4f0-beacce470183' => [
+        'The waving of a pine tree on the top of a mountain - a magic wand in Nature\'s hand - every devout mountaineer knows its power; but the marvelous beauty value of what the Scotch call a breckan in a still dell, what poet has sung this?',
+        'John Muir',
     ],
-    [
-        'The American Dream is still alive out there, and hard work will get you there. You don\'t necessarily need to have an Ivy League education or to have millions of dollars startup money. It can be done with an idea, hard work and determination.',
-        'Bill Rancic',
+    'e3d613c9-d28f-5786-a541-85078d2162e4' => [
+        'Cinderella is not only an iconic character when it comes to beauty, grace and fairytale love, but also shoes.',
+        'Christian Louboutin',
     ],
-    [
-        'I have a little bit of that gamer spirit in me. I just don\'t have the time to be a gamer. But in another life, I would be one.',
-        'J. Cole',
-    ],
-    [
-        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
-        'Unknown',
-    ],
-    [
-        'I\'m learning all the time. I\'m evolving all the time as a human being. I\'m getting better, I hope, in all of the important ways.',
+    '22dbd88c-1986-5d49-8765-4327c77e6ed1' => [
+        'To get nostalgic about other people\'s music, or even about your own, makes a terrible statement about the condition of your life and your prospects for the future. I have no patience with that kind of attitude, whether it\'s on radio or among friends.',
         'Neil Peart',
     ],
-    [
-        'In cricket, my superhero is Sachin Tendulkar. He has always been my hero and will continue to remain so. Apart from him and outside cricket, my mother has remained my inspiration. Whatever difficult time I had faced, she was always there for me. She has given me all the strength. She maintained her composure and supported me in tough times.',
-        'Virat Kohli',
+    '81d86b69-7fec-5659-b70f-ca09ff9119cb' => [
+        'To feel much for others and little for ourselves; to restrain our selfishness and exercise our benevolent affections, constitute the perfection of human nature.',
+        'Adam Smith',
     ],
-    [
-        'I\'m working myself to death.',
-        'Alan Ladd',
+    '60ee5433-73e1-52a6-bc2f-8fd9d3db5871' => [
+        'Kindness is the language which the deaf can hear and the blind can see.',
+        'Mark Twain',
     ],
-    [
-        'It\'s a marathon, not a sprint. I actually feel like I come to work stronger when I\'ve had a little time on the weekend to step away from it and enjoy my family and other things. I come back energized. If people think they\'re going to work 24/7, week in and week out, they\'re not bringing their full strength to the table.',
-        'Mary Barra',
+    '40c0c0c0-981a-55aa-a9c4-415fd5e98db0' => [
+        '\'Neon Future\' is, in short, a positive outlook on human progress and technology, looking forward to a bright, colorful utopia. It\'s embracing the future and looking toward the future in a more optimistic way.',
+        'Steve Aoki',
     ],
-    [
-        'I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.',
-        'Robert Benchley',
+    '048e1fb9-6a61-5633-9102-41114e296893' => [
+        'When the media defines something, you have to question: Is it the definition that you want applied to your culture? I\'m trying to determine who\'s leaving the legacy, and if the legacy that is being left is a positive one.',
+        'Tim Reid',
     ],
-    [
-        'A woman can slip on a pair of embellished cage heels one night and a pair of streamlined, lightweight sneakers the next day. The beauty of modern luxury is the absence of rules.',
-        'Giuseppe Zanotti',
+    'c21dcb74-d294-5624-9bb2-235fd6b6588f' => [
+        'You have to fight to reach your dream. You have to sacrifice and work hard for it.',
+        'Lionel Messi',
     ],
-    [
-        'I\'ve just got a really bad smile. I go for the scowl instead.',
-        'Jason Statham',
+    '4e7f5165-aa7b-54e9-b070-f21cb3fc615a' => [
+        'When I go back to family reunions everybody goes, \'Hey cousin! Hey Auntie!\' And I\'m like, \'Okay I don\'t know you, I have no idea who you are.\' I am auntie and cousin for so many and even the ones in prison call me collect. And I\'ll be like, \'Which of my family members are giving you this phone number?\'',
+        'Sherri Shepherd',
     ],
-    [
-        'If you\'re serious, you really understand that it\'s important that you laugh as much as possible and admit that you\'re the funniest person you ever met. You have to laugh. Admit that you\'re funny. Otherwise, you die in solemnity.',
-        'Maya Angelou',
+    '1a53adad-43da-5b8a-b6bb-48fa54ac57f2' => [
+        'I gave my life to become the person I am right now. Was it worth it?',
+        'Richard Bach',
     ],
-    [
-        'I have such an extreme attitude about work, where I can just completely be derelict of my responsibilities and then when I am not derelict, I am completely indulged in it. I swing pretty wildly from the two extremes.',
-        'Geddy Lee',
+    'ce8106fd-a2d5-5847-9d6d-bb0fff36c18d' => [
+        'Being in love is the best feeling on the planet. I really believe that love makes the world go round.',
+        'Sonam Kapoor',
     ],
-    [
-        'It really depends, but, generally speaking, just because of the mechanics of it, voice-over is easier because there is no hair, no makeup, no wardrobe, no fittings, no line memorizing. You don\'t have to me woken up in Russia at 6 in the morning and go film a scene. It\'s just easier on the body, the family life to do voice-overs.',
-        'Kathy Najimy',
+    '22c2e0bd-7057-521c-87a0-2f09ca7f43b2' => [
+        'What\'s a bigger mystery box than a movie theater? You go to the theater, you\'re just so excited to see anything - the moment the lights go down is often the best part.',
+        'J. J. Abrams',
     ],
-    [
-        'In a war situation or where violence and injustice are prevalent, poetry is called upon to be something more than a thing of beauty.',
-        'Seamus Heaney',
+    'c13f19d7-cbf5-51a3-8559-54133cb96e0b' => [
+        'The beauty of reading is that it lets you travel in a way you could never know.',
+        'Alek Wek',
     ],
-    [
-        'My keen love of travel was seldom hindered by Father. He permitted me, even as a mere boy, to visit many cities and pilgrimage spots.',
-        'Paramahansa Yogananda',
+    '956a2f8b-cbf8-5869-88a7-42b58f765d89' => [
+        'If opportunity doesn\'t knock, build a door.',
+        'Milton Berle',
     ],
-    [
-        'The human foot is a masterpiece of engineering and a work of art.',
-        'Leonardo da Vinci',
+    '8e064866-f70c-5a3b-aa1f-ac4b7cb39343' => [
+        'The most important point is to accept yourself and stand on your two feet.',
+        'Shunryu Suzuki',
     ],
-    [
-        'I just wanted to be a businessman, and to me, the best way to understand business was to be an accountant.',
-        'Aubrey McClendon',
+    '9288527e-9e57-5b21-b046-38bdb5e338f3' => [
+        'I\'d never stop traveling, and I love bringing my family along with me. My children have points of reference everywhere, friends from Milan to Los Angeles. I think it\'s really fun for them.',
+        'Valeria Mazza',
     ],
-    [
-        'I realise that I do not change the course of history. I am an actor, I do a movie, that\'s the end of it. You have to realise we are just clowns for hire. After I had success it was great, at first, not to worry about money. It was on my mind when I was growing up.',
-        'Leonardo DiCaprio',
+    'e09111b7-68ed-5089-a401-a4086fe859b2' => [
+        'The more you care, the stronger you can be.',
+        'Jim Rohn',
     ],
-    [
-        'The worst men often give the best advice.',
-        'Francis Bacon',
+    '215e1e85-4b46-5907-8227-e67d07799557' => [
+        'The heroines in \'That\'s What She Said\' are flawed, messy, damaged, hilarious and culpable and not really concerned about being acceptable to the audience in any traditional sense, which for me is what makes them all the more gorgeous. And the fearless truth of that is what makes it funny.',
+        'Carrie Preston',
     ],
-    [
-        'You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen.',
-        'Meister Eckhart',
+    'c60753e7-9316-56ac-8a16-aa7b261d938f' => [
+        'When everything else physical and mental seems to diminish, the appreciation of beauty is on the increase.',
+        'Bernard Berenson',
     ],
-    [
-        'Problems are only opportunities with thorns on them.',
-        'Hugh Miller',
+    '4f5fb04d-a1db-5d46-b22c-ef9b4da2aad2' => [
+        'Every city across the country that has successfully renewed and revitalized itself points to a robust education system as its fundamental key to success.',
+        'Alan Autry',
     ],
-    [
-        'Nature is so powerful, so strong. Capturing its essence is not easy - your work becomes a dance with light and the weather. It takes you to a place within yourself.',
-        'Annie Leibovitz',
+    '305be7b4-cea9-55d7-88db-3ec6e6518963' => [
+        'Major League Baseball has the best idea of all. Three years before they\'ll take a kid out of college, then they have a minor league system that they put the kids in. I\'m sure that if the NBA followed the same thing, there would be a lot of kids in a minor league system that still were not good enough to play in the major NBA.',
+        'Bobby Knight',
     ],
-    [
-        'Kindness is the golden chain by which society is bound together.',
-        'Johann Wolfgang von Goethe',
+    '83b9ee6c-e395-5f82-a882-080c91059586' => [
+        'I think the movie business and film crews are a little bit like the circus, in that we travel around like a pack and we\'re a big family for a finite period of time. We roll into someplace, cause a bunch of damage, and then roll out.',
+        'Francis Lawrence',
     ],
-    [
-        'Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.',
-        'Albert Schweitzer',
+    '91f1e023-f22a-5e46-9469-4f3a2be3ef73' => [
+        'Success seems to be largely a matter of hanging on after others have let go.',
+        'William Feather',
+    ],
+    '59b1e503-58a4-5311-93d7-bdb9f9f222e6' => [
+        'What sunshine is to flowers, smiles are to humanity. These are but trifles, to be sure; but scattered along life\'s pathway, the good they do is inconceivable.',
+        'Joseph Addison',
+    ],
+    '1475db19-a824-5f5a-9ee8-2358d6eb5610' => [
+        'I want to see success right away. And I want to never give up, never stop.',
+        'Joe Nichols',
     ],
 ];

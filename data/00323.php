@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'They can do all because they think they can.',
-        'Virgil',
+    'd1432854-b578-5add-a2c8-800e8591dd71' => [
+        'At Thanksgiving, I always start at the top of my list and say I\'m grateful for friends, family, and good health. Then I get more superficial... like being thankful for my Louboutins.',
+        'Christie Brinkley',
     ],
-    [
-        'There are powers inside of you which, if you could discover and use, would make of you everything you ever dreamed or imagined you could become.',
-        'Orison Swett Marden',
+    'cc627482-222f-58c3-b26f-aece75a5aeeb' => [
+        'Fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions.',
+        'H. P. Lovecraft',
     ],
-    [
-        'Children are the most honest critics. They will say \'You\'re funny\', but also \'You\'re pathetic - go away.\'',
-        'Dylan Moran',
+    '92b04bbe-3eba-592b-a598-e1bb1f146a5b' => [
+        'I had time with my mother, but I really lived with my father. One time he gave all his salary so I could travel to a training camp. He couldn\'t pay the rent, but he did that.',
+        'Zlatan Ibrahimovic',
     ],
-    [
-        'The successful man doesn\'t use others, other people use the successful man, for above all the success is of service.',
-        'Mark Caine',
+    '78953fa6-dfb9-5ae9-9479-dc8d2a0c3c16' => [
+        'They might not need me; but they might. I\'ll let my head be just in sight; a smile as small as mine might be precisely their necessity.',
+        'Emily Dickinson',
     ],
-    [
-        'Being positive is like going up a mountain. Being negative is like sliding down a hill. A lot of times, people want to take the easy way out, because it\'s basically what they\'ve understood throughout their lives.',
-        'Chuck D',
+    '07b36b90-bfe5-5db5-b1ee-a9afaa10881f' => [
+        'Athletic skills are acquired over a long period of time and after countless hours of practice.',
+        'Zig Ziglar',
     ],
-    [
-        'Creativity is the ability to introduce order into the randomness of nature.',
-        'Eric Hoffer',
+    '5ee6a75a-20e4-515d-8eb6-5c37d91a5f7e' => [
+        'What I learned from my work as a physician is that even with the most complicated patients, the most complicated problems, you\'ve got to look hard to find every piece of data and evidence that you can to improve your decision-making. Medicine has taught me to be very much evidence-based and data-driven in making decisions.',
+        'Jim Yong Kim',
     ],
-    [
-        'My attitude is govern as if you\'ve run your last race. That\'s not to say I\'ve run my last race, but govern with a liberation and a freedom; change your mind frame to operate that way.',
-        'Rahm Emanuel',
+    '7ce55a37-24f1-59ce-9c5b-54ea1fd1276c' => [
+        'Don\'t get me wrong, I admire elegance and have an appreciation of the finer things in life. But to me, beauty lies in simplicity.',
+        'Henry David Thoreau',
     ],
-    [
-        'There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.',
-        'Epictetus',
+    '6c895990-5292-5016-83c7-07e7b77a1bad' => [
+        'Like most guys, I\'ve always liked watches. I can always check the time on my phone, but having a watch is so much better.',
+        'Andy Murray',
     ],
-    [
-        'Cynical realism is the intelligent man\'s best excuse for doing nothing in an intolerable situation.',
-        'Aldous Huxley',
+    '9dd21fa9-f8df-5633-82d2-62ccb98cea21' => [
+        'One of the best pieces of advice I ever got was from a horse master. He told me to go slow to go fast. I think that applies to everything in life. We live as though there aren\'t enough hours in the day but if we do each thing calmly and carefully we will get it done quicker and with much less stress.',
+        'Viggo Mortensen',
     ],
-    [
-        'There are physical characteristics which are inherited. These include things like good looks, high intelligence, physical coordination. These attributes contribute to success in life, and success in life is a determinant of optimism.',
-        'Martin Seligman',
+    '83f46e9a-07d9-5f17-9e39-6bbe8947d84d' => [
+        'Spending $1 for a brand new house would feel very, very good. Spending $1,000 for a ham sandwich would feel very, very bad. Spending $19,000 for a small family car would feel, well, more or less right. But as with physical pain, fiscal pain can depend on the individual, and everyone has a different threshold.',
+        'Jeffrey Kluger',
     ],
-    [
-        'My view of life is colored by humor and looking at the best in any situation.',
-        'Michael J. Fox',
+    'a67baad6-5037-53b5-9027-34b80416e21c' => [
+        'To be positive is to be mistaken at the top of one\'s voice.',
+        'Ambrose Bierce',
     ],
-    [
-        'He who knows, does not speak. He who speaks, does not know.',
-        'Lao Tzu',
+    '7dccd403-aa47-5621-bbcc-58cd5fa6dfd8' => [
+        'People need to understand that the Lauryn Hill they were exposed to in the beginning was all that was allowed in that arena at the time. I had to step away for the sake of the machine. I was being way too compromised. I felt uncomfortable having to smile in someone\'s face when I really didn\'t like them or know them well enough to like.',
+        'Lauryn Hill',
     ],
-    [
-        'Walking is the best possible exercise. Habituate yourself to walk very far.',
-        'Thomas Jefferson',
+    '7eb019ba-af2c-5ef8-93b8-f2e7e9c71a32' => [
+        'If it is not right do not do it; if it is not true do not say it.',
+        'Marcus Aurelius',
     ],
-    [
-        "Don\u{92}t settle. Don\u{92}t finish crappy books. If you don\u{92}t like the menu, leave the restaurant. If you\u{92}re not on the right path, get off it.",
-        'Chris Brogan',
+    '6560fadd-9edb-5e23-9804-bbfaee75c9a6' => [
+        'Being kind is the most important thing I\'ve ever been taught. That\'s what my parents always told me - more important than ambition or success is being kind to people. The cornerstone of my life. What I aspire to is to be kind.',
+        'Rafe Spall',
     ],
-    [
-        'Your sweetheart calls you by another\'s name. His eyes linger too long on your best friend. He talks with excitement about a girl at work. And the fire catches. Jealousy - that sickening combination of possessiveness, suspicion, rage, and humiliation - can overtake your mind and threaten your very core as you contemplate your rival.',
-        'Helen Fisher',
+    '4a02ef46-ad48-523c-8653-6d7d4dc76a92' => [
+        'The best form of government is that which is most likely to prevent the greatest sum of evil.',
+        'James Monroe',
     ],
-    [
-        'Problems are not stop signs, they are guidelines.',
-        'Robert H. Schuller',
+    'aa69d857-a848-5e0d-a26e-7cf3718ccebd' => [
+        'Concentrate all your thoughts upon the work at hand. The sun\'s rays do not burn until brought to a focus.',
+        'Alexander Graham Bell',
     ],
-    [
-        'Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist.',
-        'Mary Kay Ash',
+    'df13f311-0a1a-5354-bdaa-b5d0188c826c' => [
+        'We can come to look upon the deaths of our enemies with as much regret as we feel for those of our friends, namely, when we miss their existence as witnesses to our success.',
+        'Arthur Schopenhauer',
     ],
-    [
-        'The best customer service is if the customer doesn\'t need to call you, doesn\'t need to talk to you. It just works.',
-        'Jeff Bezos',
+    '5d705160-0720-5441-8131-267715c02449' => [
+        'I think serial monogamy says it all.',
+        'Tracey Ullman',
     ],
-    [
-        'If you would take, you must first give, this is the beginning of intelligence.',
-        'Lao Tzu',
+    '72fb9891-d14a-5e51-bcea-5755dc0b2eee' => [
+        'If you can dream it, you can do it.',
+        'Walt Disney',
     ],
-    [
-        'Successful people breed success.',
-        'Phil Crosby',
+    '4a4d6a0d-15bf-5131-925d-52aceada7076' => [
+        'Almost everything comes from nothing.',
+        'Henri Amiel',
     ],
-    [
-        'It is the addition of strangeness to beauty that constitutes the romantic character in art.',
-        'Walter Hagen',
+    'ce67f673-8b2b-56ba-b227-fb46201af9b3' => [
+        'I won\'t be a rock star. I will be a legend.',
+        'Freddie Mercury',
     ],
-    [
-        'A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man.',
-        'Lana Turner',
+    '058d05a4-8cd6-58cb-9d0f-44d7a6a92afb' => [
+        'Finding some quiet time in your life, I think, is hugely important.',
+        'Mariel Hemingway',
     ],
-    [
-        'This is the paradox for me: in failure alone is there any possibility of success. I don\'t think I\'m alone in this - nor do I think it\'s an attitude that only prevails among people whose work is obviously \'creative\'.',
-        'Will Self',
+    '8e3d84fd-4fb3-5da0-b2d8-6156be74b806' => [
+        'My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength.',
+        'Michael Jordan',
     ],
-    [
-        'The Web is not a prize to be won, and Mr. Ballmer\'s attitude is deplorable in the light of what the Web means to the world, to users, to designers and developers, and - to put it into Microsoft parlance - customers.',
-        'Molly Holzschlag',
+    '43d96c16-49cf-53be-96f5-d7a091f0a23a' => [
+        'Management must manage!',
+        'Harold S. Geneen',
     ],
-    [
-        'I had hoped when my life was chronicled, it would be an inspirational story.',
-        'Om Puri',
+    '4686bcc9-0db2-543b-8b4d-7d58cf3a5ba4' => [
+        'Some minds improve by travel, others, rather, resemble copper wire, or brass, which get the narrower by going farther.',
+        'Thomas Hood',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The happiness of a man in this life does not consist in the absence but in the mastery of his passions.',
-        'Alfred Tennyson',
+    '41d92bea-a559-56bc-9919-a94dc86eb31c' => [
+        'I think the Cold War works as a great analogy or simile for different kinds of conflict. It\'s funny, when you look back at it, it\'s one of the last times that the boundaries were clear. Now, as we see on \'Homeland,\' there are no clear boundaries and enemies.',
+        'Matthew Rhys',
     ],
-    [
-        'I\'m a very traditional person. The tattoos are about my grandmother dying and they tell the story about my mother and father, my brothers and my sister, my kids. It\'s pretty much a family tree on my arm with my life in football too.',
-        'Timothy F. Cahill',
+    'bad18147-1ded-5f9b-9e13-8b6ea1ac2f6d' => [
+        'You cannot find yourself by going into the past. You can find yourself by coming into the present.',
+        'Eckhart Tolle',
     ],
-    [
-        'Nothing is art if it does not come from nature.',
-        'Antoni Gaudi',
+    '117dace0-59f4-58af-80cb-62c97d2ee715' => [
+        'Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.',
+        'John Dewey',
     ],
-    [
-        'A smart manager will establish a culture of gratitude. Expand the appreciative attitude to suppliers, vendors, delivery people, and of course, customers.',
-        'Harvey Mackay',
+    '5e4cf5d2-89cd-598b-8024-a3622876bbb9' => [
+        'Age appears to be best in four things; old wood best to burn, old wine to drink, old friends to trust, and old authors to read.',
+        'Francis Bacon',
     ],
-    [
-        'The stars, that nature hung in heaven, and filled their lamps with everlasting oil, give due light to the misled and lonely traveller.',
-        'John Milton',
+    '5737c827-0963-5909-8ca3-04e3a8de644b' => [
+        'Life isn\'t about finding yourself. Life is about creating yourself.',
+        'Bernard Shaw',
     ],
-    [
-        'The key to success is to get out into the store and listen to what the associates have to say.',
-        'Sam Walton',
+    '93ce5129-60a1-5cee-bdc5-c56d9c741585' => [
+        'There are still many places I haven\'t seen that I\'d like to travel to. I\'ve never seen the Pyramids, and I\'d love to explore the culture in North India. I think walking in the Andes would also be awesome.',
+        'Bjorn Ulvaeus',
     ],
-    [
-        'The best way to predict the future is to create it.',
-        'Peter Drucker',
+    '9e3bcbc9-6e44-564e-bd45-35e0859b75c3' => [
+        'I have to think of the positive; that\'s how I cope.',
+        'Ingrid Newkirk',
     ],
-    [
-        'Experience is simply the name we give our mistakes.',
-        'Oscar Wilde',
+    'a8d96cee-01f8-5ab0-96b4-c4143565f950' => [
+        'You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.',
+        'Abraham Lincoln',
     ],
-    [
-        'If you\'re OK with being clumsy, it\'s funny. But if you are super embarrassed, people are going to laugh at you.',
-        'Leo Howard',
+    'd57e6a83-224a-53ec-b979-2cabc7cb9063' => [
+        'I try to be as positive as I can because I truly believe I am my feelings, and if I\'m sad, if I have regrets, they will show up as illnesses, they will show up as cancers... I don\'t want that.',
+        'Marie Helvin',
     ],
-    [
-        'From a certain age, I sort of accepted myself for what I was. And although to other people it was like nothing ever goes right, I had a really nice attitude that I\'d inherited from my parents, and especially from my dad.',
-        'Johnny Vegas',
+    '5ebba98b-9cdd-5fe9-afe3-ae9c09b5be77' => [
+        'If I had no family, my wife and I would lead a much more romantic and nomadic existence.',
+        'David McCallum',
     ],
-    [
-        'Barack Obama, he just sits out. He sits back; he criticizes everybody. He\'s got his professorial attitude, real condescending, as if he\'s got all the answers.',
-        'Steve Scalise',
+    '77cfa035-8e66-5a66-8de5-88aecd905187' => [
+        'We wanted Nike to be the world\'s best sports and fitness company. Once you say that, you have a focus. You don\'t end up making wing tips or sponsoring the next Rolling Stones world tour.',
+        'Phil Knight',
     ],
-    [
-        'If you try to do your best there is no failure.',
-        'Mike Farrell',
+    'b8cb6762-c007-5f4a-bbbb-67ff64f0214e' => [
+        'On long haul flights I always drink loads and loads of water and eat light and healthy food.',
+        'Lisa Snowdon',
     ],
-    [
-        'I pray to start my day and finish it in prayer. I\'m just thankful for everything, all the blessings in my life, trying to stay that way. I think that\'s the best way to start your day and finish your day. It keeps everything in perspective.',
-        'Tim Tebow',
+    '416e55a9-d503-572e-86c4-080d883920d4' => [
+        'When people see a legend, they call it a legend. But to be a legend, it\'s a lot of hard work and patience. You can\'t play for five or ten years and be a legend. It takes longer than that.',
+        'Burning Spear',
     ],
-    [
-        'Having achieved my own dreams, I want to give to kids who are less fortunate, who struggle with everyday obstacles. I want to give them something positive in their lives: support.',
-        'Kristi Yamaguchi',
+    '9c573fbe-11e5-5ead-b2a2-671b06f44e7a' => [
+        'It really is impossible not to like him. His success was his failure.',
+        'Arthur C. Danto',
     ],
-    [
-        'I don\'t have to look up my family tree, because I know that I\'m the sap.',
-        'Fred Allen',
+    '9ea8f51e-d1a7-535d-8009-68ba62fa9baa' => [
+        'Thinking is the hardest work there is, which is probably the reason why so few engage in it.',
+        'Henry Ford',
     ],
-    [
-        'All the great artists had their dark sides. Look at Amy Winehouse or anyone who has achieved a certain level of success. Even Adele, and the people that you wouldn\'t put in the same category as a gangster rapper. These women have exposed their vulnerabilities, demons, and things that have hurt them.',
-        'Kat Graham',
+    '298f3d25-d789-5be7-96d2-794899afcda3' => [
+        'Art washes away from the soul the dust of everyday life.',
+        'Pablo Picasso',
     ],
-    [
-        'Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.',
-        'Dhammapada',
+    '822ae048-346a-54fa-b7b9-e4e7b23cf52e' => [
+        'My grandfather was a man, when he talked about freedom, his attitude was really interesting. His view was that you had obligations or you had responsibilities, and when you fulfilled those obligations or responsibilities, that then gave you the liberty to do other things.',
+        'Clarence Thomas',
     ],
-    [
-        'Believe you can and you\'re halfway there.',
-        'Theodore Roosevelt',
+    'd773be14-8804-50ca-8183-29efb31f8b65' => [
+        'Love is our true destiny. We do not find the meaning of life by ourselves alone - we find it with another.',
+        'Christopher Reeve',
     ],
-    [
-        'You see, with me, when I\'m nervous, I smile and laugh.',
-        'Paula Radcliffe',
+    '82d28011-b93b-592d-9c10-27eb02065c44' => [
+        'Standards of beauty are arbitrary. Body shame exists only to the extent that our physiques don\'t match our own beliefs about how we should look.',
+        'Martha Beck',
     ],
-    [
-        'Women of worth are those who want positive change for themselves, their families, community or society, which I think is important. For me, a woman of worth is someone who has self -espect, who believes that she can change things in society.',
-        'Sonam Kapoor',
+    '1862e5ad-7b3a-543e-ba6c-4e29ab025afe' => [
+        'I don\'t have a Pollyana attitude toward life that claims everything is lovely.',
+        'Eve Arden',
     ],
-    [
-        'The enemies of acting are mood and attitude and other general homogenized disruptive entities. Whereas acting is about action - doing - and unless you can figure out a way to craft in an imaginative reality to which you don\'t submit, you\'re going to be out of control. You\'ll flip out. The job is to be surprised.',
-        'William Hurt',
+    '3631bee7-f455-54b3-900f-35d356dc352b' => [
+        'We\'ll love you just the way you are if you\'re perfect.',
+        'Alanis Morissette',
     ],
-    [
-        'I am proud to have been born in Iowa. Through the eyes of a ten-year-old boy, it was a place of adventure and daily discoveries - the wonder of the growing crops, the excitements of the harvest, the journeys to the woods for nuts and hunting, the joys of snowy winters, the comfort of the family fireside, of good food and tender care.',
-        'Herbert Hoover',
+    'd820ad75-ed9f-5304-bd36-cf40962bcde8' => [
+        'The monster was the best friend I ever had.',
+        'Boris Karloff',
     ],
-    [
-        'Thus they have an idol that they petition for victory in war; another for success in their labors; and so for everything in which they seek or desire prosperity, they have their idols, which they honor and serve.',
-        'Hernan Cortes',
+    '83157bfa-bc84-5634-ad90-67a5f09f3866' => [
+        'Delete the negative; accentuate the positive!',
+        'Donna Karan',
     ],
-    [
-        'Thing is, I went to a born-again Christian high school, was brought up in a traditional Mormon family where these ideas about parenting are of structure and sacrifice. To think outside of that idea of family and parenting that I\'ve grown up with is tough but also very freeing.',
-        'Paul Walker',
+    '625e5042-39e3-5143-a183-6c016c09603e' => [
+        'I think the most important thing in life is self-love, because if you don\'t have self-love, and respect for everything about your own body, your own soul, your own capsule, then how can you have an authentic relationship with anyone else?',
+        'Ralph Marston',
     ],
-    [
-        'At one time, you could sit on the Rue de la Paix in Paris or at the Habima Theater in Tel Aviv or in Medina and you could see a person come in, black, white, it didn\'t matter. You said, \'That\'s an American\' because there\'s a readiness to smile and to talk to people.',
-        'Maya Angelou',
+    '8fc3b9c9-3bf5-5a49-ac34-42e37ee8dcc7' => [
+        'Beauty surrounds us, but usually we need to be walking in a garden to know it.',
+        'Rumi',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Someone is sitting in the shade today because someone planted a tree a long time ago.',
-        'Warren Buffett',
+    '6c657617-1da1-5b01-b1ff-8730c9e73133' => [
+        'Before you start some work, always ask yourself three questions - Why am I doing it, What the results might be and Will I be successful. Only when you think deeply and find satisfactory answers to these questions, go ahead.',
+        'Chanakya',
     ],
-    [
-        'Your chances of success in any undertaking can always be measured by your belief in yourself.',
-        'Robert Collier',
+    'd6708c9b-a1bd-59f4-b3b6-d8efd998b4b8' => [
+        'The resistance that you fight physically in the gym and the resistance that you fight in life can only build a strong character.',
+        'Travis Barker',
     ],
-    [
-        'The time I kill is killing me.',
-        'Mason Cooley',
+    'bde06790-687e-568a-8893-2f51f21279eb' => [
+        'I believe e-courses will eventually change people\'s attitude toward learning. Education will play an increasingly dominant role in people\'s lives. For people of all ages and all geographies.',
+        'Sebastian Thrun',
     ],
-    [
-        'Let the refining and improving of your own life keep you so busy that you have little time to criticize others.',
-        'H. Jackson Brown, Jr.',
+    '646af6df-36a1-508a-b389-de43a36075ba' => [
+        'Nothing is given to man on earth - struggle is built into the nature of life, and conflict is possible - the hero is the man who lets no obstacle prevent him from pursuing the values he has chosen.',
+        'Andrew Bernstein',
     ],
-    [
-        'Life is a difficult game. You can win it only by retaining your birthright to be a person.',
-        'Mark Twain',
+    '31fe3de1-0dbe-5f2b-88cd-7129ba4e75de' => [
+        'Migration gives a blank cheque to put anything you don\'t feel like addressing in the memory hold. No neighbours can go against the monster narrative of your family.',
+        'Junot Diaz',
     ],
-    [
-        'The children have been a wonderful gift to me, and I\'m thankful to have once again seen our world through their eyes. They restore my faith in the family\'s future.',
-        'Jackie Kennedy',
+    'a9bcc062-6c2b-5b32-af34-6c5f6c3641aa' => [
+        'My ultimate life dream project is my kids. My family.',
+        'Denzel Washington',
     ],
-    [
-        'I was so embarrassed about mispronouncing words. I just knew how to smile.',
-        'Adriana Lima',
+    'cc09379d-080e-57d3-bc31-018c7e37292d' => [
+        'Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.',
+        'Anais Nin',
     ],
-    [
-        'I travel all over the world, usually 10 months out of the year. I stay at a lot of hotels, and the ones I like best are clean and not complicated. You go to bed and say, \'Wow, I feel comfortable.\'',
-        'Nobu Matsuhisa',
+    'a7105fe2-d4d7-55e7-ac7c-fd553d2cc17d' => [
+        'A large part of crime is economics - if people are working and and have a home and family to support, then I believe you can reduce the crime rate.',
+        'Vincent Frank',
     ],
-    [
-        'People don\'t appreciate music any more. They don\'t adore it. They don\'t buy vinyl and just love it. They love their laptops like their best friend, but they don\'t love a record for its sound quality and its artwork.',
-        'Laura Marling',
+    '58b69ace-2dc7-50e7-8217-a52c48393f9f' => [
+        'As a father, you want the best for your son, quite obviously. You want to create the best memories for your son.',
+        'Bill Goldberg',
     ],
-    [
-        'You just never give up. You do a task to the best of your abilities and beyond.',
-        'Debbie Reynolds',
+    '7bb1456b-9536-585d-9bd6-e60df86f5d0b' => [
+        'Perhaps the mission of an artist is to interpret beauty to people - the beauty within themselves.',
+        'Langston Hughes',
     ],
-    [
-        'You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.',
-        'Emmet Fox',
+    '00c4ae3a-90de-5e78-9f29-d154a2ded107' => [
+        'I really admire a woman for her intelligence, her personality. Beauty is not enough.',
+        'Roberto Cavalli',
     ],
-    [
-        'I\'m not afraid of storms, for Im learning how to sail my ship.',
-        'Louisa Alcott',
+    '3fb63b5d-4571-5e0f-957a-e364f7ec2923' => [
+        'Forward, as occasion offers. Never look round to see whether any shall note it... Be satisfied with success in even the smallest matter, and think that even such a result is no trifle.',
+        'Marcus Aurelius',
     ],
-    [
-        'Success breeds success.',
-        'Mia Hamm',
+    '6d5c9996-999d-5e7f-89f8-c682d0e04cde' => [
+        'The purpose of Disneyland is to make people smile.',
+        'Kevin Plank',
     ],
-    [
-        'My love for cooking began when I was young. Because my parents were in the army, they were both really busy. A lot of times I\'d have to cook for the family; I\'d rotate with my siblings. It started out as a chore, but as I got older, my mom started to see that I was really good at it. I became her sous chef.',
-        'Tia Mowry',
+    '7a121a79-74ac-597b-bd89-baa65c229310' => [
+        'The day of the sun is like the day of a king. It is a promenade in the morning, a sitting on the throne at noon, a pageant in the evening.',
+        'Wallace Stevens',
     ],
-    [
-        'There\'s a lot of things that go on when you\'re on tour that cannot be controlled. I\'m not even talking about myself, but of course there\'s sexual activity and drugs, fighting and language; it is certainly not a place to raise a family.',
-        'Peter Steele',
+    'bb833d7b-68af-5791-8356-468ad0ede8c0' => [
+        'To those who would call me a thug or worse because I show passion on a football field - don\'t judge a person\'s character by what they do between the lines. Judge a man by what he does off the field, what he does for his community, what he does for his family.',
+        'Richard Sherman',
     ],
-    [
-        'You can always tell when a man\'s well informed. His views are pretty much like your own.',
-        'H. Jackson Brown, Jr.',
+    '708e7692-c3c5-5965-84b3-bf00e5540724' => [
+        'Worry gives a small thing a big shadow.',
+        'Unknown',
     ],
-    [
-        'Work hard! In the end, passion and hard work beats out natural talent.',
-        'Pete Docter',
+    '1cafd01e-1b95-5768-af3a-d1a34ba7c866' => [
+        'Health is the thing that makes you feel that now is the best time of the year.',
+        'Franklin Pierce Adams',
     ],
-    [
-        'Our family room, where we live, is about togetherness and ease. Nothing in my house is too formal. There are no coasters on tables; the kids can eat Popsicles on the couch if they want to. I let them ride these little cycles we got for them when they were 3 that have rubber wheels and no pedals.',
-        'Cindy Crawford',
+    'e8394c38-0c0e-5c77-890f-a9fe7396c98b' => [
+        'Push-ups are seriously the best way to tone your arms - and they tone your abs at the same time! I like to do them when I\'m home watching TV or listening to music.',
+        'Cassie Scerbo',
     ],
-    [
-        'It is the nature of truth in general, as of some ores in particular, to be richest when most superficial.',
-        'Edgar Allan Poe',
+    '19cbfa56-88c1-5e2f-be5c-cdb3837da03d' => [
+        'I think the attitude I was trying to learn myself was to really try hard, to give a great effort, to really care, and to let the results go where they are going to go. But at the same time, I don\'t have to be happy, and I shouldn\'t be happy, with less than my best.',
+        'Tom Lehman',
     ],
-    [
-        'The world is fortunate - for the time being, at least - that it has an American president in Obama who is prepared to take a conciliatory and concessive attitude towards America\'s decline and that it has a Chinese leadership which has been extremely cautious about expressing an opinion, let alone flexing its muscles.',
-        'Martin Jacques',
+    'a550d7a2-f749-51b1-9c1a-fd8d01bd949f' => [
+        'Music is my religion.',
+        'Jimi Hendrix',
     ],
-    [
-        'Listen to your intuition. It will tell you everything you need to know.',
-        'Anthony D\'Angelo',
+    '9e8fe0e4-9c27-50b8-8b1c-1ff5eef5ee34' => [
+        'Win or lose, I believe in giving my best and that is what I always do.',
+        'Lin Dan',
     ],
-    [
-        'There\'s a snobbery at work in architecture. The subject is too often treated as a fine art, delicately wrapped in mumbo-jumbo. In reality, it\'s an all-embracing discipline taking in science, art, maths, engineering, climate, nature, politics, economics.',
-        'Norman Foster',
+    '0baeae32-e1ac-5ed8-910d-f331594d1234' => [
+        'One may say the eternal mystery of the world is its comprehensibility.',
+        'Albert Einstein',
     ],
-    [
-        'What makes the desert beautiful is that somewhere it hides a well.',
-        'Antoine de Saint-Exupery',
+    '254e7d44-6a32-5e3f-a950-7d96b9ed36b6' => [
+        'An obstacle may be either a stepping stone or a stumbling block.',
+        'Unknown',
     ],
-    [
-        'In America there are two classes of travel - first class, and with children.',
-        'Robert Benchley',
+    '995cc04d-20e8-5327-8868-bcdd284c158c' => [
+        'Like a morning dream, life becomes more and more bright the longer we live, and the reason of everything appears more clear. What has puzzled us before seems less mysterious, and the crooked paths look straighter as we approach the end.',
+        'Edmund Burke',
     ],
-    [
-        'The time for action is now. It\'s never too late to do something.',
-        'Antoine de Saint-Exupery',
+    'da522667-c04e-594f-9b14-89e530fed0cc' => [
+        'I\'ll tell you, there is nothing better in life than being a late bloomer. I believe that success can happen at any time and at any age.',
+        'Salma Hayek',
     ],
 ];

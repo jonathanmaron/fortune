@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I consider myself someone who takes a lot of beauty risks, and I\'ve realized what I liar I am. I change my hair a lot, from blue to blonde to bald, but I\'m trying to branch out a little more with makeup.',
-        'Halsey',
+    '29b0dbda-8d5b-55f9-88c2-fdbb990ff1af' => [
+        'Work, look for peace and calm in work: you will find it nowhere else.',
+        'Dmitri Mendeleev',
     ],
-    [
-        'Health and beauty is not just about what you apply. If you don\'t have it together on the inside, then nothing else is going to matter.',
-        'Nia Peeples',
+    '4237cdad-8741-5fba-a621-2d9fe0b7fd91' => [
+        'A bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
+        'Helen Rowland',
     ],
-    [
-        'I grew up in a family with two very strong women, my mother and my older sister, and they were big influences on my life.',
-        'Darren Aronofsky',
+    '72b27ede-0571-56b2-bfd0-a0cf9e2c6a30' => [
+        'Do I feel any pressure as the most decorated Winter Olympian in American history? None at all. The only pressures that I know I face are those of how to pay it forward: How can I continually make a positive impact in people\'s lives, help others achieve their dreams, create their own Olympic mindset, creating champions within themselves?',
+        'Apolo Ohno',
     ],
-    [
-        'We know beauty when we see it, and our reactions are remarkably consistent. Beauty is not just a social construct, and not every girl is beautiful just the way she is.',
-        'Virginia Postrel',
+    '339d3203-724e-5a91-878a-2e94c58eb3fc' => [
+        'My whole damn family was nice. I don\'t think I\'ve imagined it. It\'s true. Maybe it has to do with being brought up as Christian Scientists. Half of my relatives were Readers or Practitioners in the church.',
+        'Henry Fonda',
     ],
-    [
-        'Beauty is a radiance that originates from within and comes from inner security and strong character.',
-        'Jane Seymour',
+    '1a1d631f-0d50-5591-a461-37c6e712698c' => [
+        'Wake up early and tackle the day before it tackles you. Be on offense, not defense.',
+        'Evan Carmichael',
     ],
-    [
-        'The only way to enjoy anything in this life is to earn it first.',
-        'Ginger Rogers',
+    '1636ebb0-f074-5a5d-b469-656b4f52935f' => [
+        'Everyone can have their heart broken. Even if you know the relationship isn\'t working, it\'s still sad. Even in a bad relationship, they\'re part of your life for a long time, and saying goodbye to that can be difficult.',
+        'James Marsden',
     ],
-    [
-        'Loss is nothing else but change, and change is Nature\'s delight.',
-        'Marcus Aurelius',
+    '2b29293c-5601-507a-b259-c04c7e989a1d' => [
+        'Nothing ever goes away until it has taught us what we need to know.',
+        'Pema Chodron',
     ],
-    [
-        'Working hard and working smart sometimes can be two different things.',
-        'Byron Dorgan',
+    '060f7592-ef22-5361-b25b-0ca05c5ddb67' => [
+        'Few and far between are the books you\'ll cherish, returning to them time and again, to revisit old friends, relive old happiness, and recapture the magic of that first read.',
+        'Michael A. Stackpole',
     ],
-    [
-        'People spend too much time finding other people to blame, too much energy finding excuses for not being what they are capable of being, and not enough energy putting themselves on the line, growing out of the past, and getting on with their lives.',
-        'J. Michael Straczynski',
+    '9404ecb6-f320-5c56-b2a4-67f446c227ff' => [
+        'Some people say they have a thirst for life. They\'re excited about every day and they\'re prepared to look the bad and the good straight in the face and greet it all with a smile. I like to think I\'m one of those people.',
+        'Amy Jo Martin',
     ],
-    [
-        'If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?',
-        'Confucius',
+    '77427fe3-02ff-5698-91c7-9286dd45c798' => [
+        'The violets in the mountains have broken the rocks.',
+        'Tennessee Williams',
     ],
-    [
-        'Yes, you can lose somebody overnight, yes, your whole life can be turned upside down. Life is short. It can come and go like a feather in the wind.',
-        'Edgar Allan Poe',
+    '03429eed-5b3e-56a6-8f41-523b0b495150' => [
+        'Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on.',
+        'Paula Abdul',
     ],
-    [
-        'All cities are mad: but the madness is gallant. All cities are beautiful: but the beauty is grim.',
-        'Christopher Morley',
+    'caab78e4-0776-5a8f-8049-6ab297655708' => [
+        'The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.',
+        'Charles Darwin',
     ],
-    [
-        'Hard work without talent is a shame, but talent without hard work is a tragedy.',
-        'Robert Half',
+    'cfd624a5-7960-59e3-a28e-af7f5b1d4087' => [
+        'Change is the law of life. And those who look only to the past or present are certain to miss the future.',
+        'John D. Rockefeller',
     ],
-    [
-        'Happiness is in our own hearts. I have no regrets of anything in the past. I\'m totally cheerful and happy, and I think that a lot of your attitude is not in the circumstances you find yourself in, but in the circumstances you make for yourself.',
-        'Maeve Binchy',
+    'f778be7f-02b6-577b-a8ba-40bd34de8c1d' => [
+        'One could not pluck a flower without troubling a star.',
+        'Loren Eiseley',
     ],
-    [
-        'I have a secret project which adds four hours every day to the 24 hours we have. There\'s a bit of time travel involved.',
-        'Sundar Pichai',
+    '0bd1fb5b-75a3-5ca4-aac6-0e6748291a5a' => [
+        'I really get a smile that people think they have a right to even suggest how I give my money away. I have no mandate to give a dime to anybody.',
+        'Peter B. Lewis',
     ],
-    [
-        'Make the most of yourself, for that is all there is of you.',
-        'Ralph Emerson',
+    '46ffb360-f8aa-5e36-9c7b-fae8fe70a26c' => [
+        'If you\'re doing your best, you won\'t have any time to worry about failure.',
+        'H. Jackson Brown, Jr.',
     ],
-    [
-        'We have reached a new milestone as a human family. With seven billion of us now inhabiting our planet, it is time to ask some fundamental questions. How can we provide a dignified life for ourselves and future generations while preserving and protecting the global commons - the atmosphere, the oceans and the ecosystems that support us?',
-        'Ban Ki-moon',
+    'a75fd03c-d0c3-5d25-b33a-91f7fad845f7' => [
+        'I think we should all be tolerant of each other and embrace each others\' strengths and differences and uniqueness and beauty.',
+        'Martina McBride',
     ],
-    [
-        'The \'Stephanie Plums\' are very much Jersey books. So you can\'t get away from attitude and objectionable language.',
-        'Janet Evanovich',
+    '71ca0ec1-00b4-5d0b-84cc-41f9ff894c00' => [
+        'I\'m very inspired by nature - you could say Mother Nature. I look at things around me and get all kinds of inspiration daily.',
+        'Martha Stewart',
     ],
-    [
-        'Perseverance is not a long race; it is many short races one after the other.',
-        'Walter Elliot',
+    '4e2358dc-abdd-50e2-a0b0-8e65378749ab' => [
+        'I think I will be able to, in the end, rise above the clouds and climb the stairs to Heaven, and I will look down on my beautiful life.',
+        'Paul Pierce',
     ],
-    [
-        'Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.',
-        'Alan Cohen',
+    '689048e0-f0a0-501b-bbbd-72b29b8b3064' => [
+        'It is possible to commit no mistakes and still lose. That is not a weakness; that is life.',
+        'Jean Luc Picard',
     ],
-    [
-        'Strong beliefs win strong men, and then make them stronger.',
-        'Richard Bach',
+    '468e6916-5036-501b-a28d-36f99f18499e' => [
+        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
+        'Jim Gaffigan',
     ],
-    [
-        'We have a vision of South Africa in which black and white shall live and work together as equals in conditions of peace and prosperity.',
-        'Oliver Tambo',
+    'e4f8ad23-43f0-5829-85b3-4741b1d8f5c7' => [
+        'My advice to young wrestlers is that your surroundings really make a difference. You want to put yourself in good, positive surroundings.',
+        'Dan Gable',
     ],
-    [
-        'Life is either a great adventure or nothing.',
-        'Wayne Dyer',
+    '98f5c526-b8cc-5e91-9446-26507a81cf34' => [
+        'Nature\'s beauty is a gift that cultivates appreciation and gratitude.',
+        'Louie Schwartzberg',
     ],
-    [
-        'I get asked, \'Who would you really like to work with?\' I\'m already working with them. Smart, talented, funny people, good musicians, an extended family, good friends.',
-        'Christopher Guest',
+    'bf4bc791-986d-50f8-ae45-e319dbcbb0ca' => [
+        'Take things as they are. Punch when you have to punch. Kick when you have to kick.',
+        'Bruce Lee',
     ],
-    [
-        'A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.',
-        'Isaac Asimov',
+    '4c3b14a7-b63b-5033-80a5-476539146682' => [
+        'The success combination in business is: Do what you do better... and: do more of what you do.',
+        'David Joseph Schwartz',
     ],
 ];

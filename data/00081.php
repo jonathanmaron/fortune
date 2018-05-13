@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'It doesn\'t matter if you\'re a man or a woman - stay alert and focused on your surroundings. Travel with friends. Know where you are at all times, and never let your guard down.',
-        'Kimberly Guilfoyle',
+    '1c54f9fb-b7e7-5e9d-9d64-549d9bc1f87b' => [
+        'What you give is what you get.',
+        'Byron Pulsifer',
     ],
-    [
-        'I get a friend to travel with me... I need somebody to bring me back to who I am. It\'s hard to be alone.',
-        'Leonardo DiCaprio',
+    'baf0c9bb-7e04-5280-b2cc-7017c65b8ac1' => [
+        'The misconception is that standup comics are always on. I don\'t know any really funny comics that are annoying and constantly trying to be funny all the time.',
+        'Joe Rogan',
     ],
-    [
-        'Being famous is having the power to really implement positive change in the world, and it gives you the power to do what you want. I\'m really grateful for it because I can play music and people will listen.',
-        'Sean Lennon',
+    '2d7f3c02-a893-5ea8-b237-68ac68c83d6a' => [
+        'The glory is being happy. The glory is not winning here or winning there. The glory is enjoying practicing, enjoy every day, enjoying to work hard, trying to be a better player than before.',
+        'Rafael Nadal',
     ],
-    [
-        'Be careful of success; it has a dark side.',
-        'Robert Redford',
+    'd07bead2-75bc-515c-b03b-ceb31dfdecb4' => [
+        'I\'ve always been interested in the idea of space exploration. When I was younger it was just a dream, but the theory of rockets being able to travel through space was very much alive. I found it very exciting.',
+        'Gerry Anderson',
     ],
-    [
-        'But quality of work can be expected only through personal satisfaction, dedication and enjoyment. In our profession, precision and perfection are not a dispensible luxury, but a simple necessity.',
-        'Niklaus Wirth',
+    '8ce265dc-15c0-5bfa-b672-222f60182210' => [
+        'Our thoughts are mainly controlled by our subconscious, which is largely formed before the age of 6, and you cannot change the subconscious mind by just thinking about it. That\'s why the power of positive thinking will not work for most people. The subconscious mind is like a tape player. Until you change the tape, it will not change.',
+        'Bruce Lipton',
     ],
-    [
-        'I\'ve never found kicks to the groin particularly funny, although recent work in the genre of the buddy movie suggests audience research must prove me wrong.',
-        'Roger Ebert',
+    '40c11f0e-6fc3-5b61-a1a8-d98f5d5ee5f2' => [
+        'Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.',
+        'Steve Jobs',
     ],
-    [
-        'My tastes and inspirational artists were always rather eclectic and diverse.',
-        'Taylor Dayne',
+    '19c8ac7e-e3da-5a95-a04d-4ad5e8d2df4e' => [
+        'That\'s the key to success, isn\'t it? It has to be fun.',
+        'Monica Seles',
     ],
-    [
-        'Despite my firm convictions, I have always been a man who tries to face facts, and to accept the reality of life as new experience and new knowledge unfolds. I have always kept an open mind, a flexibility that must go hand in hand with every form of the intelligent search for truth.',
-        'Nicole Ari Parker',
+    '136d5593-cc18-5b8b-bbfa-26349ac9a971' => [
+        'People who grew up watching Disney films like myself, there are films that are certain benchmarks in my childhood. \'The Little Mermaid\' was the first movie I remember seeing. \'Beauty And The Beast,\' \'Aladdin,\' those are three I remember right off the bat.',
+        'Mandy Moore',
     ],
-    [
-        'Imagination creates reality.',
-        'Richard Wagner',
+    '0d1451b8-18b1-5629-b6a3-56cab9574a16' => [
+        'What really went wrong is that General Motors has had this philosophy from the beginning that what\'s good for General Motors is good for the country. So, their attitude was, \'We\'ll build it and you buy it. We\'ll tell you what to buy. You just buy it.\'',
+        'Michael Moore',
     ],
-    [
-        'Courage is the discovery that you may not win, and trying when you know you can lose.',
-        'Unknown',
+    'd2675cfe-9d81-5fa7-a700-0131adcb8621' => [
+        'I will tell you with 100 percent confidence, Jon Jones is not deep in my head. The fact he actually thinks that, it makes me smile every day.',
+        'Daniel Cormier',
     ],
-    [
-        'It\'s a funny thing when you think you\'re dead. You\'re not terrified of it anymore. There\'s a sort of a epiphany to religious thing; it\'s not sort of church-based, but you end up with a serenity which you didn\'t have before, and I just simply enjoy it. It really does sound stupid, but I\'ve got to tell you it\'s made my life.',
-        'David Lange',
+    '5bf21b1d-2420-59f7-a981-fe10ab3cd88b' => [
+        'Coca-Cola is the only business in the world where no matter which country or town or village you are in, if someone asks what do you do, and you say you work for Coca-Cola, you never have to answer the question, \'What is that?\'',
+        'Muhtar Kent',
     ],
-    [
-        'There was a film that really affected me, \'La Strada\' by Fellini, where Anthony Quinn and Giulietta Masina travel around on his little motorcycle thing.',
-        'Kris Kristofferson',
+    '3a89672f-a1ec-5619-99e0-d278d7506e8c' => [
+        'Through Kurt I saw the beauty of minimalism and the importance of music that\'s stripped down.',
+        'Dave Grohl',
     ],
-    [
-        'At first, I found the music I was making really hard to find a home for. I felt like my attitude was really British, but not the actual sounds I was making. Back in 2003, when I made \'Galang,\' there were no clubs that had an \'anything and everything\' attitude.',
-        'M.I.A.',
+    '58dab10e-333e-5653-b727-78b2cb6ce6f7' => [
+        'I make these little films. I\'m just a working person. I just study people a little bit more. It\'s more sociological, and it\'s funny anyway - not that serious. It\'s not like false humility. I just take it for what it is.',
+        'Julie Delpy',
     ],
-    [
-        'I would never deny the importance of the media, but I wouldn\'t go out of the way to splash my pictures all over town. I\'d rather let my work do the talking.',
-        'Amisha Patel',
+    '54ad3e41-7072-5c10-b28b-2d00b26e00a0' => [
+        'Every person gets negative things, they learn from those negative things, and you become a positive person.',
+        'Kapil Dev',
     ],
-    [
-        'Nature provides exceptions to every rule.',
-        'Margaret Fuller',
+    '9b345d4e-ae8a-5262-9514-4cac1efffb84' => [
+        'In the end, it\'s a mental maturity to let your best come out.',
+        'Lindsey Vonn',
     ],
-    [
-        'All travel has its advantages. If the passenger visits better countries, he may learn to improve his own. And if fortune carries him to worse, he may learn to enjoy it.',
-        'Samuel Johnson',
+    'c199187f-318a-5cdf-add1-51f44d2e1afe' => [
+        'You can make positive deposits in your own economy every day by reading and listening to powerful, positive, life-changing content and by associating with encouraging and hope-building people.',
+        'Zig Ziglar',
     ],
-    [
-        'The music I was really listening to in 1968 was James Brown, the great guitar player Jimi Hendrix, and a new group... Sly and the Family Stone, led by Sly Stewart from San Francisco.',
-        'Miles Davis',
+    '8de236d1-15b8-597a-8d39-d9ac73e2b2a5' => [
+        'Cheryl Cole and Katy Perry are two of the hottest girls in the world - and so normal and funny with it. If I was a few years older they are the kind of girls I\'d like to date. I want a younger version of Cheryl and Katy - a mixture of the two would be hot.',
+        'Justin Bieber',
     ],
-    [
-        'Americans are the most generous country on the planet. I\'ve worked in Europe, I\'ve worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.',
-        'Hugh Jackman',
+    'ddb3e8df-2962-5f7d-a585-dcc561ef3a78' => [
+        'Life is not a solo act. It\'s a huge collaboration, and we all need to assemble around us the people who care about us and support us in times of strife.',
+        'Charles Stanley',
     ],
-    [
-        'He was like a cock who thought the sun had risen to hear him crow.',
-        'George Eliot',
+    '1f075d0c-28ac-56b6-8a46-2af30afdd0ce' => [
+        'The distance between insanity and genius is measured only by success.',
+        'Bruce Feirstein',
     ],
-    [
-        'I get my best ideas in a thunderstorm. I have the power and majesty of nature on my side.',
-        'Ralph Steadman',
+    'b576cdf1-590b-5e02-b692-1db7ce855306' => [
+        'I\'m living my dream right now. I get to make music, perform and travel.',
+        'Ville Valo',
     ],
-    [
-        'Truth is powerful and it prevails.',
-        'Sojourner Truth',
+    'a8de228b-c223-5800-8599-d56d1ac1b634' => [
+        'If you are not too long, I will wait here for you all my life.',
+        'Jim Rohn',
     ],
-    [
-        'A manager is a guide. He takes a group of people and says, \'With you I can make us a success; I can show you the way.\'',
-        'Arsene Wenger',
+    'bc3cc21f-c43c-5c2f-8624-c43b51d9aac3' => [
+        'Travel is so important in its capacity to expand the mind. It\'s exciting to start as young as possible - you get to see how other cultures live, challenge your senses, and try different cuisines.',
+        'Natalie Dormer',
     ],
-    [
-        'I\'d be hard-pressed to think of anybody who\'s made me laugh, who\'s funny, but who\'s also relentlessly positive.',
-        'Dylan Moran',
+    '108be468-3da3-511a-968e-294be82c4569' => [
+        'There is nothing more corrupting, nothing more destructive of the noblest and finest feelings of our nature, than the exercise of unlimited power.',
+        'William Henry Harrison',
     ],
-    [
-        'If we want to travel into the future, we just need to go fast. Really fast. And I think the only way we\'re ever likely to do that is by going into space.',
-        'Stephen Hawking',
+    'eb1a697b-d4ca-575d-a69e-a7913ae36a33' => [
+        'If a little dreaming is dangerous, the cure for it is not to dream less but to dream more, to dream all the time.',
+        'Marcel Proust',
     ],
-    [
-        'It\'s toughest to forgive ourselves. So it\'s probably best to start with other people. It\'s almost like peeling an onion. Layer by layer, forgiving others, you really do get to the point where you can forgive yourself.',
-        'Patty Duke',
+    '81d61932-79fb-5ff1-a3ae-0a7bf03c2662' => [
+        'What contemptible scoundrel has stolen the cork to my lunch?',
+        'W. Clement Stone',
     ],
 ];

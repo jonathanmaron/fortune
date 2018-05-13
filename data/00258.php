@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'A person who has been punished is not less inclined to behave in a given way; at best, he learns how to avoid punishment.',
-        'B. F. Skinner',
+    '8a2b3c3d-4183-506c-a374-73b29347c00f' => [
+        'The beautiful seems right by force of beauty and the feeble wrong because of weakness.',
+        'Elizabeth Barrett Browning',
     ],
-    [
-        'If you die you\'re completely happy and your soul somewhere lives on. I\'m not afraid of dying. Total peace after death, becoming someone else is the best hope I\'ve got.',
-        'Kurt Cobain',
+    '922c040d-26ee-5073-869b-afef4f1879b1' => [
+        'Imagine all the people living life in peace. You may say I\'m a dreamer, but I\'m not the only one. I hope someday you\'ll join us, and the world will be as one.',
+        'Dalai Lama',
     ],
-    [
-        'The Republican Party - that was the end of the Republican Party. What Pete Wilson did with the xenophobia and the negative attitude, all this sort of anti-crime backlash.',
-        'Gavin Newsom',
+    '092a3772-daf1-5a28-a708-2c80b9e9ca70' => [
+        'Creativity is the ability to introduce order into the randomness of nature.',
+        'Eric Hoffer',
     ],
-    [
-        'If I were in the government, I would persuade the prime minister to see the beauty in the fact that people see Israel as a haven - from their sadness to their hope.',
-        'Elie Wiesel',
+    'ce4ee19b-4349-5646-abbf-25872eb4927c' => [
+        'Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.',
+        'Albert Einstein',
     ],
-    [
-        'It\'s important to know that words don\'t move mountains. Work, exacting work moves mountains.',
-        'Danilo Dolci',
+    'b3b5cafc-4b62-5038-bf29-02e02ba6d1f0' => [
+        'Having inner beauty is something you develop on your own, and I like to think I have that.',
+        'Cindy Margolis',
     ],
-    [
-        'I wanted to say thanks... and share my gratitude for everything I\'ve been blessed with. Family, friends, and continued support from everyone.',
-        'Travis Barker',
+    '1d064154-7f64-54ac-9175-6be6fd83e1e8' => [
+        'I love Motown, that whole era. Marvin Gaye, Smokey Robinson. I just put on Pandora, and put it on Motown, and it makes me smile; makes me smile so much.',
+        'Tika Sumpter',
     ],
-    [
-        'If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.',
-        'Bruce Lee',
+    '14b69c35-937b-5df3-aaeb-ff505ed55080' => [
+        'My soul can find no staircase to Heaven unless it be through Earth\'s loveliness.',
+        'Michelangelo',
     ],
-    [
-        'Strong women, when respected, make the whole society stronger. One must be careful with such rapid changes, though, and make an effort to preserve, at the same time, the positive traditions of Indian culture.',
-        'Chitra Banerjee Divakaruni',
+    'a17e7e00-a877-501c-b731-054d10a44d10' => [
+        'If life were predictable it would cease to be life, and be without flavor.',
+        'Jim Henson',
     ],
-    [
-        'I am positive that I would see the end of child labour around the world in my lifetime, as the poorest of the poor have realised that education is a tool that can empower them.',
-        'Kailash Satyarthi',
+    '6a6ccc7f-6796-50ce-b255-460c94a59b8e' => [
+        'It\'s great to be somewhat of a role model. I want to be a positive and good role model and lead by example and try to do the best I can. Playing good golf definitely draws attention, but I want to have a good attitude on the course and do the right things.',
+        'Rickie Fowler',
     ],
-    [
-        'Every particular in nature, a leaf, a drop, a crystal, a moment of time is related to the whole, and partakes of the perfection of the whole.',
-        'Ralph Waldo Emerson',
-    ],
-    [
-        'I have a good support system of friends and family.',
-        'Penny Marshall',
-    ],
-    [
-        'You give before you get.',
+    '3734eee8-a691-5ab7-b607-1d1a7027f81b' => [
+        'It is literally true that you can succeed best and quickest by helping others to succeed.',
         'Napoleon Hill',
     ],
-    [
-        'To get something you never had, you have to do something you never did.',
-        'Unknown',
+    '42392888-9c21-5460-8702-598993293a96' => [
+        '\'No one can make you successful; the will to success comes from within.\' I\'ve made this my motto. I\'ve internalized it to the point of understanding that the success of my actions and/or endeavors doesn\'t depend on anyone else, and that includes a possible failure.',
+        'Fabrizio Moreira',
     ],
-    [
-        'When you start hiding things away, that\'s when the darkness creeps up. Sunlight is the best disinfectant.',
-        'Steve Kazee',
+    '4745eef7-dc41-5988-bee7-3514a552f890' => [
+        'More than half of people who leave their jobs do so because of their relationship with their boss. Smart companies make certain their managers know how to balance being professional with being human. These are the bosses who celebrate an employee\'s success, empathize with those going through hard times, and challenge people, even when it hurts.',
+        'Travis Bradberry',
     ],
-    [
-        'Coming home to my family afterward makes the work richer, easier and more fun.',
-        'Edie Falco',
+    '6ab46629-aa41-5b30-af4c-503c01240ce1' => [
+        'I find human beings to be so complex and full of beauty. Creativity is our way to express and challenge and flow. So, all you humans, create and flow! I\'ll be over here thinking you are beautiful and creepy and freaky and wonderful!',
+        'Angela Bettis',
     ],
-    [
-        'I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.',
-        'Og Mandino',
+    'adfb8880-394a-59fc-9cf4-cca2c2f62af7' => [
+        'I have grown up but that should be a positive thing. When you look at a photo album it\'s lovely to remember being so young but it\'s also good to know you grew up!',
+        'Jenny Agutter',
     ],
-    [
-        'Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.',
-        'Jim Rohn',
+    '5fa4a486-0476-5113-99c5-2942cabfbbaa' => [
+        'I believe to be a leader is to enable others to embrace a vision, initiative or assignment in a way that they feel a sense of purpose, ownership, personal engagement, and common cause. I was very affected as a child by my father\'s positive example as a civic leader who inspired others to share his commitment to improving our community.',
+        'Melanne Verveer',
     ],
-    [
-        'A simple life is good with me. I don\'t need a whole lot. For me, a T-shirt, a pair of shorts, barefoot on a beach and I\'m happy.',
-        'John Dewey',
+    'c185e4c0-fddd-5117-9247-917c337d49b3' => [
+        'Tyga\'s one of my best friends ever, so it\'s so much fun to travel with him. I always like having my friends out on the road with me.',
+        'Kylie Jenner',
     ],
-    [
-        'Family and moral values are so central to everything that I am.',
-        'Marian Wright Edelman',
+    'aa51e8c9-82f7-53fe-a169-7d57100e49e3' => [
+        'Comfort is the enemy of achievement.',
+        'Farrah Gray',
     ],
-    [
-        'If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.',
-        'Thomas J. Watson',
+    '447d3737-a494-59da-9ada-513ca3c5aa04' => [
+        'The commonplace about Italian cooking is that it\'s very simple; in practice, the simplicity needs to be learned, and the best way to learn it is to go to Italy and see it firsthand.',
+        'Bill Buford',
     ],
-    [
-        'I would love a family. I\'m at the age where the wish for a child gets stronger. But who knows.',
-        'Cameron Diaz',
+    'fabe364a-a294-59f1-9035-3d8ade720f35' => [
+        'You know, there\'s nothing like seeing the smile on my kids\' faces. Laughing together. Playing. It\'s the best.',
+        'Mark Wahlberg',
     ],
-    [
-        'Watch your manner of speech if you wish to develop a peaceful state of mind. Start each day by affirming peaceful, contented and happy attitudes and your days will tend to be pleasant and successful.',
-        'Norman Vincent Peale',
+    '3268871e-492c-53d2-81fe-04f03b5d5936' => [
+        'It never ceases to amaze me that every second of every day, more than 6,000 billion neutrinos coming from nuclear reactions inside the sun whiz through my body, almost all of which will travel right through the earth without interruption.',
+        'Lawrence M. Krauss',
     ],
-    [
-        'I attribute my success to this: I never gave or took any excuse.',
-        'Florence Nightingale',
+    'b3e25a55-2665-5aad-98b8-44ec78ad3441' => [
+        'I just want to go in with the right attitude and from Day 1 make a difference.',
+        'Freddy Adu',
     ],
-    [
-        'Show me a smile, and I\'ll show you one back.',
-        'Vanilla Ice',
+    'c4f4260a-6459-5b4d-a0be-6cc7912d131b' => [
+        'When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another.',
+        'Helen Keller',
     ],
-    [
-        'A lot of people have their big dreams and get knocked down and don\'t have things go their way. And you never give up hope, and you really just hold on to it. Hard work and perserverance. You just keep getting up and getting up, and then you get that breakthrough.',
-        'Robert Kraft',
+    'e3f98168-0095-5539-b806-9540ba9c441e' => [
+        'I know why I am here and my only real focused goal is to live each day to the fullest and to try and honor God and be an encouragement to others. What the future holds is firmly in God\'s hands, and I am very happy about that!',
+        'Ken Hensley',
+    ],
+    '053b5066-8e90-54ea-a9c6-83627aab66aa' => [
+        'Our success in Singapore was a Herculean effort by the whole team. Now I am determined to deliver on all we promised. I will be watching like a hawk.',
+        'Sebastian Coe',
+    ],
+    '508d3722-d49a-5b34-a2d4-278a72fc7bc7' => [
+        'All this misjudgment that we have of each other is based on ignorance. The second you get to travel, you see that human beings, no matter where they come from, they are the same.',
+        'Marjane Satrapi',
     ],
 ];

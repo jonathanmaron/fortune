@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.',
-        'Audre Lorde',
+    '3ac34c53-44f1-5d2c-afd4-18725aceeb9f' => [
+        'I love the man that can smile in trouble, that can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but he whose heart is firm, and whose conscience approves his conduct, will pursue his principles unto death.',
+        'Thomas Paine',
     ],
-    [
-        'Success is not greedy, as people think, but insignificant. That is why it satisfies nobody.',
-        'Lucius Annaeus Seneca',
+    'f0618e9c-2071-5afc-834a-ce015a10f7df' => [
+        'What a book a devil\'s chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!',
+        'Charles Darwin',
     ],
-    [
-        'A lot of people think they should be happy all the time. But the writer understands you need both. You need the whole piano: the richness of the whole human experience. Depression, suffering and anger are all part of being human.',
-        'Janet Fitch',
+    '2b59d98f-1ec8-5f9e-ae3e-5f6d49b98ef3' => [
+        'When I used to wrestle professionally, I preferred being the bad guy known as \'The Heel;\' you would get to \'work the crowd,\' getting them to hate you and want to see you lose, while the good guy \'Babyface\' would walk in, smile and shake hands with a few kids, and his acting job was done.',
+        'Conan Stevens',
     ],
-    [
-        'Believe that life is worth living and your belief will help create the fact.',
-        'William James',
+    '733b7247-820c-5cfa-8487-69c7770e1454' => [
+        'Vanity, showing off, is an attitude that reduces spirituality to a worldly thing, which is the worst sin that could be committed in the church.',
+        'Pope Francis',
     ],
-    [
-        'This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.',
-        'Hannah Arendt',
+    'af31063d-b017-531d-869c-d988510ad435' => [
+        'I would probably work with Drake as he is massively inspirational to me as a writer as well as an artist. If not him, then Susan Boyle!',
+        'Conor Maynard',
     ],
-    [
-        'Chaos was the law of nature; Order was the dream of man.',
-        'Henry Adams',
+    '0a982177-cee1-5936-bc18-12e49882d1d5' => [
+        'Your ability to learn faster than your competition is your only sustainable competitive advantage.',
+        'Arie de Gues',
     ],
-    [
-        'It\'s a question of keeping one\'s eyes and ears open and watching how other people play the game. They\'re watching me too, to see what my attitude is like.',
-        'Charles Dance',
+    'bf2c082b-1a4c-5466-9726-14479f5e8bbc' => [
+        'To give pain is the tyranny; to make happy, the true empire of beauty.',
+        'Samuel Butler',
     ],
-    [
-        'These words dropped into my childish mind as if you should accidentally drop a ring into a deep well. I did not think of them much at the time, but there came a day in my life when the ring was fished up out of the well, good as new.',
-        'John Steinbeck',
+    'd21fd97f-3bf7-501f-aa6c-b19e53aba5d5' => [
+        'Liberty, taking the word in its concrete sense, consists in the ability to choose.',
+        'Simone Weil',
     ],
-    [
-        'Perhaps the greatest social service that can be rendered by anybody to the country and to mankind is to bring up a family.',
-        'George Bernard Shaw',
+    'f9aeb0c5-6d7d-56c2-9186-e7386a874413' => [
+        'Success is not a place at which one arrives but rather the spirit with which one undertakes and continues the journey.',
+        'Alex Noble',
     ],
-    [
-        'One of the most tragic things I know about human nature is that all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon instead of enjoying the roses that are blooming outside our windows today.',
-        'Dale Carnegie',
+    'e161c3b3-806d-5861-a0bf-d2f22c92f508' => [
+        'No man was ever wise by chance.',
+        'Seneca',
     ],
-    [
-        'This CD became something of a personal journey for me. The tone of the whole CD is uplifting and inspirational. It\'s an upper. We have enough downers in the world.',
-        'Roma Downey',
+    'fdda94d1-9194-541f-9170-74397e320dc6' => [
+        'Success is a nice by-product but what I really want is work.',
+        'Juliette Lewis',
     ],
-    [
-        'I want to travel. Maybe I\'ll end up living in Norway, making cakes.',
-        'Eva Green',
+    '9b7dc059-a655-5e42-a1c2-fe35ea8c8681' => [
+        'Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity.',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        'Never regret yesterday. Life is in you today and you make your tomorrow.',
-        'John Milton',
+    'ac2aae95-b57e-5738-8573-525f11408911' => [
+        'To us, family means putting your arms around each other and being there.',
+        'Barbara Bush',
     ],
-    [
-        'My best personality trait that I think I\'m very approachable. And my worst is that I can be moody.',
-        'Enrique Iglesias',
+    '3b9d1d08-988f-5e7f-ba1b-49343bdfb64f' => [
+        'The superfluous, a very necessary thing.',
+        'Voltaire',
     ],
-    [
-        'The key to education is the experience of beauty.',
-        'Friedrich Schiller',
+    'a16f44c9-fd69-51ea-9819-1649f4c9aa8f' => [
+        'Because of its phantom nature, and despite elaborate defense mechanisms, the ego is very vulnerable and insecure, and it sees itself as constantly under threat. This, by the way, is the case even if the ego is outwardly very confident.',
+        'Eckhart Tolle',
     ],
-    [
-        'One\'s appearance bespeaks dignity corresponding to the depth of his character. One\'s concentrated effort, serene attitude, taciturn air, courteous disposition, thoroughly polite bearing, gritted teeth with a piercing look - each of these reveals dignity. Such outward appearance, in short, comes from constant attentiveness and seriousness.',
-        'Yamamoto Tsunetomo',
+    '893e8a47-4f95-52c5-90aa-b0bab3ab7f2f' => [
+        'The manic pursuit of success cost me everything I could love: my wife, my three children, some friends I would have liked to grow old with.',
+        'Sammy Davis, Jr.',
     ],
-    [
-        'It takes 20 years to make an overnight success.',
-        'Eddie Cantor',
+    '59585bcb-14a8-5c12-a902-4ac591d424eb' => [
+        'I believe in persevering. If you persevere, success lies ahead of you.',
+        'Liu Yang',
     ],
-    [
-        'I see flaws as a kind of beauty.',
-        'Karan Mahajan',
+    'b53d873e-9260-5547-89d6-6b8e9c215f27' => [
+        'The things that one most wants to do are the things that are probably most worth doing.',
+        'Winifred Holtby',
     ],
-    [
-        'Never tell me the sky\'s the limit when there are footprints on the moon.',
-        'Unknown',
+    '4ef6a28a-2f37-5043-b2da-937a0a0c0224' => [
+        'I\'m a human, and I\'m multidimensional. If I was the perfect form of anything, I\'d be boring. If I was a free spirit all the time, I would be boring; I would lack depth. If I was dark and enigmatic all the time, then I would lack relatability.',
+        'Halsey',
     ],
-    [
-        'You build on failure. You use it as a stepping stone. Close the door on the past. You don\'t try to forget the mistakes, but you don\'t dwell on it. You don\'t let it have any of your energy, or any of your time, or any of your space.',
-        'Johnny Cash',
+    '6d0a06a3-147a-50d4-8b26-e5a108cc4d78' => [
+        'On Earth Day, we celebrate all the gifts the world and nature make available to us. We recognize our complete dependence on its bounty. And we acknowledge the need for good stewardship to preserve its fruits for future generations.',
+        'John Hoeven',
     ],
-    [
-        'Children learn to smile from their parents.',
-        'Shinichi Suzuki',
+    'ee6cb431-4e8f-5ca0-992d-37313be5358a' => [
+        'I feel that sin and evil are the negative part of you, and I think it\'s like a battery: you\'ve got to have the negative and the positive in order to be a complete person.',
+        'Dolly Parton',
     ],
-    [
-        'I spent a lot of time with a crown on my head.',
-        'Halle Berry',
+    'b9f6d922-8b15-5945-8139-30cb447aecd2' => [
+        'We can best help you to prevent war not by repeating your words and following your methods but by finding new words and creating new methods.',
+        'Virginia Woolf',
     ],
-    [
-        'This suspense is terrible. I hope it will last.',
-        'Oscar Wilde',
+    '7c9be5bd-95f7-5930-9ae8-85da98e9f148' => [
+        'The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.',
+        'Leonardo Ruiz',
     ],
-    [
-        'As I travel the world, it seems that younger people identify me merely with some of the folklore in the \'Chuck Norris Facts\' - those hyperbolic sayings that elevate my abilities beyond my capabilities. Others view me in light of the character I played in \'Walker, Texas Ranger\' or in one of my 20 tough-guy films.',
-        'Chuck Norris',
+    'ab959649-028e-5519-97a4-5bef630a83c4' => [
+        'Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.',
+        'Orison Marden',
     ],
-    [
-        'It\'s sometimes tiring to get off a long-haul flight and go straight to the studio for a shoot, but if you really plan everything well, you can get so much out of combining travel with work.',
-        'Alek Wek',
+    '7988431b-44c9-5a88-90e3-b807d12d6aa7' => [
+        'Where is there beauty when you see deprivation and starvation?',
+        'Rosalind Russell',
     ],
 ];

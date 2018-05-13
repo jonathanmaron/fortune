@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'So far as I am concerned, I could not be accused of having set eyes, or having wished to set eyes, upon Darius\' wife: on the contrary, I have refused even to listen to those who spoke to me of her beauty.',
-        'Alexander the Great',
+    'b6b794e5-a98e-5a96-a8c7-0275d46f5749' => [
+        'Life happens wherever you are, whether you make it or not.',
+        'Iroh',
     ],
-    [
-        'More power than all the success slogans ever penned by human hand is the realization for every man that he has but one boss. That boss is the man - he - himself.',
-        'Gabriel Heatter',
+    '338f76b9-7223-503a-ad0a-6135a1728a10' => [
+        'Just as you wouldn\'t leave the house without taking a shower, you shouldn\'t start the day without at least 10 minutes of sacred practice: prayer, meditation, inspirational reading.',
+        'Marianne Williamson',
     ],
-    [
-        'The supreme accomplishment is to blur the line between work and play.',
-        'Arnold J. Toynbee',
+    '9496e3cb-9cce-53cf-a196-05fcd7f4d833' => [
+        'Fact: From quitting smoking to skiing, we succeed to the degree we try, fail, and learn. Studies show that people who worry about mistakes shut down, but those who are relaxed about doing badly soon learn to do well. Success is built on failure.',
+        'Martha Beck',
     ],
-    [
-        'Social media has allowed groups, such as ISIL, to use the Internet to spot and assess potential recruits. With the widespread horizontal distribution of social media, terrorists can identify vulnerable individuals of all ages in the United States - spot, assess, recruit, and radicalize - either to travel or to conduct a homeland attack.',
-        'James Comey',
-    ],
-    [
-        'Music is the way I understand how to communicate now, the way that I\'ve learned how to communicate... but it will eventually have to go beyond that. You see, I\'ve realised that music is not what keeps people involved - it\'s the attitude behind the music.',
-        'Todd Rundgren',
-    ],
-    [
-        'Old age and the passage of time teach all things.',
-        'Sophocles',
-    ],
-    [
-        'Nobody ever drowned in his own sweat.',
-        'Ann Landers',
-    ],
-    [
-        'The only way to work is to love what you do.',
+    'ebf6352b-13e0-5aae-a155-f563036a8f3d' => [
+        'I think it\'s brought the world a lot closer together, and will continue to do that. There are downsides to everything; there are unintended consequences to everything. The most corrosive piece of technology that I\'ve ever seen is called television - but then, again, television, at its best, is magnificent.',
         'Steve Jobs',
     ],
-    [
-        'I wake up every day with a smile on my face.',
-        'Henry Ian Cusick',
+    'd34e6f3f-8b44-57e3-9c14-512ffc7b8174' => [
+        'Lose not yourself in a far off time, seize the moment that is thine.',
+        'Friedrich Schiller',
     ],
-    [
-        'I don\'t need you to remind me of my age. I have a bladder to do that for me.',
-        'Stephen Fry',
+    'ee32b139-4e06-595e-8b47-02e6691d2fa9' => [
+        'People shouldn\'t look at me and think life is one big piece of glamour. That\'s the marketing, the spin. Life is challenging. But I have courage, strength, and enough good health to see the positive.',
+        'Carmen Dell\'Orefice',
     ],
-    [
-        'Short as life is, we make it still shorter by the careless waste of time.',
-        'Victor Hugo',
+    'a3ab3fde-fdb1-5cda-9ebf-629a8303b233' => [
+        'The successful warrior is the average man, with laser-like focus.',
+        'Bruce Lee',
     ],
-    [
-        'No one can feel more gratefully the charm of noble scenery, or the refreshment of escape into the unspoiled solitudes of nature, than the laborer at some close in-door employment.',
-        'Lucy Larcom',
+    'a36ccef2-b8cf-53ee-bbe8-cfcf30b3b7d6' => [
+        'O Lord, help me to be pure, but not yet.',
+        'Saint Augustine',
     ],
-    [
-        'I think one of my first jokes - in the black community, there\'s people who have jokes about skin tone. People like, \'You so black, you purple.\' \'You so black, you gotta smile so we can see you at night.\'',
-        'Hannibal Buress',
+    '29becccf-4bff-5a40-be6c-6ec00b0f25fb' => [
+        'Everyone feels like family and I am back in the city that I love.',
+        'Chris Noth',
     ],
-    [
-        'Life is too short to be living somebody else\'s dream.',
-        'Henry Rollins',
+    '53dc5374-ade8-5f82-8700-0c6d905b2a7b' => [
+        'The great thing in life is efficiency. If you amount to anything in the world, your time is valuable, your energy precious. They are your success capital, and you cannot afford to heedlessly throw them away or trifle with them.',
+        'Orison Swett Marden',
     ],
-    [
-        'I know of no single formula for success. But over the years I have observed that some attributes of leadership are universal and are often about finding ways of encouraging people to combine their efforts, their talents, their insights, their enthusiasm and their inspiration to work together.',
-        'Queen Elizabeth II',
+    'd4e2be2d-2954-5469-abe5-cb07e6baabe0' => [
+        'The good life is a process, not a state of being. It is a direction not a destination.',
+        'Ryan Howard',
     ],
-    [
-        'In seed time learn, in harvest teach, in winter enjoy.',
-        'William Blake',
+    'ce81404a-2dd8-5dce-92e0-773d1977ae9f' => [
+        'Aaah, summer - that long anticipated stretch of lazy, lingering days, free of responsibility and rife with possibility. It\'s a time to hunt for insects, master handstands, practice swimming strokes, conquer trees, explore nooks and crannies, and make new friends.',
+        'Darell Hammond',
     ],
-    [
-        'Vanity can create a very cruel space for you if you don\'t know how to manage it.',
-        'Lady Gaga',
+    '2b1bb7e6-6896-54e3-aaba-bb92cf4d4a4d' => [
+        'I intend to live life, not just exist.',
+        'Brooke Shields',
     ],
-    [
-        'Why is it that scuba divers and surfers are some of the strongest advocates of ocean conservation? Because they\'ve spent time in and around the ocean, and they\'ve personally seen the beauty, the fragility, and even the degradation of our planet\'s blue heart.',
-        'Sylvia Earle',
+    '3ccc9dbe-8af4-5fa2-a388-4c1c5c07ea44' => [
+        'I\'ve got a woman\'s ability to stick to a job and get on with it when everyone else walks off and leaves it.',
+        'Margaret Thatcher',
     ],
-    [
-        'Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.',
-        'George Whitefield',
+    '26a4c649-d5a4-5e17-91e4-f84998afb8d7' => [
+        'I\'m not sure what the future holds but I do know that I\'m going to be positive and not wake up feeling desperate. As my dad said \'Nic, it is what it is, it\'s not what it should have been, not what it could have been, it is what it is.\'',
+        'Nicole Kidman',
     ],
-    [
-        'Youth is something I never wanna take for granted. I just want to smile and live life.',
-        'Tyler, The Creator',
+    '36ab42ea-3937-565a-8a2e-24d4dd51462e' => [
+        'Travel around the world is amazing. New people. New-found family, really.',
+        'Dhani Jones',
     ],
-    [
-        'I think that any time of great pain is a time of transformation, a fertile time to plant new seeds.',
-        'Debbie Ford',
+    'ea2152bd-a472-55d3-b730-9155c255a428' => [
+        'It is clear I was never the Pretty Girl. I had my two front teeth knocked out when I was 10 and didn\'t fix them until I was 19. I have a crooked smile and a nose that looks like it\'s been broken 12 times but never has been. My nose was always red, so people called me Rudolph. My whole face is off-center.',
+        'Ellen Barkin',
     ],
-    [
-        'I trust in nature for the stable laws of beauty and utility. Spring shall plant and autumn garner to the end of time.',
-        'Robert Browning',
+    '8e51ece9-2332-5d9f-a22f-ae2f78c5c1f5' => [
+        'The keys to brand success are self-definition, transparency, authenticity and accountability.',
+        'Simon Mainwaring',
     ],
-    [
-        'Imagination makes us aware of limitless possibilities. How many of us haven\'t pondered the concept of infinity or imagined the possibility of time travel? In one of her poems, Emily Bronte likens imagination to a constant companion, but I prefer to think of it as a built-in entertainment system.',
-        'Alexandra Adornetto',
+    'e8d72fce-6dad-516b-bebf-807c9857e32f' => [
+        'Allowing yourself to smile takes 99% of the effort.',
+        'Simon Travaglia',
     ],
-    [
-        'Free expression is the base of human rights, the root of human nature and the mother of truth. To kill free speech is to insult human rights, to stifle human nature and to suppress truth.',
-        'Liu Xiaobo',
+    'f1237151-fad5-5811-9382-aeb8447471c8' => [
+        'Truth is the daughter of time, not of authority.',
+        'Francis Bacon',
     ],
-    [
-        'I begin with an idea and then it becomes something else.',
-        'Pablo Picasso',
+    '9448c25f-89e2-565d-ae6d-e7446bbb675f' => [
+        'Leadership is about making the right decision and the best decision before, sometimes, it becomes entirely popular.',
+        'Martin O\'Malley',
+    ],
+    'd841c80c-a1b6-5787-9eab-952c96b6abd9' => [
+        'I don\'t like being choreographed to a T. I like to take steps and make them my own.',
+        'John Cameron Mitchell',
+    ],
+    'f9bce3b0-6c15-55de-916e-858d7fbaa6cb' => [
+        'I love getting dressed up in a suit because I don\'t do it all the time.',
+        'Jason Statham',
+    ],
+    '9aacc9b3-6a2b-5fc2-8701-1a89864b5804' => [
+        'The meat that I choose to feed my family, it\'s healthy meats such as lamb, which is very low in cholesterol and saturated fat. And then turkey - we eat a lot of turkey. We don\'t eat loads of beef.',
+        'Tia Mowry',
+    ],
+    '319098cc-d5af-58e0-b071-1ffe1829df10' => [
+        'For me, relationship is very important. I can lose money, but I cannot lose a relationship. The test is, at the end of a conversation or a negotiation, both must smile.',
+        'Sunil Mittal',
     ],
 ];

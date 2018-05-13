@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I need to be cheered up a lot. I think funny people are people who need to be cheered up.',
-        'Lynda Barry',
+    'b5f9ac73-fecc-5fd0-8cec-1bd99a8c48f6' => [
+        'Kids go to school and college and get through, but they don\'t seem to really care about using their minds. School doesn\'t have the kind of long term positive impact that it should.',
+        'Howard Gardner',
     ],
-    [
-        'If you\'re running around with a negative attitude all the time, you\'re going to feel down; you\'re going to have negative results.',
-        'Craig Sager',
+    '7f2675ff-29f5-5dfc-95aa-bc26d4e63e68' => [
+        'I\'m happy that the sacrificing, the hard training, the travel, the time being away from the family, is going to stop. So I\'m happy; I\'m glad about that. But I\'m also terrified. Frightened. Because, I mean, in my whole adult life, cycling was the most consistent thing I ever did.',
+        'Jens Voigt',
     ],
-    [
-        'I support concrete and progressive immigration reform based on three primary criteria: family reunification, economic contributions, and humanitarian concerns.',
-        'Jeff Bingaman',
+    'b82f9f53-d07c-52ff-93ac-03225cecf991' => [
+        'That\'s what I love from metal, and that\'s what I love from hip-hop. That\'s what I love from any music that\'s hard, that\'s got an edge to it-The attitude in it.',
+        'Kid Rock',
     ],
-    [
-        'People deal too much with the negative, with what is wrong. Why not try and see positive things, to just touch those things and make them bloom?',
-        'Nhat Hanh',
+    '673c41d7-8215-5822-9262-092aea4483ff' => [
+        'All action results from thought, so it is thoughts that matter.',
+        'Sai Baba',
     ],
-    [
-        'My definition, a definition in the drill books from the time that General Von Steuben wrote the regulations for General George Washington, the definition of the object of military training is success in battle... It wouldn\'t be any sense to have a military organization on the backs of the American taxpayers with any other definition.',
-        'Chesty Puller',
+    '3aabe052-e13f-55f4-ba05-ba2b33e0101b' => [
+        'It\'s time to end the cruel slaughter of whales and leave these magnificent creatures alone.',
+        'Paul McCartney',
     ],
-    [
-        'Know, first, who you are, and then adorn yourself accordingly.',
-        'Epictetus',
+    '06b9b4e8-6472-5093-afff-62bcb0895bec' => [
+        'Love what you do. There\'s always going to be someone else who\'s smarter than you, but there\'s no substitute for passion. People who are passionate always work the hardest, and that sets them apart.',
+        'Ivanka Trump',
     ],
-    [
-        'Patience is the best remedy for every trouble.',
-        'Plautus',
+    'ebb65c3b-8482-586f-ab33-a03c34c5a76c' => [
+        'When someone shows you who they are, believe them the first time.',
+        'Maya Angelou',
     ],
-    [
-        'With patient and firm determination, I am going to press on for jobs. I\'m going to press on for equality. I\'m going to press on for the sake of our children. I\'m going to press on for the sake of all those families who are struggling right now. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I am going to press on.',
-        'Barack Obama',
+    '9bbbf2d2-55e7-5c19-be4c-6e657e363b2d' => [
+        'Frisbeetarianism is the belief that when you die, your soul goes up on the roof and gets stuck.',
+        'George Carlin',
     ],
-    [
-        'I grew up in a family in which political issues were often discussed, and debated intensely.',
-        'Joseph Stiglitz',
+    '18ca339d-441c-588a-9bd7-06e88f20c537' => [
+        'What drives success, and the most successful students, is internal motivation.',
+        'Vivienne Ming',
     ],
-    [
-        'Earn your success based on service to others, not at the expense of others.',
-        'H. Jackson Brown, Jr.',
+    'cf2e56a5-e37b-5207-a29b-1973b9cb6efb' => [
+        'I\'ve just got a really bad smile. I go for the scowl instead.',
+        'Jason Statham',
     ],
-    [
-        'It\'s nice to just embrace the natural beauty within you.',
-        'Victoria Justice',
+    'ca39d231-fd4d-56a4-9ba0-a94e650f94fd' => [
+        'Punk was defined by an attitude rather than a musical style.',
+        'David Byrne',
     ],
-    [
-        'Academics, who work for long periods in a self-directed fashion, may be especially prone to putting things off: surveys suggest that the vast majority of college students procrastinate, and articles in the literature of procrastination often allude to the author\'s own problems with finishing the piece.',
-        'James Surowiecki',
+    '5d64c698-7f8b-5aa2-a237-16514ceab531' => [
+        'I need that aggressive attitude to play my music and more men have that attitude than women.',
+        'Lita Ford',
     ],
-    [
-        'We have to acknowledge that adolescence is that time of transition where we begin to introduce to children that life isn\'t pretty, that there are difficult things, there are hard situations, it\'s not fair. Bad things happen to good people.',
-        'Laurie Halse Anderson',
+    '98a924be-b670-5260-8353-4bd6a611947c' => [
+        'In this world, shipmates, sin that pays its way can travel freely, and without passport; whereas Virtue, if a pauper, is stopped at all frontiers.',
+        'Herman Melville',
     ],
-    [
-        'And when is there time to remember, to sift, to weigh, to estimate, to total?',
-        'Tillie Olsen',
+    'b12e273e-96fa-5714-a040-6ce4bccb0961' => [
+        'Life\'s blows cannot break a person whose spirit is warmed by the fire of enthusiasm.',
+        'Norman Vincent Peale',
     ],
-    [
-        'I played the violin my whole life. I wanted to play from the time I was just a little kid, and I\'ve always loved dance as well. I wanted to make people smile. I wanted to add an extra energy to my playing and make it visual and make it unique and fun.',
-        'Lindsey Stirling',
+    '6f500c4e-0d46-5961-8e83-de37c088ff9a' => [
+        'Not life, but good life, is to be chiefly valued.',
+        'Benjamin Franklin',
     ],
-    [
-        'Living in different cultures helped me work out who I was going to be, separate from where I came from.',
-        'Jacinda Barrett',
+    '07b84bc7-72ad-516d-a9e8-5c7ecf8adb70' => [
+        'Time travel used to be thought of as just science fiction, but Einstein\'s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.',
+        'Stephen Hawking',
     ],
-    [
-        'Great minds discuss ideas; average minds discuss events; small minds discuss people.',
-        'Eleanor Roosevelt',
+    'ddc60931-faf3-5177-9a20-9fbe95faffa0' => [
+        'I love Saturday nights with my best friend and a big bowl of pasta, wanting a good scare, something that will say, \'Listen, your life is not as bad as this. Your life can be so much worse.\'',
+        'Vera Farmiga',
     ],
-    [
-        'Teaching was the hardest work I had ever done, and it remains the hardest work I have done to date.',
-        'Ann Richards',
+    '7f2a172e-7f85-53ee-947e-d5f344c74b17' => [
+        'Honesty is the most single most important factor having a direct bearing on the final success of an individual, corporation, or product.',
+        'Ed McMahon',
     ],
-    [
-        'I discovered that the horse is life itself, a metaphor but also an example of life\'s mystery and unpredictability, of life\'s generosity and beauty, a worthy object of repeated and ever changing contemplation.',
-        'Jane Smiley',
+    '0bb51bde-1166-5f7e-a062-073adc0fcdfc' => [
+        '...but if a thing is humanly possible, consider it to be within your reach.',
+        'Marcus Aurelius',
     ],
-    [
-        'Work is about more than making a living, as vital as that is. It\'s fundamental to human dignity, to our sense of self-worth as useful, independent, free people.',
-        'William J. Clinton',
+    '4aff3076-fb64-5c59-a897-1619c76c907a' => [
+        'It\'s about having an active lifestyle, staying healthy, and making the right decisions. Life is about balance. Not everybody wants to run a marathon, but we could all start working out and being active, whether you walk to work or take an extra flight of stairs.',
+        'Apolo Ohno',
     ],
-    [
-        'I try to sign for as many kids as possible. Kids come first, and I\'ll always sign for a kid before an adult. It\'s funny, because I was never big into autographs as a kid. The only player who I ever wanted an autograph from was Dave Winfield.',
-        'Derek Jeter',
+    '9937c77b-ff2f-5445-892f-e2c1086c910a' => [
+        'Time and tide wait for no man.',
+        'Geoffrey Chaucer',
     ],
-    [
-        'The central conservative truth is that it is culture, not politics, that determines the success of a society. The central liberal truth is that politics can change a culture and save it from itself.',
-        'Daniel Patrick Moynihan',
+    'bee77d04-8b64-568b-9f20-3e82c961acf5' => [
+        'The catch phrase for the day is \'Do an act of kindness. Help one person smile.\'',
+        'Harvey Ball',
     ],
-    [
-        'Don\'t think of it as failure. Think of it as time-released success.',
-        'Robert Orben',
+    '930dfd91-890a-58a6-8335-7fc7a686e827' => [
+        'When a place gets crowded enough to require ID\'s, social collapse is not far away. It is time to go elsewhere. The best thing about space travel is that it made it possible to go elsewhere.',
+        'Robert A. Heinlein',
     ],
-    [
-        'I don\'t think I\'m yet peaceful because I have to struggle every day within myself when I see the suffering of the people of the world, the women and the children. And fury sets in. But I have to transform that and take it out and do something positive with it - but I have to do that sometimes minute to minute.',
-        'Betty Williams',
+    'f8083200-2006-5ea8-9056-74cf84c1ecdb' => [
+        'He who lives in harmony with himself lives in harmony with the world.',
+        'Marcus Aurelius',
     ],
-    [
-        'O human beauty, what a dream art thou, that we should cast our life and hopes away on thee!',
-        'Bryan Procter',
+    '92fe945c-609e-5a49-97eb-510a5e379da1' => [
+        'My favorite things in life don\'t cost any money. It\'s really clear that the most precious resource we all have is time.',
+        'Steve Jobs',
     ],
 ];

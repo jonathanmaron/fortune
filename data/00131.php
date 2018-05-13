@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'You and I are, by birth, by nature, and by choice, inwardly depraved, which is to say that we are entirely corrupt. That\'s not to say that we have no good in us; we do. However, anything good in us has been tainted with evil. It touches everything. Without the redeeming power of Christ we cannot halt our own moral slide.',
-        'Charles R. Swindoll',
+    'f01683a0-3d1a-5204-a066-c4bb8b4b6096' => [
+        'I\'m a huge sun baby. As soon as the sun comes out, my smile gets bigger, so I\'m constantly smiling in L.A. It\'s a fantastic place to be.',
+        'Ricky Whittle',
     ],
-    [
-        'The time to relax is when you don\'t have time for it.',
-        'Sydney J. Harris',
+    '66c621e9-ec68-57f1-b702-f06ee324b531' => [
+        'You have to train your brain to be positive just like you work out your body.',
+        'Shawn Achor',
     ],
-    [
-        'There is no limit to suffering human beings have been willing to inflict on others, no matter how innocent, no matter how young, and no matter how old. This fact must lead all reasonable human beings, that is, all human beings who take evidence seriously, to draw only one possible conclusion: Human nature is not basically good.',
-        'Dennis Prager',
+    'fef4c5c3-b3ea-5332-9120-f9b9e32dbe45' => [
+        'I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.',
+        'Leonardo da Vinci',
     ],
-    [
-        'Health is the thing that makes you feel that now is the best time of the year.',
-        'Franklin Pierce Adams',
+    '804cbdc7-b5e7-51c1-8346-3de94839e3b7' => [
+        'Most people are about as happy as they make up their minds to be',
+        'Abraham Lincoln',
     ],
-    [
-        'Beauty is in the eye of the beholder.',
-        'Oliver Platt',
+    '5272fdad-3b25-5769-8fd0-dc223c6e56e5' => [
+        'Our character is not so much the product of race and heredity as of those circumstances by which nature forms our habits, by which we are nurtured and live.',
+        'Marcus Tullius Cicero',
     ],
-    [
-        'I\'ve actually tried to roast somebody that I don\'t like, and it doesn\'t go well. Either they\'re a bad sport or I\'m not as funny as I could be.',
-        'Jeff Ross',
+    '29343530-38f5-58f1-b890-8721a101eb5b' => [
+        'In most things success depends on knowing how long it takes to succeed.',
+        'Charles de Montesquieu',
     ],
-    [
-        'Standards of beauty are arbitrary. Body shame exists only to the extent that our physiques don\'t match our own beliefs about how we should look.',
-        'Martha Beck',
+    '55d4cf9b-066b-5233-ab6a-a678af43c9aa' => [
+        'Jealousy is just love and hate at the same time.',
+        'Drake',
     ],
-    [
-        'I smile every time I hear that I\'m a fan favorite or a teenage hottie. It is a nice compliment, and the remarks from the fans are great.',
-        'Sean Berdy',
+    'afd180d0-5191-5ba9-b331-e8325b8d96e7' => [
+        'People ask what my influences are, and for me, it\'s not always obvious. One of my biggest inspirations was Chrissie Hynde from the Pretenders. That\'s based on how she just does whatever she wants to do, and I love her attitude about everything. It bleeds over into my way of thinking and comedy.',
+        'Tig Notaro',
     ],
-    [
-        'I do not share the half-in, half-out attitude to the EU of some in Britain. Britain\'s place is in Europe.',
-        'Peter Mandelson',
+    '8b680d3b-bf94-56d1-afd9-8b854c43e969' => [
+        'Virtually nothing is impossible in this world if you just put your mind to it and maintain a positive attitude.',
+        'Lou Holtz',
     ],
-    [
-        'We are a family that lives probably 90 percent on wild game. We\'re certainly working our way toward 100 percent self-sufficient. Looking to raise chickens for eggs, things of that nature, start a garden. We enjoy the simple life.',
-        'Shawn Michaels',
+    '74371786-82dd-5992-95cf-a5ece670fdfb' => [
+        'Canadians tend to be a bit more religious than most Europeans - though not more than the Poles or Ukrainians. Most important, their attitude to immigration and ethnic minorities is more positive than that of most Europeans.',
+        'Timothy Garton Ash',
     ],
-    [
-        'Vinyl is democratic, as surely as the iPod is fascist. Vinyl is representational: It has a face. Two faces, in fact, to represent the dualism of human nature. Vinyl occupies physical space honestly, proud as a fat woman dancing.',
-        'Adam Mansbach',
+    '22dd909b-2f7b-5b67-96c2-025ac29661e0' => [
+        'Success in life is founded upon attention to the small things rather than to the large things; to the every day things nearest to us rather than to the things that are remote and uncommon.',
+        'Booker T. Washington',
     ],
-    [
-        'We must enforce the laws we have on the books, secure our borders, and deny special benefits to illegal immigrants such as in-state tuition rates. This approach is best for American citizens and is fair to those who have taken the time and effort to go through the legal immigration process.',
-        'Ron DeSantis',
+    'cbdbc7e0-cb3d-59c3-90e4-e1f45b0a4d2e' => [
+        'Everything happens to everybody sooner or later if there is time enough.',
+        'George Bernard Shaw',
     ],
-    [
-        'I have been a frequent air traveler since I was a few months shy of my sixth birthday, when my parents packed me off to boarding school two plane rides away from home. Those days of being willingly handed from air hostess to air hostess as an \'unaccompanied minor\' made me blase about the rigors of air travel.',
-        'Shashi Tharoor',
+    'b5702583-7ce5-54d3-82d3-4e0b5da5f2ab' => [
+        'Nature abhors annihilation.',
+        'Marcus Tullius Cicero',
     ],
-    [
-        'Whenever you fall, pick something up.',
-        'Oswald Avery',
+    'f8a61a9c-e0e6-5034-9da7-371687483e65' => [
+        'I love sleep. My life has the tendency to fall apart when I\'m awake, you know?',
+        'Matt Cameron',
     ],
-    [
-        'A girl\'s best friend is her pride.',
-        'Vanity',
+    'd7bdf4e5-215e-52f9-b538-ede2b17af94c' => [
+        'It is the sweet, simple things of life which are the real ones after all.',
+        'Yanni',
     ],
-    [
-        'You shall, I question not, find a way to the top if you diligently seek for it; for nature hath placed nothing so high that it is out of the reach of industry and valor.',
-        'Alexander the Great',
+    'dc065cb2-7f3a-551c-b4e9-84cd4ff69059' => [
+        'A man should look for what is, and not for what he thinks should be.',
+        'Albert Einstein',
     ],
-    [
-        'The beauty of having short hair is that I actually can wash and style it at home!',
-        'Meagan Good',
+    'e2b1f6ce-6051-51d8-89fe-b657226c8e1e' => [
+        'I travel the world visiting global health programs as an ambassador for the global health organization, PSI, and sometimes the disconnect I see is truly striking: people can get cold Coca Cola, but far too infrequently malaria drugs; most own mobile phones, but don\'t have equal access to pre-natal care.',
+        'Mandy Moore',
     ],
-    [
-        'I don\'t want to be married to someone who feels inferior to my success or because I make more money than he does.',
-        'Grace Kelly',
+    '81c98eb3-8c42-5ad1-b907-9222b9cb75e8' => [
+        'Every time I look at you I get a fierce desire to be lonesome.',
+        'Oscar Levant',
     ],
-    [
-        'In chess one cannot control everything. Sometimes a game takes an unexpected turn, in which beauty begins to emerge. Both players are always instrumental in this.',
-        'Vladimir Kramnik',
+    'c302054a-e16e-5c0e-a700-8e6557210561' => [
+        'Whenever something negative happens to you, there is a deep lesson concealed within it.',
+        'Eckhart Tolle',
     ],
-    [
-        'Most of my arguments with musicians through the years have had more to do with their attitude about music, or their attitude about their own lives, or their personal responsibility. Music has never really been the big centerpiece of the fight.',
-        'Billy Corgan',
+    'da9d21d9-c46a-5415-839d-9cd9e66cd307' => [
+        'People who urge you to be realistic generally want you to accept their version of reality.',
+        'Unknown',
     ],
-    [
-        'If you have a dream, it\'s definitely achievable through hard work, through dedication, sacrifice, everything.',
-        'Carli Lloyd',
+    '246f9035-7395-5522-82ab-176f35fad417' => [
+        'He who has so little knowledge of human nature as to seek happiness by changing anything but his own disposition will waste his life in fruitless efforts.',
+        'Samuel Johnson',
     ],
-    [
-        'You can follow your favorite company or organization. You can also mix that in with your family and your social network and talk about all these interests in real time. That\'s the value, not the brand \'Twitter.\' Twitter just provides the venue for it.',
-        'Jack Dorsey',
+    '8bccde6a-0a23-5906-bff3-bd92820fb674' => [
+        'So much of what is best in us is bound up in our love of family, that it remains the measure of our stability because it measures our sense of loyalty. All other pacts of love or fear derive from it and are modeled upon it.',
+        'Haniel Long',
     ],
-    [
-        'People fall forward to success.',
-        'Mary Kay Ash',
+    '3db58c58-589f-5f0e-a595-3ca4897a999f' => [
+        'What troubles me is the Internet and the electronic technology revolution. Shyness is fueled in part by so many people spending huge amounts of time alone, isolated on e-mail, in chat rooms, which reduces their face-to-face contact with other people.',
+        'Philip Zimbardo',
     ],
-    [
-        'I read part of it all the way through.',
-        'Samuel Goldwyn',
+    '27434123-0d00-5e83-8e7b-3292af61734b' => [
+        'I must govern the clock, not be governed by it.',
+        'Golda Meir',
     ],
-    [
-        'Settings are obviously important - and as a writer, you have to respect what was real at the time of the story you\'re writing. But the real key to success lies in finding the right characters to carry that story.',
-        'Joan Lingard',
+    '233e7eec-6d1e-5f34-9819-631e20514509' => [
+        'Jeff Kinney is tall and has a great smile, but don\'t be fooled, he\'s as slick as they come. A real player. And how he came up with a book that appeals to kids ages 8-13 baffles me. He\'s an unbelievably kind man with a great family.',
+        'Rachael Harris',
     ],
 ];

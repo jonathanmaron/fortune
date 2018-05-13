@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The American culture promotes personal responsibility, the dignity of work, the value of education, the merit of service, devotion to a purpose greater than self, and at the foundation, the pre-eminence of family.',
-        'Mitt Romney',
+    'a67184aa-4e2d-5ce5-b8c3-d46ffc05890d' => [
+        'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
+        'Gabrielle Aplin',
     ],
-    [
-        'Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.',
-        'Mark Zuckerberg',
+    '1c62761a-e6f8-5bff-919b-438407559fe1' => [
+        'Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.',
+        'Amy Bloom',
     ],
-    [
-        'The last thing left in nature is the beauty of women.',
-        'Peter Beard',
+    '385a60bb-7e31-5404-add0-9c488de81f62' => [
+        'Work done by other people sounds easy. How hard can it be to take care of a newborn who sleeps 20 hours a day? How hard can it be to keep track of your billable hours? To travel for one night for business? To get a 4-year-old ready for school? To return a few phone calls? To load the dishwasher? To fill out some forms?',
+        'Gretchen Rubin',
     ],
-    [
-        'It\'s been a hard time to celebrate, to come out with a smile. But I\'m an American. Naomi asked me to come out to support other Americans, and here I am.',
-        'Angie Everhart',
+    'e2fc6e56-4259-56c9-ae2b-5c7a47179851' => [
+        'If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.',
+        'Margaret Thatcher',
     ],
-    [
-        'O man you are busy working for the world, and the world is busy trying to turn you out.',
-        'Abu Bakr',
+    'aee38a44-0fa0-54da-b962-3939532ed0ae' => [
+        'I love my wife and I know she loves me. We\'re best friends. We\'re just lucky to have found each other. It takes a lot of work but I just feel very blessed that I found the right person. It\'s a very fortunate situation and not everyone has that.',
+        'Harry Connick, Jr.',
     ],
-    [
-        'Life is too short not to celebrate nice moments!',
-        'Ralph Marston',
+    '21f71369-00e4-523d-a2f9-151ce91fc23f' => [
+        'Sex and beauty are inseparable, like life and consciousness. And the intelligence which goes with sex and beauty, and arises out of sex and beauty, is intuition.',
+        'D. H. Lawrence',
     ],
-    [
-        'If we study learning as a data science, we can reverse engineer the human brain and tailor learning techniques to maximize the chances of student success. This is the biggest revolution that could happen in education, turning it into a data-driven science, and not such a medieval set of rumors professors tend to carry on.',
-        'Sebastian Thrun',
+    '230a41bc-1ff7-5d42-b0b9-9e7323cbcf9d' => [
+        'I grew up very differently than a lot of other people in my hometown in Mississippi. But I can\'t imagine my life any other way. I flew home and surprised my best friend at his graduation, and I remember turning to my mom and saying, \'My graduation was so much cooler than this.\' I had Melissa Joan Hart give my commencement speech.',
+        'Friedrich Nietzsche',
     ],
-    [
-        'Well I do find the beauty in animals. I find beauty everywhere. I find beauty in my garden.',
-        'Doris Day',
+    '38805c45-2777-5302-aa88-d47dd11761e5' => [
+        'Life is fleeting, and permanence in this world is something we all strive for. The best way to achieve permanence is through philanthropy.',
+        'Ram Shriram',
     ],
-    [
-        'Virtue is not photogenic. What is it to be a nice guy? To be nothing, that\'s what. A big fat zero with a smile for everybody.',
-        'Kirk Douglas',
+    '994ce2e3-1ad9-5ad8-a200-0347b0c92e68' => [
+        'An ant on the move does more than a dozing ox',
+        'Lao Tzu',
     ],
-    [
-        'One of the key elements of human behavior is, humans have a greater fear of loss than enjoyment of success. All the academic studies will show you that the fear of loss of capital is far greater than the enjoyment of gains.',
-        'Laurence D. Fink',
+    '6c6112e0-2606-5a58-b02d-bd0d5489e64e' => [
+        'I think the success that I have is due to hard work and destiny. It is important to stay grounded and not take things for granted.',
+        'Alia Bhatt',
     ],
-    [
-        'It\'s how you deal with failure that determines how you achieve success.',
-        'Charlotte Whitton',
+    'c281960a-454e-5f9c-9570-47b2abee15a4' => [
+        'The railroads needed standardized time; as a result, the technology of train travel shaped the way everyone gets up, eats, goes to sleep, calculates age, and, perhaps of no small importance, imagine the world as a whole, ticking reliably, with reliable deviations, according to the beat of one central clock in a physical location.',
+        'Stacey D\'Erasmo',
     ],
-    [
-        'America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, even eaten with people who in America would have been considered \'white,\' but the \'white\' attitude had been removed from their minds by the religion of Islam.',
-        'Malcolm X',
+    'cbefaf19-c98e-5959-91dd-f006d62e27da' => [
+        'If the doors of perception were cleansed everything would appear to man as it is, infinite.',
+        'William Blake',
     ],
-    [
-        'If you are fearful, a horse will back off. If you are calm and confident, it will come forward. For those who are often flattered or feared, the horse can be a welcome mirror of the best in human nature.',
-        'Clare Balding',
+    'd5226816-f6a5-5180-ae41-bda58ff0b15f' => [
+        'The future rewards those who press on. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I\'m going to press on.',
+        'Barack Obama',
     ],
-    [
-        'If there is no struggle, there is no progress.',
-        'Frederick Douglass',
+    'eda377ef-4677-5895-97d2-59e85cd649e8' => [
+        'The greatest discovery of all time is that a person can change his future by merely changing his attitude.',
+        'Oprah Winfrey',
     ],
-    [
-        'When human judgment and big data intersect there are some funny things that happen.',
-        'Nate Silver',
+    'ca6a62e1-75ec-55de-963e-70f64c945909' => [
+        'The funny thing about insane people is that it is kind of the opposite of being a celebrity. Nobody envies you.',
+        'Robert M. Pirsig',
     ],
-    [
-        'While it is desirable to build up the colored race, we must not sacrifice our best and purest white friends.',
-        'Hiram Rhodes Revels',
+    '66630353-8b45-5ca5-916d-3a8edfb812f8' => [
+        'I always feel like it\'s two key ingredients when it comes to following your dreams, making something happen that the average person deems difficult. If you truly believe it, that\'s step one. Step two, is, you know, the hard work that goes along with it.',
+        'J. Cole',
     ],
-    [
-        'Nature, to be commanded, must be obeyed.',
-        'Francis Bacon',
+    '53ed62b7-7f8a-5f0f-8aae-33f4b8143b1f' => [
+        'I am fully aware that everybody has a right to succeed, and success should be with ethics.',
+        'Sharad Pawar',
     ],
-    [
-        'Purity and simplicity are the two wings with which man soars above the earth and all temporary nature.',
-        'Thomas a Kempis',
+    '0a54a177-6746-52c1-8cfa-a345317d04a7' => [
+        'Nothing exists except atoms and empty space; everything else is just opinion.',
+        'Democritus',
     ],
-    [
-        'When I go on Japanese Airlines, I really love it because I like Japanese food.',
-        'Phil Collins',
+    '679e8b8e-226d-5662-876f-cc7d31c4bdf0' => [
+        'The boundary between what can be and your life, is your ideas',
+        'Pat Waldron',
     ],
-    [
-        'The spirit of L.A. is untamed wilderness. It\'s earthquakes and wildfires and oceans and mountain lions and fog. There\'s great physical beauty.',
-        'Dan Gilroy',
+    '6c2d3cdd-b02d-5f11-a726-339ec6a3cb29' => [
+        'Every year, I travel extensively in the autumn and the spring. I set most of the winter and summer aside for my family and my own tribal relatives. But during that traveling time, I often find myself visiting other native communities around the continent - perhaps a dozen or more each year.',
+        'Joseph Bruchac',
     ],
-    [
-        'I think my family needs me more than anybody else, and tennis doesn\'t need me anymore. I respect my wife a lot for taking all that in. She said, \'I didn\'t marry a tennis player; you\'d retired.\' Now it\'s time to do something else.',
-        'Thomas Muster',
+    '237b3858-216a-5e9b-a85d-14b0e890d6b4' => [
+        'People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.',
+        'Rob Siltanen',
     ],
-    [
-        'The turning point was when I hit my 30th birthday. I thought, if really want to write, it\'s time to start. I picked up the book How to Write a Novel in 90 Days. The author said to just write three pages a day, and I figured, I can do this. I never got past Page 3 of that book.',
-        'James Rollins',
+    'c57ffce9-c447-598c-b6c5-cbd6bb91add0' => [
+        'Our situation today shows that beauty demands for itself at least as much courage and decision as do truth and goodness, and she will not allow herself to be separated and banned from her two sisters without taking them along with herself in an act of mysterious vengeance.',
+        'Hans Urs von Balthasar',
     ],
-    [
-        'A theatre, a literature, an artistic expression that does not speak for its own time has no relevance.',
-        'Dario Fo',
+    'c5e0408c-0825-5c8d-8dae-76782cc8de9b' => [
+        'You shouldn\'t get too close to the truth, because then maybe you stop being funny.',
+        'Bob Newhart',
     ],
-    [
-        'Nature never breaks her own laws.',
-        'Leonardo da Vinci',
+    '8e8168fd-4216-59e2-adb5-08c585548c2f' => [
+        'I\'ve had a lot of success; I\'ve had failures, so I learn from the failure.',
+        'Gordon Ramsay',
     ],
-    [
-        'Success is not the result of spontaneous combustion. You must set yourself on fire.',
-        'Reggie Leach',
+    'daa2520a-c421-5984-9124-2f6cd88c2eae' => [
+        'To this day, just always treat people the way you want to be treated. Whether it\'s family or friends or co-workers, I think it\'s the most important thing. Whether you have success or don\'t have it, whether you\'re a good person is all that matters.',
+        'Brenda Song',
     ],
 ];

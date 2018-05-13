@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.',
-        'Immanuel Kant',
+    'd4628516-736b-505b-9a84-25142ea71dce' => [
+        'Each person is an enigma. You\'re a puzzle not only to yourself but also to everyone else, and the great mystery of our time is how we penetrate this puzzle.',
+        'Theodore Zeldin',
     ],
-    [
-        'Make the best use of what is in your power, and take the rest as it happens.',
-        'Epictetus',
+    '67bd70d3-495e-54fd-81f8-3547f114a811' => [
+        'The only way to keep your health is to eat what you don\'t want, drink what you don\'t like, and do what you\'d rather not',
+        'Mark Twain',
     ],
-    [
-        'Change can be frightening, and the temptation is often to resist it. But change almost always provides opportunities - to learn new things, to rethink tired processes, and to improve the way we work.',
-        'Klaus Schwab',
+    'e376388b-224f-5330-8803-36b8681eaee1' => [
+        'People repeat behaviour that leads to flooding their brains with pleasurable chemicals. The short-term reward loop acts over hours to years, and the long-term reproductive success loop over generations.',
+        'Keith Henson',
     ],
-    [
-        'Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.',
-        'Jules Renard',
+    '03108cd8-b852-51b7-bd36-a30e64444f39' => [
+        'Best thing that\'s happened this year? Maybe Hostel. It was a great experience. I loved it.',
+        'Jay Hernandez',
     ],
-    [
-        'If you go through life, and you don\'t find the beauty in an unexpected place, then you really have a sad existence.',
-        'Octavia Spencer',
+    'bba5991c-0923-57ff-8162-d0c702cec191' => [
+        'I have learned that acting is not about beauty.',
+        'Vincent Cassel',
     ],
-    [
-        'Be faithful to that which exists within yourself.',
-        'Andre Gide',
+    '3a964d1b-31c7-5841-b1d7-7197e804e099' => [
+        'My mom loved fashion. We loved to travel and go to Italy and Paris.',
+        'Melania Trump',
     ],
-    [
-        'The world of reality has its limits; the world of imagination is boundless.',
-        'Jean-Jacques Rousseau',
+    '3226cf82-63b7-51b2-8e92-39e1e1e5e29e' => [
+        'To want to be what one can be is purpose in life.',
+        'Cynthia Ozick',
     ],
-    [
-        'God has already done everything He\'s going to do. The ball is now in your court. If you want success, if you want wisdom, if you want to be prosperous and healthy, you\'re going to have to do more than meditate and believe; you must boldly declare words of faith and victory over yourself and your family.',
-        'Joel Osteen',
+    '72374a9e-f170-5497-85f2-bb777dca7422' => [
+        'I\'ve never liked my smile, you see. I should have had braces as a kid, but I was too proud and too vain. And I didn\'t want to be bullied at school.',
+        'Ricky Whittle',
     ],
-    [
-        'Who we are never changes. Who we think we are does.',
-        'Mary Almanac',
+    '39f306b4-9a78-5a27-b9d0-2ae3cafceb8e' => [
+        'Time will pass and seasons will come and go.',
+        'Roy Bean',
     ],
-    [
-        'Kind words do not cost much. Yet they accomplish much.',
-        'Blaise Pascal',
+    '5586596a-e439-5aac-97f9-80e22a5e690d' => [
+        'I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.',
+        'Lao Tzu',
     ],
-    [
-        'Family is the most important thing in the world.',
-        'Princess Diana',
+    '7166f53c-a174-550f-a499-6aa8506f43f2' => [
+        'I think our family motto is to always work hard, be humble, kind, and thoughtful about others around us.',
+        'Anwar Hadid',
     ],
-    [
-        'Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.',
-        'John Kennedy',
+    'f2ce0d82-1806-59a8-8638-8d9dc2ff2174' => [
+        'We think of stars as celestial beings. And once in a while, they smile at us from the pages of \'People\' magazine.',
+        'A. E. Hotchner',
     ],
-    [
-        'Space travel is the only technology that is more dangerous and more expensive now than it was in its first year. Fifty years after Yuri Gagarin, the space shuttle ended up being more dangerous and more expensive to fly than those first throwaway rockets, even though large portions of it were reusable. It\'s absurd.',
-        'Burt Rutan',
+    '349a05b5-3132-50f2-b274-bfc79b01a360' => [
+        'This evening I wish to suggest that we Christians should accompany people on their pilgrimages. Specifically we should travel with people as they search for the good, the true and the beautiful.',
+        'Timothy Radcliffe',
     ],
-    [
-        'Love is a portion of the soul itself, and it is of the same nature as the celestial breathing of the atmosphere of paradise.',
-        'Victor Hugo',
+    '251cfd1f-2e8d-5bec-ac8d-3148733415e0' => [
+        'When a small child, I thought that success spelled happiness. I was wrong, happiness is like a butterfly which appears and delights us for one brief moment, but soon flits away.',
+        'Anna Pavlova',
     ],
-    [
-        'Enhance and intensify one\'s vision of that synthesis of truth and beauty which is the highest and deepest reality.',
-        'Ovid',
+    '67915c08-6e3b-5476-bd5c-ce6bc701e265' => [
+        'Between two evils, I always pick the one I never tried before.',
+        'Mae West',
     ],
-    [
-        'I coach soccer, and my wife and I are very involved in our kids\' lives. Our family is busy with doctor appointments, soccer practice, school, work, travel, vacation... life.',
-        'Patrick Lencioni',
+    '27425470-6f56-5898-af0a-e4181541756f' => [
+        'Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.',
+        'Robert H. Schuller',
     ],
-    [
-        'Wicked people are always surprised to find ability in those that are good.',
-        'Marquis Vauvenargues',
+    'd9f7b372-80f7-5304-a641-3ea281a20dc9' => [
+        'Hard work always pays off, whatever you do.',
+        'Dustin Lynch',
     ],
-    [
-        'The best place to find a helping hand is at the end of your own arm.',
-        'Unknown',
+    'eae49c4f-e161-5fec-b938-d9b3c0214a74' => [
+        'The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.',
+        'George Shaw',
     ],
-    [
-        'Do something you really like, and hopefully it pays the rent. As far as I\'m concerned, that\'s success.',
-        'Tom Petty',
+    'e9b96cef-a9a3-52b1-848c-5013ae0a4dd8' => [
+        'Meditation is all about the pursuit of nothingness. It\'s like the ultimate rest. It\'s better than the best sleep you\'ve ever had. It\'s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.',
+        'Hugh Jackman',
     ],
-    [
-        'People have often asked if I\'m gay because I don\'t go out of my way to spit and scratch and give people attitude.',
-        'Jason Bateman',
+    'bf11bb7e-fd8e-533f-a687-b7926c702fff' => [
+        'Probably the first time I left Italy was to travel by train to Lourdes. I went with my mother and my grandmother - who was a very religious person - so it was a pilgrimage of sorts. I remember it as a very intense, but beautiful experience.',
+        'Andrea Bocelli',
     ],
-    [
-        'Women are so unforgiving of themselves. We don\'t recognize our own beauty because we\'re too busy comparing ourselves to other people.',
-        'Kelly Osbourne',
+    '917b154a-d0b4-54ab-b6d7-09012656d27b' => [
+        'Cultivation of mind should be the ultimate aim of human existence.',
+        'B. R. Ambedkar',
     ],
-    [
-        'There is nothing happens to any person but what was in his power to go through with.',
-        'Marcus Aurelius',
+    '6c083955-1bda-5a52-a837-89b3ccd30b1c' => [
+        'So I feel like success is opportunity plus preparation, so work begets work, and as long as you\'re prepared it\'s going to continue to come your way.',
+        'Anthony Mackie',
     ],
-    [
-        'Reykjavik has a mixture of southern and northern mentality. There\'s a laid-back, relaxed attitude but also the feeling things are going to get done.',
-        'John Grant',
+    '903e2e0f-8aa9-5ab5-bed7-5fbef23d2afc' => [
+        'Obedience brings success; exact obedience brings miracles.',
+        'Russell M. Nelson',
     ],
-    [
-        'There\'s a way to do it better - find it.',
-        'Thomas A. Edison',
+    '956771f4-d410-52f5-a7a3-45c46f4584bd' => [
+        'When I had money in the past, I would always travel rather than spend it on big apartments or cars. And I still feel exactly the same way.',
+        'Robin Wright',
     ],
-    [
-        'I see fighters make funny videos about me and stick them on Facebook and get 20 likes. When I make a video, I sell it to Fox and make seven figures. That\'s the difference.',
-        'Conor McGregor',
+    'b8af439a-68d2-5f06-8a19-215db16c144b' => [
+        'I\'m doing a pilot for Comedy Central with the band Steel Panther. They\'re faux heavy metal. They started as kind of a tribute band out here, or a cover band, and they\'re funny guys, and they just sort of morphed into their own thing.',
+        'Brian Posehn',
     ],
 ];

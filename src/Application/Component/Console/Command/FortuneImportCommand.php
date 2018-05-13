@@ -4,6 +4,7 @@ namespace Application\Component\Console\Command;
 
 use Application\Component\Finder\Finder;
 use Application\Exception\RuntimeException;
+use Ramsey\Uuid\Uuid;
 use Symfony\Component\Console\Command\LockableTrait;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
@@ -12,7 +13,7 @@ use Symfony\Component\Filesystem\Filesystem;
 
 class FortuneImportCommand extends AbstractCommand
 {
-    const QUOTATIONS_PER_FILE = 25;
+    const FORTUNES_PER_FILE = 25;
 
     use LockableTrait;
 
@@ -52,37 +53,55 @@ class FortuneImportCommand extends AbstractCommand
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $filesystem = new Filesystem();
-
         $inputPath = $input->getOption('input-path');
         $inputPath = realpath($inputPath);
 
-        $quotations = $this->getQuotations($inputPath);
+        $outputPath = $this->getFortune()->getPath();
+        $outputPath = realpath($outputPath);
 
-        if (0 === count($quotations)) {
+        $newFortunes = $this->getNewFortunes($inputPath);
+        $curFortunes = $this->getFortune()->getFortunes();
+
+        $counter = 0;
+
+        if (0 === count($newFortunes)) {
             throw new RuntimeException('There are no quotations to process');
         }
 
-        $outputPath = $this->getFortune()->getPath();
+        foreach ($newFortunes as $newFortune) {
+            $uuid = $this->uuid($newFortune[0]);
+            if (array_key_exists($uuid, $curFortunes)) {
+                continue;
+            }
+            $curFortunes[$uuid] = [
+                $newFortune[0],
+                $newFortune[1],
+            ];
+            $counter++;
+        }
 
-        $filesystem->remove($outputPath);
-        $filesystem->mkdir($outputPath);
+        $chunks = array_chunk($curFortunes, self::FORTUNES_PER_FILE, true);
 
-        shuffle($quotations);
+        $this->write($outputPath, $chunks);
 
-        $chunks = array_chunk($quotations, self::QUOTATIONS_PER_FILE);
+        $line = sprintf('Added %d new %s.', $counter, (1 === $counter) ? 'fortune' : 'fortunes');
+        $output->writeln($line);
+
+        return $this;
+    }
+
+    private function write($path, $chunks)
+    {
+        $filesystem = new Filesystem();
 
         foreach ($chunks as $key => $chunk) {
 
             $phpString = $this->getPhpEncoder()->encode($chunk);
 
-            $filename = sprintf("%s/%'.05d.php", $outputPath, $key + 1);
+            $filename = sprintf("%s/%'.05d.php", $path, $key + 1);
             $data     = sprintf("<?php\n\nreturn %s;\n", $phpString);
 
             $filesystem->dumpFile($filename, $data);
-
-            $line = sprintf("Written to %s.", realpath($filename));
-            $output->writeln($line);
         }
 
         return $this;
@@ -96,15 +115,16 @@ class FortuneImportCommand extends AbstractCommand
         return $string;
     }
 
-    private function getHash($quote)
+    private function uuid($quote)
     {
         $quote = strtolower($quote);
-        $hash  = hash('sha256', $quote);
 
-        return $hash;
+        $uuid = Uuid::uuid5(Uuid::NAMESPACE_DNS, $quote)->toString();
+
+        return $uuid;
     }
 
-    private function getQuotations($inputPath)
+    private function getNewFortunes($inputPath)
     {
         $ret = [];
 
@@ -114,25 +134,28 @@ class FortuneImportCommand extends AbstractCommand
             $json  = file_get_contents($fileInfo->getPathname());
             $array = json_decode($json, true);
             foreach ($array as $record) {
-                $key    = $this->getHash($record['quoteText']);
+
                 $quote  = $this->normalize($record['quoteText']);
                 $author = $this->normalize($record['quoteAuthor']);
-                if (empty($quote)) {
+                $uuid   = $this->uuid($quote);
+                if (array_key_exists($uuid, $ret)) {
                     continue;
                 }
-                if (isset($ret[$key])) {
+                if (empty($quote)) {
                     continue;
                 }
                 if (empty($author)) {
                     $author = 'Unknown';
                 }
-                $ret[$key] = [
+                $ret[$uuid] = [
                     $quote,
                     $author,
                     //strlen($quote),
                 ];
             }
         }
+
+        shuffle($ret);
 
         return $ret;
     }

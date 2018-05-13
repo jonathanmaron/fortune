@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I have wandered all my life, and I have also traveled; the difference between the two being this, that we wander for distraction, but we travel for fulfillment.',
-        'Hilaire Belloc',
+    '130e45ac-4256-526d-ad8f-60a3dbc62afb' => [
+        'Say and do something positive that will help the situation; it doesn\'t take any brains to complain.',
+        'Robert A. Cook',
     ],
-    [
-        'It takes a long time for a man to look like his portrait.',
-        'James Whistler',
+    'a56c8acc-3cf7-58fb-bd24-ad9f8c6213ee' => [
+        'I love my family, even as I critique their dysfunctionalities.',
+        'bell hooks',
     ],
-    [
-        'What\'s amazing is, if young people understood how doing well in school makes the rest of their life so much interesting, they would be more motivated. It\'s so far away in time that they can\'t appreciate what it means for their whole life.',
-        'Bill Gates',
+    '6339025b-8070-58f0-aa6a-cb3498719319' => [
+        'The longer I live, the more I feel that the individual is not so much to blame - not even the worst individuals, not even the \'best\' citizens - as the system of corruption which has grown up about us, and which rewards an honest man with a mere living and a crook with all the magnificence of our magnificent modern life.',
+        'Lincoln Steffens',
     ],
-    [
-        'I hate going to L.A. and dealing with the contempt people have for television and television actors. It\'s unbelievable the kind of attitude people take toward what is the most exciting medium we\'ve got right now.',
-        'Michael Moriarty',
+    '7faf985f-3a4a-50ad-81f1-227b5a68e111' => [
+        'I collect all the reviews of the films I turned down. And when they\'re bad - I have to smile.',
+        'Simone Signoret',
     ],
-    [
-        'The mountains are calling and I must go.',
-        'John Muir',
+    'a432cdbd-7d79-596e-b7db-09e93cf1ceeb' => [
+        'Growth itself contains the germ of happiness.',
+        'Pearl Buck',
     ],
-    [
-        'I am a Piscean, and they have a lovingly detached attitude towards life.',
-        'Shahid Kapoor',
+    '38f1f94b-2aa8-5be9-8d06-a81778360a90' => [
+        'It is odd that we have so little relationship with nature, with the insects and the leaping frog and the owl that hoots among the hills calling for its mate. We never seem to have a feeling for all living things on the earth.',
+        'Jiddu Krishnamurti',
     ],
-    [
-        'Formula for success: rise early, work hard, strike oil.',
-        'J. Paul Getty',
+    'a904210a-7e48-513b-9f55-dbcef6287487' => [
+        'Nothing succeeds like success.',
+        'Alexandre Dumas',
     ],
-    [
-        'I believe everything negative that happens in your life is for a positive reason. If your heart breaks, you know that you are a human being and it happens. But you can\'t mope over it. There\'s only one life. You better get on ahead and fast. Fast enough not to let your past ever catch up with you.',
-        'Bipasha Basu',
+    '52484581-a513-5983-a6f4-a0b24c4ad7d3' => [
+        'Noble deeds that are concealed are most esteemed.',
+        'Blaise Pascal',
     ],
-    [
-        'Chaos and Order are not enemies, only opposites.',
-        'Richard Garriott',
+    '86db003c-3fee-5589-af6a-b73753e26e4f' => [
+        'Life is like riding a bicycle. To keep your balance, you must keep moving.',
+        'Ayn Rand',
     ],
-    [
-        "He understood well enough how a man with a choice between pride and responsibility will almost always choose pride\u{2014}if responsibility robs him of his manhood.",
-        'Stephen King',
+    '5a2708ca-92a5-5af9-8a34-e0007c985c91' => [
+        'New York is the great stone desert.',
+        'Israel Zangwill',
     ],
-    [
-        'Aaah, summer - that long anticipated stretch of lazy, lingering days, free of responsibility and rife with possibility. It\'s a time to hunt for insects, master handstands, practice swimming strokes, conquer trees, explore nooks and crannies, and make new friends.',
-        'Darell Hammond',
+    'e54aa5fb-3f8a-5bdb-9add-d21a1e45d641' => [
+        'It\'s when children are 15, 16 or 17 that they decide whether they want to be a doctor, an engineer, a politician or go to the Mars or moon. That is the time they start having a dream, and that\'s the time you can work on them. You can help them shape their dreams.',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        'The preparation is what allows the success to happen naturally.',
-        'Jake Arrieta',
+    '8577c74d-55ff-56fe-a5e1-87a5d20fef21' => [
+        'I always said punk was an attitude. It was never about having a Mohican haircut or wearing a ripped T-shirt. It was all about destruction, and the creative potential within that.',
+        'Malcolm Mclaren',
     ],
-    [
-        'I was stupid when I started: the epitome of bright-eyed and bushy-tailed. It was like, \'I get to live in L.A. and drive around in limos? Really?\' I didn\'t realize I was owned. The more money gets pumped into you, the more you become a marionette. It made me a true redneck in attitude: I never wanted to wake up ever again feeling owned.',
-        'Al Jourgensen',
+    '872ba300-b71c-5283-a1ec-0ac2854be019' => [
+        'The world has become more complex as technology and easy travel mixes cultures without homogenizing them.',
+        'Norman Spinrad',
     ],
-    [
-        'The self is not something ready-made, but something in continuous formation through choice of action.',
-        'John Dewey',
+    'f6468fa3-c7bc-5844-9cad-f154865d1ee4' => [
+        'I thought I was going to be killed. The casualties were so heavy, it was just a given. I learned to take each day, each mission, as it came. That\'s an attitude I\'ve carried into my professional life. I take each case, each job, as it comes.',
+        'Elliot Richardson',
     ],
-    [
-        'Family\'s first, and that\'s what matters most. We realize that our love goes deeper than the tennis game.',
-        'Serena Williams',
+    '7f677f91-ee16-52ff-a386-0e16bb336efa' => [
+        'Kind words will unlock an iron door.',
+        'Turkish proverb',
     ],
-    [
-        'No man can succeed in a line of endeavor which he does not like.',
-        'Napoleon Hill',
+    'e01ae53d-39e7-5c81-bc12-c6d0663c2442' => [
+        'I don\'t think anyone should write their autobiography until after they\'re dead.',
+        'Samuel Goldwyn',
     ],
-    [
-        'When you give as a family, not only are you sharing the happiness that giving brings you by watching it translate into positive change, but you are also transmitting your giving values to your children by engaging them in the giving process itself.',
-        'Laura Arrillaga-Andreessen',
+    '868d9c8e-8bcc-559e-939b-2998c3f193d8' => [
+        'There is no standing still because time is moving forward.',
+        'Greg Lake',
     ],
-    [
-        'Wisdom is the reward you get for a lifetime of listening when you\'d have preferred to talk.',
-        'Doug Larson',
+    '22f75690-214b-5bba-b4dd-2c648a10c4ca' => [
+        'Salem houses present to you a serene and dignified front, gracious yet reserved, not thrusting forward their choicest treasures to the eyes of passing strangers; but behind the walls of the houses, enclosed from public view, lie cherished gardens, full of the beauty of life.',
+        'Alice Morse Earle',
     ],
-    [
-        'I will tell you with 100 percent confidence, Jon Jones is not deep in my head. The fact he actually thinks that, it makes me smile every day.',
-        'Daniel Cormier',
+    '1998fc2d-ae6b-505b-a1f0-4794de584b92' => [
+        'Life is a lively process of becoming.',
+        'Taylor Spreitler',
     ],
-    [
-        'The number one reason people fail in life is because they listen to their friends, family, and neighbors.',
-        'Napoleon Hill',
+    'de5b960c-d0e2-5d72-bb44-1f5cf330a407' => [
+        'The ultimate aim of the ego is not to see something, but to be something.',
+        'Muhammad Iqbal',
     ],
-    [
-        'The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful.',
-        'Noam Chomsky',
+    'bd93741e-3f8f-5908-869a-2f90b6be206e' => [
+        'About the only problem with success is that it does not teach you how to deal with failure.',
+        'Tommy Lasorda',
     ],
-    [
-        'The best thing to do with the best things in life is to give them up.',
-        'Ambrose Bierce',
+    '47d97b25-3d13-5485-b017-ed2224b9e2a4' => [
+        'Trust your hunches. They\'re usually based on facts filed away just below the conscious level.',
+        'Joyce Brothers',
     ],
-    [
-        'Tackle the difficult things first in the morning; make changes in the way you network. Treat everyone with respect and dignity. This stops you from cynicism and negativity. End your day with that same attitude you started. Renew your contract with a day well completed.',
-        'Rick Pitino',
+    '977da7a2-6aac-5a99-8981-6427b9e9c6c8' => [
+        'I think the world is ambivalent about feminism. So I can\'t blame college students. I think they\'re reflecting the greater culture\'s attitude toward feminism. So what I can do is, in ways that are appropriate, advocate for feminism and help the students learn what feminism is about.',
+        'Roxane Gay',
     ],
-    [
-        'For a manager to be perceived as a positive manager, they need a four to one positive to negative contact ratio.',
-        'Ken Blanchard',
+    '116708d1-cae1-5206-9371-488bea848ff3' => [
+        'Being body positive is really important to your overall happiness. It\'s hard to see someone with a \'perfect\' body and be like, \'Why can\'t I be like her?\' But that person was born to be who she is, and you\'re born to be who you are.',
+        'Sabrina Carpenter',
     ],
-    [
-        'The most exciting phrase to hear in science, the one that heralds new discoveries, is not \'Eureka!\' but \'That\'s funny...\'',
-        'Isaac Asimov',
+    '86148aad-7e4d-57ae-9cfa-5c379ca2b08f' => [
+        'The seventies is what I love. Soft, touchable beauty is what I love.',
+        'Tom Ford',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I make negative music, but I also make positive music because that\'s what thrown at me with life.',
-        'Tyga',
+    '686092cd-9e0c-5aee-a890-19b5c2a8afe4' => [
+        'You can\'t just give someone a creativity injection. You have to create an environment for curiosity and a way to encourage people and get the best out of them.',
+        'Ken Robinson',
     ],
-    [
-        'Excellence is the best deterrent to racism or sexism.',
-        'Oprah Winfrey',
+    'ea35c4cf-f5c2-569b-a59a-dff68c106f14' => [
+        'We\'re all moving at such a high rate that we have to grab the frozen dinners and the McDonald\'s. We can\'t make it a way of life - we have to get back to real, simple, clean good foods. It will save our lives on so many levels; not just spina bifida, but obesity, diabetes, everything. Food is our medicine.',
+        'Bernie Siegel',
     ],
-    [
-        'It\'s almost always possible to be honest and positive.',
-        'Naval Ravikant',
+    'b7ea2fef-e151-5c02-8bc0-478fa7facdef' => [
+        'We live in a fantasy world, a world of illusion. The great task in life is to find reality.',
+        'Aphra Behn',
     ],
-    [
-        'Tis distance lends enchantment to the view, and robes the mountain in its azure hue.',
-        'Thomas Campbell',
+    '0640b191-0575-5f4e-8531-32cd2ecb3f7f' => [
+        'Id rather regret the things that I have done than the things that I have not done.',
+        'Lucille Ball',
     ],
-    [
-        'The greatest obstacle to connecting with our joy is resentment.',
-        'Pema Chodron',
+    '45b243ca-7bf8-52ee-b109-9b1ecb98b999' => [
+        'High Romanticism shows you nature in all its harsh and lovely metamorphoses. Flood, fire and quake fling us back to the primal struggle for survival and reveal our gross dependency on mammoth, still mysterious forces.',
+        'Camille Paglia',
     ],
-    [
-        'I actually think some of my best moments in life have been while I was with people from Instagram - whether it\'s super late nights getting a release out or being able to travel to places I\'d never visited and meeting some of the most interesting people I\'ve ever met.',
-        'Kevin Systrom',
+    '5a075fa3-9063-55f7-b7ac-a4d4fbcd1321' => [
+        'I like England more than I did when I left. It\'s become a bit of a better country in the last ten years, in the attitude of it. A bit more Americanized, which is both good and bad. At least when you order a cup of coffee they don\'t give you a hard time.',
+        'Teddy Thompson',
     ],
-    [
-        'Across professions, consistency is a direct product of work ethic.',
-        'Harsha Bhogle',
+    '97736f48-7e40-5b0b-ac67-e71c3fe64290' => [
+        'The greatest success stories were created by people who recognized a problem & turned it into an opportunity.',
+        'Joseph Sugarman',
     ],
-    [
-        'I do this system called TRX. It was developed by a Navy SEAL and is basically a simple cord that you can wrap around something anywhere, anytime, and you use your body weight as resistance. We installed one in our home gym, but you can also attach it to a tree. It\'s very easy to travel with.',
-        'Elizabeth Banks',
+    'cb32a21a-c283-520b-afcc-c8583c56ed73' => [
+        'We need to protect our wilderness areas and national parks. Everywhere you travel, you see blight, denuded mountains, logging. If people know what\'s going on, they\'ll become activists to safeguard those places.',
+        'Christie Brinkley',
     ],
-    [
-        'The greatest teacher I know is the job itself.',
-        'James Cash Penney',
+    'ea284407-9ac7-55a8-9b24-ba635f763d4d' => [
+        'There is one rule for the industrialist and that is: Make the best quality of goods possible at the lowest cost possible, paying the highest wages possible.',
+        'Henry Ford',
     ],
-    [
-        'Bambi can\'t act. Bambi had major attitude.',
-        'Treat Williams',
+    'ec22d495-434e-57c3-b121-2446978537b2' => [
+        'There\'s a constant tension in climbing, and really all exploration, between pushing yourself into the unknown but trying not to push too far. The best any of us can do is to tread that line carefully.',
+        'Alex Honnold',
     ],
-    [
-        'Everything can be taken from a man but one thing: the last of human freedoms - to choose one\'s attitude in any given set of circumstances, to choose one\'s own way.',
-        'Viktor E. Frankl',
+    'c3dbdd0a-af68-56fe-99ac-4038f5d0ea89' => [
+        'The success I have achieved in bodybuilding, motion pictures, and business would not have been possible without the generosity of the American people and the freedom here to pursue your dreams.',
+        'Arnold Schwarzenegger',
     ],
-    [
-        'The clearest way into the Universe is through a forest wilderness.',
-        'John Muir',
+    '25ef7315-4ef8-50a3-a29e-150df44cef1f' => [
+        'There is little difference in people, but that little difference makes a big difference. The little difference is attitude. The big difference is whether it is positive or negative.',
+        'W. Clement Stone',
     ],
-    [
-        'In truth, the world is now a seamless web from which no nation, large or small, young or old, can disassociate itself. Every attitude and every action of every nation can affect the welfare and security of every other nation around the globe.',
-        'Robert Kennedy',
+    'f0cf5f87-884e-508c-b790-a7ec3977cdbd' => [
+        'If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.',
+        'John D. Rockefeller',
     ],
-    [
-        'Example has more followers than reason.',
-        'Christian Bovee',
+    'b74f60f5-d754-5304-8d3f-1fb80a19d7ef' => [
+        'No pessimist ever discovered the secret of the stars, or sailed to an uncharted land, or opened a new doorway for the human spirit.',
+        'Helen Keller',
     ],
-    [
-        'I find what I do for a living really funny. I mean, acting is kind of a hilarious thing for a grown man to call a job.',
-        'Christian Bale',
+    'e010ba67-82bf-58fe-98e8-bb5db56b2e35' => [
+        'I\'ve spent enough time in the business community to know there are certain regulators who are very constructive in their approach - those who enforce the laws and who actually want to help you comply - and there are others who have a prosecutorial attitude.',
+        'Chris Gabrieli',
     ],
-    [
-        'It takes a lot of energy to be negative. You have to work at it. But smiling is painless. I\'d rather spend my energy smiling.',
-        'Eric Davis',
+    'eb89a858-4c3e-5ec2-b854-1b4156a6b6f1' => [
+        'Courage, my friends; \'tis not too late to build a better world.',
+        'Tommy Douglas',
     ],
-    [
-        'We\'ve all met those who seem to radiate happiness. They seem to smile more than others; they laugh more than others - just being around them makes us happier as well.',
-        'Joseph B. Wirthlin',
+    '1a8b8b27-6b4f-5fc0-bd5f-ce8427479917' => [
+        'Any time you have defensive ends going above you in the draft, when you know you put up numbers that were equal to better, you just have to use that as motivation. Whenever you\'re the underdog, you have to have the right attitude and just go out there and be yourself; just play.',
+        'Justin Tuck',
     ],
-    [
-        'I noticed that no matter where I went in the country, there was this group of questions that got asked. I would track them and keep them in categories. Like body image, school, family, friendship, you name it, the emotional life of a teenage girl.',
-        'Elizabeth Berkley',
+    'da9709a1-c7c3-5752-9aee-984302efbc8e' => [
+        'I have no idols. I admire work, dedication and competence.',
+        'Ayrton Senna',
     ],
-    [
-        'Young people need the hands-on training that comes with a summer job. They need to know how to dress for success and nail job interviews. But most of all, they need mentorship, guidance, and inspiration.',
-        'Hilda Solis',
+    '7054b685-f993-5101-87e6-8f101699f6c6' => [
+        'My whole thing is just to put out positive messages in the music, give people something that can change their lives.',
+        'Kid Cudi',
     ],
-    [
-        'In time of difficulties, we must not lose sight of our achievements.',
-        'Mao Zedong',
+    'dbad97ae-662c-5dab-a695-1da5416eb1f8' => [
+        'A dream becomes a goal when action is taken toward its achievement.',
+        'Bo Bennet',
     ],
-    [
-        'I can retire from football with a smile on my face.',
-        'John Matuszak',
+    '2f340f96-e382-5065-ac68-c1e7eecbf766' => [
+        'The most important thing is to try and inspire people so that they can be great in whatever they want to do.',
+        'Kobe Bryant',
     ],
-    [
-        'It is by acts and not by ideas that people live.',
-        'Anatole France',
+    'ccf43eaf-e981-5370-b6e5-d587933a56cc' => [
+        'I distracted myself from the fear and terrorism by thinking about things like how the universe began and whether time travel is possible.',
+        'Malala Yousafzai',
     ],
-    [
-        'In the car on my way to premieres and awards shows, I\'ll sit with tissue paper under my armpits so I don\'t soil the delicate dress fabric. The whole time, I\'m telling myself, \'Please don\'t sweat, please don\'t sweat.\' I throw the tissues out right before I step out of the car, and nobody ever knows! I just put on a smile and fake it.',
-        'Jessica Biel',
+    '9663b19c-d1a8-5728-99f4-95b4c539f127' => [
+        'I read on my iPad when I travel. I listen to audiobooks in the car. I read books in my bedroom, where I have a comfortable couch, a lamp and two dogs to keep me warm.',
+        'Isabel Allende',
     ],
-    [
-        'Air travel is the safest form of travel aside from walking; even then, the chances of being hit by a public bus at 30,000 feet are remarkably slim. I also have no problem with confined spaces. Or heights. What I am afraid of is speed.',
-        'Sloane Crosley',
+    'd17c7cf1-c631-5a9d-8c9b-887810870da1' => [
+        'I love funny people. I met and became friends with some of the funniest people ever. Gilda Radner, bless her soul; Martin Short; Dave Thomas; Eugene Levy.',
+        'Paul Shaffer',
     ],
-    [
-        'Our society is not a community, but merely a collection of isolated family units.',
-        'Valerie Solanas',
+    '96e37528-cdca-5fa3-9504-039058dabd26' => [
+        'The Viennese wash everything. Where else in the world does the government hire public servants to wash public telephone booths and the glass over traffic lights? Every time I see someone doing these things, I smile like a child.',
+        'Jonathan Carroll',
     ],
 ];

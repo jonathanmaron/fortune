@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I\'ve always felt that specialization is best left to the insects.',
-        'Gregory Benford',
+    'aae36bdf-e9f1-5930-ad44-c877f8e04607' => [
+        'Going to work for a large company is like getting on a train. Are you going sixty miles an hour or is the train going sixty miles an hour and you\'re just sitting still?',
+        'J. Paul Getty',
     ],
-    [
-        'The best thing to hold onto in life is each other.',
-        'Amelia Earhart',
+    '3c85df06-a86b-5047-a519-b8e390fcc554' => [
+        'Brotherhood means laying down your life for somebody, really willing to sacrifice yourself for somebody else.',
+        'Billy Graham',
     ],
-    [
-        'Maybe there is no actual place called hell. Maybe hell is just having to listen to our grandparents breathe through their noses when they\'re eating sandwiches.',
-        'Jim Carrey',
+    'c447e946-2bea-5000-aa21-0cb3e51322d9' => [
+        'Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.',
+        'Aristotle',
     ],
-    [
-        'If you play the same club every week of every month, it\'s kind of boring. It\'s great that you can play one night in Brazil and one night in Japan, one night in Europe, and see the world. It\'s amazing what you see if you travel around the world.',
-        'Tiesto',
+    '74bcf327-9d2c-52ef-8b83-634659fdb86e' => [
+        'The best advice I\'ve received is to be yourself. The best artists do that.',
+        'Frank Gehry',
     ],
-    [
-        'The best way to find out whether you\'re on the right path? Stop looking at the path.',
-        'Marcus Buckingham',
+    '675b6458-43fb-57e0-a4d0-4729536297ec' => [
+        'For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.',
+        'Leonardo da Vinci',
     ],
-    [
-        'Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend. Non-being is the greatest joy.',
-        'Lao Tzu',
+    '9ba2d50a-0c4d-59ab-aaca-da3dd19987e4' => [
+        'Yesterday I dared to struggle. Today I dare to win.',
+        'Bernadette Devlin',
     ],
-    [
-        'I want to be motivational and inspirational for everybody: my big aim is more women on bicycles.',
-        'Marianne Vos',
+    'f4245832-bec8-5794-8305-643ad032a8f0' => [
+        'I feel that the simplicity of life is just being yourself.',
+        'Audrey Hepburn',
     ],
-    [
-        'I am a control freak, but not when I travel. For some reason when I travel, I am able to surrender more than in my real life. I am able to let go. I think it\'s why I like it so much.',
-        'Chelsea Cain',
+    '551f6990-e064-51b7-86cf-b24de0a726a9' => [
+        'By providing clear objectives for your team, and setting guardrails for how they get there, you will set them on the path to success.',
+        'Chris Fussell',
     ],
-    [
-        'I was born into a very religious family where everything was about setting the right example for the community and having to obey orders blindly. I felt that everyone was growing up in the world, except me. This is probably one of the reasons why I had such a rebellious attitude towards any form of authority.',
-        'Grace Jones',
+    'bc6e5e86-736d-5cd2-ad12-27274da4106e' => [
+        'Having no competition is a bad thing. Competition makes you try to improve yourself all the time.',
+        'Shu Qi',
     ],
-    [
-        'No one ever said learning was to be easy, but it\'s part of the process of evolving as a human being, and we all have to go through it. When I look back, I see that each difficult time brought an important lesson. And I prefer to look at it with gratitude because I wouldn\'t be who I am today if I haven\'t gone through it all.',
-        'Gisele Bundchen',
+    '83e33c9e-d8d7-5a8b-96c5-f8e0a7f35fe0' => [
+        'Growing up in Nashville, especially in a music business family, means growing up with knowledge that seems like common sense until later in life when you realize people spend thousands of dollars a semester trying to learn or pretending to learn while looking for some intern job on music row.',
+        'Caitlin Rose',
     ],
-    [
-        'Your heart is full of fertile seeds, waiting to sprout.',
-        'Morihei Ueshiba',
+    'c04e6cab-7b7a-5e5c-8001-5d048f34aa4b' => [
+        'I know all I really wanna do is get money and take care of my family.',
+        'Meek Mill',
     ],
-    [
-        'As we risk ourselves, we grow. Each new experience is a risk.',
-        'Fran Watson',
+    '73ab23b7-6054-52a7-9155-ede3ded4db7b' => [
+        'Without courage, wisdom bears no fruit.',
+        'Baltasar Gracian',
     ],
-    [
-        'All the rappers my age are getting Audemars and Rolexes. I want to find my own thing. That\'s why I travel the world - for me, that\'s my B-side, why we go places. I have a Hublot on from time to time but I want a home base watch - something that\'s elegant but has got a little pizzazz to it.',
-        'Wale',
+    '667977ed-5172-5b0a-8120-002c18892933' => [
+        'Economics is a choice between alternatives all the time. Those are the trade-offs.',
+        'Paul Samuelson',
     ],
-    [
-        'What do I like in a girl? I like a girl that likes me, a girl that knows how to smile and see the bright side of things. A girl that makes me a better person.',
-        'James Lafferty',
+    'd1c96f8d-bc5d-5d43-b126-9b28ef48baa3' => [
+        'Create. Not for the money. Not for the fame. Not for the recognition. But for the pure joy of creating something and sharing it.',
+        'Ernest Barbaric',
     ],
-    [
-        'I was born January 6, 1937, eight years after Wall Street crashed and two years before John Steinbeck published The Grapes of Wrath, his Pulitzer Prize-winning novel about the plight of a family during the Great Depression.',
-        'Lou Holtz',
+    '12377631-591f-54d6-8246-89b0d2dd7b54' => [
+        'What delights us in visible beauty is the invisible.',
+        'Marie von Ebner-Eschenbach',
     ],
-    [
-        'Patton was living in the Dark Ages. Soldiers were peasants to him. I didn\'t like that attitude.',
-        'Bill Mauldin',
+    '429d3628-ced6-501d-abd9-57771ee784be' => [
+        'What is social proof? Put simply, it\'s the positive influence created when someone finds out that others are doing something. It\'s also known as informational social influence.',
+        'Aileen Lee',
     ],
-    [
-        'When you have a bad day, a really bad day, try and treat the world better than it treated you.',
-        'Patrick Stump',
+    '6a6cffe9-3df1-5b40-b8c7-d3177d2244b9' => [
+        'There is a role and function for beauty in our time.',
+        'Tadao Ando',
     ],
-    [
-        'I don\'t take success and failure seriously. The only thing I do seriously is march forward. If I fall, I get up and march again.',
-        'Kareena Kapoor Khan',
+    'cd1eb140-39e2-50c0-af11-6c3a7920e9c9' => [
+        'Age does not protect you from love. But love, to some extent, protects you from age.',
+        'Anais Nin',
     ],
-    [
-        'I like to work out. I like a routine. I\'m kind of simple. I eat almost the same thing every day. I like Caesar salad.',
-        'Britney Spears',
+    '4c03582e-391e-5b8a-989a-043be26cbd09' => [
+        'Success is not in never failing, but rising everytime you fall!',
+        'Jonathan Taylor Thomas',
     ],
-    [
-        'Grit your teeth and smile. In the face of adversity, go. They don\'t deserve you.',
-        'Christine Lagarde',
+    '2f2abd56-9760-50ad-95c6-2c0b99889ca4' => [
+        'In Italy, they add work and life on to food and wine.',
+        'Robin Leach',
     ],
-    [
-        'I think the thing to do is enjoy the ride while you\'re on it.',
-        'Johnny Depp',
+    '93a1d4f8-884c-5e22-a1bd-4c0c925dd6fb' => [
+        'Football is like life - it requires perseverance, self-denial, hard work, sacrifice, dedication and respect for authority.',
+        'Vince Lombardi',
     ],
-    [
-        'It\'s so hard not to smile.',
-        'Zoe Sugg',
+    'c210d5a8-f5ce-5f11-b95c-f6181f7f765f' => [
+        'The year 2100 will see eugenics universally established. In past ages, the law governing the survival of the fittest roughly weeded out the less desirable strains. Then man\'s new sense of pity began to interfere with the ruthless workings of nature. As a result, we continue to keep alive and to breed the unfit.',
+        'Nikola Tesla',
     ],
-    [
-        'My parents suffered from that ideal of a perfect nuclear family. They found that a difficult pressure, I think.',
-        'Tim Burton',
+    '89b7bf62-7919-5e47-8ef5-08fbc41e567b' => [
+        'As a Korean War Veteran, I know too well the troubling nature of war. This is why I will always support a diplomatic answer before military intervention.',
+        'Charles B. Rangel',
     ],
-    [
-        'The secret to a rich life is to have more beginnings than endings.',
-        'Dave Weinbaum',
+    'f18ed31c-50f5-53c8-852e-7388d3ed31d2' => [
+        'There is no end of craving. Hence contentment alone is the best way to happiness. Therefore, acquire contentment.',
+        'Swami Sivananda',
     ],
-    [
-        'I bring people on stage with me. It\'s a good time, and people love to join in on the party. Show me a smile, and I\'ll show you one back.',
-        'Vanilla Ice',
+    '616ec0e7-4cb5-516b-aec2-bae9da6bf8be' => [
+        'About 100 things that your kid will do that will surprise you and break your heart and it will be a combination of fact based therapy, medically advised kinds of passages accompanied by celebrity anecdotes and just some funny stuff to lighten the load.',
+        'Alan Thicke',
     ],
 ];

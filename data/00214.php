@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'A person who won\'t read has no advantage over one who can\'t read',
-        'Mark Twain',
+    'f99e3288-fc97-5828-85a1-4b0533cff891' => [
+        'The secret to modern life is finding the measure in time management. I have two kids, career and I travel, and I don\'t think my life is any different than most couples. The most valuable commodity now for many people is time and how to parcel that out.',
+        'Hugh Jackman',
     ],
-    [
-        'The thing I love about being an actor is the ability to travel and experience new cultures.',
-        'Paul Wesley',
+    '5b76913f-21af-5c6d-bb11-5bad13db627a' => [
+        'I have made the choices that work best for me. I know I cannot please everyone, and that\'s fine.',
+        'Marlee Matlin',
     ],
-    [
-        "To have striven, to have made the effort, to have been true to certain ideals\u{2013}this alone is worth the struggle.",
-        'William Penn',
+    '27183bba-8f88-508f-8ea7-8e68b65e48d1' => [
+        'A person has to remember that the road to success is always under construction. You have to get that through your head. That it is not easy becoming successful.',
+        'Steve Harvey',
     ],
-    [
-        'The worst thing that happens to you may be the best thing for you if you don\'t let it get the best of you.',
-        'Will Rogers',
+    '9c743d95-d291-580e-8d89-9d1cd140666a' => [
+        'I like being on a set where you can make decisions and everything is involved and are happy to work together to make the best work. For me, it\'s all about making the best work and creative people working together and all being respected and all having their opinions of what gives it the best quality is important.',
+        'Aneurin Barnard',
     ],
-    [
-        'Nature abhors annihilation.',
-        'Marcus Tullius Cicero',
+    '8b580242-4f33-5bbe-9432-cfbd827de139' => [
+        'People come up to me and say somebody in their family has cancer, and we appreciate what you do, and we appreciate your fight, and don\'t give up, we love your attitude.',
+        'Craig Sager',
     ],
-    [
-        'As kids we\'re not taught how to deal with success; we\'re taught how to deal with failure. If at first you don\'t succeed, try, try again. If at first you succeed, then what?',
-        'Charlie Sheen',
+    'd281b97f-53da-52e3-8e14-a77452d8c74c' => [
+        'I find that it\'s best to take one step at a time and cross each bridge as they come to you.',
+        'Michael Stuhlbarg',
     ],
-    [
-        'I enjoy the work, I enjoy every minute of my professional life.',
-        'Jose Mourinho',
+    'a21f297e-bf2c-5f63-b5fc-b91d6ca354cc' => [
+        'I longed to arrest all beauty that came before me, and at length the longing has been satisfied.',
+        'Julia Margaret Cameron',
     ],
-    [
-        'I don\'t really have a beauty routine. I always use coconut oil, and I always wear mascara. That\'s kind of it! I\'m pretty simple.',
-        'Zoe Kravitz',
-    ],
-    [
-        'White sharks and tuna travel for thousands of miles before returning to the same hot spot just as salmon do when they return to the same stream. These journeys are the marine equivalent of wildebeest migrations that take place on the Serengeti plain in Africa.',
-        'Barbara Block',
-    ],
-    [
-        'In all things of nature there is something of the marvelous.',
-        'Aristotle',
-    ],
-    [
-        'Let there be work, bread, water and salt for all.',
-        'Nelson Mandela',
-    ],
-    [
-        'The whole object of travel is not to set foot on foreign land; it is at last to set foot on one\'s own country as a foreign land.',
-        'Gilbert K. Chesterton',
-    ],
-    [
-        'Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.',
-        'Morgan Freeman',
-    ],
-    [
-        'Death Row inmates are almost twice as expensive to house each year as other inmates. Death penalty trials are much costlier than trials where execution is not a potential punishment and consume more time from judges, public defenders, and other legal personnel.',
-        'Reid Hoffman',
-    ],
-    [
-        'Choosing an attitude of faith will release peace out of your spirit and into your soul.',
+    'c77052d8-73ca-5c6b-bf9f-98d08ee28de7' => [
+        'It\'s so important to realize that every time you get upset, it drains your emotional energy. Losing your cool makes you tired. Getting angry a lot messes with your health.',
         'Joyce Meyer',
     ],
-    [
-        'The great danger for family life, in the midst of any society whose idols are pleasure, comfort and independence, lies in the fact that people close their hearts and become selfish.',
-        'Pope John Paul II',
+    '91785b0f-9450-5ee9-bf4f-609993423a7b' => [
+        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
+        'John de Mol, Jr.',
     ],
-    [
-        'No better way is there to learn to love Nature than to understand Art. It dignifies every flower of the field. And, the boy who sees the thing of beauty which a bird on the wing becomes when transferred to wood or canvas will probably not throw the customary stone.',
-        'Oscar Wilde',
+    'b71d8e28-1a75-554e-88c4-c24b4611a56c' => [
+        'The only yardstick for success our society has is being a champion. No one remembers anything else.',
+        'John Madden',
     ],
-    [
-        'I would fight for my liberty so long as my strength lasted, and if the time came for me to go, the Lord would let them take me.',
-        'Harriet Tubman',
+    'cd423804-f901-5703-ab2d-4916ce49972d' => [
+        'Success is measured by your discipline and inner peace.',
+        'Mike Ditka',
     ],
-    [
-        'I am my own muse, the subject I know best.',
-        'Frida Kahlo',
+    'c5e93ae5-4f56-5c8a-b01f-ce37d876a803' => [
+        'We must always take from nature what we paint and always choose the most beautiful things.',
+        'Leon Battista Alberti',
     ],
-    [
-        'If you travel first class, you think first class and you are more likely to play first class.',
-        'Ray Floyd',
+    '453b8e45-b4bd-53eb-8c49-97ec04b70748' => [
+        'I am not a member of any organized political party. I am a Democrat.',
+        'Will Rogers',
     ],
-    [
-        'Forests, lakes, and rivers, clouds and winds, stars and flowers, stupendous glaciers and crystal snowflakes - every form of animate or inanimate existence, leaves its impress upon the soul of man.',
-        'Orison Swett Marden',
+    'b9a10bf4-8d2f-5643-8ad6-70ab5eb8ce94' => [
+        'I don\'t think I was a good model. I think I was born to emote and act. I would walk down the ramp and smile and they used to say, \'Give us a blank look.\' It was really difficult not to smile.',
+        'Anushka Sharma',
     ],
-    [
-        'It has been a long journey, but if you dream and have the ambition and want to work hard, then you can achieve.',
-        'Mo Farah',
+    '47281ee2-93ec-527c-9dfa-636637cea673' => [
+        'Even if you fall on your face you\'re still moving forward.',
+        'Victor Kiam',
     ],
-    [
-        'I\'ve never been married, but I tell people I\'m divorced so they won\'t think something is wrong with me.',
-        'Elayne Boosler',
+    'ca1270f6-f921-53ae-9533-1ae221239fb5' => [
+        'One of the first conditions of happiness is that the link between Man and Nature shall not be broken.',
+        'Leo Tolstoy',
     ],
-    [
-        'America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world.',
-        'Bill Frist',
+    'd2d0b607-8147-5bea-a7a5-f5f3de2d436e' => [
+        'Attitudes are more important than facts.',
+        'George MacDonald',
     ],
-    [
-        'Solitude gives birth to the original in us, to beauty unfamiliar and perilous - to poetry. But also, it gives birth to the opposite: to the perverse, the illicit, the absurd.',
-        'Thomas Mann',
+    '73a86376-0083-5757-99a2-66dd49e6ab63' => [
+        'My ultimate goal is to end up being happy. Most of the time.',
+        'Taylor Swift',
+    ],
+    '6eb1e752-5a56-5b2e-90c2-79bd81523e83' => [
+        'Surround yourself with good people. Whether they\'re the best or not, people are capable of learning if they\'ve got good hearts and they\'re good souls.',
+        'Kid Rock',
+    ],
+    '0859ce87-c58c-523e-95f7-ecff5038c415' => [
+        'I come from the slums; I come from a hard background; I come from a poor family; and I was a soldier.',
+        'Michael Caine',
+    ],
+    '5839d25b-3cb1-571e-91e1-dd0cf3a1d507' => [
+        'Reading is a basic tool in the living of a good life.',
+        'Juliette Binoche',
+    ],
+    '4e7c321e-0fb3-5ac3-a0a9-fd0d002df9c1' => [
+        'My attitudes have changed, but somebody would have to read all my books to find out how they have.',
+        'Irwin Shaw',
+    ],
+    'c90302fe-7416-5471-996d-a7a7c3a716a3' => [
+        'If you want to make a permanent change, stop focusing on the size of your problems and start focusing on the size of you!',
+        'T. Harv Eker',
+    ],
+    '7283316f-0970-540f-a08a-c051c24259f1' => [
+        'The successful man will profit from his mistakes and try again in a different way.',
+        'Dale Carnegie',
+    ],
+    '51e80f12-d139-5447-a8e4-a6c4c736bd81' => [
+        'Obesity puts our children at risk of developing serious diseases - such as Type 2 diabetes, heart disease and depression. It keeps our children from performing their best at school.',
+        'Kirsten Gillibrand',
     ],
 ];

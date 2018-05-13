@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When leaders know how to lead great meetings, there\'s less time wasted and less frustration. We have more energy to do the work that matters, realize our full potential, and do great things.',
-        'Justin Rosenstein',
+    'ec01755a-8255-55d4-9fab-9fd5262b260a' => [
+        'Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is.',
+        'J. R. Martinez',
     ],
-    [
-        'The holidays are a rough time for the homeless, but it\'s a year-round problem we have to solve.',
-        'Mike Binder',
+    '93d748a9-1408-5ba3-ba73-83e6f922239b' => [
+        'Management is nothing more than motivating other people.',
+        'Lee Iacocca',
     ],
-    [
-        'While we stop to think, we often miss our opportunity.',
-        'Publilius Syrus',
+    '5becb9b5-4842-5afa-b7f1-e580d95fe416' => [
+        'My parents taught me honesty, truth, compassion, kindness and how to care for people. Also, they encouraged me to take risks, to boldly go. They taught me that the greatest danger in life is not taking the adventure.',
+        'Ezra Pound',
     ],
-    [
-        'To give and then not feel that one has given is the very best of all ways of giving.',
-        'Max Beerbohm',
+    'f1d67948-23bb-58ad-a191-6bde7e0fac84' => [
+        'You cannot have a positive life and a negative mind.',
+        'Joyce Meyer',
     ],
-    [
-        'China and the U.S. are two societies with very different attitudes towards opinion and criticism. In China, I am constantly under surveillance. Even my slightest, most innocuous move can - and often is - censored by Chinese authorities.',
-        'Ai Weiwei',
+    'fc32ec4d-e6cb-5125-a1b2-b26ba66f99f2' => [
+        'From little acorns mighty oaks do grow.',
+        'American proverb',
     ],
-    [
-        'Economics is extremely useful as a form of employment for economists.',
-        'John Kenneth Galbraith',
+    '9e9f3c0e-3241-5817-950e-9ee5d6f3f960' => [
+        'When there is no enemy within, the enemies outside cannot hurt you.',
+        'African proverb',
     ],
-    [
-        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
-        'Paul Bryant',
+    '7e9b32f3-bc36-5874-b485-a493f2f70998' => [
+        'Entrepreneurs can\'t forecast accurately, because they are trying something fundamentally new. So they will often be laughably behind plan - and on the brink of success.',
+        'Eric Ries',
     ],
-    [
-        'Spending time outdoors makes you feel great.',
-        'Elizabeth Hurley',
+    '3b285111-2295-55b3-bfaf-b81a99857e04' => [
+        'There is nothing I can do to undo what I did. I can only say again how sorry I am to those I let down and then strive to go forward with a greater sense of humility and purpose, and with gratitude to those who stood with me during a very difficult chapter in my life.',
+        'Jim Elliot',
     ],
-    [
-        'It is a great day anytime I can bring a smile to a girl or boy, knowing that I am helping to inspire them to always dream big.',
-        'Normani Kordei',
+    '303a8613-a0f9-51ae-828b-15f0290fed27' => [
+        'Part of my act is meant to shake you up. It looks like I\'m being funny, but I\'m reminding you of other things. Life is tough, darling. Life is hard. And we better laugh at everything; otherwise, we\'re going down the tube.',
+        'Teri Garr',
     ],
-    [
-        'A period of detention in a chilly upstate facility can be a great attitude adjuster.',
-        'Judy Sheindlin',
+    'bd8c765b-b0ac-5036-b61f-a660e754ad2a' => [
+        'It is impossible to work in information technology without also engaging in social engineering.',
+        'Jaron Lanier',
     ],
-    [
-        'Live life for the moment because everything else is uncertain!',
-        'Rose Kennedy',
+    '0d61f4a5-8bc6-5b1c-95d8-d67422b36c2f' => [
+        'It\'s easy to play any musical instrument: all you have to do is touch the right key at the right time and the instrument will play itself.',
+        'Johann Sebastian Bach',
     ],
-    [
-        'Success is dependent on effort.',
-        'Sophocles',
+    '52b08641-23b2-52d9-ad16-dd81829987e2' => [
+        'I believe it\'s time that women truly owned their superpowers and used their beauty and strength to change the world around them.',
+        'Janelle Monae',
     ],
-    [
-        'If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.',
-        'Anne Bradstreet',
+    'cdb9b002-8f0b-5e66-93d0-c8efc54a27aa' => [
+        'The old cathedrals are good, but the great blue dome that hangs over everything is better.',
+        'Thomas Carlyle',
     ],
-    [
-        'It\'s lovely to work with a group of actors who make you laugh and smile.',
-        'Kelly Reilly',
+    '1ed17f76-2587-5a88-b721-9207e7fb03f2' => [
+        'People who think about time travel stories sometimes think that going back in time would be fun because you would have all the information you needed to be much more astute than the people there, when the truth is of course you wouldn\'t.',
+        'Octavia E. Butler',
     ],
-    [
-        'All the champions - you go and ask Mike Tyson or Joe Louis, Rocky Marciano, Lennox Lewis and myself included, and I\'m sorry for putting myself in line with all the other great names - but the champion\'s attitude is it doesn\'t matter who is in front of me, I am going to conquer this person and win the fight and knock the person out.',
-        'Wladimir Klitschko',
+    '1e736f03-4ea4-568a-91e1-3a4dd523db3b' => [
+        'It is fatal to enter any war without the will to win it.',
+        'General Douglas MacArthur',
     ],
-    [
-        'Right actions in the future are the best apologies for bad actions in the past.',
-        'Tryon Edwards',
+    '386fc642-f552-5be6-a8d6-da861b612f39' => [
+        'I don\'t deserve any credit for turning the other cheek as my tongue is always in it.',
+        'Flannery O\'Connor',
     ],
-    [
-        'If you must have motivation, think of your paycheck on Friday.',
-        'Noel Coward',
+    '6a818da3-72cb-517b-a6e6-40f5c24e308b' => [
+        'For my part I know nothing with any certainty, but the sight of the stars makes me dream.',
+        'Vincent Van Gogh',
     ],
-    [
-        'The natural liberty of man is to be free from any superior power on Earth, and not to be under the will or legislative authority of man, but only to have the law of nature for his rule.',
-        'Samuel Adams',
+    'e16251d5-73f1-549b-83a8-9e8c7de20ac8' => [
+        'The most common way people give up their power is by thinking they don\'t have any.',
+        'Alice Walker',
     ],
-    [
-        'The true object of all human life is play. Earth is a task garden; heaven is a playground.',
-        'Thomas Hobbes',
+    '236d132c-88e4-53e9-a445-8a5088780e92' => [
+        'It\'s as if inside the White House the belief in Obama\'s inspirational charisma is still such that every time the ugliness of brute politics intrudes, it\'s a startling revelation.',
+        'Tina Brown',
     ],
-    [
-        '\'Beauty\' is a currency system like the gold standard. Like any economy, it is determined by politics, and in the modern age in the West is is the last, best belief system that keeps male dominance intact.',
-        'Naomi Wolf',
+    '545a75a9-61c2-5bbf-b866-d7d9bd0a93bd' => [
+        'I go, and I do my work, and I try to do the best I can, and I collect my money, and I go home, and then I go on to the next thing. That\'s my attitude.',
+        'Billy Dee Williams',
     ],
-    [
-        'Airline glamour never promised anything as mundane as elbow room, much less a flat bed, a massage, or an arugula salad. It promised a better world. Service and dress reflected the more formal era, but no one expected air travel to be comfortable. It was amazing just to have hot food above the clouds.',
-        'Virginia Postrel',
+    '7d246b5a-b44e-5f52-865c-d0b0e02d5bb4' => [
+        'This is how many people become artists, musicians, writers, computer programmers, record-holding athletes, scientists... by spending time alone practicing what they love.',
+        'Meg Cabot',
     ],
-    [
-        'Love is that splendid triggering of human vitality the supreme activity which nature affords anyone for going out of himself toward someone else.',
-        'Jose Ortega y Gasset',
+    'ded121d7-18ef-5933-8b12-6ad3ec30d72c' => [
+        'The man on top of the mountain didn\'t fall there.',
+        'Vince Lombardi',
     ],
-    [
-        'I believe in one thing only, the power of human will.',
-        'Joseph Stalin',
+    '26195336-cb24-5503-a163-e7027eb9e87f' => [
+        'Money doesn\'t mean anything to me. I\'ve made a lot of money, but I want to enjoy life and not stress myself building my bank account. I give lots away and live simply, mostly out of a suitcase in hotels. We all know that good health is much more important.',
+        'Tom Brokaw',
     ],
-    [
-        'Success is falling nine times and getting up ten.',
-        'Jon Bon Jovi',
+    '56c4f87a-6259-5fe7-8d24-667c978bf66c' => [
+        'You simply have to put one foot in front of the other and keep going. Put blinders on and plow right ahead.',
+        'George Lucas',
     ],
-    [
-        'The more often we see the things around us - even the beautiful and wonderful things - the more they become invisible to us. That is why we often take for granted the beauty of this world: the flowers, the trees, the birds, the clouds - even those we love. Because we see things so often, we see them less and less.',
-        'Joseph B. Wirthlin',
+    'f242f1da-a5df-5e47-af7e-f51ce72ab960' => [
+        'A stockbroker urged me to buy a stock that would triple its value every year. I told him, \'At my age, I don\'t even buy green bananas.\'',
+        'Claude Pepper',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I never wake up today with yesterday\'s problems.',
-        'Anthony Saleh',
+    '2f12cd21-aeea-52c5-b93b-6027141f435e' => [
+        'Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.',
+        'Joyce Meyer',
     ],
-    [
-        'There\'s an old adage about speakers: You won\'t remember what they said, but you\'ll never forget how they made you feel. Trump knows that in his bones. He gives his supporters - and they are growing - a terrific feeling of safety and security, along with a laugh and a smile.',
-        'Cass Sunstein',
+    'fe839672-bea1-57d7-8ed0-e2c3425539fd' => [
+        'There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation.',
+        'Marcus Garvey',
     ],
-    [
-        'I cannot make my days longer so I strive to make them better.',
-        'Henry David Thoreau',
+    '32c66568-4744-5a8b-a7e4-6dfd299e8238' => [
+        'The secret of joy in work is contained in one word, excellence. To know how to do something well is to enjoy it.',
+        'Pearl Buck',
     ],
-    [
-        'Everything is perfect in the universe, even your desire to improve it.',
-        'Wayne Dyer',
+    '0b2286cd-d9a8-5525-aa6a-b2be7a62a1c6' => [
+        'I get nostalgic for British negativity. There is an inherent hope and positive drive to New Yorkers. When you go back to Britain, everybody is just running everything down. It\'s like whatever the opposite of a hug is.',
+        'John Oliver',
     ],
-    [
-        'However difficult life may seem, there is always something you can do and succeed at.',
-        'Stephen Hawking',
+    '49a67e81-f944-5a49-b10a-dec5f04dbcaf' => [
+        'Expect the best. Prepare for the worst. Capitalize on what comes.',
+        'Zig Ziglar',
     ],
-    [
-        'It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.',
-        'Proverb',
+    '4501091e-a2e6-50d0-8438-a8e407677dbb' => [
+        'Lead singers not only do the majority of the work, but their personalities are singled out and taken as the general attitude of the unit.',
+        'Martha Reeves',
     ],
-    [
-        'I believe that every person is born with talent.',
-        'Maya Angelou',
+    'c13926bc-63ef-55f0-a422-b96aadc9f256' => [
+        'In masks outrageous and austere, The years go by in single file; But none has merited my fear, And none has quite escaped my smile.',
+        'Elinor Wylie',
     ],
-    [
-        'People often say that \'beauty is in the eye of the beholder,\' and I say that the most liberating thing about beauty is realizing that you are the beholder. This empowers us to find beauty in places where others have not dared to look, including inside ourselves.',
-        'Salma Hayek',
+    '48c636b0-ea55-5d2b-9f14-8dea5f96a132' => [
+        'My first ever job after college was as a flight attendant. I wanted to travel and could not afford it, so I decided to get myself a job where I could travel. I did it for two years and had great fun.',
+        'Jacqueline Winspear',
     ],
-    [
-        'London \'Harry Potter\' premieres are very special events: There is this sense of love and ownership and pride, and it\'s just palpable. It\'s a very different feel from an L.A. premiere. It\'s nice to be a part of something that\'s so positive.',
-        'Michael Goldenberg',
+    '82b7a45c-54a4-5629-bb3a-c77390485f59' => [
+        'I hope \'The Voice\' has a fifteen-year run, don\'t get me wrong. But I come from nothing, and maybe it\'s the Irish in me, but my attitude is always like, \'They\'ll figure me out soon.\'',
+        'Carson Daly',
     ],
-    [
-        'Success - keeping your mind awake and your desire asleep.',
-        'Walter Scott',
+    '2837ed17-2b46-5f5b-9adf-90b340962449' => [
+        'I think about my work every minute of the day.',
+        'Jeff Koons',
     ],
-    [
-        'Nature is often hidden, sometimes overcome, seldom extinguished.',
-        'Francis Bacon',
+    '123be904-eac4-5faa-9ce4-273cf15f920a' => [
+        'I want you to be everything that\'s you, deep at the center of your being.',
+        'Confucius',
     ],
-    [
-        'Hurricane season brings a humbling reminder that, despite our technologies, most of nature remains unpredictable.',
-        'Diane Ackerman',
+    'c363e857-c8e4-5799-8655-be6d570fa927' => [
+        'Don\'t wait for your feelings to change to take the action. Take the action and your feelings will change.',
+        'Barbara Baron',
     ],
-    [
-        'Energy, like the biblical grain of the mustard-seed, will remove mountains.',
-        'Hosea Ballou',
+    'a633002d-cf25-5dc6-a9bd-40c64a5d279b' => [
+        'A girl\'s best friend is her pride.',
+        'Vanity',
     ],
-    [
-        'I\'m a big fan of the laceless Converse for travel, with cute jeans, and throw on a little jacket, and you look presentable.',
-        'Melissa Rivers',
+    'bdf0ab97-bfef-5d19-80fe-c8037840ab04' => [
+        'Taking time to sit back and watch and think about what you\'ve seen is important. Traveling did a great deal to me. I found that when I travel and just sit in the corner and watch, a million ideas come to me.',
+        'Lionel Richie',
     ],
-    [
-        'The best way to afford a suit is to work.',
-        'Emmanuel Macron',
+    'bf669cf7-3909-56cc-af82-8fcbb307f1d8' => [
+        'Football has to work really hard to put a smile on people\'s face and not to be so focused on the question of money. Everything is in danger of losing its soul if you\'re always going to sell out to the highest bidder.',
+        'Gordon Taylor',
     ],
-    [
-        'I took the decision that everything I would post would be positive. If you say, \'Ahh, I feel terrible today,\' and you spread that to the eyes and ears of millions of people, that\'s not good.',
-        'Jerome Jarre',
+    '3d5eae54-aaf0-5141-802c-a8832f1ac02d' => [
+        'Self-confidence has always been one of my good qualities. I am always very confident. It is in my nature to be confident, to be aggressive. And it applies in my batting as well as wicketkeeping.',
+        'Mahendra Singh Dhoni',
     ],
-    [
-        'I don\'t say it in a cocky way, but I take pride in being one of the best at doing what I do.',
-        'Sean Combs',
+    '68d58f65-09a2-59d0-b812-2633c19ebdcc' => [
+        'In America there are two classes of travel - first class, and with children.',
+        'Robert Benchley',
     ],
-    [
-        'Every success story has a parent who says, \'over my dead body.\' Every success story has an old person who walks up to you and says, when you\'re acting the fool, \'you know I worry about you sometimes.\'',
-        'Bill Cosby',
+    '60ce6d52-3e23-54f3-aa62-a68907228354' => [
+        'I have to read something positive every single day. I have to have faith that the day is unfolding in a way that is going to be useful to somebody else... For me, living every day in gratitude has been profound for me.',
+        'Lea Thompson',
     ],
-    [
-        'There are certain things about me that I will never tell to anyone because I am a very private person. But basically, what you see is who I am. I\'m independent, I do like to be liked, I do look for the good side of life and people. I\'m positive, I\'m disciplined, I like my life in order, and I\'m neat as a pin.',
-        'Mary Tyler Moore',
+    '7005044f-33bd-5c05-8c88-3d7d208b5a79' => [
+        'I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.',
+        'Georg Lichtenberg',
     ],
-    [
-        'The \'good\' mother, with her fixed smile, her rigidity, her goody-goody outlook, her obsession with unnecessary hygiene, is in fact a fool. It is the \'bad\' mother, unafraid of a joke and a glass of wine, richly self-expressive, scornful of suburban values, who is, in reality, good.',
-        'Rachel Cusk',
+    'c993572a-c35c-549e-9271-b10ec9186d5e' => [
+        'When you have to work, work with a smile.',
+        'Kapil Dev',
     ],
-    [
-        'Negligence is the rust of the soul, that corrodes through all her best resolves.',
-        'Owen Feltham',
+    '9c4a9211-9380-51a8-93f5-c355e7fd7e0f' => [
+        'Because of your smile, you make life more beautiful.',
+        'A. P. J. Abdul Kalam',
     ],
-    [
-        'France has been very good for me. It has given me a very worldly-cool attitude.',
-        'Marianne Faithfull',
+    'f59ae2a2-3d87-5c8b-8b71-d93b3c7e998f' => [
+        'I see my upbringing as a great success story. By disciplining me, my parents inculcated self-discipline. And by restricting my choices as a child, they gave me so many choices in my life as an adult. Because of what they did then, I get to do the work I love now.',
+        'Amy Chua',
     ],
-    [
-        'It pays to get drunk with the best people.',
-        'Joe E. Lewis',
+    '572a6a6e-5066-5a3a-b7a0-6f59e1872887' => [
+        'Life isn\'t about getting and having, it\'s about giving and being.',
+        'Kevin Kruse',
     ],
-    [
-        'I don\'t want to let my life as a woman pass me by. There\'s a time to work, there\'s a time to be young and crazy, and there should be a time to enjoy motherhood. I\'m actually looking forward to that.',
-        'Diane Kruger',
+    '755261dd-0a1e-59b9-b8de-c4500b2b8877' => [
+        'I\'m hoping that these next 20 years will show what we did 20 years ago in sequencing the first human genome, was the beginning of the health revolution that will have more positive impact in people\'s lives than any other health event in history.',
+        'Craig Venter',
     ],
-    [
-        'Happiness is not something ready made. It comes from your own actions.',
-        'Dalai Lama',
+    'ce17984e-c64d-5766-9841-42d2d135bdb8' => [
+        'Success is an absurd, erratic thing. She arrives when one least expects her and after she has come may depart again almost because of a whim.',
+        'Alice Foote MacDougall',
     ],
 ];

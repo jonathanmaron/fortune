@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Physics is about questioning, studying, probing nature. You probe, and, if you\'re lucky, you get strange clues.',
-        'Lene Hau',
+    '5a21f01a-ac1c-5f9f-be6b-6d2543fd0356' => [
+        '\'Top Gear\' changed people\'s perceptions of me. I\'ve had much more positive responses from my TV appearances than written articles. And I have the weirdest voice.',
+        'James Blunt',
     ],
-    [
-        'I don\'t return anybody\'s calls unless it\'s going to mean extra money for me. And I\'ve completely cut off all relationships with any friends that I had before the show. And I\'ve copped an attitude.',
-        'Mike Judge',
+    '91175cc9-70a8-5db1-a0c3-0b90960f7666' => [
+        'You can\'t trust without risk but neither can you live in a cocoon.',
+        'Byron Pulsifer',
     ],
-    [
-        'Hard work keeps the wrinkles out of the mind and spirit.',
-        'Helena Rubinstein',
+    '8413217c-4083-57e8-9ca1-06d7b0783039' => [
+        'Suddenly life has new meaning to me, there\'s beauty up above and things we never take notice of, you wake up suddenly you\'re in love.',
+        'Billy Ocean',
     ],
-    [
-        'Some people think that the truth can be hidden with a little cover-up and decoration. But as time goes by, what is true is revealed, and what is fake fades away.',
-        'Ismail Haniyeh',
+    'bdb4d19d-431c-58d4-a246-bd66c3c4989b' => [
+        'Europe and Africa share proximity and history, ideas and ideals, trade and technology. You are tied together by the ebb and flow of people. Migration presents policy challenges - but also represents an opportunity to enhance human development, promote decent work, and strengthen collaboration.',
+        'Ban Ki-moon',
     ],
-    [
-        'You won\'t skid if you stay in a rut.',
-        'Kin Hubbard',
+    '6cbaf35b-ca94-54a9-b683-5b834e0ae696' => [
+        'I love to travel. I\'m a curious person.',
+        'Hilary Swank',
     ],
-    [
-        'The lesson of travel seems to be so banal, but so great, which is that people are just so amazingly decent the world over. Given the disparity of income and wealth, it\'s amazing not just that you don\'t get robbed everywhere - it\'s amazing you don\'t get eaten.',
-        'Geoff Dyer',
+    '792c6426-954e-5265-8b50-b592830ce3f1' => [
+        'If you kick a stone in anger, you\'ll hurt your own foot.',
+        'Korean proverb',
     ],
-    [
-        'Sometimes people just want you to fail. Except your really good friends. I\'ve always known who my best friends were.',
-        'Kato Kaelin',
+    '6840bd0a-66c4-54a9-9933-fab6c8c3b994' => [
+        'Kindness is the greatest wisdom.',
+        'Unknown',
     ],
-    [
-        'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don\'t think about it is when I\'m playing it.',
-        'Carl Yastrzemski',
+    '97042cf4-b87e-5c99-b088-2ddc36f87023' => [
+        'That\'s my gift. I let that negativity roll off me like water off a duck\'s back. If it\'s not positive, I didn\'t hear it. If you can overcome that, fights are easy.',
+        'George Foreman',
     ],
-    [
-        'Always remember that striving and struggle precede success, even in the dictionary.',
-        'Sarah Ban Breathnach',
+    '98310c58-5af5-5a31-b906-e2c776c53ca4' => [
+        'My mother never put an emphasis on looks. She let us grow up on our own time line. She never forced any beauty regimen into my world.',
+        'Rachel McAdams',
     ],
-    [
-        'When you realize who the good people are in your life, you\'re so lucky.',
-        'Brian Baumgartner',
+    'b7de3623-47fa-5b3d-816b-0ac1937310f9' => [
+        'I like to post positive content, and I like to try and make people smile. That\'s why those videos are popular. I don\'t fake it.',
+        'Cameron Dallas',
     ],
-    [
-        'I get very nervous whenever I think about it. I\'ve never done a serious play, and I have such awe of the woman - she\'s really my only idol. It\'s going to be a big stretch - certain people come out on stage and your face muscles automatically tense and you get ready to smile.',
-        'Judy Holliday',
+    '8e9cd7ba-bead-5400-9ab4-ff34bc69b3aa' => [
+        'I never did quite fit the glamour mode. It is life with my husband and family that is my high now.',
+        'Patty Duke',
     ],
-    [
-        'Travel is impossible, but daydreaming about travel is easy.',
-        'B. J. Novak',
+    '354cd2d6-9126-5930-9256-ece97160c762' => [
+        'But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.',
+        'H. P. Lovecraft',
     ],
-    [
-        'I\'ve only had two rules: Do all you can and do it the best you can. It\'s the only way you ever get that feeling of accomplishing something.',
-        'Colonel Sanders',
+    '7879bbb9-cc81-5602-80d1-86bf982ba0c9' => [
+        'Our work is never over.',
+        'Kanye West',
     ],
-    [
-        'When one tugs at a single thing in nature, he finds it attached to the rest of the world.',
-        'John Muir',
+    '23cdbac1-0d47-5a40-b63e-8fa263f36642' => [
+        'My life needs editing.',
+        'Jack Nicholson',
     ],
-    [
-        'A man is not old as long as he is seeking something.',
-        'Edmond Rostand',
+    '9ff30753-2370-5d68-a7aa-a2de387c9b90' => [
+        'Self-belief and hard work will always earn you success.',
+        'Virat Kohli',
     ],
-    [
-        'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
-        'Buddha',
+    '52eacda4-a854-57a1-bcc0-89409c2682be' => [
+        'We have to remember that Putin was a member of the KGB. He has already demonstrated that kind of macho, dictatorial attitude. Russia has breached their pledge to uphold the Olympic charter. This is a great opportunity for the IOC to say we cannot, given the situation that exists currently, allow the Olympics to take place in Russia.',
+        'George Takei',
     ],
-    [
-        'Success has nothing to do with what you gain in life or accomplish for yourself. It\'s what you do for others.',
-        'Danny Thomas',
+    '558b4ac1-1ea6-51d0-8313-32748696927b' => [
+        'The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another\'s, smile at someone and receive a smile in return, are to me continual spiritual exercises.',
+        'Leo Buscaglia',
     ],
-    [
-        'The more time you spend contemplating what you should have done... you lose valuable time planning what you can and will do.',
-        'Lil Wayne',
+    '5f857e4c-3381-5b98-acd8-92c95489ca1d' => [
+        'I am seeking, I am striving, I am in it with all my heart.',
+        'Vincent Van Gogh',
     ],
-    [
+    'e78e32b4-51c3-5700-a10f-c61ffc09832f' => [
+        'I\'ve certainly had a bad attitude to my job on many occasions. Not since \'Four Weddings and a Funeral\'. I\'ve been rather a good boy and really given it everything when I\'ve accepted a part since then, because I\'ve been given much better parts in films.',
+        'Hugh Grant',
+    ],
+    'a4328d99-3a34-529d-9cde-88d4df4de3c5' => [
+        'Sometimes the very best of all summer books is a blank notebook. Get one big enough, and you can practice sketching the lemon slice in your drink or the hot lifeguard on the beach or the vista down the hill from your cabin.',
+        'Michael Dirda',
+    ],
+    '8595fcc4-0486-5c19-9741-496a051ec191' => [
+        'Christmas is the day that holds all time together.',
+        'Alexander Smith',
+    ],
+    'aa008537-4c85-55b2-a214-9a41021ee771' => [
+        'The greatest self is a peaceful smile, that always sees the world smiling back.',
+        'Bryant H. McGill',
+    ],
+    'a1944eba-6e2a-5e3c-9c73-0449e9d3b3ce' => [
+        'Sometimes we let life guide us, and other times we take life by the horns. But one thing is for sure: no matter how organized we are, or how well we plan, we can always expect the unexpected.',
+        'Jurgen Klopp',
+    ],
+    '87ee1135-843f-5f64-9834-59493dda52f5' => [
+        'It is even harder for the average ape to believe that he has descended from man.',
+        'H. L. Mencken',
+    ],
+    '4862463f-a9ed-5347-86dc-f06f9870e38d' => [
         'I\'ve never wanted anybody to like me because I had long hair or short hair, or that they liked the way I dressed or they liked the way I dressed or they liked the way I smile.',
         'David Allan Coe',
-    ],
-    [
-        'We all need to make time for a burger once in a while.',
-        'Erica Durance',
-    ],
-    [
-        'I didn\'t understand key signatures or anything, you know. I\'d say silly things at the top of a trumpet part like, \'Note, when you play B naturals, make the B naturals a half step lower because they sound funny if they\'re B naturals.\' And some guy said: \'Idiot, just put a flat on the third line and it\'s a key signature, you know?\'',
-        'Quincy Jones',
-    ],
-    [
-        'Do not give your attention to what others do or fail to do; give it to what you do or fail to do.',
-        'Dhammapada',
-    ],
-    [
-        'Nature favors those organisms which leave the environment in better shape for their progeny to survive.',
-        'James Lovelock',
-    ],
-    [
-        'I know people who\'ve had a nose job, and they\'ve walked out feeling a million dollars, and their confidence is tenfold. Good on them! Natural beauty comes in all different shapes and sizes, but if you think surgery would right something you have a problem with, then why shouldn\'t you do it?',
-        'Louise Nurding',
-    ],
-    [
-        'Silence is as deep as eternity, speech a shallow as time.',
-        'Thomas Carlyle',
     ],
 ];

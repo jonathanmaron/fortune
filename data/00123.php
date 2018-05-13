@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Knowledge is being aware of what you can do. Wisdom is knowing when not to do it.',
-        'Unknown',
+    '9cf4e31f-e59a-50dc-8050-16d0dc42d3de' => [
+        'Riding Valegro always makes you smile, so I enjoy it.',
+        'Charlotte Dujardin',
     ],
-    [
-        'Hard work always pays off, whatever you do.',
-        'Dustin Lynch',
+    'afd1bcca-a4f5-5e91-939b-352c273953f3' => [
+        'You can\'t really say what is beautiful about a place, but the image of the place will remain vividly with you.',
+        'Tadao Ando',
     ],
-    [
-        'There are three principal means of acquiring knowledge... observation of nature, reflection, and experimentation. Observation collects facts; reflection combines them; experimentation verifies the result of that combination.',
-        'Denis Diderot',
+    'aab551fd-6c19-5a39-8749-b0283787de1e' => [
+        'I am a joyful conservative, unafraid to articulate big ideas with an optimistic smile.',
+        'Kevin Cramer',
     ],
-    [
-        'Faces that have charmed us the most escape us the soonest.',
-        'Walter Scott',
+    '191a659e-7529-5cda-a558-f88c78e4515c' => [
+        'One of the things that I did before I ran for president is I was a professional speaker. Not a motivational speaker - an inspirational speaker. Motivation comes from within. You have to be inspired. That\'s what I do. I inspire people, I inspire the public, I inspire my staff. I inspired the organizations I took over to want to succeed.',
+        'Herman Cain',
     ],
-    [
-        'Not on one strand are all life\'s jewels strung.',
-        'William Morris',
+    '178a5fed-abef-5d7a-99a0-08c1ae2c0cc8' => [
+        'My life is full of drama, and I don\'t have time to worry about something as petty as what I look like.',
+        'Adele',
     ],
-    [
-        'It may sound funny, but I love the South. I don\'t choose to live anywhere else. There\'s land here, where a man can raise cattle, and I\'m going to do it some day.',
-        'Medgar Evers',
+    '89efa583-5f4b-5ad3-928a-f9621e5035e0' => [
+        'Do whatever you do intensely.',
+        'Robert Henri',
     ],
-    [
-        'If you don\'t have your friends and your family, what do you really have? You can have all the money in the world, but with no friends and no family, it\'s no good.',
-        'Meek Mill',
+    'f0d46f37-598d-5258-b29a-daeceeac8d5a' => [
+        'There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.',
+        'Robert Louis Stevenson',
     ],
-    [
-        'I was terrible in English. I couldn\'t stand the subject. It seemed to me ridiculous to worry about whether you spelled something wrong or not, because English spelling is just a human convention - it has nothing to do with anything real, anything from nature.',
-        'Richard P. Feynman',
+    '1ae3df8d-efbc-597c-b62c-362e030645b9' => [
+        'There are always young bands playing in their garages. A lot of punk rock is not going to be in the mainstream. It\'s below the radar. The beauty of it is that you\'re not supposed to always know. It\'s subterranean.',
+        'Billie Joe Armstrong',
     ],
-    [
-        'If you want to shine like a sun, first burn like a sun.',
-        'APJ Abdul Kalam',
+    '76207f57-b10d-51f2-b2cf-049f0e56b8b4' => [
+        'I get pretty much all the exercise I need walking down airport concourses carrying bags.',
+        'Guy Clark',
     ],
-    [
-        'Maintaining a positive working relationship with Mexico\'s leadership will also be crucial to increasing communication and trade. I plan to personally maintain those relationships.',
-        'Doug Ducey',
+    '8dcb56b2-61c5-5a97-a959-6ab9173108e0' => [
+        'What is success? It is a toy balloon among children armed with pins.',
+        'Gene Fowler',
     ],
-    [
-        'I actually think of being funny as an odd turn of mind, like a mild disability, some weird way of looking at the world that you can\'t get rid of.',
-        'Calvin Trillin',
+    '59a687de-1130-5f9f-8f05-619b07b1ef3a' => [
+        'Being yourself is one of the hardest things because it\'s scary. You always wonder whether you\'ll be accepted for who you really are. I decided to call my record \'Inside Out\' because that\'s my motto about life. I don\'t think you ever succeed at trying to be anyone else but who you truly are.',
+        'Iris Murdoch',
     ],
-    [
-        'The main difference in the effectiveness of teaching comes from the thoughts the teacher has had during the entire time of his or her existence and brings into the classroom. A teacher concerned with developing humans affects the students quite differently from a teacher who never thinks about such things.',
-        'Rudolf Steiner',
+    'dae6b3bb-d484-5879-9873-6c71db537640' => [
+        'What nature delivers to us is never stale. Because what nature creates has eternity in it.',
+        'Isaac Bashevis Singer',
     ],
-    [
-        'Faith is love taking the form of aspiration.',
-        'William Ellery Channing',
+    '631a499c-3c0f-5ddc-b005-0fa34a65f18b' => [
+        'The best protection any woman can have... is courage.',
+        'Elizabeth Cady Stanton',
     ],
-    [
-        'I did standup for a lot of years, too, but when you come out as a standup, you get the feeling from a crowd - it\'s a kind of a \'make me laugh\' attitude. But when you come out as an improvisor, they realize that they\'re suggesting everything you do. So they\'re already invested in the scene, and they actually want it to work.',
-        'Ryan Stiles',
+    '769c3cd9-656e-5ec3-9f65-177f5e1ff121' => [
+        'My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.',
+        'Maya Angelou',
     ],
-    [
-        'Positive defaults protect you from yourself - and that helps you to make decisions in the moment that are better for your long-term interests.',
-        'Tom Rath',
+    '19c61eb0-b78f-5ae4-bf7e-63d51050fa74' => [
+        'Beauty is a short-lived tyranny.',
+        'Socrates',
     ],
-    [
-        'What you do today can improve all your tomorrows.',
-        'Ralph Marston',
+    '5ffb55fc-3576-5b91-a62c-37aa8c6db63c' => [
+        'There\'s no success story. Everybody\'s got a ghetto story. You always want to make it bigger than what it is.',
+        'Bernie Mac',
     ],
-    [
-        'I never subscribe to the stay-at-home policy. I\'m not sick of the road or sick of eating in good restaurants around the country. I like to travel.',
-        'Levon Helm',
+    'd7b0eb5d-8fd3-5900-9008-c0043f7d187b' => [
+        'The other night I ate at a real nice family restaurant. Every table had an argument going.',
+        'George Carlin',
     ],
-    [
-        'The biggest hurdle is rejection. Any business you start, be ready for it. The difference between successful people and unsuccessful people is the successful people do all the things the unsuccessful people don\'t want to do. When 10 doors are slammed in your face, go to door number 11 enthusiastically, with a smile on your face.',
-        'John Paul DeJoria',
+    '680300cd-4bc1-53e6-9f2e-9ce257bf346e' => [
+        'My own personal popularity can have no influence over me when the dictates of my best judgment and the obligations of an oath require of me a particular course. Under such circumstances, whether I sink or swim on the tide of popular favor is, to me, a matter of inferior consideration.',
+        'John Tyler',
     ],
-    [
-        'No matter how hard the past, you can always begin again.',
-        'Buddha',
+    'a28cc16d-10ef-5153-b333-362ede6fe4c2' => [
+        'I think I am a travel junkie, and I have never enjoyed anything else in my life more than travelling and going to places.',
+        'Imtiaz Ali',
     ],
-    [
-        'Here ends my forever memorable first High Sierra excursion. I have crossed the Range of Light, surely the brightest and best of all the Lord has built. And, rejoicing in its glory, I gladly, gratefully, hopefully pray I may see it again.',
-        'John Muir',
+    '1b93c0d3-1dfd-5857-852f-ff2f13d126fe' => [
+        'There is nothing deep down inside us except what we have put there ourselves.',
+        'Richard Rorty',
     ],
-    [
-        'Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.',
-        'Hannah Arendt',
+    '6c428373-882a-5591-acce-a5b6363fe6df' => [
+        'When deeds and words are in accord, the whole world is transformed.',
+        'Chuang Tzu',
     ],
-    [
-        'I\'m a big fan of Courtney Love. I love Hole and I love her acting and I love her attitude. I just hope I never meet her in a dark alley.',
-        'Jeff Ross',
+    '512bf105-96a1-532d-a093-0a3748174966' => [
+        'There are so many beautiful things that are a part of the world, and I\'ve always looked at life that way; I\'ve always tried to put on a smile and a brave front, not just for my kids but in my own life and all the difficulties that I\'ve gone through.',
+        'Gloria Estefan',
     ],
-    [
-        'The most important thing is to enjoy your life - to be happy - it\'s all that matters.',
-        'Winston Churchill',
+    '41051135-08b8-5586-ac83-d4b31a3be8e3' => [
+        'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.',
+        'Elayne Boosler',
     ],
-    [
-        'I grew up in a big family with a lot of kids around, and I definitely want to have children as well.',
-        'Heidi Klum',
+    '8cd0732b-0ab6-5893-a4cd-a2b97ef9bce8' => [
+        'My parents are both really, really funny, and my little sister is a really good painter, and my other sister is a really good writer.',
+        'Michael Cera',
     ],
-    [
-        'Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.',
-        'Thomas Carlyle',
+    '9667b9ae-9e14-502f-939c-dc135b00b803' => [
+        'Life is a culmination of the past, an awareness of the present, an indication of a future beyond knowledge, the quality that gives a touch of divinity to matter.',
+        'Rabindranath Tagore',
     ],
 ];

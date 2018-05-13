@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'You can\'t shake hands with a clenched fist.',
-        'Indira Gandhi',
+    '4fcf34bc-2a0b-5b65-b1fe-699495e7c094' => [
+        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
+        'Pam Brown',
     ],
-    [
-        'The whole point is to live life and be - to use all the colors in the crayon box.',
-        'Romy Schneider',
+    'b122e8cc-2932-5078-a4c1-45772e86497b' => [
+        'Life is a work in progress.',
+        'Joni Eareckson Tada',
     ],
-    [
-        'You block your dream when you allow your fear to grow bigger than your faith.',
-        'Mary Morrissey',
+    'edaabbe6-6f1b-56d1-9187-0238ad1a99a0' => [
+        'What I love most about this crazy life is the adventure of it.',
+        'Oprah Winfrey',
     ],
-    [
-        'All our sweetest hours fly fastest.',
-        'Virgil',
+    'cd8f4454-0240-5640-8cfd-e30fbb6a5c22' => [
+        'Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.',
+        'Charles Eastman',
     ],
-    [
-        'Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.',
-        'Sidney Hook',
+    '02c3533a-1cea-50ad-8f3d-9efc7ec31671' => [
+        'I totally let myself indulge, but I make little deals with myself. If I have an extra cupcake, I\'ll run a couple of extra miles. I think it\'s all about balance and not getting into extremes with dieting and exercising. Having a healthy attitude is important, too!',
+        'Megan Hilty',
     ],
-    [
-        'A lot of things have been thrown at me in life, and I\'ve got through it all without a rule book, taking it one day at a time.',
-        'Yoko Ono',
+    'ca30c46f-b2d9-58ce-a165-8adbae52f1e9' => [
+        'The more light you allow within you, the brighter the world you live in will be.',
+        'Shakti Gawain',
     ],
-    [
-        'Human beings want to be free and however long they may agree to stay locked up, to stay oppressed, there will come a time when they say \'That\'s it.\' Suddenly they find themselves doing something that they never would have thought they would be doing, simply because of the human instinct that makes them turn their face towards freedom.',
-        'Aung San Suu Kyi',
+    'cd8159b4-47b7-52ef-b5fb-1a7f8e6ea9b2' => [
+        'There are only three things women need in life: food, water, and compliments.',
+        'Og Mandino',
     ],
-    [
-        'What about the rat race in the first place? Is it worthwhile? Or are you just buying into someone else\'s definition of success? Only you can decide that, and you\'ll have to decide it over and over and over. But if you think it\'s a rat race, before you drop out, take a deep breath. Maybe you picked the wrong job. Try again. And then try again.',
-        'Sheryl Sandberg',
+    '3b68fce1-229e-5b35-8998-f5100729e291' => [
+        'I travel around the world, and there are so many beautiful girls, but that\'s not going to make you a supermodel. You have to have something more than just a pretty face.',
+        'Irina Shayk',
     ],
-    [
-        'Everybody does what she needs. And if you want plastic surgery, and then you feel better, why not? There is no law. I\'ve nothing against using something to help your beauty - but do it in a good way, with intelligence.',
-        'Monica Bellucci',
+    'c4e124b7-75a0-5153-8c0b-097cba26d43a' => [
+        'A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.',
+        'Bernard Shaw',
     ],
-    [
-        'I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but it should get you pretty near.',
-        'Margaret Thatcher',
+    'c3402906-c22a-56db-8015-f467222ef13c' => [
+        'We must go fast, because the race is against time.',
+        'Anna Held',
     ],
-    [
-        'I completely agree that a sound sleep is the best beauty product. Sound sleep, one of the most important but underrated thing, helps to make you more beautiful. I can never understand how people work so hard that they miss out on their sleep.',
-        'Shraddha Kapoor',
+    'e443ea49-94c9-5138-beee-866939127943' => [
+        'Give light, and the darkness will disappear of itself.',
+        'Desiderius Erasmus',
     ],
-    [
-        'Tragedy is when I cut my finger. Comedy is when you fall into an open sewer and die.',
-        'Mel Brooks',
+    '69ff2ec8-3124-51a8-9a3c-ffd4281bc0d1' => [
+        'Although he\'s no longer with us, Steve Jobs is still inspirational to me, as he managed to find the balance between right brain/left-brain thinking that is crucial to building a creative technology business.',
+        'Imran Amed',
     ],
-    [
-        'The difference between the impossible and the possible lies in a person\'s determination.',
-        'Tommy Lasorda',
+    '3b6cfd8a-10bd-5ece-b9f3-2fbb64265d0b' => [
+        'The success of any stand-up act comes out of life experience.',
+        'Howie Mandel',
     ],
-    [
-        'We cannot direct the wind but we can adjust the sails.',
-        'Unknown',
+    '92e29a63-63c3-5a32-ada4-382a554ed3e8' => [
+        'Children should be able to live a life free from bullying and harassment and it is time that we all took a stand against this.',
+        'Katherine Jenkins',
     ],
-    [
-        'Everyone looks so much better when they smile.',
-        'Jimmy Fallon',
+    '4dfb33fe-ae70-5727-8e6e-d5796184fdc9' => [
+        'My quick beauty tip is always have a tinted gloss of some kind to give you some color even if you have no makeup on.',
+        'Rachel Bilson',
     ],
-    [
-        'If one is lucky, a solitary fantasy can totally transform one million realities.',
-        'Maya Angelou',
+    'bac84ca4-95e1-57ea-a5e4-5806f6584048' => [
+        'Animals represent the abstract notion of acceptance. Living with these funny creatures - you kind of have to accept them. It\'s like a test in a way.',
+        'Shaun Tan',
     ],
-    [
-        'Success comes when people act together; failure tends to happen alone.',
-        'Deepak Chopra',
+    '0ad16095-50af-59f6-b7ae-823901a47b6b' => [
+        'My parents raised me with a never-give-up attitude, telling me I could be anything I wanted to be. I was a serious violinist and a valedictorian of my high school class. I knew all about hard work.',
+        'Gretchen Carlson',
     ],
-    [
-        'The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do.',
-        'Galileo Galilei',
+    '7bebc59c-3feb-5590-a38c-dc34529a98b0' => [
+        'I believe in the simple things in life; everything derives from the beginning. You take things very simplistically and try to be the best person you can be.',
+        'Bill Goldberg',
     ],
-    [
-        'I\'m a really, really optimistic and really, really positive person. My main thing is, \'Enjoy life. Celebrate life.\'',
-        'Luke Bryan',
+    'fa43aa64-69f5-5b41-b16a-29960dc87530' => [
+        'Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.',
+        'Ella Wheeler Wilcox',
     ],
-    [
-        'Therefore, when I considered this carefully, the contempt which I had to fear because of the novelty and apparent absurdity of my view, nearly induced me to abandon utterly the work I had begun.',
-        'Nicolaus Copernicus',
+    '05d55143-b402-5650-a03f-589e58a3e42b' => [
+        'I have always served the public to the best of my ability. Why? Because, like every other man, it is to my interest to do so.',
+        'Cornelius Vanderbilt',
     ],
-    [
-        'Without hurting anybody, we all tend to laugh at others\' discomfort. When someone slips on a banana skin and falls it\'s funny.',
-        'Shah Rukh Khan',
+    '8a162761-ce35-58ce-af64-ee43ceb1adb3' => [
+        'Life isn\'t a matter of milestones, but of moments.',
+        'Molly Ringwald',
     ],
-    [
-        'If you take a band like Nirvana, their biggest hits are structurally the same as even a hair metal band\'s biggest hits. The structure\'s not different - the attitude was different. Except it really wasn\'t. It seemed a little more human.',
-        'Buzz Osborne',
+    'ac59c770-33e9-5032-9449-5ec1fe2f6018' => [
+        'Vampires are so old that they don\'t need to impress anyone anymore. They\'re comfortable in their own skin. It\'s this enigmatic strength that\'s very romantic and old-fashioned. I think it goes back to something of a Victorian attitude of finding a strong man who\'s going to look after his woman.',
+        'Stephen Moyer',
     ],
-    [
-        'I find it funny how people from Boston and New York hate each other because of pro teams. But, like, everyone on the Red Sox is a random millionaire athlete from somewhere else.',
-        'Julian Casablancas',
+    '0abab4f2-9e12-5bf0-a2b6-f05e77d7ea42' => [
+        'I will sit in the car on the way to a meeting and just smile. I really mean that. It helps you get through life. If you have nothing to say, smile. Look up at the sky and smile. Just be grateful.',
+        'Andre Leon Talley',
     ],
-    [
-        'But with exquisite breathing you smile, with satisfaction of love, And I touch you again as you tick in the silence and settle in sleep.',
-        'Karl Shapiro',
+    'e03306c8-e58d-5767-a7c6-26d1b871e8be' => [
+        'A hero is no braver than an ordinary man, but he is braver five minutes longer.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'I think they need to get a more reliable way of watching television on the laptop. Because I travel so much, if I want to watch my favorite sports team it might not be showing in that place, so I want a reliable way to watch whatever I want to watch on my laptop.',
-        'John Legend',
+    '38e95b7b-8501-530d-a73d-2eb61e7bc2e3' => [
+        'Time flies like an arrow - but fruit flies like a banana.',
+        'Terry Wogan',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Money and success don\'t change people; they merely amplify what is already there.',
-        'Will Smith',
+    'ab449652-0ca0-5e2e-a795-548978c8811d' => [
+        'If one comes across sometimes as being cold or brusque, it\'s simply because I\'m striving for the best.',
+        'Anna Wintour',
     ],
-    [
-        'Jazz music is America\'s past and its potential, summed up and sanctified and accessible to anybody who learns to listen to, feel, and understand it. The music can connect us to our earlier selves and to our better selves-to-come. It can remind us of where we fit on the time line of human achievement, an ultimate value of art.',
-        'Wynton Marsalis',
+    'a6e0b002-2c98-5d70-a7f6-4718cd5d5c74' => [
+        'Some people walk in the rain, others just get wet.',
+        'Roger Miller',
     ],
-    [
-        'As we get older, we get better at choosing in ways that will make us happy. We do a better job at picking activities that make us happy, and at spending time with people who make us happy. We\'re also better at letting things go.',
-        'Sheena Iyengar',
+    '7aee55c7-38f2-5f9f-b8ad-da638bb18c66' => [
+        'I\'m attracted to women who are smart and funny and ambitious and have lives of their own and great families. Isn\'t that what attracts anyone?',
+        'Tom Brady',
     ],
-    [
-        'I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.',
-        'Georg Lichtenberg',
+    'd9d03311-86af-575e-9c24-104fe2edfb5b' => [
+        'To See What Is Right And Not Do It Is A Lack Of Courage.',
+        'Confucious',
     ],
-    [
-        'Even if it turns out that time travel is impossible, it is important that we understand why it is impossible.',
-        'Stephen Hawking',
+    '2b381d8a-0618-5fd0-ae02-0bc9058d5cce' => [
+        'Success is achieved and maintained by those who try and keep trying.',
+        'W. Clement Stone',
     ],
-    [
-        'I grew up in a small, strictly-Catholic fishing village on the coast of Wales. The people there have a different attitude to life than those in Hollywood - people stick together more.',
-        'Catherine Zeta-Jones',
+    '6a87d456-3cb8-5d5e-9091-19cb17610ee7' => [
+        'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
+        'Vincent Van Gogh',
     ],
-    [
-        'You must respect people and work hard to be in shape. And I used to train very hard. When the others players went to the beach after training, I was there kicking the ball.',
-        'Pele',
+    '5df98c92-45ba-56f3-bd51-43fb70b64caa' => [
+        'The odds of hitting your target go up dramatically when you aim at it.',
+        'Mal Pancoast',
     ],
-    [
-        'Creativity Is Intelligence Having Fun.',
-        'Albert Einstein',
+    '49a06a03-397f-518a-825c-3dd8e8882bb3' => [
+        'The story of \'Highway\' is completely about travel. It is about the fascination of travel to an extent that I don\'t want to even reach the destination and also being away from society gives you a certain view of the society, so that was the intention of the film.',
+        'Imtiaz Ali',
     ],
-    [
-        'Life is like a sewer. What you get out of it depends on what you put into it.',
-        'Tom Lehrer',
+    'b7868c1a-c516-5356-8cbc-dabc6f62304c' => [
+        'If you want to conquer fear, don\'t sit home and think about it. Go out and get busy.',
+        'Dale Carnegie',
     ],
-    [
-        'I find being funny very hard work. I am always asked about it, and I feel guilty saying that, but it\'s the truth. I love my work, but it ain\'t easy.',
-        'Madeline Kahn',
+    '4e20e1d6-cf17-5b15-8988-28c8d8f057b6' => [
+        'Women were freed from positive duties when they could not perform them, but not when they could.',
+        'Henrietta Szold',
     ],
-    [
-        'Letting go isn\'t the end of the world; it\'s the beginning of a new life.',
-        'Unknown',
+    'c36a38de-ae15-553a-bb40-299ab86b9307' => [
+        'I want to explore a new place each year, and it can be within India. When I was shooting for \'Mohenjo Daro\', I couldn\'t travel out of the country for two years. But it gave me an opportunity to explore new places within India. I\'m sure there are so many places to explore in India, and I would love to go there.',
+        'Pooja Hegde',
     ],
-    [
-        'The absence of flaw in beauty is itself a flaw.',
-        'Havelock Ellis',
+    'e4c079df-5508-5297-b9fa-01125bdfafc6' => [
+        'I live in a crazy time.',
+        'Anne Frank',
     ],
-    [
-        'I found there was only one way to look thin: hang out with fat people.',
-        'Rodney Dangerfield',
+    '0faf9fe5-4126-5cf0-a3ec-17665c4e2338' => [
+        'In order to be irreplaceable one must always be different.',
+        'Coco Chanel',
     ],
-    [
-        'Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.',
-        'Samuel Smiles',
+    'bb6c219b-1cc8-57a3-857f-0e12b26f4ab3' => [
+        'It\'s funny because I\'m a sucker for glitz and glitter when it comes to clothes and nail polish, but with my makeup, I\'m more comfortable with a natural look. It feels more like me.',
+        'Alison Sweeney',
     ],
-    [
-        'If a cluttered desk is the sign of a cluttered mind, what is the significance of a clean desk?',
-        'Laurence J. Peter',
+    'd697a384-d851-5ffe-844a-c10e8c4ce063' => [
+        'Women now have choices. They can be married, not married, have a job, not have a job, be married with children, unmarried with children. Men have the same choice we\'ve always had: work, or prison.',
+        'Tim Allen',
     ],
-    [
-        'The attitude of physiological psychology to sensations and feelings, considered as psychical elements, is, naturally, the attitude of psychology at large.',
-        'Wilhelm Wundt',
+    'd612e099-08dc-5bf2-b31d-612a6ce69cc9' => [
+        'And the attitude of faith is the very opposite of clinging to belief, of holding on.',
+        'Alan Watts',
     ],
-    [
-        'You know some of the people in The Strokes, yeah, their parents had success - but we didn\'t live like yuppies.',
-        'Julian Casablancas',
+    'a0659001-5062-5bb4-9bde-1a94620f2a5c' => [
+        'You need to be able to manage stress because hard times will come, and a positive outlook is what gets you through.',
+        'Marie Osmond',
     ],
-    [
-        'Music is my religion.',
-        'Jimi Hendrix',
+    'ad159ee2-ff13-58e6-8579-47f9244ee64a' => [
+        'Nothing else matters so much as long as you can come home and be with your family.',
+        'Patrick Dempsey',
     ],
-    [
-        'External nature is only internal nature writ large.',
-        'Swami Vivekananda',
+    'f62795c1-8492-5192-a7ec-89b6e0f073da' => [
+        'Each of us should think of the future. Every puff on a cigarette is another tick closer to a time bomb of terrible consequences. Christopher Hitchens didn\'t care about the consequences of smoking cigarettes. Tragically, he died of throat cancer in December 2011.',
+        'Ray Comfort',
     ],
-    [
-        'Success is full of promise till one gets it, and then it seems like a nest from which the bird has flown.',
-        'Henry Ward Beecher',
+    'dc651ed8-d455-51ba-a141-df6808097d74' => [
+        'The key to growth is the introduction of higher dimensions of consciousness into our awareness.',
+        'Lao Tzu',
     ],
-    [
-        'Real beauty is to be true to oneself. That\'s what makes me feel good.',
-        'Laetitia Casta',
+    '7a5ab83c-6e58-5221-a429-5d276902693c' => [
+        'Desire is the most important factor in the success of any athlete.',
+        'Bill Shoemaker',
     ],
-    [
-        'The people who influence you are the people who believe in you.',
-        'Henry Drummond',
+    '734c21f5-c319-59cf-8a13-4c0b6a9e57f4' => [
+        'I\'m not a big spender or shopper. Neither am I extravagant, nor do I have big expenses. I mainly spend on travel. I don\'t buy overpriced clothes, as I feel such expenses are unnecessary. I probably wouldn\'t buy expensive watches or jewellery either.',
+        'Katrina Kaif',
     ],
-    [
-        'The best revenge is massive success.',
-        'Frank Sinatra',
+    'e69f1acb-a709-5255-8400-66a109307206' => [
+        'Rain is grace; rain is the sky descending to the earth; without rain, there would be no life.',
+        'John Updike',
     ],
-    [
-        'It\'s one of the greatest gifts you can give yourself, to forgive. Forgive everybody.',
-        'Maya Angelou',
+    '4e49f51c-1851-5248-b993-9e2c622fe721' => [
+        'I mean, the first \'Back to the Future\' is kind of a perfect script, I think, in terms of handling time travel the best. It depends on your definition. To me, that means it effectively uses it in the story.',
+        'Rian Johnson',
     ],
-    [
-        'Each blade of grass has its spot on earth whence it draws its life, its strength; and so is man rooted to the land from which he draws his faith together with his life.',
-        'Joseph Conrad',
+    '5d3f569a-8baa-50cd-a1de-07ee946c22d2' => [
+        'The care of human life and happiness, and not their destruction, is the first and only object of good government.',
+        'Robert Henri',
     ],
 ];

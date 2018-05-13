@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My husband changed jobs so fast that I simply never knew what business he was in.',
-        'Rose Kennedy',
+    '44dd5318-31c3-53a3-b2bb-c59930464419' => [
+        'Financial freedom is available to those who learn about it and work for it.',
+        'Robert Kiyosaki',
     ],
-    [
-        'I like doing what I do, but I like having the opportunity to do different things, and obviously comedy would be a fun jump. I\'ve just been lucky enough to stay working. In my case, playing intense roles or playing character roles is something that people will hire me for, but yeah, I\'d like somebody to think I\'m funny. I guess we all do, right?',
-        'Jason Wiles',
+    'b64f73e6-5589-55a9-b745-32dfc3476649' => [
+        'Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.',
+        'John Wooden',
     ],
-    [
-        'A weed is no more than a flower in disguise.',
-        'James Lowell',
+    '4f882491-dda8-545d-8f81-ef730f8581df' => [
+        'It would be difficult for me not to conclude that the most perfect type of masculine beauty is Satan, as portrayed by Milton.',
+        'Charles Baudelaire',
     ],
-    [
-        'The day you decide to do it is your lucky day.',
-        'Japanese proverb',
+    '9eefc904-bda5-5b39-904e-636afc54679c' => [
+        'Don\'t be distracted by criticism. Remember--the only taste of success some people get is to take a bite out of you.',
+        'Zig Ziglar',
     ],
-    [
-        'Remember that physical beauty is evolution\'s way of assuring us that the other person doesn\'t have too many intestinal parasites.',
-        'Ben Bernanke',
+    '99c84be8-7cd9-525f-be7f-45f8ba9739cb' => [
+        'My attitude about Hollywood is that I wouldn\'t walk across the street to pull one of those executives out of the snow if he was bleeding to death. Not unless I was paid for it. None of them ever did me any favors.',
+        'James Woods',
     ],
-    [
-        'Confidence and empowerment are cousins in my opinion. Empowerment comes from within and typically it\'s stemmed and fostered by self-assurance. To feel empowered is to feel free and that\'s when people do their best work. You can\'t fake confidence or empowerment.',
-        'Amy Jo Martin',
+    'd502c3e0-98de-5ea1-99e8-6b0516435441' => [
+        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
+        'Alek Wek',
     ],
-    [
-        'One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.',
-        'Unknown',
+    '981bbff3-4936-5736-b90e-281cf6226add' => [
+        'Everything in excess is opposed to nature.',
+        'Hippocrates',
     ],
-    [
-        'If you come to a fork in the road, take it.',
-        'Unknown',
+    'c4ebb740-994b-538c-b0c1-003d0e3c0a80' => [
+        'Expert: a man who makes three correct guesses consecutively.',
+        'Laurence J. Peter',
     ],
-    [
-        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
-        'Unknown',
+    '017209dd-5657-5c24-9e6c-96d04147acc0' => [
+        'Many individuals are doing what they can. But real success can only come if there is a change in our societies and in our economics and in our politics.',
+        'David Attenborough',
     ],
-    [
-        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
-        'Trey Anastasio',
+    'db851b04-03a5-569f-90cf-7df60eb2ca31' => [
+        'Obviously, the highest type of efficiency is that which can utilize existing material to the best advantage.',
+        'Jawaharlal Nehru',
     ],
-    [
-        'In nature we never see anything isolated, but everything in connection with something else which is before it, beside it, under it and over it.',
-        'Johann Wolfgang von Goethe',
+    'd44ee8f0-4832-53fc-9c5b-4c47bf50a6ed' => [
+        'Where all think alike, no one thinks very much.',
+        'Walter Lippmann',
     ],
-    [
-        'Goodness is beauty in the best estate.',
-        'Christopher Marlowe',
+    '8d6fa190-3f77-555c-9d7f-0f94d1ddb6af' => [
+        'Success is getting and achieving what you want. Happiness is wanting and being content with what you get.',
+        'Bernard Meltzer',
     ],
-    [
-        'Patience is the companion of wisdom.',
-        'Saint Augustine',
+    '5f45f419-cfe9-5178-9299-32af93f27860' => [
+        'Everyone has inside of him a piece of good news. The good news is that you don\'t know how great you can be! How much you can love! What you can accomplish! And what your potential is!',
+        'Anne Frank',
     ],
-    [
-        'Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.',
-        'Og Mandino',
+    '2919076a-52bc-53c0-b00f-c9b0951efe9d' => [
+        'I have always argued that change becomes stressful and overwhelming only when you\'ve lost any sense of the constancy of your life. You need firm ground to stand on. From there, you can deal with that change.',
+        'Richard Nelson Bolles',
     ],
-    [
-        'I don\'t have friends, and it\'s hard for me to make new friends. Right now, the people that are in my life are the people that I work with.',
-        'Questlove',
+    '3a827ac9-9e60-5776-b2a8-cfdd9e630aa9' => [
+        'An investment in knowledge pays the best interest.',
+        'Benjamin Franklin',
     ],
-    [
-        'Everything I\'ve been through, everything I\'m about to go through in my career and my life, if my family wasn\'t with me and didn\'t support me, it would be really tough.',
-        'Karl Malone',
+    '96605bb4-8fba-5079-bd36-32a02fae67a1' => [
+        'I was weaned not on television or Wild West sagas but on stories of nationalism and patriotism. I would sit at my mother\'s feet by the hour and drink in these exciting tales of the freedom fighters in our family.',
+        'Sukarno',
     ],
-    [
-        'If I studied all my life, I couldn\'t think up half the number of funny things passed in one session of congress.',
-        'Will Rogers',
+    '466fe224-034d-5d31-b58c-21b5c5e5075b' => [
+        'Circumstances in life often take us places that we never intended to go. We visit some places of beauty, others of pain and desolation.',
+        'Kristin Armstrong',
     ],
-    [
-        'Remember always that the composer\'s pen is still mightier than the bow of the violinist; in you lie all the possibilities of the creation of beauty.',
-        'John Philip Sousa',
+    '79451d5a-4aa7-5d13-aea1-9889168561c0' => [
+        'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
+        'John Wayne',
     ],
-    [
-        'We\'ve had hassles, ups and downs, ins and outs, failures and triumphs. We\'re human beings, and we\'re not perfect. And we\'re mortal. But the Beach Boys is musically a tremendous body of work that transcends individuality and time and national boundaries.',
-        'Mike Love',
+    '011b0af6-067f-5226-857d-47e070d32adf' => [
+        'A photograph can be an instant of life captured for eternity that will never cease looking back at you.',
+        'Wayne Dyer',
     ],
-    [
-        'Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind.',
-        'Henri Frederic Amiel',
+    '9bae3b50-a80d-553d-b575-4373e3ac78a7' => [
+        'If you don\'t have public hangings for bad culture in a company, if you don\'t take people out and let them say, they went home to spend more time with the family. It\'s crazy.',
+        'Jack Welch',
     ],
-    [
-        'Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?',
-        'Tony Robbins',
+    '274b0c5e-2c25-5cb8-8801-2e8166cc2d71' => [
+        'Beauty is only skin deep.',
+        'Thomas Overbury',
     ],
-    [
-        'You are not free until you have no need to impress anybody.',
-        'Joyce Meyer',
+    '0b51af7a-9f44-5009-898e-9c4978088e31' => [
+        'Even when disco went out, I could still make hits. Once I had so much success, every idea became concentrated. I had so much confidence. I knew how the bass should sound, what rhythms would work. The tempos I knew: 110 to 120 BPM. I knew they would dance in the clubs in New York or anywhere.',
+        'Giorgio Moroder',
     ],
-    [
-        'While we cannot predict the future, we will most surely live it. Every action and decision we take - or don\'t - ripples into the future. For the first time, we have the capability, the technology, and the knowledge to direct those ripples.',
-        'Jacque Fresco',
+    'a042afcb-df01-57e5-a62f-d77c3af32739' => [
+        'We do need an attitude of leadership in our government which demonstrates faith in major population centres outside of Perth.',
+        'Andrew Forrest',
     ],
-    [
-        'Eighty percent of success is showing up.',
-        'Woody Allen',
+    '92ee360c-319b-52c2-a7f7-8a0014486624' => [
+        'Beauty is an asset, just like physical prowess, charisma, brains or emotional intelligence. The key with any gift is in the way that you use it. It doesn\'t define you as a person. Rather, it\'s an asset to be used judiciously and with an understanding of how it is just a small part of who you are.',
+        'Dale Archer',
     ],
-    [
-        'My family background is Mexican, and I was born in Chicago. It\'s pretty much family tradition every time we get together for Christmas and major holidays to sing. Our family time is centered around the food and a little bit of performing for one another.',
-        'Ailyn Perez',
+    '1547baf1-3109-50df-aded-3fddc5618fa1' => [
+        'Always think of what is useful and not what is beautiful. Beauty will come of its own accord.',
+        'Nikolai Gogol',
     ],
 ];

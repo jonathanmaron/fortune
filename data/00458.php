@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.',
-        'Thich Nhat Hanh',
+    'a4a2a489-39cc-512a-9413-e9489464c203' => [
+        'Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.',
+        'Marcus Aurelius',
     ],
-    [
-        'I travel a lot, so when I arrive in a city, I like to go to good local bookshops and make a selection based on how I\'m feeling and what I\'m thinking. The book I pick usually seems to have a definite karmic connection!',
-        'Yoko Ono',
+    'e75bb1de-2bc7-55d1-844c-3ff0f3abddb7' => [
+        'Let\'s have some new cliches.',
+        'Samuel Goldwyn',
     ],
-    [
-        'Grit can\'t be measured on pop quizzes, but it can often predict long-term success more than mere intelligence.',
-        'Laura Moser',
+    '020648a6-7e12-5120-bcd1-e1fb7faa73d2' => [
+        'Garbage is the part of your history you don\'t want your family to know about.',
+        'Vik Muniz',
     ],
-    [
-        'I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings that I have are all worthy and okay.',
-        'Tracee Ellis Ross',
+    'ee487cb6-6641-5865-a1d7-43b1179e0e95' => [
+        'I am a happy person and I choose to be a positive person. I think some people think my life has been tragic and there have been these horrible dramas but things really have been, and are, fine.',
+        'Patsy Kensit',
     ],
-    [
-        'You know the funny thing, I don\'t get along with rich people. I get along with the middle class and the poor people better than I get along with the rich people.',
-        'Donald Trump',
+    '8c5e6224-0a47-579c-8fde-ffe11a202a5e' => [
+        'The fall is my favorite time of year. I love the colors. The sun is out, you get warmth on your skin but there\'s the coolness of the breeze. It\'s really comfortable.',
+        'Ricky Skaggs',
     ],
-    [
-        'In Chicago, you have an absence of strong family units, and that absence gets filled by gangs. You have a failure in the school system, after-school programs and other social programs to help keep kids off the streets. Amnesty International speaks to that in some way, by keeping these issues in the forefront.',
-        'Lupe Fiasco',
+    '8b0ff836-3cf2-541f-b6f2-fcae9c004572' => [
+        'It will be disastrous when a leader or manager shows up with one attitude one day and treats people with a different attitude the next day.',
+        'Zig Ziglar',
     ],
-    [
-        'And know that I am with you always; yes, to the end of time.',
-        'Jesus Christ',
+    '8864f1c1-c07b-59af-b686-e8d6150ca89f' => [
+        'Today, we\'re still loaded down - and, to some extent, embarrassed - by ancient myths, but we respect them as part of the same impulse that has led to the modern, scientific kind of myth. But we now have the opportunity to discover, for the first time, the way the universe is in fact constructed as opposed to how we would wish it to be constructed.',
+        'Carl Sagan',
     ],
-    [
-        'Stories in families are colossally important. Every family has stories: some funny, some proud, some embarrassing, some shameful. Knowing them is proof of belonging to the family.',
-        'Salman Rushdie',
+    'b98a4d5c-0e7d-5145-b18f-77f683edd513' => [
+        'The first and most important step toward success is the feeling that we can succeed.',
+        'Nelson Boswell',
     ],
-    [
-        '\'Try Again\' - every time I hear that song, it just brings a smile to your face. When you\'re feeling like crap, and you hear, \'Dust yourself off and try again,\' it kind of just puts you in a different mindset, 100 percent.',
-        'Alexandra Shipp',
+    'f2310f7a-4165-5ebd-94e3-0c21bfda4004' => [
+        'The things we know best are the things we haven\'t been taught.',
+        'Luc de Clapiers',
     ],
-    [
-        'Sometimes it takes dealing with a disability - the trauma, the relearning, the months of rehabilitation therapy - to uncover our true abilities and how we can put them to work for us in ways we may have never imagined.',
-        'Tammy Duckworth',
+    '0d9d90b4-7808-5ee3-9225-493993027baf' => [
+        'What I like about modelling is that it has given me that opportunity to travel and experience different cultures, work with creative people, and now it\'s given me a voice, and with that voice hopefully I can do good things with it.',
+        'Miranda Kerr',
     ],
-    [
-        'We\'re kind of the comic relief of this movie because most of the stories are very dark. And that\'s why these plays were so great, because it\'s such a dark, dark universe that it becomes funny because it\'s just too pathetic.',
-        'Caroline Dhavernas',
+    '753a47ba-f889-5f7a-9ca5-6158e8b9b490' => [
+        'Today, smartphones, tablets, and the Internet have allowed people to conduct business from anywhere at any time. But as we continue to progress, many families find it harder to balance the ever-increasing demands of their work with their desire to care for and be with their family.',
+        'Renee Ellmers',
     ],
-    [
-        'My father, Abe, was a small businessman. For 32 years, he ran an exterminating company. That may explain why our family always associated the smell of roach spray with love.',
-        'Chuck Schumer',
+    'fc47b23a-21d5-5242-9734-cda8babb88c3' => [
+        'No great thing is created suddenly.',
+        'Epictetus',
     ],
-    [
-        'Yes sir, I am a tortured man for all seasons, as they say, and I have powerful friends in high places. Birds sing where I walk, and children smile when they see me coming.',
-        'Hunter S. Thompson',
+    '540f98e7-8ef1-5ba9-96d7-1ce877269e6d' => [
+        'When you\'ve been touched by sadness and grief, it makes you vulnerable. And because I am vulnerable, I try to be positive. And when I say \'try,\' I really do mean try, because it\'s an effort.',
+        'Marie Helvin',
     ],
-    [
-        'You know you are on the road to success if you would do your job, and not be paid for it.',
-        'Oprah Winfrey',
+    'dbc72056-82de-5612-be24-ff6b991bf855' => [
+        'It\'s almost always possible to be honest and positive.',
+        'Naval Ravikant',
     ],
-    [
-        'What is not started today is never finished tomorrow.',
-        'Johann Wolfgang von Goethe',
+    '07fb380f-0a9f-5c4a-b733-6620273ba691' => [
+        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
+        'Unknown',
     ],
-    [
-        'When you look at Japanese traditional architecture, you have to look at Japanese culture and its relationship with nature. You can actually live in a harmonious, close contact with nature - this very unique to Japan.',
-        'Tadao Ando',
+    '7df974cf-de3f-5191-8aa3-11718e6faab2' => [
+        'I used to watch some of the reality shows about models, and then, weirdly, now I try to incorporate into my fashion shoots the skills I learnt from watching those shows. It\'s like, thanks Tyra, \'cause you\'ve given me, like, all the cool tips. Like how to smile with your eyes.',
+        'Rebel Wilson',
     ],
-    [
-        'Real difficulties can be overcome; it is only the imaginary ones that are unconquerable.',
-        'Theodore N. Vail',
+    '0a6524f5-ed30-5596-a4a4-cc66455357e0' => [
+        'Great perils have this beauty, that they bring to light the fraternity of strangers.',
+        'Victor Hugo',
     ],
-    [
-        'By doing something positive in this world, you\'re helping people and the future. We\'re all trying to help the world... make it a better place to live. We\'re actually still changing the world, aren\'t we?',
-        'Rick Danko',
+    'bef52a84-314e-5f56-afbe-08bb54fb9ba3' => [
+        'If you\'re successful, it\'s important to enjoy it! I love shopping for clothes, branded clothes. I love shopping in England, Dubai. I like to travel whenever I can.',
+        'Suresh Raina',
     ],
-    [
-        'Intelligence is the source of technology. If we can use technology to improve intelligence, that closes the loop and potentially creates a positive feedback cycle.',
-        'Eliezer Yudkowsky',
+    '4cd15ed2-49f2-5270-97db-fd27a3b26287' => [
+        'When radium was discovered, no one knew that it would prove useful in hospitals. The work was one of pure science. And this is a proof that scientific work must not be considered from the point of view of the direct usefulness of it.',
+        'Marie Curie',
     ],
-    [
-        'Can anything be sadder than work left unfinished? Yes, work never begun.',
-        'Christina Rossetti',
+    '2549aff0-1e46-50db-bc27-fb2f8f8a3a18' => [
+        'Our family life was certainly not intellectual.',
+        'Douglass North',
     ],
-    [
-        'Listening to the stories my colleagues are researching and grappling with - in terms of access to documents, psychological understanding of their subjects, artful composition and determination to extrapolate from an individual\'s life lessons and insights that we can all learn from - I am each time overwhelmed by joy.',
-        'Nigel Hamilton',
+    '42cc4e5d-96fd-54b0-b91d-da106c5b7cad' => [
+        'Human beings want to be free and however long they may agree to stay locked up, to stay oppressed, there will come a time when they say \'That\'s it.\' Suddenly they find themselves doing something that they never would have thought they would be doing, simply because of the human instinct that makes them turn their face towards freedom.',
+        'Aung San Suu Kyi',
     ],
-    [
-        'Healthy children are born from healthy, respected, well-nourished and educated mothers and it is imperative that they have a voice in the decisions which affect them. If you empower a mother and let her have her say towards a poverty-free future, the positive impact this would have on ending hunger will be immense.',
-        'Dionne Warwick',
+    '0270eed6-1bdb-5c10-872c-c41bf62da665' => [
+        'In all chaos there is a cosmos, in all disorder a secret order.',
+        'Carl Jung',
     ],
-    [
-        'Modern Orthodoxy has a highly positive attitude toward the State of Israel. Our Ultra-Orthodox brethren recognize only the Holy Land, but not the state.',
-        'Norman Lamm',
+    '23b9e7cd-1a5b-570b-bef8-b02838c7cd2c' => [
+        'I think togetherness is a very important ingredient to family life.',
+        'Eliza Dushku',
     ],
-    [
-        'Big jobs usually go to the men who prove their ability to outgrow small ones.',
-        'Theodore Roosevelt',
+    '31301c66-63ac-5c34-88f9-d91190a81aeb' => [
+        'You will enrich your life immeasurably if you approach it with a sense of wonder and discovery, and always challenge yourself to try new things.',
+        'RuPaul',
     ],
-    [
-        'Pick battles big enough to matter, small enough to win.',
-        'Jonathan Kozol',
+    '39190835-ef7e-5d74-b6ce-a7bc49ef0b56' => [
+        'If I pass away one day, I am happy because I tried to do my best. My sport allowed me to do so much because it\'s the biggest sport in the world.',
+        'Pele',
     ],
 ];

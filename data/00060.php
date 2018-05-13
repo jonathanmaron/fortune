@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
+    'b147581d-0f1f-56d2-8970-896417a5a73b' => [
+        'Our greatness has always come from people who expect nothing and take nothing for granted - folks who work hard for what they have, then reach back and help others after them.',
+        'Michelle Obama',
+    ],
+    '323cab7d-515e-5175-9da7-d8e8b8b4819e' => [
+        'It is only in sorrow bad weather masters us; in joy we face the storm and defy it.',
+        'Amelia Barr',
+    ],
+    'a3749cdc-46de-5993-8997-f0fc13ab36fc' => [
         'The least movement is of importance to all nature. The entire ocean is affected by a pebble.',
         'Blaise Pascal',
     ],
-    [
-        'Since 2005, I have not spent much time with my family. In fact I have spent more time at the Taj Landsend in Mumbai. It was my 100th visit recently, which means I have spent more than 400 days in that hotel, and that is a lot more than I have spent with my family.',
-        'Mahendra Singh Dhoni',
+    'aea96560-78c1-5e69-8e7e-da0c2924fa88' => [
+        'Don\'t let today\'s disappointments cast a shadow on tomorrow\'s dreams.',
+        'Unknown',
     ],
-    [
-        'Success depends in a very large measure upon individual initiative and exertion, and cannot be achieved except by a dint of hard work.',
-        'Anna Pavlova',
-    ],
-    [
-        'We know that the nature of genius is to provide idiots with ideas twenty years later.',
-        'Louis Aragon',
-    ],
-    [
-        'The best kind of accountability on a team is peer-to-peer. Peer pressure is more efficient and effective than going to the leader, anonymously complaining, and having them stop what they are doing to intervene.',
-        'Patrick Lencioni',
-    ],
-    [
-        'It is good to dream big but your dreams will never see the light of day if you sleep big too.',
-        'Anonymous',
-    ],
-    [
-        'I can remember that on the shelves at home, there were these books by Thomas Wolfe. \'Look Homeward Angel\' and \'Of Time and the River.\' \'Of Time and the River\' had just come out when I was aware of his name. My parents had a hard time convincing me that he was no kin whatsoever. My attitude was, \'Well, what\'s he doing on the shelf, then?\'',
-        'Tom Wolfe',
-    ],
-    [
-        'I love it when people doubt me. It makes me work harder to prove them wrong.',
+    'ad70edb3-d7fb-59c6-8ba1-a2928fa8b309' => [
+        'My best vacation is somewhere I could hide, somewhere warm and not a lot of people around.',
         'Derek Jeter',
     ],
-    [
-        'We can all agree that government can\'t solve the obesity crisis alone. It\'s an ongoing issue that will require a collaborative effort across private and public sectors if we want to see some long-term success.',
-        'Marcus Samuelsson',
+    'eea49b82-901b-5aaa-84ca-2551b3b1622c' => [
+        'I think it\'s important for us as a society to remember that the youth within juvenile justice systems are, most of the time, youths who simply haven\'t had the right mentors and supporters around them - because of circumstances beyond their control.',
+        'Q\'orianka Kilcher',
     ],
-    [
-        'Modeling has given me the opportunity to travel outside of Brazil and see the world. I have been meeting many interesting and talented people along the way.',
-        'Izabel Goulart',
+    '5843263a-900c-509b-800f-85146f03d232' => [
+        'Real success is being totally indulgent about your own trip. You put your blinders on about the garbage and go full speed ahead.',
+        'Betsey Johnson',
     ],
-    [
-        'Success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.',
-        'Orison Swett Marden',
+    '4c9ae47e-89b6-5982-ad89-220b07c09d2d' => [
+        'The tree that is beside the running water is fresher and gives more fruit.',
+        'Saint Teresa of Avila',
     ],
-    [
-        'A more secret, sweet, and overpowering beauty appears to man when his heart and mind open to the sentiment of virtue.',
-        'Ralph Waldo Emerson',
+    '59769594-598e-5784-920c-d73f65516491' => [
+        'I have my ethics and morals. I have my anchor point of what is right and wrong in real life, but I\'m not afraid to entertain any and every aspect of personality in relationship to creating a character.',
+        'Henry David Thoreau',
     ],
-    [
-        'Facing the press is not easy, but because you have to go, you have to try to take a lot of positive things for yourself from these face-to-face meetings.',
-        'Jose Mourinho',
+    '5a2db4b3-29e2-54a7-b6c4-e4c23ad07a7b' => [
+        'The whole beauty of music is that it goes where your words won\'t let you.',
+        'Anne Hathaway',
     ],
-    [
-        'He looked about as inconspicuous as a tarantula on a slice of angel food.',
-        'Raymond Chandler',
+    '5e076341-8bd0-57ce-a10c-cfb8db3f3c2b' => [
+        'Let the refining and improving of your own life keep you so busy that you have little time to criticize others.',
+        'H. Jackson Brown, Jr.',
     ],
-    [
-        'The stereoscopic panoramic videos that we\'re showing on Samsung VR are getting a lot of positive traction. It\'s exciting when you see creative types - whether from the music, film, or video industries - look at this stuff. The gears are turning in their head almost immediately about how they can use it as a new medium.',
-        'John Carmack',
+    'e073c7a3-03c7-5dbb-b2f0-ec162ac7bc40' => [
+        'Looking good is the best revenge.',
+        'Ivana Trump',
     ],
-    [
-        'Success is attaining your dream while helping others to benefit from that dream materializing.',
-        'Sugar Ray Leonard',
+    '8df69788-833c-5d52-97a8-c1cd76bbc431' => [
+        'Bob Altman had this relaxed but serious attitude. Everybody loved him. I wanted him to adopt me.',
+        'Steve Buscemi',
     ],
-    [
-        'My goal in coming to General Motors was to help restore profitability, build a strong market position and position this iconic company for success. We are clearly on that path.',
-        'Edward Whitacre, Jr.',
+    'ef68c8c4-a484-5ada-91e1-0e1b07f1e88f' => [
+        'I grew up in a family where we weren\'t allowed to talk about beauty or to put any emphasis on physical appearance.',
+        'Pam Grier',
     ],
-    [
-        'Own only what you can always carry with you: know languages, know countries, know people. Let your memory be your travel bag.',
-        'Aleksandr Solzhenitsyn',
+    '114e66aa-d300-5adf-8860-b5b4dcc96664' => [
+        '\'Tis pleasant, sure, to see one\'s name in print. A book\'s a book, although there\'s nothing in \'t.',
+        'Lord Byron',
     ],
-    [
-        'Schubert had arguably the same melodic gift as Mozart, but even less support. He didn\'t have the early exposure, never got to travel anywhere, and yet generated and amassed a body of work that grew and developed and is very profound.',
-        'Twyla Tharp',
+    'fd45c7e2-2a74-576b-81a7-2fc41b724ee3' => [
+        'I have always known what I wanted, and that was beauty... in every form.',
+        'Joan Crawford',
     ],
-    [
-        'You don\'t have to have an attitude if you\'re famous.',
-        'Adriana Lima',
+    'c838fb7b-3ff2-5e56-aa98-e33b9b83d032' => [
+        'Faith goes out through the window when beauty comes in at the door.',
+        'George Edward Moore',
     ],
-    [
-        'Anytime you introduce volatility, it is not good for business and not good for travel.',
-        'Dara Khosrowshahi',
+    '738dd2ed-2292-5c0a-9621-c22d8310d2c5' => [
+        'Who knows better than artists how much ugliness there is on the way to beauty, how many ghastly, mortifying missteps, how many days of granitic blockheadedness and dismaying ineptitude there is on the way to accomplishment, how partial all accomplishment is, how incomplete?',
+        'Tony Kushner',
     ],
-    [
-        'That old law about \'an eye for an eye\' leaves everybody blind. The time is always right to do the right thing.',
-        'Martin Luther King, Jr.',
+    'b2c9698f-d2c6-5ca4-ba96-e972b988ba8c' => [
+        'My father taught me not to overthink things, that nothing will ever be perfect, so just keep moving and do your best.',
+        'Scott Eastwood',
     ],
-    [
-        'I try to do the right thing at the right time. They may just be little things, but usually they make the difference between winning and losing.',
-        'Kareem Abdul-Jabbar',
+    '65b4b265-71f8-5c2c-97b5-259a66949ea6' => [
+        'Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.',
+        'Voltaire',
     ],
-    [
-        'Nobody gets to live life backward. Look ahead, that is where your future lies.',
-        'Donald Trump',
+    'defa25cc-5048-5ca1-b00d-505b97ee81f2' => [
+        'Beauty of mind creates freedom. Freedom of mind creates beauty.',
+        'Ann Demeulemeester',
     ],
-    [
-        'There\'s no secret about success. Did you ever know a successful man who didn\'t tell you about it?',
-        'Kin Hubbard',
+    'a8dc56b4-425a-56d9-a1fa-a9d9eb08906c' => [
+        'I learned the truth at seventeen, That love was meant for beauty queens, And high school girls with clear skinned smiles, Who married young and then retired.',
+        'Janis Ian',
+    ],
+    '4c4beef8-cbfd-5897-9f4f-855982bfc8a5' => [
+        'While traveling around the world, I\'ve had the opportunity to work with every living beauty icon. I\'ve learned to appreciate idiosyncrasy. The fact is, there is really no such thing as \'normal\' - everybody\'s different, and that is the essence of their beauty.',
+        'Kevyn Aucoin',
+    ],
+    '1bd15aad-2f57-5d37-8bf6-07df12230496' => [
+        'I have to take care of my family, my team, and my legacy.',
+        'Rafael dos Anjos',
+    ],
+    '78d52752-5095-5dbc-8e4b-341cb40780b2' => [
+        'The wise does at once what the fool does at last.',
+        'Baltasar Gracian',
     ],
 ];

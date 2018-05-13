@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased.',
-        'Alexander Hamilton',
+    'd0614ef6-f1b0-5be7-8372-3a0aef182489' => [
+        'The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.',
+        'Jim Bishop',
     ],
-    [
-        'I want to be an inspirational model. I want people to look at me and say, \'Wow, she looks healthy.\'',
-        'Ireland Baldwin',
+    '2b0f7406-a1f1-5cdb-b221-e970207f658a' => [
+        'I don\'t ever feel like the cool kid at the party, ever. It\'s like, \'Smile and be nice to everybody, because you were not invited to be here.\'',
+        'Taylor Swift',
     ],
-    [
-        'Someone remembers, someone cares; your name is whispered in someone\'s prayers.',
-        'Unknown',
+    '23cae330-6593-5222-a2c0-c73626fc3fe4' => [
+        'Family and moral values are so central to everything that I am.',
+        'Marian Wright Edelman',
     ],
-    [
-        'It\'s so funny, you go to acting school thinking you\'re going to learn how to be other people, but really it taught me how to be myself. Because it\'s in understanding yourself deeply that you can lend yourself to another person\'s circumstances and another person\'s experience.',
-        'Lupita Nyong\'o',
+    '633a4919-c486-5e5a-8cec-0d83029eebd6' => [
+        'There is no science in this world like physics. Nothing comes close to the precision with which physics enables you to understand the world around you. It\'s the laws of physics that allow us to say exactly what time the sun is going to rise. What time the eclipse is going to begin. What time the eclipse is going to end.',
+        'Neil deGrasse Tyson',
     ],
-    [
-        'My father worked in agriculture, and I got to travel round remote rural areas with him and see a bit of the landscape and people.',
-        'Giles Foden',
+    'd822c49c-e8a3-5b5b-b935-c5ea6e30ef0a' => [
+        'I think acting is about forgetting yourself in order to give the best of yourself. It\'s passing through you more than you\'re creating it. You\'re not the flower, but the vase which holds the flower.',
+        'Juliette Binoche',
     ],
-    [
-        'A committee is organic rather than mechanical in its nature: it is not a structure but a plant. It takes root and grows, it flowers, wilts, and dies, scattering the seed from which other committees will bloom in their turn.',
-        'C. Northcote Parkinson',
+    'c1e6b8f9-000f-5e04-bb12-90329f0a822c' => [
+        'It\'s worth noting that at the time of the American Revolution, no sane person would have given two cents for its success.',
+        'Diana Gabaldon',
     ],
-    [
-        'Man is the unnatural animal, the rebel child of nature, and more and more does he turn himself against the harsh and fitful hand that reared him.',
-        'H. G. Wells',
+    '095dea7a-9f3a-55c1-b655-8ff0c1fb1733' => [
+        'As a football team, you head into the season the same way with confidence and a positive mindset that you are going to win a bunch of football games.',
+        'Matthew Stafford',
     ],
-    [
-        'I remember a hundred lovely lakes, and recall the fragrant breath of pine and fir and cedar and poplar trees. The trail has strung upon it, as upon a thread of silk, opalescent dawns and saffron sunsets.',
-        'Hamlin Garland',
+    'b66daa36-71cf-5df9-8ca8-73b578154eff' => [
+        'The greatest error of a man is to think that he is weak by nature, evil by nature. Every man is divine and strong in his real nature. What are weak and evil are his habits, his desires and thoughts, but not himself.',
+        'Ramana Maharshi',
     ],
-    [
-        'Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.',
-        'A.P.J. Abdul Kalam',
+    'd27950f3-82a2-583d-8148-d88f0e3261f3' => [
+        'I\'m just myself. That\'s the best way to put it.',
+        'Post Malone',
     ],
-    [
-        'I am very lucky to have the opportunity to travel to so many amazing destinations for work!',
-        'Brad Goreski',
+    'fdaf1adf-6777-5078-9e49-9ef428f20b31' => [
+        'The best things in life are often waiting for you at the exit ramp of your comfort zone.',
+        'William J. Clinton',
     ],
-    [
-        'Never cut a tree down in the wintertime. Never make a negative decision in the low time. Never make your most important decisions when you are in your worst moods. Wait. Be patient. The storm will pass. The spring will come.',
-        'Robert H. Schuller',
+    'c378eece-526c-5d71-be85-8eaa40437b92' => [
+        'When more and more people are thrown out of work, unemployment results.',
+        'Calvin Coolidge',
     ],
-    [
-        'The happiness of your life depends upon the quality of your thoughts: therefore, guard accordingly, and take care that you entertain no notions unsuitable to virtue and reasonable nature.',
-        'Marcus Aurelius',
+    'd1313f99-44f6-5f76-92e0-36ff232055ca' => [
+        'I didn\'t grow up around wild horses, no. But I\'ve appreciated their beauty and their power ever since I can remember.',
+        'Ricky Schroder',
     ],
-    [
-        'You do not become good by trying to be good, but by finding the goodness that is already within you.',
-        'Eckhart Tolle',
+    '2ae8d2cb-d9b9-5bfb-82bf-ea99102b1681' => [
+        'I can assure you that I\'m not very close to Hillary Clinton. I think she\'s disqualified herself from Commander-in-Chief by her cavalier attitude towards our nation\'s secrecy laws.',
+        'Tom Cotton',
     ],
-    [
-        'I hope to make a positive, productive contribution, as cheesy as that may sound.',
-        'Chelsea Clinton',
-    ],
-    [
-        'Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.',
-        'Jeremy Bentham',
-    ],
-    [
-        'I pull a lot of the stuff that I play off the rhythm tracks - and Keith Richards has been one of the main contributors to my inspirational playing.',
-        'Bobby Keys',
-    ],
-    [
-        'My beauty icons are women whose images are self-created.',
+    'd4e0cd7b-9174-5b49-8bd9-e632e26cde33' => [
+        'I love glamour and artificial beauty. I love the idea of artifice and dressing up and makeup and hair.',
         'Dita Von Teese',
     ],
-    [
-        'Cautious, careful people, always casting about to preserve their reputations can never effect a reform.',
-        'Susan B. Anthony',
+    'c625e478-99c2-53ff-9b67-2c476e00b97a' => [
+        'You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.',
+        'Remez Sasson',
     ],
-    [
-        'The most ethical way to deal with an unethical situation would be to simply say: \'We did something wrong.\' But nobody in a family like mine would ever respond like this.',
-        'Patti Davis',
+    '4762de6c-9e84-50fa-a657-51faa6fc70fb' => [
+        'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
+        'Buddha',
     ],
-    [
-        'Yield to temptation. It may not pass your way again.',
-        'Robert A. Heinlein',
-    ],
-    [
-        'I\'ve failed over and over and over again. And that is why I succeed.',
-        'Michael Jordan',
-    ],
-    [
-        'People want to go out and travel around and meet cool people. I could just go live in Vermont, but is that what I really want?',
+    '9d804389-4ad9-5e8e-b7d3-7fa0133748a0' => [
+        'You need to think outside the box. You need to think differently if you want to sustain what, for me, is my peak performance: the very best that I can achieve as an athlete every day.',
         'Tom Brady',
     ],
-    [
-        'I am against nature. I don\'t dig nature at all. I think nature is very unnatural. I think the truly natural things are dreams, which nature can\'t touch with decay.',
-        'Bob Dylan',
+    'a212afe4-fbb3-5a26-a028-6fc3817ac7e6' => [
+        'Good people are good because they\'ve come to wisdom through failure. We get very little wisdom from success, you know.',
+        'William Saroyan',
     ],
-    [
-        'I\'m going to try to enjoy the All-Star break, hope my players reflect on what happened the first half of the season, come back with a different attitude, try to find our solution on how to win it.',
-        'Don Baylor',
+    '5faa3dbc-3380-5952-a271-a5ab3ef44395' => [
+        'My personal view is that such total planning by the state is an absolute good and not simply a relative good... I do not myself think of the attitude I take as deriving from Marx - though this undoubtedly will be suggested - but from Fichte and Hegel.',
+        'John Grierson',
     ],
-    [
-        'Empowering the individual means empowering the nation. And empowerment is best served through rapid economic growth with rapid social change.',
-        'Atal Bihari Vajpayee',
+    '19d01eb1-17e6-5a30-907c-342eaabd5ff7' => [
+        'Life is not a matter of holding good cards, but of playing a poor hand well.',
+        'Paul Bloom',
+    ],
+    '7e318bd5-2b2c-5c86-8893-593f2abdf56c' => [
+        'The ladder of success is best climbed by stepping on the rungs of opportunity.',
+        'Ayn Rand',
+    ],
+    '3db0d583-099b-57b0-8bc1-f4f72d58fc71' => [
+        'It is strange that the years teach us patience; that the shorter our time, the greater our capacity for waiting.',
+        'Elizabeth Taylor',
+    ],
+    '684d91b8-efe5-5d61-9b99-9834ad97d2c9' => [
+        'All blame is a waste of time. No matter how much fault you find with another, and regardless of how much you blame him, it will not change you. The only thing blame does is to keep the focus off you when you are looking for... reasons to explain your unhappiness or frustration.',
+        'Casey Stengel',
+    ],
+    '1577755b-3af9-5e64-8d1a-69f893af9d53' => [
+        'The theatre only knows what it\'s doing next week, not like the opera, where they say: What are we going to do in five years\' time? A completely different attitude.',
+        'Harrison Birtwistle',
+    ],
+    '837eba25-3b42-53e3-a80c-3b9c5f80855c' => [
+        'During all these years there existed within me a tendency to follow Nature in her walks.',
+        'John James Audubon',
     ],
 ];

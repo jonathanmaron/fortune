@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The more you like yourself, the less you are like anyone else, which makes you unique.',
-        'Walt Disney',
+    '0df58629-d4d0-535d-9672-7fb05aba853d' => [
+        'I don\'t reflect much, unless I\'m talking to the media. I have more of a \'Forward, march!\' kind of attitude.',
+        'Kerry King',
     ],
-    [
-        'I have a very low level of recognition, which is fine by me.',
-        'Dylan Moran',
+    'd4876337-367d-5988-9fb4-295b6f5e1ea8' => [
+        'If I ever do anything, it actually might be some fantasy elf thing or even some cute, funny thing. Just to do something a little bit out of the ordinary. I\'ve done my superhero gig.',
+        'Todd McFarlane',
     ],
-    [
-        'I like being upbeat, positive, happy, enjoying family.',
-        'Jamie-Lynn Sigler',
+    '48117075-a57a-5ae4-a4f6-ceefa40120d8' => [
+        'We all need to make time for a burger once in a while.',
+        'Erica Durance',
     ],
-    [
-        'Whenever I\'m having a bad day and have an attitude, I stay home. I keep it at home.',
-        'Michael Clarke Duncan',
+    '49b02dcb-c1bd-5ddc-a8e8-ee6d2c4df1d0' => [
+        'Success has a lot to do with luck, but it also involves a lot of real hard work. The thing about success is you really can\'t gauge things by album sales.',
+        'Jerry Cantrell',
     ],
-    [
-        'I was born in South Africa during apartheid, a system of laws that made it illegal for people to mix in South Africa. And this was obviously awkward because I grew up in a mixed family. My mother\'s a black woman, South African Xhosa woman... and my father\'s Swiss, from Switzerland.',
-        'Trevor Noah',
+    '3c3b41b1-70b2-5a3f-9d62-c30d3a48d7c9' => [
+        'Your best ideas, those eureka moments that turn the world upside down, seldom come when you\'re juggling emails, rushing to meet the 5 P.M. deadline or straining to make your voice heard in a high-stress meeting. They come when you\'re walking the dog, soaking in the bath or swinging in a hammock.',
+        'Carl Honore',
     ],
-    [
-        'What was really funny is that as I got older all those guys who called me a sissy in junior high school wanted me to be their best friend because they wanted to meet all the girls that I knew in figure skating.',
-        'Scott Hamilton',
+    'f8346af2-b85e-5915-a134-1811a2f66aab' => [
+        'Compassion and happiness are not a sign of weakness but a sign of strength.',
+        'Dalai Lama',
     ],
-    [
-        'I like to help women help themselves, as that is, in my opinion, the best way to settle the woman question. Whatever we can do and do well we have a right to, and I don\'t think any one will deny us.',
-        'Louisa May Alcott',
+    '466b91b6-a54a-59ec-abc3-69423b2cf524' => [
+        'Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.',
+        'Thomas Carlyle',
     ],
-    [
-        'A bee is never as busy as it seems; it\'s just that it can\'t buzz any slower.',
-        'Kin Hubbard',
+    '6f4ac528-6b95-567d-ad54-3b252242930e' => [
+        'For one human being to love another; that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation.',
+        'Rainer Maria Rilke',
     ],
-    [
-        'Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.',
-        'Milan Kundera',
+    'e2ad6e3f-f6b3-5051-b3dc-329ab208ff65' => [
+        'Whatever you may look like, marry a man your own age - as your beauty fades, so will his eyesight.',
+        'Phyllis Diller',
     ],
-    [
-        'He who marvels at the beauty of the world in summer will find equal cause for wonder and admiration in winter.',
-        'John Burroughs',
+    '6efe9fa9-44e4-5b02-a1fd-9575a79e4c25' => [
+        'When the history books are written in a thousand years, when space travel would have become routine, the moment that humans first left Earth will be of huge importance. Star City is a central part of this story and it deserves more recognition.',
+        'Helen Sharman',
     ],
-    [
-        'Success is not a matter of mastering subtle, sophisticated theory but rather of embracing common sense with uncommon levels of discipline and persistence.',
-        'Patrick Lencioni',
-    ],
-    [
-        'No one really has a bad life. Not even a bad day. Just bad moments.',
-        'Dale Evans',
-    ],
-    [
-        'I am very surprised by someone like Alexander Wang. I am amazed how he is good with fashion, with business, with public relations himself, with an attitude in his clothes that is spoken immediately.',
-        'Carine Roitfeld',
-    ],
-    [
-        'The Grateful Dead, they\'re my best friends. Their message of hope, peace, love, teamwork, creativity, imagination, celebration, the dance, the vision, the purpose, the passion all of the things I believe in makes me the luckiest Deadhead in the world.',
-        'Bill Walton',
-    ],
-    [
-        'Lend your ears to music, open your eyes to painting, and... stop thinking! Just ask yourself whether the work has enabled you to \'walk about\' into a hitherto unknown world. If the answer is yes, what more do you want?',
-        'Wassily Kandinsky',
-    ],
-    [
-        'I have yet to hear a man ask for advice on how to combine marriage and a career.',
-        'Gloria Steinem',
-    ],
-    [
-        'Whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon... must inevitably come to pass!',
-        'Paul J. Meyer',
-    ],
-    [
-        'We make a living by what we get, but we make a life by what we give.',
+    '8009ec4a-5ca4-5d34-a3a5-7f7bca50e315' => [
+        'Art is the tree of life. Science is the tree of death.',
         'Henry Ford',
     ],
-    [
-        'When my mom, Mercedes, and her younger sister, Juanita, first came from Puerto Rico, they were the youngest in the family. They had to jump into a new community and really learn English, assimilate, and adapt - and I saw that. I grew up in that community.',
-        'Kimberly Guilfoyle',
+    '8484a6ee-250f-5efb-a497-da749461bd6f' => [
+        'What I loved about \'Summer\' was that they were these four bright kids with a wonderful future. In a way, she was the one with the brains, and then you have the beauty queen and the jock and the introvert.',
+        'Kevin Williamson',
     ],
-    [
-        'By understanding and harnessing the forces that drive human behavior, you can create a self-sustaining philanthropic effort that reaches millions of people. It begins with an entrepreneurial attitude: take an idea and execute on that idea. If it doesn\'t work, learn why and build on what you\'ve learned.',
-        'Naveen Jain',
+    '1e6ebc32-f3fa-5c27-ab12-54253adfe872' => [
+        'I like to go out if there\'s a party or go to the movies, but I just like hanging out with my buddies and having a good time.',
+        'Jean-Luc Bilodeau',
     ],
-    [
-        'When you\'re eight years old nothing is your business.',
-        'Lenny Bruce',
+    '9fc14580-435e-5e8b-ba5d-12131a7d1ce9' => [
+        'I live in a town called Beerwah, right in the middle of Australia Zoo. It\'s not hustle and bustle and busy, so that\'s helpful. We travel all over the world, but I\'ve always been able to come home and run around in the middle of the Australian outback.',
+        'Bindi Irwin',
     ],
-    [
-        'Reading was very important to me as a kid. It was very inspirational to me. I went to a school where that wasn\'t encouraged so much, but my parents encouraged that, and it has made me part of who I am.',
-        'Sasha Grey',
+    '7070ba61-b5ff-57b9-9758-312be66ea40d' => [
+        'All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.',
+        'Alexis Carrel',
     ],
-    [
-        'Consider a tree for a moment. As beautiful as trees are to look at, we don\'t see what goes on underground - as they grow roots. Trees must develop deep roots in order to grow strong and produce their beauty. But we don\'t see the roots. We just see and enjoy the beauty. In much the same way, what goes on inside of us is like the roots of a tree.',
-        'Joyce Meyer',
+    'a7587461-7899-5f81-a198-7245ef3fe424' => [
+        'You have survived every single bad day so far',
+        'Unknown',
     ],
-    [
-        'The harder the conflict, the more glorious the triumph.',
-        'Thomas Paine',
+    '1473bac8-e1b2-5a16-8e2e-6ae5ad6b575f' => [
+        'When I go to my live shows it\'s often a multigenerational audience, a family bonding experience.',
+        'Al Yankovic',
     ],
-    [
-        'What I like about modelling is that it has given me that opportunity to travel and experience different cultures, work with creative people, and now it\'s given me a voice, and with that voice hopefully I can do good things with it.',
-        'Miranda Kerr',
+    'cd73f316-769a-5f03-a712-86e15d471c10' => [
+        'Happiness is being content with what you have, living in freedom and liberty, having a good family life and good friends.',
+        'Martina Navratilova',
+    ],
+    '722064af-5694-5d9a-9224-10e99a6b2790' => [
+        'I don\'t think I\'m yet peaceful because I have to struggle every day within myself when I see the suffering of the people of the world, the women and the children. And fury sets in. But I have to transform that and take it out and do something positive with it - but I have to do that sometimes minute to minute.',
+        'Betty Williams',
+    ],
+    '0626a88a-6ffb-5616-a5fc-8859f7c2830b' => [
+        'I always figure from the cradle to the grave, we all have our individual journeys, and maybe my journey was a positive one and I accomplished certain things without stepping on too many toes.',
+        'Robert Duvall',
+    ],
+    '399bb2d5-12e3-5247-abd8-4b7a4215fa51' => [
+        'You are your greatest asset. Put your time, effort and money into training, grooming, and encouraging your greatest asset.',
+        'Tom Hopkins',
+    ],
+    'e8cd44be-5594-51d6-900d-5b81c1d268d1' => [
+        'A light wind swept over the corn, and all nature laughed in the sunshine.',
+        'Anne Bronte',
+    ],
+    '5c494d79-335e-5019-b56b-d1e962ee668b' => [
+        'Solitude is very different from a \'time-out\' from our busy lives. Solitude is the very ground from which community grows. Whenever we pray alone, study, read, write, or simply spend quiet time away from the places where we interact with each other directly, we are potentially opened for a deeper intimacy with each other.',
+        'Henri Nouwen',
+    ],
+    '3d852d1e-9a7e-59f0-9f24-39808cb2a909' => [
+        'I like that time is marked by each sunrise and sunset whether or not you actually see it.',
+        'Catherine Opie',
+    ],
+    '14409e27-a4bc-570b-bd53-22557ba4220a' => [
+        'You do manage a somewhat religious attitude toward your art. It is a calling rather than a job.',
+        'Jim Harrison',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My dad would always say, \'Girl, you\'ve been given gifts. Use them.\' And what he meant by that was, \'Don\'t just be successful. Don\'t just use your talents for your own success. But make a difference with them. Do something significant.\' And when I put those two things together, it just causes me to not accept the status quo.',
-        'Beth Brooke',
+    '0ecab579-67db-575d-9583-ee1ffb8f97e9' => [
+        'Note to self: Keep going. You\'re doing great. You might not be where you want to be yet, but that\'s okay. Just take it one step at a time and keep believing in yourself. And remember: No matter what happens, you can still enjoy your life and be happy.',
+        'Lori Deschene',
     ],
-    [
-        'Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending.',
-        'Carl Bard',
+    '84e05b9f-2dd7-5e3f-8d44-5b05dad685d8' => [
+        'Whoso loves, believes the impossible.',
+        'Elizabeth Browning',
     ],
-    [
-        'No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure.',
-        'Napoleon Hill',
+    '43125af1-bd7f-5837-92b5-5aeac872430b' => [
+        'The attitude we have towards our personal pets as opposed to the animals that suffer under the factory farm is hypocritical and delusional.',
+        'James Cromwell',
     ],
-    [
-        'Our life always expresses the result of our dominant thoughts.',
-        'Francis Bacon',
+    '4cecb182-aa1f-5a7b-abbe-55a281ec9f38' => [
+        'Film is a much lonelier process than theatre. You really don\'t have any rehearsal time in film. You don\'t shape it together... with theatre, there is a complete kind of family atmosphere. The sociable side of this business is the theatrical side, it really isn\'t the film side.',
+        'Keira Knightley',
     ],
-    [
-        'I love Ralph Lauren. As I travel so much, I prefer to shop online.',
-        'Meghan Markle',
+    '3fd90d93-abf3-568b-936f-378c60cf2976' => [
+        'My grandmother lived to 104 years old, and part of her success was she woke up every morning to a brand new day. She said every morning is a new gift. Her favorite hobby was collecting birthdays.',
+        'George Takei',
     ],
-    [
-        'Our job is to represent the truth of human nature, whether you\'re playing a tender love story that\'s set in a coffee shop or whether you\'re in \'The Avengers,\' which is set in a Manhattan which is exploding.',
-        'Tom Hiddleston',
+    '49b3ae45-5dc7-530a-850b-f40e4154eba9' => [
+        'When I look in the mirror, I see someone who\'s happy with how he looks, because I was never one of the handsome Hollywood people. And I\'ve had success as I\'ve gotten older, because I\'m able to play characters. I no longer get the girl, but I get the part.',
+        'Michael Caine',
     ],
-    [
-        'As many of you know I travel a good bit and do not get to see my friends and family as much as I would like.',
-        'Natalie Gulbis',
+    'c3fcf46c-6eaa-5596-9141-6f1f0b39690c' => [
+        'As you think, so shall you become.',
+        'Bruce Lee',
     ],
-    [
-        'History will be kind to me for I intend to write it.',
-        'Winston Churchill',
+    '72c57056-f129-5a5b-b4c1-fb5337013587' => [
+        'From the first opening of our eyes, it is the light that attracts us. We clutch aimlessly with our baby fingers at the gossamer-motes in the sunbeam, and we die reaching out after an ineffable blending of earthly and heavenly beauty which we shall never fully comprehend.',
+        'Lucy Larcom',
     ],
-    [
-        'I believe that laughter is the best emotional Band-Aid in the world. It\'s like nature\'s Neosporin.',
-        'Matt LeBlanc',
+    '5f73f4be-becf-5501-9306-7187a600beef' => [
+        'Failure doesn\'t mean you are a failure it just means you haven\'t succeeded yet.',
+        'Robert Schuller',
     ],
-    [
-        'Eternity: a moment standing still for ever.',
-        'James Montgomery',
+    'e97e5fc7-4ffd-585c-bcb0-dc9fa939dc3e' => [
+        'The enemies of acting are mood and attitude and other general homogenized disruptive entities. Whereas acting is about action - doing - and unless you can figure out a way to craft in an imaginative reality to which you don\'t submit, you\'re going to be out of control. You\'ll flip out. The job is to be surprised.',
+        'William Hurt',
     ],
-    [
-        'The first and most important step toward success is the feeling that we can succeed.',
-        'Nelson Boswell',
+    '5f3c4fed-b143-5601-9c31-d36f82d26b57' => [
+        'Mental attitude and concentration are the keys to pitching.',
+        'Ferguson Jenkins',
     ],
-    [
-        'I am always struck by the fact that human awareness of our place in nature, like so much of modern science, began with the Industrial Revolution.',
-        'Kenneth R. Miller',
+    '1cc366a4-191f-591a-af1f-ff95f9ea1eaf' => [
+        'Our greatest happiness does not depend on the condition of life in which chance has placed us, but is always the result of a good conscience, good health, occupation, and freedom in all just pursuits.',
+        'John F. Kennedy',
     ],
-    [
-        'A successful competition for me is always going out there and putting 100 percent into whatever I\'m doing. It\'s not always winning. People, I think, mistake that it\'s just winning. Sometimes it could be, but for me, it\'s hitting the best sets I can, gaining confidence, and having a good time and having fun.',
-        'Simone Biles',
+    '3a630150-f825-5251-b6aa-0170a32d749f' => [
+        'If you develop a dialogue with me and take an interest in me, I\'ll want to give you the business. It\'s human nature.',
+        'Danny Meyer',
     ],
-    [
-        'The expression of beauty is in direct ratio to the power of conception the artist has acquired.',
-        'Gustave Courbet',
+    'e5bc1f99-9bb0-588a-97c6-933a3fa86656' => [
+        'Sometimes the most important thing in a whole day is the rest we take between two deep breaths.',
+        'Etty Hillesum',
     ],
-    [
-        'I do not own a car, and my main form of travel to Westminster and in my constituency is by bicycle. I also take my bike on trains to meetings in other parts of the country, which enables me to see other cities and the other parts of the country.',
-        'Jeremy Corbyn',
+    '384f4859-4980-519b-a772-46eb984e2cdb' => [
+        'Children are the most honest critics. They will say \'You\'re funny\', but also \'You\'re pathetic - go away.\'',
+        'Dylan Moran',
     ],
-    [
-        'Speak when you are angry - and you\'ll make the best speech you\'ll ever regret.',
-        'Laurence J. Peter',
+    '41200978-e355-57b5-bba3-6767404d54f8' => [
+        'You cannot move things by not moving.',
+        'Suzy Kassem',
     ],
-    [
-        'We all naturally want to become successful... we also want to take shortcuts. And it\'s easy to do so, but you can never take away the effort of hard work and discipline and sacrifice.',
-        'Apolo Ohno',
+    '3ed92852-d526-5734-b25f-4758642cfcec' => [
+        'I bought some batteries, but they weren\'t included.',
+        'Steven Wright',
     ],
-    [
-        'To live is so startling it leaves little time for anything else.',
-        'Keanu Reeves',
+    '3cff37ce-ebb3-5402-beda-c06c494b3efd' => [
+        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
+        'James D. Watson',
     ],
-    [
-        'Some people say that I have an attitude- Maybe I do. But I think that you have to. You have to believe in yourself when no one else does- that makes you a winner right there.',
-        'Venus Williams',
+    '6ea0caf9-88e3-5c05-8ccb-d85094d752c1' => [
+        'I think who you are in school really sticks with you. I don\'t ever feel like the cool kid at the party, ever. It\'s like, \'Smile and be nice to everybody, because you were not invited to be here.\'',
+        'Taylor Swift',
     ],
-    [
-        'Life changes so quickly. feeling grateful to be around such wonderful people to strengthen and grow with.',
-        'Myles Munroe',
+    '6e3f3e83-5742-594b-8ab9-b2f45ba0d2c0' => [
+        'I am living out my adolescent dream of travel and adventure.',
+        'Tim Cahill',
     ],
-    [
-        'The misconception is that standup comics are always on. I don\'t know any really funny comics that are annoying and constantly trying to be funny all the time.',
-        'Joe Rogan',
+    '02f6e031-b1f6-5778-a380-bceb72110e2a' => [
+        'A discipline I have observed is an attitude of love and reverence to people.',
+        'Bessie Head',
     ],
-    [
-        'I have my team. Like if you see everyone around me - I have my hair and makeup girl, my assistant. They\'re very calm, they\'re all about positive energy. There\'re no drama queens. Everyone wants everyone else to have a positive experience. There are no agendas. I think it creates a healthy environment and there are no boundaries to cross.',
-        'Fergie',
+    '3237546c-31eb-52b0-ab5a-b1a0fdcdc0b3' => [
+        'I like to be as positive and as peaceful as possible, but reality says, you know, sometimes you get mad, sometimes you get antsy, sometimes you get aggravated.',
+        'Musiq Soulchild',
     ],
-    [
-        'Your destiny is to fulfill those things upon which you focus most intently. So choose to keep your focus on that which is truly magnificent, beautiful, uplifting and joyful. Your life is always moving toward something.',
-        'Ralph Marston',
+    '4fc41733-1739-5cd0-adc3-9ec8134d264d' => [
+        'Keep in mind that neither success nor failure is ever final.',
+        'Roger Babson',
     ],
-    [
-        'I think it\'s important to have closure in any relationship that ends - from a romantic relationship to a friendship. You should always have a sense of clarity at the end and know why it began and why it ended. You need that in your life to move cleanly into your next phase.',
-        'Marie Curie',
+    'f6306c65-71a8-5b38-8b97-47ca31b180ba' => [
+        'A book is a fragile creature, it suffers the wear of time, it fears rodents, the elements and clumsy hands. so the librarian protects the books not only against mankind but also against nature and devotes his life to this war with the forces of oblivion.',
+        'Umberto Eco',
     ],
-    [
-        'Saying thank you is more than good manners. It is good spirituality.',
-        'Alfred Painter',
+    'f49bc18e-53d1-59e0-9fc4-6b19949dd2af' => [
+        'It\'s really important to have balance, spend some time in nature, go to a few parties, enjoy my friends and really chill out.',
+        'Joakim Noah',
     ],
 ];

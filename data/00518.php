@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The things that we love tell us what we are.',
-        'Thomas Aquinas',
+    '53be930d-132e-5d08-b1f5-bd84cd43816a' => [
+        'Let us remember we are all part of one American family. We are united in common values, and that includes belief in equality under the law, basic respect for public order, and the right of peaceful protest.',
+        'Barack Obama',
     ],
-    [
-        'Resist your fear; fear will never lead to you a positive end. Go for your faith and what you believe.',
-        'T. D. Jakes',
+    '5a54a0b7-55a1-5bdd-807c-9b97e1c91f09' => [
+        'The books that help you most are those which make you think that most. The hardest way of learning is that of easy reading; but a great book that comes from a great thinker is a ship of thought, deep freighted with truth and beauty.',
+        'Pablo Neruda',
     ],
-    [
-        'And now, this is the sweetest and most glorious day that ever my eyes did see.',
-        'Donald Cargill',
+    '35901e85-6cac-5028-8c0f-8c2202ef88ea' => [
+        'Through travel I first became aware of the outside world; it was through travel that I found my own introspective way into becoming a part of it.',
+        'Eudora Welty',
     ],
-    [
-        'I live quietly at home among my family and friends.',
-        'Antonio Tabucchi',
+    '0ec20e1d-39e4-54af-912b-3ec347026c17' => [
+        'Ostensibly rigorous and realistic, contemporary conservatism is an ideology of denial. Its symbol is a smile button.',
+        'Christopher Lasch',
     ],
-    [
-        'A little credulity helps one on through life very smoothly.',
-        'Chuck Schumer',
+    '3d84a3c5-e565-5407-89ec-17e50c632d6c' => [
+        'Imagination makes us aware of limitless possibilities. How many of us haven\'t pondered the concept of infinity or imagined the possibility of time travel? In one of her poems, Emily Bronte likens imagination to a constant companion, but I prefer to think of it as a built-in entertainment system.',
+        'Alexandra Adornetto',
     ],
-    [
-        'Regardless of the gender of the highest wage earner, the balance of power in the relationship will suffer if the higher earner uses control of the purse strings as a system of reward and punishment. It will also suffer if the lower earner takes a chippy, haughty attitude to spending money they haven\'t actually generated themselves.',
-        'Marian Keyes',
+    'acfcec65-2c53-5c22-815a-3ce14cfe432d' => [
+        'When you see something that is technically sweet, you go ahead and do it and you argue about what to do about it only after you have had your technical success. That is the way it was with the atomic bomb.',
+        'J. Robert Oppenheimer',
     ],
-    [
-        'Obesity puts our children at risk of developing serious diseases - such as Type 2 diabetes, heart disease and depression. It keeps our children from performing their best at school.',
-        'Kirsten Gillibrand',
+    'e0a62710-3463-5d17-b2c3-03abe7dbed86' => [
+        'No matter what you\'re going through, there\'s a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you\'ll find the positive side of things.',
+        'Demi Lovato',
     ],
-    [
-        'Beauty shouldn\'t be superficial and should come from within, and your eyes will tell the story.',
-        'Michelle Yeoh',
+    '6860d401-6598-5f34-8f84-a45e8b371fd7' => [
+        'In raising children, we need to continuously keep in mind how we can best create the most favorable environment for their imitative behavior. Everything done in the past regarding imitation must become more and more conscious and more and more consciously connected with the future.',
+        'Rudolf Steiner',
     ],
-    [
-        'Mountains are earth\'s undecaying monuments.',
-        'Nathaniel Hawthorne',
+    '84e0f9e1-2dce-5e37-aa2d-c643d52e37cd' => [
+        'You teach best what you most need to learn.',
+        'Richard Bach',
     ],
-    [
-        'Whether You Think You Can Or Think You Can\'t, You\'re Right.',
-        'Henry Ford',
+    '8ec14027-9924-5428-b5dd-f5c8e429cd0e' => [
+        'I can be the nice family man at home, and then when I go to the gym, maybe sparring with someone, I switch into beast mode. It ain\'t pretty.',
+        'Anthony Joshua',
     ],
-    [
-        'Divorce is a time of change. It really rocks a foundation of most people\'s lives. When we have our heart broken or our dreams taken away from us, it is a time of growth and change.',
-        'Debbie Ford',
+    'b37acf48-416d-5aeb-8291-f9b4c9f5bfc1' => [
+        'It is the nature of the strong heart, that like the palm tree it strives ever upwards when it is most burdened.',
+        'Philip Sidney',
     ],
-    [
-        'I do believe that during the Bush-Cheney administration, that Vice President Cheney set a tone and an attitude for the CIA.',
-        'Nancy Pelosi',
+    '778c81c9-11b3-5715-b8f3-2da043d2847b' => [
+        'I\'m all about people that appreciate, that are grateful, that smile, that have a sense of humour - the dirtier the laugh, the better- that\'s my kind of vibe... and I hope that\'s the kind of thing that I attract.',
+        'Poppy Delevingne',
     ],
-    [
-        'I think I am a travel junkie, and I have never enjoyed anything else in my life more than travelling and going to places.',
-        'Imtiaz Ali',
+    'a4ae4585-72dd-5697-be70-836e1bf99dd2' => [
+        'One person may need (or want) more leisure, another more work; one more adventure, another more security, and so on. It is this diversity that makes a country, indeed a state, a city, a church, or a family, healthy. \'One-size-fits-all,\' and that size determined by the State has a name, and that name is \'slavery.\'',
+        'David Mamet',
     ],
-    [
-        'In all our deeds, the proper value and respect for time determines success or failure.',
-        'Malcolm X',
+    'e792953c-7beb-5eba-a6dd-f8147a11898f' => [
+        'I made myself a little angry before beam. That\'s the best way to do beam. It\'s important to fuel yourself with some devastating things, but I also realized that if I daydream about doing well and having this silver medal, it\'s more motivating than focusing on the negatives. So I learned to focus on the positive.',
+        'Aly Raisman',
     ],
-    [
-        'The first pages of memory are like the old family Bible. The first leaves are wholly faded and somewhat soiled with handling. But, when we turn further, and come to the chapters where Adam and Eve were banished from Paradise, then, all begins to grow clear and legible.',
-        'Max Muller',
+    '694a631a-1b08-5ba0-8d05-a735f13ca00d' => [
+        'I wrote those poems for myself, as a way of being a soldier here in this country. I didn\'t know the poems would travel. I didn\'t go to Lebanon until two years ago, but people told me that many Arabs had memorized these poems and translated them into Arabic.',
+        'June Jordan',
     ],
-    [
-        'Country music in the mid-\'90s was a big influence on my career, and I played all the songs that are referenced in \'94\' back in my club days. Joe Diffie was rocking a sick mullet, and he was hotter than ever... just putting out monster hit after monster hit. It totally takes me back to those days, and it makes me smile every time I hear it.',
-        'Jason Aldean',
-    ],
-    [
-        'The content I create reflects my personality: goofy, fun, positive, a bit clumsy, family-friendly, educational and helpful.',
-        'Rosanna Pansino',
-    ],
-    [
-        'For me art and chess are closely related, both are forms in which the self finds beauty and expression.',
-        'Vladimir Kramnik',
-    ],
-    [
-        'Housework can\'t kill you, but why take a chance?',
-        'Phyllis Diller',
-    ],
-    [
-        'No one has ever become poor by giving.',
+    '80722007-b418-5c5d-b589-20297149433d' => [
+        'We all live with the objective of being happy; our lives are all different and yet the same.',
         'Anne Frank',
     ],
-    [
-        'A positive attitude causes a chain reaction of positive thoughts, events and outcomes. It is a catalyst and it sparks extraordinary results.',
-        'Wade Boggs',
+    'b011549c-4dde-5985-90e3-2a67c04244aa' => [
+        'I guess I don\'t like the fact that my life is becoming less and less my own - the prevailing attitude that you have an obligation to deliver yourself to the public. Actually, you\'re delivered to the public whether you like it or not. I guess if you don\'t like it, you should stop doing what provokes it. In my case, that\'s acting.',
+        'Robert Redford',
     ],
-    [
-        'My stories are fundamentally about the love of family.',
-        'Patricia Polacco',
+    'e185aa0c-ba40-5e24-bf8b-80a81af9bd65' => [
+        'I\'m very close with my family, so my mom is part of my entourage.',
+        'Kid Cudi',
     ],
-    [
-        'Memory is the mother of all wisdom.',
-        'Samuel Johnson',
+    '5ddf0d58-cfad-5a22-a9ae-9ac499cb1ef6' => [
+        'How goodness heightens beauty!',
+        'Milan Kundera',
     ],
-    [
-        'To find the universal elements enough; to find the air and the water exhilarating; to be refreshed by a morning walk or an evening saunter... to be thrilled by the stars at night; to be elated over a bird\'s nest or a wildflower in spring - these are some of the rewards of the simple life.',
-        'Victoria Osteen',
+    'f28b2655-e8a8-56e9-9e8e-e3ac6b83c1c7' => [
+        'The best way to escape from your problem is to solve it.',
+        'Robert Anthony',
     ],
-    [
-        'I believe in rules. Sure I do. If there weren\'t any rules, how could you break them?',
-        'Leo Durocher',
+    '82780928-8359-5a54-8365-21417c718ebc' => [
+        'The Joker is my favorite villain of all time: You don\'t know his past; you just know what his plans are.',
+        'The Weeknd',
+    ],
+    'f0ea611c-3bf0-5ff8-8195-de4b156ecb4f' => [
+        'Quality is everyone\'s responsibility.',
+        'W. Edwards Deming',
+    ],
+    '2dff424b-fee4-5e1f-ae82-478cf6166c96' => [
+        'Life\'s pretty funny when you\'re objectively on the outside looking at it.',
+        'Philip Seymour Hoffman',
+    ],
+    '5248bc20-3d47-5446-bbf6-b5f7036f7c62' => [
+        'I think it\'s one of those funny things - sometimes you\'re not really friends with somebody until you\'ve gotten into a good fight, and I think that\'s the situation with Superman and Batman.',
+        'Mark Valley',
+    ],
+    '4b8f1112-7c70-51d2-af96-aba57e20c8e7' => [
+        'A mediocre idea that generates enthusiasm will go further than a great idea that inspires no one.',
+        'Mary Kay Ash',
     ],
 ];

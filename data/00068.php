@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I wouldn\'t ever say if you\'re having tough times then there must be something wrong with you or your attitude. Life\'s a fight. It\'s a good fight of faith. I encourage people to stay up, stay hopeful, stay faith-filled.',
-        'Joel Osteen',
+    'd4426d08-f47a-5d5e-a8b3-3ef45cd49268' => [
+        'No day in which you learn something is a complete loss.',
+        'David Eddings',
     ],
-    [
-        'Preparation is a mentality... With wrestling being my background, I\'ve always learned to overwork, overwork. Work, work, work, work. It\'s not always the talented that wins, but it\'s the one who puts in the most preparation and thought into things.',
-        'Dominick Cruz',
+    '4f75446f-6f48-5d41-ba03-1a158960efa8' => [
+        'But, I would be naive not to recognize the number of musicians who tell me they have been influenced by me and sight me - as well as Alex and Neil - as a musician who has been a positive influence on their playing.',
+        'Geddy Lee',
     ],
-    [
-        'My school friends are really understanding and still want to hang out with me. Ever since I was in sixth grade, I was at the gym every day to work out while my friends were getting their nails done or going to the mall. I used to feel left out, but I don\'t anymore.',
-        'Aly Raisman',
+    '86bdae5b-6fd2-537e-92ae-9c5d9e3498d9' => [
+        'People seldom notice old clothes if you wear a big smile.',
+        'Lee Mildon',
     ],
-    [
-        'Injustice, poverty, slavery, ignorance - these may be cured by reform or revolution. But men do not live only by fighting evils. They live by positive goals, individual and collective, a vast variety of them, seldom predictable, at times incompatible.',
-        'Isaiah Berlin',
+    'dab132fe-b371-5c2f-8f0f-b832d9f46722' => [
+        'The more success you get, you start to be harder on yourself or more afraid of the looking glass. You have to learn to build a thicker skin because people are paying more attention.',
+        'Idina Menzel',
     ],
-    [
-        'The team that is going to win is the one that does its homework the best by studying its opponents.',
-        'Imran Khan',
+    'a541f2cc-f51c-53c4-a75b-a760e1feb1fc' => [
+        'Beauty: the adjustment of all parts proportionately so that one cannot add or subtract or change without impairing the harmony of the whole.',
+        'Leon Battista Alberti',
     ],
-    [
-        'Andean skiing offers an unforgettable combination of beach-style weather, great snow and exotic travel. There are many attractions. Here on the fringes of the Andes, skiers will find few lift queues, tickets 50% cheaper than France, and unique scenery that includes condors and Mount Aconcagua, the highest peak outside the Himalayas.',
-        'Jonathan Franklin',
+    '007a2d4d-9e99-55a4-b1db-2a27ff2d0980' => [
+        'Like many young people, I believe I have potential to make a positive impact in the world.',
+        'Cameron Russell',
     ],
-    [
-        'Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.',
-        'Byron Pulsifer',
+    '81c66eab-464d-5626-a06b-5188176e913c' => [
+        'You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.',
+        'Emmet Fox',
     ],
-    [
-        'Work done by other people sounds easy. How hard can it be to take care of a newborn who sleeps 20 hours a day? How hard can it be to keep track of your billable hours? To travel for one night for business? To get a 4-year-old ready for school? To return a few phone calls? To load the dishwasher? To fill out some forms?',
-        'Gretchen Rubin',
+    'f87b83f1-3fc9-5e3d-8da2-7394d9da7750' => [
+        'I think the thing I miss most in our age is our manners. It sounds so old-fashioned in a way. But even bad people had good manners in the old days, and manners hold a community together, and manners hold a family together; in a way, they hold the world together.',
+        'Nancy Friday',
     ],
-    [
-        'Ever since I was four years old, I loved making people smile, making them think, making them feel good, feel some kind of emotion.',
-        'Ann-Margret',
+    '7861bef8-2ae1-58d0-8157-a6d799148b8f' => [
+        'I\'ve shown that if you dream and are willing to work hard, you can achieve your dreams.',
+        'Mo Farah',
     ],
-    [
-        'Flexible working is not just for women with children. It is necessary at the other end of the scale. If people can move into part-time work, instead of retirement, then that will be a huge help. If people can fit their work around caring responsibilities for the elderly, the disabled, then again that\'s very positive.',
-        'Theresa May',
+    'f2ca648e-f4ee-544c-8244-783d57248ad0' => [
+        'The beautiful part of writing is that you don\'t have to get it right the first time, unlike, say, a brain surgeon. You can always do it better, find the exact word, the apt phrase, the leaping simile.',
+        'Robert Cormier',
     ],
-    [
-        'Properly used, positive reinforcement is extremely powerful.',
-        'B. F. Skinner',
+    '91fed94f-9306-53a2-9f6c-94d3f9422baa' => [
+        'I\'m not actually a mom in real life, so it\'s fun to pretend to be one. I like to approach things the same in art as in life. You can choose to look on the positive side and enjoy whatever roles you\'re given. You can find the silver lining in anything.',
+        'Heather Graham',
     ],
-    [
-        'Victory has a thousand fathers, but defeat is an orphan.',
-        'John F. Kennedy',
+    '81c16ecc-1dbd-5d9b-a47f-76f4c6dcb66f' => [
+        'I really love showing up at work at 10 A.M., trying to make it funny until 3 P.M., and then going home. It\'s like comedy bankers\' hours.',
+        'Chris Eigeman',
     ],
-    [
-        'The beauty of Hawaii probably surpasses other places. I like the Big Island and the two mountains, Mauna Loa and Mauna Kea, where you can look out at the stars.',
-        'Buzz Aldrin',
+    '385da954-f904-5965-ac77-83f48c783613' => [
+        'A lot of us grow up and we grow out of the literal interpretation that we get when we\'re children, but we bear the scars all our life. Whether they\'re scars of beauty or scars of ugliness, it\'s pretty much in the eye of the beholder.',
+        'Stephen King',
     ],
-    [
-        'Success is getting and achieving what you want. Happiness is wanting and being content with what you get.',
-        'Bernard Meltzer',
+    '726ae607-9f54-58f2-b12e-1fb97b41c5b9' => [
+        'True beauty is when someone radiates that they like themselves.',
+        'Aimee Mullins',
     ],
-    [
-        'A woman whose smile is open and whose expression is glad has a kind of beauty no matter what she wears.',
-        'Anne Roiphe',
+    '5318fac6-9983-5c31-a709-2c98dcead91b' => [
+        'When trouble comes, it\'s your family that supports you.',
+        'Guy Lafleur',
     ],
-    [
-        'I don\'t have a Pollyana attitude toward life that claims everything is lovely.',
-        'Eve Arden',
+    '112b6176-aaa9-5ca6-87a7-1cc64f0b21e5' => [
+        'I think the divine is like a huge smile that breaks somewhere in the sea within you, and gradually comes up again.',
+        'John O\'Donohue',
     ],
-    [
-        'To me, acting used to be just, \'Get my face out there, get girls, make a little bit of money, make my mom proud.\' It was just like sports. But there were moments in \'Moonlight\' that I really felt like I had to know why he is the way he is. Or just people in general - why this person walks around with a frown on their face instead of a smile.',
-        'Trevante Rhodes',
+    '738dcfaa-272f-5fce-963d-1e5fa75f0a91' => [
+        'But with exquisite breathing you smile, with satisfaction of love, And I touch you again as you tick in the silence and settle in sleep.',
+        'Karl Shapiro',
     ],
-    [
-        'When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.',
-        'W. Clement Stone',
+    '90370a08-a916-5c8e-9466-3c1190f444b6' => [
+        'In the case of Iraq, notwithstanding the violence there at the moment, the very fact that a hideous regime - responsible for genocide, for the use of chemical and biological weapons, aggression against two neighbors - has been removed in itself is a positive development.',
+        'Jose Ramos-Horta',
     ],
-    [
-        'I\'ve never met a person who does not want a safer world, better medical care and education for their children, and peace with their neighbours. I just don\'t meet those people. What I meet, over and over again, as I travel around, is that the essential human condition is optimistic - in every one of these places.',
-        'Eric Schmidt',
+    '876fa59e-5a55-5d51-8baa-08e1f4dc34ac' => [
+        'Winning is fun, but those moments that you can touch someone\'s life in a very positive way are better.',
+        'Tim Howard',
     ],
-    [
-        'I have a lot of funny friends, though not everyone\'s funny all the time. Doon Mackichan\'s my funniest friend in the pub; Nina Conti\'s the funniest with a monkey.',
-        'Sally Phillips',
+    '9d927c3b-c205-5a17-a713-84b711e32811' => [
+        'Enthusiasm moves the world.',
+        'Arthur Balfour',
     ],
-    [
-        'The smallest act of kindness is worth more than the grandest intention.',
-        'Oscar Wilde',
+    '4e771c62-a40e-5442-a55c-13a3ad91ed28' => [
+        'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.',
+        'John Wooden',
     ],
-    [
-        'Fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions.',
-        'H. P. Lovecraft',
+    '1a4c13d4-8d4c-5598-840e-0d61e0c838c7' => [
+        'For me, it was important Wonder Woman wouldn\'t be a Goody Two-Shoes. She has a little bit of attitude, and when she fights, she has a smirk on her face. I didn\'t want her to be polished. I want people to relate to her.',
+        'Gal Gadot',
     ],
-    [
-        'Turning pro is a mindset. If we are struggling with fear, self-sabotage, procrastination, self-doubt, etc., the problem is, we\'re thinking like amateurs. Amateurs don\'t show up. Amateurs crap out. Amateurs let adversity defeat them. The pro thinks differently. He shows up, he does his work, he keeps on truckin\', no matter what.',
-        'Steven Pressfield',
+    '6b93cf7a-7c1c-5f42-8c6c-962c5ad8c0aa' => [
+        'I am convinced that material things can contribute a lot to making one\'s life pleasant, but, basically, if you do not have very good friends and relatives who matter to you, life will be really empty and sad and material things cease to be important.',
+        'Stephen Gardiner',
     ],
-    [
-        'Design is a way of life, a point of view. It involves the whole complex of visual communications: talent, creative ability, manual skill, and technical knowledge. Aesthetics and economics, technology and psychology are intrinsically related to the process.',
-        'Abraham Lincoln',
+    'f38975ac-b747-5836-930b-04b4fcd8d180' => [
+        'In a serious struggle there is no worse cruelty than to be magnanimous at an inopportune time.',
+        'Leon Trotsky',
     ],
-    [
-        'Not to sound corny, but intelligence is big. Everything fades, and everything can be modified. But intelligence is something you can\'t fake. I\'m not even talking about whether you can read a thesaurus backwards. But there is a beauty in common sense.',
-        'Wale',
+    '90e7cbec-0a64-52f1-a3bb-9871262d9780' => [
+        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
+        'Charice Pempengco',
     ],
 ];

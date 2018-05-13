@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The genius of the United States is not best or most in its executives or legislatures, nor in its ambassadors or authors or colleges, or churches, or parlors, nor even in its newspapers or inventors, but always most in the common people.',
-        'Walt Whitman',
+    '599ae162-c277-514a-8000-b59e252da605' => [
+        'It\'s easier to change what you do than people think it is. If you don\'t change, your field changes around you.',
+        'Walter Gilbert',
     ],
-    [
-        'I\'m someone who loses 80 to 90 percent of the time. Even when I lost, I put my body on the line and I told the best story. If I stood out, if my attitude towards fighting was different, I found a way to stay around and keep revamping myself and my character.',
-        'Dolph Ziggler',
+    'a6a2ab5b-76b7-58a2-9f15-81aac1890f28' => [
+        'Every man\'s life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.',
+        'George Eliot',
     ],
-    [
-        'Success for an athlete follows many years of hard work and dedication.',
-        'Michael Diamond',
+    'fe808ce5-ff87-523c-b5b5-4cfc463c345a' => [
+        'Life is much shorter than I imagined it to be.',
+        'James M. Barrie',
     ],
-    [
-        'I seriously feel like the best days are ahead, and I like the idea of getting to do everything I did before but with more knowledge, experience, and street smarts. There\'s a certain love, appreciation, and gratitude that you have at 40 that you don\'t have when you\'re younger, and it makes every accomplishment feel so much better.',
-        'Jennifer Lopez',
+    'a0ba9d57-c72d-5f0a-8f65-7b30b4eaaae9' => [
+        'I do not share the half-in, half-out attitude to the EU of some in Britain. Britain\'s place is in Europe.',
+        'Peter Mandelson',
     ],
-    [
-        'There\'s only two people in your life you should lie to... the police and your girlfriend.',
-        'A. R. Rahman',
+    '7ed624dd-b3da-573a-89b7-a7b162c6f762' => [
+        'I obviously would love to have a girlfriend, but a girlfriend deserves so much of your time and energy. And she deserves to be treated like a princess because that\'s how you should treat your girls. And if I can\'t give them that time and that devotion because of my dedication to football, then I don\'t feel like I should almost waste their time.',
+        'J. J. Watt',
     ],
-    [
-        'Travel, of course, narrows the mind.',
-        'Malcolm Muggeridge',
+    '42cdbea6-31aa-5cf7-882d-4f21a42a6f57' => [
+        'My wife and I have so much fun when we travel and find anything... like stray cats and squirrels.',
+        'Eric Roberts',
     ],
-    [
-        'To be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it.',
-        'Marcus Aurelius',
+    '2d402cf6-6198-5e86-acd0-ec7c23fa08ea' => [
+        'You start at a young age, going on auditions, and you think you did a good job and expect to get that role, and you don\'t, and it\'s a letdown, a disappointment. So you tell yourself to just do the work and disconnect, because you have no control over the outcome.',
+        'Michael B. Jordan',
     ],
-    [
-        'Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.',
-        'Margaret Mead',
+    'd702628a-f605-54f3-be0c-6325e3c771c3' => [
+        'Creativity is a highfalutin word for the work I have to do between now and Tuesday.',
+        'Ray Kroc',
     ],
-    [
-        'I think Islam has been hijacked by the idea that all Muslims are terrorists; that Islam is about hate, about war, about jihad - I think that hijacks the spirituality and beauty that exists within Islam. I believe in allowing Islam to be seen in context and in its entirety and being judged on what it really is, not what you think it is.',
-        'Aasif Mandvi',
+    '9f95149d-ca7a-5d90-a255-5d65e166b58d' => [
+        'My father was a psychiatrist, the medical director of a mental hospital in Scotland, and when I was a student, I took vacation jobs there as a nursing assistant. So I did get to see mental illness, but I don\'t remember conversations about mental conditions. My father was a cheerful man with a robust attitude to such things.',
+        'Morag Joss',
     ],
-    [
-        'Success is like death. The more successful you become, the higher the houses in the hills get and the higher the fences get.',
-        'Kevin Spacey',
+    'd27485bf-c527-5b63-bbf0-767c94e4a982' => [
+        'Our judgments judge us, and nothing reveals us, exposes our weaknesses, more ingeniously than the attitude of pronouncing upon our fellows.',
+        'Paul Valery',
     ],
-    [
-        'I have had a perfectly wonderful evening, but this wasn\'t it.',
-        'Groucho Marx',
+    '49f54ddd-01aa-5ed2-9d88-eee80990d3e9' => [
+        'I know not age, nor weariness nor defeat.',
+        'Rose Kennedy',
     ],
-    [
-        'The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.',
-        'Robert Kiyosaki',
+    '5f7c99ec-f344-5caa-9966-abf9aa1a9dde' => [
+        'When you travel around Moscow, you can see almost every car is using a smartphone where they can see what\'s ahead of them.',
+        'Arkady Volozh',
     ],
-    [
-        'Maybe it was the home tutoring, or the late start to formal schooling, or an overly cautious and protective upbringing, but in any case, I never became a talkative person. As an adult, I am not always comfortable in social gatherings with small talk. I must have inherited my father\'s gentle nature.',
-        'Charles K. Kao',
+    '995b4d00-2331-51c5-aaed-e01da9106104' => [
+        'The success and the failure are not my concern, but His.',
+        'Joseph Barber Lightfoot',
     ],
-    [
-        'Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. At the end of the day, you put all the work in, and eventually it\'ll pay off. It could be in a year, it could be in 30 years. Eventually, your hard work will pay off.',
-        'Kevin Hart',
+    'aba866fe-5c8e-5c16-93f0-43241f530712' => [
+        'Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.',
+        'Jane Addams',
     ],
-    [
-        'Jeff Kinney is tall and has a great smile, but don\'t be fooled, he\'s as slick as they come. A real player. And how he came up with a book that appeals to kids ages 8-13 baffles me. He\'s an unbelievably kind man with a great family.',
-        'Rachael Harris',
+    'ee3ecb9d-2e16-5e65-aa2a-e0dc263bd140' => [
+        'Enhance and intensify one\'s vision of that synthesis of truth and beauty which is the highest and deepest reality.',
+        'Ovid',
     ],
-    [
-        'Not only does travel give us a new system of reckoning, it also brings to the fore unknown aspects of our own self. Our consciousness being broadened and enriched, we shall judge ourselves more correctly.',
-        'Ella Maillart',
+    'cb5bc7af-9342-5ac9-9341-d08adef8b487' => [
+        'There are those who travel and those who are going somewhere. They are different and yet they are the same. The success has this over his rivals: He knows where he is going.',
+        'Mark Caine',
     ],
-    [
-        'The best career advice I\'ve gotten is to stay focused, keep moving forward.',
-        'Tyga',
+    '63386709-9749-5b57-abef-4e1596753005' => [
+        'There is a kind of victory in good work, no matter how humble.',
+        'Jack Kemp',
     ],
-    [
-        'An intelligent man is sometimes forced to be drunk to spend time with his fools.',
-        'Ernest Hemingway',
+    '879c7570-518c-57f5-b02d-b24bd63937d1' => [
+        'True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.',
+        'Manny Pacquiao',
     ],
-    [
-        'Beauty, more than bitterness, makes the heart break.',
-        'Sara Teasdale',
+    '90e9d548-d1fe-5873-a3f2-8dc04ae6afcb' => [
+        'The Bad Seeds are a band I will travel a great distance to see whenever possible.',
+        'Henry Rollins',
     ],
-    [
-        'I favor pocket-sized hard drives that travel between home and office, syncing with computers on both ends.',
-        'Barton Gellman',
+    '0b3dde9e-6552-5fda-884d-59bd64a3b768' => [
+        'I\'m always excited when I make it on anyone\'s list - even if it\'s for affirmative action. My attitude is, \'Am I the token woman on this list? Because I\'ll take it.\'',
+        'Julie Klausner',
     ],
-    [
-        'What people don\'t understand is joining a gang ain\'t bad, it\'s cool, it\'s fine. When you in the hood, joining a gang it\'s cool because all your friends are in the gang, all your family\'s in the gang. We\'re not just killing people every night, we\'re just hanging out, having a good time.',
-        'Snoop Dogg',
+    'd406943e-5901-5d67-807e-daf9ed96aabb' => [
+        'Research has shown time and time again that infants who receive the high-quality child care and early education programs do better in school, have more developed social skills, and display fewer behavior problems.',
+        'Judy Biggert',
     ],
-    [
-        'I think anyone who\'s perfectly happy isn\'t particularly funny.',
-        'Joan Rivers',
+    '3ac1062b-2f28-5b54-92b2-3b8cc010e3fd' => [
+        'In the business world today, failure is apparently not an option. We need to change this attitude toward failure - and celebrate the idea that only by falling on our collective business faces do we learn enough to succeed down the road.',
+        'Naveen Jain',
     ],
-    [
-        'I\'m a misplaced American, but don\'t know where I was misplaced.',
-        'Ruby Wax',
+    '2d67ea5b-fd1e-556c-9b40-3edcb178585a' => [
+        'Some people see things that are and ask, Why? Some people dream of things that never were and ask, Why not? Some people have to go to work and don\'t have time for all that.',
+        'George Carlin',
     ],
-    [
-        'I\'m just here for good times, man. I want people to have the best time ever. Especially if they\'re around me.',
-        'Travis Scott',
+    '24c11457-98fd-5ec3-a207-f425d936c0c6' => [
+        'A more secret, sweet, and overpowering beauty appears to man when his heart and mind open to the sentiment of virtue.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'My dream is of a place and a time where America will once again be seen as the last best hope of earth.',
-        'Abraham Lincoln',
+    'd7066f5e-7af2-5dfe-bd9a-f695c25a70e5' => [
+        'I wanted to do something inspirational for my children.',
+        'Harvey Weinstein',
     ],
 ];

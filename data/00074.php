@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I never did quite fit the glamour mode. It is life with my husband and family that is my high now.',
-        'Patty Duke',
+    '5d9d225a-d235-5fdb-a2ee-cb8076753a1b' => [
+        'My initial goal for the 1984 opening ceremonies was a show that would be majestic, inspirational, and emotional - a 20 goosebump experience.',
+        'David L. Wolper',
     ],
-    [
-        'Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.',
-        'Helen Keller',
+    'c6ed7415-82c1-54ff-af91-aebfee145795' => [
+        'A series of rumors about my attitude, as well as derogatory remarks about myself and my family showed me that the personal resentment of the Detroit general manager toward me would make it impossible for me to continue playing hockey in Detroit.',
+        'Ted Lindsay',
     ],
-    [
-        'You know, my family and friends have never been yes-men: \'Yes, you\'re doing the right thing, you\'re always right.\' No, they tell me when I\'m wrong, and that\'s why I\'ve been able to stay who I am and stay humble.',
-        'LeBron James',
+    'b9a7987d-ca58-5051-9aff-aedbcf9a11d3' => [
+        'Success is stumbling from failure to failure with no loss of enthusiasm.',
+        'Winston Churchill.',
     ],
-    [
-        'Rome - the city of visible history, where the past of a whole hemisphere seems moving in funeral procession with strange ancestral images and trophies gathered from afar.',
-        'George Eliot',
+    '74457c89-99cf-541a-8d15-c596df06bd18' => [
+        'If you\'re changing the world, you\'re working on important things. You\'re excited to get up in the morning.',
+        'Larry Page',
     ],
-    [
-        'It was through the private world of family that the public world of politics came alive for me: living in intimate proximity with people for whom larger questions of ideology and belief, as well as issues relating to politics and governance, were vivid daily realities.',
-        'Sonia Gandhi',
+    '31c88873-7aa1-5c79-8696-682893c05c48' => [
+        'The accounting of the sacrifice is, more than anything else, the attitude toward war memorials in our time.',
+        'Friedrich St. Florian',
     ],
-    [
-        'Beauty for some provides escape, who gain a happiness in eyeing the gorgeous buttocks of the ape or Autumn sunsets exquisitely dying.',
-        'Langston Hughes',
+    '39ef724f-fac7-5ebd-90b1-847e4e5659de' => [
+        'A positive attitude causes a chain reaction of positive thoughts, events and outcomes. It is a catalyst and it sparks extraordinary results.',
+        'Wade Boggs',
     ],
-    [
-        'Success is the space one occupies in the newspaper. Success is one day\'s insolence.',
-        'Elias Canetti',
+    '1c5a20ab-2f51-5d28-9b7c-81e356840cca' => [
+        'Simply as an exercise in efficient politics, Obama \'08 rewrote the textbook. His accomplishment was historic and one that transformed how race and politics intersect in our society. Obama is the leading edge of this change, but his success is merely the ripple in a pond that grows deeper every day.',
+        'Gwen Ifill',
     ],
-    [
-        'The most important investment you can make is in yourself.',
-        'Warren Buffett',
+    'f0b07aea-d03e-57b3-9f1c-c5439f80eb5e' => [
+        'By the time we see that climate change is really bad, your ability to fix it is extremely limited... The carbon gets up there, but the heating effect is delayed. And then the effect of that heat on the species and ecosystem is delayed. That means that even when you turn virtuous, things are actually going to get worse for quite a while.',
+        'Bill Gates',
     ],
-    [
-        'I\'m passionate and I travel the world not just as a tourist but to understand cultures... I\'ve lived with Masai tribe... I travel the world and bring it back in the form of a research book that would become the starting point for the collection.',
-        'John Galliano',
+    '95182697-569b-5103-a525-914a9df47e5f' => [
+        'Surely it is time to examine into the meaning of words and the nature of things, and to arrive at simple facts, not received upon the dictum of learned authorities, but upon attentive personal observation of what is passing around us.',
+        'Frances Wright',
     ],
-    [
-        'While we may be of different faiths, we have a strong sense of faith, family, community. We hold the values of freedom and human rights very high and I think that those are all a part of a very strong quilt that binds us together.',
-        'Bob Menendez',
+    'dca96014-6d50-5ab1-bf1a-d351732528e1' => [
+        'It\'s true that a smile can take years off a person - not that such a thing matters in Yoko Ono\'s case.',
+        'Elvis Mitchell',
     ],
-    [
-        'Publishers like a good buzz, and negative responses sell books just as well as positive ones.',
-        'Richard Dawkins',
+    'b81595b8-5810-5d5c-9b33-6d72fa3ef545' => [
+        'The best cure for insomnia is to get a lot of sleep.',
+        'W. C. Fields',
     ],
-    [
-        'Who was Amanda Knox? Was she a fresh-faced honor student from Seattle who met anyone\'s definition of an all-American girl - attractive, athletic, smart, hard-working, adventuresome, in love with languages and travel? Or was her pretty face a mask, a duplicitous cover for a depraved soul?',
-        'Tina Brown',
+    '26b9df13-376b-5f47-b922-ecda5a8aa57e' => [
+        'If I just do everything the opposite of what my dad did, I think that will make things pretty easy. I can joke about it now because I\'m past that stage where it used to hurt. By having a kid, it\'s gone. I could take all that negative energy that I had and put it in a positive way.',
+        'Derrick Rose',
     ],
-    [
-        'I hope to have more time to think, to look at the sky, dealing with less crisis management, to learn another language, to travel.',
-        'Juliet Stevenson',
+    '58562d53-b476-5043-8fd6-72d018e7bfc5' => [
+        '\'Priced to sell\' - just the phrase makes me smile. When a dealer says all the items in his booth are priced to sell, he means he\'s tagged them as aggressively as he can to get you to buy them. Don\'t worry, though, I still haggle. You have to. That\'s the point of a flea market.',
+        'Nate Berkus',
     ],
-    [
-        'If someone does something in an entertainment/pop ambience, that person becomes someone who has an impact on the conduct and attitude of a huge number of people who peripherally come in contact with them.',
-        'Richard Attenborough',
+    'cd50b404-b2cb-5918-9258-5275f5fd5582' => [
+        'Man is but a reed, the most feeble thing in nature, but he is a thinking reed.',
+        'Blaise Pascal',
     ],
-    [
-        'Nature gives you the face you have at twenty; it is up to you to merit the face you have at fifty.',
-        'Coco Chanel',
+    '98c322c6-d68d-557e-9bbd-af5f4a87474b' => [
+        'What I\'ve learned from my own journey, and from my family\'s experience with cancer, is how important it is to stay positive and move forward. Not every day is going to be perfect; that\'s life. But staying positive is going to get you to the next day.',
+        'Bonnie Blair',
     ],
-    [
-        'It would take six months to get to Mars if you go there slowly, with optimal energy cost. Then it would take eighteen months for the planets to realign. Then it would take six months to get back, though I can see getting the travel time down to three months pretty quickly if America has the will.',
-        'Elon Musk',
+    '4c5ca542-b46c-50df-8a78-b8d27afccf2f' => [
+        'We sing inspirational songs, songs of praise and worship, and about how good and how big God is. We are magnifying the Lord.',
+        'Fred Hammond',
     ],
-    [
-        'We do not say: Being is, time is, but rather: there is Being and there is time.',
-        'Martin Heidegger',
+    '398b80b5-3f90-5ea4-92e7-7bf731e45eb8' => [
+        'We know from research that growth is actually contagious, so if you want to reach your goals, you\'ve got to get around people that are going in the same direction you want to be going, and you will catch the success.',
+        'Henry Cloud',
     ],
-    [
-        'I always think part of success is being able to replicate results, taking what is interesting or viable about yourself as a professional person and seeing if you bring it into different situations with similar results.',
-        'Robert Downey, Jr.',
+    '7af1b236-9179-52d6-b9d3-3c7ce091a857' => [
+        'To succeed, you need to find something to hold on to, something to motivate you, something to inspire you.',
+        'Tony Dorsett',
     ],
-    [
-        'Truth is the daughter of time, not of authority.',
-        'Francis Bacon',
+    '61aa8dc3-4d8a-5ce3-ba3b-37d4b0694ad8' => [
+        'Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don\'t turn up at all.',
+        'Sam Ewing',
     ],
-    [
-        'When you get into a tight place and everything goes against you, till it seems as though you could not hang on a minute longer, never give up then, for that is just the place and time that the tide will turn.',
-        'Harriet Beecher Stowe',
+    '7a133793-55bf-598b-8e08-796d65015beb' => [
+        'I\'m homesick all the time. I miss my animals. I miss my family. I miss my friends.',
+        'Brittany Howard',
     ],
-    [
-        'The pool is terrible, but that doesn\'t have much to do with my record swims. That\'s all mental attitude.',
-        'Mark Spitz',
+    'f2a63701-e18d-57d5-9d9a-98466cd3f9d0' => [
+        'Success is a matter of one\'s own feeling about oneself.',
+        'Edward James Olmos',
     ],
-    [
-        'The key to success is to focus our conscious mind on things we desire not things we fear.',
-        'Brian Tracy',
+    '207a337e-4b13-5dad-a350-18766275b994' => [
+        'Now is the age of anxiety.',
+        'W. H. Auden',
     ],
-    [
-        'Without courage, wisdom bears no fruit.',
-        'Baltasar Gracian',
+    '43224db1-30f4-54d4-88cf-840db1967f3c' => [
+        'It is cruel, you know, that music should be so beautiful. It has the beauty of loneliness of pain: of strength and freedom. The beauty of disappointment and never-satisfied love. The cruel beauty of nature and everlasting beauty of monotony.',
+        'Benjamin Britten',
     ],
-    [
-        'There is only one real sin and that is to persuade oneself that the second best is anything but second best.',
-        'Doris Lessing',
+    '7fa78ac3-3e79-502f-a66e-207dfb9b6674' => [
+        'I was always really proud of the fact that I had a very positive influence as a role model.',
+        'David Cassidy',
     ],
-    [
-        'The flower in the vase smiles, but no longer laughs.',
-        'Malcolm de Chazal',
+    'acf06bfb-f8bf-58a5-bfa3-efdb180c5fb1' => [
+        'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
+        'Confucius',
     ],
 ];

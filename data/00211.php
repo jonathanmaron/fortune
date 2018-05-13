@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When you encourage others, you in the process are encouraged because you\'re making a commitment and difference in that person\'s life. Encouragement really does make a difference.',
-        'Buddha',
+    'ed4df6fe-25aa-5734-be92-33a063c11d13' => [
+        'I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We\'ve created life in our own image.',
+        'Stephen Hawking',
     ],
-    [
-        'I sort of understood that when I first started: that you shouldn\'t repeat a success. Very often you\'re going to, and maybe the first time you do, it works. And you love it. But then you\'re trapped.',
-        'Jack Nicholson',
+    'b46335fa-d0a7-5f9d-8049-156e094e438f' => [
+        'Always remember your kid\'s name. Always remember where you put your kid. Don\'t let your kid drive until their feet can reach the pedals. Use the right size diapers... for yourself. And, when in doubt, make funny faces.',
+        'Amy Poehler',
     ],
-    [
-        'To so enter into it in nature and art that the enjoyed meanings of life may become a part of living is the attitude of aesthetic appreciation.',
-        'George Herbert Mead',
+    '31b46253-526a-5a05-96f0-8ea5cd4de8b1' => [
+        'Right actions in the future are the best apologies for bad actions in the past.',
+        'Tryon Edwards',
     ],
-    [
-        '\'Dancing with the Stars\' is a great format for us. It\'s a format we license from the BBC, so that can\'t travel for us, but we consider it a great success. \'Desperate Housewives,\' on the other hand, a huge success for us internationally. \'Missing\' has actually sold to 80 territories before it\'s even gone on the air.',
-        'Anne Sweeney',
+    '89be5924-e831-5038-9a8e-2adef66c8989' => [
+        'I noticed that no matter where I went in the country, there was this group of questions that got asked. I would track them and keep them in categories. Like body image, school, family, friendship, you name it, the emotional life of a teenage girl.',
+        'Elizabeth Berkley',
     ],
-    [
-        'Belief creates the actual fact.',
-        'William James',
+    '7c12c355-f7f8-5189-ba76-04a5dde0e67b' => [
+        'Don\'t smother each other. No one can grow in the shade.',
+        'Leo F. Buscaglia',
     ],
-    [
-        'Women in particular need to keep an eye on their physical and mental health, because if we\'re scurrying to and from appointments and errands, we don\'t have a lot of time to take care of ourselves. We need to do a better job of putting ourselves higher on our own \'to do\' list.',
-        'Michelle Obama',
+    '5e7625c7-8a72-5ed5-a17e-5f9f1585b53e' => [
+        'A satisfied customer is the best business strategy of all.',
+        'Michael LeBoeuf',
     ],
-    [
-        'Christmas to a child is the first terrible proof that to travel hopefully is better than to arrive.',
-        'Stephen Fry',
+    '47bf7140-038e-511b-bc6b-06046213173b' => [
+        'Anyone who has to fight, even with the most modern weapons, against an enemy in complete command of the air, fights like a savage against modern European troops, under the same handicaps and with the same chances of success.',
+        'Erwin Rommel',
     ],
-    [
-        'Gay culture is surviving and thriving. Some activists believe the recent rise in homophobic violence might be a gauge of the success of positive gay images.',
-        'Lance Loud',
+    '99713eaf-18f3-50dc-8372-e774aa049226' => [
+        'I basically started performing for my mother, going, \'Love me!\' What drives you to perform is the need for that primal connection. When I was little, my mother was funny with me, and I started to be charming and funny for her, and I learned that by being entertaining, you make a connection with another person.',
+        'Robin Williams',
     ],
-    [
-        'The buffalo is all gone, and an Indian can\'t catch enough jack rabbits to subsist himself and his family, and then, there aren\'t enough jack rabbits to catch. What are they to do?',
-        'George Crook',
+    'c4b106bf-8e99-5993-ae16-50ad5df7abdb' => [
+        'I am among those who think that science has great beauty.',
+        'Marie Curie',
     ],
-    [
-        'Death by plane crash scares me. I travel a lot, and when you hit turbulence, and post 9/11, that\'s in the back of my mind a bit.',
-        'Robert Englund',
+    '9e4392a5-d964-5d46-ae8d-29bb873022c9' => [
+        'I consider nature a vast chemical laboratory in which all kinds of composition and decompositions are formed.',
+        'Antoine Lavoisier',
     ],
-    [
-        'I have a real taste for doing action roles. I starred in a movie called \'Blast,\' which was my first action film, and I loved the fighting - I think I\'ve got the build, the attitude and the look for it.',
-        'Nadine Velazquez',
+    '6549e93f-82ef-5167-a1dc-0c8b90232e0e' => [
+        'Beauty is variable, ugliness is constant.',
+        'Douglas Horton',
     ],
-    [
-        'People will travel anywhere for good food - it\'s crazy.',
-        'Rene Redzepi',
+    '6f2010ec-54d1-5917-a347-62c8be696d4b' => [
+        'By plucking her petals, you do not gather the beauty of the flower.',
+        'Rabindranath Tagore',
     ],
-    [
-        'I look at graphic design as communication, meaning that the work has to have a vibe to connect to the viewer or perceiver. I make a black and white drawing and then add color digitally, bringing in a contemporary pattern to the composition to create a vibrance.',
-        'John Van Hamersveld',
-    ],
-    [
-        'The cure for boredom is curiosity. There is no cure for curiosity.',
-        'Ellen Parr',
-    ],
-    [
-        'Both my father and mother were survivors of the Warsaw Ghetto and the Nazi concentration camps. Apart from my parents, every family member on both sides was exterminated by the Nazis.',
-        'Norman Finkelstein',
-    ],
-    [
-        'It\'s not the situation, but whether we react negative or respond positive to the situation that is important.',
-        'Zig Ziglar',
-    ],
-    [
-        'To these ideals which were instilled in me when I was a youth, I attribute in a large degree the success that was mine on the bicycle tracks of the world.',
-        'Major Taylor',
-    ],
-    [
-        'Your attitude towards failure determines your altitude after failure.',
+    'b936fbb6-7483-595b-bc21-2b79e612921e' => [
+        'Time is more valuable than money, because time is irreplaceable.',
         'John C. Maxwell',
     ],
-    [
-        'As in nature, as in art, so in grace; it is rough treatment that gives souls, as well as stones, their luster.',
-        'Thomas Guthrie',
+    '8379b514-e432-52a7-849a-1f94c754f118' => [
+        'I love a girl that can make me laugh. I am not really a laugh-at-things type of guy and I don\'t smile and laugh all the time... But if a girl can make me laugh... I\'m in love!!!!',
+        'Jesse McCartney',
     ],
-    [
-        'Songwriting is like editing. You write down all this stuff - all this bad, stupid stuff - and then you have to get rid of everything except the very best.',
-        'Juliana Hatfield',
+    '1a640cef-86fb-55ad-a9c8-7df973990dd3' => [
+        'Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.',
+        'Corazon Aquino',
     ],
-    [
-        'Somebody said something funny to me the other day. They said, \'Wolper, until two weeks ago, your tombstone was going to say, \'David Wolper, the man who produced \'Roots.\' I think the tombstone now has a new inscription. It\'s going to be \'David Wolper, the man who produced the opening ceremony of the 1984 Olympics.\'',
-        'David L. Wolper',
+    'b2665c59-f5a0-5463-bacf-108aa3a76f38' => [
+        'I think it\'s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.',
+        'Leonard Nimoy',
     ],
-    [
-        'Our success in Singapore was a Herculean effort by the whole team. Now I am determined to deliver on all we promised. I will be watching like a hawk.',
-        'Sebastian Coe',
+    'ef8a3fb2-06e8-5234-878a-ac874fa8bf18' => [
+        'Smile, breathe and go slowly.',
+        'Thich Nhat Hanh',
     ],
-    [
-        'If you\'re trying to achieve, there will be roadblocks. I\'ve had them; everybody has had them. But obstacles don\'t have to stop you. If you run into a wall, don\'t turn around and give up. Figure out how to climb it, go through it, or work around it.',
-        'Michael Jordan',
+    'ffdae226-b681-54eb-a82b-381545a1f907' => [
+        'The noir hero is a knight in blood caked armor. He\'s dirty and he does his best to deny the fact that he\'s a hero the whole time.',
+        'Frank Miller',
     ],
-    [
-        'When I was growing up, my family was so poor we couldn\'t afford to pay attention.',
-        'Mr. T',
+    'e1e62290-8fa8-5b3f-a532-bb13db324546' => [
+        'My advice: Take a second out of the day today and be thankful for your family.',
+        'Jenna Morasca',
     ],
-    [
-        'Connecting with people, getting things done - that\'s what makes the travel worthwhile.',
-        'Tim Finchem',
+    '4172f1bc-940e-5bbd-814d-3d304cbe8b3a' => [
+        'Do what you love to do and give it your very best. Whether it\'s business or baseball, or the theater, or any field. If you don\'t love what you\'re doing and you can\'t give it your best, get out of it. Life is too short. You\'ll be an old man before you know it.',
+        'Melody Beattie',
+    ],
+    '48ae9a24-b332-54e7-997f-573e00722e73' => [
+        'Opportunities to find deeper powers within ourselves come when life seems most challenging.',
+        'Lao Tzu',
+    ],
+    '899b2768-823b-51fa-8061-b086f09a0291' => [
+        'Nature was here a series of wonders, and a fund of delight.',
+        'Daniel Boone',
+    ],
+    '1be5a095-063c-5a3a-a81a-f053242cefe8' => [
+        'I try to say I love you in a million different ways. That\'s what I aspire to do. That\'s what I do best.',
+        'Christine McVie',
+    ],
+    'e2ec3fa5-f569-5773-a557-4bfe83947598' => [
+        'People who don\'t travel cannot have a global view, all they see is what\'s in front of them. Those people cannot accept new things because all they know is where they live.',
+        'Martin Yan',
+    ],
+    '84869856-3b50-56ae-82d6-6f2fe11a24c9' => [
+        'Once you do embark upon the separation or divorce process, it is very important to remember three key things: Be kind, be reasonable, be brief. Remember that this person will no longer be your spouse, but he or she will continue to be your co-parent, family member, and perhaps business partner in certain assets or entities.',
+        'Laura Wasser',
     ],
 ];

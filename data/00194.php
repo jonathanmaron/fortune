@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Nations, like individuals in a state of nature, are equal and independent, possessing certain rights and owing certain duties to each other.',
-        'Millard Fillmore',
+    'efba71d9-d131-59a4-9093-d0a07a88e1fe' => [
+        'Some pursue happiness, others create it.',
+        'Unknown',
     ],
-    [
-        'I find, when you\'re an optimist, life has a funny way of looking after you.',
-        'Simon Sinek',
+    '89019261-da59-5a04-9377-5b1e179e9c3b' => [
+        'Good manners will open doors that the best education cannot.',
+        'Clarence Thomas',
     ],
-    [
-        'On Thanksgiving I will stop to give thanks that my family is safe and healthy, especially because I realize that, following the tragedies of this year, it is all too real a possibility that they might not have been.',
-        'Bobby Jindal',
+    'da599527-57b0-5353-874b-3ab753a46a0f' => [
+        'My philosophy is it\'s none of my business what people say of me and think of me. I am what I am, and I do what I do. I expect nothing and accept everything. And it makes life so much easier.',
+        'Oscar Wilde',
     ],
-    [
-        'Nature is neutral.',
-        'Adlai E. Stevenson',
-    ],
-    [
-        'There\'s no greater feeling in the world than when you can put a smile on somebody\'s face just by walking into a room. It\'s unbelievable. And if I have that power, who am I to waste it, you know?',
-        'J. J. Watt',
-    ],
-    [
-        'A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the \'why\' for his existence, and will be able to bear almost any \'how.\'',
-        'Viktor E. Frankl',
-    ],
-    [
-        'All the awards in the world, you can get into all the nightclubs, they\'ll send you the nicest clothes. Nothing better than walking into your dad\'s restaurant and seeing a smile on his face and knowing that your mom and dad and your sister are real proud of you.',
-        'Lady Gaga',
-    ],
-    [
-        'Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.',
+    '468a74b5-0bd8-5d2d-8ab7-3ec8be4e1f12' => [
+        'There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.',
         'Albert Einstein',
     ],
-    [
-        'I don\'t smile a lot in my pictures. I\'m always so... grim.',
-        'Michael Douglas',
+    '6e96db0e-3c43-5319-ab4a-76718dd4d464' => [
+        'If by chance some day you\'re not feeling well and you should remember some silly thing I\'ve said or done and it brings back a smile to your face or a chuckle to your heart, then my purpose as your clown has been fulfilled.',
+        'Red Skelton',
     ],
-    [
-        'You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like.',
-        'Kevin O\'Leary',
+    'daf5ee09-cc75-5196-b4a9-02861ba39391' => [
+        'Time and space - time to be alone, space to move about - these may well become the great scarcities of tomorrow.',
+        'Edwin Way Teale',
     ],
-    [
-        'With modeling, you pose. You want to look your best all the time. With acting, you have to be aware of the camera, but the more you show your imperfections, the better you\'re going to be.',
-        'Diane Kruger',
+    'cceca1b7-7f8b-553c-9bea-44e9090b7ebb' => [
+        'Exercise, prayer, and meditation are examples of calming rituals. They have been shown to induce a happier mood and provide a positive pathway through life\'s daily frustrations.',
+        'Chuck Norris',
     ],
-    [
-        'I think it\'s brought the world a lot closer together, and will continue to do that. There are downsides to everything; there are unintended consequences to everything. The most corrosive piece of technology that I\'ve ever seen is called television - but then, again, television, at its best, is magnificent.',
-        'Steve Jobs',
+    '3a9ce193-4470-5cc0-ab77-d20fe5317824' => [
+        'I don\'t like the way young people write and talk about the old. I don\'t like their attitude, which, if they weren\'t young and therefore bright and vibrant, would be called outdated.',
+        'Ruth Rendell',
     ],
-    [
-        'Passion is what gives meaning to our lives. It\'s what allows us to achieve success beyond our wildest imagination. Try to find a career path that you have a passion for.',
-        'Henry Samueli',
+    'bf96bc11-f5b7-5704-89f8-f5e51bfae142' => [
+        'The key to success is to get out into the store and listen to what the associates have to say.',
+        'Sam Walton',
     ],
-    [
-        'Believe you can and you\'re half way there.',
-        'Theodore Roosevelt',
+    'cc02acef-7f92-5275-a45d-cc73c4391fd7' => [
+        'Everyone has a different beauty and different qualities and I think that women need to learn to love their qualities and be comfortable in the fact that everyone is different.',
+        'Miranda Kerr',
     ],
-    [
-        'Truman is now seen as a near-great president because he put in place the containment doctrine boosted by the Truman Doctrine and the Marshall Plan and NATO, which historians now see as having been at the center of American success in the cold war.',
-        'Robert Dallek',
+    'e45ac679-6066-54b8-89e5-961fbd509074' => [
+        'Nothing will work unless you do.',
+        'Maya Angelou',
     ],
-    [
-        'I\'m no natural beauty. If I\'m gonna have any looks at all, I\'m gonna have to create them.',
-        'Dolly Parton',
+    '6ec63f09-f83e-5fb0-a842-1f1cb17317e8' => [
+        'I never said I wanted a \'happy\' life but an interesting one. From separation and loss, I have learned a lot. I have become strong and resilient, as is the case of almost every human being exposed to life and to the world. We don\'t even know how strong we are until we are forced to bring that hidden strength forward.',
+        'Michael Jordan',
     ],
-    [
-        'That government is best which governs least.',
-        'Henry David Thoreau',
+    '6b724f74-b5e1-5620-9785-785536144683' => [
+        'Bite off more than you can chew, then chew it.',
+        'Ella Williams',
     ],
-    [
-        'The positive and negative poles of a battery create an electrical flow. The masculine and feminine poles between people create a flow of sexual energy in motion.',
-        'David Deida',
+    'c3f6d623-2ac9-5f70-b547-cdd217480a38' => [
+        'Find something that you love to do, and find a place that you really like to do it in. I found something I loved to do. I\'m a mechanical engineer by training, and I loved it. I still do. My son is a nuclear engineer at MIT, a junior, and I get the same vibe from him. Your work has to be compelling. You spend a lot of time doing it.',
+        'Ursula Burns',
     ],
-    [
-        'I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has had to overcome while trying to succeed.',
-        'Booker T. Washington',
+    'd73dd263-09b7-524d-8edf-7047f7b81edd' => [
+        'We learned about dignity and decency - that how hard you work matters more than how much you make... that helping others means more than just getting ahead yourself.',
+        'Michelle Obama',
     ],
-    [
-        'I don\'t have a very positive attitude towards rappers.',
-        'Miriam Margolyes',
+    '1ac89206-113c-5e02-90b4-67108634a7ac' => [
+        'Sister is probably the most competitive relationship within the family, but once the sisters are grown, it becomes the strongest relationship.',
+        'Margaret Mead',
     ],
-    [
-        'Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.',
-        'Lao Tzu',
+    'dd82e9e8-cbb8-598f-9c81-f4fa57e4128b' => [
+        'To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.',
+        'Johannes Gaertner',
     ],
-    [
-        'To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time.',
-        'James A. Baldwin',
+    '17867bd7-fa45-556a-a413-d192cde08e76' => [
+        'Children have adopted a consumerist attitude - I dare you to entertain me.',
+        'Walter Dean Myers',
     ],
-    [
-        'Trees are the earth\'s endless effort to speak to the listening heaven.',
-        'Rabindranath Tagore',
+    '44ea4d94-5b39-5c98-a2b6-8b9cbb82f393' => [
+        'I\'ve always believed that success for anyone is all about drive, dedication, and desire, but for me, it\'s also been about confidence and faith.',
+        'Stephen Curry',
     ],
-    [
-        'In a position of utter desolation, when man cannot express himself in positive action, when his only achievement may consist in enduring his sufferings in the right way - an honorable way - in such a position man can, through loving contemplation of the image he carries of his beloved, achieve fulfillment.',
-        'Viktor E. Frankl',
+    'c79707c9-4013-5b22-9c0c-77d17e6b4cd9' => [
+        'I\'m tired of all this nonsense about beauty being skin deep. That\'s deep enough. What do you want, an adorable pancreas?',
+        'Jean Kerr',
     ],
-    [
-        'We have been so trying to convince them from the very beginning of our organization, but with no success.',
-        'George Haven Putnam',
+    '67740c44-e9ba-55c9-8e0d-c97354823b73' => [
+        'Time is the most precious element of human existence. The successful person knows how to put energy into time and how to draw success from time.',
+        'Denis Waitley',
+    ],
+    '2667e578-653a-53b7-a468-3c9d8784882c' => [
+        'Our lives are a sum total of the choices we have made.',
+        'Wayne Dyer',
+    ],
+    'f28cbd00-48a5-500c-badf-7361acabe449' => [
+        'People fall forward to success.',
+        'Mary Kay Ash',
+    ],
+    'fa9ea615-9b78-536f-bd4a-38b1ff33a516' => [
+        'Viewed freely, the English language is the accretion and growth of every dialect, race, and range of time, and is both the free and compacted composition of all.',
+        'Walt Whitman',
+    ],
+    '7ce2a24a-b57f-5203-afa7-65ef01384255' => [
+        'Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are.',
+        'Richard Branson',
     ],
 ];

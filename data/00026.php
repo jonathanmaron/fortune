@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Time has a way of demonstrating that the most stubborn are the most intelligent.',
-        'Yevgeny Yevtushenko',
+    'a0552560-c169-5a63-b8f8-ce87157879bb' => [
+        'Chaotic people often have chaotic lives, and I think they create that. But if you try and have an inner peace and a positive attitude, I think you attract that.',
+        'Imelda Staunton',
     ],
-    [
-        'I have just returned from Boston. It is the only thing to do if you find yourself up there.',
-        'Fred Allen',
+    'e5bb4d37-789a-5afb-b339-00d9521973fe' => [
+        'I don\'t know about you, but my girlfriends have been my girlfriends forever, and they\'re my sisters and my family.',
+        'Elizabeth Olsen',
     ],
-    [
-        'I know it sounds a bit corny, but I do think that beauty and sexiness come from within.',
-        'Rachel Stevens',
+    '46475fc1-d4bf-5bba-ab24-f5cf783b9a7b' => [
+        'The \'Aladdin\' thing - that\'s not work; that\'s just fun. Three days in the recording studio going mad, then the animators do all the work. Not a bad way to cash a large check, my friend.',
+        'Robin Williams',
     ],
-    [
-        'Every traveler knows too well the endless quest for the perfect travel bag: the one that\'s stylish enough to carry through Paris, sturdy enough to tote around Peru, and - most important - doesn\'t make your shoulder sag even before you\'ve loaded it up with everything you need for a day of sightseeing.',
-        'Hanya Yanagihara',
+    'ada80184-787c-564f-99b7-3554214ec684' => [
+        'Time is money says the proverb, but turn it around and you get a precious truth. Money is time.',
+        'George Gissing',
     ],
-    [
-        'A year or so ago I went through all the people in my life and asked myself: does this person inspire me, genuinely love me and support me unconditionally? I wanted nothing but positive influences in my life.',
-        'Mena Suvari',
+    '88878045-7279-5fd9-90ef-341255decd32' => [
+        'It can be easy to buy into anything. I would lose focus if I went with that attitude of wanting to be famous.',
+        'Tristan MacManus',
     ],
-    [
-        'Our truest life is when we are in dreams awake.',
-        'Eckhart Tolle',
+    'd7f14a95-7d56-5331-a4ab-acb34777370b' => [
+        'What you are will show in what you do.',
+        'Thomas A. Edison',
     ],
-    [
-        'To this day, just always treat people the way you want to be treated. Whether it\'s family or friends or co-workers, I think it\'s the most important thing. Whether you have success or don\'t have it, whether you\'re a good person is all that matters.',
-        'Brenda Song',
+    '91bcd5c6-ec2f-5e98-8eef-675c9b195fc8' => [
+        'Error is discipline through which we advance.',
+        'Channing',
     ],
-    [
-        'My mom had me at 16 and took me every place she went. I remember going on peace marches. She tried to take me to Woodstock - it was pouring rain. It was on my birthday, and I was crying so much in the car they turned the car around and dumped me at my grandmother\'s house... I had a little attitude.',
-        'Debi Mazar',
+    'cc8325ba-4a83-505a-abfe-025051e51519' => [
+        'When you run the marathon, you run against the distance, not against the other runners and not against the time.',
+        'Haile Gebrselassie',
     ],
-    [
-        'A man has to learn that he cannot command things, but that he can command himself; that he cannot coerce the wills of others, but that he can mold and master his own will: and things serve him who serves Truth; people seek guidance of him who is master of himself.',
-        'James Allen',
+    'd0ff9093-fa69-5a53-bef6-6ca73a2fcc9f' => [
+        'The beauty comes with the balance. Everyone should find his own balance in his personal as well as his professional life. Once you do so, you will feel and look beautiful.',
+        'Karolina Kurkova',
     ],
-    [
-        'We have shown that it is possible to create a radioactivity characterized by the emission of positive or negative electrons in boron and magnesium by bombardment with alpha rays.',
-        'Irene Joliot-Curie',
+    '2834e03a-1264-5d38-b004-8e4f4d9f31a0' => [
+        'If you believe you can make a difference, then you will make a difference. Believe in yourself, your family and your community and you will win.',
+        'Lindsay Fox',
     ],
-    [
-        'I woke up one morning thinking about wolves and realized that wolf packs function as families. Everyone has a role, and if you act within the parameters of your role, the whole pack succeeds, and when that falls apart, so does the pack.',
-        'Jodi Picoult',
+    'e8380ac2-b4cf-549b-be22-1a1fd1171386' => [
+        'I used my aviation contacts to open a travel agency. I used to book Caribbean flights.',
+        'Joseph Force Crater',
     ],
-    [
-        'To bring anything into your life, imagine that it\'s already there.',
-        'Richard Bach',
+    'bd6428da-5517-5a56-9bf1-1a70c64993d5' => [
+        'If you\'re not having a good time, find something else that gives you some joy in life.',
+        'Penny Marshall',
     ],
-    [
-        'Cats are the runes of beauty, invincibility, wonder, pride, freedom, coldness, self-sufficiency, and dainty individuality - the qualities of sensitive, enlightened, mentally developed, pagan, cynical, poetic, philosophic, dispassionate, reserved, independent, Nietzschean, unbroken, civilised, master-class men.',
-        'H. P. Lovecraft',
+    '59bfac0a-28f0-5dca-a17b-a788ae9d717c' => [
+        'A forest bird never wants a cage.',
+        'Henrik Ibsen',
     ],
-    [
-        'Scientists have demonstrated that dramatic, positive changes can occur in our lives as a direct result of facing an extreme challenge - whether it\'s coping with a serious illness, daring to quit smoking, or dealing with depression. Researchers call this \'post-traumatic growth.\'',
-        'Jane McGonigal',
+    '47adb1eb-c39e-5b65-aed1-0224fbc79a7e' => [
+        'Help others and give something back. I guarantee you will discover that while public service improves the lives and the world around you, its greatest reward is the enrichment and new meaning it will bring your own life.',
+        'Charles Darwin',
     ],
-    [
-        'If you look around, complacency is the great disease of your autumn years, and I work hard to prevent that.',
-        'Nick Cave',
+    '95a9a909-bb1d-5654-bbb0-607e21d75415' => [
+        '\'Halal in the Family\' will expose a broad audience to some of the realities of being Muslim in America. By using satire, we will encourage people to reconsider their assumptions about Muslims, while providing a balm to those experiencing anti-Muslim bias. I also hope those Uncles and Aunties out there will crack a smile!',
+        'Aasif Mandvi',
     ],
-    [
-        'I\'m spending a year dead for tax reasons.',
-        'Douglas Adams',
+    'f2789332-f348-55a7-93c0-1ac3e2772436' => [
+        'Lee\'s great gifts are teaching and inspirational guidance, not administration and management.',
+        'Cheryl Crawford',
     ],
-    [
-        'Coming to Nashville has been so motivating and inspirational. Just watching people live and breathe their music and create something that they can feel from start to finish.',
-        'Madi Diaz',
+    'baa7ecf1-2776-582f-af31-b74c5af1fdbb' => [
+        'You are capable of more than you know. Choose a goal that seems right for you and strive to be the best, however hard the path. Aim high. Behave honorably. Prepare to be alone at times, and to endure failure. Persist! The world needs all you can give.',
+        'E. O. Wilson',
     ],
-    [
-        'I work hard, like I\'m sure everyone else does, and I\'m very honest with the work I do.',
-        'Shah Rukh Khan',
+    'd0fda9b7-a5d5-5e5a-8148-347773db96ec' => [
+        'If you have a success you have it for the wrong reasons. If you become popular it is always because of the worst aspects of your work.',
+        'Ernest Hemingway',
     ],
-    [
-        'The earth is such a voluminous, sparse, wild place that has its own rhythm that human beings try to control and strategize our way around, but the truth is, if you\'re out someplace like the ocean on a capsized boat, it doesn\'t matter if you have academic degrees, or if you\'re a martial-arts ninja. Nature is a bigger force than you.',
-        'Rachael Taylor',
+    '7c2beb3a-afea-50f5-afbe-10d498ea9498' => [
+        'We must learn our limits. We are all something, but none of us are everything.',
+        'Blaise Pascal',
     ],
-    [
-        'Because beauty isn\'t enough, there must be something more.',
-        'Eva Herzigova',
+    'd9b66f0c-fc6d-52b2-9f0c-3ca23b6803db' => [
+        'Start every day off with a smile and get it over with.',
+        'W. C. Fields',
     ],
-    [
-        'Magic to me is you make a movie and it\'s all great and it clicks, and at the end of the day you feel like you\'re having an experience that is positive and that you\'re learning from.',
-        'Julia Roberts',
+    '7ea6543a-2a3d-5ab1-937e-ffb58d8007d9' => [
+        'The learned is happy, nature to explore; The fool is happy, that he knows no more.',
+        'Alexander Pope',
     ],
-    [
-        'The company of fools may first make us smile, but in the end we always feel melancholy.',
-        'Oliver Goldsmith',
+    'ed578c02-733a-5a49-85a6-4c2cef795e2d' => [
+        'A positive attitude can really make dreams come true - it did for me.',
+        'David Bailey',
     ],
-    [
-        'My dementia hasn\'t just affected me - it\'s affected my friends and family, too.',
-        'Gerry Anderson',
+    'de9a92c8-ca3d-50d3-a8ad-4f3aed748444' => [
+        'There\'s something about the ukulele that just makes you smile. It makes you let your guard down. It brings out the child in all of us.',
+        'Jake Shimabukuro',
     ],
-    [
-        'I think every role you get is going to be a powerful one. As long as you go in with the mindset of, \'Yeah, I\'m going to make the most of this.\' So that\'s the kind of attitude I take into each role that I play.',
-        'Anna Hutchison',
+    '0a075579-1d8f-5353-80dc-460daeefbfe0' => [
+        'Human judges can show mercy. But against the laws of nature, there is no appeal.',
+        'Arthur C. Clarke',
     ],
-    [
-        'I enjoy going to work and having a good time. It\'s tough when you got to work with people who just are in a bad mood all the damn time.',
-        'Queen Latifah',
+    '179dc5f4-d0a3-5565-a473-5a74de96098d' => [
+        'I wish to be appreciated not only as a film star but also for the person I am. If I manage to bring a smile on people\'s faces, then I think I\'ll be successful.',
+        'Deepika Padukone',
     ],
 ];

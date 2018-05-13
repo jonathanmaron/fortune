@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The compensation of a very early success is a conviction that life is a romantic matter. In the best sense one stays young.',
-        'F. Scott Fitzgerald',
+    '1d26c92f-153e-50cf-aad8-5018c24a9a74' => [
+        'If you\'re not making mistakes, then you\'re not doing anything. I\'m positive that a doer makes mistakes.',
+        'John Wooden',
     ],
-    [
-        'More powerful than the will to win is the courage to begin.',
-        'Unknown',
+    '1dc9a615-a5a0-5fb8-8610-dc68acca059d' => [
+        'When someone has cancer, the whole family and everyone who loves them does, too.',
+        'Terri Clark',
     ],
-    [
-        'There comes a time in the affairs of man when he must take the bull by the tail and face the situation.',
-        'W. C. Fields',
+    '0d09b12f-d52c-5d1b-b154-abf2d9d3e1a9' => [
+        'Without failure there is no sweetness in success. There\'s no understanding of it.',
+        'Glenn Beck',
     ],
-    [
-        'A creative man is motivated by the desire to achieve, not by the desire to beat others.',
-        'Ayn Rand',
+    '65d1ea37-2578-531a-8c14-e94474962bf8' => [
+        'Correction does much, but encouragement does more.',
+        'Johann Wolfgang von Goethe',
     ],
-    [
-        'I\'m not going to be horrible just for the sake of having attitude or make other people feel small just to make me feel bigger.',
-        'Kate Moss',
+    '27825277-319d-5e60-8f42-b754668c3a57' => [
+        'Man, I\'m 31 years old and a husband with four kids; I hope I\'m no thug. I hear all those negative things and don\'t hear anything positive. I think that\'s all those people feel... that way that\'s all they hear about when you hear Allen Iverson did something negative or something.',
+        'Allen Iverson',
     ],
-    [
-        'A happy life is one spent in learning, earning, and yearning.',
-        'Alan Cohen',
+    '2855b121-d424-59ed-adb4-b1db3e04f40b' => [
+        'You need three things to win: discipline, hard work and, before everything maybe, commitment. No one will make it without those three. Sport teaches you that.',
+        'Haile Gebrselassie',
     ],
-    [
-        'If we\'re stuck with having expectations, there\'s a very good reason to embrace positive ones: It\'s that we often create what we anticipate.',
-        'Martha Beck',
+    'c4910411-6a49-5dab-8704-27012bca882e' => [
+        'Prayer is man\'s greatest power!',
+        'W. Clement Stone',
     ],
-    [
-        'The tree that is beside the running water is fresher and gives more fruit.',
-        'Saint Teresa of Avila',
+    'db78d312-86c5-57cf-af18-400ff77a6c98' => [
+        'I love being a woman. I love the sexiness we get to exude. But the best thing about being a woman is the power we have over men.',
+        'Eva Longoria',
     ],
-    [
-        'My dad instilled in me a great sense of humor. I wasn\'t bullied at school because my outward attitude was confident, and that helps.',
-        'Warwick Davis',
+    'a014a1d2-abbd-54bf-b730-aabbb8947ed1' => [
+        'If you want to build a ship, don\'t drum up people to collect wood and don\'t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.',
+        'Antoine de Saint-Exupery',
     ],
-    [
-        'Each day is the scholar of yesterday.',
-        'Sophia Bush',
+    'a8ebee8f-7a05-5fe2-9c8a-475b058f2f9d' => [
+        'The fact that I stay anonymous means I can exhibit wherever I want. No one knows my name, so it\'s easy for me to travel.',
+        'JR',
     ],
-    [
-        'When you feel great, you emanate a certain energy that translates as beautiful. I don\'t care if you have the standard beauty or not; it\'s that X-factor that comes through, and the basis of that is good health.',
-        'Christie Brinkley',
+    '8b8e38df-4131-5a4b-8c06-dcfdb629b8c7' => [
+        'The person who makes a success of living is the one who sees his goal steadily and aims for it unswervingly.',
+        'Cecil B. DeMille',
     ],
-    [
-        'By believing passionately in something that does not yet exist, we create it.',
-        'Nikos Kazantzakis',
+    'a69fd997-5513-53e0-b1c1-e6da776f2142' => [
+        'Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.',
+        'Theodore Isaac Rubin',
     ],
-    [
-        'Good management is the art of making problems so interesting and their solutions so constructive that everyone wants to get to work and deal with them.',
-        'Paul Hawken',
+    '84d4d61c-5e8a-5764-aa93-53666e831043' => [
+        'Spontaneity is what travel is all about.',
+        'Zach Anner',
     ],
-    [
-        'How success changes the opinion of men!',
-        'Maria Edgeworth',
+    '1ec3d747-745e-5782-b582-d6917f055e5f' => [
+        'Travel, which was once either a necessity or an adventure, has become very largely a commodity, and from all sides we are persuaded into thinking that it is a social requirement, too.',
+        'Jan Morris',
     ],
-    [
-        'The significance of the cherry blossom tree in Japanese culture goes back hundreds of years. In their country, the cherry blossom represents the fragility and the beauty of life. It\'s a reminder that life is almost overwhelmingly beautiful but that it is also tragically short.',
-        'Homaro Cantu',
+    '9070e6db-4a4a-5106-ad92-fd909201328f' => [
+        'Older people shouldn\'t eat health food, they need all the preservatives they can get.',
+        'Robert Orben',
     ],
-    [
-        'Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.',
-        'Sue Patton Thoele',
+    '61805697-0bfa-5758-8ba7-bb7f55098979' => [
+        'No one has ever become poor by giving.',
+        'Anne Frank',
     ],
-    [
-        'Life itself is the most wonderful fairy tale.',
-        'Amy Winehouse',
+    'faa74f69-a936-5bcf-a483-cfb2db7aa33d' => [
+        'I don\'t think I could have a genuine relationship with someone who didn\'t love to travel and appreciate new foods. Traveling is a big part of my life, and I want to share that with the people close to me.',
+        'Candice Accola',
     ],
-    [
-        'I get accused of having a haughty smugness. I have a lopsided mouth. I can\'t help it. I was born with it. It looks as if I am smirking. I have had my publicist tell me, \'Don\'t do that smile on the red carpet.\' I\'m, like, \'That\'s my smile.\'',
-        'Natalie Dormer',
+    '52870262-425e-57a9-812c-a094d1c9a4ed' => [
+        'Whether you\'re successful or not, you\'ll never actually feel the joys of accomplishment unless you love yourself. Success can be very difficult to deal with. You have to stay in the center. If you let your success define you, then you\'re really just setting yourself up for failure.',
+        'Goldie Hawn',
     ],
-    [
-        'When you stop chasing the wrong things you give the right things a chance to catch you.',
-        'Lolly Daskal',
+    'f9727b62-1918-5390-9b28-3df0ca60fd6c' => [
+        'I may not know everything, but everything is not known yet anyway.',
+        'Byron Pulsifer',
     ],
-    [
-        'Cultivate the habit of zest. Purposefully seek out the beauty in the seemingly trivial. Especially in the trivial. The colors and shapes of the foods you eat. The shadows a vase makes on your table. The interesting faces of the people on the bus with you.',
-        'Karen Salmansohn',
+    '15410756-27a6-552f-8229-2ae8889cf2a8' => [
+        'I don\'t write under the ghost of Faulkner. I live in the same town and find his life and work inspiring, but that\'s it. I have a motorcycle and tool along the country lanes. I travel at my own speed.',
+        'Barry Hannah',
     ],
-    [
-        'By the time we get to the 2040s, we\'ll be able to multiply human intelligence a billionfold. That will be a profound change that\'s singular in nature. Computers are going to keep getting smaller and smaller. Ultimately, they will go inside our bodies and brains and make us healthier, make us smarter.',
-        'Ray Kurzweil',
+    'b215b13e-f656-572c-ae41-1fa7230b236c' => [
+        'Life brings simple pleasures to us every day. It is up to us to make them wonderful memories.',
+        'Cathy Allen',
     ],
-    [
-        'So there was a fire inside me. And that fire inside you, it can be turned into a negative form or a positive form. And I gradually realised that I had this fire and that it had to be used in a positive way.',
-        'John Newcombe',
+    '637397f2-72f6-5b8c-b85f-b19d75df165a' => [
+        'The great art of life is sensation, to feel that we exist, even in pain.',
+        'Tim Tebow',
     ],
-    [
-        'Once you decide to work for yourself, you never go back to work for somebody else.',
-        'Alan Sugar',
+    'da19face-36c8-5e84-b258-1115b64b3fe3' => [
+        'Time is the father of truth, its mother is our mind.',
+        'Giordano Bruno',
     ],
-    [
-        'Happiness mainly comes from our own attitude, rather than from external factors.',
-        'Dalai Lama',
+    '082da367-b583-5887-8ef4-becb9597d634' => [
+        'One way to keep momentum going is to have constantly greater goals.',
+        'Michael Korda',
     ],
-    [
-        'Of all possible subjects, travel is the most difficult for an artist, as it is the easiest for a journalist.',
-        'W. H. Auden',
+    'cc76be5e-74a4-5e9c-bf4a-440d3ed891e7' => [
+        'The best thing about getting a flu shot is that you never again need to wash your hands. That\'s how I see it.',
+        'Chuck Palahniuk',
     ],
 ];

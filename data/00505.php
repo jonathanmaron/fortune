@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I don\'t rely on feng shui. I believe hard work brings us good luck and success.',
-        'John Gokongwei',
+    '3d2b3555-8e4c-56df-bc21-775b6cc88da5' => [
+        'Grow old with me! The best is yet to be.',
+        'Robert Browning',
     ],
-    [
-        'Screaming at children over their grades, especially to the point of the child\'s tears, is child abuse, pure and simple. It\'s not funny and it\'s not good parenting. It is a crushing, scarring, disastrous experience for the child. It isn\'t the least bit funny.',
-        'Ben Stein',
+    'cbd60167-58c7-5386-ba9a-826a0f6b4e1f' => [
+        'Beauty and seduction, I believe, is nature\'s tool for survival, because we will protect what we fall in love with.',
+        'Louie Schwartzberg',
     ],
-    [
-        'The best math lesson we can teach college students this year is to subtract a tuition increase and benefit from the dividends of higher education.',
-        'Jodi Rell',
+    '39e1c59f-9755-5df5-a883-dc406d7eecfc' => [
+        'I\'m opening up my heart to the idea of dating. It\'s funny - my friends would always come to me for romantic advice. I know nothing, and things have changed since I was dating in high school! I\'m really trying hard to spend this time working on myself.',
+        'Olivia Wilde',
     ],
-    [
-        'Engaging in social business is beneficial to a company because it leverages on business competencies to address social issues, involves one-time investment with sustainable results, and produces other positive effects such as employee motivation and improved organizational culture.',
-        'Muhammad Yunus',
+    '48fe9eda-9d5d-5043-9e52-8c242046a22f' => [
+        'Our worldly successes cannot be guaranteed, but our ability to achieve spiritual success is entirely up to us, thanks to the grace of God. The best advice I know is to give is to give those worldly things your best but never your all - reserve the ultimate hope for the only one who can grant it.',
+        'Mitt Romney',
     ],
-    [
-        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.',
-        'Helen Keller',
+    'd8ba5bda-b152-5dde-93ac-88cc2c762cba' => [
+        'Live like you\'ll die tomorrow, work like you don\'t need the money, and dance like nobody\'s watching.',
+        'Bob Fosse',
     ],
-    [
-        'Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.',
-        'Ambrose Bierce',
+    '8f531d74-b860-5195-8bc2-ea63ca50a831' => [
+        'Strong women, when respected, make the whole society stronger. One must be careful with such rapid changes, though, and make an effort to preserve, at the same time, the positive traditions of Indian culture.',
+        'Chitra Banerjee Divakaruni',
     ],
-    [
-        'Nothing can express the aim and meaning of our work better than the profound words of St. Augustine - \'Beauty is the splendor of Truth.\'',
-        'Ludwig Mies van der Rohe',
+    '79adf7fc-4ea6-5d67-bc86-85c3247355cb' => [
+        'Community service has taught me all kinds of skills and increased my confidence. You go out there and think on your feet, work with others and create something from nothing. That\'s what life\'s all about.',
+        'Andrew Shue',
     ],
-    [
-        'There are people who are just suicidal, regardless. They are built to self-destruct. It seems, in my family, like a virus that\'s resistant to any kind of help or care or medication.',
-        'Miriam Toews',
+    '2e9840a1-7353-55a2-a2bd-d7e58febd705' => [
+        'Any product that needs a manual to work is broken.',
+        'Elon Musk',
     ],
-    [
-        'I think I\'ve discovered the secret of life - you just hang around until you get used to it.',
-        'Vince Lombardi',
+    '6c5e57cf-e73b-52b0-b16c-9796ddd3f2af' => [
+        'Since I\'m always working, my best holiday memories are definitely when I can just go home and spend time with my family.',
+        'Chris Brown',
     ],
-    [
-        'The thing is that love gives us a ringside seat on somebody else\'s flaws, so of course you\'re gonna spot some things that kinda need to be mentioned. But often the romantic view is to say, \'If you loved me, you wouldn\'t criticise me.\' Actually, true love is often about trying to teach someone how to be the best version of themselves.',
-        'Alain de Botton',
+    'efbc8e03-274a-5df3-a11a-2b2be348b14b' => [
+        'My parents being Bengali, we always had music in our house. My nani was a trained classical singer, who taught my mum, who, in turn, was my first teacher. Later I would travel almost 70 kms to the nearest town, Kota, to learn music from my guru Mahesh Sharmaji, who was also the principal of the music college there.',
+        'Shreya Ghoshal',
     ],
-    [
-        'I own and operate a ferocious ego.',
-        'Bill Moyers',
+    'f1956e91-e1dc-5706-8b27-90b51a7fb9fd' => [
+        'I\'d never been in play long enough for the flowers to die in the dressing room.',
+        'Mercedes McCambridge',
     ],
-    [
-        'Those who cannot learn from history are doomed to repeat it.',
-        'George Santayan',
+    '9d214cf9-87c5-5dc3-b7c5-bd0e667e845b' => [
+        'That term\'s definitely got a negative aura to it, because people think a diva is somebody with an attitude who demands things all the time. Of course there is that type of diva, but my idea of a diva has always been a singer - whether male or female - who gets on that stage and captivates you with their presence and their voice.',
+        'Jordin Sparks',
     ],
-    [
-        'I\'m not much of a family man. I\'m just not that into it. I love kids, I adore them, but I don\'t want to live my life for them.',
-        'Sting',
+    '91e49301-7e32-54c0-a775-3ac78f717e1d' => [
+        'The last time I saw him he was walking down lover\'s lane holding his own hand.',
+        'Fred Allen',
     ],
-    [
-        'A man who doesn\'t trust himself can never really trust anyone else.',
-        'Cardinal Retz',
+    'ba67a2ed-7b1b-596f-b8a0-110b8b006fdd' => [
+        'Every single job is a challenge. You are walking into a new set, a new character, creating a world and trying to get comfortable to do your best work.',
+        'Felicia Day',
     ],
-    [
-        'Learning is finding out what you already know.',
-        'Richard Bach',
+    'afc3141b-a7e2-5093-a4db-e7d8e2864ea0' => [
+        'Every movie that I\'ve had to really knock down the door for has been an enormous success for me. Not just like a financial success but a real personal success.',
+        'Jodie Foster',
     ],
-    [
-        'It\'s not a bad idea to occasionally spend a little time thinking about things you take for granted. Plain everyday things.',
-        'Evan Davis',
+    '135fa079-870c-55fa-8d58-72ee58ffa8d2' => [
+        'Watch the little things; a small leak will sink a great ship.',
+        'Benjamin Franklin',
     ],
-    [
-        'Could we change our attitude, we should not only see life differently, but life itself would come to be different.',
-        'Katherine Mansfield',
+    'eecd17e9-5f7f-5776-928e-90b801f56a4a' => [
+        'Sincerity is the way of Heaven. The attainment of sincerity is the way of men.',
+        'Confucius',
     ],
-    [
-        'My father leaving the family shaped who I was and how I looked at the world. By the same token, my father telling me fairy tales that he had made up shaped me profoundly, too.',
-        'Kate DiCamillo',
+    '5bde2b13-939b-5c50-9ecd-a79fd7b0c2e7' => [
+        'Miracles are not contrary to nature, but only contrary to what we know about nature.',
+        'Saint Augustine',
     ],
-    [
-        'When I tried to play something and screwed up, I\'d hear some other note that would come into play. Then I started trying different things to find the beauty in it.',
-        'Dimebag Darrell',
+    '5be36709-0c91-56ea-9d40-5ba7d842eb9e' => [
+        'I am still a victim of chess. It has all the beauty of art - and much more. It cannot be commercialized. Chess is much purer than art in its social position.',
+        'Marcel Duchamp',
     ],
-    [
-        'If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.',
-        'Pema Chodron',
+    'b3915cb4-e7ea-5747-b85e-538f126be15f' => [
+        'For everything that lives is holy, life delights in life.',
+        'William Blake',
     ],
-    [
-        'Everything I buy is vintage and smells funny. Maybe that\'s why I don\'t have a boyfriend.',
-        'Lucy Liu',
+    'a04a0af8-98ad-5f59-bf5d-7e5806263906' => [
+        'Since 2005, I have not spent much time with my family. In fact I have spent more time at the Taj Landsend in Mumbai. It was my 100th visit recently, which means I have spent more than 400 days in that hotel, and that is a lot more than I have spent with my family.',
+        'Mahendra Singh Dhoni',
     ],
-    [
-        'The winds and waves are always on the side of the ablest navigators.',
-        'Edward Gibbon',
+    '3492a788-7cc2-5b13-828f-29743b709e36' => [
+        'I never had a policy; I have just tried to do my very best each and every day.',
+        'Abraham Lincoln',
     ],
-    [
-        'I cannot give you the formula for success, but I can give you the formula for failure - which is: Try to please everybody.',
-        'Herbert Bayard Swope',
+    '539bffc7-9024-54e4-8bc8-9d231c3bbda1' => [
+        'People say I\'m extravagant because I want to be surrounded by beauty. But tell me, who wants to be surrounded by garbage?',
+        'Imelda Marcos',
     ],
-    [
-        'I love the Rio Grande Valley. I always say it\'s home - Texas is home. I\'ve been out in L.A. a little over ten years, and I still get so excited when I go back home. It just feels comfortable; it makes me smile.',
-        'Cristela Alonzo',
+    'f4768852-2021-50cf-9e95-13e76ae0a8a5' => [
+        'I just wanted to be a businessman, and to me, the best way to understand business was to be an accountant.',
+        'Aubrey McClendon',
     ],
-    [
-        'There are a lot of movies I\'d like to throw away. That\'s not to say that I went in with that attitude. Any film I ever started, I went in with all the hope and best intentions in the world, but some films just don\'t work.',
-        'Kiefer Sutherland',
+    'e7978a54-7e31-554a-895a-df553dce54fd' => [
+        'Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.',
+        'Avery Brooks',
     ],
 ];

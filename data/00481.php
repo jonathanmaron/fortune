@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I gave up my struggle with perfection a long time ago. That is a concept I don\'t find very interesting anymore. Everyone just wants to look good in the photographs. I think that is where some of the pressure comes from. Be happy. Be yourself, the day is about a lot more.',
-        'Anne Hathaway',
+    '2c2e15c3-f154-584c-b368-2e98f2c12898' => [
+        'How one handles success or failure is determined by their early childhood.',
+        'Harold Ramis',
     ],
-    [
-        'I utterly reject the view that the Third World is doomed to poverty and starvation. Not only is this wrong, I think this attitude verges on the immoral, like thinking that slavery is an unalterable facet of the human condition so why bother doing anything about it?',
-        'Alex Tabarrok',
+    'c32f61db-126c-55b7-860a-5c0998fd4879' => [
+        'Few will have the greatness to bend history itself; but each of us can work to change a small portion of events, and in the total; of all those acts will be written the history of this generation.',
+        'Robert Kennedy',
     ],
-    [
-        'Our contribution purely depends on our consciousness and our willingness to support those in need, to show vulnerability and accept the support of others, to share without expecting the credit, to give it our all and allow our hard work to decide the outcome, to understand that control can only be achieved with a shared responsibility.',
-        'Yehuda Berg',
+    'fdb42d0b-e3a9-52d2-9850-d56a4b310999' => [
+        'It is not fit that every man should travel; it makes a wise man better, and a fool worse.',
+        'William Hazlitt',
     ],
-    [
-        'I didn\'t know how to show my self love, and I didn\'t want anyone else to hurt me. So my tough girl attitude was like, \'I\'m not having it.\'',
-        'Mary J. Blige',
+    '46364892-c89f-5cb6-b2ee-584979def6f6' => [
+        'The ideal attitude is to be physically loose and mentally tight.',
+        'Arthur Ashe',
     ],
-    [
-        'Revolution is as unpredictable as an earthquake and as beautiful as spring. Its coming is always a surprise, but its nature should not be.',
-        'Rebecca Solnit',
+    '8d8cdac3-fbeb-5144-af76-2a13c87e7846' => [
+        'Love and work... work and love, that\'s all there is.',
+        'Sigmund Freud',
     ],
-    [
-        'Half our life is spent trying to find something to do with the time we have rushed through life trying to save.',
-        'Will Rogers',
+    '17a6a966-82c0-57c7-82d4-63174bd1ece2' => [
+        'Those who try to do something and fail are infinitely better than those who try nothing and succeed.',
+        'Lloyd Jones',
     ],
-    [
-        'On the whole, when I travel to different countries, I like to find the hidden places, so I tend to avoid the cities - but in terms of the ease of getting about, finding what you need, the excitement, that undercurrent of whatever you want it to be, it\'s got to be London.',
-        'Will Tudor',
+    'cadacf0a-523d-5995-8c96-2b08604ccd44' => [
+        'I read \'The Great Gatsby\' in high school and was hypnotized by the beauty of the sentences and moved by the story about the irrevocability of lost love.',
+        'Tom Perrotta',
     ],
-    [
-        'I\'m not funny. What I am is brave.',
-        'Lucille Ball',
+    '9758d147-cbd6-5879-9b08-1daf51fd9c1a' => [
+        'The difference between the impossible and the possible lies in a person\'s determination.',
+        'Tommy Lasorda',
     ],
-    [
-        'Social distance makes it all the easier to focus on small differences between groups and to put a negative spin on the ways of others and a positive spin on our own.',
-        'Daniel Goleman',
+    'ad92d274-e2d5-5ea2-a345-34c91c9741f4' => [
+        'Our success as a global brand has been directly related to how we select locations where we are confident our particular clients desire to be. Los Cabos, Mexico is the ideal Engel & Volkers market, growing in popularity among world luxury travelers seeking exceptional properties for second home opportunities.',
+        'Anthony Hitt',
     ],
-    [
-        'The root of the kingdom is in the state. The root of the state is in the family. The root of the family is in the person of its head.',
-        'Mencius',
+    'e64ee021-cb88-5f95-9924-c1f4e01ba88b' => [
+        'I always think that today is the best day that there\'s ever been. The song that I\'m working on is always the best song I\'ve ever written. The woman I\'m looking at is the most incomprehensibly beautiful woman I\'ve ever seen. These dogs that I have now are, by far, the best dogs I\'ve ever had - although, so were the last pair of dogs I had.',
+        'J. D. Souther',
     ],
-    [
-        'It\'s both rebellion and conformity that attack you with success.',
-        'Amy Tan',
+    '0ab01239-6cdc-5aec-a3c4-48f8932c4afc' => [
+        'The way is not in the sky. The way is in the heart.',
+        'Buddha',
     ],
-    [
-        'In nicey-nicey land, you must be happy-clappy and positive all the time - bad news is taboo.',
-        'Michael Leunig',
+    '736a6f66-3d0a-5c68-a48c-2b46a2f5fd7a' => [
+        'I can do comedy, so people want me to do that, but the other side of comedy is depression. Deep, deep depression is the flip side of comedy. Casting agents don\'t realize it but in order to be funny you have to have that other side.',
+        'Parker Posey',
     ],
-    [
-        'I never liked you, and I always will.',
-        'Samuel Goldwyn',
+    '6338ec76-8298-5834-a4ef-4f1f60859bae' => [
+        'Without music to decorate it, time is just a bunch of boring production deadlines or dates by which bills must be paid.',
+        'Frank Zappa',
     ],
-    [
-        'True health infuses positive energy in the mind, body and spirit; it is a main focus in my life.',
-        'Maximillian Degenerez',
+    '3204c434-7ff7-5dfa-8402-8d693f129535' => [
+        'I enjoy the work, I enjoy every minute of my professional life.',
+        'Jose Mourinho',
     ],
-    [
-        'When a law is in its nature a contract, when absolute rights have vested under that contract, a repeal of the law cannot divest those rights.',
-        'John Marshall',
+    '7db4a9d7-a23a-5d80-b429-285775fc627a' => [
+        'The difference between a democracy and a dictatorship is that in a democracy you vote first and take orders later; in a dictatorship you don\'t have to waste your time voting.',
+        'Charles Bukowski',
     ],
-    [
-        'We have one life and we should cherish it and make it the best we can.',
-        'David Morrissey',
+    '561f018e-6a40-5045-80d5-1404789d7817' => [
+        'Can a woman become a genius of the first class? Nobody can know unless women in general shall have equal opportunity with men in education, in vocational choice, and in social welcome of their best intellectual work for a number of generations.',
+        'Anna Garlin Spencer',
     ],
-    [
-        'What drew me towards team sport were the camaraderie and friendship. The chance to celebrate victory and success with a group of other people is something I have enjoyed doing.',
-        'Rahul Dravid',
+    '63df091f-217f-5882-b636-90e81e3bbae7' => [
+        'No matter how hard the past, you can always begin again.',
+        'Buddha',
     ],
-    [
-        'Success depends upon previous preparation, and without such preparation there is sure to be failure.',
-        'Confucius',
+    '46fe0467-12bd-5017-895e-7c470f6f5d9f' => [
+        'I think Led Zeppelin must have worn some of the most peculiar clothing that men had ever been seen to wear without cracking a smile.',
+        'Robert Plant',
     ],
-    [
-        'The traveller has reached the end of the journey!',
-        'Edmund Burke',
+    '9df1c515-5aa5-5da8-8695-0a4cf0d99cef' => [
+        'Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.',
+        'Jonathan Swift',
     ],
-    [
-        'My cheeks explode when I smile. That\'s why I have to look so nonplussed.',
-        'Rufus Wainwright',
+    '10392658-0a88-5bfb-85e4-99efec91749f' => [
+        'The NFL is such a large, multibillion dollar enterprise with fan loyalty because they have provided not only entertainment for sports fans, but memories, good memories, family memories to these fans, that can only bring about good will.',
+        'Wendell Pierce',
     ],
-    [
-        'The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another\'s, smile at someone and receive a smile in return, are to me continual spiritual exercises.',
-        'Leo Buscaglia',
+    'e8b65a48-ffad-5cce-8e62-6558a1e67001' => [
+        'The game of basketball has been everything to me. My place of refuge, place I\'ve always gone where I needed comfort and peace. It\'s been the site of intense pain and the most intense feelings of joy and satisfaction. It\'s a relationship that has evolved over time, given me the greatest respect and love for the game.',
+        'Michael Jordan',
     ],
-    [
-        'Our flag honors those who have fought to protect it, and is a reminder of the sacrifice of our nation\'s founders and heroes. As the ultimate icon of America\'s storied history, the Stars and Stripes represents the very best of this nation.',
-        'Joe Barton',
+    '0d15cb4e-47f8-5b6d-9cef-d030912a922a' => [
+        'We can\'t all be good at everything. This is partly the logic behind having a team in the first place, so each role can be filled with the person best suited for that role and together, every job and every strength is covered.',
+        'Simon Sinek',
     ],
-    [
-        'Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.',
-        'Helen Keller',
+    '86d74c7f-7405-5975-a48b-e724d901eb52' => [
+        'Gratitude bestows reverence, allowing us to encounter everyday epiphanies, those transcendent moments of awe that change forever how we experience life and the world.',
+        'Winston Churchill',
     ],
-    [
-        'I live and work alone and travel light, relying largely on my memory and making a point of letting intuition guide my way.',
-        'Lyall Watson',
+    'cab60c54-fa36-51e2-9af2-78fc11f9a284' => [
+        'People rarely succeed unless they have fun in what they are doing.',
+        'Dale Carnegie',
     ],
-    [
-        'Success is not in never failing, but rising everytime you fall!',
-        'Jonathan Taylor Thomas',
+    '88ddfe8b-4f91-5e00-859e-8d46133e583e' => [
+        'The holidays are a rough time for the homeless, but it\'s a year-round problem we have to solve.',
+        'Mike Binder',
     ],
 ];

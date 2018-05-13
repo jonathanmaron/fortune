@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'This life is like a swimming pool. You dive into the water, but you can\'t see how deep it is.',
-        'Ralph Waldo Emerson',
+    '59925bd8-95bd-57e4-abea-be9d0c8fcf28' => [
+        'Good skin is the best foundation for your makeup.',
+        'Holland Roden',
     ],
-    [
-        'To emphasize only the beautiful seems to me to be like a mathematical system that only concerns itself with positive numbers.',
-        'Paul Klee',
+    '565d1fa5-571f-5d51-ba5a-658197915d81' => [
+        'In the hierarchy of public lands, national parks by law have been above the rest: America\'s most special places, where natural beauty and all its attendant pleasures - quiet waters, the scents of fir and balsam, the hoot of an owl, and the dark of a night sky unsullied by city lights - are sacrosanct.',
+        'Michael Shnayerson',
     ],
-    [
-        'I can walk into a room and create a good ambience. I was taught all about this back when I studied acting. One of the things they would teach you is how to send out positive signals when you enter a room. I am glad I learned this.',
-        'Jean Reno',
+    '23ff7ab7-9e27-5f3c-bdb5-f2e195b8e164' => [
+        'I look at Jagger and the like and if I see a good attitude I\'ll admire it but I wouldn\'t copy their style.',
+        'Michael Hutchence',
     ],
-    [
-        'Gemmell\'s name guarantees a satisfying story and a thumping good read. I recommend all his heroic creations - \'Druss the axeman,\' \'the Jerusalem man,\' among others - but my favourite has to be \'Waylander\': Clint Eastwood with a crossbow and the same \'Make my day, punk\' attitude.',
-        'Neal Asher',
+    '60ba7f03-fc77-5b82-9946-9756268bc736' => [
+        'As I grew older, I realized that it was much better to insist on the genuine forms of nature, for simplicity is the greatest adornment of art.',
+        'Albrecht Durer',
     ],
-    [
-        'When a place gets crowded enough to require ID\'s, social collapse is not far away. It is time to go elsewhere. The best thing about space travel is that it made it possible to go elsewhere.',
-        'Robert A. Heinlein',
+    '55e7d426-988a-5bd7-8809-343671d49dd0' => [
+        'Love is a really scary thing, and you never know what\'s going to happen. It\'s one of the most beautiful things in life, but it\'s one of the most terrifying. It\'s worth the fear because you have more knowledge, experience, you learn from people, and you have memories.',
+        'Divyanka Tripathi',
     ],
-    [
-        'Success? You can\'t get a big head about it. When people stare at me, they could be whispering to their friend, \'That guy sucks! Have you seen him before? He\'s horrible.\'',
-        'David Spade',
+    'e310d11e-b59b-5cd3-b4e8-ead27dbb32a7' => [
+        'Choose something you like to do. I know it\'s a cliche, and you\'ve heard it over and over. But the reason is, you\'re going to have to work long and hard to achieve any success. You better like it or life is going to be terrible.',
+        'Bill Kurtis',
     ],
-    [
-        'Confidence isn\'t optimism or pessimism, and it\'s not a character attribute. It\'s the expectation of a positive outcome.',
-        'Rosabeth Moss Kanter',
+    '9892c08d-0841-5fb2-8e6f-d3f51a952a4a' => [
+        'How do you know you\'re going to do something, untill you do it?',
+        'J. D. Salinger',
     ],
-    [
-        'No one\'s going to be able to operate without a grounding in the basic sciences. Language would be helpful, although English is becoming increasingly international. And travel. You have to have a global attitude.',
-        'Rupert Murdoch',
+    '77fa2e06-ca7b-5918-85a7-d978ce412706' => [
+        'Our birthdays are feathers in the broad wing of time.',
+        'Jean Paul',
     ],
-    [
-        'The Amen of nature is always a flower.',
-        'Oliver Wendell Holmes, Sr.',
+    'db1ae333-3f98-54c4-a8cb-f329c207b42f' => [
+        'The best work of literature to represent the American Dream is \'The Great Gatsby\' by F. Scott Fitzgerald. It shows us how dreaming can be tainted by reality, and that if you don\'t compromise, you may suffer.',
+        'Azar Nafisi',
     ],
-    [
-        'In matters of conscience, first thoughts are best. In matters of prudence, last thoughts are best.',
-        'Robert Hall',
+    'a61f77f9-7637-5169-92c7-8e8875d07035' => [
+        'To measure the success of our societies, we should examine how well those with different abilities, including persons with autism, are integrated as full and valued members.',
+        'Ban Ki-moon',
     ],
-    [
-        'Do activities you\'re passionate about - which make your heart and soul feel perky - including things like working out, cooking, painting, writing, yoga, hiking, walking, swimming, being in nature, being around art, or reading inspiring books.',
-        'Karen Salmansohn',
+    'ac55d277-ab4e-51b8-bc57-8409748e018f' => [
+        'Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.',
+        'Blaise Pascal',
     ],
-    [
-        'The important thing is this: to be able at any moment to sacrifice what we are for what we could become.',
-        'Charles Dubois',
+    '0924b28a-7a62-5a84-afec-51fa65a94ed8' => [
+        'The evangelical Christian faith I\'d grown up with sustained me. It demanded that I refuse the drugs and alcohol on offer in our southwestern Ohio town, that I treat my friends and family kindly, and that I work hard in school. Most of all, when times were toughest, it gave me reason to hope.',
+        'J. D. Vance',
     ],
-    [
-        'If you can\'t relax during your interview, then nothing you do to prepare will matter. Being yourself is essential to the selection process, and interviewers will feel it if you\'re too nervous. Showing fear or anxiety appears weak compared to a relaxed smile and genuine confidence.',
-        'Travis Bradberry',
+    '6179f637-969d-5859-acd8-7fc966196bea' => [
+        'It\'s a weird thing. Rick Springfield wrote \'Jessie\'s Girl,\' and he probably gets sick of talking about \'Jessie\'s Girl.\' The thing is, I didn\'t write \'Blurred Lines.\' I didn\'t direct the music video. I\'m really happy for the success, but it is kind of a funny thing to follow me around.',
+        'Emily Ratajkowski',
     ],
-    [
-        'The world is getting so small. Young people are mobile; they want to travel around the world. When you travel around the world, you exchange culture, you want to make friends, you want to exchange things.',
-        'Jack Ma',
+    '42fea50c-98e0-5dc1-bdc8-02753eb7a5a2' => [
+        'Success for me means being able to work. I don\'t look at so much at what I\'ve done as much as I look to what I will do.',
+        'Phylicia Rashad',
     ],
-    [
-        'The shores of the Black Sea lend themselves to the literary genre that may be classified as \'cultural pilgrimage,\' which is not just a higher form of travel writing but which has the further mission of reporting on present conditions and supplying neglected knowledge.',
-        'Norman Davies',
+    '15df05b3-5bf4-54d0-8ffc-7dfac06b114e' => [
+        'The number of stressors has multiplied exponentially: traffic, money, success, work/life balance, the economy, the environment, parenting, family conflict, relationships, disease. As the nature of human life has become far more complicated, our ancient stress response hasn\'t been able to keep up.',
+        'Andrew J. Bernstein',
     ],
-    [
-        'Excellence is not a skill, it\'s an attitude.',
-        'Ralph Marston',
+    '1e719156-83e2-5c4d-90ab-685cbed068c1' => [
+        'I always hear myself saying, \'She\'s a beauty!\' or \'He\'s a beauty!\' or \'What a beauty!\' but I never know what I\'m talking about.',
+        'Andy Warhol',
     ],
-    [
-        'You cannot be lonely if you like the person you\'re alone with.',
-        'Wayne Dyer',
+    'fbe8bca0-b87e-5af1-b5d4-a0d65dfb6068' => [
+        'We must enforce the laws we have on the books, secure our borders, and deny special benefits to illegal immigrants such as in-state tuition rates. This approach is best for American citizens and is fair to those who have taken the time and effort to go through the legal immigration process.',
+        'Ron DeSantis',
     ],
-    [
-        'I\'m starting to think about things that I want to do, things that are fun. One of them is driving a car like a Porsche. I\'ve driven a lot of cars - sedans, trucks and big family vehicles all year long. But there\'s nothing like a four-wheel-drive Porsche.',
-        'Kevin O\'Leary',
+    'a5cf9c06-5f5d-572a-bf10-e300946a1989' => [
+        'My first feeling about the paper and the attitude is that it is absurd.',
+        'Arthur Holly Compton',
     ],
-    [
-        'We cannot hold a torch to light another\'s path without brightening our own.',
-        'Ben Sweetland',
+    'ad98ea16-e566-595b-94c9-9b877cea7aaf' => [
+        'We have a positive vision of the future founded on the belief that the gap between the promise and reality of America can one day be finally closed. We believe that.',
+        'Barbara Jordan',
     ],
-    [
-        'When eating an elephant take one bite at a time.',
-        'Creighton Abrams',
+    'ac0daf16-2113-5fbc-bdfa-4b7c73974667' => [
+        'Prosperity is the best protector of principle.',
+        'Mark Twain',
     ],
-    [
-        'Deep in their roots, all flowers keep the light.',
-        'Theodore Roethke',
+    '0c864195-00e8-5fe6-bb39-23d1a3f870d6' => [
+        'A ship in the harbor is safe. But that\'s not what ships are for.',
+        'Unknown',
     ],
-    [
-        'It\'s inspirational to see someone who is dying smile.',
-        'Arlen Specter',
+    '1f4cad65-e155-5934-8aaa-b2e4cc3d1edd' => [
+        'No alibi will save you from accepting the responsibility.',
+        'Napoleon Hill',
     ],
-    [
-        'A sour corporate culture can actually make an entire society unhappy. This means that a strong corporate culture can have a positive impact on a society.',
-        'Simon Sinek',
+    '7ec84b3e-9748-5dcd-b0cc-edf7365f3d87' => [
+        'A man ought to live so that everybody knows he is a Christian... and most of all, his family ought to know.',
+        'Dwight L. Moody',
     ],
-    [
-        'It seems to be a law of nature, inflexible and inexorable, that those who will not risk cannot win.',
-        'John Paul Jones',
+    'ba7d306d-16df-55df-9f0b-4aafcd04d856' => [
+        'My grandma did opera singing for the better part of her life; she used to sing all over the place. My grandpa was a sax player, and he used to travel all over the place, too.',
+        'Mac DeMarco',
     ],
-    [
-        'There is no disgrace in working. There was no silver spoon around at the time I was born.',
-        'Anna Held',
+    'e8c07cdd-ca25-5b93-959b-d3bfe57fb810' => [
+        'Growing up around Amish farmland, I enjoyed the opportunity to witness firsthand their love of family, of the domestic arts - sewing, quilting, cooking, baking - as well as seeing them live out their tradition of faith in such a unique way.',
+        'Beverly Lewis',
     ],
 ];

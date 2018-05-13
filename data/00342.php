@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'He who obtains has little. He who scatters has much.',
-        'Richard Braunstein',
+    'ca732992-8bad-5a5b-a6ff-6cfc69e13195' => [
+        'Because of my capacity for listening to strangers\' tales, or the details of their lives, my patience with their food and their crotchets, my curiosity that borders on nosiness, I am told that anyone traveling with me experiences an unbelievable tedium, and this is why I choose to travel alone.',
+        'Paul Theroux',
     ],
-    [
-        'Work while you have the light. You are responsible for the talent that has been entrusted to you.',
-        'Henri-Frederic Amiel',
+    'b5061150-e66c-5dfd-b874-676f45f0a2e8' => [
+        'You\'ve got to know what you want. This is central to acting on your intentions. When you know what you want, you realize that all there is left then is time management. You\'ll manage your time to achieve your goals because you clearly know what you\'re trying to achieve in your life.',
+        'Patch Adams',
     ],
-    [
-        'Ever since studying in Russia as a college student, I had been in a long-distance, one-sided love affair with Chechnya\'s remarkable history, culture and rugged natural beauty.',
-        'Anthony Marra',
+    '05932bdf-bdd2-5d6f-96d3-b73a6fcea094' => [
+        'Honor lies in honest toil.',
+        'Grover Cleveland',
     ],
-    [
-        'Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.',
-        'H. P. Lovecraft',
+    '7f2a5a3c-ca19-5e02-b656-9971e92f3219' => [
+        'Look your best - who said love is blind?',
+        'Mae West',
     ],
-    [
-        'It was during my first trip to America in 1953 - that\'s when I learned to visit museums. I was then 26 years old. When I travel, the first thing I do is to visit museums. When I go to New York City, I usually go to Broadway to see the shows.',
-        'John Gokongwei',
+    'f3edeff7-2de5-5a82-b23d-1eab780e3a97' => [
+        'Christmas is far and away my favorite holiday. I love everything about it, from the event that inspired it, hoping for a white one, to wrapping presents. But mostly I love having family and friends gathered, and sharing traditions.',
+        'Ellen Hopkins',
     ],
-    [
-        'I want my kids to have a good work ethic. I believe you can achieve anything if you work hard enough to get it.',
-        'Victoria Beckham',
+    '32f62b3c-7463-59ad-99ca-32d9dd474670' => [
+        'One of the best things to do sometimes is simply to be.',
+        'Eric Butterworth',
     ],
-    [
-        'Everybody has goals, aspirations or whatever, and everybody has been at a point in their life where nobody believed in them.',
-        'Pope Francis',
+    'deed6b91-8723-58a6-aea8-be797339f89d' => [
+        'Patience and time do more than strength or passion.',
+        'Jean de La Fontaine',
     ],
-    [
-        'You can do anything with bayonets except sit on them.',
-        'Thomas Hardy',
+    '3ed81584-5dd0-57be-8f9c-573605eaaa9c' => [
+        'Good management is the art of making problems so interesting and their solutions so constructive that everyone wants to get to work and deal with them.',
+        'Paul Hawken',
     ],
-    [
-        'Self-preservation is the first law of nature.',
-        'Samuel Butler',
+    'd1deac3b-c4fc-51be-af23-b4f50afdfaa9' => [
+        'Excellence is the best deterrent to racism or sexism.',
+        'Oprah Winfrey',
     ],
-    [
-        'Acting is a sense of wonder and magic and mystery for me and when life takes me on a new journey, I simply remember the smile my first ballet recital put on my face and I move forward.',
-        'Andrea Thompson',
+    'c7e0ebba-a3c0-50b0-8f29-f0777f8acb8e' => [
+        'Evening is a time of real experimentation. You never want to look the same way.',
+        'Donna Karan',
     ],
-    [
-        'America won the Cold War by protecting our strategic resources from the threat of foreign control. We must bring the same attitude to our trade relationship with China.',
-        'Jo Ann Emerson',
+    'aae5cd9d-5361-5206-9bff-91f89dac771c' => [
+        'I would never deny the importance of the media, but I wouldn\'t go out of the way to splash my pictures all over town. I\'d rather let my work do the talking.',
+        'Amisha Patel',
     ],
-    [
-        'If I am not mistaken, it was a British poet who said that \'no one is properly dressed unless he wears a smile.\'',
-        'Sukarno',
+    'bc4ea086-ea5a-559e-bcd4-2ce5d98992be' => [
+        'Sadness flies away on the wings of time.',
+        'Jean de La Fontaine',
     ],
-    [
-        'I will end up with someone in the arts. I am positive. I eat, breathe and sleep acting. And I\'ll end up with someone who is happy staying at home and having me cook supper. But I also really need to be intellectually challenged and stimulated. I want someone bookish, and someone who is passionate.',
-        'Ginnifer Goodwin',
+    '12a9fa7d-8b23-5734-a546-6763b9390b0c' => [
+        'Being part of the Workshop is like being part of a really big family. Everyone is so close. Everyone feels the success of others who go on to do well. Whatever happens, I will still be part of the Workshop.',
+        'Lucy Carless',
     ],
-    [
-        'Reality continues to ruin my life.',
-        'Bill Watterson',
+    'a990c1e5-a574-514b-889f-7b84a8dfd8c2' => [
+        'I love a woman with a relaxed attitude.',
+        'Stephane Rolland',
     ],
-    [
-        'Tennis just a game, family is forever.',
-        'Serena Williams',
+    'b72ceb11-0313-5863-adc2-adf9e8fa6426' => [
+        'I always think part of success is being able to replicate results, taking what is interesting or viable about yourself as a professional person and seeing if you bring it into different situations with similar results.',
+        'Robert Downey, Jr.',
     ],
-    [
-        'I love to travel, and I think being whisked away somewhere for a vacation is a pretty amazing date. But, I\'m really into the basic movie and dinner. It\'s not where you are but who you\'re with that really matters.',
-        'Alexandra Daddario',
+    'd594b2a9-1a81-5dbf-ae3a-21bd044adf3f' => [
+        'There was a time when nails were high-tech. There was a time when people had to be told how to use a telephone. Technology is just a tool. People use tools to improve their lives.',
+        'Tom Clancy',
     ],
-    [
-        'Denial helps us to pace our feelings of grief. There is a grace in denial. It is nature\'s way of letting in only as much as we can handle.',
-        'Elisabeth Kubler-Ross',
+    '9cf9bce7-2323-5e61-93ce-d038439833e3' => [
+        'God always strives together with those who strive.',
+        'Aeschylus',
     ],
-    [
-        'Like love, breakfast is best when made at home.',
-        'Gina Barreca',
+    'c048c339-fef7-5e46-adcd-7d110b96a251' => [
+        'And as we let our own light shine, we unconsciously give other people permission to do the same.',
+        'Nelson Mandela',
     ],
-    [
-        'Very few things are totally devoid of any possibility of humor. If you are aware of that possibility and alive to the scene becoming that way, then it just happens naturally. That\'s what I feel living is like, too. I find a lot of things that make me smile or make me laugh over the course of the day.',
-        'Tom Drury',
+    'f062b6fe-1b78-51f6-81b6-48f7407ae065' => [
+        'If you work hard and you do your best, you can do anything.',
+        'Erin Heatherton',
     ],
-    [
-        'When we remember we are all mad, the mysteries disappear and life stands explained.',
-        'Max Lucado',
+    'ccf4d835-a3d5-5b3d-bae2-1b038fef932e' => [
+        'It is the power of the mind to be unconquerable.',
+        'Seneca',
     ],
-    [
-        'I believe that in life, you have to give things your best shot, do your best. You have to focus on what needs to be done, do the right thing, not the popular thing.',
-        'David Cameron',
+    'a70e96a9-2465-5471-b838-710b8149fd39' => [
+        'I buy expensive suits. They just look cheap on me.',
+        'Warren Buffett',
     ],
-    [
-        'When I have a terrible need of - shall I say the word - religion. Then I go out and paint the stars.',
-        'Vincent Van Gogh',
+    '6d933492-793a-5ea7-88a4-8769dc640600' => [
+        'The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.',
+        'Lech Walesa',
     ],
-    [
-        'It\'s funny; as I get older I\'m reverting to my roots - I want to plant stuff.',
-        'Melissa McCarthy',
+    '39d9443e-2fb6-59bd-ab4f-315527473004' => [
+        'I get asked, \'Who would you really like to work with?\' I\'m already working with them. Smart, talented, funny people, good musicians, an extended family, good friends.',
+        'Christopher Guest',
     ],
-    [
-        'All children are artists. The problem is how to remain an artist once he grows up.',
-        'Pablo Picasso',
+    '7e807ea4-1da4-5c8a-a858-a6f6e0926ab4' => [
+        'Don\'t time travel into the past, roaming through the nuances as if they can change. Don\'t bookmark pages you\'ve already read.',
+        'James Altucher',
     ],
-    [
-        'Mindfulness is about love and loving life. When you cultivate this love, it gives you clarity and compassion for life, and your actions happen in accordance with that.',
-        'Eminem',
+    '69af33df-2784-53f5-beb9-ca72b98ca6e2' => [
+        'It\'s funny, but when I arrived in California to start college I was much more interested in becoming a surfer and cruise along in life from one beach to the next. I didn\'t plan out any huge career for myself.',
+        'Benicio Del Toro',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Success doesn\'t mean that you are healthy, success doesn\'t mean that you\'re happy, success doesn\'t mean that you\'re rested. Success really doesn\'t mean that you look good, or feel good, or are good.',
-        'Victoria Principal',
+    '16fad827-eb0b-5346-b502-a95babd2d21c' => [
+        'I\'m human, I\'m not perfect. I make mistakes all the time, but I guess my job is to keep those mistakes to myself, which I\'m already fine doing and just try to be the best I can be for those kids.',
+        'Selena Gomez',
     ],
-    [
-        'When I was eight, my piano teacher played seven or eight notes, and I sang them. She stopped and looked at me in shock! That was the first time I\'d gotten that reaction. I\'d had looks of horror, but never shock in a positive way.',
-        'Chris Cornell',
+    '943bc351-0dad-58bd-acab-71e965f28a67' => [
+        'In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact.',
+        'Les Brown',
     ],
-    [
-        'Food, love, career, and mothers, the four major guilt groups.',
-        'Cathy Guisewite',
+    '9e281a94-0852-5576-9911-55ad4304ae4b' => [
+        'Yet, taught by time, my heart has learned to glow for other\'s good, and melt at other\'s woe.',
+        'Homer',
     ],
-    [
-        'Time is flying never to return.',
-        'Virgil',
+    '861b839f-31da-5ee4-a411-dc8af3950b0b' => [
+        'Smiling is definitely one of the best beauty remedies. If you have a good sense of humor and a good approach to life, that\'s beautiful.',
+        'Rashida Jones',
     ],
-    [
-        'Now I think that going to the gym is the best drug. I go four times a week and it gives me the buzz I need.',
-        'Amy Winehouse',
+    'dc948a46-e032-593b-96db-024ed1328c25' => [
+        'It\'s better to be a lion for a day than a sheep all your life.',
+        'Rupert Murdoch',
     ],
-    [
-        'I travel often, so my routine is always getting scrambled. But on a standard sort of day, I get up at 6, pack lunches, hustle the kids off to school, then brew a pot of coffee and head downstairs to the dungeon, as I call it: my cobwebby office in the basement.',
-        'Benjamin Percy',
+    'c33e8261-7700-581b-b977-e00abae30a46' => [
+        'A graduation ceremony is an event where the commencement speaker tells thousands of students dressed in identical caps and gowns that \'individuality\' is the key to success.',
+        'Robert Orben',
     ],
-    [
-        'I think that\'s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.',
-        'Elon Musk',
+    'fe67333c-186c-52f2-ba32-51149e6b69e8' => [
+        'It is good to realize that if love and peace can prevail on earth, and if we can teach our children to honor nature\'s gifts, the joys and beauties of the outdoors will be here forever.',
+        'Jimmy Carter',
     ],
-    [
-        'Failure is the condiment that gives success its flavor.',
-        'Truman Capote',
+    '353177e4-0b39-53ab-ab17-0661ead822c8' => [
+        'Learn to listen. Opportunity could be knocking at your door very softly.',
+        'Frank Tyger',
     ],
-    [
-        'I really do believe that inner beauty is so much more than any kind of outer beauty.',
-        'Rachele Brooke Smith',
+    '43b5b0db-762a-5352-9433-63ca437e3e64' => [
+        'Fashion is a funny thing to talk about. I think what you wear is definitely an extension of you, but I also think it\'s totally arbitrary.',
+        'Tessa Thompson',
     ],
-    [
-        'It\'s okay to have a bad day',
-        'Unknown',
+    'a20ab648-bbb9-5cd8-9f25-6066f2fc2cd5' => [
+        'Each minute is a little thing, and yet, with respect to our personal productivity, to manage the minute is the secret of success.',
+        'Joseph B. Wirthlin',
     ],
-    [
-        'It stands to the everlasting credit of science that by acting on the human mind it has overcome man\'s insecurity before himself and before nature.',
-        'Albert Einstein',
+    '524783e7-3e0d-59dd-8f9d-999cd03c092b' => [
+        'No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure.',
+        'Napoleon Hill',
     ],
-    [
-        'I\'d luv to kiss ya, but I just washed my hair.',
-        'Bette Davis',
+    '03aa3d33-e530-5d2a-83bc-7df9a46481a5' => [
+        'The secret of my success is that I make other people money. And, never ever, ever, ever be ashamed about trying to earn as much as possible for yourself, if the person you\'re working with is also making money. That\'s life!',
+        'Simon Cowell',
     ],
-    [
-        'What is success? It is a toy balloon among children armed with pins.',
-        'Gene Fowler',
+    'aa188702-3833-519e-a6ec-c348dc7c459c' => [
+        'No is easier to do. Yes is easier to say.',
+        'Jason Fried',
     ],
-    [
-        'Healing is a matter of time, but it is sometimes also a matter of opportunity.',
-        'Hippocrates',
+    '71b6ce88-24ec-5333-996f-dccbcbc1ed99' => [
+        'The beauty, the poetry of the fear in their eyes. I didn\'t mind going to jail for, what, five, six hours? It was absolutely worth it.',
+        'Johnny Depp',
     ],
-    [
-        'All generalizations are false, including this one.',
-        'Mark Twain',
+    '850ce5ee-d14f-5abf-8314-9d28e5ad0cd9' => [
+        'God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.',
+        'Arthur Young',
     ],
-    [
-        'Miami Beach is where neon goes to die.',
-        'Lenny Bruce',
+    '0300b2a6-83f8-5f9b-ae38-4724ecc8a400' => [
+        'A great work is made out of a combination of obedience and liberty.',
+        'Nadia Boulanger',
     ],
-    [
-        'Your best teacher is your last mistake.',
-        'Ralph Nader',
+    '097ad116-6514-56c2-95d9-3a0fe09e9398' => [
+        'All journeys have secret destinations of which the traveler is unaware.',
+        'Martin Buber',
     ],
-    [
-        'I am obsessed with beauty. I want everything to be perfect, and of course it isn\'t. And that\'s a tough place to be because you\'re never satisfied.',
-        'Robert Mapplethorpe',
+    '282398ed-5a95-5995-adf2-5f16f201b453' => [
+        'I just developed my act way back in the late \'80s. I went to college in Georgia, so I picked up the Southern accent. I talked like that with my friends all the time, because it was fun. It was funny... All my friends were real Southern. We\'re buddies, so I\'d say stuff to make them laugh. So that was pretty much it.',
+        'Larry the Cable Guy',
     ],
-    [
-        'Life is a lively process of becoming.',
-        'Taylor Spreitler',
+    '1436c029-1baf-54a7-b65d-ed48227dda01' => [
+        'Instead of being critical of people in authority over you and envious of their position, be happy you\'re not responsible for everything they have to do. Instead of piling on complaints, thank them for what they do. Overwhelm them with encouragement and appreciation!',
+        'Joyce Meyer',
     ],
-    [
-        'The creed of a true saint is to make the best of life, and to make the most of it.',
-        'Edwin Hubbel Chapin',
+    'bd964c7c-2885-58ab-9f5c-33050c8dccf9' => [
+        'It would astonish if not amuse the older citizens to learn that I (a strange, friendless, uneducated, penniless boy, working at ten dollars per month) have been put down as the candidate of pride, wealth, and aristocratic family distinction.',
+        'Abraham Lincoln',
     ],
-    [
-        'It is sometimes said that the major discoveries have already been made and that there is nothing important left to find. This attitude is altogether too pessimistic. There are plenty of ideas and plenty of things left to discover. The trick is to find the right path from one to the other.',
-        'John Vane',
+    'e6093165-ff4f-5c1b-93cb-6f1e499a75bc' => [
+        'My son gave me the permission to accept my success.',
+        'Gary Burghoff',
     ],
-    [
-        'If you manifest your true self through nature and your normal surroundings, I find that the most eerie. Like when you see birds suddenly start flying in a different direction or when you see moths forming weird shapes, I think that\'s the weirdest way to let yourself be known.',
-        'Holland Roden',
+    'a273cd67-8e08-5600-9a35-53153909b76d' => [
+        'Things turn out best for those who make the best of the way things turn out.',
+        'Jack Buck',
     ],
-    [
-        'If you have an ongoing relationship with a person, think of everything positive about that person that you possibly can and enter your interaction from that space. Ignore all the crap that used to drive you up the wall before. You will be amazed at what a change this attitude shift brings about.',
-        'Srikumar Rao',
+    '457cc07c-3650-55bc-8441-ba1dff6a95e5' => [
+        'The moment you cheat for the sake of beauty, you know you\'re an artist.',
+        'David Hockney',
     ],
-    [
-        'I love my iPhone; it\'s great to have a camera around all the time.',
-        'Win Butler',
+    'ef6b2690-32c4-5761-ae2e-d835138b5ae3' => [
+        'Time, the devourer of all things.',
+        'Ovid',
     ],
-    [
-        'Organizing ahead of time makes the work more enjoyable. Chefs cut up the onions and have the ingredients lined up ahead of time and have them ready to go. When everything is organized you can clean as you go and it makes everything so much easier and fun.',
-        'Anne Burrell',
+    '1e250354-cf60-5ce7-b459-279c6ea99898' => [
+        'With improv, it\'s a combination of listening and not trying to be funny.',
+        'Kristen Wiig',
     ],
 ];

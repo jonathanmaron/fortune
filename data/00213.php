@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I travel around the world constantly promoting my projects and endorsing products. Yes, I do get paid to go to parties; in fact, I\'m the person who started the whole trend of paid appearances. But when you see me at a party, I\'m always working or promoting something.',
-        'Paris Hilton',
+    'dbaba676-aebc-5462-83d0-ee7572a824cd' => [
+        'My success was not based so much on any great intelligence but on great common sense.',
+        'Helen Gurley Brown',
     ],
-    [
-        'It\'s very strange that most people don\'t care if their knowledge of their family history only goes back three generations.',
-        'Douglas Coupland',
+    '19b870ec-ca3e-5599-90f6-1f97da1e5d24' => [
+        'To be a good loser is to learn how to win.',
+        'Carl Sandburg',
     ],
-    [
-        'I like guys with a sense of humor who smile a lot and are kind.',
-        'Nikki Glaser',
+    '71abb96b-104d-5107-91d5-f5a8946e76e1' => [
+        'He who is fixed to a star does not change his mind.',
+        'Leonardo da Vinci',
     ],
-    [
-        'My grandmother lived to 104 years old, and part of her success was she woke up every morning to a brand new day. She said every morning is a new gift. Her favorite hobby was collecting birthdays.',
-        'George Takei',
+    'a3958d83-ad76-58a0-a8da-4d8b586b180f' => [
+        'The hardships that I encountered in the past will help me succeed in the future.',
+        'Philip Emeagwali',
     ],
-    [
-        'Keep close to Nature\'s heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean.',
-        'John Muir',
+    'f5344f85-159a-5911-8ede-1a568bae83e0' => [
+        'What is important in life is life, and not the result of life.',
+        'Michel de Montaigne',
     ],
-    [
-        'Life has no limitations, except the ones you make.',
-        'Christina Milian',
+    'b27947ce-7968-54aa-ba90-f1aa0fd1a33d' => [
+        'Becoming a father increases your capacity for love and your level of patience. It opens up another door in a person - a door which you may not even have known was there. That\'s what I feel with my son. There\'s suddenly another level of love that expands. My son is my greatest joy, out of everything in my life.',
+        'Langston Hughes',
     ],
-    [
-        'It\'s nice to look out and see your family supporting you.',
-        'Zayn Malik',
+    '7bc9e727-2994-5073-9909-3a5801c9bad2' => [
+        'Slow down and enjoy life. It\'s not only the scenery you miss by going too fast, you also miss the sense of where you are going and why.',
+        'Eddie Cantor',
     ],
-    [
-        'I am just a beginner. The two films so far are baby steps. If I develop an attitude, I\'ll be finished even before I\'ve started. Besides, if I started misbehaving, my folks would give me a tight slap.',
-        'Kriti Sanon',
+    '954f7cb5-709d-5495-b46a-de02dd5532dc' => [
+        'Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.',
+        'Amiel',
     ],
-    [
-        'There are two ways of spreading light: to be the candle or the mirror that reflects it.',
-        'Edith Wharton',
+    'ad8a304a-8b37-5597-9c82-019e5d3345ae' => [
+        'Through the years you, the Delaware State family and your predecessors, have faced many challenges. You worked through them with fierce determination and good will, and you have made great progress.',
+        'Michael N. Castle',
     ],
-    [
-        'A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are worthwhile, it can be done.',
-        'Vince Lombardi',
+    '1ce94990-d9b7-5b71-b7ec-d9dfc0d3ecd8' => [
+        'There are some things you learn best in calm, and some in storm.',
+        'Willa Cather',
     ],
-    [
-        'In June as many as a dozen species may burst their buds on a single day. No man can heed all of these anniversaries; no man can ignore all of them.',
-        'Aldo Leopold',
+    'c6f7e6ef-e620-50a8-afae-43ce8c5a3270' => [
+        'The thing I most hate about the Left is that they want to stop us laughing - to prescribe which jokes are OK and which are not OK to make in public and to draw artificial lines around certain subjects. I find all sorts of inappropriate things funny.',
+        'Milo Yiannopoulos',
     ],
-    [
-        'I travel around the world, experiencing every language, every religion... some places where there\'s just no reason to smile, because their lives are so difficult.',
-        'Lionel Richie',
+    'b7bb4350-0d5d-597c-83c1-0f0c4e0b9abb' => [
+        'One of the things that people don\'t realize is that that natural beauty, those recreational forests, they have an economic development impact for the state as well.',
+        'Ed Rendell',
     ],
-    [
-        'When you\'re not working is when you have to stay positive and remind yourself that you\'re talented.',
-        'Rutina Wesley',
+    '5ed2d978-eb75-544b-aa2e-f662aa7cdbe5' => [
+        'Diabetes is a disease that\'s had a deep impact on my family. My little brother has had type 1 diabetes since he was a baby and I have spent time learning about the disease and trying to bring attention to it so that one day soon we will reach a cure.',
+        'Izabel Goulart',
     ],
-    [
-        'I love to write about Nabokov and also to think about him. I love his attitude that he is incomparable, his lofty judgments and general scorn of other writers - not all of them, of course.',
-        'James Salter',
+    'a245c024-4db4-5592-a1d8-cee97b9b4ff2' => [
+        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
+        'Herb Caen',
     ],
-    [
-        'What I learned from architectural drafting is that everything has to have a plan to work. You just can\'t wing it. I can\'t get all the materials I need for a house and just start building. Whether it\'s a career, family, life - you have to plan it out.',
-        'Ice Cube',
+    'afde7769-1ba8-5d8c-a43b-9f4214f57f2a' => [
+        'As long as the attitude is to only show the sheet metal, then automobile advertising will continue to be wretched.',
+        'Jerry Della Femina',
     ],
-    [
-        'I saw \'Taxi Driver,\' and \'Taxi Driver\' kind of saved my life. The scene where Robert De Niro is looking at himself in the mirror saying, \'You talkin\' to me? You talkin\' to me? Who the hell else are you talkin\' to?\' That\'s the scene that changed my life by changing my attitude about acting.',
-        'Michael Biehn',
+    '03fbda36-6342-548b-a937-abdb8256f174' => [
+        'In separateness lies the world\'s great misery, in compassion lies the world\'s true strength.',
+        'Buddha',
     ],
-    [
-        'Never put a sock in a toaster.',
-        'Eddie Izzard',
+    '82f99f99-d7ce-504a-b7ed-07e9eb922e57' => [
+        'The more time you spend contemplating what you should have done... you lose valuable time planning what you can and will do.',
+        'Lil Wayne',
     ],
-    [
-        'The mystery is what prompted men to leave caves, to come out of the womb of nature.',
-        'Stephen Gardiner',
+    '056ca7ce-ff66-5caa-9c8d-b36eb320c1b2' => [
+        'When you pray for anyone you tend to modify your personal attitude toward him.',
+        'Norman Vincent Peale',
     ],
-    [
-        'I can pull off anything; I have the height and the attitude. The only thing I can\'t wear is a leotard, but I can wear anything else.',
-        'Theophilus London',
+    'ef9178d8-a7a0-5cff-b2e7-e5a794cb970d' => [
+        'From my earliest childhood, my attention was specially directed to the subject of acoustics, and specially to the subject of speech, and I was urged by my father to study everything relating to these subjects, as they would have an important bearing upon what was to be my professional work.',
+        'Alexander Graham Bell',
     ],
-    [
-        'A smile is a light in the window of your face to show your heart is at home.',
-        'Unknown',
+    '7067ccde-1d12-5c4f-a9fa-69a47e1d4e88' => [
+        'Every man\'s dream is to be able to sink into the arms of a woman without also falling into her hands.',
+        'Jerry Lewis',
     ],
-    [
-        'Work is accomplished by those employees who have not yet reached their level of incompetence.',
-        'Laurence J. Peter',
+    '7f6ed23c-d7d2-5a83-a7a8-3173358a214a' => [
+        'You can\'t build a reputation on what you are going to do.',
+        'Henry Ford',
     ],
-    [
-        'I like looking at the characters. Seeing them always brings up some voice or attitude. I am much more visual, and that works so much better than having someone tell me what the character is all about.',
-        'Frank Welker',
+    '76977e01-fb97-562f-b571-7514667842d8' => [
+        'It\'s not true that clothes look better on skinny girls; what counts is the attitude.',
+        'Sonia Rykiel',
     ],
-    [
-        'As a footballer, you always want to test yourself against the best.',
-        'David Beckham',
+    'f973a946-3bfb-5083-8ada-f4b38886fdd6' => [
+        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
+        'Jay Garner',
     ],
-    [
-        'There is nothing so stable as change.',
-        'Bob Dylan',
+    '2f779d82-5237-5ad5-b354-85fc6aca6088' => [
+        'No matter how you feel, Get up, dress up, show up and never give up.',
+        'Anonymous',
     ],
-    [
-        'The purpose of life is a life of purpose.',
-        'Paula Deen',
+    '8d498c65-9a54-5c42-8913-e88c520bb2ee' => [
+        'I read a funny story about how the Republicans freed the slaves. The Republicans are the ones who created slavery by law in the 1600\'s. Abraham Lincoln freed the slaves and he was not a Republican.',
+        'Marion Barry',
     ],
 ];

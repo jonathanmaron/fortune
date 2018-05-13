@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The human brain is a funny thing: it\'s very susceptible to tempo and melody. You put the right words to it, and it becomes very influential.',
-        'Ray Stevens',
+    '8abba206-cdc6-5718-933f-cb75104be8cd' => [
+        'A women\'s greatest asset is her beauty.',
+        'Alex Comfort',
     ],
-    [
-        'In terms of my marriage, you know, falling in love with my husband was by far the best thing that\'s ever happened to me.',
-        'Caroline Kennedy',
+    '4472cc21-fc40-5efe-ac05-430bed53e210' => [
+        'Airplanes may kill you, but they ain\'t likely to hurt you.',
+        'Satchel Paige',
     ],
-    [
-        'One study found that people who smile in childhood photographs are less likely to get a divorce.',
-        'Jenna McCarthy',
+    '5489defd-d404-57bb-98ce-074fa8d218da' => [
+        'With each new day in Africa, a gazelle wakes up knowing he must outrun the fastest lion or perish. At the same time, a lion stirs and stretches, knowing he must outrun the fastest gazelle or starve. It\'s no different for the human race. Whether you consider yourself a gazelle or a lion, you have to run faster than others to survive.',
+        'Mohammed bin Rashid Al Maktoum',
     ],
-    [
-        'Art, whatever form it takes, requires hard work, craftsmanship and creativity. As a writer, I know my grammar, cadence, the music of prose, and the art of the narrative.',
-        'F. Sionil Jose',
+    '2bbbb7b1-8365-5dc2-bc54-519907d4b2a0' => [
+        'When we recognise the virtues, the talent, the beauty of Mother Earth, something is born in us, some kind of connection, love is born.',
+        'Thich Nhat Hanh',
     ],
-    [
-        'I never laugh or smile when I am writing. When I come home for lunch after writing all morning, my wife says I look like I just came home from a funeral. This is not bragging. This is an illness.',
-        'Carl Hiaasen',
+    '3ca4c872-4c62-517d-96e4-5024bb8cd3eb' => [
+        'Collaboration is the best way to work. It\'s only way to work, really.',
+        'Antony Starr',
     ],
-    [
-        'To wake up to the sound of my son saying \'Mama, mama!\' It\'s the best sound ever.',
-        'Miranda Kerr',
+    'b40f54af-9b27-59d9-b7a2-de590e1df520' => [
+        'The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.',
+        'Eckhart Tolle',
     ],
-    [
-        'I\'m an actor. Since I was a teenager, I have had to play different characters, negotiating the cultural expectations of a Pakistani family, Brit-Asian rudeboy culture, and a scholarship to private school. The fluidity of my own personal identity on any given day was further compounded by the changing labels assigned to Asians in general.',
-        'Riz Ahmed',
+    'a3b742d7-c050-5106-8202-104774ce2233' => [
+        'Opportunities don\'t happen, you create them.',
+        'Chris Grosser',
     ],
-    [
-        'Every man\'s life is a fairy tale written by God\'s fingers.',
-        'Hans Christian Andersen',
+    'd0fd5f3c-384e-5268-bb85-6500b7e066ac' => [
+        'Dare, dream, dance, smile, and sing loudly! And have faith that love is an unstoppable force!',
+        'Suzanne Brockmann',
     ],
-    [
-        'What I like to do is try to make a difference with the work I do.',
-        'David Bowie',
+    'e0a7ccd7-eee9-57e9-88b3-bdd83c6ad414' => [
+        'I know no subject more elevating, more amazing, more ready to the poetical enthusiasm, the philosophical reflection, and the moral sentiment than the works of nature. Where can we meet such variety, such beauty, such magnificence?',
+        'James Thomson',
     ],
-    [
-        'I take care of my flowers and my cats. And enjoy food. And that\'s living.',
-        'Stephen Covey',
+    'e3f0a728-654e-5d26-a839-939743a7dfcc' => [
+        'A word to the wise is infuriating.',
+        'Hunter S. Thompson',
     ],
-    [
-        'Pay attention to the beauty surrounding you.',
-        'Anne Lamott',
+    '08e5b276-67c6-527b-b472-0fbd7125d149' => [
+        'Be willing to step outside your comfort zone once in a while; take the risks in life that seem worth taking. The ride might not be as predictable if you\'d just planted your feet and stayed put, but it will be a heck of a lot more interesting.',
+        'Woody Hayes',
     ],
-    [
-        'You need three things to win: discipline, hard work and, before everything maybe, commitment. No one will make it without those three. Sport teaches you that.',
-        'Haile Gebrselassie',
+    'f41c141c-6e18-5a54-93be-482962f00e00' => [
+        'In order to carry a positive action we must develop here a positive vision.',
+        'Dalai Lama',
     ],
-    [
-        'Whatever the mind of man can conceive and believe, it can achieve.',
-        'Napoleon Hill',
+    '2f753d2c-db99-58ea-88e1-fd276f7c0af5' => [
+        'The main thing is to be moved, to love, to hope, to tremble, to live.',
+        'Auguste Rodin',
     ],
-    [
-        'Do something wonderful, people may imitate it.',
-        'Albert Schweitzer',
+    '915c5184-cd02-58e4-82b1-cf67b8180f66' => [
+        'If one way be better than another, that you may be sure is nature\'s way.',
+        'Aristotle',
     ],
-    [
-        'Have regular hours for work and play; make each day both useful and pleasant, and prove that you understand the worth of time by employing it well. Then youth will be delightful, old age will bring few regrets, and life will become a beautiful success.',
-        'Louisa May Alcott',
+    '76253a47-37db-5b64-8063-b9ea8392839c' => [
+        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
+        'Peter Diamandis',
     ],
-    [
-        'Hopefully, when people see \'Senna\', they will understand why this inspirational story needed to be told, why it had to be made as a movie for the big screen, and why it is a film for everyone.',
-        'Asif Kapadia',
+    '1695f108-73e3-5e39-9cc5-25e68fa1e443' => [
+        'But I am convinced that those Jews who stand aside today with a malicious smile and with their hands in their trousers\' pockets will also want to dwell in our beautiful home.',
+        'Theodor Herzl',
     ],
-    [
-        'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
-        'Albert Einstein',
+    '7a1e247e-1564-5697-ae3e-284632dc8d38' => [
+        'The Internet has transformed many parts of our daily lives, touching everything from how we find information to how we go shopping, get directions, and even stay in touch with friends and family.',
+        'Dean Ornish',
     ],
-    [
-        'I play guys who never smile, and I never stop smiling.',
-        'Michael Joseph Kelly',
+    'adae97a2-7638-5699-9ff6-d00f16ed9c43' => [
+        'My mother was a very, very funny, outrageous, outspoken person, and she never edited me. Her whole thing in my life was if anybody had a problem with me, tell them to go to hell.',
+        'Tig Notaro',
     ],
-    [
-        'Married couples who work together to build and maintain a business assume broad responsibilities. Not only is their work important to our local and national economies, but their success is central to the well-being of their families.',
-        'Melissa Bean',
+    '95191c01-95c2-5503-9471-87b6d514361f' => [
+        'I\'ve always had a very positive relationship with the municipal labor unions - a respectful relationship.',
+        'Bill de Blasio',
     ],
-    [
-        'I think the word \'pregnant\' is funny.',
-        'Tracy Morgan',
+    '0187bd11-9764-529e-95fd-522db56d6e9f' => [
+        'Wise men talk because they have something to say; fools, because they have to say something.',
+        'Plato',
     ],
-    [
-        'I wrote \'(\'Til) I Kissed You\' about a girl I met in Australia. Her name was Lilian, and she was very, very inspirational. I was married, but... I wrote the song about her on the way back home.',
-        'Don Everly',
+    '457edbbf-e8d4-5716-99f9-c1bf7c312391' => [
+        'Peace is the beauty of life. It is sunshine. It is the smile of a child, the love of a mother, the joy of a father, the togetherness of a family. It is the advancement of man, the victory of a just cause, the triumph of truth.',
+        'Robert H. Schuller',
     ],
-    [
-        'It\'s not too good to have this attitude in F1. It could be a disadvantage.',
-        'Alain Prost',
+    'be06e6d7-b9e9-59f0-9c65-775f3a110868' => [
+        'Everyone thinks of changing the world, but no one thinks of changing himself.',
+        'Leo Tolstoy',
     ],
-    [
-        'I love holidays. It\'s such a wonderful time for the whole family to be together and not have to worry about schedules and that kind of thing.',
-        'Toni Collette',
+    'b802ff02-f386-5f40-bcfc-4a731a3836ff' => [
+        'Happiness is a butterfly, which when pursued, is always beyond your grasp, but which, if you will sit down quietly, may alight upon you.',
+        'Nathaniel Hawthorne',
     ],
-    [
-        'New beginnings are often disguised as painful endings.',
-        'Lao Tzu',
+    'd2062aa0-53d1-58f7-b934-bd755bda0a28' => [
+        'Thing is, I went to a born-again Christian high school, was brought up in a traditional Mormon family where these ideas about parenting are of structure and sacrifice. To think outside of that idea of family and parenting that I\'ve grown up with is tough but also very freeing.',
+        'Paul Walker',
     ],
-    [
-        'My very best friend died in a car accident when I was 16 years old. That was the hardest blow emotionally that I have ever had to endure. Suddenly, you realize tomorrow might not come. Now I live by the motto, \'Today is what I have.\'',
-        'Amber Heard',
+    'aaf0dfd1-f26f-5fa1-b2e4-216679b4a3d5' => [
+        'In order to win, you must expect to win.',
+        'Richard Bach',
     ],
 ];

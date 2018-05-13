@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The townspeople outside the reservations had a very superior attitude toward Indians, which was kind of funny, because they weren\'t very wealthy; they were on the fringes of society themselves.',
-        'James Welch',
+    'db7fc59b-dd94-5cde-ac4d-d9864f560f5e' => [
+        'Begin, be bold, and venture to be wise.',
+        'Horace',
     ],
-    [
-        'Dada was an extreme protest against the physical side of painting. It was a metaphysical attitude.',
-        'Marcel Duchamp',
+    '52cc8f76-de47-5a4a-9fe5-ff133ee1cf06' => [
+        'Feeling is the consciousness of the resulting conditions - of success, failure, equilibrium, compromise or balance, in this continuous rivalry of ideas.',
+        'James Mark Baldwin',
     ],
-    [
-        'True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well.',
-        'Bill Owens',
+    '19446dbc-48c7-57f6-98a1-351c419aa1a0' => [
+        'I kind of resent this attitude of men that we somehow must always look good.',
+        'Sharon Gless',
     ],
-    [
-        'It is such a luxury to open a new book that\'s highly recommended by friends - either an inspirational yet humorously self-deprecating memoir, or a page-turning piece of fiction.',
-        'Kelli O\'Hara',
+    'f5e5d833-e428-51c5-a3d9-668797458844' => [
+        'What unites Oklahomans today is what has always united us: Our unshakable faith. Our love of family and compassion for others. The unlimited promise of a hopeful future.',
+        'Brad Henry',
     ],
-    [
-        'Before anything else, preparation is the key to success.',
-        'Alexander Graham Bell',
+    'e727cb02-0caa-5c76-8992-c442a74ebaac' => [
+        'Nature chooses who will be transgender; individuals don\'t choose this.',
+        'Mercedes Ruehl',
     ],
-    [
-        'The royal family are protected from public accountability by law.',
-        'Heather Brooke',
-    ],
-    [
-        'Patience and time do more than strength or passion.',
-        'Jean de La Fontaine',
-    ],
-    [
-        'Sometimes I feel an obligation to be accessible as a personality, but for me the driving force since the beginning has always been good work, taking risks, trying new things. If the door opens, go through it. Always go forwards.',
-        'David Soul',
-    ],
-    [
-        'Traveling is my form of self-education. Every stream I fish now is not as good as it used to be. Traveling is my form of self-education. Every stream I fish now is not as good as it used to be. If you keep your eyes open as you travel around, you realize we are destroying this planet.',
-        'Yvon Chouinard',
-    ],
-    [
-        'I love a good laugh as well, I think that\'s so important in life, which is probably why I\'ve dabbled in comedy writing as well as horror. I think if you can make someone laugh or smile it\'s the most special thing in the world.',
-        'Paul Kane',
-    ],
-    [
-        'I know what Germans are. They are a funny people. They are always choosing someone to lead them in a direction which they do not want to go.',
-        'Gertrude Stein',
-    ],
-    [
-        'A desire to resist oppression is implanted in the nature of man.',
-        'Tacitus',
-    ],
-    [
-        'Opportunities to find deeper powers within ourselves come when life seems most challenging.',
+    '0d8331d9-e87a-5fa5-9f4a-c5adbbee3a1b' => [
+        'He who conquers others is strong; He who conquers himself is mighty.',
         'Lao Tzu',
     ],
-    [
-        'Happiness often sneaks in through a door you didn\'t know you left open.',
-        'John Barrymore',
+    'f5ad3eaf-460d-56be-8970-12008197c067' => [
+        'Every man is a volume if you know how to read him.',
+        'Channing',
     ],
-    [
-        'It is impossible to predict the time and progress of revolution. It is governed by its own more or less mysterious laws.',
-        'Vladimir Lenin',
+    '133ee3a5-5e75-5b4d-8f6b-f7b83d4db74c' => [
+        'I needed somebody to love me, and the people that I chose were my coaches. I would sacrifice my body to be successful for my coaches because I wanted them to love me, to respect me, to have positive feelings about me.',
+        'Steve Largent',
     ],
-    [
-        'As long as I am still interested and curious, I enjoy getting up in the morning, but I can\'t say I have a happy smile on my face 24/7.',
-        'Harriet Walter',
+    '382b3662-1057-588e-95a8-581c3191841c' => [
+        'Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning.',
+        'Denis Waitley',
     ],
-    [
-        'Success without honor is an unseasoned dish; it will satisfy your hunger, but it won\'t taste good.',
-        'Joe Paterno',
+    'b4c29e70-abbf-5db6-aeac-323de103e100' => [
+        'What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.',
+        'Sai Baba',
     ],
-    [
-        'At the end of the day, life is about being happy being who you are, and I feel like we are so blessed to have the support system and the best family to really just support each other no matter what we\'re going through.',
-        'Benjamin Franklin',
+    '6fff25cb-749e-54bf-a829-cb8af59899ab' => [
+        'Skills are cheap. Passion is priceless.',
+        'Gary Vaynerchuk',
     ],
-    [
-        'Quite honestly, if we do manage to destroy the planet with our devil-may-care attitude to natural resources, I\'d suggest we leave, as a dossier in our defence, the collected letters to agony aunts and uncles down the generations. It would certainly prove that we weren\'t all bad!',
-        'Mariella Frostrup',
+    'ee2c0700-1cca-5afd-8a7d-39c6f61d3ce3' => [
+        'No American should live in fear of going to work or sending their kids to school. Let\'s end the fear. Let\'s enforce existing gun laws.',
+        'Charles B. Rangel',
     ],
-    [
-        'Whenever I\'ve had success, I never learn from it. Success usually breeds a degree of hubris. When you fail, that\'s when you learn.',
-        'Moby',
+    'cd4bd405-d7bd-50d0-8739-9ed3efbe5caf' => [
+        'If you can do what you do best and be happy, you\'re further along in life than most people.',
+        'Wendell Pierce',
     ],
-    [
-        'Be the chief but never the lord.',
-        'Lao Tzu',
+    'c6d42123-2bfe-52ce-80b6-1dc4d1533c90' => [
+        'The happiness of the bee and the dolphin is to exist. For man it is to know that and to wonder at it.',
+        'Jacques Yves Cousteau',
     ],
-    [
-        'We Generate Fears While We Sit. We Overcome Them By Action.',
-        'Dr. Henry Link',
+    '0bd16c54-38f9-56f9-a6a9-5902be99780b' => [
+        'Pictorial is something that I am not used to. You have to pose, smile, bend your arm, straighten up, look to the left.',
+        'Benigno Aquino III',
     ],
-    [
-        'I do not need a trophy to tell myself that I am the best.',
-        'Zlatan Ibrahimovic',
+    '13d5f3d4-a8e3-515c-9ae2-99920f35097e' => [
+        'Modeling is an incredible job for a girl if she approaches it with her head on her shoulders. You travel, you speak to people, and it opens your mind to different things.',
+        'Anja Rubik',
     ],
-    [
-        'The two things I was positive about in life were that I was going to be a teacher at a boarding school or an operative with the CIA posted abroad. I could write a book about all the things I was sure about.',
-        'Tucker Carlson',
+    '154e9528-e193-5d9d-a632-77461ecbfb01' => [
+        'Power, that\'s one thing, but love of family and of siblings is more important, is more powerful than any other power - at least earthly power, at least earthly power.',
+        'Sander Levin',
     ],
-    [
-        'Right after \'Raymond\' I had a world-is-my-oyster attitude, but I found out I don\'t like oysters. I had this existential emptiness. \'What is my purpose? Who am I?\' I had a big identity crisis.',
-        'Ray Romano',
+    '07a420dd-bc89-5a59-969c-9a6ce0d0d71e' => [
+        'The poem is not, as someone put it, deflective of entry. But the real question is, \'What happens to the reader once he or she gets inside the poem?\' That\'s the real question for me, is getting the reader into the poem and then taking the reader somewhere, because I think of poetry as a kind of form of travel writing.',
+        'Billy Collins',
+    ],
+    'b8ec8f52-284e-5f23-8bb5-af49adc3a15e' => [
+        'When life gives you Monday, dip it in glitter and sparkle all day.',
+        'Friedrich Nietzsche',
+    ],
+    'd1a3a5bb-cbd1-5a8f-9135-7121e2eb0d12' => [
+        'Don\'t worry about the world coming to an end today. It is already tomorrow in Australia.',
+        'Charles M. Schulz',
+    ],
+    'a482aba4-bcc9-5c18-be95-52954ff68fa0' => [
+        'You can\'t have a happy family if you don\'t have a happy marriage.',
+        'Jeremy Sisto',
+    ],
+    '2b393489-216e-50d4-a7ea-ad4317d1fe7c' => [
+        'I have an older sister named Haley and she wanted to be an actress. So I wanted to be an actress. It\'s really funny the way that some people don\'t give kids enough credit for like really being driven, and really wanting to do things so badly.',
+        'Hilary Duff',
+    ],
+    'b57a90e7-a247-57a3-84a1-fb72b878a1f2' => [
+        'It is not the body\'s posture, but the heart\'s attitude that counts when we pray.',
+        'Billy Graham',
+    ],
+    'e631a708-b1f8-5868-8249-e5f7f91c89f0' => [
+        'The world is fortunate - for the time being, at least - that it has an American president in Obama who is prepared to take a conciliatory and concessive attitude towards America\'s decline and that it has a Chinese leadership which has been extremely cautious about expressing an opinion, let alone flexing its muscles.',
+        'Martin Jacques',
+    ],
+    '9a2d2f19-4938-522a-ae48-4880429e8e0b' => [
+        'I am a family man, and I have to find my priorities. During the season, it is to race. During the off-season, it is to spend time with my family.',
+        'Jens Voigt',
     ],
 ];

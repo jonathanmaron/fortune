@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'There is no advertisement as powerful as a positive reputation traveling fast.',
-        'Brian Koslow',
+    '5ef9083d-4485-5e34-a166-51b2893ff06d' => [
+        'You define a good flight by negatives: you didn\'t get hijacked, you didn\'t crash, you didn\'t throw up, you weren\'t late, you weren\'t nauseated by the food. So you are grateful.',
+        'Paul Theroux',
     ],
-    [
-        'I love flying; I love aircraft, and you could say I\'ve had a love affair with flight since I was a child. I travel a huge amount. I use airports, and as a pilot, I\'ve flown in and out of airports thousands of times, so really, I have a fairly broad perspective.',
-        'Norman Foster',
+    'bbeaf945-af81-56c2-b519-0814a32c9eaa' => [
+        'Part of me is drawn to the nature of sadness because I think life is sad, and sadness is not something that should be avoided or denied. It\'s a fact of life, like contradictions are.',
+        'Robert Redford',
     ],
-    [
-        'Lives of great men all remind us, we can make our lives sublime, and, departing, leave behind us, footprints on the sands of time.',
-        'Henry Wadsworth Longfellow',
+    'b3d4156a-a197-5ca9-87bc-02e783c4825d' => [
+        'People talk about bullying, but you can be your own bully in some ways. You can be the person who is standing in the way of your success, and that was the case for me.',
+        'Katy Perry',
     ],
-    [
-        'Young man, the secret of my success is that at early age I discovered that I was not God.',
-        'Oliver Wendell Holmes, Jr.',
+    '2004386f-a92e-5294-819e-c8d96ba9466f' => [
+        'One secret of success in life is for a man to be ready for his opportunity when it comes.',
+        'Benjamin Disraeli',
     ],
-    [
-        'I find, in being black, a thing of beauty: a joy; a strength; a secret cup of gladness.',
-        'Ossie Davis',
+    'df4cacdd-84e3-59e3-95fe-ce8c9c31f49f' => [
+        'All you need in this life is ignorance and confidence, and then success is sure',
+        'Mark Twain',
     ],
-    [
-        'Time travel offends our sense of cause and effect - but maybe the universe doesn\'t insist on cause and effect.',
-        'Edward M. Lerner',
+    '4616b17e-40f4-583e-a8f4-fdc33fbf83c7' => [
+        'But I have found that in the simple act of living with hope, and in the daily effort to have a positive impact in the world, the days I do have are made all the more meaningful and precious. And for that I am grateful.',
+        'Elizabeth Edwards',
     ],
-    [
-        'We are to seek wisdom and understanding only in the length of days.',
-        'Marcus Aurelius',
+    '8b6455f8-382b-5406-92ed-d901cb8bf623' => [
+        'Old age is like everything else. To make a success of it, you\'ve got to start young.',
+        'Theodore Roosevelt',
     ],
-    [
-        'Don\'t let what you can\'t do stop you from doing what you can do.',
-        'Unknown',
+    'e64ffebb-fb7a-515e-9f46-f517b21a54de' => [
+        'It\'s funny: in the middle of making \'The Muse,\' I was offered, at the time, the first \'Ice Age,\' the part that Ray Romano took: I was offered the elephant. And I couldn\'t even stop to breathe, so I didn\'t do it. They\'ve made, like, six of them. And in the animation business, for a voice actor, that\'s what you want. You want six, you know?',
+        'Albert Brooks',
     ],
-    [
-        'Indonesia is a very huge country, geographically and in number of people, and there is still a lot of growth in the income level; It is very easy to assume there is a lot of demand for travel.',
-        'Edwin Soeryadjaya',
+    'd38cef72-2286-5aeb-85bf-733b0eb42fcf' => [
+        'That some achieve great success, is proof to all that others can achieve it as well.',
+        'Abraham Lincoln',
     ],
-    [
-        'Either you run the day or the day runs you.',
-        'Jim Rohn',
+    'db45b11b-da5f-5ecd-859b-2e2ea0cf0527' => [
+        'One of the best aspects of health care reform is it starts to emphasize prevention.',
+        'Anne Wojcicki',
     ],
-    [
-        'That attitude that fighting is probably not fair, but you have to defend yourself anyway and damage the enemy, has been profoundly consequential as far as my political activism goes.',
-        'June Jordan',
+    '69a3490e-62fc-5aed-b35c-b51d60dc5fd2' => [
+        'When I was drafted to Smackdown, I was like, \'Hell yes, I\'m going to captain this ship.\' Then I was like, \'Oh, wait, you\'re losing your best friend and travel partner and the person you enjoy having matches with the absolute most.\' That\'s Charlotte. We travel together, and she is my best friend.',
+        'Becky Lynch',
     ],
-    [
-        'Anybody who was in the military or a military family has a certain sensitivity to the separation. Everyone knows military wives have the hardest jobs. I was born into one. When I think back to those days, I didn\'t appreciate it then.',
-        'Lester Holt',
+    'b0ec1fa8-d278-581c-bdb7-2c8ced9b2c93' => [
+        'Viral videos aren\'t just about being funny. They\'re about identity creation.',
+        'Ricky Van Veen',
     ],
-    [
-        'The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.',
-        'Aldous Huxley',
+    '94922dc0-d80a-55d4-95ca-c28bda214d6b' => [
+        'Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!',
+        'Charlotte Gilman',
     ],
-    [
-        'Life is so constructed that an event does not, cannot, will not, match the expectation.',
-        'Charlotte Bronte',
+    'f39ab1ca-03c2-5f9c-a289-49d4a5702105' => [
+        'Beauty is the bait which with delight allures man to enlarge his kind.',
+        'Socrates',
     ],
-    [
-        'There are things that I can tell my friends that I just can\'t tell my family, just as far as how I\'m feeling about things. My friends know me the best in a certain way. I just think old friends are really, really important.',
-        'Jonathan Levine',
+    'df96e5d6-d6fe-5e7e-8419-53693d03ea47' => [
+        'I have a very big family, and that is my number one thing, and we go away for a month to see my cousins in Italy every year, but I need to work.',
+        'Richard Rogers',
     ],
-    [
-        'The only way to get love is to be lovable. It\'s very irritating if you have a lot of money. You\'d like to think you could write a check: \'I\'ll buy a million dollars\' worth of love.\' But it doesn\'t work that way. The more you give love away, the more you get.',
-        'Warren Buffett',
+    'c39cb6d2-b2d1-5b15-93d6-8a8a47aad636' => [
+        'The terrifying and edible beauty of Art Nouveau architecture.',
+        'Salvador Dali',
     ],
-    [
-        'The family farm is the foundation for who we are as a Commonwealth. And for over a century, the family farm in Kentucky has centered around one crop: tobacco.',
-        'Jim Bunning',
+    'e8d66bed-75ec-52e4-a489-df44e09a0301' => [
+        'The things I was allowed to experience, the people I was able to call friends, teammates, mentors, coaches and opponents, the travel, all of it, are far more than anything I ever thought possible in my lifetime.',
+        'Curt Schilling',
     ],
-    [
-        'A smile is like an instant facelift and an instant mood lift.',
-        'Christie Brinkley',
+    'f8c3ab1c-c230-58b6-a37d-846b9b75383b' => [
+        'Everybody has their demons that they face, and I went through a time when I thought it was impossible to love myself.',
+        'Lindsey Stirling',
     ],
-    [
-        'Love and compassion open our own inner life, reducing stress, distrust and loneliness.',
-        'Dalai Lama',
+    '22be6d28-c4dd-530d-8006-d82b66daf0e2' => [
+        'You\'re blessed if you have the strength to work.',
+        'Mahalia Jackson',
     ],
-    [
-        'Success is ... knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others.',
-        'John C. Maxwell',
+    '97b1646a-db24-5622-930b-efe50e4228e1' => [
+        'Each one of us has our own evolution of life, and each one of us goes through different tests which are unique and challenging. But certain things are common. And we do learn things from each other\'s experience. On a spiritual journey, we all have the same destination.',
+        'Thomas Fuller',
     ],
-    [
-        'A key to achieving success is to assemble a strong and stable management team.',
-        'Vivek Wadhwa',
+    'bd109b3a-eec9-5622-bc04-5caf064fd5f6' => [
+        'I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating. Most people attach failure to something not working out or how people perceive you. This way, it is about answering to yourself.',
+        'Sara Blakely',
     ],
-    [
-        'My reputation grows with every failure.',
-        'George Shaw',
+    'cc6714b2-f3cd-5c35-9ccf-d3efd18eaadb' => [
+        'You have to come in to major championships, and your attitude has to be on point.',
+        'Jason Day',
     ],
-    [
-        'No act of kindness, no matter how small, is ever wasted.',
-        'Aesop',
+    '5d837af6-e29f-55bd-8735-254d3a02f8c4' => [
+        'It seems like everybody\'s perception of me is very bipolar. To one group, it\'s overpaid, overrated; to another group, it\'s underpaid, underrated, underdog. It\'s funny to me because there\'s no real balance.',
+        'Jeremy Lin',
     ],
-    [
-        'The distance between insanity and genius is measured only by success.',
-        'Bruce Feirstein',
+    '912e5d3b-781e-562e-a5c7-34f45e19d623' => [
+        'The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.',
+        'Eric Berne',
     ],
-    [
-        'Communism is like one big phone company.',
-        'Lenny Bruce',
+    'a5d47d2f-4b25-5a54-af36-a06d44cf8fb3' => [
+        'My height doesn\'t define my skill set. To be a great quarterback, you have to have great leadership, great attention to detail and a relentless competitive nature - and I try to bring that on a daily basis.',
+        'Russell Wilson',
     ],
 ];

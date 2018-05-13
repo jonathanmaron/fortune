@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Why don\'t you get out of that wet coat and into a dry martini?',
-        'Robert Benchley',
+    '7c1ca608-88ac-5d5c-b752-5157217262a0' => [
+        'Success is about enjoying what you have and where you are, while pursuing achievable goals.',
+        'Bo Bennett',
     ],
-    [
-        'When it is obvious that the goals cannot be reached, don\'t adjust the goals, adjust the action steps.',
-        'Confucius',
+    '0e5203a2-c8da-5838-9ce6-219b03c8607b' => [
+        'External nature is only internal nature writ large.',
+        'Swami Vivekananda',
     ],
-    [
-        'Liberalism is a really old British tradition and it has a completely different attitude towards the individual and the relationship between the individual and the state than the collectivist response of Labour, and particularly Old Labour, does.',
-        'Nick Clegg',
+    '5ce4a72a-5eaf-582c-b655-d579e3573abe' => [
+        'Every video I\'ve made has an inspirational message behind it. Since day one, I thought, \'Okay, I want my audience to be, like, Disney members.\' So if that\'s the case, I have to keep everything rated G.',
+        'Michelle Phan',
     ],
-    [
-        'Traveling is the ruin of all happiness! There\'s no looking at a building after seeing Italy.',
-        'Fanny Burney',
+    '3c370fd0-5f7f-5c72-b46c-21114720ff6b' => [
+        'I can remember that on the shelves at home, there were these books by Thomas Wolfe. \'Look Homeward Angel\' and \'Of Time and the River.\' \'Of Time and the River\' had just come out when I was aware of his name. My parents had a hard time convincing me that he was no kin whatsoever. My attitude was, \'Well, what\'s he doing on the shelf, then?\'',
+        'Tom Wolfe',
     ],
-    [
-        'The fact that I stay anonymous means I can exhibit wherever I want. No one knows my name, so it\'s easy for me to travel.',
-        'JR',
+    'c3097eaa-f83c-50f3-ad12-a17ba2d2b2b1' => [
+        'To delight in war is a merit in the soldier, a dangerous quality in the captain, and a positive crime in the statesman.',
+        'George Santayana',
     ],
-    [
-        'If patience is worth anything, it must endure to the end of time. And a living faith will last in the midst of the blackest storm.',
-        'Mahatma Gandhi',
+    'f0bf1818-cccd-5543-bfd4-78fbd9fab8bf' => [
+        'There are two ways of spreading light: to be the candle or the mirror that reflects it.',
+        'Edith Wharton',
     ],
-    [
-        'As a kid, you obviously dream of being a professional footballer. I would watch players like Ronaldo of Brazil and pretend to be him in the playground. But I don\'t think about trying to become one of the best in the world or anything like that. I just play football.',
-        'Gareth Bale',
+    'e623ecef-b023-558b-a1cd-a328389613c7' => [
+        'I travel so much and am always living out of a suitcase, so my favorite saying is \'Wherever you go, there you are\'. I love it because it\'s reassuring to me that you have to live in the moment wherever you happen to be.',
+        'Jake Shears',
     ],
-    [
-        'We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.',
-        'Jim Rohn',
+    '6744d3e8-e361-53f0-b29b-e7cf4a420d66' => [
+        'I know of no single formula for success. But over the years I have observed that some attributes of leadership are universal and are often about finding ways of encouraging people to combine their efforts, their talents, their insights, their enthusiasm and their inspiration to work together.',
+        'Queen Elizabeth II',
     ],
-    [
-        'The test of the artist does not lie in the will with which he goes to work, but in the excellence of the work he produces.',
-        'Thomas Aquinas',
+    '9ab67f19-20ab-5c99-9c5a-88028910aa6b' => [
+        'Did I offer peace today? Did I bring a smile to someone\'s face? Did I say words of healing? Did I let go of my anger and resentment? Did I forgive? Did I love? These are the real questions. I must trust that the little bit of love that I sow now will bear many fruits, here in this world and the life to come.',
+        'Henri Nouwen',
     ],
-    [
-        'I\'ve etched out who I am through myriad haircut attempts, outfit attempts, beauty attempts, diet attempts. It\'s been an evolution.',
-        'Jamie Lee Curtis',
+    'af23f2f9-9e58-5627-8fc7-80007d7fdb51' => [
+        'He conquers who endures.',
+        'Persius',
     ],
-    [
-        'If you have enthusiasm, you have a very dynamic, effective companion to travel with you on the road to Somewhere.',
-        'Loretta Young',
+    '01cb80ca-5337-5fd6-a250-505ea5f0966e' => [
+        'The Lord gets his best soldiers out of the highlands of affliction.',
+        'Charles Spurgeon',
     ],
-    [
-        'You have to defend your honor. And your family.',
-        'Suzanne Vega',
+    '57727d28-25cd-5221-aae7-b5d0b06c549a' => [
+        'If you can\'t change your fate, change your attitude.',
+        'Charles Revson',
     ],
-    [
-        'Like a morning dream, life becomes more and more bright the longer we live, and the reason of everything appears more clear. What has puzzled us before seems less mysterious, and the crooked paths look straighter as we approach the end.',
-        'Edmund Burke',
+    'ca2f62bd-a968-5733-b96b-c1e093a27605' => [
+        'I believe that the only courage anybody ever needs is the courage to follow your own dreams.',
+        'Oprah Winfrey',
     ],
-    [
-        'Find a good teacher that will keep the game fun. Work hard and don\'t be afraid to have success or disappointment. That is what golf is all about.',
-        'Paula Creamer',
+    'f457abd0-367e-56c8-b28b-e06cf242f100' => [
+        'Life is 10 percent what you make it, and 90 percent how you take it.',
+        'Kourtney Kardashian',
     ],
-    [
-        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
-        'John de Mol, Jr.',
+    '1355ef92-db9f-581b-886b-1a86442d7491' => [
+        'Time takes the ugliness and horror out of death and turns it into beauty.',
+        'Dodie Smith',
     ],
-    [
-        'What I found in Silicon Valley is an industry that\'s sort of been kept a very far remove from Washington and had an attitude of \'Just let us do our thing and make the miracles that people love around the world and leave us alone.\'',
-        'George Packer',
+    'a7db0a9a-e370-5057-8b46-20dab3d7dcef' => [
+        'I intend to travel to Okinawa and to visit with Okinawa officials and the citizens of Okinawa at an early date. I will send my best analysis of that situation, including the local attitudes, back to Washington, to the government there.',
+        'Howard Baker',
     ],
-    [
-        'Give yourself a gift of five minutes of contemplation in awe of everything you see around you. Go outside and turn your attention to the many miracles around you. This five-minute-a-day regimen of appreciation and gratitude will help you to focus your life in awe.',
-        'Eminem',
+    'b28efb96-46d5-5bbf-95a4-519cc549465c' => [
+        'To send light into the darkness of men\'s hearts - such is the duty of the artist.',
+        'Schumann',
     ],
-    [
-        'No great thing is created suddenly.',
-        'Epictetus',
+    '87b0d1c0-3c1a-5b46-af9d-f9244cf31845' => [
+        'I look up to a strong woman; maybe that\'s why I fell for Gaga. She works incredibly hard and is very strong and inspirational like Mom, with a great work ethic.',
+        'Taylor Kinney',
     ],
-    [
-        'The best preparation for good work tomorrow is to do good work today.',
-        'Elbert Hubbard',
+    'a5169b59-837a-5ee3-b640-c0dd832a2090' => [
+        'Taught from infancy that beauty is woman\'s sceptre, the mind shapes itself to the body, and roaming round its gilt cage, only seeks to adorn its prison.',
+        'Mary Wollstonecraft',
     ],
-    [
-        'Just because a situation is grim doesn\'t mean you don\'t have every right to smile.',
-        'Rashida Jones',
+    '71971e33-d5ae-51a7-9d13-46e776737399' => [
+        'The attitude and identity that we want to play with doesn\'t change.',
+        'Dan Quinn',
     ],
-    [
-        'Giving back is the right thing to do, whether it\'s donating clothing or even just a smile to someone who needs it.',
-        'Becky G',
+    'a55ebc93-860d-5f19-8f94-adfb5fab858c' => [
+        'You will also allow me to thank the Academy for inviting me to lecture in Stockholm, for its hospitality, and for the opportunity afforded me for admiring the charm of your people and the beauty of your country.',
+        'Guglielmo Marconi',
     ],
-    [
-        'Life is measured in love and positive contributions and moments of grace.',
-        'Carly Fiorina',
+    '659d2d68-323e-5751-aed1-dfa45bccddb0' => [
+        'Personally, I can\'t see the appeal in trekking down to D.C. for a networking extravaganza, even if it is built around a special moment in American history. While I find the election of Barack Obama inspirational, I don\'t have a desire to memorialize it with overly effusive celebration.',
+        'Jamie Johnson',
     ],
-    [
-        'A careful inspection showed them that, even if they succeeded in righting it by themselves, the cart would travel no longer. The axles were in a hopeless state, and the missing wheel was shattered into pieces.',
-        'Kenneth Grahame',
+    '133607fb-3784-586e-b360-0dfb1d3380d2' => [
+        'We sit in a room for months trying to think of funny things.',
+        'David Walliams',
     ],
-    [
-        'My attitude towards drawing is not necessarily about drawing. It\'s about making the best kind of image I can make, it\'s about talking as clearly as I can.',
-        'Jim Dine',
+    '993df6fe-1dd2-5d84-8610-c0a78aa8ed23' => [
+        'Consider a tree for a moment. As beautiful as trees are to look at, we don\'t see what goes on underground - as they grow roots. Trees must develop deep roots in order to grow strong and produce their beauty. But we don\'t see the roots. We just see and enjoy the beauty. In much the same way, what goes on inside of us is like the roots of a tree.',
+        'Joyce Meyer',
     ],
-    [
-        'The older you get, the better you have to look, the higher you have to kick, the harder you have to work.',
-        'Salman Khan',
+    '1a046c85-f350-55af-961e-f6432189624f' => [
+        'I don\'t think anyone has a normal family.',
+        'Edward Furlong',
     ],
 ];

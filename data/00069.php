@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'My life is every moment of my life. It is not a culmination of the past.',
-        'Isaac Asimov',
+    '75af95c8-ea4a-5912-b8dd-1ffd43b3a625' => [
+        'Wanting a more positive environment isn\'t enough. You need to do something, and it doesn\'t require a great deal of effort or some huge change in the way you approach things at work.',
+        'Tom Rath',
     ],
-    [
-        'Perpetual optimism is a force multiplier.',
-        'Colin Powell',
+    '76cd9ee8-c1bc-5b1b-98f9-eb22c729cd1a' => [
+        'There\'s time enough, but none to spare.',
+        'Charles W. Chesnutt',
     ],
-    [
-        'I wish the Peace Corps and its volunteers continued success and perseverance. We are grateful for their contributions to society and dedication to providing assistance where it is needed. May the Peace Corps continue its legacy of service, both at home and abroad.',
-        'Kenny Marchant',
+    'abb4123f-eab6-51b9-96bb-20c796a338fc' => [
+        'Success is dangerous. One begins to copy oneself, and to copy oneself is more dangerous than to copy others. It leads to sterility.',
+        'Pablo Picasso',
     ],
-    [
-        'As long as you have discipline, you can be a success. Discipline is what makes you do everything you need to do.',
-        'Anthony Joshua',
+    '70971eca-b439-55ff-8466-f6e7da951728' => [
+        'However difficult life may seem, there is always something you can do and succeed at.',
+        'Stephen Hawking',
     ],
-    [
-        'One of my primary objects is to form the tools so the tools themselves shall fashion the work and give to every part its just proportion.',
-        'Eli Whitney',
+    'fa7ebecc-cdd8-57ba-97da-7b37d46fab79' => [
+        'Life does not cease to be funny when people die any more than it ceases to be serious when people laugh.',
+        'Bret Michaels',
     ],
-    [
-        'My appearances are almost theatrical performances. I bring items for the children to see, such as photographs and actual piece of meteorite, a family quilt, sometimes spectacles, sometimes clothing, so that they can understand what I write about is family stories based in fact.',
-        'Patricia Polacco',
+    '78f68a7f-7160-572c-b900-014e9dd3d181' => [
+        'I grew up in a very strong, nuclear family. My father was a sportsman. He represented South Africa in a couple of sports, so he was a very positive person and someone who encouraged you to be your best and give your best with everything that you do.',
+        'Gail Kelly',
     ],
-    [
-        'Other people\'s success spurs me on to do well and gives me motivation.',
-        'Nicholas Hoult',
+    'ac7f5aa6-7b31-5fdc-95f9-61956368244c' => [
+        'The best thing that can happen in a relationship is when you are the same person you were before the relationship started. You are not hiding anything, and you still have a life of your own. The other best thing is sex - that is a super positive.',
+        'Greg Behrendt',
     ],
-    [
-        'If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.',
-        'Buddha',
+    '0a8f6d9e-b21b-584a-bc18-0b4c17fdec60' => [
+        'I always like to arrive at the airport early to enjoy breakfast and lounge about so that when I get on the plane all my travel fever has disappeared.',
+        'Julian Fellowes',
     ],
-    [
-        'Do I feel any pressure as the most decorated Winter Olympian in American history? None at all. The only pressures that I know I face are those of how to pay it forward: How can I continually make a positive impact in people\'s lives, help others achieve their dreams, create their own Olympic mindset, creating champions within themselves?',
-        'Apolo Ohno',
+    '6f8d288e-ffbf-56e7-9f30-458d6187790b' => [
+        'I know that I do have influence over the people who watch me, and it\'s quite a pressure. I have to stay positive, and while I would never use the words \'role model\', I am mindful of the responsibilities that come with a substantial viewership.',
+        'Zoe Sugg',
     ],
-    [
-        'It\'s great to be somewhat of a role model. I want to be a positive and good role model and lead by example and try to do the best I can. Playing good golf definitely draws attention, but I want to have a good attitude on the course and do the right things.',
-        'Rickie Fowler',
+    '820884f8-b3e1-563d-b6f9-33d590716daf' => [
+        'Ideals are an imaginative understanding of that which is desirable in that which is possible.',
+        'Walter Lippmann',
     ],
-    [
-        'I never assumed I would have that commercial success, so it was a total surprise. And honestly, I never assumed that it would ever happen again.',
-        'Tracy Chapman',
+    '864acb99-69f9-586e-84c3-1846b0eccc7d' => [
+        'Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.',
+        'Vista Kelly',
     ],
-    [
-        'It is better to travel well than to arrive.',
-        'Buddha',
+    'c711dc15-9e7e-5e6b-bc25-7268f21eb5ce' => [
+        'Air travel is the safest form of travel aside from walking; even then, the chances of being hit by a public bus at 30,000 feet are remarkably slim. I also have no problem with confined spaces. Or heights. What I am afraid of is speed.',
+        'Sloane Crosley',
     ],
-    [
-        'A woman knows by intuition, or instinct, what is best for herself.',
-        'Marilyn Monroe',
+    'f62abb2e-0569-5a81-8d0b-656e6a313d22' => [
+        'So, where\'s the Cannes Film Festival being held this year?',
+        'Christina Aguilera',
     ],
-    [
-        'I liked painting and drawing, and I liked humanities mainly - poetry, literature - this speculative attitude toward life.',
-        'Rafael Moneo',
+    '6488ebda-7d85-5ec5-a6fd-6e5758453aff' => [
+        'I\'m writing a book. I\'ve got the page numbers done.',
+        'Steven Wright',
     ],
-    [
-        'Trust is the glue of life. It\'s the most essential ingredient in effective communication. It\'s the foundational principle that holds all relationships.',
-        'Jim Carrey',
+    'c4c2a6d3-78eb-53b3-be14-9918617ea632' => [
+        'I think that success is having fun.',
+        'Bruno Mars',
     ],
-    [
-        'Begin, be bold, and venture to be wise.',
-        'Horace',
+    '1f5937eb-08d8-5a4c-929b-73bce038683c' => [
+        'There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.',
+        'Joseph Campbell',
     ],
-    [
-        'How long can men thrive between walls of brick, walking on asphalt pavements, breathing the fumes of coal and oil, growing, working, dying, with hardly a thought of wind, and sky, and fields of grain, seeing only machine-made beauty, the mineral-like quality of life?',
-        'Charles Lindbergh',
+    'c856d485-7d7c-52d3-b536-7bfb24aafd5b' => [
+        'I just want to put some positive stuff out there. If it works, great. If it doesn\'t, no problem.',
+        'Kevin James',
     ],
-    [
-        'I\'m enjoying my years, I\'m enjoying my life, I\'m enjoying my family. I\'m just happy - a happy person.',
-        'Sharon Stone',
+    'da07c0ee-a76a-5f26-b98b-12419e2168be' => [
+        'God always gives His best to those who leave the choice with him.',
+        'Jim Elliot',
     ],
-    [
-        'A Bond girl must be a strong and independent woman, but at the same time charming and sensual. Those opposite qualities combined together make her interesting. She must be strong but at the same time feminine.',
-        'Olga Kurylenko',
+    '6fe4974f-7843-5fb3-bac1-eca641583ba5' => [
+        'Most of us have far more courage than we ever dreamed we possessed.',
+        'Dale Carnegie',
     ],
-    [
-        'Beauty is not something you can count on. Usually, when people say you are beautiful, it is when there is a harmony between the inside and the outside.',
-        'Emmanuelle Beart',
+    '26140cef-7fb6-562e-b2da-13298d361a1a' => [
+        'To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.',
+        'Mahummad Ali',
     ],
-    [
-        'If you\'re able to help some people and make them smile and make them realize that life is good, then that\'s worth so much more than buying a pair of shoes.',
-        'Maria Sharapova',
+    '6b272493-addc-5e9b-892c-d5711584c50f' => [
+        'I just travel the world with my backpack and my cameras and a bunch of Clif bars.',
+        'Henry Rollins',
     ],
-    [
-        'What we observe is not nature itself, but nature exposed to our method of questioning.',
-        'Werner Heisenberg',
+    'ea4431c3-bcec-5db1-8898-3d284b0d0b48' => [
+        'When my wife and I met, I couldn\'t talk to her - and my defense mechanism is sarcasm. I belittle someone with verbal pokes and prods. I did it to her out of complete awe. When friends introduced us, I said \'Hi\' - and turned my back. Later, I called my mom and best friend and said, \'I think I just met my wife.\'',
+        'Mike Vogel',
     ],
-    [
-        'Failure is an opportunity to begin again more intelligently.',
-        'Henry Ford.',
+    '7641cf21-6e2c-545f-a471-b3e5339f543f' => [
+        'I really believe that everyone has a talent, ability, or skill that he can mine to support himself and to succeed in life.',
+        'Dean Koontz',
     ],
-    [
-        'I think maths is the root of everything. If we understood every area of math, it would lead to improving our sense of science, physics, engineering, space travel... all those great things. Maths is a backbone for it.',
-        'Matt Haig',
+    'ff1129eb-47d1-5f47-960f-5e8f1470b46f' => [
+        'Economic medicine that was previously meted out by the cupful has recently been dispensed by the barrel. These once unthinkable dosages will almost certainly bring on unwelcome after-effects. Their precise nature is anyone\'s guess, though one likely consequence is an onslaught of inflation.',
+        'Warren Buffett',
     ],
-    [
-        'I like to be lazy. I do like to be busy and really active, but when that\'s done, you can be sure I will be a lazy boy. I like to take time and relax and enjoy life.',
-        'Olivier Theyskens',
+    'e8bd392a-9568-5f84-ab03-792461dbb300' => [
+        'Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.',
+        'Lao Tzu',
     ],
 ];

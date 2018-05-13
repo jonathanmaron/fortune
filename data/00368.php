@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Into each life some rain must fall.',
-        'George Bernard Shaw',
+    '3ff3c76a-8e35-5b3c-b958-b322927f140a' => [
+        'Doing stunt work is risky, but it\'s something I enjoy.',
+        'Verne Troyer',
     ],
-    [
-        'The one thing we know about the future is that it comes only one day at a time.',
-        'Jeff Rich',
+    'b1489d7b-ec69-5724-9b59-1a9be37fdd6e' => [
+        'Family time was very difficult when my girls were little, but I never missed a birthday; I was there for every major event.',
+        'Jeff Dunham',
     ],
-    [
-        'I have looked into your eyes with my eyes. I have put my heart near your heart.',
-        'Pope John XXIII',
+    '37b2cb09-8906-55fd-98fd-b6e4fe13f988' => [
+        'In the West, it was believed that attitude and ambition saved you. In Africa, we had learned that no one was immune to capricious tragedy.',
+        'Alexandra Fuller',
     ],
-    [
-        'There\'s so many things that life is, and no matter how many breakthroughs, trials will exist and we\'re going to get through it. Just be strong.',
-        'bell hooks',
+    'e1e350af-90e3-583e-890e-7b9217d38b0d' => [
+        'Success is getting what you want. Happiness is wanting what you get.',
+        'Dale Carnegie',
     ],
-    [
-        'Be prepared, work hard, and hope for a little luck. Recognize that the harder you work and the better prepared you are, the more luck you might have.',
-        'Ed Bradley',
+    'c2016541-4147-5de5-bfc3-78ac69833cba' => [
+        'And this, our life, exempt from public haunt, finds tongues in trees, books in the running brooks, sermons in stones, and good in everything.',
+        'William Shakespeare',
     ],
-    [
-        'I do love to eavesdrop. It\'s inspirational, not only for subject matter but for actual dialogue, the way people talk.',
-        'Lynda Barry',
+    '6b4595be-a07e-5c8b-9594-b4a96d917957' => [
+        'If in my youth I had realized that the sustaining splendour of beauty of with which I was in love would one day flood back into my heart, there to ignite a flame that would torture me without end, how gladly would I have put out the light in my eyes.',
+        'Michelangelo',
     ],
-    [
-        'The best reason why Monarchy is a strong government is, that it is an intelligible government. The mass of mankind understand it, and they hardly anywhere in the world understand any other.',
-        'Walter Bagehot',
+    '98e560bc-dc33-5c27-9bdb-32bbef80fd3c' => [
+        'One picture is worth 1,000 denials.',
+        'Ronald Reagan',
     ],
-    [
-        'Nearly all inventions are not recognised for their positive side either when they\'re made. So, for example, scientists didn\'t go out to design a CD machine: they designed a laser. But we got all sorts of things from a laser which we never remotely imagined, and we\'re still finding things for a laser to do.',
-        'Robert Winston',
+    'f0ad4d8b-7154-5a1a-b639-1e2a2858c507' => [
+        'Every moment and every event of every man\'s life on earth plants something in his soul.',
+        'Thomas Merton',
     ],
-    [
-        'I watched some serious \'80s television. \'Alice,\' \'Good Times,\' \'The Jeffersons,\' \'Family Ties,\' \'Cheers\'... every night it was eat dinner, watch \'Cheers.\' I was actually on \'Jeopardy\' with Rebecca Lobo and Dot Richardson, and we were laughing because I was just nailing every random \'80s trivia question - sitcom, theme music, movie, you name it.',
-        'Summer Sanders',
+    'dcf01c9d-1fe8-5cb7-a75f-32b266b7fb62' => [
+        'I have often said that the lure of flying is the lure of beauty.',
+        'Amelia Earhart',
     ],
-    [
-        'Work hard, stay positive, and get up early. It\'s the best part of the day.',
-        'George Allen, Sr.',
+    '676fb359-bc58-554e-9c40-68c540300665' => [
+        'That\'s who my mom is. She\'s a listener and a doer. She\'s a woman driven by compassion, by faith, by a fierce sense of justice and a heart full of love. So, this November, I\'m voting for a woman who is my role model, as a mother, and as an advocate. A woman who has spent her entire life fighting for families and children.',
+        'Bob Marley',
     ],
-    [
-        'Being funny wasn\'t a career choice growing up, it was my way out of situations; a way to survive another day.',
-        'Tracy Morgan',
+    'b886c7e3-0c9c-5dfe-a2b3-272d1e592cc0' => [
+        'I am obsessed with beauty. I want everything to be perfect, and of course it isn\'t. And that\'s a tough place to be because you\'re never satisfied.',
+        'Robert Mapplethorpe',
     ],
-    [
-        'The personal life deeply lived always expands into truths beyond itself.',
-        'Isaac Watts',
+    '61562dd9-20aa-52c2-a13e-21914836f2e7' => [
+        'The fox has many tricks. The hedgehog has but one. But that is the best of all.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
-        'Elmer Bernstein',
+    'a64cd468-c3f5-59fd-9f60-82c74130e571' => [
+        'You lose attitude when you feel too comfortable, so I prefer to wear clothes that have a certain edge to them.',
+        'Carine Roitfeld',
     ],
-    [
-        'I have been very blessed in my life and rewarded with good friends and good health. I am grateful and happy to be able to share this.',
-        'Unknown',
+    'c4375079-de44-5df7-a755-1a01c3374654' => [
+        'One of the great things about music is that it has the capability of time travel - you smell a certain smell in the room and it takes you back to your childhood. I feel like music is able to do that, and it happens to me all the time.',
+        'M. Ward',
     ],
-    [
-        'I\'ve never been in any country for more than four years, and I\'m learning different languages all the time. It gives you a different attitude.',
-        'Santiago Cabrera',
+    'ba3dbe21-32f6-5398-b236-35311cd8bf0c' => [
+        'Action may not always bring happiness; but there is no happiness without action.',
+        'Benjamin Disraeli',
     ],
-    [
-        'I was kicked out of school because of my attitude. I was not assimilating. So I went to work, taking any jobs I could get.',
-        'Richard Pryor',
+    'f599621e-0bff-5414-a27d-b2a85da74300' => [
+        'College was especially sweet because of the positive, hopeful atmosphere of a college campus.',
+        'Jerry Kramer',
     ],
-    [
-        'Many of our deepest motives come, not from an adult logic of how things work in the world, but out of something that is frozen from childhood.',
-        'Kazuo Ishiguro',
+    'c0a5e7b9-4252-592f-9cae-e1116c429ae7' => [
+        'Usually, the stuff that\'s your best idea or work is going to be attacked the most.',
+        'Francis Ford Coppola',
     ],
-    [
-        'Even when disco went out, I could still make hits. Once I had so much success, every idea became concentrated. I had so much confidence. I knew how the bass should sound, what rhythms would work. The tempos I knew: 110 to 120 BPM. I knew they would dance in the clubs in New York or anywhere.',
-        'Giorgio Moroder',
+    'b4532b6f-ed9f-5fb6-8936-ef1ecb1566a8' => [
+        'After all, the best part of a holiday is perhaps not so much to be resting yourself, as to see all the other fellows busy working.',
+        'Kenneth Grahame',
     ],
-    [
-        'Travelers never think that they are the foreigners.',
-        'Mason Cooley',
+    'bf6d47f0-d932-589c-87b0-4b2ccc67bcca' => [
+        'I can honestly say that I was never affected by the question of the success of an undertaking. If I felt it was the right thing to do, I was for it regardless of the possible outcome.',
+        'Golda Meir',
     ],
-    [
-        'If a girl is smiling and is bringing positive energy and she\'s happy, that\'s what I notice right away - and her teeth.',
-        'Chandler Parsons',
+    'b6b16bb3-47ac-50a5-8cd4-4784999184c4' => [
+        'Having lots of siblings is like having built-in best friends.',
+        'Kim Kardashian',
     ],
-    [
-        'Today, I think the attitude is that governing is not necessarily good politics, and the result is that it\'s much more partisan and much more divided.',
-        'Leon Panetta',
+    '98778b9b-f8c5-5e64-a6f4-a5ff56b70a48' => [
+        'If you want small changes in your life, work on your attitude. But if you want big and primary changes, work on your paradigm.',
+        'Stephen Covey',
     ],
-    [
-        'It\'s often been said that you learn more from losing than you do from winning. I think, if you\'re wise, you learn from both. You learn a lot from a loss. You learn what is it that we\'re not doing to get to where we want to go. It really gets your attention and it really motivates the work ethic of your team when you\'re not doing well.',
-        'Morgan Wootten',
+    '4b3ff7d5-7302-522c-9d3c-170becab7710' => [
+        'The past has no power to stop you from being present now. Only your grievance about the past can do that.',
+        'Eckhart Tolle',
     ],
-    [
-        'Racism is a much more clandestine, much more hidden kind of phenomenon, but at the same time it\'s perhaps far more terrible than it\'s ever been.',
-        'Angela Davis',
+    '4f6cb62d-f247-54ee-8ea7-a27defc35982' => [
+        'He who knows others is wise. He who knows himself is enlightened.',
+        'Lao Tzu',
     ],
-    [
-        'I\'m lucky in that I have close friends and family and my agent to advise me.',
-        'Imogen Poots',
+    '13980b17-e77a-5cf6-80be-b4b0ca9607a0' => [
+        'Umpires are necessary evils. That\'s just the nature of the beast. For years, people have looked on umpiring as a job they could get any postman to do.',
+        'Doug Harvey',
     ],
-    [
-        'But the funny thing is, I broke my finger not on set doing kung fu. I broke my finger when I fell down the stairs prior to going on set.',
-        'Jaime King',
+    'a0ee3060-591c-5224-a9e8-32bff45825ab' => [
+        'Always keep that happy attitude. Pretend that you are holding a beautiful fragrant bouquet.',
+        'Earl Nightingale',
     ],
 ];

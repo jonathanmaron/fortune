@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The great thing for me about \'The Resurrection of Gavin Stone\' is it\'s a throwback to the old fashioned Hollywood movie that you can watch with your family, has a message, and is funny and entertaining. They didn\'t call them faith-based movies; they just called them good movies.',
-        'D. B. Sweeney',
+    '4be4eef6-08d1-5c4a-9fa9-6d068196afc7' => [
+        'What we need is more people who specialize in the impossible.',
+        'Theodore Roethke',
     ],
-    [
-        'Rail travel for me is the most relaxing, most scenic way to see the country.',
-        'John Paul DeJoria',
+    '187a2e96-d0db-5621-b9aa-a81437e6298a' => [
+        'Everything I do in life is framed through the view of a businessman. That\'s my instinct. If I go into a pharmacy to buy shaving cream, then I\'m going to look for the best deal on shaving cream.',
+        'Donald Trump',
     ],
-    [
-        'What I have tried to show is that the scientific attitude implies what I call the postulate of objectivity - that is to say, the fundamental postulate that there is no plan, that there is no intention in the universe.',
-        'Jacques Monod',
+    '6695a266-dc43-5ec5-854a-0ee614c9bd42' => [
+        'When I travel, I love speaking to women around the world about the things that inspire them, the fashions they like, what makes something good and what would make it even better.',
+        'Maria Sharapova',
     ],
-    [
-        'Power means happiness; power means hard work and sacrifice.',
-        'Beyonce Knowles',
+    '9ee4990c-db47-5625-aeab-ec75c1ce614d' => [
+        'You can learn more from the lows than the highs. The highs are great but the lows make you really look at things in a different way and want to improve. Every player will have both in their careers and I have, but what you get is that experience which is so important to perform at your best.',
+        'Wayne Rooney',
     ],
-    [
-        'There\'s one thing about baldness, it\'s neat.',
-        'Don Herold',
+    '35fe985d-7609-5784-a927-18c8942fa658' => [
+        'No matter what kind of challenges or difficulties or painful situations you go through in your life, we all have something deep within us that we can reach down and find the inner strength to get through them.',
+        'Natalie Gulbis',
     ],
-    [
-        'Fire tries gold, misfortune tries brave men.',
-        'Seneca',
+    '3c0cdfe6-cc0b-538f-8ccf-851032e21169' => [
+        'With my talent, I can make people laugh and give them another attitude about life. What a blessing that is for me.',
+        'Doris Roberts',
     ],
-    [
-        'Any captain can only do his best for the team and for cricket. When you are winning, you are a hero. Lose, and the backslappers fade away.',
-        'Richie Benaud',
+    '2876d16c-6174-5ee9-a78d-ad1537d4cc8e' => [
+        'Everything becomes magnified at night. Sounds travel in a different way, it\'s dark, and everything seems far more spooky.',
+        'Jo Brand',
     ],
-    [
-        'My scientific studies have afforded me great gratification; and I am convinced that it will not be long before the whole world acknowledges the results of my work.',
-        'Gregor Mendel',
+    '9c9aff87-6c69-542b-b683-b7a38d1b8a4b' => [
+        'Half a century ago, the amazing courage of Rosa Parks, the visionary leadership of Martin Luther King, and the inspirational actions of the civil rights movement led politicians to write equality into the law and make real the promise of America for all her citizens.',
+        'David Cameron',
     ],
-    [
-        'The way we approached Meru, and the way we approach a lot of these mountains, is with humility. A sense of, \'Is it going to give us passage?\' Your mental attitude can affect the outcome.',
-        'Jimmy Chin',
+    '43d78287-9052-5669-bda4-874a124870a1' => [
+        'To be in the privileged position where I am able to give something back is, for me, perhaps the single most important measure of success.',
+        'Mohamed Bin Issa Al Jaber',
     ],
-    [
-        'I\'ve always surrounded myself with funny people.',
-        'Leslie Mann',
+    'd056424a-c23e-543e-bc4c-dd8b13d0e6d0' => [
+        'I remember when I was a kid, I could never find anything positive about chubby girls. If a girl was pudgy in books, she wasn\'t okay. She couldn\'t be happy or make friends unless she lost weight.',
+        'Ann Aguirre',
     ],
-    [
-        'I think people take a liking to a voice or something that makes them smile and feel good about themselves.',
-        'Jess Glynne',
+    '76c08fab-3408-596f-af68-71c165ffb9d3' => [
+        'Don\'t focus on the negativity. Focus on the positivity and the people that want you to do well; then, do it for them and for yourself. Sometimes I do things for myself. Sometimes I do things for my family. Sometimes I do things for my friends.',
+        'Roman Reigns',
     ],
-    [
-        'In every battle there comes a time when both sides consider themselves beaten, then he who continues the attack wins.',
-        'Ulysses S. Grant',
+    '87905dbe-a5b4-5625-be80-78e63f11bdb4' => [
+        'If my life wasn\'t funny, it would just be true, and that\'s unacceptable.',
+        'Carrie Fisher',
     ],
-    [
-        'Only bad golfers are lucky. They\'re the ones bouncing balls off trees, curbs, turtles and cars. Good golfers have bad luck. When you hit the ball straight, a funny bounce is bound to be unlucky.',
-        'Lee Trevino',
+    'cd70c6f7-5f9a-57c4-82be-8ef0ff10a9db' => [
+        'If I had been asked to write 1,200 words for a newspaper tomorrow, on any subject, I would just do it rather than leave a white hole in the page. And I think it\'s a very healthy attitude to take to writing anything.',
+        'Tom Stoppard',
     ],
-    [
-        'Whether a party can have much success without a woman present I must ask others to decide, but one thing is certain, no party is any fun unless seasoned with folly.',
-        'Desiderius Erasmus',
+    'bcdda7e6-8d9e-5df4-9fa2-8d71fedf64a6' => [
+        'Never regret. If it\'s good, it\'s wonderful. If it\'s bad, it\'s experience.',
+        'Victoria Holt',
     ],
-    [
-        'I believe there are two periods in life, one for the bike, the other for becoming active on one\'s work.',
-        'Bernard Hinault',
+    'd86b0a61-e781-5a33-b673-499fffffdbac' => [
+        'If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.',
+        'Mary Pickford',
     ],
-    [
-        'It is better to be hated for what you are than to be loved for what you are not.',
-        "Andr\u{e9} Gide",
+    '10ea9842-3445-5736-afd6-ee06c8751801' => [
+        'Sometimes you want to go for a walk and you don\'t want to be watched. You just want to be anonymous and blend in. Especially when I travel, I feel that way, because I can\'t really go out and see a city the way other people can and I miss out on a lot.',
+        'Madonna Ciccone',
     ],
-    [
-        'There is no question that global warming will have a significant impact on already existing problems such as malaria, malnutrition, and water shortages. But this doesn\'t mean the best way to solve them is to cut carbon emissions.',
-        'Bjorn Lomborg',
+    'a3644c19-4f96-581e-a578-3884581b33e8' => [
+        'For years, I had a top secret clearance and never left Russia. Just once did I go to Bulgaria with my wife for a holiday at the Golden Sands resort, but I could not mention my real name. I was allowed to travel abroad only in the early 1990s.',
+        'Mikhail Kalashnikov',
     ],
-    [
-        'Out of labor\'s struggle in Arizona came better conditions for the workers, who must everywhere, at all times, under advantage and disadvantage work out their own salvation.',
-        'Mary Harris Jones',
+    'deee3fc4-306b-5ea3-a13e-8ebb15e0f214' => [
+        'The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other.',
+        'Sammy Davis, Jr.',
     ],
-    [
-        'There is something so biologically implausible that your attitude is going to cure a disease. There\'s a tremendous arrogance to imagine that your mind is all that powerful.',
-        'Marcia Angell',
+    '1556f27d-49b4-59cf-ac2c-f3e8c1de6913' => [
+        'Successful people breed success.',
+        'Phil Crosby',
     ],
-    [
-        'Traveling, you realize that differences are lost: each city takes to resembling all cities, places exchange their form, order, distances, a shapeless dust cloud invades the continents.',
-        'Italo Calvino',
+    '9333b96f-6ea7-5ce4-8796-819f037ab923' => [
+        'If people want to compete for leadership of a religious group, they can compete in piety. A chilling thought. Or funny.',
+        'Mary Douglas',
     ],
-    [
-        'The kitchen really is the castle itself. This is where we spend our happiest moments and where we find the joy of being a family.',
-        'Mario Batali',
+    'adbf58a9-408c-55e0-9296-771fa9dada6f' => [
+        'With the Union my best and dearest earthly hopes are entwined.',
+        'Franklin Pierce',
     ],
-    [
-        'For me, personally, life in South Africa had come to an end. I had been lucky in some of the whites I had met. Meeting them had made a straight \'all-blacks-are-good, all-whites-are-bad\' attitude impossible. But I had reached a point where the gestures of even my friends among the whites were suspect, so I had to go or be forever lost.',
-        'Peter Abrahams',
+    '87d4d2c9-6333-5843-8a8b-2c4fac02ae15' => [
+        'In order that people may be happy in their work, these three things are needed: They must be fit for it. They must not do too much of it. And they must have a sense of success in it.',
+        'John Ruskin',
     ],
-    [
-        'We live in a state with a wonderful climate and plenty of natural beauty, from the shores of Cumberland Island to the Chattahoochee River to the Blue Ridge Mountains.',
-        'Roy Barnes',
+    'e376ea1a-4b70-5ed8-93cb-6f02046561e5' => [
+        'What sort of sap doesn\'t know by now that picture-perfect beauty is all done with smoke and mirrors anyway?',
+        'Julie Burchill',
     ],
-    [
-        'Being natural is incredibly empowering for women because it\'s just who you are. You\'re embracing all the beautiful things about you from your head to your toes. Because when you mask so much of your natural beauty, people don\'t get to see that.',
-        'Rozonda Thomas',
+    '2f39fc99-207d-5a69-950f-24d7fd4cbfcf' => [
+        'My wish is to be known only thru my work.',
+        'Dorothea Dix',
     ],
-    [
-        'It was just like a dream. I could have ended up with an album that\'s not all that different from anything else coming out of Nashville. Mutt made the difference. He took these songs, my attitude, my creativity, and colored them in a way that is unique.',
-        'Shania Twain',
+    '26423cda-1437-5252-a8ff-fc60c82df9ac' => [
+        'Brand is not a product, that\'s for sure; it\'s not one item. It\'s an idea, it\'s a theory, it\'s a meaning, it\'s how you carry yourself. It\'s aspirational, it\'s inspirational.',
+        'Kevin Plank',
     ],
 ];

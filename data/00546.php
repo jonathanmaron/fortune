@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'One of my favorite writers is Chekhov. I love his attitude toward the world. Just accept things for what they are. Don\'t judge. Be moral as you tell your story, but have no moral at the end. Just look at it.',
-        'Pawel Pawlikowski',
+    '8d5f9536-9751-5f5a-89a1-97f15a17fb96' => [
+        'Too many of us are not living our dreams because we are living our fears.',
+        'Les Brown',
     ],
-    [
-        'All we need, really, is a change from a near frigid to a tropical attitude of mind.',
-        'Marjory Stoneman Douglas',
+    '54b9e4fc-3e1d-583f-9197-65a5e73e338c' => [
+        'I used to sell furniture for a living. The trouble was, it was my own.',
+        'Les Dawson',
     ],
-    [
-        'The roots of racism lie deep in man\'s nature, wounded and bruised by original sin.',
-        'Sargent Shriver',
+    '9a38589a-c571-52c5-a3dc-80518e46295d' => [
+        'Even if you\'re unhappy, just pretend that you\'re happy. Eventually, your smile will be contagious to yourself. I had to learn that. I used to think, \'I\'m being fake,\' but you know what? Better to be fake and happy than real and miserable.',
+        'Evangeline Lilly',
     ],
-    [
-        'If you\'re doing your best, you won\'t have any time to worry about failure.',
-        'H. Jackson Brown, Jr.',
+    '1f809c8d-0fde-57f3-ba13-48f2f2ab6654' => [
+        'Confidence isn\'t optimism or pessimism, and it\'s not a character attribute. It\'s the expectation of a positive outcome.',
+        'Rosabeth Moss Kanter',
     ],
-    [
-        'There are three constants in life... change, choice and principles.',
-        'Ray Lewis',
+    'f923c222-ed8b-5aaf-990e-c8cc4f8e99b6' => [
+        'To become an able and successful man in any profession, three things are necessary, nature, study and practice.',
+        'Henry Ward Beecher',
     ],
-    [
-        'We need time to defuse, to contemplate. Just as in sleep our brains relax and give us dreams, so at some time in the day we need to disconnect, reconnect, and look around us.',
-        'Laurie Colwin',
+    'e38462d6-327f-5576-8a30-faadacae5dd8' => [
+        'One of the triumphs of the Civil Rights Movement is that when you travel through the South today, you do not feel overwhelmed by a residue of grievance and hate.',
+        'Alice Walker',
     ],
-    [
-        'No trait is more justified than revenge in the right time and place.',
-        'Meir Kahane',
+    '36e983c0-1a02-5233-be3f-0dd8e6e3c989' => [
+        'All nature is but art unknown to thee.',
+        'Alexander Pope',
     ],
-    [
-        'Many of my friends back in New York and elsewhere have a glib or dismissive attitude toward Los Angeles. It\'s a place of strip malls and traffic and not much else, in their opinion.',
-        'Moby',
+    '80870c35-d4be-5d27-89c7-501c76669255' => [
+        'Those who are blessed with the most talent don\'t necessarily outperform everyone else. It\'s the people with follow-through who excel.',
+        'Mary Kay Ash',
     ],
-    [
-        'Well, capitalism is going to grow and grow. The nature of it is that the guy who has the most poker chips on the table has more leverage than everyone else. He can eventually outbluff everyone else and outraise everyone else at the table. That\'s what has happened and it needs to be corrected.',
-        'Simon Baker',
+    'c77af69d-641c-5ba7-9f12-7048267cdf6a' => [
+        "You don\u{92}t have to explain your dreams, they belong to you.",
+        'Paulo Coelho',
     ],
-    [
-        'I think who you are in school really sticks with you. I don\'t ever feel like the cool kid at the party, ever. It\'s like, \'Smile and be nice to everybody, because you were not invited to be here.\'',
-        'Taylor Swift',
+    '5b2c0cc6-464d-5874-8eb1-c04dc8943bc0' => [
+        'Rise above sectional interests and private ambitions... Pass from matter to spirit. Matter is diversity; spirit is light, life and unity.',
+        'Anne Hathaway',
     ],
-    [
-        'Beauty is grace and confidence. I\'ve learned to accept and appreciate what nature gave me.',
-        'Lindsay Lohan',
+    'd665390c-f0ee-5f08-b7f9-759b1d1dc871' => [
+        'What we see is mainly what we look for.',
+        'Unknown',
     ],
-    [
-        'It\'s amazing how a competitive nature can turn a negative into something positive.',
-        'Barry Mann',
+    '75334d31-4ab7-54f5-a488-2313b38aa5ae' => [
+        'For the happiest life, days should be rigorously planned, nights left open to chance.',
+        'Helen Keller',
     ],
-    [
-        'People think they have a perfect idea of who you are from a four-second Snapchat video... and fake blogs, stories, magazine covers. In reality, that\'s not the case. Nobody knows who I am except family and my close friends.',
-        'Kylie Jenner',
+    'e3bfc27a-ebf3-534c-8d6c-542400bfdb87' => [
+        'My objective is to be among the best.',
+        'Antoine Griezmann',
     ],
-    [
-        'Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can\'t ride you unless your back is bent.',
-        'Martin Luther King, Jr.',
+    '37ea87af-8181-531e-843c-fd7d0aed5708' => [
+        'Growing up, in church we had the homily; at home it\'s what I call the \'momily\' - the inspirational and instructive mom-isms that every family has.',
+        'Christine Pelosi',
     ],
-    [
-        'I am not a great cook, I am not a great artist, but I love art, and I love food, so I am the perfect traveller.',
-        'Michael Palin',
+    '1d13b1c0-3e9e-5056-8578-041a49b1e504' => [
+        'The price of anything is the amount of life you exchange for it.',
+        'Lao Tzu',
     ],
-    [
-        'Thats the risk you take if you change: that people you\'ve been involved with won\'t like the new you. But other people who do will come along.',
-        'Lisa Alther',
+    '60e3bb01-472e-51ea-8b81-759734916233' => [
+        'What would be left of our tragedies if an insect were to present us his?',
+        'Emile M. Cioran',
     ],
-    [
-        'From my earliest childhood, my attention was specially directed to the subject of acoustics, and specially to the subject of speech, and I was urged by my father to study everything relating to these subjects, as they would have an important bearing upon what was to be my professional work.',
-        'Alexander Graham Bell',
+    '4e846bc1-e5b8-5b9e-b649-b669de2a52bc' => [
+        'With my boyfriend, we can make sexist jokes to each other because we know it\'s absolutely not true. If I get home from a long day and he says: \'Go on, get in the kitchen,\' it\'s funny because we know it\'s not our lives.',
+        'Emily Browning',
     ],
-    [
-        'Play like you\'re positive on the victory, even though they\'re leading big now.',
-        'Knute Rockne',
+    'e15f1e51-db69-55e3-9a9c-75e1ea4a24a8' => [
+        'It is not the beauty of a building you should look at; its the construction of the foundation that will stand the test of time.',
+        'David Allan Coe',
     ],
-    [
-        'When I was in college, I was in the theater department, which for anyone who has been involved in any kind of theater program, you know that it\'s really wacky and tight-knit, a real family. Me and my good friends from college would do random shows and plays that were sometimes serious, but most of the time really goofy and funny.',
-        'Darren Criss',
+    '02d9e9e3-8550-5d11-bc7b-0b693a566c85' => [
+        'I don\'t follow anything blindly. I have to know the entire thing, if I have to get in to it. It might sound funny to you, but it\'s like using English language. I use an English word only when I know its meaning and understand its connotation. You won\'t hear me say, \'What\'s up, dude\' or anything like that just for the heck of it.',
+        'Kailash Kher',
     ],
-    [
-        'I like to find the beauty in the ugly. When I\'m in a thrift store, I gravitate toward pieces I know I\'ll wear a ton, and insane pieces that I\'m sure most people would consider gross. But I find them inspiring. Our van is currently stocked with some of my random findings from this tour. Maybe I\'ll call my aesthetic \'van fashion.\'',
-        'Victoria Legrand',
+    '5c5a6839-328d-52ea-9854-3d458e6126dd' => [
+        'It\'s always too early to quit.',
+        'Norman Vincent Peale',
     ],
-    [
-        'Teenagers, especially girl ones, seem like the perfect canary-in-the-coal-mine characters to me. They capture American culture and its perversion, its hypocrisy - how absorbed we are with youth and beauty and sexualized imagery, for instance, while preaching abstinence and modesty.',
-        'Antonya Nelson',
+    '36f91ad7-605b-53a2-8c1f-89367da9b332' => [
+        'Like the rest of the genetic lottery, beauty is unfair. Everyone falls short of perfection, but some are luckier than others. Real confidence requires self-knowledge, which includes recognizing one\'s shortcomings as well as one\'s strengths.',
+        'Virginia Postrel',
     ],
-    [
-        'Turn your face toward the sun and the shadows will fall behind you.',
-        'Maori Proverb',
+    '3c0d55db-4b23-51ff-a436-83f38a3f4a82' => [
+        'If you play the same club every week of every month, it\'s kind of boring. It\'s great that you can play one night in Brazil and one night in Japan, one night in Europe, and see the world. It\'s amazing what you see if you travel around the world.',
+        'Tiesto',
     ],
-    [
-        'I\'m obsessed with Nicholas Sparks. I\'ve literally read every single book, because every time I travel, at the airport, I always buy a new Nicholas Sparks book.',
-        'Emma Roberts',
+    'dd62e1a8-412d-5445-b8a4-318b7b17e532' => [
+        'I think one of the things that language poets are very involved with is getting away from conventional ideas of beauty, because those ideas contain a certain attitude toward women, certain attitudes toward sex, certain attitudes toward race, etc.',
+        'Diane Wakoski',
     ],
-    [
-        'It\'s a good thing that beauty is only skin deep, or I\'d be rotten to the core.',
-        'Phyllis Diller',
+    '2b79d9d8-91e2-5993-bc4b-92ca03fe4b2f' => [
+        'We truly believe with hard work, dedication and perseverance, we can become the best at what we do. No one wants to become mediocre.',
+        'Andy Biersack',
     ],
-    [
-        'A minister of Jesus Christ should not be regardless of his attitude. If he is the representative of Jesus Christ, his deportment, his attitude, his gestures, should be of that character which will not strike the beholder with disgust.',
-        'Ellen G. White',
+    '22c57542-9952-5378-bd99-120ce76e0941' => [
+        'What the caterpillar calls the end of the world, the master calls a butterfly.',
+        'Richard Bach',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'The mind is everything. What you think you become.',
-        'Buddha',
+    '6b15a515-42c8-5b94-b851-59c1165ba2ee' => [
+        'The first step to getting the things you want out of life is this: decide what you want.',
+        'Ben Stein',
     ],
-    [
-        'What is worthy or unworthy on the Sabbath day will have to be judged by each of us by trying to be honest with the Lord. On the Sabbath day, we should do what we have to do and what we ought to do in an attitude of worshipfulness and then limit our other activities.',
-        'James E. Faust',
+    '40bab909-65e7-5463-9e2b-c9f163343993' => [
+        'Some people have no respect whether you are with your family or not. That\'s the hardest part. I was shopping in a grocery store in Seattle looking for stuff for Nicholas. This guy kept following me with his cell phone video on.',
+        'Joe Montana',
     ],
-    [
-        'The best thing about the future is that it only comes one day at a time.',
-        'Abraham Lincoln',
+    'ecc3ada0-6d24-520e-be6b-43f196b69181' => [
+        'Nobody is gonna love you like you. You\'re gonna be your best salesman.',
+        'T.I.',
     ],
-    [
-        'A zero-gravity flight is a first step toward space travel.',
-        'Stephen Hawking',
+    'f0c8ab4e-f49d-5110-b9c8-500b048695ff' => [
+        'You\'re not a product of your nature. That is your genetic makeup or your nurture, the things that have happened to you. Of course those things affect you powerfully, but they do not determine you.',
+        'Stephen Covey',
     ],
-    [
-        'My hope still is to leave the world a bit better than when I got here.',
-        'Jim Henson',
+    'cda41490-b971-571f-aa46-e13a5879ec54' => [
+        'Look, I don\'t want to wax philosophic, but I will say that if you\'re alive you\'ve got to flap your arms and legs, you\'ve got to jump around a lot, for life is the very opposite of death, and therefore you must at very least think noisy and colorfully, or you\'re not alive.',
+        'Walt Disney',
     ],
-    [
-        'I can be the nice family man at home, and then when I go to the gym, maybe sparring with someone, I switch into beast mode. It ain\'t pretty.',
-        'Anthony Joshua',
+    'ab500413-9280-5fba-bc2e-81f2694d34ac' => [
+        'Every positive value has its price in negative terms... the genius of Einstein leads to Hiroshima.',
+        'Pablo Picasso',
     ],
-    [
-        'The positive is I\'m delighted at the way the Liberal Democrats as a party have supported me and the way in which the work I\'m doing, through the Liberal Democrats, has abled to broaden some of the work I work on.',
-        'Maajid Nawaz',
+    '200b2599-9a72-5fdf-ab3d-45b1ffbebb18' => [
+        'I come from a law enforcement family. My grandfather, William J. Comey, was a police officer. Pop Comey is one of my heroes. I have a picture of him on my wall in my office at the FBI, reminding me of the legacy I\'ve inherited and that I must honor.',
+        'James Comey',
     ],
-    [
-        'Don\'t be afraid in nature: one must be bold, at the risk of having been deceived and making mistakes.',
-        'Camille Pissarro',
+    '33cfd274-936a-52aa-b398-7299bc62982f' => [
+        'Life offers no guarantees... just choices; no certainty... but consequences; no predictable outcomes... just the privilege of pursuit.',
+        'Tim Connor',
     ],
-    [
-        'The only way I\'m going to support my family is to tour. I love playing, don\'t get me wrong. That 90 minutes every night, that\'s free. We get paid to travel. But every night, I have to get myself locked in. There are a thousand people that don\'t want to be disappointed, because they have a lot of expectations.',
-        'Sturgill Simpson',
+    'a56cd583-7594-5085-ba36-f4b9c4b546ee' => [
+        'We\'re a blue-collar band. That\'s how we like to think of ourselves. We come from humble beginnings and still have this attitude of really loving to meet people, shake their hands, and talk with them.',
+        'Rickey Medlocke',
     ],
-    [
-        'I really enjoy what I do, and who I\'m with and where I am. Having said that, I\'m not really a person of habit, because what I do in my job is travel around the world and play concerts to people, and occasionally do very weird things.',
-        'Robert Smith',
+    '70bae796-2ef1-5add-9c2d-dc978eaa138f' => [
+        'Look forward to spring as a time when you can start to see what nature has to offer once again.',
+        'Byron Pulsifer',
     ],
-    [
-        'The portrait I do best is of the person I know best.',
-        'Nadar',
+    'd7244f87-b93c-528a-830d-ebf7052b1933' => [
+        'An attitude to life which seeks fulfillment in the single-minded pursuit of wealth - in short, materialism - does not fit into this world, because it contains within itself no limiting principle, while the environment in which it is placed is strictly limited.',
+        'E. F. Schumacher',
     ],
-    [
-        'That term\'s definitely got a negative aura to it, because people think a diva is somebody with an attitude who demands things all the time. Of course there is that type of diva, but my idea of a diva has always been a singer - whether male or female - who gets on that stage and captivates you with their presence and their voice.',
-        'Jordin Sparks',
+    '3e985e3a-ef49-5685-9b89-76de630ff3ab' => [
+        'In every man\'s heart there is a secret nerve that answers to the vibrations of beauty.',
+        'Christopher Morley',
     ],
-    [
-        'My restaurants are never opened on Thanksgiving; I want my staff to spend time with their family if they can. My feeling is, if I can\'t figure out how to make money the rest of the year so that my workers can enjoy the holidays, then I don\'t deserve to be an owner.',
-        'Michael Symon',
+    '590a0fc8-67af-586a-aaa6-d6f34964ce5f' => [
+        'There is the sky, which is all men\'s together.',
+        'Euripides',
     ],
-    [
-        'There was always a feeling for me that it would work. That\'s what keeps me going. You go in with a positive attitude and stay there, and that\'s a big part of what does make it work.',
-        'Shelley Long',
+    '5c67b719-1fab-5b01-9177-aa4010791d25' => [
+        'What I enjoy most is travelling to different places and meeting new people. For me, it\'s all about life experiences, and I\'m very grateful that acting allows me so many interesting and fulfilling ones.',
+        'Miranda Kerr',
     ],
-    [
-        'Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.',
-        'Arthur Rubinstein',
+    '51a9d0f1-4fc2-5173-a639-735dfa8d82ce' => [
+        'No one can make you happy. No one can help you grow in life more than you can. I can love you to death, but I can only go so far. I can inspire and encourage you as much as I can, but when you play an active role to find that self-security and that self-worth, it makes the difference.',
+        'Tyler, The Creator',
     ],
-    [
-        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
-        'Danny Meyer',
+    'ee8029f6-8ae6-5c90-8639-145bd555ac9d' => [
+        'At the age of 6, a teacher full of ambitions, who taught in the small public school of Biran, convinced my family that I should travel to Santiago de Cuba to accompany my older sister who would enter a highly prestigious convent school. Including me was a skill of that very teacher from the little school in Biran.',
+        'Fidel Castro',
     ],
-    [
-        'To me, success is choice and opportunity.',
-        'Harrison Ford',
+    '91c42d04-2457-5708-9872-5d615bdac83a' => [
+        'You need an attitude of service. You\'re not just serving yourself. You help others to grow up and you grow with them.',
+        'David Green',
     ],
-    [
-        'Life is never fair, and perhaps it is a good thing for most of us that it is not.',
-        'Elizabeth Esty',
+    '3957c9e7-d5e5-5afc-a96e-2e318bd042a7' => [
+        'People are craving this great progress in electronics, going after computers, the Internet, etc. It\'s a giant progress technologically. But they must have a balance of soul, a balance for human beauty. That means art has an important role.',
+        'Mstislav Rostropovich',
     ],
-    [
-        'Education must not simply teach work - it must teach Life.',
-        'W. E. B. Du Bois',
+    '668e8bd7-257d-565e-9ccf-26ce19d86086' => [
+        'Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.',
+        'Byron Pulsifer',
     ],
-    [
-        'The worst part of success is, to me, adapting to it. It\'s scary.',
-        'Kendrick Lamar',
+    'bee0f6dd-a84c-5d6d-a6ce-1306bfb8e00b' => [
+        'You\'ve got to be success minded. You\'ve got to feel that things are coming your way when you\'re out selling; otherwise, you won\'t be able to sell anything.',
+        'Benjamin Jowett',
     ],
-    [
-        'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a game or a battle; the win comes from basic blocking and tackling.',
-        'Naveen Jain',
+    '444ba01d-a813-58fe-a594-1a03d38dcf44' => [
+        'To me, success in the job is setting a vision, guiding an organization through change - which is exactly what I did at Digitas, and I\'m very proud of that - and bringing people together and with you. That, to me, is what it takes to be successful.',
+        'Laura Lang',
     ],
-    [
-        'It\'s music. It\'s supposed to be fun and inspirational. You have to be inspired. If I did it because it was my \'job,\' and I only did it to make money, I don\'t think I\'d still be doing it.',
-        'Max Martin',
+    '6c9a4045-d9e1-5065-ba1d-857e1a471cf0' => [
+        'I also became close to nature, and am now able to appreciate the beauty with which this world is endowed.',
+        'James Dean',
     ],
-    [
-        'I\'m one of those guys that - as far as relationships and stuff go - if you smile at me, I\'m like, \'Let\'s date for three years\' - which is just ridiculous.',
-        'Norman Reedus',
+    '7eb86dd4-01e4-5196-bc21-04abfcf8b151' => [
+        'The idea of having a steady job is appealing.',
+        'Robin Williams',
     ],
-    [
-        'There\'s no such thing as a specific authenticity to what Mexico is, because Mexico is incredibly complex and varied, and the food is completely different if you travel 50 kilometers. It just changes all the time.',
-        'Gael Garcia Bernal',
+    '6d5825d6-417d-52c7-a8a4-c60ffc23f6d6' => [
+        'On the field, aggression can sometimes be a positive emotion. It boosts performance and can lift your game. But over the years, I have learnt that restrained aggression is a better animal. That way, you will conserve your energy and won\'t spend yourself quickly.',
+        'Virat Kohli',
     ],
-    [
-        'We have one planet in our solar system that\'s habitable, and that\'s the Earth, and space travel can transform things back here for the better. First of all, by just having people go to space and look back on this fragile planet we live on. People have come back transformed and have done fantastic things.',
-        'Richard Branson',
+    'bc35934a-bd69-5de4-aa8f-61c1ccc70c9f' => [
+        'It takes both courage and talent to stand up in front of fellow human beings and make them crack a smile, and at the same time keep it clean.',
+        'Ray Comfort',
     ],
 ];

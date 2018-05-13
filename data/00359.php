@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'Good planning is important. I\'ve also regarded a sense of humor as one of the most important things on a big expedition. When you\'re in a difficult or dangerous situation, or when you\'re depressed about the chances of success, someone who can make you laugh eases the tension.',
-        'Edmund Hillary',
+    'ada0dce9-61a0-56ad-98f3-2565c35e1818' => [
+        'My recollection of a hundred lovely lakes has given me blessed release from care and worry and the troubled thinking of our modern day. It has been a return to the primitive and the peaceful.',
+        'Hamlin Garland',
     ],
-    [
-        'Joy is what happens to us when we allow ourselves to recognize how good things really are.',
-        'Marianne Williamson',
+    'b27cae7a-7ddc-5209-985c-96077e6b42b3' => [
+        'If you really look closely, most overnight successes took a long time.',
+        'Steve Jobs',
     ],
-    [
-        'Why hurry over beautiful things? Why not linger and enjoy them?',
-        'Clara Schumann',
+    'fcbee12d-2d61-5e44-a99f-8199450b6d21' => [
+        'The best migrant is the migrant who does not come.',
+        'Viktor Orban',
     ],
-    [
-        'The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.',
-        'Mark Zuckerberg',
+    '425bea08-6bc3-5ee5-a796-6f8c89879d26' => [
+        'Peace comes from within. Do not seek it without.',
+        'Buddha',
     ],
-    [
-        'One day, I got so disgusted that I sat down and wrote a list called \'Justin\'s list of things to do before he kicks the bucket.\' I wrote it for myself and shortened it to \'Justin\'s Bucket List.\' It was there on the wall, not as a story idea but as a motivational tool for myself, which actually ended up working pretty well.',
-        'Justin Zackham',
+    'b4f020a9-443d-522c-b52d-bf37c8513c77' => [
+        'Let us remember: One book, one pen, one child, and one teacher can change the world.',
+        'Malala Yousafzai',
     ],
-    [
-        'Football taught me how hard you had to work to achieve something.',
-        'Kenny Chesney',
+    '30501b45-d6e7-59bf-b966-26658ae88348' => [
+        'There are many little ways to enlarge your child\'s world. Love of books is the best of all.',
+        'Jackie Kennedy',
     ],
-    [
-        'I\'m all about your mindset, being focused, staying positive, being optimistic, and knowing that these are all aspects of my life that I love and enjoy.',
-        'Kyla Pratt',
+    '57550909-2778-532e-a77c-fcaba62321c1' => [
+        'Success consecrates the most offensive crimes.',
+        'Lucius Annaeus Seneca',
     ],
-    [
-        'All wealth is the product of labor.',
-        'John Locke',
+    'a70e553e-7add-5dc3-86aa-748ff1959f2d' => [
+        'It is impossible to persuade a man who does not disagree, but smiles.',
+        'Muriel Spark',
     ],
-    [
-        'To be successful you must accept all challenges that come your way. You can\'t just accept the ones you like.',
-        'Mike Gafka',
+    '7bd276d4-cd0e-5ffa-99a3-5ccd0b5a9963' => [
+        'Such is the nature of men, that howsoever they may acknowledge many others to be more witty, or more eloquent, or more learned; yet they will hardly believe there be many so wise as themselves.',
+        'Thomas Hobbes',
     ],
-    [
-        'Achievement is not always success, while reputed failure often is. It is honest endeavor, persistent effort to do the best possible under any and all circumstances.',
-        'Orison Swett Marden',
+    'b518e3f8-0d1e-5e17-b93a-48992547aacf' => [
+        'I was lucky. My family is wonderful. And it\'s funny, because most of my best friends come from very large families. So it always felt as if I had lots of siblings, though in the end I had to leave them and go home. I kind of got the best of both worlds as a kid.',
+        'Sophia Bush',
     ],
-    [
-        'The way positive reinforcement is carried out is more important than the amount.',
-        'B. F. Skinner',
+    '63b78cde-0541-5c2a-8cad-34c33fb3be38' => [
+        'Our family room, where we live, is about togetherness and ease. Nothing in my house is too formal. There are no coasters on tables; the kids can eat Popsicles on the couch if they want to. I let them ride these little cycles we got for them when they were 3 that have rubber wheels and no pedals.',
+        'Cindy Crawford',
     ],
-    [
-        'It\'s fine to celebrate success, but it is more important to heed the lessons of failure.',
-        'Bill Gates',
+    '93c6d880-5983-5976-bd90-092ce1d897b9' => [
+        'From my dad I learned to be good to people, to always be honest and straightforward. I learned hard work and perseverance.',
+        'Luke Bryan',
     ],
-    [
-        'My family is everything. They love me unconditionally.',
-        'Sofia Carson',
+    '5b8113b2-98eb-5221-ac26-a5ff9b0a2454' => [
+        'Certainly there are things in life that money can\'t buy, but it\'s very funny - Did you ever try buying them without money?',
+        'Ogden Nash',
     ],
-    [
-        'Our deep respect for the land and its harvest is the legacy of generations of farmers who put food on our tables, preserved our landscape, and inspired us with a powerful work ethic.',
-        'James H. Douglas, Jr.',
+    '6c6bc272-d6cd-5686-846e-dc78c3473826' => [
+        'I\'ve always been a big fan of time travel, and I\'m very into the notion that some day we\'ll be able to do it. Beam me up!',
+        'Scott Bakula',
     ],
-    [
-        'If I had been asked to write 1,200 words for a newspaper tomorrow, on any subject, I would just do it rather than leave a white hole in the page. And I think it\'s a very healthy attitude to take to writing anything.',
-        'Tom Stoppard',
+    'e68c2fd5-a913-5cf3-bc58-90bf13531bad' => [
+        'My real dream is to have a whole, like, buy a whole piece of land. Imagine, like, a long driveway. Like, a cul de sac-type street, with maybe, like, seven houses. Me be right here. Have my mom be able to be right here. My brother over here. My girl\'s grandmother and family right here. Friends over there. That\'s my real dream.',
+        'J. Cole',
     ],
-    [
-        'A man of ability and the desire to accomplish something can do anything.',
-        'Donald Kircher',
+    'e0f15015-f888-5159-b572-dce57d1d3596' => [
+        'My first book was called, \'Mountain, Get Out of My Way,\' where I did an autobiographical sketch, if you will, looking back at myself and looking back at things in my life, and juxtaposing them against things that are happening in other people\'s lives and trying to be motivational.',
+        'Montel Williams',
     ],
-    [
-        'My children and my husband make me smile. My work makes me smile.',
-        'Victoria Beckham',
+    'bd866292-dd49-57a0-9a81-cf2c6d450e00' => [
+        'Even if it turns out that time travel is impossible, it is important that we understand why it is impossible.',
+        'Stephen Hawking',
     ],
-    [
-        'I am two with nature.',
-        'Woody Allen',
+    'f9338de8-75a7-5fe9-a75d-10c8f42f145b' => [
+        'Things are beautiful or ugly only in time and space. The new man\'s vision being liberated from these two factors, all is unified in one unique beauty.',
+        'Piet Mondrian',
     ],
-    [
-        'When I was two and a half or three, my mom got a call from someone asking if wanted to go on an audition. I ended up getting the job; it was a commercial for Hasbro. It was my first audition and first commercial. I just had to smile and laugh and dance around.',
-        'Megan Charpentier',
+    '14d74530-3df9-584e-81c4-a0f6d0960c15' => [
+        'Lord, grant that I may always desire more than I can accomplish.',
+        'Michelangelo',
     ],
-    [
-        'If the stars should appear but one night every thousand years how man would marvel and adore.',
-        'Ralph Emerson',
-    ],
-    [
-        'I feel the older I get, the more I\'m learning to handle life. Being on this quest for a long time, it\'s all about finding yourself.',
-        'Ringo Starr',
-    ],
-    [
-        'The prevailing - and foolish - attitude is that a good manager can be a good manager anywhere, with no special knowledge of the production process he\'s managing. A man with a financial background may know nothing about manufacturing shoes or cars, but he\'s put in charge anyway.',
-        'W. Edwards Deming',
-    ],
-    [
-        'If you don\'t like how things are, change it! You\'re not a tree.',
+    'bf4c2503-750c-5bf9-8c1f-f7986d5eff6c' => [
+        'Just as a candle cannot burn without fire, men cannot live without a spiritual life.',
         'Jim Rohn',
     ],
-    [
-        'I keep my beauty regimen as natural as possible. I wash my face four times a day. In the beginning of the day, I use an exfoliating cleanser made of besan, turmeric and sandalwood. I drink lots of water and avoid oily food. I use only The Body Shop products on my face, as they use the least amount of chemicals.',
-        'Tena Desae',
+    'cc630740-793e-5540-8abf-62e19ffcb5d7' => [
+        'I had a strong vision for \'The Best Man Holiday,\' so I was able to translate that to the actors and ultimately to the screen. Things can\'t get too heavy or too outrageously funny; it has to strike a balance. Tone is everything. If you\'ve set the right tone, you can get away with a lot of stuff. You can get away with making people cry.',
+        'Malcolm D. Lee',
     ],
-    [
-        'While positive mental states may be associated with less stress and more resilience to infection, positive well-being might also be accompanied by a healthy lifestyle.',
-        'Michael Greger',
+    '9d821879-c3d3-5c9b-a2d8-f74e0e409527' => [
+        'I enjoy punk, the attitude as well as the music, but I don\'t feel like I have to be a carbon copy of it and invite all this controversy just to be punk rock.',
+        'Hayley Williams',
+    ],
+    'cf6fd2b4-6be4-5e48-8c3d-f77f6689d1a9' => [
+        'Without hurting anybody, we all tend to laugh at others\' discomfort. When someone slips on a banana skin and falls it\'s funny.',
+        'Shah Rukh Khan',
+    ],
+    'd6d07da7-aa8f-5fb8-945e-c22653bfad3f' => [
+        'This magnificent butterfly finds a little heap of dirt and sits still on it; but man will never on his heap of mud keep still.',
+        'Joseph Conrad',
+    ],
+    '643a56df-26f5-536a-876b-ecff8d805200' => [
+        'Men were not intended to work with the accuracy of tools, to be precise and perfect in all their actions.',
+        'John Ruskin',
     ],
 ];

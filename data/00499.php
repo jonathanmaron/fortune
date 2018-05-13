@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I never smile when I have a bat in my hands. That\'s when you\'ve got to be serious. When I get out on the field, nothing\'s a joke to me. I don\'t feel like I should walk around with a smile on my face.',
-        'Hank Aaron',
+    '0553a8b8-7eb1-50a7-a8ea-e276d45b88f5' => [
+        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
+        'Jim Rohn',
     ],
-    [
-        'I hope \'The Voice\' has a fifteen-year run, don\'t get me wrong. But I come from nothing, and maybe it\'s the Irish in me, but my attitude is always like, \'They\'ll figure me out soon.\'',
-        'Carson Daly',
+    'fedcc4e5-18a5-522d-aa1d-e504084c7436' => [
+        'Gay culture is surviving and thriving. Some activists believe the recent rise in homophobic violence might be a gauge of the success of positive gay images.',
+        'Lance Loud',
     ],
-    [
-        'To accomplish great things, we must dream as well as act.',
-        'Anatole France',
+    '454fb565-b0a9-5583-8de9-f8aca1d65cab' => [
+        'It is not length of life, but depth of life.',
+        'David Attenborough',
     ],
-    [
-        'Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time',
-        'Thomas Edison',
+    'ec35732c-d168-5afd-ad2a-58b44a1d9ae6' => [
+        'Time extracts various values from a painter\'s work. When these values are exhausted the pictures are forgotten, and the more a picture has to give, the greater it is.',
+        'Henri Matisse',
     ],
-    [
-        'Bring diversity back to agriculture. That\'s what made it work in the first place.',
-        'David R. Brower',
+    '3b36227e-0ce6-5437-a6ec-07dd5e15d484' => [
+        'There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.',
+        'Ella Wheeler Wilcox',
     ],
-    [
-        'Life\'s tragedy is that we get old too soon and wise too late.',
-        'Ella Woodward',
+    '6cbb4cc8-a7b5-5f02-86ed-92e0c4423153' => [
+        'People deal too much with the negative, with what is wrong. Why not try and see positive things, to just touch those things and make them bloom?',
+        'Nhat Hanh',
     ],
-    [
-        'I would love to be remembered as a wonderfully dynamic and multitalented actress who left a legacy through her work and through her life of helping people and of being a positive force in the world.',
-        'Keshia Knight Pulliam',
+    '6f694ae8-c06f-580c-b380-a0319a2a2928' => [
+        'The greatest glory in living lies not in never falling, but in rising every time we fall.',
+        'Ralph Waldo Emerson',
     ],
-    [
-        'I\'ve never gone into business to make money. Every Virgin product and service has been made into a reality to make a positive difference in people\'s lives. And by focusing on the happiness of our customers, we have been able to build a successful group of companies.',
-        'Richard Branson',
+    'b6733bb8-5dcf-5000-9797-858e0c59b69b' => [
+        'We can bring positive energy into our daily lives by smiling more, talking to strangers in line, replacing handshakes with hugs, and calling our friends just to tell them we love them.',
+        'Brandon Jenner',
     ],
-    [
-        'I just want to make people smile.',
-        'Julie Garwood',
+    'f7b44075-beff-58c3-965b-48b37203f887' => [
+        'I have met so many people who are negative, and it tells on their attitude towards life and towards everything.',
+        'Phaneesh Murthy',
     ],
-    [
-        'Every city across the country that has successfully renewed and revitalized itself points to a robust education system as its fundamental key to success.',
-        'Alan Autry',
+    '9565e7b2-c281-5ac2-9ca8-24e19933c279' => [
+        'I believe our legacy will be defined by the accomplishments and fearless nature by which our daughters and sons take on the global challenges we face. I also wonder if perhaps the most lasting expression of one\'s humility lies in our ability to foster and mentor our children.',
+        'Naveen Jain',
     ],
-    [
-        'I was a disadvantaged child from a non-educated family, yet I had the advantage of being in the company of great teachers.',
-        'A. P. J. Abdul Kalam',
+    '54ef8491-2257-5249-8874-0fd740cfc05b' => [
+        'I am thankful for all the blessings and talents I have been given, but most of all I am thankful for my loving and supportive family.',
+        'Olivia Holt',
     ],
-    [
-        'Every great advance in science has issued from a new audacity of the imagination.',
-        'John Dewey',
+    '35aaf4cc-1080-5289-9d05-5f214928b07f' => [
+        'To be able to make a good living in a challenging medium like soap operas is great. The best is that I get to act and am rewarded for it. And the people I work with are great. Funny, intelligent, hard working. They\'re all great to be around.',
+        'David Canary',
     ],
-    [
-        'Here\'s the funny thing about the response I\'ve been aware of to my dating famous people: It\'s been very negative. I\'m either not good-looking enough, not a good enough actor or not successful enough for these people.',
-        'Dax Shepard',
+    'c6d6a0e5-f631-5d8b-9c36-9de9d0cb45dc' => [
+        'When you realize who the good people are in your life, you\'re so lucky.',
+        'Brian Baumgartner',
     ],
-    [
-        'Surround yourself with good people. Whether they\'re the best or not, people are capable of learning if they\'ve got good hearts and they\'re good souls.',
-        'Kid Rock',
+    '9eec3e7a-1eaa-5a7b-91cb-a9bb41c96fb5' => [
+        'I consider myself someone who takes a lot of beauty risks, and I\'ve realized what I liar I am. I change my hair a lot, from blue to blonde to bald, but I\'m trying to branch out a little more with makeup.',
+        'Halsey',
     ],
-    [
-        'Tell the truth, work hard, and come to dinner on time.',
-        'Gerald R. Ford',
+    '1d8c742e-0af5-5e8f-8e9b-987304a9e602' => [
+        'Majorities, as such, afford no guarantees for justice. They are men of the same nature as minorities. They have the same passions for fame, power, and money, as minorities; and are liable and likely to be equally - perhaps more than equally, because more boldly - rapacious, tyrannical and unprincipled, if intrusted with power.',
+        'Lysander Spooner',
     ],
-    [
-        'I was fortunate to play for Pete Rose and have teammates like Ken Griffey Sr., Tony Perez and Dave Concepcion. I grew up in the game with a mature attitude. I\'ve always known it was better to be seen and not heard.',
-        'Eric Davis',
+    '3caace20-9bd3-5f19-902b-004260956dcb' => [
+        'Spending time with America\'s soldiers is always inspiring.',
+        'John Boehner',
     ],
-    [
-        'Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity',
-        'Louis Pasteur',
+    'c837dda6-360e-584b-8f12-3f4f102bf159' => [
+        'For American foreign aid to become more effective, it must embrace the power of partnerships, access the transformative nature of free enterprise, and leverage the abundant resources that can come from the private sector.',
+        'Mitt Romney',
     ],
-    [
-        'Time is the most valuable thing a man can spend.',
-        'Theophrastus',
+    '824303b6-2f99-50c2-97c6-3180bbc754fe' => [
+        'In inner-city, low-income communities of color, there\'s such a high correlation in terms of educational quality and success.',
+        'Bill Gates',
     ],
-    [
-        'Sometimes it is better to lose and do the right thing than to win and do the wrong thing.',
-        'Tony Blair',
+    '3078c44d-795b-58a7-8f00-1fd21e27080e' => [
+        'The happiness of a man in this life does not consist in the absence but in the mastery of his passions.',
+        'Alfred Tennyson',
     ],
-    [
-        'Strive not to be a success, but rather to be of value.',
-        'Albert Einstein',
+    'e08bdf5e-10a0-5553-b986-bd48d712f193' => [
+        'The greatest thing about where my life is right now is it\'s very relaxed and chill. I\'m just hanging out, being myself and doing my work.',
+        'Lucas Grabeel',
     ],
-    [
-        'There is no glory in star or blossom till looked upon by a loving eye; There is no fragrance in April breezes till breathed with joy as they wander by.',
-        'William C. Bryant',
+    '4e5fa8d0-1e64-52d3-9c18-6ca94705130b' => [
+        'Success to me is having ten honeydew melons and eating only the top half of each slice.',
+        'Barbra Streisand',
     ],
-    [
-        'I can\'t go into a mob scene and sense the mood and the attitude of the crowd. I can\'t conduct man-on-the-street interviews or even get reactions that I can be sure are honest, because they know who I am.',
-        'Walter Cronkite',
+    '9ed531e4-da55-591c-8628-8b9545710bc7' => [
+        'Throwing out preclearance when it has worked and is continuing to work to stop discriminatory changes is like throwing away your umbrella in a rainstorm because you are not getting wet.',
+        'Ruth Bader Ginsburg',
     ],
-    [
-        'Happiness depends upon ourselves.',
-        'Aristotle',
+    '4c8c9b66-979d-5dfc-9245-e53fe79a253e' => [
+        'My success comes in making fun of whatever you\'re doing. That\'s my way.',
+        'Kevin Hart',
     ],
-    [
-        'I have no fear of making changes, destroying the image, etc., because the painting has a life of its own.',
-        'Bill Shankly',
+    '3d9a5c8a-928e-5f02-bf0c-d3c9152cf15f' => [
+        'Mother Nature is always speaking. She speaks in a language understood within the peaceful mind of the sincere observer. Leopards, cobras, monkeys, rivers and trees; they all served as my teachers when I lived as a wanderer in the Himalayan foothills.',
+        'Radhanath Swami',
     ],
-    [
-        'I think what it takes to succeed remains the same. You have to have a real love of your sport to carry you through all the bad times, you still want to go ski even when things aren\'t working. You must have a commitment to work hard and to never give up.',
-        'Nancy Greene',
+    '4805d4bb-2ba6-5843-b24b-62f2845795af' => [
+        'Life opens up opportunities to you, and you either take them or you stay afraid of taking them.',
+        'Elizabeth Barrett Browning',
     ],
 ];

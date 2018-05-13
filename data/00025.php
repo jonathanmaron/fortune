@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'When it comes to the things that people really want in science fiction - like space travel - the simplest things end up causing them not to happen. Humans are 100-pound bags of water, built to live on Earth.',
-        'Lawrence M. Krauss',
+    '21411e2c-9c7b-53b3-ac24-c64129497456' => [
+        'The fear of life is the favorite disease of the 20th century.',
+        'Sylvia Plath',
     ],
-    [
-        '\'Fast Life\' is just about going out with your friends and having a good time - I think it\'s one of those songs that people can relate with and like.',
-        'Joe Jonas',
+    '0fdaaba2-94d4-55bd-91df-536f28f59cd9' => [
+        'Work for something because it is good, not just because it stands a chance to succeed.',
+        'Vaclav Havel',
     ],
-    [
-        'If the shoe doesn\'t fit, must we change the foot?',
-        'Gloria Steinem',
+    'c69a041c-6b71-50df-9b88-407d526e7a4c' => [
+        'The greatest remedy for anger is delay.',
+        'Seneca',
     ],
-    [
-        'I don\'t dwell on success. Maybe that\'s one reason I\'m successful.',
-        'Calvin Klein',
+    '5881bbd6-5d83-5e7f-9de7-ca1a19b1abce' => [
+        'The same way that I practiced the violin, the same way that I practiced my dance moves, I decided that I was going to practice being positive and practice loving myself.',
+        'Lindsey Stirling',
     ],
-    [
-        'Mother Nature may be forgiving this year, or next year, but eventually she\'s going to come around and whack you. You\'ve got to be prepared.',
-        'Geraldo Rivera',
+    '94436021-b584-5614-946e-3369a5c5422b' => [
+        'The crest and crowning of all good, Life\'s final star, is brotherhood.',
+        'Kenneth H. Cooper',
     ],
-    [
-        'I don\'t think there\'s just one person for everyone. It would be very hard for me to be with a guy who was not bright or funny. And he\'d have to see the absurdities of the world, not exactly as I see them necessarily.',
-        'Erica Jong',
+    'b5b895c5-68d0-5459-88d4-fe803a79abf2' => [
+        'My great hope is to laugh as much as I cry; to get my work done and try to love somebody and have the courage to accept the love in return.',
+        'Maya Angelou',
     ],
-    [
-        'I had everything I\'d hoped for, but I wasn\'t being myself. So I decided to be honest about who I was. It was strange: The people who loved me for being funny suddenly didn\'t like me for being... me.',
-        'Ellen DeGeneres',
+    '9263f17d-c399-54f9-99f8-31126a7dad55' => [
+        'Life is the flower for which love is the honey.',
+        'Amisha Patel',
     ],
-    [
-        'The beauty of our country is that when it was founded that they took some time to lay out civil liberties in the first 10 Amendments - the Bill of Rights. I\'m a firm believer in those civil liberties and the ability to have your own opinion.',
-        'Aaron Rodgers',
+    'e6fa2ab9-1519-5b61-8c6a-5fb95407a8e2' => [
+        'Travelers are always discoverers, especially those who travel by air. There are no signposts in the sky to show a man has passed that way before. There are no channels marked. The flier breaks each second into new uncharted seas.',
+        'Anne Morrow Lindbergh',
     ],
-    [
-        'A good traveller is one who does not know where he is going to, and a perfect traveller does not know where he came from.',
-        'Lin Yutang',
+    '7819721f-8349-592d-a080-dc4bc1850fae' => [
+        'The best music happens when you have a personal connection to it. That same philosophy can extend to the instrument you hold in your hands: if a guitar means something special, you\'re bound to do great things with it.',
+        'Frank Iero',
     ],
-    [
-        'Success is the sum of small efforts - repeated day in and day out.',
-        'Robert Collier',
+    '1ed7ab4c-55c2-562a-958b-86c2b3549674' => [
+        'It\'s funny, because I\'ve never thought of myself as a Hispanic actor, like in \'American Gangster,\' I\'m playing an Italian. I\'ve always been fortunate enough to have been allowed to play all these diverse roles.',
+        'Yul Vazquez',
     ],
-    [
-        'I love fools\' experiments. I am always making them.',
-        'Charles Darwin',
+    'a43d3d51-acd1-54a3-8c52-4a4c7252533a' => [
+        'I think with my journey so far, it never felt like an overwhelming, overnight success story. I think that\'s good for me because I really got to take my time.',
+        'Tori Kelly',
     ],
-    [
-        'It would be impossible to estimate how much time and energy we invest in trying to fix, change and deny our emotions - especially the ones that shake us at our very core, like hurt, jealousy, loneliness, shame, rage and grief.',
-        'Debbie Ford',
+    '2168277f-abfa-5611-abe9-d0e8a837ae0a' => [
+        '\'Tropic Thunder\' is one of my favorite movies of all time. \'Blazing Saddles.\' Anything that will get me to smile.',
+        'John Cena',
     ],
-    [
-        'Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.',
-        'Madame de Stael',
+    'b26c9925-3def-512c-b846-72bb391ae044' => [
+        'Dear disgruntled artists: the key to success isn\'t kicking down the door; it\'s building your own.',
+        'Brian Celio',
     ],
-    [
-        'Don\'t settle for a relationship that won\'t let you be yourself.',
-        'Oprah Winfrey',
+    '52187530-fa68-58a8-bb2b-3aeb9a499b46' => [
+        'I don\'t want to be in a position that could make me vomit, like air travel. I\'ve purloined airsick bags and stuffed them everywhere, just in case I ever feel the need to throw up. I haven\'t vomited since 1977, but I think about it all the time. I recognize that it\'s irrational, but I\'d rather jump out of a window than vomit.',
+        'Scott Stossel',
     ],
-    [
-        'Love the moment and the energy of that moment will spread beyond all boundaries.',
-        'Corita Kent',
+    '30aea31a-0b1f-5476-9f0f-d7c4a9daf24b' => [
+        'Be proud of your Latino culture and do the best work you can do, and you will always succeed.',
+        'Lionel Sosa',
     ],
-    [
-        'My ideal travel companions are my family.',
-        'Pharrell Williams',
+    'aa64931e-af04-5a51-b91f-41de371d1b82' => [
+        'Every day, people serve their neighbors and our nation in many different ways, from helping a child learn and easing the loneliness of those without a family to defending our freedom overseas. It is in this spirit of dedication to others and to our country that I believe service should be broadly and deeply encouraged.',
+        'John McCain',
     ],
-    [
-        'I am not bound for any public place, but for ground of my own where I have planted vines and orchard trees, and in the heat of the day climbed up into the healing shadow of the woods.',
-        'Wendell Berry',
+    '168c604e-d6ec-5d18-916c-1032ece57298' => [
+        'You don\'t think about the cold weather. I\'m just going to go out and play ball, do the best I can, and hope the team wins.',
+        'Mickey Rivers',
     ],
-    [
-        'The most common way people give up their power is by thinking they don\'t have any.',
-        'Alice Walker',
+    'b1543cd1-24f8-5ee4-ab74-23af6d528051' => [
+        'Lay this unto your breast: Old friends, like old swords, still are trusted best.',
+        'John Webster',
     ],
-    [
-        'Smile, breathe and go slowly.',
-        'Thich Nhat Hanh',
+    'cf4150d2-2630-5ff7-88da-556f580e4fe2' => [
+        'Numberless are the worlds wonders, but none more wonderful than man.',
+        'Sophocles',
     ],
-    [
-        'I think that one of the main privileges of what I do, which I am just starting to learn, is to have the ability to travel all over the world and experience different cultures.',
-        'Chris Cornell',
+    '1fa53455-fc12-51ab-8de1-3529a3017bef' => [
+        'Courage is resistance to fear, master of fear, not absence of fear',
+        'Mark Twain',
     ],
-    [
-        'It\'s only I have seen enough of it and the funny thing is now, I know that I\'m skinny, because I know there are even smaller clothes in the store. I think I\'m big, when I was big, I never thought about it.',
-        'Karl Lagerfeld',
+    '551fec1f-552a-595d-94be-128446bc1cca' => [
+        'I\'ve failed over and over and over again in my life and that is why I succeed.',
+        'Michael Jordan',
     ],
-    [
-        'In the case of Iraq, notwithstanding the violence there at the moment, the very fact that a hideous regime - responsible for genocide, for the use of chemical and biological weapons, aggression against two neighbors - has been removed in itself is a positive development.',
-        'Jose Ramos-Horta',
+    'a9736e06-ecc3-53dc-a7d3-140a8f3e6464' => [
+        'It doesn\'t matter whether you are pursuing success in business, sports, the arts, or life in general: The bridge between wishing and accomplishing is discipline.',
+        'Harvey Mackay',
     ],
-    [
-        'No matter what I put out, somebody will be offended. I made a video on 10 reasons to smile, and it has dislikes. That should be an indication that there will be some who get offended no matter what you do. The best you can do as an entertainer or as someone who performs is to follow what you believe in.',
-        'Lilly Singh',
+    '6564ada0-ad8d-5ca5-afdb-08db31b482d9' => [
+        'To fly as fast as thought, you must begin by knowing that you have already arrived.',
+        'Richard Bach',
     ],
-    [
-        'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
-        'Patricia Sun',
+    '5c42cf71-1ed4-5987-a236-2696992bd509' => [
+        'I\'m one of those guys that - as far as relationships and stuff go - if you smile at me, I\'m like, \'Let\'s date for three years\' - which is just ridiculous.',
+        'Norman Reedus',
     ],
-    [
-        'When something is important enough, you do it even if the odds are not in your favor.',
-        'Elon Musk',
+    'c4e2e490-ee98-5752-8e8c-e4352269f4cc' => [
+        '\'Healing,\' Papa would tell me, \'is not a science, but the intuitive art of wooing nature.\'',
+        'W. H. Auden',
     ],
 ];

@@ -1,104 +1,104 @@
 <?php
 
 return [
-    [
-        'I love Motown, that whole era. Marvin Gaye, Smokey Robinson. I just put on Pandora, and put it on Motown, and it makes me smile; makes me smile so much.',
-        'Tika Sumpter',
+    'cd0714a4-3b0a-5989-8089-99559207173c' => [
+        'When you take a flower in your hand and really look at it, it\'s your world for the moment. I want to give that world to someone else. Most people in the city rush around so, they have no time to look at a flower. I want them to see it whether they want to or not.',
+        'Georgia O\'Keeffe',
     ],
-    [
-        'We have all met people that act \'old\' or think a number makes them old, and I truly don\'t believe that is the case. If you have a good attitude toward aging, and you do what you can to live healthy and take care of yourself, I don\'t think the number matters.',
-        'Tabatha Coffey',
+    'd1edfa05-f917-5ed0-a661-1e222f481d81' => [
+        'The way of a superior man is three-fold: virtuous, he is free from anxieties; wise, he is free from perplexities; bold, he is free from fear.',
+        'Confucius',
     ],
-    [
-        'Neither the Christian attitude of love for all mankind nor humane hopes for an organized society must cause us to forget that the \'human stratum\' may not be homogeneous.',
-        'Pierre Teilhard de Chardin',
+    '27262b59-68ce-51ed-a7da-f110f8f1ed13' => [
+        'Ignorant men don\'t know what good they hold in their hands until they\'ve flung it away.',
+        'Sophocles',
     ],
-    [
-        'Frost is the greatest artist in our clime - he paints in nature and describes in rime.',
-        'Thomas Hood',
+    'e7bd84d6-a409-5cad-8428-42b0802cf571' => [
+        'The reason \'The Carol Burnett Show\' did so well in the ratings is because people were looking for that comfort zone when the whole family sat around and watched television and enjoyed it.',
+        'Tim Conway',
     ],
-    [
-        'To finally become world champion after losing out in three previous finals is very satisfying. It shows that if you stick to your goals and work hard, you can achieve them in the end.',
-        'Nicola Adams',
+    '9e312f31-98d0-5f38-bf04-57755ad38d7a' => [
+        'Laughter is involuntary. If it\'s funny you laugh.',
+        'Tom Lehrer',
     ],
-    [
-        'The place to improve the world is first in one\'s own heart and head and hands.',
-        'Robert M. Pirsig',
+    '352c613c-d4de-5815-9e0a-4b67f2f0335d' => [
+        'When you think positive, good things happen.',
+        'Matt Kemp',
     ],
-    [
-        'Do not look for approval except for the consciousness of doing your best.',
-        'Andrew Carnegie',
+    '7b58fcc2-779f-5a4e-b9da-2bd8af789fb6' => [
+        'Sweet April showers do spring May flowers.',
+        'Thomas Tusser',
     ],
-    [
-        'When you travel around Moscow, you can see almost every car is using a smartphone where they can see what\'s ahead of them.',
-        'Arkady Volozh',
+    'b0450d31-3dab-5e53-8bcd-107ba9aa8b1f' => [
+        'If you manifest your true self through nature and your normal surroundings, I find that the most eerie. Like when you see birds suddenly start flying in a different direction or when you see moths forming weird shapes, I think that\'s the weirdest way to let yourself be known.',
+        'Holland Roden',
     ],
-    [
-        'When you grow up by the sea, you spend a good deal of time looking at the horizon. You wonder what on Earth the waves might bring - and where the sea might deposit you - until one day you know you have lived between two places, the scene of arrival and the point of departure.',
-        'Andrew O\'Hagan',
+    '927cffb3-db83-5cc6-91df-6f92bdbdc3c3' => [
+        'It is in the character of very few men to honor without envy a friend who has prospered.',
+        'Aeschylus',
     ],
-    [
-        'I wanted to have the opportunity to travel to Vietnam and Sydney, and have the chance to work there.',
-        'Brendan Fraser',
+    '3ac26a0e-10b4-5393-a3f9-519bc1afbf3e' => [
+        'When the soul looks out of its body, it should see only beauty in its path. These are the sights we must hold in mind, in order to move to a higher place.',
+        'Yusef Lateef',
     ],
-    [
-        'Rome is the city of echoes, the city of illusions, and the city of yearning.',
-        'Giotto di Bondone',
+    '77d7339c-5beb-502b-96ee-d892d104e6bf' => [
+        'Stem cell research holds enormous promise for easing human suffering, and federal support is critical to its success.',
+        'Tom Harkin',
     ],
-    [
-        'I never smoked. I never drank and I never took drugs. The funny thing is, nothing is more boring, people like this. For me, it\'s OK. But most of my friends, at least they smoke and drink.',
-        'Karl Lagerfeld',
+    '6bdb4056-b6bd-5b0b-9723-65a5cd2b55c8' => [
+        'The single most important thing in a child\'s performance is the quality of the teacher. Making sure a child spends the maximum amount of time with inspirational teachers is the most important thing.',
+        'Michael Gove',
     ],
-    [
-        'Music was always heavily involved with my spirit. My entire family is Jamaican. It\'s nothing but reggae music and those kinds of vibes.',
-        'Shameik Moore',
+    '62b6688a-271f-578f-aba3-013eb2be420a' => [
+        'Women are, in my view, natural peacemakers. As givers and nurturers of life, through their focus on human relationships and their engagement with the demanding work of raising children and protecting family life, they develop a deep sense of empathy that cuts through to underlying human realities.',
+        'Daisaku Ikeda',
     ],
-    [
-        'I\'m a very driven, ambitious, positive person. But I\'m a spiritual person as well.',
-        'Victoria Beckham',
+    'e214bda5-3f2b-511b-8829-2a8f38315e7d' => [
+        'When I go to a bar, I don\'t go looking for a girl who knows the capital of Maine.',
+        'David Brenner',
     ],
-    [
-        'The scientific observer of Nature is a kind of mystic seeker in the act of prayer.',
-        'Muhammad Iqbal',
+    '92d6948a-818f-5fa4-8d60-5181222fe7f5' => [
+        'Instant gratification takes too long.',
+        'Carrie Fisher',
     ],
-    [
-        'I believe in entrepreneurs. I believe in their ability to make positive change in the world.',
-        'Jessica Jackley',
+    '1e47ac23-de17-596a-b226-401cca942903' => [
+        'I\'m a greater believer in luck, and I find the harder I work the more I have of it.',
+        'Thomas Jefferson',
     ],
-    [
-        'The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it.',
-        'Elbert Hubbard',
+    '67ea521a-3ba1-5bd6-843d-10b997fb63d4' => [
+        'It\'s not too good to have this attitude in F1. It could be a disadvantage.',
+        'Alain Prost',
     ],
-    [
-        'The best marriages are the ones where we can go out in the world and really put ourselves out there. A lot of times we\'ll fail, and sometimes we\'ll pull it off. But good marriages are when you can go home and know that your vulnerability will be honored as courage, and that you\'ll find support.',
-        'Brene Brown',
+    'bbc9788b-6ffc-5c19-a23f-23016fb37711' => [
+        'I started doing motivational tours. I\'ve seen all kinds of people, from the CEOs to the lowest executive, opening up to their fears. We don\'t introspect as much as we should.',
+        'Anupam Kher',
     ],
-    [
-        'I\'m terrified of bugs and I travel with sprays, lotions, potions; the lot. I have to check the room before I go to sleep and if I come across a bug and fail to remove it I have to sleep in a separate room as I\'m paranoid that I\'ll be taken advantage of as I sleep.',
-        'Freema Agyeman',
+    '390673a0-b6e0-5839-9859-3b534f749cb9' => [
+        'Advice from my experience, for me, I\'ve never taken no as an answer, I don\'t believe in that. If I want something, I\'m going to get it. When people tell me that I can\'t do something, it just motivates me more. For me, it makes me smile, because I just want to prove everybody wrong.',
+        'Roman Reigns',
     ],
-    [
-        'If I\'m honest I have to tell you I still read fairy-tales and I like them best of all.',
-        'Audrey Hepburn',
+    'a1e4548d-1f26-599d-8c03-7bf494694c34' => [
+        'Trees love to toss and sway; they make such happy noises.',
+        'Emily Carr',
     ],
-    [
-        'Children are the keys of paradise.',
-        'Eric Hoffer',
+    '7d4b24f5-e1b3-5ac5-82dc-d26f4949be6f' => [
+        'What is a weed? A plant whose virtues have not yet been discovered.',
+        'Ralph Emerson',
     ],
-    [
-        "There are three rules.\n1. If you do not go after what you want, you will never have it.\n2. If you do not ask, the answer will always be no.\n3. If you do not step forward, you will remain in the same place.",
-        'Unknown',
+    '0bb854a8-637d-59d5-af40-ff81842d721e' => [
+        'If I were two-faced, would I be wearing this one?',
+        'Abraham Lincoln',
     ],
-    [
-        'I think the chance of finding beauty is higher if you don\'t work on it directly. Beauty in architecture is driven by practicality. This is what you learn from studying the old townscapes of the Swiss farmers.',
-        'Peter Zumthor',
+    '2ca9c4d4-381c-572a-9421-3ba7f6af9ee9' => [
+        'The sea, once it casts its spell, holds one in its net of wonder forever.',
+        'Jacques Yves Cousteau',
     ],
-    [
-        'Wondrous is the strength of cheerfulness, and its power of endurance - the cheerful man will do more in the same time, will do it; better, will preserve it longer, than the sad or sullen.',
-        'Thomas Carlyle',
+    '4554085b-e8c9-5c99-9583-e7935b1d2b33' => [
+        'Nothing is more memorable than a smell. One scent can be unexpected, momentary and fleeting, yet conjure up a childhood summer beside a lake in the mountains.',
+        'Diane Ackerman',
     ],
-    [
-        'I knew I was an unwanted baby when I saw that my bath toys were a toaster and a radio.',
-        'Joan Rivers',
+    '099e8b0f-5251-59b2-a391-a5bbe0368c66' => [
+        'My work is all about adventure and teamwork in some of the most inhospitable jungles, mountains and deserts on the planet. If you aren\'t able to look after yourself and each other, then people die.',
+        'Bear Grylls',
     ],
 ];
