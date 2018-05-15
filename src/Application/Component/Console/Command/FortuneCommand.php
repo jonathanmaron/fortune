@@ -12,16 +12,16 @@ use Symfony\Component\Console\Terminal;
 
 class FortuneCommand extends AbstractCommand
 {
-    private const WORDWRAP_MIN = 0;
+    private const TERMINAL_WIDTH    = 80;
 
-    private const WORDWRAP_MAX = 160;
+    private const WORDWRAP_DISABLED = 0;
+
+    private const WORDWRAP_MIN      = 5;
 
     use LockableTrait;
 
     protected function configure()
     {
-        $terminal = new Terminal();
-
         $this->setName('fortune');
 
         $this->setDescription('Unix-style fortune program that displays a random quotation.');
@@ -30,7 +30,7 @@ class FortuneCommand extends AbstractCommand
         $shortcut    = 'w';
         $mode        = InputOption::VALUE_REQUIRED;
         $description = 'Wordwrap at n th character. Disable with 0.';
-        $default     = $terminal->getWidth() - 1;
+        $default     = $this->getWordwrapDefault();
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
@@ -48,20 +48,23 @@ class FortuneCommand extends AbstractCommand
 
         if (!is_numeric($wordwrap)) {
             $format  = '--wordwrap must be a digit between %s and %s';
-            $message = sprintf($format, self::WORDWRAP_MIN, self::WORDWRAP_MAX);
+            $message = sprintf($format, self::WORDWRAP_MIN, $this->getWordwrapDefault());
             throw new InvalidArgumentException($message);
         }
 
-        if ($wordwrap < self::WORDWRAP_MIN) {
-            $format  = '--wordwrap must be greater than or equal to %s.';
-            $message = sprintf($format, self::WORDWRAP_MIN);
-            throw new InvalidArgumentException($message);
-        }
+        if ($wordwrap > self::WORDWRAP_DISABLED) {
 
-        if ($wordwrap > self::WORDWRAP_MAX) {
-            $format  = '--wordwrap must be less than or equal to %s.';
-            $message = sprintf($format, self::WORDWRAP_MAX);
-            throw new InvalidArgumentException($message);
+            if ($wordwrap < self::WORDWRAP_MIN) {
+                $format  = '--wordwrap must be greater than or equal to %s.';
+                $message = sprintf($format, self::WORDWRAP_MIN);
+                throw new InvalidArgumentException($message);
+            }
+
+            if ($wordwrap > $this->getWordwrapDefault()) {
+                $format  = '--wordwrap must be less than or equal to %s.';
+                $message = sprintf($format, $this->getWordwrapDefault());
+                throw new InvalidArgumentException($message);
+            }
         }
 
         return $this;
@@ -71,11 +74,12 @@ class FortuneCommand extends AbstractCommand
     {
         $wordwrap = $input->getOption('wordwrap');
 
-        $array  = $this->getFortune()->getRandomFortune();
-        $quote  = $array[0];
-        $author = sprintf('    — %s', $array[1]);
+        $fortune = $this->getFortune()->getRandomFortune();
 
-        if ($wordwrap > self::WORDWRAP_MIN) {
+        $quote  = $fortune[0];
+        $author = sprintf('    — %s', $fortune[1]);
+
+        if ($wordwrap > self::WORDWRAP_DISABLED) {
             $quote  = wordwrap($quote, $wordwrap);
             $author = wordwrap($author, $wordwrap);
         }
@@ -88,5 +92,20 @@ class FortuneCommand extends AbstractCommand
         $output->writeln($lines);
 
         return $this;
+    }
+
+    private function getWordwrapDefault()
+    {
+        $terminal = new Terminal();
+
+        $width = $terminal->getWidth();
+
+        if ($width > 0) {
+            $width--;
+        } else {
+            $width = self::TERMINAL_WIDTH;
+        }
+
+        return $width;
     }
 }
