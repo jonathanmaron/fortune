@@ -8,18 +8,6 @@ class Fortune
 {
     private $path;
 
-    public function getPath()
-    {
-        return $this->path;
-    }
-
-    public function setPath($path)
-    {
-        $this->path = $path;
-
-        return $this;
-    }
-
     public function getRandomFortune()
     {
         $stack = include $this->getRandomFilename();
@@ -41,6 +29,18 @@ class Fortune
         }
 
         return $stack[array_rand($stack)];
+    }
+
+    public function getPath()
+    {
+        return $this->path;
+    }
+
+    public function setPath($path)
+    {
+        $this->path = $path;
+
+        return $this;
     }
 
     public function getFortunes()

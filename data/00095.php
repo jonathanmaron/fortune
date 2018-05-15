@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'c0eeebc3-6acb-5f56-8389-a15c435d76ae' => [
-        'You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.',
-        'Walt Disney',
+    '44f5078c-76d1-547a-b00a-a9c54890f6ca' => [
+        'People will travel anywhere for good food - it\'s crazy.',
+        'Rene Redzepi',
     ],
-    'c0cca475-d79f-57b1-8091-aea46cd61769' => [
-        'Teaching man his relatively small sphere in the creation, it also encourages him by its lessons of the unity of Nature and shows him that his power of comprehension allies him with the great intelligence over-reaching all.',
-        'Annie Jump Cannon',
+    '04b44e88-81ea-58b2-9e56-3817230c1a4a' => [
+        'With the coming of spring, I am calm again.',
+        'Gustav Mahler',
     ],
-    '941d08ef-cfd2-54c9-baee-13128e3b7adc' => [
-        'Earth and sky, woods and fields, lakes and rivers, the mountain and the sea, are excellent schoolmasters, and teach some of us more than we can ever learn from books.',
-        'John Lubbock',
+    'a27113f2-fd2e-56e5-89b3-0cdfc01f40d5' => [
+        'The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.',
+        'Edward Ericson',
     ],
-    'd33aa594-a006-5bd2-99d1-1b57b4f1913f' => [
-        'If you don\'t read it, you don\'t know. I mean, that\'s why I have a PR team. They read it and tell me if there\'s something, and that keeps you focused. I know my family and me well enough; why do I need to read about myself? I\'m not going to change, I\'m very stubborn in this way. I am what I am.',
-        'Anne Wojcicki',
+    '8fe1087e-c001-59dc-b5b8-0024f0e7aaac' => [
+        'The world is a country which nobody ever yet knew by description; one must travel through it one\'s self to be acquainted with it.',
+        'Philip Stanhope, 4th Earl of Chesterfield',
     ],
-    '9133e0a2-217c-51ea-9b64-df44e9ad77fa' => [
-        'My family is my strength and my weakness.',
-        'Aishwarya Rai Bachchan',
+    'a64bb7aa-f0a9-501a-aafe-699bd7c2784b' => [
+        'Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!',
+        'Charlotte Gilman',
     ],
-    '30f69533-9368-5972-8e9b-199dd9f1d235' => [
-        'Everything that irritates us about others can lead us to a better understanding of ourselves.',
-        'Carl Jung',
+    '99a293ff-3c43-5f21-a3b1-952b6177f01f' => [
+        'I think Islam has been hijacked by the idea that all Muslims are terrorists; that Islam is about hate, about war, about jihad - I think that hijacks the spirituality and beauty that exists within Islam. I believe in allowing Islam to be seen in context and in its entirety and being judged on what it really is, not what you think it is.',
+        'Aasif Mandvi',
     ],
-    '12447e2e-5d16-5647-b0cd-76aab3d3fe73' => [
-        'I was a little doubtful about the propriety of going to the Mammoth Cave without a gentleman escort, but if two ladies travel alone they must have the courage of men.',
-        'Maria Mitchell',
+    '020142bd-1381-5534-a8c8-e4d47153490d' => [
+        'I accidentally entered a youth pageant when I was 14. That\'s like a beauty pageant, but without the beauty. It was terrible.',
+        'Zooey Deschanel',
     ],
-    '2e50d1a4-3098-5593-8718-b7a6c98416f7' => [
-        'Stay committed to your decisions, but stay flexible in your approach.',
-        'Tony Robbins',
+    '29ba7585-7856-5d36-9f22-9db381d702b7' => [
+        'I think family is key, and if you have love for family, then you have love for others - and you have unity as a people.',
+        'Marlon Wayans',
     ],
-    'ea7f13fb-e34f-5774-a21e-e50d6b76f9bf' => [
-        'Reason and free inquiry are the only effectual agents against error.',
-        'Thomas Jefferson',
+    '18fd3565-ddc1-5c41-8e2e-64bf539b5237' => [
+        'I think you can be depressed and flourish, I think you can have cancer and flourish, I think you can be divorced and flourish. When we believed that happiness was only smiling and good mood, that wasn\'t very good for people like me, people in the lower half of positive affectivity.',
+        'Martin Seligman',
     ],
-    '27a68026-3000-51fc-8899-7f8e9054151e' => [
-        'There is no substitute for victory.',
-        'Douglas MacArthur',
+    '8bf13648-31b0-58b2-8091-808ee598f3dd' => [
+        'Even if it turns out that time travel is impossible, it is important that we understand why it is impossible.',
+        'Stephen Hawking',
     ],
-    '33fe148c-1fb3-5313-9f5d-4b53078a05b6' => [
-        'I was kicked out of school because of my attitude. I was not assimilating. So I went to work, taking any jobs I could get.',
-        'Richard Pryor',
+    '07ea4466-25c7-5a20-8b06-5eb8983a2ac8' => [
+        'The main thing that you have to remember on this journey is, just be nice to everyone and always smile.',
+        'Ed Sheeran',
     ],
-    'ab8a03e0-a2c2-5450-b2eb-15c6bf0795c4' => [
-        'And finally Winter, with its bitin\', whinin\' wind, and all the land will be mantled with snow.',
-        'Roy Bean',
+    '4e1b5c77-771b-5f2c-b5ae-22b2865ad678' => [
+        'As we grow old, the beauty steals inward.',
+        'Ralph Waldo Emerson',
     ],
-    '1be3643d-3717-522b-a874-c40b5412f583' => [
-        'The audience changes every night. You\'re the same person. You have to speak your mind and do the stuff that you think is funny and makes you laugh.',
-        'Joe Rogan',
+    '1a1dcc53-ee42-54de-a712-d805530e0f1d' => [
+        'I\'ve followed Leeds since I was a little kid. I used to come home from sport in the afternoon, me and my brother, and watch \'Match of the Day.\' I love the club. I want nothing but success for the club.',
+        'Russell Crowe',
     ],
-    '5deb8d39-66b6-5666-83ba-47c406267c66' => [
-        'I wanted Jesus in \'A.D.\' to be very, very, very human - to have those qualities of vulnerability and doubt and pain and sadness and loneliness. Once the resurrection happens and we see that Jesus has risen, it\'s almost complete, right? It\'s all about the joy and the smile and the happiness and the closeness to the disciples.',
-        'Juan Pablo Di Pace',
+    'f9f4994f-993b-55eb-9506-76005ee62dd2' => [
+        'The whole notion of pain, and how every individual experiences pain, is up for debate. We don\'t know how another person experiences pain - physical pain or psychic pain. Some of these clinics where assisted suicide or euthanasia is practiced, they call it \'weariness of life.\'',
+        'Shemar Moore',
     ],
-    '7b1a7a83-63d2-564c-8c42-8569d9790867' => [
-        'Be not entangled in this world of days and nights; Thou hast another time and space as well.',
-        'Muhammad Iqbal',
+    'caca6102-c0b0-5073-b198-9d5bb5e56801' => [
+        'Very gifted people, they win and they win, and they are told that they win because they are a winner. That seems like a positive thing to tell children, but ultimately, what that means is when they lose, it must make them a loser.',
+        'Joshua Waitzkin',
     ],
-    'acc80e77-1aca-5311-b7a1-1d8b930c02e2' => [
-        'Frost is the greatest artist in our clime - he paints in nature and describes in rime.',
-        'Thomas Hood',
+    'a82666e7-04a1-5220-b8d8-1c4b2d08f746' => [
+        'There is no success without hardship.',
+        'Sophocles',
     ],
-    '6d29f850-07a2-50ef-9abd-5174c3266d6c' => [
-        'Beauty is only skin deep. If you go after someone just because she\'s beautiful but don\'t have anything to talk about, it\'s going to get boring fast. You want to look beyond the surface and see if you can have fun or if you have anything in common with this person.',
-        'Amanda Peet',
+    'e20d024f-945c-54b7-bf22-8a5dfbeaf754' => [
+        'Life is so constructed that an event does not, cannot, will not, match the expectation.',
+        'Charlotte Bronte',
     ],
-    'cc9a2eb0-60ac-549f-a623-2fb2f70aa047' => [
-        'Go see \'Hidden Figures,\' and take a young person! It will give a more positive outlook on what is possible if you work hard, do your best, and are prepared.',
-        'Katherine Johnson',
+    'eb2c94e9-2a4e-5640-95b4-22286b2d457d' => [
+        'I\'m very naturally happy, quirky and positive.',
+        'Kiesza',
     ],
-    '6b4adf39-6123-57db-8327-3601c3bab181' => [
-        'I absolutely love spending time with my family.',
-        'Kevin Alejandro',
+    '7eaf7b1d-3c43-533d-aa06-8f13badd5310' => [
+        'Let us permit nature to have her way. She understands her business better than we do.',
+        'Michel de Montaigne',
     ],
-    'e3233738-2198-575b-96bd-8ea5c2f3a83b' => [
-        'A somebody was once a nobody who wanted to and did.',
-        'John Burroughs',
+    '1789b069-b23c-5a5e-ab79-9254422fa1bb' => [
+        'Life is a succession of lessons, which must be lived to be understood.',
+        'Ralph Emerson',
     ],
-    '14c14c40-1c00-5e28-971e-65362e15535e' => [
-        'I know that I came into the world with what I call \'big dharma\' - with a blueprint to teach self-reliance and a positive loving approach to large numbers of people all over the globe. I am ever so grateful for the circumstances of my life that allowed me to be pretty much left alone and to develop as I was so intended in this incarnation.',
-        'Wayne Dyer',
+    'a18f68f3-0fcf-5156-87e9-c04c4fdefe1d' => [
+        'Spring is a time for rebirth and the fulfilment of new life.',
+        'Byron Pulsifer',
     ],
-    'f5d375f4-4a21-5063-abcf-f1c4db899ae3' => [
-        'Social media is changing the way we communicate and the way we are perceived, both positively and negatively. Every time you post a photo, or update your status, you are contributing to your own digital footprint and personal brand.',
-        'Amy Jo Martin',
+    'fb466c0d-222e-55c0-b9fe-16fd296cdf9d' => [
+        'It\'s really important to have balance, spend some time in nature, go to a few parties, enjoy my friends and really chill out.',
+        'Joakim Noah',
     ],
-    'fe66de4d-6976-5a1c-976a-5ea478f4e2bb' => [
-        'In my own life, I think legends of supernatural, mythic things are really just a manifestation of the collective unconscious. So I don\'t really get freaked out. I mean certainly, you read about things people did to each other in the pursuit of some mystical or occult goal, and it\'s horrifying. But that\'s just human nature.',
-        'Alan Ball',
+    'ae3a4bcc-bb25-5398-b800-8e866b6974b8' => [
+        'Science is organized knowledge. Wisdom is organized life.',
+        'Eileen Caddy',
     ],
-    '930e31f8-6f6a-5f31-ac4f-99e531c3ef66' => [
-        'Power means happiness; power means hard work and sacrifice.',
-        'Beyonce Knowles',
+    'ede73c6d-7b27-51d9-8480-1759b93b4f39' => [
+        'Loneliness is my least favorite thing about life. The thing that I\'m most worried about is just being alone without anybody to care for or someone who will care for me.',
+        'Stevie Wonder',
     ],
-    'b7798f7f-4c66-54fe-9d8b-ba0ef846f76a' => [
-        'A manager is a guide. He takes a group of people and says, \'With you I can make us a success; I can show you the way.\'',
-        'Arsene Wenger',
+    '2e7dd66b-3024-5253-b942-6dcf980ad838' => [
+        'I think clothes are very much a representation of your attitude and the way you feel. I really love to be dressed down, though.',
+        'Trey Songz',
+    ],
+    'f2651350-8da1-5d87-8ba6-2dde843d337d' => [
+        'I read all the time that people think I\'m arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, \'That image doesn\'t fit you.\'',
+        'Zlatan Ibrahimovic',
+    ],
+    '0e92c1d1-0f06-5282-81f2-e03e01d77325' => [
+        'A professional is someone who can do his best work when he doesn\'t feel like it.',
+        'Alistair Cooke',
+    ],
+    '25d718b6-5ff0-5986-8cdc-a1a32ab52d96' => [
+        'Bad attitudes will ruin your team.',
+        'Terry Bradshaw',
+    ],
+    '9765d0e9-ecdb-5dd0-b857-3912aa831a06' => [
+        'Both my best and my worst habit is that I\'m very impulsive.',
+        'Tove Lo',
+    ],
+    'bb3dfe22-3b6c-5ffd-a4d9-c3f701d190db' => [
+        'When Katrina hit, my family lost everything - their homes, jobs, friends - and then it was a ripple effect, as so many others attached to them were affected. I had to come up with $12,000 per month to take care of everyone.',
+        'Donna Brazile',
+    ],
+    '4db33da6-d641-5e71-8530-831ee09375de' => [
+        'I experience a period of frightening clarity in those moments when nature is so beautiful. I am no longer sure of myself, and the paintings appear as in a dream.',
+        'Vincent Van Gogh',
+    ],
+    '62c06537-c753-5603-a7bb-e4566325b514' => [
+        'My definition of family is just unconditional love. The people who rely on you and who love you, they are there, too.',
+        'Will Arnett',
+    ],
+    '846e5507-af27-5418-ba16-c553d6ec2376' => [
+        'The greatest good you can do for another is not just to share your riches but to reveal to him his own.',
+        'Benjamin Disraeli',
+    ],
+    '18e49a89-3dcc-527c-b065-22dfc0437f60' => [
+        'A lot of people in my family have high blood pressure. Dre told me I better start hitting the gym... so I took his advice.',
+        'Warren G',
+    ],
+    'c90c3ea4-28ef-5b7f-a6ae-e8b8f81f0cd9' => [
+        'People often say that motivation doesn\'t last. Well, neither does bathing--that\'s why we recommend it daily.',
+        'Zig Ziglar',
+    ],
+    '8d42e2f7-98dc-5a73-a742-0bf7d16c9c90' => [
+        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
+        'Milton Berle',
+    ],
+    '5db0c6bd-dc9b-5d68-ba72-fba92efe83e0' => [
+        'If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.',
+        'Bruce Lee',
+    ],
+    '3b7efcd2-8349-5964-be2f-6a022e93c58b' => [
+        'Studies have shown that inmate participation in education, vocational and job training, prison work skills development, drug abuse, mental health and other treatment programs, all reduce recidivism, significantly.',
+        'Bobby Scott',
+    ],
+    'ad01956d-b09b-5a2f-ba39-b9293de383e2' => [
+        'All serious daring starts from within.',
+        'Harriet Beecher Stowe',
+    ],
+    'c42c20e0-46ac-550f-9409-f88df65a710b' => [
+        'The earth has received the embrace of the sun and we shall see the results of that love.',
+        'Sitting Bull',
+    ],
+    '534218ad-15d0-536f-bcae-cae490ec27fa' => [
+        'There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.',
+        'Malcolm X',
+    ],
+    'eb036a23-a602-5c5a-9c35-60f1abbe2c59' => [
+        'Well, you know, a lot of people look at the negative things, the things that they did wrong and - which I do. But I like to stress on the things I did right, because there are certain things that I like to look at from a positive standpoint that are just positive reinforcement.',
+        'Tiger Woods',
+    ],
+    '7b3a3a1a-8e8c-5c28-8a17-2a10ebaadd5a' => [
+        'Even with all the negativeness of the whole social media thing, I still think it\'s leaps and bounds more positive.',
+        'Luke Bryan',
+    ],
+    '87c5faa8-1c21-5741-8b9b-2c9fa448d6fd' => [
+        'A sense of the universe, a sense of the all, the nostalgia which seizes us when confronted by nature, beauty, music - these seem to be an expectation and awareness of a Great Presence.',
+        'Pierre Teilhard de Chardin',
+    ],
+    '7feb016f-8eb6-5cd9-91a2-3aa587881cc4' => [
+        'A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.',
+        'Oliver Holmes',
+    ],
+    '47de8039-55bf-5cb3-a768-a5332e7dd1a0' => [
+        'Sometimes it is better to lose and do the right thing than to win and do the wrong thing.',
+        'Tony Blair',
+    ],
+    'c4e40e38-7eb6-56c3-9691-00dc50660203' => [
+        'I have a very low level of recognition, which is fine by me.',
+        'Dylan Moran',
+    ],
+    'f933a4b9-2766-5cb7-9a9e-becbdaa40ac9' => [
+        'There is nothing more corrupting, nothing more destructive of the noblest and finest feelings of our nature, than the exercise of unlimited power.',
+        'William Henry Harrison',
+    ],
+    '6853f935-ad44-5386-9a81-7431a76dc1f7' => [
+        'I don\'t care about commercial success. I get to do what I love and communicate whatever I want.',
+        'Sia',
+    ],
+    '4f6b6c6f-7785-559d-8be4-ddf0361120aa' => [
+        'Win or lose, I always like to get back to my friends and family. They keep me grounded. When I\'m home with my friends, I\'m always the same Gabriel. I\'m no better or worse in their eyes because of my results. It\'s good to be with your true friends. It always reminds me of where I\'m from and who I am.',
+        'Gabriel Medina',
     ],
 ];

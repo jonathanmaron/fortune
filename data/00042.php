@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'd8319c7a-7a46-5145-ba37-723f29b304b9' => [
-        'Better to have loved and lost, than to have never loved at all.',
-        'St. Augustine',
+    '2f6fabf0-12eb-534f-84f3-6b92b20ada83' => [
+        'My father, Oliver Hynes, was an educator. He was originally just a teacher, a very good one, but then he was promoted to be in charge of education for the entire area. He was always an inspirational teacher. He was my big personal supporter, always coming here for the Tony Awards. My mother, Carmel, was a homemaker.',
+        'Garry Hynes',
     ],
-    'c2062f02-53d0-5535-9f85-87459152d4c1' => [
-        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
-        'Summer Sanders',
+    'b0f7601a-4e86-5b18-adb2-6e63ed69893f' => [
+        'Patriotism is supporting your country all the time, and your government when it deserves it.',
+        'Mark Twain',
     ],
-    'c2f579af-385b-5900-9712-108857eef2c9' => [
-        'It\'s like Forrest Gump said, \'Life is like a box of chocolates.\' Your career is like a box of chocolates - you never know what you\'re going to get. But everything you get is going to teach you something along the way and make you the person you are today. That\'s the exciting part - it\'s an adventure in itself.',
-        'Nick Carter',
+    '8e8605c9-d199-5961-8007-fa578ddc71ac' => [
+        'It is the function of science to discover the existence of a general reign of order in nature and to find the causes governing this order. And this refers in equal measure to the relations of man - social and political - and to the entire universe as a whole.',
+        'Dmitri Mendeleev',
     ],
-    '4171ae34-cc12-5a59-b828-c8af9b162c29' => [
-        'I haven\'t spoken to my wife in years. I didn\'t want to interrupt her.',
-        'Rodney Dangerfield',
+    '75bf9506-4309-51f5-b895-bcc83f1786f5' => [
+        'To give pain is the tyranny; to make happy, the true empire of beauty.',
+        'Samuel Butler',
     ],
-    '1f67af7a-7492-5345-8c01-ab77e166138e' => [
-        'A positive attitude is something everyone can work on, and everyone can learn how to employ it.',
-        'Joan Lunden',
+    'fe2db94e-c329-5705-a8a8-470064a18d3a' => [
+        'Don\'t time travel into the past, roaming through the nuances as if they can change. Don\'t bookmark pages you\'ve already read.',
+        'James Altucher',
     ],
-    'b2c9cf5f-e9f1-584a-870c-e48dd00db955' => [
-        'There was a great strain in our family because my father didn\'t want anything to do with me. He was happy to see my brother and sister, but not me. I don\'t know why. Maybe it was shame. I don\'t know. But he never wanted anything to do with me. That rejection was terribly hurtful and it went on for years.',
-        'Carol Vorderman',
+    '08150858-e63a-5564-866b-0a7d9fbf4be9' => [
+        'Nature is a temple in which living columns sometimes emit confused words. Man approaches it through forests of symbols, which observe him with familiar glances.',
+        'Charles Baudelaire',
     ],
-    'e71635ab-1697-59c5-b13d-717d61e2b867' => [
-        'The bad news is time flies. The good news is you\'re the pilot.',
-        'Michael Atshuler',
+    '9b2b790a-50dd-57ba-89a7-911c09595476' => [
+        'We must develop and maintain the capacity to forgive. He who is devoid of the power to forgive is devoid of the power to love. There is some good in the worst of us and some evil in the best of us. When we discover this, we are less prone to hate our enemies.',
+        'Martin Luther King, Jr.',
     ],
-    'adc30198-2126-5b7f-974c-f386903aecbd' => [
-        'Personality is the most important thing to an actress\'s success.',
-        'Mae West',
+    '962fc46a-2a3b-5f86-a141-a78d3f6369d2' => [
+        'I drove right into the music with the same sort of attitude as I went into the football stuff with. Just found a routine and hard work, and it helped me progress a lot faster.',
+        'Sam Hunt',
     ],
-    'aac1e659-4a12-54f8-b7b0-a638fb1cde51' => [
-        'There are few places you can find silence. Air travel could be the last fortress of solitude.',
-        'Regina Brett',
+    'af373c96-1ad5-59b1-ba04-13723ae23748' => [
+        'Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories.',
+        'Hassanal Bolkiah',
     ],
-    '574d2a01-b1ee-592a-ac93-b7a7c52d2c4d' => [
-        'I just try to try to keep an attitude that I don\'t know what I\'m doing. Not to the point where I\'m beating myself up, but I just go in thinking that I have a lot to learn. And I hope I still have that attitude 30 years from now.',
-        'Tobey Maguire',
+    '96251325-f3ae-5ab0-9788-ff22e77faaee' => [
+        'Moderation is a virtue only in those who are thought to have an alternative.',
+        'Henry Kissinger',
     ],
-    'ea7d46a2-6039-5274-a972-c2af24fc4dc0' => [
-        'One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.',
+    '70e87ab7-7542-55a7-a08b-79b1914fce42' => [
+        'Discovering your purpose doesn\'t have to be complicated. Look at what you do and why you do it. Is it to support your family? That\'s your purpose. Is it to make a difference in your customer\'s life? That\'s your purpose.',
+        'Anne F. Beiler',
+    ],
+    'f65732ec-c626-5d46-ad04-f6cb49f2a29e' => [
+        'The more light you allow within you, the brighter the world you live in will be.',
+        'Shakti Gawain',
+    ],
+    '24bb3c16-74dc-57b5-806f-503c32a60009' => [
+        'Find your own way, have an open spirit, and believe in your own beauty.',
+        'Francois Nars',
+    ],
+    '786755bd-5849-5162-9294-958b189dc018' => [
+        'What I found in Silicon Valley is an industry that\'s sort of been kept a very far remove from Washington and had an attitude of \'Just let us do our thing and make the miracles that people love around the world and leave us alone.\'',
+        'George Packer',
+    ],
+    '3ef0a606-a3a4-5469-b68d-518586e163f2' => [
+        'Wrinkles will only go where the smiles have been.',
+        'Jimmy Buffett',
+    ],
+    '2fc31b45-7286-59ae-a7c0-c937186db000' => [
+        'That it will never come again is what makes life sweet.',
+        'Marcus Aurelius',
+    ],
+    'bd393e77-f0c9-5fe4-8ac2-2d584ba760e0' => [
+        'Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.',
+        'Thomas Carlyle',
+    ],
+    '6f826c78-6580-5bdf-bd71-6bbbc3feb296' => [
+        'These words dropped into my childish mind as if you should accidentally drop a ring into a deep well. I did not think of them much at the time, but there came a day in my life when the ring was fished up out of the well, good as new.',
+        'John Steinbeck',
+    ],
+    'b704dd3d-d997-580b-8966-da63fb6c8024' => [
+        'Nobody can do everything, but everybody can do something.',
         'Unknown',
     ],
-    '7029113d-7c26-5741-891c-c05f1f21a274' => [
-        'It is the life of the crystal, the architect of the flake, the fire of the frost, the soul of the sunbeam. This crisp winter air is full of it.',
-        'Martin Lawrence',
+    'eaa9b4b1-8c00-5127-b2de-c4570180301c' => [
+        'I\'ve always believed that if you put in the work, the results will come.',
+        'Michael Jordan',
     ],
-    '3ac995d4-8c61-599c-8dd1-deef31b6b302' => [
-        'Miami Beach is where neon goes to die.',
-        'Lenny Bruce',
+    '62edbf31-f857-5cb1-b4c1-dafccefc61ee' => [
+        'Thanks to capitalism, the importance placed on beauty has never been so manipulated. We are the guinea pigs force-fed ads that tell us how pathetic we are: that we will never be loved, happy or valuable unless we have the body, the face, the hair, even the personality that will apparently be ours, if only we buy their products.',
+        'Beth Ditto',
     ],
-    '870d2f43-580f-52ff-9dc2-6c7a5e2fd236' => [
-        'I\'ve had a lot of very positive feedback about those stories, and seem to have struck upon something that most people feel. I can also tap dance, and don\'t know many other authors who can.',
-        'Paul Kane',
+    '358e5216-3aec-5030-a04b-3926fc1d9d45' => [
+        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
+        'Roger Andrew Taylor',
     ],
-    'dc27505b-1ef5-5a16-b982-eb28cfca9946' => [
-        'I don\'t love Photoshop; I like imperfection. It doesn\'t mean ugly. I love a girl with a gap between her teeth, versus perfect white veneers. Perfection is just... boring. Perfect is what\'s natural or real; that is beauty.',
-        'Marc Jacobs',
+    'c175b331-279a-550e-aba1-2e1bb10e72ad' => [
+        'Only by going alone in silence, without baggage, can one truly get into the heart of the wilderness. All other travel is mere dust and hotels and baggage and chatter.',
+        'John Muir',
     ],
-    'ed566f65-f431-5a5a-92da-a3d1b3a54b9b' => [
-        'You get educated by traveling.',
-        'Solange Knowles',
+    'd567d84a-5a03-540d-87d2-1ce1818afa53' => [
+        'Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.',
+        'Nathaniel Hawthorne',
     ],
-    '0d8c50a7-0ff1-5149-9b29-2fdc6aa0642d' => [
-        'Joy descends gently upon us like the evening dew, and does not patter down like a hailstorm.',
-        'Jean Paul',
+    'f1c541c3-aaaf-5078-a15e-c8295ca960fd' => [
+        'Integrity of life is fame\'s best friend, which nobly, beyond death, shall crown in the end.',
+        'John Webster',
     ],
-    '92e7a7c1-ab2c-5009-953c-d99b444da63f' => [
-        'If the Starbucks secret is a smile when you get your latte... ours is that the Web site adapts to the individual\'s taste.',
-        'Reed Hastings',
+    'e1f6a5bb-e554-5ad7-b944-f0286fb183fd' => [
+        'In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it.',
+        'Jane Smiley',
     ],
-    '4b297f94-345a-5b63-b9f0-80e70fc63f35' => [
-        'If you get hungry mid-day, a banana is the best snack at your desk, after a workout, or in between classes. Fruit is a very good snack in general.',
-        'Marcus Samuelsson',
+    'd0805591-b3ad-5cfb-a7eb-a0ec608091e4' => [
+        'Life is not a problem to be solved, but a reality to be experienced.',
+        'Golda Meir',
     ],
-    '5ec1d635-f9d8-5d7c-80dc-71ea831c5b84' => [
-        'I have these visions of myself being thirty, thirty-five, forty having a family.',
-        'Nastassja Kinski',
+    '874ff4e8-55ce-57c0-9dd9-421581565694' => [
+        'Enhancing a woman\'s silhouette and enhancing a woman\'s beauty - both contribute to enhancing her confidence, so they\'re synonymous, really.',
+        'L\'Wren Scott',
     ],
-    '89e5eb33-c852-53c3-8f78-d4bd1a334d20' => [
-        'To me, the blues is an infection. I don\'t think it\'s necessarily a melancholy thing; the blues can be really positive and I think I think anyone and everyone can have a place for the blues. It need not always a woeful, sorrowful thing. It\'s more reflective; it reminds you to feel.',
-        'Mick Fleetwood',
+    '73344e12-df87-5cd3-bd9b-7018040bbe90' => [
+        'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.',
+        'Marcus Aurelius',
     ],
-    'f9f39f29-4e9b-58ee-822f-26223986f8d2' => [
-        'Skill to do comes of doing.',
-        'Ralph Emerson',
+    'e5e34e07-239a-5c03-8010-db7d356c4f6f' => [
+        'I don\'t know if I believe in marriage. I believe in family, love and children.',
+        'Penelope Cruz',
     ],
-    'af5590dd-f9c6-5c05-a55a-1d5e2294c661' => [
-        'I was just a goofy little funny kid, who was always getting sent to the principal. It wasn\'t serious because I was smart. I wasn\'t like a true troublemaker, just rambunctious - like, talkative and trying to be funny. That was me in middle-school.',
-        'J. Cole',
+    '82190891-4498-5170-92e1-ad4d02d53785' => [
+        'In order to succeed, we must first believe that we can.',
+        'Nikos Kazantzakis',
     ],
-    '692448f7-25a8-5102-9fad-04b0bb5f356c' => [
-        'My friends and family are my support system. They tell me what I need to hear, not what I want to hear and they are there for me in the good and bad times. Without them I have no idea where I would be and I know that their love for me is what\'s keeping my head above the water.',
-        'Kelly Clarkson',
+    'c00c704d-03df-52ac-a52c-14169baa757e' => [
+        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
+        'Jean-Michel Jarre',
     ],
-    '9ca72fbf-d9eb-57e8-930f-d04339a0bc8a' => [
-        'Don\'t focus on making the right decision, focus on making the decision the right one.',
+    'b484a694-52aa-534e-b241-0a43c21fdf24' => [
+        'We take it for granted that we can see at all times of day and night. But there was a time, not all that long ago, in the age before electricity, when night brought total darkness - and with it, a not-so-small amount of terror. We get a sense of this when we go camping or when there\'s a power outage, and our fear of the darkness is primal.',
+        'Jake Halpern',
+    ],
+    '3a910727-0ac6-5fbf-b199-4dee4321884e' => [
+        'I like low-maintenance girls, but at the same time, classy. She needs to take care of herself. But also be a girl who isn\'t afraid to get sweaty and play basketball, so it\'s cool if she\'s a tomboy.',
+        'Chris Brown',
+    ],
+    '00c1c073-c311-510a-a943-fcfbd5527c83' => [
+        'I find being funny very hard work. I am always asked about it, and I feel guilty saying that, but it\'s the truth. I love my work, but it ain\'t easy.',
+        'Madeline Kahn',
+    ],
+    'c5479626-0ea3-50b4-b63f-c37527e1cc1a' => [
+        'There\'s only one band that could ever even pretend to assume the mantle of what the Beatles did, who have been so pre-eminent and world-dominating that they could effect a paradigm shift in the culture, who have been willing to leverage their success into musical change, and that is U2 - regardless of what the result of that is.',
+        'Todd Rundgren',
+    ],
+    'ba1a17fd-1ba2-521d-848e-e4df4701e374' => [
+        'In many a piece of music, it\'s the pause or the rest that gives the piece its beauty and its shape. And I know I, as a writer, will often try to include a lot of empty space on the page so that the reader can complete my thoughts and sentences and so that her imagination has room to breathe.',
+        'Pico Iyer',
+    ],
+    'f85e153c-c19d-5b59-be8d-b724474c8e76' => [
+        'A river cuts through a rock not because of its power but its persistence.',
+        'Anonymous',
+    ],
+    '348642e7-76c2-5390-a861-bfcceedaaa38' => [
+        'We don\'t have a divine right to success. So I agree with a lot of politicians out there when they say, \'We\'ve got serious issues.\' We do: immigration, infrastructure. I think income inequality\'s one of them.',
+        'Jamie Dimon',
+    ],
+    '8ec986f6-6ccf-59c7-a2d6-880779432a6e' => [
+        'Pain is temporary. Quitting lasts forever.',
+        'Lance Armstrong',
+    ],
+    '9bc28709-c7a2-5a93-a770-757fc42a6ef3' => [
+        'I thought the attractions of being an astronaut were actually, not so much the Moon, but flying in a completely new medium.',
+        'Neil Armstrong',
+    ],
+    'e9c8d23f-f9e6-584d-a4f7-6b8835f3d4da' => [
+        'What drives success, and the most successful students, is internal motivation.',
+        'Vivienne Ming',
+    ],
+    '54d352de-0dd1-5a59-81e1-0d449d128325' => [
+        'Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.',
+        'Wayne Gretzky',
+    ],
+    'aa29716e-8326-5099-8fa9-3c59d0611403' => [
+        'Heroes represent the best of ourselves, respecting that we are human beings. A hero can be anyone from Gandhi to your classroom teacher, anyone who can show courage when faced with a problem. A hero is someone who is willing to help others in his or her best capacity.',
+        'Ricky Martin',
+    ],
+    '0890a215-f025-5be8-b910-441742597f66' => [
+        'I think the biggest misconception about me is people really don\'t know who I really am. They see the party side of me, they see the crazy side of me. But I also have a laid-back side. You know, I\'m chill, down to earth. If you want to grab a cup of coffee and just talk about life, I can do that.',
+        'Elisabeth Kubler-Ross',
+    ],
+    '9bf6f20c-61a8-5017-ad4d-1a3e60e608bc' => [
+        'Any idiot can face a crisis - it\'s day to day living that wears you out.',
+        'Russell Westbrook',
+    ],
+    '319c7b68-1c61-5218-9b60-e60a1894a674' => [
+        'Riding my motorcycle around L.A. is like my own video game. But unlike many folks at the wheel, I am occupied with getting where I\'m going and keeping myself safe. Most people are applying makeup, texting, and checking out the beauty in the next car.',
+        'Hugh Laurie',
+    ],
+    '1aba50c5-8d2a-5a60-8f15-8e007011fd13' => [
+        'Watching movies in the U.S. is great fun because they get every joke, they smile, they laugh so much; it\'s a great feeling.',
+        'Jet Li',
+    ],
+    '289e1cdc-80aa-5f22-9047-03dfd794a636' => [
+        'Life is not measured by the breaths we take, but by the moments that take our breath.',
         'Unknown',
+    ],
+    'cd091d6e-b014-53f0-9496-e3df0cf13b9e' => [
+        'If nothing else, the act of reaching a milestone often serves to reveal a superstar\'s true nature.',
+        'Stephen Rodrick',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '186d66d9-54ae-5a68-97bb-02cedfb273cb' => [
-        'The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful.',
-        'Henri Poincare',
+    '0474e843-38da-5a89-934c-44f9e549cdd0' => [
+        'Don\'t talk about what you have done or what you are going to do.',
+        'Thomas Jefferson',
     ],
-    '982e5044-130c-592f-a59a-b8396b54886b' => [
-        'It\'s not just a matter of poor willpower on the part of the consumer and a give-the-people-what-they-want attitude on the part of the food manufacturers. What I found, over four years of research and reporting, was a conscious effort... to get people hooked on foods that are convenient and inexpensive.',
-        'Michael Moss',
+    'daf8d726-4d3f-55af-90dc-11e2964ab715' => [
+        'There\'s a fine line between stubbornness and the positive side of that, which is dogged determination.',
+        'Jeb Bush',
     ],
-    'f6fe4096-9d84-5216-abb6-4ea16359ab14' => [
-        'There\'s a darkness under \'The Hangover\' because ultimately there\'s a missing person and it\'s not really that funny. There\'s a sort of darkness under it that I love, and still people are laughing as hard if not harder than they did in \'Old School.\'',
-        'Todd Phillips',
+    'c02cee4f-a7bd-5e53-bf72-ff727f9ef4f4' => [
+        'Power, that\'s one thing, but love of family and of siblings is more important, is more powerful than any other power - at least earthly power, at least earthly power.',
+        'Sander Levin',
     ],
-    '17cb9e62-d067-509b-96ea-9420f412066c' => [
-        'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
-        'A.P.J. Abdul Kalam',
+    'e3553985-286e-58eb-a52c-9164e64f6c23' => [
+        'The travel writer seeks the world we have lost - the lost valleys of the imagination.',
+        'Alexander Cockburn',
     ],
-    'e6576ceb-525d-5f64-ab72-b0aff52bbff3' => [
-        'Success is not built on success. It\'s built on failure. It\'s built on frustration. Sometimes its built on catastrophe.',
-        'Sumner Redstone',
+    'd16a4c98-eee4-5be3-b5be-caa13068ffa9' => [
+        'Form must have a content, and that content must be linked with nature.',
+        'Alvar Aalto',
     ],
-    'bc1d6ec6-8507-50fb-9523-f4635ebbf7e1' => [
-        'It\'s the right idea, but not the right time.',
-        'John Dalton',
+    '5a43185d-0c67-5251-a29c-9732125a0843' => [
+        'I am from a family of artists. Here I am, making a living in the arts. It has not been a rebellion. It\'s as though I had taken over the family Esso station.',
+        'Kurt Vonnegut',
     ],
-    'f9132ff5-7a20-5fb9-8d89-9c6363890a35' => [
-        'Who controls the past controls the future. Who controls the present controls the past.',
-        'George Orwell',
+    '826a91d7-fd70-5844-b9bd-f9502beae8b7' => [
+        'With each new day in Africa, a gazelle wakes up knowing he must outrun the fastest lion or perish. At the same time, a lion stirs and stretches, knowing he must outrun the fastest gazelle or starve. It\'s no different for the human race. Whether you consider yourself a gazelle or a lion, you have to run faster than others to survive.',
+        'Mohammed bin Rashid Al Maktoum',
     ],
-    '59421a54-e3e9-515d-b469-51f2c539ce52' => [
-        'Sometimes negative news does come out, but it is often exaggerated and manipulated to spread scandal. Journalists sometimes risk becoming ill from coprophilia and thus fomenting coprophagia: which is a sin that taints all men and women, that is, the tendency to focus on the negative rather than the positive aspects.',
-        'Pope Francis',
+    '22ad5df4-8640-5885-b745-1a8c25489b07' => [
+        'Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.',
+        'Nikola Tesla',
     ],
-    '2b5b50ed-7fb5-5eee-a14b-1de7d7a1b4dc' => [
-        'It takes a man to suffer ignorance and smile.',
-        'Sting',
+    '20faa8c4-9c1f-5dbc-80a8-71cb38b88430' => [
+        'I try to keep a positive intention and use whatever resources I have to benefit others. I try to create businesses that I think are not hurtful. I try to do things that I think are helpful to the environment, to the animals, and to the planet.',
+        'Russell Simmons',
     ],
-    '511592b4-6de1-5de3-bae6-e8861c4785ad' => [
-        'Refuse to be a lazy Christian, and resist a passive, apathetic attitude.',
-        'Joyce Meyer',
+    'b17f8982-446a-59b7-a3e9-7680b6b9749e' => [
+        'Being yourself is one of the hardest things because it\'s scary. You always wonder whether you\'ll be accepted for who you really are. I decided to call my record \'Inside Out\' because that\'s my motto about life. I don\'t think you ever succeed at trying to be anyone else but who you truly are.',
+        'Iris Murdoch',
     ],
-    '18826048-501e-55f2-bce0-1678a02303f0' => [
-        'We\'ve created a tenfold core value protocol to make sure that we don\'t fall into an \'empire\' attitude.',
-        'Joel Salatin',
+    '877c9bbb-3ef7-5aef-b154-c9551cdb41e2' => [
+        'I play video games a lot... I love to read... I enjoy spending time with my husband and daughter, who are my most favorite people in the world.',
+        'Lea Salonga',
     ],
-    'b01fa409-b8b1-5bbd-a266-b181e0fd6f14' => [
-        'Autism doesn\'t have to define a person. Artists with autism are like anyone else: They define themselves through hard work and individuality.',
-        'Adrienne Bailon',
+    '2f6c62fb-653e-5ad4-9f96-9ec4f75ab4df' => [
+        'It always seems impossible until it\'s done.',
+        'Nelson Mandela',
     ],
-    '34ba4f18-df7e-5211-9e4f-23f760b487e8' => [
-        'Humor has bailed me out of more tight situations than I can think of. If you go with your instincts and keep your humor, creativity follows. With luck, success comes, too.',
-        'Jimmy Buffett',
+    '76589e4e-8461-54a3-9ba3-563c4e3b00bd' => [
+        'Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense everything that comes from love is a miracle.',
+        'Marianne Williamson',
     ],
-    'db1e3c9c-252b-56a3-b39c-534340b87da8' => [
-        'New Year\'s Day. A fresh start. A new chapter in life waiting to be written. New questions to be asked, embraced, and loved. Answers to be discovered and then lived in this transformative year of delight and self-discovery. Today carve out a quiet interlude for yourself in which to dream, pen in hand. Only dreams give birth to change.',
-        'Rabindranath Tagore',
+    '822801fc-56a5-59d1-a197-24bd6b3165d9' => [
+        'Playing video games is something I enjoy in my spare time. I\'m a gamer, always have been.',
+        'Kevin Garnett',
     ],
-    '91f0c3fd-5870-5bf2-b042-2a8da9e9fefe' => [
-        'Why don\'t you get a haircut? You look like a chrysanthemum.',
-        'P. G. Wodehouse',
+    'a87ca151-913d-5cf7-a303-8a026458dabb' => [
+        'No man is a failure who is enjoying life.',
+        'Musiq Soulchild',
     ],
-    '3a4bad53-de25-5941-95f2-5220e972a8bf' => [
-        'Even when I\'m playing someone named \'Fat Amy.\' I\'m all about confidence and attitude.',
-        'Rebel Wilson',
+    '84e6d06b-bb45-5692-9111-fdddaae48991' => [
+        'Time is more valuable than money, because time is irreplaceable.',
+        'John C. Maxwell',
     ],
-    '3301b5eb-78c9-57de-87f7-22c32a4adf29' => [
-        'The foolish man seeks happiness in the distance, the wise grows it under his feet.',
-        'James Oppenheim',
+    '9e3e7193-aa3d-54a8-bb0a-63de7108fe8d' => [
+        'With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.',
+        'Keshavan Nair',
     ],
-    '3ef2904c-d768-57a5-b084-4415f7385e01' => [
-        'I stepped away to find out more about myself, which I was having difficulty doing as a football player. I got a chance to travel the world. I studied Eastern philosophy, and I\'ve grown as a person so much.',
-        'Ricky Williams',
+    '8a891098-08ad-5049-8fb2-b0e4bea13ef1' => [
+        'We are all in the gutter, but some of us are looking at the stars.',
+        'Oscar Wilde',
     ],
-    '22ca6c42-6d81-5469-b6be-417d6acfeadd' => [
-        'We are all born ignorant, but one must work hard to remain stupid.',
-        'Benjamin Franklin',
+    '7ac76d4b-11b2-5106-a8d9-48cb47d8b393' => [
+        'I\'m experimental by nature... always exploring my creativity.',
+        'Christina Aguilera',
     ],
-    '5202eb6a-87cf-536c-a336-de4ac77bd644' => [
-        'I don\'t know that I have any role models now that are fixed. Definitely my mom - she\'s the coolest. She\'s worked really hard her whole life and I just think she\'s got a great attitude. Moms just know so much it\'s so silly.',
-        'Larisa Oleynik',
+    '90c61f82-8222-50b1-b004-dfd50cfd45ce' => [
+        'The number one reason people fail in life is because they listen to their friends, family, and neighbors.',
+        'Napoleon Hill',
     ],
-    'c4eef11c-cadf-5062-8c19-7ef5a1adecbc' => [
-        'My attitude on skis is different now. I have learned to put less pressure on myself and on the edges of my skis when I\'m racing, to be keep myself more under control.',
-        'Hermann Maier',
+    '2d926814-fde9-5a9d-b71d-15bbdb3ea105' => [
+        'Your soul is infinitely creative. It is alive and expansive in nature. It is curious and playful, changing with the tides of time.',
+        'Debbie Ford',
     ],
-    'bb8561bd-df3e-5bc4-bfd8-30527a715f2d' => [
-        'We tend to block off many of our senses when we\'re staring at a screen. Nature time can literally bring us to our senses.',
-        'Richard Louv',
+    '7adc9d5c-d7a7-58d4-b6c6-2acfd425846d' => [
+        'Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist.',
+        'Mary Kay Ash',
     ],
-    '9eec54bf-c966-57f6-8d8d-7f56a266acfc' => [
-        'Health and beauty is not just about what you apply. If you don\'t have it together on the inside, then nothing else is going to matter.',
-        'Nia Peeples',
+    'bad3c8f8-0518-591e-91f3-28a54f4f0322' => [
+        'About 100 things that your kid will do that will surprise you and break your heart and it will be a combination of fact based therapy, medically advised kinds of passages accompanied by celebrity anecdotes and just some funny stuff to lighten the load.',
+        'Alan Thicke',
     ],
-    '79d25bb3-3789-591a-9b8c-5fe2a6a7d65c' => [
-        'People living deeply have no fear of death.',
-        'Hans Christian Andersen',
+    '113c3006-a163-5581-b52e-a01ac3d73161' => [
+        'Take no thought of who is right or wrong or who is better than. Be not for or against.',
+        'Bruce Lee',
     ],
-    'd02ead4a-b4c1-579d-b122-3165d80d4d2e' => [
-        'Travel in all the four quarters of the earth, yet you will find nothing anywhere. Whatever there is, is only here.',
-        'Ramakrishna',
+    'b52afcad-3613-5487-9c27-b09689b7822f' => [
+        'Women didn\'t want to be on the stage with other women because they didn\'t want their bodies to be compared. They didn\'t want another female act opening for them because of this weird competitive and tokenistic attitude.',
+        'Kathleen Hanna',
+    ],
+    '8a655e7c-1aa9-59c8-ba5c-3d47af335dbf' => [
+        'This June, I\'ll travel once again to the Food and Wine Magazine Classic in Aspen, Colorado. For many years, my dear friend Julia Child and I have teamed up to teach classes together at the event; for the past seven years, my daughter, Claudine, has been my cooking partner on stage.',
+        'Jacques Pepin',
+    ],
+    'b17c8fad-1caf-5548-bec4-4da5c1954ce3' => [
+        'Marriage is an act of will that signifies and involves a mutual gift, which unites the spouses and binds them to their eventual souls, with whom they make up a sole family - a domestic church.',
+        'Pope John Paul II',
+    ],
+    '2e49a708-51c0-590f-88d4-88def93eb8f3' => [
+        'Technology gives us the facilities that lessen the barriers of time and distance - the telegraph and cable, the telephone, radio, and the rest.',
+        'Emily Greene Balch',
+    ],
+    '0b3fcd2f-fe90-5ccd-bd10-9781630b9bb7' => [
+        'My first ever job after college was as a flight attendant. I wanted to travel and could not afford it, so I decided to get myself a job where I could travel. I did it for two years and had great fun.',
+        'Jacqueline Winspear',
+    ],
+    '21c8ec1f-8f6d-59f0-8cc0-df3713e3cc63' => [
+        'I could sooner reconcile all Europe than two women.',
+        'Louis XIV',
+    ],
+    '229b8675-67c6-5692-830e-2adea41c10bd' => [
+        'Having nothing, nothing can he lose.',
+        'William Shakespeare',
+    ],
+    'f6f4103d-d2e5-50e4-a1a9-5c8d3cda3a07' => [
+        'My parents leaving a third world country to a first world country and building from nothing - that\'s really inspiring to me and it\'s influenced me in a positive way.',
+        'Melanie Fiona',
+    ],
+    'dc107a29-7f3f-5666-a50f-314da7979b88' => [
+        'It\'s time to say goodbye, but I think goodbyes are sad and I\'d much rather say hello. Hello to a new adventure.',
+        'Ernie Harwell',
+    ],
+    '5afa2ad7-84e0-57ae-a060-c526bdd8bfcd' => [
+        'With all my fans I got a family again.',
+        'Tupac Shakur',
+    ],
+    '85b76125-2bb6-5a51-86ed-95b3515d4899' => [
+        'You know, who cares about seeing the girls when everybody wants to see the band. That\'s what\'s important, KISS is important. I think we look great, and the attitude is there, and I\'m real happy with it.',
+        'Eric Carr',
+    ],
+    '7a10658a-a9de-5fb3-9281-a03fa5f7f018' => [
+        'Develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.',
+        'Brian Tracy',
+    ],
+    '7168c2e6-d0fc-5f91-a7b7-e814322b233a' => [
+        'Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.',
+        'Napoleon Hill',
+    ],
+    '3397972c-eda6-58d3-af23-2a5eb1a7d8cc' => [
+        'I think we all have our own personality, unique and distinctive, and at the same time, I think that our own unique and distinctive personality blends with the wind, with the footsteps in the street, with the noises around the corner, and with the silence of memory, which is the great producer of ghosts.',
+        'Octavio Paz',
+    ],
+    '690ff2e0-6e83-58a0-bae3-d32daa5790c0' => [
+        'Effective philanthropy requires a lot of time and creativity - the same kind of focus and skills that building a business requires.',
+        'Bill Gates',
+    ],
+    '30f40218-a450-577d-a8a7-ef3f87a38510' => [
+        'Unlike some of the time-travel movies I love, like \'Primer\' or \'12 Monkeys,\' \'Looper\' is not about time travel. It\'s about this situation that time travel creates and the people dealing with that situation. So narratively, the big challenge was to have time travel get out of the way.',
+        'Rian Johnson',
+    ],
+    '5153fb25-674f-537c-8298-0c20efb1af92' => [
+        'My father always taught by telling stories about his experiences. His lessons were about morality and art and what insects and birds and human beings had in common. He told me what it meant to be a man and to be a Black man. He taught me about love and responsibility, about beauty, and how to make gumbo.',
+        'Walter Mosley',
+    ],
+    '0d3983a0-45c9-513f-b5a3-9253838505ce' => [
+        'I like a woman with a head on her shoulders. I hate necks.',
+        'Steve Martin',
+    ],
+    '1ee3b91f-63f4-5bde-9a37-2d31e27ca9d7' => [
+        'Much may be done in those little shreds and patches of time which every day produces, and which most men throw away.',
+        'Charles Caleb Colton',
+    ],
+    'ddf4c447-4d59-507e-9c4d-0e1bb99d16cf' => [
+        'Divorce is a time of change. It really rocks a foundation of most people\'s lives. When we have our heart broken or our dreams taken away from us, it is a time of growth and change.',
+        'Debbie Ford',
+    ],
+    '892689c4-17b8-5399-b3cd-159e8ce5e344' => [
+        'I was the kind nobody thought could make it. I had a funny Boston accent. I couldn\'t pronounce my R\'s. I wasn\'t a beauty.',
+        'Barbara Walters',
+    ],
+    'b963fea1-e2af-596d-be63-12484bd13f44' => [
+        'If you develop a dialogue with me and take an interest in me, I\'ll want to give you the business. It\'s human nature.',
+        'Danny Meyer',
+    ],
+    'c247f4e6-ab2b-5351-b6c8-cffbfaff37ac' => [
+        'You know, you only get to live life once, so there are two things that that yields. One is that there\'s no point in crying over spilt milk, but secondly you hate wasting time, energy, and whatever talent you\'ve got.',
+        'David Miliband',
+    ],
+    'ec6af5d7-852c-5377-864a-8f7eb9862d25' => [
+        'Personally, I\'ve learned about perseverance: when you hear the word \'No,\' and when you hear rejection, that it\'s not always final. And that timing is everything, and you have to stay the course and just keep working hard and know that, when your time comes, that it will be sweet and that it will be the perfect time.',
+        'Angela Robinson',
+    ],
+    '335246a3-63bb-58bd-b7fb-95174fef3600' => [
+        'The art of life is to know how to enjoy a little and to endure very much.',
+        'Nikola Tesla',
+    ],
+    '531e09b6-3369-52bb-9f3e-a949d34141c5' => [
+        'Life is not measured by the breaths you take, but by its breathtaking moments.',
+        'Michael Vance',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'cfecee69-8df5-549c-970c-65eb032e949d' => [
-        'Your problem isn\'t the problem. Your reaction is the problem.',
-        'Unknown',
+    '892014cc-384c-5587-a4db-77e8f9ab3a27' => [
+        'The best thing about the future is that it comes only one day at a time.',
+        'Dean Acheson',
     ],
-    'c95c202f-e6d0-584c-89ac-ab6f1ff7a74d' => [
-        'I never drink water because of the disgusting things that fish do in it.',
-        'Unknown',
+    'e941c9a6-5c97-5116-9f95-4fc1012e4a8c' => [
+        'Today, smartphones, tablets, and the Internet have allowed people to conduct business from anywhere at any time. But as we continue to progress, many families find it harder to balance the ever-increasing demands of their work with their desire to care for and be with their family.',
+        'Renee Ellmers',
     ],
-    '766a8d5e-2769-5c41-9292-dac355e6ada7' => [
-        'When performance exceeds ambition, the overlap is called success.',
-        'Cullen Hightower',
+    'd98d6aa4-f8bc-54d3-a498-193bf69ae650' => [
+        'If you want to achieve things in life, you\'ve just got to do them, and if you\'re talented and smart, you\'ll succeed.',
+        'Juliana Hatfield',
     ],
-    '1eeabbec-64ef-5941-b78a-71ba1749cf2f' => [
-        'Never refuse an assignment except when there is a conflict of interest, a potential of danger to you or your family, or you hold a strongly biased attitude about the subject under focus.',
-        'Jessica Savitch',
+    'a04e4789-6c7c-53ab-8c64-385d94fe6299' => [
+        'The success of the suffrage movement would injure women spiritually and intellectually, for they would be assuming a burden though they knew themselves unable to bear it. It is the sediment, not the wave, of a sex. It is the antithesis of that highest and sweetest mystery - conviction by submission, and conquest by sacrifice.',
+        'John Boyle O\'Reilly',
     ],
-    '6e8c664d-4318-5ddc-9800-b29bac5ca640' => [
-        'Almost every college playwright or sketch or improv comedian was sort of aware of Christopher Durang - even kids in high school. His short plays were so accessible to younger people and I think that was inspirational to me.',
-        'Mindy Kaling',
+    'a77ac8e2-af15-5ad0-ba65-8090f5666c49' => [
+        'I never expect to see a perfect work from an imperfect man.',
+        'Alexander Hamilton',
     ],
-    '0d372fde-54ac-5b5d-9e47-d8cf95abd4a5' => [
-        'It\'s not a bad idea to occasionally spend a little time thinking about things you take for granted. Plain everyday things.',
-        'Evan Davis',
+    '9509a832-bea4-5345-be18-6ee0bfd57ac4' => [
+        'You should also appreciate the goodness around you, and surround yourself with positive people.',
+        'Nadia Comaneci',
     ],
-    '8555e6c8-d79a-51ed-90a2-71ac276c2134' => [
-        'Part of the beauty of the show in a way is that he\'s not perfect, but you can always count on him to do the right thing in a pinch. That\'s why he inspires people and inspires me.',
-        'Stephen Collins',
+    'f494739c-f4fb-5892-84f0-1d32c74edf46' => [
+        'The violets in the mountains have broken the rocks.',
+        'Tennessee Williams',
     ],
-    '053d6756-0a75-5177-b780-a8a53911fe03' => [
-        'The future belongs to those who believe in the beauty of their dreams.',
-        'Eleanor Roosevelt',
+    'eb76c4d5-be66-54e9-84d4-7d2706dbbf3e' => [
+        'I\'m living my dream right now. I get to make music, perform and travel.',
+        'Ville Valo',
     ],
-    'f0a27080-d470-52c6-8be8-c9c0ef8c6ca3' => [
-        'As I understand it, sport is hard work for which you do not get paid.',
-        'Irvin S. Cobb',
+    '7a52557a-15a7-5e88-9941-a4e807e4307d' => [
+        'I believe the world is one big family, and we need to help each other.',
+        'Jet Li',
     ],
-    'ca317750-40dd-5a24-aea2-ef1c0fbc043c' => [
-        'I am easily satisfied with the very best.',
-        'Winston Churchill',
+    '1b3b65a5-8bd5-5916-926a-33d054eccf77' => [
+        'Truth is a thing immortal and perpetual, and it gives to us a beauty that fades not away in time.',
+        'Frank Norris',
     ],
-    '21afbd34-dfc0-55cc-b7ec-092562824fb1' => [
-        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
-        'Aldo Leopold',
+    'cbd29ce5-d99c-5894-aa9f-13d46b205990' => [
+        'You look at the tremendous success of Facebook. To my mind there is not a lot of commerce going on in these social networking sites. eBay is a community anchored in commerce. It is a commerce site that built a community around it. What has not been proven is if the reverse can happen and people will go to community sites to do commerce.',
+        'Meg Whitman',
     ],
-    'b9569aa3-a669-5868-b9ff-c1a7d633dc99' => [
-        'Through hard work and education, we can deliver a strong economy and opportunity for all.',
-        'Julia Gillard',
+    '7d316986-f255-59ef-a534-c71cf7db624b' => [
+        'My siblings are my best friends.',
+        'America Ferrera',
     ],
-    '7a2c0641-2e01-5557-86bd-6c5f88b8f598' => [
-        'Films for TV have to be much closer to the book, mainly because the objective with a TV movie that translates literature is to get the audience, after seeing this version, to pick up the book and read it themselves. My attitude is that TV can never really be any form of art, because it serves audience expectations.',
-        'Michael Haneke',
+    '25b2945b-5c72-5c80-8a89-2c1c46522d68' => [
+        'Challenge is the pathway to engagement and progress in our lives. But not all challenges are created equal. Some challenges make us feel alive, engaged, connected, and fulfilled. Others simply overwhelm us. Knowing the difference as you set bigger and bolder challenges for yourself is critical to your sanity, success, and satisfaction.',
+        'Brendon Burchard',
     ],
-    'bb9a4ab8-a8a6-5ebe-aad8-8677550cb40c' => [
-        'Once you start a working on something, don\'t be afraid of failure and don\'t abandon it. People who work sincerely are the happiest.',
-        'Chanakya',
+    '758ac2b2-4375-5011-a8c6-14ff9f11ae75' => [
+        'It is absolutely impossible to transcend the laws of nature. What can change in historically different circumstances is only the form in which these laws expose themselves.',
+        'Karl Marx',
     ],
-    '2ee8913f-b4de-5a1d-a623-c7c07ff5f026' => [
-        'Beauty is whatever gives joy.',
-        'Edna St. Vincent Millay',
+    '924e75af-8cb3-5569-a53f-3abcbf9d9c29' => [
+        'All of us profit from being corrected - if we\'re corrected in a positive way.',
+        'Sam Walton',
     ],
-    '97330920-7981-5bf5-84b4-339fdfde740f' => [
-        'Only stupid people are changed by success.',
-        'Jurgen Klopp',
+    '65fe41c5-6969-56e5-8a60-0127576f9bf2' => [
+        'I think the kids in school that laughed at the clothes that we wore and the house that we lived in, and then my mother had to cut hair... I think that was a good motivator. Every time they laughed at me, they just built a fire, and there was only one way to put it out - to try and show \'em I was as good as they were.',
+        'Jimmy Dean',
     ],
-    'b3e54481-7ab0-569c-9b8f-79f59abe2f06' => [
-        'I do work too hard sometimes, but my mom is such an inspiration. She tells me to \'chill out\' and not take things so seriously. She will say: \'Go and have a massage.\'',
-        'Josh Peck',
+    '0ef0c37b-5ce1-58a4-8247-84a94ae29410' => [
+        'Nothing can resist the person who smiles at life - I don\'t mean the ironic and disillusioned smile of my grandfather, but the triumphant smile of the person who knows that he will survive, or that at least he will be saved by what seems to be destroying him.',
+        'Pierre Teilhard de Chardin',
     ],
-    '708b9511-d146-5bb4-86c4-a2a9fb3fc93a' => [
-        'Ever since I began to compose, I have remained true to my starting principle: not to write a page because no matter what public, or what pretty girl wanted it to be thus or thus; but to write solely as I myself thought best, and as it gave me pleasure.',
-        'Felix Mendelssohn',
+    '00591167-8756-5da4-ada4-4e2935c3287e' => [
+        'Do your own thing on your own terms and get what you came here for.',
+        'Oliver James',
     ],
-    '0e472cc8-081f-5dfc-be98-51bbb323945d' => [
-        'I always knew I was a writer. And I always thought to myself, \'Well, why not me?\' Someone has to be on the best-seller list, \'Why not me?\' Someone has to write for the \'New Yorker,\' \'Why not me?\' And I didn\'t really get much positive reinforcement as a kid, so I thought, \'Well let me show you what I can do.\'',
-        'Elizabeth Wurtzel',
+    '6b920e5d-2a00-54bd-81a4-d9b5cf7f3213' => [
+        'My readers and my audiences have turned into my followers. They are more than interested in what I have to say in the subjects of sales, loyalty, attitude, networking, business social media, and becoming a trusted advisor.',
+        'Jeffrey Gitomer',
     ],
-    '9b0e625f-4392-57b0-ab8d-d858c632d637' => [
-        'Fortune favours the brave.',
-        'Virgil',
+    '7a3acb68-d5f3-57f3-bea6-ca1990989f48' => [
+        'Sometimes the biggest act of courage is a small one.',
+        'Lauren Raffo',
     ],
-    '6678bd1f-80e0-5404-a01e-854c7427808b' => [
-        'The person interested in success has to learn to view failure as a healthy, inevitable part of the process of getting to the top.',
-        'Joyce Brothers',
+    'e5cc515c-3695-5361-b1e0-8c2cc9950392' => [
+        'Excellence encourages one about life generally; it shows the spiritual wealth of the world.',
+        'George Eliot',
     ],
-    'f1fe2918-8da7-583d-848d-c0ba93b206b9' => [
-        'A minister of Jesus Christ should not be regardless of his attitude. If he is the representative of Jesus Christ, his deportment, his attitude, his gestures, should be of that character which will not strike the beholder with disgust.',
-        'Ellen G. White',
+    '78272c48-5082-5c3a-8714-743993cbeae2' => [
+        'The best thing I did was to choose the right heroes.',
+        'Warren Buffett',
     ],
-    '73444144-3b7f-5944-bd03-4bacbb4cd20a' => [
-        'The work environment is very important in determining how enjoyable work is. It is very important to work with smart guys who have a superior level of intellectual bandwidth and still have softer skills as well.',
-        'Kumar Mangalam Birla',
+    'a96c3a99-5ca5-5751-9ed1-3f43f378b77b' => [
+        'The sailor\'s life is at the best a life of danger. He pursues honor on the mountain wave and finds it in the battle and in the storm, and never did more distinguished chivalry display itself than in the conduct of our seamen during the late war.',
+        'John Tyler',
     ],
-    '9bdcc211-8cd2-509c-9596-b48e15ceff12' => [
-        'I think it doesn\'t matter if you are the best surfer in the world. I\'m going to try to be the best surfer I can be. It\'s not all about competing and being the best. It\'s more about having fun and just doing what you love.',
-        'Bethany Hamilton',
+    '4e47da74-154d-5791-ac70-9887115c8837' => [
+        'It takes a long time to grow an old friend.',
+        'John Leonard',
     ],
-    '69f20acd-ba8b-523a-8d27-ac488f84c95a' => [
-        'I have so many indie bands on my iPod. What I don\'t really understand is the attitude that if a band is unknown, they\'re good, and if they get fans, then you move on to the next band.',
-        'Taylor Swift',
+    'e6a43a54-6f4b-58b3-bbc2-cade95f4263b' => [
+        'I\'m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.',
+        'Joan Jett',
+    ],
+    '4a5ed56e-da82-528a-be13-3b5248c47360' => [
+        'While we are postponing, life speeds by.',
+        'Karen Salmansohn',
+    ],
+    '2d5a4b82-1d4f-52fa-831d-dde91ab210c8' => [
+        'And to me, fame is not a positive thing. The idea of being famous is a lot better than the reality. It\'s fantastic when you go to premieres and people cheer you, but it\'s not real. And it\'s totally not my approach to get my name on a club door just because I can.',
+        'Tom Felton',
+    ],
+    '7126e392-e222-52d7-92c7-2eeed63a9078' => [
+        'Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.',
+        'Christina Aguilera',
+    ],
+    'adf68ae8-22b0-55e7-81eb-be6951fbdcbb' => [
+        'It was my father who instilled the \'never say no\' attitude I carry around with me today, and who instilled in me a sense of wonder, always taking us on adventures in the car, never telling us the destination.',
+        'Marlee Matlin',
+    ],
+    '131e7b14-74ba-5754-bebb-a3be838d98cf' => [
+        'I hate the idea of success robbing you of your private life.',
+        'Paul McCartney',
+    ],
+    'f75e37a3-339d-5991-bab8-41095d14fd15' => [
+        'People say funny things all the time during really serious moments in life.',
+        'Mark Ruffalo',
+    ],
+    '08eb4799-8cc8-54db-b53d-2cc0df8cd864' => [
+        'You leave home to seek your fortune and, when you get it, you go home and share it with your family.',
+        'Anita Baker',
+    ],
+    'c57fe3fa-a9e1-5c02-aedb-d900dda9ff9d' => [
+        'My dad\'s my best mate, and he always will be.',
+        'Cher Lloyd',
+    ],
+    'bebdffc5-7123-5592-a1d7-193632558d63' => [
+        'Opportunities are usually disguised as hard work, so most people don\'t recognize them.',
+        'Ann Landers',
+    ],
+    '3fff2276-7731-5a1b-88de-20da2e923003' => [
+        'You can\'t go back and make a brand new start. But, you can start now and make a brand new ending.',
+        'Anonymous',
+    ],
+    'bb8edc9e-7620-5b89-8368-88883a683e2c' => [
+        'When I am wrong, I will learn the lesson and move on to face other challenges. For me, that\'s what creating your own life is. Doing your best work while being your best self.',
+        'Jennifer Lopez',
+    ],
+    'edbe3346-48bf-53d4-9885-949750dfd08a' => [
+        'I think that any time of great pain is a time of transformation, a fertile time to plant new seeds.',
+        'Debbie Ford',
+    ],
+    '35a1ad0a-f506-57e9-b46b-50d99269a32a' => [
+        'I destroy my enemies when I make them my friends.',
+        'Abraham Lincoln',
+    ],
+    '9bf52e9c-5253-5374-bb01-1374f7a38974' => [
+        'Most of us start out with a positive attitude and a plan to do our best.',
+        'Marilu Henner',
+    ],
+    '42ec7362-05c5-597f-8703-fab95be101eb' => [
+        'Evangelicals always assume that humor and faith are contradictory. It\'s OK to smile, to be nice, but not frivolous.',
+        'Mike Yaconelli',
+    ],
+    '6765a52a-aa7a-5fe9-a9ed-d384c264d4e7' => [
+        'There are lots of things which I would love to tell him, but in some way, I also feel that I lost the person closest to me. And I got a second chance to live. So in a way I feel that I live for both of us... and I will do my best.',
+        'Petra Nemcova',
+    ],
+    'c5f2045d-5357-5c27-a5cd-a1d596dc7ba1' => [
+        'People need to realise what real happiness and success is, because success as an actor is fleeting. You can be up there one day and gone the next.',
+        'Chuck Norris',
+    ],
+    'c81043ed-955b-5fa9-b0db-1a2bb66f0828' => [
+        'All cities are mad: but the madness is gallant. All cities are beautiful: but the beauty is grim.',
+        'Christopher Morley',
+    ],
+    'd0bafa27-35e0-5092-9d1f-5d791912bb6d' => [
+        'I never said I wanted a \'happy\' life but an interesting one. From separation and loss, I have learned a lot. I have become strong and resilient, as is the case of almost every human being exposed to life and to the world. We don\'t even know how strong we are until we are forced to bring that hidden strength forward.',
+        'Michael Jordan',
+    ],
+    '5c25257a-9743-5292-bbc6-df40817ffa91' => [
+        'For the happiest life, days should be rigorously planned, nights left open to chance.',
+        'Helen Keller',
+    ],
+    '3b9135f5-847c-5893-b840-66b800ebac72' => [
+        'I\'m lucky in having found the perfect partner to spend my life with.',
+        'Henry Drummond',
+    ],
+    '75f54dd7-30eb-5b6d-b318-a622d0c0e3b0' => [
+        'Everything you need for better future and success has already been written. And guess what? All you have to do is go to the library.',
+        'Henri Frederic Amiel',
+    ],
+    '97b680d5-340c-5115-ad04-c3ca8ba65259' => [
+        'Grief is in two parts. The first is loss. The second is the remaking of life.',
+        'Will Smith',
+    ],
+    '91bb1feb-c304-5532-9cdc-0fcf8c2f50f7' => [
+        'Surfers have the most attitude.',
+        'Shaun White',
+    ],
+    '0289ed81-7b2d-56fe-98e1-2fbe43b51a5c' => [
+        'Being in love is the best thing in my life.',
+        'Olivia Newton-John',
     ],
 ];

@@ -13,9 +13,9 @@ class FortuneCommand extends AbstractCommand
 {
     private const WORDWRAP_DEFAULT = 80;
 
-    private const WORDWRAP_MIN = 0;
+    private const WORDWRAP_MIN     = 0;
 
-    private const WORDWRAP_MAX = 160;
+    private const WORDWRAP_MAX     = 160;
 
     use LockableTrait;
 
@@ -72,7 +72,7 @@ class FortuneCommand extends AbstractCommand
 
         $array  = $this->getFortune()->getRandomFortune();
         $quote  = $array[0];
-        $author = sprintf('    -- %s', $array[1]);
+        $author = sprintf('    — %s', $array[1]);
 
         if ($wordwrap > self::WORDWRAP_MIN) {
             $quote  = wordwrap($quote, $wordwrap);

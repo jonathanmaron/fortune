@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'af6187ab-901f-51e2-914e-d8090aeecfb8' => [
-        'There may be aliens in our Milky Way galaxy, and there are billions of other galaxies. The probability is almost certain that there is life somewhere in space.',
-        'Chris Evans',
+    'c9e93cf4-77db-5b22-bb55-7662cd56ac7d' => [
+        'The world is round and the place which may seem like the end may also be the beginning.',
+        'Ivy Baker Priest',
     ],
-    'fdc0ac1a-3bac-5c00-953a-2601f6d660af' => [
-        'Slow travel now rivals the fly-to-Barcelona-for-lunch culture. Advocates savour the journey, travelling by train or boat or bicycle, or even on foot, rather than crammed into an airplane. They take time to plug into the local culture instead of racing through a list of tourist traps.',
-        'Carl Honore',
+    '10fb0190-a5a3-53d4-abf4-2753aeb98e13' => [
+        'I believe in luck: how else can you explain the success of those you dislike?',
+        'Jean Cocteau',
     ],
-    'a32f91a2-ec18-5a68-9395-5e52f42cc5af' => [
-        'I hate the idea of success robbing you of your private life.',
-        'Paul McCartney',
+    '8a93c307-e709-511c-9e32-7d9fa375120c' => [
+        'People have to make journeys, what we want is people to have alternatives in public transport so that they can make a choice about the sort of way in which they\'re going to travel.',
+        'Theresa May',
     ],
-    'bc9e58fc-aeec-5eae-b291-f02424f5408c' => [
-        'Your purpose is to make your audience see what you saw, hear what you heard, feel what you felt. Relevant detail, couched in concrete, colorful language, is the best way to recreate the incident as it happened and to picture it for the audience.',
-        'Dale Carnegie',
+    'd2a560e4-19e7-5987-b2a6-33f63cd3310d' => [
+        'Sometimes the best way to solve your own problems is to help someone else.',
+        'Iroh',
     ],
-    'ca2fba6c-8d2f-55d8-8b1f-0108157a22db' => [
-        'This generation... they have a different attitude. Instead of sitting and watching something, they want to be a part of it - they\'re very hedonistic and sensual.',
-        'Steve Wynn',
+    '8c8e9415-0926-5849-b2de-74fe918797aa' => [
+        'Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose-it teaches you about life.',
+        'Muhammad Ali',
     ],
-    '3508fd60-d370-59ca-9b1a-19e7de12853f' => [
-        'Communism doesn\'t work because people like to own stuff.',
-        'Frank Zappa',
+    '091a9c32-65d9-534c-be6f-c5813e922ae2' => [
+        'Some people have no respect whether you are with your family or not. That\'s the hardest part. I was shopping in a grocery store in Seattle looking for stuff for Nicholas. This guy kept following me with his cell phone video on.',
+        'Joe Montana',
     ],
-    '09ff67ac-ca71-5216-a650-b14be632834f' => [
-        'A few of the sublimest geniuses of Rome and Athens had some faint discoveries of the spiritual nature of the human soul, and formed some probable conjectures, that man was designed for a future state of existence.',
-        'David Brainerd',
+    '30054d72-55f5-5f69-b04d-6c94f4cda89d' => [
+        'I never appreciated \'positive heroes\' in literature. They are almost always cliches, copies of copies, until the model is exhausted. I prefer perplexity, doubt, uncertainty, not just because it provides a more \'productive\' literary raw material, but because that is the way we humans really are.',
+        'Jose Saramago',
     ],
-    '73c92d21-35ad-5196-898d-dccd4513b20b' => [
-        'I think the big problem this country has is being politically correct. I\'ve been challenged by so many people, and I don\'t frankly have time for total political correctness. And to be honest with you, this country doesn\'t have time either.',
-        'Donald Trump',
+    '2b3baa66-3d99-5e66-9ab9-19fa19e79635' => [
+        'Two wrongs don\'t make a right, but they make a good excuse.',
+        'Thomas Szasz',
     ],
-    '0e929a84-5b4d-5bae-8c9a-39b510058b99' => [
-        'I was lucky enough to have it all. To be successful in business, to have children, to raise them on my own, and to travel and live my life. It was a lot of work, but it\'s a privilege to have been able to do it.',
-        'Diane von Furstenberg',
+    '1d2bc90c-a716-5126-add0-748d2212a30b' => [
+        'Video is a funny thing. It\'s one thing to be an artist, singer-songwriter, and use words and create pictures in people\'s minds. And then be asked to do video for it, to actually give a certain visual for your song.',
+        'Melissa Etheridge',
     ],
-    '94718e02-850f-5302-97bb-605a64c0d529' => [
-        'I\'m really not that funny in real life! But I am the best audience one could find. I love to laugh.',
-        'Carol Burnett',
+    '74eba3e0-c38d-5f06-a4d4-b50fb0ea01b3' => [
+        'Every moment and every event of every man\'s life on earth plants something in his soul.',
+        'Thomas Merton',
     ],
-    'ba96e9f3-ef3b-5dad-99a5-c0945854facc' => [
-        'On one hand I am this weird androgynous tomboy where I\'m strangely low maintenance and have a five-minute makeup regimen. On the other I\'m obsessed with all things beauty, from skin care to makeup.',
-        'Rachel Zoe',
+    '3012fd12-0210-5235-89c7-10edfb14cb82' => [
+        'One man\'s folly is another man\'s wife.',
+        'Helen Rowland',
     ],
-    '2b391bcf-3e93-5110-a94b-22dd7b2b46ec' => [
-        'Yes, I do believe that there is a cause and effect and a ripple effect upon everything everybody does, and they have positive consequences and negative consequences. If you start to focus on the kind of minutia of that, it\'s really quite extraordinary.',
-        'Kiefer Sutherland',
+    'd71f4ef5-43b9-57c7-84a1-bca3e4e66d23' => [
+        'A person who has been punished is not less inclined to behave in a given way; at best, he learns how to avoid punishment.',
+        'B. F. Skinner',
     ],
-    '5ef7c338-7677-5d2a-8a27-93f520b0d76e' => [
-        'The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.',
-        'Charles R. Swindoll',
+    'cf38e271-06b8-5f79-a580-a8ddb81253f8' => [
+        'Life\'s short. Anything could happen, and it usually does, so there is no point in sitting around thinking about all the ifs, ands and buts.',
+        'Joan D. Vinge',
     ],
-    '423aed11-5307-54d9-8c8c-d82b552c476f' => [
-        'I have a lot of funny friends, though not everyone\'s funny all the time. Doon Mackichan\'s my funniest friend in the pub; Nina Conti\'s the funniest with a monkey.',
-        'Sally Phillips',
+    '93026eaf-7ab6-5997-857a-aa3dd427391f' => [
+        'I am a generous man, by nature, and far more trusting than I should be. Indeed. The real world is risky territory for people with generosity of spirit. Beware.',
+        'Hunter S. Thompson',
     ],
-    'c1371235-2861-5132-afab-84a3cb92c4f6' => [
-        'Why do I talk about the benefits of failure? Simply because failure meant a stripping away of the inessential. I stopped pretending to myself that I was anything other than what I was, and began to direct all my energy into finishing the only work that mattered to me.',
-        'J. K. Rowling',
+    'c35fe2cb-552f-5a28-a629-3805f4e19b38' => [
+        'Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success.',
+        'William J. H. Boetcker',
     ],
-    'b9c2e78f-24bd-5201-b889-8556674d8e7a' => [
-        'I wouldn\'t call myself successful, just obsessively exhausted. The music makes me smile, the movies make me feel humbled, and the comedy saves my life every day.',
-        'Vir Das',
+    'a4e82883-7b45-5e42-808e-a4f98860fb43' => [
+        'He who is overly attached to his family members experiences fear and sorrow, for the root of all grief is attachment. Thus one should discard attachment to be happy.',
+        'Chanakya',
     ],
-    '57a7b65e-f3af-54a7-b935-83a2889dacd9' => [
-        'Oh, I don\'t think Tom Sowell would tell anybody to join the administration. That\'s not his style. But I think his attitude has always been if it had to be done he\'d prefer me to do it than somebody else.',
-        'Clarence Thomas',
+    '4e80b699-ebe3-5817-bba0-410bff4826e4' => [
+        'It takes 20 years to make an overnight success.',
+        'Eddie Cantor',
     ],
-    'fa036366-7fdc-5509-99a9-a9f4edc64171' => [
-        'I\'m not trying to stump anybody... it\'s the beauty of the language that I\'m interested in.',
-        'Buddy Holly',
+    '93220e66-6e36-5b65-8580-5376ad065261' => [
+        'A good teacher is like a candle, it consumes itself to light the way for others.',
+        'Unknown',
     ],
-    'aa317cee-2965-5396-b8ea-2256efd40e12' => [
-        'The most decisive actions of our life... are most often unconsidered actions.',
-        'Andre Gide',
+    '41648ebf-70dc-5da5-a915-376cc7d5c69f' => [
+        'When the media defines something, you have to question: Is it the definition that you want applied to your culture? I\'m trying to determine who\'s leaving the legacy, and if the legacy that is being left is a positive one.',
+        'Tim Reid',
     ],
-    'bd920b51-9826-5c96-950d-ede8e2ea72a6' => [
-        'Hollywood needs to recognise all shades of African American beauty.',
-        'Gabrielle Union',
+    '4fff4bfb-09cc-507c-8187-d194abb20bfa' => [
+        'I like to think my dad was easygoing and kind, and I think some of those things have been passed down. I am like him in a sense of being positive and hopeful. He was compassionate, and I\'ve got a lot of that in me as well.',
+        'Joel Osteen',
     ],
-    'c56cc8c6-0d21-5941-bcfd-088c597371d1' => [
-        'The lesson of travel seems to be so banal, but so great, which is that people are just so amazingly decent the world over. Given the disparity of income and wealth, it\'s amazing not just that you don\'t get robbed everywhere - it\'s amazing you don\'t get eaten.',
-        'Geoff Dyer',
+    '08468cfe-71c6-591c-9ed4-731534724b25' => [
+        'When I tried to play something and screwed up, I\'d hear some other note that would come into play. Then I started trying different things to find the beauty in it.',
+        'Dimebag Darrell',
     ],
-    '5122d496-8f8b-58ec-83ca-dd35028fa381' => [
-        'One important key to success is self-confidence. An important key to self-confidence is preparation.',
-        'Arthur Ashe',
+    '09c005bc-7f09-5743-9ef9-0f2a1379a1e7' => [
+        'He who has health has hope, and he who has hope has everything.',
+        'Unknown',
     ],
-    '2c0427d2-6389-5d70-8c84-5d96f33ecf1a' => [
-        'Failure is simply the non-presence of success. But a fiasco is a disaster of mythic proportions.',
-        'Orlando Bloom',
+    '1c4c53ef-e4e7-5a58-aa33-295d1dd36986' => [
+        'At American Airlines, we have built a business around the love of travel that has lasted three quarters of a century. And I\'m pretty sure we\'re just getting started.',
+        'Gerard Arpey',
     ],
-    '483582e1-fb11-55d8-92c3-06ba3710fc5b' => [
-        'Porsche is a driver\'s car - a performance car. That was funny - here\'s this awesome car, but it\'s got no cup holders.',
-        'Jason McCoy',
+    'd30b84d4-7e9a-5df9-aa75-6fb7ffe98e50' => [
+        'Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. At the end of the day, you put all the work in, and eventually it\'ll pay off. It could be in a year, it could be in 30 years. Eventually, your hard work will pay off.',
+        'Kevin Hart',
     ],
-    'e2590532-8c85-56db-878c-a1a811bac9a3' => [
-        'Everyone has their own insecurities, regardless of how you look or how people perceive you, but sometimes people give their insecurities too much power. Defining beauty is simply a matter of opinion. For me, real beauty has very little to do with the structure of someone\'s face or body.',
-        'Devon Aoki',
+    'e5047d2c-7367-5d4c-b6e6-3f430576ab99' => [
+        'Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.',
+        'Max Planck',
+    ],
+    '99eac3b1-8e7a-5da6-a971-69e59743cb68' => [
+        'I perfectly understood President Obama\'s attitude throughout the French presidential campaign. He had no reason to distance himself from Nicolas Sarkozy. It\'s the basic solidarity that leaders who worked together owe to each other.',
+        'Francois Hollande',
+    ],
+    'ffa4fdcd-c962-52db-9dfd-9bf73dbfdd3b' => [
+        'Whenever I\'ve had success, I never learn from it. Success usually breeds a degree of hubris. When you fail, that\'s when you learn.',
+        'Moby',
+    ],
+    '588834f8-cbd8-58a6-bdbc-a7adc7fa316f' => [
+        'It\'s funny because I remember when I came to the U.S. with \'Swimming Pool,\' the movie did well, and it was great box office for a French movie, but I remember I was a bit upset because all people talked to me about was the nudity.',
+        'Ludivine Sagnier',
+    ],
+    'ee4dff51-9e3f-52b9-86d5-65b37b310b15' => [
+        'Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not.',
+        'Galileo Galilei',
+    ],
+    '0a2d1638-b7f7-5736-a14b-10c7c1355c3e' => [
+        'If you smile when no one else is around, you really mean it.',
+        'Andy Rooney',
+    ],
+    'ce7f81d3-5acd-5b4f-9e15-adaffac744af' => [
+        'Happiness is the reward we get for living to the highest right we know.',
+        'Richard Bach',
+    ],
+    'efe284f0-125f-5775-b4ff-5d1448ea92e7' => [
+        'I\'m a very competitive person, but competitive with myself. I want to be the best that I can be, and if that means that I\'m eventually better than everyone else, then so be it. But I don\'t go around comparing and contrasting myself with other actors if I can help it. It\'s also, I think, the key to my success.',
+        'Wentworth Miller',
+    ],
+    '6a0f956d-1c40-5ce9-973e-6c26a7a0a465' => [
+        'The beauty, the poetry of the fear in their eyes. I didn\'t mind going to jail for, what, five, six hours? It was absolutely worth it.',
+        'Johnny Depp',
+    ],
+    '506c52e5-7ec7-5d75-9931-ac6852688fc9' => [
+        'Imagine if I\'d said, \'I have to be the best actress - I want that and nothing else.\' I never would have directed. I never would have produced. I never would have done a beauty line. I would have just worried about getting a job or been frustrated that I wasn\'t getting the job that I wanted. I was ready to be a businesswoman.',
+        'Salma Hayek',
+    ],
+    'a8d4a8ed-5d34-50db-b70d-e8e9cb3cd02d' => [
+        'I love faltering. I love, in a sense, coming up short. Because you learn nothing from success. You learn so much from failing.',
+        'Charlie Trotter',
+    ],
+    '8762ed97-9a5b-5115-82e6-09a6cbf887f8' => [
+        'Whenever I gaze up at the moon, I feel like I\'m on a time machine. I am back to that precious pinpoint of time, standing on the foreboding - yet beautiful - Sea of Tranquility. I could see our shining blue planet Earth poised in the darkness of space.',
+        'Buzz Aldrin',
+    ],
+    'a934787c-51e8-5b77-8cdd-f0d9109b564a' => [
+        'To photograph truthfully and effectively is to see beneath the surfaces and record the qualities of nature and humanity which live or are latent in all things.',
+        'Ansel Adams',
+    ],
+    '1c784412-558f-5dd8-a90a-68f710c840f7' => [
+        'I went to the Performing Arts School and studied classical ballet. That attitude is something that\'s put into your head. You are never thin enough.',
+        'Carmen Electra',
+    ],
+    'c1ed31d8-1552-5b07-b19d-460ac57fe26f' => [
+        'When you walk into a room, a healthy, beautiful smile is incredibly important.',
+        'Susan Anton',
+    ],
+    'e281d205-5e26-5093-80f3-7dcb01d27d73' => [
+        'People who cannot find time for recreation are obliged sooner or later to find time for illness.',
+        'John Wanamaker',
+    ],
+    'c38288c4-74a1-5190-b3b2-2a086cb33e7a' => [
+        'Time travel was once considered scientific heresy, and I used to avoid talking about it for fear of being labelled a \'crank.\'',
+        'Stephen Hawking',
+    ],
+    'e901fdfc-15d6-5695-9649-e0ec3d335856' => [
+        'I get up at 7:30 and work four hours a day. Nine to twelve in the morning, five to six in the evening. Businessmen would achieve better results if they studied human metabolism. No one works well eight hours a day. No one ought to work more than four hours.',
+        'Kurt Vonnegut',
+    ],
+    'd9bfacec-fed4-5bd7-9bfe-9d4c8380e591' => [
+        'I don\'t have a bank account because I don\'t know my mother\'s maiden name.',
+        'Paula Poundstone',
+    ],
+    '4f9d3f17-5c9c-57a1-946d-bba7fd122607' => [
+        'Too many people say to their brokers, I can\'t deal with this. Take my money. Do what you want. That\'s the worst attitude you can have.',
+        'Maria Bartiromo',
+    ],
+    'c1e98332-ec24-55ef-9af5-10ef777f16f7' => [
+        'Happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.',
+        'J. Donald Walters',
+    ],
+    '3b9bdb49-0e78-5140-bf2a-1690877e4489' => [
+        'All my life, I have been a positive thinker... I have always been able to survive by telling myself that no matter how bad things are, they will one day be better. And that out of every event - no matter how tragic - one can always find a way to survive and even, perhaps, to be a little bit happy.',
+        'Zsa Zsa Gabor',
+    ],
+    '8c3a63db-28cc-56f5-859a-6f20f19af441' => [
+        'Youth is really in your attitude, not in what you look like.',
+        'Walt Handelsman',
+    ],
+    'b9f2d1dc-1136-5754-b6ed-d3b000ff31d9' => [
+        'Having family responsibilities and concerns just has to make you a more understanding person.',
+        'Sandra Day O\'Connor',
+    ],
+    '561d2c77-d943-54d3-bdee-ecc8818e3483' => [
+        'It\'s when children are 15, 16 or 17 that they decide whether they want to be a doctor, an engineer, a politician or go to the Mars or moon. That is the time they start having a dream, and that\'s the time you can work on them. You can help them shape their dreams.',
+        'A. P. J. Abdul Kalam',
+    ],
+    '98fa2fe7-a1f4-539f-91e7-682d5fe0cbdf' => [
+        'Our environment, the world in which we live and work, is a mirror of our attitudes and expectations.',
+        'Earl Nightingale',
     ],
 ];

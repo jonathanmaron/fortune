@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'cf199c18-ffc1-50cc-a2f1-acb69df25eda' => [
-        'I know where I\'m going and I know the truth, and I don\'t have to be what you want me to be. I\'m free to be what I want.',
-        'Muhammad Ali',
+    '41fc8197-6f86-59bc-979e-03df5fe9f7ef' => [
+        'If we accept being talked to any kind of a way, then we are telling ourselves we are not quite worth the best. And if we have the effrontery to talk to anybody with less than courtesy, we tell ourselves and the world we are not very intelligent.',
+        'Maya Angelou',
     ],
-    '5fcbdb7e-b271-5b30-9f15-eeef95b60117' => [
-        'I think true success is intrinsic... It\'s love. It\'s kindness. It\'s community.',
-        'Tom Shadyac',
+    '2fe60538-707a-55dc-bed7-8e2a63e21713' => [
+        'Words have life and must be cared for. If they are stolen for ugly uses or careless slang or false promotion work, they need to be brought back to their original meaning - back to their roots.',
+        'Corita Kent',
     ],
-    '8f9aaaf6-e369-5605-bb05-1baa14232fd7' => [
-        'A theatre, a literature, an artistic expression that does not speak for its own time has no relevance.',
-        'Dario Fo',
+    '9c29b850-591e-521b-b1b4-bcb7451eb8b9' => [
+        'Mindfulness is about love and loving life. When you cultivate this love, it gives you clarity and compassion for life, and your actions happen in accordance with that.',
+        'Eminem',
     ],
-    '22b9fc5b-1467-5953-b425-3700a7dea043' => [
-        'Rockefeller once explained the secret of success. \'Get up early, work late - and strike oil.\'',
-        'Joey Adams',
+    '3e2868a4-3275-5391-953d-06585ab65531' => [
+        'For life and death are one, even as the river and the sea are one.',
+        'Baruch Spinoza',
     ],
-    '6af9ac77-8f02-52be-bd38-994dccbc858a' => [
-        'The best preparation for tomorrow is doing your best today.',
-        'H. Jackson Brown, Jr.',
+    'c4cca727-3fa7-5d81-832f-2fb1e84d3c38' => [
+        'Many of the most eloquent people I have ever met work in lab coats every day.',
+        'Michael Specter',
     ],
-    'ccc01d13-4c96-5e3b-b9b9-498846b850a2' => [
-        'There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.',
-        'Linda Hogan',
+    '3a638595-f346-5ece-ab44-b8697dd682e2' => [
+        'Always remember that the future comes one day at a time.',
+        'Dean Acheson',
     ],
-    '7e484357-f0f0-5b3b-86c4-aac406932e02' => [
-        'I do believe in love; it\'s wonderful - especially love third time around, it\'s even more precious; it\'s kind of amazing.',
+    '2ae4a950-3233-51ae-8f82-ab8621793a30' => [
+        'I was trying to heal wounds all the time, whether it meant having affairs or having attitude. I didn\'t want to show how sad I was.',
+        'Peggy Lipton',
+    ],
+    '27cc65ae-a124-5da2-8f4c-8c55aa9a2679' => [
+        'Tact is the ability to describe others as they see themselves.',
+        'Abraham Lincoln',
+    ],
+    'a8c8be9f-1ac1-53f8-9787-a906dc1f76c7' => [
+        'You cannot travel within and stand still without.',
+        'James Lane Allen',
+    ],
+    '16bc9670-f36c-588f-a6bf-0c4bd714e490' => [
+        'When you reach the end of your rope, tie a knot in it and hang on.',
+        'Franklin D. Roosevelt',
+    ],
+    'fb39ef76-bb81-59bf-8613-b694e1d102d3' => [
+        'It is only in sorrow bad weather masters us; in joy we face the storm and defy it.',
+        'Amelia Barr',
+    ],
+    '81582b82-6c3d-5d05-97c5-745416c4d33b' => [
+        'Most sets of values would give rise to universes that, although they might be very beautiful, would contain no one able to wonder at that beauty.',
+        'Stephen Hawking',
+    ],
+    '70f8d118-80c4-5361-9c67-7348675ba552' => [
+        'As the time goes by, you change, your learn new things, your attitude is different. For the moment, I\'m still enjoying ski racing so much that it would be difficult for me to think about ending my career.',
+        'Hermann Maier',
+    ],
+    '472b621f-c99a-587b-8d0b-b6654de0af0e' => [
+        'To hear people saying, \'The music you are doing has really touched my life and it\'s moved me in a lot of ways. It\'s helped me get through some tough times.\' That\'s the best compliment that you could get.',
+        'Kip Moore',
+    ],
+    '5bc15d83-aa1b-56f1-8409-ba6fe1418c9b' => [
+        'Nothing will work unless you do.',
+        'Maya Angelou',
+    ],
+    '4e7102ad-82fd-5252-a157-0c9b4f4bcd81' => [
+        'Everyone has attitude, and I think everyone should have attitude. But I know I have attitude, but that\'s just, I think if you don\'t have attitude, it comes only with self confidence. So if you don\'t have self confidence, you won\'t have attitude, and I think there\'s a difference when you have attitude and when you have arrogance.',
+        'Sania Mirza',
+    ],
+    'b670f4ab-6b9e-57f5-a546-f327cd811363' => [
+        'We aim above the mark to hit the mark.',
+        'Ralph Waldo Emerson',
+    ],
+    '06e7e8ca-94ca-59f8-bb01-cbc2d18be5f1' => [
+        'It is clear I was never the Pretty Girl. I had my two front teeth knocked out when I was 10 and didn\'t fix them until I was 19. I have a crooked smile and a nose that looks like it\'s been broken 12 times but never has been. My nose was always red, so people called me Rudolph. My whole face is off-center.',
+        'Ellen Barkin',
+    ],
+    'd2614e85-3900-5e03-a78c-1f2b2c82fcb4' => [
+        'You can\'t climb the ladder of success with your hands in your pockets.',
+        'Arnold Schwarzenegger',
+    ],
+    'da5f6428-2a32-5c99-82da-adff0bc9e486' => [
+        'When you\'re walking at the airport, you\'re expected to smile at people because they know you... I find that tough. I\'m only trying to protect myself. So I don\'t take my eyes off the floor. People can take that as attitude. But it\'s actually shyness. Yes, it is a bad habit. But it\'s a defense mechanism.',
+        'Katrina Kaif',
+    ],
+    'ed54fee7-8893-5fa0-b2f3-070aabac1664' => [
+        'I had this attitude, that Silicon Valley obnoxious attitude, that I know what I\'m doing, and the rest was going to be pretty easy.',
+        'Kimbal Musk',
+    ],
+    'bc22d91c-29c3-5b7e-b1af-2a36d33af1b3' => [
+        'We live in a world of constant juxtaposition between joy that\'s possible and pain that\'s all too common. We hope for love and success and abundance, but we never quite forget that there is always lurking the possibility of disaster.',
+        'Marianne Williamson',
+    ],
+    'a97266e4-ed25-5a2b-a4e3-ee2200b2aa1f' => [
+        'He who is fixed to a star does not change his mind.',
+        'Leonardo da Vinci',
+    ],
+    'dc697383-1535-5772-a845-a6328ad8b49d' => [
+        'I considered becoming a priest very seriously. I wanted to travel the world. By the time I turned 16, I realized I was only in it for selfish reasons. And, more importantly, I didn\'t want to sacrifice the ladies!',
+        'James McAvoy',
+    ],
+    '581a6011-9cf3-5ffd-bfad-4c846d2ab399' => [
+        'I do love traveling, so I\'ve been able to travel a lot.',
+        'Taylor Lautner',
+    ],
+    '9c4329b7-30e4-5ebb-ab70-0edaa875a79d' => [
+        'I\'ve always been about the power of a woman - accentuating the positive, deleting the negative, whether you\'re talking her body, her voice or her leadership.',
+        'Donna Karan',
+    ],
+    '683bb104-8bd3-5be2-aa46-c5d62017a688' => [
+        'I don\'t care how busy I am - I will always make time for what\'s most important to me.',
+        'Kevin Hart',
+    ],
+    '857f3f21-8a51-5437-9a83-491f864e7211' => [
+        'The best way to get to know the place you are traveling in is to walk around... and the best way to walk around is with comfortable shoes! Grab your travel buddy and your running shoes and go explore!',
+        'Laura Marano',
+    ],
+    '256f78de-82a8-51e6-bc17-2efa0f63b1fc' => [
+        'Smile, it\'s free therapy.',
+        'Douglas Horton',
+    ],
+    '5ebe58a4-2a39-5eb0-aff3-2da5e20932eb' => [
+        'A smile costs about $240.',
+        'Roma Downey',
+    ],
+    '706a7ed0-3d86-5eee-acbf-be02cd2ca00f' => [
+        'The hardest part is to travel, and to be away from your family.',
+        'Glenn Tipton',
+    ],
+    '6dd328a6-41a2-5587-bd87-961fa60b160d' => [
+        'And know that I am with you always; yes, to the end of time.',
+        'Jesus Christ',
+    ],
+    '8f67555b-825a-5eb8-9bf5-eb00c50b07ef' => [
+        'My work is all about adventure and teamwork in some of the most inhospitable jungles, mountains and deserts on the planet. If you aren\'t able to look after yourself and each other, then people die.',
+        'Bear Grylls',
+    ],
+    '25c1b9cf-9031-55a3-b59f-c32a8ed8148c' => [
+        'When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.',
+        'George Bernard Shaw',
+    ],
+    'eaff0038-ef17-52e8-bbc0-0b4a1cb92637' => [
+        'With five chances on each hand and one unwavering aim, no boy, however poor, need despair. There is bread and success for every youth under the American flag who has energy and ability to seize his opportunity.',
+        'Orison Swett Marden',
+    ],
+    '77c46c9c-1f8c-5bee-ac23-499f99fb4bb5' => [
+        'When Jonathan Winters died, it was like, \'Oh, man!\' I knew he was frail, but I always thought he was going to last longer. I knew him as being really funny, but at the same time, he had a dark side.',
         'Robin Williams',
     ],
-    'c4e52bbc-e36c-522c-aef8-afbb2f6e3ed5' => [
-        'Nature favors those organisms which leave the environment in better shape for their progeny to survive.',
-        'James Lovelock',
+    '2d4c4aef-18c4-5d0e-93fe-420a3f7471bc' => [
+        'Before the sacred, people lose all sense of power and all confidence; they occupy a powerless and humble attitude toward it. And yet no thing is sacred of itself, but by my declaring it sacred, by my declaration, my judgment, my bending the knee; in short, by my - conscience.',
+        'Max Stirner',
     ],
-    'e946d997-f286-57aa-a0b8-4b758816d01d' => [
-        'Success is not a destination, but the road that you\'re on. Being successful means that you\'re working hard and walking your walk every day. You can only live your dream by working hard towards it. That\'s living your dream.',
-        'Marlon Wayans',
+    '3ddde7c3-8f92-5af3-893f-ba81c16d619f' => [
+        'If you look at a painting that you love by one of the great masters, every time you go back to it, you see something different - a different attitude or brushstroke. \'Hamlet\' is like an entire gallery of old masters.',
+        'Rory Kinnear',
     ],
-    'a46b6ae9-9b07-54f9-8ef9-970414bc0678' => [
-        'They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?',
-        'Fidel Castro',
+    '21229e3e-0f80-521e-94fe-313cac98868e' => [
+        'Thoughts become things. If you see it in your mind, you will hold it in your hand.',
+        'Bob Proctor, You Were Born Rich',
     ],
-    '6bb2103b-efa6-56ab-8be6-19f62f3953d9' => [
-        'No man should bring children into the world who is unwilling to persevere to the end in their nature and education.',
-        'Plato',
+    '095ed3de-2210-58ed-8567-052795f8af87' => [
+        'Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.',
+        'Lord Byron',
     ],
-    '8a4910fb-48ee-51a4-adac-cafce7bd2a8f' => [
-        'More brands are waking up to their social responsibility and doing good work through cause marketing campaigns. Yet too many still go about it the wrong way. I mean \'wrong\' in two senses. Firstly, they are marketing ineffectively, and secondly, as a consequence their positive social impact is not maximized.',
-        'Simon Mainwaring',
+    'c4b06e0d-b66c-5ff3-bd7c-0b6d4dda2ba4' => [
+        'It is not light that we need, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake.',
+        'Frederick Douglass',
     ],
-    '85af187a-cdb5-5e4a-a23e-9f316d00d106' => [
-        'I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.',
-        'Elizabeth Montagu',
+    '519bd99f-83eb-5a54-b874-a74c7f637964' => [
+        'Life isn\'t black and white. It\'s a million gray areas, don\'t you find?',
+        'Kevyn Aucoin',
     ],
-    '4bea9af7-7256-5544-95ff-4ba5ba4f8d73' => [
-        'The beautiful is in nature, and it is encountered under the most diverse forms of reality. Once it is found it belongs to art, or rather to the artist who discovers it.',
-        'Gustave Courbet',
+    '2bf17dd5-97d1-56c7-8d6a-dc3248ea87a4' => [
+        'The catch phrase for the day is \'Do an act of kindness. Help one person smile.\'',
+        'Harvey Ball',
     ],
-    'aca55cc8-55c4-57d6-a167-880f7862f9dc' => [
-        'I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.',
-        'Henry Rollins',
+    'c313f827-6f07-5297-bf1f-03e423b34ba9' => [
+        'The police can\'t protect consumers. People need to be more aware and educated about identity theft. You need to be a little bit wiser, a little bit smarter and there\'s nothing wrong with being skeptical. We live in a time when if you make it easy for someone to steal from you, someone will.',
+        'Frank Abagnale',
     ],
-    'cd4403ba-0cd9-5733-8469-a914d73693b3' => [
-        'The essence of life is the smile of round female bottoms, under the shadow of cosmic boredom.',
-        'Guy de Maupassant',
+    '75c717dc-3a74-579c-b4f4-5621d1dd8dba' => [
+        'A concerted effort to preserve our heritage is a vital link to our cultural, educational, aesthetic, inspirational, and economic legacies - all of the things that quite literally make us who we are.',
+        'Steve Berry',
     ],
-    '0cadc73c-32fd-59bf-b1a5-827502db512e' => [
-        'The beauty of an art project is that you cannot always measure the impact, but one day it can become clear.',
-        'JR',
+    'f3f83755-ff73-5a61-afb3-35e865f29cdd' => [
+        'I choose to make the rest of my life the best of my life.',
+        'Louise Hay',
     ],
-    '18ab544f-32b8-51ab-9b9e-f47e526927e1' => [
-        'I bring people on stage with me. It\'s a good time, and people love to join in on the party. Show me a smile, and I\'ll show you one back.',
-        'Vanilla Ice',
+    'e77c2645-b8e5-554a-8185-1f7634cc5825' => [
+        'We have been so trying to convince them from the very beginning of our organization, but with no success.',
+        'George Haven Putnam',
     ],
-    '92c353bf-e72f-50ea-97bf-f5579e4e3c8f' => [
-        'Sid Vicious began the age of participation in which everyone could be the artist. Sid proved that you don\'t have to play well to be the star. You can play badly, or not even at all. I endorsed that attitude. If you can\'t write songs, no problem - simply steal one and change it to your taste.',
-        'Malcolm Mclaren',
+    '78745a54-a9a6-5c8f-82d9-bbe10feb4fcb' => [
+        'Real estate sales was perfect training for the experience to go into public life because you learn to accept rejection, learn to meet new people, learn to work with people and find common ground. That\'s the way you sell houses... that\'s also the way you win over constituency.',
+        'Johnny Isakson',
     ],
-    'eee539cb-95ea-589c-a7e9-5118541fd75c' => [
-        'Just as Darwin discovered the law of development of organic nature, so Marx discovered the law of development of human history: the simple fact, hitherto concealed by an overgrowth of ideology, that mankind must first of all eat, drink, have shelter and clothing, before it can pursue politics, science, art, religion, etc.',
-        'Friedrich Engels',
+    'fc1cc60e-fccc-59e2-867c-61187dd084c3' => [
+        'It is boorish to live ungraciously: the giving is the hardest part; what does it cost to add a smile?',
+        'Jean de la Bruyere',
     ],
-    'b6cf3d0b-58b1-5a83-9d1d-a636b2aec576' => [
-        'I love deadlines. I like the whooshing sound they make as they fly by.',
-        'Douglas Adams',
-    ],
-    '558b2b10-4e62-53f1-9b36-24863e99206f' => [
-        'I grew up with just my mom. She and I were like best friends. She\'s a very independent woman and I admire that about her. In my life, I\'ve tried to be like that. To be okay with being on my own and being independent.',
-        'Emma Roberts',
-    ],
-    'adf65c63-1651-5f91-9bed-dda0a441cef4' => [
-        'A person who never made a mistake never tried anything new.',
-        'Albert Einstein',
-    ],
-    'b8ac86c7-a64b-5f39-91af-193a75b86024' => [
-        'The joy is in the getting there. The beginning years of starting your business, the camaraderie when you\'re in the pit together, are the best years of your life. So rather than being so focused on when you get big and powerful, if you can just get the juice out of that... don\'t miss it.',
-        'Barbara Corcoran',
-    ],
-    '516b569a-57f6-5a33-85d1-0310176f5bfb' => [
-        'One of the main focuses of my training sessions is to help individuals find their unique voices in the learning process. We all have our strengths, our weaknesses, our styles of learning, our personalities. Developing introspective sensitivity to these issues is critical to long-term success.',
-        'Joshua Waitzkin',
+    '56df4d51-a11c-595c-80e8-68157f17c51f' => [
+        'Each experience through which we pass operates ultimately for our good. This is a correct attitude to adopt and we must be able to see it in that light.',
+        'Henry S. Haskins',
     ],
 ];

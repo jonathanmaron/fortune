@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '6dfa3020-0247-504c-9536-26c4592af317' => [
-        'I have an issue with others ordering for me, and I spend far too long haranguing people that my choices are the best. I apologize for the amount of conversations I have ruined with this attitude.',
-        'Ben Elliot',
+    '4eebf17e-150c-588c-9c3f-1713b6276d14' => [
+        'The Wine of Life keeps oozing drop by drop, The Leaves of Life keep falling one by one.',
+        'Les Brown',
     ],
-    'c564b97c-e423-543b-bbb3-86d8099b03d5' => [
-        'The most used program in computers and education is PowerPoint. What are you learning about the nature of the medium by knowing how do to a great PowerPoint presentation? Nothing. It certainly doesn\'t teach you how to think critically about living in a culture of simulation.',
-        'Sherry Turkle',
+    '9ce18e8c-edf1-538a-b0d3-281e0e8230fa' => [
+        'Festivals are fun for kids, fun for parents and offer a welcome break from the stresses of the nuclear family. The sheer quantities of people make life easier: loads of adults for the adults to talk to and loads of kids for the kids to play with.',
+        'Tom Hodgkinson',
     ],
-    'c11f0963-4915-5b0c-8d33-1afd842b9960' => [
-        'It\'s not about how hard you can hit; it\'s about how hard you can get hit and keep moving forward.',
-        'Rocky Balboa',
+    'd4dfa8e0-834b-52a6-8061-9d0b098fa075' => [
+        'Feeling is the consciousness of the resulting conditions - of success, failure, equilibrium, compromise or balance, in this continuous rivalry of ideas.',
+        'James Mark Baldwin',
     ],
-    'a3f963e0-c3e0-529a-8120-717e059ab70a' => [
-        'Boston is actually the capital of the world. You didn\'t know that? We breed smart-ass, quippy, funny people. Not that I\'m one of them. I just sorta sneaked in under the radar.',
-        'John Krasinski',
+    '7a2954ec-e8e9-5671-a82b-9d9dea08fc6b' => [
+        'The people of Liberia know what it means to be deprived of clean water, but we also know what it means to see our children to begin to smile again with a restoration of hope and faith in the future.',
+        'Ellen Johnson Sirleaf',
     ],
-    '5da75c1e-b0a6-51cf-a083-a5d598fc0e83' => [
-        'Everything I\'ve been through, everything I\'m about to go through in my career and my life, if my family wasn\'t with me and didn\'t support me, it would be really tough.',
-        'Karl Malone',
+    'f8e14ee6-a6a2-5d85-9ba7-cb0e6e3e1691' => [
+        'I had the opportunity to go into the hospitals and talk to kids and see a kid and make him smile. Why? Because I\'m a special person? No. It had nothing to do with that. It has everything to do with me being the quarterback at the University of Florida. And to not take advantage of that is a shame.',
+        'Tim Tebow',
     ],
-    '4d54c797-466c-5daa-ad66-eb72ec78d36c' => [
-        'We are all in the gutter, but some of us are looking at the stars.',
-        'Oscar Wilde',
+    '4e6b9be3-26e0-59c6-84f7-d6ee2e39b3a3' => [
+        'Probably the first time I left Italy was to travel by train to Lourdes. I went with my mother and my grandmother - who was a very religious person - so it was a pilgrimage of sorts. I remember it as a very intense, but beautiful experience.',
+        'Andrea Bocelli',
     ],
-    'e608553c-e46e-5db9-b804-63de5775fbb6' => [
-        'You couldn\'t get me to go travel around and sit in a hotel room again. I have no interest in doing that. So everybody\'s happy. I am, at 74. Some people like doing it, but I never was much for that, anyway. It\'s a lot of work. So the only thing I miss about all of it is the camaraderie of the tour, but that doesn\'t offset the rest of it.',
-        'Phil Everly',
+    '99c0b921-3b74-5835-b16b-8e58c155137e' => [
+        'When virtue and modesty enlighten her charms, the lustre of a beautiful woman is brighter than the stars of heaven, and the influence of her power it is in vain to resist.',
+        'Akhenaton',
     ],
-    '55d4ec79-0da6-5e0e-947c-158a6f04037a' => [
-        'Education is not just about going to school and getting a degree. It\'s about widening your knowledge and absorbing the truth about life.',
-        'Horace',
+    'be14c172-8b0a-5366-a3bd-81bd2a6f76ac' => [
+        '\'24\' was so serious that it was nice to join \'NCIS\' and even be able to smile once or twice.',
+        'Annie Wersching',
     ],
-    '280a3226-9179-5dd4-a2c4-94133781a1bd' => [
-        'There are powers inside of you which, if you could discover and use, would make of you everything you ever dreamed or imagined you could become.',
-        'Orison Swett Marden',
+    'bfce2221-8332-58ca-8ba9-974e4f3fa36b' => [
+        'I come from a place where everything about me, even my body language, is saying: I mean you no harm. I smile, I laugh. Basic stuff for most people.',
+        'Oscar Isaac',
     ],
-    '94065dae-920b-5a8f-8156-7eac8c4a8533' => [
-        'When I remember my mother, it makes me really sad. But, when I remember my father, it makes me smile.',
-        'Akkineni Nagarjuna',
+    '83a88783-8375-5d2a-8f3d-52d853ff45ae' => [
+        'There\'s really no secret to success. You make your own success.',
+        'Alex Morgan',
     ],
-    '6e129aa3-7fa3-57d9-be25-826c5585c0c2' => [
-        'I\'ve played a ghost, cat, snake. I\'ve been funny, sad. I\'ve been filmed flying on screen. So why not spend time on something else? I don\'t need to accept everything I\'m offered.',
-        'Maggie Cheung',
+    'fd003f87-737f-59dd-8b35-19cc7d6ee1fb' => [
+        'I came to America with a dream and I made it. The dream became reality. America is built for success.',
+        'Jean-Claude Van Damme',
     ],
-    'a45010db-3129-5fd2-9b09-348f07041d95' => [
-        'Fear is a darkroom where negatives develop.',
-        'Usman Asif',
+    'bb657fa5-8f45-5d9b-8837-8ee8504e8f78' => [
+        'Surely it is time to examine into the meaning of words and the nature of things, and to arrive at simple facts, not received upon the dictum of learned authorities, but upon attentive personal observation of what is passing around us.',
+        'Frances Wright',
     ],
-    '93a6818e-9473-55b8-81f8-5b15018296b9' => [
-        'There are thousands of inspirational stories waiting to be told about young women who yearn for a great education. They are stories of struggle and stories of success, and they will inspire others to take action and work to change lives.',
-        'Soledad O\'Brien',
+    '0537515d-0799-5656-97d6-5965e06996f8' => [
+        'More power than all the success slogans ever penned by human hand is the realization for every man that he has but one boss. That boss is the man - he - himself.',
+        'Gabriel Heatter',
     ],
-    '382b23b0-18ae-5c19-9b22-0953d7976e30' => [
-        'Spring won\'t let me stay in this house any longer! I must get out and breathe the air deeply again.',
-        'Gustav Mahler',
+    '022f344c-44e4-5231-899b-f30a3fd96a9a' => [
+        'I\'m not afraid of storms, for Im learning how to sail my ship.',
+        'Louisa Alcott',
     ],
-    '988edf37-b1d6-533a-9d07-3e86933ff95d' => [
-        'When I came into office, people said, \'Billionaire? How do they live? What do they eat? How do they sleep?\' Today, they see me on the subway coming uptown. A couple of people say hi, some people smile and nod. Some people just sleep. It\'s not an issue.',
-        'Michael Bloomberg',
+    '8ac2560e-36b1-5978-ad2c-d0c4ebe81ea3' => [
+        'I was raised with hippie parents, so I get down with the positive. I don\'t pay attention to the negative.',
+        'Guy Fieri',
     ],
-    'cbb99fa6-e739-546e-a459-186aa90f9127' => [
-        'Poetry lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar.',
-        'Percy Bysshe Shelley',
+    '8d558145-0857-5891-b823-7e27cfd3f8af' => [
+        'Try to always stay focused on the objectives that are possible and the positive - and on having fun outside of the stuff that\'s going on in Washington.',
+        'Rush Limbaugh',
     ],
-    'c01dc124-c13c-55d3-a500-527b432fe53b' => [
-        'Everything in life is somewhere else, and you get there in a car.',
-        'Madonna Ciccone',
+    '09a1cfc2-b5a7-503a-9e65-4ccb0513afec' => [
+        'I think being directed and mentored by someone as inspirational as Paul Feig not only improves my performance but, as a whole, makes it what it is.',
+        'Nargis Fakhri',
     ],
-    'ee5ef543-6287-5a35-a218-2932c4567193' => [
-        'I always wanted to be somebody, but now I realize I should have been more specific.',
-        'Lily Tomlin',
+    '154f59a3-87f9-5a5d-8a9a-7d7a5906db3c' => [
+        'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
+        'George Lorimer',
     ],
-    'abe2e380-2698-575e-b132-d424d0fee96a' => [
-        'I\'ve never done it, but I think if you do a Google search for \'People who will help me travel across the country to meet my online love,\' I\'m probably the only person that comes up.',
-        'Nev Schulman',
+    '688f7d6a-6915-56d0-9bc5-a3037ee7ada4' => [
+        'Whether in success or in failure, I\'m proud of every single movie I\'ve ever directed.',
+        'Steven Spielberg',
     ],
-    '79913b8b-85db-517a-bb16-02f8c9963da5' => [
-        'We must fight terrorism as if there\'s no peace process and work to achieve peace as if there\'s no terror.',
-        'Yitzhak Rabin',
+    'fecfc1ae-4dc8-5e8d-878d-fce8bb08972b' => [
+        'Expect problems and eat them for breakfast.',
+        'Alfred A. Montapert',
     ],
-    'c526c7d1-a04c-5986-85be-1ba08aa65521' => [
-        'All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work.',
-        'Calvin Coolidge',
+    'f7755e76-9200-5e20-a9d1-0fd2e5859e7f' => [
+        'I don\'t stop when I am tired, I stop when I am done.',
+        'James Bond',
     ],
-    'dd1f7d23-49fc-597b-9b9e-7ba4019da1a0' => [
-        'When you grow up by the sea, you spend a good deal of time looking at the horizon. You wonder what on Earth the waves might bring - and where the sea might deposit you - until one day you know you have lived between two places, the scene of arrival and the point of departure.',
-        'Andrew O\'Hagan',
+    '5cad1400-67ed-550e-9d4a-502ba5bf0340' => [
+        'I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive.',
+        'Yoko Ono',
     ],
-    'ea817f61-eaf5-5af3-ba39-c0be65b8ccaa' => [
-        'Look up, laugh loud, talk big, keep the color in your cheek and the fire in your eye, adorn your person, maintain your health, your beauty and your animal spirits.',
-        'William Hazlitt',
+    '67845661-99ee-517b-a7ee-9c6c2c51e33e' => [
+        'Poetry at its best can do you a lot of harm.',
+        'Sylvia Plath',
     ],
-    '58845e1a-3ab5-5d8c-854f-ebad09f54436' => [
-        'It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.',
-        'Franklin D. Roosevelt',
+    '77d6c5e0-d63b-5b35-8a20-2c71175db094' => [
+        'To realize the American dream, the most important thing to understand is that it belongs to everybody. It\'s a human dream. If you understand this and work very hard, it is possible.',
+        'Cristina Saralegui',
     ],
-    '544ada7b-0165-5b53-85df-d58087383383' => [
-        'The patient decides when it\'s best to go.',
-        'Jack Kevorkian',
+    '455547d0-ac11-527e-beb3-8bcc4c223d99' => [
+        'The attitude of the West and of Russia towards a crisis like Ukraine is diametrically different. The West is trying to establish the legality of any established border. For Russia, Ukraine is part of the Russian patrimony.',
+        'Henry Kissinger',
+    ],
+    'f37832cd-809b-5c15-a064-0b1cf31bb963' => [
+        'It\'s wonderful to learn about new cultures and to be able to travel easily to so many countries.',
+        'Stephen A. Schwarzman',
+    ],
+    '1ceb2a24-0d8f-5747-a301-5c1c46005f81' => [
+        '\'Priced to sell\' - just the phrase makes me smile. When a dealer says all the items in his booth are priced to sell, he means he\'s tagged them as aggressively as he can to get you to buy them. Don\'t worry, though, I still haggle. You have to. That\'s the point of a flea market.',
+        'Nate Berkus',
+    ],
+    '3618884b-2c3f-53b7-a339-177cef258ad6' => [
+        'The government will see that human spaceflight is useful - for science and the economy - and inspirational.',
+        'Helen Sharman',
+    ],
+    '952c49ad-985d-5106-ba5d-5493e5bf54c8' => [
+        'There\'s a great power in words, if you don\'t hitch too many of them together.',
+        'Josh Billings',
+    ],
+    '9305e717-c86f-51e4-a42a-06f55200d70f' => [
+        'Beware of the half truth. You may have gotten hold of the wrong half.',
+        'Unknown',
+    ],
+    '04912ad8-a9a2-5f04-aca6-006e9bad216a' => [
+        'The beauty of the past belongs to the past.',
+        'Margaret Bourke-White',
+    ],
+    '7d87a74a-8c5d-58fe-b30e-763a43dfbb20' => [
+        'If you drive to, say, Shenandoah National Park, or the Great Smoky Mountains, you\'ll get some appreciation for the scale and beauty of the outdoors. When you walk into it, then you see it in a completely different way. You discover it in a much slower, more majestic sort of way.',
+        'Bill Bryson',
+    ],
+    'b021a077-905b-5472-b320-338d2cfc5cdb' => [
+        'A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.',
+        'Washington Irving',
+    ],
+    '96edb52f-fe9b-5f7a-9821-9ecb20dcf4d2' => [
+        'In general, men are wired to notice obvious signs that convey interest in mating - a warm smile, for example - and ignore other subtleties, like if your lipstick is faded.',
+        'Helen Fisher',
+    ],
+    '24b56a0b-c0b0-5c3e-a8be-f558d177b657' => [
+        'I can look back now and say, \'Aw, that was a little dumb taking huge bumps onto concrete before a couple of hundred fans,\' but if it wasn\'t for that attitude and that type of work ethic, I never would have gotten to WWE.',
+        'Mick Foley',
+    ],
+    '1c4584f1-322b-5228-a9bc-1af0d1ab2ff2' => [
+        'When you\'re eight years old nothing is your business.',
+        'Lenny Bruce',
+    ],
+    '93f4b685-3996-5467-8985-29212ae3ad72' => [
+        'Official education was telling people almost nothing of the nature of all those things on the seashores, and in the redwood forests, in the deserts and in the plains.',
+        'Gregory Bateson',
+    ],
+    'a40b73de-3a11-5355-84e8-7ab50c5e7b06' => [
+        'In general, I\'m not much into etiquette and am a rule-breaker and rebel by nature.',
+        'Chip Conley',
+    ],
+    '3221cc15-e48f-5bb8-b967-bac23b94290c' => [
+        'Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.',
+        'William Arthur Ward',
+    ],
+    'b2ab0e65-9523-5972-8496-ddf59034e9ff' => [
+        'The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.',
+        'Drew Barrymore',
+    ],
+    'a7dc1f34-6f1c-5161-b76d-e608aab3c671' => [
+        'Being a teenager is an amazing time and a hard time. It\'s when you make your best friends - I have girls who will never leave my heart and I still talk to. You get the best and the worst as a teen. You have the best friendships and the worst heartbreaks.',
+        'Sophia Bush',
+    ],
+    'c5834ee5-c80f-53ef-af0d-d7739be3d815' => [
+        'Opportunity does not knock, it presents itself when you beat down the door.',
+        'Kyle Chandler',
+    ],
+    '23c00c4d-3b48-5999-96f9-c309028cadff' => [
+        'One may walk over the highest mountain one step at a time.',
+        'Barbara Walters',
+    ],
+    'def1ebf6-e1a1-5bb6-9de4-1cfece86acd3' => [
+        'In some way, people believe that if you are permeable, if you are a good listener, you don\'t have the quality of somebody with a firm attitude. This is what, fundamentally, I got from my mother.',
+        'Renzo Piano',
+    ],
+    '1a0fd89d-8392-5293-8a51-d9e831aac39c' => [
+        'The moon looks upon many night flowers; the night flowers see but one moon.',
+        'Jean Ingelow',
+    ],
+    '436ce6bf-f7c4-5583-8747-db1042881f2a' => [
+        'Love and fear. Everything the father of a family says must inspire one or the other.',
+        'Joseph Joubert',
+    ],
+    'b93227c3-5909-56e0-96c7-c12cc80eaeca' => [
+        'Pageants were an amazing platform that gave a little girl like me from the mountains of my beautiful Puerto Rico a chance to travel, explore the world, meet amazing people, work for great charities and be a voice to empower women wherever I went. For all those things, I am grateful.',
+        'Joyce Giraud',
+    ],
+    'b40b092e-219a-5f91-be78-583629289704' => [
+        'I suppose whenever you go through periods of transition, or in a way, it\'s a very definite closing of a certain chapter of your life - I suppose those times are always going to be both very upsetting and also very exciting by the very nature because things are changing and you don\'t know what\'s going to happen.',
+        'Daniel Radcliffe',
+    ],
+    '722b9c9b-8db2-52b3-9873-65d74891f086' => [
+        'I define nothing. Not beauty, not patriotism. I take each thing as it is, without prior rules about what it should be.',
+        'Bob Dylan',
+    ],
+    '58b8daf5-c5de-5ff1-b5d1-b9af0c4e9609' => [
+        'I think Sydney has so much natural beauty; it\'s just a beautiful city.',
+        'Flume',
     ],
 ];

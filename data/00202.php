@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'b0ff7525-e005-5440-8fa2-8e834acc34c6' => [
-        'I am I plus my circumstances.',
-        'Kim Kardashian',
+    '669e6aa0-490f-5aa8-9299-10328b1cfa71' => [
+        'Watch the little things; a small leak will sink a great ship.',
+        'Benjamin Franklin',
     ],
-    '94b7d7e3-d847-53ae-833d-7c0290fa9da9' => [
-        'When you show deep empathy toward others, their defensive energy goes down, and positive energy replaces it. That\'s when you can get more creative in solving problems.',
-        'Stephen Covey',
+    '9b929144-0f72-5729-bf42-76cfb4a8efa7' => [
+        'The beautiful spring came; and when Nature resumes her loveliness, the human soul is apt to revive also.',
+        'Harriet Ann Jacobs',
     ],
-    'af809b01-7e57-5d72-9262-6619ec17df54' => [
-        'You get somebody to crack a smile, that\'s a beautiful thing.',
-        'Tracy Morgan',
+    'f46c0a87-1aa1-5098-a174-cadd040010e9' => [
+        'My attitude is that, if you have nothing to hide, why not show it?',
+        'Bradley Wiggins',
     ],
-    '8b834fc7-2809-5b54-93fd-66456198034e' => [
-        'The biggest challenge we all face is to learn about ourselves and to understand our strengths and weaknesses. We need to utilize our strengths, but not so much that we don\'t work on our weaknesses.',
-        'Mae Jemison',
+    '614c5165-7f03-54bd-bef2-2e4bf315ee21' => [
+        'The IRS! They\'re like the Mafia, they can take anything they want!',
+        'Jerry Seinfeld',
     ],
-    '3ad8ec6c-a91a-5f99-8ce9-2a55acbcce74' => [
-        'I am a thing of beauty.',
-        'Frank Sinatra',
+    '441053c8-db78-5f37-8bce-e86b2dd6b5f9' => [
+        'I enjoy nothing more than spending time with my loved ones, young and old, and at least once a year we get together for a formal family photograph.',
+        'Elliott Erwitt',
     ],
-    'c016f6e0-c38a-5589-8d13-53152dd103e6' => [
-        'As for our majority... one is enough.',
-        'Benjamin Disraeli',
+    '0aa4c7d4-3000-52e3-8885-0aca2262392e' => [
+        'Meditation can help us embrace our worries, our fear, our anger; and that is very healing. We let our own natural capacity of healing do the work.',
+        'Thich Nhat Hanh',
     ],
-    '2ad663b9-0f7f-5afe-abd0-c39159397d88' => [
-        'It\'s funny, because in deference to conventional wisdom, I spent my struggling writer years trying to suppress my naturally baroque literary voice and write clean, spare prose. I finally gave up and embraced my baroque tendencies when I wrote the Kushiel series.',
-        'Jacqueline Carey',
+    '2154033d-515d-5f11-876b-3fff702244c0' => [
+        'For a gallant spirit there can never be defeat.',
+        'Wallis Simpson',
     ],
-    '8bd6cad2-d6bd-5732-81bc-ffa412fb1756' => [
-        'For a manager to be perceived as a positive manager, they need a four to one positive to negative contact ratio.',
-        'Ken Blanchard',
+    '3333d28f-2611-5a8c-ad44-248a3217fa63' => [
+        'You know I think that going into therapy is a very positive thing, and talking about it is really helpful, because the more you talk the more your fears fade, because you get it out.',
+        'Fran Drescher',
     ],
-    '03769839-a7d0-5da1-a018-d15e4e7ae855' => [
-        'Wishes don\'t bring riches; work make things work.',
-        'Ifeanyi Enoch Onuoha',
+    'e5a16205-201e-5e24-a0bb-72256fc25668' => [
+        'My husband and I always have fun together in everything we do. Some people call me crazy, but the reality is that I enjoy spending each second with him. He is not just my husband - he is my rock and my very best friend!',
+        'Joyce Giraud',
     ],
-    '0923eba3-fad0-50f9-98e0-e9ba2663c082' => [
-        'This life is like a swimming pool. You dive into the water, but you can\'t see how deep it is.',
-        'Ralph Waldo Emerson',
-    ],
-    'c14b5eeb-b8c2-562a-a550-efbd3589d6db' => [
-        'I have learned to smile when I wasn\'t happy, to sing when I didn\'t feel like it, and to do things just to please my fans.',
-        'Tionne Watkins',
-    ],
-    '99235ff5-9f2d-50f2-b591-159735589918' => [
-        'The travel book is a convenient metaphor for life, with its optimistic beginning or departure, its determined striving, and its reflective conclusion. Journeys change travellers just as a good travel book can change readers.',
-        'Rory MacLean',
-    ],
-    '81c09bd2-467d-5219-be2c-d574e5884397' => [
-        'Oh captain, my captain.',
-        'Todd Anderson',
-    ],
-    'ee8a7c67-c3bb-5eeb-9feb-8de9e4a28bd5' => [
-        'Nobody knows what you feel inside unless you tell them.',
-        'Banksy',
-    ],
-    '31f46866-d034-5705-8fcc-f05ce640fad6' => [
-        'Though it may not seem like it, I never try to write about a place, per se; it\'s always, first and last, about story. Story is everything. Story and a bit of attitude.',
-        'Martin McDonagh',
-    ],
-    '997d3c57-273e-592a-a98f-688a16f4a302' => [
-        'I see myself as the best footballer in the world. If you don\'t believe you are the best, then you will never achieve all that you are capable of.',
-        'Cristiano Ronaldo',
-    ],
-    'c0ab1da5-b5bd-5e61-9bb7-b646ddc0f2fe' => [
-        'I was raised to believe that excellence is the best deterrent to racism or sexism. And that\'s how I operate my life.',
+    '55a46866-089e-5a6c-a915-c019bf7ed057' => [
+        'I don\'t believe in failure. It\'s not failure if you enjoyed the process.',
         'Oprah Winfrey',
     ],
-    '4b83e0de-38d6-51fb-975a-1e8854c6e37a' => [
-        'I think the best way to have confidence is not to allow everyone else\'s insecurities to be your own.',
-        'Jessie J',
+    'da927ba2-792e-5982-97b4-baf6f67843ec' => [
+        'My mother had abandoned the family, so grandmother raised me. And she was instrumental in that she taught me that the world is a glorious place. She taught me to embrace humanity. And she\'d say there\'s never an excuse for joy. And to be thankful.',
+        'Jewell Parker Rhodes',
     ],
-    '8991d0d0-04e6-5eb1-8e17-fadf1cdfb8ff' => [
-        'Imagination is the living power and prime agent of all human perception.',
-        'Samuel Taylor Coleridge',
+    '2964cea5-17ea-592c-a7dd-7d6219aabc81' => [
+        'When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.',
+        'Confucius',
     ],
-    '368935f2-77b8-559d-b8ce-c660da4fbe4f' => [
-        'We learn wisdom from failure much more than from success. We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.',
-        'Samuel Smiles',
+    '9a467a54-98a4-5e8a-8bfa-ce62393a3148' => [
+        'First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.',
+        'Napoleon Hill',
     ],
-    '7d66c0e2-d825-5cb9-aa52-ad44092d38ce' => [
-        'Success is following the pattern of life one enjoys most.',
-        'Al Capp',
+    '1aacf7f0-ee10-5780-be0e-175f064bda8d' => [
+        'The past 6 and a half years have been the most amazing years of my life. It\'s sad it has come to an end but Avril and I are still family and moving forward in the most positive way possible.',
+        'Deryck Whibley',
     ],
-    'b664573d-7aa6-505e-94b2-5f30b606af03' => [
-        'It\'s not fair the emphasis put on beauty, or on sexuality.',
-        'Rosanna Arquette',
+    '7e6ec462-b6dc-5c5b-9163-b800905f1466' => [
+        'Success is due to our stretching to the challenges of life. Failure comes when we shrink from them.',
+        'John C. Maxwell',
     ],
-    '895fa6aa-430a-5db7-8e6c-b5d469bfec4c' => [
-        'Everyone smiles in the same language.',
-        'Unknown',
+    '2890749c-23a0-5280-a290-c2af446dfce1' => [
+        'I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.',
+        'Henry Rollins',
     ],
-    'efbc91aa-4dda-56d7-8296-12be445dc2bf' => [
-        'Poetry: the best words in the best order.',
-        'Samuel Taylor Coleridge',
+    'fde164c4-e7e0-5407-b4f5-4e5f0d763c61' => [
+        'At home in Ireland, there\'s a habit of avoidance, an ironical attitude towards the authority figure.',
+        'Seamus Heaney',
     ],
-    '86654eda-ba46-59f3-b45d-2af806a126d3' => [
-        'My father once said, \'If you\'re in the desert and you\'re dying of thirst, are you going to drink a glass of blood or are you going to drink a glass of water?\' I think what he was trying to say, interesting coming from my blood father, is sometimes there are people in your family that can be toxic.',
-        'Nicolas Cage',
+    'a731d43f-1315-59c8-8cb0-a9f21dab3a94' => [
+        'I am a passionate traveler, and from the time I was a child, travel formed me as much as my formal education.',
+        'David Rockefeller',
+    ],
+    'f329707e-42e2-5423-a14e-17706964f029' => [
+        'The thing that I think a lot of guys need to know how to do is not take your mother\'s advice about honesty being the best policy. Listen to your cool, drunk uncle who tells you to lie. Those are the relationships that last.',
+        'Adam DeVine',
+    ],
+    '14b95bae-3a88-512f-a0cc-7410b00e145f' => [
+        'Everything that irritates us about others can lead us to a better understanding of ourselves.',
+        'Carl Jung',
+    ],
+    'e8b6189b-e15f-5d75-a1d9-d25bbe09db62' => [
+        'When you are enthusiastic about what you do, you feel this positive energy. It\'s very simple.',
+        'Paulo Coelho',
+    ],
+    '85807ed4-e837-5a99-91ef-6387e9e4bd97' => [
+        'Always be mindful of the kindness and not the faults of others.',
+        'Buddha',
+    ],
+    '1e3ac613-0d92-5e14-8873-454a91ef6924' => [
+        'So is cheerfulness, or a good temper, the more it is spent, the more remains.',
+        'Ralph Emerson',
+    ],
+    '30eb5417-8cf6-5aea-8a2a-9974cbcb7207' => [
+        'No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.',
+        'W. Clement Stone',
+    ],
+    '948022ac-1030-5a44-98fd-1d683483bd59' => [
+        'If there are no struggles, there is no progress.',
+        'Frederick Douglas',
+    ],
+    '6b8f1eeb-8b38-5c2b-b092-d77705b01831' => [
+        'The American Dream is one of success, home ownership, college education for one\'s children, and have a secure job to provide these and other goals.',
+        'Leonard Boswell',
+    ],
+    '8abdcfa6-078d-56e6-a5c0-1039ddf1965a' => [
+        'When someone shows you who they are, believe them the first time.',
+        'Maya Angelou',
+    ],
+    '476ae9b7-6646-536c-a3d4-e1f5edd858ca' => [
+        'Why should we think upon things that are lovely? Because thinking determines life. It is a common habit to blame life upon the environment. Environment modifies life but does not govern life. The soul is stronger than its surroundings.',
+        'Buzz Aldrin',
+    ],
+    'e0536982-d897-55ef-ad20-3fefbc64e27b' => [
+        'Japan is the most intoxicating place for me. In Kyoto, there\'s an inn called the Tawaraya which is quite extraordinary. The Japanese culture fascinates me: the food, the dress, the manners and the traditions. It\'s the travel experience that has moved me the most.',
+        'Roman Coppola',
+    ],
+    'c4daeef3-a09f-5d00-95a9-ce9a2ed2af04' => [
+        'We lost because we told ourselves we lost.',
+        'Leo Tolstoy',
+    ],
+    '90b29394-ba22-5e0b-817a-502c2109adb1' => [
+        'Women with low self-esteem love bad boys. Women who have work to do love bad boys. Women who love themselves love good men.',
+        'Tracy McMillan',
+    ],
+    'b200365a-2a61-5ec9-b925-3ac40a0f8648' => [
+        'Work out your own salvation. Do not depend on others.',
+        'Buddha',
+    ],
+    'a9e65394-f91e-5d97-8466-05cc743839d8' => [
+        'We pass through this world but once.',
+        'Aristotle',
+    ],
+    '3c67adfd-afcc-5314-a6ad-40d697a8c34e' => [
+        'When I turned about 12 or 13, I realised that being funny wasn\'t about remembering jokes. It was about creating them.',
+        'Paul Merton',
+    ],
+    'b7bce02d-a678-5d38-ae17-d01e47a1b77f' => [
+        'You have to learn how to harness technology so you can use it for positive stuff without being disconnected from nature.',
+        'Talib Kweli',
+    ],
+    '0bb6a4fa-1612-5a66-90cf-5915f27109ec' => [
+        'Perfect happiness would be knowing that all my family and friends were happy and safe. Then I\'d go to a tropical island with my husband where it was gorgeous and fun all day long and interesting and fun all evening. Good food and dancing would be nice, too, and weekly visits from those safe and happy family and friends. Plus world peace.',
+        'Suzanne Weyn',
+    ],
+    'aaa373c2-0e60-5993-9b05-3d740e28b5b9' => [
+        'A mountain is composed of tiny grains of earth. The ocean is made up of tiny drops of water. Even so, life is but an endless series of little details, actions, speeches, and thoughts. And the consequences whether good or bad of even the least of them are far-reaching.',
+        'Bob Marley',
+    ],
+    '7561b67a-5fcb-50eb-a0d9-d9c437b3864e' => [
+        'Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.',
+        'Katharine Hepburn',
+    ],
+    'efba088f-03aa-5867-aaef-c4a879e4db16' => [
+        'Keep close to Nature\'s heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean.',
+        'John Muir',
+    ],
+    'e8219ddc-73b2-559e-ad86-3be010738307' => [
+        'No matter what nationalities became a part of our country in the future, they would have to assimilate into the Han nationality. The nationalism our party supports is a positive nationalism. Do not forget that.',
+        'Sun Yat-sen',
+    ],
+    '730de8ee-7a64-5fe8-8c51-7c6816f14855' => [
+        'Playing is just about feeling. Playing isn\'t necessarily about misery. Playing isn\'t necessarily about happiness. But it\'s just about letting yourself feel all those things that you have already on the inside of you, but you\'re all the time trying to push them aside because they don\'t make for polite conversation or something.',
+        'Janis Joplin',
+    ],
+    '5e5e680c-4035-5486-8bde-e6ebcd7b25a5' => [
+        'Remarkable contributions are typically spawned by a passionate commitment to transcendent values such as beauty, truth, wisdom, justice, charity, fidelity, joy, courage and honor.',
+        'Gary Hamel',
+    ],
+    'e1cf2580-4de8-5ce6-8ea6-b5c51cd36f55' => [
+        'So far as female beauty is concerned, the Circassian women have no superiors. They have preserved in their mountain home the purity of the Grecian models, and still display the perfect physical loveliness, whose type has descended to us in the Venus de Medici.',
+        'Bayard Taylor',
+    ],
+    'f2bb5d8d-1237-5b67-aab2-ef5e113ab0cf' => [
+        'By taking the time to stop and appreciate who you are and what you\'ve achieved - and perhaps learned through a few mistakes, stumbles and losses - you actually can enhance everything about you. Self-acknowledgment and appreciation are what give you the insights and awareness to move forward toward higher goals and accomplishments.',
+        'Jack Canfield',
+    ],
+    '5decfd23-f9ed-5cd4-9660-d4aec52aac45' => [
+        'I have no time for those who say there is no way Scotland could go it alone. I know first-hand the contribution Scotland and Scots make to Britain\'s success - so for me there\'s no question about whether Scotland could be an independent nation.',
+        'David Cameron',
+    ],
+    'de141c88-2252-5533-96f9-90f359dc9956' => [
+        'Christmas and the holidays are the season of giving. It\'s a time when people are more kind and open-hearted.',
+        'Gisele Bundchen',
+    ],
+    '671e8373-9098-532b-a304-f6d7ea7213e6' => [
+        'When anger use your energy to do something productive.',
+        'C. Pulsifer',
+    ],
+    '6df40033-5706-52ba-b289-cebda310462f' => [
+        'I\'m a prankster, so some of the - you know, I like a good joke. I think when it\'s funny, it\'s funny.',
+        'Sean Spicer',
+    ],
+    'd8e5a168-6f89-577f-b8ad-24d3210017a1' => [
+        'My denial and irresponsible attitude about asthma put me at great risk and caused me so much needless suffering. My hope is that the kids I talk to learn to open up about their asthma, become educated about their condition, and seek help.',
+        'Jackie Joyner-Kersee',
+    ],
+    'c769dfbd-b151-5abb-bdb5-869c17e49cd4' => [
+        'Every flower is a soul blossoming in nature.',
+        'Gerard De Nerval',
     ],
 ];

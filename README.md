@@ -49,7 +49,7 @@ It is recommended to add `fortune` to your path:
 
 - [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) - BSD implementation.
 - [fortune](http://software.clapper.org/fortune/) - Python implementation.
-- [motivate](https://github.com/mubaris/motivate) - set of JSON files, containing quotations.
-- [fortunes](https://github.com/ruanyf/fortunes) - fortune file, containing quotations.
-
-
+- JSON files, containing quotations:
+    - [famous-quotes](https://github.com/olhapi/famous-quotes)
+    - [motivate](https://github.com/mubaris/motivate)
+    - [Database-Quotes-JSON](https://github.com/4skinSkywalker/Database-Quotes-JSON)

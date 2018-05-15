@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '5d9d225a-d235-5fdb-a2ee-cb8076753a1b' => [
-        'My initial goal for the 1984 opening ceremonies was a show that would be majestic, inspirational, and emotional - a 20 goosebump experience.',
-        'David L. Wolper',
+    '9d0a1e17-581d-5808-820d-9f4040e85a0a' => [
+        'Imagination makes us aware of limitless possibilities. How many of us haven\'t pondered the concept of infinity or imagined the possibility of time travel? In one of her poems, Emily Bronte likens imagination to a constant companion, but I prefer to think of it as a built-in entertainment system.',
+        'Alexandra Adornetto',
     ],
-    'c6ed7415-82c1-54ff-af91-aebfee145795' => [
-        'A series of rumors about my attitude, as well as derogatory remarks about myself and my family showed me that the personal resentment of the Detroit general manager toward me would make it impossible for me to continue playing hockey in Detroit.',
-        'Ted Lindsay',
+    '07882646-dc44-5535-8e18-2963cc8fb8e4' => [
+        'Travel around the world is amazing. New people. New-found family, really.',
+        'Dhani Jones',
     ],
-    'b9a7987d-ca58-5051-9aff-aedbcf9a11d3' => [
-        'Success is stumbling from failure to failure with no loss of enthusiasm.',
-        'Winston Churchill.',
+    'a3ab3398-a7e9-5e3e-a99a-ac5a08bb81ed' => [
+        'There is no question that global warming will have a significant impact on already existing problems such as malaria, malnutrition, and water shortages. But this doesn\'t mean the best way to solve them is to cut carbon emissions.',
+        'Bjorn Lomborg',
     ],
-    '74457c89-99cf-541a-8d15-c596df06bd18' => [
-        'If you\'re changing the world, you\'re working on important things. You\'re excited to get up in the morning.',
-        'Larry Page',
+    '75647b81-031b-5e8d-9fe7-3a9775f285e6' => [
+        'The day, water, sun, moon, night - I do not have to purchase these things with money.',
+        'Plautus',
     ],
-    '31c88873-7aa1-5c79-8696-682893c05c48' => [
-        'The accounting of the sacrifice is, more than anything else, the attitude toward war memorials in our time.',
-        'Friedrich St. Florian',
+    'b8fa8f27-bdfe-5ff8-aebf-bbe3f4728eeb' => [
+        'You go through life wondering what is it all about but at the end of the day it\'s all about family.',
+        'Steve Jobs',
     ],
-    '39ef724f-fac7-5ebd-90b1-847e4e5659de' => [
-        'A positive attitude causes a chain reaction of positive thoughts, events and outcomes. It is a catalyst and it sparks extraordinary results.',
-        'Wade Boggs',
+    '6ab92de5-f64d-545e-a4c3-bcd4785c4dc8' => [
+        'The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.',
+        'Mortimer Adler',
     ],
-    '1c5a20ab-2f51-5d28-9b7c-81e356840cca' => [
-        'Simply as an exercise in efficient politics, Obama \'08 rewrote the textbook. His accomplishment was historic and one that transformed how race and politics intersect in our society. Obama is the leading edge of this change, but his success is merely the ripple in a pond that grows deeper every day.',
-        'Gwen Ifill',
+    '7c77154d-a7e0-5f89-b2ae-e736d397958f' => [
+        'It is only in the country that we can get to know a person or a book.',
+        'Cyril Connolly',
     ],
-    'f0b07aea-d03e-57b3-9f1c-c5439f80eb5e' => [
-        'By the time we see that climate change is really bad, your ability to fix it is extremely limited... The carbon gets up there, but the heating effect is delayed. And then the effect of that heat on the species and ecosystem is delayed. That means that even when you turn virtuous, things are actually going to get worse for quite a while.',
-        'Bill Gates',
+    '719b2ffb-fffe-551a-8b42-2f31f76baa40' => [
+        'On long haul flights I always drink loads and loads of water and eat light and healthy food.',
+        'Lisa Snowdon',
     ],
-    '95182697-569b-5103-a525-914a9df47e5f' => [
-        'Surely it is time to examine into the meaning of words and the nature of things, and to arrive at simple facts, not received upon the dictum of learned authorities, but upon attentive personal observation of what is passing around us.',
-        'Frances Wright',
+    'd1cb6c46-ba2d-5f30-bdce-de4664735535' => [
+        'For years my wedding ring has done its job. It has led me not into temptation. It has reminded my husband numerous times at parties that it\'s time to go home. It has been a source of relief to a dinner companion. It has been a status symbol in the maternity ward.',
+        'Erma Bombeck',
     ],
-    'dca96014-6d50-5ab1-bf1a-d351732528e1' => [
-        'It\'s true that a smile can take years off a person - not that such a thing matters in Yoko Ono\'s case.',
-        'Elvis Mitchell',
+    'c0b25595-6064-523f-925f-8682de160e48' => [
+        'Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing.',
+        'Thomas Jefferson',
     ],
-    'b81595b8-5810-5d5c-9b33-6d72fa3ef545' => [
-        'The best cure for insomnia is to get a lot of sleep.',
-        'W. C. Fields',
+    'b11420d5-de38-53b8-b2e9-9379dc80455d' => [
+        'Smog is affecting larger parts of China, and environmental pollution has become a major problem, which is nature\'s red-light warning against the model of inefficient and blind development.',
+        'Li Keqiang',
     ],
-    '26b9df13-376b-5f47-b922-ecda5a8aa57e' => [
-        'If I just do everything the opposite of what my dad did, I think that will make things pretty easy. I can joke about it now because I\'m past that stage where it used to hurt. By having a kid, it\'s gone. I could take all that negative energy that I had and put it in a positive way.',
-        'Derrick Rose',
+    'ce7eff71-f83d-5044-854a-ff196a54ba5c' => [
+        'Because of the dog\'s joyfulness, our own is increased. It is no small gift. It is not the least reason why we should honor as love the dog of our own life, and the dog down the street, and all the dogs not yet born.',
+        'Robert Louis Stevenson',
     ],
-    '58562d53-b476-5043-8fd6-72d018e7bfc5' => [
-        '\'Priced to sell\' - just the phrase makes me smile. When a dealer says all the items in his booth are priced to sell, he means he\'s tagged them as aggressively as he can to get you to buy them. Don\'t worry, though, I still haggle. You have to. That\'s the point of a flea market.',
-        'Nate Berkus',
+    '1480b476-dc3a-5c1c-811e-ffabed9120ac' => [
+        'Where is there beauty when you see deprivation and starvation?',
+        'Rosalind Russell',
     ],
-    'cd50b404-b2cb-5918-9258-5275f5fd5582' => [
-        'Man is but a reed, the most feeble thing in nature, but he is a thinking reed.',
-        'Blaise Pascal',
+    '492aea9d-a94b-5a90-a8ee-a349c3b0caa9' => [
+        'We are embedded in a biological world and related to the organisms around us.',
+        'Walter Gilbert',
     ],
-    '98c322c6-d68d-557e-9bbd-af5f4a87474b' => [
-        'What I\'ve learned from my own journey, and from my family\'s experience with cancer, is how important it is to stay positive and move forward. Not every day is going to be perfect; that\'s life. But staying positive is going to get you to the next day.',
-        'Bonnie Blair',
+    'fca63353-750f-5b90-8bfa-8a4f05204f59' => [
+        'Through the years you, the Delaware State family and your predecessors, have faced many challenges. You worked through them with fierce determination and good will, and you have made great progress.',
+        'Michael N. Castle',
     ],
-    '4c5ca542-b46c-50df-8a78-b8d27afccf2f' => [
-        'We sing inspirational songs, songs of praise and worship, and about how good and how big God is. We are magnifying the Lord.',
-        'Fred Hammond',
+    '4be8fd0c-5cea-511a-a317-a3ddfa35bb20' => [
+        'I\'m mourning with the rest of the world for the talented, gorgeous, funny, intelligent John Forsythe but my heart is broken for the loss of my dear, dear friend and neighbor. I will miss him terribly.',
+        'Cheryl Ladd',
     ],
-    '398b80b5-3f90-5ea4-92e7-7bf731e45eb8' => [
-        'We know from research that growth is actually contagious, so if you want to reach your goals, you\'ve got to get around people that are going in the same direction you want to be going, and you will catch the success.',
-        'Henry Cloud',
+    'ac23744a-62b4-5978-b0b4-d918b3994061' => [
+        'A successful man is one who can lay a firm foundation with the bricks others have thrown at him.',
+        'David Brinkley',
     ],
-    '7af1b236-9179-52d6-b9d3-3c7ce091a857' => [
-        'To succeed, you need to find something to hold on to, something to motivate you, something to inspire you.',
-        'Tony Dorsett',
+    'a1590031-5174-58b6-8617-a9913cfbfaae' => [
+        'I never think of yesterday. Can\'t do anything about it. I\'m a positive guy. When you really deep down look at it, we go to bed every night, get up every morning, stay here for 70 or 80 years, and then we die.',
+        'Lee Trevino',
     ],
-    '61aa8dc3-4d8a-5ce3-ba3b-37d4b0694ad8' => [
-        'Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don\'t turn up at all.',
-        'Sam Ewing',
+    'a49ae0f2-9331-51c3-95f5-f47daa094be8' => [
+        'Politics - I still think it\'s a bunch of liars and a bunch of self-interest. It\'s not about the people: it\'s about themselves and their rise to power. They are voting on things based on whether they will have the support of the people when they vote next time. They don\'t have the balls to say, \'I believe in this. I don\'t care what happens.\'',
+        'Jay-Z',
     ],
-    '7a133793-55bf-598b-8e08-796d65015beb' => [
-        'I\'m homesick all the time. I miss my animals. I miss my family. I miss my friends.',
-        'Brittany Howard',
+    '33a32f12-0e26-59e7-8838-70c84d206ae7' => [
+        'The best comfort food will always be greens, cornbread, and fried chicken.',
+        'Maya Angelou',
     ],
-    'f2a63701-e18d-57d5-9d9a-98466cd3f9d0' => [
-        'Success is a matter of one\'s own feeling about oneself.',
-        'Edward James Olmos',
+    'd7888b71-7e1d-54c1-ad77-b8a8b036dae1' => [
+        'The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.',
+        'Margaret Smith',
     ],
-    '207a337e-4b13-5dad-a350-18766275b994' => [
-        'Now is the age of anxiety.',
-        'W. H. Auden',
+    'b1ff3c36-5749-56e0-9dbc-2569266df27b' => [
+        'For every failure, there\'s an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.',
+        'Mary Kay Ash',
     ],
-    '43224db1-30f4-54d4-88cf-840db1967f3c' => [
-        'It is cruel, you know, that music should be so beautiful. It has the beauty of loneliness of pain: of strength and freedom. The beauty of disappointment and never-satisfied love. The cruel beauty of nature and everlasting beauty of monotony.',
-        'Benjamin Britten',
+    '23068921-4280-5e46-a9d8-41ad540b29d6' => [
+        'Sweat, sweat, sweat! Work and sweat, cry and sweat, pray and sweat!',
+        'Zora Neale Hurston',
     ],
-    '7fa78ac3-3e79-502f-a66e-207dfb9b6674' => [
-        'I was always really proud of the fact that I had a very positive influence as a role model.',
-        'David Cassidy',
+    '9acb2886-8f70-59f3-bc94-a4c5342eb72f' => [
+        'I was born into a Christian family and brought up in a Lutheran church. My faith has been the center point of my life, really, since I was a child, but at 16 years of age, I fully surrendered my life over to Christ. At that point, as a teenager, I began to grasp the concept of Christ\'s true love and forgiveness.',
+        'Michele Bachmann',
     ],
-    'acf06bfb-f8bf-58a5-bfa3-efdb180c5fb1' => [
-        'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
-        'Confucius',
+    'ccbbe9c4-78c6-5ecb-a335-81dad19da708' => [
+        'Who co-founded Google? Sergey Brin, a Russian-born Jew whose family fled anti-semitism in the Soviet Union to settle here and who considers himself a refugee.',
+        'Walt Mossberg',
+    ],
+    '78dc2ceb-38bc-5ff4-b29b-d1ccbc35008e' => [
+        'The Joker is my favorite villain of all time: You don\'t know his past; you just know what his plans are.',
+        'The Weeknd',
+    ],
+    '3dc6863d-01f8-542f-a03a-71a1651ec080' => [
+        'The past cannot be cured.',
+        'Elizabeth I',
+    ],
+    '0be8ac2b-f52d-5905-a411-80602a473ee9' => [
+        'Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.',
+        'Stephen Hawking',
+    ],
+    '6fbd6895-0aa1-5a55-8ea9-6d58161cc1e5' => [
+        'An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.',
+        'Thomas Fuller',
+    ],
+    'c7eb66c6-a5d5-5c64-ac12-baf7652ca154' => [
+        'From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.',
+        'Cesar Chavez',
+    ],
+    '1ee6fe9b-c8c1-5712-84bb-4618982d1f93' => [
+        'The next time you have a thought... let it go.',
+        'Ron White',
+    ],
+    'd0921ac6-0972-55a4-abb8-048c624946d6' => [
+        'Andean skiing offers an unforgettable combination of beach-style weather, great snow and exotic travel. There are many attractions. Here on the fringes of the Andes, skiers will find few lift queues, tickets 50% cheaper than France, and unique scenery that includes condors and Mount Aconcagua, the highest peak outside the Himalayas.',
+        'Jonathan Franklin',
+    ],
+    '6b1e25bb-258d-5285-a1a4-4e6f57e86c33' => [
+        'You can\'t really say what is beautiful about a place, but the image of the place will remain vividly with you.',
+        'Tadao Ando',
+    ],
+    '920e36cc-4d31-5911-8495-87122d48cc95' => [
+        'I never understand when people say, \'Do you do comedy or tragedy?\' I don\'t think they\'re very much different. They both have to be true, and there isn\'t a great play in the world that doesn\'t have funny parts to it - as \'Salesman\' does, as \'King Lear\' does. The whole idea is to reflect life in some way, which means surely you have to have both.',
+        'Mike Nichols',
+    ],
+    'f436ccc2-c618-5796-8752-f9979b631719' => [
+        'The American Dream is still alive out there, and hard work will get you there. You don\'t necessarily need to have an Ivy League education or to have millions of dollars startup money. It can be done with an idea, hard work and determination.',
+        'Bill Rancic',
+    ],
+    '0483e127-0fc5-5edf-954b-de91884aa339' => [
+        'The best work of literature to represent the American Dream is \'The Great Gatsby\' by F. Scott Fitzgerald. It shows us how dreaming can be tainted by reality, and that if you don\'t compromise, you may suffer.',
+        'Azar Nafisi',
+    ],
+    '54e08b98-0bcd-519d-bedb-e4a5a01de4fa' => [
+        'If you have a successful run, everything comes to you. Nothing succeeds like success.',
+        'John Barry',
+    ],
+    '136de200-6908-51d6-b9ef-2f55f9ea3d39' => [
+        'Im not in this world to live up to your expectations and you\'re not in this world to live up to mine.',
+        'Bruce Lee',
+    ],
+    '4daf2fd0-c1db-5359-93a1-53e677c5a837' => [
+        'Beauty comes from a life well lived. If you\'ve lived well, your smile lines are in the right places, and your frown lines aren\'t too bad, what more do you need?',
+        'Jennifer Garner',
+    ],
+    '9a454ba0-10d1-53a0-af1b-010850db5b7d' => [
+        'When you fish for love, bait with your heart, not your brain',
+        'Mark Twain',
+    ],
+    '86287025-9931-5f87-8434-21844d7df462' => [
+        'I enjoy what Twitter is because I can really connect with the fans and it\'s a great way to share information with them and it\'s also a great way to entertain. I like being able to put a smile on people\'s faces and letting them know what I\'m doing.',
+        'Peter Facinelli',
+    ],
+    '94ec52d5-a784-545f-a6be-b3c5adcfae53' => [
+        'Musicals are, by nature, theatrical, meaning poetic, meaning having to move the audience\'s imagination and create a suspension of disbelief, by which I mean there\'s no fourth wall.',
+        'Stephen Sondheim',
+    ],
+    '7f746ac1-2e00-50eb-84e5-fa9b70abbf19' => [
+        'When I started counting my blessings, my whole life turned around.',
+        'Willie Nelson',
+    ],
+    '734c35f0-3965-5c91-944a-5b7fcec39b43' => [
+        'It is usually best to admit mistakes when they occur, and to seek to restore honor..',
+        'Iroh',
+    ],
+    'c3d0d7eb-9125-5218-8850-fb8943b2c56b' => [
+        'I feel an important part of beauty is not only what you do on the outside but also what you put into the inside. Good fresh food with many vegetables along with love and caring for others. I spend way more time serving others than I do on my beauty routine daily.',
+        'Kim Alexis',
+    ],
+    '4b4f34e6-8ce8-5208-8a3f-810ac6922eb7' => [
+        'Our success educationally, industrially and politically is based upon the protection of a nation founded by ourselves. And the nation can be nowhere else but in Africa.',
+        'Marcus Garvey',
+    ],
+    'dec56fd8-2495-54bb-9c5e-1c4a514ef332' => [
+        'Neither man nor woman is perfect or complete without the other. Thus, no marriage or family, no ward or stake is likely to reach its full potential until husbands and wives, mothers and fathers, men and women work together in unity of purpose, respecting and relying upon each other\'s strengths.',
+        'Sheri L. Dew',
+    ],
+    '558605a0-6115-5d59-93fe-f18cfdc67fa1' => [
+        'The clock talked loud. I threw it away, it scared me what it talked.',
+        'Tillie Olsen',
+    ],
+    '6ef3b5b0-efaf-5b0a-b630-59874acdfdbb' => [
+        'I\'m moving forward to do the best.',
+        'Pablo Sandoval',
+    ],
+    '06e2fcc7-b430-5004-a28c-38869949df8e' => [
+        'Humor, for me, is really a gate of departure. It\'s a way of enticing a reader into a poem so that less funny things can take place later. It really is not an end in itself, but a means to an end.',
+        'Billy Collins',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '19b773da-e81d-5890-9691-6f1c5c6b4352' => [
-        'I have a real taste for doing action roles. I starred in a movie called \'Blast,\' which was my first action film, and I loved the fighting - I think I\'ve got the build, the attitude and the look for it.',
-        'Nadine Velazquez',
+    '36f29388-42e3-5506-8327-67a00f67487b' => [
+        'Through travel, you discover a new aspect to your personality. You discover things which you wouldn\'t seated in the confines of your home.',
+        'Imtiaz Ali',
     ],
-    '994bb9b1-6ccb-53bb-93aa-808e3ff48005' => [
-        'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.',
-        'Marcus Aurelius',
+    'ba52c8c1-a277-5000-a9e9-b4095de00100' => [
+        'For, to be a stranger is naturally a very positive relation; it is a specific form of interaction.',
+        'Georg Simmel',
     ],
-    '3783ef87-f5ac-59e5-bd25-127d5275208b' => [
-        'Whenever I look at a baby or children in general, I smile and just want to play with them.',
-        'Odeya Rush',
+    'e068134e-b0ab-5093-bbc0-ab37a93a7741' => [
+        'The art of medicine consists in amusing the patient while nature cures the disease.',
+        'Voltaire',
     ],
-    '09f9db47-20df-5e12-9c9c-de0d8d18d2e9' => [
-        'Dogs are not our whole life, but they make our lives whole.',
-        'Paula Cole',
+    '38b15da7-b84f-52a7-8cc5-3d411d316a73' => [
+        'Every age has its storytelling form, and video gaming is a huge part of our culture. You can ignore or embrace video games and imbue them with the best artistic quality. People are enthralled with video games in the same way as other people love the cinema or theatre.',
+        'Andy Serkis',
     ],
-    '29f5f271-25ea-59ed-a2bd-3ab0593cee71' => [
-        'Beauty does not linger; it only visits. Yet beauty\'s visitation affects us and invites us into its rhythm; it calls us to feel, think and act beautifully in the world: to create and live a life that awakens the Beautiful. A life without delight is only half a life.',
-        'John O\'Donohue',
+    'acd2a394-3f94-5a7f-8fc7-33b53975ee6f' => [
+        'My father got a trade union scholarship to Oxford; he lived and breathed politics; he was always watching current-affairs programmes. But I have a five-year-old child\'s attitude towards the news. Mainly, that it absolutely turns me off.',
+        'Jez Butterworth',
     ],
-    '09f7923a-44ae-5ae5-8a14-04122f3b7be7' => [
-        '\'Funny People\' is my favorite performance of myself to date. Even though it\'s a comedy and there are serious moments, I really felt like Leo felt like a real person. It didn\'t feel like I was playing myself. Whether it\'s a comedy or drama, I just try to make it as realistic as possible.',
-        'Jonah Hill',
+    '50b96358-ec6e-52d1-b8ea-5b2fbc16db1c' => [
+        'To explain all nature is too difficult a task for any one man or even for any one age. \'Tis much better to do a little with certainty &amp; leave the rest for others that come after you.',
+        'Isaac Newton',
     ],
-    '0bca9643-0b67-5ca8-a38c-d6cea3334361' => [
-        'I\'ve always believed that there are funny people everywhere, but they\'re just not comedians. In fact, some of my best comedic inspirations were not professional entertainers.',
-        'Steve Martin',
+    'f834c439-5043-57d8-a1f9-9f86d8170ebf' => [
+        'I\'m always astonished by a forest. It makes me realise that the fantasy of nature is much larger than my own fantasy. I still have things to learn.',
+        'Gunter Grass',
     ],
-    'dda9a5b1-9439-532f-b60d-c89e5934e26a' => [
-        'Time flies. It\'s up to you to be the navigator.',
-        'Robert Orben',
+    '2f062d8f-9aeb-530c-b3cd-2786c55e6625' => [
+        'Truth isn\'t always beauty, but the hunger for it is.',
+        'Nadine Gordimer',
     ],
-    'a166f81c-0cc7-5d64-ae3a-16c1242fbda7' => [
-        'Money won\'t create success, the freedom to make it will.',
+    'e8b2f3ec-c928-534e-9915-a8e4f55d0a95' => [
+        'Reach for it. Push yourself as far as you can.',
+        'Christa McAuliffe',
+    ],
+    'fc20f935-0fb4-5184-8ea7-c39751045acd' => [
+        'Put your heart, mind, and soul into even your smallest acts. This is the secret of success.',
+        'Swami Sivananda',
+    ],
+    'd59a0380-4a96-512e-9f39-4927622c7744' => [
+        'You will always have ups and downs in your life and your career, but just stay positive and go for it.',
+        'Angelique Kerber',
+    ],
+    'a49fd7b9-b006-53c7-99d6-25bdf4a579cf' => [
+        'Beauty is as relative as light and dark. Thus, there exists no beautiful woman, none at all, because you are never certain that a still far more beautiful woman will not appear and completely shame the supposed beauty of the first.',
+        'Paul Klee',
+    ],
+    '73f18eea-616e-56e4-b1c3-9ce68d3e08b7' => [
+        'Most women are dissatisfied with their appearance - it\'s the stuff that fuels the beauty and fashion industries.',
+        'Annie Lennox',
+    ],
+    '9ecfc638-4631-50fc-84e2-1174cb41e2be' => [
+        'The truth is you don\'t know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.',
         'Nelson Mandela',
     ],
-    '3c24b6f1-9b93-564e-b0c9-d02c86651978' => [
-        'I\'ve met so many who have opened doors for me and remained in my life both personally and professionally. After a while, networking doesn\'t feel like \'networking.\' It\'s both serendipitous and unpredictable, and something that just naturally becomes part of your work life and your personal life.',
-        'Narciso Rodriguez',
+    'c02b39a0-2083-5650-b636-875d1adafc0e' => [
+        'I married my best friend. I was still in awe after more than four years of being around her at how smart and strong and loving and caring she was. And I really hoped that her choosing me and rejecting my advice to pursue her own career was a decision she would never regret.',
+        'William J. Clinton',
     ],
-    'f26be5f5-afb9-5328-b071-d1b34a2d0456' => [
-        'The more we do, the more we can do.',
-        'William Hazlitt',
+    'a37254b3-14bf-5eb6-bae6-a5afbfc93078' => [
+        'Well, one of the most important things for Americans to be reminded of is that a lot of the exceptional nature of our country is founded in Judeo-Christian values that promotes individualism, personal responsibility, a strong work ethic, and a commitment to family, charity.',
+        'Jim DeMint',
     ],
-    '9d18a5a8-d37a-5ec5-b2a0-e4518d4e336f' => [
-        'I believe that in life, you have to give things your best shot, do your best. You have to focus on what needs to be done, do the right thing, not the popular thing.',
-        'David Cameron',
+    '4865c548-e7f3-58a0-9b50-0fdfb599f972' => [
+        'If you find something very difficult to achieve yourself, don\'t imagine it impossible-for anything possible and proper for another person can be achieved as easily by you.',
+        'Marcus Aurelius',
     ],
-    'f0f13f6b-31a5-5359-a61c-8603f6572a74' => [
-        'Vaccines and antibiotics have made many infectious diseases a thing of the past; we\'ve come to expect that public health and modern science can conquer all microbes. But nature is a formidable adversary.',
-        'Tom Frieden',
+    '33f8a610-e742-58a6-81a0-990eebf0d77e' => [
+        'Clearly older women and especially older women who have led an active life or elder women who successfully maneuver through their own family life have so much to teach us about sharing, patience, and wisdom.',
+        'Alice Walker',
     ],
-    'ad813349-1387-5e7c-992e-516c11846725' => [
-        'The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.',
-        'Albert Ellis',
+    'efef5794-f5d0-5dcc-95be-65507157c0c9' => [
+        'Hope is nature\'s veil for hiding truth\'s nakedness.',
+        'Alfred Nobel',
     ],
-    '46f0ae93-7982-56b4-b36c-460bda1d1256' => [
-        'I couldn\'t buy my way - I had to work my way. What a great quote: \'I couldn\'t buy my way into success, I had to work my way into success.\'',
-        'Stewart Rahr',
+    'd38606a6-2356-593b-a18e-331132d969b8' => [
+        'I prefer to work with grey characters rather than black and white.',
+        'George R. R. Martin',
     ],
-    'cd4626c7-a62b-58db-a983-ffe6c7a5e151' => [
-        'Success is like reaching an important birthday and finding you\'re exactly the same.',
-        'Audrey Hepburn',
+    '5e0fe57d-c9c8-57a5-b56e-9177671a0d4d' => [
+        'If a work of art is rich and vital and complete, those who have artistic instincts will see its beauty, and those to whom ethics appeal more strongly than aesthetics will see its moral lesson. It will fill the cowardly with terror, and the unclean will see in it their own shame.',
+        'Oscar Wilde',
     ],
-    '7d41cb18-534c-5ff4-bec0-288df5a29217' => [
-        'We have not the time to take our time.',
-        'Eugene Ionesco',
+    '8793f695-e943-5736-9990-639d04085720' => [
+        'I\'m lucky in that I have close friends and family and my agent to advise me.',
+        'Imogen Poots',
     ],
-    '3ef900c2-aac0-5d43-b550-6a6b8c1c2fc3' => [
-        'I have a couple of go-to sneakers off the pitch. I like to have shoes that I can slip on and wear with anything. I travel often, so it\'s about finding those two or three pairs of shoes that can go with any outfit, whether they go with leggings or a skirt or a dress or jeans.',
-        'Alex Morgan',
+    '9d394808-5898-5184-a7f3-0cb39466e13d' => [
+        'I\'m a night person. My best times are midnight to six, actually.',
+        'Rita Dove',
     ],
-    '1efa4ecc-edab-5f5a-a382-4ecf4585c41e' => [
-        'Temporary success can be achieved in spite of lack of other fundamental qualities, but no advancements can be maintained without hard work.',
-        'William Feather',
+    'e2259fdb-074e-5665-a3d7-3eb63cb1f7ab' => [
+        'We travel together, passengers on a little spaceship, dependent on its vulnerable reserves of air and soil, all committed, for our safety, to its security and peace. Preserved from annihilation only by the care, the work and the love we give our fragile craft.',
+        'Adlai E. Stevenson',
     ],
-    '2a4f3107-ba97-5576-ba8f-fc2b0ddedfef' => [
-        'The past itself, as historical change continues to accelerate, has become the most surreal of subjects - making it possible... to see a new beauty in what is vanishing.',
-        'Susan Sontag',
+    '5fd572b3-da01-5bec-8c90-1162215c1ddb' => [
+        'Very few things are totally devoid of any possibility of humor. If you are aware of that possibility and alive to the scene becoming that way, then it just happens naturally. That\'s what I feel living is like, too. I find a lot of things that make me smile or make me laugh over the course of the day.',
+        'Tom Drury',
     ],
-    '4d3b24fc-4a5c-5ace-9fae-491c8e27dbcd' => [
-        'Virtue has a veil, vice a mask.',
-        'Victor Hugo',
+    'ef173b40-5109-50c0-a8de-55b6be5c5c1f' => [
+        'Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility.',
+        'Saint Augustine',
     ],
-    '1ac86b14-c474-5d66-8c82-6eb89ebbb6b5' => [
-        'When a parent shows up with an attitude of entitlement, understand that under it is a boatload of anxiety.',
-        'Robert Evans',
+    '23d4aa9e-750b-53c9-b165-95e713a54621' => [
+        'For many years when I was younger, I let negative things that people said about me affect my life. What I\'ve learned is that it\'s really important to find the right support network, focus on the positive things in your life and quiet that negative voice in your head.',
+        'Brittany Snow',
     ],
-    'b30c0fca-9b5d-5ccf-827f-c622d4174187' => [
-        'I am just as comfortable in sweats and sneakers as I am in a dress and heels. Attitude is everything!',
-        'Blac Chyna',
+    'ed7704cc-bbd8-5098-afd2-7f1e0138d52b' => [
+        'I can do comedy, so people want me to do that, but the other side of comedy is depression. Deep, deep depression is the flip side of comedy. Casting agents don\'t realize it but in order to be funny you have to have that other side.',
+        'Parker Posey',
     ],
-    '0f42fe05-2502-5101-bbc7-dc140cc14e6a' => [
-        'We see things not as they are, but as we are. Our perception is shaped by our previous experiences.',
-        'Dennis Kimbro',
+    '5d473974-05ce-557f-a7c1-f39835355f8f' => [
+        'Slavery is founded in the selfishness of man\'s nature - opposition to it is his love of justice. These principles are an eternal antagonism; and when brought into collision so fiercely, as slavery extension brings them, shocks and throes and convulsions must ceaselessly follow.',
+        'Abraham Lincoln',
     ],
-    '857266c8-8656-5e35-968d-af7f719997bd' => [
-        'Though pleas\'d to see the dolphins play, I mind my compass and my way.',
-        'Matthew Green',
+    '426ae422-94e3-560a-9227-6ea10ebee9c9' => [
+        'America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world.',
+        'Bill Frist',
+    ],
+    '24df2467-8d65-55ce-893d-eca107d55c2f' => [
+        'No parent is perfect; we all can look back and think of things we could\'ve done to help our children be better prepared for adulthood. And sometimes it\'s best to admit it to them and encourage them to learn from our mistakes.',
+        'Billy Graham',
+    ],
+    '18507c3a-71c1-5f2e-9965-649901b307fe' => [
+        'After a lifetime of world travel I\'ve been fascinated that those in the third world don\'t have the same perception of reality that we do.',
+        'Jim Harrison',
+    ],
+    'df15bab1-a150-5794-8819-61b962f709e0' => [
+        'Properly used, positive reinforcement is extremely powerful.',
+        'B. F. Skinner',
+    ],
+    '258ef034-f776-5afa-a50b-b378bd1376da' => [
+        'The artist is nothing without the gift, but the gift is nothing without work.',
+        'Emile Zola',
+    ],
+    '33233fd5-6644-5a24-9e65-a8cf06762b79' => [
+        'Find something that you love to do, and find a place that you really like to do it in. I found something I loved to do. I\'m a mechanical engineer by training, and I loved it. I still do. My son is a nuclear engineer at MIT, a junior, and I get the same vibe from him. Your work has to be compelling. You spend a lot of time doing it.',
+        'Ursula Burns',
+    ],
+    '45dc0311-37db-5aa6-8699-a09af8e726f4' => [
+        'Unfortunately, we can never truly know if we\'re making the right decision. What we do know is that wherever we are, that\'s where the Light wants us to be. It\'s the best place for us to be now. And as long as we don\'t try to control the situation, then we won\'t end up in the place we shouldn\'t be.',
+        'Yehuda Berg',
+    ],
+    'b6336a97-61c4-515a-8809-221384de23c8' => [
+        'Laughter is regional: a smile extends over the whole face.',
+        'Malcolm de Chazal',
+    ],
+    'aa12f3b5-9557-5db4-9618-f97a09b7a75a' => [
+        'Always remember that striving and struggle precede success, even in the dictionary.',
+        'Sarah Ban Breathnach',
+    ],
+    '5aeca179-389b-52c4-bcdd-a04a23c3907f' => [
+        'The bond that links your true family is not one of blood, but of respect and joy in each other\'s life.',
+        'George Lucas',
+    ],
+    'f068fe81-b51e-5cb6-a406-4e590c1781f5' => [
+        'Who does not desire such a victory by which we shall join places in our Kingdom, so far divided by nature, and for which we shall set up trophies in another conquered world?',
+        'Alexander the Great',
+    ],
+    'ce3d4083-9e22-5cce-864c-119e4f3b87c1' => [
+        'It\'s all about quality of life and finding a happy balance between work and friends and family.',
+        'Tony Robbins',
+    ],
+    '43cb1511-daa0-5d04-8927-d7b22dfd5bb7' => [
+        'I believe myself to possess a most singular combination of qualities exactly fitted to make me pre-eminently a discoverer of the hidden realities of nature.',
+        'Ada Lovelace',
+    ],
+    '60b26308-e5f3-5a9d-a595-c75a4d49ab71' => [
+        'Strange, is it not? That of the myriads who Before us pass\'d the door of Darkness through, Not one returns to tell us of the Road Which to discover we must travel too.',
+        'Edward Fitzgerald',
+    ],
+    '6955fa09-cad5-501c-840d-f92d68d419e7' => [
+        'If you could cross a lion and a monkey, that\'s what I\'d be, because monkeys are funny and lions are strong.',
+        'Marlon Wayans',
+    ],
+    '649a981e-829b-570b-8540-5bebd998b764' => [
+        'In the animal kingdom, one of the keys to survival is to outwit your enemies. And when you\'re surrounded by carnivores, one of the best strategies is to fade into the background and disappear.',
+        'Neil deGrasse Tyson',
+    ],
+    '109e48b1-0f14-53f6-994a-5506e9cdab65' => [
+        'I shall give you hunger, and pain, and sleepless nights. Also beauty, and satisfactions known to few, and glimpses of the heavenly life. None of these you shall have continually, and of their coming and going you shall not be foretold.',
+        'Howard Lindsay',
+    ],
+    'eccf7a2a-751e-54f2-a6cb-9f612b7d1ca5' => [
+        'I like the map feature on the iPhone that tells me where I am, because I travel a lot.',
+        'Gary Shteyngart',
+    ],
+    '73f17887-05ec-5370-964b-08adeab81e60' => [
+        'I\'m terrified of bugs and I travel with sprays, lotions, potions; the lot. I have to check the room before I go to sleep and if I come across a bug and fail to remove it I have to sleep in a separate room as I\'m paranoid that I\'ll be taken advantage of as I sleep.',
+        'Freema Agyeman',
+    ],
+    'ba0f16bf-4900-5c34-b2a4-4d8d23f971ee' => [
+        'Everything has beauty, but not everyone sees it.',
+        'Confucius',
+    ],
+    '60afe97f-8dad-50c1-a000-bd9c4c9d566f' => [
+        'How we spend our days is, of course, how we spend our lives.',
+        'Annie Dillard',
     ],
 ];

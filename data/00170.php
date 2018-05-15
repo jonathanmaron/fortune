@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '2971922c-006c-54c5-8772-c1657e9dc57a' => [
-        'I tell you, it\'s funny because the only time I think about HIV is when I have to take my medicine twice a day.',
-        'Magic Johnson',
+    '6a3d017c-a00f-5faa-8366-06a74626e2c1' => [
+        'You\'re going to go through tough times - that\'s life. But I say, \'Nothing happens to you, it happens for you.\' See the positive in negative events.',
+        'Joel Osteen',
     ],
-    '854058ef-1beb-59c3-89fa-d6a9cace7a78' => [
-        '... because all things have contributed to your advancement, you should include all things in your gratitude.',
-        'Wallace D. Wattles',
+    'e1447e7c-5050-50e0-ad0b-892d86aff20c' => [
+        'Whatever we expect with confidence becomes our own self-fulfilling prophecy.',
+        'Brian Tracy',
     ],
-    '0cbf2153-d133-5267-80ba-8f59d922f277' => [
-        'In my family, growing up, the women were always the ones who were powerful, and they exuded this charisma of empowerment that I hold onto and always remember. I had some difficult times, but these strong women were always a constant.',
-        'Mickalene Thomas',
+    'fcd66473-7a71-5a6d-b7c1-c3a6b49acbed' => [
+        'Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.',
+        'Blaise Pascal',
     ],
-    '231fe75c-2b1c-51f3-aee2-f18dc5838f54' => [
-        'Writers, as they gain success, feel like outsiders because writers don\'t come together in real groups.',
-        'Anne Rice',
+    '08fdf5e8-93bd-53ea-a3cb-8f61a5865a61' => [
+        'I love inspirational R&B, like Mary J. Blige and Jennifer Hudson. I want to do that. That kind of music stays with you.',
+        'Ashthon Jones',
     ],
-    'b63a35af-f1c3-5e21-a838-f137fcca4171' => [
-        'Inspiration does exist but it must find you working.',
-        'Pablo Picasso',
+    'f2758c3a-f0e2-57d2-a98d-8f89ee609470' => [
+        'I get nostalgic for British negativity. There is an inherent hope and positive drive to New Yorkers. When you go back to Britain, everybody is just running everything down. It\'s like whatever the opposite of a hug is.',
+        'John Oliver',
     ],
-    '3f863371-257b-5704-aef2-7ed10b2bbeee' => [
-        'My father... gave me a positive connection with men because he is a gentleman.',
-        'Iman',
+    '16594f0b-0ce6-59f3-8828-5ea99fc7ff13' => [
+        'Fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions.',
+        'H. P. Lovecraft',
     ],
-    'eb2700b9-5e71-50ba-a0da-031ee3655a3e' => [
-        'The music is first and foremost everything - no egos, no attitude, nothing - it\'s about the music.',
-        'Big Boi',
+    'ff8c74c6-ea6a-509c-b691-5febb651d960' => [
+        'Your worst enemy cannot harm you as much as your own unguarded thoughts.',
+        'Buddha',
     ],
-    '43397e26-0774-5a63-a369-23ec7d91abed' => [
-        'We don\'t have a divine right to success. So I agree with a lot of politicians out there when they say, \'We\'ve got serious issues.\' We do: immigration, infrastructure. I think income inequality\'s one of them.',
-        'Jamie Dimon',
+    '2aef7be7-ccef-5e16-8e50-02ab5c09a847' => [
+        'Life is a series of experiences, each one of which makes us bigger, even though sometimes it is hard to realize this. For the world was built to develop character, and we must learn that the setbacks and grieves which we endure help us in our marching onward.',
+        'Robert Frost',
     ],
-    '26379fa8-6090-5166-bd5e-cd264189c6d4' => [
-        'Anybody who knows me knows that I\'m just here to put a smile on people\'s faces.',
-        'Jason Mitchell',
+    '27972e27-daa0-55a1-8720-4745e00da7ad' => [
+        'I\'ve always had that attitude about my career: it\'s something that I do, but it\'s not my whole life. I have a real life, a personal life: I\'ve got a lot of chickens, I\'ve got a horse, I\'ve got a kitty-cat, I\'ve got a lot of goats, I\'ve got animals all over the place.',
+        'Buffy Sainte-Marie',
     ],
-    'e9a62a24-cc26-54c1-9200-a17c6bf3ec23' => [
-        'It remains to consider what attitude thoughtful men and Christian believers should take respecting them, and how they stand related to beliefs of another order.',
-        'Asa Gray',
+    'afae63e0-e3bb-5a46-a391-68828903652d' => [
+        'Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.',
+        'Thomas Carlyle',
     ],
-    'b5066204-9d53-5fe7-9c4a-a7735821bbd2' => [
-        'Winning the World Cup was very special because it meant so much to so many. One thing about our country that is constant is cricket. The smile it brought to people\'s faces was the thing I shall always remember. It reminded me, reminded all of us, of our importance to the lives of the Indian people less lucky than we are.',
-        'Mahendra Singh Dhoni',
+    'be3b2671-3b90-54fd-bf01-32b3f4383709' => [
+        'Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek.',
+        'Barack Obama',
     ],
-    '71da7b9c-50b3-58c9-bd86-fd08a2ff73f9' => [
-        'The sky lovingly smiles on the earth and her children.',
-        'Henry Morton Stanley',
+    '760677bd-db1c-5d00-a6fa-8e8ea04ae070' => [
+        'What we play is life.',
+        'Jackie Robinson',
     ],
-    '4a518405-49e1-524e-b5ec-030c148a53d2' => [
-        'People in cities may forget the soil for as long as a hundred years, but Mother Nature\'s memory is long and she will not let them forget indefinitely.',
-        'Henry Cantwell Wallace',
+    'c4036204-0646-5fdd-ad7c-3f630cf4af27' => [
+        'It\'s a great feeling when your work is appreciated.',
+        'Jacqueline Fernandez',
     ],
-    '6f980b75-0aa6-5757-ab8a-cace174c360c' => [
-        'Everything has beauty, but not everyone sees it.',
-        'Confucius',
+    'fda89a8e-19db-5d76-8790-587ec263685a' => [
+        'Experience hath shewn, that even under the best forms of government those entrusted with power have, in time, and by slow operations, perverted it into tyranny.',
+        'Thomas Jefferson',
     ],
-    'd5e0cd68-3524-50e7-8f4d-4c8733e0b0be' => [
-        'Positive culture comes from being mindful, and respecting your coworkers, and being empathetic.',
-        'Biz Stone',
+    '3fa82fb1-a281-52dd-b2cc-74cdae33d509' => [
+        'When your time comes to die, be not like those whose hearts are filled with fear of death, so that when their time comes they weep and pray for a little more time to live their lives over again in a different way. Sing your death song, and die like a hero going home.',
+        'Tecumseh',
     ],
-    'dadce37a-5361-5057-bce7-abc69ca28a0b' => [
-        'That\'s my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard.',
-        'Joe Rogan',
+    '9363eacc-f14f-5c47-8a3f-bb3431651f19' => [
+        'What other people call dark and despairing, I call funny.',
+        'David Sedaris',
     ],
-    '5c52ea47-0eb7-5d0e-99fd-0320457e4734' => [
-        'The travel impulse is mental and physical curiosity. It\'s a passion. And I can\'t understand people who don\'t want to travel.',
-        'Paul Theroux',
+    '7587e01b-7b2f-5295-896a-f936d22ca5ba' => [
+        'I travel the world visiting global health programs as an ambassador for the global health organization, PSI, and sometimes the disconnect I see is truly striking: people can get cold Coca Cola, but far too infrequently malaria drugs; most own mobile phones, but don\'t have equal access to pre-natal care.',
+        'Mandy Moore',
     ],
-    'cb0de93f-5513-5d7d-8c8c-cd7cd56c49ca' => [
-        'Halloween is one of my favorite days of the year. I have a strict rule: I don\'t work on Halloween and I won\'t travel on Halloween. Not for any reason.',
-        'Simon Sinek',
+    '09728327-0794-5fd7-943b-d70185a5837c' => [
+        'The more things you do, the more you can do.',
+        'Lucille Ball',
     ],
-    '760a5a6b-4729-51f2-913b-a41e517f53a8' => [
-        'Only as far as a man is happily married to himself is he fit for married life and family life in general.',
-        'Novalis',
+    'd1db9ea6-8f99-59d2-9015-9be5ec045c35' => [
+        'Syria should not belong to one family, to one coterie, or to one party. It belongs to all the people of Syria equally, in all their religious and ethnic diversity.',
+        'William Hague',
     ],
-    '3c76a22f-c860-511e-afe9-fddb422d3804' => [
-        'Be passionate and bold. Always keep learning. You stop doing useful things if you don\'t learn. So the last part to me is the key, especially if you have had some initial success. It becomes even more critical that you have the learning \'bit\' always switched on.',
-        'Satya Nadella',
+    '53dd3949-9287-5e7b-b1eb-593fed66772f' => [
+        'It\'s so simple to be wise. Just think of something stupid to say and then don\'t say it.',
+        'Sam Levenson',
     ],
-    '1b6d7e72-ed84-5ad9-9413-fdd38c05fdba' => [
-        'There\'s inevitably something missing when you grow up in this kind of an environment when your parents travel a lot. When your father is famous, you are looked at and expected of. There are standards you need to meet.',
-        'Natalie Cole',
+    '678da26f-70f1-54f0-acea-382de29cf16e' => [
+        'We should bring in an environmental attitude, and I think luxury should automatically be about sustainability and quality.',
+        'Jochen Zeitz',
     ],
-    '4aab5079-8091-5365-9969-c4bbb74f3ed9' => [
-        'When you don\'t know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.',
+    '9b682f2e-72fb-5a4e-a020-bea6b0f94f55' => [
+        'Those who will play with cats must expect to be scratched.',
+        'Cervantes',
+    ],
+    'c1e13702-a3f1-5d27-a8c3-e81b3f829c7e' => [
+        'As a footballer, you always want to test yourself against the best.',
+        'David Beckham',
+    ],
+    '6626bfc5-ba2d-56e9-ba6f-dc63c66507dd' => [
+        'I love listening to music on holiday, and back in the old days, I used to travel with cassette tapes and a boombox.',
+        'Art Malik',
+    ],
+    'ed1e461b-689d-56f3-a212-fabf40cf3381' => [
+        'What\'s another word for Thesaurus?',
+        'Steven Wright',
+    ],
+    'a4b457a7-2d98-5065-a0df-7d68cdd798fc' => [
+        'My mama never wore a pair of pants when I was growing up, and now that\'s all she wears. It was so funny for me when I first started seeing Mama wear pants. It was like it wasn\'t Mama. Now I\'ve bought her many a pantsuit because she just lives in them.',
+        'Dolly Parton',
+    ],
+    'fef2f3ae-91b8-5b3a-a73e-a694796a83df' => [
+        'I specifically remember doing the musical \'Sweet Charity\' at Stagedoor. I was playing Vittorio Vidal, which is a very funny part, and some other small roles. I couldn\'t really sing that well, but there were so many fun bits, and I just remember the tremendous adrenaline rush I felt from being onstage and hearing the audience enjoying it.',
+        'Sebastian Stan',
+    ],
+    'f70d3b15-924b-5f66-8168-6ac403761d41' => [
+        'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.',
+        'Elayne Boosler',
+    ],
+    'cd96903a-b078-5ffe-874e-329f18bb04c1' => [
+        'You know, there\'s nothing like seeing the smile on my kids\' faces. Laughing together. Playing. It\'s the best.',
+        'Mark Wahlberg',
+    ],
+    'b416dcf4-a4a0-52e9-8060-fb3d82746a08' => [
+        'My dementia hasn\'t just affected me - it\'s affected my friends and family, too.',
+        'Gerry Anderson',
+    ],
+    '8e6a2a83-37c3-5a27-ae2f-f7b82143936d' => [
+        'Stop letting people who do so little for you control so much of your mind and emotions.',
+        'Will Smith',
+    ],
+    'dc1add3a-2235-5388-a750-1a3397ca58df' => [
+        'Do not say, \'It is morning,\' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name.',
+        'Rabindranath Tagore',
+    ],
+    'ceae8775-5b24-5b15-9f4e-7ed5569fbf85' => [
+        'Lord, grant that I may always desire more than I can accomplish.',
+        'Michelangelo',
+    ],
+    '916b310c-a8af-5077-953f-ac6f32967a2c' => [
+        'External nature is only internal nature writ large.',
+        'Swami Vivekananda',
+    ],
+    'd4856a82-0815-5310-b8a4-c5a48ead1175' => [
+        'Perseverance is failing 19 times and succeeding the 20th.',
+        'Julie Andrews',
+    ],
+    'eec999b8-2be5-5d59-b739-e05b8efb2f18' => [
+        'Antique things have an appreciation and worth. Something can be old, but it can be timeless; therefore, it becomes an antique. If this antique is preserved and deemed precious, it could be passed down as a family heirloom.',
+        'CeeLo Green',
+    ],
+    '27b0e502-f26d-5e03-8709-47ba9afcccb2' => [
+        'Most people yearn to contribute, make the world a better place and have success.... all at the same time... Make sure to give your business a background, a mission and a story. That might be the most important step part of any venture. And remember, giving may be the best investment you ever make.',
+        'Blake Mycoskie',
+    ],
+    'c398de0e-bd2e-5cc3-aae8-b6f5a690b77d' => [
+        'Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.',
+        'Oprah Winfrey',
+    ],
+    '465b81ec-6f44-5cd3-9218-9ca8f04cd71f' => [
+        'With modeling, you pose. You want to look your best all the time. With acting, you have to be aware of the camera, but the more you show your imperfections, the better you\'re going to be.',
+        'Diane Kruger',
+    ],
+    '04c6f05d-d0c8-5413-9398-cecc8920a2c3' => [
+        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
         'Unknown',
     ],
-    'a4ea849c-bcf7-5e6d-b73b-8156d8033b2b' => [
-        'At any given moment, you have the power to say: This is not how the story is going to end.',
-        'Christine Mason Miller',
+    '0bdafeda-aaab-51bf-8554-8815be935ea8' => [
+        'I enjoy the work, I enjoy every minute of my professional life.',
+        'Jose Mourinho',
     ],
-    '9e36dced-cf52-5774-bbd3-8130bf3338b3' => [
-        'If you\'re going to do something tonight that you\'ll be sorry for tomorrow morning, sleep late.',
-        'Henny Youngman',
+    '791ca0a6-3e20-59b4-9d30-2d4268e9b49d' => [
+        'A #2 pencil and a dream can take you anywhere.',
+        'Joyce Meyer',
     ],
-    '0ecf01ae-dfc6-5d8a-94a8-182169033901' => [
-        'No yesterdays are ever wasted for those who give themselves to today.',
-        'Brendan Francis',
+    '8e33528c-39e1-5946-b192-11b39c0d44cf' => [
+        'Economic medicine that was previously meted out by the cupful has recently been dispensed by the barrel. These once unthinkable dosages will almost certainly bring on unwelcome after-effects. Their precise nature is anyone\'s guess, though one likely consequence is an onslaught of inflation.',
+        'Warren Buffett',
+    ],
+    '6d020077-3735-522d-af3a-36e941cd909c' => [
+        'If I could reach up and hold a star for every time you\'ve made me smile, the entire evening sky would be in the palm of my hand.',
+        'Unknown',
+    ],
+    'f962d2ce-051c-5e9b-89fe-cf6fff8bc999' => [
+        'Only when we are no longer afraid do we begin to live.',
+        'Dorothy Thompson',
+    ],
+    '1c67e3b9-f501-5cb4-ade0-461fce4fbd77' => [
+        'There\'s a constant tension in climbing, and really all exploration, between pushing yourself into the unknown but trying not to push too far. The best any of us can do is to tread that line carefully.',
+        'Alex Honnold',
+    ],
+    '84ba1d67-910a-57b0-b29d-92d01a1e46f8' => [
+        'I grew up in a time when women didn\'t really do comedy. You had to be homely, overweight, an old maid, all that. You had to play a stereotype, because very attractive women were not supposed to be funny - because it\'s powerful; it\'s a threat.',
+        'Lily Tomlin',
+    ],
+    'e9ec8600-5445-50ff-8c92-1e953492e7d9' => [
+        'Parisian women have an inner elegance that\'s envied the world over. They are so relaxed about ageing and seem to acquire more charisma and beauty with time. Who wouldn\'t want to be like them? That\'s the trick - to embrace the natural progression of life and to be confident.',
+        'Naomi Watts',
+    ],
+    '3c56ed1f-2553-5349-a6c8-fd820cccb532' => [
+        'Actors are supposed to be these runaways that get in a covered wagon filled with hats and tambourines and go from town to town making people smile.',
+        'John Cho',
+    ],
+    '3ca35268-1083-5a9f-850f-d5ef1aaee58e' => [
+        'Silence is as deep as eternity, speech a shallow as time.',
+        'Thomas Carlyle',
     ],
 ];

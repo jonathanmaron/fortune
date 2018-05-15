@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'a78578a8-cef8-5dc3-a3d0-006e993a43a4' => [
-        'The equal right of all citizens to health, education, work, food, security, culture, science, and wellbeing - that is, the same rights we proclaimed when we began our struggle, in addition to those which emerge from our dreams of justice and equality for all inhabitants of our world - is what I wish for all.',
-        'Fidel Castro',
+    'c3543e86-46fa-52a2-961d-0cffe239253e' => [
+        'Time is long but life is short.',
+        'Stevie Wonder',
     ],
-    '2fa9b407-2810-51c6-b672-d2352558c961' => [
-        'Turns out you have a really fun time if you go to work every day and focus on being silly and funny and happy!',
-        'Hannah Murray',
+    '1baf7001-2289-51eb-95cc-d342a1446437' => [
+        'Success has a simple formula: do your best, and people may like it.',
+        'Sam Ewing',
     ],
-    '49a4add7-f7b6-541d-8ede-5a74cbe1a021' => [
-        'One man\'s wage increase is another man\'s price increase.',
-        'Harold Wilson',
+    '46f49890-e33f-5fde-a704-c338a899b774' => [
+        'Life is a journey. When we stop, things don\'t go right.',
+        'Marianne Vos',
     ],
-    '977fee1d-366d-526a-9b51-e4a5f591073f' => [
-        'Extensive traveling induces a feeling of encapsulation, and travel, so broadening at first, contracts the mind.',
-        'Paul Theroux',
+    '063ade7c-29f9-5049-b9a5-e419a217addb' => [
+        'It is impossible to predict the time and progress of revolution. It is governed by its own more or less mysterious laws.',
+        'Vladimir Lenin',
     ],
-    'a21b91a2-7478-5ea3-9bff-e31768863d4f' => [
-        'When I see a friend play Hamlet or see an inspirational performance, I absolutely get excited by the idea of changing things up.',
-        'Andrew Lincoln',
+    '2178bd35-9ef4-5938-a828-ba8d1c0c0572' => [
+        'Whether you succeed or not is irrelevant, there is no such thing.  Making your unknown known is the important thing.',
+        'Georgia O\'Keeffe',
     ],
-    'd5ceb614-dfe2-5bd4-8ddc-2a16da150c57' => [
-        'To dare is to lose ones footing momentarily. To not dare is to lose oneself.',
-        'Soren Kierkegaard',
+    '5b90930e-42b8-582c-8a4d-e1390ab8e607' => [
+        'Sometimes people just want you to fail. Except your really good friends. I\'ve always known who my best friends were.',
+        'Kato Kaelin',
     ],
-    'd6f746dd-2520-5d7a-b5ec-df76858759ba' => [
-        'It\'s pretty scary to know how quickly time flies.',
-        'James Wan',
+    'dbc9b7c2-a22a-576d-aee5-807344b167d3' => [
+        'Live life for the moment because everything else is uncertain!',
+        'Rose Kennedy',
     ],
-    'aa5b454b-2b2e-5acd-b32a-25d45cb8db9e' => [
-        'Defy your own group. Rebel against yourself.',
-        'Cathy Guisewite',
+    '723c742b-a35e-5cc0-9ed1-56cc1a280116' => [
+        'I turned down \'Some Like It Hot.\' See how smart I am? I felt I couldn\'t bring anything funny to it. The outfit was funny. I don\'t need to compete with the wardrobe.',
+        'Jerry Lewis',
     ],
-    'abe6c3e0-6665-5e6d-8681-7649b3b99de6' => [
-        'I travel a lot, so when I arrive in a city, I like to go to good local bookshops and make a selection based on how I\'m feeling and what I\'m thinking. The book I pick usually seems to have a definite karmic connection!',
-        'Yoko Ono',
+    'bf868152-e365-51a7-9483-e5c54a071b19' => [
+        'Think as a wise man but communicate in the language of the people.',
+        'William Yeats',
     ],
-    'e271e199-3ec7-5c44-9158-bf6504c5beaf' => [
-        'When onstage, I always try to take my audience through as many emotions as I possibly can. I want them to go from laughter to tears, be shocked and surprised and walk out the door with a renewed sense of themselves - and maybe a smile.',
+    '81e30ad5-0c13-5f59-80d8-f7b1b885767b' => [
+        'These things bring you to reality as to how fragile you are; at the same moment you are doing something that nobody else is able to do. The same moment that you are seen as the best, the fastest and somebody that cannot be touched, you are enormously fragile.',
+        'Ayrton Senna',
+    ],
+    'a5d92244-c1e2-5442-866f-38c880bc61bc' => [
+        'The plainer the dress, the greater luster does beauty appear.',
+        'Edward Wood, 1st Earl of Halifax',
+    ],
+    '2af4c238-a8d9-538b-afa8-569bef8d0730' => [
+        'Find out what you like doing best and get someone to pay you for it.',
+        'Katharine Whitehorn',
+    ],
+    '36e89812-5021-550b-95fb-c0e8e9e88acf' => [
+        'I\'m an actor. Since I was a teenager, I have had to play different characters, negotiating the cultural expectations of a Pakistani family, Brit-Asian rudeboy culture, and a scholarship to private school. The fluidity of my own personal identity on any given day was further compounded by the changing labels assigned to Asians in general.',
+        'Riz Ahmed',
+    ],
+    '53c18ee8-d572-5021-8846-1335f2181003' => [
+        'I never expected to see the day when girls would get sunburned in the places they now do.',
+        'Will Rogers',
+    ],
+    '22fb14e8-d0ce-5931-a6f3-55dcdb28da97' => [
+        'With everything that\'s thrown at you, whether it be problems at home, problems at work - whatever - basically, if you remain positive, you can see your way out of that.',
+        'Sean Paul',
+    ],
+    '70d9b87e-55cf-5160-8e2f-b84b0bbd44e9' => [
+        'Everything I\'ve done in my career is a result of growing up in rural Oklahoma, because if I hadn\'t had the training from Mama and Daddy to work hard, to do what I\'m told, to take directions, to mind and to do a good job at anything I set out to do, then I wouldn\'t be where I am today.',
         'Reba McEntire',
     ],
-    '82cbf4a1-3ddb-5916-8b07-930bdd122470' => [
-        'Italian men do appreciate beautiful women. They\'re not afraid of the beauty, which is nice.',
-        'Eva Herzigova',
+    'c786e257-5717-5c35-8936-7237607d6e27' => [
+        'The idea that happiness could have a share in beauty would be too much of a good thing.',
+        'Walter Benjamin',
     ],
-    'd09467f1-e5d7-5a39-86d9-6716db52b886' => [
-        'The BBC is the greatest broadcaster in the world. It\'s the standard that everyone measures themselves against. If we lose the BBC, it won\'t be quite as bad as losing the royal family, but an integral part of this country will have gone. But then, I\'m an old guy.',
-        'Terry Wogan',
+    '53db5775-1f89-58b9-a513-7a5b09179e79' => [
+        'Well I do find the beauty in animals. I find beauty everywhere. I find beauty in my garden.',
+        'Doris Day',
     ],
-    'ae794ea7-a17a-54cc-bd8d-3a79b015f4ca' => [
-        'I don\'t take any photographs. I travel a lot by myself, and I feel weird taking photos on my own.',
-        'Jamie Bell',
+    'b6c07baa-ac44-5679-8446-101d8a5e6baf' => [
+        'It is very necessary to have markers of beauty left in a world seemingly bent on making the most evil ugliness.',
+        'Thornton Wilder',
     ],
-    '809f9a82-a6fe-5aec-9678-5326d99b3bf2' => [
-        'It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.',
-        'Mabel Newcomber',
+    '4e34cd88-9bec-5e9b-8685-61fd65d49bd9' => [
+        'What manner of thing this \'public opinion\' is, should be best known to those who have its name forever in their mouths and erect the regard for it into a positive article of religion. Its self-styled organ in our times is the \'Press.\'',
+        'Richard Wagner',
     ],
-    '16017c31-cab6-560a-a175-be83c4b97860' => [
-        'The medical literature tells us that the most effective ways to reduce the risk of heart disease, cancer, stroke, diabetes, Alzheimer\'s, and many more problems are through healthy diet and exercise. Our bodies have evolved to move, yet we now use the energy in oil instead of muscles to do our work.',
-        'David Suzuki',
+    'fecb67ab-16c6-54c3-93b5-08427c968a95' => [
+        'Ten years ago, I still feared loss enough to abandon myself in order to keep things stable. I\'d smile when I was sad, pretend to like people who appalled me. What I now know is that losses aren\'t cataclysmic if they teach the heart and soul their natural cycle of breaking and healing.',
+        'Martha Beck',
     ],
-    'd1a719cc-ffe2-54ff-8e32-4a9f841b9ad0' => [
-        'My parents are very proud of my success but still worry, as I\'m in a profession where there is no guarantee of work. They have always supported my decision to go into acting, but there have been tough times work-wise.',
-        'David Harewood',
+    'c804cfad-9c46-5b2f-852a-1ec64b6463aa' => [
+        'My guiding principles in life are to be honest, genuine, thoughtful and caring.',
+        'Tom Brady',
     ],
-    'e43494c1-0572-51cd-bbf2-a621ae7c0a79' => [
-        'Those who have never known the deep intimacy and the intense companionship of mutual love have missed the best thing that life has to give.',
-        'Bertrand Russell',
+    '60f32d6a-9d57-5e8d-8fb4-ed35c0ce9e46' => [
+        'Travelling expands the mind rarely.',
+        'Hans Christian Andersen',
     ],
-    '9083bb25-a12c-5d14-ac3f-fb95fdfa14dc' => [
-        'Ugliness is in a way superior to beauty because it lasts.',
-        'Serge Gainsbourg',
+    'c219540f-cdb3-5059-bf31-9f24b6271cb3' => [
+        'Let us live for the beauty of our own reality.',
+        'Charles Lamb',
     ],
-    '4caaf852-b524-5be7-8f82-1e1c0e2b6860' => [
-        'The shores of the Black Sea lend themselves to the literary genre that may be classified as \'cultural pilgrimage,\' which is not just a higher form of travel writing but which has the further mission of reporting on present conditions and supplying neglected knowledge.',
-        'Norman Davies',
+    '75805e58-1522-59ac-a37a-52ac6c35887d' => [
+        'Confront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing.',
+        'August Wilson',
     ],
-    '5ea82945-4ed8-5cc5-967e-c4f512af18e3' => [
-        'The day always looks brighter from behind a smile.',
+    '06286ecc-7787-5126-9d00-6d4229ed8644' => [
+        'I always have one or two, sometimes more, Navajo or other tribes\' cultural elements in mind when I start a plot. In Thief of Time, I wanted to make readers aware of Navajo attitude toward the dead, respect for burial sites.',
+        'Tony Hillerman',
+    ],
+    'c929fbb0-9e2d-5741-9753-51062d32603a' => [
+        'I think that ultimately your age is determined by your attitude. It\'s not the number; it\'s not how many wrinkles you have on your face. It\'s the energy that you project.',
+        'Christie Brinkley',
+    ],
+    '82d65dff-dd89-5c1e-9fa7-715ccbad729b' => [
+        'I truly believe in positive synergy, that your positive mindset gives you a more hopeful outlook, and belief that you can do something great means you will do something great.',
+        'Russell Wilson',
+    ],
+    'a78a3503-a4cb-5040-bd77-4590fc525c35' => [
+        'Refuse to be a lazy Christian, and resist a passive, apathetic attitude.',
+        'Joyce Meyer',
+    ],
+    'a4df8197-dee0-508f-9018-70e9e87b1f05' => [
+        'For me, nothing has ever taken precedence over being a mother and having a family and a home.',
+        'Jessica Lange',
+    ],
+    '08fd944e-8db0-5978-b4b4-be9cfb70586c' => [
+        'The family, that dear octopus from whose tentacles we never quite escape, nor in our innermost hearts never quite wish to.',
+        'Dodie Smith',
+    ],
+    'd06803a8-45e5-5f05-8075-053ce6a80cba' => [
+        'People tell you the world looks a certain way. Parents tell you how to think. Schools tell you how to think. TV. Religion. And then at a certain point, if you\'re lucky, you realize you can make up your own mind. Nobody sets the rules but you. You can design your own life.',
+        'Carrie-Anne Moss',
+    ],
+    'af56e174-8ff5-5d18-beca-14eb418218a7' => [
+        'Our thoughts are mainly controlled by our subconscious, which is largely formed before the age of 6, and you cannot change the subconscious mind by just thinking about it. That\'s why the power of positive thinking will not work for most people. The subconscious mind is like a tape player. Until you change the tape, it will not change.',
+        'Bruce Lipton',
+    ],
+    '47e7d57a-a2d0-5579-a6bc-0424df8dbce6' => [
+        'A stale article, if you dip it in a good, warm, sunny smile, will go off better than a fresh one that you\'ve scowled upon.',
+        'Nathaniel Hawthorne',
+    ],
+    'fb20d7c0-033f-581e-86ac-eb0e965b32b8' => [
+        'A lot of people deal with things that are bad. Once you\'ve been through something, you grow from it and you take a lot in. You can always turn it into something positive.',
+        'Chino Moreno',
+    ],
+    '349cc16e-cdb0-50cf-8850-818bc286ca3f' => [
+        'I think leadership is more than just being able to cross the t\'s and dot the i\'s. It\'s about character and integrity and work ethic.',
+        'Steve Largent',
+    ],
+    'c68da524-9691-5ce0-a002-3affef7949ae' => [
+        'I don\'t really remember a time younger than 5 years old that I didn\'t have skates on because all I can remember is every day, tying up my skates and a big smile on my face, excited to go on the ice.',
+        'Michelle Kwan',
+    ],
+    '7832390d-4cca-55f1-9ba0-fccdd262bd55' => [
+        'The destruction of the natural beauty, the ecosystems, and the majesty of mountains affect us in ways we\'re not even aware of. Every time a mountain is beheaded, we chop off a little part of our souls.',
+        'Gloria Reuben',
+    ],
+    '74c8109f-ae9b-5d3d-a495-cfc1279e847a' => [
+        'We should be the pro-legal immigration party. A party that has a positive platform and agenda on how we can create a legal immigration system that works for immigrants and works for America.',
+        'Marco Rubio',
+    ],
+    'aba88e26-908c-57dd-8369-7141203ee50b' => [
+        'I believe in karma, and I believe if you put out positive vibes to everybody, that\'s all you\'re going to get back.',
+        'Kesha',
+    ],
+    '1ef1a666-dfbd-5c64-b92f-96f59c29cf95' => [
+        'On Earth Day, we celebrate all the gifts the world and nature make available to us. We recognize our complete dependence on its bounty. And we acknowledge the need for good stewardship to preserve its fruits for future generations.',
+        'John Hoeven',
+    ],
+    'cb9cc457-43a8-5d23-84eb-2089b2f6be60' => [
+        'My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed.',
+        'Mark Warner',
+    ],
+    '71b82409-7ee6-5158-b314-0b48451b1fc3' => [
+        'If you wish to be a writer, write.',
+        'Epictetus',
+    ],
+    'd35f1180-01f8-53a1-a12c-6fe0596dcce7' => [
+        'No masterpiece was ever created by a lazy artist.',
         'Unknown',
     ],
-    '40715294-d854-50da-ad7c-dd816b235fc1' => [
-        'The first question which the priest and the Levite asked was: \'If I stop to help this man, what will happen to me?\' But... the good Samaritan reversed the question: \'If I do not stop to help this man, what will happen to him?\'',
-        'Martin Luther King, Jr.',
+    'a67656a4-59db-580c-a510-9cfff158d84c' => [
+        'The best way to remember your wife\'s birthday is to forget it once.',
+        'E. Joseph Cossman',
     ],
-    '29e4c244-538e-5aab-be2c-e95e8d05780a' => [
-        '\'Unbreakable Smile\' was based off one of the songs I wrote for the album - it was actually the first song I wrote for the album without realizing it yet. I think I wanted to name the album that because it seemed like that was just the theme of that chapter in my life and just the theme of all the songs put together.',
-        'Tori Kelly',
+    '67c363d9-26cc-52df-9df3-7376805a99a7' => [
+        'Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.',
+        'Hasidic saying',
     ],
-    '575fc7d4-2023-5b06-aca8-4f5e2023aefd' => [
-        'The internet could be a very positive step towards education, organisation and participation in a meaningful society.',
-        'Noam Chomsky',
+    '417857bd-e056-5a08-9bab-0bd99521e410' => [
+        'Focus 90% of your time on solutions and only 10% of your time on problems.',
+        'Anthony J. D\'Angelo',
     ],
-    '11f67452-f97b-5aad-8bc8-a3d84682c317' => [
-        'Real magic in relationships means an absence of judgement of others.',
-        'Wayne Dyer',
+    '6cce56d8-4e25-5edb-892d-93f3ae69e7fe' => [
+        'Knowing what must be done does away with fear.',
+        'Rosa Parks',
     ],
-    '55830f59-92bb-5b4b-aacf-ac972e60a334' => [
-        'It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.',
-        'Byron Roberts',
+    '8f5e8469-43fb-5f49-9712-2532a8ccd039' => [
+        'We live in a fantasy world, a world of illusion. The great task in life is to find reality.',
+        'Aphra Behn',
+    ],
+    'b5e09fd8-bac8-549b-adc1-0082eb773c7f' => [
+        'I do not like to repeat successes, I like to go on to other things.',
+        'Walt Disney',
     ],
 ];

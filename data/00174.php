@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'b2cbb645-ecf0-5041-bf26-4cb807ca870c' => [
-        'It\'s fine to celebrate success, but it is more important to heed the lessons of failure.',
-        'Bill Gates',
+    '8185b493-e661-5112-979c-09a74a7c5776' => [
+        'I always got my work done before playing.',
+        'Edwin Moses',
     ],
-    'd0c4fd1d-ee7f-56d7-ac80-5056a08a017a' => [
-        'The energy of the mind is the essence of life.',
-        'Aristotle',
+    'd3d198c9-e99d-5f0a-b86a-023cf95a2280' => [
+        'Forget about all the reasons why something may not work. You only need to find one good reason why it will.',
+        'Robert Anthony',
     ],
-    'c4a12f6f-0280-5f41-9f92-f0ae3dd8b3cd' => [
-        'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
-        'Shawn Achor',
+    'bb9a0c83-1562-5ab3-834f-da1a80289960' => [
+        'I\'m very inspired by nature - you could say Mother Nature. I look at things around me and get all kinds of inspiration daily.',
+        'Martha Stewart',
     ],
-    '101602ff-e53f-5dc3-b389-797223ddb284' => [
-        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
-        'Jimmy Reid',
+    'ea6f2dcb-d324-539a-aaba-55e66a66dd9b' => [
+        'One person may need (or want) more leisure, another more work; one more adventure, another more security, and so on. It is this diversity that makes a country, indeed a state, a city, a church, or a family, healthy. \'One-size-fits-all,\' and that size determined by the State has a name, and that name is \'slavery.\'',
+        'David Mamet',
     ],
-    'e3fd041c-6c9e-515b-ba76-cd4ab137c807' => [
-        'I love life. There\'s so much to learn and see all the time, and nothing nicer for me than to wake up, and the sky is blue.',
-        'Pattie Boyd',
+    '3179b059-9a49-5ed7-a211-70c4f27c38e9' => [
+        'If you don\'t mind, it doesn\'t matter.',
+        'Jack Benny',
     ],
-    'd4934dd2-5c38-5313-9bae-78b6dc41ab20' => [
-        'We didn\'t even think about it, you know? I used to collect laser discs, and you\'d have some college professor analyzing It\'s a Wonderful Life or Citizen Kane, and now it is pretty funny - the idea of commentary for a silly kid\'s movie, you know?',
-        'Dana Carvey',
+    '24b799cb-74db-5e27-84b8-5aebfb179552' => [
+        'Yield to temptation. It may not pass your way again.',
+        'Robert A. Heinlein',
     ],
-    'e2f634a9-8cea-5759-9f36-f0d57b6cfc46' => [
-        'The time you feel lonely is the time you most need to be by yourself.',
-        'Douglas Coupland',
+    '7a9d4847-4446-50fb-aadd-96215b5e391f' => [
+        'I just recently joined Twitter. It\'s very positive - I love all the accolades. If my ego is hurting, I can just open my Twitter account and see \'Oh, I love you! I love the show!\' and it\'s great. I\'m trying to find the balance between trying to be funny, being honest and just being a promoter as the guy on \'Royal Pains.\'',
+        'Mark Feuerstein',
     ],
-    'bbcc46a5-c4d0-5564-a79a-acc59b48de66' => [
-        'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
-        'James Best',
+    '9329bf56-0297-5925-96e7-8213f879e44c' => [
+        'The supreme accomplishment is to blur the line between work and play.',
+        'Arnold J. Toynbee',
     ],
-    'aa195257-c6b9-5137-acd8-c161c4edbc11' => [
-        'I\'m the one that has to die when it\'s time for me to die, so let me live my life, the way I want to.',
-        'Jimi Hendrix',
+    '6a9493bf-4348-5685-9ecb-b9729e624078' => [
+        'It\'s a common misconception that money is every entrepreneur\'s metric for success. It\'s not, and nor should it be.',
+        'Richard Branson',
     ],
-    '80823c4d-72e7-56cf-8552-3b2e729e380e' => [
-        'By believing passionately in something that does not yet exist, we create it.',
-        'Nikos Kazantzakis',
+    '1f7699c9-a349-5169-ad35-121bba930174' => [
+        'The best thing I could say is you do have to be a really good listener. If I go to a family reunion, and there\'s 400 people there, everybody comes up and tells me their stories, right? And I think that when you\'re a good listener, and you can imagine how someone\'s talking, dialogue is your key friend, is it not?',
+        'Susan Straight',
     ],
-    '691c8906-9bf0-5d18-9969-d0525ebb3f11' => [
-        'Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what\'s right for you.',
-        'Julie Morgenstern',
+    '5fb49bd3-5bfc-5281-87a8-ef8d38d665f1' => [
+        'On Thanksgiving I will stop to give thanks that my family is safe and healthy, especially because I realize that, following the tragedies of this year, it is all too real a possibility that they might not have been.',
+        'Bobby Jindal',
     ],
-    'fb94e0af-ac5b-56a4-9b49-b505706dc1c8' => [
-        'Being hardworking is the best thing you can show children.',
-        'David Beckham',
+    '3f45a2ad-d03d-5fd9-a10b-e346620f8e8f' => [
+        'If you try to come off as this big-time star with an attitude, people don\'t like that.',
+        'Selena',
     ],
-    '3abf093a-9ef3-597f-ba5a-7abbccdecae8' => [
-        'Life is short and if you\'re looking for extension, you had best do well. \'Cause there\'s good deeds and then there\'s good intentions. They are as far apart as Heaven and Hell.',
-        'Ben Harper',
+    '187fe0f7-9cf3-5332-bfe9-a32ce15cb96d' => [
+        'Only do what your heart tells you.',
+        'Princess Diana',
     ],
-    '5aa07aff-8298-5b3a-aaf8-de5ff7157f12' => [
-        'The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.',
-        'Abernathy',
+    'b1944e19-c59d-5729-bd1e-5372cb37ef74' => [
+        'The cautious seldom err.',
+        'Confucius',
     ],
-    '9a12266c-926e-523b-a853-4baf2b7d5dc7' => [
-        'All mankind... being all equal and independent, no one ought to harm another in his life, health, liberty or possessions.',
-        'Mark Caine',
+    '357eb847-a63c-5fa6-b7e0-2a212e5e7434' => [
+        'Anytime you see a turtle up on top of a fence post, you know he had some help.',
+        'Alex Haley',
     ],
-    '3feebd7e-fcdf-5c32-b188-c01ad28eaf81' => [
-        'Wealth is the ability to fully experience life.',
-        'Solomon Ortiz',
+    'c9b2e6dc-39b6-57b1-9e75-5b0d42981677' => [
+        'While journalists cannot right every wrong, champion every cause or fix every problem, they can - through the written word - lift someone\'s burden for a day, make some elderly woman on a bus smile or let them know they are noticed by someone.',
+        'Regina Brett',
     ],
-    '2f242f65-b40a-5030-a726-f93a924ca37b' => [
-        'The creation of a world view is the work of a generation rather than of an individual, but we each of us, for better or for worse, add our brick to the edifice.',
-        'John Dos Passos',
+    '227c5fe9-3674-5e69-863b-d8a7f240f4c7' => [
+        'I\'m very competitive by nature. And I like to be the underdog - It\'s the best way to win. To come from behind and win is a great feeling!',
+        'Zac Efron',
     ],
-    'ecf16f78-be88-5d59-b4fb-f6be9694e4d2' => [
-        'The way my luck is running, if I was a politician I would be honest.',
-        'Rodney Dangerfield',
+    '4ab625a1-cde7-54e4-91c2-097a0842a725' => [
+        'If you don\'t go after what you want, you\'ll never have it. If you don\'t ask, the answer is always no. If you don\'t step forward, you\'re always in the same place.',
+        'Nora Roberts',
     ],
-    'e754b780-16ee-5830-96da-f8898359c749' => [
-        'Every kid has a toy that they believe is their best friend, that they believe communicates with them, and they imagine it being alive, their toy horse or car or whatever it is. Stop-motion is the only medium where we literally can make a toy come to life, an actual object.',
-        'Henry Selick',
+    'b1445d71-76ee-5310-9dfb-e175a4f5c0db' => [
+        'I\'m as happy a man as any in the world, for the whole world seems to smile upon me!',
+        'Samuel Smiles',
     ],
-    '155a1e1e-eab4-5fbc-afc7-24ec754b168b' => [
-        'I don\'t think of all the misery but of the beauty that still remains.',
-        'Anne Frank',
+    '8b7e0e00-9169-5b80-b1f9-c876f9e4e608' => [
+        'The last thing left in nature is the beauty of women.',
+        'Peter Beard',
     ],
-    'c2bd1963-6c42-5a6d-b6f1-a48b30b827ca' => [
-        'Beauty is in the strangest places. A piece of garbage floating in the wind. And that beauty exists in America. It exists everywhere. You have to develop an eye for it and be able to see it.',
-        'Alan Ball',
+    'fb65a8c6-9996-50df-807c-1547b4fbb879' => [
+        'Creativity itself doesn\'t care at all about results - the only thing it craves is the process. Learn to love the process and let whatever happens next happen, without fussing too much about it. Work like a monk, or a mule, or some other representative metaphor for diligence. Love the work. Destiny will do what it wants with you, regardless.',
+        'Elizabeth Gilbert',
     ],
-    'f21f5c77-c898-522c-b806-cacf66e60811' => [
-        'You can\'t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something--your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.',
-        'Steve Jobs',
+    '598b8e99-8830-5de7-a376-838ae69c9d5a' => [
+        'The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.',
+        'Henry Thoreau',
     ],
-    '85ce3c3b-100a-5928-b280-dd493cbe3b50' => [
-        'Stubbornness is a positive quality of presidential leadership - if you\'re right about what you\'re stubborn about.',
-        'Douglas Brinkley',
+    '08663e45-9821-5e4c-8d90-de863ddd8fda' => [
+        'If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?',
+        'Rabbi Hillel',
     ],
-    'e61ae072-f04f-515d-ba0b-43b34efe7d47' => [
-        'Retaliation is related to nature and instinct, not to law. Law, by definition, cannot obey the same rules as nature.',
-        'Albert Camus',
+    'f80dcc85-8cf9-5b5d-8284-7574a39dfcbd' => [
+        'You have to figure out what\'s important and keep the main points, though I will swing a little outside the box. It affords me the freedom to find out who the character is, and it\'s been a positive technique for me. I\'m not saying everyone should change words, but if you can do it with confidence, you may nail it.',
+        'Dawn Olivieri',
     ],
-    '5df7db66-34b3-5849-b685-b0a9ef20b63e' => [
-        'The wisest men follow their own direction.',
-        'Euripides',
+    '923ecd62-ef8b-5054-8d6f-96b823c0648c' => [
+        'There is a vitality, a life force, an energy, a quickening, that is translated through you into action, and because there is only one of you in all time, this expression is unique.',
+        'Martha Graham',
+    ],
+    '197f2b38-dc95-5fed-ab0c-a6c550a3e9ac' => [
+        'True happiness involves the full use of one\'s power and talents.',
+        'John W. Gardner',
+    ],
+    '63f19236-3ff8-5e7a-8649-2f67bd3e4d91' => [
+        'Corruption, embezzlement, fraud, these are all characteristics which exist everywhere. It is regrettably the way human nature functions, whether we like it or not. What successful economies do is keep it to a minimum. No one has ever eliminated any of that stuff.',
+        'Alan Greenspan',
+    ],
+    'a16e1aeb-5720-5748-aa70-1eed957399a6' => [
+        'The distance, being far away from your home, from your family, that\'s not easy. There are times when you say, \'Wow, what a fight, what a battle.\'',
+        'Rodrigo Santoro',
+    ],
+    '6b916fa0-43ef-5ff0-a8a8-6cc408ccac21' => [
+        'Our intention creates our reality.',
+        'Wayne Dyer',
+    ],
+    'a4bb6881-3a79-57b2-8b2e-00936fd8ad4b' => [
+        'Any nation that refuses to hold intercourse with other nations must expect to be excluded from this family.',
+        'Townsend Harris',
+    ],
+    '54bcfb7a-24e9-5668-9a5a-e28091331306' => [
+        'Success does not consist in never making mistakes but in never making the same one a second time.',
+        'George Bernard Shaw',
+    ],
+    'e2519e56-bd9a-52ae-ba85-0c4e4b037b22' => [
+        'Failure is nature\'s plan to prepare you for great responsibilities.',
+        'Napoleon Hill',
+    ],
+    '88ac7266-0a76-5d92-9520-0b92ff85bcf3' => [
+        'There\'s only two people in your life you should lie to... the police and your girlfriend.',
+        'A. R. Rahman',
+    ],
+    '5f877535-1dd1-5bba-8fe8-52c73cc802b6' => [
+        'We could never learn to be brave and patient if there were only joy in the world.',
+        'Helen Keller',
+    ],
+    'd6841bbc-351f-57dc-b4cf-01f2ff3039d0' => [
+        'I was a vegetarian until I started leaning toward the sunlight.',
+        'Rita Rudner',
+    ],
+    '2f90c5d5-5b73-5863-8c92-f90ffc807a25' => [
+        'Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.',
+        'Jim Rohn',
+    ],
+    '0528046f-ce9c-5616-9f71-713d251e18df' => [
+        'I like to think that as I get older I\'m getting better at spending time with people who have qualities that make them worth spending time with.',
+        'Samantha Power',
+    ],
+    '88f7493a-8819-5116-a776-e09a0a4b2357' => [
+        'A hero is no braver than an ordinary man, but he is brave five minutes longer.',
+        'Ralph Waldo Emerson',
+    ],
+    'eac4157d-03be-55be-969b-9513f641afb0' => [
+        'I never smoke to excess - that is, I smoke in moderation, only one cigar at a time.',
+        'Mark Twain',
+    ],
+    'a22023cb-84e9-5223-b50f-48c3d6ad9d21' => [
+        'I want to live my life, not record it.',
+        'Jensen Ackles',
+    ],
+    '6e95132d-5d9a-504a-b81b-035f7da003e2' => [
+        'Past success is no guarantee of future success, so I have learned to be an entrepreneur. I began to produce and direct my own projects.',
+        'Ian Ziering',
+    ],
+    'a164de9e-4d68-5824-ba75-839fcd1af074' => [
+        'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
+        'John Wayne',
+    ],
+    'd9202ce6-d590-5878-9f55-78739e1b007a' => [
+        'You cannot find yourself by going into the past. You can find yourself by coming into the present.',
+        'Eckhart Tolle',
+    ],
+    '2ac4edfb-aabc-5825-8beb-d855bdab5ae8' => [
+        'And the smile that is worth the praises of earth is the smile that shines through tears.',
+        'Ella Wheeler Wilcox',
+    ],
+    'ec59c449-233a-56d0-8ee9-4d0ded9877b6' => [
+        'I know some people will be surprised to hear it, but I\'ve found that my music, whether its blues or rock, or whatever you want to call it, can be channeled into a positive direction that actually helps people.',
+        'Rick Derringer',
+    ],
+    '5369424e-f9be-5646-b2fb-514c10445ff9' => [
+        'My real dream is to have a whole, like, buy a whole piece of land. Imagine, like, a long driveway. Like, a cul de sac-type street, with maybe, like, seven houses. Me be right here. Have my mom be able to be right here. My brother over here. My girl\'s grandmother and family right here. Friends over there. That\'s my real dream.',
+        'J. Cole',
+    ],
+    '93bc6222-0c84-5a26-a642-84ec9f3c6dc9' => [
+        'To guarantee success, act as if it were impossible to fail.',
+        'Dorothea Brande',
+    ],
+    'd5db4819-f6d1-5a55-8851-c663d6414c1a' => [
+        'The best thing to do when you find yourself in a hurting or vulnerable place is to surround yourself with the strongest, finest, most positive people you know.',
+        'Kristin Armstrong',
+    ],
+    'd55f0114-bd24-50db-b15e-6661e3cb9b6e' => [
+        'I put instant coffee in a microwave oven and almost went back in time.',
+        'Steven Wright',
+    ],
+    '40da2cd4-d637-5183-a925-7b11b3cda011' => [
+        'You may not always have a comfortable life and you will not always be able to solve all of the world\'s problems at once but don\'t ever underestimate the importance you can have because history has shown us that courage can be contagious and hope can take on a life of its own.',
+        'Herbert Simon',
     ],
 ];

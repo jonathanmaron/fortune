@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'e1d26133-4398-5e5c-ac88-79fe381789c9' => [
-        'Thelonious Monk was one of the musicians I most connected with early on. I\'m a huge Betty Carter fan, and the way that Abbey Lincoln and Shirley Horn grew immensely from the time they were young is so inspirational.',
-        'Cecile McLorin Salvant',
+    'f3a434f4-74e9-5c31-a51f-60bf71303904' => [
+        'Football is my profession now. I\'m getting married in August... It\'s a new experience for me as someone just getting out of college. I still have the same attitude about football I always had. I play hard. I enjoy practice. I\'d rather be throwing in passing drills than sitting around and watching TV.',
+        'Doug Flutie',
     ],
-    '98941a3e-4ac6-5a31-80a5-1051a9502778' => [
-        'Video is a funny thing. It\'s one thing to be an artist, singer-songwriter, and use words and create pictures in people\'s minds. And then be asked to do video for it, to actually give a certain visual for your song.',
-        'Melissa Etheridge',
+    'e8c2378c-5e5d-5f5c-a434-bbb46cadb483' => [
+        'Sexy in India is not considered positive. But, with today\'s crop of fresh faces in the modelling arena, being sexy is an asset.',
+        'Aishwarya Rai Bachchan',
     ],
-    'a66393fb-7cec-5903-93b5-8a32ebfb012c' => [
-        'Happiness in intelligent people is the rarest thing I know.',
-        'Ernest Hemingway',
+    '070506a8-693c-5c00-ac5a-3009d553b969' => [
+        'To me, acting used to be just, \'Get my face out there, get girls, make a little bit of money, make my mom proud.\' It was just like sports. But there were moments in \'Moonlight\' that I really felt like I had to know why he is the way he is. Or just people in general - why this person walks around with a frown on their face instead of a smile.',
+        'Trevante Rhodes',
     ],
-    '0e21658a-015c-52e5-9233-c65f6eb22669' => [
-        'Success is the one unpardonable sin against our fellows.',
-        'Ambrose Bierce',
+    'c9baba8c-b3e4-55a9-b9ae-54d5f8cb6ee8' => [
+        'To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.',
+        'Plato',
     ],
-    '71b2f965-9a3b-5869-8d2e-7b9e67d3c33a' => [
-        'In every community, there is work to be done. In every nation, there are wounds to heal. In every heart, there is the power to do it.',
-        'Marianne Williamson',
+    'e7b6c029-024b-5728-909d-26ab8ddee9ac' => [
+        'Young man, the secret of my success is that at early age I discovered that I was not God.',
+        'Oliver Wendell Holmes, Jr.',
     ],
-    '1c5a3128-c499-5ac4-987d-6cbca065d051' => [
-        'Nature, like man, sometimes weeps from gladness.',
-        'Benjamin Disraeli',
+    'ce4e7cfc-4fe5-5d85-a027-4d4833764fba' => [
+        'I think it\'s a very firm part of human nature that if you surround yourself with like-minded people, you\'ll end up thinking more extreme versions of what you thought before.',
+        'Cass Sunstein',
     ],
-    'e4798b17-c0d3-54f8-90df-689c41f97802' => [
-        'The past cannot be cured.',
-        'Elizabeth I',
+    'ecb3aad5-83d0-5666-abcc-4d6722042043' => [
+        'The most useful form of time travel would be to go back a year or two and rectify the mistakes we made.',
+        'Matt Lucas',
     ],
-    '52d60a52-c988-598c-a47f-ff49d70d7069' => [
-        'I take a cooking class everywhere I travel. I find it\'s the best way to get to know a culture.',
-        'Blake Lively',
+    '06e623a6-2cdf-5ffe-94a7-5635e5e19053' => [
+        'Real beauty knocks you a little bit off kilter.',
+        'David Byrne',
     ],
-    '6bbc0e65-1c40-5e77-842f-63b076a3278c' => [
-        'It is sometimes said that the major discoveries have already been made and that there is nothing important left to find. This attitude is altogether too pessimistic. There are plenty of ideas and plenty of things left to discover. The trick is to find the right path from one to the other.',
-        'John Vane',
+    '79f4c215-5bef-52e0-80ee-790c6741d761' => [
+        'Time is but the stream I go a-fishing in.',
+        'Henry David Thoreau',
     ],
-    'd16d457b-5518-5acd-a5bf-31bf5c4bd3ea' => [
-        'Optimists are usually wrong. But all the great change in history, positive change, was done by optimists.',
-        'Thomas Friedman',
+    'aa548393-aabc-5b96-936e-e207395c883b' => [
+        'Ya gots to work with what you gots to work with.',
+        'Stevie Wonder',
     ],
-    'b788def9-fb7c-5aba-a7c2-bfd5fea7ba63' => [
-        'To be what we are, and to become what we are capable of becoming, is the only end of life.',
-        'Robert Stevenson',
+    '7a6fa0e8-a846-590e-99d2-681c05bcb565' => [
+        'The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.',
+        'Helen Keller',
     ],
-    '32a12e06-76eb-554e-af31-7b23c8643102' => [
-        'Moments of complete apathy are the best for new creations.',
-        'Philip Breedveld',
+    'e622e544-040d-52e1-9e6f-6175cb742765' => [
+        'Nature is the one song of praise that never stops singing.',
+        'Richard Rohr',
     ],
-    '20688e09-04e8-5946-9d1c-037430ebf9a7' => [
-        'There\'s always the motivation of wanting to win. Everybody has that. But a champion needs, in his attitude, a motivation above and beyond winning.',
-        'Pat Riley',
+    'c2061761-dbea-58b5-a502-5343dab77fb3' => [
+        'My success comes in making fun of whatever you\'re doing. That\'s my way.',
+        'Kevin Hart',
     ],
-    'f586e0e9-c5a0-5b73-a02b-87a18a0708bf' => [
-        'Don\'t go through life, grow through life.',
-        'Tim Gunn',
+    'e49b8e03-b9a9-50b8-b7c4-96d7b0693ddc' => [
+        'I like a girl with natural beauty.',
+        'Chandler Parsons',
     ],
-    'be206e03-9481-5f38-855f-33a44c8be44d' => [
-        'Beauty when unadorned is adorned the most.',
-        'St. Jerome',
+    '3e05d92f-a3a1-5475-ba6f-f7d63908ec76' => [
+        'We not only need to work happy, we need to work at being happy.',
+        'Shawn Achor',
     ],
-    '410c832f-49a2-5a3c-b80f-1e912ed25e61' => [
-        'Great talent finds happiness in execution.',
+    '277782e7-f0cf-5b52-96f2-3adf6e6f0b75' => [
+        'A man is not old as long as he is seeking something.',
+        'Edmond Rostand',
+    ],
+    'aeec5e78-96b1-5e3e-87f1-a4ebd87bdb5a' => [
+        'Reviewing what you have learned and learning anew, you are fit to be a teacher.',
+        'Confucius',
+    ],
+    '8715dee8-2d7a-5555-a690-ce6d00926cf0' => [
+        'I\'ve never missed a gig yet. Music makes people happy, and that\'s why I go on doing it - I like to see everybody smile.',
+        'Buddy Guy',
+    ],
+    'a1f509ee-df26-5611-88a9-05e745016916' => [
+        'Every family is dysfunctional, whether you want to admit it or not.',
+        'Shailene Woodley',
+    ],
+    '62f1ac45-7fe8-5279-8b79-96e0a5b60d04' => [
+        'Dedicating some time to meditation is a meaningful expression of caring for yourself that can help you move through the mire of feeling unworthy of recovery. As your mind grows quieter and more spacious, you can begin to see self-defeating thought patterns for what they are, and open up to other, more positive options.',
+        'Sharon Salzberg',
+    ],
+    '56421fc8-f029-54d9-8d71-bb776837e60d' => [
+        'The characteristic political attitude of today is not one of positive belief, but of despair.',
+        'Herbert Read',
+    ],
+    'ac18fa33-6561-5305-82b0-9c7fb0c6a1ff' => [
+        'The truth is that relative income is not directly related to happiness. Nonpartisan social-survey data clearly show that the big driver of happiness is earned success: a person\'s belief that he has created value in his life or the life of others.',
+        'Arthur C. Brooks',
+    ],
+    'a6239eef-1ddb-55e8-8824-c0a75861feac' => [
+        'These flowers, which were splendid and sprightly, waking in the dawn of the morning, in the evening will be a pitiful frivolity, sleeping in the cold night\'s arms.',
+        'Pedro Calderon de la Barca',
+    ],
+    '59239fe7-d053-57b5-9081-ed54c5f60740' => [
+        'Facts which at first seem improbable will, even on scant explanation, drop the cloak which has hidden them and stand forth in naked and simple beauty.',
+        'Galileo Galilei',
+    ],
+    'f021cc67-bc06-50c0-a684-d9b5532ae914' => [
+        'I don\'t believe in failure. It is not failure if you enjoyed the process.',
+        'Oprah Winfrey',
+    ],
+    '03763430-bbce-5d3f-9315-40d611099cd1' => [
+        'You can get too close as a team. You need time away from each other. You change in the same dressing room, you play on the same cricket field, you stay in the same hotel, you travel in the same planes and buses. C\'mon - this business of everyone holding hands and being pally is nonsense.',
+        'Glenn Turner',
+    ],
+    '7b3a99e5-116c-509c-8dbc-ac2613e6c085' => [
+        'It is an immutable law in business that words are words, explanations are explanations, promises are promises-but only performance is reality.',
+        'Harold S. Geneen',
+    ],
+    'ce9dd47c-7b4b-5f59-aede-067d214cc8d2' => [
+        'In nature we never see anything isolated, but everything in connection with something else which is before it, beside it, under it and over it.',
         'Johann Wolfgang von Goethe',
     ],
-    '5f6dc992-fe82-5e00-b0fe-17ac328b411b' => [
-        'A smile is the universal welcome.',
-        'Max Eastman',
+    '6a374b86-5dcb-5864-80b5-7ba8311f19d8' => [
+        'Deep in their roots, all flowers keep the light.',
+        'Theodore Roethke',
     ],
-    '8fcc7773-4607-5795-b87b-206892ab88f4' => [
-        'It is by acts and not by ideas that people live.',
-        'Anatole France',
+    '04ee2e9c-b620-552d-b525-c772ec6035f2' => [
+        'Some of us pray demands. Some of us pray complaints. Some of us pray knowing, and some of us pray not knowing. But prayer is the attitude that you hold in your heart.',
+        'Iyanla Vanzant',
     ],
-    '3a8b9830-d9cc-517c-a65c-35b66b287a6c' => [
-        'No person who is enthusiastic about his work has anything to fear from life.',
-        'Samuel Goldwyn',
+    'aef5260d-e3e5-5f93-95a1-f53b3fe0f669' => [
+        'I felt most proud on the success of the Apollo mission.',
+        'Katherine Johnson',
     ],
-    '4f0022a1-97ab-5735-9ff3-35a7a289db6c' => [
-        'I don\'t think \'Cocktail\' was a perfect critical success, but it touched a vein in our culture.',
-        'Elisabeth Shue',
+    '0352e5d6-e345-5020-b613-033c10a79026' => [
+        'The weaker the country, the stronger the smile.',
+        'Howard E. Koch',
     ],
-    '5f297df5-a03a-57e5-971f-7e940390ca83' => [
-        'The time you enjoy wasting is not wasted time.',
-        'Bertrand Russell',
+    '40e4118f-7a9c-57f1-91c9-5b83cde52be4' => [
+        'Being part of the Workshop is like being part of a really big family. Everyone is so close. Everyone feels the success of others who go on to do well. Whatever happens, I will still be part of the Workshop.',
+        'Lucy Carless',
     ],
-    '8aa56205-f192-5f23-b6a0-ddcf68b9d661' => [
-        'The past always looks better than it was. It\'s only pleasant because it isn\'t here.',
-        'Finley Peter Dunne',
+    '673e6857-59fc-5819-bbba-7085b4b44e00' => [
+        'I had a strong vision for \'The Best Man Holiday,\' so I was able to translate that to the actors and ultimately to the screen. Things can\'t get too heavy or too outrageously funny; it has to strike a balance. Tone is everything. If you\'ve set the right tone, you can get away with a lot of stuff. You can get away with making people cry.',
+        'Malcolm D. Lee',
     ],
-    'e6e4848d-1fb8-5e6f-b3dd-9d4d3a60e054' => [
-        'Well, if I called the wrong number, why did you answer the phone?',
-        'James Thurber',
+    '4a5692ff-7cba-5531-a2aa-d4ca1f11c4b4' => [
+        'Where the spirit does not work with the hand, there is no art.',
+        'Leonardo da Vinci',
     ],
-    '0adbf2b3-cf98-5ffc-9f1d-ab34a14a5715' => [
-        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
-        'Evgeny Morozov',
+    '36d11d02-c01f-5a3f-8368-cc4d478df1d3' => [
+        'Follow your dreams. If you have a goal, and you want to achieve it, then work hard and do everything you can to get there, and one day it will come true.',
+        'Lindsey Vonn',
     ],
-    'd5d5266e-24a8-5753-8aa6-31a654169732' => [
-        "Don\u{92}t settle. Don\u{92}t finish crappy books. If you don\u{92}t like the menu, leave the restaurant. If you\u{92}re not on the right path, get off it.",
-        'Chris Brogan',
+    '574fe570-1f03-5b99-809d-85b507c14c7b' => [
+        "There are three rules.\n1. If you do not go after what you want, you will never have it.\n2. If you do not ask, the answer will always be no.\n3. If you do not step forward, you will remain in the same place.",
+        'Unknown',
+    ],
+    '1b476062-ecf0-5796-8849-5390e7501ff7' => [
+        'My family and friends were definitely the key to my recovery. One thing that I do suggest is that anyone dealing with a life-threatening illness like cancer choose a point person for people to call to find out how you are doing - a sister, brother, mother, father, daughter, son, or close friend.',
+        'Olivia Newton-John',
+    ],
+    '2169e4ef-9a79-5c75-927f-d1e8b601c5a9' => [
+        'Derive happiness in oneself from a good day\'s work, from illuminating the fog that surrounds us.',
+        'Henri Matisse',
+    ],
+    'f699ebf1-76f0-538a-8505-6e0577ff8205' => [
+        'There\'s no abiding success without commitment.',
+        'Tony Robbins',
+    ],
+    'a59f90c5-2ec9-5e52-900e-90db04555e9c' => [
+        'The way positive reinforcement is carried out is more important than the amount.',
+        'B. F. Skinner',
+    ],
+    '2da298a9-2990-543b-8870-508489cfdd01' => [
+        'I needed somebody to love me, and the people that I chose were my coaches. I would sacrifice my body to be successful for my coaches because I wanted them to love me, to respect me, to have positive feelings about me.',
+        'Steve Largent',
+    ],
+    'fc5f31f8-6c95-5285-af62-b29405f34c81' => [
+        'Wishing to be friends is quick work, but friendship is a slow ripening fruit.',
+        'Aristotle',
+    ],
+    'ce088e6a-a2d8-5c57-a876-09e22e2abc90' => [
+        'Photographers usually want to photograph facts and things. But I\'m interested in the nature of the thing itself. A photograph of someone sleeping tells me nothing about their dream state; a photograph of a corpse tells me nothing about the nature of death. My work is about my life as an event, and I find myself to be very temporal, transient.',
+        'Duane Michals',
+    ],
+    'b8f0e19a-6f26-50af-b7b5-ee375c8058e5' => [
+        'Funny is funny.',
+        'Don Rickles',
+    ],
+    '390b3bcc-0b5b-5261-a2d2-bfb6ae12841f' => [
+        'Every new day is another chance to change your life.',
+        'Unknown',
+    ],
+    'b860c4e4-cabf-5ba4-8929-c0912799d7df' => [
+        'People smile at me as if they know me. I just smile back. They probably might know me.',
+        'Jim Broadbent',
+    ],
+    '1d6b4c97-fb10-501d-8098-78bb90e24a37' => [
+        'What lies behind us and what lies before us are small matters compared to what lies within us.',
+        'Oliver Holmes',
+    ],
+    '6e9ffe28-cd1f-54b0-ad40-06178ae8dcab' => [
+        'Id rather have a fake smile than a nasty stare.',
+        'Tamara Ecclestone',
+    ],
+    'b6c30d17-9f32-5fb5-b5d8-0136628f2e37' => [
+        'It is funny that men who are supposed to be scientific cannot get themselves to realise the basic principle of physics, that action and reaction are equal and opposite, that when you persecute people you always rouse them to be strong and stronger.',
+        'Gertrude Stein',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '95d41a24-9b9e-52fc-ac58-f7ef5100a51b' => [
-        'If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.',
-        'Thich Nhat Hanh',
+    'b64e2e4e-b1ca-5d8c-81e8-c6557d4d8b4d' => [
+        'One of the main dilemmas that\'s pretty common to a lot of people who are getting older is the idea that maybe there\'s a finish line and that maybe there\'s a time in your life when you start to slow down and stop and smell the roses and just kind of settle into what will be a comfortable period in your life.',
+        'Chris Cornell',
     ],
-    'e31c3da5-f55f-5ffb-b844-a3f6ffb0f2b9' => [
-        'We know we cannot underestimate the importance of emergency planning in our region, nor can we assume we\'ll have ample warning time. If an earthquake or terrorist attack hits, we won\'t necessarily have advance alerts or opportunities to double- and triple-check our plans.',
-        'Ellen Tauscher',
+    '1497981e-cfd4-5d54-8018-412c435280d6' => [
+        'I love to spend a lot of time on my own. I can seriously go into my own head and often love to let myself travel where I don\'t know where I\'m going.',
+        'Gerard Butler',
     ],
-    '4d05dc25-f32e-5e3d-98d1-b94b67f650cc' => [
-        'Thoughts become things. If you see it in your mind, you will hold it in your hand.',
-        'Bob Proctor, You Were Born Rich',
+    'a91b2be2-4b4e-54ce-bec0-310165594560' => [
+        'Aviation - and space travel, in particular - have always been especially captivating.',
+        'Felix Baumgartner',
     ],
-    'd2b70f1f-0402-5d45-ab87-976740aaa3e5' => [
-        'Corporate executives and business owners need to realize that there can be no compromise when it comes to ethics, and there are no easy shortcuts to success. Ethics need to be carefully sown into the fabric of their companies.',
-        'Vivek Wadhwa',
+    'ee555c35-cdb2-5a0e-8d9e-572c53848f57' => [
+        'Once you bring life into the world, you must protect it. We must protect it by changing the world.',
+        'Leah LaBelle',
     ],
-    '2f33a868-33b0-5f29-a740-04f53c338b0c' => [
-        'No masterpiece was ever created by a lazy artist.',
+    '7d160a0e-8ef5-5650-9acc-70949dd7c44a' => [
+        'We\'ve all met those who seem to radiate happiness. They seem to smile more than others; they laugh more than others - just being around them makes us happier as well.',
+        'Joseph B. Wirthlin',
+    ],
+    '8e8848db-36d4-55f0-a430-381147810f3c' => [
+        'Tea time is a chance to slow down, pull back and appreciate our surroundings.',
+        'Letitia Baldrige',
+    ],
+    '6f2c59bd-fa51-5bae-a8a7-091a37613855' => [
+        'Achievement of your happiness is the only moral purpose of your life, and that happiness, not pain or mindless self-indulgence, is the proof of your moral integrity, since it is the proof and the result of your loyalty to the achievement of your values.',
+        'Jennifer Aniston',
+    ],
+    'aa031382-1396-5a8a-a0f6-38eabe1ec6a5' => [
+        'Fate is in your hands and no one elses',
+        'Byron Pulsifer',
+    ],
+    'ecbf5b68-924f-5d8b-9c5e-9724de5533ee' => [
+        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
+        'Danny Meyer',
+    ],
+    'acc5c3ad-3973-56ba-ba46-0f391441e39e' => [
+        'Every corny thing that\'s said about living with nature - being in harmony with the earth, feeling the cycle of the seasons - happens to be true.',
+        'Susan Orlean',
+    ],
+    '2e3b0455-6b45-5388-bfc0-3172a1d5a56b' => [
+        'I don\'t want to be linked to anything negative. I don\'t want negative energy. I want everything positive around me.',
+        'Kendra Wilkinson',
+    ],
+    'ffe5a912-ddb8-593b-b565-2b4f1a93219f' => [
+        'Suffering by nature or chance never seems so painful as suffering inflicted on us by the arbitrary will of another.',
+        'Arthur Schopenhauer',
+    ],
+    'fcbeaaad-13ef-5427-ab43-e0b22107a29c' => [
+        'Put your future in good hands : your own.',
         'Unknown',
     ],
-    '1ef567e6-6367-5588-b3ea-f91090887ac1' => [
-        'In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand. Nobody on earth can give you either the key or the door to open, except yourself.',
-        'Jiddu Krishnamurti',
+    'ddd68ebf-b961-528b-97d1-9f92512b481e' => [
+        'Happiness is a butterfly, which when pursued, is always beyond your grasp, but which, if you will sit down quietly, may alight upon you.',
+        'Nathaniel Hawthorne',
     ],
-    'a482c13c-1be9-5a9d-bdc2-097835f4dcf4' => [
-        'For everything bad, there\'s a million really exciting things, whether it\'s someone puts out a really great book, there\'s a new movie, there\'s a new detective, the sky is unbelievably golden, or you have the best cup of coffee you ever had in your life.',
-        'Patti Smith',
+    'de54f97c-fba2-5736-8e48-cc4bb8146b2a' => [
+        'I do not know which to prefer, The beauty of inflections, Or the beauty of innuendoes, The blackbird whistling, Or just after.',
+        'Wallace Stevens',
     ],
-    '6278bf27-63fe-5a61-8a6b-142ee663bc4e' => [
-        'Don\'t Let Yesterday Take Up Too Much Of Today.',
-        'Will Rogers',
+    'f07d5139-ca86-5676-bdaf-74b087891693' => [
+        'Willpower is the key to success. Successful people strive no matter what they feel by applying their will to overcome apathy, doubt or fear.',
+        'Dan Millman',
     ],
-    '030d2dac-b6fa-54a5-8ec8-7e59bf472f1d' => [
-        'I have several dogs and several cats who aren\'t really mine. In fact, they think that I am theirs. I\'d like to have some goats and chickens, but I travel around too much.',
-        'Eric Stoltz',
+    'a4957674-8ffe-5784-a4da-9c7d389e2673' => [
+        'Trees are the earth\'s endless effort to speak to the listening heaven.',
+        'Rabindranath Tagore',
     ],
-    'da48125e-cbab-5fea-a30c-5133ea14072e' => [
-        'Walking is the best possible exercise. Habituate yourself to walk very far.',
-        'Thomas Jefferson',
+    '07d4d0a2-0d9a-5e41-8971-c48c16703044' => [
+        'No matter what kind of challenges or difficulties or painful situations you go through in your life, we all have something deep within us that we can reach down and find the inner strength to get through them.',
+        'Natalie Gulbis',
     ],
-    '7cc61ebb-1476-5dcd-a347-7714c0535ba9' => [
-        'Women, by their nature, are not exceptional chess players: they are not great fighters.',
-        'Garry Kasparov',
+    'f90e19e5-ac8c-5494-8f99-e181993a825b' => [
+        'Lead yourself whenever your boss\' leadership deteriorates. When your boss doesn\'t praise what you do, praise yourself. When your boss doesn\'t make you big, make yourself big. Remember, if you have done your best, failure does not count.',
+        'Mario Teguh',
     ],
-    'fee9facf-6219-5826-92b8-e070630cea2b' => [
-        'We have committed the Golden Rule to memory; let us now commit it to life.',
-        'Edwin Markham',
+    '33bd40bb-f5ae-57c9-a0ac-08109fba9b4a' => [
+        'When you travel on a bus with guys who love all kinds of music, you get exposed to some great stuff, man.',
+        'Gregg Allman',
     ],
-    'b036003d-f657-544c-8024-4b5c197504e0' => [
-        'Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing.',
-        'Helen Keller',
+    'b40c7956-0d1d-5e82-beb5-9874d2a3e600' => [
+        'Things are beautiful if you love them.',
+        'Jean Anouilh',
     ],
-    'edae4968-7d6d-530f-81ae-444596c958f3' => [
-        'Luxury is the wolf at the door and its fangs are the vanities and conceits germinated by success. When an artist learns this, he knows where the danger is.',
-        'Tennessee Williams',
+    '66718851-79c8-5f5a-b1ca-986f37d75ba9' => [
+        'Space travel for everyone is the next frontier in the human experience.',
+        'Buzz Aldrin',
     ],
-    '3f238771-a65d-56af-ac8b-72cb818cc3e5' => [
-        'First, I want to pay tribute to Diana myself. She was an exceptional and gifted human being. In good times and bad, she never lost her capacity to smile and laugh, nor to inspire others with her warmth and kindness. I admired and respected her - for her energy and commitment to others, and especially for her devotion to her two boys.',
-        'Queen Elizabeth II',
+    '8fb876d5-3216-5bbf-bd57-33f8fcbc6186' => [
+        'You have to tell guys to ask you on a date. Smile when you do it - however that works, I\'m not \'Cosmo.\' But yeah - not a lot of people know how to \'court\' anymore, sorry.',
+        'Julie Klausner',
     ],
-    '7bc6605a-f89d-55f4-8c17-5292c7534ef2' => [
-        'I believe life is an intelligent thing: that things aren\'t random.',
-        'Sterling K. Brown',
+    '83add67b-0441-5e75-ac0e-1a3098a9b03a' => [
+        'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
+        'Buddha',
     ],
-    'a9420409-76ff-5f82-84b0-c0069d64f2ed' => [
-        'With all the travel we\'re doing to cold-weather cities, your mind definitely starts to wander. It gets you away from the game. Even when you arrive in a city, you\'re tempted to just sit in your hotel and rest. Sometimes it\'s nice to just get out and walk around, to see what\'s there.',
-        'Stephen Curry',
+    'b32bf368-390e-5b9c-a87d-4e3770959476' => [
+        'The attempt to redefine the family as a purely voluntary arrangement grows out of the modern delusion that people can keep all their options open all the time.',
+        'Christopher Lasch',
     ],
-    'be22f8a2-c1f3-56d8-80d2-52017e18d34f' => [
-        'People like her because she\'s like a breath of fresh air. Because in the fifth book it gets so dark and Harry\'s always cross and then every time Luna comes in all the tension goes and she makes you laugh because she\'s so funny and really honest. I don\'t know how much I\'m like her, there are some similarities but I\'m more determined than her.',
-        'Evanna Lynch',
+    'b77ad88e-f7ea-5e42-9945-c4c9de169ec1' => [
+        'I think if everyone would write down the funny stories from their own childhoods, the world would be a better place.',
+        'Jeff Kinney',
     ],
-    'ef5419b1-e779-55eb-8fac-d04f9a2b7662' => [
-        'As in nature, all is ebb and tide, all is wave motion, so it seems that in all branches of industry, alternating currents - electric wave motion - will have the sway.',
+    '78eae663-723f-5403-88dd-bed70683d513' => [
+        'Impossibilities are merely things which we have not yet learned.',
+        'Charles Chesnutt',
+    ],
+    '5f8f366c-f1f6-56ee-8e06-51af4f76a4b8' => [
+        'You are never given a wish without also being given the power to make it come true. You may have to work for it, however.',
+        'Richard Bach',
+    ],
+    'f2f4d659-ee4d-51aa-9490-4a5b2dcb6cb5' => [
+        'My scientific pursuits have led to many opportunities and responsibilities beyond those of simply doing research. For example, as a beginning graduate student, it never occurred to me that the life of a scientist could involve so much travel, something that I have always loved.',
+        'H. Robert Horvitz',
+    ],
+    '32e81f46-4a09-5215-b5f6-1a9ac03858ec' => [
+        'This success led my theoretical group to the chemical reactivity theory, extending more and more widely the range of compound and reactions that were discussed.',
+        'Kenichi Fukui',
+    ],
+    '2b0b167e-34b2-5b9d-bf48-9a2302c008c7' => [
+        'What worries you masters you.',
+        'Haddon Robinson',
+    ],
+    '8364ca4d-d03a-5672-9e85-e5ce331d7bb9' => [
+        'Don\'t let today\'s disappointments cast a shadow on tomorrow\'s dreams.',
+        'Unknown',
+    ],
+    '5b357c63-6e18-5b64-aec3-f70b25db8a63' => [
+        'I tell young entrepreneurs to use the leader in their industry and as a benchmark as they work to create their own brand. Don\'t look at what your competition is doing - if you emulate the leader in your industry, you will achieve a higher level of engagement with consumers and make their buying experience richer.',
+        'Steve Stoute',
+    ],
+    'f9457d7d-47e9-5361-bc68-6e2476a1eff7' => [
+        'I think that public service is tough on a family - no ifs, ands, buts about it. I have my own personal wishes, but they\'re not always front and center.',
+        'Maria Shriver',
+    ],
+    'cef61bf2-e84d-552b-a0af-fb6030655c7b' => [
+        'For many years, it seemed as if nothing changed in Norway. You could leave the country for three months, travel the world, through coups d\'etat, assassinations, famines, massacres and tsunamis, and come home to find that the only new thing in the newspapers was the crossword puzzle.',
+        'Jo Nesbo',
+    ],
+    'a45dc423-6795-5e5b-ad51-357b591f9d5d' => [
+        'In Chicago, you have an absence of strong family units, and that absence gets filled by gangs. You have a failure in the school system, after-school programs and other social programs to help keep kids off the streets. Amnesty International speaks to that in some way, by keeping these issues in the forefront.',
+        'Lupe Fiasco',
+    ],
+    'da59a008-9dcc-5994-8f0d-aca9155747b0' => [
+        'I\'m not that good looking. That\'s why \'Gangnam Style\' works. If someone handsome uses that phrase it\'s just awkward. But if someone like me uses it, it\'s funny.',
+        'Psy',
+    ],
+    '586b571f-1090-556c-b8f6-e5a39e888670' => [
+        'Television is much better crafted today then in the 70s. The content is less positive but I\'m one of those that feel our entertainment reflects our world, it\'s not a driver - art imitates life.',
+        'Christopher Knight',
+    ],
+    'aeae7492-18e9-5876-be1b-bad12c8ba58e' => [
+        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
+        'John P. Kotter',
+    ],
+    '9a2b211a-061b-536f-92f3-531ee8cc5a8d' => [
+        'America isn\'t Congress. America isn\'t Washington. America is the striving immigrant who starts a business, or the mom who works two low-wage jobs to give her kid a better life. America is the union leader and the CEO who put aside their differences to make the economy stronger.',
+        'Khaled Hosseini',
+    ],
+    '0c1a945a-d401-5edd-98dd-dfd3371f3bde' => [
+        'The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter - for the future. His duty is to lay the foundation for those who are to come, and point the way.',
         'Nikola Tesla',
     ],
-    'd1f22099-d0c4-5528-a750-bf7b8cc00ea5' => [
-        'To smile at the jest which plants a thorn in another\'s breast is to become a principal in the mischief.',
-        'Richard Brinsley Sheridan',
+    '309cd54d-fc86-5c9f-9f7c-9d24a217f2be' => [
+        'I had a really bad temper, when I was growing up. Sport helped me channel that temper into more positive acts.',
+        'Mike Krzyzewski',
     ],
-    '4ae1689e-6e8b-5051-9466-67bee6c529f8' => [
-        'Loneliness is such an omnipotent and painful threat to many persons that they have little conception of the positive values of solitude and even, at times, are frightened at the prospect of being alone.',
-        'Rollo May',
+    'd24ecdaf-09ef-57e0-9cb5-62bff517797d' => [
+        'Action is drama. If we cannot make the audience laugh, smile or cry with us, we are not actors.',
+        'Sonny Chiba',
     ],
-    'd5248b65-982d-556c-8781-fc982e1cbac1' => [
-        'In case you haven\'t heard, my girlfriends and I have declared the summer of 2012 as the best summer ever. The best way to document said \'best summer ever\' is with a good ol\' disposable camera. Smile, click, move on! Nobody gets pic approval, and there\'s no time wasted gathering around the camera to analyze a moment that just happened.',
-        'Candice Accola',
+    '9d88c1c0-1bc6-5010-b681-e9b20f84345c' => [
+        'Your chances of success in any undertaking can always be measured by your belief in yourself.',
+        'Robert Collier',
     ],
-    '3c926f99-d783-54cd-b3af-6eebbe416d24' => [
-        'You take all the things that frighten you, and when you can get them to work for you all of sudden people are calling you a success.',
-        'Randy Bachman',
+    '3b102f63-8fab-5c6e-a89c-5e299ca9a090' => [
+        'Most of my show is true; like, 90% of everything I say on stage is true. I just have to find the way to make it funny - that\'s the difficult thing.',
+        'Trevor Noah',
     ],
-    '1958d7bd-2e6f-53cf-b197-56f8ac61afde' => [
-        'Socialism has no moral justification whatsoever; poor people are not morally superior to rich people, nor are they owed anything by rich people simply because of their lack of success. Charity is not a socialist concept - it is a religious one, an acknowledgment of God\'s sovereignty over property, a sovereignty the Left utterly rejects.',
-        'Ben Shapiro',
+    '3a561567-dc91-56e5-a050-1a111f04289e' => [
+        'The real beauty of it - key to my life was playing key chords on a banjo. For somebody else it may be a golf club that mom and dad put in their hands or a baseball or ballet lessons. Real gift to give to me and put it in writing.',
+        'Vince Gill',
     ],
-    '6a1b6999-e0cb-5a2e-b0cf-38c700085cf9' => [
-        'I decided to fly through the air and live in the sunlight and enjoy life as much as I could.',
-        'John Burroughs',
+    '08a7d8b4-77bd-5905-90a8-472ecece9fdd' => [
+        'I get accused of having a haughty smugness. I have a lopsided mouth. I can\'t help it. I was born with it. It looks as if I am smirking. I have had my publicist tell me, \'Don\'t do that smile on the red carpet.\' I\'m, like, \'That\'s my smile.\'',
+        'Natalie Dormer',
+    ],
+    '15ddebd0-e40f-54b7-87f3-7f1e1f96c5f7' => [
+        'Fame or perceived success - it all comes from groupthink.',
+        'Chance The Rapper',
+    ],
+    '7509b435-d17d-5dd8-a902-48b1d330e8d1' => [
+        'The reactionary is always willing to take a progressive attitude on any issue that is dead.',
+        'Theodore Roosevelt',
+    ],
+    'b56e2e8a-b19f-5bab-90e7-6fef62380bea' => [
+        'It is one of the most effective attitudes of the neurotic to measure thumbs down, so to speak, a real person by an ideal, since in doing so he can depreciate him as much as he wishes.',
+        'Alfred Adler',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'a67184aa-4e2d-5ce5-b8c3-d46ffc05890d' => [
-        'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
-        'Gabrielle Aplin',
+    'c64052aa-cede-56da-9eac-dffd6db85692' => [
+        'All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.',
+        'Martin Luther King, Jr.',
     ],
-    '1c62761a-e6f8-5bff-919b-438407559fe1' => [
-        'Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.',
-        'Amy Bloom',
+    '63029dbf-0e30-5f3a-815f-4fc21a4f5876' => [
+        'With self-discipline most anything is possible.',
+        'Theodore Roosevelt',
     ],
-    '385a60bb-7e31-5404-add0-9c488de81f62' => [
-        'Work done by other people sounds easy. How hard can it be to take care of a newborn who sleeps 20 hours a day? How hard can it be to keep track of your billable hours? To travel for one night for business? To get a 4-year-old ready for school? To return a few phone calls? To load the dishwasher? To fill out some forms?',
-        'Gretchen Rubin',
+    'c6768104-3188-50b2-bca3-7603e597c0bb' => [
+        'The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.',
+        'Dalai Lama',
     ],
-    'e2fc6e56-4259-56c9-ae2b-5c7a47179851' => [
-        'If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.',
-        'Margaret Thatcher',
+    '76c15756-9d30-5196-9778-fe6658585c63' => [
+        'Southern political personalities, like sweet corn, travel badly. They lose flavor with every hundred yards away from the patch. By the time they reach New York, they are like Golden Bantam that has been trucked up from Texas - stale and unprofitable. The consumer forgets that the corn tastes different where it grows.',
+        'A. J. Liebling',
     ],
-    'aee38a44-0fa0-54da-b962-3939532ed0ae' => [
-        'I love my wife and I know she loves me. We\'re best friends. We\'re just lucky to have found each other. It takes a lot of work but I just feel very blessed that I found the right person. It\'s a very fortunate situation and not everyone has that.',
-        'Harry Connick, Jr.',
+    'b5a22e0e-1e24-598e-8e4e-5a33e06ee9ed' => [
+        'All is flux; nothing stays still.',
+        'Heraclitus',
     ],
-    '21f71369-00e4-523d-a2f9-151ce91fc23f' => [
-        'Sex and beauty are inseparable, like life and consciousness. And the intelligence which goes with sex and beauty, and arises out of sex and beauty, is intuition.',
-        'D. H. Lawrence',
+    'ed4a99ce-66b7-5a98-ace7-3eb67f93a0a8' => [
+        'You need to think outside the box. You need to think differently if you want to sustain what, for me, is my peak performance: the very best that I can achieve as an athlete every day.',
+        'Tom Brady',
     ],
-    '230a41bc-1ff7-5d42-b0b9-9e7323cbcf9d' => [
-        'I grew up very differently than a lot of other people in my hometown in Mississippi. But I can\'t imagine my life any other way. I flew home and surprised my best friend at his graduation, and I remember turning to my mom and saying, \'My graduation was so much cooler than this.\' I had Melissa Joan Hart give my commencement speech.',
-        'Friedrich Nietzsche',
+    '3b7199b9-7044-5a9b-bfb6-d48b370016c8' => [
+        'If people sat outside and looked at the stars each night, I\'ll bet they\'d live a lot differently.',
+        'Bill Watterson',
     ],
-    '38805c45-2777-5302-aa88-d47dd11761e5' => [
-        'Life is fleeting, and permanence in this world is something we all strive for. The best way to achieve permanence is through philanthropy.',
-        'Ram Shriram',
+    '8e7e1896-6ad3-53bf-adb7-3c90f8ef16ca' => [
+        'Here is my prescription to heal all wounds. Watch the film \'Funny Girl\' at least five times, eat at least 45 chocolate bars, and hang out with all those friends you blew off to hang out with your ex. I truly believe that, through a combination of Nutella, old pals and Barbra Streisand, we can achieve happiness and, very probably, world peace.',
+        'Beth Ditto',
     ],
-    '994ce2e3-1ad9-5ad8-a200-0347b0c92e68' => [
-        'An ant on the move does more than a dozing ox',
-        'Lao Tzu',
+    '3b55c00c-5710-54b0-99c0-d6cba6850816' => [
+        'The counterfeit and counterpart of Nature is reproduced in art.',
+        'Henry Wadsworth Longfellow',
     ],
-    '6c6112e0-2606-5a58-b02d-bd0d5489e64e' => [
-        'I think the success that I have is due to hard work and destiny. It is important to stay grounded and not take things for granted.',
-        'Alia Bhatt',
+    'a89ec028-f10a-5a5f-89fb-87d728e74189' => [
+        'Spend some time this weekend on home improvement; improve your attitude toward your family.',
+        'Bo Bennett',
     ],
-    'c281960a-454e-5f9c-9570-47b2abee15a4' => [
-        'The railroads needed standardized time; as a result, the technology of train travel shaped the way everyone gets up, eats, goes to sleep, calculates age, and, perhaps of no small importance, imagine the world as a whole, ticking reliably, with reliable deviations, according to the beat of one central clock in a physical location.',
-        'Stacey D\'Erasmo',
+    'b878bb87-bffc-5ae6-8866-a8873a72c3b5' => [
+        'The hardest thing to find in life is balance - especially the more success you have, the more you look to the other side of the gate. What do I need to stay grounded, in touch, in love, connected, emotionally balanced? Look within yourself.',
+        'Celine Dion',
     ],
-    'cbefaf19-c98e-5959-91dd-f006d62e27da' => [
-        'If the doors of perception were cleansed everything would appear to man as it is, infinite.',
-        'William Blake',
+    'ee73e711-21b2-5ae0-a9fc-8468d89d3387' => [
+        'To get the full value of joy you must have someone to divide it with.',
+        'Mark Twain',
     ],
-    'd5226816-f6a5-5180-ae41-bda58ff0b15f' => [
-        'The future rewards those who press on. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I\'m going to press on.',
-        'Barack Obama',
+    '2b103a24-64fe-59a8-9b32-931856d725d2' => [
+        'We don\'t need bigger cars or fancier clothes. We need self-respect, identity, community, love, variety, beauty, challenge and a purpose in living that is greater than material accumulation.',
+        'Donella Meadows',
     ],
-    'eda377ef-4677-5895-97d2-59e85cd649e8' => [
-        'The greatest discovery of all time is that a person can change his future by merely changing his attitude.',
-        'Oprah Winfrey',
+    '38251692-ae04-56d7-a48c-929ce4dd8423' => [
+        'All one needs to do is read - books, magazines, research the Internet - and pay attention to the influencers in their lives to discover the myriad people of strong moral character who have and still are making positive, meaningful contributions and differences in our world.',
+        'Zig Ziglar',
     ],
-    'ca6a62e1-75ec-55de-963e-70f64c945909' => [
-        'The funny thing about insane people is that it is kind of the opposite of being a celebrity. Nobody envies you.',
-        'Robert M. Pirsig',
+    '46357249-8d03-5d49-9b27-d5967432278a' => [
+        'There are those who love to get dirty and fix things. They drink coffee at dawn, beer after work. And those who stay clean, just appreciate things. At breakfast they have milk and juice at night. There are those who do both, they drink tea.',
+        'Gary Snyder',
     ],
-    '66630353-8b45-5ca5-916d-3a8edfb812f8' => [
-        'I always feel like it\'s two key ingredients when it comes to following your dreams, making something happen that the average person deems difficult. If you truly believe it, that\'s step one. Step two, is, you know, the hard work that goes along with it.',
-        'J. Cole',
+    '7e04e526-43d2-57ee-924c-af498482781e' => [
+        'This generation... they have a different attitude. Instead of sitting and watching something, they want to be a part of it - they\'re very hedonistic and sensual.',
+        'Steve Wynn',
     ],
-    '53ed62b7-7f8a-5f0f-8aae-33f4b8143b1f' => [
-        'I am fully aware that everybody has a right to succeed, and success should be with ethics.',
-        'Sharad Pawar',
+    'b4b0628f-7847-51a3-9c14-6dff36620e81' => [
+        'The only rule is don\'t be boring and dress cute wherever you go. Life is too short to blend in.',
+        'Thomas A. Edison',
     ],
-    '0a54a177-6746-52c1-8cfa-a345317d04a7' => [
-        'Nothing exists except atoms and empty space; everything else is just opinion.',
-        'Democritus',
+    'ba37758f-a15f-52a2-8dd1-522c1aaf5efa' => [
+        'In aid, the proper attitude is one omitting gratitude.',
+        'Marya Mannes',
     ],
-    '679e8b8e-226d-5662-876f-cc7d31c4bdf0' => [
-        'The boundary between what can be and your life, is your ideas',
-        'Pat Waldron',
+    '9912ceef-6c5f-5bbf-a5a1-145ed62f0d77' => [
+        'We must not constantly talk about tackling obesity and warning people about the negative consequences of obesity. Instead we must be positive - positive about the fun and benefits to be had from healthy living, trying to get rid of people\'s excuses for being obese by tackling the issue in a positive way.',
+        'Andrew Lansley',
     ],
-    '6c2d3cdd-b02d-5f11-a726-339ec6a3cb29' => [
-        'Every year, I travel extensively in the autumn and the spring. I set most of the winter and summer aside for my family and my own tribal relatives. But during that traveling time, I often find myself visiting other native communities around the continent - perhaps a dozen or more each year.',
-        'Joseph Bruchac',
+    '686e07b3-0993-58e4-8719-51d621d9a9e7' => [
+        'I like animals. I like natural history. The travel bit is not the important bit. The travel bit is what you have to do in order to go and look at animals.',
+        'David Attenborough',
     ],
-    '237b3858-216a-5e9b-a85d-14b0e890d6b4' => [
-        'People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.',
-        'Rob Siltanen',
+    'f8f75998-daba-528b-a694-5cfe09ab7514' => [
+        'Grit your teeth and smile. In the face of adversity, go. They don\'t deserve you.',
+        'Christine Lagarde',
     ],
-    'c57ffce9-c447-598c-b6c5-cbd6bb91add0' => [
-        'Our situation today shows that beauty demands for itself at least as much courage and decision as do truth and goodness, and she will not allow herself to be separated and banned from her two sisters without taking them along with herself in an act of mysterious vengeance.',
-        'Hans Urs von Balthasar',
+    'c9f00915-70dd-5b54-b1bc-5c3aea899f6c' => [
+        'I\'ve never followed a vegan or vegetarian diet in the past, but I think I could do it. It would not be easy. I have worked with nutritionists who have said a vegan diet is not necessarily all positive for your health, because you need nutrients you only find in meats. I believe in a balanced diet.',
+        'Joel Robuchon',
     ],
-    'c5e0408c-0825-5c8d-8dae-76782cc8de9b' => [
-        'You shouldn\'t get too close to the truth, because then maybe you stop being funny.',
-        'Bob Newhart',
+    '8b9b3578-70fc-5186-86e5-07f7c4fda538' => [
+        'Every time I hear someone making ignorant comments about the supposed \'evils\' of homosexuality, I think about the true evil of the high suicide rates among gay and lesbian teens.',
+        'Susan Estrich',
     ],
-    '8e8168fd-4216-59e2-adb5-08c585548c2f' => [
-        'I\'ve had a lot of success; I\'ve had failures, so I learn from the failure.',
-        'Gordon Ramsay',
+    '69ec3981-b227-5dc8-a864-c5081bb6ded1' => [
+        'Inside, I\'ve got a real purist desire and dream about the music. I like the idea of being able to carve out a kind of magical, colourful, artistic, inspirational life. And the reality just turns out to be quite different, working with the business to bring this thing you have created into the world.',
+        'Damien Rice',
     ],
-    'daa2520a-c421-5984-9124-2f6cd88c2eae' => [
-        'To this day, just always treat people the way you want to be treated. Whether it\'s family or friends or co-workers, I think it\'s the most important thing. Whether you have success or don\'t have it, whether you\'re a good person is all that matters.',
-        'Brenda Song',
+    '2f2dac6b-c607-5c2f-a85a-345b31f15b26' => [
+        'Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success.',
+        'Og Mandino',
+    ],
+    'f146cbf7-2afd-51cc-9302-c48753a45cb3' => [
+        'The idea of modernity is beginning to lose its vitality. It is losing it because modernity is no longer a critical attitude but an accepted, codified convention.',
+        'Octavio Paz',
+    ],
+    'a587f674-1d15-5a0d-9132-03586e42c63f' => [
+        'A goal without a plan is just a wish.',
+        'Larry Elder',
+    ],
+    '8b4159a2-7d7b-53b5-98c9-46c1ace1143c' => [
+        'Celebration is big for me. From my younger days, when I used to win mementos while playing basketball, I have always believed in sharing my success. It has to be there. It lifts the energy levels of the entire side if you are positive and vocal when a wicket falls.',
+        'Suresh Raina',
+    ],
+    '509c12fb-b20a-5e33-ba36-de826aa0bf82' => [
+        'I\'ve got a sense of humor. I\'m a funny guy.',
+        'Daryl Hall',
+    ],
+    '9e8cc43d-cb60-5246-bd5a-4ee606e892d1' => [
+        'There is a time in the last few days of summer when the ripeness of autumn fills the air.',
+        'Rudolfo Anaya',
+    ],
+    '39824d59-0ab7-53ce-a651-3f05274ca1da' => [
+        'There is no advertisement as powerful as a positive reputation traveling fast.',
+        'Brian Koslow',
+    ],
+    '54bc938c-5086-5add-ab76-a162f0fdcfd2' => [
+        'Peace cannot be kept by force. It can only be achieved by understanding.',
+        'Albert Einstein',
+    ],
+    'd57cf8be-e11e-5656-9488-bc0e7ba7527d' => [
+        'As a cure for worrying, work is better than whiskey.',
+        'Ralph Waldo Emerson',
+    ],
+    '9c9e3f2d-e6a3-5706-bb19-d4c96f66146a' => [
+        'Browsing our local farmer\'s market is one of my family\'s favorite weekend activities. Make it a relaxing, healthful habit for your family, and you\'ll reap the nutritional rewards.',
+        'Suzanne Somers',
+    ],
+    '9f63baba-3d5a-5e96-b82e-05739b5b9774' => [
+        'Grace is the beauty of form under the influence of freedom.',
+        'Friedrich Schiller',
+    ],
+    '17d2df8c-ac2e-55ad-a4fd-5466eaf04f44' => [
+        'I always say to myself that if I can make a movie that makes a kid smile or gives them some hope or something to get excited about, then I\'m applying myself in the best way that I can. I don\'t think that just goes for kids. I think that it goes for adults, as well, and for families.',
+        'Nicolas Cage',
+    ],
+    '2c935e15-e691-5aee-8ad0-1c1f01cd5771' => [
+        'It is good medicine to go to a concert hall and forget the harshness of what\'s going on. It can be a very positive thing.',
+        'Itzhak Perlman',
+    ],
+    '2aebe317-748b-551b-afe9-759180305da1' => [
+        'Energy, like the biblical grain of the mustard-seed, will remove mountains.',
+        'Hosea Ballou',
+    ],
+    '911c68a7-20de-5e70-bbe3-c2c7c7edadf7' => [
+        'Always keep that happy attitude. Pretend that you are holding a beautiful fragrant bouquet.',
+        'Earl Nightingale',
+    ],
+    'ed6dd0f7-7466-507f-925f-4c7757abef44' => [
+        'Our many different cultures notwithstanding, there\'s something about the holidays that makes the planet communal. Even nations that do not celebrate Christmas can\'t help but be caught up in the collective spirit of their neighbors, as twinkling lights dot the landscape and carols fill the air. It\'s an inspiring time of the year.',
+        'Marlo Thomas',
+    ],
+    '82e80414-289d-5ec3-8753-8ead3ecbfa6f' => [
+        'Moonlight is sculpture.',
+        'Nathaniel Hawthorne',
+    ],
+    'bb241f59-44f1-5f52-87a5-62adcd93c9cb' => [
+        'Suppose you could be hooked up to a hypothetical \'experience machine\' that, for the rest of your life, would stimulate your brain and give you any positive feelings you desire. Most people to whom I offer this imaginary choice refuse the machine. It is not just positive feelings we want: we want to be entitled to our positive feelings.',
+        'Martin Seligman',
+    ],
+    '4530fe01-ebff-5efb-9837-eca1d696880c' => [
+        'Without a family, man, alone in the world, trembles with the cold.',
+        'Andre Maurois',
+    ],
+    'bde9e7ca-b105-57bb-8032-b48c8dbe527c' => [
+        'If you\'re not having a good time, find something else that gives you some joy in life.',
+        'Penny Marshall',
+    ],
+    'c49c2910-c853-5e05-bf6e-38ff9b5b47a5' => [
+        'I love the Rio Grande Valley. I always say it\'s home - Texas is home. I\'ve been out in L.A. a little over ten years, and I still get so excited when I go back home. It just feels comfortable; it makes me smile.',
+        'Cristela Alonzo',
+    ],
+    'd66497ce-3045-58fd-ba69-e90afa1f2255' => [
+        'If I wasn\'t even famous or had any success, I would still wake up and put tons of make-up on, and put on a cool outfit. That\'s always been who I\'ve been my whole life, so that\'s never gonna change. I love fashion. I love getting dressed up. I love Halloween, too.',
+        'Gwen Stefani',
+    ],
+    '6ede824e-528c-53f9-bb67-3bd4ead44746' => [
+        'A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are worthwhile, it can be done.',
+        'Vince Lombardi',
+    ],
+    '20b66c80-9cd6-5bfa-9433-4b97f122e3d4' => [
+        'A sister is someone who owns part of what you own: a house, perhaps, or a less tangible legacy, like memories of your childhood and the experience of your family.',
+        'Deborah Tannen',
+    ],
+    '66f9bd46-5c7a-5a3f-865e-f2e78cd9d52e' => [
+        'I travel Europe every couple of weeks. I just came back from London, Holland and Denmark. Every nation on this planet has its issues with race, and I am not sure if everyone has figured out how to deal with it.',
+        'Montel Williams',
+    ],
+    '407788f0-50e7-5945-8d3a-cf01a1bd5128' => [
+        'I believe in one thing only, the power of human will.',
+        'Joseph Stalin',
     ],
 ];

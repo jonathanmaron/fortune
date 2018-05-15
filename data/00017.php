@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '9111ff91-3594-5249-aba3-72ab65aacbc0' => [
-        'Good leaders need a positive agenda, not just an agenda of dealing with crisis.',
-        'Michael Porter',
+    '9025ced9-42d8-549b-ae6a-3dec9b6f0bcc' => [
+        'The quality of a person\'s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor.',
+        'Paul Rand',
     ],
-    'e170dfba-09bd-5ecb-8c61-81cf5331b5f3' => [
-        'We live in the world when we love it.',
-        'Amy Poehler',
+    '11c59867-f078-5131-b1c3-01780c90c359' => [
+        'Time makes more converts than reason.',
+        'Thomas Paine',
     ],
-    '17d6bfb8-4f86-5b91-b13e-a5d26b2a3b21' => [
-        'There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.',
-        'Robert Quillen',
+    'ff7576ca-c352-5826-a3cd-390b2786ecdd' => [
+        'It\'s funny the way most people love the dead. Once you are dead, you are made for life.',
+        'Jimi Hendrix',
     ],
-    'd784e5ac-5064-51f5-90c7-faadfc1f1cce' => [
-        'Human rights are not a privilege granted by the few, they are a liberty entitled to all, and human rights, by definition, include the rights of all humans, those in the dawn of life, the dusk of life, or the shadows of life.',
-        'Yoko Ono',
+    '957796fa-2dcf-5a4e-aa81-86a01b7f1577' => [
+        'The suburbs are the American dream, right? Living in a nice house, having a good job, a happy family.',
+        'Cheryl Hines',
     ],
-    'edeca51b-7d94-5e1b-b75b-5e9a16f68936' => [
-        'Romanticism is not just about being in a fixed state of endless beauty, because you can\'t live like that or live on that, that\'s what I\'ve learnt.',
-        'Elizabeth Peyton',
+    '63d00100-4d00-5fe3-88dd-19993ba748a8' => [
+        'Travelers are always discoverers, especially those who travel by air. There are no signposts in the sky to show a man has passed that way before. There are no channels marked. The flier breaks each second into new uncharted seas.',
+        'Anne Morrow Lindbergh',
     ],
-    '65275740-59a8-5eaf-8746-22a70b4a86e5' => [
-        'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.',
-        'Edsger W. Dijkstra',
+    '74b09675-b927-556e-9e04-3be8c8e29fcb' => [
+        'Nature, to be commanded, must be obeyed.',
+        'Francis Bacon',
     ],
-    'b6d039de-1854-5a5c-bc84-b14c88107242' => [
-        'Each misfortune you encounter will carry in it the seed of tomorrows good luck.',
-        'Og Mandino',
+    'a78c4a98-30e5-52c1-8e87-97553b210eab' => [
+        'Great perils have this beauty, that they bring to light the fraternity of strangers.',
+        'Victor Hugo',
     ],
-    '8030368d-c991-5866-9c03-7cbb009c8502' => [
-        'It\'s so great to find that one special person you want to annoy for the rest of your life.',
-        'Buddha',
+    '0cc29298-8474-54c0-bee3-3d414251d5c7' => [
+        'For me, life is about being positive and hopeful, choosing to be joyful, choosing to be encouraging, choosing to be empowering.',
+        'Billy Porter',
     ],
-    '672378a4-c424-510a-98af-a8322c5d8aa7' => [
-        'There\'s not an instruction manual on how to deal with success, so you just have to rely on having great friends and a good team.',
-        'Bryan Adams',
+    'c71bd32c-73b6-50cc-9a4b-5564767952e5' => [
+        'Life is a progress, and not a station.',
+        'Ralph Emerson',
     ],
-    'a14c7ce5-4497-5a34-b923-9d07eaac4dee' => [
-        'I\'ve always felt like an artistic person. I can\'t draw or paint or sculpt. I never really had technical skills, but I\'ve always felt like I appreciate really beautiful things, and part of taking a good photograph is being able to recognize beauty.',
-        'Brandon Stanton',
+    '6de69c8a-f213-58c8-9e2c-72c596d4a23f' => [
+        'Sensual love deceives one as to the nature of heavenly love; it could not do so alone, but since it unconsciously has the element of heavenly love within it, it can do so.',
+        'Franz Kafka',
     ],
-    'efd58763-ae41-5ab3-98d9-6df2be442a3d' => [
-        'My family and I are so close, it\'s important to have a close knit relationship and to make time to spend with each other, especially at the holidays.',
-        'Gia Coppola',
+    '72637c19-1caa-5657-be43-65afe6cf9d78' => [
+        'The prevailing - and foolish - attitude is that a good manager can be a good manager anywhere, with no special knowledge of the production process he\'s managing. A man with a financial background may know nothing about manufacturing shoes or cars, but he\'s put in charge anyway.',
+        'W. Edwards Deming',
     ],
-    '0dfd8440-28cd-5ebb-9212-671956accc3c' => [
-        'Count your joys instead of your woes. Count your friends instead of your foes.',
-        'Unknown',
+    '79e069eb-fabb-5c75-8f42-b4adcef8f8ac' => [
+        'You have got to decide, look, this is who I am; this is my best way to present myself, and I\'m going to ride that horse to the finish line. Not everybody will like it, but that\'s OK.',
+        'Phil McGraw',
     ],
-    'd4e74c45-06be-5708-85b1-e5a3b1be45a5' => [
-        'Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best.',
-        'Napoleon Hill',
+    '8b34174a-c051-55cc-8fb9-58fb16e3ef4a' => [
+        'Polka dots can\'t stay alone. When we obliterate nature and our bodies with polka dots, we become part of the unity of our environments.',
+        'Yayoi Kusama',
     ],
-    '0c3c119e-a9ae-5c31-b4b1-c6f09ce26f60' => [
-        'There is nothing in a caterpillar that tells you it\'s going to be a butterfly.',
-        'R. Buckminster Fuller',
+    'a0961a94-415b-561c-962f-8e11bf25efd1' => [
+        'I am very optimistic, and I wish that God almighty grants me success to get a qualifying time. Only then can I go to the Olympics. If this happens I will be the first Palestinian athlete to gain a qualifying time. This will be a big achievement.',
+        'Nader al-Masri',
     ],
-    'e2e5e19c-0ef2-5264-ad86-322a7522f8fb' => [
-        'Science fiction is filled with Martians and space travel to other planets, and things like that.',
-        'Margaret Atwood',
+    '55b9a559-2fb2-5888-8b6b-c7d4674ffe19' => [
+        'Be the change that you want to see in the world.',
+        'Mohandas Gandhi',
     ],
-    'f3cd311b-d69b-5470-b65d-c9c62ee19968' => [
-        'Facing the press is not easy, but because you have to go, you have to try to take a lot of positive things for yourself from these face-to-face meetings.',
-        'Jose Mourinho',
+    '9cccd9f8-ce23-5722-aeb2-38fee38b99d6' => [
+        'What I love best in life is new starts.',
+        'Karl Lagerfeld',
     ],
-    '17047604-b1f5-5875-a3ea-5a4e90a92b92' => [
-        'I do not think that obsession is funny or that not being able to stop one\'s intensity is funny.',
-        'Jim Dine',
+    '8818134e-7825-53a7-9499-59003b13f0f5' => [
+        'Small opportunities are often the beginning of great enterprises.',
+        'Demosthenes',
     ],
-    '40ba222e-5705-5d24-a5a7-87421347081b' => [
-        'The number-one job of the hedge-fund manager is not to make sure that you can retire with a smile on your face - it\'s for him to retire with a smile on his face.',
-        'Mark Cuban',
+    'bf84fc32-4a05-59aa-9485-645e9fabbce5' => [
+        'With any of the movies I\'ve had a chance to do, or any of the TV shows I\'ve had a chance to contribute to, people approach me and say, \'Hey, would you like to do this?\' I laugh out loud and say, \'Yes, that\'d be funny.\' Or, I\'m very moved by what I read and say, \'Yes. How can I help you?\'',
+        'John Cena',
     ],
-    '9493e781-a176-55ea-bf7b-5ef00850cae0' => [
-        'One of the things the \'Tao of Travel\' shows is how unforthcoming most travel writers are, how most travelers are. They don\'t tell you who they were traveling with, and they\'re not very reliable about things that happened to them.',
-        'Paul Theroux',
+    '4e7061f5-2573-5ecf-b591-34e5935e3068' => [
+        'Even out of severe difficulty, some positive things come.',
+        'Jose Carreras',
     ],
-    '4fb91bbc-770d-5af3-9ac5-6e4071ed94cd' => [
-        'I grew up in a time when women didn\'t really do comedy. You had to be homely, overweight, an old maid, all that. You had to play a stereotype, because very attractive women were not supposed to be funny - because it\'s powerful; it\'s a threat.',
-        'Lily Tomlin',
+    '9c2376ef-eff3-5610-9f21-6dc0462b9201' => [
+        'One of the main lessons I have learned during my five years as Secretary-General is that broad partnerships are the key to solving broad challenges. When governments, the United Nations, businesses, philanthropies and civil society work hand-in-hand, we can achieve great things.',
+        'Ban Ki-moon',
     ],
-    '9eff7397-521d-57b1-a432-ad3cfd2c91b1' => [
-        'I figured out, I guess, that the job just makes me happy if it\'s not number one. So if it all works, great. If it doesn\'t, I still go home, look at my kids, and I have a big smile on my face.',
-        'Thomas Kretschmann',
+    'fb0b64de-3f9d-54d7-94d6-5bcb9d584372' => [
+        'Today I see beauty everywhere I go, in every face I see, in every single soul.',
+        'Kevyn Aucoin',
     ],
-    'bfe634f0-858b-5472-926e-a91041eddbad' => [
-        'My mother is a big believer in being responsible for your own happiness. She always talked about finding joy in small moments and insisted that we stop and take in the beauty of an ordinary day. When I stop the car to make my kids really see a sunset, I hear my mother\'s voice and smile.',
-        'Jennifer Garner',
+    '926ab06b-0e96-5e1b-8097-4fba00612a48' => [
+        'I\'ve got a theory that if you give 100 percent all of the time, somehow things will work out in the end.',
+        'Larry Bird',
     ],
-    '7561cd88-11f7-5a30-b7a1-1f33032dbb43' => [
-        'At this level, the individual perceives the maintenance of the expectations of his family, group, or nation as valuable in its own right, regardless of immediate and obvious consequences.',
-        'Lawrence Kohlberg',
+    '9302c674-ad15-5c00-8370-451af322b759' => [
+        'Tommie Aaron taught me how to have a good attitude, to be easy going and not get uptight.',
+        'Dale Murphy',
     ],
-    '13842130-782a-5b41-bca2-5c15dc49e707' => [
-        'We now occupy the proud attitude of a sovereign and independent Republic, which will impose upon us the obligation of evincing to the world that we are worthy to be free. This will only be accomplished by wise legislation, the maintenance of our integrity, and the faithful and just redemption of our plighted faith wherever it has been pledged.',
-        'Sam Houston',
+    '2cae21ef-8e69-56e4-8a08-2ebdea22c5f0' => [
+        'How much we need, in the church and in society, witnesses of the beauty of holiness, witnesses of the splendour of truth, witnesses of the joy and freedom born of a living relationship with Christ!',
+        'Pope Benedict XVI',
     ],
-    'fbef902e-aadd-562d-b6de-1656a8f46e06' => [
-        'No level of border security, no wall, doubling the size of the border patrol, all these things will not stop the illegal migration from countries as long as a 7-year-old is desperate enough to flee on her own and travel the entire length of Mexico because of the poverty and the violence in her country.',
-        'Jeh Johnson',
+    '5148c584-2de3-5e2b-9cce-c90c3056c071' => [
+        'Jerry Ford is so dumb he can\'t fart and chew gum at the same time.',
+        'Lyndon B. Johnson',
+    ],
+    'fc9abc29-364a-5a61-b9e0-9cd85b7852a5' => [
+        'You can learn from everyone, the president or the cleaner. You need teachers in life, but they\'re not always school teachers or professors. You learn from ordinary people. You learn from travel, from just walking down the street.',
+        'Lapo Elkann',
+    ],
+    '594f496c-6f0d-5d05-8a6e-bbc6937e7bf5' => [
+        'I tend to play characters that I can infuse with certain kinds of humour. Even the baddest guy can be funny in his own particular way. I want the audience to engage with the character on some deeper level so that they leave the cinema still thinking about him.',
+        'Samuel L. Jackson',
+    ],
+    'a54db337-34e3-587f-8a6a-c83d6b96c5c7' => [
+        'In case you haven\'t heard, my girlfriends and I have declared the summer of 2012 as the best summer ever. The best way to document said \'best summer ever\' is with a good ol\' disposable camera. Smile, click, move on! Nobody gets pic approval, and there\'s no time wasted gathering around the camera to analyze a moment that just happened.',
+        'Candice Accola',
+    ],
+    'd0342055-3d96-5680-9e02-b46ef22893a9' => [
+        'Everything that has existed, lingers in the Eternity.',
+        'Agatha Christie',
+    ],
+    '2e5c3aa9-cc13-5b7c-aee4-33d4c12803ad' => [
+        'There is a huge difference between failing and failure. Failing is trying something that you learn doesn\'t work. Failure is throwing in the towel and giving up. True success comes from failing repeatedly and as quickly as possible, before your cash or your willpower runs out.',
+        'Jay Samit',
+    ],
+    '11ca141e-83cf-5ae4-be4c-d414a2994aaf' => [
+        'The very best thing you can do for the whole world is to make the most of yourself.',
+        'Wallace D. Wattles',
+    ],
+    'd866a251-4e87-569a-aa48-abbb902d0ab0' => [
+        'My dad is a really funny guy, and we would make jokes about my leukemia. When my friends would come over, we would joke about it, too.',
+        'Vanessa Bayer',
+    ],
+    '725575b2-ed86-5cfd-b05b-5edade528957' => [
+        'When I think of myself at 15, even 17, I could simply not have done this work on an international level and travel all the time, take care of myself and not feel lost. I feel very happy that this is happening now, and not 10 years ago, as I feel stronger as a person.',
+        'Saskia de Brauw',
+    ],
+    'fef88cc7-77f6-5957-b7da-01b7eb7b3780' => [
+        'The relationship with time changes when you\'re captive.',
+        'Ingrid Betancourt',
+    ],
+    '9bcc995f-f247-54dc-9cf6-431607695978' => [
+        'A pessimist is a person who has had to listen to too many optimists.',
+        'Don Marquis',
+    ],
+    '8f630e1c-413a-54f0-9d82-fdb516af7ebe' => [
+        'The very women who object to the morals of a notoriously beautiful actress, grow big with pride when an admirer suggests their marked resemblance to this stage beauty in physique.',
+        'Minna Antrim',
+    ],
+    '9eb2207d-6cde-5419-82de-cd365b189060' => [
+        'The ideas of the ruling class are in every epoch the ruling ideas, i.e., the class which is the ruling material force of society, is at the same time its ruling intellectual force.',
+        'Karl Marx',
+    ],
+    '5d126288-e746-5313-9ea9-fe36d5d3804c' => [
+        'If I\'m honest I have to tell you I still read fairy-tales and I like them best of all.',
+        'Audrey Hepburn',
+    ],
+    'e3aedcab-c2f7-5aad-99b5-5768f26cbfd9' => [
+        'You know, the period of World War I and the Roaring Twenties were really just about the same as today. You worked, and you made a living if you could, and you tired to make the best of things. For an actor or a dancer, it was no different then than today. It was a struggle.',
+        'James Cagney',
+    ],
+    '4c1589fb-68e0-5fd3-87bf-f698af8be830' => [
+        'I grew up in a very traditional family, but there was never anything I didn\'t think I could do.',
+        'Huma Abedin',
+    ],
+    'f2064163-ac83-50ee-b062-fd3ac508b8ae' => [
+        'Disruption is a critical element of the evolution of technology - from the positive and negative aspects of disruption a typical pattern emerges, as new technologies come to market and subsequently take hold.',
+        'Steven Sinofsky',
+    ],
+    'f4d2b393-d560-5702-9e91-369501c323b3' => [
+        'There is no higher religion than human service. To work for the common good is the greatest creed.',
+        'Woodrow Wilson',
+    ],
+    '8f392116-ce6e-5e9e-97b5-8db8f8189711' => [
+        'I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone.',
+        'Henry Rollins',
+    ],
+    '619c5327-4417-5290-bed3-cdc0409638ac' => [
+        'If you have a dream, it\'s definitely achievable through hard work, through dedication, sacrifice, everything.',
+        'Carli Lloyd',
+    ],
+    'bd316a15-f3f8-50f4-b50f-ff04129c4985' => [
+        'People do not seem to realise that their opinion of the world is also a confession of their character.',
+        'Ralph Waldo Emerson',
+    ],
+    '4c21068c-9347-576d-a23f-2f88564a0ea3' => [
+        'No connection to the average voter - Clinton has an air of superiority. Despite her wide smile and pleasant appearance, she is envisioned as someone who is trying to hide something all the time.',
+        'Fabrizio Moreira',
+    ],
+    '1bfa4862-5d78-5bd9-85a4-375e1e8a0d64' => [
+        'Over the years, my work became both my vocation and avocation. Since I enjoyed it so much, I never felt a great need to go outside for relaxation. Nevertheless, I became an avid photographer and traveler. Possibly my love for travel stems from the early years when my family seldom went away on vacation.',
+        'Gertrude B. Elion',
+    ],
+    'd54ca4ef-73f7-558d-9341-f7972247115d' => [
+        'I\'m not a big spender or shopper. Neither am I extravagant, nor do I have big expenses. I mainly spend on travel. I don\'t buy overpriced clothes, as I feel such expenses are unnecessary. I probably wouldn\'t buy expensive watches or jewellery either.',
+        'Katrina Kaif',
+    ],
+    '33c7e752-a2c6-5c57-ba75-1b4b9f5dc434' => [
+        'I travel. I do a lot of traveling around the world.',
+        'Chris Tucker',
+    ],
+    '729cda11-10aa-5024-b43d-615a5b0890df' => [
+        'Doing nothing is better than being busy doing nothing.',
+        'Lao Tzu',
     ],
 ];

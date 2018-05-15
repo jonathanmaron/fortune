@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '820b37f1-f623-5a47-8238-cac6687372de' => [
-        'Healing is a matter of time, but it is sometimes also a matter of opportunity.',
-        'Hippocrates',
+    'c0134c24-cf26-5941-a6c4-7963b4232565' => [
+        'The most effective way to do it, is to do it.',
+        'Amelia Earhart',
     ],
-    'b96968ad-6d03-5432-80ed-16f9acfca910' => [
-        'We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.',
-        'Anne Roiphe',
+    'add983a8-4338-53b0-b71c-632eef4ad003' => [
+        'Correction does much, but encouragement does more.',
+        'Johann Wolfgang von Goethe',
     ],
-    '135fb8d6-ebe2-50f1-bcbb-3cf3d09383d3' => [
-        'Sometimes you need to push people into the deep for some people will never learn to swim if they\'ve never been taught how it feels to drown',
-        'Shaan Ahmed',
+    'e32282c0-f821-519c-b627-4f7461690ceb' => [
+        'And what we\'ve lost sight of is that performing manual labor with your hands is one of the most incredibly satisfying and positive things you can do.',
+        'Nick Offerman',
     ],
-    '1905547a-fc7a-546d-b394-33105c23631d' => [
-        'The stars, that nature hung in heaven, and filled their lamps with everlasting oil, give due light to the misled and lonely traveller.',
-        'John Milton',
+    'ace3e6e9-6ccf-55b9-9252-2cf84eaa03f0' => [
+        'Formula for success: under promise and over deliver.',
+        'Tom Peters',
     ],
-    '6f72fe4d-76db-5c42-88ec-0a0240d406ed' => [
-        'Beauty is grace and confidence. I\'ve learned to accept and appreciate what nature gave me.',
-        'Lindsay Lohan',
+    '8888e3b2-b820-5668-a6bb-66b039a1054b' => [
+        'I believe in being positive.',
+        'Joe Greene',
     ],
-    'daff9e03-e67e-55fe-bb52-031d644db6e4' => [
-        'I\'m a very positive thinker, and I think that is what helps me the most in difficult moments.',
-        'Roger Federer',
+    'b6d08750-b3bc-5c9d-a6c7-bf8afbd6d927' => [
+        'I\'d much rather have sat there and just been a fly on the wall, instead of having to smile at people. I\'d rather have been a waitress. Just gone round and stared at people.',
+        'Jennifer Saunders',
     ],
-    'd9301a29-ed87-5c56-883c-1e2713c461d2' => [
-        'Rome is the city of echoes, the city of illusions, and the city of yearning.',
-        'Giotto di Bondone',
+    '6d46688a-76f0-533e-9a48-b1cb9a9b707f' => [
+        'I\'m enjoying my years, I\'m enjoying my life, I\'m enjoying my family. I\'m just happy - a happy person.',
+        'Sharon Stone',
     ],
-    'c4575781-f443-5529-a110-a3a5386caab1' => [
-        'The person that\'s always talkin\', you don\'t have to worry about that person. The person that while you\'re in his face, he\'s just lookin\' at you with a smile on his face, that\'s the guy you worry about.',
-        'Michael Clarke Duncan',
+    '881881fd-27fd-5402-a55e-d29ff4de6a8b' => [
+        'Whether a plane to Singapore, a subway in Manhattan, or the streets of Cincinnati, I search for meaningful conversation wherever I may travel. Without it, I believe we lose the ability to not only understand others, but more importantly, ourselves.',
+        'Dhani Jones',
     ],
-    '8e140853-a162-5ce5-a581-e7c146bd65d8' => [
-        'No matter what the recipe, any baker can do wonders in the kitchen with some good ingredients and an upbeat attitude!',
-        'Buddy Valastro',
+    '6d3a4604-066d-5831-8cf3-fbeff1c2adcd' => [
+        'Whatever obstacle comes your way, you gotta be prepared to jump over it! And I think that\'s what separates the legends from the regular artists. It\'s all in how you manage that success, and how you deal with the controversy when it actually comes.',
+        'Akon',
     ],
-    'cd35f3e1-87c0-5311-a664-cefc94047b7b' => [
-        'There are two ways to worry words. One is hoping for the greatest possible beauty in what is created. The other is to tell the truth.',
-        'June Jordan',
+    '4e2e7e6f-f921-596e-aa9e-1665e5ade538' => [
+        'Experience can only be gained by doing not by thinking or dreaming.',
+        'Byron Pulsifer',
     ],
-    'ec5d46a4-8500-564a-bff5-c0ca68197d7d' => [
-        'Grace is in garments, in movements, in manners; beauty in the nude, and in forms. This is true of bodies; but when we speak of feelings, beauty is in their spirituality, and grace in their moderation.',
-        'Joseph Joubert',
+    '1dce3695-fccd-5dc4-9c6d-823ce54b9a28' => [
+        'Sudden success in golf is like the sudden acquisition of wealth. It is apt to unsettle and deteriorate the character.',
+        'P. G. Wodehouse',
     ],
-    'db0070be-d45d-5be6-b1a5-235db5ffa38e' => [
-        'Funny is a good foil. Humor is illuminating, and it also gives you power.',
-        'J. Tillman',
+    '01d97159-a5f3-5592-a326-73faaf75260a' => [
+        'Problems are not stop signs, they are guidelines.',
+        'Robert H. Schuller',
     ],
-    'e68d4450-ebf2-5370-90a4-e3fc5ec92841' => [
-        'Never bend your head. Always hold it high. Look the world right in the eye.',
-        'Helen Keller',
+    'e0854a74-2ed6-50b0-ad76-08ea04d009fd' => [
+        'Video games are a waste of time for men with nothing else to do. Real brains don\'t do that.',
+        'Ray Bradbury',
     ],
-    '7e262324-370c-522b-984e-0bdbbf1e6e3b' => [
-        'There is no failure except in no longer trying.',
-        'Elbert Hubbard',
+    '8942481d-082f-5358-a34b-61e3a55c0cf1' => [
+        'I don\'t want to know what time it is. I don\'t want to know what day it is or where I am. None of that matters.',
+        'Christopher McCandless',
     ],
-    '720f4b90-3d33-5e90-ab5b-14e33b4165a3' => [
-        'My label, my team and I are always looking to get involved with positive things.',
-        'Sevyn Streeter',
+    '1ee228d5-6ada-5d98-8d58-b59896b7a3b8' => [
+        'From 2002-2008, Planned Parenthood received $342 million in federal taxpayer money through Title X funding alone. With these funds, Planned Parenthood has provided women throughout the U.S. with important family planning and contraceptive services as well as screening for breast and cervical cancers for low-income women.',
+        'Lisa Murkowski',
     ],
-    '7172c806-16cb-59db-bf99-96758133593f' => [
-        'Life is without meaning. You bring the meaning to it. The meaning of life is whatever you ascribe it to be. Being alive is the meaning.',
-        'Katrina Kaif',
+    'a6a5c34f-275d-5479-a7f4-f68856ed31a3' => [
+        'We may smile at these matters, but they are melancholy illustrations.',
+        'Joseph Howe',
     ],
-    '6f878ec0-2be7-5ead-a863-d364dfeff03d' => [
-        'Spring is when you feel like whistling even with a shoe full of slush.',
-        'Doug Larson',
+    '903ec3ca-3375-5f97-aac4-265ebbfd7b96' => [
+        'Each blade of grass has its spot on earth whence it draws its life, its strength; and so is man rooted to the land from which he draws his faith together with his life.',
+        'Joseph Conrad',
     ],
-    '520af79d-ce59-5fbe-9193-a5509261c184' => [
-        'Every day is intense and alive, whether it\'s travel, work, even down time, which there is so little of.',
-        'Josh Lucas',
+    'f599b78b-ea12-53be-bec2-81b9cb26d1e2' => [
+        'Every action of our lives touches on some chord that will vibrate in eternity.',
+        'Edwin Chapin',
     ],
-    'e3119cba-cc2f-51a6-8bdf-e2b6f452b811' => [
-        'Someone is sitting in the shade today because someone planted a tree a long time ago.',
-        'Warren Buffett',
+    '8da00ebf-83c2-5a98-a371-f2edbfda36e0' => [
+        'George loves the T Rex because it\'s the noisiest and the scariest.',
+        'Kate Middleton',
     ],
-    '7d08c38e-c6ee-5b4d-a3df-e72123c35414' => [
-        'Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.',
-        'Dr. David M. Burns',
+    '262dd272-09d1-5e55-8e2a-969b1f80d43d' => [
+        'I\'ve failed over and over and over again in my life and that is why I succeed.',
+        'Michael Jordan',
     ],
-    'ff09cadc-ad19-5d8b-8316-7de7f5933fa0' => [
-        'I think I\'ve discovered the secret of life - you just hang around until you get used to it.',
-        'Vince Lombardi',
+    'd3aa6500-2c2f-56aa-9225-08f4b24108d9' => [
+        'When I work, a lot of times I have to lose weight, and I do that, but in my regular life I was not eating right, and I was not getting enough exercise. But by the nature of my diet and that lifestyle - boom! The end result was high blood sugars that reach the levels where it becomes Type 2 diabetes. I share that with a gajillion other people.',
+        'Tom Hanks',
     ],
-    '6615abd2-c96f-536a-8c70-9e10d40e1bd7' => [
-        'No matter what a woman\'s appearance may be, it will be used to undermine what she is saying and taken to individualize - as her personal problem - observations she makes about the beauty myth in society.',
-        'Naomi Wolf',
+    '71016363-7139-5468-b76a-4f8a5f6a682b' => [
+        'Motivation is the art of getting people to do what you want them to do because they want to do it.',
+        'Dwight D. Eisenhower',
     ],
-    'b96391d1-aa5d-5a83-a2ae-65cd366c8c61' => [
-        'A year or so ago I went through all the people in my life and asked myself: does this person inspire me, genuinely love me and support me unconditionally? I wanted nothing but positive influences in my life.',
-        'Mena Suvari',
+    'e3a3a50f-82f7-5e3a-929f-426f64aa98e5' => [
+        'Everyone has things that they don\'t love about themselves but I think that as a woman its much healthier and more positive to focus on your good parts and the things you like about yourself, not pick yourself apart.',
+        'Miranda Kerr',
     ],
-    'a309c39f-aecc-5a9b-8b80-a0ab77dd5298' => [
-        'Creativity Is Intelligence Having Fun.',
-        'Albert Einstein',
+    '4b127db5-3e9d-56cc-b035-4fb0b093c938' => [
+        'No matter where I\'ve been overseas, the food stinks, except in Italy.',
+        'Carmen Electra',
     ],
-    '4e1596d4-ad79-5687-afc1-20f6131a8417' => [
-        'Common sense would suggest that having ability, like being smart, inspires confidence. It does, but only while the going is easy. The deciding factor in life is how you handle setbacks and challenges. People with a growth mindset welcome setbacks with open arms.',
-        'Ezra Taft Benson',
+    '210942c3-8cff-584e-80a5-4c6114adeab8' => [
+        'Being a humorist is not a voluntary thing. You can tell this because in a situation where saying a funny thing will cause a lot of trouble, a humorist will still say the funny thing. No matter how inappropriate.',
+        'P. J. O\'Rourke',
+    ],
+    'd369cd77-763d-5bd2-9c6f-f9d8b3a14d05' => [
+        'Each day is the scholar of yesterday.',
+        'Sophia Bush',
+    ],
+    '955002d3-842b-5e3d-98af-727e3de83ae4' => [
+        'Begin doing what you want to do now. We are not living in eternity. We have only this moment, sparkling like a star in our hand-and melting like a snowflake.',
+        'Francis Bacon Sr.',
+    ],
+    'e52a45dd-8f71-558d-b96c-62b9f360b2b7' => [
+        'I have a funny mental framework when I do physics. I create an imaginary audience in my head to explain things to - it is part of the way I think. For me, teaching and explaining, even to my imaginary audience, is part of the process.',
+        'Leonard Susskind',
+    ],
+    'f40b76bc-842b-53e0-bd83-18dfccb5e890' => [
+        'Pleasure in the job puts perfection in the work.',
+        'Aristotle',
+    ],
+    'd435314a-87c3-541e-a189-710c96308394' => [
+        'Climate change is destroying our path to sustainability. Ours is a world of looming challenges and increasingly limited resources. Sustainable development offers the best chance to adjust our course.',
+        'Ban Ki-moon',
+    ],
+    '1b3b4d0c-0c93-54e5-8eb7-a9d3eb348455' => [
+        'The best part is still ahead of me - I haven\'t experienced my \'good old days\' yet.',
+        'Luther Vandross',
+    ],
+    '3f6f5740-d576-5008-a1aa-39c5e3946dd1' => [
+        'Life is either a great adventure or nothing.',
+        'Wayne Dyer',
+    ],
+    'f5e1259f-6f3f-55c4-8a91-9f1d3e24212b' => [
+        'You just never give up. You do a task to the best of your abilities and beyond.',
+        'Debbie Reynolds',
+    ],
+    'afc3d817-19c8-5f15-99d0-5286ed310428' => [
+        'This is the miracle that happens every time to those who really love: the more they give, the more they possess.',
+        'Rainer Maria Rilke',
+    ],
+    '3cf8155d-042b-572a-9315-758cf9bba23e' => [
+        'My dad would go to work every day and write in a room full of funny people. He enjoyed it. I know great writers who find the process agonising but to me, writing has always been sheer joy.',
+        'Joss Whedon',
+    ],
+    'cb70b43e-9325-583c-8ea6-7bcb86e6d8d9' => [
+        'I\'m not sure why I like cats so much. I mean, they\'re really cute obviously. They are both wild and domestic at the same time.',
+        'Michael Showalter',
+    ],
+    '05c572f2-2a1d-52c5-97d9-08fe2e8f2c11' => [
+        'Each time we face a fear, we gain strength, courage, and confidence in the doing.',
+        'Unknown',
+    ],
+    '7f407c8e-5181-5cb2-b1e3-a7d9c395abe3' => [
+        'Nature shows that with the growth of intelligence comes increased capacity for pain, and it is only with the highest degree of intelligence that suffering reaches its supreme point.',
+        'Arthur Schopenhauer',
+    ],
+    '40e20cd3-1e41-5643-a739-28043d6ad2f9' => [
+        'I did flirt with the idea of going to law school, but not for long. Maybe I\'ll play a lawyer one day - the beauty of acting is that you can try on so many different roles without having to commit to them in real life.',
+        'Elizabeth Debicki',
+    ],
+    '0261a06a-b712-5379-863f-607514d40407' => [
+        'Don\'t turn away from possible futures before you\'re certain you don\'t have anything to learn from them.',
+        'Richard Bach',
+    ],
+    '681e128e-9b44-5abd-81e5-cb74b3381814' => [
+        'By making a comeback, I\'m changing the attitude of people toward me. If I\'d known that people would react so enthusiastically, I\'d have done it years ago.',
+        'Mark Spitz',
+    ],
+    '48b7e445-f4ff-5371-bc71-a2139af8e104' => [
+        'The years teach much which the days never know.',
+        'Ralph Emerson',
+    ],
+    'ee0cfcd1-dfc6-5dfe-8b97-89d684fc5448' => [
+        'Lead singers not only do the majority of the work, but their personalities are singled out and taken as the general attitude of the unit.',
+        'Martha Reeves',
+    ],
+    '83fc67df-47e6-5ccb-8390-9bdfc8468678' => [
+        'Living in different cultures helped me work out who I was going to be, separate from where I came from.',
+        'Jacinda Barrett',
+    ],
+    'bf54de4f-fca4-5f1a-bf6e-53310821c59c' => [
+        'The more you know yourself, the more you forgive yourself.',
+        'Confucius',
+    ],
+    '16e0ec4c-b360-5950-8e02-76661a40b2dd' => [
+        'Challenging the meaning of life is the truest expression of the state of being human.',
+        'Henry David Thoreau',
+    ],
+    '2b33bcef-0a31-581c-84dc-ceb12d67e8c8' => [
+        'Plant thy foot firmly in the prints which His foot has made before thee.',
+        'Joseph Barber Lightfoot',
+    ],
+    '86003e64-ea8e-55a8-85c8-d34599053d7f' => [
+        'By plucking her petals, you do not gather the beauty of the flower.',
+        'Rabindranath Tagore',
+    ],
+    '27f01cb9-a8c9-5025-a822-800c1699dfcc' => [
+        'When you\'re a man, you want to make decisions for your family, and sometimes the lady doesn\'t see what you see.',
+        'Future',
+    ],
+    'aab2a220-b9d1-547c-ba52-a0730ace3b7f' => [
+        'I\'m a really nostalgic person. I love taking photos and video and having memories. I remember all my childhood videos that my dad used to take. I think that\'s really what life is about - especially when you start a family of your own.',
+        'Kim Kardashian',
     ],
 ];

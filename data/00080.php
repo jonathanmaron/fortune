@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '5856a0d3-3b36-574c-88f3-8bfa7be1b351' => [
-        'If you carefully consider what you want to be said of you in the funeral experience, you will find your definition of success.',
-        'Stephen Covey',
+    '00e6da2f-02f8-52ae-89df-b0d7769ee19e' => [
+        'If we don\'t hope, if we don\'t stay positive - at least about love, or finding love - then the rest of life becomes really just painful to think about, because for the most part, you know, day-to-day stuff is monotonous.',
+        'Nev Schulman',
     ],
-    '03ef3d40-5b05-57f7-862c-4da29f7d0085' => [
-        'When I travel overseas on many occasions, I get pulled out because I may be buying a one-way ticket, I may be traveling with my sister and we have different last names. That\'s smart profiling. Just pulling people out one at a time when we have millions of passengers in random screenings I\'m not sure is the best way to do it.',
-        'Aaron Schock',
+    'c9e40c7c-9049-59e9-aafe-9ed78e088e14' => [
+        'I\'m quite a particular singer, and I need to feel like I can bite into the song, in a way, to make it my own. You want the challenge of the songs having some attitude.',
+        'Neneh Cherry',
     ],
-    '6fb5b369-39ec-5b00-8d0e-b30b45e7fa81' => [
-        'He who lives in harmony with himself lives in harmony with the universe.',
-        'Marcus Aurelius',
+    '20488a94-e93d-59dc-ba31-f8cd30347a44' => [
+        'When life catches up with us, we all need space to dream and indulge, so I have created my own special range of bath &amp; beauty loveliness to help you find your happy place.',
+        'Zoe Sugg',
     ],
-    'a815fd35-7e93-52da-bcc2-6aeebb678e55' => [
-        'We didn\'t lose the game; we just ran out of time.',
-        'Vince Lombardi',
+    '08e29dfc-34ed-5a5d-8fad-f533d99d7f61' => [
+        'Some people say video games rot your brain, but I think they work different muscles that maybe you don\'t normally use.',
+        'Ezra Koenig',
     ],
-    '11ba6bde-d3ca-53ea-b7bd-68c6d8f22ded' => [
-        'When I draw my caricature self-portrait, I always do a huge smile.',
-        'Rolf Harris',
-    ],
-    '7bd18b74-a1dd-5047-b67b-8bc2b2d6ce81' => [
-        'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
-        'Patricia Sun',
-    ],
-    '33ccd03f-c149-5dc9-b6a5-12079472e11e' => [
-        'But the gravest difficulty, and perhaps the most important, in poetry meant solely for recitation, is the difficulty of achieving verbal beauty, or rather of making verbal beauty tell.',
-        'Lascelles Abercrombie',
-    ],
-    '8209c102-b92a-520f-9f3f-867d75dc6e9d' => [
-        'Fear of failure, it\'s the greatest motivational tool. It drives me and drives me and drives me.',
-        'Jerry West',
-    ],
-    '729b951e-1cc7-5ea9-bade-5bc1d4e3f745' => [
-        'Americans have always had an ambivalent attitude toward intelligence. When they feel threatened, they want a lot of it, and when they don\'t, they regard the whole thing as somewhat immoral.',
-        'Vernon A. Walters',
-    ],
-    'a344c87b-f222-53c4-b8c6-580e9b69adc0' => [
-        'The real measure of your wealth is how much youd be worth if you lost all your money.',
-        'Unknown',
-    ],
-    'f8dd0a51-4628-5b8b-9ba1-2d8e8337d143' => [
-        'Nature\'s great masterpiece, an elephant; the only harmless great thing.',
-        'John Donne',
-    ],
-    '5a62a37f-1423-5bbe-b243-0edd68e77868' => [
-        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
-        'Danny Meyer',
-    ],
-    'dee6a5b4-b321-5a71-863e-0cc518e9b8dc' => [
-        'The trouble with travelling back later on is that you can never repeat the same experience.',
-        'Michael Palin',
-    ],
-    'f358670c-d14b-531e-8a05-8805bb7eb948' => [
-        'The gift of fantasy has meant more to me than my talent for absorbing positive knowledge.',
+    'e1e6b5ed-b827-5b9f-9367-b83734aa87ac' => [
+        'Feeling and longing are the motive forces behind all human endeavor and human creations.',
         'Albert Einstein',
     ],
-    'a16efb7e-1de3-5636-8664-12e2e3f58290' => [
-        'You block your dream when you allow your fear to grow bigger than your faith.',
-        'Mary Morrissey',
+    'f15289fe-cc21-55c0-b215-4ff86541eb41' => [
+        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
+        'Michelangelo',
     ],
-    '85e030fb-3092-5996-8adc-c805a561fa73' => [
-        'I can\'t stress to you enough how much I can relate to teens being cyberbullied. Something that helps me is looking at old videos of me and my friends from middle school, or videos of my family. I love watching funny videos of my favorite people - it really cheers me up.',
-        'Ariana Grande',
+    'b8c0a22b-421c-53b6-8bad-a43ed640fed6' => [
+        'I don\'t think it\'s any coincidence that I lost my religious faith and \'manned up\' in the same year. I was described somewhere as a lapsed Catholic, which is funny because I\'m not going back! I want to achieve things rather than live life in an animalistic way.',
+        'Jimmy Carr',
     ],
-    '04955914-7f7c-5912-b7c5-bf664637a584' => [
-        'I think the most fun part about working on \'Good Luck Charlie\' is spending time with everyone, honestly, because everybody on set is like my brother and sister and mom and dad. They\'re so fun to be around, so that\'s probably the best part about working there.',
-        'Bradley Steven Perry',
+    '844c2f08-3469-5dd2-b061-c6c47f216831' => [
+        'Being famous is having the power to really implement positive change in the world, and it gives you the power to do what you want. I\'m really grateful for it because I can play music and people will listen.',
+        'Sean Lennon',
     ],
-    'ddf24dad-8249-5b8d-bf87-e8f6a83df047' => [
-        'It was at the beginning of 1934 while working on the emission of these positive electrons that we noticed a fundamental difference between that transmutation and all the others so far produced; all the reactions of nuclear chemistry induced were instantaneous phenomena, explosions.',
-        'Irene Joliot-Curie',
+    '0ce0c105-53f7-5f10-b82e-f34aaa848437' => [
+        'I like being the underdog so they don\'t expect what\'s going to happen. It pushes me to work harder and do the things I\'m not doing better.',
+        'Kawhi Leonard',
     ],
-    '5383394b-09b9-5be1-bca9-886270b6ccc3' => [
-        'Silence is a fence around wisdom.',
-        'German proverb',
+    '7df3ada8-2ca1-512b-be5e-d6ca148da405' => [
+        'Everything is a blessing, even meetings. Whether it\'s meetings or running gassers or lifting, it\'s an opportunity, and the best thing to do is be thankful for it.',
+        'Eric Berry',
     ],
-    '0d0cc185-3052-52cc-a1b5-00ebe7ceeab8' => [
-        'Women who stay true to themselves are always more interesting and beautiful to me: women like Frida Kahlo, Georgia O\'Keeffe and Anna Magnani - women who have style, chic, allure and elegance. They didn\'t submit to any standard of beauty - they defined it.',
-        'Isabella Rossellini',
+    '93374f78-215e-596f-bd7e-a02609bc5bf3' => [
+        'I always just wanted to be funny. I never really planned to be scary.',
+        'R. L. Stine',
     ],
-    '9d3979b3-93f3-501a-9929-a3fb1385205b' => [
-        'Things derive their being and nature by mutual dependence and are nothing in themselves.',
-        'Nagarjuna',
+    '4ea53fb7-b00a-59ce-9218-e5cecbc378f6' => [
+        'I read a funny story about how the Republicans freed the slaves. The Republicans are the ones who created slavery by law in the 1600\'s. Abraham Lincoln freed the slaves and he was not a Republican.',
+        'Marion Barry',
     ],
-    'c567bbaf-86f4-58f6-b698-b150c5e546ff' => [
-        'I\'ve never seen anyone more messed up over success than Richard Pryor. For him, it\'s a constant battle between success in the white world and keeping it real for his black self.',
-        'Paul Mooney',
+    'ec883059-2729-5398-87a8-63df6019f23c' => [
+        'Most people work just hard enough not to get fired and get paid just enough money not to quit.',
+        'George Carlin',
     ],
-    'ff5a9367-5c0a-5e2f-a55c-f3754f4c51fc' => [
-        'There are things so deep and complex that only intuition can reach it in our stage of development as human beings.',
-        'John Astin',
+    'c38309de-b6d2-5b9b-8018-4a6abe18f84f' => [
+        'Travel makes a wise man better, and a fool worse.',
+        'Thomas Fuller',
     ],
-    '4a2ce548-7488-5c76-a9f2-7299b3b111da' => [
-        'The old attitude toward newspapers was that they were completely disposable - today\'s newspaper is tomorrow\'s fish wrap.',
-        'Ray Guy',
+    'e821602b-7ab4-5a6f-83b5-fc74c38105a1' => [
+        'You just have to find that thing that\'s special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.',
+        'Dr. Dre',
     ],
-    '0b193d5a-185f-53f0-8542-2e9606046272' => [
-        'From its brilliancy everything is illuminated.',
-        'Guru Nanak',
+    '169f3e59-454e-53ff-95ba-fde5667e4fd6' => [
+        'Hollywood\'s a very weird place. I think there\'s less of everything except for attitude.',
+        'Dean Cain',
+    ],
+    'f6bff7ae-cc21-545a-8508-ab9cd90e1a54' => [
+        'Going to the Academy Awards is something I remember since I was six, when I went with my mom for the first time, 14 with my dad, you know, and there I am, at 22, 23, whatever I was, sitting next to my mom. You know, and then again, there with my dad. Like, there\'s a beauty to it, and I care deeply about film history.',
+        'Laura Dern',
+    ],
+    'dfee9cad-1498-5189-a6f1-e89ede09f0ed' => [
+        'Every job is good if you do your best and work hard. A man who works hard stinks only to the ones that have nothing to do but smell.',
+        'Laura Ingalls Wilder',
+    ],
+    'c984f08a-41aa-557f-9524-a2a5cfc85460' => [
+        'People say I\'m extravagant because I want to be surrounded by beauty. But tell me, who wants to be surrounded by garbage?',
+        'Imelda Marcos',
+    ],
+    '94c152b1-1b7c-5f37-bcfb-8dbb057b7e1a' => [
+        'Smoking kills. If you\'re killed, you\'ve lost a very important part of your life.',
+        'Robert Wagner',
+    ],
+    '51f7b0c7-2b00-5ea9-8083-a38d9c9ea65c' => [
+        'Though beauty gives you a weird sense of entitlement, it\'s rather frightening and threatening to have others ascribe such importance to something you know you\'re just renting for a while.',
+        'Candice Bergen',
+    ],
+    '3c73e2ce-7a9b-52af-91e0-3e2d4a518d0b' => [
+        'When I was a child I asked my mother what homosexuality was about and she said - and this was 100 years ago in Germany and she was very open-minded - \'It\'s like hair color. It\'s nothing. Some people are blond and some people have dark hair. It\'s not a subject.\' This was a very healthy attitude.',
+        'Karl Lagerfeld',
+    ],
+    '10cc8577-ff4a-5fe4-9d64-090bd8e3978f' => [
+        'I look at an ant and I see myself: a native South African, endowed by nature with a strength much greater than my size so I might cope with the weight of a racism that crushes my spirit.',
+        'Miriam Makeba',
+    ],
+    '8a36cd35-53b0-512a-b1d5-4b70113a1ca7' => [
+        'Rome wasn\'t built in a day.',
+        'Unknown',
+    ],
+    '925db779-bd6d-5320-b247-8b5a98df588f' => [
+        'Your lost friends are not dead, but gone before, advanced a stage or two upon that road which you must travel in the steps they trod.',
+        'Aristophanes',
+    ],
+    'd43323e4-37fd-575c-8ec5-f362c55eece2' => [
+        'I love to see the smiles on people\'s faces when you cook for them. I love to go to different restaurants. I want to cook because I know this acting isn\'t going to last forever, and I want something to fall back on. It\'s another way to make people smile.',
+        'Raven-Symone',
+    ],
+    'ec73f379-69b2-5d7f-892a-61c49a34294b' => [
+        'I don\'t see the desert as barren at all; I see it as full and ripe. It doesn\'t need to be flattered with rain. It certainly needs rain, but it does with what it has, and creates amazing beauty.',
+        'Joy Harjo',
+    ],
+    '0fb0d12c-7919-5951-bfe1-1501e96dc2a2' => [
+        'If you fell down yesterday, stand up today.',
+        'H. G. Wells',
+    ],
+    'a72dfe42-72c7-52c0-bb53-262ff6a1a38e' => [
+        'Why is it so painful to watch a person sink? Because there is something unnatural in it, for nature demands personal progress, evolution, and every backward step means wasted energy.',
+        'August Strindberg',
+    ],
+    '1856def2-2989-5b18-aa7c-1cab6567adc3' => [
+        'Let the refining and improving of your own life keep you so busy that you have little time to criticize others.',
+        'H. Jackson Brown, Jr.',
+    ],
+    '90664cd9-8bf6-547c-8d5f-7f3374d10ba2' => [
+        'It\'s a funny thing when you think you\'re dead. You\'re not terrified of it anymore. There\'s a sort of a epiphany to religious thing; it\'s not sort of church-based, but you end up with a serenity which you didn\'t have before, and I just simply enjoy it. It really does sound stupid, but I\'ve got to tell you it\'s made my life.',
+        'David Lange',
+    ],
+    '290d8241-9a07-5926-a4f1-8fba806b319d' => [
+        'Hard work opens doors and shows the world that you are serious about being one of those rare - and special - human beings who use the fullness of their talents to do their very best.',
+        'Robin S. Sharma',
+    ],
+    '0ccc21b6-9451-5233-8d49-728af9daee64' => [
+        'Life has a funny way of becoming ordinary as soon as it can.',
+        'Colm Toibin',
+    ],
+    '6354fd5d-07d2-5d24-be59-fd06a5129e29' => [
+        'Adapt or perish, now as ever, is nature\'s inexorable imperative.',
+        'H. G. Wells',
+    ],
+    '290cf823-2ade-5b6b-bc3b-8a28d19bdb5e' => [
+        'What was really funny is that as I got older all those guys who called me a sissy in junior high school wanted me to be their best friend because they wanted to meet all the girls that I knew in figure skating.',
+        'Scott Hamilton',
+    ],
+    'be035c1d-6400-5db3-be80-38526272310a' => [
+        'We should all be thankful for those people who rekindle the inner spirit.',
+        'Albert Schweitzer',
+    ],
+    '69442553-b854-5aba-b8f3-4f97ea1a05c7' => [
+        'You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.',
+        'Remez Sasson',
+    ],
+    'd6f5d421-07e3-5174-8368-86dc94eeefbf' => [
+        'You try to do the best with what you\'ve got and ignore everything else. That\'s why horses get blinders in horse racing: You look at the horse next to you, and you lose a step.',
+        'Jimmy Iovine',
+    ],
+    'de985828-a2ed-5685-b8f6-254f3dadc8b7' => [
+        'The best cure for the body is a quiet mind.',
+        'Napoleon Bonaparte',
+    ],
+    'ac4ac276-52f2-55ae-9440-538bbf16b5ae' => [
+        'Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.',
+        'Ralph Blum',
+    ],
+    '7561a443-bb7a-53e1-8b88-35e64ddaa8a2' => [
+        'Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man\'s life is independent. He is born not for the development of the society alone, but for the development of his self.',
+        'Lenny Kravitz',
+    ],
+    '87bb6972-1204-526e-bddf-b09a59d615e4' => [
+        'There\'s no reason to hold yourself back and say you can\'t do something in life unless you go for it and try to do it.',
+        'Laura Esquivel',
+    ],
+    '93e225a0-35b3-53bf-8b80-7c4deb8b1aef' => [
+        'Coming together should be considered something positive for people and communities. When thoughts come together, that can be more positive than an individual thought.',
+        'Amitabh Bachchan',
+    ],
+    '10e20aae-75e8-55d4-b2c8-1bee5f891b9c' => [
+        'What is worthy or unworthy on the Sabbath day will have to be judged by each of us by trying to be honest with the Lord. On the Sabbath day, we should do what we have to do and what we ought to do in an attitude of worshipfulness and then limit our other activities.',
+        'James E. Faust',
+    ],
+    '43622d8b-e22c-568d-994c-4f6d388dcf21' => [
+        'Success can make you go one of two ways. It can make you a prima donna - or it can smooth the edges, take away the insecurities, let the nice things come out.',
+        'Barbara Walters',
+    ],
+    '80ac8b59-2bdc-5a1e-bef0-2d49e482f7fb' => [
+        'I like to write sad songs. They\'re much easier to write and you get a lot more emotion into them. But people don\'t want to hear them as much. And radio definitely doesn\'t; they want that positive, uptempo thing.',
+        'Alan Jackson',
+    ],
+    '559760fc-0987-5603-8feb-43da8bd2f63b' => [
+        'Turkey wants a policy of engagement exactly like President Obama\'s new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.',
+        'Ahmet Davutoglu',
+    ],
+    'b1747f48-5438-54fb-bb42-46a01a713d60' => [
+        'In order to attain the impossible, one must attempt the absurd.',
+        'Miguel de Cervantes',
+    ],
+    'eb4930f4-c1c3-5606-9557-595daf0c96d8' => [
+        'I love natural beauty, and I think it\'s your best look, but I think makeup as an artist is so transformative.',
+        'Marina and the Diamonds',
+    ],
+    '8ab9cf65-a3fb-5d01-9af0-e4c10c9b7688' => [
+        'But you see, our society is still trapped in this binary, black/white logic and that has had some very positive implications for our generation. It\'s had some very negative ones as well and one of the negative ones is that it creates enormous identity problems for people who have one black ancestor and all white ancestors for example.',
+        'Henry Louis Gates',
     ],
 ];

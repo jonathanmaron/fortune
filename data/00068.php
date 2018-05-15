@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'd4426d08-f47a-5d5e-a8b3-3ef45cd49268' => [
-        'No day in which you learn something is a complete loss.',
-        'David Eddings',
+    'e786156b-afb9-5d76-a7ff-f04b29ace048' => [
+        'I\'ve always believed that you can think positive just as well as you can think negative.',
+        'James A. Baldwin',
     ],
-    '4f75446f-6f48-5d41-ba03-1a158960efa8' => [
-        'But, I would be naive not to recognize the number of musicians who tell me they have been influenced by me and sight me - as well as Alex and Neil - as a musician who has been a positive influence on their playing.',
-        'Geddy Lee',
+    '6861ea07-3deb-54e8-8214-6cf840ee2083' => [
+        'I envy those old Greek bathers, into whose hands were delivered Pericles, and Alcibiades, and the perfect models of Phidias. They had daily before their eyes the highest types of Beauty which the world has ever produced; for of all things that are beautiful, the human body is the crown.',
+        'Bayard Taylor',
     ],
-    '86bdae5b-6fd2-537e-92ae-9c5d9e3498d9' => [
-        'People seldom notice old clothes if you wear a big smile.',
-        'Lee Mildon',
+    'c32c0d7e-a7fc-55a1-97c7-4d265a148bfc' => [
+        'In order to design a future of positive change, we must first become expert at changing our minds.',
+        'Jacque Fresco',
     ],
-    'dab132fe-b371-5c2f-8f0f-b832d9f46722' => [
-        'The more success you get, you start to be harder on yourself or more afraid of the looking glass. You have to learn to build a thicker skin because people are paying more attention.',
-        'Idina Menzel',
+    '8acb8209-987c-5f5d-83cd-aac14ac7edbd' => [
+        'As a single withered tree, if set aflame, causes a whole forest to burn, so does a rascal son destroy a whole family.',
+        'Chanakya',
     ],
-    'a541f2cc-f51c-53c4-a75b-a760e1feb1fc' => [
-        'Beauty: the adjustment of all parts proportionately so that one cannot add or subtract or change without impairing the harmony of the whole.',
-        'Leon Battista Alberti',
+    '9f05e2b2-698a-5c0d-9dea-d5f4355d8011' => [
+        'The only way to work is to love what you do.',
+        'Steve Jobs',
     ],
-    '007a2d4d-9e99-55a4-b1db-2a27ff2d0980' => [
-        'Like many young people, I believe I have potential to make a positive impact in the world.',
-        'Cameron Russell',
+    'e6d24f0d-7277-5485-bf26-c48eeffc40b2' => [
+        'If you want to have a good life, you should focus on your family, on your business, on your dog, on your fun, and you\'ll have a good life.',
+        'Adam Carolla',
     ],
-    '81c66eab-464d-5626-a06b-5188176e913c' => [
-        'You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.',
-        'Emmet Fox',
+    '890390cf-56e1-5452-a425-792b7c55064c' => [
+        'An artist must possess Nature. He must identify himself with her rhythm, by efforts that will prepare the mastery which will later enable him to express himself in his own language.',
+        'Henri Matisse',
     ],
-    'f87b83f1-3fc9-5e3d-8da2-7394d9da7750' => [
-        'I think the thing I miss most in our age is our manners. It sounds so old-fashioned in a way. But even bad people had good manners in the old days, and manners hold a community together, and manners hold a family together; in a way, they hold the world together.',
-        'Nancy Friday',
+    '4ed82de5-2fd0-5ca0-b12d-b5ede96b7e76' => [
+        'Never measure the height of a mountain until you have reached the top. Then you will see how low it was.',
+        'Dag Hammarskjold',
     ],
-    '7861bef8-2ae1-58d0-8157-a6d799148b8f' => [
-        'I\'ve shown that if you dream and are willing to work hard, you can achieve your dreams.',
-        'Mo Farah',
+    'cb781aba-2d9a-5b8b-98a8-982741a2877b' => [
+        'Everybody is vulnerable to being in relationships where they get fooled. I\'m no different. It\'s just human nature.',
+        'Michelle Pfeiffer',
     ],
-    'f2ca648e-f4ee-544c-8244-783d57248ad0' => [
-        'The beautiful part of writing is that you don\'t have to get it right the first time, unlike, say, a brain surgeon. You can always do it better, find the exact word, the apt phrase, the leaping simile.',
-        'Robert Cormier',
+    'd941dcae-5237-5fd2-8bf1-7c253c6d1542' => [
+        'The attitude among the people I knew was, \'Fleur wants to be a singer\' but it was never, \'Go for it. You can do it.\' Everyone was cynical because we\'d never seen anyone where we came from do it.',
+        'Fleur East',
     ],
-    '91fed94f-9306-53a2-9f6c-94d3f9422baa' => [
-        'I\'m not actually a mom in real life, so it\'s fun to pretend to be one. I like to approach things the same in art as in life. You can choose to look on the positive side and enjoy whatever roles you\'re given. You can find the silver lining in anything.',
-        'Heather Graham',
+    '0474f193-70f9-50aa-a484-8ee26df23888' => [
+        'If you tell the truth, you don\'t have to remember anything',
+        'Mark Twain',
     ],
-    '81c16ecc-1dbd-5d9b-a47f-76f4c6dcb66f' => [
-        'I really love showing up at work at 10 A.M., trying to make it funny until 3 P.M., and then going home. It\'s like comedy bankers\' hours.',
-        'Chris Eigeman',
+    'd25b9ceb-e109-5150-88df-582d4a5f8ed9' => [
+        'Truth, and goodness, and beauty are but different faces of the same all.',
+        'Ralph Emerson',
     ],
-    '385da954-f904-5965-ac77-83f48c783613' => [
-        'A lot of us grow up and we grow out of the literal interpretation that we get when we\'re children, but we bear the scars all our life. Whether they\'re scars of beauty or scars of ugliness, it\'s pretty much in the eye of the beholder.',
-        'Stephen King',
+    '81768f4a-72e4-54b1-9ff8-89ff69dae0f7' => [
+        'People don\'t really understand, but having people stare, and point, and take pictures, even if it is in a positive framework, is quite isolating; there\'s no two ways about it. You feel a little bit, you know, freakish.',
+        'Emma Watson',
     ],
-    '726ae607-9f54-58f2-b12e-1fb97b41c5b9' => [
-        'True beauty is when someone radiates that they like themselves.',
-        'Aimee Mullins',
+    '381da02c-25a6-588e-a380-9eb830425fad' => [
+        'When I first left university, I thought about going into the private sector. But I discovered when I went to interview that I could only have a career in the back office, or doing HR. The attitude was, \'My dear lady, you cannot possibly think about going on the board.\'',
+        'Pauline Neville-Jones',
     ],
-    '5318fac6-9983-5c31-a709-2c98dcead91b' => [
-        'When trouble comes, it\'s your family that supports you.',
-        'Guy Lafleur',
+    'd2436d84-94d3-56cb-aab7-061797234af2' => [
+        'I grew up in a family with two very strong women, my mother and my older sister, and they were big influences on my life.',
+        'Darren Aronofsky',
     ],
-    '112b6176-aaa9-5ca6-87a7-1cc64f0b21e5' => [
-        'I think the divine is like a huge smile that breaks somewhere in the sea within you, and gradually comes up again.',
-        'John O\'Donohue',
+    '3b804782-3a44-5799-a723-5a2319aecd4c' => [
+        'Enthusiasm is the best protection in any situation. Wholeheartedness is contagious. Give yourself, if you wish to get others.',
+        'David Seabury',
     ],
-    '738dcfaa-272f-5fce-963d-1e5fa75f0a91' => [
-        'But with exquisite breathing you smile, with satisfaction of love, And I touch you again as you tick in the silence and settle in sleep.',
-        'Karl Shapiro',
+    '8dbf5444-2e64-589e-8c71-315efc878da8' => [
+        'The best preparation for good work tomorrow is to do good work today.',
+        'Elbert Hubbard',
     ],
-    '90370a08-a916-5c8e-9466-3c1190f444b6' => [
-        'In the case of Iraq, notwithstanding the violence there at the moment, the very fact that a hideous regime - responsible for genocide, for the use of chemical and biological weapons, aggression against two neighbors - has been removed in itself is a positive development.',
-        'Jose Ramos-Horta',
+    'd0e48355-7a87-5e8a-82a2-b70db626c712' => [
+        'My father... gave me a positive connection with men because he is a gentleman.',
+        'Iman',
     ],
-    '876fa59e-5a55-5d51-8baa-08e1f4dc34ac' => [
-        'Winning is fun, but those moments that you can touch someone\'s life in a very positive way are better.',
-        'Tim Howard',
+    'a5bb9137-4767-5796-a106-798c657429f3' => [
+        'It\'s important to travel and move and have a continual set of experiences so you\'ve got more to feed back into your work. For me, it\'s a natural thing.',
+        'Cate Blanchett',
     ],
-    '9d927c3b-c205-5a17-a713-84b711e32811' => [
-        'Enthusiasm moves the world.',
-        'Arthur Balfour',
+    '9f8e276d-6a2d-5d60-89c8-7519e7df7219' => [
+        'I got the chance to do things that I dreamed of when I was a kid: I got to travel around the world; I had my own \'Goosebumps\' attraction at Disney World; I\'ve been on TV and had three TV series.',
+        'R. L. Stine',
     ],
-    '4e771c62-a40e-5442-a55c-13a3ad91ed28' => [
-        'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.',
-        'John Wooden',
+    '70f9a007-8e62-5c02-805a-6c4bc198a5e5' => [
+        'The only way to get love is to be lovable. It\'s very irritating if you have a lot of money. You\'d like to think you could write a check: \'I\'ll buy a million dollars\' worth of love.\' But it doesn\'t work that way. The more you give love away, the more you get.',
+        'Warren Buffett',
     ],
-    '1a4c13d4-8d4c-5598-840e-0d61e0c838c7' => [
-        'For me, it was important Wonder Woman wouldn\'t be a Goody Two-Shoes. She has a little bit of attitude, and when she fights, she has a smirk on her face. I didn\'t want her to be polished. I want people to relate to her.',
-        'Gal Gadot',
+    'bf0eb6ea-2c0c-56b3-a783-3a80b2982566' => [
+        'Wherever we go, across the Pacific or Atlantic, we meet, not similarity so much as \'the bizarre\'. Things astonish us, when we travel, that surprise nobody else.',
+        'Mary Ritter Beard',
     ],
-    '6b93cf7a-7c1c-5f42-8c6c-962c5ad8c0aa' => [
-        'I am convinced that material things can contribute a lot to making one\'s life pleasant, but, basically, if you do not have very good friends and relatives who matter to you, life will be really empty and sad and material things cease to be important.',
-        'Stephen Gardiner',
+    '6810a3f7-a3e3-5f54-aeba-febe96c013b6' => [
+        'I\'m undaunted in my quest to amuse myself by constantly changing my hair.',
+        'Hillary Clinton',
     ],
-    'f38975ac-b747-5836-930b-04b4fcd8d180' => [
-        'In a serious struggle there is no worse cruelty than to be magnanimous at an inopportune time.',
-        'Leon Trotsky',
+    '47d0a3e4-fafc-58a1-ba09-4a5a6d8bd6b2' => [
+        'I thought \'Moulin Rouge\' was inspirational, and \'Jesus Christ Superstar\' I loved.',
+        'Pierce Brosnan',
     ],
-    '90e7cbec-0a64-52f1-a3bb-9871262d9780' => [
-        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
-        'Charice Pempengco',
+    '2fe56710-79cd-5820-acae-9b8cfb87334a' => [
+        'Hope is not just... out in the sky, or accepting the facts or reality. Hope is having optimistic, positive expectations.',
+        'Craig Sager',
+    ],
+    '10661226-7ec5-5c4d-818e-52d1395c6125' => [
+        'Weve got to have a dream if we are going to make a dream come true.',
+        'Walt Disney',
+    ],
+    '507900dc-5199-5bd9-9d4f-05cba6ff0dc3' => [
+        'We waste time looking for the perfect lover, instead of creating the perfect love.',
+        'Tom Robbins',
+    ],
+    '147ab383-2582-5876-a20a-bc093cb11d4f' => [
+        'Don\'t raise your voice, improve your argument.',
+        'Unknown',
+    ],
+    'eaaf3a92-0d1a-558c-b714-ad9672c5a802' => [
+        'Child labor and poverty are inevitably bound together and if you continue to use the labor of children as the treatment for the social disease of poverty, you will have both poverty and child labor to the end of time.',
+        'Grace Abbott',
+    ],
+    '582b4f8e-44e1-5297-844b-37fbb7a5656f' => [
+        'Love of man for woman - love of woman for man. That\'s the nature, the meaning, the best of life itself.',
+        'Zane Grey',
+    ],
+    'a72141f1-8055-56d1-927b-495de5bc143c' => [
+        'Temporary success can be achieved in spite of lack of other fundamental qualities, but no advancements can be maintained without hard work.',
+        'William Feather',
+    ],
+    'b429801c-b267-5fdb-ae7d-3d87056800a3' => [
+        'A lot of people have their big dreams and get knocked down and don\'t have things go their way. And you never give up hope, and you really just hold on to it. Hard work and perserverance. You just keep getting up and getting up, and then you get that breakthrough.',
+        'Robert Kraft',
+    ],
+    'ec196b77-f5c8-5f2c-80c4-091c1dcc80ec' => [
+        'A good boss makes his men realize they have more ability than they think they have so that they consistently do better work than they thought they could.',
+        'Charles Erwin Wilson',
+    ],
+    '552d96cc-7eec-5a23-b398-4206219a4279' => [
+        'Every performance is different. That\'s the beauty of it.',
+        'Van Morrison',
+    ],
+    '81fcb9ff-5cff-59ed-a3fe-cf82b9d97417' => [
+        'I like guys with a nice smile. I know it\'s cliche, but it\'s so true! I like a guy with a nice smile and nice eyes.',
+        'Rebecca Black',
+    ],
+    'c7865e8e-b780-5d73-9e07-f5f0b2a50b63' => [
+        'When I was little, I didn\'t really travel - from the suburbs to Paris was already a journey. I had a foreigner\'s eye on the city, and I still enjoy that point of view. Then there\'s the fact that one of the things that touches me most is injustice.',
+        'JR',
+    ],
+    '7e97ed13-038f-50f0-98d5-85575c0a7dca' => [
+        'Despite living in this post-9/11 age of transnational terrorism, the risk of death during air travel has plummeted to the point where we now measure it in the \'per billions\' of passengers.',
+        'Thomas P.M. Barnett',
+    ],
+    'c552f37a-5851-50cf-889a-30f81ac12f06' => [
+        'There is no scientific reason to think that we, even with space travel, are going to survive as a species for ever, certainly not by biting off the hand that feeds us, which is exactly what we are doing.',
+        'Lynn Margulis',
+    ],
+    'c7a61a19-1e99-505b-8987-86caa8623236' => [
+        'It is the nature of truth in general, as of some ores in particular, to be richest when most superficial.',
+        'Edgar Allan Poe',
+    ],
+    'b51a1970-8eb3-5953-a75e-2cedaf1f8b1b' => [
+        'If life were predictable it would cease to be life, and be without flavor.',
+        'Jim Henson',
+    ],
+    '7ce9280e-dee5-5237-ac74-03dc00ecaab4' => [
+        'Life is largely a matter of expectation.',
+        'Neil Young',
+    ],
+    'a08b9e20-c88a-5e5e-aa14-54334f90f60f' => [
+        'I am a huge believer in giving back and helping out in the community and the world. Think globally, act locally I suppose. I believe that the measure of a person\'s life is the affect they have on others.',
+        'Laura Ingalls Wilder',
+    ],
+    'd9eacf29-62cf-5430-a805-aa398156da2b' => [
+        'As a goalie, you must stay positive. And if you do make a mistake, well, those things happen when you play my position.',
+        'Henrik Lundqvist',
+    ],
+    '340a158b-3c3e-5357-b21d-396d92f0f920' => [
+        'Success is just being happy. And I try so many different things. I do a lot of different things. Because I think God has helped me to love myself. I know who God is, and I love God.',
+        'Herschel Walker',
+    ],
+    'dc7e8e70-dc33-5a8b-9e7b-96ae5ebe1ad7' => [
+        'Mercedes does beautiful work, absolutely.',
+        'Sebastian Thrun',
+    ],
+    '6f01f575-82f9-5b7b-a0e9-844429fbf4ca' => [
+        'Seventy percent of success in life is showing up.',
+        'Woody Allen',
+    ],
+    '6b4c12d8-30d1-5dbf-aa49-bd26b2faa76f' => [
+        'I am not a great cook, I am not a great artist, but I love art, and I love food, so I am the perfect traveller.',
+        'Michael Palin',
+    ],
+    '3d2b165c-a6a8-5421-8f82-8b9c64a4bf5f' => [
+        'I read everything: fiction, history, science, mathematics, biography, travel.',
+        'Martin Lewis Perl',
+    ],
+    'f41467e0-b307-52ca-98be-d1be27802061' => [
+        'The Democrats are the party that says government will make you smarter, taller, richer, and remove the crabgrass on your lawn. The Republicans are the party that says government doesn\'t work and then they get elected and prove it.',
+        'P. J. O\'Rourke',
+    ],
+    '7cd4c18a-6d00-5b20-a8b6-bc5c45abf4ec' => [
+        'Pick battles big enough to matter, small enough to win.',
+        'Jonathan Kozol',
     ],
 ];

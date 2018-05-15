@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '26785e5f-7460-55b4-92fe-a67c79c9ffad' => [
-        'Establishing lasting peace is the work of education; all politics can do is keep us out of war.',
-        'Maria Montessori',
+    'fa13b8a7-d68f-5c84-8635-00219e5e4d93' => [
+        'Art is about expressing the true nature of the human spirit in whatever way one wishes to express it. If it is honest, it is beautiful. If it is not honest, it is obvious.',
+        'Corin Nemec',
     ],
-    '1a3a2f3b-d559-55d2-b806-a837bb80b21d' => [
-        'Butterflies don\'t know their wings\' Colors, but others see their Splendor.',
-        'Mohith Agadi',
+    'f4926375-acbe-5e42-bfee-a990a04ca61d' => [
+        'Many of life\'s failures are people who did not realize how close they were to success when they gave up.',
+        'Thomas A. Edison',
     ],
-    'b8e65771-c362-5866-8877-5f9069677be9' => [
-        'I\'m very proud of the Rome episode of \'No Reservations\' because it violated all the conventional wisdom about making television. You\'re never, ever supposed to do a food or travel show in black and white.',
-        'Anthony Bourdain',
+    'e639e83f-5a60-596d-9b63-068741a8f551' => [
+        'When I was campaigning, I told the people if nothing happens under my mandate it will still be a positive thing because my mandate will be used as a rupture between the past and the future.',
+        'Michel Martelly',
     ],
-    '5de0e41f-bdb7-5059-8c38-0026651f2d17' => [
-        'An English man does not travel to see English men.',
-        'Laurence Sterne',
+    '069666b0-4cdb-5bd7-a3fc-41767fe099ce' => [
+        'Nearly all monster stories depend for their success on Jack killing the Giant, Beowulf or St. George slaying the Dragon, Harry Potter triumphing over the basilisk. That is their inner grammar, and the whole shape of the story leads towards it.',
+        'A. N. Wilson',
     ],
-    '1ad52c0b-f831-5ad0-89bb-5ce6195c92bb' => [
-        'Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals.',
-        'Jim Rohn',
+    '39bf47ff-7b78-5fc1-99a6-498f2d19cf3c' => [
+        'People worry that gas prices are high and how they are affecting their pocket book. But they want to know about renewable energy. People are really starting to question things, and that\'s made people look to the future in a positive way.',
+        'Michael Franti',
     ],
-    '489fb000-284f-50f7-bec6-2fa4ed1aacd9' => [
-        'All nature wears one universal grin.',
-        'Henry Fielding',
+    '66d0d8e7-8faf-598a-ae61-0f8fc25fb8f7' => [
+        'We become what we think about.',
+        'Earl Nightingale',
     ],
-    '15159fc2-f020-5880-97c1-6c8c542ee506' => [
-        'We are certainly not to relinquish the evidence of experiments for the sake of dreams and vain fictions of our own devising; nor are we to recede from the analogy of Nature, which is wont to be simple and always consonant to itself.',
-        'Isaac Newton',
+    'dbc196b5-a933-5662-92e5-fc622ced8361' => [
+        'To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.',
+        'Tenzin Gyatso',
     ],
-    'c8e8240a-d0fd-5a07-9bc1-076cba428b86' => [
-        'One travels to run away from routine, that dreadful routine that kills all imagination and all our capacity for enthusiasm.',
-        'Ella Maillart',
+    'd6b5d342-f62c-5073-807e-557116060ac5' => [
+        'High Romanticism shows you nature in all its harsh and lovely metamorphoses. Flood, fire and quake fling us back to the primal struggle for survival and reveal our gross dependency on mammoth, still mysterious forces.',
+        'Camille Paglia',
     ],
-    '465014f4-8e70-5e7e-acf6-461f2c3b1766' => [
-        'All my life, I always wanted to be somebody. Now I see that I should have been more specific.',
-        'Jane Wagner',
+    '7bffaa7d-e0b5-5661-98f6-3117d6835510' => [
+        'We live in a country that used to have a can-do attitude, and now we have a \'what-can-you-do-for-me?\' attitude, and what I try to do is find ways that we can develop common ground.',
+        'Ben Carson',
     ],
-    '232a4dbe-be97-5787-8e9e-7e6e8dfab120' => [
-        'Money and success don\'t change people; they merely amplify what is already there.',
-        'Will Smith',
+    '46505a42-43b5-539d-872f-3b179fa18ff3' => [
+        'Christmas is the day that holds all time together.',
+        'Alexander Smith',
     ],
-    'b35901ae-4c42-54c3-87ef-265d85796ead' => [
-        'Whatever you do to gain success, you have to hang in there and hope good things happen. Always think positive.',
-        'Don Rickles',
+    '10cfb14e-5254-5812-aee6-bb04f9086613' => [
+        'You want a friend who\'s going to tell you the truth. That\'s what it\'s about. If you don\'t have a friend who\'s going to tell you the truth every time something comes up, you feel like he\'s not a true friend.',
+        'Donald Driver',
     ],
-    '4caa8a83-fee5-5e95-a705-6764ae369a76' => [
-        'More than 90 percent of what Planned Parenthood does nationally is preventive care - including cervical cancer screenings, breast cancer screenings, and family planning - mostly for women with low resources and income below the poverty line.',
-        'Gene Green',
+    '22a9476a-b993-5fce-be33-01f84e35dbcd' => [
+        'We are time\'s subjects, and time bids be gone.',
+        'William Shakespeare',
     ],
-    'bc6f9194-09eb-565a-b273-6a2ea056a810' => [
-        'Tell me, why is the media here so negative? Why are we in India so embarrassed to recognise our own strengths, our achievements? We are such a great nation. We have so many amazing success stories but we refuse to acknowledge them. Why?',
+    '5a7eb8fd-bbf3-5535-93e1-f3839166bcb9' => [
+        'After the success of \'August,\' there were people saying I should change my life. And maybe I should have bought a yacht and traveled the world instead of returning to Steppenwolf to act in and write plays. But I\'m from the Midwest, and that\'s what we do: We go back to work.',
+        'Tracy Letts',
+    ],
+    '84dbddbe-3fd2-5f54-83c0-b36624f977c7' => [
+        'I think people are so immersed in the anti-Scientology mindset by consuming tabloid media and stories about space aliens. It\'s baffling. When I say I want to see a more positive side of the church, all I\'m saying is I want to get past these headlines that talk about aliens and Tom Cruise jumping on a sofa.',
+        'Louis Theroux',
+    ],
+    'd2118992-0c09-58fe-b50d-428b021fee7d' => [
+        'I firmly believe that unless one has tasted the bitter pill of failure, one cannot aspire enough for success.',
         'A. P. J. Abdul Kalam',
     ],
-    '426d07a9-4e9d-520c-9de7-f1cfc1ef5aea' => [
-        'Life is a DNA software system.',
-        'Mike Yaconelli',
+    'ce249ec0-270d-59be-a48b-7021fff817b5' => [
+        'Accidents happen, whether they\'re car accidents, friendly fire, drug overdoses. Accidents happen, and they\'re tragic. It\'s like a bomb that goes off and pieces of shrapnel rip into the flesh of the family. It\'s the families that need the compassion, because everywhere they walk, every day, someone reminds them of their loss.',
+        'James Belushi',
     ],
-    '9f735d33-7155-5653-99fe-ecc0bca2dc62' => [
-        'No matter the bad things that happened in past time, let\'s try to live the best we can now.',
-        'Ziggy Marley',
+    '33106137-28e5-53b5-828e-9f83220b62ec' => [
+        'There are always flowers for those who want to see them.',
+        'Henri Matisse',
     ],
-    '6fdc13cc-7644-53e7-ba75-07a4f022ee8a' => [
-        'The only people for me are the mad ones: the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who... burn, burn, burn like fabulous yellow Roman candles.',
-        'Jack Kerouac',
+    'fc4c2ded-1cb5-5f50-b732-de13f3defb88' => [
+        'Books are challenging and inspirational to me.',
+        'Amy Sedaris',
     ],
-    'fe215f31-620b-52fd-b08a-a8a4d3076500' => [
-        'But the funny thing is, I broke my finger not on set doing kung fu. I broke my finger when I fell down the stairs prior to going on set.',
-        'Jaime King',
+    '8c36a8c2-a294-542d-b48e-f6e923028ffb' => [
+        'You can make positive deposits in your own economy every day by reading and listening to powerful, positive, life-changing content and by associating with encouraging and hope-building people.',
+        'Zig Ziglar',
     ],
-    'b02a4333-5a66-50c6-81b6-e4f8e6f98e74' => [
-        'One of the luckiest things that can happen to you in life is, I think, to have a happy childhood.',
-        'Michael Korda',
+    '60a9ee27-67ce-5d6f-bc71-fd72a50f2b1a' => [
+        "Ten years from now, make sure you can say that you chose your life, you didn\u{92}t settle for it.",
+        'Mandy Hale',
     ],
-    'b4da28b1-a106-5218-b70a-f44b3f5e30ef' => [
-        'I have a few go-to moves like jazz hands, shake the booty, stupid eyes. It was once a mating ritual, but now it\'s all about looking silly and making the kids smile.',
-        'John Cho',
+    '76e2d919-9a04-5241-99c2-0e26f5dd9b3a' => [
+        'The travel book is a convenient metaphor for life, with its optimistic beginning or departure, its determined striving, and its reflective conclusion. Journeys change travellers just as a good travel book can change readers.',
+        'Rory MacLean',
     ],
-    'bf413cac-a97a-55be-ad8c-46922b29ab85' => [
-        'The music I was really listening to in 1968 was James Brown, the great guitar player Jimi Hendrix, and a new group... Sly and the Family Stone, led by Sly Stewart from San Francisco.',
-        'Miles Davis',
+    '5b1ee02a-86ae-591f-bb5d-4fbc467d637a' => [
+        'It\'s very strange to go to cities like London and New York. People walk so quickly, they seem to be in a hurry all the time. And you don\'t say \'Hi\' to everyone you meet, and you don\'t smile to everyone you meet, because there\'s just so many. Which is also very strange.',
+        'Aurora',
     ],
-    'ae9154d4-016c-5aa9-b708-2e0455c6f9fc' => [
-        'My cheeks explode when I smile. That\'s why I have to look so nonplussed.',
-        'Rufus Wainwright',
+    'a7d48505-9f27-5b4b-9d2d-29fca115e6f6' => [
+        'I hate going to L.A. and dealing with the contempt people have for television and television actors. It\'s unbelievable the kind of attitude people take toward what is the most exciting medium we\'ve got right now.',
+        'Michael Moriarty',
     ],
-    'ed511d1e-0aae-5327-a427-140bfd899fe5' => [
-        'If you\'re going to tell people the truth, be funny or they\'ll kill you.',
-        'Billy Wilder',
+    '8b9c9c73-40ab-56be-a73e-e8e29dec6921' => [
+        'My eyes are different sizes, my nose is too broad at the bridge and squishes up when I laugh, and my lips are sorta funny when I smile.',
+        'Terry Farrell',
     ],
-    'ee2aa6ab-630e-5fa0-90d1-95fd8f13e2a2' => [
-        'I grew up playing hockey and some football, and I always think about the first time you walk into the locker room on a new team. The cliques are looking at you funny, and you make one friend, but then they\'re trying to stab you in the back.',
-        'Aaron Douglas',
+    '17b530ff-82c3-5e3e-a610-bcb6d939b899' => [
+        'In matters of conscience, first thoughts are best. In matters of prudence, last thoughts are best.',
+        'Robert Hall',
     ],
-    '327c6c97-9567-5eda-8f54-e93fc0b8428a' => [
-        'Everything in nature has its own intrinsic charm, as the work of its Creator\'s hand; but the chief beauty of the whole lies in its suggested relations to humanity. Things announce and wait for persons. The house would not have been thus beautifully built and furnished, except for an expected tenant.',
-        'Lucy Larcom',
+    '878a4948-b3c2-5ae3-b514-fab69ebeec62' => [
+        'To live is to think.',
+        'David Mixner',
     ],
-    '2f1e9c6c-ed3c-5c9b-85ff-e544c3db1ef4' => [
-        'We learn what we have said from those who listen to our speaking.',
-        'Kenneth Patton',
+    '1b62bcfb-8be5-5bc1-81da-f92a79d0c300' => [
+        'Know, first, who you are, and then adorn yourself accordingly.',
+        'Epictetus',
+    ],
+    '5f512206-fd0f-5163-b8bb-2b48fd643616' => [
+        'You can assume that the leaf you see let go of a branch and fall towards the ground has never been considered by any being but yourself. Catch it in your hand - or, even better, keep walking until one falls into your reach naturally - and it will have spent its whole time on the planet without ever touching the ground, only because of you.',
+        'Eliot Schrefer',
+    ],
+    'd4198aae-77dd-5fe3-993e-0871e24cfacc' => [
+        'People grow when they are loved well. If you want to help others heal, love them without an agenda.',
+        'Mike McHargue',
+    ],
+    '4f7c2f67-8182-5348-8f2b-9e05b6db96e6' => [
+        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
+        'Peter Diamandis',
+    ],
+    '3e69af3a-91e9-5847-8d98-08f332c9432f' => [
+        'Take stock of your thoughts and behavior. Each night ask yourself, when were you negative when you could have been positive? When did you withhold love when you might have given it? When did you play a neurotic game instead of behaving in a powerful way? Use this process to self-correct.',
+        'Marianne Williamson',
+    ],
+    '70ad30c6-5c0e-5ed7-80f1-8c2b4a89a2df' => [
+        'A game one of my sisters will play with me in my first year of being alive is called Good Baby, Bad Baby. This consists of being told I am a good baby until I smile and laugh, then being told I am a bad baby until I burst into tears. This training will stand me in good stead all through my life.',
+        'Ali Smith',
+    ],
+    '1a6d8f7f-53b3-5f9a-ad7a-856e5955076b' => [
+        'I distrust camels, and anyone else who can go a week without a drink.',
+        'Joe E. Lewis',
+    ],
+    'b5797387-4bf3-5edc-b5cd-2c6c95d42aea' => [
+        'You only lose what you cling to.',
+        'Buddha',
+    ],
+    'de1768d0-6b43-5269-9755-d8725013a845' => [
+        'STAR TREK is a show that had a vision about a future that was positive.',
+        'George Takei',
+    ],
+    '17174a9f-2cda-5d02-918f-3102f2ba13f1' => [
+        'I feel very good and positive about my future. I look forward to seeing the fans and doing what I do.',
+        'Randy Owen',
+    ],
+    'f3042d1b-327a-55f3-b049-1999d11d496b' => [
+        'Human nature is potentially aggressive and destructive and potentially orderly and constructive.',
+        'Margaret Mead',
+    ],
+    '0187e660-9f6d-5315-8d6a-aaf3b09870fd' => [
+        'He looks as though he\'s been weaned on a pickle.',
+        'Alice Roosevelt Longworth',
+    ],
+    '7803a3eb-b2a1-5650-9042-0f2ce778682d' => [
+        'Doing Shakespeare once is not fair to the play. I have been in Shakespeare plays when it\'s not until the last two or three performances when I even understand certain things. In the old days star actors would travel the world doing the same parts over and over again.',
+        'Al Pacino',
+    ],
+    'dfa99644-4158-55ad-acbe-9da63167fa99' => [
+        'Defeat is not the worst of failures. Not to have tried is the true failure.',
+        'George Edward Woodberry',
+    ],
+    '66235ae6-26a2-5388-811d-7c2f8cc4d38f' => [
+        'The reason most of the children are having problems in any inner-city neighborhood is because they don\'t see enough positive role models in their own environment.',
+        'Marla Gibbs',
+    ],
+    'a51ddc5a-7717-5cc5-81a1-6192aab2d0a7' => [
+        'Family and moral values are so central to everything that I am.',
+        'Marian Wright Edelman',
+    ],
+    'a211653c-b411-56c4-a55e-58d4b31f9a25' => [
+        'The day is already blessed, find peace within it.',
+        'Unknown',
+    ],
+    '8e21cf2a-af32-5812-9daa-bc56fc29f4dc' => [
+        'A mode of conduct, a standard of courage, discipline, fortitude and integrity can do a great deal to make a woman beautiful.',
+        'Jacqueline Bisset',
+    ],
+    'f0fbd035-7ed2-5f80-bff2-5298c1107187' => [
+        'Strength does not come from physical capacity. It comes from an indomitable will.',
+        'Mahatma Gandhi',
+    ],
+    '7d05bb3b-9c1a-5853-b222-844f42b555e6' => [
+        'I do not share the half-in, half-out attitude to the EU of some in Britain. Britain\'s place is in Europe.',
+        'Peter Mandelson',
+    ],
+    'd677fc37-2dc4-5b9c-aa9b-72173fda50ba' => [
+        'Every day brings new choices.',
+        'Martha Beck',
+    ],
+    '4b24bb13-f39e-5dbc-b830-f513e07d845c' => [
+        'Success is nothing more than a few simple disciplines, practiced every day.',
+        'Jim Rohn',
+    ],
+    '8432d9b0-548a-5d1b-9d9e-39e9e8941da6' => [
+        'The best teacher is experience learned from failures.',
+        'Byron Pulsifer',
+    ],
+    '781661b1-7c01-53e8-a9dd-a9bbfbc4b2f8' => [
+        'If a person can be said to have the wrong attitude, there is no need to pay attention to his arguments.',
+        'John McCarthy',
     ],
 ];

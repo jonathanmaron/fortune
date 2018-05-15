@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'e2bbf545-07fe-5834-b090-ce26ce678b0c' => [
-        'What makes photography a strange invention is that its primary raw materials are light and time.',
-        'John Berger',
+    '94d6e3cd-16c4-5fc3-8481-55109f6e8d90' => [
+        'The fame that goes with wealth and beauty is fleeting and fragile; intellectual superiority is a possession glorious and eternal.',
+        'Sallust',
     ],
-    '69c30cd3-3eaa-558c-9c66-4bc057037a2e' => [
-        'If you want to achieve your dreams, you must follow them, and the best way to follow them is not to think about wanting to be very rich, but to think about doing something that you really want to do.',
-        'Jackie Collins',
+    'a30ca387-724c-5af3-a2d2-2b66b0594d13' => [
+        'My dad has an incredible passion for living life, and he\'s really, really funny, so he definitely encourages me to enjoy all aspects of life. He\'s very proud of me and definitely encourages my career path, and we have a good time talking about work.',
+        'Spencer Grammer',
     ],
-    'c6f39874-6d88-52a2-bdac-38b39728a7cd' => [
-        'I\'m so glad cities have personalities, just like people have personalities. That\'s something that makes me smile.',
-        'Fred Armisen',
+    'fca4db9e-0f81-5cfe-8773-a91db43172aa' => [
+        'For me, Dracula has always been associated with travel and beautiful historical places.',
+        'Elizabeth Kostova',
     ],
-    '2a6e0a5d-219b-5495-a980-ab6f5708dc9a' => [
-        'I cannot say that the attitude of the United Nations always is for the Israeli attitude. Israel, I think, has been under severe attacks by members of the United Nations many times.',
-        'Ariel Sharon',
+    'ceb0e0a6-fb4c-5635-bce7-4044579a511c' => [
+        'I liked painting and drawing, and I liked humanities mainly - poetry, literature - this speculative attitude toward life.',
+        'Rafael Moneo',
     ],
-    '342a5fde-6958-5bb6-99b9-731eb217c544' => [
+    '20178f26-ad93-5f8c-b98a-b02d73e8e445' => [
+        'You know, I think the greatest gift in the world is a good employee, you know, or people who can do your work for you and do it well the way you\'d like to have it done. And I\'ve always been able to surround myself with really good people.',
+        'Kenny Rogers',
+    ],
+    '0eb1219c-7838-58c5-9ff9-ff5349fe230b' => [
+        'I have long been a supporter of the Head Start program because each and every year I witness the dramatic positive impact that early intervention services have on children\'s lives in my congressional district.',
+        'Lucille Roybal-Allard',
+    ],
+    '98944bb9-23a8-58b0-a277-eb2096474443' => [
+        'Do your damnedest in an ostentatious manner all the time.',
+        'George S. Patton',
+    ],
+    'd82ec6fb-a33d-5559-a910-9a8c599281bf' => [
+        'I don\'t believe people are looking for the meaning of life as much as they are looking for the experience of being alive.',
+        'Marcus Aurelius',
+    ],
+    '8765cb12-e195-55b4-a033-b46f75c80392' => [
+        'Be better than you were yesterday.',
+        'Unknown',
+    ],
+    'e1f18336-b02e-57d3-97f6-1ff131796fd6' => [
+        'I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn\'t enough. I was exploding inside.',
+        'Ingrid Bergman',
+    ],
+    '1b7fe7c9-e6b5-5cbd-9baa-1c63dd4431eb' => [
+        'One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.',
+        'Unknown',
+    ],
+    '44689189-7c60-5622-a121-9f7a6c79034a' => [
+        'The world\'s biggest power is the youth and beauty of a woman.',
+        'Chanakya',
+    ],
+    '5f8b356e-0c4b-53fa-b3b6-8ec820e8b6b5' => [
+        'Contrary to popular mythology, the best and most durable relationships are based not on vulnerability or passion but on a conjugation of positive attributes, a meeting of mind, body and soul that is all the more powerful as it is not weighed down with neediness and unreasonable expectation.',
+        'Mariella Frostrup',
+    ],
+    'adce0c4b-a7a7-5310-9c28-915480999bb9' => [
+        'I like England more than I did when I left. It\'s become a bit of a better country in the last ten years, in the attitude of it. A bit more Americanized, which is both good and bad. At least when you order a cup of coffee they don\'t give you a hard time.',
+        'Teddy Thompson',
+    ],
+    'ad6dc9d7-497f-5c0e-9018-01997ea87124' => [
+        'If it\'s your job to eat a frog, it\'s best to do it first thing in the morning. And If it\'s your job to eat two frogs, it\'s best to eat the biggest one first.',
+        'Mark Twain',
+    ],
+    '4b28f091-6203-5bc7-836e-ef80fa0bec21' => [
+        'I love Snoop. I worked with him on \'Old School,\' and he\'s very accessible. He\'s very kind. He\'s always nice to everyone, to the crew. He\'s always got something positive to say. He\'s very childlike and loves to come and play. So, I had fun working with him.',
+        'Vince Vaughn',
+    ],
+    '17e5dbb3-9b9f-5338-bd91-f64e086b0f81' => [
+        'Dreams have only one owner at a time. That\'s why dreamers are lonely.',
+        'Erma Bombeck',
+    ],
+    '75178312-307f-5c26-a1ea-77f1e721ed4e' => [
         'Nature provides exceptions to every rule.',
         'Margaret Fuller',
     ],
-    '3182422c-1e93-5703-b499-27fbc4205a1d' => [
-        'Every day of my life I walk with the idea that I am black, no matter how successful I am. And our success is tempered by that; you\'re successful in this way given the fact you are black, and most blacks don\'t get to that point.',
-        'Danny Glover',
+    '61e81bfd-e93d-55a4-bf73-a4fd74d4f385' => [
+        'I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than You, and keep doing what you love. Do what you love, and you will find the way to get it out to the world.',
+        'Judy Collins',
     ],
-    '471f4f50-7f8c-53d0-bc88-91ed47cb2f06' => [
-        'Don\'t be afraid of failure; be afraid of petty success.',
-        'Maude Adams',
+    'be04fe70-9ada-54b6-9a28-782e3acfc1d8' => [
+        'I love those who can smile in trouble, who can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but they whose heart is firm, and whose conscience approves their conduct, will pursue their principles unto death.',
+        'Leonardo da Vinci',
     ],
-    'c82df96b-3843-53c3-a606-2d58f8dbc4b5' => [
-        'As winter approaches - bringing cold weather and family drama - we crave page-turners, books made for long nights and tryptophan-induced sloth.',
-        'Sarah MacLean',
+    'a9790390-cac2-5af0-9b87-0084263df625' => [
+        'I like the cold weather. It means you get work done.',
+        'Noam Chomsky',
     ],
-    '86567bac-8636-53d6-9d82-276aec42a4bb' => [
-        'Excellence is not a skill. It is an attitude.',
-        'Ralph Marston',
+    '32f83184-ddbb-5931-9b68-c024d012bfa4' => [
+        'I travel around the world constantly promoting my projects and endorsing products. Yes, I do get paid to go to parties; in fact, I\'m the person who started the whole trend of paid appearances. But when you see me at a party, I\'m always working or promoting something.',
+        'Paris Hilton',
     ],
-    '9065b4c0-53ad-5dc4-a98e-c50e76795b40' => [
-        'Going to the woods is going home, for I suppose we came from the woods originally. But in some of nature\'s forests, the adventurous traveler seems a feeble, unwelcome creature; wild beasts and the weather trying to kill him, the rank, tangled vegetation, armed with spears and stinging needles, barring his way and making life a hard struggle.',
-        'John Muir',
+    'e28ab997-9009-5457-a20a-492095ef72c5' => [
+        'However things may seem, no evil thing is success and no good thing is failure.',
+        'Henry Wadsworth Longfellow',
     ],
-    '664ecf02-2b0b-5d89-a5a4-254988244645' => [
-        'When I was a kid, no one would believe anything positive that you could say about black people. That\'s a terrible burden.',
-        'Kareem Abdul-Jabbar',
+    '7ac56940-a2ef-5f83-a9e3-c09beddb4372' => [
+        'I am humbled and excited by new opportunities for me to support and share the amazing work NASA is doing to help us travel farther into the solar system and work with the next generation of science and technology leaders.',
+        'Scott Kelly',
     ],
-    '327e21d6-0dde-5e41-9a09-a3ff7f8b8022' => [
-        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
-        'Elmer Bernstein',
+    '7b1425e4-8d4d-5a0a-a207-02738110f5bb' => [
+        'I\'m on JetBlue and United. So I spend a lot of time on airplanes with other people and in terminals or just traveling around and going to restaurants or whatever. The interaction I get on a daily basis is always positive. I\'ve never had a negative interaction.',
+        'Lance Armstrong',
     ],
-    'e0c29491-7f9c-573d-9cdb-7f3f06bbd4b7' => [
-        'When I take my kids out for dinner or lunch, people smile at us.',
-        'Louis C. K.',
+    '5aa5e55f-c198-58e6-bb6e-5a296e1b1dd0' => [
+        'Whatever the universal nature assigns to any man at any time is for the good of that man at that time.',
+        'Marcus Aurelius',
     ],
-    '7f70c1e6-8d00-53f9-8e4a-3e50b0941a45' => [
-        'Nature hath framed strange fellows in her time.',
-        'William Shakespeare',
+    '5849d170-7bb0-5619-898f-a984356f9c73' => [
+        'I firmly believe that success lies in the combination of both talent and business savvy, and that the magic comes through partnership between both.',
+        'Delphine Arnault',
     ],
-    '55f3b4dd-887a-50ba-b1d1-fa3a9f5274b8' => [
-        'Life leaps like a geyser for those who drill through the rock of inertia.',
-        'Kanye West',
+    '9a885944-db7d-5743-9e41-cc225522657b' => [
+        'I like the opportunity to travel the world and work in close company with other people.',
+        'Marc Garneau',
     ],
-    '389939cb-d224-5312-8f11-bb20fb84ac86' => [
-        'Courage is going from failure to failure without losing enthusiasm.',
-        'Winston Churchill',
+    '0f8bea21-aba3-5e2d-af18-c7e6cd5fc9f8' => [
+        'The battle of life is, in most cases, fought uphill; and to win it without a struggle were perhaps to win it without honor. If there were no difficulties there would be no success; if there were nothing to struggle for, there would be nothing to be achieved.',
+        'Samuel Smiles',
     ],
-    'e722ded4-97e1-5a72-8397-c776f49fbabc' => [
-        'I think Nina Simone has had an amazing journey. She was spicy and she had attitude and she didn\'t care, she wanted her money in a paper bag and don\'t mess with me and I\'ve been doing some research on that so.',
-        'Nia Long',
+    '2c958ffc-4093-5b23-8c98-a8514b3420f2' => [
+        'I think Spain will always remain inspirational, and I think French cuisine will continue to be very French and yet very relevant with its time and keep evolving. But the last thing you want for it is to become too trendy and confusing. It has too much history.',
+        'Daniel Boulud',
     ],
-    'a0e5e5e9-4573-5fe4-adf5-ed2f92ff6397' => [
-        'Quality is pride of workmanship.',
-        'W. Edwards Deming',
+    '2044a610-1190-5da7-ab27-c4a5a7a7768e' => [
+        'I like to be lazy. I do like to be busy and really active, but when that\'s done, you can be sure I will be a lazy boy. I like to take time and relax and enjoy life.',
+        'Olivier Theyskens',
     ],
-    '93078825-c1f2-5bb2-b9ea-f102e52eacc1' => [
-        'The human soul is hungry for beauty; we seek it everywhere - in landscape, music, art, clothes, furniture, gardening, companionship, love, religion, and in ourselves. No one would desire not to be beautiful. When we experience the beautiful, there is a sense of homecoming.',
-        'John O\'Donohue',
+    'b646c1fe-0d38-5d5b-8c24-998f943f5b16' => [
+        'Part of the punk attitude was that you should project your music through your whole body... show your personality as much as possible.',
+        'Billy Idol',
     ],
-    '32f61052-96c7-5951-b364-e1e0b69c0eba' => [
-        'The best doctors in the world are Doctor Diet, Doctor Quiet, and Doctor Merryman.',
-        'Jonathan Swift',
+    'fe671592-6a8e-5755-88d2-bad037d97af5' => [
+        'Weekends are sacred for me. They\'re the perfect time to relax and spend time with family and friends.',
+        'Marcus Samuelsson',
     ],
-    '74ad51b6-ed45-5f92-bb93-0126096de6bf' => [
-        'Work is that which you dislike doing but perform for the sake of external rewards. At school, this takes the form of grades. In society, it means money, status, privilege.',
-        'Abraham Maslow',
+    '571f9c8d-1f1d-5fd1-8b9e-1f282410d757' => [
+        'Be positive and laugh at everything.',
+        'Alexandra Roach',
     ],
-    'c9caaca6-ab48-532e-adb0-d1f680c22ff2' => [
-        'A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man.',
-        'Lana Turner',
+    'cba59cff-bf27-508d-a6d9-faf04319158b' => [
+        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
+        'Kurt Cobain',
     ],
-    '74057482-2825-5759-9cd4-42e4ed98850d' => [
-        'The simple act of paying positive attention to people has a great deal to do with productivity.',
-        'Tom Peters',
+    'b74a1329-e7a6-5c9c-8a79-794e112f5abd' => [
+        'You\'ve got to be success minded. You\'ve got to feel that things are coming your way when you\'re out selling; otherwise, you won\'t be able to sell anything.',
+        'Benjamin Jowett',
     ],
-    'f7097cf0-8967-53f5-819e-c90b9d316436' => [
-        'If interstellar travel is as time- or energy- demanding as the above figures indicate, it is far from obvious what the motive for colonization might be.',
-        'Barney Oliver',
+    'd5516feb-011c-5641-a57c-f97212b202a3' => [
+        'Things turn out best for those who make the best of the way things turn out.',
+        'Jack Buck',
     ],
-    '30ea91e1-14a4-5205-b9e9-29515b09301c' => [
-        'I can and I will. Watch me.',
-        'Anonymous',
+    'c4890e26-d33e-52d9-b0b9-f34f8dd58c21' => [
+        'Do the best you can, and don\'t take life too serious.',
+        'Rumi',
+    ],
+    'a0c86655-b5c8-5ef1-81e2-8fb03d7741a4' => [
+        'Excellence can be obtained if you care more than others think is wise, risk more than others think is safe, dream more than others think is practical, expect more than others think is possible.',
+        'Unknown',
+    ],
+    'df209be4-63c6-5ff0-a2eb-521e5162680d' => [
+        'When you are developing your style, you avoid weaknesses. I am not good at describing things, so I stay away from it. And if anyone is going to describe anything at all, it\'s going to be from the point of view of the character, because then I can use his voice, and his attitude will be revealed in the way he describes what he sees.',
+        'Elmore Leonard',
+    ],
+    '69a4c7df-0a2b-541a-84f8-412f95b15777' => [
+        'One out of every 100 American men is HIV positive. The rate of infection has reached epidemic proportions in 40 developing nations.',
+        'Philip Emeagwali',
+    ],
+    '5743a186-32d1-545e-bcde-8bc6c7ba0400' => [
+        'I grew up playing music and enjoying good food, friends and family in my own backyard.',
+        'Rodney Atkins',
+    ],
+    'b0400e31-2350-5f3f-9efa-1b1a2e2950c6' => [
+        'I always travel with my guitar. I take it myself - with me in my hand. I don\'t like to send it by cargo because it\'s dangerous. There is no way I would do that.',
+        'Juanes',
+    ],
+    'a468748e-4d26-571e-b949-83e8102d2640' => [
+        'I think all of us certainly believed the statistics which said that probably 88% chance of mission success and maybe 96% chance of survival. And we were willing to take those odds.',
+        'Alan Shepard',
+    ],
+    '229719ec-9103-5a62-8020-4a774fb38fdc' => [
+        'I always feel like it\'s two key ingredients when it comes to following your dreams, making something happen that the average person deems difficult. If you truly believe it, that\'s step one. Step two, is, you know, the hard work that goes along with it.',
+        'J. Cole',
+    ],
+    'f511d52b-bf9e-5b16-833d-b0d375bb1769' => [
+        'Feelings aroused by the touch of someone\'s hand, the sound of music, the smell of a flower, a beautiful sunset, a work of art, love, laughter, hope and faith - all work on both the unconscious and the conscious aspects of the self, and they have physiological consequences as well.',
+        'Bernie Siegel',
+    ],
+    'ad4c1e81-a789-50c6-a4af-90efc7db9da6' => [
+        'The overall view of the human genome project has been one of great excitement and positive press, but there are people who have concerns that are quite reasonable, and they are frightened of things they don\'t understand.',
+        'Thomas R. Cech',
+    ],
+    '4100ad79-dc36-5013-b5a7-6182145624ef' => [
+        'I can\'t believe the pro-choicers attitude toward unborn children-to me it\'s the ultimate liberal cause, to defend those without a voice.',
+        'Michael Aston',
+    ],
+    '4885d3af-31cc-5940-9f3f-6180c87d9f7a' => [
+        'That\'s a central part of philosophy, of ethics. What do I owe to strangers? What do I owe to my family? What is it to live a good life? Those are questions which we face as individuals.',
+        'Peter Singer',
+    ],
+    '5ddcf91c-1ee1-51b2-8a4b-e250ce592b1f' => [
+        'At the end of the day, you are solely responsible for your success and your failure. And the sooner you realize that, you accept that, and integrate that into your work ethic, you will start being successful. As long as you blame others for the reason you aren\'t where you want to be, you will always be a failure.',
+        'Erin Cummings',
     ],
 ];

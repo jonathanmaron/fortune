@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '93401ad8-9f9c-55d0-bc96-40b52309b790' => [
-        'No garden is without its weeds.',
-        'Thomas Fuller',
+    '19720b99-7e1b-52f7-a169-d4d523dd3738' => [
+        'I consider myself someone who takes a lot of beauty risks, and I\'ve realized what I liar I am. I change my hair a lot, from blue to blonde to bald, but I\'m trying to branch out a little more with makeup.',
+        'Halsey',
     ],
-    'cb942035-3ae6-5d95-9f6d-a8d203a04cb6' => [
-        'Every corny thing that\'s said about living with nature - being in harmony with the earth, feeling the cycle of the seasons - happens to be true.',
-        'Susan Orlean',
+    'f2c9c94e-79e6-57d2-990f-0fba8c45f060' => [
+        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
+        'Elmer Bernstein',
     ],
-    'c02f303a-23c7-5da4-8b30-505131897e14' => [
-        'Only put off until tomorrow what you are willing to die having left undone.',
-        'Pablo Picasso',
+    '1979981c-23ef-5d21-aee3-4c3b6f99715b' => [
+        'It is true that the aristocracies seem to have abused their monopoly of legal knowledge; and at all events their exclusive possession of the law was a formidable impediment to the success of those popular movements which began to be universal in the western world.',
+        'Henry James Sumner Maine',
     ],
-    '7491d4df-665f-5e20-9fcd-758c6b0e43f8' => [
-        'What I look for in a role is the physical. But what\'s the journey emotionally? Can I take this person who is this archetypal tough guy and find the beauty?',
-        'Frank Grillo',
+    '415eca1a-ed81-5459-afdc-677b5d5820cd' => [
+        'My duty is to try to reach beauty. Cinema is emotion. When you laugh you cry.',
+        'Roberto Benigni',
     ],
-    '49dd6e0d-3ca7-5bdd-ab12-e7cffc576a93' => [
-        'He who is not courageous enough to take risks will accomplish nothing in life.',
-        'Joan of Arc',
+    '13533574-d137-51db-a1ff-bba7ff43ce9b' => [
+        'In this world, with thy earthly life, thou art under heaven, stars, and elements, also under hell and devils; all ruleth in thee, and over thee.',
+        'Tiger Woods',
     ],
-    'a5c647fc-a0b7-56f4-96ee-a32ea3157ed1' => [
-        'The past does not equal the future.',
-        'Anthony Robbins',
+    '734f4fe3-fa6d-58b8-9a45-c3a7b420185d' => [
+        'When a moment in front of me appears to be particularly special, whether it be by beauty or experience, I capture it. I usually find a reason to justify taking that photo - symmetry, or color, or contrast - and it\'s my hope that my photography sheds light onto what I see and do on a daily basis.',
+        'Connor Franta',
     ],
-    '4c11684a-acde-5ca9-858b-9e33afd6608c' => [
-        'Life is full of happiness and tears; be strong and have faith.',
-        'Arthur Ashe',
+    'fc6be27c-fcbb-5797-acd4-b8abbc1067fd' => [
+        'Always bear in mind that your own resolution to succeed is more important than any one thing.',
+        'Abraham Lincoln',
     ],
-    'ef5d1626-17aa-516a-a0b4-7081c9c2b563' => [
-        'You don\'t look out there for God, something in the sky, you look in you.',
-        'Alan Watts',
+    '50ff977f-0146-5e69-ad24-106ca8b80568' => [
+        'The undertaking of a new action brings new strength.',
+        'Richard L. Evans',
     ],
-    'dafa67f1-d10b-56cc-a07b-e089c46dc540' => [
-        'Very little is needed to make a happy life; it is all within yourself, in your way of thinking.',
-        'Aristotle',
+    '677f3440-7094-501e-bc3c-b1efad348bbe' => [
+        'I\'ve learned that I can\'t have a packed work schedule and a packed social schedule and a packed personal life; I need to just have time to myself to sit and breathe and unwind.',
+        'Kim Cattrall',
     ],
-    'ef740481-f069-563c-a816-c31df652f374' => [
-        'Mathematics are the result of mysterious powers which no one understands, and which the unconscious recognition of beauty must play an important part. Out of an infinity of designs a mathematician chooses one pattern for beauty\'s sake and pulls it down to earth.',
-        'Marston Morse',
+    '7d4c448d-6d93-5a38-90bf-c84adb0f81a6' => [
+        'As I travel around Idaho and visit with seniors, I hear almost universal concern about the rising cost of health care, particularly the cost of prescription drugs.',
+        'Michael K. Simpson',
     ],
-    'ab2a4b4b-7a0a-5eef-8f8a-f134e68a8995' => [
-        'My mother is very funny. She is from a village; she has a typical village kind of humour. Often she says a lot of things she herself isn\'t aware is a punch line.',
-        'Kapil Sharma',
+    '48c187bc-ec63-5cc5-87f0-c38a6036a769' => [
+        'Nothing exists except atoms and empty space; everything else is just opinion.',
+        'Democritus',
     ],
-    'ab664583-5724-5fb4-b50f-b31fa171c7b2' => [
-        'Perhaps nature is our best assurance of immortality.',
-        'Eleanor Roosevelt',
+    'b212c5df-1a60-52e9-821c-8bc936a2d1e0' => [
+        'When you stop chasing the wrong things, you give the right things a chance to catch you.',
+        'Lolly Daskal',
     ],
-    '6c5bc621-fd55-552e-bdb0-ee9c1b91aaf1' => [
-        'A life is not important except in the impact it has on other lives.',
-        'Oliver Goldsmith',
+    '62f783f4-d27b-5208-83de-d6a23e032909' => [
+        'Nature uses human imagination to lift her work of creation to even higher levels.',
+        'Luigi Pirandello',
     ],
-    'fd286d3d-89cd-5b8d-88b4-661b8f8318e1' => [
-        'Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.',
-        'Paavo Nurmi',
+    'e6a84181-547d-5526-a28b-ccc3c78f7a92' => [
+        'You just hope that you will get the opportunity to do what you love and pay your bills, and that is being a success as an actor.',
+        'Debra Messing',
     ],
-    '2be6f33b-414a-50c7-8946-946f97c15a52' => [
-        'When it is obvious that the goals cannot be reached, don\'t adjust the goals, adjust the action steps.',
-        'Confucius',
+    '6e6df69a-29c0-5194-92f8-e36c57532ab7' => [
+        'Many individuals are doing what they can. But real success can only come if there is a change in our societies and in our economics and in our politics.',
+        'David Attenborough',
     ],
-    '16622bed-bc46-5802-8ec2-22f52756e8e1' => [
-        'The day I made that statement, about the inventing the internet, I was tired because I\'d been up all night inventing the Camcorder.',
-        'Al Gore',
+    'd74cb28b-a027-5afa-9be7-3a3c076d0a2e' => [
+        'If you don\'t build your dream someone will hire you to help build theirs.',
+        'Tony A. Gaskins Jr.',
     ],
-    '765d0690-6e45-5afa-805c-4571f98e7e4d' => [
-        'Developing a good work ethic is key. Apply yourself at whatever you do, whether you\'re a janitor or taking your first summer job, because that work ethic will be reflected in everything you do in life.',
-        'Tyler Perry',
+    '6d7f75ae-d83d-56e4-9c27-028e2690330c' => [
+        'Success follows those adept at preserving the substance of the past by clothing it in the forms of the future.',
+        'Dee Hock',
     ],
-    'd148fba8-2cf1-5f01-89bc-e8e3881bb065' => [
-        'Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.',
-        'Richard Needham',
+    'c7136fa4-a630-50f4-92ee-c7e92728253a' => [
+        'No one can arrive from being talented alone, work transforms talent into genius.',
+        'Anna Pavlova',
     ],
-    '5bee042f-50d7-58d3-8aa4-afd84394ac2c' => [
-        'I own more pairs of Calvin Klein underwear than I can count. At any given time, I probably have 50 to 60 pairs on deck. I travel with an entire suitcase of underwear and t-shirts, and they\'re all Calvin Klein.',
-        'Trey Songz',
+    'ad1e8989-f448-5c33-a24d-a0ecf4ffc25c' => [
+        'Sometimes, comics will make the observation that it\'s not jokes that are funny, it\'s characters that are funny. And isn\'t that true! That\'s why I always kill jokes. I\'m terrible at them, because I get the joke right, but I can\'t get the character right, and it just goes down like a lead balloon.',
+        'David Mitchell',
     ],
-    '1e1436fd-acfa-5c67-a0bf-d891e33afc80' => [
-        'I will keep smiling, be positive and never give up! I will give 100 percent each time I play. These are always my goals and my attitude.',
-        'Yani Tseng',
+    'fd61d165-6ce0-500d-8db9-e8d5dbefd131' => [
+        'I don\'t have a type looks-wise, but all my exes have been funny, open-minded and ambitious. I can\'t stand men with no passion in life.',
+        'Kathryn Prescott',
     ],
-    '2a3a0977-4c90-50e3-81b9-efffd3ef730b' => [
-        'We can\'t just rail against crime. We must speak of the root problems - devastating family breakup, an insidious culture of violence that cheapens human life, skyrocketing prisoner recidivism rates that rob our communities of husbands and fathers - and recognize that there is a societal role in rehabilitation and restoration.',
-        'Frank Wolf',
+    '4ef393cb-b19a-5104-890e-1a81dbf1e3fc' => [
+        'My ultimate life dream project is my kids. My family.',
+        'Denzel Washington',
     ],
-    'f4647b0d-1f89-51b3-972d-c09f933b02ac' => [
-        'The successful man doesn\'t use others, other people use the successful man, for above all the success is of service.',
-        'Mark Caine',
+    'd9e5de6a-a239-5ba3-9db1-dffeb2057de3' => [
+        'From wonder into wonder existence opens.',
+        'Lao Tzu',
     ],
-    '76bc69c9-e3c0-5063-aad7-69d1839deb44' => [
-        'Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?',
-        'William C. Bryant',
+    '15f303c3-12d9-54be-82ba-4574ec6c6b76' => [
+        'One of the things that makes our military the best in the world is the certain knowledge of each soldier, sailor, airman, and Marine that they can always count on their comrades should they need help - that they will never be abandoned.',
+        'Jon Kyl',
     ],
-    'c32983f4-7b66-5a92-8668-bbe6aa8bd261' => [
-        'The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.',
-        'Eckhart Tolle',
+    '67103a1e-a499-52a2-b579-38d3ba993bf2' => [
+        'The faith that anyone could move from rags to riches - with enough guts and gumption, hard work and nose to the grindstone - was once at the core of the American Dream.',
+        'Robert Reich',
     ],
-    '3203b894-e5ce-54c2-850a-db4424f1243d' => [
-        'Choose a job you love, and you will never have to work a day in your life.',
-        'Confucius',
+    '92795b3b-c22d-5183-ad12-57cf360b2012' => [
+        'The single biggest surprise about arriving to the Senate is the defeatist attitude here.',
+        'Ted Cruz',
+    ],
+    '0667b9b9-ffc2-566d-b061-d57633d438ae' => [
+        'A good story can travel in time and borders; it hits you no matter where you are.',
+        'Hakan Nesser',
+    ],
+    '90595cb8-c0ee-5b30-9794-17bd55794a70' => [
+        'The time was ripe for Flower. The vibe was right.',
+        'Jody Watley',
+    ],
+    'e54acc79-e90c-50f5-9c54-3875a114297f' => [
+        'On the floor I am more at ease. I feel nearer, more part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting.',
+        'Jackson Pollock',
+    ],
+    '1fc848ae-2acc-58f1-9b51-0f25c1d302d5' => [
+        'My parents taught me honesty, truth, compassion, kindness and how to care for people. Also, they encouraged me to take risks, to boldly go. They taught me that the greatest danger in life is not taking the adventure.',
+        'Ezra Pound',
+    ],
+    'bfb8317c-4671-5948-b063-c1618b6f503b' => [
+        'Some people think that the truth can be hidden with a little cover-up and decoration. But as time goes by, what is true is revealed, and what is fake fades away.',
+        'Ismail Haniyeh',
+    ],
+    '28df0fa2-11ae-54a4-8d2c-7c0ba194047d' => [
+        'I had a really wonderful upbringing. We were a tight family. It was wonderful to grow up with so many siblings. We were all just a year or two apart, and we were always so supportive of each other. I learned everything from my older brother and sister and taught it to my younger sisters.',
+        'Joaquin Phoenix',
+    ],
+    'f0ebe94c-1a06-5d70-94b6-940619e3342f' => [
+        'I think there can be a positive sort of futurism even in a presentist society. But I think it\'s a kind of futurism that envisions augmenting human ability and intellect rather than creating some artificial machine intelligence that displaces us.',
+        'Douglas Rushkoff',
+    ],
+    '758713c6-b285-54e4-acff-1677c022187c' => [
+        'I would love to be remembered as a wonderfully dynamic and multitalented actress who left a legacy through her work and through her life of helping people and of being a positive force in the world.',
+        'Keshia Knight Pulliam',
+    ],
+    '1a4f466e-679f-53f2-b018-f45e51de52fc' => [
+        'I never realized before this the emotional power of some really simple, corny tropes: people with top hats, people with batons, confetti going off, how important it is to smile.',
+        'Ira Glass',
+    ],
+    '335706f1-7bdc-523f-9625-ccae6846bc73' => [
+        'The demons you have are what motivate you to make your art. This is what drives the detective, this is what drives the painter, this is what drives the writer: a conflicting urge to forget pain and at the same time remember it and fight for some kind of justice. I know these powerful things are inside of me and everyone in some way or another.',
+        'Tom Reiss',
+    ],
+    '8bdc5e3e-add4-56d0-862f-9d7e4df4a304' => [
+        'When my mom, Mercedes, and her younger sister, Juanita, first came from Puerto Rico, they were the youngest in the family. They had to jump into a new community and really learn English, assimilate, and adapt - and I saw that. I grew up in that community.',
+        'Kimberly Guilfoyle',
+    ],
+    '8a7f1bb5-2221-59ee-9d75-8236ea1729ce' => [
+        'I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating. Most people attach failure to something not working out or how people perceive you. This way, it is about answering to yourself.',
+        'Sara Blakely',
+    ],
+    '2c5a3852-df0a-55a6-937b-9a6dfa6b1f10' => [
+        'Every human being is the author of his own health or disease.',
+        'Buddha',
+    ],
+    'dde35e11-1aa1-53ee-a6d1-f6d2e3663958' => [
+        'When people talk, they lay lines on each other, do a lot of role playing, sidestep, shilly-shally and engage in all manner of vagueness and innuendo. We do this and expect others to do it, yet at the same time we profess to long for the plain truth, for people to say what they mean, simple as that. Such hypocrisy is a human universal.',
+        'Steven Pinker',
+    ],
+    '2a82232a-a7c6-5e7f-8239-314ba2edb246' => [
+        'One of the best aspects of health care reform is it starts to emphasize prevention.',
+        'Anne Wojcicki',
+    ],
+    '538603cd-ecfd-520d-9571-a8eb29e1c019' => [
+        'It\'s also a question of finding good material and interesting roles. I\'m not the only actress out there, and good parts just don\'t fall into your lap that easily. But I like most of the films I\'ve made recently and so I\'m pretty positive about the future.',
+        'Winona Ryder',
+    ],
+    '90919870-c3aa-5785-a25a-00344c8f960d' => [
+        'On receiving from the people the sacred trust twice confided on my illustrious predecessor, and which he has discharged so faithfully and so well, I know that I can not expect to perform the arduous task with equal ability and success.',
+        'Martin Van Buren',
+    ],
+    '96a62d48-187a-51f9-8e80-216ef96386e7' => [
+        'It\'s funny how the music industry is enraged about the Internet and the way things are copied without being paid for. But you know why people steal the music? Because they can\'t afford the music.',
+        'Tom Petty',
+    ],
+    'a87eaa2b-2ec3-59fc-917a-6d022521383f' => [
+        'To transcend limitations and form positive new patterns of life based on who you know you can be rather than who you were yesterday, you must give up the modes of thinking, feeling and behaving that only keep you chained to your past.',
+        'Debbie Ford',
+    ],
+    'a99df3f2-6873-5b75-b2f4-e113158a7c61' => [
+        'I\'m ephemeral as much as I can be, so I started to think about the idea of not working. It\'s really about a change of attitude. It\'s not so much about stopping, but about re-thinking the meaning of one\'s production.',
+        'Rirkrit Tiravanija',
+    ],
+    'b0584a20-cd2f-5abc-8d76-8e208cf8f18c' => [
+        'My first feeling about the paper and the attitude is that it is absurd.',
+        'Arthur Holly Compton',
+    ],
+    '2ce39311-66eb-57fc-b966-c9b061da4f86' => [
+        'There\'s a beauty in being part of a band, when there\'s equality and trust.',
+        'Scott Weiland',
+    ],
+    '6adabf8b-8058-595e-a944-d43d948e0620' => [
+        'Blessed is the man who expects nothing, for he shall never be disappointed.',
+        'Alexander Pope',
+    ],
+    '31f7c567-d66f-5784-ba00-9259bf5dd4e8' => [
+        'The month of November makes me feel that life is passing more quickly. In an effort to slow it down, I try to fill the hours more meaningfully.',
+        'Ella Wheeler Wilcox',
+    ],
+    '2ae50c04-9cfe-5cf7-ad7c-3db43670f850' => [
+        'Management is efficiency in climbing the ladder of success; leadership determines whether the ladder is leaning against the right wall.',
+        'Stephen Covey',
     ],
 ];

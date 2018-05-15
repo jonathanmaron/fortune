@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '255aee54-9964-556d-ad65-688194202a89' => [
-        'Success in training the boy depends largely on the Scoutmaster\'s own personal example.',
-        'Robert Baden-Powell',
+    'f05e6c0a-5eb1-5402-842b-c2134a93a941' => [
+        'When people divorce, it\'s always such a tragedy. At the same time, if people stay together it can be even worse.',
+        'Monica Bellucci',
     ],
-    '748513d6-2119-5271-99cc-8050fc3b0381' => [
-        'We live in a country that used to have a can-do attitude, and now we have a \'what-can-you-do-for-me?\' attitude, and what I try to do is find ways that we can develop common ground.',
-        'Ben Carson',
+    '5140cb7d-d9e1-589b-b948-bce88b35a11c' => [
+        'Work hard, stay positive, and get up early. It\'s the best part of the day.',
+        'George Allen, Sr.',
     ],
-    '6bb184e8-7d85-53cd-b780-a6f52b8d5c12' => [
-        'I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.',
-        'Neil Armstrong',
+    'c7c048b4-a7c7-575e-98f3-165317dc8e94' => [
+        'I don\'t think I would do a straight late-night talk show, like a \'Tonight Show\' kind of thing. But I\'m open to whatever is done well. I don\'t have any agenda. I\'m not like Fugazi - I\'m not trying to be just so punk rock until I die. Whatever is funny is good.',
+        'Eric Andre',
     ],
-    'd9bb4ff1-2691-5aae-bfca-594a08aa54cb' => [
-        'Nothing will teach you more about perceived value than taking something with literally no value and selling it in the auction format. It teaches you the beauty and power of presentation, and how you can make magic out of nothing.',
-        'Sophia Amoruso',
+    'c7f180fe-26e1-5ee3-b385-b81ba3de438a' => [
+        'It\'s a funny relationship that makeup artists have. I always feel kind of like a dentist. People look at me and think of pain.',
+        'Rick Baker',
     ],
-    'c00b4586-fef8-5b69-8f9c-6efd12467c74' => [
-        'I feel that the best companies are started not because the founder wanted a company but because the founder wanted to change the world... If you decide you want to found a company, you maybe start to develop your first idea. And hire lots of workers.',
-        'Mark Zuckerberg',
+    '124c8f8d-0a4b-5485-b5d1-10202b16c1dd' => [
+        'It makes me very happy when I create goals or score goals myself, but the most important thing is that the team reaches its goal and plays positive football.',
+        'Mesut Ozil',
     ],
-    'a623d7d0-12e8-5d12-aa0e-c6cfc39849ba' => [
-        'It\'s time to say goodbye, but I think goodbyes are sad and I\'d much rather say hello. Hello to a new adventure.',
-        'Ernie Harwell',
+    '37da6f4d-4e98-52ec-89fc-cece7cdb9085' => [
+        'We can only be said to be alive in those moments when our hearts are conscious of our treasures.',
+        'Thornton Wilder',
     ],
-    '687a487c-8696-5204-9103-48244ee01498' => [
-        'If you travel to Germany, it\'s still absolutely Germany. If you travel to Sweden, it still has a Swedish identity.',
-        'Morrissey',
+    'c8ee5bcc-72f7-5490-901a-087311e9c4ea' => [
+        'I would rather die of passion than of boredom.',
+        'Vincent van Gogh',
     ],
-    '5faf8565-4192-5472-9695-50512595e972' => [
-        'The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.',
-        'Mortimer Adler',
+    '969469bc-de76-5ab1-9ca6-890ee52fcd45' => [
+        'Any captain can only do his best for the team and for cricket. When you are winning, you are a hero. Lose, and the backslappers fade away.',
+        'Richie Benaud',
     ],
-    '2f32c4a4-8c3b-513d-89dd-c0074a7937ae' => [
-        'It is impossible to exaggerate the wide, and widening, gulf between the American attitude on the Iraq war and the view from our friends across the Atlantic.',
-        'Nick Clooney',
+    '1fbf8dd3-9f8e-5661-8de1-dd5c67064eee' => [
+        'I\'m going to write a book, continue acting, continue motivational speaking and just share with people who I am and what I\'ve learned in my second chance of life and pass it on to people in their first chance of life.',
+        'J. R. Martinez',
     ],
-    'f3ca1b67-5f8b-54b8-8d4d-4344af8b69a0' => [
-        'Anybody can become angry - that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way - that is not within everybody\'s power and is not easy.',
-        'Aristotle',
+    '5a077e32-819a-509f-a5b0-2ed50e037b44' => [
+        'What would be left of our tragedies if an insect were to present us his?',
+        'Emile M. Cioran',
     ],
-    '42f33c2a-ee9f-5ddf-97b6-05791627b524' => [
-        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
-        'Fritz Scholder',
+    'ff229879-e39d-5b82-a080-d5a9b08c73c6' => [
+        'Time and tide wait for no man.',
+        'Geoffrey Chaucer',
     ],
-    '25284de5-b80e-5f54-a536-d8ae61a4bfe2' => [
-        'Nothing is art if it does not come from nature.',
-        'Antoni Gaudi',
+    'b99113f4-fcfe-5c36-aa0c-6baa0dc4149c' => [
+        'Think for yourselves and let others enjoy the privilege to do so too.',
+        'Voltaire',
     ],
-    'd5d07739-bffe-5fbd-a62f-04f7e9375927' => [
-        'I actually think that I\'m a rather optimistic and happy person; it\'s just that I\'m not a very positive person, if you see the difference.',
-        'Linus Torvalds',
+    '427e7673-a1ed-50dc-81a7-714d4e48836a' => [
+        'We know beauty when we see it, and our reactions are remarkably consistent. Beauty is not just a social construct, and not every girl is beautiful just the way she is.',
+        'Virginia Postrel',
     ],
-    'efb38d1a-b5a4-5c89-93af-dace57bc388e' => [
-        'Arriving at one goal is the starting point to another.',
-        'John Dewey',
+    'f4efb5a5-d184-5ce9-b47b-6033dea824bc' => [
+        'The best part of beauty is that which no picture can express.',
+        'Francis Bacon',
     ],
-    '7eca15a6-8a31-5873-b7e9-3676619e88ac' => [
-        'When you encourage others, you in the process are encouraged because you\'re making a commitment and difference in that person\'s life. Encouragement really does make a difference.',
-        'Buddha',
+    'd5ce5d7a-6954-5286-9eb4-c8c5796accc5' => [
+        'A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.',
+        'Chuck Norris',
     ],
-    'a08ff523-6180-55a8-a21f-780339d14bba' => [
-        'May Heaven be propitious, and smile on the cause of my country.',
-        'Zebulon Pike',
+    '5ea33b65-f631-53a3-b2ef-3a9232a92e05' => [
+        'What is important is the reliability of my posts being there to greet my fans with a smile or a giggle every morning. That\'s how we keep on growing.',
+        'George Takei',
     ],
-    'b9670241-5e88-5b34-9b9e-6a7f8b35b758' => [
-        'I passionately believe that\'s it\'s not just what you say that counts, it\'s also how you say it - that the success of your argument critically depends on your manner of presenting it.',
-        'Alain de Botton',
+    'e9e7f21b-ab5a-53a5-b6bb-d845efe2d279' => [
+        'I loved all the princess films, and I grew up with them, and I think it\'s really cool how they\'ve changed over the years - how the princesses have become more positive role models right up until \'Frozen.\'',
+        'Lily James',
     ],
-    'b90e8d59-8029-5da5-8d9b-41f9e8596855' => [
-        'Most of my show is true; like, 90% of everything I say on stage is true. I just have to find the way to make it funny - that\'s the difficult thing.',
-        'Trevor Noah',
+    'a19626ac-5dc1-50f4-ae2b-eeb60d0067ed' => [
+        'A goal is not always meant to be reached; it often serves simply as something to aim at.',
+        'Bruce Lee',
     ],
-    '925016ba-f44d-5a0f-9238-8618101fed81' => [
-        'That\'s what I do this for, to secure my family\'s future. I don\'t care about anything else. I\'m able to spoil people, and that\'s the best thing.',
-        'Conor McGregor',
+    '0156856f-512a-5f81-83a9-91df803f4403' => [
+        'The fear of this delicate and fierce feminine has more to do with our fear of being vulnerable again, getting hurt again, than it does by our actual distaste for the beauty of the feminine and Her qualities.',
+        'Alanis Morissette',
     ],
-    'c6ea1cc9-e3d5-5c74-ba59-8818fac38ed0' => [
-        'For me nature is not landscape, but the dynamism of visual forces.',
-        'Bridget Riley',
+    '201b0986-1218-5774-a641-4588391c23e4' => [
+        'The best advice I\'ve received is to be yourself. The best artists do that.',
+        'Frank Gehry',
     ],
-    '0e9e2d0b-7694-5253-87d5-ada6b6bb2381' => [
-        'In philanthropy, you have to take the attitude of a mother... You have to be patient, and we have been very patient for a long time.',
-        'Shiv Nadar',
+    '50961939-373e-590f-8736-e3ab290358dd' => [
+        'Keep your sense of humor, my friend; if you don\'t have a sense of humor it just isn\'t funny anymore.',
+        'Wavy Gravy',
     ],
-    '01d5fc7a-f732-5a8a-9ad8-aa45f0b1210d' => [
-        'I like to sit down, relax, have a cup of coffee on the terrace and read a book. I like to travel the world - and I\'m lucky to see so much through cycling.',
-        'Marianne Vos',
+    '407318b6-3e0c-5683-9f2e-5e62b215cf73' => [
+        'I love funny people, and when I\'m with funny people, or people who are amusing in their weirdness, I love it. Because that to me is funny, as opposed to someone who stops and says, \'Hey let me tell you a joke.\'',
+        'Paul Feig',
     ],
-    'd72c3462-c7c5-5b15-a81d-7fde8117bb65' => [
-        'Weight loss can change your whole character. That always amazed me: Shedding pounds does change your personality. It changes your philosophy of life because you recognize that you are capable of using your mind to change your body.',
-        'Ciara',
+    '84f2b16b-e25c-51b1-8f62-2b9b6d68844f' => [
+        'Life is full of misery, loneliness, and suffering - and it\'s all over much too soon.',
+        'Steve Jobs',
     ],
-    'c238cdcb-389d-5628-b362-e71d10abca52' => [
-        'If journalism is good, it is controversial, by its nature.',
-        'Julian Assange',
+    'ebcd7c0f-69cc-5a69-9df2-867ac4b52421' => [
+        'When you think of a brand, you should immediately understand it from the advertising attitude, from the words and visuals.',
+        'George Lois',
     ],
-    'a3262049-bd48-5180-ab42-289ef5ed2269' => [
-        'In a time of universal deceit - telling the truth is a revolutionary act.',
+    'e88bde13-588e-55b2-8804-5c87ca9d68fb' => [
+        'Work is not man\'s punishment. It is his reward and his strength and his pleasure.',
+        'George Sand',
+    ],
+    '65822e0d-bb82-5f4c-be65-5aea5fda8701' => [
+        'Step by step and the thing is done.',
+        'Charles Atlas',
+    ],
+    '499a230b-c2b8-56fe-b897-99766cfd4096' => [
+        'A ship in the harbor is safe. But that\'s not what ships are for.',
         'Unknown',
+    ],
+    '332b674e-935d-5ed1-8e62-74b3f5251767' => [
+        'Travelers repose and dream among my leaves.',
+        'William Blake',
+    ],
+    '8ec93984-ec22-5f8d-afef-21af21ed6f7a' => [
+        'It is easy for me to love myself, but for ladies to do it is another question altogether.',
+        'Johnny Vegas',
+    ],
+    '69feda93-3169-5814-817d-0137bb8eee73' => [
+        'On the tennis court, one needs a cool temperament, tremendous ball sense, reflexes, speed, hand-eye co-ordination, power, timing and peak physical fitness. Off the court, the player and support team need skills in planning, execution, travel, an ability to raise funds when needed, and several other talents.',
+        'Sania Mirza',
+    ],
+    '8d35a6e0-6f3e-5a61-9fcc-4b48be9f0402' => [
+        'I used to love being the class clown. I loved to make jokes and make people laugh. There was a set of students who would find it funny. But the cool students were like, \'Eeew!\'',
+        'Issa Rae',
+    ],
+    '3cb2a61f-55d9-53bf-9157-5f9c244a97a2' => [
+        'I have my own dance and production companies, and acting is my creative outlet. It\'s what I\'m passionate about. I\'ve actually created a lifestyle where I could act for free. I could get a job to pay the bills and act on the weekends to make me smile.',
+        'Brian J. White',
+    ],
+    '791495c9-a42c-5e26-880a-250e941b85e8' => [
+        'I have my team. Like if you see everyone around me - I have my hair and makeup girl, my assistant. They\'re very calm, they\'re all about positive energy. There\'re no drama queens. Everyone wants everyone else to have a positive experience. There are no agendas. I think it creates a healthy environment and there are no boundaries to cross.',
+        'Fergie',
+    ],
+    '56c8ca8d-c124-56c7-bae1-33c0325dc1d1' => [
+        'Rocket scientists agree that we have about reached the limit of our ability to travel in space using chemical rockets. To achieve anything near the speed of light we will need a new energy source and a new propellant. Nuclear fission is not an option.',
+        'Wilson Greatbatch',
+    ],
+    '77117876-9779-5ec4-907d-ad76ec546543' => [
+        'Even in winter an isolated patch of snow has a special quality.',
+        'Andy Goldsworthy',
+    ],
+    'b730345c-76ec-59aa-aba6-8ec49ba2a122' => [
+        'I\'ve always enjoyed traveling and having experience with different cultures and different people. But it\'s also a wonderful thing to be able to benefit and enable research, not only in our country but around the world.',
+        'Laurel Clark',
+    ],
+    '02e9a4cf-b07f-559c-8305-f322285e8ab7' => [
+        'Overcome your barriers, intend the best, and be patient. You will enjoy more balance, more growth, more income, and more fun!',
+        'Jack Canfield',
+    ],
+    '34e7ab32-242b-5871-b177-cb23c50f3144' => [
+        'The secret of success in life is for a man to be ready for his opportunity when it comes.',
+        'Benjamin Disraeli',
+    ],
+    'ace2403b-fb10-5ea6-86cd-75efca3a4f21' => [
+        'I was a huge Beatles fan. We could talk about who I listened to growing up and what my sources were, but certainly the Beatles were a late, important resource for me, and I just took my guitar and a handful of songs, and I decided, well, I\'ll just go over and travel around Europe and see what comes of it.',
+        'James Taylor',
+    ],
+    '485df078-61f1-5f69-81ab-ae96b767468c' => [
+        'What I always think about when I think about \'Girls\' is Lena being in a scene where she\'s very vulnerable, possibly directing, acting, and she\'s probably written the dialogue. It\'s 2 in the morning. Everyone\'s tired. Everyone\'s grumpy. And she has a smile on her face and kindness for everyone who interacts with her.',
+        'Jennifer Konner',
+    ],
+    '10a469ba-29b6-5f56-88f1-3a33fab6c0c4' => [
+        'Everyone can have their heart broken. Even if you know the relationship isn\'t working, it\'s still sad. Even in a bad relationship, they\'re part of your life for a long time, and saying goodbye to that can be difficult.',
+        'James Marsden',
+    ],
+    'dc57cf24-46c8-5205-83d9-5ece770b3a3f' => [
+        'Going by my past journey, I am not certain where life will take me, what turns and twists will happen; nobody knows where they will end up. As life changes direction, I\'ll flow with it.',
+        'Joyce Meyer',
+    ],
+    'd7450139-6fa0-53b5-bde3-123f0db27366' => [
+        'The value of beauty and inspiration is very much underrated, no question. But I want to be clear: I\'m not trying to be anyone\'s savior. I\'m just trying to think about the future and not be sad.',
+        'Elon Musk',
+    ],
+    'c3019059-32a1-5ae9-9d8c-bbfd506aae78' => [
+        'When I was in my 20s it did occur to me that there was something perverted about an attitude that thought that killing somebody was a minor offence compared to kissing somebody.',
+        'John McGahern',
+    ],
+    'be16eb91-723a-5f5c-b0db-2c7460939921' => [
+        'The only way I\'m going to support my family is to tour. I love playing, don\'t get me wrong. That 90 minutes every night, that\'s free. We get paid to travel. But every night, I have to get myself locked in. There are a thousand people that don\'t want to be disappointed, because they have a lot of expectations.',
+        'Sturgill Simpson',
+    ],
+    '724224eb-0f4e-5955-9dc3-a7cbf43ed4ba' => [
+        'Dreams come true. Without that possibility, nature would not incite us to have them.',
+        'John Updike',
+    ],
+    'd7fc0041-1de3-5007-94ec-271961612c0a' => [
+        'I gave my beauty and my youth to men. I am going to give my wisdom and experience to animals.',
+        'Brigitte Bardot',
+    ],
+    'add99941-2704-52e4-bd0b-8f41266d2dd3' => [
+        'Shakespeare wrote about love. I write about love. Shakespeare wrote about gang warfare, family feuds and revenge. I write about all the same things.',
+        'Sister Souljah',
+    ],
+    'e707fd79-f63e-526e-ad07-28a7447811f5' => [
+        'Every day, people settle for less than they deserve. They are only partially living or at best living a partial life. Every human being has the potential for greatness.',
+        'Bo Bennett',
+    ],
+    'b7e9ddc2-838f-56e6-bacf-bc3b8012813d' => [
+        'If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.',
+        'Buddha',
     ],
 ];

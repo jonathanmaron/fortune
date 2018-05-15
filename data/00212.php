@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'd99921ea-d6e8-5d69-8da0-5eae7ccc39fb' => [
-        'You have to trust in something - your gut, destiny, life, karma, whatever.This approach has never let me down.',
-        'Steve Jobs',
+    '1db9ab55-9a54-5966-9560-7b126e834c82' => [
+        'Sometimes when you write something on the page, it can seem very funny, but when you act it out - and this happens to me a lot, actually - the melancholy of the situation becomes more front and center.',
+        'Mike White',
     ],
-    '81de359d-3f2b-58c4-b975-b13f64d70f27' => [
-        'My denial and irresponsible attitude about asthma put me at great risk and caused me so much needless suffering. My hope is that the kids I talk to learn to open up about their asthma, become educated about their condition, and seek help.',
-        'Jackie Joyner-Kersee',
+    'fa1a56a5-95ec-5616-9386-e7c193ebefce' => [
+        'I have very diverse tastes in music, and I don\'t, like, make distinctions between what I can\'t and can\'t listen to. In fact, I could never understand why anybody would do that in the first place. My attitude is, \'I can\'t make music if I don\'t like music.\'',
+        'Corey Taylor',
     ],
-    'e714ce7b-3f26-51f4-bcf9-93436296fc1b' => [
-        'If you take a band like Nirvana, their biggest hits are structurally the same as even a hair metal band\'s biggest hits. The structure\'s not different - the attitude was different. Except it really wasn\'t. It seemed a little more human.',
-        'Buzz Osborne',
+    'a07f348f-ca91-59da-b995-5ecb410f9155' => [
+        'Nothing will be beyond our reach when we make the flames of creating positive deeds flare up across the country with the virtues of the young vanguard as the initial spark and bring into full play the mounting vigour of the millions of young people.',
+        'Kim Jong-un',
     ],
-    '669865cc-08d3-5488-9375-af033e252275' => [
-        'And, behold, I come quickly; and my reward is with Me, to give every man according as his work shall be. I am Alpha and Omega, the beginning and the end, the first and the last.',
-        'Jesus Christ',
+    '37f015dc-ff0a-53e3-8a0c-5bc5366f535b' => [
+        'Old age is like everything else. To make a success of it, you\'ve got to start young.',
+        'Theodore Roosevelt',
     ],
-    'c5ffe7d1-4240-5061-86d3-401fdf3c8321' => [
-        "Choose not to be harmed\u{2014}and you won't feel harmed. Don't feel harmed\u{2014}and you haven't been.",
-        'Marcus Aurelius',
+    'bb207718-ca69-5bb0-856d-f072b1d8b73d' => [
+        'It\'s a positive thing to talk about terrible things and make people laugh about them.',
+        'Louis C. K.',
     ],
-    '3c8a6a98-8451-5761-b095-d4783610c05b' => [
-        'War is a game that is played with a smile. If you can\'t smile, grin. If you can\'t grin, keep out of the way till you can.',
-        'Winston Churchill',
+    '5ec519af-d61b-54cc-b317-220cee254fb5' => [
+        'There is an electric fire in human nature tending to purify - so that among these human creatures there is continually some birth of new heroism. The pity is that we must wonder at it, as we should at finding a pearl in rubbish.',
+        'John Keats',
     ],
-    '6c937438-1d78-552e-a9a8-3b145beb2724' => [
-        'O sweet, delusive Noon, Which the morning climbs to find, O moment sped too soon, And morning left behind.',
-        'Helen Hunt Jackson',
+    '6de40473-3cc0-550c-9d9b-ff3cc33ae587' => [
+        'What would air travel look like if airplanes were thrown out after each flight? No one would be flying in airplanes.',
+        'Gwynne Shotwell',
     ],
-    '234bd5ee-944a-51ef-a1df-5e36b11eb3f8' => [
-        'It takes discipline not to let social media steal your time.',
-        'Alexis Ohanian',
+    'b841b69b-67d9-5697-8bc1-cf5fc4045b51' => [
+        'First, I was so dazzled and besotted by India. People said the poverty was biblical, and I\'m afraid that was my attitude, too. It\'s terribly easy to get used to someone else\'s poverty if you\'re living a middle-class life in it. But after a while, I saw it wasn\'t possible to accept it, and I also didn\'t want to.',
+        'Ruth Prawer Jhabvala',
     ],
-    '80864bad-e3e1-5576-a34d-63ff229191cb' => [
-        'The best way to be productive is to have a great team. So I spend more time than most CEOs on human resources. That\'s 20 percent of my week.',
-        'Kevin P. Ryan',
+    'ba3fb0cf-5c51-513c-a696-749d996d7ba1' => [
+        'The more natural or eco-based products you can introduce into your beauty regimen, the more beneficial it is for your skin. It\'s similar to introducing organic food into your daily diet.',
+        'Ivanka Trump',
     ],
-    '6bc1ad48-21e0-5ee9-862a-55218f4ff4c5' => [
-        'There are times as a parent when you realize that your job is not to be the parent you always imagined you\'d be, the parent you always wished you had. Your job is to be the parent your child needs, given the particulars of his or her own life and nature.',
-        'Ayelet Waldman',
+    '3170f441-f648-5a9e-a73b-99ebd72cbf33' => [
+        'If you get hungry mid-day, a banana is the best snack at your desk, after a workout, or in between classes. Fruit is a very good snack in general.',
+        'Marcus Samuelsson',
     ],
-    'fff04e45-d6bc-5476-ba09-a531995077f6' => [
-        'My dream is to be World Lightweight Champion in the UFC. Have more money than I know what to do with. And have a great life for my kids, grandkids, and everyone in my family.',
-        'Conor McGregor',
+    '864305ff-4e66-5c79-9924-4d55d2a1a9c3' => [
+        'Perpetual optimism is a force multiplier.',
+        'Colin Powell',
     ],
-    '97a12264-408b-5324-8860-0c9e5bb3bb02' => [
-        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
-        'Benjamin Franklin',
+    '0fa6bb35-80fe-5c78-88bf-79cecf21be06' => [
+        'My attitude with covers is, make it your own or else leave it alone.',
+        'Glenn Danzig',
     ],
-    '4d859a55-13ad-5ee1-94ac-240dc8676147' => [
-        'Beauty is all very well at first sight; but who ever looks at it when it has been in the house three days?',
-        'George Bernard Shaw',
+    'b3619306-179f-52ba-ac06-7ab179357db2' => [
+        'I don\'t even really know what it is I do for a living - the level of insecurity is very, very high. You\'re making a lot of money, getting a lot of accolades and positive criticism for something where you don\'t even know what you\'re doing.',
+        'Shia LaBeouf',
     ],
-    'eb81dfbe-458d-54c9-a670-afe1cd735ed0' => [
-        'We all know how we can be turned around by a magic place; that\'s why we travel, often. And yet we all know, too, that the change cannot be guaranteed. Travel is a fool\'s paradise, Emerson reminded us, if we think that we can find anything far off that we could not find at home.',
-        'Pico Iyer',
+    '37b0aed2-a68e-566e-8015-81224d6f7dd6' => [
+        'Always Do Your Best. Your best is going to change from moment to moment; it will be different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgment, self-abuse and regret.',
+        'Don Miguel Ruiz',
     ],
-    '2caa1d75-3e97-5626-aff9-b2e837600556' => [
-        'I am just a beginner. The two films so far are baby steps. If I develop an attitude, I\'ll be finished even before I\'ve started. Besides, if I started misbehaving, my folks would give me a tight slap.',
-        'Kriti Sanon',
+    '0f36a33c-d56e-5050-acfb-c2bd41e77a66' => [
+        'If we are not fully ourselves, truly in the present moment, we miss everything.',
+        'Thich Nhat Hanh',
     ],
-    '8e40ea00-c5a7-582d-a6b1-a38291652f24' => [
-        'Success is the sum of small efforts - repeated day in and day out.',
-        'Robert Collier',
+    '43344d07-ff41-5a39-9a4c-fd0e35efcc56' => [
+        'Nature is the master of talents; genius is the master of nature.',
+        'Josiah Gilbert Holland',
     ],
-    '683767b3-a6ca-5b4a-8fc8-922089979cb1' => [
-        'Its funny, because for females in general - not just in music, but the corporate ladder as well - anything we do has always been harder for us. When it comes to music, the industry wants you to conform, to look like this and to sound like this and do this or that. It makes it harder. It\'s harder for us to come out and be bosses and lead the pack.',
-        'Missy Elliott',
+    'd3499b33-d50c-51fa-8402-84a84d7bdbdd' => [
+        'Without faith, nothing is possible. With it, nothing is impossible.',
+        'Mary Bethune',
     ],
-    'bfbaf528-8550-55e3-bc2a-d475b8bf59eb' => [
-        'I\'d rather attempt to do something great and fail than to attempt to do nothing and succeed.',
-        'Robert H. Schuller',
+    '39bf8108-25ad-5a00-813b-9d12dff6d6e5' => [
+        'One of the things I like best about \'Biggest Loser\' is being around people who are trying to make the right choices. When you feel defeated about your weight and your health, like there\'s no hope, and you still make the choice to fight for it, to make the change happen no matter what people say or think, that\'s inspiring to me.',
+        'Alison Sweeney',
     ],
-    '8e758c70-7419-5bfe-ad63-f1c51cb01fbe' => [
-        'It\'s only I have seen enough of it and the funny thing is now, I know that I\'m skinny, because I know there are even smaller clothes in the store. I think I\'m big, when I was big, I never thought about it.',
-        'Karl Lagerfeld',
+    '388c65ff-fac1-5c3a-8f02-1c35625c2f00' => [
+        'In essence, the Thai people are not materialistic at all. They\'re not in the least driven by the kind of ambition that drives us. The more I got to know them, and the more time I spent with them, the more I understood that this was a totally legitimate attitude to life, and why not?',
+        'John Burdett',
     ],
-    '673c72c4-11b9-5e01-a6e9-8dc1e03244ec' => [
-        'It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.',
-        'Voltaire',
+    '50fc8d64-de42-58c0-a2e9-f7a187dd9f6e' => [
+        'We should not give up and we should not allow the problem to defeat us.',
+        'A. P. J. Abdul Kalam',
     ],
-    '4b2bdb8c-72ea-59bc-82af-74f21d47e1d2' => [
-        'Barack Obama, he just sits out. He sits back; he criticizes everybody. He\'s got his professorial attitude, real condescending, as if he\'s got all the answers.',
-        'Steve Scalise',
+    'edc6021f-1cac-5584-b605-7e1a82b23ea0' => [
+        'I make a fabulous tofurkey for Thanksgiving. My Mexican-Italian family can\'t tell the difference.',
+        'Christian Serratos',
     ],
-    '21bb7f4b-2b52-55d9-a88d-c54040c8a27e' => [
-        'If you have a friend or a family member who\'s bipolar, or has panic attack disorder, or is depressed, read up on it a little bit so you can get to know where they\'re coming from.',
-        'Eric Millegan',
+    '82634395-caea-5778-9586-5f3e8fe24ce6' => [
+        'If we live good lives, the times are also good. As we are, such are the times.',
+        'Malala Yousafzai',
     ],
-    'c2de7507-0839-5f22-b37e-1d9a1e3f1e6a' => [
-        'I find the positive in the negative all the time. Any time you give something power, it wins, and it can continuously happen, so I just let negative people know they have no place in my life. They have no place around my children.',
-        'Monica Denise Brown',
+    '665c405d-4bcb-5a76-a278-4f000aa4a6cb' => [
+        'To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.',
+        'Confucius',
     ],
-    '3244c54c-21f1-5763-8ab5-94c99f972bd0' => [
-        'It\'s a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient.',
-        'Daniel Kahneman',
+    'a53c775f-11ae-54fb-8a38-0f11760786f4' => [
+        'The meat that I choose to feed my family, it\'s healthy meats such as lamb, which is very low in cholesterol and saturated fat. And then turkey - we eat a lot of turkey. We don\'t eat loads of beef.',
+        'Tia Mowry',
     ],
-    '90a717e2-31a7-58ba-94cf-3311e949dd5d' => [
-        'Fear comes in two packages fear of failure, and sometimes, fear of success.',
-        'Tom Kite',
+    '508e7ea7-eea1-5224-9fa2-ee0afa0a22ce' => [
+        'The workingmen have perceived that women are in the field of industry to stay; and they see, too, that there can not be two standards of work and wages for any trade without constant menace to the higher standard.',
+        'Florence Kelley',
+    ],
+    'aeea0939-70a8-5d54-98cc-2e894660a1cf' => [
+        'Success isn\'t always going to be a huge contract; success is going to be if you just live out your purpose in life.',
+        'Allan Houston',
+    ],
+    '83e73214-33a7-5b35-b060-b680b99758bc' => [
+        'Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind.',
+        'Henri Frederic Amiel',
+    ],
+    '177455da-caa2-50af-8601-ca317ca30ebd' => [
+        'Success for an athlete follows many years of hard work and dedication.',
+        'Michael Diamond',
+    ],
+    'a8b3ff88-4f31-5e75-bfcf-8393adc3baae' => [
+        'I\'ve worked too hard and too long to let anything stand in the way of my goals. I will not let my teammates down and I will not let myself down.',
+        'Mia Hamm',
+    ],
+    'b88bdb2a-260b-5751-ae7f-30d8ee8fdad7' => [
+        'I\'m sorry, if you were right, I\'d agree with you.',
+        'Robin Williams',
+    ],
+    '11a15ceb-094e-5f7f-befa-5d141d1ac83e' => [
+        'One must work and dare if one really wants to live.',
+        'Vincent Van Gogh',
+    ],
+    '8fd4eaf2-b838-50d9-b108-61bc4372afdd' => [
+        'Politeness and civility are the best capital ever invested in business. Large stores, gilt signs, flaming advertisements, will all prove unavailing if you or your employees treat your patrons abruptly. The truth is, the more kind and liberal a man is, the more generous will be the patronage bestowed upon him.',
+        'P. T. Barnum',
+    ],
+    '75c7456a-ba68-5d42-ba19-3c947033e234' => [
+        'I travel a lot, so when I arrive in a city, I like to go to good local bookshops and make a selection based on how I\'m feeling and what I\'m thinking. The book I pick usually seems to have a definite karmic connection!',
+        'Yoko Ono',
+    ],
+    '86ba674b-a9c2-5e54-be76-6f5cd3e89c15' => [
+        'We have much to learn by studying nature and taking the time to tease out its secrets.',
+        'David Suzuki',
+    ],
+    '2a8a27bb-1941-57b1-a532-21405de2ccec' => [
+        'Remember your dreams and fight for them. You must know what you want from life. There is just one thing that makes your dream become impossible: the fear of failure.',
+        'Dieter F. Uchtdorf',
+    ],
+    '81068193-207f-5240-932c-5f7715fa374b' => [
+        'You know, it\'s funny... when you\'re making money, people don\'t think you\'re playing jazz. Now when you\'re not making money, people think that you\'re a good jazz musician.',
+        'Pete Fountain',
+    ],
+    '600dfe5c-a87e-5ea8-abba-3aee163cd919' => [
+        'What do you mean by faith? Is faith enough for Man? Should he be satisfied with faith alone? Is there no way of finding out the truth? Is the attitude of faith, of believing in something for which there can be no more than philosophic proof, the true mark of a Christian?',
+        'Clifford D. Simak',
+    ],
+    'eda44b53-6a21-54b1-af38-45f9d7d2a74a' => [
+        'I feel like, if there\'s an elephant in the room, I\'d really like to start off by introducing the elephant in the room. And sometimes it\'s funny.',
+        'Louis Theroux',
+    ],
+    '42748df5-0658-57dc-a86a-fe64c5536f3e' => [
+        'Positive thinking will let you do everything better than negative thinking will.',
+        'Zig Ziglar',
+    ],
+    '17a6aa7a-b61d-5e9f-999b-5c05c7beabfb' => [
+        'I like the sci-fi channel. Just science in general. I came across a segment on time travel and how time travel is possible. We create a spaceship that\'s moving at almost the speed of light, we go in that spaceship in outer space, and we fly around for a year, when we get back to Earth, Earth would\'ve aged 10 years.',
+        'Von Miller',
+    ],
+    'a470210b-b76a-56a3-a382-ad524715395d' => [
+        'Ever since I began to compose, I have remained true to my starting principle: not to write a page because no matter what public, or what pretty girl wanted it to be thus or thus; but to write solely as I myself thought best, and as it gave me pleasure.',
+        'Felix Mendelssohn',
+    ],
+    'a03c2ee5-94e7-5b8b-8897-8c9b9da8a1c6' => [
+        'Time sometimes flies like a bird, sometimes crawls like a snail; but a man is happiest when he does not even notice whether it passes swiftly or slowly.',
+        'Ivan Turgenev',
+    ],
+    '5ad2d237-8c01-5873-b5b7-0d1e3f1d5131' => [
+        'The beauty one can find in art is one of the pitifully few real and lasting products of human endeavor.',
+        'J. Paul Getty',
+    ],
+    '39c4c45c-9848-5cc2-9aea-4f0ec4ae08cb' => [
+        'A journey by Sea and Land, Five Hundred Miles, is not undertaken without money.',
+        'Lewis Hallam',
+    ],
+    'b483f71e-caa1-5835-967a-fffc20fabe1d' => [
+        'My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate, that\'s my philosophy.',
+        'Thornton Wilder',
+    ],
+    'b960115a-64be-5087-a764-73a869b347cc' => [
+        'If you want a guarantee, buy a toaster.',
+        'Clint Eastwood',
+    ],
+    '6c039c20-57e8-5fa3-8c44-bedab5ebe1f1' => [
+        'Even when I wasn\'t playing, I always had a smile on my face because if I acted sad or mad, it wouldn\'t help me.',
+        'Henrikh Mkhitaryan',
+    ],
+    '6743625d-74e4-54ad-a90b-3758afe68847' => [
+        'As you walk in God\'s divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.',
+        'Joseph Prince',
+    ],
+    '7d8b751f-0423-5287-b0ef-88ff6f49d4c1' => [
+        'How nice it would be to breeze through life and just brush things off. I never read reviews because I hate to lose more than I like to win; I experience negative emotions far greater than positive ones.',
+        'Catherine Tate',
+    ],
+    'aec4784e-3475-524b-9474-9d10e5fe760b' => [
+        'America is the most grandiose experiment the world has seen, but, I am afraid, it is not going to be a success.',
+        'Sigmund Freud',
     ],
 ];

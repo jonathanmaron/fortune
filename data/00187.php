@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '39882271-efd9-5d5c-afaf-72f30ed7ff22' => [
-        'Imagination is the highest kite one can fly.',
-        'Lauren Bacall',
+    '388bbca4-621f-50aa-a3bb-bdeeee1b9dc9' => [
+        'The time to take counsel of your fears is before you make an important battle decision. That\'s the time to listen to every fear you can imagine! When you have collected all the facts and fears and made your decision, turn off all your fears and go ahead!',
+        'George S. Patton',
     ],
-    '03c64e2c-1c8e-5388-9671-0faeb2df9262' => [
-        'The best time for you to hold your tongue is the time you feel you must say something or bust.',
-        'Josh Billings',
+    'b8a7218e-dcb2-5bc2-a644-540b9c80959b' => [
+        'Success and failure are both part of life. Both are not permanent.',
+        'Shah Rukh Khan',
     ],
-    'fdcea44e-2181-5ef7-9386-c2f2bf41e113' => [
-        'Our body is a machine for living. It is organized for that, it is its nature. Let life go on in it unhindered and let it defend itself.',
-        'Leo Tolstoy',
+    'cb6f73a5-7ef7-5237-a072-6e5cba5c4b7a' => [
+        'Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.',
+        'Baruch Spinoza',
     ],
-    '2f8c281b-aeca-5dc6-a459-0b5977fa5edb' => [
-        'For all of those willing to help me start a family, I am flattered. I will let you know when I need your help.',
-        'Paula Abdul',
+    '62c1a117-2405-527f-a51b-e7a947c05edc' => [
+        'I\'m one of five sisters. I\'m the younger of twins, and we\'re the youngest of five girls, and we\'ve always been very close. We were pretty much a gang. I take after my mother a lot in terms of personality and character. She was very positive; always looked on the bright side of things. She had a tough time of it with my dad but did her best.',
+        'Jerry Hall',
     ],
-    '7716a220-1cc0-5176-97d1-6d84d4e17c2f' => [
-        'I\'m a positive guy, even if I don\'t smile a lot.',
-        'James Arthur',
+    '858ca9a8-e06e-5353-9c86-a7bbdb37b200' => [
+        'The family is the nucleus of civilization.',
+        'Will Durant',
     ],
-    'a8201acb-b038-5531-82eb-9d541b427fee' => [
-        'Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.',
-        'Buddha',
+    '61c59158-35dc-5724-b88b-b94faa832563' => [
+        'Enlightened leadership is spiritual if we understand spirituality not as some kind of religious dogma or ideology but as the domain of awareness where we experience values like truth, goodness, beauty, love and compassion, and also intuition, creativity, insight and focused attention.',
+        'Deepak Chopra',
     ],
-    '7fe84a49-a9d4-509f-8ee4-13047557d0a4' => [
-        'A hybrid human-robot mission to investigate an asteroid affords a realistic opportunity to demonstrate new technological capabilities for future deep-space travel and to test spacecraft for long-duration spaceflight.',
-        'Buzz Aldrin',
+    '281f8754-1f5e-5b45-a5a2-bb975f0f809b' => [
+        'Success is achieved and maintained by those who try and keep trying.',
+        'W. Clement Stone',
     ],
-    'af9e9084-ada9-5a6a-814a-362671e18587' => [
-        '\'Sunset Boulevard\' - the story of Hollywood movies draped on a depressing sex affair - is an uncompromising study of American decadence displaying a sad, worn, methodical beauty few films have had since the late twenties.',
-        'Manny Farber',
+    'a90d7b69-ac5e-50fa-b3d8-b0a7becc91ad' => [
+        'Even a smile is a good deed.',
+        'Shari Arison',
     ],
-    '1ae2efef-3e91-5881-a926-152e357a6334' => [
-        'Freedom is what you do with what\'s been done to you.',
-        'Jean-Paul Sartre',
+    '2976abb3-b48f-521b-84e9-c6de9aad05b8' => [
+        'Being happy is of the utmost importance. Success in anything is through happiness.',
+        'Maharishi Mahesh Yogi',
     ],
-    'd9660127-50ff-5233-9059-6c3d173532e7' => [
-        'Men talk of killing time, while time quietly kills them.',
-        'Dion Boucicault',
+    '55068685-5348-5378-94a6-5565af2a50af' => [
+        'A dream becomes a goal when action is taken toward its achievement.',
+        'Bo Bennet',
     ],
-    'f94fa155-1fb0-506e-ad43-022fa5716e71' => [
-        'To conceal anything from those to whom I am attached, is not in my nature. I can never close my lips where I have opened my heart.',
-        'Charles Dickens',
+    '8d331ac9-203a-5b71-a282-91df006df844' => [
+        'Fragrance takes you on a journey of time. You can walk down the street and pass someone and get taken back 20 years. It\'s very Proustian that way.',
+        'Daphne Guinness',
     ],
-    '199c5b43-f80b-5799-a7ec-08d75d230dd6' => [
-        'People always fear change. People feared electricity when it was invented, didn\'t they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters.',
-        'Bill Gates',
+    '8c99590c-21e4-5dd8-a693-91bb6578904a' => [
+        'One could not pluck a flower without troubling a star.',
+        'Loren Eiseley',
     ],
-    'f6a4529a-0509-52e0-8a8e-2f3338224257' => [
-        'The new midlife is where you realize that even your failures make you more beautiful and are turned spiritually into success if you became a better person because of them. You became a more humble person. You became a more merciful and compassionate person.',
-        'Marianne Williamson',
+    'bb2161f8-e1e5-57f7-818d-4d41d870776f' => [
+        'They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?',
+        'Fidel Castro',
     ],
-    '703ef2c8-0f9f-5d9f-bd96-7a4f1cab0dd3' => [
-        'My whole life is about winning. I don\'t lose often. I almost never lose.',
-        'Marcus Aurelius',
+    '7d257c75-7200-5d1d-8d1c-4233647b8293' => [
+        'I think I am a travel junkie, and I have never enjoyed anything else in my life more than travelling and going to places.',
+        'Imtiaz Ali',
     ],
-    '25060397-9599-53b5-8e64-51a6304babed' => [
-        'Who sows virtue reaps honour.',
-        'Leonardo da Vinci',
+    '29278efc-32d1-57f4-8643-1feed4482566' => [
+        'There are a lot of female artists my age around at the moment, but they\'re all American and blonde and blue-eyed and smiley. I\'m totally the opposite of that. I want to show a bit more attitude and I have an opinion.',
+        'Samantha Mumba',
     ],
-    '5b95acd1-4d86-5e75-b915-a240149f1724' => [
-        'The only thing I\'m addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent.',
-        'Charlie Sheen',
+    '0f3166c1-4f0e-524d-9d57-03e2b8169c61' => [
+        'My work is like my vacation, so in a way every day is like Saturday.',
+        'Ludacris',
     ],
-    '882cad1e-6536-51a1-aec3-23077850ead7' => [
-        'I sat in at every club in New York City, jamming with musicians, because it felt right - and because it felt right and we were having fun - the people dancing and sipping their drinks in the clubs felt it too and it made them smile.',
-        'Ray Conniff',
+    'edd2ce2c-ee76-5962-97c9-5f8919f6b0be' => [
+        'Without social cohesion, the human race wouldn\'t be here: We\'re not formidable enough to survive without the tactics, rules and strategies that allow people to work together.',
+        'Peter Guber',
     ],
-    '01c3609a-1883-5349-8d32-a85477beb783' => [
-        'A lot of people think they should be happy all the time. But the writer understands you need both. You need the whole piano: the richness of the whole human experience. Depression, suffering and anger are all part of being human.',
-        'Janet Fitch',
+    '7466deb0-882d-5cb8-b615-d48ae3700b33' => [
+        'I had an amazing experience working with great people. I had a great family, a typical family with drama in certain areas, and that\'s pretty much everywhere in everyone\'s life.',
+        'Tina Yothers',
     ],
-    '214d3d2b-0971-5d51-8d30-7d68b6bc44fb' => [
-        'You can\'t be afraid to fail. It\'s the only way you succeed - you\'re not gonna succeed all the time, and I know that.',
-        'LeBron James',
+    'a4314f5d-407d-5253-9526-59dbd0ea9717' => [
+        'I mean, the shoe - there is a music to it, there is attitude, there is sound, it\'s a movement. Clothes - it\'s a different story. There are a million things I\'d rather do before designing clothes: directing, landscaping.',
+        'Christian Louboutin',
     ],
-    '22eeea74-116e-5469-9b37-bf21ec827708' => [
-        'I\'d rather not have a moment when I\'m known for my looks; being funny and interesting lasts longer.',
-        'Kelly Ripa',
+    '73e57071-bc94-5254-a8b7-2a03f9b7dfa1' => [
+        'I want to see friends more and travel more.',
+        'Jennifer Aniston',
     ],
-    'a2a08468-a25b-50c2-a04b-8b5fc6366235' => [
-        'While it is desirable to build up the colored race, we must not sacrifice our best and purest white friends.',
-        'Hiram Rhodes Revels',
+    '1da6b25a-dc6a-51e1-9d11-7bc163c3255b' => [
+        'In the United States there\'s a Puritan ethic and a mythology of success. He who is successful is good. In Latin countries, in Catholic countries, a successful person is a sinner.',
+        'Umberto Eco',
     ],
-    '357a59b8-f743-54de-9ff3-48651f811732' => [
-        'We\'ve got fuel prices coming down and good travel numbers coming out, so it\'s not surprising airline stocks are going up.',
-        'Andrew Sullivan',
+    'c8078744-260a-5360-84f2-ad3c722fa7d8' => [
+        'The 1990s, after the reign of terror of academic vandalism, will be a decade of restoration: restoration of meaning, value, beauty, pleasure, and emotion to art and restoration of art to its audience.',
+        'Camille Paglia',
     ],
-    '835e2494-44cd-5160-a843-fc063773928f' => [
-        'Jazz, to me, is one of the inherent expressions of Negro life in America: the eternal tom-tom beating in the Negro soul - the tom-tom of revolt against weariness in a white world, a world of subway trains, and work, work, work; the tom-tom of joy and laughter, and pain swallowed in a smile.',
-        'Langston Hughes',
+    '432be7f5-773f-5687-98f8-43f62a3f3ca7' => [
+        'Just when the caterpillar thought the world was ending, he turned into a butterfly.',
+        'Proverb',
     ],
-    'cc77ba62-7736-567d-96e0-3e269da84db4' => [
-        'Always keep your smile. That\'s how I explain my long life.',
-        'Jeanne Calment',
+    '65e6733c-c2ec-5a4d-ab27-08a83ec2eb09' => [
+        'I wanted to have the adoration of John Lennon but have the anonymity of Ringo Starr. I didn\'t want to be a frontman. I just wanted to be back there and still be a rock and roll star at the same time.',
+        'Kurt Cobain',
     ],
-    '83dc0177-22d2-5a0c-a2f7-923e9c5c5671' => [
-        'You get more churches burned down in the United States in the last two years than in the last hundred, because of the lack of understanding of culture and diversity and the beauty of it.',
-        'Edward James Olmos',
+    'a57593dc-3a01-50c4-896b-93710b3d04e9' => [
+        'Making money is often more fun than spending it, though I personally have never regretted money I\'ve spent on friends, new experiences, saving time, travel, and causes I believe in.',
+        'Sam Altman',
+    ],
+    '96c15c20-f235-528c-b747-6a849c62304f' => [
+        'I feel like a little kid who just walked into a candy store. I think that\'s something to smile about.',
+        'Brandon Boyd',
+    ],
+    '59ba46b2-02e8-5072-9701-a60a98523266' => [
+        'Waste your money and you\'re only out of money, but waste your time and you\'ve lost a part of your life.',
+        'Michael LeBoeuf',
+    ],
+    'b21b1dc5-b152-5349-bdbd-0f105851d9c0' => [
+        'Living at risk is jumping off the cliff and building your wings on the way down.',
+        'Ray Bradbury',
+    ],
+    '3131063c-fa3a-5349-987c-aa125aa721fd' => [
+        'Obsessed is a word that the lazy use to describe the dedicated.',
+        'Unknown',
+    ],
+    '0608ef6c-4f99-516d-a72b-a16d99da9453' => [
+        'I think the rise of China is one of the great events of all economic and human history, and I think this will be overwhelmingly a positive thing for the region and the world.',
+        'Paul Keating',
+    ],
+    '4acfc2f8-637f-53e7-95ae-f834983680eb' => [
+        'Poetry, at its best, is the language your soul would speak if you could teach your soul to speak.',
+        'Jim Harrison',
+    ],
+    '00bf9755-1803-5341-9e2c-496f32d5c01c' => [
+        'All the freaky people make the beauty of the world.',
+        'Michael Franti',
+    ],
+    'ff4f611b-8e4b-5957-9615-e19aea1511ee' => [
+        'Life is short and if you\'re looking for extension, you had best do well. \'Cause there\'s good deeds and then there\'s good intentions. They are as far apart as Heaven and Hell.',
+        'Ben Harper',
+    ],
+    '9e05061d-68d9-5746-929b-bec79661e397' => [
+        'I believe that the open exchange of information can have a positive global impact.',
+        'Biz Stone',
+    ],
+    '81133bbc-62f8-557f-a805-84ddf2542954' => [
+        'The 1st period is won by the best technician. The 2nd period is won by the kid in the best shape. The 3rd period is won by the kid with the biggest heart.',
+        'Dan Gable',
+    ],
+    '249174a0-1d0d-5a0f-afd4-7e47bd9231f8' => [
+        'Is it right to probe so deeply into Nature\'s secrets? The question must here be raised whether it will benefit mankind, or whether the knowledge will be harmful.',
+        'Pierre Curie',
+    ],
+    'b8d0a2cf-572e-5d9c-b2e5-3651e9c75c63' => [
+        'Riding Valegro always makes you smile, so I enjoy it.',
+        'Charlotte Dujardin',
+    ],
+    'e625900f-0fa5-5dfe-86fe-84dbcd98ec39' => [
+        'What\'s on my playlist when I\'m fighting is not so much hip-hop. Sometimes, it\'s something more inspirational. I get a chance to think about what I\'m fighting for, like, my family. It takes me to that state because a lot of times, it\'s a spiritual warfare for me.',
+        'Tyron Woodley',
+    ],
+    'a74ad0ee-c960-57f6-bd8a-f2ab3c65dac7' => [
+        'My definition, a definition in the drill books from the time that General Von Steuben wrote the regulations for General George Washington, the definition of the object of military training is success in battle... It wouldn\'t be any sense to have a military organization on the backs of the American taxpayers with any other definition.',
+        'Chesty Puller',
+    ],
+    'c3b7586b-fd18-5675-99f0-029d3ae22896' => [
+        'The only place success comes before work is in the dictionary.',
+        'Vince Lombardi',
+    ],
+    'cf4a0198-47d7-5f8e-884a-232c877fed72' => [
+        'We can do better in higher education. And it is more than just technology. It\'s also an attitude on the part of faculty. We need to think through how we can produce a better quality product at less cost.',
+        'Roy Romer',
+    ],
+    'aeda8a14-a4dc-58d9-b7c7-48190368329a' => [
+        'I just feel like people like a little break. Especially at 12:37 at night, you go, like, \'I\'m just tired of the snarky right now. I just want to lie down and have somebody make me laugh for an hour. Entertain me, and then I\'m going to sleep with a smile on my face.\' That\'s my job; that\'s what I do.',
+        'Jimmy Fallon',
+    ],
+    '470c00c7-37e3-5b5d-a15d-aa4444458c8a' => [
+        'I\'m very fond of the British cinema. I\'m a big fan of Martin Campbell and Daniel Craig. I actually find Daniel very inspirational, especially on the physical side of things. He really inspired me to get back into shape when I started to add on a few pounds. I think he\'s a great role model.',
+        'Steven Bauer',
+    ],
+    '39fd86a4-9d4a-59b0-a068-2546ced9d37c' => [
+        'The truest wisdom is a resolute determination.',
+        'Napoleon Bonaparte',
+    ],
+    '28b79b8c-82bd-5941-b08c-6935778da2c6' => [
+        'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it.',
+        'W. C. Fields',
+    ],
+    '329e6905-ea99-57b6-8e29-bb2824dad76f' => [
+        'Flu can be serious, and it kills tens of thousands of Americans each year. Vaccination is easier and more convenient than ever, so get yourself and your family protected.',
+        'Tom Frieden',
+    ],
+    'e79873bd-b231-5bd5-8c08-0f41e6975806' => [
+        'It\'s easy to walk away from risk, and you don\'t actually have to face it. Success is based upon overcoming the inherent risk you can\'t manage your way out of.',
+        'Maurice Flanagan',
+    ],
+    'f13c0385-fe63-515c-bd67-794bcaf9343f' => [
+        'If you\'re changing the world, you\'re working on important things. You\'re excited to get up in the morning.',
+        'Larry Page',
+    ],
+    '8da45791-e27d-5005-b47e-3a9e06f96004' => [
+        'For a writer only one form of patriotism exists: his attitude toward language.',
+        'Joseph Brodsky',
+    ],
+    '6329c27d-c54e-5c87-b191-c22716deec03' => [
+        'We have the ability to craft a life where we are completely fulfilled. We think it is dependent on outsiders, and to some extent it is, but it is much more dependent on the attitude we bring to life.',
+        'Srikumar Rao',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '0f008a82-2f95-5dc2-b3b5-cf1fe7c3df12' => [
-        'The mind that tries to shape tomorrow beyond its capacities will find no rest.',
-        'Rumi',
+    '46b09b7a-f7a5-58dc-8024-51b17a2fe359' => [
+        'Success consists of going from failure to failure without loss of enthusiasm.',
+        'Winston Churchill',
     ],
-    '17238b61-2f9e-5954-9b68-3d0519b28c50' => [
-        'Do not wait for leaders; do it alone, person to person.',
-        'Mother Teresa',
+    '792cc0d8-b9cd-5491-85a9-d28b908021f6' => [
+        'Since we launched the original \'Pop Idol\' in England, I\'ve remained close with Simon Fuller. Working as executive producer on \'American idol\' for its first seven years not only was an inspirational journey into the heart of American pop culture, it opened my eyes to the untapped potential of the incredibly dynamic young people in this world.',
+        'Nigel Lythgoe',
     ],
-    'd6a1982b-4e8e-5312-80a4-8a7b255b76d7' => [
-        'Nature was my kindergarten.',
-        'William Christopher Handy',
+    '15c9d1f3-60a2-5b43-b61b-ad416b54b4aa' => [
+        'Things turn out best for the people who make the best of the way things turn out.',
+        'John Wooden',
     ],
-    '64d29600-d02e-576f-94fd-a861d2ca5f2b' => [
-        'I\'ve lived in many things - boats, caravans, and buses. I\'ve been homeless, I\'ve had no money: everything. But I believe in magic, and having a vision. The tough times made me a warrior. I work hard.',
-        'Neon Hitch',
+    '126100ee-b300-53c7-a428-a2dcf77c609c' => [
+        'Certain thoughts are prayers. There are moments when, whatever be the attitude of the body, the soul is on its knees.',
+        'Victor Hugo',
     ],
-    '50aebc40-df92-5763-a3b9-694ab15076f5' => [
-        'Originally, the burden of proof was on physicists to prove that time travel was possible. Now the burden of proof is on physicists to prove there must be a law forbidding time travel.',
-        'Michio Kaku',
+    '61a35206-47fc-5362-9352-7597f6acb48a' => [
+        'Saudi Arabia has stability. The social contract and the political contract between the king and the rulers and the royal family and the ruled people in Saudi Arabia is very strong and the bondage is so solid.',
+        'Al-Waleed bin Talal',
     ],
-    '2bd6873b-8798-5454-976c-d6e080742f11' => [
-        'It\'s funny when people say, \'I don\'t think Julia likes me.\' Honey, if I don\'t like you, you\'re going to know about it.',
-        'Julia Roberts',
+    '806d1cd2-b27c-5ecd-a4bc-1026a1f59f70' => [
+        'Globalization has changed us into a company that searches the world, not just to sell or to source, but to find intellectual capital - the world\'s best talents and greatest ideas.',
+        'Jack Welch',
     ],
-    '9fe358b1-1e95-584b-ab1f-20ab3a3258c6' => [
-        'It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.',
-        'Dalai Lama',
+    '60a6ecef-d680-5a30-83dd-df327656e4ed' => [
+        'Life isn\'t about finding yourself. Life is about creating yourself.',
+        'Bernard Shaw',
     ],
-    '33c42a09-f809-550a-a5bf-cb6637deb9f3' => [
-        'We are so obsessed with doing that we have no time and no imagination left for being. As a result, men are valued not for what they are but for what they do or what they have - for their usefulness.',
-        'Thomas Merton',
+    '2a7c93c5-a5ca-55be-8fcf-c3caac9342ca' => [
+        'Because sorry to say, women run the house. They run the family. They hold things up. I mean, it\'s like you don\'t ever see your mom get sick because she handles everything. And it\'s kind of amazing I think to show people just how strong women are.',
+        'Sophia Bush',
     ],
-    'd729ed7f-f3f4-5c22-9f9f-22692d8fe3cb' => [
-        'Be as you wish to seem.',
-        'Socrates',
+    'c6ffa940-28ab-53e3-8feb-e26150932bfd' => [
+        'My whole damn family was nice. I don\'t think I\'ve imagined it. It\'s true. Maybe it has to do with being brought up as Christian Scientists. Half of my relatives were Readers or Practitioners in the church.',
+        'Henry Fonda',
     ],
-    '6ca35c4f-bf98-5da7-b39f-60db36c89615' => [
-        'Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.',
-        'Colin Powell',
+    '53a1dce0-634e-5bf4-b718-8a91cd4f7635' => [
+        'You only live once, but if you do it right, once is enough.',
+        'Mae West',
     ],
-    'dfe5b2a6-d91b-560a-b2ba-5c19211d5ea8' => [
-        'Contracts are not a holy relic in football. You can like this attitude or not, but it\'s the truth. Sometimes you have to think about if it is meaningful to try out a new impulse.',
-        'Robert Lewandowski',
+    '90ba8f5d-86b9-5508-9824-810c8a914cf5' => [
+        '\'SMiLE\' is perhaps the Beach Boys\' most legendary album. It was recorded in 1966 and 1967 but only saw a formal release in 2011. That\'s a long time to wait for what was said to be Brian Wilson\'s masterpiece.',
+        'Henry Rollins',
     ],
-    '87074d7d-3d52-57d8-942f-72ecc856db59' => [
-        'If you cannot do great things, do small things in a great way.',
-        'Napoleon Hill',
+    'fb19b1da-041f-53ec-a5d2-c1d6e2e237b7' => [
+        'It\'s not fair the emphasis put on beauty, or on sexuality.',
+        'Rosanna Arquette',
     ],
-    'b741c72a-de03-5eb7-b000-6526ebd5ed2c' => [
-        'We can use decision-making to choose the habits we want to form, use willpower to get the habit started, then - and this is the best part - we can allow the extraordinary power of habit to take over. At that point, we\'re free from the need to decide and the need to use willpower.',
-        'Gretchen Rubin',
+    '7463d462-780e-59bd-86a6-bde53e299d02' => [
+        'Success is the sum of small efforts, repeated day-in and day-out.',
+        'Robert Collier',
     ],
-    '273657f0-b002-5182-b9b1-8bfb3f781be3' => [
-        'My Hellboy is modeled on my father in some ways: a guy who\'s been in the Korean War, and he\'s traveled, and he\'s done a lot of stuff, and he\'s kind of got a been there, done that attitude. He\'s also been in the world. Del Toro\'s change was to have Hellboy bottled up in a room and mooning over the girl he can\'t have.',
-        'Mike Mignola',
+    '2b496d8b-157a-54bd-b829-023d11b20bec' => [
+        'As a New Yorker, this is what you do: you confront, jab, and slap, sometimes wrongly, then smile and forget about it.',
+        'Greg Gutfeld',
     ],
-    '2b109419-572a-59cd-ad39-19eccae17603' => [
-        'Life is an adventure, it\'s not a package tour.',
+    '35a316c9-01d2-56c7-8f55-5a08b1c587be' => [
+        'If you have enthusiasm, you have a very dynamic, effective companion to travel with you on the road to Somewhere.',
+        'Loretta Young',
+    ],
+    '1e37d098-47f2-5de6-8d6c-ae71a3731666' => [
+        'Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.',
+        'Theodore Isaac Rubin',
+    ],
+    'b886e34a-403e-5383-bbe4-891b6f12a169' => [
+        'No one really has a bad life. Not even a bad day. Just bad moments.',
+        'Dale Evans',
+    ],
+    '9d3de392-627e-5754-90cb-500389308156' => [
+        'Regard every suggestion that your life may be a failure, that you are not made like those who succeed, and that success is not for you, as a traitor, and expel it from your mind as you would a thief from your house.',
+        'Orison Swett Marden',
+    ],
+    'b4004167-f435-5615-bd81-6869ead5a14d' => [
+        'My advice to young wrestlers is that your surroundings really make a difference. You want to put yourself in good, positive surroundings.',
+        'Dan Gable',
+    ],
+    '16097360-8a96-5e04-9de3-2682ef9d9c2d' => [
+        'It\'s funny how a chubby kid can just be having fun, and people call it entertainment!',
+        'Garth Brooks',
+    ],
+    'dff6d051-df50-5464-b9b2-5c5c2b4e52c9' => [
+        'I think acting is about forgetting yourself in order to give the best of yourself. It\'s passing through you more than you\'re creating it. You\'re not the flower, but the vase which holds the flower.',
+        'Juliette Binoche',
+    ],
+    '3d2ed2af-d3f1-55b8-9a4a-9b4b5c0f0790' => [
+        'The essential element of successful strategy is that it derives its success from the differences between competitors with a consequent difference in their behavior.',
+        'Bruce Henderson',
+    ],
+    '20bca63c-cf28-5037-9e11-f6a6f32ce7ad' => [
+        'My books always focus on the response of the characters to extreme events. As dark as they get, they are ultimately positive, uplifting books about children who take control of their lives and overcome great adversaries. I think that is why they have been so popular.',
+        'Darren Shan',
+    ],
+    'b024c8e7-803e-55aa-a6a9-7d35a907b465' => [
+        'Go the extra mile -- it\'s never crowded.',
+        'Anonymous',
+    ],
+    '0987f0f1-ddaf-56a2-bfc6-74a587962008' => [
+        'It is human nature to instinctively rebel at obscurity or ordinariness.',
+        'Taylor Caldwell',
+    ],
+    '1e7da742-92b5-5cd9-96b6-e8c45a1f08ae' => [
+        'You can learn what you want to learn through hard work. And a good employer will teach you what you want to learn as long as you show the right attitude and behaviors.',
+        'Gerald Chertavian',
+    ],
+    'e7265d5c-c459-5d95-8df6-2b5ac8e09387' => [
+        'The misconception is that standup comics are always on. I don\'t know any really funny comics that are annoying and constantly trying to be funny all the time.',
+        'Joe Rogan',
+    ],
+    '6ad5cf5f-88d9-5311-ab14-24849bc0db99' => [
+        'The greatest gift of all time is that you can make creation infectious because people spend less time being negative... If you log all the time with negativity in the while world, I wonder how much better the world would be if people sat down and did something positive. It spirals.',
+        'Skrillex',
+    ],
+    'db977117-d695-5728-adeb-6f8349c478e8' => [
+        'Comrades, this man has a nice smile, but he\'s got iron teeth.',
+        'Andrei A. Gromyko',
+    ],
+    'cae1978a-e6d5-5d88-82ae-5d40e1c3468c' => [
+        'Braving obstacles and hardships is nobler than retreat to tranquility.',
         'Khalil Gibran',
     ],
-    'e16c93fb-5415-5f88-8dc0-5bedb02f7613' => [
-        'Whenever I travel to a poor country, I try to help at least one person. Usually, that person helps me just as much - I can find a local poor person to be my guide or my interpreter. That person makes money from me, I make money from him or her, we both learn about each other. It\'s an equal win-win relationship.',
-        'William T. Vollmann',
+    '94f84375-25dc-5ef4-8ae1-060711265f1b' => [
+        'To live is so startling it leaves little time for anything else.',
+        'Keanu Reeves',
     ],
-    'b7354c4f-483c-5e3a-bb8c-564bfb145e52' => [
-        'My favorite kind of humor is basically, if it was happening to you, it wouldn\'t be funny, but to observe it, it\'s hilarious.',
-        'Bill Burr',
+    'aa1eeb3c-5104-5568-9db3-d8f1f64999f9' => [
+        'I keep sailing on in this middle passage. I am sailing into the wind and the dark. But I am doing my best to keep my boat steady and my sails full.',
+        'Arthur Ashe',
     ],
-    'c59c905d-7a1c-5a0c-b8b2-9ef96f0dcbc7' => [
-        'For the Trump brand name, when we build, we want only the best buildings in the world. We travel a lot to see real estate projects worldwide, and we always study what can be done better. There\'s no question about it: a Trump Tower has to have the very best quality, amenities and facilities. People want that ultra-luxurious lifestyle.',
-        'Eric Trump',
+    '6fc556b3-0260-5ecd-a9fc-bf692e72bfc9' => [
+        'The price of greatness is responsibility.',
+        'Winston Churchill',
     ],
-    'ffc4702b-b7f7-52fe-8530-73d5f1d5a050' => [
-        'I found that being with happy positive people annoys me.',
-        'Karl Pilkington',
+    'd7d20bcc-fa47-547f-97e8-d6e9205e6eb0' => [
+        'What does it mean to pre-board? Do you get on before you get on?',
+        'George Carlin',
     ],
-    '33c465f6-d22b-5476-9a00-2ff7ee52748a' => [
-        'To have faith doesn\'t mean you get any less frustrated when you don\'t do your best, but you know that it\'s not life and death. Take what you\'re given, and when you continue to work hard, you will see results. That will give you the confidence you need to keep going.',
-        'Tom Lehman',
+    'c834bbd1-d5cf-570c-a2a6-4ad1289d2cfd' => [
+        'I don\'t travel anywhere without the PS3 and XBox. There\'s nothing better to do on long bus trips while on tour.',
+        'Soulja Boy',
     ],
-    '5d3c7865-3b02-5c2c-9f2d-ff7db5f8f6d5' => [
-        'Success is dependent upon the glands - sweat glands.',
-        'Zig Ziglar',
+    '37799abe-0113-5267-8e45-dedf89286ac5' => [
+        'Mountains cannot be surmounted except by winding paths.',
+        'Johann Wolfgang von Goethe',
     ],
-    '0ca59b97-8fa0-5b55-95be-b580785d7bcc' => [
-        'Excellence is not a skill, it\'s an attitude.',
-        'Ralph Marston',
+    'b7b3fdb4-5821-5d1f-8685-84339178774c' => [
+        'The joy of songwriting only gets messed up if you are trying to follow up a big success, or you are trying to create a hit single, or if you have conscious thoughts of a particular outcome for the music.',
+        'Tim Finn',
     ],
-    'b79a5ab1-f3e8-578f-850d-01c0e258033f' => [
-        'A national park is not a playground. It\'s a sanctuary for nature and for humans who will accept nature on nature\'s own terms.',
-        'Michael Frome',
+    '2c6d99ad-4675-5501-916e-a27e83c0f5e6' => [
+        'Winning is fun, but those moments that you can touch someone\'s life in a very positive way are better.',
+        'Tim Howard',
     ],
-    'c1f7867f-3dcd-5194-b194-f6366fb3e7b9' => [
-        'Consciously or not, we are all on a quest for answers, trying to learn the lessons of life. We grapple with fear and guilt. We search for meaning, love, and power. We try to understand fear, loss, and time. We seek to discover who we are and how we can become truly happy.',
-        'Elisabeth Kubler-Ross',
+    'c9eeae57-9a0d-5d00-98f4-3c16d2ea2b32' => [
+        'Good management consists in showing average people how to do the work of superior people.',
+        'John D. Rockefeller',
     ],
-    'af2a078c-b049-50f0-8405-85cc0d758f2d' => [
-        'Let me be the first to tell you, drinking alcohol is the worst thing to do in cold weather. Hot soup is the best because the process of digesting food helps to warm you up.',
-        'Morgan Freeman',
+    '02719f35-6c07-542b-b045-15ff4fc700c2' => [
+        'I didn\'t allow failure to break my heart. So I wouldn\'t allow success to bloat my head.',
+        'Randeep Hooda',
+    ],
+    'cdf114bf-0a11-50e9-961f-d2b47a10b024' => [
+        'America is still mostly xenophobic and racist. That\'s the nature of America, I think.',
+        'Jerry Garcia',
+    ],
+    'a305af62-34a3-58c0-8849-a1bba19e6aa8' => [
+        'Travel teaches toleration.',
+        'Benjamin Disraeli',
+    ],
+    '61d0147c-8b9b-5f69-8b80-a16fcdce6cf0' => [
+        'Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.',
+        'David Jordan',
+    ],
+    '069b14f4-67f4-56f6-bc4e-a3ecc065027c' => [
+        'In life, you have to take the pace that love goes. You don\'t force it. You just don\'t force love, you don\'t force falling in love, you don\'t force being in love - you just become. I don\'t know how to say that in English, but you just feel it.',
+        'William James',
+    ],
+    '85cb3086-922a-5847-8ad8-dbd817fecbc3' => [
+        'I don\'t think I\'d be happy if I were satisfied. I enjoy challenge, and I wouldn\'t say that I\'m an ambitious person career-wise or financially, really. I would like to travel more comfortably, but that\'s really about all I need.',
+        'Jason Isbell',
+    ],
+    '9905b3aa-ec1e-598d-baa2-a92d21bd3f00' => [
+        'I knew, regardless of anything else, singing in front of an orchestra was going to be inspirational. It would feed me.',
+        'George Michael',
+    ],
+    '85a75f2d-1d9d-5b87-b18a-571b0a4002e5' => [
+        'Time is a beautiful thing. It\'s like when you meet an old lover on the street six years later and they don\'t look so ugly anymore.',
+        'Sarah McLachlan',
+    ],
+    'b0c84491-8abf-5d70-a2b0-f8c19bfd2ee6' => [
+        'So at a time in which the media give the public everything it wants and desires, maybe art should adopt a much more aggressive attitude towards the public. I myself am very much inclined to take this position.',
+        'Thom Mayne',
+    ],
+    'a8e8c54b-9482-5ede-a715-c519882af789' => [
+        'I do think that travel can be part of a journey of inner maturation, but you\'ve got to do it right.',
+        'Alain de Botton',
+    ],
+    '2678302e-c559-51da-ac5e-f3874cc37cb0' => [
+        'In the hierarchy of public lands, national parks by law have been above the rest: America\'s most special places, where natural beauty and all its attendant pleasures - quiet waters, the scents of fir and balsam, the hoot of an owl, and the dark of a night sky unsullied by city lights - are sacrosanct.',
+        'Michael Shnayerson',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'e2b6b79d-07ef-5c11-9d64-aab1f726ed5d' => [
-        'You can\'t just let nature run wild.',
-        'Walt Disney',
+    'd19f1105-7d1c-5c4d-b05c-f3e5d053bdee' => [
+        'I grew up in a family where we weren\'t allowed to talk about beauty or to put any emphasis on physical appearance.',
+        'Pam Grier',
     ],
-    '77f68b49-4a39-5f82-bff2-35c0a1465e70' => [
-        'One who is kind is sympathetic and gentle with others. He is considerate of others\' feelings and courteous in his behavior. He has a helpful nature. Kindness pardons others\' weaknesses and faults. Kindness is extended to all - to the aged and the young, to animals, to those low of station as well as the high.',
-        'Ezra Taft Benson',
+    'e3a611c7-56a0-56d1-8493-bc5a3120cd6d' => [
+        'Our thoughts really do create our lives. They\'ve done a lot of research showing if you\'re an optimistic, positive person you will be a healthier person than if you\'re a sad, depressed, negative person.',
+        'Alana Stewart',
     ],
-    'bd582e69-1b89-51d1-80ee-a88962081c52' => [
-        'I\'m not a defender of old or new football managers. I believe in good ones and bad ones, those that achieve success and those that don\'t.',
-        'Jose Mourinho',
+    'e7ba8c68-233d-50d3-8d13-56e6014466d8' => [
+        'I\'ve always felt that specialization is best left to the insects.',
+        'Gregory Benford',
     ],
-    '5ecd1446-9736-5b64-9d44-664bd65d1074' => [
-        'Being funny is one of my greatest strengths. I can make girls smile when they\'re down, and when they\'re having a good time, I can carry on the joke.',
-        'John Krasinski',
+    '5235db47-a14d-5502-aa0b-6cd0e36d2ca9' => [
+        'I think I usually have quite ordinary dreams. Sometimes my dreams take me to other dimensions. I can travel in my mind especially when I\'m dreaming I focus my mind on what I want to dream. If I want to fly, I focus on flying.',
+        'Uri Geller',
     ],
-    'c0768944-3bb7-55c4-827c-189ba8f97354' => [
-        'I never thought of myself as like, a funny person.',
-        'Lena Dunham',
+    '60df1a2c-010a-54b7-bd6d-bf020ac044fa' => [
+        'We all need to make time for a burger once in a while.',
+        'Erica Durance',
     ],
-    '6fb04dea-c051-5d8c-ba2d-a8a18e2affc4' => [
-        'This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.',
-        'Hannah Arendt',
+    '5d1bf53b-012a-5d49-a0f8-d503c212637e' => [
+        'Millions of us, myself included, go back generations in this country, with ancestors who put in the painstaking work to become citizens. So we don\'t like the notion that anyone might get a free pass to American citizenship.',
+        'Barack Obama',
     ],
-    'a053906c-0234-54fe-bd99-34292880fe47' => [
-        'Success in almost any field depends more on energy and drive than it does on intelligence. This explains why we have so many stupid leaders.',
-        'Sloan Wilson',
+    '6a469086-1bc1-5738-89ad-126aba131b68' => [
+        'No one can come and claim ownership of my work. I am the creator of it, and it lives within me.',
+        'Prince',
     ],
-    '0e8d362d-669a-5c86-b3f0-84897171c860' => [
-        'The key to success is to keep growing in all areas of life - mental, emotional, spiritual, as well as physical.',
-        'Julius Erving',
+    'eff9eaca-4c34-5ed3-aa25-27f6b4053072' => [
+        'You know you\'re a hopeless record nerd when your time travel fantasies always come around to how cool it would be to go back to 1973 and buy all the great funk and jazz and salsa records that came out that year on tiny obscure labels and are now really rare and expensive.',
+        'Adam Mansbach',
     ],
-    'ba5103b6-a96b-5ed3-b618-0f1a48b225e2' => [
-        'Heat cannot be separated from fire, or beauty from The Eternal.',
-        'Dante Alighieri',
+    '1903b1dd-576f-5a6c-84fe-ba9b748bbaca' => [
+        'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
+        'Patricia Sun',
     ],
-    'bb3a2e40-870f-5df9-a46a-9ad877c269c1' => [
-        'Too much self-centered attitude, you see, brings, you see, isolation. Result: loneliness, fear, anger. The extreme self-centered attitude is the source of suffering.',
-        'Dalai Lama',
+    'b6129f28-b3c5-5a6b-8201-5e9baa33db7c' => [
+        'Efficiency is doing things right; effectiveness is doing the right things.',
+        'Peter Drucker',
     ],
-    'bd3b7c1d-af42-5db4-aa09-ba662304f8e3' => [
-        'The foot feels the foot when it feels the ground.',
-        'Buddha',
+    '8e1dd01b-9a75-5aa4-8a7c-cd9c7f2b8278' => [
+        'The best marriages are the ones where we can go out in the world and really put ourselves out there. A lot of times we\'ll fail, and sometimes we\'ll pull it off. But good marriages are when you can go home and know that your vulnerability will be honored as courage, and that you\'ll find support.',
+        'Brene Brown',
     ],
-    'f41091e3-3095-585c-8921-d00479592f54' => [
-        'Crime is terribly revealing. Try and vary your methods as you will, your tastes, your habits, your attitude of mind, and your soul is revealed by your actions.',
-        'Agatha Christie',
+    '23c3d60a-ad6a-54e1-ae6a-69b35d386e74' => [
+        'Fears are nothing more than a state of mind.',
+        'Napoleon Hill',
     ],
-    'fa083d34-fceb-5262-9c35-2b317cb23ef4' => [
-        'Success - it\'s what you do with what you\'ve got.',
-        'Woody Hayes',
+    '23830acb-6159-52a3-a4e3-cc4a22c6c439' => [
+        'I read on my iPad when I travel. I listen to audiobooks in the car. I read books in my bedroom, where I have a comfortable couch, a lamp and two dogs to keep me warm.',
+        'Isabel Allende',
     ],
-    'b5b16205-3dea-59a9-8baa-20d8e3365c11' => [
-        'Everyone has been made for some particular work, and the desire for that work has been put in every heart.',
-        'Rumi',
+    '2eea134b-9689-5d13-8653-390bcb2826cb' => [
+        'I do believe we\'re all connected. I do believe in positive energy. I do believe in the power of prayer. I do believe in putting good out into the world. And I believe in taking care of each other.',
+        'Harvey Fierstein',
     ],
-    'e37cadc3-dbf8-57c3-a65e-f540ad1c2e83' => [
-        'The most positive men are the most credulous.',
-        'Alexander Pope',
+    '27b0bcc8-5b78-5843-bd1a-8808aabf2920' => [
+        'I had hoped when my life was chronicled, it would be an inspirational story.',
+        'Om Puri',
     ],
-    'da87a319-a01c-5d7b-b079-65fedff3bf99' => [
-        'When you write, you put your thoughts in the public space. You get both positive and negative feedback.',
-        'Ravi Subramanian',
+    '0fb52b02-31f2-5842-b16b-7bfa3a46aec6' => [
+        'The things we know best are the things we haven\'t been taught.',
+        'Luc de Clapiers',
     ],
-    '8c0b8ab8-970f-5ebc-b381-0e6cebc6e04a' => [
-        'The most satisfying thing in life is to have been able to give a large part of one\'s self to others.',
-        'Charlie Chaplin',
+    'eb0d25fa-e775-5eed-99e3-5557fdddcb93' => [
+        'When I started out, everyone seemed to be adopting these names... Johnny Rotten, Sid Vicious. I wasn\'t really Rotten or Vicious or Nasty, so I wanted something a bit more funny - yet something that seemed real rock \'n\' roll... something that acknowledged my ambition.',
+        'Billy Idol',
     ],
-    '24175fcd-cdc2-5815-a55a-042903f0511c' => [
-        'I grew up in a very spiritual home in a Liberty City neighborhood of Miami, FL. I was raised in the church, and my mother was a very inspirational person in my life.',
-        'Robert Battle',
+    'b9e97304-af74-57aa-980f-10fb3630acaa' => [
+        'I can\'t really explain what it\'s like to be in love, but I feel like it\'s being comfortable. It\'s almost like having a best friend. It\'s a beautiful thing.',
+        'Ashton Irwin',
     ],
-    'b421c955-f105-5639-862a-db5704431579' => [
-        'Try to always stay focused on the objectives that are possible and the positive - and on having fun outside of the stuff that\'s going on in Washington.',
-        'Rush Limbaugh',
+    'ddd20c94-f912-559c-b4fe-da3156df80e4' => [
+        'Men judge us by the success of our efforts. God looks at the efforts themselves.',
+        'Charlotte Bronte',
     ],
-    '5b3f7e47-dd39-586b-a36c-a38936041537' => [
-        'There comes a moment on a journey when something sweet, something irresistible and charming as wine raised to thirsty lips, wells up in the traveller\'s being.',
-        'Patrick MacGill',
+    '270d2b9d-f215-560f-bd43-6c15042c6a50' => [
+        'When I was in high school I used to sit by myself in the cafeteria - not necessarily by choice - but I thought it was funny to talk to people that weren\'t there.',
+        'Zach Galifianakis',
     ],
-    '02eebc59-f5e4-5e9b-bec2-9841089164b9' => [
-        'I don\'t know if I believe in marriage. I believe in family, love and children.',
-        'Penelope Cruz',
+    '9fffa250-d31c-5990-8569-1e332fbd5cc5' => [
+        'Normally, it takes me about three years to write one of the big books. It is usually four years between releases because of the huge amount of travel and PR and just nuisance going on around them. I have a lot of pressure from publishers and agents.',
+        'Diana Galbadon',
     ],
-    'edada071-0bd7-532d-9177-85ddb8e0b84c' => [
-        'Whatever else is unsure in this stinking dunghill of a world a mother\'s love is not.',
-        'James Joyce',
+    '80087280-e9f8-5804-b6f7-3311adb20add' => [
+        'I\'m quite British in the sense of not expressing my emotions much. I save it for my songs. If you ask about a death in the family, or a lover, I will not be emotional. I\'d probably answer with a smile. Because that\'s what we British blokes do.',
+        'James Blunt',
     ],
-    '7cfb66d6-e75a-52bd-9849-71b4c8f494bb' => [
-        'Rest is not idleness, and to lie sometimes on the grass under trees on a summer\'s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.',
-        'John Lubbock',
+    'c58a76ca-2719-59ba-aa57-d1d93ab156bf' => [
+        'The function of leadership is to produce more leaders, not more followers.',
+        'Ralph Nader',
     ],
-    '1a3562c2-54d8-5711-bdf3-e31486056e46' => [
-        'Having a soft heart in a cruel world is courage, not weakness.',
-        'Katherine Henson',
+    '1e19a4a0-c432-504e-a24e-fe6d5fc51ed2' => [
+        'Success consecrates the most offensive crimes.',
+        'Lucius Annaeus Seneca',
     ],
-    '4eb5f080-5a5d-5706-aa62-a36b0e184e6f' => [
-        'The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life, and the promise of future accomplishments.',
-        'Gustave Flaubert',
+    '35999737-cf4b-5ed7-9c94-4f5d456dd89e' => [
+        'After all, it is the divinity within that makes the divinity without; and I have been more fascinated by a woman of talent and intelligence, though deficient in personal charms, than I have been by the most regular beauty.',
+        'Washington Irving',
+    ],
+    'f8133a4c-c9ae-56aa-b100-02787002e126' => [
+        'I\'m a very positive person. My grandmother taught me that happiness is both a skill and a decision, and you are responsible for the outcome.',
+        'Helen McCrory',
+    ],
+    'e91d5b00-8678-506b-9cc2-3411a3a862f6' => [
+        'Blaze with the fire that is never extinguished.',
+        'Luisa Sigea',
+    ],
+    '24fb82fb-ebf7-5aa1-9581-ba9ddbcb540a' => [
+        'This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.',
+        'Thomas Carlyle',
+    ],
+    '8ce9216d-c5f7-5be4-b808-8bbc5fb1b15d' => [
+        'The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.',
+        'George Shaw',
+    ],
+    '8d7fca7c-71e9-5d98-bf58-62e6f2731661' => [
+        'Our job is to represent the truth of human nature, whether you\'re playing a tender love story that\'s set in a coffee shop or whether you\'re in \'The Avengers,\' which is set in a Manhattan which is exploding.',
+        'Tom Hiddleston',
+    ],
+    'd7c799ea-e1c9-5584-9db3-882fa14a1c7a' => [
+        'The person who can bring the spirit of laughter into a room is indeed blessed.',
+        'Bennett Cerf',
+    ],
+    'ac153919-fa68-525a-9ad6-fbfd09a6fb38' => [
+        'The best person to get something done is a busy person.',
+        'Mark Burnett',
+    ],
+    '2e351701-ef9e-5b7f-9ab2-8bb33da73f32' => [
+        'Giving up doesn\'t always mean you are weak. Sometimes it means that you are strong enough to let go.',
+        'Unknown',
+    ],
+    '92173352-1493-59a4-85d5-d37b4501c9fa' => [
+        'If you can\'t relax during your interview, then nothing you do to prepare will matter. Being yourself is essential to the selection process, and interviewers will feel it if you\'re too nervous. Showing fear or anxiety appears weak compared to a relaxed smile and genuine confidence.',
+        'Travis Bradberry',
+    ],
+    'bb9d2e15-489a-564c-9d22-000a1ba3de66' => [
+        'Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.',
+        'Robert H. Schuller',
+    ],
+    'f6742fc5-05ea-5d9d-b67c-44affd9a4e74' => [
+        'Cute is when a person\'s personality shines through their looks. Like in the way they walk, every time you see them you just want to run up and hug them.',
+        'Natalie Portman',
+    ],
+    'd6f647e8-e5fe-561b-9b12-e9053068acdb' => [
+        'Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.',
+        'Hal Borland',
+    ],
+    '10ee44f0-2cb2-575a-b09e-c3bc18e37551' => [
+        'I find that the harder I work, the more luck I seem to have.',
+        'Thomas Jefferson',
+    ],
+    'b8d6b8d6-429d-5c08-a186-fadc90e1cec3' => [
+        'I\'m starting to think about things that I want to do, things that are fun. One of them is driving a car like a Porsche. I\'ve driven a lot of cars - sedans, trucks and big family vehicles all year long. But there\'s nothing like a four-wheel-drive Porsche.',
+        'Kevin O\'Leary',
+    ],
+    '63572f0b-fe6d-5fa3-99fb-23ad1f0584dc' => [
+        'In nature there are few sharp lines.',
+        'A. R. Ammons',
+    ],
+    '261c891f-0de9-53cc-8740-b0cc30859a72' => [
+        'The moment you cheat for the sake of beauty, you know you\'re an artist.',
+        'David Hockney',
+    ],
+    'ac2d45cd-c1ed-583e-a7b0-5dbb9f138b3b' => [
+        'I was not so committed to financial success that I was willing to abandon my principles and priorities. One of the most visible examples of this is our decision to close on Sunday.',
+        'S. Truett Cathy',
+    ],
+    '9de5abc4-2525-56f9-98cc-378298bb4372' => [
+        'No universal selfishness can bring social good to all. Communism - the effort to give all men what they need and to ask of each the best they can contribute - this is the only way of human life.',
+        'W. E. B. Du Bois',
+    ],
+    'e72d4b8f-4829-5b98-9d05-1601c8b1489a' => [
+        'It is the quality of our work which will please God, not the quantity.',
+        'Mahatma Gandhi',
+    ],
+    'a5fde041-fc3d-549a-b510-1dd1aa86bca3' => [
+        'Be so good they can\'t ignore you.',
+        'Steve Martin',
+    ],
+    'f95e3e17-0b23-53b6-8f3c-8b16d8cd86b0' => [
+        'I\'m writing a book. I\'ve got the page numbers done.',
+        'Steven Wright',
+    ],
+    '5fec6a17-301e-57ea-aab4-10178c963f63' => [
+        'There is nothing so useless as doing efficiently that which should not be done at all.',
+        'Peter Drucker',
+    ],
+    '54623eff-fba7-5d4b-9ca1-aeeaee97c2b9' => [
+        'I just don\'t see myself as a travel writer. I can\'t. I don\'t.',
+        'Robyn Davidson',
+    ],
+    '5ec6703b-0213-592f-b130-c7120b48935f' => [
+        'Maybe it was the home tutoring, or the late start to formal schooling, or an overly cautious and protective upbringing, but in any case, I never became a talkative person. As an adult, I am not always comfortable in social gatherings with small talk. I must have inherited my father\'s gentle nature.',
+        'Charles K. Kao',
+    ],
+    '408d8769-9820-5b7e-8b1e-27068eaa46fb' => [
+        'A tragic irony of life is that we so often achieve success or financial independence after the chief reason for which we sought it has passed away.',
+        'Ellen Glasgow',
     ],
 ];

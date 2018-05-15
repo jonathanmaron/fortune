@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'fd9790af-9a8f-5834-b628-f40a6558a36d' => [
-        'I can see a day soon where you\'ll create your own college degree by taking the best online courses from the best professors from around the world - some computing from Stanford, some entrepreneurship from Wharton, some ethics from Brandeis, some literature from Edinburgh - paying only the nominal fee for the certificates of completion.',
-        'Thomas Friedman',
+    '774f927d-cfa8-512e-91d2-45da7ceb8d99' => [
+        'I think there\'s something in the fact that it\'s hard to be good looking and funny. You have to have an oddball quality; people have to sympathise with you to find you funny.',
+        'Chris O\'Dowd',
     ],
-    'e649ac59-f59e-5491-9f6a-b8554672e6b0' => [
-        'I grew up around a lot of various religions, so it\'s a part of my consciousness in a way. Everything from heavy Catholicism to followers of Indian spiritual masters to Unitarian universalists - all in one family. Though the family aspect was stronger than any particular dogma.',
-        'St. Vincent',
+    '166b22cd-7624-5a6d-ae38-67fb3f4d0ae7' => [
+        'Wars will remain while human nature remains. I believe in my soul in cooperation, in arbitration; but the soldier\'s occupation we cannot say is gone until human nature is gone.',
+        'Rutherford B. Hayes',
     ],
-    '4a01611b-b77a-51d7-b114-a7a6f7bb45b3' => [
-        'I grew up in Europe, where the history comes from.',
-        'Eddie Izzard',
+    '660ed240-e0b8-5c4d-9c2c-d4b46ceab3b2' => [
+        'Everyone is a genius at least once a year. A real genius has his original ideas closer together.',
+        'Georg Lichtenberg',
     ],
-    '2de0106a-c10f-591a-ae41-f107aad1fd12' => [
-        'Whatever you define family as, family is just a part of belonging to something that takes care of you and nurtures you... and when you have lost that, and you want to get that back, it\'s pretty easy to get emotional about it.',
-        'Ellen DeGeneres',
+    'e251f6e2-6a83-530b-9301-4c03b86ebbf7' => [
+        'I want to see success right away. And I want to never give up, never stop.',
+        'Joe Nichols',
     ],
-    '73e0bfcb-cb59-569b-b752-805c8e0229f4' => [
-        'Service to others is the rent you pay for your room here on earth',
-        'Muhammad Ali',
+    '31d60b1c-c0f7-5771-b95f-df7d2384961d' => [
+        'In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.',
+        'Buddha',
     ],
-    '34fb5731-437c-5132-b099-fc482cd135fb' => [
-        'A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.',
-        'Joseph Roux',
+    'faee0b1d-f822-5ba7-b8ed-37f833331fc1' => [
+        'You won\'t skid if you stay in a rut.',
+        'Kin Hubbard',
     ],
-    'a4f2b29d-cdfb-5d25-aedc-e131662352da' => [
-        'A lot of times I find that people who are blessed with the most talent don\'t ever develop that attitude, and the ones who aren\'t blessed in that way are the most competitive and have the biggest heart.',
-        'Tom Brady',
+    '49543527-f8af-584d-a952-fa2c433c7773' => [
+        'Butterflies don\'t know their wings\' Colors, but others see their Splendor.',
+        'Mohith Agadi',
     ],
-    '4953d030-0615-5441-bd81-7912227adcd9' => [
-        'There is no life to be found in violence. Every act of violence brings us closer to death. Whether it\'s the mundane violence we do to our bodies by overeating toxic food or drink or the extreme violence of child abuse, domestic warfare, life-threatening poverty, addiction, or state terrorism.',
-        'Amelia Earhart',
+    '4cd69b93-038d-5b3b-a0e2-52bb59db39b0' => [
+        'There is only one real sin and that is to persuade oneself that the second best is anything but second best.',
+        'Doris Lessing',
     ],
-    'ddd942ee-a856-590b-9489-f218c906fad6' => [
-        'There is a brief moment when all there is in a man\'s mind and soul and spirit is reflected through his eyes, his hands, his attitude. This is the moment to record.',
-        'Yousuf Karsh',
+    'd60d8e01-b35a-570d-a8d0-81a443f33f69' => [
+        'Not only does travel give us a new system of reckoning, it also brings to the fore unknown aspects of our own self. Our consciousness being broadened and enriched, we shall judge ourselves more correctly.',
+        'Ella Maillart',
     ],
-    '3bb0d90d-ce48-55eb-9390-09627d56448a' => [
-        'Rock n\' roll is not just a fashion statement; it is the attitude, and it has a political posturing as well.',
-        'CeeLo Green',
+    'ac7d6a22-48a0-53aa-93bd-f41f18e62b55' => [
+        'You need to be silly to be funny.',
+        'William Shatner',
     ],
-    '7c30b7ae-5942-50a5-84a6-c8742d1487ad' => [
-        'Atoms consist of a positive nucleus and negative electrons flying around outside it. Electrons closest to the nucleus feel a strong negative-on-positive tug, and the bigger atoms get, the bigger the tug. In really big atoms, electrons whip around at speeds close to the speed of light.',
-        'Sam Kean',
+    '3bbbf8fa-f4d6-5317-bb88-c5ab42a8a462' => [
+        'Don\'t be afraid to give your best to what seemingly are small jobs. Every time you conquer one it makes you that much stronger. If you do the little jobs well, the big ones will tend to take care of themselves.',
+        'Dale Carnegie',
     ],
-    'a03d88de-c607-5615-8569-e245b0193aaa' => [
-        'The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants.',
-        'Thomas Jefferson',
+    '59bb6c1c-8653-527c-91a0-bbbe026f14bc' => [
+        'I have a boutique in L.A. and travel there frequently. My visits always put me in a good mood. Maybe it\'s all the sunshine. I could totally live in L.A.',
+        'Monika Chiang',
     ],
-    '597435af-a27b-5d47-8576-d45000c755f6' => [
-        'Human nature is not nearly as bad as it has been thought to be.',
-        'Abraham Maslow',
+    '7b8ffeac-ef6a-54a4-aa4c-033539927c48' => [
+        'Your ordinary acts of love and hope point to the extraordinary promise that every human life is of inestimable value.',
+        'Desmond Tutu',
     ],
-    '1b580606-30e9-5d8a-8454-b660b7ad2422' => [
-        'I think we\'re going to the moon because it\'s in the nature of the human being to face challenges. It\'s by the nature of his deep inner soul... we\'re required to do these things just as salmon swim upstream.',
-        'Neil Armstrong',
+    '66c3a259-5b4e-556f-8e23-41b7f32806a9' => [
+        'Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.',
+        'Tina Brown',
     ],
-    '300fda46-565b-5875-88d2-39c734f107dc' => [
-        'I love children and I get along with them great. It\'s just that I believe if you\'re going to be a parent, there has to be something inside you that says, \'I want a family.\' I don\'t feel that sense of urgency.',
-        'George Clooney',
+    '2bf95dd4-b6f0-5fa6-8bb3-d51f6bc7d37f' => [
+        'The pressure on young chefs today is far greater than ever before in terms of social skills, marketing skills, cooking skills, personality and, more importantly, delivering on the plate. So you need to be strong. Physically fit. So my chefs get weighed every time they come into the kitchen.',
+        'Gordon Ramsay',
     ],
-    '3eea7600-83b2-5234-9abd-f169de135709' => [
-        'Sunset is still my favorite color, and rainbow is second.',
-        'Mattie Stepanek',
+    'a27b6674-7651-5f5a-a663-fe845420d443' => [
+        'A mockumentary is supposed to be real, and we were frustrated with mockumentaries on TV, which are so rampant because of the success of \'The Office.\' It\'s not real. You watch and ask why is there even a crew there. They never set it up in the narrative. You have a documentary crew following families for reasons we don\'t understand.',
+        'Benny Fine',
     ],
-    '1537822d-b3dd-576f-b735-618affb55101' => [
-        'Each season I find myself constantly inspired by \'The Biggest Loser\' contestants. Their tenacity and willingness to learn new, healthy habits is tremendous and the results speak for themselves. I am honored to be part of such an inspiring program that helps inspire positive change in so many lives.',
-        'Curtis Stone',
+    'f9b067e7-ad30-5f7f-9f48-7600514c35f0' => [
+        'I just want to say to women, \'Be yourself - it\'s the inner beauty that counts. You are your own best friend, the key to your own happiness, and as soon as you understand that - and it takes a few heartbreaks - you can be happy.\'',
+        'Cherie Lunghi',
     ],
-    '9b1acf98-382d-55ed-a2c0-34a2e3118a9e' => [
-        'Divide each difficulty into as many parts as is feasible and necessary to resolve it.',
-        'Rene Descartes',
+    '7f595580-6649-5574-ade3-bf748b801017' => [
+        'Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational.',
+        'Kevin Brownlow',
     ],
-    '1817c4f8-a117-5020-8e36-4f0eb4f379b1' => [
-        'I can\'t understand why people are frightened of new ideas. I\'m frightened of the old ones.',
-        'John Cage',
+    '1c1f4322-b08b-55ba-9d71-3144c0b0f162' => [
+        'If you know you are giving your best effort, you\'ll never have any reason for regrets.',
+        'Naveen Jain',
     ],
-    '857a4dbd-812c-57e4-9447-4ccdc5194e6b' => [
-        'The ideas of the ruling class are in every epoch the ruling ideas, i.e., the class which is the ruling material force of society, is at the same time its ruling intellectual force.',
-        'Karl Marx',
+    '47b4177e-63e3-50dc-bde9-6a080315a004' => [
+        'The true mark of professionalism is the ability to respect everyone else for their styles and always find something positive in every dining experience and highlight it in your thoughts and words.',
+        'Johnny Iuzzini',
     ],
-    '6dbbb289-85fa-53dd-a69a-dede42a8db8d' => [
-        'I spent a year in that town, one Sunday.',
-        'George Burns',
+    'f5bc9101-fc2a-530a-bc2f-089625c6e0ff' => [
+        'The superior man is modest in his speech, but exceeds in his actions.',
+        'Confucius',
     ],
-    'c8e4684c-1643-5b54-b4c1-7c330d1396a9' => [
-        'Our truest life is when we are in dreams awake.',
-        'Eckhart Tolle',
+    'c6e378d7-885a-527e-bf84-9ecf85530377' => [
+        'Sometimes we may ask God for success, and He gives us physical and mental stamina. We might plead for prosperity, and we receive enlarged perspective and increased patience, or we petition for growth and are blessed with the gift of grace. He may bestow upon us conviction and confidence as we strive to achieve worthy goals.',
+        'David A. Bednar',
     ],
-    'f287eecb-c518-5ad9-9731-f53c6488aee0' => [
-        'You must know that Iran has a great number of productions. Many films are released. Most of them, like in the rest of the world, are commercial and shallow films. These are the most popular ones. And there are a few ones that actually develop more profound and thoughtful aspects of life. Only some of these films travel out of Iran.',
-        'Asghar Farhadi',
+    '038993f7-0d9f-5f2e-8dc6-7b0fa57f6e0a' => [
+        'We have a vision of South Africa in which black and white shall live and work together as equals in conditions of peace and prosperity.',
+        'Oliver Tambo',
     ],
-    '4d528fc1-fcad-5a16-9a0d-12ae0e069b3e' => [
-        'Despite what some would have us believe, success is not built on resentment and fear.',
-        'Susana Martinez',
+    '7466b61a-2630-5d57-929a-86270193f8ae' => [
+        'It will, of course, be understood that directly or indirectly, soon or late, every advance in the sciences of human nature will contribute to our success in controlling human nature and changing it to the advantage of the common weal.',
+        'Edward Thorndike',
     ],
-    '72ebfc29-19e5-510d-ac3c-c59552663eee' => [
-        'I\'ve never really been aware of what is said about me, whether it\'s positive or negative. I ignore it. I\'ve always had the mind-set: \'No one can challenge me better than myself.\'',
-        'Troy Polamalu',
+    'ff3f5d27-f935-509a-bbf7-cdf242f79692' => [
+        'The future of America is not an entitlement. We have been given a treasure chest of gifts and opportunities, but some people are being left behind, and success is not sustainable unless it is shared.',
+        'Howard Schultz',
+    ],
+    '0d38dfec-77be-5c36-b1ac-4893977185e7' => [
+        'A diva is someone who is a perfectionist, who does her best in her craft.',
+        'Patti LaBelle',
+    ],
+    'c3a01ec6-ac90-512d-9b8c-50bf862b7f4d' => [
+        'Even in decline, a virtuous man increases the beauty of his behavior. A burning stick, though turned to the ground, has its flame drawn upwards.',
+        'Saskya Pandita',
+    ],
+    '76844bb2-6406-5b03-90ff-f04fe5e3755c' => [
+        'I learned early in sports that to be effective - for a player to play the best he can play - is a matter of concentration and being unaware of distractions, positive or negative.',
+        'Tom Landry',
+    ],
+    '0c234e69-d774-5780-894e-d4bf203d72cb' => [
+        'Change in all things is sweet.',
+        'Aristotle',
+    ],
+    'a8cd9b62-7b0f-506d-9fe3-033e2c69c59f' => [
+        'Someone said adversity builds character, but someone else said adversity reveals character. I\'m pleasantly surprised with my resilience. I persevere, and not just blindly. I take the best, get rid of the rest, and move on, realizing that you can make a choice to take the good.',
+        'Brooke Shields',
+    ],
+    'c408e17c-bd7d-5978-9379-3389758f3b8d' => [
+        'I hated the ballet, but I liked performing. I did 20 shows, and I couldn\'t get the smile off my face.',
+        'Ansel Elgort',
+    ],
+    '478b3579-3178-5ef6-8ee2-5f7962cc9766' => [
+        'Keep silence for the most part, and speak only when you must, and then briefly.',
+        'Epictetus',
+    ],
+    '35b7bea8-b3d0-5226-ad93-104a6a103c00' => [
+        'I don\'t know, maybe I\'m immature, but I still find it funny if I dump cold water on my girlfriend when she\'s in the shower.',
+        'Daniel Tosh',
+    ],
+    'f6023af4-6079-562c-81c5-31f1bbb2a76d' => [
+        'I think I have a hard time expressing myself in my relationships. I use songs to tell people how I\'m feeling. If I can\'t say \'I love you,\' I\'ll write a song about it and hope that the person figures it out.',
+        'Jenny Lewis',
+    ],
+    '653abc43-0bd5-56b7-9746-4a372241d69a' => [
+        'My motto is more, \'If you want to find something new, look for something new!\' There is a certain amount of risk in this attitude, as even the slightest failure tends to be resounding, but you are so happy when you succeed that it is worth taking the risk.',
+        'Yves Chauvin',
+    ],
+    '90bd8f47-6821-56f6-b934-ded437ed3116' => [
+        'There are no secrets that time does not reveal.',
+        'Jean Racine',
+    ],
+    '2ccf041b-8eb0-5386-b704-f78b23cc7a06' => [
+        'Dear disgruntled artists: the key to success isn\'t kicking down the door; it\'s building your own.',
+        'Brian Celio',
+    ],
+    '63763bf6-ac57-56c6-9f06-1704ce6c565f' => [
+        'I know some people say I can be funny. But there is always a deeper meaning to what I say. I am a socialist at heart and have the interests of the poor in mind. When people see how I manage to work my way out of tough situations, it gives them hope in their own life.',
+        'Lalu Prasad Yadav',
+    ],
+    '09d6cfbd-a46a-51ac-8696-d89913782afc' => [
+        'I don\'t look at negative comments because my parents and family don\'t let me. My big sister controls my Instagram, and my big brother controls my Twitter. I also don\'t really Google myself or anything like that.',
+        'Millie Bobby Brown',
+    ],
+    'f047852d-6800-5a64-922c-29011d3769de' => [
+        'Mother Nature is always speaking. She speaks in a language understood within the peaceful mind of the sincere observer. Leopards, cobras, monkeys, rivers and trees; they all served as my teachers when I lived as a wanderer in the Himalayan foothills.',
+        'Radhanath Swami',
+    ],
+    'aa451bfe-1d5c-5776-a73b-b97268cf657d' => [
+        'He who is not courageous enough to take risks will accomplish nothing in life.',
+        'Joan of Arc',
+    ],
+    '0a683024-4491-5784-b8c8-33ddfc6d25e8' => [
+        'If you really want to be world class - to be the best you can be - it comes down to preparation and practice.',
+        'Robin S. Sharma',
+    ],
+    '5212797a-a3ca-51cc-8dd3-754a2ef5b39f' => [
+        'It is the nature of the strong heart, that like the palm tree it strives ever upwards when it is most burdened.',
+        'Philip Sidney',
+    ],
+    'ba975e49-fa28-52a9-8183-2f48d18e403d' => [
+        'I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me.',
+        'Rosie O\'Donnell',
+    ],
+    '64806d09-f18f-5624-b277-6d36d8cc60b7' => [
+        'We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.',
+        'Anne Roiphe',
+    ],
+    'dae45047-1486-5b06-8571-de207e4804cd' => [
+        'I find it sad that by not talking about who I sleep with, that makes me mysterious. There was a time when I would have been called a gentleman.',
+        'Kevin Spacey',
+    ],
+    '8efddfae-1cca-5d0d-93f6-a5b7b624e8ff' => [
+        'For me art and chess are closely related, both are forms in which the self finds beauty and expression.',
+        'Vladimir Kramnik',
+    ],
+    '4580e41c-15c3-53a0-833d-f688251a1dd5' => [
+        'People need to understand that the Lauryn Hill they were exposed to in the beginning was all that was allowed in that arena at the time. I had to step away for the sake of the machine. I was being way too compromised. I felt uncomfortable having to smile in someone\'s face when I really didn\'t like them or know them well enough to like.',
+        'Lauryn Hill',
+    ],
+    '3c23925f-49ef-5e38-a935-4f3203d2ca8f' => [
+        'Difficulties are things that show a person what they are.',
+        'Epictetus',
+    ],
+    'd557092d-3a6e-5799-8467-f6df28cc6543' => [
+        'I hope to make a positive, productive contribution, as cheesy as that may sound.',
+        'Chelsea Clinton',
     ],
 ];

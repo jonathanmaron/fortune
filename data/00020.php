@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'c4933d47-1b5a-5c1c-83a9-9409f1dad85b' => [
-        'Everything you need for better future and success has already been written. And guess what? All you have to do is go to the library.',
-        'Henri Frederic Amiel',
+    '3807c939-491e-5347-9eeb-21f19b648e34' => [
+        'When life is too easy for us, we must beware or we may not be ready to meet the blows which sooner or later come to everyone, rich or poor.',
+        'Peter Marshall',
     ],
-    '42d67f35-0996-58a5-87dd-a184e502e66c' => [
-        'Life experience is what defines our character, even if it means getting your heart broken or being lied to. You know, you need the downs to appreciate the ups. Going on the adventure or taking that risk is important.',
-        'Victor Hugo',
+    '1b5074ea-d0c4-5228-bdcf-32834a582b85' => [
+        'Nature is often hidden, sometimes overcome, seldom extinguished.',
+        'Francis Bacon',
     ],
-    'b576c76c-0dd7-508f-a0e3-6c1f5389a7e8' => [
-        'I think the best thing about being pregnant would definitely have to be seeing just my belly grow and seeing, like, wow, there is, you know, something inside of me.',
-        'Tia Mowry',
+    'dfa2bd89-c02d-5ff7-8053-3b5380187416' => [
+        'To me, it doesn\'t matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.',
+        'Ian Botham',
     ],
-    '3a2bbd61-1033-5a91-945e-a8b42647fcda' => [
-        'There are three principal means of acquiring knowledge... observation of nature, reflection, and experimentation. Observation collects facts; reflection combines them; experimentation verifies the result of that combination.',
-        'Denis Diderot',
-    ],
-    'df32dfd1-787c-54f8-80af-22e699169a49' => [
-        'I don\'t want to let my guard down and feel too comfortable. If you become complacent, you start feeling entitled. I\'m ready to go dig ditches if I have to. Whatever I gotta do to provide for my family. Whatever I gotta do to make sure that I do the best possible job at whatever wonderful opportunities I\'ve been handed.',
-        'Mark Wahlberg',
-    ],
-    '0f0f2370-7a01-52a3-827a-b83e57dea34d' => [
-        'Every exit is an entry somewhere else.',
-        'Tom Stoppard',
-    ],
-    '939db077-24de-550d-a3ba-87f3fd9da59d' => [
-        'As I travel the world, it seems that younger people identify me merely with some of the folklore in the \'Chuck Norris Facts\' - those hyperbolic sayings that elevate my abilities beyond my capabilities. Others view me in light of the character I played in \'Walker, Texas Ranger\' or in one of my 20 tough-guy films.',
+    '3de851b1-d709-510f-a29c-c171632dffd1' => [
+        'A lot of times people look at the negative side of what they feel they can\'t do. I always look on the positive side of what I can do.',
         'Chuck Norris',
     ],
-    'b6e79258-d24d-5cfd-9d01-db07a0885ceb' => [
-        'He is able who thinks he is able.',
+    '329933ea-c7db-5aef-9704-12dfd4a69166' => [
+        'I would love to be a travel writer. I\'d be so stoked.',
+        'Drew Barrymore',
+    ],
+    '8990f2e8-f7f0-5f55-9dea-150a15d8f466' => [
+        'Take things as they are. Punch when you have to punch. Kick when you have to kick.',
+        'Bruce Lee',
+    ],
+    '7344d92e-af2d-5f22-a52c-e89b7068dc5f' => [
+        'Think little goals and expect little achievements. Think big goals and win big success.',
+        'David Joseph Schwartz',
+    ],
+    '26d01cba-58d7-5eb3-9acb-4a343cfae355' => [
+        'The attitude that nature is chaotic and that the artist puts order into it is a very absurd point of view, I think. All that we can hope for is to put some order into ourselves.',
+        'Willem de Kooning',
+    ],
+    '66f53494-cee9-5a01-ae11-dc173d96a21f' => [
+        'I just try to try to keep an attitude that I don\'t know what I\'m doing. Not to the point where I\'m beating myself up, but I just go in thinking that I have a lot to learn. And I hope I still have that attitude 30 years from now.',
+        'Tobey Maguire',
+    ],
+    'b5694e18-8c9f-562b-b4e8-2619c0a957fb' => [
+        'A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the \'why\' for his existence, and will be able to bear almost any \'how.\'',
+        'Viktor E. Frankl',
+    ],
+    '7880881e-a581-5116-8a21-01b4bd5cbc23' => [
+        'No matter how hard the past, you can always begin again.',
         'Buddha',
     ],
-    '6bb8ed60-64bd-598e-b006-1633e545955b' => [
-        'Whenever I run into prejudice. I smile and feel sorry for them, and I say to myself, There\'s one more argument for birth control.',
-        'Freddy Fender',
+    '59fb5c58-5c3d-5449-aaaf-9682ad1339f7' => [
+        'Success isn\'t everything but it makes a man stand straight.',
+        'Lillian Hellman',
     ],
-    'cda6324e-059a-5440-a5d1-c2e0722c72fb' => [
-        'They can do all because they think they can.',
-        'Virgil',
+    '6b45437a-7c26-5247-8f76-bab6f298e9ac' => [
+        'Let me tell you something - being thought of as a beautiful woman has spared me nothing in life. No heartache, no trouble. Love has been difficult. Beauty is essentially meaningless and it is always transitory.',
+        'Halle Berry',
     ],
-    '7b9b3e37-2c8c-51f8-a856-b886a752858e' => [
-        'No bird soars too high if he soars with his own wings.',
-        'William Blake',
+    'cd617cbc-b39a-56b7-8cfb-2aa06ad2594f' => [
+        'I went to Catholic school throughout my whole academic life. In fact, my children - my husband and I and our children in my own family now have over 100 years of Catholic education among us.',
+        'Nancy Pelosi',
     ],
-    '0264048f-36c4-551e-820e-501d83559e2c' => [
-        'Comedy is simply a funny way of being serious.',
-        'Peter Ustinov',
+    'b3948f5b-789a-54bf-aafb-3df19f7c722e' => [
+        'I paint self-portraits because I am so often alone, because I am the person I know best.',
+        'Frida Kahlo',
     ],
-    '4c079e50-c9ca-59f0-ada8-787d4913c5dd' => [
-        'Sharks are among the most perfectly constructed creatures in nature. Some forms have survived for two hundred million years.',
-        'Eugenie Clark',
+    'b2538970-163d-580d-a40c-a8169a75c756' => [
+        'Beauty is the only thing that time cannot harm. Philosophies fall away like sand, creeds follow one another, but what is beautiful is a joy for all seasons, a possession for all eternity.',
+        'Oscar Wilde',
     ],
-    'f713dfce-6151-5c89-b99f-9bff9f81c690' => [
-        'God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it.',
-        'Steve Harvey',
+    'bd35f013-95cf-5450-b8fc-d0f399202a21' => [
+        'As long as you have discipline, you can be a success. Discipline is what makes you do everything you need to do.',
+        'Anthony Joshua',
     ],
-    '0021794f-8951-529f-aa33-f98bf95a8323' => [
-        'I think \'Heroes of Cosplay\' will show a lot of the positive things, like how much effort it takes to make a costume. These people on the show aren\'t taking shortcuts. As long as that effort gets through to the viewers, we will be inspirational. Then there will be people who watch the show that want to get in and hands-on make outfits.',
-        'Yaya Han',
+    'e6fc1187-e2a8-5bf7-b1db-d16224cff447' => [
+        'I\'m trying to raise the awareness of the troops that, when they deploy and go to war, it\'s not just them at war - it\'s also their family. Their family is having to go through all the hardships and the stresses.',
+        'Chris Kyle',
     ],
-    '2ee0cdf0-a5d5-5bb6-8651-828144cf776c' => [
-        'A man is great by deeds, not by birth.',
-        'Chanakya',
+    'ad159c9d-b654-597b-908f-6f636ddc5dff' => [
+        'To be beautiful means to be yourself. You don\'t need to be accepted by others. You need to accept yourself.',
+        'Thich Nhat Hanh',
     ],
-    '3c0b3bd3-5734-5c25-b658-fea83d3ac56c' => [
-        'Beauty is not in the face; beauty is a light in the heart.',
-        'Kahlil Gibran',
+    'f986e975-9abd-5300-a3e3-1ef962c472f6' => [
+        'Let us make our future now, and let us make our dreams tomorrow\'s reality.',
+        'Malala Yousafzai',
     ],
-    '815061de-d6f4-5346-9bf0-b07be6d8027c' => [
-        'Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don\'t give up.',
-        'Anne Lamott',
+    'e5c568ed-b4be-5e65-8ade-b6f74f9ab1a2' => [
+        'All the best performers bring to their role something more, something different than what the author put on paper. That\'s what makes theatre live. That\'s why it persists.',
+        'Stephen Sondheim',
     ],
-    '12d78132-1e38-53ae-8b6c-2b0778d10e6b' => [
-        'If you look at a painting that you love by one of the great masters, every time you go back to it, you see something different - a different attitude or brushstroke. \'Hamlet\' is like an entire gallery of old masters.',
-        'Rory Kinnear',
+    '12aae581-b356-5e5e-9902-de020e0fd0ce' => [
+        'It\'s so essential to happiness to speak your truth out loud - because this sharing of your core pain is what creates a necessary healing shift - from negative beliefs about the world - to positive beliefs - and frees you up to be able to fully view life with meaning, purpose and connection with others.',
+        'Karen Salmansohn',
     ],
-    '16b5f6cf-600c-5b11-bcaa-297a56091423' => [
-        'Positive thinking is so firmly enshrined in our culture that knocking it is a little like attacking motherhood or apple pie.',
-        'Srikumar Rao',
+    'c7335f2d-0b4d-5dad-bdf7-72a6e82ac33c' => [
+        'Yes, we do defend our office as we do defend our homes. This is a constitutional right everybody has, and nothing\'s funny about that. The only reason they get mad at the Black Panther Party when you do it is for the simple reason that we\'re political.',
+        'Fred Hampton',
     ],
-    'f746efca-1d8c-52ae-b901-dc55346784ad' => [
-        'Lady Gaga is the present and the future. She is the most revolutionary and inspirational artist. She is fearless and daring.',
-        'Donatella Versace',
+    'c98157f8-091e-5b73-8fe7-6a7d972bfe9a' => [
+        'First say to yourself what you would be; and then do what you have to do.',
+        'Epictetus',
     ],
-    '96cafaf3-2a0a-5d07-b279-ddc51a14d35d' => [
-        'When the negative thoughts come - and they will; they come to all of us - it\'s not enough to just not dwell on it... You\'ve got to replace it with a positive thought.',
-        'Joel Osteen',
+    'd46eca7f-2850-5b4a-9ff1-f7e12d0c588e' => [
+        'I love Christmas. I really do love Christmas. I love being with my family and I love snow. I love the music and the lights and all of it.',
+        'Christina Applegate',
     ],
-    'e3b9b42c-824b-59f0-a491-81d113dc675d' => [
-        'We can change our lives. We can do, have, and be exactly what we wish.',
+    '2940a02c-ecfc-5440-ab7e-8cc90e5386d2' => [
+        'The funny guy doesn\'t get the girl until later in life. High school, college, everyone still wants the brooding, dangerous guy you shouldn\'t have.',
+        'Will Ferrell',
+    ],
+    'c98472d5-3286-540f-8b56-adec73372bf2' => [
+        'The best part about being with a group is that you don\'t have to do everything alone. You\'re with your friends.',
+        'Justin Timberlake',
+    ],
+    '21f8f2d2-4d85-5586-b24e-80aec89be2cf' => [
+        'He not busy being born is busy dying.',
         'Tony Robbins',
     ],
-    '05bef8d1-e80b-5164-8b38-949823efad98' => [
-        'I pretend I\'m one of the royal family when I\'m in a hotel and that the hotel belongs to me - it is a palace.',
-        'Martin Short',
+    '841ab014-8f84-5e88-955d-4c25d3e872dc' => [
+        'Life is like a ten speed bicycle. Most of us have gears we never use.',
+        'Rufus Wainwright',
     ],
-    '33a76b6d-23d4-5455-a8e1-ef11558f6b0c' => [
-        'If a man neglects education, he walks lame to the end of his life.',
-        'Rosa Parks',
+    'e5bf2a89-ac1a-5ea6-954f-b40044405018' => [
+        'Be what you are. This is the first step toward becoming better than you are.',
+        'Julius Charles Hare',
+    ],
+    'b76697fe-d94e-5477-9593-6ac95c82527d' => [
+        'For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?',
+        'James Allen',
+    ],
+    '7174671c-f369-5b34-9594-2db53ebabb5c' => [
+        'The royal family are protected from public accountability by law.',
+        'Heather Brooke',
+    ],
+    'd7b39312-87e4-52a1-873e-e9ea97cee5db' => [
+        'You know, it was just another presentation of my work, and a funny one, because the cards are quite different from the normal Tarot deck, no?',
+        'H. R. Giger',
+    ],
+    '8cdd31c3-2c7d-5f8f-ad1e-1cd3d11f223f' => [
+        'Human rights are not a privilege granted by the few, they are a liberty entitled to all, and human rights, by definition, include the rights of all humans, those in the dawn of life, the dusk of life, or the shadows of life.',
+        'Yoko Ono',
+    ],
+    '9ad4f781-b889-52fa-b788-323cd5bc1f67' => [
+        'So, we just kind of created our own thing and that\'s part of the beauty of Athens: is that it\'s so off the map and there\'s no way you could ever be the East Village or an L.A. scene or a San Francisco scene, that it just became its own thing.',
+        'Michael Stipe',
+    ],
+    '29dde28d-2547-56f0-a429-ce1b3f58e598' => [
+        'Trust yourself. You know more than you think you do.',
+        'Benjamin Spock',
+    ],
+    'ed176a1e-c33f-53a3-9528-a618822caca8' => [
+        'The greatest way to live with honor in this world is to be what we pretend to be.',
+        'Socrates',
+    ],
+    'be8b8189-d8ee-5ac9-9e22-89c42d2e3133' => [
+        'I bring people on stage with me. It\'s a good time, and people love to join in on the party. Show me a smile, and I\'ll show you one back.',
+        'Vanilla Ice',
+    ],
+    '9ce89d56-77a7-5025-8a83-edc31a6c1149' => [
+        'I am always acting, be at a party, at work or in office. My attitude changes from meeting to meeting, from being serious to intense to funny, depending on who is in the room.',
+        'Karan Johar',
+    ],
+    '466e2331-27c3-5fd3-890f-62fa12681373' => [
+        'As we risk ourselves, we grow. Each new experience is a risk.',
+        'Fran Watson',
+    ],
+    'a07328f7-35b6-54a0-81f6-0cd3f5d2f5a6' => [
+        'Experience is simply the name we give our mistakes.',
+        'Oscar Wilde',
+    ],
+    '5cc59de1-4a6c-58ff-bf80-2fbc4e9515b6' => [
+        'I wish the government would put a tax on pianos for the incompetent.',
+        'Edith Sitwell',
+    ],
+    '7c66ba79-1844-554b-9cc3-71fd2b071944' => [
+        'A manager is responsible for the application and performance of knowledge.',
+        'Peter Drucker',
+    ],
+    '2650ef82-ff66-5eb2-baec-9b84d25e6651' => [
+        'I have an older sister named Haley and she wanted to be an actress. So I wanted to be an actress. It\'s really funny the way that some people don\'t give kids enough credit for like really being driven, and really wanting to do things so badly.',
+        'Hilary Duff',
+    ],
+    'f9b362bb-4dc8-5b7c-be6b-3b5b1cf3a26d' => [
+        'Our criminal justice system is fallible. We know it, even though we don\'t like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.',
+        'Eliot Spitzer',
+    ],
+    '2a81e91c-e445-50bc-9554-d2fbd7c1a163' => [
+        'I used to think that losing made you more hungry and determined but after my success at the Olympics and the U.S. Open I realise that winning is the biggest motivation.',
+        'Andy Murray',
+    ],
+    'a4e8adf9-4194-5122-bc7d-036733c77bd5' => [
+        'Play like you\'re positive on the victory, even though they\'re leading big now.',
+        'Knute Rockne',
+    ],
+    'f9d8e079-366c-54eb-bd92-725270c9ccd3' => [
+        'There\'s no night without stars.',
+        'Andre Norton',
+    ],
+    '2481a074-24fc-54e6-a99a-30e7c0669307' => [
+        '\'Do What You Gotta Do\' is a positive, inspirational song that says no matter what it is; whether you\'re up against challenges or trying to get your dreams and aspirations met, you should do what whatever you have to do shy of killing yourself or someone else.',
+        'Angie Stone',
+    ],
+    'e5529270-6233-5a62-8e61-803e297bb776' => [
+        'It\'s our nature: Human beings like success but they hate successful people.',
+        'Carrot Top',
     ],
 ];

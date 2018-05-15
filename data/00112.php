@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'd8b9d539-cf35-5301-af74-d4095714344a' => [
-        'Women do come up to me, and they tell me what they think! I\'ve gotten great compliments on my eyes and my smile. But I don\'t see myself as sexy.',
-        'Jesse L. Martin',
+    'b1ee0000-45f3-5f8e-a993-ec3175edee7e' => [
+        'Either positive or negative comments are good because it shows I am still relevant.',
+        'Justin Guarini',
     ],
-    '5ed17d36-302c-55d5-bcb5-f943f5b18952' => [
-        'My favorite spot is the Maldives. Since I travel so much for work, I like to go to places that are very secluded and quiet.',
-        'Irina Shayk',
+    '3229b58a-9f99-505e-813c-89b8a9da2e45' => [
+        'I come from a family of Russian immigrant Jews who were all big storytellers, who would get together, and one would try to top the others\' stories, and stories would get bigger and bigger. And the lying aspect, the exaggeration, would get large.',
+        'Philip Schultz',
     ],
-    '72f6ce35-4967-50d7-8f41-609ef0df4e00' => [
-        'I also had a mistaken attitude towards certain comrades.',
-        'Bela Kun',
+    '1a7ec805-76c0-597e-87f9-382b883a448c' => [
+        'I believe that, by and large, people are good and everybody you meet is more likely to surprise you in a positive way than in a negative way.',
+        'Anthony Horowitz',
     ],
-    '52b8112d-b335-5ace-a8e4-dd1174fe68c9' => [
-        'It is only when I am doing my work that I feel truly alive.',
-        'Federico Fellini',
+    '04f46a18-d8d9-5470-b77e-7dbe8b243bd5' => [
+        'The corruption of the best things gives rise to the worst.',
+        'David Hume',
     ],
-    '7673519d-2d9d-5d73-9509-fcfba10c452b' => [
-        'Moonlight is sculpture.',
-        'Nathaniel Hawthorne',
+    'a6994bec-4ad3-5a3c-86da-aa040efc70dd' => [
+        'The two impulses in travel are to get away from home, and the other is to pursue something - a landscape, people, an exotic place. Certainly finding a place that you like or discovering something unusual is a very sustaining thing in travel.',
+        'Paul Theroux',
     ],
-    'bdf7f382-04a7-5dbc-bcfb-2ab44ad7148e' => [
-        'A simple compliment goes a really long way - for a guy to just come over and say, \'You have great hair\' or \'I really like your dress,\' and then just smile and walk away. That\'s a great move, because he\'s sort of putting himself out there by doing that, but it won\'t lead to any embarrassment if the girl isn\'t interested.',
-        'Stacy Keibler',
+    '47df86df-9654-51cd-a8b2-7fac65555bbc' => [
+        'Best way to get rid of kitchen odors: Eat out.',
+        'Phyllis Diller',
     ],
-    'b88d5cff-a855-530d-bdd6-9f0f60503118' => [
-        'May our hearts garden of awakening bloom with hundreds of flowers.',
-        'Thich Nhat Hanh',
+    '2a746932-a188-55b5-9266-7d7c8640ccf9' => [
+        'Chess has given me a lot more than I could ask for. I have been able to feel special, travel the world and do what I truly enjoy. Moreover, chess players love being their own boss and hate having to wake up early!',
+        'Viswanathan Anand',
     ],
-    '4c78fb24-0eb1-50e5-ab55-8f4d55f7699b' => [
-        'Space exploration is a force of nature unto itself that no other force in society can rival.',
-        'Neil deGrasse Tyson',
+    '9246e7a7-511a-5af5-9cc4-05444596f2b3' => [
+        'Understanding the laws of nature does not mean that we are immune to their operations.',
+        'David Gerrold',
     ],
-    'cf0c98f4-b254-5e75-943f-b527680860b9' => [
-        'Someone asked me the other day what it feels like to see all my \'old stuff\' reappearing, at long last, in digital. And I had to smile because to me it doesn\'t feel like \'old stuff.\'',
-        'Barbara Hambly',
+    '3b9efa2f-5b13-59c8-bc7b-acdc5c245002' => [
+        'In Reykjavik, Iceland, where I was born, you are in the middle of nature surrounded by mountains and ocean. But you are still in a capital in Europe. So I have never understood why I have to choose between nature or urban.',
+        'Bjork',
     ],
-    'd952d54b-5597-5c35-b24e-ea376c515301' => [
-        'Today, I think the attitude is that governing is not necessarily good politics, and the result is that it\'s much more partisan and much more divided.',
-        'Leon Panetta',
+    '5e9ef5bd-d36e-5d02-92d0-153772f187e1' => [
+        'The attitude of, \'I will never self-publish,\' coming from any author, indicates that they have never been in a position where it is their only option.',
+        'Jennifer Armintrout',
     ],
-    '65df70e9-d4ac-5b9a-bab2-8039e9ece727' => [
-        'Nothing will be beyond our reach when we make the flames of creating positive deeds flare up across the country with the virtues of the young vanguard as the initial spark and bring into full play the mounting vigour of the millions of young people.',
-        'Kim Jong-un',
+    '16ee1384-d57e-5fb3-8cbb-1ac6fe62fb52' => [
+        'The best thing one can do when it\'s raining is to let it rain.',
+        'Henry Wadsworth Longfellow',
     ],
-    'dd2c27b8-b29d-55f0-91fb-edbf06057af0' => [
-        'By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.',
-        'Lao Tzu',
+    'ac2cb29d-1586-5199-b138-4699829f277e' => [
+        'I know you can be funny without being filthy.',
+        'Jonathan Winters',
     ],
-    '08034429-91d3-5782-96f2-048f6118d4fc' => [
-        'If you find yourself in a hole, the first thing to do is stop digging.',
-        'Will Rogers',
+    '2d98f1fd-5bfc-5d12-b6b5-127378733d6f' => [
+        'What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.',
+        'Saint Augustine',
     ],
-    '96dd89ab-f88b-531d-b009-ba43e31a5831' => [
-        'Bats drink on the wing, like swallows, by sipping the surface, as they play over pools and streams.',
-        'Gilbert White',
+    '051171ed-56d1-5c14-a47d-121fd1273a1e' => [
+        'I\'ve been absolutely terrified every moment of my life - and I\'ve never let it keep me from doing a single thing I wanted to do.',
+        'Georgia O\'Keeffe',
     ],
-    'ba77cf29-ad24-5333-a908-ee6f948dc10e' => [
-        'Every day I get to \'Think\' and work on everything from digitizing electric grids so they can accommodate renewable energy and enable mass adoption of electric cars, helping major cities reduce congestion and pollution, to developing new micro-finance programs that help tiny businesses get started in markets such as Brazil, India, Africa.',
-        'Ginni Rometty',
+    'db15e3cc-2e40-5aa9-bf73-f18124b55d32' => [
+        'I believe Watergate shows that the system did work. Particularly the Judiciary and the Congress, and ultimately an independent prosecutor working in the Executive Branch.',
+        'Bob Woodward',
     ],
-    '94344874-0540-5995-8d95-a48d2bf3c4d5' => [
-        'The day, water, sun, moon, night - I do not have to purchase these things with money.',
-        'Plautus',
+    'c2e14408-6223-5f5f-bc0a-ab5676a9ffa9' => [
+        'No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind.',
+        'Caroline Kennedy',
     ],
-    'a0b2f45c-84fb-5edf-aeef-468f4746bf74' => [
-        'If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.',
+    '182d1632-6791-53b1-bec5-501b51ac9598' => [
+        'In my own relationships, I know that I should break up with someone who doesn\'t encourage me to be strong and make my own choices and do what\'s best in my life, so if you\'re dating someone who doesn\'t want you to be the best person you can be, you shouldn\'t be dating them.',
+        'Veronica Roth',
+    ],
+    'ef7514f0-effd-5f0f-991f-bf2eb6000b40' => [
+        'The future belongs to those who believe in the beauty of their dreams.',
+        'Eleanor Roosevelt',
+    ],
+    '8c01eaa2-4504-5e2c-b0d9-e993a9cec643' => [
+        'Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.',
+        'Plato',
+    ],
+    '8cb14515-c7a7-530a-9b65-4a3bfbfb6f1e' => [
+        'Time spent with cats is never wasted.',
+        'Sigmund Freud',
+    ],
+    'bc1bb839-52ea-5c3a-9e2c-91f0779075b2' => [
+        'Soup is a lot like a family. Each ingredient enhances the others; each batch has its own characteristics; and it needs time to simmer to reach full flavor.',
+        'Marge Kennedy',
+    ],
+    '7f7b0676-985d-5b6f-9973-b540f16f3ca0' => [
+        'The best government is a benevolent tyranny tempered by an occasional assassination.',
+        'Voltaire',
+    ],
+    'e21def69-33d5-56a6-a236-3592ccffe30d' => [
+        'Every problem has a gift for you in its hands.',
+        'Richard Bach',
+    ],
+    'b679caba-437e-5fc0-9ff6-95a582ba0caa' => [
+        'In the end, it\'s a mental maturity to let your best come out.',
+        'Lindsey Vonn',
+    ],
+    'a4d8cdea-e443-5db8-ba9b-0224c5252cc9' => [
+        'Be gentle to all and stern with yourself.',
+        'Saint Teresa of Avila',
+    ],
+    '46539169-93ac-55d9-97ab-7c01534755c3' => [
+        'People don\'t understand that when I grew up, I was never the most talented. I was never the biggest. I was never the fastest. I certainly was never the strongest. The only thing I had was my work ethic, and that\'s been what has gotten me this far.',
+        'Tiger Woods',
+    ],
+    'd191af1e-6f90-5e60-b194-19f4829d2348' => [
+        'If a man neglects education, he walks lame to the end of his life.',
+        'Rosa Parks',
+    ],
+    '24aee97f-688d-54ed-a0af-90eb1621b730' => [
+        'Obviously, a long-distance relationship is hard. But, like anything worth having, you make it work.',
+        'Leona Lewis',
+    ],
+    '12d6de5f-21fa-5491-bca1-3a5f8a8f5d8f' => [
+        'Teamwork makes the dream work, but a vision becomes a nightmare when the leader has a big dream and a bad team.',
+        'John C. Maxwell',
+    ],
+    '976fe3d8-01dd-5390-9ec1-6132d1fd1c0e' => [
+        'How beautiful the leaves grow old. How full of light and color are their last days.',
+        'John Burroughs',
+    ],
+    '3f7f0a86-5fcf-555e-98c8-1ea690949153' => [
+        'Intelligence is the source of technology. If we can use technology to improve intelligence, that closes the loop and potentially creates a positive feedback cycle.',
+        'Eliezer Yudkowsky',
+    ],
+    '5bc9a400-ae12-545f-9aa5-158d7e11d0ae' => [
+        'Hence, within the space of two generations there has been a complete revolution in the attitude of the trades-unions toward the women working in their trades.',
+        'Florence Kelley',
+    ],
+    '5eb0a99f-4431-5963-8078-7d977ddffe30' => [
+        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
+        'Paul Bryant',
+    ],
+    '0458d753-111b-50e5-8663-c76d284aea78' => [
+        'Kanye is so much fun. He\'s a wonderful person. What I love about Kim and Kanye is that I think they save their happy moments and their smiles for themselves rather than sharing everything with the public. And listen, when a camera is shoved in your face trying to take a selfie, you do not want to smile.',
+        'Chrissy Teigen',
+    ],
+    '5715ec3f-6f5b-5c2d-be90-27de2851393f' => [
+        'I\'ve been experimenting more and more with LN2, liquid nitrogen. I\'ve used it in battle on \'Iron Chef America,\' but have also made some great ice creams at home for my family. Since it freezes basically on contact, you can have ice cream ready in mere minutes.',
+        'Cat Cora',
+    ],
+    'e870c8b7-64b2-528a-89b7-612c08529131' => [
+        'I will always desire to play with Bruce Springsteen. He\'s the most inspirational, most dedicated, most committed and most focused artist I\'ve ever seen. I like to be around people like that.',
+        'Max Weinberg',
+    ],
+    '1f068d9c-373c-5b1f-a39a-f93dc8585ad4' => [
+        'Time is money.',
+        'Benjamin Franklin',
+    ],
+    '8a576cf9-6194-5b10-a1a1-5716b3554e0e' => [
+        'Because of your smile, you make life more beautiful.',
+        'A. P. J. Abdul Kalam',
+    ],
+    '3629b325-551b-585e-8801-7eb6912398af' => [
+        'I travel so much and am always living out of a suitcase, so my favorite saying is \'Wherever you go, there you are\'. I love it because it\'s reassuring to me that you have to live in the moment wherever you happen to be.',
+        'Jake Shears',
+    ],
+    '78a96e53-8724-5573-8ddd-861401aed24a' => [
+        'The rose is the flower and handmaiden of love - the lily, her fair associate, is the emblem of beauty and purity.',
+        'Dorothea Dix',
+    ],
+    'e05f71f7-aba5-5080-a68d-5c8f39d48d8b' => [
+        'I smile every time I hear that I\'m a fan favorite or a teenage hottie. It is a nice compliment, and the remarks from the fans are great.',
+        'Sean Berdy',
+    ],
+    '96f908fc-0ea8-58fc-888d-c8289e93733d' => [
+        'Occurrences in this domain are beyond the reach of exact prediction because of the variety of factors in operation, not because of any lack of order in nature.',
         'Albert Einstein',
     ],
-    '8140ac9e-76fc-513c-9eb1-cfb2d58f6abf' => [
-        'We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.',
-        'Barbara De Angelis',
+    '2cb18fad-8430-5814-ab71-52ff04bb8c23' => [
+        'The waving of a pine tree on the top of a mountain - a magic wand in Nature\'s hand - every devout mountaineer knows its power; but the marvelous beauty value of what the Scotch call a breckan in a still dell, what poet has sung this?',
+        'John Muir',
     ],
-    '381f0a48-f96c-56a9-8bf2-53ce53aad3c9' => [
-        'In college I never realized the opportunities available to a pro athlete. I\'ve been given the chance to meet all kinds of people, to travel and expand my financial capabilities, to get ideas and learn about life, to create a world apart from basketball.',
-        'Michael Jordan',
+    '5a9a5063-23f9-55ed-9682-62dee3770b5b' => [
+        'All women have a perception much more developed than men. So all women somehow, being repressed for so many millennia, they ended up by developing this sixth sense and contemplation and love. And this is something that we have a hard time to accept as part of our society.',
+        'Paulo Coelho',
     ],
-    '16a6f177-4dcd-5e5c-974e-1fd435381c5a' => [
-        'There is nothing impossible to him who will try.',
-        'Alexander the Great',
+    'f69fb595-c099-5367-ba6c-3887a552124a' => [
+        'I\'m just part of a tradition of people who aren\'t pleased. I would never think anyone else who has the same attitude was getting it from me. I\'d just think they\'re... sensible.',
+        'Jack Dee',
     ],
-    '7e05f1f8-260b-5aea-a028-14684819b0a8' => [
-        'Don\'t wait for people to be friendly. Show them how.',
+    '1e48d8b2-64b7-5179-a888-d96ac7875b1e' => [
+        'People seldom see the halting and painful steps by which the most insignificant success is achieved.',
+        'Anne Sullivan',
+    ],
+    '697555b8-e9e6-5f44-b81c-cedfa2da721a' => [
+        'There are people in every time and every land who want to stop history in its tracks. They fear the future, mistrust the present, and invoke the security of a comfortable past which, in fact, never existed.',
+        'Robert Kennedy',
+    ],
+    '19fe608b-5dd2-5975-af6a-c1932ab9b629' => [
+        'Most of the luxuries and many of the so-called comforts of life are not only not indispensable, but positive hindrances to the elevation of mankind.',
+        'Henry David Thoreau',
+    ],
+    '1f17eff0-71c6-552f-a9d9-156b4a577db4' => [
+        'Fear stops people from accomplishing their goals.',
         'Unknown',
     ],
-    '3b4089a0-7c12-56fe-8d2f-8105b4675f5c' => [
-        'Real education should consist of drawing the goodness and the best out of our own students. What better books can there be than the book of humanity?',
-        'Cesar Chavez',
-    ],
-    '04ec5b18-dc74-5e54-bf27-0c274ab2545c' => [
-        'Don\'t complain about what you don\'t have. Use what you\'ve got. To be less than your best is a sin.',
-        'Oprah Winfrey',
-    ],
-    'f3465ba3-8817-5b09-a01a-97f8e40bc475' => [
-        'All seasons are beautiful for the person who carries happiness within.',
-        'Horace Friess',
-    ],
-    'd83fefaf-5810-5114-86fd-a3553773a5f1' => [
-        'America cannot continue to lead the family of nations around the world if we suffer the collapse of the family here at home.',
-        'Mitt Romney',
+    'f916e5e0-06be-5f7b-b83b-ce99990e13f5' => [
+        'I grew up around a lot of various religions, so it\'s a part of my consciousness in a way. Everything from heavy Catholicism to followers of Indian spiritual masters to Unitarian universalists - all in one family. Though the family aspect was stronger than any particular dogma.',
+        'St. Vincent',
     ],
 ];

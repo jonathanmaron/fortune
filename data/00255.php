@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '70436e04-e066-5290-9cc3-d95db18f4f9d' => [
-        'On the whole, when I travel to different countries, I like to find the hidden places, so I tend to avoid the cities - but in terms of the ease of getting about, finding what you need, the excitement, that undercurrent of whatever you want it to be, it\'s got to be London.',
-        'Will Tudor',
+    'c31a0863-b8a2-59b8-a4ef-e98554cbb5a6' => [
+        'Giving responsibility is the key to success with boys, especially with the rowdiest and most difficult boys.',
+        'Robert Baden-Powell',
     ],
-    '95b88b7f-4795-5ef0-a803-c54fed8e85a8' => [
-        'The rain began again. It fell heavily, easily, with no meaning or intention but the fulfilment of its own nature, which was to fall and fall.',
-        'Helen Garner',
+    '6ffa0ecf-a2cb-5cde-b928-155315713a18' => [
+        'Leave your ego at the door every morning, and just do some truly great work. Few things will make you feel better than a job brilliantly done.',
+        'Robin S. Sharma',
     ],
-    'ddcedb6b-6ec5-5762-91cf-03daf08ec998' => [
-        'Your mind will answer most questions if you learn to relax and wait for the answer.',
-        'William Burroughs',
+    '1268aa11-4f67-58b0-a144-4d351caf6c29' => [
+        'You don\'t fight racism with racism, the best way to fight racism is with solidarity.',
+        'Bobby Seale',
     ],
-    '0f2a8c19-de8d-579d-8ab2-f62904da67d8' => [
-        'Americans are the most generous country on the planet. I\'ve worked in Europe, I\'ve worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.',
-        'Hugh Jackman',
+    '91c897f7-d459-56c1-94f1-1ebe8568e0be' => [
+        'Just because you\'re a luxury brand doesn\'t mean you have to have an attitude.',
+        'Angela Ahrendts',
     ],
-    '9f4dd646-da11-5c06-831e-38f73618474e' => [
-        'Respectable means rich, and decent means poor. I should die if I heard my family called decent.',
-        'Thomas Mann',
+    'd7cdd6bf-aa54-54bb-b252-fa387f00ccea' => [
+        'Much effort, much prosperity.',
+        'Euripides',
     ],
-    'df600f57-ac57-52c0-a702-a85dc572418c' => [
-        'I get accused of having a haughty smugness. I have a lopsided mouth. I can\'t help it. I was born with it. It looks as if I am smirking. I have had my publicist tell me, \'Don\'t do that smile on the red carpet.\' I\'m, like, \'That\'s my smile.\'',
-        'Natalie Dormer',
+    '1e740859-9a08-58ae-8f17-f3d7e7aefb15' => [
+        'Global warming will threaten our crops, so natural food will be scarce. Hourglass, curvy bodies will be the aspirational beauty standard, representing that those women have access to bounties of fulfilling yet healthy food, which means they are affluent.',
+        'Tyra Banks',
     ],
-    '62546741-aa90-5ece-81df-f6e7b8ca8f28' => [
-        'A lion\'s work hours are only when he\'s hungry; once he\'s satisfied, the predator and prey live peacefully together.',
-        'Chuck Jones',
+    'b249eaad-6a9e-5e15-9b49-9420b1c99aaa' => [
+        'We never respect those who amuse us, however we may smile at their comic powers.',
+        'Marguerite Gardiner',
     ],
-    'fb1e4382-2213-5aae-a8b6-4f64fea1514f' => [
-        'Things that look like an \'overnight success\' typically are not.',
-        'Jason Calacanis',
+    '70a8f48d-0178-5308-8754-7d61dbe380fb' => [
+        'Most people would assume my business success, and the wealth that comes with it, have brought me happiness. But I know I am successful, wealthy, and connected because I am happy.',
+        'Richard Branson',
     ],
-    '4a4a95ae-81ed-5738-8036-123b78f3fcce' => [
-        'If you do not change direction, you may end up where you are heading.',
-        'Lao Tzu',
+    '28c7d11f-c33d-5984-9ef3-092e0b58c5e6' => [
+        'Failure is an opportunity to begin again more intelligently.',
+        'Henry Ford.',
     ],
-    '7c692c85-da34-54b2-a7d5-0a14ef8acf4d' => [
-        'All we need, really, is a change from a near frigid to a tropical attitude of mind.',
-        'Marjory Stoneman Douglas',
+    'de47b153-f194-5b59-a14f-7ba15ac97c0e' => [
+        'Tanzanians are some of the friendliest you\'ll ever meet, insisting on a welcoming smile and wave as they pass you on the streets, exclaiming \'Jambo!\'',
+        'Jodi Balfour',
     ],
-    '331b8fcb-7658-5fc6-a653-69ed0218d482' => [
-        'Being natural is incredibly empowering for women because it\'s just who you are. You\'re embracing all the beautiful things about you from your head to your toes. Because when you mask so much of your natural beauty, people don\'t get to see that.',
-        'Rozonda Thomas',
+    '884cfd13-30de-53e5-887a-8f26359477a3' => [
+        'In a time of domestic crisis, men of goodwill and generosity should be able to unite regardless of party or politics.',
+        'John F. Kennedy',
     ],
-    '0b35ce0e-0463-50b0-8d17-560f8c99dd51' => [
-        'Looking at flowers, simple things in life. I don\'t need to look at gold and a castle; sometimes its very simple things that are very beautiful. I am keeping my eyes fresh to find beauty in many places, and in gold, too, sometimes!',
-        'Francois Nars',
+    'cde6f291-1c2d-5f39-9fba-df2adedd9afa' => [
+        'It was a unique childhood, to say the least. My father was born in Patiala to refugee parents and was a part of the Indian Air Force. The talented few amongst the Air Force pilots are made test pilots. Test pilots are best suited to look at the space programme as they are trained to expect the unexpected.',
+        'Kapil Sharma',
     ],
-    '57d69d28-0782-5081-8d21-6106f698db9e' => [
-        'The only way to permanently change the temperature in the room is to reset the thermostat. In the same way, the only way to change your level of financial success \'permanently\' is to reset your financial thermostat. But it is your choice whether you choose to change.',
-        'T. Harv Eker',
+    '5da93d56-838e-5bfa-b9fe-8ab1573b104b' => [
+        'My ideal travel companions are my surfboard, wetsuit, and guitar.',
+        'Alexander Ludwig',
     ],
-    'bd7dd491-d26e-5c40-b5c0-a600be7f1862' => [
-        'My attitude toward graduate students was different, I must say. I used graduate students as colleagues: I gave them the best problems to work on, and I encouraged them.',
-        'Frank Press',
+    '81a3e391-032f-5aa3-a020-c821a8cc0ffd' => [
+        'Life shrinks or expands in proportion to one\'s courage.',
+        'Anais Nin',
     ],
-    'cc6c994f-5c9e-5afd-8aba-5e0394c240ad' => [
-        'When I was a seminarian, I was dazzled by a girl I met at an uncle\'s wedding. I was surprised by her beauty, her intellectual brilliance... and, well, I was bowled over for quite a while.',
-        'Pope Francis',
+    'a6cefda3-a08e-5847-89f0-52a75ba92728' => [
+        'You can\'t build a reputation on what you are going to do.',
+        'Henry Ford',
     ],
-    'd4870808-2b77-579b-8306-245a34d0bb2a' => [
-        'If you have a dream, it\'s definitely achievable through hard work, through dedication, sacrifice, everything.',
-        'Carli Lloyd',
+    'aef8b5ce-b00a-5942-b6fb-8fcd843443db' => [
+        'The days you work are the best days.',
+        'Georgia O\'Keeffe',
     ],
-    'fc3c0105-bcca-59f5-bba2-260382f6075d' => [
-        'We all have our time machines. Some take us back, they\'re called memories. Some take us forward, they\'re called dreams.',
-        'Jeremy Irons',
+    '263bf021-12e3-5829-b55d-8b4c148b257a' => [
+        'What delights us in visible beauty is the invisible.',
+        'Marie von Ebner-Eschenbach',
     ],
-    'b8929247-a179-545f-a356-6037c12c35e4' => [
-        'Power is always dangerous. Power attracts the worst and corrupts the best.',
-        'Edward Abbey',
+    '220667ba-543c-56e5-b59b-cdc119fb1369' => [
+        'I like trees because they seem more resigned to the way they have to live than other things do.',
+        'Willa Cather',
     ],
-    '9d3843e4-e6e5-5bd7-8298-09b763d838c9' => [
-        'I watched some serious \'80s television. \'Alice,\' \'Good Times,\' \'The Jeffersons,\' \'Family Ties,\' \'Cheers\'... every night it was eat dinner, watch \'Cheers.\' I was actually on \'Jeopardy\' with Rebecca Lobo and Dot Richardson, and we were laughing because I was just nailing every random \'80s trivia question - sitcom, theme music, movie, you name it.',
-        'Summer Sanders',
+    'dbcfb54a-30e9-536a-af8e-652ed39eb177' => [
+        'I have this theory that, depending on your attitude, your life doesn\'t have to become this ridiculous charade that it seems so many people end up living.',
+        'Christian Bale',
     ],
-    '246f5ac1-d6eb-5e16-ac63-6dc753b2c53c' => [
-        'I love grocery shopping when I\'m home. That\'s what makes me feel totally normal. I love both the idea of home as in being with my family and friends, and also the idea of exploration. I think those two are probably my great interests.',
-        'Yo-Yo Ma',
+    '5ac46aac-955a-5c12-8893-17b05a5f0852' => [
+        'You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you\'ll get to tomorrow. Intention without action is useless.',
+        'Caroline Myss',
     ],
-    '57268f34-0909-5ade-a731-77b77b796901' => [
-        'As in nature, as in art, so in grace; it is rough treatment that gives souls, as well as stones, their luster.',
-        'Thomas Guthrie',
+    '2e2589ef-b146-5168-97fe-504b7fe58dd8' => [
+        'Lead us not into temptation. Just tell us where it is; we\'ll find it.',
+        'Sam Levenson',
     ],
-    '95a9ff65-598c-50b0-a397-51fba1dcafd6' => [
-        'The connection to place, to the land, the wind, the sun, stars, the moon... it sounds romantic, but it\'s true - the visceral experience of motion, of moving through time on some amazing machine - a few cars touch on it, but not too many compared to motorcycles. I always felt that any motorcycle journey was special.',
-        'Antoine Predock',
+    '373088fe-995a-5cf9-9b22-c9a9b775d920' => [
+        'I used to watch some of the reality shows about models, and then, weirdly, now I try to incorporate into my fashion shoots the skills I learnt from watching those shows. It\'s like, thanks Tyra, \'cause you\'ve given me, like, all the cool tips. Like how to smile with your eyes.',
+        'Rebel Wilson',
     ],
-    '41eacbbe-373a-55f6-bb21-557cdba7d34c' => [
-        'Once we accept our limits, we go beyond them.',
-        'Albert Einstein',
+    'bf95ac71-af37-587a-9095-ce230047b831' => [
+        'I\'ve discovered that Motown and Broadway have a lot in common - a family of wonderfully talented, passionate, hardworking young people, fiercely competitive but also full of love and appreciation for the work, for each other and for the people in the audience.',
+        'Berry Gordy',
     ],
-    '93bc6381-4538-5b7f-83db-be01a954ad44' => [
-        'When I work, a lot of times I have to lose weight, and I do that, but in my regular life I was not eating right, and I was not getting enough exercise. But by the nature of my diet and that lifestyle - boom! The end result was high blood sugars that reach the levels where it becomes Type 2 diabetes. I share that with a gajillion other people.',
-        'Tom Hanks',
+    '9831c404-67ac-54d9-9d1e-eb18a55a20b5' => [
+        'My daughter is my biggest achievement. She is a little star and my life has changed so much for the better since she came along.',
+        'Orison Swett Marden',
     ],
-    'b64970c7-106f-57e1-b10f-539e17ec0039' => [
-        'I always want to give my best and do the best I can. I know when I have sung my best and when I haven\'t. There can be stresses and hassles with time travel and press attention. I just have to adapt and find a way of dealing with it.',
-        'Katherine Jenkins',
+    '049fff61-7131-5fd9-92f3-b3e8a71c17cb' => [
+        'Chicago is an October sort of city even in spring.',
+        'Nelson Algren',
+    ],
+    '1aa26986-e87b-59c4-8942-481cc1454f2e' => [
+        'I wish I was told to look after my teeth when I was younger. My smile is really important to me and one of my biggest assets, so I\'m very conscious that I need to keep it in top condition.',
+        'Louise Nurding',
+    ],
+    '4b32e743-4b2b-53cf-b2a1-3215790625c9' => [
+        'My father used to always say to me that, you know, if a guy goes out to steal a loaf of bread to feed his family, they\'ll give him 10 years, but a guy can do white-collar crime and steal the money of thousands and he\'ll get probation and a slap on the wrist.',
+        'Jesse Ventura',
+    ],
+    'cb8a1d4e-6dca-59ff-9368-9cce7adaa216' => [
+        'I\'m homesick all the time. I miss my animals. I miss my family. I miss my friends.',
+        'Brittany Howard',
+    ],
+    '331f7010-69c1-5ef9-8697-da8e5d25882f' => [
+        'True health infuses positive energy in the mind, body and spirit; it is a main focus in my life.',
+        'Maximillian Degenerez',
+    ],
+    '39123e59-1ab4-5d28-9f61-9e343650ae46' => [
+        'London is a roost for every bird.',
+        'Benjamin Disraeli',
+    ],
+    'eed58417-ce6f-54a4-ac70-12b2f315ab38' => [
+        'Strange - is it not? That of the myriads who Before us passed the door of Darkness through, Not one returns to tell us of the road Which to discover we must travel too.',
+        'Horace',
+    ],
+    'aa78a105-68ee-5a48-84c1-5012fbb3fb4f' => [
+        'The more I see of deer, the more I admire them as mountaineers. They make their way into the heart of the roughest solitudes with smooth reserve of strength, through dense belts of brush and forest encumbered with fallen trees and boulder piles, across canons, roaring streams, and snow-fields, ever showing forth beauty and courage.',
+        'John Muir',
+    ],
+    '2bcc7d07-351b-5d20-8771-0a13adb7bf2a' => [
+        'The best executive is one who has sense enough to pick good people to do what he wants done, and self-restraint enough to keep from meddling with them while they do it.',
+        'Theodore Roosevelt',
+    ],
+    '3b61c8d0-e855-5ddb-ba8b-3777b3a3cfc7' => [
+        'Every time you use the word \'healthy,\' you lose. The key is to make yummy, delicious food that happens to be healthy.',
+        'Marcus Samuelsson',
+    ],
+    'a32b84e2-340c-53a7-97b4-c74625bd76f1' => [
+        'My agent says that I\'m a \'repeat business guy.\' If you hire me to come do a movie, I\'ll be on time, know all my material, be ready to go, have a good attitude. I\'m here to work, so I get hired over and over again by the same producers. If you just be a team player on set you can work so much more often.',
+        'Dean Cain',
+    ],
+    'f4c87fe4-9334-556c-bdcc-778b4f9630de' => [
+        'What is important is family, friends, giving back to your community and finding meaning in life.',
+        'Adrian Grenier',
+    ],
+    'b27485fa-915a-5397-8e60-6bd7a2a7d22b' => [
+        'Money has never made man happy, nor will it, there is nothing in its nature to produce happiness. The more of it one has the more one wants.',
+        'Benjamin Franklin',
+    ],
+    '9126ab06-b59f-5f04-a552-d0a8f6fe3c17' => [
+        'Writing and travel broaden your ass if not your mind and I like to write standing up.',
+        'Ernest Hemingway',
+    ],
+    'b63b707e-06cc-5a1a-a6ce-1b8832ab2a96' => [
+        'The last couple relationships I had were long distance. It\'s not like I can make much of an effort to travel and see anybody. The guy had to do all the work, unfortunately.',
+        'Holly Madison',
+    ],
+    'c6dfe37e-cfe7-5af5-b9b5-34c2bceb6272' => [
+        'Success has always been a great liar.',
+        'Friedrich Nietzsche',
+    ],
+    '90c4ac71-dc41-5add-a581-91798375f82e' => [
+        'Within the hearts men, loyalty and consideration are esteemed greater than success.',
+        'Bryant H. McGill',
+    ],
+    '0e9637fc-8061-5094-bf25-67f831dbeb34' => [
+        'Competition is always a good thing. It forces us to do our best. A monopoly renders people complacent and satisfied with mediocrity.',
+        'Nancy Pearcey',
+    ],
+    '9b4614a7-6391-577c-8849-0af7d5e443d6' => [
+        'Players should know that if you can\'t make the contribution of the winning shot, that your attitude every day when you come to practice, or the positive contribution you make through cheering and keeping up team morale, is just as important in the overall picture.',
+        'Sue Wicks',
+    ],
+    '94195628-533a-56dc-8ced-4d2c937ab8ca' => [
+        'All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.',
+        'Alexis Carrel',
+    ],
+    'e83c83d7-cee4-524d-abc9-976c54418758' => [
+        'The mission of art is to represent nature not to imitate her.',
+        'William Morris Hunt',
+    ],
+    'a179702c-3219-5269-9ec3-277a9fe839fe' => [
+        'Beauty, more than bitterness, makes the heart break.',
+        'Sara Teasdale',
+    ],
+    'ec646e4b-987e-5f7b-96e2-2664733803d0' => [
+        'The secret to success is to know something nobody else knows.',
+        'Aristotle Onassis',
+    ],
+    '2ee1e708-9e44-5afb-9c5d-469ce5caeda5' => [
+        'When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it, but all that had gone before.',
+        'Jacob Riis',
+    ],
+    '27dbea10-6e98-529c-a4bf-0eff260898e3' => [
+        'How do you go from where you are to where you wanna be? And I think you have to have an enthusiasm for life. You have to have a dream, a goal. And you have to be willing to work for it.',
+        'Jim Valvano',
+    ],
+    '14394866-d89b-5d91-b0e0-73a106f133e9' => [
+        'I learned the truth at seventeen, That love was meant for beauty queens, And high school girls with clear skinned smiles, Who married young and then retired.',
+        'Janis Ian',
     ],
 ];

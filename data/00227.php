@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '0ecab579-67db-575d-9583-ee1ffb8f97e9' => [
-        'Note to self: Keep going. You\'re doing great. You might not be where you want to be yet, but that\'s okay. Just take it one step at a time and keep believing in yourself. And remember: No matter what happens, you can still enjoy your life and be happy.',
-        'Lori Deschene',
+    '551b3dea-4cc1-556b-a818-923a316319c8' => [
+        'Success in training the boy depends largely on the Scoutmaster\'s own personal example.',
+        'Robert Baden-Powell',
     ],
-    '84e05b9f-2dd7-5e3f-8d44-5b05dad685d8' => [
-        'Whoso loves, believes the impossible.',
-        'Elizabeth Browning',
+    '72a9bba8-27f6-5442-8f0b-7fc3104de06a' => [
+        'We should celebrate how amazing our bodies are! We all have things that we like and dislike about our bodies, but we need to focus on what we love - maybe it\'s a great smile, strong legs or curly hair?',
+        'Katherine Schwarzenegger',
     ],
-    '43125af1-bd7f-5837-92b5-5aeac872430b' => [
-        'The attitude we have towards our personal pets as opposed to the animals that suffer under the factory farm is hypocritical and delusional.',
-        'James Cromwell',
+    '7483b70e-a202-5aa0-ac11-e2a49fce1a0b' => [
+        'In philanthropy, you have to take the attitude of a mother... You have to be patient, and we have been very patient for a long time.',
+        'Shiv Nadar',
     ],
-    '4cecb182-aa1f-5a7b-abbe-55a281ec9f38' => [
-        'Film is a much lonelier process than theatre. You really don\'t have any rehearsal time in film. You don\'t shape it together... with theatre, there is a complete kind of family atmosphere. The sociable side of this business is the theatrical side, it really isn\'t the film side.',
-        'Keira Knightley',
+    'a6608bf2-e57f-574b-b1b5-0a5cf542aee8' => [
+        'If a little dreaming is dangerous, the cure for it is not to dream less but to dream more, to dream all the time.',
+        'Marcel Proust',
     ],
-    '3fd90d93-abf3-568b-936f-378c60cf2976' => [
-        'My grandmother lived to 104 years old, and part of her success was she woke up every morning to a brand new day. She said every morning is a new gift. Her favorite hobby was collecting birthdays.',
-        'George Takei',
+    '72dff3b0-e6fb-5262-8458-3897f031ee45' => [
+        'I always wanted to be a farmer. There is a tradition of that in my family.',
+        'Bjork',
     ],
-    '49b3ae45-5dc7-530a-850b-f40e4154eba9' => [
-        'When I look in the mirror, I see someone who\'s happy with how he looks, because I was never one of the handsome Hollywood people. And I\'ve had success as I\'ve gotten older, because I\'m able to play characters. I no longer get the girl, but I get the part.',
-        'Michael Caine',
+    '1104ee18-6266-54a0-b5e6-eb318a96c3e7' => [
+        'When Maurice touched a keyboard, it was like something from a movie, magical. He would always give you something from a movie, and you\'d go, what did you just play... immediately inspirational writings, amazing. That\'s what we\'re going to miss.',
+        'Robin Gibb',
     ],
-    'c3fcf46c-6eaa-5596-9141-6f1f0b39690c' => [
-        'As you think, so shall you become.',
-        'Bruce Lee',
+    'fed84616-5b34-5e68-8c25-448d418a84b8' => [
+        'The power of one, if fearless and focused, is formidable, but the power of many working together is better.',
+        'Gloria Macapagal Arroyo',
     ],
-    '72c57056-f129-5a5b-b4c1-fb5337013587' => [
-        'From the first opening of our eyes, it is the light that attracts us. We clutch aimlessly with our baby fingers at the gossamer-motes in the sunbeam, and we die reaching out after an ineffable blending of earthly and heavenly beauty which we shall never fully comprehend.',
-        'Lucy Larcom',
+    'fae7e13e-f13e-57d4-8bab-b22b63582a92' => [
+        'The scientific observer of Nature is a kind of mystic seeker in the act of prayer.',
+        'Muhammad Iqbal',
     ],
-    '5f73f4be-becf-5501-9306-7187a600beef' => [
-        'Failure doesn\'t mean you are a failure it just means you haven\'t succeeded yet.',
-        'Robert Schuller',
+    '46dff4e5-051f-506c-aea9-0ef7fd95c90c' => [
+        'Don\'t be afraid of failure; be afraid of petty success.',
+        'Maude Adams',
     ],
-    'e97e5fc7-4ffd-585c-bcb0-dc9fa939dc3e' => [
-        'The enemies of acting are mood and attitude and other general homogenized disruptive entities. Whereas acting is about action - doing - and unless you can figure out a way to craft in an imaginative reality to which you don\'t submit, you\'re going to be out of control. You\'ll flip out. The job is to be surprised.',
-        'William Hurt',
+    '7b988ee9-0d5f-5df6-894e-04f5c18b086b' => [
+        'Communism doesn\'t work because people like to own stuff.',
+        'Frank Zappa',
     ],
-    '5f3c4fed-b143-5601-9c31-d36f82d26b57' => [
-        'Mental attitude and concentration are the keys to pitching.',
-        'Ferguson Jenkins',
+    '3d7a2960-431a-56fe-b89e-e3bfa4335960' => [
+        'I reached rock bottom halfway through college. And it was - because of all the pressure that I think we\'re talking about right now - the pressure to learn how to budget, the pressure to really abandon everything that you ever learned. You don\'t have a comfort zone anymore. You don\'t have your neighborhood. You don\'t have your family with you.',
+        'Jidenna',
     ],
-    '1cc366a4-191f-591a-af1f-ff95f9ea1eaf' => [
-        'Our greatest happiness does not depend on the condition of life in which chance has placed us, but is always the result of a good conscience, good health, occupation, and freedom in all just pursuits.',
-        'John F. Kennedy',
+    'f9eadfcf-75db-57e0-a38c-92514c9b6f84' => [
+        'I\'ll never stop dreaming that one day we can be a real family, together, all of us laughing and talking, loving and understanding, not looking at the past but only to the future.',
+        'LaToya Jackson',
     ],
-    '3a630150-f825-5251-b6aa-0170a32d749f' => [
-        'If you develop a dialogue with me and take an interest in me, I\'ll want to give you the business. It\'s human nature.',
-        'Danny Meyer',
+    '3d8cf790-7873-567d-9e4d-d0fb92acb3f8' => [
+        'You don\'t look out there for God, something in the sky, you look in you.',
+        'Alan Watts',
     ],
-    'e5bc1f99-9bb0-588a-97c6-933a3fa86656' => [
-        'Sometimes the most important thing in a whole day is the rest we take between two deep breaths.',
-        'Etty Hillesum',
+    '0aa17bf0-6546-5090-bafb-eb39cf37adb4' => [
+        'Good ideas are like Nike sports shoes. They may facilitate success for an athlete who possesses them, but on their own they are nothing but an overpriced pair of sneakers. Sports shoes don\'t win races. Athletes do.',
+        'Felix Dennis',
     ],
-    '384f4859-4980-519b-a772-46eb984e2cdb' => [
-        'Children are the most honest critics. They will say \'You\'re funny\', but also \'You\'re pathetic - go away.\'',
-        'Dylan Moran',
+    '14fcda87-09c2-590e-9808-0f08a7748608' => [
+        'All personality traits have their good side and their bad side. But for a long time, we\'ve seen introversion only through its negative side and extroversion mostly through its positive side.',
+        'Susan Cain',
     ],
-    '41200978-e355-57b5-bba3-6767404d54f8' => [
-        'You cannot move things by not moving.',
-        'Suzy Kassem',
+    '1ee0372b-d7d0-5d27-9d1b-c13582e7270d' => [
+        'Solitary trees, if they grow at all, grow strong.',
+        'Winston Churchill',
     ],
-    '3ed92852-d526-5734-b25f-4758642cfcec' => [
-        'I bought some batteries, but they weren\'t included.',
-        'Steven Wright',
+    '94241b1a-8bd3-577a-82f5-1c1315733830' => [
+        'I learned a long time ago that some people would rather die than forgive. It\'s a strange truth, but forgiveness is a painful and difficult process. It\'s not something that happens overnight. It\'s an evolution of the heart.',
+        'Sue Monk Kidd',
     ],
-    '3cff37ce-ebb3-5402-beda-c06c494b3efd' => [
-        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
-        'James D. Watson',
+    '9d0ce29d-e0aa-5422-af80-7766941dd49a' => [
+        'Change your life today. Don\'t gamble on the future, act now, without delay.',
+        'Simone de Beauvoir',
     ],
-    '6ea0caf9-88e3-5c05-8ccb-d85094d752c1' => [
-        'I think who you are in school really sticks with you. I don\'t ever feel like the cool kid at the party, ever. It\'s like, \'Smile and be nice to everybody, because you were not invited to be here.\'',
-        'Taylor Swift',
+    'e683b8d3-51f0-5a7e-b7fc-7f23b181de8c' => [
+        'I was kind of like the Rhea Perlman of the bar. I was like Carla on \'Cheers.\' People were more afraid of me. There was a point where I got a little surly. There were only so many chicken wings I could serve before losing the smile on my face.',
+        'Melissa Rauch',
     ],
-    '6e3f3e83-5742-594b-8ab9-b2f45ba0d2c0' => [
-        'I am living out my adolescent dream of travel and adventure.',
-        'Tim Cahill',
+    'a3df1292-1339-5f1f-b8f0-6e50b80a5375' => [
+        '\'Yes\' is the mother of all positive words, next to \'love.\' Maybe \'love\' is the father of all positive words.',
+        'Jason Mraz',
     ],
-    '02f6e031-b1f6-5778-a380-bceb72110e2a' => [
-        'A discipline I have observed is an attitude of love and reverence to people.',
-        'Bessie Head',
+    '4d66c77e-67e2-588d-9530-0b9d0bf8c65d' => [
+        'Sadness may be part of life but there is no need to let it dominate your entire life.',
+        'Byron Pulsifer',
     ],
-    '3237546c-31eb-52b0-ab5a-b1a0fdcdc0b3' => [
+    '04e5d17c-2059-5100-9924-8e305955eb0c' => [
         'I like to be as positive and as peaceful as possible, but reality says, you know, sometimes you get mad, sometimes you get antsy, sometimes you get aggravated.',
         'Musiq Soulchild',
     ],
-    '4fc41733-1739-5cd0-adc3-9ec8134d264d' => [
-        'Keep in mind that neither success nor failure is ever final.',
-        'Roger Babson',
+    '3b303a49-2d08-5ec9-bce4-51c0c108d2b8' => [
+        'You don\'t drown by falling in water. You drown by staying there.',
+        'Unknown',
     ],
-    'f6306c65-71a8-5b38-8b97-47ca31b180ba' => [
-        'A book is a fragile creature, it suffers the wear of time, it fears rodents, the elements and clumsy hands. so the librarian protects the books not only against mankind but also against nature and devotes his life to this war with the forces of oblivion.',
-        'Umberto Eco',
+    '1e2f6754-2e78-5f94-af3b-e582ca676ac7' => [
+        'Nature is a petrified magic city.',
+        'Novalis',
     ],
-    'f49bc18e-53d1-59e0-9fc4-6b19949dd2af' => [
-        'It\'s really important to have balance, spend some time in nature, go to a few parties, enjoy my friends and really chill out.',
-        'Joakim Noah',
+    '90bbdb29-7fed-5a14-84d1-027a640a306b' => [
+        'If you don\'t know where you are going, you will probably end up somewhere else.',
+        'Lawrence Peter',
+    ],
+    '3f505b8a-6ac8-55a7-932f-0c2f01d12962' => [
+        'Every good citizen makes his country\'s honor his own, and cherishes it not only as precious but as sacred. He is willing to risk his life in its defense and is conscious that he gains protection while he gives it.',
+        'Linda Thompson',
+    ],
+    '85bdff6c-d7be-5310-bc55-8ffbab834c55' => [
+        'Employees are your most valuable assets. They are the heart and guts of a company. This doesn\'t mean that from time to time, you aren\'t going to do what is good for the company.',
+        'Carlos Ghosn',
+    ],
+    '43e4363f-c6dd-5289-9688-8145568d4d09' => [
+        'They say that time changes things, but you actually have to change them yourself.',
+        'Andy Warhol',
+    ],
+    '74499484-f8ff-5f1a-be3b-7de29e730f11' => [
+        'All those who are around me are the bridge to my success, so they are all important.',
+        'Manny Pacquiao',
+    ],
+    'afe514db-0720-5f4c-aaa9-61cbfed523dd' => [
+        'The three great elemental sounds in nature are the sound of rain, the sound of wind in a primeval wood, and the sound of outer ocean on a beach.',
+        'Henry Beston',
+    ],
+    'c15e01f7-5421-55fe-a94d-cf493f4e3466' => [
+        'Things work out best for those who make the best of how things work out.',
+        'John Wooden',
+    ],
+    'b0072f6d-898e-55a8-b339-389e2abf697b' => [
+        'It takes a long time to become young.',
+        'Pablo Picasso',
+    ],
+    'a77a346b-fa9c-5dd3-a1b8-e62c5ac77cd9' => [
+        'Rainbows apologize for angry skies.',
+        'Sylvia Voirol',
+    ],
+    '5c94d2b9-880f-5908-97f7-613c6fa62556' => [
+        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.',
+        'Buddha',
+    ],
+    '997be791-f844-5339-b9a0-5806b3a021b9' => [
+        'There are no failures. Just experiences and your reactions to them.',
+        'Tom Krause',
+    ],
+    'c5f2ca64-2849-5571-9138-4f8b32c752d1' => [
+        'Objectifying is kind of a funny thing. Art is objectification, all art, because you\'re taking someone and making them into an object. But people can also talk back more to you when you\'re sketching them. They can look at you and say, \'Oh man, you got me wrong.\'',
+        'Molly Crabapple',
+    ],
+    '9837a286-e7b5-5c33-8385-8e5e3d7aaafd' => [
+        'My beauty ethos? Well, I\'d love to tell you it\'s something like \'less is more,\' but honestly, it all starts with happiness. If only someone could bottle that up - when I\'m happy, I\'m at my most radiant and glowing. It does me better than any product ever could. And I stand by how cheesy and cliched that sounds.',
+        'Solange Knowles',
+    ],
+    'ac02189a-2dbf-59da-816d-29e8714237d7' => [
+        'It\'s a weird thing. Rick Springfield wrote \'Jessie\'s Girl,\' and he probably gets sick of talking about \'Jessie\'s Girl.\' The thing is, I didn\'t write \'Blurred Lines.\' I didn\'t direct the music video. I\'m really happy for the success, but it is kind of a funny thing to follow me around.',
+        'Emily Ratajkowski',
+    ],
+    '81212aab-9048-5caf-9c3f-31358a3b7cb9' => [
+        'I am a gentleman. My natural inclination is to be on my best behavior.',
+        'Joe Wilson',
+    ],
+    'faad7792-bd0a-5213-a308-cf635dde4427' => [
+        'From a small seed a mighty trunk may grow.',
+        'Aeschylus',
+    ],
+    '481cacb4-6d58-5aef-a456-8fae8233fed1' => [
+        'Although I know it\'s unfair I reveal myself one mask at a time.',
+        'Stephen Dunn',
+    ],
+    'a3b2eb93-1086-5115-9c0e-c2b02fc83046' => [
+        'The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.',
+        'Charles Darwin',
+    ],
+    '98e29a3e-e0a7-57e1-977d-45eac30f2415' => [
+        'I will keep smiling, be positive and never give up! I will give 100 percent each time I play. These are always my goals and my attitude.',
+        'Yani Tseng',
+    ],
+    '95d05b9b-8620-5be8-84e7-e643cc420728' => [
+        'It is time we recognised the huge contribution that migration has made to the economic growth of this country.',
+        'Jeremy Corbyn',
+    ],
+    '58e645a7-311f-5d22-970c-670d200ac1de' => [
+        'This is no time for ease and comfort. It is time to dare and endure.',
+        'Winston Churchill',
+    ],
+    '80551ff9-44e3-5cf9-b122-2f9e54c4384b' => [
+        'Also, it\'s risky to try to duplicate earlier success. Magician had a certain charm to it, mostly due to my choice of lead characters, that I would be hard put to duplicate.',
+        'Raymond E. Feist',
+    ],
+    'ba777975-11f2-5bcb-b6af-1b4cff2c6282' => [
+        'Who sows virtue reaps honour.',
+        'Leonardo da Vinci',
+    ],
+    'c0861bd4-de97-5bf8-ae59-032bb4a8fe67' => [
+        'In the restaurant business, you never want to have enemies, whereas it seems that many politicians judge their success by how high their enemies are and whether they can show that they can hold their ground and give a punch for every punch they take.',
+        'John Hickenlooper',
+    ],
+    '0164546d-a6a4-5e17-b6e8-fbc774abf539' => [
+        'When I pray, I always thank Mother Nature for all the beauty in the world. It\'s about having an attitude of gratitude.',
+        'Miranda Kerr',
+    ],
+    'b6269d00-588b-5037-be97-d3c65d0aca4c' => [
+        'I\'m having a great time. It\'s like I\'m on some ridiculous big roller coaster not knowing what\'s happening next, but just having a great time on the ride.',
+        'Samantha Mumba',
     ],
 ];

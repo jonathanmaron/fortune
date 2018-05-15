@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'b1aff763-94a8-581d-a01d-9b4e7fd809a6' => [
-        'Even in modern art, artists have used methods based on calculation, inasmuch as these elements, alongside those of a more personal and emotional nature, give balance and harmony to any work of art.',
-        'Max Bill',
+    '0cc628e9-eb8c-530b-be18-7d6944a525c9' => [
+        'I\'ve missed more than 9000 shots in my career. I\'ve lost almost 300 games. 26 times I\'ve been trusted to take the game winning shot and missed. I\'ve failed over and over and over again in my life. And that is why I succeed.',
+        'Michael Jordan',
     ],
-    'e941ec7d-b594-5be0-8180-661ce8b6b733' => [
-        'You know, it was just another presentation of my work, and a funny one, because the cards are quite different from the normal Tarot deck, no?',
-        'H. R. Giger',
+    '862ff6e3-d6f7-5431-a062-29257ac382bf' => [
+        'In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don\'t try to control. In work, do what you enjoy. In family life, be completely present.',
+        'Lao Tzu',
     ],
-    '33246a99-3349-57eb-84eb-fde5dc29f0bb' => [
-        'Look for your choices, pick the best one, then go with it.',
-        'Pat Riley',
-    ],
-    'a9d52be7-f315-5ff9-8a04-dec0b412c59c' => [
-        'We pass through this world but once.',
-        'Aristotle',
-    ],
-    '16f23f73-632a-54ac-a635-8464001ac0d9' => [
-        'Food is everything. Food, friends, family: Those are the most important things in life.',
-        'Zac Posen',
-    ],
-    '82aedbb8-13b1-5021-aeee-6e05bc626f4d' => [
-        'We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It\'s never your fault. But it\'s always your fault, because if you wanted to change you\'re the one who has got to change.',
-        'Katharine Hepburn',
-    ],
-    'c6782034-0356-512e-9dae-3ef5d8e01bac' => [
-        'I used to make up stuff in my bio all the time, that I used to be a professional ice-skater and stuff like that. I found it so inspirational. Why not make myself cooler than I am?',
-        'Stephen Colbert',
-    ],
-    '63842dec-84e3-5be9-b574-07420e51afaf' => [
-        'What would air travel look like if airplanes were thrown out after each flight? No one would be flying in airplanes.',
-        'Gwynne Shotwell',
-    ],
-    'b1d3ceb0-1214-57d3-a6f3-f3cd3f8a3c2d' => [
-        'It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.',
-        'Donald Trump',
-    ],
-    '41b1c174-fcb5-5cc3-bd48-7d0b5c966a04' => [
-        'My mother has had breast cancer twice. And my mother has always been this very positive human being: a glass-half-full type. Like, when she was in treatment and feeling really bad, she would always talk about some nurse that was particularly nice to her.',
-        'Susanne Bier',
-    ],
-    'c4c10c47-00b5-5224-bbff-824db6cf9094' => [
-        'Kind words can be short and easy to speak but their echoes are truly endless.',
-        'Mother Teresa',
-    ],
-    '544d6879-73ff-5806-bd4d-3a757f5794e3' => [
-        'Sometimes, comics will make the observation that it\'s not jokes that are funny, it\'s characters that are funny. And isn\'t that true! That\'s why I always kill jokes. I\'m terrible at them, because I get the joke right, but I can\'t get the character right, and it just goes down like a lead balloon.',
-        'David Mitchell',
-    ],
-    '7cee1851-10dc-53f0-a3cb-129fd3103cd7' => [
-        'Research shows that there is only half as much variation in student achievement between schools as there is among classrooms in the same school. If you want your child to get the best education possible, it is actually more important to get him assigned to a great teacher than to a great school.',
-        'Bill Gates',
-    ],
-    'abdff8c9-ac45-51bc-a86e-a103fa6108a6' => [
-        'Most success springs from an obstacle or failure. I became a cartoonist largely because I failed in my goal of becoming a successful executive.',
+    '5654bc39-b1cf-56bb-bd19-0a58f06b9ef8' => [
+        'Every skill you acquire doubles your odds of success.',
         'Scott Adams',
     ],
-    '2bf79e3c-6652-54cc-afbe-3ddf633024a6' => [
-        'Life is a succession of lessons, which must be lived to be understood.',
-        'Ralph Emerson',
+    'baa12c27-8f06-5f40-b551-71d1285b5ec3' => [
+        'The moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity.',
+        'Joshua Waitzkin',
     ],
-    '502e54db-cfdc-55a6-829c-f9ba264140b6' => [
-        'I can\'t let time move on without fighting tooth and nail and hopefully being a part of a revolution that is positive.',
-        'Ian Somerhalder',
+    '3954670f-0504-560d-8428-c544aae26285' => [
+        'I have a political attitude, but I\'m certainly not a politician.',
+        'Kgalema Motlanthe',
     ],
-    '0c2d38ea-f006-5076-b15d-a8835ba698b9' => [
-        'I am not bothered by the fact that I am unknown. I am bothered when I do not know others.',
-        'Confucius',
+    'aea003db-ab3a-55a6-804d-7aa8f47afbdf' => [
+        'I sit here as the first African-American attorney general, serving the first African-American President of the United States. And that has to show that we have made a great deal of progress. But there\'s still more we have to travel along this road so we get to the place that is consistent with our founding ideals.',
+        'Eric Holder',
     ],
-    '1c12b94b-1962-5fb7-937e-0aca02806a3a' => [
-        'Crowds are the most difficult thing for me these days because I have to walk with my head down and my eyes averted. There\'s still that part of me that wants to hold my head up, make eye contact and smile.',
-        'Cameron Diaz',
+    'c42fc641-e478-59eb-b760-741ca14fdd63' => [
+        'Death is pitch-dark, but colors are light. To be a painter, one must work with rays of light.',
+        'Edvard Munch',
     ],
-    '23af1650-4014-5db7-a803-850e2c6c2edb' => [
-        'Flexible working is not just for women with children. It is necessary at the other end of the scale. If people can move into part-time work, instead of retirement, then that will be a huge help. If people can fit their work around caring responsibilities for the elderly, the disabled, then again that\'s very positive.',
-        'Theresa May',
+    'c26f3603-b521-5f0f-92ee-72279acb4b10' => [
+        'You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.',
+        'Catherine Pulsifer',
     ],
-    '65d8bf59-181d-58c2-a502-a6652a557858' => [
-        'Drawing on my fine command of the English language, I said nothing.',
-        'Robert Benchley',
+    'a3792f6f-1ed8-5614-89b4-180e8a099f23' => [
+        'I did not have three thousand pairs of shoes, I had one thousand and sixty.',
+        'Imelda Marcos',
     ],
-    '21634a63-fd7e-5951-9f3f-a97958b465cc' => [
-        'When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.',
-        'Audre Lorde',
+    '83efeb7c-e301-50ba-947e-b2d3560e7686' => [
+        'My goal in coming to General Motors was to help restore profitability, build a strong market position and position this iconic company for success. We are clearly on that path.',
+        'Edward Whitacre, Jr.',
     ],
-    '7dad1497-3bda-5296-8c1e-b574cb342a1f' => [
-        'The true measure of your worth includes all the benefits others have gained from your success.',
-        'Cullen Hightower',
+    '0142ded5-0369-5b1e-a186-be3d2a2d7c54' => [
+        'What has happened to the good old-fashioned travel agent? I want to go to a really posh travel agent and have them organise everything for me. I don\'t want to do things on the Internet.',
+        'Jenny Eclair',
     ],
-    '1c924916-adce-565e-9691-930fd9f9a1aa' => [
-        'Never apologize for burning too brightly or collapsing into yourself every night. That is how galaxies are made.',
-        'Tyler Kent White',
+    '94230d61-cd9d-5d26-88b6-ea3ccdf86b3a' => [
+        'With every drop of water you drink, every breath you take, you\'re connected to the sea. No matter where on Earth you live. Most of the oxygen in the atmosphere is generated by the sea.',
+        'Sylvia Earle',
     ],
-    '5e440da4-b69e-519d-9d4d-ba5ea8f8d3a7' => [
-        'Time has a way of demonstrating that the most stubborn are the most intelligent.',
-        'Yevgeny Yevtushenko',
+    '482e1c5b-8c4f-5b58-b3b1-9e8dd1dd3fba' => [
+        'Spirit of place! It is for this we travel, to surprise its subtlety; and where it is a strong and dominant angel, that place, seen once, abides entire in the memory with all its own accidents, its habits, its breath, its name.',
+        'Alice Meynell',
     ],
-    '902cd08a-7f7a-58ec-83da-760386dd2449' => [
-        'The funny thing about directing is that you have your own opinions, but it\'s a collaboration. Directing is a group effort. Even though you might think something works, the smartest thing you can do as a director is try and weigh the opinions of the people around you.',
-        'Chris Evans',
+    'e0fa8d07-6cee-5a35-a169-e7d780af8448' => [
+        'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.',
+        'Cicely Tyson',
+    ],
+    'fe91f259-01f4-5a2f-99b6-122bf3ea4bb0' => [
+        'It\'s funny how social activists usually protest against the only things that have a credible chance of achieving the activists\' goals.',
+        'Craig Bruce',
+    ],
+    'fdb9f57c-4754-51d5-8f5b-ef493de5a12f' => [
+        'To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.',
+        'Byron Pulsifer',
+    ],
+    '0131e82f-a7b7-526b-ace1-e7b8f166bdba' => [
+        'Success is achieved by developing our strengths, not by eliminating our weaknesses.',
+        'Marilyn vos Savant',
+    ],
+    '80496cc3-abed-5711-89ba-a1776b5793ef' => [
+        'A man\'s friendships are one of the best measures of his worth.',
+        'Charles Darwin',
+    ],
+    'ca2da402-03a0-5143-bcc1-b286faf15732' => [
+        'Things do not change, we change.',
+        'Henry Thoreau',
+    ],
+    '4460e907-02a4-5798-b292-2ee408b18d1a' => [
+        'Everyone here has the sense that right now is one of those moments when we are influencing the future.',
+        'Steve Jobs',
+    ],
+    '6df9660b-8d28-587f-8858-0232bbc22130' => [
+        'A man is not where he lives but where he loves.',
+        'Unknown',
+    ],
+    'c770cb8f-cf85-5063-8644-2bfcc301a1b6' => [
+        'I did an A Level in Theatre Studies and had a really inspirational teacher, and then I just went on to university.',
+        'Jessica Raine',
+    ],
+    'd0ad7d88-dcf0-5e9e-bc5b-dbd8bebaa450' => [
+        'My parents were kind of over protective people. Me and my sister had to play in the backyard all the time. They bought us bikes for Christmas but wouldn\'t let us ride in the street, we had to ride in the backyard. Another Christmas, my dad got me a basketball hoop and put it in the middle of the lawn! You can\'t dribble on grass.',
+        'Jimmy Fallon',
+    ],
+    '25356269-07ea-51dc-91e1-a5c5809ecddd' => [
+        'Success can allow you to try for greatness, can give you an opportunity to take a chance on something. I\'m very blessed to have the success that I\'ve had, and that\'s given me so many opportunities to work on being great.',
+        'Orlando Bloom',
+    ],
+    '3f21efa6-5cbc-5690-8034-23a5a377b0f1' => [
+        'Wherever you are, be there totally. If you find your here and now intolerable and it makes you unhappy, you have three options: remove yourself from the situation, change it, or accept it totally. If you want to take responsibility for your life, you must choose one of those three options, and you must choose now. Then accept the consequences.',
+        'Jawaharlal Nehru',
+    ],
+    'da08e4e3-ed8c-5ef7-bdb3-9e5c71058620' => [
+        'When I was working at the Sprint store, I got laid off. I was bummed out, but I stayed positive. I used the money I had earned while working there to make my first album. Without that job, maybe \'Corazon Sin Cara\' would never had been made. It\'s a very inspirational story.',
+        'Prince Royce',
+    ],
+    '434477c7-992f-51e0-bcbe-b241756d123c' => [
+        'I literally wear a mask. When I take it off, I\'m a father. I\'m a husband. I like to come home, and I like to spend time with family, and I like to travel, and I like to have a good time. And I like to be a kid every now and giggle and play with my kids.',
+        'Rey Mysterio',
+    ],
+    '73cf0892-d8e4-58a1-ace3-6d9f5b346b4b' => [
+        'The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.',
+        'Henry Miller',
+    ],
+    'a9099346-a00f-5584-8425-dadba3a81bfa' => [
+        'The arts are not a way to make a living. They are a very human way of making life more bearable. Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven\'s sake.',
+        'Garrison Keillor',
+    ],
+    '6971cb0e-b7c2-55da-b331-47b5b8a0bc55' => [
+        'The important thing for me was that the World Cup should travel round the world.',
+        'Sepp Blatter',
+    ],
+    'bb545275-99f2-5a55-9ff8-775dbbfcf57e' => [
+        'Those who dream by day are cognizant of many things which escape those who dream only by night.',
+        'Edgar Allan Poe',
+    ],
+    'a7873de7-2ad2-51c7-899f-970ace7f8e4e' => [
+        'Reality leaves a lot to the imagination.',
+        'John Lennon',
+    ],
+    'b35d6cba-89b1-579f-a749-679877055181' => [
+        'Real difficulties can be overcome; it is only the imaginary ones that are unconquerable.',
+        'Theodore N. Vail',
+    ],
+    '1680fc54-eeed-51a5-b605-37e741801a0d' => [
+        'Life\'s too mysterious to take too serious.',
+        'Mary Engelbreit',
+    ],
+    'cf6f38e3-fdac-51dd-8629-878e47a6269c' => [
+        'Honesty is the most single most important factor having a direct bearing on the final success of an individual, corporation, or product.',
+        'Ed McMahon',
+    ],
+    'b342be74-ee0e-5e45-9dcb-71b9479e7958' => [
+        'If you think you can do it, you can.',
+        'John Burroughs',
+    ],
+    '89a7bca2-805a-5484-a4fe-2c560b31c563' => [
+        'My attitude about death is, going into the next room, and it\'s a room that the rest of us can\'t get into because we don\'t have the key. But when we do get the key, we\'ll go in there, and we\'ll see one another again, in some shape or form or whatever. It\'s not the end.',
+        'Roger Moore',
+    ],
+    'ecf59df5-ea1f-50ad-95d4-419ae3ea4677' => [
+        'Stop doing things that waste time. Don\'t replace time with your family or things that you need to do. I needed to put together two fantasy teams this weekend because that\'s something I enjoy, but I did stop playing Nintendo Wii for hours on end.',
+        'Gary Vaynerchuk',
+    ],
+    '683e9db8-6bf5-5089-8ae9-36b8719b68d9' => [
+        'I hate to travel with stuff.',
+        'Manolo Blahnik',
+    ],
+    '7517d666-5260-51f6-96c4-05659553ba5e' => [
+        'When I was younger, I\'d go to the Museum of Television and Radio in New York and watch this beautiful clip of Billie Holiday playing with a bassist, a pianist and Gerry Mulligan, who was a friend of mine, on baritone sax. At one point, she looks over at Gerry, and they just smile. When those moments happen, it\'s just lovely.',
+        'Patti Scialfa',
+    ],
+    '2a64cb9a-e3fe-5a52-9a57-72b7d8da74a1' => [
+        'The origin of all revolutions and corruption, and the spur and source of all base morals are just two sayings: The First Saying: \'So long as I\'m full, what is it to me if others die of hunger?\' The Second Saying: \'You suffer hardship so that I can live in ease; you work so that I can eat.\'',
+        'Said Nursi',
+    ],
+    '0a525507-fa72-50b7-ad1e-48a1f141aeff' => [
+        'If you have this enormous talent, it\'s got you by the balls, it\'s a demon. You can\'t be a family man and a husband and a caring person and be that animal. Dickens wasn\'t that nice a guy.',
+        'Dustin Hoffman',
+    ],
+    '2d3cfafe-16eb-502d-beb3-065c0b143411' => [
+        "Two roads diverged in a wood, and I\u{2014}I took the one less traveled by, And that has made all the difference.",
+        'Robert Frost',
+    ],
+    '5079d664-3bdb-51d3-9be7-b3fa6f232cc0' => [
+        'Don\'t disrespect me, lie about it, and then come smile in my face and act like nothing\'s wrong.',
+        'Scottie Pippen',
+    ],
+    '030bd028-88b2-5304-a0dd-be2258c88f40' => [
+        'If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.',
+        'Henry David Thoreau',
+    ],
+    '50981fd5-a759-553f-bb9c-14763efc84b9' => [
+        'March on. Do not tarry. To go forward is to move toward perfection. March on, and fear not the thorns, or the sharp stones on life\'s path.',
+        'Khalil Gibran',
+    ],
+    '5e1a8218-9ea1-55d6-836d-dfe56be3bba9' => [
+        'In regard to music, I just think that it\'s always best to have an attitude of being a perpetual student and always look to learn something new about music, because there\'s always something new to learn.',
+        'David Sanborn',
+    ],
+    '73c2f402-cc8a-50e5-be57-ab06f9ea4868' => [
+        'Go hard or go home',
+        'Phil Heath',
+    ],
+    '42fc32ad-f47f-5b68-8d2a-7b18ba9fc0fd' => [
+        'The ladder of success in Hollywood is usually a press agent, actor, director, producer, leading man; and you are a star if you sleep with each of them in that order. Crude, but true.',
+        'Hedy Lamarr',
+    ],
+    '235a9b49-1bee-52b2-b1dc-02810f297627' => [
+        'The five essential entrepreneurial skills for success: Concentration, Discrimination, Organization, Innovation and Communication.',
+        'Harold S. Geneen',
     ],
 ];

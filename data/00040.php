@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'a77d991b-c59f-5308-9472-1508e6df0d38' => [
-        'You hear certain things, negative things, all the time that aren\'t true, but you never hear about the positive.',
-        'Floyd Mayweather, Jr.',
+    '22114c57-3b5c-5486-a3f1-03b47b7a0596' => [
+        'There is no personal achievement in being born beautiful.',
+        'Loretta Young',
     ],
-    '6b408f08-c2b0-5ace-bbf0-8abf69b5c34c' => [
-        'People who make the choice to study, work hard or do whatever they endeavor is to give it the max on themselves to reach to the top level. And you have the people who get envy and jealous, yet are not willing to put that work in, and they want to get the same praise.',
-        'Evander Holyfield',
+    '3deb1b97-3460-5e1d-8b2b-e9c6b4698294' => [
+        'I say to the young, be happy that you were born in Italy because of the beauty of the human capital, both masculine and feminine, of this country... No other country has such human capital.',
+        'Rita Levi-Montalcini',
     ],
-    '74b6ba9c-a562-5e2b-b296-0b0c02d46c1f' => [
-        'If you smile when no one else is around, you really mean it.',
-        'Andy Rooney',
+    '0bb79e71-59f8-5837-b17b-0d5914fc97a3' => [
+        'The most common error made in matters of appearance is the belief that one should disdain the superficial and let the true beauty of one\'s soul shine through. If there are places on your body where this is a possibility, you are not attractive - you are leaking.',
+        'Charles Lamb',
     ],
-    '95551e3b-f8af-5211-bbdf-55e6231443a8' => [
-        'I feel French is very close to Urdu. Both languages are beautiful. Sadly, their beauty is lost in translation.',
-        'Amisha Patel',
+    'eab7bbed-c452-5d8c-907b-34b179acef39' => [
+        'If you do what you\'ve always done, you\'ll get what youve always gotten.',
+        'Tony Robbins',
     ],
-    'c335ae7e-26a6-5331-9ff0-efea37857c01' => [
-        'You create your opportunities by asking for them.',
-        'Shakti Gawain',
+    'c232a234-aa0d-5392-99d8-50c5e06017ce' => [
+        'It\'s unhealthy for people to never express any kind of negativity or doubt. To have balance, you need to address that side of your thoughts as well as the positive. Otherwise, you tend toward crazy.',
+        'Shirley Manson',
     ],
-    '54b1d760-eaed-559b-ab7f-ab841bccb2e9' => [
-        'It is better to travel well than to arrive.',
-        'Buddha',
+    '085dc2cf-bec9-55a3-b222-0c65bbe55754' => [
+        'One that desires to excel should endeavour in those things that are in themselves most excellent.',
+        'Epictetus',
     ],
-    '2e240946-4109-52fa-bc1b-ae4a674b78d4' => [
-        'Perhaps travel cannot prevent bigotry, but by demonstrating that all peoples cry, laugh, eat, worry, and die, it can introduce the idea that if we try and understand each other, we may even become friends.',
-        'Maya Angelou',
+    'fdcb6511-6e00-5706-a01c-fa5bdb248a9d' => [
+        'Success is often achieved by those who don\'t know that failure is inevitable.',
+        'Coco Chanel',
     ],
-    '68530c3b-a263-580f-aa20-2aa390afdf9f' => [
-        'I think there have always been funny women, from Carol Burnett to Joan Rivers. When the audience sees a woman, they innately know she\'s worked twice as hard to get there, she\'s had to prove that she can be the leader, first, and then be funny on top of it. She has to emit a confidence that she\'s in control.',
-        'Wendy Liebman',
+    '469995c5-a727-5932-b4c2-393f96f19d57' => [
+        'I like to be grounded by nature, go hiking... go to an isolated island that\'s not glamorous and touristy at all.',
+        'Cote de Pablo',
     ],
-    'c077bcf7-cb5d-5dbb-b53a-b461c71d3bd0' => [
-        'Removing all stimulation around you is a really positive thing in terms of stimulating your creativity.',
-        'Grimes',
+    'f35e49e2-22f4-55d2-b0c5-668176b4fa71' => [
+        'Make treating yourself a priority and always remember your life is happening now. Don\'t put off all your dreams and pleasures to another day. In any balanced personal definition of success there has to be a powerful element of living life in the present.',
+        'Mireille Guiliano',
     ],
-    '06d23d34-7201-524b-ae53-d8a4ddb83f2e' => [
-        'Slaves are generally expected to sing as well as to work.',
-        'Frederick Douglass',
+    'd520a924-bbf5-5544-b52a-856fc9b25393' => [
+        'No matter where I travel, I make sure to carry a Vaseline body lotion with me to keep my skin well moisturised all the time.',
+        'Nargis Fakhri',
     ],
-    '135fbd68-c3eb-5457-a3c2-503cece11dd3' => [
-        'One of my passions is photography. I always carry a camera in my bag whenever I travel. I always take pictures wherever I go, and some of them end up being really crazy ones.',
-        'Sunidhi Chauhan',
+    'b325d41b-5a74-54d5-b128-fb059e20be3a' => [
+        'Perfection is not attainable, but if we chase perfection we can catch excellence.',
+        'Vince Lombardi',
     ],
-    'f94e4878-90d8-59fc-81dc-34a5f8e326e4' => [
-        'Eventually, my eyes were opened, and I really understood nature. I learned to love at the same time.',
-        'Claude Monet',
+    '2e29485c-d59c-52fa-becc-35273ff83a3d' => [
+        'The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.',
+        'Mark Caine',
     ],
-    'd183affd-b18c-5d26-aff0-9b629a26bc50' => [
-        'The harder you fall, the higher you bounce.',
-        'Unknown',
+    '83f61237-6d3b-5dc0-9f69-8602aa8abd7d' => [
+        'To be ready to fail is to be prepared for success.',
+        'Jose Bergamin',
     ],
-    'f3ce53a6-f96b-5098-b8fe-96b8c92262ee' => [
-        'I drove right into the music with the same sort of attitude as I went into the football stuff with. Just found a routine and hard work, and it helped me progress a lot faster.',
-        'Sam Hunt',
+    '81c73f05-d044-5eaf-aefa-0a6c79322c0b' => [
+        'I don\'t know what it\'s like to have a typical father figure. He\'s not the dad who\'s going to take me to the beach and go swimming, but he\'s such a motivational person.',
+        'Tiffany Trump',
     ],
-    '08ec468e-3c33-5017-a9fa-37a5cccb1d91' => [
-        'It is the greatest of all mistakes to do nothing because you can only do little, do what you can.',
-        'Sydney Smith',
+    'a1673153-6445-5c3f-aaa2-e1bfee1d820b' => [
+        'Many people say I smile more in Africa than in Sweden.',
+        'Henning Mankell',
     ],
-    '58af68b7-ba29-5ad1-a95c-da8b77fa2d25' => [
-        'Adopting the right attitude can convert a negative stress into a positive one.',
-        'Hans Selye',
+    '3b81605c-0b7e-5924-b3df-8055352eb1f2' => [
+        'What you give is what you get.',
+        'Byron Pulsifer',
     ],
-    '41666a4a-ec06-5a2c-97ad-3f1ebebe43f6' => [
-        'For \'Fright Night,\' we really want to convey the fun attitude of the movie and show the intensity of Colin Farrell as a predator. He\'s not a brooding vampire - he\'s dark and dangerous.',
-        'Stacey Snider',
+    'cc83419e-b97e-560b-bf4f-82cb3a8e448b' => [
+        'There\'s no greater feeling in the world than when you can put a smile on somebody\'s face just by walking into a room. It\'s unbelievable. And if I have that power, who am I to waste it, you know?',
+        'J. J. Watt',
     ],
-    '756073f6-e5f6-5fb8-b4c7-7bfb628e32bd' => [
-        'I\'m going to do as much as I can with this life, and then I\'m going to make sure to take some time off and be simple and ride my bike and hang out with friends.',
-        'Jill Scott',
+    '670b2ec7-b88e-58d3-ae0c-cf76360c1462' => [
+        'I actually think of being funny as an odd turn of mind, like a mild disability, some weird way of looking at the world that you can\'t get rid of.',
+        'Calvin Trillin',
     ],
-    'bcf3f0ba-42ec-5d0a-8aac-444419302be1' => [
-        'There is no retirement for an artist, it\'s your way of living so there is no end to it.',
-        'Henry Moore',
+    'e99f64e8-fcb5-58d1-a875-1d344b91d2eb' => [
+        'To experience sublime natural beauty is to confront the total inadequacy of language to describe what you see. Words cannot convey the scale of a view that is so stunning it is felt.',
+        'Eleanor Catton',
     ],
-    'cca74119-6655-5c75-8ff4-30c147d131fc' => [
-        'Nobody can give you freedom. Nobody can give you equality or justice or anything. If you\'re a man, you take it',
-        'Malcolm X',
+    '902979ed-1d8b-5877-8686-707410c80e6e' => [
+        'Of life\'s two chief prizes, beauty and truth, I found the first in a loving heart and the second in a laborer\'s hand.',
+        'Khalil Gibran',
     ],
-    'b507339a-de1a-567c-99f2-b3c20732ea8c' => [
-        'I\'ve got a theory that if you give 100 percent all of the time, somehow things will work out in the end.',
-        'Larry Bird',
+    '1cd47494-013f-567d-a9d6-c1f9e809ab9a' => [
+        'Real education should consist of drawing the goodness and the best out of our own students. What better books can there be than the book of humanity?',
+        'Cesar Chavez',
     ],
-    '10b64c93-6870-550e-ac12-6fc8db14f9cc' => [
-        'There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.',
-        'Wayne Dyer',
+    '6e0f97c4-3b95-561b-836b-e5d087c39f00' => [
+        'The fame of heroes owes little to the extent of their conquests and all to the success of the tributes paid to them.',
+        'Jean Genet',
     ],
-    '6cfdd730-bb5b-5830-867b-a0ae15256c9d' => [
-        'Being alone on the moors is scary; as the rain clouds settle in, it makes you realise your place in nature.',
-        'Dave Davies',
+    '41cbd5b8-8a33-5b26-b1f9-765afdd2fefa' => [
+        'I was never pretty, never really popular. I was lanky and funny looking.',
+        'Tanya Roberts',
     ],
-    '42560958-2be3-5691-978d-3f39d3e9d6b0' => [
-        'All the adversity I\'ve had in my life, all my troubles and obstacles, have strengthened me... You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.',
-        'Walt Disney',
+    'd3ad5ec4-d2c9-56af-83ab-49f1fb674f73' => [
+        'I do a lot of inspirational talks for kids, to motivate them to change their lives and give them hope.',
+        'Adam Beach',
     ],
-    'dd0db38a-3ec1-5429-a478-8960ed888b05' => [
-        'A happy life is one spent in learning, earning, and yearning.',
-        'Alan Cohen',
+    '1514e10f-62ab-5724-b115-b66cb336883f' => [
+        'Swans sing before they die - \'twere no bad thing should certain persons die before they sing.',
+        'Samuel Taylor Coleridge',
+    ],
+    'fac9139c-90b3-5327-98c9-5293f0a838e1' => [
+        'Today we are searching for things in nature that are hidden behind the veil of appearance... We look for and paint this inner, spiritual side of nature.',
+        'Franz Marc',
+    ],
+    'e338afec-c93f-5b05-9e61-d4e8b38b7587' => [
+        'The least of things with a meaning is worth more in life than the greatest of things without it.',
+        'Carl Jung',
+    ],
+    'b317a108-8128-546d-9a87-7d4eb089d043' => [
+        'Who seeks shall find.',
+        'Sophocles',
+    ],
+    'fbc256e0-8431-5ccd-8b1d-908a736c3dcc' => [
+        'Nothing good comes in life or athletics unless a lot of hard work has preceded the effort. Only temporary success is achieved by taking short cuts.',
+        'Roger Staubach',
+    ],
+    '11ac6114-8089-53d5-97e4-26cd68cb1077' => [
+        'One of my producers said this business is like a hamster on that little wheel thing that goes around and around. You may have a great day and get great ratings, but then you\'ve got another show to do - whatever moment of success or happiness you have you\'ve got to keep grinding it out for the next day.',
+        'Sean Hannity',
+    ],
+    '16e4747a-4cbe-518f-bba9-a7faa9baed75' => [
+        'Success is a lousy teacher. It seduces smart people into thinking they can\'t lose.',
+        'Bill Gates',
+    ],
+    '97f8e657-25f6-576d-87c6-9d61dc0fec18' => [
+        'Error is discipline through which we advance.',
+        'Channing',
+    ],
+    '837da621-14e2-580c-8c7b-d9e5d3f9c32f' => [
+        'Quite honestly, if we do manage to destroy the planet with our devil-may-care attitude to natural resources, I\'d suggest we leave, as a dossier in our defence, the collected letters to agony aunts and uncles down the generations. It would certainly prove that we weren\'t all bad!',
+        'Mariella Frostrup',
+    ],
+    '5f03aa3a-ddd9-522a-9164-77cd85409217' => [
+        'Happiness depends upon ourselves.',
+        'Aristotle',
+    ],
+    'ed139677-a593-5dd3-8367-790a340a9d82' => [
+        'In most things success depends on knowing how long it takes to succeed.',
+        'Charles de Montesquieu',
+    ],
+    '4a412651-ae02-5caa-adaa-23580007a00b' => [
+        'The internet could be a very positive step towards education, organisation and participation in a meaningful society.',
+        'Noam Chomsky',
+    ],
+    '1cf74208-2286-5643-90b7-afd0cc8745b4' => [
+        'My view of life is colored by humor and looking at the best in any situation.',
+        'Michael J. Fox',
+    ],
+    'c33fbaee-ff4f-52da-90e4-4f038f24ae1d' => [
+        'When I grew up here, there was no T-Hub. Probably, the closest to T was the Tank bund.',
+        'Satya Nadella',
+    ],
+    '23806c33-b7a4-548d-9744-6c8377a10242' => [
+        'A good laugh is sunshine in the house.',
+        'William Makepeace Thackeray',
+    ],
+    '4167c58e-7382-5599-8af3-d8d4642a8f4e' => [
+        'More often than not, anger is actually an indication of weakness rather than of strength.',
+        'Dalai Lama',
+    ],
+    'e554d6b7-87a2-53f0-a053-46ce91b1eaf0' => [
+        'If we can produce more ethanol and bio-diesel to help fuel our vehicles, we will create jobs, boost local economies and produce cleaner burning fuels. This will keep dollars here at home where they can have a positive impact on our economy.',
+        'Rick Renzi',
+    ],
+    'd6f3d42d-8cc9-5d98-b5ab-ea33e5ec200d' => [
+        'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
+        'Vincent Van Gogh',
+    ],
+    'efd8e5c6-694e-598e-9c83-8638473b4dc8' => [
+        'Success is when you see something, and you say, \'I want to do that,\' and then you do it. It\'s being happy with what you do and doing what you love every day.',
+        'Alessia Cara',
+    ],
+    '6eec114a-cf53-5b13-8218-f92374630464' => [
+        'No one wants to read a story where I saw a cute puppy on the street and I petted it. I mean, that\'s not funny. I only write about the funny stuff.',
+        'Tucker Max',
+    ],
+    '45605269-e473-5975-9237-7e442bfdcf75' => [
+        'I wear a necklace, cause I wanna know when I\'m upside down.',
+        'Mitch Hedberg',
+    ],
+    '6d6e9989-b0ba-53c8-bb36-11e768c8125d' => [
+        'Before everything else, getting ready is the secret of success.',
+        'Henry Ford',
+    ],
+    '8de7fcc6-ad9a-55b2-9824-8555d717ef77' => [
+        'You start at a young age, going on auditions, and you think you did a good job and expect to get that role, and you don\'t, and it\'s a letdown, a disappointment. So you tell yourself to just do the work and disconnect, because you have no control over the outcome.',
+        'Michael B. Jordan',
+    ],
+    'a02be1cd-18f8-5dc2-8987-2c560fbd9495' => [
+        'What a stupid attitude we have in this country to personal stories.',
+        'Amanda Burton',
+    ],
+    '390f8520-29f3-5f6b-90e6-6a6364354a40' => [
+        'To cherish what remains of the Earth and to foster its renewal is our only legitimate hope of survival.',
+        'Wendell Berry',
+    ],
+    '84fc9958-09b2-5188-88ff-9af0c69bda1d' => [
+        'If you have an ongoing relationship with a person, think of everything positive about that person that you possibly can and enter your interaction from that space. Ignore all the crap that used to drive you up the wall before. You will be amazed at what a change this attitude shift brings about.',
+        'Srikumar Rao',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'a54b540c-80de-5525-8e65-9da67aa80f41' => [
-        'To follow, without halt, one aim: There is the secret of success.',
-        'Anna Pavlova',
+    'cd6cd204-0fd8-559a-90ef-0f20a9a8775a' => [
+        'Life goes by really fast, and it seems that there are times when you\'re burying a lot of friends and family. And then there are times that feel really precious and everybody is doing okay. This is one of those times.',
+        'Amy Grant',
     ],
-    'f68fb9ff-ef62-5030-ac71-89e43c0c1f2b' => [
-        'If life had a second edition, how I would correct the proofs.',
-        'Hugh Hefner',
+    'e1d8ef41-fed2-571f-b217-a8ecaf59028f' => [
+        'The only time some people work like a horse is when the boss rides them.',
+        'Gabriel Heatter',
     ],
-    '483fff61-3c0d-509e-819e-7819224b56b8' => [
-        'And now, this is the sweetest and most glorious day that ever my eyes did see.',
-        'Donald Cargill',
+    '608557ee-8e98-592a-9b7e-ee4f89e8c096' => [
+        'Nurture your minds with great thoughts. To believe in the heroic makes heroes.',
+        'Benjamin Disraeli',
     ],
-    'e21739c6-5761-5646-8352-627f5b334a5e' => [
-        'Publicity is justly commended as a remedy for social and industrial diseases. Sunlight is said to be the best of disinfectants; electric light the most efficient policeman.',
-        'Louis D. Brandeis',
+    '4f9ff7a8-419b-56e1-8398-83ec581d746f' => [
+        'Everything that happens happens as it should, and if you observe carefully, you will find this to be so.',
+        'Marcus Aurelius',
     ],
-    '1464944a-1d06-5cc9-88dc-a08ad1f6f00c' => [
-        'Without health life is not life; it is only a state of langour and suffering - an image of death.',
-        'Kenneth Branagh',
+    '2392d599-481f-5b8a-9894-4d9220668773' => [
+        'I don\'t do it often, but I do cry. I also laugh a lot; people tell me I\'m funny and I do like to laugh.',
+        'Michael Caine',
     ],
-    '462c156c-467b-504b-832b-f31ba5cc862f' => [
-        'She felt like a chess player who, by the clever handling of his pieces, sees the game taking the course intended. Her eyes were bright and tender with a smile as they glanced up into his; and her lips looked hungry for the kiss which they invited.',
-        'Kate Chopin',
+    'acdb99be-3765-57b7-b24a-24cf85768f98' => [
+        'In all things of nature there is something of the marvelous.',
+        'Aristotle',
     ],
-    '5ef51ef7-0253-5fbd-bc7c-880898c208f5' => [
-        'So long as you have food in your mouth, you have solved all questions for the time being.',
-        'Franz Kafka',
+    'd40a9713-52a7-5989-ba4e-66447413c4f8' => [
+        'I would love to go back to any time in European history, especially in Irish history, to the second or third century, prior to the arrival of Christianity when Paganism flourished. I can always go back there in my imagination, of course. It doesn\'t cost anything, and it\'s a form of time travel, I suppose.',
+        'Gabriel Byrne',
     ],
-    '2f165594-b14b-5e0e-b106-67615c0ff75d' => [
-        'I usually don\'t like to \'spoon feed\' my audience, because I grew up idolizing story tellers who tell stories using symbolism, so it was in my nature to do the same.',
-        'The Weeknd',
+    '6ef46138-5d70-50fd-842c-9ec25ad4af36' => [
+        'Not life, but good life, is to be chiefly valued.',
+        'Benjamin Franklin',
     ],
-    'f1f16bd3-cb9b-5239-a2d6-fe6b84dc0928' => [
-        'When I was growing up, my family was so poor we couldn\'t afford to pay attention.',
-        'Mr. T',
+    'e9192441-4c31-589f-a364-708c05038680' => [
+        'The men I idolized built their bodies and became somebody - like Sylvester Stallone and Arnold Schwarzenegger - and I thought, \'That can be me.\' So I started working out. The funny thing is I didn\'t realize back then that I was having a defining moment.',
+        'Dwayne Johnson',
     ],
-    '0bb96677-4de8-5196-8a70-bdb325bc02df' => [
-        'I think we all suffer from guilt at some point in our lives, but for the most part I never really regret, and I try to always remain positive. Yes, I think that those issues are very interesting to play in a character, and they\'re prominent issues in life, and I think people can relate to them.',
-        'Channing Tatum',
+    '82dde58f-3025-5dbf-b7d5-06bf2273cda6' => [
+        'Regardless of who wins, an election should be a time for optimism and fresh approaches.',
+        'Gary Johnson',
     ],
-    '6b929680-8a78-5895-9e03-82d8cbdd1f29' => [
-        'After six years without seeing one, I love just seeing a smile - every smile I see gives me hope.',
-        'Ingrid Betancourt',
+    '1d40a1c0-a9b2-5c3a-8257-885b7fee7eac' => [
+        'I love being funny! I started in the theater when I was 9 and, believe it or not, always played the funny part!',
+        'Robert Knepper',
     ],
-    '804d5793-00b4-55fc-98c8-82103bd05e46' => [
-        'The things that make me angry still make me angry. George Carlin is 67, and he\'s still as funny as he\'s ever been, and he\'s still angry. And that makes me feel good, because I feel like if I stick around long enough, I\'ll still be able to work.',
-        'Denis Leary',
+    '51f6fe6e-2c66-52da-aee0-5e3d8d91354b' => [
+        'You create your opportunities by asking for them.',
+        'Shakti Gawain',
     ],
-    '4a1442af-aed2-5988-ad06-2f62e7b199f3' => [
-        'Haiti is always talking about decentralization and nothing has been so obvious, perhaps a weakness, as the centralized nature of Haitian society as being revealed by the earthquake. I mean, they lost all these medical training programs because they didn\'t have them anywhere else.',
-        'Paul Farmer',
+    '79151b9f-a336-5d7d-98b9-8a4a90bcbbd9' => [
+        'I am confident that nobody... will accuse me of selfishness if I ask to spend time, while I am still in good health, with my family, my friends and also with myself.',
+        'Nelson Mandela',
     ],
-    '313e2674-fbc9-5771-83eb-1f307af995a5' => [
-        'It\'s very important to take risks. I think that research is very important, but in the end you have to work from your instinct and feeling and take those risks and be fearless. When I hear a company is being run by a team, my heart sinks, because you need to have that leader with a vision and heart that can move things forward.',
-        'Anna Wintour',
+    '9414d00e-d6ac-51a5-9fb3-bb32dbc5ee52' => [
+        'If you are patient in one moment of anger, you will escape one hundred days of sorrow.',
+        'Chinese proverb',
     ],
-    'f4882075-6ba2-5917-b91f-dcc8cf5da5bf' => [
-        'When you die, others who think they know you, will concoct things about you... Better pick up a pen and write it yourself, for you know yourself best.',
-        'Sholom Aleichem',
+    '8b79736d-4816-5a5c-be59-8dafe2eb2c65' => [
+        'The greatest thing about where my life is right now is it\'s very relaxed and chill. I\'m just hanging out, being myself and doing my work.',
+        'Lucas Grabeel',
     ],
-    '01dc9325-bcc8-5c03-88c8-98d97420de85' => [
-        'Time travel was once considered scientific heresy, and I used to avoid talking about it for fear of being labelled a \'crank.\'',
-        'Stephen Hawking',
+    'c8204c60-5bcd-567c-a3f6-f2fb48623905' => [
+        'Remember that sometimes not getting what you want is a wonderful stroke of luck.',
+        'Dalai Lama',
     ],
-    'f69d1d08-b492-54c7-85dc-3df8c037f396' => [
-        'I never did anything by accident, nor did any of my inventions come by accident; they came by work.',
-        'Thomas A. Edison',
+    '971e8da6-f457-541e-8cad-54b0dbdc425d' => [
+        'I realized my family was funny, because nobody ever wanted to leave our house.',
+        'Anthony Anderson',
     ],
-    '32895fb0-06df-5540-a31f-c1e709283950' => [
-        'I believe that the open exchange of information can have a positive global impact.',
-        'Biz Stone',
+    'fe814ad8-6957-56e4-87da-23bd2b29f427' => [
+        'The beauty of a woman is not in the clothes she wears, the figure that she carries or the way she combs her hair.',
+        'Audrey Hepburn',
     ],
-    '851d63cf-9962-5eeb-815e-204d5d1d9ec8' => [
-        'My goal in my career is to inspire people, is to get my music out there and have people enjoy it, and have people think of me as an inspirational artist.',
-        'Christina Grimmie',
-    ],
-    '39e65280-c10e-573f-becb-47c822560046' => [
-        'Marriage is an act of will that signifies and involves a mutual gift, which unites the spouses and binds them to their eventual souls, with whom they make up a sole family - a domestic church.',
+    '7cade03e-59a6-5894-8336-76ca5d87c496' => [
+        'The great danger for family life, in the midst of any society whose idols are pleasure, comfort and independence, lies in the fact that people close their hearts and become selfish.',
         'Pope John Paul II',
     ],
-    'd567c8bd-fa7b-550e-8f6e-26453ef96ef6' => [
-        'Three things cannot be long hidden: the sun, the moon, and the truth.',
-        'Buddha',
+    'b8bd2ffc-43a0-575c-9f5b-1273537067ee' => [
+        'So long as you\'ve got your friends about you, and a good positive attitude, you don\'t really have to care what everyone else thinks.',
+        'Gail Porter',
     ],
-    '56752239-3b64-58fa-b9e5-c620fcb7e141' => [
-        'Well, I took a sabbatical. I walked away from shooting movies because I couldn\'t handle the travel. I\'m a single parent. I had young kids, and I found that keeping in touch with them from hotel rooms and airports wasn\'t working for me. So I stopped.',
-        'Rick Moranis',
+    '7d9bc345-5d11-53f8-8036-181469f2be93' => [
+        'Well, there\'s nothing more touching than putting a smile on a kid\'s face when you can.',
+        'Emma Roberts',
     ],
-    '8884c59d-4810-58cb-a9b7-be2b6b0c5475' => [
-        'Well I think any author or musician is anxious to have legitimate sales of their products, partly so they\'re rewarded for their success, partly so they can go on and do new things.',
-        'Bill Gates',
+    'd44381c1-f4bc-5eaa-b35e-0e57acc2d737' => [
+        'The glamour of air travel - its aspirational meaning in the public imagination - disappeared before its luxury did, dissipating as flying gradually became commonplace.',
+        'Virginia Postrel',
     ],
-    '8a9a801c-14e1-581f-9e1a-fd4293df47e2' => [
-        'On \'Van Halen,\' I was a young punk, and everything revolved around the fastest kid in town, gunslinger attitude. But I\'d say that at the time of \'Fair Warning,\' I started concentrating more on songwriting. But I guess in most people\'s minds I\'m just a gunslinger.',
-        'Eddie Van Halen',
+    'e4cc0b6d-ac09-5637-bb1a-7ebef29afd4a' => [
+        'I don\'t take success and failure seriously. The only thing I do seriously is march forward. If I fall, I get up and march again.',
+        'Kareena Kapoor Khan',
     ],
-    'c4dc23e2-4aca-55ea-b1d4-b31062d82499' => [
-        'It\'s true, Christmas can feel like a lot of work, particularly for mothers. But when you look back on all the Christmases in your life, you\'ll find you\'ve created family traditions and lasting memories. Those memories, good and bad, are really what help to keep a family together over the long haul.',
-        'Caroline Kennedy',
+    '3adad943-e04c-51d9-b088-14e236c66dd9' => [
+        'Maybe the Burberry woman is undefinable! I think it\'s less about what she looks like and more about an attitude.',
+        'Edie Campbell',
+    ],
+    'b433fdb1-17cb-5d22-aa63-d8d5bc8b5b59' => [
+        'A bad system will beat a good person every time.',
+        'W. Edwards Deming',
+    ],
+    'efcaad9d-69b7-5ffd-b0b3-4d58f74aa98a' => [
+        'Human life is as evanescent as the morning dew or a flash of lightning.',
+        'Samuel Butler',
+    ],
+    'daa2d907-6996-5b50-b996-4dbc50b3af08' => [
+        'An attitude to life which seeks fulfillment in the single-minded pursuit of wealth - in short, materialism - does not fit into this world, because it contains within itself no limiting principle, while the environment in which it is placed is strictly limited.',
+        'E. F. Schumacher',
+    ],
+    '53961fc1-8073-5a55-ab28-aa7e9b2a3009' => [
+        'When you look at the calculation, it\'s amazing that every time you try to prove or disprove time travel, you\'ve pushed Einstein\'s theory to the very limits where quantum effects must dominate. That\'s telling us that you really need a theory of everything to resolve this question. And the only candidate is string theory.',
+        'Michio Kaku',
+    ],
+    'da5101ef-2ab3-5e29-b9e4-47bf92e8bded' => [
+        'A person who won\'t read has no advantage over one who can\'t read',
+        'Mark Twain',
+    ],
+    '4d544ff0-b233-56f4-8c06-12818fb44b1b' => [
+        'The portrait I do best is of the person I know best.',
+        'Nadar',
+    ],
+    '5fbc07d6-7e1c-5ea1-a99b-7231c022831f' => [
+        'There\'s nothing wrong with being shallow as long as you\'re insightful about it.',
+        'Dennis Miller',
+    ],
+    '3ba10182-03aa-50f5-b702-5a29e396ae7b' => [
+        'Every soldier must know, before he goes into battle, how the little battle he is to fight fits into the larger picture, and how the success of his fighting will influence the battle as a whole.',
+        'Bernard Law Montgomery',
+    ],
+    '6f551d20-cbcf-5a3a-9f12-744e7d27be99' => [
+        'The person interested in success has to learn to view failure as a healthy, inevitable part of the process of getting to the top.',
+        'Joyce Brothers',
+    ],
+    '345eb947-e593-5dd7-8598-5fb2bd8003ff' => [
+        'If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.',
+        'Henry David Thoreau',
+    ],
+    'a85d9f9a-a869-5f67-9952-a69d4805186b' => [
+        'A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.',
+        'Jawaharlal Nehru',
+    ],
+    'f41d503d-f561-5207-9594-82acfc88adae' => [
+        'When humor can be made to alternate with melancholy, one has a success, but when the same things are funny and melancholic at the same time, it\'s just wonderful.',
+        'Francois Truffaut',
+    ],
+    '4a5f5e7f-8f64-52be-a4ba-96b86d54b560' => [
+        'Nature was here a series of wonders, and a fund of delight.',
+        'Daniel Boone',
+    ],
+    '93e3959c-b1a8-5e77-ada2-72db4cbf9764' => [
+        'Grow old with me! The best is yet to be.',
+        'Robert Browning',
+    ],
+    '3a4dd44c-250b-5c06-8df8-62a143b6b670' => [
+        'There surely is in human nature an inherent propensity to extract all the good out of all the evil.',
+        'Benjamin Haydon',
+    ],
+    '079d0fc9-ec69-57fb-b0d8-bf6ab04ce7b5' => [
+        'When I had money in the past, I would always travel rather than spend it on big apartments or cars. And I still feel exactly the same way.',
+        'Robin Wright',
+    ],
+    'e532bd18-d2fd-592d-8687-8c69bbc4243b' => [
+        'I allow a lot of room for improvisation and funny stuff. I always feel planned.',
+        'Michael Bay',
+    ],
+    '8c383b26-5781-55b1-9a19-b4a19559e687' => [
+        'I grew up in a working class family. People thought I might go work at a mill. My mom wanted me to learn how to lay carpet because she was concerned about my future. Nobody had high hopes for me. But I was a hustler.',
+        'Mark Cuban',
+    ],
+    '2e816d05-8f01-5d71-bbb1-b09b2807e99a' => [
+        'I have frequently been questioned, especially by women, of how I could reconcile family life with a scientific career. Well, it has not been easy.',
+        'Marie Curie',
+    ],
+    'a49209cf-39c9-5d2d-b572-941a19fba39e' => [
+        'The attitude of physiological psychology to sensations and feelings, considered as psychical elements, is, naturally, the attitude of psychology at large.',
+        'Wilhelm Wundt',
+    ],
+    'd0a7fb18-3208-5149-9723-735b6bde53b1' => [
+        'Punishment may make us obey the orders we are given, but at best it will only teach an obedience to authority, not a self-control which enhances our self-respect.',
+        'Bruno Bettelheim',
+    ],
+    '73c96928-7a28-5046-bd34-d8da08e4ac37' => [
+        'Every decade of my life I attempted to write a novel. But I had nothing to say. I was far too self-absorbed, and now I realize I was writing for others, so that they\'d applaud me, see my genius, tell me how wonderful I am, or be jealous of my success.',
+        'Louise Penny',
+    ],
+    '8e64cba0-7564-560d-8345-24b642b5df1f' => [
+        'We feel very honored to have been offered the responsibility to host this great event, Berlin is a wonderful city that is developing at a tremendous rate, and this decision means that we can now prepare to welcome the world\'s best athletes to a fascinating place.',
+        'Otto Schily',
+    ],
+    '56e11f70-393b-5834-8ae5-e075efb368d5' => [
+        'Push yourself because no one else is going to do it for you.',
+        'Unknown',
+    ],
+    'd4ae3bf9-5aa5-580a-a948-2a3452b95e5b' => [
+        'I was always the guy getting kicked out of my classes at school for having an attitude problem.',
+        'Chevy Chase',
+    ],
+    'b966e60d-9bd2-58fd-b758-f9791fa7232a' => [
+        'During the time men live without a common power to keep them all in awe, they are in that conditions called war; and such a war, as if of every man, against every man.',
+        'Thomas Hobbes',
     ],
 ];

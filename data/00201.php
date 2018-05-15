@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '30115c32-9605-52c0-aa5b-31ee0e1ecfd2' => [
-        'Since day one, since the first time I touched the pen, I wanted to be the best at what I do.',
-        'Kendrick Lamar',
+    '04bf72bf-50c1-51f8-b96c-2a73c8e7b7a4' => [
+        'I love a good laugh as well, I think that\'s so important in life, which is probably why I\'ve dabbled in comedy writing as well as horror. I think if you can make someone laugh or smile it\'s the most special thing in the world.',
+        'Paul Kane',
     ],
-    '57b62948-c40e-5213-b296-3d5d1ae5063d' => [
-        'Here is the test to find whether your mission on Earth is finished: if you\'re alive, it isn\'t.',
-        'Hugh Mackay',
+    '23190c74-a3fe-5d65-81c2-62ff1d867577' => [
+        'It can literally change someone\'s life; it\'s very positive for young teenagers to get into cosplay if they do it with their friends or with supervision from their parents - it can really foster their social skills.',
+        'Yaya Han',
     ],
-    'fb3b83c8-accb-55f8-a620-1bd0c2481c1a' => [
-        'My parents were kind of over protective people. Me and my sister had to play in the backyard all the time. They bought us bikes for Christmas but wouldn\'t let us ride in the street, we had to ride in the backyard. Another Christmas, my dad got me a basketball hoop and put it in the middle of the lawn! You can\'t dribble on grass.',
-        'Jimmy Fallon',
+    '31d504bc-3b84-58d7-b2a9-3f836b5a75af' => [
+        'Why be a man when you can be a success?',
+        'Bertolt Brecht',
     ],
-    '49a5885f-c900-5378-b2e9-1d04b4ba5ea2' => [
-        'Country music in the mid-\'90s was a big influence on my career, and I played all the songs that are referenced in \'94\' back in my club days. Joe Diffie was rocking a sick mullet, and he was hotter than ever... just putting out monster hit after monster hit. It totally takes me back to those days, and it makes me smile every time I hear it.',
-        'Jason Aldean',
+    '3885b990-e493-5b94-b255-a064a1730413' => [
+        'Leap, and the net will appear.',
+        'John Burroughs',
     ],
-    '9dec732f-640f-502c-b72e-813a0faa660d' => [
-        'Life consists not in holding good cards but in playing those you hold well.',
-        'Cesare Pavese',
+    '1d5da555-316f-57fa-be50-82613effcc41' => [
+        'I\'ve lived in many things - boats, caravans, and buses. I\'ve been homeless, I\'ve had no money: everything. But I believe in magic, and having a vision. The tough times made me a warrior. I work hard.',
+        'Neon Hitch',
     ],
-    '62a99fca-6d0f-5cf2-bc63-75c114408046' => [
-        'What does it mean to pre-board? Do you get on before you get on?',
-        'George Carlin',
+    'ded0b940-4620-5200-b344-0d01412f7a13' => [
+        'Whatever success I\'ve had, I always like to top it.',
+        'Bernie Mac',
     ],
-    'f0374396-593e-59f0-a51a-60fc0bfeed27' => [
-        'The most complicated achievements of thought are possible without the assistance of consciousness.',
-        'Sigmund Freud',
+    '3db56c01-f070-517d-84d6-f1a43fa972d9' => [
+        'Genius always gives its best at first; prudence, at last.',
+        'Lucius Annaeus Seneca',
     ],
-    '814f38b9-022b-5afe-b0f5-021cd62c1e6d' => [
-        'It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent.',
-        'Madeleine Albright',
+    '424228f1-316e-5fb2-8ac2-c6d255a5cee0' => [
+        'Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.',
+        'Colin Powell',
     ],
-    '148a3591-7923-578e-81b7-78a95748e3a4' => [
-        'You can\'t jump from little things to big things. It just takes time and patience.',
-        'Nadia Comaneci',
+    'e1ef1196-ec26-5208-a1a3-bac57867fdb1' => [
+        'Every traveler knows too well the endless quest for the perfect travel bag: the one that\'s stylish enough to carry through Paris, sturdy enough to tote around Peru, and - most important - doesn\'t make your shoulder sag even before you\'ve loaded it up with everything you need for a day of sightseeing.',
+        'Hanya Yanagihara',
     ],
-    '72ae35c7-1a00-510c-b105-17beb2202847' => [
-        'Gentleness doesn\'t get work done unless you happen to be a hen laying eggs.',
-        'Coco Chanel',
-    ],
-    '97279504-04aa-57c2-b226-a689775d68d2' => [
-        'This is the paradox for me: in failure alone is there any possibility of success. I don\'t think I\'m alone in this - nor do I think it\'s an attitude that only prevails among people whose work is obviously \'creative\'.',
-        'Will Self',
-    ],
-    'eede5817-e6f5-515e-8248-993eb9e25414' => [
-        'Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.',
-        'Jules Renard',
-    ],
-    'b9b02c5b-95b4-5b17-8857-57b96c15bd53' => [
-        'I tend to play characters that I can infuse with certain kinds of humour. Even the baddest guy can be funny in his own particular way. I want the audience to engage with the character on some deeper level so that they leave the cinema still thinking about him.',
-        'Samuel L. Jackson',
-    ],
-    '0626b030-93af-5f00-809e-b24e2c2245cb' => [
-        'Travel, for me, is a little bit like being in love because suddenly, all your senses are at the setting marked \'on.\' Suddenly, you\'re alert to the secret patterns of the world.',
-        'Pico Iyer',
-    ],
-    'b72a7c78-3eb6-5c15-9fae-d31a1d7e418e' => [
-        'Overcome your barriers, intend the best, and be patient. You will enjoy more balance, more growth, more income, and more fun!',
-        'Jack Canfield',
-    ],
-    'cf1b5413-51d9-5e8c-88d4-8607ed3bf870' => [
-        'Currently, only 70 percent of our high school students earn diplomas with their peers, and less than one-third of our high school students graduate prepared for success in a four-year college.',
-        'Ruben Hinojosa',
-    ],
-    '695d99cc-b4cb-5720-8f56-ecf4a9aff5d5' => [
-        'Don\'t look back. Something might be gaining on you.',
-        'Satchel Paige',
-    ],
-    '672a2338-b6d3-52a0-9f9a-3a023438aab7' => [
-        'The people you choose to have around you make all the difference. My family and close friends keep me grounded. You have to have a mind of your own and a strong head on your shoulders. Cricket is the most important thing to me, so the rest of it pales in comparison.',
+    'fd709b91-451f-5245-ac7d-60398015b472' => [
+        'In cricket, my superhero is Sachin Tendulkar. He has always been my hero and will continue to remain so. Apart from him and outside cricket, my mother has remained my inspiration. Whatever difficult time I had faced, she was always there for me. She has given me all the strength. She maintained her composure and supported me in tough times.',
         'Virat Kohli',
     ],
-    '17767a04-0e8d-579f-bb34-7675a0fce137' => [
-        'I\'m a very competitive person, but competitive with myself. I want to be the best that I can be, and if that means that I\'m eventually better than everyone else, then so be it. But I don\'t go around comparing and contrasting myself with other actors if I can help it. It\'s also, I think, the key to my success.',
-        'Wentworth Miller',
+    '35e717e4-40a5-56b2-b42b-e2ab748f3cd7' => [
+        'Nature is infinitely creative. It is always producing the possibility of new beginnings.',
+        'Marianne Williamson',
     ],
-    'c947a0f5-a331-53d0-b6be-6bf1875134a7' => [
-        'I always loved designing, but the context needs to be right, and have a positive perspective.',
-        'Hedi Slimane',
+    'cdd3587d-2df0-53cf-a75a-4b300896ac64' => [
+        'Beauty when unadorned is adorned the most.',
+        'St. Jerome',
     ],
-    '1da525b2-155c-59f2-9e1f-8f9457aac905' => [
-        'I came back to performing with a different attitude about performing and myself. I wasn\'t expecting perfection any more, just hoping for an occasional inspiration.',
-        'Neil Diamond',
+    'f7c50b29-a19c-59b2-9a56-2c21bca9cebe' => [
+        'Vanity, showing off, is an attitude that reduces spirituality to a worldly thing, which is the worst sin that could be committed in the church.',
+        'Pope Francis',
     ],
-    '05c46113-23f2-5d81-98d4-d6eb32de39f9' => [
-        'I might have been born in a hovel but I am determined to travel with the wind and the stars.',
-        'Jacqueline Cochran',
+    '09cec5fd-7ade-58be-b01a-f105c34afacf' => [
+        'It is the nature of babies to be in bliss.',
+        'Deepak Chopra',
     ],
-    'df9227d2-01ad-580d-bec7-8a1a04d24d2c' => [
-        'There is hope and a kind of beauty in there somewhere, if you look for it.',
-        'H. R. Giger',
+    '78dc62da-ad0a-53b2-88fe-2dde2f0c9ffe' => [
+        'An organization, no matter how well designed, is only as good as the people who live and work in it.',
+        'Dee Hock',
     ],
-    'a1b47de5-a422-51b0-af63-92121c4e1c60' => [
-        'Economics is extremely useful as a form of employment for economists.',
-        'John Kenneth Galbraith',
+    'ba7e8325-331b-564d-aca4-91214e4d186c' => [
+        '\'What if?\' statements throw fuel on the fire of stress and worry. Things can go in a million different directions, and the more time you spend worrying about the possibilities, the less time you\'ll spend focusing on taking action that will calm you down and keep your stress under control.',
+        'Travis Bradberry',
     ],
-    '7a29c9cd-4644-5a1c-9fb8-ad888d5d94e0' => [
-        'If you\'re OK with being clumsy, it\'s funny. But if you are super embarrassed, people are going to laugh at you.',
-        'Leo Howard',
+    '6352c96e-04e9-5eae-934e-0f87ef84043f' => [
+        'My grandchildren are fabulous and funny.',
+        'Erica Jong',
+    ],
+    '2342d53c-ea53-52b8-8ea0-c872a96b9485' => [
+        'I often say that poverty needs no passport to travel.',
+        "\u{d3}scar Arias",
+    ],
+    '7abcc6e4-5b45-542f-8ed4-d7ae0826c0bd' => [
+        'The way taxes are, you might as well marry for love.',
+        'Joe E. Lewis',
+    ],
+    '7f8c3cad-977b-53a4-9b66-823d79243928' => [
+        'Diwali means family, so either I go down to Bangalore, or my family comes to Mumbai. I always ensure I take a few days off.',
+        'Deepika Padukone',
+    ],
+    'ebea8620-41ff-5fc1-8fc2-4e1d80a91aed' => [
+        'The heroines in \'That\'s What She Said\' are flawed, messy, damaged, hilarious and culpable and not really concerned about being acceptable to the audience in any traditional sense, which for me is what makes them all the more gorgeous. And the fearless truth of that is what makes it funny.',
+        'Carrie Preston',
+    ],
+    'ebd031a0-af31-5684-b61f-76fadf56aeaa' => [
+        'I think I will be able to, in the end, rise above the clouds and climb the stairs to Heaven, and I will look down on my beautiful life.',
+        'Paul Pierce',
+    ],
+    '96a06214-f215-533a-8922-8481adb5f707' => [
+        'America, you\'re sending girls a mixed message. On one hand, you\'re saying to have positive body image and love who we are; on the other, we\'re being marketed makeup and clothing that obviously turns us into someone different.',
+        'Adora Svitak',
+    ],
+    'b34577f6-e5e3-5f5a-bb4c-9be78606a013' => [
+        'There are two kinds of failures: those who thought and never did, and those who did and never thought.',
+        'Laurence J. Peter',
+    ],
+    'e2d1ad1d-a8c9-595a-9b38-d2aee479c064' => [
+        'The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.',
+        'Sylvia Earle',
+    ],
+    '4064be29-14e0-5aca-9515-115a58feb89d' => [
+        'There is a role and function for beauty in our time.',
+        'Tadao Ando',
+    ],
+    '76e90750-2c32-5b36-9006-0534c6279c6f' => [
+        'All the world\'s a stage, and all the men and women merely players: they have their exits and their entrances; and one man in his time plays many parts, his acts being seven ages.',
+        'William Shakespeare',
+    ],
+    '681a6dd0-ff48-5357-a70a-8fe09bd444b4' => [
+        'The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.',
+        'Cecil B. DeMille',
+    ],
+    'dfa03d20-990f-55c6-beca-e9426a218e43' => [
+        'Between two evils, I always pick the one I never tried before.',
+        'Mae West',
+    ],
+    '4f6b3a5a-7556-5afa-a11e-f98cf95e3676' => [
+        'Sometimes I worry about being a success in a mediocre world.',
+        'Lily Tomlin',
+    ],
+    '3f37b41c-7d22-5141-8a43-d3b18c793d62' => [
+        'Sweeter than the perfume of roses is a reputation for a kind, charitable, unselfish nature; a ready disposition to do to others any good turn in your power.',
+        'Orison Swett Marden',
+    ],
+    '5458e716-6b70-5ac6-aeaf-c2380c747223' => [
+        'We May Encounter Many Defeats But We Must Not Be Defeated.',
+        'Maya Angelou',
+    ],
+    'f6304032-de16-55ed-af7b-c20ba33ee47a' => [
+        'The final proof of greatness lies in being able to endure criticism without resentment.',
+        'Elbert Hubbard',
+    ],
+    'cad8a7e8-30d7-5fbe-9852-4116f208b5ed' => [
+        'A man of ability and the desire to accomplish something can do anything.',
+        'Donald Kircher',
+    ],
+    '8eaba6c4-dc48-54ef-85ed-392c2997f6e0' => [
+        'I think there\'s a right time for everything, and I\'m a true believer that everything happens for a reason.',
+        'Bella Hadid',
+    ],
+    '0fd95e44-1fb0-5f97-8d12-50fe0c399b7a' => [
+        'Don\'t worry about being a star, worry about doing good work, and all that will come to you.',
+        'Ice Cube',
+    ],
+    '4cf6865f-3f1c-5666-b01d-f7ce1a68537d' => [
+        'When I was two and a half or three, my mom got a call from someone asking if wanted to go on an audition. I ended up getting the job; it was a commercial for Hasbro. It was my first audition and first commercial. I just had to smile and laugh and dance around.',
+        'Megan Charpentier',
+    ],
+    'bf19ef4e-9606-50f0-9151-6da377c912b0' => [
+        'I like to say it\'s an attitude of not just thinking outside the box, but not even seeing the box.',
+        'Safra A. Catz',
+    ],
+    'bef7b6d4-dfc8-5fab-a51f-2ad99bdeb6ac' => [
+        'Unfortunately, I\'m more experienced than I care to admit on long-distance relationships. Just because that is my life. I travel because I love to. As a result, I have to sort of make it work when a relationship kind of comes into view.',
+        'Hunter Hayes',
+    ],
+    'ba285009-824d-5a7d-be63-36d600635ba1' => [
+        'Other people\'s success spurs me on to do well and gives me motivation.',
+        'Nicholas Hoult',
+    ],
+    '5283671a-560a-5217-b240-0a5c32495aba' => [
+        'Expert: a man who makes three correct guesses consecutively.',
+        'Laurence J. Peter',
+    ],
+    '43526f36-4c12-5531-951e-cccf1fca5985' => [
+        'I don\'t have to jump up and smile just because TV wants me to.',
+        'Walter Payton',
+    ],
+    '5d780233-305c-590a-a2cb-376163449c9c' => [
+        'If you can dream it, you can do it.',
+        'Walt Disney',
+    ],
+    '624b7ce7-c5f1-5518-aa85-c76c38874e8e' => [
+        'It is not enough to do your best; you must know what to do, and then do your best.',
+        'W. Edwards Deming',
+    ],
+    '640ffb5c-cb57-5de0-884c-3dfaaf67c722' => [
+        'Life is never easy for those who dream.',
+        'Chuck Norris',
+    ],
+    '2f16e31c-7b80-532d-bb97-a68f77d78242' => [
+        'A theatre, a literature, an artistic expression that does not speak for its own time has no relevance.',
+        'Dario Fo',
+    ],
+    'b59392d3-d5c4-543d-ab18-b17e845ac844' => [
+        'I don\'t mind where I work, it\'s really nice to be able to travel around and taste the flavours of different countries.',
+        'Toni Collette',
+    ],
+    '05bb0b6f-e254-5226-b0b4-162053fcbc4f' => [
+        'A guilty conscience needs to confess. A work of art is a confession.',
+        'Albert Camus',
+    ],
+    '01b7b22d-c551-53fe-81cd-e07975e79b53' => [
+        'Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.',
+        'Buddha',
+    ],
+    '818879f3-e976-51f5-8870-8c1aa314ae39' => [
+        'For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.',
+        'Leonardo da Vinci',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '4d7f213c-25b9-5c1b-926f-4c6f5dad7feb' => [
-        'With the dramatic increase in ease of transportation and the incredible decrease in the amount of time required to travel between far-flung areas of the United States, representatives began spending more and more time in Washington and less and less time in their home districts.',
-        'Ben Shapiro',
+    '00ddac06-fb2a-52d2-bf4d-90cb2df7de51' => [
+        'Religion can emerge in all forms of feeling: here wild anger, there the sweetest pain; here consuming hatred, there the childlike smile of serene humility.',
+        'Karl Wilhelm Friedrich Schlegel',
     ],
-    'cd6d0250-ff62-5844-b678-2981e8534223' => [
-        'Life imitates art far more than art imitates Life.',
-        'Ayn Rand',
+    'f5e2b1c7-35ce-5a11-b321-6c6f755989e1' => [
+        'When radium was discovered, no one knew that it would prove useful in hospitals. The work was one of pure science. And this is a proof that scientific work must not be considered from the point of view of the direct usefulness of it.',
+        'Marie Curie',
     ],
-    'ebb1e0a1-3b1e-565a-a817-d7a685d86410' => [
-        'Goodness is beauty in the best estate.',
-        'Christopher Marlowe',
+    '4c715af5-7063-5fe1-8f07-60001ed21e74' => [
+        'For me the best thing about winning an award is when the people cheer for your win. When you can see that the people are really happy that you are winning something, that\'s the most reward thing in the world.',
+        'Busta Rhymes',
     ],
-    '0a0e1ddd-d6be-5a12-b2b6-c5a1ae9a1a18' => [
-        'The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.',
-        'Thomas A. Edison',
+    '8634e953-399c-5eb3-89a4-60886d3d7801' => [
+        'Rise above sectional interests and private ambitions... Pass from matter to spirit. Matter is diversity; spirit is light, life and unity.',
+        'Anne Hathaway',
     ],
-    '2a358246-f0e8-51eb-bd2d-b7d83e05fe09' => [
-        'I learned a long time ago that reality was much weirder than anyone\'s imagination.',
-        'Hunter S. Thompson',
+    'd42b84c7-f942-5682-a9f5-3cd4dbe71e04' => [
+        'When a person listens to a good song, and they can look out at the world and their lives and see the dark and the light, the negative and the positive, all the different elements, all come together in one holistic poem, that is a very healing and very reductive thing, and that\'s what my music is about.',
+        'Matisyahu',
     ],
-    'c72908dd-202d-5e95-a34e-20dd08bd867d' => [
-        'One of the things I like best about \'Biggest Loser\' is being around people who are trying to make the right choices. When you feel defeated about your weight and your health, like there\'s no hope, and you still make the choice to fight for it, to make the change happen no matter what people say or think, that\'s inspiring to me.',
-        'Alison Sweeney',
+    'a948f5b2-4254-5b94-a154-0d099cb9808a' => [
+        'I write for no other purpose than to add to the beauty that now belongs to me. I write a book for no other reason than to add three or four hundred acres to my magnificent estate.',
+        'Jack London',
     ],
-    '77c0b790-c744-5b24-8307-dc47c192143e' => [
-        'I was determined to share my positive approach and not let diabetes stand in the way of enjoying my life.',
-        'Paula Deen',
+    '61ef4a5a-7fdd-5c6a-b649-7e71a41258ed' => [
+        'The last time I saw Ted Kennedy was a generation after my first meeting, at the Senate subway below the Capitol on Obama\'s Inauguration Day. He was his usual gregarious and gracious self - with beaming smile and booming voice wishing my husband and me good luck with our pregnancy and expressing his excitement about the new president.',
+        'Christine Pelosi',
     ],
-    '5951fa56-8fbc-5f6b-bf32-cb0146bc158b' => [
-        'Being a humorist is not a voluntary thing. You can tell this because in a situation where saying a funny thing will cause a lot of trouble, a humorist will still say the funny thing. No matter how inappropriate.',
-        'P. J. O\'Rourke',
+    '8fd0067a-bb4c-5f0c-8f6d-a2288974e67f' => [
+        'We live in a culture that\'s been hijacked by the management consultant ethos. We want everything boiled down to a Power Point slide. We want metrics and \'show me the numbers.\' That runs counter to the immensely complex nature of so many social, economic and political problems. You cannot devise an algorithm to fix them.',
+        'Carl Honore',
     ],
-    '317f61a1-a22d-5874-91af-2c0256a2dd3e' => [
-        'If I win and get the money, then the Oakland Police department is going to buy a boys\' home, me a house, my family a house, and a Stop Police Brutality Center.',
-        'Tupac Shakur',
+    '62082e13-8a6b-54fc-80d5-d5175bca3856' => [
+        'Little children are still the symbol of the eternal marriage between love and duty.',
+        'George Eliot',
     ],
-    'cfe731b4-5403-5b9e-a573-2f2f3bff75d0' => [
-        'Too much agreement kills a chat.',
-        'Eldridge Cleaver',
+    '413e2f70-e094-56c8-ab64-e252feb28be7' => [
+        'It was through the private world of family that the public world of politics came alive for me: living in intimate proximity with people for whom larger questions of ideology and belief, as well as issues relating to politics and governance, were vivid daily realities.',
+        'Sonia Gandhi',
     ],
-    '01b2ecc7-2aa2-5ecd-88db-c9eeab450d79' => [
-        'For every moment of triumph, for every instance of beauty, many souls must be trampled.',
-        'Hunter S. Thompson',
+    'be117eab-e73e-577c-bb02-c5e9aada067d' => [
+        'As long as the attitude is to only show the sheet metal, then automobile advertising will continue to be wretched.',
+        'Jerry Della Femina',
     ],
-    '210c6ec7-612b-5221-92f9-ffb53ed8a281' => [
-        'I don\'t regret what I\'ve been through. I\'ve had ups and downs, super highs and some really low lows. I\'ve been so blessed that I could never say, \'I wish this didn\'t happen.\' It\'s part of who I am. There\'s nothing in my life that\'s so ugh.',
-        'Lil\' Kim',
+    '40c75cdd-36fd-5427-8a89-589a6df11bfe' => [
+        'I\'m a lucky person because I\'ve been loved a lot. I have a great family.',
+        'Monica Bellucci',
     ],
-    '7ccdd8d0-b452-598e-abe4-4e4df49c88dc' => [
-        'The power of imagination makes us infinite.',
-        'John Muir',
+    'fe6e324b-d0ab-591f-b85c-0ea5bc93dbb5' => [
+        'It is the hour to be drunken! to escape being the martyred slaves of time, be ceaselessly drunk. On wine, on poetry, or on virtue, as you wish.',
+        'Charles Baudelaire',
     ],
-    '26e4682e-da8a-50c8-b005-7a3159359cae' => [
-        'I don\'t know if the term \'liberation theology,\' which can be interpreted in a very positive sense, will help us much. What\'s important is the common rationality to which the church offers a fundamental contribution, and which must always help in the education of conscience, both for public and for private life.',
-        'Pope Benedict XVI',
+    '4c3af445-51e2-5193-bbfa-3769055624eb' => [
+        'Human beings, by changing the inner attitudes of their minds, can change the outer aspects of their lives.',
+        'William James',
     ],
-    '2697899f-ff8d-5fa1-b70f-98944d1804d6' => [
-        'You know, when you really connect with the instrument and everything just comes out on an emotional level very naturally through your playing. That\'s, you know, a great night. And I think the reason I love touring so much is you\'re chasing that high around all the time, trying to have another good night.',
-        'Slash',
+    '6c90f07f-ddf6-5893-9ca1-cea87d10897a' => [
+        'Time is a dressmaker specializing in alterations.',
+        'Faith Baldwin',
     ],
-    'de234454-56c4-5de0-a9f1-8c9a4ce7db97' => [
-        'What is important is family, friends, giving back to your community and finding meaning in life.',
-        'Adrian Grenier',
+    'e5f64140-f2f0-5813-b8a5-ce46dcb090a0' => [
+        'Courage is not the absence of fear, but simply moving on with dignity despite that fear.',
+        'Pat Riley',
     ],
-    'bc85828a-6691-59e8-812f-729918950b80' => [
-        'There is something terribly morbid in the modern sympathy with pain. One should sympathise with the colour, the beauty, the joy of life. The less said about life\'s sores the better.',
-        'Oscar Wilde',
+    '91d4b74e-e370-5126-b84d-f27f61a8a23c' => [
+        'If you\'re being ignored, that\'s a good time to concentrate on finding yourself and creating your own mystery.',
+        'Lykke Li',
     ],
-    'd3adf5cb-8c32-5f59-9254-2771e094d9ce' => [
-        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
-        'Gil Scott-Heron',
+    '3186458b-deda-5f8a-895b-6eb4d65de567' => [
+        'The Book of Mormon is our handbook of instructions as we travel the pathway from bad to good to better and strive to have our hearts changed.',
+        'David A. Bednar',
     ],
-    '645fe290-2188-5a26-9b7a-40e0957d4cb1' => [
-        'Every gift from a friend is a wish for your happiness.',
-        'Richard Bach',
+    '9bc598c2-ec3b-55e3-acf2-cc1c3110bf18' => [
+        'Even successful musicians have had periods where people say they suck and no one likes them, even after they\'ve had periods of great success. So I think it\'s like you just gotta do you and try to stay motivated. Until, you know, you decide to stay home and make spaghetti all day.',
+        'K. Flay',
     ],
-    '18aa594f-5e10-51d0-a5b8-68ab66d80989' => [
-        'I\'m just an individual who doesn\'t feel that I need to have somebody qualify my work in any particular way. I\'m working for me.',
-        'David Bowie',
+    '1284cf37-a40b-50e1-a908-761f18332922' => [
+        'You don\'t have to travel, but I find extended travel to be a helpful tool for reexamining yourself and the constraints you\'ve artificially placed on your life. It\'s easy to believe everything has to be done one way if you\'re always in one place around the same people.',
+        'Timothy Ferriss',
     ],
-    '2530c7db-f0a7-56a0-a9d7-d0d57ebca266' => [
-        'Have enough sense to know, ahead of time, when your skills will not extend to wallpapering.',
-        'Marilyn vos Savant',
+    'ef31f784-70ba-556f-9769-f1df1cbd9749' => [
+        'The taxpayer - that\'s someone who works for the federal government but doesn\'t have to take the civil service examination.',
+        'Ronald Reagan',
     ],
-    '05714a97-1dc7-5407-a650-a9d498e59bb1' => [
-        'Don\'t frown because you never know who is falling in love with your smile.',
-        'Sinvyest Tan',
+    'e236dc38-2ff2-5d93-b039-1ba82b1c6051' => [
+        'I think anyone who has a passion for what they love to do, and who pursue it, is inspirational for me.',
+        'Colin Morgan',
     ],
-    'e5b0b816-e792-5cee-8131-94f467ecc59c' => [
-        'Television is a medium of entertainment which permits millions of people to listen to the same joke at the same time, and yet remain lonesome.',
-        'T. S. Eliot',
+    'cef7a939-9104-5503-b2ef-4e59cdfc0ba8' => [
+        'If you don\'t have anything nice to say, don\'t say it at all. And if you do have to say it, make it really funny so I can screenshot it and save it for later.',
+        'Sabrina Carpenter',
     ],
-    'fe83cfce-f9d8-5d3f-b664-3bb0f9fb41c3' => [
-        'Growth is the only evidence of life.',
-        'Lillian Gish',
+    '198d11b1-b211-5816-ad56-0c6b9681cb58' => [
+        'I try to explain to people that the only way to be cool is to be who you truly are, and the only way to live life is to do the things that you want to do and be the person that you want to be no matter who that is or what that is or how you have to do it. That\'s the only way you can be genuinely happy.',
+        'Scott Hamilton',
     ],
-    'df68a516-c864-5857-bd8c-86d2927333ee' => [
-        'I do think that travel can be part of a journey of inner maturation, but you\'ve got to do it right.',
-        'Alain de Botton',
+    'fed1c8ca-880c-5346-a221-a902451c8b75' => [
+        'All life demands struggle. Those who have everything given to them become lazy, selfish, and insensitive to the real values of life. The very striving and hard work that we so constantly try to avoid is the major building block in the person we are today.',
+        'Pope Paul VI',
+    ],
+    'ff956db4-7b92-53d2-a7c0-32f7ec8ea8ff' => [
+        'The very best hotel I\'ve stayed in is the Intercontinental on Park Lane. We went there for the Chelsea Flower Show a few years ago, and it was sheer luxury. Everybody had a smile on their face. I came home and changed all my pillows because the hotel ones were so beautiful.',
+        'Mary Berry',
+    ],
+    'b8ac1ecc-069f-5bfa-9727-876122ab1757' => [
+        'Today I choose life. Every morning when I wake up I can choose joy, happiness, negativity, pain... To feel the freedom that comes from being able to continue to make mistakes and choices - today I choose to feel life, not to deny my humanity but embrace it.',
+        'Kevyn Aucoin',
+    ],
+    '455b8ef0-8391-52d9-8bf0-6b3551fcd89d' => [
+        'Our greatest glory is not in never falling, but in rising every time we fall.',
+        'Confucius',
+    ],
+    '1fd9d114-379c-519d-9f6e-176ede16ed73' => [
+        'There is no cosmetic for beauty like happiness.',
+        'Maria Mitchell',
+    ],
+    '8b839358-ac89-5fb0-93c2-ef8f0a06c001' => [
+        'I\'m glad I was born when I was. My time was the golden age of variety. If I were starting out again now, maybe things would happen for me, but it certainly would not be on a variety show with 28 musicians, 12 dancers, two major guest stars, 50 costumes a week by Bob Mackie. The networks just wouldn\'t spend the money today.',
+        'Carol Burnett',
+    ],
+    'd59b5935-e8ec-59a7-9a79-40e91dba2602' => [
+        'The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.',
+        'William James',
+    ],
+    '3ab24546-56e4-52d1-b0ba-dd0832a4855c' => [
+        'I\'ve had to learn to fight all my life - got to learn to keep smiling. If you smile things will work out.',
+        'Serena Williams',
+    ],
+    'f1ea8fbd-98c8-599d-9bc4-b459fdae1a10' => [
+        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
+        'Summer Sanders',
+    ],
+    '1fcf8de4-1ce2-55d5-ac12-341fe0eab138' => [
+        'Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.',
+        'Richard Needham',
+    ],
+    '5f1a4ad0-394c-5970-bdc8-1f2e147e1bc4' => [
+        'I always see the glass half full. I see the beauty in others, and I see the hope for tomorrow. If we don\'t have hope and faith, we have nothing.',
+        'Craig Sager',
+    ],
+    '0331e5a5-ca69-5dc6-9a96-8b55faddb34c' => [
+        'A house divided against itself cannot stand.',
+        'Abraham Lincoln',
+    ],
+    '49cbd8d7-95e6-579d-b04e-ad853bc7f2a0' => [
+        'It\'s a funny show. The characters are surprisingly likable, given how ugly they are. We\'ve got this huge cast of characters that we can move around. And over the last few seasons, we\'ve explored some of the secondary characters\' personal lives a bit more.',
+        'Matt Groening',
+    ],
+    'e197ff98-0e90-5b47-812e-5f6d6b04b696' => [
+        'You can never cross the ocean until you have the courage to lose sight of the shore.',
+        'Christopher Columbus',
+    ],
+    'b0989a3a-2be1-5607-8f57-1f48fe724465' => [
+        'The sun, too, shines into cesspools and is not polluted.',
+        'Diogenes',
+    ],
+    '61093bb1-e480-545a-bfd9-7aad7a1cc5c0' => [
+        'The meaning of life is contained in every single expression of life. It is present in the infinity of forms and phenomena that exist in all of creation.',
+        'Leonardo da Vinci',
+    ],
+    'c73acf69-f99f-5bd7-9f98-74929e8be38e' => [
+        'Nature works with five polymers. Only five polymers. In the natural world, life builds from the bottom up, and it builds in resilience and multiple uses.',
+        'Janine Benyus',
+    ],
+    '4f6b9b82-1b29-50c3-a87f-0af6b903a416' => [
+        'Jesus wept; Voltaire smiled. From that divine tear and from that human smile is derived the grace of present civilization.',
+        'Victor Hugo',
+    ],
+    'a5172023-da48-56fb-9b3d-d51ec5ef0852' => [
+        'Most comedy is based on getting a laugh at somebody else\'s expense. And I find that that\'s just a form of bullying in a major way. So I want to be an example that you can be funny and be kind, and make people laugh without hurting somebody else\'s feelings.',
+        'Ellen DeGeneres',
+    ],
+    'f8ac85a8-4aa4-511f-8e4e-8d7a1a957ba8' => [
+        'We will invest in our people, quality education, job opportunity, family, neighborhood, and yes, a thing we call America.',
+        'Dan Quayle',
+    ],
+    '7baab321-14e2-5751-9707-5b9d37b5b107' => [
+        'Do your work with your whole heart, and you will succeed - there\'s so little competition.',
+        'Elbert Hubbard',
+    ],
+    'b5db5716-a329-574b-88ff-7d2ba3e2619b' => [
+        'Success is stumbling from failure to failure with no loss of enthusiasm.',
+        'Winston Churchill.',
+    ],
+    '5e79188b-22ad-5590-89b7-09a755642bab' => [
+        'I think what\'s important in a good manager and a good agent is that they know your vision and that they are passionate about you and believe in you. Because if they don\'t, then they\'re not going to work hard for you, and they\'re going to send you out on things that you don\'t want to do.',
+        'Maiara Walsh',
+    ],
+    '12751b29-6690-5c9a-9170-53d0df81fb44' => [
+        'It is often said that before you die your life passes before your eyes. It is in fact true. It\'s called living.',
+        'Henri Frederic Amiel',
+    ],
+    'c083c36c-f669-516c-ab49-aa985a1de92a' => [
+        'I coach soccer, and my wife and I are very involved in our kids\' lives. Our family is busy with doctor appointments, soccer practice, school, work, travel, vacation... life.',
+        'Patrick Lencioni',
+    ],
+    '9e62a162-5eb8-51a8-a22f-85707ebe9e44' => [
+        'To forgive is to set a prisoner free and realize that prisoner was you.',
+        'Lewis B. Smedes',
     ],
 ];

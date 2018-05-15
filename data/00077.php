@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '7aa35919-0c06-57d7-820a-93c3952401fd' => [
-        'Everyone talks about how we\'re on our phones all the time, but the fact remains that when I\'m away on a film set for two months, I can Skype my family. I remember the phone calls my parents had to make when my dad was away for a while when I was younger - that once-a-week expensive phone call! The time pressure on talking to your father!',
-        'Domhnall Gleeson',
+    '17d29c85-1bec-554f-be0b-4416487367de' => [
+        'The best luck of all is the luck you make for yourself.',
+        'Douglas MacArthur',
     ],
-    '7cccc141-8101-5c38-884b-afe7cd49f270' => [
-        'Whether a party can have much success without a woman present I must ask others to decide, but one thing is certain, no party is any fun unless seasoned with folly.',
-        'Desiderius Erasmus',
+    'b8230c35-0c1b-5715-8683-7af6357a2cce' => [
+        'Every single job is a challenge. You are walking into a new set, a new character, creating a world and trying to get comfortable to do your best work.',
+        'Felicia Day',
     ],
-    '78aa3b10-55f9-521d-9393-d23b2e9dd381' => [
-        'My father and I used to tussle about me becoming an actor. He\'s from strong, Presbyterian Scottish working-class stock, and he used to sit me down and say, \'You know, 99 percent of actors are out of work. You\'ve been educated, so why do you want to spend your life pretending to be someone else when you could be your own man?\'',
-        'Tom Hiddleston',
+    'c5ed4e19-c3bf-5a91-8c6f-6882022739bf' => [
+        'Success is all about persistence and doing the right thing for the long term.',
+        'Bruce Rauner',
     ],
-    'a329d98d-f967-5223-b342-fba582ec22f1' => [
-        'Men are like wine - some turn to vinegar, but the best improve with age.',
-        'Pope John XXIII',
+    'fd809979-605d-5353-9627-cc0be113b81b' => [
+        'I love fashion, and I love changing my style, my hair, my makeup, and everything I\'ve done in the past has made me what I am now. Not everyone is going to like what I do, but I look back at everything, and it makes me smile.',
+        'Victoria Beckham',
     ],
-    '8ad82870-cef6-501e-beda-e505deba262a' => [
-        'The American Dream is still alive out there, and hard work will get you there. You don\'t necessarily need to have an Ivy League education or to have millions of dollars startup money. It can be done with an idea, hard work and determination.',
-        'Bill Rancic',
+    '0896bcd3-da7f-50c4-a1f0-36c7e130e510' => [
+        'The \'Billionaire\' song is what my kids tease me with. They sing it to me. It\'s funny.',
+        'Bill Gates',
     ],
-    '2732de2c-da77-59c3-b12f-ab754aa4b4bf' => [
-        'In some mysterious way woods have never seemed to me to be static things. In physical terms, I move through them; yet in metaphysical ones, they seem to move through me.',
-        'John Fowles',
+    '3dfacea1-b573-561e-885e-db5c45c734fc' => [
+        'For greed all nature is too little.',
+        'Lucius Annaeus Seneca',
     ],
-    'ba6896b2-478d-54b5-84e6-a0a8661dcdcd' => [
-        'As a kid, I thought of myself as a funny person who secretly wanted to be serious, but now I think maybe I\'m a serious person who secretly wants to be funny.',
-        'Noah Baumbach',
+    'fc4f34d2-1636-5690-ba40-2289ef4bb260' => [
+        'I tell everyone in the world that I have always been the best father I could be and that I was the worst husband. Wooo!',
+        'Ric Flair',
     ],
-    '20eb486f-ee4e-5528-96b9-c3dd45b7d60b' => [
-        'The only reason we make good role models is because you guys look up to athletes and we can influence you in positive ways. But the real role models should be your parents and teachers!',
-        'Dante Hall',
+    '4fafd778-d3bf-5ba8-9b99-ad2aa6a30d52' => [
+        'Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.',
+        'Oscar Wilde',
     ],
-    'ee60dc94-be47-5495-a83b-052e37aa10ad' => [
-        'The trees that are slow to grow bear the best fruit.',
-        'Moliere',
+    '3d73d92c-90b6-5da1-a63f-ab6cb2455325' => [
+        'Weather forecast for tonight: dark.',
+        'George Carlin',
     ],
-    'ade55533-1d84-5a9f-861d-b54553984033' => [
-        'Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks.',
-        'Stephen Hawking',
+    'aac7b37f-936c-5a09-984c-11b950323219' => [
+        'I either had to concentrate on fighting, or I had to help my family. I chose my family. I love my mom; I love my family.',
+        'Gerry Cooney',
     ],
-    '2577658e-72e8-554c-bb48-efa1511212a5' => [
-        'Even though photographers are only shooting the outside, beauty is more about who you are as a person - the life you lead - not your facade.',
-        'Nigel Barker',
+    '5d2e376a-dd36-55d7-a0e0-23c4a6312db7' => [
+        'We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.',
+        'Stephen Covey',
     ],
-    '8d7e4688-b59e-59e8-971c-d92f67faeb78' => [
-        'I\'m no natural beauty. If I\'m gonna have any looks at all, I\'m gonna have to create them.',
-        'Dolly Parton',
+    '32c986bb-0cfc-5969-a780-f27fe0151417' => [
+        'Women do come up to me, and they tell me what they think! I\'ve gotten great compliments on my eyes and my smile. But I don\'t see myself as sexy.',
+        'Jesse L. Martin',
     ],
-    '6d3bdb39-d240-5dbf-94ca-2301ccedae7f' => [
-        'The present is a point just passed.',
-        'David Russell',
+    'de2c827d-1df3-55b7-b67c-6fb788fbc30d' => [
+        'I\'ve cried, and you\'d think I\'d be better for it, but the sadness just sleeps, and it stays in my spine the rest of my life.',
+        'Joel Osteen',
     ],
-    '9225212f-5d20-5026-b2fb-5f74280e395d' => [
-        'I\'m a big believer that your life is basically a sum of all the choices you make. The better your choices, the better opportunity to lead a happy life.',
-        'Swami Sivananda',
+    '69a6e7a8-b4d1-54e7-bc02-dcfaa099e0af' => [
+        'For a DJ at my level, you can really go through life and travel the world without seeing a single thing. It\'s harder to go out and see the sights than it is to play a show.',
+        'Steve Aoki',
     ],
-    '41128e83-fe05-5890-8ead-96ece7e47aaf' => [
-        'It has been said that time heals all wounds. I don\'t agree. The wounds remain. Time - the mind, protecting its sanity - covers them with some scar tissue and the pain lessens, but it is never gone.',
-        'Rose Kennedy',
+    '1cfd3677-2c9f-502e-9e71-8e5feb9c5349' => [
+        'I always wanted to be somebody, but now I realize I should have been more specific.',
+        'Lily Tomlin',
     ],
-    'd4f011c7-73b9-5f54-a29b-63bb79d2ff38' => [
-        'Family, nature and health all go together.',
-        'Olivia Newton-John',
+    'baa044dc-b683-582d-b3f1-767c582160cb' => [
+        'Salman will always be that special person in my life because he was able to change my career. I will never ever forget what he has done for me. On the personal front, too, he has advised me as a friend and family, something I couldn\'t have even asked for.',
+        'Jacqueline Fernandez',
     ],
-    '8930bd95-6f73-585f-a1ce-01cab7ccd34d' => [
-        'Opportunity often comes disguised in the form of misfortune, or temporary defeat.',
+    '6068dc78-30f5-526d-9951-f49f8fea1d7c' => [
+        'There is in true beauty, as in courage, something which narrow souls cannot dare to admire.',
+        'William Congreve',
+    ],
+    'f9c6b1f3-d0ca-5221-97d0-13c5fa8ff475' => [
+        'Nearly all the best things that came to me in life have been unexpected, unplanned by me.',
+        'Hoda Kotb',
+    ],
+    '9107c2ce-d360-5a3a-bac0-adb7d8955a9a' => [
+        'Whatever your situation might be, set your mind to whatever you want to do and put a good attitude in it, and I believe that you can succeed. You are not going to get anywhere just sitting on your butt and moping around.',
+        'Bethany Hamilton',
+    ],
+    '7f3fa856-b529-50f0-930b-d01fc7198660' => [
+        'The best intelligence test is what we do with our leisure.',
+        'Laurence J. Peter',
+    ],
+    '3e04cfa3-eb9b-54a7-9b26-a9302df8b668' => [
+        'There\'s something about the Pacific Northwest, the scale of it, and the fact that not so long ago people came here and died getting here, and then died the first winter they were here. There\'s this breathtaking beauty, just a little bit of moss on the tree, just this little thread of danger, and the sinister. And I really like that.',
+        'Chelsea Cain',
+    ],
+    'a56e81cd-b109-5faf-8b38-35f86b55f845' => [
+        'Loyal and efficient work in a great cause, even though it may not be immediately recognized, ultimately bears fruit.',
+        'Jawaharlal Nehru',
+    ],
+    '5162f356-2aa0-5384-b8b3-e04fe5d2dd7c' => [
+        'People who say it cannot be done should not interrupt those who are doing it.',
+        'Chinese proverb',
+    ],
+    '8275840c-a169-5386-9bdd-f6f3cc472e2d' => [
+        'Motivation will almost always beat mere talent.',
+        'Norman Ralph Augustine',
+    ],
+    '9737b112-f052-5419-a4de-989de1bfa1a3' => [
+        'Today\'s students can put dope in their veins or hope in their brains. If they can conceive it and believe it, they can achieve it. They must know it is not their aptitude but their attitude that will determine their altitude.',
+        'Jesse Jackson',
+    ],
+    '6b09218c-adce-5288-af96-6bc84888474d' => [
+        'Always wear a smile sometime during the day - it makes you feel happier and look younger.',
+        'Kylie Bax',
+    ],
+    'c3a0e879-30c6-5c6f-91f0-8c4e41f38962' => [
+        'Many are harmed by fear itself, and many may have come to their fate while dreading fate',
+        'Seneca',
+    ],
+    '26c8ac14-ade6-548b-a6cb-287716618ddd' => [
+        'Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.',
+        'Margaret Mead',
+    ],
+    '743087f3-2160-5756-8226-894a8a0a14b2' => [
+        'The world has the habit of making room for the man whose actions show that he knows where he is going.',
         'Napoleon Hill',
     ],
-    '5789b910-4864-5abd-b9bf-60de3a0dff9c' => [
-        'This is part of the involuntary bargain we make with the world just by being alive. We get to experiences the splendor of nature, the beauty of art, the balm of love and the sheer joy of existence, always with the knowledge that illness, injury, natural disaster, or pure evil can end it in an instant for ourselves or someone we love.',
-        'Jeff Greenfield',
+    '18879472-2ac8-55d2-b557-c9c33508b214' => [
+        'The tree that is beside the running water is fresher and gives more fruit.',
+        'Saint Teresa of Avila',
     ],
-    '5a96e1dd-bf3a-5879-8050-dd5cd89a1299' => [
-        'It goes without saying that the Jewish people can have no other goal than Palestine and that, whatever the fate of the proposition may be, our attitude toward the land of our fathers is and shall remain unchangeable.',
-        'Theodor Herzl',
+    '4af5fdb3-98c6-53d7-81a3-768b1a94df72' => [
+        'I have moments where I miss my old self. But I think anyone can get caught up in what we used to have. But at the same time, we can choose to focus on the beauty of now.',
+        'Steve Gleason',
     ],
-    '08a9e4c6-06e6-503a-b095-2c1a0c1b7396' => [
-        'All my life, I have been a positive thinker... I have always been able to survive by telling myself that no matter how bad things are, they will one day be better. And that out of every event - no matter how tragic - one can always find a way to survive and even, perhaps, to be a little bit happy.',
-        'Zsa Zsa Gabor',
+    '0f9657be-73ca-5523-9204-06c59d51f22a' => [
+        'If we look at the world with a love of life, the world will reveal its beauty to us.',
+        'Daisaku Ikeda',
     ],
-    '6c47289f-fd13-5ce2-a87f-3d223d5ccb74' => [
-        'Sports teaches you to understand the meaning of a team. You need to be able to work with everybody; you don\'t have to be their best friend. You can experience the fun of competition and driving toward a common goal without pushing to bond in some major way with each individual on a project.',
-        'Kathleen Kennedy',
+    '3b1a3e0e-05df-5862-90d5-338e29a3d52a' => [
+        'A goal is a dream with a deadline.',
+        'Napoleon Hill',
     ],
-    'c8a3c938-c383-5850-8b88-e6012738b6d5' => [
-        'I think it\'s really important to use your hands and get close to materials. To be up close to real things like rain and mud; to have contact with nature.',
-        'Robin Day',
+    '2627c210-e793-530c-8151-27f56e1bf34c' => [
+        'Knock the \'t\' off the \'can\'t\'',
+        'George Reeves',
     ],
-    '5bc2d0f5-ccd5-512e-8e3b-90c13d2a6127' => [
-        'Another thing I like to do is sit back and take in nature. To look at the birds, listen to their singing, go hiking, camping and jogging and running, walking along the beach, playing games and sometimes being alone with the great outdoors. It\'s very special to me.',
-        'Larry Wilcox',
+    '1e6e19a0-def7-5066-bce4-e293bb338ff5' => [
+        'I like stand-up. But I\'d also like a family and house and a yard. I want to work with a lot of people, have colleagues; and on good film sets, there\'s people there that work with the same people for years and years. I love that collaborative spirit in that medium. Comedy is a lot more solitary.',
+        'Demetri Martin',
     ],
-    '3d08bc9f-52f3-58c0-9981-fbc27503a46c' => [
-        'Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist.',
-        'Mary Kay Ash',
+    'a1eb6132-dd5f-5f10-9bf0-2e2275785c00' => [
+        'I became a librarian at the Sainte-Genevieve Library in Paris. I made this gesture to rid myself of a certain milieu, a certain attitude, to have a clean conscience, but also to make a living. I was twenty-five. I had been told that one must make a living, and I believed it.',
+        'Marcel Duchamp',
     ],
-    '3c389441-47ad-55c5-aa03-0187b5e508aa' => [
-        'My cell phone is my best friend. It\'s my lifeline to the outside world.',
-        'Carrie Underwood',
+    '69c743ed-8db6-527c-b44f-aeb7c47c0423' => [
+        'Donald has a deep and unbounding determination and a never-give-up attitude. I have seen him fight for years to get a project done - or even started - and he does not give up! If you want someone to fight for you and your country, I can assure you, he is the \'guy.\'',
+        'Melania Trump',
+    ],
+    '937f0727-c310-5ae4-b6c3-f0b3e0754475' => [
+        'Both within the family and without, our sisters hold up our mirrors: our images of who we are and of who we can dare to be.',
+        'Elizabeth Fishel',
+    ],
+    'b3f90f3a-2a0d-53ce-8613-5a390715cd1f' => [
+        'I grew up in a very strong, nuclear family. My father was a sportsman. He represented South Africa in a couple of sports, so he was a very positive person and someone who encouraged you to be your best and give your best with everything that you do.',
+        'Gail Kelly',
+    ],
+    '295876c7-12d9-5138-a781-50d3c753279c' => [
+        'I don\'t rely on feng shui. I believe hard work brings us good luck and success.',
+        'John Gokongwei',
+    ],
+    'e7b8cdef-0e94-5942-817a-e6d5dc69e84d' => [
+        'If you can\'t tell a spoon from a ladle, then you\'re fat!',
+        'Demetri Martin',
+    ],
+    '19a90db9-0ef5-5f4d-8d9c-c44878f00852' => [
+        'My good friends are Mormon, some of the best people I know.',
+        'Katherine Heigl',
+    ],
+    '49b76991-f3c8-5733-ad2f-25167194ed69' => [
+        'Being a funny person does an awful lot of things to you. You feel that you mustn\'t get serious with people. They don\'t expect it from you, and they don\'t want to see it. You\'re not entitled to be serious, you\'re a clown.',
+        'Fanny Brice',
+    ],
+    '0e5753ad-a447-5e91-bc8c-2bcd1e706d3b' => [
+        'I think the healthy way to live is to make friends with the beast inside oneself, and that means not the beast but the shadow. The dark side of one\'s nature. Have fun with it and you know, is to accept everything about ourselves.',
+        'Anthony Hopkins',
+    ],
+    '2379ab26-d1f1-5111-9fed-ce30a60ff19f' => [
+        'For sheer sexiness, a man must be beautiful. Funny. yes. Clever, no.',
+        'Jilly Cooper',
+    ],
+    'dfc7302a-c213-585b-bc4a-2b4dbf06e232' => [
+        'Rock n\' roll is not just a fashion statement; it is the attitude, and it has a political posturing as well.',
+        'CeeLo Green',
+    ],
+    'bc408466-83df-5ace-9102-d8ab8d2969e5' => [
+        'Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.',
+        'Charles Eastman',
+    ],
+    '5c16cc10-ad5a-5355-8773-b59c5f22475a' => [
+        'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a game or a battle; the win comes from basic blocking and tackling.',
+        'Naveen Jain',
+    ],
+    '1ee9b518-d607-5913-bf49-bddfe15ed825' => [
+        'Time goes on. So whatever you\'re going to do, do it. Do it now. Don\'t wait.',
+        'Robert De Niro',
+    ],
+    '3e7ebd6d-9765-5ebf-970d-c32634c5dfff' => [
+        'Don\'t worry if people don\'t like you. Most people are struggling to like themselves.',
+        'Unknown',
     ],
 ];

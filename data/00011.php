@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '67dfe456-3304-5272-b398-53d6fa5453bb' => [
-        'By failing to prepare, you are preparing to fail.',
-        'Benjamin Franklin',
+    '623bd056-c932-577d-ba83-6e0416e8500b' => [
+        'You can\'t wait for inspiration. You have to go after it with a club.',
+        'Jack London',
     ],
-    '40bf8d65-4076-55d1-a3c5-190ce5211e2b' => [
-        'I confess, I do not believe in time.',
-        'Vladimir Nabokov',
+    '23a55c46-1f15-5128-9d77-c906ae15c45c' => [
+        'I like to post positive content, and I like to try and make people smile. That\'s why those videos are popular. I don\'t fake it.',
+        'Cameron Dallas',
     ],
-    '137258b7-ce4a-56ff-b16e-c1a91d33dcee' => [
-        'I believe that the best cameraman is one who recognizes the source, the story, as the basis of his work.',
-        'James Wong Howe',
+    '9fd26389-33e5-51b4-966c-4841183f29b0' => [
+        'My dream is to be World Lightweight Champion in the UFC. Have more money than I know what to do with. And have a great life for my kids, grandkids, and everyone in my family.',
+        'Conor McGregor',
     ],
-    'da3cb20a-a06a-5767-acdf-cdac007c57d3' => [
-        'In everyone\'s life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit.',
-        'Albert Schweitzer',
+    '2e779518-0265-57b8-b524-644abf70bfcd' => [
+        'Lend your ears to music, open your eyes to painting, and... stop thinking! Just ask yourself whether the work has enabled you to \'walk about\' into a hitherto unknown world. If the answer is yes, what more do you want?',
+        'Wassily Kandinsky',
     ],
-    'b46be2e3-39d4-5e94-944d-3ca200a47d8e' => [
-        'There\'s a beauty to math. Math is so simple. It\'s just one step after the next.',
-        'Ethan Canin',
+    '7f514dd5-d183-56ff-9519-c94f896e3249' => [
+        'While formal schooling is an important advantage, it is not a guarantee of success nor is its absence a fatal handicap.',
+        'Ray Kroc',
     ],
-    '1a8ee551-b926-571b-8196-8dc10b8c3218' => [
-        'The plainer the dress, the greater luster does beauty appear.',
-        'Edward Wood, 1st Earl of Halifax',
+    'ffa7663e-fd3f-5d8f-9e91-24920fa2a50e' => [
+        'You cannot have a positive life and a negative mind.',
+        'Joyce Meyer',
     ],
-    'a19d0126-6252-5b03-899d-46e60925d2e5' => [
-        'When I have had a long day at work, I want something to watch that is funny, lighthearted and easy to get into, and reality is that. I\'m not really into serious programmes or documentaries.',
-        'Amy Childs',
+    'f98a0cc4-f5cd-5dca-82fb-2f80b6707c34' => [
+        'I don\'t dislike rappers or hip-hop or people who like it. I went to the Def Jam tour in Manchester in the \'80s when rap was inspirational. Public Enemy were awesome. But it\'s all about status and bling now, and it doesn\'t say anything to me.',
+        'Noel Gallagher',
     ],
-    '2e713f28-f131-5b1b-87ad-88579d7857d4' => [
-        'If you travel in time and space, most of the people you know and love will eventually be gone. But you\'ll also be able to go and find them again.',
-        'Peter Capaldi',
+    '7b7e3af1-1a18-5964-8608-97a6d73358a1' => [
+        'Time changes everything except something within us which is always surprised by change.',
+        'Thomas Hardy',
     ],
-    '7e4647ba-d43f-5739-90ff-37badd379596' => [
-        'As a former waitress myself, I know firsthand how a simple smile from someone can improve your day and how a single harsh word can destroy it. Being courteous and thoughtful costs you nothing and can sometimes pay you dividends in unexpected ways.',
-        'Susanna Kearsley',
+    '25a792bc-5d69-57e1-8517-d0e929166915' => [
+        'Fear of failure, it\'s the greatest motivational tool. It drives me and drives me and drives me.',
+        'Jerry West',
     ],
-    'c7ddb361-b845-58e8-8077-7607d8447e44' => [
-        'Prison service vans that travel 90 miles to take a prisoner 90 yards; paedophiles free to leer at children in the very parks where they have committed horrific crimes.',
-        'Trevor Phillips',
+    '78f996ba-b89d-55c9-8ebe-dc844363c232' => [
+        'Time abides long enough for those who make use of it.',
+        'Leonardo da Vinci',
     ],
-    '2705af26-83a3-51e6-a1f6-83074373291c' => [
-        'Any authentic work of art must start an argument between the artist and his audience.',
-        'Rebecca West',
+    '5add9366-0f20-507b-8d75-63b235ed0c83' => [
+        'Of course, the most important factor of all for long life is a good family. When a person goes home with the wife or the kids giving him endless headaches, then it\'s hard for that person to enjoy a long life. I am very fortunate, because my wife Elizabeth and my obedient children are very good; they have given me happiness.',
+        'John Gokongwei',
     ],
-    'f08ff1f7-a976-5b08-b93a-91fd7a4214d7' => [
-        'Only on paper has humanity yet achieved glory, beauty, truth, knowledge, virtue, and abiding love.',
-        'George Bernard Shaw',
+    '169f8b87-90fa-59e8-a7b6-7ed12179a970' => [
+        'The good life is a process, not a state of being. It is a direction not a destination.',
+        'Ryan Howard',
     ],
-    '084bc19e-f5c3-567a-9b28-35187bd15fa1' => [
-        'I see myself as no color. I can play the role of a man. I can paint my face white if I want to and play the role of white. I can play a green, I can be a purple. I think I have that kind of frame and that kind of attitude where I can play an animal.',
-        'Grace Jones',
+    '7be71cb5-9520-5179-a53f-8f6eed816af3' => [
+        'If you are not willing to risk the usual, you will have to settle for ordinary.',
+        'Jim Rohn.',
     ],
-    '6c4421c4-e344-57d2-86b1-38ba5b143603' => [
-        'Come forth into the light of things, let nature be your teacher.',
-        'William Wordsworth',
+    'e230c006-c3a7-5ce9-ad75-b57dc6c16559' => [
+        'If one is desperate for love, I suggest looking at one\'s friends and family and see if love is all around. If not, get a new set of friends, a new family.',
+        'Jasmine Guy',
     ],
-    'a323d650-c97d-575c-97f0-67766af2b0c9' => [
-        'Badminton is not only about winning. What is important to me is about playing hard, doing my best and putting up a good show for the spectators.',
-        'Lin Dan',
+    'c55f103a-f3a8-5e23-a49a-327db15e4462' => [
+        'Maybe nature is fundamentally ugly, chaotic and complicated. But if it\'s like that, then I want out.',
+        'Steven Weinberg',
     ],
-    '8d7eee1f-e145-5bdc-8992-6a44f398491f' => [
-        'Yes\'m, old friends is always best, \'less you can catch a new one that\'s fit to make an old one out of.',
-        'Sarah Orne Jewett',
+    '5f4e3657-f88d-51da-8865-2f4475dd28ff' => [
+        'True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.',
+        'William Penn',
     ],
-    '075dc6b3-01e2-5958-889a-a685b0fc6c6d' => [
-        'I feel ups and downs are a part of one\'s career, and this totally depends on how you take it. You can either be knocked down by the negative things, or you can take it in a positive way and learn from it.',
-        'Deepika Padukone',
+    '0e842f4a-f05e-570e-9885-a1bee206b31f' => [
+        'The amount of hassle involved in travel can be overwhelming.',
+        'Paul Theroux',
     ],
-    'b4c1bd63-3eed-5de2-910b-acb3f54f3304' => [
-        'You\'ll see it when you believe it.',
+    '89cc6908-8e08-5ab9-bffa-6abf3956e0a1' => [
+        'The best revenge is to be unlike him who performed the injury.',
+        'Marcus Aurelius',
+    ],
+    '4680721e-631a-5d6b-a20b-2ea19c15ef24' => [
+        'Anybody who succeeds is helping people. The secret to success is find a need and fill it; find a hurt and heal it; find a problem and solve it.',
+        'Robert H. Schuller',
+    ],
+    '2ad27bfa-c9e7-5856-a1d7-c08f85d08320' => [
+        'I would never deny the importance of the media, but I wouldn\'t go out of the way to splash my pictures all over town. I\'d rather let my work do the talking.',
+        'Amisha Patel',
+    ],
+    'c149ed12-f5f5-5cc1-8398-0b15bc661072' => [
+        'From success you get a lot of things, but not that great inside thing that love brings you.',
+        'Samuel Goldwyn',
+    ],
+    'e5cbc001-c174-5aee-806c-f61c6dccab5d' => [
+        'It\'s a good thing that beauty is only skin deep, or I\'d be rotten to the core.',
+        'Phyllis Diller',
+    ],
+    'fabf0285-871f-5dc0-82f4-085f6fe006c1' => [
+        'Waking up sober is a good day. I love being able to wake up and do positive things, to go to the gym.',
+        'Rodney King',
+    ],
+    '2c70210f-af61-540f-9683-f57d7c0bcec1' => [
+        'Don\'t look at someone else and want to be them. Search within yourself and find out who you are and be someone positive.',
+        'Kelly Rowland',
+    ],
+    'c8ec7121-101d-5be6-8b28-579bc25ce955' => [
+        'The best way to perpetuate poverty is by spending on arms and military, and the best way to fight terrorism is by fighting the basic needs of humanity, because hunger and poverty perpetuate crime.',
+        "\u{d3}scar Arias",
+    ],
+    '17eb5af1-929e-5eb6-884d-b3c01d1f2235' => [
+        'There is not one big cosmic meaning for all, there is only the meaning we each give to our life.',
+        'Anais Nin',
+    ],
+    '53a23320-72e4-50e7-8396-252bd96d8213' => [
+        'Pretension is a poor joke that you play on yourself. Snap out of it. Recognise your strengths, work on your weaknesses. Real achievement is liking what you see in the mirror every morning.',
+        'Virat Kohli',
+    ],
+    'bc12e5d6-e390-5d96-8678-d4a31f541049' => [
+        'Nobody ever drowned in his own sweat.',
+        'Ann Landers',
+    ],
+    '645ee3c4-8e89-5945-8a61-44a6455fad40' => [
+        'The thing I love about being an actor is the ability to travel and experience new cultures.',
+        'Paul Wesley',
+    ],
+    'ea357afb-ea39-57cf-85a6-8ac80be67702' => [
+        'Each person must live their life as a model for others.',
         'Wayne Dyer',
     ],
-    'f2fb9f1e-8931-59e2-aa4a-9c5326ab81e2' => [
-        'Cheney, Rumsfeld - they were Shakespearean in their attitude of impunity.',
-        'Glen Duncan',
+    '1050dba5-9ac2-5985-b545-62f7d005a02c' => [
+        'A gentle word, a kind look, a good-natured smile can work wonders and accomplish miracles.',
+        'William Hazlitt',
     ],
-    '4ba3bcbf-2984-56e1-9df0-3e316b7abfec' => [
-        'Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.',
-        'Franklin Roosevelt',
+    '9e2bd7da-097e-5f27-af35-f7989f15f5af' => [
+        'I travel the world, and I\'m happy to say that America is still the great melting pot - maybe a chunky stew rather than a melting pot at this point, but you know what I mean.',
+        'Philip Glass',
     ],
-    'd9faceee-5ec6-51c2-9d8a-d728d894cc41' => [
-        'Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.',
-        'Hannah Arendt',
+    '743cdbe8-a153-56bf-8aca-6066b93191fe' => [
+        'Science is like a love affair with nature; an elusive, tantalising mistress. It has all the turbulence, twists and turns of romantic love, but that\'s part of the game.',
+        'Vilayanur S. Ramachandran',
     ],
-    '4ff0c9c4-5ed4-515e-aebd-cb98ae550d8a' => [
-        'Happiness resides not in possessions, and not in gold, happiness dwells in the soul.',
-        'Democritus',
+    'bfef0e55-0f93-5f65-a87f-d2c64f6f0fae' => [
+        'Mosquito control in the United States is very much a local and state activity. Some states have excellent programs, other states not so much. It\'s one of the reasons it\'s so urgent to identify and spread best practices to try and track and reduce mosquito populations.',
+        'Tom Frieden',
     ],
-    'f8e5f091-6723-56e7-9ebc-ec8fe1b70f5b' => [
-        'To pay attention, this is our endless and proper work.',
-        'Mary Oliver',
+    'ff35956f-f258-54a4-a697-f0a84785b087' => [
+        'Adversity causes some men to break, others to break records.',
+        'William Ward',
     ],
-    '6ee7b581-ce26-551d-90b4-345cb0a90332' => [
-        'Confidence is the most important single factor in this game, and no matter how great your natural talent, there is only one way to obtain and sustain it: work.',
-        'Jack Nicklaus',
+    '884c20ad-e064-5bf4-b472-7c0d20e85ac7' => [
+        'What I like best is a book that\'s at least funny once in a while. What really knocks me out is a book that, when you\'re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn\'t happen much, though.',
+        'J. D. Salinger',
     ],
-    '32ad3fa2-71b1-5d2b-9d37-98d150084f2d' => [
-        'In the practice of tolerance, one\'s enemy is the best teacher.',
-        'Dalai Lama',
+    '6c2fe5e8-9e65-57f0-8701-1d23cf1b765e' => [
+        'Every morning, I crawl out of bed. I sit there and think, \'Do I really need this?\' And I drag myself to the gym in my garage. It\'s not fun. I hate it. I work out alone. Weights.',
+        'Sylvester Stallone',
+    ],
+    'ad385896-815b-58c8-95ea-a87dcfe7bd20' => [
+        'Son, give \'em a good show, and always travel first class.',
+        'Walter Huston',
+    ],
+    'e05d3a0e-320f-5fb5-acd9-0af94b9d13a0' => [
+        'If you tell your own story to your children - that includes your positive moments and your negative moments, and how you overcame them - you give your children the skills and the confidence they need to feel like they can overcome some hardship that they\'ve felt.',
+        'Bruce Feiler',
+    ],
+    'd93225ee-2e55-5644-b905-3aac50d699a9' => [
+        'This life is worth living, we can say, since it is what we make it.',
+        'Kurt Vonnegut',
+    ],
+    '25c61829-f0ee-556b-9e8c-ff34f72139cf' => [
+        'I have always been a flirt. My mother says whe I was a child, I used to stand outside the house and just smile at everyone who walked by. Like, \'Please take me with you!\'',
+        'bell hooks',
+    ],
+    '556d6107-6506-526a-8677-b0068634829e' => [
+        'I can be the nice family man at home, and then when I go to the gym, maybe sparring with someone, I switch into beast mode. It ain\'t pretty.',
+        'Anthony Joshua',
+    ],
+    '76cfaeea-ac68-543a-b0cb-467182a564d7' => [
+        'Sexy is attitude, but fitness for me is my dance. I dance two hours nearly every day. You break into good sweat, and it doesn\'t even feel like exercise. Apart from that, I enjoy Pilates.',
+        'Jiah Khan',
+    ],
+    '551d1989-9dd0-5a1e-a769-394f8aacc0e0' => [
+        'Working with people from all walks of life, from full-time moms to CEOs at large companies, I\'ve distilled many universal truths about success. There\'s a secret I\'ve learned that works quite well at helping you to achieve what you want: Decide what you want.',
+        'Jack Canfield',
+    ],
+    '2ecff859-c058-529e-a98d-89c6417035d2' => [
+        'My mama always said: life\'s like a box of chocolate, you never know what you gonna get.',
+        'Forrest Gump',
+    ],
+    '4de794d1-e362-520e-8a0e-b63e218f7396' => [
+        'The greatest barrier to success is the fear of failure.',
+        'Eriksson',
+    ],
+    '57122a50-908e-5be1-9886-b2907b9e7916' => [
+        'Falling in love is the best way to kill your heart because then it\'s not yours anymore. It\'s laid in a coffin, waiting to be cremated.',
+        'Ville Valo',
+    ],
+    '123c4c02-2ff0-544a-844d-54f4d20208f1' => [
+        'I learn stuff from making music every time I go in the studio. I\'m continuing to try to find new ways to play in a song or be in a song and have a positive impact on a song.',
+        'Stone Gossard',
+    ],
+    '4288c47b-a18d-56dd-8e83-f286b5a865a4' => [
+        'If you don\'t give up, you still have a chance.',
+        'Jack Ma',
+    ],
+    '11026bcb-a929-5e9b-aa57-b6934df0d5ce' => [
+        'As I grew older, I realized that it was much better to insist on the genuine forms of nature, for simplicity is the greatest adornment of art.',
+        'Albrecht Durer',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '7058493f-2e49-52e0-bea8-7ec5480b5dbc' => [
-        'Discipline is the bridge between goals and accomplishment.',
-        'Jim Rohn',
+    'e6357ae3-f354-5512-8da2-96db6acbcc18' => [
+        'It\'s hard to lead a cavalry charge if you think you look funny on a horse.',
+        'Adlai E. Stevenson',
     ],
-    '136427ca-98bf-5902-8393-25220ade27d8' => [
-        'Everyone has attitude, and I think everyone should have attitude. But I know I have attitude, but that\'s just, I think if you don\'t have attitude, it comes only with self confidence. So if you don\'t have self confidence, you won\'t have attitude, and I think there\'s a difference when you have attitude and when you have arrogance.',
-        'Sania Mirza',
+    '9e914a89-2a38-5689-a062-1ccd944b826c' => [
+        'Yet, taught by time, my heart has learned to glow for other\'s good, and melt at other\'s woe.',
+        'Homer',
     ],
-    '1099dd08-912d-5355-b1e4-98b12c5ee418' => [
-        'I talked about my family, my family\'s so important.',
-        'Jim Valvano',
+    '11922afd-13ee-5595-a224-05fd94685c01' => [
+        'Whatever you want to do, do with full passion and work really hard towards it. Don\'t look anywhere else. There will be a few distractions, but if you can be true to yourself, you will be successful for sure.',
+        'Virat Kohli',
     ],
-    '2207cac3-6726-53e8-95a1-9d64629a8549' => [
-        'We will invest in our people, quality education, job opportunity, family, neighborhood, and yes, a thing we call America.',
-        'Dan Quayle',
+    '97b4709a-d05f-5790-b1bd-d7f420cc7bf4' => [
+        'The shortest answer is doing.',
+        'Lord Herbert',
     ],
-    '7bb74a1a-a079-5c99-b637-fdf236745cb2' => [
-        'If we want to travel into the future, we just need to go fast. Really fast. And I think the only way we\'re ever likely to do that is by going into space.',
-        'Stephen Hawking',
+    'a9016b46-423e-5b86-9514-a978cd0059c9' => [
+        'If you can capture the humanity of a family struggling in an economic crisis you can make a difference. You can raise awareness just of the simple humanity.',
+        'Emily Blunt',
     ],
-    '97c3b0ab-a58a-5437-bda5-9c8ff1d24f3d' => [
-        'The noblest worship is to make yourself as good and as just as you can.',
-        'Isocrates',
+    '6f8a3116-e4e3-5afe-b56f-7fc1b67b1612' => [
+        'Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.',
+        'Walt Whitman',
     ],
-    '7c6dd586-a0e2-5263-a1fc-2d21e8cd2576' => [
-        'My mom keeps me going, man. She deserves such a good life. I just wanna give it to her. My dad, too. My family, my friends, they keep me motivated. Just knowing my personal legend, just knowing what I\'m supposed to do, that keeps me going.',
-        'Big Sean',
+    '129a3775-14f3-5827-9384-2489304c75ef' => [
+        'Life is full of adventure. There\'s no such thing as a clear pathway.',
+        'Arthur Schopenhauer',
     ],
-    'd0837450-4f10-5d0e-a433-7a7e1ce1c407' => [
-        'Transparency, honesty, kindness, good stewardship, even humor, work in businesses at all times.',
-        'John Gerzema',
+    '5f136423-7218-5ff5-beba-e7ab1d3993c8' => [
+        'The first and most important step toward success is the feeling that we can succeed.',
+        'Nelson Boswell',
     ],
-    '92a30120-fa9e-507e-957d-848d6e10bf96' => [
-        'If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don\'t appreciate the moment until it\'s passed.',
-        'Thomas Jefferson',
+    'e0a29d16-0587-5f71-9c8a-9b971eb18660' => [
+        'The beautiful thing about the NFL season is to see a team come together after they get to know each other in the spring and summer. You then go through adversity together and see how you respond. The teams that can respond in a positive way are the teams that are going to be there in the end.',
+        'Aaron Rodgers',
     ],
-    '21033419-0031-5726-a888-7b4e47e2e78a' => [
-        'It\'s a moment that I\'m after, a fleeting moment, but not a frozen moment.',
-        'Andrew Wyeth',
+    'eebb5e58-5524-5f51-ab79-fd916deee9e3' => [
+        'Testing oneself is best when done alone.',
+        'Jimmy Carter',
     ],
-    '0d72f13e-7e8e-5689-8c31-e281f0a6bb2e' => [
-        'My best personality trait that I think I\'m very approachable. And my worst is that I can be moody.',
-        'Enrique Iglesias',
+    'bc75135b-8aba-503b-94d3-35f67153c58a' => [
+        'You never lose a dream. It just incubates as a hobby.',
+        'Larry Page',
     ],
-    '9cd020eb-5c1c-5d49-abb2-48b8d7627de3' => [
-        'The attitude of \'every nation unto itself\' is a destructive one for the future of Israel.',
-        'Tzipi Livni',
+    '2794fe83-e641-5a61-91d3-bb11f995aee6' => [
+        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
+        'James D. Watson',
     ],
-    '04c9493a-5610-5677-906f-99a2e73ba9cc' => [
-        'There is a very deep conviction in the heart of the people who work in al-Jazeera that if it changes its editorial line, it will very quickly lose its audience. Al-Jazeera has its own style; it has more than 3,500 employees, and I don\'t think anyone will have the attitude of changing it because they will lose.',
-        'Wadah Khanfar',
+    '1313053c-947a-5934-9f92-3bf6d1549cdc' => [
+        'The harder I work, the luckier I get.',
+        'Samuel Goldwyn',
     ],
-    '852ff658-285d-5729-adbc-d35a5389e461' => [
-        'To the artist there is never anything ugly in nature.',
-        'Auguste Rodin',
+    'f6338e25-cf46-59e8-8e05-96e1200425ee' => [
+        'What I love most about this crazy life is the adventure of it.',
+        'Oprah Winfrey',
     ],
-    '42f31a7d-09e9-5ab5-b5f4-03e1d6bf6a30' => [
-        'The best way to keep your friends is not to give them away.',
-        'Wilson Mizner',
+    '20f6a6e4-7766-5089-a972-3574918e5af0' => [
+        'Going home and spending time with your family and your real friends keeps you grounded.',
+        'Jennifer Ellison',
     ],
-    'c0971973-0217-543c-83a1-374c3f3c2c6c' => [
-        'Lead yourself whenever your boss\' leadership deteriorates. When your boss doesn\'t praise what you do, praise yourself. When your boss doesn\'t make you big, make yourself big. Remember, if you have done your best, failure does not count.',
-        'Mario Teguh',
+    'ce4bde43-5b6f-5cc3-85ef-c798f430c091' => [
+        'To so enter into it in nature and art that the enjoyed meanings of life may become a part of living is the attitude of aesthetic appreciation.',
+        'George Herbert Mead',
     ],
-    '0b7449bd-29d8-5a1d-aa8b-3dd6fb22c68a' => [
-        'Celibacy is not just a matter of not having sex. It is a way of admiring a person for their humanity, maybe even for their beauty.',
-        'Timothy Radcliffe',
+    '724c7787-9568-5f72-9b7d-311cb2b91dc9' => [
+        'The political parties who prefer lockdowns should end their politics that is based on negative attitude.',
+        'Shehbaz Sharif',
     ],
-    '6982b753-b815-5abc-a477-308b4720c100' => [
-        'To find joy in work is to discover the fountain of youth.',
-        'Pearl S. Buck',
+    '8711ab07-7ae0-54b1-b3b1-e285967b57a6' => [
+        'Problems are only opportunities with thorns on them.',
+        'Hugh Miller',
     ],
-    '1e6c3ae0-dd9b-52ae-9432-955d01c27981' => [
-        'My formula for living is quite simple. I get up in the morning and I go to bed at night. In between, I occupy myself as best I can.',
-        'Steve Nash',
+    '3e954924-991f-5984-9eeb-a344f73cee28' => [
+        'I certainly don\'t disparage someone whose attitude towards their work is utterly different from mine - that\'s up to them.',
+        'Ian Mckellen',
     ],
-    '36e4ab78-ad5e-5d4e-99e2-00768f789b03' => [
-        'Being fully present is the best guarantee for a bright future.',
-        'Guy Finley',
+    '0f14acb1-01f7-55d9-aa05-97a1b6501f71' => [
+        'Have regular hours for work and play; make each day both useful and pleasant, and prove that you understand the worth of time by employing it well. Then youth will be delightful, old age will bring few regrets, and life will become a beautiful success.',
+        'Louisa May Alcott',
     ],
-    '986f5443-fe5e-5ef0-a139-8f3830514e88' => [
-        'Visual surprise is natural in the Caribbean; it comes with the landscape, and faced with its beauty, the sigh of History dissolves.',
-        'Derek Walcott',
+    'e3294aec-adbb-5e11-a439-9a2d96b86051' => [
+        'I tried for a short time to be something I wasn\'t, and had no success with it. It\'s a practical solution to just be yourself.',
+        'Kate McKinnon',
     ],
-    'a0add565-dd60-5b46-bc32-5667d3dd2a37' => [
-        'Nobody who ever gave his best regretted it.',
-        'George Halas',
+    '9d3a064f-89fa-5272-94e6-e0bee354159f' => [
+        'When a man tells you that he got rich through hard work, ask him: \'Whose?\'',
+        'Don Marquis',
     ],
-    '276c39e1-3117-5300-8ba5-959b21070d8c' => [
-        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased or obscured by mortal power.',
-        'Alexander Hamilton',
+    '8d3fb5cc-a26f-51c0-a552-530c9d61d501' => [
+        'If I were in the government, I would persuade the prime minister to see the beauty in the fact that people see Israel as a haven - from their sadness to their hope.',
+        'Elie Wiesel',
     ],
-    '7c857977-09db-5367-b4a8-eaab67109e7b' => [
-        'Spend some time this weekend on home improvement; improve your attitude toward your family.',
-        'Bo Bennett',
+    'cbb116f6-1881-51fc-898c-55e5033d0c0c' => [
+        "If you're going through hell,\nKEEP GOING.",
+        'Winston Churchill',
     ],
-    '75ec6070-9742-5816-9b77-1bfa4bac534d' => [
-        'Time is what we want most, but what we use worst.',
-        'William Penn',
+    'aedebc33-31d1-5cdc-9f2f-6607272d4e21' => [
+        'If you travel too often, you actually come face-to-face with what you\'re trying to escape. I feel like when I travel alone, sometimes it\'s like being locked in a hotel room with my own worst enemy.',
+        'Simon Van Booy',
+    ],
+    '44f71b62-e87e-5f76-9085-437f72aef6c1' => [
+        'I tend to look out for things with a resonance to my youth - artists or objects that seemed romantic all those years ago. I never buy anything purely for its value. I like possessions that smile back at me.',
+        'Nicholas Haslam',
+    ],
+    'ca53ca6e-a2ac-5e17-a173-c2b1c69931e9' => [
+        'Laugh and the world laughs with you, snore and you sleep alone.',
+        'Anthony Burgess',
+    ],
+    '593ed823-b070-59b6-abfd-57b167988838' => [
+        'Work is the curse of the drinking classes.',
+        'Oscar Wilde',
+    ],
+    '759bfab3-c14e-5754-a1a9-4a435e869320' => [
+        'A man\'s got to take a lot of punishment to write a really funny book.',
+        'Ernest Hemingway',
+    ],
+    'b87f7c6a-ed5f-5dca-b537-acb4b1eb4c69' => [
+        'The deviation of man from the state in which he was originally placed by nature seems to have proved to him a prolific source of diseases.',
+        'Edward Jenner',
+    ],
+    '79137a9b-6557-5f2e-b04c-7d84e73331df' => [
+        'The beauty of diversification is it\'s about as close as you can get to a free lunch in investing.',
+        'Barry Ritholtz',
+    ],
+    '551a5b7f-bc34-5faa-988c-c0e92c0fe529' => [
+        'I love a lot of the New York bands, but Patti Smith stands out. I just read \'Just Kids\' and it\'s an inspirational, well-written account of an emerging New York artist in the late seventies.',
+        'James Iha',
+    ],
+    'a431136d-20e2-547e-81db-66a672aa69fa' => [
+        'It\'s funny, I\'m very analytical in my real life, but in terms of my films, I try to not analyze them at all and let things just go into them and let them be what they are. I mean, people ask me to this day what \'The Squid and the Whale\' stood for, and I have no idea except that it\'s an exhibit in the Natural History Museum.',
+        'Noah Baumbach',
+    ],
+    '7ed121bf-360c-5b9e-8edf-1f1922c3c8d3' => [
+        'My mum is great for keeping hold of old classics - pieces of clothing that never age and never go out of fashion. She also says, \'Make sure you always smile - it makes everything look better!\'',
+        'Amber Le Bon',
+    ],
+    'eef2c176-577d-562a-b907-6c1e206aa2a1' => [
+        'The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.',
+        'Will Durant',
+    ],
+    '49eb7680-80cb-54d4-b10e-105f4d166c2b' => [
+        'I am not a member of any organized political party. I am a Democrat.',
+        'Will Rogers',
+    ],
+    '3c62b58e-febe-51cf-b2da-4eecd6e8f104' => [
+        'Success in management requires learning as fast as the world is changing.',
+        'Warren Bennis',
+    ],
+    '3d61d4c6-6796-53aa-825a-2dbd4ee75c07' => [
+        'In education, technology can be a life-changer, a game changer, for kids who are both in school and out of school. Technology can bring textbooks to life. The Internet can connect students to their peers in other parts of the world. It can bridge the quality gaps.',
+        'Paulo Coelho',
+    ],
+    '6a854be7-6ecc-598a-aa11-62987958f49b' => [
+        'Europe and Africa share proximity and history, ideas and ideals, trade and technology. You are tied together by the ebb and flow of people. Migration presents policy challenges - but also represents an opportunity to enhance human development, promote decent work, and strengthen collaboration.',
+        'Ban Ki-moon',
+    ],
+    'd8b44326-66ff-59ad-bc8c-7087469a3d83' => [
+        'The very nature of science is discoveries, and the best of those discoveries are the ones you don\'t expect.',
+        'Neil deGrasse Tyson',
+    ],
+    '8b2b386d-16fb-59a0-be91-1548472f2bc3' => [
+        'The only journey is the one within.',
+        'Rainer Maria Rilke',
+    ],
+    'bab79469-f775-5b84-a6f2-34764981a0c3' => [
+        'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
+        'Bruce Lee',
+    ],
+    '4e50bde9-cb2a-5079-ac4a-6316c0357a64' => [
+        'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
+        'Anatole France',
+    ],
+    'a8e4e164-b701-5b88-8c31-f813cd8bc67c' => [
+        'As a football team, you head into the season the same way with confidence and a positive mindset that you are going to win a bunch of football games.',
+        'Matthew Stafford',
+    ],
+    '8b3f19b5-141c-540e-a648-9889421d7f8d' => [
+        'I have a motto: Work to become, not to acquire.',
+        'Alan Kulwicki',
+    ],
+    'bd1da6c3-6af7-5bd9-aa28-eda51d83bb02' => [
+        'I think we all suffer from guilt at some point in our lives, but for the most part I never really regret, and I try to always remain positive. Yes, I think that those issues are very interesting to play in a character, and they\'re prominent issues in life, and I think people can relate to them.',
+        'Channing Tatum',
+    ],
+    'b54185c0-a7f3-5aa5-b57e-0f5c9e899b11' => [
+        'Time management is the mantra of my life.',
+        'Vir Das',
+    ],
+    'e5c8acc8-37aa-5f0d-9159-09ca34ffcd47' => [
+        'If men knew how women pass the time when they are alone, they\'d never marry.',
+        'O. Henry',
+    ],
+    '3f118658-f085-5301-b0b2-110aba5ca4fa' => [
+        'I wasn\'t interested in football. It made me different. I wore glasses, had bad hair, a funny name, you name it.',
+        'Rupert Friend',
+    ],
+    '4d88b09b-8ddd-588e-8923-8734db00fdc9' => [
+        'Fires can\'t be made with dead embers, nor can enthusiasm be stirred by spiritless men. Enthusiasm in our daily work lightens effort and turns even labor into pleasant tasks.',
+        'James A. Baldwin',
     ],
 ];

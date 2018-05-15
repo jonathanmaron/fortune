@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '1e4059a9-faaf-5b76-94f3-0055dacc1f19' => [
-        'People forget I go to work. They forget that the Coleridge house was bought and paid for by the daughter of a travel agent and a barmaid from what the actor Richard Burton once described as the nightmarish \'featureless suburb\' of Croydon.',
-        'Kate Moss',
+    '8e599e32-e4f5-5807-8e52-75e31321da53' => [
+        'The preparation is what allows the success to happen naturally.',
+        'Jake Arrieta',
     ],
-    'eb4cd604-8887-5809-85e1-16e560308803' => [
-        'With patient and firm determination, I am going to press on for jobs. I\'m going to press on for equality. I\'m going to press on for the sake of our children. I\'m going to press on for the sake of all those families who are struggling right now. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I am going to press on.',
-        'Barack Obama',
+    '3b79b029-bf20-5b74-a81a-8ca5a04cca72' => [
+        'But having said that, there\'s also a sea change in attitude towards media.',
+        'Robert McChesney',
     ],
-    '45b460f7-fc59-5a17-8f64-b7c698b3c364' => [
-        'Why should conservationists have a positive interest in... farming? There are lots of reasons, but the plainest is: Conservationists eat.',
-        'Wendell Berry',
+    '91d0eab7-e92e-51c7-8786-9340449b61f6' => [
+        'Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.',
+        'H. P. Lovecraft',
     ],
-    '78b4c409-4530-510d-8164-b272c6ec3d3b' => [
-        'Kids who are poor often have families that have not really been kept informed about... how important it is to read to your child, to reduce stresses in their life, to use positive incentives and words.',
-        'Geoffrey Canada',
+    '32655bba-3d46-5bb7-8cc8-399703e18417' => [
+        'People always fear change. People feared electricity when it was invented, didn\'t they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters.',
+        'Bill Gates',
     ],
-    '30220a04-d80d-5eaf-8977-b3869eb65615' => [
-        'Success has nothing to do with what you gain in life or accomplish for yourself. It\'s what you do for others.',
-        'Danny Thomas',
+    'e6923e87-5eab-508a-9367-14f7ecddb9ae' => [
+        'The Amen of nature is always a flower.',
+        'Oliver Wendell Holmes, Sr.',
     ],
-    'd8368953-3f14-56d6-a3e9-8688c0089f4f' => [
-        'I like to encourage people to realize that any action is a good action if it\'s proactive and there is positive intent behind it.',
-        'Michael J. Fox',
+    '991c6375-e980-5a16-9c3c-86339bb65b89' => [
+        'I think it\'s difficult to say what exactly made me become a successful DJ. It depends on so many different things. If I were given an award, I would thank my family, friends, Tiesto and the great team behind me for all their support and hard work. Without them, I wouldn\'t be where I am today.',
+        'Martin Garrix',
     ],
-    '7da0ed26-3b80-5d0b-84cc-2beb562568bd' => [
-        'I did not want to be a tree, a flower or a wave. In a dancer\'s body, we as audience must see ourselves, not the imitated behavior of everyday actions, not the phenomenon of nature, not exotic creatures from another planet, but something of the miracle that is a human being.',
-        'Martha Graham',
+    '4f143c86-4e8f-5d56-baf3-79e180a34bda' => [
+        'Invincibility lies in the defence; the possibility of victory in the attack.',
+        'Sun Tzu',
     ],
-    '1bf3f2cd-a64c-5eaf-8f94-ac42a33cabdb' => [
-        'To mistrust science and deny the validity of scientific method is to resign your job as a human. You\'d better go look for work as a plant or wild animal.',
-        'P. J. O\'Rourke',
+    '13723106-674f-59e0-8c48-d7f5709cefcf' => [
+        'As long as you as an individual... can convince yourself that in order to move forward as best you can you have to be optimistic, you can be described as \'one of the faithful,\' one of those people who can say, \'Well, look, something\'s going to happen! Let\'s just keep trying. Let\'s not give up.',
+        'Tom Hanks',
     ],
-    '75730dab-8f38-5b44-8569-b122c494c977' => [
-        'We must use time as a tool, not as a couch.',
-        'John F. Kennedy',
+    '42eed0d1-35f2-5f61-8ee4-8135f19d136c' => [
+        'Covetousness is both the beginning and the end of the devil\'s alphabet - the first vice in corrupt nature that moves, and the last which dies.',
+        'Michel de Montaigne',
     ],
-    'e3d27df8-0951-5b1f-81f5-e97b371c7192' => [
-        'I wasn\'t as used to the new dumb questions, so when men I had once thought of as wise daddies now asked me \'How do you write?\' I did not try and spill red wine in their suede pants. I would just smile and say, \'On a typewriter in the mornings when there\'s nothing else to do.\'',
-        'Eve Babitz',
+    '47a79ee9-8c9a-5c0b-9622-528d91f3c296' => [
+        'I look my best when I take my helmet off after a long motorcycle ride. I have a glow and a bit of helmet hair.',
+        'Eric Bana',
     ],
-    '5cde4e6d-e76c-55e7-ad41-4195c96df2fc' => [
-        'Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.',
-        'Marcus Aurelius',
+    'ff19e9ec-25f5-5c97-8f34-006a7ec18329' => [
+        'Liturgy is like a strong tree whose beauty is derived from the continuous renewal of its leaves, but whose strength comes from the old trunk, with solid roots in the ground.',
+        'Pope Paul VI',
     ],
-    '89571fc8-9b74-5b73-be1a-ab727e718f32' => [
-        'Most people can\'t see beauty and love. I see our music as medicine.',
-        'Maurice White',
+    'c6187c2f-5d87-54b5-9473-e1b9341d64a3' => [
+        'There are positive things that come of social media as well as negative.',
+        'Millie Bobby Brown',
     ],
-    '2bcf5da7-a5a3-51b8-902e-9968103823eb' => [
-        'Art enables us to find ourselves and lose ourselves at the same time.',
-        'Thomas Merton',
+    'fcdc4098-09f5-561a-8d51-81bc80c805d6' => [
+        'I\'m very gregarious, but I love being in the hills on my own.',
+        'Norman MacCaig',
     ],
-    '1d327264-b7e2-5b67-a0e1-2d527083f159' => [
-        'I have had a perfectly wonderful evening, but this wasn\'t it.',
-        'Groucho Marx',
+    'baa2f5a8-9854-53e3-a73a-f8d28d23e863' => [
+        'We need to make sure that we have one another\'s back and recognize the fact that patriots come in all different sizes, shapes, colors, not all of them wear uniforms, some of them are employers, some of them are the family members who stay at home and take of business back here in the state of Oklahoma.',
+        'Harry M. Wyatt III',
     ],
-    'd4e65085-41ff-520f-b393-5a566a333248' => [
-        'Don\'t talk about what you have done or what you are going to do.',
-        'Thomas Jefferson',
+    'cad3a6dd-93ee-54f7-a2e6-7ec8ae870719' => [
+        'For my part, I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
+        'Robert Louis Stevenson',
     ],
-    '95046472-f82a-5d86-9aee-00edc27697d1' => [
-        'Work hard. Through determination and self-focus and discipline, you can accomplish anything.',
-        'Kimberly Guilfoyle',
+    'b1867bf7-f655-5ab6-8dd8-0551f9a0fde7' => [
+        'To have faith doesn\'t mean you get any less frustrated when you don\'t do your best, but you know that it\'s not life and death. Take what you\'re given, and when you continue to work hard, you will see results. That will give you the confidence you need to keep going.',
+        'Tom Lehman',
     ],
-    '8dfd8bdc-a420-5eba-a4de-12b1ab7766de' => [
-        'We take so many of our freedoms for granted nowadays - I can travel where I like, I can do any job I want - but I think chivalry has been lost a little bit.',
-        'Michelle Dockery',
+    '11be44be-a7ca-5dde-a391-b7dc4d652c47' => [
+        'Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.',
+        'John Ruskin',
     ],
-    '08221c6c-8c96-52e1-86dc-afa25ffe82a3' => [
-        'I am not trendy. I am not \'in fashion.\' I am simply a positive human being who has a positive outlook on life.',
-        'Thierry Mugler',
+    '92766988-e196-5a0b-9345-0a2aa12f76cf' => [
+        'Most companies target women as end users, but few are effectively utilizing female employees when it comes to innovating for female consumers. When women are empowered in the design and innovation process, the likelihood of success in the marketplace improves by 144%!',
+        'Indra Nooyi',
     ],
-    'ba5a4705-dfc8-5501-90d8-13ae7c0f84d5' => [
-        'The only time I ever enjoyed ironing was the day I accidentally got gin in the steam iron.',
-        'Phyllis Diller',
+    'eb5c779f-b056-502f-a50b-188f63228b18' => [
+        'The truth is rarely pure and never simple.',
+        'Oscar Wilde',
     ],
-    'e103eeaa-5fa3-598d-9be3-13c674f6dd02' => [
-        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
-        'Rowan Atkinson',
+    '2c4b62f0-0978-5167-8071-93dc22f074eb' => [
+        'The people who influence you are the people who believe in you.',
+        'Henry Drummond',
     ],
-    '27ea93f7-92c0-5018-870e-f44bd618665f' => [
-        'From very early on in my childhood - four, five years old - I felt alien to the human race. I felt very comfortable with thinking I was from another planet, because I felt disconnected - I was very tall and skinny, and I didn\'t look like anybody else, I didn\'t even look like any member of my family.',
-        'Patti Smith',
+    '8894f2aa-302b-5f2f-8494-205de7666226' => [
+        'I\'ve never run into a guy who could win at the top level in anything today and didn\'t have the right attitude, didn\'t give it everything he had, at least while he was doing it; wasn\'t prepared and didn\'t have the whole program worked out.',
+        'Ted Turner',
     ],
-    '7ac47d9b-b887-5449-b70f-221fdca4a983' => [
-        'I can see how you could get dragged into the bad stuff, but I\'ve got good friends around me, good family. I think I\'ve got my head screwed on.',
-        'Harry Styles',
+    'a0dfa635-e5ea-5035-a3b4-4788604738ed' => [
+        'The number-one job of the hedge-fund manager is not to make sure that you can retire with a smile on your face - it\'s for him to retire with a smile on his face.',
+        'Mark Cuban',
     ],
-    '3c1f6e5e-8080-5148-8570-bb8896d7a026' => [
-        'Sales are contingent upon the attitude of the salesman - not the attitude of the prospect.',
-        'W. Clement Stone',
+    'b145d16e-c3e2-5272-8933-54451c08d6dd' => [
+        'Obama does not represent America. Nor does he represent anything what our forefathers stood for. This country is basically built on an attitude. It\'s a way of life. It\'s not because you\'re born here. It\'s not that you\'re supposed to take from those who have and give to those who haven\'t. That kills a country. It killed Russia.',
+        'Luke Scott',
     ],
-    '1dc17368-7eb8-5c1d-b8ee-e410b5a0178f' => [
-        'I live and work alone and travel light, relying largely on my memory and making a point of letting intuition guide my way.',
-        'Lyall Watson',
+    '63e880b5-6ead-569f-91b7-7e431bd7e59e' => [
+        'Ads featuring real women and real beauty are such a necessary component to offset the potentially dangerous programming out there for little girls.',
+        'Rashida Jones',
     ],
-    '64a560f2-7957-51fb-8e2f-213831b8edb9' => [
-        'Leonardo Fibonacci, the great 13th century Italian mathematician (1175-1250) created the \'Fibonacci sequence\' to explain behavior in nature mathematically. History has it that the first question he posed was how many rabbits would be created in one year starting with one pair.',
-        'Rick Santelli',
+    '6f09f1b5-615f-56b9-89cf-792f0656aef0' => [
+        'Reproof on her lip, but a smile in her eye.',
+        'Samuel Lover',
+    ],
+    '66f09494-0970-5017-bf7a-d1bfd7f7e45e' => [
+        'Migration is as natural as breathing, as eating, as sleeping. It is part of life, part of nature. So we have to find a way of establishing a proper kind of scenario for modern migration to exist. And when I say \'we,\' I mean the world. We need to find ways of making that migration not forced.',
+        'Gael Garcia Bernal',
+    ],
+    '322e0e08-4da5-5479-a4fc-a334a97b22d8' => [
+        'I just hate losing and that gives you an extra determination to work harder.',
+        'Wayne Rooney',
+    ],
+    '4e252757-4e50-5568-923e-379928dac57e' => [
+        'I\'ve got a woman\'s ability to stick to a job and get on with it when everyone else walks off and leaves it.',
+        'Margaret Thatcher',
+    ],
+    'c004831e-ecb4-5978-a97f-2ef60dd97457' => [
+        'I would like to be remembered as someone who did the best she could with the talent she had.',
+        'J. K. Rowling',
+    ],
+    'a3d32954-4bc2-5066-8d93-dbea82f20aec' => [
+        'I have a simple philosophy: Fill what\'s empty. Empty what\'s full. Scratch where it itches.',
+        'Leonardo DiCaprio',
+    ],
+    '7e7aa42f-b8da-5794-ac53-c0e95a0200ef' => [
+        'It\'s simple, if it jiggles, it\'s fat.',
+        'Arnold Schwarzenegger',
+    ],
+    '487b2603-19ff-5d60-a1fd-386b2f080490' => [
+        'An obstacle may be either a stepping stone or a stumbling block.',
+        'Unknown',
+    ],
+    '177a8a2c-9c02-5e27-b5df-3a2d2de31f90' => [
+        'Life is too short for long-term grudges.',
+        'Magdalena Neuner',
+    ],
+    'd2cd9617-bf08-5134-87cb-f5b856f829fd' => [
+        'Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.',
+        'Michael Jackson',
+    ],
+    '6422d7b4-e07c-5666-ae02-aa9893e8327a' => [
+        'The best way of removing negativity is to laugh and be joyous.',
+        'David Icke',
+    ],
+    'c4b7ee34-cfe3-5a35-9c3f-f72a3d836b26' => [
+        'My height doesn\'t define my skill set. To be a great quarterback, you have to have great leadership, great attention to detail and a relentless competitive nature - and I try to bring that on a daily basis.',
+        'Russell Wilson',
+    ],
+    '8ccc6d42-a625-5757-a966-741b56d64552' => [
+        'Greed is a basic part of animal nature. Being against it is like being against breathing or eating. It means nothing.',
+        'Ben Stein',
+    ],
+    'dbeebd4d-c78a-57f6-8b48-d607d519160e' => [
+        'You fight, you try your best, but if you lose, you don\'t have to break five racquets and smash up the locker room. You can do those things, but when you\'ve finished, nothing\'s changed. You\'ve still lost. If something positive came from that, I probably would do it. But I see only negativity.',
+        'Rafael Nadal',
+    ],
+    'af5c17f8-f1ac-50ab-85df-675eae3fdc47' => [
+        'What you see depends on what you\'re looking for.',
+        'Unknown',
+    ],
+    'd100ebf8-2f68-58ac-9832-c683589195c5' => [
+        'It\'s funny, but you get to a time in your life when you think you have all the friends you will ever have.',
+        'Liam Neeson',
+    ],
+    'e3797236-1733-55a8-b36d-9ca3a6501b93' => [
+        'It\'s funny how seeing a love story never gets boring, because it\'s the dream, isn\'t it? It\'s the dream to have a true connection with another human being.',
+        'Felicity Jones',
+    ],
+    '2d9b7fe6-40ca-532b-8704-83d2a4d83ed1' => [
+        'Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.',
+        'Ovid',
+    ],
+    'ffa346de-2ff4-5190-985c-07bea8d947e9' => [
+        'Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.',
+        'John Adams',
+    ],
+    '572b727f-f8a7-559b-a49f-59c23d2fab77' => [
+        'The beauty that addresses itself to the eyes is only the spell of the moment; the eye of the body is not always that of the soul.',
+        'George Sand',
+    ],
+    '4037981b-5c3e-5b5a-ad8a-066cbf0b936c' => [
+        'There is no traffic jam along the extra mile.',
+        'Roger Staubach',
+    ],
+    '4fdb5240-440f-5fef-be9c-41cb978c9368' => [
+        'Nothing is impossible to him who will try.',
+        'Alexander The Great',
+    ],
+    '148cc9eb-6c49-5883-945f-89980cb99c93' => [
+        'Think of yourself as on the threshold of unparalleled success. A whole, clear, glorious life lies before you. Achieve! Achieve!',
+        'Andrew Carnegie',
+    ],
+    '4c053081-06ac-57fd-baac-fd86cf187845' => [
+        'It is art that makes life, makes interest, makes importance... and I know of no substitute whatever for the force and beauty of its process.',
+        'Henry James',
+    ],
+    'ea075396-d01d-59a7-bc9e-c3b105701a56' => [
+        'We make our own fortunes and we call them fate.',
+        'Benjamin Disraeli',
+    ],
+    'f42158b3-0fc2-59a3-a4d1-7316eccb3c07' => [
+        'Today a minimum wage earner has to work a day and a half just to pay for a full tank of gas. That is simply shameful.',
+        'Bill Pascrell',
     ],
 ];

@@ -2,18 +2,21 @@
 
 namespace Application\Component\Console\Command;
 
+use Application\Component\Filesystem\Filesystem;
 use Application\Component\Finder\Finder;
+use Application\Exception\InvalidArgumentException;
 use Application\Exception\RuntimeException;
+use NumberFormatter;
 use Ramsey\Uuid\Uuid;
 use Symfony\Component\Console\Command\LockableTrait;
+use Symfony\Component\Console\Helper\ProgressBar;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\Filesystem\Filesystem;
 
 class FortuneImportCommand extends AbstractCommand
 {
-    const FORTUNES_PER_FILE = 25;
+    const FORTUNES_PER_FILE = 50;
 
     use LockableTrait;
 
@@ -21,12 +24,12 @@ class FortuneImportCommand extends AbstractCommand
     {
         $this->setName('fortune-import');
 
-        $this->setDescription('Import quotations');
+        $this->setDescription('Import fortunes from JSON files');
 
         $name        = 'input-path';
         $shortcut    = null;
         $mode        = InputOption::VALUE_REQUIRED;
-        $description = 'Input path.';
+        $description = 'Path to JSON files containing fortunes';
         $default     = null;
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
@@ -44,8 +47,8 @@ class FortuneImportCommand extends AbstractCommand
         }
 
         if (!is_dir($inputPath)) {
-            $message = 'Invalid input path.';
-            throw new RuntimeException($message);
+            $message = '--input-path contains an invalid path';
+            throw new InvalidArgumentException($message);
         }
 
         return $this;
@@ -53,22 +56,29 @@ class FortuneImportCommand extends AbstractCommand
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $inputPath = $input->getOption('input-path');
-        $inputPath = realpath($inputPath);
+        $filesystem      = new Filesystem();
+        $numberFormatter = new NumberFormatter(null, NumberFormatter::DECIMAL);
 
+        $inputPath  = $input->getOption('input-path');
+        $inputPath  = realpath($inputPath);
         $outputPath = $this->getFortune()->getPath();
         $outputPath = realpath($outputPath);
 
         $newFortunes = $this->getNewFortunes($inputPath);
         $curFortunes = $this->getFortune()->getFortunes();
 
-        $counter = 0;
+        $newFortunesCount = count($newFortunes);
+        $addFortunesCount = 0;
 
-        if (0 === count($newFortunes)) {
+        if (0 === $newFortunesCount) {
             throw new RuntimeException('There are no quotations to process');
         }
 
+        $progressBar = new ProgressBar($output, $newFortunesCount);
+        $progressBar->start();
+
         foreach ($newFortunes as $newFortune) {
+            $progressBar->advance();
             $uuid = $this->uuid($newFortune[0]);
             if (array_key_exists($uuid, $curFortunes)) {
                 continue;
@@ -77,51 +87,26 @@ class FortuneImportCommand extends AbstractCommand
                 $newFortune[0],
                 $newFortune[1],
             ];
-            $counter++;
+            $addFortunesCount++;
         }
 
-        $chunks = array_chunk($curFortunes, self::FORTUNES_PER_FILE, true);
+        $progressBar->finish();
 
-        $this->write($outputPath, $chunks);
-
-        $line = sprintf('Added %d new %s.', $counter, (1 === $counter) ? 'fortune' : 'fortunes');
-        $output->writeln($line);
-
-        return $this;
-    }
-
-    private function write($path, $chunks)
-    {
-        $filesystem = new Filesystem();
-
-        foreach ($chunks as $key => $chunk) {
-
-            $phpString = $this->getPhpEncoder()->encode($chunk);
-
-            $filename = sprintf("%s/%'.05d.php", $path, $key + 1);
-            $data     = sprintf("<?php\n\nreturn %s;\n", $phpString);
-
-            $filesystem->dumpFile($filename, $data);
+        if ($addFortunesCount > 0) {
+            $chunks = array_chunk($curFortunes, self::FORTUNES_PER_FILE, true);
+            $filesystem->dumpFiles($outputPath, "%'.05d.php", $chunks);
         }
 
+        $curFortunesCount = count($curFortunes);
+
+        $output->writeln('');
+        $output->writeln(sprintf('Added %s %s. There are %s %s in the database.',
+                                 $numberFormatter->format($addFortunesCount),
+                                 (1 === $addFortunesCount) ? 'fortune' : 'fortunes',
+                                 $numberFormatter->format($curFortunesCount),
+                                 (1 === $curFortunesCount) ? 'fortune' : 'fortunes'));
+
         return $this;
-    }
-
-    private function normalize($string)
-    {
-        $string = str_replace('’', "'", $string);
-        $string = trim($string);
-
-        return $string;
-    }
-
-    private function uuid($quote)
-    {
-        $quote = strtolower($quote);
-
-        $uuid = Uuid::uuid5(Uuid::NAMESPACE_DNS, $quote)->toString();
-
-        return $uuid;
     }
 
     private function getNewFortunes($inputPath)
@@ -134,9 +119,8 @@ class FortuneImportCommand extends AbstractCommand
             $json  = file_get_contents($fileInfo->getPathname());
             $array = json_decode($json, true);
             foreach ($array as $record) {
-
-                $quote  = $this->normalize($record['quoteText']);
-                $author = $this->normalize($record['quoteAuthor']);
+                $quote  = $this->filter($record['quoteText']);
+                $author = $this->filter($record['quoteAuthor']);
                 $uuid   = $this->uuid($quote);
                 if (array_key_exists($uuid, $ret)) {
                     continue;
@@ -158,5 +142,23 @@ class FortuneImportCommand extends AbstractCommand
         shuffle($ret);
 
         return $ret;
+    }
+
+    private function filter($string)
+    {
+        $string = str_replace('’', "'", $string);
+        $string = trim($string);
+
+        return $string;
+    }
+
+    private function uuid($quote)
+    {
+        $name = strtolower($quote);
+        $name = preg_replace('/[^a-z]/', null, $name);
+
+        $uuid5 = Uuid::uuid5(Uuid::NIL, $name);
+
+        return strtolower($uuid5->toString());
     }
 }

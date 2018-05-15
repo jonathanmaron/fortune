@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'b5ff036f-8957-5e0c-80e5-ced78d61db62' => [
-        'If truth is beauty, how come no one has their hair done in the library?',
-        'Lily Tomlin',
+    '96507ab7-71d5-5846-9047-40d9a26ec62f' => [
+        'I actually bought a travel guitar, and that guitar is really cool. You can actually fold the guitar, and you can plug headphones into it, but it\'s acoustic, or semi-acoustic.',
+        'Daniel Ek',
     ],
-    'b3afecf0-0244-553f-8b45-1ae8bc6566a5' => [
-        'Life it is not just a series of calculations and a sum total of statistics, it\'s about experience, it\'s about participation, it is something more complex and more interesting than what is obvious.',
-        'E. B. White',
+    'e8e07a13-474e-5443-a57b-c205f6c7754e' => [
+        'You never achieve success unless you like what you are doing.',
+        'Dale Carnegie',
     ],
-    'd09c5758-bdc6-5149-b03f-5e7e3d3ea4c5' => [
-        'Even when I wasn\'t playing, I always had a smile on my face because if I acted sad or mad, it wouldn\'t help me.',
-        'Henrikh Mkhitaryan',
+    'a1ebac1b-df6d-53b1-bc2b-bd85dc62a337' => [
+        'Hurricane season brings a humbling reminder that, despite our technologies, most of nature remains unpredictable.',
+        'Diane Ackerman',
     ],
-    '296a97d9-d9d8-524c-8454-2ae045ac3664' => [
-        'Most of the luxuries and many of the so-called comforts of life are not only not indispensable, but positive hindrances to the elevation of mankind.',
-        'Henry David Thoreau',
+    'a3b387a0-c1c0-5914-85c2-9efea245926d' => [
+        'There are three constants in life... change, choice and principles.',
+        'Ray Lewis',
     ],
-    '04c9b95e-52da-58f3-b330-336fc3f6d3b0' => [
-        'Attitude and enthusiasm play a big part in my life. I get excited about the things that inspire me. I also believe in laughing and having a good time.',
-        'Dwayne Johnson',
+    '9e779e5f-195a-5ccd-ae5f-606c2ac9f166' => [
+        'I know that when I like music, when it touches my heart, that it will touch your heart, too. That, I think, is the secret to my success.',
+        'Andre Rieu',
     ],
-    '5c45679c-98f8-58d4-b31b-d6f1d3e6ed69' => [
-        'The same people who smile in my face would be the same ones to talk behind my back.',
-        'Timbaland',
+    '435bf4a5-9803-5bb6-98fb-1645739093ae' => [
+        'My formula for living is quite simple. I get up in the morning and I go to bed at night. In between, I occupy myself as best I can.',
+        'Steve Nash',
     ],
-    'ba1b8df1-2dbc-53aa-a063-7343a1c96908' => [
-        'When I see myself on film it makes me smile, I mean making a good living doing what I enjoy is soo much fun. I just hope that everyone has the chance to enjoy life like I do.',
-        'Adrienne Barbeau',
+    'b9e23fac-6faa-5df7-934a-17ef632d5b88' => [
+        'Complaining doesn\'t change a thing only taking action does.',
+        'Byron Pulsifer',
     ],
-    'f76f92ab-36a1-5e4b-9bc1-c036135ad089' => [
-        'Honesty is the best policy - when there is money in it.',
-        'Mark Twain',
+    '575d0b17-2f47-59b0-8486-adb6a62359e7' => [
+        'If you cannot do great things, do small things in a great way.',
+        'Napoleon Hill',
     ],
-    'a560b74b-0cfb-5671-a1ad-f8997cb79ab6' => [
-        'Success is never final, failure is never fatal. It\'s courage that counts.',
-        'John Wooden',
+    'baec65bd-bfa9-57c1-acb3-408ffae0b063' => [
+        'At this level, the individual perceives the maintenance of the expectations of his family, group, or nation as valuable in its own right, regardless of immediate and obvious consequences.',
+        'Lawrence Kohlberg',
     ],
-    'a4905d76-efcf-59d3-b901-b45301a7a6ad' => [
-        'I just try to stay positive and focused on the tennis, not let anything get to me, like crazy questions. But I\'m tough, let me tell you, tough as nails.',
-        'Venus Williams',
+    '279f2fe2-bbb8-549a-873e-5e571a0ceab2' => [
+        'I never make a trip to the United States without visiting a supermarket. To me they are more fascinating than any fashion salon.',
+        'Wallis Simpson',
     ],
-    'd23a7ff5-15dc-52c3-800a-6b1c7060c25e' => [
-        'Good grooming is integral and impeccable style is a must. If you don\'t look the part, no one will want to give you time or money.',
-        'Daymond John',
+    'bef2a1a7-df15-53a0-9990-b3bcdf1d71bc' => [
+        'Life is never fair, and perhaps it is a good thing for most of us that it is not.',
+        'Elizabeth Esty',
     ],
-    '9b688181-66da-534a-a2f5-97539a34b29b' => [
-        'We all go through sad times, but I was brought up to be positive.',
-        'Jess Glynne',
+    'e4a3f8ea-d77b-57c1-9956-acbe17425b18' => [
+        'Organizing is what you do before you do something, so that when you do it, it is not all mixed up.',
+        'A. A. Milne',
     ],
-    '7be72804-88bc-5422-9391-56d6db44ad19' => [
-        'Courtesy is a silver lining around the dark clouds of civilization; it is the best part of refinement and in many ways, an art of heroic beauty in the vast gallery of man\'s cruelty and baseness.',
-        'Bryant H. McGill',
+    '19a22d95-c326-5c78-992f-a34943394396' => [
+        'America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, even eaten with people who in America would have been considered \'white,\' but the \'white\' attitude had been removed from their minds by the religion of Islam.',
+        'Malcolm X',
     ],
-    'bdd86910-3c29-56a1-a025-ac672cd5b325' => [
-        'If a person can be said to have the wrong attitude, there is no need to pay attention to his arguments.',
-        'John McCarthy',
+    'd58dd20e-b9d9-5d51-aba0-9091ff97d573' => [
+        'Difficult times often bring out the best in people.',
+        'Bernie Sanders',
     ],
-    '84bb96d4-03c2-5171-8e02-230130cc87e1' => [
-        'Life\'s a fight. It\'s a good fight of faith.',
-        'Max de Pree',
+    '77a806e6-ab17-59e7-ab9e-aa1d416730d6' => [
+        'There may be aliens in our Milky Way galaxy, and there are billions of other galaxies. The probability is almost certain that there is life somewhere in space.',
+        'Chris Evans',
     ],
-    '16356483-c0b1-51e7-bfce-0145bb4cb853' => [
-        "We live in a quick-fix society where we need instant gratification for everything. Too fat? Get lipo-sucked. Stringy hair? Glue on extensions. Wrinkles and lines? Head to the beauty shop for a pot of the latest miracle skin stuff. It's all a beautiful \u{a3}1 billion con foisted upon insecure women by canny cosmetic conglomerates.",
-        'Joan Collins',
+    '100ebd8b-1a54-5d49-81ed-f9dc1ed4b11a' => [
+        'The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.',
+        'Anais Nin',
     ],
-    '8963311b-5e5e-558e-86e5-5076d8e78216' => [
-        'Success in any endeavor depends on the degree to which it is an expression of your true self.',
-        'Ralph Marston',
+    'b2c3ec8c-034d-5a87-be21-dc4e038c13aa' => [
+        'Nature is at work. Character and destiny are her handiwork. She gives us love and hate, jealousy and reverence. All that is ours is the power to choose which impulse we shall follow.',
+        'David Seabury',
     ],
-    '964af9a8-8926-550a-a445-672c82f55489' => [
-        'While human space travel is daunting, machines - with their indefinitely long lifetimes - could travel the galaxy. It might make little difference to them that bridging the distance from one star to the next could take hundreds of thousands of years or more.',
-        'Seth Shostak',
+    '29d88f64-78fc-5185-a133-68dd4504ac74' => [
+        'Oh, if I could but live another century and see the fruition of all the work for women! There is so much yet to be done.',
+        'Susan B. Anthony',
     ],
-    '9822f51a-a6ab-5289-a961-51a379892659' => [
-        'What I really like is an intelligent review. It doesn\'t have to be positive. A review that has some kind of insight, and sometimes people say something that\'s startling or is so poignant.',
-        'Patti Smith',
+    '22e53b1a-751f-50af-ad9e-f27b657d084d' => [
+        'I just travel the world with my backpack and my cameras and a bunch of Clif bars.',
+        'Henry Rollins',
     ],
-    'f3205298-30bc-555b-89b3-44f6b8bb952e' => [
-        'Today I see beauty everywhere I go, in every face I see, in every single soul.',
-        'Kevyn Aucoin',
+    'cfa39b3f-23cf-5d95-b4b8-aa7ab834c359' => [
+        'I dislike feeling at home when I am abroad.',
+        'George Bernard Shaw',
     ],
-    'd55669a6-0402-57f5-bf39-2d9932c736e8' => [
-        'The best lack all conviction, while the worst are full of passionate intensity.',
-        'William Butler Yeats',
+    'e6c228e1-17cb-55b2-829a-238e2618e35f' => [
+        'Silence is the last thing the world will ever hear from me.',
+        'Marlee Matlin',
     ],
-    '58b1c70c-7c44-595a-a418-2727fd8a9c2a' => [
-        'By four years of age, the average child in a family receiving public assistance has heard about 13 million words, compared to 45 million for a child from a wealthier family. The disadvantages developed during their first four years are usually still present in high school.',
-        'Sal Albanese',
+    '0101526e-3a4d-5055-b8d6-ecde1122fab7' => [
+        'I would love to be a guest on a talk show or a panel that shows women who have been on reality shows who\'ve had success, to prove to audiences that you don\'t have to be a fool to become successful.',
+        'NeNe Leakes',
     ],
-    '61546fd6-fd08-55ae-b4b3-0d529c43dc43' => [
-        'A show is exhausting when it stinks. It\'s exhausting when you have to work overtime to make something work.',
-        'Patti LuPone',
+    '9c2403d3-6e81-50f5-93b9-14c66f479b04' => [
+        'New beginnings are often disguised as painful endings.',
+        'Lao Tzu',
     ],
-    '8aeaca16-117e-5872-a531-498d4d301626' => [
-        'Thought is the wind, knowledge the sail, and mankind the vessel.',
-        'Augustus Hare',
+    'aeacaee6-9a82-5da9-8474-28c7e14245d3' => [
+        'I\'ve always fed off negativity and wanting people to hate me. That attitude really fueled me for my entire career. So being a guy that people like and want to cheer for is the weird part.',
+        'Dean Ambrose',
     ],
-    '2c9b57de-ee87-5d0c-8cba-3753f16e8d46' => [
-        'I cannot go to Montreal without going to Beauty\'s, my favorite place for breakfast, where I have the Mish-Mash omelet with hot dogs, salami, eggs, green peppers, and onions, and the best banana bread in the world. It\'s legendary!',
-        'Gail Simmons',
+    '0ae2f77d-997a-5edc-bbb5-7b039ec0816f' => [
+        'Never retreat. Never explain. Get it done and let them howl.',
+        'Benjamin Jowett',
+    ],
+    'e444f445-aeeb-5cbe-a5f8-f184110674ba' => [
+        'Philosophy is the highest music.',
+        'Plato',
+    ],
+    '3f366c3a-4650-5684-ac96-fe2f85bda2f0' => [
+        'Time does not change us. It just unfolds us.',
+        'Max Frisch',
+    ],
+    '25b21034-85a7-563b-86f3-3f5845e12e64' => [
+        'Life appears to me too short to be spent in nursing animosity, or registering wrongs.',
+        'Mattie Stepanek',
+    ],
+    'ed494b88-805a-5ac1-9e0f-c1dff2ec33fc' => [
+        'Nothing succeeds like success.',
+        'Alexandre Dumas',
+    ],
+    '8791ffb3-5143-53e5-ae0a-4ef367bd1f81' => [
+        'Motivation is what gets you started. Habit is what keeps you going.',
+        'Jim Ryun',
+    ],
+    '7d5b1a36-d7c1-54ed-adce-9576ca20baf0' => [
+        'Life is like a roller coaster, live it, be happy, enjoy life.',
+        'Alfred A. Montapert',
+    ],
+    'f18ca873-b7c4-5750-b761-9dc754199b01' => [
+        'We submit to the majority because we have to. But we are not compelled to call our attitude of subjection a posture of respect.',
+        'Ambrose Bierce',
+    ],
+    '45caf547-bc25-5bfa-a37b-88c930857280' => [
+        'To me, \'beauty\' means to be natural, creative, honest - to say the truth.',
+        'Nawal El Saadawi',
+    ],
+    '7fee0f8a-4c70-5105-82a1-e647d7c5e459' => [
+        'Anyone who can walk to the welfare office can walk to work.',
+        'Al Capp',
+    ],
+    '59432e68-30a4-5106-816d-674ab773f990' => [
+        'My family background was deeply Christian.',
+        'Abbe Pierre',
+    ],
+    '8da72fcd-be6f-565f-aeaf-ac2ad0a39478' => [
+        'When I am president, I will work to ensure that all of our kids are treated equally and protected equally. Every action I take, I will ask myself, \'Does this make life better for young Americans in Baltimore, Chicago, Detroit, Ferguson, who have as much of a right to live out their dreams as any other child America?\'',
+        'Donald Trump',
+    ],
+    '782cfff1-32be-5d3f-92a8-7f46f6b3eea5' => [
+        'All men are by nature born equally free and independent.',
+        'George Mason',
+    ],
+    'a6a7daad-28c9-5978-a57c-2bed50f4b57b' => [
+        'One who is too insistent on his own views, finds few to agree with him.',
+        'Lao Tzu',
+    ],
+    '70f19520-969f-565e-a292-364e4e9b9b7e' => [
+        '\'Beauty\' is a currency system like the gold standard. Like any economy, it is determined by politics, and in the modern age in the West is is the last, best belief system that keeps male dominance intact.',
+        'Naomi Wolf',
+    ],
+    '8c51c938-ea85-5b39-89d2-773afd0876d4' => [
+        'That brain of mine is something more than merely mortal, as time will show.',
+        'Ada Lovelace',
+    ],
+    '0aca31ac-d6dd-5a1c-909d-a65d9cb69d8e' => [
+        'Almost 70 percent of U.S. ag exports travel the upper Mississippi River and the Illinois waterway system.',
+        'Jerry Costello',
+    ],
+    '1ab275ed-da23-565a-8015-f080db08a70b' => [
+        'A failure is a man who has blundered but is not capable of cashing in on the experience.',
+        'Elbert Hubbard',
+    ],
+    '2c428666-9833-56b7-9330-453376981314' => [
+        'If the graves of the thousands of victims who have fallen in the terrible wars of the two races had been placed in line the philanthropist might travel from the Atlantic to the Pacific, and from the Lakes to the Gulf, and be constantly in sight of green mounds.',
+        'Nelson A. Miles',
+    ],
+    '87d1bca5-601b-5b3f-9f79-f901eb8e5620' => [
+        'It\'s easy to get wrapped up in sharing everyday life with a partner. It\'s fun to get lost in love and romance. It\'s the best. But holding on to yourself while doing that is the most important thing.',
+        'Brittany Murphy',
+    ],
+    'df61b21b-fb30-55d2-8d43-18b769681357' => [
+        'My best personality trait that I think I\'m very approachable. And my worst is that I can be moody.',
+        'Enrique Iglesias',
+    ],
+    'c43f66f4-77a4-5d65-bd52-7b5d41e8ef53' => [
+        'Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent.',
+        'Nolan Ryan',
+    ],
+    '534b7f02-8b98-530b-a019-6b272cec4be9' => [
+        'Beauty is produced by the pleasing appearance and good taste of the whole, and by the dimensions of all the parts being duly proportioned to each other.',
+        'Vitruvius',
+    ],
+    'e26ab462-3e75-56a7-ac46-8b32d1a1b982' => [
+        'Being a writer usually entails a fairly quiet life. However much travel one might do, however many tours and appearances, the job entails solitude: long hours in libraries, long hours at a desk.',
+        'Jill Paton Walsh',
+    ],
+    '1e10261f-5393-598b-8710-77308664d9d3' => [
+        'The attitude is we live and let live. This is actually an amazing change in values in a rather short time and it\'s an example of freedom from religion.',
+        'Tom Wolfe',
+    ],
+    'e68b27aa-7212-51ae-ad2e-0e9ceb51295b' => [
+        'This too, shall pass.',
+        'Anonymous',
     ],
 ];

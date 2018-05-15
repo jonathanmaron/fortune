@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '29b0dbda-8d5b-55f9-88c2-fdbb990ff1af' => [
-        'Work, look for peace and calm in work: you will find it nowhere else.',
-        'Dmitri Mendeleev',
+    'f1eb0960-f060-5671-8baa-fc95b9313394' => [
+        'Crime is terribly revealing. Try and vary your methods as you will, your tastes, your habits, your attitude of mind, and your soul is revealed by your actions.',
+        'Agatha Christie',
     ],
-    '4237cdad-8741-5fba-a621-2d9fe0b7fd91' => [
-        'A bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
-        'Helen Rowland',
+    'd26e48f5-cb49-5ef5-9910-3127347d896b' => [
+        'I go to nature to be soothed and healed, and to have my senses put in order.',
+        'John Burroughs',
     ],
-    '72b27ede-0571-56b2-bfd0-a0cf9e2c6a30' => [
-        'Do I feel any pressure as the most decorated Winter Olympian in American history? None at all. The only pressures that I know I face are those of how to pay it forward: How can I continually make a positive impact in people\'s lives, help others achieve their dreams, create their own Olympic mindset, creating champions within themselves?',
-        'Apolo Ohno',
+    '167151d8-b53b-5f3e-9216-d678996589b7' => [
+        'Establishing lasting peace is the work of education; all politics can do is keep us out of war.',
+        'Maria Montessori',
     ],
-    '339d3203-724e-5a91-878a-2e94c58eb3fc' => [
-        'My whole damn family was nice. I don\'t think I\'ve imagined it. It\'s true. Maybe it has to do with being brought up as Christian Scientists. Half of my relatives were Readers or Practitioners in the church.',
-        'Henry Fonda',
+    'c01bf3fe-bf92-5a51-a22b-5d27d80ebcb6' => [
+        'A beautiful person is someone who stays true to themselves and their spirit; someone who is self-confident and can make you smile.',
+        'Helena Christensen',
     ],
-    '1a1d631f-0d50-5591-a461-37c6e712698c' => [
-        'Wake up early and tackle the day before it tackles you. Be on offense, not defense.',
-        'Evan Carmichael',
+    '62f86600-6fb1-5003-b3e3-b1e3af2eff01' => [
+        'Do not take life too seriously. You will never get out of it alive.',
+        'Og Mandino',
     ],
-    '1636ebb0-f074-5a5d-b469-656b4f52935f' => [
-        'Everyone can have their heart broken. Even if you know the relationship isn\'t working, it\'s still sad. Even in a bad relationship, they\'re part of your life for a long time, and saying goodbye to that can be difficult.',
-        'James Marsden',
+    '277ea1a9-85b5-50aa-9d48-76f63fa70ddb' => [
+        'There comes a time in the affairs of man when he must take the bull by the tail and face the situation.',
+        'W. C. Fields',
     ],
-    '2b29293c-5601-507a-b259-c04c7e989a1d' => [
-        'Nothing ever goes away until it has taught us what we need to know.',
-        'Pema Chodron',
+    '76cfbf38-1811-5da2-8669-ea2618e4da79' => [
+        'Beauty is only skin deep. I think what\'s really important is finding a balance of mind, body and spirit.',
+        'Jennifer Lopez',
     ],
-    '060f7592-ef22-5361-b25b-0ca05c5ddb67' => [
-        'Few and far between are the books you\'ll cherish, returning to them time and again, to revisit old friends, relive old happiness, and recapture the magic of that first read.',
-        'Michael A. Stackpole',
+    'eb93a2a0-529c-5b78-be02-b6cfb25d95b4' => [
+        'I remember nearly having a fit of the giggles during the reading because dear Daniel was SO respectful and serious and I was finding the whole situation funny because I was speaking to his profile.',
+        'Madeleine Stowe',
     ],
-    '9404ecb6-f320-5c56-b2a4-67f446c227ff' => [
-        'Some people say they have a thirst for life. They\'re excited about every day and they\'re prepared to look the bad and the good straight in the face and greet it all with a smile. I like to think I\'m one of those people.',
-        'Amy Jo Martin',
+    '86b1516e-0e64-53c3-ae3a-bea1f904cdba' => [
+        'The only person who never makes mistakes is the person who never does anything.',
+        'Denis Waitley',
     ],
-    '77427fe3-02ff-5698-91c7-9286dd45c798' => [
-        'The violets in the mountains have broken the rocks.',
-        'Tennessee Williams',
+    'c0d2b1e8-0b8a-5d1d-b0db-2a4d2f4f3d2a' => [
+        'The details surrounding both my marriage and subsequent filing for divorce are private, and I had hoped to keep them that way for the sake of my family.',
+        'Eminem',
     ],
-    '03429eed-5b3e-56a6-8f41-523b0b495150' => [
-        'Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on.',
-        'Paula Abdul',
+    'c3209a72-374c-50af-8fce-6b0f0e02b548' => [
+        'Autumn wins you best by this its mute appeal to sympathy for its decay.',
+        'Robert Browning',
     ],
-    'caab78e4-0776-5a8f-8049-6ab297655708' => [
-        'The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.',
-        'Charles Darwin',
+    '2f2280cb-041a-5006-9c0b-531b18214c75' => [
+        'I\'m from a nice, suburban, middle-class family, but my tattoos remind me where I\'ve been.',
+        'Tom Hardy',
     ],
-    'cfd624a5-7960-59e3-a28e-af7f5b1d4087' => [
-        'Change is the law of life. And those who look only to the past or present are certain to miss the future.',
-        'John D. Rockefeller',
+    '22e722f9-aa30-5350-b3aa-ef499b8389a3' => [
+        'Financial institutions, the corporate world and civil society - all must uphold high standards of probity in their working. Only a genuine partnership between the Government and its people can bring about positive change to create a just society.',
+        'Pratibha Patil',
     ],
-    'f778be7f-02b6-577b-a8ba-40bd34de8c1d' => [
-        'One could not pluck a flower without troubling a star.',
-        'Loren Eiseley',
+    '48b8cd17-a31c-5a01-b7cb-4eb659d62f7c' => [
+        'I enjoy going out by myself... always have, always will. I don\'t have security guards, and, for the most part, I enjoy meeting new people. I see myself as a regular guy who likes playing video games with his nieces and nephews and poker with his family. I don\'t have an art collection or take exotic vacations. I enjoy being at home.',
+        'Vince Vaughn',
     ],
-    '0bd1fb5b-75a3-5ca4-aac6-0e6748291a5a' => [
-        'I really get a smile that people think they have a right to even suggest how I give my money away. I have no mandate to give a dime to anybody.',
-        'Peter B. Lewis',
+    'e963b0e4-f5b4-5996-b7fd-c729848a6687' => [
+        'Act as if what you do makes a difference. It does.',
+        'William James',
     ],
-    '46ffb360-f8aa-5e36-9c7b-fae8fe70a26c' => [
-        'If you\'re doing your best, you won\'t have any time to worry about failure.',
-        'H. Jackson Brown, Jr.',
+    '74995fee-502b-576d-85aa-34ea9a6367e3' => [
+        'We believe in liberty, we believe in limited government, we believe in free enterprise, we believe in family values and the sanctity of human life, and we all believe Washington needs a good dose of Economics 101.',
+        'Kurt Bills',
     ],
-    'a75fd03c-d0c3-5d25-b33a-91f7fad845f7' => [
-        'I think we should all be tolerant of each other and embrace each others\' strengths and differences and uniqueness and beauty.',
-        'Martina McBride',
+    '7dd801cc-05d6-5c0f-85e8-61d67127fe5f' => [
+        'I was talking to a guy who was holding his 18-month-old daughter with the only limb he had left, and he had a smile on his face. I thought, \'I\'m not even a 10th of this man.\'',
+        'Ron White',
     ],
-    '71ca0ec1-00b4-5d0b-84cc-41f9ff894c00' => [
-        'I\'m very inspired by nature - you could say Mother Nature. I look at things around me and get all kinds of inspiration daily.',
-        'Martha Stewart',
+    '592cb276-2046-5b81-9518-dc6e5b421f43' => [
+        'I\'m a positive man.',
+        'Mariano Rivera',
     ],
-    '4e2358dc-abdd-50e2-a0b0-8e65378749ab' => [
-        'I think I will be able to, in the end, rise above the clouds and climb the stairs to Heaven, and I will look down on my beautiful life.',
-        'Paul Pierce',
+    '33cdccd7-f1f0-504f-9f72-144c55e9d651' => [
+        'The laissez-faire attitude to science education has resulted in a disaster exemplified by the fact that more young people are opting for media studies than physics.',
+        'Harry Kroto',
     ],
-    '689048e0-f0a0-501b-bbbd-72b29b8b3064' => [
-        'It is possible to commit no mistakes and still lose. That is not a weakness; that is life.',
-        'Jean Luc Picard',
+    'ab7e65ae-7e47-573c-8e19-a071ceddb60b' => [
+        'Success requires first expending ten units of effort to produce one unit of results. Your momentum will then produce ten units of results with each unit of effort.',
+        'Charles J. Givens',
     ],
-    '468e6916-5036-501b-a28d-36f99f18499e' => [
-        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
-        'Jim Gaffigan',
+    'bda592ce-b687-51f3-bb17-8047d240faaa' => [
+        'I hold grudges, but I can\'t hate nobody; that\'s not my nature.',
+        'The Notorious B.I.G.',
     ],
-    'e4f8ad23-43f0-5829-85b3-4741b1d8f5c7' => [
-        'My advice to young wrestlers is that your surroundings really make a difference. You want to put yourself in good, positive surroundings.',
-        'Dan Gable',
+    'd4847db3-0269-50bd-92d9-c3b93ef26c87' => [
+        'There\'s a way to do it better - find it.',
+        'Thomas A. Edison',
     ],
-    '98f5c526-b8cc-5e91-9446-26507a81cf34' => [
-        'Nature\'s beauty is a gift that cultivates appreciation and gratitude.',
-        'Louie Schwartzberg',
+    '76fd54fb-202d-55ac-b6e1-dbcf7dd2f25b' => [
+        'I\'m not the athlete I was when I was training for the Olympics in \'92 or when I was working out every single day. I have to live in moderation: I work out three or four days a week, and I smile while I\'m working out - I really do enjoy it. I work out with my girlfriends and make it a social competition.',
+        'Summer Sanders',
     ],
-    'bf4bc791-986d-50f8-ae45-e319dbcbb0ca' => [
-        'Take things as they are. Punch when you have to punch. Kick when you have to kick.',
-        'Bruce Lee',
+    'b7ceeefc-749e-559e-8096-d2c11b8910ed' => [
+        'I\'m a big advocate of the power of positive thinking, particularly for small businesses.',
+        'Kevin Plank',
     ],
-    '4c3b14a7-b63b-5033-80a5-476539146682' => [
-        'The success combination in business is: Do what you do better... and: do more of what you do.',
-        'David Joseph Schwartz',
+    '40eda9f6-d1c7-5be1-a578-3e8236c7ca6b' => [
+        'If you\'re successful, it\'s important to enjoy it! I love shopping for clothes, branded clothes. I love shopping in England, Dubai. I like to travel whenever I can.',
+        'Suresh Raina',
+    ],
+    '290557be-9dcb-59e8-b479-0c7c4c9967d9' => [
+        'Any girl can be glamorous. All you have to do is stand still and look stupid.',
+        'Hedy Lamarr',
+    ],
+    '939ec404-2f5c-547d-ab14-6c558b13dea7' => [
+        'As long as we are persistence in our pursuit of our deepest destiny, we will continue to grow. We cannot choose the day or time when we will fully bloom. It happens in its own time.',
+        'Denis Waitley',
+    ],
+    'b9b5674f-6ffe-5646-83a4-9cd2705ce431' => [
+        'I\'ve been known to write 10 pages a day for 10 days running before I take a breath. I am not a disciplined writer. I\'m one of those people who laughingly call themselves inspirational writers, which basically means someone who has no control over their own creative process.',
+        'Catherine Ryan Hyde',
+    ],
+    'b095ea51-50fa-5aba-bb0b-34c62fdef268' => [
+        'Always go into meetings or negotiations with a positive attitude. Tell yourself you\'re going to make this the best deal for all parties.',
+        'Natalie Massenet',
+    ],
+    'a2a5a6ae-fe34-53ca-8878-70d85dee2414' => [
+        'Either you run the day, or the day runs you.',
+        'Jim Rohn',
+    ],
+    '6007dcb4-800b-5944-bac8-d9041e60f36d' => [
+        'I love Motown, that whole era. Marvin Gaye, Smokey Robinson. I just put on Pandora, and put it on Motown, and it makes me smile; makes me smile so much.',
+        'Tika Sumpter',
+    ],
+    '3b4384b8-effc-5ff0-b905-fd86ad7890bc' => [
+        'The best way to pay for a lovely moment is to enjoy it.',
+        'Richard Bach',
+    ],
+    '05df988e-a4ed-5884-be3b-46766f77097d' => [
+        'My attention since \'Clueless\' has been on family, relationships, activism, the planet, and my career.',
+        'Alicia Silverstone',
+    ],
+    '8b460cbb-0815-574f-9a55-80611f75dce1' => [
+        'Time begins the healing process of wounds cut deeply by oppression. We soothe ourselves with the salve of attempted indifference, accepting the false pattern set up by the horrible restriction of Jim Crow laws.',
+        'Rosa Parks',
+    ],
+    '4482e45c-22ab-5351-a286-15e109fb749b' => [
+        'I love to travel, but sometimes it\'s nice to stay in one place.',
+        'Gustavo Dudamel',
+    ],
+    'f8b86358-4cce-506d-82fa-d6e88d6ffbda' => [
+        'Hopefully, when people see \'Senna\', they will understand why this inspirational story needed to be told, why it had to be made as a movie for the big screen, and why it is a film for everyone.',
+        'Asif Kapadia',
+    ],
+    '2e10bf40-3daf-5af9-8ed4-234fb54e5328' => [
+        'There are so many different elements to surfing. Small waves, big waves, long boards, short boards. This makes it a sport you can share with people. It\'s not just a solitary thing - it\'s become a family thing, too. It\'s about exercising and passing something on from father to son, and from mother to daughter.',
+        'Kelly Slater',
+    ],
+    'ce399b86-e579-586a-bcbc-20c738f951ee' => [
+        'To be what we are, and to become what we are capable of becoming, is the only end of life.',
+        'Robert Stevenson',
+    ],
+    'a69a40e5-33f1-5933-a34f-37338071b7ea' => [
+        'Don\'t go through life, grow through life.',
+        'Tim Gunn',
+    ],
+    'cd394b50-f590-5f75-bb37-882dea49f4c0' => [
+        'There\'s a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family.',
+        'Gordon Ramsay',
+    ],
+    '988f9c34-ea8e-5274-96bd-69111428ca0b' => [
+        'I love Mickey Mouse more than any woman I have ever known.',
+        'Walt Disney',
+    ],
+    '251b7bf8-1e15-5093-a842-8d2fa02a6ae5' => [
+        'It\'s sort of a mental attitude about critical thinking and curiosity. It\'s about mindset of looking at the world in a playful and curious and creative way.',
+        'Adam Savage',
+    ],
+    '772aabfc-65b0-5085-b8c1-52f69259b36a' => [
+        'Success isn\'t a result of spontaneous combustion. You must set yourself on fire.',
+        'Arnold H. Glasow',
+    ],
+    '2f5affae-1a5e-5cd5-9dd2-01a5196cf515' => [
+        'In wilderness I sense the miracle of life, and behind it our scientific accomplishments fade to trivia.',
+        'Charles Lindbergh',
+    ],
+    '2b460ed6-b806-5202-b380-ccca1e2c1b2f' => [
+        'The only way that we\'re going to feel secure in this country again and that we\'re going to feel good about ourselves is if we use these systems we\'ve put into place to create positive change around the world. I really believe we can do that.',
+        'John Perkins',
+    ],
+    '6e82df02-40dd-5aee-a1c1-66629bfbbdcc' => [
+        'In our daily life, we encounter people who are angry, deceitful, intent only on satisfying their own needs. There is so much anger, distrust, greed, and pettiness that we are losing our capacity to work well together.',
+        'Margaret J. Wheatley',
+    ],
+    '262a207c-84e5-59f9-802c-543f60643dda' => [
+        'Regardless of what one\'s attitude towards prohibition may be, temperance is something against which, at a time of war, no reasonable protest can be made.',
+        'William Lyon Mackenzie King',
+    ],
+    '22ac76c1-2b17-5fb7-b7ae-36bf27747b43' => [
+        'I hold that the perfection of form and beauty is contained in the sum of all men.',
+        'Albrecht Durer',
+    ],
+    '658b0478-0758-5e15-9b34-0a64271b0b7a' => [
+        'Negative attitude is nine times more powerful than positive attitude.',
+        'Bikram Choudhury',
+    ],
+    '217d0924-fb10-5aab-bfa2-297bef06aafc' => [
+        'I get to travel the world doing what I love to do - making other people happy... They might not even understand my words, but the one thing everybody understands is music.',
+        'Martin Garrix',
     ],
 ];

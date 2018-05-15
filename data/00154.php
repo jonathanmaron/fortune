@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'b23a258f-e7f5-50b9-af2e-2c7961670030' => [
-        'I write for no other purpose than to add to the beauty that now belongs to me. I write a book for no other reason than to add three or four hundred acres to my magnificent estate.',
-        'Jack London',
+    '3ecd47c1-b61f-5d68-bcbf-c0c95179007f' => [
+        'It\'s not that diamonds are a girl\'s best friend, but it\'s your best friends who are your diamonds. It\'s your best friends who are supremely resilient, made under pressure and of astonishing value. They\'re everlasting; they can cut glass if they need to.',
+        'Gina Barreca',
     ],
-    '1c21f4bd-1162-5058-bdfa-8ace5329abf2' => [
-        'Ocean: A body of water occupying about two-thirds of a world made for man - who has no gills.',
-        'Ambrose Bierce',
+    '0eabc7a9-3407-51f1-865a-0666417bcac4' => [
+        'I\'m real. I believe what I\'m saying. If Motel 6 wasn\'t the type of operation they say it is - and I stay at them when I travel - I wouldn\'t do their commercials. That comes through on the radio, and that\'s what it\'s all about.',
+        'Tom Bodett',
     ],
-    'f39ea848-dfc7-5d46-9cb6-c60d7955ead4' => [
-        'In order to succeed, we must first believe that we can.',
-        'Nikos Kazantzakis',
+    '6480aa2b-e3d0-5c1a-9ad5-700064faa7e3' => [
+        'The age of a woman doesn\'t mean a thing. The best tunes are played on the oldest fiddles.',
+        'Ralph Waldo Emerson',
     ],
-    '13646922-77cf-5ac8-bf8d-ff3421b24c93' => [
-        'Wonder rather than doubt is the root of all knowledge.',
-        'Abraham Joshua Heschel',
+    '0cfb4141-cb59-57b2-b870-af7b5bfd4b94' => [
+        'In three words I can sum up everything I\'ve learned about life: it goes on.',
+        'Philip Sidney',
     ],
-    '5b6528cb-7063-579c-a0e4-89c100e5b05f' => [
-        'Our future cannot depend on the government alone. The ultimate solutions lie in the attitudes and the actions of the American people.',
-        'Joe Biden',
+    'd72a3519-92bb-5493-8700-0981e28f1f4b' => [
+        'Anyone who has to fight, even with the most modern weapons, against an enemy in complete command of the air, fights like a savage against modern European troops, under the same handicaps and with the same chances of success.',
+        'Erwin Rommel',
     ],
-    'aba42672-27c0-5deb-8ea5-9085a73bcaef' => [
-        'The two most powerful warriors are patience and time.',
-        'Leo Tolstoy',
+    '8c0132f7-d154-53c2-bb3c-5744b65f472d' => [
+        'Here ends my forever memorable first High Sierra excursion. I have crossed the Range of Light, surely the brightest and best of all the Lord has built. And, rejoicing in its glory, I gladly, gratefully, hopefully pray I may see it again.',
+        'John Muir',
     ],
-    '49983f4f-3c03-519d-82ff-8e33b8b1de52' => [
-        'When people talk, they lay lines on each other, do a lot of role playing, sidestep, shilly-shally and engage in all manner of vagueness and innuendo. We do this and expect others to do it, yet at the same time we profess to long for the plain truth, for people to say what they mean, simple as that. Such hypocrisy is a human universal.',
-        'Steven Pinker',
+    '73374137-c05f-55d5-97c2-62199d05bde1' => [
+        'Human nature is not black and white but black and grey.',
+        'Graham Greene',
     ],
-    '59cd2241-a349-5e99-89b4-a32ca121f9a6' => [
-        'I think somehow we learn who we really are and then live with that decision.',
-        'Eleanor Roosevelt',
+    '3208b074-d64e-5028-baa1-61254821d1cf' => [
+        'Let me encourage you to get up every day and focus on what you do have in life. Be thankful for the blessings of the little things, even when you don\'t get what you expect.',
+        'Persius',
     ],
-    '9bdcf3ae-1ee3-570c-b0ce-3106bc2f4769' => [
-        'When you form a team, why do you try to form a team? Because teamwork builds trust and trust builds speed.',
-        'Russel Honore',
+    'a4cc2356-270a-57ee-8655-ea1c6184f663' => [
+        'Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.',
+        'Pope John XXIII',
     ],
-    '9c0cf55a-9d1a-5785-bfdd-cba44fe7d082' => [
-        'There are positive things that come of social media as well as negative.',
-        'Millie Bobby Brown',
+    '20bbc973-72f4-5172-8561-778aba57eda9' => [
+        'It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come.',
+        'Dalai Lama',
     ],
-    '8bef0dd4-48de-5f83-8bef-48c6478da78b' => [
-        'I hold grudges, but I can\'t hate nobody; that\'s not my nature.',
-        'The Notorious B.I.G.',
+    'd919adad-9770-5317-9825-099944cc6081' => [
+        'I can\'t travel without Sudoku.',
+        'Robert Ballard',
     ],
-    'ff175be0-3136-5db1-8bd0-5952aa72f4b8' => [
-        'The development of our human resources is an area in which we need to do well as it is decisive in determining the success of our diversification programme.',
-        'Hassanal Bolkiah',
+    '6bfa3b92-2cd7-5149-a721-77217589fbf1' => [
+        'There is probably a perverse pride in my administration... that we were going to do the right thing, even if short-term it was unpopular. And I think anybody who\'s occupied this office has to remember that success is determined by an intersection in policy and politics and that you can\'t be neglecting of marketing and P.R. and public opinion.',
+        'Barack Obama',
     ],
-    '1ced3220-8245-5e40-bb51-1fd8b810ecd9' => [
-        'By its very nature the beautiful is isolated from everything else. From beauty no road leads to reality.',
-        'Hannah Arendt',
+    '4771dffe-79a5-529e-9127-14a04ee5b9fc' => [
+        'The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature.',
+        'Joseph Campbell',
     ],
-    'd67fdcb0-39ec-59cc-877d-b1467923d4f5' => [
-        'Doing Shakespeare once is not fair to the play. I have been in Shakespeare plays when it\'s not until the last two or three performances when I even understand certain things. In the old days star actors would travel the world doing the same parts over and over again.',
-        'Al Pacino',
+    'c893338f-6cb7-54cd-9b0b-7df73029c832' => [
+        'While you\'re going through this process of trying to find the satisfaction in your work, pretend you feel satisfied. Tell yourself you had a good day. Walk through the corridors with a smile rather than a scowl. Your positive energy will radiate. If you act like you\'re having fun, you\'ll find you are having fun.',
+        'Jean Chatzky',
     ],
-    'bef36e90-a387-5c15-a546-1f5fdeb26eb9' => [
-        'I still have a young attitude.',
-        'Pat Morita',
+    'f4068d4a-de72-5237-8319-2cbf5f982394' => [
+        'I can hold a cup of sake on a full moon in Japan, and the reflection of the moon in that little cup can make me feel so enthusiastic about beauty. That one good, magical moment can give me enough to create other things like the teardrop earring or necklace.',
+        'Elsa Peretti',
     ],
-    '747d3ed3-ad1f-5c70-b7e5-faa348beda94' => [
-        'If you live to be one hundred, you\'ve got it made. Very few people die past that age.',
-        'George Burns',
+    'f664279f-efa6-5456-ba1f-61fbb7ed32ba' => [
+        'I define success as being comfortable with yourself and your life. And that is about as good as it gets, really.',
+        'Treat Williams',
     ],
-    'd6b209f9-27f9-5ff6-be6f-214afa86a3a1' => [
-        'You, Eternal Trinity, are my Creator, and I am the work of Your hands, and I know through the new creation which You have given me in the blood of Your Son, that You are enamored of the beauty of Your workmanship.',
-        'Catherine of Siena',
+    'e028892b-e6ca-5edb-82f2-9cb127bb7e65' => [
+        'He who has so little knowledge of human nature as to seek happiness by changing anything but his own disposition will waste his life in fruitless efforts.',
+        'Samuel Johnson',
     ],
-    '5546a744-3358-59f4-87d4-30b7919fea02' => [
-        'Each success only buys an admission ticket to a more difficult problem.',
-        'Henry Kissinger',
+    '6435c7b6-ae92-53f1-9857-b482949e4283' => [
+        'The goal is not to get rich. The goal is to live rich.',
+        'Darren Hardy',
     ],
-    'adb23b40-6b47-5169-b6eb-b647b64cbded' => [
-        'I\'ve never met a person who does not want a safer world, better medical care and education for their children, and peace with their neighbours. I just don\'t meet those people. What I meet, over and over again, as I travel around, is that the essential human condition is optimistic - in every one of these places.',
-        'Eric Schmidt',
+    '1d4759c9-2ca6-54b2-ba9b-b50358e2270d' => [
+        'People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.',
+        'Rob Siltanen',
     ],
-    '22d09f69-7567-56a7-80f3-2d7d0dbccac5' => [
-        'It\'s sometimes tiring to get off a long-haul flight and go straight to the studio for a shoot, but if you really plan everything well, you can get so much out of combining travel with work.',
-        'Alek Wek',
+    '0f8162bc-da19-51fc-beb8-f41b0c46fafc' => [
+        'The fox has many tricks. The hedgehog has but one. But that is the best of all.',
+        'Ralph Waldo Emerson',
     ],
-    '2f61418e-45a1-53b3-82ac-22f50d1c524c' => [
-        'I am not afraid of tomorrow, for I have seen yesterday and I love today.',
-        'William White',
+    'aa1a8b81-62dc-54b0-895c-7c2562e1e9bf' => [
+        'Everyone wants an iPhone, but it would be impossible to design an iPhone in China because it\'s not a product; it\'s an understanding of human nature.',
+        'Ai Weiwei',
     ],
-    '48197ac5-475b-5072-8855-cf22789a0588' => [
-        'Competence, like truth, beauty, and contact lenses, is in the eye of the beholder.',
-        'Laurence J. Peter',
+    'd4a2c863-2b2e-5eaf-ab97-3f4d6eeecba1' => [
+        'Luck is what happens when preparation meets opportunity.',
+        'Seneca',
     ],
-    '9a5d27af-7a2e-5bfe-a8fa-c7a6f73c8dd8' => [
-        'The day you decide to do it is your lucky day.',
-        'Japanese proverb',
+    '9aa2a23b-6aa0-5516-8344-8f710a484832' => [
+        'Sometimes the best way to learn something is by doing it wrong and looking at what you did.',
+        'Neil Gaiman',
     ],
-    '19e00cfa-c3be-56af-a6d6-01f0a8d03483' => [
-        'I drank some boiling water because I wanted to whistle.',
-        'Mitch Hedberg',
+    '4f3d3324-2510-5d01-bf94-6cfc0c4e2327' => [
+        'All my books reflect travel adventures of some kind, and all have a soul: a spiritual or mystical underpinning.',
+        'O. R. Melling',
     ],
-    '5b46d9e4-8842-5ada-9ba4-c72d1fe243ef' => [
-        'I have a simple philosophy: Fill what\'s empty. Empty what\'s full. Scratch where it itches.',
-        'Leonardo DiCaprio',
+    '37c3e6e2-0392-59a6-9090-c2eca562feed' => [
+        'There is simply no substitute for hard work when it comes to achieving success.',
+        'Heather Bresch',
+    ],
+    '11781033-1673-5094-a90e-1fcd557b18dc' => [
+        'The beginning is the most important part of the work.',
+        'Plato',
+    ],
+    'f47d4941-6038-5077-a008-c6d123f09b42' => [
+        'As we are liberated from our own fear, our presence automatically liberates others.',
+        'Nelson Mandela',
+    ],
+    'fd4dc187-7dfa-5983-bf55-9263813e464d' => [
+        'America\'s trying to do the best for its veterans.',
+        'R. Lee Ermey',
+    ],
+    '1003a777-dfc4-589e-95f0-418991235403' => [
+        'And it was a great experience, you know, to travel the world and compete at a certain level. It teaches you discipline, focus, and certainly keeps you out of trouble.',
+        'Jason Statham',
+    ],
+    '8934161a-2581-5ff6-9bb5-6b1f0d226938' => [
+        'My dad instilled in me a great sense of humor. I wasn\'t bullied at school because my outward attitude was confident, and that helps.',
+        'Warwick Davis',
+    ],
+    'f34a3e4c-e86b-561c-bed9-58966f78f0ff' => [
+        'Here is my wish and my desire and my pledge as well: that we remember our true nature and our womanhood. That we own and know that we are more than our bodies and yet our bodies are these sacred, beautiful, rhythmic houses for us.',
+        'Tracee Ellis Ross',
+    ],
+    '6052e2be-0e3b-5ea2-b627-4745d3f851c2' => [
+        'Beauty deprived of its proper foils and adjuncts ceases to be enjoyed as beauty, just as light deprived of all shadows ceases to be enjoyed as light.',
+        'John Ruskin',
+    ],
+    'f6c8de2b-e633-5a30-929e-eebef0bdee19' => [
+        'This has always been a motto of mine: Attempt the impossible in order to improve your work.',
+        'Bette Davis',
+    ],
+    '4a397241-420a-5145-884f-bf32ad34f07e' => [
+        'Every job has its downside. For example, being in a band; the travel part of it - getting picked up from your house in a car, going to the airport, getting on a plane, going from the airplane to a van, then going from the van to a hotel.',
+        'Dave Lombardo',
+    ],
+    'fe3575f3-8db8-5695-bd88-1801b2e05a7b' => [
+        'I would like to wish the England squad every success. I would also very much like to extend those wishes to Martin Johnson, Brian Smith, Mike Ford, John Wells, Graham Rowntree and the rest of the England 2011 World Cup management team who have been fantastic and deserve people to know that.',
+        'Jonny Wilkinson',
+    ],
+    '6df68e25-a9d8-52cb-acd1-0440db0243c3' => [
+        'Finding good partners is the key to success in anything: in business, in marriage and, especially, in investing.',
+        'Robert Kiyosaki',
+    ],
+    '61f49367-8527-5ddb-a306-5d65a4e52260' => [
+        'The heart has its reasons which reason knows not of.',
+        'Blaise Pascal',
+    ],
+    '17f82299-1724-5649-b9b1-0e1f9dedfbee' => [
+        'Every man has his follies - and often they are the most interesting thing he has got.',
+        'Josh Billings',
+    ],
+    'd9d31c2e-654a-5537-837a-fa86589e1359' => [
+        'Right actions in the future are the best apologies for bad actions in the past.',
+        'Tryon Edwards',
+    ],
+    '275b392f-c673-5df3-8224-a8a1edd73876' => [
+        'When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.',
+        'W. Clement Stone',
+    ],
+    'd7d74055-4cca-51d5-9edf-27bbfe3cbb6c' => [
+        'I have a lot of very close girlfriends and sisters - I\'m from an all female family. My father often quips that even the cat was neutered!',
+        'Shirley Manson',
+    ],
+    '1154ea6f-9981-5c99-bcdf-29e7a6c05f92' => [
+        'We choose our destiny in the way we treat others.',
+        'Wit',
+    ],
+    '0953c70c-6708-58c4-b6c1-34033f10aa95' => [
+        '\'Chef\' doesn\'t mean that you\'re the best cook, it simply means \'boss.\'',
+        'Tom Colicchio',
+    ],
+    'eb5b1837-189d-5450-b896-4ef1d8192d20' => [
+        'The positive and negative states of being bring about action. They cause the loss of balance and of happiness. They cause the eternal revolutions - the changes that follow one upon the other. They explain why happiness cannot be achieved in time.',
+        'Piet Mondrian',
+    ],
+    '5e2c7e98-5048-51a3-ae26-fa2e2b3e94dc' => [
+        'Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on.',
+        'Paula Abdul',
+    ],
+    '5afd7ecb-cece-5f24-bf1e-9ada4f04608f' => [
+        'It is by acts and not by ideas that people live.',
+        'Anatole France',
+    ],
+    '1ddaaebc-f9dd-58f3-b51e-ff1cf0e15f99' => [
+        'Even when I\'m playing someone named \'Fat Amy.\' I\'m all about confidence and attitude.',
+        'Rebel Wilson',
+    ],
+    'e0a088e0-cae6-5500-a5c1-fb2f22032044' => [
+        'Our national flower is the concrete cloverleaf.',
+        'Lewis Mumford',
+    ],
+    'e581c45f-025b-5632-a5c0-6e04a77c05df' => [
+        'Most powerful is he who has himself in his own power.',
+        'Seneca',
+    ],
+    'cdb0f92d-5cbe-55a6-ba06-07e556403374' => [
+        'I would vote for the man who\'s lived life, who\'s done different occupations, who\'s been out in the real world and struggled to make a living, struggled to raise a family, struggled with life as it exists. So I\'d vote for experience, honest experience.',
+        'Oliver Stone',
     ],
 ];

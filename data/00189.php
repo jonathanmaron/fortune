@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'ddbd28f9-69a6-58ca-a29b-b83920936374' => [
-        'Unemployment is capitalism\'s way of getting you to plant a garden.',
-        'Orson Scott Card',
+    '9fad9a2a-d4a1-5297-961b-090b5e66e635' => [
+        'If you would take, you must first give, this is the beginning of intelligence.',
+        'Lao Tzu',
     ],
-    '2e41b150-dc60-5d0a-81b8-48d57b3c9a6c' => [
-        'Being famous is having the power to really implement positive change in the world, and it gives you the power to do what you want. I\'m really grateful for it because I can play music and people will listen.',
-        'Sean Lennon',
+    '04e71e3a-256d-5243-a51f-3d19c230b44b' => [
+        'I\'m a bit of a P. T. Barnum. I make stars out of everyone.',
+        'Donald Trump',
     ],
-    '4adc1628-6c90-5ca5-8f35-b0d3fa976197' => [
-        'I reached rock bottom halfway through college. And it was - because of all the pressure that I think we\'re talking about right now - the pressure to learn how to budget, the pressure to really abandon everything that you ever learned. You don\'t have a comfort zone anymore. You don\'t have your neighborhood. You don\'t have your family with you.',
-        'Jidenna',
+    'a325372e-de9e-53a2-937f-6e3680e3264a' => [
+        'Don\'t worry about the world coming to an end today. It is already tomorrow in Australia.',
+        'Charles M. Schulz',
     ],
-    'f06e8c62-5a5b-51ba-9e16-f4bb43af3361' => [
-        'Age is something that doesn\'t matter, unless you are a cheese.',
-        'Luis Bunuel',
+    '01a6e3d3-ab5c-5dde-8499-274ef919e8c5' => [
+        'I own more pairs of Calvin Klein underwear than I can count. At any given time, I probably have 50 to 60 pairs on deck. I travel with an entire suitcase of underwear and t-shirts, and they\'re all Calvin Klein.',
+        'Trey Songz',
     ],
-    'dd0430b7-5e18-5851-9488-cf1281deb312' => [
-        'Strive not to be a success, but rather to be of value.',
-        'Albert Einstein',
+    '0f22c0af-fe51-58a9-aaf9-b39c32252a73' => [
+        'When you put a lot of hard work into one goal and you achieve it, that\'s a really good feeling.',
+        'Derek Jeter',
     ],
-    'a9f038d9-f78c-5d5a-9a8d-7b6ee27f1c55' => [
-        'Like a lot of you, I grew up in a family on the ragged edges of the middle class. My daddy sold carpeting and ended up as a maintenance man. After he had a heart attack, my mom worked the phones at Sears so we could hang on to our house.',
-        'Elizabeth Warren',
+    '5c0168d2-5a9d-5581-8ef9-6ab918fda137' => [
+        "Don\u{92}t lose a woman that has seen your flaws and still loves you.",
+        'Nizar Qabbani',
     ],
-    'f415cdf9-ab5d-5445-996b-5c70e5889bf2' => [
-        'Parrots make great pets. They have more personality than goldfish.',
-        'Chevy Chase',
+    '79044357-672f-56b3-a998-0c86fb705907' => [
+        'You can\'t make positive choices for the rest of your life without an environment that makes those choices easy, natural, and enjoyable.',
+        'Deepak Chopra',
     ],
-    'eff8b08e-77ba-5dcd-ac88-25b89a974a6c' => [
-        'To these ideals which were instilled in me when I was a youth, I attribute in a large degree the success that was mine on the bicycle tracks of the world.',
-        'Major Taylor',
+    '2574f9e2-0dbe-5e75-b971-c8fd621bea4a' => [
+        'I think that somebody with the resources and innovation and the idea is going to come out of nowhere and come up with a successful space travel program.',
+        'Kevin J. Anderson',
     ],
-    'a3e265e2-6047-549f-94b7-fd42668c1162' => [
-        'Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.',
-        'Arthur Conan Doyle',
+    '680340ae-d342-5144-bdd5-ef4a93afa47d' => [
+        'Like all best families, we have our share of eccentricities, of impetuous and wayward youngsters and of family disagreements.',
+        'Queen Elizabeth II',
     ],
-    'f8b0c0aa-76d5-5b66-894c-82b6d2ff63a5' => [
-        'Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.',
-        'Henry James',
+    '91e6f698-2c60-5e25-bc02-5af158157dd7' => [
+        'Beauty makes idiots sad and wise men merry.',
+        'George Jean Nathan',
     ],
-    '4648d8b1-b94a-524c-aef8-a46ba637394d' => [
-        'Loneliness adds beauty to life. It puts a special burn on sunsets and makes night air smell better.',
-        'Gordon B. Hinckley',
+    '51cf78ca-dfe6-518d-b621-b1753fda59a9' => [
+        'To hell with circumstances; I create opportunities.',
+        'Bruce Lee',
     ],
-    '4d5fb19c-ddd8-55af-b968-230e1eb27ed0' => [
-        'You may have to fight a battle more than once to win it.',
-        'Margaret Thatcher',
+    '6e0903c2-1ef2-5224-ba42-21af65aa6536' => [
+        'Of all the things I\'ve done, the most vital is coordinating those who work with me and aiming their efforts at a certain goal.',
+        'Walt Disney',
     ],
-    'da51d1b1-ada7-5451-84f2-5c8c66e50f00' => [
-        'Life is painting a picture, not doing a sum.',
-        'Myles Munroe',
+    '8c9cdd95-ee41-5b28-9da1-4cd23dd3b01d' => [
+        'Family and friendships are two of the greatest facilitators of happiness.',
+        'John C. Maxwell',
     ],
-    'e9009fda-0264-5ebd-baa3-da510aaadc23' => [
-        'I developed a problem with authority. Any time that authority was what I interpreted as being unjust, I stood up to it, and that became my personality.',
-        'Tom Petty',
+    'ba3efebf-06f4-57a8-ab51-bac1341c54c3' => [
+        'We are here to add what we can to life, not to get what we can from life.',
+        'Franklin D. Roosevelt',
     ],
-    '4a56b74b-68ce-5b5d-8b72-9aefb8bafdc9' => [
-        'When Maurice touched a keyboard, it was like something from a movie, magical. He would always give you something from a movie, and you\'d go, what did you just play... immediately inspirational writings, amazing. That\'s what we\'re going to miss.',
-        'Robin Gibb',
+    '917e606c-2d5e-5080-a575-347f5186ef1f' => [
+        'The boundary between what can be and your life, is your ideas',
+        'Pat Waldron',
     ],
-    '58b4b77f-f1a0-5f17-a2cc-79af50d38ccc' => [
-        'Can miles truly separate you from friends... If you want to be with someone you love, aren\'t you already there?',
-        'Richard Bach',
+    'df88e4ce-358f-5481-9bc4-da82ce086519' => [
+        'Life was a funny thing that happened to me on the way to the grave.',
+        'Quentin Crisp',
     ],
-    'e9ab7a9e-03e5-58d2-bbdd-c82cd4ea086c' => [
-        'Be sure you put your feet in the right place, then stand firm.',
-        'Abraham Lincoln',
+    '2c1a7f21-d9fa-5d6c-b273-1bbd1c6c899e' => [
+        'As no one knew much about my mental illness, a lot of people had the attitude that I had the capability to \'kick it\' and get better instantly. This was the most frustrating attitude for me.',
+        'Andy Behrman',
     ],
-    '5c818a08-2192-5eb3-894f-59f2593cc535' => [
-        'Things that were hard to bear are sweet to remember.',
-        'Seneca',
+    '18dabcd8-a139-5618-8488-c01dadc7b849' => [
+        'I love to swim. When I jump in the water, I feel like I\'m 12 years old again. It\'s really funny how it does that to me.',
+        'Summer Sanders',
     ],
-    '2fcaa73b-8f2a-5d74-b6b3-c0adfb2de1d4' => [
-        'A funny thing happens in real estate. When it comes back, it comes back up like gangbusters.',
-        'Barbara Corcoran',
+    '06df415b-9746-5387-81d5-d6bbc407cb81' => [
+        'Go big or go home. Because it\'s true. What do you have to lose?',
+        'Eliza Dushku',
     ],
-    '16f53bd0-edc1-5799-860d-29edec50ac45' => [
-        'Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.',
-        'Ovid',
+    'f3468162-5607-5e9d-81df-2e8eaa781d3c' => [
+        'An ounce of emotion is equal to a ton of facts.',
+        'John Junor',
     ],
-    '8a695a4d-ec9b-5914-a01d-a35c44093460' => [
-        'A smile is the chosen vehicle of all ambiguities.',
-        'Herman Melville',
+    'adf84b0d-6c0d-576e-a4b7-be5867f0645f' => [
+        'Life is a culmination of the past, an awareness of the present, an indication of a future beyond knowledge, the quality that gives a touch of divinity to matter.',
+        'Rabindranath Tagore',
     ],
-    'bf4daf3d-a2cc-54d8-9ab7-6f9d092135a3' => [
-        'Age is not measured by years. Nature does not equally distribute energy. Some people are born old and tired while others are going strong at seventy.',
-        'Dorothy Thompson',
+    'ae6536c0-67af-5f6a-9b60-ff9ec856faa6' => [
+        'If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.',
+        'Daisaku Ikeda',
     ],
-    '6e352549-00b7-56ec-8e3a-6d7afecad1df' => [
-        'I am fascinated by what is beautiful, strong, healthy, what is living. I seek harmony.',
-        'Leni Riefenstahl',
+    'f00cbffe-be44-51c4-89ef-19abb473ce4c' => [
+        'I can accept failure, everyone fails at something. But I can\'t accept not trying.',
+        'Michael Jordan',
     ],
-    'c7a6d5fd-53d1-5d08-bcfc-6857327d8b3c' => [
-        'I think it\'s evident that expensive neighborhoods in Seattle are surrounded by natural beauty. That elevates city life. So if we can make cities more attractive in the long run, we can be smarter about issues like development, zoning and economics.',
-        'Stone Gossard',
+    'd9da140d-9031-5bfa-bec7-a0b991fc169e' => [
+        'A family is a place where principles are hammered and honed on the anvil of everyday living.',
+        'Charles R. Swindoll',
     ],
-    '7089ee77-7b95-5086-b901-57ecd6960469' => [
-        'There are two ways to extend a business. Take inventory of what you\'re good at and extend out from your skills. Or determine what your customers need and work backward, even if it requires learning new skills. Kindle is an example of working backward.',
-        'Jeff Bezos',
+    '6fa656d9-2049-5eac-8959-d698fd9f1071' => [
+        'I\'m a very driven, ambitious, positive person. But I\'m a spiritual person as well.',
+        'Victoria Beckham',
+    ],
+    '777c6a70-bf2b-5571-9711-4bc366b8341a' => [
+        'If you work hard and you do your best, you can do anything.',
+        'Erin Heatherton',
+    ],
+    'd3f545da-c706-55fb-a593-671ba9a333ac' => [
+        'You stand with the least likely to succeed until success is succeeded by something more valuable: kinship. You stand with the belligerent, the surly and the badly behaved until bad behavior is recognized for the language it is: the vocabulary of the deeply wounded and of those whose burdens are more than they can bear.',
+        'Greg Boyle',
+    ],
+    '3ef8ed33-f0a8-5ed1-b899-acca19add20e' => [
+        'Never once does \'Snow White\' herself look in the mirror so she isn\'t aware of her beauty or what apparently that does to people. It\'s really just the queen and the prince that talk about it.',
+        'Lily Collins',
+    ],
+    '3af8e644-644b-5c18-b088-3dfca552bff2' => [
+        'If you\'re in my shoes, and your goal is to leave people with the biggest possible smile on their face, then doing the meet-and-greet afterwards makes sense.',
+        'Mick Foley',
+    ],
+    'b8d239ad-15c5-5b7e-8e7d-7d104567537b' => [
+        'I have two rules for a great book: make me think and make me smile.',
+        'Adam Grant',
+    ],
+    '52fa7b30-162b-585b-b9db-21c065c0878e' => [
+        'Life is fleeting, and permanence in this world is something we all strive for. The best way to achieve permanence is through philanthropy.',
+        'Ram Shriram',
+    ],
+    '7c975309-a1c2-59a8-9960-114c6ec1b715' => [
+        'I\'d never stop traveling, and I love bringing my family along with me. My children have points of reference everywhere, friends from Milan to Los Angeles. I think it\'s really fun for them.',
+        'Valeria Mazza',
+    ],
+    '7bff62b9-34d8-5575-9b2a-231e534be615' => [
+        'Tomorrow is the most important thing in life. Comes into us at midnight very clean. It\'s perfect when it arrives and it puts itself in our hands. It hopes we\'ve learned something from yesterday.',
+        'John Wayne',
+    ],
+    'dec31a99-e211-5304-a147-b406a4e1aff0' => [
+        'Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.',
+        'Madame de Stael',
+    ],
+    'ec628bce-6218-5eb7-ad30-cbc1023c5802' => [
+        'The most effective check and balance on government has been an independent press which maintains its credibility by ensuring that its criticism is balanced and based on fact - based indeed on solid journalistic work.',
+        'Malcolm Turnbull',
+    ],
+    '963cf803-0e6b-5fd0-aae4-95f4fb4ecec0' => [
+        'Bob Altman had this relaxed but serious attitude. Everybody loved him. I wanted him to adopt me.',
+        'Steve Buscemi',
+    ],
+    '9d4819ab-1ea7-587c-b97f-be1c84b13f41' => [
+        'Do not wait to strike till the iron is hot; but make it hot by striking.',
+        'William Butler Yeats',
+    ],
+    '6acbf926-d4e9-5f0c-bc79-fe06695aff74' => [
+        'There\'s going to be space travel at some point.',
+        'Anne Wojcicki',
+    ],
+    '1c64a5bf-c39a-5f9a-a598-7c3f3b6b9730' => [
+        'Either move or be moved.',
+        'Ezra Pound',
+    ],
+    'f2d855c6-b8cf-5bab-a494-238c57349caa' => [
+        'I love airports because funny things always happen at them. They\'re giant complexes full of urgency, seriousness, and confusion. Where am I supposed to be? Which way do I go? And that\'s just the staff.',
+        'Rhys Darby',
+    ],
+    '91155dc2-7ddb-5c8e-b4b7-f04daf7e91d8' => [
+        'Genius is one percent inspiration and ninety-nine percent perspiration.',
+        'Thomas Edison',
+    ],
+    '7777fe42-ea49-56b0-93a8-dcc98d27fe4b' => [
+        'Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.',
+        'Unknown',
+    ],
+    'dcb2f02c-f836-5b53-9ab8-d7888cdc8dbf' => [
+        'The Antichrist will be the infernal prince again for the third and last time... so many evils shall be committed by the means of Satan, the infernal Prince, that almost the entire world shall be found undone and desolate. Before these events happen, many rare birds will cry in the air, \'Now! Now!\' and sometime later will vanish.',
+        'Nostradamus',
+    ],
+    '8146fc85-bf29-5800-b216-6d33819ddfe8' => [
+        'Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.',
+        'Bill Veeck',
+    ],
+    '5b9fc73d-680c-53e9-89a5-d3f84a036c11' => [
+        'An artist is an artist only because of his exquisite sense of beauty, a sense which shows him intoxicating pleasures, but which at the same time implies and contains an equally exquisite sense of all deformities and all disproportion.',
+        'Charles Baudelaire',
+    ],
+    'bf4298ef-ae35-5b43-b5d5-fbcb65d35573' => [
+        'I suffered from post-natal depression after Rowan was born. I had a healthy, beautiful baby girl and I couldn\'t look at her. I couldn\'t hold her, smile at her. All I wanted was to disappear and die.',
+        'Brooke Shields',
+    ],
+    'a140a296-9b87-5e8f-a267-ef753ce1133f' => [
+        'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
+        'Gabrielle Aplin',
+    ],
+    '55bccc3b-9f8e-5386-a524-e2a7b68c2721' => [
+        'Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time',
+        'Thomas Edison',
+    ],
+    '2f86ebba-2a8d-50ca-915b-8b64bbb8e496' => [
+        'All the universe is full of the lives of perfect creatures.',
+        'Konstantin Tsiolkovsky',
+    ],
+    '1c3086b9-a090-5f5f-8973-8e07ad787930' => [
+        'The nature of good fiction is that it dwells in ambiguity.',
+        'E. L. Doctorow',
     ],
 ];

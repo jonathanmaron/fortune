@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '6b4b0958-b748-520b-a69d-7b8fa87376c6' => [
-        'A beam of light takes about two million years to reach from us to the Andromeda nebula. But my thought covers this distance in a few seconds. Perhaps some day some intermediate form of body and mind may permit us to say that we actually can travel faster than light.',
-        'Ragnar Frisch',
+    '46f03f7b-afbb-5220-8b91-1e7e4c2f8739' => [
+        'May the forces of evil become confused on the way to your house.',
+        'George Carlin',
     ],
-    'ee18192a-b495-5cb6-8910-db999b16989e' => [
-        'Eyebrows are really important because they structure the face. In school it was funny because I was always the one walking around with tweezers plucking my girlfriends\' eyebrows. I was really good; eyebrow tweezing runs in my family - my mother used to do mine, and I picked it up.',
-        'Rita Ora',
+    '6bce0c38-6844-5fc9-a92d-5277bd699535' => [
+        'If you\'re public speaking, imagine yourself feeling confident; if you\'re nervous about a date and thinking, \'I\'m gonna be a dork,\' picture yourself being funny. Then it will be familiar to your brain.',
+        'Lindsey Stirling',
     ],
-    'ce5068c1-7c57-50b8-8802-6d091d8f89ea' => [
-        'I\'m thankful for the three ounce Ziploc bag, so that I have somewhere to put my savings.',
-        'Paula Poundstone',
+    '16be6728-d62e-5036-b08b-a05589858d38' => [
+        'I hope that my family will continue in another thousand years.',
+        'Frederik, Crown Prince of Denmark',
     ],
-    '7d0ddceb-f059-5c9e-90b4-4d6b7a432567' => [
-        'I come from a coffee-loving family, and you can always tell when my sister and I have been around, because both of us collect all the dead coffee from everyone\'s morning cup, pour it over ice, and drink it. This is a disgusting habit.',
-        'Laurie Colwin',
+    '44aec7ad-07fc-5187-9077-accfb43ff4f6' => [
+        'Integrity reveals beauty.',
+        'Thomas Leonard',
     ],
-    'd539c188-9eac-5596-a0a8-19df38deecbe' => [
-        'The trite saying that honesty is the best policy has met with the just criticism that honesty is not policy. The real honest man is honest from conviction of what is right, not from policy.',
-        'Robert E. Lee',
+    'cfd5721b-5ad6-5460-af89-6102d4a8ad8c' => [
+        'Truth is by nature self-evident. As soon as you remove the cobwebs of ignorance that surround it, it shines clear.',
+        'Mahatma Gandhi',
     ],
-    '683c25b9-cde9-5532-b20d-2f402c1eab20' => [
-        'Anyone can exist. Most fools do. It takes guts to truly Live.',
-        'RMV',
+    '51e16b90-54d4-5998-96e1-6cdcef5a20d6' => [
+        'Comedy was my sport. It taught me how to roll with the punches. Failure is the exact same as success when it comes to comedy because it just keeps coming. It never stops.',
+        'Emma Stone',
     ],
-    '171d8f09-c0c2-5e24-bb8e-255a56a4f4f6' => [
-        'Human Nature is the only science of man; and yet has been hitherto the most neglected.',
-        'David Hume',
+    '330217cb-6f0f-52d1-8078-7ae2ee6d77e2' => [
+        'Life\'s more amusing than we thought.',
+        'Morgan Freeman',
     ],
-    '4fce39f7-54a6-5ed9-93ea-f347a80e5f59' => [
-        'Sometimes the best way to learn something is by doing it wrong and looking at what you did.',
-        'Neil Gaiman',
+    '0fa34f88-0f26-5924-9491-d912662c2a62' => [
+        'A day spent without the sight or sound of beauty, the contemplation of mystery, or the search of truth or perfection is a poverty-stricken day; and a succession of such days is fatal to human life.',
+        'Lewis Mumford',
     ],
-    'e583dcee-c9e1-5f2c-b6f3-51ce09301f9e' => [
+    '313b7553-8f77-50bc-9444-ea6ea8810a4c' => [
+        'Adversity isn\'t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.',
+        'Byron Pulsifer',
+    ],
+    '5f593f81-0981-51f3-8aab-e47768b416fd' => [
+        'I\'m not a \'sexy\' \'beautiful\' woman. It takes a lot of work to make me look like a girl.',
+        'Megan Fox',
+    ],
+    '0d3ba7c7-bd5a-5f34-b384-432fef14bd28' => [
         'I am obsessed with planning travel! Not just traveling, which I love, but the whole planning process and all the details that go into it. I subscribe to all these travel blogs and airline forums and research hotels and activities and destinations for hours on end, and I volunteer to plan trips for everyone I know.',
         'Lauren Weisberger',
     ],
-    'a87b7bcf-315d-5ce1-b3ee-5c5931f14ccd' => [
-        'This is a fundamental view of the world. It says that when you build a thing you cannot merely build that thing in isolation, but must repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it.',
-        'Christopher Alexander',
+    '7918326a-371d-5915-88fe-53017de2f6fa' => [
+        'To love beauty is to see light.',
+        'Victor Hugo',
     ],
-    '61655c18-89c9-5b7b-9a11-3a2ac767d483' => [
-        'You should tell yourself frequently \'I will only react to constructive suggestions.\' This gives you positive ammunition against your own negative thoughts and those of others.',
-        'Jane Roberts',
+    '3cc0cff3-8a4d-591a-a042-14a395c7513b' => [
+        'Your chances of success are directly proportional to the degree of pleasure you desire from what you do. If you are in a job you hate, face the fact squarely and get out.',
+        'Michael Korda',
     ],
-    '41da9560-0cc4-5ad6-ac7f-6405323bdb2e' => [
-        'Most folks are about as happy as they make up their minds to be.',
-        'Abraham Lincoln',
+    '2f7c0d92-bddb-5bfb-8e96-75d3d4bfbd93' => [
+        'I love Jesus Christ with all my heart and everything He stands for. I think that sums up everything that I want for my life, everything I want for my family, everything I want for my career. I want it to be entertaining. I want people to smile and tap their toes, but I want it to be meaningful when the day is done.',
+        'Josh Turner',
     ],
-    '49117a58-d1c4-57c8-935e-32e2640d8c7f' => [
-        'I come from a working-class family, and I\'ve been working since I was 13, from babysitting to blueberry picking to factory work to bookstore work. And of course, being a mother and homemaker, the hardest work of all.',
-        'Patti Smith',
+    '8eff5c8c-ad99-5d73-8ce2-ded499201075' => [
+        'I love Jonathan Richman - I love a lot of his music, and the thing I really like about him is his attitude. He seems very happy, and the way he performs is like, \'Don\'t worry, everybody, just get into it. I\'m just having fun; I like when you guys are having fun.\'',
+        'Mac DeMarco',
     ],
-    'c03c6a08-880a-5031-9801-be8701e61d46' => [
-        'Everything has positive and negative consequences.',
-        'Farrah Fawcett',
+    '190bb5a2-f79b-5a9e-ac4d-bd3793dd99f6' => [
+        'I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.',
+        'Bernard Shaw',
     ],
-    'fdab371e-80aa-527c-b0f2-38250da3d6d9' => [
-        'Don\'t limit a child to your own learning, for he was born in another time.',
-        'Rabindranath Tagore',
+    '516bcd09-c28c-52e9-a51b-5056c7aca74e' => [
+        'The truth is that when Lennon is Bosephus, she is so mean to me. She can\'t smile because the mustache will come off. So in between takes, it\'s just scowling. And then when we are on camera, Bosephus treats me like a piece of meat. I\'m repulsed and also attracted to it.',
+        'Jessica St. Clair',
     ],
-    'e5c5ef7a-a554-5e8d-b518-8e15add9306d' => [
-        'It\'s a funny thing when you think you\'re dead. You\'re not terrified of it anymore. There\'s a sort of a epiphany to religious thing; it\'s not sort of church-based, but you end up with a serenity which you didn\'t have before, and I just simply enjoy it. It really does sound stupid, but I\'ve got to tell you it\'s made my life.',
-        'David Lange',
+    '86351393-e940-55d2-b600-8bfd7c718047' => [
+        'Sometimes you have to accept you can\'t win all the time.',
+        'Lionel Messi',
     ],
-    'f3d94bb9-8a89-5642-a6fe-77374fb813e8' => [
-        'Life shrinks or expands in proportion to one\'s courage.',
-        'Anais Nin',
+    '6e31c8f6-40f2-5bbf-bac8-acdb9ea3ad41' => [
+        'Putting good energy into your body and raising your serotonin will lead to a positive mood, exuding a more attractive glow.',
+        'Dylan Lauren',
     ],
-    'b95b7ca1-3c6f-5481-965c-47ad7ad52cc2' => [
-        'I don\'t have any beauty shop memories. I remember the barber shop.',
-        'Jenifer Lewis',
+    '26e5ca30-b7a0-53b1-9d10-33100c0087a5' => [
+        'One by one, all of my college buddies had taken these nothing-special entry-level jobs, pushing papers for $18,000 or $21,000 a year (and hating the work besides), and I\'d turn up my nose and tell them I wasn\'t about to get out of bed for anything less than $50,000. That was my line, my attitude.',
+        'Bill Rancic',
     ],
-    'a5b2b7a6-0496-56f9-8015-bf6d598a7a7a' => [
-        'Success is the progressive realization of a worthy goal or ideal.',
-        'Earl Nightingale',
+    '4439ada9-5959-54e5-9f07-0ee8fa24b9b3' => [
+        'Let\'s find those areas where modest and reasonable tax cuts will have the biggest positive impact on our economy, and which will improve the lives of those who need it most: working families, retirees, and small business owners.',
+        'Larry Hogan',
     ],
-    'dcd4f659-a992-5963-bb62-68b2b4768f75' => [
-        'The road to success is not easy to navigate, but with hard work, drive and passion, it\'s possible to achieve the American dream.',
-        'Tommy Hilfiger',
+    'f741657e-51d6-5a7f-85ca-0b01f8b62e9b' => [
+        'Sometimes you get the best light from a burning bridge.',
+        'Don Henley',
     ],
-    '7c3f8ec1-f57c-581c-bd61-9c158b3e5b9b' => [
-        'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
-        'Bruce Lee',
+    '63a4f4dd-8af6-5c08-9dce-c4e880ac38de' => [
+        'There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.',
+        'Jiddu Krishnamurti',
     ],
-    '9fe19041-ac87-51e5-b024-aa5c55427b51' => [
-        'High heels are like a beauty lift. In a flat, you can feel beautiful, but a stiletto changes your mood, how you move - like a wild, beautiful animal. The idea was always to follow a woman\'s wardrobe, her desires.',
-        'Giuseppe Zanotti',
+    'f2c38a18-d75c-5f55-80f8-68ee5d7a16b7' => [
+        'I travel a lot and rarely make it home to Seattle.',
+        'Hope Solo',
     ],
-    '46577cf0-0e97-54fd-81b4-7c73313109c5' => [
-        'Hope arouses, as nothing else can arouse, a passion for the possible.',
-        'William Sloane Coffin',
+    'f27a1f9f-214a-5992-b360-d8882e2f3ae8' => [
+        'Our deep respect for the land and its harvest is the legacy of generations of farmers who put food on our tables, preserved our landscape, and inspired us with a powerful work ethic.',
+        'James H. Douglas, Jr.',
     ],
-    '9a4e7440-2cf9-58ec-b3dd-f6c47be9b176' => [
-        'When Fortune smiles, I smile to think how quickly she will frown.',
-        'Robert Southwell',
+    '6aefe01d-8549-5aa9-802d-d9cad1867136' => [
+        'Success isn\'t always about greatness. It\'s about consistency. Consistent hard work leads to success. Greatness will come.',
+        'Dwayne Johnson',
     ],
-    '4b44d16a-9e00-5963-a4c5-c11517d496c2' => [
-        'I want to be a young dad. By 25 or 26 I want to see myself, like, married or start looking for a family.',
+    'f8fb8e7f-d7f0-596d-b126-7b608400756f' => [
+        'Happiness is nothing but good health and freedom, and money is the single best way you can buy your freedom.',
+        'Scott Adams',
+    ],
+    'c81bd1d5-69e6-5ddc-961e-72771d7379b7' => [
+        'A woman knows by intuition, or instinct, what is best for herself.',
+        'Marilyn Monroe',
+    ],
+    '9854e1ff-3787-509a-bf96-728f5c343771' => [
+        'Ostensibly rigorous and realistic, contemporary conservatism is an ideology of denial. Its symbol is a smile button.',
+        'Christopher Lasch',
+    ],
+    '5bdead59-48aa-5730-9b26-790109af772a' => [
+        'I never travel without my diary. One should always have something sensational to read in the train.',
+        'Oscar Wilde',
+    ],
+    '5a0d6a6d-ec74-5c55-8790-cda0d8467c03' => [
+        'I\'m looking forward to influencing others in a positive way. My message is you can do anything if you just put your mind to it.',
         'Justin Bieber',
+    ],
+    'c3d1536e-b76a-569c-94b4-fd5f8123779f' => [
+        'Slow down and everything you are chasing will come around and catch you.',
+        'John De Paola',
+    ],
+    'f4ce96f9-ac1d-5f69-9154-cd0b630a304a' => [
+        'Working with Chiranjeevi sir, I realized the professionalism and attitude they used work with. It\'s just so contagious. When such a personality is doing that, everyone around, too, would do that out of respect. Work was far more efficient, smoother.',
+        'Kajal Aggarwal',
+    ],
+    'd28597b9-6fa6-5597-b92c-16295dcd16f9' => [
+        'Smile, smile, smile at your mind as often as possible. Your smiling will considerably reduce your mind\'s tearing tension.',
+        'Sri Chinmoy',
+    ],
+    '896dff71-efa2-5213-bedd-2423ae9c0ce4' => [
+        'All water has a perfect memory and is forever trying to get back to where it was.',
+        'Toni Morrison',
+    ],
+    '2a6cd14b-de11-57d2-8faf-315078a991f8' => [
+        'Music is love, love is music, music is life, and I love my life. Thank you and good night.',
+        'George S. Patton',
+    ],
+    '5b433e46-f41e-5ab5-a678-21128bfbe995' => [
+        'I was always really proud of the fact that I had a very positive influence as a role model.',
+        'David Cassidy',
+    ],
+    '3d362edb-e0a0-5bb4-80c9-bea3827c35f3' => [
+        'So to me, Texas Hold \'em puts me to sleep. At least when you play stud, you can be funny as you deal. Somebody some day is going to come up with a Stud show that\'s going to work.',
+        'Joseph Bologna',
+    ],
+    'f60f3738-1b88-51c1-baae-8f1ff1958f95' => [
+        'Time is the father of truth, its mother is our mind.',
+        'Giordano Bruno',
+    ],
+    '189d5c75-9ec1-5b04-8946-86b4a3c8bb5e' => [
+        'Instead of yelling and spanking, which don\'t work anyway, I believe in finding creative ways to keep their attention - turning things into a game, for instance. And, when they do something good, positive reinforcement and praise.',
+        'Patricia Richardson',
+    ],
+    '9c0af348-6ea0-5a5d-9c54-b0e4fa681257' => [
+        'Never write an advertisement which you wouldn\'t want your family to read. You wouldn\'t tell lies to your own wife. Don\'t tell them to mine.',
+        'David Ogilvy',
+    ],
+    '5199437f-31ce-5bb2-8ab8-91c5bf532dad' => [
+        'I think it\'s huge that I\'m wearing my natural hair texture on ABC in prime time. As Dr. Rainbow Johnson on \'Black-ish,\' I think my hair is part of the reality of this woman\'s life. She has four children and is an anesthesiologist and a wife. She doesn\'t have a lot of time to fuss with beauty, so her look is pretty simple.',
+        'Tracee Ellis Ross',
+    ],
+    '3ae65886-42ed-5d2d-91ab-252ac48416c6' => [
+        'Actually, I\'m an overnight success, but it took twenty years.',
+        'Monty Hall',
+    ],
+    'e2796839-7d17-5a72-bcb5-97e27ec067fd' => [
+        'It\'s a wonderful time when you sit down around the table for dinner and discuss life. No matter where you are, it gives the semblance of normalcy to my crazy world.',
+        'Melina Kanakaredes',
+    ],
+    '188c32e1-01ea-5063-898f-9a5746b3d137' => [
+        'The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.',
+        'Franklin D. Roosevelt',
+    ],
+    '602d691d-2e75-5bfa-bbab-4aff206ec2f8' => [
+        'There\'s always a period of curious fear between the first sweet-smelling breeze and the time when the rain comes cracking down.',
+        'Don DeLillo',
+    ],
+    '83e487b2-06df-575b-beb6-57088aa0e6c3' => [
+        'Those who look for the laws of Nature as a support for their new works collaborate with the creator.',
+        'Antoni Gaudi',
+    ],
+    '68230db0-5f4f-5e89-b547-d1b7edf0e7a8' => [
+        'The really magical things are the ones that happen right in front of you. A lot of the time you keep looking for beauty, but it is already there. And if you look with a bit more intention, you see it.',
+        'Vik Muniz',
+    ],
+    '0dee204a-f270-5f84-ac60-72b8ce0c1837' => [
+        'You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.',
+        'Emmet Fox',
+    ],
+    '975e97e9-2868-5f70-9b02-a33ac520f66f' => [
+        'Happiness doesn\'t depend on any external conditions, it is governed by our mental attitude.',
+        'Dale Carnegie',
     ],
 ];

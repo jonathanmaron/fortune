@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '7f583ebf-9dde-5862-9af0-ea795e9f8f00' => [
-        'I have the best roommates in the world! It creates a fun sense of family... and that\'s really important to me. Things can get so lonely without it.',
-        'Kristen Bell',
+    '9b99a31d-58b6-5105-9452-9509daa96203' => [
+        'Money won\'t buy happiness, but it will pay the salaries of a large research staff to study the problem.',
+        'Bill Vaughan',
     ],
-    '6037ed07-4e9d-5992-a8dd-7bed4646848a' => [
-        'Take a course in good water and air; and in the eternal youth of Nature you may renew your own. Go quietly, alone; no harm will befall you.',
+    '97ec4ad1-ed28-57e7-bae3-5a3f57e5ec89' => [
+        'When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty.',
         'John Muir',
     ],
-    'aa417969-d6e4-51f3-8802-6f462648e980' => [
-        'Do not worry about avoiding temptation. As you grow older it will avoid you.',
-        'Joey Adams',
+    '24031233-d576-5bc1-a64a-d5330d59df21' => [
+        'In any team sport, the best teams have consistency and chemistry.',
+        'Roger Staubach',
     ],
-    'b7cd9e3c-f729-5b60-9b45-6fafda1d9711' => [
-        'A great secret of success is to go through life as a man who never gets used up.',
-        'Albert Schweitzer',
+    '625b0fb6-ec23-5c81-8bf2-070e23784651' => [
+        'I think a smile can make your whole body. Models, they look fabulous, but they don\'t smile, and they look so mad.',
+        'Serena Williams',
     ],
-    'c4b48a2b-b163-53ee-8217-2a47f8afdb56' => [
-        'What people don\'t understand is joining a gang ain\'t bad, it\'s cool, it\'s fine. When you in the hood, joining a gang it\'s cool because all your friends are in the gang, all your family\'s in the gang. We\'re not just killing people every night, we\'re just hanging out, having a good time.',
-        'Snoop Dogg',
+    '53418d85-1939-5b84-bf0e-bda8f6a4219b' => [
+        'Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.',
+        'Nhat Hanh',
     ],
-    '1a9ec812-ccce-5467-8794-ae93af516dec' => [
-        'Excellence encourages one about life generally; it shows the spiritual wealth of the world.',
-        'George Eliot',
+    'b729c20d-6518-595c-a868-a2ebdbdfcd31' => [
+        'I was the class podiatrist. I never made it to class clown. I wasn\'t funny enough. I would examine feet and prescribe and ointment. It was a sad childhood.',
+        'Gilbert Gottfried',
     ],
-    '35b70534-ca55-52a0-80ed-8191d3bcb22c' => [
-        'I grew up skateboarding; it was fun. I didn\'t think about money, I didn\'t know how much professional skateboarders made. I just knew that if I became a professional skateboarder, I would achieve a lot and get to travel and do these great things.',
-        'Jason Lee',
+    '9bd0312a-e801-5599-8042-2e1e99ee7b77' => [
+        'TV is chewing gum for the eyes.',
+        'Frank Lloyd Wright',
     ],
-    '63271f00-9291-56ff-b690-365ce2a3d476' => [
-        'Nature never did betray the heart that loved her.',
-        'William Wordsworth',
+    'a7de5e3b-52a2-52ac-ae0f-40d9ea9ba8ac' => [
+        'There\'s no such thing as failure - just waiting for success.',
+        'John Osborne',
     ],
-    '8a3860ea-094c-56e6-b06d-1a451585a2e6' => [
-        'Even with all our technology and the inventions that make modern life so much easier than it once was, it takes just one big natural disaster to wipe all that away and remind us that, here on Earth, we\'re still at the mercy of nature.',
-        'Neil deGrasse Tyson',
+    '1aee0e40-4b11-5249-b5a1-f9692759ea8b' => [
+        'The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.',
+        'James Allen',
     ],
-    '2f319064-39ef-5084-88c0-2d21b0558faf' => [
-        'I like doing what I do, but I like having the opportunity to do different things, and obviously comedy would be a fun jump. I\'ve just been lucky enough to stay working. In my case, playing intense roles or playing character roles is something that people will hire me for, but yeah, I\'d like somebody to think I\'m funny. I guess we all do, right?',
-        'Jason Wiles',
+    '2fd03048-858b-5d94-86ea-5166a2b3bf9d' => [
+        'There\'s something to be said in favor of working in isolation in the real world.',
+        'A. R. Ammons',
     ],
-    'a5b4a651-ac00-5a49-9cd3-3775fde83c38' => [
-        'To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.',
-        'Plutarch',
+    'f5556217-7556-52a0-a3a3-95e89f4e40d3' => [
+        'The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.',
+        'Carlos Castaneda',
     ],
-    'd79862d8-ba03-5973-8ea3-67872168c815' => [
-        'Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.',
-        'Walter Pater',
+    '5371bc75-5faf-53b1-8dc5-7603c905d668' => [
+        'The historical basis for the gap between the black middle class and underclass shows that ending discrimination, by itself, would not eradicate black poverty and dysfunction. We also need intervention to promulgate a middle-class ethic of success among the poor, while expanding opportunities for economic betterment.',
+        'Henry Louis Gates',
     ],
-    'e853673c-59c2-507a-9724-b8292a69eb9b' => [
-        'An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.',
-        'Thomas Fuller',
+    'e1b41788-a432-562e-8e4c-8476376de065' => [
+        'Design is a way of life, a point of view. It involves the whole complex of visual communications: talent, creative ability, manual skill, and technical knowledge. Aesthetics and economics, technology and psychology are intrinsically related to the process.',
+        'Abraham Lincoln',
     ],
-    'fc177eb7-b02e-5cce-b6a7-df2f50c650f3' => [
-        'Success usually comes to those who are too busy to be looking for it.',
-        'Henry David Thoreau',
+    'd0e9739c-b5e4-5b35-9ec8-74c8798e8299' => [
+        'The greatest legacy one can pass on to one\'s children and grandchildren is not money or other material things accumulated in one\'s life, but rather a legacy of character and faith.',
+        'Ted Turner',
     ],
-    '69bcbef0-ee24-5650-9607-35a2606b5daf' => [
-        'I hope to make a positive, productive contribution, as cheesy as that may sound.',
-        'Chelsea Clinton',
+    'a3973ebb-4b60-5d81-8c01-4ce00c6f008b' => [
+        'Push-ups are seriously the best way to tone your arms - and they tone your abs at the same time! I like to do them when I\'m home watching TV or listening to music.',
+        'Cassie Scerbo',
     ],
-    'c4875ba8-3f74-5bd8-af8d-6a8b264d9bc5' => [
-        'Blue thou art, intensely blue; Flower, whence came thy dazzling hue?',
-        'James Montgomery',
+    'df089412-3532-53db-a1c5-a6b534107e19' => [
+        'I\'m such a girl for the living room. I really like to stay in my nest and not move. I travel in my mind, and that that\'s a rigorous state of journeying for me. My body isn\'t that interested in moving from place to place.',
+        'bell hooks',
     ],
-    'd10330f9-716e-558e-b456-04fc81f11ede' => [
-        'Life is not measured by the breaths we take, but by the moments that take our breath.',
-        'Unknown',
+    'dda60ff8-7f1e-52c6-b8bc-1b8235ab5d61' => [
+        'If our hearts are ready for anything, we are touched by the beauty and poetry and mystery that fill our world.',
+        'Tara Brach',
     ],
-    'a9f7cd2f-bb22-5b2f-8f56-1ccd851f6b64' => [
-        'A woman\'s mind is cleaner than a man\'s: She changes it more often.',
-        'Oliver Herford',
+    '3344dd8f-f615-5044-9b48-ae0f4a29016e' => [
+        'The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.',
+        'Robert Kiyosaki',
     ],
-    'dd0e8d75-b538-5722-9d43-5513cdbc975b' => [
-        'The \'Billionaire\' song is what my kids tease me with. They sing it to me. It\'s funny.',
+    'b67b92c6-b343-5669-9a21-99f93516d4f6' => [
+        'But theater, because of its nature, both text, images, multimedia effects, has a wider base of communication with an audience. That\'s why I call it the most social of the various art forms.',
+        'Wole Soyinka',
+    ],
+    '57493819-9300-541e-b23a-a40fd4f8b3a1' => [
+        'Our lives are a sum total of the choices we have made.',
+        'Wayne Dyer',
+    ],
+    'e25d74e4-c6a8-5354-b4f8-9d9561b22a8f' => [
+        'We sit in a room for months trying to think of funny things.',
+        'David Walliams',
+    ],
+    'f3284b4c-b153-554f-a84b-1ef1cdf9cfaf' => [
+        'My father, Abe, was a small businessman. For 32 years, he ran an exterminating company. That may explain why our family always associated the smell of roach spray with love.',
+        'Chuck Schumer',
+    ],
+    '15624eaf-46e4-5387-a32b-14bd7cfc98ca' => [
+        'Coffee has always been a significant part of my life. For me, it\'s a chance to start my day and gather my thoughts - it\'s fuel for my creative process.',
+        'Jessica Savitch',
+    ],
+    '568c1c64-7c4e-50a1-9f73-2231b23f6e1d' => [
+        'Before I refuse to take your questions, I have an opening statement.',
+        'Ronald Reagan',
+    ],
+    'd4840591-a98e-54ee-b206-f942a9467333' => [
+        'Never refuse an assignment except when there is a conflict of interest, a potential of danger to you or your family, or you hold a strongly biased attitude about the subject under focus.',
+        'Jessica Savitch',
+    ],
+    '40eee997-f3ac-5baf-a1bd-1a73d47716c3' => [
+        'I feel like I have as good a shot as anybody out there and I have gotten close in the past, so why not have the attitude that I can come out and play great tennis and maybe even win this tournament.',
+        'Michael Chang',
+    ],
+    'f8561307-af52-5761-85db-f43f977e4468' => [
+        'The biggest thing for me is the passion that I\'ve always had for hockey. I remember growing up, no matter what I did in life, my parents always told me to try to do my best at it and be my best. I can say going through different things that that passion is the most important part. It\'s not skills or talent or any of that stuff.',
+        'Sidney Crosby',
+    ],
+    '61d2e68d-a8c1-5929-9a56-df75298ef1d9' => [
+        'The one thing you\'ve gotta do is that you need to always do the best you can do, no matter what the given situation, no matter what comes up against you. You do the best you can do, and you never give up. Never quit.',
+        'James Corden',
+    ],
+    '47b20f63-6452-55b5-b0ec-5481aedb7426' => [
+        'If you look at the common denominator of all the comics who have had big success, it\'s being true to their nature... that\'s what takes a long time to learn.',
+        'Ron White',
+    ],
+    '41f2a446-f973-5be5-a5c5-123953b55abf' => [
+        'Choose your corner, pick away at it carefully, intensely and to the best of your ability and that way you might change the world.',
+        'Charles Eames',
+    ],
+    'ee46cde7-9bcf-57d1-b843-3ee7bfd40ffb' => [
+        'Obviously, the highest type of efficiency is that which can utilize existing material to the best advantage.',
+        'Jawaharlal Nehru',
+    ],
+    'e94ea2bd-b299-5cf2-b017-451e14a756e7' => [
+        'We, as Americans, at least - I mean, I love my country - but we\'re so self-righteous sometimes, in terms of, like, our nationality, our country. But we\'re people from somewhere else; the true \'Americans\' are the original peoples. It\'s funny, but we\'re a very territorial species.',
+        'Peter Dinklage',
+    ],
+    '7f19e0db-5851-5110-8ce4-72b8d1d0132e' => [
+        'I\'m allergic to attitude.',
+        'Megan Boone',
+    ],
+    '82a95935-5e7a-5485-a437-6c6fbead6b87' => [
+        'Create. Not for the money. Not for the fame. Not for the recognition. But for the pure joy of creating something and sharing it.',
+        'Ernest Barbaric',
+    ],
+    '155f1a91-3ee6-5aec-924c-e96eaf212397' => [
+        'Women are so unforgiving of themselves. We don\'t recognize our own beauty because we\'re too busy comparing ourselves to other people.',
+        'Kelly Osbourne',
+    ],
+    'd89f2003-9e27-544e-858e-5bab1c74790a' => [
+        'The expression of beauty is in direct ratio to the power of conception the artist has acquired.',
+        'Gustave Courbet',
+    ],
+    '3da1a53c-1a28-52bb-9807-d6f8238c30b4' => [
+        'Beauty is a radiance that originates from within and comes from inner security and strong character.',
+        'Jane Seymour',
+    ],
+    'd1771ec2-193f-585f-9fd7-efe40d3bef1d' => [
+        'The chief danger in life is that you may take too many precautions.',
+        'Ellen G. White',
+    ],
+    '30ff1efc-010b-5ae9-a88d-d8ce506edda6' => [
+        'Like all technology, social media is neutral but is best put to work in the service of building a better world.',
+        'Simon Mainwaring',
+    ],
+    '23239e58-2fd0-57a5-aa0f-2163bbc34277' => [
+        'One today is worth two tomorrows.',
+        'Benjamin Franklin',
+    ],
+    'b1bf57f9-3c61-5a51-9add-b57a465b4e2c' => [
+        'Life is like riding a bicycle. To keep your balance you must keep moving.',
+        'Einstein',
+    ],
+    '971a4b98-5f04-54b3-85b4-3916ae9779d8' => [
+        'What\'s amazing is, if young people understood how doing well in school makes the rest of their life so much interesting, they would be more motivated. It\'s so far away in time that they can\'t appreciate what it means for their whole life.',
         'Bill Gates',
     ],
-    'd1bb594c-4cc0-5fbd-b42f-24e752319079' => [
-        'The Patriot Act is essential to our continued success in the war on terror here at home.',
-        'Mike Pence',
+    '116580f3-733c-5c2d-8bfb-e34662008324' => [
+        'All punk is is attitude. That\'s what makes it. The attitude.',
+        'Joey Ramone',
     ],
-    '60178f34-3a88-5aa8-b5d3-cde26b6d407c' => [
-        'I played the violin my whole life. I wanted to play from the time I was just a little kid, and I\'ve always loved dance as well. I wanted to make people smile. I wanted to add an extra energy to my playing and make it visual and make it unique and fun.',
-        'Lindsey Stirling',
+    'cf75f3aa-7d33-5d70-8560-aee37c1e944d' => [
+        'Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.',
+        'Johann Wolfgang von Goethe',
     ],
-    '5a5aea35-6d1c-53bc-97ef-f7ea0d0e9738' => [
-        'I would like to make a building as intellectually driven as it is sculptural and as positive as it would be acceptable to hope.',
-        'Frank Gehry',
+    'fb15ad7f-ab45-509f-a4ae-1decf1915516' => [
+        'It\'s a sad day when a woman being funny and interested in science is considered newsworthy.',
+        'Elise Andrew',
     ],
-    '5ea7bf3b-e1aa-532e-b16f-8b099d08376d' => [
-        'When I go to the clinic next and sit with a tube in my arm and watch the poison go in, I\'m in an attitude of abject passivity. It doesn\'t feel like fighting at all; it just feels like submitting.',
-        'Christopher Hitchens',
+    'f3cebd5e-f718-5434-8f0f-80945310626d' => [
+        'It is cruel, you know, that music should be so beautiful. It has the beauty of loneliness of pain: of strength and freedom. The beauty of disappointment and never-satisfied love. The cruel beauty of nature and everlasting beauty of monotony.',
+        'Benjamin Britten',
     ],
-    '6978e384-a725-5818-a9b9-d3d8d8c0092c' => [
-        'Japan, not only a mega-busy city that thrives on electronics and efficiency, actually has an almost sacred appreciation of nature. One must travel outside of Tokyo to truly experience the \'old Japan\' and more importantly feel these aspects of Japanese culture.',
-        'Apolo Ohno',
+    '4e5284d5-7a27-59aa-a436-eb5f9a3b8d36' => [
+        'Family is a unique gift that needs to be appreciated and treasured, even when they\'re driving you crazy. As much as they make you mad, interrupt you, annoy you, curse at you, try to control you, these are the people who know you the best and who love you.',
+        'Jenna Morasca',
     ],
-    '3cbf2520-1c34-5f85-9e9a-3c4705aa2840' => [
-        'As no one knew much about my mental illness, a lot of people had the attitude that I had the capability to \'kick it\' and get better instantly. This was the most frustrating attitude for me.',
-        'Andy Behrman',
+    'e5c5027d-4fee-524c-9055-79cc378ea9fd' => [
+        'Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.',
+        'Vista Kelly',
+    ],
+    'e412e067-3570-51a4-87ed-e4f56a55076a' => [
+        'Consciously or not, we are all on a quest for answers, trying to learn the lessons of life. We grapple with fear and guilt. We search for meaning, love, and power. We try to understand fear, loss, and time. We seek to discover who we are and how we can become truly happy.',
+        'Elisabeth Kubler-Ross',
+    ],
+    'ed037d9f-e7ad-5e86-b2d3-7987679a4e93' => [
+        'There are more important things in life than winning or losing a game.',
+        'Tim Hetherington',
     ],
 ];

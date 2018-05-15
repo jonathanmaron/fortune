@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'dbaba676-aebc-5462-83d0-ee7572a824cd' => [
-        'My success was not based so much on any great intelligence but on great common sense.',
-        'Helen Gurley Brown',
+    '7db899af-d3a7-5cbd-a722-3f86ca312329' => [
+        'I am always struck by the fact that human awareness of our place in nature, like so much of modern science, began with the Industrial Revolution.',
+        'Kenneth R. Miller',
     ],
-    '19b870ec-ca3e-5599-90f6-1f97da1e5d24' => [
-        'To be a good loser is to learn how to win.',
-        'Carl Sandburg',
+    '4c5b5d58-5ac7-59b9-a40c-cec7f51a066d' => [
+        'I believe every chess player senses beauty, when he succeeds in creating situations, which contradict the expectations and the rules, and he succeeds in mastering this situation.',
+        'Vladimir Kramnik',
     ],
-    '71abb96b-104d-5107-91d5-f5a8946e76e1' => [
-        'He who is fixed to a star does not change his mind.',
-        'Leonardo da Vinci',
+    '47149144-689d-5807-a121-1f9a7c8c984e' => [
+        'I\'m always thinking about creating. My future starts when I wake up every morning... Every day I find something creative to do with my life.',
+        'Dong Dong',
     ],
-    'a3958d83-ad76-58a0-a8da-4d8b586b180f' => [
-        'The hardships that I encountered in the past will help me succeed in the future.',
-        'Philip Emeagwali',
+    '2a2c386a-b806-5bd0-893d-9979689430f8' => [
+        'It is extraordinary that when you are acquainted with a whole family you can forget about them.',
+        'Gertrude Stein',
     ],
-    'f5344f85-159a-5911-8ede-1a568bae83e0' => [
-        'What is important in life is life, and not the result of life.',
-        'Michel de Montaigne',
+    'b884ebfc-a009-5bb1-bf7f-926127254f8a' => [
+        'Logic will get you from A to B. Imagination will take you everywhere.',
+        'Albert Einstein',
     ],
-    'b27947ce-7968-54aa-ba90-f1aa0fd1a33d' => [
-        'Becoming a father increases your capacity for love and your level of patience. It opens up another door in a person - a door which you may not even have known was there. That\'s what I feel with my son. There\'s suddenly another level of love that expands. My son is my greatest joy, out of everything in my life.',
-        'Langston Hughes',
+    '03089066-ee6e-5b9d-9e87-fac0a4414229' => [
+        'More than 90 percent of what Planned Parenthood does nationally is preventive care - including cervical cancer screenings, breast cancer screenings, and family planning - mostly for women with low resources and income below the poverty line.',
+        'Gene Green',
     ],
-    '7bc9e727-2994-5073-9909-3a5801c9bad2' => [
-        'Slow down and enjoy life. It\'s not only the scenery you miss by going too fast, you also miss the sense of where you are going and why.',
-        'Eddie Cantor',
+    '6ab932fe-5f9b-54f2-8a7a-38b1de801484' => [
+        'Trying to understand the way nature works involves a most terrible test of human reasoning ability. It involves subtle trickery, beautiful tightropes of logic on which one has to walk in order not to make a mistake in predicting what will happen. The quantum mechanical and the relativity ideas are examples of this.',
+        'Richard P. Feynman',
     ],
-    '954f7cb5-709d-5495-b46a-de02dd5532dc' => [
-        'Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.',
-        'Amiel',
+    'c74622a3-16c6-5868-8eed-456ec0d006e5' => [
+        'When you come from a big family, you see that, growing up, you\'re learning how to share. Your sisters have got your back; you\'re not alone in this - \'We all support you!\' Your family provides that; it gives you a sense of safety, and it\'s a very grounding feeling.',
+        'Gisele Bundchen',
     ],
-    'ad8a304a-8b37-5597-9c82-019e5d3345ae' => [
-        'Through the years you, the Delaware State family and your predecessors, have faced many challenges. You worked through them with fierce determination and good will, and you have made great progress.',
-        'Michael N. Castle',
+    'ddca2d16-5bd7-5259-a012-5de83e71d882' => [
+        'I feel prematurely old. I\'m actually having this major belated quarter-life crisis. I\'m turning 30 in a couple of weeks. I\'ve been thinking a lot about mortality. A lot about what I\'m going to do with my life and how to enjoy it. One of the things I\'m going to work on is being more spontaneous, letting go, embracing the beauty of come-what-may.',
+        'Chris Pine',
     ],
-    '1ce94990-d9b7-5b71-b7ec-d9dfc0d3ecd8' => [
-        'There are some things you learn best in calm, and some in storm.',
-        'Willa Cather',
+    '282301c9-49aa-5c46-ba3e-45640f3711a9' => [
+        'I believe that if one always looked at the skies, one would end up with wings.',
+        'Gustave Flaubert',
     ],
-    'c6f7e6ef-e620-50a8-afae-43ce8c5a3270' => [
-        'The thing I most hate about the Left is that they want to stop us laughing - to prescribe which jokes are OK and which are not OK to make in public and to draw artificial lines around certain subjects. I find all sorts of inappropriate things funny.',
-        'Milo Yiannopoulos',
+    '56ee1e97-cdef-5404-835f-369a559d7e76' => [
+        'Yes, I do believe that there is a cause and effect and a ripple effect upon everything everybody does, and they have positive consequences and negative consequences. If you start to focus on the kind of minutia of that, it\'s really quite extraordinary.',
+        'Kiefer Sutherland',
     ],
-    'b7bb4350-0d5d-597c-83c1-0f0c4e0b9abb' => [
-        'One of the things that people don\'t realize is that that natural beauty, those recreational forests, they have an economic development impact for the state as well.',
-        'Ed Rendell',
+    '3c3de9b1-1d8d-5a74-9d6c-57ec8d246520' => [
+        'Not everything in old age is grim. I haven\'t walked through an airport for years, and wheelchairs are the way to travel.',
+        'Donald Hall',
     ],
-    '5ed2d978-eb75-544b-aa2e-f662aa7cdbe5' => [
-        'Diabetes is a disease that\'s had a deep impact on my family. My little brother has had type 1 diabetes since he was a baby and I have spent time learning about the disease and trying to bring attention to it so that one day soon we will reach a cure.',
-        'Izabel Goulart',
+    'df9b17ec-65d4-5311-a41b-31750c08a106' => [
+        'I would just urge the youth today to indulge in some sort of physical activity on a regular basis. A holistic approach is essential, and that also means you need to stay happy and positive.',
+        'Tiger Shroff',
     ],
-    'a245c024-4db4-5592-a1d8-cee97b9b4ff2' => [
-        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
-        'Herb Caen',
+    '72d7120b-e0db-52a5-9907-f04dae1c8fc7' => [
+        'One of the nice things about being busy is it makes you focus on what\'s important to you and how you use your time.',
+        'Lorne Michaels',
     ],
-    'afde7769-1ba8-5d8c-a43b-9f4214f57f2a' => [
-        'As long as the attitude is to only show the sheet metal, then automobile advertising will continue to be wretched.',
-        'Jerry Della Femina',
+    'e51bff23-e83a-5ee9-955d-ba67f31d6545' => [
+        'Important principles may, and must, be inflexible.',
+        'Abraham Lincoln',
     ],
-    '03fbda36-6342-548b-a937-abdb8256f174' => [
-        'In separateness lies the world\'s great misery, in compassion lies the world\'s true strength.',
-        'Buddha',
+    '68108735-e4aa-5bb4-9e04-49f4bf2be0de' => [
+        'As a female, you are often being asked by directors to be warmer, softer, flirt more, smile more etc... None of those things are bad, and obviously we are capable of a variety of human behavior, but it gets really old having to play into somebody\'s stereotype or ideal.',
+        'Trieste Kelly Dunn',
     ],
-    '82f99f99-d7ce-504a-b7ed-07e9eb922e57' => [
-        'The more time you spend contemplating what you should have done... you lose valuable time planning what you can and will do.',
-        'Lil Wayne',
+    '617a8f41-4c82-5994-993e-6321aa2c0b58' => [
+        'Nature abhors annihilation.',
+        'Marcus Tullius Cicero',
     ],
-    '056ca7ce-ff66-5caa-9c8d-b36eb320c1b2' => [
-        'When you pray for anyone you tend to modify your personal attitude toward him.',
-        'Norman Vincent Peale',
+    'db32b70e-c397-5619-a98e-9e38e2afb247' => [
+        'I really believe that all of us have a lot of darkness in our souls. Anger, rage, fear, sadness. I don\'t think that\'s only reserved for people who have horrible upbringings. I think it really exists and is part of the human condition. I think in the course of your life you figure out ways to deal with that.',
+        'Winston Churchill',
     ],
-    'ef9178d8-a7a0-5cff-b2e7-e5a794cb970d' => [
-        'From my earliest childhood, my attention was specially directed to the subject of acoustics, and specially to the subject of speech, and I was urged by my father to study everything relating to these subjects, as they would have an important bearing upon what was to be my professional work.',
-        'Alexander Graham Bell',
+    '747570e5-c5c6-5ee5-84c7-651ba5407ccb' => [
+        'I think that generally music should be a positive thing, I like Bob Marley\'s attitude: he said that his goal in life was to single handedly fight all the evil in the world with nothing but music, and when he went to a place he didn\'t go to play, he went to conquer.',
+        'Jon Fishman',
     ],
-    '7067ccde-1d12-5c4f-a9fa-69a47e1d4e88' => [
-        'Every man\'s dream is to be able to sink into the arms of a woman without also falling into her hands.',
-        'Jerry Lewis',
+    '7ad28d7b-f686-5201-9f3c-1e80d930a13c' => [
+        'Fishes live in the sea, as men do a-land; the great ones eat up the little ones.',
+        'William Shakespeare',
     ],
-    '7f6ed23c-d7d2-5a83-a7a8-3173358a214a' => [
-        'You can\'t build a reputation on what you are going to do.',
-        'Henry Ford',
+    '4f819032-e863-57fc-84ab-5c8eae77ba4e' => [
+        'I really cherish the memories I have of my trips. For some reason, when you travel, it\'s like your mind picks up on the fact that this is something uncharacteristic, so it tunes in more acutely and remembers better.',
+        'Jennette McCurdy',
     ],
-    '76977e01-fb97-562f-b571-7514667842d8' => [
-        'It\'s not true that clothes look better on skinny girls; what counts is the attitude.',
-        'Sonia Rykiel',
+    '5d529307-5e97-5e0d-87e1-bd0753fb8e14' => [
+        'I think music, in my opinion, is not about motivation in the way it\'s - it\'s not a running base. It\'s art. And my whole philosophy of music is different. It\'s almost like cooking and serving to people, seeing them smile and enjoying the food, really.',
+        'A. R. Rahman',
     ],
-    'f973a946-3bfb-5083-8ada-f4b38886fdd6' => [
-        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
-        'Jay Garner',
+    '293f32e5-df3e-526a-9de1-4d849609dc72' => [
+        'It is not ignorance but knowledge which is the mother of wonder.',
+        'Joseph Wood Krutch',
     ],
-    '2f779d82-5237-5ad5-b354-85fc6aca6088' => [
-        'No matter how you feel, Get up, dress up, show up and never give up.',
-        'Anonymous',
+    '4c91302b-69e0-58df-af10-db7c7976c990' => [
+        'I\'m always excited when I make it on anyone\'s list - even if it\'s for affirmative action. My attitude is, \'Am I the token woman on this list? Because I\'ll take it.\'',
+        'Julie Klausner',
     ],
-    '8d498c65-9a54-5c42-8913-e88c520bb2ee' => [
-        'I read a funny story about how the Republicans freed the slaves. The Republicans are the ones who created slavery by law in the 1600\'s. Abraham Lincoln freed the slaves and he was not a Republican.',
-        'Marion Barry',
+    '196a7abf-d360-5e60-ad64-bb2bb0005990' => [
+        'The same way one tells a recipe, one tells a family history. Each one of us has our past locked inside.',
+        'Laura Esquivel',
+    ],
+    '4276d146-3ee5-56a5-8376-5d6504363d38' => [
+        'Being an astronaut is a wonderful career. I feel very privileged. But what I really hope for young people is that they find a career they\'re passionate about, something that\'s challenging and worthwhile.',
+        'Ellen Ochoa',
+    ],
+    '81c7524e-e63f-5c2f-b943-9c07059174f4' => [
+        'Happiness lies in the joy of achievement and the thrill of creative effort.',
+        'Franklin D. Roosevelt',
+    ],
+    '371c5254-f6cc-5979-beb8-dcdadf6c9927' => [
+        'I lived at home and I cycled every morning to the railway station to travel by train to Johannesburg followed by a walk to the University, carrying sandwiches for my lunch and returning in the evening the same way.',
+        'Sydney Brenner',
+    ],
+    '76057569-98a7-586c-bcab-cdfaa480db8f' => [
+        'If we could get your subconscious mind to agree with your conscious mind about being happy, that\'s when your positive thoughts work.',
+        'Bruce Lipton',
+    ],
+    '1714466c-9567-531c-b60c-6a3916152c29' => [
+        'Poverty was the greatest motivating factor in my life.',
+        'Jimmy Dean',
+    ],
+    'c10cc935-f5f1-5b84-b320-3bcc7ca35e53' => [
+        'The last of human freedoms - the ability to chose one\'s attitude in a given set of circumstances.',
+        'Viktor E. Frankl',
+    ],
+    '478ab45c-6e95-5f8f-95a9-fe594aa8210a' => [
+        'By living deeply in the present moment we can understand the past better and we can prepare for a better future.',
+        'Thich Nhat Hanh',
+    ],
+    '9fcf8243-923a-56e6-bfd6-39bc63ffe2d9' => [
+        '\'Top Gear\' changed people\'s perceptions of me. I\'ve had much more positive responses from my TV appearances than written articles. And I have the weirdest voice.',
+        'James Blunt',
+    ],
+    '2f220585-203d-5180-9033-317a1a41838d' => [
+        'Travel like a pro, not like a hobo. That\'s my motto.',
+        'Greg Gutfeld',
+    ],
+    '8c84f1a4-f09c-5e30-a10e-fc26ef4ae997' => [
+        'One of the great things about music is that it has the capability of time travel - you smell a certain smell in the room and it takes you back to your childhood. I feel like music is able to do that, and it happens to me all the time.',
+        'M. Ward',
+    ],
+    'b33e14e1-2021-5a37-98dc-36ee4716ad24' => [
+        'Beauty products always cheer me up and give me hope. If it makes you feel pretty, why not?',
+        'Salma Hayek',
+    ],
+    '3ba3c43e-1489-523f-b7f3-77ab8a87126f' => [
+        'Keep your eyes on the stars, and your feet on the ground.',
+        'Theodore Roosevelt',
+    ],
+    '3619b4f9-7914-5b2b-9145-fbda7b82d6e5' => [
+        'If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.',
+        'Joseph Addison',
+    ],
+    '8e999a4b-b3a4-5669-bfea-ed7edc8a917b' => [
+        'If you want small changes in your life, work on your attitude. But if you want big and primary changes, work on your paradigm.',
+        'Stephen Covey',
+    ],
+    '33d72cf1-1e5b-5379-891a-8917672a4b78' => [
+        'It\'s so much darker when a light goes out than it would have been if it had never shone.',
+        'John Steinbeck',
+    ],
+    '7be618c3-30f0-591c-ae82-57ccb8b4fb9e' => [
+        'The purpose of our lives is to be happy.',
+        'Robert Louis Stevenson',
+    ],
+    '7b88b10f-48ed-5920-b5ff-1d9c701b47a8' => [
+        'Inappropriateness is funny to me. Rudeness is hilarious.',
+        'Zach Galifianakis',
+    ],
+    'ba9897b2-8cc1-53d3-a217-b92369be2ae6' => [
+        'I love beauty. But I like the beauty accidentally, not dished up, served up on a platter.',
+        'Wole Soyinka',
+    ],
+    '00e826ca-2adf-52b1-bd84-6c8221f5c646' => [
+        'He who is too busy doing good finds no time to be good.',
+        'Rabindranath Tagore',
+    ],
+    '7560866a-8478-5eed-9fc6-cad2046e04d1' => [
+        'I have moments where I feel incredibly ugly or fat, and it sucks, you know? I\'ll usually try to keep a positive attitude because I\'m really so grateful for where I am and the life I get to live, but I definitely have to work hard not to feel insecure.',
+        'Charlotte McKinney',
+    ],
+    'a188997b-54a6-519a-bd8b-0749fc874815' => [
+        'Traveling around the country, meeting fans and hearing their stories in person and on my radio show has reenergized my commitment to creating honest and inspirational content that not only serves my own creative purposes but can help and touch others as well.',
+        'Nikki Sixx',
+    ],
+    'e8fa2a67-8f01-56eb-a25c-a55635120a66' => [
+        'Success is having to worry about every damn thing in the world, except money.',
+        'Johnny Cash',
+    ],
+    '860df674-4de4-5534-a7a7-3f4a160d07de' => [
+        'Punctuality is the virtue of the bored.',
+        'Evelyn Waugh',
+    ],
+    '6c551a57-a9b8-545e-9728-17b17acd83ce' => [
+        'Mother Nature comes up against reality, and the reality is that the system doesn\'t work.',
+        'John Garamendi',
+    ],
+    'b1be0502-e7b0-50cf-8a3c-a16dc732906b' => [
+        'Don\'t let life discourage you; everyone who got where he is had to begin where he was.',
+        'Spencer Johnson',
     ],
 ];

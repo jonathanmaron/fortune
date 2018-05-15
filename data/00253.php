@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '46deb437-f4e2-5121-824b-eca7267e8f9f' => [
-        'Friends are those rare people who ask how we are and then wait to hear the answer.',
-        'Ed Cunningham',
+    '9112f49b-f482-5b4f-af02-4d60b2641624' => [
+        'My kids started school, so having a strong base in Melbourne has been a key priority. I\'m not daunted by the travel. People say, \'It\'s so far to Australia,\' and I say, \'You get on the plane, you eat well, you sleep, you wake up - and you\'re there.\'',
+        'Geoffrey Rush',
     ],
-    '29e38f1c-b6e0-5449-8f88-5b5e69fe3be7' => [
-        'The one thing you shouldn\'t do is try to tell a cab driver how to get somewhere.',
-        'Jimmy Fallon',
+    '1bce4e16-d51e-5d65-88a1-d73cf793c8c1' => [
+        'I am happy at Tottenham. I go into work every day with a smile on my face, and that is important.',
+        'Harry Kane',
     ],
-    '96311305-3d0f-52e8-8119-2324011a81c1' => [
-        'The pursuit, even of the best things, ought to be calm and tranquil.',
-        'Marcus Tullius Cicero',
+    'f589d7af-95d6-54fc-9ae5-67a610cf0964' => [
+        'America\'s wealth comes from the efforts of people striving for success. Take away their incentive with badmouthing success and you take away the wealth that helps us take care of the needy.',
+        'Thomas Peterffy',
     ],
-    'b04abef4-3c8b-55c5-b3f5-0117b5e8f79d' => [
-        'By making college unaffordable and student loans unbearable, we risk deterring our best and brightest from pursuing higher education and securing a good-paying job.',
-        'Mark Pocan',
+    '3d077291-caef-598a-a89a-c7b55540476c' => [
+        'Besides, I\'m a gypsy at heart and I like to travel around.',
+        'Reba McEntire',
     ],
-    'caf58b7c-56ca-503d-8f90-9bfdeb69d99a' => [
-        'The novelist teaches the reader to comprehend the world as a question. There is wisdom and tolerance in that attitude. In a world built on sacrosanct certainties the novel is dead.',
-        'Milan Kundera',
+    '2b35b019-2e96-5978-a903-a1f48316dc05' => [
+        'We didn\'t ever want \'Tarzan\' to feel like he was just a man. We didn\'t want him to stand up straight or wave good-bye. We wanted to make sure he always had that piece of gorilla in him, that he always had an animal attitude about him.',
+        'Kevin Lima',
     ],
-    'b5fd7b67-716c-5493-ac65-e0b8f91377a8' => [
-        'When everything happens to you when you\'re so young, you\'re very lucky, but by the same token, you\'re never going to have that same feeling again. The first time anything happens to you - your first love, your first success - the second one is never the same.',
-        'Lauren Bacall',
+    '700da719-1783-5bf7-b959-604e5b4232a1' => [
+        'No family gets rich from earning the minimum wage. In fact, the current minimum wage does not even lift a family out of poverty.',
+        'Jon Corzine',
     ],
-    '64870551-1ae2-57e0-b1e9-37d3b0f11f0e' => [
-        'Any revolutionary change must be preceded by a passive, affirmative, non-challenging attitude toward change among the mass of our people. They must feel so frustrated, so defeated, so lost, so futureless in the prevailing system that they are willing to let go of the past and chance the future.',
-        'Saul Alinsky',
+    'a136257a-8952-5a17-b07b-b9d509820a08' => [
+        'A great attitude does much more than turn on the lights in our worlds; it seems to magically connect us to all sorts of serendipitous opportunities that were somehow absent before the change.',
+        'Earl Nightingale',
     ],
-    '694d0186-ed0e-5e74-9b69-d6cad30cdf72' => [
-        'What should I have known or written had I been a quiet, mercantile politician or a lord in waiting? A man must travel, and turmoil, or there is no existence.',
-        'Lord Byron',
+    '89375662-177c-5662-b13b-a30494202859' => [
+        'Don\'t focus on negative things; focus on the positive, and you will flourish.',
+        'Alek Wek',
     ],
-    '71ab878c-6671-5fee-95e1-c92431fcce0c' => [
-        'I used to wear a lot of red lipstick, and when I got a pimple, I\'d cover it up with eyeliner to turn it into a beauty mark.',
-        'Selma Blair',
+    '78673739-3f5b-5d1e-a4d8-49a6691e8fb6' => [
+        'Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.',
+        'Ben Jonson',
     ],
-    'e1d77148-b9a7-5106-b9cf-304fa0b37db5' => [
-        'No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.',
-        'Helen Keller',
+    '2c317912-e7d5-5b53-810d-f4ce249d3571' => [
+        'I live a good life but a pretty simply life. I just store all my money under my mattress. My wife and I travel, and I bought my dream car, the Cobra.',
+        'Aaron Paul',
     ],
-    'a8b62f25-e860-557c-b5af-49373786d90c' => [
-        'All the privileged can travel, see different worlds; not everyone can. I think it is important for people to have an interesting locale nearby.',
-        'Zaha Hadid',
+    '996e72e5-fbf9-5e0b-b019-80297e78684a' => [
+        'Beauty is not caused. It is.',
+        'Emily Dickinson',
     ],
-    'b4acadb2-d357-5473-bd35-8e3a8919ad28' => [
-        'Silence is a true friend who never betrays.',
-        'Confucius',
+    '334fae18-5a7c-5eb9-af62-84075cc41db4' => [
+        'Everybody talks about the weather, but nobody does anything about it.',
+        'Charles Dudley Warner',
     ],
-    '7d01c1d9-1fe0-53f6-b4e1-d3e49b82b22e' => [
-        'I\'ll stick to finding the funny in the ordinary because my life is pretty ordinary and so are the lives of my friends - and my friends are hilarious.',
-        'Issa Rae',
+    '4cd5af17-e1c6-5467-8c45-0f445c5aca91' => [
+        'I decided to fly through the air and live in the sunlight and enjoy life as much as I could.',
+        'John Burroughs',
     ],
-    '409345ae-103f-58be-9ef0-f9ea2ee2d5bf' => [
-        'Especially as a title-holder, you can do great things with charities, because people suddenly care about what you have to say. I wanted to make a difference, which is why I created the Queen of the Universe pageant. I want to change all of those stigmas in the beauty pageant world.',
-        'Joyce Giraud',
+    'ec73deec-9f6c-5041-8cde-7fd3f5e751eb' => [
+        'The Law of Divine Compensation posits that this is a self-organizing and self-correcting universe: the embryo becomes a baby, the bud becomes a blossom, the acorn becomes an oak tree. Clearly, there is some invisible force that is moving every aspect of reality to its next best expression.',
+        'Marianne Williamson',
     ],
-    'd5ab6c17-23c1-57cb-ab8a-30e3b8fc1ea6' => [
-        'That the sea is one of the most beautiful and magnificent sights in Nature, all admit.',
-        'John Joly',
+    '70452151-ac1c-5f58-96b5-daa48fe8ca79' => [
+        'All the art of living lies in a fine mingling of letting go and holding on.',
+        'Juan Pablo Galavis',
     ],
-    'df929353-1fc2-5fe9-8308-55f66f55d5f3' => [
-        'It\'s also a question of finding good material and interesting roles. I\'m not the only actress out there, and good parts just don\'t fall into your lap that easily. But I like most of the films I\'ve made recently and so I\'m pretty positive about the future.',
-        'Winona Ryder',
+    '2d097d6f-3b7d-5ca0-bc58-54509847006b' => [
+        'Happiness mainly comes from our own attitude, rather than from external factors.',
+        'Dalai Lama',
     ],
-    '87286897-9726-551d-b6d5-5fa5dd441e5a' => [
-        'The reason I exercise is for the quality of life I enjoy.',
-        'Shakuntala Devi',
+    'a04ea4aa-2b8a-54db-a095-a9b8295952af' => [
+        'It\'s better to be a lion for a day than a sheep all your life.',
+        'Rupert Murdoch',
     ],
-    '0cb21db6-55ea-532f-84db-4868f811831b' => [
-        'In particular I want to talk about natural black hair, and how it\'s not just hair. I mean, I\'m interested in hair in sort of a very aesthetic way, just the beauty of hair, but also in a political way: what it says, what it means.',
-        'Chimamanda Ngozi Adichie',
+    '290be3ac-7c0e-5452-9f76-5125a9319450' => [
+        'As kids we\'re not taught how to deal with success; we\'re taught how to deal with failure. If at first you don\'t succeed, try, try again. If at first you succeed, then what?',
+        'Charlie Sheen',
     ],
-    '4fbaef4d-fcc7-5272-8d8e-706afa9d12bf' => [
-        'Your future depends on many things, but mostly on you.',
-        'Frank Tyger',
+    '30d55384-1206-56b1-8c6f-aae719d79e10' => [
+        'I want to do to you what spring does with the cherry trees.',
+        'Pablo Neruda',
     ],
-    'abe818e2-1cc2-5f2e-a16f-2b16b7014fac' => [
-        'My attitude is, if someone\'s going to criticize me, tell me to my face.',
-        'Simon Cowell',
+    '03c4e5c1-4681-5e34-adf9-1c9be99e76a3' => [
+        'I am a joyful conservative, unafraid to articulate big ideas with an optimistic smile.',
+        'Kevin Cramer',
     ],
-    '6151ec5f-2591-5a5a-be15-d29486d1688b' => [
-        'Normal is not something to aspire to, it\'s something to get away from.',
-        'Jodie Foster',
+    '44c65987-d52f-5452-8e99-3dbe0d45bf0e' => [
+        'Thanks to malaria elimination efforts in United States in the 1940s, most people in the U.S. today have never had any direct contact with the disease, and most doctors have never seen a case. That success means it\'s easy to have a relaxed attitude about protecting ourselves.',
+        'Tom Frieden',
     ],
-    '4409e07c-e718-54c0-aaa6-4daf186683d8' => [
-        'A stumble may prevent a fall.',
-        'Unknown',
+    '744b050e-b344-52aa-8865-022d5ec2c376' => [
+        'If I create from the heart, nearly everything works; if from the head, almost nothing.',
+        'Marc Chagall',
     ],
-    'a030732f-0df1-5d6f-8f3c-71f21acc16e7' => [
-        'You reach a point where you don\'t work for money.',
-        'Walt Disney',
+    '483b8b63-578d-5509-9ea2-4e805400ea4b' => [
+        'If I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for my life.',
+        'Henry David Thoreau',
     ],
-    '33e31742-42d8-5cd1-84ea-8cf9e30f1b1f' => [
-        'The president felt that it was important to send an ordinary citizen to experience the excitement of space travel as a representative for all Americans.',
-        'Christa McAuliffe',
+    '1e77004c-c237-5848-8e7b-3dc7cd1e9783' => [
+        'Mistakes are always forgivable, if one has the courage to admit them',
+        'Bruce Lee',
     ],
-    'a56c9dc1-8403-51bd-b2d3-4bc2ba67e926' => [
-        'Your big opportunity may be right where you are now.',
-        'Napoleon Hill',
+    '353213b2-7249-5878-9073-f1a54e122125' => [
+        'Overcoming fear is the first step to success for entrepreneurs. The winners all exemplify that, and the hard work and commitment they have shown underlines what is needed to set up a business.',
+        'Richard Branson',
+    ],
+    '1c531a85-19fc-5352-8b6b-7a67c60e2873' => [
+        'I\'m an eternal realist and the success rate for being an actor is pretty low.',
+        'Tom Hiddleston',
+    ],
+    '3ae2d8e8-b8bf-5fc4-ad95-8497e78f2fbc' => [
+        'How many cares one loses when one decides not to be something but to be someone.',
+        'Coco Chanel',
+    ],
+    'd7f10c5f-153b-5d6b-ae8d-5c3050cbee92' => [
+        'I just see too many people retire and say, \'I\'m going to take off, travel, spend time with my family\' and they are just miserable. They end up dying. People who work and stay active, and like what they are doing, live longer.',
+        'Terry Bradshaw',
+    ],
+    '5decf7d7-9815-52c9-8883-dcd1bd443431' => [
+        'It\'s fine to celebrate success but it is more important to heed the lessons of failure.',
+        'Bill Gates',
+    ],
+    'b50f1d57-03c5-5e96-9054-9d8ec3c5689f' => [
+        'When I started Giorgio Armani in the mid-\'70s, I realized that women needed a way to dress that was equivalent to that of men - something that would give them dignity, an attitude that would help them handle their work life.',
+        'Giorgio Armani',
+    ],
+    '66fe246e-c894-58a5-b73b-9e702e80dbaf' => [
+        'Chicken, brown rice, and veggies is a great healthy dinner option. It\'s full of whole grains and protein, and will keep you full for a long time.',
+        'Mia Hamm',
+    ],
+    '924209af-6e6f-5bb2-8de5-65617f7fc523' => [
+        'Don\'t let people see when you\'re mad - just smile and laugh.',
+        'Astro',
+    ],
+    'be5cbbd8-dead-5809-a03b-c46f75fcfe10' => [
+        'Every bit of joy in my heart, you know, every smile on my face is yours. It\'s awesome to be able to share that with somebody.',
+        'Brantley Gilbert',
+    ],
+    '9bade56c-abba-5861-bfb9-004b30769540' => [
+        'Fatherhood is not a matter of station or wealth. It is a matter of desire, diligence and determination to see one\'s family exalted in the celestial kingdom. If that prize is lost, nothing else really matters.',
+        'Ezra Taft Benson',
+    ],
+    '02e79c19-c820-5cd0-8285-65bdbf18332b' => [
+        'Time makes heroes but dissolves celebrities.',
+        'Daniel J. Boorstin',
+    ],
+    'da04b265-840e-577b-9df6-8d0e0bc2123a' => [
+        'Everybody is different. Everybody has different styles. Just do it the best way you know how.',
+        'Vince Carter',
+    ],
+    '228226c0-d062-5395-a51b-8cd8ff5a04d3' => [
+        'I work hard, like I\'m sure everyone else does, and I\'m very honest with the work I do.',
+        'Shah Rukh Khan',
+    ],
+    'abf7856f-c2bb-554a-ba2f-1bf7817714ff' => [
+        'He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.',
+        'Buddha',
+    ],
+    '954fd70c-8416-5423-abf4-8535172ba3c6' => [
+        'One of the best things to do sometimes is simply to be.',
+        'Eric Butterworth',
+    ],
+    'a94f9bd0-db57-503f-810c-333f652da23e' => [
+        'Space exploration is important research to our economic and national defense, and America\'s space program is a symbol of our success as a scientifically and technologically advanced nation.',
+        'Randy Forbes',
+    ],
+    'e7c6c586-c0f2-5b12-b168-9050fbf3ca57' => [
+        'Do I feel any pressure as the most decorated Winter Olympian in American history? None at all. The only pressures that I know I face are those of how to pay it forward: How can I continually make a positive impact in people\'s lives, help others achieve their dreams, create their own Olympic mindset, creating champions within themselves?',
+        'Apolo Ohno',
+    ],
+    'd63a9650-5661-5950-8666-582819d955b6' => [
+        'If I just do everything the opposite of what my dad did, I think that will make things pretty easy. I can joke about it now because I\'m past that stage where it used to hurt. By having a kid, it\'s gone. I could take all that negative energy that I had and put it in a positive way.',
+        'Derrick Rose',
+    ],
+    '2475c2c4-82e9-583b-8ab2-e40ee8e1b4dc' => [
+        'Super-ambitious goals tend to be unifying and energizing to people; but only if they believe there\'s a chance of success.',
+        'Peter Diamandis',
+    ],
+    '9f2394a2-b8ef-5ee3-8b6d-8448e3a3555d' => [
+        'Collaboration is the best way to work. It\'s only way to work, really. Everyone\'s there because they have a set of skills to offer across the board.',
+        'Antony Starr',
+    ],
+    'b6a5b11d-d0ef-576b-9916-d6906ae3f624' => [
+        'I\'m a travel enthusiast.',
+        'Iggy Pop',
+    ],
+    'a9241445-8670-5fd3-ba8b-7d48b0dac257' => [
+        'No great achiever - even those who made it seem easy - ever succeeded without hard work.',
+        'Jonathan Sacks',
+    ],
+    '6d2b93c5-de54-570d-b1d9-8d86f29dfb2c' => [
+        'If you can\'t feed a hundred people, then feed just one.',
+        'Mother Teresa',
+    ],
+    'b604ff8f-f2ba-5b59-bca4-b1c4b69d5a20' => [
+        'Who picks your clothes - Stevie Wonder?',
+        'Don Rickles',
+    ],
+    '590c5244-6dfd-5067-a00a-3d3b891169b0' => [
+        'The most formidable weapon against errors of every kind is reason.',
+        'Thomas Paine',
+    ],
+    '0c04eb8a-a0cc-5805-8bb3-3c4715f89857' => [
+        'Arab civilizations had been of an abstract nature, moral and intellectual rather than applied; and their lack of public spirit made their excellent private qualities futile. They were fortunate in their epoch: Europe had fallen barbarous; and the memory of Greek and Latin learning was fading from men\'s minds.',
+        'T. E. Lawrence',
     ],
 ];

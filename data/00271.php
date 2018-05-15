@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '02f27e05-9458-5343-930f-e87da7fcd010' => [
-        'Coming together is a beginning; keeping together is progress; working together is success.',
-        'Henry Ford',
+    '189204c5-ecb5-5ddb-8025-2cf443490557' => [
+        'I hope there have been times when I made you all proud, or made you all smile or at least piqued your interest in this wonderful institution we call government.',
+        'John Rowland',
     ],
-    '46fceb24-56e1-5047-9535-abaed2449e8f' => [
-        'It\'s not the situation, but whether we react negative or respond positive to the situation that is important.',
-        'Zig Ziglar',
+    '50539f23-8124-57a9-a02e-ea104cdcafd6' => [
+        'I\'m at my best when people are depending on me. If it\'s just on me and I don\'t have nothing to do, I\'m going to be lazy. On the football field, it\'s every single day, every play, knowing that people are depending on me to make my play. That helps me elevate my game to another level.',
+        'Von Miller',
     ],
-    '2d3092c0-a5c2-5c2f-8c17-b56664f103be' => [
-        'Today it is time for every child to have a right to life, right to freedom, right to health, right to education, safety, the right to dignity, right to equality, and right to peace.',
-        'Kailash Satyarthi',
+    '1820850e-d56d-5ed9-b11a-c23b224676b8' => [
+        'I\'m a misplaced American, but don\'t know where I was misplaced.',
+        'Ruby Wax',
     ],
-    '7eb0e8e7-8ec1-5d7c-a2f0-3485d28ceaab' => [
-        'Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.',
-        'Ralph Blum',
+    '08914d1b-79f4-5e09-aeb3-23533b16e57f' => [
+        'At one time, you could sit on the Rue de la Paix in Paris or at the Habima Theater in Tel Aviv or in Medina and you could see a person come in, black, white, it didn\'t matter. You said, \'That\'s an American\' because there\'s a readiness to smile and to talk to people.',
+        'Maya Angelou',
     ],
-    '58e3ac1d-6513-579f-aae2-da3fe5b3221b' => [
-        'We are such stuff as dreams are made on; and our little life is rounded with a sleep.',
-        'David Petraeus',
+    '490a7ef8-4718-5d3f-b494-9586a21d125b' => [
+        'A discipline I have observed is an attitude of love and reverence to people.',
+        'Bessie Head',
     ],
-    'f46a1d6c-485c-5c0e-8293-a44b99d0b448' => [
-        'Our heritage and ideals, our code and standards - the things we live by and teach our children - are preserved or diminished by how freely we exchange ideas and feelings.',
+    '10128d96-11a6-56a6-8599-09952b3b7358' => [
+        'Smiles come naturally to me, but I started thinking of them as an art form at my command. I studied all the time. I looked at magazines, I\'d practice in front of the mirror and I\'d ask photographers about the best angles. I can now pull out a smile at will.',
+        'Tyra Banks',
+    ],
+    '85ee2429-e6af-5f66-8a05-99c32af921e6' => [
+        'The handicap of deafness is not in the ear; it is in the mind.',
+        'Marlee Matlin',
+    ],
+    'aa31adf6-4a19-54f8-946e-c7377fb462dd' => [
+        'I really struggle with that feeling of helplessness. That\'s why I really try to get my blogs, and even myself, to point to the positive and look at all the inspiring things that are happening.',
+        'Daryl Hannah',
+    ],
+    'd3162f0b-8c3a-5f38-a4f6-5122374c00f7' => [
+        'Trees love to toss and sway; they make such happy noises.',
+        'Emily Carr',
+    ],
+    'b3f7d356-4c98-5456-adc3-1349d82a5a63' => [
+        'A gem cannot be polished without friction, nor a man perfected without trials.',
+        'Lucius Annaeus Seneca',
+    ],
+    'b2d7060e-e711-54ff-ba1d-4d9067dde002' => [
+        'The time I spent thinking about how I was better than somebody else or worrying about somebody else\'s attitude was time I could put to better use.',
+        'Charley Pride',
+    ],
+    '31523262-29e1-550a-a6c3-2a46b8619fc0' => [
+        'I find that it\'s best to take one step at a time and cross each bridge as they come to you.',
+        'Michael Stuhlbarg',
+    ],
+    '5925452b-be21-52a8-bced-071887c9640a' => [
+        'It\'s amazing what sleep does for your looks.',
+        'Emily Procter',
+    ],
+    '8d6d8b52-d7d0-5c65-a813-fe1e895444fa' => [
+        'I loved my mom so much because she had to work on a penny just to put food on the table... During the Depression in the United States, everybody had a tough time. And I was so hurt because she was crying that she didn\'t have any food for us for Thanksgiving.',
+        'Tony Bennett',
+    ],
+    'da346e76-184a-5a67-8ee8-621a646e50d6' => [
+        'You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like.',
+        'Kevin O\'Leary',
+    ],
+    '8e99a693-7fab-58ed-a541-dc7d88488760' => [
+        'It\'s kind of fun to do the impossible.',
         'Walt Disney',
     ],
-    'dabd36df-a2f4-5a90-93d9-fb028d315eef' => [
-        'I was so naive as a kid I used to sneak behind the barn and do nothing.',
-        'Johnny Carson',
+    'bec7ec75-0062-5308-81f5-19fdad2637ab' => [
+        'Creativity is the ability to introduce order into the randomness of nature.',
+        'Eric Hoffer',
     ],
-    '9558eb4f-65e2-5132-bcc0-899e7c8a2b66' => [
-        'Variety\'s the very spice of life, That gives it all its flavor.',
-        'Rachael Ray',
+    '253eb069-59ca-5a05-b87f-fbe40ae3d191' => [
+        'We are Divine enough to ask and we are important enough to receive.',
+        'Wayne Dyer',
     ],
-    'ac90b9b6-c4bf-570a-9c17-af23609bcb0d' => [
-        'We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.',
-        'Buddha',
+    '2ebc030e-60f9-581d-8b4b-891296f7ddff' => [
+        'I had seen the ballet of \'Swan Lake\' as a child but it was as an adult, when I saw a production featuring Erik Bruhn, that I first noticed how significant a part the ever-present threat of violence played. This juxtaposition of great beauty and grace with a backdrop of pure evil stayed with me for years.',
+        'Walter Dean Myers',
     ],
-    '70758e20-edc6-5b6b-9361-e982d5a95c7c' => [
-        'It\'s not the style that motivates me, as much as an attitude of openness that I have when I go into a project.',
-        'Herbie Hancock',
+    'a695d0a3-114e-570f-bb5e-a1d8a2f734c2' => [
+        'Today\'s youth are told to get rich or die trying and they really shouldn\'t take that attitude forward with them.',
+        'Kareem Abdul-Jabbar',
     ],
-    '43e94f46-ad54-505b-a10f-e9dcdcb905bd' => [
-        'Feeling anxious or depressed sometimes is part of what it means to be a person, and it might even be essential to success.',
-        'K. Flay',
+    'e4b31d71-38a8-53a2-b35b-29c5d612b3ea' => [
+        'When I drank, I had a very different attitude towards my playing. It was sloppier but I kind of liked it that way. It was like the alcohol was telling my mind what to do.',
+        'Mick Mars',
     ],
-    '37d34a36-609c-5806-807d-d8d957bc0401' => [
-        'And of course Marc Cherry heightens it and makes it hilarious. But there\'s so many universal themes in the show, and he made it so funny. We knew he was onto something if he could keep it up and, thankfully, he did.',
-        'James Denton',
+    '1b375edf-dd73-5507-b2cb-f3606cdb22aa' => [
+        'My other family is Fleetwood Mac. I don\'t need the money, but there\'s an emotional need for me to go on the road again. There\'s a love there; we\'re a band of brothers.',
+        'Stevie Nicks',
     ],
-    '32d0602d-4d6c-5d46-a92d-22867db8fa8f' => [
-        'Like religion, politics, and family planning, cereal is not a topic to be brought up in public. It\'s too controversial.',
-        'Erma Bombeck',
+    '1aea8116-8cb0-5477-acf1-d13910d55119' => [
+        'The world is a crazy, beautiful, ugly complicated place, and it keeps moving on from crisis to strangeness to beauty to weirdness to tragedy. The caravan keeps moving on, and the job of the longform writer or filmmaker or radio broadcaster is to stop - is to pause - and when the caravan goes away, that\'s when this stuff comes.',
+        'David Remnick',
     ],
-    '78108844-7f40-5bc5-8671-9b477d028415' => [
-        'The nature of the movies is different than it was five years ago, and they\'re all driven by the possibilities of CGI, which means you can make anything happen on screen that you can possibly desire.',
-        'Tom Hanks',
+    '8694f789-a872-5adf-87bd-36c26914d3c4' => [
+        'For the signifier is a unit in its very uniqueness, being by nature symbol only of an absence.',
+        'Jacques Lacan',
     ],
-    '3c75b5a2-c606-5331-a23b-930c7ecd8968' => [
-        'Live life to the fullest, and focus on the positive.',
-        'George S. Patton',
+    '404f6a26-7118-5aba-b332-42434ada41a0' => [
+        'Since 2005, I have not spent much time with my family. In fact I have spent more time at the Taj Landsend in Mumbai. It was my 100th visit recently, which means I have spent more than 400 days in that hotel, and that is a lot more than I have spent with my family.',
+        'Mahendra Singh Dhoni',
     ],
-    '5679a40d-4e01-547e-8fc5-cc4a0f7fb901' => [
-        'I was born with a happy heart, and I try to keep a good attitude. It\'s not true that I\'m happy all the time because nobody is, and we all go through our things.',
-        'Dolly Parton',
+    '9f229483-d347-55b6-9182-ae49285df375' => [
+        'In tough times, some of us see protecting the climate as a luxury, but that\'s an outdated 20th-century worldview from a time when we thought industrialization was the end goal, waste was growth, and wealth meant a thick haze of air pollution.',
+        'Alex Steffen',
     ],
-    '0a703103-b2f6-51d0-85ae-de8d209a4388' => [
-        'When in doubt, take more time.',
-        'John Zimmerman',
+    'c69be48d-28c2-5936-a698-45354ef173f1' => [
+        'I am so happy to be alive. That\'s the one thing I\'d like for people to know. Sometimes people walk by and slip up and say the wrong thing about me, and I\'ll smile. They wonder why am I smiling. Because I\'m happy that I\'m alive.',
+        'George Foreman',
     ],
-    '88c75c6e-dc0c-5a92-8e46-5d076f9e6d6d' => [
-        'If you look at the history of Wonder Woman, you look at the iconography, the images that have kept her alive - they\'re not dark. The thing I think is so important to always keep in mind about her is how positive and bright and shiny she is - very much in the same way that Superman has been.',
-        'Patty Jenkins',
+    'd4012e6e-13fa-53e5-a99c-5fed1484259e' => [
+        'Young people need the hands-on training that comes with a summer job. They need to know how to dress for success and nail job interviews. But most of all, they need mentorship, guidance, and inspiration.',
+        'Hilda Solis',
     ],
-    '6e3aadff-132a-5c89-baa7-8bf80183b54c' => [
-        'I love the simplicity, the ingredients, the culture, the history and the seasonality of Italian cuisine. In Italy people do not travel. They cook the way grandma did, using fresh ingredients and what is available in season.',
-        'Anne Burrell',
+    '83444fcd-ada8-5cf0-ad1f-8d0e18fff235' => [
+        'In such ugly times, the only true protest is beauty.',
+        'Phil Ochs',
     ],
-    'eb302069-a936-5b37-aae0-e42738d8da89' => [
-        'I like to have Chinese furniture in my home as a constant and painful reminder of how much has been destroyed in China. The contrast between the beauty of the past and the ugliness of the modern is nowhere sharper than in China.',
-        'Jung Chang',
+    '4022fee3-5a3a-505e-a74c-22d7cc5f71e0' => [
+        'One thing an exceptional employee never says is, \'That\'s not in my job description.\' Exceptional employees work outside the boundaries of job descriptions.',
+        'Travis Bradberry',
     ],
-    '9c4515c4-863d-515d-89d3-6c6afb0b4b59' => [
-        'A good actor is someone who knows how to take the part and make it real and make it honest and be effective in it. If it\'s in a funny movie and, as long as they are cast in an appropriate way, humor will come from it.',
-        'Ivan Reitman',
+    'd1af236c-5d66-545b-b52d-c3404b4ced19' => [
+        'I love nerds. Comic-Con junkies are the tastemakers of tomorrow. Isn\'t that funny? The tables have turned.',
+        'Kristen Bell',
     ],
-    '782b88c1-c52d-5362-a12a-b35816dc5e30' => [
-        'If you don\'t like how things are, change it! You\'re not a tree.',
-        'Jim Rohn',
+    '3557f6fb-bef9-5d22-97c3-b61865c8adba' => [
+        'I\'m always going to try to win with a positive mindset.',
+        'Brock Osweiler',
     ],
-    'da58f78b-9707-5d38-adea-63c43282e4c7' => [
-        'The winter solstice has always been special to me as a barren darkness that gives birth to a verdant future beyond imagination, a time of pain and withdrawal that produces something joyfully inconceivable, like a monarch butterfly masterfully extracting itself from the confines of its cocoon, bursting forth into unexpected glory.',
-        'Gary Zukav',
+    '04b0ee7a-d791-5432-a99b-a28294921937' => [
+        'Until I was about 14, I was a fat boy, or at least I looked like a fat boy. I think that being funny was a bit of a defence mechanism for me, so I ended up being a bit of a joker.',
+        'Pippa Evans',
     ],
-    '057f9310-dc39-5390-b84b-481ce31b5c7d' => [
-        'The breaking of a wave cannot explain the whole sea.',
-        'Vladimir Nabokov',
+    'bfa05b2c-232d-5d98-af0d-0f1134fbf4be' => [
+        'The biggest ingredient in a best friend is someone whose actions you respect and who you can truly be yourself around.',
+        'Renee Olstead',
     ],
-    'ed4daf60-b5d1-5e56-a62d-c1c4a475163f' => [
-        'At the center of your being you have the answer; you know who you are and you know what you want.',
-        'Lao Tzu',
+    'c8c68e69-ebba-5fbf-b4f0-a7c990ebaa52' => [
+        'Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.',
+        'Byron Pulsifer',
+    ],
+    '1366c29b-8366-5e86-86fe-b82c9413914d' => [
+        'The inspiration for my Vines comes from thinking about funny and relatable experiences from my daily life.',
+        'Lele Pons',
+    ],
+    'f13f2bdb-05ef-56c2-abbe-9c8fa1cd33ce' => [
+        'I conclude, therefore, that this star is not some kind of comet or a fiery meteor... but that it is a star shining in the firmament itself one that has never previously been seen before our time, in any age since the beginning of the world.',
+        'Tycho Brahe',
+    ],
+    'e327a73a-e24c-5cf3-bee3-3eabff15faf8' => [
+        'With an eye made quiet by the power of harmony, and the deep power of joy, we see into the life of things.',
+        'John Lennon',
+    ],
+    'f57f898f-2d6c-512c-b8c4-49e82ba9158f' => [
+        'What is the good of your stars and trees, your sunrise and the wind, if they do not enter into our daily lives?',
+        'E. M. Forster',
+    ],
+    '5461fdd8-996d-59ff-a9dd-e78d58ef2eff' => [
+        'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don\'t think about it is when I\'m playing it.',
+        'Carl Yastrzemski',
+    ],
+    '1202ed99-a89b-5e81-b7fc-3f4d1376ef05' => [
+        'In the investigation of a neurotic style of life, we must always suspect an opponent, and note who suffers most because of the patient\'s condition. Usually this is a member of the family.',
+        'Alfred Adler',
+    ],
+    '7bdaa398-7a92-530f-99a5-dcc65a44d4f5' => [
+        'I really do believe that inner beauty is so much more than any kind of outer beauty.',
+        'Rachele Brooke Smith',
+    ],
+    '201bd0b5-b4fa-5c0c-924d-a589ef83081f' => [
+        'I used to wear a lot of red lipstick, and when I got a pimple, I\'d cover it up with eyeliner to turn it into a beauty mark.',
+        'Selma Blair',
+    ],
+    '0d7686cc-5bb4-5841-8eb1-232c92d95427' => [
+        'Fortune sides with him who dares.',
+        'Virgil',
+    ],
+    '60a59a3a-6cbd-5992-88ac-94e2d25f33d4' => [
+        'There\'s a picture of Christopher and the real Ken Titus and myself in my dressing room. He\'s a great guy, by the way. I just think the real Ken is just super. And he\'s so happy for his son\'s success.',
+        'Stacy Keach',
+    ],
+    'a145fa12-bb57-5f51-86d1-9c80400d2568' => [
+        'Wrinkles should merely indicate where smiles have been',
+        'Mark Twain',
+    ],
+    '26f15243-4207-5c6b-966a-751958d8304b' => [
+        'My sister and I truly are best friends.',
+        'Solange Knowles',
+    ],
+    '7352e430-b5a1-529c-b117-d71df25c62f1' => [
+        'Waste no more time arguing about what a good man should be. Be one.',
+        'Marcus Aurelius',
+    ],
+    '5fe0e23c-0345-5671-b041-74137fe047f4' => [
+        'No, we are not anti-white. But we don\'t have time for the white man. The white man is on top already, the white man is the boss already... He has first-class citizenship already. So you are wasting your time talking to the white man. We are working on our own people.',
+        'Malcolm X',
+    ],
+    '98af6cab-0a06-52df-b0ac-ef5e6a9ad85e' => [
+        'I have looked into your eyes with my eyes. I have put my heart near your heart.',
+        'Pope John XXIII',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'c37de78b-0895-59b5-8541-af9be59b0d67' => [
-        'The essential lesson I\'ve learned in life is to just be yourself. Treasure the magnificent being that you are and recognize first and foremost you\'re not here as a human being only. You\'re a spiritual being having a human experience.',
-        'Connor Franta',
+    'ad6ab940-2524-5cd6-b6b5-3e8bcf2e6d14' => [
+        'I\'ve never met a person who does not want a safer world, better medical care and education for their children, and peace with their neighbours. I just don\'t meet those people. What I meet, over and over again, as I travel around, is that the essential human condition is optimistic - in every one of these places.',
+        'Eric Schmidt',
     ],
-    '597faa1e-31b2-5a16-b690-717897f870b2' => [
-        'The sea is everything. It covers seven tenths of the terrestrial globe. Its breath is pure and healthy. It is an immense desert, where man is never lonely, for he feels life stirring on all sides.',
-        'Jules Verne',
+    '6830f23e-6467-59dc-aa1d-599581d186dc' => [
+        'People who don\'t travel cannot have a global view, all they see is what\'s in front of them. Those people cannot accept new things because all they know is where they live.',
+        'Martin Yan',
     ],
-    '5aeb07f0-9daf-53e2-b7e5-f6e5b1ac1de5' => [
-        'I always spend time exploring the customs and attitudes of the countries I\'m using for locations, and interviewing the people who live there. I\'ve visited over 90 countries thus far.',
-        'Sidney Sheldon',
+    '64b5ae7d-73a0-53d2-b9e9-f44010fe4f4a' => [
+        'A rescue mission doesn\'t involve going in and just taking a child and leaving. You can\'t just choose any child at random. Every kid has a case that is based on that child\'s original family. So, we made it over to a village, found the child; we were interacting with the child.',
+        'Jason Mraz',
     ],
-    '17f8a1b2-27b3-5cf8-aa99-f0ad29f7d258' => [
-        'I tend to look out for things with a resonance to my youth - artists or objects that seemed romantic all those years ago. I never buy anything purely for its value. I like possessions that smile back at me.',
-        'Nicholas Haslam',
+    '33145309-a72d-5fde-8efa-e38318d60bba' => [
+        'I am always doing that which I cannot do, in order that I may learn how to do it.',
+        'Pablo Picasso',
     ],
-    'a8a5080b-dfe4-519a-afba-3612ac6880a6' => [
-        'Strike and struggle precede success, even in the dictionary.',
-        'Christian Slater',
+    'f074bd2d-fc1a-57b9-a7fd-31f94c2eba11' => [
+        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
+        'John de Mol, Jr.',
     ],
-    '01ca3274-8744-5c47-90b7-1d33078cf4ad' => [
-        'My attitude when I\'m in Mexico is I wake up in the morning with nothing to do and I go to bed half done. I don\'t wear a watch. When I live down there, I do nothing according to time. I eat when I\'m hungry and go to sleep when I\'m tired.',
-        'Jesse Ventura',
-    ],
-    '2c1b16cc-9422-59cc-bcdf-92be461b82ef' => [
-        'A whopping 89 percent of buyers start their home search online. How your house looks online is the modern equivalent of \'curb appeal.\' Rent a wide-angle lens and good lighting, get rid of your clutter and post at least eight great photos to win the beauty contest.',
-        'Barbara Corcoran',
-    ],
-    'ea1b74ff-7150-58a2-b8d4-dc2716dd9e7d' => [
-        'Jesus Christ belonged to the true race of prophets. He saw with open eye the mystery of the soul. Drawn by its severe harmony, ravished with its beauty, he lived in it and had his being there. Alone in all history, he estimated the greatness of man.',
-        'Ralph Waldo Emerson',
-    ],
-    '95d40200-cc20-5f9b-85a1-52e7ed3285c9' => [
-        'When deeds speak, words are nothing.',
-        'Pierre-Joseph Proudhon',
-    ],
-    'd69b23e1-2c59-592b-a398-baa8b711e064' => [
-        'You were made perfectly to be loved - and surely I have loved you, in the idea of you, my whole life long.',
-        'Alia Bhatt',
-    ],
-    '6309f2af-1e27-5530-9ed0-27690e2f432f' => [
-        'My father worked in agriculture, and I got to travel round remote rural areas with him and see a bit of the landscape and people.',
-        'Giles Foden',
-    ],
-    'a3569b2f-c8df-5d85-ae45-505d27fff672' => [
-        'I like it best when two ideas collide, like when you have a crazed attitude towards women combined with a crazed attitude towards the Vietnamese. I like that. Even if it\'s not true, I don\'t care whether it\'s true or false. I just do it.',
-        'Peter Saul',
-    ],
-    'c5df52c2-f1c7-5817-9873-bf9143b9198a' => [
-        'I love to travel, I love to go out with my friends, but what I love most is being home with my family.',
-        'Deborah Raney',
-    ],
-    'c653969c-f2f0-5d23-a062-1983b670b94f' => [
-        'You have to stay true to yourself and where you\'re coming from, and sometimes people see you in a different light, but you have to take it in and try to be positive about anything.',
-        'McKayla Maroney',
-    ],
-    '83d09bca-78ff-5f08-998d-23ca938ae354' => [
-        'The beauty that addresses itself to the eyes is only the spell of the moment; the eye of the body is not always that of the soul.',
-        'George Sand',
-    ],
-    '2f31341d-e60f-5656-aa51-1fb52fd3e91d' => [
-        'I love to smile.',
-        'Inge de Bruijn',
-    ],
-    '3ff287d0-082d-501d-b5a3-4be02faa92cc' => [
-        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that\'s why they call it the present.',
+    'b5139c43-90c1-5026-8e43-8540f7ebe1a1' => [
+        'We do what we do because we believe.',
         'Unknown',
     ],
-    '8283756a-0375-5663-abe7-16d0b83e786b' => [
-        'I wanted to say thanks... and share my gratitude for everything I\'ve been blessed with. Family, friends, and continued support from everyone.',
-        'Travis Barker',
+    'b65e327e-818f-5cbf-ae47-de76fad1ac42' => [
+        'O sweet, delusive Noon, Which the morning climbs to find, O moment sped too soon, And morning left behind.',
+        'Helen Hunt Jackson',
     ],
-    '4d35959f-1527-54e3-a611-50b93e95aa31' => [
-        'I\'m very lighthearted, outgoing, friendly, and funny, so I like to try new things.',
-        'Chandler Parsons',
+    '2c7ca14e-793a-5e8b-acc0-e2258f812fa1' => [
+        'Your sacred space is where you can find yourself again and again.',
+        'Joseph Campbell',
     ],
-    '15335eab-4b2d-5fe8-a4f3-2438b1f6019e' => [
-        'Never floss with a stranger.',
-        'Joan Rivers',
+    '35ae4cd7-018e-58d4-bab0-af9bb92b9a8f' => [
+        'I\'ve met so many who have opened doors for me and remained in my life both personally and professionally. After a while, networking doesn\'t feel like \'networking.\' It\'s both serendipitous and unpredictable, and something that just naturally becomes part of your work life and your personal life.',
+        'Narciso Rodriguez',
     ],
-    'e734f613-a088-5dfe-86f1-8c4a2a96a844' => [
-        'Diligence is the mother of good fortune.',
-        'Benjamin Disraeli',
+    '341686be-8a9c-58cf-b2f7-80d6107869e0' => [
+        'My mom\'s one of the toughest ladies I know. I\'ve seen her lose both her brothers, both her parents. She\'s been through a lot, and to see her get up every day and put a smile on her face, that shows nothing but strength.',
+        'DeMar DeRozan',
     ],
-    '682109c4-62a5-5144-b7ad-6c0d0283bf59' => [
-        'I\'ve always followed my heart and pursued my dreams, and I imagine that people find that inspiring. I hope that is the effect I have on my fans and people in general. I definitely want to project a positive energy out into the world.',
-        'Britney Spears',
+    'adbfea23-88ea-5e79-a7d1-88116ecb4ea6' => [
+        'The boundaries which divide Life from Death are at best shadowy and vague. Who shall say where the one ends, and where the other begins?',
+        'A. P. J. Abdul Kalam',
     ],
-    '1a60b2d2-42b4-59bb-bddd-a3a5d41cfd54' => [
-        'Your goals don\'t care how you feel.',
-        'Unknown',
+    'fdeb0aff-93c2-5a5b-a603-ad715767ea4b' => [
+        'Success comes to those who have an entire mountain of gold that they continually mine, not those who find one nugget and try to live on it for fifty years.',
+        'John C. Maxwell',
     ],
-    '70c1fe68-52c2-54e3-bb55-e23df6f2d32e' => [
-        'There\'s a way to do it better - find it.',
-        'Thomas A. Edison',
+    '4739e14a-44e6-5b17-8ff3-3498be842cb5' => [
+        'The novelist teaches the reader to comprehend the world as a question. There is wisdom and tolerance in that attitude. In a world built on sacrosanct certainties the novel is dead.',
+        'Milan Kundera',
     ],
-    'e9119f02-84a4-5575-8b0e-3a8fff0953d6' => [
-        'Real estate sales was perfect training for the experience to go into public life because you learn to accept rejection, learn to meet new people, learn to work with people and find common ground. That\'s the way you sell houses... that\'s also the way you win over constituency.',
-        'Johnny Isakson',
+    'ef18551d-9fb6-5c13-a397-79916057fac5' => [
+        'If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.',
+        'Henry David Thoreau',
+    ],
+    'd477a3f7-c554-519e-b4d4-6445cc867c36' => [
+        'I\'m always asked, \'What\'s the secret to success?\' But there are no secrets. Be humble. Be hungry. And always be the hardest worker in the room.',
+        'Dwayne Johnson',
+    ],
+    '26a1ef1d-d5f1-5df6-be7a-af4783301c7d' => [
+        'Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art.',
+        'Andy Warhol',
+    ],
+    '0eece720-ecd3-5ed4-9dff-21668d2b3331' => [
+        'It\'s weird to me to see how different everyone\'s opinion of beauty is.',
+        'Katee Sackhoff',
+    ],
+    'bbdb719b-7988-5ec5-92a9-8b3306260d32' => [
+        'When you begin to touch your heart or let your heart be touched, you begin to discover that it\'s bottomless.',
+        'Pema Chodron',
+    ],
+    '5db23da4-9f01-5b62-a228-49d926997a8c' => [
+        'Guilt: the gift that keeps on giving.',
+        'Erma Bombeck',
+    ],
+    '64d9f0f6-8201-5c95-bc69-46187bd16037' => [
+        'A good job is more than just a paycheck. A good job fosters independence and discipline, and contributes to the health of the community. A good job is a means to provide for the health and welfare of your family, to own a home, and save for retirement.',
+        'James H. Douglas, Jr.',
+    ],
+    '820e5792-cfc6-56dc-a640-9f28cfc9e9c0' => [
+        'Arriving at one goal is the starting point to another.',
+        'John Dewey',
+    ],
+    '7ceea379-59b4-59a3-bb68-7b718c3932e9' => [
+        'When you get together in a group, it becomes like a family, with the different personalities and the politics that comes with being in a band. It\'s different than bringing something in by yourself.',
+        'Albert Hammond, Jr.',
+    ],
+    'abefd787-1a37-5255-bf88-fbed9d615725' => [
+        'We love life, not because we are used to living but because we are used to loving.',
+        'Ashley Smith',
+    ],
+    '9a5a0a0f-3cdc-58be-a47a-c3d707c1cf92' => [
+        'Mom spent the time that she was supposed to be a kid actully raising children, her younger brother and younger sister. She was tough as nails and did not suffer fools at all. And the truth was she could not afford to. She spoke the truth, bluntly, directly, and without much varnish. I am her son.',
+        'Chris Christie',
+    ],
+    '2e6ac61c-4e7e-5917-acbc-ee16c6189d59' => [
+        'Knowing is not enough; we must apply. Willing is not enough; we must do.',
+        'Johann Wolfgang von Goethe',
+    ],
+    'f9639816-fcee-5b8e-8bee-04d20450a3e3' => [
+        'Every time I slip into the ocean, it\'s like going home.',
+        'Sylvia Earle',
+    ],
+    '144534a1-f1cc-5434-9345-29362956da2f' => [
+        'Where there is great love, there are always miracles.',
+        'Willa Cather',
+    ],
+    '9c370ca1-8e20-5c8c-b626-7ccb933cf6fb' => [
+        'Success means your thoughts are worthy of everyone\'s consideration.',
+        'Julian Fellowes',
+    ],
+    'a1b30da3-2397-5d7e-a52f-ed3dc3e2dab9' => [
+        'Honestly, it is not all about attitude; it is all about heart. You can have the attitude, you can have the swagger, you can talk your way, but it is all about heart.',
+        'Jason Pierre-Paul',
+    ],
+    '8a00cee5-0d17-5b5c-9ddb-02ecfe85c48b' => [
+        'The commonplace about Italian cooking is that it\'s very simple; in practice, the simplicity needs to be learned, and the best way to learn it is to go to Italy and see it firsthand.',
+        'Bill Buford',
+    ],
+    '42ffd241-dbf1-5dce-a070-51d2351fbb06' => [
+        'The beauty of our country is that when it was founded that they took some time to lay out civil liberties in the first 10 Amendments - the Bill of Rights. I\'m a firm believer in those civil liberties and the ability to have your own opinion.',
+        'Aaron Rodgers',
+    ],
+    '8d29ad7a-f17f-5e45-9a5e-cccd599ea362' => [
+        'Man is but a reed, the most feeble thing in nature, but he is a thinking reed.',
+        'Blaise Pascal',
+    ],
+    '0659ce75-6824-554e-928d-fab346019d92' => [
+        'Textbook science is beautiful! Textbook science is comprehensible, unlike mere fascinating words that can never be truly beautiful. Elementary science textbooks describe simple theories, and simplicity is the core of scientific beauty. Fascinating words have no power, nor yet any meaning, without the math.',
+        'Eliezer Yudkowsky',
+    ],
+    '3a4dc82e-ad1c-5472-bdc7-b574aa350b3e' => [
+        'Giant oak trees... have deep root systems that can extend two-and-one-half times their height. Such trees rarely are blown down regardless of how violent the storms may be.',
+        'Joseph B. Wirthlin',
+    ],
+    '778356a8-7ba8-5216-a0f0-427fbb1c0271' => [
+        'One does not discover new lands without consenting to lose sight of the shore for a very long time.',
+        'Andre Gide',
+    ],
+    'de733bd4-9e29-5f90-98f2-e412e1cf1d12' => [
+        'Even in the centuries which appear to us to be the most monstrous and foolish, the immortal appetite for beauty has always found satisfaction.',
+        'Charles Baudelaire',
+    ],
+    '666c6b60-39c3-517d-9402-ca7b8b098aa2' => [
+        'There is the sky, which is all men\'s together.',
+        'Euripides',
+    ],
+    '645f5a60-007a-51ab-b272-25ad19aad819' => [
+        'Soon after, I returned home to my family, with a determination to bring them as soon as possible to live in Kentucky, which I esteemed a second paradise, at the risk of my life and fortune.',
+        'Daniel Boone',
+    ],
+    'c60a9d84-a806-5771-9688-bc99c0ee4825' => [
+        'A wise traveler never despises his own country.',
+        'William Hazlitt',
+    ],
+    'f5cf8b87-311e-50cf-ad12-cd303c39951d' => [
+        'I want to work for a company that contributes to and is part of the community. I want something not just to invest in. I want something to believe in.',
+        'Anita Roddick',
+    ],
+    '5fe1e027-3cfb-5632-972f-b5364bf3b99c' => [
+        'Life is too short to worry about anything. You had better enjoy it because the next day promises nothing.',
+        'William James',
+    ],
+    'aa5777c7-9e78-5c65-b791-a6ffea11b670' => [
+        'One of the disadvantages of wine is that it makes a man mistake words for thoughts.',
+        'Samuel Johnson',
+    ],
+    'c6adfb6c-5f4a-5724-a530-215e7eedc45d' => [
+        'Nothing strengthens authority so much as silence.',
+        'Leonardo da Vinci',
+    ],
+    '28940547-6495-5ad6-ac66-2c2b54952038' => [
+        'It seems to me we can never give up longing and wishing while we are thoroughly alive. There are certain things we feel to be beautiful and good, and we must hunger after them.',
+        'George Eliot',
+    ],
+    '0c24b887-969d-5d6d-ac42-93842c44ccc6' => [
+        'I\'m hoping that these next 20 years will show what we did 20 years ago in sequencing the first human genome, was the beginning of the health revolution that will have more positive impact in people\'s lives than any other health event in history.',
+        'Craig Venter',
+    ],
+    'ce1cd413-5cbd-585a-bdbe-2b9674640702' => [
+        'It\'s extremely important just to keep things positive and happy as much as we can... I think it\'s important that singers, actors, or whatever use our voice to spread positive messages as much as we possibly can.',
+        'Shawn Mendes',
+    ],
+    '53c2c52f-5425-53f3-9434-a8b915b36ddc' => [
+        'Successful people breed success.',
+        'Phil Crosby',
+    ],
+    '62ba7325-466c-508c-a5cc-4698111e6dba' => [
+        'We travel to learn; and I have never been in any country where they did not do something better than we do it, think some thoughts better than we think, catch some inspiration from heights above our own.',
+        'Maria Mitchell',
+    ],
+    'fc5bf4fa-5efe-5c09-a2c9-a9fe53eabdd5' => [
+        'When we meet real tragedy in life, we can react in two ways - either by losing hope and falling into self-destructive habits, or by using the challenge to find our inner strength. Thanks to the teachings of Buddha, I have been able to take this second way.',
+        'Miley Cyrus',
+    ],
+    '265cd34e-d2e2-5ceb-8748-8275e6339964' => [
+        'In a person\'s career, well, if you\'re process-oriented and not totally outcome-oriented, then you\'re more likely to be success. I often say \'pursue excellence, ignore success.\' Success is a by-product of excellence.',
+        'Deepak Chopra',
     ],
 ];

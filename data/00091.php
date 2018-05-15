@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'fd04a1bf-f489-5bd2-bb37-b3d3cccd8781' => [
-        'Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn\'t will be priceless.',
-        'Kevin Ngo',
+    '0a02c6e7-d5ea-59f1-829c-b46d4ca2fb6e' => [
+        'Give me a couple of years, and I\'ll make that actress an overnight success.',
+        'Samuel Goldwyn',
     ],
-    '12d33073-50fb-5f34-a476-76567cbee8de' => [
-        'We are time\'s subjects, and time bids be gone.',
-        'William Shakespeare',
+    'a0aee6f8-6f56-5ec9-a786-33660bdf1db5' => [
+        'Food culture is like listening to the Beatles - it\'s international, it\'s very positive, it\'s inventive and creative.',
+        'Alice Waters',
     ],
-    '86b8086b-5406-5eee-a7cf-683cfc328f1e' => [
-        'The demons you have are what motivate you to make your art. This is what drives the detective, this is what drives the painter, this is what drives the writer: a conflicting urge to forget pain and at the same time remember it and fight for some kind of justice. I know these powerful things are inside of me and everyone in some way or another.',
-        'Tom Reiss',
+    '2ff9b206-f650-559b-9f93-b9f6b3a40e5a' => [
+        'Cure for an obsession: get another one.',
+        'Mason Cooley',
     ],
-    'e3fba0ad-6d7a-5177-a4a4-bd8405014ea4' => [
-        'I look back on my life like a good day\'s work, it was done and I am satisfied with it.',
-        'Taylor Swift',
+    '45f2929f-101e-532c-9db6-d5fee4569bea' => [
+        'Stay away from what might have been and look at what will be.',
+        'Marsha Petrie Sue',
     ],
-    'acacf13d-ab6c-58d4-8160-56f0d3840e7b' => [
-        'I didn\'t understand key signatures or anything, you know. I\'d say silly things at the top of a trumpet part like, \'Note, when you play B naturals, make the B naturals a half step lower because they sound funny if they\'re B naturals.\' And some guy said: \'Idiot, just put a flat on the third line and it\'s a key signature, you know?\'',
-        'Quincy Jones',
+    '37fdfbee-ae8c-5d4a-a03a-30ee1371f1ea' => [
+        'If nuclear power plants are safe, let the commerical insurance industry insure them. Until these most expert judges of risk are willing to gamble with their money, I\'m not willing to gamble with the health and safety of my family.',
+        'Donna Reed',
     ],
-    '3e45f58a-0cf8-599c-b4bc-efa25f533886' => [
-        'My second husband believed I had such a fickle attitude to friendship that each Friday he would update the list of my \'Top Ten\' friends in the manner of a Top Of The Pops chart countdown.',
-        'Julie Burchill',
+    'b2c3bf97-630c-5f7b-8122-6035debb2007' => [
+        'To be successful you have to be lucky, or a little mad, or very talented, or find yourself in a rapid growth field.',
+        'Edward de Bono',
     ],
-    'd28f6ecd-1d05-531b-bf74-db7e09eacffb' => [
-        'I\'m not anti-fashion, but I\'ve always had a bit of a punk attitude. That\'s important, I think. I do my own thing.',
-        'Sade Adu',
+    'c4dc40b1-5a03-5c4f-9f25-ddb5e0d4c8a9' => [
+        "It\u{92}s better to have nobody than someone who is half there, or who doesn\u{92}t want to be there.",
+        'Angelina Jolie',
     ],
-    'cd8bc832-b514-595b-81bf-3119504a4d19' => [
-        'Some people know that they are so adorable looking, all they have to do is smile and dress up and they get plenty from that. Then there are some of us who, early on, see that that doesn\'t work. So we joke about it.',
-        'Merrill Markoe',
+    'c1b430c2-96f0-51bf-a3ee-b519cf772b70' => [
+        'Never deny a diagnosis, but do deny the negative verdict that may go with it.',
+        'Norman Cousins',
     ],
-    'fc489ff3-4d92-517a-ad45-a5eceaa138a6' => [
-        'I usually stalk fans because I think they\'re really funny on Twitter. They don\'t know it, but I\'ll just go through their timelines, and if something is happening in the media, I always read fan accounts instead of the news because they have all the info and make the funniest jokes about it, so that\'s how I get my gossip - by stalking fans.',
-        'Gigi Hadid',
+    '20a94ed4-cee0-555d-8093-72d9680dfcbb' => [
+        'Inspiration does exist but it must find you working.',
+        'Pablo Picasso',
     ],
-    '2e85f125-5d3f-5439-8cb2-59bbd07a517e' => [
-        'There is a miracle in your mess, don\'t let the mess make you miss the miracle.',
-        'Patience Johnson',
+    'ae06c4b7-ab9f-54a9-9ade-e8e5dbe1b362' => [
+        'Sales are contingent upon the attitude of the salesman - not the attitude of the prospect.',
+        'W. Clement Stone',
     ],
-    'fe56742b-9dc8-5662-9994-6cac22d6c2dd' => [
-        'I was always anti-marriage. I didn\'t understand monogamy. I couldn\'t figure out how that could last. And then I met Bryn and I started to understand the beauty of constancy and history and change and going on the roller coaster with someone - of having a partner in life.',
-        'Maria Bello',
+    'bc1b55b2-1ca1-547c-8193-63422dd336ff' => [
+        'Nothing exterior to me will ever take command of me.',
+        'Walt Whitman',
     ],
-    '27ed872b-ed25-529e-acdb-6d9c7bf9908c' => [
-        'I tried without much success to learn a little of the humanities and the arts, but even passing the courses in art history and music history was a challenge.',
-        'John C. Mather',
+    'ce8b1829-52f0-5919-bed1-ec0e7b250a92' => [
+        'It is not the beauty of a building you should look at; its the construction of the foundation that will stand the test of time.',
+        'David Allan Coe',
     ],
-    '12e4511d-c307-5fd9-8168-dbbd03621a45' => [
-        'I tried out various experiments described in treatises on physics and chemistry, and the results were sometimes unexpected. At times, I would be encouraged by a little unhoped-for success; at others, I would be in the deepest despair because of accidents and failures resulting from my inexperience.',
-        'Marie Curie',
+    'd8956d48-21b3-5d1f-acbd-e5da956724d7' => [
+        'Who was Amanda Knox? Was she a fresh-faced honor student from Seattle who met anyone\'s definition of an all-American girl - attractive, athletic, smart, hard-working, adventuresome, in love with languages and travel? Or was her pretty face a mask, a duplicitous cover for a depraved soul?',
+        'Tina Brown',
     ],
-    'fd9531d6-52aa-5797-aee5-df88ebbe149f' => [
-        'I\'ve covered a lot of ground geographically and emotionally and for years I lost my connection with my family. But the best comfort you can have, whether you are on the phone or sitting there in the living room with them, is with your parents, and to me family has always meant protection. When you smile you get a smile back, unconditionally.',
-        'Brigitte Nielsen',
+    '7967ac2c-7194-55fc-9b3f-3d43efd16be9' => [
+        'The happiest moment of my life was probably when my daughter was born.',
+        'Andy Andrews',
     ],
-    '4a2a3904-b3bb-5e01-a9ff-60665d6b329c' => [
-        'I don\'t think there\'s any dearth of talent in India - we\'ve always had the best juniors in the world.',
-        'Mahesh Bhupathi',
+    '4f385fcc-cd06-59ae-9ab0-dfae36110f69' => [
+        'He that will enjoy the brightness of sunshine, must quit the coolness of the shade.',
+        'Samuel Johnson',
     ],
-    '8714a672-5ca9-5a37-b34b-9b9c01474d29' => [
-        'I just think Valentine\'s Day is a day to really appreciate the person you love, no matter who it is, and to spend time with them. I don\'t think it\'s all about fancy presents or whatever. I think it\'s about spending that quality time with that special person.',
-        'Prince Royce',
+    'c77ae1ef-1ad4-50ff-9b0d-aa39a0421e4b' => [
+        'The feminist movement is not about success for women. It is about treating women as victims and about telling women that you can\'t succeed because society is unfair to you, and I think that\'s a very unfortunate idea to put in the minds of young women because I believe women can do whatever they want.',
+        'Phyllis Schlafly',
     ],
-    '17c9cd16-4519-56a2-ba05-41d6387c0458' => [
-        'I went to the Performing Arts School and studied classical ballet. That attitude is something that\'s put into your head. You are never thin enough.',
-        'Carmen Electra',
+    '0e1f077c-c43d-59fe-843b-3e7c6f29c0bf' => [
+        'I have believed the best of every man. And find that to believe is enough to make a bad man show him at his best, or even a good man swings his lantern higher.',
+        'William Butler Yeats',
     ],
-    '6be014c1-92aa-5899-8144-2b179953745d' => [
-        'Regardless of what one\'s attitude towards prohibition may be, temperance is something against which, at a time of war, no reasonable protest can be made.',
-        'William Lyon Mackenzie King',
+    '277d97f1-4631-521a-8a51-aa03e16c542b' => [
+        'I don\'t have time for hobbies. At the end of the day, I treat my job as a hobby. It\'s something I love doing.',
+        'David Beckham',
     ],
-    '200ddd4f-6b3c-5ac5-a4b4-62f4f5371937' => [
-        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
-        'Jean-Michel Jarre',
+    '614c42f0-4af4-51b6-86d1-1dcbc062db69' => [
+        'I am shocked by the easy attitude of many in the media towards disclosing our Nation\'s secrets.',
+        'Todd Tiahrt',
     ],
-    '22ff8bbd-1c11-5e91-836f-5c088ee2a9d8' => [
-        'The journey of a thousand miles begins with one step.',
-        'Lao Tzu',
+    '3b475ef1-4209-50c1-a219-1cf902b1a661' => [
+        'I\'m a big believer in persistence, don\'t be greedy and, above all, work hard. It\'s what keeps me going.',
+        'Caprice Bourret',
     ],
-    'cb946960-075c-591b-8c93-a767a497aeb2' => [
-        'Stubborn and ardent clinging to one\'s opinion is the best proof of stupidity.',
-        'Michel de Montaigne',
+    '75ed5195-6cee-5a8d-88f1-44462629b510' => [
+        'Could we change our attitude, we should not only see life differently, but life itself would come to be different.',
+        'Katherine Mansfield',
     ],
-    '345a9d52-0c5c-59a2-aa4e-57d4520eb800' => [
-        'Playing is just about feeling. Playing isn\'t necessarily about misery. Playing isn\'t necessarily about happiness. But it\'s just about letting yourself feel all those things that you have already on the inside of you, but you\'re all the time trying to push them aside because they don\'t make for polite conversation or something.',
-        'Janis Joplin',
+    '44a6a685-ae0b-5375-b7bd-435de3fc4113' => [
+        'Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.',
+        'Samuel Smiles',
     ],
-    '0298813f-8b8d-570b-93dd-2c736a61b2ba' => [
-        'Good teachers know how to bring out the best in students.',
-        'Charles Kuralt',
+    '51dcb81f-3c0e-5a61-af3e-cd5c3465290f' => [
+        'There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.',
+        'Robert Louis Stevenson',
     ],
-    '29b32b58-2ff2-5cdf-8f4b-f99c0b7ecae2' => [
-        'It is easy to make promises - it is hard work to keep them.',
-        'Boris Johnson',
+    'f3aab0db-a01c-5388-93ae-c5ec67130216' => [
+        'Decide that you want it more than you are afraid of it.',
+        'Bill Cosby',
     ],
-    'cafe31b4-7cae-50e8-bb92-2bcc04df3cc4' => [
-        'One\'s philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.',
-        'Eleanor Roosevelt',
+    '6d10ad21-fbde-5422-b89f-acf0597ac7ae' => [
+        'We are infected by our own misunderstanding of how our own minds work.',
+        'Kevin Kelly',
+    ],
+    '0433c767-dddc-5707-9e8f-22d252368f12' => [
+        'Success is dependent on effort.',
+        'Sophocles',
+    ],
+    '48c325f8-02db-554a-a2d6-9e5cd9903587' => [
+        'My smile will always be broken, but I\'ll always be grateful for the chance to get to do what I get to do.',
+        'Trent Franks',
+    ],
+    '76d262b1-40cc-5d05-8d1f-6aaf35134c71' => [
+        'A good compromise is one where everybody makes a contribution.',
+        'Angela Merkel',
+    ],
+    'ad912f55-c7f9-5a15-a2dc-ac3552feb19c' => [
+        'We travel, some of us forever, to seek other states, other lives, other souls.',
+        'Anais Nin',
+    ],
+    'bd395eee-9e78-5c84-9f65-3b8753568e72' => [
+        'Art enables us to find ourselves and lose ourselves at the same time.',
+        'Thomas Merton',
+    ],
+    '203febbc-6d53-552e-b520-a6f95f5c90f3' => [
+        'Success is not two cars or a swimming pool. It\'s the approval of your peers.',
+        'Peter Finch',
+    ],
+    '1afbc841-7297-5af9-b4ea-d5f6e579cfa1' => [
+        'The idea of traveling in Africa for me is based on going by road or train or bus or whatever and crossing borders. You can\'t travel easily or at all through some countries.',
+        'Paul Theroux',
+    ],
+    'a48058f7-b0e4-509f-965d-cbd2f4102967' => [
+        'If you don\'t have time to do it right, when will you have time to do it over?',
+        'John Wooden',
+    ],
+    'b37a50c3-ee73-5b0e-a636-13d6aeadd1d0' => [
+        'I would like to see the day when somebody would be appointed surgeon somewhere who had no hands, for the operative part is the least part of the work.',
+        'Harvey Cushing',
+    ],
+    'f17a9714-2188-564a-8269-7fdc72eecffd' => [
+        'Although I have guitars all around, and I pick them up occasionally and write a tune and make a record, I don\'t really see myself as a musician. It may seem a funny thing to say. It\'s just like, I write lyrics, and I make up songs, but I\'m not a great lyricist or songwriter or producer. It\'s when you put all these things together - that makes me.',
+        'George Harrison',
+    ],
+    '94941a3b-2269-5c44-b17a-90cb13bc3b2d' => [
+        'My family didn\'t have money to travel, so reading was how I knew about the world. It made me hungry to have more experiences than just what I could possibly experience in Arkansas.',
+        'Mary Steenburgen',
+    ],
+    '915f4c3e-a99f-5e9c-9970-efced8c3741c' => [
+        'The art of living is more like wrestling than dancing.',
+        'Neil deGrasse Tyson',
+    ],
+    '1176c31f-e7e9-52b3-8cf1-25d6a05a075c' => [
+        'I love eating it - grilled chicken, pasta, rice, and other foods that give me long term energy. Every once in a while, my sweet tooth gets the best of me and I have to snack on some candy. Beverage wise, I stick to sports drinks, water, milk, and juice.',
+        'Derrick Rose',
+    ],
+    '638a7c4f-6c81-522a-b6bc-30ef93c3065f' => [
+        'Strength does not come from winning. Your struggles develop your strengths.',
+        'Arnold Schwarzenegger',
+    ],
+    'd04162db-6479-5fe6-89b0-1d938989528d' => [
+        'When a trait is universal, evolutionary biologists look for a genetic explanation and wonder how that gene or genes might enhance survival or reproductive success.',
+        'Robin Marantz Henig',
+    ],
+    '3e11e136-a7e0-56fd-8560-39d5b0f2b80e' => [
+        'When the whole world is silent, even one voice becomes powerful.',
+        'Malala Yousafzai',
+    ],
+    'a8eda166-c8f1-529e-ac8a-fa594a169bb9' => [
+        'The flow of Guiness into the studio was inspirational as well as nutritive.',
+        'Carter Burwell',
+    ],
+    'af9b7a21-2a41-5b20-b0b3-5b705af23c7d' => [
+        'I found that being with happy positive people annoys me.',
+        'Karl Pilkington',
+    ],
+    '1fb0134b-c368-51a8-ba1a-c260a8650008' => [
+        'Imagination will often carry us to worlds that never were. But without it we go nowhere.',
+        'Carl Sagan',
+    ],
+    '850ad816-4ef0-5aff-9d28-a50e1dec6645' => [
+        'Italian style is a natural attitude. It is about a life of good taste. It doesn\'t have to be expensive. Simple but with good taste. Luxury is possible to buy. Good taste is not.',
+        'Diego Della Valle',
+    ],
+    '1105cc54-9f1e-5558-8c6f-510d4c1d4192' => [
+        'Injustice, poverty, slavery, ignorance - these may be cured by reform or revolution. But men do not live only by fighting evils. They live by positive goals, individual and collective, a vast variety of them, seldom predictable, at times incompatible.',
+        'Isaiah Berlin',
+    ],
+    '481ca7bd-a9bf-53d0-bb07-a0e8cb33c1e4' => [
+        'When liberals finally grasped the strength of popular feeling about the family, they cried to appropriate the rhetoric and symbolism of family values for their own purposes.',
+        'Christopher Lasch',
+    ],
+    '428456aa-49b5-5980-895f-2b82ba8b025e' => [
+        'Once you decide to work for yourself, you never go back to work for somebody else.',
+        'Alan Sugar',
+    ],
+    '1457d6fe-f80e-55f5-91ea-791b150fc4c6' => [
+        'A national park is not a playground. It\'s a sanctuary for nature and for humans who will accept nature on nature\'s own terms.',
+        'Michael Frome',
+    ],
+    '474a5c57-0997-5aaf-91bc-50e570b8c02b' => [
+        'Autumn is a second spring when every leaf is a flower.',
+        'Albert Camus',
     ],
 ];

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '1a687c3c-b094-5f84-bebf-85b1bdcc513d' => [
-        'You can always enhance your natural beauty; you learn what works for your face because crazy make-up doesn\'t really suit anyone.',
-        'Caroline Winberg',
+    '905020ac-3c3e-525d-b95f-374f1bfa5564' => [
+        'All action results from thought, so it is thoughts that matter.',
+        'Sai Baba',
     ],
-    '8f52475d-9098-5e2e-bfc6-c0ca41b52b7c' => [
-        'To handle that stardom, the red carpets, the photo shoots, people all of a sudden recognizing you and following you in everyday life, it\'s a bit weird. It\'s strange, and it can have funny effects on you in terms of do you like it or don\'t you like it. Some people run away from it, some people embrace it; I found a good middle ground.',
-        'Roger Federer',
+    '304211d0-c245-5dd8-bda9-dfe3ab10755f' => [
+        'You live in the image you have of the world. Every one of us lives in a different world, with different space and different time.',
+        'Alejandro Jodorowsky',
     ],
-    '60dd75eb-6b2b-513f-8827-0b72f6adfbda' => [
-        'We tried to set up a company that patterned ourselves after Southwest in all the fun, the spirit, the great people, the smile, the efficiency side of it, but we\'ve added some extras that people aren\'t used to finding on Southwest.',
-        'David Neeleman',
+    '3b9bbd0a-72b6-56a3-a8bf-ad100f3f0737' => [
+        'Beauty is less important than quality.',
+        'Eugene Ormandy',
     ],
-    '83ca99ae-d8a2-558e-a78f-7a80a6ee34c0' => [
-        'Teaching\'s hard! You need different skills: positive reinforcement, keeping students from getting bored, commanding their attention in a certain way.',
-        'Bill Gates',
+    '2adc28ac-29d3-518b-9d68-8b0fbb31c8c0' => [
+        'I smile so much at the theater my face hurts when I leave.',
+        'Heather Matarazzo',
     ],
-    '830a2e2d-462c-54e1-b648-9096b679a889' => [
-        'Success or failure depends more upon attitude than upon capacity successful men act as though they have accomplished or are enjoying something. Soon it becomes a reality. Act, look, feel successful, conduct yourself accordingly, and you will be amazed at the positive results.',
+    '390100f9-48f8-5537-a710-e26d5204bd1f' => [
+        'Time is nature\'s way of keeping everything from happening at once.',
+        'John Archibald Wheeler',
+    ],
+    'c43f94ab-108e-507a-b34c-e574f12daea9' => [
+        'I work to stay alive.',
+        'Bette Davis',
+    ],
+    'be282d56-36d2-503f-8e56-41e4af2843d2' => [
+        'There is a very deep conviction in the heart of the people who work in al-Jazeera that if it changes its editorial line, it will very quickly lose its audience. Al-Jazeera has its own style; it has more than 3,500 employees, and I don\'t think anyone will have the attitude of changing it because they will lose.',
+        'Wadah Khanfar',
+    ],
+    '17974e54-0584-5603-b8ea-2b405c6827b2' => [
+        'To change ones life, start immediately, do it flamboyantly, no exceptions.',
         'William James',
     ],
-    'a72682ac-264a-54a7-a484-6b174f129c10' => [
-        'Care and diligence bring luck.',
-        'Proverb',
+    '27c7b4ca-8db4-5e08-877c-c739a3914cd4' => [
+        'No student ever attains very eminent success by simply doing what is required of him: it is the amount and excellence of what is over and above the required, that determines the greatness of ultimate distinction.',
+        'Charles Kendall Adams',
     ],
-    'a5305110-2509-57c6-b070-c0d51905e601' => [
-        'I\'m having a great time. It\'s like I\'m on some ridiculous big roller coaster not knowing what\'s happening next, but just having a great time on the ride.',
-        'Samantha Mumba',
+    '8c782b62-e3b0-55b3-bab1-23878b323b73' => [
+        'Anyone who says he can see through women is missing a lot.',
+        'Groucho Marx',
     ],
-    '054e64a6-685c-5eb4-a0eb-0b2cf10faa38' => [
-        'Who was Amanda Knox? Was she a fresh-faced honor student from Seattle who met anyone\'s definition of an all-American girl - attractive, athletic, smart, hard-working, adventuresome, in love with languages and travel? Or was her pretty face a mask, a duplicitous cover for a depraved soul?',
-        'Tina Brown',
+    '6438928d-03bd-5f9b-8390-bbd753222aab' => [
+        'I\'m very fortunate that I have a wonderful family around me and loved ones.',
+        'Melissa Etheridge',
     ],
-    '30a5dfa7-879e-590d-ab2a-7a7b5ce42bf5' => [
-        'Natural beauty products are a must! I use coconut oil-based RMS makeup, and I slather almond oil on my hands to soak while I watch a movie.',
-        'Phoebe Tonkin',
+    '26fc2397-f891-53f2-bacf-37deb813b919' => [
+        'We cannot change our past. We can not change the fact that people act in a certain way. We can not change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude.',
+        'Charles R. Swindoll',
     ],
-    '0362d19e-47b7-55d7-869c-ab72b0dfe843' => [
-        'My fake plants died because I did not pretend to water them.',
-        'Mitch Hedberg',
+    'a68ffecd-59d5-56c0-ad2e-1b40d06fb703' => [
+        'Life is what you make of it. Always has been, always will be.',
+        'Grandma Moses',
     ],
-    '7f4e4051-d6b8-50ac-9f09-bf17ba367499' => [
-        'As you grow older, you learn a few things. One of them is to actually take the time you\'ve allotted for vacation.',
-        'John Battelle',
+    '36eafadb-95d8-5fe3-9110-08ceb9ded088' => [
+        'For success of any mission, it is necessary to have creative leadership. Creative leadership is vital for government, non-governmental organisations as well as for industries.',
+        'A. P. J. Abdul Kalam',
     ],
-    'ac238b1a-55f0-5f2e-9634-8d7a81be64e5' => [
-        'Technology doesn\'t address everything - for example, air travel still sucks.',
-        'Brad Feld',
+    'fb70a0b1-3c0f-5390-b0ac-b66944e805c2' => [
+        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
+        'Ariana Grande',
     ],
-    '5a0c81b5-771d-5592-9428-4d6a3011d3eb' => [
-        'What\'s a butterfly garden without butterflies?',
-        'Roy Rogers',
+    'c54e5776-b3a0-55f2-83e7-3d3ce0925242' => [
+        'Art is not a study of positive reality, it is the seeking for ideal truth.',
+        'John Ruskin',
     ],
-    '02e28e3a-84d4-5b66-a3d0-cb380794fa0b' => [
-        'The tree which moves some to tears of joy is in the eyes of others only a green thing that stands in the way. Some see nature all ridicule and deformity... and some scarce see nature at all. But to the eyes of the man of imagination, nature is imagination itself.',
-        'William Blake',
+    'cb1d564d-998b-51c8-a229-bea973479732' => [
+        'If we want to travel into the future, we just need to go fast. Really fast. And I think the only way we\'re ever likely to do that is by going into space.',
+        'Stephen Hawking',
     ],
-    '29ad7dbe-9f56-51bd-b4ae-8c38959ab19a' => [
-        'You have to figure out what\'s important and keep the main points, though I will swing a little outside the box. It affords me the freedom to find out who the character is, and it\'s been a positive technique for me. I\'m not saying everyone should change words, but if you can do it with confidence, you may nail it.',
-        'Dawn Olivieri',
+    'ca8be8d6-bbfa-5711-80c6-cbbf3f53198a' => [
+        'I know I\'m really lucky to do what I do, but sometimes with the hours and the travelling, I don\'t get to see my family and friends as much as I\'d like. It can be lonely on the road. Sometimes I come offstage after a massive adrenaline rush, and then when I go to an empty hotel room on my own, it can be an anti-climax.',
+        'Olly Murs',
     ],
-    '82185de4-1413-56f4-b3be-e4ba3963c55e' => [
-        'All I would say is that when I\'ve been very down or having kind of a tough time in my life, certain films or pieces of music or books have changed that. They\'ve taken me out of a dark place and put me into a more positive one. And I think that if we can do that for people, then it\'s certainly worth doing.',
-        'Rupert Friend',
+    '31b72b3d-ec62-5d18-8f46-1d9fa65aef6e' => [
+        'The stars, that nature hung in heaven, and filled their lamps with everlasting oil, give due light to the misled and lonely traveller.',
+        'John Milton',
     ],
-    'b803e33b-4ae7-554f-a2a5-8f99d00a8575' => [
-        'When I think of art I think of beauty. Beauty is the mystery of life. It is not in the eye it is in the mind. In our minds there is awareness of perfection.',
-        'Agnes Martin',
+    '80642f95-65f8-5d4e-90bb-875c186a9351' => [
+        'Joy\'s smile is much closer to tears than laughter.',
+        'Victor Hugo',
     ],
-    '97cbc0d5-a0ad-58b3-b57b-c34600c58149' => [
-        'The roots of true achievement lie in the will to become the best that you can become.',
-        'Harold Taylor',
+    '024da53e-ae24-5f7a-92fe-c7c2f87219fd' => [
+        'I can\'t go into a mob scene and sense the mood and the attitude of the crowd. I can\'t conduct man-on-the-street interviews or even get reactions that I can be sure are honest, because they know who I am.',
+        'Walter Cronkite',
     ],
-    '7670da2a-b052-5e52-afcf-8c63163a51f2' => [
-        'You\'ve got to eat while you dream. You\'ve got to deliver on short-range commitments, while you develop a long-range strategy and vision and implement it. The success of doing both. Walking and chewing gum if you will. Getting it done in the short-range, and delivering a long-range plan, and executing on that.',
-        'Jack Welch',
+    '99cf7f7c-96c2-56f7-a716-cccb999ac43e' => [
+        'I have found in work that you only get back what you put into it, but it does come back gift-wrapped.',
+        'Joyce Brothers',
     ],
-    'bc0062f0-bdfc-50d6-9114-a6f165221838' => [
-        'I always have a positive reaction to Times Square - you\'ve got so many people passing through here, so many cultures, and so many people merging into the central community of New York City. This is the hub of America.',
-        'Dhani Jones',
+    'c730651e-1761-593a-8a73-77081405e01b' => [
+        'By now, you\'ve probably caught on to something: my mother is always standing by with just the right Scripture or inspirational saying to get me through any tough situation.',
+        'Gabby Douglas',
     ],
-    '7ce6e39d-6428-5c07-a958-85c4d7895fbc' => [
-        'I am so happy to be alive. That\'s the one thing I\'d like for people to know. Sometimes people walk by and slip up and say the wrong thing about me, and I\'ll smile. They wonder why am I smiling. Because I\'m happy that I\'m alive.',
-        'George Foreman',
+    '115f9fd4-1de5-5441-9016-0d60924e469f' => [
+        'Love the moment and the energy of that moment will spread beyond all boundaries.',
+        'Corita Kent',
     ],
-    '2e9840b2-4b7c-5653-a97a-0635838a9864' => [
-        'Decades of research have shown that most happy families communicate effectively. But talking doesn\'t mean simply \'talking through problems,\' as important as that is. Talking also means telling a positive story about yourselves.',
-        'Bruce Feiler',
+    'b1580721-8add-50c8-8478-977b00cfb09c' => [
+        'The longer I live, the more I feel that the individual is not so much to blame - not even the worst individuals, not even the \'best\' citizens - as the system of corruption which has grown up about us, and which rewards an honest man with a mere living and a crook with all the magnificence of our magnificent modern life.',
+        'Lincoln Steffens',
     ],
-    '7ad864bb-e50d-5ac3-a419-1d378ace300a' => [
-        'I find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
-        'Thomas A. Edison',
+    'c6812885-afe7-5127-8309-693365f6879c' => [
+        'It\'s hard to beat a person who never gives up.',
+        'Babe Ruth',
     ],
-    'e6aaf204-8412-53f1-a1b1-b14b9dee32d9' => [
-        'I do love to capture beauty in this world. And photos can last the test of time.',
-        'Nathaniel Buzolic',
+    'a09d555f-074c-5552-9523-c486894770d5' => [
+        'From error to error one discovers the entire truth.',
+        'Sigmund Freud',
     ],
-    'f32d00b7-4183-543a-9d3e-06b2bb8597e8' => [
-        'What worries you masters you.',
-        'Haddon Robinson',
+    'fb5afc56-22ed-577c-94cc-f09238c208ec' => [
+        'To me, the blues is an infection. I don\'t think it\'s necessarily a melancholy thing; the blues can be really positive and I think I think anyone and everyone can have a place for the blues. It need not always a woeful, sorrowful thing. It\'s more reflective; it reminds you to feel.',
+        'Mick Fleetwood',
+    ],
+    'f03e94a1-9d0a-5c48-978e-b9866782de6c' => [
+        'It\'s not the tools that you have faith in - tools are just tools. They work, or they don\'t work. It\'s people you have faith in or not. Yeah, sure, I\'m still optimistic I mean, I get pessimistic sometimes but not for long.',
+        'Steve Jobs',
+    ],
+    '14a1ab9f-96a2-55da-a93d-8a3903dab38c' => [
+        'Personally, I just think rap music is the best thing out there, period. If you look at my deck in my car radio, you\'re always going to find a hip-hop tape; that\'s all I buy, that\'s all I live, that\'s all I listen to, that\'s all I love.',
+        'Eminem',
+    ],
+    'ec06b54f-c1ab-5fb9-a007-1a463dcda27a' => [
+        'I spent two years in the Army. And my older brother, who was also a great positive influence on me, encouraged me to think about law school, and I said - well, I didn\'t have any money.',
+        'George J. Mitchell',
+    ],
+    'adba060b-5225-543f-b57b-58ab036dcbd9' => [
+        'You know what\'s funny to me? Attitude.',
+        'Don Rickles',
+    ],
+    '2094ad5b-da27-5560-95e9-70d40464a346' => [
+        'Work is the meat of life, pleasure the dessert.',
+        'B. C. Forbes',
+    ],
+    'fd86a177-c1c3-552a-a874-dd7eb7e63b0c' => [
+        'Brought up to respect the conventions, love had to end in marriage. I\'m afraid it did.',
+        'Bette Davis',
+    ],
+    'a4a6c364-d831-5864-b5ee-d0934262a88d' => [
+        'The ideal life is in our blood and never will be still.',
+        'Phillips Brooks',
+    ],
+    '6d9c1bdb-bdc4-5826-bb77-a5a3b73e5022' => [
+        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
+        'Gil Scott-Heron',
+    ],
+    '83610349-5794-57fd-824d-74c93b93f528' => [
+        'One way to keep momentum going is to have constantly greater goals.',
+        'Michael Korda',
+    ],
+    'a50699d5-7b87-5205-ab5d-0e71444726ef' => [
+        'Comedy is tragedy - plus time.',
+        'Carol Burnett',
+    ],
+    '067137c1-e523-5855-89eb-608cecd8ace3' => [
+        'Let the gentle bush dig its root deep and spread upward to split one boulder.',
+        'Carl Sandburg',
+    ],
+    'c6fdcd3c-986e-5518-a96f-ab05893cf8b1' => [
+        'Dreams can become a reality when we possess a vision that is characterized by the willingness to work hard, a desire for excellence, and a belief in our right and our responsiblity to be equal members of society.',
+        'Janet Jackson',
+    ],
+    'db83f24c-eaaa-59bd-88e9-e92da32e5dad' => [
+        'When a kid graduates from being the youngest in a family to being a big brother or sister, there\'s an amazing transformation. They have to make a big effort, and when they accept their new position in the family, everybody breathes a sigh of relief. All of a sudden they seem bigger, and they seem smarter, and they feel good about it, too.',
+        'Peggy Rathmann',
+    ],
+    '9b5d4331-1fba-5806-aada-6cede1a28dcf' => [
+        'I love a girl that can make me laugh. I am not really a laugh-at-things type of guy and I don\'t smile and laugh all the time... But if a girl can make me laugh... I\'m in love!!!!',
+        'Jesse McCartney',
+    ],
+    '1d659bff-2db7-5f0d-baad-58cc49c8b68f' => [
+        'If I don\'t feel confident about my body, I\'m not going to sit at home and feel sorry for myself and not do something about it. It\'s all about taking action and not being lazy. So you do the work, whether it\'s fitness or whatever. It\'s about getting up, motivating yourself and just doing it.',
+        'Kim Kardashian',
+    ],
+    'e27ae3dc-1df2-59a9-86f6-71d6d140faf2' => [
+        'I no doubt deserved my enemies, but I don\'t believe I deserved my friends.',
+        'Walt Whitman',
+    ],
+    '9ab69d4d-5883-5d28-83f9-fda8948969aa' => [
+        'Research shows that there is only half as much variation in student achievement between schools as there is among classrooms in the same school. If you want your child to get the best education possible, it is actually more important to get him assigned to a great teacher than to a great school.',
+        'Bill Gates',
+    ],
+    '1d0e1204-7bd5-523e-89c7-58c29ff4a8ab' => [
+        'An artist, under pain of oblivion, must have confidence in himself, and listen only to his real master: Nature.',
+        'Auguste Renoir',
+    ],
+    'acbda4e7-64c0-53e4-af5b-f255da0d58d9' => [
+        'For me, the beauty of a person is a matter of the whole package. You have to look at the whole thing, not just a matter of outward appearance or whatever. It has to do with one\'s character, personality, upbringing and so on.',
+        'Gong Li',
+    ],
+    '439fbed1-abda-595d-a5eb-026da3711035' => [
+        'Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.',
+        'Eknath Easwaran',
+    ],
+    '46fd2883-ba55-5637-863d-290fa091a8a2' => [
+        'Cultivate the habit of zest. Purposefully seek out the beauty in the seemingly trivial. Especially in the trivial. The colors and shapes of the foods you eat. The shadows a vase makes on your table. The interesting faces of the people on the bus with you.',
+        'Karen Salmansohn',
+    ],
+    '2fd19ebc-8102-5f3e-9d4a-279f5a47991a' => [
+        'The best liar is he who makes the smallest amount of lying go the longest way.',
+        'Samuel Butler',
     ],
 ];

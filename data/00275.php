@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '1c65e240-21ae-52d8-a2cc-cf3a4df37696' => [
-        'Everyone should have cancer one time - then you\'d know that other things aren\'t important. The guy that gives you the finger at the stoplight don\'t mean nothing anymore. You come home and something\'s cold, or you didn\'t get something in the mail. Big deal. You want to get up every day and see your family and your friends.',
-        'Bobby Heenan',
+    'a5edec58-105a-5d49-86b8-4502c83f2430' => [
+        'I call my golden retriever Cara my \'white wolf.\' She\'s changed my attitude and made me write this book where the wolf is the hero, not the villain.',
+        'Debi Gliori',
     ],
-    'c758ab5e-79fe-51e6-b9b0-18c780842c0b' => [
-        'I used to travel in tennis shoes; I am just not allowed to anymore. I\'m an old hippie from San Francisco.',
-        'Amy Irving',
+    'a3eb35e0-74df-5017-82aa-989d3b61ebcc' => [
+        'Nature can do more than physicians.',
+        'Oliver Cromwell',
     ],
-    'ad98678b-7956-5b63-804f-d66ebcf7fa02' => [
-        'If at first you don\'t succeed, try, try again. Then quit. There\'s no point in being a damn fool about it.',
-        'W. C. Fields',
+    '4112b402-cc38-5e90-b163-c67d6d364786' => [
+        'Mental attitude and concentration are the keys to pitching.',
+        'Ferguson Jenkins',
     ],
-    '24ecc7b5-ecf2-57be-b67f-2caf7da13e2d' => [
-        'I\'m not in the best shape, but I want to prove to myself I can do something that seems insurmountable and inspire others by showing them no matter where they are in their fitness goals, they can do it, too.',
-        'Ruben Studdard',
+    '429dc74f-85ac-530a-9d74-4c9ffd67e10f' => [
+        'Without courage, wisdom bears no fruit.',
+        'Baltasar Gracian',
     ],
-    '02323635-6930-5748-abd1-f4ef03de2ac9' => [
-        'I believe I have a personal responsibility to make a positive impact on society.',
-        'Anthony Fauci',
+    '968d2dd1-372d-55d4-92a7-7fa4b210e433' => [
+        'Art is beauty, the perpetual invention of detail, the choice of words, the exquisite care of execution.',
+        'Theophile Gautier',
     ],
-    'a133d59a-7666-50f5-b391-4761c13c4506' => [
-        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
-        'Milton Berle',
+    'cb44f16b-8a9a-5a10-be2d-300a4dbf96eb' => [
+        'As knowledge increases, wonder deepens.',
+        'Charles Morgan',
     ],
-    '10925280-2a6c-5601-a82d-ebafc66dc9f1' => [
-        'As I get older, I want to do more films for kids because they\'re the best audience around. Just putting a smile on a kid\'s face is the best thing.',
-        'James McAvoy',
+    'fbee171d-25a1-5294-b8d9-e84fe85a6670' => [
+        'You need an attitude of service. You\'re not just serving yourself. You help others to grow up and you grow with them.',
+        'David Green',
     ],
-    'f49bcc40-8ea8-5ead-94ef-efe19d03f499' => [
-        'Touch seems to be such an important tool for enhancing social cooperation and affiliation that we have evolved a special physical route along which those subliminal feelings of social connection travel from skin to brain.',
-        'Leonard Mlodinow',
+    '14a4b4c7-4037-5f6a-9ea7-c71c39ac6d6c' => [
+        'Have you seen these Japanese hospital droids, or humanoids, or whatever they call it? They\'ve perfected the skin, and the skin looks so real. They have these motors between the eyes for when they smile. It\'s just mind-blowing.',
+        'Joel Kinnaman',
     ],
-    'd6aae38c-2ac8-5370-8c48-6b9e8fd1f2c0' => [
-        'To have the chance to see your music be elevated and to have almost universally positive response to that music, makes me feel better every day. I feel more confident and inspired, and that\'s fun.',
-        'John Legend',
+    'b0644d63-1fb7-594c-8201-90d630f787e2' => [
+        'In a war situation or where violence and injustice are prevalent, poetry is called upon to be something more than a thing of beauty.',
+        'Seamus Heaney',
     ],
-    '90b0bf34-6708-55ad-824b-7885c54c9a18' => [
-        'I\'ve never been in any country for more than four years, and I\'m learning different languages all the time. It gives you a different attitude.',
-        'Santiago Cabrera',
+    '04b19b7c-9f17-51f4-ba3b-f0e49ab85689' => [
+        'He who conquers others is strong, he who conquers himself is mighty.',
+        'Lao Tsu',
     ],
-    'c6d83c40-b87c-583f-9e43-42f28c14134b' => [
-        'No matter how you travel, it\'s still you going.',
-        'Jeff Goldblum',
+    '04fe6c39-9830-5610-b411-48d993584e11' => [
+        'Inspiration comes of working every day.',
+        'Charles Baudelaire',
     ],
-    'f08a8eb1-e1b5-5fc7-b4fb-071cc61be130' => [
-        'If you don\'t know where you are going, you will probably end up somewhere else.',
-        'Lawrence Peter',
+    '6769bdae-85ea-5686-a573-c3e96b12d3d2' => [
+        'My success just evolved from working hard at the business at hand each day.',
+        'Johnny Carson',
     ],
-    'e66b99e3-ad33-5e29-b6fa-73195918f2c1' => [
-        'The trouble with Hollywood is that too many of the top people responsible for pictures are too comfortable and don\'t give a damn about what goes up on the screen so long as it gets by at the box office. How can you expect people with that kind of attitude to make the kind of great pictures that the world will want to see?',
-        'William Wyler',
+    '87c92e87-b2ab-566c-a134-1ecbca480866' => [
+        'Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.',
+        'Buddha',
     ],
-    '7c66159f-35da-58fe-abea-eafbec77466e' => [
-        'I would encourage you to set really high goals. Set goals that, when you set them, you think they\'re impossible. But then every day you can work towards them, and anything is possible, so keep working hard and follow your dreams.',
-        'Katie Ledecky',
+    'f0725d50-9833-5d86-9a74-22f51dfc88d9' => [
+        'Rarely do great beauty and great virtue dwell together.',
+        'Petrarch',
     ],
-    'd1036034-9767-52ad-9988-8425f05c4016' => [
-        'My mother never wore much make-up, and she was a kind of natural beauty; she knew just how to enhance what she had.',
-        'Francois Nars',
+    '5df85dca-7372-5aa4-bc86-3b5be68ed6d2' => [
+        'I don\'t work at being ordinary.',
+        'Paul McCartney',
     ],
-    '2702734d-5df8-59a6-ae94-1a23a7e88257' => [
-        'There is slow growth, but it is positive slow growth. At the same time, ratios of debt-to-incomes go down. That\'s a beautiful deleveraging.',
-        'Ray Dalio',
+    '7c6d1ace-f00c-57ff-835c-65508ec8a81b' => [
+        'YouTube\'s a funny place because so many creators fall into their aesthetics out of necessity and the visuals are driven out of an urge to create. You get a lot of interesting examples of interesting design choices that have roots in practicality as well as an artistic sentiment.',
+        'Freddie Wong',
     ],
-    '02bd31cb-fbe5-5698-ac52-9428ebb26055' => [
-        'It\'s a marathon, not a sprint. I actually feel like I come to work stronger when I\'ve had a little time on the weekend to step away from it and enjoy my family and other things. I come back energized. If people think they\'re going to work 24/7, week in and week out, they\'re not bringing their full strength to the table.',
-        'Mary Barra',
+    '93560e85-a213-549f-a8db-7516ba9450c8' => [
+        'I like to play a strong woman, but a strong woman can also be very fragile and vulnerable at the same time.',
+        'Carice van Houten',
     ],
-    '85d95aca-5f73-5763-8407-3141290f1b77' => [
-        'I have a new philosophy. I\'m only going to dread one day at a time.',
-        'Charles M. Schulz',
+    'd439ffc4-b2b2-5e37-ab9a-7fcd56d9c0a9' => [
+        'I am inherently a little brother - that\'s just my nature. It has to do with my sister being very strong and wanting to protect me. It\'s the natural order of things.',
+        'Jake Gyllenhaal',
     ],
-    'e6a60926-427f-5bd9-bfbe-b84064db09cc' => [
-        'Don\'t let what you cannot do interfere with what you can do.',
-        'John R. Wooden',
+    '2cb2df25-dcc6-5c82-945b-868852a37150' => [
+        'She gave me a smile I could feel in my hip pocket.',
+        'Raymond Chandler',
     ],
-    'd3595bff-4213-5ca8-9de6-44645ea69790' => [
-        'When I pray, I always thank Mother Nature for all the beauty in the world. It\'s about having an attitude of gratitude.',
-        'Miranda Kerr',
+    'e0e104d2-0a38-59d7-a9a5-76ce595b24f5' => [
+        'Along with success comes a reputation for wisdom.',
+        'Euripides',
     ],
-    '81942dda-eb74-5ab7-aa04-a4eb5d83e396' => [
-        'People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn\'t mean they\'ve gotten lost.',
-        'Dalai Lama',
+    'a420d0d9-7de4-5e48-8a21-c3e669c26e22' => [
+        'I knew, of course, that trees and plants had roots, stems, bark, branches and foliage that reached up toward the light. But I was coming to realize that the real magician was light itself.',
+        'Edward Steichen',
     ],
-    'c569040c-6cbc-59e5-9539-35cbed277cd1' => [
-        'I\'m good at coming up with wacky characters and funny dialogue.',
-        'Marlon Wayans',
+    'b4001d0f-4768-5fb6-be95-3d86b7aef7af' => [
+        'Can a woman become a genius of the first class? Nobody can know unless women in general shall have equal opportunity with men in education, in vocational choice, and in social welcome of their best intellectual work for a number of generations.',
+        'Anna Garlin Spencer',
     ],
-    '7a87732e-8f8a-5d6a-9400-3b5742d8c12f' => [
-        'The main difference in the effectiveness of teaching comes from the thoughts the teacher has had during the entire time of his or her existence and brings into the classroom. A teacher concerned with developing humans affects the students quite differently from a teacher who never thinks about such things.',
-        'Rudolf Steiner',
+    '2da2f5fc-12bb-56fc-9119-a60529f9087e' => [
+        'I say always follow your passion, no matter what, because even if it\'s not the same financial success, it\'ll lead you to the money that\'ll make you the happiest.',
+        'Ellen DeGeneres',
     ],
-    'a177345a-e976-5f36-a85d-f6b889598fda' => [
-        'The death penalty is ineffective as a deterrent, and the appeals process is expensive and cruel to the surviving family members.',
-        'Martin O\'Malley',
+    '11a2df3d-7f1b-5d37-8fdb-a00210a6ff68' => [
+        'Perfection is the child of time.',
+        'Joseph Hall',
     ],
-    '43112a07-b1f3-5c14-b6d2-1a8516679f85' => [
-        'Dates that come around every year help us measure progress in our lives. One annual event, New Year\'s Day, is a time of reflection and resolution.',
-        'Joseph B. Wirthlin',
+    'b392e9bf-eac1-57a0-9c20-8ba0aaa08d26' => [
+        'My very best friend died in a car accident when I was 16 years old. That was the hardest blow emotionally that I have ever had to endure. Suddenly, you realize tomorrow might not come. Now I live by the motto, \'Today is what I have.\'',
+        'Amber Heard',
+    ],
+    '55560d7a-6be6-5933-bf2b-b759ee00743f' => [
+        'She was a handsome woman of forty-five and would remain so for many years.',
+        'J. B. Priestley',
+    ],
+    '1a6493ab-263a-58ce-947d-e9b98cd5aedd' => [
+        'My favorite room in the house is the living room. We have two big couches, six recliners and over 20 pillows. It\'s a really comfortable place to hang out with my family.',
+        'Cody Linley',
+    ],
+    'ceb9a3c2-add8-5f94-a0ed-45d9345edd4c' => [
+        'My parents are very proud of my success but still worry, as I\'m in a profession where there is no guarantee of work. They have always supported my decision to go into acting, but there have been tough times work-wise.',
+        'David Harewood',
+    ],
+    'd33e3bb8-9586-5c35-b913-ecc8705f2dec' => [
+        'Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.',
+        'Winston Churchill',
+    ],
+    'cebcc2d6-6424-5d93-964a-ee06eb99a133' => [
+        'I attribute my success to this: I never gave or took any excuse.',
+        'Florence Nightingale',
+    ],
+    '9740f603-a08e-51cd-839d-ec3a0ffcc3af' => [
+        'Life is difficult for everyone; everyone has bad days. Everyone has trouble in their life, because it doesn\'t matter how rich you are: Sickness and trouble and worry and love, these things will mess with you at every level of life.',
+        'Robin Williams',
+    ],
+    'b103d78f-83e8-5f56-80f2-22a69b9c228e' => [
+        'Most babies know how to win us over. We cannot help but smile at them and watch them smile back.',
+        'Madeleine M. Kunin',
+    ],
+    '6468ee91-38ed-5d74-986c-b7cd7f82f716' => [
+        'To design the future effectively, you must first let go of your past.',
+        'Charles J. Givens',
+    ],
+    '963f7de1-6258-5a02-ac59-bd8d8f23769e' => [
+        'Art is the child of Nature; yes, her darling child, in whom we trace the features of the mother\'s face, her aspect and her attitude.',
+        'Beck',
+    ],
+    '246e6509-21b4-5180-9c33-a836c0910ce2' => [
+        'Tell me how a person judges his or her self-esteem, and I will tell you how that person operates at work, in love, in sex, in parenting, in every important aspect of existence - and how high he or she is likely to rise. The reputation you have with yourself - your self-esteem - is the single most important factor for a fulfilling life.',
+        'Nathaniel Branden',
+    ],
+    '17ef9f6c-9b15-587b-b9e8-9798de257675' => [
+        'Power means happiness; power means hard work and sacrifice.',
+        'Beyonce Knowles',
+    ],
+    'd1612af7-a42e-50dc-848d-31e7aafbd6a5' => [
+        'If you want to go somewhere, it is best to find someone who has already been there.',
+        'Robert Kiyosaki',
+    ],
+    'e7412115-23d5-5ec7-9338-51f9c50755e3' => [
+        'The things I want to know are in books; my best friend is the man who\'ll get me a book I ain\'t read.',
+        'Abraham Lincoln',
+    ],
+    'db329df1-7eab-5e9d-8d1c-ce7b4ef897bc' => [
+        'What is government itself but the greatest of all reflections on human nature?',
+        'James Madison',
+    ],
+    'c98ea6ec-1528-5206-9ef5-bd7418c34736' => [
+        'I think it\'s great to see how they\'ve grown up, not just as actors but as people. They\'re still very much the same kids that I met many years ago. They\'ve grown up and they are funny and wicked and naughty and bright, and I think as actors their work is just getting better and better. They\'ve blossomed.',
+        'David Heyman',
+    ],
+    'f6038aa0-dec3-50b3-8f62-9c09e1a82654' => [
+        'In American history, it\'s about hard work and self-reliance. It\'s not about collecting giveaways or being on unemployment forever. That the economy moves ahead for people who are going to work to realize the American dream, own a home, send your kids to college. I think it\'s the founding cornerstone of America.',
+        'Ryan Zinke',
+    ],
+    '8d113987-9a33-5c47-ba79-f8a2126e77c8' => [
+        'Our kindness may be the most persuasive argument for that which we believe.',
+        'Gordon Hinckley',
+    ],
+    '9baecc88-8507-5003-8c22-fedcaeee8381' => [
+        'Your personal life, your professional life, and your creative life are all intertwined. I went through a few very difficult years where I felt like a failure. But it was actually really important for me to go through that. Struggle, for me, is the most inspirational thing in the world at the end of the day - as long as you treat it that way.',
+        'Skylar Grey',
+    ],
+    'e7e47162-9be8-5f45-8d22-22e1dfd7b18b' => [
+        'Nature never deceives us; it is we who deceive ourselves.',
+        'Jean-Jacques Rousseau',
+    ],
+    '13ccb926-a4a1-5d42-895a-f39d3129095c' => [
+        'As I\'ve progressed in my career, I\'ve come to appreciate - and really value - the other attributes that define a company\'s success beyond the P&L: great leadership, long-term financial strength, ethical business practices, evolving business strategies, sound governance, powerful brands, values-based decision-making.',
+        'Ursula Burns',
+    ],
+    '22680a25-58b5-5858-af8b-c1c2824b8afa' => [
+        'Thinking well to be wise: planning well, wiser: doing well wisest and best of all.',
+        'Malcolm Forbes',
+    ],
+    'f55cde8d-812a-5fe2-b49c-3fea8aa4eed2' => [
+        'Beauty in things exists in the mind which contemplates them.',
+        'David Hume',
+    ],
+    '42a892c8-a5d7-5992-9da1-1fed9186f329' => [
+        'Flattery is like cologne water, to be smelt, not swallowed.',
+        'Josh Billings',
+    ],
+    '0fa1a3ab-9b22-5f8b-93d3-ec222d419f2d' => [
+        'It was at the beginning of 1934 while working on the emission of these positive electrons that we noticed a fundamental difference between that transmutation and all the others so far produced; all the reactions of nuclear chemistry induced were instantaneous phenomena, explosions.',
+        'Irene Joliot-Curie',
+    ],
+    '82ca553f-12aa-5930-8296-1ca83718b7d9' => [
+        'Good humor is one of the best articles of dress one can wear in society.',
+        'William Makepeace Thackeray',
     ],
 ];

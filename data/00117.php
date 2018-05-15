@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '775f6eaa-d71e-5560-a500-db73efaa48a3' => [
-        'I believe the only thing that we really have control over is our attitude. If we focus on the positive things in our lives and learn how to cope with all the surprises, we will be happier people.',
-        'Brandon Jenner',
+    '5823b1eb-b05b-51f4-8d8d-f52c29d6913f' => [
+        'There are some women whose pregnancy would make some sly bachelor smile.',
+        'Honore de Balzac',
     ],
-    '4a97f3fd-27bf-5e66-9d95-f279b2cc7042' => [
-        'While we stop to think, we often miss our opportunity.',
-        'Publilius Syrus',
+    'b0ddbe26-e7e7-5a36-ba00-cb2eea8aaadd' => [
+        'The best employees are those who bring real energy and initiative to the job. I like to know whether you\'re the kind of person who can set priorities, take initiative, and drive results right from the beginning.',
+        'Marillyn Hewson',
     ],
-    '661517b9-2124-5ecc-933f-58bfa62e92ff' => [
-        'To be successful you must accept all challenges that come your way. You can\'t just accept the ones you like.',
-        'Mike Gafka',
+    '32f35783-1e29-5084-8954-91bac97fb7b6' => [
+        'Earl Nightingale has inspired more people toward success and fortune than any other motivational speaker on the planet.',
+        'Zig Ziglar',
     ],
-    'b37a1a5c-2f4e-568a-86d1-b038c837b980' => [
-        'My favorite place in Indonesia is Bali. I was there with my family in Nusa Dua, and my kids loved it. I\'m a workaholic, so for me, Bali is a place where you can have a vacation, but you can have your own moment as well. You feel like you blend with nature - and I love the beach.',
-        'Joe Taslim',
+    'ff4261d4-29cc-5c78-8eb9-d9df38e00b58' => [
+        'Success is the maximum utilization of the ability that you have.',
+        'Zig Ziglar',
     ],
-    '0bba2e72-0856-54f6-a333-bbb49ab62b40' => [
-        'The real secret of success is enthusiasm.',
-        'Walter Chrysler',
+    '1eb9fcf5-0ee3-517c-a698-e1818e78c7e7' => [
+        'As long as I am still interested and curious, I enjoy getting up in the morning, but I can\'t say I have a happy smile on my face 24/7.',
+        'Harriet Walter',
     ],
-    '7378550b-04a6-54b9-be9f-c29a82a8fc17' => [
-        'There is no planning. On the night it is really great, it\'s euphoria and if it is not so great there is always tomorrow night. That was his attitude.',
-        'Ed McMahon',
+    'a265683a-3d71-5ab6-afe4-944f3551437a' => [
+        'If you violate Nature\'s laws you are your own prosecuting attorney, judge, jury, and hangman.',
+        'Luther Burbank',
     ],
-    '8eb4831a-811e-5d64-bba6-06002bcaff36' => [
-        'I\'m really looking forward to seeing what life brings to me.',
-        'Cara Delevingne',
+    'db252ee8-dd89-5357-a741-ba343dbdb297' => [
+        'Knowing your own darkness is the best method for dealing with the darknesses of other people.',
+        'Carl Jung',
     ],
-    'ef3d829f-75c9-50e8-be8a-459fe6eaad19' => [
-        'I have an interest in understanding evil. Who is the bad guy - the vampire who kills people and sucks their blood, or the survivalists who kill people to save their own lives? Is evil merely a creation of people? Or is there an evil nature? Or is it in the eye of the beholder? I really like these questions.',
-        'Lois Tilton',
+    'a672954c-30d7-5d05-ba21-7b955615fa58' => [
+        'Talent grips us. We are overtaken by the beauty of Michelangelo\'s sculpture, riveted by Mariah Carey\'s angelic voice, doubled over in laughter by the comedy of Robin Williams, and captivated by the on screen performances of Denzel Washington.',
+        'John C. Maxwell',
     ],
-    'f0c6c485-8e49-5731-9b1b-f2224cc8de42' => [
-        'Life is too short for long-term grudges.',
-        'Magdalena Neuner',
+    'a3853174-5b58-51dc-85cc-9d8a350845f3' => [
+        'You think aerobics is not a cool sport? I think you are wrong. It requires amazing discipline - flexibility, fitness, knowledge. And you have to do it with a big smile on your face. Also, I once performed in front of 10,000 screaming women. I tell you something, I\'d rather do that than kick a ball around in front of a few men.',
+        'Magnus Scheving',
     ],
-    'd5b531a3-6d65-5f39-8466-15e69bc19eae' => [
-        'Ilaiyaraaja is my most favourite music director. His music was my lullaby, his music was my food, his music was my childhood, his music was my first love, his music was my failure, his music was my first kiss, my first love failure, my success... he is in my blood.',
-        'Dhanush',
+    'd2c32a76-fda2-5ce3-9b5c-2702bca65814' => [
+        'The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.',
+        'Charles R. Swindoll',
     ],
-    'f636f20b-7f7e-5c56-a791-2391f0445a99' => [
-        'Having to travel so much plays havoc with your personal life.',
-        'Renee Fleming',
+    '74737402-b21a-54cf-a6cd-a9e99a82cf20' => [
+        'All we need, really, is a change from a near frigid to a tropical attitude of mind.',
+        'Marjory Stoneman Douglas',
     ],
-    '8651d895-2e1d-5089-afea-ff6ce9feed77' => [
-        'I believe in Liberty for all men: the space to stretch their arms and their souls, the right to breathe and the right to vote, the freedom to choose their friends, enjoy the sunshine, and ride on the railroads, uncursed by color; thinking, dreaming, working as they will in a kingdom of beauty and love.',
-        'W. E. B. Du Bois',
+    'c0528449-bcb4-5049-8ad7-b9c3ab28b20f' => [
+        'Teaching\'s hard! You need different skills: positive reinforcement, keeping students from getting bored, commanding their attention in a certain way.',
+        'Bill Gates',
     ],
-    '20f303b4-4c0d-51dd-8c28-e3b10d623431' => [
-        'I\'m on JetBlue and United. So I spend a lot of time on airplanes with other people and in terminals or just traveling around and going to restaurants or whatever. The interaction I get on a daily basis is always positive. I\'ve never had a negative interaction.',
-        'Lance Armstrong',
+    'f74bd9c6-8813-5233-9827-cb0fe1d6e1bb' => [
+        'How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.',
+        'Arthur Rubinstein',
     ],
-    'eccf97c4-36cd-59ca-a820-f69cc2da630b' => [
-        'Tomorrow is the most important thing in life. Comes into us at midnight very clean. It\'s perfect when it arrives and it puts itself in our hands. It hopes we\'ve learned something from yesterday.',
-        'John Wayne',
+    '530b8322-5c03-55c2-ac9c-4347680b8cab' => [
+        'We\'ve been surrounded by images of space our whole lives, from the speculative images of science fiction to the inspirational visions of artists to the increasingly beautiful pictures made possible by complex technologies. But whilst we have an overwhelmingly vivid visual understanding of space, we have no sense of what space sounds like.',
+        'Honor Harger',
     ],
-    '4b9fb700-c1aa-56f7-99d0-bf1d6493038f' => [
-        'The NFL is a performance-based business, so you should have to perform to earn some of your money. At the same time, I realize that my success isn\'t just because of what I do out there.',
-        'Colin Kaepernick',
+    '1e18915b-14be-5754-a071-1563afbbb38d' => [
+        'Let yourself be silently drawn by the stronger pull of what you really love.',
+        'Rumi',
     ],
-    'c3032d08-7a09-59cb-b391-5177b09a434f' => [
-        'I don\'t think a female running a house is a problem, a broken family. It\'s perceived as one because of the notion that a head is a man.',
-        'Toni Morrison',
+    'a6b5353c-8726-59c1-9df0-911525114803' => [
+        'A true friend is one who overlooks your failures and tolerates your success!',
+        'Doug Larson',
     ],
-    '498aefc9-9ff3-5854-a177-3230f7523e86' => [
-        'I\'m not going to take this defeatist attitude and listen to all this crap any more from all these people who have nothing except doomsday to predict.',
-        'Carroll Shelby',
+    'b51a0a4c-72bc-5517-a72c-90281879d500' => [
+        'Work hard. Through determination and self-focus and discipline, you can accomplish anything.',
+        'Kimberly Guilfoyle',
     ],
-    '52b550d6-9101-5944-85aa-5149e060f5de' => [
-        'If at first you don\'t succeed... so much for skydiving.',
-        'Henny Youngman',
+    'd75af839-60b3-5a1d-8696-ff7a90491dd8' => [
+        'To See What Is Right And Not Do It Is A Lack Of Courage.',
+        'Confucious',
     ],
-    '14f2bed7-649b-5dfa-b590-d88ac23a21b6' => [
-        'Being rich is a good thing. Not just in the obvious sense of benefitting you and your family, but in the broader sense. Profits are not a zero sum game. The more you make, the more of a financial impact you can have.',
-        'Mark Cuban',
+    '8549fd6e-d574-5f8a-afb9-27fbd3bafd65' => [
+        'The difference between Marilyn Monroe and the early Pamela Anderson is not that great. What\'s amazing is that the taste of American men and international tastes in terms of beauty have essentially stayed the same. Styles change, but our view of beauty stays the same.',
+        'Hugh Hefner',
     ],
-    'b275e88a-1dd9-5797-a86d-f1d6a2e5464b' => [
-        'The Indian Summer of life should be a little sunny and a little sad, like the season, and infinite in wealth and depth of tone, but never hustled.',
-        'Denis Waitley',
+    '4f71d802-6f86-5438-980f-b19ef0f9b5fa' => [
+        'Beauty does not linger; it only visits. Yet beauty\'s visitation affects us and invites us into its rhythm; it calls us to feel, think and act beautifully in the world: to create and live a life that awakens the Beautiful. A life without delight is only half a life.',
+        'John O\'Donohue',
     ],
-    '73218b0e-51e2-5c6b-8cbf-9854f9395a3f' => [
-        'I\'m just thankful for everything, all the blessings in my life, trying to stay that way. I think that\'s the best way to start your day and finish your day. It keeps everything in perspective.',
-        'Og Mandino',
+    '7318322f-8ff4-57b2-97b4-ec1628849d0d' => [
+        'I have an attitude. It\'s what I do. I\'m edgy. I have an attitude.',
+        'Hope Solo',
     ],
-    '0d6f4063-eb0d-5e11-a97f-05a515532572' => [
-        'Every time I start to get worked up over something, I just think to myself, \'Is this really going to matter in my life tomorrow, in an hour, in a year?\' You just can\'t get stressed about the little things \'cause it\'s just not worth it at the end of the day.',
-        'Kylie Jenner',
+    '1a86f9ab-700a-5804-8f2f-a4645fd63b99' => [
+        'There\'s no such thing as a specific authenticity to what Mexico is, because Mexico is incredibly complex and varied, and the food is completely different if you travel 50 kilometers. It just changes all the time.',
+        'Gael Garcia Bernal',
     ],
-    '41af5305-49bc-529a-a1ed-681bfba34986' => [
-        'We May Encounter Many Defeats But We Must Not Be Defeated.',
-        'Maya Angelou',
+    '96ea1933-c896-5844-8b8d-2e48902ae2b1' => [
+        'Among the natural rights of the colonists are these: First a right to life, secondly to liberty, and thirdly to property; together with the right to defend them in the best manner they can.',
+        'Vince Lombardi',
     ],
-    'dbef1c0d-dde5-5434-b5b7-b48c968e2798' => [
-        'I think there should be a good balance between being a good student and being able to enjoy your high school life.',
-        'Danny Meyer',
+    '98caf143-b3ee-5a62-b0b1-938701d35ec1' => [
+        'Good luck is another name for tenacity of purpose.',
+        'Ralph Emerson',
     ],
-    '016c2f20-2910-5bd2-b569-ca28d90fd9bd' => [
-        'In general, I\'m not much into etiquette and am a rule-breaker and rebel by nature.',
-        'Chip Conley',
+    '3d9631e6-6ba6-5aaa-a510-2a012e56eb88' => [
+        'The best prophet of the future is the past.',
+        'Lord Byron',
+    ],
+    '562fa184-cda6-5f97-953a-fb4d223a9364' => [
+        'Make a Goal Box, a chart of positive daily contact with a family when you are working with them.',
+        'Richard G. Scott',
+    ],
+    '97866359-bf25-50f1-a558-923e6e91282d' => [
+        'Travel, instead of broadening the mind, often merely lengthens the conversation.',
+        'Elizabeth Drew',
+    ],
+    'fe8e8f20-674a-5f0d-a882-b9e8b761eeb1' => [
+        'I have a loyalty that runs in my bloodstream, when I lock into someone or something, you can\'t get me away from it because I commit that thoroughly. That\'s in friendship, that\'s a deal, that\'s a commitment. Don\'t give me paper - I can get the same lawyer who drew it up to break it. But if you shake my hand, that\'s for life.',
+        'Dean Koontz',
+    ],
+    '6699657b-0edf-58ee-b1a2-4b43f54f1115' => [
+        'Parrots make great pets. They have more personality than goldfish.',
+        'Chevy Chase',
+    ],
+    '2d3b4092-af43-52e1-946b-9b4a898561a5' => [
+        'I think if there\'s something one needs to change with oneself, it doesn\'t have to happen in the New Year. You can do that any time you please - not that it\'s not a good inspirational tactic for the people that it works for.',
+        'Brittany Murphy',
+    ],
+    '40fa1377-0324-5457-80bc-3d9ef028f848' => [
+        'Sometimes nature guards her secrets with the unbreakable grip of physical law. Sometimes the true nature of reality beckons from just beyond the horizon.',
+        'Brian Greene',
+    ],
+    'c55d96d7-f48f-506d-b785-06729552598a' => [
+        'It is possible for the assembly-line worker consigned to tightening the bolts on the transmission and the office worker who processes medical insurance claims to work with pride and efficiency, but it\'s not easy to maintain that attitude.',
+        'Paul Hawken',
+    ],
+    'd2fdb150-7997-5b6c-91d0-aaf73266e612' => [
+        'Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.',
+        'Mother Teresa',
+    ],
+    '7f352187-1a18-56ab-a849-9c7468791127' => [
+        'People with high blood pressure, diabetes - those are conditions brought about by life style. If you change the life style, those conditions will leave.',
+        'Sarah Ban Breathnach',
+    ],
+    'c38bd096-40b6-57a3-9385-7d9f09fb6549' => [
+        'Confidence and empowerment are cousins in my opinion. Empowerment comes from within and typically it\'s stemmed and fostered by self-assurance. To feel empowered is to feel free and that\'s when people do their best work. You can\'t fake confidence or empowerment.',
+        'Amy Jo Martin',
+    ],
+    '04e8d59d-f2e5-52ab-b9f0-705acda87288' => [
+        'Nothing can express the aim and meaning of our work better than the profound words of St. Augustine - \'Beauty is the splendor of Truth.\'',
+        'Ludwig Mies van der Rohe',
+    ],
+    '7c1c00d6-f6c3-5b58-abd0-53aae36a6b49' => [
+        'Every minute you spend looking through clutter, wondering where you put this or that, being unable to focus because you\'re not organized costs you: time you could have spent with family or friends, time you could have been productive around the house, time you could have been making money.',
+        'Jean Chatzky',
+    ],
+    '9b008e14-f2bd-5724-9738-c71048b3c89d' => [
+        'Everything in the universe goes by indirection. There are no straight lines.',
+        'Ralph Emerson',
+    ],
+    '8a024e89-2ef5-5c24-ae36-60a20875506a' => [
+        'When I finally got the chance to do \'The People v. O.J. Simpson,\' my peers embraced me with the same attitude. They didn\'t make me feel small or insignificant. They treated me as a peer. It was a wonderful experience.',
+        'Sterling K. Brown',
+    ],
+    '8ad1d4d1-4bce-58ec-8d40-cd379938b1d3' => [
+        'The man who trusts men will make fewer mistakes than he who distrusts them.',
+        'Cavour',
+    ],
+    '06ac82fe-4dbd-5eda-b4f6-9c65abfbc0a0' => [
+        'I dwell in possibility.',
+        'Emily Dickinson',
+    ],
+    'fc327c3c-f20b-5d33-bddd-af953debd2a7' => [
+        'It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.',
+        'Voltaire',
+    ],
+    'de990194-8402-5a23-bdc7-a28346e028c8' => [
+        'Nonsense and beauty have close connections.',
+        'E. M. Forster',
+    ],
+    '9521c714-786e-5760-aea4-2a8b2f0705a1' => [
+        'I like to go out if there\'s a party or go to the movies, but I just like hanging out with my buddies and having a good time.',
+        'Jean-Luc Bilodeau',
+    ],
+    '80ed79c6-cf9b-5559-aa01-627d96da64e8' => [
+        'I want my children to have all the things I couldn\'t afford. Then I want to move in with them.',
+        'Phyllis Diller',
+    ],
+    'c7374b80-9f71-53a3-a233-358e43ab08d2' => [
+        'I failed to make the chess team because of my height.',
+        'Woody Allen',
+    ],
+    'b60837e7-76c3-5724-b515-7fba9271adb5' => [
+        'Positive thinking will let you use the ability which you have, and that is awesome.',
+        'Zig Ziglar',
+    ],
+    '65ef818e-a5ff-5afa-9c0d-0fd1c8d3c0c7' => [
+        'Every man dies. Not every man really lives.',
+        'George Takei',
+    ],
+    'b42cddac-97f7-5f34-bc81-9bd53fafbb43' => [
+        'Life comes from the earth and life returns to the earth.',
+        'Gavin Rossdale',
+    ],
+    'a33be87b-f744-51a8-943f-c9f2a17924c6' => [
+        'The world is a book, and those who do not travel read only a page.',
+        'Augustinus Sanctus',
     ],
 ];

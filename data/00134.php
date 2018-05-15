@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '21814b9f-ffd4-5775-818d-53285913cb99' => [
-        'Stay true to yourself, yet always be open to learn. Work hard, and never give up on your dreams, even when nobody else believes they can come true but you. These are not cliches but real tools you need no matter what you do in life to stay focused on your path.',
-        'Phillip Sweet',
+    '4ea2eb74-d17c-596f-a30e-d8a820ba40ff' => [
+        'Just what future the Designer of the universe has provided for the souls of men I do not know, I cannot prove. But I find that the whole order of Nature confirms my confidence that, if it is not like our noblest hopes and dreams, it will transcend them.',
+        'Henry Norris Russell',
     ],
-    '03489d27-ca24-596b-bfb4-d4e622dfd4e0' => [
-        'Usually, if you smile at them and show some interest in the toy, they will give it to you. That\'s a straight up Democrat move!',
-        'Margaret Cho',
+    'd30232a5-c34f-595b-9a22-1bd001a11a25' => [
+        'Having an aim is the key to achieving your best.',
+        'Henry J. Kaiser',
     ],
-    '05bf4ba1-f3cc-5e4c-9a3f-7673c2a0f756' => [
-        'The same way one tells a recipe, one tells a family history. Each one of us has our past locked inside.',
-        'Laura Esquivel',
+    '97e5fb98-6160-5774-8c94-1f3b30e67f2f' => [
+        'You can choose not to sit on the fence. You can choose not to criticise. You must stand as guard at the door of your own mind and choose to be positive.',
+        'Gail Kelly',
     ],
-    '2032616c-1df7-5b2c-9c45-6f87b98e98dc' => [
-        'I\'m not the athlete I was when I was training for the Olympics in \'92 or when I was working out every single day. I have to live in moderation: I work out three or four days a week, and I smile while I\'m working out - I really do enjoy it. I work out with my girlfriends and make it a social competition.',
-        'Summer Sanders',
+    '2ad592c5-fc3e-5b06-b4ba-6042d91fb166' => [
+        'Every day is a new opportunity. You can build on yesterday\'s success or put its failures behind and start over again. That\'s the way life is, with a new game every day, and that\'s the way baseball is.',
+        'Bob Feller',
     ],
-    '4ee77bb2-f43f-52ea-b72b-c7b8bfae313c' => [
-        'If someone in your life talked to you the way you talk to yourself, you would have left them long ago.',
-        'Carla Gordon',
+    'a07a004e-cdb7-5480-85fd-28ffc587d0b7' => [
+        'I\'m happy to be everybody\'s gay best friend.',
+        'Andy Cohen',
     ],
-    '7df4b631-e2f3-5291-bb27-445e4c0ee9a0' => [
-        'How inappropriate to call this planet Earth when it is quite clearly Ocean.',
-        'Arthur C. Clarke',
+    '896dfac9-4b77-5bcf-b3f7-e26ed1d18700' => [
+        'Our success as a global brand has been directly related to how we select locations where we are confident our particular clients desire to be. Los Cabos, Mexico is the ideal Engel & Volkers market, growing in popularity among world luxury travelers seeking exceptional properties for second home opportunities.',
+        'Anthony Hitt',
     ],
-    '69268d9f-35e8-5d4e-997e-dcb370896481' => [
-        'Wherever a man turns he can find someone who needs him.',
-        'Albert Schweitzer',
+    'dabee86e-3ac4-5b89-a9b3-28c3b161bbc0' => [
+        'God always strives together with those who strive.',
+        'Aeschylus',
     ],
-    '49184f4b-990c-5a55-a23f-831bd73f8759' => [
-        'Beauty is worse than wine, it intoxicates both the holder and beholder.',
-        'Aldous Huxley',
+    'bd261edf-bd19-522f-90c3-4aaa3544af4d' => [
+        'Success is a great deodorant.',
+        'Elizabeth Taylor',
     ],
-    '88ee00b9-bd99-5fbc-a867-360dc0b1efe0' => [
-        'Success is full of promise till one gets it, and then it seems like a nest from which the bird has flown.',
-        'Henry Ward Beecher',
+    'fc3df727-6eb8-5ab1-936e-59ff51b13e12' => [
+        'To be candid, some people have given positive thinking a bad name. I can\'t stand to hear some gung-ho individual say that with positive thinking you can just do \'anything.\' If you think about that one for a moment, you recognize the absurdity of it.',
+        'Zig Ziglar',
     ],
-    '384b8a25-b22e-5b73-b1db-b3f8b93671b0' => [
-        'I am positive that flexibility is a feminine characteristic.',
-        'Emma Bonino',
+    '80027179-3b30-5bc2-a0ff-443a0bcfee60' => [
+        'The butterfly counts not months but moments, and has time enough.',
+        'Rabindranath Tagore',
     ],
-    'a1d37fd1-f8eb-51f3-a5c9-72ed8dadf312' => [
-        'My mom\'s one of the toughest ladies I know. I\'ve seen her lose both her brothers, both her parents. She\'s been through a lot, and to see her get up every day and put a smile on her face, that shows nothing but strength.',
-        'DeMar DeRozan',
+    'b75223ef-f586-53cf-a14a-55aed9061c33' => [
+        'Every now and then, someone will tell me that one of my books has made them laugh out loud. I never believe them because: a.) my books don\'t make me laugh out loud; and b.) sometimes I have said this to a writer, when really what I meant was, \'Your book made me smile appreciatively.\'',
+        'Mary Roach',
     ],
-    'ce3e1529-67b1-599e-8cdf-2db2608d5edd' => [
-        'Barack Obama\'s inspirational whoosh to the presidency in 2008 was unusual. Most campaigns are less exhilarating; indeed, they are downright disappointing - until someone wins.',
-        'Joe Klein',
+    '5229672e-530c-5e84-9e4a-9d65fe0e467f' => [
+        'My wish is to stay always like this, living quietly in a corner of nature.',
+        'Claude Monet',
     ],
-    'a9323895-93cd-5bf5-aa1e-2887eeaca0ee' => [
-        'The solution for mankind is of a spiritual nature. It is not a political or religious solution. It\'s the ability to love each other. That\'s the only solution I see.',
-        'Ziggy Marley',
+    '45130d55-47da-5f14-89aa-53e08fa9dfb0' => [
+        'I did not want to be a tree, a flower or a wave. In a dancer\'s body, we as audience must see ourselves, not the imitated behavior of everyday actions, not the phenomenon of nature, not exotic creatures from another planet, but something of the miracle that is a human being.',
+        'Martha Graham',
     ],
-    '5f5fa5f6-8055-5529-8dbd-ade1be683da5' => [
-        'Never put a sock in a toaster.',
-        'Eddie Izzard',
+    '9fd7067d-6c71-528b-ae29-f9611ca60aec' => [
+        'I try to be as optimistic as I can. I feel like that\'s the beautiful thing about art and music. It can take you places, and they can be a positive influence. A very soothing influence. Honestly, I feel like there\'s enough pain and terrible things that happen in life. That\'s beautiful thing in art, you can really idealize things.',
+        'Washed Out',
     ],
-    'f589ba09-01bf-5cb5-ac3b-4493bb222970' => [
-        'You need chaos in your soul to give birth to a dancing star.',
-        'Nietzsche',
+    'e0a127de-4433-5237-a409-0e836aa0be31' => [
+        'I\'ve failed over and over and over again. And that is why I succeed.',
+        'Michael Jordan',
     ],
-    '99a94528-f9f0-544d-8b43-a9f480ec7e80' => [
-        'As you begin to realize that every different type of music, everybody\'s individual music, has its own rhythm, life, language and heritage, you realize how life changes, and you learn how to be more open and adaptive to what is around us.',
-        'Diane von Furstenberg',
+    '19a87605-1fe2-5400-916a-1a9315ebb05c' => [
+        'There are a lot of things that go into creating success. I don\'t like to do just the things I like to do. I like to do things that cause the company to succeed. I don\'t spend a lot of time doing my favorite activities.',
+        'Michael Dell',
     ],
-    '7dc719d1-c7cb-51e2-995a-0adf0fed6c9c' => [
-        'Give thanks for a little and you will find a lot.',
-        'Hausa',
+    '03e63017-1373-5026-af9d-ff37b3e98f85' => [
+        'You can\'t create in a vacuum. Life gives you the material and dreams can propel new beginnings.',
+        'Byron Pulsifer',
     ],
-    '0cb87cb1-861d-5a01-91dd-e917fa5ed286' => [
-        'Human bodies are designed for regular physical activity. The sedentary nature of much of modern life probably plays a significant role in the epidemic incidence of depression today. Many studies show that depressed patients who stick to a regimen of aerobic exercise improve as much as those treated with medication.',
-        'Andrew Weil',
+    'd07ed0ad-5788-5252-8bc6-490375a0a662' => [
+        'If it weren\'t for Philo T. Farnsworth, inventor of television, we\'d still be eating frozen radio dinners.',
+        'Johnny Carson',
     ],
-    '749f4860-593e-543a-9f35-2429d70476e8' => [
-        'Parisian women have an inner elegance that\'s envied the world over. They are so relaxed about ageing and seem to acquire more charisma and beauty with time. Who wouldn\'t want to be like them? That\'s the trick - to embrace the natural progression of life and to be confident.',
-        'Naomi Watts',
+    '6145ba03-9dea-5a6e-b8b9-b07f90a73153' => [
+        'No amount of law enforcement can solve a problem that goes back to the family.',
+        'J. Edgar Hoover',
     ],
-    'f4d7ffdf-8719-5146-be9b-ff5e359d0a45' => [
-        'I think there are very few people who have a real style, a real personality, and real beauty.',
-        'Marisa Berenson',
+    'd079d20f-c464-5968-87df-3ba2312697ea' => [
+        'I aimlessly travel, meaning I have no agenda other than to get small in the world, be quiet and observe people.',
+        'Walton Goggins',
     ],
-    '95fed0a1-6599-5a6c-9765-10c79a28e648' => [
-        'You\'ve got a movie where the pro-choice family gives their daughter no choice. The pro-life family murders. What seems to be the good mother, the kind of hippie painter, sweet and cute mother has no love for her daughter really.',
-        'Ellen Barkin',
+    'aa4e9ed4-94a6-5f6c-99ba-715c04ff3332' => [
+        'This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.',
+        'Hannah Arendt',
     ],
-    'd69efd56-24d7-5c9c-8661-c4017e4116c6' => [
-        'I think that somebody with the resources and innovation and the idea is going to come out of nowhere and come up with a successful space travel program.',
-        'Kevin J. Anderson',
+    'f19a522b-87ea-59dc-9639-2f4293e87493' => [
+        'Kids who are poor often have families that have not really been kept informed about... how important it is to read to your child, to reduce stresses in their life, to use positive incentives and words.',
+        'Geoffrey Canada',
     ],
-    '97a5da5e-639e-5948-84eb-062a96f30028' => [
-        'With renunciation life begins.',
-        'Miles Davis',
+    '7107c0aa-0799-5850-9920-66e6c070c13f' => [
+        'What you do makes a difference, and you have to decide what kind of difference you want to make.',
+        'Jane Goodall',
     ],
-    'fc21b282-9d85-5285-a156-0f5268a54849' => [
-        'Never promise more than you can perform.',
-        'Publilius Syrus',
+    'b627c718-24d1-568a-a43c-9878ceb8c4ee' => [
+        'I used to have all these plans and think \'Ah, I have my whole life figured out\', but then I realized no matter how much I plan: life happens! So I find myself living day to day trying to do my best, embracing every moment as a learning opportunity and chance to get to know myself a little more.',
+        'Q\'orianka Kilcher',
     ],
-    '2451b993-8eec-5a3e-878a-797b86b40b45' => [
-        'I sort of understood that when I first started: that you shouldn\'t repeat a success. Very often you\'re going to, and maybe the first time you do, it works. And you love it. But then you\'re trapped.',
-        'Jack Nicholson',
+    '4042e996-060b-5c23-8318-7507a31b5844' => [
+        'To me, success in the job is setting a vision, guiding an organization through change - which is exactly what I did at Digitas, and I\'m very proud of that - and bringing people together and with you. That, to me, is what it takes to be successful.',
+        'Laura Lang',
+    ],
+    '0f82636e-d1fd-5eb2-b6b6-140668e961a3' => [
+        'Don\'t let nobody tell you that you can\'t do it. Love what you do until you don\'t love it anymore. Nothing\'s impossible.',
+        'Fetty Wap',
+    ],
+    '55e13591-c61d-5bbb-8075-c03127275e34' => [
+        'I think Clinton, after getting into office and into Washington, was shocked at being bludgeoned. So he spent time trying to be all things to all people - one way guaranteed not to be successful or respected in a lion\'s den. You can\'t just play around with all those big cats - you\'ve got to take somebody on.',
+        'Maya Angelou',
+    ],
+    '9f8b0ba9-8caa-54a7-9700-715594bf6322' => [
+        'The first time you marry for love, the second for money, and the third for companionship.',
+        'Jackie Kennedy',
+    ],
+    '6bab5a14-2403-5d7d-b972-ea19eb5aac93' => [
+        'The smile on your face lets me know that you need me, there\'s a truth in your heart that says you\'ll never leave me, and the touch of your hand says you\'ll catch me whenever I fall.',
+        'Alison Krauss',
+    ],
+    'ca09c3c6-0c73-5f09-80c0-342154c6bda0' => [
+        'The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. If you do that, you\'re in control of your life. If you don\'t, life controls you.',
+        'Tony Robbins',
+    ],
+    'e4c9ef80-53e5-5e0f-b808-7479c5de6bf2' => [
+        'Turns out you have a really fun time if you go to work every day and focus on being silly and funny and happy!',
+        'Hannah Murray',
+    ],
+    'cbf1027d-61e5-5712-8f82-df431dcb9981' => [
+        'I do not demand equal pay for any women save those who do equal work in value. Scorn to be coddled by your employers; make them understand that you are in their service as workers, not as women.',
+        'Susan B. Anthony',
+    ],
+    'ed13b951-28f6-51a9-a76f-38bd6238be33' => [
+        'The roots of the problems we face in the world, in our national life, and in our family and personal lives are spiritual.',
+        'Stephen Covey',
+    ],
+    '71a2e737-4a4f-5f86-b732-cf2a253265af' => [
+        'The success of each of us benefits us all, and the success of us all benefits each of us individually.',
+        'Walter Ulbricht',
+    ],
+    '01cfd694-eb23-5e6a-9ebf-155ccd6b2df1' => [
+        'We\'re right to say that a culture that can\'t tolerate free speech is... there are a wide range of positive human experiences that are not available in that culture. And we\'re right to want those experiences.',
+        'Sam Harris',
+    ],
+    '9a260f49-2385-5ee9-9844-5eba1f2e2076' => [
+        'There\'s a tipping point that happens with soccer in which you just kinda get it. I was drawn to it because the best soccer teams play similarly to my favorite basketball teams - like the eighties Lakers or eighties Celtics - teams that emphasized teamwork over individualism and relied on passing as their biggest ongoing edge.',
+        'Bill Simmons',
+    ],
+    '74697141-8dad-5f7b-86a0-9da4dd1ede73' => [
+        'If you have issues with family, friends, and people at work, try and solve these issues head on so you can move on and concentrate on having the life you want.',
+        'Heidi Klum',
+    ],
+    '00484bda-7f44-59ed-96c8-0d93f8aacad8' => [
+        'A lot of people like snow. I find it to be an unnecessary freezing of water.',
+        'Carl Reiner',
+    ],
+    'ca9c550f-59c5-5aa9-9a48-5016bd33c156' => [
+        'Today, I think the attitude is that governing is not necessarily good politics, and the result is that it\'s much more partisan and much more divided.',
+        'Leon Panetta',
+    ],
+    '7a200000-4dff-5268-9397-bfd3ce296cd3' => [
+        'The desire to fly is an idea handed down to us by our ancestors who... looked enviously on the birds soaring freely through space... on the infinite highway of the air.',
+        'Wilbur Wright',
+    ],
+    '5f0e136b-5228-5000-9888-c189000138fd' => [
+        'Nature\'s far too subtle to repeat herself.',
+        'Paul Muni',
+    ],
+    'a94ba19a-ee18-5357-8bf9-e4f720cf8af1' => [
+        'By all means let\'s be open-minded, but not so open-minded that our brains drop out.',
+        'Richard Dawkins',
+    ],
+    '29656dfc-dd3a-5fb9-b52e-07b7f05cb860' => [
+        'I retire with a smile on my face, in good health, and ready to spend autumns at my kids\' games instead of my own. I\'m excited to start the next chapter of my life.',
+        'Drew Bledsoe',
+    ],
+    'bd58d9ee-7b1e-59f0-aae1-82fad7ebfc60' => [
+        'Disasters happen. We still have no way to eliminate earthquakes, wildfires, hurricanes, floods or droughts. We cope as best we can by fortifying ourselves against danger with building codes and levees, and by setting aside money to clean up afterwards.',
+        'Seth Shostak',
+    ],
+    '0429df00-4c4b-5a3c-8efc-9a007ec93a24' => [
+        'I once called a guy into his own office and spun around in his own chair to greet him. That kind of thing may be why I quit, before I got into serious trouble. I would smile and the person would get so upset. But you do a thousand of those things, and it makes you weird.',
+        'Al Madrigal',
+    ],
+    '0ca7976a-35da-55b3-ac6e-41b372471353' => [
+        'Politeness is to human nature what warmth is to wax.',
+        'Arthur Schopenhauer',
+    ],
+    '802a2bb8-2779-597d-887c-2d1c38169fd4' => [
+        'I always work with a goal - and the goal is to improve as a player and a person. That, finally, is the most important thing of all.',
+        'Rafael Nadal',
+    ],
+    'aa8c925f-8074-5987-9aeb-23113eaf271b' => [
+        'I do believe in sending positive messages. I am a Christian, so I do believe in a lot of positive messages.',
+        'Quinton Aaron',
+    ],
+    '8c1d0eb9-92c9-5cbe-8155-ca24c3242994' => [
+        'Elective office and public service are obviously something that have long ties with my family, and something I\'m definitely interested in.',
+        'Joseph P. Kennedy III',
+    ],
+    'd48f5429-51aa-5901-96d6-f02581a3efcb' => [
+        'My father would take me to the playground, and put me on mood swings.',
+        'Jay London',
     ],
 ];

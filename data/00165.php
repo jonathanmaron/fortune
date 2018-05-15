@@ -1,104 +1,204 @@
 <?php
 
 return [
-    'a3030442-7b8e-5d14-be51-39da5ad98371' => [
-        'The sacrifices made by veterans and their willingness to fight in defense of our nation merit our deep respect and praise - and to the best in benefits and medical care.',
-        'Sue Kelly',
+    '86608e36-24ab-5a7e-a289-07f121ae431c' => [
+        'I believe that you should gravitate to people who are doing productive and positive things with their lives.',
+        'Nadia Comaneci',
     ],
-    'c3c8c1af-3b9a-5e66-828a-b144be95555c' => [
-        'The true delight is in the finding out rather than in the knowing.',
-        'Isaac Asimov',
+    'd34fddb7-8808-5af7-b5e2-8b62c4be0ac9' => [
+        'It\'s funny: in the middle of making \'The Muse,\' I was offered, at the time, the first \'Ice Age,\' the part that Ray Romano took: I was offered the elephant. And I couldn\'t even stop to breathe, so I didn\'t do it. They\'ve made, like, six of them. And in the animation business, for a voice actor, that\'s what you want. You want six, you know?',
+        'Albert Brooks',
     ],
-    'eabdb451-a119-5efa-9114-ca393a416119' => [
-        'I was terrible in English. I couldn\'t stand the subject. It seemed to me ridiculous to worry about whether you spelled something wrong or not, because English spelling is just a human convention - it has nothing to do with anything real, anything from nature.',
-        'Richard P. Feynman',
+    'bb2b844d-9d4b-5170-a412-85a3e3be633f' => [
+        'I\'ve learned to lose with a smile on my face. That\'s what the Oscar teaches you.',
+        'Alejandro Gonzalez Inarritu',
     ],
-    'b99e0ce2-364d-5500-9a24-a8f0562a8576' => [
-        'A lot of America is kind of done. People have been making films about it for 100 years. Everything to me feels used up. But Jo-Burg feels unbelievably inspirational to me.',
-        'Neill Blomkamp',
+    'e92e4db3-aa99-59f0-a0f2-9aee0a28acc4' => [
+        'Believe in your dreams and dream big. And then after you\'ve done that, dream bigger.',
+        'Howard Schultz, CEO Starbucks',
     ],
-    '200dbc7a-f6f7-5fac-a4f3-20ad1c1e4094' => [
-        'You\'re not gonna get through life without being worshipful or devoted to something. You\'re either devoted to your job, or to your desires. So the best way to spend your life is to try to be devoted to prayer, to Allah.',
-        'Mos Def',
+    '57c92af8-1dba-5b55-9923-ef92e02e8bf9' => [
+        'A smile is the light in your window that tells others that there is a caring, sharing person inside.',
+        'Denis Waitley',
     ],
-    'b8bebf84-05ce-5e87-b17f-12295f0baadf' => [
-        'Not everything is going to be handed to you just because you\'re talented with a big smile. Sometimes you just gotta get out and shoot jumpers for hours and hours and hours. That\'s something I didn\'t really get a grasp on until way later, waking up early and treating it like a job if you\'re serious about it. Get the freak up and, you know, work.',
-        'Anderson Paak',
+    'ee09741d-8d26-5817-863c-77d571a27488' => [
+        'I get very nervous whenever I think about it. I\'ve never done a serious play, and I have such awe of the woman - she\'s really my only idol. It\'s going to be a big stretch - certain people come out on stage and your face muscles automatically tense and you get ready to smile.',
+        'Judy Holliday',
     ],
-    'bb070c8c-08a3-501a-8475-03111352e123' => [
-        'The thing I love about being an actor is the ability to travel and experience new cultures.',
-        'Paul Wesley',
+    'd6f71f39-8ef9-562d-83c3-8f8816f8646d' => [
+        'The best way to avoid falling prey to the opinions of others is to realize that other people\'s opinions are just that - opinions. Regardless of how great or terrible they think you are, that\'s only their opinion. Your true self-worth comes from within.',
+        'Travis Bradberry',
     ],
-    '4317f6e7-1ca1-591c-b829-5ec65c330782' => [
-        'I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let\'s face it, friends make life a lot more fun.',
-        'John Dewey',
+    '1f537a95-76b3-501d-b92b-cd469cddcbfb' => [
+        'The free man is he who does not fear to go to the end of his thought.',
+        'Leon Blum',
     ],
-    'baf3b018-a501-5fb0-94c2-463f53d0830a' => [
-        'Love of man for woman - love of woman for man. That\'s the nature, the meaning, the best of life itself.',
-        'Zane Grey',
+    'f6465565-6647-5620-aea0-322128fb1021' => [
+        'Sure there is a sexy attitude, and when they say, \'Give me a sexy look with your eyes,\' you give it to them. It doesn\'t have to relate to the product. People are just drawn to it.',
+        'Lisanne Falk',
     ],
-    'f99f8a5b-8d30-584e-bad9-656acf25f887' => [
-        'When I was little, I didn\'t really travel - from the suburbs to Paris was already a journey. I had a foreigner\'s eye on the city, and I still enjoy that point of view. Then there\'s the fact that one of the things that touches me most is injustice.',
-        'JR',
+    'cd404d3b-ba9e-513d-ab85-43f40417ceaa' => [
+        'Realize deeply that the present moment is all you ever have. Make the Now the primary focus of your life.',
+        'Anais Nin',
     ],
-    '7cb60c45-becd-5d5a-9b17-d2a423110b24' => [
-        'A good job is more than just a paycheck. A good job fosters independence and discipline, and contributes to the health of the community. A good job is a means to provide for the health and welfare of your family, to own a home, and save for retirement.',
-        'James H. Douglas, Jr.',
+    'cc39e13d-42fb-5807-9fef-cd1bc5ba73a9' => [
+        'Creativity is putting your imagination to work, and it\'s produced the most extraordinary results in human culture.',
+        'Ken Robinson',
     ],
-    '51e26ac2-3a31-5f30-bf00-d1a3efaf160b' => [
-        'Land really is the best art.',
-        'Andy Warhol',
+    'd846066d-2059-57c8-bf7c-7b54d922e2d0' => [
+        'When the negative thoughts come - and they will; they come to all of us - it\'s not enough to just not dwell on it... You\'ve got to replace it with a positive thought.',
+        'Joel Osteen',
     ],
-    '5d5a4a63-5a98-579d-91a8-5cb2d8fe435c' => [
-        'Cats are the runes of beauty, invincibility, wonder, pride, freedom, coldness, self-sufficiency, and dainty individuality - the qualities of sensitive, enlightened, mentally developed, pagan, cynical, poetic, philosophic, dispassionate, reserved, independent, Nietzschean, unbroken, civilised, master-class men.',
-        'H. P. Lovecraft',
+    'f2aad50d-8c7b-5a81-ad93-4b4d0364c141' => [
+        'To feel much for others and little for ourselves; to restrain our selfishness and exercise our benevolent affections, constitute the perfection of human nature.',
+        'Adam Smith',
     ],
-    'e400207d-1f27-563c-a6bb-265466b40950' => [
-        'All water has a perfect memory and is forever trying to get back to where it was.',
-        'Toni Morrison',
+    '09d49b31-b807-5080-bb9f-be484ed1da1c' => [
+        'One of the few luxuries left is travel. And the aspect of travel that is luxurious is not the movement, but the being there.',
+        'Andre Balazs',
     ],
-    '6638b193-b07c-5679-8948-3df185a0923f' => [
-        'The two things I was positive about in life were that I was going to be a teacher at a boarding school or an operative with the CIA posted abroad. I could write a book about all the things I was sure about.',
-        'Tucker Carlson',
+    '0479a5d0-7534-579c-950f-9e5fd2d6cc36' => [
+        'A happy life is one which is in accordance with its own nature.',
+        'Lucius Annaeus Seneca',
     ],
-    'f6af30a0-05a7-5096-aef1-884e8a0886b8' => [
-        'The dream is free. The hustle is sold separately.',
-        'Unknown',
+    '4304e4ee-4a7f-5030-bc3c-03d07f0b10c5' => [
+        'The truth is always exciting. Speak it, then. Life is dull without it.',
+        'Pearl Buck',
     ],
-    'eaa9d410-b0ac-5195-b15c-26b1345b8340' => [
-        'America isn\'t Congress. America isn\'t Washington. America is the striving immigrant who starts a business, or the mom who works two low-wage jobs to give her kid a better life. America is the union leader and the CEO who put aside their differences to make the economy stronger.',
-        'Khaled Hosseini',
+    '5631b27a-700c-5a6c-bd5a-5abc98d22d76' => [
+        'And remember, it\'s also very funny, because side by side with grief lies joy.',
+        'Fran Drescher',
     ],
-    '8fbd545d-f7ff-5c1d-9bcd-d0ab119213f0' => [
-        'Philosophy is the highest music.',
-        'Plato',
+    'cbf26480-dc44-5878-8a48-a8ff186d9390' => [
+        'I appreciate the \'Surreal Life.\' I had a really positive experience on that show, and with those people. I found some love in my heart for religion again, and had the support of a new family of friends. I wouldn\'t have had the pleasure of meeting those people, if we were not all placed in that fishbowl.',
+        'Vince Neil',
     ],
-    '8ca7d974-c516-5569-a677-a38caf4be9e3' => [
-        'Character is the ability of a person to see a positive end of things. This is the hope that a man of character has.',
-        'Tom Landry',
+    'a7d6e7cd-3799-5341-831e-17e382b2ecd0' => [
+        'What contemptible scoundrel has stolen the cork to my lunch?',
+        'W. Clement Stone',
     ],
-    'cc042afd-afd7-5e87-9c08-18931cac030f' => [
-        'If you\'re going through hell keep going.',
-        'Winston Churchill',
+    '4ebb3c0a-05d5-5c49-addc-3f15942e3dca' => [
+        'The biggest breakthroughs in consciousness occur when things are difficult; when we have a choice to fall to the worst of ourselves or rise to the best of ourselves.',
+        'Yehuda Berg',
     ],
-    'a8fbb01a-6273-5efc-9f71-d80b04e48f02' => [
-        'I never saw a discontented tree. They grip the ground as though they liked it, and though fast rooted they travel about as far as we do.',
-        'John Muir',
+    '5b44f2db-adb7-5a70-b708-b11c3be401fb' => [
+        'You cannot have maternal health without reproductive health. And reproductive health includes contraception and family planning and access to legal, safe abortion.',
+        'Hillary Clinton',
     ],
-    'e82a0d55-4cd4-5133-b025-6b4d97aec441' => [
-        'We can\'t plan life. All we can do is be available for it.',
-        'Conor McGregor',
+    '43fd3fb6-4b96-5afc-819b-155ea8bbf5e9' => [
+        'We must always take from nature what we paint and always choose the most beautiful things.',
+        'Leon Battista Alberti',
     ],
-    '77e8305b-c6bf-506d-90e5-c4c6d53512eb' => [
-        'The origin of all revolutions and corruption, and the spur and source of all base morals are just two sayings: The First Saying: \'So long as I\'m full, what is it to me if others die of hunger?\' The Second Saying: \'You suffer hardship so that I can live in ease; you work so that I can eat.\'',
-        'Said Nursi',
+    '09d4230a-bccb-578f-a467-2f1236764aa8' => [
+        'Best of all is it to preserve everything in a pure, still heart, and let there be for every pulse a thanksgiving, and for every breath a song.',
+        'Konrad von Gesner',
     ],
-    '9f8bbdb9-219c-5de1-bd25-5bd4ceac6772' => [
-        'I used to work in a fire hydrant factory. You couldn\'t park anywhere near the place.',
-        'Steven Wright',
+    'd7cb82eb-4837-5352-8f64-1069994a2a15' => [
+        'Success is not in never failing, but rising everytime you fall!',
+        'Jonathan Taylor Thomas',
     ],
-    '0c87dfd9-d8a0-512d-95d5-cf5392f572e0' => [
-        'Time stays long enough for anyone who will use it.',
-        'Leonardo da Vinci',
+    'd6e9a1c4-248e-5e32-9c97-b1f2b67dce86' => [
+        'I am prepared for the worst, but hope for the best.',
+        'Benjamin Disraeli',
+    ],
+    '1fd571c5-e3d6-5263-acf0-d23b479c0fcd' => [
+        'The artist forges himself to the others, midway between the beauty he cannot do without and the community he cannot tear himself away from. That is why true artists scorn nothing: they are obliged to understand rather than to judge.',
+        'Albert Camus',
+    ],
+    '383d77cf-8aa6-5323-b07e-524f045007de' => [
+        'A happy life is one spent in learning, earning, and yearning.',
+        'Alan Cohen',
+    ],
+    '31276439-76cc-55ba-8737-ed55790e5b12' => [
+        'A James Cagney love scene is one where he lets the other guy live.',
+        'Bob Hope',
+    ],
+    '8a1a796c-193a-5842-998f-b070df7afe63' => [
+        'Chaos is inherent in all compounded things. Strive on with diligence.',
+        'Buddha',
+    ],
+    '23681d79-a943-5c51-877b-a5dda180dc2d' => [
+        'Positive anything is better than negative nothing.',
+        'Elbert Hubbard',
+    ],
+    '167a0157-0389-5d53-9558-5b3103450418' => [
+        'Those little nimble musicians of the air, that warble forth their curious ditties, with which nature hath furnished them to the shame of art.',
+        'Izaak Walton',
+    ],
+    'fc150544-fcf3-5d1f-aecf-cf164066674f' => [
+        'The best math lesson we can teach college students this year is to subtract a tuition increase and benefit from the dividends of higher education.',
+        'Jodi Rell',
+    ],
+    '05b67493-c899-56cd-b799-bd38fdeda763' => [
+        'All the candy corn that was ever made was made in 1911.',
+        'Lewis Black',
+    ],
+    '2a8cd7e4-74ea-5ae6-a8aa-42b1da2ad9a0' => [
+        'I\'ve always wanted to go to Switzerland to see what the army does with those wee red knives.',
+        'Billy Connolly',
+    ],
+    '1cfd708d-d038-5b28-b9e6-a8099fbd72fd' => [
+        'As we grow as unique persons, we learn to respect the uniqueness of others.',
+        'Robert Schuller',
+    ],
+    '5bdc281a-d812-5d9e-adb5-ec3e2d7df650' => [
+        'Beauty is an ecstasy; it is as simple as hunger. There is really nothing to be said about it. It is like the perfume of a rose: you can smell it and that is all.',
+        'W. Somerset Maugham',
+    ],
+    'fb148c3d-9b05-5888-a441-76b281d416e0' => [
+        'We need to have complete certainty that things will work out, not because we are righteous or wise, but because of the time, the effort, the prayers, and the tools we are using. From the moment we are given awareness about some bigger picture or mission, we have to have complete focus on what to do to get to that place.',
+        'Yehuda Berg',
+    ],
+    '7aafbf02-93fa-573d-a696-78c3b8b27803' => [
+        'Solidarity and interdependence, a sense of worth, a pride and hope in the future: these are positive gains for those who believe in progressive politics and the beneficial role of government, rather than a detriment.',
+        'David Blunkett',
+    ],
+    'a6b388f7-a953-5339-b3b7-0da9c1e141fb' => [
+        'If success attends my steps, honor and glory await my name-if defeat, still shall it be said we died like brave men, and conferred honor, even in death, on the American Name.',
+        'Zebulon Pike',
+    ],
+    '5e1b23d6-6d22-5f4d-b044-52495c60c58b' => [
+        'The land created me. I\'m wild and lonesome. Even as I travel the cities, I\'m more at home in the vacant lots.',
+        'Bob Dylan',
+    ],
+    '9a249971-f575-5247-8a13-a3fdb538f1b9' => [
+        'The devil ain\'t got no power over me. The devil come, and me shake hands with the devil. Devil have his part to play. Devil\'s a good friend, too... because when you don\'t know him, that\'s the time he can mosh you down.',
+        'Bob Marley',
+    ],
+    '5bef5040-335c-5106-87b8-477fcdd32103' => [
+        'The sole meaning of life is to serve humanity.',
+        'Chris Rock',
+    ],
+    '3025e769-80af-5676-b38b-8ff0bf9f4b49' => [
+        'In a certain sense, a writer is an exile, an outsider, always reporting on things, and it is part of his life to keep on the move. Travel is natural.',
+        'James Salter',
+    ],
+    'bbc167b1-9d40-523e-b7ab-032d9ca5745e' => [
+        'We are what we repeatedly do. Excellence, then, is not an act, but a habit.',
+        'Aristotle',
+    ],
+    '29e67798-8edb-564a-a143-d14987891693' => [
+        'You can really only enjoy life when you\'re extremely busy.',
+        'David Rockefeller',
+    ],
+    'ba0ad2cd-ae5b-5e75-b4ee-be97ff10741a' => [
+        'Nothing is too wonderful to be true, if it be consistent with the laws of nature.',
+        'Michael Faraday',
+    ],
+    '98361479-0a6a-5236-94ce-a5993a5e0412' => [
+        'A Bond girl must be a strong and independent woman, but at the same time charming and sensual. Those opposite qualities combined together make her interesting. She must be strong but at the same time feminine.',
+        'Olga Kurylenko',
+    ],
+    '1e4080e6-da83-5288-8cc8-368558bc2ed8' => [
+        'Rest is not idleness, and to lie sometimes on the grass under trees on a summer\'s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.',
+        'John Lubbock',
+    ],
+    '55dc95f4-41c4-5bd8-9fb6-15c917c6111a' => [
+        'In my situation, every time I write a sentence, I\'m thinking not only of the people I ended up in college with but my siblings, my family, my school friends, the people from my neighborhood. I\'ve come to realize that this is an advantage, really: it keeps you on your toes.',
+        'Zadie Smith',
+    ],
+    'dc3ae454-e2eb-5fe9-8c98-1427807ca0e6' => [
+        'Even as a little child, I\'ve always had that comedian kind of attitude.',
+        'Etta James',
     ],
 ];

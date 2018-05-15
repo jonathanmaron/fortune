@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '5fc57a08-066e-5f07-8b1f-3171f5a7a963' => [
-        'Because after my first year I had a lot of success, took everybody by storm, came back the next year thought it was easy and didn\'t have near the season I had the previous year. It was kind of a wake-up call. And so, life goes on.',
-        'Brett Favre',
+    '44e96d8f-c69d-505b-b064-3d374ed27de9' => [
+        'Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.',
+        'Henry Van Dyke',
     ],
-    'a5766609-611f-5ced-b56a-ab704909c4e9' => [
-        'I think that business book reporting, it\'s all Jim Collins, it\'s the story of victory; it\'s success bias over and over again.',
-        'Ben Horowitz',
+    'd368fcb7-1081-53a6-953f-0150ed65fd5d' => [
+        'Even in modern art, artists have used methods based on calculation, inasmuch as these elements, alongside those of a more personal and emotional nature, give balance and harmony to any work of art.',
+        'Max Bill',
     ],
-    'b0e82ab8-69b9-5f5d-8e4f-da9122c7796b' => [
-        'I was walking around legally blind. Now I have 20-20 vision. I can\'t believe I spent so many years blurry, but I think that coincides with how I was feeling. Now I notice if people are watching me, but I also smile right back if someone waves, which helps.',
-        'Nicole Kidman',
+    'e21372a8-f613-5175-b0dd-8ab5a3f3a07b' => [
+        'It\'s about having an active lifestyle, staying healthy, and making the right decisions. Life is about balance. Not everybody wants to run a marathon, but we could all start working out and being active, whether you walk to work or take an extra flight of stairs.',
+        'Apolo Ohno',
     ],
-    'e35fedad-e7f4-5146-b50d-b8908ba27bb0' => [
-        'That\'s your best friend and your worst enemy - your own brain.',
-        'Fred Durst',
+    '45ede87c-135c-503f-a791-25e16f940d0c' => [
+        'The theatre only knows what it\'s doing next week, not like the opera, where they say: What are we going to do in five years\' time? A completely different attitude.',
+        'Harrison Birtwistle',
     ],
-    '1d5b1cc4-d8c8-59ae-addc-b0bc94c75e2f' => [
-        'I was always just into my music and maybe into trying to save the world a little bit. I never really thought I\'d have a hit record or anything like that. I was prepared to travel around all over the country, kind of like a Johnny Appleseed, and sing.',
-        'Don McLean',
+    '1d034dd6-0195-5fc5-b4e7-d2e05ad2219f' => [
+        'You must accept that you might fail; then, if you do your best and still don\'t win, at least you can be satisfied that you\'ve tried. If you don\'t accept failure as a possibility, you don\'t set high goals, you don\'t branch out, you don\'t try - you don\'t take the risk.',
+        'Rosalynn Carter',
     ],
-    '4720a0cb-bc59-5944-a2b4-c7e1c956b463' => [
-        'We\'ve stayed really normal and down to Earth I think, and haven\'t let the success thing go to our head.',
-        'Ashley Olsen',
+    '294325a1-b578-579a-bfa3-f4c7ede26c9e' => [
+        'People think I have courage. The courage in my family are my wife Pam, my three daughters, here, Nicole, Jamie, LeeAnn, my mom, who\'s right here too.',
+        'Jim Valvano',
     ],
-    '21da0e1f-708b-542e-8c62-d7f89572d34a' => [
-        'Liturgy is like a strong tree whose beauty is derived from the continuous renewal of its leaves, but whose strength comes from the old trunk, with solid roots in the ground.',
-        'Pope Paul VI',
+    '5b208060-4134-5247-85df-3d74e603fd5e' => [
+        'I didn\'t work hard to sit down and not work.',
+        'Kevin Hart',
     ],
-    '662c4e1f-42c1-5770-b259-f66f6c2ee499' => [
-        'Winning is not a sometime thing; it\'s an all the time thing. You don\'t win once in a while... you don\'t do things right once in a while... you do them right all the time. Winning is habit.',
-        'Vince Lombardi',
+    '7eb84b28-0462-5459-b2f6-59315d386175' => [
+        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
+        'Fritz Scholder',
     ],
-    '49add70c-a75e-5d28-8d8f-a9f6e39ecc9f' => [
-        'Beauty is often worse than wine; intoxicating both the holder and beholder.',
-        'John Zimmerman',
+    'aec22097-e8e0-5259-9b60-77e263eb4119' => [
+        'Nature is a numbers game. We need all the support we can get as our immune systems and health are under assault from pollution, stress, contaminated food and age-related diseases as our lifespans increase.',
+        'Paul Stamets',
     ],
-    '45b35f34-c788-5d7e-9d73-9da6da992f39' => [
-        'Engineers in the developed world should be arguing not for protectionism but for trade agreements that seek to establish rules that result in a real rise in living standards. This will ensure that outsourcing is a positive force in the developing nation\'s economy and not an exploitative one.',
-        'Brian Behlendorf',
+    'd82e8180-e524-56f3-b98d-6ba877868d4b' => [
+        'Good humor is a tonic for mind and body. It is the best antidote for anxiety and depression. It is a business asset. It attracts and keeps friends. It lightens human burdens. It is the direct route to serenity and contentment.',
+        'Grenville Kleiser',
     ],
-    '9221f03b-39fe-5876-a7c3-ea88b66160ed' => [
-        'You know, the period of World War I and the Roaring Twenties were really just about the same as today. You worked, and you made a living if you could, and you tired to make the best of things. For an actor or a dancer, it was no different then than today. It was a struggle.',
-        'James Cagney',
+    '22da49c5-8991-503d-89ac-fd3440bd9d35' => [
+        'Life isn\'t always fair. Some people are born into better environments. Some people have better genetics. Some are in the right place at the right time. If you\'re trying to change your life, all of this is irrelevant. All that matters is that you accept where you are, figure out where you want to be, and then do what you can, today and every day, to hold your head high and keep moving forward.',
+        'Lori Deschene',
     ],
-    '860728ad-fa76-5c3b-bceb-7dc02b4d6898' => [
-        'I could be hit by a Sara Lee truck tomorrow. Which is not a bad way of going: \'Richard Simmons Found in a Freeway in Pound Cake and Fudge, With a Smile on His Face.\' Let\'s face it. We don\'t know anything.',
-        'Richard Simmons',
+    '1cdfb853-66e1-5a7b-bf1d-ebc7f9375b0d' => [
+        'I was lucky that I had friends who have maintained a very regular attitude with me and haven\'t changed how they interact with me.',
+        'Will Poulter',
     ],
-    'fae4ba65-da4d-57e2-9978-f841e40124b2' => [
-        'Autumn wins you best by this its mute appeal to sympathy for its decay.',
-        'Robert Browning',
+    '887173ce-edad-52ea-ab99-0b5b6077689c' => [
+        'When I was a teenager, I went on an organised three-day tour of Rome. It was the worst experience ever. I promised myself that I would never travel like that again, with someone telling you what to see and what not to see.',
+        'Diego Luna',
     ],
-    '86dc74b6-959f-5853-9183-8b343384e642' => [
-        'Where would you be without friends? The people to pick you up when you need lifting? We come from homes far from perfect, so you end up almost parent and sibling to your friends - your own chosen family. There\'s nothing like a really loyal, dependable, good friend. Nothing.',
-        'Jennifer Aniston',
+    'dfcfda58-4c22-5d72-b547-dab0d0a5ba27' => [
+        'Nothing in the universe can travel at the speed of light, they say, forgetful of the shadow\'s speed.',
+        'Howard Nemerov',
     ],
-    '8584d240-771b-5261-af65-7e3918dee76f' => [
-        'I think they need to get a more reliable way of watching television on the laptop. Because I travel so much, if I want to watch my favorite sports team it might not be showing in that place, so I want a reliable way to watch whatever I want to watch on my laptop.',
-        'John Legend',
+    'e0101544-4200-5739-841a-25dd71a27a36' => [
+        'No matter what a woman\'s appearance may be, it will be used to undermine what she is saying and taken to individualize - as her personal problem - observations she makes about the beauty myth in society.',
+        'Naomi Wolf',
     ],
-    '386a3d39-022f-5a3a-ad42-9033f3687ead' => [
-        'Nature is the master of talents; genius is the master of nature.',
-        'Josiah Gilbert Holland',
+    '9e60db67-5cf5-59b4-b622-ffaae6caa566' => [
+        'If you\'re doing your best, you won\'t have any time to worry about failure.',
+        'H. Jackson Brown, Jr.',
     ],
-    '9602145b-3b89-5679-a0f2-01b1feeb042b' => [
-        'I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.',
-        'G. K. Chesterton',
+    '4d2db20c-5595-52b2-a5ef-b54336572efa' => [
+        'The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.',
+        'Thomas A. Edison',
     ],
-    '87e646cb-fcb5-58df-8a68-0894dd7ea775' => [
-        'A man is not where he lives but where he loves.',
-        'Unknown',
+    'e8db429b-e928-50c0-aecb-447f04e49b95' => [
+        'There\'s a lot more to me than just funny.',
+        'Steve Harvey',
     ],
-    '68332431-2ba1-508c-8c02-c0eb83566661' => [
-        'The inspiration for my Vines comes from thinking about funny and relatable experiences from my daily life.',
-        'Lele Pons',
+    '8a23729e-d76d-55d4-abc7-78da299b3eaa' => [
+        'Beauty is all very well at first sight; but who ever looks at it when it has been in the house three days?',
+        'George Bernard Shaw',
     ],
-    '3b83b8d6-1c49-5222-860e-407b10924228' => [
-        'No rational argument will have a rational effect on a man who does not want to adopt a rational attitude.',
-        'Karl Popper',
+    '018663c0-1a25-54e6-b25a-cb21b38baeef' => [
+        'My grandmother, she\'s been the positive portion of my life the entire time.',
+        'Curtis Jackson',
     ],
-    '459e1136-8e1e-5083-a195-39c5d16f62d8' => [
-        'George loves the T Rex because it\'s the noisiest and the scariest.',
-        'Kate Middleton',
+    '4aaaf1b9-1a9f-52a5-a9ec-2eb8d267e5ca' => [
+        'The best way to be productive is to have a great team. So I spend more time than most CEOs on human resources. That\'s 20 percent of my week.',
+        'Kevin P. Ryan',
     ],
-    '74770c67-fe6f-52b0-bef4-0f7b05aae395' => [
-        'I don\'t travel anywhere without the PS3 and XBox. There\'s nothing better to do on long bus trips while on tour.',
-        'Soulja Boy',
+    '251d6953-8852-5d25-868e-6d56ad68bd18' => [
+        'Bad times have a scientific value. These are occasions a good learner would not miss.',
+        'Ralph Emerson',
     ],
-    '98cb2f4c-2667-58cf-be2b-f0c5c28147da' => [
-        'Your success story is a bigger story than whatever you\'re trying to say on stage. Success makes life easier. It doesn\'t make living easier.',
-        'Bruce Springsteen',
+    '4b796583-4b9b-55cc-9065-c588acfe9741' => [
+        'I trained as a journalist in America where paying sources is frowned upon. Now I work in the U.K. where there is a more flexible attitude.',
+        'Heather Brooke',
     ],
-    '0ba237a6-768f-5fb9-abd0-cc44303a23f2' => [
-        'Concentrate on your job and you will forget your other troubles.',
-        'William Feather',
+    '2a5b4aee-f0ab-5d44-aab4-6691ddf2aa57' => [
+        'Gymnastics demands so much of our time. We train all week and travel and compete on weekends. The people you\'re surrounded by really become your second family, your best friends, your sisters. My coach was like a second mother for me.',
+        'Amanda Borden',
     ],
-    'bd2363e5-53aa-5292-8302-18638c614690' => [
-        'I guess when I think about it, one of the things I like to dramatise, and what is sometimes funny, is someone coming unglued. I don\'t consider myself someone who is making the argument that I support these choices. I just think it can be funny.',
-        'Wes Anderson',
+    '823403db-4272-59bb-aa46-5cf03314208d' => [
+        'The strongest people aren\'t always the people who win, but the people who don\'t give up when they lose.',
+        'Ashley Hodgeson',
+    ],
+    '379e1c71-971e-5b1e-bac5-0fc514ea7145' => [
+        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.',
+        'Earl Nightingale',
+    ],
+    '56ff190f-4da2-5f81-bfb3-e0df6dc83994' => [
+        'The nature of things is dharma.',
+        'Mahavira',
+    ],
+    'cafd63d8-86b1-5f1e-a953-42b8b7040bd1' => [
+        'Until you value yourself, you won\'t value your time. Until you value your time, you won\'t do anything with it.',
+        'M. Scott Peck',
+    ],
+    'eb26d229-3875-5815-a1b0-50c5fd469820' => [
+        'I guess we all like to be recognized not for one piece of fireworks, but for the ledger of our daily work.',
+        'Neil Armstrong',
+    ],
+    'fc7600f6-c41f-5e3b-80e5-352f891d8eb3' => [
+        'Having a soft heart in a cruel world is courage, not weakness.',
+        'Katherine Henson',
+    ],
+    '3e04768d-2cd2-5d67-be86-16cf47536656' => [
+        'If you cannot smile when you listen to music, then do not listen to it!',
+        'Estelle',
+    ],
+    'd8fa1279-8310-5f60-b1ae-5c84606104a1' => [
+        'How much do you as a consumer value a positive experience with a brand or its customer service department? How willing are you to share that with your friends? How inclined are you to let that person know that you\'re interaction with them was positive?',
+        'Simon Mainwaring',
+    ],
+    '446615a3-cd84-56b3-9406-9c534dd8bccc' => [
+        'Slaves are generally expected to sing as well as to work.',
+        'Frederick Douglass',
+    ],
+    'c70272b8-2c88-5b2e-a203-911bd751d016' => [
+        'It\'s cool to be a part of recovery. This is just who I am, this is what I write about, what I do, and most of my work has been a reflection of what I\'ve been going through in one way or another.',
+        'Chester Bennington',
+    ],
+    '54611914-10d8-5c86-ad0b-83f26f1c3ff2' => [
+        'Just live life. That\'s the best way to learn how to act. Just live.',
+        'Rory Culkin',
+    ],
+    '023d7f0e-d898-5cb5-b825-00858e2b9208' => [
+        'It\'s lovely to work with a group of actors who make you laugh and smile.',
+        'Kelly Reilly',
+    ],
+    '620dc2ea-85e2-5132-86d3-cb79fea64e42' => [
+        'There\'s always been something deeply disturbing about the Abbott government\'s attitude to women.',
+        'Richard Flanagan',
+    ],
+    'd7f2f8d8-1b04-518b-99b7-83ce5de1b138' => [
+        'If I don\'t make the team out of spring training, I\'ll keep a good attitude. I\'ll just go polish up the parts of my game that made me not stay in the big leagues.',
+        'Cory Lidle',
+    ],
+    'fc1ec698-2e74-5363-bb5d-e1e25fdc2518' => [
+        'When fate hands us a lemon, lets try to make lemonade.',
+        'Dale Carnegie',
+    ],
+    '9bcdf033-56d6-5a78-a363-41c4c111f80d' => [
+        'To wake up to the sound of my son saying \'Mama, mama!\' It\'s the best sound ever.',
+        'Miranda Kerr',
+    ],
+    'a164a38e-2e08-5500-9c14-180b5ef3cdfa' => [
+        'The productivity of work is not the responsibility of the worker but of the manager.',
+        'Peter Drucker',
+    ],
+    '1c88e723-0a35-50eb-b65a-7b37c7c1af3c' => [
+        'On a cosmic scale, our life is insignificant, yet this brief period when we appear in the world is the time in which all meaningful questions arise.',
+        'Paul Ricoeur',
+    ],
+    '969dceda-032f-52e6-aad0-8ba91058f88a' => [
+        'A compliment is something like a kiss through a veil.',
+        'Victor Hugo',
+    ],
+    '3e01af37-ea64-5315-8113-540bc31a1570' => [
+        'I\'m a car fanatic and each morning I wake up with a smile on my face, whether I\'m commentating on the Formula One or at Silver Hatch racetrack in Roary the Racing Car.',
+        'Murray Walker',
+    ],
+    '6e70e2cd-be7b-52a2-9b18-fae13f4a37c9' => [
+        'I had given myself a sort of early retirement when I left the scene in 1985. All of the people in my family worked until they dropped, including my father. I decided to take a little time to enjoy life. I traveled, built my dream house, rescued a few dogs. My return to music, and acting, was deliberate, part of my musical arc.',
+        'J. D. Souther',
+    ],
+    'ed0a6c4d-9bee-55fc-a65e-88451a12b76a' => [
+        'Youth smiles without any reason. It is one of its chiefest charms.',
+        'Thomas Gray',
+    ],
+    '4c9a714c-1a66-5a27-a02a-70f1d05f9850' => [
+        'I get my best ideas in a thunderstorm. I have the power and majesty of nature on my side.',
+        'Ralph Steadman',
+    ],
+    '0c806f1b-6350-58b1-bc7d-7f1f8916ead5' => [
+        'If you want to do really important things in life and big things in life, you can\'t do anything by yourself. And your best teams are your friends and your siblings.',
+        'Deepak Chopra',
+    ],
+    '2044b3e7-8109-5632-9e65-691659a75d35' => [
+        'Golf is deceptively simple and endlessly complicated; it satisfies the soul and frustrates the intellect. It is at the same time rewarding and maddening - and it is without a doubt the greatest game mankind has ever invented.',
+        'Arnold Palmer',
+    ],
+    'e9076e31-dc34-5128-a1f5-05fe720bf830' => [
+        'By the time we get to the 2040s, we\'ll be able to multiply human intelligence a billionfold. That will be a profound change that\'s singular in nature. Computers are going to keep getting smaller and smaller. Ultimately, they will go inside our bodies and brains and make us healthier, make us smarter.',
+        'Ray Kurzweil',
     ],
 ];

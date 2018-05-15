@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '993490ac-8d45-5693-93b0-0029ac45f6d3' => [
-        'I was always the guy getting kicked out of my classes at school for having an attitude problem.',
-        'Chevy Chase',
+    '30c89516-f2b5-597a-bd1d-06f310be2241' => [
+        'Epic poetry exhibits life in some great symbolic attitude. It cannot strictly be said to symbolize life itself, but always some manner of life.',
+        'Lascelles Abercrombie',
     ],
-    '16cff5ea-0339-52ff-9336-62770ede6e4e' => [
-        'You can have meaning, accomplishment, engagement and good relationships, even if you are dull on the positive affect side.',
-        'Martin Seligman',
+    '487a5cbf-3b61-524f-8df2-3b972218ed13' => [
+        'Time is the most precious element of human existence. The successful person knows how to put energy into time and how to draw success from time.',
+        'Denis Waitley',
     ],
-    '21cbf672-5f9a-506f-8f50-6b3cb15c931d' => [
-        'I really have created a family. I work with the people I love, I travel with them, I make films with them, and I\'m in an office with them. So in a weird way - I know I haven\'t birthed a child - I feel that I\'m a part of creating a family. It\'s a tribe. I love that word.',
-        'Drew Barrymore',
+    '90f4f6ef-467c-5d84-9591-178a95929401' => [
+        'I never drink water because of the disgusting things that fish do in it.',
+        'Unknown',
     ],
-    '7d617eb6-6a0d-5053-9040-d0fbb41023be' => [
-        'Only the guy who isn\'t rowing has time to rock the boat.',
-        'Jean-Paul Sartre',
+    'f95d98ae-60e2-5489-bde3-7eb3481522db' => [
+        'My family is my strength and my weakness.',
+        'Aishwarya Rai Bachchan',
     ],
-    'a287c8cd-8ec3-510e-9222-5be1245c2fd9' => [
-        'America\'s wealth comes from the efforts of people striving for success. Take away their incentive with badmouthing success and you take away the wealth that helps us take care of the needy.',
-        'Thomas Peterffy',
+    'dd7b2fb5-3d5b-5ea3-9fd1-161034f6b731' => [
+        'It is amazing how complete is the delusion that beauty is goodness.',
+        'Leo Tolstoy',
     ],
-    'a8f14937-a622-576f-9945-271fa3c5e4db' => [
-        'I attribute my success to my mental approach to the game. I have always been a serious student of umpiring. I enjoy studying rules, situations, and positioning.',
-        'Jim Evans',
+    '8d2afac1-9c4d-5e4f-a2e4-f1111c18bd70' => [
+        'I believe that being successful means having a balance of success stories across the many areas of your life. You can\'t truly be considered successful in your business life if your home life is in shambles.',
+        'Zig Ziglar',
     ],
-    'c7007c61-63fe-5786-8ff4-614f1202c8a9' => [
-        'The left dismisses talk about the collapse of family life and talks instead about the emergence of the growing new diversity of family types.',
-        'Christopher Lasch',
+    '079bf9bd-420c-5f24-8399-fbf17fee591b' => [
+        'The reward for work well done is the opportunity to do more.',
+        'Jonas Salk',
     ],
-    '9d758a32-36c4-5fb6-b007-3eb382f0714c' => [
-        'Happiness comes when your work and words are of benefit to yourself and others.',
+    '619588d7-b828-5c58-bce9-fe4b57151315' => [
+        'Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.',
         'Buddha',
     ],
-    '486e6c85-0dbb-5879-868a-82113978e886' => [
-        'Riding a bicycle is the summit of human endeavour - an almost neutral environmental effect coupled with the ability to travel substantial distances without disturbing anybody. The bike is the perfect marriage of technology and human energy.',
-        'Jeremy Corbyn',
+    '38c7403b-6f39-50d9-b166-ef28f4c3aa6c' => [
+        'As the family goes, so goes the nation and so goes the whole world in which we live.',
+        'Pope John Paul II',
     ],
-    'ad2aaff0-3335-566e-9f3d-ffffe843f588' => [
-        'One thing I never want to be accused of is not working.',
-        'Don Shula',
+    'fd88f5c7-e904-5060-aa70-ae00cc9ffe5f' => [
+        'I like motivational books, because I like the go-getting American spirit - your destiny is in your own hands, life is what you make it, don\'t accept your limitations, jump before you\'re pushed, leap before you look.',
+        'Louise Mensch',
     ],
-    '7abaf0d6-ad75-53f4-951a-949b80cd67c7' => [
-        'How easy to be amiable in the midst of happiness and success.',
-        'William Ellery Channing',
+    '6710947e-875a-58c9-bf47-9026884aa2fd' => [
+        'Look back, and smile on perils past.',
+        'Walter Scott',
     ],
-    '62b190d9-bd10-567f-b9b7-7c0483a1401c' => [
-        'The only way I\'m going to support my family is to tour. I love playing, don\'t get me wrong. That 90 minutes every night, that\'s free. We get paid to travel. But every night, I have to get myself locked in. There are a thousand people that don\'t want to be disappointed, because they have a lot of expectations.',
-        'Sturgill Simpson',
+    'f53ed8c3-2555-5c48-922d-82f30ddad967' => [
+        'By the time we\'ve made it, we\'ve had it.',
+        'Malcolm Forbes',
     ],
-    '26dc42da-5156-55ff-b62a-28514c2b89cc' => [
-        'What is the good of your stars and trees, your sunrise and the wind, if they do not enter into our daily lives?',
-        'E. M. Forster',
+    '409355ca-c152-5495-aad7-dfac12a3d2c2' => [
+        'I have seven children by six different mothers. Maybe success was too good to me.',
+        'Eazy-E',
     ],
-    'cbab4e68-6d45-527a-9873-31893ba2822e' => [
-        'The countries who do the best in international comparisons, whether it\'s Finland or Japan, Denmark or Singapore, do well because they have professional teachers who are respected, and they also have family and community which support learning.',
-        'Howard Gardner',
+    '277770c9-0f25-58bb-8b0a-00ab90e67121' => [
+        'San Francisco is a mad city - inhabited for the most part by perfectly insane people whose women are of a remarkable beauty.',
+        'Rudyard Kipling',
     ],
-    '01ce817c-4265-5344-b34e-7b35921b9afe' => [
-        'In order to succeed you must fail, so that you know what not to do the next time.',
-        'Anthony J. D\'Angelo',
+    '82fcd263-e9cd-52fd-a3aa-afe8c33c3011' => [
+        'There is no better way of exercising the imagination than the study of law. No poet ever interpreted nature as freely as a lawyer interprets the truth.',
+        'Jean Giraudoux',
     ],
-    'b2b87079-4387-5afe-8fd3-757cf45bb329' => [
-        'Every man takes the limits of his own field of vision for the limits of the world.',
-        'Arthur Schopenhauer',
+    '5df1efe9-012d-50c9-b454-b0c6d133f5cc' => [
+        'Good friends, good books and a sleepy conscience: this is the ideal life.',
+        'Muhammad Ali',
     ],
-    '984bc3d7-3f48-5282-85fc-f116d830d158' => [
-        'Does not the very word \'creative\' mean to build, to initiate, to give out, to act - rather than to be acted upon, to be subjective? Living photography is positive in its approach, it sings a song of life - not death.',
-        'Berenice Abbott',
+    'cdad539d-0512-53f1-a355-bfc04523682a' => [
+        'I have flown with British Airways since I was a very little child, so it feels quite special to have gone from family holidays flying around Europe to become a gold card holder and be spoiled enough to travel more than not in first class.',
+        'Orlando Bloom',
     ],
-    '2dda7ecc-fee9-5037-b685-9b56d0fd72d2' => [
-        'Being black is not a matter of pigmentation - being black is a reflection of a mental attitude.',
-        'Steven Biko',
+    'd651367b-1013-5d73-a3b2-373d805da153' => [
+        'People come in and out of our lives, and the true test of friendship is whether you can pick back up right where you left off the last time you saw each other.',
+        'Lisa See',
     ],
-    'a6e32746-9d2e-5ae4-aab9-c90d813828b5' => [
-        'Pessimism leads to weakness, optimism to power.',
-        'William James',
+    'ef994808-0d4d-5a47-8929-e99a753d874a' => [
+        'Nature gives you the face you have at twenty; it is up to you to merit the face you have at fifty.',
+        'Coco Chanel',
     ],
-    '7464daa1-1ea3-5790-92fd-129848699eb3' => [
-        'The attitude that poetry should not be analyzed is prevalent among many who consider themselves experts on children\'s literature. But I suspected that kids like to look closely at things and figure out what makes them go.',
-        'X. J. Kennedy',
+    'c78a3eda-f60e-51ee-9f88-7305b26ae613' => [
+        'Of course my family and friends are incredibly valuable to me. They keep me sane, they teach me things and I love spending time with them. I think that ranking what you value is a sort of western and linear way of looking at things.',
+        'Julia Stiles',
     ],
-    '02d25302-5eb2-5ad4-9998-3aae65215e2d' => [
-        'While I relish our warm months, winter forms our character and brings out our best.',
-        'Tom Allen',
+    '866aa1a7-76a4-5b95-be4a-a4e7e493cbea' => [
+        'Death is the mother of Beauty; hence from her, alone, shall come fulfillment to our dreams and our desires.',
+        'Wallace Stevens',
     ],
-    'b3890a8b-3301-5947-a878-e2fac590884f' => [
-        'Justin Bieber is signed to Def Jam, and I don\'t believe in touching nothing that ain\'t mine. I want someone to give me the same respect - don\'t touch nothing that\'s mine. I still want what I want. But Justin Bieber is definitely a friend of a family. Me, Drake, Wayne. We rock with the little homie, so he a part of us in heart.',
-        'Birdman',
+    'abf973f8-f03c-5de5-896f-83a374baa96c' => [
+        'Love is a positive, symbiotic, reciprocal flow between two or more entities.',
+        'Inga Muscio',
     ],
-    'bb09c2f8-7f2b-5f8d-855d-202f68b9d67b' => [
-        'All systems in Pakistan appear to be in a haste to achieve something, which can have both positive and negative implications. Let us take a pause and examine the two fundamental questions: One, are we promoting the rule of law and the Constitution? Two, are we strengthening or weakening the institutions?',
-        'Ashfaq Parvez Kayani',
+    '26b55ac1-2103-5f2c-b799-23c045c15569' => [
+        'I hate to say it but I hate black humor. I feel like a Klan member saying it, but it\'s just not funny.',
+        'Issa Rae',
     ],
-    '7cafdc2d-2503-5911-842b-4944ebe60e9a' => [
-        'The awareness of our own strength makes us modest.',
-        'Paul Cezanne',
+    '88944673-867c-5654-b8dd-121c3d08963e' => [
+        'You can\'t have a better tomorrow if you are thinking about yesterday all the time.',
+        'Charles Kettering',
     ],
-    '9fdd8d66-322b-59ff-9fc7-3470cdbbe13e' => [
-        'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\'t found it yet, keep looking. Don\'t settle. As with all matters of the heart, you\'ll know when you find it.',
-        'Steve Jobs',
+    '08aad9f6-48cf-5af0-aa8c-4a6f594297d7' => [
+        'That\'s a funny thing, fame. People definitely do treat you differently. When you begin to be successful, people say, \'Don\'t go changing.\' Well, that\'s easy to say, but the fact is, you don\'t change at all - other people do.',
+        'Jonathan Rhys Meyers',
+    ],
+    '07f5c26d-dc0a-5fc4-8e52-70031740ef3b' => [
+        'I wanted to travel from the beginning. As a kid, I used to dream about airplanes, before I ever flew in one.',
+        'Mary Ellen Mark',
+    ],
+    'bda8cf9c-38dc-5400-acb1-6bc8c3f26193' => [
+        'We were what you would call a poor family, but we were rich in so many things. We did family things together. We always had dessert, even if it was just Jell-O. So, I never knew I was poor.',
+        'August Wilson',
+    ],
+    'b2a906ab-e761-5447-a81e-5a3a6f79b434' => [
+        'Success is 99 percent failure.',
+        'Soichiro Honda',
+    ],
+    'eb93a2ec-e7b3-5b6e-800b-554833c14326' => [
+        'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
+        'James Best',
+    ],
+    '7b5b8482-6c55-5566-a6d5-0b53415ad01e' => [
+        'A committee is a group that keeps minutes and loses hours.',
+        'Milton Berle',
+    ],
+    '41c7256d-8c82-5951-8fff-4d0fa966a846' => [
+        'Next to hurting my family, cheating on me is the worst thing someone could do.',
+        'Robert Buckley',
+    ],
+    '7c5bd543-4757-5fcf-9728-b5050ab60964' => [
+        'A white-boy attitude is \'I must exclude, denigrate, and leave behind.\' They don\'t see it or think about it. It\'s a culture.',
+        'Donna Brazile',
+    ],
+    '372e901f-b34a-55c0-9004-2d14d367d284' => [
+        'I think it has something to do with being British. We don\'t take ourselves as seriously as some other countries do. I think a lot of people take themselves far too seriously; I find that a very tedious attitude.',
+        'Joan Collins',
+    ],
+    '3b0f23d2-b77e-5c68-b8e6-531562d24694' => [
+        'I think women have to change their hairstyle from time to time.',
+        'Yulia Tymoshenko',
+    ],
+    '32e08e12-f43d-5afd-8b53-25a4756fb48d' => [
+        'I love hanging out with friends and family.',
+        'Ashley Wagner',
+    ],
+    'a9925656-9a48-5be3-9c8f-c0880be04662' => [
+        'If you embrace \'positive thinking,\' you are - by definition - spurning \'negative thinking.\' So it\'s as if you were on a teeter-totter and are trying desperately to put all your weight on one side - the \'positive thinking\' side.',
+        'Srikumar Rao',
+    ],
+    '0759e216-4ebd-5380-b44a-c3be1104058b' => [
+        'Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.',
+        'Ralph Emerson',
+    ],
+    'd2b479cf-5b86-5189-a202-84fdb40ec064' => [
+        'Like charity, I believe glamour should begin at home.',
+        'Loretta Young',
+    ],
+    '0b63002d-b268-5ffa-aa08-9a1d6d1e6323' => [
+        'Our limitations and success will be based, most often, on your own expectations for ourselves. What the mind dwells upon, the body acts upon.',
+        'Denis Waitley',
+    ],
+    'e93cdf1b-4b38-507f-b0a1-588ee53f0656' => [
+        'It would be pretty funny to see a Beverly Hills white girl with mad rap skills.',
+        'Tori Spelling',
+    ],
+    '98a40925-31fd-5cff-a790-b3523a239881' => [
+        'We must let go of the life we have planned, so as to accept the one that is waiting for us.',
+        'Joseph Campbell',
+    ],
+    '8a1055c3-c726-5d5e-bddb-52dffc89db35' => [
+        'Why, I\'d like nothing better than to achieve some bold adventure, worthy of our trip.',
+        'Aristophanes',
+    ],
+    '4a51b69a-f2d6-572e-a404-156f68552b90' => [
+        'I would love a family. I\'m at the age where the wish for a child gets stronger. But who knows.',
+        'Cameron Diaz',
+    ],
+    '412a2e97-68b5-59b6-8d18-7023a0b52406' => [
+        'Life wasn\'t easy growing up; it was frustrating. If I had been a better reader, then that would have come easily, sports would have come easily, everything would have come easily, and I never would have realized that the way you get ahead in life is hard work.',
+        'Caitlyn Jenner',
+    ],
+    'ed9fe845-1e4b-53bb-b0de-2a5cb6c53469' => [
+        'Here is the tragedy: when you are the victim of depression, not only do you feel utterly helpless and abandoned by the world, you also know that very few people can understand, or even begin to believe, that life can be this painful. There is nothing I can think of that is quite as isolating as this.',
+        'Denise Van Outen',
+    ],
+    'a2010180-4105-5eb1-922b-27991a140e7b' => [
+        'I don\'t think our government really has much of a policy about air travel. I would compare the policies of United Arab Emirates, which has done a terrific job recognizing the value of transportation, of travel.',
+        'Jeff Smisek',
+    ],
+    'ca64d867-e259-5462-8190-cefd2a159e5e' => [
+        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
+        'Aldo Leopold',
+    ],
+    'a54d05b1-812e-5ec1-ac6e-148469495a74' => [
+        'The universe is transformation; our life is what our thoughts make it.',
+        'Marcus Aurelius',
+    ],
+    '187d7d90-1942-5495-ac74-584a9420e5c1' => [
+        'I\'d be hard-pressed to think of anybody who\'s made me laugh, who\'s funny, but who\'s also relentlessly positive.',
+        'Dylan Moran',
+    ],
+    '96fe4b3c-9748-5560-b71c-66e18cf5dbf3' => [
+        'Despair and disappointment are the parent of countless inspired, inspiring, triumphant creations.',
+        'Rasheed Ogunlaru',
     ],
 ];

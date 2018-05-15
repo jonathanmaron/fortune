@@ -7,9 +7,7 @@ use Symfony\Component\Console\Command\Command as ParentCommand;
 
 abstract class AbstractCommand extends ParentCommand
 {
-    protected $fortune;
-
-    protected $phpEncoder;
+    private $fortune;
 
     public function getFortune()
     {
@@ -19,18 +17,6 @@ abstract class AbstractCommand extends ParentCommand
     public function setFortune(Fortune $fortune)
     {
         $this->fortune = $fortune;
-
-        return $this;
-    }
-
-    public function getPhpEncoder()
-    {
-        return $this->phpEncoder;
-    }
-
-    public function setPhpEncoder($phpEncoder)
-    {
-        $this->phpEncoder = $phpEncoder;
 
         return $this;
     }

@@ -1,104 +1,204 @@
 <?php
 
 return [
-    '31bc54bb-73b0-53ac-b67f-90bab0383c50' => [
-        'If the graves of the thousands of victims who have fallen in the terrible wars of the two races had been placed in line the philanthropist might travel from the Atlantic to the Pacific, and from the Lakes to the Gulf, and be constantly in sight of green mounds.',
-        'Nelson A. Miles',
+    '233ae95a-b573-5092-b1d9-8ea9e3066b76' => [
+        'Hope sees the invisible, feels the intangible, and achieves the impossible.',
+        'Charles Caleb Colton',
     ],
-    'f8c61d3e-7f2e-5639-91c3-d7bb09df5d99' => [
-        'I keep my head straight by having the right people around me, from my friends and family to my management and my team. They all keep me in my place. If I didn\'t have them supporting all the work that I do, I wouldn\'t be in such a solid place.',
-        'Jess Glynne',
+    'f23fd96f-b1ba-5515-8121-17c22349b857' => [
+        'I\'m not happy not doing anything. When positive things are rolling in, you\'ve got to take them when you can get them.',
+        'Tori Spelling',
     ],
-    '6e61aedd-8ffe-5bf9-aef5-cf7425e3ec4e' => [
-        'Without hard work and discipline it is difficult to be a top professional.',
-        'Jahangir Khan',
+    'fc95e2ef-477f-5be2-b39c-7ef7687d4872' => [
+        'America believes in education: the average professor earns more money in a year than a professional athlete earns in a whole week.',
+        'Evan Esar',
     ],
-    'aeef0750-8124-57a7-9afb-a918ff2cd57c' => [
-        'Try and fail, but don\'t fail to try.',
-        'Stephen Kaggwa',
+    '23bb5dc7-a63a-5cac-8ef0-9274991914e3' => [
+        'I want to give kids that fall-off-the-bed-laughing feeling. Either that, or the sixth-grade feeling that life is hard - sometimes unbearably hard - and it is ultimately about death. But in the meantime, life can be really funny, too.',
+        'Kate Klise',
     ],
-    'e2d8ec09-5028-5acd-871c-54790902aa91' => [
-        'The old university attitude of \'publish or perish\' has changed. Students and academics are realising that institutions such as Imperial College are also wealth-generators. It is very satisfying to be in a university where you have the freedom to innovate and yet know that there is a path to translate your work into industry.',
-        'Chris Toumazou',
+    'f49df9cc-d883-5b08-9aa2-feef8b5ac746' => [
+        'If we study learning as a data science, we can reverse engineer the human brain and tailor learning techniques to maximize the chances of student success. This is the biggest revolution that could happen in education, turning it into a data-driven science, and not such a medieval set of rumors professors tend to carry on.',
+        'Sebastian Thrun',
     ],
-    'f2a550be-5396-5a38-9b82-fb325c0cad8e' => [
-        'Here\'s the funny thing about the response I\'ve been aware of to my dating famous people: It\'s been very negative. I\'m either not good-looking enough, not a good enough actor or not successful enough for these people.',
-        'Dax Shepard',
+    '904db4a3-a6d5-5410-8752-e673412e7e2d' => [
+        'Being busy with work, and as a mum, I\'m a big fan of online shopping.',
+        'Kirsty Gallacher',
     ],
-    '65365fd4-9e9f-5029-8719-f81fb73ef299' => [
-        'A lot of people like snow. I find it to be an unnecessary freezing of water.',
-        'Carl Reiner',
+    'bf088567-030f-59ba-b454-fdba7de4f3c7' => [
+        'Justin Bieber is signed to Def Jam, and I don\'t believe in touching nothing that ain\'t mine. I want someone to give me the same respect - don\'t touch nothing that\'s mine. I still want what I want. But Justin Bieber is definitely a friend of a family. Me, Drake, Wayne. We rock with the little homie, so he a part of us in heart.',
+        'Birdman',
     ],
-    '721fa731-5ba4-5bfd-861e-18d2d2af34e2' => [
-        'The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.',
-        'Booker Washington',
+    'c03b6145-25b3-5fe7-860e-2b0aeee9e528' => [
+        'Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.',
+        'Ralph Emerson',
     ],
-    'a2430440-c2bd-57ed-9dea-634eb141e1c1' => [
-        'Jazz music is America\'s past and its potential, summed up and sanctified and accessible to anybody who learns to listen to, feel, and understand it. The music can connect us to our earlier selves and to our better selves-to-come. It can remind us of where we fit on the time line of human achievement, an ultimate value of art.',
-        'Wynton Marsalis',
+    'a9668a5b-65cb-51ba-aaa1-c26da79b6083' => [
+        'Noble deeds that are concealed are most esteemed.',
+        'Blaise Pascal',
     ],
-    'f6d7785f-7c88-5687-af7a-6bb15608892a' => [
-        'As a female, you are often being asked by directors to be warmer, softer, flirt more, smile more etc... None of those things are bad, and obviously we are capable of a variety of human behavior, but it gets really old having to play into somebody\'s stereotype or ideal.',
-        'Trieste Kelly Dunn',
+    '736690e4-d2f8-574a-b45b-202403637a99' => [
+        'It is to be observed that \'angling\' is the name given to fishing by people who can\'t fish.',
+        'Stephen Leacock',
     ],
-    'ed16537f-210a-5722-9dff-48a3ece7881f' => [
-        'The secret of success is constancy to purpose.',
+    'e856a42b-5885-5d6c-ab4f-d68bf6250ade' => [
+        'The best way to keep one\'s word is not to give it.',
+        'Napoleon Bonaparte',
+    ],
+    'd9b3b065-f92e-5771-80ad-73c47a32eb6b' => [
+        'My husband has some very interesting hobbies, and through him, I\'ve learned to fly and earned my pilot\'s license. Together, we fly all over the United States. Since our children are all grown now, we also travel a great deal in Europe, but we take commercial flights because our plane is not really equipped to make transatlantic flights.',
+        'Betsy Byars',
+    ],
+    '8132aae3-df52-5ecd-9b8a-eab365776d30' => [
+        'As a Korean War Veteran, I know too well the troubling nature of war. This is why I will always support a diplomatic answer before military intervention.',
+        'Charles B. Rangel',
+    ],
+    '2717d6a3-d004-529d-9ad2-15f59fddd143' => [
+        'I reckon you have to put a presence in front of your opponent - a bit of confidence and attitude - and then you can change what their next move may be.',
+        'Nick Cummins',
+    ],
+    'be738b12-63b3-59b6-b608-ac23f1ef948d' => [
+        'Beauty is variable, ugliness is constant.',
+        'Douglas Horton',
+    ],
+    'd482bf84-6076-533f-aeb6-fbff5d3e2e08' => [
+        'You don\'t wanna walk around and say, \'I\'m somebody\'s niece, I\'m somebody\'s cousin, I\'m somebody\'s daughter. Who are you?\' And I think that\'s always the challenge when you grow up in a well-known family, is ultimately, you have to face yourself in the mirror and say, \'Who are you? What have you done?\'',
+        'Maria Shriver',
+    ],
+    'b5ac55f4-f5ed-5763-ab11-f2a8fc0f707c' => [
+        'I find the positive in the negative all the time. Any time you give something power, it wins, and it can continuously happen, so I just let negative people know they have no place in my life. They have no place around my children.',
+        'Monica Denise Brown',
+    ],
+    '5a203b1b-ff14-508e-b8b2-cfb70f45d1eb' => [
+        'I think it all comes down to motivation. If you really want to do something, you will work hard for it.',
+        'Edmund Hillary',
+    ],
+    '3ff7c9c7-6ef0-5830-a402-b1afecd9bbf0' => [
+        'In a balanced organization, working towards a common objective, there is success.',
+        'Arthur Helps',
+    ],
+    '57f890e3-a3c1-5fcf-b97b-df7ed1189037' => [
+        'Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.',
+        'Morgan Freeman',
+    ],
+    '08454cd9-4c7d-561c-9b1e-5efbb045f114' => [
+        'You can\'t study comedy; it\'s within you. It\'s a personality. My humor is an attitude.',
+        'Don Rickles',
+    ],
+    '036f68b5-aa30-54c2-8226-3ed89790351e' => [
+        'The measure of success is not whether you have a tough problem to deal with, but whether it is the same problem you had last year.',
+        'John Foster Dulles',
+    ],
+    '977d5c29-e702-5b52-8784-c74b064a95f4' => [
+        'There are so many things I want to do. Like, I want to get an artist, a musician, a photographer, and a bunch of dancers that I know and just travel across Africa and just film it and just see what happens. Do and learn as much as I possibly can. Luckily, I have a lot more time.',
+        'Channing Tatum',
+    ],
+    'be7cd611-ec0b-5191-af63-8eb1c966f352' => [
+        'My first dream was to travel. I was attracted to different places, different colors of skin, different food. When I was 18 in 1977, I went to Europe with my accordion and discovered the pleasure of entertaining people.',
+        'Guy Laliberte',
+    ],
+    '1a01e25d-47bd-5c29-b28c-e7d4e426b6ce' => [
+        'Rare is the union of beauty and purity.',
+        'Juvenal',
+    ],
+    '9de5eed1-09c5-5905-9ec6-f515c7844e54' => [
+        'By the very nature of satire or parody, you have to love and respect your target and respect it enough to understand every aspect of it, so you can more effectively make fun of it.',
+        'T. J. Miller',
+    ],
+    '7b9c8daf-d6e2-500f-8e7a-38b93534b952' => [
+        'I have undertaken vengeance. I want Liberty and Equality to reign in Saint-Domingue. I work to bring them into existence. Unite yourselves to us, brothers, and fight with us for the same cause.',
+        'Toussaint Louverture',
+    ],
+    'eb64be10-fced-5fd8-9c97-70e680a38e9f' => [
+        'Rather than wishing for change, you first must be prepared to change.',
+        'Catherine Pulsifer',
+    ],
+    'ca14817e-b7c8-5a08-bf57-8ea5e420cb77' => [
+        'Life changes when you have a child, when you have your own family. You become more careful about what you do. You\'re not going to be out late, going out to clubs, hanging out with your friends. You\'re going to be at home, taking care of your daughter, playing with her.',
+        'Mohammed bin Rashid Al Maktoum',
+    ],
+    'be712757-74ad-5fea-9ce0-0fa03946bb99' => [
+        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.',
+        'Helen Keller',
+    ],
+    'ab30be60-3d51-51bf-9789-507635e00e06' => [
+        'There is little difference in people, but that little difference makes a big difference. The little difference is attitude. The big difference is whether it is positive or negative.',
+        'W. Clement Stone',
+    ],
+    '9bc67666-e416-5797-9be6-ae2ac9f52bc1' => [
+        'Action may not always bring happiness; but there is no happiness without action.',
         'Benjamin Disraeli',
     ],
-    'f326ee19-26bd-5f8d-8658-6703c4334ddf' => [
-        'Don\'t fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.',
-        'Unknown',
+    'b1d1984f-3ec5-5829-a7d4-0ca9ca53bf03' => [
+        'If biking is your passion, set aside time to enjoy a good ride.',
+        'Patrick Dempsey',
     ],
-    '9eebe933-1e9f-5f9a-a739-ba501fa4219e' => [
-        'I was a huge Beatles fan. We could talk about who I listened to growing up and what my sources were, but certainly the Beatles were a late, important resource for me, and I just took my guitar and a handful of songs, and I decided, well, I\'ll just go over and travel around Europe and see what comes of it.',
-        'James Taylor',
+    'c9b13234-1ce5-5bd6-b9c1-47c9c8e12c21' => [
+        'Our government shouldn\'t tell us where to travel and where not to travel.',
+        'Jeff Flake',
     ],
-    '1e94fa7c-322c-5125-af0b-f5ded5991f13' => [
-        'All men who have achieved great things have been great dreamers.',
-        'Orison Marden',
+    'ab0b3373-2c7c-5b8a-9913-71dfe01450d6' => [
+        'For what the horse does under compulsion, as Simon also observes, is done without understanding; and there is no beauty in it either, any more than if one should whip and spur a dancer.',
+        'Xenophon',
     ],
-    '0ce1be06-2f91-5dfe-8c5d-ab43c1a30984' => [
-        'In the West, you have always associated the Islamic faith 100 percent with Arab culture. This in itself is a fundamentalist attitude and it is mistaken.',
-        'Youssou N\'Dour',
+    'b8d53926-e299-505a-af5e-0bced4e65909' => [
+        'Everything in life is somewhere else, and you get there in a car.',
+        'Madonna Ciccone',
     ],
-    '18384ab7-83fa-538e-9aef-bc247c8f7c38' => [
-        'When I hear somebody sigh, \'Life is hard,\' I am always tempted to ask, \'Compared to what?\'',
-        'Alejandro Gonzalez Inarritu',
+    '2157b2da-3351-54d1-a8f9-a7fa26fdbebc' => [
+        'It is only with the heart that one can see rightly, what is essential is invisible to the eye.',
+        'Antoine de Saint-Exupery',
     ],
-    'e92764ec-4d9b-5627-b5ad-0a1d768b5315' => [
-        'I\'ve thought it would be cool to have a baby young. You know, be my road dog - like my dogs, they travel the world - but there\'s always something you have to give up for success. Everything comes at a cost. Just what are you willing to pay for it?',
-        'Serena Williams',
+    '33df5461-d924-5ba1-82d6-4c1b6b345c47' => [
+        'You know, when you really connect with the instrument and everything just comes out on an emotional level very naturally through your playing. That\'s, you know, a great night. And I think the reason I love touring so much is you\'re chasing that high around all the time, trying to have another good night.',
+        'Slash',
     ],
-    'b5bf527d-e29b-57da-a086-fe4a84729277' => [
-        'One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
-        'Thomas A. Edison',
+    'b616584b-93c2-54b2-b5bf-19b4bc603a10' => [
+        'There\'s one more thing I want to say. It\'s a touchy subject. Black beauty. Black sensuality. We live in a culture where the beauty of black people isn\'t always as celebrated as other types. I\'d like to help change that if I can!',
+        'Jody Watley',
     ],
-    '19fa4b70-e981-5a36-bdbe-e17f3c5299e4' => [
-        'Whatever is funny is subversive, every joke is ultimately a custard pie... a dirty joke is a sort of mental rebellion.',
-        'George Orwell',
+    '6a4522b0-aa76-55e8-baed-0b8ee3ec384e' => [
+        'Our passion is our strength.',
+        'Billie Armstrong',
     ],
-    'dd98bc4f-0c93-5adb-a4e3-58d32d5e2dbd' => [
-        'The greatest way to live with honour in this world is to be what we pretend to be.',
-        'Socrates',
+    'f092fbfc-2477-5109-be65-60b49165b5c6' => [
+        'We all learn lessons in life. Some stick, some don\'t. I have always learned more from rejection and failure than from acceptance and success.',
+        'Henry Rollins',
     ],
-    'c09de0b2-23be-5532-8fb8-13e42f554458' => [
-        'The reports of my death have been greatly exaggerated.',
-        'Mark Twain',
+    'f5e9807a-0f5a-54ce-9fe2-14811f3a6e63' => [
+        'Agriculture changes the landscape more than anything else we do. It alters the composition of species. We don\'t realize it when we sit down to eat, but that is our most profound engagement with the rest of nature.',
+        'Michael Pollan',
     ],
-    'd0397fe5-f776-5723-8508-29751a69b807' => [
-        'I don\'t smile as much as I should, even though I smile inside a lot.',
-        'James Patterson',
+    'dadf1b14-4693-5630-8cb8-8701139ea2db' => [
+        'I guess I\'m just an open-hearted, fair, good person. I try to encourage people to be their best and look inside themselves and find out what they are passionate about and expand on that and enjoy life.',
+        'Miranda Kerr',
     ],
-    '37d618c4-dc0b-564b-b91f-54810487bd63' => [
-        'Three things in human life are important. The first is to be kind. The second is to be kind. And the third is to be kind.',
-        'Carl Jung',
+    'cfccbc2e-4ae5-5d9a-849a-d221b8b387d0' => [
+        'When you are offended at any man\'s fault, turn to yourself and study your own failings. Then you will forget your anger.',
+        'Epictetus',
     ],
-    'c5c299f1-b0f4-512a-b840-1effc9542e36' => [
-        'I am a candid interview and I have a dark and dry sense of humor - a very Canadian sense of humor and I am only learning now stupidly that you can\'t read tongue. When I say something funny in a newspaper and I meant it to be funny, it doesn\'t read that way.',
-        'Michael Buble',
+    '8d640388-bbb7-53bc-a5b2-7c996c574273' => [
+        'You walk into the playgrounds in Shanghai and Beijing, and you see youngsters who are shorter, shaking and baking and having attitude. And Jeremy Lin is going to inspire all of them.',
+        'David Stern',
     ],
-    '3be954bd-67d3-50bb-8533-f148433c55d3' => [
-        'I enjoy going to work and having a good time. It\'s tough when you got to work with people who just are in a bad mood all the damn time.',
-        'Queen Latifah',
+    '2735fea9-93ed-5096-acff-022e899b0b59' => [
+        'You may be deceived if you trust too much, but you will live in torment if you don\'t trust enough.',
+        'Frank Crane',
+    ],
+    '22b9570c-c923-5042-ae5d-518fb6e3cc26' => [
+        'I love grocery shopping when I\'m home. That\'s what makes me feel totally normal. I love both the idea of home as in being with my family and friends, and also the idea of exploration. I think those two are probably my great interests.',
+        'Yo-Yo Ma',
+    ],
+    '969ffd99-35f8-5865-a602-9aef7eabd0aa' => [
+        'Success is the only motivational factor that a boy with character needs.',
+        'Woody Hayes',
+    ],
+    'c459035b-71b5-511e-9ebd-a5053345ffc0' => [
+        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
+        'Charice Pempengco',
+    ],
+    'fac3dc59-cb52-58dd-8f9d-f83c2bb4c642' => [
+        'I was obliged to be industrious. Whoever is equally industrious will succeed equally well.',
+        'Johann Sebastian Bach',
     ],
 ];
