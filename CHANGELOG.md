@@ -2,7 +2,7 @@
 
 ## dev-master
 
-* No releases yet.
+* Set the default wordwrap to the terminal window with minus one.
 
 ## 1.0.0 - 2018-xx-xx
 
