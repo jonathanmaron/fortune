@@ -8,19 +8,20 @@ use Symfony\Component\Console\Command\LockableTrait;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\Console\Terminal;
 
 class FortuneCommand extends AbstractCommand
 {
-    private const WORDWRAP_DEFAULT = 80;
+    private const WORDWRAP_MIN = 0;
 
-    private const WORDWRAP_MIN     = 0;
-
-    private const WORDWRAP_MAX     = 160;
+    private const WORDWRAP_MAX = 160;
 
     use LockableTrait;
 
     protected function configure()
     {
+        $terminal = new Terminal();
+
         $this->setName('fortune');
 
         $this->setDescription('Unix-style fortune program that displays a random quotation.');
@@ -29,7 +30,7 @@ class FortuneCommand extends AbstractCommand
         $shortcut    = 'w';
         $mode        = InputOption::VALUE_REQUIRED;
         $description = 'Wordwrap at n th character. Disable with 0.';
-        $default     = self::WORDWRAP_DEFAULT;
+        $default     = $terminal->getWidth() - 1;
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 

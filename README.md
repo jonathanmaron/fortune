@@ -20,7 +20,7 @@ Use [Composer](https://getcomposer.org/doc/00-intro.md#globally) to install the 
     will point out the means."
         -- Henry Hazlitt
         
-By default, `fortune` wraps lines at the 80 th character. You can change this by specifying the `--wordwrap` option:
+By default, `fortune` wraps lines at terminal window width. You can change this by specifying the `--wordwrap` option:
 
     $ ~/apps/fortune/bin/fortune -wordwrap=25
     
