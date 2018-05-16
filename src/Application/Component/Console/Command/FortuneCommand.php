@@ -12,6 +12,8 @@ use Symfony\Component\Console\Terminal;
 
 class FortuneCommand extends AbstractCommand
 {
+    private $wordwrap;
+
     private const TERMINAL_WIDTH    = 80;
 
     private const WORDWRAP_DISABLED = 0;
@@ -54,6 +56,12 @@ class FortuneCommand extends AbstractCommand
 
         if ($wordwrap > self::WORDWRAP_DISABLED) {
 
+            $wordwrapDefault = $this->getWordwrapDefault();
+
+            if ($wordwrap > $wordwrapDefault) {
+                $wordwrap = $wordwrapDefault;
+            }
+
             if ($wordwrap < self::WORDWRAP_MIN) {
                 $format  = '--wordwrap must be greater than or equal to %s.';
                 $message = sprintf($format, self::WORDWRAP_MIN);
@@ -67,12 +75,14 @@ class FortuneCommand extends AbstractCommand
             }
         }
 
+        $this->setWordwrap($wordwrap);
+
         return $this;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $wordwrap = $input->getOption('wordwrap');
+        $wordwrap = $this->getWordwrap();
 
         $fortune = $this->getFortune()->getRandomFortune();
 
@@ -107,5 +117,17 @@ class FortuneCommand extends AbstractCommand
         }
 
         return $width;
+    }
+
+    private function getWordwrap()
+    {
+        return $this->wordwrap;
+    }
+
+    private function setWordwrap($wordwrap)
+    {
+        $this->wordwrap = (int) $wordwrap;
+
+        return $this;
     }
 }
