@@ -9,19 +9,28 @@ class Filesystem extends ParentFilesystem
 {
     public function dumpFiles($path, $pattern, $chunks)
     {
-        $phpEncoder = new PhpEncoder();
-
         $counter = 1;
 
         foreach ($chunks as $key => $chunk) {
 
             $file     = sprintf($pattern, $counter);
             $filename = sprintf("%s/%s", $path, $file);
-            $data     = sprintf("<?php\n\nreturn %s;\n", $phpEncoder->encode($chunk));
 
-            $this->dumpFile($filename, $data);
+            $this->dumpFile($filename, $chunk);
 
             $counter++;
         }
+    }
+
+    public function dumpFile($filename, $data)
+    {
+        return parent::dumpFile($filename, $this->serialize($data));
+    }
+
+    private function serialize($data)
+    {
+        $phpEncoder = new PhpEncoder();
+
+        return sprintf("<?php\n\nreturn %s;\n", $phpEncoder->encode($data));
     }
 }

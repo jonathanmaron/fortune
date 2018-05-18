@@ -9,8 +9,11 @@ class CommandFactory
 {
     public function __invoke(ContainerInterface $container = null, $requestedName = null, array $options = null)
     {
+        $path = sprintf('%s/data', APPLICATION_ROOT);
+
         $fortune = new Fortune();
-        $fortune->setPath(APPLICATION_ROOT . '/data');
+        $fortune->setFortunePath("{$path}/fortune");
+        $fortune->setIndexPath("{$path}/index");
 
         $command = new $requestedName;
         $command->setFortune($fortune);

@@ -8,7 +8,6 @@ use Application\Exception\InvalidArgumentException;
 use Application\Exception\RuntimeException;
 use NumberFormatter;
 use Ramsey\Uuid\Uuid;
-use Symfony\Component\Console\Command\LockableTrait;
 use Symfony\Component\Console\Helper\ProgressBar;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
@@ -17,8 +16,6 @@ use Symfony\Component\Console\Output\OutputInterface;
 class FortuneImportCommand extends AbstractCommand
 {
     const FORTUNES_PER_FILE = 50;
-
-    use LockableTrait;
 
     protected function configure()
     {
@@ -41,11 +38,6 @@ class FortuneImportCommand extends AbstractCommand
     {
         $inputPath = $input->getOption('input-path');
 
-        if (!$this->lock()) {
-            $message = 'The script is already running in another process.';
-            throw new RuntimeException($message);
-        }
-
         if (!is_dir($inputPath)) {
             $message = '--input-path contains an invalid path';
             throw new InvalidArgumentException($message);
@@ -58,14 +50,16 @@ class FortuneImportCommand extends AbstractCommand
     {
         $filesystem      = new Filesystem();
         $numberFormatter = new NumberFormatter(null, NumberFormatter::DECIMAL);
+        $fortune         = $this->getFortune();
 
-        $inputPath  = $input->getOption('input-path');
-        $inputPath  = realpath($inputPath);
-        $outputPath = $this->getFortune()->getPath();
+        $inputPath = $input->getOption('input-path');
+        $inputPath = realpath($inputPath);
+
+        $outputPath = $fortune->getFortunePath();
         $outputPath = realpath($outputPath);
 
         $newFortunes = $this->getNewFortunes($inputPath);
-        $curFortunes = $this->getFortune()->getFortunes();
+        $curFortunes = $fortune->getAllFortunes();
 
         $newFortunesCount = count($newFortunes);
         $addFortunesCount = 0;
@@ -134,7 +128,6 @@ class FortuneImportCommand extends AbstractCommand
                 $ret[$uuid] = [
                     $quote,
                     $author,
-                    //strlen($quote),
                 ];
             }
         }
