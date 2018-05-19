@@ -33,8 +33,6 @@ class FortuneStatisticsCommand extends AbstractCommand
 
     protected function initialize(InputInterface $input, OutputInterface $output)
     {
-        parent::initialize($input, $output);
-
         $limit = $input->getOption('limit');
         $limit = trim($limit);
 
