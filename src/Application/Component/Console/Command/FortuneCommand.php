@@ -124,36 +124,25 @@ class FortuneCommand extends AbstractCommand
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $fortune  = $this->getFortune();
-        $length   = $this->getLength();
-        $author   = $this->getAuthor();
-        $wordwrap = $this->getWordwrap();
+        $fortune = $this->getFortune();
+        $length  = $this->getLength();
+        $author  = $this->getAuthor();
 
         if (!empty($length)) {
             $fortuneArray = $fortune->getRandomFortuneByLength($length);
-            if (null === $fortuneArray) {
-                $message = '--length is invalid';
-                throw new InvalidArgumentException($message);
-            }
-
-            return $this->output($output, $fortuneArray, $wordwrap);
-        }
-
-        if (!empty($author)) {
+        } elseif (!empty($author)) {
             $fortuneArray = $fortune->getRandomFortuneByAuthor($author);
-            if (null === $fortuneArray) {
-                $message = '--author is invalid';
-                throw new InvalidArgumentException($message);
-            }
-
-            return $this->output($output, $fortuneArray, $wordwrap);
+        } else {
+            $fortuneArray = $fortune->getRandomFortune();
         }
 
-        return $this->output($output, $fortune->getRandomFortune(), $wordwrap);
+        return $this->output($output, $fortuneArray);
     }
 
-    private function output(OutputInterface $output, $fortuneArray, $wordwrap)
+    private function output(OutputInterface $output, $fortuneArray)
     {
+        $wordwrap = $this->getWordwrap();
+
         $quote  = $fortuneArray[0];
         $author = sprintf('    — %s', $fortuneArray[1]);
 

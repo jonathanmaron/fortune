@@ -58,7 +58,9 @@ class FortuneIndexCommand extends AbstractCommand
         foreach ($indices as $key => $index) {
             $outputFilename = $fortune->getIndexFilename($key);
             $filesystem->dumpFile($outputFilename, $index);
-            $output->writeln(sprintf('Written %s index to "%s"', $key, $outputFilename));
+            $format  = 'Written %s index to "%s"';
+            $message = sprintf($format, $key, $outputFilename);
+            $output->writeln($message);
         }
 
         return $this;

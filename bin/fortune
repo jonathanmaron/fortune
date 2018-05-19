@@ -1,5 +1,10 @@
-#!/usr/bin/env bash
+#!/usr/bin/env php
+<?php
 
-DIR="$(dirname "$(readlink -f "$0")")"
+require __DIR__ . '/../vendor/autoload.php';
 
-/usr/bin/env php ${DIR}/console.php fortune $1 $2 $3 $4
+use Application\Component\Console\Application;
+
+$application = new Application();
+$application->setDefaultCommand('fortune', true);
+$application->run();

@@ -11,6 +11,19 @@ use Symfony\Component\Console\Application as ParentApplication;
 
 class Application extends ParentApplication
 {
+    public function __construct(string $name = 'UNKNOWN', string $version = 'UNKNOWN')
+    {
+        error_reporting(E_ALL);
+
+        set_time_limit(0);
+
+        putenv('SHELL_INTERACTIVE=true');
+
+        define('APPLICATION_ROOT', realpath(__DIR__ . '/../../../../'));
+
+        parent::__construct($name, $version);
+    }
+
     protected function getDefaultCommands()
     {
         $ret = parent::getDefaultCommands();
