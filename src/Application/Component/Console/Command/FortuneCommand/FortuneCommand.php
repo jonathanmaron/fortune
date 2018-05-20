@@ -26,7 +26,7 @@ class FortuneCommand extends AbstractCommand
         $name        = 'length';
         $shortcut    = 'i';
         $mode        = InputOption::VALUE_OPTIONAL;
-        $description = 'Show quotations of length "i" only';
+        $description = 'Show quotations of length "length" only';
 
         $this->addOption($name, $shortcut, $mode, $description);
 
