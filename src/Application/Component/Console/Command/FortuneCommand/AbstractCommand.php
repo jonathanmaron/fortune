@@ -7,6 +7,12 @@ use Symfony\Component\Console\Terminal;
 
 abstract class AbstractCommand extends ParentCommand
 {
+    protected const TERMINAL_WIDTH    = 80;
+
+    protected const WORDWRAP_DISABLED = 0;
+
+    protected const WORDWRAP_MIN      = 5;
+
     protected $wordwrap;
 
     protected $length;
@@ -16,12 +22,6 @@ abstract class AbstractCommand extends ParentCommand
     protected $short;
 
     protected $long;
-
-    protected const TERMINAL_WIDTH    = 80;
-
-    protected const WORDWRAP_DISABLED = 0;
-
-    protected const WORDWRAP_MIN      = 5;
 
     protected function getWordwrapDefault()
     {
