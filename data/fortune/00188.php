@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '3a6970b9-acef-5a30-a820-d4455c3a6dfe' => [
-        'It\'s funny: I always, as a high school teacher and particularly as a high school yearbook teacher, because yearbook staffs are 90 percent female, I got to sit in and overhear teenage girl talk for many years. I like teenage girls; I like their drama, their foibles. And I think, \'I\'ll be good with a teenage daughter!\'',
-        'Rob Thomas',
+    '8fb876d5-3216-5bbf-bd57-33f8fcbc6186' => [
+        'You have to tell guys to ask you on a date. Smile when you do it - however that works, I\'m not \'Cosmo.\' But yeah - not a lot of people know how to \'court\' anymore, sorry.',
+        'Julie Klausner',
     ],
-    '9a13e873-4b47-5da7-b7ea-25e87618474d' => [
-        'You grow up a bit damaged or broken then you have some success but you don\'t know how to feel good about the work you\'re doing or the life you\'re leading.',
-        'Johnny Depp',
+    '211fe6b9-b402-5695-bad0-e790d88a8988' => [
+        'Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can\'t ride you unless your back is bent.',
+        'Martin Luther King, Jr.',
     ],
-    '9aa8cca4-0eb1-54b9-9003-e4fbb75afe29' => [
-        'Part of the secret of a success in life is to eat what you like and let the food fight it out inside.',
-        'Mark Twain',
+    'ccb138d7-09de-580b-8e9b-4762dd30833c' => [
+        'I never wake up today with yesterday\'s problems.',
+        'Anthony Saleh',
     ],
-    'f6f9cd05-d5d6-52fa-835a-a83161a5e654' => [
-        'As an artist, the more experience, the better the creation. I\'m a very positive person.',
-        'Psy',
+    '46539169-93ac-55d9-97ab-7c01534755c3' => [
+        'People don\'t understand that when I grew up, I was never the most talented. I was never the biggest. I was never the fastest. I certainly was never the strongest. The only thing I had was my work ethic, and that\'s been what has gotten me this far.',
+        'Tiger Woods',
     ],
-    'a51e3364-62bd-5a61-92b1-b5fdffd97656' => [
-        'Would Jove appoint some flower to reign, in matchless beauty on the plain, the Rose (mankind will all agree). The Rose the queen of flowers should be.',
-        'Sappho',
+    'fc1cc60e-fccc-59e2-867c-61187dd084c3' => [
+        'It is boorish to live ungraciously: the giving is the hardest part; what does it cost to add a smile?',
+        'Jean de la Bruyere',
     ],
-    'bf0f2f0c-5548-5c66-afa4-f9d08602e671' => [
-        'There\'s nothing I dislike more than being in a photo shoot where they say, \'Be yourself.\' That\'s not why I became an actress. That\'s what I find so funny: that you become an actor, and all of a sudden, everyone wants to know about you. But I didn\'t become an actor so I could show you me.',
-        'Margot Robbie',
+    '055cf091-2bdd-52b1-8935-5528576709e1' => [
+        'Some people would claim that things like love, joy and beauty belong to a different category from science and can\'t be described in scientific terms, but I think they can now be explained by the theory of evolution.',
+        'Stephen Hawking',
     ],
-    'c8b2518a-f727-5fe1-83e6-f0df5b9fb764' => [
-        'Caring - about people, about things, about life - is an act of maturity.',
-        'Adlai E. Stevenson',
+    '3019fbd7-3485-54b2-a940-7779e36f8fa5' => [
+        'Anyone with a heart, with a family, has experienced loss. No one escapes unscathed. Every story of separation is different, but I think we all understand that basic, wrenching emotion that comes from saying goodbye, not knowing if we\'ll see that person again - or perhaps knowing that we won\'t.',
+        'Luanne Rice',
     ],
-    'c4b48784-d6f0-5562-8f91-6f8410800326' => [
-        'Life began with waking up and loving my mother\'s face.',
-        'David Duchovny',
+    '52618e8f-12f0-56b5-a437-7fd8ba75341d' => [
+        'All the adversity I\'ve had in my life, all my troubles and obstacles, have strengthened me... You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.',
+        'Walt Disney',
     ],
-    '9cd7b2d7-f060-52e4-ab3b-dfb10bab3421' => [
-        'You can\'t start a movie by having the attitude that the script is finished, because if you think the script is finished, your movie is finished before the first day of shooting.',
-        'Steven Spielberg',
+    '8ac06f2e-bb63-5415-bb96-92119c9f30bb' => [
+        'To get nostalgic about other people\'s music, or even about your own, makes a terrible statement about the condition of your life and your prospects for the future. I have no patience with that kind of attitude, whether it\'s on radio or among friends.',
+        'Neil Peart',
     ],
-    '59f1af93-d311-5237-9a4a-938a05dab3b3' => [
-        'It was all so far away - there was quiet and an untouched feel to the country and I could work as I pleased.',
-        'Georgia O\'Keeffe',
+    'b08e7cfe-c73c-50d8-b0fb-4281e5bf23f9' => [
+        'The greatest development is achieved during the first years of life, and therefore it is then that the greatest care should be taken. If this is done, then the child does not become a burden; he will reveal himself as the greatest marvel of nature.',
+        'Maria Montessori',
     ],
-    'a041e5db-2908-5ff6-888f-edba81e40e21' => [
-        'Epilepsy is a disease in the shadows. Patients are often reluctant to admit their condition - even to close family, friends or co-workers - because there\'s still a great deal of stigma and mystery surrounding the disease that plagued such historical figures as Julius Caesar, Edgar Allan Poe and Lewis Carroll.',
-        'Lynda Resnick',
+    'da739d7f-1c22-55f2-92a9-86590e481ccb' => [
+        'Man does not control his own fate. The women in his life do that for him.',
+        'Joseph Campbell',
     ],
-    '0eb914f5-b013-5aa3-a4f3-d10aad4268cb' => [
-        'I was raised by a single mother who made a way for me. She used to scrub floors as a domestic worker, put a cleaning rag in her pocketbook and ride the subways in Brooklyn so I would have food on the table. But she taught me as I walked her to the subway that life is about not where you start, but where you\'re going. That\'s family values.',
-        'Al Sharpton',
+    '0ef0c37b-5ce1-58a4-8247-84a94ae29410' => [
+        'Nothing can resist the person who smiles at life - I don\'t mean the ironic and disillusioned smile of my grandfather, but the triumphant smile of the person who knows that he will survive, or that at least he will be saved by what seems to be destroying him.',
+        'Pierre Teilhard de Chardin',
     ],
-    '2e1e6dd8-f169-5fa9-af28-b018ff3d8dad' => [
-        'Real success is finding you lifework in the work that you love.',
-        'David McCullough',
+    '1aeffd24-3781-5c88-9fdb-6c30a33c09bf' => [
+        'A hero is no braver than an ordinary man, but he is braver five minutes longer.',
+        'Ralph Waldo Emerson',
     ],
-    '917e606c-2d5e-5080-a575-347f5186ef1f' => [
-        'The boundary between what can be and your life, is your ideas',
-        'Pat Waldron',
+    '4fff1b94-d02c-5ee7-b4b7-7a05a349c6a6' => [
+        'Your life does not get better by chance, it gets better by change.',
+        'Anonymous',
     ],
-    '00591167-8756-5da4-ada4-4e2935c3287e' => [
-        'Do your own thing on your own terms and get what you came here for.',
-        'Oliver James',
+    '973bf09c-2d72-53f3-b7bc-40fbdb160b67' => [
+        'The NFL is such a large, multibillion dollar enterprise with fan loyalty because they have provided not only entertainment for sports fans, but memories, good memories, family memories to these fans, that can only bring about good will.',
+        'Wendell Pierce',
     ],
-    '3b102f63-8fab-5c6e-a89c-5e299ca9a090' => [
-        'Most of my show is true; like, 90% of everything I say on stage is true. I just have to find the way to make it funny - that\'s the difficult thing.',
-        'Trevor Noah',
+    'a470210b-b76a-56a3-a382-ad524715395d' => [
+        'Ever since I began to compose, I have remained true to my starting principle: not to write a page because no matter what public, or what pretty girl wanted it to be thus or thus; but to write solely as I myself thought best, and as it gave me pleasure.',
+        'Felix Mendelssohn',
     ],
-    '02344edf-efc6-5a7c-81fc-e4aa5a951cd7' => [
-        'For me, it was important Wonder Woman wouldn\'t be a Goody Two-Shoes. She has a little bit of attitude, and when she fights, she has a smirk on her face. I didn\'t want her to be polished. I want people to relate to her.',
-        'Gal Gadot',
+    '2169e4ef-9a79-5c75-927f-d1e8b601c5a9' => [
+        'Derive happiness in oneself from a good day\'s work, from illuminating the fog that surrounds us.',
+        'Henri Matisse',
     ],
-    '4e34cd88-9bec-5e9b-8685-61fd65d49bd9' => [
-        'What manner of thing this \'public opinion\' is, should be best known to those who have its name forever in their mouths and erect the regard for it into a positive article of religion. Its self-styled organ in our times is the \'Press.\'',
-        'Richard Wagner',
+    '81133bbc-62f8-557f-a805-84ddf2542954' => [
+        'The 1st period is won by the best technician. The 2nd period is won by the kid in the best shape. The 3rd period is won by the kid with the biggest heart.',
+        'Dan Gable',
     ],
-    '0862e9b4-483f-52e5-b919-4fe0d19b30e0' => [
-        'I\'m a huge sun baby. As soon as the sun comes out, my smile gets bigger, so I\'m constantly smiling in L.A. It\'s a fantastic place to be.',
-        'Ricky Whittle',
+    'd0f58b20-e0d5-5a42-97b6-9e9c00e15afc' => [
+        'Some people hate lime-green; red has all this emotional baggage. Blue seems to be overall one of the more positive colors, and a little more serious than yellow.',
+        'David Carson',
     ],
-    '916b310c-a8af-5077-953f-ac6f32967a2c' => [
-        'External nature is only internal nature writ large.',
-        'Swami Vivekananda',
+    '3d9631e6-6ba6-5aaa-a510-2a012e56eb88' => [
+        'The best prophet of the future is the past.',
+        'Lord Byron',
     ],
-    '406cbd08-577b-56e3-a8d0-104b2b9dc302' => [
-        'The idea is that there is a kind of memory in nature. Each kind of thing has a collective memory. So, take a squirrel living in New York now. That squirrel is being influenced by all past squirrels.',
-        'Rupert Sheldrake',
+    '981c06cd-db3e-5b4c-bc9b-6fa7822d867f' => [
+        'The stereoscopic panoramic videos that we\'re showing on Samsung VR are getting a lot of positive traction. It\'s exciting when you see creative types - whether from the music, film, or video industries - look at this stuff. The gears are turning in their head almost immediately about how they can use it as a new medium.',
+        'John Carmack',
     ],
-    '8d4c87cd-f591-5e44-b50e-392674c41c4a' => [
-        'Drugs are a waste of time. They destroy your memory and your self-respect and everything that goes along with with your self-esteem. They\'re no good at all.',
-        'Kurt Cobain',
+    '32f94ab9-cd49-5a08-8d87-cf830f36b92b' => [
+        'I look at graphic design as communication, meaning that the work has to have a vibe to connect to the viewer or perceiver. I make a black and white drawing and then add color digitally, bringing in a contemporary pattern to the composition to create a vibrance.',
+        'John Van Hamersveld',
     ],
-    '70f9a007-8e62-5c02-805a-6c4bc198a5e5' => [
-        'The only way to get love is to be lovable. It\'s very irritating if you have a lot of money. You\'d like to think you could write a check: \'I\'ll buy a million dollars\' worth of love.\' But it doesn\'t work that way. The more you give love away, the more you get.',
-        'Warren Buffett',
+    '7ad4d8b1-1e13-5df4-b814-edc988bcb069' => [
+        'Next to acquiring good friends, the best acquisition is that of good books.',
+        'Charles Caleb Colton',
     ],
-    '35fb64f6-ed7d-5fd5-9190-780120cc250a' => [
-        'I have such an extreme attitude about work, where I can just completely be derelict of my responsibilities and then when I am not derelict, I am completely indulged in it. I swing pretty wildly from the two extremes.',
-        'Geddy Lee',
+    '8d640388-bbb7-53bc-a5b2-7c996c574273' => [
+        'You walk into the playgrounds in Shanghai and Beijing, and you see youngsters who are shorter, shaking and baking and having attitude. And Jeremy Lin is going to inspire all of them.',
+        'David Stern',
     ],
-    'f7d65327-b3a4-54a9-880f-ffde13467b8c' => [
-        'Simply as an exercise in efficient politics, Obama \'08 rewrote the textbook. His accomplishment was historic and one that transformed how race and politics intersect in our society. Obama is the leading edge of this change, but his success is merely the ripple in a pond that grows deeper every day.',
-        'Gwen Ifill',
+    '88cd565a-c88d-510d-b723-ad34f7bafd24' => [
+        'We\'ve gotta reinvest in space travel. We should\'ve never left the moon.',
+        'Ray Bradbury',
     ],
-    '451e7e14-16db-5f20-adde-7d3c2ef6b609' => [
-        'Why is Cloud 9 so amazing? What is wrong with Cloud 8? That joke came off the top of my head, and the top of my head ain\'t funny!',
-        'Mitch Hedberg',
+    '0a2017b5-a1e8-53d3-8181-091bba57bf67' => [
+        'When you assume negative intent, you\'re angry. If you take away that anger and assume positive intent, you will be amazed. Your emotional quotient goes up because you are no longer almost random in your response.',
+        'Indra Nooyi',
     ],
-    'db3e719a-c26d-5bba-b55f-c48aa85f07de' => [
-        'Familiarity is a magician that is cruel to beauty but kind to ugliness.',
-        'Ouida',
-    ],
-    '7dbe7c5e-aa0f-5d76-85cc-bcac6057105d' => [
-        'The children have been a wonderful gift to me, and I\'m thankful to have once again seen our world through their eyes. They restore my faith in the family\'s future.',
-        'Jackie Kennedy',
-    ],
-    'e9e9d385-7791-508a-899d-e44fe378eb5c' => [
-        'I do keep getting these bad girl roles. The funny thing is that, honestly, I don\'t think I\'m believable as these aristocratic mean girls. But I do love playing them.',
-        'Katie McGrath',
-    ],
-    '4f7c2f67-8182-5348-8f2b-9e05b6db96e6' => [
-        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
-        'Peter Diamandis',
-    ],
-    'f4f026e1-49fe-5d27-a141-dabf9d9bb571' => [
-        'A tree is an incomprehensible mystery.',
-        'Jim Woodring',
-    ],
-    '88ac7266-0a76-5d92-9520-0b92ff85bcf3' => [
-        'There\'s only two people in your life you should lie to... the police and your girlfriend.',
-        'A. R. Rahman',
-    ],
-    '3885b990-e493-5b94-b255-a064a1730413' => [
-        'Leap, and the net will appear.',
-        'John Burroughs',
-    ],
-    '0c23b04e-8f9f-53c4-a63e-a27a97fecbab' => [
-        'I took the decision that everything I would post would be positive. If you say, \'Ahh, I feel terrible today,\' and you spread that to the eyes and ears of millions of people, that\'s not good.',
-        'Jerome Jarre',
-    ],
-    'fe6e324b-d0ab-591f-b85c-0ea5bc93dbb5' => [
-        'It is the hour to be drunken! to escape being the martyred slaves of time, be ceaselessly drunk. On wine, on poetry, or on virtue, as you wish.',
-        'Charles Baudelaire',
-    ],
-    '31276439-76cc-55ba-8737-ed55790e5b12' => [
-        'A James Cagney love scene is one where he lets the other guy live.',
-        'Bob Hope',
-    ],
-    '1dc84b19-be19-59b4-96a8-9c012a81658e' => [
-        'I love every minute of fatherhood, staying up all night, changing nappies, kids crying, I find it really funny and inspiring. It connects you to the world in a new way.',
-        'Elton John',
-    ],
-    '8a1055c3-c726-5d5e-bddb-52dffc89db35' => [
-        'Why, I\'d like nothing better than to achieve some bold adventure, worthy of our trip.',
-        'Aristophanes',
-    ],
-    '8b9ccbce-d1fb-5b65-bc61-4098c1f80545' => [
-        'I\'m for whatever gets you through the night.',
-        'Frank Sinatra',
-    ],
-    '6760c7e2-f90a-586c-87dc-52a3a061cc6e' => [
-        'Spending time outdoors makes you feel great.',
-        'Elizabeth Hurley',
-    ],
-    '605e2661-4a13-5b5c-9b40-d94b72f7986f' => [
-        'I don\'t want to be perfect, but I do want to be a role model. My mom always tells me that imperfections equal beauty. All of us are imperfect.',
-        'Miley Cyrus',
+    'a6cefda3-a08e-5847-89f0-52a75ba92728' => [
+        'You can\'t build a reputation on what you are going to do.',
+        'Henry Ford',
     ],
     'ad01956d-b09b-5a2f-ba39-b9293de383e2' => [
         'All serious daring starts from within.',
         'Harriet Beecher Stowe',
     ],
-    '6f9186dd-30a2-5f7d-b1ce-10093ab8182c' => [
-        'You don\'t have to be great to start, but you have to start to be great.',
-        'Zig Ziglar',
+    'ede73c6d-7b27-51d9-8480-1759b93b4f39' => [
+        'Loneliness is my least favorite thing about life. The thing that I\'m most worried about is just being alone without anybody to care for or someone who will care for me.',
+        'Stevie Wonder',
     ],
-    'efaea8e2-16c5-584c-8f7b-49229cb98e5a' => [
-        'Ambition is the path to success. Persistence is the vehicle you arrive in.',
-        'Bill Bradley',
+    'd2c32a76-fda2-5ce3-9b5c-2702bca65814' => [
+        'The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.',
+        'Charles R. Swindoll',
     ],
-    '6d089735-8637-580f-b8c4-87b51678a585' => [
-        'The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.',
-        'Winston Churchill',
+    '01c5d5e2-e5ae-5023-a6da-af9811678b69' => [
+        'Liberty, taking the word in its concrete sense, consists in the ability to choose.',
+        'Simone Weil',
     ],
-    'ad18fe3a-b9a7-51a0-8ba6-e3a5806d0d96' => [
-        'Everyone\'s dream can come true if you just stick to it and work hard.',
-        'Serena Williams',
+    '9ea4f683-b745-55c1-8d0f-dd7b778f1d5d' => [
+        'It is not enough to have a good mind; the main thing is to use it well.',
+        'Rene Descartes',
     ],
-    '78272c48-5082-5c3a-8714-743993cbeae2' => [
-        'The best thing I did was to choose the right heroes.',
-        'Warren Buffett',
-    ],
-    '98c67792-5258-58da-b637-97f09dda12bf' => [
-        'If I went to them all dressed up and flashed a nice smile for the cameras it would probably be easier for me to get work. But I just can\'t tolerate it.',
-        'Charlie Hunnam',
-    ],
-    'e48d7014-8c89-57ec-a4c9-e16bf803bad6' => [
-        'Nearly all inventions are not recognised for their positive side either when they\'re made. So, for example, scientists didn\'t go out to design a CD machine: they designed a laser. But we got all sorts of things from a laser which we never remotely imagined, and we\'re still finding things for a laser to do.',
-        'Robert Winston',
-    ],
-    '876b8f00-0f44-5905-8acf-01cbeb0b9c53' => [
-        'If you have only one smile in you give it to the people you love.',
+    '7388248a-5c20-5459-abf4-c35fa6621d5e' => [
+        'Success is liking yourself, liking what you do, and liking how you do it.',
         'Maya Angelou',
+    ],
+    '84570f0c-ac55-5e4b-880a-2e0d40185b33' => [
+        'People change with time. There are things that happened to a person in his childhood and years later they seem to him alien and strange. I am trying to decipher that child. Sometimes he is a stranger to me. When you think about when you were 14, don\'t you feel a certain alienation?',
+        'Gunter Grass',
+    ],
+    '6ab57e64-0761-5fad-ab24-3a8f1aef3040' => [
+        'Kind words will unlock an iron door.',
+        'Turkish proverb',
+    ],
+    'ed614424-8715-5ce3-83a9-d76824d2289f' => [
+        'As a life coach, I love makeovers, from new clothes to surgery, pedicures to highlights. But redoing makes you feel better only if approached with the right attitude.',
+        'Martha Beck',
+    ],
+    'cbe40b8b-30a8-5fc8-871b-49e419dafe70' => [
+        'Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.',
+        'Dale Carnegie',
+    ],
+    '5859b85c-d51f-526a-aa1b-485de1a8836a' => [
+        'Miracles are not contrary to nature, but only contrary to what we know about nature.',
+        'Saint Augustine',
+    ],
+    '713aa568-72c6-5714-a4e8-3ed746dfac8c' => [
+        'There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.',
+        'Linda Hogan',
+    ],
+    '9b99a31d-58b6-5105-9452-9509daa96203' => [
+        'Money won\'t buy happiness, but it will pay the salaries of a large research staff to study the problem.',
+        'Bill Vaughan',
+    ],
+    '10fb0190-a5a3-53d4-abf4-2753aeb98e13' => [
+        'I believe in luck: how else can you explain the success of those you dislike?',
+        'Jean Cocteau',
+    ],
+    'ca4e084d-ae96-51fc-976a-51fd2680db70' => [
+        'It\'s not comfortable for me to write about my family. I\'m not comfortable writing about me.',
+        'Karl Rove',
+    ],
+    '59fb5c58-5c3d-5449-aaaf-9682ad1339f7' => [
+        'Success isn\'t everything but it makes a man stand straight.',
+        'Lillian Hellman',
+    ],
+    '93e225a0-35b3-53bf-8b80-7c4deb8b1aef' => [
+        'Coming together should be considered something positive for people and communities. When thoughts come together, that can be more positive than an individual thought.',
+        'Amitabh Bachchan',
+    ],
+    '6b09218c-adce-5288-af96-6bc84888474d' => [
+        'Always wear a smile sometime during the day - it makes you feel happier and look younger.',
+        'Kylie Bax',
+    ],
+    'f19ea4d0-fde1-53cc-a418-d9c97dffe6dd' => [
+        'The significance of the cherry blossom tree in Japanese culture goes back hundreds of years. In their country, the cherry blossom represents the fragility and the beauty of life. It\'s a reminder that life is almost overwhelmingly beautiful but that it is also tragically short.',
+        'Homaro Cantu',
+    ],
+    '62ee4f71-4698-5f43-a780-75929804c92a' => [
+        'The future is something which everyone reaches at the rate of 60 minutes an hour, whatever he does, whoever he is.',
+        'C. S. Lewis',
+    ],
+    '60a59a3a-6cbd-5992-88ac-94e2d25f33d4' => [
+        'There\'s a picture of Christopher and the real Ken Titus and myself in my dressing room. He\'s a great guy, by the way. I just think the real Ken is just super. And he\'s so happy for his son\'s success.',
+        'Stacy Keach',
+    ],
+    'b8a7218e-dcb2-5bc2-a644-540b9c80959b' => [
+        'Success and failure are both part of life. Both are not permanent.',
+        'Shah Rukh Khan',
+    ],
+    '0ec5d4ae-ad10-5dbb-a046-30bc1de542f6' => [
+        'A woman should be home with the children, building that home and making sure there\'s a secure family atmosphere.',
+        'Mel Gibson',
     ],
 ];

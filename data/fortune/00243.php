@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '193a2704-7402-5972-846f-0301aa12c893' => [
-        'Life is a lively process of becoming.',
-        'Taylor Spreitler',
+    '91e2835c-ef00-589c-bcfb-05f1ff20081a' => [
+        'The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you\'re being self-indulgent.',
+        'Paul Graham',
     ],
-    'be65e4b6-c97b-5336-b4fa-2c2b88ec3a9f' => [
-        'Today is the only day. Yesterday is gone.',
-        'John Wooden',
+    'f4bada2d-8f35-5c6a-b3a8-3e3471b68823' => [
+        'Keep in mind that neither success nor failure is ever final.',
+        'Roger Babson',
     ],
-    '8b90f75c-cc2a-5bcd-8c2d-e085e79b0947' => [
-        'You were made perfectly to be loved - and surely I have loved you, in the idea of you, my whole life long.',
-        'Alia Bhatt',
+    '5b36d246-77c7-5bc5-a49d-97277766c681' => [
+        'The trees that are slow to grow bear the best fruit.',
+        'Moliere',
     ],
-    '567b8e79-4e52-57ef-b8f8-927913fba84a' => [
-        'We achieved our mission to the moon. Let\'s look home from that lofty perch and reimagine our mission on Earth - that is what we need to do here. Together, we can upcycle everything. The world will be better for our positive visions and actions.',
-        'William McDonough',
+    '0142ded5-0369-5b1e-a186-be3d2a2d7c54' => [
+        'What has happened to the good old-fashioned travel agent? I want to go to a really posh travel agent and have them organise everything for me. I don\'t want to do things on the Internet.',
+        'Jenny Eclair',
     ],
-    '3b695791-e8ad-5147-8d78-ae188864ffda' => [
-        'I was successful materially, but I know life is much more than worldly success. I saw all these blessings God had given me. The way to give thanks is obedience to God.',
-        'Hakeem Olajuwon',
+    '83f9b1de-eeed-5e2b-ab8c-65e93f18fcbc' => [
+        'It is not funny that anything else should fall down; only that a man should fall down. Why do we laugh? Because it is a gravely religious matter: it is the Fall of Man. Only man can be absurd: for only man can be dignified.',
+        'Gilbert K. Chesterton',
     ],
-    'b820ff32-2ab1-50fc-bc92-fbdadd963c0a' => [
-        'I don\'t know if the term \'liberation theology,\' which can be interpreted in a very positive sense, will help us much. What\'s important is the common rationality to which the church offers a fundamental contribution, and which must always help in the education of conscience, both for public and for private life.',
-        'Pope Benedict XVI',
-    ],
-    '997be791-f844-5339-b9a0-5806b3a021b9' => [
-        'There are no failures. Just experiences and your reactions to them.',
-        'Tom Krause',
-    ],
-    'e7378707-3fdb-5a91-bff0-c6e2c7c2492e' => [
-        'I think the deafness affects me more than I realise; I think it makes me more tired. I loathe parties. I attend, smile and leave.',
-        'Stephanie Beacham',
-    ],
-    '96396899-ca9c-5f3a-892a-b015c2a88c54' => [
-        'Today is the tomorrow we worried about yesterday.',
+    'ee2f44d6-5f48-55a2-abaf-60f6ec8eb467' => [
+        'Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.',
         'Unknown',
     ],
-    'a4e82883-7b45-5e42-808e-a4f98860fb43' => [
-        'He who is overly attached to his family members experiences fear and sorrow, for the root of all grief is attachment. Thus one should discard attachment to be happy.',
-        'Chanakya',
+    'fdcea03c-7a83-5240-827c-7035342cf5e4' => [
+        'Divorce is never a pleasant experience. You look upon it as a failure. But I learned to be a different person once we broke up. Sometimes you learn more from failure than you do from success.',
+        'Michael Crawford',
     ],
-    '8de8d57c-4724-5ffe-8aab-da76b57e8378' => [
-        'If you take each challenge one step at a time, with faith in every footstep, your strength and understanding will increase.',
-        'James Faust',
+    '3f1fb0d1-9830-5a0f-9116-98637b5d82a0' => [
+        'Life is a long lesson in humility.',
+        'Dr. Seuss',
     ],
-    '9e914a89-2a38-5689-a062-1ccd944b826c' => [
-        'Yet, taught by time, my heart has learned to glow for other\'s good, and melt at other\'s woe.',
-        'Homer',
+    '81e30ad5-0c13-5f59-80d8-f7b1b885767b' => [
+        'These things bring you to reality as to how fragile you are; at the same moment you are doing something that nobody else is able to do. The same moment that you are seen as the best, the fastest and somebody that cannot be touched, you are enormously fragile.',
+        'Ayrton Senna',
     ],
-    'fa79cdc2-c8f2-57af-8c40-da561535f168' => [
-        'I\'ve been looking at companies that are on a positive path vs. a negative path and I\'ve come to use the language of sports, winning streaks and losing streaks.',
-        'Rosabeth Moss Kanter',
+    '8190af1b-d480-5b3c-8511-0d6fc0fc1032' => [
+        'Travel teaches as much as books.',
+        'Youssou N\'Dour',
     ],
-    '3015ed5c-06b3-5fc7-a942-c728a75ff46a' => [
-        'My greatest success story has been my family.',
-        'Alex Spanos',
+    'df548931-4d94-5a10-890c-289920777feb' => [
+        'A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness.',
+        'John Keats',
     ],
-    'd043af3a-2134-5841-9ed2-6d66f29f61a7' => [
-        'Economics is a choice between alternatives all the time. Those are the trade-offs.',
-        'Paul Samuelson',
+    'dd0bc861-d2f0-58c5-ac22-305f6b7f3eea' => [
+        'My brother was a huge Charles Barkley fan - my brother went to Miami. He played power forward, and he always used to tell me stories about Barkley and college. And I watched Barkley growing up. I loved what he brought to the game. His toughness and just his attitude, being as strong he was.',
+        'Paul Pierce',
     ],
-    '9a10d5f4-6847-59a4-9b11-4aae60c551d7' => [
-        'I try and work out as often as possible. Since I travel very often, it becomes very difficult to have a daily work out routine, but I practice yoga every day or try and play some sport. Also, I am very aware of what suits my body in terms of food and exercise.',
-        'Deepika Padukone',
+    'ced2094e-ea7a-500d-a293-f9cf77faa979' => [
+        'Playing hard to get is not the way to win me over. I\'m definitely more for the girl who can smile and laugh all the time and just have a good time!',
+        'Taylor Lautner',
     ],
-    'cdb23f1b-1652-559f-98fb-389023b6958e' => [
-        'Yes\'m, old friends is always best, \'less you can catch a new one that\'s fit to make an old one out of.',
-        'Sarah Orne Jewett',
+    'eca88839-45de-577d-8837-8a1bae1ae6c7' => [
+        'The foolish man seeks happiness in the distance, the wise grows it under his feet.',
+        'James Oppenheim',
     ],
-    '7cd4c18a-6d00-5b20-a8b6-bc5c45abf4ec' => [
-        'Pick battles big enough to matter, small enough to win.',
-        'Jonathan Kozol',
+    '08c450a5-7102-5b4a-a303-9c8773fef126' => [
+        'I looked up my family tree and found three dogs using it.',
+        'Rodney Dangerfield',
     ],
-    '01151cfb-4cfb-54b2-b754-ac182de0445f' => [
-        'When you have a dream that you can\'t let go of, trust your instincts and pursue it. But remember: Real dreams take work, They take patience, and sometimes they require you to dig down very deep. Be sure you\'re willing to do that.',
-        'Harvey Mackay',
+    'fb964e9c-788a-59c5-ad82-ff7b5ed3fafc' => [
+        'Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.',
+        'Dalai Lama',
     ],
-    'b8872a36-b4c1-5e32-99ad-5e1d09e39739' => [
-        'The older we get, the swifter time seems to pass and the quicker memories seem to fade.',
-        'Brian Sibley',
+    '982a8c6a-95cb-542a-bf54-831386da7091' => [
+        'What is important in life is life, and not the result of life.',
+        'Michel de Montaigne',
     ],
-    '296f2e2b-7447-538f-9e2c-19ad5839bdb5' => [
-        'The value of life lies not in the length of days, but in the use we make of them... Whether you find satisfaction in life depends not on your tale of years, but on your will.',
-        'Joyce Meyer',
+    '91165df5-0a14-5cdf-98ee-2d36c3c27630' => [
+        'Dirty martinis and music - that\'s the big motto in our family. We get the booze going, and the music starts playing. Always old-school hip-hop. Jay-Z. Tribe Called Quest. The Pharcyde. My parents love that stuff.',
+        'Matt Harvey',
     ],
-    'd8e5a168-6f89-577f-b8ad-24d3210017a1' => [
-        'My denial and irresponsible attitude about asthma put me at great risk and caused me so much needless suffering. My hope is that the kids I talk to learn to open up about their asthma, become educated about their condition, and seek help.',
-        'Jackie Joyner-Kersee',
+    'e533254d-00a4-5945-861a-7769d0c89182' => [
+        'Microsoft has had two goals in the last 10 years. One was to copy the Mac, and the other was to copy Lotus\' success in the spreadsheet - basically, the applications business. And over the course of the last 10 years, Microsoft accomplished both of those goals. And now they are completely lost.',
+        'Steve Jobs',
     ],
-    'dc7e8e70-dc33-5a8b-9e7b-96ae5ebe1ad7' => [
-        'Mercedes does beautiful work, absolutely.',
-        'Sebastian Thrun',
+    'f8ad5640-d6e8-5331-a05e-d7d831117f62' => [
+        'Having the positive belief that it will all be O.K. just means that you hustle and make it work because failure is not even an option in your own mind.',
+        'Natalie Massenet',
     ],
-    '9b94b3fb-9f05-5a6a-bf85-4a45dcda7055' => [
-        "Acting like you don\u{92}t care is not letting it go",
-        'Penelope Douglas',
+    '9e79bc78-bacc-55d5-9cc0-5e6d3c585ae4' => [
+        'It is easy to be beautiful; it is difficult to appear so.',
+        'Hosea Ballou',
     ],
-    'd3083950-d4d9-54f8-9d59-9beab2e96782' => [
-        'Bilingualism lets you have your cake and eat it. The new language opens the doors to the best jobs in society; the old language allows you to keep your sense of \'who you are.\' It preserves your identity. With two languages, you have the best of both worlds.',
-        'David Crystal',
+    '000d8311-e6d7-5c7b-823b-f1c4ea6e902e' => [
+        'The simple act of paying positive attention to people has a great deal to do with productivity.',
+        'Tom Peters',
     ],
-    'f1c95f1d-4c90-5273-ba9e-e62b126ff036' => [
-        'My mother never wore much make-up, and she was a kind of natural beauty; she knew just how to enhance what she had.',
-        'Francois Nars',
+    '1dc557a8-b7a3-591c-ad96-e86cdcf26815' => [
+        'Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.',
+        'Carl Jung',
     ],
-    'eb723739-d360-5487-8af1-723a0586a905' => [
-        'Things that were hard to bear are sweet to remember.',
-        'Seneca',
+    'be738b12-63b3-59b6-b608-ac23f1ef948d' => [
+        'Beauty is variable, ugliness is constant.',
+        'Douglas Horton',
     ],
-    'aa4bf734-477f-513e-a282-a96176ea3a3d' => [
-        'Every beauty which is seen here by persons of perception resembles more than anything else that celestial source from which we all are come.',
-        'Michelangelo',
+    '1d13bc43-7562-57cc-9c8e-5de4358693ef' => [
+        'It is not uncommon for people to spend their whole life waiting to start living.',
+        'Eckhart Tolle',
     ],
-    'd6452ade-6ee2-535f-b6cf-2c262ee1ead2' => [
-        'My success isn\'t a result of arrogance - it\'s a result of belief.',
-        'Conor McGregor',
+    '5d596137-7500-55d9-86ff-beadb6d17e61' => [
+        'A few of the sublimest geniuses of Rome and Athens had some faint discoveries of the spiritual nature of the human soul, and formed some probable conjectures, that man was designed for a future state of existence.',
+        'David Brainerd',
     ],
-    '7d32e0ab-d081-5575-ac8d-b7d7d87e1a40' => [
-        'Have you seen some of the women - and the men - in Los Angeles? They pay surgeons to make them look completely different in the hope of finding their youth. But youth comes from within. If you have a young attitude, then that can show in your face, the way you walk and move.',
-        'Kim Cattrall',
+    'd2fdb150-7997-5b6c-91d0-aaf73266e612' => [
+        'Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.',
+        'Mother Teresa',
     ],
-    '5123633d-61d5-5c54-82ba-4eeb6c09ef57' => [
-        'People often expect me to be very serious, but it\'s not like my record company told me not to smile in photographs, because I was like that anyway.',
-        'Jose Gonzalez',
+    '55aa5bcc-4e3e-5118-9a69-be9ca8e4756b' => [
+        'I think every girl\'s dream is to find a bad boy at the right time, when he wants to not be bad anymore.',
+        'Taylor Swift',
     ],
-    'fe814ad8-6957-56e4-87da-23bd2b29f427' => [
-        'The beauty of a woman is not in the clothes she wears, the figure that she carries or the way she combs her hair.',
-        'Audrey Hepburn',
+    '12981269-3193-5917-99c9-da25ed4bf5d4' => [
+        'The black holes of nature are the most perfect macroscopic objects there are in the universe: the only elements in their construction are our concepts of space and time.',
+        'Subrahmanyan Chandrasekhar',
     ],
-    '87eb9ded-83c1-5ceb-bcdf-1c237c6ff6ac' => [
-        'We\'ll love you just the way you are if you\'re perfect.',
-        'Alanis Morissette',
+    '7cbbe5dd-94c4-5892-af11-c8fef9a72fb0' => [
+        'The truest greatness lies in being kind, the truest wisdom in a happy mind.',
+        'Ella Wilcox',
     ],
-    '5e075901-0efc-5705-a79b-9a6658687654' => [
-        'We never understand how little we need in this world until we know the loss of it.',
-        'James Barrie',
+    'dd011469-3065-53cd-a166-8b10dfc8966c' => [
+        'I\'m not going out and hitting a 95-mph fastball where I can\'t see the stitches. I\'m not on a professional football team looking to tackle a fullback who is built like solid wood. I\'m a thinking person, and I\'ve been blessed with the ability to see some things and talk about them in a way that registers in a humorous and funny way.',
+        'Bill Cosby',
     ],
-    'f627c7af-9c88-5074-adf8-d5ecc08e8930' => [
-        'Nature was my kindergarten.',
-        'William Christopher Handy',
+    '0bf90315-626b-52ec-afad-f41eda63b51a' => [
+        'My kids give me the balance to live right.',
+        'Celine Dion',
     ],
-    '7126e392-e222-52d7-92c7-2eeed63a9078' => [
-        'Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.',
-        'Christina Aguilera',
+    '71eecf82-3c86-5950-8ab2-2501813062d6' => [
+        'No matter what people tell you, words and ideas can change the world.',
+        'Robin Williams',
     ],
-    '113c3006-a163-5581-b52e-a01ac3d73161' => [
-        'Take no thought of who is right or wrong or who is better than. Be not for or against.',
-        'Bruce Lee',
+    '1d4241d8-276f-5a02-99ab-77a2a3aa507f' => [
+        'You\'ll live. Only the best get killed.',
+        'Charles de Gaulle',
     ],
-    'd19b75e3-fc93-5f6c-916c-581ba461a0e0' => [
-        'I love festivals because they seem like more of an artsy, supportive attitude - which benefits a more theatrical performer sometimes with having theater and other non-club venues, as well as the audience being filled with other artists. It\'s nice to be with other comics, as usually at other road gigs, I\'m solo for the most part.',
-        'Maria Bamford',
+    '0dee204a-f270-5f84-ac60-72b8ce0c1837' => [
+        'You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.',
+        'Emmet Fox',
     ],
-    '9e56646e-9d14-5d54-b649-ecfe52b03d0d' => [
-        'I love my brothers\' kids. It\'s funny - as an uncle, you become so protective of them.',
-        'Liam Hemsworth',
+    'c4dc40b1-5a03-5c4f-9f25-ddb5e0d4c8a9' => [
+        "It\u{92}s better to have nobody than someone who is half there, or who doesn\u{92}t want to be there.",
+        'Angelina Jolie',
     ],
-    '1d039370-6717-5de6-8fde-f68b5be2e885' => [
-        'I greatly fear some of America\'s greatest and most dangerous enemies are such as think themselves her best friends.',
-        'Nathan Hale',
+    'f6b588f2-1862-5a3e-bdb0-15558811171a' => [
+        'And the attitude of faith is the very opposite of clinging to belief, of holding on.',
+        'Alan Watts',
     ],
-    'ba7e8325-331b-564d-aca4-91214e4d186c' => [
-        '\'What if?\' statements throw fuel on the fire of stress and worry. Things can go in a million different directions, and the more time you spend worrying about the possibilities, the less time you\'ll spend focusing on taking action that will calm you down and keep your stress under control.',
-        'Travis Bradberry',
+    'd7d20bcc-fa47-547f-97e8-d6e9205e6eb0' => [
+        'What does it mean to pre-board? Do you get on before you get on?',
+        'George Carlin',
     ],
-    '77982292-dad4-53be-baa4-be5d6d52a807' => [
-        'Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.',
-        'Abraham Lincoln',
+    '4570818c-bd00-59c7-aa87-48884d43422a' => [
+        'There are no right and wrong ways to work in this business, but there are some basic common-sense practices. Work very, very hard and always be prepared; never give up; and once you get the job, give them more than they ever expected: - Shine!',
+        'Jimmy Smits',
     ],
-    '36f480c7-be8b-55d4-b0b7-cdd17e63cc09' => [
-        'The nature of the movies is different than it was five years ago, and they\'re all driven by the possibilities of CGI, which means you can make anything happen on screen that you can possibly desire.',
-        'Tom Hanks',
+    '8888e3b2-b820-5668-a6bb-66b039a1054b' => [
+        'I believe in being positive.',
+        'Joe Greene',
     ],
-    'b0bc3188-83de-552b-9606-6515ccc118be' => [
-        'Man needs his difficulties because they are necessary to enjoy success.',
-        'A. P. J. Abdul Kalam',
+    'c5895147-feb9-5901-93b3-5aeee7bdc13c' => [
+        'I think one of the best words in the English language is \'compassion.\' I think it holds everything. It holds love, it holds care... and if everybody just did something. We all make a difference.',
+        'Michael Crawford',
     ],
-    '727982c1-4392-5ecf-8f90-4ee1791284e1' => [
-        'When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong.',
-        'R. Buckminster Fuller',
+    '7d2bbcee-a008-5ddb-9939-a4b9aa6bc818' => [
+        'The nature of the music business is such that it\'s better to have a few chances for some things to be successful than just one, and that\'s kind of been my attitude all along.',
+        'Adam Schlesinger',
     ],
-    '3f5b3e5e-d31e-5fac-95be-f433d45df96a' => [
-        'I\'ll bring my grits when I travel, because I get so hungry on the road.',
-        'Dolly Parton',
+    '826a91d7-fd70-5844-b9bd-f9502beae8b7' => [
+        'With each new day in Africa, a gazelle wakes up knowing he must outrun the fastest lion or perish. At the same time, a lion stirs and stretches, knowing he must outrun the fastest gazelle or starve. It\'s no different for the human race. Whether you consider yourself a gazelle or a lion, you have to run faster than others to survive.',
+        'Mohammed bin Rashid Al Maktoum',
     ],
-    'a6fe7c35-d9f1-5b5b-a6c9-10f3cf7edd46' => [
-        'At a certain point I\'m going to want to have a family.',
-        'Gwen Stefani',
+    '648bfc11-9487-5ffc-baa8-bec77d7b55c0' => [
+        'We are one people with one family. We all live in the same house... and through books, through information, we must find a way to say to people that we must lay down the burden of hate. For hate is too heavy a burden to bear.',
+        'John Lewis',
     ],
-    '765a026b-ae0d-503e-8b1b-6a9b4b969498' => [
-        'Why do you have to be a nonconformist like everybody else?',
-        'James Thurber',
+    '20a94ed4-cee0-555d-8093-72d9680dfcbb' => [
+        'Inspiration does exist but it must find you working.',
+        'Pablo Picasso',
     ],
-    '4fafd778-d3bf-5ba8-9b99-ad2aa6a30d52' => [
-        'Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.',
-        'Oscar Wilde',
+    '1936bb7f-7717-5024-b534-8a27e0e41850' => [
+        'Everything can be taken from a man but ... the last of the human freedoms, to choose ones attitude in any given set of circumstances, to choose ones own way.',
+        'Victor Frankl',
     ],
-    'be3b2671-3b90-54fd-bf01-32b3f4383709' => [
-        'Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek.',
-        'Barack Obama',
+    'eef38b6b-52d3-52bb-ba50-9f60173046e6' => [
+        'I\'ve reached a point in my life where it\'s the little things that matter... I was always a rebel and probably could have got much farther had I changed my attitude. But when you think about it, I got pretty far without changing attitudes. I\'m happier with that.',
+        'Veronica Lake',
+    ],
+    'e1f6a5bb-e554-5ad7-b944-f0286fb183fd' => [
+        'In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it.',
+        'Jane Smiley',
+    ],
+    'a51f87e1-4a30-5ca3-8c74-6d9992f7bed0' => [
+        'Family quarrels are bitter things. They don\'t go according to any rules. They\'re not like aches or wounds, they\'re more like splits in the skin that won\'t heal because there\'s not enough material.',
+        'F. Scott Fitzgerald',
+    ],
+    '634d80ff-5d88-5128-8ac3-b4c8b6c09dd9' => [
+        'Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.',
+        'Henry Wadsworth Longfellow',
     ],
 ];

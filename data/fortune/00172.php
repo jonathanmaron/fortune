@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '26282126-b98c-5fda-be43-c23d103d6ba5' => [
-        'What is pride? A rocket that emulates the stars.',
-        'William Wordsworth',
+    '60ce71e4-c844-57cc-a206-06c2532c4159' => [
+        'The automobile engine will come, and then I will consider my life\'s work complete.',
+        'Rudolf Diesel',
     ],
-    'afb0b92d-01d5-5a26-8131-07e6e5173029' => [
-        'I kind of resent this attitude of men that we somehow must always look good.',
-        'Sharon Gless',
+    'b7e9ddc2-838f-56e6-bacf-bc3b8012813d' => [
+        'If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.',
+        'Buddha',
     ],
-    '37da6f4d-4e98-52ec-89fc-cece7cdb9085' => [
-        'We can only be said to be alive in those moments when our hearts are conscious of our treasures.',
-        'Thornton Wilder',
+    '540393d2-1518-5597-8dae-86e0f0116ed0' => [
+        'When I\'m wearing makeup, I choose between doing my eyes or mouth because I don\'t want to look like a beauty pageant child.',
+        'Alexa Chung',
     ],
-    'd64c9417-69ef-532d-b450-836fbe30f003' => [
-        'I did the best I could, and in some arenas, my best was not good enough. I\'ve made some bad choices.',
-        'Amy Grant',
+    '6067400e-7fff-5dcd-8264-d86c1243e5f1' => [
+        'I have a lot of nieces and nephews. I was always around kids. I was like the family babysitter because I was the only one that wasn\'t married.',
+        'Doreen Cronin',
     ],
-    'f146cbf7-2afd-51cc-9302-c48753a45cb3' => [
-        'The idea of modernity is beginning to lose its vitality. It is losing it because modernity is no longer a critical attitude but an accepted, codified convention.',
-        'Octavio Paz',
+    '5fc61204-eb51-5317-9b68-b0bff336eb06' => [
+        'Our attitude is that we want to cross over. You can\'t go on making records just for your own hometown.',
+        'Cheryl James',
     ],
-    '457c6043-7c9e-5b10-add5-19af61c71b17' => [
-        'Any revolutionary change must be preceded by a passive, affirmative, non-challenging attitude toward change among the mass of our people. They must feel so frustrated, so defeated, so lost, so futureless in the prevailing system that they are willing to let go of the past and chance the future.',
-        'Saul Alinsky',
+    'a2549990-ae45-5c10-b089-326c3dbb47ea' => [
+        'Life is a series of natural and spontaneous changes. Don\'t resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.',
+        'Lucille Ball',
     ],
-    'af063b39-5160-56af-b5fc-757ef15909a0' => [
-        'It\'s incredible to see the creativity, beauty and hardships people capture when filmmaking is opened up and shared with the world.',
-        'Jehane Noujaim',
+    'd8443414-1ef4-57f3-8791-7a746ffdf570' => [
+        'Airline glamour never promised anything as mundane as elbow room, much less a flat bed, a massage, or an arugula salad. It promised a better world. Service and dress reflected the more formal era, but no one expected air travel to be comfortable. It was amazing just to have hot food above the clouds.',
+        'Virginia Postrel',
     ],
-    'e7a50553-7d8b-5158-b8bd-d64636ba4e1e' => [
-        'Sex and beauty are inseparable, like life and consciousness. And the intelligence which goes with sex and beauty, and arises out of sex and beauty, is intuition.',
-        'D. H. Lawrence',
+    'e625900f-0fa5-5dfe-86fe-84dbcd98ec39' => [
+        'What\'s on my playlist when I\'m fighting is not so much hip-hop. Sometimes, it\'s something more inspirational. I get a chance to think about what I\'m fighting for, like, my family. It takes me to that state because a lot of times, it\'s a spiritual warfare for me.',
+        'Tyron Woodley',
     ],
-    '32c14dda-da2d-5ed2-affb-e0674a777a4e' => [
-        'My second husband believed I had such a fickle attitude to friendship that each Friday he would update the list of my \'Top Ten\' friends in the manner of a Top Of The Pops chart countdown.',
-        'Julie Burchill',
+    '16abb5a4-4880-52ce-b70a-40cef39da37e' => [
+        'Whether a party can have much success without a woman present I must ask others to decide, but one thing is certain, no party is any fun unless seasoned with folly.',
+        'Desiderius Erasmus',
     ],
-    '8dc99728-e660-5c9b-8d4e-d6a37025b6be' => [
-        'Behaving like a princess is work. It\'s not just about looking beautiful or wearing a crown. It\'s more about how you are inside.',
-        'Julie Andrews',
+    '442c05b2-935b-5c2a-8fd5-b93b75ac6e0e' => [
+        'I enjoy life when things are happening. I don\'t care if it\'s good things or bad things. That means you\'re alive.',
+        'Kanye West',
     ],
-    '1478bfa2-7b70-5c29-830e-34df60c0e884' => [
-        'A great work is made out of a combination of obedience and liberty.',
-        'Nadia Boulanger',
+    '9bd61fa8-7398-5b6a-afe1-04e9b0af9c9d' => [
+        'In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they\'re still beautiful.',
+        'Alice Walker',
     ],
-    '274c2b05-8d3e-5284-8a29-a91ed8a10f9f' => [
-        'Let your hook always be cast; in the pool where you least expect it, there will be a fish.',
-        'Ovid',
+    'c8b3774c-3438-5d7e-80b8-f3f7b5f3ae75' => [
+        'I am against nature. I don\'t dig nature at all. I think nature is very unnatural. I think the truly natural things are dreams, which nature can\'t touch with decay.',
+        'Bob Dylan',
     ],
-    '06cdba0d-425c-5b15-a042-1927ce423a6e' => [
-        'Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.',
-        'Sidney Hook',
+    '18766827-7a3a-5080-af3d-47fc9f363e5e' => [
+        'Every particular in nature, a leaf, a drop, a crystal, a moment of time is related to the whole, and partakes of the perfection of the whole.',
+        'Ralph Waldo Emerson',
     ],
-    '62496b97-78c0-5970-ad9b-a132d624c782' => [
-        'When I first envisioned \'Funny Games\' in the mid-1990s, it was my intention to have an American audience watch the movie. It is a reaction to a certain American cinema, its violence, its naivety, the way American cinema toys with human beings. In many American films, violence is made consumable.',
-        'Michael Haneke',
+    '4a8221c1-0bf7-5804-9abf-559dc9fa42ea' => [
+        'While positive mental states may be associated with less stress and more resilience to infection, positive well-being might also be accompanied by a healthy lifestyle.',
+        'Michael Greger',
     ],
-    '10440d5a-a132-53f3-a6f1-f1c40652a5cb' => [
-        'Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around.',
-        'A. P. J. Abdul Kalam',
+    '0afde15e-e11c-5e31-8fcc-722390b436f4' => [
+        'Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of a little water.',
+        'Christopher Morley',
     ],
-    '05f26f00-907d-5891-94ba-e41f476c407a' => [
-        'The best revenge is massive success.',
-        'Frank Sinatra',
+    '5503abed-41c7-5060-ad01-abfbfc07951c' => [
+        'Life is a horizontal fall.',
+        'Khalil Gibran',
     ],
-    '5c28e43e-8403-5059-8357-d3e79f5523b2' => [
-        'I was lucky. My family is wonderful. And it\'s funny, because most of my best friends come from very large families. So it always felt as if I had lots of siblings, though in the end I had to leave them and go home. I kind of got the best of both worlds as a kid.',
-        'Sophia Bush',
+    '26c49445-cc34-599b-afbf-9935a5d31780' => [
+        'Carry on any enterprise as if all future success depended on it.',
+        'Cardinal Richelieu',
     ],
-    '52baea5a-7878-50e5-adfd-eb6dfda9db66' => [
-        "Don\u{92}t settle. Don\u{92}t finish crappy books. If you don\u{92}t like the menu, leave the restaurant. If you\u{92}re not on the right path, get off it.",
-        'Chris Brogan',
+    '53883509-6a56-5c8c-9e57-a6c51060bca9' => [
+        'Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.',
+        'Tony Robbins',
     ],
-    'af435796-67c0-5fab-b1cb-20c715e04eef' => [
-        'Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma - which is living with the results of other people\'s thinking. Don\'t let the noise of others\' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.',
-        'Bo Jackson',
+    '500f6e36-ba41-580d-a192-b2efca3c4195' => [
+        'Yes I have made a lot of money and I have a lot of respect, my films have done well, and I know there are loads of loads of people who look up to me and really love me. I really just thought this is like a strange dream. I have never thought this is a success - I don\'t have a standard.',
+        'Shah Rukh Khan',
     ],
-    'a1c3051b-fa37-5522-acac-64ee7a182168' => [
-        'The best advice that was given to me was that I had to be 10 times smarter, braver and more polite to be equal. So I did.',
-        'Samuel L. Jackson',
+    'c460bf8d-aae4-5102-8652-b1e17f385ba4' => [
+        'I had to create some good work habits and attitude.',
+        'S. Truett Cathy',
     ],
-    '85e7a5fb-3de0-5f05-826c-5c61325a5b75' => [
-        'I think that, in the end, the military behavior and intelligence services are not very different from each other. It\'s an attitude of hunters; they\'re observing the prey.',
-        'Edgar Ramirez',
+    '44be3a41-7cf1-53a6-b074-c7bd4f613a1b' => [
+        'Simply enjoy life and the great pleasures that come with it.',
+        'Norman Ralph Augustine',
     ],
-    '33f97548-d501-50d5-9976-c9d5a23a714a' => [
-        'A smile abroad is often a scowl at home.',
-        'Alfred Lord Tennyson',
+    'd42b84c7-f942-5682-a9f5-3cd4dbe71e04' => [
+        'When a person listens to a good song, and they can look out at the world and their lives and see the dark and the light, the negative and the positive, all the different elements, all come together in one holistic poem, that is a very healing and very reductive thing, and that\'s what my music is about.',
+        'Matisyahu',
     ],
-    '4c4b7233-0607-599e-b2f5-53c362fd6818' => [
-        'If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.',
-        'Albert Einstein',
+    '039ad7dc-3653-5fb5-97c3-ce553eddd305' => [
+        'Growth itself contains the germ of happiness.',
+        'Pearl Buck',
     ],
-    '4016ecd1-f4fc-51c2-a5dd-111d24c285e6' => [
-        'Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.',
-        'Dalai Lama',
+    '0ac3fd49-a98a-5743-ab16-3bf64ad3ebbc' => [
+        'The air soft as that of Seville in April, and so fragrant that it was delicious to breathe it.',
+        'Christopher Columbus',
     ],
-    'e2e8b46d-ea73-5514-8681-538b90d3410b' => [
-        'I launched Chefs for Humanity, a national nonprofit, with my voice, heart and money from my own pocket. Money gives you the ability to make a difference in the world and, when used in a positive way, is a lot of fun.',
-        'Cat Cora',
+    '4b267a9d-ea90-5d95-8f38-9ee50a181f45' => [
+        'Listen to your intuition. It will tell you everything you need to know.',
+        'Anthony D\'Angelo',
     ],
-    '69de3db6-aff2-56da-8d02-5a1f853185dc' => [
-        'Once, I was out of the house 93 days in a year. I was missing grandparents\' days at schools and kids\' birthdays and Valentine\'s Day, not to mention the fact that when you\'re on the road, you can\'t get anything done. I had to learn to say \'No,\' cut back on travel.',
-        'Jerry Spinelli',
+    'ee735210-ef8d-539d-ab6b-e27398128e18' => [
+        'There are great challenges before you, from the overwhelming nature of climate change to the unfairness of an economy that excludes so many from our collective wealth, and the changes necessary to build a more inclusive and generous Canada. I believe in you.',
+        'Jack Layton',
     ],
-    'e028892b-e6ca-5edb-82f2-9cb127bb7e65' => [
-        'He who has so little knowledge of human nature as to seek happiness by changing anything but his own disposition will waste his life in fruitless efforts.',
-        'Samuel Johnson',
+    'c398de0e-bd2e-5cc3-aae8-b6f5a690b77d' => [
+        'Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.',
+        'Oprah Winfrey',
     ],
-    'ea705eb8-dba6-58d3-adb2-b7b8e5dd51c8' => [
-        'Opportunity often comes disguised in the form of misfortune, or temporary defeat.',
-        'Napoleon Hill',
+    'fcbb5d18-8d1e-51eb-9170-367926b8a121' => [
+        'It is spectacular. From about five minutes in, when we knew for sure that we were going to have the weather to go, the smile on my face just got bigger and bigger, and I was just beaming through the whole launch. I mean, it is just an amazing ride.',
+        'Chris Hadfield',
     ],
-    'dd1a7b74-ce05-5b15-9344-261d6f88a887' => [
-        'The worst thing that happens to you may be the best thing for you if you don\'t let it get the best of you.',
-        'Will Rogers',
+    '1680e9b2-7650-50f6-856d-ab3c88a9adbf' => [
+        'I want to be an inspirational model. I want people to look at me and say, \'Wow, she looks healthy.\'',
+        'Ireland Baldwin',
     ],
-    'fb964e9c-788a-59c5-ad82-ff7b5ed3fafc' => [
-        'Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.',
-        'Dalai Lama',
+    '34d70279-c061-59c5-a88b-40cae0fd28cf' => [
+        'The embarrassment of a situation can, once you are over it, be the funniest time in your life. And I suppose a lot of my comedy comes from painful moments or experiences in life, and you just flip them on their head.',
+        'Miranda Hart',
     ],
-    'c5895147-feb9-5901-93b3-5aeee7bdc13c' => [
-        'I think one of the best words in the English language is \'compassion.\' I think it holds everything. It holds love, it holds care... and if everybody just did something. We all make a difference.',
-        'Michael Crawford',
+    'c4b48784-d6f0-5562-8f91-6f8410800326' => [
+        'Life began with waking up and loving my mother\'s face.',
+        'David Duchovny',
     ],
-    'cfccbc2e-4ae5-5d9a-849a-d221b8b387d0' => [
-        'When you are offended at any man\'s fault, turn to yourself and study your own failings. Then you will forget your anger.',
-        'Epictetus',
+    '8e784593-ee15-5a98-8524-cdac579d4e60' => [
+        'It is impossible to feel grateful and depressed in the same moment.',
+        'Naomi Williams',
     ],
-    'cb8cb856-997b-5a1f-99b2-d97ae49ffe01' => [
-        'If you are not willing to risk the usual you will have to settle for the ordinary.',
-        'Jim Rohn',
+    'b038310d-3fdb-5a75-a5d2-263d4a26a95d' => [
+        'We can best help you to prevent war not by repeating your words and following your methods but by finding new words and creating new methods.',
+        'Virginia Woolf',
     ],
-    'b150e983-3073-5b4c-aca5-99ee8551cdbd' => [
-        'If you are truly offended by an 80-year-old man saying you\'re not funny, then you\'re probably not funny.',
-        'Sarah Silverman',
+    '54611914-10d8-5c86-ad0b-83f26f1c3ff2' => [
+        'Just live life. That\'s the best way to learn how to act. Just live.',
+        'Rory Culkin',
     ],
-    'da422c57-75af-51ba-941d-741af793608c' => [
-        'It was one of my dreams as a child, growing up in my little village with my cousins. We used to walk together, and I used to say, when you look at the world map, \'This town is there, that town is there, that river is there.\' I used to say, \'One day, I\'m going to travel these places.\'',
-        'Jimmy Cliff',
+    'bfd7deba-bcdd-591e-9afd-bfe66dc6671b' => [
+        'I wanted to say thanks... and share my gratitude for everything I\'ve been blessed with. Family, friends, and continued support from everyone.',
+        'Travis Barker',
     ],
-    '9cf11543-1c02-52d0-9387-4052c67daec6' => [
-        'Never apologize for burning too brightly or collapsing into yourself every night. That is how galaxies are made.',
-        'Tyler Kent White',
+    'df802384-9927-5c6f-a55d-265861db8d05' => [
+        'I mean, I\'m married first of all to one of, if not the most wonderful women in the world. She is everything - funny, attractive, hard-working, she has integrity, she loves me to bits.',
+        'Seal',
     ],
-    '5d9aeddb-be32-5b13-8e5d-61e27f18f9c9' => [
-        'As soon as I realized you could be funny as a job, that was the job I wanted.',
-        'Seth Rogen',
+    'd31d6327-ab8b-52da-8fe2-1ad8297a0240' => [
+        'Humans are creatures of habit. If you quit when things get tough, it gets that much easier to quit the next time. On the other hand, if you force yourself to push through it, the grit begins to grow in you.',
+        'Travis Bradberry',
     ],
-    'ed32e643-aee2-53f4-a0c9-c7023b36426b' => [
-        'I travel a lot; I hate having my life disrupted by routine.',
-        'Caskie Stinnett',
+    'edf8a01e-6d30-5385-b692-cddeac9e8c14' => [
+        'I see myself as the best footballer in the world. If you don\'t believe you are the best, then you will never achieve all that you are capable of.',
+        'Cristiano Ronaldo',
     ],
-    '97e246b6-867e-566b-a74f-09885a3303f1' => [
-        'The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don\'t play together, the club won\'t be worth a dime.',
-        'Babe Ruth',
+    '04364c91-0558-5647-bbff-63c7b0f66630' => [
+        'When the mind is empty, silent, when it is in a state of complete negation - which is not blankness, nor the opposite of being positive, but a totally different state in which all thought has ceased - only then is it possible for that which is unnameable to come into being.',
+        'Jiddu Krishnamurti',
     ],
-    '49e1358a-4453-593c-8ae8-94c5b8db2996' => [
-        'Inspirational leaders need to have a winning mentality in order to inspire respect. It is hard to trust in the leadership of someone who is half-hearted about their purpose, or only sporadic in focus or enthusiasm.',
-        'Sebastian Coe',
+    '9da72f27-e33a-53ff-af23-01d5e73ea23d' => [
+        'I am positive that I would see the end of child labour around the world in my lifetime, as the poorest of the poor have realised that education is a tool that can empower them.',
+        'Kailash Satyarthi',
     ],
-    'c3ebdf6a-5fb6-5757-b163-bc19d30d4546' => [
-        'While traveling around the world, I\'ve had the opportunity to work with every living beauty icon. I\'ve learned to appreciate idiosyncrasy. The fact is, there is really no such thing as \'normal\' - everybody\'s different, and that is the essence of their beauty.',
-        'Kevyn Aucoin',
+    '9a260f49-2385-5ee9-9844-5eba1f2e2076' => [
+        'There\'s a tipping point that happens with soccer in which you just kinda get it. I was drawn to it because the best soccer teams play similarly to my favorite basketball teams - like the eighties Lakers or eighties Celtics - teams that emphasized teamwork over individualism and relied on passing as their biggest ongoing edge.',
+        'Bill Simmons',
     ],
-    '6b8f1eeb-8b38-5c2b-b092-d77705b01831' => [
-        'The American Dream is one of success, home ownership, college education for one\'s children, and have a secure job to provide these and other goals.',
-        'Leonard Boswell',
+    '9f0d5fd0-288f-5d59-ba80-9e0c54db5653' => [
+        'I think what it takes to succeed remains the same. You have to have a real love of your sport to carry you through all the bad times, you still want to go ski even when things aren\'t working. You must have a commitment to work hard and to never give up.',
+        'Nancy Greene',
     ],
-    '4734004d-15b3-5b27-a311-1449ba1a689b' => [
-        'Whether You Think You Can Or Think You Can\'t, You\'re Right.',
-        'Henry Ford',
+    '6c94bafc-2b0d-5b02-b256-c7581dbc3e04' => [
+        'I don\'t take any photographs. I travel a lot by myself, and I feel weird taking photos on my own.',
+        'Jamie Bell',
     ],
-    '5732ac6f-442a-5a49-880f-658d5d9141cf' => [
-        'It really was hand-to-mouth and you can say, \'Poor little me, how dreadful, what a deprived childhood\', but I didn\'t feel that way at all. It\'s all about the attitude at home.',
-        'Carol Vorderman',
+    '67845661-99ee-517b-a7ee-9c6c2c51e33e' => [
+        'Poetry at its best can do you a lot of harm.',
+        'Sylvia Plath',
     ],
-    '540d9372-a0b8-5821-8034-d91eeb3bf07c' => [
-        'We must insist on assimilation - immigration without assimilation is an invasion. We need to tell folks who want to come here, they need to come here legally. They need to learn English, adopt our values, roll up their sleeves and get to work.',
-        'Bobby Jindal',
+    '4de2a93e-dfe8-58ad-97c0-c44b9b0d9b80' => [
+        'I\'ve always wanted a family since I was a little girl - a big family. I\'m an only child, so I wanted, like, 10 kids... for sure.',
+        'Behati Prinsloo',
     ],
-    '86d95094-7ef1-5a68-afd9-7a331764ef26' => [
-        'I\'m a fun song maker. I love to make people smile. I also love to see them big, burly dudes crying because their wives\' song is \'Die a Happy Man.\'',
-        'Thomas Rhett',
+    'e8eb06fe-99c6-55c0-bad4-6d8e81f2c118' => [
+        'Writing is hard work: it is like doing homework for the rest of your life. You are always chipping away at it.',
+        'John Lutz',
     ],
-    '4940af9d-b1a3-511e-a37b-9f67f0a59da6' => [
-        'You have to promote yourself; you have to have this smile on your face all the time and be this nice guy - which I am!',
-        'Craig Roberts',
+    '3987fc7b-4279-59af-a9ea-7ec9170e6669' => [
+        'Transformation doesn\'t take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.',
+        'Byron Pulsifer',
     ],
-    'dc6a66ec-8511-5094-8ebe-a3ebd7a15cea' => [
-        'The old university attitude of \'publish or perish\' has changed. Students and academics are realising that institutions such as Imperial College are also wealth-generators. It is very satisfying to be in a university where you have the freedom to innovate and yet know that there is a path to translate your work into industry.',
-        'Chris Toumazou',
+    'fdb42ead-66b2-5f15-b161-ed55617a7d67' => [
+        'If you have a good support system like your family and your friends around you, then you can\'t go wrong. So just believe in yourself, do you your thing, and stay strong in what you believe in.',
+        'Roman Reigns',
     ],
-    '4904b45e-8480-56d9-8fdb-2bcb182c3f06' => [
-        'I think a lot of times our culture has an attitude toward art and the production of art that separates artists from the rest of us, like making art or music or painting or whatever is some magical thing that you have to be inspired to do, and special people do it.',
-        'Ann Leckie',
+    '32e1cd4a-9910-50da-9f29-daaef8a1d37e' => [
+        'There comes a time when people get tired of being pushed out of the glittering sunlight of life\'s July and left standing amid the piercing chill of an alpine November.',
+        'Martin Luther King, Jr.',
     ],
-    '116964f0-e7f6-5026-acb4-d4a3abdfb9cc' => [
-        'When you write, you put your thoughts in the public space. You get both positive and negative feedback.',
-        'Ravi Subramanian',
+    'c037cf38-0fdb-5b93-a469-8deeb2cdd00d' => [
+        'In junior high school, I was an object of pure ridicule for my dress, withdrawal, and asocial manner. Dozens of times, I saw individuals laugh and smile more in ten to fifteen minutes than I did in all my life up to then.',
+        'Arthur Bremer',
     ],
 ];

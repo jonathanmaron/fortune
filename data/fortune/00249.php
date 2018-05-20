@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '714da0eb-06a5-52e8-8502-c233a2b9dced' => [
-        'I had everything I\'d hoped for, but I wasn\'t being myself. So I decided to be honest about who I was. It was strange: The people who loved me for being funny suddenly didn\'t like me for being... me.',
-        'Ellen DeGeneres',
+    '25c1b9cf-9031-55a3-b59f-c32a8ed8148c' => [
+        'When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.',
+        'George Bernard Shaw',
     ],
-    '914d75bf-5fb1-5a65-8e30-ec61244a5e3d' => [
-        'If you want my personal attitude, I would tell you that I don\'t care about a person\'s sexual orientation.',
-        'Vladimir Putin',
+    'faf3fa20-8fe7-5e0e-a819-13f6881940e8' => [
+        'Everyone is your best friend when you are successful. Make sure that the people that you surround yourself with are also the people that you are not afraid of failing with.',
+        'Paula Abdul',
     ],
-    '86287025-9931-5f87-8434-21844d7df462' => [
-        'I enjoy what Twitter is because I can really connect with the fans and it\'s a great way to share information with them and it\'s also a great way to entertain. I like being able to put a smile on people\'s faces and letting them know what I\'m doing.',
-        'Peter Facinelli',
+    'ccdaa9ee-3c02-58f0-aacd-c5b5ff6341d5' => [
+        'You have to push yourself when you\'re older because it\'s very easy to fall into the trap. You start to fall apart - you just have to do your best to paste yourself together. I think doing things and being active is very important. When your mind is busy, you don\'t hurt so much.',
+        'Iris Apfel',
     ],
-    'e4f696b7-18b7-5056-82ac-c3d7f9728945' => [
-        'The sky broke like an egg into full sunset and the water caught fire.',
-        'Pamela Hansford Johnson',
+    '5fe1e027-3cfb-5632-972f-b5364bf3b99c' => [
+        'Life is too short to worry about anything. You had better enjoy it because the next day promises nothing.',
+        'William James',
     ],
-    '9612dfc7-eddb-51fa-b892-d657848e012a' => [
-        'I keep guitars that are, you know, the neck\'s a little bit bent and it\'s a little bit out of tune. I want to work and battle it and conquer it and make it express whatever attitude I have at that moment. I want it to be a struggle.',
-        'Jack White',
+    'd6aec0ea-5120-565b-a964-13beebbcd3c4' => [
+        'I never could have done what I have done without the habits of punctuality, order, and diligence, without the determination to concentrate myself on one subject at a time.',
+        'Charles Dickens',
     ],
-    '20a94ed4-cee0-555d-8093-72d9680dfcbb' => [
-        'Inspiration does exist but it must find you working.',
-        'Pablo Picasso',
+    '6149d166-7178-5054-8768-4763717fe019' => [
+        'Freedom is what you do with what\'s been done to you.',
+        'Jean-Paul Sartre',
     ],
-    'b1c93d0d-8d0c-5857-9d44-1e221668dbf2' => [
-        'There are things that I can tell my friends that I just can\'t tell my family, just as far as how I\'m feeling about things. My friends know me the best in a certain way. I just think old friends are really, really important.',
-        'Jonathan Levine',
+    '09728327-0794-5fd7-943b-d70185a5837c' => [
+        'The more things you do, the more you can do.',
+        'Lucille Ball',
     ],
-    'a9461390-68a3-5cd4-814a-360d592ef783' => [
-        'It\'s all positive energy from me, man.',
-        'Swizz Beatz',
+    '4ec445e3-a4b4-55d2-8c09-5d382fee85c0' => [
+        'We have such a long, familiar history with Peter Falk. The minute his mug is on that screen people smile.',
+        'Paul Reiser',
     ],
-    '80f9e29b-c94e-51f7-9f1c-0885b7209a7e' => [
-        'When a parent says about a book, \'That\'s not my child\'s world,\' I remind them of the future. Social fluency will be the new currency of success. Not experiencing diversity challenges our kids\' future in the global work force. It handicaps them from making America and the world more livable and just.',
-        'Jewell Parker Rhodes',
+    'fca4db9e-0f81-5cfe-8773-a91db43172aa' => [
+        'For me, Dracula has always been associated with travel and beautiful historical places.',
+        'Elizabeth Kostova',
     ],
-    '9bf6f20c-61a8-5017-ad4d-1a3e60e608bc' => [
-        'Any idiot can face a crisis - it\'s day to day living that wears you out.',
-        'Russell Westbrook',
+    '42748df5-0658-57dc-a86a-fe64c5536f3e' => [
+        'Positive thinking will let you do everything better than negative thinking will.',
+        'Zig Ziglar',
     ],
-    'ec71925d-24ee-518f-98c7-a6547b6d3458' => [
-        'The human face is the organic seat of beauty. It is the register of value in development, a record of Experience, whose legitimate office is to perfect the life, a legible language to those who will study it, of the majestic mistress, the soul.',
-        'Eliza Farnham',
+    '6dd328a6-41a2-5587-bd87-961fa60b160d' => [
+        'And know that I am with you always; yes, to the end of time.',
+        'Jesus Christ',
     ],
-    '812e9236-1c30-5a26-9297-fac20b6820fb' => [
-        'The first voyagers to the stars will be creatures whose life cycle is matched to the voyage: the aeons involved in traversing the galaxy are not daunting to immortal beings. By the end of the third millennium, travel to other stars could be technically feasible. But would there be sufficient motive?',
-        'Martin Rees',
+    'c22621ae-9283-5588-9804-a7d3d7bff14f' => [
+        'Let me be a free man - free to travel, free to stop, free to work.',
+        'Chief Joseph',
     ],
-    '6961e470-1990-52f7-9767-cdde2bd4597d' => [
-        'Too much self-centered attitude, you see, brings, you see, isolation. Result: loneliness, fear, anger. The extreme self-centered attitude is the source of suffering.',
-        'Dalai Lama',
+    '29278efc-32d1-57f4-8643-1feed4482566' => [
+        'There are a lot of female artists my age around at the moment, but they\'re all American and blonde and blue-eyed and smiley. I\'m totally the opposite of that. I want to show a bit more attitude and I have an opinion.',
+        'Samantha Mumba',
     ],
-    '2c83a6a4-26c6-5bcb-8046-3b94e8429436' => [
-        'There\'s only one true superpower amongst human beings, and that is being funny. People treat you differently if you can make them laugh.',
-        'Jeff Garlin',
+    '487552f6-92b2-5c46-ae99-75e65c52a814' => [
+        'If you see a Renaissance body, this is completely ugly in this time. Everybody has to be skinny. But the Renaissance body with incredible flow of the meat everywhere, it was beauty.',
+        'Marina Abramovic',
     ],
-    '22da1ecf-0f9a-5882-b620-8dd584114608' => [
-        'Truth is like the sun. You can shut it out for a time, but it ain\'t goin\' away.',
-        'Elvis Presley',
+    'a19f7bbb-0e91-55cf-8412-e35ec8537e50' => [
+        'When I\'m home, I spend Sunday with my husband. If we\'re not cooking, we travel around in our camper, stop at fast-food restaurants, and picnic. We love that stuff that will harden your arteries in a hurry.',
+        'Dolly Parton',
     ],
-    '474d653f-d827-54cb-bfff-c9582c1707ba' => [
-        'There are two great days in a person\'s life - the day we are born and the day we discover why.',
+    '7587e01b-7b2f-5295-896a-f936d22ca5ba' => [
+        'I travel the world visiting global health programs as an ambassador for the global health organization, PSI, and sometimes the disconnect I see is truly striking: people can get cold Coca Cola, but far too infrequently malaria drugs; most own mobile phones, but don\'t have equal access to pre-natal care.',
+        'Mandy Moore',
+    ],
+    '1bfa4862-5d78-5bd9-85a4-375e1e8a0d64' => [
+        'Over the years, my work became both my vocation and avocation. Since I enjoyed it so much, I never felt a great need to go outside for relaxation. Nevertheless, I became an avid photographer and traveler. Possibly my love for travel stems from the early years when my family seldom went away on vacation.',
+        'Gertrude B. Elion',
+    ],
+    'e521cd54-36cf-5678-9c61-2ec9a1c53323' => [
+        'I\'m blonde and tanned and normal-sized! I\'m sweet, shy, funny, have a big heart and I\'m nice - and I like to eat.',
+        'Paris Hilton',
+    ],
+    '7a064c49-6618-5266-8c10-a3cbacd1a4df' => [
+        'Work is much more fun than fun.',
+        'Noel Coward',
+    ],
+    'fee7829d-a013-5dca-8739-e59100b06d7e' => [
+        'Spending time with America\'s soldiers is always inspiring.',
+        'John Boehner',
+    ],
+    '2ed78652-4697-52fc-bae8-b7b92aff4bf1' => [
+        'I was motivated to be different in part because I was different.',
+        'Donna Brazile',
+    ],
+    'a51790c3-38b6-5f22-9022-a19fcc219fd5' => [
+        'A lot of Americans don\'t have a passport, never will have a passport. Not only will they not travel, they don\'t want to travel.',
+        'Henry Rollins',
+    ],
+    'b103d78f-83e8-5f56-80f2-22a69b9c228e' => [
+        'Most babies know how to win us over. We cannot help but smile at them and watch them smile back.',
+        'Madeleine M. Kunin',
+    ],
+    '1ee6fe9b-c8c1-5712-84bb-4618982d1f93' => [
+        'The next time you have a thought... let it go.',
+        'Ron White',
+    ],
+    '9a8cd1b9-aa0f-5079-b534-58d8269e9c01' => [
+        'Every day is intense and alive, whether it\'s travel, work, even down time, which there is so little of.',
+        'Josh Lucas',
+    ],
+    '90f4f6ef-467c-5d84-9591-178a95929401' => [
+        'I never drink water because of the disgusting things that fish do in it.',
         'Unknown',
     ],
-    '1188749c-7cd0-544e-b93b-29935abd09e2' => [
-        'This is our job as leaders: to offer positive solutions and empower people. Our duty is to tackle our problems before they tackle us.',
-        'Paul Ryan',
+    'e6bcd3bf-8415-5f01-9069-188d7a372a3f' => [
+        'I\'m happy to help Crest Whitestrips on their mission to inspire photographers everywhere to capture smile moments and would encourage aspiring photographers to express themselves through their photos.',
+        'Nigel Barker',
     ],
-    '01af21d2-6ea2-5036-a57a-580b30950521' => [
-        'Surprise is the greatest gift which life can grant us.',
-        'Alana Stewart',
+    'c49ca9e7-bf44-5c01-9a45-7af2c4a0b084' => [
+        'I\'m not here to impose Sharia law, and I\'m not here to have a message about disability being inspirational - I\'m here to make people laugh. But when I can layer things and make people not only laugh but question, make people not only laugh but be offended... I have to do that.',
+        'Maysoon Zayid',
     ],
-    '3677a57c-4b4b-5d46-9bf6-abe8aa903185' => [
-        'Give light and people will find the way.',
-        'Ella Baker',
+    'd48d2b6c-d85b-5965-9d16-d436d645bed5' => [
+        'The best cure for insomnia is to get a lot of sleep.',
+        'W. C. Fields',
     ],
-    '55068685-5348-5378-94a6-5565af2a50af' => [
-        'A dream becomes a goal when action is taken toward its achievement.',
-        'Bo Bennet',
+    '4be8fd0c-5cea-511a-a317-a3ddfa35bb20' => [
+        'I\'m mourning with the rest of the world for the talented, gorgeous, funny, intelligent John Forsythe but my heart is broken for the loss of my dear, dear friend and neighbor. I will miss him terribly.',
+        'Cheryl Ladd',
     ],
-    'e93354dd-2392-5e4d-b6ea-1bb0e37add08' => [
-        'If the world could remain within a frame like a painting on the wall, I think we\'d see the beauty then and stand staring in awe.',
-        'Conor Oberst',
+    'ad385896-815b-58c8-95ea-a87dcfe7bd20' => [
+        'Son, give \'em a good show, and always travel first class.',
+        'Walter Huston',
     ],
-    'a632acfa-6ecb-5849-8759-a0a184b92950' => [
-        '\'Grease\' changed my life in the most amazing way, and I\'ve had such an amazing life. When things go wrong, you\'ve got to believe you will get through them and focus on the positive things in your life.',
-        'Olivia Newton-John',
+    '6dbc75ac-bba8-58d2-b056-04aaaa6dd38e' => [
+        'The Grateful Dead, they\'re my best friends. Their message of hope, peace, love, teamwork, creativity, imagination, celebration, the dance, the vision, the purpose, the passion all of the things I believe in makes me the luckiest Deadhead in the world.',
+        'Bill Walton',
     ],
-    'eb207035-99ec-5025-9ca6-8fed34f0511b' => [
-        'We\'ll sort of get over the marriage first and then maybe look at the kids. But obviously we want a family so we\'ll have to start thinking about that.',
-        'Prince William',
+    'd7bb4de8-d9cd-5c23-99fa-aef55dbdd582' => [
+        'If you\'ve got a talent, protect it.',
+        'Jim Carrey',
     ],
-    '9c1a2fd0-e4f6-59fd-9c19-06556f7db79d' => [
-        'I pull a lot of the stuff that I play off the rhythm tracks - and Keith Richards has been one of the main contributors to my inspirational playing.',
-        'Bobby Keys',
+    '80de83dd-ec25-5265-8a89-4c9d438b3dcf' => [
+        'As the eldest son of an Alabama sharecropper family, I was constantly troubled by a collage of North American southern behaviors and notions in reference to the inhumanity of people. There were questions that I did not know how to ask but could, in my young, unsophisticated way, articulate a series of answers.',
+        'John Henrik Clarke',
     ],
-    '97f321e3-0c3b-57d3-91aa-3a8c28a50df6' => [
-        'Out of difficulties grow miracles.',
-        'Jean de la Bruyere',
+    'db02d428-af54-502a-9ca6-0e7f4c3d51e5' => [
+        'I really think that it\'s disgusting that Paris is the only place where it is illegal for paps to follow you around. It actually took someone losing their life - Diana, an inspirational woman - and then it changed, but they still won\'t change it in London! It\'s horrible!',
+        'Cara Delevingne',
     ],
-    'f329707e-42e2-5423-a14e-17706964f029' => [
-        'The thing that I think a lot of guys need to know how to do is not take your mother\'s advice about honesty being the best policy. Listen to your cool, drunk uncle who tells you to lie. Those are the relationships that last.',
-        'Adam DeVine',
+    '658203d3-82c9-5a4f-b849-616f6d8cd81b' => [
+        'Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.',
+        'Blaise Pascal',
     ],
-    '0a683024-4491-5784-b8c8-33ddfc6d25e8' => [
-        'If you really want to be world class - to be the best you can be - it comes down to preparation and practice.',
-        'Robin S. Sharma',
+    '32e81f46-4a09-5215-b5f6-1a9ac03858ec' => [
+        'This success led my theoretical group to the chemical reactivity theory, extending more and more widely the range of compound and reactions that were discussed.',
+        'Kenichi Fukui',
     ],
-    'b249eaad-6a9e-5e15-9b49-9420b1c99aaa' => [
-        'We never respect those who amuse us, however we may smile at their comic powers.',
-        'Marguerite Gardiner',
+    'cb2874ae-c15d-559c-b55f-9dd88b2d76fe' => [
+        'We are really focused on the beauty enthusiast... but also, as you know, everybody has got a great phone in their pocket. Everybody is taking pictures. Who doesn\'t want to look good in a picture? I don\'t know anybody who doesn\'t.',
+        'Mary Dillon',
     ],
-    'fda52a7d-ecef-5611-bc38-053caac111b1' => [
-        'I try my best to confront situations because I know, at the end of the day, you can deal with it or it will deal with you. I\'ve had enough experience to know that that\'s how it goes down. There\'s no going around it.',
-        'Jada Pinkett Smith',
+    '5640e131-b07f-5da4-950c-4faa5338af24' => [
+        'The simplest things are often the truest.',
+        'Richard Bach',
     ],
-    '0c46ea3f-11b7-53bd-993f-ce87be16fa85' => [
-        'If I\'m a bad mood, I can\'t go on stage and smile.',
-        'Grimes',
+    '13e27f60-ed68-53db-9ae1-b07e2739907a' => [
+        'Put two ships in the open sea, without wind or tide, and, at last, they will come together. Throw two planets into space, and they will fall one on the other. Place two enemies in the midst of a crowd, and they will inevitably meet; it is a fatality, a question of time; that is all.',
+        'Jules Verne',
     ],
-    '51f6fe6e-2c66-52da-aee0-5e3d8d91354b' => [
-        'You create your opportunities by asking for them.',
-        'Shakti Gawain',
+    '623bd056-c932-577d-ba83-6e0416e8500b' => [
+        'You can\'t wait for inspiration. You have to go after it with a club.',
+        'Jack London',
     ],
-    'a407a8f1-8aba-58bf-8bbb-5dcee7562f90' => [
-        'Beauty is being comfortable and confident in your own skin.',
-        'Iman',
+    '40e4118f-7a9c-57f1-91c9-5b83cde52be4' => [
+        'Being part of the Workshop is like being part of a really big family. Everyone is so close. Everyone feels the success of others who go on to do well. Whatever happens, I will still be part of the Workshop.',
+        'Lucy Carless',
     ],
-    '5440b044-b91b-5161-b3c1-a75445ab5232' => [
-        'If you haven\'t got anything nice to say about anybody, come sit next to me.',
-        'Alice Roosevelt Longworth',
+    'f404097c-d115-53de-9c04-2e04bc649bd1' => [
+        'The stars that have most glory have no rest.',
+        'Samuel Daniel',
     ],
-    '568eaf00-16c4-5dbf-967a-430557cb8d27' => [
-        'Life brings simple pleasures to us every day. It is up to us to make them wonderful memories.',
-        'Cathy Allen',
+    '06cdba0d-425c-5b15-a042-1927ce423a6e' => [
+        'Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.',
+        'Sidney Hook',
     ],
-    '582b2647-7a42-52e0-97e8-c30bc6c4729b' => [
-        'You know some of the people in The Strokes, yeah, their parents had success - but we didn\'t live like yuppies.',
-        'Julian Casablancas',
+    '686b86dc-1e2f-552a-be4a-8a2e2737ca0e' => [
+        'Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.',
+        'Albert Schweitzer',
     ],
-    '3f755eed-4bea-5ae6-aa21-4b7d30d03167' => [
-        'If it\'s endurable, then endure it. Stop complaining.',
-        'Marcus Aurelius',
+    '44c65987-d52f-5452-8e99-3dbe0d45bf0e' => [
+        'Thanks to malaria elimination efforts in United States in the 1940s, most people in the U.S. today have never had any direct contact with the disease, and most doctors have never seen a case. That success means it\'s easy to have a relaxed attitude about protecting ourselves.',
+        'Tom Frieden',
     ],
-    'f98a0cc4-f5cd-5dca-82fb-2f80b6707c34' => [
-        'I don\'t dislike rappers or hip-hop or people who like it. I went to the Def Jam tour in Manchester in the \'80s when rap was inspirational. Public Enemy were awesome. But it\'s all about status and bling now, and it doesn\'t say anything to me.',
-        'Noel Gallagher',
+    '613d1e1f-6d2d-525a-a27f-b8435052ee20' => [
+        'I\'m the only man in the world with a marriage licence made out to whom it may concern.',
+        'Mickey Rooney',
     ],
-    '294325a1-b578-579a-bfa3-f4c7ede26c9e' => [
-        'People think I have courage. The courage in my family are my wife Pam, my three daughters, here, Nicole, Jamie, LeeAnn, my mom, who\'s right here too.',
-        'Jim Valvano',
+    'c4d7ad58-b549-559c-9a6a-2a117e20a8cb' => [
+        'With Fresh Healthy Vending growing by the day, my role is ever-evolving, just as the company is, and I intend to take on any necessary responsibilities in order to make a positive impact and spread a message we all believe in so strongly.',
+        'Steve Finley',
     ],
-    '0c16ac9a-e446-58b4-a2a7-73d7636b9c92' => [
-        'No valid plans for the future can be made by those who have no capacity for living now.',
-        'Alan Watts',
+    'f277f701-4916-5df3-ab3d-6b85e8ffb717' => [
+        'When I\'ve had to edit my albums, I\'ll listen to it one time through, and I\'ll make edits. I want to remember to set up a camera to record myself listening to my set, because I don\'t even slightly crack a smile, I am just listening for technical details, and I look like somebody that has absolutely no sense of humor. I look insane.',
+        'Tig Notaro',
     ],
-    '482b80fa-b7fd-52f6-91a5-9a60606738d7' => [
-        'For a manager to be perceived as a positive manager, they need a four to one positive to negative contact ratio.',
-        'Ken Blanchard',
-    ],
-    '343d46e3-c06a-52ae-b453-60ef3811afee' => [
-        'Football has to work really hard to put a smile on people\'s face and not to be so focused on the question of money. Everything is in danger of losing its soul if you\'re always going to sell out to the highest bidder.',
-        'Gordon Taylor',
-    ],
-    '57f8f662-73b7-55f2-9fa6-86e9675ebdc6' => [
-        'Whenever you fall, pick something up.',
-        'Oswald Avery',
-    ],
-    '1eb3b85c-a84b-5fe9-a66f-46a6dcdabf29' => [
-        'Always work hard and have fun in what you do because I think that\'s when you\'re more successful. You have to choose to do it.',
-        'Simone Biles',
-    ],
-    'bd3c3d4f-ac45-5c30-bd9d-c58a5d872474' => [
-        'When I go away to do a movie, I bring the blanket I\'ve had since I was a little girl. It helps me sleep. I also always bring my laptop so I can E-mail friends. And I bring my dog, Beauty, wherever I can.',
-        'Kirsten Dunst',
-    ],
-    'a302fbda-78b4-5ba6-a9c2-2dade757d16b' => [
-        'There is no attitude required. The hat brings the attitude. And when people try on a hat they like, it is a bit of fun. It makes them laugh. You don\'t laugh when you put on a pair of shoes, but you do with a hat.',
-        'Philip Treacy',
-    ],
-    '9b2b790a-50dd-57ba-89a7-911c09595476' => [
-        'We must develop and maintain the capacity to forgive. He who is devoid of the power to forgive is devoid of the power to love. There is some good in the worst of us and some evil in the best of us. When we discover this, we are less prone to hate our enemies.',
-        'Martin Luther King, Jr.',
-    ],
-    '7fbdf514-94a1-5cf5-ae74-bafde9fa3993' => [
-        'Stem cell research holds enormous promise for easing human suffering, and federal support is critical to its success.',
-        'Tom Harkin',
-    ],
-    '0a60361a-0fc3-521d-a9d0-ecb17fcb87cc' => [
-        'The survival of liberty in our land increasingly depends on the success of liberty in other lands. The best hope for peace in our world is the expansion of freedom in all the world.',
-        'Bill Frist',
-    ],
-    '8d5c999c-dfbe-5f52-b148-38eefb8a9914' => [
-        'I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.',
-        'Og Mandino',
-    ],
-    '3f5c9918-590a-5d0b-9e40-ed7d762dc661' => [
-        'Success depends almost entirely on how effectively you learn to manage the game\'s two ultimate adversaries: the course and yourself.',
-        'Jack Nicklaus',
+    'aeacaee6-9a82-5da9-8474-28c7e14245d3' => [
+        'I\'ve always fed off negativity and wanting people to hate me. That attitude really fueled me for my entire career. So being a guy that people like and want to cheer for is the weird part.',
+        'Dean Ambrose',
     ],
 ];

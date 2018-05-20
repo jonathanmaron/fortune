@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '3ab24546-56e4-52d1-b0ba-dd0832a4855c' => [
-        'I\'ve had to learn to fight all my life - got to learn to keep smiling. If you smile things will work out.',
-        'Serena Williams',
+    '8b79736d-4816-5a5c-be59-8dafe2eb2c65' => [
+        'The greatest thing about where my life is right now is it\'s very relaxed and chill. I\'m just hanging out, being myself and doing my work.',
+        'Lucas Grabeel',
     ],
-    '5da93d56-838e-5bfa-b9fe-8ab1573b104b' => [
-        'My ideal travel companions are my surfboard, wetsuit, and guitar.',
-        'Alexander Ludwig',
+    '677e75f1-02f2-59af-88bb-52d32e69d8fc' => [
+        'It\'s OK to not be OK, as long as you don\'t stay that way.',
+        'Anonymous',
     ],
-    '69780b1f-03c4-5264-a128-2387e3a26992' => [
-        'No foreign policy - no matter how ingenious - has any chance of success if it is born in the minds of a few and carried in the hearts of none.',
-        'Henry Kissinger',
+    'cc0c6079-3119-5dd7-bae0-9f7ceb1f22a0' => [
+        'By understanding and harnessing the forces that drive human behavior, you can create a self-sustaining philanthropic effort that reaches millions of people. It begins with an entrepreneurial attitude: take an idea and execute on that idea. If it doesn\'t work, learn why and build on what you\'ve learned.',
+        'Naveen Jain',
     ],
-    'b529da22-5272-5666-93f0-b538888fe69f' => [
-        'I tell you, it\'s funny because the only time I think about HIV is when I have to take my medicine twice a day.',
-        'Magic Johnson',
+    'cd1356fd-74b7-56ee-bbdc-6b82c0776c01' => [
+        'The world reveals itself to those who travel on foot.',
+        'Werner Herzog',
     ],
-    'a382dcd4-4412-5084-a973-5c7a06e5038f' => [
-        'Civilization began the first time an angry person cast a word instead of a rock.',
-        'Sigmund Freud',
+    'a50699d5-7b87-5205-ab5d-0e71444726ef' => [
+        'Comedy is tragedy - plus time.',
+        'Carol Burnett',
     ],
-    '60091216-945a-52df-a871-129954dca64d' => [
-        'A man should be able to hear, and to bear, the worst that could be said of him.',
-        'Saul Bellow',
+    '365f30d2-d334-56fe-a930-5f45969e84a0' => [
+        'To a synthetic chemist, the complex molecules of nature are as beautiful as any of her other creations. The perception of that beauty depends on the understanding of chemical structures and their transformations, and, as with a treasured work of art, deepens as the subject is studied, perhaps even to a level approaching romance.',
+        'Elias James Corey',
     ],
-    '8309960d-93d0-53a7-b13d-27e25ef35eba' => [
-        'I make these little films. I\'m just a working person. I just study people a little bit more. It\'s more sociological, and it\'s funny anyway - not that serious. It\'s not like false humility. I just take it for what it is.',
-        'Julie Delpy',
+    '99394f67-c348-5906-ab75-81ed830ce619' => [
+        'You have to listen to the people who have a negative opinion as well as those who have positive opinion. Just to make sure that you are blending all these opinions in your mind before a decision is made.',
+        'Carlos Ghosn',
     ],
-    '642f11c2-739a-552e-9723-4464573f3f5f' => [
-        'Possessed with a full confidence of the certain success which British valor must gain over such enemies, I have led you up these steep and dangerous rocks, only solicitous to show you the foe within your reach.',
-        'James Wolfe',
+    '6032a69d-2701-5c35-9b18-a32be656f60e' => [
+        'In time of difficulties, we must not lose sight of our achievements.',
+        'Mao Zedong',
     ],
-    'a622074d-7b10-515c-b31f-082abf0ca29b' => [
-        'I do have moments when I feel insecure. I do have moments when I feel jealous, and that\'s normal. It\'s a very normal emotion. It\'s your action and your attitude and your reaction to that that is important.',
-        'Anushka Sharma',
+    '4b089024-c339-568e-babf-21c9e7b8d626' => [
+        'Beauty is perfect in its imperfections, so you just have to go with the imperfections.',
+        'Diane von Furstenberg',
     ],
-    'c21bb6a5-7a42-5526-b19d-7d775b82759f' => [
-        'The day I made that statement, about the inventing the internet, I was tired because I\'d been up all night inventing the Camcorder.',
-        'Al Gore',
+    '2f2dac6b-c607-5c2f-a85a-345b31f15b26' => [
+        'Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success.',
+        'Og Mandino',
     ],
-    'c18481af-6414-5619-b9be-5899cda7cd08' => [
-        'Black Consciousness is an attitude of the mind and a way of life, the most positive call to emanate from the black world for a long time.',
-        'Steven Biko',
+    'a0e38e9e-9541-56c4-a7e7-3c94dd1ef833' => [
+        'If you\'re OK with being clumsy, it\'s funny. But if you are super embarrassed, people are going to laugh at you.',
+        'Leo Howard',
     ],
-    '0065e952-d781-570e-9b53-370111ce676d' => [
-        'Success is a state of mind. If you want success, start thinking of yourself as a success.',
-        'Joyce Brothers',
+    '9656ef74-acb8-55bd-a9a3-b70121602c49' => [
+        'I realise that I do not change the course of history. I am an actor, I do a movie, that\'s the end of it. You have to realise we are just clowns for hire. After I had success it was great, at first, not to worry about money. It was on my mind when I was growing up.',
+        'Leonardo DiCaprio',
     ],
-    '6fb4a9a7-e1c8-5d57-9c58-2ea8f92abb19' => [
-        'No one succeeds without effort... Those who succeed owe their success to perseverance.',
-        'Ramana Maharshi',
+    '53b95bc8-3cdf-54de-9317-9b77d6c6e05f' => [
+        'Any race I go into, I\'ve always got the attitude of throwing myself into and wanting nothing but No. 1.',
+        'Caroline Buchanan',
     ],
-    'fc2dd589-c15d-5887-b5c8-3ffb622a7213' => [
-        'Your work is to discover your world and then with all your heart give yourself to it.',
-        'Buddha',
+    '38a85d42-1952-53e3-a729-be653839937c' => [
+        'For me, relationship is very important. I can lose money, but I cannot lose a relationship. The test is, at the end of a conversation or a negotiation, both must smile.',
+        'Sunil Mittal',
     ],
-    '573072fe-fb2a-50b2-b9d2-66b422999b88' => [
-        'Drawing on my fine command of the English language, I said nothing.',
-        'Robert Benchley',
+    'fd94b58c-d3e2-538a-b499-3d9811333298' => [
+        'I think swagger\'s a confidence. It\'s a confidence of you knowing that you work hard for your success. A lot of times, you can\'t develop swagger if you haven\'t worked hard to succeed.',
+        'Amar\'e Stoudemire',
     ],
-    '8bb01068-e992-534b-820f-a102801f63ce' => [
-        'About 80 percent of the photos on Flickr are public and searchable by everyone. In one sense, it\'s a place where people upload snapshots from the family reunion, wedding or the birth of a baby or something like that, but it\'s also a place where people go to show what the world looks like to them.',
-        'Stewart Butterfield',
+    '738b6a01-2892-526a-ae9b-531079ccfd39' => [
+        'Question: Why are we Masters of our Fate, the captains of our souls? Because we have the power to control our thoughts, our attitudes. That is why many people live in the withering negative world. That is why many people live in the Positive Faith world.',
+        'Alfred A. Montapert',
     ],
-    '42862285-1c8f-58c8-be84-f0f8d64c329e' => [
-        'He looked about as inconspicuous as a tarantula on a slice of angel food.',
-        'Raymond Chandler',
+    '36e565d2-3187-5bd6-b717-6dda49ab7f60' => [
+        'Life in common among people who love each other is the ideal of happiness.',
+        'Lucas Grabeel',
     ],
-    '2fd535e6-4c67-5d05-bccc-ce6c4963c342' => [
-        'I\'ve learned that mistakes can often be as good a teacher as success.',
-        'Jack Welch',
+    '20250bcd-e14c-50db-b9fd-770add1704c4' => [
+        'The way to get started is to quit talking and begin doing.',
+        'Walt Disney',
     ],
-    'd5807147-ff61-5fb9-953c-f11a9c80d014' => [
-        'And, obviously as a, as one who likes to travel around myself a lot, I think the Earth is a beautiful place. And, I\'m looking forward to some new perspectives.',
-        'Duane G. Carey',
+    'cdf114bf-0a11-50e9-961f-d2b47a10b024' => [
+        'America is still mostly xenophobic and racist. That\'s the nature of America, I think.',
+        'Jerry Garcia',
     ],
-    '1ca33229-f83e-55f7-b298-e9e303913fd7' => [
-        'Whenever something negative happens to you, there is a deep lesson concealed within it.',
-        'Eckhart Tolle',
+    '88fa81d1-722b-59d2-b223-a8a177e717a0' => [
+        'People talk about bullying, but you can be your own bully in some ways. You can be the person who is standing in the way of your success, and that was the case for me.',
+        'Katy Perry',
     ],
-    'e7164648-a6b7-51d3-94b1-f1c8f8cb36f8' => [
-        'The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.',
-        'Helen Keller',
+    'f4ed8b5b-ce8e-517d-9e94-0d138f3f7683' => [
+        'You\'re perceived as being a success if you find a job in some big city and work with hundreds of other people and draw a paycheck every month.',
+        'Jerry Moran',
     ],
-    '8c28d89b-d7d3-5d71-8a0a-c6e52c557239' => [
-        'Power is, in its nature, encroaching; and such is the human make that men who are vested with a share of it are generally inclined to take more than it was intended they should have.',
-        'Samuel Adams',
+    '4708c0f7-c3b9-59fd-964b-aa3962619f81' => [
+        'The best way to find out if you can trust somebody is to trust them.',
+        'Ernest Hemingway',
     ],
-    '68108735-e4aa-5bb4-9e04-49f4bf2be0de' => [
-        'As a female, you are often being asked by directors to be warmer, softer, flirt more, smile more etc... None of those things are bad, and obviously we are capable of a variety of human behavior, but it gets really old having to play into somebody\'s stereotype or ideal.',
-        'Trieste Kelly Dunn',
+    'de02d9fe-f613-5808-bffb-dc0861fc31e0' => [
+        'And I\'m a believer that you take a negative and turn it into a positive, and as it turned out, it was one of the best things that ever happened to me. And so I do appreciate the Ranger staff and the Ranger organization for giving me that opportunity.',
+        'Nolan Ryan',
     ],
-    'f63f5bea-db55-5d50-905a-02d529d5d760' => [
-        'On reflection, I am always pleasantly surprised when ordinary members of the public stop me in the street to say, \'Thank you,\' I guess for making travel and other goods and services affordable to them.',
-        'Stelios Haji-Ioannou',
+    '2e811b66-0693-587f-9afa-fcf5e2bdfda0' => [
+        'Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.',
+        'Melody Beattie',
     ],
-    '0b1f0f25-586f-56a4-b11c-99ccb2b5ed9d' => [
-        'I like to think I\'m a pretty good friend. I love having a good time, and I enjoy being able to share those good times with others.',
-        'Jacob Batalon',
+    'e901fdfc-15d6-5695-9649-e0ec3d335856' => [
+        'I get up at 7:30 and work four hours a day. Nine to twelve in the morning, five to six in the evening. Businessmen would achieve better results if they studied human metabolism. No one works well eight hours a day. No one ought to work more than four hours.',
+        'Kurt Vonnegut',
     ],
-    '3029cf80-7f6c-511f-82d8-3d4fc4cee3e3' => [
-        'I can\'t say enough about the guts and the talents of Amazon. They\'re so agile, they\'re so nimble; they picked us up two weeks after we premiered, and their whole attitude is, \'Go, go, go, go,\' so I\'m very, very impressed.',
-        'Jeffrey Tambor',
+    'e5ce5f90-1018-5ba6-a1ed-b4fb1e749f07' => [
+        'Umpires are necessary evils. That\'s just the nature of the beast. For years, people have looked on umpiring as a job they could get any postman to do.',
+        'Doug Harvey',
     ],
-    '9740f603-a08e-51cd-839d-ec3a0ffcc3af' => [
-        'Life is difficult for everyone; everyone has bad days. Everyone has trouble in their life, because it doesn\'t matter how rich you are: Sickness and trouble and worry and love, these things will mess with you at every level of life.',
-        'Robin Williams',
+    '4d1a3451-5ffa-549a-9840-cb061ed285c2' => [
+        'Confidence isn\'t optimism or pessimism, and it\'s not a character attribute. It\'s the expectation of a positive outcome.',
+        'Rosabeth Moss Kanter',
     ],
-    'f3bd6843-bd51-5b90-9c69-98c2deea0eae' => [
-        'There is nothing deep down inside us except what we have put there ourselves.',
-        'Richard Rorty',
+    'f5cd6920-9252-5223-8ff5-42025d7cc72d' => [
+        'It\'s pretty scary to know how quickly time flies.',
+        'James Wan',
     ],
-    'f5cdfe2f-d290-5b34-ac11-2cfa3ee8f459' => [
-        'It\'s sometimes tiring to get off a long-haul flight and go straight to the studio for a shoot, but if you really plan everything well, you can get so much out of combining travel with work.',
-        'Alek Wek',
+    '78b35a32-0325-594b-b461-5f068a86114d' => [
+        'Working with Julie Andrews is like getting hit over the head with a valentine.',
+        'Christopher Plummer',
     ],
-    'b5783dfa-38ac-5c6e-a69e-fafff6aca8cb' => [
-        'Every success in limiting armaments is a sign that the will to achieve mutual understanding exists, and every such success thus supports the fight for international law and order.',
-        'Ludwig Quidde',
+    'dce8a8fc-8632-541b-b8dd-d42fcda0814e' => [
+        'Loyalty to the Nation all the time, loyalty to the Government when it deserves it.',
+        'Mark Twain',
     ],
-    '9a475f7d-2939-5e61-87da-eb8656f99359' => [
-        'What makes a river so restful to people is that it doesn\'t have any doubt - it is sure to get where it is going, and it doesn\'t want to go anywhere else.',
-        'Hal Boyle',
+    'e09d7c86-7196-5131-918a-194e85913a47' => [
+        'Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.',
+        'A.P.J. Abdul Kalam',
     ],
-    'e05cb347-0506-5074-b17d-e116f732a426' => [
-        'Success without someone to share it with is hollow indeed. On the other hand, it beats the heck out of failure.',
-        'Judith McNaught',
+    'd235e03d-fb29-5ee1-b389-85ea6dfe98dd' => [
+        'A complainer is like a Death Eater because there\'s a suction of negative energy. You can catch a great attitude from great people.',
+        'Barbara Corcoran',
     ],
-    '68fa376b-0b4a-51d1-b455-4876c6a1eca1' => [
-        'Nature is never finished.',
-        'Robert Smithson',
+    'f626ffab-6388-53c2-b612-7bd542da461c' => [
+        'I feel ups and downs are a part of one\'s career, and this totally depends on how you take it. You can either be knocked down by the negative things, or you can take it in a positive way and learn from it.',
+        'Deepika Padukone',
     ],
-    'b79fb94a-0234-5946-86b4-9ad89c5d5d94' => [
-        'The good man is the friend of all living things.',
-        'Mahatma Gandhi',
+    '5cc85bbb-5b8a-5411-8a7b-d9753ced1d96' => [
+        'I just want to be successful. I\'m not going to sit here and be like, \'I want to win a Grammy\' or whatever; if that comes, that\'s awesome. But I just want to be successful and provide for my whole family and get my family out the hood.',
+        'Lil Uzi Vert',
     ],
-    '3cca7e4a-b638-5e60-8c04-9c8cc3655773' => [
-        'People should pursue what they\'re passionate about. That will make them happier than pretty much anything else.',
-        'Elon Musk',
+    '2afb6791-b588-52b5-a76c-02182363c65f' => [
+        'That should be the measure of success for everyone. It\'s not money, it\'s not fame, it\'s not celebrity; my index of success is happiness.',
+        'Lupe Fiasco',
     ],
-    '6dfaf649-2e02-5407-994e-33f79e4e8b0f' => [
-        'Liberalism is a really old British tradition and it has a completely different attitude towards the individual and the relationship between the individual and the state than the collectivist response of Labour, and particularly Old Labour, does.',
-        'Nick Clegg',
+    '77988d2c-94f1-588e-a13d-9234d0d4341b' => [
+        'The man who interprets Nature is always held in great honor.',
+        'Zora Neale Hurston',
     ],
-    'ce945ec6-c35d-5554-8bcc-6a8b3f3af9d5' => [
-        'What unites Oklahomans today is what has always united us: Our unshakable faith. Our love of family and compassion for others. The unlimited promise of a hopeful future.',
-        'Brad Henry',
+    'a75be7d1-ef1f-5aa2-8f62-e058e1d57afe' => [
+        'I like the idea of being warm and secure. That\'s what home should be. That you have a sense of warmth, security, love, and you love the things around you and surround yourself with beauty.',
+        'Andre Leon Talley',
     ],
-    '210913d8-29cf-565e-a8c7-9cf4db8c1fa6' => [
-        'You know, it wasn\'t even that I\'m a funny guy, I just loved stand-up comedy and I wanted to do it. It was one of the few things in my life that I knew I was going to be able to do, and I also felt as though I\'d be able to do it the way I wanted to do it.',
-        'Bill Burr',
+    'ff7576ca-c352-5826-a3cd-390b2786ecdd' => [
+        'It\'s funny the way most people love the dead. Once you are dead, you are made for life.',
+        'Jimi Hendrix',
     ],
-    '647a8303-5bdb-5f3e-8c51-3876e2e4a52e' => [
-        'I am suggesting that as we go through life, we \'accentuate the positive.\' I am asking that we look a little deeper for the good, that we still our voices of insult and sarcasm, that we more generously compliment and endorse virtue and effort.',
-        'Gordon B. Hinckley',
+    'a00ef6f0-964e-5a78-8f6c-a430d886a7f0' => [
+        'The ego is only an illusion, but a very influential one. Letting the ego-illusion become your identity can prevent you from knowing your true self. Ego, the false idea of believing that you are what you have or what you do, is a backwards way of assessing and living life.',
+        'Bertrand Russell',
     ],
-    'c4bfe5ad-fb9d-5276-9be3-fd15a4186b42' => [
-        'Do not pray for easy lives. Pray to be stronger men.',
-        'John F. Kennedy',
+    '3bcca1db-3d3f-50b2-bf2a-5c2ab2a809cb' => [
+        'Great men show politeness in a particular way; a smile suffices to assure you that you are welcome, and keep about their avocations as if you were a member of the family.',
+        'John James Audubon',
     ],
-    '293f32e5-df3e-526a-9de1-4d849609dc72' => [
-        'It is not ignorance but knowledge which is the mother of wonder.',
-        'Joseph Wood Krutch',
+    '989822d2-4d1e-5c79-bd01-2987309f7999' => [
+        'I think young people should travel and travel often to other countries... like I do.',
+        'Henry Rollins',
     ],
-    'c5de5caf-3644-5dda-8a03-895c1fda6819' => [
-        'Until 1914 I loved to travel; I often went to Italy and once spent a few months in India. Since then I have almost entirely abandoned travelling, and I have not been outside of Switzerland for over ten years.',
-        'Herman Hesse',
+    '1d98fb2c-2780-5bfd-bde0-fb9bc873dc96' => [
+        'I love my iPhone; it\'s great to have a camera around all the time.',
+        'Win Butler',
     ],
-    'b5efe50f-e568-5c12-bfeb-700aa9771e0c' => [
-        'No one is so completely disenchanted with the world, or knows it so thoroughly, or is so utterly disgusted with it, that when it begins to smile upon him he does not become partially reconciled to it.',
-        'Giacomo Leopardi',
+    'f699ebf1-76f0-538a-8505-6e0577ff8205' => [
+        'There\'s no abiding success without commitment.',
+        'Tony Robbins',
     ],
-    'd2555509-07e8-52b4-bc0a-74943b552f27' => [
-        'All know the way; few actually walk it.',
-        'Bodhidharma',
+    'a8c8be9f-1ac1-53f8-9787-a906dc1f76c7' => [
+        'You cannot travel within and stand still without.',
+        'James Lane Allen',
     ],
-    '62b35af1-e275-515a-99a8-5cc5b62158eb' => [
-        'In America, our differences matter, but our country matters more. That\'s the attitude I wanted to take to the Senate.',
-        'Cory Booker',
+    '59432e68-30a4-5106-816d-674ab773f990' => [
+        'My family background was deeply Christian.',
+        'Abbe Pierre',
     ],
-    '3b609fb1-c54a-5fd7-8511-8e92456f5917' => [
-        'The past cannot be changed. The future is yet in your power.',
-        'Unknown',
+    'ef1f4bb7-9efd-5b6c-984a-3cf677c01e9b' => [
+        'When you\'re out of sight for as long as I was, there\'s a funny feeling of betrayal that comes over people when they see you again.',
+        'Esther Williams',
     ],
-    '24df2467-8d65-55ce-893d-eca107d55c2f' => [
-        'No parent is perfect; we all can look back and think of things we could\'ve done to help our children be better prepared for adulthood. And sometimes it\'s best to admit it to them and encourage them to learn from our mistakes.',
-        'Billy Graham',
+    '17b8c2cb-1e6a-5a1d-bee8-9f934812ddff' => [
+        'I will sit in the car on the way to a meeting and just smile. I really mean that. It helps you get through life. If you have nothing to say, smile. Look up at the sky and smile. Just be grateful.',
+        'Andre Leon Talley',
     ],
-    '6fbd6895-0aa1-5a55-8ea9-6d58161cc1e5' => [
-        'An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.',
-        'Thomas Fuller',
+    'fed37c49-3788-5135-a32a-64355ab03b22' => [
+        'No level of border security, no wall, doubling the size of the border patrol, all these things will not stop the illegal migration from countries as long as a 7-year-old is desperate enough to flee on her own and travel the entire length of Mexico because of the poverty and the violence in her country.',
+        'Jeh Johnson',
     ],
-    'f714b370-1979-5bf9-98ab-bcbae659e553' => [
-        'We live in the world when we love it.',
-        'Amy Poehler',
+    '2be444ef-da6d-52cb-9ff4-a02d34e7baec' => [
+        'I marketed pens - on the phone. But the beauty of the gig was that you had to call these strangers and say, \'Hi, how ya doing?\' You made up a name, like, \'Hey, it\'s Edward Quartermaine from California. You\'re eligible to receive this grandfather clock or a trip to Tahiti.\' You promise them all these things if they buy a gross of pens.',
+        'Johnny Depp',
     ],
-    '9532372d-ac20-595f-a69b-743be31f3ab1' => [
-        'I don\'t think anybody\'s goal is to be mediocre. I think everybody should want to be the best. I\'ve always felt that way. I want to be at the best at everything I do.',
-        'Justin Verlander',
+    'a40b73de-3a11-5355-84e8-7ab50c5e7b06' => [
+        'In general, I\'m not much into etiquette and am a rule-breaker and rebel by nature.',
+        'Chip Conley',
     ],
 ];

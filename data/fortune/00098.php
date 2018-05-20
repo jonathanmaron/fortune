@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'fc96f247-9667-5cab-ad5c-5d2d0d1cec46' => [
-        'Resist your fear; fear will never lead to you a positive end. Go for your faith and what you believe.',
-        'T. D. Jakes',
+    'd7b82f7c-054e-505c-a7bb-698a7c56136d' => [
+        'One man cannot practice many arts with success.',
+        'Plato',
     ],
-    'a6f63a0a-2a54-56a1-8fc2-4bfd1809f3bf' => [
-        'Circumstances in life often take us places that we never intended to go. We visit some places of beauty, others of pain and desolation.',
-        'Kristin Armstrong',
+    '8ff070a6-945b-59f1-a2b1-14821cc99bf3' => [
+        'Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!',
+        'Richard Bach',
     ],
-    'a07f348f-ca91-59da-b995-5ecb410f9155' => [
-        'Nothing will be beyond our reach when we make the flames of creating positive deeds flare up across the country with the virtues of the young vanguard as the initial spark and bring into full play the mounting vigour of the millions of young people.',
-        'Kim Jong-un',
+    'c7c503b0-3ecb-59dd-8936-a2870c01cc79' => [
+        'I refuse to join any club that would have me as a member.',
+        'Groucho Marx',
     ],
-    'bd589ed7-91c3-579e-b869-2ddc97f4bf05' => [
-        'The best solutions are often simple, yet unexpected.',
-        'Julian Casablancas',
+    'eecdfefa-a388-5e96-9fe8-e7cb1bbd9963' => [
+        'I have met so many people who are negative, and it tells on their attitude towards life and towards everything.',
+        'Phaneesh Murthy',
     ],
-    '409355ca-c152-5495-aad7-dfac12a3d2c2' => [
-        'I have seven children by six different mothers. Maybe success was too good to me.',
-        'Eazy-E',
+    'd01c54ba-b609-55df-a348-6c8779f65282' => [
+        'What better way to get to know a culture than to go there and learn their sports? And I say to people who tell me they can\'t travel, \'How much did you spend at the mall this year? How many times did you eat out? Take that money and go.\'',
+        'Dhani Jones',
     ],
-    '147378e5-d269-5ba9-aa35-a64eceb64e70' => [
-        'How long can men thrive between walls of brick, walking on asphalt pavements, breathing the fumes of coal and oil, growing, working, dying, with hardly a thought of wind, and sky, and fields of grain, seeing only machine-made beauty, the mineral-like quality of life?',
-        'Charles Lindbergh',
+    'a64bd879-7291-50c0-84a4-343f5ddea3c5' => [
+        'Happy people are ignoramuses and glory is nothing else but success, and to achieve it one only has to be cunning.',
+        'Mikhail Lermontov',
     ],
-    'c33fbaee-ff4f-52da-90e4-4f038f24ae1d' => [
-        'When I grew up here, there was no T-Hub. Probably, the closest to T was the Tank bund.',
-        'Satya Nadella',
+    '0e29e9d8-e151-5207-8b7f-6b01c81a5170' => [
+        'You really can change the world if you care enough.',
+        'Marian Edelman',
     ],
-    '33edcdf5-7af9-5a65-81de-7c89eb85291c' => [
-        'The truth is on the march and nothing will stop it.',
-        'Emile Zola',
+    'c9e40c7c-9049-59e9-aafe-9ed78e088e14' => [
+        'I\'m quite a particular singer, and I need to feel like I can bite into the song, in a way, to make it my own. You want the challenge of the songs having some attitude.',
+        'Neneh Cherry',
     ],
-    '8bb5f604-9ade-5746-8580-ce07da20a6bc' => [
-        'I cry at anything remotely touching - smile at me warmly and I\'m off... television also does it, everything from \'X-Factor\' to cereal commercials. I cry when I am tired. I also cry when I laugh.',
-        'Natalie Massenet',
+    '0863acf8-5955-51cf-93e1-f416897c6b81' => [
+        'I enjoy jokes, smiling, and making people smile. I may be a little different, but that\'s OK, who wants to be normal anyway?',
+        'Tim Duncan',
     ],
-    '2094ad5b-da27-5560-95e9-70d40464a346' => [
-        'Work is the meat of life, pleasure the dessert.',
-        'B. C. Forbes',
+    '86b99c97-b68a-54e4-b3a0-33854549b6fe' => [
+        'In the case of \'Ocean at the End of the Lane,\' it\'s a book about helplessness. It\'s a book about family, it\'s a book about being 7 in a world of people who are bigger than you, and more dangerous, and stepping into territory that you don\'t entirely understand.',
+        'Neil Gaiman',
     ],
-    'd6380c21-4bbb-526a-9e93-06323ff7bc1f' => [
-        'There\'s a time in your life where you\'re not quite sure where you are. You think everything\'s perfect, but it\'s not perfect... Then one day you wake up and you can\'t quite picture yourself in the situation you\'re in. But the secret is, if you can picture yourself doing anything in life, you can do it.',
-        'Tom DeLonge',
+    '20d497b0-c32f-55fd-b418-c631211901b4' => [
+        'He who has done his best for his own time has lived for all times.',
+        'Friedrich Schiller',
     ],
-    '47df86df-9654-51cd-a8b2-7fac65555bbc' => [
-        'Best way to get rid of kitchen odors: Eat out.',
-        'Phyllis Diller',
+    'f040c25f-c0b5-5600-80a4-76a6dc60b56d' => [
+        'No matter what anybody tells you, words and ideas can change the world.',
+        'John Keating',
     ],
-    'e2395421-d88f-5de2-a08d-5b4125b09544' => [
-        'Someone told me that when they go to Vermont, they feel like they\'re home. I\'m that way at Saks.',
-        'Caroline Rhea',
+    'a89e624b-af2c-51fd-85c7-8397d9c56a6a' => [
+        'You can never cross the ocean unless you have the courage to lose sight of the shore.',
+        'Unknown',
     ],
-    '7d92731c-f71a-505f-aafa-f4792101c5fd' => [
-        'I think that it\'s when we step out of the road, step outside the box, become our own person, and we walk fearlessly down paths other people wouldn\'t look at, that true progress comes. And sometimes true beauty as well.',
-        'John McAfee',
+    'c37fea45-90f3-5b8b-b3bb-2cf5de796f54' => [
+        'In hindsight, I slid into arrogance based upon past success.',
+        'Reed Hastings',
     ],
-    '018ce4ba-9dea-51d6-8e30-079a509b4cc1' => [
-        'Moments of complete apathy are the best for new creations.',
-        'Philip Breedveld',
+    '50314981-f099-5de1-b45a-c35d56bfb09d' => [
+        'Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.',
+        'Byron Pulsifer',
     ],
-    '3c416e7f-7eac-5fe9-870e-6d3d0ec8d8e1' => [
-        'It\'s so different when you change your hair color, you\'re treated so differently. It\'s a very funny experience. It\'s fun - I love changing up my hair.',
-        'Kate Bosworth',
+    'b8b8cd29-87c0-53e0-a00b-73766aa781b0' => [
+        'Play is the work of childhood.',
+        'Jean Piaget',
     ],
-    '2a08efb6-f0b4-5ca3-9bb4-3099c01d10b5' => [
-        'The same people who smile in my face would be the same ones to talk behind my back.',
-        'Timbaland',
+    'a5523682-186d-59b4-bb69-0618b092bad3' => [
+        'In the late \'70s, maybe just before I started, there was still an attitude that if you did film you didn\'t do TV and vice versa, but that\'s gone now.',
+        'Robert Carlyle',
     ],
-    '83536991-64dd-5b47-8999-1a7be977d63d' => [
-        'What is certain is that singing is not merely modulating a song by means of the voice: we sing and we celebrate the beauty that we can grow and live every day. If you want to sing and give emotions to those who are listening, you must have something to tell through your singing; you have to use singing like an instrument to tell something.',
-        'Andrea Bocelli',
+    'f1e393ce-ae45-5262-a741-c7705c9d5d50' => [
+        'Difficulties increase the nearer we get to the goal.',
+        'Johann Wolfgang von Goethe',
     ],
-    'd89b14f6-7573-52fd-9696-31c32ab6eaca' => [
-        'People are not lazy. They simply have impotent goals, that is, goals that do not inspire them.',
-        'Tony Robbins',
+    '5199437f-31ce-5bb2-8ab8-91c5bf532dad' => [
+        'I think it\'s huge that I\'m wearing my natural hair texture on ABC in prime time. As Dr. Rainbow Johnson on \'Black-ish,\' I think my hair is part of the reality of this woman\'s life. She has four children and is an anesthesiologist and a wife. She doesn\'t have a lot of time to fuss with beauty, so her look is pretty simple.',
+        'Tracee Ellis Ross',
     ],
-    'cac67772-953d-578f-acf9-b85432d72011' => [
-        'Life opens up opportunities to you, and you either take them or you stay afraid of taking them.',
-        'Elizabeth Barrett Browning',
+    'bb9d2e15-489a-564c-9d22-000a1ba3de66' => [
+        'Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.',
+        'Robert H. Schuller',
     ],
-    'd0921ac6-0972-55a4-abb8-048c624946d6' => [
-        'Andean skiing offers an unforgettable combination of beach-style weather, great snow and exotic travel. There are many attractions. Here on the fringes of the Andes, skiers will find few lift queues, tickets 50% cheaper than France, and unique scenery that includes condors and Mount Aconcagua, the highest peak outside the Himalayas.',
-        'Jonathan Franklin',
+    '08028193-8b74-5a01-993a-fd89e364ab07' => [
+        'I\'m just cruising, doing me, having a good time and focusing on getting better.',
+        'Alistair Overeem',
     ],
-    'a6e14fb5-c1dc-5dd9-831a-8736b31168a4' => [
-        'Do not give your attention to what others do or fail to do; give it to what you do or fail to do.',
-        'Dhammapada',
+    'fe3575f3-8db8-5695-bd88-1801b2e05a7b' => [
+        'I would like to wish the England squad every success. I would also very much like to extend those wishes to Martin Johnson, Brian Smith, Mike Ford, John Wells, Graham Rowntree and the rest of the England 2011 World Cup management team who have been fantastic and deserve people to know that.',
+        'Jonny Wilkinson',
     ],
-    '0ef273a6-d483-52f8-a2c4-cb2380852c8e' => [
-        'A bad review is like baking a cake with all the best ingredients and having someone sit on it.',
-        'Danielle Steel',
+    '24c84956-46ca-5720-9b30-32283fa23342' => [
+        'Financial freedom is available to those who learn about it and work for it.',
+        'Robert Kiyosaki',
     ],
-    '47d3121d-46a9-58ec-9c60-c6e87d31dc91' => [
-        'The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.',
-        'Vince Lombardi',
+    'd7221e0d-fbf5-5fa2-bffa-3785ef24a312' => [
+        'Life\'s challenges are not supposed to paralyze you, they\'re supposed to help you discover who you are.',
+        'Bernice Johnson Reagon',
     ],
-    'e948c196-b918-5a7f-906b-94fb2667b64f' => [
-        'I\'m so envious of that genetic wiring that immediately puts a smile on your face. My genetic wiring just puts creases in my eyebrows.',
-        'Chris Pine',
+    '8a8810f7-0f29-5597-8fa3-539250d678b6' => [
+        'There\'s enormous progressive activism and, more often than not, success at the grassroots level - everything from living wage campaigns to efforts to finance our elections are having terrific success.',
+        'Jim Hightower',
     ],
-    'cbf26480-dc44-5878-8a48-a8ff186d9390' => [
-        'I appreciate the \'Surreal Life.\' I had a really positive experience on that show, and with those people. I found some love in my heart for religion again, and had the support of a new family of friends. I wouldn\'t have had the pleasure of meeting those people, if we were not all placed in that fishbowl.',
-        'Vince Neil',
+    'b886e34a-403e-5383-bbe4-891b6f12a169' => [
+        'No one really has a bad life. Not even a bad day. Just bad moments.',
+        'Dale Evans',
     ],
-    '8cedb0ad-5674-5f41-92e2-5d308c14c340' => [
-        'The harder you work... and visualize something, the luckier you get.',
-        'Seal',
+    'a695d0a3-114e-570f-bb5e-a1d8a2f734c2' => [
+        'Today\'s youth are told to get rich or die trying and they really shouldn\'t take that attitude forward with them.',
+        'Kareem Abdul-Jabbar',
     ],
-    'db880f8f-241e-59df-84b2-4477d387c2fd' => [
-        'Beauty is a relation, and the apprehension of it a comparison.',
-        'Gerard Manley Hopkins',
+    '0443bb4a-6ba2-590f-95e7-9af2f907c31e' => [
+        'Any Republican who says he can work with Hillary Clinton is a traitor to the nation.',
+        'Ann Coulter',
     ],
-    '4ff298ce-e016-59fd-b150-1e482c8be77a' => [
-        'There is a part of me that still wants to go out and grab a backpack and unplug - not take a cellphone or even a camera and just get out there and experience the world and travel. I have yet to do that, but someday I hope.',
-        'Emilio Estevez',
+    '5220a2fe-886e-5e13-9bf8-bc1e592206a2' => [
+        'Most of what we call management consists of making it difficult for people to get their work done.',
+        'Peter Drucker',
     ],
-    'bd495b63-0f22-56ab-968a-27e3ef55723d' => [
-        'I come from a law enforcement family. My grandfather, William J. Comey, was a police officer. Pop Comey is one of my heroes. I have a picture of him on my wall in my office at the FBI, reminding me of the legacy I\'ve inherited and that I must honor.',
-        'James Comey',
+    '3db3bb08-8228-5a3b-976b-fb2bb9e1379e' => [
+        'I like drama. I love being in a drama where I get to be the funny guy. That\'s what I really love the most.',
+        'John Leguizamo',
     ],
-    'fde2df15-987b-5134-9875-1307495509a3' => [
-        'The historic ascent of humanity, taken as a whole, may be summarized as a succession of victories of consciousness over blind forces - in nature, in society, in man himself.',
-        'Leon Trotsky',
+    '543b7aba-a79e-5005-a1f9-dd54f88b5696' => [
+        'Someone is sitting in the shade today because someone planted a tree a long time ago.',
+        'Warren Buffett',
     ],
-    '50648e01-b91c-5f56-b01e-84f5aa921624' => [
-        'Work isn\'t to make money; you work to justify life.',
-        'Marc Chagall',
+    '2ef300d1-06d0-5635-ae83-71b7eeeed4c4' => [
+        'We\'ve been trained since kindergarten: Be nice, be kind, share, put on a smile. So we\'re conditioned to squash our natural selfish instincts, and that\'s the right thing for society.',
+        'Bryan Cranston',
     ],
-    '0ca7976a-35da-55b3-ac6e-41b372471353' => [
-        'Politeness is to human nature what warmth is to wax.',
-        'Arthur Schopenhauer',
+    '0711e500-bbed-5bd5-ab7d-acc7899f4259' => [
+        'I really have created a family. I work with the people I love, I travel with them, I make films with them, and I\'m in an office with them. So in a weird way - I know I haven\'t birthed a child - I feel that I\'m a part of creating a family. It\'s a tribe. I love that word.',
+        'Drew Barrymore',
     ],
-    'b0afe521-6f79-56b8-af6d-e17a9d31f274' => [
-        'I don\'t think there\'s just one person for everyone. It would be very hard for me to be with a guy who was not bright or funny. And he\'d have to see the absurdities of the world, not exactly as I see them necessarily.',
-        'Erica Jong',
+    '6b081640-d71c-55d0-a09b-e801ca2a605c' => [
+        'Success is a journey, not a destination.',
+        'Ben Sweetland',
     ],
-    'b679caba-437e-5fc0-9ff6-95a582ba0caa' => [
-        'In the end, it\'s a mental maturity to let your best come out.',
-        'Lindsey Vonn',
+    'daf8d726-4d3f-55af-90dc-11e2964ab715' => [
+        'There\'s a fine line between stubbornness and the positive side of that, which is dogged determination.',
+        'Jeb Bush',
     ],
-    '3188ae67-bb64-5ab3-ab61-b27e7dc21725' => [
-        'My attitude is that if anybody of any age wants to read a book, let them, but I do think that no child would want to read \'Boneland.\'',
-        'Alan Garner',
+    'f6dd3bca-3925-583d-a936-120cf05472be' => [
+        'I grew up in a very spiritual home in a Liberty City neighborhood of Miami, FL. I was raised in the church, and my mother was a very inspirational person in my life.',
+        'Robert Battle',
     ],
-    '9fe42528-85ff-5d92-9d9b-d37333abe2a1' => [
-        'I find, in being black, a thing of beauty: a joy; a strength; a secret cup of gladness.',
-        'Ossie Davis',
+    '98124a59-61e9-52ec-a1f8-ddc6f53aef56' => [
+        'Think of all the beauty still left around you and be happy.',
+        'Anne Frank',
     ],
-    '96aba773-688b-5591-b180-d2ca4d63cf7a' => [
-        'A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.',
-        'Bernard Shaw',
+    '6156f09f-71a1-5bd6-9e8d-a7ac58725e3a' => [
+        'A smile is a light in the window of your face to show your heart is at home.',
+        'Unknown',
     ],
-    'a45a6591-a56b-5b3f-bd20-ee51e58dea1a' => [
-        'The definition of success to me is not necessarily a price tag, not fame, but having a good life, and being able to say I did the right thing at the end of the day.',
-        'Jeremy Luke',
+    'd82ec6fb-a33d-5559-a910-9a8c599281bf' => [
+        'I don\'t believe people are looking for the meaning of life as much as they are looking for the experience of being alive.',
+        'Marcus Aurelius',
     ],
-    '2747b118-eb5c-5c2f-ab7d-9aa9d03b560f' => [
-        'Permanent success cannot be achieved except by incessant intellectual labour, always inspired by the ideal.',
-        'Sarah Bernhardt',
+    'ed223732-d7a6-5bfb-ac7d-4419765980b3' => [
+        'I take great pride in all the tremendous success we\'ve enjoyed at CBS. And the good news is that I feel even more enthusiastic about what my terrific team and I will accomplish going forward.',
+        'Leslie Moonves',
     ],
-    '3323b379-a641-5bfb-a626-db18b6321a1b' => [
-        'I was born in South Africa during apartheid, a system of laws that made it illegal for people to mix in South Africa. And this was obviously awkward because I grew up in a mixed family. My mother\'s a black woman, South African Xhosa woman... and my father\'s Swiss, from Switzerland.',
-        'Trevor Noah',
+    '1eb3b85c-a84b-5fe9-a66f-46a6dcdabf29' => [
+        'Always work hard and have fun in what you do because I think that\'s when you\'re more successful. You have to choose to do it.',
+        'Simone Biles',
     ],
-    '44910298-50ae-5b8f-96fc-27f038b460a0' => [
-        'It\'s funny, in a way the actor is a writer. It\'s not like the two things are so separate as to be like apples and oranges. The writer and the actor are one.',
-        'Sam Shepard',
+    '01151cfb-4cfb-54b2-b754-ac182de0445f' => [
+        'When you have a dream that you can\'t let go of, trust your instincts and pursue it. But remember: Real dreams take work, They take patience, and sometimes they require you to dig down very deep. Be sure you\'re willing to do that.',
+        'Harvey Mackay',
     ],
-    'd142a6be-a1d4-56a1-ac62-4edc3cba2cc0' => [
-        'I was impressed by Hendrix. His attitude was brilliant. Even the way he walked was amazing.',
-        'Ritchie Blackmore',
+    'fb20d7c0-033f-581e-86ac-eb0e965b32b8' => [
+        'A lot of people deal with things that are bad. Once you\'ve been through something, you grow from it and you take a lot in. You can always turn it into something positive.',
+        'Chino Moreno',
     ],
-    '92ef15c1-1b8b-5a63-9148-a52ded6d04e7' => [
-        'What we achieve inwardly will change outer reality.',
-        'Plutarch',
+    '24397d68-f571-5ade-aa13-d1fecca6edc5' => [
+        'Art requires philosophy, just as philosophy requires art. Otherwise, what would become of beauty?',
+        'Paul Gauguin',
     ],
-    '66a33e87-28dd-5d57-8831-ac3a444861a1' => [
-        'Being an Arab leader has its rewards: the suite at the Waldorf-Astoria during the United Nations General Assembly, travel in your own plane, plenty of cash, even job security - whether kings, sheiks or presidents, with or without elections, most serve for life.',
-        'Elliott Abrams',
+    '8d8c5b01-705b-51be-bb62-49e9fc4aba04' => [
+        'I just believe in the goodwill of people, the power of people to do something positive.',
+        'Eddie Izzard',
     ],
-    '83d4ff13-f8aa-5527-8644-87ec08d7e197' => [
-        'Social media gives one a family to share one\'s life with.',
-        'Sonu Nigam',
+    'f8e14ee6-a6a2-5d85-9ba7-cb0e6e3e1691' => [
+        'I had the opportunity to go into the hospitals and talk to kids and see a kid and make him smile. Why? Because I\'m a special person? No. It had nothing to do with that. It has everything to do with me being the quarterback at the University of Florida. And to not take advantage of that is a shame.',
+        'Tim Tebow',
     ],
-    'be8b8189-d8ee-5ac9-9e22-89c42d2e3133' => [
-        'I bring people on stage with me. It\'s a good time, and people love to join in on the party. Show me a smile, and I\'ll show you one back.',
-        'Vanilla Ice',
+    '100ebd8b-1a54-5d49-81ed-f9dc1ed4b11a' => [
+        'The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.',
+        'Anais Nin',
     ],
-    '7b5b8482-6c55-5566-a6d5-0b53415ad01e' => [
-        'A committee is a group that keeps minutes and loses hours.',
-        'Milton Berle',
+    '619ca933-867c-5732-b753-535359834804' => [
+        'For me, physical beauty is never the reason for attraction to anyone.',
+        'Katrina Kaif',
     ],
-    'e20a3ae3-a3d0-5d66-97b5-ac2d188e00fa' => [
-        'I have always known what I wanted, and that was beauty... in every form.',
-        'Joan Crawford',
+    'a4328492-6132-51b6-98ab-2750279db8da' => [
+        'Originality is the fine art of remembering what you hear but forgetting where you heard it.',
+        'Laurence J. Peter',
     ],
-    'bc1bb839-52ea-5c3a-9e2c-91f0779075b2' => [
-        'Soup is a lot like a family. Each ingredient enhances the others; each batch has its own characteristics; and it needs time to simmer to reach full flavor.',
-        'Marge Kennedy',
+    '9f37163e-f151-58a7-b51b-a0b0ea78c573' => [
+        'I have always wanted to be a catalyst for bringing about positive change, inspiring others to choose goodness.',
+        'Shari Arison',
     ],
 ];

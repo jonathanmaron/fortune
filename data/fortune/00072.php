@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '13f26d85-46ba-50ec-83c7-bf588b039d5c' => [
-        'I may not be the number one movie star, or my films might not be doing too good. I am grateful for what life has offered me. I have got a great family, parents are together, have a great sister, I get to holiday. All these things make me grateful towards life, for everything. I always say - have an attitude of gratitude.',
-        'Sonam Kapoor',
+    'cdaa42d6-3c03-5047-b842-a0c2eb33231e' => [
+        'Our flag honors those who have fought to protect it, and is a reminder of the sacrifice of our nation\'s founders and heroes. As the ultimate icon of America\'s storied history, the Stars and Stripes represents the very best of this nation.',
+        'Joe Barton',
     ],
-    '62985b5e-d328-5174-b495-47887548b323' => [
-        'A happy family is but an earlier heaven.',
-        'George Bernard Shaw',
+    'e0536982-d897-55ef-ad20-3fefbc64e27b' => [
+        'Japan is the most intoxicating place for me. In Kyoto, there\'s an inn called the Tawaraya which is quite extraordinary. The Japanese culture fascinates me: the food, the dress, the manners and the traditions. It\'s the travel experience that has moved me the most.',
+        'Roman Coppola',
     ],
-    '99b33688-bd2f-5b35-85a3-605319e7a1db' => [
-        'If you go around being afraid, you\'re never going to enjoy life. You have only one chance, so you\'ve got to have fun.',
-        'Al Lopez',
+    'f6524db0-b86e-54f3-97c9-e5ad583ed720' => [
+        'For disappearing acts, it\'s hard to beat what happens to the eight hours supposedly left after eight of sleep and eight of work.',
+        'Doug Larson',
     ],
-    '9e2bd7da-097e-5f27-af35-f7989f15f5af' => [
-        'I travel the world, and I\'m happy to say that America is still the great melting pot - maybe a chunky stew rather than a melting pot at this point, but you know what I mean.',
-        'Philip Glass',
+    '952c49ad-985d-5106-ba5d-5493e5bf54c8' => [
+        'There\'s a great power in words, if you don\'t hitch too many of them together.',
+        'Josh Billings',
     ],
-    '89826e15-db54-513d-8772-2fb79103b461' => [
-        'Let the beauty of what you love be what you do.',
-        'Rumi',
+    '00fcf5bb-e3f1-5990-a769-f93d12bb4d0c' => [
+        'How can any person with a myopic view and harbouring intense parochial attitude even think of leading the nation?',
+        'Sharad Pawar',
     ],
-    '9526706d-db10-59b0-932d-a1d1d8ef4b8c' => [
-        'Your outlook on life is a direct reflection on how much you like yourself.',
-        'Lululemon',
+    'c7758e3e-ca78-5056-8f75-4b4e8584f925' => [
+        'Just as much as we see in others we have in ourselves.',
+        'William Hazlitt',
     ],
-    'c149ed12-f5f5-5cc1-8398-0b15bc661072' => [
-        'From success you get a lot of things, but not that great inside thing that love brings you.',
-        'Samuel Goldwyn',
+    '2650ef82-ff66-5eb2-baec-9b84d25e6651' => [
+        'I have an older sister named Haley and she wanted to be an actress. So I wanted to be an actress. It\'s really funny the way that some people don\'t give kids enough credit for like really being driven, and really wanting to do things so badly.',
+        'Hilary Duff',
     ],
-    'b7748a8f-e999-57d6-8a86-77bdc8d1f65b' => [
-        'My interpretation of the word \'ugly\'... I like ugly beauty. That can happen. In France, we have phrase \'jolie laide.\' We like certain women who are not pretty or cute - it\'s the opposite in France of pretty. It\'s more strange and interesting.',
-        'Francois Nars',
+    'f7a6e764-a133-5af0-b179-f42a2a48f13a' => [
+        'I can take all the negative energy and turn it into a positive simply by purging my soul through music. That\'s how powerful music can be.',
+        'Bow Wow',
     ],
-    'ae2b39e3-1fd5-5e40-b903-ae75fd60288c' => [
-        'There are really four \'headlines\' for me: honesty, integrity, hard work, and what I call a \'can-do\' attitude. You could call that \'can-do\' attitude optimism, but it is not Pollyannaish optimism. Rather, it is a \'we\'ll figure it out\' type of mentality.',
-        'Dylan Taylor',
+    '85a37848-3543-50df-8316-56d67e65f102' => [
+        'To know oneself, one should assert oneself.',
+        'Albert Camus',
     ],
-    '0a7a2ae9-a781-5125-9716-b21197b13461' => [
-        'In the United States, I am a great success, but I am not a celebrity.',
-        'Paulo Coelho',
+    'fe191478-5aec-5839-a1d2-d6a35ff25efe' => [
+        'To refrain from imitation is the best revenge.',
+        'Marcus Aurelius',
     ],
-    '82605630-9431-5f93-86c4-2c7c0fecb103' => [
-        'The first pages of memory are like the old family Bible. The first leaves are wholly faded and somewhat soiled with handling. But, when we turn further, and come to the chapters where Adam and Eve were banished from Paradise, then, all begins to grow clear and legible.',
-        'Max Muller',
+    'e99ed853-5494-5011-8d1e-fbf7ee037974' => [
+        'I need to complete my homework on time.',
+        'Malala Yousafzai',
     ],
-    'ce41b55a-7600-5016-b939-28f403197abf' => [
-        'Travel can be one of the most rewarding forms of introspection.',
-        'Lawrence Durrell',
+    'fb466c0d-222e-55c0-b9fe-16fd296cdf9d' => [
+        'It\'s really important to have balance, spend some time in nature, go to a few parties, enjoy my friends and really chill out.',
+        'Joakim Noah',
     ],
-    '0d2839eb-4d71-5c58-84d9-8d1761e4ddf4' => [
-        'I am my own muse, the subject I know best.',
-        'Frida Kahlo',
+    'ea6f2dcb-d324-539a-aaba-55e66a66dd9b' => [
+        'One person may need (or want) more leisure, another more work; one more adventure, another more security, and so on. It is this diversity that makes a country, indeed a state, a city, a church, or a family, healthy. \'One-size-fits-all,\' and that size determined by the State has a name, and that name is \'slavery.\'',
+        'David Mamet',
     ],
-    '2ff2902f-c04a-56d0-ab4d-bba017025351' => [
-        'Never apologize for showing feeling. When you do so, you apologize for truth.',
-        'Benjamin Disraeli',
+    '0018c87e-064e-554e-a373-e0c7b44db1cc' => [
+        'You see, with me, when I\'m nervous, I smile and laugh.',
+        'Paula Radcliffe',
     ],
-    'd71d06da-58b1-5f7a-81fc-dc5c10192ec8' => [
-        'True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well.',
-        'Bill Owens',
+    '6f26c644-eea2-59a5-9c32-0704f2f0fe60' => [
+        'I don\'t need plastic in my body to validate me as a woman.',
+        'Courtney Love',
     ],
-    '8ec93984-ec22-5f8d-afef-21af21ed6f7a' => [
-        'It is easy for me to love myself, but for ladies to do it is another question altogether.',
-        'Johnny Vegas',
+    'cfea3923-64ce-5c77-aa33-e3bba24e3139' => [
+        'Failure is not an option. Everyone has to succeed.',
+        'Arnold Schwarzenegger',
     ],
-    'b71e2d99-c756-56f7-a4c3-64a55f9729b5' => [
-        'The more you are positive and say, \'I want to have a good life,\' the more you build that reality for yourself by creating the life that you want.',
-        'Chris Pine',
+    '04e5d17c-2059-5100-9924-8e305955eb0c' => [
+        'I like to be as positive and as peaceful as possible, but reality says, you know, sometimes you get mad, sometimes you get antsy, sometimes you get aggravated.',
+        'Musiq Soulchild',
     ],
-    'a80dcead-5861-5be8-9cb6-97b7035038c7' => [
-        'The only thing that I travel with is an Ole Henriksen facial cleanser, something that my skin is used to avoid using different soaps at different hotels all the time, and Givenchy Man Pro-Energizing Massive Moisturizer. I usually keep my hair pretty short, too, so I don\'t require a lot of stuff.',
-        'Justin Timberlake',
+    '0cdcbfc2-1206-5069-9009-40db53a70f01' => [
+        'The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.',
+        'Henry Miller',
     ],
-    'b75471d0-fa98-5b29-9221-dd87d036c595' => [
-        'Those songs are about getting out; they\'re not about getting out of family. It wasn\'t about how family life was curtailing because I didn\'t know family life.',
-        'Bob Geldof',
+    '5fb86fe5-bebd-5c3f-a76e-f825e0046cff' => [
+        'The one thing that kept our family together was the music. The only thing that our family would share emotionally was to have our dad cry over something the kids did with music.',
+        'Dennis Wilson',
     ],
-    'ac417d14-97ba-514a-8dff-a2badca21586' => [
-        'Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication. Remember all things are possible for those who believe.',
-        'Gail Devers',
+    'b545018a-f6ed-5643-9e7c-cb2463b03ebe' => [
+        'Wise and humane management of the patient is the best safeguard against infection.',
+        'Florence Nightingale',
     ],
-    '227c5fe9-3674-5e69-863b-d8a7f240f4c7' => [
-        'I\'m very competitive by nature. And I like to be the underdog - It\'s the best way to win. To come from behind and win is a great feeling!',
-        'Zac Efron',
+    '27535eeb-d6a5-595c-a024-579acc008386' => [
+        'Dad could talk about peace and love out loud to the world, but he could never show it to the people who supposedly meant the most to him: his wife and son. How can you talk about peace and love and have a family in bits and pieces - no communication, adultery, divorce? You can\'t do it, not if you\'re being true and honest with yourself.',
+        'Julian Lennon',
     ],
-    '0dd737f6-836a-5039-a270-d810dca9c5a0' => [
-        'Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.',
-        'Pauline Kael',
+    '4d391170-0ccf-52a3-a6cd-078cf4100d9b' => [
+        'You have to be positive, and I\'m not just talking about athletics, this also applies to life.',
+        'Sheryl Swoopes',
     ],
-    '3bc5073e-7a85-5cfb-b277-bb829198ff6d' => [
-        'I have great respect for the men and women that have fought for this country. I have family, I have friends that have gone and fought for this country. And they fight for freedom, they fight for the people, they fight for liberty and justice, for everyone.',
-        'Colin Kaepernick',
+    '2d3b4092-af43-52e1-946b-9b4a898561a5' => [
+        'I think if there\'s something one needs to change with oneself, it doesn\'t have to happen in the New Year. You can do that any time you please - not that it\'s not a good inspirational tactic for the people that it works for.',
+        'Brittany Murphy',
     ],
-    'b6328797-cf24-54cc-bf8c-6a66024baee3' => [
-        'My mother always called me an ugly weed, so I never was aware of anything until I was older. Plain girls should have someone telling them they are beautiful. Sometimes this works miracles.',
-        'Hedy Lamarr',
+    '9d9f9494-f2cc-50c8-93a9-4958ec23d6e4' => [
+        'If people work together in an open way with porous boundaries - that is, if they listen to each other and really talk to each other - then they are bound to trade ideas that are mutual to each other and be influenced by each other. That mutual influence and open system of working creates collaboration.',
+        'Richard Thomas',
     ],
-    '3eb2d363-3ec9-5c08-8740-bffb9643131b' => [
-        'Being a mother and grandmother is the best of the best in my life. My grandchildren multiply the joy my daughters bring me.',
-        'Alexandra Stoddard',
+    'f8a70c72-163c-560a-87f0-7a00f1088f8f' => [
+        'Unless I can come in in the morning and smile, walk in the lobby and say, \'Good morning!\' - if I am stressed - I am not going to do a good job. Everybody is watching us. They are feeding off of our energy.',
+        'Angela Ahrendts',
     ],
-    'f5f1d952-737d-5bc8-ab92-631cb6ef73ef' => [
-        'Life isn\'t about getting and having, it\'s about giving and being.',
-        'Kevin Kruse',
+    'dfeaaa32-fae7-56d3-a86f-ca94885c283b' => [
+        'Law enforcement officers are never \'off duty.\' They are dedicated public servants who are sworn to protect public safety at any time and place that the peace is threatened. They need all the help that they can get.',
+        'Barbara Boxer',
     ],
-    'a4fb1cdd-aa7a-5325-82b0-d024aa7279ab' => [
-        'Don\'t believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you\'ll see the way to fly.',
-        'Richard Bach',
+    '929498d8-f44f-59f8-a3ad-be1f5b3b339d' => [
+        'You can never quit. Winners never quit, and quitters never win.',
+        'Ted Turner',
     ],
-    '012c3506-9030-5b5f-a4d6-7d08a93ec9a5' => [
-        'The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.',
-        'Albert Ellis',
+    'f3357b3d-b305-5bad-9b75-e502104a1944' => [
+        'Every year, I travel extensively in the autumn and the spring. I set most of the winter and summer aside for my family and my own tribal relatives. But during that traveling time, I often find myself visiting other native communities around the continent - perhaps a dozen or more each year.',
+        'Joseph Bruchac',
     ],
-    '513c52f6-8cf8-565b-a7e6-cb21978932be' => [
-        'I was a farm kid from the plains of South Venezuela, from a very poor family. I grew up in a palm tree house with an earthen floor.',
-        'Hugo Chavez',
+    '332b674e-935d-5ed1-8e62-74b3f5251767' => [
+        'Travelers repose and dream among my leaves.',
+        'William Blake',
     ],
-    '3d2ed2af-d3f1-55b8-9a4a-9b4b5c0f0790' => [
-        'The essential element of successful strategy is that it derives its success from the differences between competitors with a consequent difference in their behavior.',
-        'Bruce Henderson',
+    '7750f484-e6c0-5e29-8a64-d70b8dc36708' => [
+        'Thelonious Monk was one of the musicians I most connected with early on. I\'m a huge Betty Carter fan, and the way that Abbey Lincoln and Shirley Horn grew immensely from the time they were young is so inspirational.',
+        'Cecile McLorin Salvant',
     ],
-    '48c187bc-ec63-5cc5-87f0-c38a6036a769' => [
-        'Nothing exists except atoms and empty space; everything else is just opinion.',
-        'Democritus',
+    '0ca0f7be-5fd7-543f-9aa7-614cb9214e34' => [
+        'The Lord gave me \'Sojourner,\' because I was to travel up an\' down the land, showin\' the people their sins an\' bein\' a sign unto them. Afterwards, I told the Lord I wanted another name \'cause everybody else had two names, and the Lord gave me \'Truth,\' because I was to declare the truth to people.',
+        'Sojourner Truth',
     ],
-    '503ae449-4e32-52c1-9727-d0b4080660ac' => [
-        'Actually being funny is mostly telling the truth about things.',
-        'Bernard Sahlins',
+    '7ae434df-d900-5f1a-9942-db58ee6d9b91' => [
+        'Winners make a habit of manufacturing their own positive expectations in advance of the event.',
+        'Brian Tracy',
     ],
-    'edb0625b-30c1-5cdf-995d-95ddf69ab260' => [
-        'Chaos and Order are not enemies, only opposites.',
-        'Richard Garriott',
+    '2157b2da-3351-54d1-a8f9-a7fa26fdbebc' => [
+        'It is only with the heart that one can see rightly, what is essential is invisible to the eye.',
+        'Antoine de Saint-Exupery',
     ],
-    '8ad42124-93a2-568b-87e8-10ad50e0a6fe' => [
-        'Ninety-eight per cent of laughter is nothing to do with jokes, which do not deserve to bear the weight of all the funny stuff in the world.',
-        'Arthur Smith',
+    'b8d4c435-acd2-5759-ab8d-369535f08c27' => [
+        'You must stand for something! It does not have to be grand, but it must be a positive that brings light to someone else\'s darkness.',
+        'Anthony Carmona',
     ],
-    'f9ffebe5-a644-5fea-87b1-f72ec80fddf6' => [
-        'No spring nor summer beauty hath such grace as I have seen in one autumnal face.',
-        'John Donne',
+    'b670f4ab-6b9e-57f5-a546-f327cd811363' => [
+        'We aim above the mark to hit the mark.',
+        'Ralph Waldo Emerson',
     ],
-    'c526c578-53fc-57d2-91fd-91d360fc431b' => [
-        'It\'s often been said that you learn more from losing than you do from winning. I think, if you\'re wise, you learn from both. You learn a lot from a loss. You learn what is it that we\'re not doing to get to where we want to go. It really gets your attention and it really motivates the work ethic of your team when you\'re not doing well.',
-        'Morgan Wootten',
+    '3e5b9b7d-406e-5b57-8065-e0785b38a0c7' => [
+        'Woman must have her freedom, the fundamental freedom of choosing whether or not she will be a mother and how many children she will have. Regardless of what man\'s attitude may be, that problem is hers - and before it can be his, it is hers alone.',
+        'Margaret Sanger',
     ],
-    'bbb18cd7-5bd4-5f96-bee3-2502aa30a54a' => [
-        'Time you enjoyed wasting was not wasted.',
-        'John Lennon',
+    'c9eeae57-9a0d-5d00-98f4-3c16d2ea2b32' => [
+        'Good management consists in showing average people how to do the work of superior people.',
+        'John D. Rockefeller',
     ],
-    '8eff5c8c-ad99-5d73-8ce2-ded499201075' => [
-        'I love Jonathan Richman - I love a lot of his music, and the thing I really like about him is his attitude. He seems very happy, and the way he performs is like, \'Don\'t worry, everybody, just get into it. I\'m just having fun; I like when you guys are having fun.\'',
-        'Mac DeMarco',
+    '458c3119-a31b-5d95-8bb1-d6889be28291' => [
+        'A chain is no stronger than its weakest link, and life is after all a chain.',
+        'Groucho Marx',
     ],
-    '5743a186-32d1-545e-bcde-8bc6c7ba0400' => [
-        'I grew up playing music and enjoying good food, friends and family in my own backyard.',
-        'Rodney Atkins',
+    '098cc76e-dd02-5067-a94d-4db672e491d9' => [
+        'Joy is what happens to us when we allow ourselves to recognize how good things really are.',
+        'Marianne Williamson',
     ],
-    'baec65bd-bfa9-57c1-acb3-408ffae0b063' => [
-        'At this level, the individual perceives the maintenance of the expectations of his family, group, or nation as valuable in its own right, regardless of immediate and obvious consequences.',
-        'Lawrence Kohlberg',
+    'beb48846-a0f7-5cb3-b573-bc28acff2b6b' => [
+        'Unbeing dead isn\'t being alive.',
+        'John C. Maxwell',
     ],
-    'f03b810f-ae69-52c9-a03d-9a81919e824b' => [
-        'I like Bobby Flay\'s attitude and his approach towards food. I think he\'s just passionate and very honest. I find him very honest about food and cooking and ingredients and I admire that because I think that it\'s easy to get away from that for various reasons.',
-        'Alex Guarnaschelli',
+    'd908dba1-75f9-5986-9957-e248c63b1ba8' => [
+        'By nature, I keep moving, man. My theory is, be the shark. You\'ve just got to keep moving. You can\'t stop.',
+        'Brad Pitt',
     ],
-    '51a7039e-7bb0-569e-99f3-f62d95590a91' => [
-        'Always have an attitude of gratitude.',
-        'Sterling K. Brown',
+    '592f2dac-95ce-5fee-85fc-ba5778b5b787' => [
+        'Someone remembers, someone cares; your name is whispered in someone\'s prayers.',
+        'Unknown',
     ],
-    'e21372a8-f613-5175-b0dd-8ab5a3f3a07b' => [
-        'It\'s about having an active lifestyle, staying healthy, and making the right decisions. Life is about balance. Not everybody wants to run a marathon, but we could all start working out and being active, whether you walk to work or take an extra flight of stairs.',
-        'Apolo Ohno',
+    'e72d4b8f-4829-5b98-9d05-1601c8b1489a' => [
+        'It is the quality of our work which will please God, not the quantity.',
+        'Mahatma Gandhi',
     ],
-    '138cae57-9fe4-56ff-a427-2399dd48efac' => [
-        'Aim for the moon. If you miss, you may hit a star.',
-        'W. Clement Stone',
+    '73bbe43d-dce6-529e-a39f-6d286d810e3e' => [
+        'I\'m actually pretty shy in real life. But I guess in front of the camera, I focus.',
+        'Steve Jobs',
     ],
-    '19fe608b-5dd2-5975-af6a-c1932ab9b629' => [
-        'Most of the luxuries and many of the so-called comforts of life are not only not indispensable, but positive hindrances to the elevation of mankind.',
-        'Henry David Thoreau',
+    '4b28f091-6203-5bc7-836e-ef80fa0bec21' => [
+        'I love Snoop. I worked with him on \'Old School,\' and he\'s very accessible. He\'s very kind. He\'s always nice to everyone, to the crew. He\'s always got something positive to say. He\'s very childlike and loves to come and play. So, I had fun working with him.',
+        'Vince Vaughn',
     ],
-    '466f28bc-ea23-5ae1-a5d0-f5b26b7068bb' => [
-        'My father leaving the family shaped who I was and how I looked at the world. By the same token, my father telling me fairy tales that he had made up shaped me profoundly, too.',
-        'Kate DiCamillo',
+    '25a0c428-656f-5e5e-8e16-443c4576aff3' => [
+        'Beauty, n: the power by which a woman charms a lover and terrifies a husband.',
+        'Ambrose Bierce',
     ],
-    'af24e5db-949d-541d-8dd1-27b23074bcd1' => [
-        'I wanted my fans and my family and my friends to be proud of me.',
-        'Allen Iverson',
+    '020142bd-1381-5534-a8c8-e4d47153490d' => [
+        'I accidentally entered a youth pageant when I was 14. That\'s like a beauty pageant, but without the beauty. It was terrible.',
+        'Zooey Deschanel',
     ],
-    'af6cabdf-d054-510f-a1b0-b9dae59a72d4' => [
-        'Mine is a story about a teenage single mother who struggled to keep her young family afloat. It\'s a story about a young woman who was given a precious opportunity to work her way up in the world. It\'s a story about resiliency, and sacrifice, and perseverance. And you\'re damn right it\'s a true story.',
-        'Wendy Davis',
+    'aa548393-aabc-5b96-936e-e207395c883b' => [
+        'Ya gots to work with what you gots to work with.',
+        'Stevie Wonder',
     ],
-    '177a8a2c-9c02-5e27-b5df-3a2d2de31f90' => [
-        'Life is too short for long-term grudges.',
-        'Magdalena Neuner',
+    '23c4712c-58ee-5707-8c3b-7a7ae142c8fc' => [
+        'Never regret. If it\'s good, it\'s wonderful. If it\'s bad, it\'s experience.',
+        'Victoria Holt',
     ],
-    '7c6a9b50-4b4a-5419-8ae1-9d7a55c335cf' => [
-        'Happiness in intelligent people is the rarest thing I know.',
-        'Ernest Hemingway',
+    '066f9303-55d9-5d09-9157-a3880a8022b2' => [
+        'Tourists don\'t know where they\'ve been, travelers don\'t know where they\'re going.',
+        'Paul Theroux',
     ],
 ];

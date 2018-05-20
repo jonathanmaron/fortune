@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'e684d439-0a11-5399-9196-f24582cd6658' => [
-        'Setting an example is not the main means of influencing another, it is the only means.',
-        'Albert Einstein',
+    'fc9abc29-364a-5a61-b9e0-9cd85b7852a5' => [
+        'You can learn from everyone, the president or the cleaner. You need teachers in life, but they\'re not always school teachers or professors. You learn from ordinary people. You learn from travel, from just walking down the street.',
+        'Lapo Elkann',
     ],
-    '5fb901c9-e7cb-5347-bcaa-745a50a162d3' => [
-        'Thinking: the talking of the soul with itself.',
-        'Plato',
+    '8e8605c9-d199-5961-8007-fa578ddc71ac' => [
+        'It is the function of science to discover the existence of a general reign of order in nature and to find the causes governing this order. And this refers in equal measure to the relations of man - social and political - and to the entire universe as a whole.',
+        'Dmitri Mendeleev',
     ],
-    '16bd24f4-4195-58ba-bd0e-becced17d3b9' => [
-        'If you\'re going to have a bad attitude, you may as well not even tee it up that week because you probably won\'t play good anyways.',
-        'Jason Day',
+    'fe8ce658-a6c0-5aba-b8df-bc27a701e244' => [
+        'Monetary success is not success. Career success is not success. Life, someone that loves you, giving to others, doing something that makes you feel complete and full. That is success. And it isn\'t dependent on anyone else.',
+        'James Avery',
     ],
-    'b5223b87-8d23-588b-ae62-5bcf78a5de90' => [
-        'I have to stay alone in order to fully contemplate and feel nature.',
-        'Caspar David Friedrich',
+    '65eaf5bb-629b-5be1-985f-b19ab52a5b67' => [
+        'I\'m hungry for knowledge. The whole thing is to learn every day, to get brighter and brighter. That\'s what this world is about. You look at someone like Gandhi, and he glowed. Martin Luther King glowed. Muhammad Ali glows. I think that\'s from being bright all the time, and trying to be brighter.',
+        'Jay-Z',
     ],
-    'd33e3bb8-9586-5c35-b913-ecc8705f2dec' => [
-        'Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.',
-        'Winston Churchill',
+    'b70dfa55-aa76-5664-8dda-6852fb87f00e' => [
+        'My life comes down to three moments: the death of my father, meeting my husband, and the birth of my daughter. Everything I did previous to that just doesn\'t seem to add up to very much.',
+        'Gwyneth Paltrow',
     ],
-    '490a7ef8-4718-5d3f-b494-9586a21d125b' => [
-        'A discipline I have observed is an attitude of love and reverence to people.',
-        'Bessie Head',
+    'fcd66473-7a71-5a6d-b7c1-c3a6b49acbed' => [
+        'Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.',
+        'Blaise Pascal',
     ],
-    'fb21d21a-119f-55fe-a753-978ad0fb41dd' => [
-        'Opportunities don\'t happen, you create them.',
-        'Chris Grosser',
+    '2a303ef8-aefe-5374-a00f-23990f6075e2' => [
+        'Regardless of the gender of the highest wage earner, the balance of power in the relationship will suffer if the higher earner uses control of the purse strings as a system of reward and punishment. It will also suffer if the lower earner takes a chippy, haughty attitude to spending money they haven\'t actually generated themselves.',
+        'Marian Keyes',
     ],
-    '3ab280dd-e50d-5e9b-a699-b3c5939dfb02' => [
-        'There is nothing so stable as change.',
-        'Bob Dylan',
+    '3397972c-eda6-58d3-af23-2a5eb1a7d8cc' => [
+        'I think we all have our own personality, unique and distinctive, and at the same time, I think that our own unique and distinctive personality blends with the wind, with the footsteps in the street, with the noises around the corner, and with the silence of memory, which is the great producer of ghosts.',
+        'Octavio Paz',
     ],
-    'b009af7b-6ddf-522c-8458-9505a476e9c8' => [
-        'Normal is not something to aspire to, it\'s something to get away from.',
-        'Jodie Foster',
+    '2ddb7c2d-25d7-5bbf-b454-2297e1e8254c' => [
+        'This sunlight linked me through the ages to that past consciousness.',
+        'Richard Jefferies',
     ],
-    '63d00100-4d00-5fe3-88dd-19993ba748a8' => [
-        'Travelers are always discoverers, especially those who travel by air. There are no signposts in the sky to show a man has passed that way before. There are no channels marked. The flier breaks each second into new uncharted seas.',
-        'Anne Morrow Lindbergh',
+    'b7ceeefc-749e-559e-8096-d2c11b8910ed' => [
+        'I\'m a big advocate of the power of positive thinking, particularly for small businesses.',
+        'Kevin Plank',
     ],
-    'a2029d34-927e-5295-a3ce-b32d5ad7db72' => [
-        'I was never very good at exams, having a poor memory and finding the examination process rather artificial, and there never seemed to be enough time to follow up things that really interested me.',
-        'Paul Nurse',
+    '1efdbceb-fdbc-524b-9cf8-836d3462e67a' => [
+        'My dad was a very quiet person, and unbelievably tough. But my grandmother gave me my first look at negative thinking to bring about positive results. When I was just a little guy, anytime I came to my grandmother and said I wish for this or that, Grandma would say, \'If wishes were horses, beggars would ride.\'',
+        'Bobby Knight',
     ],
-    '5123b6a9-9c28-5e9c-8bcc-bfc746cb22b0' => [
-        'Loving oneself isn\'t hard, when you understand who and what \'yourself\' is. It has nothing to do with the shape of your face, the size of your eyes, the length of your hair or the quality of your clothes. It\'s so beyond all of those things and it\'s what gives life to everything about you. Your own self is such a treasure.',
-        'Pope Paul VI',
+    '2e055bbe-d7b0-5e0a-8b7d-905417c922b3' => [
+        'The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.',
+        'Bertrand Russell',
     ],
-    '2c39d3e5-a5ff-57d5-82a1-f701c648ba52' => [
-        'Design can have such a positive impact on the way people live and on their relationships and moods.',
-        'Genevieve Gorder',
+    '52dbe763-4725-503d-8606-ac033789755f' => [
+        'Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.',
+        'Anais Nin',
     ],
-    '80ed6f78-b53a-5570-8203-0f214f9ad01b' => [
-        'I\'m from a middle class family, but my father squandered all the money, so I didn\'t really run around with rich people.',
-        'Benjamin Clementine',
+    'd3636648-c852-5d8b-9e76-608afea2f68e' => [
+        'The most beautiful as well as the most ugly inclinations of man are not part of a fixed biologically given human nature, but result from the social process which creates man.',
+        'Erich Fromm',
     ],
-    'cc585d11-a78f-5f2e-9578-1ae92b65556d' => [
-        'Faith in oneself is the best and safest course.',
-        'Michelangelo',
+    '23239e58-2fd0-57a5-aa0f-2163bbc34277' => [
+        'One today is worth two tomorrows.',
+        'Benjamin Franklin',
     ],
-    '74bbf4da-56e3-57cb-8ea9-f12ed97dc5d5' => [
-        'I feel truth, beauty, love, grief, anger, intimacy &amp; alive in my body... Women in the global south live in their bodies much more than we in the global north. Not as distracted by patriarchy\'s controlling images - They know power is in their bodies. I am deeply grateful for the women who showed me the way home.',
-        'Jodie Evans',
+    '5727650c-bdd0-5c87-802b-21c952cbe969' => [
+        'I woke up one morning thinking about wolves and realized that wolf packs function as families. Everyone has a role, and if you act within the parameters of your role, the whole pack succeeds, and when that falls apart, so does the pack.',
+        'Jodi Picoult',
     ],
-    'f32a50f9-82a3-5f63-999c-1bb411e8a737' => [
-        'So during those first moments of the day, which are yours and yours alone, you can circumvent these boundaries and concentrate fully on spiritual matters. And this gives you the opportunity to plan the time management of the entire day.',
-        'Menachem Mendel Schneerson',
+    '35ae4cd7-018e-58d4-bab0-af9bb92b9a8f' => [
+        'I\'ve met so many who have opened doors for me and remained in my life both personally and professionally. After a while, networking doesn\'t feel like \'networking.\' It\'s both serendipitous and unpredictable, and something that just naturally becomes part of your work life and your personal life.',
+        'Narciso Rodriguez',
     ],
-    'a50225d8-88e6-5612-9925-0bd9bc984f98' => [
-        'Money and success don\'t change people; they merely amplify what is already there.',
-        'Will Smith',
+    'a648808e-289e-5116-b8dc-5d8e259f2f4f' => [
+        'I always loved aesthetics. Not particularly fashion, but an idea of beauty.',
+        'Miuccia Prada',
     ],
-    '2085eec6-4f15-5da3-b0de-4b392f1b0d08' => [
-        'Luck is not chance, it\'s toil; fortune\'s expensive smile is earned.',
-        'Emily Dickinson',
+    'a2a29c36-954f-5f2e-8a5d-350c42dfd757' => [
+        'All travel has its advantages. If the passenger visits better countries, he may learn to improve his own. And if fortune carries him to worse, he may learn to enjoy it.',
+        'Samuel Johnson',
     ],
-    'c66a3130-bc7a-5b11-bb56-ecc8cfc38c3e' => [
-        'The meaning of life is to find your gift. The purpose of life is to give it away.',
-        'Unknown',
+    '688f7d6a-6915-56d0-9bc5-a3037ee7ada4' => [
+        'Whether in success or in failure, I\'m proud of every single movie I\'ve ever directed.',
+        'Steven Spielberg',
     ],
-    '8adc4d57-5bc1-5143-bbc1-0556916ff018' => [
-        'Always think of what is useful and not what is beautiful. Beauty will come of its own accord.',
-        'Nikolai Gogol',
+    '33157a80-637d-5291-88bb-2dd842ed0ed1' => [
+        'A man can be drawn across the room with the simplicity of a smile. That\'s why your pearly whites should always be straight and shiny. I think most of my clients are drawn to a fun, flirty nature in a woman. The problem is, most women do not often feel fun and flirty.',
+        'Patti Stanger',
     ],
-    '9b2aa55d-5a58-55df-b207-117d2d796f98' => [
-        'Your goals don\'t care how you feel.',
-        'Unknown',
+    '2198ec68-84d4-5440-b3a3-cecd8e1b5158' => [
+        'You don\'t have to give birth to someone to have a family.',
+        'Sandra Bullock',
     ],
-    'f1c541c3-aaaf-5078-a15e-c8295ca960fd' => [
-        'Integrity of life is fame\'s best friend, which nobly, beyond death, shall crown in the end.',
-        'John Webster',
+    'becd43bb-2aeb-57ef-80e6-0dbe60def513' => [
+        'The ocean is a mighty harmonist.',
+        'William Wordsworth',
     ],
-    'c6390e16-5fbd-5589-84db-2f0436615ab6' => [
-        'Winning isn\'t everything, but it beats anything in second place.',
-        'William C. Bryant',
+    'd638520b-62d6-57cc-8908-863c297bd228' => [
+        'Despite my firm convictions, I have always been a man who tries to face facts, and to accept the reality of life as new experience and new knowledge unfolds. I have always kept an open mind, a flexibility that must go hand in hand with every form of the intelligent search for truth.',
+        'Nicole Ari Parker',
     ],
-    '455a1754-1b19-585b-82db-2fdc69e5aba8' => [
-        'We\'re made for the light of a cave and for twilight. Twilight is the time we see best. When we dim the light down, and the pupil opens, feeling comes out of the eye like touch. Then you really can feel colour, and experience it.',
-        'James Turrell',
+    '4e5c20d6-7123-552c-91d9-5177c898c2cd' => [
+        'Scientists have demonstrated that dramatic, positive changes can occur in our lives as a direct result of facing an extreme challenge - whether it\'s coping with a serious illness, daring to quit smoking, or dealing with depression. Researchers call this \'post-traumatic growth.\'',
+        'Jane McGonigal',
     ],
-    '04e5d17c-2059-5100-9924-8e305955eb0c' => [
-        'I like to be as positive and as peaceful as possible, but reality says, you know, sometimes you get mad, sometimes you get antsy, sometimes you get aggravated.',
-        'Musiq Soulchild',
+    '251d6953-8852-5d25-868e-6d56ad68bd18' => [
+        'Bad times have a scientific value. These are occasions a good learner would not miss.',
+        'Ralph Emerson',
     ],
-    'd079d20f-c464-5968-87df-3ba2312697ea' => [
-        'I aimlessly travel, meaning I have no agenda other than to get small in the world, be quiet and observe people.',
-        'Walton Goggins',
+    'db2c1384-af1f-5ab6-93b0-723ae47dd5e0' => [
+        'I believe there are two periods in life, one for the bike, the other for becoming active on one\'s work.',
+        'Bernard Hinault',
     ],
-    '9d3c4437-6adf-5a58-8071-473694f5e881' => [
-        'I relax by catching up with my friends and family. When I am at home in Ibiza, I find the contrast of living on a divided island relaxing - with beauty and tranquillity in the north and a sense of fun, shallowness and celebration in the south.',
-        'James Blunt',
+    'f18da2ba-533f-5af8-9aa4-4cbda6b6796b' => [
+        'The best books... are those that tell you what you know already.',
+        'George Orwell',
     ],
-    '35f2f7e6-d0a4-5472-a4cd-578b7b699099' => [
-        'Some twins feel like they need to compare themselves to each other, but we\'re not that way. That\'s because of my parents, though, and having six kids in the family.',
-        'Ashley Olsen',
+    'f0eb4fbe-d768-595a-aed0-c5a04feacf0f' => [
+        'Intuition will tell the thinking mind where to look next.',
+        'Jonas Salk',
     ],
-    '624e7ff8-2e55-5d9f-9437-265617435e12' => [
-        'After my husband John Lennon passed away, I tried to smile for my health.',
-        'Yoko Ono',
+    '14e60f34-c8a8-5d63-b6f2-c9987a36a731' => [
+        'To fly, we have to have resistance.',
+        'Maya Lin',
     ],
-    '76121e23-0be3-5f21-9dff-3dc541618ba2' => [
-        'I would warn you that I do not attribute to nature either beauty or deformity, order or confusion. Only in relation to our imagination can things be called beautiful or ugly, well-ordered or confused.',
-        'Baruch Spinoza',
+    'cef82176-7619-5b60-b4a8-b6d338cae569' => [
+        'The big problem of our modern society is that we feel that we are separated from the nature. But it\'s just the opposite. We are interrelated and our DNA is the same. And only when human beings understand that, the nature will not be obstacle.',
+        'Marina Abramovic',
     ],
-    'f67793c9-c616-5536-9d38-20d36f88bc71' => [
-        'When I eventually met Mr. Right I had no idea that his first name was Always.',
-        'Rita Rudner',
+    '8dd949cd-28dc-59a9-a361-55f6ebefcc95' => [
+        'The beauty of dystopia is that it lets us vicariously experience future worlds - but we still have the power to change our own.',
+        'Ally Condie',
     ],
-    '1d694099-86b9-538f-b42e-e05b2f02c5af' => [
-        'Ever since studying in Russia as a college student, I had been in a long-distance, one-sided love affair with Chechnya\'s remarkable history, culture and rugged natural beauty.',
-        'Anthony Marra',
+    '4777ada8-10fc-5056-8b80-df2b0c986697' => [
+        'I walk slowly, but I never walk backward.',
+        'Abraham Lincoln',
     ],
-    '45cf24ab-c4db-5c01-91e4-a31d7fa3f80f' => [
-        'Cherish your human connections - your relationships with friends and family.',
-        'Barbara Bush',
+    'adc8bdc1-5ad1-53f9-b531-d388e4bbb335' => [
+        'If you have a friend or a family member who\'s bipolar, or has panic attack disorder, or is depressed, read up on it a little bit so you can get to know where they\'re coming from.',
+        'Eric Millegan',
     ],
-    'ee671715-9f4f-5baa-9c16-e3c399905ef8' => [
-        'Nature knows no pause in progress and development, and attaches her curse on all inaction.',
-        'Johann Wolfgang von Goethe',
+    'e76fc82e-72ce-5a53-b4d5-f9cbacd98c1c' => [
+        'Country music in the mid-\'90s was a big influence on my career, and I played all the songs that are referenced in \'94\' back in my club days. Joe Diffie was rocking a sick mullet, and he was hotter than ever... just putting out monster hit after monster hit. It totally takes me back to those days, and it makes me smile every time I hear it.',
+        'Jason Aldean',
     ],
-    '7158a292-2dad-5edd-8b75-2e2c259b6363' => [
-        'If you aren\'t going all the way, why go at all?',
-        'Joe Namath',
+    'b1f9536b-e83c-5907-8693-71a783093cad' => [
+        'So it allows me to travel, I\'ll be doing that and running these great rivers and doing what I\'ve done in the past without much purpose other than for the experience.',
+        'Richard Dean Anderson',
     ],
-    'ddd5e9e8-ae89-56c9-8cae-afa9e01436b0' => [
-        'I\'d rather attempt to do something great and fail than to attempt to do nothing and succeed.',
-        'Robert H. Schuller',
+    'a4775a85-0e46-5ab4-991a-32ca86df3fdb' => [
+        'There are few aspects of everyday life that aren\'t touched by the technologies developed for space travel.',
+        'Scott Kelly',
     ],
-    'c8a08e54-fbf5-522c-8883-3e79f8610f60' => [
-        'I\'m used to adversity and working really well in difficult situations. It was hard for me to accept the success.',
-        'Paula Cole',
+    'db83f24c-eaaa-59bd-88e9-e92da32e5dad' => [
+        'When a kid graduates from being the youngest in a family to being a big brother or sister, there\'s an amazing transformation. They have to make a big effort, and when they accept their new position in the family, everybody breathes a sigh of relief. All of a sudden they seem bigger, and they seem smarter, and they feel good about it, too.',
+        'Peggy Rathmann',
     ],
-    'a5671d76-74ce-54ca-a98f-e48a95df457c' => [
-        'If I ever do anything, it actually might be some fantasy elf thing or even some cute, funny thing. Just to do something a little bit out of the ordinary. I\'ve done my superhero gig.',
-        'Todd McFarlane',
+    '72edc9f8-6b0c-5e60-9c87-559c2f436593' => [
+        'I\'m learning all the time. I\'m evolving all the time as a human being. I\'m getting better, I hope, in all of the important ways.',
+        'Neil Peart',
     ],
-    'ba52c8c1-a277-5000-a9e9-b4095de00100' => [
-        'For, to be a stranger is naturally a very positive relation; it is a specific form of interaction.',
-        'Georg Simmel',
+    '290406b2-d9d9-5645-879e-f9d4305005e6' => [
+        'Having no competition is a bad thing. Competition makes you try to improve yourself all the time.',
+        'Shu Qi',
     ],
-    '5fb46e12-97f7-5e14-9534-7d9afe16700e' => [
-        'Doing and making positive programming for young people is so important to me, and I will keep doing it.',
-        'Zendaya',
+    '06a53aa2-49b8-5f9e-bf30-51005b95d6fe' => [
+        'Beauty is an outward gift, which is seldom despised, except by those to whom it has been refused.',
+        'Ralph Waldo Emerson',
     ],
-    '2994d0dd-9f03-5f14-bf94-7646f20780a3' => [
-        'The only yardstick for success our society has is being a champion. No one remembers anything else.',
-        'John Madden',
+    '8f6edc40-7ddd-53c1-85dc-b4da6529f67b' => [
+        'More brands are waking up to their social responsibility and doing good work through cause marketing campaigns. Yet too many still go about it the wrong way. I mean \'wrong\' in two senses. Firstly, they are marketing ineffectively, and secondly, as a consequence their positive social impact is not maximized.',
+        'Simon Mainwaring',
     ],
-    '9b3a47a8-f605-540a-95c7-ef6bc9016e76' => [
-        'You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.',
-        'Brian Tracy',
+    '3125bb41-ec76-540f-acf7-aa9b0cb89bc5' => [
+        'Looking at flowers, simple things in life. I don\'t need to look at gold and a castle; sometimes its very simple things that are very beautiful. I am keeping my eyes fresh to find beauty in many places, and in gold, too, sometimes!',
+        'Francois Nars',
     ],
-    '97e6a8b3-1121-5052-a30a-91a1ac4e1e78' => [
-        'The diversity of the phenomena of nature is so great, and the treasures hidden in the heavens so rich, precisely in order that the human mind shall never be lacking in fresh nourishment.',
-        'Johannes Kepler',
+    'fcbe38a5-d39e-5b90-adec-71bab259190c' => [
+        'I grew up with just my mom. She and I were like best friends. She\'s a very independent woman and I admire that about her. In my life, I\'ve tried to be like that. To be okay with being on my own and being independent.',
+        'Emma Roberts',
     ],
-    'c7a82120-f876-5a3e-b0db-24bcc9c7daf4' => [
-        'Nothing is work unless you\'d rather be doing something else.',
-        'George Halas',
+    'fda56a78-2192-5a0b-baca-b0f0ece0922b' => [
+        'As our case is new, we must think and act anew.',
+        'Abraham Lincoln',
     ],
-    'e03ad6fa-fbf9-5c41-96fb-19e0c9256249' => [
-        'By doing something positive in this world, you\'re helping people and the future. We\'re all trying to help the world... make it a better place to live. We\'re actually still changing the world, aren\'t we?',
-        'Rick Danko',
+    '062878e6-9227-5fca-9d41-94eef56eae97' => [
+        'We tell them that we believe it will be beautiful because that is our specialty, we only create joy and beauty. We have never done a sad work. Through the drawings, we hope a majority will be able to visualize it.',
+        'Christo',
     ],
-    'c4ad0f14-93af-5126-90c4-9446507dbee5' => [
-        'I like long walks, especially when they are taken by people who annoy me.',
-        'Fred Allen',
+    '6ddfcf3d-3381-5365-926f-7a872df4b977' => [
+        'So, my style has hopefully changed over the years and it is more relaxed, and I do tend to smile and have more than one expression these days hopefully - which I didn\'t at the beginning.',
+        'Jo Brand',
     ],
-    '4c5b5d58-5ac7-59b9-a40c-cec7f51a066d' => [
-        'I believe every chess player senses beauty, when he succeeds in creating situations, which contradict the expectations and the rules, and he succeeds in mastering this situation.',
-        'Vladimir Kramnik',
+    '4bc15e7d-5d0c-5a64-b95f-cdf6254e403e' => [
+        'Music washes away from the soul the dust of everyday life.',
+        'Pablo Picasso',
     ],
-    'b416dcf4-a4a0-52e9-8060-fb3d82746a08' => [
-        'My dementia hasn\'t just affected me - it\'s affected my friends and family, too.',
-        'Gerry Anderson',
+    '83e487b2-06df-575b-beb6-57088aa0e6c3' => [
+        'Those who look for the laws of Nature as a support for their new works collaborate with the creator.',
+        'Antoni Gaudi',
     ],
-    '1596eee5-a30c-5b9b-947e-d3f8bf8f3dcd' => [
-        'I believe that in life, you have to give things your best shot, do your best. You have to focus on what needs to be done, do the right thing, not the popular thing.',
-        'David Cameron',
+    '7a575076-1b23-5e75-82b3-7f3d479c671e' => [
+        'I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings that I have are all worthy and okay.',
+        'Tracee Ellis Ross',
     ],
 ];

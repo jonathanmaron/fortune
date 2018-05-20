@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '457807c7-44f3-5017-9b2f-b4cce45627e9' => [
-        'The word \'spinster\' tells you everything you need to know about our attitude of women who choose not to marry.',
-        'Caitlin Moran',
+    '977e83e5-5312-540e-9044-024bd45692d7' => [
+        'I can barely conceive of a type of beauty in which there is no Melancholy.',
+        'Charles Baudelaire',
     ],
-    'a510129a-49cc-5b16-a13b-de8c31a28717' => [
-        'I wish everyone well, but you need to focus on yourself. You need to stop putting your hand out. Everyone wants hand outs. Everyone wants things for free. You\'ve got to put in the work. You\'ve got to grind. You\'ve got go through the struggle, and you\'ve got to get it.',
-        'Conor McGregor',
+    'acce538b-9659-5f5a-a48e-fb6c01dc6e12' => [
+        'Opportunities to find deeper powers within ourselves come when life seems most challenging.',
+        'Lao Tzu',
     ],
-    '784c157e-e747-5053-825b-119784aa0e91' => [
-        'It\'s fun to be on the edge. I think you do your best work when you take chances, when you\'re not safe, when you\'re not in the middle of the road, at least for me, anyway.',
-        'Danny DeVito',
+    'b318a144-3225-5e9e-a493-293b29f97592' => [
+        'In modern life, we tend to forget family values because of the hectic schedule.',
+        'Mahesh Babu',
     ],
-    '6b842c14-be8b-59c0-970d-ea6a990b2970' => [
-        'Do not let a flattering woman coax and wheedle you and deceive you; she is after your barn.',
-        'Hesiod',
+    '2e5ee35b-0d2a-58c1-b71a-3a54b27a0e59' => [
+        'Live your days on the positive side of life, in tune with your most treasured values. And in each moment you\'ll have much to live for.',
+        'Ralph Marston',
     ],
-    'ebf88ea3-0f6e-5cba-a5aa-8e7a64fb39d7' => [
-        'I pray God may preserve your health and life many years.',
-        'Junipero Serra',
+    'fade7345-3657-5480-b71d-be7468033b4a' => [
+        'The biggest challenge we all face is to learn about ourselves and to understand our strengths and weaknesses. We need to utilize our strengths, but not so much that we don\'t work on our weaknesses.',
+        'Mae Jemison',
     ],
-    '4c191f7e-f7c0-5acf-952d-a87a3a766d7e' => [
-        'Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.',
-        'Cadet Maxim',
+    'c898d7ef-bd76-59a8-98f6-dfbeef5a0bec' => [
+        'Though I had success in my research both when I was mad and when I was not, eventually I felt that my work would be better respected if I thought and acted like a \'normal\' person.',
+        'John Forbes Nash, Jr.',
     ],
-    '8e33528c-39e1-5946-b192-11b39c0d44cf' => [
-        'Economic medicine that was previously meted out by the cupful has recently been dispensed by the barrel. These once unthinkable dosages will almost certainly bring on unwelcome after-effects. Their precise nature is anyone\'s guess, though one likely consequence is an onslaught of inflation.',
-        'Warren Buffett',
+    '7ed9fe3b-d03a-5615-8840-ae328b19af24' => [
+        'You do not travel if you are afraid of the unknown, you travel for the unknown, that reveals you with yourself.',
+        'Ella Maillart',
     ],
-    'fd5c735b-b390-55c2-808d-3c2dea72b9be' => [
-        'Any fact facing us is not as important as our attitude toward it, for that determines our success or failure. The way you think about a fact may defeat you before you ever do anything about it. You are overcome by the fact because you think you are.',
-        'Norman Vincent Peale',
+    '0b066792-15e2-5aeb-99c2-ffc0d79631bd' => [
+        'The human mind is capable of excitement without the application of gross and violent stimulants; and he must have a very faint perception of its beauty and dignity who does not know this.',
+        'William Wordsworth',
     ],
-    'dfe812fe-f6e1-5bfb-a6a3-c5509a573427' => [
-        'Life itself is the most wonderful fairy tale.',
-        'Amy Winehouse',
+    'ebaf9b1a-a4a8-5cfa-8654-49817a5cb4e6' => [
+        'Beauty is boring because it is predictable.',
+        'Umberto Eco',
     ],
-    '3702063b-a8f1-52e6-b2a9-4171cecb49d0' => [
-        'As far as I\'m concerned, \'whom\' is a word that was invented to make everyone sound like a butler.',
-        'Calvin Trillin',
+    'a51ddc5a-7717-5cc5-81a1-6192aab2d0a7' => [
+        'Family and moral values are so central to everything that I am.',
+        'Marian Wright Edelman',
     ],
-    '004acea7-244b-576c-b99b-94d2bb75701e' => [
-        'Surround yourself with the best people you can find, delegate authority, and don\'t interfere as long as the policy you\'ve decided upon is being carried out.',
-        'Ronald Reagan',
+    'd9019084-dac2-5e91-b9d4-83068a602f09' => [
+        'Smile at a stranger. See what happens.',
+        'Patti LuPone',
     ],
-    '60a75a4f-f797-5dd5-a32b-c3d2079b1f87' => [
-        'It is a great day anytime I can bring a smile to a girl or boy, knowing that I am helping to inspire them to always dream big.',
-        'Normani Kordei',
+    'e72f35ab-dea4-5943-a23f-1d8dbadc6231' => [
+        'Filipinos don\'t wallow in what is miserable and ugly. They recycle the bad into things of beauty.',
+        'Imelda Marcos',
     ],
-    '30a2c77d-f9e4-5191-869e-80273edeba90' => [
-        'Life was always a matter of waiting for the right moment to act.',
-        'Baltasar Gracian',
+    '52e49022-6286-50f1-b6ec-69f74fbdfbb3' => [
+        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
+        'Richard Bach',
     ],
-    'e48c6aa1-0d87-510d-a22d-5bfc4c1075de' => [
-        'Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.',
-        'e. e. cummings',
+    '7e446f6a-275c-5981-b8d2-d5935f6250d3' => [
+        'Always work hard. Intensity clarifies. It creates not only momentum, but also the pressure you need to feel either friction, or fulfillment.',
+        'Marcus Buckingham',
     ],
-    '18a92eb6-f4b3-57ad-9c91-cd9ba689825e' => [
-        'Familial betrayal is, to me, the most heartbreaking kind - because if you can\'t trust your family to love you and protect you, who can you really trust?',
-        'Alexandra Bracken',
+    '7a4de96d-6196-5af8-a41a-1f1a4fce63c0' => [
+        'Photography is the simplest thing in the world, but it is incredibly complicated to make it really work.',
+        'Martin Parr',
     ],
-    'cd656fef-9441-5edc-ad20-4124f2e67d49' => [
-        'A weed is no more than a flower in disguise.',
-        'James Lowell',
+    'e7644c43-610c-5468-857a-bcec45d4f745' => [
+        'Our most intimate friend is not he to whom we show the worst, but the best of our nature.',
+        'Nathaniel Hawthorne',
     ],
-    '585cf14c-dfac-553a-bfda-e0ddcfe7f9fd' => [
-        'Success depends in a very large measure upon individual initiative and exertion, and cannot be achieved except by a dint of hard work.',
-        'Anna Pavlova',
+    '44ac3e20-9cd1-5a5b-952d-3417708e1395' => [
+        'Entrepreneurs can\'t forecast accurately, because they are trying something fundamentally new. So they will often be laughably behind plan - and on the brink of success.',
+        'Eric Ries',
     ],
-    '7146ef70-2325-5e98-bc06-217cee4ab1e4' => [
-        'I try to make the good days great and take something positive from the days I\'m not feeling good - work on technique or something like that.',
-        'Katie Ledecky',
+    'f2405757-6205-5cf4-ba0e-52a4673dfb14' => [
+        'When we adopt a dog or any pet, we know it is going to end with us having to say goodbye, but we still do it. And we do it for a very good reason: They bring so much joy and optimism and happiness. They attack every moment of every day with that attitude.',
+        'Bruce Cameron',
     ],
-    '5fec6a17-301e-57ea-aab4-10178c963f63' => [
-        'There is nothing so useless as doing efficiently that which should not be done at all.',
-        'Peter Drucker',
+    '9be95669-ba69-5a45-8eb3-f83758c29700' => [
+        'Touch seems to be such an important tool for enhancing social cooperation and affiliation that we have evolved a special physical route along which those subliminal feelings of social connection travel from skin to brain.',
+        'Leonard Mlodinow',
     ],
-    '870e6550-0976-55e2-9f79-a5fca4793a61' => [
-        'A rejection is nothing more than a necessary step in the pursuit of success.',
-        'Bo Bennett',
+    'a94ba19a-ee18-5357-8bf9-e4f720cf8af1' => [
+        'By all means let\'s be open-minded, but not so open-minded that our brains drop out.',
+        'Richard Dawkins',
     ],
-    '6ac85270-cc40-54b8-bb58-7ba85079f97f' => [
-        'When I\'m ready, I plan to adopt. I still believe in family.',
-        'LaToya Jackson',
+    '19a5ab56-c025-524a-82fa-bc90c360a0a7' => [
+        'I have been honoured to serve the whales, dolphins, seals - and all the other creatures on this Earth. Their beauty, intelligence, strength, and spirit have inspired me.',
+        'Paul Watson',
     ],
-    '20f6a6e4-7766-5089-a972-3574918e5af0' => [
-        'Going home and spending time with your family and your real friends keeps you grounded.',
-        'Jennifer Ellison',
+    'e0a15e73-6e70-5a76-a761-e4f0f801b217' => [
+        'I have more love, success, and security than I could ever dream of.',
+        'George Michael',
     ],
-    '8a024e89-2ef5-5c24-ae36-60a20875506a' => [
-        'When I finally got the chance to do \'The People v. O.J. Simpson,\' my peers embraced me with the same attitude. They didn\'t make me feel small or insignificant. They treated me as a peer. It was a wonderful experience.',
-        'Sterling K. Brown',
+    '032f49d5-32c5-5474-9e9b-b0ff198a6148' => [
+        'I can\'t change my personality. I\'ll always smile, but I\'ll be more focused.',
+        'Katarina Johnson-Thompson',
     ],
-    'a53b5426-c49a-56ae-8c06-75b5c0d7de43' => [
-        'I never travel without my sketch book.',
-        'Ian Wright',
+    '209b256c-2474-5df8-ad2c-9f4d97ae2666' => [
+        'Talent alone won\'t make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: \'Are your ready?\'',
+        'Johnny Carson',
     ],
-    '322693e2-614a-5d2a-be82-ff5232c8912c' => [
-        'I thought, \'It doesn\'t matter what that woman is wearing,\' but then I realised actually it\'s our job as designers to make women smile; to bring them the chocolate without the calories.',
-        'Alber Elbaz',
+    'c0134c24-cf26-5941-a6c4-7963b4232565' => [
+        'The most effective way to do it, is to do it.',
+        'Amelia Earhart',
     ],
-    'c175b331-279a-550e-aba1-2e1bb10e72ad' => [
-        'Only by going alone in silence, without baggage, can one truly get into the heart of the wilderness. All other travel is mere dust and hotels and baggage and chatter.',
-        'John Muir',
+    'd759e77c-28a8-5e21-a5a0-ae1b058eb8b2' => [
+        'The tree which moves some to tears of joy is in the eyes of others only a green thing that stands in the way. Some see nature all ridicule and deformity... and some scarce see nature at all. But to the eyes of the man of imagination, nature is imagination itself.',
+        'William Blake',
     ],
-    '29ea15c5-16cc-54d1-973c-c961a7934b46' => [
-        'I think it\'s your mental attitude. So many of us start dreading age in high school and that\'s a waste of a lovely life. \'Oh... I\'m 30, oh, I\'m 40, oh, 50.\' Make the most of it.',
-        'Betty White',
+    '36c8f9be-21f1-5454-9bea-8611a5deae6f' => [
+        'We will be more successful in all our endeavors if we can let go of the habit of running all the time, and take little pauses to relax and re-center ourselves. And we\'ll also have a lot more joy in living.',
+        'Thich Nhat Hanh',
     ],
-    '788cae85-8f7a-51bb-a994-41912f3619cb' => [
-        'Good food and a warm kitchen are what makes a house a home. I always tried to make my home like my mother\'s, because Mom was magnificent at stretching a buck when it came to decorating and food. Like a true Italian, she valued beautification in every area of her life, and I try to do the same.',
-        'Giles Andreae',
+    'dc430fd5-b584-5b7e-ba73-13b4c6f6897c' => [
+        'There are two means of refuge from the miseries of life: music and cats.',
+        'Daniel H. Pink',
     ],
-    '50ed4f2d-48c3-5a32-b6c3-3a862198077e' => [
-        'Never tell me the sky\'s the limit when there are footprints on the moon.',
+    'f7740e0a-2923-548c-a716-7b299510364d' => [
+        'You can complain because roses have thorns, or you can rejoice because thorns have roses.',
+        'Ziggy',
+    ],
+    '44934dab-6676-52e3-a29e-c7f7efa61002' => [
+        'My attitude is, do as much as I can while I\'m free. And if I\'m arrested I\'ll still do as much as I can.',
+        'Aung San Suu Kyi',
+    ],
+    '7d0ee8ce-4c0e-525f-9140-daa4fbcf0d74' => [
+        'All the lessons are in nature. You look at the way rocks are formed - the wind and the water hitting them, shaping them, making them what they are. Things take time, you know?',
+        'Diane Lane',
+    ],
+    '7170ee9c-e9bf-567e-9ddb-1b92f37c429d' => [
+        'I have had wrinkles on my forehead and my smile line since I was a kid. I see them in my own kids. I know what they\'re going to look like. So it\'s kind of like that\'s my personality. I feel the older you get, too, the more confident you become just in your own skin.',
+        'Faith Hill',
+    ],
+    'e0260fad-5497-5d1a-93c8-c9eb6fe87339' => [
+        'Positive energy knows no boundaries. If everyone were to spread positive energy on the Internet, the world would be a much better place.',
+        'Lu Wei',
+    ],
+    '14739b32-0289-57ac-8c6c-1da0a811febb' => [
+        'After I finished high school I went to Hong Kong and Thailand and spent some time there. Just to get that whole experience of being out of the bubble that I was in from high school in Vancouver, to be able to travel around and be on your own was an amazing experience.',
+        'Shay Mitchell',
+    ],
+    '658cf6d4-dc03-515a-ac97-36c88e3b4b01' => [
+        'Halloween is one of my favorite days of the year. I have a strict rule: I don\'t work on Halloween and I won\'t travel on Halloween. Not for any reason.',
+        'Simon Sinek',
+    ],
+    'd97596b8-305b-5c8f-a58a-8e6e48269de4' => [
+        'The time to repair the roof is when the sun is shining.',
+        'John F. Kennedy',
+    ],
+    'f3a1ac05-186e-5755-8b0a-c647180d7580' => [
+        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
+        'Herb Caen',
+    ],
+    '69fb9647-5c29-57c7-8fb2-53dfa41d61d1' => [
+        'You may only be someone in the world, but to someone else, you may be the world.',
         'Unknown',
     ],
-    '1f65e438-0e6c-5de2-b5c7-63d03e92f842' => [
-        'The Indian Summer of life should be a little sunny and a little sad, like the season, and infinite in wealth and depth of tone, but never hustled.',
-        'Denis Waitley',
+    'e1ecf74b-8789-5f4c-b6f5-8770058456f3' => [
+        'So there was a fire inside me. And that fire inside you, it can be turned into a negative form or a positive form. And I gradually realised that I had this fire and that it had to be used in a positive way.',
+        'John Newcombe',
     ],
-    '72d7120b-e0db-52a5-9907-f04dae1c8fc7' => [
-        'One of the nice things about being busy is it makes you focus on what\'s important to you and how you use your time.',
-        'Lorne Michaels',
+    'cff56328-107f-5c95-b5a2-d6feeb32c3bc' => [
+        'You and I are, by birth, by nature, and by choice, inwardly depraved, which is to say that we are entirely corrupt. That\'s not to say that we have no good in us; we do. However, anything good in us has been tainted with evil. It touches everything. Without the redeeming power of Christ we cannot halt our own moral slide.',
+        'Charles R. Swindoll',
     ],
-    '65c1a1e2-28f3-5e0f-875f-45c6a80f1d3e' => [
-        'What finally is beauty? Certainly nothing that can be calculated or measured. It is always something imponderable, something that lies between things.',
-        'Ludwig Mies van der Rohe',
+    'c3b96009-9722-56f8-85b4-af9aab0d39de' => [
+        'I was taking myself very seriously when I was going through life changes. And I realized that I needed to laugh at myself, particularly at my mistakes.',
+        'Kevin Bacon',
     ],
-    '2660c43e-c62d-5bdb-8f65-a9580182480c' => [
-        'A thing well said will be wit in all languages.',
-        'John Dryden',
+    'e7265d5c-c459-5d95-8df6-2b5ac8e09387' => [
+        'The misconception is that standup comics are always on. I don\'t know any really funny comics that are annoying and constantly trying to be funny all the time.',
+        'Joe Rogan',
     ],
-    'b6561724-a577-5e28-8d09-4df197e2a7ee' => [
-        'Airplane travel is nature\'s way of making you look like your passport photo.',
-        'Al Gore',
+    'ab0b3373-2c7c-5b8a-9913-71dfe01450d6' => [
+        'For what the horse does under compulsion, as Simon also observes, is done without understanding; and there is no beauty in it either, any more than if one should whip and spur a dancer.',
+        'Xenophon',
     ],
-    'c5efb57e-2ac8-5837-aed1-c838ff33b6aa' => [
-        'I\'m not a fan of any genre but am a fan of movies that are intelligent and/or funny. That goes across all genres: a horror movie, a zombie movie, alien invaders, chick flick, or raunchy comedy. If it\'s well done, I\'m a fan.',
-        'J. K. Simmons',
+    '13100184-3a33-575e-8418-8086bdb0376a' => [
+        'People just want to watch people live their authentic lives and share the good and the bad. You can have fun and be a positive influence and have a good impact. And it can still be entertaining.',
+        'Tyler Oakley',
     ],
-    'e56cff33-19a0-5d57-b484-7d6bca89a62e' => [
-        'Whenever an individual or a business decides that success has been attained, progress stops.',
-        'Thomas J. Watson',
+    '7b45f208-1c05-51d9-ae60-2d3701180371' => [
+        'The universe is full of magical things, patiently waiting for our wits to grow sharper.',
+        'Eden Phillpotts',
     ],
-    '878c9637-3163-5f2a-81f8-105a80eed919' => [
-        'The only durable sense of success is if you\'ve followed your calling.',
-        'Jim Harrison',
+    '2cca169a-49fe-5f3e-b3f9-16453e1e88e4' => [
+        'Hoping they\'d been inspired by the examples of Anne Frank and other teens who had turned negative experiences into something positive by writing about them, I handed out notebooks for my students to journal about their lives. There was some initial resistance. But then the stories poured out of them, full of anger and sadness.',
+        'Erin Gruwell',
     ],
-    '6e6df69a-29c0-5194-92f8-e36c57532ab7' => [
-        'Many individuals are doing what they can. But real success can only come if there is a change in our societies and in our economics and in our politics.',
-        'David Attenborough',
+    '200ed021-9b0c-540e-8e18-2ff73b4a18c9' => [
+        'I\'m like old wine. They don\'t bring me out very often - but I\'m well preserved.',
+        'Rose Kennedy',
     ],
-    '896dfac9-4b77-5bcf-b3f7-e26ed1d18700' => [
-        'Our success as a global brand has been directly related to how we select locations where we are confident our particular clients desire to be. Los Cabos, Mexico is the ideal Engel & Volkers market, growing in popularity among world luxury travelers seeking exceptional properties for second home opportunities.',
-        'Anthony Hitt',
+    '2b3baa66-3d99-5e66-9ab9-19fa19e79635' => [
+        'Two wrongs don\'t make a right, but they make a good excuse.',
+        'Thomas Szasz',
     ],
-    'a1273ac1-71cc-5fc4-8a0e-e6e70a373a83' => [
-        'Plans are only good intentions unless they immediately degenerate into hard work.',
-        'Peter Drucker',
+    'c55348d5-0c18-5600-8aa2-a96771227e3b' => [
+        'Let us remember: One book, one pen, one child, and one teacher can change the world.',
+        'Malala Yousafzai',
     ],
-    'c55f103a-f3a8-5e23-a49a-327db15e4462' => [
-        'Maybe nature is fundamentally ugly, chaotic and complicated. But if it\'s like that, then I want out.',
-        'Steven Weinberg',
-    ],
-    'cdb0f92d-5cbe-55a6-ba06-07e556403374' => [
-        'I would vote for the man who\'s lived life, who\'s done different occupations, who\'s been out in the real world and struggled to make a living, struggled to raise a family, struggled with life as it exists. So I\'d vote for experience, honest experience.',
-        'Oliver Stone',
-    ],
-    'dfa03d20-990f-55c6-beca-e9426a218e43' => [
-        'Between two evils, I always pick the one I never tried before.',
-        'Mae West',
-    ],
-    '8de3dc37-d2a6-5199-b50b-5dc73dd1ceb8' => [
-        'Chaotic people often have chaotic lives, and I think they create that. But if you try and have an inner peace and a positive attitude, I think you attract that.',
-        'Imelda Staunton',
-    ],
-    '7f6676dc-0d0e-56de-b879-e6035fdf17b6' => [
-        'I\'ll walk where my own nature would be leading: It vexes me to choose another guide.',
-        'Emily Bronte',
-    ],
-    '11a15ceb-094e-5f7f-befa-5d141d1ac83e' => [
-        'One must work and dare if one really wants to live.',
-        'Vincent Van Gogh',
-    ],
-    '120cb302-d108-57aa-b6ea-58cf8f1242ce' => [
-        'Make big plans; aim high in hope and work, remembering that a noble, logical diagram once recorded will not die, but long after we are gone be a living thing, asserting itself with ever-growing insistence.',
-        'Daniel Burnham',
-    ],
-    'e554d6b7-87a2-53f0-a053-46ce91b1eaf0' => [
-        'If we can produce more ethanol and bio-diesel to help fuel our vehicles, we will create jobs, boost local economies and produce cleaner burning fuels. This will keep dollars here at home where they can have a positive impact on our economy.',
-        'Rick Renzi',
-    ],
-    '9d88c1c0-1bc6-5010-b681-e9b20f84345c' => [
-        'Your chances of success in any undertaking can always be measured by your belief in yourself.',
-        'Robert Collier',
-    ],
-    'b0584a20-cd2f-5abc-8d76-8e208cf8f18c' => [
-        'My first feeling about the paper and the attitude is that it is absurd.',
-        'Arthur Holly Compton',
+    'd9aa78a1-d3e5-55a1-98cd-6064ef1aab53' => [
+        'Silence is the true friend that never betrays.',
+        'Confucius',
     ],
 ];

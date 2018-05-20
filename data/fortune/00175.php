@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '84cadefc-7107-5300-98ef-9bddf654db3b' => [
-        'I\'m the type of person who doesn\'t hope, dream or wish for things. I work and work and work.',
-        'Lilly Singh',
+    '68e20ca8-4f21-5836-bca8-1821ff769aeb' => [
+        'Positive social emotions like compassion and empathy are generally good for us, and we want to encourage them. But do we know how to most reliably raise children to care about the suffering of other people? I\'m not sure we do.',
+        'Sam Harris',
     ],
-    'bc716978-c849-5be7-adc7-a62a942dece8' => [
-        'To be great is to be misunderstood.',
-        'Ralph Emerson',
-    ],
-    '63ea6842-b4ad-5ea4-bc46-ec53fab6a149' => [
-        'Money brings you security and choice. You can make decisions in a different way if you have a lot of money. But when you have nothing, you have a naivety, and a more fearless attitude because you have nothing to lose.',
-        'Simon Cowell',
-    ],
-    'edc50596-ea98-57de-9bb2-fb401e75f393' => [
-        'Talking is always positive. That\'s why I talk too much.',
-        'Louis C. K.',
-    ],
-    'd23f5583-5f92-57ff-817b-f6722cd618ad' => [
-        'Time is the substance from which I am made. Time is a river which carries me along, but I am the river; it is a tiger that devours me, but I am the tiger; it is a fire that consumes me, but I am the fire.',
-        'Jorge Luis Borges',
-    ],
-    '9c5003d6-220a-5aff-8fcc-60841ceb6cc9' => [
-        'Dealing with global warming doesn\'t mean we have all got to suddenly stop breathing. Dealing with global warming means that we have to stop waste, and if you travel for no reason whatsoever, that is a waste.',
-        'David Attenborough',
-    ],
-    '5bdead59-48aa-5730-9b26-790109af772a' => [
-        'I never travel without my diary. One should always have something sensational to read in the train.',
-        'Oscar Wilde',
-    ],
-    '711fbd85-edd9-5c13-bd04-f35804512e9b' => [
-        'What you want in a mentor is someone who truly cares for you and who will look after your interests and not just their own. When you do come across the right person to mentor you, start by showing them that the time they spend with you is worthwhile.',
-        'Vivek Wadhwa',
-    ],
-    'b1d1984f-3ec5-5829-a7d4-0ca9ca53bf03' => [
-        'If biking is your passion, set aside time to enjoy a good ride.',
-        'Patrick Dempsey',
-    ],
-    'fb2b4fba-6c23-5882-9700-db54d3e037de' => [
-        'I find, when you\'re an optimist, life has a funny way of looking after you.',
-        'Simon Sinek',
-    ],
-    '78cae4e2-ffd1-5755-987a-e3af6212c14f' => [
-        'The funny thing about insane people is that it is kind of the opposite of being a celebrity. Nobody envies you.',
-        'Robert M. Pirsig',
-    ],
-    'c9e40c7c-9049-59e9-aafe-9ed78e088e14' => [
-        'I\'m quite a particular singer, and I need to feel like I can bite into the song, in a way, to make it my own. You want the challenge of the songs having some attitude.',
-        'Neneh Cherry',
-    ],
-    'ad432c26-1337-5d7c-9c69-4ceabd94df35' => [
-        'The crest and crowning of all good, Life\'s final star, is brotherhood.',
-        'Kenneth H. Cooper',
-    ],
-    '7d696a81-b1f7-5d37-b1b2-c8f9467734c4' => [
-        'It is the working man who is the happy man. It is the idle man who is the miserable man.',
-        'Benjamin Franklin',
-    ],
-    'eeb3fb8a-586e-5158-9621-5132c197e20d' => [
-        'The only place where success comes before work is in the dictionary.',
-        'Vidal Sassoon',
-    ],
-    '4c016962-3b81-52f1-9df1-1f778d942b95' => [
-        'Just do the best you can. No one can do more than that.',
-        'John Wooden',
-    ],
-    '8eac32b7-407f-56e2-8e6a-fd6684de6c85' => [
-        'I like to think that today is the best day of my life and tomorrow will be the next best day of my life. And if you think that way, you\'re living for the beauty of today.',
-        'Conrad Anker',
-    ],
-    '2419a278-0ee0-5db5-aff7-00552cd5f335' => [
-        'When I see a friend play Hamlet or see an inspirational performance, I absolutely get excited by the idea of changing things up.',
-        'Andrew Lincoln',
-    ],
-    '0fcc9f60-2ae7-50c0-a0eb-64290aae3e88' => [
-        'The balloons only have one life and the only way of finding out whether they work is to attempt to fly around the world.',
-        'Richard Branson',
-    ],
-    'd57cf8be-e11e-5656-9488-bc0e7ba7527d' => [
-        'As a cure for worrying, work is better than whiskey.',
-        'Ralph Waldo Emerson',
-    ],
-    '95d73c0b-3598-59ac-bb84-20e2a422489a' => [
-        'The key to education is the experience of beauty.',
-        'Friedrich Schiller',
-    ],
-    '9126ab06-b59f-5f04-a552-d0a8f6fe3c17' => [
-        'Writing and travel broaden your ass if not your mind and I like to write standing up.',
-        'Ernest Hemingway',
-    ],
-    'c6fab2b8-fe36-5157-8233-b976b11a91d2' => [
-        'The gift of fantasy has meant more to me than my talent for absorbing positive knowledge.',
-        'Albert Einstein',
-    ],
-    'a9dec426-8f3a-5e58-b97c-adec5af88160' => [
-        'This CD became something of a personal journey for me. The tone of the whole CD is uplifting and inspirational. It\'s an upper. We have enough downers in the world.',
-        'Roma Downey',
-    ],
-    '3f178d16-448d-5873-9401-1757940ff5dd' => [
-        'Many people have gone further than they thought they could because someone else thought they could.',
-        'Unknown',
-    ],
-    'd48e0992-c8aa-55ab-a5cf-edde9a8279c1' => [
-        'The moon is at her full, and riding high, Floods the calm fields with light. The airs that hover in the summer sky Are all asleep tonight.',
-        'William C. Bryant',
-    ],
-    '532c37c9-f319-5c7d-a8b4-d88e68f3f3d7' => [
-        'It isn\'t what happens to us that causes us to suffer; it\'s what we say to ourselves about what happens.',
-        'Pema Chodron',
-    ],
-    'a9840e40-7843-5192-a5d7-1b0dee255f1b' => [
-        'I am a positive person. I never think of the glass as half empty. I just keep pushing forward.',
-        'Rosie Perez',
-    ],
-    '8db3d89f-5af4-5151-b0fb-4cd65d5b882e' => [
-        'Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.',
-        'Louis Pasteur',
-    ],
-    '722b9c9b-8db2-52b3-9873-65d74891f086' => [
-        'I define nothing. Not beauty, not patriotism. I take each thing as it is, without prior rules about what it should be.',
-        'Bob Dylan',
-    ],
-    '758ac2b2-4375-5011-a8c6-14ff9f11ae75' => [
-        'It is absolutely impossible to transcend the laws of nature. What can change in historically different circumstances is only the form in which these laws expose themselves.',
-        'Karl Marx',
-    ],
-    'cf06aaa3-95c7-5fb7-a9a6-91f691422d3e' => [
-        'When we believe the best of people, we let go of each thing they do that is hurtful to us. And we choose to think things like, \'I don\'t believe they meant to hurt me.\' \'Maybe they\'re having a bad day or don\'t feel well.\' \'They probably don\'t even realize how they sound.\'',
-        'Joyce Meyer',
-    ],
-    'dc2e4a8a-6050-5c8f-8541-3968a5e7a041' => [
-        'I\'ve never wanted anybody to like me because I had long hair or short hair, or that they liked the way I dressed or they liked the way I dressed or they liked the way I smile.',
-        'David Allan Coe',
-    ],
-    'd660fd69-0b0d-5d53-b139-477d5e25095a' => [
-        'Motherhood is a great honor and privilege, yet it is also synonymous with servanthood. Every day women are called upon to selflessly meet the needs of their families. Whether they are awake at night nursing a baby, spending their time and money on less-than-grateful teenagers, or preparing meals, moms continuously put others before themselves.',
-        'Charles Stanley',
-    ],
-    'beae4a9a-1932-599f-8be7-6762bb1a2fa6' => [
-        'The best way a mentor can prepare another leader is to expose him or her to other great people.',
-        'John C. Maxwell',
-    ],
-    '304ab0af-dd6d-526f-aa8f-11c331d1a917' => [
-        'If you don\'t have your friends and your family, what do you really have? You can have all the money in the world, but with no friends and no family, it\'s no good.',
-        'Meek Mill',
-    ],
-    'b6426823-0bb5-53d2-975c-82b297b04e6e' => [
-        'I\'m not actually a mom in real life, so it\'s fun to pretend to be one. I like to approach things the same in art as in life. You can choose to look on the positive side and enjoy whatever roles you\'re given. You can find the silver lining in anything.',
-        'Heather Graham',
-    ],
-    'fcf19688-213a-5de7-bb6e-aa8ade8f80dd' => [
-        'Social media is changing the way we communicate and the way we are perceived, both positively and negatively. Every time you post a photo, or update your status, you are contributing to your own digital footprint and personal brand.',
-        'Amy Jo Martin',
-    ],
-    'bda8cf9c-38dc-5400-acb1-6bc8c3f26193' => [
-        'We were what you would call a poor family, but we were rich in so many things. We did family things together. We always had dessert, even if it was just Jell-O. So, I never knew I was poor.',
-        'August Wilson',
-    ],
-    'e72e8414-3de4-53a9-8d7e-cc3c3c547ab7' => [
-        'It\'s hard for a man to live with a successful woman - they seem to resent you so much. Very few men are generous enough to accept success in their women.',
-        'Shirley Bassey',
-    ],
-    'a74eedd7-7a25-521d-8242-3581599e56c4' => [
-        'You can\'t just let nature run wild.',
+    '8e99a693-7fab-58ed-a541-dc7d88488760' => [
+        'It\'s kind of fun to do the impossible.',
         'Walt Disney',
     ],
-    'c47976f5-3ed6-5dbb-aa2a-3c61b23ab1fc' => [
-        'I have now disposed of all my property to my family. There is one thing more I wish I could give them, and that is the Christian religion.',
-        'Patrick Henry',
+    '82f61bcd-22ed-5874-9d4a-12287d018bd0' => [
+        'In the long run we get no more than we have been willing to risk giving.',
+        'Sheldon Kopp',
     ],
-    '659226d4-3a00-5095-a23b-075b36616c2f' => [
-        'I believe there\'s an inner power that makes winners or losers. And the winners are the ones who really listen to the truth of their hearts.',
-        'Sylvester Stallone',
+    '6dafee7f-b0f3-5f83-90dc-dc9ee7e48211' => [
+        'You need a strong family because at the end, they will love you and support you unconditionally. Luckily, I have my dad, mom and sister.',
+        'Esha Gupta',
     ],
-    '4439ada9-5959-54e5-9f07-0ee8fa24b9b3' => [
-        'Let\'s find those areas where modest and reasonable tax cuts will have the biggest positive impact on our economy, and which will improve the lives of those who need it most: working families, retirees, and small business owners.',
-        'Larry Hogan',
+    'ca31ef57-9b4a-5567-8779-086c81107d40' => [
+        'I\'m not a sad person, upset the whole time, but I seem to be quite emotional.',
+        'Freddie Highmore',
     ],
-    '029a622e-858d-5d50-8beb-d6aea51c7227' => [
-        'Good skin is the best foundation for your makeup.',
-        'Holland Roden',
+    '0b465184-ae29-5eae-900e-622bd353e178' => [
+        'I always challenge myself. I get out in deep water and I always try to get back. But I get hung up. The audience never knows, but that\'s when I smile the most, when I show the most ivory.',
+        'Earl Hines',
     ],
-    'ca0e027a-fa7d-5d7c-9033-cd5b4a422b6c' => [
-        'All generalizations are false, including this one.',
-        'Mark Twain',
+    '551b3dea-4cc1-556b-a818-923a316319c8' => [
+        'Success in training the boy depends largely on the Scoutmaster\'s own personal example.',
+        'Robert Baden-Powell',
     ],
-    'e870c8b7-64b2-528a-89b7-612c08529131' => [
-        'I will always desire to play with Bruce Springsteen. He\'s the most inspirational, most dedicated, most committed and most focused artist I\'ve ever seen. I like to be around people like that.',
-        'Max Weinberg',
+    'c1bb9065-1f94-5580-abb0-eb96e98affc1' => [
+        'The real test of a musician is live performance. It\'s one thing to spend a long time learning how to play well in the studio, but to do it in front of people is what keeps me coming back to touring.',
+        'Neil Peart',
     ],
-    '54aa62fe-44c2-5fc2-be6d-ace59dc92f4d' => [
-        'I think it\'s one of those funny things - sometimes you\'re not really friends with somebody until you\'ve gotten into a good fight, and I think that\'s the situation with Superman and Batman.',
-        'Mark Valley',
+    '36fc37cb-7fbc-5f41-a966-128f36ce194d' => [
+        'Engaging in social business is beneficial to a company because it leverages on business competencies to address social issues, involves one-time investment with sustainable results, and produces other positive effects such as employee motivation and improved organizational culture.',
+        'Muhammad Yunus',
     ],
-    '204f0b85-bd3b-56d0-b608-619c02912149' => [
-        'Life happens wherever you are, whether you make it or not.',
-        'Iroh',
+    '554f54ae-da6d-552e-84d7-7c5db9f6d6e1' => [
+        'Certainly there are things in life that money can\'t buy, but it\'s very funny - Did you ever try buying them without money?',
+        'Ogden Nash',
     ],
-    '9c6ab9f4-7dae-5329-912f-a20af608e71f' => [
-        'I was born on the other side of the tracks, in public housing in Brooklyn, New York. My dad never made more than $20,000 a year, and I grew up in a family that lost health insurance. So I was scarred at a young age with understanding what it was like to watch my parents lose access to the American dream.',
-        'Howard Schultz',
+    '6662062f-ba56-55e1-9030-50a19564c55a' => [
+        'To travel hopefully is a better thing than to arrive.',
+        'Robert Louis Stevenson',
+    ],
+    'cb6f73a5-7ef7-5237-a072-6e5cba5c4b7a' => [
+        'Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.',
+        'Baruch Spinoza',
+    ],
+    '03a140d7-3d22-5d06-80ae-2c09475aaecf' => [
+        'The decisions you make are a choice of values that reflect your life in every way.',
+        'Ernest Hemingway',
+    ],
+    '8c758255-31f1-5e43-b1e2-a1a797b80f33' => [
+        'Be careful of success; it has a dark side.',
+        'Robert Redford',
+    ],
+    '0dd737f6-836a-5039-a270-d810dca9c5a0' => [
+        'Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.',
+        'Pauline Kael',
+    ],
+    'c14f9bd8-6593-5f0e-aed2-9756f8c8a738' => [
+        'Wisdom is knowing what to do next, skill is knowing how to do it, and virtue is doing it.',
+        'David Starr Jordan',
+    ],
+    'c00c704d-03df-52ac-a52c-14169baa757e' => [
+        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
+        'Jean-Michel Jarre',
+    ],
+    'c5bdd09f-d733-5a0b-8fb3-3a7a540437c3' => [
+        'Each and every day, more people pay the price of Obamacare\'s mountain of mandates. As I travel across the country, I continue to hear from Americans who want Washington to take its hands off of their healthcare.',
+        'John Barrasso',
+    ],
+    '8d817183-86fe-5ad1-8dbe-7e1e7bf8aa99' => [
+        'This suspense is terrible. I hope it will last.',
+        'Oscar Wilde',
+    ],
+    'd01ee2cf-8a1e-58f0-bbe5-c6ef663a3391' => [
+        'I love Ralph Lauren. As I travel so much, I prefer to shop online.',
+        'Meghan Markle',
+    ],
+    'ab9385c6-c7a7-52f6-b6cc-62bd0ea94287' => [
+        'A lion\'s work hours are only when he\'s hungry; once he\'s satisfied, the predator and prey live peacefully together.',
+        'Chuck Jones',
+    ],
+    'f368ceb6-c3a1-5007-a7cb-46779390ffeb' => [
+        'Long before we understand ourselves through the process of self-examination, we understand ourselves in a self-evident way in the family, society and state in which we live.',
+        'Hans-Georg Gadamer',
+    ],
+    '219d334d-03bf-555f-952d-00558ed2a758' => [
+        'We must realise that man\'s nature will remain the same so long as he remains man; that civilisation is but a slight coverlet beneath which the dominant beast sleeps lightly and ever ready to awake. To preserve civilisation, we must deal scientifically with the brute element, using only genuine biological principles.',
+        'H. P. Lovecraft',
+    ],
+    '963378ef-6e91-5ebf-8d4c-c1f3d83df95c' => [
+        'I think it\'s very important for writers and artists generally to be witnesses to the world, and to be transparent. To let other people speak... to travel... to experience the world. And memorialize it.',
+        'Joyce Carol Oates',
+    ],
+    'b7731a50-c24d-5396-a9d8-b68b221a9fcb' => [
+        'My school friends are really understanding and still want to hang out with me. Ever since I was in sixth grade, I was at the gym every day to work out while my friends were getting their nails done or going to the mall. I used to feel left out, but I don\'t anymore.',
+        'Aly Raisman',
+    ],
+    '1d9adb92-c04e-564c-87d2-af310abe8ca8' => [
+        'I was never a glamour puss whose career was really based on a look or an attitude. I\'ve been basically playing the same parts I am at 55 that I was at 35. I get cast as strong women, and that can be a mother or a judge or anything.',
+        'Jane Kaczmarek',
+    ],
+    '939ec404-2f5c-547d-ab14-6c558b13dea7' => [
+        'As long as we are persistence in our pursuit of our deepest destiny, we will continue to grow. We cannot choose the day or time when we will fully bloom. It happens in its own time.',
+        'Denis Waitley',
+    ],
+    '467930ce-b5a1-5a05-9f32-901f3941b2ab' => [
+        'PETA has a proven track record of success. Each victory PETA wins for the animals is a stepping stone upon which we build a more compassionate world for all beings - and we will never give up our fight until all animals are treated with respect and kindness.',
+        'Bea Arthur',
+    ],
+    '6050031a-2f29-5dfc-b5a4-19671b59515d' => [
+        'When I play discos in Belfast or freshers\' week in Oxford, there are 1,800 kids dressed as me. It\'s odd, it\'s funny, and it pays really well.',
+        'David Hasselhoff',
+    ],
+    '47b282fa-bfe3-5d73-8af4-6b54fc6b8a6b' => [
+        'To help yourself, you must be yourself. Be the best that you can be. When you make a mistake, learn from it, pick yourself up and move on.',
+        'Dave Pelzer',
+    ],
+    '7044bd53-c18f-5b0b-8a37-0c3cd2846b0a' => [
+        'It\'s very strange that most people don\'t care if their knowledge of their family history only goes back three generations.',
+        'Douglas Coupland',
+    ],
+    '1b13be6b-b824-5ff0-b533-e343ac75ea5f' => [
+        'One man\'s wage increase is another man\'s price increase.',
+        'Harold Wilson',
+    ],
+    'fcf2d4e5-0479-5f8f-b8ae-91fd9c04075e' => [
+        'Opponents of capital punishment argue that the state has no right to take a murderer\'s life. Apparently, one fact that abolitionists forget or overlook is that the state is acting not only on behalf of society, but also on behalf of the murdered person and the murdered person\'s family.',
+        'Dennis Prager',
+    ],
+    '9dbb3c68-ead6-556f-bdef-e2eea6db2265' => [
+        'I am a Piscean, and they have a lovingly detached attitude towards life.',
+        'Shahid Kapoor',
+    ],
+    '7c5bd543-4757-5fcf-9728-b5050ab60964' => [
+        'A white-boy attitude is \'I must exclude, denigrate, and leave behind.\' They don\'t see it or think about it. It\'s a culture.',
+        'Donna Brazile',
+    ],
+    'e289c6b3-210c-53b6-b79d-02fd293d58cc' => [
+        'I always hear myself saying, \'She\'s a beauty!\' or \'He\'s a beauty!\' or \'What a beauty!\' but I never know what I\'m talking about.',
+        'Andy Warhol',
+    ],
+    'c43e6ca6-acfe-54ce-931c-24aef9b0812d' => [
+        'A somebody was once a nobody who wanted to and did.',
+        'John Burroughs',
+    ],
+    'ac32a1aa-1490-5067-bef9-96d08e11b0c4' => [
+        'You can\'t run a government from one single person. What instead matters is that leadership be about gathering around extraordinary individuals and getting the best out of them.',
+        'Justin Trudeau',
+    ],
+    'de44f46a-8d23-59c6-8e81-8704a01c1b48' => [
+        'Every time I look at you I get a fierce desire to be lonesome.',
+        'Oscar Levant',
+    ],
+    '69c03522-d329-5434-9efd-3eeb01d96502' => [
+        'I think success shows a person\'s true colors.',
+        'Freddie Prinze, Jr.',
+    ],
+    '0567224f-f293-5200-ba34-f04b29e613b4' => [
+        'Experience keeps a dear school, but fools will learn in no other.',
+        'Benjamin Franklin',
+    ],
+    '06598b5f-8717-526a-bbd6-3bc0278e8f75' => [
+        'Bring diversity back to agriculture. That\'s what made it work in the first place.',
+        'David R. Brower',
+    ],
+    '74e680ec-4312-5b1a-bfee-5fe4f4c23731' => [
+        'Art washes away from the soul the dust of everyday life.',
+        'Pablo Picasso',
+    ],
+    '58c8841b-55d0-5b26-9264-2da84e033d95' => [
+        'I\'m here now because of my faith. That\'s what got me singing and what has kept me singing. That is what I have: what has kept me doing right and has provided me with the chances and the attitude and the skills to do this.',
+        'Aaron Neville',
+    ],
+    '6a1dfed7-6cce-5d84-9d50-1320952e3c1a' => [
+        'When one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior',
+        'Henry C Link',
+    ],
+    '0331eae7-5d22-51a4-85e3-fb6b0bcbd11b' => [
+        'We just want to win. That\'s the bottom line. I think a lot of times people may become content with one championship or a little bit of success, but we don\'t really reflect on what we\'ve done in the past. We focus on the present.',
+        'Derek Jeter',
+    ],
+    'b5efe50f-e568-5c12-bfeb-700aa9771e0c' => [
+        'No one is so completely disenchanted with the world, or knows it so thoroughly, or is so utterly disgusted with it, that when it begins to smile upon him he does not become partially reconciled to it.',
+        'Giacomo Leopardi',
+    ],
+    'f87bf17f-34e1-53c1-9374-5f7537a3d4ff' => [
+        'To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.',
+        'Byron Pulsifer',
+    ],
+    '7f0137fa-5f29-503a-ba32-ad608b00387e' => [
+        'A simple life is good with me. I don\'t need a whole lot. For me, a T-shirt, a pair of shorts, barefoot on a beach and I\'m happy.',
+        'John Dewey',
+    ],
+    'be0f495a-73fc-57c2-a2f6-d8026ba3c024' => [
+        'We link our future to the euro, to the euro zone, and to the European Union while being the nearest neighbor of the United Kingdom with, obviously, a common travel area and a very close working relationship with the U.K.',
+        'Enda Kenny',
     ],
 ];

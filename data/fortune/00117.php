@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '1aba50c5-8d2a-5a60-8f15-8e007011fd13' => [
-        'Watching movies in the U.S. is great fun because they get every joke, they smile, they laugh so much; it\'s a great feeling.',
-        'Jet Li',
+    '331aff88-14d6-54be-963c-ad15c70ab27e' => [
+        'All suffering originates from craving, from attachment, from desire.',
+        'Edgar Allan Poe',
     ],
-    'ba9897b2-8cc1-53d3-a217-b92369be2ae6' => [
-        'I love beauty. But I like the beauty accidentally, not dished up, served up on a platter.',
-        'Wole Soyinka',
+    'f986e975-9abd-5300-a3e3-1ef962c472f6' => [
+        'Let us make our future now, and let us make our dreams tomorrow\'s reality.',
+        'Malala Yousafzai',
+    ],
+    '605e2661-4a13-5b5c-9b40-d94b72f7986f' => [
+        'I don\'t want to be perfect, but I do want to be a role model. My mom always tells me that imperfections equal beauty. All of us are imperfect.',
+        'Miley Cyrus',
+    ],
+    '3f7f0a86-5fcf-555e-98c8-1ea690949153' => [
+        'Intelligence is the source of technology. If we can use technology to improve intelligence, that closes the loop and potentially creates a positive feedback cycle.',
+        'Eliezer Yudkowsky',
+    ],
+    'b2f515cb-501a-54d0-a83c-f66cca6c5772' => [
+        'Bats drink on the wing, like swallows, by sipping the surface, as they play over pools and streams.',
+        'Gilbert White',
+    ],
+    '0b0c8368-c933-5161-9b0e-bb40ad813fbe' => [
+        'I don\'t reflect much, unless I\'m talking to the media. I have more of a \'Forward, march!\' kind of attitude.',
+        'Kerry King',
+    ],
+    '8eac32b7-407f-56e2-8e6a-fd6684de6c85' => [
+        'I like to think that today is the best day of my life and tomorrow will be the next best day of my life. And if you think that way, you\'re living for the beauty of today.',
+        'Conrad Anker',
+    ],
+    '9f7c8fe2-21ab-5211-a99a-0286ae3576ca' => [
+        'People think that at the top there isn\'t much room. They tend to think of it as an Everest. My message is that there is tons of room at the top.',
+        'Margaret Thatcher',
+    ],
+    'c307684d-b670-57c6-b596-49bac584b955' => [
+        'Let a hundred flowers bloom, let a hundred schools of thought contend.',
+        'Mao Zedong',
     ],
     '447a7de1-4a53-57d3-8bde-3e19608c6090' => [
         'Learning to trust is one of life\'s most difficult tasks.',
         'Isaac Asimov',
     ],
-    '0fade842-3b66-5930-9b76-738f9fbe7684' => [
-        'Sometimes sushi is just superb, and other times there\'s nothing like a great big steak. It depends where your taste buds are at the time.',
-        'Francesca Annis',
+    '0c726dc8-7929-5d5e-868c-4a85a0abb21e' => [
+        'Life is a zoo in a jungle.',
+        'Stephen Hawking',
     ],
-    'd24b29ab-fa01-54c0-9bf4-5386467dc41b' => [
-        'Family, work, familiarity. Listen, if I had a magic wand and I could make myself really be happy, I\'d zap me onto a farm. And I know nothing about farming.',
-        'Scott Baio',
+    '3c0fcf5a-e34f-5026-957e-a6fa2de3e8cb' => [
+        'Success doesn\'t happen in a vacuum. You\'re only as good as the people you work with and the people you work for.',
+        'Casey Kasem',
     ],
-    '4a8221c1-0bf7-5804-9abf-559dc9fa42ea' => [
-        'While positive mental states may be associated with less stress and more resilience to infection, positive well-being might also be accompanied by a healthy lifestyle.',
-        'Michael Greger',
-    ],
-    'a932de21-1658-5913-ac67-236db53326f9' => [
-        'Beauty without expression is boring.',
-        'Ralph Waldo Emerson',
-    ],
-    'eb93a2a0-529c-5b78-be02-b6cfb25d95b4' => [
-        'I remember nearly having a fit of the giggles during the reading because dear Daniel was SO respectful and serious and I was finding the whole situation funny because I was speaking to his profile.',
-        'Madeleine Stowe',
-    ],
-    'c8d5932a-18b4-5a63-99b0-ac1540b4d174' => [
-        "A hard fall means a high bounce\u{2026}if you're made of the right material.",
+    'af5c17f8-f1ac-50ab-85df-675eae3fdc47' => [
+        'What you see depends on what you\'re looking for.',
         'Unknown',
     ],
-    '34c7f7cd-987f-5598-928f-03a228a5eaa6' => [
-        'Friends are those rare people who ask how we are and then wait to hear the answer.',
-        'Ed Cunningham',
+    '8d42e2f7-98dc-5a73-a742-0bf7d16c9c90' => [
+        'Now a \'funnyman\' can get a laugh before opening his mouth - looking funny. Lou Costello was one of your great funnymen. Harry Langdon, Larry Semon; they were all funnymen - they looked funny. W.C. Fields was never a comedian. Slim Summerville was a comedian, yet looked funny. Now if you have both attributes, you are in good shape.',
+        'Milton Berle',
     ],
-    'b11420d5-de38-53b8-b2e9-9379dc80455d' => [
-        'Smog is affecting larger parts of China, and environmental pollution has become a major problem, which is nature\'s red-light warning against the model of inefficient and blind development.',
-        'Li Keqiang',
+    '0a2c3bd6-2b53-58c6-ac1f-de4b2370484d' => [
+        'The last time I saw him he was walking down lover\'s lane holding his own hand.',
+        'Fred Allen',
     ],
-    '4ebd10a6-939a-5700-9ddc-35788f1daad9' => [
-        'Do your best, one shot at a time and then move on. Remember that golf is just a game.',
-        'Nancy Lopez',
+    '36d11d02-c01f-5a3f-8368-cc4d478df1d3' => [
+        'Follow your dreams. If you have a goal, and you want to achieve it, then work hard and do everything you can to get there, and one day it will come true.',
+        'Lindsey Vonn',
     ],
-    '148ac248-99b1-513e-b6ff-956e942d6827' => [
-        'There is no end of craving. Hence contentment alone is the best way to happiness. Therefore, acquire contentment.',
-        'Swami Sivananda',
+    'abf9641d-cb1e-5ec3-b26f-300c6e2fd880' => [
+        'When I meet with the founders of a new company, my advice is almost always, \'Do fewer things.\' It\'s true of partnerships, marketing opportunities, anything that\'s taking up your time. The vast majority of things are distractions, and very few really matter to your success.',
+        'Evan Williams',
     ],
-    'e0e96fb5-6dfe-525c-b3d6-50596ff08d42' => [
-        'Success is not a function of the size of your title but the richness of your contribution.',
-        'Robin S. Sharma',
+    '8bb5f604-9ade-5746-8580-ce07da20a6bc' => [
+        'I cry at anything remotely touching - smile at me warmly and I\'m off... television also does it, everything from \'X-Factor\' to cereal commercials. I cry when I am tired. I also cry when I laugh.',
+        'Natalie Massenet',
     ],
-    '85ea9f49-429d-51b9-90d5-89cf23a97c97' => [
-        'I don\'t want to take the escalators. Give me the stairs that have the dips and the two old ladies that are blocking it and they\'ve got an attitude, and they don\'t want you to go past them.',
-        'RJ Cyler',
+    '06bf48d1-b9f9-5075-8724-30109fbf0000' => [
+        'Confidence doesn\'t come out of nowhere. It\'s a result of something... hours and days and weeks and years of constant work and dedication.',
+        'Roger Staubach',
     ],
-    '0eb5ad3a-6942-56f5-8ab5-cc99cec6e88a' => [
-        'I started as a black and white photographer, but the colors I was seeing were just so lurid and compelling and awful at the same time. They got me looking at other contemporary art. I was gravitating more and more toward work that had visceral power, that wasn\'t necessarily about being beautiful but had some kind of horror in the palette.',
-        'David Maisel',
+    'c148c78f-27f8-5654-8766-39350f4ea7bd' => [
+        'I get to travel, see the world, meet people and be independent. I feel blessed.',
+        'Bar Refaeli',
     ],
-    '3778c7b3-b63a-5fe1-80bb-73cd2434a967' => [
-        'The only question to ask yourself is, how much are you willing to sacrifice to achieve this success?',
-        'Larry Flynt',
+    '1abd39b8-b492-5643-9431-8b0454666192' => [
+        'Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.',
+        'Horace',
     ],
-    '7be618c3-30f0-591c-ae82-57ccb8b4fb9e' => [
-        'The purpose of our lives is to be happy.',
-        'Robert Louis Stevenson',
+    '4681f0f8-7727-5559-97fa-b808fd260693' => [
+        'Thinking is the hardest work there is, which is probably the reason why so few engage in it.',
+        'Henry Ford',
     ],
-    '7f207172-1e2d-5192-a690-e8e681a020e7' => [
-        'We crave instant success these days. If you are a really good sprinter and long jumper, you don\'t want to spend two or three years on a whole new set of events. You\'re used to doing well and it\'s difficult to give that up.',
-        'Daley Thompson',
+    '6a07f951-cc89-54bb-ac8a-713745955e15' => [
+        'Modeling is the best because you have to look hot, which comes easy to me, you know. I\'m blessed with that.',
+        'Ashton Kutcher',
     ],
-    'f701f3ba-1fda-5a94-a4a4-22628bcb4f12' => [
-        'Only the educated are free.',
-        'Epictetus',
+    'd01776ac-e30a-5156-910e-acc63772dd84' => [
+        'Human nature is complex. Even if we do have inclinations toward violence, we also have inclination to empathy, to cooperation, to self-control.',
+        'Steven Pinker',
     ],
-    '42748df5-0658-57dc-a86a-fe64c5536f3e' => [
-        'Positive thinking will let you do everything better than negative thinking will.',
-        'Zig Ziglar',
+    'ebf4aa4a-de81-5547-a49a-4a8b4872d450' => [
+        'Steven Gerrard was someone I looked up to massively. I\'d always try to copy him, right down to the boots he was wearing. It was his attitude on the pitch that stood out - you could really see how much he hated losing.',
+        'Dele Alli',
     ],
-    'e98564de-7be1-5e06-b4e0-42354e2011f7' => [
-        'My culture comes from everywhere. I\'m sick of this notion of nationality, that if you\'re brought up in the same city or same country you\'re the same. Even three kids brought up in the same family with the same genes, they are not the same. Just consider a human a human.',
-        'Marjane Satrapi',
+    '261c891f-0de9-53cc-8740-b0cc30859a72' => [
+        'The moment you cheat for the sake of beauty, you know you\'re an artist.',
+        'David Hockney',
     ],
-    '2a4ace38-352c-5d3e-b209-df7b40ab5e73' => [
-        '\'Unbreakable Smile\' was based off one of the songs I wrote for the album - it was actually the first song I wrote for the album without realizing it yet. I think I wanted to name the album that because it seemed like that was just the theme of that chapter in my life and just the theme of all the songs put together.',
-        'Tori Kelly',
+    'bd551eec-1c39-5e44-8b13-8b9149ea6385' => [
+        'I have an idea of who I want to be, I have a vision of my own success.',
+        'Wiz Khalifa',
     ],
-    'd032f8da-ccd4-5ceb-8bba-a7b8a3a2dc63' => [
-        'I may sometimes be willing to teach for nothing, but if paid at all, I shall never do a man\'s work for less than a man\'s pay.',
-        'Clara Barton',
+    '39bb728f-8c83-5417-b660-fecbbdaf13a0' => [
+        'I have always believed, and I still believe, that whatever good or bad fortune may come our way we can always give it meaning and transform it into something of value.',
+        'Hermann Hesse',
     ],
-    '32893be9-9623-5c8f-918a-f180bc538e47' => [
-        'A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.',
-        'Helen Rowland',
+    '0511b2da-c7b9-5bcd-8197-bf51df52d22e' => [
+        'To enter by reason means to realize the essence through instruction and to believe that all living things share the same true nature, which isn\'t apparent because it\'s shrouded by sensation and delusion.',
+        'Bodhidharma',
     ],
-    'e8b6189b-e15f-5d75-a1d9-d25bbe09db62' => [
-        'When you are enthusiastic about what you do, you feel this positive energy. It\'s very simple.',
-        'Paulo Coelho',
+    '998313bf-9900-5c63-8fdc-104484a3d44c' => [
+        'I just think that there\'s so much judgment in the world, whether it\'s coming from women in general or from men onto women - it\'s a lot. And when it comes to being a mom, I wish everyone could band together and realize that everyone has different beliefs, different styles, and different things that work for them and their family.',
+        'Hilary Duff',
     ],
-    '08947d6e-c32a-5c10-bb99-159922fcfbcd' => [
-        'As long as you know yourself and you got good people around you and you passionate about what you do, that\'s all that matters because at the end of the day, you go to sleep with the people you love, you wake up with the people you love, and you spend your time with the people you love.',
-        'Tyga',
+    '183a7d53-1664-5aca-8e1a-db479170a0b8' => [
+        'The biggest job we have is to teach a newly hired employee how to fail intelligently. We have to train him to experiment over and over and to keep on trying and failing until he learns what will work.',
+        'Charles Kettering',
     ],
-    '36f73b21-19bf-5a47-b68f-abedeab966f7' => [
-        'Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.',
-        'Avery Brooks',
+    '00ba21d2-b9ff-546d-885f-3e33abf93642' => [
+        'You know, I\'ve got wrinkles on my forehead and smile lines, but what\'s wrong with that? I love to smile.',
+        'Jennifer Aniston',
     ],
-    '7d4346f8-a33e-5b78-b074-37a0fdd5a746' => [
-        'Love is that splendid triggering of human vitality the supreme activity which nature affords anyone for going out of himself toward someone else.',
-        'Jose Ortega y Gasset',
+    '48688f7b-37c8-5db9-9d2d-6bdf7a9f5c9a' => [
+        'For every two minutes of glamour, there are eight hours of hard work.',
+        'Jessica Savitch',
     ],
-    'abf88b9d-dd75-5f26-92a2-0f0c81683456' => [
-        'We all naturally want to become successful... we also want to take shortcuts. And it\'s easy to do so, but you can never take away the effort of hard work and discipline and sacrifice.',
-        'Apolo Ohno',
+    '23403528-0f71-5a3e-ab20-834723c50acc' => [
+        'My favorite spot is the Maldives. Since I travel so much for work, I like to go to places that are very secluded and quiet.',
+        'Irina Shayk',
     ],
-    '5b9fc73d-680c-53e9-89a5-d3f84a036c11' => [
-        'An artist is an artist only because of his exquisite sense of beauty, a sense which shows him intoxicating pleasures, but which at the same time implies and contains an equally exquisite sense of all deformities and all disproportion.',
-        'Charles Baudelaire',
+    '548b4902-c673-5f48-8298-ad5cff061d4b' => [
+        'I don\'t think I could, with a straight face, describe myself as a completely positive person, but I\'m not overly negative, either. On the whole, most writers think plots through to their consequences, and it\'s not always a sunny place. I have an occupational temperament for anxiety.',
+        'James Lasdun',
     ],
-    '3071907c-1042-506d-ba59-0d66b7917689' => [
-        'Every person remembers some moment in their life where they witnessed some injustice, big or small, and looked away because the consequences of intervening seemed too intimidating. But there\'s a limit to the amount of incivility and inequality and inhumanity that each individual can tolerate. I crossed that line. And I\'m no longer alone.',
-        'Malala Yousafzai',
+    'f664279f-efa6-5456-ba1f-61fbb7ed32ba' => [
+        'I define success as being comfortable with yourself and your life. And that is about as good as it gets, really.',
+        'Treat Williams',
     ],
-    'b40288bd-442e-5d11-bfdb-55d48297706c' => [
-        'Real success is finding your lifework in the work that you love.',
-        'David McCullough',
+    'c0861bd4-de97-5bf8-ae59-032bb4a8fe67' => [
+        'In the restaurant business, you never want to have enemies, whereas it seems that many politicians judge their success by how high their enemies are and whether they can show that they can hold their ground and give a punch for every punch they take.',
+        'John Hickenlooper',
     ],
-    'e1f18336-b02e-57d3-97f6-1ff131796fd6' => [
-        'I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn\'t enough. I was exploding inside.',
-        'Ingrid Bergman',
+    'c511fe54-fad4-50f4-8e83-611b7ff6dd09' => [
+        'The one way to get me to work my hardest was to doubt me.',
+        'Michelle Obama',
     ],
-    '9de5abc4-2525-56f9-98cc-378298bb4372' => [
-        'No universal selfishness can bring social good to all. Communism - the effort to give all men what they need and to ask of each the best they can contribute - this is the only way of human life.',
-        'W. E. B. Du Bois',
+    '50ffaf77-6ab5-5035-a18b-fd9bd892b092' => [
+        'The cause is hidden. The effect is visible to all.',
+        'Ovid',
     ],
-    'c89845af-5f38-5b7e-b5c1-791b6066d3b3' => [
-        'I\'ve given it my all. I\'ve done my best. Now, I\'m ready with my family to begin the next phase of our lives.',
-        'Richard M. Daley',
+    'f32f444b-5236-572b-b9ab-9979168e0dfc' => [
+        'It is through science that we prove, but through intuition that we discover.',
+        'Jules Poincare',
     ],
-    '38a85d42-1952-53e3-a729-be653839937c' => [
-        'For me, relationship is very important. I can lose money, but I cannot lose a relationship. The test is, at the end of a conversation or a negotiation, both must smile.',
-        'Sunil Mittal',
+    '23c3d60a-ad6a-54e1-ae6a-69b35d386e74' => [
+        'Fears are nothing more than a state of mind.',
+        'Napoleon Hill',
     ],
-    '508403b5-4181-59d6-99ac-d39380d712dd' => [
-        'When you\'re curious, you find lots of interesting things to do.',
-        'Walt Disney',
+    '47127839-0779-5647-8546-e7affb0c161a' => [
+        'I was terrible in English. I couldn\'t stand the subject. It seemed to me ridiculous to worry about whether you spelled something wrong or not, because English spelling is just a human convention - it has nothing to do with anything real, anything from nature.',
+        'Richard P. Feynman',
     ],
-    'c02449ea-528b-53fa-9613-c093fcf64735' => [
-        'The Web is not a prize to be won, and Mr. Ballmer\'s attitude is deplorable in the light of what the Web means to the world, to users, to designers and developers, and - to put it into Microsoft parlance - customers.',
-        'Molly Holzschlag',
+    '0f3d5c75-da0b-545d-a604-e7609c22ef0b' => [
+        'We Generate Fears While We Sit. We Overcome Them By Action.',
+        'Dr. Henry Link',
     ],
-    '2a0f7910-b172-5670-a8c9-931b808ed901' => [
-        'I did not direct my life. I didn\'t design it. I never made decisions. Things always came up and made them for me. That\'s what life is.',
-        'Henry Ward Beecher',
+    '16e56602-d987-5c3c-b2e6-1d6ff3afea8a' => [
+        'They might not need me; but they might. I\'ll let my head be just in sight; a smile as small as mine might be precisely their necessity.',
+        'Emily Dickinson',
     ],
-    '3ecb10e6-2078-5fb4-8c2b-b5f8e33a04d0' => [
-        'If you\'re going to do something tonight that you\'ll be sorry for tomorrow morning, sleep late.',
-        'Henny Youngman',
+    'b40d46a1-52c7-590a-a7da-9c7a71797df2' => [
+        'It doesn\'t matter if you\'re a man or a woman - stay alert and focused on your surroundings. Travel with friends. Know where you are at all times, and never let your guard down.',
+        'Kimberly Guilfoyle',
     ],
-    '490b737d-fa2b-55ab-92e4-68a988a76f31' => [
-        'The greatest humiliation in life, is to work hard on something from which you expect great appreciation, and then fail to get it.',
-        'E. W. Howe',
+    'b8409c4e-4016-531a-98df-e091af1bd8ea' => [
+        'If you put off everything till you\'re sure of it, you\'ll never get anything done.',
+        'Norman Vincent Peale',
     ],
-    '2f7139ea-b6a3-51db-ac2e-d1dd9a2bf97d' => [
-        'There are companies with management and companies with money. You can always find money. Management is the key to success in any business.',
-        'Husnu Ozyegin',
+    'd032b622-344a-5af6-8966-6656a927ff24' => [
+        'You have to have a little humility if you\'re Danish because you\'re never going to be able to travel outside the country unless you can speak another language.',
+        'Sidse Babett Knudsen',
     ],
-    '1d0e364b-9929-5f6d-85e5-a1dbfb542c63' => [
-        'Viewed freely, the English language is the accretion and growth of every dialect, race, and range of time, and is both the free and compacted composition of all.',
-        'Walt Whitman',
+    '518362cc-60ac-5159-9d5e-c8bbb64ed36c' => [
+        'I do find the sibling connection endlessly fascinating, as I do all family dynamics. I like how siblings seem to create their own parentless mini-civilization within a family, one that has its own laws, myths, language, humor, its own loyalties and treacheries.',
+        'Jandy Nelson',
     ],
-    'efcaad9d-69b7-5ffd-b0b3-4d58f74aa98a' => [
-        'Human life is as evanescent as the morning dew or a flash of lightning.',
-        'Samuel Butler',
+    'ca52eadb-94fd-5690-8ae4-51bf9361b62b' => [
+        'Everything happens to everybody sooner or later if there is time enough.',
+        'George Bernard Shaw',
     ],
-    '5e20949a-ba9e-5a80-b37f-326528e95123' => [
-        'Life\'s like a play: it\'s not the length, but the excellence of the acting that matters.',
-        'David Gerrold',
-    ],
-    'b78d4d9c-ac05-5aa6-9286-783e7d1ed6ea' => [
-        'You cannot climb the ladder of success dressed in the costume of failure.',
-        'Zig Ziglar',
-    ],
-    '31de2aa5-bac2-53a6-934f-4f33d1a9549e' => [
-        'In the end, long life is the reward, strength, and beauty.',
-        'Grace Paley',
-    ],
-    '48931a42-da52-55c5-9293-4327105496ab' => [
-        'When you retire, it\'s a place in life, a part of the journey. You just don\'t quit work; you develop an attitude where you can do what you please.',
-        'Tom T. Hall',
-    ],
-    '904b1788-8a09-5680-b0be-099073a51b0b' => [
-        'Be passionate. Be courageous. Be your best.',
-        'Gabrielle Giffords',
+    'b88bdb2a-260b-5751-ae7f-30d8ee8fdad7' => [
+        'I\'m sorry, if you were right, I\'d agree with you.',
+        'Robin Williams',
     ],
 ];

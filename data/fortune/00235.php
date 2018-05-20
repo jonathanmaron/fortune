@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'a50197d7-4452-5ce2-82fa-86e6cb0e4985' => [
-        'A doctor must work eighteen hours a day and seven days a week. If you cannot console yourself to this, get out of the profession.',
-        'Martin H. Fischer',
-    ],
-    '22340d01-8956-53a2-afc3-918fb55074d9' => [
-        'I like looking at the characters. Seeing them always brings up some voice or attitude. I am much more visual, and that works so much better than having someone tell me what the character is all about.',
-        'Frank Welker',
-    ],
-    '5f98d574-62dd-576a-a0d0-a40fd776ed18' => [
-        'Vegetation is the basic instrument the creator uses to set all of nature in motion.',
-        'Antoine Lavoisier',
-    ],
-    '890659ac-953e-5d7d-9d75-037cc5efc94a' => [
-        'Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.',
+    'b77114d0-d721-54d5-a404-d19eb08c9e34' => [
+        'Personal beauty is a greater recommendation than any letter of reference.',
         'Aristotle',
     ],
-    '48b7e445-f4ff-5371-bc71-a2139af8e104' => [
-        'The years teach much which the days never know.',
-        'Ralph Emerson',
+    '74e79507-3d13-579e-9304-2055a7928a81' => [
+        'Life is the art of drawing sufficient conclusions from insufficient premises.',
+        'Big Boi',
     ],
-    'f616ae22-5058-53c3-9f8a-5df231675d88' => [
-        'I believe that laughter is the best emotional Band-Aid in the world. It\'s like nature\'s Neosporin.',
-        'Matt LeBlanc',
+    '5ed32a32-35e9-598e-a212-835767107dc1' => [
+        'Change is a continuous process. You cannot assess it with the static yardstick of a limited time frame. When a seed is sown into the ground, you cannot immediately see the plant. You have to be patient. With time, it grows into a large tree. And then the flowers bloom, and only then can the fruits be plucked.',
+        'Mamata Banerjee',
     ],
-    'e846dd14-e920-5f2b-ba31-0cb2fe560c9e' => [
-        'I think that giving mindless praise is ridiculous. But I understand why parents do it. They want their kids to feel good about themselves. But parents are never going to teach their children true, positive self esteem by praising everything they do.',
-        'Rosalind Wiseman',
+    '2f8d6d6b-af71-5030-beda-c8024cc4debc' => [
+        'Focused. I\'m a hustler. And my hustle is trying to figure out the best ways to do what I like without having to do much else.',
+        'Mos Def',
     ],
-    'c1e98332-ec24-55ef-9af5-10ef777f16f7' => [
-        'Happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.',
-        'J. Donald Walters',
+    '216843cf-2ac0-5948-9c20-31c7b0402cba' => [
+        'Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.',
+        'W. Clement Stone',
     ],
-    '5bbb96c7-5a66-5276-8b0f-07d36de1ada6' => [
-        'What I look for in a role is the physical. But what\'s the journey emotionally? Can I take this person who is this archetypal tough guy and find the beauty?',
-        'Frank Grillo',
+    '292383bd-c304-5c7e-ab37-e2a6d4aafbb0' => [
+        'It\'s been a hard time to celebrate, to come out with a smile. But I\'m an American. Naomi asked me to come out to support other Americans, and here I am.',
+        'Angie Everhart',
     ],
-    '369d63a7-e4df-5c3d-8a92-cc6a249107dd' => [
-        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
-        'Unknown',
+    '8a93c307-e709-511c-9e32-7d9fa375120c' => [
+        'People have to make journeys, what we want is people to have alternatives in public transport so that they can make a choice about the sort of way in which they\'re going to travel.',
+        'Theresa May',
     ],
-    'a1eb39fa-5db1-5800-9e8d-8f6df43ca3f8' => [
-        'One of the most tragic things I know about human nature is that all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon instead of enjoying the roses that are blooming outside our windows today.',
-        'Dale Carnegie',
+    'b1ff3c36-5749-56e0-9dbc-2569266df27b' => [
+        'For every failure, there\'s an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.',
+        'Mary Kay Ash',
     ],
-    'c0e384b1-0b5d-5b24-8e7a-556c1dafac27' => [
-        'Childhood obesity is best tackled at home through improved parental involvement, increased physical exercise, better diet and restraint from eating.',
-        'Bob Filner',
+    'b8b03f27-71e9-5792-a984-45fb9a5f3606' => [
+        'Everywhere is within walking distance if you have the time.',
+        'Steven Wright',
     ],
-    '6d14fe31-fefb-5e09-8b54-0170c7592502' => [
-        'I know but one freedom and that is the freedom of the mind.',
-        'Antoine de Saint-Exupery',
+    '11218a50-0909-555d-8bbe-73a5d7e05d04' => [
+        'Sustainability is the key to our survival on this planet and will also determine success on all levels.',
+        'Shari Arison',
     ],
-    '4c9a3b59-f89a-50ee-bf7b-67767bf15534' => [
-        'To dream of the person you would like to be is to waste the person you are.',
-        'Tim Menchen',
+    '8c48f647-f4e7-5f2d-8de0-349fee7bdd56' => [
+        'I am odd-looking. I sometimes think I look like a funny Muppet.',
+        'Angelina Jolie',
     ],
-    '05b67493-c899-56cd-b799-bd38fdeda763' => [
-        'All the candy corn that was ever made was made in 1911.',
-        'Lewis Black',
+    'f8ca914f-0a35-557a-86c1-1a4958174106' => [
+        'The fairest thing in nature, a flower, still has its roots in earth and manure.',
+        'D. H. Lawrence',
     ],
-    '1abd39b8-b492-5643-9431-8b0454666192' => [
-        'Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.',
-        'Horace',
+    '167a63ca-91c9-5f86-82a0-8ba309a10bdc' => [
+        'Stand-up can take you in so many different places, man. So many doors can be opened up from stand-up comedy, and the first one that was opened up for me was acting. But you can go from acting to being a TV personality to being a radio personality to being a writer to being a producer, to just being a visionary, to voiceover work.',
+        'Kevin Hart',
     ],
-    '6ca10688-6a67-5942-8dfa-9ace08b739c1' => [
-        'I think Hispanic community - the values that resonate in our community are fundamentally conservative. They are faith, family and patriotism. Do you know the rate of military enlistment among Hispanics is higher than any demographic in this country? And they are also hard work and responsibility.',
-        'Ted Cruz',
+    '84da1201-9aca-557e-91ce-03367f8eb044' => [
+        'Academics, who work for long periods in a self-directed fashion, may be especially prone to putting things off: surveys suggest that the vast majority of college students procrastinate, and articles in the literature of procrastination often allude to the author\'s own problems with finishing the piece.',
+        'James Surowiecki',
     ],
-    '9f13802c-a56c-5a75-b7c6-291d8b3be844' => [
-        'I\'ve been fascinated by the Internet from the very start. In 2001, I had made a funny black-and-white film called \'How to Dance Properly,\' a short video of me dancing to a Madonna song. I sent it to 17 of my friends on a Thursday, and by Monday, one million people a day were logging on to view it.',
-        'Ze Frank',
+    '2940a02c-ecfc-5440-ab7e-8cc90e5386d2' => [
+        'The funny guy doesn\'t get the girl until later in life. High school, college, everyone still wants the brooding, dangerous guy you shouldn\'t have.',
+        'Will Ferrell',
     ],
-    'e339044c-600a-5958-86ce-44a93a3231f2' => [
-        'Whatever is received is received according to the nature of the recipient.',
-        'Thomas Aquinas',
-    ],
-    '68bc5740-fbb7-5cc5-a1b3-0694821c03d9' => [
-        'There\'s a fine line between angry and grumpy. Angry isn\'t nice, but grumpy is funny.',
-        'Rick Wakeman',
-    ],
-    '5685727c-54de-56af-9720-4ac072c6c501' => [
-        'Somebody said to me, \'Whenever somebody says your name, a smile comes to their face.\' That\'s a great accolade. I strive to keep it that way.',
-        'Clarence Clemons',
-    ],
-    'db9cd27f-6fd5-5d99-8432-b0fdfe36f809' => [
-        'I don\'t think any country is perfect. It\'s our responsibility to do the best we can do to change the things we don\'t like. I think that\'s part of social responsibility, and everybody is going to do that in their own way.',
-        'Tom Brady',
-    ],
-    '1c970688-ab60-56c6-b33e-b14c1adcc6a2' => [
-        'I can give you a six-word formula for success: Think things through - then follow through.',
-        'Eddie Rickenbacker',
-    ],
-    'a34987e5-4aaa-5396-a500-8e937d3998bf' => [
-        'A career in sport is almost impossible to manage without the support, and guidance, and reassurance of family and friends. During tough times, and there always are, this is whom we go to.',
-        'Rahul Dravid',
-    ],
-    'd100ebf8-2f68-58ac-9832-c683589195c5' => [
-        'It\'s funny, but you get to a time in your life when you think you have all the friends you will ever have.',
-        'Liam Neeson',
-    ],
-    '3a1109a0-16b5-5a7e-9ee5-c303e3656cf6' => [
-        'Wrong life cannot be lived rightly.',
-        'Walter Hagen',
-    ],
-    '919f7129-5e31-5e76-98f2-f04b2e4302fa' => [
-        'I would try to promote something that I loved, and the entire interview would be about my personal life. I would leave a room feeling defeated, feeling embarrassed, but I would always make sure to put that smile on my face because I wasn\'t going to let them get to me.',
-        'Selena Gomez',
-    ],
-    'd19f1105-7d1c-5c4d-b05c-f3e5d053bdee' => [
-        'I grew up in a family where we weren\'t allowed to talk about beauty or to put any emphasis on physical appearance.',
-        'Pam Grier',
-    ],
-    '13ec77a4-c885-5c4a-8789-58925a80b628' => [
-        'Follow your bliss and the universe will open doors where there were only walls.',
-        'Joseph Campbell',
-    ],
-    '96201c10-295a-5de1-aa21-45df77439483' => [
-        'When someone has cancer, the whole family and everyone who loves them does, too.',
-        'Terri Clark',
-    ],
-    '33157a80-637d-5291-88bb-2dd842ed0ed1' => [
-        'A man can be drawn across the room with the simplicity of a smile. That\'s why your pearly whites should always be straight and shiny. I think most of my clients are drawn to a fun, flirty nature in a woman. The problem is, most women do not often feel fun and flirty.',
-        'Patti Stanger',
-    ],
-    '79d5b3bf-1d1c-5d4b-9e59-da96b3559aaa' => [
-        'To ensure good health: eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.',
-        'William Londen',
-    ],
-    '1822f6e2-085b-5b10-ae49-e6457b11700a' => [
-        'He that is giddy thinks the world turns round.',
+    '1f6adf45-e4c9-5c8e-9b36-efe9bdceb63d' => [
+        'One touch of nature makes the whole world kin.',
         'William Shakespeare',
     ],
-    'd4bcc708-d6b9-5306-aa76-57e90b0b2158' => [
-        'Those who try to do something and fail are infinitely better than those who try nothing and succeed.',
-        'Lloyd Jones',
+    'e2f74f8c-251f-58a6-af2b-eaaadb8e665d' => [
+        'Working hard is very important. You\'re not going to get anywhere without working extremely hard.',
+        'George Lucas',
     ],
-    'a90f2312-7523-5d95-994b-494f2c7e238a' => [
-        'Be miserable. Or motivate yourself. Whatever has to be done, it\'s always your choice.',
-        'Wayne Dyer',
+    'f81de1c7-d82c-5f54-b9d5-838ff64ad0d7' => [
+        'People is, I think, it\'s their nature - some people\'s nature, in a way, to be angry or jealous or just spiteful about somebody else\'s blessings.',
+        'Jill Scott',
     ],
-    '959b5836-74a9-5fcc-a965-8240a1556046' => [
-        'You learn far more from negative leadership than from positive leadership. Because you learn how not to do it. And, therefore, you learn how to do it.',
-        'Norman Schwarzkopf',
+    'f2eb52d9-f5f3-5b09-b55b-985f4d3ef42b' => [
+        'Having contemplated this admirable grove, I proceeded towards the shrubberies on the banks of the river, and though it was now late in December, the aromatic groves appeared in full bloom.',
+        'William Bartram',
     ],
-    '195e376a-ac38-5955-85c5-62152b980918' => [
-        'It doesn\'t matter whether you are pursuing success in business, sports, the arts, or life in general: The bridge between wishing and accomplishing is discipline.',
-        'Harvey Mackay',
+    'c8e071ca-cc72-5865-a622-aea07538fe83' => [
+        'Make the best use of what is in your power, and take the rest as it happens.',
+        'Epictetus',
     ],
-    'a49209cf-39c9-5d2d-b572-941a19fba39e' => [
-        'The attitude of physiological psychology to sensations and feelings, considered as psychical elements, is, naturally, the attitude of psychology at large.',
-        'Wilhelm Wundt',
+    'd3d1faa1-cf8f-5534-a782-3aaa86f9d29b' => [
+        'No matter how popular you are as a stand-up - you can go out and fill a 10,000-seat arena and be smart and funny - it\'s delicate to host an awards show and know where your place is and know that it\'s not about you, that it\'s about the people who are nominated, and respect that, but at the same time have your moment to show them who you are.',
+        'Ellen DeGeneres',
     ],
-    '7515192c-3615-5e2c-816f-8e968d7ddbbf' => [
-        'That which you create in beauty and goodness and truth lives on for all time to come. Don\'t spend your life accumulating material objects that will only turn to dust and ashes.',
-        'Denis Waitley',
+    '80ed79c6-cf9b-5559-aa01-627d96da64e8' => [
+        'I want my children to have all the things I couldn\'t afford. Then I want to move in with them.',
+        'Phyllis Diller',
     ],
-    'c9a66f61-c3f6-5874-ba03-4efdceb97318' => [
-        'The joke in our family is that we can cry reading the phone book.',
-        'Ron Reagan',
+    'a0461772-f5b9-5d08-8353-c079eaca1102' => [
+        'The sculptor who deals with form seeks to imprison beauty in a marble statue that will withstand the ravages of time during millenniums; but a marble statue is cold and speaks to but a few of the most evolved who are able to infuse the statue with their own life.',
+        'Max Heindel',
     ],
-    '7dc5d2cf-8ec9-5a31-926d-802b4dbf97e3' => [
-        'I think fitness is important. I think a healthy lifestyle is important. I think putting positive energy out there is important and just staying connected with the people.',
-        'LL Cool J',
+    '41a3ddc8-bd2c-55a0-82a3-19004ee3d141' => [
+        'What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.',
+        'Chris Kyle',
     ],
-    'd98a37f3-44d4-55dc-a7e5-79936cc43ad1' => [
-        'The best way to find out whether you\'re on the right path? Stop looking at the path.',
-        'Marcus Buckingham',
+    '2fd3702a-f00c-57d5-83bc-ae208c89c0f6' => [
+        'The secret to a rich life is to have more beginnings than endings.',
+        'Dave Weinbaum',
     ],
-    'e76290c1-3290-5d52-b9d6-c7a182f84d5c' => [
-        'In our town, Halloween was terrifying and thrilling, and there was a whiff of homicide. We\'d travel by foot in the dark for miles, collecting candy, watching out for adults who seemed too eager to give us treats.',
-        'Rosecrans Baldwin',
+    '3f6bc704-6d8b-5566-a1a9-418ab61581c0' => [
+        'Power doesn\'t back up in the face of a smile, or in the face of a threat of some kind of nonviolent loving action. It\'s not the nature of power to back up in the face of anything but some more power.',
+        'Malcolm X',
     ],
-    '33a5ae49-6b9c-50eb-8a99-ce61e244d555' => [
-        'Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?',
-        'Confucius',
+    '20bbc973-72f4-5172-8561-778aba57eda9' => [
+        'It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come.',
+        'Dalai Lama',
     ],
-    '32499fe0-97a7-5806-9662-c42d14288dc0' => [
-        'Most of the things we decide are not what we know to be the best. We say yes, merely because we are driven into a corner and must say something.',
-        'Frank Crane',
+    'c3c6a6a3-0b4f-5bd1-91a4-ec1214207d43' => [
+        'I write for kids because I think the most interesting (and most humorous) stories come from people\'s childhoods. When I was writing \'Diary of a Wimpy Kid,\' I had a blast talking on the phone to my younger brother, Patrick, remembering all of the things that happened to our family when we were growing up.',
+        'Jeff Kinney',
     ],
-    '592f2dac-95ce-5fee-85fc-ba5778b5b787' => [
-        'Someone remembers, someone cares; your name is whispered in someone\'s prayers.',
-        'Unknown',
+    'b1a315d8-7b45-5483-98f7-36ef3bf75f57' => [
+        'We have one planet in our solar system that\'s habitable, and that\'s the Earth, and space travel can transform things back here for the better. First of all, by just having people go to space and look back on this fragile planet we live on. People have come back transformed and have done fantastic things.',
+        'Richard Branson',
     ],
-    'e1ace060-dc96-51ed-9879-19d26935eda8' => [
-        'Stubbornness is a positive quality of presidential leadership - if you\'re right about what you\'re stubborn about.',
-        'Douglas Brinkley',
+    '7f9f093d-d323-5b2b-a2fc-1fcebc53e863' => [
+        'If people are not laughing at your goals, your goals are too small',
+        'Asim Premji',
     ],
-    '9e93c02f-8d58-51f6-b6c1-41f1932c0df0' => [
-        '... because all things have contributed to your advancement, you should include all things in your gratitude.',
-        'Wallace D. Wattles',
+    'cf1a0deb-fde4-5e4a-bd00-59722446cf59' => [
+        'I want my handbags and my shoes to be stylish but I want to make sure that they\'re versatile. I travel and I have to make sure the pieces I put into my bag can go with a dress or with shorts or jeans.',
+        'Maria Sharapova',
     ],
-    '430b0fcc-dfe3-58ff-859e-8a73b7ebf929' => [
-        'The ideal attitude is to be physically loose and mentally tight.',
-        'Arthur Ashe',
+    '774f927d-cfa8-512e-91d2-45da7ceb8d99' => [
+        'I think there\'s something in the fact that it\'s hard to be good looking and funny. You have to have an oddball quality; people have to sympathise with you to find you funny.',
+        'Chris O\'Dowd',
     ],
-    '2e5ee35b-0d2a-58c1-b71a-3a54b27a0e59' => [
-        'Live your days on the positive side of life, in tune with your most treasured values. And in each moment you\'ll have much to live for.',
-        'Ralph Marston',
+    '2b787d0b-4529-57bc-b6dc-8630b18253c3' => [
+        'I don\'t need to convince anybody that I know kung fu, but maybe somebody needs to know that I really can act, without doing a Chinese accent or a funny walk.',
+        'David Carradine',
+    ],
+    'edd194f8-f909-596a-9982-ad781c859130' => [
+        'Instead of being critical of people in authority over you and envious of their position, be happy you\'re not responsible for everything they have to do. Instead of piling on complaints, thank them for what they do. Overwhelm them with encouragement and appreciation!',
+        'Joyce Meyer',
+    ],
+    'fa014a34-e30b-5528-ae7c-dbb1656babcd' => [
+        'I decided, very early on, just to accept life unconditionally; I never expected it to do anything special for me, yet I seemed to accomplish far more than I had ever hoped. Most of the time it just happened to me without my ever seeking it.',
+        'Jim Carrey',
+    ],
+    '8765734b-8c87-5789-ad58-e2442982267e' => [
+        'Get up tomorrow early in the morning, and earlier than you did today, and do the best that you can. Always stay near me, for tomorrow I will have much to do and more than I ever had, and tomorrow blood will leave my body above the breast.',
+        'Joan of Arc',
+    ],
+    '96edb52f-fe9b-5f7a-9821-9ecb20dcf4d2' => [
+        'In general, men are wired to notice obvious signs that convey interest in mating - a warm smile, for example - and ignore other subtleties, like if your lipstick is faded.',
+        'Helen Fisher',
+    ],
+    'e96e05c5-0726-5517-915b-20e1f6b3b2ab' => [
+        'The key to success is to focus our conscious mind on things we desire not things we fear.',
+        'Brian Tracy',
+    ],
+    'ed2df4e3-0c60-5179-8b77-c891045cca3e' => [
+        'I couldn\'t go now to a brand that had a niche attitude like... gothic. I couldn\'t do that. Well, I could do it, but I wouldn\'t find it interesting, challenging.',
+        'Raf Simons',
+    ],
+    '874ea1c7-8811-5dac-8cb1-b4c3dd16c6c3' => [
+        'In a completely rational society, the best of us would be teachers and the rest of us would have to settle for something else.',
+        'Lee Iacocca',
+    ],
+    '227c5fe9-3674-5e69-863b-d8a7f240f4c7' => [
+        'I\'m very competitive by nature. And I like to be the underdog - It\'s the best way to win. To come from behind and win is a great feeling!',
+        'Zac Efron',
+    ],
+    '0e7b0ca4-a90e-5a44-ba69-a36dc89f9357' => [
+        'If a man does his best, what else is there?',
+        'George S. Patton',
+    ],
+    'bacf245b-53c2-53a9-b458-ad117aae8a39' => [
+        'One of the most important responsibilities in the Christian life is to care about others, smile at them, and be a friend to the friendless.',
+        'James Dobson',
+    ],
+    '778356a8-7ba8-5216-a0f0-427fbb1c0271' => [
+        'One does not discover new lands without consenting to lose sight of the shore for a very long time.',
+        'Andre Gide',
+    ],
+    'd9da3c08-120f-5e8c-b34d-8c8b92cce248' => [
+        'I\'ve realized the extraordinary power of sports to heal, unite and inspire. I believe the Olympics will serve as the ultimate platform to provide positive changes and I hope to inspire all of Japan through my strong showing there.',
+        'Kohei Uchimura',
+    ],
+    'd55e0884-d69e-557f-988b-aa24ec804420' => [
+        'The purpose of human life is to serve, and to show compassion and the will to help others.',
+        'Bobby Knight',
+    ],
+    'd04035c3-2e9a-57fa-bea2-2f7ebbf78a1e' => [
+        'My dad would always say, \'Girl, you\'ve been given gifts. Use them.\' And what he meant by that was, \'Don\'t just be successful. Don\'t just use your talents for your own success. But make a difference with them. Do something significant.\' And when I put those two things together, it just causes me to not accept the status quo.',
+        'Beth Brooke',
+    ],
+    '72fac0b0-a19e-5430-b5d3-2c5240ac9088' => [
+        'Indeed, this life is a test. It is a test of many things - of our convictions and priorities, our faith and our faithfulness, our patience and our resilience, and in the end, our ultimate desires.',
+        'Albert Schweitzer',
+    ],
+    'da927ba2-792e-5982-97b4-baf6f67843ec' => [
+        'My mother had abandoned the family, so grandmother raised me. And she was instrumental in that she taught me that the world is a glorious place. She taught me to embrace humanity. And she\'d say there\'s never an excuse for joy. And to be thankful.',
+        'Jewell Parker Rhodes',
+    ],
+    'e3797236-1733-55a8-b36d-9ca3a6501b93' => [
+        'It\'s funny how seeing a love story never gets boring, because it\'s the dream, isn\'t it? It\'s the dream to have a true connection with another human being.',
+        'Felicity Jones',
     ],
 ];

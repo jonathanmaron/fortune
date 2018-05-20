@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '520f97b4-da86-5d60-b0e0-66a3ec2a8934' => [
-        'I\'d rather regret the things I\'ve done than regret the things I haven\'t done.',
-        'Lucille Ball',
+    '734c35f0-3965-5c91-944a-5b7fcec39b43' => [
+        'It is usually best to admit mistakes when they occur, and to seek to restore honor..',
+        'Iroh',
     ],
-    '83594d84-9652-5511-95a5-7ad02b7f2d6a' => [
-        'How does one measure the success of a museum?',
-        'J. Paul Getty',
+    'c68728aa-813b-5772-8ca9-a8c87e5db13e' => [
+        'Success is a science; if you have the conditions, you get the result.',
+        'Oscar Wilde',
     ],
-    '12b35fec-3602-5efb-b5cd-d6c9f321e18e' => [
-        'Life is like riding a bicycle. In order to maintain balance, you must keep moving.',
+    '13649aff-5654-5206-8cbc-087d51329dc8' => [
+        'Working hard and working smart sometimes can be two different things.',
+        'Byron Dorgan',
+    ],
+    '0b2959e0-5e1c-55af-bf26-32cccfcd8032' => [
+        'To be able to make a good living in a challenging medium like soap operas is great. The best is that I get to act and am rewarded for it. And the people I work with are great. Funny, intelligent, hard working. They\'re all great to be around.',
+        'David Canary',
+    ],
+    '253abce9-87aa-5e9a-8bb5-5cf5840a236e' => [
+        'Life is a series of steps. Things are done gradually. Once in a while there is a giant step, but most of the time we are taking small, seemingly insignificant steps on the stairway of life.',
+        'Ralph Ransom',
+    ],
+    'c0c51f47-e76d-59cf-969c-10955611fe85' => [
+        'Part of the new morality of the \'60s and \'70s is a new attitude toward homosexuality. The homosexual men and women have organized to fight for acceptance and respectability.',
+        'Walter Cronkite',
+    ],
+    'a5172023-da48-56fb-9b3d-d51ec5ef0852' => [
+        'Most comedy is based on getting a laugh at somebody else\'s expense. And I find that that\'s just a form of bullying in a major way. So I want to be an example that you can be funny and be kind, and make people laugh without hurting somebody else\'s feelings.',
+        'Ellen DeGeneres',
+    ],
+    '43b1439d-a1ca-5b4e-b3e4-2e0561030bb9' => [
+        'I have never, ever focused on the negative of things. I always look at the positive.',
+        'Sonia Sotomayor',
+    ],
+    'df01eb89-5955-5ccc-be6b-0d211e79ebec' => [
+        'Beauty, like ice, our footing does betray; Who can tread sure on the smooth, slippery way: Pleased with the surface, we glide swiftly on, And see the dangers that we cannot shun.',
+        'John Dryden',
+    ],
+    '9d03bef2-556f-57dc-8466-76cf33c40bf0' => [
+        'The United States is the world\'s best hope, but if you fetter her in the interests and quarrels of other nations, if you tangle her in the intrigues of Europe, you will destroy her power for good and endanger her very existence.',
+        'Henry Cabot Lodge',
+    ],
+    '01fa5ce0-47fe-5ef1-a3ac-1d2c66755cd4' => [
+        'People see you as an object, not as a person, and they project a set of expectations onto you. People who don\'t have it think beauty is a blessing, but actually it sets you apart.',
+        'Candice Bergen',
+    ],
+    'c30b3aa9-0fbb-5d93-ae8a-97f9f2023105' => [
+        'I\'ve made an odd discovery. Every time I talk to a savant I feel quite sure that happiness is no longer a possibility. Yet when I talk with my gardener, I\'m convinced of the opposite.',
+        'Bertrand Russell',
+    ],
+    'ce7eff71-f83d-5044-854a-ff196a54ba5c' => [
+        'Because of the dog\'s joyfulness, our own is increased. It is no small gift. It is not the least reason why we should honor as love the dog of our own life, and the dog down the street, and all the dogs not yet born.',
+        'Robert Louis Stevenson',
+    ],
+    '51f245da-f0b0-5ff2-bcb1-7c7e61590ada' => [
+        'I love everything about the holidays: the decorations, the parties, and spending time with friends and family. What I love most is that feeling of giving back. Every bit counts.',
+        'Brad Goreski',
+    ],
+    '52bfbe5f-3a34-52ea-83cd-026b19e4026b' => [
+        'If you can\'t explain it simply, you don\'t understand it well enough.',
         'Albert Einstein',
     ],
-    'df6851ef-6869-56b4-8315-482a495e598e' => [
-        'Football is like life - it requires perseverance, self-denial, hard work, sacrifice, dedication and respect for authority.',
-        'Vince Lombardi',
+    'dae45047-1486-5b06-8571-de207e4804cd' => [
+        'I find it sad that by not talking about who I sleep with, that makes me mysterious. There was a time when I would have been called a gentleman.',
+        'Kevin Spacey',
     ],
-    '4234996f-8e22-566d-ae49-b81a75c1a997' => [
-        'I grew up in a very religious family. I could read the Qu\'ran easily at the age of five.',
-        'Akhmad Kadyrov',
+    '2a7c93c5-a5ca-55be-8fcf-c3caac9342ca' => [
+        'Because sorry to say, women run the house. They run the family. They hold things up. I mean, it\'s like you don\'t ever see your mom get sick because she handles everything. And it\'s kind of amazing I think to show people just how strong women are.',
+        'Sophia Bush',
     ],
-    '7066a1d6-f37e-5977-a5b1-c146ed3b35eb' => [
-        'We must embrace pain and burn it as fuel for our journey.',
-        'Kenji Miyazawa',
+    '0188532e-5998-51ed-9453-5e5b04a607ff' => [
+        'I am able to really enjoy the positive attention I receive.',
+        'Doutzen Kroes',
     ],
-    '7bb213ba-b9b5-5f8d-bc2b-7252f46350ff' => [
-        'Beauty always promises, but never gives anything.',
-        'Simone Weil',
-    ],
-    '778a7350-feed-56e4-b595-4b6cbf1487c5' => [
-        'The only thing I\'m addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent.',
-        'Charlie Sheen',
-    ],
-    '05f9c17d-0597-5dc5-8b9a-842007ff3485' => [
-        'Awards are not the only markers of success; I don\'t judge myself just based on them. I believe that each cinema-goer has his own mental trophies.',
-        'Fan Bingbing',
-    ],
-    '3d4c51b2-a11b-5cd6-82a8-db2cb4157abc' => [
-        'Not everything is going to be handed to you just because you\'re talented with a big smile. Sometimes you just gotta get out and shoot jumpers for hours and hours and hours. That\'s something I didn\'t really get a grasp on until way later, waking up early and treating it like a job if you\'re serious about it. Get the freak up and, you know, work.',
-        'Anderson Paak',
-    ],
-    '14bab2d9-efc0-5b72-bc68-bade94277d4a' => [
-        'Suddenly life has new meaning to me, there\'s beauty up above and things we never take notice of, you wake up suddenly you\'re in love.',
-        'Billy Ocean',
-    ],
-    '745c57a6-785c-5a0b-a6c1-eca4d620a090' => [
-        'I\'m not funny. What I am is brave.',
-        'Lucille Ball',
-    ],
-    'a77a346b-fa9c-5dd3-a1b8-e62c5ac77cd9' => [
-        'Rainbows apologize for angry skies.',
-        'Sylvia Voirol',
-    ],
-    '261c891f-0de9-53cc-8740-b0cc30859a72' => [
-        'The moment you cheat for the sake of beauty, you know you\'re an artist.',
-        'David Hockney',
-    ],
-    '3019fbd7-3485-54b2-a940-7779e36f8fa5' => [
-        'Anyone with a heart, with a family, has experienced loss. No one escapes unscathed. Every story of separation is different, but I think we all understand that basic, wrenching emotion that comes from saying goodbye, not knowing if we\'ll see that person again - or perhaps knowing that we won\'t.',
-        'Luanne Rice',
-    ],
-    'd1abf4bc-734c-5e5b-9cbe-f53c06846717' => [
-        'I am conscious of my inability to grasp, in all its details and positive developments, any very large portion of human knowledge.',
-        'Mikhail Bakunin',
-    ],
-    '365b377c-9221-5d23-90f2-dd23dabd51d8' => [
-        'Success for me means being able to work. I don\'t look at so much at what I\'ve done as much as I look to what I will do.',
-        'Phylicia Rashad',
-    ],
-    '358e5216-3aec-5030-a04b-3926fc1d9d45' => [
-        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
-        'Roger Andrew Taylor',
-    ],
-    'd4d94d2e-a62e-5b96-95a6-12b86ef1ad62' => [
-        'The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful.',
-        'Henri Poincare',
-    ],
-    '62354693-6385-5e99-b52a-d67262d1150e' => [
-        'We all have to find beauty within us, as opposed to just our exterior.',
-        'Shay Mitchell',
-    ],
-    '2b05afd0-b3f8-5475-96a8-96d8c8214529' => [
-        'If an employee told you he had the flu, you\'d send him home. If an employee told you he was feeling anxious, you\'d probably tell him to get back to work. But the emotion is just as contagious as a flu virus.',
-        'Chip Conley',
-    ],
-    '8650258c-2b7e-558c-910b-1985517c5d4f' => [
-        'Each day provides its own gifts.',
-        'Marcus Aurelius',
-    ],
-    '9de5eed1-09c5-5905-9ec6-f515c7844e54' => [
-        'By the very nature of satire or parody, you have to love and respect your target and respect it enough to understand every aspect of it, so you can more effectively make fun of it.',
-        'T. J. Miller',
-    ],
-    '62a83e74-bf59-5003-9a23-225e490f901b' => [
-        'There is slow growth, but it is positive slow growth. At the same time, ratios of debt-to-incomes go down. That\'s a beautiful deleveraging.',
-        'Ray Dalio',
-    ],
-    '9a4480c9-da6f-5d64-990b-2dfd09c18e69' => [
-        'Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.',
-        'Johann Wolfgang Von Goethe',
-    ],
-    '5212797a-a3ca-51cc-8dd3-754a2ef5b39f' => [
-        'It is the nature of the strong heart, that like the palm tree it strives ever upwards when it is most burdened.',
-        'Philip Sidney',
-    ],
-    '8e394cf6-e13c-5a98-a85e-7e3addacecae' => [
-        'At Princeton I gained a great deal of pleasure from success in my classes. knowing that I could accomplish those things, and I realized that my success was directly proportionate to the work I put in.',
-        'Brooke Shields',
-    ],
-    'cab5b9f5-2237-5e86-96db-a8175644015f' => [
-        'You\'d like more people to recognise what you do is special. But I take the attitude that the best thing I can do for my sport is to be the best at it. The best way people will come to recognise that track and field is a great sport is to see athletes excelling at it.',
-        'Maurice Greene',
-    ],
-    'd9ec23df-0709-5894-b501-0d0853d60a5c' => [
-        'Success is more dangerous than failure, the ripples break over a wider coastline.',
-        'Graham Greene',
-    ],
-    '6d3a4604-066d-5831-8cf3-fbeff1c2adcd' => [
-        'Whatever obstacle comes your way, you gotta be prepared to jump over it! And I think that\'s what separates the legends from the regular artists. It\'s all in how you manage that success, and how you deal with the controversy when it actually comes.',
-        'Akon',
-    ],
-    'cc659ca7-d8d9-5973-864b-bd10821a5ef2' => [
-        'I can pull off anything; I have the height and the attitude. The only thing I can\'t wear is a leotard, but I can wear anything else.',
-        'Theophilus London',
-    ],
-    'c0ce8799-f6b8-5c2c-b1d6-8404b4655fee' => [
-        'Painting from nature is not copying the object; it is realizing one\'s sensations.',
-        'Paul Cezanne',
-    ],
-    'b2119567-0792-5185-bfbd-c023a30e8afd' => [
-        'I do a good job of staying positive and just moving on.',
-        'Katie Taylor',
-    ],
-    'f866f6a3-c28d-503d-9850-8df26d503f23' => [
-        'I would feel more optimistic about a bright future for man if he spent less time proving that he can outwit Nature and more time tasting her sweetness and respecting her seniority.',
-        'E. B. White',
-    ],
-    '24aee97f-688d-54ed-a0af-90eb1621b730' => [
-        'Obviously, a long-distance relationship is hard. But, like anything worth having, you make it work.',
-        'Leona Lewis',
-    ],
-    '15253bb4-f24b-5b13-8f1e-4cb42755cb96' => [
-        'Watches are the only jewelry men can wear, unless you\'re Mr. T.',
-        'Gordon Bethune',
-    ],
-    '649a981e-829b-570b-8540-5bebd998b764' => [
-        'In the animal kingdom, one of the keys to survival is to outwit your enemies. And when you\'re surrounded by carnivores, one of the best strategies is to fade into the background and disappear.',
-        'Neil deGrasse Tyson',
-    ],
-    'e6a84181-547d-5526-a28b-ccc3c78f7a92' => [
-        'You just hope that you will get the opportunity to do what you love and pay your bills, and that is being a success as an actor.',
-        'Debra Messing',
-    ],
-    '53883509-6a56-5c8c-9e57-a6c51060bca9' => [
-        'Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.',
-        'Tony Robbins',
-    ],
-    '1439e227-20ca-57ed-abe5-45c998c92627' => [
-        'I got attention by being funny at school, pretending to be retarded, and jumping around with a deformed hand.',
-        'Leonardo DiCaprio',
-    ],
-    '6f26c644-eea2-59a5-9c32-0704f2f0fe60' => [
-        'I don\'t need plastic in my body to validate me as a woman.',
-        'Courtney Love',
-    ],
-    'c9f20fcf-2cfc-5be3-95cd-df689ced11ac' => [
-        'As with all my work, whether it\'s a leaf on a rock or ice on a rock, I\'m trying to get beneath the surface appearance of things. Working the surface of a stone is an attempt to understand the internal energy of the stone.',
-        'Andy Goldsworthy',
-    ],
-    'd5042c8f-c558-5924-8f85-818ededadc1b' => [
-        'Happiness does not come from having much, but from being attached to little.',
-        'Cheng Yen',
-    ],
-    '99a05a19-5ada-5632-b6cf-e0e113d8ed16' => [
-        'What we see is mainly what we look for.',
+    'd91c2da7-5ed2-5513-94f7-57fb851efeb3' => [
+        'Doing your best means never stop trying.',
         'Unknown',
     ],
-    '2b16eb48-e3a5-5f9f-b3e8-bfbd85880612' => [
-        'I\'ve been very lucky to have achieved a lot of the things that I dreamt of achieving as a young man. But, at the end of the day - and I truly believe this - it is not about achieving great wealth or success. Because they don\'t bring happiness, ultimately.',
-        'Leonardo DiCaprio',
+    'f91ff0b1-2dd1-5bd8-97d2-a23ca2ffce5e' => [
+        'Always seek out the seed of triumph in every adversity.',
+        'Og Mandino',
     ],
-    '47cddcd2-86c3-5cf7-b3cc-128d87cdc5b8' => [
-        'As you begin to realize that every different type of music, everybody\'s individual music, has its own rhythm, life, language and heritage, you realize how life changes, and you learn how to be more open and adaptive to what is around us.',
-        'Diane von Furstenberg',
+    '371c5254-f6cc-5979-beb8-dcdadf6c9927' => [
+        'I lived at home and I cycled every morning to the railway station to travel by train to Johannesburg followed by a walk to the University, carrying sandwiches for my lunch and returning in the evening the same way.',
+        'Sydney Brenner',
     ],
-    '7c2ddd6f-0c65-5a1c-86de-902badbc9595' => [
-        'Ignorance never settle a question.',
-        'Benjamin Disraeli',
+    'fc76cbd7-4d8c-58bb-9373-2ed02966ccb7' => [
+        'Yoga disciplines both the mind and the souls and not just your body. It helps me in having a constant positive outlook in life. I would love my family to adopt this form of fitness as well.',
+        'Jacqueline Fernandez',
     ],
-    '4cb07876-76a8-5edc-b010-77641e33c4bb' => [
-        'My best vacation memory is getting barreled at the beach in Hawaii.',
-        'Troy Polamalu',
+    '8bb01068-e992-534b-820f-a102801f63ce' => [
+        'About 80 percent of the photos on Flickr are public and searchable by everyone. In one sense, it\'s a place where people upload snapshots from the family reunion, wedding or the birth of a baby or something like that, but it\'s also a place where people go to show what the world looks like to them.',
+        'Stewart Butterfield',
     ],
-    '3bcca1db-3d3f-50b2-bf2a-5c2ab2a809cb' => [
-        'Great men show politeness in a particular way; a smile suffices to assure you that you are welcome, and keep about their avocations as if you were a member of the family.',
-        'John James Audubon',
+    '40407846-c6e3-51a6-bd30-329228143022' => [
+        'The real measure of your wealth is how much youd be worth if you lost all your money.',
+        'Unknown',
     ],
-    'dd234ba3-7905-59dd-8639-89ccac3893b1' => [
-        'I tried without much success to learn a little of the humanities and the arts, but even passing the courses in art history and music history was a challenge.',
-        'John C. Mather',
+    '4856ec6c-1c2b-56c2-ad34-7b023f976630' => [
+        'You can observe a lot just by watching.',
+        'Yogi Berra',
+    ],
+    '7f702f08-8acb-50e1-a858-c3df296f9cf4' => [
+        'Make-up is the last thing to enhance your beauty, but it\'s very important because it builds up your self-confidence and gives you more courage.',
+        'Evelyn Lauder',
+    ],
+    '0793a3b0-911f-57ae-94ab-3a3800bc009d' => [
+        'All my life through, the new sights of Nature made me rejoice like a child.',
+        'Marie Curie',
+    ],
+    'eab7bbed-c452-5d8c-907b-34b179acef39' => [
+        'If you do what you\'ve always done, you\'ll get what youve always gotten.',
+        'Tony Robbins',
+    ],
+    'b544d53c-3600-52a9-b4e9-528db16f44ed' => [
+        'My father considered a walk among the mountains as the equivalent of churchgoing.',
+        'Aldous Huxley',
+    ],
+    '28707564-08b5-58e2-bd44-7e75c8674a41' => [
+        'Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.',
+        'Billy Wilder',
+    ],
+    '8f75dfc5-46c1-5faa-9667-ed3a91f2719e' => [
+        'From its brilliancy everything is illuminated.',
+        'Guru Nanak',
+    ],
+    '10e1d1dc-90c3-54a8-8013-0b46ae7de064' => [
+        'Success is not the key to happiness. Happiness is the key to success. If you love what you do, you\'ll be successful.',
+        'Tyga',
+    ],
+    '9906e074-4c29-5e7b-ac98-9342dbb3d3cd' => [
+        'Go see \'Hidden Figures,\' and take a young person! It will give a more positive outlook on what is possible if you work hard, do your best, and are prepared.',
+        'Katherine Johnson',
+    ],
+    'b93227c3-5909-56e0-96c7-c12cc80eaeca' => [
+        'Pageants were an amazing platform that gave a little girl like me from the mountains of my beautiful Puerto Rico a chance to travel, explore the world, meet amazing people, work for great charities and be a voice to empower women wherever I went. For all those things, I am grateful.',
+        'Joyce Giraud',
+    ],
+    '041d3fc5-8fc2-5ac4-a645-416ea21a5736' => [
+        'The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.',
+        'Eric Berne',
+    ],
+    'a065dd2e-b933-5baf-b645-28828d3506c9' => [
+        'Culture is the habit of being pleased with the best and knowing why.',
+        'Henry Van Dyke',
+    ],
+    '1005550c-98a0-55e7-a28e-c9be9ade36be' => [
+        'I don\'t care whether people like me or dislike me. I\'m not on earth to win a popularity contest. I\'m here to be the best human being I possibly can be.',
+        'Tab Hunter',
+    ],
+    '26b55ac1-2103-5f2c-b799-23c045c15569' => [
+        'I hate to say it but I hate black humor. I feel like a Klan member saying it, but it\'s just not funny.',
+        'Issa Rae',
+    ],
+    '1b5ed53b-24e9-520a-99c9-628721563044' => [
+        'And if small businesspeople say they made it on their own, all they are saying is that nobody else worked seven days a week in their place. Nobody showed up in their place to open the door at five in the morning. Nobody did their thinking, and worrying, and sweating for them.',
+        'Paul Ryan',
+    ],
+    'f7f0b1e7-2abe-58e7-9d9a-0340cf64811c' => [
+        'A friend may well be reckoned the masterpiece of nature.',
+        'Ralph Waldo Emerson',
+    ],
+    '36eafadb-95d8-5fe3-9110-08ceb9ded088' => [
+        'For success of any mission, it is necessary to have creative leadership. Creative leadership is vital for government, non-governmental organisations as well as for industries.',
+        'A. P. J. Abdul Kalam',
+    ],
+    '8ec54c09-381d-5b1c-a550-c3af4c615d5c' => [
+        'Across professions, consistency is a direct product of work ethic.',
+        'Harsha Bhogle',
+    ],
+    '7d64e7f1-b747-596d-8cfa-5bfcad216488' => [
+        'Nobody can give you freedom. Nobody can give you equality or justice or anything. If you\'re a man, you take it',
+        'Malcolm X',
+    ],
+    '517058d6-d960-5815-9b16-c4c32da1579d' => [
+        'My advice: Take a second out of the day today and be thankful for your family.',
+        'Jenna Morasca',
+    ],
+    'e05517e1-028d-58dc-9421-74f01f4ca72c' => [
+        'I think there are very few people who have a real style, a real personality, and real beauty.',
+        'Marisa Berenson',
+    ],
+    '5abd873f-14c1-5780-9a65-92c1754d45d0' => [
+        'It\'s not whether you get knocked down, it\'s whether you get up.',
+        'Vince Lombardi',
+    ],
+    '2ee262e2-5506-5e7a-9b29-341e0d6f3086' => [
+        'The first question which the priest and the Levite asked was: \'If I stop to help this man, what will happen to me?\' But... the good Samaritan reversed the question: \'If I do not stop to help this man, what will happen to him?\'',
+        'Martin Luther King, Jr.',
+    ],
+    'a5fd84e8-9142-57ab-a951-5fb12ed1babe' => [
+        'Don\'t think about making art, just get it done.  Let everyone else decide if it\'s good or bad, whether they love it or hate it.  While they are deciding, make even more art.',
+        'Andy Warhol',
+    ],
+    'bef1d72b-95ac-56a7-a54e-47d438cf71a7' => [
+        'I talked about my family, my family\'s so important.',
+        'Jim Valvano',
+    ],
+    '2a4ace38-352c-5d3e-b209-df7b40ab5e73' => [
+        '\'Unbreakable Smile\' was based off one of the songs I wrote for the album - it was actually the first song I wrote for the album without realizing it yet. I think I wanted to name the album that because it seemed like that was just the theme of that chapter in my life and just the theme of all the songs put together.',
+        'Tori Kelly',
     ],
 ];

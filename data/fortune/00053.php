@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '6422d7b4-e07c-5666-ae02-aa9893e8327a' => [
-        'The best way of removing negativity is to laugh and be joyous.',
-        'David Icke',
+    'b359a23e-b21e-5752-a107-97b0402b765b' => [
+        'People ask what my influences are, and for me, it\'s not always obvious. One of my biggest inspirations was Chrissie Hynde from the Pretenders. That\'s based on how she just does whatever she wants to do, and I love her attitude about everything. It bleeds over into my way of thinking and comedy.',
+        'Tig Notaro',
     ],
-    '967d0921-d7bb-54fb-9e65-3c33728e0a7f' => [
-        'If I were two-faced, would I be wearing this one?',
-        'Abraham Lincoln',
+    'd4daf8c3-6446-5fbf-bc16-95f551971581' => [
+        'The human brain is a wonderful organ. It starts to work as soon as you are born and doesn\'t stop until you get up to deliver a speech.',
+        'George Jessel',
     ],
-    '04b44e88-81ea-58b2-9e56-3817230c1a4a' => [
-        'With the coming of spring, I am calm again.',
-        'Gustav Mahler',
+    '3ef0a606-a3a4-5469-b68d-518586e163f2' => [
+        'Wrinkles will only go where the smiles have been.',
+        'Jimmy Buffett',
     ],
-    '2f3a5716-c56c-5764-9872-5c19607b500d' => [
-        'You must know that Iran has a great number of productions. Many films are released. Most of them, like in the rest of the world, are commercial and shallow films. These are the most popular ones. And there are a few ones that actually develop more profound and thoughtful aspects of life. Only some of these films travel out of Iran.',
-        'Asghar Farhadi',
+    'ebb117f1-d9ce-5ab2-a5a1-6863d070089b' => [
+        'The thing that surprised me the most is just how much money women that weren\'t rich were paying for their hair. When you\'re in a beauty parlor in Harlem next to abandoned buildings and somebody\'s paying five grand for a weave, that\'s a bit much.',
+        'Chris Rock',
     ],
-    '6562e33f-30b6-5ada-ac9b-d81e15581e4b' => [
-        'A constant struggle, a ceaseless battle to bring success from inhospitable surroundings, is the price of all great achievements.',
-        'Orison Swett Marden',
+    '2ab97b97-4b70-5660-9abc-a8bfb2f1188f' => [
+        'So I wanted to sing inspirational music, and that\'s exactly how I approached it - only the words have been changed to declare my relationship with God.',
+        'Smokey Robinson',
     ],
-    'a98aba6b-4ca1-5836-8432-df2aa2ba38f9' => [
-        'The idea of having a steady job is appealing.',
-        'Robin Williams',
+    '2feca989-384f-592e-ae2d-599f6d65dd3e' => [
+        'I am always exhausted; I am always trying to find more time to be with my family, which is why they travel with me so much.',
+        'John Tesh',
     ],
-    'c181ffc8-e846-54ac-853c-cd0c886e4c04' => [
-        'There\'s a difference between being a comic and a comedian. A comic is a guy who says funny things, and a comedian is a guy who says things funny, and he has a style and point of view that will last much longer.',
-        'Milton Berle',
+    '3b55c00c-5710-54b0-99c0-d6cba6850816' => [
+        'The counterfeit and counterpart of Nature is reproduced in art.',
+        'Henry Wadsworth Longfellow',
     ],
-    '93880aef-01e2-5d39-817d-f268df5cba22' => [
-        'Failure is enriching. It\'s also important to accept that you\'ll make mistakes - it\'s how you build your expertise. The trick is to learn a positive lesson from all of life\'s negative moments.',
-        'Alain Ducasse',
+    '8a94f129-d7b6-534f-9b2d-8f5b835b60bd' => [
+        'When you ain\'t got no money, you gotta get an attitude.',
+        'Richard Pryor',
     ],
-    'e821602b-7ab4-5a6f-83b5-fc74c38105a1' => [
-        'You just have to find that thing that\'s special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.',
-        'Dr. Dre',
+    '66235ae6-26a2-5388-811d-7c2f8cc4d38f' => [
+        'The reason most of the children are having problems in any inner-city neighborhood is because they don\'t see enough positive role models in their own environment.',
+        'Marla Gibbs',
     ],
-    'a02be1cd-18f8-5dc2-8987-2c560fbd9495' => [
-        'What a stupid attitude we have in this country to personal stories.',
-        'Amanda Burton',
+    '75b494c4-2fe9-5109-82a2-2a17c417be00' => [
+        'I try and have a relaxed attitude and stay quite switched off until about an hour before kick-off.',
+        'Roy Keane',
     ],
-    '2be0600b-7801-5305-94d9-40ee9e50e28e' => [
-        'I always think that today is the best day that there\'s ever been. The song that I\'m working on is always the best song I\'ve ever written. The woman I\'m looking at is the most incomprehensibly beautiful woman I\'ve ever seen. These dogs that I have now are, by far, the best dogs I\'ve ever had - although, so were the last pair of dogs I had.',
-        'J. D. Souther',
+    'aaa373c2-0e60-5993-9b05-3d740e28b5b9' => [
+        'A mountain is composed of tiny grains of earth. The ocean is made up of tiny drops of water. Even so, life is but an endless series of little details, actions, speeches, and thoughts. And the consequences whether good or bad of even the least of them are far-reaching.',
+        'Bob Marley',
     ],
-    '3099fa8c-63ad-5ab5-b439-e1ac8d90995f' => [
-        'Sometimes in the most tragic situation, something just profoundly funny happens.',
-        'David Hyde Pierce',
+    '3c06ce6f-b76e-52c9-b3c6-ff98a43ee2d9' => [
+        'I actually think some of my best moments in life have been while I was with people from Instagram - whether it\'s super late nights getting a release out or being able to travel to places I\'d never visited and meeting some of the most interesting people I\'ve ever met.',
+        'Kevin Systrom',
     ],
-    '564d18a2-05b9-56f9-9b99-55d23546dbc4' => [
-        'Personally, I can\'t see the appeal in trekking down to D.C. for a networking extravaganza, even if it is built around a special moment in American history. While I find the election of Barack Obama inspirational, I don\'t have a desire to memorialize it with overly effusive celebration.',
-        'Jamie Johnson',
+    '38e1068d-6168-5207-b1c3-eff1dab6f5a1' => [
+        'Some people think that you have to be the loudest voice in the room to make a difference. That is just not true. Often, the best thing we can do is turn down the volume. When the sound is quieter, you can actually hear what someone else is saying. And that can make a world of difference.',
+        'Nikki Haley',
     ],
-    '2c6c9875-7ab0-508f-b753-b1e22e17e8a3' => [
-        'I think beauty is not just about what we put on our heads or on our faces or what we wear: it\'s deeper than that, and if we can celebrate that, celebrate the women, not just the superficiality... I think it would be really gorgeous.',
-        'Alek Wek',
+    'e684d439-0a11-5399-9196-f24582cd6658' => [
+        'Setting an example is not the main means of influencing another, it is the only means.',
+        'Albert Einstein',
     ],
-    '969faf40-c12e-5b49-9f3c-ce4400609e1d' => [
-        'Best thing that\'s happened this year? Maybe Hostel. It was a great experience. I loved it.',
-        'Jay Hernandez',
+    '6f9186dd-30a2-5f7d-b1ce-10093ab8182c' => [
+        'You don\'t have to be great to start, but you have to start to be great.',
+        'Zig Ziglar',
     ],
-    'd0086c27-ce6d-5709-a4ea-fb7d4652efa5' => [
-        'If I go anywhere, and I don\'t have my coffee, I don\'t drink coffee. When I travel, I carry it with me - and I ask hotels to grind it and brew it for me if I can\'t have it in my room myself. I\'m dedicated that way.',
-        'Grace Hightower',
+    'bccad56b-5855-50d1-a215-839eb51972de' => [
+        'Through my optimism I naturally prefer and capture the beauty in life.',
+        'Leni Riefenstahl',
     ],
-    'd7acf25d-ee3d-59e0-9092-4e6b1d40f77b' => [
-        'A vegetarian is a person who won\'t eat anything that can have children.',
-        'David Brenner',
+    'a4a6c364-d831-5864-b5ee-d0934262a88d' => [
+        'The ideal life is in our blood and never will be still.',
+        'Phillips Brooks',
     ],
-    '58c8841b-55d0-5b26-9264-2da84e033d95' => [
-        'I\'m here now because of my faith. That\'s what got me singing and what has kept me singing. That is what I have: what has kept me doing right and has provided me with the chances and the attitude and the skills to do this.',
-        'Aaron Neville',
+    'a57593dc-3a01-50c4-896b-93710b3d04e9' => [
+        'Making money is often more fun than spending it, though I personally have never regretted money I\'ve spent on friends, new experiences, saving time, travel, and causes I believe in.',
+        'Sam Altman',
     ],
-    'c8e071ca-cc72-5865-a622-aea07538fe83' => [
-        'Make the best use of what is in your power, and take the rest as it happens.',
-        'Epictetus',
+    '4a2b6c7f-804c-5fde-ba08-9bebc2c0f0e0' => [
+        'One of my favorite writers is Chekhov. I love his attitude toward the world. Just accept things for what they are. Don\'t judge. Be moral as you tell your story, but have no moral at the end. Just look at it.',
+        'Pawel Pawlikowski',
     ],
-    '779adfb2-6f7c-5121-8575-e217eff1b271' => [
-        'I\'d rather be a failure at something I love than a success at something I hate.',
-        'George Burns',
+    'acfb6013-20de-5b1a-8d57-596a5ccb32f2' => [
+        'A work of art when placed in a gallery loses its charge, and becomes a portable object or surface disengaged from the outside world.',
+        'Robert Smithson',
     ],
-    '98c860dd-b489-545d-bb5a-5fe706568eaa' => [
-        'Life loves the liver of it.',
-        'Khalil Gibran',
+    'b6b98e17-f40a-5830-a248-ec9893b62c2b' => [
+        'Go put your creed into the deed. Nor speak with double tongue.',
+        'Ralph Emerson',
     ],
-    '854c26ea-f7f7-5a6e-8c23-362d90008ce0' => [
-        'The great thing in life is efficiency. If you amount to anything in the world, your time is valuable, your energy precious. They are your success capital, and you cannot afford to heedlessly throw them away or trifle with them.',
-        'Orison Swett Marden',
+    '9a10d5f4-6847-59a4-9b11-4aae60c551d7' => [
+        'I try and work out as often as possible. Since I travel very often, it becomes very difficult to have a daily work out routine, but I practice yoga every day or try and play some sport. Also, I am very aware of what suits my body in terms of food and exercise.',
+        'Deepika Padukone',
     ],
-    '771a1f88-1fb8-5001-86f8-4d3c643869b6' => [
-        'I take my Bible with me, sometimes two of them, when I travel.',
-        'Gabby Douglas',
+    'ead9b31f-2348-5b75-907e-2fd721ffc094' => [
+        'The future is completely open, and we are writing it moment to moment.',
+        'Pema Chodron',
     ],
-    '600f0b7a-cdea-5759-ac5f-9298bb4d3f0a' => [
-        'With His love, you can wake up every day with an attitude of faith and expectancy.',
-        'Victoria Osteen',
+    '6b9dd012-d0dd-5370-9e0c-174fa2c94cd8' => [
+        'Ideas are a dime a dozen. People who implement them are priceless.',
+        'Mary Kay Ash',
     ],
-    '7c77154d-a7e0-5f89-b2ae-e736d397958f' => [
-        'It is only in the country that we can get to know a person or a book.',
-        'Cyril Connolly',
+    '7a537d1c-a048-5155-af33-9aa78310647c' => [
+        'I believe to be a leader is to enable others to embrace a vision, initiative or assignment in a way that they feel a sense of purpose, ownership, personal engagement, and common cause. I was very affected as a child by my father\'s positive example as a civic leader who inspired others to share his commitment to improving our community.',
+        'Melanne Verveer',
     ],
-    '40be0ff9-8588-5593-af26-9e50ce55e2a1' => [
-        'Am I complicated? Nah, I\'m interesting. I just like having a good time.',
-        'Gerry Cooney',
+    '6729340c-f51e-5cb0-9598-d866c6dc8390' => [
+        'Beauty and folly are old companions.',
+        'Benjamin Franklin',
     ],
-    '02ef14db-df49-5b81-a334-8e57ac38b08d' => [
-        'I love to travel but hate traffic and planes. I wish I could just beam myself anywhere instantly.',
-        'Jordan Ladd',
+    'c3f132e6-c362-53e7-935f-db0a02df4add' => [
+        'Birds have wings; they\'re free; they can fly where they want when they want. They have the kind of mobility many people envy.',
+        'Roger Tory Peterson',
     ],
-    '59239fe7-d053-57b5-9081-ed54c5f60740' => [
-        'Facts which at first seem improbable will, even on scant explanation, drop the cloak which has hidden them and stand forth in naked and simple beauty.',
-        'Galileo Galilei',
+    '51fb70b2-6fd6-5e66-adf8-9cec6a24e4b6' => [
+        'Part of me is drawn to the nature of sadness because I think life is sad, and sadness is not something that should be avoided or denied. It\'s a fact of life, like contradictions are.',
+        'Robert Redford',
     ],
-    '9e345f23-a1fb-5d57-9144-95a38e692075' => [
-        'You know you are on the road to success if you would do your job, and not be paid for it.',
-        'Oprah Winfrey',
+    'a3792f6f-1ed8-5614-89b4-180e8a099f23' => [
+        'I did not have three thousand pairs of shoes, I had one thousand and sixty.',
+        'Imelda Marcos',
     ],
-    '2f062d8f-9aeb-530c-b3cd-2786c55e6625' => [
-        'Truth isn\'t always beauty, but the hunger for it is.',
-        'Nadine Gordimer',
+    '3d402283-10b9-573d-8e37-1bf7efd51095' => [
+        'It is not only fine feathers that make fine birds.',
+        'Aesop',
     ],
-    'd1f58a4d-7934-526d-929e-e8d01039ff13' => [
-        'Commitment in the face of conflict produces character.',
+    '9fe8a0f2-2e65-5163-9810-04c31f4c078f' => [
+        'No one has ever become poor by giving.',
+        'Anne Frank',
+    ],
+    'c953b37d-00cf-58bb-8f50-ecafa28e49fc' => [
+        'Life is pleasant. Death is peaceful. It\'s the transition that\'s troublesome.',
+        'Henry Ford',
+    ],
+    '4f9b32f3-a540-5d78-818b-fcb1db1cdc8c' => [
+        'The meaning I picked, the one that changed my life: Overcome fear, behold wonder.',
+        'Richard Bach',
+    ],
+    '188339f2-6d14-5b5a-9805-dd271eeaa359' => [
+        'We are at our very best, and we are happiest, when we are fully engaged in work we enjoy on the journey toward the goal we\'ve established for ourselves. It gives meaning to our time off and comfort to our sleep. It makes everything else in life so wonderful, so worthwhile.',
+        'Earl Nightingale',
+    ],
+    '57cd62e8-450f-54e3-b956-370954dc4c1e' => [
+        'I like to work out. I like a routine. I\'m kind of simple. I eat almost the same thing every day. I like Caesar salad.',
+        'Britney Spears',
+    ],
+    '9bf52e9c-5253-5374-bb01-1374f7a38974' => [
+        'Most of us start out with a positive attitude and a plan to do our best.',
+        'Marilu Henner',
+    ],
+    '4e75ca62-18f8-5f58-b985-3b78f3308f94' => [
+        'Know or listen to those who know.',
+        'Baltasar Gracian',
+    ],
+    'f962d2ce-051c-5e9b-89fe-cf6fff8bc999' => [
+        'Only when we are no longer afraid do we begin to live.',
+        'Dorothy Thompson',
+    ],
+    'dee7c227-6b84-5172-9d8a-ef1c024a609c' => [
+        'Well, capitalism is going to grow and grow. The nature of it is that the guy who has the most poker chips on the table has more leverage than everyone else. He can eventually outbluff everyone else and outraise everyone else at the table. That\'s what has happened and it needs to be corrected.',
+        'Simon Baker',
+    ],
+    '278f42aa-a1e8-5e47-ad30-e56acb3be2a4' => [
+        'Everybody does what she needs. And if you want plastic surgery, and then you feel better, why not? There is no law. I\'ve nothing against using something to help your beauty - but do it in a good way, with intelligence.',
+        'Monica Bellucci',
+    ],
+    '4160b7ad-c820-58bd-9495-bd734ff82f6d' => [
+        'Divide each difficulty into as many parts as is feasible and necessary to resolve it.',
+        'Rene Descartes',
+    ],
+    '50ed4f2d-48c3-5a32-b6c3-3a862198077e' => [
+        'Never tell me the sky\'s the limit when there are footprints on the moon.',
         'Unknown',
     ],
-    '25c68472-fe42-53e8-a22a-35973b587500' => [
-        'Strike and struggle precede success, even in the dictionary.',
-        'Christian Slater',
+    '5f4e3657-f88d-51da-8865-2f4475dd28ff' => [
+        'True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.',
+        'William Penn',
     ],
-    'ed54fee7-8893-5fa0-b2f3-070aabac1664' => [
-        'I had this attitude, that Silicon Valley obnoxious attitude, that I know what I\'m doing, and the rest was going to be pretty easy.',
-        'Kimbal Musk',
+    '767be834-97d8-527a-a4c2-5d0c9272f887' => [
+        'Indonesia is a very huge country, geographically and in number of people, and there is still a lot of growth in the income level; It is very easy to assume there is a lot of demand for travel.',
+        'Edwin Soeryadjaya',
     ],
-    'e35d6bd0-c758-5850-bbba-634def3d29c2' => [
-        'When it comes to success, there are no shortcuts.',
-        'Bo Bennett',
+    'e1ef1196-ec26-5208-a1a3-bac57867fdb1' => [
+        'Every traveler knows too well the endless quest for the perfect travel bag: the one that\'s stylish enough to carry through Paris, sturdy enough to tote around Peru, and - most important - doesn\'t make your shoulder sag even before you\'ve loaded it up with everything you need for a day of sightseeing.',
+        'Hanya Yanagihara',
     ],
-    'dd5e02ca-2ff7-5c01-b564-41ac390f79b8' => [
-        'White sharks and tuna travel for thousands of miles before returning to the same hot spot just as salmon do when they return to the same stream. These journeys are the marine equivalent of wildebeest migrations that take place on the Serengeti plain in Africa.',
-        'Barbara Block',
+    'cb361479-313f-5ac5-b45c-e7e723db9da0' => [
+        'Take off your bedroom slippers. Put on your marching shoes,\' he said, his voice rising as applause and cheers mounted. \'Shake it off. Stop complainin\'. Stop grumblin\'. Stop cryin\'. We are going to press on. We have work to do.',
+        'Barack Obama',
     ],
-    '84fc365f-a267-5f6e-ab20-ecd53559bf39' => [
-        'Since the day I was born, wrestling has sustained me and my family. It\'s the way my father fed me; it\'s the way I feed my kids. More importantly, wrestling is my greatest release. It\'s been such a blessing for me. I can step into the ring and let it all go - all my anger, all my frustration, all my pain.',
-        'Eddie Guerrero',
+    '5ba8170f-4acf-5fd7-aac7-5f72bb90cb18' => [
+        'My greatest pleasure is spending time with my family: my husband and daughter, but also my mother, my three sisters, and their families.',
+        'Siri Hustvedt',
     ],
-    'e3a449cc-1cc5-5b21-be92-ccc9c86847a3' => [
-        'To know nothing is the happiest life.',
-        'Oksana Baiul',
+    '2add02d2-3fa4-5004-93c8-43f8e19174e8' => [
+        'The minute you settle for less than you deserve, you get even less than you settled for.',
+        'Maureen Dowd',
     ],
-    '71490ce2-0afb-54ba-aa50-0ee1b7c207e2' => [
-        'If we are facing in the right direction, all we have to do is keep on walking.',
-        'Proverb',
+    '10b160c3-de8c-57b4-8192-647f08f344ff' => [
+        'Of course, I think that people are just waiting for that time when I make a mistake and they\'re gonna jump on it.... There\'s gonna be haters.',
+        'Justin Bieber',
     ],
-    '22a0fb0a-56c6-5f31-96de-f11a5c4db0ff' => [
-        'One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.',
-        'Albert Schweitzer',
-    ],
-    '24b56a0b-c0b0-5c3e-a8be-f558d177b657' => [
-        'I can look back now and say, \'Aw, that was a little dumb taking huge bumps onto concrete before a couple of hundred fans,\' but if it wasn\'t for that attitude and that type of work ethic, I never would have gotten to WWE.',
-        'Mick Foley',
-    ],
-    'ed1457a1-2cd0-54ce-8155-0d43c015e22b' => [
-        'He who lives in harmony with himself lives in harmony with the world.',
-        'Marcus Aurelius',
-    ],
-    'be5cbbd8-dead-5809-a03b-c46f75fcfe10' => [
-        'Every bit of joy in my heart, you know, every smile on my face is yours. It\'s awesome to be able to share that with somebody.',
-        'Brantley Gilbert',
-    ],
-    'ce10bc72-57db-59d0-ab68-a9418797d0a6' => [
-        'Success is not a good teacher, failure makes you humble.',
-        'Shah Rukh Khan',
-    ],
-    '0bf90315-626b-52ec-afad-f41eda63b51a' => [
-        'My kids give me the balance to live right.',
-        'Celine Dion',
-    ],
-    '381f8880-b3a0-58b9-8695-025207400304' => [
-        'It really is a fact that liberals are much higher than conservatives on a major personality trait called \'openness to experience.\' People who are high on openness to experience just crave novelty, variety, diversity, new ideas, travel. People low on it like things that are familiar, that are safe and dependable.',
-        'Jonathan Haidt',
-    ],
-    '6467e11d-b8c2-5987-93b0-6ccb2c54ad35' => [
-        'Together with a culture of work, there must be a culture of leisure as gratification. To put it another way: people who work must take the time to relax, to be with their families, to enjoy themselves, read, listen to music, play a sport.',
-        'Pope Francis',
-    ],
-    '01a653b8-7791-5034-bb05-d87f924ff49f' => [
-        'Life could be wonderful if people would leave you alone.',
-        'Travis Bradberry',
-    ],
-    '925f889d-4f8f-5029-a2c8-12809e2307e2' => [
-        'I think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.',
-        'Joseph Campbell',
-    ],
-    '89a0bb9a-bd2e-5b51-9ccd-d55a9d000124' => [
-        'Every exit is an entry somewhere else.',
-        'Tom Stoppard',
-    ],
-    '8be86086-a261-5d59-ae93-f59f7502411d' => [
-        'I don\'t like the word \'balance.\' To me, that somehow conjures up conflict between work and family... as long as we think of these things as conflicting, we will never have happiness. True happiness comes from integration... of work, family, self, community.',
-        'Padmasree Warrior',
+    '66fb7c5a-4df9-50f4-b9d8-d5008a6ab6c7' => [
+        'Our goals can only be reached through a vehicle of a plan, in which we must fervently believe, and upon which we must vigorously act. There is no other route to success.',
+        'Pablo Picasso',
     ],
 ];

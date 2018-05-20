@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '20715c92-d683-5776-a2fe-568e2ddd0658' => [
-        'Air travel is the safest form of travel aside from walking; even then, the chances of being hit by a public bus at 30,000 feet are remarkably slim. I also have no problem with confined spaces. Or heights. What I am afraid of is speed.',
-        'Sloane Crosley',
+    '3b5305a6-e96b-5933-9ec3-140598ee4fb3' => [
+        'Weakness of attitude becomes weakness of character.',
+        'Albert Einstein',
     ],
-    'b98da3d5-e07d-5482-b564-614eaccdfb0d' => [
-        'Things derive their being and nature by mutual dependence and are nothing in themselves.',
-        'Nagarjuna',
+    '9da134f8-0136-5cf3-9b19-4ba3a6768bc6' => [
+        'Don\'t wait for your feelings to change to take the action. Take the action and your feelings will change.',
+        'Barbara Baron',
     ],
-    '92c7bf80-39fb-59f5-aa00-19d4cf6f0a6e' => [
-        'When a work lifts your spirits and inspires bold and noble thoughts in you, do not look for any other standard to judge by: the work is good, the product of a master craftsman.',
-        'Jean de la Bruyere',
+    'dbec081f-cc48-506a-b5e3-0427d9b956aa' => [
+        'Once every lunar eclipse, you should be able to see me smile!',
+        'Sophie Turner',
     ],
-    'd98b1f7a-9b3d-5927-b28f-8fcfc85ea4e5' => [
-        'The sea has neither meaning nor pity.',
-        'Anton Chekhov',
+    '7c28a8e4-ce00-5c16-b378-8e696243ea51' => [
+        'One\'s own self-worth is tied to the worth of the community to which one belongs, which is intimately connected to humanity in general. What happens in Darfur becomes an assault on my own community, and on me as an individual. That\'s what the human family is all about.',
+        'Wole Soyinka',
     ],
-    '5b832e36-76b2-58e6-8f2d-b36ab86eeceb' => [
-        'Four things for success: work and pray, think and believe.',
-        'Norman Vincent Peale',
+    'a99b70f9-91c1-572c-8fc8-24cda4d86aaa' => [
+        'Why do I talk about the benefits of failure? Simply because failure meant a stripping away of the inessential. I stopped pretending to myself that I was anything other than what I was, and began to direct all my energy into finishing the only work that mattered to me.',
+        'J. K. Rowling',
     ],
-    '901f33be-e3e7-5f78-806f-98d82e901d37' => [
-        'If you do what you love, it is the best way to relax.',
-        'Christian Louboutin',
+    'e5bf2a89-ac1a-5ea6-954f-b40044405018' => [
+        'Be what you are. This is the first step toward becoming better than you are.',
+        'Julius Charles Hare',
     ],
-    '2bfd8295-8a45-51c1-b0c2-ed3494e38886' => [
-        'You wanna know what scares people? Success. When you don\'t make moves and when you don\'t climb up the ladder, everybody loves you because you\'re not competition.',
-        'Nicki Minaj',
+    'c73acf69-f99f-5bd7-9f98-74929e8be38e' => [
+        'Nature works with five polymers. Only five polymers. In the natural world, life builds from the bottom up, and it builds in resilience and multiple uses.',
+        'Janine Benyus',
     ],
-    'fe3adb65-d21b-5d4f-902a-6806daf6c12a' => [
-        'The travel and tourism industry, it\'s just a huge part of our economy.',
-        'Karen Hughes',
+    '9f2a9e7a-d0e7-554a-96fa-46c6dace0cd5' => [
+        'Prospering just doesn\'t have to do with money.',
+        'Joel Osteen',
     ],
-    'b8d1f7e6-dea7-5f4e-819a-a31dfa5031b8' => [
-        'There is something terribly morbid in the modern sympathy with pain. One should sympathise with the colour, the beauty, the joy of life. The less said about life\'s sores the better.',
-        'Oscar Wilde',
+    'dc01a9a8-cdeb-5f18-ac2a-53e96247b139' => [
+        'I read the script for Wonder Boys, and I said that was almost perfect, it was so classy, cool and funny. It\'s a really specific thing. We stuck to it, it turned out good and a lot of people liked it.',
+        'Robert Downey, Jr.',
     ],
-    '4bc25676-c335-5090-ae47-bc44c7a52541' => [
-        'You learn to laugh at yourself, and you also lean on comedy as a crutch to kind of take the edge off because comedians often are self-deprecating, and they cross lines that they shouldn\'t. Stuff like that brings a smile to my face every once in a while when needed.',
-        'John Cena',
+    '587888e8-418b-5c00-80b8-5320b0be71c5' => [
+        'If you can figure out my success on the screen, you\'re a better man than I.',
+        'Alan Ladd',
     ],
-    'e72824a7-25d0-5315-96f4-8f2525a3a5f5' => [
-        'If you play the same club every week of every month, it\'s kind of boring. It\'s great that you can play one night in Brazil and one night in Japan, one night in Europe, and see the world. It\'s amazing what you see if you travel around the world.',
-        'Tiesto',
+    '17d65c56-7dca-553a-a632-78d36a7adbaf' => [
+        'Just like hair frames our face, brows frame our eyes. I see so much potential in harmonized beauty whenever I see a woman who\'s not filling in her brows, and I just want to go in with my brow pencil and just be like, \'Filling in eyebrows, OK, done - look in the mirror and be inspired.\' That\'s one of my pet peeves, but beauty is subjective.',
+        'Michelle Phan',
     ],
-    'e80f3b69-10b5-596b-99bb-2c96895ad5a2' => [
-        'Give yourself a gift of five minutes of contemplation in awe of everything you see around you. Go outside and turn your attention to the many miracles around you. This five-minute-a-day regimen of appreciation and gratitude will help you to focus your life in awe.',
-        'Eminem',
+    '89cc6908-8e08-5ab9-bffa-6abf3956e0a1' => [
+        'The best revenge is to be unlike him who performed the injury.',
+        'Marcus Aurelius',
     ],
-    '7033673a-6164-59c3-af4e-73cd8e99a592' => [
-        'You have succeeded in life when all you really want is only what you really need.',
-        'Paul Merton',
+    'ee62a0a6-0dce-5300-b8d0-7f60918f653e' => [
+        'Go for it now. The future is promised to no one.',
+        'Wayne Dyer',
     ],
-    '9c62e49a-8340-52ac-ac3c-e9c120273fca' => [
-        'There\'s no such thing is aging, but maturing and knowledge. It\'s beautiful, I call that beauty.',
-        'Celine Dion',
+    'bef3c657-648d-53e2-9697-fae1ffbf8dff' => [
+        'Well, a lot of people don\'t know this about me, but I\'m actually shy around people I don\'t know. I would just say with my first concert, my first tour, I didn\'t really talk onstage. I was like, \'Thank you, I love you guys,\' or whatever. But now I\'ve just kind of learned to work a crowd.',
+        'Avril Lavigne',
     ],
-    '6b081640-d71c-55d0-a09b-e801ca2a605c' => [
-        'Success is a journey, not a destination.',
-        'Ben Sweetland',
+    '3ddb8369-4f0e-5448-9415-8c9790faac66' => [
+        'Your body is precious. It is our vehicle for awakening. Treat it with care.',
+        'Buddha',
     ],
-    'b71c33c3-fe55-527f-8951-811724b9518e' => [
-        'When you take a flower in your hand and really look at it, it\'s your world for the moment. I want to give that world to someone else. Most people in the city rush around so, they have no time to look at a flower. I want them to see it whether they want to or not.',
-        'Georgia O\'Keeffe',
+    'a7ab449b-04b3-5f6a-8634-fea5df5edd6d' => [
+        'I am both honored and blessed to have had such a wonderful career with the L.A. Galaxy and I am thankful for everything the club, the fans and the community has done for me and my family.',
+        'Cobi Jones',
     ],
-    '541a7b36-89b8-51db-bcdc-cb5130d1c0b1' => [
-        'The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.',
-        'Leonardo Ruiz',
+    '9cb2f4e0-5e8d-5fcc-a723-5dc8265794d4' => [
+        'I need to travel, of course, with my laptop, so I can do my business on the road.',
+        'Theophilus London',
     ],
-    '4c7265cd-332e-59a9-bdb7-2ee53563284c' => [
-        'I don\'t smile much, and I never laugh. If you\'d been through what I\'ve been through, you wouldn\'t be smiling, either.',
-        'Charlie Sifford',
+    'e1ace060-dc96-51ed-9879-19d26935eda8' => [
+        'Stubbornness is a positive quality of presidential leadership - if you\'re right about what you\'re stubborn about.',
+        'Douglas Brinkley',
     ],
-    '0f661da4-b6c1-5550-9f10-fcee0305bad4' => [
-        'If you can\'t change your fate, change your attitude.',
-        'Charles Revson',
+    '7ef83f09-d7a7-5e6e-b789-6f2f91e3459b' => [
+        'There\'s not an instruction manual on how to deal with success, so you just have to rely on having great friends and a good team.',
+        'Bryan Adams',
     ],
-    '3ee26241-a3df-59e1-bef0-3433973991b3' => [
-        'I work hard. I focus on myself and putting food on my dinner table before anything else. I don\'t worry about other artists. Worrying about the next person in a negative way is the wrong way to be.',
-        'Meek Mill',
+    '74ae9531-270b-50ed-a531-0901ec4358f1' => [
+        'I am positive that flexibility is a feminine characteristic.',
+        'Emma Bonino',
     ],
-    '5139b9d1-f4c6-509b-ab66-33607a4e1313' => [
-        'Learning without reflection is a waste, reflection without learning is dangerous.',
-        'Confucius',
+    '11c20adb-88bd-5f19-a596-6b698cd860aa' => [
+        'Cheryl Cole and Katy Perry are two of the hottest girls in the world - and so normal and funny with it. If I was a few years older they are the kind of girls I\'d like to date. I want a younger version of Cheryl and Katy - a mixture of the two would be hot.',
+        'Justin Bieber',
     ],
-    '8eeae70c-06e2-5fe4-a53e-7b0e883e21d7' => [
-        'An aristocratic culture does not advertise its emotions. In its forms of expression it is sober and reserved. Its general attitude is stoic.',
-        'Johan Huizinga',
+    '29a4671e-97b3-5a83-8c48-2cb397bd1cdf' => [
+        'I was entirely natural and in many ways I have the same attitude now. I don\'t mourn the loss of my youth because I believe you should enjoy what you have while you have it.',
+        'Koo Stark',
     ],
-    '6828e503-3c7c-550d-856a-772e5ecab7b4' => [
-        'It was a very emotional dinner... Everyone shared personal stories about her and gave her words of encouragement and inspiration. Everyone tried to remain positive.',
-        'Lil\' Kim',
+    '964003c9-0116-5cf1-96f5-f1e9728d17ba' => [
+        'When Bill Clinton ran in \'92, and I listened to him, and I had of course known of his record from Arkansas, I found him extraordinarily inspirational, and I voted Democratic.',
+        'Wesley Clark',
     ],
-    '25f90f10-7b08-5078-94fb-8f56d3fced5a' => [
-        'Commercial success still hasn\'t come to an artist that isn\'t signed to a record label. There are very few artists that can succeed without the help of a record label. The role of the record label is still required, it\'s still necessary.',
-        'Edgar Bronfman, Jr.',
-    ],
-    '183a7d53-1664-5aca-8e1a-db479170a0b8' => [
-        'The biggest job we have is to teach a newly hired employee how to fail intelligently. We have to train him to experiment over and over and to keep on trying and failing until he learns what will work.',
-        'Charles Kettering',
-    ],
-    'd9d58719-c81d-56a8-8ce1-4359ccd0f6ca' => [
-        'I am seeking, I am striving, I am in it with all my heart.',
-        'Vincent Van Gogh',
-    ],
-    'a0670912-078c-597a-b02b-3c660b44a6bb' => [
-        'People often say that \'beauty is in the eye of the beholder,\' and I say that the most liberating thing about beauty is realizing that you are the beholder. This empowers us to find beauty in places where others have not dared to look, including inside ourselves.',
-        'Salma Hayek',
-    ],
-    '3c8ac793-1a58-5250-8167-3ef1b0385a1d' => [
-        'Desire is the key to motivation, but it\'s the determination and commitment to unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
-        'Mario Andretti',
-    ],
-    '1fd382ee-aa5e-5593-a93c-d2a01e73baca' => [
-        'Thank you for life, and all the little ups and downs that make it worth living.',
-        'George C. Marshall',
-    ],
-    'd2a3fa38-4a22-5326-9ab4-9f43596e08dc' => [
-        'The beauty of a finely worked object points to the beauty of the craftsmanship. The beauty of the craftsmanship points to the beauty of the name which was the source of the craftsmanship. The beauty of the name of the craftsman\'s art points to the beauty of the craftsman\'s attributes manifested in that art.',
-        'Said Nursi',
-    ],
-    '044908a7-a2b4-544d-86e9-ce4800fbc6ee' => [
-        'When your work speaks for itself, don\'t interrupt.',
-        'Henry J. Kaiser',
-    ],
-    '91d0eab7-e92e-51c7-8786-9340449b61f6' => [
-        'Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.',
-        'H. P. Lovecraft',
-    ],
-    '6704e02d-b35d-5f3a-a067-79c5a02e34c3' => [
-        'My tastes and inspirational artists were always rather eclectic and diverse.',
-        'Taylor Dayne',
-    ],
-    'd202e5fa-08a7-561a-a393-41688040fe8e' => [
-        'When you go in search of honey you must expect to be stung by bees.',
-        'Joseph Joubert',
-    ],
-    '93a43d6d-d430-5111-bda9-cc9e837f3c98' => [
-        'AIDS can destroy a family if you let it, but luckily for my sister and me, Mom taught us to keep going. Don\'t give up, be proud of who you are, and never feel sorry for yourself.',
-        'Ryan White',
-    ],
-    '21b48bf2-5b6d-540e-a6f3-fbe6e36b00de' => [
-        'To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time.',
-        'James A. Baldwin',
-    ],
-    '6cdf3313-628f-59d6-899a-6c27d3265b04' => [
-        'To be tested is good. The challenged life may be the best therapist.',
-        'Gail Sheehy',
-    ],
-    '10df5f49-983b-5d86-8f88-a7ec1cbe192f' => [
-        'One of my passions is photography. I always carry a camera in my bag whenever I travel. I always take pictures wherever I go, and some of them end up being really crazy ones.',
-        'Sunidhi Chauhan',
-    ],
-    'd7c6e63f-d81d-5703-9b81-be93c10cfcc9' => [
-        'It seems to me that many of the belligerent Jewish movements that were built upon hatred of Arabs - and I\'m not only talking about Lieberman, but within the Likud as well - grew out of the patronizing socialist attitude that said, \'They\'ll be there, and we\'ll be here.\'',
-        'Reuven Rivlin',
-    ],
-    'efef5794-f5d0-5dcc-95be-65507157c0c9' => [
-        'Hope is nature\'s veil for hiding truth\'s nakedness.',
-        'Alfred Nobel',
-    ],
-    'e3553985-286e-58eb-a52c-9164e64f6c23' => [
-        'The travel writer seeks the world we have lost - the lost valleys of the imagination.',
-        'Alexander Cockburn',
-    ],
-    '3e7ebd6d-9765-5ebf-970d-c32634c5dfff' => [
-        'Don\'t worry if people don\'t like you. Most people are struggling to like themselves.',
+    'a211653c-b411-56c4-a55e-58d4b31f9a25' => [
+        'The day is already blessed, find peace within it.',
         'Unknown',
     ],
-    'c22621ae-9283-5588-9804-a7d3d7bff14f' => [
-        'Let me be a free man - free to travel, free to stop, free to work.',
-        'Chief Joseph',
+    '8dd676da-d362-545c-ba1b-28db5d5c1ae3' => [
+        'Knowledge rests not upon truth alone, but upon error also.',
+        'Carl Jung',
     ],
-    '5575d9da-1035-52ee-93f0-8613976207f8' => [
-        'I\'m not going to be horrible just for the sake of having attitude or make other people feel small just to make me feel bigger.',
-        'Kate Moss',
+    '74298d07-dd19-5e06-84fc-6e1a93fe8b63' => [
+        'To smile at the jest which plants a thorn in another\'s breast is to become a principal in the mischief.',
+        'Richard Brinsley Sheridan',
     ],
-    '06286ecc-7787-5126-9d00-6d4229ed8644' => [
-        'I always have one or two, sometimes more, Navajo or other tribes\' cultural elements in mind when I start a plot. In Thief of Time, I wanted to make readers aware of Navajo attitude toward the dead, respect for burial sites.',
-        'Tony Hillerman',
+    'dfb4226c-7002-5428-af83-07129bc36fac' => [
+        'The best revenge in the world is success.',
+        'Suge Knight',
     ],
-    '3cb817e7-e336-5111-b6ee-196edaa5c322' => [
-        'I try to sign for as many kids as possible. Kids come first, and I\'ll always sign for a kid before an adult. It\'s funny, because I was never big into autographs as a kid. The only player who I ever wanted an autograph from was Dave Winfield.',
-        'Derek Jeter',
+    '8c5f7c52-f980-539a-be19-41f81606473c' => [
+        'I always appreciated the magnitude of my mother\'s imagination. She always saw beauty in what was broken, and she\'d preserve it.',
+        'Blake Lively',
     ],
-    '65d37758-d097-506c-a240-c787bd45d858' => [
-        'My message, especially to young people is to have courage to think differently, courage to invent, to travel the unexplored path, courage to discover the impossible and to conquer the problems and succeed. These are great qualities that they must work towards. This is my message to the young people.',
-        'A. P. J. Abdul Kalam',
+    'b0f9ac80-5a20-5f2b-975c-26a26de3a440' => [
+        'History is the only true teacher, the revolution the best school for the proletariat.',
+        'Rosa Luxemburg',
     ],
-    '1d4759c9-2ca6-54b2-ba9b-b50358e2270d' => [
-        'People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.',
-        'Rob Siltanen',
+    '78c6e611-6ef8-53fc-979e-a9f05a47b338' => [
+        'I\'m a family man, and I couldn\'t be happier. My wife and I have been blessed with an incredible family, and my kids are my life.',
+        'Scottie Pippen',
     ],
-    '97ec4ad1-ed28-57e7-bae3-5a3f57e5ec89' => [
-        'When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty.',
-        'John Muir',
+    '97966c6f-946d-5388-8ccd-8fd0cb5ed610' => [
+        'The thing is that love gives us a ringside seat on somebody else\'s flaws, so of course you\'re gonna spot some things that kinda need to be mentioned. But often the romantic view is to say, \'If you loved me, you wouldn\'t criticise me.\' Actually, true love is often about trying to teach someone how to be the best version of themselves.',
+        'Alain de Botton',
     ],
-    '6a211d34-976d-535c-9f1a-6ff934a40c00' => [
-        'Democrats are dumb and Republicans are stupid, but the difference between dumb and stupid is dumb isn\'t funny. Dumb is when you say something and the whole room goes, \'What did he say?\'',
-        'Lewis Black',
+    'cb5867aa-ff33-5c6b-a783-30d4531c5bd1' => [
+        'He taught me never to smile, which helps me when I visit disaster sites.',
+        'Emo Philips',
+    ],
+    '96f9bb1b-6efb-564e-95cb-a66c150a62ca' => [
+        'The success of the young entrepreneur will be the key to India\'s transformation in the new millennium.',
+        'Dhirubhai Ambani',
+    ],
+    'af568417-6208-5df4-9851-507b3210aa62' => [
+        'The left dismisses talk about the collapse of family life and talks instead about the emergence of the growing new diversity of family types.',
+        'Christopher Lasch',
+    ],
+    '8a00cee5-0d17-5b5c-9ddb-02ecfe85c48b' => [
+        'The commonplace about Italian cooking is that it\'s very simple; in practice, the simplicity needs to be learned, and the best way to learn it is to go to Italy and see it firsthand.',
+        'Bill Buford',
+    ],
+    '7140ea40-5e11-572f-9c61-72938df28fd6' => [
+        'You have to have an attitude that nothing\'s gonna stop me. I think that\'s just my New York kind of attitude - survival of the fittest.',
+        'Melissa De Sousa',
+    ],
+    '4e8888b9-0130-52c8-a4c5-1d3713373fc7' => [
+        'At Netflix, we think you have to build a sense of responsibility where people care about the enterprise. Hard work, like long hours at the office, doesn\'t matter as much to us. We care about great work.',
+        'Reed Hastings',
+    ],
+    'e60ecfef-07d2-5bef-9b4e-8dfd113d86b9' => [
+        'We sometimes laugh from ear to ear, but it would be impossible for a smile to be wider than the distance between our eyes.',
+        'Malcolm de Chazal',
+    ],
+    'bf95ac71-af37-587a-9095-ce230047b831' => [
+        'I\'ve discovered that Motown and Broadway have a lot in common - a family of wonderfully talented, passionate, hardworking young people, fiercely competitive but also full of love and appreciation for the work, for each other and for the people in the audience.',
+        'Berry Gordy',
+    ],
+    '89826e15-db54-513d-8772-2fb79103b461' => [
+        'Let the beauty of what you love be what you do.',
+        'Rumi',
+    ],
+    'dddb5fd5-b226-5d4b-b3d2-3cb013533cd8' => [
+        'Beauty is in the eye of the beer holder.',
+        'Kinky Friedman',
+    ],
+    '17bdd239-dcc9-58df-9342-feb6e9abced1' => [
+        'The most used program in computers and education is PowerPoint. What are you learning about the nature of the medium by knowing how do to a great PowerPoint presentation? Nothing. It certainly doesn\'t teach you how to think critically about living in a culture of simulation.',
+        'Sherry Turkle',
+    ],
+    '70aaf22e-6881-5cef-8063-8d52afff5ab0' => [
+        'Kindness is the language which the deaf can hear and the blind can see',
+        'Mark Twain',
+    ],
+    '7f7b0676-985d-5b6f-9973-b540f16f3ca0' => [
+        'The best government is a benevolent tyranny tempered by an occasional assassination.',
+        'Voltaire',
+    ],
+    '0d2a1703-703d-5d50-8f2b-99a590864ea2' => [
+        'The positive is I\'m delighted at the way the Liberal Democrats as a party have supported me and the way in which the work I\'m doing, through the Liberal Democrats, has abled to broaden some of the work I work on.',
+        'Maajid Nawaz',
+    ],
+    'f50212ad-c4a6-5967-abe1-efd86b5ceaf4' => [
+        'If in my youth I had realized that the sustaining splendour of beauty of with which I was in love would one day flood back into my heart, there to ignite a flame that would torture me without end, how gladly would I have put out the light in my eyes.',
+        'Michelangelo',
+    ],
+    'd3774023-c11e-5771-91eb-21fbd4e22866' => [
+        'I was born into the most remarkable and eccentric family I could possibly have hoped for.',
+        'Maureen O\'Hara',
+    ],
+    '25bf8ea5-e83b-5cf9-a19d-7d5a46cd036f' => [
+        'I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.',
+        'Gilbert K. Chesterton',
+    ],
+    '54bcfb7a-24e9-5668-9a5a-e28091331306' => [
+        'Success does not consist in never making mistakes but in never making the same one a second time.',
+        'George Bernard Shaw',
+    ],
+    '97e246b6-867e-566b-a74f-09885a3303f1' => [
+        'The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don\'t play together, the club won\'t be worth a dime.',
+        'Babe Ruth',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '8f146e1e-4e1e-5179-a471-3c6c136e149d' => [
-        'I love a woman with a relaxed attitude.',
-        'Stephane Rolland',
+    '2ea0fd83-5a99-5f95-8a5a-6d8995904408' => [
+        'I believe that the best cameraman is one who recognizes the source, the story, as the basis of his work.',
+        'James Wong Howe',
     ],
-    '5149cd3f-5103-522f-ba57-d64a0a4698d6' => [
-        'A woman has two smiles that an angel might envy, the smile that accepts a lover before words are uttered, and the smile that lights on the first born babe, and assures it of a mother\'s love.',
-        'Thomas Chandler Haliburton',
+    'e945a13d-da1d-595a-b5b0-6acc6abfc6fe' => [
+        'Every man is a volume if you know how to read him.',
+        'Channing',
     ],
-    'a1721e8e-3f6c-5fac-b0eb-a10c20ab864f' => [
-        'I don\'t follow anything blindly. I have to know the entire thing, if I have to get in to it. It might sound funny to you, but it\'s like using English language. I use an English word only when I know its meaning and understand its connotation. You won\'t hear me say, \'What\'s up, dude\' or anything like that just for the heck of it.',
-        'Kailash Kher',
+    'c154a9cd-cdc4-55bb-9a06-18edb7a1e253' => [
+        'For most inhabitants of the Arab world, the prevailing cultural attitude toward women - fed and encouraged by Wahhabi doctrine, which is based on Bedouin social norms rather than Islamic jurisprudence - often trumps the rights accorded to women by Islam.',
+        'G. Willow Wilson',
     ],
-    '48aa79c0-5d0b-5aed-9edf-7cf2fa080959' => [
-        'I travel like a maniac. I travel more than anyone I know. I love learning the languages.',
-        'Quincy Jones',
+    '2890da44-71e8-5c30-900e-d7f90cbd78e0' => [
+        'Tears are often the telescope by which men see far into heaven.',
+        'Henry Ward Beecher',
     ],
-    'ee46cde7-9bcf-57d1-b843-3ee7bfd40ffb' => [
-        'Obviously, the highest type of efficiency is that which can utilize existing material to the best advantage.',
-        'Jawaharlal Nehru',
+    'c51a0911-d05d-596a-8e13-66f0b50b3a9d' => [
+        'Good is positive. Evil is merely privative, not absolute: it is like cold, which is the privation of heat. All evil is so much death or nonentity. Benevolence is absolute and real. So much benevolence as a man hath, so much life hath he.',
+        'Ralph Waldo Emerson',
     ],
-    'e3703ae9-fec2-5c46-aac8-4030837acacf' => [
-        'It is not so important to know everything as to appreciate what we learn.',
-        'Hannah More',
+    'bf088567-030f-59ba-b454-fdba7de4f3c7' => [
+        'Justin Bieber is signed to Def Jam, and I don\'t believe in touching nothing that ain\'t mine. I want someone to give me the same respect - don\'t touch nothing that\'s mine. I still want what I want. But Justin Bieber is definitely a friend of a family. Me, Drake, Wayne. We rock with the little homie, so he a part of us in heart.',
+        'Birdman',
     ],
-    '744b050e-b344-52aa-8865-022d5ec2c376' => [
-        'If I create from the heart, nearly everything works; if from the head, almost nothing.',
-        'Marc Chagall',
+    'd9d4249c-e29a-54cd-b9e3-884c9112650d' => [
+        'A fit body gives you confidence. And there\'s nothing more impressive than a great attitude, which you can wear on your sleeve. But you\'ll have to remember the difference between being rude and being confident.',
+        'Virat Kohli',
     ],
-    '84bf36d8-874d-5973-88f1-433a1d969f9f' => [
-        'Singleness of purpose is one of the chief essentials for success in life, no matter what may be one\'s aim.',
-        'John D. Rockefeller',
+    'e7d4d63a-718f-514e-aa58-c7a4de98a142' => [
+        'I will tell you with 100 percent confidence, Jon Jones is not deep in my head. The fact he actually thinks that, it makes me smile every day.',
+        'Daniel Cormier',
     ],
-    '32655bba-3d46-5bb7-8cc8-399703e18417' => [
-        'People always fear change. People feared electricity when it was invented, didn\'t they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters.',
-        'Bill Gates',
+    '128d9c89-ceea-5b86-bd80-843eccc0b3d0' => [
+        'In the long run, I believe that honesty is definitely the best policy. One can get away by being dishonest for a short term, but ultimately, honesty is what pays.',
+        'Kapil Dev',
     ],
-    'e89c7544-ad40-5e90-968f-38923cb784b1' => [
-        'People travel and hunt on the sea ice - in Alaska, they hunt in skin boats for bowhead whales; in Greenland, they hunt with dogsleds. The ice is their highway. The ice is also the ecosystem in which marine mammals and terrestrial animals such as polar bears exist.',
-        'Gretel Ehrlich',
+    '5055c99e-a8c8-528b-9fd3-b7f8aa4c1d1e' => [
+        'For the record, our democracy is revered around the world. And free elections are the best way on Earth to choose our leaders. This is how we elected John F. Kennedy; Ronald Reagan; two George Bushes; Bill Clinton; and Barack Obama. It has worked for decades.',
+        'Michelle Obama',
     ],
-    '554f54ae-da6d-552e-84d7-7c5db9f6d6e1' => [
-        'Certainly there are things in life that money can\'t buy, but it\'s very funny - Did you ever try buying them without money?',
-        'Ogden Nash',
+    '5bdc281a-d812-5d9e-adb5-ec3e2d7df650' => [
+        'Beauty is an ecstasy; it is as simple as hunger. There is really nothing to be said about it. It is like the perfume of a rose: you can smell it and that is all.',
+        'W. Somerset Maugham',
     ],
-    'd1dad456-b632-5be1-9d6e-f9f2e5cbeeee' => [
-        'One of the main secrets to staying young is staying healthy. I\'ve sometimes had to suppress a smile when some young lady, who has obviously not taken care of herself through diet or exercise, says admiringly, \'Ooh, I hope I look as good as you do when I\'m your age!\' Although it\'s intended to be complimentary, it\'s actually a back-hander.',
-        'Joan Collins',
+    '772d4dcc-e231-56f8-8ec9-7f418fbcbde1' => [
+        'I had two family members involved in World War I: two great-uncles. One of them is on a memorial in France. And the other was a trench runner who survived the war. The average life span of a trench runner was 36 hours, but he survived the whole war.',
+        'Ben Barnes',
     ],
-    'c4ae9167-2893-5761-97ef-2200432dca94' => [
-        'A lot of newspaper columns used to be written in a rat-a-tat-tat, fast-paced style - and they tended to be funny. They were a little relief from the grimmer, grayer parts of the newspaper, and one of the best people at doing this was Will Rogers.',
-        'P. J. O\'Rourke',
+    'e92024af-6ae7-5981-b18d-2dc2b7ea1cb5' => [
+        'The four building blocks of the universe are fire, water, gravel and vinyl.',
+        'Dave Barry',
     ],
-    '379cdff5-a653-5c44-a226-2ab84e8d92b7' => [
-        'A stumble may prevent a fall.',
-        'Unknown',
+    '5fe0e23c-0345-5671-b041-74137fe047f4' => [
+        'No, we are not anti-white. But we don\'t have time for the white man. The white man is on top already, the white man is the boss already... He has first-class citizenship already. So you are wasting your time talking to the white man. We are working on our own people.',
+        'Malcolm X',
     ],
-    '7428583b-4919-5108-9c3d-515703e150d3' => [
-        'We all obviously need others to look up to, and be inspirational to us. Ford did a great job as far as putting the presidency back where it belonged, getting the trust back after Nixon. And President Reagan has been one of the most influential presidents.',
-        'Steve Garvey',
+    'e6d24f0d-7277-5485-bf26-c48eeffc40b2' => [
+        'If you want to have a good life, you should focus on your family, on your business, on your dog, on your fun, and you\'ll have a good life.',
+        'Adam Carolla',
     ],
-    '662800f9-b50d-57a7-9281-4e78de4c9e06' => [
-        'Over time, naturally, you lose your innocence from gaining knowledge. You can\'t be innocent forever, but there\'s something in innocence you need to regain to be creative.',
-        'Albert Hammond, Jr.',
+    '1044193e-8da7-58e0-abf4-8c719069ab13' => [
+        'We convince by our presence.',
+        'Walt Whitman',
     ],
-    'a32b84e2-340c-53a7-97b4-c74625bd76f1' => [
-        'My agent says that I\'m a \'repeat business guy.\' If you hire me to come do a movie, I\'ll be on time, know all my material, be ready to go, have a good attitude. I\'m here to work, so I get hired over and over again by the same producers. If you just be a team player on set you can work so much more often.',
-        'Dean Cain',
+    '000a3175-f900-5b9c-931f-4d40eee9c294' => [
+        'What\'s a bigger mystery box than a movie theater? You go to the theater, you\'re just so excited to see anything - the moment the lights go down is often the best part.',
+        'J. J. Abrams',
     ],
-    'afae63e0-e3bb-5a46-a391-68828903652d' => [
-        'Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.',
-        'Thomas Carlyle',
+    '0e0e9cb8-9802-575e-9a2c-930f20db0c27' => [
+        'There\'s no lotion or potion that will make sales faster and easier for you - unless your potion is hard work.',
+        'Jeffrey Gitomer',
     ],
-    'fa4f7536-0595-586e-a735-31d3cff3ca75' => [
-        'Having a clear faith, based on the creed of the church is often labeled today as fundamentalism. Whereas relativism, which is letting oneself be tossed and swept along by every wind of teaching, look like the only attitude acceptable to today\'s standards.',
-        'Pope Benedict XVI',
+    '4729ca8b-f7bf-5b95-8fb7-d884b3cbae24' => [
+        'Design is not just what it looks like and feels like. Design is how it works',
+        'Steve Jobs',
     ],
-    'cca0834d-edd4-5513-8067-d2f4af9adf91' => [
-        'Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.',
-        'Milan Kundera',
+    'bc12e5d6-e390-5d96-8678-d4a31f541049' => [
+        'Nobody ever drowned in his own sweat.',
+        'Ann Landers',
     ],
-    'bcdf8a39-0516-512f-8462-19d82c01cfc9' => [
-        'When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.',
-        'Confucius',
+    '088a7dc9-29c5-5915-80c6-ade4e8a7da21' => [
+        'Ball caps travel far and wide. They do far more than keep the sun out of your eyes or the cold off your head. Ball caps are a statement.',
+        'George Vecsey',
     ],
-    '370c5b74-a6cc-5730-b309-c2d377e3611f' => [
-        'I don\'t think punk ever really dies, because punk rock attitude can never die.',
-        'Billy Idol',
+    '816d7672-5d88-51ab-b362-7b401d701bf4' => [
+        'When all the original blues guys are gone, you start to realize that someone has to tend to the tradition. I recognize that I have some responsibility to keep the music alive, and it\'s a pretty honorable position to be in.',
+        'Eric Clapton',
     ],
-    '7750f484-e6c0-5e29-8a64-d70b8dc36708' => [
-        'Thelonious Monk was one of the musicians I most connected with early on. I\'m a huge Betty Carter fan, and the way that Abbey Lincoln and Shirley Horn grew immensely from the time they were young is so inspirational.',
-        'Cecile McLorin Salvant',
+    'c5fed30c-3380-5eac-9761-d93b9f4c37eb' => [
+        'A life is not important except in the impact it has on other lives.',
+        'Oliver Goldsmith',
     ],
-    'c371f028-9afa-58ae-86cf-b32e548c9397' => [
-        'My Hellboy is modeled on my father in some ways: a guy who\'s been in the Korean War, and he\'s traveled, and he\'s done a lot of stuff, and he\'s kind of got a been there, done that attitude. He\'s also been in the world. Del Toro\'s change was to have Hellboy bottled up in a room and mooning over the girl he can\'t have.',
-        'Mike Mignola',
+    '2df325db-9a61-5e62-bf37-642a0cded3b1' => [
+        'To travel is to discover that everyone is wrong about other countries.',
+        'Aldous Huxley',
+    ],
+    '68c99de5-6ce7-5009-9231-47027a5cb6bb' => [
+        'We should not allow it to be believed that all scientific progress can be reduced to mechanisms, machines, gearings, even though such machinery also has its beauty. Neither do I believe that the spirit of adventure runs any risk of disappearing in our world.',
+        'Marie Curie',
+    ],
+    '2f58d96f-ad1b-5691-8116-448e2f23ac27' => [
+        'Life is all about having a good time.',
+        'Miley Cyrus',
+    ],
+    'a46d9100-8ccd-5c7e-be9b-256afc076522' => [
+        'An investment said to have an 80% chance of success sounds far more attractive than one with a 20% chance of failure. The mind can\'t easily recognize that they are the same.',
+        'Daniel Kahneman',
+    ],
+    'e0101544-4200-5739-841a-25dd71a27a36' => [
+        'No matter what a woman\'s appearance may be, it will be used to undermine what she is saying and taken to individualize - as her personal problem - observations she makes about the beauty myth in society.',
+        'Naomi Wolf',
+    ],
+    'e8fa2a67-8f01-56eb-a25c-a55635120a66' => [
+        'Success is having to worry about every damn thing in the world, except money.',
+        'Johnny Cash',
+    ],
+    'be5cbbd8-dead-5809-a03b-c46f75fcfe10' => [
+        'Every bit of joy in my heart, you know, every smile on my face is yours. It\'s awesome to be able to share that with somebody.',
+        'Brantley Gilbert',
+    ],
+    'e5be30ea-7094-5b6e-96eb-1cd1a3849c10' => [
+        'There are essential elements for our public schools to fully develop the potential of both students and educators. They should be centers of community, where students, families and educators work together to support student success. They should foster collaboration.',
+        'Randi Weingarten',
+    ],
+    '213a0462-84a0-54b0-89db-69d50bbd619d' => [
+        'Research indicates that employees have three prime needs: Interesting work, recognition for doing a good job, and being let in on things that are going on in the company.',
+        'Zig Ziglar',
+    ],
+    '9ac24fe1-9eae-5e6e-b6cf-1d4453ae62d0' => [
+        'Genuine love should first be directed at oneself. if we do not love ourselves, how can we love others?',
+        'Dalai Lama',
+    ],
+    '492536ba-01bc-503b-a0ea-699e0b6ef7f9' => [
+        'A creative man is motivated by the desire to achieve, not by the desire to beat others.',
+        'Ayn Rand',
+    ],
+    '67ab248d-012b-50e0-a565-fc1db373033a' => [
+        'Who knows better than artists how much ugliness there is on the way to beauty, how many ghastly, mortifying missteps, how many days of granitic blockheadedness and dismaying ineptitude there is on the way to accomplishment, how partial all accomplishment is, how incomplete?',
+        'Tony Kushner',
+    ],
+    '9ed35a4b-e9d9-54e0-880a-b0b6519086a3' => [
+        'You know, the standard state for people is \'mildly pleasant.\' Negative emotions are quite rare, and extremely positive emotions are rare. But people are mildly pleased most of the time, they\'re mildly tired a lot of the time, and they wish they were somewhere else a substantial part of the time - but mostly they\'re mildly pleased.',
+        'Daniel Kahneman',
+    ],
+    '7b10073a-a4d9-587b-a5fc-598893cfc351' => [
+        'The best measure of a man\'s honesty isn\'t his income tax return. It\'s the zero adjust on his bathroom scale.',
+        'Arthur C. Clarke',
+    ],
+    'c831126f-c432-56f9-83f1-87fc1a007825' => [
+        'Life grants nothing to us mortals without hard work.',
+        'Horace',
+    ],
+    '6deded2d-2cc6-5f25-bf28-4e9d6c5de1cb' => [
+        'We are certainly not to relinquish the evidence of experiments for the sake of dreams and vain fictions of our own devising; nor are we to recede from the analogy of Nature, which is wont to be simple and always consonant to itself.',
+        'Isaac Newton',
+    ],
+    '39c4c45c-9848-5cc2-9aea-4f0ec4ae08cb' => [
+        'A journey by Sea and Land, Five Hundred Miles, is not undertaken without money.',
+        'Lewis Hallam',
+    ],
+    'aed99bc9-00ea-52e0-a294-c909bf5b4cae' => [
+        'Sometimes when I\'m being photographed, I hear the voice of this photographer who told me when I was about six while he was taking my school photo that I didn\'t have a nice smile, and I shouldn\'t smile in photos.',
+        'Brad Goreski',
     ],
     'b6fab0c6-ab01-5729-adc0-6a286555eba3' => [
         'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
         'William Channing',
     ],
-    '4d8b3f09-f0e9-5d94-ae90-8773f9be90f6' => [
-        'Self-confidence has always been one of my good qualities. I am always very confident. It is in my nature to be confident, to be aggressive. And it applies in my batting as well as wicketkeeping.',
-        'Mahendra Singh Dhoni',
+    '3175a10c-c6b2-531a-b8d6-03b394a084a3' => [
+        'People who grew up watching Disney films like myself, there are films that are certain benchmarks in my childhood. \'The Little Mermaid\' was the first movie I remember seeing. \'Beauty And The Beast,\' \'Aladdin,\' those are three I remember right off the bat.',
+        'Mandy Moore',
     ],
-    '18a7adba-0f7b-58d9-9b80-d09d1848db53' => [
-        'A lot of America is kind of done. People have been making films about it for 100 years. Everything to me feels used up. But Jo-Burg feels unbelievably inspirational to me.',
-        'Neill Blomkamp',
+    '36ba7cca-b9cd-5d4a-9ec5-24b2c30923e3' => [
+        'I think nudity is funny, especially when it\'s inappropriate.',
+        'Chelsea Handler',
     ],
-    'f9ac0129-bce0-5dd9-8ccd-d5cb2af2ffe1' => [
-        'There\'s no one particular road that will lead you to success. I think everybody will find it differently.',
-        'Marina and the Diamonds',
+    '30dd8b52-9a6c-5d45-b18a-f83adc4a3a76' => [
+        'You should feel good about making your home nicer for your family and your friends. You should feel great about cooking a good dinner and making a dress for a granddaughter, creating a beautiful birthday party. It\'s all part of life.',
+        'Martha Stewart',
     ],
-    '46d0330d-9dd1-5c43-bb1f-41459ab586c3' => [
-        'You have survived every single bad day so far',
-        'Unknown',
+    'a9c3f105-6720-5b5c-a204-3ff1631cd86d' => [
+        'I make negative music, but I also make positive music because that\'s what thrown at me with life.',
+        'Tyga',
     ],
-    'b2538970-163d-580d-a40c-a8169a75c756' => [
-        'Beauty is the only thing that time cannot harm. Philosophies fall away like sand, creeds follow one another, but what is beautiful is a joy for all seasons, a possession for all eternity.',
-        'Oscar Wilde',
+    '771bb7c3-d65a-590f-9879-1c1e51cf216d' => [
+        'All our dreams can come true if we have the courage to pursue them.',
+        'Walt Disney',
     ],
-    '2e97f7f9-48d0-53c2-b41f-af6ccfd6a4ee' => [
-        'Our deepest wishes are whispers of our authentic selves. We must learn to respect them. We must learn to listen.',
-        'Sarah Breathnach',
+    '1d0e364b-9929-5f6d-85e5-a1dbfb542c63' => [
+        'Viewed freely, the English language is the accretion and growth of every dialect, race, and range of time, and is both the free and compacted composition of all.',
+        'Walt Whitman',
     ],
-    '6223cfed-c501-5ea6-88e3-8c26811ed538' => [
-        'There have been many different artists that have been inspirational. I suppose the question is directed to what was the reason why I went into fantasy illustration.',
-        'Boris Vallejo',
+    '22984294-cc52-51a7-a684-f56c56b27c38' => [
+        'Reality is easy. It\'s deception that\'s the hard work.',
+        'Lauryn Hill',
     ],
-    'bbaa0d8c-37cf-5e3e-8ec0-44fc022fffc0' => [
-        'I know Donald Trump. I\'ve met him; I know his family. I have love and friendship and affection for his family members. But I\'m going to work very hard to ensure that he is not our president.',
-        'Cory Booker',
-    ],
-    '9f9efc0f-09b9-5925-aacb-8cbed18d211a' => [
-        'Worry gives a small thing a big shadow.',
-        'Unknown',
-    ],
-    'e0c94c39-011d-557b-815d-3adb9caa90d7' => [
-        'When you feel stuck in a hard time, jump-start a pro-change attitude by letting go of possessions that no longer work for you - like old clothes and old shoes.',
-        'Karen Salmansohn',
-    ],
-    'a8ae96cc-84bf-5841-820b-cc3135aa6ed8' => [
-        'Part of what made the Macintosh great was that the people working on it were musicians, poets, and artists, and zoologists, and historians. They also happened to be the best computer scientists in the world. But if it hadn\'t been computer science, these people would have been doing amazing things in other fields.',
-        'Steve Jobs',
-    ],
-    '00fcf5bb-e3f1-5990-a769-f93d12bb4d0c' => [
-        'How can any person with a myopic view and harbouring intense parochial attitude even think of leading the nation?',
-        'Sharad Pawar',
-    ],
-    '4de794d1-e362-520e-8a0e-b63e218f7396' => [
-        'The greatest barrier to success is the fear of failure.',
-        'Eriksson',
-    ],
-    '17d0b7de-26bb-57cd-8f77-8e39ba79e186' => [
-        'When I haven\'t been working I\'ve tried to travel a lot.',
-        'Emma Watson',
-    ],
-    '66716aec-f033-5630-9203-ffe8429592b7' => [
-        'Love is just a word until someone comes along and gives it meaning.',
-        'Unknown',
-    ],
-    '15e9f3ad-bfb3-53fe-ba13-706a15540f5e' => [
-        'The more I want to get something done, the less I call it work.',
-        'Richard Bach',
-    ],
-    'fbce84fd-661d-5d80-ac78-af05c62fd148' => [
-        'Teach us that wealth is not elegance, that profusion is not magnificence, that splendor is not beauty.',
-        'Benjamin Disraeli',
-    ],
-    '26b55ac1-2103-5f2c-b799-23c045c15569' => [
-        'I hate to say it but I hate black humor. I feel like a Klan member saying it, but it\'s just not funny.',
-        'Issa Rae',
-    ],
-    '40b76f4e-4692-5fdb-be5e-72826f798fa9' => [
-        'Remember that failure is an event, not a person.',
-        'Zig Ziglar',
-    ],
-    'ee2f44d6-5f48-55a2-abaf-60f6ec8eb467' => [
-        'Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.',
-        'Unknown',
-    ],
-    '66a5df51-2f66-5429-a1d8-433e84e178d9' => [
-        'I always carry lip balm and lipstick. Lipstick is a very important beauty product because I find that lips are the most beautiful feature of anyone\'s face.',
-        'Fan Bingbing',
-    ],
-    '5e038bce-4ed9-5d8d-a9bf-fd4d857c4eac' => [
-        'I always had the attitude that I wanted to throw a no-hitter every game.',
-        'Dennis Eckersley',
-    ],
-    '62ea1564-368c-5ccd-af92-b614b0c9aa06' => [
-        'In the Arctic, the Inuit are saying water and land are the same; they\'re an unbroken unity. In the winter, you travel on the ice because it\'s the linkage and the easiest way, and in the summer, you move around on the water.',
-        'John Ralston Saul',
-    ],
-    '7644ab97-5488-5ea5-a775-eb58d3d8c4c6' => [
-        'I think Operation Smile is in more than 22 countries, mostly Third World. It just happened that my schedule opened up at the time they were heading to Vietnam.',
-        'Roma Downey',
-    ],
-    '8fd0e71e-7d4b-54be-9d7d-c3d615bb972a' => [
-        'I\'m a real nature lover, so whenever possible, I like to get to the beach or get to a forest or get somewhere there\'s fresh air. Apart from that, I\'m a film addict and a DVD freak.',
-        'Murray Bartlett',
+    'f23fd96f-b1ba-5515-8121-17c22349b857' => [
+        'I\'m not happy not doing anything. When positive things are rolling in, you\'ve got to take them when you can get them.',
+        'Tori Spelling',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'a744ec42-58e8-5ad2-a41c-9f1850572340' => [
-        'The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.',
-        'Anna Quindlen',
+    '47835afb-f744-561e-b256-55ba91bf5bc9' => [
+        'I\'m the kind of person who likes to hang out and observe what\'s going on in the streets, or in certain places. I used to do that a lot. But having to become an international superstar, I can\'t do that comfortably! But it\'s all positive, you know.',
+        'Jimmy Cliff',
     ],
-    '0cc628e9-eb8c-530b-be18-7d6944a525c9' => [
-        'I\'ve missed more than 9000 shots in my career. I\'ve lost almost 300 games. 26 times I\'ve been trusted to take the game winning shot and missed. I\'ve failed over and over and over again in my life. And that is why I succeed.',
-        'Michael Jordan',
+    '2e3b0455-6b45-5388-bfc0-3172a1d5a56b' => [
+        'I don\'t want to be linked to anything negative. I don\'t want negative energy. I want everything positive around me.',
+        'Kendra Wilkinson',
     ],
-    '73bbe43d-dce6-529e-a39f-6d286d810e3e' => [
-        'I\'m actually pretty shy in real life. But I guess in front of the camera, I focus.',
-        'Steve Jobs',
+    '4dce3714-ccc8-5a00-bed5-555faa36be81' => [
+        'I definitely have the eye of the tiger. I\'ve fought my way to where I am and will continue to do so. I\'m a hard worker - I get it from my family. We only know work. Nothing was handed to us. When I believe in something, I go after it. It\'s very hard to tell me \'no.\'',
+        'Nicole Scherzinger',
     ],
-    '435aca90-21dc-5331-9eef-b3f86ea34131' => [
-        'If you spend too much time thinking about a thing, you\'ll never get it done',
-        'Bruce Lee',
+    '42ec7362-05c5-597f-8703-fab95be101eb' => [
+        'Evangelicals always assume that humor and faith are contradictory. It\'s OK to smile, to be nice, but not frivolous.',
+        'Mike Yaconelli',
     ],
-    '1de2a09e-29eb-597e-a9f6-e3e3c215fe45' => [
-        'Men speak of natural rights, but I challenge any one to show where in nature any rights existed or were recognized until there was established for their declaration and protection a duly promulgated body of corresponding laws.',
-        'Calvin Coolidge',
+    '1a01e25d-47bd-5c29-b28c-e7d4e426b6ce' => [
+        'Rare is the union of beauty and purity.',
+        'Juvenal',
     ],
-    'cc0b1657-124a-5c7f-8289-c917f68ffafb' => [
-        'A woman can take care of the family. It takes a man to provide structure, to provide stability.',
-        'Tom DeLay',
+    '0b6ee1b6-9252-582e-92ef-d07bfc7ca631' => [
+        'Belief in oneself is one of the most important bricks in building any successful venture.',
+        'Lydia M. Child',
     ],
-    'd9885025-f1eb-59a0-87b4-43c55ab4c87b' => [
-        'As long as you smile, have sparkly eyes and stick your shoulders back, nobody\'s going to notice your bum or your waist or your feet, for that matter.',
-        'Cat Deeley',
+    'ab617609-9235-5bd6-a7fe-69da8ab9baa7' => [
+        'The work of healing is not my work, but by faith, healing is done. The work of deliverance, great and mighty deliverance, is not my work but is my faith in Him. It is not the works of righteousness which I have done, but according to His grace. I am a product of His grace.',
+        'T. B. Joshua',
     ],
-    '7e4e2642-8c4c-5454-a47f-5122086f9bb5' => [
-        'Everything in excess is opposed to nature.',
-        'Hippocrates',
+    '3e05fa93-ca57-5086-83ba-5e9b6b70d9af' => [
+        'If you really believe in what you\'re doing, work hard, take nothing personally and if something blocks one route, find another. Never give up.',
+        'Laurie Notaro',
     ],
-    '7f352187-1a18-56ab-a849-9c7468791127' => [
-        'People with high blood pressure, diabetes - those are conditions brought about by life style. If you change the life style, those conditions will leave.',
-        'Sarah Ban Breathnach',
+    'b416bd7f-2fd8-53e3-bd49-41ad0eebcf57' => [
+        'Dreaming in public is an important part of our job description, as science writers, but there are bad dreams as well as good dreams. We\'re dreamers, you see, but we\'re also realists, of a sort.',
+        'William Gibson',
     ],
-    '9dbcd7c0-28a0-5371-a67f-2452a654900e' => [
-        'Without craftsmanship, inspiration is a mere reed shaken in the wind.',
-        'Johannes Brahms',
+    '73e88eff-f0e3-53f7-ad17-a74a865d6961' => [
+        'I mostly like to travel and volunteer because I get antsy if I stay in my comfort zone for too long.',
+        'Eden Sher',
     ],
-    '487a5cbf-3b61-524f-8df2-3b972218ed13' => [
-        'Time is the most precious element of human existence. The successful person knows how to put energy into time and how to draw success from time.',
-        'Denis Waitley',
+    '9164648a-4c43-5dbb-9499-8d451cd72ec8' => [
+        'I\'m extremely ambitious. I don\'t know why people are afraid to say that. I won\'t sell my soul to the devil, but I do want success and I don\'t think that\'s bad.',
+        'Jada Pinkett Smith',
     ],
-    '71158c66-6810-55a4-9fb7-4c99d11f0362' => [
-        'Life is very short and what we have to do must be done in the now.',
-        'Tim O\'Brien',
+    'e965379b-18dd-51f9-aaa9-ec6c14e917da' => [
+        'In this life, you should read everything you can read. Taste everything you can taste. Meet everyone you can meet. Travel everywhere you can travel. Learn everything you can learn. Experience everything you can experience.',
+        'Mario Cuomo',
     ],
-    'e57043c0-15b3-5dbd-ae1f-c682e17a6069' => [
-        'In this life, we have to make many choices. Some are very important choices. Some are not. Many of our choices are between good and evil. The choices we make, however, determine to a large extent our happiness or our unhappiness, because we have to live with the consequences of our choices.',
+    '9e44cc72-bf0e-5096-9629-88c8d4706707' => [
+        'Let\'s not dismiss or attack individual ideas as being inadequate before we have had a chance to assess their positive effect as part of a whole solution.',
+        'John Thune',
+    ],
+    '9ae4a5c9-cd32-5d82-91ad-58607eef8155' => [
+        'I like to smile when its natural. I\'m not mad or anything. That\'s my style.',
+        'Jesse McCartney',
+    ],
+    'b1ce4180-a5c6-5bfd-99ac-8e87f42764c7' => [
+        'The older you get, the better you have to look, the higher you have to kick, the harder you have to work.',
+        'Salman Khan',
+    ],
+    '9c1fdd12-efe1-5641-95db-2242db862d95' => [
+        'If I had no family, my wife and I would lead a much more romantic and nomadic existence.',
+        'David McCallum',
+    ],
+    'f2297cf1-4043-5115-9dc7-b6f1d09f560f' => [
+        'Wisdom is the reward you get for a lifetime of listening when you\'d have preferred to talk.',
+        'Doug Larson',
+    ],
+    'a3348d6e-62c4-5ab8-a6b6-c717db5ac07a' => [
+        'When I was growing up, my family was so poor we couldn\'t afford to pay attention.',
+        'Mr. T',
+    ],
+    'dd7247ad-6de4-50b7-afd7-c15c75e44086' => [
+        'There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.',
+        'Ella Wheeler Wilcox',
+    ],
+    'dd620b28-f86f-5ec6-92be-70b6317875c2' => [
+        'When we think of the major threats to our national security, the first to come to mind are nuclear proliferation, rogue states and global terrorism. But another kind of threat lurks beyond our shores, one from nature, not humans - an avian flu pandemic.',
+        'Barack Obama',
+    ],
+    '62496b97-78c0-5970-ad9b-a132d624c782' => [
+        'When I first envisioned \'Funny Games\' in the mid-1990s, it was my intention to have an American audience watch the movie. It is a reaction to a certain American cinema, its violence, its naivety, the way American cinema toys with human beings. In many American films, violence is made consumable.',
+        'Michael Haneke',
+    ],
+    'e8ae5493-a450-5486-bc28-afb161754119' => [
+        'Once you choose hope, anythings possible.',
+        'Christopher Reeve',
+    ],
+    '56ee1e97-cdef-5404-835f-369a559d7e76' => [
+        'Yes, I do believe that there is a cause and effect and a ripple effect upon everything everybody does, and they have positive consequences and negative consequences. If you start to focus on the kind of minutia of that, it\'s really quite extraordinary.',
+        'Kiefer Sutherland',
+    ],
+    '6868ff57-69bd-5828-8c0a-5a70b9d50e56' => [
+        'Trust is the conduit for influence; it\'s the medium through which ideas travel.',
+        'Amy Cuddy',
+    ],
+    '55e5f8bf-b524-5a18-ac42-60cb293414fb' => [
+        'The mountains are calling and I must go.',
+        'John Muir',
+    ],
+    'bd536c68-0238-525a-b620-e8920ff5f671' => [
+        'It never ceases to amaze me that every second of every day, more than 6,000 billion neutrinos coming from nuclear reactions inside the sun whiz through my body, almost all of which will travel right through the earth without interruption.',
+        'Lawrence M. Krauss',
+    ],
+    '7d941f1a-979c-5602-9d58-ab2aacf5128d' => [
+        'Sometimes I feel an obligation to be accessible as a personality, but for me the driving force since the beginning has always been good work, taking risks, trying new things. If the door opens, go through it. Always go forwards.',
+        'David Soul',
+    ],
+    '5dc99a96-a264-59ec-9e07-51f869e1da92' => [
+        'During the holiday season, it\'s easy to forget that sometimes the best gift of all is simply the gift of time. I can\'t think of anything a writer would appreciate more than being given time and space to work.',
+        'Kate Klise',
+    ],
+    '062afa91-10f6-5655-b449-e9e3b66e41d3' => [
+        'A travel book is a book that puts you in the shoes of the traveler, and it\'s usually a book about having a very bad time; having a miserable time, even better.',
+        'Paul Theroux',
+    ],
+    '16d70bb5-f8d2-5483-b50c-4d46e6cc70f1' => [
+        'I know that I\'ve got big ears and a big forehead and that my hair sticks up. But I\'m happy with myself. I\'m not necessarily trying to win a beauty pageant here.',
+        'Clay Aiken',
+    ],
+    '19ca4706-3d04-5dba-b0eb-9c3305eab628' => [
+        'I don\'t know why my smile has become a signature pose. I think it\'s a nice change. I think people want to see happiness, so a smile is what can bring that. I didn\'t make it my trademark on purpose.',
+        'Arizona Muse',
+    ],
+    '8ce9216d-c5f7-5be4-b808-8bbc5fb1b15d' => [
+        'The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.',
+        'George Shaw',
+    ],
+    '665c405d-4bcb-5a76-a278-4f000aa4a6cb' => [
+        'To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.',
+        'Confucius',
+    ],
+    'e2dcf912-74ba-5ccd-b95e-39cba3e9467e' => [
+        'I can tell you for sure: people who are at their peak right now will not sustain that. You can\'t. It\'s against the law of nature.',
+        'Bryan Cranston',
+    ],
+    'ce2c32a2-f23d-5e25-bc8c-15be935fc65c' => [
+        'The countries who do the best in international comparisons, whether it\'s Finland or Japan, Denmark or Singapore, do well because they have professional teachers who are respected, and they also have family and community which support learning.',
+        'Howard Gardner',
+    ],
+    'cc44eb36-0e60-5c1a-9238-c35a1b842acb' => [
+        'Even if people do wrong, we\'re social animals, so what can we do about stopping them doing the same things in future? Saying people are \'bad\' or \'evil\' is just an unwillingness to engage; an unwillingness to try to empathise. That sanctimonious attitude doesn\'t help anyone.',
+        'Denise Mina',
+    ],
+    '65d8490c-a9d1-5366-91dd-114977340e03' => [
+        'There is a kind of victory in good work, no matter how humble.',
+        'Jack Kemp',
+    ],
+    '92e82325-c684-5d5a-9c6d-339b3dd7f568' => [
+        'I love Saturday nights with my best friend and a big bowl of pasta, wanting a good scare, something that will say, \'Listen, your life is not as bad as this. Your life can be so much worse.\'',
+        'Vera Farmiga',
+    ],
+    '9993c7b6-8e88-5921-b136-065d72a29839' => [
+        'I like video games, I like tech, I like being positive.',
+        'Jimmy Fallon',
+    ],
+    'b3f7d356-4c98-5456-adc3-1349d82a5a63' => [
+        'A gem cannot be polished without friction, nor a man perfected without trials.',
+        'Lucius Annaeus Seneca',
+    ],
+    'a87ca151-913d-5cf7-a303-8a026458dabb' => [
+        'No man is a failure who is enjoying life.',
+        'Musiq Soulchild',
+    ],
+    'e339044c-600a-5958-86ce-44a93a3231f2' => [
+        'Whatever is received is received according to the nature of the recipient.',
+        'Thomas Aquinas',
+    ],
+    '1e2e5112-f2bf-5213-82e1-e9b964cbb9d6' => [
+        'My mother, she had a very good attitude toward money. I\'m very grateful for the fact that we had to learn to save. I used to get like 50 pence a week, and I\'d save it for like five months. And then I\'d spend it on Christmas presents. I\'d save up like eight pounds. It\'s nothing, but we did that.',
+        'Gemma Arterton',
+    ],
+    '1b344930-9973-5c10-b974-81c9c0bf52db' => [
+        'I don\'t need you to remind me of my age. I have a bladder to do that for me.',
+        'Stephen Fry',
+    ],
+    '9b957eb2-a8e4-527c-aab0-04cf027737ab' => [
+        'Being made to feel like an irrelevant child was probably an asset. Benign negligence is not a bad parental attitude or at least a cross between a benevolent dictator and benign negligence - you should just let kids crack on with it.',
+        'Clare Balding',
+    ],
+    'a69ad164-08fa-519a-a4d7-8e06804dc69f' => [
+        'Your talent is God\'s gift to you. What you do with it is your gift back to God.',
+        'Leo Buscaglia',
+    ],
+    '099dda69-3cf6-5504-8feb-47ebe63fb2f1' => [
+        "Do it or don't do it \u{2014} you will regret both.",
+        "S\u{f8}ren Kierkegaard",
+    ],
+    'a5984785-9af9-5f1c-825a-fcbc1a197371' => [
+        'What makes photography a strange invention is that its primary raw materials are light and time.',
+        'John Berger',
+    ],
+    '9a74695a-7f39-5ec9-9ea9-125088bdb80e' => [
+        'I didn\'t plan to be the rude middle-class comedian. You write a certain type of joke that you find funny, and mine happen to be often rude. Yes, it\'s juvenile, but that\'s me.',
+        'Jimmy Carr',
+    ],
+    '35b741b6-6b8a-5c24-bb24-535949b50420' => [
+        'If you aim at nothing, you\'ll hit it every time.',
         'Zig Ziglar',
-    ],
-    '0ce9cd3b-9ecc-528a-adec-2a643a689fb9' => [
-        'Developing a good work ethic is key. Apply yourself at whatever you do, whether you\'re a janitor or taking your first summer job, because that work ethic will be reflected in everything you do in life.',
-        'Tyler Perry',
-    ],
-    '14124900-d004-5e11-b94d-410fdd1e5fa3' => [
-        'If the stars should appear but one night every thousand years how man would marvel and adore.',
-        'Ralph Emerson',
-    ],
-    'b74d92e1-77ec-551b-a956-427736c7d532' => [
-        'I mean, I look at my dad. He was twenty when he started having a family, and he was always the coolest dad. He did everything for his kids, and he never made us feel like he was pressured. I know that it must be a great feeling to be a guy like that.',
-        'Adam Sandler',
-    ],
-    'de6b08c4-c2bc-5fc3-a905-09560606bc32' => [
-        'Beauty for some provides escape, who gain a happiness in eyeing the gorgeous buttocks of the ape or Autumn sunsets exquisitely dying.',
-        'Langston Hughes',
-    ],
-    '3fc281a4-1dd5-5ddb-a1ea-02b39b072c2d' => [
-        'Positive thinking is so firmly enshrined in our culture that knocking it is a little like attacking motherhood or apple pie.',
-        'Srikumar Rao',
-    ],
-    'adce0c4b-a7a7-5310-9c28-915480999bb9' => [
-        'I like England more than I did when I left. It\'s become a bit of a better country in the last ten years, in the attitude of it. A bit more Americanized, which is both good and bad. At least when you order a cup of coffee they don\'t give you a hard time.',
-        'Teddy Thompson',
-    ],
-    'f58d856e-d5e6-50eb-8910-8b8f97d60f72' => [
-        'You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one.',
-        'John Lennon',
-    ],
-    '745adf6f-f84f-58b9-86a5-ba7a52658f0e' => [
-        'I wasn\'t the kind of kid who would get A\'s without even trying. I had to work to get good grades, but I was very organised about it because I always wanted to do well at everything I did. I\'m very competitive.',
-        'Jessica Ennis',
-    ],
-    'd374be00-961e-5cfb-bb4d-c6162bf6ef73' => [
-        'Nature is wont to hide herself.',
-        'Heraclitus',
-    ],
-    '98d06824-cbd3-59bd-8029-2820e9274122' => [
-        'Once you don\'t smile on film, they say, \'Let\'s have that bloke who doesn\'t smile.\'',
-        'Richard C. Armitage',
-    ],
-    '68074b62-196f-5b88-8301-f7ebb6efb237' => [
-        'Obstacles are those frightful things you see when you take your eyes off your goal.',
-        'Henry Ford',
-    ],
-    '5fe508ec-700c-5509-88be-4f5ece586388' => [
-        'Travel in all the four quarters of the earth, yet you will find nothing anywhere. Whatever there is, is only here.',
-        'Ramakrishna',
-    ],
-    '73e7ba7d-a147-5980-b825-b72873b91e2a' => [
-        'Personal relationships are the fertile soil from which all advancement, all success, all achievement in real life grows.',
-        'Ben Stein',
-    ],
-    '8715dee8-2d7a-5555-a690-ce6d00926cf0' => [
-        'I\'ve never missed a gig yet. Music makes people happy, and that\'s why I go on doing it - I like to see everybody smile.',
-        'Buddy Guy',
-    ],
-    '87693092-ced2-5d3f-88f1-31189f76fbbd' => [
-        'I would like to make a building as intellectually driven as it is sculptural and as positive as it would be acceptable to hope.',
-        'Frank Gehry',
-    ],
-    'a89e624b-af2c-51fd-85c7-8397d9c56a6a' => [
-        'You can never cross the ocean unless you have the courage to lose sight of the shore.',
-        'Unknown',
-    ],
-    '6777edee-3bae-50cd-92b8-f64d3fcd236b' => [
-        'There are those who believe that the value of a children\'s book can be measured only in terms of the moral lessons it tries to impose or the perfect role models it offers. Personally, I happen to think that a book is of extraordinary value if it gives the reader nothing more than a smile or two. In fact, I happen to think that\'s huge.',
-        'Barbara Park',
-    ],
-    '15daf61c-9ac0-5e1c-a514-028b2ecbe289' => [
-        'It is strange that the years teach us patience; that the shorter our time, the greater our capacity for waiting.',
-        'Elizabeth Taylor',
-    ],
-    'bf44b6e2-4e72-5c25-a628-910be13065ee' => [
-        'I believe our legacy will be defined by the accomplishments and fearless nature by which our daughters and sons take on the global challenges we face. I also wonder if perhaps the most lasting expression of one\'s humility lies in our ability to foster and mentor our children.',
-        'Naveen Jain',
-    ],
-    'b6ecc4ca-85f6-5bdc-885a-295c7f4ca666' => [
-        'No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.',
-        'Helen Keller',
-    ],
-    'e881d1bc-d290-5230-a37b-c84103951303' => [
-        'Start by doing what\'s necessary; then do what\'s possible; and suddenly you are doing the impossible.',
-        'Francis of Assisi',
-    ],
-    '78f4b556-f9a9-5692-a2ed-6ffe1521a023' => [
-        'I passionately believe that\'s it\'s not just what you say that counts, it\'s also how you say it - that the success of your argument critically depends on your manner of presenting it.',
-        'Alain de Botton',
-    ],
-    'ee7e5eee-b3e0-5953-a6a1-5f8325cc390b' => [
-        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
-        'Trey Anastasio',
-    ],
-    '80f8a0fe-fc6a-557d-ae71-7ec595efeadf' => [
-        'No man can succeed in a line of endeavor which he does not like.',
-        'Napoleon Hill',
-    ],
-    'ad1a2625-86f2-577a-a1a9-aae761da322b' => [
-        'Work is accomplished by those employees who have not yet reached their level of incompetence.',
-        'Laurence J. Peter',
-    ],
-    'f00c1aed-c436-5ba7-87cd-10aa0f592827' => [
-        'Kind words are the music of the world. They have a power which seems to be beyond natural causes, as if they were some angel\'s song, which had lost its way and come on Earth, and sang on undyingly, smiting the hearts of men with sweetest wounds, and putting for the while an angel\'s nature into us.',
-        'Frederick William Faber',
-    ],
-    '053b47d5-96ef-5ade-b0d2-e416c7dffeef' => [
-        'If you kick a stone in anger, you\'ll hurt your own foot.',
-        'Korean proverb',
-    ],
-    '8204735f-f1a5-5574-b6dd-e7c63ceeb201' => [
-        'Write your story as it needs to be written. Write it honestly, and tell it as best you can. I\'m not sure that there are any other rules. Not ones that matter.',
-        'Neil Gaiman',
-    ],
-    '9389b798-97bf-5e84-b614-b2051e5e47f8' => [
-        'I\'m really not that funny in real life! But I am the best audience one could find. I love to laugh.',
-        'Carol Burnett',
-    ],
-    '44a86049-46bd-51be-b795-8bbddc111c99' => [
-        'We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.',
-        'James Freeman Clarke',
-    ],
-    'f62ea4f2-468b-5d62-ad24-74c5e8f0e38a' => [
-        'In Naples, Fla., I met a self-made man, a multimillionaire, whose round penthouse apartment is home to Pierre-Auguste Renoir, Claude Monet, Henry Moore, and Mickey Mantle. He had purchased the most coveted items auctioned by the Mantle family at Madison Square Garden in December 2003.',
-        'Jane Leavy',
-    ],
-    '1c3ffa4b-7d2f-5b60-a6ab-d879d8b9eed9' => [
-        'This hook nose and crab meister attitude has gotten me every job I\'ve ever had. And more divorces than I care to remember.',
-        'Norman Fell',
-    ],
-    '8fb876d5-3216-5bbf-bd57-33f8fcbc6186' => [
-        'You have to tell guys to ask you on a date. Smile when you do it - however that works, I\'m not \'Cosmo.\' But yeah - not a lot of people know how to \'court\' anymore, sorry.',
-        'Julie Klausner',
-    ],
-    '72cd8606-d0d0-5e1e-b124-0616a746a7af' => [
-        'The one thing we know about the future is that it comes only one day at a time.',
-        'Jeff Rich',
-    ],
-    '810544c7-90e2-5982-9d18-1d64e619a9f5' => [
-        'Sacred joy exists in any suffering.',
-        'Lailah Gift Akita',
-    ],
-    '78b4c1ad-5b68-5de9-b7ed-05d4eaa559a8' => [
-        'I go, and I do my work, and I try to do the best I can, and I collect my money, and I go home, and then I go on to the next thing. That\'s my attitude.',
-        'Billy Dee Williams',
-    ],
-    'c01bf3fe-bf92-5a51-a22b-5d27d80ebcb6' => [
-        'A beautiful person is someone who stays true to themselves and their spirit; someone who is self-confident and can make you smile.',
-        'Helena Christensen',
     ],
 ];

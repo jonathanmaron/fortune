@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'd7d20bcc-fa47-547f-97e8-d6e9205e6eb0' => [
-        'What does it mean to pre-board? Do you get on before you get on?',
-        'George Carlin',
+    '2e82b8d6-750c-5a0a-9887-41bbf7132216' => [
+        'Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.',
+        'Don Miguel Ruiz',
     ],
-    'ea487dbf-dc1c-5d10-8613-85d27e5e7f4f' => [
-        'A healthful hunger for a great idea is the beauty and blessedness of life.',
-        'Hans Christian Andersen',
+    'b09c6bad-ad98-5773-942a-d1ecce46f52d' => [
+        'Be prepared, work hard, and hope for a little luck. Recognize that the harder you work and the better prepared you are, the more luck you might have.',
+        'Ed Bradley',
     ],
-    '02da259d-7955-597c-a0c1-a2ffb3432775' => [
-        'Courtesy is a silver lining around the dark clouds of civilization; it is the best part of refinement and in many ways, an art of heroic beauty in the vast gallery of man\'s cruelty and baseness.',
-        'Bryant H. McGill',
+    '187d7d90-1942-5495-ac74-584a9420e5c1' => [
+        'I\'d be hard-pressed to think of anybody who\'s made me laugh, who\'s funny, but who\'s also relentlessly positive.',
+        'Dylan Moran',
     ],
-    'bd395eee-9e78-5c84-9f65-3b8753568e72' => [
-        'Art enables us to find ourselves and lose ourselves at the same time.',
-        'Thomas Merton',
+    'd7e128e1-58a7-567b-86dc-bd17aaa03758' => [
+        'My love for cooking began when I was young. Because my parents were in the army, they were both really busy. A lot of times I\'d have to cook for the family; I\'d rotate with my siblings. It started out as a chore, but as I got older, my mom started to see that I was really good at it. I became her sous chef.',
+        'Tia Mowry',
     ],
-    '4fc22d9b-30e6-5372-818b-e4353be9ac6b' => [
-        'An empowered organisation is one in which individuals have the knowledge, skill, desire, and opportunity to personally succeed in a way that leads to collective organisational success.',
-        'Stephen Covey',
+    'a2010180-4105-5eb1-922b-27991a140e7b' => [
+        'I don\'t think our government really has much of a policy about air travel. I would compare the policies of United Arab Emirates, which has done a terrific job recognizing the value of transportation, of travel.',
+        'Jeff Smisek',
     ],
-    'b573e4c0-73df-5914-bf20-923b3eb93cd8' => [
-        'The actions of men are the best interpreters of their thoughts.',
-        'James Joyce',
+    'cadc1041-e85c-560a-b974-9ef80cbfbe32' => [
+        'Ilaiyaraaja is my most favourite music director. His music was my lullaby, his music was my food, his music was my childhood, his music was my first love, his music was my failure, his music was my first kiss, my first love failure, my success... he is in my blood.',
+        'Dhanush',
     ],
-    'f569c26a-4458-5491-b40c-aab77d383a69' => [
-        'Wherever a man turns he can find someone who needs him.',
-        'Albert Schweitzer',
+    '33b8bdfe-6c74-5ee9-97cd-857bab913265' => [
+        'All I wanted was to be big, to be in show business and to travel... and that\'s what I\'ve been doing all my life.',
+        'Count Basie',
     ],
-    'e03f52e7-5bba-57c4-be5b-62ce27c225a3' => [
-        'This is the artist, then, life\'s hungry man, the glutton of eternity, beauty\'s miser, glory\'s slave.',
-        'Tom Wolfe',
+    '99aab2fb-37be-5b23-b31c-86e15d0a8bd1' => [
+        'I come from a family of well-endowed booty women.',
+        'Estelle',
     ],
-    'a275aea0-80ff-5e4b-b28b-1200cf135462' => [
-        'As an organizer I start from where the world is, as it is, not as I would like it to be.',
-        'Saul Alinsky',
+    '8366af08-ad0e-5b2b-94f0-3a4a8dfd8b5d' => [
+        'If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.',
+        'Charles Darwin',
     ],
-    'f3a1ac05-186e-5755-8b0a-c647180d7580' => [
-        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
-        'Herb Caen',
+    '4398696c-2b34-59d1-9079-f85e721c98df' => [
+        'You must welcome change as the rule but not as your ruler.',
+        'Denis Waitley',
     ],
-    'eed3fc54-324b-5ce8-9ac2-743bb8bdc57f' => [
-        'I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.',
-        'Albert Einstein',
+    '47e7d57a-a2d0-5579-a6bc-0424df8dbce6' => [
+        'A stale article, if you dip it in a good, warm, sunny smile, will go off better than a fresh one that you\'ve scowled upon.',
+        'Nathaniel Hawthorne',
     ],
-    'c9105f36-477a-5fca-ba55-0a795714da87' => [
-        'Every day I wake up and I lay in bed counting my blessings and saying my prayers for how fortunate I am to have great fans and health and family.',
-        'Luke Bryan',
+    '9720fc7b-eef4-5c74-95d4-56bcc7547ef2' => [
+        'Being able to travel and see the world really makes me appreciate the blessings in my life. There are so many people that will never get a chance to see some of the things that I\'ve seen during my travels. I\'ll never take that for granted.',
+        'Laz Alonso',
     ],
-    '45e88ed6-fcb9-5f5d-9ea5-d0e0857808c3' => [
-        'That government is best which governs least.',
-        'Henry David Thoreau',
+    '3ecb10e6-2078-5fb4-8c2b-b5f8e33a04d0' => [
+        'If you\'re going to do something tonight that you\'ll be sorry for tomorrow morning, sleep late.',
+        'Henny Youngman',
     ],
-    '973bf09c-2d72-53f3-b7bc-40fbdb160b67' => [
-        'The NFL is such a large, multibillion dollar enterprise with fan loyalty because they have provided not only entertainment for sports fans, but memories, good memories, family memories to these fans, that can only bring about good will.',
-        'Wendell Pierce',
+    '04fe6c39-9830-5610-b411-48d993584e11' => [
+        'Inspiration comes of working every day.',
+        'Charles Baudelaire',
     ],
-    '71b82409-7ee6-5158-b314-0b48451b1fc3' => [
-        'If you wish to be a writer, write.',
-        'Epictetus',
+    '232fefaf-3671-5209-8d34-6c0d0eb2d7b6' => [
+        'By making college unaffordable and student loans unbearable, we risk deterring our best and brightest from pursuing higher education and securing a good-paying job.',
+        'Mark Pocan',
     ],
-    'c133f09d-086a-56fd-ae10-8897f8e65f8d' => [
-        'So I had to be careful. I recognized the responsibility that, whether I liked it or not, I had to accept whatever the obligation was. That was to behave in a manner, to carry myself in such a professional way, as if there ever is a reflection, it\'s a positive one.',
-        'Sidney Poitier',
+    '05dda35c-397f-5480-842c-9bb2271db85a' => [
+        'There can be many reasons to travel, but wandering into the world for no particular reason is a sublime madness, which in all its whimsy and pointlessness may depict the story of life - and indeed could be a useful model to keep in mind, seeing as so much of life\'s ambition comes unstuck or leads to nothing much at all.',
+        'Michael Leunig',
     ],
-    'ff163b06-d29d-595a-a555-f98c9cbf3187' => [
-        'The beauty of Maine is such that you can\'t really see it clearly while you live there. But now that I\'ve moved away, with each return it all becomes almost hallucinatory: the dark blue water, the rocky coast with occasional flashes of white sand, the jasper stone beaches along the coast, the pine and fir forests somehow vivid in their stillness.',
-        'Alexander Chee',
+    'c0bcff2c-da8e-5d9d-80e6-56a913f717f6' => [
+        'I guess I just always had this idea that I would go to Hollywood. I had the typical \'get up and go\' attitude that you have to have in order to make the brave step into the big city.',
+        'Felicia Day',
     ],
-    '8d37aed9-8381-5372-b3a6-cfd070f649ad' => [
-        'I developed a problem with authority. Any time that authority was what I interpreted as being unjust, I stood up to it, and that became my personality.',
-        'Tom Petty',
+    '732718f3-e596-5cb3-8958-f91b805fc6e8' => [
+        'No person who is enthusiastic about his work has anything to fear from life.',
+        'Samuel Goldwyn',
     ],
-    '377ee806-a2db-5cff-98b2-f65f861fa8ba' => [
-        'One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that ones life has meaning, that one is needed in this world.',
-        'Hannah Senesh',
+    'ba7e8325-331b-564d-aca4-91214e4d186c' => [
+        '\'What if?\' statements throw fuel on the fire of stress and worry. Things can go in a million different directions, and the more time you spend worrying about the possibilities, the less time you\'ll spend focusing on taking action that will calm you down and keep your stress under control.',
+        'Travis Bradberry',
     ],
-    '86a69cdc-b365-5ed1-9fd5-f8bc529b57b0' => [
-        'The jokes are great but what really matters for a comedian is his performance, his whole attitude, and the laughs that he gets between the jokes rather than on top of the jokes.',
-        'Jack Dee',
+    '78a96e53-8724-5573-8ddd-861401aed24a' => [
+        'The rose is the flower and handmaiden of love - the lily, her fair associate, is the emblem of beauty and purity.',
+        'Dorothea Dix',
     ],
-    '0331e5a5-ca69-5dc6-9a96-8b55faddb34c' => [
-        'A house divided against itself cannot stand.',
-        'Abraham Lincoln',
+    '69d17c4c-bf8d-52b5-903b-f2fa1e961cc5' => [
+        'May our hearts garden of awakening bloom with hundreds of flowers.',
+        'Thich Nhat Hanh',
     ],
-    'c6ad864c-08b3-57ab-a160-b6e8cb272ac3' => [
-        'Tell the truth, work hard, and come to dinner on time.',
-        'Gerald R. Ford',
+    '47ef2432-c79c-57f0-8eeb-a1ab0de4e78d' => [
+        'You\'re not going to say anything about me that I\'m not going to say about myself. There\'s so many things that I think about myself; if someone really wanted to get at me, they could say this and this and this. So I\'m going to say it before they can. It\'s the best policy for me.',
+        'Eminem',
     ],
-    '55e13591-c61d-5bbb-8075-c03127275e34' => [
-        'I think Clinton, after getting into office and into Washington, was shocked at being bludgeoned. So he spent time trying to be all things to all people - one way guaranteed not to be successful or respected in a lion\'s den. You can\'t just play around with all those big cats - you\'ve got to take somebody on.',
-        'Maya Angelou',
+    'dd816fb4-894d-5942-8bb5-2822a4b09b6a' => [
+        'There\'s a positive side to film and television, the sense of feeding into the theater... Your fans will follow you, hopefully, and be open-minded to see you play other things and experience other stories you want to tell.',
+        'Kim Cattrall',
     ],
-    '03155882-f1b3-5a9c-9b3a-f568c27f4781' => [
-        'I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.',
-        'Albert Einstein',
+    'd02e075f-2c98-5dce-bdf8-34190a704092' => [
+        'The Dolls were an attitude. If nothing else they were a great attitude.',
+        'Johnny Thunders',
     ],
-    '5497603a-25ba-5fa5-9a3c-d1314e600ef8' => [
-        'I don\'t like the way young people write and talk about the old. I don\'t like their attitude, which, if they weren\'t young and therefore bright and vibrant, would be called outdated.',
-        'Ruth Rendell',
+    'fa02649e-2b78-5d7c-8da8-ca9467a2194c' => [
+        'Hip-hop is more about attaining wealth. People respect success. They respect big. They don\'t even have to like your music. If you\'re big enough, people are drawn to you.',
+        'Jay-Z',
     ],
-    'cf2a5a62-e5db-5621-9348-f7fb4cb3eb6f' => [
-        'The beauty of the world, which is so soon to perish, has two edges, one of laughter, one of anguish, cutting the heart asunder.',
-        'Virginia Woolf',
+    '63ddbed8-53e9-54b5-854e-0810758dc0b8' => [
+        'With improv, it\'s a combination of listening and not trying to be funny.',
+        'Kristen Wiig',
     ],
-    'f6f2c8a9-7364-5199-bd3a-a10d7a21e934' => [
-        'Self-belief and hard work will always earn you success.',
-        'Virat Kohli',
+    '36fa368a-08e4-5b39-bf6b-2918f9ac4d04' => [
+        'Cheney, Rumsfeld - they were Shakespearean in their attitude of impunity.',
+        'Glen Duncan',
     ],
-    'c4a0aef8-ccd8-5274-a343-ef33c34a5a9c' => [
-        'This idea that being youthful is the only thing that\'s beautiful or attractive simply isn\'t true. I don\'t want to be an \'ageless beauty.\' I want to be a woman who is the best I can be at my age.',
-        'Sharon Stone',
+    '3a4dc82e-ad1c-5472-bdc7-b574aa350b3e' => [
+        'Giant oak trees... have deep root systems that can extend two-and-one-half times their height. Such trees rarely are blown down regardless of how violent the storms may be.',
+        'Joseph B. Wirthlin',
     ],
-    '72dff3b0-e6fb-5262-8458-3897f031ee45' => [
-        'I always wanted to be a farmer. There is a tradition of that in my family.',
-        'Bjork',
+    '46d0330d-9dd1-5c43-bb1f-41459ab586c3' => [
+        'You have survived every single bad day so far',
+        'Unknown',
     ],
-    '8374ea61-4292-5852-8661-b69415a43395' => [
-        'But the funny thing is, I broke my finger not on set doing kung fu. I broke my finger when I fell down the stairs prior to going on set.',
-        'Jaime King',
+    '04cd5c0a-a6b1-5117-b51b-175bff4a58ed' => [
+        'Stop being afraid of what could go wrong, and start being excited about what could go right.',
+        'Unknown',
     ],
-    '47b901ef-9a6e-546b-8d97-6d4ca2b6eb80' => [
-        'I do try to speak of positive things. I still try to, like, present two sides of the story, and I do try to relate to life in a 360 degree and not be one-dimensional. But by all means, manage expectations.',
-        'Q-Tip',
+    '12f7464a-5589-513a-af3a-b4f460b9b429' => [
+        'If you want to achieve your dreams, you must follow them, and the best way to follow them is not to think about wanting to be very rich, but to think about doing something that you really want to do.',
+        'Jackie Collins',
     ],
-    'ee555c35-cdb2-5a0e-8d9e-572c53848f57' => [
-        'Once you bring life into the world, you must protect it. We must protect it by changing the world.',
-        'Leah LaBelle',
+    '490b737d-fa2b-55ab-92e4-68a988a76f31' => [
+        'The greatest humiliation in life, is to work hard on something from which you expect great appreciation, and then fail to get it.',
+        'E. W. Howe',
     ],
-    '623bd056-c932-577d-ba83-6e0416e8500b' => [
-        'You can\'t wait for inspiration. You have to go after it with a club.',
-        'Jack London',
+    '45a8e58f-60f3-5c5a-a14a-dce912d5d83c' => [
+        'I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but it should get you pretty near.',
+        'Margaret Thatcher',
     ],
-    'e6357ae3-f354-5512-8da2-96db6acbcc18' => [
-        'It\'s hard to lead a cavalry charge if you think you look funny on a horse.',
-        'Adlai E. Stevenson',
+    'c2297d77-4c48-5f68-9ace-f8c02e539dcd' => [
+        'Show me one guy or woman as funny as Rodney Dangerfield or as good as George Carlin, Richard Pryor, Bill Cosby, or Joan Rivers. There are a lot of good comics out there, no doubt, but as far as the quality of the comics goes, I think what you have is a bunch of situational comics.',
+        'Chris Rock',
     ],
-    'ea8d51a9-b0ed-56f3-a0e7-5c5d86389f51' => [
-        'I\'m a clown, which could be a public health role. I\'m really interested in moving our society away from a society needing Xanax and Prozac, and that is really feeling depressed, to one that is celebrating, and so I find just walking around in colorful clothes, people smile.',
-        'Patch Adams',
+    'a172ad4d-97a2-5871-a96c-9ce9b9107c29' => [
+        'Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.',
+        'Barack Obama',
     ],
-    'c7252f59-77a9-553b-8a5e-3f002fc37150' => [
-        'I told my father to stop smoking around the age of two or three years old and he stopped smoking. So the relationship between the kid and the parent is very powerful, and if you give the kid the right information, it can be very useful to the family.',
-        'Doug E. Fresh',
+    '8b06b137-9d5a-5ec4-8227-e4c471fa1758' => [
+        'The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. Anything. As long as you believe.',
+        'Bob Ross',
     ],
-    'c5d11555-9b84-5171-baf7-232789df8bc2' => [
-        'I don\'t remember ever deciding to become a performer. I just always was. I began performing by mimicking the performers on the new television that first took the attention away from me as the baby of the household. I continued performing to put a smile on my grandmother\'s face and always considered her when accepting or declining roles.',
-        'T\'Keyah Crystal Keymah',
+    '88ac7266-0a76-5d92-9520-0b92ff85bcf3' => [
+        'There\'s only two people in your life you should lie to... the police and your girlfriend.',
+        'A. R. Rahman',
     ],
-    '30889481-e9bf-5b70-a1a2-0bc001473e0e' => [
-        'In every man\'s heart there is a secret nerve that answers to the vibrations of beauty.',
-        'Christopher Morley',
+    '883ab5b8-2fa6-5186-bc55-4e8672e44b53' => [
+        'I think one of my first jokes - in the black community, there\'s people who have jokes about skin tone. People like, \'You so black, you purple.\' \'You so black, you gotta smile so we can see you at night.\'',
+        'Hannibal Buress',
     ],
-    '7c688536-3bc8-56d2-b433-3b28ca1f18a1' => [
-        'I wonder how many times people give up just before a breakthrough - when they are on the very brink of success.',
-        'Joyce Meyer',
+    'd9870ffa-2bce-51d7-99c7-8f246d339e4b' => [
+        'When I first decided I was going to have a go at writing a book - and really, it was a mid-life crisis - I was 39. I was in business with my husband; we had a very busy lifestyle and quite a hectic schedule running this flourishing business in travel, and I found myself waking up and realising that I didn\'t want to do this anymore.',
+        'Fiona McIntosh',
     ],
-    '00022e91-115d-5a2b-888e-d2d0178270f6' => [
-        'Time can be an ally or an enemy. What it becomes depends entirely upon you, your goals, and your determination to use every available minute.',
-        'Zig Ziglar',
+    '57c92af8-1dba-5b55-9923-ef92e02e8bf9' => [
+        'A smile is the light in your window that tells others that there is a caring, sharing person inside.',
+        'Denis Waitley',
     ],
-    'f8d02d27-ebf6-59c0-ba09-86a558fa764b' => [
-        'Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.',
-        'Ralph Emerson',
+    '0d453b5a-2214-595a-be81-54d82a25efe1' => [
+        'Happiness is not something you postpone for the future; it is something you design for the present.',
+        'Jim Rohn',
     ],
-    'eb365f10-75a5-5071-b82d-bd5cd4ea9dff' => [
-        'I\'ve been lucky to travel through quite a bit of Europe and Australia, but I would love to do Asia and South America and South Africa.',
-        'Dianna Agron',
+    '0eb1219c-7838-58c5-9ff9-ff5349fe230b' => [
+        'I have long been a supporter of the Head Start program because each and every year I witness the dramatic positive impact that early intervention services have on children\'s lives in my congressional district.',
+        'Lucille Roybal-Allard',
     ],
-    'b8323140-4465-5e93-a184-8fa38714cd60' => [
-        'When my mother was diagnosed with cancer, my middle school friends and myself really had no idea the impact of that diagnosis, but my family did.',
-        'Jenna Morasca',
+    '4a70b3c7-4fc2-5ca6-8b51-09120f2ce4b9' => [
+        'We\'ve had great successes, but our future is not about our past success. It\'s going to be about whether we will invent things that are really going to drive our future.',
+        'Satya Nadella',
     ],
-    'a0f5e770-f03b-5e88-9340-ede107641731' => [
-        'From my earliest childhood, my attention was specially directed to the subject of acoustics, and specially to the subject of speech, and I was urged by my father to study everything relating to these subjects, as they would have an important bearing upon what was to be my professional work.',
-        'Alexander Graham Bell',
+    'de4aa404-196e-5bd0-bbd2-9662d8ec12b5' => [
+        'A woman whose smile is open and whose expression is glad has a kind of beauty no matter what she wears.',
+        'Anne Roiphe',
     ],
-    '10eae63b-82c8-50cb-abf4-1528862f88e6' => [
-        'Behind every cloud is another cloud.',
-        'Judy Garland',
+    'a488612c-4b85-51c7-a695-a24f105d523d' => [
+        'I have always believed that technology should do the hard work - discovery, organization, communication - so users can do what makes them happiest: living and loving, not messing with annoying computers! That means making our products work together seamlessly.',
+        'Larry Page',
     ],
-    'a325372e-de9e-53a2-937f-6e3680e3264a' => [
-        'Don\'t worry about the world coming to an end today. It is already tomorrow in Australia.',
-        'Charles M. Schulz',
+    '263bf021-12e3-5829-b55d-8b4c148b257a' => [
+        'What delights us in visible beauty is the invisible.',
+        'Marie von Ebner-Eschenbach',
     ],
-    '822801fc-56a5-59d1-a197-24bd6b3165d9' => [
-        'Playing video games is something I enjoy in my spare time. I\'m a gamer, always have been.',
-        'Kevin Garnett',
+    'b1867bf7-f655-5ab6-8dd8-0551f9a0fde7' => [
+        'To have faith doesn\'t mean you get any less frustrated when you don\'t do your best, but you know that it\'s not life and death. Take what you\'re given, and when you continue to work hard, you will see results. That will give you the confidence you need to keep going.',
+        'Tom Lehman',
     ],
-    '0fa1a3ab-9b22-5f8b-93d3-ec222d419f2d' => [
-        'It was at the beginning of 1934 while working on the emission of these positive electrons that we noticed a fundamental difference between that transmutation and all the others so far produced; all the reactions of nuclear chemistry induced were instantaneous phenomena, explosions.',
-        'Irene Joliot-Curie',
+    '4b504192-ebbd-5b17-9b44-0c3e7be8cde5' => [
+        'Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it\'s no longer a mistake. If you remain stuck, you learn nothing.',
+        'Eckhart Tolle',
     ],
-    'fb425726-d963-55a4-a855-80adfafc0491' => [
-        'I never knew a man come to greatness or eminence who lay abed late in the morning.',
-        'Johnathan Swift',
+    '69feda93-3169-5814-817d-0137bb8eee73' => [
+        'On the tennis court, one needs a cool temperament, tremendous ball sense, reflexes, speed, hand-eye co-ordination, power, timing and peak physical fitness. Off the court, the player and support team need skills in planning, execution, travel, an ability to raise funds when needed, and several other talents.',
+        'Sania Mirza',
     ],
-    '1e740859-9a08-58ae-8f17-f3d7e7aefb15' => [
-        'Global warming will threaten our crops, so natural food will be scarce. Hourglass, curvy bodies will be the aspirational beauty standard, representing that those women have access to bounties of fulfilling yet healthy food, which means they are affluent.',
-        'Tyra Banks',
+    '8491342e-d88e-542b-ae61-10f033531d53' => [
+        'The art of effective listening is essential to clear communication, and clear communication is necessary to management success.',
+        'James Cash Penney',
     ],
 ];

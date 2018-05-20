@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '70712888-9920-5bc0-8561-a65a138d7d79' => [
-        'I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.',
-        'Brigitte Bardot',
+    '3f5c2492-7e98-5ad9-872a-d5bc74b4ebc2' => [
+        'The way to get started is to quit talking ans begin doing.',
+        'Walt Disney Company',
     ],
-    'ac23744a-62b4-5978-b0b4-d918b3994061' => [
-        'A successful man is one who can lay a firm foundation with the bricks others have thrown at him.',
-        'David Brinkley',
+    '582b1e46-df5d-5aa1-ba62-973d5079bec5' => [
+        'I fly economy. I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
+        'Gene Simmons',
     ],
-    'f2eb52d9-f5f3-5b09-b55b-985f4d3ef42b' => [
-        'Having contemplated this admirable grove, I proceeded towards the shrubberies on the banks of the river, and though it was now late in December, the aromatic groves appeared in full bloom.',
-        'William Bartram',
+    'dc58146a-cbde-52bd-9a86-4fbd361e81ef' => [
+        'I don\'t have much positive to say about motor neurone disease. But it taught me not to pity myself because others were worse off, and to get on with what I could still do.',
+        'Stephen Hawking',
     ],
-    'ed648885-5dfe-545e-9504-e921e46fd38f' => [
-        'America is the one rich country with the biggest slums, the least democratic and least developed health system, and the most niggardly attitude against its old people.',
-        'Gunnar Myrdal',
+    '2601e157-3fb8-59fd-9a20-d3f29908d3b1' => [
+        'Life itself is the proper binge.',
+        'Christy Turlington',
     ],
-    '897d6535-5329-5c9b-a067-2e04ab9e47fb' => [
-        'I\'m going to marry a Jewish woman because I like the idea of getting up Sunday morning and going to the deli.',
-        'Michael J. Fox',
+    '51fb8e09-958b-548e-a67e-eb2de5f02bc4' => [
+        'Give whatever you are doing and whoever you are with the gift of your attention.',
+        'Jim Rohn',
     ],
-    '94e7eef2-0241-5730-9670-07dce7b889c2' => [
-        'For myself, personally, I am never really aware of timing or anything because I am passionate about what I do, so I have found that if you really love what you do, then time flies.',
-        'Colm Wilkinson',
+    'bb999424-7485-5631-bef6-a8e356d328e8' => [
+        'I put my heart and my soul into my work, and have lost my mind in the process.',
+        'Vincent Van Gogh',
     ],
-    '6291e1a1-e359-5d5f-bb37-ba770cef7b2d' => [
-        'I feel like I want to take care of everyone and I also feel this terrible guilt if I am unable to. And I have felt this way ever since all this success started.',
-        'Jim Carrey',
+    '53773859-7d1c-570c-8c68-77da236f6929' => [
+        'It\'s amazing how a competitive nature can turn a negative into something positive.',
+        'Barry Mann',
     ],
-    '4530fe01-ebff-5efb-9837-eca1d696880c' => [
-        'Without a family, man, alone in the world, trembles with the cold.',
-        'Andre Maurois',
+    '83a10832-518e-5a15-a059-b96870250de5' => [
+        'Your attitude towards failure determines your altitude after failure.',
+        'John C. Maxwell',
     ],
-    '40755134-d5fa-5bd1-90f8-dea24cbac511' => [
-        'What we see depends mainly on what we look for.',
-        'John Lubbock',
+    '9894aaea-4dfe-5e19-8f83-4296d7568f9e' => [
+        'There comes a moment on a journey when something sweet, something irresistible and charming as wine raised to thirsty lips, wells up in the traveller\'s being.',
+        'Patrick MacGill',
     ],
-    '4044f04d-b789-5517-9f06-6747f255bf26' => [
-        'Chaos in the midst of chaos isn\'t funny, but chaos in the midst of order is.',
-        'Steve Martin',
+    '4972981b-c040-576a-8825-940cd9434be1' => [
+        'It\'s important to think good, speak good, and do good. If we want to see positive change in the world, then we need to connect to goodness. I try in everything I do, both in business and philanthropy, to make a positive change and do that by doing good.',
+        'Shari Arison',
     ],
-    '69874d3e-d6e5-5a90-b247-b8fdc6bd2329' => [
-        'Success is getting and achieving what you want. Happiness is wanting and being content with what you get.',
-        'Bernard Meltzer',
+    '5cf165bc-7747-57ba-af23-e3f122667141' => [
+        'Be less curious about people and more curious about ideas.',
+        'Marie Curie',
     ],
-    '30dede14-927e-5ca7-934c-87eba1f4c848' => [
-        'We are here to make another world.',
-        'W. Edwards Deming',
+    'dd4add34-9dc7-594c-bcc4-7cd7c8946813' => [
+        'I was eating in a Chinese restaurant downtown. There was a dish called Mother and Child Reunion. It\'s chicken and eggs. And I said, I gotta use that one.',
+        'Paul Simon',
     ],
-    '02719f35-6c07-542b-b045-15ff4fc700c2' => [
-        'I didn\'t allow failure to break my heart. So I wouldn\'t allow success to bloat my head.',
-        'Randeep Hooda',
+    'f329707e-42e2-5423-a14e-17706964f029' => [
+        'The thing that I think a lot of guys need to know how to do is not take your mother\'s advice about honesty being the best policy. Listen to your cool, drunk uncle who tells you to lie. Those are the relationships that last.',
+        'Adam DeVine',
     ],
-    '16b18b24-6aa0-52a7-9cad-a52e332ba3b2' => [
-        'One of the rewards of success is freedom, the ability to do whatever you like.',
-        'Sting',
+    '9770703c-ef57-52e1-8527-711ece152d9e' => [
+        'It takes both courage and talent to stand up in front of fellow human beings and make them crack a smile, and at the same time keep it clean.',
+        'Ray Comfort',
     ],
-    'aa292280-f2ee-5e85-aed5-8c42f3c8c2ab' => [
-        'While Pickstown may not be what it once was, it still is framed by the natural beauty of the ancient river, the sweep of the Great Plains, and the long, unbroken shoreline of the lake behind the dam. It gave me a 19th-century childhood in a modern mid-20th-century town, and for that I will always be grateful.',
-        'Tom Brokaw',
-    ],
-    'b74a1329-e7a6-5c9c-8a79-794e112f5abd' => [
-        'You\'ve got to be success minded. You\'ve got to feel that things are coming your way when you\'re out selling; otherwise, you won\'t be able to sell anything.',
-        'Benjamin Jowett',
-    ],
-    '4883e7d6-da98-5657-a391-3a41125a454b' => [
-        'One of the hardest decision you\'ll ever face in life is choosing whether to walk away or try harder.',
-        'Ziad K. Abdelnour',
-    ],
-    'b061980b-c9a6-55bb-8772-edb76bcc3aac' => [
-        'If you want to be the best, you have to do things that other people aren\'t willing to do.',
-        'Michael Phelps',
-    ],
-    '8d27cef2-8e9c-5c26-b988-73bf6b046fe8' => [
-        'Alcohol is the anesthesia by which we endure the operation of life.',
-        'Julius Erving',
-    ],
-    '7f3c48db-d9e1-56e6-95d1-5b81fe627fae' => [
-        'I got the travel bug when I was quite young. My parents took me and my sisters out of school and we travelled all over Europe. It was an eye-opening experience and, although I love Norway, I also enjoy visiting new countries. I don\'t get homesick.',
-        'Magnus Carlsen',
-    ],
-    '4c070146-d1fd-5847-9a82-c3bdaeadfe35' => [
-        'I don\'t believe that if you do good, good things will happen. Everything is completely accidental and random. Sometimes bad things happen to very good people and sometimes good things happen to bad people. But at least if you try to do good things, then you\'re spending your time doing something worthwhile.',
-        'Helen Mirren',
-    ],
-    '34e7ab32-242b-5871-b177-cb23c50f3144' => [
-        'The secret of success in life is for a man to be ready for his opportunity when it comes.',
-        'Benjamin Disraeli',
-    ],
-    '8a05ef7e-b186-5d3c-ad48-3847765c31ca' => [
-        'An investigator starts research in a new field with faith, a foggy idea, and a few wild experiments. Eventually the interplay of negative and positive results guides the work. By the time the research is completed, he or she knows how it should have been started and conducted.',
-        'Donald Cram',
-    ],
-    '7feb016f-8eb6-5cd9-91a2-3aa587881cc4' => [
-        'A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.',
-        'Oliver Holmes',
-    ],
-    'f2bfac05-9e1c-53e2-bf67-6ab056af5627' => [
-        'I have no fear of making changes, destroying the image, etc., because the painting has a life of its own.',
-        'Bill Shankly',
-    ],
-    'a9e65394-f91e-5d97-8466-05cc743839d8' => [
-        'We pass through this world but once.',
-        'Aristotle',
-    ],
-    'd90434bf-13b7-5818-a366-9033c5c1acbc' => [
-        'Success comes when people act together; failure tends to happen alone.',
-        'Deepak Chopra',
-    ],
-    'd2118992-0c09-58fe-b50d-428b021fee7d' => [
-        'I firmly believe that unless one has tasted the bitter pill of failure, one cannot aspire enough for success.',
-        'A. P. J. Abdul Kalam',
-    ],
-    '3d8d23f5-ded0-5866-bae3-c3ca9b21bf5a' => [
-        'Success is a matter of one\'s own feeling about oneself.',
-        'Edward James Olmos',
-    ],
-    '1fb2c733-bd3d-5d78-ab62-6e0197682dea' => [
-        'Children are the anchors that hold a mother to life.',
-        'Jerry West',
-    ],
-    '0e7b0ca4-a90e-5a44-ba69-a36dc89f9357' => [
-        'If a man does his best, what else is there?',
-        'George S. Patton',
-    ],
-    'c3d0d7eb-9125-5218-8850-fb8943b2c56b' => [
-        'I feel an important part of beauty is not only what you do on the outside but also what you put into the inside. Good fresh food with many vegetables along with love and caring for others. I spend way more time serving others than I do on my beauty routine daily.',
-        'Kim Alexis',
-    ],
-    'edd062a0-d553-5822-a7fb-7b3450c829c8' => [
-        'Work on good prose has three steps: a musical stage when it is composed, an architectonic one when it is built, and a textile one when it is woven.',
-        'Walter Benjamin',
-    ],
-    'eb64be10-fced-5fd8-9c97-70e680a38e9f' => [
-        'Rather than wishing for change, you first must be prepared to change.',
-        'Catherine Pulsifer',
-    ],
-    '56ee1e97-cdef-5404-835f-369a559d7e76' => [
-        'Yes, I do believe that there is a cause and effect and a ripple effect upon everything everybody does, and they have positive consequences and negative consequences. If you start to focus on the kind of minutia of that, it\'s really quite extraordinary.',
-        'Kiefer Sutherland',
-    ],
-    'eb4d009f-4dfa-594a-82d9-029def7d9654' => [
-        'There was a great complexity to my father. He was a devoted family man. But, in the same breath, he simply was not suited to an anchored life. He should have been somebody who had a backpack, an old map, a bit of change in his pocket and that was it - roaming the world.',
-        'Christian Bale',
-    ],
-    'ed83b9b0-5560-52db-aad9-c8eaeb10c593' => [
-        'One man is as good as another until he has written a book.',
-        'Benjamin Jowett',
-    ],
-    '2e2589ef-b146-5168-97fe-504b7fe58dd8' => [
-        'Lead us not into temptation. Just tell us where it is; we\'ll find it.',
-        'Sam Levenson',
-    ],
-    '4b32e743-4b2b-53cf-b2a1-3215790625c9' => [
-        'My father used to always say to me that, you know, if a guy goes out to steal a loaf of bread to feed his family, they\'ll give him 10 years, but a guy can do white-collar crime and steal the money of thousands and he\'ll get probation and a slap on the wrist.',
+    '2acd647c-0a1b-535a-96e6-3a10ed595ad5' => [
+        'The communism of Karl Marx would probably be actually the best for everybody as a whole. But what he didn\'t figure into was human nature, and that\'s what corrupts it.',
         'Jesse Ventura',
     ],
-    'b103d78f-83e8-5f56-80f2-22a69b9c228e' => [
-        'Most babies know how to win us over. We cannot help but smile at them and watch them smile back.',
-        'Madeleine M. Kunin',
+    '47b4177e-63e3-50dc-bde9-6a080315a004' => [
+        'The true mark of professionalism is the ability to respect everyone else for their styles and always find something positive in every dining experience and highlight it in your thoughts and words.',
+        'Johnny Iuzzini',
     ],
-    '9ce18e8c-edf1-538a-b0d3-281e0e8230fa' => [
-        'Festivals are fun for kids, fun for parents and offer a welcome break from the stresses of the nuclear family. The sheer quantities of people make life easier: loads of adults for the adults to talk to and loads of kids for the kids to play with.',
-        'Tom Hodgkinson',
+    '53c225c8-6da2-5e72-932d-3034948912d6' => [
+        'For me beauty is valued more than anything - the beauty that is manifest in a curved line or in an act of creativity.',
+        'Oscar Niemeyer',
     ],
-    '56ebaad9-90d5-52e7-bcd1-9d3f8293fc85' => [
-        'If you could kick the person in the pants responsible for most of your trouble, you wouldn\'t sit for a month.',
-        'Theodore Roosevelt',
+    'a587f674-1d15-5a0d-9132-03586e42c63f' => [
+        'A goal without a plan is just a wish.',
+        'Larry Elder',
     ],
-    'f113460e-cf44-5f81-8cc8-6a9d62c121fd' => [
-        'Not by appointment do we meet delight Or joy; they heed not our expectancy; But round some corner of the streets of life they of a sudden greet us with a smile.',
-        'Gerald Massey',
+    'e4c54e6c-13c6-5ee7-a18c-c6778993a95c' => [
+        'Nature does nothing in vain.',
+        'Aristotle',
     ],
-    '36fa368a-08e4-5b39-bf6b-2918f9ac4d04' => [
-        'Cheney, Rumsfeld - they were Shakespearean in their attitude of impunity.',
-        'Glen Duncan',
+    '90595cb8-c0ee-5b30-9794-17bd55794a70' => [
+        'The time was ripe for Flower. The vibe was right.',
+        'Jody Watley',
     ],
-    'f19d2122-1a07-5e73-9f14-ae209d8c06ef' => [
-        'I\'m from a working-class family. We didn\'t have a lot, but we had the arts. You\'re talking to a guy who is making a living at doing what he loves doing - acting, singing and dancing. So any career ups and downs were not that significant to me; the only things that really powerfully impinged on me were my losses, and there were many in my life.',
-        'John Travolta',
+    '052faa20-6b3d-5601-8c03-6968e74187c6' => [
+        'The authentic self is the soul made visible.',
+        'Sarah Ban Breathnach',
     ],
-    'f7f26c65-3fe4-5c95-8394-9569c2babc32' => [
-        'We do not celebrate people who have made success out of serious hard work.',
-        'Iain Duncan Smith',
+    'f9bde904-fa19-5110-b996-8058aa81a903' => [
+        'My personal view is that such total planning by the state is an absolute good and not simply a relative good... I do not myself think of the attitude I take as deriving from Marx - though this undoubtedly will be suggested - but from Fichte and Hegel.',
+        'John Grierson',
     ],
-    '5c560660-010c-5da8-bd9b-c801d2862f8e' => [
-        'When the soul looks out of its body, it should see only beauty in its path. These are the sights we must hold in mind, in order to move to a higher place.',
-        'Yusef Lateef',
+    'a188936f-504c-5e19-b08f-74104db948e1' => [
+        'I may be a living legend, but that sure don\'t help when I\'ve got to change a flat tire.',
+        'Roy Orbison',
     ],
-    'a544c12e-0e2a-54f4-9775-faadb7d4c27e' => [
-        'A lot of people are really excited to see the continuation of Cory and Topanga and \'Boy Meets World\'. I was getting a lot of positive feedback, which I was really happy about.',
-        'Rowan Blanchard',
+    'e639a35f-08ef-5846-8d9a-f24e2e877c67' => [
+        'You can\'t depend on your eyes when your imagination is out of focus',
+        'Mark Twain',
     ],
-    '1549a1e9-2e0d-54cd-ba47-95c7a5b3f04b' => [
-        'Fun is one of the most important - and underrated - ingredients in any successful venture. If you\'re not having fun, then it\'s probably time to call it quits and try something else.',
-        'Richard Branson',
+    '8ad998d3-d5f8-5084-b300-8b5030236712' => [
+        'Do the scary thing first, and get scared later.',
+        'Lemony Snicket',
     ],
-    '135ba34e-89c1-5659-884e-2039e994995a' => [
-        'I think exercise tests us in so many ways, our skills, our hearts, our ability to bounce back after setbacks. This is the inner beauty of sports and competition, and it can serve us all well as adult athletes.',
-        'Peggy Fleming',
+    'c175b331-279a-550e-aba1-2e1bb10e72ad' => [
+        'Only by going alone in silence, without baggage, can one truly get into the heart of the wilderness. All other travel is mere dust and hotels and baggage and chatter.',
+        'John Muir',
+    ],
+    '87c5faa8-1c21-5741-8b9b-2c9fa448d6fd' => [
+        'A sense of the universe, a sense of the all, the nostalgia which seizes us when confronted by nature, beauty, music - these seem to be an expectation and awareness of a Great Presence.',
+        'Pierre Teilhard de Chardin',
+    ],
+    '7623836a-b6a0-5a8b-b19d-e4ee1bc90460' => [
+        'Now, I\'m not saying I\'m fashionable, but there are sociological interests that matter to me, things that are theoretical, political, intellectual and also concerned with vanity and beauty that we all think about but that I try to mix up and translate into fashion.',
+        'Miuccia Prada',
+    ],
+    'ce1e89b6-1d3f-5001-97c4-7e187313daf0' => [
+        'A good character is the best tombstone. Those who loved you and were helped by you will remember you when forget-me-nots have withered. Carve your name on hearts, not on marble.',
+        'Charles Spurgeon',
+    ],
+    '4a1b134f-9b6b-58df-84d9-2727e49c82c9' => [
+        'If war occurs, that positive adult contact in every shape is needed more than ever. It will be a matter of emotional life and death. There\'s not a handy one-minute way of talking to your kid about war.',
+        'Richard Louv',
+    ],
+    '77e6519b-6f76-57ff-a216-7f0e5c722733' => [
+        'It would be impossible to estimate how much time and energy we invest in trying to fix, change and deny our emotions - especially the ones that shake us at our very core, like hurt, jealousy, loneliness, shame, rage and grief.',
+        'Debbie Ford',
+    ],
+    'eff9eaca-4c34-5ed3-aa25-27f6b4053072' => [
+        'You know you\'re a hopeless record nerd when your time travel fantasies always come around to how cool it would be to go back to 1973 and buy all the great funk and jazz and salsa records that came out that year on tiny obscure labels and are now really rare and expensive.',
+        'Adam Mansbach',
+    ],
+    'b200365a-2a61-5ec9-b925-3ac40a0f8648' => [
+        'Work out your own salvation. Do not depend on others.',
+        'Buddha',
+    ],
+    'a3fc9061-8969-5c37-86ca-ee249ca28e41' => [
+        'Parents need all the help they can get. The strongest as well as the most fragile family requires a vital network of social supports.',
+        'Bernice Weissbourd',
+    ],
+    '927b7dc9-f518-5c56-a810-3e480ec2d7b6' => [
+        'Success is a terrible thing and a wonderful thing. If you can enjoy it, it\'s wonderful. If it starts eating away at you, and they\'re waiting for more from me, or what can I do to top this, then you\'re in trouble. Just do what you love. That\'s all I want to do.',
+        'Gene Wilder',
+    ],
+    'bc737929-6e0a-53e6-8eab-712a223de5f3' => [
+        'When a positive exchange between a brand and customers becomes quantifiable metrics, it encourages brand to provide better service, customer service to do a better job, and consumers to actively show their gratitude.',
+        'Simon Mainwaring',
+    ],
+    'e9e374fb-c2f4-5352-b73c-99a0bedbf3c9' => [
+        'The beautiful is in nature, and it is encountered under the most diverse forms of reality. Once it is found it belongs to art, or rather to the artist who discovers it.',
+        'Gustave Courbet',
+    ],
+    '51e90270-8c51-557f-9ba1-e3971fc452b8' => [
+        'I have this horrible sense of humor where I think discomfort is funny - partly because I experience discomfort a lot, and it\'s a way of laughing at it and getting a release.',
+        'Joaquin Phoenix',
+    ],
+    '07f5c26d-dc0a-5fc4-8e52-70031740ef3b' => [
+        'I wanted to travel from the beginning. As a kid, I used to dream about airplanes, before I ever flew in one.',
+        'Mary Ellen Mark',
+    ],
+    'c3a01ec6-ac90-512d-9b8c-50bf862b7f4d' => [
+        'Even in decline, a virtuous man increases the beauty of his behavior. A burning stick, though turned to the ground, has its flame drawn upwards.',
+        'Saskya Pandita',
+    ],
+    '74bbf4da-56e3-57cb-8ea9-f12ed97dc5d5' => [
+        'I feel truth, beauty, love, grief, anger, intimacy &amp; alive in my body... Women in the global south live in their bodies much more than we in the global north. Not as distracted by patriarchy\'s controlling images - They know power is in their bodies. I am deeply grateful for the women who showed me the way home.',
+        'Jodie Evans',
+    ],
+    '9f7c33d0-1828-5e59-a4ef-c24cb9030b1f' => [
+        'Honest labor bears a lovely face.',
+        'Thomas Dekker',
+    ],
+    '37a32799-1c7b-58bf-8962-e7d01840eaf1' => [
+        'Success in business today requires real-time, mobile access to business opportunities.',
+        'Bob McDonnell',
+    ],
+    'e05f71f7-aba5-5080-a68d-5c8f39d48d8b' => [
+        'I smile every time I hear that I\'m a fan favorite or a teenage hottie. It is a nice compliment, and the remarks from the fans are great.',
+        'Sean Berdy',
+    ],
+    'd4646be0-be40-5790-b58c-1d4c769e9158' => [
+        'It is not fit that every man should travel; it makes a wise man better, and a fool worse.',
+        'William Hazlitt',
+    ],
+    'c8569542-3bcd-5435-bbe5-b034e86a8cb9' => [
+        'True success, true happiness lies in freedom and fulfillment.',
+        'Dada Vaswani',
+    ],
+    '1bb9c8df-6889-513c-98de-25addf842c8a' => [
+        'Life is a tide; float on it. Go down with it and go up with it, but be detached. Then it is not difficult.',
+        'Lyle Lovett',
+    ],
+    'c004831e-ecb4-5978-a97f-2ef60dd97457' => [
+        'I would like to be remembered as someone who did the best she could with the talent she had.',
+        'J. K. Rowling',
+    ],
+    'bda18845-9aa9-5fbc-a85a-feca655862cc' => [
+        'There are two kinds of artists in this world; those that work because the spirit is in them, and they cannot be silent if they would, and those that speak from a conscientious desire to make apparent to others the beauty that has awakened their own admiration.',
+        'Anna Katharine Green',
+    ],
+    'd5f483dc-5945-57db-9342-51bc1d20cd0f' => [
+        'I am tortured when I am away from my family, from my children. I am horribly guilt-ridden.',
+        'Jessica Lange',
     ],
 ];

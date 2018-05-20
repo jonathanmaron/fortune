@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'e1d73729-2779-5708-8598-56d46af97bc4' => [
-        'Better to be called something positive and inspirational than something negative.',
-        'Donnie Yen',
+    'ff55a112-d824-530f-9c7c-6592f787c02d' => [
+        'I\'ve spent enough time in the business community to know there are certain regulators who are very constructive in their approach - those who enforce the laws and who actually want to help you comply - and there are others who have a prosecutorial attitude.',
+        'Chris Gabrieli',
     ],
-    '779884cc-fe19-57c1-8e9b-d2213c61c338' => [
-        'I have amazing friends who have led inspirational lives.',
-        'Andrew Shue',
+    '2976abb3-b48f-521b-84e9-c6de9aad05b8' => [
+        'Being happy is of the utmost importance. Success in anything is through happiness.',
+        'Maharishi Mahesh Yogi',
     ],
-    '213abecc-e491-5165-9f43-6711ea9e5733' => [
-        'Life experience is what defines our character, even if it means getting your heart broken or being lied to. You know, you need the downs to appreciate the ups. Going on the adventure or taking that risk is important.',
-        'Victor Hugo',
+    '74d7df1b-3b75-5331-a2ba-cc072c796b76' => [
+        'To be a utilitarian means that you judge actions as right or wrong in accordance with whether they have good consequences. So you try to do what will have the best consequences for all of those affected.',
+        'Peter Singer',
     ],
-    'cee16b5a-f112-5983-b69f-a32eecf0b053' => [
-        'Everyone talks about how we\'re on our phones all the time, but the fact remains that when I\'m away on a film set for two months, I can Skype my family. I remember the phone calls my parents had to make when my dad was away for a while when I was younger - that once-a-week expensive phone call! The time pressure on talking to your father!',
-        'Domhnall Gleeson',
+    '66a5df51-2f66-5429-a1d8-433e84e178d9' => [
+        'I always carry lip balm and lipstick. Lipstick is a very important beauty product because I find that lips are the most beautiful feature of anyone\'s face.',
+        'Fan Bingbing',
     ],
-    '4003b177-e345-5b4d-80c6-f945fe5eb9a8' => [
-        'I buy expensive suits. They just look cheap on me.',
-        'Warren Buffett',
+    '7d05bb3b-9c1a-5853-b222-844f42b555e6' => [
+        'I do not share the half-in, half-out attitude to the EU of some in Britain. Britain\'s place is in Europe.',
+        'Peter Mandelson',
     ],
-    'd4847db3-0269-50bd-92d9-c3b93ef26c87' => [
-        'There\'s a way to do it better - find it.',
-        'Thomas A. Edison',
+    'bdc7dcc1-0bae-575b-abad-ba5a8547ef88' => [
+        'Propaganda has a negative connotation, which it partially deserves, but I think there is some propaganda that is very positive. I feel that if you can do something that gets people\'s attention, then maybe they\'ll go and find out more about the person.',
+        'Shepard Fairey',
     ],
-    'e54acc79-e90c-50f5-9c54-3875a114297f' => [
-        'On the floor I am more at ease. I feel nearer, more part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting.',
-        'Jackson Pollock',
+    '5b045f11-c713-5f8b-946c-8e687ee65b54' => [
+        'Though it may not seem like it, I never try to write about a place, per se; it\'s always, first and last, about story. Story is everything. Story and a bit of attitude.',
+        'Martin McDonagh',
     ],
-    'd40a9713-52a7-5989-ba4e-66447413c4f8' => [
-        'I would love to go back to any time in European history, especially in Irish history, to the second or third century, prior to the arrival of Christianity when Paganism flourished. I can always go back there in my imagination, of course. It doesn\'t cost anything, and it\'s a form of time travel, I suppose.',
-        'Gabriel Byrne',
+    '00484bda-7f44-59ed-96c8-0d93f8aacad8' => [
+        'A lot of people like snow. I find it to be an unnecessary freezing of water.',
+        'Carl Reiner',
     ],
-    '90595cb8-c0ee-5b30-9794-17bd55794a70' => [
-        'The time was ripe for Flower. The vibe was right.',
-        'Jody Watley',
+    '51430202-e634-5b24-8d0c-a6e0136d9024' => [
+        'There is nothing is more musical than a sunset. He who feels what he sees will find no more beautiful example of development in all that book which, alas, musicians read but too little - the book of Nature.',
+        'Claude Debussy',
     ],
-    'fb20d7c0-033f-581e-86ac-eb0e965b32b8' => [
-        'A lot of people deal with things that are bad. Once you\'ve been through something, you grow from it and you take a lot in. You can always turn it into something positive.',
-        'Chino Moreno',
+    '8146fc85-bf29-5800-b216-6d33819ddfe8' => [
+        'Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.',
+        'Bill Veeck',
     ],
-    '17980f1c-fc51-5548-858f-e41f88ce5529' => [
-        'The trouble with travelling back later on is that you can never repeat the same experience.',
-        'Michael Palin',
+    'd74b8c15-aed0-5984-8a01-9cb6d870ac52' => [
+        'Weddings are important because they celebrate life and possibility.',
+        'Eric Davis',
     ],
-    '992fe708-f825-517c-854a-53739cd3a761' => [
-        'Perseverance is not a long race; it is many short races one after the other.',
-        'Walter Elliot',
+    '7d23cf27-b239-5343-835e-e6921acee031' => [
+        'Funny is an attitude.',
+        'Flip Wilson',
     ],
-    '8e8553ee-0136-5cf9-a35c-8eb226743920' => [
-        'It\'s not who\'s the best - it\'s who can take the most pain.',
-        'Steve Prefontaine',
+    'b9e7fbaf-60bf-5e9b-be12-6ec96fb32f95' => [
+        'It is better to be hated for what you are than to be loved for what you are not.',
+        "Andr\u{e9} Gide",
     ],
-    '0d63fe01-1a17-5024-841b-7449dd7de4c6' => [
-        'Life isn\'t always really glamorous and fabulous. It\'s about encouraging people to go back to natural beauty.',
-        'Joseph Campbell',
+    '3a1109a0-16b5-5a7e-9ee5-c303e3656cf6' => [
+        'Wrong life cannot be lived rightly.',
+        'Walter Hagen',
     ],
-    'eb321c2b-8832-5958-b8ef-b1183086e231' => [
-        'I\'m lucky in that I travel a lot for work. I also manage several holidays a year. I\'m not someone who sits in the sun or goes sightseeing, though. If I go away, it will be for fishing or something like that.',
-        'Vinnie Jones',
+    '3287e70f-278a-5a04-acec-1745b8e1aa63' => [
+        'It\'s such a funny thing when you see your daughter transitioning from your baby, your little girl, to suddenly being a young woman. If you\'re not really looking for it, you can miss it, and Lily-Rose is on that road already, and there\'s nothing I can do to stop it.',
+        'Johnny Depp',
     ],
-    '5aae35c8-72db-51fe-bf26-e1609efa9961' => [
-        'Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.',
-        'Tom Jackson',
+    'be65e4b6-c97b-5336-b4fa-2c2b88ec3a9f' => [
+        'Today is the only day. Yesterday is gone.',
+        'John Wooden',
     ],
-    '3619b4f9-7914-5b2b-9145-fbda7b82d6e5' => [
-        'If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.',
-        'Joseph Addison',
+    '5f279f99-7b06-54a5-b628-fb244c662347' => [
+        'Success to me is having ten honeydew melons and eating only the top half of each slice.',
+        'Barbra Streisand',
     ],
-    'beb48846-a0f7-5cb3-b573-bc28acff2b6b' => [
-        'Unbeing dead isn\'t being alive.',
-        'John C. Maxwell',
+    'd5ed8e64-3938-5bf2-82f7-e968ab16b575' => [
+        'I\'ve never been a die-hard Beyonce fan. I always thought she was inspirational and beautiful.',
+        'Winnie Harlow',
     ],
-    '1a86f9ab-700a-5804-8f2f-a4645fd63b99' => [
-        'There\'s no such thing as a specific authenticity to what Mexico is, because Mexico is incredibly complex and varied, and the food is completely different if you travel 50 kilometers. It just changes all the time.',
-        'Gael Garcia Bernal',
+    '77982292-dad4-53be-baa4-be5d6d52a807' => [
+        'Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.',
+        'Abraham Lincoln',
     ],
-    '1f564afa-3a8c-57c6-aedc-532dbbcc4321' => [
-        'I completely agree that a sound sleep is the best beauty product. Sound sleep, one of the most important but underrated thing, helps to make you more beautiful. I can never understand how people work so hard that they miss out on their sleep.',
-        'Shraddha Kapoor',
+    '36e1350b-e103-5ac6-aa51-ebf1ff7d8391' => [
+        'I had the good fortune of having a happy, closely knit family.',
+        'Carlos Fuentes',
     ],
-    '21a9e7aa-0acf-52ee-8f68-8812867796dd' => [
-        'There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.',
-        'Nelson Mandela',
+    'd4dfa8e0-834b-52a6-8061-9d0b098fa075' => [
+        'Feeling is the consciousness of the resulting conditions - of success, failure, equilibrium, compromise or balance, in this continuous rivalry of ideas.',
+        'James Mark Baldwin',
     ],
-    'ef1f4bb7-9efd-5b6c-984a-3cf677c01e9b' => [
-        'When you\'re out of sight for as long as I was, there\'s a funny feeling of betrayal that comes over people when they see you again.',
-        'Esther Williams',
+    '306fe577-147f-52fc-a63b-4e4f3d147151' => [
+        'My personal ambition remains the same - to be creative, to be modern, to stay one step ahead, to enjoy life.',
+        'Valerie Bertinelli',
     ],
-    '6a8116fe-b98e-5c43-af51-d424c33b5524' => [
-        'Today, few terrorist organizations still employ the \'al-Qaeda model\' in which individuals travel to terrorist training camps overseas and then are deployed to the West to inflict atrocities.',
-        'Tom Cotton',
+    'd1372173-b6dc-5464-a48a-8a38e7c2a0a7' => [
+        'Each of us should think of the future. Every puff on a cigarette is another tick closer to a time bomb of terrible consequences. Christopher Hitchens didn\'t care about the consequences of smoking cigarettes. Tragically, he died of throat cancer in December 2011.',
+        'Ray Comfort',
     ],
-    'b10ee7a5-b7e1-5430-90cd-05c55d914176' => [
-        'If you could only love enough, you could be the most powerful person in the world.',
-        'Emmet Fox',
+    'e5dc9167-3554-58bf-b7ba-ca812831daac' => [
+        'Move to Italy. I mean it: they know about living in debt; they don\'t care. I stayed out there for five months while I was making a film called \'Order Of Death,\' and they\'ve really got it sussed. Nice cars. Sharp suits. Great food. Stroll into work at 10. Lunch from 12 till three. Leave work at five. That\'s living!',
+        'John Lydon',
     ],
-    '5859b85c-d51f-526a-aa1b-485de1a8836a' => [
-        'Miracles are not contrary to nature, but only contrary to what we know about nature.',
-        'Saint Augustine',
+    'f77139a7-8281-5c7b-97d1-e86fc1bdca75' => [
+        'The worst part of success is, to me, adapting to it. It\'s scary.',
+        'Kendrick Lamar',
     ],
-    '7778f96c-8d2d-5bdd-8fd5-dfc092aaaad4' => [
-        'Employers have recognized for some time that it\'s smart business to have a diverse workforce - one in which many views are represented and everyone\'s talents are valued. Well, disability is part of diversity.',
-        'Thomas Perez',
+    '2044b3e7-8109-5632-9e65-691659a75d35' => [
+        'Golf is deceptively simple and endlessly complicated; it satisfies the soul and frustrates the intellect. It is at the same time rewarding and maddening - and it is without a doubt the greatest game mankind has ever invented.',
+        'Arnold Palmer',
     ],
-    '7cf2af41-2a6d-5ba6-8d9e-70efb111373a' => [
-        'There is a loftier ambition than merely to stand high in the world. It is to stoop down and lift mankind a little higher.',
-        'Henry Van Dyke',
+    'dec56fd8-2495-54bb-9c5e-1c4a514ef332' => [
+        'Neither man nor woman is perfect or complete without the other. Thus, no marriage or family, no ward or stake is likely to reach its full potential until husbands and wives, mothers and fathers, men and women work together in unity of purpose, respecting and relying upon each other\'s strengths.',
+        'Sheri L. Dew',
     ],
-    '421e3606-5e43-5e8e-83b3-d9e0011c45e8' => [
-        'When it comes to beauty, I feel that hanging with people you love, laughing, and doing silly things gets your spirits up. We are always prettier when we are happier.',
-        'Sara Sampaio',
+    '087da04c-8626-55c5-ab12-aed7deaeb016' => [
+        'If one comes across sometimes as being cold or brusque, it\'s simply because I\'m striving for the best.',
+        'Anna Wintour',
     ],
-    '39bf8108-25ad-5a00-813b-9d12dff6d6e5' => [
-        'One of the things I like best about \'Biggest Loser\' is being around people who are trying to make the right choices. When you feel defeated about your weight and your health, like there\'s no hope, and you still make the choice to fight for it, to make the change happen no matter what people say or think, that\'s inspiring to me.',
-        'Alison Sweeney',
+    'b751b8e1-e093-552b-b43d-6a9c01ae13c9' => [
+        'It pays to get drunk with the best people.',
+        'Joe E. Lewis',
     ],
-    '42885b3f-510e-53ca-b9f7-3e9808ce787b' => [
-        'Laziness is nothing more than the habit of resting before you get tired.',
-        'Jules Renard',
+    'fa7e4035-7c66-5644-9b6f-585785c7ebb6' => [
+        'In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact.',
+        'Les Brown',
     ],
-    'c2ed4f74-ca01-581d-8f77-d6e57e85aada' => [
-        'Success is about honour, feeling morally calibrated, absence of shame, not what some newspaper defines from an external metric.',
-        'Nassim Nicholas Taleb',
+    '48cf5df4-7b0f-548d-bc05-910b965879bb' => [
+        "We live in a quick-fix society where we need instant gratification for everything. Too fat? Get lipo-sucked. Stringy hair? Glue on extensions. Wrinkles and lines? Head to the beauty shop for a pot of the latest miracle skin stuff. It's all a beautiful \u{a3}1 billion con foisted upon insecure women by canny cosmetic conglomerates.",
+        'Joan Collins',
     ],
-    '04bf72bf-50c1-51f8-b96c-2a73c8e7b7a4' => [
-        'I love a good laugh as well, I think that\'s so important in life, which is probably why I\'ve dabbled in comedy writing as well as horror. I think if you can make someone laugh or smile it\'s the most special thing in the world.',
-        'Paul Kane',
+    '749ee100-291d-57cd-8e46-9f3502163335' => [
+        'You need to overcome the tug of people against you as you reach for high goals.',
+        'George S. Patton',
     ],
-    'e411d167-4573-50f4-b25f-6d7016c85bd6' => [
-        'Most of us have far more courage than we ever dreamed we possessed.',
-        'Dale Carnegie',
+    '57e9a456-c809-5cfb-b930-d5d63f6415c4' => [
+        'I want the kids to know that it\'s not a myth that somebody from their city plays and wins in the NBA. I just want to influence them to work hard and do whatever they want to do in life, whether it\'s to be a basketball player or scientist... if they believe in themselves, they can do anything.',
+        'Kawhi Leonard',
     ],
-    '85a37848-3543-50df-8316-56d67e65f102' => [
-        'To know oneself, one should assert oneself.',
-        'Albert Camus',
+    '241e13e2-538f-5270-848e-b167e4b4ccb9' => [
+        'I never smile unless I mean it.',
+        'Donny Osmond',
     ],
-    'b33492b1-6777-5e8b-82bf-fcebcda026dc' => [
-        'Land is the secure ground of home, the sea is like life, the outside, the unknown.',
-        'Montel Williams',
+    'abb64063-b538-51ba-b81b-a7b1c63f2b46' => [
+        'I believe in persevering. If you persevere, success lies ahead of you.',
+        'Liu Yang',
     ],
-    'aa9cb3c1-4b64-530b-92af-6601ccc7b901' => [
-        'I am an enthusiast, but not a crank in the sense that I have some pet theories as to the proper construction of a flying machine. I wish to avail myself of all that is already known and then, if possible, add my mite to help on the future worker who will attain final success.',
-        'Wilbur Wright',
+    '322966e9-a12a-5ac3-8b36-d71ba1abcbb2' => [
+        'Successful people ask better questions, and as a result, they get better answers.',
+        'Tony Robbins',
     ],
-    'e0a15e73-6e70-5a76-a761-e4f0f801b217' => [
-        'I have more love, success, and security than I could ever dream of.',
-        'George Michael',
+    'e1c6ceea-5e14-5c6c-9328-d8e294174182' => [
+        'People have often asked if I\'m gay because I don\'t go out of my way to spit and scratch and give people attitude.',
+        'Jason Bateman',
     ],
-    '6082a592-b4f4-5458-bebd-0eb74cabc228' => [
-        'Work smart. Get things done.',
-        'Susan Wojcicki',
+    '5d221265-5df3-5b46-97af-a70b41e7fa73' => [
+        'I lead no party; I follow no leader. I have given the best part of my life to careful study of Islam, its law and polity, its culture, its history and its literature.',
+        'W. Clement Stone',
     ],
-    '67d1bd8b-7174-5d82-849c-e6405227c09c' => [
-        'I\'m not a DJ, I don\'t know how to scratch and I don\'t know how to mix, but I do know how to party. One of my jobs is actually to travel the world and party.',
-        'Amber Rose',
+    '80496cc3-abed-5711-89ba-a1776b5793ef' => [
+        'A man\'s friendships are one of the best measures of his worth.',
+        'Charles Darwin',
     ],
-    '7fbe86fe-221b-529a-8b98-5d28f5bc1565' => [
-        'I have a secret project which adds four hours every day to the 24 hours we have. There\'s a bit of time travel involved.',
-        'Sundar Pichai',
+    'fc4c2ded-1cb5-5f50-b732-de13f3defb88' => [
+        'Books are challenging and inspirational to me.',
+        'Amy Sedaris',
     ],
-    'a8f72f70-ac09-590e-a6c3-ae8707fdd742' => [
-        'Nature never breaks her own laws.',
-        'Leonardo da Vinci',
+    '7047490d-7666-5e6b-bf51-f8f4fcd16a09' => [
+        'Human settlements are like living organisms. They must grow, and they will change. But we can decide on the nature of that growth - on the quality and the character of it - and where it ought to go. We don\'t have to scatter the building blocks of our civic life all over the countryside, destroying our towns and ruining farmland.',
+        'James Howard Kunstler',
     ],
-    '1c1b3f7e-4ca6-5a7a-9919-d552685de33d' => [
-        'I like actors that are good with pantomime and that can transmit a lot by their presence and attitude more than through their dialogue.',
-        'Guillermo del Toro',
+    'c2061761-dbea-58b5-a502-5343dab77fb3' => [
+        'My success comes in making fun of whatever you\'re doing. That\'s my way.',
+        'Kevin Hart',
     ],
-    '96360a7d-884a-5d96-8eb6-8661fec41a3e' => [
-        'When Jennifer Lawrence says it\'s \'dumb\' to go hungry to make other people happy, she\'s saying it with the carefree attitude of a woman who probably will never have to make that choice to conform.',
-        'Jennifer Armintrout',
+    'ec1ab9e6-2edc-5254-8cdc-84892e776c2d' => [
+        'If you were to actually travel around schools and universities and listen in on lectures about evolution, you might find a fairly substantial fraction of young people, without knowing what it is they disapprove of, think they disapprove of it, because they\'ve been brought up to.',
+        'Richard Dawkins',
     ],
-    '89114eb7-4a05-5609-a345-9e7e096dfa42' => [
-        'Some actors specialize in shooting weapons and punching people. Some have the market on playing buffoons cornered, others specialize in roles that require heavy makeup or outrageous wardrobe. Some trade exclusively in a post-ironic blase attitude.',
-        'Rob Lowe',
+    '2c263bf3-6f03-5944-b8af-30b13178511b' => [
+        'The only guaranteed way to make something not very funny is to make it vague.',
+        'Thomas Lennon',
     ],
-    'fde164c4-e7e0-5407-b4f5-4e5f0d763c61' => [
-        'At home in Ireland, there\'s a habit of avoidance, an ironical attitude towards the authority figure.',
-        'Seamus Heaney',
+    'd9889339-ae22-56c8-9087-01db834e82b5' => [
+        'Oftentimes, when we think of 3D, we think of things coming out of the screen, but actually, you\'ve got this zero, this negative space, what they call the negative space, which is the scene, what\'s being filmed in the positive space of the audience. As you can have things come out, you can have all of this depth.',
+        'Keanu Reeves',
     ],
-    '1abc9c04-4724-567f-af5b-d166bd09c789' => [
-        'Laughter is the best medicine - unless you\'re diabetic, then insulin comes pretty high on the list.',
-        'Jasper Carrott',
+    '35576fa1-4dc6-5905-8456-e2bb009a1bc4' => [
+        'Typically, if you reward something, you get more of it. You punish something, you get less of it. And our businesses have been built for the last 150 years very much on that kind of motivational scheme.',
+        'Daniel H. Pink',
     ],
-    'e42a8986-b9c4-5d05-bc55-db13061ac83a' => [
-        'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
-        'Jeffrey Gitomer',
+    'ff956db4-7b92-53d2-a7c0-32f7ec8ea8ff' => [
+        'The very best hotel I\'ve stayed in is the Intercontinental on Park Lane. We went there for the Chelsea Flower Show a few years ago, and it was sheer luxury. Everybody had a smile on their face. I came home and changed all my pillows because the hotel ones were so beautiful.',
+        'Mary Berry',
     ],
-    'f6d4ce81-12fb-5f37-a00c-1db0cc73a5c4' => [
-        'The funny thing about having all this so-called success is that behind it is a certain horrible emptiness.',
-        'Sam Shepard',
+    'af373c96-1ad5-59b1-ba04-13723ae23748' => [
+        'Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories.',
+        'Hassanal Bolkiah',
     ],
-    'be772423-7537-5775-8ece-1acd2b8de27c' => [
-        'Each misfortune you encounter will carry in it the seed of tomorrows good luck.',
-        'Og Mandino',
+    'c3f3b6f0-6bcd-5773-a4e3-0ba48395691e' => [
+        'I\'m a positive person, and I try to look at the good side of everything.',
+        'Leona Lewis',
     ],
-    'b3475f08-1cfa-5795-95a0-2593bc6b3827' => [
-        'War is just a racket. A racket is best described, I believe, as something that is not what it seems to the majority of people. Only a small inside group knows what it is about. It is conducted for the benefit of the very few at the expense of the masses.',
-        'Smedley Butler',
+    '512776fa-2b96-58be-92d7-5957ca4ad822' => [
+        'Time will pass and seasons will come and go.',
+        'Roy Bean',
     ],
 ];

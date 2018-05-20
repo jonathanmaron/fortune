@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '29ef9e11-3d07-512f-a266-3bfd70b1e47d' => [
-        'Before success comes in any man\'s life, he\'s sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That\'s exactly what the majority of men do.',
-        'Napoleon Hill',
+    'a4d5ef73-4fc6-55ad-be69-85eb0c150cf4' => [
+        'Human judges can show mercy. But against the laws of nature, there is no appeal.',
+        'Arthur C. Clarke',
     ],
-    '4a822038-544b-553b-81de-c59369c94435' => [
-        'Hope... is the companion of power, and the mother of success; for who so hopes has within him the gift of miracles.',
-        'Samuel Smiles',
-    ],
-    'a4e8adf9-4194-5122-bc7d-036733c77bd5' => [
-        'Play like you\'re positive on the victory, even though they\'re leading big now.',
-        'Knute Rockne',
-    ],
-    '89b8634c-a2a0-570e-b6d3-11dfbf5e87f1' => [
-        'Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.',
-        'John Holmes',
-    ],
-    '065109b7-2b4b-5c4b-9bc3-584b1b4b40f2' => [
-        'The best scientists and explorers have the attributes of kids! They ask question and have a sense of wonder. They have curiosity. \'Who, what, where, why, when, and how!\' They never stop asking questions, and I never stop asking questions, just like a five year old.',
-        'Sylvia Earle',
-    ],
-    '3ee42ea7-fc5d-5056-8746-0eadbc92f56f' => [
-        'There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.',
-        'Robert Quillen',
-    ],
-    '09f44549-e681-5a20-848b-8aa4b8841c42' => [
-        'It is with children that we have the best chance of studying the development of logical knowledge, mathematical knowledge, physical knowledge, and so forth.',
+    '078274a0-fe3f-5c31-98d0-d4199cc53c14' => [
+        'I have always detested any departure from reality, an attitude which I relate to my mother\'s poor mental health.',
         'Jean Piaget',
     ],
-    'd2f2479e-5741-52d0-bb50-e69c2c23238a' => [
-        'I have these visions of myself being thirty, thirty-five, forty having a family.',
-        'Nastassja Kinski',
+    '10440d5a-a132-53f3-a6f1-f1c40652a5cb' => [
+        'Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around.',
+        'A. P. J. Abdul Kalam',
     ],
-    '796bea01-a4ef-58ec-96f6-7466db1d7a93' => [
-        'Education is not preparation for life; education is life itself.',
-        'Maya Angelou',
+    'e3e0c771-f25f-5855-8e19-66163fd85d17' => [
+        'There are a lot of funny things that happen in one\'s life.',
+        'Pierce Brosnan',
     ],
-    'cba59cff-bf27-508d-a6d9-faf04319158b' => [
-        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
-        'Kurt Cobain',
+    'ec6db5ce-39a1-5428-8948-fd215f32c7b9' => [
+        'Competence, like truth, beauty, and contact lenses, is in the eye of the beholder.',
+        'Laurence J. Peter',
     ],
-    'dfb4226c-7002-5428-af83-07129bc36fac' => [
-        'The best revenge in the world is success.',
-        'Suge Knight',
+    'b9a5e5dd-1731-564b-80ca-e44acbf0a54b' => [
+        'Age focuses you. You are much better concentrated. There\'s more time when you travel less, don\'t do book tours, avoid interviews or public appearances. You walk the dogs, fish, hunt, cook and write.',
+        'Jim Harrison',
     ],
-    '131dfdfe-a848-5667-b572-eead57c1ad39' => [
-        'Blessed are those who can give without remembering and take without forgetting.',
-        'Unknown',
+    '1003a777-dfc4-589e-95f0-418991235403' => [
+        'And it was a great experience, you know, to travel the world and compete at a certain level. It teaches you discipline, focus, and certainly keeps you out of trouble.',
+        'Jason Statham',
     ],
-    '6b82852f-cb6e-545c-9fa9-20efac30be55' => [
-        'I never laugh or smile when I am writing. When I come home for lunch after writing all morning, my wife says I look like I just came home from a funeral. This is not bragging. This is an illness.',
-        'Carl Hiaasen',
+    '55ac19a3-36c0-5599-b790-c95bd1db2ac2' => [
+        'Retaliation is related to nature and instinct, not to law. Law, by definition, cannot obey the same rules as nature.',
+        'Albert Camus',
     ],
-    '8afc6bb0-2c7d-5eba-8205-d443e23c4e6b' => [
-        'We believe in working hard and having fun at the same time. It\'s a way of life for me, and I feel tremendous.',
-        'Robert Stigwood',
+    'a145fa12-bb57-5f51-86d1-9c80400d2568' => [
+        'Wrinkles should merely indicate where smiles have been',
+        'Mark Twain',
     ],
-    'e8ae5f63-619f-5482-b8a3-b512fcbe9671' => [
-        'Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.',
-        'Rabindranath Tagore',
+    'bf4b0697-74d9-5f42-9a8b-fbf00af48fde' => [
+        'We believed in our idea - a family park where parents and children could have fun- together.',
+        'Walt Disney',
     ],
-    '37f241bc-616c-53de-b7e3-dd330a19cdbd' => [
-        'Call it what you will, incentives are what get people to work harder.',
-        'Nikita Khrushchev',
+    '231693a1-830a-5a49-ba5d-90afa59b99a7' => [
+        'It\'s so funny, you go to acting school thinking you\'re going to learn how to be other people, but really it taught me how to be myself. Because it\'s in understanding yourself deeply that you can lend yourself to another person\'s circumstances and another person\'s experience.',
+        'Lupita Nyong\'o',
     ],
-    'a36f6485-5b1d-5c19-a978-ceefedd752ec' => [
-        'Begin somewhere; you cannot build a reputation on what you intend to do.',
-        'Liz Smith',
+    '55b93c95-04a2-5abc-b0d9-a2ecbdbbcf15' => [
+        'I think that beauty can injure you to death. It can cause an injury that can never be cured. Or it can so traumatise you, your life changes direction. The beauty of the harmony of nature that is forever lost, or a daily rite that you perform, or diving into the sea for a swim. Those experiences are going to mark you.',
+        'Toni Servillo',
     ],
-    'f290ddcd-26c8-5a87-b1a4-39524fd0cc2b' => [
-        'Our purpose in Vietnam is to prevent the success of aggression. It is not conquest, it is not empire, it is not foreign bases, it is not domination. It is, simply put, just to prevent the forceful conquest of South Vietnam by North Vietnam.',
-        'Lyndon B. Johnson',
+    '7ffd2745-3819-5c38-b133-f9a4c3cedd8c' => [
+        'I want to put concepts in front of people that make them laugh or smile or even hate what I do. I\'m not interested in just putting clothes in stores.',
+        'Thom Browne',
     ],
-    'e5dc9167-3554-58bf-b7ba-ca812831daac' => [
-        'Move to Italy. I mean it: they know about living in debt; they don\'t care. I stayed out there for five months while I was making a film called \'Order Of Death,\' and they\'ve really got it sussed. Nice cars. Sharp suits. Great food. Stroll into work at 10. Lunch from 12 till three. Leave work at five. That\'s living!',
-        'John Lydon',
+    'b6561724-a577-5e28-8d09-4df197e2a7ee' => [
+        'Airplane travel is nature\'s way of making you look like your passport photo.',
+        'Al Gore',
     ],
-    'b01a7cf4-c1c0-5023-8b07-86bcc31b3fed' => [
-        'To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.',
-        'Plutarch',
+    '90a93e2c-4d1a-5011-8dcf-e67d2ace9501' => [
+        'Follow your passion, be prepared to work hard and sacrifice, and, above all, don\'t let anyone limit your dreams.',
+        'Donovan Bailey',
     ],
-    '35bddf00-e68a-5723-aec5-28334775ad49' => [
-        'My job is to be fit and I\'m really blessed that I get to go and work out and live a really healthy lifestyle.',
-        'Kerri Walsh Jennings',
+    '32380c56-cda9-5abb-944d-e234b43eea85' => [
+        'India offers exciting business opportunities owing to the growth in corporate travel and a significant middle-class population waiting to explore the world. To begin with, Travelex is setting up eight city centre branches in metros and other major cities including tourist destinations.',
+        'Lloyd Dorfman',
     ],
-    'e08a2b3a-49ad-5564-96fe-c6d854162909' => [
-        'Check your ego at the door. The ego can be the great success inhibitor. It can kill opportunities, and it can kill success.',
-        'Dwayne Johnson',
+    '6bd1a9f6-57b1-5dab-a265-90a8aba55dc1' => [
+        'Life is a game and true love is a trophy.',
+        'Marie Curie',
     ],
-    '5676a51c-9ac4-5cd7-b0b2-1b505397f6d8' => [
-        'When I travel, I draw and paint sketches which is great fun. And as long as you are fully aware that it has nothing to do with actual art, I think that\'s all right.',
-        'Arne Jacobsen',
+    'ddb5f77a-691c-5e5e-9d1b-daa1daffb5d9' => [
+        'The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity.',
+        'Ruby Dee',
     ],
-    'fb6f617f-a58f-5056-8cdc-1b502957597b' => [
-        'It\'s funny - I read that women look to chiseled-faced guys for one-night stands, and to round-faced guys for marriage. When I\'m rounder in the face, I like to say, \'This is my long-term look.\' Or \'This is my wife-and-kids look right here.\'',
-        'Garrett Hedlund',
+    'eeb3fb8a-586e-5158-9621-5132c197e20d' => [
+        'The only place where success comes before work is in the dictionary.',
+        'Vidal Sassoon',
     ],
-    '060a8af2-d732-56c1-916a-7b18ca1681b3' => [
-        'Life is much shorter than I imagined it to be.',
-        'James M. Barrie',
+    '04bf72bf-50c1-51f8-b96c-2a73c8e7b7a4' => [
+        'I love a good laugh as well, I think that\'s so important in life, which is probably why I\'ve dabbled in comedy writing as well as horror. I think if you can make someone laugh or smile it\'s the most special thing in the world.',
+        'Paul Kane',
     ],
-    'a88bd15c-52c2-5a9f-81bc-cc2e63886cb3' => [
-        'Don\'t complain about what you don\'t have. Use what you\'ve got. To be less than your best is a sin.',
-        'Oprah Winfrey',
+    '8594c714-3c0f-5277-a433-0b84aa884480' => [
+        'In this world, shipmates, sin that pays its way can travel freely, and without passport; whereas Virtue, if a pauper, is stopped at all frontiers.',
+        'Herman Melville',
     ],
-    '5decf7d7-9815-52c9-8883-dcd1bd443431' => [
-        'It\'s fine to celebrate success but it is more important to heed the lessons of failure.',
-        'Bill Gates',
+    'b6bb815d-9d9f-5762-8e06-4ecddec6c100' => [
+        'I do find things funny. When you see life through the eyes of someone with a good sense of humor, which my grandmother did, life is a human comedy.',
+        'George Takei',
     ],
-    'd2362793-8f48-5662-b70c-31378aa7e0a7' => [
-        'Lose an hour in the morning, and you will spend all day looking for it.',
-        'Richard Whately',
+    '116964f0-e7f6-5026-acb4-d4a3abdfb9cc' => [
+        'When you write, you put your thoughts in the public space. You get both positive and negative feedback.',
+        'Ravi Subramanian',
     ],
-    '34ca9e48-85d1-56ca-9ee6-6d630cd17cc0' => [
-        'Do your little bit of good where you are; it\'s those little bits of good put together that overwhelm the world.',
-        'Desmond Tutu',
+    '5f9afb4f-04c6-5949-beeb-47434992c5ce' => [
+        'Marie Antoinette was funny, I\'m sure she was just misinterpreted. You know the \'Let them eat cake\' line. She seems like she was kind of funny, like a Chelsea Handler or Kathy Griffin type.',
+        'Colin Quinn',
     ],
-    '25bf8ea5-e83b-5cf9-a19d-7d5a46cd036f' => [
-        'I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.',
-        'Gilbert K. Chesterton',
+    'c64ab86a-c878-5b1a-acf8-32a36212cf9b' => [
+        'Though pleas\'d to see the dolphins play, I mind my compass and my way.',
+        'Matthew Green',
     ],
-    '485df078-61f1-5f69-81ab-ae96b767468c' => [
-        'What I always think about when I think about \'Girls\' is Lena being in a scene where she\'s very vulnerable, possibly directing, acting, and she\'s probably written the dialogue. It\'s 2 in the morning. Everyone\'s tired. Everyone\'s grumpy. And she has a smile on her face and kindness for everyone who interacts with her.',
-        'Jennifer Konner',
+    '5c16cc10-ad5a-5355-8773-b59c5f22475a' => [
+        'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a game or a battle; the win comes from basic blocking and tackling.',
+        'Naveen Jain',
     ],
-    '5c730c94-002e-5e2a-8e3c-6fa2c0020796' => [
-        'The most beautiful thing in the world is, of course, the world itself.',
-        'Wallace Stevens',
+    '165e1cc2-8094-5db2-b6e4-7d69cb151bb6' => [
+        'All children are artists. The problem is how to remain an artist once he grows up.',
+        'Pablo Picasso',
     ],
-    '362a38e2-4d12-55a0-81d2-d6f89b36738f' => [
-        'True generosity is an offering; given freely and out of pure love. No strings attached. No expectations. Time and love are the most valuable possession you can share.',
-        'Suze Orman',
+    'e2444f39-751e-57c7-8cb4-d69553f82373' => [
+        'I think the expectation of me was that I\'d grow up, get married, have a family, probably not even have a job outside the home. I had bold notions sometime in my childhood that I wanted to be veterinarian... I wasn\'t sure I\'d ever do it.',
+        'Drew Gilpin Faust',
     ],
-    '8c157d33-cc7e-5ba2-9f4d-69cd67c08aa3' => [
-        'The only true measure of success is the ratio between what we might have done and what we might have been on the one hand, and the thing we have made and the things we have made of ourselves on the other.',
-        'H. G. Wells',
+    '406cbd08-577b-56e3-a8d0-104b2b9dc302' => [
+        'The idea is that there is a kind of memory in nature. Each kind of thing has a collective memory. So, take a squirrel living in New York now. That squirrel is being influenced by all past squirrels.',
+        'Rupert Sheldrake',
     ],
-    '4807330f-c518-5773-bb25-3d6564eebcda' => [
-        'That\'s what I love from metal, and that\'s what I love from hip-hop. That\'s what I love from any music that\'s hard, that\'s got an edge to it-The attitude in it.',
-        'Kid Rock',
+    'e4760729-c82b-5c28-995f-a4da801555b6' => [
+        'I like children - fried.',
+        'W. C. Fields',
     ],
-    'cb786472-be1e-531f-adb2-02d36df029ca' => [
-        'We cannot solve our problems with the same thinking we used when we created them.',
-        'Albert Einstein',
+    '04ec9a97-c638-53cd-9e43-a9b99962ee81' => [
+        'I love deadlines. I like the whooshing sound they make as they fly by.',
+        'Douglas Adams',
     ],
-    '1d2bc90c-a716-5126-add0-748d2212a30b' => [
-        'Video is a funny thing. It\'s one thing to be an artist, singer-songwriter, and use words and create pictures in people\'s minds. And then be asked to do video for it, to actually give a certain visual for your song.',
-        'Melissa Etheridge',
+    'b4c8d412-8b38-507e-b337-f9830505f8d3' => [
+        'What I miss the most is chatting with my friends and family and having a good laugh over a simple meal.',
+        'Kim Yuna',
     ],
-    '53a8acb4-6637-5e15-9ce6-340498f092ab' => [
-        'There is a saying that every nice piece of work needs the right person in the right place at the right time.',
-        'Benoit Mandelbrot',
+    '05a64c29-8986-5439-be52-f632c045e7f6' => [
+        'You can achieve all the things you want to do, but it\'s much better to do it with loved ones around you; family and friends, people that you care about that can help you on the way and can celebrate you, and you can enjoy the journey.',
+        'John Lasseter',
     ],
-    '0b9eedae-1160-518c-bfc5-daf79669569e' => [
-        'There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things.',
-        'Niccolo Machiavelli',
+    'edccca66-7ab6-5021-b892-fdac10b55bfe' => [
+        'In 20 years, you probably won\'t even remember this.',
+        'Anonymous',
     ],
-    'f62a7d66-582b-50ac-beb9-8c443954f5bb' => [
-        'I can see a day soon where you\'ll create your own college degree by taking the best online courses from the best professors from around the world - some computing from Stanford, some entrepreneurship from Wharton, some ethics from Brandeis, some literature from Edinburgh - paying only the nominal fee for the certificates of completion.',
-        'Thomas Friedman',
+    'a9461390-68a3-5cd4-814a-360d592ef783' => [
+        'It\'s all positive energy from me, man.',
+        'Swizz Beatz',
     ],
-    'acc5c3ad-3973-56ba-ba46-0f391441e39e' => [
-        'Every corny thing that\'s said about living with nature - being in harmony with the earth, feeling the cycle of the seasons - happens to be true.',
-        'Susan Orlean',
+    'ca3a7f18-da8e-5870-b3fa-ce77cf653367' => [
+        'A dog will teach you unconditional love. If you can have that in your life, things won\'t be too bad.',
+        'Jimmy Dean',
     ],
-    '8efddfae-1cca-5d0d-93f6-a5b7b624e8ff' => [
-        'For me art and chess are closely related, both are forms in which the self finds beauty and expression.',
-        'Vladimir Kramnik',
+    'ad159c9d-b654-597b-908f-6f636ddc5dff' => [
+        'To be beautiful means to be yourself. You don\'t need to be accepted by others. You need to accept yourself.',
+        'Thich Nhat Hanh',
     ],
-    '319a9178-17b7-5f23-b350-8263a403142b' => [
-        'I believe in the value of life. I believe we must prepare our children for tomorrow with the family values of my grandparents.',
-        'Ryan Zinke',
+    '76589e4e-8461-54a3-9ba3-563c4e3b00bd' => [
+        'Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense everything that comes from love is a miracle.',
+        'Marianne Williamson',
     ],
-    '7eaf7b1d-3c43-533d-aa06-8f13badd5310' => [
-        'Let us permit nature to have her way. She understands her business better than we do.',
-        'Michel de Montaigne',
+    '58b8daf5-c5de-5ff1-b5d1-b9af0c4e9609' => [
+        'I think Sydney has so much natural beauty; it\'s just a beautiful city.',
+        'Flume',
     ],
-    '56cb2ddb-2ebf-5af0-996d-f67c7f8be052' => [
-        'Ideals are an imaginative understanding of that which is desirable in that which is possible.',
-        'Walter Lippmann',
+    '6717ee6e-3b3d-533b-ac76-501357bf7a01' => [
+        'I hated every minute of training, but I said, \'Don\'t quit. Suffer now and live the rest of your life as a champion.\'',
+        'Muhammad Ali',
     ],
-    '8c782b62-e3b0-55b3-bab1-23878b323b73' => [
-        'Anyone who says he can see through women is missing a lot.',
-        'Groucho Marx',
+    'd26e48f5-cb49-5ef5-9910-3127347d896b' => [
+        'I go to nature to be soothed and healed, and to have my senses put in order.',
+        'John Burroughs',
     ],
-    'b15141f2-8151-5cf3-99ec-c36dd706964b' => [
-        'Normal is getting dressed in clothes that you buy for work, driving through traffic in a car that you are still paying for, in order to get to a job that you need so you can pay for the clothes, car and the house that you leave empty all day in order to afford to live in it.',
-        'Ellen Goodman',
+    'fa75ceb6-763b-5af1-b195-133a575491f4' => [
+        'If at first you don\'t succeed, find out if the loser gets anything.',
+        'William Lyon Phelps',
     ],
-    '0922c787-3656-5496-9db5-0cda4b892497' => [
-        'Allowing yourself to smile takes 99% of the effort.',
-        'Simon Travaglia',
+    'fd809979-605d-5353-9627-cc0be113b81b' => [
+        'I love fashion, and I love changing my style, my hair, my makeup, and everything I\'ve done in the past has made me what I am now. Not everyone is going to like what I do, but I look back at everything, and it makes me smile.',
+        'Victoria Beckham',
     ],
-    'f6215fd7-a0d1-56d2-abc0-28198b45b2a3' => [
-        'Food, love, career, and mothers, the four major guilt groups.',
-        'Cathy Guisewite',
+    '03c4e5c1-4681-5e34-adf9-1c9be99e76a3' => [
+        'I am a joyful conservative, unafraid to articulate big ideas with an optimistic smile.',
+        'Kevin Cramer',
     ],
-    '9397fadf-6e3f-5537-b319-812a23ee59a6' => [
-        'When I\'m being funny, I try not to offend. I don\'t think much of what I\'ve done has been in really ghastly taste. I don\'t think I have embarrassed many people or distressed them.',
-        'Kurt Vonnegut',
+    '4ffb5bf4-6eff-55a2-9f58-a3faaac2aa72' => [
+        'Lives of great men all remind us, we can make our lives sublime, and, departing, leave behind us, footprints on the sands of time.',
+        'Henry Wadsworth Longfellow',
+    ],
+    '5149cd3f-5103-522f-ba57-d64a0a4698d6' => [
+        'A woman has two smiles that an angel might envy, the smile that accepts a lover before words are uttered, and the smile that lights on the first born babe, and assures it of a mother\'s love.',
+        'Thomas Chandler Haliburton',
+    ],
+    'bb0d0a76-3afc-5e5b-8924-547635fc7dd5' => [
+        'I tend to regard the Coase theorem as a stepping stone on the way to an analysis of an economy with positive transaction costs.',
+        'Ronald Coase',
+    ],
+    '6788875f-8cdf-5c81-a4a3-769470323339' => [
+        'Quality means doing it right when no one is looking.',
+        'Henry Ford',
+    ],
+    '93560e85-a213-549f-a8db-7516ba9450c8' => [
+        'I like to play a strong woman, but a strong woman can also be very fragile and vulnerable at the same time.',
+        'Carice van Houten',
+    ],
+    'dac5d702-4d8a-5e40-b79f-340ba1308c7f' => [
+        'Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you.',
+        'Nathaniel Hawthorne',
     ],
 ];

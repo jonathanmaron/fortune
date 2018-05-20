@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'a2a5a6ae-fe34-53ca-8878-70d85dee2414' => [
-        'Either you run the day, or the day runs you.',
-        'Jim Rohn',
-    ],
-    '4278e02e-1159-52c0-a110-5c2514284cb2' => [
-        'Success is following the pattern of life one enjoys most.',
-        'Al Capp',
-    ],
-    '67103a1e-a499-52a2-b579-38d3ba993bf2' => [
-        'The faith that anyone could move from rags to riches - with enough guts and gumption, hard work and nose to the grindstone - was once at the core of the American Dream.',
-        'Robert Reich',
-    ],
-    'b50f1d57-03c5-5e96-9054-9d8ec3c5689f' => [
-        'When I started Giorgio Armani in the mid-\'70s, I realized that women needed a way to dress that was equivalent to that of men - something that would give them dignity, an attitude that would help them handle their work life.',
-        'Giorgio Armani',
-    ],
-    '5c94d2b9-880f-5908-97f7-613c6fa62556' => [
-        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.',
-        'Buddha',
-    ],
-    '9d97e9e3-56a9-552e-ad47-937b4e0392bf' => [
-        'I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.',
-        'G. K. Chesterton',
-    ],
-    '9a467a54-98a4-5e8a-8bfa-ce62393a3148' => [
-        'First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.',
+    '239f7d4c-c10a-55e7-81ff-744bfa569558' => [
+        'Patience, persistence and perspiration make an unbeatable combination for success.',
         'Napoleon Hill',
     ],
-    '6c80e637-8da6-5eac-a143-5dcec07214c1' => [
-        'The landscape painter must walk in the fields with a humble mind. No arrogant man was ever permitted to see Nature in all her beauty.',
-        'John Constable',
+    'f8e9be08-c7cc-51e6-af06-1271a0b175b9' => [
+        'Fame can be just so annoying because people are so critical of you. You can\'t just say, \'hi\'. You say hi and people whisper\' man did you see the way she said hi? What an attitude.',
+        'Juliette Lewis',
     ],
-    '25b21034-85a7-563b-86f3-3f5845e12e64' => [
-        'Life appears to me too short to be spent in nursing animosity, or registering wrongs.',
-        'Mattie Stepanek',
+    '362585c8-14a0-5f6a-b652-31c0b5a12617' => [
+        'Sincerity is the way of Heaven. The attainment of sincerity is the way of men.',
+        'Confucius',
     ],
-    '8c986199-d4d0-5c16-978b-1e95333be5f5' => [
-        'Southerners smile more than other Americans.',
-        'John Shelton Reed',
+    '427e7673-a1ed-50dc-81a7-714d4e48836a' => [
+        'We know beauty when we see it, and our reactions are remarkably consistent. Beauty is not just a social construct, and not every girl is beautiful just the way she is.',
+        'Virginia Postrel',
     ],
-    'cc32e3ce-a30d-54ec-a902-2a7a3a0d402d' => [
-        'With the past, I have nothing to do; nor with the future. I live now.',
-        'Shah Rukh Khan',
+    'c81bd1d5-69e6-5ddc-961e-72771d7379b7' => [
+        'A woman knows by intuition, or instinct, what is best for herself.',
+        'Marilyn Monroe',
     ],
-    'e534806b-f80e-53f6-9b98-aa7b2a562016' => [
-        'No American should live in fear of going to work or sending their kids to school. Let\'s end the fear. Let\'s enforce existing gun laws.',
-        'Charles B. Rangel',
+    'cb7a594a-e35e-5861-88ec-a1f357c80a8a' => [
+        'I believe in Liberty for all men: the space to stretch their arms and their souls, the right to breathe and the right to vote, the freedom to choose their friends, enjoy the sunshine, and ride on the railroads, uncursed by color; thinking, dreaming, working as they will in a kingdom of beauty and love.',
+        'W. E. B. Du Bois',
     ],
-    '6e47bdf2-7df8-5746-92fa-ec7df1459393' => [
-        'The man who can smile when things go wrong has thought of someone else he can blame it on.',
-        'Robert Bloch',
+    '85fc834e-d3db-5aa4-8a4e-349d7515c45d' => [
+        'Many of the familiar little things that we use every day have typically evolved over a period of time to a state of familiarity. They balance form and function, elegance and economy, success and failure in ways that are not only acceptable, but also admirable.',
+        'Henry Petroski',
     ],
-    'f220d01f-2cac-5a05-9458-067360531f86' => [
-        'Say and do something positive that will help the situation; it doesn\'t take any brains to complain.',
-        'Robert A. Cook',
+    'f35e24e3-f828-53ab-ad74-f91208dfac7f' => [
+        'Unemployment is capitalism\'s way of getting you to plant a garden.',
+        'Orson Scott Card',
     ],
-    '7b24bcab-e2d6-5f29-9e1d-2c463674ef51' => [
-        'We depend on our rivers and dams for energy, transportation, irrigation and recreation and I will continue this year to fight for what\'s best for the Pacific Northwest.',
-        'Cathy McMorris Rodgers',
+    'b562b11e-f0be-5093-88e2-922e6eb6018c' => [
+        'In June as many as a dozen species may burst their buds on a single day. No man can heed all of these anniversaries; no man can ignore all of them.',
+        'Aldo Leopold',
     ],
-    'ff994c46-1696-5e30-96e1-5c695c2cdc71' => [
-        'I have to think of the positive; that\'s how I cope.',
-        'Ingrid Newkirk',
+    '7e3e7bf1-e2c4-56c4-8d97-edd7db406eff' => [
+        'Dullness in matters of government is a good sign, and not a bad one - in particular, dullness in parliamentary government is a test of its excellence, an indication of its success.',
+        'Walter Bagehot',
     ],
-    '58288b63-293f-53f6-a01e-e0dfea890e15' => [
-        'Failure is a part of success.',
-        'Hank Aaron',
+    '51e3fab5-f61a-5932-84b7-15b493bdae4f' => [
+        'We have become aware of the responsibility for our attitude towards the dark pages in our history. We have understood that bad service is done to the nation by those who are impelling to renounce that past.',
+        'Aleksander Kwasniewski',
     ],
-    'df5c9f75-c5d6-5adb-9786-f680ef1486ed' => [
-        'When you think positive, good things happen.',
-        'Matt Kemp',
+    '564fd2be-fe1e-5756-b08d-0205a1ea6678' => [
+        'I don\'t just want a better deal for Britain. I want a better deal for Europe too. So I speak as British prime minister with a positive vision for the future of the European Union. A future in which Britain wants, and should want, to play a committed and active part.',
+        'David Cameron',
     ],
-    '96251325-f3ae-5ab0-9788-ff22e77faaee' => [
-        'Moderation is a virtue only in those who are thought to have an alternative.',
-        'Henry Kissinger',
+    '6145ba03-9dea-5a6e-b8b9-b07f90a73153' => [
+        'No amount of law enforcement can solve a problem that goes back to the family.',
+        'J. Edgar Hoover',
     ],
-    'ce55dd46-d0cc-515a-8060-79b062758613' => [
-        'I would travel only by horse, if I had the choice.',
-        'Linda McCartney',
+    'b867d875-5eb3-5f28-914b-5d768828bf45' => [
+        'There are people who have money and people who are rich.',
+        'Coco Chanel',
     ],
-    '1152ac87-b645-5f36-b469-897111fcabce' => [
-        'Arrogance and rudeness are training wheels on the bicycle of life, for weak people who cannot keep their balance without them.',
-        'Laura Teresa Marquez',
+    '7d8e7635-5519-5ce7-a8b7-3b764ee4fcc6' => [
+        'Your success story is a bigger story than whatever you\'re trying to say on stage. Success makes life easier. It doesn\'t make living easier.',
+        'Bruce Springsteen',
     ],
-    '290406b2-d9d9-5645-879e-f9d4305005e6' => [
-        'Having no competition is a bad thing. Competition makes you try to improve yourself all the time.',
-        'Shu Qi',
+    '7706811a-f0be-5048-9c07-6c227006fbc0' => [
+        "Look in the MIRROR...\nThat's your COMPETITION.",
+        'Unknown',
     ],
-    '008e0136-6666-5cdd-b56b-2f2c6079380f' => [
-        'A few years ago, I was trying to buy a piece of land next to a house I had in Newfoundland. I discovered that the plot had been owned by a family, and the son had gone off to World War I and been killed. It began to interest me: What would have happened on that land if the son had lived, had brought up his own family there?',
-        'Michael Winter',
+    '053b47d5-96ef-5ade-b0d2-e416c7dffeef' => [
+        'If you kick a stone in anger, you\'ll hurt your own foot.',
+        'Korean proverb',
     ],
-    '0e2bf61c-a868-51c3-8b7b-679e27f28f2f' => [
-        'Every man takes the limits of his own field of vision for the limits of the world.',
-        'Arthur Schopenhauer',
+    '0aee3c4d-5359-544d-9914-d1aefea20ac0' => [
+        'I think fun is an important part of the entertainment industry, and it should be. Anybody who\'s not incorporating some of that into their work needs to take a break, go away, and have an attitude adjustment.',
+        'Diane Lane',
     ],
-    'deade189-1fe7-5846-864e-cbefd0458110' => [
-        'No matter how you feel, Get up, dress up, show up and never give up.',
-        'Anonymous',
+    '4a5f5e7f-8f64-52be-a4ba-96b86d54b560' => [
+        'Nature was here a series of wonders, and a fund of delight.',
+        'Daniel Boone',
     ],
-    '4a028aa2-f956-512e-9896-d12ab45cdb03' => [
-        'The coniferous forests of the Yosemite Park, and of the Sierra in general, surpass all others of their kind in America, or indeed the world, not only in the size and beauty of the trees, but in the number of species assembled together, and the grandeur of the mountains they are growing on.',
-        'John Muir',
+    '11191460-2113-5cfd-8d2c-b31c4e3468a9' => [
+        'My life is full of drama, and I don\'t have time to worry about something as petty as what I look like.',
+        'Adele',
     ],
-    '23266266-4c64-57a0-9250-19bd645019a2' => [
-        'There are two kinds of people, those who do the work and those who take the credit. Try to be in the first group; there is less competition there.',
-        'Indira Gandhi',
+    '70f8d118-80c4-5361-9c67-7348675ba552' => [
+        'As the time goes by, you change, your learn new things, your attitude is different. For the moment, I\'m still enjoying ski racing so much that it would be difficult for me to think about ending my career.',
+        'Hermann Maier',
     ],
-    '2d61d0e6-3610-5d40-b8ed-47f2581d0974' => [
-        'One of my primary objects is to form the tools so the tools themselves shall fashion the work and give to every part its just proportion.',
-        'Eli Whitney',
+    'd0342055-3d96-5680-9e02-b46ef22893a9' => [
+        'Everything that has existed, lingers in the Eternity.',
+        'Agatha Christie',
     ],
-    '73173316-ce56-5d38-9703-4dfa062b433b' => [
-        'What if you threw a protest and no one showed up? The lack of angst and anger and emotion is a big positive.',
-        'Jay Alan Sekulow',
+    '3903cb55-0856-59a4-af99-bf4c7f3046cb' => [
+        'There\'s no damn business like show business - you have to smile to keep from throwing up.',
+        'Billie Holiday',
     ],
-    '9badd8a0-8480-5d07-bfca-7098458badae' => [
-        'I love being immersed in nature, going to places in the world that are pristine and untouched by man. It\'s almost a religious experience when you go to a place like the Amazon, and there\'s no civilisation for thousands of miles.',
-        'Leonardo DiCaprio',
+    '73344e12-df87-5cd3-bd9b-7018040bbe90' => [
+        'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.',
+        'Marcus Aurelius',
     ],
-    'ce9dd47c-7b4b-5f59-aede-067d214cc8d2' => [
-        'In nature we never see anything isolated, but everything in connection with something else which is before it, beside it, under it and over it.',
-        'Johann Wolfgang von Goethe',
+    '18dabcd8-a139-5618-8488-c01dadc7b849' => [
+        'I love to swim. When I jump in the water, I feel like I\'m 12 years old again. It\'s really funny how it does that to me.',
+        'Summer Sanders',
     ],
-    '081f801b-9bf4-5d19-bd29-80a4fcf28aa4' => [
-        'That attitude does not exist so much today, but in those days there was a very sharp distinction between basic physics and applied physics. Columbia did not deal with applied physics.',
-        'Gordon Gould',
+    'bb3ba6b9-65a9-5cb2-bce3-942b6621182b' => [
+        'The Lord gets his best soldiers out of the highlands of affliction.',
+        'Charles Spurgeon',
     ],
-    'ee62a0a6-0dce-5300-b8d0-7f60918f653e' => [
-        'Go for it now. The future is promised to no one.',
-        'Wayne Dyer',
+    '05c572f2-2a1d-52c5-97d9-08fe2e8f2c11' => [
+        'Each time we face a fear, we gain strength, courage, and confidence in the doing.',
+        'Unknown',
     ],
-    'adbfea23-88ea-5e79-a7d1-88116ecb4ea6' => [
-        'The boundaries which divide Life from Death are at best shadowy and vague. Who shall say where the one ends, and where the other begins?',
-        'A. P. J. Abdul Kalam',
+    '30992d56-9208-51b0-8241-8a26e08ab0c8' => [
+        'Well-timed silence is the most commanding expression.',
+        'Mark Helprin',
     ],
-    '65167acb-cac3-5bf0-b0f0-de8dc4489e1b' => [
-        'Common sense is the collection of prejudices acquired by age eighteen.',
-        'Albert Einstein',
+    'ecf918af-777f-5947-9455-8e8386fd84a8' => [
+        'I\'ve learned in my life that it\'s important to be able to step outside your comfort zone and be challenged with something you\'re not familiar or accustomed to. That challenge will allow you to see what you can do.',
+        'Henry James',
     ],
-    '9ecc59b6-7667-5882-b4cd-a7c59c829f7e' => [
-        'I won\'t say there aren\'t any Harvard graduates who have never asserted a superior attitude. But they have done so to our great embarrassment and in no way represent the Harvard I know.',
-        'Derek Bok',
+    'da1d3549-9093-5073-a0b5-06dadb062ab9' => [
+        'Skill to do comes of doing.',
+        'Ralph Emerson',
     ],
-    'a9925656-9a48-5be3-9c8f-c0880be04662' => [
-        'If you embrace \'positive thinking,\' you are - by definition - spurning \'negative thinking.\' So it\'s as if you were on a teeter-totter and are trying desperately to put all your weight on one side - the \'positive thinking\' side.',
-        'Srikumar Rao',
+    'ab7d2176-a231-5fb8-bfcf-a24b856b6017' => [
+        'Women are, in my view, natural peacemakers. As givers and nurturers of life, through their focus on human relationships and their engagement with the demanding work of raising children and protecting family life, they develop a deep sense of empathy that cuts through to underlying human realities.',
+        'Daisaku Ikeda',
     ],
-    'd5323d7f-ece2-515a-af06-797a5b17121e' => [
-        'Today it is time for every child to have a right to life, right to freedom, right to health, right to education, safety, the right to dignity, right to equality, and right to peace.',
-        'Kailash Satyarthi',
+    '51927ffb-286a-50af-8d25-2d15b0cd180f' => [
+        'Happiness is the natural flower of duty.',
+        'Phillips Brooks',
     ],
-    '47c21b2d-afd0-588f-8b69-616379f79686' => [
-        'Success is steady progress toward one\'s personal goals.',
-        'Jim Rohn',
+    '41c22426-ce50-5bce-921c-c28260634a65' => [
+        'My optimism wears heavy boots and is loud.',
+        'Henry Rollins',
     ],
-    'f6e843f3-f5ae-5a19-bcaa-28d26a3822c8' => [
-        'Furloughing a bunch of air traffic controllers has a pretty easy-to-predict effect on air travel: It causes delays.',
-        'Alex Pareene',
+    '335f3928-6390-5dc9-84dd-3e6148288d83' => [
+        'How one handles success or failure is determined by their early childhood.',
+        'Harold Ramis',
     ],
-    '4312cad7-7f75-5e1e-b1ea-66ba6b153c74' => [
-        'My mother has had breast cancer twice. And my mother has always been this very positive human being: a glass-half-full type. Like, when she was in treatment and feeling really bad, she would always talk about some nurse that was particularly nice to her.',
-        'Susanne Bier',
+    'b4fd7d3c-17e7-5c6f-be07-f996f5881147' => [
+        'A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.',
+        'Henry David Thoreau',
     ],
-    'fbc256e0-8431-5ccd-8b1d-908a736c3dcc' => [
-        'Nothing good comes in life or athletics unless a lot of hard work has preceded the effort. Only temporary success is achieved by taking short cuts.',
-        'Roger Staubach',
+    'e9a727ac-463d-517a-a358-80664e0ba832' => [
+        'We rise by lifting others.',
+        'Robert G. Ingersoll',
     ],
-    '6c94bafc-2b0d-5b02-b256-c7581dbc3e04' => [
-        'I don\'t take any photographs. I travel a lot by myself, and I feel weird taking photos on my own.',
-        'Jamie Bell',
+    '5e494f31-a27c-506f-bc96-fa2d6787eefb' => [
+        "You don\u{92}t have to explain your dreams, they belong to you.",
+        'Paulo Coelho',
     ],
-    '26e4f150-7831-5d7e-8ca9-3dc76d7d7830' => [
-        'Husbands, recognize your wife\'s intelligence and her ability to counsel with you as a real partner regarding family plans, family activities, and family budgeting. Don\'t be stingy with your time or with your means. Give her the opportunity to grow intellectually, emotionally, and socially as well as spiritually.',
-        'Ezra Taft Benson',
+    '0cb4666c-0228-5567-9ddb-2c0b5d2f1b59' => [
+        'I love to see people laugh and put a smile on peoples\' faces. Anytime I\'m doing that I\'m happy.',
+        'Dexter Darden',
     ],
-    '3b9efa2f-5b13-59c8-bc7b-acdc5c245002' => [
-        'In Reykjavik, Iceland, where I was born, you are in the middle of nature surrounded by mountains and ocean. But you are still in a capital in Europe. So I have never understood why I have to choose between nature or urban.',
-        'Bjork',
+    'ec7b8175-31b1-5bd1-9cc5-230e291b2d7b' => [
+        'It\'s not what happens to you, but how you react to it that matters.',
+        'Epictetus',
     ],
-    '79082694-cda4-5ada-80af-482f510f045e' => [
-        'Attitude is attitude, whether you\'re a West Coast gangster or East Coast gangster, you know?',
-        'Paul Walker',
+    'e8fa92b6-b925-56f0-a77d-2da7f5b9f575' => [
+        'Fear of failure is one attitude that will keep you at the same point in your life.',
+        'Byron Pulsifer',
     ],
-    '7b78e1fe-f0ae-52a6-9626-d5d2867b51ac' => [
-        'I\'d rather attempt to do something great and fail, than to attempt nothing and succeed.',
-        'Robert H. Schuller',
+    'df990c31-ea32-5ef8-ba19-dc48efda285f' => [
+        'A film set becomes its own family anyway, and all family dynamics come out during a shoot. The trick is hiring people who know how to handle that.',
+        'Noah Baumbach',
     ],
-    'f058e410-2306-580f-ab96-c9f0bbfdc612' => [
-        'When I learned to sign and speak at the same time, the whole world opened up to me. That\'s the beauty of encouraging kids who are deaf to use whatever it takes to communicate.',
-        'Marlee Matlin',
+    '5ca8164b-392d-5f01-b5b2-34ea9239ac3b' => [
+        'Peace comes from within. Do not seek it without.',
+        'Buddha',
     ],
-    'a9673fd6-7307-5f2a-8497-94bd8bb761e3' => [
-        'There is only one happiness in life, to love and be loved.',
-        'George Sand',
+    'bef7b6d4-dfc8-5fab-a51f-2ad99bdeb6ac' => [
+        'Unfortunately, I\'m more experienced than I care to admit on long-distance relationships. Just because that is my life. I travel because I love to. As a result, I have to sort of make it work when a relationship kind of comes into view.',
+        'Hunter Hayes',
     ],
-    '8132aae3-df52-5ecd-9b8a-eab365776d30' => [
-        'As a Korean War Veteran, I know too well the troubling nature of war. This is why I will always support a diplomatic answer before military intervention.',
-        'Charles B. Rangel',
+    'a7d48505-9f27-5b4b-9d2d-29fca115e6f6' => [
+        'I hate going to L.A. and dealing with the contempt people have for television and television actors. It\'s unbelievable the kind of attitude people take toward what is the most exciting medium we\'ve got right now.',
+        'Michael Moriarty',
+    ],
+    '3702063b-a8f1-52e6-b2a9-4171cecb49d0' => [
+        'As far as I\'m concerned, \'whom\' is a word that was invented to make everyone sound like a butler.',
+        'Calvin Trillin',
+    ],
+    'bcc74b2b-5fb0-5cec-b511-3781a247bfbe' => [
+        'I played the violin my whole life. I wanted to play from the time I was just a little kid, and I\'ve always loved dance as well. I wanted to make people smile. I wanted to add an extra energy to my playing and make it visual and make it unique and fun.',
+        'Lindsey Stirling',
+    ],
+    '3b4ea0a8-a8b6-50bd-9783-ad9a0a46efbd' => [
+        'If you believe that your best years are behind you, you\'ve guaranteed they are; I\'m going to dance into that good night, with the oldies turned up loud.',
+        'Gina Barreca',
+    ],
+    'ada78c6b-4b84-505d-9645-23b30ec235bf' => [
+        'I feel French is very close to Urdu. Both languages are beautiful. Sadly, their beauty is lost in translation.',
+        'Amisha Patel',
+    ],
+    '41648ebf-70dc-5da5-a915-376cc7d5c69f' => [
+        'When the media defines something, you have to question: Is it the definition that you want applied to your culture? I\'m trying to determine who\'s leaving the legacy, and if the legacy that is being left is a positive one.',
+        'Tim Reid',
+    ],
+    '18fdaa92-dbec-5b91-8144-454a695b33d0' => [
+        'By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.',
+        'Lao Tzu',
     ],
 ];

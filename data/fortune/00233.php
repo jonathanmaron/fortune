@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '547eb039-b1c9-54b1-bba1-148574474dda' => [
-        'Italian men do appreciate beautiful women. They\'re not afraid of the beauty, which is nice.',
-        'Eva Herzigova',
+    '483f9ed4-7f22-512d-9264-db3a934fed4a' => [
+        'The rainbow is a part of nature, and you have to be in the right place to see it. It\'s beautiful, all of the colors, even the colors you can\'t see. That really fit us as a people because we are all of the colors. Our sexuality is all of the colors. We are all the genders, races, and ages.',
+        'Gilbert Baker',
     ],
-    'e281d205-5e26-5093-80f3-7dcb01d27d73' => [
-        'People who cannot find time for recreation are obliged sooner or later to find time for illness.',
-        'John Wanamaker',
+    '945ed9d9-a208-5750-b4ab-5bf84071ef9b' => [
+        'Good things happen to those who hustle.',
+        'Anais Nin',
     ],
-    '80ed79c6-cf9b-5559-aa01-627d96da64e8' => [
-        'I want my children to have all the things I couldn\'t afford. Then I want to move in with them.',
-        'Phyllis Diller',
+    'b42cddac-97f7-5f34-bc81-9bd53fafbb43' => [
+        'Life comes from the earth and life returns to the earth.',
+        'Gavin Rossdale',
     ],
-    '389934f4-e579-5202-82da-cd601a89dc9a' => [
-        'The beautiful part of writing is that you don\'t have to get it right the first time, unlike, say, a brain surgeon. You can always do it better, find the exact word, the apt phrase, the leaping simile.',
-        'Robert Cormier',
+    'e065313a-a199-519d-ad50-dd75f47b9325' => [
+        'Now we have black and white elected officials working together. Today, we have gone beyond just passing laws. Now we have to create a sense that we are one community, one family. Really, we are the American family.',
+        'John Lewis',
     ],
-    'e21e3731-f4f5-5280-b439-6f67ae305154' => [
-        'Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.',
-        'Buddha',
-    ],
-    '79151b9f-a336-5d7d-98b9-8a4a90bcbbd9' => [
-        'I am confident that nobody... will accuse me of selfishness if I ask to spend time, while I am still in good health, with my family, my friends and also with myself.',
-        'Nelson Mandela',
-    ],
-    '6e0903c2-1ef2-5224-ba42-21af65aa6536' => [
-        'Of all the things I\'ve done, the most vital is coordinating those who work with me and aiming their efforts at a certain goal.',
-        'Walt Disney',
-    ],
-    'e5504638-a6b1-5ccd-be4b-e24be4049a05' => [
-        'I love everybody. One of the great things about me is that I have a very positive attitude.',
-        'Imelda Marcos',
-    ],
-    '0553f533-cba7-57f5-a20b-1ef0198a5899' => [
-        'Failure doesn\'t mean you are a failure it just means you haven\'t succeeded yet.',
-        'Robert Schuller',
-    ],
-    '22866091-2093-5bb7-b0df-6fa28dccd65e' => [
-        'Beauty is not in the face; beauty is a light in the heart.',
-        'Kahlil Gibran',
-    ],
-    'f706e671-a1e9-506b-9fb1-333f9214fbd4' => [
-        'I\'ve been searching for ways to heal myself, and I\'ve found that kindness is the best way.',
-        'Lady Gaga',
-    ],
-    '963f7de1-6258-5a02-ac59-bd8d8f23769e' => [
-        'Art is the child of Nature; yes, her darling child, in whom we trace the features of the mother\'s face, her aspect and her attitude.',
-        'Beck',
-    ],
-    '705ddcdc-6017-5bc6-be5f-49bb0b1164d4' => [
-        'I\'ve never liked my smile, you see. I should have had braces as a kid, but I was too proud and too vain. And I didn\'t want to be bullied at school.',
-        'Ricky Whittle',
-    ],
-    '6a367caa-6729-5b8c-859a-b21b07eab9c0' => [
-        'We are supposed to enjoy the good stuff now, while we can, with the people we love. Life has a funny way of teaching us that lesson over and over again.',
-        'Henri Nouwen',
-    ],
-    'bd2f818f-9561-5739-a50f-f6539530fbef' => [
-        'What separates the winners from the losers is how a person reacts to each new twist of fate.',
-        'Donald Trump',
-    ],
-    'bd1da6c3-6af7-5bd9-aa28-eda51d83bb02' => [
-        'I think we all suffer from guilt at some point in our lives, but for the most part I never really regret, and I try to always remain positive. Yes, I think that those issues are very interesting to play in a character, and they\'re prominent issues in life, and I think people can relate to them.',
-        'Channing Tatum',
-    ],
-    'a9016b46-423e-5b86-9514-a978cd0059c9' => [
-        'If you can capture the humanity of a family struggling in an economic crisis you can make a difference. You can raise awareness just of the simple humanity.',
-        'Emily Blunt',
-    ],
-    '82df503f-7c3e-5dd1-aee6-e48fad076f1c' => [
-        'I just want to make people smile.',
-        'Julie Garwood',
-    ],
-    '6aa31efb-1ab7-534d-8c9e-558da4a16063' => [
-        'Oscar Wilde always makes me smile - with respect and admiration. His short stories prove that it is possible to be both sarcastic, even cynical, but deeply compassionate. Just seeing the cover of one of Wilde\'s books in a bookshop makes me smile.',
-        'Orhan Pamuk',
-    ],
-    'd60d8e01-b35a-570d-a8d0-81a443f33f69' => [
-        'Not only does travel give us a new system of reckoning, it also brings to the fore unknown aspects of our own self. Our consciousness being broadened and enriched, we shall judge ourselves more correctly.',
-        'Ella Maillart',
-    ],
-    'e08c6eb9-b33c-5241-85b3-c9a623437a70' => [
-        'I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.',
-        'Michel de Montaigne',
-    ],
-    '5140cb7d-d9e1-589b-b948-bce88b35a11c' => [
-        'Work hard, stay positive, and get up early. It\'s the best part of the day.',
-        'George Allen, Sr.',
-    ],
-    '1d325d04-c9f7-5816-984e-3aa18f1ab6f7' => [
-        'It has never been my object to record my dreams, just to realize them.',
-        'Man Ray',
-    ],
-    'a062302c-c7dc-52b6-9458-7a6e67e3aac5' => [
-        'Give thanks for the rain of life that propels us to reach new horizons.',
-        'Byron Pulsifer',
-    ],
-    'b87f7c6a-ed5f-5dca-b537-acb4b1eb4c69' => [
-        'The deviation of man from the state in which he was originally placed by nature seems to have proved to him a prolific source of diseases.',
-        'Edward Jenner',
-    ],
-    '1979981c-23ef-5d21-aee3-4c3b6f99715b' => [
-        'It is true that the aristocracies seem to have abused their monopoly of legal knowledge; and at all events their exclusive possession of the law was a formidable impediment to the success of those popular movements which began to be universal in the western world.',
-        'Henry James Sumner Maine',
-    ],
-    '0feffa18-4bc9-5582-bc3b-c66fe69839db' => [
-        'In family relationships, \'love\' is really spelled \'t-i-m-e,\' time. Taking time for each other is the key for harmony at home.',
-        'Dieter F. Uchtdorf',
-    ],
-    '1bd3380a-a942-507f-9ceb-df0d62b37dc5' => [
-        'Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers.',
-        'Jose Luis Borges',
-    ],
-    '4c28471b-8f5b-5c8c-ac83-c6f3050259a0' => [
-        'Fortune always favors the brave, and never helps a man who does not help himself.',
-        'P.T. Barnum',
-    ],
-    '00cf5661-d96d-5523-b5b4-41f63e089b7e' => [
-        'I think it\'s really important that I\'m not the only model in the world that goes through personal problems. People forget that we\'re human. We don\'t get to call in sick. You have to go and put on a smile. Every single day is a first impression, so you can\'t have a bummed-out day.',
-        'Gigi Hadid',
-    ],
-    'f3b7e146-c5ed-5aca-9893-875a1ad40938' => [
-        'I am trying to inspire people to just take control of their oral health, because if we don\'t take care of our oral health, it affects so many different aspects of our lives. If your smile and mouth is not together, it affects your relationship, your self-esteem, your health.',
-        'Sherri Shepherd',
-    ],
-    '6d215f54-4e5a-57f5-8ff4-14860f33eaab' => [
-        'For an actress to be a success, she must have the face of a Venus, the brains of a Minerva, the grace of Terpsichore, the memory of a MaCaulay, the figure of Juno, and the hide of a rhinoceros.',
-        'Ethel Barrymore',
-    ],
-    'dc695399-1c27-5d17-9ee6-80bef4ffaa35' => [
-        'Only I can change my life. No one can do it for me.',
+    '68748ebb-b856-53de-975d-0a2c8ece3582' => [
+        'Everybody I know who is funny, it\'s in them. You can teach timing, or some people are able to tell a joke, though I don\'t like to tell jokes. But I think you have to be born with a sense of humor and a sense of timing.',
         'Carol Burnett',
     ],
-    'aa1aff3a-4c92-51bc-8d55-1dd24dfe009c' => [
-        'I believe that any type of education can be great, but an education about ourselves can create something wonderful. I am a comedian, but people have called me a motivational speaker. I don\'t really consider myself that at all.',
-        'Andy Andrews',
+    'a14d74a5-e812-5352-9284-54e5d609461a' => [
+        'People might not get all they work for in this world, but they must certainly work for all they get.',
+        'Frederick Douglass',
     ],
-    'c9eeae57-9a0d-5d00-98f4-3c16d2ea2b32' => [
-        'Good management consists in showing average people how to do the work of superior people.',
-        'John D. Rockefeller',
+    '04c5e795-e8eb-555f-81e4-eb6edb47e4a1' => [
+        'From my perspective, probably women are won over by people who are sweet and respectful and courteous and kind and funny. I think those are the things that win women over.',
+        'Zooey Deschanel',
     ],
-    '827d52b5-4a2d-50f1-a6a3-966985a73d42' => [
-        'Los Angeles is a true postmodern city. Here, we celebrate with equal aplomb the high and the low. I am just as influenced by the punk rock attitude of local skate and surf cultures as I am by old-school glamour and stardust.',
-        'Liz Goldwyn',
+    'b573e4c0-73df-5914-bf20-923b3eb93cd8' => [
+        'The actions of men are the best interpreters of their thoughts.',
+        'James Joyce',
     ],
-    '8491342e-d88e-542b-ae61-10f033531d53' => [
-        'The art of effective listening is essential to clear communication, and clear communication is necessary to management success.',
-        'James Cash Penney',
+    '7381e0b4-7a58-5818-858b-f8aa37fec7c8' => [
+        'My great hope is to laugh as much as I cry; to get my work done and try to love somebody and have the courage to accept the love in return.',
+        'Maya Angelou',
     ],
-    'fc133b2d-ca80-5a60-a634-ac3e0fdc6f63' => [
-        'I want to go ahead of Father Time with a scythe of my own.',
-        'H. G. Wells',
+    '267460dd-7e53-5653-9701-259bafc4b195' => [
+        'Just like gold, which has to weather very high temperatures to achieve the sheen and shine it finally gets, so also every person has to go through struggles in his life to achieve success.',
+        'Kailash Kher',
     ],
-    'f6f214fa-a579-5ac9-9051-5037e29f9c45' => [
-        'I am easily satisfied with the very best.',
-        'Winston Churchill',
+    '5bbb96c7-5a66-5276-8b0f-07d36de1ada6' => [
+        'What I look for in a role is the physical. But what\'s the journey emotionally? Can I take this person who is this archetypal tough guy and find the beauty?',
+        'Frank Grillo',
     ],
-    'bb93b6a9-cad7-59ce-8c99-0591f4e7d2d4' => [
-        'It\'s funny, because in 1970 I met the Beatles quite by a chance at a party. It was the Beethoven bicentenary, and I was then also playing the Beethoven Sonatas. And that\'s all they wanted to hear about - I wanted to talk about them, and all they wanted to talk about was Beethoven.',
-        'Daniel Barenboim',
+    '73c2f402-cc8a-50e5-be57-ab06f9ea4868' => [
+        'Go hard or go home',
+        'Phil Heath',
     ],
-    '07905821-5094-5cea-8c25-ded2745c2c73' => [
-        'We know the truth, not only by the reason, but by the heart.',
-        'Blaise Pascal',
+    'a1bff9b0-7174-56d1-9629-0b77fbd68ae9' => [
+        'I think the biggest challenge is to continue on the same path. I think it\'s easy to become complacent from the success you\'ve had.',
+        'Jason Derulo',
     ],
-    '31ac8c1e-9eb7-5a03-b88f-c90e5b355d4e' => [
-        'Life moves so fast. You gotta document the good times, man.',
-        'Nas',
+    '71f27070-0753-5596-b6c0-85cc9ea9b908' => [
+        'He who angers you conquers you.',
+        'Elizabeth Kenny',
     ],
-    'aec44d74-751c-5de8-8ce8-88c91484c036' => [
-        'Kids are meant to believe that their stepping stone to massive money is \'The X Factor.\' Luck is great, but most of life is hard work. We do not celebrate people who have made success out of serious hard work.',
-        'Iain Duncan Smith',
+    'edf24e81-5ab2-583d-8c57-9e06edb8a122' => [
+        'I was fortunate to play for Pete Rose and have teammates like Ken Griffey Sr., Tony Perez and Dave Concepcion. I grew up in the game with a mature attitude. I\'ve always known it was better to be seen and not heard.',
+        'Eric Davis',
     ],
-    'b2c3bf97-630c-5f7b-8122-6035debb2007' => [
-        'To be successful you have to be lucky, or a little mad, or very talented, or find yourself in a rapid growth field.',
-        'Edward de Bono',
+    'f701f3ba-1fda-5a94-a4a4-22628bcb4f12' => [
+        'Only the educated are free.',
+        'Epictetus',
     ],
-    '217fbeb9-7edc-5e09-97f4-7585fde86d35' => [
-        'The view of Earth is spectacular.',
-        'Sally Ride',
+    '434477c7-992f-51e0-bcbe-b241756d123c' => [
+        'I literally wear a mask. When I take it off, I\'m a father. I\'m a husband. I like to come home, and I like to spend time with family, and I like to travel, and I like to have a good time. And I like to be a kid every now and giggle and play with my kids.',
+        'Rey Mysterio',
     ],
-    '0b648744-9541-5271-a94f-6723f273c917' => [
-        'Just don\'t give up trying to do what you really want to do. Where there is love and inspiration, I don\'t think you can go wrong.',
-        'Ella Fitzgerald',
+    '8c51c938-ea85-5b39-89d2-773afd0876d4' => [
+        'That brain of mine is something more than merely mortal, as time will show.',
+        'Ada Lovelace',
     ],
-    'a49ae0f2-9331-51c3-95f5-f47daa094be8' => [
-        'Politics - I still think it\'s a bunch of liars and a bunch of self-interest. It\'s not about the people: it\'s about themselves and their rise to power. They are voting on things based on whether they will have the support of the people when they vote next time. They don\'t have the balls to say, \'I believe in this. I don\'t care what happens.\'',
-        'Jay-Z',
+    '64f465c3-4667-5c94-aab3-f27884e918ea' => [
+        'It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.',
+        'Lama Yeshe',
     ],
-    '899f5837-4820-545c-a182-d4f94a6d2562' => [
-        'The single most important key to success is to be a good listener.',
-        'Kelly Wearstler',
+    '181eac97-9198-5a03-81fc-4859e71c1ea6' => [
+        'Enjoy failure and learn from it. You can never learn from success.',
+        'James Dyson',
     ],
-    '105c464f-c1b1-5985-9718-87df6cda2a43' => [
-        'Getting an audience is hard. Sustaining an audience is hard. It demands a consistency of thought, of purpose, and of action over a long period of time.',
-        'Bruce Springsteen',
+    '3ab280dd-e50d-5e9b-a699-b3c5939dfb02' => [
+        'There is nothing so stable as change.',
+        'Bob Dylan',
     ],
-    'e9ec8600-5445-50ff-8c92-1e953492e7d9' => [
-        'Parisian women have an inner elegance that\'s envied the world over. They are so relaxed about ageing and seem to acquire more charisma and beauty with time. Who wouldn\'t want to be like them? That\'s the trick - to embrace the natural progression of life and to be confident.',
-        'Naomi Watts',
+    '10c9dcf4-2639-5572-8391-55262f66b373' => [
+        'In the \'70s, in Britain, if you were going to do serious photography, you were obliged to work in black-and-white. Color was the palette of commercial photography and snapshot photography.',
+        'Martin Parr',
+    ],
+    '2d878dd8-bf56-54be-9cc1-f2d69f892106' => [
+        'Holding on to anger, resentment and hurt only gives you tense muscles, a headache and a sore jaw from clenching your teeth. Forgiveness gives you back the laughter and the lightness in your life.',
+        'Anthony Hopkins',
+    ],
+    'b54185c0-a7f3-5aa5-b57e-0f5c9e899b11' => [
+        'Time management is the mantra of my life.',
+        'Vir Das',
+    ],
+    '55560d7a-6be6-5933-bf2b-b759ee00743f' => [
+        'She was a handsome woman of forty-five and would remain so for many years.',
+        'J. B. Priestley',
+    ],
+    '5ad2d237-8c01-5873-b5b7-0d1e3f1d5131' => [
+        'The beauty one can find in art is one of the pitifully few real and lasting products of human endeavor.',
+        'J. Paul Getty',
+    ],
+    '3b6c7d60-1111-5dbc-93fa-66e2aa3d7bf6' => [
+        'The sky is the part of creation in which nature has done for the sake of pleasing man.',
+        'John Ruskin',
+    ],
+    '8a435a36-109b-5e3b-b13d-11abfc4c8b8b' => [
+        'I am so saddened and grossed out by young women who look like creepy, old aliens because of their new Barbie noses and lips. Is that a smile or a grimace?',
+        'Olivia Wilde',
+    ],
+    '35b2efe7-0f2d-5745-8822-2eff1a4a607a' => [
+        'My ultimate goal is to end up being happy. Most of the time.',
+        'Taylor Swift',
+    ],
+    '02344edf-efc6-5a7c-81fc-e4aa5a951cd7' => [
+        'For me, it was important Wonder Woman wouldn\'t be a Goody Two-Shoes. She has a little bit of attitude, and when she fights, she has a smirk on her face. I didn\'t want her to be polished. I want people to relate to her.',
+        'Gal Gadot',
+    ],
+    '5e58b704-75b3-5110-b91c-c37e5f65323e' => [
+        'In a gentle way, you can shake the world.',
+        'Mahatma Gandhi',
+    ],
+    'fc9d167d-26b3-531b-855d-dcbbbd720b67' => [
+        'Stay open-minded; stay focused. Train hard and train smart. For me, the older I get, the smarter I have to train also, because the recovery time is longer. Work on everything: become a well-rounded fighter - don\'t just be good at one thing; be good at everything.',
+        'Brock Lesnar',
+    ],
+    '61ee7f92-801d-5da9-a7ab-97a938d1525d' => [
+        'I write what I think is funny and I write from a sense of popping a balloon or a sense of injustice, whether it\'s about yourself, or whether it\'s about something else. It\'s my worldview; it doesn\'t mean that everybody has to agree with it.',
+        'Denis Leary',
+    ],
+    'a5e9d4be-ea83-5cc5-8636-f6e60c0cce48' => [
+        'If you have a secret, people will sit a little bit closer.',
+        'Rob Corddry',
+    ],
+    'aa31adf6-4a19-54f8-946e-c7377fb462dd' => [
+        'I really struggle with that feeling of helplessness. That\'s why I really try to get my blogs, and even myself, to point to the positive and look at all the inspiring things that are happening.',
+        'Daryl Hannah',
+    ],
+    '6710947e-875a-58c9-bf47-9026884aa2fd' => [
+        'Look back, and smile on perils past.',
+        'Walter Scott',
+    ],
+    '4037981b-5c3e-5b5a-ad8a-066cbf0b936c' => [
+        'There is no traffic jam along the extra mile.',
+        'Roger Staubach',
+    ],
+    '2cd1d234-1e71-59ec-9ac1-a64b102e139e' => [
+        'I follow the most random people on Twitter. I follow famous people like Khloe Kardashian, who surprisingly makes really funny tweets all the time.',
+        'Chloe Grace Moretz',
+    ],
+    '058cab39-b1fb-565e-9d83-16e3f18d0089' => [
+        'Visualize this thing that you want, see it, feel it, believe in it. Make your mental blue print, and begin to build.',
+        'R Collier',
+    ],
+    '0f9657be-73ca-5523-9204-06c59d51f22a' => [
+        'If we look at the world with a love of life, the world will reveal its beauty to us.',
+        'Daisaku Ikeda',
+    ],
+    '29d88f64-78fc-5185-a133-68dd4504ac74' => [
+        'Oh, if I could but live another century and see the fruition of all the work for women! There is so much yet to be done.',
+        'Susan B. Anthony',
+    ],
+    '1b521fe0-3390-5ed1-b258-07b5c470a563' => [
+        'Sharks are among the most perfectly constructed creatures in nature. Some forms have survived for two hundred million years.',
+        'Eugenie Clark',
+    ],
+    '6e049b90-2f09-5239-bfe6-051170f28604' => [
+        'Be faithful in small things because it is in them that your strength lies.',
+        'Mother Teresa',
+    ],
+    'eed3fc54-324b-5ce8-9ac2-743bb8bdc57f' => [
+        'I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.',
+        'Albert Einstein',
+    ],
+    '5e659636-2145-553f-8cc7-5e49d7990a49' => [
+        'I try to be as positive as I can because I truly believe I am my feelings, and if I\'m sad, if I have regrets, they will show up as illnesses, they will show up as cancers... I don\'t want that.',
+        'Marie Helvin',
+    ],
+    'd9b3b065-f92e-5771-80ad-73c47a32eb6b' => [
+        'My husband has some very interesting hobbies, and through him, I\'ve learned to fly and earned my pilot\'s license. Together, we fly all over the United States. Since our children are all grown now, we also travel a great deal in Europe, but we take commercial flights because our plane is not really equipped to make transatlantic flights.',
+        'Betsy Byars',
+    ],
+    '22da49c5-8991-503d-89ac-fd3440bd9d35' => [
+        'Life isn\'t always fair. Some people are born into better environments. Some people have better genetics. Some are in the right place at the right time. If you\'re trying to change your life, all of this is irrelevant. All that matters is that you accept where you are, figure out where you want to be, and then do what you can, today and every day, to hold your head high and keep moving forward.',
+        'Lori Deschene',
+    ],
+    '7158a292-2dad-5edd-8b75-2e2c259b6363' => [
+        'If you aren\'t going all the way, why go at all?',
+        'Joe Namath',
+    ],
+    '3dfb6093-111f-5b10-b142-b52d1c75fa9d' => [
+        'And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.',
+        'Elizabeth Appell',
+    ],
+    '0fdbc8d1-3736-5934-8dda-f30bbb8a8a43' => [
+        'I enjoy being happy every day, and hopefully you can hear my happiness in my music. Life is beautiful.',
+        'Queen Rania of Jordan',
     ],
 ];

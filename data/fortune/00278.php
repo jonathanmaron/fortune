@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '71d7d9fc-1e63-51ca-b210-4fc63e3074da' => [
-        'Imagination is the living power and prime agent of all human perception.',
-        'Samuel Taylor Coleridge',
+    '208086a4-70e1-5bb1-beab-8e6a7e32d53b' => [
+        'The most successful people are those who are good at plan B.',
+        'James Yorke',
     ],
-    '50335efe-eb37-5812-9797-58c0d07e88e2' => [
-        'Man is fully responsible for his nature and his choices.',
-        'Jean-Paul Sartre',
+    '8d82e6dc-12de-5a64-8519-3029629eeb9a' => [
+        'I love all the holidays and getting to see my family a lot during the fall. I also love the weather and getting to wear sweaters and jackets.',
+        'Melissa Ordway',
     ],
-    'fc4f3b5b-6960-5337-85d0-94f13769fe7b' => [
-        'Our uniqueness, our individuality, and our life experience molds us into fascinating beings. I hope we can embrace that. I pray we may all challenge ourselves to delve into the deepest resources of our hearts to cultivate an atmosphere of understanding, acceptance, tolerance, and compassion. We are all in this life together.',
-        'Matthew Henry',
+    '6d4e0f5b-4985-5caf-b13b-eb7fa371715f' => [
+        'I started doing motivational tours. I\'ve seen all kinds of people, from the CEOs to the lowest executive, opening up to their fears. We don\'t introspect as much as we should.',
+        'Anupam Kher',
     ],
-    '77e3bf48-3b4d-5ddc-a391-7bec20d25890' => [
-        'The attitude of the Democrat Party is that wherever there are Republicans they are so bad, they are so discriminatory, they are so racist, they\'re so bigoted, they\'re just such reprobates that we can\'t afford to let them have any say whatsoever in what\'s happening.',
-        'Rush Limbaugh',
+    '3ce94924-261d-5468-9a50-aa8b10704119' => [
+        'Growing up, I was a huge fan of horror movies. There\'s nothing more fun than going into a movie with a smile because you know you\'re going to be scared to death. There\'s something thrilling about sitting there waiting for a scare to happen.',
+        'Ashley Bell',
     ],
-    '11ddc251-543d-59c5-8248-1239f95fa0bd' => [
-        'Happiness is found in doing, not merely possessing.',
-        'Napoleon Hill',
+    '00578bd7-82a8-5565-9227-31ee8e304ae9' => [
+        'There is always some kid who may be seeing me for the first time. I owe him my best.',
+        'Joe DiMaggio',
     ],
-    'b025b19e-2df7-53e4-be51-6619dd1d09fc' => [
-        'She\'s the kind of girl who climbed the ladder of success wrong by wrong.',
-        'Mae West',
+    'ee53dd2e-a262-53af-819e-d13cca267f46' => [
+        'Funny is a good foil. Humor is illuminating, and it also gives you power.',
+        'J. Tillman',
     ],
-    '0896bcd3-da7f-50c4-a1f0-36c7e130e510' => [
-        'The \'Billionaire\' song is what my kids tease me with. They sing it to me. It\'s funny.',
-        'Bill Gates',
+    '204bba8c-ff72-56bd-9a2d-802aee495949' => [
+        'I think it is a combination of looks, aura, success, the energies that one gives out, the person you are and the person you feel like that makes you \'desirable.\' When the outside world sees you as a man who is responsible for himself and his family, as a man who is fit and sensitive, it kind of ups your desirability.',
+        'Arjun Rampal',
     ],
-    'e9448ce1-7f8b-563d-a151-da5f00e2247d' => [
-        'Work hard! In the end, passion and hard work beats out natural talent.',
-        'Pete Docter',
+    'b40b092e-219a-5f91-be78-583629289704' => [
+        'I suppose whenever you go through periods of transition, or in a way, it\'s a very definite closing of a certain chapter of your life - I suppose those times are always going to be both very upsetting and also very exciting by the very nature because things are changing and you don\'t know what\'s going to happen.',
+        'Daniel Radcliffe',
     ],
-    '976aa73b-c86d-591c-9ad1-8050f5e8bfad' => [
-        'What is required as we travel towards full unemployment is not new legislation but a gradual change of mental attitude, a shift in values. As our taste for idling grows, we will refuse to work for old-fashioned bosses who demand a five-day, 40-hour, nine-to-five type week, or worse.',
-        'Tom Hodgkinson',
+    '2d29e7b2-17c3-5449-9621-f955d4d61658' => [
+        'Gotta stay in the gym, stay funny, stay sharp. I just love working.',
+        'Marlon Wayans',
     ],
-    'a6b5353c-8726-59c1-9df0-911525114803' => [
-        'A true friend is one who overlooks your failures and tolerates your success!',
-        'Doug Larson',
+    '96a06214-f215-533a-8922-8481adb5f707' => [
+        'America, you\'re sending girls a mixed message. On one hand, you\'re saying to have positive body image and love who we are; on the other, we\'re being marketed makeup and clothing that obviously turns us into someone different.',
+        'Adora Svitak',
     ],
-    'ca64d867-e259-5462-8190-cefd2a159e5e' => [
-        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
-        'Aldo Leopold',
+    'ba0ad2cd-ae5b-5e75-b4ee-be97ff10741a' => [
+        'Nothing is too wonderful to be true, if it be consistent with the laws of nature.',
+        'Michael Faraday',
     ],
-    'e2d1ad1d-a8c9-595a-9b38-d2aee479c064' => [
-        'The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.',
-        'Sylvia Earle',
+    '0589dc56-b06c-5160-a064-84cc2a924801' => [
+        'One of the best things about paintings is their silence - which prompts reflection and random reverie.',
+        'Mark Stevens',
     ],
-    '7955eac5-03c1-580c-9c8f-56969b8bba91' => [
-        'It\'s like Forrest Gump said, \'Life is like a box of chocolates.\' Your career is like a box of chocolates - you never know what you\'re going to get. But everything you get is going to teach you something along the way and make you the person you are today. That\'s the exciting part - it\'s an adventure in itself.',
-        'Nick Carter',
+    'a55c55c7-9580-54fb-888e-fdb64b827457' => [
+        'I looked up my family tree and found out I was the sap.',
+        'Rodney Dangerfield',
     ],
-    '0895a6c3-9ad0-534b-96a3-8762cc15ca58' => [
-        'I am living proof that the American dream still exists. It is still alive and well. There is only one trick, you have to be willing to roll up your sleeves and work very, very hard.',
-        'Paula Deen',
+    'ed468015-66c5-5cd4-9491-3d4ad641212c' => [
+        'Literature is dangerous: it awakens a rebellious attitude in us.',
+        'Mario Vargas Llosa',
     ],
-    'fcd66473-7a71-5a6d-b7c1-c3a6b49acbed' => [
-        'Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.',
-        'Blaise Pascal',
+    '5f4b11b5-aacd-5c11-8b64-8eee65217162' => [
+        'Sunlight is painting.',
+        'Nathaniel Hawthorne',
     ],
-    'a6aab1b5-0c89-589b-806a-08933fbf8c1c' => [
-        "There is only one happiness in life \u{2013} to love and to be loved.",
-        'George Sand',
+    '6b01401b-7fc2-5ef8-8802-91635bc075ad' => [
+        'It\'s always too early to quit.',
+        'Norman Vincent Peale',
     ],
-    '05910f06-80b6-5d58-b82d-9ca28f0f7736' => [
-        'Life is what we make it, always has been, always will be.',
-        'Sylvia Plath',
+    'c8d5932a-18b4-5a63-99b0-ac1540b4d174' => [
+        "A hard fall means a high bounce\u{2026}if you're made of the right material.",
+        'Unknown',
     ],
-    'b484a694-52aa-534e-b241-0a43c21fdf24' => [
-        'We take it for granted that we can see at all times of day and night. But there was a time, not all that long ago, in the age before electricity, when night brought total darkness - and with it, a not-so-small amount of terror. We get a sense of this when we go camping or when there\'s a power outage, and our fear of the darkness is primal.',
-        'Jake Halpern',
+    'd20a7ca4-0b8f-57fb-8d37-c77471dfe159' => [
+        'You are important enough to ask and you are blessed enough to receive back.',
+        'Wayne Dyer',
     ],
-    'c5ee23b6-8649-581b-8fed-693e526fe376' => [
-        'You are educated. Your certification is in your degree. You may think of it as the ticket to the good life. Let me ask you to think of an alternative. Think of it as your ticket to change the world.',
-        'Aaron Rodgers',
+    'f8d5ef87-8776-5f1a-80e8-7f7b582341d9' => [
+        'Don\'t smother each other. No one can grow in the shade.',
+        'Leo F. Buscaglia',
     ],
-    '005c9f27-7dba-5d75-b16e-cb487749ec8c' => [
-        'Youth is the spirit of adventure and awakening. It is a time of physical emerging when the body attains the vigor and good health that may ignore the caution of temperance. Youth is a period of timelessness when the horizons of age seem too distant to be noticed.',
-        'Ezra Taft Benson',
+    '923a8830-7145-5a31-98da-389ac3a567c1' => [
+        'Never let lack of money interfere with having fun.',
+        'Unknown',
     ],
-    '2d78e9a2-5d0b-54e8-b736-f07c9815a36c' => [
-        'Where there is love there is life.',
-        'Jerry Lewis',
+    'a22e7ab1-9d80-5ffe-829f-e33be6a2b9c3' => [
+        'I love the way Tyra Banks dresses up - she looks so elegant and glamorous in whatever she wears. The confidence and attitude she exudes on and off the ramp is remarkable.',
+        'Yami Gautam',
     ],
-    'b1747f48-5438-54fb-bb42-46a01a713d60' => [
-        'In order to attain the impossible, one must attempt the absurd.',
-        'Miguel de Cervantes',
+    '545a513a-bf8c-5b89-8460-c96bf93bc763' => [
+        'Time travel used to be thought of as just science fiction, but Einstein\'s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.',
+        'Stephen Hawking',
     ],
-    'ca96da66-5324-52a2-ac12-16232c58d51b' => [
-        'Forward, as occasion offers. Never look round to see whether any shall note it... Be satisfied with success in even the smallest matter, and think that even such a result is no trifle.',
+    '844c2f08-3469-5dd2-b061-c6c47f216831' => [
+        'Being famous is having the power to really implement positive change in the world, and it gives you the power to do what you want. I\'m really grateful for it because I can play music and people will listen.',
+        'Sean Lennon',
+    ],
+    '06d91d02-80d8-509f-82bc-8af222e5b1f9' => [
+        'We must walk consciously only part way toward our goal, and then leap in the dark to our success.',
+        'Henry David Thoreau',
+    ],
+    '03f1a650-8555-5dbd-a06c-7bfad204e119' => [
+        'Colors are the smiles of nature.',
+        'Leigh Hunt',
+    ],
+    'd3f7aaa5-e633-5812-bf7a-a79d1404d492' => [
+        'Purpose and laughter are the twins that must not separate. Each is empty without the other.',
+        'Robert Greenleaf',
+    ],
+    '9b7f1b30-4881-5ad9-9caf-90dab3ecde55' => [
+        'Despise not death, but welcome it, for nature wills it like all else.',
         'Marcus Aurelius',
+    ],
+    'def1b2c1-6745-5c91-b4fc-42d8660e6de9' => [
+        'The trouble with Hollywood is that too many of the top people responsible for pictures are too comfortable and don\'t give a damn about what goes up on the screen so long as it gets by at the box office. How can you expect people with that kind of attitude to make the kind of great pictures that the world will want to see?',
+        'William Wyler',
+    ],
+    '68cb5be2-76a3-583e-8927-0cda719c84b5' => [
+        'When someone asks, \'Does success make you into a monster?\' I always say, \'No, it enables you to be a monster.\'',
+        'Simon Cowell',
     ],
     'ab7588ab-e552-5c1b-9b7e-ff614fcef70a' => [
         'To make a prairie it takes a clover and one bee, One clover, and a bee, And revery. The revery alone will do, If bees are few.',
         'Emily Dickinson',
     ],
-    '3a9c26c8-4f59-5572-88d1-667edd0c4f86' => [
-        'If you look at a building by Mies van der Rohe, it might look very simple, but up close, the sheer quality of construction, materials and thought are inspirational.',
-        'David Chipperfield',
+    '2a539e90-ffb8-50a4-9c1e-bbe16b08dacf' => [
+        '\'Tropic Thunder\' is one of my favorite movies of all time. \'Blazing Saddles.\' Anything that will get me to smile.',
+        'John Cena',
     ],
-    '9d44fa29-b2a3-5392-94c8-9a1674d02dae' => [
-        'Always concentrate on how far you\'ve come, rather than how far you have left to go.',
+    'c459035b-71b5-511e-9ebd-a5053345ffc0' => [
+        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
+        'Charice Pempengco',
+    ],
+    '0dfdaaff-884a-5e34-9778-b43dcb64816c' => [
+        'There\'s something very authentic about humor, when you think about it. Anybody can pretend to be serious. But you can\'t pretend to be funny.',
+        'Billy Collins',
+    ],
+    '3b609fb1-c54a-5fd7-8511-8e92456f5917' => [
+        'The past cannot be changed. The future is yet in your power.',
         'Unknown',
     ],
-    '8522c4b2-9bb4-5822-ad61-39b27810bffb' => [
-        'To find the universal elements enough; to find the air and the water exhilarating; to be refreshed by a morning walk or an evening saunter... to be thrilled by the stars at night; to be elated over a bird\'s nest or a wildflower in spring - these are some of the rewards of the simple life.',
-        'Victoria Osteen',
+    '17c1fa32-edec-5e05-ba05-e2d1ec2c85ac' => [
+        'If I had to live my life again, I\'d make the same mistakes, only sooner.',
+        'Tallulah Bankhead',
     ],
-    'ed807ca8-839e-5419-b62a-997ab01be28b' => [
-        'Life is a series of baby steps along the way and if you add up these tiny little steps you take toward your goal, whatever it is, whether it\'s giving up something, a terrible addiction or trying to work your way through an illness. When you total up those baby steps you\'d be amazed over the course of 10 years, the strides you\'ve taken.',
-        'Hoda Kotb',
+    '590eef3c-0304-538c-81d4-086b8321ddb7' => [
+        'The avant-garde theater is fun; it is free-swinging, bold, iconoclastic, and often wildly, wildly funny. If you will approach it with childlike innocence - putting your standard responses aside, for they do not apply - if you will approach it on its own terms, I think you will be in for a liberating surprise.',
+        'Edward Albee',
     ],
-    'ea626ab6-5b76-5529-977f-d7b30719dc1b' => [
-        'Right now I\'m having amnesia and deja vu at the same time... I think I\'ve forgotten this before.',
-        'Steven Wright',
+    '38c7403b-6f39-50d9-b166-ef28f4c3aa6c' => [
+        'As the family goes, so goes the nation and so goes the whole world in which we live.',
+        'Pope John Paul II',
     ],
-    'd2dd3e72-c969-58fc-bce3-f52ba0f03e27' => [
-        'I gave up my struggle with perfection a long time ago. That is a concept I don\'t find very interesting anymore. Everyone just wants to look good in the photographs. I think that is where some of the pressure comes from. Be happy. Be yourself, the day is about a lot more.',
-        'Anne Hathaway',
+    '7db26f33-beb0-5ba9-ae52-ad25c3b66021' => [
+        'It\'s sort of a feeling of power onstage. It\'s really the ability to make people smile, or just to turn them one way or another for that duration of time, and for it to have some effect later on. I don\'t really think it\'s power... it\'s the goodness.',
+        'Robert Plant',
     ],
-    'c4a59bb9-6ce7-5389-86d4-a316b0e7d3a9' => [
-        'Going to work for a large company is like getting on a train. Are you going sixty miles an hour or is the train going sixty miles an hour and you\'re just sitting still?',
-        'J. Paul Getty',
+    '2475c2c4-82e9-583b-8ab2-e40ee8e1b4dc' => [
+        'Super-ambitious goals tend to be unifying and energizing to people; but only if they believe there\'s a chance of success.',
+        'Peter Diamandis',
     ],
-    'fe447efa-9074-52aa-9abd-c6548494e768' => [
-        'I think about my work every minute of the day.',
-        'Jeff Koons',
+    '0766f865-7eb4-51c0-ac01-d5d4b72b9bcd' => [
+        'Nothing beats a great smile.',
+        'Karl Urban',
     ],
-    '7857f98d-ec9b-5c52-8e8a-d3b06552ebb4' => [
-        'I do believe in love; it\'s wonderful - especially love third time around, it\'s even more precious; it\'s kind of amazing.',
-        'Robin Williams',
+    '0ce0c105-53f7-5f10-b82e-f34aaa848437' => [
+        'I like being the underdog so they don\'t expect what\'s going to happen. It pushes me to work harder and do the things I\'m not doing better.',
+        'Kawhi Leonard',
     ],
-    '1971b5e3-882b-5694-b63c-210d648ff007' => [
-        'Life begins at the end of your comfort zone.',
-        'Reba McEntire',
+    '570a1c2a-f4af-56d1-908c-3ccae1ff08b9' => [
+        'Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.',
+        'Booker T. Washington',
     ],
-    '927bfdec-5fe1-5b46-88f6-a19164fe476d' => [
-        'One of the advantages of being disorderly is that one is constantly making exciting discoveries.',
-        'A. A. Milne',
+    'f8f75998-daba-528b-a694-5cfe09ab7514' => [
+        'Grit your teeth and smile. In the face of adversity, go. They don\'t deserve you.',
+        'Christine Lagarde',
     ],
-    '04912ad8-a9a2-5f04-aca6-006e9bad216a' => [
-        'The beauty of the past belongs to the past.',
-        'Margaret Bourke-White',
+    '10745059-e3c5-54ee-a20e-58ef46c31544' => [
+        'I\'ve been a huge fan of Marc Jacobs for many, many years, even going back to when I was wearing men\'s clothing. He captures a kind of simplicity and a kind of beauty that I like - projecting strength through femininity.',
+        'Chelsea Manning',
     ],
-    '8d86961f-008a-5b47-88ca-7045532a143a' => [
-        'As for everything else, so for a mathematical theory: beauty can be perceived but not explained.',
-        'Arthur Cayley',
+    '42f32145-2f53-5cff-ba20-54c869558dab' => [
+        'People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn\'t mean they\'ve gotten lost.',
+        'Dalai Lama',
     ],
-    '82883a06-b6c8-5565-aa6b-358cb0e6a637' => [
-        'Look, I don\'t want to wax philosophic, but I will say that if you\'re alive you\'ve got to flap your arms and legs, you\'ve got to jump around a lot, for life is the very opposite of death, and therefore you must at very least think noisy and colorfully, or you\'re not alive.',
-        'Walt Disney',
+    'a878d7e1-aa3d-54e4-9c10-d36ee4811e80' => [
+        'It\'s toughest to forgive ourselves. So it\'s probably best to start with other people. It\'s almost like peeling an onion. Layer by layer, forgiving others, you really do get to the point where you can forgive yourself.',
+        'Patty Duke',
     ],
-    'd92f048f-30cc-5dfd-b5b4-066f5d454511' => [
-        'I think whether you\'re having setbacks or not, the role of a leader is to always display a winning attitude.',
-        'Colin Powell',
+    '7f2b7567-1de0-596f-808e-c7fb3391a748' => [
+        'Becoming an author changes your attitude too. Once you see where books come from, and how they\'re made, they never seem quite as sacred again.',
+        'Lev Grossman',
     ],
-    '65f7c312-aa7f-549f-89ba-df9d7b6c9af7' => [
-        'I love to write about Nabokov and also to think about him. I love his attitude that he is incomparable, his lofty judgments and general scorn of other writers - not all of them, of course.',
-        'James Salter',
+    'fbe47d03-d9e7-5ec1-bebf-b8d1718f929b' => [
+        'The \'good\' mother, with her fixed smile, her rigidity, her goody-goody outlook, her obsession with unnecessary hygiene, is in fact a fool. It is the \'bad\' mother, unafraid of a joke and a glass of wine, richly self-expressive, scornful of suburban values, who is, in reality, good.',
+        'Rachel Cusk',
     ],
-    '12e45234-c163-5b3a-8d0b-79c67bcb3167' => [
-        'Instead of hating, I have chosen to forgive and spend all of my positive energy on changing the world.',
-        'Camryn Manheim',
+    'a892bde8-4444-57f0-aa4f-b702259d4840' => [
+        'Wilderness is not a luxury but a necessity of the human spirit.',
+        'Edward Abbey',
     ],
-    'ad40d6ac-5425-55e2-8be2-60c2308c5a91' => [
-        'Coming to terms with the fear of death is conducive to healing, positive personality transformation, and consciousness evolution.',
-        'Stanislav Grof',
-    ],
-    '918eb506-58a9-5691-a793-56cfa23c3ad0' => [
-        'To get away from one\'s working environment is, in a sense, to get away from one\'s self; and this is often the chief advantage of travel and change.',
-        'Charles Horton Cooley',
-    ],
-    '7bc0005a-6108-5448-9e5c-bb5bd108cc9f' => [
-        'If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.',
-        'Calvin Coolidge',
-    ],
-    '00a5e043-453e-5f6d-8872-30294c17c67b' => [
-        'It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves.',
-        'Thornton Wilder',
-    ],
-    'b8e3de63-49c3-52da-83fb-a39af29998d3' => [
-        'My grandmother, whom we call Biel, thinks it\'s very unbecoming of me not to smile for the paparazzi. So every time I see them, I think, \'Smile for Biel!\'',
-        'Jessica Biel',
-    ],
-    '93374f78-215e-596f-bd7e-a02609bc5bf3' => [
-        'I always just wanted to be funny. I never really planned to be scary.',
-        'R. L. Stine',
-    ],
-    '67d87f99-0242-5912-928c-2676426e6f50' => [
-        'Nature is so powerful, so strong. Capturing its essence is not easy - your work becomes a dance with light and the weather. It takes you to a place within yourself.',
-        'Annie Leibovitz',
-    ],
-    '233ae28e-07fc-5c80-8ad0-99351b04d572' => [
-        'Ignoring fame was my rebellion, in a funny way. I was insistent on being normal and doing normal things. It probably wasn\'t advisable to go to college in America and room with a complete stranger. And it probably wasn\'t wise to share a bathroom with eight other people in a coed dorm. Looking back, that was crazy.',
-        'Emma Watson',
-    ],
-    'e20d024f-945c-54b7-bf22-8a5dfbeaf754' => [
-        'Life is so constructed that an event does not, cannot, will not, match the expectation.',
-        'Charlotte Bronte',
+    '4734004d-15b3-5b27-a311-1449ba1a689b' => [
+        'Whether You Think You Can Or Think You Can\'t, You\'re Right.',
+        'Henry Ford',
     ],
 ];

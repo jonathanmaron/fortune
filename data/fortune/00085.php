@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'db219102-2613-525d-a7a4-835e447ac8eb' => [
-        'I\'ve just got a really bad smile. I go for the scowl instead.',
-        'Jason Statham',
+    'b357e1b4-5340-58ca-b2c5-85babbb60264' => [
+        'Mariah is a beautiful and talented person, and I\'ve had a crush on her for as long as I can remember. Every day, my respect for Mariah continues to grow higher. She\'s a caring, warm and funny person. People have no idea how funny she is! I feel like I\'ve always known she was my forever love.',
+        'Nick Cannon',
     ],
-    'b34a8a2d-d0e5-57e0-90f8-0cda931e55e2' => [
-        'I love insults, devastating takedowns, things that could be described by Twitter hacks as \'shots fired,\' and funny ad hominem attacks.',
-        'Alex Pareene',
+    '421e3606-5e43-5e8e-83b3-d9e0011c45e8' => [
+        'When it comes to beauty, I feel that hanging with people you love, laughing, and doing silly things gets your spirits up. We are always prettier when we are happier.',
+        'Sara Sampaio',
     ],
-    '24c4b494-d572-50c3-81d9-05375ba818a6' => [
-        'It is never too late to strengthen the foundation of faith. There is always time. With faith in the Savior, you can repent and plead for forgiveness. There is someone you can forgive. There is someone you can thank. There is someone you can serve and lift. You can do it wherever you are and however alone and deserted you may feel.',
-        'Henry B. Eyring',
+    '4288c47b-a18d-56dd-8e83-f286b5a865a4' => [
+        'If you don\'t give up, you still have a chance.',
+        'Jack Ma',
     ],
-    'ea493ff7-4073-5356-a042-67bbc3942b74' => [
-        'Beauty is an asset, just like physical prowess, charisma, brains or emotional intelligence. The key with any gift is in the way that you use it. It doesn\'t define you as a person. Rather, it\'s an asset to be used judiciously and with an understanding of how it is just a small part of who you are.',
-        'Dale Archer',
+    '9e62a162-5eb8-51a8-a22f-85707ebe9e44' => [
+        'To forgive is to set a prisoner free and realize that prisoner was you.',
+        'Lewis B. Smedes',
     ],
-    '8e7842c5-8cba-5c6c-b52a-32cc07117813' => [
-        'The power of pop culture stories should not be underestimated, and there is an enormous potential for inspirational stories that can have a positive, transformative effect on our lives.',
-        'Anita Sarkeesian',
+    '68fc42c7-0fc5-5e33-99f3-08637fb4f3c8' => [
+        'To live a pure unselfish life, one must count nothing as one\'s own in the midst of abundance.',
+        'Christopher McCandless',
     ],
-    'c30ffe30-8f92-5a87-833f-9c843489234e' => [
-        'I failed the LSAT. Basically, if I had not failed, I\'d have been a lawyer and there would be no Spanx. I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating.',
-        'Sara Blakely',
+    'ba3d787d-8999-5e29-9097-99f3c0f0c304' => [
+        'All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.',
+        'Albert Camus',
     ],
-    'ef2fc01c-c944-5591-848f-aa1ba4978d39' => [
-        'If you look at human society, it is very easy, of course, to compare our warfare and territoriality with the chimpanzee. But that\'s only one side of what we do. We also trade, we intermarry, we allow each other to travel through our territory. There\'s an enormous amount of cooperation.',
-        'Frans de Waal',
+    '9732c36c-783f-5308-8233-abc0dce61a50' => [
+        'The essence of life is the smile of round female bottoms, under the shadow of cosmic boredom.',
+        'Guy de Maupassant',
     ],
-    'c44b0011-fb01-5589-a50d-9646d4805016' => [
-        'This is just rap. I\'m not trying to make people think I\'m some sort of scientific wizard or inspirational poet.',
-        'Action Bronson',
+    'ebb96516-fbb3-574c-8abb-5ba900c8c0fc' => [
+        'One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute.',
+        'William Feather',
     ],
-    '508e7ea7-eea1-5224-9fa2-ee0afa0a22ce' => [
-        'The workingmen have perceived that women are in the field of industry to stay; and they see, too, that there can not be two standards of work and wages for any trade without constant menace to the higher standard.',
-        'Florence Kelley',
+    '6ba26068-03d7-5f48-a3b5-89ac85052d82' => [
+        'What\'s the point of being alive if you don\'t at least try to do something remarkable.',
+        'Unknown',
     ],
-    'df089412-3532-53db-a1c5-a6b534107e19' => [
-        'I\'m such a girl for the living room. I really like to stay in my nest and not move. I travel in my mind, and that that\'s a rigorous state of journeying for me. My body isn\'t that interested in moving from place to place.',
-        'bell hooks',
+    '945891c2-c297-58e4-8564-dd6e65a537f8' => [
+        'In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.',
+        'Leonardo da Vinci',
     ],
-    '86bae4a9-6af3-556d-bbed-4e2231f44419' => [
-        'And for me, the real world involves everything: risk, danger, beauty, energy, all we meet with in the real world.',
-        'Christo',
+    'd85fac80-f2ba-57c8-9231-fb6c5d60fa53' => [
+        'Once again, we come to the Holiday Season, a deeply religious time that each of us observes, in his own way, by going to the mall of his choice.',
+        'Dave Barry',
     ],
-    '3b9bdb49-0e78-5140-bf2a-1690877e4489' => [
-        'All my life, I have been a positive thinker... I have always been able to survive by telling myself that no matter how bad things are, they will one day be better. And that out of every event - no matter how tragic - one can always find a way to survive and even, perhaps, to be a little bit happy.',
-        'Zsa Zsa Gabor',
+    '5eb0a99f-4431-5963-8078-7d977ddffe30' => [
+        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
+        'Paul Bryant',
     ],
-    '36e565d2-3187-5bd6-b717-6dda49ab7f60' => [
-        'Life in common among people who love each other is the ideal of happiness.',
-        'Lucas Grabeel',
+    '81c602ee-7940-5b2f-bf04-8112b970c133' => [
+        'The advance of technology is based on making it fit in so that you don\'t really even notice it, so it\'s part of everyday life.',
+        'Tecumseh',
     ],
-    '1df97758-bc12-5483-8a74-112d1f45b336' => [
-        'When I look in the mirror, I see someone who\'s happy with how he looks, because I was never one of the handsome Hollywood people. And I\'ve had success as I\'ve gotten older, because I\'m able to play characters. I no longer get the girl, but I get the part.',
-        'Michael Caine',
+    'c7212d5d-a165-514f-9136-5bdb653bf337' => [
+        'Football teaches you hard work. It takes a lot of unspectacular preparation to have spectacular results in both business and football.',
+        'Roger Staubach',
     ],
-    'ff48a46d-46ee-5655-8d5e-bc95dbe8129e' => [
-        'It\'s human nature that if you get 20 positive comments and one negative one, you\'re going to focus on the negative. We all do that. It can be something that drags you down. It\'s easy to get bogged down with it, but I try to concentrate on the good things.',
-        'Bindi Irwin',
+    '04b2e544-d0cf-5ad2-a39e-2d37c66f3185' => [
+        'No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.',
+        'Buddha',
     ],
-    '816eacba-648d-58c7-97b8-d06f0e49ecb6' => [
-        'Go to Heaven for the climate, Hell for the company.',
-        'Mark Twain',
+    'e6ef05ec-a84e-58c9-b27c-dc028b98888d' => [
+        'Quality is pride of workmanship.',
+        'W. Edwards Deming',
     ],
-    '82a95935-5e7a-5485-a437-6c6fbead6b87' => [
-        'Create. Not for the money. Not for the fame. Not for the recognition. But for the pure joy of creating something and sharing it.',
-        'Ernest Barbaric',
+    'add9a62e-0f88-5aa3-a5ae-70ecbafc7378' => [
+        'The American attitude is \'We\'re the best\'. That\'s why the NBA guys who come from other countries, the Europeans, all sort of stick together away from the game.',
+        'Andrew Bogut',
     ],
-    '2f86f7fe-5157-597e-be1d-4c4aadb4b9eb' => [
-        'The tax collector must love poor people, he\'s creating so many of them.',
-        'Bill Vaughan',
+    'fcad1dd1-8123-5fa3-a990-05ee18abe202' => [
+        'A hen is only an egg\'s way of making another egg.',
+        'Samuel Butler',
     ],
-    'd009fa15-4ab6-503d-9669-475f4a2a24be' => [
-        'Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.',
-        'Franklin Roosevelt',
+    '40be0ff9-8588-5593-af26-9e50ce55e2a1' => [
+        'Am I complicated? Nah, I\'m interesting. I just like having a good time.',
+        'Gerry Cooney',
     ],
-    '544fbf7b-3d7b-53f1-b73a-053ab40af23d' => [
-        'Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.',
-        'Blaise Pascal',
+    '52c5356a-1848-59d8-892e-c712ea0ea7c3' => [
+        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
+        'Francis Chan',
     ],
-    '13d515a3-4d53-54d5-8c32-bfb2ea20334d' => [
-        'The vibe in our locker room is real energetic and fun and real personable, I think from Day 1. That gets you through a lot of tough times, where in hard times, it might be common nature for guys to do their own thing and split up and become silent.',
-        'Stephen Curry',
+    '955936bc-5be1-56ac-b36e-96a36eb31cf4' => [
+        'I am just happy to be part of the Nike family.',
+        'LeBron James',
     ],
-    '4503e06d-47cf-5d59-9bcc-7ef230625dda' => [
-        'I was bringing my attitude as a regular person \'cause this is my attitude.',
-        'Glenn Danzig',
+    'b0ffe1bf-d5f9-5895-9d73-6af9cf1d4d9d' => [
+        'I was sleeping the other night, alone, thanks to the exterminator.',
+        'Emo Philips',
     ],
-    '6f7a86d9-48ee-50c4-a0bf-97c3d4e0e0ab' => [
-        'True refuge is that which allows us to be at home, at peace, to discover true happiness. The only thing that can give us true refuge is the awareness and love that is intrinsic to who we are. Ultimately, it\'s our own true nature.',
-        'Tara Brach',
+    '77dd0ce4-0a3f-507f-b872-289ec4397328' => [
+        'Ask yourself the secret of your success. Listen to your answer, and practice it.',
+        'Richard Bach',
     ],
-    'ba2a1c7c-bf35-54dd-b329-57091ca3d963' => [
-        'We are entertainers. We have to give our audience a good time. If my name serves that purpose, if that brings a smile on your face, then I think it is good and my job has been done.',
-        'Tiger Shroff',
+    '83ffa191-f5ed-5bc3-a02b-c159b5941b7f' => [
+        'Your ability to learn faster than your competition is your only sustainable competitive advantage.',
+        'Arie de Gues',
     ],
-    '6919bb28-f05d-57f4-89c3-8aa28c4b4beb' => [
-        'In this world it is not what we take up, but what we give up, that makes us rich.',
-        'Henry Ward Beecher',
+    '6a10804e-71ba-5235-936a-4a16e81b6485' => [
+        'City Ballet has to develop choreographers of stature and a new approach to coaching before everything we value about it fades away and, in the great tradition of the Cheshire Cat, there\'s nothing left but Peter Martins\' smile.',
+        'Robert Gottlieb',
     ],
-    'ad67df44-c294-5d3e-83bb-3219bfe63a60' => [
-        'I\'m in love with red. I think it\'s such a passionate color. Every flag of every country pretty much has red it it. It\'s power, there\'s no fence sitting with red. Either you love it or you don\'t. I think its blood and strength and life. I do love red. I love all colors. Great shades of blue, you find them in nature. They\'re all magic.',
-        'Bryan Batt',
+    '51e70f1a-9c3f-5168-9bfe-300bd29be1ce' => [
+        'I\'ve read that the ancient Chinese art of feng shui can bring a sense of peace, well-being, and positive energy to a home - same as beer.',
+        'W. Bruce Cameron',
     ],
-    '10a14857-a425-5a81-a82a-1c7c57d69372' => [
-        'My father instilled in me an attitude that you couldn\'t really enjoy yourself unless you had done something to deserve it. So, my childhood was spent working on farms or local shops or, when I got older, in banks.',
-        'Ben Elliot',
+    '9ce34c97-bb14-573c-b83d-452fe3200d42' => [
+        'Whatever it is you\'re seeking won\'t come in the form you\'re expecting.',
+        'Haruki Murakami',
     ],
-    '2b103a24-64fe-59a8-9b32-931856d725d2' => [
-        'We don\'t need bigger cars or fancier clothes. We need self-respect, identity, community, love, variety, beauty, challenge and a purpose in living that is greater than material accumulation.',
-        'Donella Meadows',
+    '88d7f1a2-a3c9-540a-b48a-49d60510234a' => [
+        'I\'m an optimist, but an optimist who carries a raincoat.',
+        'Harold Wilson',
     ],
-    '924209af-6e6f-5bb2-8de5-65617f7fc523' => [
-        'Don\'t let people see when you\'re mad - just smile and laugh.',
-        'Astro',
+    '8ed7f397-3b32-511c-941e-1bba0b803e34' => [
+        'The most positive men are the most credulous.',
+        'Alexander Pope',
     ],
-    'a6c51c6e-bff4-574e-a839-6da0505106f5' => [
-        'Just as you wouldn\'t leave the house without taking a shower, you shouldn\'t start the day without at least 10 minutes of sacred practice: prayer, meditation, inspirational reading.',
-        'Marianne Williamson',
+    '90a8be1b-0801-5e2e-b8d1-0a8c78c9baa4' => [
+        'I used to really love Fiend, but he stopped. He just stopped. Every time he had a project, every project - \'There\'s One In Every Family,\' \'Street Life\' - I had to have them. And he just stopped. And that was disappointing, \'cause that was my favorite rapper at one time.',
+        'Kevin Gates',
     ],
-    'a82cb0a7-6172-576f-8190-61be7f2bb167' => [
-        'There is no way to happiness, happiness is the way.',
-        'Thich Nhat Hanh',
+    '72dc3993-d3da-508b-92ad-b627380ec992' => [
+        'Putting forward your positive energy connects you back to basic human values which we all share. Good Deeds Day shows that no matter the size of the gesture, a smile that brightens someone else\'s day or volunteering in your community, we can all take active part in making a difference.',
+        'Shari Arison',
     ],
-    '23c3d60a-ad6a-54e1-ae6a-69b35d386e74' => [
-        'Fears are nothing more than a state of mind.',
-        'Napoleon Hill',
+    '774a55c5-be19-518f-99da-150455d44b93' => [
+        'My life is devoted to business and supporting my family.',
+        'Colonel Sanders',
     ],
-    'a5457a76-fc4f-59ee-8fc3-319cae9c7f5c' => [
-        'Life\'s tragedy is that we get old too soon and wise too late.',
-        'Ella Woodward',
+    '7b992cd9-73e2-5416-8604-eddf62a4030f' => [
+        'What I have in common with the character in \'Truman\' is this incredible need to please people. I feel like I want to take care of everyone and I also feel this terrible guilt if I am unable to. And I have felt this way ever since all this success started.',
+        'Jim Carrey',
     ],
-    '592567b2-77e7-5d80-abe4-2f29f696add8' => [
-        'I can honestly say that I was never affected by the question of the success of an undertaking. If I felt it was the right thing to do, I was for it regardless of the possible outcome.',
-        'Golda Meir',
+    '4a851cf7-7a1d-5269-bf00-ede8fb750458' => [
+        'Antigravity, teleportation, time travel, energetic DNA evolution and consciousness transformation could create a world few of us ever even dreamed of.',
+        'David Wilcock',
     ],
-    '74105d75-609a-55f8-9b01-e172df157fe7' => [
-        'At the end of the day, my goal was to be the best hacker.',
-        'Kevin Mitnick',
+    '663c1dd6-9c07-54da-8980-4d03c6ec6702' => [
+        'What you are will show in what you do.',
+        'Thomas A. Edison',
     ],
-    'efb8d59f-eaca-59e1-a0be-6be203cc302e' => [
-        'We talk of our mastery of nature, which sounds very grand; but the fact is we respectfully adapt ourselves, first, to her ways.',
-        'Clarence Day',
+    'c730651e-1761-593a-8a73-77081405e01b' => [
+        'By now, you\'ve probably caught on to something: my mother is always standing by with just the right Scripture or inspirational saying to get me through any tough situation.',
+        'Gabby Douglas',
     ],
-    '430bfaf9-224d-5b7e-927e-21a6a4541bf9' => [
-        'When people ask me about my story, I just go through the positive stuff: the tent-pole moments, the big landmark checkpoints.',
-        'Shia LaBeouf',
+    '3c73ed52-f47a-576b-851e-9ee58778b954' => [
+        'Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.',
+        'Augustus Hare',
     ],
-    '84e6d06b-bb45-5692-9111-fdddaae48991' => [
-        'Time is more valuable than money, because time is irreplaceable.',
-        'John C. Maxwell',
+    'a9b0ca8b-90d8-5cce-90fa-8a773e5a050c' => [
+        'You know, I\'m just a very boring, not very funny person in person. I don\'t feel pressured to be otherwise.',
+        'Lorrie Moore',
     ],
-    'c2e14408-6223-5f5f-bc0a-ab5676a9ffa9' => [
-        'No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind.',
-        'Caroline Kennedy',
+    '2c66b662-44e8-563e-a788-c4be3d0ba8b8' => [
+        'Head Start is designed to ensure that all children - regardless of their family\'s income, race, or ethnic background - are able to enter kindergarten ready to learn.',
+        'Lucille Roybal-Allard',
     ],
-    'f7716d34-c065-5bc5-8b3c-2c48514d5f2b' => [
-        'I was doing a Broadway musical called \'Smile\' with Howard Ashman and Marvin Hamlisch in 1984/5 when it abruptly closed. Howard was in the middle of pre-production for \'The Little Mermaid,\' so he kindly invited all the girls in our cast to audition for the film.',
-        'Jodi Benson',
+    'a07a004e-cdb7-5480-85fd-28ffc587d0b7' => [
+        'I\'m happy to be everybody\'s gay best friend.',
+        'Andy Cohen',
     ],
-    '660633b9-d351-5f16-bf01-d374e2bfa040' => [
-        'Publishers like a good buzz, and negative responses sell books just as well as positive ones.',
-        'Richard Dawkins',
+    '6b697e47-60ab-5edd-bb5d-f6744b51fe00' => [
+        'I have had the view that cutting wages is not the path to prosperity, and one of the great myths propagated about my attitude to industrial relations is that I believe in lower wages. I\'ve never believed in lower wages. Never. Never believed in lower wages, I\'ve never believed in lower wages as an economic instrument.',
+        'John Howard',
     ],
-    '0fd95e44-1fb0-5f97-8d12-50fe0c399b7a' => [
-        'Don\'t worry about being a star, worry about doing good work, and all that will come to you.',
-        'Ice Cube',
+    'bceaa4a6-e249-5254-b838-2287b2528414' => [
+        'I never liked you, and I always will.',
+        'Samuel Goldwyn',
     ],
-    '0c34258a-50d0-584e-8522-0ba33dae661d' => [
-        'We treat beauty like an accomplishment, and that is insane. Everyone in L.A. says, \'Oh, you look good,\' and you listen for them to say you\'ve lost weight. It\'s never \'How are you?\' or \'You seem happy!\'',
-        'Carrie Fisher',
+    '52bc8321-97ad-5285-a13f-47ecedc907f2' => [
+        'There\'s been so many different types of musicals, and it\'s a funny genre because there\'s a fine line between clever and stupid. It really takes a genius to know how to do it.',
+        'Melissa Etheridge',
     ],
-    '510c5bc3-6292-5923-9f08-c080bf43f97a' => [
-        'France has been very good for me. It has given me a very worldly-cool attitude.',
-        'Marianne Faithfull',
+    '0844f920-a696-50dd-99c2-5a0f744cf6a3' => [
+        'I cannot always control what goes on outside. But I can always control what goes on inside.',
+        'Wayne Dyer',
     ],
-    'd6f71f39-8ef9-562d-83c3-8f8816f8646d' => [
-        'The best way to avoid falling prey to the opinions of others is to realize that other people\'s opinions are just that - opinions. Regardless of how great or terrible they think you are, that\'s only their opinion. Your true self-worth comes from within.',
-        'Travis Bradberry',
+    '7ed290d4-ec00-5439-a150-2279b93ad999' => [
+        'Ugliness is in a way superior to beauty because it lasts.',
+        'Serge Gainsbourg',
     ],
-    '7f7b0676-985d-5b6f-9973-b540f16f3ca0' => [
-        'The best government is a benevolent tyranny tempered by an occasional assassination.',
-        'Voltaire',
+    '776f645f-b295-5401-b894-468aeb95365f' => [
+        'If you travel to Germany, it\'s still absolutely Germany. If you travel to Sweden, it still has a Swedish identity.',
+        'Morrissey',
     ],
-    'cb44f16b-8a9a-5a10-be2d-300a4dbf96eb' => [
-        'As knowledge increases, wonder deepens.',
-        'Charles Morgan',
+    'a7afb59d-8476-5352-a997-81511e60158d' => [
+        'My company is known for being funny as well as moving. You get a bit of everything in these shows. I think people know they\'re going to have a surprising experience.',
+        'Matthew Bourne',
     ],
-    '8d29ad7a-f17f-5e45-9a5e-cccd599ea362' => [
-        'Man is but a reed, the most feeble thing in nature, but he is a thinking reed.',
-        'Blaise Pascal',
+    '5f1af896-9044-5437-808c-85560ab7c22f' => [
+        'Beauty is in the eye of the beholder.',
+        'Oliver Platt',
     ],
-    '0284ec07-0b1c-5ec1-9853-c54498de0ad0' => [
-        'Smile. It instantly lifts the face, and it just lights up the room.',
-        'Christie Brinkley',
+    '96ecee0e-776c-546e-b91e-cfb7695fb190' => [
+        'Less is always more. The best language is silence. We live in a time of a terrible inflation of words, and it is worse than the inflation of money.',
+        'Eduardo Galeano',
     ],
-    '686b86dc-1e2f-552a-be4a-8a2e2737ca0e' => [
-        'Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.',
-        'Albert Schweitzer',
+    'c6284f7c-cf9d-5f23-b5f4-d3ec5552b395' => [
+        'I consider my ability to arouse enthusiasm among men the greatest asset I possess. The way to develop the best that is in a man is by appreciation and encouragement.',
+        'Charles M. Schwab',
     ],
 ];

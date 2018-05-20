@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'd63ea194-3d88-5c31-93b3-07d53afe2513' => [
-        'Never mistake activity for achievement.',
-        'John Wooden',
+    '95f2121c-025e-5ade-87c1-8935fe76833d' => [
+        'Day, n. A period of twenty-four hours, mostly misspent.',
+        'Ambrose Bierce',
     ],
-    'fd1dc207-5381-528d-a835-3deba25e6243' => [
-        'So when you do your family tree and Margaret Cho does hers, and... Wanda Sykes and John Legend... we\'re adding to the database that scholars can then draw from to generalize about the complexity of the American experience. And that\'s the contribution that family trees make to broader scholarship.',
-        'Henry Louis Gates',
+    'fc16756e-47c5-58f1-b443-554760551a54' => [
+        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
+        'Jay Garner',
     ],
-    'fff0430b-5128-504b-b34f-70a1af28c146' => [
-        'The happiness of your life depends upon the quality of your thoughts: therefore, guard accordingly, and take care that you entertain no notions unsuitable to virtue and reasonable nature.',
-        'Marcus Aurelius',
+    '98a40925-31fd-5cff-a790-b3523a239881' => [
+        'We must let go of the life we have planned, so as to accept the one that is waiting for us.',
+        'Joseph Campbell',
     ],
-    '18a38201-e6dc-54f0-84e9-479fdeaeecfa' => [
-        'What is called genius is the abundance of life and health.',
-        'Henry David Thoreau',
+    'fb425726-d963-55a4-a855-80adfafc0491' => [
+        'I never knew a man come to greatness or eminence who lay abed late in the morning.',
+        'Johnathan Swift',
     ],
-    '6df83284-5e12-57ce-836e-7a40a0dbbbef' => [
-        'I collect crystals and gemstones, and I\'ve been collecting them since I was a little girl. They give me positive energy and strength. They make me feel connected to the earth. I cherish them.',
-        'Isabel Lucas',
+    'ff48a46d-46ee-5655-8d5e-bc95dbe8129e' => [
+        'It\'s human nature that if you get 20 positive comments and one negative one, you\'re going to focus on the negative. We all do that. It can be something that drags you down. It\'s easy to get bogged down with it, but I try to concentrate on the good things.',
+        'Bindi Irwin',
     ],
-    'b011af06-e18b-5bff-81c3-17bc0c389e21' => [
-        'I am a thing of beauty.',
-        'Frank Sinatra',
+    '5b832e36-76b2-58e6-8f2d-b36ab86eeceb' => [
+        'Four things for success: work and pray, think and believe.',
+        'Norman Vincent Peale',
     ],
-    '3b55c00c-5710-54b0-99c0-d6cba6850816' => [
-        'The counterfeit and counterpart of Nature is reproduced in art.',
-        'Henry Wadsworth Longfellow',
+    'fd7c3bc3-996c-5f34-b811-1b08ae3c92ac' => [
+        'I never cut class. I loved getting A\'s, I liked being smart. I liked being on time. I thought being smart is cooler than anything in the world.',
+        'Michelle Obama',
     ],
-    '837da621-14e2-580c-8c7b-d9e5d3f9c32f' => [
-        'Quite honestly, if we do manage to destroy the planet with our devil-may-care attitude to natural resources, I\'d suggest we leave, as a dossier in our defence, the collected letters to agony aunts and uncles down the generations. It would certainly prove that we weren\'t all bad!',
-        'Mariella Frostrup',
+    '003653d8-ff77-53fe-a22a-e5fd1b5d1a37' => [
+        'You are beautiful because you let yourself feel, and that is a brave thing indeed.',
+        'Shinji Moon',
     ],
-    'e5c3b099-714e-57fb-8ce9-b4b658cc4d5a' => [
-        'Fame usually comes to those who are thinking about something else.',
-        'Holmes',
+    '716c372f-9914-5ab8-8423-6f04314d86bf' => [
+        'Growing up, I just wanted to be like everyone else. I didn\'t value or understand the beauty in being different at the time in my life.',
+        'Marisol Nichols',
     ],
-    '55c8fd96-f0e4-59a7-8bf4-14c531339858' => [
-        'There is a need for financial reform along ethical lines that would produce in its turn an economic reform to benefit everyone. This would nevertheless require a courageous change of attitude on the part of political leaders.',
-        'Pope Francis',
+    '54ecdd87-73ed-5b01-9249-0d3e456694a7' => [
+        'God has already done everything He\'s going to do. The ball is now in your court. If you want success, if you want wisdom, if you want to be prosperous and healthy, you\'re going to have to do more than meditate and believe; you must boldly declare words of faith and victory over yourself and your family.',
+        'Joel Osteen',
     ],
-    '74c29fd1-2718-56d1-8244-84d0ea15947d' => [
-        'The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.',
-        'Thomas A. Edison',
+    'c57857e8-7c2f-5011-9995-35e14acf4fcf' => [
+        'Maybe that is why kids like Dumbledore: because he is funny rather than a miserable old sod with a long white beard.',
+        'Michael Gambon',
     ],
-    'be174004-617f-5bbb-856c-256219b2c758' => [
-        'Architecture should speak of its time and place, but yearn for timelessness.',
-        'Frank Gehry',
+    '8f0d869c-4d68-5410-87bc-f3f54e5960a7' => [
+        'If you quit ONCE it becomes a habit.Never quit!!!',
+        'Michael Jordan',
     ],
-    '9f58dbdf-7d9c-51b3-81a7-b98d76b5d9e9' => [
-        'Love is a strange emotion. It is ever evolving. Lust is transient. With time, one realizes that love and togetherness are two different things. Very few people are lucky enough to experience the two emotions simultaneously.',
-        'Randeep Hooda',
+    '1626f95b-f2a9-5969-bb3d-4151ad2f57b0' => [
+        'For marriage to be a success, every woman and every man should have her and his own bathroom. The end.',
+        'Catherine Zeta-Jones',
     ],
-    'e856fb20-ee6c-5034-b66b-9ca5b46c0035' => [
-        'When we are sure that we are on the right road there is no need to plan our journey too far ahead. No need to burden ourselves with doubts and fears as to the obstacles that may bar our progress. We cannot take more than one step at a time.',
-        'Orison Swett Marden',
+    '27b8d0ec-0b5a-5b50-8aa4-c22b73b8e046' => [
+        'I believe a leaf of grass is no less than the journey-work of the stars.',
+        'Walt Whitman',
     ],
-    '7638f38f-35b8-538a-be0b-96a15575ca75' => [
-        'The greatest discovery of all time is that a person can change his future by merely changing his attitude.',
-        'Oprah Winfrey',
+    '6ea62632-78c5-510a-91be-9e933bb88440' => [
+        'The best way for guys to communicate is just don\'t talk to each other for nine hours. That\'s why I like long motorcycle rides. It\'s a great way for guys to socialize and not socialize.',
+        'Justin Theroux',
     ],
-    '536f5ab0-9b6d-5ea3-8e00-3f58a6cff001' => [
-        'I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.',
-        'Lao Tzu',
+    'f19f0505-a573-504a-bbd4-967cfc508905' => [
+        'Reading is a basic tool in the living of a good life.',
+        'Juliette Binoche',
     ],
-    '6fd1d519-f483-5e5e-8a48-7d3efda992e6' => [
-        'Colleagues are a wonderful thing - but mentors, that\'s where the real work gets done.',
-        'Junot Diaz',
+    '719b2ffb-fffe-551a-8b42-2f31f76baa40' => [
+        'On long haul flights I always drink loads and loads of water and eat light and healthy food.',
+        'Lisa Snowdon',
     ],
-    'af6fde5e-123d-5afd-acbb-7142cd9df548' => [
-        'Spirituality is not a formula; it is not a test. It is a relationship. Spirituality is not about competency; it is about intimacy. Spirituality is not about perfection; it is about connection. The way of the spiritual life begins where we are now in the mess of our lives.',
-        'Steve Buyer',
+    '9bd388d0-8642-52af-999e-dcdd7d949038' => [
+        'Through a long and painful process, I\'ve learned that happiness is an inside job - not based on anything or anyone in the outer material world. I\'ve become a different and better person - not perfect, but still a work in progress.',
+        'Alana Stewart',
     ],
-    '17c976ce-2024-5de1-ba4e-003866b38c6a' => [
-        'Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.',
+    '4302de82-a24e-5583-8229-bad11455b4e5' => [
+        'There is no life to be found in violence. Every act of violence brings us closer to death. Whether it\'s the mundane violence we do to our bodies by overeating toxic food or drink or the extreme violence of child abuse, domestic warfare, life-threatening poverty, addiction, or state terrorism.',
+        'Amelia Earhart',
+    ],
+    'dddaf01a-5df9-562e-8730-2dc2e3f2fd03' => [
+        'We awaken in others the same attitude of mind we hold toward them.',
+        'Elbert Hubbard',
+    ],
+    '876726b5-2b3e-50cd-b8e7-4b6cdd95c507' => [
+        'Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don\'t quit.',
+        'Conrad Hilton',
+    ],
+    '6de8f983-9870-5ff9-9be7-917b4fab41c1' => [
+        'I keep my beauty regimen as natural as possible. I wash my face four times a day. In the beginning of the day, I use an exfoliating cleanser made of besan, turmeric and sandalwood. I drink lots of water and avoid oily food. I use only The Body Shop products on my face, as they use the least amount of chemicals.',
+        'Tena Desae',
+    ],
+    '9ecfc638-4631-50fc-84e2-1174cb41e2be' => [
+        'The truth is you don\'t know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.',
+        'Nelson Mandela',
+    ],
+    '485df078-61f1-5f69-81ab-ae96b767468c' => [
+        'What I always think about when I think about \'Girls\' is Lena being in a scene where she\'s very vulnerable, possibly directing, acting, and she\'s probably written the dialogue. It\'s 2 in the morning. Everyone\'s tired. Everyone\'s grumpy. And she has a smile on her face and kindness for everyone who interacts with her.',
+        'Jennifer Konner',
+    ],
+    'e619d8e4-f4e7-5d8f-bad6-48e4061f4d1e' => [
+        'Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.',
+        'Napoleon Hill',
+    ],
+    '52baea5a-7878-50e5-adfd-eb6dfda9db66' => [
+        "Don\u{92}t settle. Don\u{92}t finish crappy books. If you don\u{92}t like the menu, leave the restaurant. If you\u{92}re not on the right path, get off it.",
+        'Chris Brogan',
+    ],
+    '99425e31-14c3-5f1d-9cfb-75d09740bad4' => [
+        'Sometimes you just want to get away and be normal for a few days. It\'s a treat to travel without your racket bag.',
+        'Eugenie Bouchard',
+    ],
+    'e503d4fb-9bda-527a-a93c-efb89a5f8488' => [
+        'Scouting rises within you and inspires you to put forth your best.',
+        'Juliette Gordon Low',
+    ],
+    'c54e5776-b3a0-55f2-83e7-3d3ce0925242' => [
+        'Art is not a study of positive reality, it is the seeking for ideal truth.',
         'John Ruskin',
     ],
-    '619588d7-b828-5c58-bce9-fe4b57151315' => [
-        'Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.',
-        'Buddha',
+    '0953c70c-6708-58c4-b6c1-34033f10aa95' => [
+        '\'Chef\' doesn\'t mean that you\'re the best cook, it simply means \'boss.\'',
+        'Tom Colicchio',
     ],
-    'fba0bd75-d5c2-5442-b3c5-c4ae21b8bc8b' => [
-        'The greatest achievement was at first and for a time a dream. The oak sleeps in the acorn, the bird waits in the egg, and in the highest vision of the soul a waking angel stirs. Dreams are the seedlings of realities.',
-        'James Allen',
+    '0e251ef1-58c5-5ece-a695-7271021e66b8' => [
+        'I like to smile. I smile even when I\'m nervous since it calms me down and shows my friendliness.',
+        'Yani Tseng',
     ],
-    '6c71a0af-1780-5514-9b56-4d9658ad89ee' => [
-        'No man has received from nature the right to command his fellow human beings.',
-        'Denis Diderot',
+    '67ff46f7-077b-5c84-8d42-f0096d0ea992' => [
+        'You know, real life doesn\'t just suddenly resolve itself. You have to keep working at it. Democracy, marriage, friendship. You can\'t just say, \'She\'s my best friend.\' That\'s not a given, it\'s a process.',
+        'Viggo Mortensen',
     ],
-    'c8f751ff-98c9-53d3-99b1-1cb5c55b59d6' => [
-        'There is a brief moment when all there is in a man\'s mind and soul and spirit is reflected through his eyes, his hands, his attitude. This is the moment to record.',
-        'Yousuf Karsh',
+    '083e1ab5-b008-58e9-8d3f-44bfaa4acc70' => [
+        'One thing I didn\'t understand in life was that I had $100,000,000 in the bank and I couldn\'t buy happiness. I had everything: mansions, yachts, Ferraris, Lamborghinis, but I was depressed. I didn\'t know where I fitted in. But then I found family and friends and I learned the value of life.',
+        'Vanilla Ice',
     ],
-    '85309d0c-fe0e-584f-8e02-6ef55e5472e4' => [
-        'I always said that if I could just find a guy who could chop wood and had a nice smile, it wouldn\'t bother me if he was a thug or an aristocrat, as long as he was a good guy. And I\'ve ended up with an educated thug.',
-        'Sade Adu',
+    '022f344c-44e4-5231-899b-f30a3fd96a9a' => [
+        'I\'m not afraid of storms, for Im learning how to sail my ship.',
+        'Louisa Alcott',
     ],
-    'd2b1d20f-325c-5015-b879-0e85c33504fd' => [
-        'Poetry: the best words in the best order.',
-        'Samuel Taylor Coleridge',
+    '7c137547-09d0-5879-9994-e1247fbf3d00' => [
+        'Life is like an onion. You peel it off one layer at a time, and sometimes you weep.',
+        'Carl Sandburg',
     ],
-    '2a19f0f6-11fa-5a7f-9854-f3ee773fa1cd' => [
-        'It is not fair to ask of others what you are unwilling to do yourself.',
-        'Eleanor Roosevelt',
+    '201bd0b5-b4fa-5c0c-924d-a589ef83081f' => [
+        'I used to wear a lot of red lipstick, and when I got a pimple, I\'d cover it up with eyeliner to turn it into a beauty mark.',
+        'Selma Blair',
     ],
-    '10e1d1dc-90c3-54a8-8013-0b46ae7de064' => [
-        'Success is not the key to happiness. Happiness is the key to success. If you love what you do, you\'ll be successful.',
-        'Tyga',
+    '5aae35c8-72db-51fe-bf26-e1609efa9961' => [
+        'Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.',
+        'Tom Jackson',
     ],
-    '3c04196a-8b4e-557d-b176-182ff93b536c' => [
-        'Do not wait for leaders; do it alone, person to person.',
-        'Mother Teresa',
+    'bbcfc429-fb3f-50c1-9470-45b4bbf8b6a3' => [
+        'To have the chance to see your music be elevated and to have almost universally positive response to that music, makes me feel better every day. I feel more confident and inspired, and that\'s fun.',
+        'John Legend',
     ],
-    '0863acf8-5955-51cf-93e1-f416897c6b81' => [
-        'I enjoy jokes, smiling, and making people smile. I may be a little different, but that\'s OK, who wants to be normal anyway?',
-        'Tim Duncan',
+    'b2b227f1-12b1-5c91-a05f-3f83c81c5fbc' => [
+        'I\'ve shown that if you dream and are willing to work hard, you can achieve your dreams.',
+        'Mo Farah',
     ],
-    'b8bc855e-3ee4-5742-acf2-7ccc14cc7c2a' => [
-        'I was a little doubtful about the propriety of going to the Mammoth Cave without a gentleman escort, but if two ladies travel alone they must have the courage of men.',
-        'Maria Mitchell',
+    'f67f324d-80e6-5269-97eb-0edf96c23c27' => [
+        'Your own resolution to succeed is more important than any other.',
+        'Abraham Lincoln',
     ],
-    '71cd64a9-ab50-5cad-a835-2785e951cbd1' => [
-        'The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other.',
-        'Sammy Davis, Jr.',
+    '0fe67ce4-cb68-5f3f-9651-3340ff4f9c5d' => [
+        'Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.',
+        'Jane Addams',
     ],
-    '477d908f-7763-56c9-a5cd-d2cfc6951e22' => [
-        'People are fighting over how our heartsongs are different. But they don\'t need to be the same. That\'s the beauty. We are a mosaic of gifts. Each of us has our inner beauty no matter how we look.',
-        'Mattie Stepanek',
+    'aa63ec52-5479-5332-8ba4-512fb96bed3a' => [
+        'The only time people dislike gossip is when you gossip about them.',
+        'Will Rogers',
     ],
-    '9f3a04d6-86c5-56b6-b1c8-7ba2ccdfe33a' => [
-        'Who would have thought that a tap-dancing penguin would outpoint James Bond at the box office? And deserve to? Not that there\'s anything wrong with \'Casino Royale.\' But \'Happy Feet\' - written and directed by George Miller - is a complete charmer, even if, in the way of most family fare, it can\'t resist straying into the Inspirational.',
-        'Robert Gottlieb',
+    '6080c136-75e9-5320-b1f8-99fe856dcd03' => [
+        'The culture of a workplace - an organization\'s values, norms and practices - has a huge impact on our happiness and success.',
+        'Adam Grant',
     ],
-    '0f033700-6961-53b6-b28a-36ed8e0ec93f' => [
-        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that\'s why they call it the present.',
-        'Unknown',
+    'cbb1ccb9-db4f-5489-b652-0cab48ff1ece' => [
+        'The best thing about the future is that it only comes one day at a time.',
+        'Abraham Lincoln',
     ],
-    '344e112a-6346-52f4-980b-abdffbbfbfdc' => [
-        'The forest restoration campaign is a war to ameliorate nature.',
-        'Kim Jong-un',
+    'ce4deeb5-d937-564c-a142-cb4ff533793c' => [
+        'Never be ashamed of what you feel. You have the right to feel any emotion that you want, and to do what makes you happy. That\'s my life motto.',
+        'Nelson Mandela',
     ],
-    '51feb604-312d-51a7-a835-694761a7826a' => [
-        'Even when disco went out, I could still make hits. Once I had so much success, every idea became concentrated. I had so much confidence. I knew how the bass should sound, what rhythms would work. The tempos I knew: 110 to 120 BPM. I knew they would dance in the clubs in New York or anywhere.',
-        'Giorgio Moroder',
+    'fa67149b-3a09-548a-8bb1-8e411b0fbe76' => [
+        'There is always room at the top.',
+        'Daniel Webster',
     ],
-    '3932b230-c079-54aa-b3e3-2c10b707c4e4' => [
-        'I\'ve got a pretty iconoclastic attitude about all institutions myself. And I just think the church was corrupted right after Christ was killed.',
-        'Harry Dean Stanton',
+    '94d6e3cd-16c4-5fc3-8481-55109f6e8d90' => [
+        'The fame that goes with wealth and beauty is fleeting and fragile; intellectual superiority is a possession glorious and eternal.',
+        'Sallust',
     ],
-    '847a803d-96f3-50f4-9a9c-20d9f9412384' => [
-        'Happiness is having a large, loving, caring, close-knit family in another city.',
-        'George Burns',
+    'faad7792-bd0a-5213-a308-cf635dde4427' => [
+        'From a small seed a mighty trunk may grow.',
+        'Aeschylus',
     ],
-    'd0bfa49e-2fbe-59f8-86a7-f19f60668a10' => [
-        'I love to prune my roses. That\'s the one thing I really feel I do pretty well. Other things I usually, because I travel so much, leave to my gardeners who know what I love. But I do love to prune them, because you forget everything else. It\'s like if you\'re a painter, you can forget everything else while you\'re doing it.',
-        'Julie Andrews',
+    '13d2be83-e3b8-58ed-ba6a-11c3096a27c9' => [
+        'I have learned that raising children is the single most difficult thing in the world to do. It takes hard work, love, luck, and a lot of energy, and it is the most rewarding experience that you can ever have.',
+        'Janet Reno',
     ],
-    '5369424e-f9be-5646-b2fb-514c10445ff9' => [
-        'My real dream is to have a whole, like, buy a whole piece of land. Imagine, like, a long driveway. Like, a cul de sac-type street, with maybe, like, seven houses. Me be right here. Have my mom be able to be right here. My brother over here. My girl\'s grandmother and family right here. Friends over there. That\'s my real dream.',
-        'J. Cole',
-    ],
-    'a8199954-ccbe-5adf-81f4-b6408aa95b70' => [
-        'Whatever you do, do it with all your might. Work at it, early and late, in season and out of season, not leaving a stone unturned, and never deferring for a single hour that which can be done just as well now.',
-        'P. T. Barnum',
-    ],
-    'c55348d5-0c18-5600-8aa2-a96771227e3b' => [
-        'Let us remember: One book, one pen, one child, and one teacher can change the world.',
-        'Malala Yousafzai',
-    ],
-    'ac0bee13-f77c-5835-bca1-7f8fe4ab1615' => [
-        'We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way.',
-        'Les Brown',
-    ],
-    'b832eb88-b42b-5601-a3ee-b168266c2a7f' => [
-        'Nature\'s great masterpiece, an elephant; the only harmless great thing.',
-        'John Donne',
-    ],
-    '23bcac8e-84af-556d-b2c7-70bc0a621530' => [
-        'If ballots won\'t work, bullets will.',
-        'Malcolm X',
-    ],
-    'ed139677-a593-5dd3-8367-790a340a9d82' => [
-        'In most things success depends on knowing how long it takes to succeed.',
-        'Charles de Montesquieu',
-    ],
-    '52a57c53-1b06-5bc5-8839-14643229c9f8' => [
-        'Joy descends gently upon us like the evening dew, and does not patter down like a hailstorm.',
-        'Jean Paul',
-    ],
-    '41cc675f-6256-5f19-bb39-caeb9ac18d92' => [
-        'My family is everything. I am what I am thanks to my mother, my father, my brother, my sister... because they have given me everything. The education I have is thanks to them.',
-        'Ronaldinho',
-    ],
-    '7b9eb051-5c9e-5460-b5fc-b54d1c8ccb0c' => [
-        'My writing is a combination of three elements. The first is travel: not travel like a tourist, but travel as exploration. The second is reading literature on the subject. The third is reflection.',
-        'Ryszard Kapuscinski',
-    ],
-    '0433c767-dddc-5707-9e8f-22d252368f12' => [
-        'Success is dependent on effort.',
-        'Sophocles',
+    'd1f9477b-dac9-58e2-b80d-4cc42d25406c' => [
+        'At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
+        'Barbara Bush',
     ],
 ];

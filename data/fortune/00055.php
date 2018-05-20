@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '99613ca4-3d19-5311-9fbb-6e21b9187b18' => [
-        'There is never just one thing that leads to success for anyone. I feel it always a combination of passion, dedication, hard work, and being in the right place at the right time.',
-        'Lauren Conrad',
+    'ed139677-a593-5dd3-8367-790a340a9d82' => [
+        'In most things success depends on knowing how long it takes to succeed.',
+        'Charles de Montesquieu',
     ],
-    'a593a0bd-cfae-5d59-b47f-7590c05a1384' => [
-        'President Obama has basically avoided or not done any attempt to intervene in any positive way in the housing market. I think in the financial crisis that\'s been a shame.',
-        'Glenn Hubbard',
+    'c5dbc9b5-7fa3-595d-90fa-2776c23d1cfb' => [
+        'Fortune favours the brave.',
+        'Virgil',
     ],
-    '425168f1-aadb-5b64-b928-7bb5e5c98178' => [
-        'Marvin\'s Motivational Moments actually started as something that was actually therapeutic for me. I would sit up late at night after my wife passed trying to adjust to being alone.',
-        'Marvin Sapp',
+    'eb9a77fa-80dc-56c3-b538-3d3e088494db' => [
+        'Remember even though the outside world might be raining, if you keep on smiling the sun will soon show its face and smile back at you.',
+        'Anna Lee',
     ],
-    'a0461772-f5b9-5d08-8353-c079eaca1102' => [
-        'The sculptor who deals with form seeks to imprison beauty in a marble statue that will withstand the ravages of time during millenniums; but a marble statue is cold and speaks to but a few of the most evolved who are able to infuse the statue with their own life.',
-        'Max Heindel',
+    '8c00e0f8-1015-573c-90e8-553dd44c61a7' => [
+        'I\'m the person friends come to when they want to find the perfect restaurant or boutique hotel on the outskirts of Paris. As opposed to scouring the Internet for a travel guide, wouldn\'t you rather ask the people who are really cool who go there? That\'s what I do.',
+        'Meghan Markle',
     ],
-    '4ada039a-3597-5e65-97f2-01db9e7ba12d' => [
-        'I\'d love to do a comedy. I\'m terrified of comedy. I don\'t think I\'m funny, but I guess that\'s why it\'s so thrilling.',
-        'Jared Padalecki',
+    '75fb2594-9cc1-5d9d-9e7b-34104449c9b0' => [
+        'I have a wonderful make-up crew. They\'re the same people restoring the Statue of Liberty.',
+        'Bob Hope',
     ],
-    'e063d3bb-876a-5867-bf3b-180c82fd3252' => [
-        'Before anything else, preparation is the key to success.',
-        'Alexander Graham Bell',
+    'f6f2c8a9-7364-5199-bd3a-a10d7a21e934' => [
+        'Self-belief and hard work will always earn you success.',
+        'Virat Kohli',
     ],
-    '0e0e9cb8-9802-575e-9a2c-930f20db0c27' => [
-        'There\'s no lotion or potion that will make sales faster and easier for you - unless your potion is hard work.',
-        'Jeffrey Gitomer',
+    '856d7de2-5a43-5435-a42b-6a87738346e2' => [
+        'What the caterpillar calls the end of the world the master calls a butterfly.',
+        'Richard Bach',
     ],
-    '087d6c3d-7ecb-50c3-ad55-8bf72f524f45' => [
-        'It\'s funny... you can make fun of AIDS or Haiti, but if you make fun of some starlet in Hollywood\'s looks? That\'s like the one thing... the line you are not to cross.',
-        'Daniel Tosh',
+    '73a3a601-08e6-5581-81b5-972cf991b48a' => [
+        'Let us change our traditional attitude to the construction of programs. Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.',
+        'Donald Knuth',
     ],
-    '2245d152-ff59-5ff3-8c1c-22b491ba7dfa' => [
-        'Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.',
-        'Orison Marden',
+    'c4384738-ecb3-5e74-9acf-2571a385a70a' => [
+        'When I used to wrestle professionally, I preferred being the bad guy known as \'The Heel;\' you would get to \'work the crowd,\' getting them to hate you and want to see you lose, while the good guy \'Babyface\' would walk in, smile and shake hands with a few kids, and his acting job was done.',
+        'Conan Stevens',
     ],
-    '60685b98-8076-542f-925d-df5d2ded8f8f' => [
-        'There is something in even the darkest situations that we can make a positive in our lives.',
-        'Deborah Norville',
+    'fa89a0fa-8707-5b42-a33e-85213651a40a' => [
+        'My incarceration was actually a positive thing from the beginning. I needed a gimmick to get my act going again, it gave me material.',
+        'Tommy Chong',
     ],
-    '66ccb67a-b80f-5da0-b274-1c3ad72dc85a' => [
-        'When you believe something can be done, really believe, your mind will find ways to do it.',
-        'Dr. David Schwartz',
+    '985b00e9-e16c-5d3f-b1f1-9ad54277bab4' => [
+        'The truth you believe and cling to makes you unavailable to hear anything new.',
+        'Pema Chodron',
     ],
-    'eb5d7560-030a-589e-825c-ed72b0ccbf38' => [
-        'Negotiation means getting the best of your opponent.',
-        'Marvin Gaye',
+    '2a64cb9a-e3fe-5a52-9a57-72b7d8da74a1' => [
+        'The origin of all revolutions and corruption, and the spur and source of all base morals are just two sayings: The First Saying: \'So long as I\'m full, what is it to me if others die of hunger?\' The Second Saying: \'You suffer hardship so that I can live in ease; you work so that I can eat.\'',
+        'Said Nursi',
     ],
-    'dd7b575d-7b09-572d-8a08-19cbeaa27047' => [
-        'I\'ve had a very interesting career. I get to do amazing things and work with amazing people and travel and learn languages - things most people don\'t get the opportunity to do.',
-        'Gwyneth Paltrow',
+    '684872cb-401a-52b4-af6f-9b5e855f6c82' => [
+        'No matter what the recipe, any baker can do wonders in the kitchen with some good ingredients and an upbeat attitude!',
+        'Buddy Valastro',
     ],
-    '7561a443-bb7a-53e1-8b88-35e64ddaa8a2' => [
-        'Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man\'s life is independent. He is born not for the development of the society alone, but for the development of his self.',
-        'Lenny Kravitz',
+    'b37a50c3-ee73-5b0e-a636-13d6aeadd1d0' => [
+        'I would like to see the day when somebody would be appointed surgeon somewhere who had no hands, for the operative part is the least part of the work.',
+        'Harvey Cushing',
     ],
-    'eaff0038-ef17-52e8-bbc0-0b4a1cb92637' => [
-        'With five chances on each hand and one unwavering aim, no boy, however poor, need despair. There is bread and success for every youth under the American flag who has energy and ability to seize his opportunity.',
-        'Orison Swett Marden',
+    'af5d819f-4570-5405-a6f6-704fb77782b9' => [
+        'Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life\'s search for love and wisdom.',
+        'Edgar Cayce',
     ],
-    'ff19e9ec-25f5-5c97-8f34-006a7ec18329' => [
-        'Liturgy is like a strong tree whose beauty is derived from the continuous renewal of its leaves, but whose strength comes from the old trunk, with solid roots in the ground.',
-        'Pope Paul VI',
+    '4ad1ec47-179e-5878-a9e9-ecb80b91c3fb' => [
+        'Having a baby is one of the most wonderful things in your life, as well as the hardest thing in your life.',
+        'Tom Welling',
     ],
-    '1274e70c-8c6c-5130-beec-bf2aec954bbc' => [
-        'I try to look cute all the time.',
-        'Sloane Stephens',
+    '47bbe52b-d1a9-5fba-bc57-0e62ba113fda' => [
+        'A woman of the world is anxious to exhibit her form and shape, whether walking, standing, sitting, or sleeping. Even when represented as a picture, she desires to captivate with the charms of her beauty and, thus, to rob men of their steadfast heart.',
+        'Buddha',
     ],
-    '8116be80-eb2e-5f9f-b6e0-6a5c56f17659' => [
-        'If I have learned anything, it is to keep my wife happy by sending her lavish gifts. Other men can learn from my success and send their wives and girlfriends fresh flowers for birthdays, anniversaries, and of course, Valentine\'s Day.',
-        'Don Rickles',
+    '979806d1-53ad-51e1-91de-e84e01902899' => [
+        'The heart has eyes which the brain knows nothing of.',
+        'Charles Perkhurst',
     ],
-    'c6b0dd71-53bf-505a-a2e0-2922f0cbe77a' => [
-        'When you fail you learn from the mistakes you made and it motivates you to work even harder.',
-        'Natalie Gulbis',
+    '690ff2e0-6e83-58a0-bae3-d32daa5790c0' => [
+        'Effective philanthropy requires a lot of time and creativity - the same kind of focus and skills that building a business requires.',
+        'Bill Gates',
     ],
-    '4ea2eb74-d17c-596f-a30e-d8a820ba40ff' => [
-        'Just what future the Designer of the universe has provided for the souls of men I do not know, I cannot prove. But I find that the whole order of Nature confirms my confidence that, if it is not like our noblest hopes and dreams, it will transcend them.',
-        'Henry Norris Russell',
+    '89eea592-1623-508a-af08-4aa3cf326e7c' => [
+        'A hostility to modernity is shared by ideologies that have nothing else in common - a nostalgia for moral clarity, small-town intimacy, family values, primitive communism, ecological sustainability, communitarian solidarity, or harmonies with the rhythms of nature.',
+        'Steven Pinker',
     ],
-    '9f2a3a83-e632-5981-b979-c2255cf0bb09' => [
-        'That\'s your best friend and your worst enemy - your own brain.',
-        'Fred Durst',
+    'e6776221-a2f5-5698-8e40-7a6a0ec2841e' => [
+        'We would go back and maybe not say that thing to our dad that we said, or maybe be a little nicer to someone who we cared about and had a relationship with when we were young. You know, they\'re subtle things, but we carry those with us forever. And I think that regret and time travel are intrinsically linked to me.',
+        'Colin Trevorrow',
     ],
-    '6399738c-cc2d-58af-93d1-4d3cd7c973b5' => [
-        'Do whatever you do intensely.',
-        'Robert Henri',
+    'cc786690-29de-5bf9-ad75-c6da431cb884' => [
+        'There is definitely something sexy about a girl with an attitude and a pair of leather pants.',
+        'Eliza Dushku',
     ],
-    '0aa4c7d4-3000-52e3-8885-0aca2262392e' => [
-        'Meditation can help us embrace our worries, our fear, our anger; and that is very healing. We let our own natural capacity of healing do the work.',
-        'Thich Nhat Hanh',
+    '9da71f96-37bf-5502-ae49-dc1bbd7d6ef5' => [
+        'His smile is like the silver plate on a coffin.',
+        'John Philpot Curran',
     ],
-    'b4abd7e8-56df-5c33-b4eb-1928b6f85f58' => [
-        'The jealous are possessed by a mad devil and a dull spirit at the same time.',
-        'Johann Kaspar Lavater',
+    '8b365aeb-c8ae-5332-92db-abb95f4cadfc' => [
+        'I find beauty in the grotesque, like most artists.',
+        'Alexander McQueen',
     ],
-    '9509e749-ed84-5da6-8b9b-dd73ed93c865' => [
-        'Although beauty may be in the eye of the beholder, the feeling of being beautiful exists solely in the mind of the beheld.',
-        'Martha Beck',
+    '5bfd889c-05e1-5126-a7fd-b8d6a0b844b6' => [
+        'No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself',
+        'Seneca',
     ],
-    '5d8133d3-333f-5fee-8d76-c2080733adb9' => [
-        'Part of the beauty of the show in a way is that he\'s not perfect, but you can always count on him to do the right thing in a pinch. That\'s why he inspires people and inspires me.',
-        'Stephen Collins',
+    '9fb65a84-f34b-5f7c-8aa3-c7552b24a52e' => [
+        'It is the life of the crystal, the architect of the flake, the fire of the frost, the soul of the sunbeam. This crisp winter air is full of it.',
+        'Martin Lawrence',
     ],
-    '05a1164f-f689-5e07-b29c-b7d92550ec38' => [
-        'Life isn\'t a matter of milestones, but of moments.',
-        'Molly Ringwald',
+    'fc501838-df5a-5b2e-ab3c-97285bd5bd19' => [
+        'Anyone who keeps the ability to see beauty never grows old.',
+        'Franz Kafka',
     ],
-    '1c996f8e-2125-5c1f-bf44-408fd7f974f2' => [
-        'I don\'t think I\'m yet peaceful because I have to struggle every day within myself when I see the suffering of the people of the world, the women and the children. And fury sets in. But I have to transform that and take it out and do something positive with it - but I have to do that sometimes minute to minute.',
-        'Betty Williams',
+    '671aca7f-5799-5fb3-a14f-cc453e86d3c5' => [
+        'Show me a smile, and I\'ll show you one back.',
+        'Vanilla Ice',
     ],
-    '2ce109d4-634d-5c4f-8944-d07f303debfe' => [
-        'I tend to say faith is believing in life, and as I love life, I try to do the best with it, make it as serene and joyous as possible.',
-        'Sandrine Bonnaire',
+    '0f16574f-8c91-54db-a1dd-08b772aa9a7f' => [
+        'We\'ve got fuel prices coming down and good travel numbers coming out, so it\'s not surprising airline stocks are going up.',
+        'Andrew Sullivan',
     ],
-    '8185b493-e661-5112-979c-09a74a7c5776' => [
-        'I always got my work done before playing.',
-        'Edwin Moses',
+    'e5efc775-b5ef-53ad-9d3b-00dfb2fa9a38' => [
+        'Creativity takes courage.',
+        'Henri Matisse',
     ],
-    'ef6e08d8-d228-56bb-ad3d-6a7e35b8c9d8' => [
-        'I get a friend to travel with me... I need somebody to bring me back to who I am. It\'s hard to be alone.',
-        'Leonardo DiCaprio',
+    '305b1f94-0b3b-5c49-a3d8-70ff73de3b2d' => [
+        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it.',
+        'Earl Nightingale',
     ],
-    '53af3e51-150a-5989-932a-6b347a48e10d' => [
-        'The day you decide to do it is your lucky day.',
-        'Japanese proverb',
+    '6b5b8d60-5f71-5bc5-95b6-d2e1aaa357fb' => [
+        'I work a lot of hours, and in this business you really try to keep as busy as you possibly can. Sometimes when you really focus on kids in your free time you lose the husband and wife relationship to some degree. It\'s been a real focus for us to make sure we stay focused on us two.',
+        'Cameron Mathison',
     ],
-    'd2087922-9469-50b0-ac42-d9165078be9a' => [
-        'There is no right time and right place for love... it can happen any time.',
-        'Shah Rukh Khan',
+    '2111ae37-12f7-5950-beea-555ddb8e53ca' => [
+        'An important finding is that by determining the genome sequences of an entire family, one can identify many DNA sequencing errors and thus greatly increase the accuracy of the data. This will ultimately help us understand the role of genetic variations in the diagnosis, treatment, and prevention of disease.',
+        'Leroy Hood',
     ],
-    'a7043ec2-bebb-55e2-a727-2c65e018f8ef' => [
-        'My trade and art is to live.',
-        'Theodore Roosevelt',
+    '4312cad7-7f75-5e1e-b1ea-66ba6b153c74' => [
+        'My mother has had breast cancer twice. And my mother has always been this very positive human being: a glass-half-full type. Like, when she was in treatment and feeling really bad, she would always talk about some nurse that was particularly nice to her.',
+        'Susanne Bier',
     ],
-    'f20ec147-5dee-518a-8d86-c220fbaa5f3b' => [
-        'One advantage of talking to yourself is that you know at least somebody\'s listening.',
-        'Franklin P. Jones',
+    'dc555182-83b7-5d5d-b0b1-73b083e5e0f5' => [
+        'Eighty percent of success is showing up.',
+        'Woody Allen',
     ],
-    'baf205c7-8749-520e-b04d-138d0d6a29e8' => [
-        'Cinderella is not only an iconic character when it comes to beauty, grace and fairytale love, but also shoes.',
-        'Christian Louboutin',
+    '508403b5-4181-59d6-99ac-d39380d712dd' => [
+        'When you\'re curious, you find lots of interesting things to do.',
+        'Walt Disney',
     ],
-    'c4449a0f-b5e7-580f-935c-410be651683f' => [
-        'Racing is the only time I feel whole.',
-        'James Dean',
+    'cd61de77-7027-5191-b219-27c305c09184' => [
+        'Peace of mind is not the absence of conflict from life, but the ability to cope with it.',
+        'Unknown',
     ],
-    'ecf59df5-ea1f-50ad-95d4-419ae3ea4677' => [
-        'Stop doing things that waste time. Don\'t replace time with your family or things that you need to do. I needed to put together two fantasy teams this weekend because that\'s something I enjoy, but I did stop playing Nintendo Wii for hours on end.',
-        'Gary Vaynerchuk',
+    'd7381c41-38d8-5310-86ec-fd43957b5485' => [
+        'I surround myself with positive, productive people of good will and decency.',
+        'Ted Nugent',
     ],
-    'a7950827-392f-5374-8d6b-b25afd4dc76a' => [
-        'Originally, the burden of proof was on physicists to prove that time travel was possible. Now the burden of proof is on physicists to prove there must be a law forbidding time travel.',
-        'Michio Kaku',
+    'b2afd0c6-5978-53f1-bb8f-9bbd60073669' => [
+        'I always want to find the best burger in town.',
+        'Dennis Quaid',
     ],
-    'b36976af-a41c-5dbf-aba0-3ed43d9bb997' => [
-        'Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don\'t give up.',
-        'Anne Lamott',
+    'eded938f-1955-546f-87f6-358904f013f3' => [
+        'Never wear your best trousers when you go out to fight for freedom and truth.',
+        'Henrik Ibsen',
     ],
-    'a62f81ca-0dc1-5b30-b3d3-8e2b2daeeaec' => [
-        'Jazz is a very democratic musical form. It comes out of a communal experience. We take our respective instruments and collectively create a thing of beauty.',
-        'Max Roach',
+    'fada3c6f-c79b-56e7-9265-added3db5ff2' => [
+        'We are all something, but none of us are everything.',
+        'Blaise Pascal',
     ],
-    '793d3bb9-7417-5a0b-87a7-ddee82780cf3' => [
-        'I believe e-courses will eventually change people\'s attitude toward learning. Education will play an increasingly dominant role in people\'s lives. For people of all ages and all geographies.',
-        'Sebastian Thrun',
+    'a5f84a55-27e5-5418-af5c-5c8cdefb7461' => [
+        'Reading was very important to me as a kid. It was very inspirational to me. I went to a school where that wasn\'t encouraged so much, but my parents encouraged that, and it has made me part of who I am.',
+        'Sasha Grey',
     ],
-    '16251846-0bda-5bbf-8340-d76637397410' => [
-        'Truth isn\'t all about what actually happens but more about how what has happened is interpreted.',
-        'Byron Pulsifer',
+    '4042e996-060b-5c23-8318-7507a31b5844' => [
+        'To me, success in the job is setting a vision, guiding an organization through change - which is exactly what I did at Digitas, and I\'m very proud of that - and bringing people together and with you. That, to me, is what it takes to be successful.',
+        'Laura Lang',
     ],
-    '58e645a7-311f-5d22-970c-670d200ac1de' => [
-        'This is no time for ease and comfort. It is time to dare and endure.',
-        'Winston Churchill',
+    '1d039370-6717-5de6-8fde-f68b5be2e885' => [
+        'I greatly fear some of America\'s greatest and most dangerous enemies are such as think themselves her best friends.',
+        'Nathan Hale',
     ],
-    '06199cdc-060b-58ac-8fc8-b0f83806a788' => [
-        'We must not say every mistake is a foolish one.',
-        'Cicero',
+    '28df0fa2-11ae-54a4-8d2c-7c0ba194047d' => [
+        'I had a really wonderful upbringing. We were a tight family. It was wonderful to grow up with so many siblings. We were all just a year or two apart, and we were always so supportive of each other. I learned everything from my older brother and sister and taught it to my younger sisters.',
+        'Joaquin Phoenix',
     ],
-    '96d635ef-90d1-597c-8e77-5a50e43342da' => [
-        'Raising children is an uncertain thing; success is reached only after a life of battle and worry.',
-        'Democritus',
+    '536b7dd1-15e4-53ff-861a-4fbd26928b26' => [
+        'I feel like a tiger right now. There\'s nothing impossible if you get up and work for it.',
+        'Michael Flatley',
     ],
-    '6a374b86-5dcb-5864-80b5-7ba8311f19d8' => [
-        'Deep in their roots, all flowers keep the light.',
-        'Theodore Roethke',
+    'fc7f2cc2-8285-54e5-aa36-2964b04a673d' => [
+        'Time flies over us, but leaves its shadow behind.',
+        'Nathaniel Hawthorne',
     ],
-    '78a33f58-d051-5607-902d-f7d781a7e687' => [
-        'My father worked in agriculture, and I got to travel round remote rural areas with him and see a bit of the landscape and people.',
-        'Giles Foden',
+    'a59f90c5-2ec9-5e52-900e-90db04555e9c' => [
+        'The way positive reinforcement is carried out is more important than the amount.',
+        'B. F. Skinner',
     ],
-    'e5f9c8d7-f8eb-561c-aaa3-7b68cb8047ba' => [
-        'The great thing about cake is it doesn\'t feel like work. You forget about work. Kids, adults, they all get the same look in their eye when they\'re decorating cakes... That\'s the magic right there.',
-        'Duff Goldman',
+    '455a1754-1b19-585b-82db-2fdc69e5aba8' => [
+        'We\'re made for the light of a cave and for twilight. Twilight is the time we see best. When we dim the light down, and the pupil opens, feeling comes out of the eye like touch. Then you really can feel colour, and experience it.',
+        'James Turrell',
     ],
-    'ef305460-9ec5-51f6-afb9-8bcc9953086b' => [
-        'It is not the years in your life but the life in your years that counts.',
-        'Malala Yousafzai',
+    '624f6ea7-a85a-5c33-81eb-bceb314bcd77' => [
+        'There are times as a parent when you realize that your job is not to be the parent you always imagined you\'d be, the parent you always wished you had. Your job is to be the parent your child needs, given the particulars of his or her own life and nature.',
+        'Ayelet Waldman',
     ],
 ];

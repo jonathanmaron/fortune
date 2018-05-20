@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '60631b9d-4b12-5613-b085-9aa838aeaa01' => [
-        'It\'s a funny old world.',
-        'Margaret Thatcher',
+    'c5ed4e19-c3bf-5a91-8c6f-6882022739bf' => [
+        'Success is all about persistence and doing the right thing for the long term.',
+        'Bruce Rauner',
     ],
-    'd6334743-7474-55cc-8391-a21e93e96338' => [
-        'It is easier to live through someone else than to become complete yourself.',
-        'Betty Friedan',
+    'af320faa-978a-5e93-bb3e-444c93e22a38' => [
+        'Americans have always had an ambivalent attitude toward intelligence. When they feel threatened, they want a lot of it, and when they don\'t, they regard the whole thing as somewhat immoral.',
+        'Vernon A. Walters',
     ],
-    '4771dffe-79a5-529e-9127-14a04ee5b9fc' => [
-        'The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature.',
-        'Joseph Campbell',
+    '23bd3ccb-28b8-5bc4-a7fa-55cfcd8e9207' => [
+        'I think people should have fun. And don\'t get so down on yourself. Enjoy life and be the best person you can be.',
+        'Keke Palmer',
     ],
-    '036f68b5-aa30-54c2-8226-3ed89790351e' => [
-        'The measure of success is not whether you have a tough problem to deal with, but whether it is the same problem you had last year.',
-        'John Foster Dulles',
+    '40138c29-5e2d-5926-9c1b-f85fe4dfc388' => [
+        'Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.',
+        'A. P. J. Abdul Kalam',
     ],
-    '0c74434c-b5e2-5c2a-baec-e2d47fd148c3' => [
-        'After working for years in Hollywood where the actors have taken over, it was a real relief to get down there and not only have some children, but also have some actors that had no attitude.',
-        'Phillip Noyce',
+    '0b914db4-c31a-55e8-8099-4be71448051b' => [
+        'It\'s a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient.',
+        'Daniel Kahneman',
     ],
-    'cd282e2c-0171-51e1-b39c-b959dda30457' => [
-        'The harder the conflict, the more glorious the triumph.',
-        'Thomas Paine',
+    'a27cce75-5553-552b-b78e-ba2e38c77aff' => [
+        'All you need in this life is ignorance and confidence, and then success is sure',
+        'Mark Twain',
     ],
-    '99422e2d-f503-57f5-8367-2e15ff914e43' => [
-        'When you are grateful - when you can see what you have - you unlock blessings to flow in your life.',
-        'Bob Feller',
+    '7beb245a-7268-56f0-af5c-fe78df9d7aeb' => [
+        'The design process usually starts as a fantasy, with ideas that I dream of and visualize. These ideas become a reality by bringing various ingredients together, from the lifestyle of my bride, her age and sex appeal, to the textures of the finest fabrics and embroideries that we produce in my family factories in India.',
+        'Naeem Khan',
     ],
-    '24d3dc4b-9ac7-531b-8aee-3b37ccb11459' => [
-        'An optimist is a fellow who believes a housefly is looking for a way to get out.',
-        'George Jean Nathan',
+    'ff79a4d8-6e67-5136-83d5-fd1641618f3f' => [
+        'Meaning is not what you start with but what you end up with.',
+        'Peter Elbow',
     ],
-    '796e69fd-b10c-592f-bb11-98efca8cf8ad' => [
-        'I\'m living on this positive mind frame where I\'m only attracting positive things. I\'m controlling my energy, I\'m eating right, I\'m meditating, I\'m in the gym, I\'m doing all this stuff I\'m supposed to be doing. I\'m past that young, immature way of thinking. I just want to be great.',
-        'Shameik Moore',
+    '486165ba-c8bc-561e-9474-a0f450645b60' => [
+        'I am trying to show the world that we are all human beings and that color is not important. What is important is the quality of our work.',
+        'Alvin Ailey',
     ],
-    '7a537d1c-a048-5155-af33-9aa78310647c' => [
-        'I believe to be a leader is to enable others to embrace a vision, initiative or assignment in a way that they feel a sense of purpose, ownership, personal engagement, and common cause. I was very affected as a child by my father\'s positive example as a civic leader who inspired others to share his commitment to improving our community.',
-        'Melanne Verveer',
+    'f0285ed4-d81e-5dc0-9165-8325ad8e3aa8' => [
+        'Beauty awakens the soul to act.',
+        'Dante Alighieri',
     ],
-    '15deb5fe-319f-57cc-a123-8562b73b03f9' => [
-        'If something is shocking without being funny it\'s hard to justify.',
-        'Seth MacFarlane',
+    '26540da8-109a-576d-80a6-a07cef39cc68' => [
+        'Winning the World Cup was very special because it meant so much to so many. One thing about our country that is constant is cricket. The smile it brought to people\'s faces was the thing I shall always remember. It reminded me, reminded all of us, of our importance to the lives of the Indian people less lucky than we are.',
+        'Mahendra Singh Dhoni',
     ],
-    '331f7010-69c1-5ef9-8697-da8e5d25882f' => [
-        'True health infuses positive energy in the mind, body and spirit; it is a main focus in my life.',
-        'Maximillian Degenerez',
+    '46571d2a-96bd-5241-ac2e-570cba899d82' => [
+        'Just remember: to be grateful and thank the people who are there and support you along the way is a great start to success.',
+        'Meryl Davis',
     ],
-    '62a16cef-c3e7-5d68-9c7b-927337957e9c' => [
-        'In France, I guess there\'s something like a tyranny in mentalities - we accept success badly, beauty, money. People are certainly envious, and this creates negative energy. This is annoying. I suffered a great deal at one time. I had to fight harder than others. Add to that my marriage to Polanski.',
-        'Emmanuelle Seigner',
+    '890a1333-d8d6-5fa8-941c-dbcd9e0dad74' => [
+        'YouTube and other sites will bring together all the diverse media which matters to you, from videos of family and friends to news, music, sports, cooking and much, much more.',
+        'Chad Hurley',
     ],
-    '8fb03f84-52e1-5af3-974f-6e9b139e8c0c' => [
-        'I want to touch the heart of the world and make it smile.',
-        'Charles de Lint',
+    'd5851be0-d2cd-5af1-8ad3-827efe53fd6a' => [
+        'Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.',
+        'Matt Zotti',
     ],
-    'e97aa64b-0415-5f03-8bfa-dc6e06e58988' => [
-        'Nations need to understand their own strengths and weaknesses, and India\'s tradition of dissent and democratic debate is a positive aspect.',
-        'Rosabeth Moss Kanter',
+    '3c322744-1b8d-5503-be8a-d2f55d977bc7' => [
+        'Christmas is not a time nor a season, but a state of mind. To cherish peace and goodwill, to be plenteous in mercy, is to have the real spirit of Christmas.',
+        'Calvin Coolidge',
     ],
-    'ce7c26f1-67b9-5d5b-b978-dbd6682097a5' => [
-        'When you go through a negative situation, don\'t think about it. Make it positive.',
-        'Yoko Ono',
+    '11c51278-0e1b-5d0d-8d49-1b201ed33a7a' => [
+        'Just know that I was once considered just a dreamer... Then I paid my dues and turned so many doubters to believers...',
+        'Big K.R.I.T.',
     ],
-    '3c56ed1f-2553-5349-a6c8-fd820cccb532' => [
-        'Actors are supposed to be these runaways that get in a covered wagon filled with hats and tambourines and go from town to town making people smile.',
-        'John Cho',
+    'f329c8f9-28c4-5170-8883-0f2053d2abc2' => [
+        'When in doubt, take more time.',
+        'John Zimmerman',
     ],
-    '971a4b98-5f04-54b3-85b4-3916ae9779d8' => [
-        'What\'s amazing is, if young people understood how doing well in school makes the rest of their life so much interesting, they would be more motivated. It\'s so far away in time that they can\'t appreciate what it means for their whole life.',
-        'Bill Gates',
+    '41631dfc-bbd4-52ca-9214-0484b2ff6f6d' => [
+        'Gratitude is not only the greatest of virtues, but the paren\'t of all the others.',
+        'Cicero',
     ],
-    'd2471523-2cad-503d-8906-84df02094560' => [
-        'I like to spend as much time with my friends and family as possible.',
-        'Zara Larsson',
+    'becc34a6-5fb1-5152-a608-8726e0f9a63a' => [
+        'You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.',
+        'Abraham Lincoln',
     ],
-    '70d9b87e-55cf-5160-8e2f-b84b0bbd44e9' => [
-        'Everything I\'ve done in my career is a result of growing up in rural Oklahoma, because if I hadn\'t had the training from Mama and Daddy to work hard, to do what I\'m told, to take directions, to mind and to do a good job at anything I set out to do, then I wouldn\'t be where I am today.',
-        'Reba McEntire',
+    '52b69d4c-7bca-5e69-b942-6ecb4d52484e' => [
+        'I\'ve found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often.',
+        'Brian Tracy',
     ],
-    '05c08a6c-ef94-5d4f-8360-e545533fb056' => [
-        'If I buy a Fiat Uno, I\'ll read that, for a man like me, a Ferrari was more suitable. If instead I buy a Ferrari, they\'ll write that I should have kept my feet on the ground and bought a Fiat. If I smile, I\'m not serious. If I don\'t smile, I\'m a rich sulker that doesn\'t enjoy having the most beautiful job in the world.',
-        'Mario Balotelli',
+    '947fd598-97e5-536f-80a1-66a38b983e86' => [
+        'Knowledge has three degrees, opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.',
+        'Plotinus',
     ],
-    'd2cd9617-bf08-5134-87cb-f5b856f829fd' => [
-        'Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.',
-        'Michael Jackson',
+    '0441e76d-1df2-5d53-b8e0-be5865023680' => [
+        'The biggest adventure you can ever take is to live the life of your dreams.',
+        'Oprah Winfrey',
     ],
-    'de79469c-c07f-50a4-90b2-68c96efc8a90' => [
-        'Above all, don\'t fear difficult moments. The best comes from them.',
-        'Rita Levi-Montalcini',
+    '98f797a1-50b4-5d57-b4bc-9da9d0d2113a' => [
+        'Wonder rather than doubt is the root of all knowledge.',
+        'Abraham Joshua Heschel',
     ],
-    '5d93cf41-38bf-5263-91e7-8f0b51b0632c' => [
-        'Believe you can and you\'re halfway there.',
-        'Theodore Roosevelt',
+    '620a0351-289d-5f01-98a1-523f10befab2' => [
+        'A work well begun is half-ended.',
+        'Plato',
     ],
-    'b5bcb721-090f-5e8f-a1de-1f79cc2329d4' => [
-        'Many hands make light work.',
-        'John Heywood',
+    'a45a6591-a56b-5b3f-bd20-ee51e58dea1a' => [
+        'The definition of success to me is not necessarily a price tag, not fame, but having a good life, and being able to say I did the right thing at the end of the day.',
+        'Jeremy Luke',
     ],
-    '94a49c11-611d-5000-b452-d37b60e32de3' => [
-        'I personally think my sister is so stunning without makeup. And she doesn\'t wear that much makeup because she has the best skin color.',
-        'Gigi Hadid',
+    '79137a9b-6557-5f2e-b04c-7d84e73331df' => [
+        'The beauty of diversification is it\'s about as close as you can get to a free lunch in investing.',
+        'Barry Ritholtz',
     ],
-    'e23cfa81-449f-5ff3-a9bb-ff1fb71ce0a8' => [
-        'Conduct is three-fourths of our life and its largest concern.',
-        'Ralph Waldo Emerson',
+    '55744c30-666c-50f3-b8b7-00e4faca28e1' => [
+        'In separateness lies the world\'s great misery, in compassion lies the world\'s true strength.',
+        'Buddha',
     ],
-    '92e42447-0701-5eb8-8f10-f1b5049ddf98' => [
-        'I heard that people were really interested in the new haircut, which I think is so funny. Great haircut, I really like it. It goes great with the time period. And I was super, super, super-happy to have my bangs swept to the side rather than straight in front of me, which I dealt with for three seasons. I\'m very, very much done with that.',
-        'Elisabeth Moss',
+    '32c14dda-da2d-5ed2-affb-e0674a777a4e' => [
+        'My second husband believed I had such a fickle attitude to friendship that each Friday he would update the list of my \'Top Ten\' friends in the manner of a Top Of The Pops chart countdown.',
+        'Julie Burchill',
     ],
-    '0188532e-5998-51ed-9453-5e5b04a607ff' => [
-        'I am able to really enjoy the positive attention I receive.',
-        'Doutzen Kroes',
+    '93d7488b-7255-510d-9eda-c7887f807485' => [
+        'In order to succeed, your desire for success should be greater than your fear of failure.',
+        'Bill Cosby',
     ],
-    '8cf35a12-7098-5662-8d34-1eb30a640c51' => [
-        'Love is our true destiny. We do not find the meaning of life by ourselves alone - we find it with another.',
-        'Christopher Reeve',
+    '1820850e-d56d-5ed9-b11a-c23b224676b8' => [
+        'I\'m a misplaced American, but don\'t know where I was misplaced.',
+        'Ruby Wax',
     ],
-    '16c07603-d033-5c44-a231-8fc3b002eb47' => [
-        'The ever increasing spiritual damage caused by life within the big city will make this hunger practically uncontrollable when we build here on this the landscape of our homeland we must be clear that we will protect its beauty.',
-        'Fritz Todt',
+    'b1ef7b2e-b717-5624-8ebd-939f8fd23663' => [
+        'Good fiction is about asserting the beauties of the world, inventing a new, positive thing. Where am I going to get that? And it should be original; it should not be cliched. So the way I looked at history was not to accuse it of failure.',
+        'Orhan Pamuk',
     ],
-    '3f2b3648-a8b5-5259-904a-8d34bd430b90' => [
-        'Many business leaders are seeing the relationship between long term success and sustainability, and that\'s very heartening.',
-        'Jacqueline Novogratz',
+    'a13b8444-35b3-558e-8c06-351f29b9bee7' => [
+        'You have power over your mind, not outside events. Realize this, and you will find strength.',
+        'Marcus Aurelius',
     ],
-    '303e007a-ffd8-5e71-b94e-a15299dcb67c' => [
-        'To these ideals which were instilled in me when I was a youth, I attribute in a large degree the success that was mine on the bicycle tracks of the world.',
-        'Major Taylor',
+    '8f1f83be-76c7-5adf-8d02-2d20d6744894' => [
+        'Earn your success based on service to others, not at the expense of others.',
+        'H. Jackson Brown, Jr.',
     ],
-    '3f614b0b-3a01-58b7-99ef-cddeb277f5c7' => [
-        'I think the word \'pregnant\' is funny.',
-        'Tracy Morgan',
+    '05816174-0d49-539a-927b-40bc0f8007ff' => [
+        'Anyone who doesn\'t take truth seriously in small matters cannot be trusted in large ones either.',
+        'Albert Einstein',
     ],
-    '3fa82fb1-a281-52dd-b2cc-74cdae33d509' => [
-        'When your time comes to die, be not like those whose hearts are filled with fear of death, so that when their time comes they weep and pray for a little more time to live their lives over again in a different way. Sing your death song, and die like a hero going home.',
-        'Tecumseh',
+    'a6e14fb5-c1dc-5dd9-831a-8736b31168a4' => [
+        'Do not give your attention to what others do or fail to do; give it to what you do or fail to do.',
+        'Dhammapada',
     ],
-    '61fd53c4-8394-587e-91eb-e3529ab665eb' => [
-        'However difficult life may seem, there is always something you can do and succeed at.',
-        'Stephen Hawking',
+    'ff19e9ec-25f5-5c97-8f34-006a7ec18329' => [
+        'Liturgy is like a strong tree whose beauty is derived from the continuous renewal of its leaves, but whose strength comes from the old trunk, with solid roots in the ground.',
+        'Pope Paul VI',
     ],
-    'f37832cd-809b-5c15-a064-0b1cf31bb963' => [
-        'It\'s wonderful to learn about new cultures and to be able to travel easily to so many countries.',
-        'Stephen A. Schwarzman',
+    'b65e327e-818f-5cbf-ae47-de76fad1ac42' => [
+        'O sweet, delusive Noon, Which the morning climbs to find, O moment sped too soon, And morning left behind.',
+        'Helen Hunt Jackson',
     ],
-    '16097360-8a96-5e04-9de3-2682ef9d9c2d' => [
-        'It\'s funny how a chubby kid can just be having fun, and people call it entertainment!',
-        'Garth Brooks',
+    'e09e52b5-1d59-5115-afb5-4c76bd119700' => [
+        'Today, we have private airline companies, but if you take a look at a Boeing plane next time you travel, you\'ll see that you are basically taking a ride on a modified bomber.',
+        'Noam Chomsky',
     ],
-    '527dadc4-3b12-5d8e-bd83-793f4d0b22d6' => [
-        'My mum is the funniest and sweetest person I know; my sister\'s like my best friend, so it\'s great having them around.',
-        'Jacob Whitesides',
+    'b9427ee7-1df9-5b81-9989-c0916635b983' => [
+        'If you hire people just because they can do a job, they\'ll work for your money. But if you hire people who believe what you believe, they\'ll work for you with blood, sweat, and tears.',
+        'Simon Sinek',
     ],
-    'bf0eb6ea-2c0c-56b3-a783-3a80b2982566' => [
-        'Wherever we go, across the Pacific or Atlantic, we meet, not similarity so much as \'the bizarre\'. Things astonish us, when we travel, that surprise nobody else.',
-        'Mary Ritter Beard',
+    '3ffe8a22-1329-571c-ba8e-d28c44b153f6' => [
+        'We must advertise to U.S. business that we are there, that our attitude has changed, and that we care. When we are asked to help, we have to perform and provide the right advice.',
+        'Lawrence Eagleburger',
     ],
-    'ccff66c0-5165-5a8b-a2ac-0aa9386c4485' => [
-        'If your actions inspire others to dream more, learn more, do more and become more, you are a leader.',
-        'John Quincy Adams',
+    '0474f193-70f9-50aa-a484-8ee26df23888' => [
+        'If you tell the truth, you don\'t have to remember anything',
+        'Mark Twain',
     ],
-    'ab7e8e6c-5d93-5157-9aee-e7a339033c1f' => [
-        'Life is a series of punches. It presents a lot of challenges. It presents a lot of hardship, but the people that are able to take those punches and able to move forward are the ones that really do have a lot of success and have a lot of joy in their life and have a lot of stories to tell, too.',
-        'Josh Turner',
+    'b1445d71-76ee-5310-9dfb-e175a4f5c0db' => [
+        'I\'m as happy a man as any in the world, for the whole world seems to smile upon me!',
+        'Samuel Smiles',
     ],
-    '3dd37271-437e-5221-b00b-3d73a8e51f38' => [
-        'Laughter is involuntary. If it\'s funny you laugh.',
-        'Tom Lehrer',
+    '7534aa1f-0b90-5057-9a1e-c39f1b697de4' => [
+        'The growth of purposeful travel is a good thing. It can have a positive impact. We should continue to experiment and move along this line.',
+        'Joe Garcia',
     ],
-    '8821e95a-f21d-5460-a62f-fbae658c8ebb' => [
-        'I thought I was going to be killed. The casualties were so heavy, it was just a given. I learned to take each day, each mission, as it came. That\'s an attitude I\'ve carried into my professional life. I take each case, each job, as it comes.',
-        'Elliot Richardson',
+    '08aad9f6-48cf-5af0-aa8c-4a6f594297d7' => [
+        'That\'s a funny thing, fame. People definitely do treat you differently. When you begin to be successful, people say, \'Don\'t go changing.\' Well, that\'s easy to say, but the fact is, you don\'t change at all - other people do.',
+        'Jonathan Rhys Meyers',
     ],
-    '791495c9-a42c-5e26-880a-250e941b85e8' => [
-        'I have my team. Like if you see everyone around me - I have my hair and makeup girl, my assistant. They\'re very calm, they\'re all about positive energy. There\'re no drama queens. Everyone wants everyone else to have a positive experience. There are no agendas. I think it creates a healthy environment and there are no boundaries to cross.',
-        'Fergie',
+    '9cbf8e12-dc1d-5195-866b-4919c564e634' => [
+        'In most professions, if you stay at the office an extra four hours every day, you\'re gonna impress the boss. You\'re gonna get that promotion; you\'re gonna get that raise. You\'re gonna at least have job security. But with acting, if you\'re really ambitious and you have a good work ethic and are really good at your job, it might not really matter.',
+        'Jason Bateman',
     ],
-    '30b3f760-e1a3-5abe-8e0b-d003c812e6fe' => [
-        'Do I like being thought of as attractive? I don\'t know anyone on Earth who doesn\'t, but I do find it funny.',
-        'Benedict Cumberbatch',
+    '827c5a2d-5da3-5bf9-b8a7-806b8dd4aa5d' => [
+        'It\'s important to recognize that forgiveness is more than mere words; it\'s a heart attitude that induces a spiritual transformation.',
+        'Victoria Osteen',
     ],
-    'a078d073-f84b-52d5-a9d1-586321d2086d' => [
-        'Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.',
-        'Charles Schwab',
+    'a80f74c0-1f65-5307-8b93-60251fc53b9d' => [
+        'I\'m fascinated with being able to travel the world via \'Instagram\' and just be somewhere different.',
+        'Mike Krieger',
     ],
-    '1e4365b3-5442-5c2a-82fc-9029a735cf1e' => [
-        'The turning point was when I hit my 30th birthday. I thought, if really want to write, it\'s time to start. I picked up the book How to Write a Novel in 90 Days. The author said to just write three pages a day, and I figured, I can do this. I never got past Page 3 of that book.',
-        'James Rollins',
+    '9c7840ba-c06f-56ae-9bb9-736dd74b3733' => [
+        'A positive attitude can really make dreams come true - it did for me.',
+        'David Bailey',
     ],
-    '1c453499-092f-515e-985c-6eaab144d359' => [
-        'I hope the millions of people I\'ve touched have the optimism and desire to share their goals and hard work and persevere with a positive attitude.',
-        'Michael Jordan',
+    'c79dc23f-ca8a-5b9b-be1e-3fb8dc3fafdd' => [
+        'There are things that you cannot talk to your mother and father about, there are things that you cannot talk to your children about.',
+        'Shirley Knight',
     ],
-    '5bfd889c-05e1-5126-a7fd-b8d6a0b844b6' => [
-        'No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself',
-        'Seneca',
+    '3965cfe9-d697-5610-abc1-51f595c78f2a' => [
+        'Stay true to yourself, yet always be open to learn. Work hard, and never give up on your dreams, even when nobody else believes they can come true but you. These are not cliches but real tools you need no matter what you do in life to stay focused on your path.',
+        'Phillip Sweet',
     ],
 ];

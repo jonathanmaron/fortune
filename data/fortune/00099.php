@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'e0213ffc-082f-57ab-bff3-1859e92abc89' => [
-        'And Fall, with her yeller harvest moon and the hills growin\' brown and golden under a sinkin\' sun.',
-        'Roy Bean',
+    'b6b95b5b-0073-5cb0-8f73-9a3df0496ae4' => [
+        'Robots will harvest, cook, and serve our food. They will work in our factories, drive our cars, and walk our dogs. Like it or not, the age of work is coming to an end.',
+        'Gray Scott',
     ],
-    '9164648a-4c43-5dbb-9499-8d451cd72ec8' => [
-        'I\'m extremely ambitious. I don\'t know why people are afraid to say that. I won\'t sell my soul to the devil, but I do want success and I don\'t think that\'s bad.',
-        'Jada Pinkett Smith',
+    '76c758fc-f757-5dae-ba3e-830042f1dd51' => [
+        'See the positive side, the potential, and make an effort.',
+        'Dalai Lama',
     ],
-    'e2c001b5-ef4e-5f81-8a54-fd36f5c6ef0c' => [
-        'We are such stuff as dreams are made on; and our little life is rounded with a sleep.',
-        'David Petraeus',
+    '04be6fb1-43fe-5ab7-881a-722bbae155b3' => [
+        'Roosevelt\'s declaration that Americans had \'nothing to fear but fear itself\' was a glorious piece of inspirational rhetoric and just as gloriously wrong.',
+        'Russell Baker',
     ],
-    'b8b2ba66-e602-51c8-8e79-0ad4749cd3a8' => [
-        'Perhaps trying to move away from my problems and focus on the positive is the best I can do.',
-        'Jenni Rivera',
-    ],
-    '9993c7b6-8e88-5921-b136-065d72a29839' => [
-        'I like video games, I like tech, I like being positive.',
-        'Jimmy Fallon',
-    ],
-    '2793289a-ad60-5190-a26d-b2fe5e1903c1' => [
-        'Work while you have the light. You are responsible for the talent that has been entrusted to you.',
-        'Henri-Frederic Amiel',
-    ],
-    '49bccbe1-7849-5950-8594-b64be5cd4ede' => [
-        'Cats are the runes of beauty, invincibility, wonder, pride, freedom, coldness, self-sufficiency, and dainty individuality - the qualities of sensitive, enlightened, mentally developed, pagan, cynical, poetic, philosophic, dispassionate, reserved, independent, Nietzschean, unbroken, civilised, master-class men.',
-        'H. P. Lovecraft',
-    ],
-    '5d1ee936-5630-5ad9-b133-79a78e3bd60a' => [
-        'I think everyone goes through chapters in their life and there was a time when I wasn\'t feeling terribly positive about what I was contributing to film, or wasn\'t feeling as if I was going in the direction I wanted and I re-evaluated what I was doing.',
-        'Jude Law',
-    ],
-    '3a7e33aa-e818-56f6-a17c-e2e395f17e31' => [
-        'It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.',
-        'Jessamyn West',
-    ],
-    '036a86b6-ade3-5c90-b671-396adf10a0c1' => [
-        'A beautiful thing is never perfect.',
-        'Unknown',
-    ],
-    '613d1e1f-6d2d-525a-a27f-b8435052ee20' => [
-        'I\'m the only man in the world with a marriage licence made out to whom it may concern.',
-        'Mickey Rooney',
-    ],
-    '79082835-b3bb-53a6-a818-1299149aa0fe' => [
-        'I always thought when I hit 50 years old that\'d be it for the travel. I don\'t have to tell you - you wait at an airport, your flight\'s delayed, get on a 14-hour flight, get off, get stuck in traffic, you get to the hotel and the room service is closed.',
-        'Brian Setzer',
-    ],
-    'd07b3f42-308f-5501-90f9-88522074a2c5' => [
-        'For small business people, less paperwork means higher profits, boosted sales and more time with the family.',
-        'Tony Abbott',
-    ],
-    '9504cbf9-4fde-5775-ba85-d83a1c0db198' => [
-        'The only thing even in this world is the number of hours in a day. The difference in winning or losing is what you do with those hours.',
-        'Woody Hayes',
-    ],
-    '60a6ecef-d680-5a30-83dd-df327656e4ed' => [
-        'Life isn\'t about finding yourself. Life is about creating yourself.',
-        'Bernard Shaw',
-    ],
-    'ec39f1d0-9515-5bbf-8f79-326638c426bb' => [
-        'Everywhere is nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.',
-        'Lucius Annaeus Seneca',
-    ],
-    'c88cba5d-49ba-58af-81cd-e60780fd1e26' => [
-        'The good life is one inspired by love and guided by knowledge.',
-        'John F. Kennedy',
-    ],
-    'b5db5716-a329-574b-88ff-7d2ba3e2619b' => [
-        'Success is stumbling from failure to failure with no loss of enthusiasm.',
-        'Winston Churchill.',
-    ],
-    'a5228adc-da1c-5741-ac1b-d8a5996a995b' => [
-        'It\'s not the style that motivates me, as much as an attitude of openness that I have when I go into a project.',
-        'Herbie Hancock',
-    ],
-    'cc6cebc8-0443-5491-9baf-6ea428ea17cb' => [
-        'The man who has done his level best... is a success, even though the world may write him down a failure.',
-        'B. C. Forbes',
-    ],
-    '8dd949cd-28dc-59a9-a361-55f6ebefcc95' => [
-        'The beauty of dystopia is that it lets us vicariously experience future worlds - but we still have the power to change our own.',
-        'Ally Condie',
-    ],
-    'bcc7517b-3def-58fa-94e0-b78a4917fe82' => [
-        'If at first you don\'t succeed... so much for skydiving.',
-        'Henny Youngman',
-    ],
-    'e12a98be-f37e-552c-90e4-471eeeb58374' => [
-        'Wherever you go, no matter what the weather, always bring your own sunshine.',
-        'Anthony J. D\'Angelo',
-    ],
-    'a33be87b-f744-51a8-943f-c9f2a17924c6' => [
-        'The world is a book, and those who do not travel read only a page.',
-        'Augustinus Sanctus',
-    ],
-    '6b0a036a-731a-5d16-bbc7-c53564a0922e' => [
-        'A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.',
-        'Elbert Hubbard',
-    ],
-    'a90d7b69-ac5e-50fa-b3d8-b0a7becc91ad' => [
-        'Even a smile is a good deed.',
-        'Shari Arison',
-    ],
-    '4bb6ea7d-66a8-53f2-9350-187d9a46c559' => [
-        'Just do what you do best.',
-        'Red Auerbach',
-    ],
-    'f981fe11-7f06-5c49-a714-548ad0a230a6' => [
-        'I\'m full of fears and I do my best to avoid difficulties and any kind of complications. I like everything around me to be clear as crystal and completely calm.',
-        'Alfred Hitchcock',
-    ],
-    '69c45b65-9300-50f7-becb-82fe3e72a669' => [
-        'With renunciation life begins.',
-        'Miles Davis',
-    ],
-    '8b34174a-c051-55cc-8fb9-58fb16e3ef4a' => [
-        'Polka dots can\'t stay alone. When we obliterate nature and our bodies with polka dots, we become part of the unity of our environments.',
-        'Yayoi Kusama',
-    ],
-    '9f37163e-f151-58a7-b51b-a0b0ea78c573' => [
-        'I have always wanted to be a catalyst for bringing about positive change, inspiring others to choose goodness.',
-        'Shari Arison',
-    ],
-    '5d55592d-96cc-51f3-8e3c-77f073991097' => [
-        'I think we pursue positive relationships whether or not they bring us engagement or happiness.',
-        'Martin Seligman',
-    ],
-    '135e4c4a-73ae-50ef-80f8-488ddc2e881d' => [
-        'As a team, you need to come from behind every once in awhile just to do it. Good for the attitude. It makes it exciting. And when everybody knows you have to throw it... that makes it fun too.',
-        'Dan Marino',
-    ],
-    'a2fb9d9b-7373-5c64-8538-10880fae4fa1' => [
-        'All wealth is the product of labor.',
-        'John Locke',
-    ],
-    'ea41bb03-5da9-56b5-9f9d-039f857d5901' => [
-        'When I am putting looks together, I dare myself to make something work. I always look for the most interesting silhouette or something that\'s a little off, but I have to figure it out. I have to make it me. I think that\'s the thrill in fashion.',
-        'Rihanna',
-    ],
-    'f552e0cb-742b-5352-aa88-5a6f515d40d0' => [
-        'I suppose your security is your success and your key to success is your fine palate.',
-        'Gordon Ramsay',
-    ],
-    'e27ae3dc-1df2-59a9-86f6-71d6d140faf2' => [
-        'I no doubt deserved my enemies, but I don\'t believe I deserved my friends.',
-        'Walt Whitman',
-    ],
-    'ed037d9f-e7ad-5e86-b2d3-7987679a4e93' => [
-        'There are more important things in life than winning or losing a game.',
-        'Tim Hetherington',
-    ],
-    '044f7af2-6c98-56a1-a8dd-8f0b2f6a5af4' => [
-        'We\'re a blue-collar band. That\'s how we like to think of ourselves. We come from humble beginnings and still have this attitude of really loving to meet people, shake their hands, and talk with them.',
-        'Rickey Medlocke',
-    ],
-    '61ba9043-7e2e-5bac-8ba9-36806a9d1806' => [
-        'In business, you can have one massive success that earns $50 million overnight, and that\'s it. You\'re successful. End of story. But in the music business, you have to keep on doing it.',
-        'Noel Gallagher',
-    ],
-    '46a4f566-6d7d-5f64-8a35-91f4e2de81cf' => [
-        'I prefer to win titles with the team ahead of individual awards or scoring more goals than anyone else. I\'m more worried about being a good person than being the best football player in the world. When all this is over, what are you left with? When I retire, I hope I am remembered for being a decent guy.',
-        'Lionel Messi',
-    ],
-    'a82912b7-cabc-5b20-8992-61e7475f614b' => [
-        'I think stutterers are funny. And I know it\'s rude and politically incorrect to laugh at stutterers. But I think it is okay because I know why they\'re funny. They make people nervous. People think, when on earth are they going to get the word out, so they start laughing out of their own nervousness.',
-        'James Earl Jones',
-    ],
-    'be04fe70-9ada-54b6-9a28-782e3acfc1d8' => [
-        'I love those who can smile in trouble, who can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but they whose heart is firm, and whose conscience approves their conduct, will pursue their principles unto death.',
-        'Leonardo da Vinci',
-    ],
-    '8762ed97-9a5b-5115-82e6-09a6cbf887f8' => [
-        'Whenever I gaze up at the moon, I feel like I\'m on a time machine. I am back to that precious pinpoint of time, standing on the foreboding - yet beautiful - Sea of Tranquility. I could see our shining blue planet Earth poised in the darkness of space.',
+    '8cc00a93-d5a4-5cb3-9b42-bde6cab9ae30' => [
+        'As we begin to have landings on the moon, we can alternate those with vertical launch of similar crew modules on similar launch vehicles for vertical-launch tourism in space, if you want to call it that... adventure travel.',
         'Buzz Aldrin',
     ],
-    'a8785bbe-9399-53b8-ab8c-2fd03a7348b8' => [
-        'I purposefully try to make films in that grey area, where things are morally ambiguous. It\'s like life: good people do horrible things, and bad people do good things, and there\'s beauty in horror and horror in beauty.',
-        'Harmony Korine',
+    '65822e0d-bb82-5f4c-be65-5aea5fda8701' => [
+        'Step by step and the thing is done.',
+        'Charles Atlas',
     ],
-    '0077bbcf-963c-57a4-a1c3-4bd69ac8bea2' => [
-        'Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.',
-        'Robert C. Solomon',
+    'bdf1efce-1f07-5a07-b92e-e18c05be1cb5' => [
+        'Growing up in a group home, and with an undiagnosed learning disability to boot, the odds of success were not on my side. But when I joined the high school football team, I learned the value of discipline, focus, persistence, and teamwork - all skills that have proven vital to my career as a C.E.O. and social entrepreneur.',
+        'Darell Hammond',
     ],
-    'e2608d49-7c1e-53dd-b5c2-49648b9775d3' => [
-        'Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.',
-        'Byron Pulsifer',
+    'ae06c4b7-ab9f-54a9-9ade-e8e5dbe1b362' => [
+        'Sales are contingent upon the attitude of the salesman - not the attitude of the prospect.',
+        'W. Clement Stone',
     ],
-    '52171d8f-de3a-5c82-90a6-454553e24bdd' => [
-        'I\'m happy to be on a winning team. My individual success, that lasts for a short period of time. The success of being a part of the South, of Atlanta, which is now the hot bed of music, that\'s what\'s gonna last the longest. The fact that I contributed to planting our flag and moving music to my city, that\'s what I\'m most proud of.',
-        'T.I.',
+    'b64d92b9-badc-505c-9b82-969f4eccf8ff' => [
+        'In my mind I\'m a blind man doin\' time.',
+        'Tupac Shakur',
     ],
-    'b3e86b4b-3243-5be8-9002-e3c56e77ee53' => [
-        'No, no, I was only funny on stage, really. I, I, think I was funny as a person toward my classmates when I was very young. You know, when I was a child, up to about the age of 12.',
-        'Rowan Atkinson',
+    'c8fc771b-afa2-5e18-ab67-e41520466589' => [
+        'I believe in the brotherhood of man, all men, but I don\'t believe in brotherhood with anybody who doesn\'t want brotherhood with me. I believe in treating people right, but I\'m not going to waste my time trying to treat somebody right who doesn\'t know how to return the treatment.',
+        'Malcolm X',
     ],
-    '30bdacee-480b-5e14-b8c7-0d01a1026b94' => [
-        'I think it\'s real easy to be famous these days; it\'s not real easy to sustain success.',
-        'Jerry Jeff Walker',
+    '169f3e59-454e-53ff-95ba-fde5667e4fd6' => [
+        'Hollywood\'s a very weird place. I think there\'s less of everything except for attitude.',
+        'Dean Cain',
+    ],
+    '7dedac66-f442-5f1e-864e-9382217b11a0' => [
+        'The greatest sign of success for a teacher... is to be able to say, \'The children are now working as if I did not exist.\'',
+        'Maria Montessori',
+    ],
+    'be562a79-02b2-5c82-a464-2c5e38012674' => [
+        'I miss all of my old friends who have passed away. Sometimes you just don\'t understand why they were taken so soon. I loved and miss Johnny Cash. I miss my old buddy Johnny Paycheck, who happens to be buried in an area of the cemetery that I bought for my family.',
+        'George Jones',
+    ],
+    '4eda0f5b-5bd3-5d29-862c-6f85c3ffeee3' => [
+        'Every day, people serve their neighbors and our nation in many different ways, from helping a child learn and easing the loneliness of those without a family to defending our freedom overseas. It is in this spirit of dedication to others and to our country that I believe service should be broadly and deeply encouraged.',
+        'John McCain',
+    ],
+    'a1cded50-ece4-58ab-a66a-baab48292c0e' => [
+        'If you so choose, even the unexpected setbacks can bring new and positive possibilities. If you so choose, you can find value and fulfillment in every circumstance.',
+        'Ralph Marston',
+    ],
+    '7c5d6c67-bea0-5a16-a7f3-d236b0e97cd3' => [
+        'I want always to be positive.',
+        'Gianni Versace',
+    ],
+    '70c65ff6-fa12-5739-9c55-41f14b29e28d' => [
+        'I think we should all be tolerant of each other and embrace each others\' strengths and differences and uniqueness and beauty.',
+        'Martina McBride',
+    ],
+    '55068685-5348-5378-94a6-5565af2a50af' => [
+        'A dream becomes a goal when action is taken toward its achievement.',
+        'Bo Bennet',
+    ],
+    '55386bd4-9bc2-5d7e-9c45-4a800262c992' => [
+        'Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.',
+        'Lao Tzu',
+    ],
+    '87693092-ced2-5d3f-88f1-31189f76fbbd' => [
+        'I would like to make a building as intellectually driven as it is sculptural and as positive as it would be acceptable to hope.',
+        'Frank Gehry',
+    ],
+    '0a60361a-0fc3-521d-a9d0-ecb17fcb87cc' => [
+        'The survival of liberty in our land increasingly depends on the success of liberty in other lands. The best hope for peace in our world is the expansion of freedom in all the world.',
+        'Bill Frist',
+    ],
+    '61e81bfd-e93d-55a4-bf73-a4fd74d4f385' => [
+        'I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than You, and keep doing what you love. Do what you love, and you will find the way to get it out to the world.',
+        'Judy Collins',
+    ],
+    '2673025c-22ce-535e-a666-370d5de81a68' => [
+        'Acting is a sense of wonder and magic and mystery for me and when life takes me on a new journey, I simply remember the smile my first ballet recital put on my face and I move forward.',
+        'Andrea Thompson',
+    ],
+    'fc2b0c50-4a41-5d89-9e4a-9dcc594d8beb' => [
+        'Surround yourself with good people. People who are going to be honest with you and look out for your best interests.',
+        'Derek Jeter',
+    ],
+    '3bbf42e6-082b-5de5-9bc9-7735396d2989' => [
+        'You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.',
+        'Pearl Buck',
+    ],
+    'b75223ef-f586-53cf-a14a-55aed9061c33' => [
+        'Every now and then, someone will tell me that one of my books has made them laugh out loud. I never believe them because: a.) my books don\'t make me laugh out loud; and b.) sometimes I have said this to a writer, when really what I meant was, \'Your book made me smile appreciatively.\'',
+        'Mary Roach',
+    ],
+    '5acb8528-4f3c-5b6b-8415-4efb6f2a4001' => [
+        'You travel with the hope that something unexpected will happen. It has to do with enjoying being lost and figuring it out and the satisfaction. I always get a little disappointed when I know too well where I\'m going, or when I\'ve lived in a place so long that there\'s no chance I could possibly get lost.',
+        'Andrew Bird',
+    ],
+    '7f95fdaa-6b5c-5726-986b-4914c934b585' => [
+        'What would be ugly in a garden constitutes beauty in a mountain.',
+        'Victor Hugo',
+    ],
+    '6ecb9b04-1d13-5093-a7f7-1a18c199aa2a' => [
+        'To listen well is as powerful a means of communication and influence as to talk well.',
+        'John Marshall',
+    ],
+    '1a4a3800-2203-5c2c-b2a1-025c71283a3c' => [
+        'I travel around the world, experiencing every language, every religion... some places where there\'s just no reason to smile, because their lives are so difficult.',
+        'Lionel Richie',
+    ],
+    'e22f064b-02b1-5691-88be-1c5a822d4cbe' => [
+        'Short as life is, we make it still shorter by the careless waste of time.',
+        'Victor Hugo',
+    ],
+    '185972c2-7440-5f68-86e3-b0ba521570b3' => [
+        'Somebody said something funny to me the other day. They said, \'Wolper, until two weeks ago, your tombstone was going to say, \'David Wolper, the man who produced \'Roots.\' I think the tombstone now has a new inscription. It\'s going to be \'David Wolper, the man who produced the opening ceremony of the 1984 Olympics.\'',
+        'David L. Wolper',
+    ],
+    '8435f08f-e3fa-5cdf-8c1d-b0ddb6a009ae' => [
+        'Why is it that scuba divers and surfers are some of the strongest advocates of ocean conservation? Because they\'ve spent time in and around the ocean, and they\'ve personally seen the beauty, the fragility, and even the degradation of our planet\'s blue heart.',
+        'Sylvia Earle',
+    ],
+    'fcfc9a54-9fb0-5e64-b632-e4288aaa1843' => [
+        'It\'s about enjoying your life. If you have no family, no friends to enjoy it with, it don\'t matter how much you have, how much success you have, how much fame you have, how much money you have, it doesn\'t matter.',
+        'Vanilla Ice',
+    ],
+    '2e857495-6bb3-50df-8f10-e604bbc71242' => [
+        'People say we were an overnight success. It took us a year to be an overnight success.',
+        'James Daly',
+    ],
+    'a77a3734-1aaa-5c1c-ac60-af9345ae1b4a' => [
+        'I think the best way to have confidence is not to allow everyone else\'s insecurities to be your own.',
+        'Jessie J',
+    ],
+    'a855d01d-8f10-5469-bdd0-11ab8f8c413f' => [
+        'Every one in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.',
+        'Maria Montessori',
+    ],
+    'afb5d67b-69d3-5a9b-8da1-0b0861de407f' => [
+        'No one can make you feel inferior without your consent.',
+        'Eleanor Roosevelt',
+    ],
+    'da9fb6a3-b2e1-560a-bed7-a69bf16ca06d' => [
+        'Paintings have a life of their own that derives from the painter\'s soul.',
+        'Rafael Nadal',
+    ],
+    'c6b5a7bc-bb71-57f7-86e2-8725e11cbdaf' => [
+        'Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.',
+        'Mark Zuckerberg',
+    ],
+    '16372239-9d7d-529f-97ff-d0ef939c8497' => [
+        'There is nothing stronger in the world than gentleness.',
+        'Han Suyin',
+    ],
+    '7eaf7b1d-3c43-533d-aa06-8f13badd5310' => [
+        'Let us permit nature to have her way. She understands her business better than we do.',
+        'Michel de Montaigne',
+    ],
+    'fba0bd75-d5c2-5442-b3c5-c4ae21b8bc8b' => [
+        'The greatest achievement was at first and for a time a dream. The oak sleeps in the acorn, the bird waits in the egg, and in the highest vision of the soul a waking angel stirs. Dreams are the seedlings of realities.',
+        'James Allen',
+    ],
+    'cc02fac3-84d8-5985-8dc9-7472fe7f3496' => [
+        'I must govern the clock, not be governed by it.',
+        'Golda Meir',
+    ],
+    'f224f04d-ca12-54e6-af6a-ec1a72af3de4' => [
+        'To some extent, people who are insane are nonconformists, and society and their family wish they would live what appear to be useful lives.',
+        'John Forbes Nash, Jr.',
+    ],
+    '59c8ffc6-6403-519b-ad66-1a9c1429b197' => [
+        'I served at the Pentagon and at Fort Leavenworth - my job was video cameraman, and that allowed me to travel to places like Korea, Japan, Alaska, Germany and the Netherlands.',
+        'Chad Coleman',
+    ],
+    '8e9719ae-5af0-5fcc-973c-020a833ac72c' => [
+        'You wish to put a positive construction on your deeds and words.',
+        'Nigel Rees',
+    ],
+    'ff926448-4e35-5f2b-a39f-590074e2c03e' => [
+        'Death is not the greatest loss in life. The greatest loss is what dies inside us while we live.',
+        'Thomas A. Edison',
+    ],
+    'a69d46d1-2939-54ee-8c86-b57a060697e3' => [
+        'If you don\'t know your worth, if you don\'t know your value, if you don\'t know how fantabulous you are - it\'s going to be hard for other people to see it. Being appreciative of self is beauty to me.',
+        'Kelly Rowland',
+    ],
+    'b70cb9d2-1ca4-512d-ad28-2e91c41fcf45' => [
+        'A prudent question is one half of wisdom.',
+        'Francis Bacon',
+    ],
+    '61bd6f29-a312-5942-8dc3-9bd7979c4f10' => [
+        'The soul that sees beauty may sometimes walk alone.',
+        'Johann Wolfgang von Goethe',
     ],
 ];

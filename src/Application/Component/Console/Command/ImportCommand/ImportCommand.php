@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Console\Command\ImportCommand;
 
 use Application\Component\Filesystem\Filesystem;
@@ -13,51 +15,50 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class ImportCommand extends AbstractCommand
 {
-    protected function configure()
+    protected function configure(): self
     {
         $this->setName('import');
 
         $this->setDescription('Import fortunes from JSON files');
 
-        $name        = 'input-path';
+        $name        = 'path';
         $shortcut    = null;
         $mode        = InputOption::VALUE_REQUIRED;
         $description = 'Path to JSON files containing fortunes';
-        $default     = null;
+        $default     = '';
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
         return $this;
     }
 
-    protected function initialize(InputInterface $input, OutputInterface $output)
+    protected function initialize(InputInterface $input, OutputInterface $output): self
     {
-        $inputPath = $input->getOption('input-path');
+        $inputPath = (string) $input->getOption('path');
+        $inputPath = trim($inputPath);
 
         if (!is_dir($inputPath)) {
-            $message = '--input-path contains an invalid path';
+            $message = '--path contains an invalid path';
             throw new InvalidArgumentException($message);
         }
+
+        $this->setPath(realpath($inputPath));
 
         return $this;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): self
     {
         $filesystem      = new Filesystem();
-        $numberFormatter = new NumberFormatter(null, NumberFormatter::DECIMAL);
+        $numberFormatter = new NumberFormatter(locale_get_default(), NumberFormatter::DECIMAL);
         $fortune         = $this->getFortune();
 
-        $inputPath = $input->getOption('input-path');
-        $inputPath = realpath($inputPath);
-
+        $inputPath  = $this->getPath();
         $outputPath = $fortune->getFortunePath();
-        $outputPath = realpath($outputPath);
 
-        $newFortunes = $this->getNewFortunes($inputPath);
-        $curFortunes = $fortune->getAllFortunes();
-
+        $newFortunes      = $this->getNewFortunes($inputPath);
         $newFortunesCount = count($newFortunes);
+        $curFortunes      = $fortune->getAllFortunes();
         $addFortunesCount = 0;
 
         if (0 === $newFortunesCount) {
@@ -89,12 +90,13 @@ class ImportCommand extends AbstractCommand
 
         $curFortunesCount = count($curFortunes);
 
-        $output->writeln('');
-        $output->writeln(sprintf('Added %s %s. There are %s %s in the database.',
-                                 $numberFormatter->format($addFortunesCount),
-                                 (1 === $addFortunesCount) ? 'fortune' : 'fortunes',
-                                 $numberFormatter->format($curFortunesCount),
-                                 (1 === $curFortunesCount) ? 'fortune' : 'fortunes'));
+        $addFormatted = $numberFormatter->format($addFortunesCount);
+        $curFormatted = $numberFormatter->format($curFortunesCount);
+        $addNoun      = (1 === $addFortunesCount) ? 'fortune' : 'fortunes';
+        $curNoun      = (1 === $curFortunesCount) ? 'fortune' : 'fortunes';
+        $format       = 'Added %s %s. There are %s %s in the database.';
+        $message      = sprintf($format, $addFormatted, $addNoun, $curFormatted, $curNoun);
+        $output->writeln(['', $message]);
 
         return $this;
     }

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'cafd63d8-86b1-5f1e-a953-42b8b7040bd1' => [
-        'Until you value yourself, you won\'t value your time. Until you value your time, you won\'t do anything with it.',
-        'M. Scott Peck',
+    'd913f26f-26a3-5bf1-ac19-eaaaf711120c' => [
+        'Arrogance, ignorance, and incompetence. Not a pretty cocktail of personality traits in the best of situations. No sirree. Not a pretty cocktail in an office-mate and not a pretty cocktail in a head of state. In fact, in a leader, it\'s a lethal cocktail.',
+        'Graydon Carter',
     ],
-    'ce7f81d3-5acd-5b4f-9e15-adaffac744af' => [
-        'Happiness is the reward we get for living to the highest right we know.',
-        'Richard Bach',
+    '3844ac76-3cc7-5d98-b7b7-9c9905189056' => [
+        'So I feel like success is opportunity plus preparation, so work begets work, and as long as you\'re prepared it\'s going to continue to come your way.',
+        'Anthony Mackie',
     ],
-    '5bb82ba5-305c-55cf-9e86-8084cb45e87c' => [
-        'Experience taught me that working families are often just one pay check away from economic disaster. And it showed me first-hand the importance of every family having access to good health care.',
-        'Dave Obey',
+    'd7f10c5f-153b-5d6b-ae8d-5c3050cbee92' => [
+        'I just see too many people retire and say, \'I\'m going to take off, travel, spend time with my family\' and they are just miserable. They end up dying. People who work and stay active, and like what they are doing, live longer.',
+        'Terry Bradshaw',
     ],
-    'ffea8d0f-489d-54f9-a98e-2efa440f77bf' => [
-        'Leadership to me means duty, honor, country. It means character, and it means listening from time to time.',
-        'George W. Bush',
+    '2dbc7c3e-e256-5eae-b0cc-f0a4ef438640' => [
+        'Universal vaccination may well be the greatest success story in medical history.',
+        'Michael Specter',
     ],
-    '57a3528b-4570-54ef-87a2-be0d37c86ff1' => [
-        'If you look at the history of technology over a couple hundred years, it\'s all about time compression and making the globe smaller. It\'s had positive effects, all the ones that we know. So we\'re much less likely to have the kind of terrible misunderstandings that led to World War I, for example.',
-        'Eric Schmidt',
+    '7170c9df-cecc-5a59-bfb9-cea9b607591c' => [
+        'The impediment to action advances action. What stands in the way becomes the way.',
+        'Marcus Aurelius',
     ],
-    '5b00b458-e0e5-5304-8ad6-2e02997f89fa' => [
-        'I haven\'t spoken to my wife in years. I didn\'t want to interrupt her.',
-        'Rodney Dangerfield',
+    'c7b08bf2-f3fc-5d7d-bb0a-153a349a8d66' => [
+        'To live is like to love - all reason is against it, and all healthy instinct for it.',
+        'Kevin Conroy',
     ],
-    'eef38b6b-52d3-52bb-ba50-9f60173046e6' => [
-        'I\'ve reached a point in my life where it\'s the little things that matter... I was always a rebel and probably could have got much farther had I changed my attitude. But when you think about it, I got pretty far without changing attitudes. I\'m happier with that.',
-        'Veronica Lake',
+    '631ad5a2-d360-52bc-b29b-d71c71579a43' => [
+        'Transformation is a process, and as life happens there are tons of ups and downs. It\'s a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.',
+        'Peter Marshall',
     ],
-    'e7306ca3-79a0-5324-9367-e9134c573608' => [
-        'We must learn our limits. We are all something, but none of us are everything.',
-        'Blaise Pascal',
+    '1d659bff-2db7-5f0d-baad-58cc49c8b68f' => [
+        'If I don\'t feel confident about my body, I\'m not going to sit at home and feel sorry for myself and not do something about it. It\'s all about taking action and not being lazy. So you do the work, whether it\'s fitness or whatever. It\'s about getting up, motivating yourself and just doing it.',
+        'Kim Kardashian',
     ],
-    'ce41f9cd-08c8-53c2-927b-cdb6094f1440' => [
-        'Tattoos, for me, are like a timeline of my life. I could look at a certain tattoo, and it reminds of me of a certain time in my life and why I got that tattoo.',
-        'Tyga',
+    '70f72607-956e-5cd2-95e8-32fb880d3834' => [
+        'Faith is love taking the form of aspiration.',
+        'William Ellery Channing',
     ],
-    '5640e131-b07f-5da4-950c-4faa5338af24' => [
-        'The simplest things are often the truest.',
-        'Richard Bach',
+    'ecffbc3b-9982-573b-ac1f-161f992a32ab' => [
+        'I think a lot of times we don\'t pay enough attention to people with a positive attitude because we assume they are naive or stupid or unschooled.',
+        'Amy Adams',
     ],
-    '9ff5ddab-f06a-51c8-9e5a-508bc5bd7c20' => [
-        'What is it to enjoy life? Sit at the beach? No. What it is is that you have to do something, you have be productive, make a contribution to the society, to the family, to yourself.',
-        'Frank Lowy',
+    'ddc60781-1f99-57d2-907e-25de101a6783' => [
+        'Life is not a matter of holding good cards, but of playing a poor hand well.',
+        'Paul Bloom',
     ],
-    '97ad4beb-b068-5800-8208-0d1a00c90fdf' => [
-        'Beauty is the disinterested one, without which the ancient world refused to understand itself, a word which both imperceptibly and yet unmistakably has bid farewell to our new world, a world of interests, leaving it to its own avarice and sadness.',
-        'Hans Urs von Balthasar',
+    '407318b6-3e0c-5683-9f2e-5e62b215cf73' => [
+        'I love funny people, and when I\'m with funny people, or people who are amusing in their weirdness, I love it. Because that to me is funny, as opposed to someone who stops and says, \'Hey let me tell you a joke.\'',
+        'Paul Feig',
     ],
-    '14f6d2aa-2c2f-5311-955d-73d9d2ccf75b' => [
-        'One can ascend to a higher development only by bringing rhythm and repetition into one\'s life. Rhythm holds sway in all nature.',
-        'Rudolf Steiner',
+    'fc5698ef-885b-5b15-a9ce-b96fd8479d0f' => [
+        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased or obscured by mortal power.',
+        'Alexander Hamilton',
     ],
-    '1dec2884-53ee-51e7-9b16-7960ac395adc' => [
-        'There is more to life than increasing its speed.',
-        'Stephen Hawking',
+    '12e98733-d4ff-558e-8021-b370059489d3' => [
+        'You should tell yourself frequently \'I will only react to constructive suggestions.\' This gives you positive ammunition against your own negative thoughts and those of others.',
+        'Jane Roberts',
     ],
-    'f0dcf0a2-cd74-5076-ba31-ddfa2b5c4838' => [
-        'I\'ve always put my family first and that\'s just the way it is.',
-        'Jamie Lee Curtis',
+    'bb6d7ed6-b5bb-57c8-a54c-c4172d1601b3' => [
+        'The attitude of giving a full commitment to the partnership will usually result in getting the same commitment in return.',
+        'Denise Morrison',
     ],
-    'f63332b2-f699-599b-b5c7-0bcec042b470' => [
-        'In particular I want to talk about natural black hair, and how it\'s not just hair. I mean, I\'m interested in hair in sort of a very aesthetic way, just the beauty of hair, but also in a political way: what it says, what it means.',
-        'Chimamanda Ngozi Adichie',
+    '48fc6e8e-f02e-5dc3-884b-0ad4d501aa84' => [
+        'People don\'t know that when there is something running in my mind, I start smiling. If I\'m angry, I smile and blush.',
+        'Hansika Motwani',
     ],
-    '93fce292-c898-5fad-9631-6c428e808e59' => [
-        'Good news doesn\'t necessarily have to be a positive thing. Bringing good news is imparting hope to one\'s fellow man.',
-        'Patti Smith',
+    '1725f2ce-a82a-58da-a6ee-5a8fb7e1d95b' => [
+        'Humility is the true key to success. Successful people lose their way at times. They often embrace and overindulge from the fruits of success. Humility halts this arrogance and self-indulging trap. Humble people share the credit and wealth, remaining focused and hungry to continue the journey of success.',
+        'Rick Pitino',
     ],
-    '11728ff7-ddf2-5296-975f-5e2b53865e04' => [
-        'What you wear in the evening is important for women because it\'s so personal, and it\'s so complicated to get it right. I like trousers for evening, especially when they have that width and attitude to them.',
-        'Stella McCartney',
+    'e13b8b70-4117-56d4-a149-761ed9a6c69f' => [
+        'It\'s funny when people say, \'I don\'t think Julia likes me.\' Honey, if I don\'t like you, you\'re going to know about it.',
+        'Julia Roberts',
     ],
-    '8897445e-b818-59c1-ab02-6086a14d8c7d' => [
-        'Bob Dylan has always sealed his decisions with the unexplainable. His motives for withholding the release of the magnificent \'Basement Tapes\' will be as forever obscure as Brian Wilson\'s reasons for the destruction of the tapes for \'Smile.\'',
-        'Jon Landau',
+    '0cf2e2d4-8916-5355-8ad6-adf981f57485' => [
+        'A champion is someone who gets up when he can\'t.',
+        'Jack Dempsey',
     ],
-    '1b3b65a5-8bd5-5916-926a-33d054eccf77' => [
-        'Truth is a thing immortal and perpetual, and it gives to us a beauty that fades not away in time.',
-        'Frank Norris',
+    '71d7d9fc-1e63-51ca-b210-4fc63e3074da' => [
+        'Imagination is the living power and prime agent of all human perception.',
+        'Samuel Taylor Coleridge',
     ],
-    '4339fe5e-2505-52a5-b05b-a2ec3d942061' => [
-        'The woman with dark hair, wide hips, and a few extra pounds has always been the essence of beauty in Morocco.',
-        'Fatema Mernissi',
+    '96fe4b3c-9748-5560-b71c-66e18cf5dbf3' => [
+        'Despair and disappointment are the parent of countless inspired, inspiring, triumphant creations.',
+        'Rasheed Ogunlaru',
     ],
-    'c154a9cd-cdc4-55bb-9a06-18edb7a1e253' => [
-        'For most inhabitants of the Arab world, the prevailing cultural attitude toward women - fed and encouraged by Wahhabi doctrine, which is based on Bedouin social norms rather than Islamic jurisprudence - often trumps the rights accorded to women by Islam.',
-        'G. Willow Wilson',
+    '7848e046-c142-5f3f-a254-b7a2c0e655a7' => [
+        'As a youngster, my mother and father always drilled into my head having something to fall back on. My father was kind of funny. I\'d score 40 points. I\'d come home and say, \'Look dad, I scored 40.\' He\'d never have a smile on his face. He\'d be like, \'I saw that move you did. What if you\'d hurt your knee?\'',
+        'Shaquille O\'Neal',
     ],
-    '0a0c7218-6a38-5009-9b10-ffe9ccc955ce' => [
-        'I\'ve never found kicks to the groin particularly funny, although recent work in the genre of the buddy movie suggests audience research must prove me wrong.',
-        'Roger Ebert',
+    'de990194-8402-5a23-bdc7-a28346e028c8' => [
+        'Nonsense and beauty have close connections.',
+        'E. M. Forster',
     ],
-    'cd085142-056d-5161-9fb3-3c02e6f2ce14' => [
-        'Some people are fighting much, much more important battles and much bigger battles, and if we get the chance to put a smile on their face for ten seconds, it\'s so worth it.',
-        'Dolph Ziggler',
+    '2e816d05-8f01-5d71-bbb1-b09b2807e99a' => [
+        'I have frequently been questioned, especially by women, of how I could reconcile family life with a scientific career. Well, it has not been easy.',
+        'Marie Curie',
     ],
-    '0f85e2f2-1094-524d-9835-876354ce88b5' => [
-        'I don\'t think \'Cocktail\' was a perfect critical success, but it touched a vein in our culture.',
-        'Elisabeth Shue',
+    '28404918-9f65-584f-85e8-0263751f77cc' => [
+        'To be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it.',
+        'Marcus Aurelius',
     ],
-    '37a52854-2e42-5325-b304-bfbf90150f29' => [
-        'Nothing makes me so happy as to observe nature and to paint what I see.',
-        'Henri Rousseau',
+    'd4012e6e-13fa-53e5-a99c-5fed1484259e' => [
+        'Young people need the hands-on training that comes with a summer job. They need to know how to dress for success and nail job interviews. But most of all, they need mentorship, guidance, and inspiration.',
+        'Hilda Solis',
     ],
-    '9112572f-5d65-54f3-ae88-7a6c205016f6' => [
-        'My attitude when I\'m in Mexico is I wake up in the morning with nothing to do and I go to bed half done. I don\'t wear a watch. When I live down there, I do nothing according to time. I eat when I\'m hungry and go to sleep when I\'m tired.',
-        'Jesse Ventura',
+    '6ae89442-a007-50f2-8d71-cb108ee6aa48' => [
+        'The ultimate aim of the ego is not to see something, but to be something.',
+        'Muhammad Iqbal',
     ],
-    'c63d242d-ef7c-5c1e-9946-572ef17c189b' => [
-        'In chess, there are some extremely beautiful things in the domain of movement, but not in the visual domain. It\'s the imagining of the movement or of the gesture that makes the beauty in this case.',
-        'Marcel Duchamp',
+    '4384bb4f-91a3-513c-a042-5980b04e4d7f' => [
+        'I suppose, in a way, this has become part of my soul. It is a symbol of my life. Whatever I have done that really matters, I\'ve done wearing it. When the time comes, it will be in this that I journey forth. What greater honor could come to an American, and a soldier?',
+        'Douglas MacArthur',
     ],
-    '76bcc16c-674e-528b-802a-398c4ce60549' => [
-        'Leaders aren\'t born they are made. And they are made just like anything else, through hard work. And that\'s the price well have to pay to achieve that goal, or any goal.',
-        'Vince Lombardi',
+    '6bbbd9e3-f2f0-51a4-9f09-252053570437' => [
+        'My father taught me not to overthink things, that nothing will ever be perfect, so just keep moving and do your best.',
+        'Scott Eastwood',
     ],
-    '0cf172ea-c512-5dea-8bbc-114da6f05120' => [
-        'I like to embrace natural beauty. I try to get at least 8 hours of sleep, drinking a lot of water and exercising.',
-        'Tia Mowry',
+    'a49209cf-39c9-5d2d-b572-941a19fba39e' => [
+        'The attitude of physiological psychology to sensations and feelings, considered as psychical elements, is, naturally, the attitude of psychology at large.',
+        'Wilhelm Wundt',
     ],
-    'a8587d00-2930-5025-9a38-b0551a271a95' => [
-        'Luck? I don\'t know anything about luck. I\'ve never banked on it and I\'m afraid of people who do. Luck to me is something else: Hard work - and realizing what is opportunity and what isn\'t.',
-        'Lucille Ball',
+    'e6adf1ac-a72a-5ddd-8775-1930d68760e3' => [
+        'The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.',
+        'Thomas Edison',
     ],
-    '9a922a60-14a6-576d-9d91-1d4ec905993f' => [
-        'My keen love of travel was seldom hindered by Father. He permitted me, even as a mere boy, to visit many cities and pilgrimage spots.',
-        'Paramahansa Yogananda',
+    '823403db-4272-59bb-aa46-5cf03314208d' => [
+        'The strongest people aren\'t always the people who win, but the people who don\'t give up when they lose.',
+        'Ashley Hodgeson',
     ],
-    '5abc31a9-cb37-5d3c-9a8e-48acc4fa6b3f' => [
-        'I grew up as a very sarcastic person. I was always the class clown, and to date girls, I had to be really funny. I was really skinny growing up. I was so thin, I had to run around in the shower to get wet. That kind of thin. So I always had to rely on humor and sarcasm.',
-        'Kurt Fuller',
+    'cea5ffd4-4395-50bb-b68c-86be2785dbeb' => [
+        'Here\'s the thing - I\'m single, I haven\'t been married, I don\'t have kids yet. If I do have kids I would be interested to see them in my life, so here\'s a movie for kids and I\'m in there and I\'m supposed to be kind of funny for kids.',
+        'Garry Shandling',
     ],
-    'f47725ce-4615-59ea-ab54-7ee49c19e59b' => [
-        'What you do on travel holiday is what your memories are based on. People want to do cool stuff, and this is what will shape your entire experience.',
-        'Ruzwana Bashir',
+    '304211d0-c245-5dd8-bda9-dfe3ab10755f' => [
+        'You live in the image you have of the world. Every one of us lives in a different world, with different space and different time.',
+        'Alejandro Jodorowsky',
     ],
-    '8a4531fa-5ef1-5c3c-98dd-0fa43f65bc95' => [
-        'Someone asked me the other day what it feels like to see all my \'old stuff\' reappearing, at long last, in digital. And I had to smile because to me it doesn\'t feel like \'old stuff.\'',
-        'Barbara Hambly',
+    '125c5c30-8de6-5515-abd6-cefcefbfcef3' => [
+        'If I send out positive messages, it will set a chain of healthy thought processes.',
+        'Persis Khambatta',
     ],
-    'befcdb0c-3906-54cb-998e-92459a060797' => [
-        'My imagination completely controls me, and forever feeds the fire that burns with dark red light in my heart by bringing me the best dreams. I\'ve always had a wild imagination, a big heart and a tortured soul so I feel that dark fantasy, love and horror are in my blood.',
-        'Kim Elizabeth',
+    '8d438f76-db4e-52b4-9a15-21a8a53166c0' => [
+        'The keys to brand success are self-definition, transparency, authenticity and accountability.',
+        'Simon Mainwaring',
     ],
-    '5220a2fe-886e-5e13-9bf8-bc1e592206a2' => [
-        'Most of what we call management consists of making it difficult for people to get their work done.',
-        'Peter Drucker',
+    'e9213887-9806-5744-8880-5833b2c6e9eb' => [
+        'I consider myself to have been the bridge between the shotgun and the binoculars in bird watching. Before I came along, the primary way to observe birds was to shoot them and stuff them.',
+        'Roger Tory Peterson',
     ],
-    '765a9e0f-9b0f-59b0-b1b8-b65e9bf1d4aa' => [
-        'A guitar is like an old friend that is there with me.',
-        'B.B. King',
+    '59dc1309-f564-520a-9a85-ad81ea6225fe' => [
+        'Be of service. Whether you make yourself available to a friend or co-worker, or you make time every month to do volunteer work, there is nothing that harvests more of a feeling of empowerment than being of service to someone in need.',
+        'Gillian Anderson',
     ],
-    '2c28d908-121a-51f9-a95c-d0480606b792' => [
-        'The privilege I\'ve had as a curator is not just the discovery of new works... but what I\'ve discovered about myself and what I can offer in the space of an exhibition - to talk about beauty, to talk about power, to talk about ourselves, and to talk and speak to each other.',
-        'Thelma Golden',
+    'b174be71-b10b-5d1f-a592-cea8648077ff' => [
+        'If you don\'t embrace who you are and accept who you are, you won\'t be able to live a happy life.',
+        'Steve Jobs',
     ],
-    '2f5f0ec8-fa84-5e2d-9083-9fdd9d73cb92' => [
-        'The success of any stand-up act comes out of life experience.',
-        'Howie Mandel',
+    'ed0a6c4d-9bee-55fc-a65e-88451a12b76a' => [
+        'Youth smiles without any reason. It is one of its chiefest charms.',
+        'Thomas Gray',
     ],
-    'c629809e-3197-5305-9b8d-4ef4856916d7' => [
-        'One of the best paradoxes of leadership is a leader\'s need to be both stubborn and open-minded. A leader must insist on sticking to the vision and stay on course to the destination. But he must be open-minded during the process.',
-        'Simon Sinek',
+    '9efc60c4-4dc0-5749-8b5b-62ee4669c22a' => [
+        'I love to travel, and I think being whisked away somewhere for a vacation is a pretty amazing date. But, I\'m really into the basic movie and dinner. It\'s not where you are but who you\'re with that really matters.',
+        'Alexandra Daddario',
     ],
-    '6ac2ac9b-2090-596e-92f5-9f5512bc64b3' => [
-        'Our best thoughts come from others.',
-        'Ralph Waldo Emerson',
+    '760a8e9e-7564-56e8-ac17-439a620990df' => [
+        'Failure is the condiment that gives success its flavor.',
+        'Truman Capote',
     ],
-    'cd8a6633-5561-5085-ac88-233cf9e39a01' => [
-        'A sure cure for seasickness is to sit under a tree.',
-        'Spike Milligan',
+    '9db59f56-e288-5991-81f4-4e69dca093fb' => [
+        'As I travel the world, it seems that younger people identify me merely with some of the folklore in the \'Chuck Norris Facts\' - those hyperbolic sayings that elevate my abilities beyond my capabilities. Others view me in light of the character I played in \'Walker, Texas Ranger\' or in one of my 20 tough-guy films.',
+        'Chuck Norris',
     ],
-    'da7cff83-2097-5fb9-9c97-647af1160ca5' => [
-        'When checking in at an airport, no matter how rude the check-in person is to you, always smile and be nice because you don\'t know what kind of day they\'ve had. You are going on holiday and they\'re stuck wherever they are. Be nice to them because they can re-route your baggage to wherever they feel like.',
-        'Ross Kemp',
+    '81c73f05-d044-5eaf-aefa-0a6c79322c0b' => [
+        'I don\'t know what it\'s like to have a typical father figure. He\'s not the dad who\'s going to take me to the beach and go swimming, but he\'s such a motivational person.',
+        'Tiffany Trump',
     ],
-    'a27cce75-5553-552b-b78e-ba2e38c77aff' => [
-        'All you need in this life is ignorance and confidence, and then success is sure',
-        'Mark Twain',
+    'd6e9a1c4-248e-5e32-9c97-b1f2b67dce86' => [
+        'I am prepared for the worst, but hope for the best.',
+        'Benjamin Disraeli',
     ],
-    '61093bb1-e480-545a-bfd9-7aad7a1cc5c0' => [
-        'The meaning of life is contained in every single expression of life. It is present in the infinity of forms and phenomena that exist in all of creation.',
-        'Leonardo da Vinci',
+    'fc77d26d-910f-5c6f-816c-ccb5185e53a2' => [
+        'The family is the first essential cell of human society.',
+        'Pope John XXIII',
     ],
-    '1394bb8a-e0e3-57fe-a8f2-2574dce0f706' => [
-        'Water is life, and clean water means health.',
-        'Lawrence Welk',
+    '28e415d6-b287-5b4a-b2c9-c52969f4ff16' => [
+        'Outside of a dog, a book is a man\'s best friend. Inside of a dog it\'s too dark to read.',
+        'Groucho Marx',
     ],
-    '3d7a2960-431a-56fe-b89e-e3bfa4335960' => [
-        'I reached rock bottom halfway through college. And it was - because of all the pressure that I think we\'re talking about right now - the pressure to learn how to budget, the pressure to really abandon everything that you ever learned. You don\'t have a comfort zone anymore. You don\'t have your neighborhood. You don\'t have your family with you.',
-        'Jidenna',
+    '7832390d-4cca-55f1-9ba0-fccdd262bd55' => [
+        'The destruction of the natural beauty, the ecosystems, and the majesty of mountains affect us in ways we\'re not even aware of. Every time a mountain is beheaded, we chop off a little part of our souls.',
+        'Gloria Reuben',
     ],
-    '497aa976-6382-549c-bfb9-40ecfaafe614' => [
-        'One of the things the \'Tao of Travel\' shows is how unforthcoming most travel writers are, how most travelers are. They don\'t tell you who they were traveling with, and they\'re not very reliable about things that happened to them.',
-        'Paul Theroux',
+    '198093ae-634c-5c7d-9324-b38300eebcc0' => [
+        'Hustle is simple - it\'s doing the work. A lot of people like to talk about it, a lot of people have ideas, but it\'s difficult to actually do the work.',
+        'Troy Carter',
     ],
-    'a8d98027-ef0c-58f8-9c13-c76e3006fc52' => [
-        'The whole secret of a successful life is to find out what is one\'s destiny to do, and then do it.',
-        'Henry Ford',
+    'c2ed4f74-ca01-581d-8f77-d6e57e85aada' => [
+        'Success is about honour, feeling morally calibrated, absence of shame, not what some newspaper defines from an external metric.',
+        'Nassim Nicholas Taleb',
     ],
 ];

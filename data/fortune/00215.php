@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '2bd078f5-006a-5d2a-9fba-390693bfebf7' => [
-        'To insult someone we call him \'bestial. For deliberate cruelty and nature, \'human\' might be the greater insult.',
-        'Isaac Asimov',
+    'bf0eb6ea-2c0c-56b3-a783-3a80b2982566' => [
+        'Wherever we go, across the Pacific or Atlantic, we meet, not similarity so much as \'the bizarre\'. Things astonish us, when we travel, that surprise nobody else.',
+        'Mary Ritter Beard',
     ],
-    'c3d94ad7-5cd1-5b81-9a7f-ef1006d3d268' => [
-        'There\'s so many things that life is, and no matter how many breakthroughs, trials will exist and we\'re going to get through it. Just be strong.',
-        'bell hooks',
+    'fbffbec6-0301-5c5c-8f0e-c404555f75af' => [
+        'The best form of government is that which is most likely to prevent the greatest sum of evil.',
+        'James Monroe',
     ],
-    'f74973c4-c60b-5af9-85d2-043b35a4df8c' => [
-        'Two great talkers will not travel far together.',
-        'George Borrow',
+    '2fda8280-6f77-57d9-ad8f-30bbc1c4c5f7' => [
+        'I was in Italy in 1992 working on magazine articles when I got a call from the Italian travel commission. They asked, would I mind being an escort for an older woman? I told them I don\'t do that kind of work, but then they said it was Julia Child, and I said I\'d be right there.',
+        'Bob Spitz',
     ],
-    'db22182a-54dd-59a2-bfc1-6ef087dbec95' => [
-        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
-        'Pam Brown',
+    '888450e6-52c3-5365-909c-c1fa639f2f93' => [
+        'Sometimes you have got to look at things really positively - without putting your head in the sand, you have got to manage the negatives and keep putting a positive slant on it, keep trying to find answers.',
+        'Brian McDermott',
     ],
-    '5bafc1bf-7b03-56f1-a7df-61ff558dbd69' => [
-        'We would all like to vote for the best man but he is never a candidate.',
-        'Kin Hubbard',
+    '5cf76673-1907-57de-a116-3440e0e0d149' => [
+        'Because after my first year I had a lot of success, took everybody by storm, came back the next year thought it was easy and didn\'t have near the season I had the previous year. It was kind of a wake-up call. And so, life goes on.',
+        'Brett Favre',
     ],
-    '271427b6-1425-5225-8b74-b60f91f6a762' => [
-        'The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they\'re all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn\'t it?',
-        'Dennis C. Blair',
-    ],
-    '5358a376-f30c-5438-a9ef-06622b9b63e8' => [
-        'I always say this about my music, and music in general: Music is like a time capsule. Each album reflects what I\'m going through or what\'s going on in my life at that moment.',
-        'Eminem',
-    ],
-    '01b4f0e9-0236-522e-b36c-644ab680304c' => [
-        'I think the rules will change and I think more and more young women are going to decide that having a family and taking care of a home is not a bad choice, but how do we subsidize it - not necessarily European-style socialism. It\'ll have to be a new more creative, dynamic and local solution.',
-        'Christina Hoff Sommers',
-    ],
-    'c55d4de4-0c7e-5c4c-a2ce-91c599b7ba28' => [
-        'I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.',
-        'Robert Fulghum',
-    ],
-    'c38f9284-4d8c-560c-8b87-fdbeeabbd1f7' => [
-        'I have been up against tough competition all my life. I wouldn\'t know how to get along without it.',
-        'Walt Disney',
-    ],
-    '62f1ac45-7fe8-5279-8b79-96e0a5b60d04' => [
-        'Dedicating some time to meditation is a meaningful expression of caring for yourself that can help you move through the mire of feeling unworthy of recovery. As your mind grows quieter and more spacious, you can begin to see self-defeating thought patterns for what they are, and open up to other, more positive options.',
-        'Sharon Salzberg',
-    ],
-    '9faad9b7-7969-5f76-a231-13ec170c974f' => [
-        'Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.',
-        'Albert Einstein',
-    ],
-    '8b79736d-4816-5a5c-be59-8dafe2eb2c65' => [
-        'The greatest thing about where my life is right now is it\'s very relaxed and chill. I\'m just hanging out, being myself and doing my work.',
-        'Lucas Grabeel',
-    ],
-    '9f05e2b2-698a-5c0d-9dea-d5f4355d8011' => [
-        'The only way to work is to love what you do.',
+    '9e5ad023-5631-5871-aa68-f7bf7e3dbbb0' => [
+        'Of all the inventions of humans, the computer is going to rank near or at the top as history unfolds and we look back. It is the most awesome tool that we have ever invented. I feel incredibly lucky to be at exactly the right place in Silicon Valley, at exactly the right time, historically, where this invention has taken form.',
         'Steve Jobs',
     ],
-    '78dc2ceb-38bc-5ff4-b29b-d1ccbc35008e' => [
-        'The Joker is my favorite villain of all time: You don\'t know his past; you just know what his plans are.',
-        'The Weeknd',
+    '41c37ddf-6577-5a2c-81cc-4d678d949a5c' => [
+        'Brotherhood means laying down your life for somebody, really willing to sacrifice yourself for somebody else.',
+        'Billy Graham',
     ],
-    'd31d6327-ab8b-52da-8fe2-1ad8297a0240' => [
-        'Humans are creatures of habit. If you quit when things get tough, it gets that much easier to quit the next time. On the other hand, if you force yourself to push through it, the grit begins to grow in you.',
-        'Travis Bradberry',
+    'fd110b69-7b07-550b-8a10-9921862c1d85' => [
+        'Time flies really quickly. It feels like only a few months ago that I was traded over here and started my career as a Cub in 2013.',
+        'Jake Arrieta',
     ],
-    'cdba5e75-a3d0-5f2a-8027-b01c0ac35d01' => [
-        'Don\'t think, just do.',
-        'Horace',
+    '82bb2d38-ba4b-5b32-8aa5-70d5bddc4b5b' => [
+        'Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.',
+        'Og Mandino',
     ],
-    'c77ae1ef-1ad4-50ff-9b0d-aa39a0421e4b' => [
-        'The feminist movement is not about success for women. It is about treating women as victims and about telling women that you can\'t succeed because society is unfair to you, and I think that\'s a very unfortunate idea to put in the minds of young women because I believe women can do whatever they want.',
-        'Phyllis Schlafly',
+    '9e2bd7da-097e-5f27-af35-f7989f15f5af' => [
+        'I travel the world, and I\'m happy to say that America is still the great melting pot - maybe a chunky stew rather than a melting pot at this point, but you know what I mean.',
+        'Philip Glass',
+    ],
+    '62d21d45-f0ae-53c9-8e0b-a53c236907ce' => [
+        'I\'ve always been interested in the idea of space exploration. When I was younger it was just a dream, but the theory of rockets being able to travel through space was very much alive. I found it very exciting.',
+        'Gerry Anderson',
+    ],
+    '6f01f575-82f9-5b7b-a0e9-844429fbf4ca' => [
+        'Seventy percent of success in life is showing up.',
+        'Woody Allen',
+    ],
+    '1b3a4533-6cb9-5029-9272-27195de45656' => [
+        'I come from the slums; I come from a hard background; I come from a poor family; and I was a soldier.',
+        'Michael Caine',
+    ],
+    'd5cc1813-aa69-5433-b3cb-55bacb47c3be' => [
+        'I have a Woody Allen Jewish attitude to life: that it\'s all going to be disastrous. That it hasn\'t all been that way is simply down to some random quirk of fate.',
+        'Antony Sher',
+    ],
+    '51fe618f-cea5-5480-941f-4e6c4943d7a9' => [
+        'I feel that the best companies are started not because the founder wanted a company but because the founder wanted to change the world... If you decide you want to found a company, you maybe start to develop your first idea. And hire lots of workers.',
+        'Mark Zuckerberg',
+    ],
+    '6eb102b8-abbf-5312-b199-fada1c863369' => [
+        'Because beauty isn\'t enough, there must be something more.',
+        'Eva Herzigova',
+    ],
+    '4ae2aece-8988-5795-8668-40f471172f02' => [
+        'The same way that I practiced the violin, the same way that I practiced my dance moves, I decided that I was going to practice being positive and practice loving myself.',
+        'Lindsey Stirling',
+    ],
+    '29dde28d-2547-56f0-a429-ce1b3f58e598' => [
+        'Trust yourself. You know more than you think you do.',
+        'Benjamin Spock',
+    ],
+    '1f0138e8-4d9a-515c-9302-74a941a29ee7' => [
+        'You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations.',
+        'Zig Ziglar',
+    ],
+    '4e552f59-9867-590c-95ca-0e6ee0c82b7f' => [
+        'Divine Nature gave the fields, human art built the cities.',
+        'Marcus Terentius Varro',
+    ],
+    '7805593a-92c0-5741-bdab-23300f6c6751' => [
+        'I sat in at every club in New York City, jamming with musicians, because it felt right - and because it felt right and we were having fun - the people dancing and sipping their drinks in the clubs felt it too and it made them smile.',
+        'Ray Conniff',
+    ],
+    '9febc3b5-bd5a-55ae-ba1c-18f8e2976272' => [
+        'You can\'t stop the waves, but you can learn to surf.',
+        'Jon Kabat-Zinn',
+    ],
+    'a9bb71ef-a670-5d7c-9270-7e864f813fda' => [
+        'Peace is not something you wish for. It\'s something you make, something you do, something you are, and something you give away.',
+        'Robert Fulghum',
+    ],
+    '1bfcc60c-fc83-5b3c-b286-1f7a0e989a4a' => [
+        'Let go of your attachment to being right, and suddenly your mind is more open. You\'re able to benefit from the unique viewpoints of others, without being crippled by your own judgement.',
+        'Ralph Marston',
+    ],
+    '532c37c9-f319-5c7d-a8b4-d88e68f3f3d7' => [
+        'It isn\'t what happens to us that causes us to suffer; it\'s what we say to ourselves about what happens.',
+        'Pema Chodron',
+    ],
+    '35f0dad9-b7e8-5356-81c6-91d7cf518363' => [
+        'I could not think higher of Governor Palin. She is a force of nature and has inspired a generation of women to really get actively involved in politics and, more importantly, take their culture back and take their country back.',
+        'Stephen Bannon',
+    ],
+    '03c5e189-7b1f-5dbd-aafe-09bf1f2785d5' => [
+        'But I have found that in the simple act of living with hope, and in the daily effort to have a positive impact in the world, the days I do have are made all the more meaningful and precious. And for that I am grateful.',
+        'Elizabeth Edwards',
+    ],
+    'f96f73c8-9360-5ad4-a87f-2e4213ee9e85' => [
+        'Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people.',
+        'Fred Rogers',
+    ],
+    'ab26a4dd-8aa9-5036-8c13-a8a657e480ea' => [
+        'If you want to make a permanent change, stop focusing on the size of your problems and start focusing on the size of you!',
+        'T. Harv Eker',
+    ],
+    '3d46fc8e-6d78-515a-821c-78611058545c' => [
+        'Once we accept our limits, we go beyond them.',
+        'Albert Einstein',
+    ],
+    '57788907-b0d3-5ae8-bace-5799ed3e8823' => [
+        'While we see the course of the final abolition of human slavery is onward, &amp; we give it the aid of our prayers &amp; all justifiable means in our power, we must leave the progress as well as the result in his hands who sees the end; who chooses to work by slow influences; &amp; with whom two thousand years are but as a single day.',
+        'Robert E. Lee',
+    ],
+    '7777be80-b544-5fee-a492-185a99e15a7c' => [
+        'The way of the Creative works through change and transformation, so that each thing receives its true nature and destiny and comes into permanent accord with the Great Harmony: this is what furthers and what perseveres.',
+        'Alexander Pope',
+    ],
+    '4564cf2b-34fe-5884-8ff0-95236aa5165a' => [
+        'Life hands us a lot of hard choices, and other people can help us more than we might realize. We often think we should make important decisions using just our own internal resources. What are the pros and cons? What does my gut tell me? But often we have friends and family who know us in ways we don\'t know ourselves.',
+        'Sheena Iyengar',
+    ],
+    'ff4f611b-8e4b-5957-9615-e19aea1511ee' => [
+        'Life is short and if you\'re looking for extension, you had best do well. \'Cause there\'s good deeds and then there\'s good intentions. They are as far apart as Heaven and Hell.',
+        'Ben Harper',
+    ],
+    'e49b8e03-b9a9-50b8-b7c4-96d7b0693ddc' => [
+        'I like a girl with natural beauty.',
+        'Chandler Parsons',
+    ],
+    'eb2cdfef-00d8-5225-a3e3-68d476a048cf' => [
+        'True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.',
+        'Marcus Aurelius',
+    ],
+    '21efa33c-046d-5b6c-951c-b7b2cd0c5383' => [
+        'My life is like a speeding bullet that just hasn\'t hit the target yet.',
+        'Dick Gregory',
+    ],
+    '640a2a66-f8f5-5bae-9055-a52e4a6e67cb' => [
+        'To dare is to lose ones footing momentarily. To not dare is to lose oneself.',
+        'Soren Kierkegaard',
+    ],
+    '4ab86731-48bb-53e9-a60d-5332f0bf4953' => [
+        'Character is the ability of a person to see a positive end of things. This is the hope that a man of character has.',
+        'Tom Landry',
+    ],
+    '1680fc54-eeed-51a5-b605-37e741801a0d' => [
+        'Life\'s too mysterious to take too serious.',
+        'Mary Engelbreit',
+    ],
+    '3c61df7b-6c8f-583a-b4ae-334238925c27' => [
+        'Beauty is a short-lived tyranny.',
+        'Socrates',
+    ],
+    '5e7c5310-65a2-56a6-a459-777c2dc5e570' => [
+        'I think maths is the root of everything. If we understood every area of math, it would lead to improving our sense of science, physics, engineering, space travel... all those great things. Maths is a backbone for it.',
+        'Matt Haig',
+    ],
+    'a9f8ea19-856f-5f2a-b1d4-ef420d09218b' => [
+        'Formula for success: rise early, work hard, strike oil.',
+        'J. Paul Getty',
+    ],
+    'cbaf3d4e-dc5d-58ea-9698-bd99124e72b1' => [
+        'I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.',
+        'Edward Everett Hale',
+    ],
+    '4070d10c-bd5f-58d1-8656-da39ee608d81' => [
+        'No one ever said learning was to be easy, but it\'s part of the process of evolving as a human being, and we all have to go through it. When I look back, I see that each difficult time brought an important lesson. And I prefer to look at it with gratitude because I wouldn\'t be who I am today if I haven\'t gone through it all.',
+        'Gisele Bundchen',
+    ],
+    '4f953592-618f-5c21-998d-4c1d59cd57c3' => [
+        'Whoever is my relative, I will not be nice to them.',
+        'George Lopez',
+    ],
+    '296f2e2b-7447-538f-9e2c-19ad5839bdb5' => [
+        'The value of life lies not in the length of days, but in the use we make of them... Whether you find satisfaction in life depends not on your tale of years, but on your will.',
+        'Joyce Meyer',
     ],
     'a54d05b1-812e-5ec1-ac6e-148469495a74' => [
         'The universe is transformation; our life is what our thoughts make it.',
         'Marcus Aurelius',
     ],
-    '8934161a-2581-5ff6-9bb5-6b1f0d226938' => [
-        'My dad instilled in me a great sense of humor. I wasn\'t bullied at school because my outward attitude was confident, and that helps.',
-        'Warwick Davis',
+    'ac0e328b-7df6-5c5c-ae11-5b3ba8eaecfe' => [
+        'No one can feel more gratefully the charm of noble scenery, or the refreshment of escape into the unspoiled solitudes of nature, than the laborer at some close in-door employment.',
+        'Lucy Larcom',
     ],
-    'd81e32ff-0f68-574b-895d-075e111bcd13' => [
-        'I do not regret one moment of my life.',
-        'Pope Paul VI',
-    ],
-    '5363970c-b722-5322-9a7b-c4e116a6705d' => [
-        'You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.',
-        'Zig Ziglar',
-    ],
-    '41ab7723-11bc-5c98-a6a6-5a09851fbb3e' => [
-        'Sometimes you want to go for a walk and you don\'t want to be watched. You just want to be anonymous and blend in. Especially when I travel, I feel that way, because I can\'t really go out and see a city the way other people can and I miss out on a lot.',
-        'Madonna Ciccone',
-    ],
-    '61b6e1b1-78f7-5ccf-b9d4-3276cb1f9af1' => [
-        'Open your eyes, look within. Are you satisfied with the life you\'re living?',
-        'Martin Luther King, Jr.',
-    ],
-    '670132d1-356f-5f21-b24f-bd27e2f7cfe2' => [
-        'Never complain and never explain.',
-        'Benjamin Disraeli',
-    ],
-    'b34d2792-124c-5984-844a-09f44701dc9a' => [
-        'People are beginning to see that the first requisite to success in life is to be a good animal.',
-        'Herbert Spencer',
-    ],
-    '1ff6b9e4-a2a0-5c53-bb86-123b3fe2a413' => [
-        'We can do no great things, only small things with great love.',
-        'Mother Teresa',
-    ],
-    '4739e14a-44e6-5b17-8ff3-3498be842cb5' => [
-        'The novelist teaches the reader to comprehend the world as a question. There is wisdom and tolerance in that attitude. In a world built on sacrosanct certainties the novel is dead.',
-        'Milan Kundera',
-    ],
-    '56840feb-56df-58af-a143-ab6832d40f44' => [
-        'For a lot of people, Superman is and has always been America\'s hero. He stands for what we believe is the best within us: limitless strength tempered by compassion, that can bear adversity and emerge stronger on the other side. He stands for what we all feel we would like to be able to stand for, when standing is hardest.',
-        'J. Michael Straczynski',
-    ],
-    'dc3402b9-11f7-53ac-b39d-abd06c056909' => [
-        'Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.',
-        'Leo Buscaglia',
-    ],
-    'e8e7173a-7632-5a2e-a75a-2e8fdae3a13f' => [
-        'It\'s not an experiment if you know it\'s going to work.',
-        'Jeff Bezos',
-    ],
-    'b8a7218e-dcb2-5bc2-a644-540b9c80959b' => [
-        'Success and failure are both part of life. Both are not permanent.',
-        'Shah Rukh Khan',
-    ],
-    '60881cd7-a7b9-5ac2-8baa-cad8d1bf8f7c' => [
-        'It\'s a marathon, not a sprint. I actually feel like I come to work stronger when I\'ve had a little time on the weekend to step away from it and enjoy my family and other things. I come back energized. If people think they\'re going to work 24/7, week in and week out, they\'re not bringing their full strength to the table.',
-        'Mary Barra',
-    ],
-    'c0aedcb3-27ad-557a-80ca-918d59ee4fd6' => [
-        'I\'m a really, really optimistic and really, really positive person. My main thing is, \'Enjoy life. Celebrate life.\'',
-        'Luke Bryan',
-    ],
-    '037ebc50-75de-563e-b6ff-65d7d56066c8' => [
-        'Instead of drifting along like a leaf in a river, understand who you are and how you come across to people and what kind of an impact you have on the people around you and the community around you and the world, so that when you go out, you can feel you have made a positive difference.',
-        'Jane Fonda',
-    ],
-    '25b2945b-5c72-5c80-8a89-2c1c46522d68' => [
-        'Challenge is the pathway to engagement and progress in our lives. But not all challenges are created equal. Some challenges make us feel alive, engaged, connected, and fulfilled. Others simply overwhelm us. Knowing the difference as you set bigger and bolder challenges for yourself is critical to your sanity, success, and satisfaction.',
-        'Brendon Burchard',
-    ],
-    'cc83b841-aedf-5265-9235-31ae9c86d583' => [
-        'Nothing ever comes to one, that is worth having, except as a result of hard work.',
-        'Booker T. Washington',
-    ],
-    '7ffd2745-3819-5c38-b133-f9a4c3cedd8c' => [
-        'I want to put concepts in front of people that make them laugh or smile or even hate what I do. I\'m not interested in just putting clothes in stores.',
-        'Thom Browne',
-    ],
-    'ffa7663e-fd3f-5d8f-9e91-24920fa2a50e' => [
-        'You cannot have a positive life and a negative mind.',
-        'Joyce Meyer',
-    ],
-    '4b93e3f1-3907-5ef5-a6ce-36fcff3dab58' => [
-        'I take a cooking class everywhere I travel. I find it\'s the best way to get to know a culture.',
-        'Blake Lively',
-    ],
-    '5cebd135-c606-5a44-b671-743b164a3ef4' => [
-        'Since day one, since the first time I touched the pen, I wanted to be the best at what I do.',
-        'Kendrick Lamar',
-    ],
-    '9e77e5f6-c594-5e0d-9897-e4132e68796b' => [
-        'If people want to compete for leadership of a religious group, they can compete in piety. A chilling thought. Or funny.',
-        'Mary Douglas',
-    ],
-    'a41d4ba3-1482-5fc1-9e4a-8da8598b6061' => [
-        'A lot of us grow up and we grow out of the literal interpretation that we get when we\'re children, but we bear the scars all our life. Whether they\'re scars of beauty or scars of ugliness, it\'s pretty much in the eye of the beholder.',
-        'Stephen King',
-    ],
-    '962c8f5a-727c-5d18-b8d2-29d8707503bb' => [
-        'Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product.',
-        'Elon Musk',
-    ],
-    '1652661f-75f5-539e-922f-af2c822bcfa1' => [
-        'Jews have deep respect for the Queen and the royal family. We say a prayer for them every Sabbath in synagogue. We recite a special blessing on seeing the Queen.',
-        'Jonathan Sacks',
-    ],
-    '671976d8-6217-5df7-a611-9f1262aa6e5c' => [
-        'I like that time is marked by each sunrise and sunset whether or not you actually see it.',
-        'Catherine Opie',
-    ],
-    '0fd03a4c-856c-585b-870b-12033da71868' => [
-        'You hear certain things, negative things, all the time that aren\'t true, but you never hear about the positive.',
-        'Floyd Mayweather, Jr.',
-    ],
-    '641f1b1b-2b6e-5349-9e21-1230c1b93341' => [
-        'The great art of life is sensation, to feel that we exist, even in pain.',
-        'Tim Tebow',
-    ],
-    '09857411-a8cf-50dc-9928-c4e7bd52281a' => [
-        'The kind of people that all teams need are people who are humble, hungry, and smart: humble being little ego, focusing more on their teammates than on themselves. Hungry, meaning they have a strong work ethic, are determined to get things done, and contribute any way they can. Smart, meaning not intellectually smart but inner personally smart.',
-        'Patrick Lencioni',
-    ],
-    '57a9e62f-c66a-50b8-93af-ac28e34b6e66' => [
-        'It stands to the everlasting credit of science that by acting on the human mind it has overcome man\'s insecurity before himself and before nature.',
-        'Albert Einstein',
+    'e17f4ca1-bab6-5076-a969-0ffbd70248f9' => [
+        'Always desire to learn something useful.',
+        'Sophocles',
     ],
 ];

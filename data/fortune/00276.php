@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'd482bf84-6076-533f-aeb6-fbff5d3e2e08' => [
-        'You don\'t wanna walk around and say, \'I\'m somebody\'s niece, I\'m somebody\'s cousin, I\'m somebody\'s daughter. Who are you?\' And I think that\'s always the challenge when you grow up in a well-known family, is ultimately, you have to face yourself in the mirror and say, \'Who are you? What have you done?\'',
-        'Maria Shriver',
+    '08e29dfc-34ed-5a5d-8fad-f533d99d7f61' => [
+        'Some people say video games rot your brain, but I think they work different muscles that maybe you don\'t normally use.',
+        'Ezra Koenig',
     ],
-    '62c82bcd-a8a1-5ccc-bfa2-212ee01f7cd2' => [
-        'The Creator has not given you a longing to do that which you have no ability to do.',
-        'Orison Marden',
+    'c6ad864c-08b3-57ab-a160-b6e8cb272ac3' => [
+        'Tell the truth, work hard, and come to dinner on time.',
+        'Gerald R. Ford',
     ],
-    '077f6d8c-3541-56ff-93a8-4d66b4906110' => [
-        'People, unprotected by their roles, become isolated in beauty and intellect and illness and confusion.',
-        'Richard Avedon',
+    'd6452ade-6ee2-535f-b6cf-2c262ee1ead2' => [
+        'My success isn\'t a result of arrogance - it\'s a result of belief.',
+        'Conor McGregor',
     ],
-    '29209e57-ce0a-5d96-a396-7669692fc386' => [
-        'What do we live for, if not to make life less difficult for each other?',
-        'Guy Laliberte',
+    '171c3196-89d2-5384-a34c-23f18ab9e62e' => [
+        'How do you know you\'re going to do something, untill you do it?',
+        'J. D. Salinger',
     ],
-    '901a910c-7c2c-537e-ad51-485f76f2fd4e' => [
-        'Consider a tree for a moment. As beautiful as trees are to look at, we don\'t see what goes on underground - as they grow roots. Trees must develop deep roots in order to grow strong and produce their beauty. But we don\'t see the roots. We just see and enjoy the beauty. In much the same way, what goes on inside of us is like the roots of a tree.',
+    '2340ffc4-6867-56ef-836e-2b220bf33a1e' => [
+        'Why compare yourself with others? No one in the entire world can do a better job of being you than you.',
+        'Unknown',
+    ],
+    '840dff3e-a269-5f16-b592-08376f4cd275' => [
+        'You only do good work when you\'re taking risks and pushing yourself.',
+        'Sally Hawkins',
+    ],
+    'ea563a85-b04a-5196-87f1-da7f640ab2d1' => [
+        'You have to approach something with indifference, as if you had no aesthetic emotion. The choice of readymades is always based on visual indifference and, at the same time, on the total absence of good or bad taste.',
+        'Marcel Duchamp',
+    ],
+    '759a09ea-8dca-586c-935c-b096bfaa97d3' => [
+        'I will know how to hold you just by the look in your eye, I will never forget - not even on the day that I die. This is a promise of my passion for you, smile at me and make it true.',
+        'Diana Lynn',
+    ],
+    '2375a0ec-0f1f-5bf8-a042-8e27e9b0fa11' => [
+        'One cannot violate the promptings of one\'s nature without having that nature recoil upon itself.',
+        'Jack London',
+    ],
+    'e7f6b019-8e83-5698-abdc-0172a3ed9f74' => [
+        'I think family is very important in West Virginia and has long been so because the mountains made travel difficult in the past, and family members had to depend on each other.',
+        'David Selby',
+    ],
+    'cef61bf2-e84d-552b-a0af-fb6030655c7b' => [
+        'For many years, it seemed as if nothing changed in Norway. You could leave the country for three months, travel the world, through coups d\'etat, assassinations, famines, massacres and tsunamis, and come home to find that the only new thing in the newspapers was the crossword puzzle.',
+        'Jo Nesbo',
+    ],
+    '1b969dc9-858c-558a-9759-dd38e0f59708' => [
+        'Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul.',
+        'John Muir',
+    ],
+    'f945ea25-657d-5de7-b382-841e86245933' => [
+        'I love Thanksgiving because it\'s a holiday that is centered around food and family, two things that are of utmost importance to me.',
+        'Marcus Samuelsson',
+    ],
+    'd49bdccb-e289-5dbb-92c7-f58e0aa652d8' => [
+        'The ambition and focus that propel you to success can also be your downfall.',
+        'Judy Smith',
+    ],
+    '4f78db42-539d-5e08-b969-0ebb43dbab01' => [
+        'I think the chance of finding beauty is higher if you don\'t work on it directly. Beauty in architecture is driven by practicality. This is what you learn from studying the old townscapes of the Swiss farmers.',
+        'Peter Zumthor',
+    ],
+    '843ec787-39c3-5e84-9d8a-51a73d01c489' => [
+        'The history of the relationship between comedy and swimming is short indeed. Of course it is always funny when someone falls into water, but that\'s about it.',
+        'Arthur Smith',
+    ],
+    '53d1f43b-7351-50e9-b4a1-a0f83aab6584' => [
+        'I recognize in thieves, traitors and murderers, in the ruthless and the cunning, a deep beauty - a sunken beauty.',
+        'Jean Genet',
+    ],
+    'a58490b1-ed1c-5834-b004-3bf5bcdce8c3' => [
+        'I came into this environment where there was so much love, so much positive energy. I never heard my parents say, \'We have adopted kids.\' The minute my sister Linda and I landed in Sweden, we were their kids.',
+        'Marcus Samuelsson',
+    ],
+    '1d628bdb-4a59-5ec6-8714-e4a9679f5a6a' => [
+        'I am a great admirer of mystery and magic. Look at this life - all mystery and magic.',
+        'Kyle MacLachlan',
+    ],
+    '373ad8e1-5ca0-533a-9bf8-16ec41741c0f' => [
+        'Rest when you\'re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.',
+        'Ralph Marston',
+    ],
+    '306d28eb-41bf-5463-9752-20c95ebab19e' => [
+        'I travel to Chicago a lot. And I\'ve followed Obama through his Senate race and beyond. I found him to be an exceptional candidate who was able to transcend ethnic and racial lines.',
+        'Sal Albanese',
+    ],
+    'dcb2f02c-f836-5b53-9ab8-d7888cdc8dbf' => [
+        'The Antichrist will be the infernal prince again for the third and last time... so many evils shall be committed by the means of Satan, the infernal Prince, that almost the entire world shall be found undone and desolate. Before these events happen, many rare birds will cry in the air, \'Now! Now!\' and sometime later will vanish.',
+        'Nostradamus',
+    ],
+    '564d18a2-05b9-56f9-9b99-55d23546dbc4' => [
+        'Personally, I can\'t see the appeal in trekking down to D.C. for a networking extravaganza, even if it is built around a special moment in American history. While I find the election of Barack Obama inspirational, I don\'t have a desire to memorialize it with overly effusive celebration.',
+        'Jamie Johnson',
+    ],
+    'c46209ef-0291-5a35-8068-e04036ec500f' => [
+        'I don\'t deserve this award, but I have arthritis and I don\'t deserve that either.',
+        'Jack Benny',
+    ],
+    '00b8dee4-9dcd-55e2-a494-9c336bbd051c' => [
+        'Opportunity is missed by most people because it is dressed in overalls and looks like work.',
+        'Thomas A. Edison',
+    ],
+    'cf06aaa3-95c7-5fb7-a9a6-91f691422d3e' => [
+        'When we believe the best of people, we let go of each thing they do that is hurtful to us. And we choose to think things like, \'I don\'t believe they meant to hurt me.\' \'Maybe they\'re having a bad day or don\'t feel well.\' \'They probably don\'t even realize how they sound.\'',
         'Joyce Meyer',
     ],
-    'b616584b-93c2-54b2-b5bf-19b4bc603a10' => [
-        'There\'s one more thing I want to say. It\'s a touchy subject. Black beauty. Black sensuality. We live in a culture where the beauty of black people isn\'t always as celebrated as other types. I\'d like to help change that if I can!',
-        'Jody Watley',
+    '4da7a6cf-cf69-5ffe-9027-a90732f18acb' => [
+        'Keep yourself to the sunshine and you cannot see the shadow.',
+        'Helen Keller',
     ],
-    '2d9b7fe6-40ca-532b-8704-83d2a4d83ed1' => [
-        'Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.',
-        'Ovid',
+    'b8d1f7e6-dea7-5f4e-819a-a31dfa5031b8' => [
+        'There is something terribly morbid in the modern sympathy with pain. One should sympathise with the colour, the beauty, the joy of life. The less said about life\'s sores the better.',
+        'Oscar Wilde',
     ],
-    'f9d6c89d-b57c-50be-be4e-d770a408758e' => [
-        'We should meet abuse by forbearance. Human nature is so constituted that if we take absolutely no notice of anger or abuse, the person indulging in it will soon weary of it and stop.',
-        'Mahatma Gandhi',
+    '0e7dbcdd-7e82-52ed-9c03-faa111cb7a35' => [
+        'There are still many places I haven\'t seen that I\'d like to travel to. I\'ve never seen the Pyramids, and I\'d love to explore the culture in North India. I think walking in the Andes would also be awesome.',
+        'Bjorn Ulvaeus',
     ],
-    '2c521954-92e9-58bb-a180-ea44c09734e0' => [
-        'Science and fiction both begin with similar questions: What if? Why? How does it all work? But they focus on different areas of life on earth.',
-        'Margaret Atwood',
+    'f6cfcec3-d5ce-5943-b496-e8c230291ab7' => [
+        'My family moved from California to New Jersey in the beginning of my sophomore year of high school. I will never forget the first day in a new school, walking into the cafeteria during lunch and not knowing a single soul. I didn\'t feel confident enough to share a seat at just anyone\'s table.',
+        'Camille Guaty',
     ],
-    '26b053d4-4823-5013-8d8c-febbb3c02932' => [
-        'If you change the way you look at things, the things you look at change.',
-        'Wayne Dyer',
+    'a08eb9b9-fbf7-5d85-ae8b-35bdb30f160a' => [
+        'I still have a young attitude.',
+        'Pat Morita',
     ],
-    'd0ef3316-ac22-526c-bf33-90eb400d52b1' => [
-        'After every storm the sun will smile; for every problem there is a solution, and the soul\'s indefeasible duty is to be of good cheer.',
-        'William R. Alger',
+    'e3bfe4f0-b321-5186-8763-ab5a83ee8075' => [
+        'In your 40s, you shed those who bring you down and surround yourself with the most positive people you know.',
+        'Jami Attenberg',
     ],
-    'cd29cdc0-e361-54d7-bea3-9ef2c279aff4' => [
-        'A successful competition for me is always going out there and putting 100 percent into whatever I\'m doing. It\'s not always winning. People, I think, mistake that it\'s just winning. Sometimes it could be, but for me, it\'s hitting the best sets I can, gaining confidence, and having a good time and having fun.',
-        'Simone Biles',
+    '803898ac-1357-5f81-a6e5-7dd2cf5d0d27' => [
+        'Either I will find a way, or I will make one.',
+        'Philip Sidney',
     ],
-    '9bc4fb3e-45cd-567e-b812-008319822f5c' => [
-        'There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.',
-        'Joseph Campbell',
+    '61093bb1-e480-545a-bfd9-7aad7a1cc5c0' => [
+        'The meaning of life is contained in every single expression of life. It is present in the infinity of forms and phenomena that exist in all of creation.',
+        'Leonardo da Vinci',
     ],
-    'a1e70959-126b-5739-a74d-c65c38c15e85' => [
-        'Being a sex symbol has to do with an attitude, not looks. Most men think it\'s looks, most women know otherwise.',
-        'Kathleen Turner',
+    'd6af6381-e5fd-519a-b28e-2b833e36dc7b' => [
+        'Without this tremendous passion for power, influence, and advantage which money gives, how could nature develop the highest type of man? Without this infinite longing, whence would come the discipline which industry, perseverance, tact, sagacity, and frugality give?',
+        'Orison Swett Marden',
     ],
-    '7fb57316-94f7-5d37-803a-84e780eda3a7' => [
-        'Sorrows gather around great souls as storms do around mountains; but, like them, they break the storm and purify the air of the plain beneath them.',
-        'Jean Paul',
+    '50a7a13a-af18-5614-aec4-1e4f3d4182c2' => [
+        'I\'m blessed to come from a family with five brothers. We\'re all physical and athletic and like to work out, like to be outside, like to throw the ball around. We spent our entire childhoods on some kind of corner or in a field. We still do a Turkey Bowl every Thanksgiving. It gets competitive, man. Bloody.',
+        'Danny Pino',
     ],
-    '3e2ffddb-6ccd-51f5-86e3-e8f128058b9b' => [
-        'Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.',
-        'Carl Jung',
+    'f95d98ae-60e2-5489-bde3-7eb3481522db' => [
+        'My family is my strength and my weakness.',
+        'Aishwarya Rai Bachchan',
     ],
-    'ea2c294b-5825-5eb5-b7a1-e7050cdf4342' => [
-        'There\'s always something funny about men chasing women.',
-        'David Spade',
+    '221667a9-4f12-5b79-ac1a-fa5c5152f976' => [
+        'Beauty is our weapon against nature; by it we make objects, giving them limit, symmetry, proportion. Beauty halts and freezes the melting flux of nature.',
+        'Camille Paglia',
     ],
-    '867169a9-9bce-5c34-98c8-2e4a9996ae90' => [
-        'The funniest racism is the racism between minorities. It\'s something you don\'t see dramatized, but almost every minority I know who\'s my age, they have these funny stories about their parents stereotyping other minorities.',
-        'Mindy Kaling',
+    '9f6412be-721e-5513-9242-a8a41a4e69e3' => [
+        'Mostly, when I travel, I want to represent my own work well and let others know how I feel about poetry being an important part of life.',
+        'Tim Seibles',
     ],
-    'b562b11e-f0be-5093-88e2-922e6eb6018c' => [
-        'In June as many as a dozen species may burst their buds on a single day. No man can heed all of these anniversaries; no man can ignore all of them.',
-        'Aldo Leopold',
+    '14f6d2aa-2c2f-5311-955d-73d9d2ccf75b' => [
+        'One can ascend to a higher development only by bringing rhythm and repetition into one\'s life. Rhythm holds sway in all nature.',
+        'Rudolf Steiner',
     ],
-    '7170c9df-cecc-5a59-bfb9-cea9b607591c' => [
-        'The impediment to action advances action. What stands in the way becomes the way.',
-        'Marcus Aurelius',
+    'ff5a3d70-dff4-5020-878b-58656cec2527' => [
+        'It has been said that time heals all wounds. I don\'t agree. The wounds remain. Time - the mind, protecting its sanity - covers them with some scar tissue and the pain lessens, but it is never gone.',
+        'Rose Kennedy',
     ],
-    '438f9e76-7d29-5619-8ed7-5ca6c344e3fa' => [
-        'There was part of me that wanted to see the world and travel to distant places, but I could only do it in my imagination, so I read ferociously and imagined things.',
-        'George R. R. Martin',
+    '6861ea07-3deb-54e8-8214-6cf840ee2083' => [
+        'I envy those old Greek bathers, into whose hands were delivered Pericles, and Alcibiades, and the perfect models of Phidias. They had daily before their eyes the highest types of Beauty which the world has ever produced; for of all things that are beautiful, the human body is the crown.',
+        'Bayard Taylor',
     ],
-    '855335af-930e-5c96-9167-9265a71667c7' => [
-        'Everybody\'s got a job to do, and I do mine as best I can.',
-        'Marlee Matlin',
+    'b820ff32-2ab1-50fc-bc92-fbdadd963c0a' => [
+        'I don\'t know if the term \'liberation theology,\' which can be interpreted in a very positive sense, will help us much. What\'s important is the common rationality to which the church offers a fundamental contribution, and which must always help in the education of conscience, both for public and for private life.',
+        'Pope Benedict XVI',
     ],
-    '095ed3de-2210-58ed-8567-052795f8af87' => [
-        'Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.',
-        'Lord Byron',
+    '341686be-8a9c-58cf-b2f7-80d6107869e0' => [
+        'My mom\'s one of the toughest ladies I know. I\'ve seen her lose both her brothers, both her parents. She\'s been through a lot, and to see her get up every day and put a smile on her face, that shows nothing but strength.',
+        'DeMar DeRozan',
     ],
-    '4f9d3f17-5c9c-57a1-946d-bba7fd122607' => [
-        'Too many people say to their brokers, I can\'t deal with this. Take my money. Do what you want. That\'s the worst attitude you can have.',
-        'Maria Bartiromo',
-    ],
-    '92998b4f-1067-5cf0-ac9e-cd3ac1668727' => [
-        'Human society sustains itself by transforming nature into garbage.',
-        'Mason Cooley',
-    ],
-    'c682f2b0-fb3b-5eba-9118-c522d3107038' => [
-        'I\'ve never had any prima donna attitude against me. It\'s always been very respectful.',
-        'Rey Mysterio',
-    ],
-    '4ebf6120-e766-53e9-a117-41d2375a5af1' => [
-        'The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.',
-        'Charles Atlas',
-    ],
-    'cc387df6-570e-551e-92c5-66a1c5dd5630' => [
-        'The evangelical Christian faith I\'d grown up with sustained me. It demanded that I refuse the drugs and alcohol on offer in our southwestern Ohio town, that I treat my friends and family kindly, and that I work hard in school. Most of all, when times were toughest, it gave me reason to hope.',
-        'J. D. Vance',
-    ],
-    '32140958-c81a-5748-b1f7-93e1347b4fcc' => [
-        'Museums are managers of consciousness. They give us an interpretation of history, of how to view the world and locate ourselves in it. They are, if you want to put it in positive terms, great educational institutions. If you want to put it in negative terms, they are propaganda machines.',
-        'Hans Haacke',
-    ],
-    '11cc9392-0602-507b-91e8-07800ac474ec' => [
-        'Anytime you play a team sport, the success of the team really makes everything better. It\'s nice.',
-        'Ricky Williams',
-    ],
-    'e3cf43e4-5e02-504b-a790-49e608d2a9d7' => [
-        'Nature favors those organisms which leave the environment in better shape for their progeny to survive.',
-        'James Lovelock',
-    ],
-    '5981e4e5-fab6-5aba-b878-4ba14ffd02e5' => [
-        'To survive, you\'ve got to keep wheedling your way. You can\'t just sit there and fight against odds when it\'s not going to work. You have to turn a corner, dig a hole, go through a tunnel - and find a way to keep moving.',
-        'Twyla Tharp',
-    ],
-    'c770cb8f-cf85-5063-8644-2bfcc301a1b6' => [
-        'I did an A Level in Theatre Studies and had a really inspirational teacher, and then I just went on to university.',
-        'Jessica Raine',
-    ],
-    '6032a69d-2701-5c35-9b18-a32be656f60e' => [
-        'In time of difficulties, we must not lose sight of our achievements.',
-        'Mao Zedong',
-    ],
-    '2f2280cb-041a-5006-9c0b-531b18214c75' => [
-        'I\'m from a nice, suburban, middle-class family, but my tattoos remind me where I\'ve been.',
-        'Tom Hardy',
-    ],
-    '62e7047e-5f43-5621-95fe-550b15d397c7' => [
-        'I find human beings to be so complex and full of beauty. Creativity is our way to express and challenge and flow. So, all you humans, create and flow! I\'ll be over here thinking you are beautiful and creepy and freaky and wonderful!',
-        'Angela Bettis',
-    ],
-    'c898d7ef-bd76-59a8-98f6-dfbeef5a0bec' => [
-        'Though I had success in my research both when I was mad and when I was not, eventually I felt that my work would be better respected if I thought and acted like a \'normal\' person.',
-        'John Forbes Nash, Jr.',
-    ],
-    '77703179-f197-5c9b-ae07-82413078999f' => [
-        'The past does not equal the future.',
-        'Anthony Robbins',
-    ],
-    '031721e8-6a07-5c60-98af-53647e7cdb1a' => [
-        'There is no greater harm than that of time wasted.',
-        'Michelangelo',
-    ],
-    '5b357c63-6e18-5b64-aec3-f70b25db8a63' => [
-        'I tell young entrepreneurs to use the leader in their industry and as a benchmark as they work to create their own brand. Don\'t look at what your competition is doing - if you emulate the leader in your industry, you will achieve a higher level of engagement with consumers and make their buying experience richer.',
-        'Steve Stoute',
-    ],
-    'd1849fd5-07a4-5174-8ced-d39b3b592f7b' => [
-        'The attitude and identity that we want to play with doesn\'t change.',
+    '1616a30a-342e-5325-9afe-5a38a68dc75a' => [
+        'Adrian Clayborn is somebody that relentlessly brings that attitude, energy, and toughness.',
         'Dan Quinn',
     ],
-    '762c18fc-da8c-5585-85a6-7b94cf9a2cac' => [
-        'Life is a process. We are a process. The universe is a process.',
-        'Anne Schaef',
+    '75c717dc-3a74-579c-b4f4-5621d1dd8dba' => [
+        'A concerted effort to preserve our heritage is a vital link to our cultural, educational, aesthetic, inspirational, and economic legacies - all of the things that quite literally make us who we are.',
+        'Steve Berry',
     ],
-    '44a6a685-ae0b-5375-b7bd-435de3fc4113' => [
-        'Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.',
-        'Samuel Smiles',
+    '3f59f3e2-f54c-56c0-b631-c25609483358' => [
+        'Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.',
+        'Jamie Paolinetti',
     ],
-    'c73991f9-0b95-5c59-8be8-2bd421ff4eb2' => [
-        'Google is my best friend and my worst enemy. It\'s fabulous for research, but then it becomes addictive. I\'ll have a character eating an orange, and next thing I\'m Googling types of oranges, I\'m visiting chat rooms about oranges, I\'m learning the history of the orange.',
-        'Liane Moriarty',
+    'ab410ed0-c634-5337-bf64-5121ec801e3e' => [
+        'That\'s the real work, being away from my loved ones, my family, my household. There\'s nothing that\'s hurt any more than being away from my little girl and missing days, but I\'m lucky.',
+        'Roman Reigns',
     ],
-    '5b208060-4134-5247-85df-3d74e603fd5e' => [
-        'I didn\'t work hard to sit down and not work.',
-        'Kevin Hart',
+    '47d0a3e4-fafc-58a1-ba09-4a5a6d8bd6b2' => [
+        'I thought \'Moulin Rouge\' was inspirational, and \'Jesus Christ Superstar\' I loved.',
+        'Pierce Brosnan',
     ],
-    'af638043-9a9d-53cf-8ced-7e53993d2729' => [
-        'Comedy, we may say, is society protecting itself - with a smile.',
-        'J. B. Priestley',
-    ],
-    '15f303c3-12d9-54be-82ba-4574ec6c6b76' => [
-        'One of the things that makes our military the best in the world is the certain knowledge of each soldier, sailor, airman, and Marine that they can always count on their comrades should they need help - that they will never be abandoned.',
-        'Jon Kyl',
-    ],
-    '236be564-b1d0-5b3f-adac-005566cf921f' => [
-        'I love dressing up. It\'s the best part of being a girl, I think.',
-        'Emma Roberts',
-    ],
-    '335dfc57-896b-50b2-8c11-d58bf3e5e1e5' => [
-        'As we look ahead into the next century, leaders will be those who empower others.',
-        'Bill Gates',
-    ],
-    '593ed823-b070-59b6-abfd-57b167988838' => [
-        'Work is the curse of the drinking classes.',
-        'Oscar Wilde',
+    '2d7c00bd-bd8b-5942-8949-2ca6e5a65bdf' => [
+        'In a fit at the bookstore one day, I bought all my favourite composers\' biographies: Schubert, Massenet, Wolf. I\'ve still not had a chance to read them; it breaks my heart. But when you travel so much, you just can\'t take that many books with you.',
+        'Danielle de Niese',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '651db827-e4a8-5fa4-b9b8-b111a9b39a53' => [
-        'Take it easy, but take it.',
-        'Woody Guthrie',
+    '4d102d3c-0c0c-54e7-8fa5-fec6630065cf' => [
+        'Good instincts usually tell you what to do long before your head has figured it out.',
+        'Michael Burke',
     ],
-    '559760fc-0987-5603-8feb-43da8bd2f63b' => [
-        'Turkey wants a policy of engagement exactly like President Obama\'s new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.',
-        'Ahmet Davutoglu',
+    '8da45791-e27d-5005-b47e-3a9e06f96004' => [
+        'For a writer only one form of patriotism exists: his attitude toward language.',
+        'Joseph Brodsky',
     ],
-    '50b96358-ec6e-52d1-b8ea-5b2fbc16db1c' => [
-        'To explain all nature is too difficult a task for any one man or even for any one age. \'Tis much better to do a little with certainty &amp; leave the rest for others that come after you.',
-        'Isaac Newton',
+    'af393bf2-e65f-5c3a-b6af-bb00eb2bea97' => [
+        'I have been a frequent air traveler since I was a few months shy of my sixth birthday, when my parents packed me off to boarding school two plane rides away from home. Those days of being willingly handed from air hostess to air hostess as an \'unaccompanied minor\' made me blase about the rigors of air travel.',
+        'Shashi Tharoor',
     ],
-    '4af84666-3761-55f5-9320-c910cd84e79c' => [
-        'Choose a job you love, and you will never have to work a day in your life.',
-        'Confucius',
+    'b8bd2ffc-43a0-575c-9f5b-1273537067ee' => [
+        'So long as you\'ve got your friends about you, and a good positive attitude, you don\'t really have to care what everyone else thinks.',
+        'Gail Porter',
     ],
-    '8e21cf2a-af32-5812-9daa-bc56fc29f4dc' => [
-        'A mode of conduct, a standard of courage, discipline, fortitude and integrity can do a great deal to make a woman beautiful.',
-        'Jacqueline Bisset',
+    'e05a4b28-33d2-5825-b0a8-b2babe3c694e' => [
+        'Be as you wish to seem.',
+        'Socrates',
     ],
-    '5509ca77-9d54-5d2b-a852-69c1354579c8' => [
-        'The secrets of success are a good wife and a steady job. My wife told me.',
-        'Howard Nemerov',
+    '664e54d4-4a9d-5eeb-89eb-ba001e6f2774' => [
+        'You can have meaning, accomplishment, engagement and good relationships, even if you are dull on the positive affect side.',
+        'Martin Seligman',
     ],
-    '27ae3440-2da9-5ba6-90fa-52df7ae0c6ee' => [
-        'The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn\'t deliver the goods.',
-        'John Maynard Keynes',
+    '6ef3b5b0-efaf-5b0a-b630-59874acdfdbb' => [
+        'I\'m moving forward to do the best.',
+        'Pablo Sandoval',
     ],
-    '3cfe09a9-ed78-5b49-a0bc-d665f17cabf2' => [
-        'No yesterdays are ever wasted for those who give themselves to today.',
-        'Brendan Francis',
+    'a4ea9297-ca24-551c-9c71-07aeea6b22b0' => [
+        'It always seems impossible until it is done.',
+        'Nelson Mandela',
     ],
-    'fcdbaae6-8898-57a9-ab51-e7ab247ab7d2' => [
-        'Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now! There are only so many tomorrows.',
-        'Regina Brett',
+    'd6705f71-c420-509b-a1e1-a8c44b653658' => [
+        'I can sing and dance. I can smile - a lot.',
+        'Chris Colfer',
     ],
-    '13c6455e-b835-55a4-a26d-df173397be70' => [
-        'Two races share today the soil of Canada. These people had not always been friends. But I hasten to say it. There is no longer any family here but the human family. It matters not the language people speak, or the altars at which they kneel.',
-        'Wilfrid Laurier',
+    'b64e2e4e-b1ca-5d8c-81e8-c6557d4d8b4d' => [
+        'One of the main dilemmas that\'s pretty common to a lot of people who are getting older is the idea that maybe there\'s a finish line and that maybe there\'s a time in your life when you start to slow down and stop and smell the roses and just kind of settle into what will be a comfortable period in your life.',
+        'Chris Cornell',
     ],
-    '21853f51-aa85-5cbb-8407-5143df7fb8cf' => [
-        'Work is love made visible. And if you cannot work with love but only with distaste, it is better that you should leave your work and sit at the gate of the temple and take alms of those who work with joy.',
-        'Khalil Gibran',
+    'd5154f4b-5763-5262-9a39-4e5ab4ae1403' => [
+        'It is even harder for the average ape to believe that he has descended from man.',
+        'H. L. Mencken',
     ],
-    'b77ba7da-4d32-5f22-9d45-922e8f82f5f8' => [
-        'One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.',
-        'Elbert Hubbard',
+    '6765a52a-aa7a-5fe9-a9ed-d384c264d4e7' => [
+        'There are lots of things which I would love to tell him, but in some way, I also feel that I lost the person closest to me. And I got a second chance to live. So in a way I feel that I live for both of us... and I will do my best.',
+        'Petra Nemcova',
     ],
-    '452b94fa-d561-5b17-a76f-be5fa4ddd147' => [
-        'Forests, lakes, and rivers, clouds and winds, stars and flowers, stupendous glaciers and crystal snowflakes - every form of animate or inanimate existence, leaves its impress upon the soul of man.',
-        'Orison Swett Marden',
+    '282f1661-8eda-539d-b305-6e76c2ee1c9c' => [
+        'Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole.',
+        'William S. Burroughs',
+    ],
+    '599717fa-5205-56ba-ab3a-9dfdc825d82c' => [
+        'My eyes are constantly wide open to the extraordinary fact of existence. Not just human existence, but the existence of life and how this breathtakingly powerful process, which is natural selection, has managed to take the very simple facts of physics and chemistry and build them up to redwood trees and humans.',
+        'Arnold Schwarzenegger',
+    ],
+    '1e1d0e89-8d93-5129-9a71-e0aac19bc1e8' => [
+        'Anybody who was in the military or a military family has a certain sensitivity to the separation. Everyone knows military wives have the hardest jobs. I was born into one. When I think back to those days, I didn\'t appreciate it then.',
+        'Lester Holt',
+    ],
+    '65ef818e-a5ff-5afa-9c0d-0fd1c8d3c0c7' => [
+        'Every man dies. Not every man really lives.',
+        'George Takei',
+    ],
+    '2ad93d2a-17bf-597b-a76b-de55c4926092' => [
+        'Do the right thing. It will gratify some people and astonish the rest',
+        'Mark Twain',
     ],
     '0145a36a-6eb1-5891-b451-b04dc5a71921' => [
         'Leaders cannot work in a vacuum. They may take on larger, seemingly more important roles in an organization, but this does not exclude them from asking for and using feedback. In fact, a leader arguably needs feedback more so than anyone else. It\'s what helps a leader respond appropriately to events in pursuit of successful outcomes.',
         'Jack Canfield',
     ],
-    '73546868-47e5-5cad-9318-f4ec848a3b3e' => [
-        'Love is a chain of love as nature is a chain of life.',
-        'Truman Capote',
+    '7107c0aa-0799-5850-9920-66e6c070c13f' => [
+        'What you do makes a difference, and you have to decide what kind of difference you want to make.',
+        'Jane Goodall',
     ],
-    'c2757a5e-8653-5f8a-80b5-e6ebb156c4e5' => [
-        'When something is important enough, you do it even if the odds are not in your favor.',
-        'Elon Musk',
+    '4e690aa3-fee0-55d4-b952-f58b993bdccd' => [
+        'When you are missing someone, time seems to move slower, and when I\'m falling in love with someone, time seems to be moving faster.',
+        'Taylor Swift',
     ],
-    '8b365aeb-c8ae-5332-92db-abb95f4cadfc' => [
-        'I find beauty in the grotesque, like most artists.',
-        'Alexander McQueen',
+    '484869fd-3c4c-54f1-91bb-fc9f990fd349' => [
+        'All truths are easy to understand once they are discovered; the point is to discover them.',
+        'Galileo Galilei',
     ],
-    '1f26e2ca-e49f-51c6-8ada-70a55bef567d' => [
-        'To be a champion, I think you have to see the big picture. It\'s not about winning and losing; it\'s about every day hard work and about thriving on a challenge. It\'s about embracing the pain that you\'ll experience at the end of a race and not being afraid. I think people think too hard and get afraid of a certain challenge.',
+    '26843fa0-ab4c-52d5-b30f-3b4970f970bc' => [
+        'Beauty, by way of fashion, has to do with confidence, with flattering silhouettes, with patterns, with proper fit for body type, and with an abundance of self-love!',
+        'Mary Lambert',
+    ],
+    '57a0cca0-7598-5357-a8ae-35731890f874' => [
+        'Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.',
+        'Joel A. Barker',
+    ],
+    'c958a208-7fca-5a55-94df-36c00dd063fe' => [
+        'The best time to plant a tree was 20 years ago. The second best time is now.',
+        'Chinese Proverb',
+    ],
+    '62b3a1c0-5870-5d04-8adb-f4c9cc95315d' => [
+        'Love is a canvas furnished by nature and embroidered by imagination.',
+        'Voltaire',
+    ],
+    'c539f019-c41a-5a49-8e50-0e7b8167ee0b' => [
+        'Nature is a divine art; it cannot be the artist. It is a dominical book and cannot be the scribe. It is an embroidery and cannot be the embroiderer. It is a register and cannot be the accountant. It is the law and cannot be the power.',
+        'Said Nursi',
+    ],
+    '71cd64a9-ab50-5cad-a835-2785e951cbd1' => [
+        'The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other.',
+        'Sammy Davis, Jr.',
+    ],
+    '5bfebd28-320e-5d59-99c6-3b00b1e4dbbe' => [
+        'I was brought up on a farm, and I\'ve learned that every opportunity that I\'ve had in my life has come from hard work and persistence.',
+        'Susan Bysiewicz',
+    ],
+    'd7c54aa4-1fcb-58c6-80d5-e91ec2f75369' => [
+        'I think the most romantic thing you can do is just turn up. Turn up when it\'s difficult for you. Travel halfway around the world or just up the road. Whatever it is, just be there.',
+        'James McAvoy',
+    ],
+    'c6b39e13-47b5-5168-bc83-fbcafbba527f' => [
+        'The art of healing comes from nature, not from the physician. Therefore the physician must start from nature, with an open mind.',
+        'Paracelsus',
+    ],
+    '17cd1bbf-a906-572a-8fdb-f020e5fc4887' => [
+        'You can follow your favorite company or organization. You can also mix that in with your family and your social network and talk about all these interests in real time. That\'s the value, not the brand \'Twitter.\' Twitter just provides the venue for it.',
+        'Jack Dorsey',
+    ],
+    'ede90446-ab97-56a9-86bc-8a60a4736189' => [
+        'What was past was past. I suppose that was the general attitude.',
+        'V. S. Naipaul',
+    ],
+    'f4357277-1649-56f7-b7c0-f62244735b37' => [
+        'Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.',
+        'Marcus Aurelius',
+    ],
+    'a14d9a88-3702-5a56-9bfd-06c38d91d76b' => [
+        'Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.',
+        'Robert Graves',
+    ],
+    '4c6344d8-8858-5877-adb7-89dc51b9a0d3' => [
+        'All men\'s souls are immortal, but the souls of the righteous are immortal and divine.',
+        'Socrates',
+    ],
+    '99a293ff-3c43-5f21-a3b1-952b6177f01f' => [
+        'I think Islam has been hijacked by the idea that all Muslims are terrorists; that Islam is about hate, about war, about jihad - I think that hijacks the spirituality and beauty that exists within Islam. I believe in allowing Islam to be seen in context and in its entirety and being judged on what it really is, not what you think it is.',
+        'Aasif Mandvi',
+    ],
+    '61dae638-4303-52b9-9a11-73391150b0e9' => [
+        'Pick a flower on Earth and you move the farthest star.',
+        'Paul Dirac',
+    ],
+    'cafd63d8-86b1-5f1e-a953-42b8b7040bd1' => [
+        'Until you value yourself, you won\'t value your time. Until you value your time, you won\'t do anything with it.',
+        'M. Scott Peck',
+    ],
+    'f85e153c-c19d-5b59-be8d-b724474c8e76' => [
+        'A river cuts through a rock not because of its power but its persistence.',
+        'Anonymous',
+    ],
+    'dcf3d453-ebd4-5fff-9550-b38e76d9e51e' => [
+        'Beauty is how you feel inside, and it reflects in your eyes. It is not something physical.',
+        'Sophia Loren',
+    ],
+    '0f3166c1-4f0e-524d-9d57-03e2b8169c61' => [
+        'My work is like my vacation, so in a way every day is like Saturday.',
+        'Ludacris',
+    ],
+    '2e351701-ef9e-5b7f-9ab2-8bb33da73f32' => [
+        'Giving up doesn\'t always mean you are weak. Sometimes it means that you are strong enough to let go.',
+        'Unknown',
+    ],
+    'c4cca727-3fa7-5d81-832f-2fb1e84d3c38' => [
+        'Many of the most eloquent people I have ever met work in lab coats every day.',
+        'Michael Specter',
+    ],
+    '0d38dfec-77be-5c36-b1ac-4893977185e7' => [
+        'A diva is someone who is a perfectionist, who does her best in her craft.',
+        'Patti LaBelle',
+    ],
+    'cb6ae3a7-1473-5ca6-a699-282dcfa26a09' => [
+        'Thinking about your training should put a smile on your face. As cliche as it sounds, you are worth all the time and energy you\'ve put in. Unleash your emotions with a cheer, or even a signature roar, after a tough workout.',
         'Summer Sanders',
     ],
-    '6372ab3d-7a26-531a-9025-a01230fa9ba7' => [
-        'You get educated by traveling.',
-        'Solange Knowles',
+    '48a92c85-1a7c-5154-a591-ac66279a8c42' => [
+        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
+        'Benjamin Franklin',
     ],
-    'c812fc2b-b7e3-5c19-9269-7680681dee12' => [
-        'Go to your bosom: Knock there, and ask your heart what it doth know.',
-        'William Shakespeare',
+    '25a8e250-1656-502f-9f67-f6632e71d97e' => [
+        'A friend is what the heart needs all the time.',
+        'Henry Van Dyke',
     ],
-    'fe7f0b45-739c-5b05-8592-e7173073b160' => [
-        'When it\'s your will versus another person\'s will, the worst thing you can do is smile in their face when you\'re competing. That\'s what I tell our guys. Go have fun.',
-        'DeAngelo Williams',
+    '94ec52d5-a784-545f-a6be-b3c5adcfae53' => [
+        'Musicals are, by nature, theatrical, meaning poetic, meaning having to move the audience\'s imagination and create a suspension of disbelief, by which I mean there\'s no fourth wall.',
+        'Stephen Sondheim',
     ],
-    'd0205dfe-13cc-5f00-86d7-935b875022a2' => [
-        'A man should never neglect his family for business.',
-        'Walt Disney',
+    '8d9b0438-b5b7-511a-9ad1-77f4d7ce0386' => [
+        'To enjoy life, we must touch much of it lightly.',
+        'Voltaire',
     ],
-    '68968e81-0724-5392-9652-e89564e13a8d' => [
-        'It is one of the blessings of old friends that you can afford to be stupid with them.',
-        'Ralph Emerson',
-    ],
-    '428f7dc3-38b5-5176-a153-5edef8dcc837' => [
-        'Ideas are the beginning points of all fortunes.',
-        'Napoleon Hill',
-    ],
-    '2489e6b6-81d3-57d0-846b-66e459e30f82' => [
-        'Never, never, never give up.',
-        'Winston Churchill',
-    ],
-    '90c61f82-8222-50b1-b004-dfd50cfd45ce' => [
-        'The number one reason people fail in life is because they listen to their friends, family, and neighbors.',
-        'Napoleon Hill',
-    ],
-    'a4edede7-4e9a-57ae-ae89-66448ec1246f' => [
-        'The negative side of the American Dream comes when people pursue success at any cost, which in turn destroys the vision and the dream.',
-        'Azar Nafisi',
-    ],
-    'bc1d4d98-cb93-5443-b198-edcbcdd88161' => [
-        'Be slow of tongue and quick of eye.',
-        'Cervantes',
-    ],
-    '1e8a0a84-8c56-5214-9cfb-bf4560077572' => [
-        'The most remarkable thing about my mother is that for thirty years she served the family nothing but leftovers. The original meal has never been found.',
-        'Calvin Trillin',
-    ],
-    'f092fbfc-2477-5109-be65-60b49165b5c6' => [
-        'We all learn lessons in life. Some stick, some don\'t. I have always learned more from rejection and failure than from acceptance and success.',
-        'Henry Rollins',
-    ],
-    '3b4384b8-effc-5ff0-b905-fd86ad7890bc' => [
-        'The best way to pay for a lovely moment is to enjoy it.',
-        'Richard Bach',
-    ],
-    'cf23a230-fa6b-5514-813e-f3aeb8931fd5' => [
-        'A forest bird never wants a cage.',
-        'Henrik Ibsen',
-    ],
-    '65003466-5d13-5038-a106-64f983a6b261' => [
-        'I wake up every morning literally with a smile on my face, grateful for another day I never thought I\'d see.',
-        'Dick Cheney',
-    ],
-    'f2bd8300-bf4c-5c61-bc7b-5639c76f1d73' => [
-        '\'UFO\'s\' attitude toward the subject is very similar to mine. It\'s not an advocacy; its philosophy is more \'I want to believe this, but I want it proved.\'',
-        'Dwight Schultz',
-    ],
-    '9b6bd8e9-92c8-5d19-a2b1-1731c3b420b8' => [
-        'Music always lived with me, like a family tradition.',
-        'Desiigner',
-    ],
-    '146eed62-07df-54a6-b076-98476a65b104' => [
-        'A lot of people love to do affirmations first thing in the morning - to keep themselves feeling peppy and positive.',
-        'Karen Salmansohn',
-    ],
-    'd0805591-b3ad-5cfb-a7eb-a0ec608091e4' => [
-        'Life is not a problem to be solved, but a reality to be experienced.',
-        'Golda Meir',
-    ],
-    '49784fff-f35d-5d16-b1b5-3a14431768eb' => [
-        'The eye sees only what the mind is prepared to comprehend.',
-        'Henri Bergson',
-    ],
-    'ee51ba8e-03a8-5c14-b470-16f9d7eaf21e' => [
-        'My grandmother started walking five miles a day when she was sixty. She\'s ninety-seven now, and we don\'t know where the hell she is.',
-        'Ellen DeGeneres',
-    ],
-    '3618884b-2c3f-53b7-a339-177cef258ad6' => [
-        'The government will see that human spaceflight is useful - for science and the economy - and inspirational.',
-        'Helen Sharman',
-    ],
-    'cd6eed71-181a-5013-bfd2-6e73c682e041' => [
-        'I grew up in a funny way.',
-        'Gordon Ramsay',
-    ],
-    '99cf7f7c-96c2-56f7-a716-cccb999ac43e' => [
-        'I have found in work that you only get back what you put into it, but it does come back gift-wrapped.',
-        'Joyce Brothers',
-    ],
-    '0b3fcd2f-fe90-5ccd-bd10-9781630b9bb7' => [
-        'My first ever job after college was as a flight attendant. I wanted to travel and could not afford it, so I decided to get myself a job where I could travel. I did it for two years and had great fun.',
-        'Jacqueline Winspear',
-    ],
-    '6e9ffe28-cd1f-54b0-ad40-06178ae8dcab' => [
-        'Id rather have a fake smile than a nasty stare.',
-        'Tamara Ecclestone',
-    ],
-    '2c958ffc-4093-5b23-8c98-a8514b3420f2' => [
-        'I think Spain will always remain inspirational, and I think French cuisine will continue to be very French and yet very relevant with its time and keep evolving. But the last thing you want for it is to become too trendy and confusing. It has too much history.',
-        'Daniel Boulud',
-    ],
-    'a4fcc205-33d0-5672-83f3-c5dae5b15eee' => [
-        'The reports of my death have been greatly exaggerated.',
-        'Mark Twain',
-    ],
-    '23c00c4d-3b48-5999-96f9-c309028cadff' => [
-        'One may walk over the highest mountain one step at a time.',
-        'Barbara Walters',
-    ],
-    '9cbd39d3-9372-5e30-8d46-2493aafc9c6c' => [
-        'They tell us that suicide is the greatest piece of cowardice... that suicide is wrong; when it is quite obvious that there is nothing in the world to which every man has a more unassailable title than to his own life and person.',
-        'Rita Rudner',
-    ],
-    'b7d54ad9-8267-5a39-9a50-0564d2712e81' => [
-        'Every year, like a good Catholic, I wait for Christmas. Putting up the lights, decorating the tree, making sweets and then unwrapping gifts on Christmas morning... it\'s a tradition my family has followed since I was very little.',
-        'Malaika Arora Khan',
-    ],
-    '388bbca4-621f-50aa-a3bb-bdeeee1b9dc9' => [
-        'The time to take counsel of your fears is before you make an important battle decision. That\'s the time to listen to every fear you can imagine! When you have collected all the facts and fears and made your decision, turn off all your fears and go ahead!',
-        'George S. Patton',
+    '511aeca0-7838-5be2-afad-4644c5b36f5f' => [
+        'I always travel with my bike and it has become a little more difficult to do it nowadays, but I stick it in 3,5 by 6-foot case and wheel that thing in.',
+        'Donny Robinson',
     ],
 ];

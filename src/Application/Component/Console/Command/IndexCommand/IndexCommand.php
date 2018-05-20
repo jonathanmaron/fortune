@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Console\Command\IndexCommand;
 
 use Application\Component\Filesystem\Filesystem;
@@ -9,7 +11,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class IndexCommand extends AbstractCommand
 {
-    protected function configure()
+    protected function configure(): self
     {
         $this->setName('index');
 
@@ -18,7 +20,7 @@ class IndexCommand extends AbstractCommand
         return $this;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): self
     {
         $filesystem = new Filesystem();
         $finder     = new Finder();

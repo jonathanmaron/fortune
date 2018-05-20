@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'fca8d724-6d24-54d1-8ac9-3ff92551cd61' => [
-        'No eyes that have seen beauty ever lose their sight.',
-        'Jean Toomer',
-    ],
-    '69e55eb6-c3e9-5812-92d8-ef0a9e316120' => [
-        'I think it\'s evident that expensive neighborhoods in Seattle are surrounded by natural beauty. That elevates city life. So if we can make cities more attractive in the long run, we can be smarter about issues like development, zoning and economics.',
-        'Stone Gossard',
-    ],
-    'ae6536c0-67af-5f6a-9b60-ff9ec856faa6' => [
-        'If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.',
-        'Daisaku Ikeda',
-    ],
-    'ec3864d0-db4a-5b6a-abc6-fd09063c4f65' => [
-        'I am so fresh in soul and spirit that life gushes and bubbles around me in a thousand springs.',
-        'Robert Schumann',
-    ],
-    '37799abe-0113-5267-8e45-dedf89286ac5' => [
-        'Mountains cannot be surmounted except by winding paths.',
-        'Johann Wolfgang von Goethe',
-    ],
-    '65efb8e3-d36b-5054-a9f0-e4aea5fc70c4' => [
-        'We know from science that nothing in the universe exists as an isolated or independent entity.',
-        'Margaret Wheatley',
-    ],
-    'c6ffa940-28ab-53e3-8feb-e26150932bfd' => [
-        'My whole damn family was nice. I don\'t think I\'ve imagined it. It\'s true. Maybe it has to do with being brought up as Christian Scientists. Half of my relatives were Readers or Practitioners in the church.',
-        'Henry Fonda',
-    ],
-    '338ed5f6-aeb8-56b6-bea0-228818a0b746' => [
-        'I am closer and closer to reaching my childhood dream. This is really exciting! I will continue to work hard, to focus on each tournament I play.',
-        'Yani Tseng',
-    ],
-    '0b0c8368-c933-5161-9b0e-bb40ad813fbe' => [
-        'I don\'t reflect much, unless I\'m talking to the media. I have more of a \'Forward, march!\' kind of attitude.',
-        'Kerry King',
-    ],
-    '20ad308e-aecd-570b-b209-7170e8d9eb8a' => [
-        'Many people spend more time in planning the wedding than they do in planning the marriage.',
+    '00022e91-115d-5a2b-888e-d2d0178270f6' => [
+        'Time can be an ally or an enemy. What it becomes depends entirely upon you, your goals, and your determination to use every available minute.',
         'Zig Ziglar',
     ],
-    '74e680ec-4312-5b1a-bfee-5fe4f4c23731' => [
-        'Art washes away from the soul the dust of everyday life.',
-        'Pablo Picasso',
+    '4dec428c-a75d-5a8f-92e0-bf5506ec3407' => [
+        'This is the great reward of service, to live, far out and on, in the life of others; this is the mystery of Christ, - to give life\'s best for such high sake that it shall be found again unto life eternal.',
+        'Joshua Chamberlain',
     ],
-    '26f7f41e-8bca-5a85-b430-d57060a7cd17' => [
-        'Yeah we all shine on, like the moon, and the stars, and the sun.',
-        'John Lennon',
+    'db94e19f-12b7-55b0-95c6-ecf8fafdd0a2' => [
+        'Why don\'t you start believing that no matter what you have or haven\'t done, that your best days are still out in front of you.',
+        'Joel Osteen',
     ],
-    '39b5174e-fbdb-5b09-ad9d-53f7315baef3' => [
-        'Fear is a darkroom where negatives develop.',
-        'Usman Asif',
+    'f588de29-cbad-5456-9060-25375e15ffed' => [
+        'Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.',
+        'Pele',
     ],
-    '25023631-1682-5640-9fac-fc1419d51e80' => [
-        'If you\'re running around with a negative attitude all the time, you\'re going to feel down; you\'re going to have negative results.',
-        'Craig Sager',
-    ],
-    'de1ba38c-219d-5409-841d-df5792310fd3' => [
-        'In chess one cannot control everything. Sometimes a game takes an unexpected turn, in which beauty begins to emerge. Both players are always instrumental in this.',
-        'Vladimir Kramnik',
-    ],
-    'fdd27f87-83bf-5baa-bf5c-044f5f4dcff1' => [
-        'I don\'t have to look up my family tree, because I know that I\'m the sap.',
-        'Fred Allen',
-    ],
-    'e31f55df-4520-5e7e-a5df-9c419ed84b0b' => [
-        'If you believe you can make a difference, then you will make a difference. Believe in yourself, your family and your community and you will win.',
-        'Lindsay Fox',
-    ],
-    '1b5ed53b-24e9-520a-99c9-628721563044' => [
-        'And if small businesspeople say they made it on their own, all they are saying is that nobody else worked seven days a week in their place. Nobody showed up in their place to open the door at five in the morning. Nobody did their thinking, and worrying, and sweating for them.',
-        'Paul Ryan',
-    ],
-    '6ab309b5-1a2e-5e84-9455-7be73aed05d9' => [
-        'Nature surrounds us, from parks and backyards to streets and alleyways. Next time you go out for a walk, tread gently and remember that we are both inhabitants and stewards of nature in our neighbourhoods.',
-        'David Suzuki',
-    ],
-    'd56ec8a2-fca7-5b1b-9947-68c8cb3a1638' => [
-        'Those who have succeeded at anything and don\'t mention luck are kidding themselves.',
-        'Larry King',
-    ],
-    '116580f3-733c-5c2d-8bfb-e34662008324' => [
-        'All punk is is attitude. That\'s what makes it. The attitude.',
-        'Joey Ramone',
-    ],
-    '0e9637fc-8061-5094-bf25-67f831dbeb34' => [
-        'Competition is always a good thing. It forces us to do our best. A monopoly renders people complacent and satisfied with mediocrity.',
-        'Nancy Pearcey',
-    ],
-    '4a5692ff-7cba-5531-a2aa-d4ca1f11c4b4' => [
-        'Where the spirit does not work with the hand, there is no art.',
-        'Leonardo da Vinci',
-    ],
-    'f964b638-72b4-5483-91f8-c99f8ddfbbeb' => [
-        'Always bear in mind that your own resolution to succeed is more important than any other.',
-        'Abraham Lincoln',
-    ],
-    'b65e327e-818f-5cbf-ae47-de76fad1ac42' => [
-        'O sweet, delusive Noon, Which the morning climbs to find, O moment sped too soon, And morning left behind.',
-        'Helen Hunt Jackson',
-    ],
-    '1dce3695-fccd-5dc4-9c6d-823ce54b9a28' => [
-        'Sudden success in golf is like the sudden acquisition of wealth. It is apt to unsettle and deteriorate the character.',
-        'P. G. Wodehouse',
-    ],
-    'f32f444b-5236-572b-b9ab-9979168e0dfc' => [
-        'It is through science that we prove, but through intuition that we discover.',
-        'Jules Poincare',
-    ],
-    '41cae6c4-7bf9-5770-880f-42ee9f092315' => [
-        'I discovered that the horse is life itself, a metaphor but also an example of life\'s mystery and unpredictability, of life\'s generosity and beauty, a worthy object of repeated and ever changing contemplation.',
-        'Jane Smiley',
-    ],
-    '98f53d2a-aaaa-5c61-bc03-14d52824ed9c' => [
-        'A lot can be said with just a look, or the way the body moves. Each song is a different character. So each song takes on a different movement of the body. And the body has to go with the subject and the attitude that you have toward that subject.',
-        'Eartha Kitt',
-    ],
-    '5dbb0ae3-7677-57b0-b6b5-f807a2f3572e' => [
-        'I\'m passionate about travel.',
-        'Jordana Spiro',
-    ],
-    'bbf2916f-643e-5636-818e-6d3dcaf8790a' => [
-        'I don\'t think there\'s any dearth of talent in India - we\'ve always had the best juniors in the world.',
-        'Mahesh Bhupathi',
-    ],
-    '4a397241-420a-5145-884f-bf32ad34f07e' => [
-        'Every job has its downside. For example, being in a band; the travel part of it - getting picked up from your house in a car, going to the airport, getting on a plane, going from the airplane to a van, then going from the van to a hotel.',
-        'Dave Lombardo',
-    ],
-    'bd65743e-d945-5df2-bed2-01fcad04122d' => [
-        'Hide nothing, for time, which sees all and hears all, exposes all.',
-        'Sophocles',
-    ],
-    'cb1d564d-998b-51c8-a229-bea973479732' => [
-        'If we want to travel into the future, we just need to go fast. Really fast. And I think the only way we\'re ever likely to do that is by going into space.',
+    '0be8ac2b-f52d-5905-a411-80602a473ee9' => [
+        'Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.',
         'Stephen Hawking',
     ],
-    '85ee2429-e6af-5f66-8a05-99c32af921e6' => [
-        'The handicap of deafness is not in the ear; it is in the mind.',
-        'Marlee Matlin',
+    '2793ce87-1147-5875-b016-c6c8800278c9' => [
+        'And where I excel is ridiculous, sickening, work ethic. You know, while the other guy\'s sleeping? I\'m working.',
+        'Will Smith',
     ],
-    'a5a03880-15cb-5d75-9de0-fe5e095eb195' => [
-        'I think I\'ve always had a certain amount of skepticism of this whole \'shut up and smile\' theory. I haven\'t ever swallowed that pill so easily, although I tried.',
-        'Amber Heard',
+    '0a872e44-8ca9-5338-9ce4-df84b256bf57' => [
+        'He is a man, who is to be a man, the fruit is always present in the seed.',
+        'Rene Descartes',
     ],
-    '42b40f9d-4d2f-5fc8-b89d-2cc9afb562f4' => [
-        'The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.',
-        'Vince Lombardi',
+    'f40b76bc-842b-53e0-bd83-18dfccb5e890' => [
+        'Pleasure in the job puts perfection in the work.',
+        'Aristotle',
     ],
-    'ace90b65-1f26-506b-a831-75de90cc15d4' => [
-        'Fear is a natural reaction to moving closer to the truth.',
-        'Pema Chodron',
+    '63288b23-09d3-58aa-9c76-55c5fe86f931' => [
+        'Essentially, all expressions of human nature ever produced, from a caveman\'s paintings to Mozart\'s symphonies and Einstein\'s view of the universe, emerge from the same source: the relentless dynamic toil of large populations of interconnected neurons.',
+        'Miguel Nicolelis',
     ],
-    '8be9c03d-9386-57e2-af25-203de49165d8' => [
-        'Good planning is important. I\'ve also regarded a sense of humor as one of the most important things on a big expedition. When you\'re in a difficult or dangerous situation, or when you\'re depressed about the chances of success, someone who can make you laugh eases the tension.',
-        'Edmund Hillary',
+    '7fe92738-5f44-56a2-acd6-69cba577ee7b' => [
+        'Scenery is fine - but human nature is finer.',
+        'John Keats',
     ],
-    '7ec4eaf8-843d-5c9b-a7b1-8a2b8f012d8b' => [
-        'By four years of age, the average child in a family receiving public assistance has heard about 13 million words, compared to 45 million for a child from a wealthier family. The disadvantages developed during their first four years are usually still present in high school.',
-        'Sal Albanese',
+    '0f2360c2-6158-5834-8369-ba2e592db467' => [
+        'Turning pro is a mindset. If we are struggling with fear, self-sabotage, procrastination, self-doubt, etc., the problem is, we\'re thinking like amateurs. Amateurs don\'t show up. Amateurs crap out. Amateurs let adversity defeat them. The pro thinks differently. He shows up, he does his work, he keeps on truckin\', no matter what.',
+        'Steven Pressfield',
     ],
-    'f36e2a98-2fb7-5916-a91a-3ded377ab128' => [
-        'I\'ve never met a funny person who wasn\'t smart. I\'ve met a lot of dramatic people who were stupid. But I\'ve never met a funny person who wasn\'t smart.',
-        'Rob Lowe',
+    'adba060b-5225-543f-b57b-58ab036dcbd9' => [
+        'You know what\'s funny to me? Attitude.',
+        'Don Rickles',
     ],
-    '87a668ea-7eb1-5c01-9271-e0fdd0bfb56a' => [
-        'I have a great family, I live an amazing life.',
-        'John Oates',
+    '23f3f18f-e597-5ad2-8cbe-b362073a904f' => [
+        'Life is a difficult game. You can win it only by retaining your birthright to be a person.',
+        'Mark Twain',
     ],
-    '2e82b8d6-750c-5a0a-9887-41bbf7132216' => [
-        'Be Impeccable With Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.',
-        'Don Miguel Ruiz',
+    'dc57cf24-46c8-5205-83d9-5ece770b3a3f' => [
+        'Going by my past journey, I am not certain where life will take me, what turns and twists will happen; nobody knows where they will end up. As life changes direction, I\'ll flow with it.',
+        'Joyce Meyer',
     ],
-    '483b8b63-578d-5509-9ea2-4e805400ea4b' => [
-        'If I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for my life.',
-        'Henry David Thoreau',
+    '9363eacc-f14f-5c47-8a3f-bb3431651f19' => [
+        'What other people call dark and despairing, I call funny.',
+        'David Sedaris',
     ],
-    '994297d4-8ec8-55e7-8eb2-c2e24b99e031' => [
-        'Time destroys the speculation of men, but it confirms nature.',
-        'Marcus Tullius Cicero',
+    '95d73c0b-3598-59ac-bb84-20e2a422489a' => [
+        'The key to education is the experience of beauty.',
+        'Friedrich Schiller',
     ],
-    '000b1a46-3272-596a-b7f8-bd161a1f1e7c' => [
-        'The most difficult is the first family, to bring someone out of the world.',
-        'Richard G. Scott',
+    '116f368f-1e61-540d-b262-93bf8aa8d765' => [
+        'I grew up in an era of thinking of travel as escape. The idea that you could conceivably have a new life, go somewhere, fall in love, have little children under the palm trees.',
+        'Paul Theroux',
     ],
-    '2d878dd8-bf56-54be-9cc1-f2d69f892106' => [
-        'Holding on to anger, resentment and hurt only gives you tense muscles, a headache and a sore jaw from clenching your teeth. Forgiveness gives you back the laughter and the lightness in your life.',
-        'Anthony Hopkins',
+    '8f4d23db-0918-57a6-80ee-df9a3493f3de' => [
+        'Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.',
+        'Byron Pulsifer',
     ],
-    '0b51780b-e2c7-5b23-ba63-4d86d7c11112' => [
-        'Feeling anxious or depressed sometimes is part of what it means to be a person, and it might even be essential to success.',
-        'K. Flay',
+    '5d077002-1d12-5b79-881f-23716ff53504' => [
+        'Reject your sense of injury and the injury itself disappears.',
+        'Marcus Aurelius',
     ],
-    'fcf2d4e5-0479-5f8f-b8ae-91fd9c04075e' => [
-        'Opponents of capital punishment argue that the state has no right to take a murderer\'s life. Apparently, one fact that abolitionists forget or overlook is that the state is acting not only on behalf of society, but also on behalf of the murdered person and the murdered person\'s family.',
-        'Dennis Prager',
+    'bcfcbf96-5521-5941-bbd4-b5be9ee3c8a0' => [
+        'I think that a lot of people in all walks of life have the impression, of course, that, \'I specialize in something. I can\'t - I don\'t have the time to read other things. I\'ll just go to pure entertainment when I\'m relaxing, and then I\'ll come back to my pure specialty.\' That produces - that attitude produces idiot savants, unfortunately.',
+        'Robert J. Shiller',
     ],
-    '85a75f2d-1d9d-5b87-b18a-571b0a4002e5' => [
-        'Time is a beautiful thing. It\'s like when you meet an old lover on the street six years later and they don\'t look so ugly anymore.',
-        'Sarah McLachlan',
+    '8e3d13ac-be1b-529e-b818-f5e28aab2cf0' => [
+        'The beauty of Hawaii probably surpasses other places. I like the Big Island and the two mountains, Mauna Loa and Mauna Kea, where you can look out at the stars.',
+        'Buzz Aldrin',
+    ],
+    'a8ae96cc-84bf-5841-820b-cc3135aa6ed8' => [
+        'Part of what made the Macintosh great was that the people working on it were musicians, poets, and artists, and zoologists, and historians. They also happened to be the best computer scientists in the world. But if it hadn\'t been computer science, these people would have been doing amazing things in other fields.',
+        'Steve Jobs',
+    ],
+    '4e265850-3f0f-5a50-be3d-4761bc6fb986' => [
+        'Our attitudes control our lives. Attitudes are a secret power working twenty-four hours a day, for good or bad. It is of paramount importance that we know how to harness and control this great force.',
+        'Irving Berlin',
+    ],
+    '669c2866-1f1b-507c-8a13-89242e9788fa' => [
+        'In Scotland over many years we have cultivated through our justice system what I hope can be described as a \'culture of compassion.\' On the other hand, there still exists in many parts of the U.S., if not nationally, an attitude towards the concept of justice which can only be described as a \'culture of vengeance.\'',
+        'Keith O\'Brien',
+    ],
+    '6e1b4837-a0c5-5612-a79e-d7f1c72e8c08' => [
+        'When I draw my caricature self-portrait, I always do a huge smile.',
+        'Rolf Harris',
+    ],
+    '9c4275a7-f3db-5f2c-9fe3-599044b7d846' => [
+        'I went window shopping today! I bought four windows.',
+        'Tommy Cooper',
+    ],
+    '822801fc-56a5-59d1-a197-24bd6b3165d9' => [
+        'Playing video games is something I enjoy in my spare time. I\'m a gamer, always have been.',
+        'Kevin Garnett',
+    ],
+    '3804c36d-a5ef-5a0c-bbfc-b2a64e2b249c' => [
+        'One time, the teacher was the storehouse of knowledge. That will no longer be so. So what would a teacher do? A very good teacher will play the role of augmenter. Also, the teacher will be located anywhere and helping students.',
+        'Shiv Nadar',
+    ],
+    '830c259b-a59f-5ac9-bff5-0e9acc4aecaf' => [
+        'I never liked apples. In fact, when I was a little girl, my mom wanted to give me apples in my lunch box and I would ask for green peppers. So bizarre... It\'s funny - I don\'t have an apple a day, but I can say that I have a few a week.',
+        'Lana Parrilla',
+    ],
+    'd6f647e8-e5fe-561b-9b12-e9053068acdb' => [
+        'Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.',
+        'Hal Borland',
+    ],
+    '76f125c7-743b-583a-b401-7c98b6b586f6' => [
+        'If you go on my Instagram, you\'re not going to see the same content you\'ll see on my YouTube. Instagram has become the new magazine. It\'s much more editorial and about perfect moments that are captured. Snapchats are funny, real moments that you want to share. On YouTube, it\'s more structured, more storytelling.',
+        'Michelle Phan',
+    ],
+    '310b4a7a-4985-5778-9954-c385f4b36a25' => [
+        'Nobody travels on the road to success without a puncture or two.',
+        'Navjot Singh Sidhu',
+    ],
+    'dff6d051-df50-5464-b9b2-5c5c2b4e52c9' => [
+        'I think acting is about forgetting yourself in order to give the best of yourself. It\'s passing through you more than you\'re creating it. You\'re not the flower, but the vase which holds the flower.',
+        'Juliette Binoche',
+    ],
+    'ae27fa37-3266-5879-af8f-ef0a65769654' => [
+        'The success of any great moral enterprise does not depend upon numbers.',
+        'William Lloyd Garrison',
+    ],
+    '996a55c5-eaf1-5b38-b2c6-0ab9ae08e85b' => [
+        'I hoped I could make people smile and laugh and have a good time.',
+        'Carson Kressley',
+    ],
+    '47de8039-55bf-5cb3-a768-a5332e7dd1a0' => [
+        'Sometimes it is better to lose and do the right thing than to win and do the wrong thing.',
+        'Tony Blair',
+    ],
+    'd4e81b80-dd4a-5c91-bd9a-84197e354fe1' => [
+        'For me the greatest beauty always lies in the greatest clarity.',
+        'Gotthold Ephraim Lessing',
+    ],
+    '1edd4584-34a8-53c7-957e-b95c8f77ff90' => [
+        'When you wake up every day, you have two choices. You can either be positive or negative; an optimist or a pessimist. I choose to be an optimist. It\'s all a matter of perspective.',
+        'Harvey Mackay',
+    ],
+    'dd34155e-ca98-5dda-bdb7-9e2855f30ab0' => [
+        'My family and I are so close, it\'s important to have a close knit relationship and to make time to spend with each other, especially at the holidays.',
+        'Gia Coppola',
+    ],
+    '972860a1-39be-595b-a546-60a0b999b1d6' => [
+        'The science of today is the technology of tomorrow',
+        'Edward Teller',
+    ],
+    'd2471523-2cad-503d-8906-84df02094560' => [
+        'I like to spend as much time with my friends and family as possible.',
+        'Zara Larsson',
+    ],
+    'c14e34c0-1d49-5f6f-b3ec-27fbaad918ee' => [
+        'We love super-silly moments, funny moments, serious moments, weird moments.',
+        'Riki Lindhome',
+    ],
+    'bf9a8a05-2c22-5360-b825-e5d6689150b6' => [
+        'Gamer humor ranges all over the place. What it comes down to is taking a lot of what we see in gaming and we\'re familiar with in gaming and being like, \'OK, hold on, let\'s re-examine this for a second. Isn\'t this funny? Isn\'t this strange? Isn\'t this a little bit ridiculous?\' That\'s where it is.',
+        'Freddie Wong',
+    ],
+    '599d6d4d-047d-55d6-b500-bb7cf332d62b' => [
+        'Money won\'t create success, the freedom to make it will.',
+        'Nelson Mandela',
+    ],
+    '23a55c46-1f15-5128-9d77-c906ae15c45c' => [
+        'I like to post positive content, and I like to try and make people smile. That\'s why those videos are popular. I don\'t fake it.',
+        'Cameron Dallas',
+    ],
+    '1ebdda4a-70ca-5864-b967-f828a7d43fa0' => [
+        'The most common way people give up their power is by thinking they don\'t have any.',
+        'Alice Walker',
+    ],
+    '4482e45c-22ab-5351-a286-15e109fb749b' => [
+        'I love to travel, but sometimes it\'s nice to stay in one place.',
+        'Gustavo Dudamel',
+    ],
+    '04e8d59d-f2e5-52ab-b9f0-705acda87288' => [
+        'Nothing can express the aim and meaning of our work better than the profound words of St. Augustine - \'Beauty is the splendor of Truth.\'',
+        'Ludwig Mies van der Rohe',
+    ],
+    '4680721e-631a-5d6b-a20b-2ea19c15ef24' => [
+        'Anybody who succeeds is helping people. The secret to success is find a need and fill it; find a hurt and heal it; find a problem and solve it.',
+        'Robert H. Schuller',
+    ],
+    '542e2341-c4cf-5fa1-beda-795237377d3f' => [
+        'I sincerely feel that beauty largely comes from within.',
+        'Christy Turlington',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'cb02be38-1c05-5e55-bc59-0149a286ed7c' => [
-        'I love the fact that we are surrounded by this spectacular natural beauty that routinely strikes us dead. Hikers walk off into the woods and are never seen again. And still we tug on our fleece and skip off into the wilderness, not a care in the world.',
-        'Chelsea Cain',
+    'a51e3364-62bd-5a61-92b1-b5fdffd97656' => [
+        'Would Jove appoint some flower to reign, in matchless beauty on the plain, the Rose (mankind will all agree). The Rose the queen of flowers should be.',
+        'Sappho',
     ],
-    '0ec68a1f-c77c-5e4a-b280-2fb7ce71967d' => [
-        'I\'ve done a lot of albums and I kinda know when I\'m onto something that was inspirational for me to record and create, and this was one of those projects where I really enjoyed making the album.',
-        'Lee Ritenour',
+    '5bbcfa64-be7d-5db2-ae2b-2174101d79b5' => [
+        'I was one of those weird kids who didn\'t really speak or smile. I remember my teachers would call home and ask if everything was fine at home because I would never smile. Then I got into this phase, from maybe fourth to eighth grade, where my personality just did a 180.',
+        'Alessia Cara',
     ],
-    '3a324bb0-6726-5d81-ba9d-fdf53dd31fcf' => [
-        'Think with your whole body.',
-        'Taisen Deshimaru',
+    'ea8881e7-fa3f-5d2c-a871-352885d1739a' => [
+        'Science is the best idea humans have ever had. The more people who embrace that idea, the better.',
+        'Bill Nye',
     ],
-    'a88c595a-4fbf-58a7-a9b7-29fea62dfa2b' => [
-        'Success consists in being successful, not in having potential for success. Any wide piece of ground is the potential site of a palace, but there\'s no palace till it\'s built.',
-        'Fernando Pessoa',
+    'f4a6e80a-e740-50f3-b25c-cf438c416cbf' => [
+        'I keep my head straight by having the right people around me, from my friends and family to my management and my team. They all keep me in my place. If I didn\'t have them supporting all the work that I do, I wouldn\'t be in such a solid place.',
+        'Jess Glynne',
     ],
-    '5dc015bd-ee3f-56fd-9ccb-5d1d343edb70' => [
-        'Before \'Gangnam Style\' I was not a good attitude artist.',
-        'Psy',
+    'ea626ab6-5b76-5529-977f-d7b30719dc1b' => [
+        'Right now I\'m having amnesia and deja vu at the same time... I think I\'ve forgotten this before.',
+        'Steven Wright',
     ],
-    '9beb7848-b175-59c0-8ae7-a08c72e36ab6' => [
-        'I have grown up but that should be a positive thing. When you look at a photo album it\'s lovely to remember being so young but it\'s also good to know you grew up!',
-        'Jenny Agutter',
+    'e54211c8-fb20-5486-89f2-11f4acd7062d' => [
+        'The only limit to your impact is your imagination and commitment.',
+        'Tony Robbins',
     ],
-    '35c535a6-91ea-511d-9f98-ffbb26fd6c10' => [
-        'The only rock I know that stays steady, the only institution I know that works, is the family.',
-        'Lee Iacocca',
+    '6760c7e2-f90a-586c-87dc-52a3a061cc6e' => [
+        'Spending time outdoors makes you feel great.',
+        'Elizabeth Hurley',
     ],
-    'c63b0d15-ea94-55cf-91bd-52a3ef30e968' => [
-        'The success combination in business is: Do what you do better... and: do more of what you do.',
-        'David Joseph Schwartz',
+    '9f2394a2-b8ef-5ee3-8b6d-8448e3a3555d' => [
+        'Collaboration is the best way to work. It\'s only way to work, really. Everyone\'s there because they have a set of skills to offer across the board.',
+        'Antony Starr',
     ],
-    '0a59d11b-3532-5da2-b5a2-edbc2dcda7f0' => [
-        'The thing we often forget to talk about, or perhaps we take for granted, is our country\'s dazzling beauty. Our natural environment is so much a part of Australia\'s art, writing, music and culture, both indigenous and non indigenous.',
-        'Quentin Bryce',
+    '13d9a63b-a701-52a3-b1b3-14cbceebea54' => [
+        'Understanding is the first step to acceptance, and only with acceptance can there be recovery.',
+        'J.K. Rowling',
     ],
-    '61145ac6-135b-5548-ad55-50b97ad0259e' => [
-        'Integrate what you believe in every single area of your life. Take your heart to work and ask the most and best of everybody else, too.',
-        'Meryl Streep',
+    'a8f4a9c6-45b5-53da-acd4-ffba47af9450' => [
+        'Ultimately, leadership is not about glorious crowning acts. It\'s about keeping your team focused on a goal and motivated to do their best to achieve it, especially when the stakes are high and the consequences really matter. It is about laying the groundwork for others\' success, and then standing back and letting them shine.',
+        'Chris Hadfield',
     ],
-    'a9950642-4749-52b8-81bf-e7599bce3525' => [
-        'In the state of nature profit is the measure of right.',
-        'Thomas Hobbes',
+    '01f74849-657a-5696-90ec-94f0de75cf30' => [
+        'We have ourselves begun to put our house in order by banning some experiments that may contain a risk for mankind. We would like to see society take a similar attitude, abandoning selfish practices that are dangerous for society itself.',
+        'Renato Dulbecco',
     ],
-    '5a95a480-041d-58d3-a01e-90588e2dfd34' => [
-        'I grew up skateboarding; it was fun. I didn\'t think about money, I didn\'t know how much professional skateboarders made. I just knew that if I became a professional skateboarder, I would achieve a lot and get to travel and do these great things.',
-        'Jason Lee',
+    '1f564afa-3a8c-57c6-aedc-532dbbcc4321' => [
+        'I completely agree that a sound sleep is the best beauty product. Sound sleep, one of the most important but underrated thing, helps to make you more beautiful. I can never understand how people work so hard that they miss out on their sleep.',
+        'Shraddha Kapoor',
     ],
-    'f94d6957-2e67-5e60-a208-755dac9437dc' => [
-        'When I was a kid, dressing right and looking good was a priority. As I grew up, I just wanted to stay that way, stick out a bit and have my own thing. That\'s where white belts and wearing some colors started. So signing with Puma was a great fit for me. I usually travel with nine pairs of golf shoes and 10 belts.',
-        'Rickie Fowler',
+    'e5555b4a-ae44-5199-9c72-a835aa069a0c' => [
+        'If you eat something and get fat, you should be responsible for it. I think that is the attitude of the great majority of Americans, that you should be responsible for what you eat.',
+        'Vic Snyder',
     ],
-    'c5f5e698-9ec6-5fe5-9c5d-f63abc298aa0' => [
-        'I like the thought that what we are to do on this earth is embellish it for its greater beauty, so that oncoming generations can look back to the shapes we leave here and get the same thrill that I get in looking back at theirs - at the Parthenon, at Chartres Cathedral.',
-        'Philip Johnson',
+    '8df3dfe1-8991-591b-81ab-5fc3167fe8b4' => [
+        'Theo van Doesburg wanted to teach in the Bauhaus in 1922. I refused, however, to appoint him since I considered him to be too aggressive and too rigidly theoretical: he would have wrought havoc in the Bauhaus through his fanatic attitude, which ran counter to my own broader approach.',
+        'Walter Gropius',
     ],
-    '96c0f863-6bc4-59bc-96a9-3bbdee4ec194' => [
-        'Selling wine is all about sizing people up, and it takes a certain amount of chutzpah. The tableside bottle sell is a very funny thing - you take a look at the guy\'s blazer, what kind of shoes he\'s wearing, what kind of broad he\'s with. Is he trying to be a hero?',
-        'Joe Bastianich',
+    'da6dc166-66d1-5845-b1c3-d9c08b6dc5bd' => [
+        'I think my mother is my biggest influence. There are so many things I hate about her but at the same time I\'m thankful for her. All I know is that when I\'m a parent I want to be just like my mom. I can talk to my mom more than any of my friends could talk to their parents.',
+        'Nikki Reed',
     ],
-    'bef7b6d4-dfc8-5fab-a51f-2ad99bdeb6ac' => [
-        'Unfortunately, I\'m more experienced than I care to admit on long-distance relationships. Just because that is my life. I travel because I love to. As a result, I have to sort of make it work when a relationship kind of comes into view.',
-        'Hunter Hayes',
+    'f627c7af-9c88-5074-adf8-d5ecc08e8930' => [
+        'Nature was my kindergarten.',
+        'William Christopher Handy',
     ],
-    'c378373e-4760-54ae-8780-0b3707fa7dec' => [
-        'It\'s sad when girls think they don\'t have anything going on except being pretty.',
-        'Keri Russell',
+    '0a02c6e7-d5ea-59f1-829c-b46d4ca2fb6e' => [
+        'Give me a couple of years, and I\'ll make that actress an overnight success.',
+        'Samuel Goldwyn',
     ],
-    'f4e7bdf8-623b-5469-bb9a-2f2126446bc6' => [
-        'We have the capacity to receive messages from the stars and the songs of the night winds.',
-        'Ruth St. Denis',
+    '64271692-87b7-53da-92e7-6a1adbd38ccf' => [
+        'My parents raised me with a never-give-up attitude, telling me I could be anything I wanted to be. I was a serious violinist and a valedictorian of my high school class. I knew all about hard work.',
+        'Gretchen Carlson',
     ],
-    '20256db2-636f-5923-b659-5be9122eac40' => [
-        'Don\'t be pushed by your problems; be led by your dreams.',
-        'Unknown',
+    '661ee49b-058d-5da3-8175-155d94bc8476' => [
+        'When a woman puts on a heel, she has a different posture, a different attitude. She really stands up and has a consciousness of her body.',
+        'Christian Louboutin',
     ],
-    '41644198-69d3-529b-8b2d-16d3ce8b3821' => [
-        'You can\'t be afraid to fail. It\'s the only way you succeed - you\'re not gonna succeed all the time, and I know that.',
-        'LeBron James',
+    'a407a8f1-8aba-58bf-8bbb-5dcee7562f90' => [
+        'Beauty is being comfortable and confident in your own skin.',
+        'Iman',
     ],
-    '79361ac5-246d-57a5-ae01-66314f5ee227' => [
-        'An idea isn\'t responsible for the people who believe in it.',
-        'Don Marquis',
+    '6b8f1eeb-8b38-5c2b-b092-d77705b01831' => [
+        'The American Dream is one of success, home ownership, college education for one\'s children, and have a secure job to provide these and other goals.',
+        'Leonard Boswell',
     ],
-    'd7465a47-c677-551b-92c3-dd36ddf3bb7b' => [
-        'One goes through school, college, medical school and one\'s internship learning little or nothing about goodness but a good deal about success.',
-        'Ashley Montagu',
+    'c3f7eeac-85de-5cb1-978d-2cbb25bbb5c8' => [
+        'Anytime you introduce volatility, it is not good for business and not good for travel.',
+        'Dara Khosrowshahi',
     ],
-    'e7ba8c68-233d-50d3-8d13-56e6014466d8' => [
-        'I\'ve always felt that specialization is best left to the insects.',
-        'Gregory Benford',
+    '12b8b85c-dc5a-546e-bdbc-86e741be556e' => [
+        'If you can do what you do best and be happy, you\'re further along in life than most people.',
+        'Wendell Pierce',
     ],
-    '32d44848-8f36-50e3-95e2-7fa4b37302af' => [
-        'The best way to persuade people is with your ears - by listening to them.',
-        'Dean Rusk',
+    '4ce38659-34e9-5fcb-9ff9-5d7418c3f794' => [
+        'One thing is sure. We have to do something. We have to do the best we know how at the moment... If it doesn\'t turn out right, we can modify it as we go along.',
+        'Franklin D. Roosevelt',
     ],
-    'e456cd96-dcb1-5f51-a93a-1680c06649aa' => [
-        'A more secret, sweet, and overpowering beauty appears to man when his heart and mind open to the sentiment of virtue.',
-        'Ralph Waldo Emerson',
+    '7337a40b-48a4-5ebb-a76f-f80d2994e6f1' => [
+        'Since love grows within you, so beauty grows. For love is the beauty of the soul.',
+        'Saint Augustine',
     ],
-    '3da1a53c-1a28-52bb-9807-d6f8238c30b4' => [
-        'Beauty is a radiance that originates from within and comes from inner security and strong character.',
-        'Jane Seymour',
+    '9aacee99-018f-5e45-b76f-b0ffa33877d3' => [
+        'Change your thoughts and you change your world.',
+        'Norman Vincent Peale',
     ],
-    'df8feb16-01d1-549d-9227-f1b9d84f6d5e' => [
-        'We will all be gone one day. Not as a negative thing - as a positive thing, too, you know, and we should leave something behind ourselves.',
-        'Irina Shayk',
+    'ac66f4a1-ddbb-5cb3-aae4-598bb501f357' => [
+        'Beauty has a lot to do with character.',
+        'Kevyn Aucoin',
     ],
-    '53668a03-362a-56d8-a452-fd293fefe522' => [
-        'You know you\'ve reached true success the day you become truly humble. That\'s the day you stop needing to prove to the world - and yourself - that you\'ve accomplished something meaningful.',
-        'Naveen Jain',
+    'aac824d8-921e-531f-9496-ffdff9dd8c95' => [
+        'Those who find beauty in all of nature will find themselves at one with the secrets of life itself.',
+        'L. Wolfe Gilbert',
     ],
-    '8a93c307-e709-511c-9e32-7d9fa375120c' => [
-        'People have to make journeys, what we want is people to have alternatives in public transport so that they can make a choice about the sort of way in which they\'re going to travel.',
-        'Theresa May',
+    '56e244c9-0adb-577a-be54-af8511264584' => [
+        'Success makes so many people hate you. I wish it wasn\'t that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.',
+        'Marilyn Monroe',
     ],
-    '2ee1e708-9e44-5afb-9c5d-469ce5caeda5' => [
-        'When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it, but all that had gone before.',
-        'Jacob Riis',
+    '41c4e918-48c3-5106-b7ce-55880069d9f6' => [
+        'Life is measured in love and positive contributions and moments of grace.',
+        'Carly Fiorina',
     ],
-    '39ce62ce-e1c4-5683-bae9-4ddb794b07cd' => [
-        'I\'ve been hearing this since I first joined the Reds organization, that I\'m going to be the next this or that. It\'s tough on a young player coming up. You show some positive things and everybody jumps on that and says you should be the next Willie Mays.',
-        'Eric Davis',
+    '2fe2362e-2abf-57ec-b01f-78f31c449315' => [
+        'Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.',
+        'Franz Kafka',
     ],
-    'dc57cf24-46c8-5205-83d9-5ece770b3a3f' => [
-        'Going by my past journey, I am not certain where life will take me, what turns and twists will happen; nobody knows where they will end up. As life changes direction, I\'ll flow with it.',
-        'Joyce Meyer',
+    '88035bc5-1b76-5210-b499-3ecadc750114' => [
+        'To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless.',
+        'Gilbert K. Chesterton',
     ],
-    'a103ca96-d0a6-5dbc-8aca-e9acc5a97ce2' => [
-        'You can learn more from the lows than the highs. The highs are great but the lows make you really look at things in a different way and want to improve. Every player will have both in their careers and I have, but what you get is that experience which is so important to perform at your best.',
-        'Wayne Rooney',
+    '517f6ab4-eaf7-5a69-b8d1-840f35f7ff2b' => [
+        'The whole beauty of music is that it goes where your words won\'t let you.',
+        'Anne Hathaway',
     ],
-    'cebcc2d6-6424-5d93-964a-ee06eb99a133' => [
-        'I attribute my success to this: I never gave or took any excuse.',
-        'Florence Nightingale',
+    '62f783f4-d27b-5208-83de-d6a23e032909' => [
+        'Nature uses human imagination to lift her work of creation to even higher levels.',
+        'Luigi Pirandello',
     ],
-    '28f46773-5dbd-52b8-ae7d-6889f1d051ae' => [
-        'At the age of 6, a teacher full of ambitions, who taught in the small public school of Biran, convinced my family that I should travel to Santiago de Cuba to accompany my older sister who would enter a highly prestigious convent school. Including me was a skill of that very teacher from the little school in Biran.',
-        'Fidel Castro',
+    '12c4a140-7cb6-5d33-a3bf-f99992a7dfb2' => [
+        'Never be bullied into silence. Never allow yourself to be made a victim. Accept no one\'s definition of your life; define yourself.',
+        'Harvey Fierstein',
     ],
-    'cf0fd0e7-5fad-5ed1-89d7-b26863c0ffdb' => [
-        'Achievement is not always success, while reputed failure often is. It is honest endeavor, persistent effort to do the best possible under any and all circumstances.',
-        'Orison Swett Marden',
+    'abecbf51-f159-5db6-a73c-a23eac90288d' => [
+        'I think that major championships are as much about attitude as they are anything else.',
+        'Tom Lehman',
     ],
-    '19a87605-1fe2-5400-916a-1a9315ebb05c' => [
-        'There are a lot of things that go into creating success. I don\'t like to do just the things I like to do. I like to do things that cause the company to succeed. I don\'t spend a lot of time doing my favorite activities.',
-        'Michael Dell',
+    '4a8d0ea5-f5e6-5e6e-aa56-e5d2425397ea' => [
+        'When you believe in a thing, believe in it all the way, implicitly and unquestionable.',
+        'Walt Disney',
     ],
-    'df01eb89-5955-5ccc-be6b-0d211e79ebec' => [
-        'Beauty, like ice, our footing does betray; Who can tread sure on the smooth, slippery way: Pleased with the surface, we glide swiftly on, And see the dangers that we cannot shun.',
-        'John Dryden',
+    'd2b1d20f-325c-5015-b879-0e85c33504fd' => [
+        'Poetry: the best words in the best order.',
+        'Samuel Taylor Coleridge',
     ],
-    '7ede52bb-b771-5706-8a57-3c9600244ffa' => [
-        'In the business world today, failure is apparently not an option. We need to change this attitude toward failure - and celebrate the idea that only by falling on our collective business faces do we learn enough to succeed down the road.',
-        'Naveen Jain',
+    '49c4d060-1a5f-52dc-acae-5b861d2f8a52' => [
+        'Since those who believe they need a hero/celebrity outnumber the actual heroes/celebrities, people feel safe and comfortably justified in numbers, committing egregious crimes in the name of the greater social ego. Ironically diminishing their own true hero-celebrity nature in the process.',
+        'Lauryn Hill',
     ],
-    '6329c27d-c54e-5c87-b191-c22716deec03' => [
-        'We have the ability to craft a life where we are completely fulfilled. We think it is dependent on outsiders, and to some extent it is, but it is much more dependent on the attitude we bring to life.',
-        'Srikumar Rao',
+    'd2e6cdc2-f19c-508b-805a-285329f4553c' => [
+        'To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.',
+        'Buddha',
     ],
-    '594b6453-5443-5762-9f5f-298d2d0ef875' => [
-        'You may delay, but time will not.',
-        'Benjamin Franklin',
+    'e2d39fac-4cd4-5471-b693-6a7ece3d07b5' => [
+        'It\'s funny, but when there are dominant teams, there are a number of people who rail about the fact that they\'re always seeing the Dallas Cowboys or the San Francisco 49ers or the Green Bay either in the playoffs or in the Super Bowl.',
+        'Al Michaels',
     ],
-    '2cd502d5-3d38-5af8-9c3a-956013a7cdcf' => [
-        'Love is a really scary thing, and you never know what\'s going to happen. It\'s one of the most beautiful things in life, but it\'s one of the most terrifying. It\'s worth the fear because you have more knowledge, experience, you learn from people, and you have memories.',
-        'Divyanka Tripathi',
+    'f19a522b-87ea-59dc-9639-2f4293e87493' => [
+        'Kids who are poor often have families that have not really been kept informed about... how important it is to read to your child, to reduce stresses in their life, to use positive incentives and words.',
+        'Geoffrey Canada',
     ],
-    '6145f436-336c-5e41-81ea-4d9693947825' => [
-        'Music was always heavily involved with my spirit. My entire family is Jamaican. It\'s nothing but reggae music and those kinds of vibes.',
-        'Shameik Moore',
+    'aba44916-cc6c-54df-a475-7eb3dee401b1' => [
+        'Our prime purpose in this life is to help others. And if you can\'t help them, at least don\'t hurt them.',
+        'Edward Norton',
     ],
-    '8089e463-d0ce-5a3e-a727-e463ac28b234' => [
-        'Do you remember any instance where tyranny was destroyed and freedom established on its ruins, among a people possessing so small a share of virtue and public spirit? I recollect none, and this more than the British arms makes me fearful of final success, without a reform.',
-        'Patrick Henry',
+    'b133b6ae-60c6-56c6-bff6-cf4182a71825' => [
+        'They can do all because they think they can.',
+        'Virgil',
     ],
-    '686e07b3-0993-58e4-8719-51d621d9a9e7' => [
-        'I like animals. I like natural history. The travel bit is not the important bit. The travel bit is what you have to do in order to go and look at animals.',
-        'David Attenborough',
+    'a94f9bd0-db57-503f-810c-333f652da23e' => [
+        'Space exploration is important research to our economic and national defense, and America\'s space program is a symbol of our success as a scientifically and technologically advanced nation.',
+        'Randy Forbes',
     ],
-    '15fbf254-10e5-5706-9a87-22ebe0727858' => [
-        'If you work just for money, you\'ll never make it, but if you love what you\'re doing and you always put the customer first, success will be yours.',
-        'Ray Kroc',
+    'a6e2636d-d7fb-5ae1-bcb2-43e9e9473f85' => [
+        'I think my mom put it best. She said, \'Little girls soften their daddy\'s hearts.\'',
+        'Paul Walker',
     ],
-    '964003c9-0116-5cf1-96f5-f1e9728d17ba' => [
-        'When Bill Clinton ran in \'92, and I listened to him, and I had of course known of his record from Arkansas, I found him extraordinarily inspirational, and I voted Democratic.',
-        'Wesley Clark',
+    '67c363d9-26cc-52df-9df3-7376805a99a7' => [
+        'Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.',
+        'Hasidic saying',
     ],
-    'e1b16d55-0aaa-584f-99c6-837efd9961bb' => [
-        'In a time of universal deceit - telling the truth is a revolutionary act.',
-        'Unknown',
+    '0c34258a-50d0-584e-8522-0ba33dae661d' => [
+        'We treat beauty like an accomplishment, and that is insane. Everyone in L.A. says, \'Oh, you look good,\' and you listen for them to say you\'ve lost weight. It\'s never \'How are you?\' or \'You seem happy!\'',
+        'Carrie Fisher',
     ],
-    '1176c31f-e7e9-52b3-8cf1-25d6a05a075c' => [
-        'I love eating it - grilled chicken, pasta, rice, and other foods that give me long term energy. Every once in a while, my sweet tooth gets the best of me and I have to snack on some candy. Beverage wise, I stick to sports drinks, water, milk, and juice.',
-        'Derrick Rose',
+    '9d7fac42-ecd4-5f77-8091-6744c923090c' => [
+        'The whole infrastructure of air travel was, and is, part of government policy. It is not a natural development of a free economic system - at least not in the way that is claimed. The same is true of the roads, of course.',
+        'Noam Chomsky',
     ],
-    '01d97159-a5f3-5592-a326-73faaf75260a' => [
-        'Problems are not stop signs, they are guidelines.',
-        'Robert H. Schuller',
+    '666c6b60-39c3-517d-9402-ca7b8b098aa2' => [
+        'There is the sky, which is all men\'s together.',
+        'Euripides',
     ],
 ];

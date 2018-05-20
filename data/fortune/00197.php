@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '17d65c56-7dca-553a-a632-78d36a7adbaf' => [
-        'Just like hair frames our face, brows frame our eyes. I see so much potential in harmonized beauty whenever I see a woman who\'s not filling in her brows, and I just want to go in with my brow pencil and just be like, \'Filling in eyebrows, OK, done - look in the mirror and be inspired.\' That\'s one of my pet peeves, but beauty is subjective.',
-        'Michelle Phan',
+    'd0a7fb18-3208-5149-9723-735b6bde53b1' => [
+        'Punishment may make us obey the orders we are given, but at best it will only teach an obedience to authority, not a self-control which enhances our self-respect.',
+        'Bruno Bettelheim',
     ],
-    '570a1c2a-f4af-56d1-908c-3ccae1ff08b9' => [
-        'Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.',
-        'Booker T. Washington',
+    '67d87f99-0242-5912-928c-2676426e6f50' => [
+        'Nature is so powerful, so strong. Capturing its essence is not easy - your work becomes a dance with light and the weather. It takes you to a place within yourself.',
+        'Annie Leibovitz',
     ],
-    'ba7075bb-76fb-57d8-a826-5382f6da91d5' => [
-        'I would say I\'m an inspirational guidelines book. You can take my life story or scenarios or songs and relate to them and apply them to your everyday life.',
-        'Chris Brown',
+    'bfc59fa9-7a3a-5c63-aecc-fafd5aed2c84' => [
+        'The moral values, ethical codes and laws that guide our choices in normal times are, if anything, even more important to help us navigate the confusing and disorienting time of a disaster.',
+        'Sheri Fink',
     ],
-    'dfeaaa32-fae7-56d3-a86f-ca94885c283b' => [
-        'Law enforcement officers are never \'off duty.\' They are dedicated public servants who are sworn to protect public safety at any time and place that the peace is threatened. They need all the help that they can get.',
-        'Barbara Boxer',
+    '612125e1-51e3-54e7-b754-0b3c9a67ca59' => [
+        'The fascination of shooting as a sport depends almost wholly on whether you are at the right or wrong end of the gun.',
+        'P. G. Wodehouse',
     ],
-    '5b1ee02a-86ae-591f-bb5d-4fbc467d637a' => [
-        'It\'s very strange to go to cities like London and New York. People walk so quickly, they seem to be in a hurry all the time. And you don\'t say \'Hi\' to everyone you meet, and you don\'t smile to everyone you meet, because there\'s just so many. Which is also very strange.',
-        'Aurora',
+    'd45c7339-71b3-5489-9b5f-a438b2391dce' => [
+        'The world is mud-luscious and puddle-wonderful.',
+        'e. e. cummings',
     ],
-    '40d8fa12-4e3f-59bf-b484-438ef20f592a' => [
-        'Life is anything that dies when you stomp on it.',
-        'Zig Ziglar',
+    'd4ec16c9-d670-5ec2-86be-f34cf6cc7ed1' => [
+        'The positive aspects of modernity are to be acknowledged unreservedly: we are all grateful for the marvellous possibilities that it has opened up for mankind and for the progress in humanity that has been granted to us.',
+        'Pope Benedict XVI',
     ],
-    '71a2e737-4a4f-5f86-b732-cf2a253265af' => [
-        'The success of each of us benefits us all, and the success of us all benefits each of us individually.',
-        'Walter Ulbricht',
+    'f7cc18f9-6d6b-5031-9449-53e8275f629b' => [
+        'I\'m a human, and I\'m multidimensional. If I was the perfect form of anything, I\'d be boring. If I was a free spirit all the time, I would be boring; I would lack depth. If I was dark and enigmatic all the time, then I would lack relatability.',
+        'Halsey',
     ],
-    'f5e9807a-0f5a-54ce-9fe2-14811f3a6e63' => [
-        'Agriculture changes the landscape more than anything else we do. It alters the composition of species. We don\'t realize it when we sit down to eat, but that is our most profound engagement with the rest of nature.',
-        'Michael Pollan',
-    ],
-    '51927ffb-286a-50af-8d25-2d15b0cd180f' => [
-        'Happiness is the natural flower of duty.',
-        'Phillips Brooks',
-    ],
-    '78a96e53-8724-5573-8ddd-861401aed24a' => [
-        'The rose is the flower and handmaiden of love - the lily, her fair associate, is the emblem of beauty and purity.',
-        'Dorothea Dix',
-    ],
-    '71345fab-5d07-566e-ae60-b061bf625582' => [
-        'We have to nurture our young women and understand the beauty and the strength of being a woman. It\'s kind of a catch-22: Strength in women isn\'t appreciated, and vulnerability in women isn\'t appreciated. It\'s like, \'What the hell do you do?\' What you do is you don\'t allow anyone to dictate who you are.',
-        'Jada Pinkett Smith',
-    ],
-    'c5883b7c-3fdd-5677-b224-8a4ddabb6d02' => [
-        'Once I knew only darkness and stillness... my life was without past or future... but a little word from the fingers of another fell into my hand that clutched at emptiness, and my heart leaped to the rapture of living.',
-        'Helen Keller',
-    ],
-    'f0ffaa5d-bef5-50c3-bfd7-349922bfcf2f' => [
-        'I thank my personal staff for their restless sacrifice for my work.',
-        'Oskar Schindler',
-    ],
-    'd286140b-a363-59af-9053-bce39cd729bd' => [
-        'Americans think Soviets are so grim. I want them to see that they can smile.',
-        'Yakov Smirnoff',
-    ],
-    '6a4d2ad6-f080-5790-96f9-a9d14591a50f' => [
-        'With a great poet the sense of Beauty overcomes every other consideration, or rather obliterates all consideration.',
-        'John Keats',
-    ],
-    'a97498cc-750c-5b35-8ee1-c2b055045857' => [
-        'I like to travel any chance I get, even if it\'s just a local vacation to San Diego or Palm Springs or wherever. I just like to get out and do stuff and see the world.',
-        'Christa B. Allen',
-    ],
-    '3a794e17-c48b-5af7-a821-8b240d6fb991' => [
-        'Think like a man of action; act like a man of thought.',
-        'Henri L. Bergson',
-    ],
-    '23bb5dc7-a63a-5cac-8ef0-9274991914e3' => [
-        'I want to give kids that fall-off-the-bed-laughing feeling. Either that, or the sixth-grade feeling that life is hard - sometimes unbearably hard - and it is ultimately about death. But in the meantime, life can be really funny, too.',
-        'Kate Klise',
-    ],
-    '29278efc-32d1-57f4-8643-1feed4482566' => [
-        'There are a lot of female artists my age around at the moment, but they\'re all American and blonde and blue-eyed and smiley. I\'m totally the opposite of that. I want to show a bit more attitude and I have an opinion.',
-        'Samantha Mumba',
-    ],
-    'bc650364-874b-532a-9a42-d57d982a29f1' => [
-        'I am thrilled to support World of Children and its superlative efforts to fund changemakers around the world. It\'s a great privilege to be associated with an organization that recognizes and funds those individuals really working in the trenches, and I look forward to being part of advancing positive change for children everywhere.',
-        'Stephanie March',
-    ],
-    'dc5e90be-16f7-5853-a576-e27865cd6042' => [
-        'Dont let someone else\'s opinion of you become your reality.',
-        'Les Brown',
-    ],
-    '6868ff57-69bd-5828-8c0a-5a70b9d50e56' => [
-        'Trust is the conduit for influence; it\'s the medium through which ideas travel.',
-        'Amy Cuddy',
-    ],
-    'ff48aa83-f824-574f-9774-03c90fcff466' => [
-        'One of my favorite luxuries in life is travel. Jet lag and lost baggage aside, it\'s an incredible way to learn about other cultures, meet new people, broaden your horizons... and do some amazing shopping!',
-        'Amanda Hearst',
-    ],
-    '2da298a9-2990-543b-8870-508489cfdd01' => [
-        'I needed somebody to love me, and the people that I chose were my coaches. I would sacrifice my body to be successful for my coaches because I wanted them to love me, to respect me, to have positive feelings about me.',
-        'Steve Largent',
-    ],
-    '76c88231-4235-5d39-9a59-f3887efdfe88' => [
-        'Part of being a man is learning to take responsibility for your successes and for your failures. You can\'t go blaming others or being jealous. Seeing somebody else\'s success as your failure is a cancerous way to live.',
-        'Kevin Bacon',
-    ],
-    '80847128-6194-564e-b8b9-4b88419abe62' => [
-        'The victor belongs to the spoils.',
-        'F. Scott Fitzgerald',
-    ],
-    '2340ffc4-6867-56ef-836e-2b220bf33a1e' => [
-        'Why compare yourself with others? No one in the entire world can do a better job of being you than you.',
-        'Unknown',
-    ],
-    '61eae854-175c-5495-8ee4-ff7c75b9ac81' => [
-        'It pays to cultivate popularity. It doubles success possibilities, develops manhood, and builds up character.',
-        'Orison Swett Marden',
-    ],
-    'd7f2f8d8-1b04-518b-99b7-83ce5de1b138' => [
-        'If I don\'t make the team out of spring training, I\'ll keep a good attitude. I\'ll just go polish up the parts of my game that made me not stay in the big leagues.',
-        'Cory Lidle',
-    ],
-    'bac38c04-1025-5187-8e75-c7782058bcda' => [
-        'The creation of a world view is the work of a generation rather than of an individual, but we each of us, for better or for worse, add our brick to the edifice.',
-        'John Dos Passos',
-    ],
-    '7f406c7c-96b1-5962-8266-35e9e3b4bf01' => [
-        'Family life itself, that safest, most traditional, most approved of female choices, is not a sanctuary: It is, perpetually, a dangerous place.',
-        'Margaret Drabble',
+    'a14359c7-9fb1-5c5b-8440-10e600f11b71' => [
+        'The beauty of having short hair is that I actually can wash and style it at home!',
+        'Meagan Good',
     ],
     '8d22a225-5eda-522a-8f8b-cbadc7a1fdd3' => [
         'I think of myself as a positive agnostic. I don\'t know, therefore I\'m open. I don\'t know, therefore I\'m interested.',
         'Grace Slick',
     ],
-    '06e96ff6-bb70-5347-9325-d86173c2d7d3' => [
-        'The more time you spend contemplating what you should have done... you lose valuable time planning what you can and will do.',
-        'Lil Wayne',
+    'e2395421-d88f-5de2-a08d-5b4125b09544' => [
+        'Someone told me that when they go to Vermont, they feel like they\'re home. I\'m that way at Saks.',
+        'Caroline Rhea',
     ],
-    'e4db7c52-6907-53e4-b886-5f8d5e086ed6' => [
-        'The only way to discover the limits of the possible is to go beyond them into the impossible.',
-        'Arthur C. Clarke',
+    '9db78f0d-3441-5300-8355-a2bb28decdb8' => [
+        'Enjoy your sweat because hard work doesn\'t guarantee success, but without it you don\'t have a chance.',
+        'Alex Rodriguez',
     ],
-    '1f759b5f-1563-5987-a515-0c52e3650d4d' => [
-        'I have an issue with others ordering for me, and I spend far too long haranguing people that my choices are the best. I apologize for the amount of conversations I have ruined with this attitude.',
-        'Ben Elliot',
+    'bde88ed7-3df8-524f-9a7c-06dbd228088b' => [
+        'All I know is it destroyed my family, it destroyed my marriage to Sylvester and I will never get over it.',
+        'Brigitte Nielsen',
     ],
-    'c5f2ca64-2849-5571-9138-4f8b32c752d1' => [
-        'Objectifying is kind of a funny thing. Art is objectification, all art, because you\'re taking someone and making them into an object. But people can also talk back more to you when you\'re sketching them. They can look at you and say, \'Oh man, you got me wrong.\'',
-        'Molly Crabapple',
+    '53e27697-d470-5b29-8a2a-72c6fdb934f2' => [
+        'Time is the most valuable thing on earth: time to think, time to act, time to extend our fraternal relations, time to become better men, time to become better women, time to become better and more independent citizens.',
+        'Samuel Gompers',
     ],
-    'f8561307-af52-5761-85db-f43f977e4468' => [
-        'The biggest thing for me is the passion that I\'ve always had for hockey. I remember growing up, no matter what I did in life, my parents always told me to try to do my best at it and be my best. I can say going through different things that that passion is the most important part. It\'s not skills or talent or any of that stuff.',
-        'Sidney Crosby',
+    '49c3ac61-3732-595e-a1ad-9cc33e29cc68' => [
+        'I believe that the only courage anybody ever needs is the courage to follow your own dreams.',
+        'Oprah Winfrey',
     ],
-    '0987f0f1-ddaf-56a2-bfc6-74a587962008' => [
-        'It is human nature to instinctively rebel at obscurity or ordinariness.',
-        'Taylor Caldwell',
+    '6cf4a741-b8d1-5705-8844-36a62a952e82' => [
+        'Who we are never changes. Who we think we are does.',
+        'Mary Almanac',
     ],
-    '14fca2b5-9dcb-52be-a98c-07cbd8a5ef7a' => [
-        'Did I offer peace today? Did I bring a smile to someone\'s face? Did I say words of healing? Did I let go of my anger and resentment? Did I forgive? Did I love? These are the real questions. I must trust that the little bit of love that I sow now will bear many fruits, here in this world and the life to come.',
-        'Henri Nouwen',
+    '52fa7b30-162b-585b-b9db-21c065c0878e' => [
+        'Life is fleeting, and permanence in this world is something we all strive for. The best way to achieve permanence is through philanthropy.',
+        'Ram Shriram',
     ],
-    'fd95ae15-2e37-5fad-b240-4994da29d397' => [
-        'We are very excited about welcoming a new member of the family, a daughter!',
-        'Michael Weatherly',
+    '12b1e091-5d75-5ad7-bfbe-150724f5c1ce' => [
+        'It takes half your life before you discover life is a do-it-yourself project.',
+        'Eckhart Tolle',
     ],
-    '52c5356a-1848-59d8-892e-c712ea0ea7c3' => [
-        'Our greatest fear should not be of failure but of succeeding at things in life that don\'t really matter.',
-        'Francis Chan',
+    'e581c45f-025b-5632-a5c0-6e04a77c05df' => [
+        'Most powerful is he who has himself in his own power.',
+        'Seneca',
     ],
-    '4f012d37-3d3c-5ad4-9422-ec893836d2dc' => [
-        'The physician\'s duty is not to stave off death or return patients to their old lives, but to take into our arms a patient and family whose lives have disintegrated and work until they can stand back up and face - and make sense of - their own existence.',
-        'Paul Kalanithi',
+    'fa7a020a-d64a-5c8c-8ae0-56d4320dfa91' => [
+        'I love it when people doubt me. It makes me work harder to prove them wrong.',
+        'Derek Jeter',
     ],
-    '7527796a-31e7-5bb8-92da-aaf6999c04d6' => [
-        'If you really look closely, most overnight successes took a long time.',
-        'Steve Jobs',
+    'cb62b263-bada-5671-a603-ff9fbf673e78' => [
+        'If you are given a chance to be a role model, I think you should always take it because you can influence a person\'s life in a positive light, and that\'s what I want to do. That\'s what it\'s all about.',
+        'Tiger Woods',
     ],
-    '991c6375-e980-5a16-9c3c-86339bb65b89' => [
-        'I think it\'s difficult to say what exactly made me become a successful DJ. It depends on so many different things. If I were given an award, I would thank my family, friends, Tiesto and the great team behind me for all their support and hard work. Without them, I wouldn\'t be where I am today.',
-        'Martin Garrix',
+    '1b63e2f1-e21d-5447-a627-5952c595a8af' => [
+        'Most people have never learned that one of the main aims in life is to enjoy it.',
+        'Edwin Markham',
     ],
-    'd2a560e4-19e7-5987-b2a6-33f63cd3310d' => [
-        'Sometimes the best way to solve your own problems is to help someone else.',
-        'Iroh',
+    '8eeae70c-06e2-5fe4-a53e-7b0e883e21d7' => [
+        'An aristocratic culture does not advertise its emotions. In its forms of expression it is sober and reserved. Its general attitude is stoic.',
+        'Johan Huizinga',
     ],
-    '18a4ace4-e3e0-5395-b561-8f77691e4bd4' => [
-        'Some pursue happiness, others create it.',
-        'Unknown',
+    '63d00100-4d00-5fe3-88dd-19993ba748a8' => [
+        'Travelers are always discoverers, especially those who travel by air. There are no signposts in the sky to show a man has passed that way before. There are no channels marked. The flier breaks each second into new uncharted seas.',
+        'Anne Morrow Lindbergh',
     ],
-    '80c7a094-eab8-56f9-9317-9195fdb494ce' => [
-        'In Delhi, where I grew up, commerce is brusque. You don\'t ask each other how your day has been. You might not even smile. I\'m not saying this is ideal - it\'s how it is. You\'re tied together by a transaction. The customer doesn\'t tremble before complaining about how cold his food is.',
-        'Karan Mahajan',
+    'c4b06e0d-b66c-5ff3-bd7c-0b6d4dda2ba4' => [
+        'It is not light that we need, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake.',
+        'Frederick Douglass',
     ],
-    '80087280-e9f8-5804-b6f7-3311adb20add' => [
-        'I\'m quite British in the sense of not expressing my emotions much. I save it for my songs. If you ask about a death in the family, or a lover, I will not be emotional. I\'d probably answer with a smile. Because that\'s what we British blokes do.',
-        'James Blunt',
+    'a33be87b-f744-51a8-943f-c9f2a17924c6' => [
+        'The world is a book, and those who do not travel read only a page.',
+        'Augustinus Sanctus',
     ],
-    '0699f3be-7306-5554-b2c9-de9fdf105943' => [
-        'If it is not right do not do it; if it is not true do not say it.',
-        'Marcus Aurelius',
+    '1cc8728a-4dde-5762-9bf8-1d8a45fcd6d0' => [
+        'Our contribution purely depends on our consciousness and our willingness to support those in need, to show vulnerability and accept the support of others, to share without expecting the credit, to give it our all and allow our hard work to decide the outcome, to understand that control can only be achieved with a shared responsibility.',
+        'Yehuda Berg',
     ],
-    'd89a05ce-1b9c-5c70-8292-19acf6947195' => [
-        'By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.',
-        'Dalai Lama',
+    '700fb332-acbc-5521-8236-e8d71b7d577e' => [
+        'In some mysterious way woods have never seemed to me to be static things. In physical terms, I move through them; yet in metaphysical ones, they seem to move through me.',
+        'John Fowles',
+    ],
+    'f47d4941-6038-5077-a008-c6d123f09b42' => [
+        'As we are liberated from our own fear, our presence automatically liberates others.',
+        'Nelson Mandela',
+    ],
+    '4ede4306-9e8d-5ef6-b5d2-5d512f97abe4' => [
+        'There are people out there who hate me and who say I\'m arrogant, vain, and whatever. That\'s all part of my success. I am made to be the best.',
+        'Cristiano Ronaldo',
+    ],
+    '7c77154d-a7e0-5f89-b2ae-e736d397958f' => [
+        'It is only in the country that we can get to know a person or a book.',
+        'Cyril Connolly',
+    ],
+    '9fad9a2a-d4a1-5297-961b-090b5e66e635' => [
+        'If you would take, you must first give, this is the beginning of intelligence.',
+        'Lao Tzu',
+    ],
+    '96b6f7a4-06dd-5760-a179-6d29ed22c471' => [
+        'Virtue is not photogenic. What is it to be a nice guy? To be nothing, that\'s what. A big fat zero with a smile for everybody.',
+        'Kirk Douglas',
+    ],
+    'ec39f1d0-9515-5bbf-8f79-326638c426bb' => [
+        'Everywhere is nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.',
+        'Lucius Annaeus Seneca',
+    ],
+    '6cb3e063-4b12-5083-92aa-a298f516bc10' => [
+        'I don\'t want to walk in the middle. I want people to read what I write and feel strongly about it. If, at some point, whatever I am doing is failing to elicit a response, whether it\'s very positive or very negative, then I am going to stop doing it.',
+        'James Frey',
+    ],
+    'e08c6eb9-b33c-5241-85b3-c9a623437a70' => [
+        'I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.',
+        'Michel de Montaigne',
+    ],
+    '073541ad-f2cd-5630-9a21-277b772cbb2c' => [
+        'Philosophy would render us entirely Pyrrhonian, were not nature too strong for it.',
+        'David Hume',
+    ],
+    '92393fcb-89a4-58b1-a0b1-9c0a57afa938' => [
+        'Whether you\'re successful or not, you\'ll never actually feel the joys of accomplishment unless you love yourself. Success can be very difficult to deal with. You have to stay in the center. If you let your success define you, then you\'re really just setting yourself up for failure.',
+        'Goldie Hawn',
+    ],
+    '7f95e20b-5bb8-529e-b8db-d87f7bd777af' => [
+        'Spring is when you feel like whistling even with a shoe full of slush.',
+        'Doug Larson',
+    ],
+    '8ee747ce-8b4c-55f8-9a70-f72398b65dda' => [
+        'If journalism is good, it is controversial, by its nature.',
+        'Julian Assange',
+    ],
+    '01d97159-a5f3-5592-a326-73faaf75260a' => [
+        'Problems are not stop signs, they are guidelines.',
+        'Robert H. Schuller',
+    ],
+    'aec22097-e8e0-5259-9b60-77e263eb4119' => [
+        'Nature is a numbers game. We need all the support we can get as our immune systems and health are under assault from pollution, stress, contaminated food and age-related diseases as our lifespans increase.',
+        'Paul Stamets',
+    ],
+    '862167e7-db8d-5a11-83be-cf49cf5440a3' => [
+        'Cooking is one of the strongest ceremonies for life. When recipes are put together, the kitchen is a chemical laboratory involving air, fire, water and the earth. This is what gives value to humans and elevates their spiritual qualities. If you take a frozen box and stick it in the microwave, you become connected to the factory.',
+        'Stephen Covey',
+    ],
+    '29cbb6f4-9e77-5dfb-9d89-d13e9abb318c' => [
+        'He that respects himself is safe from others; he wears a coat of mail that none can pierce.',
+        'Henry Longfellow',
+    ],
+    '30a2c77d-f9e4-5191-869e-80273edeba90' => [
+        'Life was always a matter of waiting for the right moment to act.',
+        'Baltasar Gracian',
+    ],
+    'fc264d3e-790a-518c-a3d3-f19511a22fea' => [
+        'When I was born I owed twelve dollars.',
+        'George S. Kaufman',
+    ],
+    '7fcca733-6928-5329-b8da-41d2e82b4562' => [
+        'The Universe is one great kindergarten for man. Everything that exists has brought with it its own peculiar lesson.',
+        'Orison Swett Marden',
+    ],
+    '9837a286-e7b5-5c33-8385-8e5e3d7aaafd' => [
+        'My beauty ethos? Well, I\'d love to tell you it\'s something like \'less is more,\' but honestly, it all starts with happiness. If only someone could bottle that up - when I\'m happy, I\'m at my most radiant and glowing. It does me better than any product ever could. And I stand by how cheesy and cliched that sounds.',
+        'Solange Knowles',
+    ],
+    'c3c78f2b-792f-51a8-a58b-259fc40e9c7b' => [
+        'Boy, those French: they have a different word for everything!',
+        'Steve Martin',
+    ],
+    'b3cdc3a0-a5e5-5aa5-810d-a58a1bfd0950' => [
+        'I take a simple view of life. It is keep your eyes open and get on with it.',
+        'Malcolm X',
+    ],
+    '1a3ccc45-f645-570e-8186-adb473d043c9' => [
+        'The great thing is that the funny side of getting old is fuel for my comedy.',
+        'Steve Coogan',
     ],
 ];

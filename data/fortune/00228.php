@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'fab33b44-c53c-5842-8db9-93f0fa64e06f' => [
-        'I try to keep people happy. I go out of my way to get a smile. That\'s the way my mother raised me.',
-        'Donald Dunn',
+    '99a046d3-e42c-5c7c-81a8-3336f9543046' => [
+        'Things do not happen. Things are made to happen.',
+        'John F. Kennedy',
     ],
-    '6c520e5f-3d76-5f24-b827-85fc54ee16f0' => [
-        'When you win, nothing hurts.',
-        'Joe Namath',
+    '686eac52-d031-5f89-8568-1fcaf4c99391' => [
+        'We talk of communing with Nature, but \'tis with ourselves we commune... Nature furnishes the conditions - the solitude - and the soul furnishes the entertainment.',
+        'John Burroughs',
     ],
-    '10128d96-11a6-56a6-8599-09952b3b7358' => [
-        'Smiles come naturally to me, but I started thinking of them as an art form at my command. I studied all the time. I looked at magazines, I\'d practice in front of the mirror and I\'d ask photographers about the best angles. I can now pull out a smile at will.',
-        'Tyra Banks',
+    '697d139e-1f01-5703-ada8-2656f00f457f' => [
+        'My reputation grows with every failure.',
+        'George Shaw',
     ],
-    '4d4d00a2-7962-5506-85a5-45aa998428a6' => [
-        'The very winds whispered in soothing accents, and maternal Nature bade me weep no more.',
-        'Mary Shelley',
+    '58a7d3d7-511d-5ae1-8e9a-7eee9347aa78' => [
+        'When you have seen one ant, one bird, one tree, you have not seen them all.',
+        'E. O. Wilson',
     ],
-    '4e305880-855d-5ede-80c1-9216a44600e4' => [
-        'Publicity is justly commended as a remedy for social and industrial diseases. Sunlight is said to be the best of disinfectants; electric light the most efficient policeman.',
-        'Louis D. Brandeis',
+    '1ee228d5-6ada-5d98-8d58-b59896b7a3b8' => [
+        'From 2002-2008, Planned Parenthood received $342 million in federal taxpayer money through Title X funding alone. With these funds, Planned Parenthood has provided women throughout the U.S. with important family planning and contraceptive services as well as screening for breast and cervical cancers for low-income women.',
+        'Lisa Murkowski',
     ],
-    '1e77004c-c237-5848-8e7b-3dc7cd1e9783' => [
-        'Mistakes are always forgivable, if one has the courage to admit them',
-        'Bruce Lee',
+    'f5aa34bb-188c-5926-98af-3be026ff7084' => [
+        'I\'m not ugly, but my beauty is a total creation.',
+        'Georg Wilhelm Friedrich Hegel',
     ],
-    'c736b919-c1ed-57f1-8e6c-bca2faebf3d2' => [
-        'We\'ve stayed really normal and down to Earth I think, and haven\'t let the success thing go to our head.',
-        'Ashley Olsen',
+    'e56fee6d-e8f6-5b37-ba41-72f3ae52b0a4' => [
+        'The cost of our success is the exhaustion of natural resources, leading to energy crises, climate change, pollution, and the destruction of our habitat. If you exhaust natural resources, there will be nothing left for your children. If we continue in the same direction, humankind is headed for some frightful ordeals, if not extinction.',
+        'Christian de Duve',
     ],
-    'da6dc166-66d1-5845-b1c3-d9c08b6dc5bd' => [
-        'I think my mother is my biggest influence. There are so many things I hate about her but at the same time I\'m thankful for her. All I know is that when I\'m a parent I want to be just like my mom. I can talk to my mom more than any of my friends could talk to their parents.',
-        'Nikki Reed',
+    '7eb84b28-0462-5459-b2f6-59315d386175' => [
+        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
+        'Fritz Scholder',
     ],
-    '4f2c7f46-0090-5daa-bbbc-03f7ce4ec923' => [
-        'My progress was rendered delightful by the sylvan elegance of the groves, chearful meadows, and high distant forests, which in grand order presented themselves to view.',
-        'William Bartram',
+    '7b9cb479-9fc3-5261-aaca-7d02ad718d01' => [
+        'Of course! It takes a lot of strength to mend a broken heart. Channelising energies into your work helps, but also to be able to accept situations for what they are instead of questioning them helps immensely.',
+        'Deepika Padukone',
     ],
-    '0511b2da-c7b9-5bcd-8197-bf51df52d22e' => [
-        'To enter by reason means to realize the essence through instruction and to believe that all living things share the same true nature, which isn\'t apparent because it\'s shrouded by sensation and delusion.',
-        'Bodhidharma',
+    '9651f918-139b-5288-9e4c-fc73938b192e' => [
+        'It\'s funny about men and women. Men pay in cash to get them and pay in cash to get rid of them. Women pay emotionally coming and going. Neither has it easy.',
+        'Hedy Lamarr',
     ],
-    '7c3622c5-c087-5bf1-88db-deaed1737b50' => [
-        'I don\'t think homosexuality is a choice. Society forces you to think it\'s a choice, but in fact, it\'s in one\'s nature. The choice is whether one expresses one\'s nature truthfully or spends the rest of one\'s life lying about it.',
-        'Marlo Thomas',
+    '2b4bfbba-fb5e-5599-b38e-320d46cb2f36' => [
+        'My parents suffered from that ideal of a perfect nuclear family. They found that a difficult pressure, I think.',
+        'Tim Burton',
     ],
-    '4490f7a0-addd-5de9-b19f-3d615cabbfa8' => [
-        'Be patient, work hard and consistently, have faith in your writing, and don\'t be afraid to listen to constructive criticism.',
-        'Jonathan Galassi',
+    'a9bbc569-580d-5867-9038-e298f6c6f009' => [
+        'If we went by the world\'s definition of who I\'m supposed to be because I look weird... \'Well, surely, this guy can\'t have a productive life, surely, he doesn\'t have a sense of humor. Surely, he can\'t love life.\' We stereotype people in this world. And so... if the world thinks you\'re not good enough, it\'s a lie, you know. Get a second opinion.',
+        'Eckhart Tolle',
     ],
-    'd941dcae-5237-5fd2-8bf1-7c253c6d1542' => [
-        'The attitude among the people I knew was, \'Fleur wants to be a singer\' but it was never, \'Go for it. You can do it.\' Everyone was cynical because we\'d never seen anyone where we came from do it.',
-        'Fleur East',
+    '95cbb6cf-e08e-5aea-9879-19393e41e535' => [
+        'Our greatness lies not so much in being able to remake the world as being able to remake ourselves.',
+        'Mahatma Gandhi',
     ],
-    'eb94f746-4e2b-53a1-81e8-bdb7c9653f15' => [
-        'Here\'s the funny thing about the response I\'ve been aware of to my dating famous people: It\'s been very negative. I\'m either not good-looking enough, not a good enough actor or not successful enough for these people.',
-        'Dax Shepard',
+    'b34c9efc-3397-569c-a8a8-3b1ed009dde9' => [
+        'I\'m enthusiastic and ambitious, and I work hard.',
+        'Jason Statham',
     ],
-    'cf538ffc-cf63-5887-bb79-1fabade8c4c4' => [
-        'Had I not come out with an inspirational CD, you perhaps would have never known that I feel like I feel, that all songs, all the music I\'ve ever done is a gift from God.',
-        'Smokey Robinson',
+    'b10d71d3-1530-5420-be02-f2109a6a4d59' => [
+        'Our treasure lies in the beehive of our knowledge. We are perpetually on the way thither, being by nature winged insects and honey gatherers of the mind.',
+        'Friedrich Nietzsche',
     ],
-    '8d961521-ca22-5f38-9c67-f34c77862941' => [
-        'No matter how much success you\'re having, you can\'t continue working together if you can\'t communicate.',
-        'Matt Cameron',
+    'f66fccdc-3e71-566d-bcc6-9cbade5de112' => [
+        'I come to win.',
+        'Leo Durocher',
     ],
-    'bc8a9c9e-16c1-5153-bd7e-8efff32af6eb' => [
-        'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
-        'Milla Jovovich',
+    '1202ed99-a89b-5e81-b7fc-3f4d1376ef05' => [
+        'In the investigation of a neurotic style of life, we must always suspect an opponent, and note who suffers most because of the patient\'s condition. Usually this is a member of the family.',
+        'Alfred Adler',
     ],
-    'd2e4fa40-6dbb-58ee-b809-626818d3f4d6' => [
-        'Life is ten percent what happens to you and ninety percent how you respond to it.',
-        'George Sand',
+    '2094ad5b-da27-5560-95e9-70d40464a346' => [
+        'Work is the meat of life, pleasure the dessert.',
+        'B. C. Forbes',
     ],
-    '04c6f05d-d0c8-5413-9398-cecc8920a2c3' => [
-        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
-        'Unknown',
+    'c2b1ba82-4792-5880-abca-a20bfafc22b3' => [
+        'People always ask me, \'Were you funny as a child?\' Well, no, I was an accountant.',
+        'Ellen DeGeneres',
     ],
-    'ab65928d-fd9f-5649-90c1-93b54eea002a' => [
-        'Who looks outside, dreams; who looks inside, awakes.',
-        'Carl Jung',
+    '539ec232-3e9e-56a1-baf0-fdb4ecdccb25' => [
+        'I realize I will always be the poster child for police brutality, but I can try to use that as a positive force for healing and restraint.',
+        'Rodney King',
     ],
-    '9a34df4b-519c-50f0-ac23-3986b61ee7c5' => [
-        'It\'s funny because I\'m a sucker for glitz and glitter when it comes to clothes and nail polish, but with my makeup, I\'m more comfortable with a natural look. It feels more like me.',
-        'Alison Sweeney',
+    '54edfe83-439f-540c-9c48-ab047a83124d' => [
+        'Being a survivor doesn\'t mean being strong - it\'s telling people when you need a meal or a ride, company, whatever. It\'s paying attention to heart wisdom, feelings, not living a role, but having a unique, authentic life, having something to contribute, finding time to love and laugh. All these things are qualities of survivors.',
+        'Bernie Siegel',
     ],
-    'fb70a0b1-3c0f-5390-b0ac-b66944e805c2' => [
-        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
-        'Ariana Grande',
+    'd8aa0c9a-b702-5807-900a-3b234ba4bb17' => [
+        'It is better to travel well than to arrive.',
+        'Buddha',
     ],
-    '8d4bbb22-80e6-503e-8d99-7a25ab90efa0' => [
-        'Wellness is not a \'medical fix\' but a way of living - a lifestyle sensitive and responsive to all the dimensions of body, mind, and spirit, an approach to life we each design to achieve our highest potential for well-being now and forever.',
-        'Jennifer Lopez',
+    '50f568e5-e732-5eb4-ba48-5a4145786f8f' => [
+        'Punk was defined by an attitude rather than a musical style.',
+        'David Byrne',
     ],
-    '2ce39311-66eb-57fc-b966-c9b061da4f86' => [
-        'There\'s a beauty in being part of a band, when there\'s equality and trust.',
-        'Scott Weiland',
+    '5f19efe2-5555-5061-9aa4-06cb2bc8305d' => [
+        'Happiness resides not in possessions, and not in gold, happiness dwells in the soul.',
+        'Democritus',
     ],
-    '078693cf-9cb4-5dfe-b18c-bb6fd92c6928' => [
-        'The life of the dead is placed in the memory of the living.',
+    'c62eb441-bac0-59e8-beca-3f633f1791b0' => [
+        'You must be the change you wish to see in the world.',
+        'Mahatma Gandhi',
+    ],
+    'a13a3f3b-cdfc-5daa-8183-f6ff1753ab5a' => [
+        'Success is always temporary. When all is said and one, the only thing you\'ll have left is your character.',
+        'Vince Gill',
+    ],
+    'b8c6a98c-5191-50d0-b5a2-d2af52381d7f' => [
+        'What I learned from architectural drafting is that everything has to have a plan to work. You just can\'t wing it. I can\'t get all the materials I need for a house and just start building. Whether it\'s a career, family, life - you have to plan it out.',
+        'Ice Cube',
+    ],
+    'ba108060-4a88-595b-b6aa-b7d6278d9050' => [
+        'Management is nothing more than motivating other people.',
+        'Lee Iacocca',
+    ],
+    '837da621-14e2-580c-8c7b-d9e5d3f9c32f' => [
+        'Quite honestly, if we do manage to destroy the planet with our devil-may-care attitude to natural resources, I\'d suggest we leave, as a dossier in our defence, the collected letters to agony aunts and uncles down the generations. It would certainly prove that we weren\'t all bad!',
+        'Mariella Frostrup',
+    ],
+    '749647cc-8b1d-5a72-9ff7-bdfcc30de5f7' => [
+        'The world is being re-shaped by the convergence of social, mobile, cloud, big data, community and other powerful forces. The combination of these technologies unlocks an incredible opportunity to connect everything together in a new way and is dramatically transforming the way we live and work.',
+        'Marc Benioff',
+    ],
+    '574c1af7-af72-523b-92aa-c7b01a5c8bf2' => [
+        'If you dream of something worth doing and then simply go to work on it and don\'t think anything of personalities, or emotional conflicts, or of money, or of family distractions; it is amazing how quickly you get through those 5,000 steps.',
+        'Edwin Land',
+    ],
+    '084668b6-b2f0-53a9-a440-814f611abaa2' => [
+        'A man who doesn\'t trust himself can never really trust anyone else.',
+        'Cardinal Retz',
+    ],
+    '6669c8d5-38fb-5310-b6c8-45e864c628eb' => [
+        'Nature has never read the Declaration of Independence. It continues to make us unequal.',
+        'Will Durant',
+    ],
+    '8e8848db-36d4-55f0-a430-381147810f3c' => [
+        'Tea time is a chance to slow down, pull back and appreciate our surroundings.',
+        'Letitia Baldrige',
+    ],
+    '6efddc7b-f10b-500b-b92b-5ce875adc809' => [
+        'Anything is possible if you\'re willing to work for it.',
+        'Rob Dyrdek',
+    ],
+    '19a3bc31-134c-5435-99f6-8253f605510b' => [
+        'I always find it actually funny that the analysis is that the characters I play in comedies are the manchild, the adolescent, characters that refuse to grow up. And yet, if you look back in the history of comedy all the way back to the Marx brothers, that\'s a big part of comedy.',
+        'Will Ferrell',
+    ],
+    'aa1a8b81-62dc-54b0-895c-7c2562e1e9bf' => [
+        'Everyone wants an iPhone, but it would be impossible to design an iPhone in China because it\'s not a product; it\'s an understanding of human nature.',
+        'Ai Weiwei',
+    ],
+    '890e5b1d-e1af-5aa7-a1e8-34c15568004b' => [
+        'I think the iPhone is the best consumer product ever. That\'s what I feel about it. And it\'s become so integrated and integral to our lives, you wouldn\'t think about leaving home without it.',
+        'Tim Cook',
+    ],
+    '24532e98-e597-5f42-a3ff-45bc2ae9bab0' => [
+        'The directors I respect are the ones who have a collaborative attitude, who collaborate with actors.',
+        'Eric Braeden',
+    ],
+    '66f99e2b-e6d4-5c3e-a427-a40930691367' => [
+        'I have found no greater satisfaction than achieving success through honest dealing and strict adherence to the view that, for you to gain, those you deal with should gain as well.',
+        'Alan Greenspan',
+    ],
+    '8f8088d4-13a1-5b75-82d4-4c5cadf6aeaa' => [
+        'Life is one big road with lots of signs. So when you riding through the ruts, don\'t complicate your mind. Flee from hate, mischief and jealousy. Don\'t bury your thoughts, put your vision to reality. Wake Up and Live!',
+        'Woodrow Wilson',
+    ],
+    'bae3e52f-cb41-5cde-8312-a009195d9e4a' => [
+        'In terms of my marriage, you know, falling in love with my husband was by far the best thing that\'s ever happened to me.',
+        'Caroline Kennedy',
+    ],
+    'c1ed31d8-1552-5b07-b19d-460ac57fe26f' => [
+        'When you walk into a room, a healthy, beautiful smile is incredibly important.',
+        'Susan Anton',
+    ],
+    'b02361a4-2c7c-522b-801d-97a717e9beef' => [
+        'I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We\'ve created life in our own image.',
+        'Stephen Hawking',
+    ],
+    'af56e174-8ff5-5d18-beca-14eb418218a7' => [
+        'Our thoughts are mainly controlled by our subconscious, which is largely formed before the age of 6, and you cannot change the subconscious mind by just thinking about it. That\'s why the power of positive thinking will not work for most people. The subconscious mind is like a tape player. Until you change the tape, it will not change.',
+        'Bruce Lipton',
+    ],
+    'c47ada43-a1c3-5b27-869b-5134df72366d' => [
+        'Success depends upon previous preparation, and without such preparation there is sure to be failure.',
         'Confucius',
     ],
-    '6435c7b6-ae92-53f1-9857-b482949e4283' => [
-        'The goal is not to get rich. The goal is to live rich.',
-        'Darren Hardy',
+    '2e59892f-d728-572e-8536-d5abe06e598e' => [
+        'Why hurry over beautiful things? Why not linger and enjoy them?',
+        'Clara Schumann',
     ],
-    '5ddcf91c-1ee1-51b2-8a4b-e250ce592b1f' => [
-        'At the end of the day, you are solely responsible for your success and your failure. And the sooner you realize that, you accept that, and integrate that into your work ethic, you will start being successful. As long as you blame others for the reason you aren\'t where you want to be, you will always be a failure.',
-        'Erin Cummings',
+    '1cb5532b-d367-514b-9a01-5693d3162a49' => [
+        'Money is a very important tool to make a big difference in people\'s life. It is positive or negative depending on the values.',
+        'Shiv Khera',
     ],
-    'cf7ffbdd-98ce-546a-bbf8-3b143247722c' => [
-        'Think about what people are doing on Facebook today. They\'re keeping up with their friends and family, but they\'re also building an image and identity for themselves, which in a sense is their brand. They\'re connecting with the audience that they want to connect to. It\'s almost a disadvantage if you\'re not on it now.',
-        'Mark Zuckerberg',
+    '3d7c1f87-5ba4-5b86-904e-05ef39800024' => [
+        'Photography does deal with \'truth\' or a kind of superficial reality better than any of the other arts, but it never questions the nature of reality - it simply reproduces reality. And what good is that when the things of real value in life are invisible?',
+        'Duane Michals',
     ],
-    '85f6b7c8-002f-5bf8-9e83-aaae14db5461' => [
-        'The next time you see a spider web, please, pause and look a little closer. You\'ll be seeing one of the most high-performance materials known to man.',
-        'Cheryl Hayashi',
-    ],
-    '8c6d9629-d6b1-5ee8-8f26-117fb36c9143' => [
-        'I wasted time, and now doth time waste me.',
-        'William Shakespeare',
-    ],
-    '875db81f-7465-5c0d-bd92-011d9d8d81a8' => [
-        'The thoughts we choose to think are the tools we use to paint the canvas of our lives.',
-        'Louise Hay',
-    ],
-    'ca3a7f18-da8e-5870-b3fa-ce77cf653367' => [
-        'A dog will teach you unconditional love. If you can have that in your life, things won\'t be too bad.',
-        'Jimmy Dean',
-    ],
-    '5b90930e-42b8-582c-8a4d-e1390ab8e607' => [
-        'Sometimes people just want you to fail. Except your really good friends. I\'ve always known who my best friends were.',
-        'Kato Kaelin',
-    ],
-    'e07c2f76-3c1c-5cca-ae68-c6e56ae44a15' => [
-        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
-        'Alek Wek',
-    ],
-    '4a490bad-1735-5e30-9094-2785059b8cc4' => [
-        'I came on to the film with a very happy-go-lucky attitude which I think my character, Charlie, did when she went into the house. I expected it to be good, and then slowly things started to change for us all.',
-        'Jennifer Sky',
-    ],
-    '9a0a0f36-ab32-53d3-bff1-ae5112052003' => [
-        'I pray to start my day and finish it in prayer. I\'m just thankful for everything, all the blessings in my life, trying to stay that way. I think that\'s the best way to start your day and finish your day. It keeps everything in perspective.',
-        'Tim Tebow',
-    ],
-    '785ff830-86e3-587f-8b32-29b3c6e7a4f8' => [
-        'I am little concerned with beauty or perfection. I don\'t care for the great centuries. All I care about is life, struggle, intensity.',
-        'Emile Zola',
-    ],
-    '003db182-1ebb-59f6-a9e7-26ce291a9716' => [
-        'Big shots are only little shots who keep shooting.',
-        'Christopher Morley',
-    ],
-    '3631ee46-3d82-54cf-84b8-10f5d2175230' => [
-        'Absence makes the heart grow fonder.',
-        'Haynes Bayly',
-    ],
-    '66235ae6-26a2-5388-811d-7c2f8cc4d38f' => [
-        'The reason most of the children are having problems in any inner-city neighborhood is because they don\'t see enough positive role models in their own environment.',
-        'Marla Gibbs',
-    ],
-    '49c4d060-1a5f-52dc-acae-5b861d2f8a52' => [
-        'Since those who believe they need a hero/celebrity outnumber the actual heroes/celebrities, people feel safe and comfortably justified in numbers, committing egregious crimes in the name of the greater social ego. Ironically diminishing their own true hero-celebrity nature in the process.',
-        'Lauryn Hill',
-    ],
-    '336dd2d1-4006-56eb-9e2e-b0765db04cf0' => [
-        'Take time to be kind and to say \'thank you.\'',
-        'Zig Ziglar',
-    ],
-    'b9a76f84-3d2e-53d9-b456-bba1604b0c40' => [
-        'We\'re constantly striving for success, fame and comfort when all we really need to be happy is someone or some thing to be enthusiastic about.',
-        'H. Jackson Brown, Jr.',
-    ],
-    '85831caa-9f89-5fdd-bd9f-bc59f89ef7fa' => [
-        'I\'m positive and I smile a lot, and I\'m kind of a banana, but serious work just seems to find me, so I\'m not going to argue with it.',
-        'Mireille Enos',
-    ],
-    '14395786-f11e-52cc-abc8-6a16d8fe4a11' => [
-        'Gay culture is surviving and thriving. Some activists believe the recent rise in homophobic violence might be a gauge of the success of positive gay images.',
-        'Lance Loud',
-    ],
-    'b98c9a3e-adb3-5a0b-87b2-0890dc0b8189' => [
-        'We\'ve certainly learned a lot of lessons from Katrina, from Rita. Rita was better than Katrina. We\'re doing a better job planning. We\'re closer - more closely aligned with the Department of Defense. These things would be positive things if we were to have another attack.',
-        'Michael Chertoff',
-    ],
-    'c0314820-d675-501e-840a-5bb1efd62a5a' => [
-        'Happiness is a perfume you cannot pour on others without getting a few drops on yourself.',
-        'Ralph Waldo Emerson',
-    ],
-    'fae5dd35-70ab-5c3e-ae5f-7f623bef6cea' => [
-        'The true treasure lies within. It is the underlying theme of the songs we sing, the shows we watch and the books we read. It is woven into the Psalms of the Bible, the ballads of the Beatles and practically every Bollywood film ever made. What is that treasure? Love. Love is the nature of the Divine.',
-        'Radhanath Swami',
-    ],
-    'de733bd4-9e29-5f90-98f2-e412e1cf1d12' => [
-        'Even in the centuries which appear to us to be the most monstrous and foolish, the immortal appetite for beauty has always found satisfaction.',
-        'Charles Baudelaire',
-    ],
-    'f35aca9a-0953-5355-bb9f-0a50021dc455' => [
-        'People ask me all the time, \'What keeps you up at night?\' And I say, \'Spicy Mexican food, weapons of mass destruction, and cyber attacks.\'',
-        'Dutch Ruppersberger',
+    '2cc943bc-fafb-5ffe-ba04-a5f12663b837' => [
+        'The functions of the family in a highly differentiated society are not to be interpreted as functions directly on behalf of the society, but on behalf of personality.',
+        'Talcott Parsons',
     ],
 ];

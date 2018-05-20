@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'd8c4c6a6-dfcc-531d-9f7f-5df6fc117089' => [
-        'Be kind whenever possible. It is always possible.',
-        'Dalai Lama',
+    'a1673153-6445-5c3f-aaa2-e1bfee1d820b' => [
+        'Many people say I smile more in Africa than in Sweden.',
+        'Henning Mankell',
     ],
-    '60a9ee27-67ce-5d6f-bc71-fd72a50f2b1a' => [
-        "Ten years from now, make sure you can say that you chose your life, you didn\u{92}t settle for it.",
-        'Mandy Hale',
+    '2bf95dd4-b6f0-5fa6-8bb3-d51f6bc7d37f' => [
+        'The pressure on young chefs today is far greater than ever before in terms of social skills, marketing skills, cooking skills, personality and, more importantly, delivering on the plate. So you need to be strong. Physically fit. So my chefs get weighed every time they come into the kitchen.',
+        'Gordon Ramsay',
     ],
-    'f9314a45-80d6-5659-a536-7acc3d997bb3' => [
-        'Have the courage to say no. Have the courage to face the truth. Do the right thing because it is right. These are the magic keys to living your life with integrity.',
-        'Marc Anthony',
+    '6b82852f-cb6e-545c-9fa9-20efac30be55' => [
+        'I never laugh or smile when I am writing. When I come home for lunch after writing all morning, my wife says I look like I just came home from a funeral. This is not bragging. This is an illness.',
+        'Carl Hiaasen',
     ],
-    'e7b8cdef-0e94-5942-817a-e6d5dc69e84d' => [
-        'If you can\'t tell a spoon from a ladle, then you\'re fat!',
-        'Demetri Martin',
-    ],
-    '97e03564-b0dc-50b1-82a0-51026ced9171' => [
-        'There is no doubt that breath control is the means for mind control because the mind, like breath, is a part of air; because the nature of mobility is common to both; because the place of origin is the same for both; and because when one of them is controlled, the other gets controlled.',
-        'Ramana Maharshi',
-    ],
-    '62660891-a7aa-5572-a46e-4c4005a8c17b' => [
-        'Nature is not only all that is visible to the eye... it also includes the inner pictures of the soul.',
-        'Edvard Munch',
-    ],
-    'a2010180-4105-5eb1-922b-27991a140e7b' => [
-        'I don\'t think our government really has much of a policy about air travel. I would compare the policies of United Arab Emirates, which has done a terrific job recognizing the value of transportation, of travel.',
-        'Jeff Smisek',
-    ],
-    'ec883059-2729-5398-87a8-63df6019f23c' => [
-        'Most people work just hard enough not to get fired and get paid just enough money not to quit.',
-        'George Carlin',
-    ],
-    '594f496c-6f0d-5d05-8a6e-bbc6937e7bf5' => [
-        'I tend to play characters that I can infuse with certain kinds of humour. Even the baddest guy can be funny in his own particular way. I want the audience to engage with the character on some deeper level so that they leave the cinema still thinking about him.',
-        'Samuel L. Jackson',
-    ],
-    '60ce71e4-c844-57cc-a206-06c2532c4159' => [
-        'The automobile engine will come, and then I will consider my life\'s work complete.',
-        'Rudolf Diesel',
-    ],
-    'dc9a2ef9-935d-5628-af9e-55108af2a075' => [
-        'The love of beauty in its multiple forms is the noblest gift of the human cerebrum.',
-        'Alexis Carrel',
-    ],
-    '1e48d8b2-64b7-5179-a888-d96ac7875b1e' => [
-        'People seldom see the halting and painful steps by which the most insignificant success is achieved.',
-        'Anne Sullivan',
-    ],
-    'db17fc79-8b16-52e0-b749-1dadd97c3806' => [
-        'Truth is generally the best vindication against slander.',
-        'Abraham Lincoln',
-    ],
-    '08468cfe-71c6-591c-9ed4-731534724b25' => [
-        'When I tried to play something and screwed up, I\'d hear some other note that would come into play. Then I started trying different things to find the beauty in it.',
-        'Dimebag Darrell',
-    ],
-    '5a0d6a6d-ec74-5c55-8790-cda0d8467c03' => [
-        'I\'m looking forward to influencing others in a positive way. My message is you can do anything if you just put your mind to it.',
-        'Justin Bieber',
-    ],
-    'e6dd61e2-01f8-5412-a938-4d8543cff548' => [
-        'Women are called upon to defend every bit of progress we have made against particularly virulent attack. But we must also hold out a vision, put forth a positive agenda of what women need and want and then move forward toward that dream.',
-        'Patricia Ireland',
-    ],
-    'f97badea-3d2a-5872-ba66-69b4b2951070' => [
-        'Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?',
-        'Brian Tracy',
-    ],
-    'b1a4b979-5030-509c-8ad9-eff737026acd' => [
-        'To succeed, we must first believe that we can.',
-        'Michael Korda',
-    ],
-    'b35d6cba-89b1-579f-a749-679877055181' => [
-        'Real difficulties can be overcome; it is only the imaginary ones that are unconquerable.',
-        'Theodore N. Vail',
-    ],
-    '6257a093-1a84-5c41-845d-d93d109059d9' => [
-        'If the shoe doesn\'t fit, must we change the foot?',
-        'Gloria Steinem',
-    ],
-    '23e56124-852f-5d33-9a77-b04443a8de91' => [
-        'The first time I see a jogger smiling, I\'ll consider it.',
-        'Joan Rivers',
-    ],
-    'c380a1cf-71fd-5e94-b41c-8c688107bbe4' => [
-        'When we are no longer able to change a situation, we are challenged to change ourselves.',
-        'Viktor Frankl',
-    ],
-    '9cc29711-e2dc-521f-9012-13d95d495987' => [
-        'Humility is becoming a lost art, but it\'s not difficult to practice. It means that you realize that others have been involved in your success.',
-        'Harvey Mackay',
-    ],
-    '3996aa66-25bd-559e-9a59-808ff926ce9f' => [
-        'Hurried and worried until we\'re buried, and there\'s no curtain call, Lifes a very funny proposition after all.',
-        'George M. Cohan',
-    ],
-    '9ce89d56-77a7-5025-8a83-edc31a6c1149' => [
-        'I am always acting, be at a party, at work or in office. My attitude changes from meeting to meeting, from being serious to intense to funny, depending on who is in the room.',
-        'Karan Johar',
-    ],
-    '84a73547-b84c-5ef1-9024-f6db229aeddd' => [
-        'I pretend I\'m one of the royal family when I\'m in a hotel and that the hotel belongs to me - it is a palace.',
-        'Martin Short',
-    ],
-    '0a9901f3-e53b-5dda-9f0a-d2432cb5c046' => [
-        'Sometimes you\'re not even sure which of your stories were failures. There are things I\'ve written that I thought were complete catastrophes when I finished with them that have gone on to generate some of my most positive feedback.',
-        'Len Wein',
-    ],
-    '58793a5f-7672-5356-a755-c2c6a49cb95b' => [
-        'Humor has become so cliche and boring that nothing\'s funny anymore unless it involves something totally disgusting that offends somebody or makes them feel really uncomfortable.',
-        'Tom DeLonge',
-    ],
-    '7b0b30d1-3923-5350-8943-75110f306723' => [
-        'Beer, it\'s the best damn drink in the world.',
-        'Jack Nicholson',
-    ],
-    '545a513a-bf8c-5b89-8460-c96bf93bc763' => [
-        'Time travel used to be thought of as just science fiction, but Einstein\'s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.',
-        'Stephen Hawking',
-    ],
-    '23b178c0-6843-5a37-900a-b2c22e0c5fc5' => [
-        'I\'m a big cockeyed optimist. I try to accentuate the positive as opposed to the negative.',
-        'Betty White',
-    ],
-    '4ab625a1-cde7-54e4-91c2-097a0842a725' => [
-        'If you don\'t go after what you want, you\'ll never have it. If you don\'t ask, the answer is always no. If you don\'t step forward, you\'re always in the same place.',
-        'Nora Roberts',
-    ],
-    '87a02640-a13b-5786-a7dd-84444a395648' => [
-        'Since she got a cause and stopped being funny. I think she\'s real funny, but lately it\'s all been hearts and flowers and tears and saving teenagers and creating a role model. And that ain\'t funny. No giggles there.',
-        'Andy Richter',
-    ],
-    '0cd85929-1821-5c1d-843f-55dcd53162c0' => [
-        'It is not so much for its beauty that the forest makes a claim upon men\'s hearts, as for that subtle something, that quality of air that emanation from old trees, that so wonderfully changes and renews a weary spirit.',
-        'Robert Louis Stevenson',
-    ],
-    '10a53ba6-cbea-5c1c-a728-3470370af725' => [
-        'If you study both \'Gilligan\' and \'Brady,\' you will see they are based on a similar philosophy: that it\'s possible for different kinds of people to learn to live together, either in a family or stuck on an island with no escape.',
-        'Sherwood Schwartz',
-    ],
-    'fd71ab9d-2155-508f-b763-70148de9b2d0' => [
-        'I just really think every job I do, I get this gypsy attitude to money.',
-        'Jessica Brown Findlay',
-    ],
-    'b8d3cafc-3c0f-577d-add5-ec49066b67cc' => [
-        'But when I really look back on my life, being really honest about it and now that I\'ve got the chance to travel the world, seeing how a lot of little kids grow up - my life wasn\'t so bad.',
-        'Coolio',
-    ],
-    'b0113ad0-98eb-5799-8b25-eeb89c7d4364' => [
-        'I think the media can be a very positive influence by essentially holding people to task about the importance of high quality medical care. And when the media is scrutinizing you, then I think that\'s a very good, positive thing for the field of medicine.',
-        'Anthony Fauci',
-    ],
-    'e9770321-81b4-5ad6-b36c-0aa401cc9092' => [
-        'And History will smile to think that this is the species for which Socrates and Jesus Christ died.',
-        'Julien Benda',
-    ],
-    'f18ca873-b7c4-5750-b761-9dc754199b01' => [
-        'We submit to the majority because we have to. But we are not compelled to call our attitude of subjection a posture of respect.',
-        'Ambrose Bierce',
-    ],
-    '7f9f093d-d323-5b2b-a2fc-1fcebc53e863' => [
-        'If people are not laughing at your goals, your goals are too small',
-        'Asim Premji',
-    ],
-    'd5e8bda5-7aed-558c-9442-9c9762a408d7' => [
-        'Childbirth changed my perception of my wife. She was now the bloodied special forces soldier who had fought and risked everything for our family.',
-        'Mohsin Hamid',
-    ],
-    'd48f5429-51aa-5901-96d6-f02581a3efcb' => [
-        'My father would take me to the playground, and put me on mood swings.',
-        'Jay London',
-    ],
-    '8786438b-128b-56f1-8114-9d1db391e078' => [
-        'Trouble is only opportunity in work clothes.',
-        'Henry J. Kaiser',
-    ],
-    '3131063c-fa3a-5349-987c-aa125aa721fd' => [
-        'Obsessed is a word that the lazy use to describe the dedicated.',
+    '7c73bdd6-e047-529c-94b9-43b7ec404f8f' => [
+        'It\'s easier to see the mistakes on someone else\'s paper.',
         'Unknown',
     ],
-    '9aa2a23b-6aa0-5516-8344-8f710a484832' => [
-        'Sometimes the best way to learn something is by doing it wrong and looking at what you did.',
-        'Neil Gaiman',
+    '536e93e3-4de2-5b8d-9add-ac793348cf98' => [
+        'I saw \'Taxi Driver,\' and \'Taxi Driver\' kind of saved my life. The scene where Robert De Niro is looking at himself in the mirror saying, \'You talkin\' to me? You talkin\' to me? Who the hell else are you talkin\' to?\' That\'s the scene that changed my life by changing my attitude about acting.',
+        'Michael Biehn',
     ],
-    '64d8025c-2f39-5a68-8170-4c9040b84d31' => [
-        'You know, true love really matters, friends really matter, family really matters. Being responsible and disciplined and healthy really matters.',
-        'Courtney Thorne-Smith',
+    'b0b64548-1801-5aa1-9388-7566260a441d' => [
+        'Learning should be engaging. Testing should not be the be all and end all. All students should have a broad curriculum that includes the arts and enrichment. Students should have opportunities to work in teams and engage in project-based learning. And student and family well-being should be front and center.',
+        'Randi Weingarten',
     ],
-    'c0f49351-2887-597b-9e94-0681985f1126' => [
-        'There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.',
-        'Wayne Dyer',
+    '20f6fc95-8998-5330-86d9-e5c146f1636d' => [
+        'The ladder of success is best climbed by stepping on the rungs of opportunity.',
+        'Ayn Rand',
     ],
-    '1cc545e4-3653-598b-ad95-7074b4025796' => [
-        'You must expect great things of yourself before you can do them.',
-        'Michael Jordan',
+    'f37832cd-809b-5c15-a064-0b1cf31bb963' => [
+        'It\'s wonderful to learn about new cultures and to be able to travel easily to so many countries.',
+        'Stephen A. Schwarzman',
     ],
-    '5ed7cc8c-9a0d-5b0a-964b-118ed47f8acf' => [
-        'Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work.',
-        'Vince Lombardi',
+    '9afe6c4e-e4d3-5d95-bf4b-c8324c388a0b' => [
+        'Hard work always pays off, whatever you do.',
+        'Dustin Lynch',
+    ],
+    'd1dfaa4d-3eab-56d2-a68f-6ee01439b431' => [
+        'There was a film that really affected me, \'La Strada\' by Fellini, where Anthony Quinn and Giulietta Masina travel around on his little motorcycle thing.',
+        'Kris Kristofferson',
+    ],
+    '9d3134be-eebf-54a4-8387-9d2acb03030c' => [
+        'I have had a perfectly wonderful evening, but this wasn\'t it.',
+        'Groucho Marx',
+    ],
+    '8d3a1105-a30d-58ea-b188-352af0714410' => [
+        'I love pizza. I want to marry it, but it would just be to eat her family at the wedding.',
+        'Mike Birbiglia',
+    ],
+    '186ac4c6-84b5-54d5-8fa1-56d249c924d7' => [
+        'Everything in life is luck.',
+        'Jennifer Love Hewitt',
+    ],
+    '8986ddf1-99cb-5533-a57c-924f95851aa7' => [
+        'What can a pencil do for all of us? Amazing things. It can write transcendent poetry, uplifting music, or life-changing equations; it can sketch the future, give life to untold beauty, and communicate the full-force of our love and aspirations.',
+        'Alice Waters',
+    ],
+    '1ea9766f-aa40-545a-afe7-e524c34d4067' => [
+        'I\'ve actually tried to roast somebody that I don\'t like, and it doesn\'t go well. Either they\'re a bad sport or I\'m not as funny as I could be.',
+        'Jeff Ross',
+    ],
+    '92998b4f-1067-5cf0-ac9e-cd3ac1668727' => [
+        'Human society sustains itself by transforming nature into garbage.',
+        'Mason Cooley',
+    ],
+    '9b48adbc-b50d-5e42-be35-f19bc8fb8ae8' => [
+        'Love and business and family and religion and art and patriotism are nothing but shadows of words when a man\'s starving!',
+        'O. Henry',
+    ],
+    'd5a3de33-2a95-5f7f-a422-bec9d2910917' => [
+        'Like many young people, I believe I have potential to make a positive impact in the world.',
+        'Cameron Russell',
+    ],
+    '96f908fc-0ea8-58fc-888d-c8289e93733d' => [
+        'Occurrences in this domain are beyond the reach of exact prediction because of the variety of factors in operation, not because of any lack of order in nature.',
+        'Albert Einstein',
+    ],
+    '418e9e28-9c6c-5602-80c3-4511b04272ab' => [
+        'Marriage is a wonderful institution, but who would want to live in an institution?',
+        'H. L. Mencken',
+    ],
+    '5c35ba88-6f9d-563c-aa60-62b4057aa5d7' => [
+        'Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.',
+        'Peter Drucker',
+    ],
+    'b5223b87-8d23-588b-ae62-5bcf78a5de90' => [
+        'I have to stay alone in order to fully contemplate and feel nature.',
+        'Caspar David Friedrich',
+    ],
+    '18c5216a-0fbc-52c8-906b-338099ccd866' => [
+        'My beauty icons are women whose images are self-created.',
+        'Dita Von Teese',
+    ],
+    'b90fa05b-caa9-5477-8e6d-8f038668cd73' => [
+        'I also became close to nature, and am now able to appreciate the beauty with which this world is endowed.',
+        'James Dean',
+    ],
+    '6dca78fd-df61-5295-8fb2-9847c06828e0' => [
+        'We\'re all biased, right, in many different ways - politically, religiously, ideologically, the way our family raised us - and that\'s fine. Nobody wants to live in a world where everybody thinks exactly the same. The key, though, is to try to figure out where your biases are holding you back from solving problems.',
+        'Stephen J. Dubner',
+    ],
+    '63aec17c-b81f-51e7-8c2a-20bdb3396791' => [
+        'The best way to predict the future is to study the past, or prognosticate.',
+        'Robert Kiyosaki',
+    ],
+    '1480b476-dc3a-5c1c-811e-ffabed9120ac' => [
+        'Where is there beauty when you see deprivation and starvation?',
+        'Rosalind Russell',
+    ],
+    'ad69476a-19ab-5a10-9f97-1d6b12fbba9f' => [
+        'When you see something that is technically sweet, you go ahead and do it and you argue about what to do about it only after you have had your technical success. That is the way it was with the atomic bomb.',
+        'J. Robert Oppenheimer',
+    ],
+    '9fa4915e-6488-5e0c-8955-45bc17bc9599' => [
+        'I thank you God for this most amazing day, for the leaping greenly spirits of trees, and for the blue dream of sky and for everything which is natural, which is infinite, which is yes.',
+        'e. e. cummings',
+    ],
+    '70bb8aff-422e-5c39-bba3-2231ddec460e' => [
+        'When you are content to be simply yourself and don\'t compare or compete, everybody will respect you.',
+        'Laozi',
+    ],
+    '6bf15933-05c0-5325-8856-61de476afa1e' => [
+        'If women had to promise to provide for a man for a lifetime before he removed his veil and showed her his smile, would we think of this as a system of female privilege?',
+        'Warren Farrell',
+    ],
+    '5732ac6f-442a-5a49-880f-658d5d9141cf' => [
+        'It really was hand-to-mouth and you can say, \'Poor little me, how dreadful, what a deprived childhood\', but I didn\'t feel that way at all. It\'s all about the attitude at home.',
+        'Carol Vorderman',
+    ],
+    '6971cb0e-b7c2-55da-b331-47b5b8a0bc55' => [
+        'The important thing for me was that the World Cup should travel round the world.',
+        'Sepp Blatter',
+    ],
+    '52e4e2f1-ba3e-5b57-987c-4f0ee8494b95' => [
+        'I would probably work with Drake as he is massively inspirational to me as a writer as well as an artist. If not him, then Susan Boyle!',
+        'Conor Maynard',
+    ],
+    '73882cde-bcfd-51d4-b4f3-50824d16a60a' => [
+        'After six years without seeing one, I love just seeing a smile - every smile I see gives me hope.',
+        'Ingrid Betancourt',
+    ],
+    '70f19520-969f-565e-a292-364e4e9b9b7e' => [
+        '\'Beauty\' is a currency system like the gold standard. Like any economy, it is determined by politics, and in the modern age in the West is is the last, best belief system that keeps male dominance intact.',
+        'Naomi Wolf',
+    ],
+    '308d5be6-7c06-56a2-903d-524f8aa7c137' => [
+        'Life is not a spectator sport. If you\'re going to spend your whole life in the grandstand just watching what goes on, in my opinion you\'re wasting your life.',
+        'C. S. Lewis',
+    ],
+    '91155dc2-7ddb-5c8e-b4b7-f04daf7e91d8' => [
+        'Genius is one percent inspiration and ninety-nine percent perspiration.',
+        'Thomas Edison',
+    ],
+    '619588d7-b828-5c58-bce9-fe4b57151315' => [
+        'Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.',
+        'Buddha',
+    ],
+    'c3c6bf2b-05e7-511b-b633-d8b654da6f51' => [
+        'We\'re teaching our kids that attributes as vague and relatively meaningless as a toothy smile or a fine head of hair make a fine statement about a person.',
+        'Neil Cavuto',
+    ],
+    'bc8ba2d2-9e2b-52d3-a430-56482222d307' => [
+        'Set a goal to achieve something that is so big, so exhilarating that it excites you and scares you at the same time.',
+        'Bob Proctor',
+    ],
+    '70452151-ac1c-5f58-96b5-daa48fe8ca79' => [
+        'All the art of living lies in a fine mingling of letting go and holding on.',
+        'Juan Pablo Galavis',
+    ],
+    'b33e2bba-6bb8-52e6-928b-184958667f18' => [
+        'I started singing about three years ago, I entered a local singing competition called Stratford Idol. The other people in the competition had been taking singing lessons and had vocal coaches. I wasn\'t taking it too seriously at the time, I would just sing around the house. I was only 12 and I got second place.',
+        'Justin Bieber',
+    ],
+    'cc973f81-d091-5655-99ed-5211943f0b4e' => [
+        'Rap music\'s been around for too long now to be inspirational. The words are, but the music isn\'t.',
+        'Alexander McQueen',
+    ],
+    'f599b78b-ea12-53be-bec2-81b9cb26d1e2' => [
+        'Every action of our lives touches on some chord that will vibrate in eternity.',
+        'Edwin Chapin',
+    ],
+    '7e809b30-de6c-56ba-b709-e4bf58fc90b2' => [
+        'The best way to turn a woman\'s head is to tell her she has a beautiful profile.',
+        'Sacha Guitry',
+    ],
+    '4d2db20c-5595-52b2-a5ef-b54336572efa' => [
+        'The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.',
+        'Thomas A. Edison',
+    ],
+    'cbad5181-eac2-5530-8184-2be5d84a5117' => [
+        'This feat I also had no idea how to accomplish, but ignorance had never stopped me from taking action before.',
+        'Viet Thanh Nguyen',
+    ],
+    '47cddcd2-86c3-5cf7-b3cc-128d87cdc5b8' => [
+        'As you begin to realize that every different type of music, everybody\'s individual music, has its own rhythm, life, language and heritage, you realize how life changes, and you learn how to be more open and adaptive to what is around us.',
+        'Diane von Furstenberg',
+    ],
+    'f0ad3c2d-a98c-5c0e-b982-b0decf39d683' => [
+        'In the West, it was believed that attitude and ambition saved you. In Africa, we had learned that no one was immune to capricious tragedy.',
+        'Alexandra Fuller',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '97e5fb98-6160-5774-8c94-1f3b30e67f2f' => [
-        'You can choose not to sit on the fence. You can choose not to criticise. You must stand as guard at the door of your own mind and choose to be positive.',
-        'Gail Kelly',
+    '867169a9-9bce-5c34-98c8-2e4a9996ae90' => [
+        'The funniest racism is the racism between minorities. It\'s something you don\'t see dramatized, but almost every minority I know who\'s my age, they have these funny stories about their parents stereotyping other minorities.',
+        'Mindy Kaling',
     ],
-    '81133bbc-62f8-557f-a805-84ddf2542954' => [
-        'The 1st period is won by the best technician. The 2nd period is won by the kid in the best shape. The 3rd period is won by the kid with the biggest heart.',
-        'Dan Gable',
+    '78eae663-723f-5403-88dd-bed70683d513' => [
+        'Impossibilities are merely things which we have not yet learned.',
+        'Charles Chesnutt',
     ],
-    '1266d5e0-7f8b-5aab-9067-cdd1ebb3798e' => [
-        'As long as your going to be thinking anyway, think big.',
-        'Donald Trump',
+    '1f068d9c-373c-5b1f-a39a-f93dc8585ad4' => [
+        'Time is money.',
+        'Benjamin Franklin',
     ],
-    '75d14ba7-da50-5fca-98c1-073d7861086b' => [
-        'We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.',
-        'T. S. Eliot',
+    '6f2c59bd-fa51-5bae-a8a7-091a37613855' => [
+        'Achievement of your happiness is the only moral purpose of your life, and that happiness, not pain or mindless self-indulgence, is the proof of your moral integrity, since it is the proof and the result of your loyalty to the achievement of your values.',
+        'Jennifer Aniston',
     ],
-    'fc34b9f7-7793-532b-8fcb-cc7e5575cdda' => [
-        'The height of your accomplishments will equal the depth of your convictions.',
-        'William Scolavino',
+    '533c8251-54d0-516c-ac70-54138ae55975' => [
+        'Travel is glamorous only in retrospect.',
+        'Paul Theroux',
     ],
-    '0d7b0f80-4cec-5ce9-a8e4-62d272dc8317' => [
-        'The spring, summer, is quite a hectic time for people in their lives, but then it comes to autumn, and to winter, and you can\'t but help think back to the year that was, and then hopefully looking forward to the year that is approaching.',
-        'Enya',
+    '3fbf303d-64e7-5bce-a427-cd8c59287c93' => [
+        'I\'d rather try and cram in another two gags than leave a pause to say, \'Hey, wasn\'t that bit funny?\'',
+        'Edgar Wright',
     ],
-    'c4ef3db5-50a4-5c50-b9aa-06129d925026' => [
-        'The further we distance ourselves from the spell of the present, explored by our senses, the harder it will be to understand and protect nature\'s precarious balance, let alone the balance of our own human nature.',
-        'Diane Ackerman',
+    'e683b8d3-51f0-5a7e-b7fc-7f23b181de8c' => [
+        'I was kind of like the Rhea Perlman of the bar. I was like Carla on \'Cheers.\' People were more afraid of me. There was a point where I got a little surly. There were only so many chicken wings I could serve before losing the smile on my face.',
+        'Melissa Rauch',
     ],
-    'd2c0261a-48cf-5aa8-87aa-244cc0f31cbc' => [
-        'About the time we can make the ends meet, somebody moves the ends.',
-        'Herbert Hoover',
+    'a8b4c6dc-8e3e-5d4a-a47b-cf7440da5aa0' => [
+        'We\'re a phenomenally snobby society, and it\'s such a rich seam. The middle class is so funny: it\'s the class I know best, and it\'s the class where you find the most pretension, so that\'s what makes the middle classes so funny.',
+        'J. K. Rowling',
     ],
-    '434477c7-992f-51e0-bcbe-b241756d123c' => [
-        'I literally wear a mask. When I take it off, I\'m a father. I\'m a husband. I like to come home, and I like to spend time with family, and I like to travel, and I like to have a good time. And I like to be a kid every now and giggle and play with my kids.',
-        'Rey Mysterio',
+    'b0401403-b8a2-5d2f-9632-fb4ca3be59a7' => [
+        'Our goal is to make the best devices in the world, not to be the biggest.',
+        'Steve Jobs',
     ],
-    'fee86ec7-5930-5542-bd9e-c634742ca5c4' => [
-        'But if each man could have his own house, a large garden to cultivate and healthy surroundings - then, I thought, there will be for them a better opportunity of a happy family life.',
-        'George Cadbury',
+    'b392e9bf-eac1-57a0-9c20-8ba0aaa08d26' => [
+        'My very best friend died in a car accident when I was 16 years old. That was the hardest blow emotionally that I have ever had to endure. Suddenly, you realize tomorrow might not come. Now I live by the motto, \'Today is what I have.\'',
+        'Amber Heard',
     ],
-    '99bb6e50-3672-5c4d-87ce-df9933876219' => [
-        'When the history books are written in a thousand years, when space travel would have become routine, the moment that humans first left Earth will be of huge importance. Star City is a central part of this story and it deserves more recognition.',
-        'Helen Sharman',
+    'e786156b-afb9-5d76-a7ff-f04b29ace048' => [
+        'I\'ve always believed that you can think positive just as well as you can think negative.',
+        'James A. Baldwin',
     ],
-    'ec6db5ce-39a1-5428-8948-fd215f32c7b9' => [
-        'Competence, like truth, beauty, and contact lenses, is in the eye of the beholder.',
-        'Laurence J. Peter',
+    '70682c04-689d-57e9-9075-bc575506afe3' => [
+        'A mediocre idea that generates enthusiasm will go further than a great idea that inspires no one.',
+        'Mary Kay Ash',
     ],
-    '35bcbd76-cc9b-5a1d-aaae-3d1784846cab' => [
-        'I never did anything by accident, nor did any of my inventions come by accident; they came by work.',
-        'Thomas A. Edison',
+    '6611c0e3-eed6-5952-a385-91429532fa5a' => [
+        'Time and memory are true artists; they remould reality nearer to the heart\'s desire.',
+        'John Dewey',
     ],
-    '7f70d715-8f68-5503-8c9a-2468b13ae213' => [
-        'Traveling, you realize that differences are lost: each city takes to resembling all cities, places exchange their form, order, distances, a shapeless dust cloud invades the continents.',
-        'Italo Calvino',
+    '5e3502d0-26c3-5b6d-b591-6085d2d4ad3f' => [
+        'In life, there is always that special person who shapes who you are, who helps to determine the person you become.',
+        'Woody Allen',
     ],
-    '7e25f907-a7d5-57b9-9299-c7d7df922721' => [
-        'I think the thing I miss most in our age is our manners. It sounds so old-fashioned in a way. But even bad people had good manners in the old days, and manners hold a community together, and manners hold a family together; in a way, they hold the world together.',
-        'Nancy Friday',
+    'f18d910f-cfe7-5c18-a375-41ad58dbfc49' => [
+        'I know you\'ve heard it a thousand times before. But it\'s true - hard work pays off. If you want to be good, you have to practice, practice, practice. If you don\'t love something, then don\'t do it.',
+        'Ray Bradbury',
     ],
-    '79f4c215-5bef-52e0-80ee-790c6741d761' => [
-        'Time is but the stream I go a-fishing in.',
-        'Henry David Thoreau',
+    'f0befeeb-5a7d-537c-babf-8e538aa253a2' => [
+        'If the path be beautiful, let us not ask where it leads.',
+        'Anatole France',
     ],
-    '0e6145c3-0e46-5e0a-94dd-02fde03e31d4' => [
-        'My family\'s lineage, we are warriors. The McGregor clan, we are warriors all through. We are famous all through the world for our fighting capabilities of all generations. So I have no doubt that\'s stood to me and that led me down this path and gave me what I have.',
-        'Conor McGregor',
+    '117f1efe-7f06-5215-ad00-0b9ce23d39b8' => [
+        'Strength of character may be learned at work, but beauty of character is learned at home.',
+        'Henry Drummond',
     ],
-    '3629b325-551b-585e-8801-7eb6912398af' => [
-        'I travel so much and am always living out of a suitcase, so my favorite saying is \'Wherever you go, there you are\'. I love it because it\'s reassuring to me that you have to live in the moment wherever you happen to be.',
-        'Jake Shears',
+    'e729aaa6-370d-579d-b5e6-1d6640d6110a' => [
+        'Just as a candle cannot burn without fire, men cannot live without a spiritual life.',
+        'Jim Rohn',
     ],
-    '405127ef-bf7b-5c4a-8239-013ea99741ee' => [
-        'Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.',
-        'Henry Wadsworth Longfellow',
-    ],
-    '9febc3b5-bd5a-55ae-ba1c-18f8e2976272' => [
-        'You can\'t stop the waves, but you can learn to surf.',
-        'Jon Kabat-Zinn',
-    ],
-    'e3da58b5-029e-5012-b95a-2f8206d4ac83' => [
-        'I wanted to race cars. I didn\'t like school, and all I wanted to do was work on cars. But right before I graduated, I got into a really bad car accident, and I spent that summer in the hospital thinking about where I was heading. I decided to take education more seriously and go to a community college.',
-        'George Lucas',
-    ],
-    '024da53e-ae24-5f7a-92fe-c7c2f87219fd' => [
-        'I can\'t go into a mob scene and sense the mood and the attitude of the crowd. I can\'t conduct man-on-the-street interviews or even get reactions that I can be sure are honest, because they know who I am.',
-        'Walter Cronkite',
-    ],
-    'a3913511-0535-5225-baec-5a707a921fb8' => [
-        'The hardest thing in life to learn is which bridge to cross and which to burn.',
-        'Joyce Meyer',
-    ],
-    '8ec54c09-381d-5b1c-a550-c3af4c615d5c' => [
-        'Across professions, consistency is a direct product of work ethic.',
-        'Harsha Bhogle',
-    ],
-    '1f4d86d3-16b6-5c71-9289-8023c03ec0d5' => [
-        'Success usually comes to those who are too busy to be looking for it.',
-        'Henry David Thoreau',
-    ],
-    'cdd3587d-2df0-53cf-a75a-4b300896ac64' => [
-        'Beauty when unadorned is adorned the most.',
-        'St. Jerome',
-    ],
-    'b25d2f46-ad9c-54b9-9ec4-17d84be38ecf' => [
-        'You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.',
-        'Woodrow Wilson',
-    ],
-    'fe693018-8317-5bd4-9bd6-b9ec45a4cafc' => [
-        'Too low they build, who build beneath the stars.',
-        'Edward Young',
-    ],
-    '0fa34f88-0f26-5924-9491-d912662c2a62' => [
-        'A day spent without the sight or sound of beauty, the contemplation of mystery, or the search of truth or perfection is a poverty-stricken day; and a succession of such days is fatal to human life.',
-        'Lewis Mumford',
-    ],
-    '2794fe83-e641-5a61-91d3-bb11f995aee6' => [
-        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
-        'James D. Watson',
-    ],
-    'd7963998-bd2e-51ad-a126-083d93c6ddfc' => [
-        'Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me.',
-        'Anna Held',
-    ],
-    '23c54324-efff-574f-8ec3-44b9d0d5cb4f' => [
-        'The road to success runs uphill.',
-        'Willie Davis',
-    ],
-    '6853f935-ad44-5386-9a81-7431a76dc1f7' => [
-        'I don\'t care about commercial success. I get to do what I love and communicate whatever I want.',
-        'Sia',
-    ],
-    'ff3f5d27-f935-509a-bbf7-cdf242f79692' => [
-        'The future of America is not an entitlement. We have been given a treasure chest of gifts and opportunities, but some people are being left behind, and success is not sustainable unless it is shared.',
-        'Howard Schultz',
-    ],
-    '3c73e2ce-7a9b-52af-91e0-3e2d4a518d0b' => [
-        'When I was a child I asked my mother what homosexuality was about and she said - and this was 100 years ago in Germany and she was very open-minded - \'It\'s like hair color. It\'s nothing. Some people are blond and some people have dark hair. It\'s not a subject.\' This was a very healthy attitude.',
-        'Karl Lagerfeld',
-    ],
-    'ff489cbe-956d-5313-82ac-fc803f83c46e' => [
-        'Each moment of a happy lover\'s hour is worth an age of dull and common life.',
-        'Beverly Sills',
-    ],
-    '083e1ab5-b008-58e9-8d3f-44bfaa4acc70' => [
-        'One thing I didn\'t understand in life was that I had $100,000,000 in the bank and I couldn\'t buy happiness. I had everything: mansions, yachts, Ferraris, Lamborghinis, but I was depressed. I didn\'t know where I fitted in. But then I found family and friends and I learned the value of life.',
-        'Vanilla Ice',
-    ],
-    '8b522358-65f1-5cac-934c-944de03abb91' => [
-        'When I take my kids out for dinner or lunch, people smile at us.',
-        'Louis C. K.',
-    ],
-    'b14f7335-6754-50b8-8517-51fd93dea520' => [
-        'Whenever possible, I use local, fresh ingredients, just because it tastes and feels better to eat an egg or a tomato or a hamburger that wasn\'t flown halfway around the world, that didn\'t travel on a truck and get stuck in traffic jams, that hasn\'t been sitting in a supermarket\'s refrigerator case for days.',
-        'Kate Christensen',
-    ],
-    '9e14ec59-fd5b-5f44-8a53-fb02c0a50422' => [
-        'The architect should strive continually to simplify; the ensemble of the rooms should then be carefully considered that comfort and utility may go hand in hand with beauty.',
-        'Frank Lloyd Wright',
-    ],
-    '716df4f6-db0f-549b-83ce-6fdf38f22f1b' => [
-        'The stars shall fade away, the sun himself Grow dim with age, and nature sink in years, But thou shalt flourish in immortal youth, Unhurt amidst the wars of elements, The wrecks of matter, and the crush of worlds.',
-        'Joseph Addison',
-    ],
-    '3805fad8-40c5-5d42-901c-67638d5c900a' => [
-        'We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.',
-        'Buddha',
-    ],
-    '1db9ab55-9a54-5966-9560-7b126e834c82' => [
-        'Sometimes when you write something on the page, it can seem very funny, but when you act it out - and this happens to me a lot, actually - the melancholy of the situation becomes more front and center.',
-        'Mike White',
-    ],
-    '8ac5f266-8e13-55b6-891c-59001fc67c4b' => [
-        'Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.',
-        'John Kennedy',
-    ],
-    '171601d3-12e1-5448-8b84-49fda6c9be49' => [
-        'Travelers never think that they are the foreigners.',
-        'Mason Cooley',
-    ],
-    '4c715af5-7063-5fe1-8f07-60001ed21e74' => [
-        'For me the best thing about winning an award is when the people cheer for your win. When you can see that the people are really happy that you are winning something, that\'s the most reward thing in the world.',
-        'Busta Rhymes',
-    ],
-    '4d2db20c-5595-52b2-a5ef-b54336572efa' => [
-        'The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.',
-        'Thomas A. Edison',
-    ],
-    '68ae8ccc-d06d-5fb9-89af-d1c0977a5816' => [
-        'Our ideas must be as broad as Nature if they are to interpret Nature.',
+    'c09cdd21-a979-516c-b6bc-ce230e632539' => [
+        'Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.',
         'Arthur Conan Doyle',
     ],
-    '2fa1804b-7c92-53f9-ab40-bbe2ad83a085' => [
-        'When you grow up in poverty, suffer from abuse, live in a violent neighborhood, come from a broken home, lack positive role models, are told you\'ll never amount to anything, etc, the challenges are enormous.',
-        'Christine Tsai',
+    '8c383b26-5781-55b1-9a19-b4a19559e687' => [
+        'I grew up in a working class family. People thought I might go work at a mill. My mom wanted me to learn how to lay carpet because she was concerned about my future. Nobody had high hopes for me. But I was a hustler.',
+        'Mark Cuban',
     ],
-    'bf95ac71-af37-587a-9095-ce230047b831' => [
-        'I\'ve discovered that Motown and Broadway have a lot in common - a family of wonderfully talented, passionate, hardworking young people, fiercely competitive but also full of love and appreciation for the work, for each other and for the people in the audience.',
-        'Berry Gordy',
+    '42eed0d1-35f2-5f61-8ee4-8135f19d136c' => [
+        'Covetousness is both the beginning and the end of the devil\'s alphabet - the first vice in corrupt nature that moves, and the last which dies.',
+        'Michel de Montaigne',
+    ],
+    '9fd9576a-4a89-5604-b5fa-5b36b9fa9b93' => [
+        'Success is simple. Do what\'s right, the right way, at the right time.',
+        'Arnold H. Glasow',
+    ],
+    'edd318a4-7fa7-51ec-afe0-9f56f9831850' => [
+        'Teamwork requires some sacrifice up front; people who work as a team have to put the collective needs of the group ahead of their individual interests.',
+        'Patrick Lencioni',
+    ],
+    '83499705-f3af-5e6d-8feb-3d65e144c04a' => [
+        'Of all possible subjects, travel is the most difficult for an artist, as it is the easiest for a journalist.',
+        'W. H. Auden',
+    ],
+    '0c1a945a-d401-5edd-98dd-dfd3371f3bde' => [
+        'The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter - for the future. His duty is to lay the foundation for those who are to come, and point the way.',
+        'Nikola Tesla',
+    ],
+    '33d399d4-00c9-5470-b287-7c3beab52f10' => [
+        'I did stand-up comedy for 18 years. Ten of those years were spent learning, four years were spent refining, and four years were spent in wild success. I was seeking comic originality, and fame fell on me as a byproduct. The course was more plodding than heroic.',
+        'Steve Martin',
+    ],
+    '32f1a8c0-3f29-549d-b768-c9a1ea83d415' => [
+        'I want you to be everything that\'s you, deep at the center of your being.',
+        'Confucius',
+    ],
+    'f269d667-a350-5a39-bdeb-9a171b127aa4' => [
+        'I grew up playing hockey and some football, and I always think about the first time you walk into the locker room on a new team. The cliques are looking at you funny, and you make one friend, but then they\'re trying to stab you in the back.',
+        'Aaron Douglas',
+    ],
+    '901fb070-1cad-5b4c-8b79-a2b8100603fa' => [
+        'I come from a working-class family, and I\'ve been working since I was 13, from babysitting to blueberry picking to factory work to bookstore work. And of course, being a mother and homemaker, the hardest work of all.',
+        'Patti Smith',
+    ],
+    'e5e91ef2-206d-54d7-b286-81cc1224564e' => [
+        'When I\'m getting a chance to do my job or make somebody\'s day, and be on stage where I love, and see all the fans having fun, you can\'t help but smile.',
+        'Cole Swindell',
+    ],
+    '4b7af8d2-3061-5b18-8512-f81cd5c99eac' => [
+        'Custom, that is before all law; Nature, that is above all art.',
+        'Samuel Daniel',
+    ],
+    'e532bd18-d2fd-592d-8687-8c69bbc4243b' => [
+        'I allow a lot of room for improvisation and funny stuff. I always feel planned.',
+        'Michael Bay',
+    ],
+    'cb494fe8-3c86-5a31-b920-a16b9db72cd6' => [
+        'The \'Stephanie Plums\' are very much Jersey books. So you can\'t get away from attitude and objectionable language.',
+        'Janet Evanovich',
+    ],
+    '78818094-ffc9-5d9a-ae8d-11f7f8d68f35' => [
+        'Your best T-shirt should be like your bed; it just feels like you are home when you are in it.',
+        'Ashton Kutcher',
+    ],
+    '3c04196a-8b4e-557d-b176-182ff93b536c' => [
+        'Do not wait for leaders; do it alone, person to person.',
+        'Mother Teresa',
+    ],
+    '75805e58-1522-59ac-a37a-52ac6c35887d' => [
+        'Confront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing.',
+        'August Wilson',
+    ],
+    '3a3cc363-0bb2-5f73-a87b-a97871ddf077' => [
+        'The ground we walk on, the plants and creatures, the clouds above constantly dissolving into new formations - each gift of nature possessing its own radiant energy, bound together by cosmic harmony.',
+        'Ruth Bernhard',
+    ],
+    '7c2ddd6f-0c65-5a1c-86de-902badbc9595' => [
+        'Ignorance never settle a question.',
+        'Benjamin Disraeli',
+    ],
+    '75133637-78ef-5394-b5e5-d92c76ae8ec3' => [
+        'We\'re humans. Why always turn human attitude into political behaviours? I hate that.',
+        'Ingrid Betancourt',
+    ],
+    '4bc25676-c335-5090-ae47-bc44c7a52541' => [
+        'You learn to laugh at yourself, and you also lean on comedy as a crutch to kind of take the edge off because comedians often are self-deprecating, and they cross lines that they shouldn\'t. Stuff like that brings a smile to my face every once in a while when needed.',
+        'John Cena',
+    ],
+    '2a12a2a5-f7b6-5cdc-8687-95bad1aadbc5' => [
+        'My best friend is the most important girl, outside of family, to me. I met her when I went to college and we bonded immediately. I\'d do anything for her at any time. We phone each other every day.',
+        'Dawn French',
+    ],
+    '849e6f38-6c29-5d9e-8ab6-95bf88835dff' => [
+        'I think writing is really about a journey of understanding. So you take something that seems very far away, and the more you write about it, the more you travel into it, and you see it from within.',
+        'Pico Iyer',
+    ],
+    '13bcde53-a5e6-5f84-a246-c0d1baf05789' => [
+        'The reason why people wear pajamas to the airport in the first place is so that they\'ll be comfortable during their flight. But you know, typically, air travel is 50 to 75 percent of the time you spend traveling. The rest of the time you spend in public places like airports and around other people. That\'s when looking good trumps comfort.',
+        'Casey Neistat',
+    ],
+    'dff997d2-86ae-5e07-bb76-00bf06c80860' => [
+        'Kids can learn a lot about necessities and wants by recognizing what people live without. A common routine, but one that should not be overlooked, is having a family donation to a charity for those less fortunate. Ask your kids to search for items, toys, or clothes that they no longer use and contribute those items a collection box.',
+        'Alexa Von Tobel',
+    ],
+    'de79469c-c07f-50a4-90b2-68c96efc8a90' => [
+        'Above all, don\'t fear difficult moments. The best comes from them.',
+        'Rita Levi-Montalcini',
+    ],
+    'a336959c-a163-51d5-8b04-2de6f5ca89b5' => [
+        'Humour is the weapon of unarmed people: it helps people who are oppressed to smile at the situation that pains them.',
+        'Simon Wiesenthal',
+    ],
+    '1e48d8b2-64b7-5179-a888-d96ac7875b1e' => [
+        'People seldom see the halting and painful steps by which the most insignificant success is achieved.',
+        'Anne Sullivan',
+    ],
+    '2be397cc-9052-525b-8e3e-5f38ec4cc2bc' => [
+        'I like to encourage people to realize that any action is a good action if it\'s proactive and there is positive intent behind it.',
+        'Michael J. Fox',
+    ],
+    '651db827-e4a8-5fa4-b9b8-b111a9b39a53' => [
+        'Take it easy, but take it.',
+        'Woody Guthrie',
+    ],
+    'c1c49946-e004-59a7-92d0-806bc9f871a0' => [
+        'I was born to travel and write verse.',
+        'Theophile Gautier',
     ],
 ];

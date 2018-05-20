@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '957796fa-2dcf-5a4e-aa81-86a01b7f1577' => [
-        'The suburbs are the American dream, right? Living in a nice house, having a good job, a happy family.',
-        'Cheryl Hines',
+    'd2a3fa38-4a22-5326-9ab4-9f43596e08dc' => [
+        'The beauty of a finely worked object points to the beauty of the craftsmanship. The beauty of the craftsmanship points to the beauty of the name which was the source of the craftsmanship. The beauty of the name of the craftsman\'s art points to the beauty of the craftsman\'s attributes manifested in that art.',
+        'Said Nursi',
     ],
-    'e6ef05ec-a84e-58c9-b27c-dc028b98888d' => [
-        'Quality is pride of workmanship.',
-        'W. Edwards Deming',
+    '7dd0405b-dae1-598d-a424-729027a3a94c' => [
+        'I\'m not interested in age. People who tell me their age are silly. You\'re as old as you feel.',
+        'Elizabeth Arden',
     ],
-    'db83f24c-eaaa-59bd-88e9-e92da32e5dad' => [
-        'When a kid graduates from being the youngest in a family to being a big brother or sister, there\'s an amazing transformation. They have to make a big effort, and when they accept their new position in the family, everybody breathes a sigh of relief. All of a sudden they seem bigger, and they seem smarter, and they feel good about it, too.',
-        'Peggy Rathmann',
+    '87728ffa-4c0a-5887-a63c-193156151766' => [
+        'In all chaos there is a cosmos, in all disorder a secret order.',
+        'Carl Jung',
     ],
-    'db2c1384-af1f-5ab6-93b0-723ae47dd5e0' => [
-        'I believe there are two periods in life, one for the bike, the other for becoming active on one\'s work.',
-        'Bernard Hinault',
+    '592cb276-2046-5b81-9518-dc6e5b421f43' => [
+        'I\'m a positive man.',
+        'Mariano Rivera',
     ],
-    '4132275f-e0a3-5b76-ab49-49c336ce5abe' => [
-        'Your big opportunity may be right where you are now.',
-        'Napoleon Hill',
+    'efb8d59f-eaca-59e1-a0be-6be203cc302e' => [
+        'We talk of our mastery of nature, which sounds very grand; but the fact is we respectfully adapt ourselves, first, to her ways.',
+        'Clarence Day',
     ],
-    '3db56c01-f070-517d-84d6-f1a43fa972d9' => [
-        'Genius always gives its best at first; prudence, at last.',
-        'Lucius Annaeus Seneca',
+    '7c0046b4-6c07-598f-8c8e-93789dd5f8d5' => [
+        'What I like in this job is you can travel to many places, many imaginations.',
+        'Marion Cotillard',
     ],
-    '40c75cdd-36fd-5427-8a89-589a6df11bfe' => [
-        'I\'m a lucky person because I\'ve been loved a lot. I have a great family.',
-        'Monica Bellucci',
+    '83176024-d132-5b2c-8087-859e60f06e60' => [
+        'If I have made an appointment with you, I owe you punctuality, I have no right to throw away your time, if I do my own.',
+        'Richard Cecil',
     ],
-    'fa02649e-2b78-5d7c-8da8-ca9467a2194c' => [
-        'Hip-hop is more about attaining wealth. People respect success. They respect big. They don\'t even have to like your music. If you\'re big enough, people are drawn to you.',
-        'Jay-Z',
+    'd790e43e-5f99-59df-9bda-4ff9e0c7033d' => [
+        'I\'ve learned that to survive, you need a positive state of mind.',
+        'Thalia',
     ],
-    'e23cec88-1196-540d-8938-db39a230a39d' => [
-        'In beauty, there\'s this idea of this perfect picture, and I think, \'How about being present in the now, and a little messy?\'',
-        'Emily Weiss',
+    'f32474b9-bde0-5ecf-82f0-bfd1775c7150' => [
+        'My mother was a very, very funny, outrageous, outspoken person, and she never edited me. Her whole thing in my life was if anybody had a problem with me, tell them to go to hell.',
+        'Tig Notaro',
     ],
-    '3ef8ed33-f0a8-5ed1-b899-acca19add20e' => [
-        'Never once does \'Snow White\' herself look in the mirror so she isn\'t aware of her beauty or what apparently that does to people. It\'s really just the queen and the prince that talk about it.',
-        'Lily Collins',
+    '33106137-28e5-53b5-828e-9f83220b62ec' => [
+        'There are always flowers for those who want to see them.',
+        'Henri Matisse',
     ],
-    '63aea8b8-b3fc-5f26-bcd9-d7c924067823' => [
-        'You block your dream when you allow your fear to grow bigger than your faith.',
-        'Mary Morrissey',
+    'f058e410-2306-580f-ab96-c9f0bbfdc612' => [
+        'When I learned to sign and speak at the same time, the whole world opened up to me. That\'s the beauty of encouraging kids who are deaf to use whatever it takes to communicate.',
+        'Marlee Matlin',
     ],
-    'fd003f87-737f-59dd-8b35-19cc7d6ee1fb' => [
-        'I came to America with a dream and I made it. The dream became reality. America is built for success.',
-        'Jean-Claude Van Damme',
+    'fa704aa1-0f95-590d-b9a9-2b5742b53b52' => [
+        'The human soul is hungry for beauty; we seek it everywhere - in landscape, music, art, clothes, furniture, gardening, companionship, love, religion, and in ourselves. No one would desire not to be beautiful. When we experience the beautiful, there is a sense of homecoming.',
+        'John O\'Donohue',
     ],
-    'c3935c2c-fdc3-5474-95bd-08712ac13dc3' => [
-        'There is always another way to say the same thing that doesn\'t look at all like the way you said it before. I don\'t know what the reason for this is. I think it is somehow a representation of the simplicity of nature.',
-        'Richard P. Feynman',
+    'e6739835-d5cf-5974-91cc-937ee803e8ff' => [
+        'In order to be irreplaceable one must always be different.',
+        'Coco Chanel',
     ],
-    'c90579fb-53f6-5271-8798-e1f77dbfb516' => [
-        'You have to fight to reach your dream. You have to sacrifice and work hard for it.',
-        'Lionel Messi',
+    '309cd54d-fc86-5c9f-9f7c-9d24a217f2be' => [
+        'I had a really bad temper, when I was growing up. Sport helped me channel that temper into more positive acts.',
+        'Mike Krzyzewski',
     ],
-    'c4dc40b1-5a03-5c4f-9f25-ddb5e0d4c8a9' => [
-        "It\u{92}s better to have nobody than someone who is half there, or who doesn\u{92}t want to be there.",
-        'Angelina Jolie',
+    'df6c1797-8106-5dc9-82eb-b672a88319cb' => [
+        'I\'ve decided to run for the U.S. Senate because I believe Wisconsin families need a senator who will work hard to deliver results for the middle class - a leader with the courage to do what\'s right, no matter how tough the odds or how powerful the special interests we have to fight.',
+        'Tammy Baldwin',
     ],
-    'a3fb8f21-69d1-5771-9117-4afdd6d608d1' => [
-        'Love does not consist of gazing at each other, but in looking together in the same direction.',
-        'Antoine de Saint-Exupery',
+    '9714f03e-cafa-57ab-964c-848d2209b648' => [
+        'Great talent finds happiness in execution.',
+        'Johann Wolfgang von Goethe',
     ],
-    'a3b387a0-c1c0-5914-85c2-9efea245926d' => [
-        'There are three constants in life... change, choice and principles.',
-        'Ray Lewis',
+    '12651434-c098-5aa0-87f3-fbe36ec3c525' => [
+        'You lose attitude when you feel too comfortable, so I prefer to wear clothes that have a certain edge to them.',
+        'Carine Roitfeld',
     ],
-    '3dd120af-6536-5215-b9c6-011b1cf0c175' => [
-        'The system that enables the most people to earn the most success is free enterprise, by matching up people\'s skills, interests, and abilities. In contrast, redistribution simply spreads money around. Even worse, it attenuates the ability to earn success by perverting economic incentives.',
-        'Arthur C. Brooks',
+    'ef6e08d8-d228-56bb-ad3d-6a7e35b8c9d8' => [
+        'I get a friend to travel with me... I need somebody to bring me back to who I am. It\'s hard to be alone.',
+        'Leonardo DiCaprio',
     ],
-    'eda771e0-8a9f-5c20-bb43-c4924bc1cbe0' => [
-        'Progress was all right. Only it went on too long.',
-        'James Thurber',
+    '2d02b29b-7f2b-5e5f-a03b-349df1be0855' => [
+        'The time to hesitate is through.',
+        'Robby Krieger',
     ],
-    '87257c54-eabc-5795-ae09-dd8860f6ce4d' => [
-        'Success for me its to raise happy, healthy human beings.',
-        'Kelly LeBrock',
+    '504ee60b-5405-5ab1-8f8e-ee35097f809c' => [
+        'There should not be a question of legal or illegal immigration. People came and immigrated to this country from the time of the Indians. No one\'s illegal. They should just be able to come.',
+        'Linda Ronstadt',
     ],
-    '978e26e7-4397-56db-9d1e-d0847b356d04' => [
-        'The most irresistible charm of youth is its bubbling enthusiasm. Youth sees no darkness ahead - no defile that has no outlet - it forgets that there is such a thing as failure in the world and believes that mankind has been waiting all these centuries for him to come and be the liberator of truth and energy and beauty.',
-        'Orison Swett Marden',
+    '50023178-6c6f-5693-8d1b-141cdc4d94dc' => [
+        'Fatigue is the best pillow.',
+        'Benjamin Franklin',
     ],
-    'acf11a44-8223-5da6-b4e8-fe9d497a236e' => [
-        'Pastry is different from cooking because you have to consider the chemistry, beauty and flavor. It\'s not just sugar and eggs thrown together. I tell my pastry chefs to be in tune for all of this. You have to be challenged by using secret or unusual ingredients.',
-        'Ron Ben-Israel',
+    'b6b14289-a022-58c6-aa6c-9dfaac3446b9' => [
+        'A wise man will make more opportunities than he finds.',
+        'Francis Bacon',
     ],
-    'dcde03f4-bb05-5f93-b7d8-eda05f669f43' => [
-        'The terrifying and edible beauty of Art Nouveau architecture.',
-        'Salvador Dali',
-    ],
-    'b5f7e05a-dbf4-5efb-9789-6d70f9f4dcce' => [
-        'If I remain true to what\'s in my heart, that\'s all the success I need.',
-        'Steve Vai',
-    ],
-    '88a09337-7d6c-5876-a03f-cbfc174a42bc' => [
-        'All the trouble you will cause by not leaving a will. All the heartache! Family feuds are going to happen anyway, so be as clear as you can. And even if it\'s only to leave it to the cat\'s home, make a will.',
-        'Joanna Lumley',
-    ],
-    '2341efaf-4ac0-5ecf-b3a5-b97d0271ed4d' => [
-        'I realized that food was actually a metaphor for bringing us all together. It\'s about us communicating and being like family.',
-        'George Tillman, Jr.',
-    ],
-    'ccbbe9c4-78c6-5ecb-a335-81dad19da708' => [
-        'Who co-founded Google? Sergey Brin, a Russian-born Jew whose family fled anti-semitism in the Soviet Union to settle here and who considers himself a refugee.',
-        'Walt Mossberg',
-    ],
-    '9baecc88-8507-5003-8c22-fedcaeee8381' => [
-        'Your personal life, your professional life, and your creative life are all intertwined. I went through a few very difficult years where I felt like a failure. But it was actually really important for me to go through that. Struggle, for me, is the most inspirational thing in the world at the end of the day - as long as you treat it that way.',
-        'Skylar Grey',
-    ],
-    '60eea8e1-2881-5f8a-a48d-693611f11f6b' => [
-        'Certain kinds of speed, flow, intensity, density of attacks, density of interaction... Music that concentrates on those qualities is, I think, easier achieved by free improvisation between people sharing a common attitude, a common language.',
-        'Evan Parker',
-    ],
-    '080da983-7db6-5e61-8a19-0e34e10d7d82' => [
-        'I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.',
-        'John D. Rockefeller',
-    ],
-    'c5eaa29f-aa13-520f-98da-823f75209540' => [
-        'When you have a dream, you\'ve got to grab it and never let go.',
-        'Carol Burnett',
-    ],
-    '2c8b2723-c549-5ebd-979a-7e6f7efafbd1' => [
-        'A poet ought not to pick nature\'s pocket. Let him borrow, and so borrow as to repay by the very act of borrowing. Examine nature accurately, but write from recollection, and trust more to the imagination than the memory.',
-        'Samuel Taylor Coleridge',
-    ],
-    '41e338f2-c4ac-5f01-ae9b-2d9725b5222d' => [
-        'When you come out of the storms and sub-zero temperatures into a tiny yurt, there\'s a sense that family love and care is the most important thing in the world.',
-        'Tim Cope',
-    ],
-    'b0667f8a-fe4b-57ac-8326-29b4107fec89' => [
-        'It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent.',
-        'Madeleine Albright',
-    ],
-    'dd12b090-72a7-5f7a-9b55-eaed178a32b6' => [
-        'The will to persevere is often the difference between failure and success.',
-        'David Sarnoff',
-    ],
-    '998313bf-9900-5c63-8fdc-104484a3d44c' => [
-        'I just think that there\'s so much judgment in the world, whether it\'s coming from women in general or from men onto women - it\'s a lot. And when it comes to being a mom, I wish everyone could band together and realize that everyone has different beliefs, different styles, and different things that work for them and their family.',
-        'Hilary Duff',
-    ],
-    '45caf547-bc25-5bfa-a37b-88c930857280' => [
-        'To me, \'beauty\' means to be natural, creative, honest - to say the truth.',
-        'Nawal El Saadawi',
-    ],
-    '67de9adb-96aa-5a06-b0ad-3ca17ca3eb32' => [
-        'Speak when you are angry - and you\'ll make the best speech you\'ll ever regret.',
-        'Laurence J. Peter',
-    ],
-    'aa7618ee-6199-52e1-8604-034a3df5cdec' => [
-        'I love my past. I love my present. Im not ashamed of what Ive had, and Im not sad because I have it no longer.',
-        'Colette',
-    ],
-    'b6a0c9c5-f9cd-581a-b6c4-f4087b6b9e71' => [
-        'People are pretty forgiving when it comes to other people\'s families. The only family that ever horrifies you is your own.',
-        'Douglas Coupland',
-    ],
-    '096dd2b8-6e2d-5279-b7a2-642a9292dafe' => [
-        'Work is a necessity for man. Man invented the alarm clock.',
-        'Pablo Picasso',
-    ],
-    '5bc602f0-0422-5406-8c08-a1659d2e3b3b' => [
-        'The young people I work with every day and serve the nation in the armed forces in general, and the Marine Corps in particular, have broken the mold and stepped out as men and women of character who are making their own way in life while protecting ours.',
-        'John F. Kelly',
-    ],
-    'f894e2a2-f6c1-5f38-8dd8-02dabff3014f' => [
-        'One finds limits by pushing them.',
-        'Herbert Simon',
-    ],
-    '8e6a2a83-37c3-5a27-ae2f-f7b82143936d' => [
-        'Stop letting people who do so little for you control so much of your mind and emotions.',
-        'Will Smith',
-    ],
-    'f4a03255-60c5-5747-9afc-ff4a4f80a912' => [
-        'When someone does something good, applaud! You will make two people happy.',
+    '5c08309f-648c-5fd5-8598-6b3a90ebe4d5' => [
+        'I read part of it all the way through.',
         'Samuel Goldwyn',
     ],
-    '06d91d02-80d8-509f-82bc-8af222e5b1f9' => [
-        'We must walk consciously only part way toward our goal, and then leap in the dark to our success.',
-        'Henry David Thoreau',
+    'd9d115c3-5dcf-5dea-86c4-f71bbaf80a45' => [
+        'It was a wonderful experience to play in the NFL, and I have no regrets. I truly will miss playing for the Lions. I consider the Lions\' players, coaches, staff, management and fans my family. I leave on good terms with everyone in the organization.',
+        'Barry Sanders',
     ],
-    '4734f682-87a4-5964-b3d5-556ea03a8c5e' => [
-        'I\'m opening up my heart to the idea of dating. It\'s funny - my friends would always come to me for romantic advice. I know nothing, and things have changed since I was dating in high school! I\'m really trying hard to spend this time working on myself.',
-        'Olivia Wilde',
+    'e2c001b5-ef4e-5f81-8a54-fd36f5c6ef0c' => [
+        'We are such stuff as dreams are made on; and our little life is rounded with a sleep.',
+        'David Petraeus',
     ],
-    '000d8311-e6d7-5c7b-823b-f1c4ea6e902e' => [
-        'The simple act of paying positive attention to people has a great deal to do with productivity.',
-        'Tom Peters',
+    '33680e41-bf4f-5641-b9a5-9ce702af7b4e' => [
+        'Beware the barrenness of a busy life.',
+        'Swami Vivekananda',
     ],
-    '31c1269d-bc7e-57b3-bbb6-031c7a041dec' => [
-        'We\'re in a situation where talented, motivated school leavers and graduates can send off a hundred CVs and not get a reply, and where a trip to the Job Centre is depressing rather than inspirational. And you know what, that just feels wrong.',
-        'Jameela Jamil',
+    '5267d59e-f6f5-58cd-83ca-1de530fc306f' => [
+        'To look almost pretty is an acquisition of higher delight to a girl who has been looking plain for the first fifteen years of her life than a beauty from her cradle can ever receive.',
+        'Jane Austen',
     ],
-    '16e4747a-4cbe-518f-bba9-a7faa9baed75' => [
-        'Success is a lousy teacher. It seduces smart people into thinking they can\'t lose.',
-        'Bill Gates',
+    '0f14acb1-01f7-55d9-aa05-97a1b6501f71' => [
+        'Have regular hours for work and play; make each day both useful and pleasant, and prove that you understand the worth of time by employing it well. Then youth will be delightful, old age will bring few regrets, and life will become a beautiful success.',
+        'Louisa May Alcott',
+    ],
+    'cd04e1a5-e5a4-5df2-a32b-354553f9625d' => [
+        'It is time to return to core values, time to get back to basics, to self-discipline and respect for the law, to consideration for the others, to accepting responsibility for yourself and your family - and not shuffling it off on other people and the state.',
+        'John Major',
+    ],
+    '68825f63-200b-5aaf-ac11-cae2331579b6' => [
+        'There is no real beauty without some slight imperfection.',
+        'James Salter',
+    ],
+    'f13f64ff-96fb-59bc-a726-ce0f1c1fd8c1' => [
+        'Contracts are not a holy relic in football. You can like this attitude or not, but it\'s the truth. Sometimes you have to think about if it is meaningful to try out a new impulse.',
+        'Robert Lewandowski',
+    ],
+    'cb85ac10-dbe2-5641-a6a2-68fa98ad3665' => [
+        'I read for the \'ah-ha\'s,\' the information that makes a light bulb go off in my mind. I want to put information in my mind that is going to be the most beneficial to me, my family and my fellow man - financially, morally, spiritually, and emotionally.',
+        'Zig Ziglar',
+    ],
+    'db4b8d00-36de-5c88-9333-4668f7836064' => [
+        'Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.',
+        'Jules Renard',
+    ],
+    'd996e83c-7dfb-5d54-a81e-1f5a6ee2a66e' => [
+        'Beauty must appeal to the senses, must provide us with immediate enjoyment, must impress us or insinuate itself into us without any effort on our part.',
+        'Claude Debussy',
+    ],
+    '698e6283-2355-5f6b-96fc-621667b3fa65' => [
+        'The best preparation for tomorrow is doing your best today.',
+        'H. Jackson Brown, Jr.',
+    ],
+    'a8036cc6-b053-5fce-b7e6-9e4b88ab1177' => [
+        'One travels more usefully when alone, because he reflects more.',
+        'Thomas Jefferson',
+    ],
+    '82bccee9-79e7-5481-9544-a708ee4ccfb6' => [
+        'Only those who will risk going too far can possibly find out how far it is possible to go.',
+        'TS Eliot',
+    ],
+    '00d5bb44-ace0-572a-baf8-7b0da3bd68dc' => [
+        'Beauty and femininity are ageless and can\'t be contrived, and glamour, although the manufacturers won\'t like this, cannot be manufactured. Not real glamour; it\'s based on femininity.',
+        'Marilyn Monroe',
+    ],
+    'd5807147-ff61-5fb9-953c-f11a9c80d014' => [
+        'And, obviously as a, as one who likes to travel around myself a lot, I think the Earth is a beautiful place. And, I\'m looking forward to some new perspectives.',
+        'Duane G. Carey',
+    ],
+    '343af2a6-a566-5f83-a965-a1688e5959b1' => [
+        'Look at a football field. It looks like a big movie screen. This is theatre. Football combines the strategy of chess. It\'s part ballet. It\'s part battleground, part playground. We clarify, amplify and glorify the game with our footage, the narration and that music, and in the end create an inspirational piece of footage.',
+        'Steve Sabol',
+    ],
+    '0ec5ac8e-3d4f-52ff-9882-4fee35426a85' => [
+        'Through devotion, your family cares become more peaceful, mutual love between husband and wife becomes more sincere, the service we owe to the prince more faithful, and our work, no matter what it is, becomes more pleasant and agreeable.',
+        'Saint Francis de Sales',
+    ],
+    'c84b2e2e-4879-515b-8312-08c31347d93c' => [
+        'All human actions have one or more of these seven causes: chance, nature, compulsions, habit, reason, passion, desire.',
+        'Aristotle',
+    ],
+    '4581fa0a-b71b-56c5-9ca3-48321dacf2f9' => [
+        'The biggest thing we get out of it is seeing the kids smile. And hopefully we will also see that the lessons we\'re teaching - not only the fundamentals of hockey, but also the life values - are sinking in.',
+        'Bobby Orr',
+    ],
+    '44715e67-bea6-5cd1-93e5-bd3c8ec9855a' => [
+        'When Whitney Houston died, I felt great sadness. My sadness, of course, was about our collective loss - when you listened to this nightingale sing, your body would drop into a chair, your head would tilt up, a small smile would creep across your face, and inside you knew that there was a higher power somewhere: gifted, beautiful, spiritual.',
+        'James Belushi',
+    ],
+    '1301ded3-0b1a-5fce-b75e-91d1148da9af' => [
+        'Everything has its beauty, but not everyone sees it.',
+        'Andy Warhol',
+    ],
+    '6fb72b9a-0ed1-55a3-bce2-adb05fce6eb0' => [
+        'I can only do something that my sister or my daughter, if I have one, could watch and feel positive about.',
+        'Romola Garai',
+    ],
+    '270ab241-cc90-518d-8ae0-b2baa8e97484' => [
+        'Open minds lead to open doors.',
+        'Unknown',
+    ],
+    '7485c793-755d-5ba2-95a9-7e5ca3b4e3be' => [
+        'When a small child, I thought that success spelled happiness. I was wrong, happiness is like a butterfly which appears and delights us for one brief moment, but soon flits away.',
+        'Anna Pavlova',
+    ],
+    '04ee2e9c-b620-552d-b525-c772ec6035f2' => [
+        'Some of us pray demands. Some of us pray complaints. Some of us pray knowing, and some of us pray not knowing. But prayer is the attitude that you hold in your heart.',
+        'Iyanla Vanzant',
+    ],
+    '956a6f0a-9784-56ff-8124-e58bd4b69c9d' => [
+        'Our business in life is not to succeed, but to continue to fail in good spirits.',
+        'Leo Tolstoy',
     ],
 ];

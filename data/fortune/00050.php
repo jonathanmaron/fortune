@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'b2497f2d-041b-5eb7-befd-8c1823b86728' => [
-        'All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.',
-        'Kathleen Norris',
+    '8f46fef4-5e1d-5e2c-8149-44c8e2c91367' => [
+        'My size is a huge part of me. You just have to appreciate those kinds of things. So I wasn\'t born with long legs - who cares. You just have to embrace it. Being body positive is really important to your overall happiness.',
+        'Sabrina Carpenter',
     ],
-    'b7788052-8c22-5aa3-8b73-7197b2a639c3' => [
-        'The difference between the impossible and the possible lies in a person\'s determination.',
-        'Tommy Lasorda',
+    '09293fda-6664-5e57-85f3-2c13870ac899' => [
+        'I\'m no natural beauty. If I\'m gonna have any looks at all, I\'m gonna have to create them.',
+        'Dolly Parton',
     ],
-    'd9fcb515-c960-5bf8-8c49-91d61bf57171' => [
-        'Our career is a dream. I mean, we get to act, travel around the world, and meet cool people. What\'s not to love!',
-        'Mary-Kate Olsen',
+    '85b95e22-0ca1-580d-879c-928e15ebd6fc' => [
+        'I believe I have a personal responsibility to make a positive impact on society.',
+        'Anthony Fauci',
     ],
-    'b0401403-b8a2-5d2f-9632-fb4ca3be59a7' => [
-        'Our goal is to make the best devices in the world, not to be the biggest.',
-        'Steve Jobs',
+    'a78a3503-a4cb-5040-bd77-4590fc525c35' => [
+        'Refuse to be a lazy Christian, and resist a passive, apathetic attitude.',
+        'Joyce Meyer',
     ],
-    '862ff6e3-d6f7-5431-a062-29257ac382bf' => [
-        'In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don\'t try to control. In work, do what you enjoy. In family life, be completely present.',
-        'Lao Tzu',
+    '807c878f-8b1c-57f4-9daf-8101659a5b29' => [
+        'Without hurting anybody, we all tend to laugh at others\' discomfort. When someone slips on a banana skin and falls it\'s funny.',
+        'Shah Rukh Khan',
     ],
-    'ebea8620-41ff-5fc1-8fc2-4e1d80a91aed' => [
-        'The heroines in \'That\'s What She Said\' are flawed, messy, damaged, hilarious and culpable and not really concerned about being acceptable to the audience in any traditional sense, which for me is what makes them all the more gorgeous. And the fearless truth of that is what makes it funny.',
-        'Carrie Preston',
+    'ee3edd88-78a1-518f-86fa-9b47b4096cb0' => [
+        'Having realised that in cooking there was a vast field of study and development, I said to myself, \'Although I had not originally intended to enter this profession, since I am in it, I will work in such a fashion that I will rise above the ordinary, and I will do my best to raise again the prestige of the chef de cuisine.\'',
+        'Auguste Escoffier',
     ],
     'abd5b070-0a90-5ad2-bb8c-6410853b7f6e' => [
         'To be wronged is nothing unless you continue to remember it.',
         'Confucius',
     ],
-    '359aca4a-78db-54d8-895d-96197804fb33' => [
-        'I love things that age well - things that don\'t date, that stand the test of time and that become living examples of the absolute best.',
-        'Giorgio Armani',
+    '278c4341-3d8c-5de9-bbaa-fc5a9752ee53' => [
+        'Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen.',
+        'Isaac Bashevis Singer',
     ],
-    'f40e0123-7edc-5bce-9fb6-aa55d5f44529' => [
-        'I wanted to deliver babies and become a midwife. I think childbirth is one of the most amazing things you could ever experience, and I loved working with people and seeing the joys in family when they welcome a new member to it. It really brought me joy to be around that.',
-        'Natalie Martinez',
+    'c0cce229-3576-5de1-b15b-ab3aca910f0c' => [
+        'I thought one should have the attitude of \'What do you care what other people think!\'',
+        'Richard P. Feynman',
     ],
-    '03a140d7-3d22-5d06-80ae-2c09475aaecf' => [
-        'The decisions you make are a choice of values that reflect your life in every way.',
-        'Ernest Hemingway',
+    '78af3eef-0415-5875-97ed-0c29f041db57' => [
+        'One of my favorites is one called \'Rory\'s Radio\' that I wrote about my brother Jeff\'s best friend growing up - his name was Rory Dunigan. I dedicated my first record to my brother, who got killed in a car accident in 1999, and I really didn\'t have any songs on the first album about him, nothing on a personal note.',
+        'Ashton Shepherd',
     ],
-    '9a9581fa-b2bc-5453-9460-7925e65a4f1e' => [
-        'Truth is, I\'ll never know all there is to know about you just as you will never know all there is to know about me. Humans are by nature too complicated to be understood fully. So, we can choose either to approach our fellow human beings with suspicion or to approach them with an open mind, a dash of optimism and a great deal of candour.',
-        'Tom Hanks',
+    'bef2a1a7-df15-53a0-9990-b3bcdf1d71bc' => [
+        'Life is never fair, and perhaps it is a good thing for most of us that it is not.',
+        'Elizabeth Esty',
     ],
-    '9791ae06-eb18-5864-a485-7b4ad33b176a' => [
-        'To succeed in life, you need three things: a wishbone, a backbone and a funny bone.',
+    '6dbadd26-f716-547f-b119-0169a6b36359' => [
+        'Telecom is a dramatic success in India and our view is, respecting the political process, and respecting the fact that these are sovereign decisions, is that, approaching India as a friend.',
+        'John W. Snow',
+    ],
+    '14dedecc-161c-5ad0-870a-63c4266ba029' => [
+        'In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand. Nobody on earth can give you either the key or the door to open, except yourself.',
+        'Jiddu Krishnamurti',
+    ],
+    '941ef0a1-dbe1-5399-b946-43a7c552f96a' => [
+        'Phil Hartman was brilliant, and Dave Foley is a really funny guy. Phil Hartman was actually even funnier offstage than he was onstage because he would say nasty things. Dave Foley\'s very funny, very witty guy, very quick.',
+        'Joe Rogan',
+    ],
+    '7880881e-a581-5116-8a21-01b4bd5cbc23' => [
+        'No matter how hard the past, you can always begin again.',
+        'Buddha',
+    ],
+    '1b8dd331-7e57-5569-bbe7-3c17a2731375' => [
+        'I guess when I think about it, one of the things I like to dramatise, and what is sometimes funny, is someone coming unglued. I don\'t consider myself someone who is making the argument that I support these choices. I just think it can be funny.',
+        'Wes Anderson',
+    ],
+    'bcf90003-8875-55ef-9822-6bcfff890b80' => [
+        'Time is the school in which we learn, time is the fire in which we burn.',
+        'Delmore Schwartz',
+    ],
+    '13ec77a4-c885-5c4a-8789-58925a80b628' => [
+        'Follow your bliss and the universe will open doors where there were only walls.',
+        'Joseph Campbell',
+    ],
+    'f8133a4c-c9ae-56aa-b100-02787002e126' => [
+        'I\'m a very positive person. My grandmother taught me that happiness is both a skill and a decision, and you are responsible for the outcome.',
+        'Helen McCrory',
+    ],
+    'd032f8da-ccd4-5ceb-8bba-a7b8a3a2dc63' => [
+        'I may sometimes be willing to teach for nothing, but if paid at all, I shall never do a man\'s work for less than a man\'s pay.',
+        'Clara Barton',
+    ],
+    '98944bb9-23a8-58b0-a277-eb2096474443' => [
+        'Do your damnedest in an ostentatious manner all the time.',
+        'George S. Patton',
+    ],
+    '62082e13-8a6b-54fc-80d5-d5175bca3856' => [
+        'Little children are still the symbol of the eternal marriage between love and duty.',
+        'George Eliot',
+    ],
+    'ed2a500c-b03d-5b07-99eb-1e46e95749c4' => [
+        'What irritates me is the bland way people go around saying, \'Oh, our attitude has changed. We don\'t dislike these people any more.\' But by the strangest coincidence, they haven\'t taken away the injustice; the laws are still on the books.',
+        'Christopher Isherwood',
+    ],
+    'e6a43a54-6f4b-58b3-bbc2-cade95f4263b' => [
+        'I\'m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.',
+        'Joan Jett',
+    ],
+    'bf6dff5c-4592-5aed-9f9e-aa46ba9faf27' => [
+        'Remember always that the composer\'s pen is still mightier than the bow of the violinist; in you lie all the possibilities of the creation of beauty.',
+        'John Philip Sousa',
+    ],
+    '20488a94-e93d-59dc-ba31-f8cd30347a44' => [
+        'When life catches up with us, we all need space to dream and indulge, so I have created my own special range of bath &amp; beauty loveliness to help you find your happy place.',
+        'Zoe Sugg',
+    ],
+    '385fd768-830f-5bd2-ae08-4d6bb0a3958d' => [
+        'Wisdom begins in wonder.',
+        'Socrates',
+    ],
+    '88ae85b2-4905-5a93-82c5-adfbf5d4f417' => [
+        'Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn\'t will be priceless.',
+        'Kevin Ngo',
+    ],
+    '12a3034b-ad14-5f83-ae96-0abb0689bb5e' => [
+        'But while they prate of economic laws, men and women are starving. We must lay hold of the fact that economic laws are not made by nature. They are made by human beings.',
+        'Franklin D. Roosevelt',
+    ],
+    'ca2da402-03a0-5143-bcc1-b286faf15732' => [
+        'Things do not change, we change.',
+        'Henry Thoreau',
+    ],
+    '5cf95842-ffd1-5e6e-8a85-fe79857e0931' => [
+        'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.',
+        'Edsger W. Dijkstra',
+    ],
+    '8cb2324f-030c-5ed8-ab18-be500fccefeb' => [
+        'Boundary setting is really a huge part of time management.',
+        'Jim Loehr',
+    ],
+    '45b5cf35-bb87-5444-a718-ed3b7b47bce9' => [
+        'The common idea that success spoils people by making them vain, egotistic and self-complacent is erroneous; on the contrary it makes them, for the most part, humble, tolerant and kind.',
+        'W. Somerset Maugham',
+    ],
+    '40fa1377-0324-5457-80bc-3d9ef028f848' => [
+        'Sometimes nature guards her secrets with the unbreakable grip of physical law. Sometimes the true nature of reality beckons from just beyond the horizon.',
+        'Brian Greene',
+    ],
+    '472177f6-61c8-5d87-8fba-942bc5c30a32' => [
+        'We must balance conspicuous consumption with conscious capitalism.',
+        'Kevin Krus',
+    ],
+    '73ca76fa-b258-5be7-b70e-0c4a582f8d1f' => [
+        'Everybody has goals, aspirations or whatever, and everybody has been at a point in their life where nobody believed in them.',
+        'Pope Francis',
+    ],
+    '41333719-8008-5010-8140-5cee72e01f03' => [
+        'All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.',
+        'William Shakespeare',
+    ],
+    'ecbf5b68-924f-5d8b-9c5e-9724de5533ee' => [
+        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
+        'Danny Meyer',
+    ],
+    'cab5deaa-ef67-54a1-9c59-1b2c8bc85224' => [
+        'It may be a mistake, that man, in a state of nature, is more disposed to cruelty than courtesy.',
+        'Mercy Otis Warren',
+    ],
+    '4b93e3f1-3907-5ef5-a6ce-36fcff3dab58' => [
+        'I take a cooking class everywhere I travel. I find it\'s the best way to get to know a culture.',
+        'Blake Lively',
+    ],
+    '4858a5e5-8e8d-5742-bac1-5a7ad3657313' => [
+        'When you do not know what you are doing and what you are doing is the best - that is inspiration.',
+        'Robert Bresson',
+    ],
+    '381da02c-25a6-588e-a380-9eb830425fad' => [
+        'When I first left university, I thought about going into the private sector. But I discovered when I went to interview that I could only have a career in the back office, or doing HR. The attitude was, \'My dear lady, you cannot possibly think about going on the board.\'',
+        'Pauline Neville-Jones',
+    ],
+    '79955a92-9031-5310-89a1-0766b4c5a554' => [
+        'My jet lag is getting a bit ridiculous. But, you know, it\'s first-world problems. It\'s a wonderful problem, \'Oh I have to travel around the world; how awful.\'',
+        'Margot Robbie',
+    ],
+    '22ac76c1-2b17-5fb7-b7ae-36bf27747b43' => [
+        'I hold that the perfection of form and beauty is contained in the sum of all men.',
+        'Albrecht Durer',
+    ],
+    '9ac670ad-df3d-5ade-b9b7-45ec5fe00e85' => [
+        'We must find new lands from which we can easily obtain raw materials and at the same time exploit the cheap slave labor that is available from the natives of the colonies. The colonies would also provide a dumping ground for the surplus goods produced in our factories.',
+        'Cecil Rhodes',
+    ],
+    'cf4a0198-47d7-5f8e-884a-232c877fed72' => [
+        'We can do better in higher education. And it is more than just technology. It\'s also an attitude on the part of faculty. We need to think through how we can produce a better quality product at less cost.',
+        'Roy Romer',
+    ],
+    '7fc996cd-7845-5ae9-a225-706f61db73cb' => [
+        'Sometimes the most important thing in a whole day is the rest we take between two deep breaths.',
+        'Etty Hillesum',
+    ],
+    'e6357ae3-f354-5512-8da2-96db6acbcc18' => [
+        'It\'s hard to lead a cavalry charge if you think you look funny on a horse.',
+        'Adlai E. Stevenson',
+    ],
+    '000e6bbb-7ea0-551d-ab67-9db30aa94822' => [
+        'When I let go of what I am, I become what I might be.',
         'Lao Tzu',
     ],
-    '383d77cf-8aa6-5323-b07e-524f045007de' => [
-        'A happy life is one spent in learning, earning, and yearning.',
-        'Alan Cohen',
-    ],
-    '8eaa4ded-1fa4-518f-9ba8-8142b79961e3' => [
-        'Life and death are one thread, the same line viewed from different sides.',
-        'Oscar Wilde',
-    ],
-    'e13823a5-d4d0-51ec-8d39-e56062a0c496' => [
-        'A smile is the chosen vehicle of all ambiguities.',
-        'Herman Melville',
-    ],
-    '65802f19-0a54-54c1-a87e-19ca2677c493' => [
-        'I feel lucky because I was a nerd, which I talk about in the book, but I had academic success, so through that, because that\'s what my parents put a great deal of value on, I had a great childhood because I sort of fulfilled the expectations of being good at school.',
-        'Mindy Kaling',
-    ],
-    'a3973ebb-4b60-5d81-8c01-4ce00c6f008b' => [
-        'Push-ups are seriously the best way to tone your arms - and they tone your abs at the same time! I like to do them when I\'m home watching TV or listening to music.',
-        'Cassie Scerbo',
-    ],
-    'd6e46935-8299-5f34-bdb6-50f1304025e5' => [
-        'You know more of a road by having traveled it than by all the conjectures and descriptions in the world.',
-        'William Hazlitt',
-    ],
-    '6a9493bf-4348-5685-9ecb-b9729e624078' => [
-        'It\'s a common misconception that money is every entrepreneur\'s metric for success. It\'s not, and nor should it be.',
-        'Richard Branson',
-    ],
-    '22b895a5-bfd5-5cfb-8170-940223f540d9' => [
-        'As you think, you travel, and as you love, you attract. You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you.',
-        'James Lane Allen',
-    ],
-    '3c73ed52-f47a-576b-851e-9ee58778b954' => [
-        'Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.',
-        'Augustus Hare',
-    ],
-    '270fd8cc-46f4-5658-a226-cc4a3126a8e5' => [
-        'At the end of the day, both men and women who become CEOs have showed tenacity and hard work to succeed in their careers. It takes not just skills but also extreme dedication and commitment. And regardless of gender, CEOs are measured by the same criteria - the growth and success of the business.',
-        'Susan Wojcicki',
-    ],
-    '7561f026-8d58-505a-a51d-d5066ed8e01f' => [
-        'Someone is special only if you tell them.',
-        'Byron Pulsifer',
-    ],
-    'f6f4103d-d2e5-50e4-a1a9-5c8d3cda3a07' => [
-        'My parents leaving a third world country to a first world country and building from nothing - that\'s really inspiring to me and it\'s influenced me in a positive way.',
-        'Melanie Fiona',
-    ],
-    '82dde58f-3025-5dbf-b7d5-06bf2273cda6' => [
-        'Regardless of who wins, an election should be a time for optimism and fresh approaches.',
-        'Gary Johnson',
-    ],
-    'd1872ef4-bc38-52c8-a6a3-75d7d2379aa0' => [
-        'In the courtroom, it\'s where a lawyer really becomes an actor. There\'s a very fine line between delivering a monologue in a play and delivering a monologue to a jury. I\'ve always felt that way - I\'ve been in a lot of courtrooms. The best lawyers are really theatrical.',
-        'Woody Harrelson',
-    ],
-    'a8de39b5-3c27-5b2c-b385-75716c2a0f89' => [
-        'I believe it\'s time that women truly owned their superpowers and used their beauty and strength to change the world around them.',
-        'Janelle Monae',
-    ],
-    '9d4819ab-1ea7-587c-b97f-be1c84b13f41' => [
-        'Do not wait to strike till the iron is hot; but make it hot by striking.',
-        'William Butler Yeats',
-    ],
-    '98cee06a-0b93-552d-817c-8d920644e807' => [
-        'I think that when we have a better educated society, when there is less violence in our cities, when people get back into the workforce and have the opportunity to take care of themselves and their families - that for me really is the kind of success and the kind of America that I think most of us still want, we aspire to.',
-        'Michael Nutter',
-    ],
-    '6ebba5f5-3542-5749-ab4a-813a0a1c0e1d' => [
-        'It\'s one of the greatest gifts you can give yourself, to forgive. Forgive everybody.',
-        'Maya Angelou',
-    ],
-    '2ad27bfa-c9e7-5856-a1d7-c08f85d08320' => [
-        'I would never deny the importance of the media, but I wouldn\'t go out of the way to splash my pictures all over town. I\'d rather let my work do the talking.',
-        'Amisha Patel',
-    ],
-    'ead03be8-fa67-59d2-933e-8cb9f1729675' => [
-        'This is part of the involuntary bargain we make with the world just by being alive. We get to experiences the splendor of nature, the beauty of art, the balm of love and the sheer joy of existence, always with the knowledge that illness, injury, natural disaster, or pure evil can end it in an instant for ourselves or someone we love.',
-        'Jeff Greenfield',
-    ],
-    '38b18f4a-ceb2-5fb5-856b-dda2dd497b1a' => [
-        'To bring up a child in the way he should go, travel that way yourself once in a while.',
-        'Josh Billings',
-    ],
-    '4f441bbc-172a-5b2e-afeb-d40b6f7e0d61' => [
-        'Shortly thereafter, some friends encouraged me to try out for the Miss South Carolina World beauty pageant. To my surprise, I won - and was sent to New York City to compete nationally.',
-        'Donna Rice',
-    ],
-    'bceaa4a6-e249-5254-b838-2287b2528414' => [
-        'I never liked you, and I always will.',
-        'Samuel Goldwyn',
-    ],
-    '61d2e68d-a8c1-5929-9a56-df75298ef1d9' => [
-        'The one thing you\'ve gotta do is that you need to always do the best you can do, no matter what the given situation, no matter what comes up against you. You do the best you can do, and you never give up. Never quit.',
-        'James Corden',
-    ],
-    'a9bb71ef-a670-5d7c-9270-7e864f813fda' => [
-        'Peace is not something you wish for. It\'s something you make, something you do, something you are, and something you give away.',
-        'Robert Fulghum',
-    ],
-    '7e28ed1d-35b3-569b-907e-936f7a986995' => [
-        'I believe that we are fundamentally the same and have the same basic potential.',
-        'Dalai Lama',
-    ],
-    '152bab77-eea9-5565-a3a9-e54e3bca8cfb' => [
-        'If I hadn\'t spent many years trying to be as compassionate as Mother Teresa, as positive a thinker as W. Clement Stone, as prolific a writer as Stephen King, and as good a speaker as many of the legends I have studied, I would not be as successful as I am today.',
-        'Jack Canfield',
-    ],
-    '405ca155-c89f-5ab6-a81e-2ec1f3f26f5b' => [
-        'There\'s a beauty to math. Math is so simple. It\'s just one step after the next.',
-        'Ethan Canin',
-    ],
-    '941f6ed9-0358-598e-9347-156dfdd6c279' => [
-        'My best friend is the man who in wishing me well wishes it for my sake.',
-        'Aristotle',
-    ],
-    '98618ccf-d9b8-59a3-aa1d-51d11c0fa316' => [
-        'If life had a second edition, how I would correct the proofs.',
-        'Hugh Hefner',
-    ],
-    'ecc66329-9835-565b-949b-897ce52b6392' => [
-        'I\'ve met the most interesting people while flying or on a boat. These methods of travel seem to attract the kind of people I want to be with.',
-        'Hedy Lamarr',
-    ],
-    '13ccb926-a4a1-5d42-895a-f39d3129095c' => [
-        'As I\'ve progressed in my career, I\'ve come to appreciate - and really value - the other attributes that define a company\'s success beyond the P&L: great leadership, long-term financial strength, ethical business practices, evolving business strategies, sound governance, powerful brands, values-based decision-making.',
-        'Ursula Burns',
-    ],
-    'db670b15-43c3-5adc-9480-89694d7f22d1' => [
-        'Be like the flower, turn your face to the sun.',
-        'Kahlil Gibran',
-    ],
-    '4f382ee7-2535-51b1-9be6-92cb6fd28b25' => [
-        'The world turns aside to let any man pass who knows where he is going.',
-        'Epictetus',
-    ],
-    '3c69680a-495d-539e-acf2-09baf8378ca3' => [
-        'As to war, I am and always was a great enemy, at the same time a warrior the greater part of my life and were I young again, should still be a warrior while ever this country should be invaded and I lived.',
-        'Daniel Morgan',
-    ],
-    '50448b59-a484-5074-9e63-9ba3f86af6cc' => [
-        'I am a happy person and I choose to be a positive person. I think some people think my life has been tragic and there have been these horrible dramas but things really have been, and are, fine.',
-        'Patsy Kensit',
-    ],
-    '40c0eb89-98b4-54e2-8ecd-b63dc0b2ee8c' => [
-        'More powerful than the will to win is the courage to begin.',
-        'Unknown',
-    ],
-    'bab3c795-1f19-51c3-a770-4a9d93129d09' => [
-        'No hours, nor amount of labor, nor amount of money would deter me from giving the best that there was in me.',
-        'Colonel Sanders',
+    'dd7bd7ba-588b-5f79-92ab-744a8a0e48f9' => [
+        'An award means a lot to me. It brings happiness along with a kind of fear. It brings fear because the award is the responsibility which audiences have put on us. So a singer winning an award should always try to give best of him to the audiences.',
+        'Shreya Ghoshal',
     ],
 ];

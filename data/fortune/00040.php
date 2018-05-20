@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '3fc22512-20fb-5128-a4e4-1407bdadcef9' => [
-        'I love my beauty. It\'s not my fault.',
-        'Valentino Garavani',
+    '262afe9f-51f5-5862-a067-2ea5a8fa6055' => [
+        'It is the nature of the self to manifest itself, In every atom slumbers the might of the self.',
+        'Muhammad Iqbal',
     ],
-    'bfbfbea1-ad21-52aa-aefa-51c5c09f33b5' => [
-        'I think Dr. King, if he were alive today, he wouldn\'t disrespect the flag or the anthem; he would use his words and his voice to send a message for positive change.',
-        'Kimberly Guilfoyle',
+    '6aefe01d-8549-5aa9-802d-d9cad1867136' => [
+        'Success isn\'t always about greatness. It\'s about consistency. Consistent hard work leads to success. Greatness will come.',
+        'Dwayne Johnson',
     ],
-    '5aa5e55f-c198-58e6-bb6e-5a296e1b1dd0' => [
-        'Whatever the universal nature assigns to any man at any time is for the good of that man at that time.',
-        'Marcus Aurelius',
+    'ce2b5ce2-b01d-560d-b2db-66d0c0b8ac72' => [
+        'When I was doing ensemble theater and comedy work, I felt I had some talents. But when I started doing my shows in Berkeley and found that I could be funny on my own, I was shocked.',
+        'Whoopi Goldberg',
     ],
-    '095c79a2-693f-55f4-b78d-17c5819878c4' => [
-        'Fashion is a funny thing to talk about. I think what you wear is definitely an extension of you, but I also think it\'s totally arbitrary.',
-        'Tessa Thompson',
-    ],
-    '7916e477-f182-5e33-871e-d4368dddb586' => [
-        'This is a fundamental view of the world. It says that when you build a thing you cannot merely build that thing in isolation, but must repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it.',
-        'Christopher Alexander',
-    ],
-    'f9eadfcf-75db-57e0-a38c-92514c9b6f84' => [
-        'I\'ll never stop dreaming that one day we can be a real family, together, all of us laughing and talking, loving and understanding, not looking at the past but only to the future.',
-        'LaToya Jackson',
-    ],
-    'd7012084-898a-529b-9c02-7680257b62a5' => [
-        'When you learn, teach. When you get, give.',
+    'd39ac914-0931-559e-8911-ef702724de94' => [
+        'Perhaps travel cannot prevent bigotry, but by demonstrating that all peoples cry, laugh, eat, worry, and die, it can introduce the idea that if we try and understand each other, we may even become friends.',
         'Maya Angelou',
     ],
-    'bec54d93-cf1e-51f7-ab90-7dbde4c11dd7' => [
-        'Our entire life - consists ultimately in accepting ourselves as we are.',
-        'Arnold Schwarzenegger',
+    '3eaaeb47-2da5-5ff4-9c53-5d26d4a89690' => [
+        'Major League Baseball has the best idea of all. Three years before they\'ll take a kid out of college, then they have a minor league system that they put the kids in. I\'m sure that if the NBA followed the same thing, there would be a lot of kids in a minor league system that still were not good enough to play in the major NBA.',
+        'Bobby Knight',
     ],
-    '3bec9899-3839-53be-aced-a327ee64bfca' => [
-        'Whoso loves, believes the impossible.',
-        'Elizabeth Browning',
+    'aa528cb4-604f-557e-8080-9e6af30ffcfc' => [
+        'Barack Obama, he just sits out. He sits back; he criticizes everybody. He\'s got his professorial attitude, real condescending, as if he\'s got all the answers.',
+        'Steve Scalise',
     ],
-    'a9e37895-c76f-5114-9cf2-ecdd8e08b9d0' => [
-        'Success is the sum of details.',
-        'Harvey S. Firestone',
+    'ed3e4af6-aaa9-53b6-a8b6-ab919fb9a57a' => [
+        'See that the imagination of nature is far, far greater than the imagination of man.',
+        'Richard P. Feynman',
     ],
-    '646bd6b8-d096-5cf0-a33c-0fdc9a7cd09a' => [
-        'When you smile, you don\'t only appear to be more likable and courteous, you appear to be more competent.',
-        'Ron Gutman',
+    'e821602b-7ab4-5a6f-83b5-fc74c38105a1' => [
+        'You just have to find that thing that\'s special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.',
+        'Dr. Dre',
     ],
-    '5b1b625b-ce20-589d-a4b7-cc343ac6ce1b' => [
-        'I generally travel with my laptop, a couple of great books, and my iPod.',
-        'Orlando Bloom',
+    '6d0ce6fe-3b8d-5e14-a68a-616cc4357a10' => [
+        'I always like to arrive at the airport early to enjoy breakfast and lounge about so that when I get on the plane all my travel fever has disappeared.',
+        'Julian Fellowes',
     ],
-    'c7cfd8ff-ec1f-5283-9586-ffe57a1da76c' => [
-        'One of the first conditions of happiness is that the link between Man and Nature shall not be broken.',
-        'Leo Tolstoy',
+    '40fba5a3-5655-529c-9d29-6c7924ccfad4' => [
+        'Light and funny has a more compelling quality when you\'re younger. But I haven\'t abandoned the genre: I love falling down; I love Lucille Ball. It\'s just that a lot of those stories revolve around problems that I can\'t convincingly portray at this age.',
+        'Julia Roberts',
     ],
-    '201bd0b5-b4fa-5c0c-924d-a589ef83081f' => [
-        'I used to wear a lot of red lipstick, and when I got a pimple, I\'d cover it up with eyeliner to turn it into a beauty mark.',
-        'Selma Blair',
+    'f55cde8d-812a-5fe2-b49c-3fea8aa4eed2' => [
+        'Beauty in things exists in the mind which contemplates them.',
+        'David Hume',
     ],
-    '62b88912-05b6-5430-9bb6-c95a54ff90c1' => [
-        'That\'s the beauty of the Internet is that we\'re no longer tied to our communities by physical connections.',
-        'Edward Snowden',
+    'a32b0bd2-eed7-519f-9bed-df15c59a2f6c' => [
+        'Traveling is the ruin of all happiness! There\'s no looking at a building after seeing Italy.',
+        'Fanny Burney',
     ],
-    '19b75033-0465-5f4d-b4b9-7e40265c38fb' => [
-        'I\'ve been blessed to be somebody that\'s been climbing that success mountain top for years of hard work, you know, but now it\'s all connecting. And now, the whole world is watching, you know what I\'m saying, and it feels good \'cause it\'s good energy. This is all positive vibes, and good vibes and good energy, so it feels incredible.',
-        'DJ Khaled',
+    '1bce4e16-d51e-5d65-88a1-d73cf793c8c1' => [
+        'I am happy at Tottenham. I go into work every day with a smile on my face, and that is important.',
+        'Harry Kane',
     ],
-    '1197a57a-9c23-504c-9ec1-6757b0182b83' => [
-        'I grew up in a Chinese family where the parents\' No. 1 priority is the kids\' education.',
-        'Weili Dai',
+    '16fb69f0-3539-5e07-a90d-4eb75a792cf6' => [
+        'Everyday may not be good but there is something good in everyday.',
+        'Anonymous',
     ],
-    'c6812885-afe7-5127-8309-693365f6879c' => [
-        'It\'s hard to beat a person who never gives up.',
-        'Babe Ruth',
+    'af78d1e9-f0f5-50d1-9568-66ff8da7e98a' => [
+        'If you don\'t value your time, neither will others. Stop giving away your time and talents--start charging for it.',
+        'Kim Garst',
     ],
-    'cad3a6dd-93ee-54f7-a2e6-7ec8ae870719' => [
-        'For my part, I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
-        'Robert Louis Stevenson',
+    '0ca5cdb1-f5cc-5cf1-8fc2-61945904ee94' => [
+        'Take rest; a field that has rested gives a bountiful crop.',
+        'Ovid',
     ],
-    'c9baba8c-b3e4-55a9-b9ae-54d5f8cb6ee8' => [
-        'To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.',
-        'Plato',
+    '998cc656-336f-5650-8370-99f03794d321' => [
+        'We can\'t just rail against crime. We must speak of the root problems - devastating family breakup, an insidious culture of violence that cheapens human life, skyrocketing prisoner recidivism rates that rob our communities of husbands and fathers - and recognize that there is a societal role in rehabilitation and restoration.',
+        'Frank Wolf',
     ],
-    'b8c6a98c-5191-50d0-b5a2-d2af52381d7f' => [
-        'What I learned from architectural drafting is that everything has to have a plan to work. You just can\'t wing it. I can\'t get all the materials I need for a house and just start building. Whether it\'s a career, family, life - you have to plan it out.',
-        'Ice Cube',
+    '35d9ae17-4ee4-53c5-93c2-25418988085c' => [
+        'In the middle of every difficulty lies opportunity.',
+        'Albert Einstein',
     ],
-    'f66705da-2bcf-51fc-a039-ae93a609263e' => [
-        'The best thing to hold onto in life is each other.',
-        'Amelia Earhart',
+    '69e55eb6-c3e9-5812-92d8-ef0a9e316120' => [
+        'I think it\'s evident that expensive neighborhoods in Seattle are surrounded by natural beauty. That elevates city life. So if we can make cities more attractive in the long run, we can be smarter about issues like development, zoning and economics.',
+        'Stone Gossard',
     ],
-    '3b0f23d2-b77e-5c68-b8e6-531562d24694' => [
-        'I think women have to change their hairstyle from time to time.',
-        'Yulia Tymoshenko',
+    '2132c53c-683c-5e99-aebf-f8fba3f9e702' => [
+        'Life is hard. Then you die. Then they throw dirt in your face. Then the worms eat you. Be grateful it happens in that order.',
+        'Melina Kanakaredes',
     ],
-    'b1c48f94-98fe-5a8b-b24d-e071ea1093e3' => [
-        'There are no lines in nature, only areas of colour, one against another.',
-        'Edouard Manet',
+    '69115291-37fa-5312-bd50-33d32b048daf' => [
+        'Time is money. Wasted time means wasted money means trouble.',
+        'Shirley Temple',
     ],
-    '23f46b02-1c1d-560b-967c-344b4a7fadfb' => [
-        'There\'s nothing like seeing the smile on my kids\' faces. Laughing together. Playing. It\'s the best.',
-        'Mark Wahlberg',
+    '4c91302b-69e0-58df-af10-db7c7976c990' => [
+        'I\'m always excited when I make it on anyone\'s list - even if it\'s for affirmative action. My attitude is, \'Am I the token woman on this list? Because I\'ll take it.\'',
+        'Julie Klausner',
     ],
-    'a4df8197-dee0-508f-9018-70e9e87b1f05' => [
-        'For me, nothing has ever taken precedence over being a mother and having a family and a home.',
-        'Jessica Lange',
+    '1ba905ff-eef2-57fd-aa2a-8b6aeaa276e5' => [
+        'Life is the art of drawing without an eraser.',
+        'Walt Disney',
     ],
-    '5bbcfa64-be7d-5db2-ae2b-2174101d79b5' => [
-        'I was one of those weird kids who didn\'t really speak or smile. I remember my teachers would call home and ask if everything was fine at home because I would never smile. Then I got into this phase, from maybe fourth to eighth grade, where my personality just did a 180.',
-        'Alessia Cara',
+    '3b303a49-2d08-5ec9-bce4-51c0c108d2b8' => [
+        'You don\'t drown by falling in water. You drown by staying there.',
+        'Unknown',
     ],
-    'a528bb17-7c66-52be-823f-0cf3d9e56a3c' => [
-        'I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.',
-        'Lee Ann Womack',
+    'c5c9702e-84fd-57bd-939a-55755a3b4c08' => [
+        'Be faithful to that which exists within yourself.',
+        'Andre Gide',
     ],
-    'd1601644-7253-5e0f-b1d3-4e8b087e4322' => [
-        'No matter what, I\'m trying to have fun and, depending on the mood, fun can be on a roller coaster and playing onstage, or fun can be sitting in a room with three of your best friends talking for two hours.',
-        'Shawn Mendes',
+    'e199e459-5526-52db-a4ca-4a68bea8050d' => [
+        'Life is too short to not have fun; we are only here for a short time compared to the sun and the moon and all that.',
+        'Coolio',
     ],
-    'b1944e19-c59d-5729-bd1e-5372cb37ef74' => [
-        'The cautious seldom err.',
-        'Confucius',
+    'ec731507-62bd-5f69-a615-78929f68a895' => [
+        'It\'s funny how most people love the dead, once you\'re dead, you\'re made for life.',
+        'Jimi Hendrix',
     ],
-    'b342be74-ee0e-5e45-9dcb-71b9479e7958' => [
-        'If you think you can do it, you can.',
+    '1f4c3d16-10b8-571c-9201-fdfbb616ecae' => [
+        'I just want to continue to break barriers and to show the industry and the world that beauty is diverse, and you don\'t have to be a certain stereotype to be beautiful.',
+        'Joan Smalls',
+    ],
+    '76bd4804-2e48-5d82-8a24-ce8ce1838d64' => [
+        'I believe that one key to success is to accept truth, no matter how it\'s spoken.',
+        'Robert Kiyosaki',
+    ],
+    '28a1bd1c-48af-5991-aa88-2f7e1667aafd' => [
+        'As a single mother of four, my mother taught me that you always want to show up strong for the moments that really matter with family, friends, and community. I now recognize how her strength helped shape the person I am today and the mother that I have become.',
+        'Andie MacDowell',
+    ],
+    '07f56593-5335-5696-bd7a-0910c1536e26' => [
+        'Doing Good is a simple and universal vision. A vision to which each and every one of us can connect and contribute to its realisation. A vision based on the belief that by doing good deeds, positive thinking and affirmative choice of words, feelings and actions, we can enhance goodness in the world.',
+        'Shari Arison',
+    ],
+    '7c6ab467-f5bd-556f-87d4-7e72935ab172' => [
+        'I would rather die a meaningful death than to live a meaningless life.',
         'John Burroughs',
     ],
-    'ad93d1c1-96c1-51a9-b349-a7b047e4c623' => [
-        'My life is really quite conservative. I\'ve been married nearly 50 years. I don\'t have hobbies or children. I don\'t much care to travel. I\'ve never had a big social life. I really just stay home, except when I go to work.',
-        'Christopher Walken',
+    '6efae757-c89f-5316-bc59-259130585a56' => [
+        'A smile is so sexy, yet so warm. When someone genuinely smiles at you, it\'s the greatest feeling in the world.',
+        'Mandy Moore',
     ],
-    '5bb07ebe-ebc6-5207-9208-4b248d126a9b' => [
-        'Nothing will teach you more about perceived value than taking something with literally no value and selling it in the auction format. It teaches you the beauty and power of presentation, and how you can make magic out of nothing.',
-        'Sophia Amoruso',
+    '07fff6aa-7da5-5c40-9728-282ba537308e' => [
+        'The funny thing is that my husband couldn\'t be sweeter. He looks like this bad boy. He\'s got tattoos and earrings and a mohawk, but when you talk to him and he\'s around you, he\'s such a gentleman. He holds doors for ladies. He pulls out chairs. He cooks. He cleans.',
+        'Malin Akerman',
     ],
-    'b0bbd0dd-60c4-5fd2-9043-75cdd2f68800' => [
-        'Life is a journey that must be traveled no matter how bad the roads and accommodations.',
-        'George S. Patton',
+    'b40288bd-442e-5d11-bfdb-55d48297706c' => [
+        'Real success is finding your lifework in the work that you love.',
+        'David McCullough',
     ],
-    '9a2b211a-061b-536f-92f3-531ee8cc5a8d' => [
-        'America isn\'t Congress. America isn\'t Washington. America is the striving immigrant who starts a business, or the mom who works two low-wage jobs to give her kid a better life. America is the union leader and the CEO who put aside their differences to make the economy stronger.',
-        'Khaled Hosseini',
+    'b0ddbe26-e7e7-5a36-ba00-cb2eea8aaadd' => [
+        'The best employees are those who bring real energy and initiative to the job. I like to know whether you\'re the kind of person who can set priorities, take initiative, and drive results right from the beginning.',
+        'Marillyn Hewson',
     ],
-    '1680fc54-eeed-51a5-b605-37e741801a0d' => [
-        'Life\'s too mysterious to take too serious.',
-        'Mary Engelbreit',
+    'a9c8a9a5-7e03-5c0c-a779-b12a3e9cae8b' => [
+        'People relate to me, and I try to make songs that make people smile.',
+        'Olly Murs',
     ],
-    'fddcffc5-3c80-5974-8aaf-f6ed04d266f2' => [
-        'At the age of 18, I made up my mind to never have another bad day in my life. I dove into a endless sea of gratitude from which I\'ve never emerged.',
-        'Patch Adams',
+    '7ebf7562-594a-5c7e-af39-eb35aaae2882' => [
+        'It can be easy to buy into anything. I would lose focus if I went with that attitude of wanting to be famous.',
+        'Tristan MacManus',
     ],
-    '9bfe60ef-b1e5-5efb-969b-410669762de4' => [
-        'Your attitude is like a box of crayons that color your world. Constantly color your picture gray, and your picture will always be bleak. Try adding some bright colors to the picture by including humor, and your picture begins to lighten up.',
-        'Allen Klein',
+    '029f89df-7104-5e52-96b4-1af8254ea84f' => [
+        'You and I come by road or rail, but economists travel on infrastructure.',
+        'Margaret Thatcher',
     ],
-    'f44a41ff-ca53-5c16-b747-50418bf6707b' => [
-        'What would life be if we had no courage to attempt anything?',
-        'Elon Musk',
+    'b616584b-93c2-54b2-b5bf-19b4bc603a10' => [
+        'There\'s one more thing I want to say. It\'s a touchy subject. Black beauty. Black sensuality. We live in a culture where the beauty of black people isn\'t always as celebrated as other types. I\'d like to help change that if I can!',
+        'Jody Watley',
     ],
-    'a5a9684e-bccd-5d0e-a91b-0e3b22d72a7c' => [
-        'The most important investment you can make is in yourself.',
-        'Warren Buffett',
+    '7d696a81-b1f7-5d37-b1b2-c8f9467734c4' => [
+        'It is the working man who is the happy man. It is the idle man who is the miserable man.',
+        'Benjamin Franklin',
     ],
-    'bbcfc429-fb3f-50c1-9470-45b4bbf8b6a3' => [
-        'To have the chance to see your music be elevated and to have almost universally positive response to that music, makes me feel better every day. I feel more confident and inspired, and that\'s fun.',
-        'John Legend',
+    'e8e07a13-474e-5443-a57b-c205f6c7754e' => [
+        'You never achieve success unless you like what you are doing.',
+        'Dale Carnegie',
     ],
-    'f66723c3-88af-506c-91de-4a903c17708b' => [
-        'Wikipedia is just an incredible thing. It is fact-encirclingly huge, and it is idiosyncratic, careful, messy, funny, shocking and full of simmering controversies - and it is free, and it is fast.',
-        'Nicholson Baker',
+    '476adb5c-38ca-5757-ba52-904412664770' => [
+        'Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.',
+        'Eleanor Roosevelt',
     ],
-    '1f8c743a-4704-51a7-96b6-1ec7d17ef44f' => [
-        'These days I travel so much it\'s hard to get into a routine. When I\'m on the road, I tend to use hotel gyms. When I\'m home in L.A., I like to hike and hit the surf. All in all, I try to keep a balanced diet and exercise routine, which has stood me in good stead to date.',
-        'Curtis Stone',
+    '0cebd320-391d-5187-9de7-f62e1fefd072' => [
+        'This celebration here tells me that this work is not hopeless. I thank you for this teaching with all my heart and lift my glass to human solidarity, to the ultimate victory of knowledge, peace, good-will and understanding.',
+        'Albert Szent-Gyorgyi',
     ],
-    '1eb9fcf5-0ee3-517c-a698-e1818e78c7e7' => [
-        'As long as I am still interested and curious, I enjoy getting up in the morning, but I can\'t say I have a happy smile on my face 24/7.',
-        'Harriet Walter',
+    'fc6be27c-fcbb-5797-acd4-b8abbc1067fd' => [
+        'Always bear in mind that your own resolution to succeed is more important than any one thing.',
+        'Abraham Lincoln',
     ],
-    '3f8eb13f-c5fb-5160-9c8c-3ef859402f1f' => [
-        'There is only one difference between a long life and a good dinner: that, in the dinner, the sweets come last.',
-        'Neil deGrasse Tyson',
+    '1ee9b518-d607-5913-bf49-bddfe15ed825' => [
+        'Time goes on. So whatever you\'re going to do, do it. Do it now. Don\'t wait.',
+        'Robert De Niro',
     ],
-    '0ebf41ab-089a-59c5-8f7e-fd2b2bb3bb86' => [
-        'Music is the best way for me to say I love you.',
-        'Mireille Mathieu',
+    'd3cae72a-6155-5010-bd60-e5396e466a24' => [
+        'Good-quality travel and good-quality food are the two luxuries that I never have any guilt indulging in.',
+        'Charlie Hunnam',
     ],
-    '1b8dd331-7e57-5569-bbe7-3c17a2731375' => [
-        'I guess when I think about it, one of the things I like to dramatise, and what is sometimes funny, is someone coming unglued. I don\'t consider myself someone who is making the argument that I support these choices. I just think it can be funny.',
-        'Wes Anderson',
+    'da8b342a-2b38-5d2b-9670-94c3326b1381' => [
+        'Believe me, I do not like idleness but work.',
+        'Wolfgang Amadeus Mozart',
     ],
-    '4580e41c-15c3-53a0-833d-f688251a1dd5' => [
-        'People need to understand that the Lauryn Hill they were exposed to in the beginning was all that was allowed in that arena at the time. I had to step away for the sake of the machine. I was being way too compromised. I felt uncomfortable having to smile in someone\'s face when I really didn\'t like them or know them well enough to like.',
-        'Lauryn Hill',
+    '37fdfbee-ae8c-5d4a-a03a-30ee1371f1ea' => [
+        'If nuclear power plants are safe, let the commerical insurance industry insure them. Until these most expert judges of risk are willing to gamble with their money, I\'m not willing to gamble with the health and safety of my family.',
+        'Donna Reed',
     ],
-    '75bf9506-4309-51f5-b895-bcc83f1786f5' => [
-        'To give pain is the tyranny; to make happy, the true empire of beauty.',
-        'Samuel Butler',
-    ],
-    '38b15da7-b84f-52a7-8cc5-3d411d316a73' => [
-        'Every age has its storytelling form, and video gaming is a huge part of our culture. You can ignore or embrace video games and imbue them with the best artistic quality. People are enthralled with video games in the same way as other people love the cinema or theatre.',
-        'Andy Serkis',
+    'd7d09360-b3f0-5878-a1f6-f9c4d4a912c5' => [
+        'Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.',
+        'Amy Bloom',
     ],
 ];

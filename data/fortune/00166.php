@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '8f0342b3-4ab3-5f1b-a0c2-c7b7ed221b18' => [
-        'Every gift from a friend is a wish for your happiness.',
-        'Richard Bach',
+    'd48f5429-51aa-5901-96d6-f02581a3efcb' => [
+        'My father would take me to the playground, and put me on mood swings.',
+        'Jay London',
     ],
-    'f1d19bbe-40ae-5733-9095-2c536155adb7' => [
-        'Life is about growing and improving and getting better.',
-        'Bruce Lee',
+    'feedc87f-e6eb-5f74-ac30-1df38a22138f' => [
+        'Patience is the companion of wisdom.',
+        'Saint Augustine',
     ],
-    'ef9b461c-3dd9-5a77-954b-c2debef1eefd' => [
-        'The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.',
+    'be763c94-da44-5ceb-b753-82cb3928d7c0' => [
+        'I have the best roommates in the world! It creates a fun sense of family... and that\'s really important to me. Things can get so lonely without it.',
+        'Kristen Bell',
+    ],
+    '18620b69-c427-5ad5-9a97-e84dba12cf13' => [
+        'There are some things you learn best in calm, and some in storm.',
+        'Willa Cather',
+    ],
+    'eebb5e58-5524-5f51-ab79-fd916deee9e3' => [
+        'Testing oneself is best when done alone.',
+        'Jimmy Carter',
+    ],
+    '2df62e9b-6b68-52a0-8f28-869884ad47a5' => [
+        'I always thought it would be funny to have the Parents Television Council write an episode of \'Family Guy\' and give them full creative control. Then see how good the episode is. That\'s something we\'ve actually discussed in the writers\' room. We haven\'t proposed it yet, but if somebody from the PTC reads this, it might be worth discussing.',
+        'Seth MacFarlane',
+    ],
+    '6f68cce9-d688-5e7f-b7f7-1439f10f410c' => [
+        'Rail travel for me is the most relaxing, most scenic way to see the country.',
+        'John Paul DeJoria',
+    ],
+    'c86aa757-dfc7-553f-89be-600aac432b18' => [
+        'Time brings all things to pass.',
+        'Aeschylus',
+    ],
+    '267d8412-7bf1-575e-b815-b05ec78861fb' => [
+        'Work is a necessary evil to be avoided.',
         'Mark Twain',
     ],
-    '23142b92-7556-5fae-be97-914dc099097d' => [
-        'We\'re kind of the comic relief of this movie because most of the stories are very dark. And that\'s why these plays were so great, because it\'s such a dark, dark universe that it becomes funny because it\'s just too pathetic.',
-        'Caroline Dhavernas',
+    '6094ff06-e229-5a67-b710-9089a1cac6fa' => [
+        'To the artist there is never anything ugly in nature.',
+        'Auguste Rodin',
     ],
-    '7d316986-f255-59ef-a534-c71cf7db624b' => [
-        'My siblings are my best friends.',
-        'America Ferrera',
+    '1a98be14-5f89-5058-a9b8-5f5be0cafa0c' => [
+        'We are free, but not to be evil, not to be indifferent to human suffering, not to profit from the people, from the work created and sustained through their spirit of political association, while refusing to contribute to the political state that we profit from.',
+        'Jose Marti',
     ],
-    '723c742b-a35e-5cc0-9ed1-56cc1a280116' => [
-        'I turned down \'Some Like It Hot.\' See how smart I am? I felt I couldn\'t bring anything funny to it. The outfit was funny. I don\'t need to compete with the wardrobe.',
-        'Jerry Lewis',
+    '12d6de5f-21fa-5491-bca1-3a5f8a8f5d8f' => [
+        'Teamwork makes the dream work, but a vision becomes a nightmare when the leader has a big dream and a bad team.',
+        'John C. Maxwell',
     ],
-    'b7d19e36-f32e-54ec-8e5c-5eebe5242c37' => [
-        'Until you make peace with who you are, you will never be content with what you have.',
-        'Doris Mortman',
+    '1afa5563-0271-597c-8524-3fdbf0be7e9a' => [
+        'People are rejecting the power of the elite, but individuals such as Snowden are doing so in a positive way, trying to change things for the better. He is a very intelligent man and obviously interested in electronic music.',
+        'Jean-Michel Jarre',
     ],
-    '689f1074-5f13-5d21-87aa-c4ee78efee0c' => [
-        'I live in a crazy time.',
-        'Anne Frank',
+    'c78a3eda-f60e-51ee-9f88-7305b26ae613' => [
+        'Of course my family and friends are incredibly valuable to me. They keep me sane, they teach me things and I love spending time with them. I think that ranking what you value is a sort of western and linear way of looking at things.',
+        'Julia Stiles',
     ],
-    '1dfd7037-1766-5470-8bb3-0f0414a3eb14' => [
-        'You must take action now that will move you towards your goals. Develop a sense of urgency in your life.',
-        'H. Jackson Brown, Jr.',
+    '25861061-466e-5f29-be23-dbd788e3df98' => [
+        'Teaching was the hardest work I had ever done, and it remains the hardest work I have done to date.',
+        'Ann Richards',
     ],
-    '509f16c6-29fc-5db0-8cb0-98f443efe6e3' => [
-        'He who knows that enough is enough will always have enough.',
-        'Lao Tzu',
+    '48c325f8-02db-554a-a2d6-9e5cd9903587' => [
+        'My smile will always be broken, but I\'ll always be grateful for the chance to get to do what I get to do.',
+        'Trent Franks',
     ],
-    'dcd46515-0db0-5c5f-8acb-a15e4d730b5f' => [
-        'Kids go to school and college and get through, but they don\'t seem to really care about using their minds. School doesn\'t have the kind of long term positive impact that it should.',
-        'Howard Gardner',
+    'b00f692b-3e1a-5839-aaf5-e01ae50a7457' => [
+        'If I know what love is, it is because of you.',
+        'Hermann Hesse',
     ],
-    '96a62d48-187a-51f9-8e80-216ef96386e7' => [
-        'It\'s funny how the music industry is enraged about the Internet and the way things are copied without being paid for. But you know why people steal the music? Because they can\'t afford the music.',
-        'Tom Petty',
+    'd6626ce1-7507-52bc-9620-3b1852a85282' => [
+        'He who wishes to secure the good of others, has already secured his own.',
+        'Confucius',
     ],
-    'b2de88da-2a2c-5f62-b89f-469efe2de6ea' => [
-        'The other night I ate at a real nice family restaurant. Every table had an argument going.',
-        'George Carlin',
+    '45ede87c-135c-503f-a791-25e16f940d0c' => [
+        'The theatre only knows what it\'s doing next week, not like the opera, where they say: What are we going to do in five years\' time? A completely different attitude.',
+        'Harrison Birtwistle',
     ],
-    'e8a9d69f-6787-5153-8bb8-93525d8864b5' => [
-        'Our diversity is our strength. What a dull and pointless life it would be if everyone was the same.',
-        'Eddie Cantor',
+    'a838cb28-5502-5265-8fd6-c72cecd2f802' => [
+        'One of the sad truths about leadership is that, the higher up the ladder you travel, the less you know.',
+        'Margaret Heffernan',
     ],
-    '05df988e-a4ed-5884-be3b-46766f77097d' => [
-        'My attention since \'Clueless\' has been on family, relationships, activism, the planet, and my career.',
-        'Alicia Silverstone',
+    '126100ee-b300-53c7-a428-a2dcf77c609c' => [
+        'Certain thoughts are prayers. There are moments when, whatever be the attitude of the body, the soul is on its knees.',
+        'Victor Hugo',
     ],
-    '2b9f5fdb-41ba-511d-a4fc-e0c620cfc48a' => [
-        'In a serious struggle there is no worse cruelty than to be magnanimous at an inopportune time.',
-        'Leon Trotsky',
+    '81a3a40c-3e38-5125-9a1a-d16243183549' => [
+        'I\'m thankful enough or blessed enough to be able to say that Miles Davis was a friend when he was alive, and he was a wonderful mentor and really, really funny, you know.',
+        'Prince',
     ],
-    '2677ba51-96c2-59c7-866f-8ec58c9fef26' => [
-        'There are thousands of inspirational stories waiting to be told about young women who yearn for a great education. They are stories of struggle and stories of success, and they will inspire others to take action and work to change lives.',
-        'Soledad O\'Brien',
-    ],
-    'd55e0884-d69e-557f-988b-aa24ec804420' => [
-        'The purpose of human life is to serve, and to show compassion and the will to help others.',
-        'Bobby Knight',
-    ],
-    '8c0132f7-d154-53c2-bb3c-5744b65f472d' => [
-        'Here ends my forever memorable first High Sierra excursion. I have crossed the Range of Light, surely the brightest and best of all the Lord has built. And, rejoicing in its glory, I gladly, gratefully, hopefully pray I may see it again.',
-        'John Muir',
-    ],
-    '7ff29bd8-4a31-5652-86d8-5376d10f5140' => [
-        'I\'ve specifically decided to say no to projects that weren\'t advancing Latinos, that weren\'t showing us in a positive light, roles that were gratuitous and spreading untruths.',
-        'Gina Rodriguez',
-    ],
-    'aa26dfca-dce7-5fd5-84f7-203178c5bff9' => [
-        'If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.',
-        'John Steinbeck',
-    ],
-    '7d79797d-5424-52e3-9611-baaf03b0bcfe' => [
-        'Someone told me the smile on my face gets bigger when I play the guitar.',
-        'Niall Horan',
-    ],
-    '57dfa0d4-750d-5569-975f-6905dd2336ab' => [
-        'Just to travel is rather boring, but to travel with a purpose is educational and exciting.',
-        'Sargent Shriver',
-    ],
-    'a265683a-3d71-5ab6-afe4-944f3551437a' => [
-        'If you violate Nature\'s laws you are your own prosecuting attorney, judge, jury, and hangman.',
-        'Luther Burbank',
-    ],
-    '15117050-dccd-59cc-a141-621c3c515a97' => [
-        'Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level.',
-        'A. P. J. Abdul Kalam',
-    ],
-    '8ce5762c-ad73-58f0-8543-2add5c8b4106' => [
-        'Without imagination we can go nowhere. And imagination is not restricted to the arts. Every scientist I have met who has been a success has had to imagine.',
-        'Rita Dove',
-    ],
-    '3468d521-73fe-5adb-86a9-7fc847c02e3f' => [
-        'Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are.',
-        'Richard Branson',
-    ],
-    '9f63baba-3d5a-5e96-b82e-05739b5b9774' => [
-        'Grace is the beauty of form under the influence of freedom.',
-        'Friedrich Schiller',
-    ],
-    'f1ea8fbd-98c8-599d-9bc4-b459fdae1a10' => [
-        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
-        'Summer Sanders',
-    ],
-    'cfa56016-9b53-5381-b072-074f75d7acf1' => [
-        'To be happy, it first takes being comfortable being in your own shoes. The rest can work up from there.',
-        'Sophia Bush',
-    ],
-    '46d2b1d7-12c2-5ee0-b0de-eb539ed1ae97' => [
-        'It is the mark of an educated mind to be able to entertain a thought without accepting it.',
-        'Aristotle',
-    ],
-    '7e2725c3-02ee-524d-9f5e-71886ea4f125' => [
-        'They always say time changes things, but you actually have to change them yourself.',
-        'Andy Warhol',
-    ],
-    '9bde62cc-9d6b-5ff7-a889-e8520f3e2973' => [
-        'While we try to teach our children all about life, our children teach us what life is all about.',
-        'Angela Schwindt',
-    ],
-    '86694b7a-47aa-5fc6-894e-9a362348ae14' => [
-        'Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.',
+    'e7164648-a6b7-51d3-94b1-f1c8f8cb36f8' => [
+        'The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.',
         'Helen Keller',
     ],
-    '33c5533b-c868-5f40-9926-7c1e4ed341d6' => [
-        'He has achieved success who has worked well, laughed often, and loved much.',
-        'Elbert Hubbard',
+    '6e9c7ea1-3f83-5bb7-b1bd-b67c43ec0933' => [
+        'The genius of the United States is not best or most in its executives or legislatures, nor in its ambassadors or authors or colleges, or churches, or parlors, nor even in its newspapers or inventors, but always most in the common people.',
+        'Walt Whitman',
     ],
-    'd751058d-1202-585f-846d-ace6a981447c' => [
-        'I\'m really careful about not slamming my politics home in my shows, but I don\'t try to hide, either. The arts can be a great way to bring people together. I don\'t preach from the stage. I try to stay positive on solutions.',
-        'Bonnie Raitt',
+    'bbf2916f-643e-5636-818e-6d3dcaf8790a' => [
+        'I don\'t think there\'s any dearth of talent in India - we\'ve always had the best juniors in the world.',
+        'Mahesh Bhupathi',
     ],
-    '5c6b0449-7f5b-55ed-ad09-4b758f6982b1' => [
-        'My mother thinks I am the best. And I was raised to always believe what my mother tells me.',
-        'Diego Maradona',
+    '1c784412-558f-5dd8-a90a-68f710c840f7' => [
+        'I went to the Performing Arts School and studied classical ballet. That attitude is something that\'s put into your head. You are never thin enough.',
+        'Carmen Electra',
     ],
-    '242fd7db-5907-5220-9868-344eb5325858' => [
-        'I am never at my best in the early morning, especially a cold morning in the Yorkshire spring with a piercing March wind sweeping down from the fells, finding its way inside my clothing, nipping at my nose and ears.',
-        'James Herriot',
+    '041e4904-deed-562c-8bd6-b725539ed3a6' => [
+        'Men are only as loyal as their options.',
+        'Bill Maher',
     ],
-    'af5d819f-4570-5405-a6f6-704fb77782b9' => [
-        'Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life\'s search for love and wisdom.',
-        'Edgar Cayce',
+    '93880aef-01e2-5d39-817d-f268df5cba22' => [
+        'Failure is enriching. It\'s also important to accept that you\'ll make mistakes - it\'s how you build your expertise. The trick is to learn a positive lesson from all of life\'s negative moments.',
+        'Alain Ducasse',
     ],
-    '998cc656-336f-5650-8370-99f03794d321' => [
-        'We can\'t just rail against crime. We must speak of the root problems - devastating family breakup, an insidious culture of violence that cheapens human life, skyrocketing prisoner recidivism rates that rob our communities of husbands and fathers - and recognize that there is a societal role in rehabilitation and restoration.',
-        'Frank Wolf',
+    '5826ff09-71f4-52b5-a0fe-7e02294d76d0' => [
+        'I found it interesting that as people become more technically oriented all over the world, at the same time people are becoming increasingly spiritual. The success of the Da Vinci code - even though it was a great yawn - also showed people\'s interest in religion.',
+        'Barbara Walters',
     ],
-    'caa55a1b-2f7b-5740-9237-2651571c72b6' => [
-        'No matter how many goals you have achieved, you must set your sights on a higher one.',
-        'Jessica Savitch',
+    'a0a13eab-c868-5b15-8e67-8e07e6f9ea94' => [
+        'The ideal intern is committed, creative, organized, ambitious, independent, and able to crack a smile, whether meeting a celebrity or folding socks.',
+        'Emily Weiss',
     ],
-    'd4e81b80-dd4a-5c91-bd9a-84197e354fe1' => [
-        'For me the greatest beauty always lies in the greatest clarity.',
-        'Gotthold Ephraim Lessing',
+    '8949978e-3ae6-5d1f-9bab-c562b050881c' => [
+        'Do not go where the path may lead, go instead where there is no path and leave a trail.',
+        'Ralph Waldo Emerson',
     ],
-    '62064450-9b5e-5572-9ead-be284591cb4f' => [
-        'I think \'Heroes of Cosplay\' will show a lot of the positive things, like how much effort it takes to make a costume. These people on the show aren\'t taking shortcuts. As long as that effort gets through to the viewers, we will be inspirational. Then there will be people who watch the show that want to get in and hands-on make outfits.',
-        'Yaya Han',
+    'ed7f2fb0-5e28-5fa3-890f-d534c5651cd3' => [
+        'You don\'t need to be a spook to care about encryption. If you travel with your computer or keep it in a place where other people can put their hands on it, you\'re vulnerable.',
+        'Barton Gellman',
     ],
-    '14f147c6-6912-5ce8-9969-bf8979a43652' => [
-        'Every heart that has beat strongly and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind.',
-        'Robert Louis Stevenson',
+    '5363970c-b722-5322-9a7b-c4e116a6705d' => [
+        'You were designed for accomplishment, engineered for success, and endowed with the seeds of greatness.',
+        'Zig Ziglar',
     ],
-    '52c7c7f2-1e0b-573a-ba76-ceb84ca35d76' => [
-        'The American Dream is that any man or woman, despite of his or her background, can change their circumstances and rise as high as they are willing to work.',
-        'Fabrizio Moreira',
+    '5fb901c9-e7cb-5347-bcaa-745a50a162d3' => [
+        'Thinking: the talking of the soul with itself.',
+        'Plato',
     ],
-    'ec794545-ae6f-596b-920d-99a30a5852fb' => [
-        'I never thought I was funny, but I enjoy being funny.',
-        'Nora Dunn',
+    'd4055544-d84a-562f-be2a-f2519248b6e8' => [
+        'Give me the luxuries of life and I will willingly do without the necessities.',
+        'Adam Braun',
     ],
-    'e2424315-e6db-598e-841e-823db0d51d33' => [
-        'I love to travel, but hate to arrive.',
-        'Hernan Cortes',
+    'b8e4545c-9e28-5b69-90ef-2d74d064aa53' => [
+        'There\'s a lot of blood, sweat, and guts between dreams and success.',
+        'Paul Bryant',
     ],
-    'ae21991d-59d6-543b-a406-2e74b43fc349' => [
-        'Man is by nature a political animal.',
-        'Aristotle',
+    'bc2385aa-64d1-5dbc-8235-966ce9b9efc2' => [
+        'My goal is to be able to provide for myself and not have to worry about the daily expenses. I do want to be able to benefit from my work and make a good living, but I love it so much that I would do it for free.',
+        'Jenn Proske',
     ],
-    '26c2ba48-85bf-5ceb-86c5-3c5e22d01f25' => [
-        'Let each man exercise the art he knows.',
-        'Aristophanes',
+    '182d1632-6791-53b1-bec5-501b51ac9598' => [
+        'In my own relationships, I know that I should break up with someone who doesn\'t encourage me to be strong and make my own choices and do what\'s best in my life, so if you\'re dating someone who doesn\'t want you to be the best person you can be, you shouldn\'t be dating them.',
+        'Veronica Roth',
     ],
-    '6c245034-259b-5841-90e0-4f9cc0db2c29' => [
-        'We are a family that lives probably 90 percent on wild game. We\'re certainly working our way toward 100 percent self-sufficient. Looking to raise chickens for eggs, things of that nature, start a garden. We enjoy the simple life.',
-        'Shawn Michaels',
+    'bb2e45ae-702b-53a2-9abc-f4e3d01776ef' => [
+        'I took some time out for life.',
+        'James L. Brooks',
+    ],
+    'c711df8d-365d-55b8-a8c8-1380ad35ce1e' => [
+        'Wherever you are - be all there.',
+        'Jim Elliot',
+    ],
+    '65a3a278-4b67-5b62-8b1e-62cbc30667ef' => [
+        'No matter how irrelevant social class now is, even the most eager egalitarian must be quietly proud that the posh English rose is still an industry standard for peerlessly sophisticated beauty.',
+        'Kate Reardon',
+    ],
+    '86663265-f81b-51d7-872d-9c2b7a6c4cf3' => [
+        'It\'s the price of success: people start to think you\'re omnipotent.',
+        'Ben Bernanke',
+    ],
+    'c538264d-ae54-56b3-9205-4bfc94971bee' => [
+        'Don\'t be afraid in nature: one must be bold, at the risk of having been deceived and making mistakes.',
+        'Camille Pissarro',
+    ],
+    '1c84b98b-5e04-5f0f-8b9f-bff073f7b71d' => [
+        'Technology doesn\'t address everything - for example, air travel still sucks.',
+        'Brad Feld',
+    ],
+    '21d6388e-c0dd-53bc-af75-bf55acce4a8a' => [
+        'Little white lies are part of everyday life. If you\'re in court being charged with a felony, you\'re probably going to be tempted to lie. Or if your girlfriend asks you if the sweater she is wearing makes her look fat; you\'re going to lie because you love that person. There are different reasons and justifications to lie; it\'s human nature.',
+        'Monica Raymund',
+    ],
+    'd00adb3d-3876-5d78-a6f7-61dd7d82dd7a' => [
+        'There is a miracle in your mess, don\'t let the mess make you miss the miracle.',
+        'Patience Johnson',
+    ],
+    'f6b480f3-32e9-59ce-9fdc-ddfb094ad213' => [
+        'All I can do will only ever be a faint image of what I see and my success will always be less than my failure or perhaps equal to the failure.',
+        'Alberto Giacometti',
+    ],
+    '3967f472-5288-5777-87bc-5e45bd4d2fbd' => [
+        'We\'re all moving at such a high rate that we have to grab the frozen dinners and the McDonald\'s. We can\'t make it a way of life - we have to get back to real, simple, clean good foods. It will save our lives on so many levels; not just spina bifida, but obesity, diabetes, everything. Food is our medicine.',
+        'Bernie Siegel',
+    ],
+    '17174a9f-2cda-5d02-918f-3102f2ba13f1' => [
+        'I feel very good and positive about my future. I look forward to seeing the fans and doing what I do.',
+        'Randy Owen',
+    ],
+    '2c437fa1-76f2-5b6b-8f90-cfaef283ea31' => [
+        'I\'m a painter, really. To be successful, you have to go to Hollywood, and I didn\'t like to travel.',
+        'H. R. Giger',
     ],
 ];

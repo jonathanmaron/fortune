@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '6cfe50f2-5540-5815-b94f-fc77333c9af3' => [
-        "I always did something I was a little not ready to do. I think that's how you grow. When there's that moment of, \u{2018}Wow, I'm not really sure I can do this,' and you push through those moments, that's when you have a breakthrough.",
-        'Marissa Mayer',
+    'e6533a20-ead8-59b5-b9c9-6f5588a0c69b' => [
+        'We all have goals: We want to matter. We want to be important. We want to have freedom and power to pursue our creative work. We want respect from our peers and recognition for our accomplishments. Not out of vanity or selfishness, but of an earnest desire to fulfill our personal potential.',
+        'Ryan Holiday',
     ],
-    'a19626ac-5dc1-50f4-ae2b-eeb60d0067ed' => [
-        'A goal is not always meant to be reached; it often serves simply as something to aim at.',
-        'Bruce Lee',
+    'b98738ab-158b-59a5-a809-89910a0cf9fc' => [
+        'The way that people feel changes everything. Feelings are forces. They cause us to time travel. And to leave ourselves, to leave our bodies. I would be that kind of psychologist who says, \'You\'re absolutely right - there are monsters under the bed.\'',
+        'Helen Oyeyemi',
     ],
-    'a354cfc0-eb8a-5c87-853d-c83728ab7789' => [
-        'You never know what motivates you.',
-        'Cicely Tyson',
+    'ed4247f0-ee60-5cc6-9d06-538efcde99e0' => [
+        'We are learning, too, that the love of beauty is one of Nature\'s greatest healers.',
+        'Ellsworth Huntington',
     ],
-    'd6a13332-fd8e-5115-b795-99af24dd0adb' => [
-        'Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that.',
-        'Jean Lacordaire',
+    '8a0d89ae-0ed8-5d1d-8417-9920ff69b77e' => [
+        'Take time for all things: great haste makes great waste.',
+        'Benjamin Franklin',
     ],
-    'd0258e48-8784-5fd8-96c4-a002f74b44dc' => [
-        'Example has more followers than reason.',
-        'Christian Bovee',
+    '5654bc39-b1cf-56bb-bd19-0a58f06b9ef8' => [
+        'Every skill you acquire doubles your odds of success.',
+        'Scott Adams',
     ],
-    '4482e45c-22ab-5351-a286-15e109fb749b' => [
-        'I love to travel, but sometimes it\'s nice to stay in one place.',
-        'Gustavo Dudamel',
+    'c5479626-0ea3-50b4-b63f-c37527e1cc1a' => [
+        'There\'s only one band that could ever even pretend to assume the mantle of what the Beatles did, who have been so pre-eminent and world-dominating that they could effect a paradigm shift in the culture, who have been willing to leverage their success into musical change, and that is U2 - regardless of what the result of that is.',
+        'Todd Rundgren',
     ],
-    '412d79e8-66c7-51bb-9dbc-044c59cc5103' => [
-        'I have always loved a hard-faced girl. I get that Alison Goldfrapp isn\'t easy, and I like her belligerence. She\'s deeply sexy and controlled, like a Strict Machine, and it seems to wind the b\'jesus out of the women I know. On the outside, I watch and smile and will her on like a twisted silent maiden aunt in the dark corner.',
-        'Alison Moyet',
+    '067137c1-e523-5855-89eb-608cecd8ace3' => [
+        'Let the gentle bush dig its root deep and spread upward to split one boulder.',
+        'Carl Sandburg',
     ],
-    'c90c3ea4-28ef-5b7f-a6ae-e8b8f81f0cd9' => [
-        'People often say that motivation doesn\'t last. Well, neither does bathing--that\'s why we recommend it daily.',
-        'Zig Ziglar',
+    'b77ad88e-f7ea-5e42-9945-c4c9de169ec1' => [
+        'I think if everyone would write down the funny stories from their own childhoods, the world would be a better place.',
+        'Jeff Kinney',
     ],
-    'b6089ed5-55ed-541f-bdfd-1e4f82ce549f' => [
-        'Honesty and integrity are absolutely essential for success in life - all areas of life. The really good news is that anyone can develop both honesty and integrity.',
-        'Zig Ziglar',
+    'e327a73a-e24c-5cf3-bee3-3eabff15faf8' => [
+        'With an eye made quiet by the power of harmony, and the deep power of joy, we see into the life of things.',
+        'John Lennon',
     ],
-    '8a7b24be-9cab-534b-87c3-798419ae0f19' => [
-        'Love and compassion open our own inner life, reducing stress, distrust and loneliness.',
-        'Dalai Lama',
+    '2d3a8619-f676-550a-9298-08a2765fc035' => [
+        'Food makes travel so exceptional, because you get to taste what it\'s actually supposed to taste like. To eat the real Pad Thai or finally have a proper curry is something pretty amazing.',
+        'Meghan Markle',
     ],
-    '301d4b1f-06f2-5395-95a4-0e74373ac710' => [
-        'I wrote \'(\'Til) I Kissed You\' about a girl I met in Australia. Her name was Lilian, and she was very, very inspirational. I was married, but... I wrote the song about her on the way back home.',
-        'Don Everly',
+    'c825a705-70ac-5ebd-87a1-da960c853b6e' => [
+        'Nature is our chapel.',
+        'Bjork',
     ],
-    '79f81c80-4405-59ff-a543-ab8ff9b84f1e' => [
-        'I was perceived to be a first- to third-rounder. I kind of had a tough junior year and fell to the fifth round. At that time, it was motivational.',
-        'Ryan Howard',
+    '7cf8d090-124e-56df-8c18-61f30b725d66' => [
+        'Having a second chance makes you want to work even harder.',
+        'Tia Mowry',
     ],
-    'a3ecb446-a0f4-56a6-88f6-0ac92ec14e27' => [
-        'The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.',
-        'Eckhart Tolle',
+    '994998f3-d90f-53ec-a576-a9206db0f019' => [
+        'I don\'t believe in the after life, although I am bringing a change of underwear.',
+        'Woody Allen',
     ],
-    '96fe4b3c-9748-5560-b71c-66e18cf5dbf3' => [
-        'Despair and disappointment are the parent of countless inspired, inspiring, triumphant creations.',
-        'Rasheed Ogunlaru',
+    '018638c7-9fa2-5a5c-9b61-249ff09e81ab' => [
+        'Let us always meet each other with smile, for the smile is the beginning of love.',
+        'Mother Teresa',
     ],
-    '89a7bca2-805a-5484-a4fe-2c560b31c563' => [
-        'My attitude about death is, going into the next room, and it\'s a room that the rest of us can\'t get into because we don\'t have the key. But when we do get the key, we\'ll go in there, and we\'ll see one another again, in some shape or form or whatever. It\'s not the end.',
-        'Roger Moore',
+    '9b929144-0f72-5729-bf42-76cfb4a8efa7' => [
+        'The beautiful spring came; and when Nature resumes her loveliness, the human soul is apt to revive also.',
+        'Harriet Ann Jacobs',
     ],
-    '0e6bd6cd-e74c-5ace-acb8-c0e69d9e276d' => [
-        'Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.',
-        'Alan Cohen',
+    'a88e7768-89c1-5a9c-bfdf-4c934c79cb2a' => [
+        'It\'s easier to change what you do than people think it is. If you don\'t change, your field changes around you.',
+        'Walter Gilbert',
     ],
-    'b2219e57-a4da-5fb0-bfde-867e188f0599' => [
-        'What were once only hopes for the future have now come to pass; it is almost exactly 13 years since the overwhelming majority of people in Ireland and Northern Ireland voted in favour of the agreement signed on Good Friday 1998, paving the way for Northern Ireland to become the exciting and inspirational place that it is today.',
-        'Queen Elizabeth II',
+    '8d8654b3-9d65-5b04-9eb5-f310677ddfc0' => [
+        'Although I do wrong, I do not the wrongs that I am charged with doing; the wrong that I do is through the frailty of human nature, like other men. No man lives without fault.',
+        'Joseph Smith, Jr.',
     ],
-    'bec67bd2-7b3a-5ab6-8557-9fb03cd30ffc' => [
-        'But I think it is a serious issue to wonder about the other platonic absolutes of say beauty and morality.',
-        'Roger Penrose',
+    '0331e5a5-ca69-5dc6-9a96-8b55faddb34c' => [
+        'A house divided against itself cannot stand.',
+        'Abraham Lincoln',
     ],
-    'aeddc2b1-c199-581a-b018-45f4bdeec861' => [
-        'Success has a lot to do with luck, but it also involves a lot of real hard work. The thing about success is you really can\'t gauge things by album sales.',
-        'Jerry Cantrell',
+    '0531d87c-e0ef-5681-a52e-90d814b8935e' => [
+        'I was actually born and raised in Puerto Rico. I was born to a single mom. She was a wonderful woman, and she taught me to believe in myself, to work hard, play by the rules. She wanted me to get a good education, and she just told me that the best thing I could do is just study hard.',
+        'Raul Labrador',
     ],
-    'f6742fc5-05ea-5d9d-b67c-44affd9a4e74' => [
-        'Cute is when a person\'s personality shines through their looks. Like in the way they walk, every time you see them you just want to run up and hug them.',
-        'Natalie Portman',
+    '72d84e65-b93d-5bd3-a3a0-1dec88c884b3' => [
+        'As a general rule, I don\'t plan to travel with my Oscars, but we may have to make an exception.',
+        'Paul Haggis',
     ],
-    'ade48ea0-6426-55b3-9a28-5e7c77481a95' => [
-        'Like all my family and class, I considered it a sign of weakness to show affection; to have been caught kissing my mother would have been a disgrace, and to have shown affection for my father would have been a disaster.',
-        'Agnes Smedley',
+    'b972612b-0569-5728-93a9-28dbed1609dd' => [
+        'Economy is the basis of society. When the economy is stable, society develops. The ideal economy combines the spiritual and the material, and the best commodities to trade in are sincerity and love.',
+        'Morihei Ueshiba',
     ],
-    '0dd4c7f3-2818-540b-b298-941e14f4dbc8' => [
-        'The most daring thing is to be yourself and to do exactly what you want to do at that point in time and not to be worried with what other people are doing or what\'s popular.',
-        'Wiz Khalifa',
+    'ef909d34-17bf-53e2-8d17-762d4a858a02' => [
+        'People just hate the idea of losing. Any loss, even a small one, is just so terrible to contemplate that they compensate by buying insurance, including totally absurd policies like air travel.',
+        'Daniel Kahneman',
     ],
-    'bebdffc5-7123-5592-a1d7-193632558d63' => [
-        'Opportunities are usually disguised as hard work, so most people don\'t recognize them.',
-        'Ann Landers',
+    'b0d43758-1af5-5492-b559-93a19c305ac8' => [
+        'As a kid, I thought of myself as a funny person who secretly wanted to be serious, but now I think maybe I\'m a serious person who secretly wants to be funny.',
+        'Noah Baumbach',
     ],
-    '6fc556b3-0260-5ecd-a9fc-bf692e72bfc9' => [
-        'The price of greatness is responsibility.',
-        'Winston Churchill',
+    '541b64ce-25d7-51d5-9305-6e566b40595d' => [
+        'The mystery is what prompted men to leave caves, to come out of the womb of nature.',
+        'Stephen Gardiner',
     ],
-    '7a6fa0e8-a846-590e-99d2-681c05bcb565' => [
-        'The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.',
-        'Helen Keller',
+    'c1653a89-b377-5900-a391-3033743c7c18' => [
+        'A positive attitude causes a chain reaction of positive thoughts, events and outcomes. It is a catalyst and it sparks extraordinary results.',
+        'Wade Boggs',
     ],
-    '1b8e6f8e-c15b-5752-8674-ae52a132663b' => [
-        'Times and conditions change so rapidly that we must keep our aim constantly focused on the future.',
-        'Walt Disney',
+    '929e82e5-88a5-5d16-b198-69ddfaac97ec' => [
+        'Anybody can become angry - that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way - that is not within everybody\'s power and is not easy.',
+        'Aristotle',
     ],
-    'c49ca9e7-bf44-5c01-9a45-7af2c4a0b084' => [
-        'I\'m not here to impose Sharia law, and I\'m not here to have a message about disability being inspirational - I\'m here to make people laugh. But when I can layer things and make people not only laugh but question, make people not only laugh but be offended... I have to do that.',
-        'Maysoon Zayid',
+    'f866f6a3-c28d-503d-9850-8df26d503f23' => [
+        'I would feel more optimistic about a bright future for man if he spent less time proving that he can outwit Nature and more time tasting her sweetness and respecting her seniority.',
+        'E. B. White',
     ],
-    '70c63024-8a90-5bcc-8883-539ae284dd85' => [
-        'I love my family.',
-        'Manute Bol',
+    'a2fb9c10-1689-5c5d-b2b0-3e1d474f878a' => [
+        'One day, I got so disgusted that I sat down and wrote a list called \'Justin\'s list of things to do before he kicks the bucket.\' I wrote it for myself and shortened it to \'Justin\'s Bucket List.\' It was there on the wall, not as a story idea but as a motivational tool for myself, which actually ended up working pretty well.',
+        'Justin Zackham',
     ],
-    '7d71271c-9ab5-5177-b18c-0cb122c64a55' => [
-        'Some of the most important conversations I\'ve ever had occurred at my family\'s dinner table.',
-        'Bob Ehrlich',
+    '1160a278-38a0-534b-87b7-98e95e9d7560' => [
+        'Believe it or not, I have about the same success rate as anyone else. Sometimes you hit, sometimes you miss.',
+        'Seth MacFarlane',
     ],
-    'd3d7c332-64ac-59fa-aa73-713e23ec3952' => [
-        'Things are beautiful or ugly only in time and space. The new man\'s vision being liberated from these two factors, all is unified in one unique beauty.',
-        'Piet Mondrian',
+    '34d1c174-eae4-5fec-87bb-3fefe5e419d7' => [
+        'I do love to capture beauty in this world. And photos can last the test of time.',
+        'Nathaniel Buzolic',
     ],
-    '2df0ddc9-a0b4-55c1-8fee-82d90534bedc' => [
-        'In motivating people, you\'ve got to engage their minds and their hearts. I motivate people, I hope, by example - and perhaps by excitement, by having productive ideas to make others feel involved.',
-        'Rupert Murdoch',
+    'dd7062f9-f135-5d01-b1dd-ff7c8bc5d18e' => [
+        'Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity.',
+        'Leonardo da Vinci',
     ],
-    '2b3baa66-3d99-5e66-9ab9-19fa19e79635' => [
-        'Two wrongs don\'t make a right, but they make a good excuse.',
-        'Thomas Szasz',
+    '4f41aed7-4cf9-5eab-b8e9-fdcf22663286' => [
+        'My mother graduated from high school at 15 and went to work to support the family because the eldest son went to college.',
+        'Ruth Bader Ginsburg',
     ],
-    '7c4eeed7-3fb8-5eb8-a631-210fb8632a91' => [
-        'The traveler sees what he sees, the tourist sees what he has come to see.',
-        'Gilbert K. Chesterton',
+    '52439340-ac4e-5d63-ba58-de400d03ba60' => [
+        'The grand essentials of happiness are: something to do, something to love, and something to hope for.',
+        'Chalmers',
     ],
-    '4391e2b1-3b1d-574f-b4e1-4a23a4856a86' => [
-        'No great thing is created suddenly.',
-        'Epictetus',
+    'ee51ba8e-03a8-5c14-b470-16f9d7eaf21e' => [
+        'My grandmother started walking five miles a day when she was sixty. She\'s ninety-seven now, and we don\'t know where the hell she is.',
+        'Ellen DeGeneres',
     ],
-    '50bee11a-338a-5365-8e69-331ee67944bc' => [
-        'The sky is always there for me, while my life has been going through many, many changes. When I look up the sky, it gives me a nice feeling, like looking at an old friend.',
-        'Ron White',
+    'a40e9cb5-4f48-5e28-ac45-48e9c8e5a725' => [
+        'When we go out there, we have fun, but we get to work, and I think we\'re at our best when we\'re having fun. Having fun is key.',
+        'Ezekiel Elliott',
     ],
-    '9fd26389-33e5-51b4-966c-4841183f29b0' => [
-        'My dream is to be World Lightweight Champion in the UFC. Have more money than I know what to do with. And have a great life for my kids, grandkids, and everyone in my family.',
-        'Conor McGregor',
+    '84a54f20-92ab-566c-a094-1b26a9c936fb' => [
+        'It\'s better to waste money, than it is to waste time. You can always get more money.',
+        'Hal Sparks',
     ],
-    '29afd168-c900-5ead-af6f-6a0a520b385e' => [
-        'I was the kid next door\'s imaginary friend.',
-        'Emo Philips',
+    'a1e8d53a-7ef6-5b4c-b98a-f5e04da3eea0' => [
+        'Nothing is softer or more flexible than water, yet nothing can resist it.',
+        'Lao Tzu',
     ],
-    '35cca867-231f-5518-829c-bd51aded0e21' => [
-        'If opportunity doesn\'t knock, build a door.',
-        'Milton Berle',
+    'd2118992-0c09-58fe-b50d-428b021fee7d' => [
+        'I firmly believe that unless one has tasted the bitter pill of failure, one cannot aspire enough for success.',
+        'A. P. J. Abdul Kalam',
     ],
-    'a97601ce-0edf-50f9-9f26-6c8429ff5a0c' => [
-        'I have the same attitude with work - I like to go to work, I like to work really hard I, like to give everything my all, I like to try things that are new, you know.',
-        'Rosie Huntington-Whiteley',
+    'a72dfe42-72c7-52c0-bb53-262ff6a1a38e' => [
+        'Why is it so painful to watch a person sink? Because there is something unnatural in it, for nature demands personal progress, evolution, and every backward step means wasted energy.',
+        'August Strindberg',
     ],
-    '7d1606c4-dd50-54d7-8cb9-cdc8d7e90a72' => [
-        'The opportunity for brotherhood presents itself every time you meet a human being.',
-        'Jane Wyman',
+    'ffa7663e-fd3f-5d8f-9e91-24920fa2a50e' => [
+        'You cannot have a positive life and a negative mind.',
+        'Joyce Meyer',
     ],
-    'f0ebe94c-1a06-5d70-94b6-940619e3342f' => [
-        'I think there can be a positive sort of futurism even in a presentist society. But I think it\'s a kind of futurism that envisions augmenting human ability and intellect rather than creating some artificial machine intelligence that displaces us.',
-        'Douglas Rushkoff',
+    '1723f23b-1c32-5517-9acd-f7d483382bf7' => [
+        'Women need opportunity and encouragement. If a girl can climb mountains, she can do anything positive within her field of work.',
+        'Samina Baig',
     ],
-    '27b0bcc8-5b78-5843-bd1a-8808aabf2920' => [
-        'I had hoped when my life was chronicled, it would be an inspirational story.',
-        'Om Puri',
+    '4b800457-4d0a-5110-b468-7d77cabf9444' => [
+        'As cheesy as it sounds, nothing beats a smile and a bit of confidence! As long as you feel good on the inside, you can still look beautiful without any makeup at all.',
+        'Zoe Sugg',
     ],
-    '8190af1b-d480-5b3c-8511-0d6fc0fc1032' => [
-        'Travel teaches as much as books.',
-        'Youssou N\'Dour',
+    '736e0875-cd58-5691-9cba-ce27839b9468' => [
+        'I\'ve always been that person: If it gets into my head, I\'ve got to do it until I get it perfect - a perfectionist\'s attitude.',
+        'Brendon Urie',
     ],
-    'faa84b55-6887-539e-ae87-2316cb47aa5c' => [
-        'A hybrid human-robot mission to investigate an asteroid affords a realistic opportunity to demonstrate new technological capabilities for future deep-space travel and to test spacecraft for long-duration spaceflight.',
-        'Buzz Aldrin',
+    'a8fa9520-5485-5a9d-892c-86aa4f06e145' => [
+        'Art is the unceasing effort to compete with the beauty of flowers - and never succeeding.',
+        'Gian Carlo Menotti',
     ],
-    '96b6f7a4-06dd-5760-a179-6d29ed22c471' => [
-        'Virtue is not photogenic. What is it to be a nice guy? To be nothing, that\'s what. A big fat zero with a smile for everybody.',
-        'Kirk Douglas',
+    '768fc1d9-f4ca-5eff-b221-26d251686b97' => [
+        'Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.',
+        'George Whitefield',
     ],
-    '3c06ce6f-b76e-52c9-b3c6-ff98a43ee2d9' => [
-        'I actually think some of my best moments in life have been while I was with people from Instagram - whether it\'s super late nights getting a release out or being able to travel to places I\'d never visited and meeting some of the most interesting people I\'ve ever met.',
-        'Kevin Systrom',
+    'fa79cdc2-c8f2-57af-8c40-da561535f168' => [
+        'I\'ve been looking at companies that are on a positive path vs. a negative path and I\'ve come to use the language of sports, winning streaks and losing streaks.',
+        'Rosabeth Moss Kanter',
     ],
-    'acd54d1e-18cc-5af0-a8fb-e7977e5b0c5f' => [
-        'In college I never realized the opportunities available to a pro athlete. I\'ve been given the chance to meet all kinds of people, to travel and expand my financial capabilities, to get ideas and learn about life, to create a world apart from basketball.',
-        'Michael Jordan',
+    '58a81863-3f33-5228-8948-b68d42b64c92' => [
+        'A light wind swept over the corn, and all nature laughed in the sunshine.',
+        'Anne Bronte',
     ],
-    'b666a8bc-07aa-534e-81c9-997201f20cd3' => [
-        'Man never made any material as resilient as the human spirit.',
-        'Bernard Williams',
+    '340a228a-4f47-5514-91fe-2e89db917e4a' => [
+        'Life is about challenges and how we face up to them and the attitude we take into every day life so hopefully we\'ll be able to motivate people to do more with their life.',
+        'Martina Navratilova',
     ],
-    '6cbccaa1-d17e-5c3d-8c9d-1d45f02f0177' => [
-        'Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it\'s really how it works.',
-        'Steve Jobs',
+    'ca64d867-e259-5462-8190-cefd2a159e5e' => [
+        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
+        'Aldo Leopold',
     ],
-    'fe4b8214-a6b2-50b7-b189-7db029eae3f3' => [
-        'Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.',
-        'Buddha',
+    '6ede824e-528c-53f9-bb67-3bd4ead44746' => [
+        'A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are worthwhile, it can be done.',
+        'Vince Lombardi',
     ],
 ];

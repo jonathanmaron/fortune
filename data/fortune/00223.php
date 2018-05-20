@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '16be6728-d62e-5036-b08b-a05589858d38' => [
-        'I hope that my family will continue in another thousand years.',
-        'Frederik, Crown Prince of Denmark',
+    'ccf86765-96ee-5cfc-a592-57731319605d' => [
+        'We need prisons because there are some hardcore criminals, but I never met a guy who has been in jail that came out with a smile on his face thinking, \'Right, that\'s it - now I am going to be good!\'',
+        'Tahar Rahim',
     ],
-    'be64acc8-0cc1-5e65-9f71-c5efd1e9973b' => [
-        'The measure of a man is what he does with power.',
-        'Plato',
+    'ce8b1829-52f0-5919-bed1-ec0e7b250a92' => [
+        'It is not the beauty of a building you should look at; its the construction of the foundation that will stand the test of time.',
+        'David Allan Coe',
     ],
-    '57082d3f-597b-50e5-9f85-41e43a259511' => [
-        'So many of our young women today, they\'re growing up without a father, but they\'re still thirsty for that and desiring positive male love.',
-        'Hill Harper',
+    'f27a76a1-09e7-5e32-863c-fc128e6d76a0' => [
+        'All difficult things have their origin in that which is easy, and great things in that which is small.',
+        'Lao-Tzu',
     ],
-    '53a564ef-f66d-51b5-98e7-4033bbb6b154' => [
-        'We try to make the name longer and longer every year. First, it was \'Larry the Cable Guy\'s Christmas Spectacular.\' Then it was \'It\'s a Very Larry Christmas.\' Now it\'s \'Larry the Cable Guy\'s Hula-palooza Christmas Luau.\' I\'ll tell you what it is: It\'s funny. That\'s what it is. Who cares what the name of it is? It is a funny special.',
-        'Larry the Cable Guy',
+    '4325daa8-fa4c-5bdf-bc67-19a3aa040357' => [
+        'To be prepared is half the victory.',
+        'Miguel de Cervantes',
     ],
-    '5a189467-5ff0-509f-95df-fc0b362cff31' => [
-        'The bad news is time flies. The good news is you\'re the pilot.',
-        'Michael Atshuler',
+    '4439ada9-5959-54e5-9f07-0ee8fa24b9b3' => [
+        'Let\'s find those areas where modest and reasonable tax cuts will have the biggest positive impact on our economy, and which will improve the lives of those who need it most: working families, retirees, and small business owners.',
+        'Larry Hogan',
     ],
-    '78af3eef-0415-5875-97ed-0c29f041db57' => [
-        'One of my favorites is one called \'Rory\'s Radio\' that I wrote about my brother Jeff\'s best friend growing up - his name was Rory Dunigan. I dedicated my first record to my brother, who got killed in a car accident in 1999, and I really didn\'t have any songs on the first album about him, nothing on a personal note.',
-        'Ashton Shepherd',
+    '89c00e63-6a07-58d5-ad9a-498bff112fcb' => [
+        'The diversity of India, of our civilization, is actually a thing of beauty, which is something we are extremely proud of.',
+        'Narendra Modi',
     ],
-    '67fbd2cf-b9b7-5dba-9d5f-223dddd155e5' => [
-        'To you wives who are constantly complaining and see only the dark side of life, and feel that you are unloved and unwanted, look into your own hearts and minds. If there is something wrong, turn about. Put a smile on your faces. Make yourselves more attractive. Brighten your outlook.',
-        'Gordon B. Hinckley',
+    'aea003db-ab3a-55a6-804d-7aa8f47afbdf' => [
+        'I sit here as the first African-American attorney general, serving the first African-American President of the United States. And that has to show that we have made a great deal of progress. But there\'s still more we have to travel along this road so we get to the place that is consistent with our founding ideals.',
+        'Eric Holder',
     ],
-    'a188997b-54a6-519a-bd8b-0749fc874815' => [
-        'Traveling around the country, meeting fans and hearing their stories in person and on my radio show has reenergized my commitment to creating honest and inspirational content that not only serves my own creative purposes but can help and touch others as well.',
-        'Nikki Sixx',
+    'efe301ec-5db4-5e6e-a730-833d38c9ffb1' => [
+        'If you\'re a good choice maker, you can choose the best emotional responses and choose the best new life paths, forward and upward.',
+        'Karen Salmansohn',
     ],
-    'f0c9c181-9924-5972-bb81-f42cb8f8e661' => [
-        'People come into your lives who you have a good time with, and time goes by and you still have a good time with them and you do stupid stuff with them. To me, that\'s life.',
-        'Danny DeVito',
+    '1f4d86d3-16b6-5c71-9289-8023c03ec0d5' => [
+        'Success usually comes to those who are too busy to be looking for it.',
+        'Henry David Thoreau',
     ],
-    '9d3f7257-b3fb-56e3-adf3-3eda4091d3df' => [
-        'I want to have fun. It\'s a beautiful life. You learn, you win, you lose, but you get up.',
-        'John Wooden',
+    '8cedb0ad-5674-5f41-92e2-5d308c14c340' => [
+        'The harder you work... and visualize something, the luckier you get.',
+        'Seal',
     ],
-    '9320e5fd-96f4-58e7-9d88-c939ce4a3ab9' => [
-        'All the great artists had their dark sides. Look at Amy Winehouse or anyone who has achieved a certain level of success. Even Adele, and the people that you wouldn\'t put in the same category as a gangster rapper. These women have exposed their vulnerabilities, demons, and things that have hurt them.',
-        'Kat Graham',
+    '6ab309b5-1a2e-5e84-9455-7be73aed05d9' => [
+        'Nature surrounds us, from parks and backyards to streets and alleyways. Next time you go out for a walk, tread gently and remember that we are both inhabitants and stewards of nature in our neighbourhoods.',
+        'David Suzuki',
     ],
-    'e94f92ac-00f4-5474-b0dd-c52bb87cd336' => [
-        'Even Napoleon had his Watergate.',
-        'Yogi Berra',
+    'dd38bfe2-e3c7-50e9-95cf-26d9b332194e' => [
+        'The pursuit, even of the best things, ought to be calm and tranquil.',
+        'Marcus Tullius Cicero',
     ],
-    '7c5128e7-ccf7-5c1f-8c6d-a2375de54573' => [
-        'Everything has been figured out, except how to live.',
-        'Caitlyn Jenner',
+    '986806d2-19ff-5eac-8a53-f6348e2d20f7' => [
+        'I\'ve never done it, but I think if you do a Google search for \'People who will help me travel across the country to meet my online love,\' I\'m probably the only person that comes up.',
+        'Nev Schulman',
     ],
-    'f5bf79cb-b94c-5f74-b66b-04ce8fad9375' => [
-        'The flower is the poetry of reproduction. It is an example of the eternal seductiveness of life.',
-        'Jean Giraudoux',
+    'b4665737-394f-5837-9363-901d60ffe333' => [
+        'And I like the look on people\'s faces when I say I\'m doing this movie called Pride and Prejudice and they kind of smile, and then I say I\'m in a movie called Doom and they kind of do a double take and try and put the two things together. And they never quite manage to.',
+        'Rosamund Pike',
     ],
-    '6ae89442-a007-50f2-8d71-cb108ee6aa48' => [
-        'The ultimate aim of the ego is not to see something, but to be something.',
-        'Muhammad Iqbal',
+    'eef2c176-577d-562a-b907-6c1e206aa2a1' => [
+        'The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.',
+        'Will Durant',
     ],
-    'ede263a9-3232-5bc4-876f-9d8774062905' => [
-        'One of the signs of a bad coworker is a pattern of persistent undermining - intentionally hindering a colleague\'s success, reputation, or relationships.',
-        'Adam Grant',
+    '90fbeb27-cce4-5119-b7f2-7026497db53c' => [
+        'Viral videos aren\'t just about being funny. They\'re about identity creation.',
+        'Ricky Van Veen',
     ],
-    '93d97ca0-5296-5624-8064-7451d7773e35' => [
-        'It is precisely the purpose of the public opinion generated by the press to make the public incapable of judging, to insinuate into it the attitude of someone irresponsible, uninformed.',
-        'Walter Benjamin',
+    'a4bbf686-d1b5-58f5-8eaa-577a35bbd587' => [
+        'Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is.',
+        'J. R. Martinez',
     ],
-    '42a2173b-c05c-53fc-97f5-b0bf036c317c' => [
-        'For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.',
-        'Martin Luther',
+    '0433c767-dddc-5707-9e8f-22d252368f12' => [
+        'Success is dependent on effort.',
+        'Sophocles',
     ],
-    'c8a60221-1811-58a1-9373-44ce9b76130b' => [
-        'Things are never quite as scary when you\'ve got a best friend.',
-        'Bill Watterson',
+    '3db5c965-ec87-5448-8ed7-eafd3005dd7b' => [
+        'She felt like a chess player who, by the clever handling of his pieces, sees the game taking the course intended. Her eyes were bright and tender with a smile as they glanced up into his; and her lips looked hungry for the kiss which they invited.',
+        'Kate Chopin',
     ],
-    'c36f0e90-1b91-5560-a493-624c822c164a' => [
-        'Courage is the discovery that you may not win, and trying when you know you can lose.',
-        'Unknown',
+    'e519c69b-e4c8-530c-9ec1-fd49d2eecef1' => [
+        'The best things in life are silly.',
+        'Scott Adams',
     ],
-    '97966c6f-946d-5388-8ccd-8fd0cb5ed610' => [
-        'The thing is that love gives us a ringside seat on somebody else\'s flaws, so of course you\'re gonna spot some things that kinda need to be mentioned. But often the romantic view is to say, \'If you loved me, you wouldn\'t criticise me.\' Actually, true love is often about trying to teach someone how to be the best version of themselves.',
-        'Alain de Botton',
+    '439e3175-9bb1-55ff-ae0e-0f417a761af5' => [
+        'The airplane stays up because it doesn\'t have the time to fall.',
+        'Orville Wright',
     ],
-    '76c47b4b-7de2-5071-859e-2af3d65c4596' => [
-        'Success is an absurd, erratic thing. She arrives when one least expects her and after she has come may depart again almost because of a whim.',
-        'Alice Foote MacDougall',
+    '1f158483-0bd7-5236-ab06-0a4b4d0840fe' => [
+        'I have kind of a funny relationship with movies. I don\'t have to see the whole movie to get an impression of it or to let it have an influence on me.',
+        'Lana Del Rey',
     ],
-    '19a22d95-c326-5c78-992f-a34943394396' => [
-        'America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, even eaten with people who in America would have been considered \'white,\' but the \'white\' attitude had been removed from their minds by the religion of Islam.',
-        'Malcolm X',
+    'e7378707-3fdb-5a91-bff0-c6e2c7c2492e' => [
+        'I think the deafness affects me more than I realise; I think it makes me more tired. I loathe parties. I attend, smile and leave.',
+        'Stephanie Beacham',
     ],
-    '75b494c4-2fe9-5109-82a2-2a17c417be00' => [
-        'I try and have a relaxed attitude and stay quite switched off until about an hour before kick-off.',
-        'Roy Keane',
+    'b0a8483e-c274-5d07-b30b-130fb882c471' => [
+        'For \'Around the World in 80 Plates\' we got to travel all over, having what was like a cross between a culinary competition and races. And in each country we had a chef Ambassador. We went to London, Barcelona, Bologna, Hong Kong, Thailand, Morocco... It was amazing.',
+        'Curtis Stone',
     ],
-    '58c34900-1286-52c8-8fa8-d94cc5ac5de0' => [
-        'Hollywood needs to recognise all shades of African American beauty.',
-        'Gabrielle Union',
+    '288d9879-1918-5fdc-bc8c-7d5800727878' => [
+        'Next to being witty, the best thing is being able to quote another\'s wit.',
+        'Christian Nestell Bovee',
     ],
-    '4564cf2b-34fe-5884-8ff0-95236aa5165a' => [
-        'Life hands us a lot of hard choices, and other people can help us more than we might realize. We often think we should make important decisions using just our own internal resources. What are the pros and cons? What does my gut tell me? But often we have friends and family who know us in ways we don\'t know ourselves.',
-        'Sheena Iyengar',
+    '7bff62b9-34d8-5575-9b2a-231e534be615' => [
+        'Tomorrow is the most important thing in life. Comes into us at midnight very clean. It\'s perfect when it arrives and it puts itself in our hands. It hopes we\'ve learned something from yesterday.',
+        'John Wayne',
     ],
-    'f43e616f-5292-575c-9c6f-6868f9e7b61c' => [
-        'Every one has her own love life. Every one has a dream to get a perfect life partner. But this is not so easy in real life. In fact, one doesn\'t love; it happens.',
-        'Ariana Grande',
+    '114793ac-036c-5178-8bce-705807517271' => [
+        'Variety\'s the very spice of life, That gives it all its flavor.',
+        'Rachael Ray',
     ],
-    '1fcf8de4-1ce2-55d5-ac12-341fe0eab138' => [
-        'Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.',
-        'Richard Needham',
+    '5a668940-cdea-592e-9861-819a486d4896' => [
+        'I travel all the time, but when I come back to the South, I see such progress. In a real sense, a great deal of the South has been redeemed. People feel freer, more complete, more whole, because of what happened in the movement.',
+        'John Lewis',
     ],
-    '03f1a650-8555-5dbd-a06c-7bfad204e119' => [
-        'Colors are the smiles of nature.',
-        'Leigh Hunt',
+    'f62a7d66-582b-50ac-beb9-8c443954f5bb' => [
+        'I can see a day soon where you\'ll create your own college degree by taking the best online courses from the best professors from around the world - some computing from Stanford, some entrepreneurship from Wharton, some ethics from Brandeis, some literature from Edinburgh - paying only the nominal fee for the certificates of completion.',
+        'Thomas Friedman',
     ],
-    'e55433fb-6e3d-54aa-9758-e4deedaf7ac0' => [
-        'Coca-Cola is the only business in the world where no matter which country or town or village you are in, if someone asks what do you do, and you say you work for Coca-Cola, you never have to answer the question, \'What is that?\'',
-        'Muhtar Kent',
+    '1a1a22c5-2752-5be9-972c-8eae2db31f03' => [
+        'Our character is not so much the product of race and heredity as of those circumstances by which nature forms our habits, by which we are nurtured and live.',
+        'Marcus Tullius Cicero',
     ],
-    'c252bd04-887b-5964-8ed4-9a35d1d60e6f' => [
-        'Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.',
-        'Albert Schweitzer',
+    'af0dcbda-4c42-5216-b1dd-7b6802540988' => [
+        'The true way to be humble is not to stoop until you are smaller than yourself, but to stand at your real height against some higher nature that will show you what the real smallness of your greatness is.',
+        'Phillips Brooks',
     ],
-    '4b1c7198-d0de-5c04-82a4-4ae9743fd05c' => [
-        'Bad things do happen; how I respond to them defines my character and the quality of my life. I can choose to sit in perpetual sadness, immobilized by the gravity of my loss, or I can choose to rise from the pain and treasure the most precious gift I have - life itself.',
-        'Johann Wolfgang von Goethe',
+    '4530fe01-ebff-5efb-9837-eca1d696880c' => [
+        'Without a family, man, alone in the world, trembles with the cold.',
+        'Andre Maurois',
     ],
-    'ec196b77-f5c8-5f2c-80c4-091c1dcc80ec' => [
-        'A good boss makes his men realize they have more ability than they think they have so that they consistently do better work than they thought they could.',
-        'Charles Erwin Wilson',
+    '2964cea5-17ea-592c-a7dd-7d6219aabc81' => [
+        'When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.',
+        'Confucius',
     ],
-    'd89ada99-fca6-5a05-8f04-1aebca7f32fe' => [
-        'We live in deeds, not years; in thoughts, not breaths; in feelings, not in figures on a dial. We should count time by heart throbs. He most lives who thinks most, feels the noblest, acts the best.',
-        'Aristotle',
+    'f63f5bea-db55-5d50-905a-02d529d5d760' => [
+        'On reflection, I am always pleasantly surprised when ordinary members of the public stop me in the street to say, \'Thank you,\' I guess for making travel and other goods and services affordable to them.',
+        'Stelios Haji-Ioannou',
     ],
-    '25248b8f-661b-5ee2-bcbb-e0091f498081' => [
-        'The ultimate value of life depends upon awareness and the power of contemplation rather than upon mere survival.',
-        'Cindy Morgan',
+    'f05e6c0a-5eb1-5402-842b-c2134a93a941' => [
+        'When people divorce, it\'s always such a tragedy. At the same time, if people stay together it can be even worse.',
+        'Monica Bellucci',
     ],
-    'd86679de-7617-5300-b1bb-03e5910553d9' => [
-        'Good leaders need a positive agenda, not just an agenda of dealing with crisis.',
-        'Michael Porter',
+    '96251325-f3ae-5ab0-9788-ff22e77faaee' => [
+        'Moderation is a virtue only in those who are thought to have an alternative.',
+        'Henry Kissinger',
     ],
-    '4b425a3b-ae43-5b31-a523-2f761f1a79c2' => [
-        'It can\'t be spring if your heart is filled with past failures.',
-        'Byron Pulsifer',
+    'c36e5285-1c37-5a47-bfda-553fe85741c8' => [
+        'My whole life is about winning. I don\'t lose often. I almost never lose.',
+        'Marcus Aurelius',
     ],
-    'e103002f-a4e3-5326-9143-aeb7b60b7e1b' => [
-        'People who urge you to be realistic generally want you to accept their version of reality.',
-        'Unknown',
+    '301d4b1f-06f2-5395-95a4-0e74373ac710' => [
+        'I wrote \'(\'Til) I Kissed You\' about a girl I met in Australia. Her name was Lilian, and she was very, very inspirational. I was married, but... I wrote the song about her on the way back home.',
+        'Don Everly',
     ],
-    '7b3a3a1a-8e8c-5c28-8a17-2a10ebaadd5a' => [
-        'Even with all the negativeness of the whole social media thing, I still think it\'s leaps and bounds more positive.',
-        'Luke Bryan',
+    'ffe5a912-ddb8-593b-b565-2b4f1a93219f' => [
+        'Suffering by nature or chance never seems so painful as suffering inflicted on us by the arbitrary will of another.',
+        'Arthur Schopenhauer',
     ],
-    '0ad67ecd-ca87-59f9-bbfc-12a090b29481' => [
-        'Careers, like rockets, don\'t always take off on time. The trick is to always keep the engine running.',
-        'Gary Sinise',
+    '37ca2ef9-bbd4-5ff6-9752-28a7e14dc01d' => [
+        'Many people will try to Sell you a Dream, its Your place to let them know you Already have one',
+        'Kalon Jackson',
     ],
-    'b041bece-f994-5ddd-85ca-e265a4ab5edc' => [
-        'Please, no matter how we advance technologically, please don\'t abandon the book. There is nothing in our material world more beautiful than the book.',
-        'Patti Smith',
+    'b3ed7cc7-f5b8-594c-9830-66453de596e7' => [
+        'I\'m very lighthearted, outgoing, friendly, and funny, so I like to try new things.',
+        'Chandler Parsons',
     ],
-    '9d3a064f-89fa-5272-94e6-e0bee354159f' => [
-        'When a man tells you that he got rich through hard work, ask him: \'Whose?\'',
-        'Don Marquis',
+    '0e4c1cfe-af3f-5eb7-bdc5-3572e3a1907e' => [
+        'Learn from me, if not by my precepts, then by my example, how dangerous is the pursuit of knowledge and how much happier is that man who believes his native town to be the world than he who aspires to be greater than his nature will allow.',
+        'Mary Wollstonecraft',
     ],
-    '820e5792-cfc6-56dc-a640-9f28cfc9e9c0' => [
-        'Arriving at one goal is the starting point to another.',
-        'John Dewey',
+    '40b76f4e-4692-5fdb-be5e-72826f798fa9' => [
+        'Remember that failure is an event, not a person.',
+        'Zig Ziglar',
     ],
-    'ca52eadb-94fd-5690-8ae4-51bf9361b62b' => [
-        'Everything happens to everybody sooner or later if there is time enough.',
-        'George Bernard Shaw',
+    '4b4af067-4234-5aea-8357-467a61eadd0f' => [
+        'My everyday beauty routine is always rushed and pretty simple.',
+        'Cate Blanchett',
     ],
-    'df6c1797-8106-5dc9-82eb-b672a88319cb' => [
-        'I\'ve decided to run for the U.S. Senate because I believe Wisconsin families need a senator who will work hard to deliver results for the middle class - a leader with the courage to do what\'s right, no matter how tough the odds or how powerful the special interests we have to fight.',
-        'Tammy Baldwin',
+    '2d0bc083-7535-5bfe-89bd-942ea87b61b9' => [
+        'I have a couple of go-to sneakers off the pitch. I like to have shoes that I can slip on and wear with anything. I travel often, so it\'s about finding those two or three pairs of shoes that can go with any outfit, whether they go with leggings or a skirt or a dress or jeans.',
+        'Alex Morgan',
     ],
-    '65822e0d-bb82-5f4c-be65-5aea5fda8701' => [
-        'Step by step and the thing is done.',
-        'Charles Atlas',
+    'cbd45f63-1ae7-58e3-a59b-a4ee5ab99ebb' => [
+        'My first experiences of academic friendship made me smile in after years when I looked back on them. But my circle of acquaintances had gradually grown so large that it was only natural new friendships should grow out of it.',
+        'Georg Brandes',
     ],
-    '61cf051c-21b3-520b-8edb-3786837d7cc5' => [
-        'Do you know, it\'s funny, but I never thought of being blind as a disadvantage, and I never thought of being black as a disadvantage.',
-        'Stevie Wonder',
+    '6ab932fe-5f9b-54f2-8a7a-38b1de801484' => [
+        'Trying to understand the way nature works involves a most terrible test of human reasoning ability. It involves subtle trickery, beautiful tightropes of logic on which one has to walk in order not to make a mistake in predicting what will happen. The quantum mechanical and the relativity ideas are examples of this.',
+        'Richard P. Feynman',
     ],
-    'd147f741-3a0e-5aa1-899a-63ddac065143' => [
-        'Women in particular need to keep an eye on their physical and mental health, because if we\'re scurrying to and from appointments and errands, we don\'t have a lot of time to take care of ourselves. We need to do a better job of putting ourselves higher on our own \'to do\' list.',
-        'Michelle Obama',
+    'f6023af4-6079-562c-81c5-31f1bbb2a76d' => [
+        'I think I have a hard time expressing myself in my relationships. I use songs to tell people how I\'m feeling. If I can\'t say \'I love you,\' I\'ll write a song about it and hope that the person figures it out.',
+        'Jenny Lewis',
     ],
-    '1f6aa686-bd12-54b3-b08c-5c87df2a68c4' => [
-        'Life is too short to be doing work that doesn\'t make you feel happy and fulfilled. I\'d rather wait for the right project, as opposed to just taking whatever is handed to me.',
-        'Amanda Crew',
+    '8894f2aa-302b-5f2f-8494-205de7666226' => [
+        'I\'ve never run into a guy who could win at the top level in anything today and didn\'t have the right attitude, didn\'t give it everything he had, at least while he was doing it; wasn\'t prepared and didn\'t have the whole program worked out.',
+        'Ted Turner',
     ],
-    '1ba905ff-eef2-57fd-aa2a-8b6aeaa276e5' => [
-        'Life is the art of drawing without an eraser.',
-        'Walt Disney',
+    'f18727df-1282-59f2-bcbc-14a50450f131' => [
+        'I was very pleased that the positive things about me and my game outshone the aggressive style of play I use. I would never tone that down, because I believe in that style of play, and I believe that you can play rough on the court and still be a good sport.',
+        'Sue Wicks',
     ],
 ];

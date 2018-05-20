@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'f945ea25-657d-5de7-b382-841e86245933' => [
-        'I love Thanksgiving because it\'s a holiday that is centered around food and family, two things that are of utmost importance to me.',
-        'Marcus Samuelsson',
+    'd4abd1ac-f034-5742-a407-dcc67d6eb2ac' => [
+        'Worrying is stupid. It\'s like walking around with an umbrella waiting for it to rain.',
+        'Wiz Khalifa',
     ],
-    '80672a9e-52c1-56de-a7bb-6928363b7b10' => [
-        'I am the family face; flesh perishes, I live on.',
-        'Thomas Hardy',
+    'ba042902-9849-584e-a68f-e32e013182b5' => [
+        'A desire to be in charge of our own lives, a need for control, is born in each of us. It is essential to our mental health, and our success, that we take control.',
+        'Robert Foster Bennett',
     ],
-    '9ea4f683-b745-55c1-8d0f-dd7b778f1d5d' => [
-        'It is not enough to have a good mind; the main thing is to use it well.',
-        'Rene Descartes',
+    'db8c9c60-4471-5aec-9c14-fd7ce4f63e2e' => [
+        'Through hard work and education, we can deliver a strong economy and opportunity for all.',
+        'Julia Gillard',
     ],
-    'ed0fa02f-6fe9-5d13-a068-8f6d3a95a8ca' => [
-        'It is not what he has, or even what he does which expresses the worth of a man, but what he is.',
-        "Henri-Fr\u{e9}d\u{e9}ric Amiel",
+    '66762a53-2ed5-538f-a7ca-985c48a49273' => [
+        'The development of our human resources is an area in which we need to do well as it is decisive in determining the success of our diversification programme.',
+        'Hassanal Bolkiah',
     ],
-    'a0bf552a-23cf-555c-847c-5a5b5c6cf195' => [
-        'Great minds are related to the brief span of time during which they live as great buildings are to a little square in which they stand: you cannot see them in all their magnitude because you are standing too close to them.',
-        'Arthur Schopenhauer',
+    'aebecd71-9809-5e1f-8110-914d9217e493' => [
+        'Our birthdays are feathers in the broad wing of time.',
+        'Jean Paul',
     ],
-    '6bab5a14-2403-5d7d-b972-ea19eb5aac93' => [
-        'The smile on your face lets me know that you need me, there\'s a truth in your heart that says you\'ll never leave me, and the touch of your hand says you\'ll catch me whenever I fall.',
-        'Alison Krauss',
+    'f706e671-a1e9-506b-9fb1-333f9214fbd4' => [
+        'I\'ve been searching for ways to heal myself, and I\'ve found that kindness is the best way.',
+        'Lady Gaga',
     ],
-    'd91901ba-bcf6-54f1-acbc-48390371f19d' => [
-        'The quality of your life is determined by the quality of your relationships. The quality of your business is no different.',
-        'Kareena Kapoor Khan',
+    '4044f04d-b789-5517-9f06-6747f255bf26' => [
+        'Chaos in the midst of chaos isn\'t funny, but chaos in the midst of order is.',
+        'Steve Martin',
     ],
-    'b807db1d-bc5f-5224-8d1c-44612b9e9045' => [
-        'Come forth into the light of things, let nature be your teacher.',
-        'William Wordsworth',
+    '4b4f34e6-8ce8-5208-8a3f-810ac6922eb7' => [
+        'Our success educationally, industrially and politically is based upon the protection of a nation founded by ourselves. And the nation can be nowhere else but in Africa.',
+        'Marcus Garvey',
     ],
-    'a30ca387-724c-5af3-a2d2-2b66b0594d13' => [
-        'My dad has an incredible passion for living life, and he\'s really, really funny, so he definitely encourages me to enjoy all aspects of life. He\'s very proud of me and definitely encourages my career path, and we have a good time talking about work.',
-        'Spencer Grammer',
+    'e554d6b7-87a2-53f0-a053-46ce91b1eaf0' => [
+        'If we can produce more ethanol and bio-diesel to help fuel our vehicles, we will create jobs, boost local economies and produce cleaner burning fuels. This will keep dollars here at home where they can have a positive impact on our economy.',
+        'Rick Renzi',
     ],
-    '52534313-937f-5117-9d20-0a09411b9c1c' => [
-        'Can anything be sadder than work left unfinished? Yes, work never begun.',
-        'Christina Rossetti',
+    '97e77ba5-f097-5e7e-a668-b546c8dd67a1' => [
+        'Where men of judgment creep and feel their way, The positive pronounce without dismay.',
+        'William Cowper',
     ],
-    '9c0af348-6ea0-5a5d-9c54-b0e4fa681257' => [
-        'Never write an advertisement which you wouldn\'t want your family to read. You wouldn\'t tell lies to your own wife. Don\'t tell them to mine.',
-        'David Ogilvy',
+    '1798b10d-abf9-5304-b340-40a4dd16de85' => [
+        'If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.',
+        'Anne Lindbergh',
     ],
-    '9e9fd255-7c13-57bd-9518-eb5ef3e42284' => [
-        'We smile at the ignorance of the savage who cuts down the tree in order to reach its fruit; but the same blunder is made by every person who is over eager and impatient in the pursuit of pleasure.',
-        'William Ellery Channing',
+    'b8b86dae-bfed-577a-8d0f-2b42ebfe3d57' => [
+        'I am in the fighting game. I don\'t care about anything else. I don\'t watch the news, I don\'t care about politics, I don\'t care about other sports. I don\'t care about anything I don\'t need to care about. This is my sport: it is my life. I study it; I think about it all the time. Nothing else matters.',
+        'Conor McGregor',
     ],
-    '197af72f-4157-515d-8d18-b41f26167f5b' => [
-        'The bottom line: if you want a happier family, create, refine and retell the story of your family\'s positive moments and your ability to bounce back from the difficult ones. That act alone may increase the odds that your family will thrive for many generations to come.',
-        'Bruce Feiler',
+    '5519d98e-5daa-5699-98a7-a7d806a77cc2' => [
+        'I always tell people, \'The music\'s free. I get paid to travel.\'',
+        'Chris Stapleton',
     ],
-    '9be0ca37-457c-5757-b3b9-517c3777644e' => [
-        'My only responsibility as a playwright and a storyteller is to give you the time of your life in the theatre. I just happen to think that with Hamilton\'s story, sticking close to the facts helps me. All the most interesting things in the show happened.',
-        'Lin-Manuel Miranda',
+    'cd44a485-35ef-5687-b3ef-133dbdf2d276' => [
+        'The bird of paradise alights only upon the hand that does not grasp.',
+        'John Berry',
     ],
-    '9bf52e9c-5253-5374-bb01-1374f7a38974' => [
-        'Most of us start out with a positive attitude and a plan to do our best.',
-        'Marilu Henner',
+    'ef67137c-5d5a-5f07-a901-f4f1fbf60c4b' => [
+        'If we listened to our intellect, we\'d never have a love affair. We\'d never have a friendship. We\'d never go into business, because we\'d be cynical. Well, that\'s nonsense. You\'ve got to jump off cliffs all the time and build your wings on the way down.',
+        'Ray Bradbury',
     ],
-    'd255210d-943e-5e2c-b9cd-7085afac89ed' => [
-        'A work of art is above all an adventure of the mind.',
-        'Eugene Ionesco',
+    '42a892c8-a5d7-5992-9da1-1fed9186f329' => [
+        'Flattery is like cologne water, to be smelt, not swallowed.',
+        'Josh Billings',
     ],
-    'b6269d00-588b-5037-be97-d3c65d0aca4c' => [
-        'I\'m having a great time. It\'s like I\'m on some ridiculous big roller coaster not knowing what\'s happening next, but just having a great time on the ride.',
-        'Samantha Mumba',
+    '2ccf041b-8eb0-5386-b704-f78b23cc7a06' => [
+        'Dear disgruntled artists: the key to success isn\'t kicking down the door; it\'s building your own.',
+        'Brian Celio',
     ],
-    'b70dfa55-aa76-5664-8dda-6852fb87f00e' => [
-        'My life comes down to three moments: the death of my father, meeting my husband, and the birth of my daughter. Everything I did previous to that just doesn\'t seem to add up to very much.',
-        'Gwyneth Paltrow',
+    '113c3006-a163-5581-b52e-a01ac3d73161' => [
+        'Take no thought of who is right or wrong or who is better than. Be not for or against.',
+        'Bruce Lee',
     ],
-    '9f6412be-721e-5513-9242-a8a41a4e69e3' => [
-        'Mostly, when I travel, I want to represent my own work well and let others know how I feel about poetry being an important part of life.',
-        'Tim Seibles',
+    '5bf18685-08f7-55ff-85f5-aaee5c18ca02' => [
+        'Yes, we\'re still five little people with a noisy attitude.',
+        'Angus Young',
     ],
-    '67262e0e-5576-5d11-9d1c-8bad32e40fbf' => [
-        'There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge.',
-        'Baltasar Gracian',
+    'd8bbc1a0-e0ed-533b-83a5-075a76720cd8' => [
+        'Whatever your life\'s work is, do it well. A man should do his job so well that the living, the dead, and the unborn could do it no better.',
+        'Martin Luther King, Jr.',
     ],
-    '177455da-caa2-50af-8601-ca317ca30ebd' => [
-        'Success for an athlete follows many years of hard work and dedication.',
-        'Michael Diamond',
+    'e1d1a2e7-5657-57f5-99ef-5cac01d6355b' => [
+        'The roots of true achievement lie in the will to become the best that you can become.',
+        'Harold Taylor',
     ],
-    '1c9f4eb4-e7f3-5e88-a55c-3c399336bac4' => [
-        'Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best.',
-        'Napoleon Hill',
+    'bd65743e-d945-5df2-bed2-01fcad04122d' => [
+        'Hide nothing, for time, which sees all and hears all, exposes all.',
+        'Sophocles',
     ],
-    'fdf429a2-0690-5c87-9fd6-332899824cfc' => [
-        'The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do.',
-        'Galileo Galilei',
+    'd142465d-328a-5ad2-9e07-144266e6c9e4' => [
+        'Hard work without talent is a shame, but talent without hard work is a tragedy.',
+        'Robert Half',
     ],
-    '0c7e367b-0a62-5c3c-8e00-1c65f06df6f7' => [
-        'The best road to progress is freedom\'s road.',
-        'John F. Kennedy',
+    '744c6708-e4f2-5d79-aa7b-327cdf074b81' => [
+        'I think there are some liberals who are extremely biased about Fox News and wish to shun it or wish to criticize any liberal who appears on Fox News. That, to me, is not a particularly liberal attitude.',
+        'Alan Colmes',
     ],
-    '5bc15d83-aa1b-56f1-8409-ba6fe1418c9b' => [
-        'Nothing will work unless you do.',
-        'Maya Angelou',
+    'a8003830-6e20-5307-90c6-0fe4a26c8eb9' => [
+        'Keep up the good work, if only for a while, if only for the twinkling of a tiny galaxy.',
+        'Wislawa Szymborska',
     ],
-    '70f8d118-80c4-5361-9c67-7348675ba552' => [
-        'As the time goes by, you change, your learn new things, your attitude is different. For the moment, I\'m still enjoying ski racing so much that it would be difficult for me to think about ending my career.',
-        'Hermann Maier',
+    'b1728c16-4df5-52c2-a5ee-fc8eaa65ed3d' => [
+        'As you become more clear about who you really are, you\'ll be better able to decide what is best for you - the first time around.',
+        'Oprah Winfrey',
     ],
-    '975b4272-14b0-5de9-833c-76a97fb052a8' => [
-        'Ignorance, hatred and greed are killing nature.',
-        'Masanobu Fukuoka',
+    '94195628-533a-56dc-8ced-4d2c937ab8ca' => [
+        'All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.',
+        'Alexis Carrel',
     ],
-    '98e29a3e-e0a7-57e1-977d-45eac30f2415' => [
-        'I will keep smiling, be positive and never give up! I will give 100 percent each time I play. These are always my goals and my attitude.',
-        'Yani Tseng',
+    'cf23a230-fa6b-5514-813e-f3aeb8931fd5' => [
+        'A forest bird never wants a cage.',
+        'Henrik Ibsen',
     ],
-    'f527ccf8-fda6-5482-8bf1-cdbe08cce3c9' => [
-        'Your children are not your children. They are the sons and daughters of Life\'s longing for itself. They came through you but not from you and though they are with you yet they belong not to you.',
-        'Khalil Gibran',
+    'bbc6021c-ac53-509e-aa69-473986e38b19' => [
+        'A short saying often contains much wisdom.',
+        'Sophocles',
     ],
-    '21dc93ca-6000-5b3f-b8c2-a7eb1a2bbe9a' => [
-        'I don\'t know, maybe Australian humour isn\'t supposed to be funny. It\'s as dry as the Sahara, and I think people miss that.',
-        'Nick Cave',
+    '3ec77f3b-37de-5285-945e-13fedfa08eb7' => [
+        'There\'s no road map on how to raise a family: it\'s always an enormous negotiation.',
+        'Meryl Streep',
     ],
-    'f7b51d28-e6e8-5af8-992c-77f09e90683f' => [
-        'I grew up very differently than a lot of other people in my hometown in Mississippi. But I can\'t imagine my life any other way. I flew home and surprised my best friend at his graduation, and I remember turning to my mom and saying, \'My graduation was so much cooler than this.\' I had Melissa Joan Hart give my commencement speech.',
-        'Friedrich Nietzsche',
+    'e73d0a4b-a110-5046-9fac-3329d63b7444' => [
+        'Few will have the greatness to bend history itself; but each of us can work to change a small portion of events, and in the total; of all those acts will be written the history of this generation.',
+        'Robert Kennedy',
     ],
-    '9902d2be-6974-53d4-8439-bf1324341a55' => [
-        'As my family story shows, Latinos have been a blessing for USA for many generations. The future of America depends in part on the success of the Latino community, and this opportunity is just one more signifier of that.',
-        'Julian Castro',
+    '7527796a-31e7-5bb8-92da-aaf6999c04d6' => [
+        'If you really look closely, most overnight successes took a long time.',
+        'Steve Jobs',
     ],
-    '60c0090c-614d-52ba-a8fb-b19398ca38af' => [
-        'Almost every college playwright or sketch or improv comedian was sort of aware of Christopher Durang - even kids in high school. His short plays were so accessible to younger people and I think that was inspirational to me.',
-        'Mindy Kaling',
+    '4d198945-be2a-57c0-b103-adc2c049f2f7' => [
+        'There is never time in the future in which we will work out our salvation. The challenge is in the moment; the time is always now.',
+        'James A. Baldwin',
     ],
-    '0f2a71b1-29a9-5296-af55-1ad83ae27e60' => [
-        'He conquers who endures.',
-        'Persius',
+    'ad29932e-b010-50c5-84b6-4b9d64ad10b1' => [
+        'The success and the failure are not my concern, but His.',
+        'Joseph Barber Lightfoot',
     ],
-    'fc8594d0-9ae1-5593-988b-d3313e50ef29' => [
-        'Reading - the best state yet to keep absolute loneliness at bay.',
-        'William Styron',
+    '2c28d908-121a-51f9-a95c-d0480606b792' => [
+        'The privilege I\'ve had as a curator is not just the discovery of new works... but what I\'ve discovered about myself and what I can offer in the space of an exhibition - to talk about beauty, to talk about power, to talk about ourselves, and to talk and speak to each other.',
+        'Thelma Golden',
     ],
-    'd651942f-e871-53cc-9250-cc9ae786371e' => [
-        'History will be kind to me for I intend to write it.',
-        'Winston Churchill',
+    '934f42e8-b93d-592a-8f40-4eb19b0614ea' => [
+        'I\'d rather not have a moment when I\'m known for my looks; being funny and interesting lasts longer.',
+        'Kelly Ripa',
     ],
-    '818b145c-8987-5de0-a3ea-a29fe398c969' => [
-        'You\'ve got to eat while you dream. You\'ve got to deliver on short-range commitments, while you develop a long-range strategy and vision and implement it. The success of doing both. Walking and chewing gum if you will. Getting it done in the short-range, and delivering a long-range plan, and executing on that.',
-        'Jack Welch',
+    '80da4439-d0b5-5776-936f-b535f603fb22' => [
+        'When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable.',
+        'Clifton Fadiman',
     ],
-    'be5343fe-dba2-5fac-9feb-e492ba730504' => [
-        'If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.',
-        'Ralph Emerson',
+    'a5457a76-fc4f-59ee-8fc3-319cae9c7f5c' => [
+        'Life\'s tragedy is that we get old too soon and wise too late.',
+        'Ella Woodward',
     ],
-    'feef335b-c7f0-5a9d-abb7-daef05b288db' => [
-        'The compensation of a very early success is a conviction that life is a romantic matter. In the best sense one stays young.',
-        'F. Scott Fitzgerald',
+    'e444f8f7-485d-52b9-b510-b12f12e35a72' => [
+        'I used to jog but the ice cubes kept falling out of my glass.',
+        'David Lee Roth',
     ],
-    '880795fd-817f-57df-ab11-681a5158d454' => [
-        'Nature teaches more than she preaches. There are no sermons in stones. It is easier to get a spark out of a stone than a moral.',
-        'John Burroughs',
+    '15ba15e9-c95c-5ac3-aa89-bf262285c412' => [
+        'To label me an intellectual is a misunderstanding of what that is.',
+        'Dick Cavett',
     ],
-    'afa02029-4180-53fb-a11a-cddd5b23c2f1' => [
-        'Housework can\'t kill you, but why take a chance?',
-        'Phyllis Diller',
+    'e5920f86-c99b-549d-ae69-bb792e682c79' => [
+        'I wish I could say I see my little brother more. We used to fight all the time but now that I don\'t see him very often I cherish the time I have with him.',
+        'Zac Efron',
     ],
-    '2febe797-c33a-572e-a78a-6aba31dab003' => [
-        'Nature gives to every time and season some beauties of its own; and from morning to night, as from the cradle to the grave, it is but a succession of changes so gentle and easy that we can scarcely mark their progress.',
-        'Charles Dickens',
+    '2bde38e6-a28e-520d-aa0e-c78a89467b41' => [
+        'Set your sights high, the higher the better. Expect the most wonderful things to happen, not in the future but right now. Realize that nothing is too good. Allow absolutely nothing to hamper you or hold you up in any way.',
+        'Eileen Caddy',
     ],
-    '32ae02a1-e0a0-5579-b81f-52c7d81a0ab3' => [
-        'We must travel in the direction of our fear.',
-        'John Berryman',
+    'e1f18336-b02e-57d3-97f6-1ff131796fd6' => [
+        'I remember one day sitting at the pool and suddenly the tears were streaming down my cheeks. Why was I so unhappy? I had success. I had security. But it wasn\'t enough. I was exploding inside.',
+        'Ingrid Bergman',
     ],
-    'f455133b-33ef-5354-b775-40905a7f5ae2' => [
-        'Success is a high, but the way up is hard, and you have to give your all.',
-        'Randeep Hooda',
+    '96a62d48-187a-51f9-8e80-216ef96386e7' => [
+        'It\'s funny how the music industry is enraged about the Internet and the way things are copied without being paid for. But you know why people steal the music? Because they can\'t afford the music.',
+        'Tom Petty',
     ],
-    'ede06015-a068-58ad-b43e-e18d472faf25' => [
-        'I have done my best: that is about all the philosophy of living one needs.',
-        'Lin-yutang',
+    '0a04ff19-3d44-5fdf-875a-165b69801121' => [
+        'Age does not protect you from love. But love, to some extent, protects you from age.',
+        'Anais Nin',
     ],
-    '3e01af37-ea64-5315-8113-540bc31a1570' => [
-        'I\'m a car fanatic and each morning I wake up with a smile on my face, whether I\'m commentating on the Formula One or at Silver Hatch racetrack in Roary the Racing Car.',
-        'Murray Walker',
+    '9fd4b244-8e54-587d-9942-665c47875938' => [
+        'Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.',
+        'Wayne Dyer',
     ],
-    'b0bf13b0-b4db-5248-8fbd-3085a463a813' => [
-        'I was born into a very religious family where everything was about setting the right example for the community and having to obey orders blindly. I felt that everyone was growing up in the world, except me. This is probably one of the reasons why I had such a rebellious attitude towards any form of authority.',
-        'Grace Jones',
+    '7c3524cd-f6df-5ee4-ad9b-89666be40fab' => [
+        'From there to here, and here to there, funny things are everywhere.',
+        'Dr. Seuss',
     ],
-    '77cb8ae5-fa82-5be3-bb84-5e8864f0059b' => [
-        'Tears of joy are like the summer rain drops pierced by sunbeams.',
-        'Hosea Ballou',
+    'ceee9349-ae4a-59b9-b4e5-9299ce6a2e39' => [
+        'Those who are free of resentful thoughts surely find peace.',
+        'Buddha',
     ],
-    '9d81f925-fbb6-50ad-950c-761abe17a1b1' => [
-        'Success is often the result of taking a misstep in the right direction.',
-        'Al Bernstein',
+    '49d6e6f4-7ae3-5b69-aa3c-2f29c1b6fe89' => [
+        'Good leadership consists of showing average people how to do the work of superior people.',
+        'John D. Rockefeller',
     ],
-    '3b4da0ac-d0c5-5733-a3cd-17ef7504608b' => [
-        'We are all born mad. Some remain so.',
-        'Samuel Beckett',
+    'c0aa7944-edcf-5d68-a111-b10745a9a357' => [
+        'I can\'t imagine anything more worthwhile than doing what I most love. And they pay me for it.',
+        'Edgar Winter',
     ],
 ];

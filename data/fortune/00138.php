@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'ac9d6b94-7048-5bb5-9071-90d1495312e3' => [
-        'I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.',
-        'Ranbir Kapoor',
+    'b72a6cf8-9609-50d9-bbb7-6b71d9290c5c' => [
+        'Do good by stealth, and blush to find it fame.',
+        'Alexander Pope',
     ],
-    'e77466b1-77e7-5226-8739-733ede5d8696' => [
-        'Hard work and dedication is important to success, and I have those qualities.',
-        'Nargis Fakhri',
+    '8e394cf6-e13c-5a98-a85e-7e3addacecae' => [
+        'At Princeton I gained a great deal of pleasure from success in my classes. knowing that I could accomplish those things, and I realized that my success was directly proportionate to the work I put in.',
+        'Brooke Shields',
     ],
-    '32e08e12-f43d-5afd-8b53-25a4756fb48d' => [
-        'I love hanging out with friends and family.',
-        'Ashley Wagner',
+    'c14c672e-74f3-5499-a46f-5f8357bf835a' => [
+        'People don\'t associate red hair, pale skin, and freckles with beauty.',
+        'Shirley Manson',
     ],
-    '3a665601-34d5-5bb7-b233-e8881956c2af' => [
-        'All these jokes have been pre-approved as funny by me.',
-        'Mitch Hedberg',
+    '86f1aab7-8705-5389-be4e-7cc727d52fba' => [
+        'Faith, family, academics and then sports was the order of priorities in my family. My parents really stuck to these principles when raising me and my two brothers. As long as we took care of everything, they let us play as much basketball as we wanted.',
+        'Jeremy Lin',
     ],
-    '882989f7-b167-5396-b1b9-c6a8d22877fd' => [
-        'If you go through life, and you don\'t find the beauty in an unexpected place, then you really have a sad existence.',
-        'Octavia Spencer',
+    '5369424e-f9be-5646-b2fb-514c10445ff9' => [
+        'My real dream is to have a whole, like, buy a whole piece of land. Imagine, like, a long driveway. Like, a cul de sac-type street, with maybe, like, seven houses. Me be right here. Have my mom be able to be right here. My brother over here. My girl\'s grandmother and family right here. Friends over there. That\'s my real dream.',
+        'J. Cole',
     ],
-    'f35b9408-c5f4-5f23-a6c2-f28a15fedce0' => [
-        'The care of human life and happiness, and not their destruction, is the first and only object of good government.',
-        'Robert Henri',
+    'ea8d1613-47e3-5e5f-b832-e7457899fdb8' => [
+        'I try to give positive energy in all my shows.',
+        'Curtis Jones',
     ],
-    '6ca24fb8-03d9-5ce7-bcba-cbff11a46461' => [
-        'I have been able to have a family and to dedicate quality time to my two sets of twins and my husband, as well as to serve on the boards of The Michael J. Fox Foundation for Parkinson\'s Research and Montefiore Medical Center.',
-        'Karen Finerman',
+    '52a2c231-f0b8-5c5b-bed7-2e33a10ef5f6' => [
+        'I think the big problem this country has is being politically correct. I\'ve been challenged by so many people, and I don\'t frankly have time for total political correctness. And to be honest with you, this country doesn\'t have time either.',
+        'Donald Trump',
     ],
-    'e41a6b92-f2ee-56f5-be05-5e7cff62bc7c' => [
-        'My dad was a terrible father. Dreadful. But he had a very difficult childhood. He was fostered - he never knew who his father was. So he had a very different attitude to family and kids. I don\'t have any issues. I\'m not suffering some secret angst.',
-        'Mark Billingham',
+    'eb5d7560-030a-589e-825c-ed72b0ccbf38' => [
+        'Negotiation means getting the best of your opponent.',
+        'Marvin Gaye',
     ],
-    '1a3a3722-5b03-56ca-b467-59bc75251268' => [
-        'The reward of energy, enterprise and thrift is taxes.',
-        'William Feather',
+    'f888f070-0d5f-5f28-bfde-4a5c5d99e08c' => [
+        'If you are good at studies, and you want to play cricket, you may work harder than any other person, but you may not achieve it. So it\'s something you have to balance in life and be practical where you are good and then channelise your efforts in the right direction to be successful in life.',
+        'Mahendra Singh Dhoni',
     ],
-    'a49dc203-a913-58ac-a4e1-fa34c73adf59' => [
-        'The best move you can make in negotiation is to think of an incentive the other person hasn\'t even thought of - and then meet it.',
-        'Eli Broad',
+    'd0924704-eca6-50e8-aa38-764b5594c24e' => [
+        'I know not age, nor weariness nor defeat.',
+        'Rose Kennedy',
     ],
-    '3f7f0a86-5fcf-555e-98c8-1ea690949153' => [
-        'Intelligence is the source of technology. If we can use technology to improve intelligence, that closes the loop and potentially creates a positive feedback cycle.',
-        'Eliezer Yudkowsky',
+    'c51b3467-681d-5ee2-86f9-e6d74ae52b4f' => [
+        'The person born with a talent they are meant to use will find their greatest happiness in using it.',
+        'Johann Wolfgang von Goethe',
     ],
-    '65a9c741-d964-5c09-96d9-4f780c97426f' => [
-        'A good traveller is one who does not know where he is going to, and a perfect traveller does not know where he came from.',
-        'Lin Yutang',
+    '87bb6972-1204-526e-bddf-b09a59d615e4' => [
+        'There\'s no reason to hold yourself back and say you can\'t do something in life unless you go for it and try to do it.',
+        'Laura Esquivel',
     ],
-    'fffc1839-9307-521b-a8e2-9e5b55ba4841' => [
-        'It is better to fail in originality than to succeed in imitation.',
-        'Herman Melville',
+    'e739e5ab-fd37-5ccb-a1fc-26fc6561743f' => [
+        'That some achieve great success, is proof to all that others can achieve it as well.',
+        'Abraham Lincoln',
     ],
-    'c1aec752-66f3-5243-be29-204103e07ea4' => [
-        'Every person gets negative things, they learn from those negative things, and you become a positive person.',
-        'Kapil Dev',
+    '696bc564-fdfb-52c2-a872-024ac02b28aa' => [
+        'It is time for parents to teach young people early on that in diversity there is beauty and there is strength.',
+        'Maya Angelou',
     ],
-    '78208a1e-342e-515f-bc41-86709918dd19' => [
-        'What lies behind us and what lies before us are tiny matters compared to what lies within us.',
-        'Ralph Waldo Emerson',
+    'd677fc37-2dc4-5b9c-aa9b-72173fda50ba' => [
+        'Every day brings new choices.',
+        'Martha Beck',
     ],
-    'ce7ff1c4-2294-5b78-9a90-a049082ac35d' => [
-        'A man is a better citizen of the United States for being also a loyal citizen of his state and of his city; for being loyal to his family and to his profession or trade; for being loyal to his college or his lodge.',
-        'Louis D. Brandeis',
+    '205f7577-8d48-5c15-9c45-953dba57f33b' => [
+        'Forgiveness does not change the past, but it does enlarge the future.',
+        'Paul Boese',
     ],
-    '070506a8-693c-5c00-ac5a-3009d553b969' => [
-        'To me, acting used to be just, \'Get my face out there, get girls, make a little bit of money, make my mom proud.\' It was just like sports. But there were moments in \'Moonlight\' that I really felt like I had to know why he is the way he is. Or just people in general - why this person walks around with a frown on their face instead of a smile.',
-        'Trevante Rhodes',
+    '2ceb6e94-b822-54e0-bf61-429996047416' => [
+        'To those who have always wondered how they might best serve the wider world, wildlife conservation is, at its core, one of the purest forms of giving.',
+        'Thomas Kaplan',
     ],
-    '525355bf-46ee-5d2e-8f62-2d70ce5dbe69' => [
-        'Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.',
-        'Samuel Beckett',
+    '3196acb8-ce9e-50de-a9d8-9fc3ff0cd246' => [
+        'There are certain expectations that are put on you as a child actor, but mainly it\'s just turn up and say your lines with a lot of energy and a cute smile.',
+        'Naomie Harris',
     ],
-    '034ef867-07f4-515b-9374-0faf347fcbd0' => [
-        'Don\'t focus on making the right decision, focus on making the decision the right one.',
+    '71863a6a-aeae-5cf7-ba9f-6b23a2fd7c08' => [
+        'Revenge is a kind of wild justice, which the more a man\'s nature runs to, the more ought law to weed it out.',
+        'Francis Bacon',
+    ],
+    '95d87b4e-b849-5942-ac22-3e3ab2bf5cd8' => [
+        'I just think that people take me a little more seriously as a brunette. I don\'t know if that\'s just because of a societal preconceived notion that all blondes are stupid, but it\'s a different kind of attitude.',
+        'Kate Bosworth',
+    ],
+    '1015a934-c964-59a9-88eb-59fc9b828fbc' => [
+        'At its best, life is completely unpredictable.',
+        'Christopher Walken',
+    ],
+    '59579d5f-c329-5bbb-8b75-50147b69ece1' => [
+        'There is one thing you have got to learn about our movement. Three people are better than no people.',
+        'Fannie Hamer',
+    ],
+    '5907a9e6-2232-5c5f-b6c0-7d738facd719' => [
+        'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
+        'Smokey Robinson',
+    ],
+    'e94226e2-fdbc-5c35-9dfd-2b6030c71342' => [
+        'I try to live my life like my father lives his. He always takes care of everyone else first. He won\'t even start eating until he\'s sure everyone else in the family has started eating. Another thing: My dad never judges me by whether I win or lose.',
+        'Justin Zackham',
+    ],
+    'efa995fd-765b-551f-802a-cc0610f037e7' => [
+        'We didn\'t travel much when I was little - most of what we did was visit various campsites around Conway, north Wales. My first major holiday abroad was to Ibiza with my parents when I was five. I vividly remember the plane touching down and that the hotel had great swings with lots of little lizards darting about that I was determined to catch.',
+        'Paul Hollywood',
+    ],
+    'f7d65327-b3a4-54a9-880f-ffde13467b8c' => [
+        'Simply as an exercise in efficient politics, Obama \'08 rewrote the textbook. His accomplishment was historic and one that transformed how race and politics intersect in our society. Obama is the leading edge of this change, but his success is merely the ripple in a pond that grows deeper every day.',
+        'Gwen Ifill',
+    ],
+    'c0e384b1-0b5d-5b24-8e7a-556c1dafac27' => [
+        'Childhood obesity is best tackled at home through improved parental involvement, increased physical exercise, better diet and restraint from eating.',
+        'Bob Filner',
+    ],
+    '806c9dba-b908-5282-8043-4aa45b7ee1a0' => [
+        'Whence, then, did the cathedral derive its power? Clearly here: It took back the family into the confidences of religion. It taught man and woman how the human and the divine love could go hand in hand.',
+        'Jenkin Lloyd Jones',
+    ],
+    '017ff996-dedc-5c6b-96ca-72121ed4f780' => [
+        'Successful entrepreneurs are givers and not takers of positive energy.',
         'Unknown',
     ],
-    'e0eed196-eb9a-5bb9-8a2a-0e9a8942e50d' => [
-        'The world is like a reverse casino. In a casino, if you gamble long enough, you\'re certainly going to lose. But in the real world, where the only thing you\'re gambling is, say, your time or your embarrassment, then the more stuff you do, the more you give luck a chance to find you.',
-        'Scott Adams',
+    'b695b9a7-3701-5ea7-9728-6616ed894242' => [
+        'All of life is peaks and valleys. Don\'t let the peaks get too high and the valleys too low.',
+        'Jimmy Dean',
     ],
-    'fc90ab34-a6bb-534d-b997-8e563195416f' => [
-        'The extreme sophistication of modern technology - wonderful though its benefits are - is, ironically, an impediment to engaging young people with basics: with learning how things work.',
-        'Martin Rees',
+    '1197a57a-9c23-504c-9ec1-6757b0182b83' => [
+        'I grew up in a Chinese family where the parents\' No. 1 priority is the kids\' education.',
+        'Weili Dai',
     ],
-    '823403db-4272-59bb-aa46-5cf03314208d' => [
-        'The strongest people aren\'t always the people who win, but the people who don\'t give up when they lose.',
-        'Ashley Hodgeson',
+    '370e4d20-5bbe-5810-9a49-cc8d359b5ae4' => [
+        'Twilight drops her curtain down, and pins it with a star.',
+        'Lucy Maud Montgomery',
     ],
-    'ae61de27-afda-5d24-8077-b91bc8f7a12c' => [
-        'Ships that pass in the night, and speak each other in passing, only a signal shown, and a distant voice in the darkness; So on the ocean of life, we pass and speak one another, only a look and a voice, then darkness again and a silence.',
-        'Stephen Hawking',
+    'cc482f5f-1863-51ba-8e02-a0132dc7007c' => [
+        'I\'m a small-town boy who comes from a traditional family on a tiny island called Belitung. I may not know where I\'m going, but I\'ll always know where to come home to.',
+        'Andrea Hirata',
     ],
-    'a0fddbf7-1b64-513b-a574-b20697ce9a1c' => [
-        'I have a wonderful shelter, which is my family. I have a wonderful relationship with my brother and sister; this makes me feel that I know always where I belong.',
-        'Jose Carreras',
-    ],
-    '502ecd9c-863d-5478-ae80-d91cd13bdf8b' => [
-        'Can you imagine what I would do if I could do all I can?',
-        'Jeff Rich',
-    ],
-    'cda92eef-6370-589c-89e9-c716679487ce' => [
-        'Nobody is gonna love you like you. You\'re gonna be your best salesman.',
-        'T.I.',
-    ],
-    'b7d59134-0c5a-5b84-9c89-f64f2ac4fdc3' => [
-        'Success leaves clues, and if you sow the same seeds, you\'ll reap the same rewards.',
-        'Brad Thor',
-    ],
-    '4021a867-a4af-5851-86e3-42e54c511df6' => [
-        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
-        'Rowan Atkinson',
-    ],
-    '9a17d6a4-fd47-57c6-83dc-0500bfc2ec32' => [
-        'I don\'t know the key to success, but the key to failure is trying to please everybody.',
-        'Bill Cosby',
-    ],
-    'cf219b1d-70c4-57f2-9be2-cf7ad16c2bce' => [
-        'The content I create reflects my personality: goofy, fun, positive, a bit clumsy, family-friendly, educational and helpful.',
-        'Rosanna Pansino',
-    ],
-    'e96e05c5-0726-5517-915b-20e1f6b3b2ab' => [
-        'The key to success is to focus our conscious mind on things we desire not things we fear.',
-        'Brian Tracy',
-    ],
-    '478b3579-3178-5ef6-8ee2-5f7962cc9766' => [
-        'Keep silence for the most part, and speak only when you must, and then briefly.',
+    '71b82409-7ee6-5158-b314-0b48451b1fc3' => [
+        'If you wish to be a writer, write.',
         'Epictetus',
     ],
-    'b8253fa4-9537-5157-be52-f418cb261f4b' => [
-        'I will have my publicist pull pictures of the way I look at events so I can see, \'Oh, that cut is not as flattering as I thought,\' or \'I should smile bigger,\' or \'That positioning is odd.\' I learn from it.',
-        'Allison Williams',
+    'a04ea4aa-2b8a-54db-a095-a9b8295952af' => [
+        'It\'s better to be a lion for a day than a sheep all your life.',
+        'Rupert Murdoch',
     ],
-    'c831126f-c432-56f9-83f1-87fc1a007825' => [
-        'Life grants nothing to us mortals without hard work.',
-        'Horace',
+    'c7865e8e-b780-5d73-9e07-f5f0b2a50b63' => [
+        'When I was little, I didn\'t really travel - from the suburbs to Paris was already a journey. I had a foreigner\'s eye on the city, and I still enjoy that point of view. Then there\'s the fact that one of the things that touches me most is injustice.',
+        'JR',
     ],
-    '5c01bef6-0e57-562d-9b12-848ee7c806e4' => [
-        'Problems are only opportunities in work clothes.',
-        'Henry J. Kaiser',
+    '9b3e0f47-eee2-5dc5-a11a-9d8d46dd4c07' => [
+        'You give before you get.',
+        'Napoleon Hill',
     ],
-    'cf406bf1-0498-53ff-9694-619111d3dc4e' => [
-        'Our chief want is someone who will inspire us to be what we know we could be.',
-        'Ralph Waldo Emerson',
+    '772d4462-ca87-5f2d-8ad1-9a68c023f8f7' => [
+        'My theory is that all of Scottish cuisine is based on a dare.',
+        'Mike Myers',
     ],
-    'c49c2910-c853-5e05-bf6e-38ff9b5b47a5' => [
-        'I love the Rio Grande Valley. I always say it\'s home - Texas is home. I\'ve been out in L.A. a little over ten years, and I still get so excited when I go back home. It just feels comfortable; it makes me smile.',
-        'Cristela Alonzo',
+    'bd2f818f-9561-5739-a50f-f6539530fbef' => [
+        'What separates the winners from the losers is how a person reacts to each new twist of fate.',
+        'Donald Trump',
     ],
-    '7d4b4a89-fe0c-5da1-93cf-c4da9493be40' => [
-        'It\'s time to end the cruel slaughter of whales and leave these magnificent creatures alone.',
-        'Paul McCartney',
+    '536f5ab0-9b6d-5ea3-8e00-3f58a6cff001' => [
+        'I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.',
+        'Lao Tzu',
     ],
-    '83610349-5794-57fd-824d-74c93b93f528' => [
-        'One way to keep momentum going is to have constantly greater goals.',
-        'Michael Korda',
+    'a1413a7b-7cb2-5705-821a-68374c8b502f' => [
+        'That attitude and toughness that we want to play with, that, to me, is the most critical thing.',
+        'Dan Quinn',
     ],
-    '3789f2e1-8305-5648-8630-28079e09b343' => [
-        'I look my best when I\'m totally free, on holiday, walking on the beach.',
-        'Rosamund Pike',
+    'cca0834d-edd4-5513-8067-d2f4af9adf91' => [
+        'Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.',
+        'Milan Kundera',
     ],
-    '5aa2f81a-25bc-53aa-b056-e730f83e42d7' => [
-        'All men who have achieved great things have been great dreamers.',
-        'Orison Marden',
+    'cca123ef-0223-5aac-b432-f8001fc73bf3' => [
+        'If you can attribute your success entirely to your own mental effort, to your own attitude, to some spiritual essence that you have that is better than other people\'s, then that must feel pretty good.',
+        'Barbara Ehrenreich',
     ],
-    'c70c47b3-7e41-5d7f-b36c-4e88cea71499' => [
-        'Beauty has as many meanings as man has moods. Beauty is the symbol of symbols. Beauty reveals everything, because it expresses nothing. When it shows us itself, it shows us the whole fiery-coloured world.',
-        'Oscar Wilde',
+    'f95e3e17-0b23-53b6-8f3c-8b16d8cd86b0' => [
+        'I\'m writing a book. I\'ve got the page numbers done.',
+        'Steven Wright',
     ],
-    'a1cded50-ece4-58ab-a66a-baab48292c0e' => [
-        'If you so choose, even the unexpected setbacks can bring new and positive possibilities. If you so choose, you can find value and fulfillment in every circumstance.',
-        'Ralph Marston',
+    '6f54ced5-a309-507d-be15-04827944002d' => [
+        'There is a vast world of work out there in this country, where at least 111 million people are employed in this country alone - many of whom are bored out of their minds. All day long.',
+        'Richard Nelson Bolles',
     ],
-    'd7d09360-b3f0-5878-a1f6-f9c4d4a912c5' => [
-        'Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.',
-        'Amy Bloom',
+    '73278f07-475c-536c-abac-1532fd4bbf37' => [
+        'People think your success is just a matter of having a pretty face. But it\'s easy to be chewed up and spat out. You\'ve got to stay ahead of the game to be able to stay in it.',
+        'Kate Moss',
     ],
-    '2ac4edfb-aabc-5825-8beb-d855bdab5ae8' => [
-        'And the smile that is worth the praises of earth is the smile that shines through tears.',
-        'Ella Wheeler Wilcox',
+    'e6096190-d40b-5341-9b0a-e6856028ddf2' => [
+        'Get correct views of life, and learn to see the world in its true light. It will enable you to live pleasantly, to do good, and, when summoned away, to leave without regret.',
+        'Steve Jobs',
     ],
-    '4e4fa777-bc05-5a4d-8e5c-37e2eaa24390' => [
-        'Everyday life is like programming, I guess. If you love something you can put beauty into it.',
-        'Donald Knuth',
+    'c31a0863-b8a2-59b8-a4ef-e98554cbb5a6' => [
+        'Giving responsibility is the key to success with boys, especially with the rowdiest and most difficult boys.',
+        'Robert Baden-Powell',
     ],
-    '971c902a-aadb-5d07-9ba3-d6606bd38acd' => [
-        'There is no limit to suffering human beings have been willing to inflict on others, no matter how innocent, no matter how young, and no matter how old. This fact must lead all reasonable human beings, that is, all human beings who take evidence seriously, to draw only one possible conclusion: Human nature is not basically good.',
-        'Dennis Prager',
+    '937f0727-c310-5ae4-b6c3-f0b3e0754475' => [
+        'Both within the family and without, our sisters hold up our mirrors: our images of who we are and of who we can dare to be.',
+        'Elizabeth Fishel',
     ],
-    '612b8b4d-8e3d-5088-b438-73170b4ca29c' => [
-        'I think true success is intrinsic... It\'s love. It\'s kindness. It\'s community.',
-        'Tom Shadyac',
-    ],
-    '1c1f4322-b08b-55ba-9d71-3144c0b0f162' => [
-        'If you know you are giving your best effort, you\'ll never have any reason for regrets.',
-        'Naveen Jain',
-    ],
-    'e5529270-6233-5a62-8e61-803e297bb776' => [
-        'It\'s our nature: Human beings like success but they hate successful people.',
-        'Carrot Top',
+    'df6bb58a-cc86-5fa2-b845-8ad635514148' => [
+        'I mix all different oils - my bathroom at home is littered with oils; I\'m really into natural beauty and natural healing. Peppermint is really good if you put it on your stomach for a tummy ache; lavender is kind of all-purpose - I think everyone should carry it.',
+        'Liz Goldwyn',
     ],
 ];

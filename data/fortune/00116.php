@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'e499ea76-11f5-5ae2-bc14-5cca79689d6a' => [
-        'There are two books that I often travel with; one is \'The Theory on Moral Sentiments\' by Adam Smith. The other is \'The Meditations.\' It\'s not that I agree with either views expressed in the books, but I believe ideas and thoughts of older generations can offer food for thought for the current generation.',
-        'Wen Jiabao',
+    '236be564-b1d0-5b3f-adac-005566cf921f' => [
+        'I love dressing up. It\'s the best part of being a girl, I think.',
+        'Emma Roberts',
     ],
-    '7ab2179e-55de-571e-a211-f0b496ee855c' => [
-        'The music I was really listening to in 1968 was James Brown, the great guitar player Jimi Hendrix, and a new group... Sly and the Family Stone, led by Sly Stewart from San Francisco.',
-        'Miles Davis',
+    'b860c4e4-cabf-5ba4-8929-c0912799d7df' => [
+        'People smile at me as if they know me. I just smile back. They probably might know me.',
+        'Jim Broadbent',
     ],
-    '3ba3c43e-1489-523f-b7f3-77ab8a87126f' => [
-        'Keep your eyes on the stars, and your feet on the ground.',
-        'Theodore Roosevelt',
+    '265fcd66-0c03-58e2-ac53-871c75db11b5' => [
+        'Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.',
+        'Aristotle',
     ],
-    '886d36fd-ef0a-59b2-87ca-ef12dcc113e6' => [
-        'Any authentic work of art must start an argument between the artist and his audience.',
-        'Rebecca West',
+    '2b35b019-2e96-5978-a903-a1f48316dc05' => [
+        'We didn\'t ever want \'Tarzan\' to feel like he was just a man. We didn\'t want him to stand up straight or wave good-bye. We wanted to make sure he always had that piece of gorilla in him, that he always had an animal attitude about him.',
+        'Kevin Lima',
     ],
-    'b695b9a7-3701-5ea7-9728-6616ed894242' => [
-        'All of life is peaks and valleys. Don\'t let the peaks get too high and the valleys too low.',
-        'Jimmy Dean',
+    '1c531a85-19fc-5352-8b6b-7a67c60e2873' => [
+        'I\'m an eternal realist and the success rate for being an actor is pretty low.',
+        'Tom Hiddleston',
     ],
-    '8a94f129-d7b6-534f-9b2d-8f5b835b60bd' => [
-        'When you ain\'t got no money, you gotta get an attitude.',
-        'Richard Pryor',
+    '2490f780-70df-5cb7-88a4-75e33a8a8d12' => [
+        'To handle that stardom, the red carpets, the photo shoots, people all of a sudden recognizing you and following you in everyday life, it\'s a bit weird. It\'s strange, and it can have funny effects on you in terms of do you like it or don\'t you like it. Some people run away from it, some people embrace it; I found a good middle ground.',
+        'Roger Federer',
     ],
-    '8a7f1bb5-2221-59ee-9d75-8236ea1729ce' => [
-        'I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating. Most people attach failure to something not working out or how people perceive you. This way, it is about answering to yourself.',
-        'Sara Blakely',
+    '5dfbfc62-726d-5723-941a-7c351b735796' => [
+        'By accepting yourself and being fully what you are, your presence can make others happy.',
+        'Jane Roberts',
     ],
-    'a5e88c2f-0bac-5023-a160-fedac5116a12' => [
-        'I live quietly at home among my family and friends.',
-        'Antonio Tabucchi',
+    'aa1b1c30-bc62-5b05-8b24-c4b9301134f5' => [
+        'Vitality shows in not only the ability to persist but the ability to start over.',
+        'F. Scott Fitzgerald',
     ],
-    'a40e9cb5-4f48-5e28-ac45-48e9c8e5a725' => [
-        'When we go out there, we have fun, but we get to work, and I think we\'re at our best when we\'re having fun. Having fun is key.',
-        'Ezekiel Elliott',
+    '027132bf-00b4-5f20-b853-e217e5b8920b' => [
+        'When people see a legend, they call it a legend. But to be a legend, it\'s a lot of hard work and patience. You can\'t play for five or ten years and be a legend. It takes longer than that.',
+        'Burning Spear',
     ],
-    '5ec519af-d61b-54cc-b317-220cee254fb5' => [
-        'There is an electric fire in human nature tending to purify - so that among these human creatures there is continually some birth of new heroism. The pity is that we must wonder at it, as we should at finding a pearl in rubbish.',
-        'John Keats',
+    'da04b265-840e-577b-9df6-8d0e0bc2123a' => [
+        'Everybody is different. Everybody has different styles. Just do it the best way you know how.',
+        'Vince Carter',
     ],
-    'c9b0a858-1f3c-5b9e-8374-3425d66ec0a0' => [
-        'Dallas is a positive, get-it done city.',
-        'Laura Miller',
+    '4748e62f-5c48-5555-81ec-e45cd51980ad' => [
+        'I look at it like this: that if Shakespeare were alive today, he would have written two or three plays about the Kennedy family, and actors would traditionally play JFK like they Hamlet or King Lear. They just would. I mean, people have played JFK, and they\'ll play him long after I have.',
+        'Rob Lowe',
     ],
-    '153191f9-74fb-5412-858a-ad919a5ccc01' => [
-        'I was weaned not on television or Wild West sagas but on stories of nationalism and patriotism. I would sit at my mother\'s feet by the hour and drink in these exciting tales of the freedom fighters in our family.',
-        'Sukarno',
+    'b8bc855e-3ee4-5742-acf2-7ccc14cc7c2a' => [
+        'I was a little doubtful about the propriety of going to the Mammoth Cave without a gentleman escort, but if two ladies travel alone they must have the courage of men.',
+        'Maria Mitchell',
     ],
-    '290c9a2a-04f0-5752-b27d-e131c28b0140' => [
-        'I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
-        'Gene Simmons',
+    '3dd37271-437e-5221-b00b-3d73a8e51f38' => [
+        'Laughter is involuntary. If it\'s funny you laugh.',
+        'Tom Lehrer',
     ],
-    '4f71d802-6f86-5438-980f-b19ef0f9b5fa' => [
-        'Beauty does not linger; it only visits. Yet beauty\'s visitation affects us and invites us into its rhythm; it calls us to feel, think and act beautifully in the world: to create and live a life that awakens the Beautiful. A life without delight is only half a life.',
-        'John O\'Donohue',
+    '36131a6b-d6e3-5aca-80cc-eb84fbf63c87' => [
+        'Every man\'s life is a fairy tale written by God\'s fingers.',
+        'Hans Christian Andersen',
     ],
-    '9246e7a7-511a-5af5-9cc4-05444596f2b3' => [
-        'Understanding the laws of nature does not mean that we are immune to their operations.',
-        'David Gerrold',
+    '0187e660-9f6d-5315-8d6a-aaf3b09870fd' => [
+        'He looks as though he\'s been weaned on a pickle.',
+        'Alice Roosevelt Longworth',
     ],
-    '565f98c3-4ff2-579d-bf86-91bd3fc17f31' => [
-        'Flowers are without hope. Because hope is tomorrow and flowers have no tomorrow.',
-        'Antonio Porchia',
+    '5f3619c3-c755-5f13-b6a5-63fbeee11819' => [
+        'Good grooming is integral and impeccable style is a must. If you don\'t look the part, no one will want to give you time or money.',
+        'Daymond John',
     ],
-    '6662062f-ba56-55e1-9030-50a19564c55a' => [
-        'To travel hopefully is a better thing than to arrive.',
-        'Robert Louis Stevenson',
+    '5ed04d47-6c6a-5425-81e2-3b8aa9bcfb81' => [
+        'We knew sports was important to us and our family, but there are priorities in life.Obviously, faith is foremost; how we did in school is important. If we didn\'t handle that business then there were no privileges.',
+        'Stephen Curry',
     ],
-    '6328d2d9-8e00-5dde-b98a-946c08e94285' => [
-        'The negative is just as important as the positive.',
-        'Ellsworth Kelly',
+    '4feb96bc-272b-5404-9cfe-3824612bdce2' => [
+        'The one who always loses, is the only person who gets the reward.',
+        'Claire Charmont',
     ],
-    '654a3fab-4d05-5fc1-9f22-5a7e489fca8b' => [
-        'There is no greater feeling in business than building a product which impacts people\'s lives in a profound way. When we look around at the thousands of people who have attended Summit gatherings, it makes us smile to see the new friendships, business partnerships and philanthropic initiatives that each event produces.',
-        'Elliott Bisnow',
+    'c10cc935-f5f1-5b84-b320-3bcc7ca35e53' => [
+        'The last of human freedoms - the ability to chose one\'s attitude in a given set of circumstances.',
+        'Viktor E. Frankl',
     ],
-    '800ea7b2-ec7b-5f31-99d1-16323ab94bbc' => [
-        'Shoot for the moon and if you miss you will still be among the stars.',
-        'Les Brown',
+    'f54bc720-31ff-586b-93e9-c147dbe9a708' => [
+        'When everything else physical and mental seems to diminish, the appreciation of beauty is on the increase.',
+        'Bernard Berenson',
     ],
-    '645f5a60-007a-51ab-b272-25ad19aad819' => [
-        'Soon after, I returned home to my family, with a determination to bring them as soon as possible to live in Kentucky, which I esteemed a second paradise, at the risk of my life and fortune.',
-        'Daniel Boone',
+    '50b96358-ec6e-52d1-b8ea-5b2fbc16db1c' => [
+        'To explain all nature is too difficult a task for any one man or even for any one age. \'Tis much better to do a little with certainty &amp; leave the rest for others that come after you.',
+        'Isaac Newton',
     ],
-    '29f0a6c9-dfef-5ded-a39a-e1170b8c31b9' => [
-        'I allow my intuition to lead my path.',
-        'Manuel Puig',
+    '3557f6fb-bef9-5d22-97c3-b61865c8adba' => [
+        'I\'m always going to try to win with a positive mindset.',
+        'Brock Osweiler',
     ],
-    '778c9ff9-4121-5f97-ab8c-cec3dfdde136' => [
-        'If your mom asks you to do the dishes, do not pull out your pirate attitude. But if someone tells you you\'re not good enough, says your dreams are too lofty, or claims there is no room in showbiz for a dancing violinist - well then, by all means, pull out your eye patch, my friend, and take to the high seas.',
-        'Lindsey Stirling',
+    'e3da58b5-029e-5012-b95a-2f8206d4ac83' => [
+        'I wanted to race cars. I didn\'t like school, and all I wanted to do was work on cars. But right before I graduated, I got into a really bad car accident, and I spent that summer in the hospital thinking about where I was heading. I decided to take education more seriously and go to a community college.',
+        'George Lucas',
     ],
-    '1e22163f-36bd-532e-976e-cf9bfe384f57' => [
-        'Bambi can\'t act. Bambi had major attitude.',
-        'Treat Williams',
+    'b3236132-2b3e-5674-af0d-0adbab6ff552' => [
+        'I try to greet my friends with a drink in my hand, a warm smile on my face, and great music in the background, because that\'s what gets a dinner party off to a fun start.',
+        'Ina Garten',
     ],
-    '0deae276-1089-5586-8ac4-a2e0daf08b68' => [
-        'Respect your parents. What they tell you is true. Hard work, dedication and faith will get you anything. Imagination will drive itself. You can get anything you want, but you have to have faith behind all your ideas. Stick to your goals and have an undying faith.',
-        'Russell Simmons',
+    'c87069d5-e4cd-5a47-bf16-4223f5ea6163' => [
+        'Nothing is as seductive as the assurance of success.',
+        'Gertrude Himmelfarb',
     ],
-    '7ab95cf9-4368-5ab5-a163-76ed8c412fc6' => [
-        'We all go through sad times, but I was brought up to be positive.',
-        'Jess Glynne',
+    '72ff1344-38cd-5034-9976-1316f0fb4339' => [
+        'When human judgment and big data intersect there are some funny things that happen.',
+        'Nate Silver',
     ],
-    '7b3c551b-2334-5b83-8c00-dd4eb43661d3' => [
-        'Having achieved my own dreams, I want to give to kids who are less fortunate, who struggle with everyday obstacles. I want to give them something positive in their lives: support.',
-        'Kristi Yamaguchi',
+    '81a3e391-032f-5aa3-a020-c821a8cc0ffd' => [
+        'Life shrinks or expands in proportion to one\'s courage.',
+        'Anais Nin',
     ],
-    '92795b3b-c22d-5183-ad12-57cf360b2012' => [
-        'The single biggest surprise about arriving to the Senate is the defeatist attitude here.',
-        'Ted Cruz',
+    'e0a127de-4433-5237-a409-0e836aa0be31' => [
+        'I\'ve failed over and over and over again. And that is why I succeed.',
+        'Michael Jordan',
     ],
-    '9a1fee27-09e2-5dc4-b0c3-7dcffee6cb59' => [
-        'When people stand up and talk about the great success that the EU has been, I\'m not sure anybody saying it really believes it themselves anymore.',
-        'Nigel Farage',
+    'b4d8b68f-1797-551b-9be4-6fde6650dfa2' => [
+        'I have a very positive attitude in life. My insecurity, fear and need to know about tomorrow has fortunately eased. What is going to happen will happen anyway. So why break my head over it?',
+        'Katrina Kaif',
     ],
-    '2aef7be7-ccef-5e16-8e50-02ab5c09a847' => [
-        'Life is a series of experiences, each one of which makes us bigger, even though sometimes it is hard to realize this. For the world was built to develop character, and we must learn that the setbacks and grieves which we endure help us in our marching onward.',
-        'Robert Frost',
+    'b7524a6c-2e5c-5a0a-ba67-d20f89925f60' => [
+        'Just as courage imperils life, fear protects it.',
+        'Nuno Bettencourt',
     ],
-    '463d3369-7b15-5a21-be7f-9dd61b01cbb2' => [
-        'An ounce of practice is better than tons of teaching.',
-        'Mahatma Gandhi',
+    '0699f3be-7306-5554-b2c9-de9fdf105943' => [
+        'If it is not right do not do it; if it is not true do not say it.',
+        'Marcus Aurelius',
     ],
-    '2a280138-3905-5a17-96b7-dd250249eac3' => [
-        'History is a cyclic poem written by time upon the memories of man.',
-        'Percy Bysshe Shelley',
+    '53b5c57b-5e8e-5623-8d96-43b9981063fa' => [
+        'The miracle is not that we do this work, but that we are happy to do it.',
+        'Mother Teresa',
     ],
-    'a4411795-76b4-5c92-89f1-f923fcdee6d8' => [
-        'My dad told me, \'It takes fifteen years to be an overnight success\', and it took me seventeen and a half years.',
-        'Adrien Brody',
+    '8e7842c5-8cba-5c6c-b52a-32cc07117813' => [
+        'The power of pop culture stories should not be underestimated, and there is an enormous potential for inspirational stories that can have a positive, transformative effect on our lives.',
+        'Anita Sarkeesian',
     ],
-    '27c7b4ca-8db4-5e08-877c-c739a3914cd4' => [
-        'No student ever attains very eminent success by simply doing what is required of him: it is the amount and excellence of what is over and above the required, that determines the greatness of ultimate distinction.',
-        'Charles Kendall Adams',
+    '277cde2d-65ce-54f0-ad00-a6e4120b49eb' => [
+        'Proving I\'m a good mother is the one achievement I\'m most proud of. It\'s brought out the best in me.',
+        'Sheena Easton',
     ],
-    '10c7f20f-dcb6-52ca-9dc5-52d7f60a8b3a' => [
-        'And now I have a big house, nice clothes and I travel in first class and I love it, so maybe it\'s time to enjoy being a star.',
-        'Vincent Cassel',
+    '229b8675-67c6-5692-830e-2adea41c10bd' => [
+        'Having nothing, nothing can he lose.',
+        'William Shakespeare',
     ],
-    'f4c6fc6b-1782-53a1-8ebd-4859e71d45f9' => [
-        'Every child\'s taste is different. Don\'t worry if they\'re not reading \'War and Peace\' at age 12. First, build a good foundation and a positive attitude about reading by letting them pick the stories they enjoy. Make friends with a bookseller or librarian. They are a wealth of information on finding books that kids enjoy.',
-        'Rick Riordan',
+    '5c730c94-002e-5e2a-8e3c-6fa2c0020796' => [
+        'The most beautiful thing in the world is, of course, the world itself.',
+        'Wallace Stevens',
     ],
-    'b28de7de-1883-51f0-9fc0-c5cd5ac94b29' => [
-        'The only way to permanently change the temperature in the room is to reset the thermostat. In the same way, the only way to change your level of financial success \'permanently\' is to reset your financial thermostat. But it is your choice whether you choose to change.',
-        'T. Harv Eker',
+    'a413edbb-a81a-5aef-913e-c62e6a8c5f1a' => [
+        'I\'m a happy guy. I just want to see people laugh and smile.',
+        'Gerry Cooney',
     ],
-    'c9221173-8d29-54a8-8a63-1ebd0b531334' => [
-        'When I see these young girls who are dreaming the dream that I\'m living, it\'s very very exciting and it puts a big smile on my face.',
-        'Sue Wicks',
+    'de034fd5-5224-5cd0-8be7-267a4903e478' => [
+        'Fear grows in darkness; if you think theres a bogeyman around, turn on the light.',
+        'Dorothy Thompson',
     ],
-    '600dfe5c-a87e-5ea8-abba-3aee163cd919' => [
-        'What do you mean by faith? Is faith enough for Man? Should he be satisfied with faith alone? Is there no way of finding out the truth? Is the attitude of faith, of believing in something for which there can be no more than philosophic proof, the true mark of a Christian?',
-        'Clifford D. Simak',
+    'a6d2747e-ae01-57f2-a014-6f0e4819a4cc' => [
+        'When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.',
+        'Confucius',
     ],
-    'c7455563-cdc1-5bec-90e6-b7262a692f0f' => [
-        'Coaches will eventually notice a great attitude, and they respect that.',
-        'Heather O\'Reilly',
+    '5abc31a9-cb37-5d3c-9a8e-48acc4fa6b3f' => [
+        'I grew up as a very sarcastic person. I was always the class clown, and to date girls, I had to be really funny. I was really skinny growing up. I was so thin, I had to run around in the shower to get wet. That kind of thin. So I always had to rely on humor and sarcasm.',
+        'Kurt Fuller',
     ],
-    'c1fba156-2584-5296-9790-e6d0127fc01d' => [
-        'I get really frustrated if people don\'t smile.',
-        'Sophie Ellis-Bextor',
+    '4e8cbbfe-ef92-57b0-86e2-e9420c4aa63f' => [
+        'I am not bound for any public place, but for ground of my own where I have planted vines and orchard trees, and in the heat of the day climbed up into the healing shadow of the woods.',
+        'Wendell Berry',
     ],
-    'd1771ec2-193f-585f-9fd7-efe40d3bef1d' => [
-        'The chief danger in life is that you may take too many precautions.',
-        'Ellen G. White',
+    '14e0bd37-062a-59a9-beb2-8c9125d1c638' => [
+        'I have rituals for cleaning out resentments, disappointments, heartbreak, depression and for work. One of the things I do is go over old stuff if I have been unable to write for a while.',
+        'Hubert Selby, Jr.',
     ],
-    '10081b82-addc-5207-adec-829d99753aa0' => [
-        'There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.',
-        'Oprah Winfrey',
+    '15fbf254-10e5-5706-9a87-22ebe0727858' => [
+        'If you work just for money, you\'ll never make it, but if you love what you\'re doing and you always put the customer first, success will be yours.',
+        'Ray Kroc',
     ],
-    'c5fed30c-3380-5eac-9761-d93b9f4c37eb' => [
-        'A life is not important except in the impact it has on other lives.',
-        'Oliver Goldsmith',
+    'a1682e57-da34-5031-8e9d-cb517854fc44' => [
+        'Freedom is the right to live as we wish.',
+        'Epictetus',
     ],
-    '582b1e46-df5d-5aa1-ba62-973d5079bec5' => [
-        'I fly economy. I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
-        'Gene Simmons',
+    '8a655e7c-1aa9-59c8-ba5c-3d47af335dbf' => [
+        'This June, I\'ll travel once again to the Food and Wine Magazine Classic in Aspen, Colorado. For many years, my dear friend Julia Child and I have teamed up to teach classes together at the event; for the past seven years, my daughter, Claudine, has been my cooking partner on stage.',
+        'Jacques Pepin',
     ],
-    '71dce116-1626-5702-abeb-d51c7ace2133' => [
-        'I\'m not this callous clown walking around laughing at life all the time. I\'ve had some serious, serious problems in my life. But I\'ve come out with a smile.',
-        'John Lydon',
+    '33edcdf5-7af9-5a65-81de-7c89eb85291c' => [
+        'The truth is on the march and nothing will stop it.',
+        'Emile Zola',
     ],
-    'ab936e29-402b-5f8a-9c79-1ecb00ecff60' => [
-        'Life is 10% what happens to you and 90% how you react to it.',
-        'Charles R. Swindoll',
+    'c74ee7b0-6ad4-5635-84e8-504955c316d1' => [
+        'Kind words do not cost much. Yet they accomplish much.',
+        'Blaise Pascal',
     ],
-    'd8078d10-08f1-505b-b6c7-0fb223f181dc' => [
-        'Don\'t let what you cannot do interfere with what you can do.',
-        'John R. Wooden',
+    '8d961521-ca22-5f38-9c67-f34c77862941' => [
+        'No matter how much success you\'re having, you can\'t continue working together if you can\'t communicate.',
+        'Matt Cameron',
     ],
-    '4f6b510d-41ae-594c-8ccf-bc147d8eea39' => [
-        'Maybe there is no actual place called hell. Maybe hell is just having to listen to our grandparents breathe through their noses when they\'re eating sandwiches.',
-        'Jim Carrey',
+    '8e6045fe-caea-5e87-bd52-42ee06753c8b' => [
+        'There is nothing in the world that I loathe more than group activity, that communal bath where the hairy and slippery mix in a multiplication of mediocrity.',
+        'Vladimir Nabokov',
     ],
-    'c3e4331d-af18-5b08-a934-9fa3f909a5fb' => [
-        'Everyone carries his own inch rule of taste, and amuses himself by applying it, triumphantly, wherever he travels.',
-        'Henry Adams',
+    '05d8476b-080b-5edd-80fc-256dc1b90a97' => [
+        'We need an attitude of defiance, not an attitude of cowardice. Out in the street, that\'s how we are winning against the TransCanada Pipeline. This is how we have delayed the Trans-Pacific Partnership and forced it into an election season, gotten everybody to stand against it. Democracy is not about surrender.',
+        'Jill Stein',
     ],
 ];

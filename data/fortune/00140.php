@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '5d9f504e-3c48-5182-b3af-76b64cfa8d6d' => [
-        'You achieve long-term success step by step. Try to achieve your goals one at a time, like you do target practice.',
-        'Daniel Snyder',
+    '2605ae63-aae8-554a-8414-79e9f6049648' => [
+        'To mistrust science and deny the validity of scientific method is to resign your job as a human. You\'d better go look for work as a plant or wild animal.',
+        'P. J. O\'Rourke',
     ],
-    '76cf8376-d9ca-53e2-be18-f6c23337cbfd' => [
-        'You see much more of your children once they leave home.',
-        'Lucille Ball',
+    '5575d9da-1035-52ee-93f0-8613976207f8' => [
+        'I\'m not going to be horrible just for the sake of having attitude or make other people feel small just to make me feel bigger.',
+        'Kate Moss',
     ],
-    '86921bc6-bdbb-521e-9f76-cd0a4332e122' => [
-        'Mediocre men work at their best; men seeking excellence strive to do better.',
-        'Edwin Louis Cole',
+    '547eb039-b1c9-54b1-bba1-148574474dda' => [
+        'Italian men do appreciate beautiful women. They\'re not afraid of the beauty, which is nice.',
+        'Eva Herzigova',
     ],
-    'c2af05ac-e418-5384-90e9-eb66eafca909' => [
-        'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
-        'Robert Louis Stevenson',
+    'bded99c7-5dce-5ab4-93b7-6693ef448a32' => [
+        'Airline travel is hours of boredom interrupted by moments of stark terror.',
+        'Al Boliska',
     ],
-    '740c712a-9743-505d-94f4-96cfa40cfdd4' => [
-        'I love coming home to Melbourne. The first thing I do is have a coffee. It\'s just so much better here than anywhere else. It\'s better than in Italy and I travel a lot. I crave it.',
-        'Curtis Stone',
+    'a6994bec-4ad3-5a3c-86da-aa040efc70dd' => [
+        'The two impulses in travel are to get away from home, and the other is to pursue something - a landscape, people, an exotic place. Certainly finding a place that you like or discovering something unusual is a very sustaining thing in travel.',
+        'Paul Theroux',
     ],
-    '200ed021-9b0c-540e-8e18-2ff73b4a18c9' => [
-        'I\'m like old wine. They don\'t bring me out very often - but I\'m well preserved.',
-        'Rose Kennedy',
+    'b1be0502-e7b0-50cf-8a3c-a16dc732906b' => [
+        'Don\'t let life discourage you; everyone who got where he is had to begin where he was.',
+        'Spencer Johnson',
     ],
-    'f098b2e2-f06f-5c61-8c22-cd3018715dcc' => [
-        'All the awards in the world, you can get into all the nightclubs, they\'ll send you the nicest clothes. Nothing better than walking into your dad\'s restaurant and seeing a smile on his face and knowing that your mom and dad and your sister are real proud of you.',
-        'Lady Gaga',
+    '0ca7976a-35da-55b3-ac6e-41b372471353' => [
+        'Politeness is to human nature what warmth is to wax.',
+        'Arthur Schopenhauer',
     ],
-    '39331f6a-e17f-5d1e-9c70-4e518d8d29ce' => [
-        'I grew up under Communism so we could only learn Russian, and then when Communism fell in 1989 we could learn a few more things and have the freedom to travel and the freedom of speech - and the freedom of dreaming, really.',
-        'Petra Nemcova',
+    '13ec7823-5bfc-5dda-a287-1cb051d53ce2' => [
+        'Men talk of killing time, while time quietly kills them.',
+        'Dion Boucicault',
     ],
-    '4a412651-ae02-5caa-adaa-23580007a00b' => [
-        'The internet could be a very positive step towards education, organisation and participation in a meaningful society.',
-        'Noam Chomsky',
+    'a6b5353c-8726-59c1-9df0-911525114803' => [
+        'A true friend is one who overlooks your failures and tolerates your success!',
+        'Doug Larson',
     ],
-    '28282a8a-6eeb-51b7-8056-1fdd0ed72007' => [
-        'A lot of the problems I had with fame I was bringing on myself. A lot of self-loathing, a lot of woe-is-me. Now I\'m learning to see the positive side of things, instead of, like, \'I can\'t go to Kmart. I can\'t take my kids to the haunted house.\'',
-        'Eminem',
+    '7d1606c4-dd50-54d7-8cb9-cdc8d7e90a72' => [
+        'The opportunity for brotherhood presents itself every time you meet a human being.',
+        'Jane Wyman',
     ],
-    '7eb84b28-0462-5459-b2f6-59315d386175' => [
-        'I give thanks everyday that I\'ve been able to take my craziness and make it work for me.',
-        'Fritz Scholder',
+    '5981e4e5-fab6-5aba-b878-4ba14ffd02e5' => [
+        'To survive, you\'ve got to keep wheedling your way. You can\'t just sit there and fight against odds when it\'s not going to work. You have to turn a corner, dig a hole, go through a tunnel - and find a way to keep moving.',
+        'Twyla Tharp',
     ],
-    'a140a296-9b87-5e8f-a267-ef753ce1133f' => [
-        'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
-        'Gabrielle Aplin',
+    '8adda55a-e2ce-5c14-aaad-85a4c098b166' => [
+        'I was stupid when I started: the epitome of bright-eyed and bushy-tailed. It was like, \'I get to live in L.A. and drive around in limos? Really?\' I didn\'t realize I was owned. The more money gets pumped into you, the more you become a marionette. It made me a true redneck in attitude: I never wanted to wake up ever again feeling owned.',
+        'Al Jourgensen',
     ],
-    'd919adad-9770-5317-9825-099944cc6081' => [
-        'I can\'t travel without Sudoku.',
-        'Robert Ballard',
-    ],
-    '6b631b73-7d64-5e86-aff8-69e7b1baec85' => [
-        'Travel is the best and probably cheapest graduate school you can buy.',
-        'Tom Freston',
-    ],
-    '11c51278-0e1b-5d0d-8d49-1b201ed33a7a' => [
-        'Just know that I was once considered just a dreamer... Then I paid my dues and turned so many doubters to believers...',
-        'Big K.R.I.T.',
-    ],
-    '88c861fa-423e-5955-96dc-b601d6c7cf70' => [
-        'The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.',
-        'Plato',
-    ],
-    '79dd709a-ce27-5f7a-97ea-03283f2f4aee' => [
-        'To the world you may be one person, but to one person you may be the world.',
-        'Dr. Suess',
-    ],
-    '22467cb5-1fe8-5d1f-9825-b6db942fd643' => [
-        'I believe that life is short, and there is too much time wasted bearing grudges, and I like to move on.',
-        'Sam Taylor-Johnson',
-    ],
-    '8f392116-ce6e-5e9e-97b5-8db8f8189711' => [
-        'I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone.',
-        'Henry Rollins',
-    ],
-    'eccffe93-8db9-5cac-a39a-90c8b893b8c4' => [
-        'It\'s funny, I was talking to somebody who writes for a cop show, and he was saying how they aren\'t allowed to acknowledge Christmas, Thanksgiving, Valentine\'s Day, just because it has to be able to play forever.',
-        'Hannah Simone',
-    ],
-    '3efc0ef7-1dff-582f-8c17-ae337e8ccd85' => [
-        'I think one great tip is that you should always love yourself. If you don\'t love yourself, take care of yourself, cater to yourself and that little inner voice, you will really not be very worthy of being with someone else, because you won\'t be the best version of you.',
-        'Kimora Lee Simmons',
-    ],
-    '8b6f5ecb-2194-5c33-8e7f-2ab0e0f6b755' => [
-        'I have my father\'s lopsided mouth. When I smile, my lips slope to one side. My doctor sister calls it my cerebral palsy mouth. I am very much a daddy\'s girl, and even though I would rather my smile wasn\'t crooked, there is something moving for me about having a mouth exactly like my father\'s.',
-        'Chimamanda Ngozi Adichie',
-    ],
-    'd6f3d42d-8cc9-5d98-b5ab-ea33e5ec200d' => [
-        'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
-        'Vincent Van Gogh',
-    ],
-    '0561461b-2106-5716-812b-5abb1ff32b9d' => [
-        'The greatest thing in family life is to take a hint when a hint is intended-and not to take a hint when a hint isn\'t intended.',
+    '2984f79b-0703-50fd-834a-b9cc3311b956' => [
+        'To be a poet is a condition, not a profession.',
         'Robert Frost',
     ],
-    'eee3f69b-604c-5fd7-8db4-07065f0fe708' => [
-        'It takes a lot of work to put together a marriage, to put together a family and a home.',
-        'Elizabeth Edwards',
+    '8d331ac9-203a-5b71-a282-91df006df844' => [
+        'Fragrance takes you on a journey of time. You can walk down the street and pass someone and get taken back 20 years. It\'s very Proustian that way.',
+        'Daphne Guinness',
     ],
-    '1dc557a8-b7a3-591c-ad96-e86cdcf26815' => [
-        'Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.',
-        'Carl Jung',
+    'd7ce3b28-6947-542e-be6a-feeafcb10a21' => [
+        'Success is the American Dream. And that success is not something to be ashamed of, or to demonize.',
+        'Susana Martinez',
     ],
-    'a0da7272-9fdb-5e9e-8ebb-42e89fdfc777' => [
-        'It\'s funny, in literature no one ever goes to the lavatory.',
-        'Tom Baker',
+    'd39f5af6-2cac-5195-9626-9ce694d16274' => [
+        'I\'m better than P. T. Barnum and Colonel Parker put together.',
+        'Evel Knievel',
     ],
-    '50f568e5-e732-5eb4-ba48-5a4145786f8f' => [
-        'Punk was defined by an attitude rather than a musical style.',
-        'David Byrne',
+    '441053c8-db78-5f37-8bce-e86b2dd6b5f9' => [
+        'I enjoy nothing more than spending time with my loved ones, young and old, and at least once a year we get together for a formal family photograph.',
+        'Elliott Erwitt',
     ],
-    '24bb3c16-74dc-57b5-806f-503c32a60009' => [
-        'Find your own way, have an open spirit, and believe in your own beauty.',
-        'Francois Nars',
+    '0835a976-90a9-5de6-9d5e-6fb4d724a822' => [
+        'When I go to my live shows it\'s often a multigenerational audience, a family bonding experience.',
+        'Al Yankovic',
     ],
-    'db250b56-f30e-5f1c-804d-09f762e60b6f' => [
-        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.',
-        'Babatunde Olatunji',
+    '9a57b5a0-fc3e-56d7-914b-7eab5f6a8e6c' => [
+        'When I started out the videos, I was dealing with depression, and I wanted to make inspiring videos for others, which would end up inspiring me in turn. I wanted to show the world that it was possible to make a positive switch in life and start over.',
+        'Lilly Singh',
     ],
-    'dae45047-1486-5b06-8571-de207e4804cd' => [
-        'I find it sad that by not talking about who I sleep with, that makes me mysterious. There was a time when I would have been called a gentleman.',
-        'Kevin Spacey',
+    'b22835e0-6254-5dec-bdb6-16326905b3b9' => [
+        'In nicey-nicey land, you must be happy-clappy and positive all the time - bad news is taboo.',
+        'Michael Leunig',
     ],
-    '9c7840ba-c06f-56ae-9bb9-736dd74b3733' => [
-        'A positive attitude can really make dreams come true - it did for me.',
-        'David Bailey',
+    '0f8162bc-da19-51fc-beb8-f41b0c46fafc' => [
+        'The fox has many tricks. The hedgehog has but one. But that is the best of all.',
+        'Ralph Waldo Emerson',
     ],
-    'd95b9899-593f-511d-8a43-77589da3d0a3' => [
-        'I think a lot of the American people feel more than a little disappointed that the high-water mark for human exploration was 1969. The dream of human space travel has almost died for a lot of people.',
-        'Elon Musk',
+    '8834a13c-c5a6-5a0c-b45c-cf75b786107d' => [
+        'If you\'re talking about Java in particular, Python is about the best fit you can get amongst all the other languages. Yet the funny thing is, from a language point of view, JavaScript has a lot in common with Python, but it is sort of a restricted subset.',
+        'Guido van Rossum',
     ],
-    'd6af6381-e5fd-519a-b28e-2b833e36dc7b' => [
-        'Without this tremendous passion for power, influence, and advantage which money gives, how could nature develop the highest type of man? Without this infinite longing, whence would come the discipline which industry, perseverance, tact, sagacity, and frugality give?',
-        'Orison Swett Marden',
+    '71d08dd4-d04d-5e91-a14d-dff6418e878f' => [
+        'I think home has become my friends and family, wherever they are.',
+        'Rachel Brosnahan',
     ],
-    'dbf7a07c-649c-59aa-8131-99e14a84e20e' => [
-        'I grew up in Doncaster and have felt the love for football run through the town; it\'s for that reason that I have a real personal passion to make Doncaster Rovers a success story.',
-        'Louis Tomlinson',
+    'd0abd1d5-99fa-5a15-9444-155b94968d35' => [
+        'Don\'t ruin the present with the ruined past.',
+        'Ellen Gilchrist',
     ],
-    'c13c8e83-e8c1-51e3-9c93-89082fef96ae' => [
-        'Dare, dream, dance, smile, and sing loudly! And have faith that love is an unstoppable force!',
-        'Suzanne Brockmann',
+    '6dadd03a-9a1d-549d-8285-345eb855836a' => [
+        'If patience is worth anything, it must endure to the end of time. And a living faith will last in the midst of the blackest storm.',
+        'Mahatma Gandhi',
     ],
-    '9e340aca-630d-5faa-982e-71d81bc6fc01' => [
-        'Human beings want to be free and however long they may agree to stay locked up, to stay oppressed, there will come a time when they say \'That\'s it.\' Suddenly they find themselves doing something that they never would have thought they would be doing, simply because of the human instinct that makes them turn their face towards freedom.',
-        'Aung San Suu Kyi',
+    'bb8345e4-bdf0-5e2b-9386-205c1612ac72' => [
+        'Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.',
+        'Charles M. Schulz',
     ],
-    '06e623a6-2cdf-5ffe-94a7-5635e5e19053' => [
-        'Real beauty knocks you a little bit off kilter.',
-        'David Byrne',
-    ],
-    '28ab378c-ef3a-53bd-bd9a-2e41672e1054' => [
-        'If one is master of one thing and understands one thing well, one has at the same time, insight into and understanding of many things.',
-        'Vincent Van Gogh',
-    ],
-    'ac0e392a-26e9-5726-9bc0-797ba6cbdc48' => [
-        'I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles.',
-        'Audrey Hepburn',
-    ],
-    'b646c1fe-0d38-5d5b-8c24-998f943f5b16' => [
-        'Part of the punk attitude was that you should project your music through your whole body... show your personality as much as possible.',
+    '370c5b74-a6cc-5730-b309-c2d377e3611f' => [
+        'I don\'t think punk ever really dies, because punk rock attitude can never die.',
         'Billy Idol',
     ],
-    '8549bd29-0ebb-5972-b4a9-bf98227d1a51' => [
-        'The attention of a traveller, should be particularly turned, in the first place, to the various works of Nature, to mark the distinctions of the climates he may explore, and to offer such useful observations on the different productions as may occur.',
-        'William Bartram',
+    '5a36449e-6a2d-596d-9a00-cd33b501f38b' => [
+        'Don\'t confuse fame with success. Madonna is one; Helen Keller is the other.',
+        'Erma Bombeck',
     ],
-    'b604ff8f-f2ba-5b59-bca4-b1c4b69d5a20' => [
-        'Who picks your clothes - Stevie Wonder?',
-        'Don Rickles',
+    '9b0f656a-0d41-5a58-a7ea-ebfdad927dd3' => [
+        'Be proud of your Latino culture and do the best work you can do, and you will always succeed.',
+        'Lionel Sosa',
     ],
-    '84ad34d2-f040-5726-999c-5f560f68c02e' => [
-        'I think that I was slightly naive. I thought that if I showed people the beauty of the Arctic and the beauty of the polar bears that they would care so much that they would stand up and try to make a change.',
-        'Lewis Gordon Pugh',
+    'a9c2f351-48e6-5932-abf4-39cb0fcbe0cf' => [
+        'I\'m not proud of it, but I\'m a great liar when I travel. I smile and lie, and things are smooth.',
+        'Paolo Bacigalupi',
     ],
-    'ad0aa978-37ca-5a61-a938-b14a7b862789' => [
-        'Always remember your kid\'s name. Always remember where you put your kid. Don\'t let your kid drive until their feet can reach the pedals. Use the right size diapers... for yourself. And, when in doubt, make funny faces.',
-        'Amy Poehler',
+    '6a563147-234e-5b3a-9347-5f258f05c035' => [
+        'Family means no one gets left behind or forgotten.',
+        'David Ogden Stiers',
     ],
-    '94d8592d-2071-5248-8164-56e2a9a18e40' => [
-        'The cure for boredom is curiosity. There is no cure for curiosity.',
-        'Ellen Parr',
+    '57a9e62f-c66a-50b8-93af-ac28e34b6e66' => [
+        'It stands to the everlasting credit of science that by acting on the human mind it has overcome man\'s insecurity before himself and before nature.',
+        'Albert Einstein',
     ],
-    '0944abe4-110c-50ed-8dc0-6680d6643a14' => [
-        'The idea of making access to safe abortions harder and more expensive and more difficult, having to travel across state lines - that puts women\'s health and lives in jeopardy, which is something I think no one wants.',
-        'Cynthia Nixon',
+    'abf7856f-c2bb-554a-ba2f-1bf7817714ff' => [
+        'He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.',
+        'Buddha',
     ],
-    '5fe1e027-3cfb-5632-972f-b5364bf3b99c' => [
-        'Life is too short to worry about anything. You had better enjoy it because the next day promises nothing.',
-        'William James',
+    'bbf76fbd-9456-5649-997a-a2a8f557d776' => [
+        'Winning isn\'t everything, it\'s the only thing.',
+        'Vince Lombardi',
     ],
-    '0cfb4141-cb59-57b2-b870-af7b5bfd4b94' => [
-        'In three words I can sum up everything I\'ve learned about life: it goes on.',
-        'Philip Sidney',
+    '6a854be7-6ecc-598a-aa11-62987958f49b' => [
+        'Europe and Africa share proximity and history, ideas and ideals, trade and technology. You are tied together by the ebb and flow of people. Migration presents policy challenges - but also represents an opportunity to enhance human development, promote decent work, and strengthen collaboration.',
+        'Ban Ki-moon',
     ],
-    'cb1cee30-6e8f-52d7-aa98-370a0d13d855' => [
-        'O man you are busy working for the world, and the world is busy trying to turn you out.',
-        'Abu Bakr',
+    '0fa4e181-4503-5514-9b3d-9f2b49ce0792' => [
+        'My work is not about \'form follows function,\' but \'form follows beauty\' or, even better, \'form follows feminine.\'',
+        'Oscar Niemeyer',
+    ],
+    'aa3f2d4c-4560-5774-9453-bb17904f5482' => [
+        'I actually think that I\'m a rather optimistic and happy person; it\'s just that I\'m not a very positive person, if you see the difference.',
+        'Linus Torvalds',
+    ],
+    '390100f9-48f8-5537-a710-e26d5204bd1f' => [
+        'Time is nature\'s way of keeping everything from happening at once.',
+        'John Archibald Wheeler',
+    ],
+    '35908629-0031-569d-bed1-c07bf47f3078' => [
+        'Learn all you can from the mistakes of others. You won\'t have time to make them all yourself.',
+        'Alfred Sheinwold',
+    ],
+    'bcbbee28-77a4-5996-9015-e7e9baed936b' => [
+        'It was one of those evenings when men feel that truth, goodness and beauty are one. In the morning, when they commit their discovery to paper, when others read it written there, it looks wholly ridiculous.',
+        'Aldous Huxley',
+    ],
+    'df391c38-9073-5dd4-9280-66b479f1a833' => [
+        'I\'m thankful for all the things that this job has given me and my family. But probably the thing that I am most proud of throughout my career is that, not only myself, but my family and the people around me have just been regular people, which we are.',
+        'Brett Favre',
+    ],
+    '779e529f-f569-5b71-abb1-f34ba94a577b' => [
+        'Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.',
+        'Byron Pulsifer',
+    ],
+    '38515312-005c-50fd-9f2e-f419e784cd3d' => [
+        'There was a time when men thought it was sexy to have a housewife waiting for him to come home from work in her slippers, but in modern society, I think an independent woman is even more sexy.',
+        'Kat Graham',
+    ],
+    'a9950642-4749-52b8-81bf-e7599bce3525' => [
+        'In the state of nature profit is the measure of right.',
+        'Thomas Hobbes',
+    ],
+    '050f15e5-34f7-5f30-9629-1def47783eb8' => [
+        'Work alone is noble.',
+        'Thomas Carlyle',
+    ],
+    '4b2b72ff-f8cb-5516-8597-35fcbe4bd84e' => [
+        'Hitch your wagon to a star.',
+        'Ralph Waldo Emerson',
+    ],
+    '94488a8a-7b51-5f59-88e8-4409ed67652e' => [
+        'The reason why you know more funny dudes than funny chicks is that dudes are funnier than chicks. If my daughter has a mediocre sense of humor, I\'m just gonna tell her, \'Be a staff writer for a sitcom. Because they\'ll have to hire you, they can\'t really fire you, and you don\'t have to produce that much. It\'ll be awesome.\'',
+        'Adam Carolla',
+    ],
+    'a9492ea7-509a-5e36-8e9d-83af33029e41' => [
+        'Your sweetheart calls you by another\'s name. His eyes linger too long on your best friend. He talks with excitement about a girl at work. And the fire catches. Jealousy - that sickening combination of possessiveness, suspicion, rage, and humiliation - can overtake your mind and threaten your very core as you contemplate your rival.',
+        'Helen Fisher',
+    ],
+    '79082835-b3bb-53a6-a818-1299149aa0fe' => [
+        'I always thought when I hit 50 years old that\'d be it for the travel. I don\'t have to tell you - you wait at an airport, your flight\'s delayed, get on a 14-hour flight, get off, get stuck in traffic, you get to the hotel and the room service is closed.',
+        'Brian Setzer',
+    ],
+    '9aa2a23b-6aa0-5516-8344-8f710a484832' => [
+        'Sometimes the best way to learn something is by doing it wrong and looking at what you did.',
+        'Neil Gaiman',
     ],
 ];

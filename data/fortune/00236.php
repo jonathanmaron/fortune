@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'ef27391f-9d85-5a88-8054-a9b233961981' => [
-        'Better to have loved and lost, than to have never loved at all.',
-        'St. Augustine',
+    'e1a022e5-b574-5866-b3d3-53195d6d3b34' => [
+        'Time is a created thing. To say \'I don\'t have time,\' is like saying, \'I don\'t want to\'.',
+        'Lao Tzu',
     ],
-    '91091501-2672-509a-833f-5a8824eb52c8' => [
-        'In both business and personal life, I\'ve always found that travel inspires me more than anything else I do. Evidence of the languages, cultures, scenery, food, and design sensibilities that I discover all over the world can be found in every piece of my jewelry.',
-        'Ivanka Trump',
+    '662b5d0c-dde0-502f-b060-2f4e73111efa' => [
+        'If I want to knock a story off the front page, I just change my hairstyle.',
+        'Hillary Clinton',
     ],
-    '7b26624b-7ca7-537d-a629-e104b4a94d82' => [
-        'A hero is someone who has given his or her life to something bigger than oneself.',
-        'Joseph Campbell',
+    '924209af-6e6f-5bb2-8de5-65617f7fc523' => [
+        'Don\'t let people see when you\'re mad - just smile and laugh.',
+        'Astro',
     ],
-    '66daa83b-74c4-56d3-906e-fe32fef26521' => [
-        'We have eyes, and we\'re looking at stuff all the time, all day long. And I just think that whatever our eyes touch should be beautiful, tasteful, appealing, and important.',
-        'Eric Carle',
+    'ebafaec8-642e-59d9-a005-4af380d30622' => [
+        'Sometimes a loss is the best thing that can happen. It teaches you what you should have done next time.',
+        'Snoop Dogg',
     ],
-    'b1682afe-2dfd-526f-92cb-63b31c7a1864' => [
-        'Our brand of democracy is hard. But I can promise that a year from now, when I no longer hold this office, I\'ll be right there with you as a citizen - inspired by those voices of fairness and vision, of grit and good humor and kindness that have helped America travel so far.',
-        'Barack Obama',
+    'c38288c4-74a1-5190-b3b2-2a086cb33e7a' => [
+        'Time travel was once considered scientific heresy, and I used to avoid talking about it for fear of being labelled a \'crank.\'',
+        'Stephen Hawking',
     ],
-    'b867d875-5eb3-5f28-914b-5d768828bf45' => [
-        'There are people who have money and people who are rich.',
-        'Coco Chanel',
+    '71306a20-2797-5808-b453-0b7781f38f65' => [
+        'If you look at the history of Wonder Woman, you look at the iconography, the images that have kept her alive - they\'re not dark. The thing I think is so important to always keep in mind about her is how positive and bright and shiny she is - very much in the same way that Superman has been.',
+        'Patty Jenkins',
     ],
-    '693c61e3-28ef-56a2-889c-24d959619ce6' => [
-        'I\'m not hungry for success. I am only hungry for good work, and that is how it is with most superstars. Every day I tell myself how fortunate I am to be where I am.',
-        'Akshay Kumar',
+    '8c3a63db-28cc-56f5-859a-6f20f19af441' => [
+        'Youth is really in your attitude, not in what you look like.',
+        'Walt Handelsman',
     ],
-    'd63a3ee8-1c16-5c78-a447-31710d0bccb9' => [
-        'A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies.',
+    'fac9139c-90b3-5327-98c9-5293f0a838e1' => [
+        'Today we are searching for things in nature that are hidden behind the veil of appearance... We look for and paint this inner, spiritual side of nature.',
+        'Franz Marc',
+    ],
+    '82f82c80-b37a-500b-bb79-f10fd439306c' => [
+        'Hardboiled crime fiction came of age in \'Black Mask\' magazine during the Twenties and Thirties. Writers like Dashiell Hammett and Raymond Chandler learnt their craft and developed a distinct literary style and attitude toward the modern world.',
+        'Charles Frazier',
+    ],
+    'e963b0e4-f5b4-5996-b7fd-c729848a6687' => [
+        'Act as if what you do makes a difference. It does.',
+        'William James',
+    ],
+    'c0f28d94-11c0-5eb4-bf93-e0a7a31ce0c4' => [
+        'My dad was my best friend and greatest role model. He was an amazing dad, coach, mentor, soldier, husband and friend.',
+        'Tiger Woods',
+    ],
+    'd508477a-2265-5d97-a2d1-5ba498198667' => [
+        'The secret of my success is my hairspray.',
+        'Richard Gere',
+    ],
+    '51aa850f-7243-533b-b4a9-f6dfefe0c0b8' => [
+        'Many years ago, large packs of wolves roamed the countryside in Ukraine, making travel in that part of the world very dangerous. These wolf packs were fearless. They were not intimidated by people nor by any of the weapons available at that time. The only thing that seemed to frighten them was fire.',
+        'Joseph B. Wirthlin',
+    ],
+    'edc50596-ea98-57de-9bb2-fb401e75f393' => [
+        'Talking is always positive. That\'s why I talk too much.',
+        'Louis C. K.',
+    ],
+    '405c0acc-3f74-569f-bdf4-011b64c33dc4' => [
+        'If you travel first class, you think first class and you are more likely to play first class.',
+        'Ray Floyd',
+    ],
+    '98fa2fe7-a1f4-539f-91e7-682d5fe0cbdf' => [
+        'Our environment, the world in which we live and work, is a mirror of our attitudes and expectations.',
+        'Earl Nightingale',
+    ],
+    '599d7168-023b-50d1-ad69-b5decc11dcbc' => [
+        'Without continual growth and progress, such words as improvement, achievement, and success have no meaning.',
+        'Benjamin Franklin',
+    ],
+    '4a822038-544b-553b-81de-c59369c94435' => [
+        'Hope... is the companion of power, and the mother of success; for who so hopes has within him the gift of miracles.',
+        'Samuel Smiles',
+    ],
+    'e0d37ec6-9982-5996-ae6f-74e837a1c733' => [
+        'Truman is now seen as a near-great president because he put in place the containment doctrine boosted by the Truman Doctrine and the Marshall Plan and NATO, which historians now see as having been at the center of American success in the cold war.',
+        'Robert Dallek',
+    ],
+    '3a4f9a40-7d6b-5c2a-b0d2-a66206b8b5d1' => [
+        'What am I responsible for? Who am I responsible to? Everybody? How come when Archie Bunker nailed everybody, it was funny - but when I do it, it\'s not?',
+        'Sam Kinison',
+    ],
+    '7187fc79-85f0-5d41-8b94-8016a598254e' => [
+        'Now, therefore, the Directors of the company are hereby ordered to see that precautions are taken to make travel on said railroad perfectly safe by using a screw with at least twenty-four inches diameter.',
+        'Joshua A. Norton',
+    ],
+    '41cc2a70-54b3-5117-8421-cc9afda21e03' => [
+        'Watch out for the joy-stealers: gossip, criticism, complaining, faultfinding, and a negative, judgmental attitude.',
+        'Joyce Meyer',
+    ],
+    '4483500f-4edd-5386-8952-b2c8f9411399' => [
+        'Creativity Is Intelligence Having Fun.',
+        'Albert Einstein',
+    ],
+    '8015c2ce-23f1-5241-a076-874c52fe6b6c' => [
+        'Do what you feel in your heart to be right, for you\'ll be criticized anyway.',
+        'Eleanor Roosevelt.',
+    ],
+    'f494739c-f4fb-5892-84f0-1d32c74edf46' => [
+        'The violets in the mountains have broken the rocks.',
+        'Tennessee Williams',
+    ],
+    '9e77e5f6-c594-5e0d-9897-e4132e68796b' => [
+        'If people want to compete for leadership of a religious group, they can compete in piety. A chilling thought. Or funny.',
+        'Mary Douglas',
+    ],
+    '359aca4a-78db-54d8-895d-96197804fb33' => [
+        'I love things that age well - things that don\'t date, that stand the test of time and that become living examples of the absolute best.',
+        'Giorgio Armani',
+    ],
+    'ba0f16bf-4900-5c34-b2a4-4d8d23f971ee' => [
+        'Everything has beauty, but not everyone sees it.',
         'Confucius',
     ],
-    'd8a1cd78-60e4-5217-91a5-2cc456ebc88e' => [
-        'I started writing when I was 9 years old. I was like this weird kid who would just stay in my room, typing little funny magazines and drawing comic strips.',
-        'R. L. Stine',
+    '2e4a07b7-4008-5229-8224-4f9b93e7f2b9' => [
+        'Modern art, in particular, seems especially vulnerable to fraud. Its abstractions are sometimes difficult to understand or grasp, and a modern painting is often loved less because of its intrinsic quality - its beauty, as conventionally understood - than because of the identity of the painter, its mark of social status.',
+        'Peter Landesman',
     ],
-    '2e59892f-d728-572e-8536-d5abe06e598e' => [
-        'Why hurry over beautiful things? Why not linger and enjoy them?',
-        'Clara Schumann',
+    '1a253420-96a3-5143-8a37-e01456b2a388' => [
+        'Working 24 hours a day isn\'t enough anymore. You have to be willing to sacrifice everything to be successful, including your personal life, your family life, maybe more. If people think it\'s any less, they\'re wrong, and they will fail.',
+        'Kevin O\'Leary',
     ],
-    'cad8a7e8-30d7-5fbe-9852-4116f208b5ed' => [
-        'A man of ability and the desire to accomplish something can do anything.',
-        'Donald Kircher',
+    '9ad0e795-a08a-5087-abbe-2e6637abd667' => [
+        'I just try to be the best I can, but I\'m human.',
+        'Selena Gomez',
     ],
-    'c43f66f4-77a4-5d65-bd52-7b5d41e8ef53' => [
-        'Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent.',
-        'Nolan Ryan',
+    '8a6ca08b-5659-58da-9f4c-f29ccaca4df2' => [
+        'It\'s never too late to be whoever you want to be. I hope you live a life you\'re proud of, And if you find that you\'re not, I hope you have the strength to start over.',
+        'F. Scott Fitzgerald',
     ],
-    '466e2331-27c3-5fd3-890f-62fa12681373' => [
-        'As we risk ourselves, we grow. Each new experience is a risk.',
-        'Fran Watson',
+    'c0b1b5a5-9014-58df-b5d5-70c4936645e6' => [
+        'If liberty means anything at all, it means the right to tell people what they do not want to hear.',
+        'George Orwell',
     ],
-    '3a609b9c-409a-5037-a7cd-ce773ab8b0b2' => [
-        'There is a beauty and clarity that comes from simplicity that we sometimes do not appreciate in our thirst for intricate solutions.',
-        'Dieter F. Uchtdorf',
+    '73546868-47e5-5cad-9318-f4ec848a3b3e' => [
+        'Love is a chain of love as nature is a chain of life.',
+        'Truman Capote',
     ],
-    '951d17d1-b498-5f33-bda7-34344d5383be' => [
-        'I\'d like to dial it back 5% or 10% and try to have a vacation that\'s not just e-mail with a view.',
-        'Elon Musk',
+    '5ae49119-fba6-597f-919e-6f4831b3d60d' => [
+        'Some people say that I have an attitude- Maybe I do. But I think that you have to. You have to believe in yourself when no one else does- that makes you a winner right there.',
+        'Venus Williams',
     ],
-    'cfb11d25-8e97-545b-90f4-823016db8227' => [
-        'An important priority for me is a business must get their own house in order. Be or become an agent of positive change in your own enterprise and adopt responsible practices to eliminate the risks that often lie at the root of inequality and poverty.',
-        'Richard Branson',
+    '32d6f556-c20b-54b8-9c45-5322ae50eabf' => [
+        'We can see that the sacramental presence of the Lord in the Eucharist is an essential gift for us and give us also the possibility to love the others and to work for the others.',
+        'Pope Benedict XVI',
     ],
-    '9c370ca1-8e20-5c8c-b626-7ccb933cf6fb' => [
-        'Success means your thoughts are worthy of everyone\'s consideration.',
-        'Julian Fellowes',
+    '5b41d71b-3f91-5cc6-9e44-98114c95e087' => [
+        'Anything you really want, you can attain, if you really go after it.',
+        'Wayne Dyer',
     ],
-    'd111eb21-9c3b-56f0-8a23-578573a2aee2' => [
-        'To be able to look back upon one\'s past life with satisfaction is to live twice.',
-        'Jake Gyllenhaal',
+    '62ffb914-e744-5c28-b28a-1050de03265d' => [
+        'If you create incredible value and information for others that can change their lives - and you always stay focused on that service - the financial success will follow.',
+        'Brendon Burchard',
     ],
-    '5dc1cadc-bd5d-5fed-b6c7-5aa3f609a219' => [
-        'Stage fright is not a thing about \'Am I any good?\' It\'s about \'Am I gonna be good tonight?\' It\'s a right-now thing. It helps me. If I went out there thinkin\', \'Eh, we\'ll go slaughter \'em,\' I\'m positive something would go seriously wrong.',
-        'Gregg Allman',
+    '2879002b-0f6d-5465-b422-6af9505cd75a' => [
+        'It\'s a funny thing about life; if you refuse to accept anything but the best, you very often get it.',
+        'W. Somerset Maugham',
     ],
-    '9df1e510-526c-59e6-9223-0d04675c5131' => [
-        'Writers, as they gain success, feel like outsiders because writers don\'t come together in real groups.',
-        'Anne Rice',
+    'eee64ae8-33b7-573c-8081-0087226963a4' => [
+        'We should not say that one man\'s hour is worth another man\'s hour, but rather that one man during an hour is worth just as much as another man during an hour. Time is everything, man is nothing: he is at the most time\'s carcass.',
+        'Karl Marx',
     ],
-    '8cb2324f-030c-5ed8-ab18-be500fccefeb' => [
-        'Boundary setting is really a huge part of time management.',
-        'Jim Loehr',
+    '10a53ba6-cbea-5c1c-a728-3470370af725' => [
+        'If you study both \'Gilligan\' and \'Brady,\' you will see they are based on a similar philosophy: that it\'s possible for different kinds of people to learn to live together, either in a family or stuck on an island with no escape.',
+        'Sherwood Schwartz',
     ],
-    '966f1f13-3d00-5f3b-a3c6-446c2186947a' => [
-        'Human nature is not nearly as bad as it has been thought to be.',
-        'Abraham Maslow',
+    '0c671444-a3cb-5762-a62a-f46d5876f2dc' => [
+        'Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.',
+        'Carl Sandburg',
     ],
-    '304b389a-7854-5a27-b4b9-09a3bb902e16' => [
-        'Never go on trips with anyone you do not love.',
-        'Ernest Hemingway',
+    'a89ec028-f10a-5a5f-89fb-87d728e74189' => [
+        'Spend some time this weekend on home improvement; improve your attitude toward your family.',
+        'Bo Bennett',
     ],
-    '4abf5cd5-56dc-5b48-8884-43d18ea170ec' => [
-        'Success is ... knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others.',
-        'John C. Maxwell',
+    '666bf796-7b6d-571c-93b3-1c26fbabf5b6' => [
+        'You may have to fight a battle more than once to win it.',
+        'Margaret Thatcher',
     ],
-    '6f6c2e4e-8744-5699-a87c-9c0129d89896' => [
-        'Youth is something I never wanna take for granted. I just want to smile and live life.',
-        'Tyler, The Creator',
+    'd310126d-a67c-5e44-99d9-efa018cf9f4d' => [
+        'Time is what prevents everything from happening at once.',
+        'John Archibald Wheeler',
     ],
-    '94f84375-25dc-5ef4-8ae1-060711265f1b' => [
-        'To live is so startling it leaves little time for anything else.',
-        'Keanu Reeves',
+    'f74bd9c6-8813-5233-9827-cb0fe1d6e1bb' => [
+        'How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.',
+        'Arthur Rubinstein',
     ],
-    '82634395-caea-5778-9586-5f3e8fe24ce6' => [
-        'If we live good lives, the times are also good. As we are, such are the times.',
-        'Malala Yousafzai',
+    '9ed31cd8-8821-5fbe-b608-928fc7d83488' => [
+        'The best part of being a vegan is the purity and peace of mind one experiences and the strong connection I feel to the animal kingdom.',
+        'Uri Geller',
     ],
-    'c3b96009-9722-56f8-85b4-af9aab0d39de' => [
-        'I was taking myself very seriously when I was going through life changes. And I realized that I needed to laugh at myself, particularly at my mistakes.',
-        'Kevin Bacon',
+    '62064450-9b5e-5572-9ead-be284591cb4f' => [
+        'I think \'Heroes of Cosplay\' will show a lot of the positive things, like how much effort it takes to make a costume. These people on the show aren\'t taking shortcuts. As long as that effort gets through to the viewers, we will be inspirational. Then there will be people who watch the show that want to get in and hands-on make outfits.',
+        'Yaya Han',
     ],
-    '5a18dd5f-3358-5bda-8fbf-c6945048d7cb' => [
-        'It\'s easy to be critical of ourselves and other women around us. We stand in front of the mirror and only focus on the things we hate about our body and our appearance. But I encourage you to change that attitude the next time you are in front of the mirror.',
-        'Katherine Schwarzenegger',
+    '2eeb7778-aeaf-5842-b8be-bd4c9a67513b' => [
+        'It seems like the chaos of this world is accelerating, but so is the beauty in the consciousness of more and more people.',
+        'Anthony Kiedis',
     ],
-    'b95e6efd-93cc-59d9-acbd-06e2d2aa028c' => [
-        'Beauty is merciless. You do not look at it, it looks at you and does not forgive.',
-        'Nikos Kazantzakis',
-    ],
-    '3c211f53-3064-5a3b-a928-d9d904565b0a' => [
-        'Fashion is always of the time in which you live. It is not something standing alone. But the grand problem, the most important problem, is to rejeuvenate women. To make women look young. Then their outlook changes. They feel more joyous.',
-        'Coco Chanel',
-    ],
-    '26b8c2aa-5b65-564d-ac11-5ca69bdfbc72' => [
-        'What would you do if you weren\'t afraid.',
-        'Spencer Johnson',
-    ],
-    '9cccd9f8-ce23-5722-aeb2-38fee38b99d6' => [
-        'What I love best in life is new starts.',
-        'Karl Lagerfeld',
-    ],
-    '063ade7c-29f9-5049-b9a5-e419a217addb' => [
-        'It is impossible to predict the time and progress of revolution. It is governed by its own more or less mysterious laws.',
-        'Vladimir Lenin',
-    ],
-    '36e7204c-3f6b-5efc-b2d1-ca5a813d9312' => [
-        'I realized I love motivating and I love empowering and I love inspiring people. I did that as an athlete for 18 years, and I am able to do that as a motivational speaker now as well as doing work on television.',
-        'Dominique Dawes',
-    ],
-    '50fc8d64-de42-58c0-a2e9-f7a187dd9f6e' => [
-        'We should not give up and we should not allow the problem to defeat us.',
-        'A. P. J. Abdul Kalam',
-    ],
-    '25a0c428-656f-5e5e-8e16-443c4576aff3' => [
-        'Beauty, n: the power by which a woman charms a lover and terrifies a husband.',
-        'Ambrose Bierce',
-    ],
-    'a53d7242-fe26-50d5-b499-2294a2ce7ca8' => [
-        'I was raised in a dominantly Filipino family. I didn\'t know I was \'mixed\' until I got older and started asking questions about my grandparents, the origins of our middle and last names. We were kind of textbook Pinoys. A lot of the Filipino stereotypes that were joked about by me and my friends rang very true with my family.',
-        'Vincent Rodriguez III',
-    ],
-    '5a4674c9-42c6-56e8-acce-aebf021ccc70' => [
-        'Our behavior toward each other is the strangest, most unpredictable, and most unaccountable of all the phenomena with which we are obliged to live. In all of nature, there is nothing so threatening to humanity as humanity itself.',
-        'Lewis Thomas',
-    ],
-    '5452119d-4818-5492-be45-9df534ad00d4' => [
-        'Optimists are usually wrong. But all the great change in history, positive change, was done by optimists.',
-        'Thomas Friedman',
-    ],
-    '80490161-d982-5a99-9445-4f9170df9fbf' => [
-        'Don\'t get me wrong, I admire elegance and have an appreciation of the finer things in life. But to me, beauty lies in simplicity.',
-        'Henry David Thoreau',
-    ],
-    '7d87a74a-8c5d-58fe-b30e-763a43dfbb20' => [
-        'If you drive to, say, Shenandoah National Park, or the Great Smoky Mountains, you\'ll get some appreciation for the scale and beauty of the outdoors. When you walk into it, then you see it in a completely different way. You discover it in a much slower, more majestic sort of way.',
-        'Bill Bryson',
-    ],
-    '6a8dd297-f08a-56ee-a18a-e2166438f40b' => [
-        'My theory is, if you force yourself to smile enough, then you start to feel it. Which comes in handy all the time.',
-        'Erika Christensen',
-    ],
-    '61a51510-a1a5-5a7c-a9a2-602a45c68b73' => [
-        'I like to travel by myself.',
-        'Carly Rae Jepsen',
-    ],
-    'e0f1310d-26d1-5e00-9e69-294f8fc564c7' => [
-        'The superfluous, a very necessary thing.',
-        'Voltaire',
-    ],
-    'bcfcbf96-5521-5941-bbd4-b5be9ee3c8a0' => [
-        'I think that a lot of people in all walks of life have the impression, of course, that, \'I specialize in something. I can\'t - I don\'t have the time to read other things. I\'ll just go to pure entertainment when I\'m relaxing, and then I\'ll come back to my pure specialty.\' That produces - that attitude produces idiot savants, unfortunately.',
-        'Robert J. Shiller',
-    ],
-    '4dc0eba2-ddc7-5a38-adbc-235ec8933dde' => [
-        'Be yourself. Follow your instincts. Success depends, at least in part, on the ability to \'carry it off.\'',
-        'Donald Rumsfeld',
-    ],
-    '5a828f08-93eb-5e04-8dce-69013fb3fca4' => [
-        'Success is knowing that your contribution is what helps the collective.',
-        'Adrian Grenier',
-    ],
-    '3bbc4d8c-7012-5a0c-bf97-fce9fc021c67' => [
-        'It\'s an absolute honor to be taking part in the pageant for the Diamond Jubilee. This is a once-in-a-lifetime opportunity and will be a moment in history that will always be remembered. I\'m really looking forward to being out on the river with friends and family. To mark this historic moment will be extremely special.',
-        'Steve McFadden',
-    ],
-    'cd091d6e-b014-53f0-9496-e3df0cf13b9e' => [
-        'If nothing else, the act of reaching a milestone often serves to reveal a superstar\'s true nature.',
-        'Stephen Rodrick',
+    '511a53f0-d92b-571c-9f47-4d3d716cf380' => [
+        'The attitude of independence toward a constructed language which all national speakers must adopt is really a great advantage, because it tends to make man see himself as the master of language instead of its obedient servant.',
+        'Edward Sapir',
     ],
 ];

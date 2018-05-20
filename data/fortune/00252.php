@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '28707564-08b5-58e2-bd44-7e75c8674a41' => [
-        'Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.',
-        'Billy Wilder',
+    '99652281-fc10-5b06-90bd-a1a58cc76204' => [
+        'People say, what is she thinking? I\'m thinking: fun; cash; travel.',
+        'Gail Porter',
     ],
-    '79b93526-2d03-5e7e-b247-dde592d82a04' => [
-        'God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.',
-        'Arthur Young',
+    'c3c4d722-39f4-5001-9c12-4ae0521efecf' => [
+        'It is the addition of strangeness to beauty that constitutes the romantic character in art.',
+        'Walter Hagen',
     ],
-    '63a4f4dd-8af6-5c08-9dce-c4e880ac38de' => [
-        'There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.',
-        'Jiddu Krishnamurti',
+    '6699657b-0edf-58ee-b1a2-4b43f54f1115' => [
+        'Parrots make great pets. They have more personality than goldfish.',
+        'Chevy Chase',
     ],
-    '42941a37-db1b-5b37-b7c2-e85763b81b35' => [
-        'Beauty is everlasting And dust is for a time.',
-        'Marianne Moore',
+    '38b18f4a-ceb2-5fb5-856b-dda2dd497b1a' => [
+        'To bring up a child in the way he should go, travel that way yourself once in a while.',
+        'Josh Billings',
     ],
-    '81768f4a-72e4-54b1-9ff8-89ff69dae0f7' => [
-        'People don\'t really understand, but having people stare, and point, and take pictures, even if it is in a positive framework, is quite isolating; there\'s no two ways about it. You feel a little bit, you know, freakish.',
-        'Emma Watson',
+    'ef59bf7b-354f-5b06-a695-f9198ed1de96' => [
+        'Yoga is a method for restraining the natural turbulence of thoughts, which otherwise impartially prevent all men, of all lands, from glimpsing their true nature of Spirit. Yoga cannot know a barrier of East and West any more than does the healing and equitable light of the sun.',
+        'Paramahansa Yogananda',
     ],
-    '6c4d6da2-47a8-55d1-8933-af80b613891f' => [
-        'I live in a town called Beerwah, right in the middle of Australia Zoo. It\'s not hustle and bustle and busy, so that\'s helpful. We travel all over the world, but I\'ve always been able to come home and run around in the middle of the Australian outback.',
-        'Bindi Irwin',
+    '3b9efa2f-5b13-59c8-bc7b-acdc5c245002' => [
+        'In Reykjavik, Iceland, where I was born, you are in the middle of nature surrounded by mountains and ocean. But you are still in a capital in Europe. So I have never understood why I have to choose between nature or urban.',
+        'Bjork',
     ],
-    '27fe60ca-6ca1-57cd-bede-a0e0d164bd6b' => [
-        'Treat failure as a lesson on how not to approach achieving a goal, and then use that learning to improve your chances of success when you try again. Failure is only the end if you decide to stop.',
+    '5a7dd791-d94f-5cf3-a8a8-e3d56092d22f' => [
+        'In the time of darkest defeat, victory may be nearest.',
+        'William McKinley',
+    ],
+    'd660fd69-0b0d-5d53-b139-477d5e25095a' => [
+        'Motherhood is a great honor and privilege, yet it is also synonymous with servanthood. Every day women are called upon to selflessly meet the needs of their families. Whether they are awake at night nursing a baby, spending their time and money on less-than-grateful teenagers, or preparing meals, moms continuously put others before themselves.',
+        'Charles Stanley',
+    ],
+    'aa7618ee-6199-52e1-8604-034a3df5cdec' => [
+        'I love my past. I love my present. Im not ashamed of what Ive had, and Im not sad because I have it no longer.',
+        'Colette',
+    ],
+    'b0644d63-1fb7-594c-8201-90d630f787e2' => [
+        'In a war situation or where violence and injustice are prevalent, poetry is called upon to be something more than a thing of beauty.',
+        'Seamus Heaney',
+    ],
+    '33ae9255-babb-52d0-8c47-fb502005866d' => [
+        'I don\'t know about you, but my girlfriends have been my girlfriends forever, and they\'re my sisters and my family.',
+        'Elizabeth Olsen',
+    ],
+    'b5ce6fb9-a22d-5e18-a793-51dd85a174e9' => [
+        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
+        'Jim Gaffigan',
+    ],
+    'e491e6a8-0b49-5965-a658-a688355ece23' => [
+        'I feel it is important not to get overly obsessed and overly carried away with just the physical aspect. There is more to beauty than just the physical appearance. You are also a complete person, and a woman should have an identity beyond just the way she looks.',
+        'Katrina Kaif',
+    ],
+    'b009af7b-6ddf-522c-8458-9505a476e9c8' => [
+        'Normal is not something to aspire to, it\'s something to get away from.',
+        'Jodie Foster',
+    ],
+    '763d6b5e-5098-59de-9567-12e8d9d6d8ae' => [
+        'You do not become good by trying to be good, but by finding the goodness that is already within you.',
+        'Eckhart Tolle',
+    ],
+    'f68d5bff-e3cc-52eb-88b3-40d98deaba4c' => [
+        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
+        'Evgeny Morozov',
+    ],
+    'f451b12f-c9bb-582a-94aa-48d1a8950612' => [
+        'If you\'re a goal scorer, you have to have a certain attitude. I\'m very serious. My missus thinks I\'m a bit weird. I\'m cold, I don\'t have many emotions. It\'s very rare I cry.',
+        'Michael Owen',
+    ],
+    '54a6f5ab-0a02-560a-8f90-e98555238415' => [
+        'I have to take care of my family, my team, and my legacy.',
+        'Rafael dos Anjos',
+    ],
+    'a673d1d4-0439-5cfe-b263-d74bbd77a6a1' => [
+        'First-person narrators is the way I know how to write a book with the greatest power and chance of artistic success.',
+        'Anne Rice',
+    ],
+    'a19c991a-03e6-5ced-b717-533ec49bbacb' => [
+        'Many friends of mine told me that normally only guys like a kung fu movie and the girls would be turned off - they want to see a love story. But Ip Man is a family man, so the women see this and go: \'I want my husband to be like this man. He\'ll be a scholar, he\'ll be fighting, he\'ll care for the family.\' So we had a bigger audience.',
+        'Donnie Yen',
+    ],
+    '201b0986-1218-5774-a641-4588391c23e4' => [
+        'The best advice I\'ve received is to be yourself. The best artists do that.',
+        'Frank Gehry',
+    ],
+    'd16a4c98-eee4-5be3-b5be-caa13068ffa9' => [
+        'Form must have a content, and that content must be linked with nature.',
+        'Alvar Aalto',
+    ],
+    '37b257d0-76cc-5305-9312-665ffe0aebd3' => [
+        'Success is like reaching an important birthday and finding you\'re exactly the same.',
+        'Audrey Hepburn',
+    ],
+    '29c29cef-450a-5197-a6e6-ccde0e6c3834' => [
+        'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
+        'Aldous Huxley',
+    ],
+    '39331f6a-e17f-5d1e-9c70-4e518d8d29ce' => [
+        'I grew up under Communism so we could only learn Russian, and then when Communism fell in 1989 we could learn a few more things and have the freedom to travel and the freedom of speech - and the freedom of dreaming, really.',
+        'Petra Nemcova',
+    ],
+    'f2895342-8c31-5664-9bff-674f0797088e' => [
+        'What being a socialist means is... that you hold out... a vision of society where poverty is absolutely unnecessary, where international relations are not based on greed... but on cooperation... where human beings can own the means of production and work together rather than having to work as semi-slaves to other people who can hire and fire.',
+        'Bernie Sanders',
+    ],
+    'acdb4f92-ba91-58a4-b5bb-6ac4111d5a0c' => [
+        'How did it get so late so soon? Its night before its afternoon. December is here before its June. My goodness how the time has flewn. How did it get so late so soon?',
+        'Dr. Seuss',
+    ],
+    '13808590-e7e1-5884-8d46-ab81f1278765' => [
+        'Life is about not knowing, having to change, taking the moment and making the best of it, without knowing what\'s going to happen next.',
+        'Gilda Radner',
+    ],
+    'cc485c0d-57ce-54a8-9dad-fe81fbbbd0d3' => [
+        'We don\'t have enough support for maternal leave and the kinds of things that some of the European countries do. So we still make it hard on women to go into the work force and feel that they can be good at work but then doing the most important job, which is raising your children in a responsible and positive way.',
+        'Hillary Clinton',
+    ],
+    'c0879326-8d84-56fb-bc59-68a829efd0dc' => [
+        'I longed to arrest all beauty that came before me, and at length the longing has been satisfied.',
+        'Julia Margaret Cameron',
+    ],
+    'a2ef4018-c97c-5d8a-9245-e7c28c459556' => [
+        'Everything that used to be a sin is now a disease.',
+        'Bill Maher',
+    ],
+    'd1a0f83d-a6ae-5d4c-8809-ee5f3dfa1e1b' => [
+        'I am a candid interview and I have a dark and dry sense of humor - a very Canadian sense of humor and I am only learning now stupidly that you can\'t read tongue. When I say something funny in a newspaper and I meant it to be funny, it doesn\'t read that way.',
+        'Michael Buble',
+    ],
+    'f5e1259f-6f3f-55c4-8a91-9f1d3e24212b' => [
+        'You just never give up. You do a task to the best of your abilities and beyond.',
+        'Debbie Reynolds',
+    ],
+    'b2497f2d-041b-5eb7-befd-8c1823b86728' => [
+        'All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.',
+        'Kathleen Norris',
+    ],
+    '10e29fba-5993-5328-8ef1-9edeea0c332d' => [
+        'The best fiction is geared towards conflict. We learn most about our characters through tension, when they are put up against insurmountable obstacles. This is true in real life.',
+        'Sufjan Stevens',
+    ],
+    'd043af3a-2134-5841-9ed2-6d66f29f61a7' => [
+        'Economics is a choice between alternatives all the time. Those are the trade-offs.',
+        'Paul Samuelson',
+    ],
+    'b1bce9ae-7425-5667-bf31-deac277a520d' => [
+        'If my life were a song it would probably be titled \'Roller Coaster\', up and down all the time.',
+        'Scotty McCreery',
+    ],
+    '487a5cbf-3b61-524f-8df2-3b972218ed13' => [
+        'Time is the most precious element of human existence. The successful person knows how to put energy into time and how to draw success from time.',
+        'Denis Waitley',
+    ],
+    '9025ced9-42d8-549b-ae6a-3dec9b6f0bcc' => [
+        'The quality of a person\'s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor.',
+        'Paul Rand',
+    ],
+    '80027179-3b30-5bc2-a0ff-443a0bcfee60' => [
+        'The butterfly counts not months but moments, and has time enough.',
+        'Rabindranath Tagore',
+    ],
+    'acd8f813-2ba8-5023-bcf3-91718a1efdb9' => [
+        'Surround yourself with positive people and you\'ll be a positive person.',
+        'Kellie Pickler',
+    ],
+    '18a4ace4-e3e0-5395-b561-8f77691e4bd4' => [
+        'Some pursue happiness, others create it.',
+        'Unknown',
+    ],
+    'b430e238-853a-596e-8598-efd2f4f76169' => [
+        'If you genuinely want something, don\'t wait for it--teach yourself to be impatient.',
+        'Gurbaksh Chahal',
+    ],
+    'c34ecfd1-4e38-5e00-ae6c-34a04661aa6a' => [
+        'Wear a smile and have friends; wear a scowl and have wrinkles.',
+        'George Eliot',
+    ],
+    '0e6145c3-0e46-5e0a-94dd-02fde03e31d4' => [
+        'My family\'s lineage, we are warriors. The McGregor clan, we are warriors all through. We are famous all through the world for our fighting capabilities of all generations. So I have no doubt that\'s stood to me and that led me down this path and gave me what I have.',
+        'Conor McGregor',
+    ],
+    'bc7484c7-58f3-5f93-be43-7bb3a12c484a' => [
+        'An oversupply of national sentiment is not the problem in Somalia. The problem is a lack of it. The problem is an oversupply of sub-sub-clannish attitude.',
+        'Meles Zenawi',
+    ],
+    '52461362-a5c4-5f69-8249-9fec6931f6e2' => [
+        'I adore Madrid. It\'s my city. If I ever move, it will only be for work. Whenever I travel, I always want to get back home.',
+        'Maria Valverde',
+    ],
+    '6a4522b0-aa76-55e8-baed-0b8ee3ec384e' => [
+        'Our passion is our strength.',
+        'Billie Armstrong',
+    ],
+    'cfb11d25-8e97-545b-90f4-823016db8227' => [
+        'An important priority for me is a business must get their own house in order. Be or become an agent of positive change in your own enterprise and adopt responsible practices to eliminate the risks that often lie at the root of inequality and poverty.',
         'Richard Branson',
     ],
-    'cda8c4ef-f614-521e-85dd-205a0e2cf16c' => [
-        'Nature takes away any faculty that is not used.',
-        'William R. Inge',
-    ],
-    '3186458b-deda-5f8a-895b-6eb4d65de567' => [
-        'The Book of Mormon is our handbook of instructions as we travel the pathway from bad to good to better and strive to have our hearts changed.',
-        'David A. Bednar',
-    ],
-    'daa31609-c3c3-56d0-8b93-1f5f756f85f9' => [
-        'I\'m fortunate enough to have learned not to waste time getting frustrated with my kids, or co-workers, or friends and family for not doing everything I wish they would. If someone doesn\'t respond to me the way I want them to, I understand that it doesn\'t have anything to do with me.',
-        'Chandra Wilson',
-    ],
-    'e6ec76db-eaba-59f2-8c98-a14e33c1d871' => [
-        'Life is too short not to celebrate nice moments!',
-        'Ralph Marston',
-    ],
-    'f378047c-d723-5cc5-9630-367e62234f70' => [
-        'The clan is nothing more than a larger family, with its patriarchal chief as the natural head, and the union of several clans by intermarriage and voluntary connection constitutes the tribe.',
-        'Charles Eastman',
-    ],
-    '2c29e4f6-dc53-510c-beaa-7c9af79bffa3' => [
-        'There\'s design, and there\'s art. Good design is total harmony. There\'s no better designer than nature - if you look at a branch or a leaf, it\'s perfect. It\'s all function. Art is different. It\'s about emotion. It\'s about suffering and beauty - but mostly suffering!',
-        'Diane von Furstenberg',
-    ],
-    '8b06b137-9d5a-5ec4-8227-e4c471fa1758' => [
-        'The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. Anything. As long as you believe.',
-        'Bob Ross',
-    ],
-    '7f702f08-8acb-50e1-a858-c3df296f9cf4' => [
-        'Make-up is the last thing to enhance your beauty, but it\'s very important because it builds up your self-confidence and gives you more courage.',
-        'Evelyn Lauder',
-    ],
-    '3f37b41c-7d22-5141-8a43-d3b18c793d62' => [
-        'Sweeter than the perfume of roses is a reputation for a kind, charitable, unselfish nature; a ready disposition to do to others any good turn in your power.',
-        'Orison Swett Marden',
-    ],
-    'fb4dbaae-300b-5e80-bd0e-ccf7edf1f3f9' => [
-        'Beauty is nature\'s brag, and must be shown in courts, at feasts, and high solemnities, where most may wonder at the workmanship.',
-        'John Milton',
-    ],
-    '83c549a2-6933-5627-b395-c35449fcc89e' => [
-        'The railroads needed standardized time; as a result, the technology of train travel shaped the way everyone gets up, eats, goes to sleep, calculates age, and, perhaps of no small importance, imagine the world as a whole, ticking reliably, with reliable deviations, according to the beat of one central clock in a physical location.',
-        'Stacey D\'Erasmo',
-    ],
-    'fecb67ab-16c6-54c3-93b5-08427c968a95' => [
-        'Ten years ago, I still feared loss enough to abandon myself in order to keep things stable. I\'d smile when I was sad, pretend to like people who appalled me. What I now know is that losses aren\'t cataclysmic if they teach the heart and soul their natural cycle of breaking and healing.',
-        'Martha Beck',
-    ],
-    '382a6984-3314-51ae-8506-ee02214dbd39' => [
-        'Skills are cheap. Passion is priceless.',
-        'Gary Vaynerchuk',
-    ],
-    '85209263-7e9b-5313-acff-e78ca77d9f36' => [
-        'And when is there time to remember, to sift, to weigh, to estimate, to total?',
-        'Tillie Olsen',
-    ],
-    '5df14a2a-d959-514b-847b-463c460a5726' => [
-        'If you don\'t design your own life plan, chances are you\'ll fall into someone else\'s plan. And guess what they have planned for you? Not much.',
-        'Jim Rohn',
-    ],
-    'eea7bae7-6adf-518a-9463-25bd44749c3a' => [
-        'Any saxophone player will have those influences come through in their music in a very different way. I can listen to the same 10 sax players as someone else for my entire life, and we\'ll both play completely differently. That\'s the beauty of being a musician.',
-        'Kenny G',
-    ],
-    'bd39cfea-7407-5814-8e21-d1d12bdab7a9' => [
-        'As a former waitress myself, I know firsthand how a simple smile from someone can improve your day and how a single harsh word can destroy it. Being courteous and thoughtful costs you nothing and can sometimes pay you dividends in unexpected ways.',
-        'Susanna Kearsley',
-    ],
-    'dfeb3258-2372-52cc-beb6-80360b9f6564' => [
-        'If your best friend has stolen your girlfriend, it does become life and death.',
-        'Ben Kingsley',
-    ],
-    'bafbea5f-8066-5c15-8eff-f73e6cf71f80' => [
-        'Nobody sees a flower really; it is so small. We haven\'t time, and to see takes time - like to have a friend takes time.',
-        'Georgia O\'Keeffe',
-    ],
-    'd36a04b6-5cff-5da0-b8b1-c0aba0b05e1d' => [
-        'When I go back to family reunions everybody goes, \'Hey cousin! Hey Auntie!\' And I\'m like, \'Okay I don\'t know you, I have no idea who you are.\' I am auntie and cousin for so many and even the ones in prison call me collect. And I\'ll be like, \'Which of my family members are giving you this phone number?\'',
-        'Sherri Shepherd',
-    ],
-    '33680e41-bf4f-5641-b9a5-9ce702af7b4e' => [
-        'Beware the barrenness of a busy life.',
-        'Swami Vivekananda',
-    ],
-    '54bcfb7a-24e9-5668-9a5a-e28091331306' => [
-        'Success does not consist in never making mistakes but in never making the same one a second time.',
-        'George Bernard Shaw',
-    ],
-    'aa78a105-68ee-5a48-84c1-5012fbb3fb4f' => [
-        'The more I see of deer, the more I admire them as mountaineers. They make their way into the heart of the roughest solitudes with smooth reserve of strength, through dense belts of brush and forest encumbered with fallen trees and boulder piles, across canons, roaring streams, and snow-fields, ever showing forth beauty and courage.',
-        'John Muir',
-    ],
-    '9d898b71-511f-5fd3-a30a-9b66fba6e504' => [
-        'Exercise, prayer, and meditation are examples of calming rituals. They have been shown to induce a happier mood and provide a positive pathway through life\'s daily frustrations.',
-        'Chuck Norris',
-    ],
-    'd7881b1a-3927-521e-a443-0d92b029e5a1' => [
-        'Collaboration is the best way to work. It\'s only way to work, really.',
-        'Antony Starr',
-    ],
-    '1c5c7f21-7e82-5005-ac80-de63a33558eb' => [
-        'I think it\'s funny to be delicate with subjects that are explosive.',
-        'Jerry Seinfeld',
-    ],
-    'f452c5c2-dfcd-5920-9816-881d9a2a375a' => [
-        'When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.',
-        'Tenzin Gyatso',
-    ],
-    'd3d93910-1a25-5096-8ef0-a19d2d79d5a6' => [
-        'Death Row inmates are almost twice as expensive to house each year as other inmates. Death penalty trials are much costlier than trials where execution is not a potential punishment and consume more time from judges, public defenders, and other legal personnel.',
-        'Reid Hoffman',
-    ],
-    '9f4f1b3b-2328-5212-8326-ef7ced3d2a05' => [
-        'I eat every two hours. I sleep for eight hours. I have lots of water. I pray to keep calm. Most importantly, I have a smile on my face.',
-        'Vidya Balan',
-    ],
-    '90c4ac71-dc41-5add-a581-91798375f82e' => [
-        'Within the hearts men, loyalty and consideration are esteemed greater than success.',
-        'Bryant H. McGill',
-    ],
-    'e1e6b5ed-b827-5b9f-9367-b83734aa87ac' => [
-        'Feeling and longing are the motive forces behind all human endeavor and human creations.',
-        'Albert Einstein',
-    ],
-    '5facf3db-ce1c-562e-b055-243c5e7932f5' => [
-        'Never floss with a stranger.',
-        'Joan Rivers',
-    ],
-    '88a03a41-2276-5c71-a280-f2352abaf8fa' => [
-        'I love my friends and family, but I also love it when they can\'t find me and I can spend all day reading or walking all alone, in silence, eight thousand miles away from everyone. All alone and unreachable in a foreign country is one my most favorite possible things to be.',
-        'Elizabeth Gilbert',
-    ],
-    '85fe6b2d-a6b8-56a3-aa59-7678e0db5bcf' => [
-        'Fine words and an insinuating appearance are seldom associated with true virtue',
-        'Confucius',
-    ],
-    'a7d7fffc-251a-564f-a556-6e4d571158ee' => [
-        'If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.',
-        'Anne Bradstreet',
-    ],
-    'c6193fcc-f636-5be9-981c-76f9b54f9511' => [
-        'We are all born ignorant, but one must work hard to remain stupid.',
-        'Benjamin Franklin',
-    ],
-    '532a52e0-7639-547f-9a01-71f02b2b22a2' => [
-        'The smallest act of kindness is worth more than the grandest intention.',
-        'Oscar Wilde',
-    ],
-    'c9cb261d-e9bb-5c02-81c5-da4fd16b0b19' => [
-        'We expect all our businesses to have a positive impact on our top and bottom lines. Profitability is very important to us or we wouldn\'t be in this business.',
-        'Jeff Bezos',
-    ],
-    '03c1f37a-e8c0-522a-aeec-84ac8dca1431' => [
-        'A photograph can be an instant of life captured for eternity that will never cease looking back at you.',
-        'Wayne Dyer',
-    ],
-    '35999737-cf4b-5ed7-9c94-4f5d456dd89e' => [
-        'After all, it is the divinity within that makes the divinity without; and I have been more fascinated by a woman of talent and intelligence, though deficient in personal charms, than I have been by the most regular beauty.',
-        'Washington Irving',
-    ],
-    'aa8e02ab-cccc-569f-85c2-008b5482d506' => [
-        'What do I like in a girl? I like a girl that likes me, a girl that knows how to smile and see the bright side of things. A girl that makes me a better person.',
-        'James Lafferty',
-    ],
-    '0599741b-7b94-5e85-ae7e-bca81a47506a' => [
-        'There\'s nothing more satisfying than seeing a happy and smiling child. I always help in any way I can, even if it\'s just by signing an autograph. A child\'s smile is worth more than all the money in the world.',
-        'Lionel Messi',
-    ],
-    '454f8f94-10fb-5c36-a230-74b422de8835' => [
-        'When most people think of Woodrow Wilson, they see a dour minister\'s son who never cracked a smile, where in fact he was a man of genuine joy and great sadness.',
-        'A. Scott Berg',
+    '96360a7d-884a-5d96-8eb6-8661fec41a3e' => [
+        'When Jennifer Lawrence says it\'s \'dumb\' to go hungry to make other people happy, she\'s saying it with the carefree attitude of a woman who probably will never have to make that choice to conform.',
+        'Jennifer Armintrout',
     ],
 ];

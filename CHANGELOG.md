@@ -2,6 +2,8 @@
 
 ## dev-master
 
+* Restructured import data.
+* Added strict typing.
 * Added `--short` option to command `fortune`.
 * Added `--long` option to command `fortune`.
 * Added command `statistics`.

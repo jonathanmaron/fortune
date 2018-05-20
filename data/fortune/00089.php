@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'ca9c550f-59c5-5aa9-9a48-5016bd33c156' => [
-        'Today, I think the attitude is that governing is not necessarily good politics, and the result is that it\'s much more partisan and much more divided.',
-        'Leon Panetta',
-    ],
-    'd340389c-dd6b-5a11-88cd-89bb62d0580f' => [
-        'Rome has not seen a modern building in more than half a century. It is a city frozen in time.',
-        'Richard Meier',
-    ],
-    '516bcd09-c28c-52e9-a51b-5056c7aca74e' => [
-        'The truth is that when Lennon is Bosephus, she is so mean to me. She can\'t smile because the mustache will come off. So in between takes, it\'s just scowling. And then when we are on camera, Bosephus treats me like a piece of meat. I\'m repulsed and also attracted to it.',
-        'Jessica St. Clair',
-    ],
-    'b0c84491-8abf-5d70-a2b0-f8c19bfd2ee6' => [
-        'So at a time in which the media give the public everything it wants and desires, maybe art should adopt a much more aggressive attitude towards the public. I myself am very much inclined to take this position.',
-        'Thom Mayne',
-    ],
-    '7bad0736-eaaa-5608-ac55-6d5c6e2f4f38' => [
-        'The meaning of things lies not in the things themselves, but in our attitude towards them.',
-        'Antoine de Saint-Exupery',
-    ],
-    '7231f879-cbb1-5255-986a-439abdc4a06d' => [
-        'There is perhaps nothing so bad and so dangerous in life as fear.',
-        'Lindsey Vonn',
-    ],
-    '9906e074-4c29-5e7b-ac98-9342dbb3d3cd' => [
-        'Go see \'Hidden Figures,\' and take a young person! It will give a more positive outlook on what is possible if you work hard, do your best, and are prepared.',
-        'Katherine Johnson',
-    ],
-    '7e2fbeb3-a605-519d-9494-8a961c90be72' => [
-        'The auto industry must acknowledge that a rational transportation policy should seek a balance between individual convenience, the efficient use of limited resources, and urban-living values that protect spaciousness, natural beauty, and human-scale mobility.',
-        'Stewart Udall',
-    ],
-    '7b6b4c51-347b-5b96-939e-7f7af1a797ce' => [
-        'Given the scale of issues like global warming and epidemic disease, we shouldn\'t underestimate the importance of a can-do attitude to science rather than a can\'t-afford-it attitude.',
-        'Martin Rees',
-    ],
-    '8a1a796c-193a-5842-998f-b070df7afe63' => [
-        'Chaos is inherent in all compounded things. Strive on with diligence.',
+    '85807ed4-e837-5a99-91ef-6387e9e4bd97' => [
+        'Always be mindful of the kindness and not the faults of others.',
         'Buddha',
     ],
-    '5f13dd2c-27e9-5dee-ac9c-07034e21a2df' => [
-        'We didn\'t lose the game; we just ran out of time.',
-        'Vince Lombardi',
+    'dc3402b9-11f7-53ac-b39d-abd06c056909' => [
+        'Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.',
+        'Leo Buscaglia',
     ],
-    '05196dd4-9d27-5763-b6c1-2b6e2de4bd60' => [
-        'Do not watch the clock. Do what it does. Keep going.',
-        'Sam Levenson',
+    '76c47b4b-7de2-5071-859e-2af3d65c4596' => [
+        'Success is an absurd, erratic thing. She arrives when one least expects her and after she has come may depart again almost because of a whim.',
+        'Alice Foote MacDougall',
     ],
-    '4d86dc33-7951-5b42-88d2-5b7f26ac42fa' => [
-        'I can\'t summarize my favorite movie, Jacques Tati\'s \'Play Time.\' You just have to see it.',
-        'Rick Perlstein',
+    'ecc74925-85a6-5587-96b8-8a88b4e829f5' => [
+        'The warrior may fight for gold or for an immediate gain, or for something to take home for the winter to feed the family. The soldier is part of a more complex society. He\'s fighting for a group ethic of some sort.',
+        'C. J. Cherryh',
     ],
-    '16fb69f0-3539-5e07-a90d-4eb75a792cf6' => [
-        'Everyday may not be good but there is something good in everyday.',
-        'Anonymous',
+    'a13ce39d-9c2e-55e8-ab00-83f40eca7189' => [
+        'The road to success is always under construction.',
+        'Lily Tomlin',
     ],
-    '99394f67-c348-5906-ab75-81ed830ce619' => [
-        'You have to listen to the people who have a negative opinion as well as those who have positive opinion. Just to make sure that you are blending all these opinions in your mind before a decision is made.',
-        'Carlos Ghosn',
+    '0efce715-dd25-5b54-8de1-643082a47102' => [
+        'I always remember this neighbor who would ask me to babysit for her. She looked like Jayne Mansfield, and I remember babysitting for, like, five hours and she would pay me 80 cents, with a phony smile. I used to go home fuming to my mum.',
+        'Jennifer Coolidge',
     ],
-    '28e415d6-b287-5b4a-b2c9-c52969f4ff16' => [
-        'Outside of a dog, a book is a man\'s best friend. Inside of a dog it\'s too dark to read.',
-        'Groucho Marx',
+    '2fe56710-79cd-5820-acae-9b8cfb87334a' => [
+        'Hope is not just... out in the sky, or accepting the facts or reality. Hope is having optimistic, positive expectations.',
+        'Craig Sager',
     ],
-    '82bed1ea-d3de-5650-8498-4f53056f1751' => [
-        'I have an everyday religion that works for me. Love yourself first, and everything else falls into line.',
-        'Lucille Ball',
+    '33c5533b-c868-5f40-9926-7c1e4ed341d6' => [
+        'He has achieved success who has worked well, laughed often, and loved much.',
+        'Elbert Hubbard',
     ],
-    '5148c584-2de3-5e2b-9cce-c90c3056c071' => [
-        'Jerry Ford is so dumb he can\'t fart and chew gum at the same time.',
-        'Lyndon B. Johnson',
+    'b21b1dc5-b152-5349-bdbd-0f105851d9c0' => [
+        'Living at risk is jumping off the cliff and building your wings on the way down.',
+        'Ray Bradbury',
     ],
-    '82142ba8-3410-5a02-989e-e945678d9796' => [
-        'Nothing is perfect. Life is messy. Relationships are complex. Outcomes are uncertain. People are irrational.',
-        'Barack Obama',
+    '5361603d-ee56-5cb4-bd51-287d7cbf06fa' => [
+        'Your attitude, not your aptitude, will determine your altitude.',
+        'Zig Ziglar',
     ],
-    'b7d9269d-0db4-58e7-af02-601ff8cee233' => [
-        'Eventually soul mates meet, for they have the same hiding place.',
-        'Robert Brault',
+    '2ea97d78-90b2-53dd-901e-69d8b3a9370c' => [
+        'Our heritage and ideals, our code and standards - the things we live by and teach our children - are preserved or diminished by how freely we exchange ideas and feelings.',
+        'Walt Disney',
     ],
-    'bde3db79-d4ad-5d9c-8536-abe7e70a1c09' => [
-        'Creativity is a habit, and the best creativity is the result of good work habits.',
-        'Twyla Tharp',
+    '6dd12a66-2630-5dbf-b992-0402d1ce865a' => [
+        'I think it\'s important and I think it\'s true that our life experience is going to be about our attitude, our thoughts, our beliefs, our speech and our actions. We can transform our life experience simply by changing our language.',
+        'Jason Mraz',
     ],
-    'e94ea2bd-b299-5cf2-b017-451e14a756e7' => [
-        'We, as Americans, at least - I mean, I love my country - but we\'re so self-righteous sometimes, in terms of, like, our nationality, our country. But we\'re people from somewhere else; the true \'Americans\' are the original peoples. It\'s funny, but we\'re a very territorial species.',
-        'Peter Dinklage',
+    'a5e37318-600d-572c-b12a-f80f3c07132b' => [
+        'How inappropriate to call this planet Earth when it is quite clearly Ocean.',
+        'Arthur C. Clarke',
     ],
-    '84cbb7a9-4885-5126-81d8-55ef5f47c4dc' => [
-        'We are so obsessed with doing that we have no time and no imagination left for being. As a result, men are valued not for what they are but for what they do or what they have - for their usefulness.',
-        'Thomas Merton',
+    'a1f4560d-16e3-5d12-9670-06091a0e9e7d' => [
+        'Someone told me I had funny facial expressions. I don\'t know whether I take that as a compliment or not, but.',
+        'Lucy Punch',
     ],
-    '140df663-0db1-5f83-b5bd-0aa04838408d' => [
-        'If you cannot get rid of the family skeleton, you may as well make it dance.',
+    '45b8c8f8-9c48-5e0d-bf07-7b55e9d31c61' => [
+        'From the first opening of our eyes, it is the light that attracts us. We clutch aimlessly with our baby fingers at the gossamer-motes in the sunbeam, and we die reaching out after an ineffable blending of earthly and heavenly beauty which we shall never fully comprehend.',
+        'Lucy Larcom',
+    ],
+    '0bf4a584-46a8-5681-9b36-5ce79d05c184' => [
+        'I don\'t feel restless, I just like to travel.',
+        'Brad Pitt',
+    ],
+    'e23cec88-1196-540d-8938-db39a230a39d' => [
+        'In beauty, there\'s this idea of this perfect picture, and I think, \'How about being present in the now, and a little messy?\'',
+        'Emily Weiss',
+    ],
+    '329f6bba-9a08-51fe-89b1-c1aebf43a720' => [
+        'To maintain a joyful family requires much from both the parents and the children. Each member of the family has to become, in a special way, the servant of the others.',
+        'Pope John Paul II',
+    ],
+    '615f25e5-c49d-5501-9498-a2d6aced0c23' => [
+        'The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.',
+        'Marcel Proust',
+    ],
+    'c4c8eacf-a693-5080-a0a3-e10f2cbf634a' => [
+        'I try to not work too many Sundays. At least on Sunday nights, I try to chill out a little bit. I call it Sunday Funday.',
+        'Miley Cyrus',
+    ],
+    'c3aafae8-87df-5819-9c8d-1b075d8ce8a6' => [
+        'Occasionally I have come across a last patch of snow on top of a mountain in late May or June. There\'s something very powerful about finding snow in summer.',
+        'Andy Goldsworthy',
+    ],
+    '277782e7-f0cf-5b52-96f2-3adf6e6f0b75' => [
+        'A man is not old as long as he is seeking something.',
+        'Edmond Rostand',
+    ],
+    '9b4614a7-6391-577c-8849-0af7d5e443d6' => [
+        'Players should know that if you can\'t make the contribution of the winning shot, that your attitude every day when you come to practice, or the positive contribution you make through cheering and keeping up team morale, is just as important in the overall picture.',
+        'Sue Wicks',
+    ],
+    '1650934a-ced0-58e0-97f8-dfc2f84cdebf' => [
+        'Life is a succession of moments, to live each one is to succeed.',
+        'Eckhart Tolle',
+    ],
+    '36188450-01be-50bd-8753-3909763e6780' => [
+        'Feelings of worth can flourish only in an atmosphere where individual differences are appreciated, mistakes are tolerated, communication is open, and rules are flexible - the kind of atmosphere that is found in a nurturing family.',
+        'Virginia Satir',
+    ],
+    'ce472ad7-30d8-5594-9656-87a551fae5a0' => [
+        'The genre has moved into this commercial aspect of itself, and ignored this extraordinarily rich literature that\'s filed everywhere else except under travel.',
+        'Robyn Davidson',
+    ],
+    '06ac82fe-4dbd-5eda-b4f6-9c65abfbc0a0' => [
+        'I dwell in possibility.',
+        'Emily Dickinson',
+    ],
+    '4fafd778-d3bf-5ba8-9b99-ad2aa6a30d52' => [
+        'Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.',
+        'Oscar Wilde',
+    ],
+    '8c3f8a09-d646-5ea8-b65e-3b15751b5b18' => [
+        'Life is what happens while you are making other plans.',
+        'John Lennon',
+    ],
+    '661ba748-29fa-52e0-813f-b9a5804dede2' => [
+        'It\'s human nature to take the easy route and leap at storage methods that promise quick and convenient ways to remove visible clutter. Putting things away creates the illusion that the clutter problem has been solved. But sooner or later, all the storage units are full, and the room once again overflows with things.',
+        'Marie Kondo',
+    ],
+    '436cc504-f576-5db0-a066-7338ffbfb213' => [
+        'Immortality may be impossible, but imagine what humanity could learn if we all lived 700 years. We could travel deep into utopia and beyond.',
+        'Gray Scott',
+    ],
+    'd3bf413b-1475-597c-8e3d-a9304cf33ee7' => [
+        'No other game combines the wonder of nature with the discipline of sport in such carefully planned ways. A great golf course both frees and challenges a golfer\'s mind.',
+        'Tom Watson',
+    ],
+    '93d97ca0-5296-5624-8064-7451d7773e35' => [
+        'It is precisely the purpose of the public opinion generated by the press to make the public incapable of judging, to insinuate into it the attitude of someone irresponsible, uninformed.',
+        'Walter Benjamin',
+    ],
+    'f956c562-a428-54e0-b85f-f1b8d2f81df1' => [
+        'People commonly travel the world over to see rivers and mountains, new stars, garish birds, freak fish, grotesque breeds of human; they fall into an animal stupor that gapes at existence and they think they have seen something.',
+        'Soren Kierkegaard',
+    ],
+    '792aeadf-93d7-50dd-bbeb-719f53c7a62b' => [
+        'I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.',
+        'Elizabeth Montagu',
+    ],
+    '8479edac-eaa2-50fa-ae68-dba3e260835b' => [
+        'Real men laugh at opposition; real men smile when enemies appear.',
+        'Marcus Garvey',
+    ],
+    '52c7c7f2-1e0b-573a-ba76-ceb84ca35d76' => [
+        'The American Dream is that any man or woman, despite of his or her background, can change their circumstances and rise as high as they are willing to work.',
+        'Fabrizio Moreira',
+    ],
+    '77c46c9c-1f8c-5bee-ac23-499f99fb4bb5' => [
+        'When Jonathan Winters died, it was like, \'Oh, man!\' I knew he was frail, but I always thought he was going to last longer. I knew him as being really funny, but at the same time, he had a dark side.',
+        'Robin Williams',
+    ],
+    '5d27b99c-8938-582e-9f81-9471a6818be5' => [
+        'Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.',
+        'Margaret Cousins',
+    ],
+    'fef88cc7-77f6-5957-b7da-01b7eb7b3780' => [
+        'The relationship with time changes when you\'re captive.',
+        'Ingrid Betancourt',
+    ],
+    '229719ec-9103-5a62-8020-4a774fb38fdc' => [
+        'I always feel like it\'s two key ingredients when it comes to following your dreams, making something happen that the average person deems difficult. If you truly believe it, that\'s step one. Step two, is, you know, the hard work that goes along with it.',
+        'J. Cole',
+    ],
+    '171c18fe-fee4-5e09-8e83-d16bc1ac7cb9' => [
+        'A government that robs Peter to pay Paul can always depend on the support of Paul.',
         'George Bernard Shaw',
     ],
-    '9d87c2cc-b2d0-57a7-8a1c-9cc9f9bbe92f' => [
-        'As an African-American male born with a couple of strikes against you because of your skin color, I think it\'s very, very important to have some positive role models around, especially male influences.',
-        'Omari Hardwick',
+    'cc83419e-b97e-560b-bf4f-82cb3a8e448b' => [
+        'There\'s no greater feeling in the world than when you can put a smile on somebody\'s face just by walking into a room. It\'s unbelievable. And if I have that power, who am I to waste it, you know?',
+        'J. J. Watt',
     ],
-    '0785fc36-ce33-532d-8866-06ef79216b22' => [
-        'Success is tricky to deal with, both professionally and in your personal life.',
-        'Ewan McGregor',
+    'cac551fa-02d1-51bf-81b4-71e07b716658' => [
+        'It\'s the writers\' job to make it positive. It\'s my job to make it real.',
+        'Lee Pace',
     ],
-    'bf686a61-1555-5d1f-8fdd-51fa3c7da2dd' => [
-        'An English man does not travel to see English men.',
-        'Laurence Sterne',
+    '7cade03e-59a6-5894-8336-76ca5d87c496' => [
+        'The great danger for family life, in the midst of any society whose idols are pleasure, comfort and independence, lies in the fact that people close their hearts and become selfish.',
+        'Pope John Paul II',
     ],
-    '6769bdae-85ea-5686-a573-c3e96b12d3d2' => [
-        'My success just evolved from working hard at the business at hand each day.',
-        'Johnny Carson',
+    'd34f7255-f10f-52bd-b82a-1176d1fe4cd3' => [
+        'There\'s more to life than success, and if you can try to be more well-rounded, you\'ll be able to enjoy your success more. It won\'t own you or control you.',
+        'Ricky Williams',
     ],
-    'c5934932-d42d-5eae-ba03-46c45888927e' => [
-        'Life is 10 percent what you make it, and 90 percent how you take it.',
-        'Kourtney Kardashian',
+    'c834bbd1-d5cf-570c-a2a6-4ad1289d2cfd' => [
+        'I don\'t travel anywhere without the PS3 and XBox. There\'s nothing better to do on long bus trips while on tour.',
+        'Soulja Boy',
     ],
-    '18b8de1f-6261-50c6-a990-0dc76cf9bad5' => [
-        'You think about child abuse and you think of a father viciously attacking a daughter or a son, but in my family it was my mother. My mother, I would say, was a... very brutal disciplinarian.',
-        'Lynn Johnston',
+    'e0a3d1a8-80e4-536d-8089-a311069c4f5b' => [
+        'I\'m a very outgoing person. I\'m always happy, I\'m one of those people who are always smiling. If somebody described me to somebody else, they\'d say the kid with the curly hair with the big smile on his face. I get along with everybody.',
+        'Corbin Bleu',
     ],
-    '32c5213a-d91f-5ac3-b30c-2f4cca08610e' => [
-        'To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else - means to fight the hardest battle which any human being can fight; and never stop fighting.',
-        'e. e. cummings',
+    'b43535dc-3aa1-5c88-9597-166a067b3bb2' => [
+        'Painting is by nature a luminous language.',
+        'Robert Delaunay',
     ],
-    '0d1c653f-db30-5e8b-a64e-c7c57be0d581' => [
-        'It takes considerable knowledge just to realize the extent of your own ignorance.',
-        'Thomas Sowell',
-    ],
-    '20faa8c4-9c1f-5dbc-80a8-71cb38b88430' => [
-        'I try to keep a positive intention and use whatever resources I have to benefit others. I try to create businesses that I think are not hurtful. I try to do things that I think are helpful to the environment, to the animals, and to the planet.',
-        'Russell Simmons',
-    ],
-    '72637c19-1caa-5657-be43-65afe6cf9d78' => [
-        'The prevailing - and foolish - attitude is that a good manager can be a good manager anywhere, with no special knowledge of the production process he\'s managing. A man with a financial background may know nothing about manufacturing shoes or cars, but he\'s put in charge anyway.',
-        'W. Edwards Deming',
-    ],
-    '25efef61-767a-5fd6-8a8f-01cf13bb2bcd' => [
-        'Remember always that you not only have the right to be an individual, you have an obligation to be one.',
-        'Eleanor Roosevelt',
-    ],
-    '1bfa4862-5d78-5bd9-85a4-375e1e8a0d64' => [
-        'Over the years, my work became both my vocation and avocation. Since I enjoyed it so much, I never felt a great need to go outside for relaxation. Nevertheless, I became an avid photographer and traveler. Possibly my love for travel stems from the early years when my family seldom went away on vacation.',
-        'Gertrude B. Elion',
-    ],
-    'f9c6b1f3-d0ca-5221-97d0-13c5fa8ff475' => [
-        'Nearly all the best things that came to me in life have been unexpected, unplanned by me.',
-        'Hoda Kotb',
-    ],
-    'ee049e3a-950c-50c3-add4-ced89103b023' => [
-        'When all the world appears to be in a tumult, and nature itself is feeling the assault of climate change, the seasons retain their essential rhythm. Yes, fall gives us a premonition of winter, but then, winter, will be forced to relent, once again, to the new beginnings of soft greens, longer light, and the sweet air of spring.',
-        'Madeleine M. Kunin',
-    ],
-    '43ff2d1f-019f-5c5f-ab35-346d155bae41' => [
-        'I can retire from football with a smile on my face.',
-        'John Matuszak',
-    ],
-    '7b8ffeac-ef6a-54a4-aa4c-033539927c48' => [
-        'Your ordinary acts of love and hope point to the extraordinary promise that every human life is of inestimable value.',
-        'Desmond Tutu',
-    ],
-    '351308c6-66e4-505e-8823-b049465ac329' => [
-        'Leadership is about making the right decision and the best decision before, sometimes, it becomes entirely popular.',
-        'Martin O\'Malley',
-    ],
-    '84fa71f9-536e-504f-9564-b0157dd504ce' => [
-        'There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.',
-        'Denis Waitley',
-    ],
-    '87840955-cbf1-5506-bef6-4534a7586136' => [
-        'You just can\'t beat the person who never gives up.',
-        'Babe Ruth',
-    ],
-    '6a6bbd50-b8ba-530b-9a12-a3ed97816640' => [
-        'The envious man grows lean at the success of his neighbor.',
-        'Horace',
-    ],
-    'e151699b-f968-5c7a-9122-7ba7d4b232fc' => [
-        'If I were a liberal Democrat, people would say I\'m the super genius of all time. The super genius of all time. If you\'re a conservative Republican, you\'ve got to fight for your life. It\'s really an amazing thing.',
-        'Donald Trump',
-    ],
-    '74eba3e0-c38d-5f06-a4d4-b50fb0ea01b3' => [
-        'Every moment and every event of every man\'s life on earth plants something in his soul.',
-        'Thomas Merton',
-    ],
-    '26fc2397-f891-53f2-bacf-37deb813b919' => [
-        'We cannot change our past. We can not change the fact that people act in a certain way. We can not change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude.',
-        'Charles R. Swindoll',
-    ],
-    'cc973f81-d091-5655-99ed-5211943f0b4e' => [
-        'Rap music\'s been around for too long now to be inspirational. The words are, but the music isn\'t.',
-        'Alexander McQueen',
-    ],
-    '883388af-b67d-5379-92c2-fb40a4de7fed' => [
-        'If we abandon marriage, we abandon the family.',
-        'Michael Enzi',
-    ],
-    '5bc9a400-ae12-545f-9aa5-158d7e11d0ae' => [
-        'Hence, within the space of two generations there has been a complete revolution in the attitude of the trades-unions toward the women working in their trades.',
-        'Florence Kelley',
+    '3a324bb0-6726-5d81-ba9d-fdf53dd31fcf' => [
+        'Think with your whole body.',
+        'Taisen Deshimaru',
     ],
 ];

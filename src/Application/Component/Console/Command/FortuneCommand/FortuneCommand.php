@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Console\Command\FortuneCommand;
 
 use Application\Exception\InvalidArgumentException;
@@ -9,7 +11,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class FortuneCommand extends AbstractCommand
 {
-    protected function configure()
+    protected function configure(): self
     {
         $this->setName('fortune');
 
@@ -27,15 +29,17 @@ class FortuneCommand extends AbstractCommand
         $shortcut    = 'i';
         $mode        = InputOption::VALUE_OPTIONAL;
         $description = 'Show quotations of length "length" only';
+        $default     = '';
 
-        $this->addOption($name, $shortcut, $mode, $description);
+        $this->addOption($name, $shortcut, $mode, $description, $default);
 
         $name        = 'author';
         $shortcut    = 'a';
         $mode        = InputOption::VALUE_OPTIONAL;
         $description = 'Show quotations from author "author" only';
+        $default     = '';
 
-        $this->addOption($name, $shortcut, $mode, $description);
+        $this->addOption($name, $shortcut, $mode, $description, $default);
 
         $name        = 'short';
         $shortcut    = 's';
@@ -54,16 +58,20 @@ class FortuneCommand extends AbstractCommand
         return $this;
     }
 
-    protected function initialize(InputInterface $input, OutputInterface $output)
+    protected function initialize(InputInterface $input, OutputInterface $output): self
     {
-        $wordwrap = $input->getOption('wordwrap');
-        $fortune  = $this->getFortune();
+        $fortune = $this->getFortune();
+
+        $wordwrap = (string) $input->getOption('wordwrap');
+        $wordwrap = trim($wordwrap);
 
         if (!is_numeric($wordwrap)) {
             $format  = '--wordwrap must be a digit between %s and %s';
             $message = sprintf($format, self::WORDWRAP_MIN, $this->getWordwrapDefault());
             throw new InvalidArgumentException($message);
         }
+
+        settype($wordwrap, 'int');
 
         if ($wordwrap > self::WORDWRAP_DISABLED) {
 
@@ -74,13 +82,13 @@ class FortuneCommand extends AbstractCommand
             }
 
             if ($wordwrap < self::WORDWRAP_MIN) {
-                $format  = '--wordwrap must be greater than or equal to %s.';
+                $format  = '--wordwrap must be greater than or equal to %d';
                 $message = sprintf($format, self::WORDWRAP_MIN);
                 throw new InvalidArgumentException($message);
             }
 
             if ($wordwrap > $this->getWordwrapDefault()) {
-                $format  = '--wordwrap must be less than or equal to %s.';
+                $format  = '--wordwrap must be less than or equal to %d';
                 $message = sprintf($format, $this->getWordwrapDefault());
                 throw new InvalidArgumentException($message);
             }
@@ -104,6 +112,8 @@ class FortuneCommand extends AbstractCommand
             }
         }
 
+        settype($length, 'int');
+
         $this->setLength($length);
 
         $author = $input->getOption('author');
@@ -116,18 +126,22 @@ class FortuneCommand extends AbstractCommand
             }
         }
 
+        settype($author, 'string');
+
         $this->setAuthor($author);
 
         $short = $input->getOption('short');
+        settype($short, 'boolean');
         $this->setShort($short);
 
         $long = $input->getOption('long');
+        settype($long, 'boolean');
         $this->setLong($long);
 
         return $this;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): self
     {
         $fortune = $this->getFortune();
         $short   = $this->getShort();
@@ -154,7 +168,7 @@ class FortuneCommand extends AbstractCommand
         return $this->output($output, $fortune->getRandomFortune());
     }
 
-    private function output(OutputInterface $output, $fortuneArray)
+    private function output(OutputInterface $output, array $fortuneArray): self
     {
         $wordwrap = $this->getWordwrap();
 

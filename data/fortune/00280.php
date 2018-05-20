@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '710b5976-4572-51cd-bd70-77f7b654bfb3' => [
-        'We forget that this music, music made by my brothers and sisters, is still a baby. It\'s just beginning. When I think of the possibilities, it makes me smile.',
-        'Barry White',
+    '7a361e03-f380-5a48-9448-a05188188298' => [
+        'Social mores change all the time. In the mid-1970s, it would\'ve been astonishing, say, to see two men holding hands in the streets. And the attitude to having a fling with a girl, or whatever, was quite different then.',
+        'Robert Harris',
     ],
-    '8e419a4d-8133-5aee-8597-c6c1613125cb' => [
-        'You weren\'t born just to live a life and to die; you were born to accomplish something specifically. Matter of fact, success is making it to the end of your purpose; that is success... Success is not just existing. Success is making it to the end of why you were born.',
-        'Myles Munroe',
+    'db22182a-54dd-59a2-bfc1-6ef087dbec95' => [
+        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
+        'Pam Brown',
     ],
-    '9711341d-430b-5538-ace6-b8ed8a2b9c07' => [
-        'The worst bankrupt in the world is the person who has lost his enthusiasm.',
-        'H. W. Arnold',
+    '61b1dffd-486b-5a17-8a29-2ddac982a7cb' => [
+        'It\'s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.',
+        'Jerry Seinfeld',
     ],
-    '2de3a43a-7084-57f6-819e-a580127bb368' => [
-        'We have the power to make this the best generation of mankind in the history of the world or to make it the last.',
-        'John F. Kennedy',
+    '2f00120b-a609-5caa-a5c2-f9b831b7c194' => [
+        'There is no scientific answer for success. You can\'t define it. You\'ve simply got to live it and do it.',
+        'Anita Roddick',
     ],
-    'f8ac88cd-92bc-5b6e-934a-3aeda5932df5' => [
-        'Success is about dedication. You may not be where you want to be or do what you want to do when you\'re on the journey. But you\'ve got to be willing to have vision and foresight that leads you to an incredible end.',
-        'Usher',
+    '19315970-ccdc-552c-b6d6-8f9e5bfdb582' => [
+        'Nothing is more memorable than a smell. One scent can be unexpected, momentary and fleeting, yet conjure up a childhood summer beside a lake in the mountains.',
+        'Diane Ackerman',
     ],
-    'a3cba9b1-bec4-5fdb-bc51-fcfe2f5f8ba7' => [
-        'Since traveling is such a big part of my life when I am working, I like to vacation relatively close to home. Florida is a great place for me to go and relax. It\'s so close, which is perfect because it\'s the minimal travel time.',
-        'Hilary Rhoda',
+    '67262e0e-5576-5d11-9d1c-8bad32e40fbf' => [
+        'There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge.',
+        'Baltasar Gracian',
     ],
-    '6339312c-2333-505f-bc7e-37756df83054' => [
-        '\'Funny People\' is my favorite performance of myself to date. Even though it\'s a comedy and there are serious moments, I really felt like Leo felt like a real person. It didn\'t feel like I was playing myself. Whether it\'s a comedy or drama, I just try to make it as realistic as possible.',
-        'Jonah Hill',
+    'b325d41b-5a74-54d5-b128-fb059e20be3a' => [
+        'Perfection is not attainable, but if we chase perfection we can catch excellence.',
+        'Vince Lombardi',
     ],
-    'ec354500-35fb-5daa-88bc-62578e855b43' => [
-        'I don\'t dwell on success. Maybe that\'s one reason I\'m successful.',
-        'Calvin Klein',
+    '8fabf8b5-e4db-5e35-8578-5eaffc569663' => [
+        'Chaos was the law of nature; Order was the dream of man.',
+        'Henry Adams',
     ],
-    '8878dcfd-6eef-55fb-94c7-d2a19a335ca7' => [
-        'Short words are best and the old words when short are best of all.',
-        'Winston Churchill',
+    '78690347-d9c6-57b1-adbd-6c92acd6d094' => [
+        'The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.',
+        'Eckhart Tolle',
     ],
-    '09aa3a94-0a0a-5297-8fbf-7f853e4f54fc' => [
-        'I like being upbeat, positive, happy, enjoying family.',
-        'Jamie-Lynn Sigler',
+    'fc51464f-ce6b-5ad0-8f13-f3e40c38c8cd' => [
+        'Every time you feel depressed about something, try to identify a corresponding negative thought you had just prior to and during the depression. Because these thoughts have actually created your bad mood, by learning to restructure them, you can change your mood.',
+        'David D. Burns',
     ],
-    '8c3a63db-28cc-56f5-859a-6f20f19af441' => [
-        'Youth is really in your attitude, not in what you look like.',
-        'Walt Handelsman',
+    '4acfc2f8-637f-53e7-95ae-f834983680eb' => [
+        'Poetry, at its best, is the language your soul would speak if you could teach your soul to speak.',
+        'Jim Harrison',
     ],
-    '2490f780-70df-5cb7-88a4-75e33a8a8d12' => [
-        'To handle that stardom, the red carpets, the photo shoots, people all of a sudden recognizing you and following you in everyday life, it\'s a bit weird. It\'s strange, and it can have funny effects on you in terms of do you like it or don\'t you like it. Some people run away from it, some people embrace it; I found a good middle ground.',
-        'Roger Federer',
+    '20bf8ddc-5fd7-563c-8041-a5ba86b2b666' => [
+        'Do it now.Sometimes \'later\' becomes \'never\'.',
+        'Anonymous',
     ],
-    'f802cf70-67fd-599b-864d-8b43ffbe144b' => [
-        'It is often easier to ask for forgiveness than to ask for permission.',
-        'Grace Hopper',
+    'fd798b54-43e6-53eb-90fe-6742a82ec6da' => [
+        'Sweat is fat crying.',
+        'Unknown',
     ],
-    '1729ec69-6964-586b-81ea-5ea82ff42a24' => [
-        'He who obtains has little. He who scatters has much.',
-        'Richard Braunstein',
+    '4890bef4-0864-515c-ad80-91866edfe0c1' => [
+        'All what we hope for is that a day will come, when we have all gone, when people will say that this man has tried, and his family tried. This is all there is to seek in this world.',
+        'Hussein of Jordan',
     ],
-    '92f75085-e978-50e3-b282-d4cd73e6ea74' => [
-        'It is a mistake to suppose that men succeed through success; they much oftener succeed through failures. Precept, study, advice, and example could never have taught them so well as failure has done.',
-        'Samuel Smiles',
+    '1fa54aac-8409-5141-8441-3778fbe8330d' => [
+        'I tend to be pessimistic about everything: If things seem to be going good, I\'m worried that it\'s going to end; if things are bad, then I\'m worried that it\'s going to be permanent. It\'s not a very comfortable attitude to have all the time.',
+        'Jesse Eisenberg',
     ],
-    'b4c9199f-c399-5b08-aeec-71abb0d150b0' => [
-        'I don\'t like it when people say, \'You\'re 45, so you should be wearing X and never Y.\' For me, dressing is about attitude, not age.',
-        'Twiggy',
+    '295e7613-c514-52e2-9283-58e4da21bb73' => [
+        'Simplicity and repose are the qualities that measure the true value of any work of art.',
+        'Frank Lloyd Wright',
     ],
-    '683bb104-8bd3-5be2-aa46-c5d62017a688' => [
-        'I don\'t care how busy I am - I will always make time for what\'s most important to me.',
-        'Kevin Hart',
+    '0909355e-e8f3-5be4-a0e1-7393fdc774d6' => [
+        'If someone in your life talked to you the way you talk to yourself, you would have left them long ago.',
+        'Carla Gordon',
     ],
-    '68748ebb-b856-53de-975d-0a2c8ece3582' => [
-        'Everybody I know who is funny, it\'s in them. You can teach timing, or some people are able to tell a joke, though I don\'t like to tell jokes. But I think you have to be born with a sense of humor and a sense of timing.',
-        'Carol Burnett',
+    'b51a0a4c-72bc-5517-a72c-90281879d500' => [
+        'Work hard. Through determination and self-focus and discipline, you can accomplish anything.',
+        'Kimberly Guilfoyle',
     ],
-    '3d2d5119-742c-59a1-b740-56338a2ba1d6' => [
-        'Generally, when a record label suggests album ideas for you, you smile politely, and then proceed to shoot it down, because it\'s never what you as an artist feel is right for you.',
-        'John Scofield',
+    'b665cafe-3a11-5131-a96a-c06db1ecc57d' => [
+        'Every day I get to \'Think\' and work on everything from digitizing electric grids so they can accommodate renewable energy and enable mass adoption of electric cars, helping major cities reduce congestion and pollution, to developing new micro-finance programs that help tiny businesses get started in markets such as Brazil, India, Africa.',
+        'Ginni Rometty',
     ],
-    'e8d8aadd-cca6-595d-aa2c-d07d38e9c660' => [
-        'We cannot change our memories, but we can change their meaning and the power they have over us.',
-        'David Seamans',
+    '5079d664-3bdb-51d3-9be7-b3fa6f232cc0' => [
+        'Don\'t disrespect me, lie about it, and then come smile in my face and act like nothing\'s wrong.',
+        'Scottie Pippen',
     ],
-    'fdb9f57c-4754-51d5-8f5b-ef493de5a12f' => [
-        'To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.',
-        'Byron Pulsifer',
+    '1f759b5f-1563-5987-a515-0c52e3650d4d' => [
+        'I have an issue with others ordering for me, and I spend far too long haranguing people that my choices are the best. I apologize for the amount of conversations I have ruined with this attitude.',
+        'Ben Elliot',
     ],
-    '7a064c49-6618-5266-8c10-a3cbacd1a4df' => [
-        'Work is much more fun than fun.',
-        'Noel Coward',
-    ],
-    '719b2ffb-fffe-551a-8b42-2f31f76baa40' => [
-        'On long haul flights I always drink loads and loads of water and eat light and healthy food.',
-        'Lisa Snowdon',
-    ],
-    '83add67b-0441-5e75-ac0e-1a3098a9b03a' => [
-        'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
-        'Buddha',
-    ],
-    'cbc5b459-a3bc-5d92-958f-62abe0b1b27c' => [
-        'Flexible working is not just for women with children. It is necessary at the other end of the scale. If people can move into part-time work, instead of retirement, then that will be a huge help. If people can fit their work around caring responsibilities for the elderly, the disabled, then again that\'s very positive.',
-        'Theresa May',
-    ],
-    'd09bbedf-4eeb-5896-a683-a0e35b1f2698' => [
-        'I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.',
+    'fc7e020b-3e5a-56fc-90f1-eb3659498fc6' => [
+        'We keep moving forward, opening new doors, and doing new things, because we\'re curious and curiosity keeps leading us down new paths',
         'Walt Disney',
     ],
-    '5e88a69a-28ef-5377-ae13-f6581635ef69' => [
-        'Just telling the facts are no longer enough. You now have to be persuasive, charismatic, interesting, and funny. Just telling people things isn\'t enough anymore.',
-        'Milo Yiannopoulos',
+    '25b025c3-3982-5aa0-8e09-809524e74689' => [
+        'The beginning of knowledge is the discovery of something we do not understand.',
+        'Frank Herbert',
     ],
-    'd2e8b48b-934e-5039-a503-84f3ef19d586' => [
-        'The team which handles the pressure best, carries the day.',
-        'Imran Khan',
+    'aaf80cc5-3e61-5d77-9737-9f83f52870c4' => [
+        'If you\'re not comfortable with public speaking - and nobody starts out comfortable; you have to learn how to be comfortable - practice. I cannot overstate the importance of practicing. Get some close friends or family members to help evaluate you, or somebody at work that you trust.',
+        'Hillary Clinton',
     ],
-    '300bc02b-55a4-5a57-bb5e-1a12fca4dac1' => [
-        'The essential lesson I\'ve learned in life is to just be yourself. Treasure the magnificent being that you are and recognize first and foremost you\'re not here as a human being only. You\'re a spiritual being having a human experience.',
-        'Connor Franta',
+    'a5a03880-15cb-5d75-9de0-fe5e095eb195' => [
+        'I think I\'ve always had a certain amount of skepticism of this whole \'shut up and smile\' theory. I haven\'t ever swallowed that pill so easily, although I tried.',
+        'Amber Heard',
     ],
-    '93529424-4d2e-555a-8406-b0c05048ee03' => [
-        'If one had but a single glance to give the world, one should gaze on Istanbul.',
-        'Alphonse de Lamartine',
+    '87c5db1b-6254-5043-8275-e1f0acb19364' => [
+        'Employees are a company\'s greatest asset - they\'re your competitive advantage. You want to attract and retain the best; provide them with encouragement, stimulus, and make them feel that they are an integral part of the company\'s mission.',
+        'Anne M. Mulcahy',
     ],
-    'cbf1027d-61e5-5712-8f82-df431dcb9981' => [
-        'I do not demand equal pay for any women save those who do equal work in value. Scorn to be coddled by your employers; make them understand that you are in their service as workers, not as women.',
-        'Susan B. Anthony',
+    '29f0a6c9-dfef-5ded-a39a-e1170b8c31b9' => [
+        'I allow my intuition to lead my path.',
+        'Manuel Puig',
     ],
-    'e02b2783-db09-5b78-bd87-f727c29fda53' => [
-        'The policeman must be a minister, a social worker, a diplomat, a tough guy, and a gentleman. And, of course, he\'d have to be a genius... For he will have to feed a family on a policeman\'s salary.',
-        'Paul Harvey',
+    '8a1d6ff9-d498-5f18-ade5-4d8eb400f5bb' => [
+        'Do not fear mistakes - there are none.',
+        'Miles Davis',
     ],
-    '2890da44-71e8-5c30-900e-d7f90cbd78e0' => [
-        'Tears are often the telescope by which men see far into heaven.',
-        'Henry Ward Beecher',
+    'ecf0928c-0b7b-524d-8bbe-14946cc7856f' => [
+        'Our challenge for the future is that we realize we are very much a part of the earth\'s ecosystem, and we must learn to respect and live according to the basic biological laws of nature.',
+        'Jim Fowler',
     ],
-    '627844ec-a6ef-520f-a468-cb9e22342ac4' => [
-        'I would like to say to people, open your eyes and find beauty where you normally don\'t expect it.',
-        'Jean Paul Gaultier',
+    '8f5d910c-8cb8-5e9f-8231-7d7e9f842bb1' => [
+        'Space exploration is a force of nature unto itself that no other force in society can rival.',
+        'Neil deGrasse Tyson',
     ],
-    '203ff970-8505-5fda-9905-3f1d90665407' => [
-        'Mistakes are the portals of discovery.',
-        'James Joyce',
+    '98b1fab1-6ab6-597e-ac27-70a182e876de' => [
+        'I would like to be remembered as a man who had a wonderful time living life, a man who had good friends, fine family - and I don\'t think I could ask for anything more than that, actually.',
+        'Frank Sinatra',
     ],
-    'a3fc9061-8969-5c37-86ca-ee249ca28e41' => [
-        'Parents need all the help they can get. The strongest as well as the most fragile family requires a vital network of social supports.',
-        'Bernice Weissbourd',
+    '670eaf7a-f146-5158-af9f-3dfc7da910a4' => [
+        'My family know not to get me any tech for Christmas. I can never get it to work, and it all becomes very tearful and pressurised.',
+        'Peter Capaldi',
     ],
-    'f415d6c1-82b5-50d0-a550-f7e93a6270e6' => [
-        'Shoot for the moon. Even if you miss, you\'ll land among the stars.',
-        'Les Brown',
+    'ec1cf8aa-f18d-567f-a238-4aabc243bad3' => [
+        'In Hollywood, they think drawn animation doesn\'t work anymore, computers are the way. They forget that the reason computers are the way is that Pixar makes good movies. So everybody tries to copy Pixar. They\'re relying too much on the technology and not enough on the artists.',
+        'Tim Burton',
     ],
-    '4215b3d6-be89-5c74-a061-537c058c545d' => [
-        'Life is strong and fragile. It\'s a paradox... It\'s both things, like quantum physics: It\'s a particle and a wave at the same time. It all exists all together.',
-        'Joan Jett',
+    'e5c3279c-b1fa-5282-9ce8-c5c466ec3a0d' => [
+        'A lot of these teams really forget that part of success comes with having veteran leadership. You see a lot of teams forget that and start letting go of these old veterans. They don\'t realize how important it is to have a veteran voice in your locker room or on the bench. It\'s important to have guys who have been there before.',
+        'David Robinson',
     ],
-    'f065cd87-f6d6-5e0b-b385-a5969c32d251' => [
-        'I\'ve three children, three grandchildren, I work, I travel, and I\'m very happily married. I\'m very satisfied and happy with my life and there really isn\'t anything I want.',
-        'Joan Collins',
+    'd6fcdbe1-c42a-565e-9e3f-75f3f1452366' => [
+        'I travel way too much to have any pets. But if I could have one, I\'d want a quokka. They\'re basically small kangaroos native to Western Australia.',
+        'Justine Larbalestier',
     ],
-    '418e9e28-9c6c-5602-80c3-4511b04272ab' => [
-        'Marriage is a wonderful institution, but who would want to live in an institution?',
-        'H. L. Mencken',
+    '19a87605-1fe2-5400-916a-1a9315ebb05c' => [
+        'There are a lot of things that go into creating success. I don\'t like to do just the things I like to do. I like to do things that cause the company to succeed. I don\'t spend a lot of time doing my favorite activities.',
+        'Michael Dell',
     ],
-    'bb3ba6b9-65a9-5cb2-bce3-942b6621182b' => [
-        'The Lord gets his best soldiers out of the highlands of affliction.',
-        'Charles Spurgeon',
+    '94241b1a-8bd3-577a-82f5-1c1315733830' => [
+        'I learned a long time ago that some people would rather die than forgive. It\'s a strange truth, but forgiveness is a painful and difficult process. It\'s not something that happens overnight. It\'s an evolution of the heart.',
+        'Sue Monk Kidd',
     ],
-    '3ef0a606-a3a4-5469-b68d-518586e163f2' => [
-        'Wrinkles will only go where the smiles have been.',
-        'Jimmy Buffett',
+    'b73cd10f-821e-5f01-9453-cf7b5544eebc' => [
+        'I come from a poor family.',
+        'Manny Pacquiao',
     ],
-    '67fbc1d6-319d-572c-a61c-eb6a086d666c' => [
-        'My theory of characterization is basically this: Put some dirt on a hero, and put some sunshine on the villain, one brush stroke of beauty on the villain.',
-        'Justin Cronin',
+    'b0efac2a-2abf-50a6-9279-25a9c7bb6b3e' => [
+        'When I meet successful people I ask 100 questions as to what they attribute their success to. It is usually the same: persistence, hard work and hiring good people.',
+        'Kiana Tom',
     ],
-    'a1048004-910d-59a6-adbb-d3d9ce1d7adb' => [
-        'The glory is being happy. The glory is not winning here or winning there. The glory is enjoying practicing, enjoy every day, enjoying to work hard, trying to be a better player than before.',
-        'Rafael Nadal',
+    '8dbafaee-f456-55ab-af0a-53f18ede16f4' => [
+        'I think it is important for young people to see other young people on television doing something positive with their life, making positive changes and growing. I don\'t think there is enough of that on TV. I mean, we\'ve got \'Jersey Shore,\' and I don\'t know what that teaches young kids.',
+        'Johnny Weir',
     ],
-    'd23bef1a-24e6-5d41-8efb-31c136e00bdf' => [
-        'For me nature is not landscape, but the dynamism of visual forces.',
-        'Bridget Riley',
+    '432f7be1-7113-54c2-9416-33e2d98c475c' => [
+        'Write it on your heart that every day is the best day in the year.',
+        'Ralph Waldo Emerson',
     ],
-    'cdb7e0cc-144c-5830-ae6f-acf19a4cbaca' => [
-        'Originally I had planned to write just a couple of children\'s books and then, return the focus on adult literature. A funny thing happened along the way - I kept having new ideas, and then I looked up one day, and 30 years had passed!',
-        'Nikki Grimes',
+    '9176aa51-07f6-5a38-a7be-7c13b1890ac5' => [
+        'Our parents deserve our honor and respect for giving us life itself. Beyond this they almost always made countless sacrifices as they cared for and nurtured us through our infancy and childhood, provided us with the necessities of life, and nursed us through physical illnesses and the emotional stresses of growing up.',
+        'Ralph Waldo Emerson',
     ],
-    '43562c48-23b7-56fc-b747-f99c71ca2c7c' => [
-        'At any given moment, you have the power to say: This is not how the story is going to end.',
-        'Christine Mason Miller',
+    'f58d856e-d5e6-50eb-8910-8b8f97d60f72' => [
+        'You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one.',
+        'John Lennon',
     ],
-    '9ed35a4b-e9d9-54e0-880a-b0b6519086a3' => [
-        'You know, the standard state for people is \'mildly pleasant.\' Negative emotions are quite rare, and extremely positive emotions are rare. But people are mildly pleased most of the time, they\'re mildly tired a lot of the time, and they wish they were somewhere else a substantial part of the time - but mostly they\'re mildly pleased.',
-        'Daniel Kahneman',
+    '31840989-3b10-5700-9d9c-0bfe59382a55' => [
+        'To travel hopefully is better than to arrive.',
+        'James Jeans',
     ],
-    'fa0e874f-a84c-5042-95cf-ab9c1ddcabaf' => [
-        'The time to relax is when you don\'t have time for it.',
-        'Sydney J. Harris',
+    'f4c87fe4-9334-556c-bdcc-778b4f9630de' => [
+        'What is important is family, friends, giving back to your community and finding meaning in life.',
+        'Adrian Grenier',
     ],
-    'c3a660fc-8926-5c08-aa32-bad3be85ca38' => [
-        'The root of the kingdom is in the state. The root of the state is in the family. The root of the family is in the person of its head.',
-        'Mencius',
+    '7fcad06b-df78-50c5-be30-8d4b616284aa' => [
+        'It\'s best to have failure happen early in life. It wakes up the Phoenix bird in you so you rise from the ashes.',
+        'Anne Baxter',
+    ],
+    'ee2b30db-ffbe-5752-82ed-a1781bebb3fd' => [
+        'Coldplay fans are the best in the world. If you like Coldplay then you\'re obviously very intelligent and good looking and all-around brilliant.',
+        'Chris Martin',
+    ],
+    '5cebd135-c606-5a44-b671-743b164a3ef4' => [
+        'Since day one, since the first time I touched the pen, I wanted to be the best at what I do.',
+        'Kendrick Lamar',
+    ],
+    '183f57f9-c5a8-5ab1-824b-e0ea39fa07f2' => [
+        'Maybe it\'s stress or anger or adrenaline or disillusionment or a bullying nature or simple fear of getting killed themselves, but there is a problem if a cop cannot tell the difference between a menacing gangster and the far more common person they encounter whose life is a little frayed and messy.',
+        'David Horsey',
+    ],
+    '55a46866-089e-5a6c-a915-c019bf7ed057' => [
+        'I don\'t believe in failure. It\'s not failure if you enjoyed the process.',
+        'Oprah Winfrey',
     ],
 ];

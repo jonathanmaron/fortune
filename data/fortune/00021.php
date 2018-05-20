@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '999e5ae0-a8aa-5d83-807f-ef3affa2d4ec' => [
-        'It is more important to eat some carbohydrates at breakfast, because the brain needs fuel right away, and carbohydrate is the best source.',
-        'Andrew Weil',
+    'e3296a54-dab9-5b3c-a826-f6331e360ffc' => [
+        'I travel often, so my routine is always getting scrambled. But on a standard sort of day, I get up at 6, pack lunches, hustle the kids off to school, then brew a pot of coffee and head downstairs to the dungeon, as I call it: my cobwebby office in the basement.',
+        'Benjamin Percy',
     ],
-    '9c7a39e3-ce22-5525-9ece-b9e3328a00fb' => [
-        'I worked half my life to be an overnight success, and still it took me by surprise.',
-        'Jessica Savitch',
+    'e7965ca1-5b31-59b7-95f3-2e68cfb69dcf' => [
+        'Try to be a rainbow in someone\'s cloud.',
+        'Maya Angelou',
     ],
-    'cc90f39c-d7ec-524e-9f57-3217933a39a6' => [
-        'The gift of sobriety is clarity and a sense of connection - and travel only enhances that.',
-        'J. Maarten Troost',
+    '2e3b11e5-df72-5664-bdb9-f7c2b4137f96' => [
+        'Hope is but the dream of those who wake.',
+        'Matthew Prior',
     ],
-    '300986d8-5ccf-5402-b333-80f9e6bb8bd3' => [
-        'Liza, I love you more than any words can say. You have made me a complete person. You are everything to me. And I cannot think of living life without you. And I love you forever.',
-        'Dwight D. Eisenhower',
+    '28caeafa-d9f9-5003-8323-95ca8733a701' => [
+        'Wearing the correct dress for any occasion is a matter of good manners.',
+        'Loretta Young',
     ],
-    '97d38afd-56fa-5a6a-b478-3bf5b5ace4e2' => [
-        'At the end of the day, life is about being happy being who you are, and I feel like we are so blessed to have the support system and the best family to really just support each other no matter what we\'re going through.',
-        'Benjamin Franklin',
-    ],
-    'f937d4dd-1e9e-5b48-b869-6136e55ddb6c' => [
-        'My brothers and sister and me grew up making fun of each other, the way we\'d speak or move. When we get together, everyone\'s funny, quick, loud, and speaks on top of each other. It was like a great comedy school; nothing is precious.',
-        'Colman Domingo',
-    ],
-    'd4cbda63-f978-5475-bc75-40ab543d7d73' => [
-        'I would encourage you to set really high goals. Set goals that, when you set them, you think they\'re impossible. But then every day you can work towards them, and anything is possible, so keep working hard and follow your dreams.',
-        'Katie Ledecky',
-    ],
-    'b51fae3d-0785-585d-8d61-6a39cb7ec27f' => [
-        'Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.',
-        'Jane Addams',
-    ],
-    '4113db0f-6c65-5610-a76a-8d691c80c033' => [
-        'Imagination creates reality.',
-        'Richard Wagner',
-    ],
-    '96ecee0e-776c-546e-b91e-cfb7695fb190' => [
-        'Less is always more. The best language is silence. We live in a time of a terrible inflation of words, and it is worse than the inflation of money.',
-        'Eduardo Galeano',
-    ],
-    'f1ed95d0-96de-598e-95a2-b2c8ab30bc8f' => [
-        'You can only perceive real beauty in a person as they get older.',
-        'Anouk Aimee',
-    ],
-    '3a50a431-4f19-5268-97db-8b0bc44927f8' => [
-        'Success is dependent upon the glands - sweat glands.',
-        'Zig Ziglar',
-    ],
-    'b878bb87-bffc-5ae6-8866-a8873a72c3b5' => [
-        'The hardest thing to find in life is balance - especially the more success you have, the more you look to the other side of the gate. What do I need to stay grounded, in touch, in love, connected, emotionally balanced? Look within yourself.',
-        'Celine Dion',
-    ],
-    '78bcc808-34e0-5098-acb5-f9f3c0cd57f7' => [
-        'I tried out various experiments described in treatises on physics and chemistry, and the results were sometimes unexpected. At times, I would be encouraged by a little unhoped-for success; at others, I would be in the deepest despair because of accidents and failures resulting from my inexperience.',
-        'Marie Curie',
-    ],
-    'bc98a3fa-9a65-5385-bc16-5daa120e2003' => [
-        'Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.',
-        'Henry Van Dyke',
-    ],
-    '7ed290d4-ec00-5439-a150-2279b93ad999' => [
-        'Ugliness is in a way superior to beauty because it lasts.',
-        'Serge Gainsbourg',
-    ],
-    '2a36a275-dc30-5f11-85b9-3e31d99d99ac' => [
-        'Love and work... work and love, that\'s all there is.',
-        'Sigmund Freud',
-    ],
-    'ae04d17e-16f7-5618-84cf-57b967a57483' => [
-        'I said to the almond tree, \'Friend, speak to me of God,\' and the almond tree blossomed.',
-        'Nikos Kazantzakis',
-    ],
-    '0b030965-bc0a-5178-b069-218f994d3e28' => [
-        'Learn to listen. Opportunity could be knocking at your door very softly.',
-        'Frank Tyger',
-    ],
-    'aaf38a4c-0a7a-5d80-a55f-bbea3bfb2661' => [
-        'Attitude and enthusiasm play a big part in my life. I get excited about the things that inspire me. I also believe in laughing and having a good time.',
-        'Dwayne Johnson',
-    ],
-    '91131357-b1fc-5142-902d-45a680bdd524' => [
-        'By the way, I\'m funniest when I\'m not being funny. I\'m better to laugh at than with, pretty much.',
-        'Jemima Kirke',
-    ],
-    '71d8fc38-bb95-5aa4-8dca-7d466f24a420' => [
-        'I want to live and feel all the shades, tones, and variations of mental and physical experience possible in my life. And I am horribly limited.',
-        'Tony Robbins',
-    ],
-    '375ec52e-f27b-59b7-822c-174b574a7ca0' => [
-        'Electrical science has disclosed to us the more intimate relation existing between widely different forces and phenomena and has thus led us to a more complete comprehension of Nature and its many manifestations to our senses.',
-        'Nikola Tesla',
-    ],
-    'c159ab9d-6e22-510e-b37b-29265b3b56c4' => [
-        'A woman can plan when to have her family and how to support a family.',
-        'Kathleen Turner',
-    ],
-    '2c5e9af6-218f-554a-a2fd-d5febdcf84f3' => [
-        'Jazz is the only music in which the same note can be played night after night but differently each time.',
-        'Ornette Coleman',
-    ],
-    '431e8771-968b-56f6-ba5e-44638576b1f2' => [
-        'We work to become, not to acquire.',
-        'Elbert Hubbard',
-    ],
-    '1c769a4b-bf43-568b-a25d-9f6ae2d84446' => [
-        'Don\'t allow your wounds to turn you into a person you are not.',
+    'ef100444-f8cf-5e73-ab55-01fc68f5d56b' => [
+        'Beauty is the greatest seducer of man.',
         'Paulo Coelho',
     ],
-    '2a066b6e-5921-5acd-98e9-29af33d2dc37' => [
-        'I have not failed. I\'ve just found 10,000 ways that won\'t work.',
-        'Thomas A. Edison',
+    '138cae57-9fe4-56ff-a427-2399dd48efac' => [
+        'Aim for the moon. If you miss, you may hit a star.',
+        'W. Clement Stone',
     ],
-    '4885d3af-31cc-5940-9f3f-6180c87d9f7a' => [
-        'That\'s a central part of philosophy, of ethics. What do I owe to strangers? What do I owe to my family? What is it to live a good life? Those are questions which we face as individuals.',
-        'Peter Singer',
+    'ec38c9d2-395e-5bc4-97ca-47ee73d8be4f' => [
+        'I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.',
+        'Buddha',
     ],
-    'dc3ae454-e2eb-5fe9-8c98-1427807ca0e6' => [
-        'Even as a little child, I\'ve always had that comedian kind of attitude.',
-        'Etta James',
+    '7915329d-87f7-52fd-81fd-6f84ca4bf2a6' => [
+        'Good people are good because they\'ve come to wisdom through failure. We get very little wisdom from success, you know.',
+        'William Saroyan',
     ],
-    'cbb1ccb9-db4f-5489-b652-0cab48ff1ece' => [
-        'The best thing about the future is that it only comes one day at a time.',
-        'Abraham Lincoln',
+    'f75de728-3c61-5746-bac1-052b0f3c66a5' => [
+        'Beauty is the first test: there is no permanent place in the world for ugly mathematics.',
+        'G. H. Hardy',
     ],
-    '6d74798f-f22a-527f-9657-ccec74c3dd82' => [
-        'Suffering is permanent, obscure and dark, And shares the nature of infinity.',
-        'William Wordsworth',
+    '0483e127-0fc5-5edf-954b-de91884aa339' => [
+        'The best work of literature to represent the American Dream is \'The Great Gatsby\' by F. Scott Fitzgerald. It shows us how dreaming can be tainted by reality, and that if you don\'t compromise, you may suffer.',
+        'Azar Nafisi',
     ],
-    '267d8412-7bf1-575e-b815-b05ec78861fb' => [
-        'Work is a necessary evil to be avoided.',
-        'Mark Twain',
+    '8bae93b5-6aec-540f-a683-dfae6b31c4b9' => [
+        'I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.',
+        'Elisabeth Kubler-Ross',
     ],
-    'b9b14267-cb35-58d4-a9de-971325dd8975' => [
-        'I\'m proud of my hard work. Working hard won\'t always lead to the exact things we desire. There are many things I\'ve wanted that I haven\'t always gotten. But, I have a great satisfaction in the blessings from my mother and father, who instilled a great work ethic in me both personally and professionally.',
-        'Tamron Hall',
+    'c71e6932-7c29-5bd5-ae78-b86b859e04fe' => [
+        'A bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
+        'Helen Rowland',
     ],
-    'de0c472a-262b-5da1-934e-4c80b2fb6dd2' => [
-        'I work 338 days a year, 16 hours a day.',
-        'Dave Pelzer',
+    'ee25ea0e-e7ef-5659-9525-d242f8b113bc' => [
+        'The audience changes every night. You\'re the same person. You have to speak your mind and do the stuff that you think is funny and makes you laugh.',
+        'Joe Rogan',
     ],
-    '25f7cb71-f65c-5409-8147-16f859a2eb01' => [
-        'When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.',
-        'Helen Keller',
+    '3bbc4d8c-7012-5a0c-bf97-fce9fc021c67' => [
+        'It\'s an absolute honor to be taking part in the pageant for the Diamond Jubilee. This is a once-in-a-lifetime opportunity and will be a moment in history that will always be remembered. I\'m really looking forward to being out on the river with friends and family. To mark this historic moment will be extremely special.',
+        'Steve McFadden',
     ],
-    'cb6f73a5-7ef7-5237-a072-6e5cba5c4b7a' => [
-        'Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.',
-        'Baruch Spinoza',
+    '529f5d11-9b39-5b29-b9c8-eadeb79d351c' => [
+        'Until you walk a mile in another man\'s moccasins you can\'t imagine the smell.',
+        'Robert Byrne',
     ],
-    'ec7b8175-31b1-5bd1-9cc5-230e291b2d7b' => [
-        'It\'s not what happens to you, but how you react to it that matters.',
-        'Epictetus',
+    '45605269-e473-5975-9237-7e442bfdcf75' => [
+        'I wear a necklace, cause I wanna know when I\'m upside down.',
+        'Mitch Hedberg',
     ],
-    'fb0f4de2-b794-59e6-90dc-9844303a7f43' => [
-        'Because it\'s cheaper and easier to fly than ever before, air travel is becoming democratized.',
-        'Peter Diamandis',
+    '84395670-45c6-5bc6-9b8a-be8b5044a579' => [
+        'Modeling has given me the opportunity to travel outside of Brazil and see the world. I have been meeting many interesting and talented people along the way.',
+        'Izabel Goulart',
     ],
-    '9fffa250-d31c-5990-8569-1e332fbd5cc5' => [
-        'Normally, it takes me about three years to write one of the big books. It is usually four years between releases because of the huge amount of travel and PR and just nuisance going on around them. I have a lot of pressure from publishers and agents.',
-        'Diana Galbadon',
+    '68330613-891a-549f-8816-a276c6594a2e' => [
+        'I always believe that if you feel good and look happy, you\'re always going to be beautiful. My one actual beauty trick is pretty cliche: Never, ever go to bed with your makeup on.',
+        'Joyce Giraud',
     ],
-    'b7223845-4519-5b01-88e5-899fef0652ac' => [
-        'Living with fear stops us taking risks, and if you don\'t go out on the branch, you\'re never going to get the best fruit.',
-        'Sarah Parish',
+    '6e47bdf2-7df8-5746-92fa-ec7df1459393' => [
+        'The man who can smile when things go wrong has thought of someone else he can blame it on.',
+        'Robert Bloch',
     ],
-    '7cade03e-59a6-5894-8336-76ca5d87c496' => [
-        'The great danger for family life, in the midst of any society whose idols are pleasure, comfort and independence, lies in the fact that people close their hearts and become selfish.',
-        'Pope John Paul II',
+    '5ed77792-1c15-5321-9d7f-15df44644ca1' => [
+        'I can walk into a room and create a good ambience. I was taught all about this back when I studied acting. One of the things they would teach you is how to send out positive signals when you enter a room. I am glad I learned this.',
+        'Jean Reno',
     ],
-    'd6b5d342-f62c-5073-807e-557116060ac5' => [
-        'High Romanticism shows you nature in all its harsh and lovely metamorphoses. Flood, fire and quake fling us back to the primal struggle for survival and reveal our gross dependency on mammoth, still mysterious forces.',
-        'Camille Paglia',
+    '32499fe0-97a7-5806-9662-c42d14288dc0' => [
+        'Most of the things we decide are not what we know to be the best. We say yes, merely because we are driven into a corner and must say something.',
+        'Frank Crane',
     ],
-    '52512c93-6442-55f3-bbb0-ffad74fff8ea' => [
-        'Success - keeping your mind awake and your desire asleep.',
-        'Walter Scott',
+    '792a559c-7a9b-51b2-867f-86780342693e' => [
+        'If I am not mistaken, it was a British poet who said that \'no one is properly dressed unless he wears a smile.\'',
+        'Sukarno',
     ],
-    'fc9d167d-26b3-531b-855d-dcbbbd720b67' => [
-        'Stay open-minded; stay focused. Train hard and train smart. For me, the older I get, the smarter I have to train also, because the recovery time is longer. Work on everything: become a well-rounded fighter - don\'t just be good at one thing; be good at everything.',
-        'Brock Lesnar',
+    'acd2a394-3f94-5a7f-8fc7-33b53975ee6f' => [
+        'My father got a trade union scholarship to Oxford; he lived and breathed politics; he was always watching current-affairs programmes. But I have a five-year-old child\'s attitude towards the news. Mainly, that it absolutely turns me off.',
+        'Jez Butterworth',
     ],
-    '297677f5-7cdd-5c5b-ac68-adade704f37d' => [
-        'No one who achieves success does so without acknowledging the help of others. The wise and confident acknowledge this help with gratitude.',
-        'Alfred North Whitehead',
+    'ff54ed9d-6215-5bb8-b71c-12a427055df2' => [
+        'Everything I like is either illegal, immoral or fattening.',
+        'Alexander Woollcott',
     ],
-    '4147ee77-c676-5967-ab7f-d23992707d40' => [
-        'I\'ve still got a small fitness and conditioning business where I travel round the world doing stuff for individuals and corporations, mainly fitness training.',
-        'Daley Thompson',
+    'bac8b2f6-4671-5060-9e10-0b65b901c510' => [
+        'What people don\'t understand is joining a gang ain\'t bad, it\'s cool, it\'s fine. When you in the hood, joining a gang it\'s cool because all your friends are in the gang, all your family\'s in the gang. We\'re not just killing people every night, we\'re just hanging out, having a good time.',
+        'Snoop Dogg',
     ],
-    '1005550c-98a0-55e7-a28e-c9be9ade36be' => [
-        'I don\'t care whether people like me or dislike me. I\'m not on earth to win a popularity contest. I\'m here to be the best human being I possibly can be.',
-        'Tab Hunter',
+    '72d03301-1baa-597e-b3a3-f5db43fc5a04' => [
+        'It\'s funny because before I joined the cast of \'Heroes,\' I was an insomniac. I have suffered from insomnia for, like, so long. Now that I\'m on the show, seriously - I sleep like a baby. I\'m so tired all the time.',
+        'Dana Davis',
     ],
-    'd0b7bcef-eec7-5b70-8261-5e94653ac1d5' => [
-        'Crave for a thing, you will get it. Renounce the craving, the object will follow you by itself.',
-        'Swami Sivananda',
+    'a23c31e8-c0ae-55ec-b2a2-1e9089d27848' => [
+        'I\'m not a person who writes really abstract things with oblique references. I look at abstraction like I look at condiments. Give me some Tabasco sauce, some ketchup, some mayonnaise. I love all of that. Put it on a trumpet. I\'ve just got to have the ketchup and Tabasco sauce. That\'s my attitude about musical philosophy.',
+        'Wynton Marsalis',
     ],
-    '3c084fef-79bc-5ba9-8289-36e38753b8fa' => [
-        'To live is to change, and to be perfect is to have changed often.',
-        'Colin Kaepernick',
+    '0721e67e-72b3-5f5c-938e-6b6f733d652b' => [
+        'I think we\'re all good and bad, but good\'s not funny. Bad is funny. Suppress the good and let the bad out, and then you can be funny.',
+        'Larry David',
+    ],
+    '5bf5c637-73e1-5591-8af0-d8bf287d7c6a' => [
+        'I don\'t have any beauty shop memories. I remember the barber shop.',
+        'Jenifer Lewis',
+    ],
+    '726b2817-bf93-59f7-b0b4-14baa5c8421a' => [
+        'Electrical science has revealed to us the true nature of light, has provided us with innumerable appliances and instruments of precision, and has thereby vastly added to the exactness of our knowledge.',
+        'Nikola Tesla',
+    ],
+    'e2519321-2691-5cd4-a583-f299959c76b6' => [
+        'Parks are idealizations of nature, but nature in fact is not a condition of the ideal.',
+        'Robert Smithson',
+    ],
+    'd54ca4ef-73f7-558d-9341-f7972247115d' => [
+        'I\'m not a big spender or shopper. Neither am I extravagant, nor do I have big expenses. I mainly spend on travel. I don\'t buy overpriced clothes, as I feel such expenses are unnecessary. I probably wouldn\'t buy expensive watches or jewellery either.',
+        'Katrina Kaif',
+    ],
+    '3018ffa8-977c-56ca-bea1-116aa5857a06' => [
+        'I have been a foreigner all my life, first as a daughter of diplomats, then as a political refugee and now as an immigrant in the U.S. I have had to leave everything behind and start anew several times, and I have lost most of my extended family.',
+        'Isabel Allende',
+    ],
+    '88047d60-9ad7-59b9-b91d-f9e676600f82' => [
+        'We need to accept that we won\'t always make the right decisions, that we\'ll screw up royally sometimes - understanding that failure is not the opposite of success, it\'s part of success.',
+        'Arianna Huffington',
+    ],
+    '0908ed5f-59d1-5b54-ba67-1ef829ac4f46' => [
+        'Every day of my life I walk with the idea that I am black, no matter how successful I am. And our success is tempered by that; you\'re successful in this way given the fact you are black, and most blacks don\'t get to that point.',
+        'Danny Glover',
+    ],
+    '9e8b5105-034e-5edd-8fc2-bc4e6cc5c5b5' => [
+        'I mean, I - it\'s so funny, I am, you know, I am, you know, a working woman out in the world, but I still live with my parents half the time. I\'ve been sort of taking this very long, stuttering period of moving out.',
+        'Lena Dunham',
+    ],
+    '3fa49c7f-453c-5da2-a9b1-fb35dad28095' => [
+        'To climb steep hills requires a slow pace at first.',
+        'William Shakespeare',
+    ],
+    '271b01ff-aa55-577f-871c-2957907c2fcf' => [
+        'We can use decision-making to choose the habits we want to form, use willpower to get the habit started, then - and this is the best part - we can allow the extraordinary power of habit to take over. At that point, we\'re free from the need to decide and the need to use willpower.',
+        'Gretchen Rubin',
+    ],
+    '72cd8606-d0d0-5e1e-b124-0616a746a7af' => [
+        'The one thing we know about the future is that it comes only one day at a time.',
+        'Jeff Rich',
+    ],
+    'd3162f0b-8c3a-5f38-a4f6-5122374c00f7' => [
+        'Trees love to toss and sway; they make such happy noises.',
+        'Emily Carr',
+    ],
+    '26100ee0-339a-55c0-a71d-58deaa8f8542' => [
+        'I\'m thankful for the three ounce Ziploc bag, so that I have somewhere to put my savings.',
+        'Paula Poundstone',
+    ],
+    '1b51a47a-9c3f-5f14-9143-bca56396fd59' => [
+        'You dream. You plan. You reach. There will be obstacles. There will be doubters. There will be mistakes. But with hard work, with belief, with confidence and trust in yourself and those around you, there are no limits.',
+        'Michael Phelps, swimmer and Olympic gold medalist',
+    ],
+    '3463632c-4c04-5ca6-b79e-761d90222134' => [
+        'My first book was called, \'Mountain, Get Out of My Way,\' where I did an autobiographical sketch, if you will, looking back at myself and looking back at things in my life, and juxtaposing them against things that are happening in other people\'s lives and trying to be motivational.',
+        'Montel Williams',
+    ],
+    '1889f915-e5b3-5cca-9644-7cf1a6c67392' => [
+        'Socialism has no moral justification whatsoever; poor people are not morally superior to rich people, nor are they owed anything by rich people simply because of their lack of success. Charity is not a socialist concept - it is a religious one, an acknowledgment of God\'s sovereignty over property, a sovereignty the Left utterly rejects.',
+        'Ben Shapiro',
+    ],
+    'c3632b64-27fa-5556-b591-3a60eeb271a5' => [
+        'My parents being Bengali, we always had music in our house. My nani was a trained classical singer, who taught my mum, who, in turn, was my first teacher. Later I would travel almost 70 kms to the nearest town, Kota, to learn music from my guru Mahesh Sharmaji, who was also the principal of the music college there.',
+        'Shreya Ghoshal',
+    ],
+    'edfa6c70-2285-5f6b-b64a-b64d990a89d6' => [
+        'Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.',
+        'Lao Tzu',
+    ],
+    'd6dde7c3-0717-57d4-8492-90021d935b6b' => [
+        'I got a lot of support from my parents. That\'s the one thing I always appreciated. They didn\'t tell me I was being stupid; they told me I was being funny.',
+        'Jim Carrey',
+    ],
+    'd7767315-ef08-56c2-b982-2453eaebc8d1' => [
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
+        'Bruce Lee',
+    ],
+    'e56b71fa-bba4-544b-bb3b-bf0f944b0c27' => [
+        'I grew up in a bookless house - my parents didn\'t read poetry, so if I hadn\'t had the chance to experience it at school I\'d never have experienced it. But I loved English, and I was very lucky in that I had inspirational English teachers, Miss Scriven and Mr. Walker, and they liked us to learn poems by heart, which I found I loved doing.',
+        'Carol Ann Duffy',
+    ],
+    'ad18fe3a-b9a7-51a0-8ba6-e3a5806d0d96' => [
+        'Everyone\'s dream can come true if you just stick to it and work hard.',
+        'Serena Williams',
     ],
 ];

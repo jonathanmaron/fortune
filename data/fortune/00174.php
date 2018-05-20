@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'a29257d5-ac76-539a-a6bc-c97b8c2ace03' => [
-        'If you can\'t be in awe of Mother Nature, there\'s something wrong with you.',
-        'Alex Trebek',
+    'f57f1153-0df4-5a0f-880b-0c1a000419a3' => [
+        'The vampire was a complete change from the usual romantic characters I was playing, but it was a success.',
+        'Bela Lugosi',
     ],
-    'f4600815-9f36-5d8f-9b65-65e30d5871d2' => [
-        'People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.',
-        'Johann Wolfgang von Goethe',
+    '2dabd035-dcb6-5f39-9ce3-0af11250bf9a' => [
+        'Visual surprise is natural in the Caribbean; it comes with the landscape, and faced with its beauty, the sigh of History dissolves.',
+        'Derek Walcott',
     ],
-    '928f304d-f48c-5952-9b86-1631024903ab' => [
-        'There is no way to prosperity, prosperity is the way.',
-        'Wayne Dyer',
+    'fa543ca3-030e-5c16-9cce-12a055e4fd75' => [
+        'That term\'s definitely got a negative aura to it, because people think a diva is somebody with an attitude who demands things all the time. Of course there is that type of diva, but my idea of a diva has always been a singer - whether male or female - who gets on that stage and captivates you with their presence and their voice.',
+        'Jordin Sparks',
     ],
-    'b8a253b7-9a38-58c0-837a-94c436b686a9' => [
-        'Do not leave yourself or your family unprotected against financial storms... Build up savings.',
-        'Ezra Taft Benson',
+    'e3f19750-4025-5bb9-9b2e-883f0a4d9527' => [
+        'Walking is man\'s best medicine.',
+        'Hippocrates',
     ],
-    '0b6e44eb-758e-5b3a-9e58-9fb65d2bb010' => [
-        'Besides what I do, I love fishing; I love bringing my children to the forest, getting outdoors in nature. Get outside, people! Stop looking at screens.',
-        'Keith Barry',
+    '7b9d6dc5-325d-5aa3-b60b-1429a502968c' => [
+        'There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation.',
+        'Marcus Garvey',
     ],
-    '7ac580cf-a75a-54eb-8895-f183f2648cae' => [
-        'I\'m not an inspirational quote kind of person.',
-        'Christine Teigen',
+    'e8ae5f63-619f-5482-b8a3-b512fcbe9671' => [
+        'Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.',
+        'Rabindranath Tagore',
     ],
-    'a9033b27-fb12-52ec-9377-1cc6aebe067d' => [
-        'It\'s not just the \'Grammys\' that I\'ve pulled out of. I also pulled out of the English awards as well. The reason that I wanted to pull out was because I believe very much that the music industry as a whole is mainly concerned with material success.',
-        'Alanis Morissette',
+    '829c7b0d-7180-5421-a499-e5f97c069e5e' => [
+        'I do take very good care of myself, and I\'m always in love. And by that I mean I have an appetite for life. I\'m in love with beauty and things and people and love and being in love, and those things I think, on the inside, show on the outside.',
+        'Gloria Vanderbilt',
     ],
-    'ea97e5ad-7698-5f6c-b252-647975dd9d95' => [
-        'My mom taught me the power of love. I learned to focus on the long-term big picture from my father. His sense of humor and light-hearted approach always make me smile. My husband is a pivotal anchor in my life. His influence encourages me to be independent and take risks.',
-        'Padmasree Warrior',
+    '151dc598-ad9b-5699-a307-44e43781ffa7' => [
+        'The human foot is a masterpiece of engineering and a work of art.',
+        'Leonardo da Vinci',
     ],
-    '5d27b99c-8938-582e-9f81-9471a6818be5' => [
-        'Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.',
-        'Margaret Cousins',
+    'f0b7d9fe-8871-560d-810a-0826d4189ca2' => [
+        'One needs more than ambition and talent to make a success of anything, really. There must be love and a vocation.',
+        'Jessye Norman',
     ],
-    '4f1eeea1-2c31-59ca-b12d-1ade38577f5b' => [
-        'I see flaws as a kind of beauty.',
-        'Karan Mahajan',
+    '742a828d-35c7-53c6-8e47-df8c64d6a21d' => [
+        'Success is not greedy, as people think, but insignificant. That is why it satisfies nobody.',
+        'Lucius Annaeus Seneca',
     ],
-    '1549260d-c19d-5d11-a38d-924a2a8ae2d6' => [
-        'The mind of America is seized by a fatal dry rot - and it\'s only a question of time before all that the mind controls will run amuck in a frenzy of stupid, impotent fear.',
-        'Hunter S. Thompson',
+    'b67508bb-c37d-5b56-a509-d1a29ddc4665' => [
+        '\'In Search of Excellence\' - even the title - is a reminder that business isn\'t dry, dreary, boring, or by the numbers. Life at work can be cool - and work that\'s cool isn\'t confined to Tiger Woods, Yo-Yo Ma, or Tom Hanks. It\'s available to all of us and any of us.',
+        'Tom Peters',
     ],
-    '396babd9-d966-5e36-bde9-8d1da2678f2e' => [
-        'Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.',
-        'Carl Jung',
+    '1b6ec045-55cd-527a-b1c9-bc9ee1fa4b56' => [
+        'Success is a nice by-product but what I really want is work.',
+        'Juliette Lewis',
     ],
-    '22984294-cc52-51a7-a684-f56c56b27c38' => [
-        'Reality is easy. It\'s deception that\'s the hard work.',
-        'Lauryn Hill',
+    '54e08b98-0bcd-519d-bedb-e4a5a01de4fa' => [
+        'If you have a successful run, everything comes to you. Nothing succeeds like success.',
+        'John Barry',
     ],
-    '8dd51818-be0d-588b-b62c-a2e4785c2171' => [
-        'Glory is attained from hard work, step by step.',
-        'Ma Long',
+    'bdab8d9d-cda4-5730-84d7-5c09462aefbc' => [
+        'That the sea is one of the most beautiful and magnificent sights in Nature, all admit.',
+        'John Joly',
     ],
-    'c850eb55-d6ff-581c-a5d5-40c37a7f55e1' => [
-        'This is the final test of a gentleman: his respect for those who can be of no possible value to him.',
-        'William Lyon Phelps',
+    '3b26b729-2234-5020-ba72-1e8cc8e38019' => [
+        'I have seen many storms in my life. Most storms have caught me by surprise, so I had to learn very quickly to look further and understand that I am not capable of controlling the weather, to exercise the art of patience and to respect the fury of nature.',
+        'Walter Elliot',
     ],
-    '0213fbd3-afed-54f0-bf7b-9f702864ec95' => [
-        'Cognitive therapy is based on the idea that when you change the way you think, you can change the way you feel and behave. In other words, if we can learn to think about other people in a more positive and realistic way, it will be far easier to resolve conflicts and develop rewarding personal and professional relationships.',
-        'David D. Burns',
+    '0895a6c3-9ad0-534b-96a3-8762cc15ca58' => [
+        'I am living proof that the American dream still exists. It is still alive and well. There is only one trick, you have to be willing to roll up your sleeves and work very, very hard.',
+        'Paula Deen',
     ],
-    'b5b706ef-726f-53a5-a35e-446214765185' => [
-        'What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.',
-        'Sai Baba',
+    'ee7e5eee-b3e0-5953-a6a1-5f8325cc390b' => [
+        'My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.',
+        'Trey Anastasio',
     ],
-    '5a865892-3aa6-5533-88da-6ee5cbba9c05' => [
-        'Friends are thieves of time.',
-        'Francis Bacon',
+    '23190c74-a3fe-5d65-81c2-62ff1d867577' => [
+        'It can literally change someone\'s life; it\'s very positive for young teenagers to get into cosplay if they do it with their friends or with supervision from their parents - it can really foster their social skills.',
+        'Yaya Han',
     ],
-    '551d1989-9dd0-5a1e-a769-394f8aacc0e0' => [
-        'Working with people from all walks of life, from full-time moms to CEOs at large companies, I\'ve distilled many universal truths about success. There\'s a secret I\'ve learned that works quite well at helping you to achieve what you want: Decide what you want.',
+    '2f6c62fb-653e-5ad4-9f96-9ec4f75ab4df' => [
+        'It always seems impossible until it\'s done.',
+        'Nelson Mandela',
+    ],
+    'db049183-8d8f-54fa-8f08-85c52e8a3f2c' => [
+        'Physical attributes can make you appealing, but to keep the appeal going, one has to draw from within. You have to be a real person. Your fans and the people you associate with have to be able to see beyond your looks. You have to be a good friend, dutiful son and a good family man.',
+        'Arjun Rampal',
+    ],
+    '87a5194a-8fe5-5bff-aac6-bdbf6746dd7b' => [
+        'Venice is like eating an entire box of chocolate liqueurs in one go.',
+        'Truman Capote',
+    ],
+    '44ee74c7-3861-558c-b533-703a0b1bb377' => [
+        'The fictionally correct have all the answers, and that\'s what\'s wrong with them. They\'re artistic technocrats. There\'s no dilemma so knotty, no question so baffling, that it can\'t be smoothly neutralized by dialing up the right attitude adjustment. Poor old Hemingway. If only he\'d known.',
+        'Walter Kirn',
+    ],
+    '8a7f1bb5-2221-59ee-9d75-8236ea1729ce' => [
+        'I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating. Most people attach failure to something not working out or how people perceive you. This way, it is about answering to yourself.',
+        'Sara Blakely',
+    ],
+    'e21372a8-f613-5175-b0dd-8ab5a3f3a07b' => [
+        'It\'s about having an active lifestyle, staying healthy, and making the right decisions. Life is about balance. Not everybody wants to run a marathon, but we could all start working out and being active, whether you walk to work or take an extra flight of stairs.',
+        'Apolo Ohno',
+    ],
+    '31c1269d-bc7e-57b3-bbb6-031c7a041dec' => [
+        'We\'re in a situation where talented, motivated school leavers and graduates can send off a hundred CVs and not get a reply, and where a trip to the Job Centre is depressing rather than inspirational. And you know what, that just feels wrong.',
+        'Jameela Jamil',
+    ],
+    '7ab95cf9-4368-5ab5-a163-76ed8c412fc6' => [
+        'We all go through sad times, but I was brought up to be positive.',
+        'Jess Glynne',
+    ],
+    'abf03877-ea7e-5885-b1de-41371d566269' => [
+        'I used to define success as being able to produce any result you wanted, whether it was a relationship, weight-loss, being a millionaire, impacting the culture, changing society, whatever it might be - it might be homelessness, whatever - and lately, I\'ve redefined success as \'fulfilling your soul\'s purpose.\'',
         'Jack Canfield',
     ],
-    'be8e1dd6-44b9-5168-98a1-953c5b2aae81' => [
-        'Americans are the most generous country on the planet. I\'ve worked in Europe, I\'ve worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.',
-        'Hugh Jackman',
+    '42941a37-db1b-5b37-b7c2-e85763b81b35' => [
+        'Beauty is everlasting And dust is for a time.',
+        'Marianne Moore',
     ],
-    '93e242a4-d354-5e46-81ce-c4b3428fe430' => [
-        'The Internet has transformed many parts of our daily lives, touching everything from how we find information to how we go shopping, get directions, and even stay in touch with friends and family.',
-        'Dean Ornish',
-    ],
-    '5afd7ecb-cece-5f24-bf1e-9ada4f04608f' => [
-        'It is by acts and not by ideas that people live.',
-        'Anatole France',
-    ],
-    'a371c7e1-968d-5304-9f8e-7b24f7c14dfd' => [
-        'Country music has become the music that best represents the reality of American life.',
-        'Brad Paisley',
-    ],
-    '0afa3da4-5f12-5a4b-ba34-981f4ce9a390' => [
-        'Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.',
-        'Alphonse Karr',
-    ],
-    '224d525c-a83f-597e-80a0-79203d8d888a' => [
-        'Our economy is increasingly dependent on the success and integrity of the financial markets.',
-        'Michael Douglas',
-    ],
-    'e2b48e61-7f91-5176-9cb0-6a0022693a00' => [
-        'Our Party attaches great importance to the work with young people and firmly believes in them.',
-        'Kim Jong-un',
-    ],
-    '3f366c3a-4650-5684-ac96-fe2f85bda2f0' => [
-        'Time does not change us. It just unfolds us.',
-        'Max Frisch',
-    ],
-    '8abdcfa6-078d-56e6-a5c0-1039ddf1965a' => [
-        'When someone shows you who they are, believe them the first time.',
-        'Maya Angelou',
-    ],
-    '8cc00a93-d5a4-5cb3-9b42-bde6cab9ae30' => [
-        'As we begin to have landings on the moon, we can alternate those with vertical launch of similar crew modules on similar launch vehicles for vertical-launch tourism in space, if you want to call it that... adventure travel.',
-        'Buzz Aldrin',
-    ],
-    '69442553-b854-5aba-b8f3-4f97ea1a05c7' => [
-        'You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.',
-        'Remez Sasson',
-    ],
-    'bf82480c-b9e5-57e8-b912-cc8972dad8b5' => [
-        'Trust is hard to come by. That\'s why my circle is small and tight. I\'m kind of funny about making new friends.',
+    '28282a8a-6eeb-51b7-8056-1fdd0ed72007' => [
+        'A lot of the problems I had with fame I was bringing on myself. A lot of self-loathing, a lot of woe-is-me. Now I\'m learning to see the positive side of things, instead of, like, \'I can\'t go to Kmart. I can\'t take my kids to the haunted house.\'',
         'Eminem',
     ],
-    '372e901f-b34a-55c0-9004-2d14d367d284' => [
-        'I think it has something to do with being British. We don\'t take ourselves as seriously as some other countries do. I think a lot of people take themselves far too seriously; I find that a very tedious attitude.',
-        'Joan Collins',
+    'f1e57bd5-40a4-5306-bf46-a651a27dac12' => [
+        'Respectable means rich, and decent means poor. I should die if I heard my family called decent.',
+        'Thomas Mann',
     ],
-    '3cf37ab0-9abc-5a3d-831d-e48c3df9ed4c' => [
-        '\'No one can make you successful; the will to success comes from within.\' I\'ve made this my motto. I\'ve internalized it to the point of understanding that the success of my actions and/or endeavors doesn\'t depend on anyone else, and that includes a possible failure.',
-        'Fabrizio Moreira',
+    'e2259fdb-074e-5665-a3d7-3eb63cb1f7ab' => [
+        'We travel together, passengers on a little spaceship, dependent on its vulnerable reserves of air and soil, all committed, for our safety, to its security and peace. Preserved from annihilation only by the care, the work and the love we give our fragile craft.',
+        'Adlai E. Stevenson',
     ],
-    '61b1dffd-486b-5a17-8a29-2ddac982a7cb' => [
-        'It\'s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.',
-        'Jerry Seinfeld',
-    ],
-    '594713db-0441-5e0e-bee8-68b8e2c94946' => [
-        'A family can develop only with a loving woman as its center.',
-        'Karl Wilhelm Friedrich Schlegel',
-    ],
-    'be6e063a-bbc6-5626-90e4-54088d49c7dd' => [
-        'I don\'t like to leave anything unfinished on my desk before I travel.',
-        'Vijay Mallya',
-    ],
-    '9fcf8243-923a-56e6-bfd6-39bc63ffe2d9' => [
-        '\'Top Gear\' changed people\'s perceptions of me. I\'ve had much more positive responses from my TV appearances than written articles. And I have the weirdest voice.',
-        'James Blunt',
-    ],
-    'e51bff23-e83a-5ee9-955d-ba67f31d6545' => [
-        'Important principles may, and must, be inflexible.',
-        'Abraham Lincoln',
-    ],
-    '0a2d1638-b7f7-5736-a14b-10c7c1355c3e' => [
-        'If you smile when no one else is around, you really mean it.',
-        'Andy Rooney',
-    ],
-    'df940673-578a-53c8-a315-282679f30a7f' => [
-        'When you realize how perfect everything is you will tilt your head back and laugh at the sky.',
-        'Buddha',
-    ],
-    'e53195d7-b987-5ff2-b41a-17e925ada921' => [
-        'Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance.',
-        'Benny Cassette',
-    ],
-    'a1f4560d-16e3-5d12-9670-06091a0e9e7d' => [
-        'Someone told me I had funny facial expressions. I don\'t know whether I take that as a compliment or not, but.',
-        'Lucy Punch',
-    ],
-    'c591ae5b-0df5-5d64-862e-28b98bf02002' => [
-        'You win a race, the next race it\'s a question mark. Are you still the best or not? That\'s what is funny. But that\'s what is interesting. And that\'s what is challenging. You have to prove yourself every time.',
-        'Michael Schumacher',
-    ],
-    '800521fb-8ee9-51b1-8dbb-998715daa4e8' => [
-        'Alas, nothing reveals man the way war does. Nothing so accentuates in him the beauty and ugliness, the intelligence and foolishness, the brutishness and humanity, the courage and cowardice, the enigma.',
-        'Oriana Fallaci',
-    ],
-    'af6dab9b-dfe5-5499-98f5-35a9c0e2e427' => [
-        'It\'s really funny - when I\'m depressed or I\'m having a hard time, I\'ll write really fun stuff. And then when I\'m really happy, I write really depressing stuff.',
-        'Kathleen Hanna',
-    ],
-    '9c755f37-da7b-5061-8e7a-755ab39b31ab' => [
-        'As an actor there\'s a lot of scrutiny and, even when you\'ve had success, it becomes about sustaining that success. A friend of mine described it as a peakless mountain. Even for De Niro there\'s Pacino and for Pacino there\'s De Niro.',
-        'Eddie Redmayne',
-    ],
-    'a1e91a2b-2b40-5ffb-92b0-b56350b0fc5c' => [
-        'It is on our failures that we base a new and different and better success.',
-        'Havelock Ellis',
-    ],
-    'aca6d4af-6d01-5c15-ac28-77ca6ebf9fb6' => [
-        'An investment in knowledge pays the best interest.',
-        'Benjamin Franklin',
-    ],
-    '3287e70f-278a-5a04-acec-1745b8e1aa63' => [
-        'It\'s such a funny thing when you see your daughter transitioning from your baby, your little girl, to suddenly being a young woman. If you\'re not really looking for it, you can miss it, and Lily-Rose is on that road already, and there\'s nothing I can do to stop it.',
-        'Johnny Depp',
-    ],
-    '20bbc973-72f4-5172-8561-778aba57eda9' => [
-        'It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come.',
+    '2d097d6f-3b7d-5ca0-bc58-54509847006b' => [
+        'Happiness mainly comes from our own attitude, rather than from external factors.',
         'Dalai Lama',
+    ],
+    'b90b41e2-2261-54a0-8e9f-6ca00cb7c26f' => [
+        'All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.',
+        'Rudolf Arnheim',
+    ],
+    '152bab77-eea9-5565-a3a9-e54e3bca8cfb' => [
+        'If I hadn\'t spent many years trying to be as compassionate as Mother Teresa, as positive a thinker as W. Clement Stone, as prolific a writer as Stephen King, and as good a speaker as many of the legends I have studied, I would not be as successful as I am today.',
+        'Jack Canfield',
+    ],
+    '82605630-9431-5f93-86c4-2c7c0fecb103' => [
+        'The first pages of memory are like the old family Bible. The first leaves are wholly faded and somewhat soiled with handling. But, when we turn further, and come to the chapters where Adam and Eve were banished from Paradise, then, all begins to grow clear and legible.',
+        'Max Muller',
+    ],
+    '29e67798-8edb-564a-a143-d14987891693' => [
+        'You can really only enjoy life when you\'re extremely busy.',
+        'David Rockefeller',
+    ],
+    '6ab19a74-36f9-5544-bc27-217333fc59be' => [
+        'I think it is going to be very difficult to be a company in silos. I think the game has changed. We won\'t define our success by looking at the competitors but at how satisfied are our customers, how engaged are our internal stakeholders, and how good is our product pipeline.',
+        'Michael Dell',
+    ],
+    '546d8f5d-62b7-565b-8797-41b9db3fbf03' => [
+        'Probably because I\'m from a middle class family, I have that nature in me that I don\'t get too excited with big things.',
+        'Virat Kohli',
+    ],
+    '40c75cdd-36fd-5427-8a89-589a6df11bfe' => [
+        'I\'m a lucky person because I\'ve been loved a lot. I have a great family.',
+        'Monica Bellucci',
+    ],
+    '3cfe09a9-ed78-5b49-a0bc-d665f17cabf2' => [
+        'No yesterdays are ever wasted for those who give themselves to today.',
+        'Brendan Francis',
+    ],
+    'cd29cdc0-e361-54d7-bea3-9ef2c279aff4' => [
+        'A successful competition for me is always going out there and putting 100 percent into whatever I\'m doing. It\'s not always winning. People, I think, mistake that it\'s just winning. Sometimes it could be, but for me, it\'s hitting the best sets I can, gaining confidence, and having a good time and having fun.',
+        'Simone Biles',
+    ],
+    '9d0a1e17-581d-5808-820d-9f4040e85a0a' => [
+        'Imagination makes us aware of limitless possibilities. How many of us haven\'t pondered the concept of infinity or imagined the possibility of time travel? In one of her poems, Emily Bronte likens imagination to a constant companion, but I prefer to think of it as a built-in entertainment system.',
+        'Alexandra Adornetto',
+    ],
+    '9fd7067d-6c71-528b-ae29-f9611ca60aec' => [
+        'I try to be as optimistic as I can. I feel like that\'s the beautiful thing about art and music. It can take you places, and they can be a positive influence. A very soothing influence. Honestly, I feel like there\'s enough pain and terrible things that happen in life. That\'s beautiful thing in art, you can really idealize things.',
+        'Washed Out',
+    ],
+    '59bb6c1c-8653-527c-91a0-bbbe026f14bc' => [
+        'I have a boutique in L.A. and travel there frequently. My visits always put me in a good mood. Maybe it\'s all the sunshine. I could totally live in L.A.',
+        'Monika Chiang',
+    ],
+    '7cd4c18a-6d00-5b20-a8b6-bc5c45abf4ec' => [
+        'Pick battles big enough to matter, small enough to win.',
+        'Jonathan Kozol',
+    ],
+    'bb9a0c83-1562-5ab3-834f-da1a80289960' => [
+        'I\'m very inspired by nature - you could say Mother Nature. I look at things around me and get all kinds of inspiration daily.',
+        'Martha Stewart',
+    ],
+    '4d2fa7c4-1942-5127-9404-d75002f70193' => [
+        'In just the same way the thousands of successive positions of a runner are contracted into one sole symbolic attitude, which our eye perceives, which art reproduces, and which becomes for everyone the image of a man who runs.',
+        'Henri Bergson',
+    ],
+    'f10e0e52-0b02-5875-84de-48491666c2b3' => [
+        'There is nothing permanent except change.',
+        'Heraclitus',
+    ],
+    'ddc29450-d6b2-5d38-b26c-da5e0c71716f' => [
+        'Sport is something that is very inspirational for young people.',
+        'Pele',
+    ],
+    'f527ccf8-fda6-5482-8bf1-cdbe08cce3c9' => [
+        'Your children are not your children. They are the sons and daughters of Life\'s longing for itself. They came through you but not from you and though they are with you yet they belong not to you.',
+        'Khalil Gibran',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'b4941696-248b-5a04-9db4-2b4427cea4fd' => [
-        'Power is always dangerous. Power attracts the worst and corrupts the best.',
-        'Edward Abbey',
+    '41de7816-ca70-5505-9e81-5cbae49a7f9a' => [
+        'The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.',
+        'Robert Frost',
     ],
-    'b1be0502-e7b0-50cf-8a3c-a16dc732906b' => [
-        'Don\'t let life discourage you; everyone who got where he is had to begin where he was.',
-        'Spencer Johnson',
+    '896dfac9-4b77-5bcf-b3f7-e26ed1d18700' => [
+        'Our success as a global brand has been directly related to how we select locations where we are confident our particular clients desire to be. Los Cabos, Mexico is the ideal Engel & Volkers market, growing in popularity among world luxury travelers seeking exceptional properties for second home opportunities.',
+        'Anthony Hitt',
     ],
-    '9a20b654-53bd-50e3-9d9a-33d5c017cda5' => [
-        'Transparency, honesty, kindness, good stewardship, even humor, work in businesses at all times.',
-        'John Gerzema',
+    'b72c1e37-36bc-552c-953a-95eb8a6c5923' => [
+        'How inscrutable and incomprehensible are the hidden works of Nature!',
+        'Antonie van Leeuwenhoek',
     ],
-    'e6183a6f-badb-5c72-8b88-2c0b8e9e0b22' => [
-        'Especially as a title-holder, you can do great things with charities, because people suddenly care about what you have to say. I wanted to make a difference, which is why I created the Queen of the Universe pageant. I want to change all of those stigmas in the beauty pageant world.',
-        'Joyce Giraud',
+    'b9dce984-c9cd-546c-9742-7138b6b0ef19' => [
+        'Even if you can\'t afford to travel the world, you can take your children to the museum, zoo or local park. And don\'t be afraid to take them to grown-up spots. Eating out in a restaurant teaches children how to be quiet and polite and gives them the pleasure of knowing you trust them to behave.',
+        'Kimora Lee Simmons',
     ],
-    '7fb15477-b5f0-59c6-a465-9436e2a9417c' => [
-        'When I was in college, I was in the theater department, which for anyone who has been involved in any kind of theater program, you know that it\'s really wacky and tight-knit, a real family. Me and my good friends from college would do random shows and plays that were sometimes serious, but most of the time really goofy and funny.',
-        'Darren Criss',
+    '015d7c6c-5bb2-518f-be96-09e75016b2d9' => [
+        'When it comes to the things that people really want in science fiction - like space travel - the simplest things end up causing them not to happen. Humans are 100-pound bags of water, built to live on Earth.',
+        'Lawrence M. Krauss',
     ],
-    '5ea6acac-ee94-57ba-9ae1-d2af73602c69' => [
-        'Many people don\'t know, but American Girl Scouts get to travel the world, and that\'s a very good thing, as the more we can expose our young people to other cultures, the better off we\'ll be in this increasingly globalized environment.',
-        'Anna Maria Chavez',
+    '593ed823-b070-59b6-abfd-57b167988838' => [
+        'Work is the curse of the drinking classes.',
+        'Oscar Wilde',
     ],
-    '6cf0e4c2-2a82-5190-b110-4686e4df161a' => [
-        'I demand a lot from myself and reflect this attitude upon others: I consider it to be an important quality for a leader. I also think it is impossible to achieve success without persistence.',
-        'Yelena Baturina',
-    ],
-    '660b57d2-3ec3-5aee-8fff-697a9727ff62' => [
-        'What I like to do is try to make a difference with the work I do.',
-        'David Bowie',
-    ],
-    '542ef4d9-bda6-51ee-af8f-f226d2be4199' => [
-        'I know how domestic violence can affect a family, and I want to do everything I can to stop it from happening to others. The most important thing we can do is teach kids that they can break the cycle.',
-        'Missy Elliott',
-    ],
-    '5900faf0-ab6e-53c8-ac72-8354a6bf72b2' => [
-        'Travel for me is all about transformation, and I\'m fascinated by those people who really do come back from a trip unrecognizable to themselves and perhaps open to the same possibilities they\'d have written off not a month before.',
-        'Pico Iyer',
-    ],
-    '0ab626cc-2647-55d2-9336-0603e0c908c0' => [
-        'If you travel around America you see different sections of highways donated by this or that person, and that\'s a slow beginning of what may end up being a situation common in the Third World: some sections of highways in wealthy areas are beautifully maintained and other parts are just dirt-strewn potholes.',
-        'Robert D. Kaplan',
-    ],
-    'acbda4e7-64c0-53e4-af5b-f255da0d58d9' => [
-        'For me, the beauty of a person is a matter of the whole package. You have to look at the whole thing, not just a matter of outward appearance or whatever. It has to do with one\'s character, personality, upbringing and so on.',
-        'Gong Li',
-    ],
-    '619ca933-867c-5732-b753-535359834804' => [
-        'For me, physical beauty is never the reason for attraction to anyone.',
-        'Katrina Kaif',
-    ],
-    'c0bcff2c-da8e-5d9d-80e6-56a913f717f6' => [
-        'I guess I just always had this idea that I would go to Hollywood. I had the typical \'get up and go\' attitude that you have to have in order to make the brave step into the big city.',
-        'Felicia Day',
-    ],
-    '71ae2347-6387-5fdd-a627-a825f4a4db5d' => [
-        'If you are the kind of person who is waiting for the \'right\' thing to happen, you might wait for a long time. It\'s like waiting for all the traffic lights to be green for five miles before starting the trip.',
-        'Robert Kiyosaki',
-    ],
-    'a3a159d7-34ed-511b-99f2-f674e83ee9c1' => [
-        'Prosperity is the best protector of principle.',
+    '98f881b1-bd0a-5596-ac5d-c842adddddb8' => [
+        'Courage is resistance to fear, master of fear, not absence of fear',
         'Mark Twain',
     ],
-    '1f820ce3-c227-56b0-8fb8-d446f98f7561' => [
-        'Before the sacred, people lost all sense of power and all confidence; they occupy a powerless and humble attitude toward it. And yet no thing is sacred of itself, but by declaring it sacred, by my declaration, my judgment, my bending the knee; in short, by my - conscience.',
-        'Max Stirner',
+    '1cfd3677-2c9f-502e-9e71-8e5feb9c5349' => [
+        'I always wanted to be somebody, but now I realize I should have been more specific.',
+        'Lily Tomlin',
     ],
-    '8f6edc40-7ddd-53c1-85dc-b4da6529f67b' => [
-        'More brands are waking up to their social responsibility and doing good work through cause marketing campaigns. Yet too many still go about it the wrong way. I mean \'wrong\' in two senses. Firstly, they are marketing ineffectively, and secondly, as a consequence their positive social impact is not maximized.',
-        'Simon Mainwaring',
+    'ada567cd-4fa9-5631-8ff9-5ddae466d9e0' => [
+        'Mark Twain was a great traveler and he wrote three or four great travel books. I wouldn\'t say that I\'m a travel novelist but rather a novelist who travels - and who uses travel as a background for finding stories of places.',
+        'Paul Theroux',
     ],
-    '74d7df1b-3b75-5331-a2ba-cc072c796b76' => [
-        'To be a utilitarian means that you judge actions as right or wrong in accordance with whether they have good consequences. So you try to do what will have the best consequences for all of those affected.',
-        'Peter Singer',
+    'dfeb3258-2372-52cc-beb6-80360b9f6564' => [
+        'If your best friend has stolen your girlfriend, it does become life and death.',
+        'Ben Kingsley',
     ],
-    '505bc580-9299-5957-8ecc-1359b41df76f' => [
-        'Bjorn was a different breed, I threw my best material at him, but he would never smile, but that added to the charm when he played me and Mac. We were going nuts and losing our mind and he was sitting back like he was on a Sunday stroll.',
-        'Jimmy Connors',
+    'b876f28c-d18d-5749-bfe8-571704e4650a' => [
+        'Art is a harmony parallel with nature.',
+        'Paul Cezanne',
     ],
-    '229b8675-67c6-5692-830e-2adea41c10bd' => [
-        'Having nothing, nothing can he lose.',
-        'William Shakespeare',
+    '45f425a3-fce8-5025-8b89-fb696e5501d4' => [
+        'We need to protect our wilderness areas and national parks. Everywhere you travel, you see blight, denuded mountains, logging. If people know what\'s going on, they\'ll become activists to safeguard those places.',
+        'Christie Brinkley',
     ],
-    '8180dd7a-9ee6-5268-aa41-2c375995314c' => [
-        'I am far more of a loner than people would imagine. But I am the most gregarious and socially interactive loner you ever met. The thing is, I am fascinated by people\'s stories and I\'m very talkative and can\'t ever say no to anything or anyone, so I tend to over-socialize, to give away too much of my time to the many people I adore.',
-        'Elizabeth Gilbert',
+    '196a7abf-d360-5e60-ad64-bb2bb0005990' => [
+        'The same way one tells a recipe, one tells a family history. Each one of us has our past locked inside.',
+        'Laura Esquivel',
     ],
-    '38fea124-ff03-53f3-8549-d5cad8633226' => [
-        'Instead of this confusion, we need the unifying force of an official language, English, which is the language of success in America.',
-        'Ernest Istook',
+    'c6fe6b30-e0ca-57f2-bdf9-817b2c51796f' => [
+        'I couldn\'t buy my way - I had to work my way. What a great quote: \'I couldn\'t buy my way into success, I had to work my way into success.\'',
+        'Stewart Rahr',
     ],
-    '5c10dc38-6560-5497-a45e-474620e1b9bc' => [
-        'Success is going from failure to failure with no loss of enthusiasm.',
-        'Winston Churchill',
+    'e89c7544-ad40-5e90-968f-38923cb784b1' => [
+        'People travel and hunt on the sea ice - in Alaska, they hunt in skin boats for bowhead whales; in Greenland, they hunt with dogsleds. The ice is their highway. The ice is also the ecosystem in which marine mammals and terrestrial animals such as polar bears exist.',
+        'Gretel Ehrlich',
     ],
-    '8bdc5e3e-add4-56d0-862f-9d7e4df4a304' => [
-        'When my mom, Mercedes, and her younger sister, Juanita, first came from Puerto Rico, they were the youngest in the family. They had to jump into a new community and really learn English, assimilate, and adapt - and I saw that. I grew up in that community.',
-        'Kimberly Guilfoyle',
+    '694ea074-e0a6-55d0-8143-39da0e6175ab' => [
+        'Never a lip is curved with pain that can\'t be kissed into smiles again.',
+        'Bret Harte',
     ],
-    'f0000f7e-beca-5a3a-a2a2-3b710171aa2c' => [
-        'Success is a process, a quality of mind and way of being, an outgoing affirmation of life.',
-        'Alex Noble',
+    '31a270ee-3088-5d52-abe8-e46d8cf84bf6' => [
+        'I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has had to overcome while trying to succeed.',
+        'Booker T. Washington',
     ],
-    'fa8ee6b1-ca4e-55a7-bb67-9c1a03bee762' => [
-        'The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted.',
-        'Aesop',
+    'a295850f-0003-5e25-812b-8b8db04d2b09' => [
+        'The golden moments in the stream of life rush past us, and we see nothing but sand; the angels come to visit us, and we only know them when they are gone.',
+        'Van Morrison',
     ],
-    '91d33958-7d9d-51b6-988a-4f05f6999898' => [
-        'Reinforced concrete buildings are by nature skeletal buildings. No noodles nor armoured turrets. A construction of girders that carry the weight, and walls that carry no weight. That is to say, buildings consisting of skin and bones.',
-        'Ludwig Mies van der Rohe',
+    'a9e65394-f91e-5d97-8466-05cc743839d8' => [
+        'We pass through this world but once.',
+        'Aristotle',
     ],
-    '98af6cab-0a06-52df-b0ac-ef5e6a9ad85e' => [
-        'I have looked into your eyes with my eyes. I have put my heart near your heart.',
-        'Pope John XXIII',
+    '451446e4-edcd-5524-9350-5295b80257a4' => [
+        'Beauty is in the heart of the beholder.',
+        'H. G. Wells',
     ],
-    '45e27f08-feea-5ec6-be2b-993f86562cfb' => [
-        'Cherish sunsets, wild creatures and wild places. Have a love affair with the wonder and beauty of the earth.',
-        'Stewart Udall',
+    'c83a3f74-642a-5f7a-bb3a-96f9c41b9e03' => [
+        'One\'s philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.',
+        'Eleanor Roosevelt',
     ],
-    'cb0d1e2d-d475-5750-b27f-21bcf8ff3061' => [
-        'It\'s funny. People often compare me to other humor essayists. They\'re usually quite nice comparisons; I will accept those gladly. But I am always sort of appalled at the idea of being lumped with other, more chick-y female writers. And the truth is probably that neither comparison is accurate.',
-        'Sloane Crosley',
+    '02994c06-6aec-56d7-a0a0-5eee4d3b00b9' => [
+        'Most great people have attained their greatest success just one step beyond their greatest failure.',
+        'Napoleon Hill',
     ],
-    'aefb5d24-bae7-5878-97ca-0f1b3de84639' => [
-        'People forget I go to work. They forget that the Coleridge house was bought and paid for by the daughter of a travel agent and a barmaid from what the actor Richard Burton once described as the nightmarish \'featureless suburb\' of Croydon.',
-        'Kate Moss',
+    '04d1b2cb-1287-5ca9-9b69-4c747a581f30' => [
+        'No person is your friend who demands your silence, or denies your right to grow.',
+        'Alice Walker',
     ],
-    'eba4ff7e-cff2-58d5-a27b-945e9f2726ce' => [
-        'We now occupy the proud attitude of a sovereign and independent Republic, which will impose upon us the obligation of evincing to the world that we are worthy to be free. This will only be accomplished by wise legislation, the maintenance of our integrity, and the faithful and just redemption of our plighted faith wherever it has been pledged.',
-        'Sam Houston',
+    '180b1e00-1ef9-5a7d-9751-92ffc7d83301' => [
+        'Learn to say \'no\' to the good so you can say \'yes\' to the best.',
+        'John C. Maxwell',
     ],
-    '4af955e1-8d75-5eee-88d6-445d4f8d856b' => [
-        'Because I had my family, I felt like I could be a bird and fly and experience and do. Because I had roots somewhere, I knew that they would love me no matter what, and I could always go back home and they were going to love me.',
-        'Gisele Bundchen',
+    'b32b68ef-e00e-5397-8bbc-9c614d6cfff1' => [
+        'Nothing in life is promised except death.',
+        'Patrick Henry',
     ],
-    '9e85c97d-80c2-549f-a841-822d372766a9' => [
-        'Your performance depends on your people. Select the best, train them and back them. When errors occur, give sharper guidance. If errors persist or if the fit feels wrong, help them move on. The country cannot afford amateur hour in the White House.',
-        'Donald Rumsfeld',
+    '1b60d1ff-2856-5b65-8711-b0cab98730f4' => [
+        'Time has been transformed, and we have changed; it has advanced and set us in motion; it has unveiled its face, inspiring us with bewilderment and exhilaration.',
+        'Khalil Gibran',
     ],
-    '0cf2e2d4-8916-5355-8ad6-adf981f57485' => [
-        'A champion is someone who gets up when he can\'t.',
-        'Jack Dempsey',
+    '904db4a3-a6d5-5410-8752-e673412e7e2d' => [
+        'Being busy with work, and as a mum, I\'m a big fan of online shopping.',
+        'Kirsty Gallacher',
     ],
-    '702afc45-bac2-5e41-9d3a-4d45eb59ecb7' => [
-        'Research has shown that the best way to be happy is to make each day happy.',
-        'Deepak Chopra',
+    '65f8144b-2a37-58f9-bda9-3c9aa90fab39' => [
+        'Everybody loves success, but they hate successful people.',
+        'John McEnroe',
     ],
-    'd0ad7d88-dcf0-5e9e-bc5b-dbd8bebaa450' => [
-        'My parents were kind of over protective people. Me and my sister had to play in the backyard all the time. They bought us bikes for Christmas but wouldn\'t let us ride in the street, we had to ride in the backyard. Another Christmas, my dad got me a basketball hoop and put it in the middle of the lawn! You can\'t dribble on grass.',
-        'Jimmy Fallon',
+    'f4d2b393-d560-5702-9e91-369501c323b3' => [
+        'There is no higher religion than human service. To work for the common good is the greatest creed.',
+        'Woodrow Wilson',
     ],
-    'd82b6412-2497-5274-9cf1-ab70341530c8' => [
-        'Every man who has shown the world the way to beauty, to true culture, has been a rebel, a \'universal\' without patriotism, without home, who has found his people everywhere.',
-        'Chaim Potok',
+    '83d69a83-6f91-5a39-816c-4db83d9dddd7' => [
+        'To be successful in real estate, you must always and consistently put your clients\' best interests first. When you do, your personal needs will be realized beyond your greatest expectations.',
+        'Anthony Hitt',
     ],
-    '846f06b4-f9bf-5b29-9304-607d7773cce9' => [
-        'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\'t found it yet, keep looking. Don\'t settle. As with all matters of the heart, you\'ll know when you find it.',
-        'Steve Jobs',
+    '62e7047e-5f43-5621-95fe-550b15d397c7' => [
+        'I find human beings to be so complex and full of beauty. Creativity is our way to express and challenge and flow. So, all you humans, create and flow! I\'ll be over here thinking you are beautiful and creepy and freaky and wonderful!',
+        'Angela Bettis',
     ],
-    'ebbe1af7-cf65-55c6-9918-920c30727859' => [
-        'We think of stars as celestial beings. And once in a while, they smile at us from the pages of \'People\' magazine.',
-        'A. E. Hotchner',
+    '9f9efc0f-09b9-5925-aacb-8cbed18d211a' => [
+        'Worry gives a small thing a big shadow.',
+        'Unknown',
     ],
-    '07e12253-f234-50db-bc69-aef55e3a690c' => [
-        'In times of great stress or adversity, it\'s always best to keep busy, to plow your anger and your energy into something positive.',
+    '24f45e39-8ccd-58a4-a2e5-693ace353343' => [
+        'The right of nature... is the liberty each man hath to use his own power, as he will himself, for the preservation of his own nature; that is to say, of his own life.',
+        'Thomas Hobbes',
+    ],
+    '20e50bd0-3d4c-5f66-b107-31109c15eb43' => [
+        'Never ignore a gut feeling, but never believe that it\'s enough.',
+        'Robert Heller',
+    ],
+    '2b100016-081c-530a-9a6e-e359fe7341d8' => [
+        'As we get older, we get better at choosing in ways that will make us happy. We do a better job at picking activities that make us happy, and at spending time with people who make us happy. We\'re also better at letting things go.',
+        'Sheena Iyengar',
+    ],
+    '491b2fdb-f9bd-5984-9a54-ae67d74e00eb' => [
+        'Clock watchers never seem to be having a good time.',
+        'James Cash Penney',
+    ],
+    '6b22d78f-1ec5-5819-8971-97d8c70a9223' => [
+        'What I like about modelling is that it has given me that opportunity to travel and experience different cultures, work with creative people, and now it\'s given me a voice, and with that voice hopefully I can do good things with it.',
+        'Miranda Kerr',
+    ],
+    '6864cf1b-524b-5236-a011-4946d05ac675' => [
+        'Motivation is everything. You can do the work of two people, but you can\'t be two people. Instead, you have to inspire the next guy down the line and get him to inspire his people.',
         'Lee Iacocca',
     ],
-    'f18da2ba-533f-5af8-9aa4-4cbda6b6796b' => [
-        'The best books... are those that tell you what you know already.',
-        'George Orwell',
+    'f8c51205-3229-5572-b412-28e7d45587e8' => [
+        'Respect should be earned by actions, and not acquired by years.',
+        'Frank Wright',
     ],
-    '6256f6f2-c501-5bc5-a0b9-325a1e5659e5' => [
-        'Life is not a matter of holding good cards, but sometimes, playing a poor hand well.',
-        'Thomas Jefferson',
+    'e581ded4-a987-5a6e-a375-724abac25a61' => [
+        'There is a very remarkable inclination in human nature to bestow on external objects the same emotions which it observes in itself, and to find every where those ideas which are most present to it.',
+        'David Hume',
     ],
-    'c6cf2083-ceda-5244-9721-a53e331486fd' => [
-        'I\'ve experienced plenty of times when something I think is funny doesn\'t do very well. And there are times when something I don\'t think is funny makes the audience laugh so hard.',
-        'Carrot Top',
+    'de141c88-2252-5533-96f9-90f359dc9956' => [
+        'Christmas and the holidays are the season of giving. It\'s a time when people are more kind and open-hearted.',
+        'Gisele Bundchen',
     ],
-    'abb883fe-b1d2-523a-9db1-f7c8989e0acc' => [
-        'Positive defaults protect you from yourself - and that helps you to make decisions in the moment that are better for your long-term interests.',
-        'Tom Rath',
+    '78673739-3f5b-5d1e-a4d8-49a6691e8fb6' => [
+        'Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.',
+        'Ben Jonson',
     ],
-    '1263f471-ee72-52be-a2ae-03b9a5fd38fd' => [
-        'Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks.',
-        'Stephen Hawking',
+    'b4067f58-e2ad-53db-9a15-4f92242838ad' => [
+        'I always find beauty in things that are odd and imperfect - they are much more interesting.',
+        'Marc Jacobs',
     ],
-    '4b964bb0-7bcd-5842-a0ba-31a1915a013d' => [
-        'If you have no respect for your own values how can you be worthy of respect from others.',
-        'Byron Pulsifer',
+    '065109b7-2b4b-5c4b-9bc3-584b1b4b40f2' => [
+        'The best scientists and explorers have the attributes of kids! They ask question and have a sense of wonder. They have curiosity. \'Who, what, where, why, when, and how!\' They never stop asking questions, and I never stop asking questions, just like a five year old.',
+        'Sylvia Earle',
     ],
-    '0c234644-6fdb-50c6-8ee4-085a37351110' => [
-        'Through perseverance many people win success out of what seemed destined to be certain failure.',
-        'Benjamin Disraeli',
+    'bacbb5ef-354f-5eb1-a67c-4f3cfa037b19' => [
+        'Failure is success if we learn from it.',
+        'Malcolm Forbes',
     ],
-    'f01a790d-a030-5681-8ecd-968518318031' => [
-        'My life has been such a blur since I was 18, 19 years old. I haven\'t even had time to contemplate my own life. By forcing yourself to write your life story you learn a great deal about yourself.',
-        'Grant Achatz',
+    'ed742fd9-d764-5704-ae13-4cf33c2875c3' => [
+        'The social issues outside of football are not as defined as they were earlier, when integration took place and certain rights were legislated. The Civil Rights movement is over. Individuals can buy homes wherever they want, travel first class wherever they want, eat wherever they want.',
+        'Jim Brown',
+    ],
+    '7fe7deb2-825b-5e51-8d09-a8125d3229d9' => [
+        'What works for men does not always work for women, because success and likability are positively correlated for men and negatively correlated for women. That\'s what the research shows. As a man gets more successful, everyone is rooting for him. As a woman gets more successful, both men and women like her less.',
+        'Sheryl Sandberg',
+    ],
+    'fb70a0b1-3c0f-5390-b0ac-b66944e805c2' => [
+        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
+        'Ariana Grande',
+    ],
+    '650c403d-0d89-58b2-84f9-f7f1788b85da' => [
+        'That\'s one of the nice things. I mean, part of the beauty of me is that I\'m very rich. So if I need $600 million, I can put $600 million myself. That\'s a huge advantage. I must tell you, that\'s a huge advantage over the other candidates.',
+        'Donald Trump',
+    ],
+    '65e86b46-b9c4-5ba0-844c-0668ebf343b6' => [
+        'Who will tell whether one happy moment of love or the joy of breathing or walking on a bright morning and smelling the fresh air, is not worth all the suffering and effort which life implies.',
+        'Muhammad Iqbal',
     ],
 ];

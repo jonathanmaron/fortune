@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '657d202d-5f50-54a0-b7c3-8f3dd81965dd' => [
-        'I have several dogs and several cats who aren\'t really mine. In fact, they think that I am theirs. I\'d like to have some goats and chickens, but I travel around too much.',
-        'Eric Stoltz',
+    '3037bad9-e722-5877-b191-2080bf1df92c' => [
+        'Champions are not the ones who always win races - champions are the ones who get out there and try. And try harder the next time. And even harder the next time. \'Champion\' is a state of mind. They are devoted. They compete to best themselves as much if not more than they compete to best others. Champions are not just athletes.',
+        'Simon Sinek',
     ],
-    'f5e1259f-6f3f-55c4-8a91-9f1d3e24212b' => [
-        'You just never give up. You do a task to the best of your abilities and beyond.',
-        'Debbie Reynolds',
+    'de6ed285-82d1-58df-8826-0103d3acceb9' => [
+        'Chains of habit are too light to be felt until they are too heavy to be broken.',
+        'Warren Buffett',
     ],
-    'fc4c2ded-1cb5-5f50-b732-de13f3defb88' => [
-        'Books are challenging and inspirational to me.',
-        'Amy Sedaris',
+    'a2831ae7-52cf-5e47-ab3b-652508064342' => [
+        'Success comes in waves.',
+        'Guy Pearce',
     ],
-    'a50bc678-8d5f-5c14-97ca-ad8b0f251b7a' => [
-        'The present is a point just passed.',
-        'David Russell',
+    '551a15d1-1389-573c-b2dc-8f8dfc1a2473' => [
+        'All, all is theft, all is unceasing and rigorous competition in nature; the desire to make off with the substance of others is the foremost - the most legitimate - passion nature has bred into us and, without doubt, the most agreeable one.',
+        'Marquis de Sade',
     ],
-    '0563b399-480a-5d98-ab62-973062c41a7f' => [
-        'Nature is impersonal, awe-inspiring, elegant, eternal. It\'s geometrically perfect. It\'s tiny and gigantic. You can travel far to be in a beautiful natural setting, or you can observe it in your backyard - or, in my case, in the trees lining New York City sidewalks, or in the clouds above skyscrapers.',
-        'Gretchen Rubin',
+    'a5a9684e-bccd-5d0e-a91b-0e3b22d72a7c' => [
+        'The most important investment you can make is in yourself.',
+        'Warren Buffett',
     ],
-    '3fe8362b-9091-535e-abe2-97dcb05b455c' => [
-        'No one can possibly know what is about to happen: it is happening, each time, for the first time, for the only time.',
-        'James A. Baldwin',
+    '9ee16ac4-4ff0-5f88-8aca-4d0dc2f0bba8' => [
+        'To me, the word \'hero\' hasn\'t got positive or negative value - \'hero\' is the person who leads you through the story.',
+        'Pierfrancesco Favino',
     ],
-    '93220e66-6e36-5b65-8580-5376ad065261' => [
-        'A good teacher is like a candle, it consumes itself to light the way for others.',
+    '904b1788-8a09-5680-b0be-099073a51b0b' => [
+        'Be passionate. Be courageous. Be your best.',
+        'Gabrielle Giffords',
+    ],
+    '3d5a889e-4ec8-5f3f-af5c-2d5865de88b9' => [
+        'A good rest is half the work.',
         'Unknown',
     ],
-    'c74ee7b0-6ad4-5635-84e8-504955c316d1' => [
-        'Kind words do not cost much. Yet they accomplish much.',
-        'Blaise Pascal',
+    '8ab9cf65-a3fb-5d01-9af0-e4c10c9b7688' => [
+        'But you see, our society is still trapped in this binary, black/white logic and that has had some very positive implications for our generation. It\'s had some very negative ones as well and one of the negative ones is that it creates enormous identity problems for people who have one black ancestor and all white ancestors for example.',
+        'Henry Louis Gates',
     ],
-    'e0f5fed0-de5e-53d3-83f3-7e84fa27435d' => [
-        'Sports teaches you to understand the meaning of a team. You need to be able to work with everybody; you don\'t have to be their best friend. You can experience the fun of competition and driving toward a common goal without pushing to bond in some major way with each individual on a project.',
-        'Kathleen Kennedy',
+    'c8bfd3dc-5757-5791-99f7-3312b134298c' => [
+        'Even someone as photographed and aware of the camera as members of the royal family needs to feel completely comfortable if they are to look their best.',
+        'Mario Testino',
     ],
-    '424c063a-efaa-5805-b5fe-02bc622a8a76' => [
-        'Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.',
-        'Margaret Laurence',
+    'd5236b18-667b-52e7-9f9c-f5a8fb92be81' => [
+        'When I read things like the foundations of capitalism are shattering, I\'m like, maybe we need that. Maybe we need some time where we\'re walking around with a donkey with pots clanging on the sides.',
+        'Louis C. K.',
     ],
-    '7d86a0b2-5b50-5351-9e6e-14beeb93e6cf' => [
-        'And we can see the positive impacts right here at Solyndra. Less than a year ago, we were standing on what was an empty lot. But through the Recovery Act, this company received a loan to expand its operations. This new factory is the result of those loans.',
-        'Barack Obama',
+    'a934787c-51e8-5b77-8cdd-f0d9109b564a' => [
+        'To photograph truthfully and effectively is to see beneath the surfaces and record the qualities of nature and humanity which live or are latent in all things.',
+        'Ansel Adams',
     ],
-    '31b72b3d-ec62-5d18-8f46-1d9fa65aef6e' => [
-        'The stars, that nature hung in heaven, and filled their lamps with everlasting oil, give due light to the misled and lonely traveller.',
-        'John Milton',
+    'f20e64c3-5743-557e-bc47-5e30fd217965' => [
+        'Perhaps one of the only positive pieces of advice that I was ever given was that supplied by an old courtier who observed: Only two rules really count. Never miss an opportunity to relieve yourself; never miss a chance to sit down and rest your feet.',
+        'Edward VIII',
     ],
-    '342d0cb3-2ebf-5af8-94d4-f4175bce35e4' => [
-        'Everyone has a different beauty and different qualities and I think that women need to learn to love their qualities and be comfortable in the fact that everyone is different.',
+    '572b727f-f8a7-559b-a49f-59c23d2fab77' => [
+        'The beauty that addresses itself to the eyes is only the spell of the moment; the eye of the body is not always that of the soul.',
+        'George Sand',
+    ],
+    '9beee56f-9c18-5469-bbe8-60bcbf6e81f1' => [
+        'When leaders throughout an organization take an active, genuine interest in the people they manage, when they invest real time to understand employees at a fundamental level, they create a climate for greater morale, loyalty, and, yes, growth.',
+        'Patrick Lencioni',
+    ],
+    '85cef2e5-ffd6-57b1-808f-9c1437fd2fab' => [
+        'What I enjoy most is travelling to different places and meeting new people. For me, it\'s all about life experiences, and I\'m very grateful that acting allows me so many interesting and fulfilling ones.',
         'Miranda Kerr',
     ],
-    '6ef46138-5d70-50fd-842c-9ec25ad4af36' => [
-        'Not life, but good life, is to be chiefly valued.',
-        'Benjamin Franklin',
+    '519bd99f-83eb-5a54-b874-a74c7f637964' => [
+        'Life isn\'t black and white. It\'s a million gray areas, don\'t you find?',
+        'Kevyn Aucoin',
     ],
-    '05329fde-0b84-5b05-9e4c-34a58cd3b629' => [
-        'How can they say my life is not a success? Have I not for more than sixty years got enough to eat and escaped being eaten?',
-        'Logan Pearsall Smith',
+    '6d7f75ae-d83d-56e4-9c27-028e2690330c' => [
+        'Success follows those adept at preserving the substance of the past by clothing it in the forms of the future.',
+        'Dee Hock',
     ],
-    'ee4e891c-48f7-5f15-b4e0-73d76b246011' => [
-        'The road leading to a goal does not separate you from the destination; it is essentially a part of it.',
-        'Charles DeLint',
+    'f4d43b8c-5224-5906-af83-2b4e7a1a1d7c' => [
+        'Action films are great, but an action film that has characters that are compelling and a story that people can care about is something even better. We love to see action heroes that are vulnerable, that are sensitive, that are family people, that are accessible.',
+        'Steven Seagal',
     ],
-    '451be857-bb0e-51db-8379-15751f90debf' => [
-        'I sailboat raced, I love to go out on my motorcycle alone, but I also love my family dearly. I love that aspect of my life as well.',
-        'Bob Seger',
+    '7b1a070c-b5d3-52b4-9013-054a611db2cf' => [
+        'I have beauty, intelligence, individuality, sensuality and sexuality.',
+        'Shannon Tweed',
     ],
-    'b33e14e1-2021-5a37-98dc-36ee4716ad24' => [
-        'Beauty products always cheer me up and give me hope. If it makes you feel pretty, why not?',
-        'Salma Hayek',
+    '97183e4e-f609-55fe-9e3b-b9050508eb68' => [
+        'Men are like wine - some turn to vinegar, but the best improve with age.',
+        'Pope John XXIII',
     ],
-    'dbcfb54a-30e9-536a-af8e-652ed39eb177' => [
-        'I have this theory that, depending on your attitude, your life doesn\'t have to become this ridiculous charade that it seems so many people end up living.',
-        'Christian Bale',
+    'aeddc2b1-c199-581a-b018-45f4bdeec861' => [
+        'Success has a lot to do with luck, but it also involves a lot of real hard work. The thing about success is you really can\'t gauge things by album sales.',
+        'Jerry Cantrell',
     ],
-    'c4b06e0d-b66c-5ff3-bd7c-0b6d4dda2ba4' => [
-        'It is not light that we need, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake.',
-        'Frederick Douglass',
+    '19661a1e-5a84-51ed-9653-97284c11c935' => [
+        'The use of travelling is to regulate imagination by reality, and instead of thinking how things may be, to see them as they are.',
+        'Samuel Johnson',
     ],
-    '65c44151-8ddd-5057-9a2d-94868ea6311e' => [
-        'Take a method and try it. If it fails, admit it frankly, and try another. But by all means, try something.',
-        'Franklin D. Roosevelt',
+    'd8b8b488-329a-5e05-be60-0d2e5bdefecf' => [
+        'If I go to someplace like Switzerland, I find a lot of uptight people because they\'re living amongst so much beauty; there\'s no urgency in trying to find the beauty within themselves. If you\'re stuck in New York, you have to somehow look within yourself - otherwise, you\'d go crackers.',
+        'George Harrison',
     ],
-    '63ce11fc-6311-54c6-8552-f09e7d7578d7' => [
-        'The supreme quality for leadership is unquestionably integrity. Without it, no real success is possible, no matter whether it is on a section gang, a football field, in an army, or in an office.',
-        'Dwight D. Eisenhower',
+    '17d1b043-92a0-5acd-8b96-e061cc89fdbc' => [
+        'All great achievements require time.',
+        'Maya Angelou',
     ],
-    '3807c939-491e-5347-9eeb-21f19b648e34' => [
-        'When life is too easy for us, we must beware or we may not be ready to meet the blows which sooner or later come to everyone, rich or poor.',
-        'Peter Marshall',
+    '5a9a5063-23f9-55ed-9682-62dee3770b5b' => [
+        'All women have a perception much more developed than men. So all women somehow, being repressed for so many millennia, they ended up by developing this sixth sense and contemplation and love. And this is something that we have a hard time to accept as part of our society.',
+        'Paulo Coelho',
     ],
-    '4fd8c7fd-4ffe-5c81-9515-cbda0865af63' => [
-        'Good actions give strength to ourselves and inspire good actions in others.',
-        'Plato',
+    'a16e1aeb-5720-5748-aa70-1eed957399a6' => [
+        'The distance, being far away from your home, from your family, that\'s not easy. There are times when you say, \'Wow, what a fight, what a battle.\'',
+        'Rodrigo Santoro',
     ],
-    'f67f324d-80e6-5269-97eb-0edf96c23c27' => [
-        'Your own resolution to succeed is more important than any other.',
-        'Abraham Lincoln',
+    '559a68e4-4ceb-5c5a-a08b-e7bc89c720e6' => [
+        'If you don\'t find time to meditate and get all that negative out, and if you don\'t have the right people being positive around you, this is a very scary job to have if you don\'t learn how to control your fear.',
+        'Nate Diaz',
     ],
-    'ccaba061-e002-54da-bab5-5c2fb08df24e' => [
-        'For one human being to love another; that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation.',
-        'Rainer Maria Rilke',
+    'c29bc94d-a8f5-5ef8-a0ae-ad115a8b6f00' => [
+        'I don\'t think you should try to be anything you\'re not. If you\'re not smiling all the time or always happy - I don\'t think it matters. If you\'re having bad day, show you\'re having a bad day. Don\'t try to put up something that\'s fake.',
+        'Elle Fanning',
     ],
-    '1160a278-38a0-534b-87b7-98e95e9d7560' => [
-        'Believe it or not, I have about the same success rate as anyone else. Sometimes you hit, sometimes you miss.',
-        'Seth MacFarlane',
+    'ec112dc5-03b5-51c0-833e-25bad7636c2d' => [
+        'The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.',
+        'Pierre Abelard',
     ],
-    'd25b9ceb-e109-5150-88df-582d4a5f8ed9' => [
-        'Truth, and goodness, and beauty are but different faces of the same all.',
-        'Ralph Emerson',
+    '3a2be51b-6301-5afb-8630-34c2bcaf6cde' => [
+        'Success demands singleness of purpose.',
+        'Vince Lombardi',
     ],
-    'ef994808-0d4d-5a47-8929-e99a753d874a' => [
-        'Nature gives you the face you have at twenty; it is up to you to merit the face you have at fifty.',
-        'Coco Chanel',
+    '875db81f-7465-5c0d-bd92-011d9d8d81a8' => [
+        'The thoughts we choose to think are the tools we use to paint the canvas of our lives.',
+        'Louise Hay',
     ],
-    'e8794b1e-177b-5e0b-85e2-7721fc8a7a43' => [
-        'Beauty is eternity gazing at itself in a mirror.',
-        'Khalil Gibran',
+    '0453c69b-a861-52b3-ad72-4b7b54e5bf75' => [
+        'Family life is fragmenting in this modern age, but it\'s up to all of us to keep it together.',
+        'Mary Berry',
     ],
-    '48b38725-d357-5c79-a6d7-553dbcbec473' => [
-        'I guess, growing up at Australia Zoo and getting to travel all over the world, I have this great outlook on life, and that\'s what I hope I inspire other kids to have.',
-        'Bindi Irwin',
+    'cfd58efc-250c-5f6c-9f68-3f2d650c5517' => [
+        'The proper function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time.',
+        'Jack London',
     ],
-    '8ab053bc-457a-56c9-9d53-c68012b7d584' => [
-        'There\'s no escalators - there\'s only staircases to success. There is no substitute for hard work.',
-        'Lilly Singh',
+    '7db81968-5e44-5f57-8ee0-822223d36847' => [
+        'I think with my journey so far, it never felt like an overwhelming, overnight success story. I think that\'s good for me because I really got to take my time.',
+        'Tori Kelly',
     ],
-    '132e1fd1-62c2-500d-a589-e45730e91548' => [
-        'As in nature, all is ebb and tide, all is wave motion, so it seems that in all branches of industry, alternating currents - electric wave motion - will have the sway.',
-        'Nikola Tesla',
+    '60fba434-ff35-5b14-9ace-a8266c51a508' => [
+        'For me, true beauty has nothing to do with wrinkles and everything to do with the fact that my maternal grandmother raised five children just after the war and remained a fighter throughout her life. True beauty is the slick of red lipstick my paternal grandmother would put on before going to church on Sunday.',
+        'Monica Bellucci',
     ],
-    'b4fd7d3c-17e7-5c6f-be07-f996f5881147' => [
-        'A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.',
-        'Henry David Thoreau',
+    '4113f45b-0d88-5f58-af90-6b35d048d2fa' => [
+        'The true object of all human life is play. Earth is a task garden; heaven is a playground.',
+        'Thomas Hobbes',
     ],
-    'd5f606d6-f38f-5d88-beec-2fa78a878324' => [
-        'It is easy to make promises - it is hard work to keep them.',
-        'Boris Johnson',
+    '544fbf7b-3d7b-53f1-b73a-053ab40af23d' => [
+        'Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.',
+        'Blaise Pascal',
     ],
-    '71c5eca9-1a63-5043-9bed-b549e370317a' => [
-        '\'Green Garden\' is about beauty and joy and lush green and dance and excitement and smiling from within.',
-        'Laura Mvula',
+    'b0bf13b0-b4db-5248-8fbd-3085a463a813' => [
+        'I was born into a very religious family where everything was about setting the right example for the community and having to obey orders blindly. I felt that everyone was growing up in the world, except me. This is probably one of the reasons why I had such a rebellious attitude towards any form of authority.',
+        'Grace Jones',
     ],
-    'b51a1970-8eb3-5953-a75e-2cedaf1f8b1b' => [
-        'If life were predictable it would cease to be life, and be without flavor.',
-        'Jim Henson',
+    'ac0bee13-f77c-5835-bca1-7f8fe4ab1615' => [
+        'We were all born with a certain degree of power. The key to success is discovering this innate power and using it daily to deal with whatever challenges come our way.',
+        'Les Brown',
     ],
-    'db3a4c27-a24f-5944-96eb-d0fc3f9a5a38' => [
-        'We must go beyond textbooks, go out into the bypaths and untrodden depths of the wilderness and travel and explore and tell the world the glories of our journey.',
-        'John Hope Franklin',
+    '475109c8-3055-5fe7-895c-25c5741a85a7' => [
+        'Beauty is in the character of a person. It\'s about having an interesting face and about what\'s inside. Anyone can take a good picture.',
+        'Patrick Demarchelier',
     ],
-    '9f34bc6c-8718-5022-9b0d-2bb72ba9db97' => [
-        'We are constantly emphasizing to people that they need to address anything that affects flight safety or mission success - many pathways to do that. We need to understand better what may be preventing people from using those pathways.',
-        'Ellen Ochoa',
+    '84251281-032e-59e8-bea2-f582c7139abd' => [
+        'Nature holds the key to our aesthetic, intellectual, cognitive and even spiritual satisfaction.',
+        'E. O. Wilson',
     ],
-    '70023e2c-74e0-57bb-87fa-4439cedd1f5c' => [
-        'After all is said and done, sit down.',
-        'Bill Copeland',
+    '2c8dc9d3-9325-5d3b-aefd-2597d70012d9' => [
+        'Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.',
+        'Denis Waitley',
     ],
-    '658b0478-0758-5e15-9b34-0a64271b0b7a' => [
-        'Negative attitude is nine times more powerful than positive attitude.',
-        'Bikram Choudhury',
+    'b16d8ff2-299b-595e-9b39-c3b28a5ddbb1' => [
+        'Life well spent is long.',
+        'Voltaire',
     ],
-    'cef77d71-75a1-5b50-bc6e-e72450436442' => [
-        'You, yourself, as much as anybody in the entire universe, deserve your love and affection.',
-        'Buddha',
+    'f7f53882-da20-513b-9984-807b52d17904' => [
+        'A healthy attitude is contagious but don\'t wait to catch it from others. Be a carrier.',
+        'Tom Stoppard',
     ],
-    'b508e8d5-f368-5fb0-bfe3-2bd2dc57410b' => [
-        'All I really need to know... I learned in kindergarten.',
-        'Thomas Merton',
+    'ee93c1af-9670-5374-b310-1d99675763fd' => [
+        'Here you do have forests, where pigs could be raised by letting them root about in the forests for a good part of the year. Therefore, you have a different attitude toward them compared with what continues to exist in the Middle East.',
+        'Marvin Harris',
     ],
-    '37ca74d9-872b-527f-be5c-a1e3cce7d2f8' => [
-        'There\'s a darkness under \'The Hangover\' because ultimately there\'s a missing person and it\'s not really that funny. There\'s a sort of darkness under it that I love, and still people are laughing as hard if not harder than they did in \'Old School.\'',
-        'Todd Phillips',
+    'a8785bbe-9399-53b8-ab8c-2fd03a7348b8' => [
+        'I purposefully try to make films in that grey area, where things are morally ambiguous. It\'s like life: good people do horrible things, and bad people do good things, and there\'s beauty in horror and horror in beauty.',
+        'Harmony Korine',
     ],
-    'c2719516-54d1-5a82-bc61-1ea17773a72a' => [
-        'Success is finding satisfaction in giving a little more than you take.',
-        'Christopher Reeve',
+    '639ac2c9-92d3-5e79-b0d8-f99cdcfab35f' => [
+        'Extensive traveling induces a feeling of encapsulation, and travel, so broadening at first, contracts the mind.',
+        'Paul Theroux',
     ],
-    'd35f1180-01f8-53a1-a12c-6fe0596dcce7' => [
-        'No masterpiece was ever created by a lazy artist.',
-        'Unknown',
+    '43f587f1-91ec-51f4-8e92-5c9439cb9828' => [
+        'I will never forget experiencing Venice for the first time. It feels like you are transported to another time - the art, music, food and pure romance in the air is like no other place.',
+        'Elizabeth Berkley',
     ],
-    '2c4b62f0-0978-5167-8071-93dc22f074eb' => [
-        'The people who influence you are the people who believe in you.',
-        'Henry Drummond',
-    ],
-    'e581ded4-a987-5a6e-a375-724abac25a61' => [
-        'There is a very remarkable inclination in human nature to bestow on external objects the same emotions which it observes in itself, and to find every where those ideas which are most present to it.',
-        'David Hume',
-    ],
-    'dedcb587-54f0-5f9b-882d-15e6846cb761' => [
-        'You can\'t have a happy family if you don\'t have a happy marriage.',
-        'Jeremy Sisto',
-    ],
-    '1d018647-9448-5792-a998-9c7cc8ff84ea' => [
-        'I made myself a little angry before beam. That\'s the best way to do beam. It\'s important to fuel yourself with some devastating things, but I also realized that if I daydream about doing well and having this silver medal, it\'s more motivating than focusing on the negatives. So I learned to focus on the positive.',
-        'Aly Raisman',
+    '33a3a335-888c-51dd-bb98-9ecb0d3cc603' => [
+        'I learned that we can do anything, but we can\'t do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.',
+        'Dan Millman',
     ],
 ];

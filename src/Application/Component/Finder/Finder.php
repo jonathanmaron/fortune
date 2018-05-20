@@ -1,12 +1,14 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Finder;
 
 use Symfony\Component\Finder\Finder as ParentFinder;
 
 class Finder extends ParentFinder
 {
-    public function php($path)
+    public function php(string $path): self
     {
         $finder    = $this->files();
         $finder    = $finder->in($path);
@@ -15,7 +17,7 @@ class Finder extends ParentFinder
         return $fileInfos;
     }
 
-    public function json($path)
+    public function json(string $path): self
     {
         $finder    = $this->files();
         $finder    = $finder->in($path);

@@ -1,16 +1,18 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Fortune;
 
 use Application\Component\Finder\Finder;
 
 class Fortune
 {
-    private $fortunePath;
+    private $fortunePath = '';
 
-    private $indexPath;
+    private $indexPath   = '';
 
-    public function getAllFortunes()
+    public function getAllFortunes(): array
     {
         $ret = [];
 
@@ -22,21 +24,21 @@ class Fortune
         return $ret;
     }
 
-    public function getAllLengths()
+    public function getAllLengths(): array
     {
         $index = include $this->getIndexFilename('length');
 
         return array_keys($index);
     }
 
-    public function getAllAuthors()
+    public function getAllAuthors(): array
     {
         $index = include $this->getIndexFilename('author');
 
         return array_keys($index);
     }
 
-    public function getRandomFortune()
+    public function getRandomFortune(): array
     {
         $stack   = include $this->getRandomFilename();
         $randKey = array_rand($stack);
@@ -47,7 +49,7 @@ class Fortune
         ];
     }
 
-    public function getRandomShortFortune()
+    public function getRandomShortFortune(): array
     {
         $medianLength = $this->getMedianFortuneLength();
         $lengths      = array_keys($this->getAllLengths());
@@ -64,7 +66,7 @@ class Fortune
         return $this->getRandomFortuneByLength($randLength);
     }
 
-    public function getRandomLongFortune()
+    public function getRandomLongFortune(): array
     {
         $medianLength = $this->getMedianFortuneLength();
         $lengths      = array_keys($this->getAllLengths());
@@ -81,26 +83,26 @@ class Fortune
         return $this->getRandomFortuneByLength($randLength);
     }
 
-    private function getMedianFortuneLength()
+    private function getMedianFortuneLength(): int
     {
         $lengths = $this->getAllLengths();
         sort($lengths);
-        $ret = round(count($lengths) / 2);
+        $ret = (int) round(count($lengths) / 2);
 
         return $ret;
     }
 
-    public function getRandomFortuneByLength($length)
+    public function getRandomFortuneByLength($length): array
     {
         return $this->getRandomFortuneByKeyValue('length', $length);
     }
 
-    public function getRandomFortuneByAuthor($author)
+    public function getRandomFortuneByAuthor($author): array
     {
         return $this->getRandomFortuneByKeyValue('author', $author);
     }
 
-    private function getRandomFortuneByKeyValue($key, $value)
+    private function getRandomFortuneByKeyValue($key, $value): ?array
     {
         $index = include $this->getIndexFilename($key);
 
@@ -130,7 +132,7 @@ class Fortune
         return $fortuneArray;
     }
 
-    private function getRandomFilename()
+    private function getRandomFilename(): string
     {
         $finder = new Finder();
 
@@ -144,34 +146,34 @@ class Fortune
         return $stack[$randKey];
     }
 
-    public function getFilename($file)
+    public function getFilename($file): string
     {
         return sprintf('%s/%s', $this->getFortunePath(), $file);
     }
 
-    public function getIndexFilename($index)
+    public function getIndexFilename($index): string
     {
         return sprintf('%s/%s.php', $this->getIndexPath(), $index);
     }
 
-    public function getFortunePath()
+    public function getFortunePath(): string
     {
         return $this->fortunePath;
     }
 
-    public function setFortunePath($fortunePath)
+    public function setFortunePath($fortunePath): self
     {
         $this->fortunePath = $fortunePath;
 
         return $this;
     }
 
-    public function getIndexPath()
+    public function getIndexPath(): string
     {
         return $this->indexPath;
     }
 
-    public function setIndexPath($indexPath)
+    public function setIndexPath($indexPath): self
     {
         $this->indexPath = $indexPath;
 

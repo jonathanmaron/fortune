@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '1777dfc2-da7e-548a-8135-4a734beb0e35' => [
-        'My dear friend, clear your mind of cant.',
-        'Samuel Johnson',
+    '4167c58e-7382-5599-8af3-d8d4642a8f4e' => [
+        'More often than not, anger is actually an indication of weakness rather than of strength.',
+        'Dalai Lama',
     ],
-    '15e8ce8d-5002-51a5-b738-f32adee76b7a' => [
-        'The best weapon of a dictatorship is secrecy, but the best weapon of a democracy should be the weapon of openness.',
-        'Niels Bohr',
+    'c736b919-c1ed-57f1-8e6c-bca2faebf3d2' => [
+        'We\'ve stayed really normal and down to Earth I think, and haven\'t let the success thing go to our head.',
+        'Ashley Olsen',
     ],
-    '9c8bd5be-a0f7-555b-99f6-1c123fecab9c' => [
-        'I\'m not funny in person. I mean I\'m really not. I\'m one of those people who always screw up anecdotes.',
-        'Bill Bryson',
+    '3fc2fe1f-8dea-582e-a422-2c19fc056624' => [
+        'Restless, and in desperate need of adventure, I quit my job at an insurance company to travel west with a couple of guys I smoked pot with, scandalizing my family.',
+        'Mink Stole',
     ],
-    'fd998ba0-3396-50d0-8e03-7986a6a2f087' => [
-        'For years, I had a top secret clearance and never left Russia. Just once did I go to Bulgaria with my wife for a holiday at the Golden Sands resort, but I could not mention my real name. I was allowed to travel abroad only in the early 1990s.',
-        'Mikhail Kalashnikov',
+    '7a52557a-15a7-5e88-9941-a4e807e4307d' => [
+        'I believe the world is one big family, and we need to help each other.',
+        'Jet Li',
     ],
-    '5f384a44-a7ff-5a5e-b261-f7e59f4ebee2' => [
-        'A thing long expected takes the form of the unexpected when at last it comes.',
-        'Mark Twain',
+    '0a166035-0a85-54ab-a437-9f1a592e0c45' => [
+        'I\'m at my best in a messy, middle-of-the-road muddle.',
+        'Harold Wilson',
     ],
-    '8711ab07-7ae0-54b1-b3b1-e285967b57a6' => [
-        'Problems are only opportunities with thorns on them.',
-        'Hugh Miller',
+    '3b4da0ac-d0c5-5733-a3cd-17ef7504608b' => [
+        'We are all born mad. Some remain so.',
+        'Samuel Beckett',
     ],
-    '11f601cb-2c6e-5a60-a558-31dd7e20c356' => [
-        'The superior man is satisfied and composed; the mean man is always full of distress.',
-        'Confucius',
+    'a7e528dc-fd08-5f68-b086-90107350450f' => [
+        'It seems like every time you come up something happens to bring you back down.',
+        'Tupac Shakur',
     ],
-    'ec5b17b7-df32-57f3-bc81-b8f6f4e0fce7' => [
-        'Well, I took a sabbatical. I walked away from shooting movies because I couldn\'t handle the travel. I\'m a single parent. I had young kids, and I found that keeping in touch with them from hotel rooms and airports wasn\'t working for me. So I stopped.',
-        'Rick Moranis',
+    '37d7ba22-e8ab-5412-b275-b3d729d0b7e3' => [
+        'If you carefully consider what you want to be said of you in the funeral experience, you will find your definition of success.',
+        'Stephen Covey',
     ],
-    'f021cc67-bc06-50c0-a684-d9b5532ae914' => [
-        'I don\'t believe in failure. It is not failure if you enjoyed the process.',
-        'Oprah Winfrey',
+    '6c589303-b758-5def-bff8-76f254ba8a09' => [
+        'Memories are the best things in life, I think.',
+        'James Rollins',
     ],
-    '5a36449e-6a2d-596d-9a00-cd33b501f38b' => [
-        'Don\'t confuse fame with success. Madonna is one; Helen Keller is the other.',
-        'Erma Bombeck',
+    '9b6881c5-abdb-5139-ab19-c9e5d85a958c' => [
+        'Barack Obama likes to point to General Motors as the poster child for the job creation success of his economic policies. However, whatever your sentiments about the government\'s bailout of General Motors, for every job Barack Obama \'saved-or-created\' in the U.S. there were two jobs off shore.',
+        'Bob Beauprez',
     ],
-    'fd44db77-5188-5dc2-82eb-e25f3a4906c0' => [
-        'Communication is a skill that you can learn. It\'s like riding a bicycle or typing. If you\'re willing to work at it, you can rapidly improve the quality of evry part of your life.',
-        'Brian Tracy',
+    '9612dfc7-eddb-51fa-b892-d657848e012a' => [
+        'I keep guitars that are, you know, the neck\'s a little bit bent and it\'s a little bit out of tune. I want to work and battle it and conquer it and make it express whatever attitude I have at that moment. I want it to be a struggle.',
+        'Jack White',
     ],
-    '1a73e2f7-5eac-5583-b4b9-cc8d72290901' => [
-        'Do the best that you can in the place where you are, and be kind.',
-        'Scott Nearing',
+    'b3747ff7-a389-5005-ae0c-a76db6ec9ab3' => [
+        'It\'s much more powerful and compelling to create a positive vision than it is to tear somebody down.',
+        'Mark McKinnon',
     ],
-    '5c9fa59e-78e7-5ef6-bf29-9ce458ab1624' => [
-        'The Chinese people have only family and clan groups; there is no national spirit. Consequently, in spite of four hundred million people gathered together in one China, we are, in fact, but a sheet of loose sand.',
-        'Sun Yat-sen',
+    'e21e3731-f4f5-5280-b439-6f67ae305154' => [
+        'Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.',
+        'Buddha',
     ],
-    '2e4a07b7-4008-5229-8224-4f9b93e7f2b9' => [
-        'Modern art, in particular, seems especially vulnerable to fraud. Its abstractions are sometimes difficult to understand or grasp, and a modern painting is often loved less because of its intrinsic quality - its beauty, as conventionally understood - than because of the identity of the painter, its mark of social status.',
-        'Peter Landesman',
+    '0dd2a813-1ff1-5a08-8a9a-6141daa1bb34' => [
+        'It\'s the right idea, but not the right time.',
+        'John Dalton',
     ],
-    '6c002904-5994-5ab8-829e-e6418d078e0a' => [
-        'To be wholly devoted to some intellectual exercise is to have succeeded in life.',
-        'Robert Louis Stevenson',
+    'f2477cab-8bde-5a12-ada0-418215ded7e6' => [
+        'We know what we are, but know not what we may be.',
+        'William Shakespeare',
     ],
-    '79a7af6c-97e8-592c-8f90-60ecd8305377' => [
-        'I can\'t change the direction of the wind, but I can adjust my sails to always reach my destination.',
-        'Jimmy Dean',
+    '72c633c1-d984-573b-be27-c328feaec957' => [
+        'All women deserve a dignified and respectful workplace in which talent, hard work and loyalty are recognized, revered, and rewarded.',
+        'Gretchen Carlson',
     ],
-    'e639a35f-08ef-5846-8d9a-f24e2e877c67' => [
-        'You can\'t depend on your eyes when your imagination is out of focus',
-        'Mark Twain',
+    'dbfde7da-907d-5fbe-8f1e-97a3cf3bcd68' => [
+        'Race hate isn\'t human nature; race hate is the abandonment of human nature.',
+        'Orson Welles',
     ],
-    '5ebd8a1c-4be5-5d2b-aca5-7090293d4bfe' => [
-        'Nature does not hurry, yet everything is accomplished.',
+    '451be857-bb0e-51db-8379-15751f90debf' => [
+        'I sailboat raced, I love to go out on my motorcycle alone, but I also love my family dearly. I love that aspect of my life as well.',
+        'Bob Seger',
+    ],
+    'd66cf381-0eab-5dea-b907-b7956d47c6e3' => [
+        'Success is measured by your discipline and inner peace.',
+        'Mike Ditka',
+    ],
+    '04404072-a813-50fd-b3ae-b103072700f5' => [
+        'Being funny is one of my greatest strengths. I can make girls smile when they\'re down, and when they\'re having a good time, I can carry on the joke.',
+        'John Krasinski',
+    ],
+    '85ea9f49-429d-51b9-90d5-89cf23a97c97' => [
+        'I don\'t want to take the escalators. Give me the stairs that have the dips and the two old ladies that are blocking it and they\'ve got an attitude, and they don\'t want you to go past them.',
+        'RJ Cyler',
+    ],
+    '86ede562-b970-528e-825d-cfa7e665f742' => [
+        'It\'s not the situation, but whether we react negative or respond positive to the situation that is important.',
+        'Zig Ziglar',
+    ],
+    '0cb4e3d5-6fbf-552b-8b43-a7730a12e479' => [
+        'The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants.',
+        'Thomas Jefferson',
+    ],
+    'e40179d4-698f-5a38-9a65-25b7fb810bde' => [
+        'The time you feel lonely is the time you most need to be by yourself.',
+        'Douglas Coupland',
+    ],
+    'fc82c27d-61f5-5d04-b7bb-ae1c076beb80' => [
+        'I\'m lucky to be part of a team who help to make me look good, and they deserve as much of the credit for my success as I do for the hard work we have all put in on the training ground.',
+        'Lionel Messi',
+    ],
+    '3b7199b9-7044-5a9b-bfb6-d48b370016c8' => [
+        'If people sat outside and looked at the stars each night, I\'ll bet they\'d live a lot differently.',
+        'Bill Watterson',
+    ],
+    '745c57a6-785c-5a0b-a6c1-eca4d620a090' => [
+        'I\'m not funny. What I am is brave.',
+        'Lucille Ball',
+    ],
+    '04f8ce40-fe96-5b0e-8ed9-019739fd9779' => [
+        'Success is not assured, but America is resolute: this is the best chance for peace we are likely to see for some years to come - and we are acting to help Israelis and Palestinians seize this chance.',
+        'Condoleezza Rice',
+    ],
+    '4c254dc1-a49a-525c-a7e9-910dcf350fcf' => [
+        'I wanted to make an Indian character who wasn\'t either a) the savage that must be eliminated, the force of nature that\'s blocking the way for industrial progress, or b) the noble innocent that knows all and is another cliche. I wanted him to be a complicated human being.',
+        'Jim Jarmusch',
+    ],
+    '5371bc75-5faf-53b1-8dc5-7603c905d668' => [
+        'The historical basis for the gap between the black middle class and underclass shows that ending discrimination, by itself, would not eradicate black poverty and dysfunction. We also need intervention to promulgate a middle-class ethic of success among the poor, while expanding opportunities for economic betterment.',
+        'Henry Louis Gates',
+    ],
+    '6467e11d-b8c2-5987-93b0-6ccb2c54ad35' => [
+        'Together with a culture of work, there must be a culture of leisure as gratification. To put it another way: people who work must take the time to relax, to be with their families, to enjoy themselves, read, listen to music, play a sport.',
+        'Pope Francis',
+    ],
+    '2e779518-0265-57b8-b524-644abf70bfcd' => [
+        'Lend your ears to music, open your eyes to painting, and... stop thinking! Just ask yourself whether the work has enabled you to \'walk about\' into a hitherto unknown world. If the answer is yes, what more do you want?',
+        'Wassily Kandinsky',
+    ],
+    'c9f66307-86ac-5f46-a676-b118a11bf37c' => [
+        'The books that help you most are those which make you think that most. The hardest way of learning is that of easy reading; but a great book that comes from a great thinker is a ship of thought, deep freighted with truth and beauty.',
+        'Pablo Neruda',
+    ],
+    'c7335f2d-0b4d-5dad-bdf7-72a6e82ac33c' => [
+        'Yes, we do defend our office as we do defend our homes. This is a constitutional right everybody has, and nothing\'s funny about that. The only reason they get mad at the Black Panther Party when you do it is for the simple reason that we\'re political.',
+        'Fred Hampton',
+    ],
+    'fca63353-750f-5b90-8bfa-8a4f05204f59' => [
+        'Through the years you, the Delaware State family and your predecessors, have faced many challenges. You worked through them with fierce determination and good will, and you have made great progress.',
+        'Michael N. Castle',
+    ],
+    '75e3cb77-706e-591b-8d53-d59e777f972f' => [
+        'All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.',
+        'Immanuel Kant',
+    ],
+    '8560e440-f33a-50ee-9a38-ed02ae43f86a' => [
+        'I only travel to good material, a good director and a good company. I won\'t work in another country for a year any longer, because I have a lovely wife and I adore her and I can\'t bear to be away from her.',
+        'Jim Dale',
+    ],
+    'a6286608-aacc-5932-9777-a1ac11eeac79' => [
+        'No snowflake in an avalanche ever feels responsible.',
+        'Voltaire',
+    ],
+    '45c4650a-5085-57c5-929b-6d580d61c287' => [
+        'Miracles come in moments. Be ready and willing.',
+        'Wayne Dyer',
+    ],
+    '1361e7ac-78f5-5b00-be30-faf2cbf58abf' => [
+        'I\'ve been fired five times for having a bad attitude.',
+        'Meg Rosoff',
+    ],
+    'de800744-8437-5aa0-8648-21e1b5197717' => [
+        'The best time for you to hold your tongue is the time you feel you must say something or bust.',
+        'Josh Billings',
+    ],
+    '127631b9-0fb8-5679-a280-137b2f0ce15b' => [
+        'Desire is the key to motivation, but it\'s determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
+        'Mario Andretti',
+    ],
+    'edd1faeb-ad81-5bdf-90a3-9ebcfaaed300' => [
+        'Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend. Non-being is the greatest joy.',
         'Lao Tzu',
     ],
-    '43f70442-e216-5b41-9347-9c229156e357' => [
-        'Women were freed from positive duties when they could not perform them, but not when they could.',
-        'Henrietta Szold',
+    'f405dfb7-48eb-57a5-960b-b6305d4781c8' => [
+        'My one regret in life is that I am not someone else.',
+        'Woody Allen',
     ],
-    '6f5a3299-0fae-57e0-8454-bd548cb20716' => [
-        'Honesty is the best policy.',
-        'Benjamin Franklin',
+    '5bbfe7b9-b75d-54dc-b12e-63ea360f26f1' => [
+        'The only time I ever enjoyed ironing was the day I accidentally got gin in the steam iron.',
+        'Phyllis Diller',
     ],
-    '46a1eab0-1c4a-5b5d-9003-95c0be4ed668' => [
-        'If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.',
-        'Thich Nhat Hanh',
+    '06299cf0-06f2-5b55-8ebc-805937cff6e2' => [
+        'The family is the test of freedom; because the family is the only thing that the free man makes for himself and by himself.',
+        'Gilbert K. Chesterton',
     ],
-    'ce4bde43-5b6f-5cc3-85ef-c798f430c091' => [
-        'To so enter into it in nature and art that the enjoyed meanings of life may become a part of living is the attitude of aesthetic appreciation.',
-        'George Herbert Mead',
+    'd7e8b7bc-b2d9-549f-b15c-c0c9f4971312' => [
+        'I like it best when two ideas collide, like when you have a crazed attitude towards women combined with a crazed attitude towards the Vietnamese. I like that. Even if it\'s not true, I don\'t care whether it\'s true or false. I just do it.',
+        'Peter Saul',
     ],
-    'c55cb524-58c0-5ff0-9067-ade1ad5f9189' => [
-        'If you tell the truth about how you\'re feeling, it becomes funny.',
-        'Larry David',
+    '886d36fd-ef0a-59b2-87ca-ef12dcc113e6' => [
+        'Any authentic work of art must start an argument between the artist and his audience.',
+        'Rebecca West',
     ],
-    '32b23d58-1190-55eb-8f54-e6c1d70a127b' => [
-        'I also had a mistaken attitude towards certain comrades.',
-        'Bela Kun',
+    '205ba3de-786f-54be-9143-3444d3852ed3' => [
+        'The social object of skilled investment should be to defeat the dark forces of time and ignorance which envelope our future.',
+        'John Maynard Keynes',
     ],
-    '90919870-c3aa-5785-a25a-00344c8f960d' => [
-        'On receiving from the people the sacred trust twice confided on my illustrious predecessor, and which he has discharged so faithfully and so well, I know that I can not expect to perform the arduous task with equal ability and success.',
-        'Martin Van Buren',
-    ],
-    '49d6e6f4-7ae3-5b69-aa3c-2f29c1b6fe89' => [
-        'Good leadership consists of showing average people how to do the work of superior people.',
-        'John D. Rockefeller',
-    ],
-    '6e26e2a0-d096-5b40-9da1-24a5bdbdd1a6' => [
-        'It was one of those perfect English autumnal days which occur more frequently in memory than in life.',
-        'P. D. James',
-    ],
-    '3d8cf790-7873-567d-9e4d-d0fb92acb3f8' => [
-        'You don\'t look out there for God, something in the sky, you look in you.',
-        'Alan Watts',
-    ],
-    '7ed121bf-360c-5b9e-8edf-1f1922c3c8d3' => [
-        'My mum is great for keeping hold of old classics - pieces of clothing that never age and never go out of fashion. She also says, \'Make sure you always smile - it makes everything look better!\'',
-        'Amber Le Bon',
-    ],
-    'e143959e-0dfe-555b-af2d-9b60a8d09a48' => [
-        'Nobody needs a smile so much as the one who has none to give. So get used to smiling heart-warming smiles, and you will spread sunshine in a sometimes dreary world.',
-        'Lawrence G. Lovasik',
-    ],
-    'eecdfefa-a388-5e96-9fe8-e7cb1bbd9963' => [
-        'I have met so many people who are negative, and it tells on their attitude towards life and towards everything.',
-        'Phaneesh Murthy',
-    ],
-    'ba3d2aaf-0142-5d6e-aa21-c25b6cfa59da' => [
-        'I don\'t like people who have never fallen or stumbled. Their virtue is lifeless and it isn\'t of much value. Life hasn\'t revealed its beauty to them.',
-        'Boris Pasternak',
-    ],
-    'c6187c2f-5d87-54b5-9473-e1b9341d64a3' => [
-        'There are positive things that come of social media as well as negative.',
-        'Millie Bobby Brown',
-    ],
-    '65501762-8e95-5b5f-921b-175455ff1613' => [
-        'The more you praise and celebrate your life, the more there is in life to celebrate.',
-        'Dan Millman',
-    ],
-    'c5e156d9-e00d-527d-9dbf-cca04a3dd67f' => [
-        'I don\'t want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well.',
-        'Diane Ackerman',
-    ],
-    '4f6b6c6f-7785-559d-8be4-ddf0361120aa' => [
-        'Win or lose, I always like to get back to my friends and family. They keep me grounded. When I\'m home with my friends, I\'m always the same Gabriel. I\'m no better or worse in their eyes because of my results. It\'s good to be with your true friends. It always reminds me of where I\'m from and who I am.',
-        'Gabriel Medina',
-    ],
-    '2d20cccc-ffc0-585b-8242-8c6a83083fb2' => [
-        'Doing the best at this moment puts you in the best place for the next moment.',
-        'Oprah Winfrey',
-    ],
-    '529f5d11-9b39-5b29-b9c8-eadeb79d351c' => [
-        'Until you walk a mile in another man\'s moccasins you can\'t imagine the smell.',
-        'Robert Byrne',
-    ],
-    '06e7e8ca-94ca-59f8-bb01-cbc2d18be5f1' => [
-        'It is clear I was never the Pretty Girl. I had my two front teeth knocked out when I was 10 and didn\'t fix them until I was 19. I have a crooked smile and a nose that looks like it\'s been broken 12 times but never has been. My nose was always red, so people called me Rudolph. My whole face is off-center.',
-        'Ellen Barkin',
-    ],
-    'c434d0b9-2773-5a54-9e16-3048db04129f' => [
-        'Good things come to people who wait, but better things come to those who go out and get them.',
-        'Unknown',
-    ],
-    'e065313a-a199-519d-ad50-dd75f47b9325' => [
-        'Now we have black and white elected officials working together. Today, we have gone beyond just passing laws. Now we have to create a sense that we are one community, one family. Really, we are the American family.',
-        'John Lewis',
-    ],
-    '6260649f-4cf6-50d3-9e19-266aa53cae2a' => [
-        'Connecting with people, getting things done - that\'s what makes the travel worthwhile.',
-        'Tim Finchem',
-    ],
-    '9765d0e9-ecdb-5dd0-b857-3912aa831a06' => [
-        'Both my best and my worst habit is that I\'m very impulsive.',
-        'Tove Lo',
-    ],
-    '5b44f2db-adb7-5a70-b708-b11c3be401fb' => [
-        'You cannot have maternal health without reproductive health. And reproductive health includes contraception and family planning and access to legal, safe abortion.',
-        'Hillary Clinton',
-    ],
-    '489011ff-f98f-529b-b311-4784b264db5f' => [
-        'The townspeople outside the reservations had a very superior attitude toward Indians, which was kind of funny, because they weren\'t very wealthy; they were on the fringes of society themselves.',
-        'James Welch',
-    ],
-    '6a4522b0-aa76-55e8-baed-0b8ee3ec384e' => [
-        'Our passion is our strength.',
-        'Billie Armstrong',
-    ],
-    '128c617e-deb5-5a53-ba1d-df71f5f3b244' => [
-        'I think it\'s important to have closure in any relationship that ends - from a romantic relationship to a friendship. You should always have a sense of clarity at the end and know why it began and why it ended. You need that in your life to move cleanly into your next phase.',
-        'Marie Curie',
-    ],
-    '07ae9c7c-7e4b-51c0-b267-55c5446dffd3' => [
-        'Solitude is very different from a \'time-out\' from our busy lives. Solitude is the very ground from which community grows. Whenever we pray alone, study, read, write, or simply spend quiet time away from the places where we interact with each other directly, we are potentially opened for a deeper intimacy with each other.',
-        'Henri Nouwen',
-    ],
-    '512776fa-2b96-58be-92d7-5957ca4ad822' => [
-        'Time will pass and seasons will come and go.',
-        'Roy Bean',
-    ],
-    '83f61237-6d3b-5dc0-9f69-8602aa8abd7d' => [
-        'To be ready to fail is to be prepared for success.',
-        'Jose Bergamin',
+    '8650258c-2b7e-558c-910b-1985517c5d4f' => [
+        'Each day provides its own gifts.',
+        'Marcus Aurelius',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '0289b1ca-7933-5395-b2f6-f6eb041528f2' => [
-        'I\'m so glad cities have personalities, just like people have personalities. That\'s something that makes me smile.',
-        'Fred Armisen',
+    '2916827c-8b34-566d-8bf2-ea0d0acf0374' => [
+        'I love community, I love to be around other people. I love to be around other people when everyone\'s feeling good and doing their best. Not to just be the only one in the room that\'s shining.',
+        'Ava DuVernay',
     ],
-    'abd36d67-70e7-56b5-8091-a3f37ecd74e9' => [
-        'There are many positive things to say about the black community. No question about it.',
-        'William Julius Wilson',
+    'd435314a-87c3-541e-a189-710c96308394' => [
+        'Climate change is destroying our path to sustainability. Ours is a world of looming challenges and increasingly limited resources. Sustainable development offers the best chance to adjust our course.',
+        'Ban Ki-moon',
     ],
-    '45869bb7-fc4d-55dc-80ac-05bb40edad9a' => [
-        'Thus they have an idol that they petition for victory in war; another for success in their labors; and so for everything in which they seek or desire prosperity, they have their idols, which they honor and serve.',
-        'Hernan Cortes',
+    '574065de-ca02-53d7-bb04-51956e63849c' => [
+        'Every second, every day, every year, we fail to address demand for reproductive health and family planning services. Lives are lost, and girls\' opportunities to thrive and contribute to their country\'s development shrink. These are real people.',
+        'Jenny Shipley',
     ],
-    '91b620f2-7541-5ef3-b750-fd42183cdb03' => [
-        'Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.',
-        'Byron Pulsifer',
+    'd73981e2-6bb2-5b2e-a603-f9b37dbd62af' => [
+        'Reproach is shame, blame, disgrace, disapproval and a disrespectful attitude toward yourself. When you\'re under reproach, your behavior shows it.',
+        'Joyce Meyer',
     ],
-    'b3826d7f-4ed2-5719-aed3-3cb05784fa77' => [
-        'The best doctor is the one you run to and can\'t find.',
-        'Denis Diderot',
+    '6e59153d-5470-5803-a1b6-56d1a62bc568' => [
+        'Focus on being balanced - success is balance.',
+        'Laila Ali',
     ],
-    'b841b69b-67d9-5697-8bc1-cf5fc4045b51' => [
-        'First, I was so dazzled and besotted by India. People said the poverty was biblical, and I\'m afraid that was my attitude, too. It\'s terribly easy to get used to someone else\'s poverty if you\'re living a middle-class life in it. But after a while, I saw it wasn\'t possible to accept it, and I also didn\'t want to.',
-        'Ruth Prawer Jhabvala',
+    'b825c834-29ce-5052-a130-002da3258aa8' => [
+        'Soul travel can be a general expansion of awareness and knowingness or conscious experience of the heavenly worlds.',
+        'Bob Hayes',
     ],
-    '8527491c-5abe-5770-b915-b4c7e16f88e3' => [
-        'I think everybody has their own way of looking at their lives as some kind of pilgrimage. Some people will see their role as a pilgrim in terms of setting up a fine family, or establishing a business inheritance. Everyone\'s got their own definition. Mine, I suppose, is to know myself.',
-        'Eric Clapton',
+    '901a910c-7c2c-537e-ad51-485f76f2fd4e' => [
+        'Consider a tree for a moment. As beautiful as trees are to look at, we don\'t see what goes on underground - as they grow roots. Trees must develop deep roots in order to grow strong and produce their beauty. But we don\'t see the roots. We just see and enjoy the beauty. In much the same way, what goes on inside of us is like the roots of a tree.',
+        'Joyce Meyer',
     ],
-    'eb0d25fa-e775-5eed-99e3-5557fdddcb93' => [
-        'When I started out, everyone seemed to be adopting these names... Johnny Rotten, Sid Vicious. I wasn\'t really Rotten or Vicious or Nasty, so I wanted something a bit more funny - yet something that seemed real rock \'n\' roll... something that acknowledged my ambition.',
-        'Billy Idol',
+    'ebd031a0-af31-5684-b61f-76fadf56aeaa' => [
+        'I think I will be able to, in the end, rise above the clouds and climb the stairs to Heaven, and I will look down on my beautiful life.',
+        'Paul Pierce',
     ],
-    '3e3a90d5-f6d0-5c37-a023-b51d90e813df' => [
-        'Human Nature is the only science of man; and yet has been hitherto the most neglected.',
-        'David Hume',
+    '598b30ed-5140-5aac-8b6b-e1919a640f65' => [
+        'Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.',
+        'Emilia Fox',
     ],
-    '1c3ea9d1-17bc-5a42-a891-95651bcbcec9' => [
-        'Y\'know, smile, dance, get crazy... we sure do while we\'re making it, because music is our leeezshure; it\'s my fun.',
-        'Bernard Edwards',
+    'acf11a44-8223-5da6-b4e8-fe9d497a236e' => [
+        'Pastry is different from cooking because you have to consider the chemistry, beauty and flavor. It\'s not just sugar and eggs thrown together. I tell my pastry chefs to be in tune for all of this. You have to be challenged by using secret or unusual ingredients.',
+        'Ron Ben-Israel',
     ],
-    '7fe7deb2-825b-5e51-8d09-a8125d3229d9' => [
-        'What works for men does not always work for women, because success and likability are positively correlated for men and negatively correlated for women. That\'s what the research shows. As a man gets more successful, everyone is rooting for him. As a woman gets more successful, both men and women like her less.',
-        'Sheryl Sandberg',
+    'd51daa51-5c5b-5036-9e94-734bb2b963ef' => [
+        'I went to a restaurant that serves \'breakfast at any time\'. So I ordered French Toast during the Renaissance.',
+        'Steven Wright',
     ],
-    'e6289958-67e1-5ed1-978b-8c1ea8dfd5e8' => [
-        'Don\'t send funny greeting cards on birthdays or at Christmas. Save them for funerals, when their cheery effect is needed.',
-        'P. J. O\'Rourke',
+    'afee608a-07f2-5050-b530-47c8000dd907' => [
+        'Any relationship should have love, and if there is no love, it is better to call off a relationship. People say that love happens only once, but I don\'t believe in it because for me, if one relationship doesn\'t work, you should move on and seek love in another relationship. Who knows; you might find love in the second relationship.',
+        'Bipasha Basu',
     ],
-    '2660c7db-5112-58a4-b310-d8cc9d3236e9' => [
-        'My father\'s best friend, Georgie Terra, was an Italian guy. The children and the cousins and nieces and nephews were children of the Mafia. Those were the children he grew up with. If you want to go to a safe neighborhood, go to where the Mafia is.',
-        'Louis Gossett, Jr.',
+    '013ef8a2-82f9-57cd-86c1-f1d1c191bfa4' => [
+        'The power of women in the politics is a soft power. It is a positive change that our country and other countries in the region... are making by giving a chance to women.',
+        'Atifete Jahjaga',
     ],
-    'ee4db323-0192-5158-8566-ebfd0623ac23' => [
-        'My father\'s music gives hope to people and also inspires them to break the bonds of injustice and to be positive in life. I\'ve seen that everywhere I go, especially in poor countries and poor neighborhoods.',
-        'Ziggy Marley',
+    '62353cb3-1148-59cd-bea4-f8bb0843db4b' => [
+        'This is my journey. If I fall, I have to pick myself up. If I\'m not getting the playing time I want, it\'s up to me to figure out why.',
+        'Carli Lloyd',
     ],
-    '87bb6972-1204-526e-bddf-b09a59d615e4' => [
-        'There\'s no reason to hold yourself back and say you can\'t do something in life unless you go for it and try to do it.',
-        'Laura Esquivel',
+    'ed9305e3-f96c-5907-8aa8-7d17c8a8a977' => [
+        'During their service, men and women in our Armed Forces live by a common creed, promising never to leave a soldier behind. We should live by the same principle. When our veterans are asked to travel hundreds of miles for care that\'s offered right next door, we simply aren\'t living up to that standard, and something has to change.',
+        'John Delaney',
     ],
-    '0e907d6c-4361-5560-be38-3f8ae117a00c' => [
-        'If all difficulties were known at the outset of a long journey, most of us would never start out at all.',
-        'Dan Rather',
+    '2f062d8f-9aeb-530c-b3cd-2786c55e6625' => [
+        'Truth isn\'t always beauty, but the hunger for it is.',
+        'Nadine Gordimer',
     ],
-    'e2a91d1f-8455-5c6e-9ae7-b40224d9804c' => [
-        'Failure is not our only punishment for laziness; there is also the success of others.',
-        'Jules Renard',
+    '98082b82-555c-5977-b78f-0b5ef17492b4' => [
+        'People think you\'re crazy if you talk about things they don\'t understand.',
+        'Elvis Presley',
     ],
-    '5198da6b-2050-5b64-92fa-b8cf13621034' => [
-        'I\'m not going to get somewhere and say, \'OK, I\'m done.\' Success is never final; I\'ll just keep on going. The same way as failure never being fatal. Just keep going. I\'m going to the stars and then past them.',
-        'Conor McGregor',
+    '4cb3e27c-d89e-5332-a109-68e6c39890f6' => [
+        'Everything you are against weakens you. Everything you are for empowers you.',
+        'Wayne Dyer',
     ],
-    '470c00c7-37e3-5b5d-a15d-aa4444458c8a' => [
-        'I\'m very fond of the British cinema. I\'m a big fan of Martin Campbell and Daniel Craig. I actually find Daniel very inspirational, especially on the physical side of things. He really inspired me to get back into shape when I started to add on a few pounds. I think he\'s a great role model.',
-        'Steven Bauer',
+    'c591ae5b-0df5-5d64-862e-28b98bf02002' => [
+        'You win a race, the next race it\'s a question mark. Are you still the best or not? That\'s what is funny. But that\'s what is interesting. And that\'s what is challenging. You have to prove yourself every time.',
+        'Michael Schumacher',
     ],
-    '95d87b4e-b849-5942-ac22-3e3ab2bf5cd8' => [
-        'I just think that people take me a little more seriously as a brunette. I don\'t know if that\'s just because of a societal preconceived notion that all blondes are stupid, but it\'s a different kind of attitude.',
-        'Kate Bosworth',
+    '2839b4e7-614e-5538-9792-80708ca1c5f8' => [
+        'Sometimes by losing a battle you find a new way to win the war.',
+        'Donald Trump',
     ],
-    '6276e882-45c7-5357-839a-e0788c33a346' => [
-        'To us, family means putting your arms around each other and being there.',
-        'Barbara Bush',
+    'dc0d3c07-454b-5b3d-9b82-1330a32bc8e1' => [
+        'For me, the most interesting people are ones who often work against their best interests. Bad choices. They go in directions where you go, \'No no no nooo!\' You push away someone who is trying to love you, you hurt someone who\'s trying to get your trust, or you love someone you shouldn\'t.',
+        'Paul Haggis',
     ],
-    '066f9303-55d9-5d09-9157-a3880a8022b2' => [
-        'Tourists don\'t know where they\'ve been, travelers don\'t know where they\'re going.',
-        'Paul Theroux',
+    '10120760-66df-5f52-8d6f-9f6c1ea029b9' => [
+        'One of the primary purposes of civilization - and certainly its primary strength - is the guarantee that family life can flourish in unity, peace, and order.',
+        'Robert Kennedy',
     ],
-    '6c700f72-6e9f-5f2a-95b0-2c8de59c8830' => [
-        'Wealth is the ability to fully experience life.',
-        'Solomon Ortiz',
+    '75012b26-9a36-5351-b8ee-b94ef92440b8' => [
+        'My favorite place in Indonesia is Bali. I was there with my family in Nusa Dua, and my kids loved it. I\'m a workaholic, so for me, Bali is a place where you can have a vacation, but you can have your own moment as well. You feel like you blend with nature - and I love the beach.',
+        'Joe Taslim',
     ],
-    '57122a50-908e-5be1-9886-b2907b9e7916' => [
-        'Falling in love is the best way to kill your heart because then it\'s not yours anymore. It\'s laid in a coffin, waiting to be cremated.',
-        'Ville Valo',
+    'bab3c795-1f19-51c3-a770-4a9d93129d09' => [
+        'No hours, nor amount of labor, nor amount of money would deter me from giving the best that there was in me.',
+        'Colonel Sanders',
     ],
-    'b5ce6fb9-a22d-5e18-a793-51dd85a174e9' => [
-        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
-        'Jim Gaffigan',
+    '21d322f7-a9be-5c81-b52c-2ea88fea86f4' => [
+        'I think the most important thing in life is self-love, because if you don\'t have self-love, and respect for everything about your own body, your own soul, your own capsule, then how can you have an authentic relationship with anyone else?',
+        'Ralph Marston',
     ],
-    '9aa18def-084e-55a4-b4b7-b432bb9c6bb2' => [
-        'My objective is to be among the best.',
-        'Antoine Griezmann',
+    'eabe7d7a-da9a-5b46-ad11-9446bf60d11e' => [
+        'You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen.',
+        'Meister Eckhart',
     ],
-    '2da900b2-c18b-504b-90b2-a72733d74105' => [
-        'It\'s not just a matter of poor willpower on the part of the consumer and a give-the-people-what-they-want attitude on the part of the food manufacturers. What I found, over four years of research and reporting, was a conscious effort... to get people hooked on foods that are convenient and inexpensive.',
-        'Michael Moss',
+    '590f54ba-0bff-5fbe-9b01-bb054516abe5' => [
+        'I never smoked. I never drank and I never took drugs. The funny thing is, nothing is more boring, people like this. For me, it\'s OK. But most of my friends, at least they smoke and drink.',
+        'Karl Lagerfeld',
     ],
-    '940e5719-ba21-54d2-bbde-655bb7f7de49' => [
-        'The economy in the Valley will need to grow if students want to come back and work with their specialized degrees. We need to develop more to create more opportunities.',
-        'Frank Murphy',
-    ],
-    'c4832bc6-4c19-5cb0-9db8-4a3625f0e38e' => [
-        'Majorities, as such, afford no guarantees for justice. They are men of the same nature as minorities. They have the same passions for fame, power, and money, as minorities; and are liable and likely to be equally - perhaps more than equally, because more boldly - rapacious, tyrannical and unprincipled, if intrusted with power.',
-        'Lysander Spooner',
-    ],
-    'a4dad036-8457-5409-8ed5-1f3ad912b3eb' => [
-        'A place for everything, everything in its place.',
-        'Benjamin Franklin',
-    ],
-    'd74cb28b-a027-5afa-9be7-3a3c076d0a2e' => [
-        'If you don\'t build your dream someone will hire you to help build theirs.',
-        'Tony A. Gaskins Jr.',
-    ],
-    '182d1632-6791-53b1-bec5-501b51ac9598' => [
-        'In my own relationships, I know that I should break up with someone who doesn\'t encourage me to be strong and make my own choices and do what\'s best in my life, so if you\'re dating someone who doesn\'t want you to be the best person you can be, you shouldn\'t be dating them.',
-        'Veronica Roth',
-    ],
-    'a245f512-cc33-5958-acbb-6f4346d5689d' => [
-        'I\'m working myself to death.',
-        'Alan Ladd',
-    ],
-    'fbadf8c9-f9c9-5c1f-b8ae-1acaf12b108f' => [
-        'Culture is very important to the Mavs. Your best player has to be a fit for what you want the culture of the team to be. He has to be someone who leads by example. Someone who sets the tone in the locker room and on the court. It isn\'t about who talks the most or the loudest. It is about the demeanor and attitude he brings.',
-        'Mark Cuban',
-    ],
-    '42062fda-eb99-528f-8b6e-fec413ea8f49' => [
-        'The problem was just a mean attitude that festers and has to be challenged.',
-        'Major Owens',
-    ],
-    '266cf872-d833-5084-a5d2-fd7587a272f6' => [
-        'The problem with beauty is that it\'s like being born rich and getting poorer.',
-        'Joan Collins',
-    ],
-    '04295e64-e6ba-5381-98f1-54acab24ccc4' => [
-        'It takes both sunshine and rain to make a rainbow.',
-        'Unknown',
-    ],
-    'd3636648-c852-5d8b-9e76-608afea2f68e' => [
-        'The most beautiful as well as the most ugly inclinations of man are not part of a fixed biologically given human nature, but result from the social process which creates man.',
-        'Erich Fromm',
-    ],
-    '9519dbd7-980b-50c6-8a3b-d1ce220c92ec' => [
-        'The attitude of insolent haughtiness is characteristic of the relationships Americans form with what is alien to them, with others.',
-        'Jose Saramago',
-    ],
-    'df990c31-ea32-5ef8-ba19-dc48efda285f' => [
-        'A film set becomes its own family anyway, and all family dynamics come out during a shoot. The trick is hiring people who know how to handle that.',
-        'Noah Baumbach',
-    ],
-    '85fc834e-d3db-5aa4-8a4e-349d7515c45d' => [
-        'Many of the familiar little things that we use every day have typically evolved over a period of time to a state of familiarity. They balance form and function, elegance and economy, success and failure in ways that are not only acceptable, but also admirable.',
-        'Henry Petroski',
-    ],
-    'a4decbba-1d29-5171-86a4-85681faec882' => [
-        'To win in Australia, for me, has to be the ultimate success because the Aussies live for sport.',
-        'Ian Botham',
-    ],
-    'bf162056-6f79-55d0-b7e8-8430708d141b' => [
-        'I can\'t be around someone who is negative because I am such a positive person. If you are mean, then we don\'t speak.',
-        'Trevor Jackson',
-    ],
-    '527e15d2-3f67-51c3-af92-95343e4fedc7' => [
-        'Wishes don\'t bring riches; work make things work.',
-        'Ifeanyi Enoch Onuoha',
-    ],
-    '19c0f7d4-dcdd-5374-8e4a-f1360dac884f' => [
-        'Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.',
+    'a79e5bbf-2852-526d-a989-520a07085c2b' => [
+        'Anticipate the difficult by managing the easy.',
         'Lao Tzu',
     ],
-    'a49edffc-e54f-5272-9dbf-7890799962c1' => [
-        'The sport of horse racing which, at its best, showcases the majestic beauty of this animal and the athleticism of jockeys, has reached an alarming level of corruption and exploitation.',
-        'Tom Udall',
+    '5dd73c58-fe4f-59f7-aace-32feda25ec7b' => [
+        'Is truth always positive? Of course. Once the truth comes out, you know, it\'s all right. We\'re scared that if the truth comes out that it\'s not all right. It\'s the other way around.',
+        'Yoko Ono',
     ],
-    '44f71b62-e87e-5f76-9085-437f72aef6c1' => [
-        'I tend to look out for things with a resonance to my youth - artists or objects that seemed romantic all those years ago. I never buy anything purely for its value. I like possessions that smile back at me.',
-        'Nicholas Haslam',
+    '850d95ea-4c25-50e4-8c3b-a25793bcd644' => [
+        'I want every Filipino woman empowered with information regarding all options available to her regarding family planning.',
+        'Lea Salonga',
     ],
-    'ea504e53-650e-50bd-b14d-ff2cb36d8314' => [
-        'Education is the key to success in life, and teachers make a lasting impact in the lives of their students.',
-        'Solomon Ortiz',
+    '1b8e6f8e-c15b-5752-8674-ae52a132663b' => [
+        'Times and conditions change so rapidly that we must keep our aim constantly focused on the future.',
+        'Walt Disney',
     ],
-    '8d6d8b52-d7d0-5c65-a813-fe1e895444fa' => [
-        'I loved my mom so much because she had to work on a penny just to put food on the table... During the Depression in the United States, everybody had a tough time. And I was so hurt because she was crying that she didn\'t have any food for us for Thanksgiving.',
-        'Tony Bennett',
+    '757b605a-4dcc-519c-844c-c3ece1b7c033' => [
+        'It\'s a funny thing: You want so badly for people to see what you do - you\'re proud of it - and I like the effect that movies have on people. But the attention can also make me uncomfortable.',
+        'Kristen Stewart',
     ],
-    '6f5927c5-14de-5526-92ab-f824c32b0ced' => [
-        'The one thing I regret is that I will never have time to read all the books I want to read.',
-        'Francoise Sagan',
+    '271427b6-1425-5225-8b74-b60f91f6a762' => [
+        'The leaders who we admire who have been able to bring great change in the past - Gandhi, Martin Luther King, Nelson Mandela - they\'re all inspirational religious leaders and smart tacticians. It would be nice to find the Muslim Gandhi, wouldn\'t it?',
+        'Dennis C. Blair',
+    ],
+    '86a9d9c9-7929-51e3-9436-b1794b0e26c2' => [
+        'I firmly believe that if your environment works for you and your family, it translates into a better life.',
+        'Candice Olson',
+    ],
+    'a972cd8b-7723-5b7d-8e2e-23e8be6eec18' => [
+        'Winners embrace hard work. They love the discipline of it, the trade-off they\'re making to win. Losers, on the other hand, see it as punishment. And that\'s the difference.',
+        'Lou Holtz',
+    ],
+    'd5ee66b7-7707-5759-b5f0-b4fe5e4a32b1' => [
+        'I play a female Indiana Jones, a professor who hunts down precious objects, like a bowl that belonged to the Buddha. They tailored the role to me: I wanted to be smart, funny, and to kick some ass.',
+        'Tia Carrere',
+    ],
+    '649cc507-b6ff-5275-83c6-dc7896630eee' => [
+        'Participation, I think, or one of the best methods of educating.',
+        'Tom Glazer',
+    ],
+    'c68490b9-223e-561e-b557-bc4ead787fd0' => [
+        'Truth is the daughter of time, not of authority.',
+        'Francis Bacon',
+    ],
+    '6e0903c2-1ef2-5224-ba42-21af65aa6536' => [
+        'Of all the things I\'ve done, the most vital is coordinating those who work with me and aiming their efforts at a certain goal.',
+        'Walt Disney',
+    ],
+    '922c660f-e866-57ba-850d-623e9a97eed9' => [
+        'I like to stay happy, and I like to live life light and make the best of life.',
+        'Ciara',
+    ],
+    'ad40d6ac-5425-55e2-8be2-60c2308c5a91' => [
+        'Coming to terms with the fear of death is conducive to healing, positive personality transformation, and consciousness evolution.',
+        'Stanislav Grof',
+    ],
+    '61a51510-a1a5-5a7c-a9a2-602a45c68b73' => [
+        'I like to travel by myself.',
+        'Carly Rae Jepsen',
+    ],
+    '126cbf55-6c52-57fc-a00d-8ece84253580' => [
+        'The attitude in Baltimore in 1999 was almost one of resignation, that our problems were bigger than our capacity to handle them.',
+        'Martin O\'Malley',
+    ],
+    '3b1a3e0e-05df-5862-90d5-338e29a3d52a' => [
+        'A goal is a dream with a deadline.',
+        'Napoleon Hill',
+    ],
+    '1fb83fb7-a480-54ce-b2ff-1e275d31c3e2' => [
+        'The major work of the world is not done by geniuses. It is done by ordinary people, with balance in their lives, who have learned to work in an extraordinary manner.',
+        'Gordon B. Hinckley',
+    ],
+    'aa19cb08-6049-582e-b973-1f830d31f8bf' => [
+        'The events of my life are too unimportant, and have too little interest for any person not of my immediate family, to render them worth communicating or preserving.',
+        'John Marshall',
+    ],
+    '3db56c01-f070-517d-84d6-f1a43fa972d9' => [
+        'Genius always gives its best at first; prudence, at last.',
+        'Lucius Annaeus Seneca',
+    ],
+    '4ee090f5-5518-53b7-a4a0-8ffec3eb841b' => [
+        'The subtlety of nature is greater many times over than the subtlety of the senses and understanding.',
+        'Francis Bacon',
+    ],
+    '21b98567-2b5a-5051-a7b9-deeb1dfb3d60' => [
+        'A bee is never as busy as it seems; it\'s just that it can\'t buzz any slower.',
+        'Kin Hubbard',
+    ],
+    'd147f741-3a0e-5aa1-899a-63ddac065143' => [
+        'Women in particular need to keep an eye on their physical and mental health, because if we\'re scurrying to and from appointments and errands, we don\'t have a lot of time to take care of ourselves. We need to do a better job of putting ourselves higher on our own \'to do\' list.',
+        'Michelle Obama',
     ],
 ];

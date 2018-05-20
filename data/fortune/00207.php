@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '925db779-bd6d-5320-b247-8b5a98df588f' => [
-        'Your lost friends are not dead, but gone before, advanced a stage or two upon that road which you must travel in the steps they trod.',
-        'Aristophanes',
+    '8cad0115-6413-5377-ab15-169a1dea9076' => [
+        'The only thing that overcomes hard luck is hard work.',
+        'Harry Golden',
     ],
-    '2b7da5d3-b3c3-5192-8776-7f32b2c98851' => [
-        'If you love life, don\'t waste time, for time is what life is made up of.',
-        'Pope John XXIII',
+    'd34e9ed0-5f8f-5777-a0fe-d8d713ae7f9f' => [
+        'Without music to decorate it, time is just a bunch of boring production deadlines or dates by which bills must be paid.',
+        'Frank Zappa',
     ],
-    '1d642e39-61a2-5ee0-947b-847c695fea02' => [
-        'My songs are basically my diaries. Some of my best songwriting has come out of time when I\'ve been going through a personal nightmare.',
-        'Gwen Stefani',
+    'c8078744-260a-5360-84f2-ad3c722fa7d8' => [
+        'The 1990s, after the reign of terror of academic vandalism, will be a decade of restoration: restoration of meaning, value, beauty, pleasure, and emotion to art and restoration of art to its audience.',
+        'Camille Paglia',
     ],
-    '7ad28d7b-f686-5201-9f3c-1e80d930a13c' => [
-        'Fishes live in the sea, as men do a-land; the great ones eat up the little ones.',
-        'William Shakespeare',
+    'cb949989-c1f2-524f-8c50-580feefa9e78' => [
+        'Fun opens the doors to creativity, which then leads to inspiration, which then births passion, which all together equals both happiness and success!',
+        'Rachele Brooke Smith',
     ],
-    '438a2c0f-a323-5aa7-a3c2-e4c3f9fa3b05' => [
-        'Truth is powerful and it prevails.',
-        'Sojourner Truth',
+    '6fa656d9-2049-5eac-8959-d698fd9f1071' => [
+        'I\'m a very driven, ambitious, positive person. But I\'m a spiritual person as well.',
+        'Victoria Beckham',
     ],
-    '088a7dc9-29c5-5915-80c6-ade4e8a7da21' => [
-        'Ball caps travel far and wide. They do far more than keep the sun out of your eyes or the cold off your head. Ball caps are a statement.',
-        'George Vecsey',
+    '5cad1400-67ed-550e-9d4a-502ba5bf0340' => [
+        'I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive.',
+        'Yoko Ono',
     ],
-    '53c18ee8-d572-5021-8846-1335f2181003' => [
-        'I never expected to see the day when girls would get sunburned in the places they now do.',
-        'Will Rogers',
+    '17fa028c-eb98-5a42-8913-d8817ea5c1bf' => [
+        'There is little success where there is little laughter.',
+        'Andrew Carnegie',
     ],
-    '47b282fa-bfe3-5d73-8af4-6b54fc6b8a6b' => [
-        'To help yourself, you must be yourself. Be the best that you can be. When you make a mistake, learn from it, pick yourself up and move on.',
-        'Dave Pelzer',
+    '1ef12b08-4b1f-53fd-bdde-cc4570e7c10c' => [
+        'How long was I in the army? Five foot eleven.',
+        'Spike Milligan',
     ],
-    '16339299-b20a-5420-b7e1-26a65f42c2db' => [
-        'The man on top of the mountain didn\'t fall there.',
-        'Vince Lombardi',
+    '1eb1d307-8ab2-55ea-b7f8-9a365ccbf7f7' => [
+        'Loss is nothing else but change, and change is Nature\'s delight.',
+        'Marcus Aurelius',
     ],
-    '2287c1ed-c0fd-531c-8a02-666538b879e6' => [
-        'Beauty and brains, pleasure and usability - they should go hand in hand.',
-        'Donald Norman',
+    '3363fb77-c417-5c37-9337-86a92c04e83f' => [
+        'Look, everything that you experience as a kid is the foundation of how you are today. I was brought up in a working class family in Leeds and when it comes to money both my parents worked hard and instilled the same attitude into me.',
+        'Melanie Brown',
     ],
-    '9c762f1b-8c9e-51ab-b26d-23b1d1d948ce' => [
-        'I grew up in a household without a TV. We lived next door to a library for a while, and at one point, I checked out all the books in the fairy tale section. I remember the librarian\'s quiet smile as I\'d bring back one stack and exchange it for another.',
-        'Victoria Hanley',
+    '0fd03a4c-856c-585b-870b-12033da71868' => [
+        'You hear certain things, negative things, all the time that aren\'t true, but you never hear about the positive.',
+        'Floyd Mayweather, Jr.',
     ],
-    'ffbb8b30-88ad-592f-b456-339878d35faa' => [
-        'The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.',
-        'J. Robert Oppenheimer',
+    'eff7470c-a346-590c-9afa-79e14e6f0898' => [
+        'In wisdom gathered over time I have found that every experience is a form of exploration.',
+        'Ansel Adams',
     ],
-    '0fd04462-8ca0-5a32-a76a-f72bc923cd0b' => [
-        'Yesterday is not ours to recover, but tomorrow is ours to win or lose.',
-        'Lyndon B. Johnson',
+    'ecd906ef-8adb-5ee6-88fd-e142ec2c64d0' => [
+        'I wasn\'t a vegan when I came to Congress. It was a decision I made soon after I got here, and it\'s had such a positive impact on my life that I decided to try to help others as well.',
+        'Ted Deutch',
     ],
-    '2af6268f-a2a9-5596-87a3-561198363185' => [
-        'I love fairy tales because of their haunting beauty and magical strangeness. They are set in worlds where anything can happen. Frogs can be kings, a thicket of brambles can hide a castle where a royal court has lain asleep for a hundred years, a boy can outwit a giant, and a girl can break a curse with nothing but her courage and steadfastness.',
-        'Kate Forsyth',
+    '09c27bc7-f7ce-5d96-a69e-48fdd04bb913' => [
+        'Life is always going to be stranger than fiction, because fiction has to be convincing, and life doesn\'t.',
+        'Hillary Clinton',
     ],
-    'f8ca914f-0a35-557a-86c1-1a4958174106' => [
-        'The fairest thing in nature, a flower, still has its roots in earth and manure.',
-        'D. H. Lawrence',
+    'd8830947-28a9-57b3-a400-4b7e3ffd3e3a' => [
+        'You know, it\'s funny how songs continue to grow and evolve and become a new and deeper reflection of your life.',
+        'Gloria Estefan',
     ],
-    'f2288778-97e3-53fd-acc9-c9bc058a49b3' => [
-        'What moves men of genius, or rather what inspires their work, is not new ideas, but their obsession with the idea that what has already been said is still not enough.',
-        'Eugene Delecroix',
+    '6386ceb4-1c73-5dd8-b59a-c4b4214488e6' => [
+        'We need affordable space travel to inspire our youth, to let them know that they can experience their dreams, can set significant goals and be in a position to lead all of us to future progress in exploration, discovery and fun. Thanks to the X Prize for the inspiration.',
+        'Burt Rutan',
     ],
-    '11a8802d-0485-5794-bf81-9a9d830ab2be' => [
-        'But I think bands that rolled in with a big attitude, like they were some big deal, I just found that very strange.',
-        'Rob Zombie',
+    '0d9468ee-1c06-5431-9fa3-1341c25ffc44' => [
+        'If you continue to work hard, let that be the fuel to your fire.',
+        'Pitbull',
     ],
-    '696170be-9fa7-517b-9934-9426521be574' => [
-        'Sometimes my mistake has been hesitancy about acting on the decisions I\'ve made. When\'s the best time to invest? It\'s today, not tomorrow.',
-        'Charles Schwab',
+    '9df1e510-526c-59e6-9223-0d04675c5131' => [
+        'Writers, as they gain success, feel like outsiders because writers don\'t come together in real groups.',
+        'Anne Rice',
     ],
-    '329ae173-66bd-5e8a-9cd1-54fedb96cd13' => [
-        'I used to work in a fire hydrant factory. You couldn\'t park anywhere near the place.',
-        'Steven Wright',
+    'ebf88ea3-0f6e-5cba-a5aa-8e7a64fb39d7' => [
+        'I pray God may preserve your health and life many years.',
+        'Junipero Serra',
     ],
-    '205ba3de-786f-54be-9143-3444d3852ed3' => [
-        'The social object of skilled investment should be to defeat the dark forces of time and ignorance which envelope our future.',
-        'John Maynard Keynes',
+    'b3619306-179f-52ba-ac06-7ab179357db2' => [
+        'I don\'t even really know what it is I do for a living - the level of insecurity is very, very high. You\'re making a lot of money, getting a lot of accolades and positive criticism for something where you don\'t even know what you\'re doing.',
+        'Shia LaBeouf',
     ],
-    '4681f0f8-7727-5559-97fa-b808fd260693' => [
-        'Thinking is the hardest work there is, which is probably the reason why so few engage in it.',
-        'Henry Ford',
+    '691989ee-be30-53db-84bf-ee7132b643ce' => [
+        'Mankind is made great or little by its own will.',
+        'Friedrich Schiller',
     ],
-    'b759c854-0051-5177-883a-ae32c9833d2e' => [
-        'Nine-tenths of wisdom is being wise in time.',
-        'Theodore Roosevelt',
+    '5fe348b2-50da-5a7b-9d97-169831127eb6' => [
+        'I love the long grass coming up to meet the willows.',
+        'Jilly Cooper',
     ],
-    '81857e7b-3929-5400-835a-856e0bdce052' => [
-        'When I was four years old, my father, who was a colonel in the army, was stationed in Salzburg, Austria. Across the street from our house was an ancient castle on a cliff. So when I first heard fairy tales, I felt as if the magic of \'Cinderella\' or \'Sleeping Beauty\' was taking place right in my own neighborhood.',
-        'Mary Pope Osborne',
+    '342ce486-a9a5-5f2a-803f-9c630de06188' => [
+        'Ben Schwartzwalder was a decent guy, but he was from another era. He was like a Marine, with a real army attitude. He thought there was only one way to play football, and that was the rough way.',
+        'Jim Brown',
     ],
-    'bba18485-f66f-5171-b18e-ce7f480ef67d' => [
-        'It was Chicago with its World\'s Fair which vivified the national desire for civic beauty.',
-        'Daniel Burnham',
+    'd17b2ab8-047f-5601-a088-8abf09fa51f4' => [
+        'And I tell you, having girls has made me a much better man. I have friends who are fathers, but they only have boys, and they have the same attitude toward women they always had, you know? And I don\'t play that... My girls, you mess with them? I will bury you underground.',
+        'Mark Wahlberg',
     ],
-    'b0105ca4-ce00-51bb-88eb-f1645b54db9f' => [
-        'I cannot make my days longer so I strive to make them better.',
-        'Henry David Thoreau',
+    'd71b9748-5ce1-5a01-a860-67b06f8ec1b8' => [
+        'There is no shame in making an honest effort.',
+        'Epictetus',
     ],
-    'c8df5fb9-1207-5896-982b-5b23ce8e3ab0' => [
-        'This is love: to fly toward a secret sky, to cause a hundred veils to fall each moment. First to let go of life. Finally, to take a step without feet.',
-        'Rabindranath Tagore',
+    '79a7af6c-97e8-592c-8f90-60ecd8305377' => [
+        'I can\'t change the direction of the wind, but I can adjust my sails to always reach my destination.',
+        'Jimmy Dean',
     ],
-    '7fdc7bd8-ca68-5d7a-9532-e8b15528d427' => [
-        'Porsche is a driver\'s car - a performance car. That was funny - here\'s this awesome car, but it\'s got no cup holders.',
-        'Jason McCoy',
+    'b484a694-52aa-534e-b241-0a43c21fdf24' => [
+        'We take it for granted that we can see at all times of day and night. But there was a time, not all that long ago, in the age before electricity, when night brought total darkness - and with it, a not-so-small amount of terror. We get a sense of this when we go camping or when there\'s a power outage, and our fear of the darkness is primal.',
+        'Jake Halpern',
     ],
-    '9b48adbc-b50d-5e42-be35-f19bc8fb8ae8' => [
-        'Love and business and family and religion and art and patriotism are nothing but shadows of words when a man\'s starving!',
-        'O. Henry',
+    'd5e63fdd-dbec-5959-b107-861f29ac708e' => [
+        'Patton was living in the Dark Ages. Soldiers were peasants to him. I didn\'t like that attitude.',
+        'Bill Mauldin',
     ],
-    '7cb91d26-ab75-53d7-aaa0-f942b250679d' => [
-        'It\'s easy to get negative because you get beat down. You go through a few disappointments and it\'s easy to stay in that negative frame of mind. Choosing to be positive and having a grateful attitude is a whole cliche, but your attitude is going to determine how you\'re going to live your life.',
-        'Joel Osteen',
+    '05910f06-80b6-5d58-b82d-9ca28f0f7736' => [
+        'Life is what we make it, always has been, always will be.',
+        'Sylvia Plath',
     ],
-    '90a8be1b-0801-5e2e-b8d1-0a8c78c9baa4' => [
-        'I used to really love Fiend, but he stopped. He just stopped. Every time he had a project, every project - \'There\'s One In Every Family,\' \'Street Life\' - I had to have them. And he just stopped. And that was disappointing, \'cause that was my favorite rapper at one time.',
-        'Kevin Gates',
+    'b75471d0-fa98-5b29-9221-dd87d036c595' => [
+        'Those songs are about getting out; they\'re not about getting out of family. It wasn\'t about how family life was curtailing because I didn\'t know family life.',
+        'Bob Geldof',
     ],
-    '882ca3f8-4166-5c13-8239-3a6106a36e1d' => [
-        'There are many little ways to enlarge your child\'s world. Love of books is the best of all.',
-        'Jackie Kennedy',
+    '4302e3f4-f17d-56fd-be88-79e05236016b' => [
+        'I believe in stopping work and eating lunch.',
+        'L\'Wren Scott',
     ],
-    '112bfe76-73a1-5977-b9e1-587e595df958' => [
-        'There comes a point in your life when you realize how quickly time goes by, and how quickly it has gone. Then it really speeds up exponentially. With that, I think you start to put a lot of things into context; you start to see how huge the world is, and really, the universe.',
-        'Michael Keaton',
+    'c7f441d3-ff40-5aae-89c5-88f354335bcb' => [
+        'A two-year-old is kind of like having a blender, but you don\'t have a top for it.',
+        'Jerry Seinfeld',
     ],
-    'e639e83f-5a60-596d-9b63-068741a8f551' => [
-        'When I was campaigning, I told the people if nothing happens under my mandate it will still be a positive thing because my mandate will be used as a rupture between the past and the future.',
-        'Michel Martelly',
+    'c33ad684-10d4-5389-a515-52b0a6195f2e' => [
+        'Government, even in its best state, is but a necessary evil; in its worst state, an intolerable one.',
+        'Thomas Paine',
     ],
-    '6ad5cf5f-88d9-5311-ab14-24849bc0db99' => [
-        'The greatest gift of all time is that you can make creation infectious because people spend less time being negative... If you log all the time with negativity in the while world, I wonder how much better the world would be if people sat down and did something positive. It spirals.',
-        'Skrillex',
+    'a5671d76-74ce-54ca-a98f-e48a95df457c' => [
+        'If I ever do anything, it actually might be some fantasy elf thing or even some cute, funny thing. Just to do something a little bit out of the ordinary. I\'ve done my superhero gig.',
+        'Todd McFarlane',
     ],
-    'b9164e32-ba06-5b70-b6ee-b80ca572b35b' => [
-        'I\'m tired of all this nonsense about beauty being skin deep. That\'s deep enough. What do you want, an adorable pancreas?',
-        'Jean Kerr',
+    'e9448ce1-7f8b-563d-a151-da5f00e2247d' => [
+        'Work hard! In the end, passion and hard work beats out natural talent.',
+        'Pete Docter',
     ],
-    'eed6506d-6d56-502e-b3ca-b516a46461f0' => [
-        'I do kabbalistic meditation. It\'s not unlike time travel; it can change the past and not just the future. You can look at what was lost and go beyond the grief of what was lost.',
-        'Roseanne Barr',
+    '8d37aed9-8381-5372-b3a6-cfd070f649ad' => [
+        'I developed a problem with authority. Any time that authority was what I interpreted as being unjust, I stood up to it, and that became my personality.',
+        'Tom Petty',
     ],
-    '41333719-8008-5010-8140-5cee72e01f03' => [
-        'All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.',
-        'William Shakespeare',
+    'c13d0389-3de4-58ef-b442-e4b6cdc14dba' => [
+        'A great social success is a pretty girl who plays her cards as carefully as if she were plain.',
+        'F. Scott Fitzgerald',
     ],
-    '3b475ef1-4209-50c1-a219-1cf902b1a661' => [
-        'I\'m a big believer in persistence, don\'t be greedy and, above all, work hard. It\'s what keeps me going.',
-        'Caprice Bourret',
+    'fb268350-354e-5ad4-9533-6f82918368fe' => [
+        'If you\'re going to do something, you\'re going to do it to be the best.',
+        'Colin Kaepernick',
     ],
-    '2b35b019-2e96-5978-a903-a1f48316dc05' => [
-        'We didn\'t ever want \'Tarzan\' to feel like he was just a man. We didn\'t want him to stand up straight or wave good-bye. We wanted to make sure he always had that piece of gorilla in him, that he always had an animal attitude about him.',
-        'Kevin Lima',
+    'd5454d75-063c-5407-808d-c827cb782656' => [
+        'Don\'t settle for a relationship that won\'t let you be yourself.',
+        'Oprah Winfrey',
     ],
-    'fc16756e-47c5-58f1-b443-554760551a54' => [
-        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
-        'Jay Garner',
+    '98caf143-b3ee-5a62-b0b1-938701d35ec1' => [
+        'Good luck is another name for tenacity of purpose.',
+        'Ralph Emerson',
     ],
-    'c886c47c-cf88-5fe2-84a2-0fd9eb874090' => [
-        'After two weeks of working on a project, you know whether it will work or not.',
-        'Bill Budge',
+    '145c1d2e-17bc-51d3-9742-c0219c3a348e' => [
+        'It\'s been proven by quite a few studies that plants are good for our psychological development. If you green an area, the rate of crime goes down. Torture victims begin to recover when they spend time outside in a garden with flowers. So we need them, in some deep psychological sense, which I don\'t suppose anybody really understands yet.',
+        'Jane Goodall',
     ],
-    '41f2a446-f973-5be5-a5c5-123953b55abf' => [
-        'Choose your corner, pick away at it carefully, intensely and to the best of your ability and that way you might change the world.',
-        'Charles Eames',
+    '26b533b2-a256-5d6c-995d-1973ca754872' => [
+        'I was born into a very important family in Japan. My grandfather was a descendant of the Emperor, and we were very wealthy.',
+        'Yoko Ono',
     ],
-    '54cc0758-5585-5c02-adbf-39d854cdbe25' => [
-        'Do what you need to do and enjoy life as it happens.',
-        'Pauline Kael',
+    'b3826d7f-4ed2-5719-aed3-3cb05784fa77' => [
+        'The best doctor is the one you run to and can\'t find.',
+        'Denis Diderot',
     ],
-    'c562fcc3-ec07-55ff-9449-be59192d5b1f' => [
-        'To make democracy work, we must be a nation of participants, not simply observers. One who does not vote has no right to complain.',
-        'Louis L\'Amour',
+    '6145f436-336c-5e41-81ea-4d9693947825' => [
+        'Music was always heavily involved with my spirit. My entire family is Jamaican. It\'s nothing but reggae music and those kinds of vibes.',
+        'Shameik Moore',
     ],
-    '3158a088-b593-57b2-8c7a-292c737ae2cc' => [
-        'We can only learn to love by loving.',
-        'Iris Murdoch',
+    'ac1d6446-29c7-5c54-b4d4-875b8a17c88c' => [
+        'Nothing surpasses the beauty and elegance of a bad idea.',
+        'Craig Bruce',
     ],
-    'aba88e26-908c-57dd-8369-7141203ee50b' => [
-        'I believe in karma, and I believe if you put out positive vibes to everybody, that\'s all you\'re going to get back.',
-        'Kesha',
+    '04d35400-6e15-555c-9663-5e6886225a88' => [
+        'In the central place of every heart, there is a recording chamber; so long as it receives messages of beauty, hope, cheer and courage, you are young.',
+        'Samuel Ullman',
     ],
-    '82acf71f-60b0-577d-a89d-008f7d4bcbcf' => [
-        'Everyone who has ever met me for at least five minutes knows I\'m a really funny person. I love to laugh and to make people laugh, so writing comedy comes naturally to me.',
-        'Simone Elkeles',
+    '6ddf6269-4179-5835-b985-82c4c234d8f6' => [
+        'I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.',
+        'Neil Armstrong',
     ],
-    '74ef4891-2b62-583d-8d40-4e4947800514' => [
-        'I might have been born in a hovel but I am determined to travel with the wind and the stars.',
-        'Jacqueline Cochran',
+    'be8e1dd6-44b9-5168-98a1-953c5b2aae81' => [
+        'Americans are the most generous country on the planet. I\'ve worked in Europe, I\'ve worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.',
+        'Hugh Jackman',
     ],
-    'f39255c2-0b8b-5bff-a79f-6f742dc000c0' => [
-        'Teachers need to be more inspirational. But it\'s also up to engineering to make itself more interesting.',
-        'Bruce Dickinson',
+    '664d422b-ecb8-523f-9db8-aca80cd21607' => [
+        'When you Google me, you\'ll find a lot of people don\'t like Richard Dreyfuss. Because I\'m cocky and I present a cocky attitude. But no one has ever disagreed with the notion I represent, that we need more civic education. So far there\'s 100 percent support for that.',
+        'Richard Dreyfuss',
     ],
-    'd24ecdaf-09ef-57e0-9cb5-62bff517797d' => [
-        'Action is drama. If we cannot make the audience laugh, smile or cry with us, we are not actors.',
-        'Sonny Chiba',
+    '41900a91-703b-575b-94c5-1b8d5363b107' => [
+        'I always had a fantasy of being a chef, because I like kitchen life.',
+        'Harvey Mackay',
     ],
 ];

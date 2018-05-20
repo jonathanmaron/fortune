@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Console\Command\StatisticsCommand;
 
 use Application\Exception\InvalidArgumentException;
@@ -10,8 +12,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class StatisticsCommand extends AbstractCommand
 {
-
-    protected function configure()
+    protected function configure(): self
     {
         $this->setName('statistics');
 
@@ -20,30 +21,34 @@ class StatisticsCommand extends AbstractCommand
         $name        = 'limit';
         $shortcut    = null;
         $mode        = InputOption::VALUE_OPTIONAL;
-        $description = 'Limit table to top <limit>';
-        $default     = null;
+        $description = 'Show top "limit" rows only';
+        $default     = '';
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
         return $this;
     }
 
-    protected function initialize(InputInterface $input, OutputInterface $output)
+    protected function initialize(InputInterface $input, OutputInterface $output): self
     {
-        $limit = $input->getOption('limit');
+        $limit = (string) $input->getOption('limit');
         $limit = trim($limit);
 
-        if (!empty($limit)) {
+        if (strlen($limit) > 0) {
             if (!is_numeric($limit)) {
                 $message = '--limit must be a digit';
                 throw new InvalidArgumentException($message);
             }
         }
 
+        settype($limit, 'int');
+
         $this->setLimit($limit);
+
+        return $this;
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): self
     {
         $fortune = $this->getFortune();
         $limit   = $this->getLimit();
@@ -63,8 +68,8 @@ class StatisticsCommand extends AbstractCommand
             $rows[$author][2] += str_word_count($quote);
         }
 
-        usort($rows, function ($v1, $v2) {
-            return $v2[1] <=> $v1[1];
+        usort($rows, function ($a, $b) {
+            return $b[1] <=> $a[1];
         });
 
         $count = count($rows);
@@ -85,6 +90,4 @@ class StatisticsCommand extends AbstractCommand
 
         return $this;
     }
-
-
 }

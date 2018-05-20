@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'c984f08a-41aa-557f-9524-a2a5cfc85460' => [
-        'People say I\'m extravagant because I want to be surrounded by beauty. But tell me, who wants to be surrounded by garbage?',
-        'Imelda Marcos',
+    '6c520e5f-3d76-5f24-b827-85fc54ee16f0' => [
+        'When you win, nothing hurts.',
+        'Joe Namath',
     ],
-    '6c41e66f-7219-596c-b8be-1065fbc28a8b' => [
-        'I\'m not going to take this defeatist attitude and listen to all this crap any more from all these people who have nothing except doomsday to predict.',
-        'Carroll Shelby',
+    '9080c340-1016-5146-806a-711bb8d29c59' => [
+        'It is your work in life that is the ultimate seduction.',
+        'Pablo Picasso',
     ],
-    '05dba7b2-2145-5830-955a-b210ad5ccf22' => [
-        'We need to accept that the commandments of God aren\'t just a long list of good ideas. They aren\'t \'life hacks\' from an Internet blog or motivational quotes from a Pinterest board.',
-        'Dieter F. Uchtdorf',
+    '00ac3aec-724d-511b-97ec-861e1dea7d2c' => [
+        'Memories of our lives, of our works and our deeds will continue in others.',
+        'Rosa Parks',
     ],
-    '1db850dc-9eaa-590d-87a7-efca70d3d4ca' => [
-        'The lake and the mountains have become my landscape, my real world.',
-        'Georges Simenon',
+    '430bfaf9-224d-5b7e-927e-21a6a4541bf9' => [
+        'When people ask me about my story, I just go through the positive stuff: the tent-pole moments, the big landmark checkpoints.',
+        'Shia LaBeouf',
     ],
-    'a0aee6f8-6f56-5ec9-a786-33660bdf1db5' => [
-        'Food culture is like listening to the Beatles - it\'s international, it\'s very positive, it\'s inventive and creative.',
-        'Alice Waters',
+    '34de00f7-1e53-5d50-9498-57ac85db1b84' => [
+        'If we do not voluntarily bring population growth under control in the next one or two decades, the nature will do it for us in the most brutal way, whether we like it or not.',
+        'Henry W. Kendall',
     ],
-    '0483e127-0fc5-5edf-954b-de91884aa339' => [
-        'The best work of literature to represent the American Dream is \'The Great Gatsby\' by F. Scott Fitzgerald. It shows us how dreaming can be tainted by reality, and that if you don\'t compromise, you may suffer.',
-        'Azar Nafisi',
+    'd471fe9a-2bb6-51ad-9816-91298c1f6402' => [
+        'Elvis Costello had a brand new bag. He was a musician, but he knew all about the attitude part of it.',
+        'Nick Lowe',
     ],
-    'f4f767d1-bbe7-5c36-bca4-15c57c32d346' => [
-        'There are so many local nonprofits making a positive impact every day, and yet, oftentimes we don\'t hear enough about them or their needs.',
-        'Sylvia Mathews Burwell',
+    'd04c6fb6-0176-5432-b2a7-f0278d71ca89' => [
+        'If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.',
+        'Mary Pickford',
     ],
-    '11ac6114-8089-53d5-97e4-26cd68cb1077' => [
-        'One of my producers said this business is like a hamster on that little wheel thing that goes around and around. You may have a great day and get great ratings, but then you\'ve got another show to do - whatever moment of success or happiness you have you\'ve got to keep grinding it out for the next day.',
-        'Sean Hannity',
+    'a09d555f-074c-5552-9523-c486894770d5' => [
+        'From error to error one discovers the entire truth.',
+        'Sigmund Freud',
     ],
-    'beb7109a-b099-5144-a374-14666484377f' => [
-        'I detest jokes - when somebody tells me one, I feel my IQ dropping; the brain cells start to disappear. But something is funny when the person delivering the line doesn\'t know it\'s funny or doesn\'t treat it as a joke. Maybe it comes from a place of truth, or it\'s a sort of rage against society.',
-        'Johnny Depp',
+    '889915c0-549b-5c57-b213-ccb8b2c84280' => [
+        'Keep true to the dreams of thy youth.',
+        'Friedrich von Schiller',
     ],
-    'b8a3b05d-ec61-504c-b51d-b98d2ebda6a8' => [
-        'I don\'t believe in an outside agent that creates the world, then walks away. But I feel very strongly there is an intelligence at work in every flower, in every blade of grass, in every cell of my body. And it is that intelligence that, I wouldn\'t say created the universe. It is creating the universe. It\'s an ongoing process.',
-        'Eckhart Tolle',
+    '8e8553ee-0136-5cf9-a35c-8eb226743920' => [
+        'It\'s not who\'s the best - it\'s who can take the most pain.',
+        'Steve Prefontaine',
     ],
-    '99b34c11-3efc-5d2b-8d11-faa3cf79a292' => [
-        'Don\'t do anything by half. If you love someone, love them with all your soul. When you go to work, work your ass off. When you hate someone, hate them until it hurts.',
-        'Henry Rollins',
+    'be1e9c8c-cb6d-5713-8c63-0ed16dc3618a' => [
+        'All the best people in life seem to like LINUX.',
+        'Steve Wozniak',
     ],
-    '282f1661-8eda-539d-b305-6e76c2ee1c9c' => [
-        'Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole.',
-        'William S. Burroughs',
+    '568eaf00-16c4-5dbf-967a-430557cb8d27' => [
+        'Life brings simple pleasures to us every day. It is up to us to make them wonderful memories.',
+        'Cathy Allen',
     ],
-    '76af70a9-b1e8-542d-a4ba-072beb94dff0' => [
-        'I absolutely love my job. I feel so privileged: I get to travel the world, I get to witness history... and I\'m constantly inspired by the different amazing characters I meet along the way.',
-        'Clarissa Ward',
+    '4021a867-a4af-5851-86e3-42e54c511df6' => [
+        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
+        'Rowan Atkinson',
     ],
-    'c7b08bf2-f3fc-5d7d-bb0a-153a349a8d66' => [
-        'To live is like to love - all reason is against it, and all healthy instinct for it.',
-        'Kevin Conroy',
+    '653b8059-a154-5ec9-a659-4b5763b24821' => [
+        'I gave a funny speech at my wife\'s birthday party, and I\'m thinking, \'Hey, I\'ve still got it.\'',
+        'Larry David',
     ],
-    '256f78de-82a8-51e6-bc17-2efa0f63b1fc' => [
-        'Smile, it\'s free therapy.',
-        'Douglas Horton',
+    'f1af616e-b0f9-584e-98dc-bac801b7b6a4' => [
+        'Her friends say she is very funny. At a family dinner, she stood to go, and the footman very properly pulled her chair away. At that moment I asked her a question and she sat down again, except there was no chair. Everyone, including the Queen, laughed and laughed.',
+        'Prince Andrew',
     ],
-    '5ccf11a1-3bd8-58ad-a946-1f396495543c' => [
-        'And they said if we help with the crisis, they would do a lot of positive acts. After we helped in those crises, they showed negative acts and the Japanese and Turks were ashamed.',
-        'Akbar Hashemi Rafsanjani',
+    '830e430e-791d-5fa4-a9f1-df12fcd051bc' => [
+        'The mind that tries to shape tomorrow beyond its capacities will find no rest.',
+        'Rumi',
     ],
-    '4d5a7491-b6c9-57c9-86a1-f5addf97db46' => [
-        'You can\'t let praise or criticism get to you. It\'s a weakness to get caught up in either one.',
-        'John Wooden',
+    '4a28abb6-8748-570f-aa4f-6ac5190714e8' => [
+        'Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
+        'Swami Vivekananda',
     ],
-    '9e60db67-5cf5-59b4-b622-ffaae6caa566' => [
-        'If you\'re doing your best, you won\'t have any time to worry about failure.',
-        'H. Jackson Brown, Jr.',
+    '017882df-3f48-550e-89bd-54d9dc3a489a' => [
+        'I come from that society and there is a common thread, specifically family values - the idea that you do anything for your family, and the unconditional love for one\'s children.',
+        'Ednita Nazario',
     ],
-    '372e4327-dbea-578a-8b0c-1c6ea392f693' => [
-        'If you\'re not making some notable mistakes along the way, you\'re certainly not taking enough business and career chances.',
-        'Sallie Krawcheck',
+    'cc64c945-b3a0-5a41-b09f-91e40f215156' => [
+        'When you see things upside down, the ego can be extraordinarily funny; it\'s absurd. But it\'s tragic at the same time.',
+        'Alejandro Gonzalez Inarritu',
     ],
-    'ec628bce-6218-5eb7-ad30-cbc1023c5802' => [
-        'The most effective check and balance on government has been an independent press which maintains its credibility by ensuring that its criticism is balanced and based on fact - based indeed on solid journalistic work.',
-        'Malcolm Turnbull',
+    'bf686a61-1555-5d1f-8fdd-51fa3c7da2dd' => [
+        'An English man does not travel to see English men.',
+        'Laurence Sterne',
     ],
-    'bd9d6c54-583f-597a-90be-3aa44d73601d' => [
-        'There\'s no explanation for success. Success just comes out of life.',
-        'Meat Loaf',
+    '61145ac6-135b-5548-ad55-50b97ad0259e' => [
+        'Integrate what you believe in every single area of your life. Take your heart to work and ask the most and best of everybody else, too.',
+        'Meryl Streep',
     ],
-    '34310206-f70b-57dd-b3d1-da513bb5546a' => [
-        'I have a lot of friends, but my biggest fear is loneliness. I miss my family in Mumbai, and my biggest nightmare every day is to go back home alone.',
-        'Deepika Padukone',
+    '0065e952-d781-570e-9b53-370111ce676d' => [
+        'Success is a state of mind. If you want success, start thinking of yourself as a success.',
+        'Joyce Brothers',
     ],
-    'fdc148ba-4edd-55f4-99f8-61efefeb9efc' => [
-        'Life is like a sewer. What you get out of it depends on what you put into it.',
-        'Tom Lehrer',
+    '62a45999-e0ac-554b-a086-230b42ca43e2' => [
+        'Nothing puzzles me more than the time and space; and yet nothing troubles me less.',
+        'Charles Lamb',
     ],
-    '6b9dd012-d0dd-5370-9e0c-174fa2c94cd8' => [
-        'Ideas are a dime a dozen. People who implement them are priceless.',
-        'Mary Kay Ash',
+    'a452d040-ab32-59d8-992f-72fe2b368a97' => [
+        'If dysfunction means that a family doesn\'t work, then every family ambles into some arena in which that happens, where relationships get strained or even break down entirely. We fail each other or disappoint each other. That goes for parents, siblings, kids, marriage partners - the whole enchilada.',
+        'Mary Karr',
     ],
-    '85ad5741-2a0d-5f87-8894-28910d896207' => [
-        'Democracy is not merely a form of government. It is primarily a mode of associated living, of conjoint communicated experience. It is essentially an attitude of respect and reverence towards fellow men.',
-        'B. R. Ambedkar',
+    '4dc0eba2-ddc7-5a38-adbc-235ec8933dde' => [
+        'Be yourself. Follow your instincts. Success depends, at least in part, on the ability to \'carry it off.\'',
+        'Donald Rumsfeld',
     ],
-    'afe514db-0720-5f4c-aaa9-61cbfed523dd' => [
-        'The three great elemental sounds in nature are the sound of rain, the sound of wind in a primeval wood, and the sound of outer ocean on a beach.',
-        'Henry Beston',
+    '957796fa-2dcf-5a4e-aa81-86a01b7f1577' => [
+        'The suburbs are the American dream, right? Living in a nice house, having a good job, a happy family.',
+        'Cheryl Hines',
     ],
-    '9725f902-6cb3-5318-84fc-9f38457c1587' => [
-        'The pool is terrible, but that doesn\'t have much to do with my record swims. That\'s all mental attitude.',
-        'Mark Spitz',
+    '3c68ef1a-efdb-5742-94ac-785e0dc677c9' => [
+        'Surround yourself with positive people.',
+        'Melanie Fiona',
     ],
-    'f589d7af-95d6-54fc-9ae5-67a610cf0964' => [
-        'America\'s wealth comes from the efforts of people striving for success. Take away their incentive with badmouthing success and you take away the wealth that helps us take care of the needy.',
-        'Thomas Peterffy',
+    'ad7e6011-7955-5dee-b33c-5267dfc423c0' => [
+        'Exuberance is beauty.',
+        'William Blake',
     ],
-    '079bf9bd-420c-5f24-8399-fbf17fee591b' => [
-        'The reward for work well done is the opportunity to do more.',
-        'Jonas Salk',
+    '25a95a6f-b499-5c81-a614-c38257c5a0e1' => [
+        'The first case of Ebola diagnosed in the United States has caused some to call on the United States to ban travel for anyone from the countries in West Africa facing the worst of the Ebola epidemic. That response is understandable. It\'s only human to want to protect ourselves and our families.',
+        'Tom Frieden',
     ],
-    '478b0188-d8b2-579d-b22c-89a81293f1df' => [
-        'Smile, it\'s better than a poke in the eye.',
-        'Douglas Horton',
+    '15a8f97a-84a7-5a4f-ae3a-42ee697b3ea8' => [
+        'Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.',
+        'John F. Kennedy',
     ],
-    '1b399d17-fff7-5eae-9dd6-ce73d456ba41' => [
-        'Surrounded by all the members of my dear family, enjoying the affection of numerous friends, who have never abandoned me, and possessing a sufficient share of all that contributes to make life agreeable, I lift my grateful eyes towards the Supreme Being and feel that I am happy.',
-        'John James Audubon',
+    'de52c136-4630-592f-8420-51c94ec8ba33' => [
+        'Human nature is above all things lazy.',
+        'Harriet Beecher Stowe',
     ],
-    '552b0650-3dc3-527c-9ffe-46f9a92d9123' => [
-        'Eagles commonly fly alone. They are crows, daws, and starlings that flock together.',
-        'John Webster',
+    '8b46f08e-6dce-5b78-86a9-cd433e86e3ec' => [
+        'As an actor, I travel around a lot and live in a lot of hotels, and many times I\'ve been in a town where the only entertainment to be had is what you find in the hotel bar or lobby.',
+        'Beau Bridges',
     ],
-    'af9c0442-6f22-5a75-8a79-7096a3737f11' => [
-        'I do engage veterans. I meet with the veterans\' service organizations monthly. It\'s a direct, no-holds-barred discussion. I travel to their conventions, where I speak to the veterans membership. I do travel. I\'ve been to all 50 states. When I do, I engage veterans locally. So I get direct feedback from those veterans.',
-        'Eric Shinseki',
+    '5dbb0ae3-7677-57b0-b6b5-f807a2f3572e' => [
+        'I\'m passionate about travel.',
+        'Jordana Spiro',
     ],
-    '886d21a8-733a-5200-a705-0222dbbe7529' => [
-        'Without failure there is no sweetness in success. There\'s no understanding of it.',
-        'Glenn Beck',
+    '99629260-a4e5-50db-be2f-af74fe98523a' => [
+        'Tyga\'s one of my best friends ever, so it\'s so much fun to travel with him. I always like having my friends out on the road with me.',
+        'Kylie Jenner',
     ],
-    'ad0bd2c5-25ac-517f-95ee-45a288863944' => [
-        'Veterans Day is a time to celebrate the men and women who have worn this nation\'s uniform and to honor their service.',
-        'Tammy Duckworth',
+    '16be6728-d62e-5036-b08b-a05589858d38' => [
+        'I hope that my family will continue in another thousand years.',
+        'Frederik, Crown Prince of Denmark',
     ],
-    '0434951d-6ecf-5b80-9687-bf1069f9b664' => [
-        'We find delight in the beauty and happiness of children that makes the heart too big for the body.',
-        'Ralph Waldo Emerson',
+    '70dda5a3-6966-5a54-be9a-779dd380215f' => [
+        'One of the triumphs of the Civil Rights Movement is that when you travel through the South today, you do not feel overwhelmed by a residue of grievance and hate.',
+        'Alice Walker',
     ],
-    'e6a43a54-6f4b-58b3-bbc2-cade95f4263b' => [
-        'I\'m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.',
-        'Joan Jett',
+    'cbd636c9-621c-5f56-90d7-3e336e27fd39' => [
+        'I think people feel threatened by homosexuality. The problem isn\'t about gay people, the problem is about the attitude towards gay people. People think that all gays are Hannibal Lecters. But gay people are sons and daughters, politicians and doctors, American heroes and daughters of American heroes.',
+        'Hollis Stacy',
     ],
-    'de9621a9-2936-5ae5-91cc-491718a39c42' => [
-        'The earth laughs in flowers.',
-        'Ralph Waldo Emerson',
+    '7d6dcf7c-1219-5a7e-9ca7-32d7ce0958a0' => [
+        'Integrity is so perishable in the summer months of success.',
+        'Vanessa Redgrave',
     ],
-    '9b008e14-f2bd-5724-9738-c71048b3c89d' => [
-        'Everything in the universe goes by indirection. There are no straight lines.',
-        'Ralph Emerson',
+    '2db3f04c-d768-529f-8f46-d29f6336c601' => [
+        'Yesterday we obeyed kings and bent our necks before emperors. But today we kneel only to truth, follow only beauty, and obey only love.',
+        'Khalil Gibran',
     ],
-    '50249a12-aaf7-57cb-b91e-8947ea54deef' => [
-        'One of the basic things about a string is that it can vibrate in many different shapes or forms, which gives music its beauty.',
-        'Edward Witten',
+    '4312a53f-6193-5f49-a731-7052ffa96551' => [
+        'There have been some positive things that have happened for the tribes, but it\'s a constant, vigilant fight about protecting what resources we have in terms of land and rights.',
+        'John Trudell',
     ],
-    'f5aa34bb-188c-5926-98af-3be026ff7084' => [
-        'I\'m not ugly, but my beauty is a total creation.',
-        'Georg Wilhelm Friedrich Hegel',
+    'f3cebd5e-f718-5434-8f0f-80945310626d' => [
+        'It is cruel, you know, that music should be so beautiful. It has the beauty of loneliness of pain: of strength and freedom. The beauty of disappointment and never-satisfied love. The cruel beauty of nature and everlasting beauty of monotony.',
+        'Benjamin Britten',
     ],
-    '73e57071-bc94-5254-a8b7-2a03f9b7dfa1' => [
-        'I want to see friends more and travel more.',
-        'Jennifer Aniston',
+    '75647b81-031b-5e8d-9fe7-3a9775f285e6' => [
+        'The day, water, sun, moon, night - I do not have to purchase these things with money.',
+        'Plautus',
     ],
-    '0835a976-90a9-5de6-9d5e-6fb4d724a822' => [
-        'When I go to my live shows it\'s often a multigenerational audience, a family bonding experience.',
-        'Al Yankovic',
+    '45caf547-bc25-5bfa-a37b-88c930857280' => [
+        'To me, \'beauty\' means to be natural, creative, honest - to say the truth.',
+        'Nawal El Saadawi',
     ],
-    '8d331ac9-203a-5b71-a282-91df006df844' => [
-        'Fragrance takes you on a journey of time. You can walk down the street and pass someone and get taken back 20 years. It\'s very Proustian that way.',
-        'Daphne Guinness',
+    'af24e5db-949d-541d-8dd1-27b23074bcd1' => [
+        'I wanted my fans and my family and my friends to be proud of me.',
+        'Allen Iverson',
     ],
-    '915f4c3e-a99f-5e9c-9970-efced8c3741c' => [
-        'The art of living is more like wrestling than dancing.',
-        'Neil deGrasse Tyson',
+    'c74628d4-6600-5806-802a-2373a57e0f91' => [
+        'You can be a pretty face, but if you\'re not a nice person, it just doesn\'t work. I\'m not traditionally a beauty, but apparently people think I\'m all right. If you\'re a nice person, it definitely helps.',
+        'Kate Moss',
     ],
-    '3e69af3a-91e9-5847-8d98-08f332c9432f' => [
-        'Take stock of your thoughts and behavior. Each night ask yourself, when were you negative when you could have been positive? When did you withhold love when you might have given it? When did you play a neurotic game instead of behaving in a powerful way? Use this process to self-correct.',
-        'Marianne Williamson',
+    '0f2650d4-b042-50a0-ae24-10c10d4fd03f' => [
+        'I was destined to work with dying patients. I had no choice when I encountered my first AIDS patient. I felt called to travel some 250,000 miles each year to hold workshops that helped people cope with the most painful aspects of life, death and the transition between the two.',
+        'Elisabeth Kubler-Ross',
     ],
-    '1d9a1bb4-9494-587f-bea4-d37f673f195c' => [
-        'I do not own a car, and my main form of travel to Westminster and in my constituency is by bicycle. I also take my bike on trains to meetings in other parts of the country, which enables me to see other cities and the other parts of the country.',
-        'Jeremy Corbyn',
+    '377e75e7-bbaf-5f62-bdbc-223f7a003f50' => [
+        'To me, I\'ve never understood why there is any question about are women as funny as men.',
+        'Judd Apatow',
     ],
-    '3004d817-b065-5de7-9cac-dfdda5e747a3' => [
-        'Today, most young women are exposed to technology at a very young age, with mobile phones, tablets, the Web or social media. They are much more proficient with technology than prior generations since they use it for all their school work, communication and entertainment.',
-        'Susan Wojcicki',
+    '336dd2d1-4006-56eb-9e2e-b0765db04cf0' => [
+        'Take time to be kind and to say \'thank you.\'',
+        'Zig Ziglar',
     ],
-    'b0c79962-6e92-5723-9eae-4b7dd7615fad' => [
-        'No matter how busy you are, you must take time to make the other person feel important.',
-        'Mary Kay Ash',
+    '48a58935-cc16-5495-9d2d-ef2130cba544' => [
+        'I would wear the blue overalls of the fieldworker and often wore round, rimless glasses known as Mazzawati teaglasses. I had a car, and I wore a chauffeur\'s cap with my overalls. The pose of chauffeur was convenient because I could travel under the pretext of driving my master\'s car.',
+        'Nelson Mandela',
     ],
-    '5d529307-5e97-5e0d-87e1-bd0753fb8e14' => [
-        'I think music, in my opinion, is not about motivation in the way it\'s - it\'s not a running base. It\'s art. And my whole philosophy of music is different. It\'s almost like cooking and serving to people, seeing them smile and enjoying the food, really.',
-        'A. R. Rahman',
+    '9f4f1b3b-2328-5212-8326-ef7ced3d2a05' => [
+        'I eat every two hours. I sleep for eight hours. I have lots of water. I pray to keep calm. Most importantly, I have a smile on my face.',
+        'Vidya Balan',
     ],
 ];

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Console\Command;
 
 use Application\Fortune\Fortune;

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '43f587f1-91ec-51f4-8e92-5c9439cb9828' => [
-        'I will never forget experiencing Venice for the first time. It feels like you are transported to another time - the art, music, food and pure romance in the air is like no other place.',
-        'Elizabeth Berkley',
-    ],
-    '043446c9-4e6a-563e-913b-a8080ccefdfd' => [
-        'I think a lot of stuff I find funny is from day dreaming.',
-        'Demetri Martin',
-    ],
-    'a2d0f15c-d796-51f2-b82e-830e09e46a80' => [
-        'Don\'t forget Mother\'s Day. Or as they call it in Beverly Hills, Dad\'s Third Wife Day.',
-        'Jay Leno',
-    ],
-    '147ab383-2582-5876-a20a-bc093cb11d4f' => [
-        'Don\'t raise your voice, improve your argument.',
-        'Unknown',
-    ],
-    '274ccf3f-9e63-5359-b54c-1f6e8eadf622' => [
-        'All this misjudgment that we have of each other is based on ignorance. The second you get to travel, you see that human beings, no matter where they come from, they are the same.',
-        'Marjane Satrapi',
-    ],
-    '612125e1-51e3-54e7-b754-0b3c9a67ca59' => [
-        'The fascination of shooting as a sport depends almost wholly on whether you are at the right or wrong end of the gun.',
-        'P. G. Wodehouse',
-    ],
-    'efba088f-03aa-5867-aaef-c4a879e4db16' => [
-        'Keep close to Nature\'s heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean.',
-        'John Muir',
-    ],
-    'a5f7c4f1-c40c-510e-a7cc-71298447290e' => [
-        'In every conceivable manner, the family is link to our past, bridge to our future.',
-        'Alex Haley',
-    ],
-    'e0309afb-c672-58a4-80a4-00bc23c86ce4' => [
-        'My mind has been both my best friend and my worst enemy.',
-        'Elyn Saks',
-    ],
-    '901fb070-1cad-5b4c-8b79-a2b8100603fa' => [
-        'I come from a working-class family, and I\'ve been working since I was 13, from babysitting to blueberry picking to factory work to bookstore work. And of course, being a mother and homemaker, the hardest work of all.',
-        'Patti Smith',
-    ],
-    '36d2da46-f83e-5794-80fa-60eccc141da0' => [
-        'I\'m thankful for each and every day. We never know when time is up.',
-        'Chuck Berry',
-    ],
-    'd1dd4034-63e0-549f-a3a5-910d9efb735b' => [
-        'I think the only thing I knew for sure is that I wanted to, whatever I did, I wanted to travel with my work, an adventurous spirit.',
-        'Cate Blanchett',
-    ],
-    '4174ad6c-9ecf-5a3c-a304-72d23823a91d' => [
-        'Sometimes I envy people who can be only half crazy, with one foot in the passion and one foot in the real world. But that\'s not me. I dive into the total crazy experience. That\'s the only way to travel.',
-        'Kiran Ahluwalia',
-    ],
-    'c511fe54-fad4-50f4-8e83-611b7ff6dd09' => [
-        'The one way to get me to work my hardest was to doubt me.',
-        'Michelle Obama',
-    ],
-    'ff35956f-f258-54a4-a697-f0a84785b087' => [
-        'Adversity causes some men to break, others to break records.',
-        'William Ward',
-    ],
-    'ad0ba7ce-d94f-57b9-9277-ed37358c0f87' => [
-        'If the rights of civil partners are met differently in law to those of married couples, there is no discrimination in law, and if civil partnerships are seen as somehow \'second class\' that is a social attitude which will change and cannot, in any case, be turned around by redefining the law of marriage.',
-        'John Sentamu',
-    ],
-    '84e1877e-385d-56e0-9705-1bcc9dff980e' => [
-        'I love women with attitude.',
-        'Kevin Hart',
-    ],
-    '8a7cc7a4-5a84-558b-b5ab-48faf5174f9f' => [
-        'When one tugs at a single thing in nature, he finds it attached to the rest of the world.',
-        'John Muir',
-    ],
-    '46cea104-7062-59e0-8bce-5c8cdb0caace' => [
-        'You got to be willing to walk in a storm. That\'s what I tell people all the time.',
-        'Ray Lewis',
-    ],
-    'ab66a952-6650-568c-a6e6-ac69da73f9f9' => [
-        'The best doctors in the world are Doctor Diet, Doctor Quiet, and Doctor Merryman.',
-        'Jonathan Swift',
-    ],
-    '8c36a8c2-a294-542d-b48e-f6e923028ffb' => [
-        'You can make positive deposits in your own economy every day by reading and listening to powerful, positive, life-changing content and by associating with encouraging and hope-building people.',
-        'Zig Ziglar',
-    ],
-    '75d1b9d1-9590-5bfc-855a-96711174dec6' => [
-        'I worked at The Old Globe Theater under the great baton of Craig Noel. One of the great theater heroes that we have. He was so great and so inspirational. I think I did \'Antony and Cleopatra\' and \'The Taming of the Shrew\'. I lived in Ocean Beach, and my rent was $140 a month.',
-        'Jeffrey Tambor',
-    ],
-    '80c6fb42-f1c6-534d-a12e-23c84033b1ca' => [
-        'This life is like a swimming pool. You dive into the water, but you can\'t see how deep it is.',
-        'Ralph Waldo Emerson',
-    ],
-    '2323a91f-8d20-55c2-8bbf-b57592e66e91' => [
-        'Big pay and little responsibility are circumstances seldom found together.',
-        'Napoleon Hill',
-    ],
-    '57f890e3-a3c1-5fcf-b97b-df7ed1189037' => [
-        'Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.',
-        'Morgan Freeman',
-    ],
-    'dae277ba-333a-5596-8e77-fc8ccb4c78e2' => [
-        'That attitude that fighting is probably not fair, but you have to defend yourself anyway and damage the enemy, has been profoundly consequential as far as my political activism goes.',
-        'June Jordan',
-    ],
-    '3a300419-8818-5e00-bb84-39d8578870d9' => [
-        'My mother and father, with my newborn brother and me in the backseat of the 1938 Ford sedan that would be our family car for the next decade, moved to that hastily constructed Army ammunition depot called Igloo, on the alkaline and sagebrush landscape of far southwestern South Dakota. I was three years old.',
-        'Tom Brokaw',
-    ],
-    '2735fea9-93ed-5096-acff-022e899b0b59' => [
-        'You may be deceived if you trust too much, but you will live in torment if you don\'t trust enough.',
-        'Frank Crane',
-    ],
-    '837c34c7-33c7-5d34-b50b-a9b77f8efce6' => [
-        'Multiculturalism may well be our saviour, wresting us out from the straitjacket of our history, thrusting the old continent into an environment where other ethnicities, less cynical and more positive, will play a big role in its future.',
-        'Loretta Napoleoni',
-    ],
-    '2a746932-a188-55b5-9266-7d7c8640ccf9' => [
-        'Chess has given me a lot more than I could ask for. I have been able to feel special, travel the world and do what I truly enjoy. Moreover, chess players love being their own boss and hate having to wake up early!',
-        'Viswanathan Anand',
-    ],
-    '123c4c02-2ff0-544a-844d-54f4d20208f1' => [
-        'I learn stuff from making music every time I go in the studio. I\'m continuing to try to find new ways to play in a song or be in a song and have a positive impact on a song.',
-        'Stone Gossard',
-    ],
-    '964c4df5-2dff-535e-a753-3e58a33b8d89' => [
-        'I\'ve been so blessed to be part of a family that has dedicated its life to public service.',
-        'Jeb Bush',
-    ],
-    'ea2f2b5a-9c2b-5ba3-b9aa-b2d746f15c1b' => [
-        'Nothing happens unless first we dream.',
-        'Carl Sandburg',
-    ],
-    'b9081ba6-f636-53e5-99fd-cd7e48855c73' => [
-        'I love spending time with my friends and family. The simplest things in life give me the most pleasure: cooking a good meal, enjoying my friends.',
-        'Cindy Morgan',
-    ],
-    '75f78df8-0b10-5423-a881-d62386851a3e' => [
-        'I enjoy the preparatory elements of travel - packing my bags and choosing my outfits - but my favourite part is getting there.',
-        'Dominic Monaghan',
-    ],
-    '53961fc1-8073-5a55-ab28-aa7e9b2a3009' => [
-        'When you look at the calculation, it\'s amazing that every time you try to prove or disprove time travel, you\'ve pushed Einstein\'s theory to the very limits where quantum effects must dominate. That\'s telling us that you really need a theory of everything to resolve this question. And the only candidate is string theory.',
-        'Michio Kaku',
-    ],
-    '1f3596d9-06a3-5239-badf-e732a37d870e' => [
-        'Work harder on yourself than you do on your job.',
+    '88fcc70b-8dde-5947-b228-ea633dcb6b27' => [
+        'Labor gives birth to ideas.',
         'Jim Rohn',
     ],
-    '4e7061f5-2573-5ecf-b591-34e5935e3068' => [
-        'Even out of severe difficulty, some positive things come.',
-        'Jose Carreras',
+    '9308154b-6ecf-5e98-a6f8-41202e6f23a7' => [
+        'The world is but a canvas to the imagination.',
+        'Henry Thoreau',
     ],
-    'edfb3aeb-00e8-57ff-a76d-5eb04563fc2a' => [
-        'Whether we think of Disney\'s blonde beauty and her pumpkin carriage or Marissa Meyer\'s recent recasting of \'Cinderella\' as a cyborg in the young adult novel \'Cinder,\' we know that there are countless modern retellings of the tale.',
-        'Marie Rutkoski',
+    'f1c1e445-e662-5fcd-a295-b7bfa0a86aba' => [
+        'The greatest success stories were created by people who recognized a problem & turned it into an opportunity.',
+        'Joseph Sugarman',
     ],
-    '86e208cc-c4ec-56e5-a6a9-59a40daea95e' => [
-        'The future rewards those who press on. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I\'m going to press on.',
-        'Barack Obama',
+    '6e751b6f-33c9-5e75-839f-ad97d17f6dba' => [
+        'I love to go to Washington - if only to be near my money.',
+        'Bob Hope',
     ],
-    '336dc626-3c38-5a41-b0b5-59d601fe518d' => [
-        'The beauty we love is very silent. It smiles softly to itself, but never speaks.',
-        'Richard Le Gallienne',
+    '3ce8d37a-275f-552e-b9dd-77e9a58e3213' => [
+        'I own and operate a ferocious ego.',
+        'Bill Moyers',
     ],
-    'ddb5f77a-691c-5e5e-9d1b-daa1daffb5d9' => [
-        'The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity.',
-        'Ruby Dee',
+    'dff2ee75-ec05-5f44-8203-04ed90619630' => [
+        'It is only when the mind and character slumber that the dress can be seen.',
+        'Ralph Waldo Emerson',
     ],
-    '76e2d919-9a04-5241-99c2-0e26f5dd9b3a' => [
-        'The travel book is a convenient metaphor for life, with its optimistic beginning or departure, its determined striving, and its reflective conclusion. Journeys change travellers just as a good travel book can change readers.',
-        'Rory MacLean',
+    'fb5742a5-b976-5d8d-ab90-fc2aaeb03746' => [
+        'I write funny. If I can make my wife laugh, I know I\'m on the right track.',
+        'Gene Wilder',
     ],
-    '5d9f6e0e-bf79-55a7-9b75-7c4a005c87e5' => [
-        'Management must manage!',
-        'Harold S. Geneen',
+    'd6ffb1da-8347-5759-bf7b-82ca5e58a83d' => [
+        'If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.',
+        'Thomas J. Watson',
     ],
-    '01c64b81-7a4e-54d9-a6a4-40cd8119ba44' => [
-        'A major league pitching coach is a really difficult job. It takes a big commitment in terms of time, travel and workload.',
-        'David Cone',
+    '31277a81-ac73-5e48-9b4c-abdfdcfb5404' => [
+        'I\'d never been in play long enough for the flowers to die in the dressing room.',
+        'Mercedes McCambridge',
     ],
-    '4a51b69a-f2d6-572e-a404-156f68552b90' => [
-        'I would love a family. I\'m at the age where the wish for a child gets stronger. But who knows.',
-        'Cameron Diaz',
+    '84cadefc-7107-5300-98ef-9bddf654db3b' => [
+        'I\'m the type of person who doesn\'t hope, dream or wish for things. I work and work and work.',
+        'Lilly Singh',
     ],
-    'a0a13eab-c868-5b15-8e67-8e07e6f9ea94' => [
-        'The ideal intern is committed, creative, organized, ambitious, independent, and able to crack a smile, whether meeting a celebrity or folding socks.',
-        'Emily Weiss',
+    'f77e89a9-af57-5d2f-976c-1ade63777553' => [
+        'My favorite things in life don\'t cost any money. It\'s really clear that the most precious resource we all have is time.',
+        'Steve Jobs',
     ],
-    '27278fac-3977-505a-a33c-a86ebc2415d3' => [
-        'If it\'s the Psychic Network why do they need a phone number?',
-        'Robin Williams',
+    'b4649de2-9f3a-5856-83e9-af78a50fdd24' => [
+        'Sometimes the most positive thing you can be in a boring society is absolutely negative.',
+        'John Lydon',
     ],
-    '7c548417-ab9f-53ae-b6fa-811657b45e31' => [
-        'The greatest mistake you can make in life is to be continually fearing you will make one.',
-        'Elbert Hubbard',
+    'c9cd97d4-f082-599e-977a-e8c0652d4ef3' => [
+        'The attitude of \'every nation unto itself\' is a destructive one for the future of Israel.',
+        'Tzipi Livni',
     ],
-    'dc107a29-7f3f-5666-a50f-314da7979b88' => [
-        'It\'s time to say goodbye, but I think goodbyes are sad and I\'d much rather say hello. Hello to a new adventure.',
-        'Ernie Harwell',
+    'b6c30d17-9f32-5fb5-b5d8-0136628f2e37' => [
+        'It is funny that men who are supposed to be scientific cannot get themselves to realise the basic principle of physics, that action and reaction are equal and opposite, that when you persecute people you always rouse them to be strong and stronger.',
+        'Gertrude Stein',
+    ],
+    '625b0fb6-ec23-5c81-8bf2-070e23784651' => [
+        'I think a smile can make your whole body. Models, they look fabulous, but they don\'t smile, and they look so mad.',
+        'Serena Williams',
+    ],
+    'f916e5e0-06be-5f7b-b83b-ce99990e13f5' => [
+        'I grew up around a lot of various religions, so it\'s a part of my consciousness in a way. Everything from heavy Catholicism to followers of Indian spiritual masters to Unitarian universalists - all in one family. Though the family aspect was stronger than any particular dogma.',
+        'St. Vincent',
+    ],
+    '5ebd7795-fef3-5a31-9f5e-a0c92bb89d24' => [
+        'Loneliness adds beauty to life. It puts a special burn on sunsets and makes night air smell better.',
+        'Gordon B. Hinckley',
+    ],
+    '631731bb-22bb-5f66-a6b6-bceb3ff9a91d' => [
+        'When you are balanced and when you listen and attend to the needs of your body, mind, and spirit, your natural beauty comes out.',
+        'Christy Turlington',
+    ],
+    'fb5afc56-22ed-577c-94cc-f09238c208ec' => [
+        'To me, the blues is an infection. I don\'t think it\'s necessarily a melancholy thing; the blues can be really positive and I think I think anyone and everyone can have a place for the blues. It need not always a woeful, sorrowful thing. It\'s more reflective; it reminds you to feel.',
+        'Mick Fleetwood',
+    ],
+    '3cc4be3b-0409-58ec-9469-3a26c741d6f0' => [
+        'I\'m happy with who I am inside. I\'d hate to have accolades and all that and not really be happy with who I was. So I\'m really thankful for my family and for the support system that I have for being the person that I am today. I\'m proud of who I am.',
+        'Keke Palmer',
+    ],
+    'c80e4dee-614e-567a-9e04-b193d61c1f21' => [
+        'By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day.',
+        'Robert Frost',
+    ],
+    '9bc598c2-ec3b-55e3-acf2-cc1c3110bf18' => [
+        'Even successful musicians have had periods where people say they suck and no one likes them, even after they\'ve had periods of great success. So I think it\'s like you just gotta do you and try to stay motivated. Until, you know, you decide to stay home and make spaghetti all day.',
+        'K. Flay',
+    ],
+    '1d642e39-61a2-5ee0-947b-847c695fea02' => [
+        'My songs are basically my diaries. Some of my best songwriting has come out of time when I\'ve been going through a personal nightmare.',
+        'Gwen Stefani',
+    ],
+    'c2a2158b-5629-567f-93a7-cb594e07e8fd' => [
+        'It is time to effect a revolution in female manners - time to restore to them their lost dignity. It is time to separate unchangeable morals from local manners.',
+        'Mary Wollstonecraft',
+    ],
+    'b43fddcf-156b-5f9a-8b84-da7963384927' => [
+        'Argue for your limitations, and sure enough theyre yours.',
+        'Richard Bach',
+    ],
+    '9246bde1-4191-5170-ab36-42dfb3a07bfa' => [
+        'To remain a credible leader, I must always work first, hardest, and longest on changing myself. This is neither easy nor natural, but it is essential.',
+        'John C. Maxwell',
+    ],
+    '65f7c312-aa7f-549f-89ba-df9d7b6c9af7' => [
+        'I love to write about Nabokov and also to think about him. I love his attitude that he is incomparable, his lofty judgments and general scorn of other writers - not all of them, of course.',
+        'James Salter',
+    ],
+    'f7f26c65-3fe4-5c95-8394-9569c2babc32' => [
+        'We do not celebrate people who have made success out of serious hard work.',
+        'Iain Duncan Smith',
+    ],
+    '1e77004c-c237-5848-8e7b-3dc7cd1e9783' => [
+        'Mistakes are always forgivable, if one has the courage to admit them',
+        'Bruce Lee',
+    ],
+    'f49df9cc-d883-5b08-9aa2-feef8b5ac746' => [
+        'If we study learning as a data science, we can reverse engineer the human brain and tailor learning techniques to maximize the chances of student success. This is the biggest revolution that could happen in education, turning it into a data-driven science, and not such a medieval set of rumors professors tend to carry on.',
+        'Sebastian Thrun',
+    ],
+    '34062b8c-7727-5cdc-8872-0982d29cf0b9' => [
+        'Know how to live the time that is given you.',
+        'Dario Fo',
+    ],
+    'dd1d98ab-d3e7-52cf-a6be-14028f110a8f' => [
+        'I had written two or three books before my husband noticed that in every one of them a family member was missing. He suggested that it was because my father\'s death, when I was five, utterly changed my world. I can only suppose he is right and that this is the reason I am drawn to a narrative where someone\'s life is changed by loss.',
+        'Jenny Nimmo',
+    ],
+    'da5d0164-2d1f-5518-b45c-0d70513b486c' => [
+        'Kindness is the greatest wisdom.',
+        'Unknown',
+    ],
+    'a7dc33fb-b729-51c9-bccf-1d337df92c39' => [
+        'I do not like people touching my underwear. That\'s just weird! I travel with a washer and dryer, and I like cooking on the bus, too.',
+        'Carrie Underwood',
+    ],
+    '4532ecab-4636-5886-a291-faef67ad7b29' => [
+        'Whenever I look at a baby or children in general, I smile and just want to play with them.',
+        'Odeya Rush',
+    ],
+    '41dcf209-5700-5ec6-80ee-fac5f577c467' => [
+        'I just realized the best way to live your life is to just be you, as cliche as it sounds. I grew up trying to please everyone.',
+        'Yuna',
+    ],
+    '23606969-eaa6-523d-90a2-12d8eb435593' => [
+        'Some people walk in the rain, others just get wet.',
+        'Roger Miller',
+    ],
+    '01905ec1-dbba-5942-9cf5-ea8de793df4e' => [
+        'Fitness is very important to me because it helps give me a routine when I travel. It gives me one hour of \'me\' time and passes the time when I\'m lonely. Living with scoliosis serves as a constant reminder to keep my core and back strong. If I get lazy, I feel it in my back first.',
+        'Martha Hunt',
+    ],
+    '2b33bcef-0a31-581c-84dc-ceb12d67e8c8' => [
+        'Plant thy foot firmly in the prints which His foot has made before thee.',
+        'Joseph Barber Lightfoot',
+    ],
+    '80ececdb-b48e-5bca-8470-8fa0d5a3d139' => [
+        'Age and size are only numbers. It\'s the attitude you bring to clothes that make the difference.',
+        'Donna Karan',
+    ],
+    'f84a8d9c-0e0b-5ff2-8200-5dbc60a0bedb' => [
+        'It\'s very difficult to think that you\'re with someone that you know, and all of a sudden you don\'t know them: it turns out that they betray you. It\'s painful, but it\'s best to turn the page.',
+        'Shakira',
+    ],
+    'aac1a53f-d52e-5e32-82fc-c7b50fb67363' => [
+        'We help people to begin truly healthful diets, and it is absolutely wonderful to see, not only their success, but also their delight at their ability to break old habits and feel really healthy for a change.',
+        'Neal Barnard',
+    ],
+    'ac82fe5f-ab48-5f66-905d-d07b2be49c20' => [
+        'An idea that is developed and put into action is more important than an idea that exists only as an idea.',
+        'Buddha',
+    ],
+    'fae7e13e-f13e-57d4-8bab-b22b63582a92' => [
+        'The scientific observer of Nature is a kind of mystic seeker in the act of prayer.',
+        'Muhammad Iqbal',
+    ],
+    'c0ce8799-f6b8-5c2c-b1d6-8404b4655fee' => [
+        'Painting from nature is not copying the object; it is realizing one\'s sensations.',
+        'Paul Cezanne',
+    ],
+    '725575b2-ed86-5cfd-b05b-5edade528957' => [
+        'When I think of myself at 15, even 17, I could simply not have done this work on an international level and travel all the time, take care of myself and not feel lost. I feel very happy that this is happening now, and not 10 years ago, as I feel stronger as a person.',
+        'Saskia de Brauw',
+    ],
+    '8834a8ec-9c4a-5a4c-a7b6-6c33ef2aafc0' => [
+        'There\'s so much to appreciate about my life every single day, and I make a big point of taking time to smell the roses and noticing how lucky I am. I never want to take that for granted.',
+        'Josie Maran',
+    ],
+    '33102a85-1dde-5f44-9f83-834cd5982791' => [
+        'A supermodel needed to be able to be on \'Sports Illustrated,\' to be able to walk runways, to be able to do beauty ads, to be on covers. And the girls now can no longer be on covers and be in the ads because your actresses have taken over all the jobs. I don\'t know what happened, but we want our jobs back.',
+        'Kim Alexis',
+    ],
+    '51715ed4-004e-5044-a47b-012dce06de75' => [
+        'Eating well was something I learned as I started to be successful and had to travel and perform concerts, which are an intense cardio workout.',
+        'Curtis Jackson',
+    ],
+    '481cacb4-6d58-5aef-a456-8fae8233fed1' => [
+        'Although I know it\'s unfair I reveal myself one mask at a time.',
+        'Stephen Dunn',
     ],
 ];

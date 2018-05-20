@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '83a47ce8-a8e0-5597-8511-3a1dce30aff9' => [
-        'I think that anybody that smiles automatically looks better.',
-        'Diane Lane',
+    'ff48aa83-f824-574f-9774-03c90fcff466' => [
+        'One of my favorite luxuries in life is travel. Jet lag and lost baggage aside, it\'s an incredible way to learn about other cultures, meet new people, broaden your horizons... and do some amazing shopping!',
+        'Amanda Hearst',
     ],
-    'ebb96516-fbb3-574c-8abb-5ba900c8c0fc' => [
-        'One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute.',
-        'William Feather',
+    'e5a16205-201e-5e24-a0bb-72256fc25668' => [
+        'My husband and I always have fun together in everything we do. Some people call me crazy, but the reality is that I enjoy spending each second with him. He is not just my husband - he is my rock and my very best friend!',
+        'Joyce Giraud',
     ],
-    '498b6362-8d24-5c8e-9d85-11dd321e48e9' => [
-        'A human being has so many skins inside, covering the depths of the heart. We know so many things, but we don\'t know ourselves! Why, thirty or forty skins or hides, as thick and hard as an ox\'s or bear\'s, cover the soul. Go into your own ground and learn to know yourself there.',
-        'Meister Eckhart',
+    '5a990192-12e4-5b33-b21b-a354beb81824' => [
+        'By their very nature, heuristic shortcuts will produce biases, and that is true for both humans and artificial intelligence, but the heuristics of AI are not necessarily the human ones.',
+        'Daniel Kahneman',
     ],
-    'b40d46a1-52c7-590a-a7da-9c7a71797df2' => [
-        'It doesn\'t matter if you\'re a man or a woman - stay alert and focused on your surroundings. Travel with friends. Know where you are at all times, and never let your guard down.',
-        'Kimberly Guilfoyle',
+    '8fd0067a-bb4c-5f0c-8f6d-a2288974e67f' => [
+        'We live in a culture that\'s been hijacked by the management consultant ethos. We want everything boiled down to a Power Point slide. We want metrics and \'show me the numbers.\' That runs counter to the immensely complex nature of so many social, economic and political problems. You cannot devise an algorithm to fix them.',
+        'Carl Honore',
     ],
-    'd5ab8c51-643f-582e-a0fd-5d6d10a5b39d' => [
-        'Confidence is the most important single factor in this game, and no matter how great your natural talent, there is only one way to obtain and sustain it: work.',
-        'Jack Nicklaus',
+    '543e02d1-f453-52b6-a8a8-07cff08a6b2a' => [
+        'When everything is lonely I can be my best friend.',
+        'Conor Oberst',
     ],
-    'a4bbf686-d1b5-58f5-8eaa-577a35bbd587' => [
-        'Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is.',
-        'J. R. Martinez',
+    '1f2980e6-92df-5840-881e-9c7b22f5d766' => [
+        'Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.',
+        'Corazon Aquino',
     ],
-    '68d58ce6-7cab-50ac-a0ac-87deb43ffc65' => [
-        'Barack Obama knows that to create an economy built to last, we need to focus on middle-class families. Families who stay up on Sunday nights pacing the floor, like my dad did, while their children, tucked in bed, dream big dreams. Families who aren\'t sure what Monday morning will bring, but who believe our nation\'s best days are still ahead.',
-        'Chuck Schumer',
+    'c886c47c-cf88-5fe2-84a2-0fd9eb874090' => [
+        'After two weeks of working on a project, you know whether it will work or not.',
+        'Bill Budge',
     ],
-    'f113e23b-ebfd-5e4d-b5c8-cd8c09c2c6ef' => [
-        'You cannot move things by not moving.',
-        'Suzy Kassem',
+    '1c81a006-0cc9-5b3c-ac85-fb98e4f076aa' => [
+        'Even if you fall on your face you\'re still moving forward.',
+        'Victor Kiam',
     ],
-    '5af26faf-17d0-50d0-b1ac-bcce656c7110' => [
-        'The best customer service is if the customer doesn\'t need to call you, doesn\'t need to talk to you. It just works.',
-        'Jeff Bezos',
+    '554ad073-7ada-5523-911d-50d9c0cc8dc8' => [
+        'With my father and sister being very depressed for most of their lives, it was incumbent on me to try to make them laugh, in this ridiculous way. They were the wittiest people I knew, but to get a smile from them was like winning the lottery.',
+        'Miriam Toews',
     ],
-    '6e6e3755-57f4-5b64-afb0-d8307ab3efbb' => [
-        'All the seven deadly sins are man\'s true nature. To be greedy. To be hateful. To have lust. Of course, you have to control them, but if you\'re made to feel guilty for being human, then you\'re going to be trapped in a never-ending sin-and-repent cycle that you can\'t escape from.',
-        'Marilyn Manson',
+    '4a84aeee-7849-5582-8b65-031c09f4676d' => [
+        'Design is about point of view, and there should be some sort of woman or lifestyle or attitude in one\'s head as a designer.',
+        'Vera Wang',
     ],
-    'e9addbb1-5bd9-50d8-97a6-ac8cd904d17b' => [
-        'Nobody knows what you feel inside unless you tell them.',
-        'Banksy',
+    'd63ea194-3d88-5c31-93b3-07d53afe2513' => [
+        'Never mistake activity for achievement.',
+        'John Wooden',
     ],
-    'e8ae5493-a450-5486-bc28-afb161754119' => [
-        'Once you choose hope, anythings possible.',
-        'Christopher Reeve',
+    '6eedd740-0a98-544b-b77e-4f01e6b009a7' => [
+        'More than half of people who leave their jobs do so because of their relationship with their boss. Smart companies make certain their managers know how to balance being professional with being human. These are the bosses who celebrate an employee\'s success, empathize with those going through hard times, and challenge people, even when it hurts.',
+        'Travis Bradberry',
     ],
-    '34efbb0c-84a2-59d2-b9e7-8ba9e8aa9c9b' => [
-        'My life needs editing.',
-        'Jack Nicholson',
+    '55b9a559-2fb2-5888-8b6b-c7d4674ffe19' => [
+        'Be the change that you want to see in the world.',
+        'Mohandas Gandhi',
     ],
-    'f888f070-0d5f-5f28-bfde-4a5c5d99e08c' => [
-        'If you are good at studies, and you want to play cricket, you may work harder than any other person, but you may not achieve it. So it\'s something you have to balance in life and be practical where you are good and then channelise your efforts in the right direction to be successful in life.',
-        'Mahendra Singh Dhoni',
+    'e8c5b151-4bd5-5d96-a20a-86c211ddab0d' => [
+        'A ship in port is safe, but that\'s not what ships are built for.',
+        'Grace Hopper',
     ],
-    '2cc13758-3bd9-59cb-b853-e3ea9c9a3a78' => [
-        'If you want to achieve greatness stop asking for permission.',
+    'ac1438de-1375-5d12-bb2f-aaf90f3c2120' => [
+        'The greatest test of courage on earth is to bear defeat without losing heart.',
+        'Robert Green Ingersoll',
+    ],
+    '7bf101a4-6579-5f82-8502-58f0f4f518b2' => [
+        'I consider nature a vast chemical laboratory in which all kinds of composition and decompositions are formed.',
+        'Antoine Lavoisier',
+    ],
+    '945dc18d-77e6-5d22-98b1-6c33bb21c7c0' => [
+        'If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.',
+        'Ben Shapiro',
+    ],
+    '288b900d-832a-5126-b906-ac0f5beeab2a' => [
+        'In presence of Nature\'s grand convulsions, man is powerless.',
+        'Jules Verne',
+    ],
+    '98b4d00f-4a91-53ff-a88d-e2d45051439f' => [
+        'Live life to the fullest, and focus on the positive.',
+        'George S. Patton',
+    ],
+    'ad1a2625-86f2-577a-a1a9-aae761da322b' => [
+        'Work is accomplished by those employees who have not yet reached their level of incompetence.',
+        'Laurence J. Peter',
+    ],
+    '645afb40-562e-5d67-bfa1-3ec8af15db04' => [
+        'New Year\'s Day. A fresh start. A new chapter in life waiting to be written. New questions to be asked, embraced, and loved. Answers to be discovered and then lived in this transformative year of delight and self-discovery. Today carve out a quiet interlude for yourself in which to dream, pen in hand. Only dreams give birth to change.',
+        'Rabindranath Tagore',
+    ],
+    'e6fab423-660a-5862-ad53-2990fb5a6775' => [
+        'Loneliness is such an omnipotent and painful threat to many persons that they have little conception of the positive values of solitude and even, at times, are frightened at the prospect of being alone.',
+        'Rollo May',
+    ],
+    '1bf104a4-9a43-5500-9ca3-bb5936d2428d' => [
+        'It\'s not who you are that holds you back, it\'s who you think you\'re not.',
         'Unknown',
     ],
-    'b00ccf28-6416-56b3-9f11-96ffd147dd7d' => [
-        'The biggest message I have for young women is, Don\'t start cutting off branches of your career tree unnecessarily early. Sometimes women say, I know I want to have a family or play in the local symphony, and they start pulling themselves out of their career path. You don\'t have to take yourself out of the running before you even start.',
-        'Mary Barra',
+    '4e565962-323b-59a9-8ee8-a0d59d746ac5' => [
+        'Currently, only 70 percent of our high school students earn diplomas with their peers, and less than one-third of our high school students graduate prepared for success in a four-year college.',
+        'Ruben Hinojosa',
     ],
-    '6fed641c-3ab6-5c3f-8a85-09c8948affe2' => [
-        'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
-        'Nick Saban',
+    'c4c859b9-2acf-5bef-a682-9e6c37c1333c' => [
+        'Strong beliefs win strong men, and then make them stronger.',
+        'Richard Bach',
     ],
-    '37ca2ef9-bbd4-5ff6-9752-28a7e14dc01d' => [
-        'Many people will try to Sell you a Dream, its Your place to let them know you Already have one',
-        'Kalon Jackson',
+    '7c930861-a042-5b68-82d7-3507da5d549d' => [
+        'If you want to make peace with your enemy, you have to work with your enemy. Then he becomes your partner.',
+        'Nelson Mandela',
     ],
-    '8b64401a-b883-54c1-9698-308de7b2c705' => [
-        'Never promise more than you can perform.',
-        'Publilius Syrus',
+    'a164a38e-2e08-5500-9c14-180b5ef3cdfa' => [
+        'The productivity of work is not the responsibility of the worker but of the manager.',
+        'Peter Drucker',
     ],
-    '3ffad979-2022-5648-8d6a-73d6694be4db' => [
-        'It is impossible to work in information technology without also engaging in social engineering.',
-        'Jaron Lanier',
+    '0528046f-ce9c-5616-9f71-713d251e18df' => [
+        'I like to think that as I get older I\'m getting better at spending time with people who have qualities that make them worth spending time with.',
+        'Samantha Power',
     ],
-    'd7cdd6bf-aa54-54bb-b252-fa387f00ccea' => [
-        'Much effort, much prosperity.',
-        'Euripides',
+    '7c5128e7-ccf7-5c1f-8c6d-a2375de54573' => [
+        'Everything has been figured out, except how to live.',
+        'Caitlyn Jenner',
     ],
-    '71163ba2-d8e3-53f8-9aac-473d02a6868b' => [
-        'The holidays are a rough time for the homeless, but it\'s a year-round problem we have to solve.',
-        'Mike Binder',
+    '473c671f-0f17-510d-9236-be2003f9e41d' => [
+        'A \'naughty pickle\' is how I\'d best describe myself. I think fun and laughter is the whole point of life.',
+        'Celia Imrie',
     ],
-    '9bcc995f-f247-54dc-9cf6-431607695978' => [
-        'A pessimist is a person who has had to listen to too many optimists.',
-        'Don Marquis',
+    '2419234c-31d5-5679-b4d3-60fe8f31c7c0' => [
+        'I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
+        'Robert Louis Stevenson',
     ],
-    '529b8da7-fe02-5ee4-9c33-7a5ca2a5a4a4' => [
-        'We look for opportunities to play together including basketball, tennis, swimming, riding bikes and touch football. I try to provide a loving environment where we can play. I think that\'s good on so many levels - emotionally, for family interactions and, of course, physically.',
-        'Alan Thicke',
+    '85c757c9-e940-5bff-b136-e61b93a6a93c' => [
+        'Loving a child doesn\'t mean giving in to all his whims; to love him is to bring out the best in him, to teach him to love what is difficult.',
+        'Nadia Boulanger',
     ],
-    '649ad58d-86fb-58ba-8413-7e44bff64164' => [
-        'In all our deeds, the proper value and respect for time determines success or failure.',
-        'Malcolm X',
+    '30eb01dc-fbdb-5252-bc36-6d331df035a3' => [
+        'In America there are two classes of travel - first class, and with children.',
+        'Robert Benchley',
     ],
-    '41f3354e-674f-5a1d-a75a-60a0d8fceca3' => [
-        'It\'s only when we truly know and understand that we have a limited time on earth - and that we have no way of knowing when our time is up, we will then begin to live each day to the fullest, as if it was the only one we had.',
-        'Elisabeth Kubler-Ross',
+    '092e5d86-1ad7-5fea-a574-6ab295045bfc' => [
+        'Work is about more than making a living, as vital as that is. It\'s fundamental to human dignity, to our sense of self-worth as useful, independent, free people.',
+        'William J. Clinton',
     ],
-    '41564c1d-4e89-5518-b029-86e5db685533' => [
-        'Arriving at one point is the starting point to another.',
-        'John Dewey',
+    '54a53808-44ab-5da6-9784-47cb3c2ef74c' => [
+        'Winners have simply formed the habit of doing things losers don\'t like to do.',
+        'Albert Gray',
     ],
-    '4e62d7e2-fe54-5623-a011-ec60ea3df85d' => [
-        'The man who has no inner-life is a slave to his surroundings.',
-        'Keri Russell',
+    '958c075a-9559-58f4-bd52-233591f26663' => [
+        'When many work together for a goal, Great things may be accomplished. It is said a lion cub was killed By a single colony of ants.',
+        'Saskya Pandita',
     ],
-    '3211385c-900b-5150-be89-8c85e4c22b42' => [
-        'Like the Earth, the Web is a less appealing place than it used to be. If I want attitude and arguing and meanness and profanity and wrong information screamed at me as gospel, I\'ll get in a time machine and spend Christmas with my family in 1977.',
-        'J. R. Moehringer',
+    'f9a51681-28b5-5b64-99a7-64078dc4a26d' => [
+        'He who marvels at the beauty of the world in summer will find equal cause for wonder and admiration in winter.',
+        'John Burroughs',
     ],
-    'd26992a3-c8ee-5e1b-991b-bfbaee2ccab1' => [
-        'I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.',
-        'Claude Monet',
+    '65c44151-8ddd-5057-9a2d-94868ea6311e' => [
+        'Take a method and try it. If it fails, admit it frankly, and try another. But by all means, try something.',
+        'Franklin D. Roosevelt',
     ],
-    '29fad765-c8e7-5753-b3b1-807c99602f53' => [
-        'I like Aurora, \'Sleeping Beauty,\' because she\'s just sleeping and looking pretty and waiting for boys to come kiss her. Sounds like a good life - lots of naps and cute boys fighting dragons to come kiss you.',
-        'Ariana Grande',
+    '12751b29-6690-5c9a-9170-53d0df81fb44' => [
+        'It is often said that before you die your life passes before your eyes. It is in fact true. It\'s called living.',
+        'Henri Frederic Amiel',
     ],
-    'c0075fb1-b034-5334-ad5f-4f55d1fd61c7' => [
-        'I don\'t do very much for beauty. I use very simple things on my skin. I haven\'t got time. I would always get facials and then come home laden with product, and pay a lot of money and never use it. Anyway, one day a dermatologist told me to use Cetaphil to clean my face and as a moisturizer, and that\'s what I do.',
-        'Iris Apfel',
+    'c43f94ab-108e-507a-b34c-e574f12daea9' => [
+        'I work to stay alive.',
+        'Bette Davis',
     ],
-    '82a3c5ab-6abf-5b2c-ae1c-ef56f7b7c319' => [
-        'Having a positive mental attitude is asking how something can be done rather than saying it can\'t be done.',
-        'Bo Bennett',
+    '6c00af8c-488c-5aaa-90b4-ee03526e8518' => [
+        'One picture is worth 1,000 denials.',
+        'Ronald Reagan',
     ],
-    '1afa5563-0271-597c-8524-3fdbf0be7e9a' => [
-        'People are rejecting the power of the elite, but individuals such as Snowden are doing so in a positive way, trying to change things for the better. He is a very intelligent man and obviously interested in electronic music.',
-        'Jean-Michel Jarre',
+    'a4d6c27c-726a-58a8-8bde-934714412fa6' => [
+        'Always forgive your enemies - nothing annoys them so much.',
+        'Oscar Wilde',
     ],
-    '3bbaeff2-c589-52cf-8121-c8b38c5e0ddd' => [
-        'Leonardo Fibonacci, the great 13th century Italian mathematician (1175-1250) created the \'Fibonacci sequence\' to explain behavior in nature mathematically. History has it that the first question he posed was how many rabbits would be created in one year starting with one pair.',
-        'Rick Santelli',
+    '7d31f9cf-9885-579c-8977-ae1870eeb5e0' => [
+        'I don\'t think it\'s a good attitude in your life to feel that you have to be rich to have self-esteem.',
+        'Tom Petty',
     ],
-    '6c17db5b-f3cd-5ad5-bbb5-83dad84cc236' => [
-        'I do get to have my normal childhood. I just love to get together with my friends and family and have a good time.',
-        'Austin O\'Brien',
+    '6c002904-5994-5ab8-829e-e6418d078e0a' => [
+        'To be wholly devoted to some intellectual exercise is to have succeeded in life.',
+        'Robert Louis Stevenson',
     ],
-    '205a7dd1-0294-54da-a092-8cdcb2ffb1e7' => [
-        'I\'m obsessed with Nicholas Sparks. I\'ve literally read every single book, because every time I travel, at the airport, I always buy a new Nicholas Sparks book.',
-        'Emma Roberts',
+    '523653d9-c51b-57cc-9436-192b17dd7317' => [
+        'Beauty without grace is the hook without the bait.',
+        'Ralph Waldo Emerson',
     ],
-    '3e04cfa3-eb9b-54a7-9b26-a9302df8b668' => [
-        'There\'s something about the Pacific Northwest, the scale of it, and the fact that not so long ago people came here and died getting here, and then died the first winter they were here. There\'s this breathtaking beauty, just a little bit of moss on the tree, just this little thread of danger, and the sinister. And I really like that.',
-        'Chelsea Cain',
+    '379c5092-0847-5427-b591-b313c3e60aee' => [
+        'I might have some character traits that some might see as innocence or naive. That\'s because I discovered peace and happiness in my soul. And with this knowledge, I also see the beauty of human life.',
+        'Tobey Maguire',
     ],
-    '285b3759-eff3-51fa-825a-cc08b842f307' => [
-        'I like to have Chinese furniture in my home as a constant and painful reminder of how much has been destroyed in China. The contrast between the beauty of the past and the ugliness of the modern is nowhere sharper than in China.',
-        'Jung Chang',
+    'd0b7bcef-eec7-5b70-8261-5e94653ac1d5' => [
+        'Crave for a thing, you will get it. Renounce the craving, the object will follow you by itself.',
+        'Swami Sivananda',
     ],
-    'ba0ad2cd-ae5b-5e75-b4ee-be97ff10741a' => [
-        'Nothing is too wonderful to be true, if it be consistent with the laws of nature.',
-        'Michael Faraday',
+    'b1d45634-d7cf-59ac-8b5e-6b28b3a46742' => [
+        'Where all think alike, no one thinks very much.',
+        'Walter Lippmann',
     ],
-    '9f7c8fe2-21ab-5211-a99a-0286ae3576ca' => [
-        'People think that at the top there isn\'t much room. They tend to think of it as an Everest. My message is that there is tons of room at the top.',
-        'Margaret Thatcher',
+    '9cc604e4-9a12-536e-8e13-eb1bd8e6819b' => [
+        'Don\'t wait. The time will never be just right.',
+        'Napoleon Hill',
     ],
-    'c35afcda-ee77-5315-90a8-a04eb19d3e0f' => [
-        'No matter if you win or lose, the most important thing in life is to enjoy what you have.',
-        'Dalai Lama',
-    ],
-    '4d893c6c-97d0-5c49-bba1-1cc166a2d095' => [
-        'Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.',
-        'Chanakya',
-    ],
-    '7e91f9e1-4fd2-5040-a41f-7878ce729f2d' => [
-        'I just developed my act way back in the late \'80s. I went to college in Georgia, so I picked up the Southern accent. I talked like that with my friends all the time, because it was fun. It was funny... All my friends were real Southern. We\'re buddies, so I\'d say stuff to make them laugh. So that was pretty much it.',
-        'Larry the Cable Guy',
-    ],
-    '50d15c78-a51c-5711-bd8b-91281efb2c17' => [
-        'If you\'re not willing to work hard, let someone else do it. I\'d rather be with someone who does a horrible job, but gives 110% than with someone who does a good job and gives 60%.',
-        'Will Smith',
-    ],
-    '43f47c3e-6b42-507b-8220-95a1e03120e7' => [
-        'Community service has taught me all kinds of skills and increased my confidence. You go out there and think on your feet, work with others and create something from nothing. That\'s what life\'s all about.',
-        'Andrew Shue',
-    ],
-    'd435314a-87c3-541e-a189-710c96308394' => [
-        'Climate change is destroying our path to sustainability. Ours is a world of looming challenges and increasingly limited resources. Sustainable development offers the best chance to adjust our course.',
-        'Ban Ki-moon',
-    ],
-    'b618c332-6117-511f-befc-beac9e4979e5' => [
-        'Most smiles are started by another smile.',
-        'Frank A. Clark',
-    ],
-    '0d265741-0bb5-50d3-a5cb-bf4578489812' => [
-        'I have an unfortunate personality.',
-        'Orson Welles',
-    ],
-    '34499d29-94c0-5154-9888-0c711937dc5e' => [
-        'Human subtlety will never devise an invention more beautiful, more simple or more direct than does nature because in her inventions nothing is lacking, and nothing is superfluous.',
-        'Leonardo da Vinci',
+    'deade189-1fe7-5846-864e-cbefd0458110' => [
+        'No matter how you feel, Get up, dress up, show up and never give up.',
+        'Anonymous',
     ],
 ];

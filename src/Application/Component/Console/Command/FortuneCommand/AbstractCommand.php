@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Console\Command\FortuneCommand;
 
 use Application\Component\Console\Command\AbstractCommand as ParentCommand;
@@ -13,17 +15,17 @@ abstract class AbstractCommand extends ParentCommand
 
     protected const WORDWRAP_MIN      = 5;
 
-    protected $wordwrap;
+    protected $wordwrap = 0;
 
-    protected $length;
+    protected $length   = 0;
 
-    protected $author;
+    protected $author   = '';
 
-    protected $short;
+    protected $short    = false;
 
-    protected $long;
+    protected $long     = false;
 
-    protected function getWordwrapDefault()
+    protected function getWordwrapDefault(): int
     {
         $terminal = new Terminal();
 
@@ -35,63 +37,63 @@ abstract class AbstractCommand extends ParentCommand
             $width = self::TERMINAL_WIDTH;
         }
 
-        return $width;
+        return (int) $width;
     }
 
-    protected function getWordwrap()
+    protected function getWordwrap(): int
     {
         return $this->wordwrap;
     }
 
-    protected function setWordwrap($wordwrap)
+    protected function setWordwrap(int $wordwrap): self
     {
         $this->wordwrap = (int) $wordwrap;
 
         return $this;
     }
 
-    protected function getLength()
+    protected function getLength(): int
     {
         return $this->length;
     }
 
-    protected function setLength($length)
+    protected function setLength(int $length): self
     {
-        $this->length = (int) $length;
+        $this->length = $length;
 
         return $this;
     }
 
-    protected function getAuthor()
+    protected function getAuthor(): string
     {
         return $this->author;
     }
 
-    protected function setAuthor($author)
+    protected function setAuthor(string $author): self
     {
         $this->author = $author;
 
         return $this;
     }
 
-    protected function getShort()
+    protected function getShort(): bool
     {
         return $this->short;
     }
 
-    protected function setShort($short)
+    protected function setShort(bool $short): self
     {
-        $this->short = (bool) $short;
+        $this->short = $short;
 
         return $this;
     }
 
-    protected function getLong()
+    protected function getLong(): bool
     {
         return $this->long;
     }
 
-    protected function setLong($long)
+    protected function setLong(bool $long): self
     {
         $this->long = (bool) $long;
 

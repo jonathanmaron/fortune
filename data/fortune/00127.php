@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '2372c144-ed11-5f58-84fe-98c55bdc1594' => [
-        'Solitude is creativity\'s best friend, and solitude is refreshment for our souls.',
-        'Naomi Judd',
+    '6c90f07f-ddf6-5893-9ca1-cea87d10897a' => [
+        'Time is a dressmaker specializing in alterations.',
+        'Faith Baldwin',
     ],
-    '06372d1d-db00-5518-8eff-118487eaaa9f' => [
-        'I can\'t understand why people are frightened of new ideas. I\'m frightened of the old ones.',
-        'John Cage',
+    '7bd5b7ae-0b51-5e55-bc00-e6e9c47e61e8' => [
+        'Michael Palin decided to give up on his considerable comedy talents to make those dreadfully tedious travel shows. Have you ever tried to watch one?',
+        'John Cleese',
     ],
-    'caaf0006-5b82-5724-868f-3b2435d0255b' => [
-        'You can always tell when a man\'s well informed. His views are pretty much like your own.',
-        'H. Jackson Brown, Jr.',
+    'aca6d4af-6d01-5c15-ac28-77ca6ebf9fb6' => [
+        'An investment in knowledge pays the best interest.',
+        'Benjamin Franklin',
     ],
-    'd80a47d9-d3b2-5279-aa7a-e60716e3090f' => [
-        'I believe life is an intelligent thing: that things aren\'t random.',
-        'Sterling K. Brown',
+    '09b9bee7-f9ef-50f0-a7c8-2e2c5b41b704' => [
+        'There are two ways of spreading light: to be the candle or the mirror that reflects it.',
+        'Edith Wharton',
     ],
-    'f22b81f0-4bec-5459-97ac-98c0849cfe26' => [
-        'Success or failure in business is caused more by the mental attitude even than by mental capacities.',
-        'Walter Scott',
+    '7e7aa42f-b8da-5794-ac53-c0e95a0200ef' => [
+        'It\'s simple, if it jiggles, it\'s fat.',
+        'Arnold Schwarzenegger',
     ],
-    'c7758e3e-ca78-5056-8f75-4b4e8584f925' => [
-        'Just as much as we see in others we have in ourselves.',
-        'William Hazlitt',
+    '2379ab26-d1f1-5111-9fed-ce30a60ff19f' => [
+        'For sheer sexiness, a man must be beautiful. Funny. yes. Clever, no.',
+        'Jilly Cooper',
     ],
-    'ca9437a2-b6a9-566e-b4b0-08c45ce27838' => [
-        'To give anything less than your best, is to sacrifice the gift.',
-        'Steve Prefontaine',
+    '128c617e-deb5-5a53-ba1d-df71f5f3b244' => [
+        'I think it\'s important to have closure in any relationship that ends - from a romantic relationship to a friendship. You should always have a sense of clarity at the end and know why it began and why it ended. You need that in your life to move cleanly into your next phase.',
+        'Marie Curie',
     ],
-    '82accb77-c4bb-553b-af47-a12f45d16845' => [
-        'It is the greatest of all mistakes to do nothing because you can only do little, do what you can.',
-        'Sydney Smith',
+    '74c29fd1-2718-56d1-8244-84d0ea15947d' => [
+        'The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.',
+        'Thomas A. Edison',
     ],
-    '8f630e1c-413a-54f0-9d82-fdb516af7ebe' => [
-        'The very women who object to the morals of a notoriously beautiful actress, grow big with pride when an admirer suggests their marked resemblance to this stage beauty in physique.',
-        'Minna Antrim',
+    '4636822a-52ba-5060-87aa-db838105e2d0' => [
+        'My art is an attempt to reach beyond the surface appearance. I want to see growth in wood, time in stone, nature in a city, and I do not mean its parks but a deeper understanding that a city is nature too-the ground upon which it is built, the stone with which it is made.',
+        'Andy Goldsworthy',
     ],
-    '94434ff6-eb4a-5311-af39-50ba3eeb5de5' => [
-        'Turn your face to the sun and the shadows fall behind you.',
-        'Unknown',
+    '7eaade9b-a04b-5aa9-af30-013abe8b4217' => [
+        'I travel around the world, and there are so many beautiful girls, but that\'s not going to make you a supermodel. You have to have something more than just a pretty face.',
+        'Irina Shayk',
     ],
-    'd191af1e-6f90-5e60-b194-19f4829d2348' => [
-        'If a man neglects education, he walks lame to the end of his life.',
-        'Rosa Parks',
+    'aca28709-0eec-5800-8f8d-738b7aef56ae' => [
+        'Nature hath framed strange fellows in her time.',
+        'William Shakespeare',
     ],
-    '4ee138d9-732e-5058-a9a6-d8850756adc9' => [
-        'Action will remove the doubts that theory cannot solve.',
-        'Tehyi Hsieh',
+    'c7eb66c6-a5d5-5c64-ac12-baf7652ca154' => [
+        'From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.',
+        'Cesar Chavez',
     ],
-    '5ba6a5b2-053e-50cf-93fc-d89d579d34f1' => [
-        'I\'m doing my best to raise my son and give him a nurturing, loving, and caring environment so he can grow up and be the best version of himself.',
-        'Miranda Kerr',
-    ],
-    'c86aa757-dfc7-553f-89be-600aac432b18' => [
-        'Time brings all things to pass.',
-        'Aeschylus',
-    ],
-    '07083037-4cc5-5903-b0a2-b7433d849216' => [
-        'It\'s better for me to play with guys because Rock \'n\' Roll has such an aggressive attitude.',
-        'Lita Ford',
-    ],
-    'a0dfa635-e5ea-5035-a3b4-4788604738ed' => [
-        'The number-one job of the hedge-fund manager is not to make sure that you can retire with a smile on your face - it\'s for him to retire with a smile on his face.',
-        'Mark Cuban',
-    ],
-    '3ed92ff7-6004-5268-8943-aafe2822e6c0' => [
-        'Success is where preparation and opportunity meet.',
-        'Bobby Unser',
-    ],
-    '04f229e1-9f61-5420-b390-f632c271b0b7' => [
-        'Little minds are tamed and subdued by misfortune; but great minds rise above it.',
-        'Washington Irving',
-    ],
-    '17d29c85-1bec-554f-be0b-4416487367de' => [
-        'The best luck of all is the luck you make for yourself.',
-        'Douglas MacArthur',
-    ],
-    'e581c45f-025b-5632-a5c0-6e04a77c05df' => [
-        'Most powerful is he who has himself in his own power.',
-        'Seneca',
-    ],
-    '0500a571-16d1-556c-9a89-9b2117c4e2cd' => [
-        'I think that everything you do helps you to write if you\'re a writer. Adversity and success both contribute largely to making you what you are. If you don\'t experience either one of those, you\'re being deprived of something.',
-        'Shelby Foote',
-    ],
-    'b2b04571-2ddb-5350-9a17-54bba02cbf03' => [
-        'The time for action is now. It\'s never too late to do something.',
-        'Antoine de Saint-Exupery',
-    ],
-    'c8569542-3bcd-5435-bbe5-b034e86a8cb9' => [
-        'True success, true happiness lies in freedom and fulfillment.',
-        'Dada Vaswani',
-    ],
-    '4fa8e8af-9984-5cd4-8475-1d233bfed2cf' => [
-        'Nobody got where they are today by living for tomorrow.',
-        'Jawaharlal Nehru',
-    ],
-    'b4d8b68f-1797-551b-9be4-6fde6650dfa2' => [
-        'I have a very positive attitude in life. My insecurity, fear and need to know about tomorrow has fortunately eased. What is going to happen will happen anyway. So why break my head over it?',
-        'Katrina Kaif',
-    ],
-    'e02a609a-2d6c-5c4a-a32f-6c5ed2cb3a12' => [
-        'I have been known for some time as a person who speaks the truth and speaks it strongly. I have always called a liar a liar and a hypocrite a hypocrite.',
-        'Cindy Sheehan',
-    ],
-    '2f838857-80e9-592e-b4a1-7b5cd7700854' => [
-        'Learn from yesterday, live for today, hope for tomorrow.',
-        'Albert Einstein',
-    ],
-    '48ef8997-80a3-5389-ae54-f2fad7d12786' => [
-        'Death by plane crash scares me. I travel a lot, and when you hit turbulence, and post 9/11, that\'s in the back of my mind a bit.',
-        'Robert Englund',
-    ],
-    '1104ee18-6266-54a0-b5e6-eb318a96c3e7' => [
-        'When Maurice touched a keyboard, it was like something from a movie, magical. He would always give you something from a movie, and you\'d go, what did you just play... immediately inspirational writings, amazing. That\'s what we\'re going to miss.',
-        'Robin Gibb',
-    ],
-    '00ddac06-fb2a-52d2-bf4d-90cb2df7de51' => [
-        'Religion can emerge in all forms of feeling: here wild anger, there the sweetest pain; here consuming hatred, there the childlike smile of serene humility.',
-        'Karl Wilhelm Friedrich Schlegel',
-    ],
-    'b898f804-3099-5e1f-9d32-ddecb2e8e968' => [
-        'London \'Harry Potter\' premieres are very special events: There is this sense of love and ownership and pride, and it\'s just palpable. It\'s a very different feel from an L.A. premiere. It\'s nice to be a part of something that\'s so positive.',
-        'Michael Goldenberg',
-    ],
-    'f41b6532-6f9a-56f0-b60d-756a89509e0a' => [
-        'Radio was my life growing up. Then, I started in our family band with my uncle, my father, my aunt and my little brother. We would go to The Chicken Box and all the bars and play.',
-        'Meghan Trainor',
-    ],
-    '584d8115-1f1a-5adb-925f-2d26527f0af7' => [
-        'Humor is the oxygen of children\'s literature. There\'s a lot of competition for children\'s time, but even kids who hate to read want to read a funny book.',
-        'Sid Fleischman',
-    ],
-    '17bc83d3-cf60-5e3c-b7d6-8e1874a7e587' => [
-        'I don\'t especially like to travel, not the way many people do. I know many people that love to go to far-off and different places, and I\'ve never been like that. I seem to get homesick as quickly as a child.',
-        'Elizabeth Strout',
-    ],
-    'b0473e5e-9e63-5c30-b983-52ebe855b47d' => [
-        'If our nation wants to reduce global warming, air pollution and energy instability, we should invest only in the best energy options. Nuclear energy isn\'t one of them.',
-        'Mark Z. Jacobson',
-    ],
-    '60e284ac-359c-555f-a6a0-2275d3173bc6' => [
-        'I\'ve always had a very positive relationship with the municipal labor unions - a respectful relationship.',
-        'Bill de Blasio',
-    ],
-    'c472ba55-cfa5-58d7-9465-12ccd283ce89' => [
-        'Rarely do members of the same family grow up under the same roof.',
-        'Richard Bach',
-    ],
-    'cd96903a-b078-5ffe-874e-329f18bb04c1' => [
-        'You know, there\'s nothing like seeing the smile on my kids\' faces. Laughing together. Playing. It\'s the best.',
-        'Mark Wahlberg',
-    ],
-    '47749035-ce5f-56a5-960b-aa5376aaca92' => [
-        'You know, I always say white is not a colour, white is an attitude, and if you haven\'t got trillions of dollars in the bank that you don\'t need, you can\'t be white.',
-        'Dick Gregory',
-    ],
-    '373088fe-995a-5cf9-9b22-c9a9b775d920' => [
-        'I used to watch some of the reality shows about models, and then, weirdly, now I try to incorporate into my fashion shoots the skills I learnt from watching those shows. It\'s like, thanks Tyra, \'cause you\'ve given me, like, all the cool tips. Like how to smile with your eyes.',
-        'Rebel Wilson',
-    ],
-    '0f58b0d9-aeee-5123-88ec-5d3e0751a9ed' => [
-        'To destroy is still the strongest instinct in nature.',
-        'Max Beerbohm',
-    ],
-    '25356269-07ea-51dc-91e1-a5c5809ecddd' => [
-        'Success can allow you to try for greatness, can give you an opportunity to take a chance on something. I\'m very blessed to have the success that I\'ve had, and that\'s given me so many opportunities to work on being great.',
-        'Orlando Bloom',
-    ],
-    'a8fa9520-5485-5a9d-892c-86aa4f06e145' => [
-        'Art is the unceasing effort to compete with the beauty of flowers - and never succeeding.',
-        'Gian Carlo Menotti',
+    'ee876027-6f84-5f6c-a16e-6920c16496cf' => [
+        'A child of five would understand this. Send someone to fetch a child of five.',
+        'Groucho Marx',
     ],
     'd3ade769-529f-5b10-8ac3-7ec7e361aa91' => [
         'Rockefeller once explained the secret of success. \'Get up early, work late - and strike oil.\'',
         'Joey Adams',
     ],
-    '45605269-e473-5975-9237-7e442bfdcf75' => [
-        'I wear a necklace, cause I wanna know when I\'m upside down.',
-        'Mitch Hedberg',
+    '8c8e9415-0926-5849-b2de-74fe918797aa' => [
+        'Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose-it teaches you about life.',
+        'Muhammad Ali',
     ],
-    '7832390d-4cca-55f1-9ba0-fccdd262bd55' => [
-        'The destruction of the natural beauty, the ecosystems, and the majesty of mountains affect us in ways we\'re not even aware of. Every time a mountain is beheaded, we chop off a little part of our souls.',
-        'Gloria Reuben',
+    '31c1d486-415b-5528-b28b-cbb027a24040' => [
+        'People feel vulnerable when they travel. Nobody wants to be taken advantage of or talked into something they don\'t want. Staying at Motel 6 makes you feel smarter. In fact, I think it actually means you are smarter, but I have no hard data to support that.',
+        'Tom Bodett',
     ],
-    '74c8109f-ae9b-5d3d-a495-cfc1279e847a' => [
-        'We should be the pro-legal immigration party. A party that has a positive platform and agenda on how we can create a legal immigration system that works for immigrants and works for America.',
-        'Marco Rubio',
+    '8f0342b3-4ab3-5f1b-a0c2-c7b7ed221b18' => [
+        'Every gift from a friend is a wish for your happiness.',
+        'Richard Bach',
     ],
-    'e4a3f8ea-d77b-57c1-9956-acbe17425b18' => [
-        'Organizing is what you do before you do something, so that when you do it, it is not all mixed up.',
-        'A. A. Milne',
+    '73448787-ec84-582c-b152-7bab927e50ec' => [
+        'The American culture promotes personal responsibility, the dignity of work, the value of education, the merit of service, devotion to a purpose greater than self, and at the foundation, the pre-eminence of family.',
+        'Mitt Romney',
     ],
-    '27b689c0-a301-5f3c-973c-3932d165ea51' => [
-        'Patience is a virtue but you will never ever accomplish anything if you don\'t exercise action over patience.',
-        'Byron Pulsifer',
+    'ea54c283-b542-5ea2-8f99-bc7020acb7f1' => [
+        'Do not turn back when you are just at the goal.',
+        'Publilius Syrus',
     ],
-    '96f9bb1b-6efb-564e-95cb-a66c150a62ca' => [
-        'The success of the young entrepreneur will be the key to India\'s transformation in the new millennium.',
-        'Dhirubhai Ambani',
+    '29518666-ef7f-5147-a0f1-3db0226b07a3' => [
+        'We do not see nature with our eyes, but with our understandings and our hearts.',
+        'William Hazlitt',
+    ],
+    '3e11e136-a7e0-56fd-8560-39d5b0f2b80e' => [
+        'When the whole world is silent, even one voice becomes powerful.',
+        'Malala Yousafzai',
+    ],
+    '477d908f-7763-56c9-a5cd-d2cfc6951e22' => [
+        'People are fighting over how our heartsongs are different. But they don\'t need to be the same. That\'s the beauty. We are a mosaic of gifts. Each of us has our inner beauty no matter how we look.',
+        'Mattie Stepanek',
+    ],
+    '552b0650-3dc3-527c-9ffe-46f9a92d9123' => [
+        'Eagles commonly fly alone. They are crows, daws, and starlings that flock together.',
+        'John Webster',
+    ],
+    '018663c0-1a25-54e6-b25a-cb21b38baeef' => [
+        'My grandmother, she\'s been the positive portion of my life the entire time.',
+        'Curtis Jackson',
+    ],
+    '56cd3a20-2f69-5de3-b2a5-a7e6bad53b7e' => [
+        'Venus told me the other day that champions don\'t get nervous in tight situations. That really helped me a lot. I decided I shouldn\'t get nervous and just do the best I can.',
+        'Serena Williams',
+    ],
+    'c69be48d-28c2-5936-a698-45354ef173f1' => [
+        'I am so happy to be alive. That\'s the one thing I\'d like for people to know. Sometimes people walk by and slip up and say the wrong thing about me, and I\'ll smile. They wonder why am I smiling. Because I\'m happy that I\'m alive.',
+        'George Foreman',
+    ],
+    '135ba34e-89c1-5659-884e-2039e994995a' => [
+        'I think exercise tests us in so many ways, our skills, our hearts, our ability to bounce back after setbacks. This is the inner beauty of sports and competition, and it can serve us all well as adult athletes.',
+        'Peggy Fleming',
+    ],
+    '6384fecb-bb13-5bd8-baea-4691e1ec61d1' => [
+        'My character\'s kind of grown up with Katniss. The beginning of the story, they\'re more or less brother and sister than anything. They\'re best friends. They\'ve been keeping each other alive. It\'s a little frustrating, for the character. As the character, not as me.',
+        'Liam Hemsworth',
+    ],
+    'f41d503d-f561-5207-9594-82acfc88adae' => [
+        'When humor can be made to alternate with melancholy, one has a success, but when the same things are funny and melancholic at the same time, it\'s just wonderful.',
+        'Francois Truffaut',
+    ],
+    'b4c9199f-c399-5b08-aeec-71abb0d150b0' => [
+        'I don\'t like it when people say, \'You\'re 45, so you should be wearing X and never Y.\' For me, dressing is about attitude, not age.',
+        'Twiggy',
+    ],
+    '807a60b2-f8c6-5552-9376-43fd6484c184' => [
+        'That\'s the key to success, isn\'t it? It has to be fun.',
+        'Monica Seles',
+    ],
+    'ceb9a3c2-add8-5f94-a0ed-45d9345edd4c' => [
+        'My parents are very proud of my success but still worry, as I\'m in a profession where there is no guarantee of work. They have always supported my decision to go into acting, but there have been tough times work-wise.',
+        'David Harewood',
+    ],
+    'd67b97d7-b6ee-5df1-a9c9-89f2a80970ff' => [
+        'And I have to work so hard at talking positively to myself. If I don\'t, it\'s just real hard to get through the day, and I\'ll get really down, and just want to cry. My whole body language changes. I get more slumped over.',
+        'Delta Burke',
+    ],
+    '83b50336-6203-50e2-a672-0758486581b4' => [
+        'I am just a beginner. The two films so far are baby steps. If I develop an attitude, I\'ll be finished even before I\'ve started. Besides, if I started misbehaving, my folks would give me a tight slap.',
+        'Kriti Sanon',
+    ],
+    '880795fd-817f-57df-ab11-681a5158d454' => [
+        'Nature teaches more than she preaches. There are no sermons in stones. It is easier to get a spark out of a stone than a moral.',
+        'John Burroughs',
+    ],
+    'f1f6447a-4dea-58ba-b4a4-317b9c964e3a' => [
+        'Happiness is not always through success. Equally, the constant pursuit of success is sure unhappiness. But we have to find the balance. My own thoughts are that parenting is very personal. And we all feel enormous insecurity about parenting. What are they going to think of us 20 years down the line?',
+        'Amy Chua',
+    ],
+    '86ba674b-a9c2-5e54-be76-6f5cd3e89c15' => [
+        'We have much to learn by studying nature and taking the time to tease out its secrets.',
+        'David Suzuki',
+    ],
+    '28133fb5-987b-5436-89ca-b24da04d2e4a' => [
+        'Our responsibility is to rally and lead the whole party and the Chinese people of all ethnic groups, take up this historic baton and continue working hard for the great renewal of the Chinese nation, so that we will stand rock firm in the family of nations and make fresh and greater contribution to mankind.',
+        'Xi Jinping',
+    ],
+    'cf1cbb91-ccc4-5f28-9b9d-7104bd0a59f7' => [
+        'We all have life storms, and when we get the rough times and we recover from them, we should celebrate that we got through it. No matter how bad it may seem, there\'s always something beautiful that you can find.',
+        'Walter Payton',
+    ],
+    'c57cebe3-bda9-5236-ab1f-e28b6c5d6caa' => [
+        'To know even one life has breathed easier because you have lived. This is to have succeeded.',
+        'Bessie Anderson Stanley',
+    ],
+    '800ea7b2-ec7b-5f31-99d1-16323ab94bbc' => [
+        'Shoot for the moon and if you miss you will still be among the stars.',
+        'Les Brown',
+    ],
+    '0a0c7218-6a38-5009-9b10-ffe9ccc955ce' => [
+        'I\'ve never found kicks to the groin particularly funny, although recent work in the genre of the buddy movie suggests audience research must prove me wrong.',
+        'Roger Ebert',
+    ],
+    '1e3af9e2-2a56-56b1-aa1e-229ef17cdedd' => [
+        'In the first six to twelve months of a war with the United States and Great Britain I will run wild and win victory upon victory. But then, if the war continues after that, I have no expectation of success.',
+        'Isoroku Yamamoto',
+    ],
+    'b2a906ab-e761-5447-a81e-5a3a6f79b434' => [
+        'Success is 99 percent failure.',
+        'Soichiro Honda',
+    ],
+    '0284ec07-0b1c-5ec1-9853-c54498de0ad0' => [
+        'Smile. It instantly lifts the face, and it just lights up the room.',
+        'Christie Brinkley',
+    ],
+    '31523262-29e1-550a-a6c3-2a46b8619fc0' => [
+        'I find that it\'s best to take one step at a time and cross each bridge as they come to you.',
+        'Michael Stuhlbarg',
+    ],
+    'abd36d67-70e7-56b5-8091-a3f37ecd74e9' => [
+        'There are many positive things to say about the black community. No question about it.',
+        'William Julius Wilson',
+    ],
+    'fcddb5c1-a234-5025-9689-0a9a77153885' => [
+        'Hatred is corrosive of a person\'s wisdom and conscience; the mentality of enmity can poison a nation\'s spirit, instigate brutal life and death struggles, destroy a society\'s tolerance and humanity, and block a nation\'s progress to freedom and democracy.',
+        'Jim Rohn',
+    ],
+    '759ed52f-1ead-51e9-a965-649efb762670' => [
+        'In general, for me, a big thing in my life has been just sort of learning what true self-esteem is and what true positive self-image is. And being a dancer, and growing up in that world, you\'re so focused on yourself, and you\'re so focused on achieving goals, on finding perfection, and working on your craft.',
+        'Jenna Dewan',
+    ],
+    '55fb482c-acac-5576-9c11-84b5171090bc' => [
+        'Some say I\'m an overnight success. Well, that was a very long night that lasted about 10 years.',
+        'Lisa Morton',
     ],
 ];

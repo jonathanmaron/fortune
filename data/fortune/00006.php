@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '663d020f-a500-56d4-ba1f-a3304c04bc87' => [
-        'No thieves, no traitors, no interventionists! This time the revolution is for real!',
-        'Fidel Castro',
+    'e42a8986-b9c4-5d05-bc55-db13061ac83a' => [
+        'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
+        'Jeffrey Gitomer',
     ],
-    'cb4e7d21-429d-5a4a-9e36-9e7621815331' => [
-        'I work really hard at trying to see the big picture and not getting stuck in ego. I believe we\'re all put on this planet for a purpose, and we all have a different purpose... When you connect with that love and that compassion, that\'s when everything unfolds.',
-        'Ellen DeGeneres',
+    'b9bcbf03-043d-5ccf-bb48-3505832ab08d' => [
+        'The worst thing about being the laureate has been the attitude of a tiny minority of adults who haven\'t liked some of the things I\'m supposed to have said and who have used it as an opportunity to be verbally abusive and nasty, but I haven\'t let it rule my world!',
+        'Malorie Blackman',
     ],
-    '3cf8155d-042b-572a-9315-758cf9bba23e' => [
-        'My dad would go to work every day and write in a room full of funny people. He enjoyed it. I know great writers who find the process agonising but to me, writing has always been sheer joy.',
-        'Joss Whedon',
+    'a5228adc-da1c-5741-ac1b-d8a5996a995b' => [
+        'It\'s not the style that motivates me, as much as an attitude of openness that I have when I go into a project.',
+        'Herbie Hancock',
     ],
-    '0608ef6c-4f99-516d-a72b-a16d99da9453' => [
-        'I think the rise of China is one of the great events of all economic and human history, and I think this will be overwhelmingly a positive thing for the region and the world.',
-        'Paul Keating',
+    '4d96a195-5ef6-5d9e-a7e5-d6a7b98ec754' => [
+        'Making money is art and working is art and good business is the best art.',
+        'Andy Warhol',
     ],
-    'd43e2067-0c5e-56fa-8c1c-55125f09ba2d' => [
-        'Do not waste time dreaming of great faraway opportunities; do the best you can where you are. Open your petals of power and beauty and fling out the fragrance of your life in the place that has been assigned to you.',
-        'Orison Swett Marden',
+    '9929aa0c-b01d-57e8-8658-c5247d5f49b3' => [
+        'The positive and negative poles of a battery create an electrical flow. The masculine and feminine poles between people create a flow of sexual energy in motion.',
+        'David Deida',
     ],
-    'dfec7826-6b32-5c20-bfb9-621e8b769562' => [
-        'You cannot travel the path until you have become the path itself.',
-        'Buddha',
+    '6435c7b6-ae92-53f1-9857-b482949e4283' => [
+        'The goal is not to get rich. The goal is to live rich.',
+        'Darren Hardy',
     ],
-    '778356a8-7ba8-5216-a0f0-427fbb1c0271' => [
-        'One does not discover new lands without consenting to lose sight of the shore for a very long time.',
-        'Andre Gide',
+    'd95b9899-593f-511d-8a43-77589da3d0a3' => [
+        'I think a lot of the American people feel more than a little disappointed that the high-water mark for human exploration was 1969. The dream of human space travel has almost died for a lot of people.',
+        'Elon Musk',
     ],
-    '3acce88a-97f9-5afb-8bae-66672a3d23b8' => [
-        'As my father used to tell me, the only true sign of success in life is being able to do for a living that which makes you happy.',
-        'Al Yankovic',
+    'c1498fb0-12ae-5e50-855d-fa2c37b4cf8c' => [
+        'There\'s only one growth strategy: work hard.',
+        'William Hague',
     ],
-    'a99df3f2-6873-5b75-b2f4-e113158a7c61' => [
-        'I\'m ephemeral as much as I can be, so I started to think about the idea of not working. It\'s really about a change of attitude. It\'s not so much about stopping, but about re-thinking the meaning of one\'s production.',
-        'Rirkrit Tiravanija',
+    '667773b5-d9f4-5c09-9b8c-1c29b4b025ff' => [
+        'Whenever I run into prejudice. I smile and feel sorry for them, and I say to myself, There\'s one more argument for birth control.',
+        'Freddy Fender',
     ],
-    '220667ba-543c-56e5-b59b-cdc119fb1369' => [
-        'I like trees because they seem more resigned to the way they have to live than other things do.',
-        'Willa Cather',
+    '5ab097dd-91b9-52bd-ab35-662752502bfe' => [
+        'The only thing to do with good advice is to pass it on. It is never of any use to oneself.',
+        'Oscar Wilde',
     ],
-    '21bedb27-2b1b-50e0-afe9-6f3a969bbd32' => [
-        'If you wish to be a success in the world, promise everything, deliver nothing.',
-        'Napoleon Bonaparte',
+    'af216ed1-8d0b-5ea0-bba8-83c2e1885cec' => [
+        'I follow three rules: Do the right thing, do the best you can, and always show people you care.',
+        'Lou Holtz',
     ],
-    'bf57d452-d2d4-57cf-a4cb-d4d3b92ba359' => [
-        'What you do today can improve all your tomorrows.',
-        'Ralph Marston',
+    'a3d32954-4bc2-5066-8d93-dbea82f20aec' => [
+        'I have a simple philosophy: Fill what\'s empty. Empty what\'s full. Scratch where it itches.',
+        'Leonardo DiCaprio',
     ],
-    'f5bc9101-fc2a-530a-bc2f-089625c6e0ff' => [
-        'The superior man is modest in his speech, but exceeds in his actions.',
-        'Confucius',
+    'fe3adb65-d21b-5d4f-902a-6806daf6c12a' => [
+        'The travel and tourism industry, it\'s just a huge part of our economy.',
+        'Karen Hughes',
     ],
-    '8360f7fa-4c73-5fac-8cd5-7a1bf53cc0f7' => [
-        'Kindness, I\'ve discovered, is everything in life.',
-        'Charlie Chaplin',
+    '4e7102ad-82fd-5252-a157-0c9b4f4bcd81' => [
+        'Everyone has attitude, and I think everyone should have attitude. But I know I have attitude, but that\'s just, I think if you don\'t have attitude, it comes only with self confidence. So if you don\'t have self confidence, you won\'t have attitude, and I think there\'s a difference when you have attitude and when you have arrogance.',
+        'Sania Mirza',
     ],
-    '5abd950a-0adb-5fc3-b094-898f642c9ca2' => [
-        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased.',
-        'Alexander Hamilton',
+    '53668a03-362a-56d8-a452-fd293fefe522' => [
+        'You know you\'ve reached true success the day you become truly humble. That\'s the day you stop needing to prove to the world - and yourself - that you\'ve accomplished something meaningful.',
+        'Naveen Jain',
     ],
-    '1f459d5c-043b-5684-a7f4-5c57fa9bfaf4' => [
-        'Twilight - a time of pause when nature changes her guard. All living things would fade and die from too much light or too much dark, if twilight were not.',
-        'Howard Thurman',
+    'e0a7caf9-eb83-5a81-9abd-8f41f92c4a74' => [
+        'Parents are the last people on earth who ought to have children.',
+        'Samuel Butler',
     ],
-    '04c17672-a886-5a36-83dd-89a45524e053' => [
-        'Better to do something imperfectly than to do nothing flawlessly.',
+    'bf499974-0180-5d57-a3a6-c99d48c5bff9' => [
+        'I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.',
+        'Og Mandino',
+    ],
+    'ef31f784-70ba-556f-9769-f1df1cbd9749' => [
+        'The taxpayer - that\'s someone who works for the federal government but doesn\'t have to take the civil service examination.',
+        'Ronald Reagan',
+    ],
+    '0a683024-4491-5784-b8c8-33ddfc6d25e8' => [
+        'If you really want to be world class - to be the best you can be - it comes down to preparation and practice.',
+        'Robin S. Sharma',
+    ],
+    '3f03abda-1db8-505f-a383-7d8177d181fb' => [
+        'Your heart is full of fertile seeds, waiting to sprout.',
+        'Morihei Ueshiba',
+    ],
+    '7920486b-c288-5d9f-9f22-9b5f78c2accc' => [
+        'What great thing would you attempt if you knew you could not fail?',
         'Robert H. Schuller',
     ],
-    '52741f4b-5ddc-5749-b524-56251e3fad77' => [
-        'Your positive action combined with positive thinking results in success.',
-        'Shiv Khera',
+    '5140cb7d-d9e1-589b-b948-bce88b35a11c' => [
+        'Work hard, stay positive, and get up early. It\'s the best part of the day.',
+        'George Allen, Sr.',
     ],
-    '743b4e59-e8cd-5073-83dd-41713f65042e' => [
-        'The manic pursuit of success cost me everything I could love: my wife, my three children, some friends I would have liked to grow old with.',
-        'Sammy Davis, Jr.',
+    'ebea8620-41ff-5fc1-8fc2-4e1d80a91aed' => [
+        'The heroines in \'That\'s What She Said\' are flawed, messy, damaged, hilarious and culpable and not really concerned about being acceptable to the audience in any traditional sense, which for me is what makes them all the more gorgeous. And the fearless truth of that is what makes it funny.',
+        'Carrie Preston',
     ],
-    'cb42646e-d644-5310-ba16-f6bb2309f931' => [
-        'Success is not forever and failure isn\'t fatal.',
-        'Don Shula',
+    '54d639da-bb20-568d-9633-780ecdfc457a' => [
+        'The sacrifices made by veterans and their willingness to fight in defense of our nation merit our deep respect and praise - and to the best in benefits and medical care.',
+        'Sue Kelly',
     ],
-    'bb7da54d-b688-5cf4-8155-948368a9ae79' => [
-        'I am much pleased to find how very well I stand work &amp; how my powers of attention &amp; continued effort increase.',
-        'Ada Lovelace',
+    '33cdccd7-f1f0-504f-9f72-144c55e9d651' => [
+        'The laissez-faire attitude to science education has resulted in a disaster exemplified by the fact that more young people are opting for media studies than physics.',
+        'Harry Kroto',
     ],
-    'cf6b9c38-b874-5ebd-8606-2819397f5b47' => [
-        'For me, personally, life in South Africa had come to an end. I had been lucky in some of the whites I had met. Meeting them had made a straight \'all-blacks-are-good, all-whites-are-bad\' attitude impossible. But I had reached a point where the gestures of even my friends among the whites were suspect, so I had to go or be forever lost.',
-        'Peter Abrahams',
+    '05355ed5-4d38-5281-8616-add86c62edd4' => [
+        'I think that business book reporting, it\'s all Jim Collins, it\'s the story of victory; it\'s success bias over and over again.',
+        'Ben Horowitz',
     ],
-    '338ca09d-c0c2-52a2-8d9f-09974be89e60' => [
-        'I want a man who isn\'t questioning who he is. I want a man to be able to stand next to me and not disappear and not be emasculated by my success.',
-        'Jessica White',
+    '0fade842-3b66-5930-9b76-738f9fbe7684' => [
+        'Sometimes sushi is just superb, and other times there\'s nothing like a great big steak. It depends where your taste buds are at the time.',
+        'Francesca Annis',
     ],
-    'ce2c32a2-f23d-5e25-bc8c-15be935fc65c' => [
-        'The countries who do the best in international comparisons, whether it\'s Finland or Japan, Denmark or Singapore, do well because they have professional teachers who are respected, and they also have family and community which support learning.',
-        'Howard Gardner',
+    '73e57071-bc94-5254-a8b7-2a03f9b7dfa1' => [
+        'I want to see friends more and travel more.',
+        'Jennifer Aniston',
     ],
-    'f35e24e3-f828-53ab-ad74-f91208dfac7f' => [
-        'Unemployment is capitalism\'s way of getting you to plant a garden.',
-        'Orson Scott Card',
+    'e785ae4b-31e3-5388-8357-a9d424152d23' => [
+        'A lot of punk rock is not going to be in the mainstream. It\'s below the radar. The beauty of it is that you\'re not supposed to always know. It\'s subterranean.',
+        'Billie Joe Armstrong',
     ],
-    'cbaf3d4e-dc5d-58ea-9698-bd99124e72b1' => [
-        'I am only one, but I am one. I cannot do everything, but I can do something. And I will not let what I cannot do interfere with what I can do.',
-        'Edward Everett Hale',
+    'faf30895-3bfe-5a29-b9ed-a61faea076d0' => [
+        'Space travel is the only technology that is more dangerous and more expensive now than it was in its first year. Fifty years after Yuri Gagarin, the space shuttle ended up being more dangerous and more expensive to fly than those first throwaway rockets, even though large portions of it were reusable. It\'s absurd.',
+        'Burt Rutan',
     ],
-    '17b530ff-82c3-5e3e-a610-bcb6d939b899' => [
-        'In matters of conscience, first thoughts are best. In matters of prudence, last thoughts are best.',
-        'Robert Hall',
+    '772aabfc-65b0-5085-b8c1-52f69259b36a' => [
+        'Success isn\'t a result of spontaneous combustion. You must set yourself on fire.',
+        'Arnold H. Glasow',
     ],
-    '171c18fe-fee4-5e09-8e83-d16bc1ac7cb9' => [
-        'A government that robs Peter to pay Paul can always depend on the support of Paul.',
-        'George Bernard Shaw',
+    'db2948ca-c87c-5038-83f8-2ef6556a65ab' => [
+        'The beauty comes with the balance. Everyone should find his own balance in his personal as well as his professional life. Once you do so, you will feel and look beautiful.',
+        'Karolina Kurkova',
     ],
-    '968d2dd1-372d-55d4-92a7-7fa4b210e433' => [
-        'Art is beauty, the perpetual invention of detail, the choice of words, the exquisite care of execution.',
-        'Theophile Gautier',
+    '21adf302-fab7-5653-a52a-21990c78941d' => [
+        'Don\'t wait to be successful at some future point. Have a successful relationship with the present moment and be fully present in whatever you are doing. That is success.',
+        'Eckhart Tolle',
     ],
-    'b889e0e6-9f60-5043-b122-f3af17dcc2c5' => [
-        'I wouldn\'t call myself successful, just obsessively exhausted. The music makes me smile, the movies make me feel humbled, and the comedy saves my life every day.',
-        'Vir Das',
+    '46aa4052-78a3-5874-ae1a-304480a77a7d' => [
+        'Prejudice is a great time saver. You can form opinions without having to get the facts.',
+        'E. B. White',
     ],
-    'a96cce8f-7c8b-5bbd-9585-a0c7fa518829' => [
-        'It is surprising what a man can do when he has to, and how little most men will do when they don\'t have to.',
-        'Walter Linn',
+    '4848eaa7-90d3-5f65-8b58-4f79e166a2ad' => [
+        'What has been happening more lately - of course, I also put in my bio, I say I do the voice of Goliath, but some people go - you know, I say something, and it\'s a funny thing when you work in this business, people will talk out loud in front of you like you\'re not there.',
+        'Keith David',
     ],
-    'cf1dc80f-4455-5388-ac74-d8ab45326c91' => [
-        'Silence is a true friend who never betrays.',
-        'Confucius',
+    '80490161-d982-5a99-9445-4f9170df9fbf' => [
+        'Don\'t get me wrong, I admire elegance and have an appreciation of the finer things in life. But to me, beauty lies in simplicity.',
+        'Henry David Thoreau',
     ],
-    '16ba1f4a-09d0-52d9-81c9-144ef8b49ff3' => [
-        'Whatever you do, do with determination. You have one life to live; do your work with passion and give your best. Whether you want to be a chef, doctor, actor, or a mother, be passionate to get the best result.',
-        'Alia Bhatt',
+    'a041e5db-2908-5ff6-888f-edba81e40e21' => [
+        'Epilepsy is a disease in the shadows. Patients are often reluctant to admit their condition - even to close family, friends or co-workers - because there\'s still a great deal of stigma and mystery surrounding the disease that plagued such historical figures as Julius Caesar, Edgar Allan Poe and Lewis Carroll.',
+        'Lynda Resnick',
     ],
-    '7d05bb3b-9c1a-5853-b222-844f42b555e6' => [
-        'I do not share the half-in, half-out attitude to the EU of some in Britain. Britain\'s place is in Europe.',
-        'Peter Mandelson',
+    '52f53895-1222-5db8-bad3-438746d36373' => [
+        'I am able to ride the bike and think clearly about strategy and tyres. I also have positive thinking. I am very constructively critical.',
+        'Valentino Rossi',
     ],
-    '3473a87d-9769-55b8-b548-5ee154d8f181' => [
-        'The person who makes a success of living is the one who sees his goal steadily and aims for it unswervingly.',
-        'Cecil B. DeMille',
+    'dfb7d6a4-701d-572b-af5d-ea4acec811d6' => [
+        'The quality, not the longevity, of one\'s life is what is important.',
+        'Tucker Max',
     ],
-    '2475c2c4-82e9-583b-8ab2-e40ee8e1b4dc' => [
-        'Super-ambitious goals tend to be unifying and energizing to people; but only if they believe there\'s a chance of success.',
-        'Peter Diamandis',
+    'ceee7d60-4c2b-5dbc-ab46-c02541ef8462' => [
+        'The truth of the matter is that you always know the right thing to do. The hard part is doing it.',
+        'Norman Schwarzkopf',
     ],
-    'd1af236c-5d66-545b-b52d-c3404b4ced19' => [
-        'I love nerds. Comic-Con junkies are the tastemakers of tomorrow. Isn\'t that funny? The tables have turned.',
-        'Kristen Bell',
+    '6b45437a-7c26-5247-8f76-bab6f298e9ac' => [
+        'Let me tell you something - being thought of as a beautiful woman has spared me nothing in life. No heartache, no trouble. Love has been difficult. Beauty is essentially meaningless and it is always transitory.',
+        'Halle Berry',
     ],
-    '6a39ed65-4ac2-5053-b18f-fdbb131fe76f' => [
-        'Without health life is not life; it is only a state of langour and suffering - an image of death.',
-        'Kenneth Branagh',
+    '518ffde9-f89a-596d-aa58-1955448649c0' => [
+        'Live as if you were living a second time, and as though you had acted wrongly the first time.',
+        'Viktor E. Frankl',
     ],
-    '713a079d-46c8-56cb-8fe8-72fbff9c33d8' => [
-        'The beauty of an art project is that you cannot always measure the impact, but one day it can become clear.',
-        'JR',
+    '816259fd-5979-5a6f-ba64-1f2dd00b719f' => [
+        'The best partnerships aren\'t dependent on a mere common goal but on a shared path of equality, desire, and no small amount of passion.',
+        'Sarah MacLean',
     ],
-    'fc82c27d-61f5-5d04-b7bb-ae1c076beb80' => [
-        'I\'m lucky to be part of a team who help to make me look good, and they deserve as much of the credit for my success as I do for the hard work we have all put in on the training ground.',
-        'Lionel Messi',
+    'cd7240ab-6d0f-5b93-bfc8-5d8d7017a419' => [
+        'The creed of a true saint is to make the best of life, and to make the most of it.',
+        'Edwin Hubbel Chapin',
     ],
-    'd55cac76-28da-5866-899f-1ca5d73869cb' => [
-        'We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.',
-        'Barbara De Angelis',
+    '1160c2ba-dd56-5146-994a-144fda6bb9a6' => [
+        'Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.',
+        'Ralph Waldo Emerson',
     ],
-    'c7466fd7-45ac-5777-af3b-be912c5b9b0e' => [
-        'Donald Evans is a favorite person of mine. His worth ethic, his attitude and his dedication really set him apart.',
-        'Joe Greene',
+    'a5f14706-4f43-547c-8903-1ce2e728abbb' => [
+        'When I first began choreographing, I never thought of it as choreography but as expressing feelings. Though every piece is different, they are all trying to get at certain things that are difficult to put into words. In the work, everything belongs to everything else - the music, the set, the movement and whatever is said.',
+        'Pina Bausch',
     ],
-    '44934dab-6676-52e3-a29e-c7f7efa61002' => [
-        'My attitude is, do as much as I can while I\'m free. And if I\'m arrested I\'ll still do as much as I can.',
-        'Aung San Suu Kyi',
+    '0ba75124-a6db-5998-81cc-e559d0b84542' => [
+        'Success is very ephemeral. You depend entirely on the desire of others, which makes it difficult to relax.',
+        'Eva Green',
     ],
-    '7d71f62f-6ff8-5575-bad7-ef1d247f8c0f' => [
-        'One of the key elements of human behavior is, humans have a greater fear of loss than enjoyment of success. All the academic studies will show you that the fear of loss of capital is far greater than the enjoyment of gains.',
-        'Laurence D. Fink',
+    'd6f3d42d-8cc9-5d98-b5ab-ea33e5ec200d' => [
+        'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
+        'Vincent Van Gogh',
     ],
-    '657cd2bb-8a9f-5eed-9f39-956d8c08c9d8' => [
-        'When a law is in its nature a contract, when absolute rights have vested under that contract, a repeal of the law cannot divest those rights.',
-        'John Marshall',
+    '754aaa90-9168-55e6-ac50-6127240af70d' => [
+        'He who deliberates fully before taking a step will spend his entire life on one leg.',
+        'Chinese proverb',
     ],
-    'a08eb9b9-fbf7-5d85-ae8b-35bdb30f160a' => [
-        'I still have a young attitude.',
-        'Pat Morita',
-    ],
-    '802a2bb8-2779-597d-887c-2d1c38169fd4' => [
-        'I always work with a goal - and the goal is to improve as a player and a person. That, finally, is the most important thing of all.',
-        'Rafael Nadal',
-    ],
-    'ac46a802-c3a2-52a8-9f65-b806085fbf0e' => [
-        'Jazz music is America\'s past and its potential, summed up and sanctified and accessible to anybody who learns to listen to, feel, and understand it. The music can connect us to our earlier selves and to our better selves-to-come. It can remind us of where we fit on the time line of human achievement, an ultimate value of art.',
-        'Wynton Marsalis',
-    ],
-    '24dbaa74-15ff-5362-9696-75c1a5aaa326' => [
-        'May Heaven be propitious, and smile on the cause of my country.',
-        'Zebulon Pike',
-    ],
-    'c312ddbd-1a4e-59eb-8ee3-8fd1f2858f72' => [
-        'I just want to put some positive stuff out there. If it works, great. If it doesn\'t, no problem.',
-        'Kevin James',
+    'a547f629-f9f0-5880-b24a-cce1829276fa' => [
+        'I wake up each and every day with a smile on my face knowing I get to do something musically.',
+        'Two Chainz',
     ],
 ];

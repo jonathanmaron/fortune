@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'df15bab1-a150-5794-8819-61b962f709e0' => [
-        'Properly used, positive reinforcement is extremely powerful.',
-        'B. F. Skinner',
+    'd59a0380-4a96-512e-9f39-4927622c7744' => [
+        'You will always have ups and downs in your life and your career, but just stay positive and go for it.',
+        'Angelique Kerber',
     ],
-    '9a568933-4726-5b84-beb3-153e972bfd12' => [
-        'Negative freedom is freedom from - freedom from oppression, whether it\'s a colonial power or addiction to alcohol oppressing you. You need to be freed from negative freedom. Positive freedom is freedom for, freedom to be. And that\'s what\'s routinely ignored today.',
-        'Os Guinness',
+    'f47f4923-116f-566c-89c5-fe77a732e227' => [
+        'Don\'t watch the clock; do what it does. Keep going.',
+        'Sam Levenson',
     ],
-    '54ecdd87-73ed-5b01-9249-0d3e456694a7' => [
-        'God has already done everything He\'s going to do. The ball is now in your court. If you want success, if you want wisdom, if you want to be prosperous and healthy, you\'re going to have to do more than meditate and believe; you must boldly declare words of faith and victory over yourself and your family.',
-        'Joel Osteen',
+    '902f13ce-0f7f-5347-97ad-26fa2e385aee' => [
+        'I love all my fam. I have quite possibly the best dad, mom, and sister in the world.',
+        'Ryan Eggold',
     ],
-    '12e94540-4313-5c2c-830b-13bb49968e41' => [
-        'Don\'t judge each day by the harvest you reap but by the seeds you plant.',
-        'Robert Stevenson',
+    'bc037bb2-bdb3-5388-bab9-1d8967ce0f12' => [
+        'If you ask me what I came into this life to do, I will tell you: I came to live out loud.',
+        'Emile Zola',
     ],
-    'd5db4819-f6d1-5a55-8851-c663d6414c1a' => [
-        'The best thing to do when you find yourself in a hurting or vulnerable place is to surround yourself with the strongest, finest, most positive people you know.',
-        'Kristin Armstrong',
+    'f618432d-7126-5ca9-80e8-777f71d6d4a0' => [
+        'Social media is something of a double-edged sword. At its best, social media offers unprecedented opportunities for marginalized people to speak and bring much needed attention to the issues they face. At its worst, social media also offers \'everyone\' an unprecedented opportunity to share in collective outrage without reflection.',
+        'Roxane Gay',
     ],
-    'acb479ce-47f6-5eb0-a431-d2f36daf62ec' => [
-        'In 1985, I was living with my sister in Virginia, and since I was still in high school, I worked at McDonald\'s to save money to get an abortion. It sounds really terrible, but it was the best decision I ever made. It was the first time I took responsibility for my actions. I messed up, had sex without contraception, and got pregnant at 15.',
-        'Kathleen Hanna',
+    'da59a008-9dcc-5994-8f0d-aca9155747b0' => [
+        'I\'m not that good looking. That\'s why \'Gangnam Style\' works. If someone handsome uses that phrase it\'s just awkward. But if someone like me uses it, it\'s funny.',
+        'Psy',
     ],
-    '2d080d09-28d2-5697-89a6-f0203442776f' => [
-        'Luxury is the wolf at the door and its fangs are the vanities and conceits germinated by success. When an artist learns this, he knows where the danger is.',
-        'Tennessee Williams',
+    '28cc448b-7586-5126-af58-bcc07695862f' => [
+        'They say marriages are made in Heaven. But so is thunder and lightning.',
+        'Clint Eastwood',
     ],
-    'ae6476e7-0e76-5f84-abfd-8d4583de52e4' => [
-        'The cat is such a perfect symbol of beauty and superiority that it seems scarcely possible for any true aesthete and civilised cynic to do other than worship it.',
-        'H. P. Lovecraft',
+    'a30b7b71-0ead-5617-9082-62be0b2ccf08' => [
+        'Defy your own group. Rebel against yourself.',
+        'Cathy Guisewite',
     ],
-    'ceb9a3c2-add8-5f94-a0ed-45d9345edd4c' => [
-        'My parents are very proud of my success but still worry, as I\'m in a profession where there is no guarantee of work. They have always supported my decision to go into acting, but there have been tough times work-wise.',
-        'David Harewood',
+    '245502b4-274d-5ab6-86e5-0c2b057bda7a' => [
+        'I don\'t want to achieve immortality through my work. I want to achieve it through not dying.',
+        'Woody Allen',
     ],
-    'db19ca68-26f2-58c2-a9f8-9c209338d696' => [
-        'To finally become world champion after losing out in three previous finals is very satisfying. It shows that if you stick to your goals and work hard, you can achieve them in the end.',
-        'Nicola Adams',
+    'e9c621e8-a86b-5611-bf1f-4a56c8b73db0' => [
+        'Through the eight books in \'The Treasure Chest\' series, readers will meet twins Maisie and Felix and learn the secrets and rules of time travel, where they will encounter some of these famous and forgotten people. In Book 1, Clara Barton, then Alexander Hamilton, Pearl Buck, Harry Houdini, and on and on.',
+        'Ann Hood',
     ],
-    '74d885ee-c387-5106-b317-0dadb731a343' => [
-        'As you grow older, you learn a few things. One of them is to actually take the time you\'ve allotted for vacation.',
-        'John Battelle',
+    'd6b5d342-f62c-5073-807e-557116060ac5' => [
+        'High Romanticism shows you nature in all its harsh and lovely metamorphoses. Flood, fire and quake fling us back to the primal struggle for survival and reveal our gross dependency on mammoth, still mysterious forces.',
+        'Camille Paglia',
     ],
-    'eeffb245-848b-5e02-9834-6fa1855be8e6' => [
-        'Survival was my only hope, success my only revenge.',
-        'Patricia Cornwell',
+    '82697114-b85c-5be2-927a-d59705a4145b' => [
+        'Rio is an energetic, vibrant place, full of beauty and nature. But we face the kinds of problems any developing metropolis does - with pollution, traffic congestion, poverty. Distribution of green areas, for example, is not uniform. Madureira, the heart of the suburb in Rio, is a concrete jungle.',
+        'Eduardo Paes',
     ],
-    '367ffc58-a35d-5d5b-a8cb-73602d196e9e' => [
-        'I think my philosophy in music has been to accentuate the positive.',
-        'Mike Love',
+    'e94f92ac-00f4-5474-b0dd-c52bb87cd336' => [
+        'Even Napoleon had his Watergate.',
+        'Yogi Berra',
     ],
-    '6c589303-b758-5def-bff8-76f254ba8a09' => [
-        'Memories are the best things in life, I think.',
-        'James Rollins',
+    '18e49a89-3dcc-527c-b065-22dfc0437f60' => [
+        'A lot of people in my family have high blood pressure. Dre told me I better start hitting the gym... so I took his advice.',
+        'Warren G',
     ],
-    '12cdc571-a45b-5c87-bf71-59daadd783ee' => [
-        'When you love someone, the best thing you can offer is your presence. How can you love if you are not there?',
-        'Thich Nhat Hanh',
+    '4fd8c7fd-4ffe-5c81-9515-cbda0865af63' => [
+        'Good actions give strength to ourselves and inspire good actions in others.',
+        'Plato',
     ],
-    '8222cb97-08ac-590e-97a4-26630cbbed00' => [
-        'I begin with an idea and then it becomes something else.',
-        'Pablo Picasso',
+    '60eea8e1-2881-5f8a-a48d-693611f11f6b' => [
+        'Certain kinds of speed, flow, intensity, density of attacks, density of interaction... Music that concentrates on those qualities is, I think, easier achieved by free improvisation between people sharing a common attitude, a common language.',
+        'Evan Parker',
     ],
-    '623336a3-a75c-5f43-97b3-5596fe2bc04f' => [
-        'You\'ve got to know what you want. This is central to acting on your intentions. When you know what you want, you realize that all there is left then is time management. You\'ll manage your time to achieve your goals because you clearly know what you\'re trying to achieve in your life.',
-        'Patch Adams',
+    'f47725ce-4615-59ea-ab54-7ee49c19e59b' => [
+        'What you do on travel holiday is what your memories are based on. People want to do cool stuff, and this is what will shape your entire experience.',
+        'Ruzwana Bashir',
     ],
-    'e2d0565c-ef0e-57f4-9d71-8a25a5d62c03' => [
-        'Think of success as a game of chance in which you have control over the odds. As you begin to master concepts in personal achievement, you are increasing your odds of achieving success.',
-        'Bo Bennett',
+    '58b504fc-ae82-5291-a3df-a75dfbd8ffe6' => [
+        'Both of our children are adopted, and my wife and I didn\'t go out of ways to find kids that looked like us. We were just happy to have some kids. And people tell me all the time that they look like us, and that\'s because they learn to smile and laugh and move their head a certain way from studying their parents\' faces.',
+        'John Wells',
     ],
-    '73374137-c05f-55d5-97c2-62199d05bde1' => [
-        'Human nature is not black and white but black and grey.',
-        'Graham Greene',
+    'dff5f30d-687e-55e5-b15f-3275ed57f12d' => [
+        'At the end of the day, the most overwhelming key to a child\'s success is the positive involvement of parents.',
+        'Jane D. Hull',
     ],
-    'c39f142e-e300-5d89-993d-3ee40d027530' => [
-        'By nature, I really am a fairly bouncy and sunny individual.',
-        'Julie Andrews',
+    'cc4b629b-2afd-5f56-b2b8-673411ee98ff' => [
+        'Providing patients and consumers with solid information on the cost and quality of their healthcare options can literally make the difference between life or death; and play a decisive role in whether a family or employer can afford healthcare.',
+        'Timothy Murphy',
     ],
-    'ade73e47-e2b2-55bb-863f-89597580ba23' => [
-        'I believe with great fortunes come great responsibility, so with our family\'s assets and many wealthy friends, we could help raise a lot of money to help others.',
-        'Eric Trump',
+    'ae33e751-5f5b-5e18-9229-fce738c193dd' => [
+        'If you want to become a great chef, you have to work with great chefs. And that\'s exactly what I did.',
+        'Gordon Ramsay',
     ],
-    'c2b1ba82-4792-5880-abca-a20bfafc22b3' => [
-        'People always ask me, \'Were you funny as a child?\' Well, no, I was an accountant.',
-        'Ellen DeGeneres',
+    '99d736a7-533c-5c7a-97a8-b984d9b43477' => [
+        'I quite like the idea of family. That\'s probably the greatest achievement in the world. I\'ve got a lot to achieve workwise - I\'d love to direct - but family would be good.',
+        'Matt Smith',
     ],
-    '7587e01b-7b2f-5295-896a-f936d22ca5ba' => [
-        'I travel the world visiting global health programs as an ambassador for the global health organization, PSI, and sometimes the disconnect I see is truly striking: people can get cold Coca Cola, but far too infrequently malaria drugs; most own mobile phones, but don\'t have equal access to pre-natal care.',
-        'Mandy Moore',
+    '2a8ac7fc-f215-5679-9bf7-41572765cb95' => [
+        'It\'s very hypocritical to constantly say, \'We want to keep our kids close,\' then send them home with so much homework that family time becomes nonexistent.',
+        'Marcia Gay Harden',
     ],
-    'bc4d31f7-699f-54ae-b7b8-2cbfb3798613' => [
-        'Success cannot come from standstill men. Methods change and men must change with them.',
-        'James Cash Penney',
+    'e81aa55d-2f1d-5f99-b401-7e6239dd51b6' => [
+        'I\'m a workhorse. I\'ll take anything and everything I can get, and I\'ll do it with a smile on my face.',
+        'Roman Reigns',
     ],
-    'dd3b7fd3-d45e-5513-bf08-ecb072a5dab3' => [
-        'To measure the success of our societies, we should examine how well those with different abilities, including persons with autism, are integrated as full and valued members.',
-        'Ban Ki-moon',
+    '928f304d-f48c-5952-9b86-1631024903ab' => [
+        'There is no way to prosperity, prosperity is the way.',
+        'Wayne Dyer',
     ],
-    'cf61a2a2-e694-5226-8543-a02a76acdd66' => [
-        'Love is what really fuels you, and that goes for relationships with a spouse or with family. Love is a beautiful thing.',
-        'Christina Milian',
+    'f3847a77-a47f-5c1f-a2c5-96496c3acefe' => [
+        'I don\'t have a very positive attitude towards rappers.',
+        'Miriam Margolyes',
     ],
-    'f5f75734-aeab-5cf0-8141-b25dfaf53b79' => [
-        'The secret of success is constancy to purpose.',
-        'Benjamin Disraeli',
+    '03c6220f-05b7-5a41-a240-070ba33c7b85' => [
+        'The harder you fall, the higher you bounce.',
+        'Unknown',
     ],
-    'da150c76-58e0-5970-b899-2d774fbaeef3' => [
-        'What is success? It is a toy balloon among children armed with pins.',
-        'Gene Fowler',
+    'e7024f1d-749a-5eb9-b124-e6ece65ff408' => [
+        'Beauty is a gift, just like good health or intelligence. The only thing is not to be proud of being beautiful. Because you didn\'t do anything - it was given to you.',
+        'Monica Bellucci',
     ],
-    '2758b48e-6ace-55c9-9c1a-838f76d6c618' => [
-        'A bad manner spoils everything, even reason and justice; a good one supplies everything, gilds a No, sweetens a truth, and adds a touch of beauty to old age itself.',
-        'Baltasar Gracian',
+    'd6f71f39-8ef9-562d-83c3-8f8816f8646d' => [
+        'The best way to avoid falling prey to the opinions of others is to realize that other people\'s opinions are just that - opinions. Regardless of how great or terrible they think you are, that\'s only their opinion. Your true self-worth comes from within.',
+        'Travis Bradberry',
     ],
-    'f1e57bd5-40a4-5306-bf46-a651a27dac12' => [
-        'Respectable means rich, and decent means poor. I should die if I heard my family called decent.',
-        'Thomas Mann',
+    '1eb9fcf5-0ee3-517c-a698-e1818e78c7e7' => [
+        'As long as I am still interested and curious, I enjoy getting up in the morning, but I can\'t say I have a happy smile on my face 24/7.',
+        'Harriet Walter',
     ],
-    'fcd7d54a-f0d3-5963-bf9f-ea7b7dc33d51' => [
-        'Character develops itself in the stream of life.',
-        'Joan Rivers',
+    'dfd8eae0-e4ef-5594-be20-35f680c6cc36' => [
+        'I have often been struck by the fact that most parents who are experiencing positive and rewarding relationships with their pre-adolescent children are, nevertheless, waiting apprehensively and bracing themselves for the stormy adolescent period.',
+        'Albert Bandura',
     ],
-    '3b1a3e0e-05df-5862-90d5-338e29a3d52a' => [
-        'A goal is a dream with a deadline.',
-        'Napoleon Hill',
+    '4bf31e73-face-5151-98b6-6265410dbf3e' => [
+        'Nature\'s beauty is a gift that cultivates appreciation and gratitude.',
+        'Louie Schwartzberg',
     ],
-    'ccaa8bab-8815-5308-a7d4-c9817b85198b' => [
-        'No matter the bad things that happened in past time, let\'s try to live the best we can now.',
-        'Ziggy Marley',
+    'fff60d9d-1d2d-572a-a70f-3754ecc62ef2' => [
+        'You can\'t win unless you have good people with great attitude. They are the ones who won the games. I didn\'t win any games. You never saw a coach make a tackle anywhere. My philosophy was to get the best players and then try to do something new with them.',
+        'Hank Stram',
     ],
-    'b33ad614-08b5-5853-a8e8-1ef04290885a' => [
-        'Human bodies are designed for regular physical activity. The sedentary nature of much of modern life probably plays a significant role in the epidemic incidence of depression today. Many studies show that depressed patients who stick to a regimen of aerobic exercise improve as much as those treated with medication.',
-        'Andrew Weil',
+    '7c688536-3bc8-56d2-b433-3b28ca1f18a1' => [
+        'I wonder how many times people give up just before a breakthrough - when they are on the very brink of success.',
+        'Joyce Meyer',
     ],
-    'a84490fb-623c-50c2-8845-a857efcfcd1c' => [
-        'Canada was built around a very simple premise. A promise that you can work hard and succeed and build a future for yourselves and your kids, and that future for your kids would be better than the one you had.',
-        'Justin Trudeau',
+    '0fd3d9f7-f298-5ffb-a23e-04e59396b556' => [
+        'During the past few decades, modern technology, with radio, TV, air travel, and satellites, has woven a network of communication which puts each part of the world in to almost instant contact with all the other parts.',
+        'David Bohm',
     ],
-    '12a9eb5c-bd07-5637-a9b6-5040d1f651f7' => [
-        'Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living.',
-        'Mary Ritter Beard',
+    '390b3bcc-0b5b-5261-a2d2-bfb6ae12841f' => [
+        'Every new day is another chance to change your life.',
+        'Unknown',
     ],
-    '1b200838-a32a-578c-984e-ee6af7ed0ea1' => [
-        'There are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.',
-        'Henry David Thoreau',
+    '39f55573-4dee-5eb8-b5d5-ad33fca6dafe' => [
+        'Isn\'t that the great thing about Christmas? You get a lot of respite, time to recharge your batteries, time with family without too much else happening anywhere else in the world, time to focus on the people you love and the activities that you enjoy, time to exercise, to read.',
+        'Wayne Swan',
+    ],
+    'c70c47b3-7e41-5d7f-b36c-4e88cea71499' => [
+        'Beauty has as many meanings as man has moods. Beauty is the symbol of symbols. Beauty reveals everything, because it expresses nothing. When it shows us itself, it shows us the whole fiery-coloured world.',
+        'Oscar Wilde',
+    ],
+    '05849a04-57d1-5ced-90c9-5aed9032d609' => [
+        'Just be yourself. Be honest, work towards a goal, and you\'ll achieve it.',
+        'Emraan Hashmi',
+    ],
+    'd6163469-2264-54dd-aeb1-f5bd7cd9b79d' => [
+        'People may doubt what you say, but they will believe what you do.',
+        'Lewis Cass',
+    ],
+    'e21def69-33d5-56a6-a236-3592ccffe30d' => [
+        'Every problem has a gift for you in its hands.',
+        'Richard Bach',
+    ],
+    '4d52df79-2e4c-5e9d-aa56-0b8f605f727d' => [
+        'Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.',
+        'Thomas Carlyle',
+    ],
+    '5fe1c8e1-98b2-556f-9ac2-da3f605f5552' => [
+        'Your best creative assets do not occur unless you do a mental shift. You have to be in a positive frame of mind because inspiration is fleeting. I walk to work for inspiration and to clear my mind.',
+        'Ron Ben-Israel',
     ],
     'a164de9e-4d68-5824-ba75-839fcd1af074' => [
         'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
         'John Wayne',
     ],
-    'c219540f-cdb3-5059-bf31-9f24b6271cb3' => [
-        'Let us live for the beauty of our own reality.',
-        'Charles Lamb',
+    'd6f5fe08-7c69-521d-b315-669ffe8484c8' => [
+        'Israel was not created in order to disappear - Israel will endure and flourish. It is the child of hope and the home of the brave. It can neither be broken by adversity nor demoralized by success. It carries the shield of democracy and it honors the sword of freedom.',
+        'John F. Kennedy',
     ],
-    '8ca91719-e6e2-5efc-9a0b-899516634113' => [
-        'To want to be what one can be is purpose in life.',
-        'Cynthia Ozick',
+    'f4978ce2-a500-5410-a39a-621831804f95' => [
+        'I\'m very sensitive about the fact that there\'s not a lot of good work for women in cinema that also deals with strong characters. But \'strong character\' doesn\'t mean \'masculine character\' - but something that finds the strength in femininity and the beauty in femininity. And something that says you can find femininity in men in some way.',
+        'Denis Villeneuve',
     ],
-    '46736452-36b6-5d61-a27b-0222fa188e54' => [
-        'I\'ve never gone into business to make money. Every Virgin product and service has been made into a reality to make a positive difference in people\'s lives. And by focusing on the happiness of our customers, we have been able to build a successful group of companies.',
-        'Richard Branson',
+    '47e5de40-a166-5f73-96e0-54670bd99b45' => [
+        'Whenever a thing is done for the first time, it releases a little demon.',
+        'Emily Dickinson',
     ],
-    'cb62b263-bada-5671-a603-ff9fbf673e78' => [
-        'If you are given a chance to be a role model, I think you should always take it because you can influence a person\'s life in a positive light, and that\'s what I want to do. That\'s what it\'s all about.',
-        'Tiger Woods',
+    '3c73e2ce-7a9b-52af-91e0-3e2d4a518d0b' => [
+        'When I was a child I asked my mother what homosexuality was about and she said - and this was 100 years ago in Germany and she was very open-minded - \'It\'s like hair color. It\'s nothing. Some people are blond and some people have dark hair. It\'s not a subject.\' This was a very healthy attitude.',
+        'Karl Lagerfeld',
     ],
-    'a838cb28-5502-5265-8fd6-c72cecd2f802' => [
-        'One of the sad truths about leadership is that, the higher up the ladder you travel, the less you know.',
-        'Margaret Heffernan',
+    '3a9c26c8-4f59-5572-88d1-667edd0c4f86' => [
+        'If you look at a building by Mies van der Rohe, it might look very simple, but up close, the sheer quality of construction, materials and thought are inspirational.',
+        'David Chipperfield',
     ],
-    'b1af7aea-7870-5f8a-8091-fe3fa0b2d27d' => [
-        'I think sometimes in life we want to ignore the problems of society and just think about the good. I believe in positive thinking and affirmative living, I also think it\'s really important to remember all of our disenfranchised members of society.',
-        'Kerry Washington',
-    ],
-    'b174be71-b10b-5d1f-a592-cea8648077ff' => [
-        'If you don\'t embrace who you are and accept who you are, you won\'t be able to live a happy life.',
-        'Steve Jobs',
-    ],
-    'dab40578-6e86-5eb7-8214-44818e266eee' => [
-        'Our scientific age demands that we provide definitions, measurements, and statistics in order to be taken seriously. Yet most of the important things in life cannot be precisely defined or measured. Can we define or measure love, beauty, friendship, or decency, for example?',
-        'Dennis Prager',
-    ],
-    '91eb4cbb-f1bd-5a6a-81a1-509fe8c1a65a' => [
-        'The traveller has reached the end of the journey!',
-        'Edmund Burke',
-    ],
-    'b670f4ab-6b9e-57f5-a546-f327cd811363' => [
-        'We aim above the mark to hit the mark.',
-        'Ralph Waldo Emerson',
-    ],
-    '5c0168d2-5a9d-5581-8ef9-6ab918fda137' => [
-        "Don\u{92}t lose a woman that has seen your flaws and still loves you.",
-        'Nizar Qabbani',
-    ],
-    '2c0f1d88-5147-5478-9da5-1614d04e022d' => [
-        'Pessimism leads to weakness, optimism to power.',
-        'William James',
+    '79a6758d-3d5c-5bf5-94a9-b6d9c4da08ae' => [
+        'Most businesses think that product is the most important thing, but without great leadership, mission and a team that deliver results at a high level, even the best product won\'t make a company successful.',
+        'Robert Kiyosaki',
     ],
 ];

@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '51f52b60-1fa1-52ca-9708-fd58b8cb5f0b' => [
-        'Suffering is the positive element in this world, indeed it is the only link between this world and the positive.',
-        'Franz Kafka',
+    '6fbdfaf2-0c56-5414-8df4-bb1ca3c69a27' => [
+        'Worry often gives a small thing a big shadow.',
+        'Swedish proverb',
     ],
-    '2e52652c-b41b-5ab8-be14-4567cd51b30c' => [
-        'Imagine all the people living life in peace. You may say I\'m a dreamer, but I\'m not the only one. I hope someday you\'ll join us, and the world will be as one.',
-        'Dalai Lama',
+    '36f29388-42e3-5506-8327-67a00f67487b' => [
+        'Through travel, you discover a new aspect to your personality. You discover things which you wouldn\'t seated in the confines of your home.',
+        'Imtiaz Ali',
     ],
-    '78c5a213-4bca-5f0f-aad1-d87e2060204c' => [
-        'I was so naive as a kid I used to sneak behind the barn and do nothing.',
-        'Johnny Carson',
+    'a6fba5a0-1150-5e36-b92d-06f69de8b494' => [
+        'Unilever, Nestle and SAB Miller are all taking a long-term approach to investing in sustainable resource consumption. Each is driving through better resource management, which is expected to yield positive returns in the future.',
+        'Jacob Rothschild',
     ],
-    '114722a6-9e48-58ed-a5d1-073246ec25e9' => [
-        'Knowledge is being aware of what you can do. Wisdom is knowing when not to do it.',
-        'Unknown',
+    '3afcae74-550b-5771-8cc7-6da64119db83' => [
+        'It\'s not the size of the dog in the fight, it\'s the size of the fight in the dog',
+        'Mark Twain',
     ],
-    '2baaf28b-9275-57e3-a7f1-fa44a1517553' => [
-        'I like to use my hands and make things... It might seem pretty stupid or pointless but that doesn\'t matter... some of the most interesting work is the stuff that starts like that - out of a raw need for activity.',
-        'Bruce Nauman',
+    'a8f72f70-ac09-590e-a6c3-ae8707fdd742' => [
+        'Nature never breaks her own laws.',
+        'Leonardo da Vinci',
     ],
-    '04d9f31a-b859-5738-8509-ddc52dfc4eb0' => [
-        'Lee\'s great gifts are teaching and inspirational guidance, not administration and management.',
-        'Cheryl Crawford',
+    '1e6e70b7-dce0-5db9-acc4-0d9640d281bd' => [
+        'A graduation ceremony is an event where the commencement speaker tells thousands of students dressed in identical caps and gowns that \'individuality\' is the key to success.',
+        'Robert Orben',
     ],
-    'e5c8acc8-37aa-5f0d-9159-09ca34ffcd47' => [
-        'If men knew how women pass the time when they are alone, they\'d never marry.',
-        'O. Henry',
+    '4fc5addd-39e4-55d6-aa30-ad8f20bf9f5d' => [
+        'We are living in a culture where we are so led by the visual, and what is promoted in the media, that the attitude becomes, \'I don\'t have to go through normalcy in life - I can look for exemptions. And I expect them, and when I look for them and they are not there, I am angry.\'',
+        'Ben Harney',
     ],
-    'bd316a15-f3f8-50f4-b50f-ff04129c4985' => [
-        'People do not seem to realise that their opinion of the world is also a confession of their character.',
-        'Ralph Waldo Emerson',
+    '2660ad36-4e29-5810-bcb1-74e37b03c0b2' => [
+        'You have to think anyway, so why not think big?',
+        'Donald Trump',
     ],
-    '63a3e716-f66f-5117-9ff1-62d3a9ee2c92' => [
-        'A champion is afraid of losing. Everyone else is afraid of winning.',
-        'Billie Jean King',
+    '683bb104-8bd3-5be2-aa46-c5d62017a688' => [
+        'I don\'t care how busy I am - I will always make time for what\'s most important to me.',
+        'Kevin Hart',
     ],
-    '5a2bb66b-79b6-56fb-97b5-ef20c2df420e' => [
-        'When you\'re climbing with someone who always sees the bright spot, even if there is no bright spot, that attitude is really helpful.',
-        'Kevin Jorgeson',
+    'b8d53926-e299-505a-af5e-0bced4e65909' => [
+        'Everything in life is somewhere else, and you get there in a car.',
+        'Madonna Ciccone',
     ],
-    '34503938-441b-5700-8e1f-fbfc50bfa84c' => [
-        'I have never before, in my long and eclectic career, been gifted with such an abundance of natural beauty as I experienced filming \'War Horse\' on Dartmoor.',
-        'Steven Spielberg',
+    '1cfa7ee1-bb4f-5a86-bcd1-3b9bf3fb8642' => [
+        'Life is something to do when you can\'t get to sleep.',
+        'Andrew Bernstein',
     ],
-    '7496b1c1-d4b3-5a76-8345-fd78c8c40b24' => [
-        'The greatest day in your life and mine is when we take total responsibility for our attitudes. That\'s the day we truly grow up.',
-        'Geoffrey Rush',
+    '1ee0372b-d7d0-5d27-9d1b-c13582e7270d' => [
+        'Solitary trees, if they grow at all, grow strong.',
+        'Winston Churchill',
     ],
-    '19700ac5-97fa-58c5-ac0d-e25c69cdbe83' => [
-        'It is surprising how little most small business values the customers. A positive feedback from the customer is critical to your business, and what\'s more important is their referral.',
-        'Fabrizio Moreira',
+    '1f8c743a-4704-51a7-96b6-1ec7d17ef44f' => [
+        'These days I travel so much it\'s hard to get into a routine. When I\'m on the road, I tend to use hotel gyms. When I\'m home in L.A., I like to hike and hit the surf. All in all, I try to keep a balanced diet and exercise routine, which has stood me in good stead to date.',
+        'Curtis Stone',
     ],
-    '40aaf322-a27e-521d-90c1-487233bebb95' => [
-        'In truth, I am a single mother. But I don\'t feel alone at all in parenting my daughter. Krishna has a whole other side of her family who loves her, too. And so Krishna is parented by me, but also by her grandmother and aunts and cousins and uncles and friends.',
-        'Padma Lakshmi',
+    'd477cfbe-e6cf-5542-bad5-d35bbb0028f4' => [
+        'Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.',
+        'Rumi',
     ],
-    'e3c141a0-392e-5e31-92ba-a357209d3fd7' => [
-        'An arrogant person considers himself perfect. This is the chief harm of arrogance. It interferes with a person\'s main task in life - becoming a better person.',
-        'Ernest Holmes',
+    'bd6d1c51-129e-5e0c-bbd5-62251e3082f8' => [
+        'To be a man requires that you accept everything life has to give you, beginning with your name',
+        'Burl Ives',
     ],
-    '8549fd6e-d574-5f8a-afb9-27fbd3bafd65' => [
-        'The difference between Marilyn Monroe and the early Pamela Anderson is not that great. What\'s amazing is that the taste of American men and international tastes in terms of beauty have essentially stayed the same. Styles change, but our view of beauty stays the same.',
-        'Hugh Hefner',
+    '3344dd8f-f615-5044-9b48-ae0f4a29016e' => [
+        'The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.',
+        'Robert Kiyosaki',
     ],
-    '0a59f93a-8857-5073-8bfb-e2db319e2681' => [
-        'Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.',
-        'Theodore Rubin',
+    '6f6e935f-0963-5fde-9c55-5b78db06eeb2' => [
+        'A person will sometimes devote all his life to the development of one part of his body - the wishbone.',
+        'Josephine de La Baume',
     ],
-    '167ae388-0463-5251-8a6d-f043bdc0f851' => [
-        'Success is little more than a chemical compound of man with moment.',
-        'Philip Guedalla',
+    '1c6ab27e-a486-5ef3-bc08-d11bc7f0a501' => [
+        'Never fight an inanimate object.',
+        'P. J. O\'Rourke',
     ],
-    '26ec9ef5-9369-561e-a05a-92d3ff9c02da' => [
-        'Because of my capacity for listening to strangers\' tales, or the details of their lives, my patience with their food and their crotchets, my curiosity that borders on nosiness, I am told that anyone traveling with me experiences an unbelievable tedium, and this is why I choose to travel alone.',
-        'Paul Theroux',
+    'ae994931-4ab1-5698-a59c-a699e25c56d9' => [
+        'Travel, in the younger sort, is a part of education; in the elder, a part of experience.',
+        'Francis Bacon',
     ],
-    '60783376-c658-5a6e-9974-352c247b490b' => [
-        'Weight loss can change your whole character. That always amazed me: Shedding pounds does change your personality. It changes your philosophy of life because you recognize that you are capable of using your mind to change your body.',
-        'Ciara',
+    '32a1d97a-ad17-5a34-86e2-cce930adfdd5' => [
+        'I know what it is to feel unloved, to want revenge, to make mistakes, to suffer disappointment, yet also to find the courage to go forward in life.',
+        'Justine Skye',
     ],
-    'ff4b73e9-8ca2-5bc7-b674-af760bfa4590' => [
-        'When you travel around Moscow, you can see almost every car is using a smartphone where they can see what\'s ahead of them.',
-        'Arkady Volozh',
+    '31fbab98-a9bc-577f-b9e4-0d004cbe343f' => [
+        'I like joy; I want to be joyous; I want to have fun on the set; I want to wear beautiful clothes and look pretty. I want to smile, and I want to make people laugh. And that\'s all I want. I like it. I like being happy. I want to make others happy.',
+        'Doris Day',
     ],
-    'c637ddea-9ad7-5d8e-8f06-90ca1c849177' => [
-        'Courage is knowing what not to fear.',
-        'Plato',
+    '75153065-de90-509e-b45c-d30a1ac227b6' => [
+        'If we were to use the success of \'Need You Now\' as the barometer for every other song, then we\'ll probably be highly disappointed. That song will probably undoubtedly be the biggest song of our career. We can hopefully have success for 20 years, but we may not ever have the success of that one particular song again.',
+        'Charles Kelley',
     ],
-    '1e2f6754-2e78-5f94-af3b-e582ca676ac7' => [
-        'Nature is a petrified magic city.',
-        'Novalis',
+    'da0be1bb-14fb-5dcd-9be7-67759bc1d65a' => [
+        'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
+        'Shawn Achor',
     ],
-    'c6b5a7bc-bb71-57f7-86e2-8725e11cbdaf' => [
-        'Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.',
-        'Mark Zuckerberg',
+    'c632b0cc-1cd5-50ab-89c0-37949b30bf64' => [
+        'People are the key to success or extraordinary success.',
+        'Azim Premji',
     ],
-    '6eedd740-0a98-544b-b77e-4f01e6b009a7' => [
-        'More than half of people who leave their jobs do so because of their relationship with their boss. Smart companies make certain their managers know how to balance being professional with being human. These are the bosses who celebrate an employee\'s success, empathize with those going through hard times, and challenge people, even when it hurts.',
-        'Travis Bradberry',
+    'af0c8ca0-af92-58d7-9d94-c1e7f879a522' => [
+        'I like my hair long, and I love my bangs. I love them because I can pin them back or keep the fringe with attitude.',
+        'Cassie Steele',
     ],
-    'eab417cc-b66f-5536-a4e6-e22def704063' => [
-        'What\'s great about collaborating is getting to work with wonderful people. That\'s what theatre is about: other people getting you to give your best, and getting everyone else\'s best out of them.',
-        'Jason Robert Brown',
+    '25fe0384-eff0-5d86-8634-097522f14f6f' => [
+        'Beauty, sweet love, is like the morning dew, Whose short refresh upon tender green, Cheers for a time, but till the sun doth show And straight is gone, as it had never been.',
+        'Samuel Daniel',
     ],
-    '230ea271-d9f9-5c31-ae71-6a36a89d3a64' => [
-        'One thing I never want to be accused of is not working.',
-        'Don Shula',
+    '70ad30c6-5c0e-5ed7-80f1-8c2b4a89a2df' => [
+        'A game one of my sisters will play with me in my first year of being alive is called Good Baby, Bad Baby. This consists of being told I am a good baby until I smile and laugh, then being told I am a bad baby until I burst into tears. This training will stand me in good stead all through my life.',
+        'Ali Smith',
     ],
-    'a3498126-7d6f-518b-adfb-92a769b18c07' => [
-        'Every cloud has its silver lining but it is sometimes a little difficult to get it to the mint.',
-        'Don Marquis',
+    'c226353b-96b3-518e-a4f4-5a4535a7b0c7' => [
+        'It would be difficult for me not to conclude that the most perfect type of masculine beauty is Satan, as portrayed by Milton.',
+        'Charles Baudelaire',
     ],
-    '9064a764-6596-5a3e-9fd0-006226050cdf' => [
-        'Riding a bicycle is the summit of human endeavour - an almost neutral environmental effect coupled with the ability to travel substantial distances without disturbing anybody. The bike is the perfect marriage of technology and human energy.',
-        'Jeremy Corbyn',
+    'd8b44326-66ff-59ad-bc8c-7087469a3d83' => [
+        'The very nature of science is discoveries, and the best of those discoveries are the ones you don\'t expect.',
+        'Neil deGrasse Tyson',
     ],
-    '6df40033-5706-52ba-b289-cebda310462f' => [
-        'I\'m a prankster, so some of the - you know, I like a good joke. I think when it\'s funny, it\'s funny.',
-        'Sean Spicer',
+    'd9fcb515-c960-5bf8-8c49-91d61bf57171' => [
+        'Our career is a dream. I mean, we get to act, travel around the world, and meet cool people. What\'s not to love!',
+        'Mary-Kate Olsen',
     ],
-    '59911671-63aa-5e3b-b071-e9bc080fa27f' => [
-        'There is nothing in this world that I love more than my family. To be able to share the joy of running with them at the Runner\'s World Half Marathon and Running Festival where we can all participate together is as close as you can get to a perfect weekend.',
-        'Summer Sanders',
+    '73f7175d-7dc8-588c-9cb9-0cb090a13852' => [
+        'Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.',
+        'Pearl Buck',
     ],
-    'da08e4e3-ed8c-5ef7-bdb3-9e5c71058620' => [
-        'When I was working at the Sprint store, I got laid off. I was bummed out, but I stayed positive. I used the money I had earned while working there to make my first album. Without that job, maybe \'Corazon Sin Cara\' would never had been made. It\'s a very inspirational story.',
-        'Prince Royce',
+    '5a5cbfd9-ffc1-501a-a350-5397237cea8e' => [
+        'Attitude determines the altitude of life.',
+        'Edwin Louis Cole',
     ],
-    '43cb1511-daa0-5d04-8927-d7b22dfd5bb7' => [
-        'I believe myself to possess a most singular combination of qualities exactly fitted to make me pre-eminently a discoverer of the hidden realities of nature.',
-        'Ada Lovelace',
+    '69a6e7a8-b4d1-54e7-bc02-dcfaa099e0af' => [
+        'For a DJ at my level, you can really go through life and travel the world without seeing a single thing. It\'s harder to go out and see the sights than it is to play a show.',
+        'Steve Aoki',
     ],
-    '6765a52a-aa7a-5fe9-a9ed-d384c264d4e7' => [
-        'There are lots of things which I would love to tell him, but in some way, I also feel that I lost the person closest to me. And I got a second chance to live. So in a way I feel that I live for both of us... and I will do my best.',
-        'Petra Nemcova',
+    'ea6d237d-6329-5039-b002-fea5c16c608d' => [
+        'I don\'t really remember, but I\'m positive that whenever I cried, my mother gave me something to eat. I\'m sure that whenever I had a fight with the little girl next door, or it was raining and I couldn\'t go out, or I wasn\'t invited to a birthday party, my mother gave me a piece of candy to make me feel better.',
+        'Jean Nidetch',
     ],
-    'b02456ba-a36a-56bc-8b5d-d90cfe66f970' => [
-        'Having haters is just a part of the business, and the more haters you have, the more people like you - that\'s how I view it, because I try to see the positive in things.',
-        'Nick Jonas',
+    '509e8d4a-b672-5f31-b6b0-e3a4ef75de90' => [
+        'Some people are born good-looking. Some have the gift of gab. And some are lucky enough to be born smarter than the rest of us. Whether we like it or not, Mother Nature does not dole these characteristics out evenly.',
+        'Simon Sinek',
     ],
-    '074d674a-be23-579e-9a18-e0acc7962eb8' => [
-        'The secret to modern life is finding the measure in time management. I have two kids, career and I travel, and I don\'t think my life is any different than most couples. The most valuable commodity now for many people is time and how to parcel that out.',
-        'Hugh Jackman',
+    '110c65f0-0f79-565a-a14c-ccfa4be6cfb1' => [
+        'I love being a woman. I love the sexiness we get to exude. But the best thing about being a woman is the power we have over men.',
+        'Eva Longoria',
     ],
-    'a05d7126-0224-5056-b89f-a9b8eb5e2f37' => [
-        'If you live to be one hundred, you\'ve got it made. Very few people die past that age.',
-        'George Burns',
+    '92795b3b-c22d-5183-ad12-57cf360b2012' => [
+        'The single biggest surprise about arriving to the Senate is the defeatist attitude here.',
+        'Ted Cruz',
     ],
-    '2e7dd66b-3024-5253-b942-6dcf980ad838' => [
-        'I think clothes are very much a representation of your attitude and the way you feel. I really love to be dressed down, though.',
-        'Trey Songz',
+    '382a6984-3314-51ae-8506-ee02214dbd39' => [
+        'Skills are cheap. Passion is priceless.',
+        'Gary Vaynerchuk',
     ],
-    '35848cf5-ad81-5b82-80eb-81706a515331' => [
-        'The judge is not the knight-errant, roaming at will in pursuit of his own ideal of beauty or of goodness.',
-        'Benjamin N. Cardozo',
+    'ed7704cc-bbd8-5098-afd2-7f1e0138d52b' => [
+        'I can do comedy, so people want me to do that, but the other side of comedy is depression. Deep, deep depression is the flip side of comedy. Casting agents don\'t realize it but in order to be funny you have to have that other side.',
+        'Parker Posey',
     ],
-    '04e25652-b7e9-56f3-9d15-aca5f9a19755' => [
-        'People from a planet without flowers would think we must be mad with joy the whole time to have such things about us.',
-        'Iris Murdoch',
+    '9d0c918e-a1e9-5f34-aaaf-555baf934448' => [
+        'You don\'t have to have an attitude if you\'re famous.',
+        'Adriana Lima',
     ],
-    'c95de1f4-17ed-531c-9e74-fdd1fb3bd227' => [
-        'Reality does not conform to the ideal, but confirms it.',
-        'Gustave Flaubert',
+    '8d540504-504c-5e05-a016-1eabe6cd8434' => [
+        'I have no idea what I\'m going to say when I stand up to give a toast. But I do know that anything I say I find funny.',
+        'Don Rickles',
     ],
-    '07730405-70fd-5669-9132-27b9a2092242' => [
-        'I have this necklace I always wear. I collect pendants from people I love; my best friends and members of my family have all given me one, and I put them on this chain so no matter where I am they\'re always with me.',
-        'Lake Bell',
+    '7f3fa856-b529-50f0-930b-d01fc7198660' => [
+        'The best intelligence test is what we do with our leisure.',
+        'Laurence J. Peter',
     ],
-    'b0770628-a32f-5d68-83e5-e988b3e5885a' => [
-        'The past always looks better than it was. It\'s only pleasant because it isn\'t here.',
-        'Finley Peter Dunne',
+    '198a1c32-d1bb-553e-9e70-357cc5dcb7bc' => [
+        'That\'s my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard.',
+        'Joe Rogan',
     ],
-    '611ee4d6-437b-54be-a9fe-384eb5aaf009' => [
-        'Comedy is simply a funny way of being serious.',
-        'Peter Ustinov',
+    'dc942d73-70e7-5bc5-a22f-ed6939b1acff' => [
+        'Asian American success is often presented as something of a horror - robotic, unfeeling machines psychotically hellbent on excelling, products of abusive tiger parenting who care only about test scores and perfection, driven to succeed without even knowing why.',
+        'Jenny Zhang',
     ],
-    '1c1a146f-9fbb-560d-a1f7-44e17252970f' => [
-        'Make space in your life for the things that matter, for family and friends, love and generosity, fun and joy. Without this, you will burn out in mid-career and wonder where your life went.',
-        'Arthur Keith',
+    'b76d4181-9241-5297-a90a-e1925eee708b' => [
+        'Everything I\'ve been through, everything I\'m about to go through in my career and my life, if my family wasn\'t with me and didn\'t support me, it would be really tough.',
+        'Karl Malone',
     ],
-    '0cb4e3d5-6fbf-552b-8b43-a7730a12e479' => [
-        'The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants.',
-        'Thomas Jefferson',
+    'cdb7e0cc-144c-5830-ae6f-acf19a4cbaca' => [
+        'Originally I had planned to write just a couple of children\'s books and then, return the focus on adult literature. A funny thing happened along the way - I kept having new ideas, and then I looked up one day, and 30 years had passed!',
+        'Nikki Grimes',
     ],
-    'a3df1292-1339-5f1f-b8f0-6e50b80a5375' => [
-        '\'Yes\' is the mother of all positive words, next to \'love.\' Maybe \'love\' is the father of all positive words.',
-        'Jason Mraz',
+    '76cfbf38-1811-5da2-8669-ea2618e4da79' => [
+        'Beauty is only skin deep. I think what\'s really important is finding a balance of mind, body and spirit.',
+        'Jennifer Lopez',
     ],
-    '1bdb3a0c-1689-51d5-895a-c2eb209da0f1' => [
-        'When people are like each other they tend to like each other.',
-        'Tony Robbins',
+    '13c6455e-b835-55a4-a26d-df173397be70' => [
+        'Two races share today the soil of Canada. These people had not always been friends. But I hasten to say it. There is no longer any family here but the human family. It matters not the language people speak, or the altars at which they kneel.',
+        'Wilfrid Laurier',
     ],
-    '82114883-5bdc-55fe-bd3d-bfa52cc2d74b' => [
-        'I work so hard to make that sure I\'m successful. If you\'re positive and really excited and enthusiastic about what you\'re doing, it\'s going to happen, and it\'s going to happen big time.',
-        'Shawn Mendes',
+    '34086240-7e3a-5138-a42f-44decf45cc1b' => [
+        'Nearly every moment of every day, we have the opportunity to give something to someone else - our time, our love, our resources.',
+        'S. Truett Cathy',
     ],
-    '04e392b2-6c91-568e-9856-186b482b11c6' => [
-        'Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.',
-        'Serena Williams',
+    '0e88d57b-3a4c-5d34-9ea5-2658216b9131' => [
+        'The trains that travel the Chunnel are massive machines. The Eurostars are bullet-shaped and a quarter-mile long. They are pulled by a 136,000-pound locomotive and move in the open air at 185 m.p.h. and through the tunnel at 100 m.p.h.',
+        'Peter Landesman',
     ],
 ];

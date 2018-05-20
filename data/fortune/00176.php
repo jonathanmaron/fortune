@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '6f4d9c4a-e491-5b6c-b548-fb626cecaa54' => [
-        'When we understand the connection between how we live and how long we live, it\'s easier to make different choices. Instead of viewing the time we spend with friends and family as luxuries, we can see that these relationships are among the most powerful determinants of our well-being and survival.',
-        'Dean Ornish',
+    'bc632549-9e96-52cd-a455-0e55fca96efd' => [
+        'Nothing is better than going home to family and eating good food and relaxing.',
+        'Irina Shayk',
     ],
-    '060dd9cb-0b8e-526c-aac6-7d8244c4c791' => [
-        'Perfectionism is not the same thing as striving to be our best. Perfectionism is not about healthy achievement and growth; it\'s a shield.',
-        'Brene Brown',
+    '7778f96c-8d2d-5bdd-8fd5-dfc092aaaad4' => [
+        'Employers have recognized for some time that it\'s smart business to have a diverse workforce - one in which many views are represented and everyone\'s talents are valued. Well, disability is part of diversity.',
+        'Thomas Perez',
     ],
-    '51c0d5ac-be0f-56ed-9eb1-978d524459b7' => [
-        'While I have felt lonely many times in my life, the oddest feeling of all was after my mother, Lucille, died. My father had already died, but I always had some attachment to our big family while she was alive. It seems strange to say now that I felt so lonely, yet I did.',
-        'Bill Murray',
+    '81295dd9-cc0d-56dc-9522-e710d3ea9893' => [
+        'Begin, be bold, and venture to be wise.',
+        'Horace',
     ],
-    'c12ca9c7-dbca-5590-9eea-d23bb7641f59' => [
-        'One life is all we have and we live it as we believe in living it. But to sacrifice what you are and to live without belief, that is a fate more terrible than dying.',
-        'Helen Keller',
+    '734b10e3-191b-517c-9052-c870d907608b' => [
+        'I\'m a funny guy. You\'ve got to be able to make fun of yourself. We only live once.',
+        'Jon Pardi',
     ],
-    '78abd749-e6cb-5545-867e-3e4b5fd4a661' => [
-        'I had an attitude problem when I was a kid. I\'m not gonna lie.',
-        'Tionne Watkins',
-    ],
-    'bfd7deba-bcdd-591e-9afd-bfe66dc6671b' => [
-        'I wanted to say thanks... and share my gratitude for everything I\'ve been blessed with. Family, friends, and continued support from everyone.',
-        'Travis Barker',
-    ],
-    '9a1b84fc-0989-5cc1-b52b-3ed015f3ce4b' => [
-        'There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.',
-        'Dalai Lama',
-    ],
-    '08a4bbfb-bd6c-5cf4-a9a1-c68cd0425527' => [
-        'Spring is nature\'s way of saying, \'Let\'s party!\'',
-        'Robin Williams',
-    ],
-    '5e5c5cc2-4f6e-5979-924d-8bd10c59a0f2' => [
-        'Time is not measured by the passing of years but by what one does, what one feels, and what one achieves.',
-        'Jawaharlal Nehru',
-    ],
-    '07ea4466-25c7-5a20-8b06-5eb8983a2ac8' => [
-        'The main thing that you have to remember on this journey is, just be nice to everyone and always smile.',
-        'Ed Sheeran',
-    ],
-    '18e6d009-bd36-5dab-98c7-b210ed2350c7' => [
-        'Own only what you can always carry with you: know languages, know countries, know people. Let your memory be your travel bag.',
-        'Aleksandr Solzhenitsyn',
-    ],
-    '1da6b25a-dc6a-51e1-9d11-7bc163c3255b' => [
-        'In the United States there\'s a Puritan ethic and a mythology of success. He who is successful is good. In Latin countries, in Catholic countries, a successful person is a sinner.',
-        'Umberto Eco',
-    ],
-    'e7d4d63a-718f-514e-aa58-c7a4de98a142' => [
-        'I will tell you with 100 percent confidence, Jon Jones is not deep in my head. The fact he actually thinks that, it makes me smile every day.',
-        'Daniel Cormier',
-    ],
-    '8ad998d3-d5f8-5084-b300-8b5030236712' => [
-        'Do the scary thing first, and get scared later.',
-        'Lemony Snicket',
-    ],
-    '1514e10f-62ab-5724-b115-b66cb336883f' => [
-        'Swans sing before they die - \'twere no bad thing should certain persons die before they sing.',
-        'Samuel Taylor Coleridge',
-    ],
-    '08663e45-9821-5e4c-8d90-de863ddd8fda' => [
-        'If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?',
-        'Rabbi Hillel',
-    ],
-    'e519c69b-e4c8-530c-9ec1-fd49d2eecef1' => [
-        'The best things in life are silly.',
-        'Scott Adams',
-    ],
-    'fa89a0fa-8707-5b42-a33e-85213651a40a' => [
-        'My incarceration was actually a positive thing from the beginning. I needed a gimmick to get my act going again, it gave me material.',
-        'Tommy Chong',
-    ],
-    '33c99b3d-65e6-5210-ba17-4941b1327634' => [
-        'No one should have the power to shatter your dreams unless you give it to them.',
-        'Unknown',
-    ],
-    '45ffac25-f2fa-5747-a90d-fb55d603cdc8' => [
-        'When one travels around the world, one notices to what an extraordinary degree human nature is the same, whether in India or America, in Europe or Australia.',
-        'Jiddu Krishnamurti',
-    ],
-    'b0072f6d-898e-55a8-b339-389e2abf697b' => [
-        'It takes a long time to become young.',
-        'Pablo Picasso',
-    ],
-    'bf4b0697-74d9-5f42-9a8b-fbf00af48fde' => [
-        'We believed in our idea - a family park where parents and children could have fun- together.',
-        'Walt Disney',
-    ],
-    '4b93d557-7d4c-59d1-b5f8-981e4cf63711' => [
-        'If you don\'t have many possessions, then you don\'t need to work all your life like a slave to sustain them, and therefore you have more time for yourself.',
-        'Jose Mujica',
-    ],
-    '74a3e4f3-349c-540c-834a-ff6cb8239d75' => [
-        'I understand what\'s it like to work all week and on Friday night just want to go and leave your brain at the door, buy some popcorn and be thrilled by something.',
-        'Don Cheadle',
-    ],
-    'c7a5b4d6-2ac7-50ea-9053-774f88edf303' => [
-        'What is necessary to change a person is to change his awareness of himself.',
-        'Abraham Maslow',
-    ],
-    '32614ec5-08e7-513d-a387-91243b00388b' => [
-        'Life is not an exact science, it is an art.',
-        'Billy Graham',
-    ],
-    '232230eb-82d9-54a4-81e5-7237dda2cee7' => [
-        'It\'s a bit like school camp, shooting a film. Everyone\'s on heat. It\'s a strange energy. It\'s full of adrenalin. I funnel my excess energy in funny little ways. I do a lot of dancing in my trailer. I love music.',
-        'Alice Englert',
-    ],
-    'f6e3edea-36d9-5eb3-aa68-2bb1ddd3a534' => [
-        'I\'ve always had that attitude that things happen for a reason.',
-        'Ryne Sandberg',
-    ],
-    'c11354ac-c237-5420-8485-5047ed7cd6d8' => [
-        'There are a lot of people who give you the message that maybe you are not good enough, and the best thing you can do for yourself is to block out all of that noise.',
-        'Rachel Platten',
-    ],
-    '98468aab-c924-533d-9054-dbb7be05f032' => [
-        'Letting go isn\'t the end of the world; it\'s the beginning of a new life.',
-        'Unknown',
-    ],
-    '198a1c32-d1bb-553e-9e70-357cc5dcb7bc' => [
-        'That\'s my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard.',
-        'Joe Rogan',
-    ],
-    'f01fa8b7-4ae8-5540-8c2a-1710c4c7cefb' => [
-        'If I win and get the money, then the Oakland Police department is going to buy a boys\' home, me a house, my family a house, and a Stop Police Brutality Center.',
-        'Tupac Shakur',
-    ],
-    '1f17eff0-71c6-552f-a9d9-156b4a577db4' => [
-        'Fear stops people from accomplishing their goals.',
-        'Unknown',
-    ],
-    'fa7a020a-d64a-5c8c-8ae0-56d4320dfa91' => [
-        'I love it when people doubt me. It makes me work harder to prove them wrong.',
-        'Derek Jeter',
-    ],
-    '8a41413a-4794-5746-9415-26c201408782' => [
-        'When I wake up every morning, I smile and say, \'Thank you.\' Because out of my window I can see the mountains, then go hiking with my dog and share her bounding joy in the world.',
-        'Carole King',
-    ],
-    '1ba36341-9f8c-560e-a1a4-c40146185093' => [
-        'I see myself as no color. I can play the role of a man. I can paint my face white if I want to and play the role of white. I can play a green, I can be a purple. I think I have that kind of frame and that kind of attitude where I can play an animal.',
-        'Grace Jones',
-    ],
-    '9d7e307f-8895-53d5-8a82-086b0cef1302' => [
-        'When you die, others who think they know you, will concoct things about you... Better pick up a pen and write it yourself, for you know yourself best.',
-        'Sholom Aleichem',
-    ],
-    '9c29424c-adc6-5886-a21b-f86dd75f283b' => [
-        'Knowing yourself, and learning to love yourself as you are, is the beginning of beauty. I think the most important thing is to show off what\'s most beautiful about you and to hide what\'s less beautiful.',
-        'Sonia Rykiel',
-    ],
-    'f107df5f-a9e1-523a-ac3a-38b2b4f45e8b' => [
-        'I wanted to be an independent woman, a woman who could pay for her bills, a woman who could run her own life - and I became that woman.',
-        'Martin Luther King, Jr.',
-    ],
-    'fe0ec2cc-d23b-5998-a005-470d271e1bf7' => [
-        'The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.',
-        'Booker Washington',
-    ],
-    '69d8a758-b9a5-5ec7-9ae7-327d06f833a4' => [
-        'Hiding, secrets, and not being able to be yourself is one of the worst things ever for a person. It gives you low self-esteem. You never get to reach that peak in your life. You should always be able to be yourself and be proud of yourself.',
-        'Isabel Allende',
-    ],
-    'f2f4d659-ee4d-51aa-9490-4a5b2dcb6cb5' => [
-        'My scientific pursuits have led to many opportunities and responsibilities beyond those of simply doing research. For example, as a beginning graduate student, it never occurred to me that the life of a scientist could involve so much travel, something that I have always loved.',
-        'H. Robert Horvitz',
-    ],
-    '65305448-0a69-5c88-9058-8a88cabac90c' => [
-        'One\'s family is the most important thing in life. I look at it this way: One of these days I\'ll be over in a hospital somewhere with four walls around me. And the only people who\'ll be with me will be my family.',
-        'Robert Byrd',
-    ],
-    'f6999a49-d5c8-5e1b-9a98-6eca8e46b1a3' => [
-        'Success is the one unpardonable sin against our fellows.',
-        'Ambrose Bierce',
-    ],
-    '51dfecf9-d4b7-5d6c-b2bf-1525a3353e0d' => [
-        'Solitude gives birth to the original in us, to beauty unfamiliar and perilous - to poetry. But also, it gives birth to the opposite: to the perverse, the illicit, the absurd.',
-        'Thomas Mann',
-    ],
-    '39405504-2229-58d0-8727-6ce1f6aeb31f' => [
-        'The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.',
+    '8878dcfd-6eef-55fb-94c7-d2a19a335ca7' => [
+        'Short words are best and the old words when short are best of all.',
         'Winston Churchill',
     ],
-    '75c717dc-3a74-579c-b4f4-5621d1dd8dba' => [
-        'A concerted effort to preserve our heritage is a vital link to our cultural, educational, aesthetic, inspirational, and economic legacies - all of the things that quite literally make us who we are.',
-        'Steve Berry',
+    'ace131a1-57ad-505a-9308-d75b15f7b997' => [
+        'Ocean is more ancient than the mountains, and freighted with the memories and the dreams of Time.',
+        'H. P. Lovecraft',
     ],
-    '0964292c-36f0-5c17-bd92-3ce77078938b' => [
-        'I am blessed for what I have, but I believed in it from the beginning. Today, the dream is the same: I still want to travel, I still want to entertain, and I most certainly still want to have fun.',
-        'Guy Laliberte',
+    '43eb6777-e603-59d0-a206-4be6beadb0bd' => [
+        'Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.',
+        'Robert Baden-Powell',
     ],
-    'b7280234-9bc0-539e-a615-ee66670edbc5' => [
-        'I\'m so thankful for my family and friends - they\'re really supportive. Everyone I work with on \'Austin &amp; Ally;\' the cast and crew are like my family now. We have so much fun, and I\'m so happy they\'re in my life!',
-        'Laura Marano',
+    'bbf809c9-721f-55ba-8239-060608bd644a' => [
+        'I definitely at times notice a difference in service when I go out. You know, I can walk in to grab a cup of coffee or walk in to have lunch or dinner, and people definitely seem on their best behavior, which is funny, or I start to see people clean up around me, which I always find really, really amusing.',
+        'Tabatha Coffey',
     ],
-    'a69ad164-08fa-519a-a4d7-8e06804dc69f' => [
-        'Your talent is God\'s gift to you. What you do with it is your gift back to God.',
-        'Leo Buscaglia',
+    'ae2b39e3-1fd5-5e40-b903-ae75fd60288c' => [
+        'There are really four \'headlines\' for me: honesty, integrity, hard work, and what I call a \'can-do\' attitude. You could call that \'can-do\' attitude optimism, but it is not Pollyannaish optimism. Rather, it is a \'we\'ll figure it out\' type of mentality.',
+        'Dylan Taylor',
+    ],
+    'd96cc180-6880-5dab-ada2-5c1d0140add4' => [
+        'I want to be a little more dramatic nowadays. I definitely want something big and funny, but I look for things that can just have people see me in a different light and let me mature as both an entertainer and an actor and a comedian.',
+        'Cedric the Entertainer',
+    ],
+    '0701ce6f-0e09-5755-9359-787d03a6636f' => [
+        'All our knowledge has its origins in our perceptions.',
+        'Leonardo da Vinci',
+    ],
+    '37f6616a-edbc-50e3-b7b3-9282a0587c2b' => [
+        'I think people take a liking to a voice or something that makes them smile and feel good about themselves.',
+        'Jess Glynne',
+    ],
+    '1a0fd89d-8392-5293-8a51-d9e831aac39c' => [
+        'The moon looks upon many night flowers; the night flowers see but one moon.',
+        'Jean Ingelow',
+    ],
+    '0dbcc56f-d10e-57b4-8f3e-1304a4d769f3' => [
+        'As a former Airman First Class in the United States Air Force, like many veterans in America, my military experience played an important part in instilling in me a sense of character and discipline that has served me throughout my life.',
+        'Demi Lovato',
+    ],
+    '2392d599-481f-5b8a-9894-4d9220668773' => [
+        'I don\'t do it often, but I do cry. I also laugh a lot; people tell me I\'m funny and I do like to laugh.',
+        'Michael Caine',
+    ],
+    '8be567bf-567d-556f-a98f-fa203a0ed9e1' => [
+        'I walk tall; I got a tall attitude.',
+        'Dolly Parton',
+    ],
+    '1096e21c-99b1-5432-aa0c-96c70401a95e' => [
+        'My father, who was a cabinetmaker, told me, \'Wood has a grain and if you go into the grain, you have beauty. If you go against it, you have splinters - it breaks.\' And I took that as my view of life. You have to follow the grain - to be sensitive to the direction of life.',
+        'Christian Louboutin',
+    ],
+    'b4629b97-4ac8-50e6-81c3-33c700c78992' => [
+        'I am, as it happens, a baby boomer, but not one who feels any broad-gauge nostalgia for the \'60s and \'70s. My attitude resembles that of my parents, who were born in the \'20s and lived through the Great Depression and World War II.',
+        'Terry Teachout',
+    ],
+    '5f05104c-d193-5dc0-a186-220910d7958f' => [
+        'Any time you have defensive ends going above you in the draft, when you know you put up numbers that were equal to better, you just have to use that as motivation. Whenever you\'re the underdog, you have to have the right attitude and just go out there and be yourself; just play.',
+        'Justin Tuck',
+    ],
+    'eda44b53-6a21-54b1-af38-45f9d7d2a74a' => [
+        'I feel like, if there\'s an elephant in the room, I\'d really like to start off by introducing the elephant in the room. And sometimes it\'s funny.',
+        'Louis Theroux',
+    ],
+    '11c59867-f078-5131-b1c3-01780c90c359' => [
+        'Time makes more converts than reason.',
+        'Thomas Paine',
+    ],
+    '9769bcff-f0f7-578e-a170-eaa562400ca9' => [
+        'A garden is always a series of losses set against a few triumphs, like life itself.',
+        'May Sarton',
+    ],
+    'f3683b7a-f777-584b-8d14-475610f7a730' => [
+        'The world is so competitive, aggressive, consumive, selfish and during the time we spend here we must be all but that.',
+        'Jose Mourinho',
+    ],
+    '382a9582-4c8f-5ce5-920a-7275ee8d8c0b' => [
+        'Boston is actually the capital of the world. You didn\'t know that? We breed smart-ass, quippy, funny people. Not that I\'m one of them. I just sorta sneaked in under the radar.',
+        'John Krasinski',
+    ],
+    '56a898e0-89a6-5791-9298-4acb5520d470' => [
+        'Perseverance is the hard work you do after you get tired of doing the hard work you already did.',
+        'Newt Gingrich',
+    ],
+    '2372c144-ed11-5f58-84fe-98c55bdc1594' => [
+        'Solitude is creativity\'s best friend, and solitude is refreshment for our souls.',
+        'Naomi Judd',
+    ],
+    '235a9b49-1bee-52b2-b1dc-02810f297627' => [
+        'The five essential entrepreneurial skills for success: Concentration, Discrimination, Organization, Innovation and Communication.',
+        'Harold S. Geneen',
+    ],
+    '5664a00f-5bdf-598c-8d5c-3304310c9f8c' => [
+        'Everything is perfect in the universe, even your desire to improve it.',
+        'Wayne Dyer',
+    ],
+    'c916fab0-c4e6-548e-90b3-6417d3ffa017' => [
+        'The most important thing is to enjoy your life - to be happy - it\'s all that matters.',
+        'Winston Churchill',
+    ],
+    'a8199954-ccbe-5adf-81f4-b6408aa95b70' => [
+        'Whatever you do, do it with all your might. Work at it, early and late, in season and out of season, not leaving a stone unturned, and never deferring for a single hour that which can be done just as well now.',
+        'P. T. Barnum',
+    ],
+    '5411c736-20ec-5cac-98a6-0a76d4c05a0a' => [
+        'I\'m totally into new age and self-help books. I used to work in a bookstore and that\'s the section they gave me, and I got way into it. I just loved the power of positive thinking, letting yourself go.',
+        'Jason Mraz',
+    ],
+    'cac67772-953d-578f-acf9-b85432d72011' => [
+        'Life opens up opportunities to you, and you either take them or you stay afraid of taking them.',
+        'Elizabeth Barrett Browning',
+    ],
+    'e9fbe7a1-8b8d-5940-afd6-5e9e883bfbbc' => [
+        'Indians are sometimes accused of being condescending toward Westerners and of being excessively preachy in their attitude toward other nations. That accusation is sometimes correct.',
+        'Gary Weiss',
+    ],
+    '62c1a117-2405-527f-a51b-e7a947c05edc' => [
+        'I\'m one of five sisters. I\'m the younger of twins, and we\'re the youngest of five girls, and we\'ve always been very close. We were pretty much a gang. I take after my mother a lot in terms of personality and character. She was very positive; always looked on the bright side of things. She had a tough time of it with my dad but did her best.',
+        'Jerry Hall',
+    ],
+    'd310725a-de85-581f-88af-5c658e08eba5' => [
+        'Before you can become a millionaire, you must learn to think like one. You must learn how to motivate yourself to counter fear with courage. Making critical decisions about your career, business, investments and other resources conjures up fear, fear that is part of the process of becoming a financial success.',
+        'Thomas J. Stanley',
+    ],
+    '7e4e2642-8c4c-5454-a47f-5122086f9bb5' => [
+        'Everything in excess is opposed to nature.',
+        'Hippocrates',
+    ],
+    'a4cc2356-270a-57ee-8655-ea1c6184f663' => [
+        'Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.',
+        'Pope John XXIII',
+    ],
+    'acf6c88d-a317-5989-9ea3-a95f5f67fa08' => [
+        'Success is not an accident. When you put yourself in the right place at the right time, then you\'re likely to be more successful because of how you prepare yourself on a daily basis.',
+        'Andrew Cherng',
+    ],
+    'f20ec147-5dee-518a-8d86-c220fbaa5f3b' => [
+        'One advantage of talking to yourself is that you know at least somebody\'s listening.',
+        'Franklin P. Jones',
+    ],
+    '5576044a-1ad6-5bf5-8c17-94d50f6a41f2' => [
+        'Expect the best, Prepare for the worst.',
+        'Muhammad Ali Jinnah',
+    ],
+    'eba45989-34bd-522d-9e16-cb3fcc5b3324' => [
+        'Everyone is handed adversity in life. No one\'s journey is easy. It\'s how they handle it that makes people unique.',
+        'Socrates',
+    ],
+    '2fc87eb8-3bac-585a-92ba-6dcf815495a3' => [
+        'My ideal travel companions are my family.',
+        'Pharrell Williams',
+    ],
+    'c45ec180-e577-55e6-9ecb-6fe78465009a' => [
+        'Sleep is the best meditation.',
+        'Dalai Lama',
+    ],
+    '087cbf6e-291e-52e9-a7da-a2414d745723' => [
+        'I don\'t want to let my guard down and feel too comfortable. If you become complacent, you start feeling entitled. I\'m ready to go dig ditches if I have to. Whatever I gotta do to provide for my family. Whatever I gotta do to make sure that I do the best possible job at whatever wonderful opportunities I\'ve been handed.',
+        'Mark Wahlberg',
+    ],
+    'a89284f7-7cb2-5cc9-a0a0-1f212981d999' => [
+        'Perhaps the mission of an artist is to interpret beauty to people - the beauty within themselves.',
+        'Langston Hughes',
+    ],
+    'c6ba2d26-b485-5317-b41c-8ab6e9e0b0fe' => [
+        'I\'m just a regular person who believes life is simple, and I like a simple life.',
+        'Virgil',
+    ],
+    'c55d4de4-0c7e-5c4c-a2ce-91c599b7ba28' => [
+        'I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.',
+        'Robert Fulghum',
+    ],
+    'fe447efa-9074-52aa-9abd-c6548494e768' => [
+        'I think about my work every minute of the day.',
+        'Jeff Koons',
+    ],
+    '1bf0beaf-f6ab-552a-be14-aebe7038c62c' => [
+        'Decades of research have shown that most happy families communicate effectively. But talking doesn\'t mean simply \'talking through problems,\' as important as that is. Talking also means telling a positive story about yourselves.',
+        'Bruce Feiler',
+    ],
+    '8351ee33-c864-536b-a324-aa27083e52c7' => [
+        'It is best for the wise man not to seem wise.',
+        'Aeschylus',
     ],
 ];

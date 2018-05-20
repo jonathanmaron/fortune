@@ -1,16 +1,18 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'd4eafa69-f730-55ec-ad31-717681401908' => [
-        'Some guys say beauty is only skin deep. But when you walk into a party, you don\'t see somebody\'s brain. The initial contact has to be the sniffing.',
-        'James Caan',
+    '959b5836-74a9-5fcc-a965-8240a1556046' => [
+        'You learn far more from negative leadership than from positive leadership. Because you learn how not to do it. And, therefore, you learn how to do it.',
+        'Norman Schwarzkopf',
     ],
-    '802b3d1e-7245-5548-ace5-108a748af379' => [
-        'As soon as beauty is sought not from religion and love, but for pleasure, it degrades the seeker.',
-        'Annie Dillard',
+    'ddea0b36-47a7-5cbe-aba5-660bb2ae7a84' => [
+        'Being named among the best at something is special and beautiful. But if there are no titles, nothing is won.',
+        'Lionel Messi',
     ],
-    '4bb760c4-9cf7-5eff-83c2-6d9eb149b735' => [
-        'The ultimate victory in competition is derived from the inner satisfaction of knowing that you have done your best and that you have gotten the most out of what you had to give.',
-        'Howard Cosell',
+    '865c825c-c3ba-51c7-bfa0-e2c62868a1bb' => [
+        'If you feel rooted in your home and family, if you\'re active in your community, there\'s nothing more empowering. The best way to make a difference in the world is to start by making a difference in your own life.',
+        'Julia Louis-Dreyfus',
     ],
 ];

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Application\Component\Console\Command\StatisticsCommand;
 
 use Application\Component\Console\Command\AbstractCommand as ParentCommand;
@@ -10,14 +12,14 @@ abstract class AbstractCommand extends ParentCommand
 
     protected $limit;
 
-    protected function getLimit()
+    protected function getLimit(): int
     {
         return $this->limit;
     }
 
-    protected function setLimit($limit)
+    protected function setLimit(int $limit): self
     {
-        $this->limit = (int) $limit;
+        $this->limit = $limit;
 
         return $this;
     }

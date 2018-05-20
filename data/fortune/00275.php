@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'ebafaec8-642e-59d9-a005-4af380d30622' => [
-        'Sometimes a loss is the best thing that can happen. It teaches you what you should have done next time.',
-        'Snoop Dogg',
+    'f7b0ceda-97ed-5e49-bb39-3a08487d6de6' => [
+        'I have great respect for the past. If you don\'t know where you\'ve come from, you don\'t know where you\'re going. I have respect for the past, but I\'m a person of the moment. I\'m here, and I do my best to be completely centered at the place I\'m at, then I go forward to the next place.',
+        'Maya Angelou',
     ],
-    'f9bde904-fa19-5110-b996-8058aa81a903' => [
-        'My personal view is that such total planning by the state is an absolute good and not simply a relative good... I do not myself think of the attitude I take as deriving from Marx - though this undoubtedly will be suggested - but from Fichte and Hegel.',
-        'John Grierson',
+    '6cbccaa1-d17e-5c3d-8c9d-1d45f02f0177' => [
+        'Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it\'s really how it works.',
+        'Steve Jobs',
     ],
-    'd5851be0-d2cd-5af1-8ad3-827efe53fd6a' => [
-        'Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.',
-        'Matt Zotti',
+    '5a865892-3aa6-5533-88da-6ee5cbba9c05' => [
+        'Friends are thieves of time.',
+        'Francis Bacon',
     ],
-    '80d33b2c-e042-58db-8ae4-31e6806b4d29' => [
-        'Life\'s blows cannot break a person whose spirit is warmed by the fire of enthusiasm.',
-        'Norman Vincent Peale',
+    '5bdded7d-d732-5e6c-9265-1bc907aed979' => [
+        'The best way to learn is by doing. The only way to build a strong work ethic is getting your hands dirty.',
+        'Alex Spanos',
     ],
-    '32e4fcc6-5c22-5148-af5d-3e8bb1732ffc' => [
-        'Happiness often sneaks in through a door you didn\'t know you left open.',
-        'John Barrymore',
+    'e4b2d108-3b34-57b9-a448-267ae271555f' => [
+        'What looks like enjoyment is the sneer of contempt. That\'s not a smile.',
+        'Jack Kevorkian',
     ],
-    '5c16cc10-ad5a-5355-8773-b59c5f22475a' => [
-        'Success doesn\'t necessarily come from breakthrough innovation but from flawless execution. A great strategy alone won\'t win a game or a battle; the win comes from basic blocking and tackling.',
-        'Naveen Jain',
+    '036369b0-2753-5df4-a0d9-43f84f22c0be' => [
+        'I did this role in Life Goes On as an HIV positive character and so emotionally that was the most challenging.',
+        'Chad Lowe',
     ],
-    '7df20741-4ede-5259-ac3c-8ba7c258edbd' => [
-        'The human brain is a funny thing: it\'s very susceptible to tempo and melody. You put the right words to it, and it becomes very influential.',
-        'Ray Stevens',
+    'cf2a5a62-e5db-5621-9348-f7fb4cb3eb6f' => [
+        'The beauty of the world, which is so soon to perish, has two edges, one of laughter, one of anguish, cutting the heart asunder.',
+        'Virginia Woolf',
     ],
-    '2154033d-515d-5f11-876b-3fff702244c0' => [
-        'For a gallant spirit there can never be defeat.',
-        'Wallis Simpson',
+    '87225a16-f68a-5e79-b044-49236468783a' => [
+        'The arts, quite simply, nourish the soul. They sustain, comfort, inspire. There is nothing like that exquisite moment when you first discover the beauty of connecting with others in celebration of larger ideals and shared wisdom.',
+        'Gordon Gee',
     ],
-    '75b8e35f-0b42-5938-83e3-a3466e4af32e' => [
-        'I do love to eavesdrop. It\'s inspirational, not only for subject matter but for actual dialogue, the way people talk.',
-        'Lynda Barry',
+    'db977117-d695-5728-adeb-6f8349c478e8' => [
+        'Comrades, this man has a nice smile, but he\'s got iron teeth.',
+        'Andrei A. Gromyko',
     ],
-    '7a7424c4-3661-5dc4-8553-74b477993ad1' => [
-        'For me, every day is a new thing. I approach each project with a new insecurity, almost like the first project I ever did. And I get the sweats. I go in and start working, I\'m not sure where I\'m going. If I knew where I was going I wouldn\'t do it.',
-        'Frank Gehry',
+    '30889481-e9bf-5b70-a1a2-0bc001473e0e' => [
+        'In every man\'s heart there is a secret nerve that answers to the vibrations of beauty.',
+        'Christopher Morley',
     ],
-    '2add02d2-3fa4-5004-93c8-43f8e19174e8' => [
-        'The minute you settle for less than you deserve, you get even less than you settled for.',
-        'Maureen Dowd',
+    'f95fc112-1c58-59ba-a913-2276258051f3' => [
+        'Gardening is not trivial. If you believe that it is, closely examine why you feel that way. You may discover that this attitude has been forced upon you by mass media and the crass culture it creates and maintains. The fact is, gardening is just the opposite - it is, or should be, a central, basic expression of human life.',
+        'Andrew Weil',
     ],
-    'dd5c8295-5bab-5552-9b90-61d538bb564e' => [
-        'A horse is a thing of beauty... none will tire of looking at him as long as he displays himself in his splendor.',
-        'Xenophon',
+    '5781306c-e7c6-520d-87ac-fc98a05a370f' => [
+        'I often read nonfiction with a pencil in hand. I love the feel, the smell, the design, the weight of a book, but I also enjoy the convenience of my Kindle - for travel and for procuring a book in seconds.',
+        'Drew Gilpin Faust',
     ],
-    'adecba2a-1c35-5a86-a2c3-af2edccc9b99' => [
-        'When you\'re in love it\'s the most glorious two and a half days of your life.',
-        'Richard Lewis',
+    '47c9197d-4daa-52dc-9e29-b7a1f909c2f8' => [
+        'Architecture is not an inspirational business, it\'s a rational procedure to do sensible and hopefully beautiful things; that\'s all.',
+        'Harry Seidler',
     ],
-    'aeae7492-18e9-5876-be1b-bad12c8ba58e' => [
-        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
-        'John P. Kotter',
+    '0ae2f77d-997a-5edc-bbb5-7b039ec0816f' => [
+        'Never retreat. Never explain. Get it done and let them howl.',
+        'Benjamin Jowett',
     ],
-    '3ff7c9c7-6ef0-5830-a402-b1afecd9bbf0' => [
-        'In a balanced organization, working towards a common objective, there is success.',
-        'Arthur Helps',
+    '1ee3b91f-63f4-5bde-9a37-2d31e27ca9d7' => [
+        'Much may be done in those little shreds and patches of time which every day produces, and which most men throw away.',
+        'Charles Caleb Colton',
     ],
-    'f3fe9727-082d-5c6d-9405-7a149ee3254b' => [
-        'I grew up in a big family with a lot of kids around, and I definitely want to have children as well.',
-        'Heidi Klum',
+    'd369cd77-763d-5bd2-9c6f-f9d8b3a14d05' => [
+        'Each day is the scholar of yesterday.',
+        'Sophia Bush',
     ],
-    '0dfad9f0-d3e3-52d8-8c77-5e7a0e6fd013' => [
-        'So long as you have food in your mouth, you have solved all questions for the time being.',
-        'Franz Kafka',
+    'c30ffe30-8f92-5a87-833f-9c843489234e' => [
+        'I failed the LSAT. Basically, if I had not failed, I\'d have been a lawyer and there would be no Spanx. I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating.',
+        'Sara Blakely',
     ],
-    '5db0c6bd-dc9b-5d68-ba72-fba92efe83e0' => [
-        'If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.',
-        'Bruce Lee',
+    'f09c4c76-0a7c-58e0-b89e-5fd2b24de1e1' => [
+        'Being nice can be funny. A lot of my jokes are like, \'Let me take a bad situation and try to put the best spin on it.\'',
+        'Ron Funches',
     ],
-    '7047490d-7666-5e6b-bf51-f8f4fcd16a09' => [
-        'Human settlements are like living organisms. They must grow, and they will change. But we can decide on the nature of that growth - on the quality and the character of it - and where it ought to go. We don\'t have to scatter the building blocks of our civic life all over the countryside, destroying our towns and ruining farmland.',
-        'James Howard Kunstler',
+    'f5f96eb8-88ae-54f1-88b8-82607be8b36b' => [
+        'To delight in war is a merit in the soldier, a dangerous quality in the captain, and a positive crime in the statesman.',
+        'George Santayana',
     ],
-    '6d937587-2677-5515-84f6-b333b712561d' => [
-        'I think that success is having fun.',
-        'Bruno Mars',
+    '24031233-d576-5bc1-a64a-d5330d59df21' => [
+        'In any team sport, the best teams have consistency and chemistry.',
+        'Roger Staubach',
     ],
-    '204bba8c-ff72-56bd-9a2d-802aee495949' => [
-        'I think it is a combination of looks, aura, success, the energies that one gives out, the person you are and the person you feel like that makes you \'desirable.\' When the outside world sees you as a man who is responsible for himself and his family, as a man who is fit and sensitive, it kind of ups your desirability.',
-        'Arjun Rampal',
+    'e690c30c-fadd-5e25-887b-7efb1f2cbd84' => [
+        'They succeed, because they think they can.',
+        'Virgil',
     ],
-    'fa67149b-3a09-548a-8bb1-8e411b0fbe76' => [
-        'There is always room at the top.',
-        'Daniel Webster',
+    '5461fdd8-996d-59ff-a9dd-e78d58ef2eff' => [
+        'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don\'t think about it is when I\'m playing it.',
+        'Carl Yastrzemski',
     ],
-    'e945a13d-da1d-595a-b5b0-6acc6abfc6fe' => [
-        'Every man is a volume if you know how to read him.',
-        'Channing',
+    '3ee14943-bcd8-5195-b247-3d90448c4f5b' => [
+        'Do not make best friends with a melancholy sad soul. They always are heavily loaded, and you must bear half.',
+        'Francois Fenelon',
     ],
-    'a25900b3-935c-58ac-b257-43e7de9598f0' => [
-        'A zero-gravity flight is a first step toward space travel.',
-        'Stephen Hawking',
+    'db2e0750-ab75-5e2d-9a55-b9901ef728d5' => [
+        'But time growing old teaches all things.',
+        'Aeschylus',
     ],
-    '936801bd-4091-5484-be39-f9aa69e73ad7' => [
-        'Regarding marriage, it - somehow, it didn\'t happen. One fellow in such a big family not getting married is not an issue.',
-        'A. P. J. Abdul Kalam',
+    '78f996ba-b89d-55c9-8ebe-dc844363c232' => [
+        'Time abides long enough for those who make use of it.',
+        'Leonardo da Vinci',
     ],
-    'a9241445-8670-5fd3-ba8b-7d48b0dac257' => [
-        'No great achiever - even those who made it seem easy - ever succeeded without hard work.',
-        'Jonathan Sacks',
+    '8aa2d0e9-f782-5502-80e6-b1cd21268b7f' => [
+        'It\'s funny, but when I arrived in California to start college I was much more interested in becoming a surfer and cruise along in life from one beach to the next. I didn\'t plan out any huge career for myself.',
+        'Benicio Del Toro',
     ],
-    '7d55372a-6edb-5d23-89dd-5d43703eaf8b' => [
-        'Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.',
-        'Sue Patton Thoele',
+    'c81e3a1b-df36-5425-9267-04784f987b4a' => [
+        'I truly believe that everything that we do and everyone that we meet is put in our path for a purpose. There are no accidents; we\'re all teachers - if we\'re willing to pay attention to the lessons we learn, trust our positive instincts and not be afraid to take risks or wait for some miracle to come knocking at our door.',
+        'Marla Gibbs',
     ],
-    '015d7c6c-5bb2-518f-be96-09e75016b2d9' => [
-        'When it comes to the things that people really want in science fiction - like space travel - the simplest things end up causing them not to happen. Humans are 100-pound bags of water, built to live on Earth.',
-        'Lawrence M. Krauss',
+    '941f5585-5375-508f-ad28-fa6120589839' => [
+        'When I got into the film business, my aim was to adopt a positive persona, of a guy who fights against injustice. And it saved me, because my acting was atrocious to say the least!',
+        'Chuck Norris',
     ],
-    '70897bf6-099a-5d09-ae30-6ab00169f4bc' => [
-        'Bite off more than you can chew, then chew it.',
-        'Ella Williams',
+    '8785c877-dd88-5745-85d2-e4ec6fbefefc' => [
+        'Man, me and Biggie were the biggest artists in New York. When he passed, I was so messed up. My attitude was messed up about him dying. There was an East-West thing back then, and I was in war mode.',
+        'Nas',
     ],
-    'd0692cd6-3540-52d5-9c74-eaa2b7f7773b' => [
-        'The best form of flattery is to be admired, imitated or respected. I\'ve always felt proud our fans look up to us or feel we are inspirational.',
-        'Cheryl James',
+    '752847c7-b136-5c00-ae25-43d450468d8c' => [
+        'Right after \'Raymond\' I had a world-is-my-oyster attitude, but I found out I don\'t like oysters. I had this existential emptiness. \'What is my purpose? Who am I?\' I had a big identity crisis.',
+        'Ray Romano',
     ],
-    '168afdda-8d48-51f8-a7e7-3b850d86a545' => [
-        'I\'m thrilled to continue my partnership with U by Kotex for Generation Know while helping to empower girls. I\'ve always been a motivational resource for my younger sisters and hope I can positively impact and inspire other young girls too.',
-        'Khloe Kardashian',
+    'b4abd7e8-56df-5c33-b4eb-1928b6f85f58' => [
+        'The jealous are possessed by a mad devil and a dull spirit at the same time.',
+        'Johann Kaspar Lavater',
     ],
-    '6b3ac914-5ff1-5964-ace9-6e502365367a' => [
-        'A failure is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to stop trying.',
-        'B. F. Skinner',
+    '697c09ac-d839-50ee-9eb6-cde49f0ee3e9' => [
+        'Be the chief but never the lord.',
+        'Lao Tzu',
     ],
-    'c0aa7944-edcf-5d68-a111-b10745a9a357' => [
-        'I can\'t imagine anything more worthwhile than doing what I most love. And they pay me for it.',
-        'Edgar Winter',
+    'ded0b940-4620-5200-b344-0d01412f7a13' => [
+        'Whatever success I\'ve had, I always like to top it.',
+        'Bernie Mac',
     ],
-    '2da2f5fc-12bb-56fc-9119-a60529f9087e' => [
-        'I say always follow your passion, no matter what, because even if it\'s not the same financial success, it\'ll lead you to the money that\'ll make you the happiest.',
-        'Ellen DeGeneres',
+    'c4449a0f-b5e7-580f-935c-410be651683f' => [
+        'Racing is the only time I feel whole.',
+        'James Dean',
     ],
-    'c9255e51-8af7-5005-91a2-0aa43d68053b' => [
-        'Enhance and intensify one\'s vision of that synthesis of truth and beauty which is the highest and deepest reality.',
-        'Ovid',
+    '7fb57316-94f7-5d37-803a-84e780eda3a7' => [
+        'Sorrows gather around great souls as storms do around mountains; but, like them, they break the storm and purify the air of the plain beneath them.',
+        'Jean Paul',
     ],
-    '5d77fdb1-aad6-59cc-8223-7b6ebb8e7545' => [
-        'I believe that when you work on yourself, you are attracted by different, more positive beings.',
-        'Isabelle Adjani',
+    'f3b7e146-c5ed-5aca-9893-875a1ad40938' => [
+        'I am trying to inspire people to just take control of their oral health, because if we don\'t take care of our oral health, it affects so many different aspects of our lives. If your smile and mouth is not together, it affects your relationship, your self-esteem, your health.',
+        'Sherri Shepherd',
     ],
-    '21c38106-8e39-58b9-acdf-34f60381f6b5' => [
-        'FEarly to bed and early to rise, makes a man healthy, wealthy and wise.',
-        'Benjamin Franklin',
+    'c4daeef3-a09f-5d00-95a9-ce9a2ed2af04' => [
+        'We lost because we told ourselves we lost.',
+        'Leo Tolstoy',
     ],
-    '3e6e26d6-ef4e-539c-9cac-d806ec775b33' => [
-        'What reader wants to be told what attitude to strike?',
-        'Ian Mcewan',
+    '3470b054-56a2-5ebd-ae8b-4abd27191dba' => [
+        '\'Sunrise Sunset\' is about trying to get to a place where life is simple and not letting the stress and happenings in the world get in the way of your happiness.',
+        'Tiffany Trump',
     ],
-    'a00387fb-706c-5eae-825b-372ef52e0811' => [
-        'And, behold, I come quickly; and my reward is with Me, to give every man according as his work shall be. I am Alpha and Omega, the beginning and the end, the first and the last.',
-        'Jesus Christ',
+    'e68f2fff-fe81-504c-aa07-a89ebb6ca714' => [
+        'Most of my arguments with musicians through the years have had more to do with their attitude about music, or their attitude about their own lives, or their personal responsibility. Music has never really been the big centerpiece of the fight.',
+        'Billy Corgan',
     ],
-    '9d829443-5b3c-5407-b7c8-7f3d34cb3bcf' => [
-        'I have the simplest tastes. I am always satisfied with the best.',
-        'Oscar Wilde',
+    '1af702b4-b620-5ba4-8dcc-207021db9662' => [
+        'Life is what happens to you while you\'re busy making other plans.',
+        'John Lennon',
     ],
-    'd8b44326-66ff-59ad-bc8c-7087469a3d83' => [
-        'The very nature of science is discoveries, and the best of those discoveries are the ones you don\'t expect.',
-        'Neil deGrasse Tyson',
+    'b0584a20-cd2f-5abc-8d76-8e208cf8f18c' => [
+        'My first feeling about the paper and the attitude is that it is absurd.',
+        'Arthur Holly Compton',
     ],
-    '966bcbb0-8a95-5114-9fe7-9bb5cacef47d' => [
-        'There are people who are able to plan their career, their future, but I\'ve never had any talent for that. I just do things and hope for the best. Say yes, take a chance, and sometimes it\'s terrific and sometimes it\'s not.',
-        'Christopher Walken',
+    '798b3c64-b3d8-5eaf-b167-81beadff644c' => [
+        'Our Founding Fathers drafted the Bill of Rights to ensure that We the People could determine how best to protect our communities.',
+        'Mike Quigley',
     ],
-    'e0c697fd-9678-579b-9fd5-7d71c16c4ade' => [
-        'I wanted to be looked at for the skateboarder that I was. I didn\'t want to be the 36-year-old skateboarder who\'s still holding on while owning a company at the same time. I wanted to make my mark and travel and accomplish a few things here and there and then get out.',
-        'Jason Lee',
+    '4af84666-3761-55f5-9320-c910cd84e79c' => [
+        'Choose a job you love, and you will never have to work a day in your life.',
+        'Confucius',
     ],
-    '22114c57-3b5c-5486-a3f1-03b47b7a0596' => [
-        'There is no personal achievement in being born beautiful.',
-        'Loretta Young',
+    '282dbe1a-7c40-5d94-ab4c-16474d840b11' => [
+        'Work is that which you dislike doing but perform for the sake of external rewards. At school, this takes the form of grades. In society, it means money, status, privilege.',
+        'Abraham Maslow',
     ],
-    '126100ee-b300-53c7-a428-a2dcf77c609c' => [
-        'Certain thoughts are prayers. There are moments when, whatever be the attitude of the body, the soul is on its knees.',
-        'Victor Hugo',
+    '46505a42-43b5-539d-872f-3b179fa18ff3' => [
+        'Christmas is the day that holds all time together.',
+        'Alexander Smith',
     ],
-    '27a04032-5e45-5b9e-bdb3-df49d2d9111a' => [
-        'My family background is Mexican, and I was born in Chicago. It\'s pretty much family tradition every time we get together for Christmas and major holidays to sing. Our family time is centered around the food and a little bit of performing for one another.',
-        'Ailyn Perez',
+    '290cf823-2ade-5b6b-bc3b-8a28d19bdb5e' => [
+        'What was really funny is that as I got older all those guys who called me a sissy in junior high school wanted me to be their best friend because they wanted to meet all the girls that I knew in figure skating.',
+        'Scott Hamilton',
     ],
-    'a37254b3-14bf-5eb6-bae6-a5afbfc93078' => [
-        'Well, one of the most important things for Americans to be reminded of is that a lot of the exceptional nature of our country is founded in Judeo-Christian values that promotes individualism, personal responsibility, a strong work ethic, and a commitment to family, charity.',
-        'Jim DeMint',
+    '27e03a0f-36ac-5897-8b43-1d5a3a7d000a' => [
+        'How wonderful that we have met with a paradox. Now we have some hope of making progress.',
+        'Niels Bohr',
     ],
-    'fabf0285-871f-5dc0-82f4-085f6fe006c1' => [
-        'Waking up sober is a good day. I love being able to wake up and do positive things, to go to the gym.',
-        'Rodney King',
+    'e2a2df5f-55aa-5878-97cb-238273896e8f' => [
+        'That\'s who my mom is. She\'s a listener and a doer. She\'s a woman driven by compassion, by faith, by a fierce sense of justice and a heart full of love. So, this November, I\'m voting for a woman who is my role model, as a mother, and as an advocate. A woman who has spent her entire life fighting for families and children.',
+        'Bob Marley',
     ],
-    'e0a29d16-0587-5f71-9c8a-9b971eb18660' => [
-        'The beautiful thing about the NFL season is to see a team come together after they get to know each other in the spring and summer. You then go through adversity together and see how you respond. The teams that can respond in a positive way are the teams that are going to be there in the end.',
-        'Aaron Rodgers',
+    'd2436d84-94d3-56cb-aab7-061797234af2' => [
+        'I grew up in a family with two very strong women, my mother and my older sister, and they were big influences on my life.',
+        'Darren Aronofsky',
     ],
-    'f317a411-5f74-5bd0-8f5b-6e6e23af6467' => [
-        'Laziness may appear attractive, but work gives satisfaction.',
-        'Anne Frank',
+    '59c1ad1b-d9cf-56dd-b337-1a8bb9e7a33f' => [
+        'A year or so ago I went through all the people in my life and asked myself: does this person inspire me, genuinely love me and support me unconditionally? I wanted nothing but positive influences in my life.',
+        'Mena Suvari',
     ],
 ];

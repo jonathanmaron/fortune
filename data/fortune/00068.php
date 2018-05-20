@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '00e6da2f-02f8-52ae-89df-b0d7769ee19e' => [
-        'If we don\'t hope, if we don\'t stay positive - at least about love, or finding love - then the rest of life becomes really just painful to think about, because for the most part, you know, day-to-day stuff is monotonous.',
-        'Nev Schulman',
+    '0527974b-1482-594d-bf83-24c43e0d3912' => [
+        'Why do they call it rush hour when nothing moves?',
+        'Robin Williams',
     ],
-    'c64d7371-4e9f-5a3e-9bab-67f18e5f77bb' => [
-        'If you force yourself to smile, within a couple minutes, you feel happy.',
-        'Dean Norris',
+    '1cc34a04-bb20-546d-9af7-70337916388c' => [
+        'About the most exciting thing a baby can do is burp - I\'ve spent hours of my life holding a baby on my shoulder and patting its back, trying to loosen up a burp. Burping was probably invented to give the father something positive to do, since our chests are not equipped to allow us to do much else.',
+        'W. Bruce Cameron',
     ],
-    '9d3134be-eebf-54a4-8387-9d2acb03030c' => [
-        'I have had a perfectly wonderful evening, but this wasn\'t it.',
-        'Groucho Marx',
+    '730de8ee-7a64-5fe8-8c51-7c6816f14855' => [
+        'Playing is just about feeling. Playing isn\'t necessarily about misery. Playing isn\'t necessarily about happiness. But it\'s just about letting yourself feel all those things that you have already on the inside of you, but you\'re all the time trying to push them aside because they don\'t make for polite conversation or something.',
+        'Janis Joplin',
     ],
-    '78208f6d-c012-58f5-a44e-ecd072866a46' => [
-        'None of us can claim to be fair and square in love - and I\'m definitely not a hypocrite! Humans are built to evolve with time. It depends on the nature of the relationship you share with a person. It is there today, tomorrow it may be gone; c\'est la vie.',
-        'Randeep Hooda',
+    'a8e4e164-b701-5b88-8c31-f813cd8bc67c' => [
+        'As a football team, you head into the season the same way with confidence and a positive mindset that you are going to win a bunch of football games.',
+        'Matthew Stafford',
     ],
-    '44b2d3d7-7766-527d-82a2-fa42a71b21ca' => [
-        'I come from a blue collar family, but my personal life isn\'t. I didn\'t get the gene that my grandfather had in spades. He was a local hero. Built the church that I went to. Built the house I grew up in. Steamfitter, pipefitter, electrician, mechanic and plumber. I wanted to do those things. But it just didn\'t come easy.',
-        'Mike Rowe',
+    'f7604653-5e97-5510-9677-30932053c49a' => [
+        'It\'s quite funny in that I once won Rear of the Year at my school! I was about 17 in the sixth form and we used to have an end of year celebration and give out different awards. I even got a little trophy!',
+        'Jessica Ennis',
     ],
-    'aa5ef606-03f4-5a41-8f6d-ddf51b0a7394' => [
-        'I am definitely going to take a course on time management... just as soon as I can work it into my schedule.',
-        'Louis E. Boone',
+    'e5e01cbf-ec29-549d-81b9-6998e9431fea' => [
+        'I\'ve never been to a dinner party where everyone at the dinner table didn\'t say something funny.',
+        'Lorrie Moore',
     ],
-    '5a62567d-da64-5985-bd79-1adcec3b894b' => [
-        'Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.',
-        'Paramahansa Yogananda',
+    '14b95bae-3a88-512f-a0cc-7410b00e145f' => [
+        'Everything that irritates us about others can lead us to a better understanding of ourselves.',
+        'Carl Jung',
     ],
-    'bc7484c7-58f3-5f93-be43-7bb3a12c484a' => [
-        'An oversupply of national sentiment is not the problem in Somalia. The problem is a lack of it. The problem is an oversupply of sub-sub-clannish attitude.',
-        'Meles Zenawi',
+    '281f8754-1f5e-5b45-a5a2-bb975f0f809b' => [
+        'Success is achieved and maintained by those who try and keep trying.',
+        'W. Clement Stone',
     ],
-    '3208b074-d64e-5028-baa1-61254821d1cf' => [
-        'Let me encourage you to get up every day and focus on what you do have in life. Be thankful for the blessings of the little things, even when you don\'t get what you expect.',
-        'Persius',
+    '0b610574-7270-50e8-8165-163e414142a5' => [
+        'Somehow a bachelor never quite gets over the idea that he is a thing of beauty and a boy forever.',
+        'Helen Rowland',
     ],
-    '6f407689-ad54-5c20-be70-7fc577e70f86' => [
-        'I usually travel with a posse. I roll deep. I travel like a rapper, but without the artillery. We don\'t carry guns, we carry cookies.',
-        'Gabriel Iglesias',
+    'b095ea51-50fa-5aba-bb0b-34c62fdef268' => [
+        'Always go into meetings or negotiations with a positive attitude. Tell yourself you\'re going to make this the best deal for all parties.',
+        'Natalie Massenet',
     ],
-    '9e8b5105-034e-5edd-8fc2-bc4e6cc5c5b5' => [
-        'I mean, I - it\'s so funny, I am, you know, I am, you know, a working woman out in the world, but I still live with my parents half the time. I\'ve been sort of taking this very long, stuttering period of moving out.',
-        'Lena Dunham',
+    'c4b7ee34-cfe3-5a35-9c3f-f72a3d836b26' => [
+        'My height doesn\'t define my skill set. To be a great quarterback, you have to have great leadership, great attention to detail and a relentless competitive nature - and I try to bring that on a daily basis.',
+        'Russell Wilson',
     ],
-    '876726b5-2b3e-50cd-b8e7-4b6cdd95c507' => [
-        'Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don\'t quit.',
-        'Conrad Hilton',
+    'bd35f013-95cf-5450-b8fc-d0f399202a21' => [
+        'As long as you have discipline, you can be a success. Discipline is what makes you do everything you need to do.',
+        'Anthony Joshua',
     ],
-    'c8d77a9e-efc8-54c5-9e13-ee041076274d' => [
-        'At home in L.A., Sunday is lazy. It\'s the wife and me lying in bed with coffee, watching \'The Soup\' or something funny on TiVo. The kid will occasionally join us. Eventually, breakfast is at a place down the street called Paty\'s. And we always have some kind of great dinner - my wife makes a great roast beef.',
-        'Eric McCormack',
+    '67272376-fe1b-5b31-a477-439c2eb5e8ae' => [
+        'To me, if life boils down to one thing, it\'s movement. To live is to keep moving.',
+        'Buddha',
     ],
-    '2ee8cecd-1b71-5740-9c1b-3f2547bb9fe3' => [
-        'Each one of us has our own evolution of life, and each one of us goes through different tests which are unique and challenging. But certain things are common. And we do learn things from each other\'s experience. On a spiritual journey, we all have the same destination.',
-        'Thomas Fuller',
+    '01a6e3d3-ab5c-5dde-8499-274ef919e8c5' => [
+        'I own more pairs of Calvin Klein underwear than I can count. At any given time, I probably have 50 to 60 pairs on deck. I travel with an entire suitcase of underwear and t-shirts, and they\'re all Calvin Klein.',
+        'Trey Songz',
     ],
-    '0367e057-c1cd-5074-9116-1ad54ea5f082' => [
-        'All the champions - you go and ask Mike Tyson or Joe Louis, Rocky Marciano, Lennox Lewis and myself included, and I\'m sorry for putting myself in line with all the other great names - but the champion\'s attitude is it doesn\'t matter who is in front of me, I am going to conquer this person and win the fight and knock the person out.',
-        'Wladimir Klitschko',
+    'c02d0402-a021-5961-b9fb-52b2ae7fd84e' => [
+        'Fixing a broken immigration system. Protecting our kids from gun violence. Equal pay for equal work, paid leave, raising the minimum wage. All these things still matter to hardworking families; they are still the right thing to do; and I will not let up until they get done.',
+        'Barack Obama',
     ],
-    '0f8016be-2659-5711-b7aa-852bc29033a9' => [
-        'The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you\'re free.',
-        'Ray Manzarek',
+    '43ff2d1f-019f-5c5f-ab35-346d155bae41' => [
+        'I can retire from football with a smile on my face.',
+        'John Matuszak',
     ],
-    '46aa4052-78a3-5874-ae1a-304480a77a7d' => [
-        'Prejudice is a great time saver. You can form opinions without having to get the facts.',
-        'E. B. White',
+    '5dd8cef6-19ee-538c-82ce-622fdd9f44ee' => [
+        'Goodness is beauty in the best estate.',
+        'Christopher Marlowe',
     ],
-    '6086421b-3a72-56fe-8df6-96d73a19082f' => [
-        'You must do the things you think you cannot do.',
-        'Eleanor Roosevelt',
+    '78c5a213-4bca-5f0f-aad1-d87e2060204c' => [
+        'I was so naive as a kid I used to sneak behind the barn and do nothing.',
+        'Johnny Carson',
     ],
-    'dec31a99-e211-5304-a147-b406a4e1aff0' => [
-        'Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.',
-        'Madame de Stael',
+    '9a20b654-53bd-50e3-9d9a-33d5c017cda5' => [
+        'Transparency, honesty, kindness, good stewardship, even humor, work in businesses at all times.',
+        'John Gerzema',
     ],
-    '574c1af7-af72-523b-92aa-c7b01a5c8bf2' => [
-        'If you dream of something worth doing and then simply go to work on it and don\'t think anything of personalities, or emotional conflicts, or of money, or of family distractions; it is amazing how quickly you get through those 5,000 steps.',
-        'Edwin Land',
+    '9a9581fa-b2bc-5453-9460-7925e65a4f1e' => [
+        'Truth is, I\'ll never know all there is to know about you just as you will never know all there is to know about me. Humans are by nature too complicated to be understood fully. So, we can choose either to approach our fellow human beings with suspicion or to approach them with an open mind, a dash of optimism and a great deal of candour.',
+        'Tom Hanks',
     ],
-    '0441e76d-1df2-5d53-b8e0-be5865023680' => [
-        'The biggest adventure you can ever take is to live the life of your dreams.',
-        'Oprah Winfrey',
+    '7b56c02a-62eb-54cd-8069-71653168187b' => [
+        'Hope arouses, as nothing else can arouse, a passion for the possible.',
+        'William Sloane Coffin',
     ],
-    '171194ac-58fa-5c65-baa6-e77cc94ff7a5' => [
-        'Every successful organization has to make the transition from a world defined primarily by repetition to one primarily defined by change. This is the biggest transformation in the structure of how humans work together since the Agricultural Revolution.',
-        'Bill Drayton',
+    '844d28c1-94b3-5628-8e09-d6203545a27f' => [
+        'I am Classic Rock Revisited. I revisit it every waking moment of my life because it has the spirit and the attitude and the fire and the middle finger. I am Rosa Parks with a Gibson guitar.',
+        'Ted Nugent',
     ],
-    '005c86e8-9c8f-571f-850e-c5eb351a73be' => [
-        'Nonfiction speaks to the head. Fiction speaks to the heart. Poetry speaks to the soul. It\'s the essence of beauty. The essence of pain. It pleases the eye and the ear.',
-        'Ellen Hopkins',
+    'a9c1b967-9d88-543f-ad24-6a268a9748d0' => [
+        'One might think that the money value of an invention constitutes its reward to the man who loves his work. But... I continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.',
+        'Thomas A. Edison',
     ],
-    '3850f342-0b04-5bc7-a5e2-a1bb9f7983bd' => [
-        'Younger women have no problem in reconciling beauty with ambitions as a professional woman.',
-        'Camille Paglia',
+    '38b415a5-b10b-5e06-86dd-8b06fe7d54ce' => [
+        'You\'re not obligated to win. You\'re obligated to keep trying to do the best you can every day.',
+        'Marian Edelman',
     ],
-    'e5be30ea-7094-5b6e-96eb-1cd1a3849c10' => [
-        'There are essential elements for our public schools to fully develop the potential of both students and educators. They should be centers of community, where students, families and educators work together to support student success. They should foster collaboration.',
-        'Randi Weingarten',
+    'cd0498c6-c690-59a9-a489-38c961af2087' => [
+        'Time travel and teleportation will have to wait. It may take centuries to master these technology. But within the coming decades, we will understand dark matter, perhaps test string theory, find planets which can harbor life, and maybe have Brain 2.0, i.e. our consciousness on a disk which will survive even after we die.',
+        'Michio Kaku',
     ],
-    '90835341-10fd-5090-92be-1712de611195' => [
-        'There is no wealth but life.',
-        'Jackson Pollock',
+    '9f5b63ad-bffa-5f0e-b0d2-b00b5884f090' => [
+        'Growing up in Nashville, especially in a music business family, means growing up with knowledge that seems like common sense until later in life when you realize people spend thousands of dollars a semester trying to learn or pretending to learn while looking for some intern job on music row.',
+        'Caitlin Rose',
     ],
-    '9c5e99f4-47d4-5916-a354-2d90ed8f4f41' => [
-        'Success is how high you bounce when you hit bottom.',
-        'George S. Patton',
+    '07ba4f13-d8e5-5973-8d1f-45329d1879cb' => [
+        'I strongly believe that through dedication and perseverance, one can overcome adversity to achieve success. It is a privilege to accept membership in the Horatio Alger Association, an organization which promotes this principle.',
+        'Ginni Rometty',
     ],
-    '09fd5516-d75d-5072-a119-9a5b442197fa' => [
-        'There is a sense that things, if you keep positive and optimistic about what can be done, do work out.',
-        'Hillary Clinton',
+    'b5a8a266-9fa6-5213-ba3c-37f9b46d0028' => [
+        'Work will win when wishy washy wishing won t.',
+        'Thomas S. Monson',
     ],
-    '5cbf79b8-f6e8-5990-a746-8db84de99bf9' => [
-        'We don\'t stop playing because we grow old; we grow old because we stop playing.',
-        'Bernard Shaw',
+    '77bc2661-822d-5c4e-a6b6-173c7f427105' => [
+        'It is good to dream big but your dreams will never see the light of day if you sleep big too.',
+        'Anonymous',
     ],
-    'd20a7ca4-0b8f-57fb-8d37-c77471dfe159' => [
-        'You are important enough to ask and you are blessed enough to receive back.',
-        'Wayne Dyer',
+    'd07b3f42-308f-5501-90f9-88522074a2c5' => [
+        'For small business people, less paperwork means higher profits, boosted sales and more time with the family.',
+        'Tony Abbott',
     ],
-    '7db8ca6e-afce-595c-aa41-a53ab24c9597' => [
-        'Italians come to ruin most generally in three ways, women, gambling, and farming. My family chose the slowest one.',
-        'Pope John XXIII',
+    'f64a66fe-21d4-5f70-8d93-25728b5eb341' => [
+        'The place to improve the world is first in one\'s own heart and head and hands.',
+        'Robert M. Pirsig',
     ],
-    '759bfab3-c14e-5754-a1a9-4a435e869320' => [
-        'A man\'s got to take a lot of punishment to write a really funny book.',
-        'Ernest Hemingway',
+    '114722a6-9e48-58ed-a5d1-073246ec25e9' => [
+        'Knowledge is being aware of what you can do. Wisdom is knowing when not to do it.',
+        'Unknown',
     ],
-    '1480b476-dc3a-5c1c-811e-ffabed9120ac' => [
-        'Where is there beauty when you see deprivation and starvation?',
-        'Rosalind Russell',
+    'b13b8139-94f6-51f4-a76f-610b458fa131' => [
+        'Success breeds complacency. Complacency breeds failure. Only the paranoid survive.',
+        'Andy Grove',
     ],
-    '4325daa8-fa4c-5bdf-bc67-19a3aa040357' => [
-        'To be prepared is half the victory.',
-        'Miguel de Cervantes',
+    '5c428dbb-3edd-53ed-9f23-c03e410e232f' => [
+        'Follow your inner moonlight; don\'t hide the madness.',
+        'Allen Ginsberg',
     ],
-    'd78f3e26-c991-5a56-9533-cb46ea0c0aeb' => [
-        'He can who thinks he can, and he can\'t who thinks he can\'t. This is an inexorable, indisputable law.',
-        'Pablo Picasso',
+    '704d6e2e-a096-5fca-a55d-e204feb0da38' => [
+        'I wanted to do another movie that could make us laugh and cry and feel good about the world. I wanted to do something else that could make us smile. This is a time when we need to smile more and Hollywood movies are supposed to do that for people in difficult times.',
+        'Steven Spielberg',
     ],
-    'e5f64140-f2f0-5813-b8a5-ce46dcb090a0' => [
-        'Courage is not the absence of fear, but simply moving on with dignity despite that fear.',
-        'Pat Riley',
+    '0e9c0595-be71-58ba-8979-c5b0edbe021f' => [
+        'I would absolutely recommend against excessive positivity and optimism. Any positive emotion that you\'re infusing into a workplace needs to be grounded in reality. If it\'s not realistic, sincere, meaningful, and individualized, it won\'t do much good.',
+        'Tom Rath',
     ],
-    '3bd6b935-c999-51f3-8b37-8e0a150b3e48' => [
-        'A person who never made a mistake never tried anything new.',
-        'Albert Einstein',
+    '4b24bb13-f39e-5dbc-b830-f513e07d845c' => [
+        'Success is nothing more than a few simple disciplines, practiced every day.',
+        'Jim Rohn',
     ],
-    'a79e5bbf-2852-526d-a989-520a07085c2b' => [
-        'Anticipate the difficult by managing the easy.',
-        'Lao Tzu',
+    'dc77579c-0edb-55e6-aeba-515241d10856' => [
+        'I made a circle with a smile for a mouth on yellow paper, because it was sunshiny and bright.',
+        'Harvey Ball',
     ],
-    '6068dc78-30f5-526d-9951-f49f8fea1d7c' => [
-        'There is in true beauty, as in courage, something which narrow souls cannot dare to admire.',
-        'William Congreve',
+    'cd8a6633-5561-5085-ac88-233cf9e39a01' => [
+        'A sure cure for seasickness is to sit under a tree.',
+        'Spike Milligan',
     ],
-    'dee3d050-41fe-5dc5-95f6-567519b11630' => [
-        'An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.',
-        'Albert Schweitzer',
+    'e3a449cc-1cc5-5b21-be92-ccc9c86847a3' => [
+        'To know nothing is the happiest life.',
+        'Oksana Baiul',
     ],
-    'ccc298a9-8162-5e0e-8125-15df5614155d' => [
-        'Life is a succession of lessons which must be lived to be understood. All is riddle, and the key to a riddle is another riddle.',
-        'Viktor E. Frankl',
+    'e9cd299d-f70c-5d77-a505-c9c01d07c3f5' => [
+        'They gave each other a smile with a future in it.',
+        'Ring Lardner',
     ],
-    '776e94fd-537c-54dc-8896-9ed8d58aa7fc' => [
-        'The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.',
-        'Richard Bach',
+    '3b9153fb-9f31-537a-a30a-3f6e59417694' => [
+        'It always rains on tents. Rainstorms will travel thousands of miles, against prevailing winds for the opportunity to rain on a tent.',
+        'Dave Barry',
     ],
-    '81c7524e-e63f-5c2f-b943-9c07059174f4' => [
-        'Happiness lies in the joy of achievement and the thrill of creative effort.',
-        'Franklin D. Roosevelt',
+    '4a39710c-a0c7-5ad6-8333-bbb0460154db' => [
+        'I never assumed I would have that commercial success, so it was a total surprise. And honestly, I never assumed that it would ever happen again.',
+        'Tracy Chapman',
     ],
-    '5efe19ca-ea85-5992-ba9c-5a2855b2070b' => [
-        'Make it a habit to tell people thank you. To express your appreciation, sincerely and without the expectation of anything in return. Truly appreciate those around you, and you\'ll soon find many others around you. Truly appreciate life, and you\'ll find that you have more of it.',
-        'Thomas Paine',
+    '08a7d8b4-77bd-5905-90a8-472ecece9fdd' => [
+        'I get accused of having a haughty smugness. I have a lopsided mouth. I can\'t help it. I was born with it. It looks as if I am smirking. I have had my publicist tell me, \'Don\'t do that smile on the red carpet.\' I\'m, like, \'That\'s my smile.\'',
+        'Natalie Dormer',
     ],
-    '59fb5c58-5c3d-5449-aaaf-9682ad1339f7' => [
-        'Success isn\'t everything but it makes a man stand straight.',
-        'Lillian Hellman',
+    'ddc473e3-32ea-5c31-bf8c-85e2176a23de' => [
+        'Many a trip continues long after movement in time and space have ceased.',
+        'John Steinbeck',
     ],
-    'd3bf413b-1475-597c-8e3d-a9304cf33ee7' => [
-        'No other game combines the wonder of nature with the discipline of sport in such carefully planned ways. A great golf course both frees and challenges a golfer\'s mind.',
-        'Tom Watson',
+    '7e13cfaa-c8c7-585f-9770-fcf52a2cfa88' => [
+        'I love my family, even as I critique their dysfunctionalities.',
+        'bell hooks',
     ],
-    'a50699d5-7b87-5205-ab5d-0e71444726ef' => [
-        'Comedy is tragedy - plus time.',
-        'Carol Burnett',
+    'a81e12af-e388-5ba1-b31c-166a3fbf1cc2' => [
+        'It takes a man to suffer ignorance and smile.',
+        'Sting',
     ],
-    '4ec445e3-a4b4-55d2-8c09-5d382fee85c0' => [
-        'We have such a long, familiar history with Peter Falk. The minute his mug is on that screen people smile.',
-        'Paul Reiser',
+    '45dd7fda-2929-5388-b67b-559f54f07642' => [
+        'My mom was a model, so she\'s been really good about giving me tips on how to navigate behind the scenes - like the importance of being nice to everyone on set and remembering people\'s names, to how to be a positive part of the photo shoot and stuff like that.',
+        'Gigi Hadid',
     ],
-    '246e6509-21b4-5180-9c33-a836c0910ce2' => [
-        'Tell me how a person judges his or her self-esteem, and I will tell you how that person operates at work, in love, in sex, in parenting, in every important aspect of existence - and how high he or she is likely to rise. The reputation you have with yourself - your self-esteem - is the single most important factor for a fulfilling life.',
-        'Nathaniel Branden',
+    '08134132-67ae-55a4-b717-8a9615517791' => [
+        'I\'m all about your mindset, being focused, staying positive, being optimistic, and knowing that these are all aspects of my life that I love and enjoy.',
+        'Kyla Pratt',
     ],
-    'f32c6627-e007-5431-8611-5b819f60e968' => [
-        'Satisfaction consists in freedom from pain, which is the positive element of life.',
-        'Arthur Schopenhauer',
+    'c3dea885-fa4e-50d9-8b0e-727b557c4bb8' => [
+        'Vampires are so old that they don\'t need to impress anyone anymore. They\'re comfortable in their own skin. It\'s this enigmatic strength that\'s very romantic and old-fashioned. I think it goes back to something of a Victorian attitude of finding a strong man who\'s going to look after his woman.',
+        'Stephen Moyer',
     ],
 ];

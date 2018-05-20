@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    'b3d3dbb3-a02d-5791-9bd3-4670cbc03981' => [
-        'I\'m a big believer that life changes as much as you want it to.',
-        'Katharine Hepburn',
+    '28df64f2-296e-5529-b465-34e62e52fd1f' => [
+        'My grandmother lived to 104 years old, and part of her success was she woke up every morning to a brand new day. She said every morning is a new gift. Her favorite hobby was collecting birthdays.',
+        'George Takei',
     ],
-    'c186b246-f702-5114-8700-a06d610a836a' => [
-        'It is the power of the mind to be unconquerable.',
-        'Seneca',
+    'd34fddb7-8808-5af7-b5e2-8b62c4be0ac9' => [
+        'It\'s funny: in the middle of making \'The Muse,\' I was offered, at the time, the first \'Ice Age,\' the part that Ray Romano took: I was offered the elephant. And I couldn\'t even stop to breathe, so I didn\'t do it. They\'ve made, like, six of them. And in the animation business, for a voice actor, that\'s what you want. You want six, you know?',
+        'Albert Brooks',
     ],
-    '5dae6aaa-2b73-52c3-bcba-779d2ed451cd' => [
-        'Be brave enough to live life creatively. The creative place where no one else has ever been.',
-        'Alan Alda',
+    '3f39b6d7-7436-5066-a218-51ddbb098563' => [
+        'How success changes the opinion of men!',
+        'Maria Edgeworth',
     ],
-    'd16a4c98-eee4-5be3-b5be-caa13068ffa9' => [
-        'Form must have a content, and that content must be linked with nature.',
-        'Alvar Aalto',
+    '19720b99-7e1b-52f7-a169-d4d523dd3738' => [
+        'I consider myself someone who takes a lot of beauty risks, and I\'ve realized what I liar I am. I change my hair a lot, from blue to blonde to bald, but I\'m trying to branch out a little more with makeup.',
+        'Halsey',
     ],
-    '8d3fb5cc-a26f-51c0-a552-530c9d61d501' => [
-        'If I were in the government, I would persuade the prime minister to see the beauty in the fact that people see Israel as a haven - from their sadness to their hope.',
-        'Elie Wiesel',
+    'ad0bd2c5-25ac-517f-95ee-45a288863944' => [
+        'Veterans Day is a time to celebrate the men and women who have worn this nation\'s uniform and to honor their service.',
+        'Tammy Duckworth',
     ],
-    '216843cf-2ac0-5948-9c20-31c7b0402cba' => [
-        'Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.',
-        'W. Clement Stone',
+    '63763bf6-ac57-56c6-9f06-1704ce6c565f' => [
+        'I know some people say I can be funny. But there is always a deeper meaning to what I say. I am a socialist at heart and have the interests of the poor in mind. When people see how I manage to work my way out of tough situations, it gives them hope in their own life.',
+        'Lalu Prasad Yadav',
     ],
-    'dddc4c46-b5fe-5018-8dbc-3bbd2ef95516' => [
-        'I come from a family of strong women, who have been positive role models for me.',
-        'Laura Harrier',
+    'bfc5980d-5aa4-5f76-8f2c-e6461dbc7d4b' => [
+        'I don\'t want to get myself in trouble - and I don\'t think I\'m super important or anything - but I think it\'s so funny that when you look at the business and the way that people make decisions in their lives, whether they\'re in art or music or they\'re in industry, they forget that being unique is the answer.',
+        'Justin Vernon',
     ],
-    'c13d0389-3de4-58ef-b442-e4b6cdc14dba' => [
-        'A great social success is a pretty girl who plays her cards as carefully as if she were plain.',
-        'F. Scott Fitzgerald',
+    '2fdff286-0520-54e8-9c81-092070d94499' => [
+        'Lipstick is the most valuable weapon in a woman\'s make-up kit. It has the power to transform the appearance and mood of the person wearing it, and, at the same time, arouses the admiration of everybody else.',
+        'Monica Bellucci',
     ],
-    'e60ecfef-07d2-5bef-9b4e-8dfd113d86b9' => [
-        'We sometimes laugh from ear to ear, but it would be impossible for a smile to be wider than the distance between our eyes.',
-        'Malcolm de Chazal',
+    'ce4ffccf-5ae7-5247-afe7-ad09209c241e' => [
+        'An unexamined life is not worth living.',
+        'Socrates',
     ],
-    '133ade25-96ea-59fc-aa26-5d028caa8bda' => [
-        'I don\'t need to be better than anybody or worse than anybody to feel better about myself. I just need to stick on my own path and stay in the moment as best I can.',
-        'Marc Jacobs',
+    'a5a2763a-e8b7-58b0-8af2-9656bf2cf0ad' => [
+        'Maxim for life: You get treated in life the way you teach people to treat you.',
+        'Wayne Dyer',
     ],
-    'a9bbc569-580d-5867-9038-e298f6c6f009' => [
-        'If we went by the world\'s definition of who I\'m supposed to be because I look weird... \'Well, surely, this guy can\'t have a productive life, surely, he doesn\'t have a sense of humor. Surely, he can\'t love life.\' We stereotype people in this world. And so... if the world thinks you\'re not good enough, it\'s a lie, you know. Get a second opinion.',
-        'Eckhart Tolle',
+    '0726a7f0-d94b-5177-8193-8c97848e1d32' => [
+        'The love of what you do, combined with your belief in what you do, will not determine your success. It will determine how hard you will work and how dedicated you will be to achieving it. Success just shows up from there.',
+        'Jeffrey Gitomer',
     ],
-    'a4c11814-ea4e-56a3-80d8-27af6a01cffa' => [
-        'For every moment of triumph, for every instance of beauty, many souls must be trampled.',
-        'Hunter S. Thompson',
+    '5a7eb8fd-bbf3-5535-93e1-f3839166bcb9' => [
+        'After the success of \'August,\' there were people saying I should change my life. And maybe I should have bought a yacht and traveled the world instead of returning to Steppenwolf to act in and write plays. But I\'m from the Midwest, and that\'s what we do: We go back to work.',
+        'Tracy Letts',
     ],
-    'd95c60c2-bc84-5c7b-858a-f9fea0af77cd' => [
-        'Livelihoods and whole communities throughout the Murray-Darling Basin have been imperilled by the workings of drought, fire, flood, acid mud and human action over many decades. In the rescues and the cleanups and the long hauls, I see the same attitude over and again. People just rally and get on with it.',
-        'Quentin Bryce',
+    'cb8a1d4e-6dca-59ff-9368-9cce7adaa216' => [
+        'I\'m homesick all the time. I miss my animals. I miss my family. I miss my friends.',
+        'Brittany Howard',
     ],
-    'd9e5de6a-a239-5ba3-9db1-dffeb2057de3' => [
-        'From wonder into wonder existence opens.',
-        'Lao Tzu',
+    'a67656a4-59db-580c-a510-9cfff158d84c' => [
+        'The best way to remember your wife\'s birthday is to forget it once.',
+        'E. Joseph Cossman',
     ],
-    '4238b56e-4be7-59bf-afa3-04e0613ce4f5' => [
-        'The best way to make a steak is grilled over an open flame or pan sauteed in a cast iron skillet.',
-        'Roy Yamaguchi',
+    '8d35a6e0-6f3e-5a61-9fcc-4b48be9f0402' => [
+        'I used to love being the class clown. I loved to make jokes and make people laugh. There was a set of students who would find it funny. But the cool students were like, \'Eeew!\'',
+        'Issa Rae',
     ],
-    '0faf8938-bd9a-56b7-8fce-881ae9421711' => [
-        'When onstage, I always try to take my audience through as many emotions as I possibly can. I want them to go from laughter to tears, be shocked and surprised and walk out the door with a renewed sense of themselves - and maybe a smile.',
-        'Reba McEntire',
+    'faa84b55-6887-539e-ae87-2316cb47aa5c' => [
+        'A hybrid human-robot mission to investigate an asteroid affords a realistic opportunity to demonstrate new technological capabilities for future deep-space travel and to test spacecraft for long-duration spaceflight.',
+        'Buzz Aldrin',
     ],
-    '72cf7c2e-d447-5e19-9aec-c81025f92033' => [
-        'If you want to be thought a liar, always tell the truth.',
-        'Logan Pearsall Smith',
+    '8d113987-9a33-5c47-ba79-f8a2126e77c8' => [
+        'Our kindness may be the most persuasive argument for that which we believe.',
+        'Gordon Hinckley',
     ],
-    'fc6be27c-fcbb-5797-acd4-b8abbc1067fd' => [
-        'Always bear in mind that your own resolution to succeed is more important than any one thing.',
-        'Abraham Lincoln',
+    'e022617f-3760-56d3-ad5b-d4d85d66e4d7' => [
+        'Her beauty didn\'t do her any good and she couldn\'t use it in any positive way or manipulative way. I just hope that people will look and see and believe in that hope of love, that hope of freedom, even if it was just for a limited time.',
+        'Diane Kruger',
     ],
-    '2f10af08-2a80-5837-a480-c77b256bb165' => [
-        'Don\'t let people disrespect you. My mom says don\'t open the door to the devil. Surround yourself with positive people.',
-        'Cuba Gooding, Jr.',
+    '6bbba04e-3b1c-564f-9885-bf51d1e0b6ae' => [
+        'I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... such emotions make a man forget food, sleep, friends, love, everything.',
+        'Nikola Tesla',
     ],
-    '8cd34579-64d7-56b7-9ae7-410c66b9181c' => [
-        'We don\'t tend to write about disease in fiction - not just teen novels but all American novels - because it doesn\'t fit in with our idea of the heroic romantic epic. There is room only for sacrifice, heroism, war, politics and family struggle.',
-        'John Green',
+    '96db6d8d-f3d0-5611-bb59-1ae5fa71faa1' => [
+        'I cannot sing, dance or act; what else would I be but a talk show host.',
+        'David Letterman',
     ],
-    '079599a3-2ce9-5a43-b3df-f8fa08bafffc' => [
-        'The artist is not responsible to any one. His social role is asocial... his only responsibility consists in an attitude to the work he does.',
-        'Georg Baselitz',
+    '154f59a3-87f9-5a5d-8a9a-7d7a5906db3c' => [
+        'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
+        'George Lorimer',
     ],
-    '87a71251-2926-505a-9bdc-7affd032273a' => [
-        'The longer we dwell on our misfortunes, the greater is their power to harm us.',
-        'Voltaire',
-    ],
-    '3f21efa6-5cbc-5690-8034-23a5a377b0f1' => [
-        'Wherever you are, be there totally. If you find your here and now intolerable and it makes you unhappy, you have three options: remove yourself from the situation, change it, or accept it totally. If you want to take responsibility for your life, you must choose one of those three options, and you must choose now. Then accept the consequences.',
-        'Jawaharlal Nehru',
-    ],
-    '390f8520-29f3-5f6b-90e6-6a6364354a40' => [
-        'To cherish what remains of the Earth and to foster its renewal is our only legitimate hope of survival.',
-        'Wendell Berry',
-    ],
-    'a2563a11-f309-5d09-9ed5-ab45651011de' => [
-        'China and the U.S. are two societies with very different attitudes towards opinion and criticism. In China, I am constantly under surveillance. Even my slightest, most innocuous move can - and often is - censored by Chinese authorities.',
-        'Ai Weiwei',
-    ],
-    'b2b826b3-3554-51c9-8eaa-e9d386e74798' => [
-        'Barack Obama\'s inspirational whoosh to the presidency in 2008 was unusual. Most campaigns are less exhilarating; indeed, they are downright disappointing - until someone wins.',
-        'Joe Klein',
-    ],
-    '980eb20c-c665-5ee7-b0ff-fac8dffffb11' => [
-        'From the very early stage when I started doing performance art in the \'70s, the general attitude - not just me, but also my colleagues - was that there should not be any documentation, that the performance itself is artwork and there should be no documentation.',
-        'Marina Abramovic',
-    ],
-    'a4ea9297-ca24-551c-9c71-07aeea6b22b0' => [
-        'It always seems impossible until it is done.',
-        'Nelson Mandela',
-    ],
-    '6cf57e96-3281-5706-b84b-e5873164915f' => [
-        'If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?',
-        'Confucius',
-    ],
-    'e29b6653-3cdb-5be6-96db-de7eebe99113' => [
-        'Be thankful when you don\'t know something for it gives you the opportunity to learn.',
+    '487b2603-19ff-5d60-a1fd-386b2f080490' => [
+        'An obstacle may be either a stepping stone or a stumbling block.',
         'Unknown',
     ],
-    'b9d989da-6301-5f40-8f94-fafe8658c638' => [
-        'I totally let myself indulge, but I make little deals with myself. If I have an extra cupcake, I\'ll run a couple of extra miles. I think it\'s all about balance and not getting into extremes with dieting and exercising. Having a healthy attitude is important, too!',
-        'Megan Hilty',
-    ],
-    'a1b7be48-38a8-5558-9b7a-05afdb11515f' => [
-        'Sometimes it\'s the smallest decisions that can change your life forever.',
-        'Boris Pasternak',
-    ],
-    '74561073-552c-5005-87c6-f282c6dc982c' => [
-        'But I want people to understand that poker\'s not all glamorous, it\'s not all being on TV and making tons of money. It\'s a hard life. It\'s a lot of travel. It\'s a lot of weird hours.',
-        'Chris Moneymaker',
-    ],
-    '39bf47ff-7b78-5fc1-99a6-498f2d19cf3c' => [
-        'People worry that gas prices are high and how they are affecting their pocket book. But they want to know about renewable energy. People are really starting to question things, and that\'s made people look to the future in a positive way.',
+    '00bf9755-1803-5341-9e2c-496f32d5c01c' => [
+        'All the freaky people make the beauty of the world.',
         'Michael Franti',
     ],
-    '1d034dd6-0195-5fc5-b4e7-d2e05ad2219f' => [
-        'You must accept that you might fail; then, if you do your best and still don\'t win, at least you can be satisfied that you\'ve tried. If you don\'t accept failure as a possibility, you don\'t set high goals, you don\'t branch out, you don\'t try - you don\'t take the risk.',
-        'Rosalynn Carter',
+    'fe5ad987-2b07-506f-8ce2-fa65d7d7d01a' => [
+        'I have an interest in understanding evil. Who is the bad guy - the vampire who kills people and sucks their blood, or the survivalists who kill people to save their own lives? Is evil merely a creation of people? Or is there an evil nature? Or is it in the eye of the beholder? I really like these questions.',
+        'Lois Tilton',
     ],
-    '9c1fdd12-efe1-5641-95db-2242db862d95' => [
-        'If I had no family, my wife and I would lead a much more romantic and nomadic existence.',
-        'David McCallum',
+    '07ae9c7c-7e4b-51c0-b267-55c5446dffd3' => [
+        'Solitude is very different from a \'time-out\' from our busy lives. Solitude is the very ground from which community grows. Whenever we pray alone, study, read, write, or simply spend quiet time away from the places where we interact with each other directly, we are potentially opened for a deeper intimacy with each other.',
+        'Henri Nouwen',
     ],
-    '4e5f806c-2b8e-5568-8c43-efe70c5782ab' => [
-        'It\'s a great event to get outside and enjoy nature. I find it very exciting no matter how many times I see bald eagles.',
-        'Karen Armstrong',
+    'e79873bd-b231-5bd5-8c08-0f41e6975806' => [
+        'It\'s easy to walk away from risk, and you don\'t actually have to face it. Success is based upon overcoming the inherent risk you can\'t manage your way out of.',
+        'Maurice Flanagan',
     ],
-    'ad669f64-c928-54e8-a518-57bf5f449b20' => [
-        'You cannot step twice into the same river, for other waters are continually flowing in.',
-        'Heraclitus',
+    '3316a679-4811-51b4-9afe-09a84f48f8dc' => [
+        'I love fashion, beauty, glamour. It\'s the mark of civilisation.',
+        'David LaChapelle',
     ],
-    '0d38dfec-77be-5c36-b1ac-4893977185e7' => [
-        'A diva is someone who is a perfectionist, who does her best in her craft.',
-        'Patti LaBelle',
+    'c557a6c2-2cdb-5c56-9182-2a9838f7191e' => [
+        'Conserving energy and thus saving money, reducing consumption of unnecessary products and packaging and shifting to a clean-energy economy would likely hurt the bottom line of polluting industries, but would undoubtedly have positive effects for most of us.',
+        'David Suzuki',
     ],
-    'e8fdd63d-eaf5-537a-99ff-64cbca76e121' => [
-        'When things are bad, it\'s the best time to reinvent yourself.',
-        'George Lopez',
+    '9ef5d5db-30e9-57b2-81fa-6b3a1f4b4bf0' => [
+        'I have a lot of younger fans, obviously the choices I make often influence them. But having said that, it\'s kind of the best motivation in the world to stay positive and make good choices.',
+        'James Maslow',
     ],
-    '1be6b10d-0d8d-5325-9e6d-fabbf0855dca' => [
-        'Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don\'t turn up at all.',
-        'Sam Ewing',
+    '69d8a758-b9a5-5ec7-9ae7-327d06f833a4' => [
+        'Hiding, secrets, and not being able to be yourself is one of the worst things ever for a person. It gives you low self-esteem. You never get to reach that peak in your life. You should always be able to be yourself and be proud of yourself.',
+        'Isabel Allende',
     ],
-    'f511d52b-bf9e-5b16-833d-b0d375bb1769' => [
-        'Feelings aroused by the touch of someone\'s hand, the sound of music, the smell of a flower, a beautiful sunset, a work of art, love, laughter, hope and faith - all work on both the unconscious and the conscious aspects of the self, and they have physiological consequences as well.',
-        'Bernie Siegel',
+    '91efe3e6-89cb-573f-8b09-61b2073490b9' => [
+        'One of the best ways to make yourself happy in the present is to recall happy times from the past. Photos are a great memory-prompt, and because we tend to take photos of happy occasions, they weight our memories to the good.',
+        'Gretchen Rubin',
     ],
-    '71306a20-2797-5808-b453-0b7781f38f65' => [
-        'If you look at the history of Wonder Woman, you look at the iconography, the images that have kept her alive - they\'re not dark. The thing I think is so important to always keep in mind about her is how positive and bright and shiny she is - very much in the same way that Superman has been.',
-        'Patty Jenkins',
+    '177455da-caa2-50af-8601-ca317ca30ebd' => [
+        'Success for an athlete follows many years of hard work and dedication.',
+        'Michael Diamond',
     ],
-    '52e49022-6286-50f1-b6ec-69f74fbdfbb3' => [
-        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
-        'Richard Bach',
+    '9389b798-97bf-5e84-b614-b2051e5e47f8' => [
+        'I\'m really not that funny in real life! But I am the best audience one could find. I love to laugh.',
+        'Carol Burnett',
     ],
-    '4efd095f-a254-5369-9ca4-7779898d2cfa' => [
-        'Like the United Nations, there is something inspirational about New York as a great melting pot of different cultures and traditions. And if this is the city that never sleeps, the United Nations works tirelessly, around the clock around the world.',
-        'Ban Ki-moon',
+    'c6adfb6c-5f4a-5724-a530-215e7eedc45d' => [
+        'Nothing strengthens authority so much as silence.',
+        'Leonardo da Vinci',
     ],
-    'd471fe9a-2bb6-51ad-9816-91298c1f6402' => [
-        'Elvis Costello had a brand new bag. He was a musician, but he knew all about the attitude part of it.',
-        'Nick Lowe',
+    '9f262f10-6924-571a-8671-29d9201a0e4e' => [
+        'Never idealize others. They will never live up to your expectations.',
+        'Leo Buscaglia',
     ],
-    'd9889339-ae22-56c8-9087-01db834e82b5' => [
-        'Oftentimes, when we think of 3D, we think of things coming out of the screen, but actually, you\'ve got this zero, this negative space, what they call the negative space, which is the scene, what\'s being filmed in the positive space of the audience. As you can have things come out, you can have all of this depth.',
-        'Keanu Reeves',
+    '12c09340-455f-559d-9592-dbd919807816' => [
+        'Long ago made it a principle of my life to cultivate a positive frame of mind, to strive to project it and to share it with those I meet. It is a principle that has served me well.',
+        'Chuck Norris',
     ],
-    'e66de2b0-68a8-5f10-9e3e-12efd19ee3a4' => [
-        'Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.',
-        'Marcel Proust',
+    'f42d4d0c-7622-560f-acc5-11c1faa708bd' => [
+        'Good Deeds Day is based on a simple idea that every person can do a good deed for the benefit of others and the planet. Even a smile that brightens someone else\'s day is a good deed. I initiated Good Deeds Day to spread the message that everyone can give of themselves, according to their heart\'s desire.',
+        'Shari Arison',
     ],
-    '7dd0405b-dae1-598d-a424-729027a3a94c' => [
-        'I\'m not interested in age. People who tell me their age are silly. You\'re as old as you feel.',
-        'Elizabeth Arden',
+    '921cc444-6682-5c0b-87cb-a16951f8b8e3' => [
+        'I lead a simple life. I get residuals. I have a family; we\'re doing alright.',
+        'Robert Morse',
     ],
-    'bfd1a953-3b25-53d7-8df8-674772e4b60c' => [
-        'I love my rabbit, my family rabbit.',
-        'Alexandra Daddario',
+    '13c24a54-8931-5251-bfb4-4da247636afd' => [
+        'I often think that the night is more alive and more richly colored than the day.',
+        'Vincent Van Gogh',
+    ],
+    'c5464dc4-eef8-55fd-ba2f-7f35b5714571' => [
+        'Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to.',
+        'Byron Pulsifer',
+    ],
+    'b5e24e32-6b0c-58bc-a465-cc4527c4458f' => [
+        'The one phrase you can use is that success has a thousand fathers, and failure is an orphan.',
+        'Alan Price',
+    ],
+    '0352e5d6-e345-5020-b613-033c10a79026' => [
+        'The weaker the country, the stronger the smile.',
+        'Howard E. Koch',
+    ],
+    '8dd51818-be0d-588b-b62c-a2e4785c2171' => [
+        'Glory is attained from hard work, step by step.',
+        'Ma Long',
+    ],
+    '0b84ffec-64e7-5ee5-abfb-6500e118b5c1' => [
+        'I have so much chaos in my life, it\'s become normal. You become used to it. You have to just relax, calm down, take a deep breath and try to see how you can make things work rather than complain about how they\'re wrong.',
+        'Tom Welling',
+    ],
+    'b5c2a4b4-bd00-57c7-9e45-9435cb172529' => [
+        'If I were involved with the NBA, I wouldn\'t want a 19-year-old or a 20-year-old kid to bring into all the travel and all the problems that exist in the NBA. I would want a much more mature kid. I would want a kid that maybe I\'ve been watching on another team, and now he\'s 21, 22 years old instead of 18 or 19, and I might trade for that kid.',
+        'Bobby Knight',
+    ],
+    '3f6f5740-d576-5008-a1aa-39c5e3946dd1' => [
+        'Life is either a great adventure or nothing.',
+        'Wayne Dyer',
+    ],
+    '1497981e-cfd4-5d54-8018-412c435280d6' => [
+        'I love to spend a lot of time on my own. I can seriously go into my own head and often love to let myself travel where I don\'t know where I\'m going.',
+        'Gerard Butler',
+    ],
+    '2af6268f-a2a9-5596-87a3-561198363185' => [
+        'I love fairy tales because of their haunting beauty and magical strangeness. They are set in worlds where anything can happen. Frogs can be kings, a thicket of brambles can hide a castle where a royal court has lain asleep for a hundred years, a boy can outwit a giant, and a girl can break a curse with nothing but her courage and steadfastness.',
+        'Kate Forsyth',
+    ],
+    '8ac3b6ab-b24e-534c-ae93-27dc0dc88808' => [
+        'It takes but one positive thought when given a chance to survive and thrive to overpower an entire army of negative thoughts.',
+        'Robert H. Schuller',
+    ],
+    '9e432c1e-adb3-5b39-8b9a-ba8c2bd2072a' => [
+        'Bites are usually not random attacks by strays. The great majority of biting dogs belong to a family member or friend of the victim. When a young child is the victim, the attack almost always occurs in the family home, and the perpetrator is usually a \'good\' dog that had not previously behaved in a menacing way.',
+        'Jon Katz',
     ],
 ];

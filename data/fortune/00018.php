@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '11bd6018-c2d4-56e2-af9c-9bccb21a83c5' => [
-        'What is man\'s ultimate direction in life? It is to look for love, truth, virtue, and beauty.',
-        'Shinichi Suzuki',
+    '0a9901f3-e53b-5dda-9f0a-d2432cb5c046' => [
+        'Sometimes you\'re not even sure which of your stories were failures. There are things I\'ve written that I thought were complete catastrophes when I finished with them that have gone on to generate some of my most positive feedback.',
+        'Len Wein',
     ],
-    '907fd308-983f-58d4-8539-a07756341383' => [
-        'The travel impulse is mental and physical curiosity. It\'s a passion. And I can\'t understand people who don\'t want to travel.',
-        'Paul Theroux',
+    'cb43c1df-b70b-51a4-9eee-dc24d8989c6c' => [
+        'My initial goal for the 1984 opening ceremonies was a show that would be majestic, inspirational, and emotional - a 20 goosebump experience.',
+        'David L. Wolper',
     ],
-    '187fe0f7-9cf3-5332-bfe9-a32ce15cb96d' => [
-        'Only do what your heart tells you.',
-        'Princess Diana',
+    '7d4b4a89-fe0c-5da1-93cf-c4da9493be40' => [
+        'It\'s time to end the cruel slaughter of whales and leave these magnificent creatures alone.',
+        'Paul McCartney',
     ],
-    '1c9a5163-7366-5faf-8099-f9fe95e732e0' => [
-        'The essential elements of giving are power and love - activity and affection - and the consciousness of the race testifies that in the high and appropriate exercise of these is a blessedness greater than any other.',
-        'Mark Hopkins',
+    '1a0fe28a-3c41-5878-af65-086015468373' => [
+        'As Americans, we have traditionally been the optimists sporting the \'can-do\' attitude. But when it comes to addressing climate adaptation and resiliency, we seem to be more \'can\'t do\' than \'can-do.\'',
+        'Paul Tonko',
     ],
-    'b9f1ceab-5753-52dc-b145-762661719224' => [
-        'Ability will never catch up with the demand for it.',
-        'Confucius',
+    'd299b5f8-ca62-5909-8dd0-0eb210a77999' => [
+        'The purely agitational attitude is not good enough for a detailed consideration of a subject.',
+        'Jawaharlal Nehru',
     ],
-    '0ca6e098-21ff-59da-93e5-ef3fda55201a' => [
-        'What the imagination seizes as beauty must be truth.',
-        'John Keats',
+    '051171ed-56d1-5c14-a47d-121fd1273a1e' => [
+        'I\'ve been absolutely terrified every moment of my life - and I\'ve never let it keep me from doing a single thing I wanted to do.',
+        'Georgia O\'Keeffe',
     ],
-    'b4273db2-6c5f-54d2-8bad-3d5611d029e2' => [
-        'The winner ain\'t the one with the fastest car it\'s the one who refuses to lose.',
-        'Dale Earnhardt',
+    '7c6cc51e-665c-5efd-87f3-20aa73bb88e2' => [
+        'My Christmas present to myself each year is to see how much air travel can open up the world and take me to places as far from sheltered California and Japan as possible.',
+        'Pico Iyer',
     ],
-    '45b5cf35-bb87-5444-a718-ed3b7b47bce9' => [
-        'The common idea that success spoils people by making them vain, egotistic and self-complacent is erroneous; on the contrary it makes them, for the most part, humble, tolerant and kind.',
-        'W. Somerset Maugham',
+    '2a546dae-6ac9-50ec-a9cc-dc291e34d46a' => [
+        'Learning lessons is a little like reaching maturity. You\'re not suddenly more happy, wealthy, or powerful, but you understand the world around you better, and you\'re at peace with yourself. Learning life\'s lessons is not about making your life perfect, but about seeing life as it was meant to be.',
+        'A. P. J. Abdul Kalam',
     ],
-    '0474f193-70f9-50aa-a484-8ee26df23888' => [
-        'If you tell the truth, you don\'t have to remember anything',
-        'Mark Twain',
+    'a4411795-76b4-5c92-89f1-f923fcdee6d8' => [
+        'My dad told me, \'It takes fifteen years to be an overnight success\', and it took me seventeen and a half years.',
+        'Adrien Brody',
     ],
-    '2abcef0e-7911-5783-a4af-812cbfaf4b39' => [
-        'Keep your eyes open to your mercies. The man who forgets to be thankful has fallen asleep in life.',
-        'James E. Faust',
+    'e57043c0-15b3-5dbd-ae1f-c682e17a6069' => [
+        'In this life, we have to make many choices. Some are very important choices. Some are not. Many of our choices are between good and evil. The choices we make, however, determine to a large extent our happiness or our unhappiness, because we have to live with the consequences of our choices.',
+        'Zig Ziglar',
     ],
-    '937f0727-c310-5ae4-b6c3-f0b3e0754475' => [
-        'Both within the family and without, our sisters hold up our mirrors: our images of who we are and of who we can dare to be.',
-        'Elizabeth Fishel',
+    '2470fb63-105f-5987-b936-460c37a3c206' => [
+        'I want to make sure I don\'t interfere with the success of that team next year. I don\'t see any way I could go to practice like most of \'em do, and not hurt the team. I\'d go nuts if I tried doing that.',
+        'Bear Bryant',
     ],
-    '350ef631-a519-5fe0-9ffd-a2f684d941c7' => [
-        'I myself believe that there will one day be time travel because when we find that something isn\'t forbidden by the over-arching laws of physics we usually eventually find a technological way of doing it.',
-        'David Deutsch',
+    'e5047d2c-7367-5d4c-b6e6-3f430576ab99' => [
+        'Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.',
+        'Max Planck',
     ],
-    'a49c8bda-b8db-5c2f-b273-fe440a21dd17' => [
-        'You can take no credit for beauty at sixteen. But if you are beautiful at sixty, it will be your soul\'s own doing.',
-        'Marie Stopes',
-    ],
-    '7e79ebde-d9e5-556e-bde9-3aad397cf86f' => [
-        'If you find yourself in a hole, the first thing to do is stop digging.',
-        'Will Rogers',
-    ],
-    '0909355e-e8f3-5be4-a0e1-7393fdc774d6' => [
-        'If someone in your life talked to you the way you talk to yourself, you would have left them long ago.',
-        'Carla Gordon',
-    ],
-    'd053469f-2ed4-51ec-8942-92de01ebd11c' => [
-        'You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?',
-        'W. Clement Stone',
-    ],
-    '412a2e97-68b5-59b6-8d18-7023a0b52406' => [
-        'Life wasn\'t easy growing up; it was frustrating. If I had been a better reader, then that would have come easily, sports would have come easily, everything would have come easily, and I never would have realized that the way you get ahead in life is hard work.',
-        'Caitlyn Jenner',
-    ],
-    '1cff1db9-ad54-5dd8-8d4d-362c9ee5c4c4' => [
-        'Words empty as the wind are best left unsaid.',
-        'Homer',
-    ],
-    'fb67e4a5-7772-5ff8-8041-906d268e49ff' => [
-        'If a cluttered desk is the sign of a cluttered mind, what is the significance of a clean desk?',
-        'Laurence J. Peter',
-    ],
-    'ca097ab3-07e6-5ffd-91ef-9e39719241b3' => [
-        'Life is about having a good time, and it was a good time. We did some things well and some things poorly, but that was always the case.',
-        'Norman Lear',
-    ],
-    'cea33c12-45fc-591c-8298-b93491419a6d' => [
-        'Whenever you have taken up work in hand, you must see it to the finish. That is the ultimate secret of success. Never, never, never give up!',
-        'Dada Vaswani',
-    ],
-    '1a4f466e-679f-53f2-b018-f45e51de52fc' => [
-        'I never realized before this the emotional power of some really simple, corny tropes: people with top hats, people with batons, confetti going off, how important it is to smile.',
-        'Ira Glass',
-    ],
-    '70bb8aff-422e-5c39-bba3-2231ddec460e' => [
-        'When you are content to be simply yourself and don\'t compare or compete, everybody will respect you.',
-        'Laozi',
-    ],
-    '3de851b1-d709-510f-a29c-c171632dffd1' => [
-        'A lot of times people look at the negative side of what they feel they can\'t do. I always look on the positive side of what I can do.',
-        'Chuck Norris',
-    ],
-    '30c2f466-87ab-52ab-8ea1-065083b025cd' => [
-        'I live a very joyful life, with a lot of laughter and good times.',
-        'L. Lionel Kendrick',
-    ],
-    'b3fc9833-c26a-5b80-b91e-b2512fcffd7c' => [
-        'If by chance some day you\'re not feeling well and you should remember some silly thing I\'ve said or done and it brings back a smile to your face or a chuckle to your heart, then my purpose as your clown has been fulfilled.',
-        'Red Skelton',
-    ],
-    '1ee9b518-d607-5913-bf49-bddfe15ed825' => [
-        'Time goes on. So whatever you\'re going to do, do it. Do it now. Don\'t wait.',
-        'Robert De Niro',
-    ],
-    'e4af6307-5c4b-5fff-83f8-81a37719c299' => [
-        'People who use time wisely spend it on activities that advance their overall purpose in life.',
-        'John C. Maxwell',
-    ],
-    'a44daf94-a68e-5906-b8ae-ff1a8d0b37ce' => [
-        'Jeff Kinney is tall and has a great smile, but don\'t be fooled, he\'s as slick as they come. A real player. And how he came up with a book that appeals to kids ages 8-13 baffles me. He\'s an unbelievably kind man with a great family.',
-        'Rachael Harris',
-    ],
-    '2d1c2685-f233-5836-b495-40a6bdb71047' => [
-        'Just imagine, the thousands and thousands of concerts that take place every single day, all over the world. And the positive effect that they would have on the people listening. Now imagine a world without this. This void... it is unthinkable.',
-        'Zubin Mehta',
-    ],
-    '0e20bdf5-eeaa-5a44-8cf4-18eb6a43bdd7' => [
-        'My hobbies include maintaining my physical and mental health. It\'s a full-time job. Yoga definitely helps for both of them. I\'m a big fan of relaxing and not having a schedule. That\'s my best way to keep from going crazy.',
-        'Olivia Thirlby',
-    ],
-    'd1ddac7f-7b07-54ec-816c-6a40ca9236d8' => [
-        'It seems like everybody\'s perception of me is very bipolar. To one group, it\'s overpaid, overrated; to another group, it\'s underpaid, underrated, underdog. It\'s funny to me because there\'s no real balance.',
-        'Jeremy Lin',
-    ],
-    '1a62c11c-c16a-5b99-b3c2-4be568f5241a' => [
-        'It is in your moments of decision that your destiny is shaped.',
-        'Tony Robbins',
-    ],
-    '41dcf209-5700-5ec6-80ee-fac5f577c467' => [
-        'I just realized the best way to live your life is to just be you, as cliche as it sounds. I grew up trying to please everyone.',
-        'Yuna',
-    ],
-    '99c0b921-3b74-5835-b16b-8e58c155137e' => [
-        'When virtue and modesty enlighten her charms, the lustre of a beautiful woman is brighter than the stars of heaven, and the influence of her power it is in vain to resist.',
-        'Akhenaton',
-    ],
-    '80bb7b73-91a0-5463-95c0-8cea4cfbfc05' => [
-        'One of the best gifts you can give to an animal is a donation of a blanket to your local animal shelter during the winter months.',
-        'Carrie Ann Inaba',
-    ],
-    'dabee86e-3ac4-5b89-a9b3-28c3b161bbc0' => [
-        'God always strives together with those who strive.',
-        'Aeschylus',
-    ],
-    '8a3f20c2-8653-5886-8c77-dd93a9dac2d3' => [
-        'Every artist dips his brush in his own soul, and paints his own nature into his pictures.',
-        'Henry Ward Beecher',
-    ],
-    '73bd16a4-68e8-5222-be3a-ae0facc0f41c' => [
-        'Leadership means that a group, large or small, is willing to entrust authority to a person who has shown judgment, wisdom, personal appeal, and proven competence.',
+    'a74eedd7-7a25-521d-8242-3581599e56c4' => [
+        'You can\'t just let nature run wild.',
         'Walt Disney',
     ],
-    '6b66c3c8-056f-5403-aa8a-6885d7ca9780' => [
-        'If you want to conquer fear, don\'t sit home and think about it. Go out and get busy.',
-        'Dale Carnegie',
+    'b49fb2b7-b57a-514a-b0c0-cd349ef60a02' => [
+        'We didn\'t even think about it, you know? I used to collect laser discs, and you\'d have some college professor analyzing It\'s a Wonderful Life or Citizen Kane, and now it is pretty funny - the idea of commentary for a silly kid\'s movie, you know?',
+        'Dana Carvey',
     ],
-    '3e0c6cb9-a35d-53f5-8d79-3f4574fb01ce' => [
-        'More people smile at me now I\'m richer.',
-        'Mo Ibrahim',
+    '4b50d2d1-8377-5308-86b8-d8d5ae839f83' => [
+        'I am an artist... I am here to live out loud.',
+        'Josh Turner',
     ],
-    'ae2dcb97-d8b2-5618-a1c1-c5e601645f84' => [
-        'The reason I exercise is for the quality of life I enjoy.',
-        'Shakuntala Devi',
+    '7f94f2a3-1372-5869-a2b5-69bad99dc020' => [
+        'Success listens only to applause. To all else it is deaf.',
+        'Elias Canetti',
     ],
-    '21a895ac-ac96-57d0-99f9-9a1a96ca8c4b' => [
-        'If somebody says no to you, or if you get cut, Michael Jordan was cut his first year, but he came back and he was the best ever. That is what you have to have. The attitude that I\'m going to show everybody, I\'m going to work hard to get better and better.',
-        'Magic Johnson',
+    'b9f6cc92-15d3-53ac-ac98-234387af3010' => [
+        'The more often we see the things around us - even the beautiful and wonderful things - the more they become invisible to us. That is why we often take for granted the beauty of this world: the flowers, the trees, the birds, the clouds - even those we love. Because we see things so often, we see them less and less.',
+        'Joseph B. Wirthlin',
     ],
-    'a3980b80-2ed7-5f05-bb9c-7b8a7ab467c9' => [
-        'We have been educated into believing someone else\'s concept of the deity, and someone else\'s standard of beauty. You have the right to practice any religion and politics in a way that best suits your freedom, your dignity, and your understanding. And once you do that, you don\'t apologize.',
-        'John Henrik Clarke',
+    'e13c258c-25c6-54b3-9770-cc9133870db3' => [
+        'Almost no one is foolish enough to imagine that he automatically deserves great success in any field of activity; yet almost everyone believes that he automatically deserves success in marriage.',
+        'Sydney J. Harris',
     ],
-    'ee97899c-6e5c-528a-ab81-5c7496d19eaa' => [
-        'A winner makes commitments. A loser makes promises.',
-        'Unknown',
+    '5c0168d2-5a9d-5581-8ef9-6ab918fda137' => [
+        "Don\u{92}t lose a woman that has seen your flaws and still loves you.",
+        'Nizar Qabbani',
     ],
-    '9651f918-139b-5288-9e4c-fc73938b192e' => [
-        'It\'s funny about men and women. Men pay in cash to get them and pay in cash to get rid of them. Women pay emotionally coming and going. Neither has it easy.',
-        'Hedy Lamarr',
+    '5bafc1bf-7b03-56f1-a7df-61ff558dbd69' => [
+        'We would all like to vote for the best man but he is never a candidate.',
+        'Kin Hubbard',
     ],
-    '5de99767-7bd2-55c9-8378-27314adece0a' => [
-        'Your daily life is your temple and your religion. When you enter into it take with you your all.',
-        'Viggo Mortensen',
+    '3170f441-f648-5a9e-a73b-99ebd72cbf33' => [
+        'If you get hungry mid-day, a banana is the best snack at your desk, after a workout, or in between classes. Fruit is a very good snack in general.',
+        'Marcus Samuelsson',
     ],
-    'b7fa3f10-4fd5-5ecd-84f5-046b2eaae11b' => [
-        'There\'s nothing better than people talking to each other, sharing best practices, and opening up communications.',
-        'Dan Gilbert',
+    'd64c9417-69ef-532d-b450-836fbe30f003' => [
+        'I did the best I could, and in some arenas, my best was not good enough. I\'ve made some bad choices.',
+        'Amy Grant',
     ],
-    '319f0eea-0889-5c2c-892c-2714289df6b2' => [
-        'A smile is a curve that sets everything straight.',
-        'Phyllis Diller',
+    '50d2fe25-ae4a-5ca1-9884-7e2408ced589' => [
+        'There is an immutable conflict at work in life and in business, a constant battle between peace and chaos. Neither can be mastered, but both can be influenced. How you go about that is the key to success.',
+        'Phil Knight',
     ],
-    '383e41f4-abaf-5ab1-a369-8a9204f111cf' => [
-        'I wanted to do something inspirational for my children.',
-        'Harvey Weinstein',
+    '74ab6e07-e305-5436-985b-076558c94e84' => [
+        'Behavior used to be reinforced by great deprivation; if people weren\'t hungry, they wouldn\'t work. Now we are committed to feeding people whether they work or not. Nor is money as great a reinforcer as it once was. People no longer work for punitive reasons, yet our culture offers no new satisfactions.',
+        'B. F. Skinner',
+    ],
+    '797d5879-c408-5b9d-a0d9-6b8d76da0ac2' => [
+        'As far as vanity and wrinkles and things like that, that\'s a part of life I don\'t worry about. I put on creams, you know, but don\'t go mad, and I don\'t have any kind of treatments. I just live a healthy lifestyle. And staying happy, not getting negative and angry, I think that helps, looking at the positive of everything.',
+        'Jerry Hall',
+    ],
+    '96169ca9-1669-5f30-9dd8-977ef8af497e' => [
+        'Talk doesn\'t cook rice.',
+        'Chinese proverb',
+    ],
+    '558605a0-6115-5d59-93fe-f18cfdc67fa1' => [
+        'The clock talked loud. I threw it away, it scared me what it talked.',
+        'Tillie Olsen',
+    ],
+    '00e6da2f-02f8-52ae-89df-b0d7769ee19e' => [
+        'If we don\'t hope, if we don\'t stay positive - at least about love, or finding love - then the rest of life becomes really just painful to think about, because for the most part, you know, day-to-day stuff is monotonous.',
+        'Nev Schulman',
+    ],
+    '37f241bc-616c-53de-b7e3-dd330a19cdbd' => [
+        'Call it what you will, incentives are what get people to work harder.',
+        'Nikita Khrushchev',
+    ],
+    'f526c33c-4206-5d8c-987f-3047245b6795' => [
+        'Trusting our intuition often saves us from disaster.',
+        'Anne Wilson Schaef',
+    ],
+    'c929fbb0-9e2d-5741-9753-51062d32603a' => [
+        'I think that ultimately your age is determined by your attitude. It\'s not the number; it\'s not how many wrinkles you have on your face. It\'s the energy that you project.',
+        'Christie Brinkley',
+    ],
+    'c5e2bb8f-12e8-502b-aaac-e83c57cfc19d' => [
+        'I always thought of myself as more American than Americans when I was living in Germany, because I always had this attitude of can-do, and if you\'re successful, you can show it, which is a very un-German thing, you know.',
+        'Kim Dotcom',
+    ],
+    'ac2d45cd-c1ed-583e-a7b0-5dbb9f138b3b' => [
+        'I was not so committed to financial success that I was willing to abandon my principles and priorities. One of the most visible examples of this is our decision to close on Sunday.',
+        'S. Truett Cathy',
+    ],
+    'dd3b7fd3-d45e-5513-bf08-ecb072a5dab3' => [
+        'To measure the success of our societies, we should examine how well those with different abilities, including persons with autism, are integrated as full and valued members.',
+        'Ban Ki-moon',
+    ],
+    'bc650364-874b-532a-9a42-d57d982a29f1' => [
+        'I am thrilled to support World of Children and its superlative efforts to fund changemakers around the world. It\'s a great privilege to be associated with an organization that recognizes and funds those individuals really working in the trenches, and I look forward to being part of advancing positive change for children everywhere.',
+        'Stephanie March',
+    ],
+    '135e4c4a-73ae-50ef-80f8-488ddc2e881d' => [
+        'As a team, you need to come from behind every once in awhile just to do it. Good for the attitude. It makes it exciting. And when everybody knows you have to throw it... that makes it fun too.',
+        'Dan Marino',
+    ],
+    '94ca299e-8c3d-50f7-ab0d-ea9c2782c546' => [
+        'The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.',
+        'Havelock Ellis',
+    ],
+    '875a0dfd-a942-587d-97e3-b0da7f7d6b57' => [
+        'A sculptor wields The chisel, and the stricken marble grows To beauty.',
+        'William C. Bryant',
+    ],
+    '0926a4cb-2982-50b2-ac33-605556bbe3b6' => [
+        'Our attitude towards others determines their attitude towards us.',
+        'Earl Nightingale',
+    ],
+    'ce9b4f4c-659c-5630-9829-3bf1b0b04816' => [
+        'Trust yourself. Create the kind of self that you will be happy to live with all your life. Make the most of yourself by fanning the tiny, inner sparks of possibility into flames of achievement.',
+        'Leonard Mlodinow',
+    ],
+    '35f2f7e6-d0a4-5472-a4cd-578b7b699099' => [
+        'Some twins feel like they need to compare themselves to each other, but we\'re not that way. That\'s because of my parents, though, and having six kids in the family.',
+        'Ashley Olsen',
+    ],
+    '83e0d3d0-6539-50fb-b79a-cc7797b0c2b3' => [
+        'A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby\'s temperature. Plus, it really teaches the baby who\'s boss.',
+        'Tina Fey',
+    ],
+    'a39ec5a1-e732-5816-b8bb-f9db3662e553' => [
+        'I appreciate simplicity, true beauty that lasts over time, and a little wit and eclecticism that make life more fun.',
+        'Elliott Erwitt',
+    ],
+    '50961939-373e-590f-8736-e3ab290358dd' => [
+        'Keep your sense of humor, my friend; if you don\'t have a sense of humor it just isn\'t funny anymore.',
+        'Wavy Gravy',
+    ],
+    '8547a3c2-76c0-59cb-b524-3819f293086a' => [
+        'It would be great if firefighters across the country had the guarantee that they would be making enough money to support their family right from the get-go, but that\'s not the case.',
+        'Denis Leary',
+    ],
+    '9e24d01b-58e2-59cd-a767-4744f966b8d6' => [
+        'I hear and I forget. I see and I remember. I do and I understand.',
+        'Confucius',
+    ],
+    'e3e204eb-648e-53cb-ac7c-795cfb14e697' => [
+        'When a person doesn\'t have gratitude, something is missing in his or her humanity. A person can almost be defined by his or her attitude toward gratitude.',
+        'Elie Wiesel',
+    ],
+    '616bb6c6-360c-5228-a743-8fc162e37a24' => [
+        'O, wind, if winter comes, can spring be far behind?',
+        'Percy Bysshe Shelley',
+    ],
+    '882fd441-b8ed-57d3-adc3-e5c8993548b0' => [
+        'I learned one thing - never hate a positive option.',
+        'Kevin Garnett',
+    ],
+    '5ce0b056-e01b-58f6-90e1-e974b5f5cb91' => [
+        'I am what I am. I love golf, I love my life, I love my family and friends.',
+        'Sergio Garcia',
     ],
 ];

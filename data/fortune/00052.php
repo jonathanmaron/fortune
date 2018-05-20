@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '0ea2915d-31b5-586f-8ded-47d9481d7dc2' => [
-        'Thought is the blossom; language the bud; action the fruit behind it.',
-        'Ralph Emerson',
+    '77e619eb-c451-570a-b94b-98aa739c22e6' => [
+        'I think anytime you can affect people in general, in a positive way, then you\'re a lucky individual.',
+        'Sam Elliott',
     ],
-    'd967b31b-f9dd-563c-9275-c30b2d374748' => [
-        'Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.',
-        'Harriet Lerner',
+    '63a4f4dd-8af6-5c08-9dce-c4e880ac38de' => [
+        'There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.',
+        'Jiddu Krishnamurti',
     ],
-    'b7e6565a-047a-5ab5-9402-a0bc268956af' => [
-        'Flaming enthusiasm, backed up by horse sense and persistence, is the quality that most frequently makes for success.',
-        'Dale Carnegie',
+    'c9b2e6dc-39b6-57b1-9e75-5b0d42981677' => [
+        'While journalists cannot right every wrong, champion every cause or fix every problem, they can - through the written word - lift someone\'s burden for a day, make some elderly woman on a bus smile or let them know they are noticed by someone.',
+        'Regina Brett',
     ],
-    '736690e4-d2f8-574a-b45b-202403637a99' => [
-        'It is to be observed that \'angling\' is the name given to fishing by people who can\'t fish.',
-        'Stephen Leacock',
+    '0c937dac-c345-57f4-96da-cbb34e11ec75' => [
+        'The average family spends 30 hours in front of a television, and they say they don\'t have the time to have a balanced, integrated life.',
+        'Stephen Covey',
     ],
-    '87b56b88-1cf9-5c5f-9e5f-34102203a03b' => [
-        'Drones overall will be more impactful than I think people recognize, in positive ways to help society.',
-        'Bill Gates',
+    'c7136fa4-a630-50f4-92ee-c7e92728253a' => [
+        'No one can arrive from being talented alone, work transforms talent into genius.',
+        'Anna Pavlova',
     ],
-    '79741ccd-edfa-53cc-a9b4-8a923cd0cf76' => [
-        'As a model, I really stand for not being a model, if that makes sense. When I started, the whole idea of the model was very different; it was a bit stuck-up. Not stuck-up, but no one was trying to have fun, or not even have fun, but be willing to smile.',
-        'Cara Delevingne',
+    '41f2a446-f973-5be5-a5c5-123953b55abf' => [
+        'Choose your corner, pick away at it carefully, intensely and to the best of your ability and that way you might change the world.',
+        'Charles Eames',
     ],
-    '2b33de8c-fdec-5912-b0c3-c83962e02c08' => [
-        'In individual industries where female labour pays an important role, any movement advocating better wages, shorter working hours, etc., would not be doomed from the start because of the attitude of those women workers who are not organized.',
-        'Clara Zetkin',
+    'e7695f96-10ae-5e86-8513-841697a1ef16' => [
+        'Nothing else matters so much as long as you can come home and be with your family.',
+        'Patrick Dempsey',
     ],
-    '722c9ca3-bdc6-5063-9ca7-3542a0e15599' => [
-        'I can\'t live without my beauty products. I love to be in my bathroom with my candles lit, morning, noon and night. I like taking hot baths and hot showers, using my body scrubs and lotions.',
-        'Traci Bingham',
+    'e6fc1187-e2a8-5bf7-b1db-d16224cff447' => [
+        'I\'m trying to raise the awareness of the troops that, when they deploy and go to war, it\'s not just them at war - it\'s also their family. Their family is having to go through all the hardships and the stresses.',
+        'Chris Kyle',
     ],
-    'c34ecfd1-4e38-5e00-ae6c-34a04661aa6a' => [
-        'Wear a smile and have friends; wear a scowl and have wrinkles.',
-        'George Eliot',
+    '0e6bd6cd-e74c-5ace-acb8-c0e69d9e276d' => [
+        'Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.',
+        'Alan Cohen',
     ],
-    '76bdaf79-9d41-5b2b-98bc-78937edc0ce1' => [
-        'I never understand when people say, \'School days are the best of your life.\' So it\'s all downhill from 16? How depressing.',
-        'Marsha Thomason',
+    '07e12253-f234-50db-bc69-aef55e3a690c' => [
+        'In times of great stress or adversity, it\'s always best to keep busy, to plow your anger and your energy into something positive.',
+        'Lee Iacocca',
     ],
-    '76777653-5698-57f0-8da7-9510820a42e7' => [
-        'The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life.',
-        'Neale Donald Walsch',
+    '6f710cd4-fda2-5415-8ab9-4b6e0e177c36' => [
+        'In all things of nature there is something of the marvellous.',
+        'Aristotle',
     ],
-    '0da9059c-3952-5069-98b2-ed559b29531c' => [
-        'It\'s hard enough to work and raise a family when your kids are all healthy and relatively normal, but when you add on some kind of disability or disease, it can just be such a burden.',
-        'Patricia Heaton',
+    'c7902a25-519e-5dc5-ae85-39c31ccf69e8' => [
+        'If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.',
+        'Abraham Lincoln',
     ],
-    'b14c279a-bc17-56f4-b0ef-d4d92ef33fea' => [
-        'I just think Valentine\'s Day is a day to really appreciate the person you love, no matter who it is, and to spend time with them. I don\'t think it\'s all about fancy presents or whatever. I think it\'s about spending that quality time with that special person.',
-        'Prince Royce',
+    'bc2208b3-a3d0-5226-82f9-57a4332e09de' => [
+        'Directing a movie is a little bit like being back in student government and putting on the homecoming dance. You\'re like, \'You put up the streamers, and you hire the DJ, and you get the punch bowl.\' Some people are just like, \'This dance sucks.\' And you\'re like, \'No no, this dance is awesome!\' You have to be really positive.',
+        'Mike Birbiglia',
     ],
-    '4532ecab-4636-5886-a291-faef67ad7b29' => [
-        'Whenever I look at a baby or children in general, I smile and just want to play with them.',
-        'Odeya Rush',
+    '5a18dd5f-3358-5bda-8fbf-c6945048d7cb' => [
+        'It\'s easy to be critical of ourselves and other women around us. We stand in front of the mirror and only focus on the things we hate about our body and our appearance. But I encourage you to change that attitude the next time you are in front of the mirror.',
+        'Katherine Schwarzenegger',
     ],
-    '40eda9f6-d1c7-5be1-a578-3e8236c7ca6b' => [
-        'If you\'re successful, it\'s important to enjoy it! I love shopping for clothes, branded clothes. I love shopping in England, Dubai. I like to travel whenever I can.',
-        'Suresh Raina',
+    'ab0f04eb-aa9d-530d-8c5a-7fd592ad93ec' => [
+        'Men are disturbed not by things, but by the view which they take of them.',
+        'Epictetus',
     ],
-    'd3aa6500-2c2f-56aa-9225-08f4b24108d9' => [
-        'When I work, a lot of times I have to lose weight, and I do that, but in my regular life I was not eating right, and I was not getting enough exercise. But by the nature of my diet and that lifestyle - boom! The end result was high blood sugars that reach the levels where it becomes Type 2 diabetes. I share that with a gajillion other people.',
-        'Tom Hanks',
+    'f15289fe-cc21-55c0-b215-4ff86541eb41' => [
+        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
+        'Michelangelo',
     ],
-    'f27a1f9f-214a-5992-b360-d8882e2f3ae8' => [
-        'Our deep respect for the land and its harvest is the legacy of generations of farmers who put food on our tables, preserved our landscape, and inspired us with a powerful work ethic.',
-        'James H. Douglas, Jr.',
+    'b74f6d67-c586-5dec-a061-8664a2d530dc' => [
+        'Tackle the difficult things first in the morning; make changes in the way you network. Treat everyone with respect and dignity. This stops you from cynicism and negativity. End your day with that same attitude you started. Renew your contract with a day well completed.',
+        'Rick Pitino',
     ],
-    '38f5524a-737c-5320-b55d-ce475960eb5e' => [
-        'I want to explore a new place each year, and it can be within India. When I was shooting for \'Mohenjo Daro\', I couldn\'t travel out of the country for two years. But it gave me an opportunity to explore new places within India. I\'m sure there are so many places to explore in India, and I would love to go there.',
-        'Pooja Hegde',
+    '29187f52-e4e3-55e5-ac56-1491d9c5f787' => [
+        'No man goes before his time - unless the boss leaves early.',
+        'Groucho Marx',
     ],
-    '2ee0dc64-9a28-5e46-a228-c44a97abb9a7' => [
-        'The beauty and riddle in studying the motives of any politician is in trying to decide what is idealism and what is self-interest, and often we are left to conclude that the answer is a mixture of the two.',
-        'Boris Johnson',
+    'faffb3f9-2a21-596c-8702-0cfbf81086f7' => [
+        'It\'s music. It\'s supposed to be fun and inspirational. You have to be inspired. If I did it because it was my \'job,\' and I only did it to make money, I don\'t think I\'d still be doing it.',
+        'Max Martin',
     ],
-    'b4c8d412-8b38-507e-b337-f9830505f8d3' => [
-        'What I miss the most is chatting with my friends and family and having a good laugh over a simple meal.',
-        'Kim Yuna',
+    '36cfa7c5-c092-5b0d-8fe9-915422a6905f' => [
+        'Some go on to trade schools or get further training for jobs they are interested in. Some go into the arts, some are craftsmen, some take a little time out to travel, and some start their own businesses. But our graduates find and work at what they want to do.',
+        'Daniel Greenberg',
     ],
-    '1a98be14-5f89-5058-a9b8-5f5be0cafa0c' => [
-        'We are free, but not to be evil, not to be indifferent to human suffering, not to profit from the people, from the work created and sustained through their spirit of political association, while refusing to contribute to the political state that we profit from.',
-        'Jose Marti',
+    '0cfb4141-cb59-57b2-b870-af7b5bfd4b94' => [
+        'In three words I can sum up everything I\'ve learned about life: it goes on.',
+        'Philip Sidney',
     ],
-    '66f946de-8f9e-583a-adf1-0d20012b57b6' => [
-        'I think the American Dream says that anything can happen if you work hard enough at it and are persistent, and have some ability. The sky is the limit to what you can build, and what can happen to you and your family.',
-        'Sanford I. Weill',
+    '828e65af-1475-5324-8207-66ce5592fe6e' => [
+        'I had to act in a school play when I was about ten years old. I really didn\'t want to do it. But everyone had to do it so I didn\'t have a choice. A talent agent came and watched it and later gave me some work. It\'s funny because I\'d always known that I wanted a movie career. I just didn\'t think that I would be in the movies.',
+        'Kristen Stewart',
     ],
-    'd89ae893-8145-5a57-97e5-5133ea98875c' => [
-        'I guess a psychiatrist would say there\'s some good to the venting process, but it does also promote an attitude of saying, \'Hey there\'s nothing wrong with being filled with hate; there\'s so much of it around.\' I don\'t like that.',
-        'Mario Cuomo',
+    'a0a86908-2471-5207-9589-6c833f4038db' => [
+        'Sometimes you say things with a smile with the precise intention of making it clear that you are not being serious, and are only kidding. If I salute a friend with a smile and say, \'How are you, you old scoundrel!\' clearly I don\'t really mean he\'s a scoundrel.',
+        'Umberto Eco',
     ],
-    'a13a3f3b-cdfc-5daa-8183-f6ff1753ab5a' => [
-        'Success is always temporary. When all is said and one, the only thing you\'ll have left is your character.',
-        'Vince Gill',
+    '88eeaf60-c864-53c0-9aad-0cf20c5c07a7' => [
+        'Slow down and enjoy life. It\'s not only the scenery you miss by going too fast, you also miss the sense of where you are going and why.',
+        'Eddie Cantor',
     ],
-    '3933a46e-363d-56d1-ae62-818d61c8a515' => [
-        'I was just a goofy little funny kid, who was always getting sent to the principal. It wasn\'t serious because I was smart. I wasn\'t like a true troublemaker, just rambunctious - like, talkative and trying to be funny. That was me in middle-school.',
-        'J. Cole',
+    '41ed9858-704f-52e1-b684-43c50f0a092f' => [
+        'A rainbow is the product of physics working for your appreciation of beauty.',
+        'Kyle Hill',
     ],
-    '88944673-867c-5654-b8dd-121c3d08963e' => [
-        'You can\'t have a better tomorrow if you are thinking about yesterday all the time.',
-        'Charles Kettering',
+    '2cd68707-70ab-5ae6-a1a5-1b72da41835a' => [
+        'The first duty of a human being is to assume the right functional relationship to society, more briefly, to find your real job, and do it.',
+        'Charlotte Perkins Gilman',
     ],
-    '92af0357-48eb-5415-99b1-b491732e4080' => [
-        'I know what Germans are. They are a funny people. They are always choosing someone to lead them in a direction which they do not want to go.',
-        'Gertrude Stein',
-    ],
-    '23606969-eaa6-523d-90a2-12d8eb435593' => [
-        'Some people walk in the rain, others just get wet.',
-        'Roger Miller',
-    ],
-    'a81e12af-e388-5ba1-b31c-166a3fbf1cc2' => [
-        'It takes a man to suffer ignorance and smile.',
-        'Sting',
-    ],
-    'aea003db-ab3a-55a6-804d-7aa8f47afbdf' => [
-        'I sit here as the first African-American attorney general, serving the first African-American President of the United States. And that has to show that we have made a great deal of progress. But there\'s still more we have to travel along this road so we get to the place that is consistent with our founding ideals.',
-        'Eric Holder',
-    ],
-    'f8beeeb2-32bd-5d63-8a9d-014353cf4ea9' => [
-        'In everyday things the law of sacrifice takes the form of positive duty.',
-        'James Anthony Froude',
-    ],
-    'b4629b97-4ac8-50e6-81c3-33c700c78992' => [
-        'I am, as it happens, a baby boomer, but not one who feels any broad-gauge nostalgia for the \'60s and \'70s. My attitude resembles that of my parents, who were born in the \'20s and lived through the Great Depression and World War II.',
-        'Terry Teachout',
-    ],
-    'fd798b54-43e6-53eb-90fe-6742a82ec6da' => [
-        'Sweat is fat crying.',
+    '9d44fa29-b2a3-5392-94c8-9a1674d02dae' => [
+        'Always concentrate on how far you\'ve come, rather than how far you have left to go.',
         'Unknown',
     ],
-    'bd0a71ce-2a4f-5a47-9201-2924bd4e36f7' => [
-        'I have inspiration and feelings of being alive most every day I live.',
-        'Richard L. Evans',
+    '990a2478-7051-587b-86a9-f3ffabd44508' => [
+        'All we have to decide is what to do with the time that is given us.',
+        'J. R. R. Tolkien',
     ],
-    '195c4e13-6c31-542a-97eb-d5c80fc89952' => [
-        'I\'m happiest with my family around me.',
-        'Amy Winehouse',
+    '5f82272f-56a2-5876-8c2c-0037d339adaa' => [
+        'The superior man acts before he speaks, and afterwards speaks according to his action.',
+        'Confucius',
     ],
-    'd71b6ea2-7246-50ed-a2dc-95d1dcddbe33' => [
-        'I don\'t think of myself as a role model. I do try to live in a compassionate, considerate and positive way. The only advice I can offer is to find what you love to do, find the joy in it, and express yourself through your passion.',
-        'Barry Williams',
+    'e7f7431e-f879-501f-9902-de8f0df3e0bc' => [
+        'I go into it with the attitude that I\'m not going to look at my leg, and as soon as they get the wrapping off of it, I\'m like, \'I\'ve got to look.\' It\'s like yelling at a dog going, \'Squirrel!\' I cannot not look. And then I spend the rest of the time sitting there with a wet washcloth on my forehead trying to regain consciousness.',
+        'Tony Stewart',
     ],
-    '50e15939-9617-5972-b9db-a580e03ee7ae' => [
-        'Faces that have charmed us the most escape us the soonest.',
-        'Walter Scott',
+    '3a3323b6-a070-532f-a9b6-86715fcf2101' => [
+        'I find it funny how people from Boston and New York hate each other because of pro teams. But, like, everyone on the Red Sox is a random millionaire athlete from somewhere else.',
+        'Julian Casablancas',
     ],
-    'f4f2c405-9cbc-534e-b24b-242a64fde56c' => [
-        'And when I was young, my family was perfectly nice. I write a lot about it, as you noticed. But it was rather limited. I think, I don\'t think anyone in my family would really feel I\'d done them an injustice by saying that. We didn\'t see many people. There were many books. It was as if I wanted to get away from home.',
-        'Christopher Hitchens',
+    'd9202ce6-d590-5878-9f55-78739e1b007a' => [
+        'You cannot find yourself by going into the past. You can find yourself by coming into the present.',
+        'Eckhart Tolle',
     ],
-    '051171ed-56d1-5c14-a47d-121fd1273a1e' => [
-        'I\'ve been absolutely terrified every moment of my life - and I\'ve never let it keep me from doing a single thing I wanted to do.',
-        'Georgia O\'Keeffe',
+    'd1849fd5-07a4-5174-8ced-d39b3b592f7b' => [
+        'The attitude and identity that we want to play with doesn\'t change.',
+        'Dan Quinn',
     ],
-    '7f19e0db-5851-5110-8ce4-72b8d1d0132e' => [
-        'I\'m allergic to attitude.',
-        'Megan Boone',
+    'cdb23f1b-1652-559f-98fb-389023b6958e' => [
+        'Yes\'m, old friends is always best, \'less you can catch a new one that\'s fit to make an old one out of.',
+        'Sarah Orne Jewett',
     ],
-    '1723f23b-1c32-5517-9acd-f7d483382bf7' => [
-        'Women need opportunity and encouragement. If a girl can climb mountains, she can do anything positive within her field of work.',
-        'Samina Baig',
+    '10a520bd-02e5-5845-a3de-7e82fea51e2a' => [
+        'For me, running against the Poles and Czechs would be like running against high school kids. And I hate all this gung-ho, run-for-the-red-white-and-blue attitude that the AAU spouts. If that\'s important to some people, fine, more power to \'em. But, damn it, I wish they\'d leave me alone to do what I want to do - run against the best.',
+        'Steve Prefontaine',
     ],
-    '70aa900f-f83b-5e17-b8db-a4c0263b4544' => [
-        'I\'m a very positive thinker, and I think that is what helps me the most in difficult moments.',
-        'Roger Federer',
+    'f2e78414-f3b7-5005-97cf-c600b5b6f7fe' => [
+        'If my leg falls off, I\'ll get a prosthetic. There\'d be no deep sadness about. I\'d just get on with it! It\'s called life, and I love life. You have to be positive, and you have to crack on no matter what.',
+        'John Lydon',
     ],
-    '4a62b847-58db-53c9-a827-3c81e541f51b' => [
-        'I like beauty to be a bit edgy, not typical. For me, the only rule is looking good.',
-        'Francois Nars',
+    'fa6afda1-c4f1-5bdb-81ab-67b7ff063a55' => [
+        'When one must, one can.',
+        'Charlotte Whitton',
     ],
-    'c6adfb6c-5f4a-5724-a530-215e7eedc45d' => [
-        'Nothing strengthens authority so much as silence.',
-        'Leonardo da Vinci',
+    '6fecc85d-e37b-5cc0-bc5c-14aaa320fab9' => [
+        'Although I have a lot of close female friends in my life, my number one is still my mom. Without her, I wouldn\'t have the values that I have and see the world the way that I do today. She taught me how to appreciate and respect women. She taught me chivalry and how to love a woman and respect their feelings and emotions.',
+        'Charlotte Whitton',
     ],
-    '8d8c43c2-6bb8-512d-968a-ae6857d728fc' => [
-        'In the end, the whole Internet thing kills me, because you can use it as a positive thing or you can read into all the negativity. And I think you\'ve gotta put out positive energy, put out cool viral stuff, and then just stay out of people\'s opinions.',
-        'Nikki Sixx',
+    '4e1052ae-c09b-5113-bf01-8def9090c888' => [
+        'Alas! how little does the memory of these human inhabitants enhance the beauty of the landscape!',
+        'Henry David Thoreau',
     ],
-    '875b3b2f-e5e5-5429-b553-aa11c0521f63' => [
-        'Dignity is not negotiable. Dignity is the honor of the family.',
-        'Vartan Gregorian',
+    '2db00aa2-faed-5a44-867f-d464f1361cd3' => [
+        'Lost - yesterday, somewhere between sunrise and sunset, two golden hours, each set with sixty diamond minutes. No reward is offered, for they are gone forever.',
+        'Horace Mann',
     ],
-    'd6dde7c3-0717-57d4-8492-90021d935b6b' => [
-        'I got a lot of support from my parents. That\'s the one thing I always appreciated. They didn\'t tell me I was being stupid; they told me I was being funny.',
-        'Jim Carrey',
+    '7cf2af41-2a6d-5ba6-8d9e-70efb111373a' => [
+        'There is a loftier ambition than merely to stand high in the world. It is to stoop down and lift mankind a little higher.',
+        'Henry Van Dyke',
     ],
-    '09728327-0794-5fd7-943b-d70185a5837c' => [
-        'The more things you do, the more you can do.',
-        'Lucille Ball',
+    '30c89516-f2b5-597a-bd1d-06f310be2241' => [
+        'Epic poetry exhibits life in some great symbolic attitude. It cannot strictly be said to symbolize life itself, but always some manner of life.',
+        'Lascelles Abercrombie',
     ],
-    'c48ff4b4-bf48-56b8-9c8e-c713b84600d6' => [
-        'When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.',
-        'Joseph Campbell',
+    '91462f0a-6dd9-5a23-b799-10596c578498' => [
+        'Family preparedness has been a long-established welfare principle.',
+        'Ezra Taft Benson',
     ],
-    '5ba8170f-4acf-5fd7-aac7-5f72bb90cb18' => [
-        'My greatest pleasure is spending time with my family: my husband and daughter, but also my mother, my three sisters, and their families.',
-        'Siri Hustvedt',
+    '7f5391de-de56-5184-a4b5-3729c8b04565' => [
+        'Only then, approaching my fortieth birthday, I made philosophy my life\'s work.',
+        'Karl Jaspers',
+    ],
+    '94a49c11-611d-5000-b452-d37b60e32de3' => [
+        'I personally think my sister is so stunning without makeup. And she doesn\'t wear that much makeup because she has the best skin color.',
+        'Gigi Hadid',
+    ],
+    'e78c6e85-0b3e-52ac-a067-a91b58fc5add' => [
+        'People who work together will win, whether it be against complex football defenses, or the problems of modern society.',
+        'Vince Lombardi',
+    ],
+    '30f1f506-d880-5b9f-a460-0149efc638ed' => [
+        'The worst times can be the best if you think with positive energy.',
+        'Domenico Dolce',
+    ],
+    '640ffb5c-cb57-5de0-884c-3dfaaf67c722' => [
+        'Life is never easy for those who dream.',
+        'Chuck Norris',
+    ],
+    'f5e9807a-0f5a-54ce-9fe2-14811f3a6e63' => [
+        'Agriculture changes the landscape more than anything else we do. It alters the composition of species. We don\'t realize it when we sit down to eat, but that is our most profound engagement with the rest of nature.',
+        'Michael Pollan',
+    ],
+    'a275aea0-80ff-5e4b-b28b-1200cf135462' => [
+        'As an organizer I start from where the world is, as it is, not as I would like it to be.',
+        'Saul Alinsky',
     ],
 ];

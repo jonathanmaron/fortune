@@ -1,204 +1,206 @@
 <?php
 
+declare(strict_types=1);
+
 return [
-    '0b4a7e57-19da-5be2-83e1-ad8b6e90cbe8' => [
-        'The world is getting so small. Young people are mobile; they want to travel around the world. When you travel around the world, you exchange culture, you want to make friends, you want to exchange things.',
-        'Jack Ma',
+    'b7a9f278-3e8a-5e90-bb60-d7f9dec14a19' => [
+        'Refuse to accept the belief that your professional relevance, career success or financial security turns on the next update on the latest technology. Sometimes it\'s good to put the paddle down and just let the canoe glide.',
+        'Simon Mainwaring',
     ],
-    'b21b1dc5-b152-5349-bdbd-0f105851d9c0' => [
-        'Living at risk is jumping off the cliff and building your wings on the way down.',
-        'Ray Bradbury',
+    'a9b2cf6f-9757-5d84-be6b-4299c47f3a97' => [
+        'Despite what some would have us believe, success is not built on resentment and fear.',
+        'Susana Martinez',
     ],
-    '230ae724-e544-5a4f-ac0c-7fbafc22d119' => [
-        'In times like these, it helps to recall that there have always been times like these.',
-        'Paul Harvey',
+    'c1f8b928-68ff-5d17-b5de-83100f4ad659' => [
+        'Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.',
+        'Ambrose Bierce',
     ],
-    'f39b1680-3dc7-5b13-83a4-92d68cba0e78' => [
-        'Inspiration is one thing and you can\'t control it, but hard work is what keeps the ship moving. Good luck means, work hard. Keep up the good work.',
-        'Kevin Eubanks',
+    '5a5bf3c9-59d3-5bf2-83a5-d76540a3d4d0' => [
+        'A strong passion for any object will ensure success, for the desire of the end will point out the means.',
+        'Henry Hazlitt',
     ],
-    '61451eed-03a6-56d4-936f-9e6c76b49c67' => [
-        'Growing up around Amish farmland, I enjoyed the opportunity to witness firsthand their love of family, of the domestic arts - sewing, quilting, cooking, baking - as well as seeing them live out their tradition of faith in such a unique way.',
-        'Beverly Lewis',
+    'a014818a-6527-59e5-ae90-88be7e7482fc' => [
+        'I don\'t have a Pollyana attitude toward life that claims everything is lovely.',
+        'Eve Arden',
     ],
-    '99f3d80c-0d89-56b5-a2b2-c236de3bc5e4' => [
-        'Radicals must be resilient, adaptable to shifting political circumstances, and sensitive enough to the process of action and reaction to avoid being trapped by their own tactics and forced to travel a road not of their choosing. In short, radicals must have a degree of control over the flow of events.',
-        'Saul Alinsky',
+    'be5e0d4a-d7aa-5f79-95ac-e9b737c83bc1' => [
+        'I looked on my stomach and saw Frieda Rebecca, white as flour with the cream that covers new babies, funny little dark squiggles of hair plastered over her head, with big, dark-blue eyes.',
+        'Sylvia Plath',
     ],
-    '08ed2111-7ae2-53cd-a5d7-0ce560919a70' => [
-        'Makeup is not a mask that covers up your beauty; it\'s a weapon that helps you express who you are from the inside.',
-        'Michelle Phan',
+    '60e284ac-359c-555f-a6a0-2275d3173bc6' => [
+        'I\'ve always had a very positive relationship with the municipal labor unions - a respectful relationship.',
+        'Bill de Blasio',
     ],
-    'f57f1153-0df4-5a0f-880b-0c1a000419a3' => [
-        'The vampire was a complete change from the usual romantic characters I was playing, but it was a success.',
-        'Bela Lugosi',
+    '98618ccf-d9b8-59a3-aa1d-51d11c0fa316' => [
+        'If life had a second edition, how I would correct the proofs.',
+        'Hugh Hefner',
     ],
-    'e33056c2-44d8-534d-a536-b53522d2c80a' => [
-        'The funny thing about war is that people feel you need to be morally outraged. I feel morally outraged about it, and I\'ve been doing it for long enough to feel morally outraged, because I have been in massacre scenes in West Africa, and I\'ve been doing this for a long time now.',
-        'Tim Hetherington',
-    ],
-    'c3f61106-f26d-57f3-981e-3af4c46abd83' => [
-        'I must admit that I personally measure success in terms of the contributions an individual makes to her or his fellow human beings.',
+    '26c8ac14-ade6-548b-a6cb-287716618ddd' => [
+        'Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.',
         'Margaret Mead',
     ],
-    '3f03abda-1db8-505f-a383-7d8177d181fb' => [
-        'Your heart is full of fertile seeds, waiting to sprout.',
-        'Morihei Ueshiba',
+    '78a33f58-d051-5607-902d-f7d781a7e687' => [
+        'My father worked in agriculture, and I got to travel round remote rural areas with him and see a bit of the landscape and people.',
+        'Giles Foden',
+    ],
+    '5fa4600d-ae3c-5ef5-b5f9-2148c57e00c6' => [
+        'When you\'re put in a position to really affect young people who are going to run the world one day, if you\'re able to be in their life at a young age and make a positive impact, I think that\'s a beautiful thing.',
+        'Zendaya',
+    ],
+    '5a743ecb-2bf8-5f37-9000-247bf75eea72' => [
+        'I think most of us are raised with preconceived notions of the choices we\'re supposed to make. We waste so much time making decisions based on someone else\'s idea of our happiness - what will make you a good citizen or a good wife or daughter or actress. Nobody says, \'Just be happy - go be a cobbler or go live with goats.\'',
+        'Sandra Bullock',
+    ],
+    '29ed9165-28e8-50dd-9260-e77dae9f5070' => [
+        'When your desires are strong enough you will appear to possess superhuman powers to achieve.',
+        'Napoleon Hill',
+    ],
+    '367ffc58-a35d-5d5b-a8cb-73602d196e9e' => [
+        'I think my philosophy in music has been to accentuate the positive.',
+        'Mike Love',
+    ],
+    '9a348ff0-5c3c-5e20-8d34-4cb06c84b5b1' => [
+        'The grass is always greener on the other side. We are busy applying fairness creams while people in the West go bare-bodied on the beach to get a tan. Indian girls have ruled the roost when it comes to beauty pageants. I flaunt my complexion, and I am proud to be noticed as an Indian wherever I go.',
+        'Shilpa Shetty',
+    ],
+    'a84490fb-623c-50c2-8845-a857efcfcd1c' => [
+        'Canada was built around a very simple premise. A promise that you can work hard and succeed and build a future for yourselves and your kids, and that future for your kids would be better than the one you had.',
+        'Justin Trudeau',
+    ],
+    '3960b6b6-b1a2-51e1-94cc-cf37c4ac8f60' => [
+        'Don\'t Let Yesterday Take Up Too Much Of Today.',
+        'Will Rogers',
+    ],
+    '5e5452fa-b5de-5d7d-a140-76cd37e654fc' => [
+        'I remember my mother\'s prayers and they have always followed me. They have clung to me all my life.',
+        'Donna Brazile',
+    ],
+    '7185b9cd-50e4-5aae-9e45-212210702ba9' => [
+        'Cautious, careful people, always casting about to preserve their reputations can never effect a reform.',
+        'Susan B. Anthony',
+    ],
+    '7c3622c5-c087-5bf1-88db-deaed1737b50' => [
+        'I don\'t think homosexuality is a choice. Society forces you to think it\'s a choice, but in fact, it\'s in one\'s nature. The choice is whether one expresses one\'s nature truthfully or spends the rest of one\'s life lying about it.',
+        'Marlo Thomas',
+    ],
+    '65003466-5d13-5038-a106-64f983a6b261' => [
+        'I wake up every morning literally with a smile on my face, grateful for another day I never thought I\'d see.',
+        'Dick Cheney',
+    ],
+    '0537515d-0799-5656-97d6-5965e06996f8' => [
+        'More power than all the success slogans ever penned by human hand is the realization for every man that he has but one boss. That boss is the man - he - himself.',
+        'Gabriel Heatter',
+    ],
+    'c231d28f-9a84-5293-b37e-63378120c267' => [
+        'Peace begins with a smile.',
+        'Mother Teresa',
+    ],
+    '426ae422-94e3-560a-9227-6ea10ebee9c9' => [
+        'America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world.',
+        'Bill Frist',
+    ],
+    '7feb016f-8eb6-5cd9-91a2-3aa587881cc4' => [
+        'A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.',
+        'Oliver Holmes',
+    ],
+    'adce0c4b-a7a7-5310-9c28-915480999bb9' => [
+        'I like England more than I did when I left. It\'s become a bit of a better country in the last ten years, in the attitude of it. A bit more Americanized, which is both good and bad. At least when you order a cup of coffee they don\'t give you a hard time.',
+        'Teddy Thompson',
+    ],
+    'b6d2cc1e-3a34-5799-ba86-be29ee1a5569' => [
+        'Jazz in itself is not struggling. That is, the music itself is not struggling... It\'s the attitude that\'s in trouble. My plays insist that we should not forget or toss away our history.',
+        'August Wilson',
+    ],
+    '5c4d00ac-db8f-5eaa-9aa2-9cfa89d6c078' => [
+        'I was raised in a very humble environment, and I was always taught to be humble to the things that are happening in my life because they\'re blessings. They\'re blessings in every way. Whether you\'re able to help someone get through a tough time in their life through your music or through comedy, or whatever it is, you\'re just a channel.',
+        'Justin Timberlake',
     ],
     '52e8cd11-e6b0-5162-9042-4671e0c59788' => [
         'Strength to carry on despite the odds means you have faith in your own abilities and know how.',
         'Byron Pulsifer',
     ],
-    '1d13bc43-7562-57cc-9c8e-5de4358693ef' => [
-        'It is not uncommon for people to spend their whole life waiting to start living.',
-        'Eckhart Tolle',
+    '30054d72-55f5-5f69-b04d-6c94f4cda89d' => [
+        'I never appreciated \'positive heroes\' in literature. They are almost always cliches, copies of copies, until the model is exhausted. I prefer perplexity, doubt, uncertainty, not just because it provides a more \'productive\' literary raw material, but because that is the way we humans really are.',
+        'Jose Saramago',
     ],
-    '5fd94f46-c94a-5372-ab57-9ad94388de89' => [
-        'My beauty secret is... nothing! I don\'t drink too much water. I don\'t eat very well. Sometimes I cheat and grab some chocolate. The best thing is to eat what you want, but not very much.',
-        'Yoko Ono',
+    '78208a1e-342e-515f-bc41-86709918dd19' => [
+        'What lies behind us and what lies before us are tiny matters compared to what lies within us.',
+        'Ralph Waldo Emerson',
     ],
-    '0ca5cdb1-f5cc-5cf1-8fc2-61945904ee94' => [
-        'Take rest; a field that has rested gives a bountiful crop.',
-        'Ovid',
+    '62f86600-6fb1-5003-b3e3-b1e3af2eff01' => [
+        'Do not take life too seriously. You will never get out of it alive.',
+        'Og Mandino',
     ],
-    'f956c562-a428-54e0-b85f-f1b8d2f81df1' => [
-        'People commonly travel the world over to see rivers and mountains, new stars, garish birds, freak fish, grotesque breeds of human; they fall into an animal stupor that gapes at existence and they think they have seen something.',
-        'Soren Kierkegaard',
+    'b440b25f-2789-52dc-96ec-80cf5f599605' => [
+        'Mathematics are the result of mysterious powers which no one understands, and which the unconscious recognition of beauty must play an important part. Out of an infinity of designs a mathematician chooses one pattern for beauty\'s sake and pulls it down to earth.',
+        'Marston Morse',
     ],
-    '5c679945-c13a-57c9-bbaa-820023f18aa9' => [
-        'Coral reefs represent some of the world\'s most spectacular beauty spots, but they are also the foundation of marine life: without them many of the sea\'s most exquisite species will not survive.',
-        'Sheherazade Goldsmith',
+    '8152d2a9-195a-5f13-89db-ce163d9360f4' => [
+        'I look forward to making tangible and inspirational contributions to the Houston Technology Center\'s initiatives. HTC is an engine behind Houston\'s and Texas\' continued growth.',
+        'Walter O\'Brien',
     ],
-    '1d9adb92-c04e-564c-87d2-af310abe8ca8' => [
-        'I was never a glamour puss whose career was really based on a look or an attitude. I\'ve been basically playing the same parts I am at 55 that I was at 35. I get cast as strong women, and that can be a mother or a judge or anything.',
-        'Jane Kaczmarek',
+    'b2111679-fbb4-5637-88a2-1f3a9b8ddc19' => [
+        'Well I think any author or musician is anxious to have legitimate sales of their products, partly so they\'re rewarded for their success, partly so they can go on and do new things.',
+        'Bill Gates',
     ],
-    'f86b8873-84d8-58d5-ab06-8c44628985d3' => [
-        'You, too, women, cast away all the cowards from your embraces; they will give you only cowards for children, and you who are the daughters of the land of beauty must bear children who are noble and brave.',
-        'Giuseppe Garibaldi',
+    '036a86b6-ade3-5c90-b671-396adf10a0c1' => [
+        'A beautiful thing is never perfect.',
+        'Unknown',
     ],
-    'c0329483-1a19-505e-a160-755641554606' => [
-        'I love the simplicity, the ingredients, the culture, the history and the seasonality of Italian cuisine. In Italy people do not travel. They cook the way grandma did, using fresh ingredients and what is available in season.',
-        'Anne Burrell',
+    '28edeb52-5348-5fd6-9afb-b975955a5cfb' => [
+        'It\'s funny: people who meet me say, \'I thought you\'d be different.\' But I\'m still the same guy.',
+        'Bill Engvall',
     ],
-    'afe86e9d-6cbb-5a23-9733-4b0ab3bba7c4' => [
-        'Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.',
-        'Winston Churchill',
+    'b041bece-f994-5ddd-85ca-e265a4ab5edc' => [
+        'Please, no matter how we advance technologically, please don\'t abandon the book. There is nothing in our material world more beautiful than the book.',
+        'Patti Smith',
     ],
-    '800b5811-09f4-5e1c-9235-5721e660bbee' => [
-        'They\'ve been fairly positive, as firm as they could be in regards to the derivatives operations in Montreal. We didn\'t sense that there was a hesitation about it. But things change.',
-        'Jean Charest',
+    '5b57cc63-a6fd-535b-95d2-940a89d70215' => [
+        'We should measure welfare\'s success by how many people leave welfare, not by how many are added.',
+        'Ronald Reagan',
     ],
-    '71135886-1a09-5e01-b5e0-9df8f4d0ca13' => [
-        'Over and over I marvel at the blessings of my life: Each year has grown better than the last.',
-        'Philip Green',
+    'd6a78164-2efc-502f-b3f3-5cbd307d85a3' => [
+        'The best way to get anybody\'s attention is dinner. I have good kitchen skills and good grocery shopping skills.',
+        'Al Roker',
     ],
-    'd4abd1ac-f034-5742-a407-dcc67d6eb2ac' => [
-        'Worrying is stupid. It\'s like walking around with an umbrella waiting for it to rain.',
-        'Wiz Khalifa',
+    'a90d0ea6-e1c6-596a-9d19-7d4184a4f50d' => [
+        'Nature uses only the longest threads to weave her patterns, so that each small piece of her fabric reveals the organization of the entire tapestry.',
+        'Richard P. Feynman',
     ],
-    '91825a05-b2fc-57fc-ba33-739c7bf50b1a' => [
-        'Ocean: A body of water occupying about two-thirds of a world made for man - who has no gills.',
-        'Ambrose Bierce',
+    '90ba8f5d-86b9-5508-9824-810c8a914cf5' => [
+        '\'SMiLE\' is perhaps the Beach Boys\' most legendary album. It was recorded in 1966 and 1967 but only saw a formal release in 2011. That\'s a long time to wait for what was said to be Brian Wilson\'s masterpiece.',
+        'Henry Rollins',
     ],
-    'db15e3cc-2e40-5aa9-bf73-f18124b55d32' => [
-        'I believe Watergate shows that the system did work. Particularly the Judiciary and the Congress, and ultimately an independent prosecutor working in the Executive Branch.',
-        'Bob Woodward',
+    '159d17e3-9d29-5e1b-bb44-85852280753e' => [
+        'Our society is not a community, but merely a collection of isolated family units.',
+        'Valerie Solanas',
     ],
-    '2b787d0b-4529-57bc-b6dc-8630b18253c3' => [
-        'I don\'t need to convince anybody that I know kung fu, but maybe somebody needs to know that I really can act, without doing a Chinese accent or a funny walk.',
-        'David Carradine',
+    '3ed92ff7-6004-5268-8943-aafe2822e6c0' => [
+        'Success is where preparation and opportunity meet.',
+        'Bobby Unser',
     ],
-    'c4b7ee34-cfe3-5a35-9c3f-f72a3d836b26' => [
-        'My height doesn\'t define my skill set. To be a great quarterback, you have to have great leadership, great attention to detail and a relentless competitive nature - and I try to bring that on a daily basis.',
-        'Russell Wilson',
+    '83e088c0-d3fa-5a50-9a2f-e3e177149aa4' => [
+        'The happiness of the bee and the dolphin is to exist. For man it is to know that and to wonder at it.',
+        'Jacques Yves Cousteau',
     ],
-    '3935131c-f561-512a-a3e0-ca4defa09aba' => [
-        'Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.',
-        'Hannah Arendt',
+    'ec62b28b-4507-5c9e-8563-31f232f01d8c' => [
+        'If you have learned how to disagree without being disagreeable, then you have discovered the secrete of getting along - whether it be business, family relations, or life itself.',
+        'Bernard Meltzer',
     ],
-    '85ad8a48-1241-535a-be8c-0f7c73e9e645' => [
-        'Sometimes we let life guide us, and other times we take life by the horns. But one thing is for sure: no matter how organized we are, or how well we plan, we can always expect the unexpected.',
-        'Jurgen Klopp',
+    '7be71cb5-9520-5179-a53f-8f6eed816af3' => [
+        'If you are not willing to risk the usual, you will have to settle for ordinary.',
+        'Jim Rohn.',
     ],
-    'e1630333-0471-55dd-9bb5-14cb3ea95747' => [
-        'I am fascinated by what is beautiful, strong, healthy, what is living. I seek harmony.',
-        'Leni Riefenstahl',
+    'e0f5fed0-de5e-53d3-83f3-7e84fa27435d' => [
+        'Sports teaches you to understand the meaning of a team. You need to be able to work with everybody; you don\'t have to be their best friend. You can experience the fun of competition and driving toward a common goal without pushing to bond in some major way with each individual on a project.',
+        'Kathleen Kennedy',
     ],
-    'd9a9d757-36c5-5d40-87ff-25f0ce73d2c0' => [
-        'Dream small dreams. If you make them too big, you get overwhelmed and you don\'t do anything. If you make small goals and accomplish them, it gives you the confidence to go on to higher goals.',
-        'John H. Johnson',
+    'e9ad1e2b-1e7b-5ec0-b29c-8354e576367b' => [
+        'I could have probably raised them in L.A. and they would have been great and had so many things at their fingertips and been exposed to so many things. But we travel a lot, so I don\'t think that moving out of town is sheltering the girls at all. Maybe protecting them a little bit more, trying to prolong their youth.',
+        'Jennie Garth',
     ],
-    '0e92c1d1-0f06-5282-81f2-e03e01d77325' => [
-        'A professional is someone who can do his best work when he doesn\'t feel like it.',
-        'Alistair Cooke',
-    ],
-    '0e4c1cfe-af3f-5eb7-bdc5-3572e3a1907e' => [
-        'Learn from me, if not by my precepts, then by my example, how dangerous is the pursuit of knowledge and how much happier is that man who believes his native town to be the world than he who aspires to be greater than his nature will allow.',
-        'Mary Wollstonecraft',
-    ],
-    'ec497db9-190c-5588-aab9-2d76006478c2' => [
-        'You can\'t be a crazy rebel in the face of death, it\'s not a fitting attitude.',
-        'Michel Houellebecq',
-    ],
-    '2f38c4a1-a012-5761-b1f0-6a734067d5fb' => [
-        'The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools.',
-        'Confucius',
-    ],
-    '2afb6791-b588-52b5-a76c-02182363c65f' => [
-        'That should be the measure of success for everyone. It\'s not money, it\'s not fame, it\'s not celebrity; my index of success is happiness.',
-        'Lupe Fiasco',
-    ],
-    'fa75ceb6-763b-5af1-b195-133a575491f4' => [
-        'If at first you don\'t succeed, find out if the loser gets anything.',
-        'William Lyon Phelps',
-    ],
-    '3127f862-1f27-563d-afeb-353241290724' => [
-        'Each time a man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, he sends forth a tiny ripple of hope, and crossing each other from a million different centers of energy and daring, those ripples build a current that can sweep down the mightiest walls of oppression and resistance.',
-        'Robert Kennedy',
-    ],
-    '4852701e-03f3-5e62-a001-96d639e1b361' => [
-        'The best way to predict the future is to create it.',
-        'Peter Drucker',
-    ],
-    '1585ecb6-ded5-5a13-a596-74d6a61665cc' => [
-        'You must have been warned against letting the golden hours slip by; but some of them are golden only because we let them slip by.',
-        'James M. Barrie',
-    ],
-    'f2c9c94e-79e6-57d2-990f-0fba8c45f060' => [
-        'One of the things that happens in the business is that success is a very strange thing in that if you are involved in something very successful the next person wants you to repeat it.',
-        'Elmer Bernstein',
-    ],
-    '1f75d69d-e1b2-5793-a750-8f763664c051' => [
-        'My grandmother, she\'s been the positive portion of my life the entire time. She raised us Baptist, and when I got old enough to say I didn\'t want to go to church, she didn\'t force me. She was cool.',
-        'Curtis Jackson',
-    ],
-    'e7965ca1-5b31-59b7-95f3-2e68cfb69dcf' => [
-        'Try to be a rainbow in someone\'s cloud.',
-        'Maya Angelou',
-    ],
-    '619bfe95-17d1-5271-b137-14ee4581df91' => [
-        'There is no excellent beauty that hath not some strangeness in the proportion.',
-        'Francis Bacon',
-    ],
-    '7d23cf27-b239-5343-835e-e6921acee031' => [
-        'Funny is an attitude.',
-        'Flip Wilson',
-    ],
-    '0f046528-2136-52d3-90c0-d7cbbb6f5003' => [
-        'Women now have choices. They can be married, not married, have a job, not have a job, be married with children, unmarried with children. Men have the same choice we\'ve always had: work, or prison.',
-        'Tim Allen',
-    ],
-    '9cc604e4-9a12-536e-8e13-eb1bd8e6819b' => [
-        'Don\'t wait. The time will never be just right.',
-        'Napoleon Hill',
-    ],
-    '84395670-45c6-5bc6-9b8a-be8b5044a579' => [
-        'Modeling has given me the opportunity to travel outside of Brazil and see the world. I have been meeting many interesting and talented people along the way.',
-        'Izabel Goulart',
-    ],
-    'b6ad1bdc-a702-5516-bdd4-e35d3c85f504' => [
-        'The only time I have problems is when I sleep.',
-        'Tupac Shakur',
+    'd257f3bf-318a-5143-a044-5056b65ea176' => [
+        'When you look at Prince Charles, don\'t you think that someone in the Royal family knew someone in the Royal family?',
+        'Robin Williams',
     ],
 ];
