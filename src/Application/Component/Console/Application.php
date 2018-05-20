@@ -3,36 +3,23 @@
 namespace Application\Component\Console;
 
 use Application\Component\Console\Command\CommandFactory;
-use Application\Component\Console\Command\FortuneCommand;
-use Application\Component\Console\Command\FortuneImportCommand;
-use Application\Component\Console\Command\FortuneIndexCommand;
-use Application\Component\Console\Command\FortuneStatisticsCommand;
+use Application\Component\Console\Command\FortuneCommand\FortuneCommand;
+use Application\Component\Console\Command\ImportCommand\ImportCommand;
+use Application\Component\Console\Command\IndexCommand\IndexCommand;
+use Application\Component\Console\Command\StatisticsCommand\StatisticsCommand;
 use Symfony\Component\Console\Application as ParentApplication;
 
 class Application extends ParentApplication
 {
-    public function __construct(string $name = 'UNKNOWN', string $version = 'UNKNOWN')
-    {
-        error_reporting(E_ALL);
-
-        set_time_limit(0);
-
-        putenv('SHELL_INTERACTIVE=true');
-
-        define('APPLICATION_ROOT', realpath(__DIR__ . '/../../../../'));
-
-        parent::__construct($name, $version);
-    }
-
     protected function getDefaultCommands()
     {
         $ret = parent::getDefaultCommands();
 
         $commands = [
             FortuneCommand::class,
-            FortuneImportCommand::class,
-            FortuneIndexCommand::class,
-            FortuneStatisticsCommand::class,
+            ImportCommand::class,
+            IndexCommand::class,
+            StatisticsCommand::class,
         ];
 
         $container = null;

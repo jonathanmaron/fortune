@@ -1,17 +1,17 @@
 <?php
 
-namespace Application\Component\Console\Command;
+namespace Application\Component\Console\Command\IndexCommand;
 
 use Application\Component\Filesystem\Filesystem;
 use Application\Component\Finder\Finder;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class FortuneIndexCommand extends AbstractCommand
+class IndexCommand extends AbstractCommand
 {
     protected function configure()
     {
-        $this->setName('fortune-index');
+        $this->setName('index');
 
         $this->setDescription('Build indexes');
 
@@ -58,7 +58,7 @@ class FortuneIndexCommand extends AbstractCommand
         foreach ($indices as $key => $index) {
             $outputFilename = $fortune->getIndexFilename($key);
             $filesystem->dumpFile($outputFilename, $index);
-            $format  = 'Written %s index to "%s"';
+            $format  = 'Wrote "%s" index to "%s"';
             $message = sprintf($format, $key, $outputFilename);
             $output->writeln($message);
         }

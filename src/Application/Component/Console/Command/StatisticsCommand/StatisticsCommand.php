@@ -1,6 +1,6 @@
 <?php
 
-namespace Application\Component\Console\Command;
+namespace Application\Component\Console\Command\StatisticsCommand;
 
 use Application\Exception\InvalidArgumentException;
 use Symfony\Component\Console\Helper\Table;
@@ -8,15 +8,12 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class FortuneStatisticsCommand extends AbstractCommand
+class StatisticsCommand extends AbstractCommand
 {
-    const LIMIT_MIN = 0;
-
-    private $limit;
 
     protected function configure()
     {
-        $this->setName('fortune-statistics');
+        $this->setName('statistics');
 
         $this->setDescription('Show statistics');
 
@@ -89,15 +86,5 @@ class FortuneStatisticsCommand extends AbstractCommand
         return $this;
     }
 
-    protected function getLimit()
-    {
-        return $this->limit;
-    }
 
-    protected function setLimit($limit)
-    {
-        $this->limit = (int) $limit;
-
-        return $this;
-    }
 }

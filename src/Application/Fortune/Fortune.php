@@ -47,6 +47,50 @@ class Fortune
         ];
     }
 
+    public function getRandomShortFortune()
+    {
+        $average = $this->getAverageFortuneLength();
+
+        $lengths = array_keys($this->getAllLengths());
+        $lengths = array_filter($lengths, function ($length) use ($average) {
+            if ($length > $average) {
+                return false;
+            }
+            return true;
+        });
+
+        $randLength = array_rand($lengths);
+
+        return $this->getRandomFortuneByLength($randLength);
+    }
+
+    public function getRandomLongFortune()
+    {
+        $average = $this->getAverageFortuneLength();
+
+        $lengths = array_keys($this->getAllLengths());
+        $lengths = array_filter($lengths, function ($length) use ($average) {
+            if ($average > $length) {
+                return false;
+            }
+            return true;
+        });
+
+        $randLength = array_rand($lengths);
+
+        return $this->getRandomFortuneByLength($randLength);
+    }
+
+    private function getAverageFortuneLength()
+    {
+        $lengths = array_keys($this->getAllLengths());
+
+        $ret = array_sum($lengths) / count($lengths);
+        $ret = (int) round($ret);
+
+        return $ret;
+    }
+
     public function getRandomFortuneByLength($length)
     {
         return $this->getRandomFortuneByKeyValue('length', $length);

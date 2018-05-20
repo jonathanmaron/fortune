@@ -1,27 +1,14 @@
 <?php
 
-namespace Application\Component\Console\Command;
+namespace Application\Component\Console\Command\FortuneCommand;
 
 use Application\Exception\InvalidArgumentException;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\Console\Terminal;
 
 class FortuneCommand extends AbstractCommand
 {
-    private $wordwrap;
-
-    private $length;
-
-    private $author;
-
-    private const TERMINAL_WIDTH    = 80;
-
-    private const WORDWRAP_DISABLED = 0;
-
-    private const WORDWRAP_MIN      = 5;
-
     protected function configure()
     {
         $this->setName('fortune');
@@ -51,6 +38,20 @@ class FortuneCommand extends AbstractCommand
         $default     = '';
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
+
+        $name        = 'short';
+        $shortcut    = null;
+        $mode        = InputOption::VALUE_NONE;
+        $description = 'Short quotations only';
+
+        $this->addOption($name, $shortcut, $mode, $description);
+
+        $name        = 'long';
+        $shortcut    = null;
+        $mode        = InputOption::VALUE_NONE;
+        $description = 'Long quotations only';
+
+        $this->addOption($name, $shortcut, $mode, $description);
 
         return $this;
     }
@@ -119,24 +120,40 @@ class FortuneCommand extends AbstractCommand
 
         $this->setAuthor($author);
 
+        $short = $input->getOption('short');
+        $this->setShort($short);
+
+        $long = $input->getOption('long');
+        $this->setLong($long);
+
         return $this;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         $fortune = $this->getFortune();
+        $short   = $this->getShort();
+        $long    = $this->getLong();
         $length  = $this->getLength();
         $author  = $this->getAuthor();
 
-        if (!empty($length)) {
-            $fortuneArray = $fortune->getRandomFortuneByLength($length);
-        } elseif (!empty($author)) {
-            $fortuneArray = $fortune->getRandomFortuneByAuthor($author);
-        } else {
-            $fortuneArray = $fortune->getRandomFortune();
+        if ($short) {
+            return $this->output($output, $fortune->getRandomShortFortune());
         }
 
-        return $this->output($output, $fortuneArray);
+        if ($long) {
+            return $this->output($output, $fortune->getRandomLongFortune());
+        }
+
+        if ($length > 0) {
+            return $this->output($output, $fortune->getRandomFortuneByLength($length));
+        }
+
+        if (!empty($author)) {
+            return $this->output($output, $fortune->getRandomFortuneByAuthor($author));
+        }
+
+        return $this->output($output, $fortune->getRandomFortune());
     }
 
     private function output(OutputInterface $output, $fortuneArray)
@@ -157,57 +174,6 @@ class FortuneCommand extends AbstractCommand
         ];
 
         $output->writeln($lines);
-
-        return $this;
-    }
-
-    private function getWordwrapDefault()
-    {
-        $terminal = new Terminal();
-
-        $width = $terminal->getWidth();
-
-        if ($width > 0) {
-            $width--;
-        } else {
-            $width = self::TERMINAL_WIDTH;
-        }
-
-        return $width;
-    }
-
-    private function getWordwrap()
-    {
-        return $this->wordwrap;
-    }
-
-    private function setWordwrap($wordwrap)
-    {
-        $this->wordwrap = (int) $wordwrap;
-
-        return $this;
-    }
-
-    private function getLength()
-    {
-        return $this->length;
-    }
-
-    private function setLength($length)
-    {
-        $this->length = (int) $length;
-
-        return $this;
-    }
-
-    private function getAuthor()
-    {
-        return $this->author;
-    }
-
-    private function setAuthor($author)
-    {
-        $this->author = $author;
 
         return $this;
     }

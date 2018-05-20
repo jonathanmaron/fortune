@@ -5,6 +5,14 @@ require __DIR__ . '/../vendor/autoload.php';
 
 use Application\Component\Console\Application;
 
+error_reporting(E_ALL);
+
+set_time_limit(0);
+
+putenv('SHELL_INTERACTIVE=true');
+
+define('APPLICATION_ROOT', realpath(__DIR__ . '/../'));
+
 $application = new Application();
-$application->setDefaultCommand('fortune', true);
+$application->setDefaultCommand('fortune');
 $application->run();
