@@ -74,24 +74,24 @@ abstract class AbstractCommand extends ParentCommand
         return $this;
     }
 
-    public function getShort()
+    protected function getShort()
     {
         return $this->short;
     }
 
-    public function setShort($short)
+    protected function setShort($short)
     {
         $this->short = (bool) $short;
 
         return $this;
     }
 
-    public function getLong()
+    protected function getLong()
     {
         return $this->long;
     }
 
-    public function setLong($long)
+    protected function setLong($long)
     {
         $this->long = (bool) $long;
 
