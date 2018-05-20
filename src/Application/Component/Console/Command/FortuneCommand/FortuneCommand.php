@@ -18,38 +18,36 @@ class FortuneCommand extends AbstractCommand
         $name        = 'wordwrap';
         $shortcut    = 'w';
         $mode        = InputOption::VALUE_REQUIRED;
-        $description = 'Wordwrap at n th character. Disable with 0.';
+        $description = 'Wrap lines at the "w" th character. Default is terminal width. Disable with "0"';
         $default     = $this->getWordwrapDefault();
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
         $name        = 'length';
-        $shortcut    = 'l';
+        $shortcut    = 'i';
         $mode        = InputOption::VALUE_OPTIONAL;
-        $description = 'Length of quotation';
-        $default     = '';
+        $description = 'Show quotations of length "i" only';
 
-        $this->addOption($name, $shortcut, $mode, $description, $default);
+        $this->addOption($name, $shortcut, $mode, $description);
 
         $name        = 'author';
         $shortcut    = 'a';
         $mode        = InputOption::VALUE_OPTIONAL;
-        $description = 'Author of quotation';
-        $default     = '';
+        $description = 'Show quotations from author "author" only';
 
-        $this->addOption($name, $shortcut, $mode, $description, $default);
+        $this->addOption($name, $shortcut, $mode, $description);
 
         $name        = 'short';
-        $shortcut    = null;
+        $shortcut    = 's';
         $mode        = InputOption::VALUE_NONE;
-        $description = 'Short quotations only';
+        $description = 'Show short quotations only';
 
         $this->addOption($name, $shortcut, $mode, $description);
 
         $name        = 'long';
-        $shortcut    = null;
+        $shortcut    = 'l';
         $mode        = InputOption::VALUE_NONE;
-        $description = 'Long quotations only';
+        $description = 'Show long quotations only';
 
         $this->addOption($name, $shortcut, $mode, $description);
 
