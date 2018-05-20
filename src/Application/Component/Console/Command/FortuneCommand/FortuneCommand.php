@@ -55,6 +55,14 @@ class FortuneCommand extends AbstractCommand
 
         $this->addOption($name, $shortcut, $mode, $description);
 
+        $name        = 'wait';
+        $shortcut    = 'p';
+        $mode        = InputOption::VALUE_OPTIONAL;
+        $description = 'Wait for "wait" seconds before before terminating';
+        $default     = '';
+
+        $this->addOption($name, $shortcut, $mode, $description, $default);
+
         return $this;
     }
 
@@ -62,11 +70,13 @@ class FortuneCommand extends AbstractCommand
     {
         $fortune = $this->getFortune();
 
+        // Option: Wordwrap
+
         $wordwrap = (string) $input->getOption('wordwrap');
         $wordwrap = trim($wordwrap);
 
         if (!is_numeric($wordwrap)) {
-            $format  = '--wordwrap must be a digit between %s and %s';
+            $format  = '--wordwrap must be an integer between %s and %s';
             $message = sprintf($format, self::WORDWRAP_MIN, $this->getWordwrapDefault());
             throw new InvalidArgumentException($message);
         }
@@ -96,13 +106,15 @@ class FortuneCommand extends AbstractCommand
 
         $this->setWordwrap($wordwrap);
 
+        // Option: Length
+
         $length = $input->getOption('length');
         $length = trim($length);
 
-        if (!empty($length)) {
+        if (strlen($length) > 0) {
 
             if (!is_numeric($length)) {
-                $message = '--length must be a digit';
+                $message = '--length must be an integer';
                 throw new InvalidArgumentException($message);
             }
 
@@ -116,10 +128,12 @@ class FortuneCommand extends AbstractCommand
 
         $this->setLength($length);
 
+        // Option: Author
+
         $author = $input->getOption('author');
         $author = trim($author);
 
-        if (!empty($author)) {
+        if (strlen($author) > 0) {
             if (!in_array($author, $fortune->getAllAuthors())) {
                 $message = '--author contains an invalid author';
                 throw new InvalidArgumentException($message);
@@ -130,13 +144,39 @@ class FortuneCommand extends AbstractCommand
 
         $this->setAuthor($author);
 
+        // Option: Short
+
         $short = $input->getOption('short');
         settype($short, 'boolean');
         $this->setShort($short);
 
+        // Option: Long
+
         $long = $input->getOption('long');
         settype($long, 'boolean');
         $this->setLong($long);
+
+        // Option: Wait
+
+        $wait = $input->getOption('wait');
+        $wait = trim($wait);
+
+        if (strlen($wait) > 0) {
+            if (!is_numeric($wait)) {
+                $message = '--wait must be an integer';
+                throw new InvalidArgumentException($message);
+            }
+        }
+
+        settype($wait, 'int');
+
+        if ($wait < self::WAIT_MIN || $wait > self::WAIT_MAX) {
+            $format  = '--wait must be in range %d to %d';
+            $message = sprintf($format, self::WAIT_MIN, self::WAIT_MAX);
+            throw new InvalidArgumentException($message);
+        }
+
+        $this->setWait($wait);
 
         return $this;
     }
@@ -171,6 +211,7 @@ class FortuneCommand extends AbstractCommand
     private function output(OutputInterface $output, array $fortuneArray): self
     {
         $wordwrap = $this->getWordwrap();
+        $wait     = $this->getWait();
 
         $quote  = $fortuneArray[0];
         $author = sprintf('    — %s', $fortuneArray[1]);
@@ -186,6 +227,10 @@ class FortuneCommand extends AbstractCommand
         ];
 
         $output->writeln($lines);
+
+        if ($wait > 0) {
+            sleep($this->getWait());
+        }
 
         return $this;
     }

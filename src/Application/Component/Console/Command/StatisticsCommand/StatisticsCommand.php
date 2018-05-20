@@ -36,7 +36,7 @@ class StatisticsCommand extends AbstractCommand
 
         if (strlen($limit) > 0) {
             if (!is_numeric($limit)) {
-                $message = '--limit must be a digit';
+                $message = '--limit must be an integer';
                 throw new InvalidArgumentException($message);
             }
         }

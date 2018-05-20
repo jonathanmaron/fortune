@@ -15,9 +15,15 @@ abstract class AbstractCommand extends ParentCommand
 
     protected const WORDWRAP_MIN      = 5;
 
+    protected const WAIT_MIN          = 0;
+
+    protected const WAIT_MAX          = 60;
+
     protected $wordwrap = 0;
 
     protected $length   = 0;
+
+    protected $wait     = 0;
 
     protected $author   = '';
 
@@ -60,6 +66,18 @@ abstract class AbstractCommand extends ParentCommand
     protected function setLength(int $length): self
     {
         $this->length = $length;
+
+        return $this;
+    }
+
+    protected function getWait(): int
+    {
+        return $this->wait;
+    }
+
+    protected function setWait(int $wait): self
+    {
+        $this->wait = $wait;
 
         return $this;
     }
