@@ -147,7 +147,7 @@ class FortuneCommand extends AbstractCommand
             return $this->output($output, $fortune->getRandomFortuneByLength($length));
         }
 
-        if (!empty($author)) {
+        if (strlen($author) > 0) {
             return $this->output($output, $fortune->getRandomFortuneByAuthor($author));
         }
 
