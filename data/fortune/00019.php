@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'fdce0f21-8f6a-5599-9fe1-50eac073942a' => [
-        'Nature is ever at work building and pulling down, creating and destroying, keeping everything whirling and flowing, allowing no rest but in rhythmical motion, chasing everything in endless song out of one beautiful form into another.',
-        'John Muir',
+    'aac1a53f-d52e-5e32-82fc-c7b50fb67363' => [
+        'We help people to begin truly healthful diets, and it is absolutely wonderful to see, not only their success, but also their delight at their ability to break old habits and feel really healthy for a change.',
+        'Neal Barnard',
     ],
-    'e9ec8600-5445-50ff-8c92-1e953492e7d9' => [
-        'Parisian women have an inner elegance that\'s envied the world over. They are so relaxed about ageing and seem to acquire more charisma and beauty with time. Who wouldn\'t want to be like them? That\'s the trick - to embrace the natural progression of life and to be confident.',
-        'Naomi Watts',
+    'f8ac88cd-92bc-5b6e-934a-3aeda5932df5' => [
+        'Success is about dedication. You may not be where you want to be or do what you want to do when you\'re on the journey. But you\'ve got to be willing to have vision and foresight that leads you to an incredible end.',
+        'Usher',
     ],
-    'f46c0a87-1aa1-5098-a174-cadd040010e9' => [
-        'My attitude is that, if you have nothing to hide, why not show it?',
-        'Bradley Wiggins',
+    '6efddc7b-f10b-500b-b92b-5ce875adc809' => [
+        'Anything is possible if you\'re willing to work for it.',
+        'Rob Dyrdek',
     ],
-    'aecd9b17-7d65-528c-a1c2-30b8a2977de9' => [
-        'Sooner or later, those who win are those who think they can.',
-        'Richard Bach',
+    'c0c23c29-a83d-53d5-9469-3428d75ecb02' => [
+        'Who among us has never looked up into the heavens on a starlit night, lost in wonder at the vastness of space and the beauty of the stars?',
+        'Jeb Bush',
     ],
-    '00e7cdd0-0046-58ce-affc-09c469b2e6cd' => [
-        'When a man becomes a writer, I think he takes on a sacred obligation to produce beauty and enlightenment and comfort at top speed.',
-        'Kurt Vonnegut',
+    '23232c0d-cd27-5e7d-9011-607dc24d3b7d' => [
+        'Beauty is the promise of happiness.',
+        'Edmund Burke',
     ],
-    'eb87bfee-856d-5e02-a409-9304e902a139' => [
-        'What sunshine is to flowers, smiles are to humanity. These are but trifles, to be sure; but scattered along life\'s pathway, the good they do is inconceivable.',
-        'Joseph Addison',
+    'b3e3e48d-d0b7-59ba-a956-c85b4305f87b' => [
+        'What I wish I had, is that I wish I was a little more Greek, in that I wish I could lose my North American driven attitude and that I could be a little bit more poetic and laissez faire.',
+        'Nia Vardalos',
     ],
-    '26c2ba48-85bf-5ceb-86c5-3c5e22d01f25' => [
-        'Let each man exercise the art he knows.',
-        'Aristophanes',
+    '4c099168-0c2a-5a6e-9d23-5264c29d50d8' => [
+        'I\'m an addict, I\'m addicted to success. Thankfully, there\'s no rehab for success.',
+        'Lil Wayne',
     ],
-    '8bda43c7-8e7e-5c40-9b74-c926ad4867ec' => [
-        'If you want to meet a woman, it\'s best just to smile and say hi.',
-        'Karen McDougal',
+    '683e9db8-6bf5-5089-8ae9-36b8719b68d9' => [
+        'I hate to travel with stuff.',
+        'Manolo Blahnik',
     ],
-    '59e3dd53-05af-59ed-89a3-323c2668db78' => [
-        'Each minute is a little thing, and yet, with respect to our personal productivity, to manage the minute is the secret of success.',
-        'Joseph B. Wirthlin',
+    '8d331ac9-203a-5b71-a282-91df006df844' => [
+        'Fragrance takes you on a journey of time. You can walk down the street and pass someone and get taken back 20 years. It\'s very Proustian that way.',
+        'Daphne Guinness',
     ],
-    'aa4bf734-477f-513e-a282-a96176ea3a3d' => [
-        'Every beauty which is seen here by persons of perception resembles more than anything else that celestial source from which we all are come.',
-        'Michelangelo',
+    'e3a4f0d4-b3a6-5c45-ab33-cd3dcb4be463' => [
+        'Obesity puts our children at risk of developing serious diseases - such as Type 2 diabetes, heart disease and depression. It keeps our children from performing their best at school.',
+        'Kirsten Gillibrand',
     ],
-    'cafc05d4-7f60-570d-a879-0628906986f3' => [
-        'To follow, without halt, one aim: that\'s the secret of success.',
-        'Anna Pavlova',
+    'f00cbffe-be44-51c4-89ef-19abb473ce4c' => [
+        'I can accept failure, everyone fails at something. But I can\'t accept not trying.',
+        'Michael Jordan',
     ],
-    'ab138731-1b23-550b-a408-3cf25c3077a4' => [
-        'Everything has positive and negative consequences.',
-        'Farrah Fawcett',
-    ],
-    'aac7c784-8393-591f-a6b9-928f4056653d' => [
-        'Be thankful we\'re not getting all the government we\'re paying for.',
-        'Will Rogers',
-    ],
-    '077f6d8c-3541-56ff-93a8-4d66b4906110' => [
-        'People, unprotected by their roles, become isolated in beauty and intellect and illness and confusion.',
-        'Richard Avedon',
-    ],
-    'def8c1a0-9299-52ff-8702-f38b9fe47763' => [
-        'I learned a long time ago that reality was much weirder than anyone\'s imagination.',
-        'Hunter S. Thompson',
-    ],
-    '270fd8cc-46f4-5658-a226-cc4a3126a8e5' => [
-        'At the end of the day, both men and women who become CEOs have showed tenacity and hard work to succeed in their careers. It takes not just skills but also extreme dedication and commitment. And regardless of gender, CEOs are measured by the same criteria - the growth and success of the business.',
-        'Susan Wojcicki',
-    ],
-    'd439ffc4-b2b2-5e37-ab9a-7fcd56d9c0a9' => [
-        'I am inherently a little brother - that\'s just my nature. It has to do with my sister being very strong and wanting to protect me. It\'s the natural order of things.',
-        'Jake Gyllenhaal',
-    ],
-    '957faa10-7e18-5560-868c-82a92ea055c9' => [
-        'Family life is the backbone of mankind, and that life is dependent upon mutual giving, sharing, and receiving from each other. It entails the proper use of each other\'s successes and failures for mutual up-building.',
-        'Mother Angelica',
-    ],
-    'c6f4f6cc-bf93-52ad-b6f8-c94663a2d004' => [
-        'I have a positive mental attitude, and I think I\'m divine, but I also think it takes a heck of a lot of blood, sweat and tears.',
-        'Steve Prefontaine',
-    ],
-    '8bf13648-31b0-58b2-8091-808ee598f3dd' => [
-        'Even if it turns out that time travel is impossible, it is important that we understand why it is impossible.',
-        'Stephen Hawking',
-    ],
-    '4a1b62b7-1503-58b2-941d-33dc965054c1' => [
-        'Really in technology, it\'s about the people, getting the best people, retaining them, nurturing a creative environment and helping to find a way to innovate.',
-        'Marissa Mayer',
-    ],
-    'f2bd8300-bf4c-5c61-bc7b-5639c76f1d73' => [
-        '\'UFO\'s\' attitude toward the subject is very similar to mine. It\'s not an advocacy; its philosophy is more \'I want to believe this, but I want it proved.\'',
-        'Dwight Schultz',
-    ],
-    'd42c0395-b54e-5a86-814a-c5b3dccaa564' => [
-        'Doubt kills more dreams than failure ever will.',
-        'Karim Seddiki',
-    ],
-    '9737b112-f052-5419-a4de-989de1bfa1a3' => [
-        'Today\'s students can put dope in their veins or hope in their brains. If they can conceive it and believe it, they can achieve it. They must know it is not their aptitude but their attitude that will determine their altitude.',
-        'Jesse Jackson',
-    ],
-    '27a04032-5e45-5b9e-bdb3-df49d2d9111a' => [
-        'My family background is Mexican, and I was born in Chicago. It\'s pretty much family tradition every time we get together for Christmas and major holidays to sing. Our family time is centered around the food and a little bit of performing for one another.',
-        'Ailyn Perez',
-    ],
-    'df88e4ce-358f-5481-9bc4-da82ce086519' => [
-        'Life was a funny thing that happened to me on the way to the grave.',
-        'Quentin Crisp',
-    ],
-    'a3ab3398-a7e9-5e3e-a99a-ac5a08bb81ed' => [
-        'There is no question that global warming will have a significant impact on already existing problems such as malaria, malnutrition, and water shortages. But this doesn\'t mean the best way to solve them is to cut carbon emissions.',
-        'Bjorn Lomborg',
-    ],
-    '2794fe83-e641-5a61-91d3-bb11f995aee6' => [
-        'The ever quickening advances of science made possible by the success of the Human Genome Project will also soon let us see the essences of mental disease. Only after we understand them at the genetic level can we rationally seek out appropriate therapies for such illnesses as schizophrenia and bipolar disease.',
-        'James D. Watson',
-    ],
-    'b71c33c3-fe55-527f-8951-811724b9518e' => [
-        'When you take a flower in your hand and really look at it, it\'s your world for the moment. I want to give that world to someone else. Most people in the city rush around so, they have no time to look at a flower. I want them to see it whether they want to or not.',
-        'Georgia O\'Keeffe',
-    ],
-    'e53195d7-b987-5ff2-b41a-17e925ada921' => [
-        'Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance.',
-        'Benny Cassette',
-    ],
-    '04b9f40a-7ea9-5822-9c9c-57fdf874fcdd' => [
-        'Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?',
-        'William C. Bryant',
-    ],
-    '86b1516e-0e64-53c3-ae3a-bea1f904cdba' => [
-        'The only person who never makes mistakes is the person who never does anything.',
-        'Denis Waitley',
-    ],
-    '7727d461-d3ac-5d6f-87eb-2b29990d9c3f' => [
-        'To me, the Seventies were very inspirational and very influential... With my whole persona as Snoop Dogg, as a person, as a rapper. I just love the Seventies style, the way all the players dressed nice, you know, kept their hair looking good, drove sharp cars and they talked real slick.',
-        'Snoop Dogg',
-    ],
-    'ee5052dd-add5-5865-9e9b-87f9a132750e' => [
-        'The truth which has made us free will in the end make us glad also.',
-        'Felix Adler',
-    ],
-    '6365d5aa-5f56-564f-a0cb-34c88f213dc1' => [
-        'I am very close to my family. I have learned a lot from my father. He used to tell me to be honest with yourself and not to argue with your seniors. You don\'t need to be involved in any quarrel, as sometimes you need to remain silent intelligently.',
-        'Suresh Raina',
-    ],
-    '4f441bbc-172a-5b2e-afeb-d40b6f7e0d61' => [
-        'Shortly thereafter, some friends encouraged me to try out for the Miss South Carolina World beauty pageant. To my surprise, I won - and was sent to New York City to compete nationally.',
-        'Donna Rice',
-    ],
-    'a2fb9d9b-7373-5c64-8538-10880fae4fa1' => [
-        'All wealth is the product of labor.',
-        'John Locke',
-    ],
-    'bc22d91c-29c3-5b7e-b1af-2a36d33af1b3' => [
-        'We live in a world of constant juxtaposition between joy that\'s possible and pain that\'s all too common. We hope for love and success and abundance, but we never quite forget that there is always lurking the possibility of disaster.',
-        'Marianne Williamson',
-    ],
-    'b5139c43-90c1-5026-8e43-8540f7ebe1a1' => [
-        'We do what we do because we believe.',
-        'Unknown',
-    ],
-    'e02fbca4-80fe-544b-b6df-795f8afffa3a' => [
-        'Most people think of success and failure as opposites, but they both are products of the same process.',
-        'Roger von Oech',
-    ],
-    '9cd7b2d7-f060-52e4-ab3b-dfb10bab3421' => [
-        'You can\'t start a movie by having the attitude that the script is finished, because if you think the script is finished, your movie is finished before the first day of shooting.',
-        'Steven Spielberg',
-    ],
-    '0505e25d-3d44-5c4b-94c9-c11318357ddd' => [
-        'Anyone who wants to sell you overnight success or wealth is not interested in your success; they are interested in your money.',
-        'Bo Bennett',
-    ],
-    '806af0e3-a214-5ef6-b277-e7d9631b584c' => [
-        'I want to apologize to all of the people I have let down because of my behavior which has reflected badly on my family, friends, co-workers, business associates and others.',
-        'Kate Moss',
-    ],
-    '57931d00-6cb0-5063-8048-43fba79d3391' => [
-        'Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.',
-        'Colin Powell',
-    ],
-    '20eaee42-d384-5555-a2b9-9e428a23e7e2' => [
-        'Now the point of comedy is not just looking funny, it\'s use of language. We have at our disposal a great language... and the imaginative, creative use of that language can be at the service of humour.',
-        'Barry Humphries',
-    ],
-    '88f7493a-8819-5116-a776-e09a0a4b2357' => [
-        'A hero is no braver than an ordinary man, but he is brave five minutes longer.',
+    'c0314820-d675-501e-840a-5bb1efd62a5a' => [
+        'Happiness is a perfume you cannot pour on others without getting a few drops on yourself.',
         'Ralph Waldo Emerson',
     ],
-    'c039f062-8f7d-5fc1-9cf4-a1f35d2e8a7b' => [
-        'The bottom line is that time travel is allowed by the laws of physics.',
-        'Brian Greene',
+    '4f5840e2-42d5-55ed-a28d-da787ec1b734' => [
+        'I like people that enjoy life, \'cause I do the same.',
+        'Charles R. Swindoll',
     ],
-    '255b97ba-044d-56ad-b7ce-1b40ae7c619c' => [
-        'Imagine having all of your freedoms taken away, being forced to work against your will, and constantly living under the threat of violence - in short, being forced to live as a slave. Sadly, this situation is a reality for millions of children, women, and men each year as part of the global human trafficking industry.',
-        'Bill Flores',
+    'b680149d-a81b-5d8f-86db-d024f120999a' => [
+        'I have had all of the disadvantages required for success.',
+        'Larry Ellison',
     ],
-    'f7200200-b322-5167-beae-366c403228e8' => [
-        'Success without honor is an unseasoned dish; it will satisfy your hunger, but it won\'t taste good.',
-        'Joe Paterno',
+    '058a0a2a-65b6-5d29-8ba7-bcb3ef14c37a' => [
+        'Science is a perception of the world around us. Science is a place where what you find in nature pleases you.',
+        'Subrahmanyan Chandrasekhar',
     ],
-    'e850911c-fd48-587e-98e7-94cee9c0691c' => [
-        '\'What comes next?\' is the constant question I\'m asked by outsiders eager to travel to the island. During the eleven years I traveled to Havana, very few Cubans I met on the island ever bothered to verbalize this question.',
-        'Brin-Jonathan Butler',
+    'b8230c35-0c1b-5715-8683-7af6357a2cce' => [
+        'Every single job is a challenge. You are walking into a new set, a new character, creating a world and trying to get comfortable to do your best work.',
+        'Felicia Day',
+    ],
+    'f3bde814-a25c-572c-b7f4-de1075c55896' => [
+        'I want to be a young dad. By 25 or 26 I want to see myself, like, married or start looking for a family.',
+        'Justin Bieber',
+    ],
+    '4dc0eba2-ddc7-5a38-adbc-235ec8933dde' => [
+        'Be yourself. Follow your instincts. Success depends, at least in part, on the ability to \'carry it off.\'',
+        'Donald Rumsfeld',
+    ],
+    '3ae2d8e8-b8bf-5fc4-ad95-8497e78f2fbc' => [
+        'How many cares one loses when one decides not to be something but to be someone.',
+        'Coco Chanel',
+    ],
+    'dffbf202-63e2-5e63-9512-c3af7f257d89' => [
+        'Don\'t spend time beating on a wall, hoping to transform it into a door.',
+        'Coco Chanel',
+    ],
+    '16fa611f-d1d7-560e-87cd-3233162b6ecb' => [
+        'It\'s wonderful to travel with somebody that you love and we never travel anywhere without one another.',
+        'Roger Moore',
+    ],
+    '9a5a0a0f-3cdc-58be-a47a-c3d707c1cf92' => [
+        'Mom spent the time that she was supposed to be a kid actully raising children, her younger brother and younger sister. She was tough as nails and did not suffer fools at all. And the truth was she could not afford to. She spoke the truth, bluntly, directly, and without much varnish. I am her son.',
+        'Chris Christie',
+    ],
+    '3bd2502d-6b33-5e11-b57f-26a6b9a4b61d' => [
+        'If the doors of perception were cleansed everything would appear to man as it is, infinite.',
+        'William Blake',
+    ],
+    'fc900a7c-2f84-50ad-91b2-31550a407abb' => [
+        'I get invited to many more literary festivals than I used to because I\'m associated with \'Slumdog Millionaire,\' the brand. Many more doors have opened up for me as a result of the global success of the film, although I believe that I\'m the same person that existed before it.',
+        'Vikas Swarup',
+    ],
+    'e5e01cbf-ec29-549d-81b9-6998e9431fea' => [
+        'I\'ve never been to a dinner party where everyone at the dinner table didn\'t say something funny.',
+        'Lorrie Moore',
+    ],
+    '3acfcbce-f620-5f39-b213-ef720eb88252' => [
+        'Natural beauty takes at least two hours in front of a mirror.',
+        'Pamela Anderson',
+    ],
+    'd9a19a9a-9918-51a7-b51b-df16205b55e9' => [
+        'The black market was a way of getting around government controls. It was a way of enabling the free market to work. It was a way of opening up, enabling people.',
+        'Milton Friedman',
+    ],
+    'bba18485-f66f-5171-b18e-ce7f480ef67d' => [
+        'It was Chicago with its World\'s Fair which vivified the national desire for civic beauty.',
+        'Daniel Burnham',
+    ],
+    '39aada81-6d1d-54ec-a7e9-2c41220e6551' => [
+        'The way is not in the sky. The way is in the heart.',
+        'Buddha',
+    ],
+    '92ea7e78-e6ea-5951-8674-73434e258f74' => [
+        'You become a better writer by writing. You become a better travel writer by writing about travel.',
+        'Tim Cahill',
+    ],
+    '299b56dc-3541-59f1-808f-a0ebfc65ed8f' => [
+        'It may sound funny, but I love the South. I don\'t choose to live anywhere else. There\'s land here, where a man can raise cattle, and I\'m going to do it some day.',
+        'Medgar Evers',
+    ],
+    '48b38725-d357-5c79-a6d7-553dbcbec473' => [
+        'I guess, growing up at Australia Zoo and getting to travel all over the world, I have this great outlook on life, and that\'s what I hope I inspire other kids to have.',
+        'Bindi Irwin',
+    ],
+    '823403db-4272-59bb-aa46-5cf03314208d' => [
+        'The strongest people aren\'t always the people who win, but the people who don\'t give up when they lose.',
+        'Ashley Hodgeson',
+    ],
+    '93d7488b-7255-510d-9eda-c7887f807485' => [
+        'In order to succeed, your desire for success should be greater than your fear of failure.',
+        'Bill Cosby',
+    ],
+    'c061fa81-2114-56ba-8931-5219d0751556' => [
+        'Work is a prayer. And I start off every morning dedicating it to our Creator.',
+        'Joseph Murray',
+    ],
+    'df9f76ae-dbac-5111-b076-7846d37dc968' => [
+        'I didn\'t plan on being a single mom, but you have to deal with the cards you are dealt the best way you can.',
+        'Tichina Arnold',
+    ],
+    'afe514db-0720-5f4c-aaa9-61cbfed523dd' => [
+        'The three great elemental sounds in nature are the sound of rain, the sound of wind in a primeval wood, and the sound of outer ocean on a beach.',
+        'Henry Beston',
+    ],
+    '0ea1f3e1-026c-5192-9052-45fb2d7cc687' => [
+        'Dost thou love life? Then do not squander time, for that is the stuff life is made of.',
+        'Benjamin Franklin',
+    ],
+    'de54f97c-fba2-5736-8e48-cc4bb8146b2a' => [
+        'I do not know which to prefer, The beauty of inflections, Or the beauty of innuendoes, The blackbird whistling, Or just after.',
+        'Wallace Stevens',
+    ],
+    'c81043ed-955b-5fa9-b0db-1a2bb66f0828' => [
+        'All cities are mad: but the madness is gallant. All cities are beautiful: but the beauty is grim.',
+        'Christopher Morley',
+    ],
+    '7a7424c4-3661-5dc4-8553-74b477993ad1' => [
+        'For me, every day is a new thing. I approach each project with a new insecurity, almost like the first project I ever did. And I get the sweats. I go in and start working, I\'m not sure where I\'m going. If I knew where I was going I wouldn\'t do it.',
+        'Frank Gehry',
+    ],
+    '85b76125-2bb6-5a51-86ed-95b3515d4899' => [
+        'You know, who cares about seeing the girls when everybody wants to see the band. That\'s what\'s important, KISS is important. I think we look great, and the attitude is there, and I\'m real happy with it.',
+        'Eric Carr',
+    ],
+    '3ce8d37a-275f-552e-b9dd-77e9a58e3213' => [
+        'I own and operate a ferocious ego.',
+        'Bill Moyers',
+    ],
+    '1202ed99-a89b-5e81-b7fc-3f4d1376ef05' => [
+        'In the investigation of a neurotic style of life, we must always suspect an opponent, and note who suffers most because of the patient\'s condition. Usually this is a member of the family.',
+        'Alfred Adler',
+    ],
+    '1cc545e4-3653-598b-ad95-7074b4025796' => [
+        'You must expect great things of yourself before you can do them.',
+        'Michael Jordan',
+    ],
+    '6cb3e063-4b12-5083-92aa-a298f516bc10' => [
+        'I don\'t want to walk in the middle. I want people to read what I write and feel strongly about it. If, at some point, whatever I am doing is failing to elicit a response, whether it\'s very positive or very negative, then I am going to stop doing it.',
+        'James Frey',
+    ],
+    '6dfaf649-2e02-5407-994e-33f79e4e8b0f' => [
+        'Liberalism is a really old British tradition and it has a completely different attitude towards the individual and the relationship between the individual and the state than the collectivist response of Labour, and particularly Old Labour, does.',
+        'Nick Clegg',
+    ],
+    'a9925656-9a48-5be3-9c8f-c0880be04662' => [
+        'If you embrace \'positive thinking,\' you are - by definition - spurning \'negative thinking.\' So it\'s as if you were on a teeter-totter and are trying desperately to put all your weight on one side - the \'positive thinking\' side.',
+        'Srikumar Rao',
+    ],
+    'eeb938d8-2647-5791-b12d-dfc39ae09db1' => [
+        'Be not entangled in this world of days and nights; Thou hast another time and space as well.',
+        'Muhammad Iqbal',
+    ],
+    '8ccc6d42-a625-5757-a966-741b56d64552' => [
+        'Greed is a basic part of animal nature. Being against it is like being against breathing or eating. It means nothing.',
+        'Ben Stein',
     ],
 ];

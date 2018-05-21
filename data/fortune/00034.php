@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'ff48aa83-f824-574f-9774-03c90fcff466' => [
-        'One of my favorite luxuries in life is travel. Jet lag and lost baggage aside, it\'s an incredible way to learn about other cultures, meet new people, broaden your horizons... and do some amazing shopping!',
-        'Amanda Hearst',
+    '07f5c26d-dc0a-5fc4-8e52-70031740ef3b' => [
+        'I wanted to travel from the beginning. As a kid, I used to dream about airplanes, before I ever flew in one.',
+        'Mary Ellen Mark',
     ],
-    'e5a16205-201e-5e24-a0bb-72256fc25668' => [
-        'My husband and I always have fun together in everything we do. Some people call me crazy, but the reality is that I enjoy spending each second with him. He is not just my husband - he is my rock and my very best friend!',
-        'Joyce Giraud',
+    '4070708a-65a7-5537-b243-4ebc4ab81869' => [
+        'When you have a great and difficult task, something perhaps almost impossible, if you only work a little at a time, every day a little, suddenly the work will finish itself.',
+        'Isak Dinesen',
     ],
-    '5a990192-12e4-5b33-b21b-a354beb81824' => [
-        'By their very nature, heuristic shortcuts will produce biases, and that is true for both humans and artificial intelligence, but the heuristics of AI are not necessarily the human ones.',
-        'Daniel Kahneman',
+    '9c1fdd12-efe1-5641-95db-2242db862d95' => [
+        'If I had no family, my wife and I would lead a much more romantic and nomadic existence.',
+        'David McCallum',
     ],
-    '8fd0067a-bb4c-5f0c-8f6d-a2288974e67f' => [
-        'We live in a culture that\'s been hijacked by the management consultant ethos. We want everything boiled down to a Power Point slide. We want metrics and \'show me the numbers.\' That runs counter to the immensely complex nature of so many social, economic and political problems. You cannot devise an algorithm to fix them.',
-        'Carl Honore',
+    '0ef0c37b-5ce1-58a4-8247-84a94ae29410' => [
+        'Nothing can resist the person who smiles at life - I don\'t mean the ironic and disillusioned smile of my grandfather, but the triumphant smile of the person who knows that he will survive, or that at least he will be saved by what seems to be destroying him.',
+        'Pierre Teilhard de Chardin',
     ],
-    '543e02d1-f453-52b6-a8a8-07cff08a6b2a' => [
-        'When everything is lonely I can be my best friend.',
-        'Conor Oberst',
+    '40bef118-fb0a-5784-828f-8da405c56318' => [
+        'Sunset is still my favorite color, and rainbow is second.',
+        'Mattie Stepanek',
     ],
-    '1f2980e6-92df-5840-881e-9c7b22f5d766' => [
-        'Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.',
-        'Corazon Aquino',
+    'd3454757-935a-53f0-8bd2-8cb4f1b404b2' => [
+        'Whatever you may look like, marry a man your own age - as your beauty fades, so will his eyesight.',
+        'Phyllis Diller',
     ],
-    'c886c47c-cf88-5fe2-84a2-0fd9eb874090' => [
-        'After two weeks of working on a project, you know whether it will work or not.',
-        'Bill Budge',
+    '6328d2d9-8e00-5dde-b98a-946c08e94285' => [
+        'The negative is just as important as the positive.',
+        'Ellsworth Kelly',
     ],
-    '1c81a006-0cc9-5b3c-ac85-fb98e4f076aa' => [
-        'Even if you fall on your face you\'re still moving forward.',
-        'Victor Kiam',
+    '252814b2-0d87-59c8-9083-587685ebfaac' => [
+        'During the Great Depression, when people laughed their worries disappeared. Audiences loved these funny men. I decided to become one.',
+        'Jerry Stiller',
     ],
-    '554ad073-7ada-5523-911d-50d9c0cc8dc8' => [
-        'With my father and sister being very depressed for most of their lives, it was incumbent on me to try to make them laugh, in this ridiculous way. They were the wittiest people I knew, but to get a smile from them was like winning the lottery.',
-        'Miriam Toews',
+    '14b95bae-3a88-512f-a0cc-7410b00e145f' => [
+        'Everything that irritates us about others can lead us to a better understanding of ourselves.',
+        'Carl Jung',
     ],
-    '4a84aeee-7849-5582-8b65-031c09f4676d' => [
-        'Design is about point of view, and there should be some sort of woman or lifestyle or attitude in one\'s head as a designer.',
-        'Vera Wang',
+    '9a4480c9-da6f-5d64-990b-2dfd09c18e69' => [
+        'Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.',
+        'Johann Wolfgang Von Goethe',
     ],
-    'd63ea194-3d88-5c31-93b3-07d53afe2513' => [
-        'Never mistake activity for achievement.',
-        'John Wooden',
+    '251b7bf8-1e15-5093-a842-8d2fa02a6ae5' => [
+        'It\'s sort of a mental attitude about critical thinking and curiosity. It\'s about mindset of looking at the world in a playful and curious and creative way.',
+        'Adam Savage',
     ],
-    '6eedd740-0a98-544b-b77e-4f01e6b009a7' => [
-        'More than half of people who leave their jobs do so because of their relationship with their boss. Smart companies make certain their managers know how to balance being professional with being human. These are the bosses who celebrate an employee\'s success, empathize with those going through hard times, and challenge people, even when it hurts.',
-        'Travis Bradberry',
+    '984b515a-b408-5f44-bf19-fe634574f56c' => [
+        'There are two ways to worry words. One is hoping for the greatest possible beauty in what is created. The other is to tell the truth.',
+        'June Jordan',
     ],
-    '55b9a559-2fb2-5888-8b6b-c7d4674ffe19' => [
-        'Be the change that you want to see in the world.',
+    '0b465184-ae29-5eae-900e-622bd353e178' => [
+        'I always challenge myself. I get out in deep water and I always try to get back. But I get hung up. The audience never knows, but that\'s when I smile the most, when I show the most ivory.',
+        'Earl Hines',
+    ],
+    'f7cd0841-b1bb-5c5c-ad10-dba3cea62496' => [
+        'I take work very seriously and telling the truth in my job and professionalism.',
+        'Brittany Murphy',
+    ],
+    '2ad93d2a-17bf-597b-a76b-de55c4926092' => [
+        'Do the right thing. It will gratify some people and astonish the rest',
+        'Mark Twain',
+    ],
+    'af568417-6208-5df4-9851-507b3210aa62' => [
+        'The left dismisses talk about the collapse of family life and talks instead about the emergence of the growing new diversity of family types.',
+        'Christopher Lasch',
+    ],
+    'ec670458-0bb4-5412-b0eb-6cb06cd52f65' => [
+        'Life gives you plenty of time to do whatever you want to do if you stay in the present moment.',
+        'Deepak Chopra',
+    ],
+    '293f50fd-79fd-5493-8897-f1db490d3aaf' => [
+        'The weak can never forgive. Forgiveness is the attribute of the strong.',
         'Mohandas Gandhi',
     ],
-    'e8c5b151-4bd5-5d96-a20a-86c211ddab0d' => [
-        'A ship in port is safe, but that\'s not what ships are built for.',
+    '6e8db6ee-6c5c-5a2b-aca8-2ba666ce62af' => [
+        'One can not be an American by going about saying that one is an American. It is necessary to feel America, like America, love America and then work.',
+        'Georgia O\'Keeffe',
+    ],
+    '5abc31a9-cb37-5d3c-9a8e-48acc4fa6b3f' => [
+        'I grew up as a very sarcastic person. I was always the class clown, and to date girls, I had to be really funny. I was really skinny growing up. I was so thin, I had to run around in the shower to get wet. That kind of thin. So I always had to rely on humor and sarcasm.',
+        'Kurt Fuller',
+    ],
+    'a06e7566-8dec-5d0c-8226-f3e8dc8aeb92' => [
+        'A positive attitude is not going to save you. What it\'s going to do is, everyday, between now and the day you die, whether that\'s a short time from now or a long time from now, that every day, you\'re going to actually live.',
+        'Elizabeth Edwards',
+    ],
+    '510c5bc3-6292-5923-9f08-c080bf43f97a' => [
+        'France has been very good for me. It has given me a very worldly-cool attitude.',
+        'Marianne Faithfull',
+    ],
+    '3b04875e-f799-567e-9251-1d8354992897' => [
+        'The best way to inspire people to superior performance is to convince them by everything you do and by your everyday attitude that you are wholeheartedly supporting them.',
+        'Harold S. Geneen',
+    ],
+    '8374ea61-4292-5852-8661-b69415a43395' => [
+        'But the funny thing is, I broke my finger not on set doing kung fu. I broke my finger when I fell down the stairs prior to going on set.',
+        'Jaime King',
+    ],
+    '78208f6d-c012-58f5-a44e-ecd072866a46' => [
+        'None of us can claim to be fair and square in love - and I\'m definitely not a hypocrite! Humans are built to evolve with time. It depends on the nature of the relationship you share with a person. It is there today, tomorrow it may be gone; c\'est la vie.',
+        'Randeep Hooda',
+    ],
+    'fcbb5d18-8d1e-51eb-9170-367926b8a121' => [
+        'It is spectacular. From about five minutes in, when we knew for sure that we were going to have the weather to go, the smile on my face just got bigger and bigger, and I was just beaming through the whole launch. I mean, it is just an amazing ride.',
+        'Chris Hadfield',
+    ],
+    '7aadd7ec-5d43-5f5b-a49f-2992b95997ff' => [
+        'You don\'t manage people; you manage things. You lead people.',
         'Grace Hopper',
     ],
-    'ac1438de-1375-5d12-bb2f-aaf90f3c2120' => [
-        'The greatest test of courage on earth is to bear defeat without losing heart.',
-        'Robert Green Ingersoll',
+    'c5bed387-1620-5280-a715-839cec23f256' => [
+        'We have a president who stole the presidency through family ties, arrogance and intimidation, employing Republican operatives to exercise the tactics of voter fraud by disenfranchising thousands of blacks, elderly Jews and other minorities.',
+        'Barbra Streisand',
     ],
-    '7bf101a4-6579-5f82-8502-58f0f4f518b2' => [
-        'I consider nature a vast chemical laboratory in which all kinds of composition and decompositions are formed.',
-        'Antoine Lavoisier',
+    '1ee0372b-d7d0-5d27-9d1b-c13582e7270d' => [
+        'Solitary trees, if they grow at all, grow strong.',
+        'Winston Churchill',
     ],
-    '945dc18d-77e6-5d22-98b1-6c33bb21c7c0' => [
-        'If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.',
-        'Ben Shapiro',
+    'f18da2ba-533f-5af8-9aa4-4cbda6b6796b' => [
+        'The best books... are those that tell you what you know already.',
+        'George Orwell',
     ],
-    '288b900d-832a-5126-b906-ac0f5beeab2a' => [
-        'In presence of Nature\'s grand convulsions, man is powerless.',
-        'Jules Verne',
+    '7ca09ae1-17ea-589c-8e39-4de47ca4cf3b' => [
+        'My grandma did opera singing for the better part of her life; she used to sing all over the place. My grandpa was a sax player, and he used to travel all over the place, too.',
+        'Mac DeMarco',
     ],
-    '98b4d00f-4a91-53ff-a88d-e2d45051439f' => [
-        'Live life to the fullest, and focus on the positive.',
-        'George S. Patton',
+    'fb6f617f-a58f-5056-8cdc-1b502957597b' => [
+        'It\'s funny - I read that women look to chiseled-faced guys for one-night stands, and to round-faced guys for marriage. When I\'m rounder in the face, I like to say, \'This is my long-term look.\' Or \'This is my wife-and-kids look right here.\'',
+        'Garrett Hedlund',
     ],
-    'ad1a2625-86f2-577a-a1a9-aae761da322b' => [
-        'Work is accomplished by those employees who have not yet reached their level of incompetence.',
-        'Laurence J. Peter',
+    '34d70279-c061-59c5-a88b-40cae0fd28cf' => [
+        'The embarrassment of a situation can, once you are over it, be the funniest time in your life. And I suppose a lot of my comedy comes from painful moments or experiences in life, and you just flip them on their head.',
+        'Miranda Hart',
     ],
-    '645afb40-562e-5d67-bfa1-3ec8af15db04' => [
-        'New Year\'s Day. A fresh start. A new chapter in life waiting to be written. New questions to be asked, embraced, and loved. Answers to be discovered and then lived in this transformative year of delight and self-discovery. Today carve out a quiet interlude for yourself in which to dream, pen in hand. Only dreams give birth to change.',
-        'Rabindranath Tagore',
+    '1394bb8a-e0e3-57fe-a8f2-2574dce0f706' => [
+        'Water is life, and clean water means health.',
+        'Lawrence Welk',
     ],
-    'e6fab423-660a-5862-ad53-2990fb5a6775' => [
-        'Loneliness is such an omnipotent and painful threat to many persons that they have little conception of the positive values of solitude and even, at times, are frightened at the prospect of being alone.',
-        'Rollo May',
+    '7bc0005a-6108-5448-9e5c-bb5bd108cc9f' => [
+        'If I had permitted my failures, or what seemed to me at the time a lack of success, to discourage me I cannot see any way in which I would ever have made progress.',
+        'Calvin Coolidge',
     ],
-    '1bf104a4-9a43-5500-9ca3-bb5936d2428d' => [
-        'It\'s not who you are that holds you back, it\'s who you think you\'re not.',
-        'Unknown',
+    'dcb2f02c-f836-5b53-9ab8-d7888cdc8dbf' => [
+        'The Antichrist will be the infernal prince again for the third and last time... so many evils shall be committed by the means of Satan, the infernal Prince, that almost the entire world shall be found undone and desolate. Before these events happen, many rare birds will cry in the air, \'Now! Now!\' and sometime later will vanish.',
+        'Nostradamus',
     ],
-    '4e565962-323b-59a9-8ee8-a0d59d746ac5' => [
-        'Currently, only 70 percent of our high school students earn diplomas with their peers, and less than one-third of our high school students graduate prepared for success in a four-year college.',
-        'Ruben Hinojosa',
+    '6f225176-b63d-58a7-ba60-dccf193af9f8' => [
+        'The physical ego serves as its own worst enemy when, by delusive material behavior, it eclipses its true nature as the ever blessed soul.',
+        'Paramahansa Yogananda',
     ],
-    'c4c859b9-2acf-5bef-a682-9e6c37c1333c' => [
-        'Strong beliefs win strong men, and then make them stronger.',
-        'Richard Bach',
+    '09d4230a-bccb-578f-a467-2f1236764aa8' => [
+        'Best of all is it to preserve everything in a pure, still heart, and let there be for every pulse a thanksgiving, and for every breath a song.',
+        'Konrad von Gesner',
     ],
-    '7c930861-a042-5b68-82d7-3507da5d549d' => [
-        'If you want to make peace with your enemy, you have to work with your enemy. Then he becomes your partner.',
-        'Nelson Mandela',
+    '6ee35112-387d-5451-95ab-ce687d276b86' => [
+        'I\'m attracted to women who are smart and funny and ambitious and have lives of their own and great families. Isn\'t that what attracts anyone?',
+        'Tom Brady',
     ],
-    'a164a38e-2e08-5500-9c14-180b5ef3cdfa' => [
-        'The productivity of work is not the responsibility of the worker but of the manager.',
-        'Peter Drucker',
+    '5d596137-7500-55d9-86ff-beadb6d17e61' => [
+        'A few of the sublimest geniuses of Rome and Athens had some faint discoveries of the spiritual nature of the human soul, and formed some probable conjectures, that man was designed for a future state of existence.',
+        'David Brainerd',
     ],
-    '0528046f-ce9c-5616-9f71-713d251e18df' => [
-        'I like to think that as I get older I\'m getting better at spending time with people who have qualities that make them worth spending time with.',
-        'Samantha Power',
+    '01cb75ec-5d72-55cd-89fe-40cef6611d27' => [
+        'In a great many stories that deal with time travel, there\'s usually somebody who knows how time travel works. They lay out the rules.',
+        'Diana Galbadon',
     ],
-    '7c5128e7-ccf7-5c1f-8c6d-a2375de54573' => [
-        'Everything has been figured out, except how to live.',
-        'Caitlyn Jenner',
+    '247edb38-1ec0-5d67-824c-b6a4720d4eba' => [
+        'The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.',
+        'Dalai Lama',
     ],
-    '473c671f-0f17-510d-9236-be2003f9e41d' => [
-        'A \'naughty pickle\' is how I\'d best describe myself. I think fun and laughter is the whole point of life.',
-        'Celia Imrie',
+    'efb2d302-4086-537d-b983-91276a72bca2' => [
+        'When you realize who the good people are in your life, you\'re so lucky.',
+        'Brian Baumgartner',
     ],
-    '2419234c-31d5-5679-b4d3-60fe8f31c7c0' => [
-        'I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
-        'Robert Louis Stevenson',
+    '811631a4-b55a-5558-b267-7cf1698c796b' => [
+        'I love life because what more is there?',
+        'Albert Einstein',
     ],
-    '85c757c9-e940-5bff-b136-e61b93a6a93c' => [
-        'Loving a child doesn\'t mean giving in to all his whims; to love him is to bring out the best in him, to teach him to love what is difficult.',
-        'Nadia Boulanger',
+    '8b625ff1-fe49-523a-8374-7d89e4d25f8f' => [
+        'You get the best out of others when you get the best out of yourself.',
+        'Harvey S. Firestone',
     ],
-    '30eb01dc-fbdb-5252-bc36-6d331df035a3' => [
-        'In America there are two classes of travel - first class, and with children.',
-        'Robert Benchley',
+    '1b2b3a0d-6d98-5327-b8e0-c00b0f6e200e' => [
+        'Funny is funny. I dare anyone to look at Tim Conway and Harvey Korman doing the dentist sketch, which is more than 40 years old, and not scream with laughter.',
+        'Carol Burnett',
     ],
-    '092e5d86-1ad7-5fea-a574-6ab295045bfc' => [
-        'Work is about more than making a living, as vital as that is. It\'s fundamental to human dignity, to our sense of self-worth as useful, independent, free people.',
-        'William J. Clinton',
+    'a69a40e5-33f1-5933-a34f-37338071b7ea' => [
+        'Don\'t go through life, grow through life.',
+        'Tim Gunn',
     ],
-    '54a53808-44ab-5da6-9784-47cb3c2ef74c' => [
-        'Winners have simply formed the habit of doing things losers don\'t like to do.',
-        'Albert Gray',
+    'd29def56-1069-5a30-9d88-0b2df4875223' => [
+        'Weddings seem to be magnets for mishap and for whatever craziness lurks in family closets. In more ways than one, weddings bring out the ding-dong in everybody involved.',
+        'Robert Fulghum',
     ],
-    '958c075a-9559-58f4-bd52-233591f26663' => [
-        'When many work together for a goal, Great things may be accomplished. It is said a lion cub was killed By a single colony of ants.',
-        'Saskya Pandita',
+    '69859c75-210f-5356-a14a-c65505a7067d' => [
+        'Academic success depends on research and publications.',
+        'Philip Zimbardo',
     ],
-    'f9a51681-28b5-5b64-99a7-64078dc4a26d' => [
-        'He who marvels at the beauty of the world in summer will find equal cause for wonder and admiration in winter.',
-        'John Burroughs',
-    ],
-    '65c44151-8ddd-5057-9a2d-94868ea6311e' => [
-        'Take a method and try it. If it fails, admit it frankly, and try another. But by all means, try something.',
-        'Franklin D. Roosevelt',
-    ],
-    '12751b29-6690-5c9a-9170-53d0df81fb44' => [
-        'It is often said that before you die your life passes before your eyes. It is in fact true. It\'s called living.',
-        'Henri Frederic Amiel',
-    ],
-    'c43f94ab-108e-507a-b34c-e574f12daea9' => [
-        'I work to stay alive.',
-        'Bette Davis',
-    ],
-    '6c00af8c-488c-5aaa-90b4-ee03526e8518' => [
-        'One picture is worth 1,000 denials.',
-        'Ronald Reagan',
-    ],
-    'a4d6c27c-726a-58a8-8bde-934714412fa6' => [
-        'Always forgive your enemies - nothing annoys them so much.',
-        'Oscar Wilde',
-    ],
-    '7d31f9cf-9885-579c-8977-ae1870eeb5e0' => [
-        'I don\'t think it\'s a good attitude in your life to feel that you have to be rich to have self-esteem.',
-        'Tom Petty',
-    ],
-    '6c002904-5994-5ab8-829e-e6418d078e0a' => [
-        'To be wholly devoted to some intellectual exercise is to have succeeded in life.',
-        'Robert Louis Stevenson',
-    ],
-    '523653d9-c51b-57cc-9436-192b17dd7317' => [
-        'Beauty without grace is the hook without the bait.',
-        'Ralph Waldo Emerson',
-    ],
-    '379c5092-0847-5427-b591-b313c3e60aee' => [
-        'I might have some character traits that some might see as innocence or naive. That\'s because I discovered peace and happiness in my soul. And with this knowledge, I also see the beauty of human life.',
-        'Tobey Maguire',
-    ],
-    'd0b7bcef-eec7-5b70-8261-5e94653ac1d5' => [
-        'Crave for a thing, you will get it. Renounce the craving, the object will follow you by itself.',
-        'Swami Sivananda',
-    ],
-    'b1d45634-d7cf-59ac-8b5e-6b28b3a46742' => [
-        'Where all think alike, no one thinks very much.',
-        'Walter Lippmann',
-    ],
-    '9cc604e4-9a12-536e-8e13-eb1bd8e6819b' => [
-        'Don\'t wait. The time will never be just right.',
-        'Napoleon Hill',
-    ],
-    'deade189-1fe7-5846-864e-cbefd0458110' => [
-        'No matter how you feel, Get up, dress up, show up and never give up.',
-        'Anonymous',
+    'c3ba92f2-2142-50ee-af87-aa491ab755bd' => [
+        'Find ecstasy in life; the mere sense of living is joy enough.',
+        'Nick Vujicic',
     ],
 ];

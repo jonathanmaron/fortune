@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'ed54fee7-8893-5fa0-b2f3-070aabac1664' => [
-        'I had this attitude, that Silicon Valley obnoxious attitude, that I know what I\'m doing, and the rest was going to be pretty easy.',
-        'Kimbal Musk',
+    '90f4f6ef-467c-5d84-9591-178a95929401' => [
+        'I never drink water because of the disgusting things that fish do in it.',
+        'Unknown',
     ],
-    '92e81781-3e9d-5081-92fb-c6d89f0534b0' => [
-        'I can\'t be told life is beautiful through a normal positive thinking book or a Hallmark movie; that language doesn\'t work for me.',
-        'James Gunn',
+    'db097c21-1e8d-584b-b68d-5c9948645901' => [
+        'It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.',
+        'Seneca',
     ],
-    '3bc6c5d1-e701-5e6e-80e9-a54c52a100e9' => [
-        'Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.',
-        'Jonathan Swift',
+    '187d7d90-1942-5495-ac74-584a9420e5c1' => [
+        'I\'d be hard-pressed to think of anybody who\'s made me laugh, who\'s funny, but who\'s also relentlessly positive.',
+        'Dylan Moran',
     ],
-    '9509e749-ed84-5da6-8b9b-dd73ed93c865' => [
-        'Although beauty may be in the eye of the beholder, the feeling of being beautiful exists solely in the mind of the beheld.',
-        'Martha Beck',
+    '3ced143e-47d5-5896-8084-a6e545b5d762' => [
+        'A home with a loving and loyal husband and wife is the supreme setting in which children can be reared in love and righteousness and in which the spiritual and physical needs of children can be met.',
+        'David A. Bednar',
     ],
-    'f4f767d1-bbe7-5c36-bca4-15c57c32d346' => [
-        'There are so many local nonprofits making a positive impact every day, and yet, oftentimes we don\'t hear enough about them or their needs.',
-        'Sylvia Mathews Burwell',
+    '9b2a5afa-0394-54ca-8588-8c8236c4f38e' => [
+        'Our greatest glory is not in never failing, but in rising up every time we fail.',
+        'Ralph Waldo Emerson',
     ],
-    'd4a33964-56ed-5c76-9f9c-076df514a1d7' => [
-        'We still do not know one thousandth of one percent of what nature has revealed to us.',
-        'Albert Einstein',
+    '81e2a9c3-8cc5-5acb-84fe-89d36e1e0e61' => [
+        'Mankind\'s true moral test, its fundamental test (which lies deeply buried from view), consists of its attitude towards those who are at its mercy: animals. And in this respect mankind has suffered a fundamental debacle, a debacle so fundamental that all others stem from it.',
+        'Milan Kundera',
     ],
-    'ea357afb-ea39-57cf-85a6-8ac80be67702' => [
-        'Each person must live their life as a model for others.',
-        'Wayne Dyer',
+    'c126846a-1f3d-5684-9b76-8e03533e607d' => [
+        'While I put forth the suntan and the teeth and the cavalier attitude, I\'ve survived under the worst of eras and times, and I\'ve always had a good time doing it, because I never really took myself seriously, nor did I take life seriously because it is already terribly serious.',
+        'George Hamilton',
     ],
-    '3e01af37-ea64-5315-8113-540bc31a1570' => [
-        'I\'m a car fanatic and each morning I wake up with a smile on my face, whether I\'m commentating on the Formula One or at Silver Hatch racetrack in Roary the Racing Car.',
-        'Murray Walker',
+    'd481366a-5306-5664-9c78-83286b82b9cd' => [
+        'If you spend your whole life waiting for the storm, you\'ll never enjoy the sunshine.',
+        'Michael Jordan',
     ],
-    '2f10af08-2a80-5837-a480-c77b256bb165' => [
-        'Don\'t let people disrespect you. My mom says don\'t open the door to the devil. Surround yourself with positive people.',
-        'Cuba Gooding, Jr.',
+    'fb4dbaae-300b-5e80-bd0e-ccf7edf1f3f9' => [
+        'Beauty is nature\'s brag, and must be shown in courts, at feasts, and high solemnities, where most may wonder at the workmanship.',
+        'John Milton',
     ],
-    'a4026f3d-0fe4-55f7-adf5-0fc5967345a0' => [
-        'Deprived of meaningful work, men and women lose their reason for existence; they go stark, raving mad.',
-        'Fyodor Dostoevsky',
+    'fd71ab9d-2155-508f-b763-70148de9b2d0' => [
+        'I just really think every job I do, I get this gypsy attitude to money.',
+        'Jessica Brown Findlay',
     ],
-    'fdd2b066-9c21-56ba-92ae-c0ad5fbfc910' => [
-        'I have always thought the actions of men the best interpreters of their thoughts.',
-        'John Locke',
+    'b038310d-3fdb-5a75-a5d2-263d4a26a95d' => [
+        'We can best help you to prevent war not by repeating your words and following your methods but by finding new words and creating new methods.',
+        'Virginia Woolf',
     ],
-    '787c502a-c3df-5c72-9f68-9e0790a893e5' => [
-        'How often I found where I should be going only by setting out for somewhere else.',
-        'R. Buckminster Fuller',
+    '20c7cd2f-7225-598c-bbc9-15eac5a63ac3' => [
+        'Gardens are not made by singing \'Oh, how beautiful,\' and sitting in the shade.',
+        'Rudyard Kipling',
     ],
-    'ef455592-c794-58e2-8c46-d862b3597b0f' => [
-        'The best weapon against an enemy is another enemy.',
-        'Friedrich Nietzsche',
+    'b66feea6-de05-5c72-927d-6d6f9597b0e7' => [
+        'Think how hard physics would be if particles could think.',
+        'Murray Gell-Mann',
     ],
-    'e71a643d-97da-5ee8-9c20-1bf056165002' => [
-        'High heels are like a beauty lift. In a flat, you can feel beautiful, but a stiletto changes your mood, how you move - like a wild, beautiful animal. The idea was always to follow a woman\'s wardrobe, her desires.',
-        'Giuseppe Zanotti',
+    'cfd58efc-250c-5f6c-9f68-3f2d650c5517' => [
+        'The proper function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time.',
+        'Jack London',
     ],
-    'd7fc0041-1de3-5007-94ec-271961612c0a' => [
-        'I gave my beauty and my youth to men. I am going to give my wisdom and experience to animals.',
-        'Brigitte Bardot',
+    '641c91c1-8621-55ef-ad85-2ebfddb5a2b4' => [
+        'There is hope and a kind of beauty in there somewhere, if you look for it.',
+        'H. R. Giger',
     ],
-    'ac4f8467-14a3-5fdf-a29b-6e6487d63995' => [
-        'To be happy when you are travelling, you need to be happy inside before you leave. A positive frame of mind will definitely enhance your travelling experience. If I\'m not in a positive frame of mind then the whole thing definitely becomes more of a challenge for me.',
-        'Andrea Bocelli',
+    '2e5bc717-f7fd-57da-9728-bc6f0bbac8a5' => [
+        'I know of no single formula for success. But over the years I have observed that some attributes of leadership are universal and are often about finding ways of encouraging people to combine their efforts, their talents, their insights, their enthusiasm and their inspiration to work together.',
+        'Queen Elizabeth II',
     ],
-    'ec8a703d-71c4-5407-aa61-3eba43bc03ff' => [
-        'Nobody gets to live life backward. Look ahead, that is where your future lies.',
-        'Donald Trump',
+    '800ea7b2-ec7b-5f31-99d1-16323ab94bbc' => [
+        'Shoot for the moon and if you miss you will still be among the stars.',
+        'Les Brown',
     ],
-    '2314173e-d0b0-5474-84d7-de5157144e88' => [
-        'For to be poised against fatality, to meet adverse conditions gracefully, is more than simple endurance; it is an act of aggression, a positive triumph.',
-        'Thomas Mann',
+    'a188936f-504c-5e19-b08f-74104db948e1' => [
+        'I may be a living legend, but that sure don\'t help when I\'ve got to change a flat tire.',
+        'Roy Orbison',
     ],
-    '91e08d10-a4ff-51ba-998c-0c0f39cb8bdb' => [
-        'Sometimes a little heartbreak is a lesson, and the best thing to do is just learn the lesson.',
-        'Jon Voight',
+    'b529da22-5272-5666-93f0-b538888fe69f' => [
+        'I tell you, it\'s funny because the only time I think about HIV is when I have to take my medicine twice a day.',
+        'Magic Johnson',
     ],
-    '20f229df-3952-54f5-b7c7-7d910c49a86e' => [
-        'Is everything funny? For me, yes. There\'s a positive to every negative. Even my divorce? For me, yes. If you go back and look at it, why it happened or how it happened, there\'s something in there that\'ll make you laugh.',
-        'Kevin Hart',
+    '63f19236-3ff8-5e7a-8649-2f67bd3e4d91' => [
+        'Corruption, embezzlement, fraud, these are all characteristics which exist everywhere. It is regrettably the way human nature functions, whether we like it or not. What successful economies do is keep it to a minimum. No one has ever eliminated any of that stuff.',
+        'Alan Greenspan',
     ],
-    '0d1a32d5-7b8c-5f5c-acc8-d3592f39ff0e' => [
-        'When I first started writing songs and being very explicit, it was hard, but one of the main things people respond to in my writing is that \'just say it\' attitude of my songs. There really is nothing personal or private; it\'s all universal, if you can just find the courage to be open about your life.',
-        'Ani DiFranco',
+    '0eb914f5-b013-5aa3-a4f3-d10aad4268cb' => [
+        'I was raised by a single mother who made a way for me. She used to scrub floors as a domestic worker, put a cleaning rag in her pocketbook and ride the subways in Brooklyn so I would have food on the table. But she taught me as I walked her to the subway that life is about not where you start, but where you\'re going. That\'s family values.',
+        'Al Sharpton',
     ],
-    '3f2b3648-a8b5-5259-904a-8d34bd430b90' => [
-        'Many business leaders are seeing the relationship between long term success and sustainability, and that\'s very heartening.',
-        'Jacqueline Novogratz',
+    'f1c036ba-c973-50ae-9441-b4d090fdadf0' => [
+        'Change your words. Change your world.',
+        'Unknown',
     ],
-    '8f24b424-ffc6-572f-8f1d-f3e2ddb47a3e' => [
-        'Vision without action is a daydream. Action without vision is a nightmare.',
-        'Japanese proverb',
+    'ada567cd-4fa9-5631-8ff9-5ddae466d9e0' => [
+        'Mark Twain was a great traveler and he wrote three or four great travel books. I wouldn\'t say that I\'m a travel novelist but rather a novelist who travels - and who uses travel as a background for finding stories of places.',
+        'Paul Theroux',
     ],
-    '15962e98-a82b-5b0d-9e91-46dd4aae94a0' => [
-        'To be successful you must accept all challenges that come your way. You can\'t just accept the ones you like.',
-        'Mike Gafka',
+    '68dfd714-ad01-5dcf-9583-8ed24467ccf3' => [
+        'Study hard so that you can master technology, which allows us to master nature.',
+        'Che Guevara',
     ],
-    '9690cca7-2e3e-5545-8193-a1cadfbbda39' => [
-        'When you run the marathon, you run against the distance, not against the other runners and not against the time.',
-        'Haile Gebrselassie',
+    '8b79736d-4816-5a5c-be59-8dafe2eb2c65' => [
+        'The greatest thing about where my life is right now is it\'s very relaxed and chill. I\'m just hanging out, being myself and doing my work.',
+        'Lucas Grabeel',
     ],
-    'a4ffb902-9488-517d-a598-5621b612ec80' => [
-        'My life is every moment of my life. It is not a culmination of the past.',
-        'Isaac Asimov',
+    '14fca2b5-9dcb-52be-a98c-07cbd8a5ef7a' => [
+        'Did I offer peace today? Did I bring a smile to someone\'s face? Did I say words of healing? Did I let go of my anger and resentment? Did I forgive? Did I love? These are the real questions. I must trust that the little bit of love that I sow now will bear many fruits, here in this world and the life to come.',
+        'Henri Nouwen',
     ],
-    '383e41f4-abaf-5ab1-a369-8a9204f111cf' => [
-        'I wanted to do something inspirational for my children.',
-        'Harvey Weinstein',
+    '5efe19ca-ea85-5992-ba9c-5a2855b2070b' => [
+        'Make it a habit to tell people thank you. To express your appreciation, sincerely and without the expectation of anything in return. Truly appreciate those around you, and you\'ll soon find many others around you. Truly appreciate life, and you\'ll find that you have more of it.',
+        'Thomas Paine',
     ],
-    '3d2b176d-d570-5f83-98a7-98b4862ea431' => [
-        'I think the divine is like a huge smile that breaks somewhere in the sea within you, and gradually comes up again.',
-        'John O\'Donohue',
+    '590eef3c-0304-538c-81d4-086b8321ddb7' => [
+        'The avant-garde theater is fun; it is free-swinging, bold, iconoclastic, and often wildly, wildly funny. If you will approach it with childlike innocence - putting your standard responses aside, for they do not apply - if you will approach it on its own terms, I think you will be in for a liberating surprise.',
+        'Edward Albee',
     ],
-    '8cc8ebe6-5b5f-5ba6-a78c-99830f3e8ec6' => [
-        'An artist must never be a prisoner. Prisoner? An artist should never be a prisoner of himself, prisoner of style, prisoner of reputation, prisoner of success, etc.',
-        'Henri Matisse',
+    '55a46866-089e-5a6c-a915-c019bf7ed057' => [
+        'I don\'t believe in failure. It\'s not failure if you enjoyed the process.',
+        'Oprah Winfrey',
     ],
-    '562fa184-cda6-5f97-953a-fb4d223a9364' => [
-        'Make a Goal Box, a chart of positive daily contact with a family when you are working with them.',
-        'Richard G. Scott',
+    'f618432d-7126-5ca9-80e8-777f71d6d4a0' => [
+        'Social media is something of a double-edged sword. At its best, social media offers unprecedented opportunities for marginalized people to speak and bring much needed attention to the issues they face. At its worst, social media also offers \'everyone\' an unprecedented opportunity to share in collective outrage without reflection.',
+        'Roxane Gay',
     ],
-    'e5a723c8-c214-5d6d-8de2-08e57d5165a1' => [
-        'It\'s kind of funny, with all of the different outlets that come from acting that you could try, I would love to direct and kind of be involved in art direction, too.',
-        'Imogen Poots',
+    '817da242-62cb-5a91-b306-5484ce59827b' => [
+        'My mother never put an emphasis on looks. She let us grow up on our own time line. She never forced any beauty regimen into my world.',
+        'Rachel McAdams',
     ],
-    'abc29b60-1006-523b-8635-b151694180a3' => [
-        'When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That\'s relativity.',
-        'Albert Einstein',
+    'c49ca9e7-bf44-5c01-9a45-7af2c4a0b084' => [
+        'I\'m not here to impose Sharia law, and I\'m not here to have a message about disability being inspirational - I\'m here to make people laugh. But when I can layer things and make people not only laugh but question, make people not only laugh but be offended... I have to do that.',
+        'Maysoon Zayid',
     ],
-    'f1d76388-077f-513b-a040-01fe95876b8e' => [
-        'When you start about family, about lineage and ancestry, you are talking about every person on earth.',
-        'Alex Haley',
+    '34036788-bfbc-555d-90b5-1ab787487a72' => [
+        'We can each define ambition and progress for ourselves. The goal is to work toward a world where expectations are not set by the stereotypes that hold us back, but by our personal passion, talents and interests.',
+        'Sheryl Sandberg',
     ],
-    'ecb3aad5-83d0-5666-abcc-4d6722042043' => [
-        'The most useful form of time travel would be to go back a year or two and rectify the mistakes we made.',
-        'Matt Lucas',
+    'f18727df-1282-59f2-bcbc-14a50450f131' => [
+        'I was very pleased that the positive things about me and my game outshone the aggressive style of play I use. I would never tone that down, because I believe in that style of play, and I believe that you can play rough on the court and still be a good sport.',
+        'Sue Wicks',
     ],
-    'd41e6d37-4a7b-55e1-b969-79d3ab6188bf' => [
-        'Good teachers know how to bring out the best in students.',
-        'Charles Kuralt',
+    '4768b719-6b70-5bcb-a9e3-0f447e9d895a' => [
+        'A Maybelline New York woman is strong and confident - I love that attitude.',
+        'Frida Gustavsson',
     ],
-    '9e308b4e-92f5-5379-8098-3ebe1cf0370d' => [
-        'I look at where I\'m at today and realize that most of my success is owed to the mentors that was in my life.',
-        'Kendrick Lamar',
+    '83263564-750a-5b7f-98a3-41ad9fd43e5b' => [
+        'We see things not as they are, but as we are. Our perception is shaped by our previous experiences.',
+        'Dennis Kimbro',
     ],
-    '38251692-ae04-56d7-a48c-929ce4dd8423' => [
-        'All one needs to do is read - books, magazines, research the Internet - and pay attention to the influencers in their lives to discover the myriad people of strong moral character who have and still are making positive, meaningful contributions and differences in our world.',
-        'Zig Ziglar',
+    '4238b56e-4be7-59bf-afa3-04e0613ce4f5' => [
+        'The best way to make a steak is grilled over an open flame or pan sauteed in a cast iron skillet.',
+        'Roy Yamaguchi',
     ],
-    'db449966-9990-5b0b-92c6-d2943713af0e' => [
-        'My attitude is never to be satisfied, never enough, never.',
-        'Duke Ellington',
+    '959d6514-f27f-5aff-891e-240231738195' => [
+        'A girl\'s best friend is her pride.',
+        'Vanity',
     ],
-    'ce41b55a-7600-5016-b939-28f403197abf' => [
-        'Travel can be one of the most rewarding forms of introspection.',
-        'Lawrence Durrell',
+    'ce2c32a2-f23d-5e25-bc8c-15be935fc65c' => [
+        'The countries who do the best in international comparisons, whether it\'s Finland or Japan, Denmark or Singapore, do well because they have professional teachers who are respected, and they also have family and community which support learning.',
+        'Howard Gardner',
     ],
-    'a5fde041-fc3d-549a-b510-1dd1aa86bca3' => [
-        'Be so good they can\'t ignore you.',
-        'Steve Martin',
+    '092e5d86-1ad7-5fea-a574-6ab295045bfc' => [
+        'Work is about more than making a living, as vital as that is. It\'s fundamental to human dignity, to our sense of self-worth as useful, independent, free people.',
+        'William J. Clinton',
     ],
-    '28ff8ac3-e22b-5969-ba68-5bf8e134bc40' => [
-        'The world is getting more connected through technology and travel. Cuisines are evolving. Some people are scared of globalization, but I think people will always take pride in cultural heritage.',
-        'John Mackey',
+    'eb3b6cf4-af09-510b-853c-cdab468b7e01' => [
+        'All identity labels are umbrella terms to some degree, but this term \'bisexual\' is not only serviceable, but it is sufficient. And yes, it brings together a bunch of people who are maybe shades different from one another. And maybe that\'s the beauty of labels: that they force you to be with other people and see the difference.',
+        'Charles M. Blow',
     ],
-    'a8fd10d5-a30d-5427-b461-f6dfda4f0d66' => [
-        'Anybody who knows me knows that I\'m just here to put a smile on people\'s faces.',
-        'Jason Mitchell',
+    '6b8f1eeb-8b38-5c2b-b092-d77705b01831' => [
+        'The American Dream is one of success, home ownership, college education for one\'s children, and have a secure job to provide these and other goals.',
+        'Leonard Boswell',
     ],
-    '9b34f734-43b4-5da1-a469-41f911299cfc' => [
-        'I think that\'s a great opportunity, to pick a script where you can build up a good skill. I think the main thing I look for when I look at scripts is if it\'s inspirational. If it\'s something that teenagers can relate to. And is it something that the audience is going to get something out of. If not, then it\'s really not worth doing.',
-        'Carly Schroeder',
+    '96a97630-c7fe-5d8b-af11-7953fb1dbdd8' => [
+        'Books are sharks... because sharks have been around for a very long time. There were sharks before there were dinosaurs, and the reason sharks are still in the ocean is that nothing is better at being a shark than a shark.',
+        'Douglas Adams',
     ],
-    '8fd5554a-e19b-5f15-bf95-16ba7ff66a46' => [
-        'A minute\'s success pays the failure of years.',
-        'Robert Browning',
+    'd5042c8f-c558-5924-8f85-818ededadc1b' => [
+        'Happiness does not come from having much, but from being attached to little.',
+        'Cheng Yen',
     ],
-    'c5147391-4805-5448-980f-9b8adb50b6c9' => [
-        'Old wood best to burn, old wine to drink, old friends to trust, and old authors to read.',
-        'Athenaeus',
+    '1bfcc60c-fc83-5b3c-b286-1f7a0e989a4a' => [
+        'Let go of your attachment to being right, and suddenly your mind is more open. You\'re able to benefit from the unique viewpoints of others, without being crippled by your own judgement.',
+        'Ralph Marston',
     ],
-    '01a653b8-7791-5034-bb05-d87f924ff49f' => [
-        'Life could be wonderful if people would leave you alone.',
-        'Travis Bradberry',
+    '86413a4e-7e29-52a9-94a0-a177a7dd33a0' => [
+        'My attitude is govern as if you\'ve run your last race. That\'s not to say I\'ve run my last race, but govern with a liberation and a freedom; change your mind frame to operate that way.',
+        'Rahm Emanuel',
     ],
-    '8af2029f-ecc4-52a5-9319-28625f68b823' => [
-        'There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.',
-        'Nelson Mandela',
+    '8bcb4542-e1ab-5606-bc79-0f628f5fd2cf' => [
+        'When I travel officially... and when I travel on a private basis, I have protection that is less suffocating. But I am protected everywhere.',
+        'Francois Hollande',
     ],
-    '62f1ac45-7fe8-5279-8b79-96e0a5b60d04' => [
-        'Dedicating some time to meditation is a meaningful expression of caring for yourself that can help you move through the mire of feeling unworthy of recovery. As your mind grows quieter and more spacious, you can begin to see self-defeating thought patterns for what they are, and open up to other, more positive options.',
-        'Sharon Salzberg',
+    '36f480c7-be8b-55d4-b0b7-cdd17e63cc09' => [
+        'The nature of the movies is different than it was five years ago, and they\'re all driven by the possibilities of CGI, which means you can make anything happen on screen that you can possibly desire.',
+        'Tom Hanks',
     ],
-    '351c67c0-eadd-5f54-8813-04c492806649' => [
-        'I\'ve always considered myself to be fiercely patriotic. I love Britain - its history and the down-to-earth attitude people have.',
-        'Gary Numan',
+    'b807db1d-bc5f-5224-8d1c-44612b9e9045' => [
+        'Come forth into the light of things, let nature be your teacher.',
+        'William Wordsworth',
     ],
-    '4f2c7f46-0090-5daa-bbbc-03f7ce4ec923' => [
-        'My progress was rendered delightful by the sylvan elegance of the groves, chearful meadows, and high distant forests, which in grand order presented themselves to view.',
-        'William Bartram',
+    '822e4911-374d-5926-a96a-3f1adc2e7225' => [
+        'I had seen movies before that that had made me laugh, but I had never seen anything even remotely close to as funny as Richard Pryor was, just standing there talking.',
+        'Joe Rogan',
     ],
 ];

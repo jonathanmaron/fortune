@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'd90434bf-13b7-5818-a366-9033c5c1acbc' => [
-        'Success comes when people act together; failure tends to happen alone.',
-        'Deepak Chopra',
+    'c562fcc3-ec07-55ff-9449-be59192d5b1f' => [
+        'To make democracy work, we must be a nation of participants, not simply observers. One who does not vote has no right to complain.',
+        'Louis L\'Amour',
     ],
-    '37ca74d9-872b-527f-be5c-a1e3cce7d2f8' => [
-        'There\'s a darkness under \'The Hangover\' because ultimately there\'s a missing person and it\'s not really that funny. There\'s a sort of darkness under it that I love, and still people are laughing as hard if not harder than they did in \'Old School.\'',
-        'Todd Phillips',
+    'a0670912-078c-597a-b02b-3c660b44a6bb' => [
+        'People often say that \'beauty is in the eye of the beholder,\' and I say that the most liberating thing about beauty is realizing that you are the beholder. This empowers us to find beauty in places where others have not dared to look, including inside ourselves.',
+        'Salma Hayek',
     ],
-    '9d97e9e3-56a9-552e-ad47-937b4e0392bf' => [
-        'I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.',
-        'G. K. Chesterton',
+    'fb21d21a-119f-55fe-a753-978ad0fb41dd' => [
+        'Opportunities don\'t happen, you create them.',
+        'Chris Grosser',
     ],
-    'da6a8084-a006-5fec-b8ca-ad804ee68fe5' => [
-        'The real end winner of NAFTA is going to be Mexico because we have the human capital. We have that resource that is vital to the success of the U.S. economy.',
-        'Vicente Fox',
+    '8a00cee5-0d17-5b5c-9ddb-02ecfe85c48b' => [
+        'The commonplace about Italian cooking is that it\'s very simple; in practice, the simplicity needs to be learned, and the best way to learn it is to go to Italy and see it firsthand.',
+        'Bill Buford',
     ],
-    'ae6476e7-0e76-5f84-abfd-8d4583de52e4' => [
-        'The cat is such a perfect symbol of beauty and superiority that it seems scarcely possible for any true aesthete and civilised cynic to do other than worship it.',
-        'H. P. Lovecraft',
+    '8ad1d4d1-4bce-58ec-8d40-cd379938b1d3' => [
+        'The man who trusts men will make fewer mistakes than he who distrusts them.',
+        'Cavour',
     ],
-    '83a27176-61c0-5168-9976-d43487d0bdb0' => [
-        'Crowds are the most difficult thing for me these days because I have to walk with my head down and my eyes averted. There\'s still that part of me that wants to hold my head up, make eye contact and smile.',
-        'Cameron Diaz',
+    'e9b41952-e9d8-5c96-a7fe-cf0042be5d94' => [
+        'I am deliberate and afraid of nothing.',
+        'Audre Lorde',
     ],
-    'c7252f59-77a9-553b-8a5e-3f002fc37150' => [
-        'I told my father to stop smoking around the age of two or three years old and he stopped smoking. So the relationship between the kid and the parent is very powerful, and if you give the kid the right information, it can be very useful to the family.',
-        'Doug E. Fresh',
+    'd41e6d37-4a7b-55e1-b969-79d3ab6188bf' => [
+        'Good teachers know how to bring out the best in students.',
+        'Charles Kuralt',
     ],
-    'd57cf8be-e11e-5656-9488-bc0e7ba7527d' => [
-        'As a cure for worrying, work is better than whiskey.',
-        'Ralph Waldo Emerson',
+    'b966e60d-9bd2-58fd-b758-f9791fa7232a' => [
+        'During the time men live without a common power to keep them all in awe, they are in that conditions called war; and such a war, as if of every man, against every man.',
+        'Thomas Hobbes',
     ],
-    '6f3eee27-8c77-5390-a728-ee693de9bada' => [
-        'The cool thing about being famous is traveling. I have always wanted to travel across seas, like to Canada and stuff.',
-        'Britney Spears',
+    '0c48cca4-7e77-554c-a685-6dff6282b5c1' => [
+        'Being angry never solves anything.',
+        'Catherine Pulsifer',
     ],
-    '72d7120b-e0db-52a5-9907-f04dae1c8fc7' => [
-        'One of the nice things about being busy is it makes you focus on what\'s important to you and how you use your time.',
-        'Lorne Michaels',
+    '04c5e795-e8eb-555f-81e4-eb6edb47e4a1' => [
+        'From my perspective, probably women are won over by people who are sweet and respectful and courteous and kind and funny. I think those are the things that win women over.',
+        'Zooey Deschanel',
     ],
-    '628b595a-27d4-55c2-853e-052e7ddc24f5' => [
-        'A long apprenticeship is the most logical way to success. The only alternative is overnight stardom, but I can\'t give you a formula for that.',
-        'Chet Atkins',
+    'd21e3bb4-a692-5353-aed0-837183e01616' => [
+        'On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.',
+        'Edward Young',
     ],
-    '7e0ed8b0-503f-59bc-83b0-74ac51143f1d' => [
-        'True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.',
-        'Daisaku Ikeda',
+    '08858315-17db-524f-b58f-b57150b9137a' => [
+        'I play guys who never smile, and I never stop smiling.',
+        'Michael Joseph Kelly',
     ],
-    '51e19a60-c5b1-5163-b577-2ab68afade4c' => [
-        'Like our attitude to love, truth and goodness, we seem to be confident about knowing what beauty is - certain, even dogmatic - until we think hard about the idea, whereupon all confidence flies away.',
-        'Charles Jencks',
+    '6352c96e-04e9-5eae-934e-0f87ef84043f' => [
+        'My grandchildren are fabulous and funny.',
+        'Erica Jong',
     ],
-    '24e2f3a6-edda-56fe-87fd-1100299ce19e' => [
-        'A smart manager will establish a culture of gratitude. Expand the appreciative attitude to suppliers, vendors, delivery people, and of course, customers.',
-        'Harvey Mackay',
+    '77dd0ce4-0a3f-507f-b872-289ec4397328' => [
+        'Ask yourself the secret of your success. Listen to your answer, and practice it.',
+        'Richard Bach',
     ],
-    'e4c9ef80-53e5-5e0f-b808-7479c5de6bf2' => [
-        'Turns out you have a really fun time if you go to work every day and focus on being silly and funny and happy!',
-        'Hannah Murray',
+    '6ddfcf3d-3381-5365-926f-7a872df4b977' => [
+        'So, my style has hopefully changed over the years and it is more relaxed, and I do tend to smile and have more than one expression these days hopefully - which I didn\'t at the beginning.',
+        'Jo Brand',
     ],
-    '90a2b2fb-a6ef-5f88-8d5f-3fcc321e13f5' => [
-        'Life is bigger than cinema. Cinema is just a part of life, so I never take success or failure seriously.',
-        'Pawan Kalyan',
+    '0fb0d12c-7919-5951-bfe1-1501e96dc2a2' => [
+        'If you fell down yesterday, stand up today.',
+        'H. G. Wells',
     ],
-    'c78a3e87-9a9f-5da9-b7e2-6c8458139c18' => [
-        'Success? You can\'t get a big head about it. When people stare at me, they could be whispering to their friend, \'That guy sucks! Have you seen him before? He\'s horrible.\'',
-        'David Spade',
+    'd2471523-2cad-503d-8906-84df02094560' => [
+        'I like to spend as much time with my friends and family as possible.',
+        'Zara Larsson',
     ],
-    '6f733f81-d136-55c5-a090-88b1941ebe37' => [
-        'Fear comes in two packages fear of failure, and sometimes, fear of success.',
-        'Tom Kite',
+    '2bde38e6-a28e-520d-aa0e-c78a89467b41' => [
+        'Set your sights high, the higher the better. Expect the most wonderful things to happen, not in the future but right now. Realize that nothing is too good. Allow absolutely nothing to hamper you or hold you up in any way.',
+        'Eileen Caddy',
     ],
-    '914d75bf-5fb1-5a65-8e30-ec61244a5e3d' => [
-        'If you want my personal attitude, I would tell you that I don\'t care about a person\'s sexual orientation.',
-        'Vladimir Putin',
+    '83a47ce8-a8e0-5597-8511-3a1dce30aff9' => [
+        'I think that anybody that smiles automatically looks better.',
+        'Diane Lane',
     ],
-    '1e5d72a4-e931-5e7f-ad3a-00250713518b' => [
-        'Family are the people that can hurt you the most.',
-        'Mahershala Ali',
+    '1a01cb8e-1724-5edc-91eb-f67bbb33ce0b' => [
+        'A key to achieving success is to assemble a strong and stable management team.',
+        'Vivek Wadhwa',
     ],
-    '1cb3cf5e-e600-5f54-9573-add1ad58622c' => [
-        'There\'s beauty everywhere. There are amazing things happening everywhere, you just have to be able to open your eyes and witness it. Some days, that\'s harder than others.',
-        'Sarah McLachlan',
+    '7ed48643-7a89-52a1-8545-1543533e42b3' => [
+        'Work for something because it is good, not just because it stands a chance to succeed.',
+        'Vaclav Havel',
     ],
-    'e961f0ba-dcbc-5c9f-912e-616ea48996e5' => [
-        'We owe a lot to Thomas Edison - if it wasn\'t for him, we\'d be watching television by candlelight.',
-        'Milton Berle',
+    '051171ed-56d1-5c14-a47d-121fd1273a1e' => [
+        'I\'ve been absolutely terrified every moment of my life - and I\'ve never let it keep me from doing a single thing I wanted to do.',
+        'Georgia O\'Keeffe',
     ],
-    '171b2838-2382-5798-a509-8bcfcf81d4be' => [
-        'On any given day, my father wasn\'t likely to return from work before I was asleep for the night. I saw that a man\'s work was important, that he must pursue it tirelessly, and that it might require certain sacrifices, like being away from the warmth and comfort of home.',
-        'Ezekiel Emanuel',
+    '9ce34c97-bb14-573c-b83d-452fe3200d42' => [
+        'Whatever it is you\'re seeking won\'t come in the form you\'re expecting.',
+        'Haruki Murakami',
     ],
-    '54195657-6984-50c0-8617-e1ac6ca90510' => [
-        'It\'s a question of keeping one\'s eyes and ears open and watching how other people play the game. They\'re watching me too, to see what my attitude is like.',
-        'Charles Dance',
+    'e04f65ae-5afb-5010-a7ae-312d7b37c218' => [
+        'Forgiveness is a way of opening up the doors again and moving forward, whether it\'s a personal life or a national life.',
+        'Albert Einstein',
     ],
-    '53a23320-72e4-50e7-8396-252bd96d8213' => [
-        'Pretension is a poor joke that you play on yourself. Snap out of it. Recognise your strengths, work on your weaknesses. Real achievement is liking what you see in the mirror every morning.',
+    '73374137-c05f-55d5-97c2-62199d05bde1' => [
+        'Human nature is not black and white but black and grey.',
+        'Graham Greene',
+    ],
+    '059a3188-685a-593f-bda1-945d29c93a49' => [
+        'If two wrongs don\'t make a right, try three.',
+        'Laurence J. Peter',
+    ],
+    'b2a6f6ca-9274-5853-8140-e0b933326abe' => [
+        'Memory is the mother of all wisdom.',
+        'Samuel Johnson',
+    ],
+    '93273cff-0f2a-532e-ae54-52c1e2d43786' => [
+        'You can always enhance your natural beauty; you learn what works for your face because crazy make-up doesn\'t really suit anyone.',
+        'Caroline Winberg',
+    ],
+    '0fd51063-30a1-55eb-86cb-460005a9752e' => [
+        'If I write a book where all I\'ve ever experienced is success, people won\'t take a positive lesson from it. In being candid, I have to own up to my own failures, both in my marriage and in my work environment.',
+        'Sonia Sotomayor',
+    ],
+    'e27ae3dc-1df2-59a9-86f6-71d6d140faf2' => [
+        'I no doubt deserved my enemies, but I don\'t believe I deserved my friends.',
+        'Walt Whitman',
+    ],
+    '7fb57316-94f7-5d37-803a-84e780eda3a7' => [
+        'Sorrows gather around great souls as storms do around mountains; but, like them, they break the storm and purify the air of the plain beneath them.',
+        'Jean Paul',
+    ],
+    'ca9437a2-b6a9-566e-b4b0-08c45ce27838' => [
+        'To give anything less than your best, is to sacrifice the gift.',
+        'Steve Prefontaine',
+    ],
+    '9d44fa29-b2a3-5392-94c8-9a1674d02dae' => [
+        'Always concentrate on how far you\'ve come, rather than how far you have left to go.',
+        'Unknown',
+    ],
+    '1b061ec8-7a0c-5481-809c-b060984ae5e4' => [
+        'I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let\'s face it, friends make life a lot more fun.',
+        'John Dewey',
+    ],
+    '126100ee-b300-53c7-a428-a2dcf77c609c' => [
+        'Certain thoughts are prayers. There are moments when, whatever be the attitude of the body, the soul is on its knees.',
+        'Victor Hugo',
+    ],
+    '99e8a620-e4e0-59f1-8854-3f3855ac531f' => [
+        'When you\'re a self-made man, you start very early in life. In my case it was at 9 years old when I started bringing income into the family. You get a drive that\'s a little different, maybe a little stronger, than somebody who inherited.',
+        'Kirk Kerkorian',
+    ],
+    '5370649e-dddf-5c70-9797-ab16b70212be' => [
+        'Autumn arrives in early morning, but spring at the close of a winter day.',
+        'Elizabeth Bowen',
+    ],
+    '5bbfe7b9-b75d-54dc-b12e-63ea360f26f1' => [
+        'The only time I ever enjoyed ironing was the day I accidentally got gin in the steam iron.',
+        'Phyllis Diller',
+    ],
+    '03089066-ee6e-5b9d-9e87-fac0a4414229' => [
+        'More than 90 percent of what Planned Parenthood does nationally is preventive care - including cervical cancer screenings, breast cancer screenings, and family planning - mostly for women with low resources and income below the poverty line.',
+        'Gene Green',
+    ],
+    'acbda4e7-64c0-53e4-af5b-f255da0d58d9' => [
+        'For me, the beauty of a person is a matter of the whole package. You have to look at the whole thing, not just a matter of outward appearance or whatever. It has to do with one\'s character, personality, upbringing and so on.',
+        'Gong Li',
+    ],
+    'b0072f6d-898e-55a8-b339-389e2abf697b' => [
+        'It takes a long time to become young.',
+        'Pablo Picasso',
+    ],
+    '4ada039a-3597-5e65-97f2-01db9e7ba12d' => [
+        'I\'d love to do a comedy. I\'m terrified of comedy. I don\'t think I\'m funny, but I guess that\'s why it\'s so thrilling.',
+        'Jared Padalecki',
+    ],
+    '31dfe21e-d0fc-556e-9494-4c8dd7a7b868' => [
+        'On the field, aggression can sometimes be a positive emotion. It boosts performance and can lift your game. But over the years, I have learnt that restrained aggression is a better animal. That way, you will conserve your energy and won\'t spend yourself quickly.',
         'Virat Kohli',
     ],
-    '4dcb8e6e-0331-5cf8-83df-64590b53cb3e' => [
-        'Mushrooms are miniature pharmaceutical factories, and of the thousands of mushroom species in nature, our ancestors and modern scientists have identified several dozen that have a unique combination of talents that improve our health.',
-        'Paul Stamets',
+    'a69d46d1-2939-54ee-8c86-b57a060697e3' => [
+        'If you don\'t know your worth, if you don\'t know your value, if you don\'t know how fantabulous you are - it\'s going to be hard for other people to see it. Being appreciative of self is beauty to me.',
+        'Kelly Rowland',
     ],
-    '948022ac-1030-5a44-98fd-1d683483bd59' => [
-        'If there are no struggles, there is no progress.',
-        'Frederick Douglas',
+    '407318b6-3e0c-5683-9f2e-5e62b215cf73' => [
+        'I love funny people, and when I\'m with funny people, or people who are amusing in their weirdness, I love it. Because that to me is funny, as opposed to someone who stops and says, \'Hey let me tell you a joke.\'',
+        'Paul Feig',
     ],
-    '566bc696-d415-56d5-88b3-5c7542d9ab5e' => [
-        'If you put all your strength and faith and vigor into a job and try to do the best you can, the money will come.',
-        'Lawrence Welk',
+    '9c759e2a-06e5-5702-aa89-93ca7087e473' => [
+        'I am responsible. Although I may not be able to prevent the worst from happening, I am responsible for my attitude toward the inevitable misfortunes that darken life.',
+        'Walter Anderson',
     ],
-    '654a3fab-4d05-5fc1-9f22-5a7e489fca8b' => [
-        'There is no greater feeling in business than building a product which impacts people\'s lives in a profound way. When we look around at the thousands of people who have attended Summit gatherings, it makes us smile to see the new friendships, business partnerships and philanthropic initiatives that each event produces.',
-        'Elliott Bisnow',
+    '700da719-1783-5bf7-b959-604e5b4232a1' => [
+        'No family gets rich from earning the minimum wage. In fact, the current minimum wage does not even lift a family out of poverty.',
+        'Jon Corzine',
     ],
-    'fa1a56a5-95ec-5616-9386-e7c193ebefce' => [
-        'I have very diverse tastes in music, and I don\'t, like, make distinctions between what I can\'t and can\'t listen to. In fact, I could never understand why anybody would do that in the first place. My attitude is, \'I can\'t make music if I don\'t like music.\'',
-        'Corey Taylor',
+    '5ec519af-d61b-54cc-b317-220cee254fb5' => [
+        'There is an electric fire in human nature tending to purify - so that among these human creatures there is continually some birth of new heroism. The pity is that we must wonder at it, as we should at finding a pearl in rubbish.',
+        'John Keats',
     ],
-    '5bc9a400-ae12-545f-9aa5-158d7e11d0ae' => [
-        'Hence, within the space of two generations there has been a complete revolution in the attitude of the trades-unions toward the women working in their trades.',
-        'Florence Kelley',
+    '56229df6-c78b-5124-a7d1-6424489d54a9' => [
+        'When I first came to America, you know, I would look at the newsstands and see the women on the magazine covers. I had never seen anyone smile the way these girls smile! It\'s like they have nothing to worry about!',
+        'Anchee Min',
     ],
-    'ab1290d1-ad32-5194-9497-d5fd821aad6a' => [
-        'If you want to be successful, put yourself in a discomfort zone.',
-        'Sharfaraz Ahmed',
-    ],
-    '3d8cf790-7873-567d-9e4d-d0fb92acb3f8' => [
-        'You don\'t look out there for God, something in the sky, you look in you.',
-        'Alan Watts',
-    ],
-    'cdc65f23-ea50-5d27-8a39-7ccc95b84a93' => [
-        'Time is what we want most, but what we use worst.',
-        'William Penn',
-    ],
-    '4d4d00a2-7962-5506-85a5-45aa998428a6' => [
-        'The very winds whispered in soothing accents, and maternal Nature bade me weep no more.',
-        'Mary Shelley',
-    ],
-    '40e20cd3-1e41-5643-a739-28043d6ad2f9' => [
-        'I did flirt with the idea of going to law school, but not for long. Maybe I\'ll play a lawyer one day - the beauty of acting is that you can try on so many different roles without having to commit to them in real life.',
-        'Elizabeth Debicki',
-    ],
-    '6e0f97c4-3b95-561b-836b-e5d087c39f00' => [
-        'The fame of heroes owes little to the extent of their conquests and all to the success of the tributes paid to them.',
-        'Jean Genet',
-    ],
-    '1652661f-75f5-539e-922f-af2c822bcfa1' => [
-        'Jews have deep respect for the Queen and the royal family. We say a prayer for them every Sabbath in synagogue. We recite a special blessing on seeing the Queen.',
-        'Jonathan Sacks',
-    ],
-    '2a2548e9-37cc-5f41-8b24-eee7a08d1a20' => [
-        'I don\'t smile a lot in my pictures. I\'m always so... grim.',
-        'Michael Douglas',
-    ],
-    'add99941-2704-52e4-bd0b-8f41266d2dd3' => [
-        'Shakespeare wrote about love. I write about love. Shakespeare wrote about gang warfare, family feuds and revenge. I write about all the same things.',
-        'Sister Souljah',
-    ],
-    'bb96f75f-2532-53dd-99be-97021ec34313' => [
-        'Always keep your smile. That\'s how I explain my long life.',
-        'Jeanne Calment',
-    ],
-    'f459d0a6-b5a2-5285-9b6f-668af1ecae2b' => [
-        'It takes a long time for a man to look like his portrait.',
-        'James Whistler',
-    ],
-    '32ef5f7b-6560-5a15-8a6d-6d369c9c5934' => [
-        'Migration gives a blank cheque to put anything you don\'t feel like addressing in the memory hold. No neighbours can go against the monster narrative of your family.',
-        'Junot Diaz',
-    ],
-    '329933ea-c7db-5aef-9704-12dfd4a69166' => [
-        'I would love to be a travel writer. I\'d be so stoked.',
-        'Drew Barrymore',
-    ],
-    '77703179-f197-5c9b-ae07-82413078999f' => [
-        'The past does not equal the future.',
-        'Anthony Robbins',
-    ],
-    'b2cbf951-4aff-5d02-a7fb-0750447a94c5' => [
-        'Giving back, doing motivational speeches and stuff like that, that\'s always made me feel good. If you repeatedly go out there, and you are the change that you want to see, then that\'s what you are.',
-        'Keke Palmer',
-    ],
-    '2c4b62f0-0978-5167-8071-93dc22f074eb' => [
-        'The people who influence you are the people who believe in you.',
-        'Henry Drummond',
-    ],
-    '00c1c073-c311-510a-a943-fcfbd5527c83' => [
-        'I find being funny very hard work. I am always asked about it, and I feel guilty saying that, but it\'s the truth. I love my work, but it ain\'t easy.',
-        'Madeline Kahn',
-    ],
-    '86c54703-a4a8-51cf-93e8-b7536705ccd5' => [
-        'Arnold Palmer has what I call an \'Eisenhower smile\'. Those two men, they\'d smile and their whole faces would look so pleasant; it was like they were smiling all over.',
-        'Byron Nelson',
-    ],
-    'a9712b8c-e488-57d0-a25b-ae975cd0b9f5' => [
-        'I wish to be appreciated not only as a film star but also for the person I am. If I manage to bring a smile on people\'s faces, then I think I\'ll be successful.',
-        'Deepika Padukone',
+    '8b46f08e-6dce-5b78-86a9-cd433e86e3ec' => [
+        'As an actor, I travel around a lot and live in a lot of hotels, and many times I\'ve been in a town where the only entertainment to be had is what you find in the hotel bar or lobby.',
+        'Beau Bridges',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '9183c12e-cc89-5895-86b5-e8b939119f82' => [
-        'That\'s the thing about awards - it\'s for the people who do all the hard work behind the scenes. An award is just a clap at them.',
-        'Sia',
+    'fa2d4b7d-bdee-5289-89c7-eab8e84e2c06' => [
+        'I used to think that everything was just being funny but now I don\'t know. I mean, how can you tell?',
+        'Andy Warhol',
     ],
-    'e07c2f76-3c1c-5cca-ae68-c6e56ae44a15' => [
-        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
-        'Alek Wek',
+    'd71d06da-58b1-5f7a-81fc-dc5c10192ec8' => [
+        'True leadership lies in guiding others to success. In ensuring that everyone is performing at their best, doing the work they are pledged to do and doing it well.',
+        'Bill Owens',
     ],
-    '581a6011-9cf3-5ffd-bfad-4c846d2ab399' => [
-        'I do love traveling, so I\'ve been able to travel a lot.',
-        'Taylor Lautner',
+    'e73ebac5-7df9-5d98-96d9-460f92340ffe' => [
+        'I couldn\'t wait for success, so I went ahead without it.',
+        'Jonathan Winters',
     ],
-    'ceb0e0a6-fb4c-5635-bce7-4044579a511c' => [
-        'I liked painting and drawing, and I liked humanities mainly - poetry, literature - this speculative attitude toward life.',
-        'Rafael Moneo',
+    'fdb8211c-99c1-5823-a0fe-e52521f98a43' => [
+        'I know that I came into the world with what I call \'big dharma\' - with a blueprint to teach self-reliance and a positive loving approach to large numbers of people all over the globe. I am ever so grateful for the circumstances of my life that allowed me to be pretty much left alone and to develop as I was so intended in this incarnation.',
+        'Wayne Dyer',
     ],
-    '5229672e-530c-5e84-9e4a-9d65fe0e467f' => [
-        'My wish is to stay always like this, living quietly in a corner of nature.',
-        'Claude Monet',
+    '358e5216-3aec-5030-a04b-3926fc1d9d45' => [
+        'It was great fun. We had gone on tour in between the sessions and reconnected with the audience and got a lot of energy back from them, a lot of positive energy.',
+        'Roger Andrew Taylor',
     ],
-    'a3df1292-1339-5f1f-b8f0-6e50b80a5375' => [
-        '\'Yes\' is the mother of all positive words, next to \'love.\' Maybe \'love\' is the father of all positive words.',
-        'Jason Mraz',
+    '30f1f506-d880-5b9f-a460-0149efc638ed' => [
+        'The worst times can be the best if you think with positive energy.',
+        'Domenico Dolce',
     ],
-    'db670b15-43c3-5adc-9480-89694d7f22d1' => [
-        'Be like the flower, turn your face to the sun.',
-        'Kahlil Gibran',
-    ],
-    '2a746932-a188-55b5-9266-7d7c8640ccf9' => [
-        'Chess has given me a lot more than I could ask for. I have been able to feel special, travel the world and do what I truly enjoy. Moreover, chess players love being their own boss and hate having to wake up early!',
-        'Viswanathan Anand',
-    ],
-    '66359dfc-3a0d-5875-9397-819578359efe' => [
-        'That best portion of a man\'s life, his little, nameless, unremembered acts of kindness and love.',
-        'William Wordsworth',
-    ],
-    'd04162db-6479-5fe6-89b0-1d938989528d' => [
-        'When a trait is universal, evolutionary biologists look for a genetic explanation and wonder how that gene or genes might enhance survival or reproductive success.',
-        'Robin Marantz Henig',
-    ],
-    '7e269cec-5828-5031-8213-3d5d408fe109' => [
-        'Whatever the mind of man can conceive and believe, it can achieve.',
-        'Napoleon Hill',
-    ],
-    '07a2a811-3141-52db-8a73-bb00572b7d8f' => [
-        'By refocusing our space program on Mars for America\'s future, we can restore the sense of wonder and adventure in space exploration that we knew in the summer of 1969. We won the moon race; now it\'s time for us to live and work on Mars, first on its moons and then on its surface.',
-        'Buzz Aldrin',
-    ],
-    '86246168-afb0-5c16-9e6e-79c429a23bfc' => [
-        'I started making music... I guess I was 12, and I started playing \'Guitar Hero.\' And you know, it got to a point where on expert, you can only exceed to a certain point. And so, you know, I was like, \'Let\'s play real guitar. Let\'s not waste more time.\' So, I got my mom, I told her to buy me a guitar for Christmas, and I started making music then.',
-        'Post Malone',
-    ],
-    'ba942f1c-9744-55c8-b7ba-782a3bfda06a' => [
-        'Don\'t be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.',
-        'Richard Bach',
-    ],
-    '657cd2bb-8a9f-5eed-9f39-956d8c08c9d8' => [
-        'When a law is in its nature a contract, when absolute rights have vested under that contract, a repeal of the law cannot divest those rights.',
-        'John Marshall',
-    ],
-    '00f685b1-a1f9-51d4-9d32-05567ff5ef45' => [
-        'Your work is to discover your work and then with all your heart to give yourself to it.',
-        'Buddha',
-    ],
-    '1a01cb8e-1724-5edc-91eb-f67bbb33ce0b' => [
-        'A key to achieving success is to assemble a strong and stable management team.',
-        'Vivek Wadhwa',
-    ],
-    '0ff0b727-8757-5a18-b2f2-fc6316f897e5' => [
-        'I tend to like to make my statements more in fashion than in beauty, because what I normally respond to is when someone looks really effortless and deconstructed, beauty-wise, and they\'re fashion is really grand. Someone like Kate Moss is a great example.',
-        'Blake Lively',
-    ],
-    'c1bc4af1-8c93-5542-bc58-f28cb429bbf5' => [
-        'In all my wild mountaineering, I have enjoyed only one avalanche ride; and the start was so sudden, and the end came so soon, I thought but little of the danger that goes with this sort of travel, though one thinks fast at such times.',
-        'John Muir',
-    ],
-    'aa85f577-7e65-54ec-87fc-a16935e6a971' => [
-        'There is nothing happens to any person but what was in his power to go through with.',
-        'Marcus Aurelius',
-    ],
-    '15253bb4-f24b-5b13-8f1e-4cb42755cb96' => [
-        'Watches are the only jewelry men can wear, unless you\'re Mr. T.',
-        'Gordon Bethune',
-    ],
-    'd0e48355-7a87-5e8a-82a2-b70db626c712' => [
-        'My father... gave me a positive connection with men because he is a gentleman.',
-        'Iman',
-    ],
-    '1bc5b12e-3854-512c-be03-8f8fede14883' => [
-        'In a position of utter desolation, when man cannot express himself in positive action, when his only achievement may consist in enduring his sufferings in the right way - an honorable way - in such a position man can, through loving contemplation of the image he carries of his beloved, achieve fulfillment.',
-        'Viktor E. Frankl',
-    ],
-    'd28597b9-6fa6-5597-b92c-16295dcd16f9' => [
-        'Smile, smile, smile at your mind as often as possible. Your smiling will considerably reduce your mind\'s tearing tension.',
-        'Sri Chinmoy',
-    ],
-    'c7a82120-f876-5a3e-b0db-24bcc9c7daf4' => [
-        'Nothing is work unless you\'d rather be doing something else.',
-        'George Halas',
-    ],
-    '70678915-5e9a-5db7-bceb-2a2da3f11bd4' => [
-        'Nothing is a waste of time if you use the experience wisely.',
-        'Auguste Rodin',
-    ],
-    'a7a7093a-10a5-586e-b0f4-6dc5399ff560' => [
-        'Facing the press is not easy, but because you have to go, you have to try to take a lot of positive things for yourself from these face-to-face meetings.',
-        'Jose Mourinho',
-    ],
-    '90318b1b-cc8c-5634-b71b-4999aae1bd67' => [
-        'I wish I had the nerve not to tip.',
-        'Paul Lynde',
-    ],
-    '8de9824f-0961-5113-81c9-12c2e6b429db' => [
-        'When you consider all the stars I have managed, mere submarines make me smile.',
-        'Charles Frohman',
-    ],
-    '3c5623b4-b766-5cb9-a5a0-d5bc71d5369a' => [
-        'I support concrete and progressive immigration reform based on three primary criteria: family reunification, economic contributions, and humanitarian concerns.',
-        'Jeff Bingaman',
-    ],
-    '8d6d8b52-d7d0-5c65-a813-fe1e895444fa' => [
-        'I loved my mom so much because she had to work on a penny just to put food on the table... During the Depression in the United States, everybody had a tough time. And I was so hurt because she was crying that she didn\'t have any food for us for Thanksgiving.',
-        'Tony Bennett',
-    ],
-    'ac23744a-62b4-5978-b0b4-d918b3994061' => [
-        'A successful man is one who can lay a firm foundation with the bricks others have thrown at him.',
-        'David Brinkley',
-    ],
-    '9bb206fa-08b3-599f-85b7-d9c1c17406f2' => [
-        'The thing that can get kind of annoying is, when you travel so much, how hectic it gets. I was being interviewed once - it was a phone interview - and they said, \'Where are you right now?\' and I didn\'t know where I was.',
-        'Manika',
-    ],
-    '6d9c1bdb-bdc4-5826-bb77-a5a3b73e5022' => [
-        'Everything that\'s bad for you catches on too quickly in America, because that\'s the easiest thing to get people to invest in, the pursuits that are easy and destructive, the ones that bring out the least positive aspects of people.',
-        'Gil Scott-Heron',
-    ],
-    '796bea01-a4ef-58ec-96f6-7466db1d7a93' => [
-        'Education is not preparation for life; education is life itself.',
+    'e7965ca1-5b31-59b7-95f3-2e68cfb69dcf' => [
+        'Try to be a rainbow in someone\'s cloud.',
         'Maya Angelou',
     ],
-    '1c5bcb52-15c9-53ef-a466-bbb0d288a967' => [
-        'Deacon Jones has been the most inspirational person in my football career.',
-        'Jack Youngblood',
+    'b841f0ca-5b8e-5bf5-b1f2-29932e193198' => [
+        'You Are Never Too Old To Set Another Goal Or To Dream A New Dream.',
+        'C.S. Lewis',
     ],
-    'bdf06661-601f-5c76-af78-cb6827eede62' => [
-        'One travels to run away from routine, that dreadful routine that kills all imagination and all our capacity for enthusiasm.',
-        'Ella Maillart',
+    '4ae96935-a665-50e2-ba38-6ef984ec592e' => [
+        'I used to travel in tennis shoes; I am just not allowed to anymore. I\'m an old hippie from San Francisco.',
+        'Amy Irving',
     ],
-    'caddc0a7-a7ed-523d-a7f1-b5567c1d0034' => [
-        'The secret of getting ahead is getting started.',
-        'Mark Twain',
+    '270d2b9d-f215-560f-bd43-6c15042c6a50' => [
+        'When I was in high school I used to sit by myself in the cafeteria - not necessarily by choice - but I thought it was funny to talk to people that weren\'t there.',
+        'Zach Galifianakis',
     ],
-    'c302e149-7993-5e01-9ffe-40c96cbd4a49' => [
-        'Enjoy the little things, for one day you may look back and realize they were the big things.',
-        'Robert Brault',
+    '61e82fe0-2b5c-535b-bd1e-12c471c89ef9' => [
+        'I don\'t think a female running a house is a problem, a broken family. It\'s perceived as one because of the notion that a head is a man.',
+        'Toni Morrison',
     ],
-    '261150c4-3268-586e-9f65-da15fa5e0d08' => [
-        'Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.',
-        'Ralph Emerson',
+    'a9dec426-8f3a-5e58-b97c-adec5af88160' => [
+        'This CD became something of a personal journey for me. The tone of the whole CD is uplifting and inspirational. It\'s an upper. We have enough downers in the world.',
+        'Roma Downey',
     ],
-    '9bc3bf0d-2f16-5e67-acf5-2ca0b3572276' => [
-        'I have been overcome by the beauty and richness of our life together, those early mornings setting out, those evenings gleaming with rivers and lakes below us, still holding the last light.',
-        'Anne Morrow Lindbergh',
+    '390f8520-29f3-5f6b-90e6-6a6364354a40' => [
+        'To cherish what remains of the Earth and to foster its renewal is our only legitimate hope of survival.',
+        'Wendell Berry',
     ],
-    'ae3a4bcc-bb25-5398-b800-8e866b6974b8' => [
-        'Science is organized knowledge. Wisdom is organized life.',
-        'Eileen Caddy',
+    '52e8cd11-e6b0-5162-9042-4671e0c59788' => [
+        'Strength to carry on despite the odds means you have faith in your own abilities and know how.',
+        'Byron Pulsifer',
     ],
-    '2cb228b1-8b19-570b-ba02-5b973fc52246' => [
-        'Ignorant men don\'t know what good they hold in their hands until they\'ve flung it away.',
-        'Sophocles',
+    '71cd64a9-ab50-5cad-a835-2785e951cbd1' => [
+        'The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other.',
+        'Sammy Davis, Jr.',
     ],
-    '05e9952c-2270-5e92-a3ad-5f7cacf8f660' => [
-        'Being busy does not always mean real work. The object of all work is production or accomplishment and to either of these ends there must be forethought, system, planning, intelligence, and honest purpose, as well as perspiration. Seeming to do is not doing.',
-        'Thomas A. Edison',
+    'b09c6bad-ad98-5773-942a-d1ecce46f52d' => [
+        'Be prepared, work hard, and hope for a little luck. Recognize that the harder you work and the better prepared you are, the more luck you might have.',
+        'Ed Bradley',
     ],
-    '27cc65ae-a124-5da2-8f4c-8c55aa9a2679' => [
-        'Tact is the ability to describe others as they see themselves.',
-        'Abraham Lincoln',
+    '658b0478-0758-5e15-9b34-0a64271b0b7a' => [
+        'Negative attitude is nine times more powerful than positive attitude.',
+        'Bikram Choudhury',
     ],
-    '64334dd3-e095-5e9d-9ce5-edfc14866ac2' => [
-        'Instead of trying to make your life perfect, give yourself the freedom to make it an adventure, and go ever upward.',
-        'Sophocles',
+    '0feffa18-4bc9-5582-bc3b-c66fe69839db' => [
+        'In family relationships, \'love\' is really spelled \'t-i-m-e,\' time. Taking time for each other is the key for harmony at home.',
+        'Dieter F. Uchtdorf',
     ],
-    'a1048004-910d-59a6-adbb-d3d9ce1d7adb' => [
-        'The glory is being happy. The glory is not winning here or winning there. The glory is enjoying practicing, enjoy every day, enjoying to work hard, trying to be a better player than before.',
-        'Rafael Nadal',
+    '52e49022-6286-50f1-b6ec-69f74fbdfbb3' => [
+        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
+        'Richard Bach',
     ],
-    'fe17017e-abf5-599d-a8b0-07605fa69b41' => [
-        'Myths which are believed in tend to become true.',
-        'George Orwell',
+    'fb65a8c6-9996-50df-807c-1547b4fbb879' => [
+        'Creativity itself doesn\'t care at all about results - the only thing it craves is the process. Learn to love the process and let whatever happens next happen, without fussing too much about it. Work like a monk, or a mule, or some other representative metaphor for diligence. Love the work. Destiny will do what it wants with you, regardless.',
+        'Elizabeth Gilbert',
     ],
-    '877c9bbb-3ef7-5aef-b154-c9551cdb41e2' => [
-        'I play video games a lot... I love to read... I enjoy spending time with my husband and daughter, who are my most favorite people in the world.',
-        'Lea Salonga',
+    'c9c6b7e6-0fa5-5ab7-ad16-8f6aa121af8a' => [
+        'I do like alternative rock and rap, but as far as inspirational, then I go full-on orchestra. It fills up your entire being.',
+        'Osric Chau',
     ],
-    '6d266390-db58-5c2c-870e-50a41313acab' => [
-        'The experience gathered from books, though often valuable, is but the nature of learning; whereas the experience gained from actual life is one of the nature of wisdom.',
-        'Samuel Smiles',
+    'c35fe2cb-552f-5a28-a629-3805f4e19b38' => [
+        'Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success.',
+        'William J. H. Boetcker',
+    ],
+    'df5c9f75-c5d6-5adb-9786-f680ef1486ed' => [
+        'When you think positive, good things happen.',
+        'Matt Kemp',
+    ],
+    'e4e07ae9-98b5-5de6-9ce3-e34638b98450' => [
+        'The will to succeed is important, but what\'s more important is the will to prepare.',
+        'Bobby Knight',
+    ],
+    'cbf1027d-61e5-5712-8f82-df431dcb9981' => [
+        'I do not demand equal pay for any women save those who do equal work in value. Scorn to be coddled by your employers; make them understand that you are in their service as workers, not as women.',
+        'Susan B. Anthony',
+    ],
+    'b41c687b-14be-5d99-bc8f-e337a267c744' => [
+        'My mother was a dominant force in our family. And I always saw her as the leader. And that was great for me as a young woman, because I never saw that women had to be dominated by men.',
+        'Dolores Huerta',
+    ],
+    'd44381c1-f4bc-5eaa-b35e-0e57acc2d737' => [
+        'The glamour of air travel - its aspirational meaning in the public imagination - disappeared before its luxury did, dissipating as flying gradually became commonplace.',
+        'Virginia Postrel',
+    ],
+    '63ddbed8-53e9-54b5-854e-0810758dc0b8' => [
+        'With improv, it\'s a combination of listening and not trying to be funny.',
+        'Kristen Wiig',
+    ],
+    '4fb9c76b-18db-55bf-a591-6d6dcc0c7c20' => [
+        'You have to be confident in who you are and what you\'re doing. Of course, you try to evolve. I would never tell you, \'Today is the best I will ever be.\' I\'m always trying to be a better chef, a better dad, a better person.',
+        'Guy Fieri',
+    ],
+    '41c659c7-6431-550e-9083-9627d421a8a8' => [
+        'Yeah. I\'ve been pretty fortunate to travel I guess, all around the place.',
+        'Ben E. King',
+    ],
+    '4636822a-52ba-5060-87aa-db838105e2d0' => [
+        'My art is an attempt to reach beyond the surface appearance. I want to see growth in wood, time in stone, nature in a city, and I do not mean its parks but a deeper understanding that a city is nature too-the ground upon which it is built, the stone with which it is made.',
+        'Andy Goldsworthy',
+    ],
+    '721efb63-e299-566b-bea1-4bad4e282cc5' => [
+        'Men want a battle to fight, an adventure to live, and a beauty to rescue. That is what is written in their hearts. That is what little boys play at. That is what men\'s movies are about. You just see it. It is undeniable.',
+        'John Eldredge',
+    ],
+    '0c769f91-671a-54a3-ae52-c5042eabd502' => [
+        'We are presented with a unique situation in the black community in that we have embraced the beauty of hip hop, the real rawness of it, the real fun of it, but we also have to address the damage it has done. We have to look at what it\'s done to our black girls, especially when it comes to domestic violence.',
+        'Tamron Hall',
+    ],
+    'b0c79962-6e92-5723-9eae-4b7dd7615fad' => [
+        'No matter how busy you are, you must take time to make the other person feel important.',
+        'Mary Kay Ash',
+    ],
+    '54bc938c-5086-5add-ab76-a162f0fdcfd2' => [
+        'Peace cannot be kept by force. It can only be achieved by understanding.',
+        'Albert Einstein',
+    ],
+    'a51a36ae-a621-599b-9192-5c8adf26a500' => [
+        'The Senator from Massachusetts has given us ample grounds to doubt the judgment and the attitude he brings to bear on vital issues of national security.',
+        'Dick Cheney',
+    ],
+    '216843cf-2ac0-5948-9c20-31c7b0402cba' => [
+        'Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again.',
+        'W. Clement Stone',
+    ],
+    'c9c6058b-3c67-5a2d-b312-b7d4168757b9' => [
+        'Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.',
+        'Bruce Lee',
+    ],
+    'e103002f-a4e3-5326-9143-aeb7b60b7e1b' => [
+        'People who urge you to be realistic generally want you to accept their version of reality.',
+        'Unknown',
+    ],
+    'a29257d5-ac76-539a-a6bc-c97b8c2ace03' => [
+        'If you can\'t be in awe of Mother Nature, there\'s something wrong with you.',
+        'Alex Trebek',
+    ],
+    '70249243-9035-51dd-8b6c-8ae109ccc186' => [
+        'Sometimes not telling people anything is a good thing.',
+        'Jason Myers',
+    ],
+    'f00c1aed-c436-5ba7-87cd-10aa0f592827' => [
+        'Kind words are the music of the world. They have a power which seems to be beyond natural causes, as if they were some angel\'s song, which had lost its way and come on Earth, and sang on undyingly, smiting the hearts of men with sweetest wounds, and putting for the while an angel\'s nature into us.',
+        'Frederick William Faber',
+    ],
+    'b562b11e-f0be-5093-88e2-922e6eb6018c' => [
+        'In June as many as a dozen species may burst their buds on a single day. No man can heed all of these anniversaries; no man can ignore all of them.',
+        'Aldo Leopold',
+    ],
+    '4e4ac83f-42c4-5a37-8725-e55481796933' => [
+        'If ants are such busy workers, how come they find time to go to all the picnics?',
+        'Marie Dressler',
+    ],
+    '196a7abf-d360-5e60-ad64-bb2bb0005990' => [
+        'The same way one tells a recipe, one tells a family history. Each one of us has our past locked inside.',
+        'Laura Esquivel',
+    ],
+    '730d2f39-cc16-51b9-839f-37970181bdb0' => [
+        'I go out there to win. People don\'t care if you die in this business. The only way I get back is with success.',
+        'Michael Bay',
+    ],
+    '430b0fcc-dfe3-58ff-859e-8a73b7ebf929' => [
+        'The ideal attitude is to be physically loose and mentally tight.',
+        'Arthur Ashe',
+    ],
+    'd2b1d20f-325c-5015-b879-0e85c33504fd' => [
+        'Poetry: the best words in the best order.',
+        'Samuel Taylor Coleridge',
+    ],
+    'd4055544-d84a-562f-be2a-f2519248b6e8' => [
+        'Give me the luxuries of life and I will willingly do without the necessities.',
+        'Adam Braun',
+    ],
+    'c4ef3db5-50a4-5c50-b9aa-06129d925026' => [
+        'The further we distance ourselves from the spell of the present, explored by our senses, the harder it will be to understand and protect nature\'s precarious balance, let alone the balance of our own human nature.',
+        'Diane Ackerman',
     ],
 ];

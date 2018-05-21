@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'fefe192d-bc5a-5f57-8a10-1c31dfafb843' => [
-        'If you can kill animals, the same attitude can kill human beings. The mentality is the same which exploits nature and which creates wars.',
-        'Satish Kumar',
+    'fae7e13e-f13e-57d4-8bab-b22b63582a92' => [
+        'The scientific observer of Nature is a kind of mystic seeker in the act of prayer.',
+        'Muhammad Iqbal',
     ],
-    '9b0804f0-adff-5a52-b659-d331c98dd8eb' => [
-        'Spending $1 for a brand new house would feel very, very good. Spending $1,000 for a ham sandwich would feel very, very bad. Spending $19,000 for a small family car would feel, well, more or less right. But as with physical pain, fiscal pain can depend on the individual, and everyone has a different threshold.',
-        'Jeffrey Kluger',
+    '22b9570c-c923-5042-ae5d-518fb6e3cc26' => [
+        'I love grocery shopping when I\'m home. That\'s what makes me feel totally normal. I love both the idea of home as in being with my family and friends, and also the idea of exploration. I think those two are probably my great interests.',
+        'Yo-Yo Ma',
     ],
-    'c5934932-d42d-5eae-ba03-46c45888927e' => [
-        'Life is 10 percent what you make it, and 90 percent how you take it.',
-        'Kourtney Kardashian',
+    '63a9af83-689b-5c05-a026-58195e7001d3' => [
+        'Delicious autumn! My very soul is wedded to it, and if I were a bird I would fly about the earth seeking the successive autumns.',
+        'George Eliot',
     ],
-    'f1bbc1f1-f4d8-52ec-b39b-a648e19e36cb' => [
-        'Silence is a fence around wisdom.',
-        'German proverb',
+    '6422d7b4-e07c-5666-ae02-aa9893e8327a' => [
+        'The best way of removing negativity is to laugh and be joyous.',
+        'David Icke',
     ],
-    '018a758a-4bf5-5acc-a9c0-a1005608af28' => [
-        'I\'m a diplomat by nature. I help find the middle ground. I crack a joke and use humour to help resolve potentially vicious situations quickly. It gets things in perspective and helps everyone to see that things aren\'t as bad as they seem.',
-        'Ronnie Wood',
+    '0500a571-16d1-556c-9a89-9b2117c4e2cd' => [
+        'I think that everything you do helps you to write if you\'re a writer. Adversity and success both contribute largely to making you what you are. If you don\'t experience either one of those, you\'re being deprived of something.',
+        'Shelby Foote',
     ],
-    '7466deb0-882d-5cb8-b615-d48ae3700b33' => [
-        'I had an amazing experience working with great people. I had a great family, a typical family with drama in certain areas, and that\'s pretty much everywhere in everyone\'s life.',
-        'Tina Yothers',
+    '31065267-07ab-50f9-876f-2083353985b7' => [
+        'Background scores allow me an absolute flight of the imagination, and I travel in my mind\'s eye. I do not like the scores to have vocal notes, because they act as a limitation to these flights of fancy.',
+        'Nawazuddin Siddiqui',
     ],
-    'db904d7f-45a4-5b26-a186-8cd5c49001e9' => [
-        'Just because you took longer than others, doesn\'t mean you failed.',
-        'Unknown',
+    'eb30c29f-7efa-5ff7-ae64-6e89ce444ad2' => [
+        'People have a way of becoming what you encourage them to be, not what you nag them to be.',
+        'Scudder N. Parker',
     ],
-    'c2bac1f9-b0aa-5625-b269-7ced631b499e' => [
-        'All nature wears one universal grin.',
-        'Henry Fielding',
+    'b4f53a86-9f7e-509b-b4e1-3c3158cc560d' => [
+        'The things that make me angry still make me angry. George Carlin is 67, and he\'s still as funny as he\'s ever been, and he\'s still angry. And that makes me feel good, because I feel like if I stick around long enough, I\'ll still be able to work.',
+        'Denis Leary',
     ],
-    '37a52854-2e42-5325-b304-bfbf90150f29' => [
-        'Nothing makes me so happy as to observe nature and to paint what I see.',
-        'Henri Rousseau',
+    'e25d74e4-c6a8-5354-b4f8-9d9561b22a8f' => [
+        'We sit in a room for months trying to think of funny things.',
+        'David Walliams',
     ],
-    '078622cb-61dd-54c9-8f33-6761c7b9021a' => [
-        'I never expected any sort of success with \'Mockingbird\'... I sort of hoped someone would like it enough to give me encouragement.',
-        'Harper Lee',
+    '3c774f97-0310-58b0-adc0-d6ce89a7a69e' => [
+        'Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.',
+        'Richard Bach',
     ],
-    '4580a949-5862-5202-aa8e-93297bc70853' => [
-        'That\'s the beauty of education, kids taking lessons out of the classroom and back into their own world where they can positively affect their family, their friends, and their greater community.',
-        'Erin Gruwell',
+    '5fa82c66-f9d9-567c-bd9f-21b25a25f86e' => [
+        'The self is not something ready-made, but something in continuous formation through choice of action.',
+        'John Dewey',
     ],
-    '85209263-7e9b-5313-acff-e78ca77d9f36' => [
-        'And when is there time to remember, to sift, to weigh, to estimate, to total?',
-        'Tillie Olsen',
+    '3bca718c-8f20-52b7-9509-fdf768247f0a' => [
+        'We reached a high point in my opinion with the passage of the civil rights legislation and Martin Luther King\'s success and the crusade of others. I think we kind of breathed a sigh of relief as if we had achieved the end of racial discrimination or white supremacy.',
+        'Jimmy Carter',
     ],
-    '2cb2df25-dcc6-5c82-945b-868852a37150' => [
-        'She gave me a smile I could feel in my hip pocket.',
-        'Raymond Chandler',
+    '8a1055c3-c726-5d5e-bddb-52dffc89db35' => [
+        'Why, I\'d like nothing better than to achieve some bold adventure, worthy of our trip.',
+        'Aristophanes',
     ],
-    '338859fe-5739-5fc1-ac29-de8d39b7dc79' => [
-        'I find that the best way to do things is to constantly move forward and to never doubt anything and keep moving forward, if you make a mistake say you made a mistake.',
-        'John Frusciante',
+    'f6518ec6-48d8-589c-bf32-c883f3476630' => [
+        'Without some goals and some efforts to reach it, no man can live.',
+        'John Dewey',
     ],
-    'c33fbaee-ff4f-52da-90e4-4f038f24ae1d' => [
-        'When I grew up here, there was no T-Hub. Probably, the closest to T was the Tank bund.',
-        'Satya Nadella',
+    '67d1bd8b-7174-5d82-849c-e6405227c09c' => [
+        'I\'m not a DJ, I don\'t know how to scratch and I don\'t know how to mix, but I do know how to party. One of my jobs is actually to travel the world and party.',
+        'Amber Rose',
     ],
-    '17c58e92-6362-5624-b276-b6766f47119b' => [
-        'All things are difficult before they are easy.',
-        'Thomas Fuller',
+    '95a06152-42b3-5e2f-91df-c4df00bfc01d' => [
+        'Time you enjoy wasting, was not wasted.',
+        'John Lennon',
     ],
-    '000b1a46-3272-596a-b7f8-bd161a1f1e7c' => [
-        'The most difficult is the first family, to bring someone out of the world.',
-        'Richard G. Scott',
+    '1114244d-c16d-595c-8f12-0bfb06d6e304' => [
+        'I used my aviation contacts to open a travel agency. I used to book Caribbean flights.',
+        'Joseph Force Crater',
     ],
-    '7c79d879-e5d0-5c68-a6d4-79747a2146b4' => [
-        'Do I believe in coupling? Do I believe in commitment? Do I believe in co-parenting, raising children together, having a family, and growing old with someone? I absolutely believe in all of those things. I just don\'t believe that you need to be married to do that. I love going to weddings, though. I do love a good wedding.',
-        'Laura Wasser',
+    '7a580e6b-7b57-5e92-9eea-d64d3870dc9c' => [
+        'Indeed, I was so afraid to dishonour my friends and family by my indiscreet actions, that I rather chose to be accounted a fool, than to be thought rude or wanton.',
+        'Margaret Cavendish',
     ],
-    'e9f2da03-749a-54ca-8c4e-d85226193f81' => [
-        'No one wants to die. Even people who want to go to heaven don\'t want to die to get there. And yet death is the destination we all share. No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life. It is Life\'s change agent. It clears out the old to make way for the new.',
-        'Steve Jobs',
+    '4d93a208-e287-54ec-98c3-8cdb144d14b2' => [
+        'The successful man doesn\'t use others, other people use the successful man, for above all the success is of service.',
+        'Mark Caine',
     ],
-    'a91139c6-bc33-5fd2-9fcc-965e5a6af681' => [
-        'In Einstein\'s equation, time is a river. It speeds up, meanders, and slows down. The new wrinkle is that it can have whirlpools and fork into two rivers. So, if the river of time can be bent into a pretzel, create whirlpools and fork into two rivers, then time travel cannot be ruled out.',
-        'Michio Kaku',
+    'e54dce8f-1f29-506b-9f80-7b2e2d27efa4' => [
+        'If people ask me for the ingredients of success, I say one is talent, two is stubbornness or determination, and third is sheer luck. You have to have two out of the three. Any two will probably do.',
+        'Fred Saberhagen',
     ],
-    '505bc580-9299-5957-8ecc-1359b41df76f' => [
-        'Bjorn was a different breed, I threw my best material at him, but he would never smile, but that added to the charm when he played me and Mac. We were going nuts and losing our mind and he was sitting back like he was on a Sunday stroll.',
-        'Jimmy Connors',
+    '28e3e1f1-081d-5530-b71e-fe39b6f561c6' => [
+        'It just happened that the course of the campaign went negative we actually went positive for a little over a week and you do the tracking of poll numbers and it hurt us. So the public responded to those type of ads.',
+        'Scott McCallum',
     ],
-    '2ecc8388-5446-5f4d-8cd2-299b2debdd59' => [
-        'Most success springs from an obstacle or failure. I became a cartoonist largely because I failed in my goal of becoming a successful executive.',
-        'Scott Adams',
+    '996e72e5-fbf9-5e0b-b019-80297e78684a' => [
+        'Beauty is not caused. It is.',
+        'Emily Dickinson',
     ],
-    '39824d59-0ab7-53ce-a651-3f05274ca1da' => [
-        'There is no advertisement as powerful as a positive reputation traveling fast.',
-        'Brian Koslow',
+    'b156ae7f-7411-51ee-b640-c7dcde9048c9' => [
+        'Although he\'s no longer with us, Steve Jobs is still inspirational to me, as he managed to find the balance between right brain/left-brain thinking that is crucial to building a creative technology business.',
+        'Imran Amed',
     ],
-    '15ddebd0-e40f-54b7-87f3-7f1e1f96c5f7' => [
-        'Fame or perceived success - it all comes from groupthink.',
-        'Chance The Rapper',
+    '3758fa27-56aa-5fb1-9b78-a340b37969fa' => [
+        'Nature is a mutable cloud which is always and never the same.',
+        'Ralph Waldo Emerson',
     ],
-    'b6a0c9c5-f9cd-581a-b6c4-f4087b6b9e71' => [
-        'People are pretty forgiving when it comes to other people\'s families. The only family that ever horrifies you is your own.',
-        'Douglas Coupland',
+    'ebf89f17-b62a-50d4-9d4d-dcfdd6641ac1' => [
+        'The ferment and viability in any society is directly proportionate to the number of people actively living their ideas. This is not positive thinking - it is positive action: the spirit of experiment.',
+        'Marilyn Ferguson',
     ],
-    'bd261edf-bd19-522f-90c3-4aaa3544af4d' => [
-        'Success is a great deodorant.',
-        'Elizabeth Taylor',
+    '1781aeba-9c2b-58c7-9f94-2401a51f9855' => [
+        'People don\'t appreciate music any more. They don\'t adore it. They don\'t buy vinyl and just love it. They love their laptops like their best friend, but they don\'t love a record for its sound quality and its artwork.',
+        'Laura Marling',
     ],
-    '671cc4d2-cdcb-5b42-857f-f328813c3067' => [
-        'A nice blend of prediction and surprise seem to be at the heart of the best art.',
-        'Wendy Carlos',
+    'f5b53ea6-5741-5141-9d92-bc133fe06c7e' => [
+        'Sometimes words are not needed, and the simplicity of expressing yourself through an art form is one of the best ways of communication.',
+        'Emmanuel Jal',
     ],
-    '5d473974-05ce-557f-a7c1-f39835355f8f' => [
-        'Slavery is founded in the selfishness of man\'s nature - opposition to it is his love of justice. These principles are an eternal antagonism; and when brought into collision so fiercely, as slavery extension brings them, shocks and throes and convulsions must ceaselessly follow.',
-        'Abraham Lincoln',
+    'd71b6ea2-7246-50ed-a2dc-95d1dcddbe33' => [
+        'I don\'t think of myself as a role model. I do try to live in a compassionate, considerate and positive way. The only advice I can offer is to find what you love to do, find the joy in it, and express yourself through your passion.',
+        'Barry Williams',
     ],
-    '8f22fdc9-dec1-5875-bbd3-48a5c9ad1444' => [
-        'I\'m not trying to win an award for being the best vegetarian, just want to be healthy. Take a salt bath. Do things that my parents were never able to do. I\'m blessed to do anything I want, so I decide to take the best care of my body and my family in the same way. Holistically. Vitally.',
-        'Erykah Badu',
+    '79688121-bcb0-5cbf-a0b3-f64d956263d0' => [
+        'There are things so deep and complex that only intuition can reach it in our stage of development as human beings.',
+        'John Astin',
     ],
-    'd108e90e-85d3-5591-a5b4-c9fc2d83af4d' => [
-        'The only time you really live fully is from thirty to sixty. The young are slaves to dreams; the old servants of regrets. Only the middle-aged have all their five senses in the keeping of their wits.',
-        'Theodore Roosevelt',
+    '7561f026-8d58-505a-a51d-d5066ed8e01f' => [
+        'Someone is special only if you tell them.',
+        'Byron Pulsifer',
     ],
-    'c69a0ee2-acb2-5017-ad20-08a151a7511a' => [
-        'Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.',
-        'Stephen Sigmund',
+    '81df80b2-1e84-5fbf-9687-2d26b94e8cd5' => [
+        'Christmas makes me happy no matter what time of year it comes around.',
+        'Bryan White',
     ],
-    '923ecd62-ef8b-5054-8d6f-96b823c0648c' => [
-        'There is a vitality, a life force, an energy, a quickening, that is translated through you into action, and because there is only one of you in all time, this expression is unique.',
-        'Martha Graham',
+    '70c63024-8a90-5bcc-8883-539ae284dd85' => [
+        'I love my family.',
+        'Manute Bol',
     ],
-    'c313f827-6f07-5297-bf1f-03e423b34ba9' => [
-        'The police can\'t protect consumers. People need to be more aware and educated about identity theft. You need to be a little bit wiser, a little bit smarter and there\'s nothing wrong with being skeptical. We live in a time when if you make it easy for someone to steal from you, someone will.',
-        'Frank Abagnale',
+    '816eacba-648d-58c7-97b8-d06f0e49ecb6' => [
+        'Go to Heaven for the climate, Hell for the company.',
+        'Mark Twain',
     ],
-    'eaaac242-1fdc-52c8-8235-d38ce2477400' => [
-        'Your future depends on many things, but mostly on you.',
-        'Frank Tyger',
+    '466e2331-27c3-5fd3-890f-62fa12681373' => [
+        'As we risk ourselves, we grow. Each new experience is a risk.',
+        'Fran Watson',
     ],
-    '99f3d80c-0d89-56b5-a2b2-c236de3bc5e4' => [
-        'Radicals must be resilient, adaptable to shifting political circumstances, and sensitive enough to the process of action and reaction to avoid being trapped by their own tactics and forced to travel a road not of their choosing. In short, radicals must have a degree of control over the flow of events.',
-        'Saul Alinsky',
+    '568dc7d9-02e9-506c-a47c-60051a7694bb' => [
+        'If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.',
+        'Johann Wolfgang von Goethe',
     ],
-    'a6b45428-9299-53e5-bc3b-59eb9f2d41db' => [
-        'The greatest error of a man is to think that he is weak by nature, evil by nature. Every man is divine and strong in his real nature. What are weak and evil are his habits, his desires and thoughts, but not himself.',
-        'Ramana Maharshi',
+    '2ce39311-66eb-57fc-b966-c9b061da4f86' => [
+        'There\'s a beauty in being part of a band, when there\'s equality and trust.',
+        'Scott Weiland',
     ],
-    '9e97193c-f7d6-517b-a6ab-0b87512ecf63' => [
-        'Tough times never last, but tough people do.',
-        'Robert H. Schuller',
+    'a672954c-30d7-5d05-ba21-7b955615fa58' => [
+        'Talent grips us. We are overtaken by the beauty of Michelangelo\'s sculpture, riveted by Mariah Carey\'s angelic voice, doubled over in laughter by the comedy of Robin Williams, and captivated by the on screen performances of Denzel Washington.',
+        'John C. Maxwell',
     ],
-    '80551ff9-44e3-5cf9-b122-2f9e54c4384b' => [
-        'Also, it\'s risky to try to duplicate earlier success. Magician had a certain charm to it, mostly due to my choice of lead characters, that I would be hard put to duplicate.',
-        'Raymond E. Feist',
+    '57dbb369-8f3e-5c99-8fee-c4b7edf15379' => [
+        'Time is a sort of river of passing events, and strong is its current; no sooner is a thing brought to sight than it is swept by and another takes its place, and this too will be swept away.',
+        'Marcus Aurelius',
     ],
-    '0a4e3181-23a9-580d-aed0-9e646f919fa8' => [
-        'Business gives you a massive high. Doing a great deal, coming up with an inspirational solution... It\'s very addictive. But it doesn\'t last long. In isolation, it\'s a bit sterile. It doesn\'t reward the soul.',
-        'John Caudwell',
+    '8791ffb3-5143-53e5-ae0a-4ef367bd1f81' => [
+        'Motivation is what gets you started. Habit is what keeps you going.',
+        'Jim Ryun',
     ],
-    '896dff71-efa2-5213-bedd-2423ae9c0ce4' => [
-        'All water has a perfect memory and is forever trying to get back to where it was.',
-        'Toni Morrison',
+    '73546868-47e5-5cad-9318-f4ec848a3b3e' => [
+        'Love is a chain of love as nature is a chain of life.',
+        'Truman Capote',
     ],
-    'e6b460c2-671e-56f3-be91-1ddde44a5969' => [
-        'If I have to travel, I\'m going to travel my way and travel in the real world. And I\'m going to have conversations every day with people in rest stops and people in gas stations and people in hotels and diners. That nourishes me.',
-        'Neil Peart',
+    '383dbd7b-e859-5dc6-b6ee-114547b8d634' => [
+        'Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.',
+        'Johann Wolfgang von Goethe',
     ],
-    'acb479ce-47f6-5eb0-a431-d2f36daf62ec' => [
-        'In 1985, I was living with my sister in Virginia, and since I was still in high school, I worked at McDonald\'s to save money to get an abortion. It sounds really terrible, but it was the best decision I ever made. It was the first time I took responsibility for my actions. I messed up, had sex without contraception, and got pregnant at 15.',
-        'Kathleen Hanna',
+    'f1e57bd5-40a4-5306-bf46-a651a27dac12' => [
+        'Respectable means rich, and decent means poor. I should die if I heard my family called decent.',
+        'Thomas Mann',
     ],
-    '295876c7-12d9-5138-a781-50d3c753279c' => [
-        'I don\'t rely on feng shui. I believe hard work brings us good luck and success.',
-        'John Gokongwei',
+    'a97498cc-750c-5b35-8ee1-c2b055045857' => [
+        'I like to travel any chance I get, even if it\'s just a local vacation to San Diego or Palm Springs or wherever. I just like to get out and do stuff and see the world.',
+        'Christa B. Allen',
     ],
-    '82926c6e-dea3-59b3-890b-f68cda65272f' => [
-        'I know there\'s millions of problems in the world, but if you dwell on those, then you\'re going to be miserable. I think my meditation helps me to transcend and get beyond the grip of all the negativity and regenerate from within a more positive attitude, which comes in very handy when you\'re going to do 150 concerts a year.',
-        'Mike Love',
+    '6626bfc5-ba2d-56e9-ba6f-dc63c66507dd' => [
+        'I love listening to music on holiday, and back in the old days, I used to travel with cassette tapes and a boombox.',
+        'Art Malik',
     ],
-    'cbe437dc-1964-5943-be1d-1e497f4090eb' => [
-        'You know what? I\'m not always in a positive, happy place. But I\'m able to concentrate enough to come up with a really good song.',
-        'Brian Wilson',
+    '204bba8c-ff72-56bd-9a2d-802aee495949' => [
+        'I think it is a combination of looks, aura, success, the energies that one gives out, the person you are and the person you feel like that makes you \'desirable.\' When the outside world sees you as a man who is responsible for himself and his family, as a man who is fit and sensitive, it kind of ups your desirability.',
+        'Arjun Rampal',
     ],
-    '86287025-9931-5f87-8434-21844d7df462' => [
-        'I enjoy what Twitter is because I can really connect with the fans and it\'s a great way to share information with them and it\'s also a great way to entertain. I like being able to put a smile on people\'s faces and letting them know what I\'m doing.',
-        'Peter Facinelli',
+    'a9016b46-423e-5b86-9514-a978cd0059c9' => [
+        'If you can capture the humanity of a family struggling in an economic crisis you can make a difference. You can raise awareness just of the simple humanity.',
+        'Emily Blunt',
     ],
-    '67935e20-0a5b-5a89-98d4-a426544c7a75' => [
-        'In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.',
-        'Buddha',
+    '1fa9350a-b7b3-5498-817d-592eff1ce830' => [
+        'When performance exceeds ambition, the overlap is called success.',
+        'Cullen Hightower',
     ],
-    '1897b8cb-ebcb-5155-b678-b529be51f615' => [
-        'Success means having the courage, the determination, and the will to become the person you believe you were meant to be.',
-        'George A. Sheehan',
+    'd85c9ffe-c129-599d-b16d-1601b0930e82' => [
+        'You may only succeed if you desire succeeding; you may only fail if you do not mind failing.',
+        'Philippos',
     ],
-    '225d0409-fc29-5463-9f3f-85c6cb6add54' => [
-        'Only those who dare to fail greatly can ever achieve greatly.',
-        'Robert Kennedy',
+    '4c7265cd-332e-59a9-bdb7-2ee53563284c' => [
+        'I don\'t smile much, and I never laugh. If you\'d been through what I\'ve been through, you wouldn\'t be smiling, either.',
+        'Charlie Sifford',
     ],
-    '5a2bb66b-79b6-56fb-97b5-ef20c2df420e' => [
-        'When you\'re climbing with someone who always sees the bright spot, even if there is no bright spot, that attitude is really helpful.',
-        'Kevin Jorgeson',
+    '76e2d919-9a04-5241-99c2-0e26f5dd9b3a' => [
+        'The travel book is a convenient metaphor for life, with its optimistic beginning or departure, its determined striving, and its reflective conclusion. Journeys change travellers just as a good travel book can change readers.',
+        'Rory MacLean',
     ],
 ];

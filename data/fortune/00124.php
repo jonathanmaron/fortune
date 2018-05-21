@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'ed0aa9bd-d8b4-5f73-af9c-26f8582199b1' => [
-        'If you don\'t read it, you don\'t know. I mean, that\'s why I have a PR team. They read it and tell me if there\'s something, and that keeps you focused. I know my family and me well enough; why do I need to read about myself? I\'m not going to change, I\'m very stubborn in this way. I am what I am.',
-        'Anne Wojcicki',
+    'ff3a2617-3ff1-527e-b46f-9e48060fceb9' => [
+        'Right now I just want to chill for a while. Take a hiatus from all the craziness. To clean my house, see my family. Just see some movies and pick some strawberries.',
+        'Lauren Ambrose',
     ],
-    '04e4555e-f95d-569b-a252-cb9e39824270' => [
-        'Time flies like an arrow - but fruit flies like a banana.',
-        'Terry Wogan',
+    '807c878f-8b1c-57f4-9daf-8101659a5b29' => [
+        'Without hurting anybody, we all tend to laugh at others\' discomfort. When someone slips on a banana skin and falls it\'s funny.',
+        'Shah Rukh Khan',
     ],
-    '1de4e983-aa36-5ec6-832e-309cda0f3103' => [
-        'If my writing comes to a halt, I head to the shops: I find them very inspirational. And if I get into real trouble with my plot, I go out for a pizza with my husband.',
-        'Sophie Kinsella',
+    '4ab625a1-cde7-54e4-91c2-097a0842a725' => [
+        'If you don\'t go after what you want, you\'ll never have it. If you don\'t ask, the answer is always no. If you don\'t step forward, you\'re always in the same place.',
+        'Nora Roberts',
     ],
-    'fd998ba0-3396-50d0-8e03-7986a6a2f087' => [
-        'For years, I had a top secret clearance and never left Russia. Just once did I go to Bulgaria with my wife for a holiday at the Golden Sands resort, but I could not mention my real name. I was allowed to travel abroad only in the early 1990s.',
-        'Mikhail Kalashnikov',
+    'b1728c16-4df5-52c2-a5ee-fc8eaa65ed3d' => [
+        'As you become more clear about who you really are, you\'ll be better able to decide what is best for you - the first time around.',
+        'Oprah Winfrey',
     ],
-    'b33ccaf4-6f59-59eb-9cb7-2f9d430f68e1' => [
-        'Sometimes in life, we try to do our very best to help others, and in the process, it brings some anguish to us. But we can\'t ever let that stop us. We can\'t ever be stopped from helping others and allowing them to have some sense of happiness and joy in their life.',
-        'Jon Huntsman, Sr.',
+    '71d8fc38-bb95-5aa4-8dca-7d466f24a420' => [
+        'I want to live and feel all the shades, tones, and variations of mental and physical experience possible in my life. And I am horribly limited.',
+        'Tony Robbins',
     ],
-    '35123fa5-65e0-5989-8976-68a72fa682fc' => [
-        'Society develops wit, but its contemplation alone forms genius.',
-        'Madame de Stael',
+    '59fb5c58-5c3d-5449-aaaf-9682ad1339f7' => [
+        'Success isn\'t everything but it makes a man stand straight.',
+        'Lillian Hellman',
     ],
-    '69c0aca0-76cf-5ea6-8e4f-54942031d709' => [
-        'Half a century ago, the amazing courage of Rosa Parks, the visionary leadership of Martin Luther King, and the inspirational actions of the civil rights movement led politicians to write equality into the law and make real the promise of America for all her citizens.',
-        'David Cameron',
+    '02ebb298-5de5-5df9-a25f-2dbad5e4b51f' => [
+        'Art is the proper task of life.',
+        'Thich Nhat Hanh',
     ],
-    '4c070146-d1fd-5847-9a82-c3bdaeadfe35' => [
-        'I don\'t believe that if you do good, good things will happen. Everything is completely accidental and random. Sometimes bad things happen to very good people and sometimes good things happen to bad people. But at least if you try to do good things, then you\'re spending your time doing something worthwhile.',
-        'Helen Mirren',
+    '7b7e3af1-1a18-5964-8608-97a6d73358a1' => [
+        'Time changes everything except something within us which is always surprised by change.',
+        'Thomas Hardy',
     ],
-    'e5cc515c-3695-5361-b1e0-8c2cc9950392' => [
-        'Excellence encourages one about life generally; it shows the spiritual wealth of the world.',
-        'George Eliot',
-    ],
-    '611ee4d6-437b-54be-a9fe-384eb5aaf009' => [
-        'Comedy is simply a funny way of being serious.',
-        'Peter Ustinov',
-    ],
-    '52d8738d-98cd-535c-880f-562ceacd9404' => [
-        'The productivity of a work group seems to depend on how the group members see their own goals in relation to the goals of the organization.',
-        'Ken Blanchard',
-    ],
-    '120cb302-d108-57aa-b6ea-58cf8f1242ce' => [
-        'Make big plans; aim high in hope and work, remembering that a noble, logical diagram once recorded will not die, but long after we are gone be a living thing, asserting itself with ever-growing insistence.',
-        'Daniel Burnham',
-    ],
-    'a730aa1e-afca-5072-b5d9-ece620088287' => [
-        'A word of encouragement during a failure is worth more than an hour of praise after success.',
-        'Unknown',
-    ],
-    'ec5ab472-ad42-5646-ad15-725c27cf66cd' => [
-        'Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.',
-        'Byron Pulsifer',
-    ],
-    '0e13c722-3027-554a-aa75-1dc856e82c68' => [
-        'It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.',
-        'Leonardo da Vinci',
-    ],
-    'b872b5b8-f8ec-59cb-b0b6-aed5a67ce23a' => [
-        'A day of worry is more exhausting than a week of work.',
-        'John Lubbock',
-    ],
-    '76b7e2e4-e341-5dd1-9cd1-581a19adc907' => [
-        'When I lose the sense of motivation and the sense to prove something as a basketball player, it\'s time for me to move away from the game.',
-        'Michael Jordan',
-    ],
-    'd23bef1a-24e6-5d41-8efb-31c136e00bdf' => [
-        'For me nature is not landscape, but the dynamism of visual forces.',
-        'Bridget Riley',
-    ],
-    '7318322f-8ff4-57b2-97b4-ec1628849d0d' => [
-        'I have an attitude. It\'s what I do. I\'m edgy. I have an attitude.',
-        'Hope Solo',
-    ],
-    '367d56e6-f4df-5cac-8638-62b430f845e4' => [
-        'When you do good work, people will notice you.',
-        'Ram Kapoor',
-    ],
-    '55bccc3b-9f8e-5386-a524-e2a7b68c2721' => [
-        'Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time',
-        'Thomas Edison',
-    ],
-    '266cf872-d833-5084-a5d2-fd7587a272f6' => [
-        'The problem with beauty is that it\'s like being born rich and getting poorer.',
-        'Joan Collins',
-    ],
-    '5197056c-c6e6-5b38-b85e-0d941e6c0a44' => [
-        'Happiness is just a positive perception from our brain. Some days, you will be unhappy. Our brain is a tool we use. It\'s not who we are.',
-        'James Altucher',
-    ],
-    'e5a61e39-0844-501c-8413-dd4743d0cfeb' => [
-        'P is positive emotion, E is engagement, R is relationships, M is meaning and A is accomplishment. Those are the five elements of what free people chose to do. Pretty much everything else is in service of one of or more of these goals. That\'s the human dashboard.',
-        'Martin Seligman',
-    ],
-    '23227f54-f3e1-58f9-a309-1d8e28e951a8' => [
-        'In comic strips, the person on the left always speaks first.',
-        'George Carlin',
-    ],
-    '8ca91719-e6e2-5efc-9a0b-899516634113' => [
-        'To want to be what one can be is purpose in life.',
-        'Cynthia Ozick',
-    ],
-    '14b811fa-06bc-5323-8ae3-798476fbfa50' => [
-        'Life is hard. After all, it kills you.',
-        'Thomas Jefferson',
-    ],
-    'd919adad-9770-5317-9825-099944cc6081' => [
-        'I can\'t travel without Sudoku.',
-        'Robert Ballard',
-    ],
-    'b3b8835e-9fe9-5c20-a571-7c5ce631206a' => [
-        'Most folks are as happy as they make up their minds to be.',
-        'Abraham Lincoln',
-    ],
-    '16e0ec4c-b360-5950-8e02-76661a40b2dd' => [
-        'Challenging the meaning of life is the truest expression of the state of being human.',
-        'Henry David Thoreau',
-    ],
-    '47582805-378b-52b6-b9bd-54b297cd78a2' => [
-        'No one can make you happy. No one can help you grow in life more than you can. I can love you to death, but I can only go so far. I can inspire and encourage you as much as I can, but when you play an active role to find that self-security and that self-worth, it makes the difference.',
-        'Tyler, The Creator',
-    ],
-    '2b460ed6-b806-5202-b380-ccca1e2c1b2f' => [
-        'The only way that we\'re going to feel secure in this country again and that we\'re going to feel good about ourselves is if we use these systems we\'ve put into place to create positive change around the world. I really believe we can do that.',
-        'John Perkins',
-    ],
-    '93424b5a-fa56-57b9-9318-bb174a1a42bc' => [
-        'You can\'t just give someone a creativity injection. You have to create an environment for curiosity and a way to encourage people and get the best out of them.',
-        'Ken Robinson',
-    ],
-    'b86c5a44-4701-51d3-973a-759be06953cb' => [
-        'Each season I find myself constantly inspired by \'The Biggest Loser\' contestants. Their tenacity and willingness to learn new, healthy habits is tremendous and the results speak for themselves. I am honored to be part of such an inspiring program that helps inspire positive change in so many lives.',
-        'Curtis Stone',
-    ],
-    'ddcf1052-a030-57e0-aee9-b9a32842ed04' => [
-        'Just as the mind emerges from the actions of individual neurons and their cooperation, the success of an organization emerges not only from its individual participants, but also from the interplay between them.',
-        'Justin Rosenstein',
-    ],
-    '497f1487-dbb7-5ce7-993c-f6f139657bf3' => [
-        'Creativity is a highfalutin word for the work I have to do between now and Tuesday.',
-        'Ray Kroc',
-    ],
-    'e4db7c52-6907-53e4-b886-5f8d5e086ed6' => [
-        'The only way to discover the limits of the possible is to go beyond them into the impossible.',
-        'Arthur C. Clarke',
-    ],
-    '28e3e1f1-081d-5530-b71e-fe39b6f561c6' => [
-        'It just happened that the course of the campaign went negative we actually went positive for a little over a week and you do the tracking of poll numbers and it hurt us. So the public responded to those type of ads.',
-        'Scott McCallum',
-    ],
-    'fb65a8c6-9996-50df-807c-1547b4fbb879' => [
-        'Creativity itself doesn\'t care at all about results - the only thing it craves is the process. Learn to love the process and let whatever happens next happen, without fussing too much about it. Work like a monk, or a mule, or some other representative metaphor for diligence. Love the work. Destiny will do what it wants with you, regardless.',
-        'Elizabeth Gilbert',
-    ],
-    'a2aee279-f3cd-541b-8b62-b1ff55099e87' => [
-        'When I travel, I always take my Winsor &amp; Newton watercolor kit, which is the size of a pack of cigarettes when folded up. I bought my first one in the 1980s. It was handy to bring on trips, and I packed it into a leather pouch along with a couple of brushes, a pencil, an eraser and paper.',
-        'Susan Minot',
-    ],
-    '6d14fe31-fefb-5e09-8b54-0170c7592502' => [
-        'I know but one freedom and that is the freedom of the mind.',
-        'Antoine de Saint-Exupery',
-    ],
-    '83610349-5794-57fd-824d-74c93b93f528' => [
-        'One way to keep momentum going is to have constantly greater goals.',
-        'Michael Korda',
-    ],
-    '5308d594-6715-5c6a-845f-51c8459de423' => [
-        'The true nature of evil is that it is so very casual.',
-        'James St. James',
-    ],
-    '6522e468-5647-55b0-804b-850398e5460c' => [
-        'In terms of work I\'ve always had a Bad Attitude in that I won\'t work anywhere which requires me to work strict hours or follow a dress code. I don\'t know if that\'s an Asperger\'s thing or not, I think it\'s just being reasonable.',
-        'Bram Cohen',
-    ],
-    '6d937587-2677-5515-84f6-b333b712561d' => [
-        'I think that success is having fun.',
-        'Bruno Mars',
-    ],
-    '07882646-dc44-5535-8e18-2963cc8fb8e4' => [
-        'Travel around the world is amazing. New people. New-found family, really.',
-        'Dhani Jones',
-    ],
-    'e2796839-7d17-5a72-bcb5-97e27ec067fd' => [
-        'It\'s a wonderful time when you sit down around the table for dinner and discuss life. No matter where you are, it gives the semblance of normalcy to my crazy world.',
-        'Melina Kanakaredes',
-    ],
-    'a4314f5d-407d-5253-9526-59dbd0ea9717' => [
-        'I mean, the shoe - there is a music to it, there is attitude, there is sound, it\'s a movement. Clothes - it\'s a different story. There are a million things I\'d rather do before designing clothes: directing, landscaping.',
-        'Christian Louboutin',
-    ],
-    '76bdaf79-9d41-5b2b-98bc-78937edc0ce1' => [
-        'I never understand when people say, \'School days are the best of your life.\' So it\'s all downhill from 16? How depressing.',
-        'Marsha Thomason',
+    '3f614b0b-3a01-58b7-99ef-cddeb277f5c7' => [
+        'I think the word \'pregnant\' is funny.',
+        'Tracy Morgan',
     ],
     '532a52e0-7639-547f-9a01-71f02b2b22a2' => [
         'The smallest act of kindness is worth more than the grandest intention.',
         'Oscar Wilde',
+    ],
+    'ba975e49-fa28-52a9-8183-2f48d18e403d' => [
+        'I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me.',
+        'Rosie O\'Donnell',
+    ],
+    'e40cfbcc-c3bb-5c21-b974-da06b2ece696' => [
+        'In some parts of the world, students are going to school every day. It\'s their normal life. But in other part of the world, we are starving for education... it\'s like a precious gift. It\'s like a diamond.',
+        'Jackee Harry',
+    ],
+    '96d635ef-90d1-597c-8e77-5a50e43342da' => [
+        'Raising children is an uncertain thing; success is reached only after a life of battle and worry.',
+        'Democritus',
+    ],
+    '9f21f730-cc91-5dec-90c5-0df707764c5d' => [
+        'To give hope to someone occurs when you teach them how to use the tools to do it for themselves.',
+        'Byron Pulsifer',
+    ],
+    '018638c7-9fa2-5a5c-9b61-249ff09e81ab' => [
+        'Let us always meet each other with smile, for the smile is the beginning of love.',
+        'Mother Teresa',
+    ],
+    '07d4d0a2-0d9a-5e41-8971-c48c16703044' => [
+        'No matter what kind of challenges or difficulties or painful situations you go through in your life, we all have something deep within us that we can reach down and find the inner strength to get through them.',
+        'Natalie Gulbis',
+    ],
+    'a94bc603-379d-5e22-b800-c346225fe976' => [
+        'I love getting the pontoon boat out, and I don\'t get to do it as much anymore. If I know in two weeks or a month from now I\'ve got three days off, I can start planning for that stuff, getting out there with friends and family and relaxing, just floating around and hanging out.',
+        'Blake Shelton',
+    ],
+    '9bde62cc-9d6b-5ff7-a889-e8520f3e2973' => [
+        'While we try to teach our children all about life, our children teach us what life is all about.',
+        'Angela Schwindt',
+    ],
+    'f894e2a2-f6c1-5f38-8dd8-02dabff3014f' => [
+        'One finds limits by pushing them.',
+        'Herbert Simon',
+    ],
+    'f0d82ebc-da47-5c79-9df9-884c3ffab36c' => [
+        'I have witnessed the softening of the hardest of hearts by a simple smile.',
+        'Goldie Hawn',
+    ],
+    '9c072239-8d62-5499-8c0a-7854046bd26a' => [
+        'Stubborn and ardent clinging to one\'s opinion is the best proof of stupidity.',
+        'Michel de Montaigne',
+    ],
+    '691989ee-be30-53db-84bf-ee7132b643ce' => [
+        'Mankind is made great or little by its own will.',
+        'Friedrich Schiller',
+    ],
+    'dfee9cad-1498-5189-a6f1-e89ede09f0ed' => [
+        'Every job is good if you do your best and work hard. A man who works hard stinks only to the ones that have nothing to do but smell.',
+        'Laura Ingalls Wilder',
+    ],
+    'd759e77c-28a8-5e21-a5a0-ae1b058eb8b2' => [
+        'The tree which moves some to tears of joy is in the eyes of others only a green thing that stands in the way. Some see nature all ridicule and deformity... and some scarce see nature at all. But to the eyes of the man of imagination, nature is imagination itself.',
+        'William Blake',
+    ],
+    'c3dff726-a37e-5cfe-adb9-31df48c1cd7c' => [
+        'All you have in comedy, in general, is just going with your instincts. You can only hope that other people think that what you think is funny is funny. I don\'t have an answer but I just try to plough straight ahead.',
+        'Will Ferrell',
+    ],
+    '0f3d5c75-da0b-545d-a604-e7609c22ef0b' => [
+        'We Generate Fears While We Sit. We Overcome Them By Action.',
+        'Dr. Henry Link',
+    ],
+    'c89845af-5f38-5b7e-b5c1-791b6066d3b3' => [
+        'I\'ve given it my all. I\'ve done my best. Now, I\'m ready with my family to begin the next phase of our lives.',
+        'Richard M. Daley',
+    ],
+    'd83b7f16-7dbf-56af-be62-314c8a483e58' => [
+        'When I\'ve had hard times in my life, the one thing about being in TV is that it\'s positive. I withdrew to \'Cheers,\' it was familiar in that it was family. It had a kind of realistic positiveness to it.',
+        'Bruno Heller',
+    ],
+    '86a72950-7fef-52a5-8330-f1901c6ddf08' => [
+        'If there\'s any message to my work, it is ultimately that it\'s OK to be different, that it\'s good to be different, that we should question ourselves before we pass judgment on someone who looks different, behaves different, talks different, is a different color.',
+        'Johnny Depp',
+    ],
+    'f3042d1b-327a-55f3-b049-1999d11d496b' => [
+        'Human nature is potentially aggressive and destructive and potentially orderly and constructive.',
+        'Margaret Mead',
+    ],
+    '6690cc17-3149-5194-bdff-56b0615f829e' => [
+        'Social media reactions to celebrity death have taken on a predictable pattern: an outpouring of shock with expressions of grief, followed by a ghoulish need to know all the details, to see the scene of the death and the family in mourning. Then a post-mortem dissection of all the perceived flaws the celebrity had.',
+        'Jennifer Armintrout',
+    ],
+    'f6742fc5-05ea-5d9d-b67c-44affd9a4e74' => [
+        'Cute is when a person\'s personality shines through their looks. Like in the way they walk, every time you see them you just want to run up and hug them.',
+        'Natalie Portman',
+    ],
+    '29ef9e11-3d07-512f-a266-3bfd70b1e47d' => [
+        'Before success comes in any man\'s life, he\'s sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That\'s exactly what the majority of men do.',
+        'Napoleon Hill',
+    ],
+    '0f033700-6961-53b6-b28a-36ed8e0ec93f' => [
+        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that\'s why they call it the present.',
+        'Unknown',
+    ],
+    '4eda0f5b-5bd3-5d29-862c-6f85c3ffeee3' => [
+        'Every day, people serve their neighbors and our nation in many different ways, from helping a child learn and easing the loneliness of those without a family to defending our freedom overseas. It is in this spirit of dedication to others and to our country that I believe service should be broadly and deeply encouraged.',
+        'John McCain',
+    ],
+    '27c674fd-5768-5810-af07-d6c802bdb0aa' => [
+        'Photography records the gamut of feelings written on the human face, the beauty of the earth and skies that man has inherited, and the wealth and confusion man has created. It is a major force in explaining man to man.',
+        'Edward Steichen',
+    ],
+    'ac3a1449-91f8-5d7c-99a2-666e45d9c2dc' => [
+        'Clarity is the most important thing. I can compare clarity to pruning in gardening. You know, you need to be clear. If you are not clear, nothing is going to happen. You have to be clear. Then you have to be confident about your vision. And after that, you just have to put a lot of work in.',
+        'Diane von Furstenberg',
+    ],
+    'f2d17e64-3b77-523a-846d-bac6a5b07a16' => [
+        'I\'m 42 and the age of a guy who has kids, so I guess I\'m playing right where I\'m supposed to be. I\'m comfortable with that, but in the same breath I\'d do something edgy. If someone came to me and offered me an edgy and funny story, then I\'d do it.',
+        'Eddie Murphy',
+    ],
+    'ce399b86-e579-586a-bcbc-20c738f951ee' => [
+        'To be what we are, and to become what we are capable of becoming, is the only end of life.',
+        'Robert Stevenson',
+    ],
+    'eab417cc-b66f-5536-a4e6-e22def704063' => [
+        'What\'s great about collaborating is getting to work with wonderful people. That\'s what theatre is about: other people getting you to give your best, and getting everyone else\'s best out of them.',
+        'Jason Robert Brown',
+    ],
+    '9317f9cc-3b83-5fbe-bf96-b0579d5040ec' => [
+        'I\'d rather have huge success and huge failures than travel in the middle of the road.',
+        'Kevyn Aucoin',
+    ],
+    'a3d32954-4bc2-5066-8d93-dbea82f20aec' => [
+        'I have a simple philosophy: Fill what\'s empty. Empty what\'s full. Scratch where it itches.',
+        'Leonardo DiCaprio',
+    ],
+    '060a8af2-d732-56c1-916a-7b18ca1681b3' => [
+        'Life is much shorter than I imagined it to be.',
+        'James M. Barrie',
+    ],
+    '544d2f64-561e-58f5-a015-7ca68df495bf' => [
+        'When you show deep empathy toward others, their defensive energy goes down, and positive energy replaces it. That\'s when you can get more creative in solving problems.',
+        'Stephen Covey',
+    ],
+    '7185b9cd-50e4-5aae-9e45-212210702ba9' => [
+        'Cautious, careful people, always casting about to preserve their reputations can never effect a reform.',
+        'Susan B. Anthony',
+    ],
+    'ad0ceb8c-e851-52a3-87b5-f657ad94b712' => [
+        'For me, forgiveness and compassion are always linked: how do we hold people accountable for wrongdoing and yet at the same time remain in touch with their humanity enough to believe in their capacity to be transformed?',
+        'bell hooks',
+    ],
+    '8888e3b2-b820-5668-a6bb-66b039a1054b' => [
+        'I believe in being positive.',
+        'Joe Greene',
+    ],
+    'efd8e5c6-694e-598e-9c83-8638473b4dc8' => [
+        'Success is when you see something, and you say, \'I want to do that,\' and then you do it. It\'s being happy with what you do and doing what you love every day.',
+        'Alessia Cara',
+    ],
+    'ea8d51a9-b0ed-56f3-a0e7-5c5d86389f51' => [
+        'I\'m a clown, which could be a public health role. I\'m really interested in moving our society away from a society needing Xanax and Prozac, and that is really feeling depressed, to one that is celebrating, and so I find just walking around in colorful clothes, people smile.',
+        'Patch Adams',
+    ],
+    '82442d34-23b0-5eeb-9614-db45174ec4f4' => [
+        'Life\'s like a movie, write your own ending. Keep believing, keep pretending.',
+        'Andrew Jackson',
     ],
 ];

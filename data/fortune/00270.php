@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '5bcace56-d719-5fe8-b826-9fd0199a311b' => [
-        'These things will destroy the human race: politics without principle, progress without compassion, wealth without work, learning without silence, religion without fearlessness and worship without awareness.',
-        'Anthony de Mello',
+    '0542b946-60b9-5bc9-8e32-7570ac82894f' => [
+        'If somebody asked me about my inspiration I would say that it\'s not the peopleand it\'s not the things, it\'s travel and experiencing different environments.',
+        'Marc Newson',
     ],
-    'a4fcea60-9ef6-5041-8ffb-cf8eea78f6d3' => [
-        'Purity and simplicity are the two wings with which man soars above the earth and all temporary nature.',
-        'Thomas a Kempis',
+    '96582aff-cfb2-5cb9-8d06-5a6f3ac8fd1b' => [
+        'Thought is the wind, knowledge the sail, and mankind the vessel.',
+        'Augustus Hare',
     ],
-    '1ee33c70-9a1c-58cb-96e0-18cefbe50b6e' => [
-        'The job market of the future will consist of those jobs that robots cannot perform. Our blue-collar work is pattern recognition, making sense of what you see. Gardeners will still have jobs because every garden is different. The same goes for construction workers. The losers are white-collar workers, low-level accountants, brokers, and agents.',
-        'Michio Kaku',
+    '580c644c-78cd-5e98-8ed2-1ef176414eb3' => [
+        'Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.',
+        'Albert Einstein',
     ],
-    '251e1239-62c1-5230-bd8d-0a809c856e56' => [
-        'At his best, man is the noblest of all animals; separated from law and justice he is the worst.',
-        'Aristotle',
+    '97830ab8-0504-5ad9-b5b2-c229ee022eb3' => [
+        'I\'ve always surrounded myself with funny people.',
+        'Leslie Mann',
     ],
-    'c1e4f2cc-88a6-5989-a4ed-b51ee53d80c0' => [
-        'We must not allow ourselves to become like the system we oppose.',
-        'Bishop Desmond Tutu',
+    '78690347-d9c6-57b1-adbd-6c92acd6d094' => [
+        'The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.',
+        'Eckhart Tolle',
     ],
-    '3656554a-7bee-5aa5-b159-7197a02ea522' => [
-        'Baseball gives every American boy a chance to excel, not just to be as good as someone else but to be better than someone else. This is the nature of man and the name of the game.',
-        'Ted Williams',
+    'ead9e189-8c4a-5786-a550-2e754f8ea42b' => [
+        'I can remember that on the shelves at home, there were these books by Thomas Wolfe. \'Look Homeward Angel\' and \'Of Time and the River.\' \'Of Time and the River\' had just come out when I was aware of his name. My parents had a hard time convincing me that he was no kin whatsoever. My attitude was, \'Well, what\'s he doing on the shelf, then?\'',
+        'Tom Wolfe',
     ],
-    'c5ee23b6-8649-581b-8fed-693e526fe376' => [
-        'You are educated. Your certification is in your degree. You may think of it as the ticket to the good life. Let me ask you to think of an alternative. Think of it as your ticket to change the world.',
-        'Aaron Rodgers',
+    'b2497f2d-041b-5eb7-befd-8c1823b86728' => [
+        'All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.',
+        'Kathleen Norris',
     ],
-    'acf373d8-c984-5895-8130-085a0c0dadc6' => [
-        'I wake up every morning and I feel like I\'m juggling glass balls. I live in Los Angeles, my business is run out of London, and most evenings I\'m cuddled up in front of Skype, in my dressing gown, speaking with my studio in London. I travel a lot, my team travel a lot, but I wouldn\'t have it any other way.',
-        'Victoria Beckham',
-    ],
-    '5db0c6bd-dc9b-5d68-ba72-fba92efe83e0' => [
-        'If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.',
-        'Bruce Lee',
-    ],
-    '5d30e5a6-838e-5791-92e6-2b12e625b1d9' => [
-        'I just live life. I grew up in a Christian family, but, you know, the way Mom brought me up is to, you know, do you, to always be yourself.',
-        'Tyler, The Creator',
-    ],
-    '9fffa250-d31c-5990-8569-1e332fbd5cc5' => [
-        'Normally, it takes me about three years to write one of the big books. It is usually four years between releases because of the huge amount of travel and PR and just nuisance going on around them. I have a lot of pressure from publishers and agents.',
-        'Diana Galbadon',
-    ],
-    'cafd0476-ed4f-5466-b241-cdc7a15530b5' => [
-        'The Analytical Engine does not occupy common ground with mere \'calculating machines.\' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.',
-        'Ada Lovelace',
-    ],
-    'ef04a934-c2ce-5d10-ba38-19fbfc75071d' => [
-        'Nature is my springboard. From her I get my initial impetus. I have tried to relate the visible drama of mountains, trees, and bleached fields with the fantasy of wind blowing and changing colors and forms.',
-        'Milton Avery',
-    ],
-    '3c56ed1f-2553-5349-a6c8-fd820cccb532' => [
-        'Actors are supposed to be these runaways that get in a covered wagon filled with hats and tambourines and go from town to town making people smile.',
-        'John Cho',
-    ],
-    'd10f13c5-6407-58f2-8bcc-6cde127110d7' => [
-        'I feel that the simplicity of life is just being yourself.',
-        'Audrey Hepburn',
-    ],
-    '040e90f2-9533-5551-b9c0-6ffea2cf8829' => [
-        'In an era in which war and terrorism - at home and abroad - are often based on racial, religious and ethnic differences, rediscovering the wisdom of love and compassion may help us increase our survival at a time when an increasingly divided country and world so badly need it.',
-        'Dean Ornish',
-    ],
-    'f8734901-c5a9-5723-a822-5767091c7e9a' => [
-        'In raising children, we need to continuously keep in mind how we can best create the most favorable environment for their imitative behavior. Everything done in the past regarding imitation must become more and more conscious and more and more consciously connected with the future.',
-        'Rudolf Steiner',
-    ],
-    '8d0cfaf9-6cc1-5c18-a1d3-cf7dd6176156' => [
-        'Every time you walk down the street people are screaming, \'You\'re fired!\'',
-        'Donald Trump',
-    ],
-    '186ca0b5-8abd-5856-9f45-642db7645049' => [
-        'A good part of my leadership skills is crafted from learning from experiences early in my career that were not positive experiences.',
-        'John Lasseter',
-    ],
-    'd3ad5ec4-d2c9-56af-83ab-49f1fb674f73' => [
-        'I do a lot of inspirational talks for kids, to motivate them to change their lives and give them hope.',
-        'Adam Beach',
-    ],
-    'daab1c29-46b1-55a2-84f3-efd9c456a145' => [
-        'The most important single ingredient in the formula of success is knowing how to get along with people.',
+    'a7043ec2-bebb-55e2-a727-2c65e018f8ef' => [
+        'My trade and art is to live.',
         'Theodore Roosevelt',
     ],
-    'aeda8a14-a4dc-58d9-b7c7-48190368329a' => [
-        'I just feel like people like a little break. Especially at 12:37 at night, you go, like, \'I\'m just tired of the snarky right now. I just want to lie down and have somebody make me laugh for an hour. Entertain me, and then I\'m going to sleep with a smile on my face.\' That\'s my job; that\'s what I do.',
-        'Jimmy Fallon',
+    '28834756-0b61-5877-92b4-e2328da08653' => [
+        'How long you can continue to be good at something is how much you believe in yourself and how much hard work you do with the training.',
+        'Jason Statham',
     ],
-    'aeae7492-18e9-5876-be1b-bad12c8ba58e' => [
-        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
-        'John P. Kotter',
+    'b66ba5bf-fd12-52a7-9d0f-afd03d3dd2e0' => [
+        'Slow down and enjoy life. It\'s not only the scenery you miss by going to fast - you also miss the sense of where you are going and why.',
+        'Sasha Cohen',
     ],
-    '8801edbe-3ebc-5480-9ab2-512022baf089' => [
-        'For I must tell you that we artists cannot tread the path of Beauty without Eros keeping company with us and appointing himself as our guide.',
-        'Thomas Mann',
+    'b5e54379-2c09-5ace-b58b-8a3163b36a68' => [
+        'My mother and my father have been married 50 years, and he\'s just started to understand that something\'s wrong with the system. He accepted the whole thing, you see. Yet this industrious kind of engagement didn\'t bring him the success, according to American terms, that he wanted. I was probably affected by this very much. In fact, I know I was.',
+        'Huey Newton',
     ],
-    'a9016b46-423e-5b86-9514-a978cd0059c9' => [
-        'If you can capture the humanity of a family struggling in an economic crisis you can make a difference. You can raise awareness just of the simple humanity.',
-        'Emily Blunt',
+    '759bfab3-c14e-5754-a1a9-4a435e869320' => [
+        'A man\'s got to take a lot of punishment to write a really funny book.',
+        'Ernest Hemingway',
     ],
-    '3fe8362b-9091-535e-abe2-97dcb05b455c' => [
-        'No one can possibly know what is about to happen: it is happening, each time, for the first time, for the only time.',
-        'James A. Baldwin',
+    '19a5ab56-c025-524a-82fa-bc90c360a0a7' => [
+        'I have been honoured to serve the whales, dolphins, seals - and all the other creatures on this Earth. Their beauty, intelligence, strength, and spirit have inspired me.',
+        'Paul Watson',
     ],
-    'f18ca873-b7c4-5750-b761-9dc754199b01' => [
-        'We submit to the majority because we have to. But we are not compelled to call our attitude of subjection a posture of respect.',
-        'Ambrose Bierce',
+    'c893338f-6cb7-54cd-9b0b-7df73029c832' => [
+        'While you\'re going through this process of trying to find the satisfaction in your work, pretend you feel satisfied. Tell yourself you had a good day. Walk through the corridors with a smile rather than a scowl. Your positive energy will radiate. If you act like you\'re having fun, you\'ll find you are having fun.',
+        'Jean Chatzky',
     ],
-    '9b94b3fb-9f05-5a6a-bf85-4a45dcda7055' => [
-        "Acting like you don\u{92}t care is not letting it go",
-        'Penelope Douglas',
+    '4d13ee9c-5f77-5142-9633-3f59052e7bd1' => [
+        'Follow your instincts. That is where true wisdom manifests itself.',
+        'Oprah Winfrey',
     ],
-    'adf07116-6568-5192-ac42-f176db44d01b' => [
-        'One\'s appearance bespeaks dignity corresponding to the depth of his character. One\'s concentrated effort, serene attitude, taciturn air, courteous disposition, thoroughly polite bearing, gritted teeth with a piercing look - each of these reveals dignity. Such outward appearance, in short, comes from constant attentiveness and seriousness.',
-        'Yamamoto Tsunetomo',
+    '5a95a480-041d-58d3-a01e-90588e2dfd34' => [
+        'I grew up skateboarding; it was fun. I didn\'t think about money, I didn\'t know how much professional skateboarders made. I just knew that if I became a professional skateboarder, I would achieve a lot and get to travel and do these great things.',
+        'Jason Lee',
     ],
-    'd374be00-961e-5cfb-bb4d-c6162bf6ef73' => [
-        'Nature is wont to hide herself.',
-        'Heraclitus',
+    'b061b20e-ee66-5718-9fe6-8a61be797de8' => [
+        'I don\'t want any title. I just say what I say, and hopefully somebody gets it, man. I\'m not perfect, and I\'m just here and trying to make a dollar, and being real at the same time, you know?',
+        'Nas',
     ],
-    '0f188302-bdec-5949-b0e4-f9a17da6f302' => [
-        'Family traditions counter alienation and confusion. They help us define who we are; they provide something steady, reliable and safe in a confusing world.',
-        'Susan Lieberman',
-    ],
-    '4ec2c1d5-6af3-5a15-b70d-0576da96ef5e' => [
-        'I think goals should never be easy, they should force you to work, even if they are uncomfortable at the time.',
-        'Michael Phelps',
-    ],
-    'e2f73cf8-9477-5336-91ae-204ef6c4d2b1' => [
-        'We have it in our power to begin the world over again.',
-        'Thomas Paine',
-    ],
-    'cbff0a2c-f8df-51f1-980e-ae86b5f7a63b' => [
-        'Champions extend their limits and make things happen.',
-        'Amit Ray',
-    ],
-    '3a7e33aa-e818-56f6-a17c-e2e395f17e31' => [
-        'It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.',
-        'Jessamyn West',
-    ],
-    '25248b8f-661b-5ee2-bcbb-e0091f498081' => [
-        'The ultimate value of life depends upon awareness and the power of contemplation rather than upon mere survival.',
-        'Cindy Morgan',
-    ],
-    '0b07ec6b-b692-596c-a154-f9b37ceda968' => [
-        'The American attitude towards efficiency and execution should always underlie architecture.',
-        'Helmut Jahn',
-    ],
-    '9bc90d7a-ff69-5013-bcb1-b93c4954158d' => [
-        'I intend to live life, not just exist.',
-        'Brooke Shields',
-    ],
-    'f436ccc2-c618-5796-8752-f9979b631719' => [
-        'The American Dream is still alive out there, and hard work will get you there. You don\'t necessarily need to have an Ivy League education or to have millions of dollars startup money. It can be done with an idea, hard work and determination.',
-        'Bill Rancic',
-    ],
-    '16b18b24-6aa0-52a7-9cad-a52e332ba3b2' => [
-        'One of the rewards of success is freedom, the ability to do whatever you like.',
-        'Sting',
-    ],
-    '46f49890-e33f-5fde-a704-c338a899b774' => [
-        'Life is a journey. When we stop, things don\'t go right.',
-        'Marianne Vos',
-    ],
-    '6b20a606-5997-5281-b1ef-1943066e9e04' => [
-        'Art is contemplation. It is the pleasure of the mind which searches into nature and which there divines the spirit of which nature herself is animated.',
-        'Auguste Rodin',
-    ],
-    '50d15c78-a51c-5711-bd8b-91281efb2c17' => [
-        'If you\'re not willing to work hard, let someone else do it. I\'d rather be with someone who does a horrible job, but gives 110% than with someone who does a good job and gives 60%.',
-        'Will Smith',
-    ],
-    'ef77ab90-e03e-5c22-8ecd-69f0790f277c' => [
-        'I don\'t think of all the misery but of the beauty that still remains.',
-        'Anne Frank',
-    ],
-    '4064be29-14e0-5aca-9515-115a58feb89d' => [
-        'There is a role and function for beauty in our time.',
-        'Tadao Ando',
-    ],
-    '745adf6f-f84f-58b9-86a5-ba7a52658f0e' => [
-        'I wasn\'t the kind of kid who would get A\'s without even trying. I had to work to get good grades, but I was very organised about it because I always wanted to do well at everything I did. I\'m very competitive.',
-        'Jessica Ennis',
-    ],
-    'dabcac69-0d84-5cfe-83a9-eeb9655d0c16' => [
-        'The majority of people who get in the sport of gymnastics do not go to the Olympics or get a Division 1 scholarship, but it doesn\'t mean that they can\'t get something positive from the sport.',
-        'Dominique Dawes',
-    ],
-    '22a0fb0a-56c6-5f31-96de-f11a5c4db0ff' => [
-        'One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.',
-        'Albert Schweitzer',
-    ],
-    '5c94d2b9-880f-5908-97f7-613c6fa62556' => [
-        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.',
+    '8df6de54-f0f3-50a8-a4e5-29620c7a3ed6' => [
+        'Life is a journey and it\'s about growing and changing and coming to terms with who and what you are and loving who and what you are.',
         'Buddha',
     ],
-    'c9baba8c-b3e4-55a9-b9ae-54d5f8cb6ee8' => [
-        'To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.',
-        'Plato',
+    'bef2a1a7-df15-53a0-9990-b3bcdf1d71bc' => [
+        'Life is never fair, and perhaps it is a good thing for most of us that it is not.',
+        'Elizabeth Esty',
+    ],
+    'ada6e4a0-933f-5441-a615-65a13c15af22' => [
+        'I think somehow we learn who we really are and then live with that decision.',
+        'Eleanor Roosevelt',
+    ],
+    'f34a7924-d589-56bb-8590-f78c95c1e2cb' => [
+        'A smile is a facelift that\'s in everyone\'s price range!',
+        'Tom Wilson',
+    ],
+    '00aadbc2-0a88-5520-a552-e2dd9f93af27' => [
+        'Give me six hours to chop down a tree and I will spend the first four sharpening the axe.',
+        'Abraham Lincoln',
+    ],
+    '3a609b9c-409a-5037-a7cd-ce773ab8b0b2' => [
+        'There is a beauty and clarity that comes from simplicity that we sometimes do not appreciate in our thirst for intricate solutions.',
+        'Dieter F. Uchtdorf',
+    ],
+    'e42f2932-a42a-503d-af00-8fd39899ff6b' => [
+        'The main difference in the effectiveness of teaching comes from the thoughts the teacher has had during the entire time of his or her existence and brings into the classroom. A teacher concerned with developing humans affects the students quite differently from a teacher who never thinks about such things.',
+        'Rudolf Steiner',
+    ],
+    '20ced5bf-7465-57a6-9406-b2449aa676a3' => [
+        'In my family, growing up, the women were always the ones who were powerful, and they exuded this charisma of empowerment that I hold onto and always remember. I had some difficult times, but these strong women were always a constant.',
+        'Mickalene Thomas',
+    ],
+    '50b96358-ec6e-52d1-b8ea-5b2fbc16db1c' => [
+        'To explain all nature is too difficult a task for any one man or even for any one age. \'Tis much better to do a little with certainty &amp; leave the rest for others that come after you.',
+        'Isaac Newton',
+    ],
+    '1ba36341-9f8c-560e-a1a4-c40146185093' => [
+        'I see myself as no color. I can play the role of a man. I can paint my face white if I want to and play the role of white. I can play a green, I can be a purple. I think I have that kind of frame and that kind of attitude where I can play an animal.',
+        'Grace Jones',
+    ],
+    '95d73c0b-3598-59ac-bb84-20e2a422489a' => [
+        'The key to education is the experience of beauty.',
+        'Friedrich Schiller',
+    ],
+    '0aa17bf0-6546-5090-bafb-eb39cf37adb4' => [
+        'Good ideas are like Nike sports shoes. They may facilitate success for an athlete who possesses them, but on their own they are nothing but an overpriced pair of sneakers. Sports shoes don\'t win races. Athletes do.',
+        'Felix Dennis',
+    ],
+    '42ffd241-dbf1-5dce-a070-51d2351fbb06' => [
+        'The beauty of our country is that when it was founded that they took some time to lay out civil liberties in the first 10 Amendments - the Bill of Rights. I\'m a firm believer in those civil liberties and the ability to have your own opinion.',
+        'Aaron Rodgers',
+    ],
+    '4e265850-3f0f-5a50-be3d-4761bc6fb986' => [
+        'Our attitudes control our lives. Attitudes are a secret power working twenty-four hours a day, for good or bad. It is of paramount importance that we know how to harness and control this great force.',
+        'Irving Berlin',
+    ],
+    '88878b63-b943-55ef-ade7-630e69609ea8' => [
+        'Everyone and everything that shows up in our life is a reflection of something that is happening inside of us.',
+        'Frank Abagnale',
+    ],
+    'c0f28d94-11c0-5eb4-bf93-e0a7a31ce0c4' => [
+        'My dad was my best friend and greatest role model. He was an amazing dad, coach, mentor, soldier, husband and friend.',
+        'Tiger Woods',
+    ],
+    '968d2dd1-372d-55d4-92a7-7fa4b210e433' => [
+        'Art is beauty, the perpetual invention of detail, the choice of words, the exquisite care of execution.',
+        'Theophile Gautier',
+    ],
+    '306ce0da-4fc3-575a-b1e3-b30f9f07447f' => [
+        'Prosperity depends more on wanting what you have than having what you want.',
+        'Geoffrey F. Abert',
+    ],
+    '7fee0f8a-4c70-5105-82a1-e647d7c5e459' => [
+        'Anyone who can walk to the welfare office can walk to work.',
+        'Al Capp',
+    ],
+    '1e10261f-5393-598b-8710-77308664d9d3' => [
+        'The attitude is we live and let live. This is actually an amazing change in values in a rather short time and it\'s an example of freedom from religion.',
+        'Tom Wolfe',
+    ],
+    '99b33688-bd2f-5b35-85a3-605319e7a1db' => [
+        'If you go around being afraid, you\'re never going to enjoy life. You have only one chance, so you\'ve got to have fun.',
+        'Al Lopez',
+    ],
+    '8f698a42-ca09-5814-8a9e-d4744330b071' => [
+        'I just want to show the fans my big smile and play the game that I love.',
+        'Yani Tseng',
+    ],
+    '095ed3de-2210-58ed-8567-052795f8af87' => [
+        'Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.',
+        'Lord Byron',
+    ],
+    '2d0bc083-7535-5bfe-89bd-942ea87b61b9' => [
+        'I have a couple of go-to sneakers off the pitch. I like to have shoes that I can slip on and wear with anything. I travel often, so it\'s about finding those two or three pairs of shoes that can go with any outfit, whether they go with leggings or a skirt or a dress or jeans.',
+        'Alex Morgan',
+    ],
+    'a1721e8e-3f6c-5fac-b0eb-a10c20ab864f' => [
+        'I don\'t follow anything blindly. I have to know the entire thing, if I have to get in to it. It might sound funny to you, but it\'s like using English language. I use an English word only when I know its meaning and understand its connotation. You won\'t hear me say, \'What\'s up, dude\' or anything like that just for the heck of it.',
+        'Kailash Kher',
+    ],
+    '055cf091-2bdd-52b1-8935-5528576709e1' => [
+        'Some people would claim that things like love, joy and beauty belong to a different category from science and can\'t be described in scientific terms, but I think they can now be explained by the theory of evolution.',
+        'Stephen Hawking',
+    ],
+    '76eab6b2-072c-57b5-8a81-15adfeed3baf' => [
+        'If you want your life to be more rewarding, you have to change the way you think.',
+        'Oprah Winfrey',
+    ],
+    '513407a3-643a-5711-91f2-0ba166f6da77' => [
+        'Gorgeous hair is the best revenge.',
+        'Ivana Trump',
+    ],
+    '08028193-8b74-5a01-993a-fd89e364ab07' => [
+        'I\'m just cruising, doing me, having a good time and focusing on getting better.',
+        'Alistair Overeem',
+    ],
+    '2f00120b-a609-5caa-a5c2-f9b831b7c194' => [
+        'There is no scientific answer for success. You can\'t define it. You\'ve simply got to live it and do it.',
+        'Anita Roddick',
+    ],
+    '15a8f97a-84a7-5a4f-ae3a-42ee697b3ea8' => [
+        'Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.',
+        'John F. Kennedy',
+    ],
+    '2b977c5e-ea07-5594-ade9-9300d296c951' => [
+        'Fortune befriends the bold.',
+        'Emily Dickinson',
+    ],
+    '81768f4a-72e4-54b1-9ff8-89ff69dae0f7' => [
+        'People don\'t really understand, but having people stare, and point, and take pictures, even if it is in a positive framework, is quite isolating; there\'s no two ways about it. You feel a little bit, you know, freakish.',
+        'Emma Watson',
     ],
 ];

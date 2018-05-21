@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '90721819-476b-5b24-8dc8-f7da1e4caeaf' => [
-        'The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.',
-        'William James',
+    '6769bdae-85ea-5686-a573-c3e96b12d3d2' => [
+        'My success just evolved from working hard at the business at hand each day.',
+        'Johnny Carson',
     ],
-    '3f79feb8-f61e-58f2-b94b-2b9f27d6795e' => [
-        'Life is a series of waves to be embraced and overcome.',
-        'Albert Schweitzer',
+    '1ceb2a24-0d8f-5747-a301-5c1c46005f81' => [
+        '\'Priced to sell\' - just the phrase makes me smile. When a dealer says all the items in his booth are priced to sell, he means he\'s tagged them as aggressively as he can to get you to buy them. Don\'t worry, though, I still haggle. You have to. That\'s the point of a flea market.',
+        'Nate Berkus',
     ],
-    '53db5775-1f89-58b9-a513-7a5b09179e79' => [
-        'Well I do find the beauty in animals. I find beauty everywhere. I find beauty in my garden.',
-        'Doris Day',
+    'afa02029-4180-53fb-a11a-cddd5b23c2f1' => [
+        'Housework can\'t kill you, but why take a chance?',
+        'Phyllis Diller',
     ],
-    'ec3f3749-7a8a-5569-bb2d-fbeb5049fc12' => [
-        'Cats are intended to teach us that not everything in nature has a function.',
-        'Garrison Keillor',
+    '38b15da7-b84f-52a7-8cc5-3d411d316a73' => [
+        'Every age has its storytelling form, and video gaming is a huge part of our culture. You can ignore or embrace video games and imbue them with the best artistic quality. People are enthralled with video games in the same way as other people love the cinema or theatre.',
+        'Andy Serkis',
     ],
-    '99a0db7c-c841-569a-8d5e-44d5dbec43e8' => [
-        'The single most important factor in our long-term happiness is the relationships we have with our family and close friends.',
-        'Clayton M. Christensen',
+    '554091f5-f0a7-51e2-906a-6034e5db3aa1' => [
+        'If everyone is moving forward together, then success takes care of itself.',
+        'Henry Ford',
     ],
-    '11a8802d-0485-5794-bf81-9a9d830ab2be' => [
-        'But I think bands that rolled in with a big attitude, like they were some big deal, I just found that very strange.',
-        'Rob Zombie',
+    'd4840591-a98e-54ee-b206-f942a9467333' => [
+        'Never refuse an assignment except when there is a conflict of interest, a potential of danger to you or your family, or you hold a strongly biased attitude about the subject under focus.',
+        'Jessica Savitch',
     ],
-    '28164561-077e-570d-a048-51a1d35ae6f6' => [
-        'I\'ve never been in any country for more than four years, and I\'m learning different languages all the time. It gives you a different attitude.',
-        'Santiago Cabrera',
+    'a2fb9d9b-7373-5c64-8538-10880fae4fa1' => [
+        'All wealth is the product of labor.',
+        'John Locke',
     ],
-    'ddd5e9e8-ae89-56c9-8cae-afa9e01436b0' => [
-        'I\'d rather attempt to do something great and fail than to attempt to do nothing and succeed.',
-        'Robert H. Schuller',
+    'd7221e0d-fbf5-5fa2-bffa-3785ef24a312' => [
+        'Life\'s challenges are not supposed to paralyze you, they\'re supposed to help you discover who you are.',
+        'Bernice Johnson Reagon',
     ],
-    'd7010a21-2b5e-5d8c-add5-dcb1dccd0031' => [
-        'After you have exhausted what there is in business, politics, conviviality, and so on - have found that none of these finally satisfy, or permanently wear - what remains? Nature remains.',
-        'Walt Whitman',
+    '70dda5a3-6966-5a54-be9a-779dd380215f' => [
+        'One of the triumphs of the Civil Rights Movement is that when you travel through the South today, you do not feel overwhelmed by a residue of grievance and hate.',
+        'Alice Walker',
     ],
-    '67d16d9c-e2b8-5de0-91b8-17ea072e8148' => [
-        'It goes without saying that the Jewish people can have no other goal than Palestine and that, whatever the fate of the proposition may be, our attitude toward the land of our fathers is and shall remain unchangeable.',
-        'Theodor Herzl',
+    'd1992627-fab4-5d09-bec9-d23d14934345' => [
+        'Life is an exciting business, and most exciting when it is lived for others.',
+        'Miriam Toews',
     ],
-    'dc932cc6-b746-50c7-8cac-14d017b7078f' => [
-        'If you set your goals ridiculously high and it\'s a failure, you will fail above everyone else\'s success.',
-        'James Cameron',
+    '267d8412-7bf1-575e-b815-b05ec78861fb' => [
+        'Work is a necessary evil to be avoided.',
+        'Mark Twain',
     ],
-    'f32a50f9-82a3-5f63-999c-1bb411e8a737' => [
-        'So during those first moments of the day, which are yours and yours alone, you can circumvent these boundaries and concentrate fully on spiritual matters. And this gives you the opportunity to plan the time management of the entire day.',
-        'Menachem Mendel Schneerson',
+    'd23bef1a-24e6-5d41-8efb-31c136e00bdf' => [
+        'For me nature is not landscape, but the dynamism of visual forces.',
+        'Bridget Riley',
     ],
-    'ea8be603-b9fa-5efd-a519-4e51656546a6' => [
-        'I was brought up by a single mom in a poor town in Arkansas and while some aspects of small-town life were really positive - like the fact that everyone there is really sweet and hospitable - there is also this close-minded mentality, and that naturally made me want to rebel.',
-        'Beth Ditto',
+    'c95f90a9-f151-5c11-9502-8d7b19e626dc' => [
+        'If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.',
+        'Pema Chodron',
     ],
-    '2b470506-befd-587b-ad47-c7fb83db8b8d' => [
-        'The limits of the possible can only be defined by going beyond them into the impossible.',
-        'Arthur C. Clarke',
+    'c9aed18f-43db-59d4-bd66-91a3df7905c0' => [
+        'The happiness of a man in this life does not consist in the absence but in the mastery of his passions.',
+        'Alfred Tennyson',
     ],
-    '723c742b-a35e-5cc0-9ed1-56cc1a280116' => [
-        'I turned down \'Some Like It Hot.\' See how smart I am? I felt I couldn\'t bring anything funny to it. The outfit was funny. I don\'t need to compete with the wardrobe.',
-        'Jerry Lewis',
+    '17d4805b-a267-52f9-abd3-c1425d81c1b1' => [
+        'The great thing for me about \'The Resurrection of Gavin Stone\' is it\'s a throwback to the old fashioned Hollywood movie that you can watch with your family, has a message, and is funny and entertaining. They didn\'t call them faith-based movies; they just called them good movies.',
+        'D. B. Sweeney',
     ],
-    '796e69fd-b10c-592f-bb11-98efca8cf8ad' => [
-        'I\'m living on this positive mind frame where I\'m only attracting positive things. I\'m controlling my energy, I\'m eating right, I\'m meditating, I\'m in the gym, I\'m doing all this stuff I\'m supposed to be doing. I\'m past that young, immature way of thinking. I just want to be great.',
-        'Shameik Moore',
+    '997b6ed4-5ab9-5990-8490-b6de4d58e271' => [
+        'When I was 11, I had an Ugly Sister birthday party. All my idea. Most girls want to be a fairy or a princess, but there I am with beauty spots and fur and fluorescent pink kiss-curls.',
+        'Lucy Punch',
     ],
-    '34fb29e6-bbca-50c3-a6de-20f4ee73a054' => [
-        'If you\'re able to help some people and make them smile and make them realize that life is good, then that\'s worth so much more than buying a pair of shoes.',
-        'Maria Sharapova',
+    '0528046f-ce9c-5616-9f71-713d251e18df' => [
+        'I like to think that as I get older I\'m getting better at spending time with people who have qualities that make them worth spending time with.',
+        'Samantha Power',
     ],
-    '44c2a73d-160f-578e-a5d8-e4e9fd6bc530' => [
-        'I am proud to be a Sikh and am a true disciple of Guru Gobind Singh, who sacrificed his entire family for the Sikh religion.',
-        'Harbhajan Singh',
+    '9c57673e-8b72-59e4-9879-d062f4ab1604' => [
+        'The accounting of the sacrifice is, more than anything else, the attitude toward war memorials in our time.',
+        'Friedrich St. Florian',
     ],
-    '809541d8-f946-507b-b252-516636d1fbc5' => [
-        'Work, look for peace and calm in work: you will find it nowhere else.',
-        'Dmitri Mendeleev',
+    '6ff59775-6018-58b0-8407-faacaec7b186' => [
+        'I can\'t believe that God put us on this earth to be ordinary.',
+        'Lou Holtz',
     ],
-    '0c74434c-b5e2-5c2a-baec-e2d47fd148c3' => [
-        'After working for years in Hollywood where the actors have taken over, it was a real relief to get down there and not only have some children, but also have some actors that had no attitude.',
-        'Phillip Noyce',
+    '50648e01-b91c-5f56-b01e-84f5aa921624' => [
+        'Work isn\'t to make money; you work to justify life.',
+        'Marc Chagall',
     ],
-    '33105448-4d3c-5cd6-8dfa-fb6b2b854fd3' => [
-        'I\'ve been fortunate in my life. It hasn\'t been easy, but there has been a focus on the positive, and it has reverberated. Eventually, the outlook mirrors itself back to you in the friends you have, in the partner that you choose.',
-        'Leslie Odom, Jr.',
+    '7fbe86fe-221b-529a-8b98-5d28f5bc1565' => [
+        'I have a secret project which adds four hours every day to the 24 hours we have. There\'s a bit of time travel involved.',
+        'Sundar Pichai',
     ],
-    '8fa48a22-cbe8-5aa5-90af-0dbdabcca92e' => [
-        'The artist is the confidant of nature, flowers carry on dialogues with him through the graceful bending of their stems and the harmoniously tinted nuances of their blossoms. Every flower has a cordial word which nature directs towards him.',
-        'Auguste Rodin',
+    '16abb5a4-4880-52ce-b70a-40cef39da37e' => [
+        'Whether a party can have much success without a woman present I must ask others to decide, but one thing is certain, no party is any fun unless seasoned with folly.',
+        'Desiderius Erasmus',
     ],
-    '204f0b85-bd3b-56d0-b608-619c02912149' => [
-        'Life happens wherever you are, whether you make it or not.',
-        'Iroh',
+    '77cbc779-3564-5781-bad7-33a2ac5dd146' => [
+        'Also, my mom and family are very important to me and I know that this is not expected.',
+        'Christina Milian',
     ],
-    'c6b95d34-8492-5199-95cd-2ba4413c812c' => [
-        'Children learn to smile from their parents.',
-        'Shinichi Suzuki',
+    '1657da7c-6733-56f6-b3a4-3ab7840f2712' => [
+        'You call to a dog and a dog will break its neck to get to you. Dogs just want to please. Call to a cat and its attitude is, \'What\'s in it for me?\'',
+        'Lewis Grizzard',
     ],
-    '8f8f7246-e182-5420-931a-4c0b3f225afc' => [
-        'Inspiration exists, but it has to find us working.',
-        'Pablo Picasso',
+    '788cae85-8f7a-51bb-a994-41912f3619cb' => [
+        'Good food and a warm kitchen are what makes a house a home. I always tried to make my home like my mother\'s, because Mom was magnificent at stretching a buck when it came to decorating and food. Like a true Italian, she valued beautification in every area of her life, and I try to do the same.',
+        'Giles Andreae',
     ],
-    '4f8f51b5-55fd-5b6e-a7eb-8c97574934d2' => [
-        'My mother is such an incredibly strong woman. She raised a family of five boys extremely well. She made us all strong, loving, caring people. We all support each other. I\'m really thankful to her.',
-        'Henry Cavill',
+    'a02f638e-25a5-5c9f-bf0d-340580321640' => [
+        'I go on walks during lunch breaks and travel with a fold-up yoga mat. I also love reading by candlelight at night.',
+        'Rachel Boston',
     ],
-    'a1daf533-5278-5d17-b797-0d7db1ac845e' => [
-        'I bear a charmed life.',
-        'Joel Osteen',
+    '2024c3a0-cf0c-5313-a4ca-6cbdd22786fe' => [
+        'I think Led Zeppelin must have worn some of the most peculiar clothing that men had ever been seen to wear without cracking a smile.',
+        'Robert Plant',
     ],
-    'b730345c-76ec-59aa-aba6-8ec49ba2a122' => [
-        'I\'ve always enjoyed traveling and having experience with different cultures and different people. But it\'s also a wonderful thing to be able to benefit and enable research, not only in our country but around the world.',
-        'Laurel Clark',
+    '2c5fddad-8471-544c-8c4d-12def4009efd' => [
+        'Expecting to be able to get rid of the competitive drive, first of all, flies in the face of human nature - and little girls certainly have this drive, as much as little boys do, or at least the little girls I have observed in my immediate family have it.',
+        'Lynne Cheney',
     ],
-    '72cef2af-bfff-5785-9ae4-ebfe7f7cb752' => [
-        'If you know your goal and work for it you will reach the peak.',
-        'Jounayet Rahman',
+    '884abf53-88c2-5937-bc42-3acba4780587' => [
+        'One of the main focuses of my training sessions is to help individuals find their unique voices in the learning process. We all have our strengths, our weaknesses, our styles of learning, our personalities. Developing introspective sensitivity to these issues is critical to long-term success.',
+        'Joshua Waitzkin',
     ],
-    'b41c687b-14be-5d99-bc8f-e337a267c744' => [
-        'My mother was a dominant force in our family. And I always saw her as the leader. And that was great for me as a young woman, because I never saw that women had to be dominated by men.',
-        'Dolores Huerta',
+    '8d8e464c-0669-5422-8e81-35a84954fc1d' => [
+        'I wasn\'t even 20 at the time, but it taught me something about drugs. They can take a good man, a warm, funny, loving family man, and turn him into a loser and worse.',
+        'Michael Bergin',
     ],
-    'dffc0195-243a-5f51-bba5-722e368f9d8d' => [
-        'People get a little bolder and more wild in summer. You\'ve got things going on kabobs, things cooking on the bone. There\'s something about standing over a grill or outside with the family that inspires us.',
-        'Guy Fieri',
+    'fa6afda1-c4f1-5bdb-81ab-67b7ff063a55' => [
+        'When one must, one can.',
+        'Charlotte Whitton',
     ],
-    '7ad5830d-7dc1-55b4-bc35-2920b987ebd3' => [
-        'Stupidity is something unshakable; nothing attacks it without breaking itself against it; it is of the nature of granite, hard and resistant.',
-        'Gustave Flaubert',
+    'e2afad5d-1ed5-5785-85e8-48b5b7f4db73' => [
+        'Students shy away from Maths, but in reality Maths is the best friend of man.',
+        'Shakuntala Devi',
     ],
-    'd846066d-2059-57c8-bf7c-7b54d922e2d0' => [
-        'When the negative thoughts come - and they will; they come to all of us - it\'s not enough to just not dwell on it... You\'ve got to replace it with a positive thought.',
-        'Joel Osteen',
+    '940e5719-ba21-54d2-bbde-655bb7f7de49' => [
+        'The economy in the Valley will need to grow if students want to come back and work with their specialized degrees. We need to develop more to create more opportunities.',
+        'Frank Murphy',
     ],
-    '261a24f8-79da-549d-b0f5-fcb9d9576d50' => [
-        'The past itself, as historical change continues to accelerate, has become the most surreal of subjects - making it possible... to see a new beauty in what is vanishing.',
-        'Susan Sontag',
+    '74ab6e07-e305-5436-985b-076558c94e84' => [
+        'Behavior used to be reinforced by great deprivation; if people weren\'t hungry, they wouldn\'t work. Now we are committed to feeding people whether they work or not. Nor is money as great a reinforcer as it once was. People no longer work for punitive reasons, yet our culture offers no new satisfactions.',
+        'B. F. Skinner',
     ],
-    'a6b39801-4c09-55e3-b564-41f0dc998d1a' => [
-        'The world makes way for the man who knows where he is going.',
-        'Ralph Emerson',
+    'd80a47d9-d3b2-5279-aa7a-e60716e3090f' => [
+        'I believe life is an intelligent thing: that things aren\'t random.',
+        'Sterling K. Brown',
     ],
-    'e56cff33-19a0-5d57-b484-7d6bca89a62e' => [
-        'Whenever an individual or a business decides that success has been attained, progress stops.',
-        'Thomas J. Watson',
+    '80087280-e9f8-5804-b6f7-3311adb20add' => [
+        'I\'m quite British in the sense of not expressing my emotions much. I save it for my songs. If you ask about a death in the family, or a lover, I will not be emotional. I\'d probably answer with a smile. Because that\'s what we British blokes do.',
+        'James Blunt',
     ],
-    '66f53494-cee9-5a01-ae11-dc173d96a21f' => [
-        'I just try to try to keep an attitude that I don\'t know what I\'m doing. Not to the point where I\'m beating myself up, but I just go in thinking that I have a lot to learn. And I hope I still have that attitude 30 years from now.',
-        'Tobey Maguire',
+    'b6312916-7be6-5e52-bf77-de3df952041f' => [
+        'Trust only movement. Life happens at the level of events, not of words. Trust movement.',
+        'Alfred Adler',
     ],
-    'f9e9ffd7-6db1-5e7a-8f05-1fa3ce9cbb63' => [
-        'Morality is simply the attitude we adopt towards people whom we personally dislike.',
-        'Oscar Wilde',
+    '9e8cc43d-cb60-5246-bd5a-4ee606e892d1' => [
+        'There is a time in the last few days of summer when the ripeness of autumn fills the air.',
+        'Rudolfo Anaya',
     ],
-    '2af4c238-a8d9-538b-afa8-569bef8d0730' => [
-        'Find out what you like doing best and get someone to pay you for it.',
-        'Katharine Whitehorn',
+    '41333719-8008-5010-8140-5cee72e01f03' => [
+        'All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.',
+        'William Shakespeare',
     ],
-    '33d72cf1-1e5b-5379-891a-8917672a4b78' => [
-        'It\'s so much darker when a light goes out than it would have been if it had never shone.',
-        'John Steinbeck',
+    '79151b9f-a336-5d7d-98b9-8a4a90bcbbd9' => [
+        'I am confident that nobody... will accuse me of selfishness if I ask to spend time, while I am still in good health, with my family, my friends and also with myself.',
+        'Nelson Mandela',
     ],
-    '9d6ed72c-938e-5f30-9e34-96c5392eaf79' => [
-        'I definitely do like change. I don\'t know if my hairstyles reflect that, but I don\'t like the same old thing all the time.',
-        'Cobi Jones',
+    'ed1457a1-2cd0-54ce-8155-0d43c015e22b' => [
+        'He who lives in harmony with himself lives in harmony with the world.',
+        'Marcus Aurelius',
     ],
-    'c9c6b7e6-0fa5-5ab7-ad16-8f6aa121af8a' => [
-        'I do like alternative rock and rap, but as far as inspirational, then I go full-on orchestra. It fills up your entire being.',
-        'Osric Chau',
+    '9612dfc7-eddb-51fa-b892-d657848e012a' => [
+        'I keep guitars that are, you know, the neck\'s a little bit bent and it\'s a little bit out of tune. I want to work and battle it and conquer it and make it express whatever attitude I have at that moment. I want it to be a struggle.',
+        'Jack White',
     ],
-    '6c84d317-6e93-514f-a64c-91e16b55a5af' => [
-        'Expect the best. Prepare for the worst. Capitalize on what comes.',
-        'Zig Ziglar',
+    'de233614-d744-54a5-8bb7-a6fa7f037db7' => [
+        'The best way to look stylish on a budget is to try second-hand, bargain hunting, and vintage.',
+        'Orlando Bloom',
     ],
-    '17ba64dc-0744-5208-bad8-702ca9a4f2d9' => [
-        'No matter who you meet in life, you take something from them, positive or negative.',
-        'Gary Allan',
+    'a75e1709-97f6-56bc-86b9-1c4026e8e488' => [
+        'Thursday night football is here to stay. So we\'re looking at ways to make it safer. Now they\'re playing division games, so you limit travel. Now the question is, should you play Sunday night before a Thursday night?',
+        'John Madden',
     ],
-    'c542e68b-7c58-5279-8ae0-1edebfc94aa9' => [
-        'Glamour comes from within. My beauty regime begins with my personality.',
-        'Barry Humphries',
+    '307566b3-19d5-5d3c-81d6-15c012d40795' => [
+        'Have you not noticed that love is silence? It may be while holding the hand of another, or looking lovingly at a child, or taking in the beauty of an evening. Love has no past or future, and so it is with this extraordinary state of silence.',
+        'Jiddu Krishnamurti',
     ],
-    '0a783a4a-3c13-5537-bb3a-60005060b4c8' => [
-        'You aren\'t your work, your accomplishments, your possessions, your home, your family... your anything. You\'re a creation of your Source, dressed in a physical human body intended to experience and enjoy life on Earth.',
-        'Wayne Dyer',
+    '77c46c9c-1f8c-5bee-ac23-499f99fb4bb5' => [
+        'When Jonathan Winters died, it was like, \'Oh, man!\' I knew he was frail, but I always thought he was going to last longer. I knew him as being really funny, but at the same time, he had a dark side.',
+        'Robin Williams',
     ],
-    '77f39603-a2c7-5ff0-a5e3-1f4b19b0b737' => [
-        'I can\'t imagine a person becoming a success who doesn\'t give this game of life everything he\'s got.',
-        'Walter Cronkite',
+    'e532bd18-d2fd-592d-8687-8c69bbc4243b' => [
+        'I allow a lot of room for improvisation and funny stuff. I always feel planned.',
+        'Michael Bay',
     ],
-    '6b22b228-e372-594c-bb49-d6ba226c68fa' => [
-        'All progress takes place outside the comfort zone.',
-        'Michael John Bobak',
+    '310b4a7a-4985-5778-9954-c385f4b36a25' => [
+        'Nobody travels on the road to success without a puncture or two.',
+        'Navjot Singh Sidhu',
     ],
-    '74ef4891-2b62-583d-8d40-4e4947800514' => [
-        'I might have been born in a hovel but I am determined to travel with the wind and the stars.',
-        'Jacqueline Cochran',
+    '116659bf-b1e8-5709-b896-904642f7db40' => [
+        'Some people ask the secret of our long marriage. We take time to go to a restaurant two times a week. A little candlelight, dinner, soft music and dancing. She goes Tuesdays, I go Fridays.',
+        'Henny Youngman',
     ],
-    '8a891098-08ad-5049-8fb2-b0e4bea13ef1' => [
-        'We are all in the gutter, but some of us are looking at the stars.',
-        'Oscar Wilde',
+    '5685727c-54de-56af-9720-4ac072c6c501' => [
+        'Somebody said to me, \'Whenever somebody says your name, a smile comes to their face.\' That\'s a great accolade. I strive to keep it that way.',
+        'Clarence Clemons',
     ],
 ];

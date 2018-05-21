@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '439fbed1-abda-595d-a5eb-026da3711035' => [
-        'Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.',
-        'Eknath Easwaran',
+    '9a6536b6-4ebd-5596-afe1-fc494dd59d44' => [
+        'Everyone should have cancer one time - then you\'d know that other things aren\'t important. The guy that gives you the finger at the stoplight don\'t mean nothing anymore. You come home and something\'s cold, or you didn\'t get something in the mail. Big deal. You want to get up every day and see your family and your friends.',
+        'Bobby Heenan',
     ],
-    'c0b25595-6064-523f-925f-8682de160e48' => [
-        'Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing.',
-        'Thomas Jefferson',
+    'ff8c74c6-ea6a-509c-b691-5febb651d960' => [
+        'Your worst enemy cannot harm you as much as your own unguarded thoughts.',
+        'Buddha',
     ],
-    '319c7b68-1c61-5218-9b60-e60a1894a674' => [
-        'Riding my motorcycle around L.A. is like my own video game. But unlike many folks at the wheel, I am occupied with getting where I\'m going and keeping myself safe. Most people are applying makeup, texting, and checking out the beauty in the next car.',
-        'Hugh Laurie',
+    '282043ba-2aa0-55d6-bafe-f21b7f0203e9' => [
+        'We can all agree that government can\'t solve the obesity crisis alone. It\'s an ongoing issue that will require a collaborative effort across private and public sectors if we want to see some long-term success.',
+        'Marcus Samuelsson',
     ],
-    '90664cd9-8bf6-547c-8d5f-7f3374d10ba2' => [
-        'It\'s a funny thing when you think you\'re dead. You\'re not terrified of it anymore. There\'s a sort of a epiphany to religious thing; it\'s not sort of church-based, but you end up with a serenity which you didn\'t have before, and I just simply enjoy it. It really does sound stupid, but I\'ve got to tell you it\'s made my life.',
-        'David Lange',
+    'dbf7a07c-649c-59aa-8131-99e14a84e20e' => [
+        'I grew up in Doncaster and have felt the love for football run through the town; it\'s for that reason that I have a real personal passion to make Doncaster Rovers a success story.',
+        'Louis Tomlinson',
     ],
-    '82accb77-c4bb-553b-af47-a12f45d16845' => [
-        'It is the greatest of all mistakes to do nothing because you can only do little, do what you can.',
-        'Sydney Smith',
+    '5553bcac-a773-507c-a79f-0009d2668d69' => [
+        'Those who cannot learn from history are doomed to repeat it.',
+        'George Santayan',
     ],
-    '5ee697d5-8869-575e-8b9f-fc2caca0f3c1' => [
-        'I film quite a bit of footage, then edit. Changes before your eyes, things you can do and things you can\'t. My attitude is always \'let it keep rolling.\'',
-        'Terrence Malick',
+    '869a0123-5d44-5aed-a9e9-a1d3bcc30c7c' => [
+        'There is no glory in star or blossom till looked upon by a loving eye; There is no fragrance in April breezes till breathed with joy as they wander by.',
+        'William C. Bryant',
     ],
-    '4a11ef9d-4ba8-5a07-a6bb-8ce549f6c3b6' => [
-        'Being body positive is really important to your overall happiness. It\'s hard to see someone with a \'perfect\' body and be like, \'Why can\'t I be like her?\' But that person was born to be who she is, and you\'re born to be who you are.',
-        'Sabrina Carpenter',
+    '966bcbb0-8a95-5114-9fe7-9bb5cacef47d' => [
+        'There are people who are able to plan their career, their future, but I\'ve never had any talent for that. I just do things and hope for the best. Say yes, take a chance, and sometimes it\'s terrific and sometimes it\'s not.',
+        'Christopher Walken',
     ],
-    '878a4948-b3c2-5ae3-b514-fab69ebeec62' => [
-        'To live is to think.',
-        'David Mixner',
+    'f3a1ac05-186e-5755-8b0a-c647180d7580' => [
+        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
+        'Herb Caen',
     ],
-    '1fc78ea8-5e91-5f8b-a754-0d95ab7fb712' => [
-        'Difficulties strengthen the mind, as labor does the body.',
-        'Seneca',
+    '6050031a-2f29-5dfc-b5a4-19671b59515d' => [
+        'When I play discos in Belfast or freshers\' week in Oxford, there are 1,800 kids dressed as me. It\'s odd, it\'s funny, and it pays really well.',
+        'David Hasselhoff',
     ],
-    '734f4fe3-fa6d-58b8-9a45-c3a7b420185d' => [
-        'When a moment in front of me appears to be particularly special, whether it be by beauty or experience, I capture it. I usually find a reason to justify taking that photo - symmetry, or color, or contrast - and it\'s my hope that my photography sheds light onto what I see and do on a daily basis.',
-        'Connor Franta',
+    'e72d4b8f-4829-5b98-9d05-1601c8b1489a' => [
+        'It is the quality of our work which will please God, not the quantity.',
+        'Mahatma Gandhi',
     ],
-    '954fd70c-8416-5423-abf4-8535172ba3c6' => [
-        'One of the best things to do sometimes is simply to be.',
-        'Eric Butterworth',
+    '8d2afac1-9c4d-5e4f-a2e4-f1111c18bd70' => [
+        'I believe that being successful means having a balance of success stories across the many areas of your life. You can\'t truly be considered successful in your business life if your home life is in shambles.',
+        'Zig Ziglar',
     ],
-    '9e284efa-1e4f-505f-8a25-871c966fa757' => [
-        'I think music is the greatest art form that exists, and I think people listen to music for different reasons, and it serves different purposes. Some of it is background music, and some of it is things that might affect a person\'s day, if not their life, or change an attitude. The best songs are the ones that make you feel something.',
-        'Eddie Vedder',
+    'f9280b04-f2c3-5f93-9708-fe409edde0fd' => [
+        'It appears to be a law that you cannot have a deep sympathy with both man and nature.',
+        'Henry David Thoreau',
     ],
-    '36cf075f-e283-5abd-8481-45a36ebf5c5c' => [
-        'In a meadow full of flowers, you cannot walk through and breathe those smells and see all those colors and remain angry. We have to support the beauty, the poetry, of life.',
-        'Jonas Mekas',
+    '2a4ace38-352c-5d3e-b209-df7b40ab5e73' => [
+        '\'Unbreakable Smile\' was based off one of the songs I wrote for the album - it was actually the first song I wrote for the album without realizing it yet. I think I wanted to name the album that because it seemed like that was just the theme of that chapter in my life and just the theme of all the songs put together.',
+        'Tori Kelly',
     ],
-    'a1efbd36-f2d4-5f5f-b7f6-b16395db2039' => [
-        'Sometimes I wish that I could go into a time machine right now and just look at my self and say, \'Calm down. Things are gonna be fine. Things are gonna be all great. Just relax.\'',
-        'Tristan Wilds',
+    'ecf17f64-d506-5d4e-912a-d733e7f93e4b' => [
+        'My father, who was from a wealthy family and highly educated, a lawyer, Yale and Columbia, walked out with the benefit of a healthy push from my mother, a seventh grade graduate, who took a typing course and got a secretarial job as fast as she could.',
+        'George Weinberg',
     ],
-    '0987f0f1-ddaf-56a2-bfc6-74a587962008' => [
-        'It is human nature to instinctively rebel at obscurity or ordinariness.',
-        'Taylor Caldwell',
+    '2284a260-bbbb-51f1-92bc-7e2436d00e44' => [
+        'No single man can be taken as a model for a perfect figure, for no man lives on earth who is endowed with the whole of beauty.',
+        'Albrecht Durer',
     ],
-    '8ab053bc-457a-56c9-9d53-c68012b7d584' => [
-        'There\'s no escalators - there\'s only staircases to success. There is no substitute for hard work.',
-        'Lilly Singh',
+    'ebb96516-fbb3-574c-8abb-5ba900c8c0fc' => [
+        'One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute.',
+        'William Feather',
     ],
-    '04a966f5-b4b5-50c7-ae1f-00f709687690' => [
-        'A man with a silver spoon may get his share of supporters, but he can never be an inspiration for somebody! Patience and hard work are the key to every man\'s success.',
-        'Kailash Kher',
+    '63143544-1b50-5685-bdb3-24107e0c3f65' => [
+        'It\'s our responsibility for the village to say, \'Hey we\'re going to create these programs,\' whether it\'s sports, creative arts, music, we need some things to give young people positive things to do, and that\'s including jobs.',
+        'Common',
     ],
-    '4852701e-03f3-5e62-a001-96d639e1b361' => [
-        'The best way to predict the future is to create it.',
-        'Peter Drucker',
+    '3c06ce6f-b76e-52c9-b3c6-ff98a43ee2d9' => [
+        'I actually think some of my best moments in life have been while I was with people from Instagram - whether it\'s super late nights getting a release out or being able to travel to places I\'d never visited and meeting some of the most interesting people I\'ve ever met.',
+        'Kevin Systrom',
     ],
-    '43562c48-23b7-56fc-b747-f99c71ca2c7c' => [
-        'At any given moment, you have the power to say: This is not how the story is going to end.',
-        'Christine Mason Miller',
+    '742101d0-e470-5074-a2fa-91e8bb12d3a7' => [
+        'The foot feels the foot when it feels the ground.',
+        'Buddha',
     ],
-    'ef26e4cf-0aa0-505e-b064-d54c9ab7d87b' => [
-        'I\'m just working and having a good time and seeing what develops, which is so awesome, because you don\'t know what\'s going to happen, and I\'m letting myself do that a lot more than I ever have.',
-        'Kathleen Hanna',
+    '4d391170-0ccf-52a3-a6cd-078cf4100d9b' => [
+        'You have to be positive, and I\'m not just talking about athletics, this also applies to life.',
+        'Sheryl Swoopes',
     ],
-    '852928e7-e738-5d76-93e6-d87196c2f9ff' => [
-        'That\'s what makes Linux so good: you put in something, and that effort multiplies. It\'s a positive feedback cycle.',
-        'Linus Torvalds',
+    '3647e04a-c648-53e1-9cfd-21762e85b9df' => [
+        'When I learn something new - and it happens every day - I feel a little more at home in this universe, a little more comfortable in the nest.',
+        'Bill Moyers',
     ],
-    '7c624b72-149a-5598-b063-576629c6e0d4' => [
-        'Today painters do not have to go to a subject matter outside of themselves. Most modern painters work from a different source. They work from within.',
-        'Jackson Pollock',
+    'f5e2b1c7-35ce-5a11-b321-6c6f755989e1' => [
+        'When radium was discovered, no one knew that it would prove useful in hospitals. The work was one of pure science. And this is a proof that scientific work must not be considered from the point of view of the direct usefulness of it.',
+        'Marie Curie',
     ],
-    '12f3dc56-2261-5172-9a7f-cdcacc2b7490' => [
-        'What\'s funny is funny. The same thing that made you laugh a hundred years ago makes you laugh now.',
-        'Chevy Chase',
+    '3f1092f9-0468-5d7e-882a-a557dead8be1' => [
+        'The way we communicate with others and with ourselves ultimately determines the quality of our lives.',
+        'Tony Robbins',
     ],
-    '06bcc327-72c9-5103-9c10-8724ea292fbc' => [
-        'Life itself still remains a very effective therapist.',
-        'Mary J. Blige',
+    '7777be80-b544-5fee-a492-185a99e15a7c' => [
+        'The way of the Creative works through change and transformation, so that each thing receives its true nature and destiny and comes into permanent accord with the Great Harmony: this is what furthers and what perseveres.',
+        'Alexander Pope',
     ],
-    '02ebb298-5de5-5df9-a25f-2dbad5e4b51f' => [
-        'Art is the proper task of life.',
-        'Thich Nhat Hanh',
+    '0925109a-8b43-59ca-8710-4793b94308f1' => [
+        'Recovery is something that you have to work on every single day and it\'s something that it doesn\'t get a day off.',
+        'Demi Lovato',
     ],
-    '4f7c2f67-8182-5348-8f2b-9e05b6db96e6' => [
-        'Many have built their careers buttressing the status quo, reinforcing what they\'ve already accomplished, and resisting the radical thinking that can topple their legacy - not exactly the attitude you want when trying to drive innovation forward.',
-        'Peter Diamandis',
+    '183a7d53-1664-5aca-8e1a-db479170a0b8' => [
+        'The biggest job we have is to teach a newly hired employee how to fail intelligently. We have to train him to experiment over and over and to keep on trying and failing until he learns what will work.',
+        'Charles Kettering',
     ],
-    'a188997b-54a6-519a-bd8b-0749fc874815' => [
-        'Traveling around the country, meeting fans and hearing their stories in person and on my radio show has reenergized my commitment to creating honest and inspirational content that not only serves my own creative purposes but can help and touch others as well.',
-        'Nikki Sixx',
+    '97183e4e-f609-55fe-9e3b-b9050508eb68' => [
+        'Men are like wine - some turn to vinegar, but the best improve with age.',
+        'Pope John XXIII',
     ],
-    '8e2435e7-7b65-579a-a225-d6c26d4ea252' => [
-        'Where there is humility, there is more success, and lasting success.',
-        'Patrick Lencioni',
+    '8c01eaa2-4504-5e2c-b0d9-e993a9cec643' => [
+        'Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.',
+        'Plato',
     ],
-    '4f0c73bc-ed51-5cf2-ba58-bd0e244a812f' => [
-        'The trouble with our times is that the future is not what it used to be.',
-        'Paul Valery',
+    '92795b3b-c22d-5183-ad12-57cf360b2012' => [
+        'The single biggest surprise about arriving to the Senate is the defeatist attitude here.',
+        'Ted Cruz',
     ],
-    'b618c332-6117-511f-befc-beac9e4979e5' => [
-        'Most smiles are started by another smile.',
-        'Frank A. Clark',
+    'e80cbeae-174c-526c-a67d-7f5759afcc5b' => [
+        'Today is not the day I die.',
+        'Oberyn Martell',
     ],
-    '095f7300-4829-5c36-af0a-f46f69dc46cb' => [
-        'We all become great explorers during our first few days in a new city, or a new love affair.',
-        'Mignon McLaughlin',
+    '6e22147d-29b8-57a5-a509-f52c4641172b' => [
+        'A lot of baby boomers are baby bongers.',
+        'Kevin Nealon',
     ],
-    'a926802d-9a96-51f0-a8d5-e6b70a29e4ce' => [
-        'I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near.',
-        'Margaret Thatcher',
+    '598caaaa-11ab-5fca-9caf-14c2829dbf2d' => [
+        'It is not in the stars to hold our destiny but in ourselves.',
+        'William Shakespeare',
     ],
-    'd78f3e26-c991-5a56-9533-cb46ea0c0aeb' => [
-        'He can who thinks he can, and he can\'t who thinks he can\'t. This is an inexorable, indisputable law.',
-        'Pablo Picasso',
+    '05df988e-a4ed-5884-be3b-46766f77097d' => [
+        'My attention since \'Clueless\' has been on family, relationships, activism, the planet, and my career.',
+        'Alicia Silverstone',
     ],
-    'dedcb587-54f0-5f9b-882d-15e6846cb761' => [
-        'You can\'t have a happy family if you don\'t have a happy marriage.',
-        'Jeremy Sisto',
+    'd288f16e-c087-5596-9bbd-ab47ba19012c' => [
+        'Be regular and orderly in your life, so that you may be violent and original in your work.',
+        'Gustave Flaubert',
     ],
-    'e5e54130-87fb-5b07-b303-a0c7d869e316' => [
-        'My uncle Sammy was an angry man. He had printed on his tombstone: What are you looking at?',
-        'Margaret Smith',
+    '96ef7e9f-b211-5d8a-b16f-3f080ad1e203' => [
+        'It\'s painful for me to watch someone who isn\'t funny. It\'s horrifying to sit in the back and watch some guy who just totally sucks.',
+        'Joe Rogan',
     ],
-    '731b9610-18bc-5fce-b766-2c958d7439c1' => [
-        'Find a place inside where there\'s joy, and the joy will burn out the pain.',
-        'Joseph Campbell',
+    '5705d801-0ccc-5ba7-9d21-29823cd1effc' => [
+        'Accuracy is, in every case, advantageous to beauty, and just reasoning to delicate sentiment. In vain would we exalt the one by depreciating the other.',
+        'David Hume',
     ],
-    'a64bb7aa-f0a9-501a-aafe-699bd7c2784b' => [
-        'Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!',
-        'Charlotte Gilman',
+    'fd4dc187-7dfa-5983-bf55-9263813e464d' => [
+        'America\'s trying to do the best for its veterans.',
+        'R. Lee Ermey',
     ],
-    'fa3223cc-b4ee-5e1c-ba61-683d5229357e' => [
-        'Don\'t compromise yourself. You are all you\'ve got.',
-        'Janis Joplin',
+    'bef3c657-648d-53e2-9697-fae1ffbf8dff' => [
+        'Well, a lot of people don\'t know this about me, but I\'m actually shy around people I don\'t know. I would just say with my first concert, my first tour, I didn\'t really talk onstage. I was like, \'Thank you, I love you guys,\' or whatever. But now I\'ve just kind of learned to work a crowd.',
+        'Avril Lavigne',
     ],
-    'e26ab462-3e75-56a7-ac46-8b32d1a1b982' => [
-        'Being a writer usually entails a fairly quiet life. However much travel one might do, however many tours and appearances, the job entails solitude: long hours in libraries, long hours at a desk.',
-        'Jill Paton Walsh',
+    '06798db9-9d20-51c1-b172-220d0ba3feb3' => [
+        'The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.',
+        'Mohandas Gandhi',
     ],
-    '84d5c21c-8481-59bb-a06a-1a4e00b4fdf2' => [
-        'If you truly get in touch with a piece of carrot, you get in touch with the soil, the rain, the sunshine. You get in touch with Mother Earth and eating in such a way, you feel in touch with true life, your roots, and that is meditation. If we chew every morsel of our food in that way we become grateful and when you are grateful, you are happy.',
-        'Robert Louis Stevenson',
+    'a00387fb-706c-5eae-825b-372ef52e0811' => [
+        'And, behold, I come quickly; and my reward is with Me, to give every man according as his work shall be. I am Alpha and Omega, the beginning and the end, the first and the last.',
+        'Jesus Christ',
     ],
-    'e237e6b8-288f-57e7-af1f-31bd64476d99' => [
-        'Films for TV have to be much closer to the book, mainly because the objective with a TV movie that translates literature is to get the audience, after seeing this version, to pick up the book and read it themselves. My attitude is that TV can never really be any form of art, because it serves audience expectations.',
-        'Michael Haneke',
+    '2be444ef-da6d-52cb-9ff4-a02d34e7baec' => [
+        'I marketed pens - on the phone. But the beauty of the gig was that you had to call these strangers and say, \'Hi, how ya doing?\' You made up a name, like, \'Hey, it\'s Edward Quartermaine from California. You\'re eligible to receive this grandfather clock or a trip to Tahiti.\' You promise them all these things if they buy a gross of pens.',
+        'Johnny Depp',
     ],
-    '00a5e043-453e-5f6d-8872-30294c17c67b' => [
-        'It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves.',
-        'Thornton Wilder',
+    '611ee4d6-437b-54be-a9fe-384eb5aaf009' => [
+        'Comedy is simply a funny way of being serious.',
+        'Peter Ustinov',
     ],
-    'beae4a9a-1932-599f-8be7-6762bb1a2fa6' => [
-        'The best way a mentor can prepare another leader is to expose him or her to other great people.',
-        'John C. Maxwell',
+    '2b109677-3048-5701-9d92-fabc42012560' => [
+        'You can\'t please everyone. When you\'re too focused on living up to other people\'s standards, you aren\'t spending enough time raising your own. Some people may whisper, complain and judge. But for the most part, it\'s all in your head. People care less about your actions than you think. Why? They have their own problems!',
+        'Kris Carr',
     ],
-    '4dc234a6-db53-5a6e-a9ba-c08dfdf0759a' => [
-        'I\'ve got a real sense of three-dimensional geometry. I can look at a flat piece of fabric and know that if I put a slit in it and make some fabric travel around a square, then when you lift it up it will drape in a certain way, and I can feel how that will happen.',
-        'Vivienne Westwood',
+    'c26f7518-abfa-5ad6-98b2-697b1e9b3af9' => [
+        'I have no idols. I admire work, dedication and competence.',
+        'Ayrton Senna',
     ],
-    '65b7016f-b8f1-52b8-9f7a-66a1c3767a36' => [
-        'Your body is the church where Nature asks to be reverenced.',
-        'Marquis de Sade',
+    '481357cb-90ed-5627-8eeb-24916a40dfd2' => [
+        'I have been very fortunate in my life. I have had a lot of happiness. I have a great family and I work a lot, and that\'s what I like to do.',
+        'Danny DeVito',
     ],
-    '940e5719-ba21-54d2-bbde-655bb7f7de49' => [
-        'The economy in the Valley will need to grow if students want to come back and work with their specialized degrees. We need to develop more to create more opportunities.',
-        'Frank Murphy',
+    '84fc365f-a267-5f6e-ab20-ecd53559bf39' => [
+        'Since the day I was born, wrestling has sustained me and my family. It\'s the way my father fed me; it\'s the way I feed my kids. More importantly, wrestling is my greatest release. It\'s been such a blessing for me. I can step into the ring and let it all go - all my anger, all my frustration, all my pain.',
+        'Eddie Guerrero',
     ],
-    '84fa71f9-536e-504f-9564-b0157dd504ce' => [
-        'There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.',
-        'Denis Waitley',
+    'dc09a9d0-c853-5280-b3e6-3db67505322b' => [
+        'Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.',
+        'Anupam Kher',
     ],
-    '84f2b16b-e25c-51b1-8f62-2b9b6d68844f' => [
-        'Life is full of misery, loneliness, and suffering - and it\'s all over much too soon.',
-        'Steve Jobs',
+    'a67656a4-59db-580c-a510-9cfff158d84c' => [
+        'The best way to remember your wife\'s birthday is to forget it once.',
+        'E. Joseph Cossman',
     ],
-    '0c282ef0-5d61-5302-a3a8-8453ab5242be' => [
-        'The best thing about Berlin was that I got to be surrounded by people who pursue their ideas for themselves.',
-        'Agnes Obel',
+    'c7519fe6-a362-5e0f-ad59-e282d0d3649a' => [
+        'We are often told we can\'t have brains and beauty, and I really hope that my message is that you can put on that red lip and curl your hair and put on that power dress - you don\'t have to sacrifice one for the other.',
+        'Tyra Banks',
     ],
-    'b2de88da-2a2c-5f62-b89f-469efe2de6ea' => [
-        'The other night I ate at a real nice family restaurant. Every table had an argument going.',
-        'George Carlin',
+    'fff85359-47a7-5cf3-a16f-c94cdf5b302d' => [
+        'Written in 1895, Alfred Nobel\'s will endowed prizes for scientific research in chemistry, physics, and medicine. At that time, these fields were narrowly defined, and researchers were often classically trained in only one discipline. In the late 19th century, knowledge of science was not a requisite for success in other walks of life.',
+        'Peter Agre',
     ],
 ];

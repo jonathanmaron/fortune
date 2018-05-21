@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'bc27b6f6-157a-5dda-99c4-f6b9b5d7a323' => [
-        'In the stillness of your presence, you can feel your own formless and timeless reality as the unmanifested life that animates your physical form. You can then feel the same life deep within every other human and every other creature. You look beyond the veil of form and separation. This is the realization of oneness. This is love.',
-        'David Russell',
+    '213abecc-e491-5165-9f43-6711ea9e5733' => [
+        'Life experience is what defines our character, even if it means getting your heart broken or being lied to. You know, you need the downs to appreciate the ups. Going on the adventure or taking that risk is important.',
+        'Victor Hugo',
     ],
-    '03c7a45d-97e0-5e0f-aeab-573845a22ba0' => [
-        'Real success is being totally indulgent about your own trip. You put your blinders on about the garbage and go full speed ahead.',
-        'Betsey Johnson',
+    'cf0fd0e7-5fad-5ed1-89d7-b26863c0ffdb' => [
+        'Achievement is not always success, while reputed failure often is. It is honest endeavor, persistent effort to do the best possible under any and all circumstances.',
+        'Orison Swett Marden',
     ],
-    '8c157d33-cc7e-5ba2-9f4d-69cd67c08aa3' => [
-        'The only true measure of success is the ratio between what we might have done and what we might have been on the one hand, and the thing we have made and the things we have made of ourselves on the other.',
-        'H. G. Wells',
+    '40da2cd4-d637-5183-a925-7b11b3cda011' => [
+        'You may not always have a comfortable life and you will not always be able to solve all of the world\'s problems at once but don\'t ever underestimate the importance you can have because history has shown us that courage can be contagious and hope can take on a life of its own.',
+        'Herbert Simon',
     ],
-    '78dc8c7f-5948-52fb-803a-3c1f73c48fab' => [
-        'No veteran or active duty service member should endure a long hospital stay alone. Yet sadly, due to the high cost of travel, all too often our military families are separated while America\'s heroes receive care. Sometimes families sleep in hospital parking lots, unable to afford long stays in a hotel.',
-        'John Delaney',
+    'a4fb1cdd-aa7a-5325-82b0-d024aa7279ab' => [
+        'Don\'t believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you\'ll see the way to fly.',
+        'Richard Bach',
     ],
-    'de4c8efa-1a7e-5d2f-851c-fa45326965cd' => [
-        'If you don\'t die of thirst, there are blessings in the desert. You can be pulled into limitlessness, which we all yearn for, or you can do the beauty of minutiae, the scrimshaw of tiny and precise. The sky is your ocean, and the crystal silence will uplift you like great gospel music, or Neil Young.',
-        'Anne Lamott',
+    'af5b165c-85af-5fa6-b630-545c67fd11dc' => [
+        'May your trails be crooked, winding, lonesome, dangerous, leading to the most amazing view. May your mountains rise into and above the clouds.',
+        'Edward Abbey',
     ],
-    'a06718a8-fa58-528e-accd-8241f760eae0' => [
-        'I am a family man, and I have to find my priorities. During the season, it is to race. During the off-season, it is to spend time with my family.',
-        'Jens Voigt',
+    'd96cc180-6880-5dab-ada2-5c1d0140add4' => [
+        'I want to be a little more dramatic nowadays. I definitely want something big and funny, but I look for things that can just have people see me in a different light and let me mature as both an entertainer and an actor and a comedian.',
+        'Cedric the Entertainer',
     ],
-    '1b200838-a32a-578c-984e-ee6af7ed0ea1' => [
-        'There are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.',
-        'Henry David Thoreau',
+    '18052716-91e7-5786-9067-e0d11198b741' => [
+        'It is a scientific fact that your body will not absorb cholesterol if you take it from another person\'s plate.',
+        'Dave Barry',
     ],
-    '2fe60538-707a-55dc-bed7-8e2a63e21713' => [
-        'Words have life and must be cared for. If they are stolen for ugly uses or careless slang or false promotion work, they need to be brought back to their original meaning - back to their roots.',
-        'Corita Kent',
+    '5de99767-7bd2-55c9-8378-27314adece0a' => [
+        'Your daily life is your temple and your religion. When you enter into it take with you your all.',
+        'Viggo Mortensen',
     ],
-    '0b6e44eb-758e-5b3a-9e58-9fb65d2bb010' => [
-        'Besides what I do, I love fishing; I love bringing my children to the forest, getting outdoors in nature. Get outside, people! Stop looking at screens.',
-        'Keith Barry',
+    'f933a4b9-2766-5cb7-9a9e-becbdaa40ac9' => [
+        'There is nothing more corrupting, nothing more destructive of the noblest and finest feelings of our nature, than the exercise of unlimited power.',
+        'William Henry Harrison',
     ],
-    '3eb2d363-3ec9-5c08-8740-bffb9643131b' => [
-        'Being a mother and grandmother is the best of the best in my life. My grandchildren multiply the joy my daughters bring me.',
-        'Alexandra Stoddard',
+    '17d2df8c-ac2e-55ad-a4fd-5466eaf04f44' => [
+        'I always say to myself that if I can make a movie that makes a kid smile or gives them some hope or something to get excited about, then I\'m applying myself in the best way that I can. I don\'t think that just goes for kids. I think that it goes for adults, as well, and for families.',
+        'Nicolas Cage',
     ],
-    'f220d01f-2cac-5a05-9458-067360531f86' => [
-        'Say and do something positive that will help the situation; it doesn\'t take any brains to complain.',
-        'Robert A. Cook',
+    '70418891-9dcd-5b22-9330-a7d51072d859' => [
+        'Do you want to know who you are? Don\'t ask. Act! Action will delineate and define you.',
+        'Thomas Jefferson',
     ],
-    'afa71e53-766a-533a-bae0-e21d4c66921c' => [
-        'I always knew I wanted to play golf and go to college. I try hard to be a positive role model, especially on the golf course. I try to carry myself well, and don\'t do anything outrageous. I try to play the game like a gentleman and give everyone respect. That\'s how the game should be played.',
-        'Dustin Johnson',
+    'c6dfe37e-cfe7-5af5-b9b5-34c2bceb6272' => [
+        'Success has always been a great liar.',
+        'Friedrich Nietzsche',
     ],
-    '0c806f1b-6350-58b1-bc7d-7f1f8916ead5' => [
-        'If you want to do really important things in life and big things in life, you can\'t do anything by yourself. And your best teams are your friends and your siblings.',
-        'Deepak Chopra',
+    '62353cb3-1148-59cd-bea4-f8bb0843db4b' => [
+        'This is my journey. If I fall, I have to pick myself up. If I\'m not getting the playing time I want, it\'s up to me to figure out why.',
+        'Carli Lloyd',
     ],
-    '7ed48643-7a89-52a1-8545-1543533e42b3' => [
-        'Work for something because it is good, not just because it stands a chance to succeed.',
-        'Vaclav Havel',
+    'c3ebdf6a-5fb6-5757-b163-bc19d30d4546' => [
+        'While traveling around the world, I\'ve had the opportunity to work with every living beauty icon. I\'ve learned to appreciate idiosyncrasy. The fact is, there is really no such thing as \'normal\' - everybody\'s different, and that is the essence of their beauty.',
+        'Kevyn Aucoin',
     ],
-    'ca1e58d7-605d-528e-899a-fb9721d88f52' => [
-        'As a former veteran, I understand the needs of veterans, and have been clear - we will work together, stand together with the Administration, but we will also question their policies when they shortchange veterans and military retirees.',
-        'Solomon Ortiz',
+    'c09cdd21-a979-516c-b6bc-ce230e632539' => [
+        'Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.',
+        'Arthur Conan Doyle',
     ],
-    'f9f6032a-ad33-5532-98fc-031dd30a2bca' => [
-        'It\'s a special person - and personality - who can lead a start-up to soaring success and sustain that success for the long term. Apple co-founder Steve Jobs and Facebook\'s Mark Zuckerberg are star examples.',
-        'Marcus Buckingham',
+    '21147777-e0b1-56f8-9227-2e4c94ff8235' => [
+        'Tennis just a game, family is forever.',
+        'Serena Williams',
     ],
-    '13a8a7ec-c421-575e-a7bc-0ad8220a17c3' => [
-        'Few ideas work on the first try. Iteration is key to innovation.',
-        'Sebastian Thrun',
+    '7fbdf514-94a1-5cf5-ae74-bafde9fa3993' => [
+        'Stem cell research holds enormous promise for easing human suffering, and federal support is critical to its success.',
+        'Tom Harkin',
     ],
-    '6339312c-2333-505f-bc7e-37756df83054' => [
-        '\'Funny People\' is my favorite performance of myself to date. Even though it\'s a comedy and there are serious moments, I really felt like Leo felt like a real person. It didn\'t feel like I was playing myself. Whether it\'s a comedy or drama, I just try to make it as realistic as possible.',
-        'Jonah Hill',
+    'fe50ab13-282c-5e28-a944-1d6162982dec' => [
+        'Our ability to achieve happiness and success depends on the strength of our wings.',
+        'Catherine Pulsifer',
     ],
-    '2da298a9-2990-543b-8870-508489cfdd01' => [
-        'I needed somebody to love me, and the people that I chose were my coaches. I would sacrifice my body to be successful for my coaches because I wanted them to love me, to respect me, to have positive feelings about me.',
-        'Steve Largent',
+    'c9a66f61-c3f6-5874-ba03-4efdceb97318' => [
+        'The joke in our family is that we can cry reading the phone book.',
+        'Ron Reagan',
     ],
-    'eb93a2a0-529c-5b78-be02-b6cfb25d95b4' => [
-        'I remember nearly having a fit of the giggles during the reading because dear Daniel was SO respectful and serious and I was finding the whole situation funny because I was speaking to his profile.',
-        'Madeleine Stowe',
+    '55e5f8bf-b524-5a18-ac42-60cb293414fb' => [
+        'The mountains are calling and I must go.',
+        'John Muir',
     ],
-    'c850eb55-d6ff-581c-a5d5-40c37a7f55e1' => [
-        'This is the final test of a gentleman: his respect for those who can be of no possible value to him.',
-        'William Lyon Phelps',
+    'b0d9f342-c648-5285-b59a-7ea20c2bbe76' => [
+        'Travel at faster than the speed of light certainly can have dramatic implications that are difficult to understand, such as time travel.',
+        'Lisa Randall',
     ],
-    '839c19c1-f5fd-5a33-ada7-358b7bd2714f' => [
-        'I\'m surrounded by great friends and family. I don\'t know what I would do without them.',
-        'Emma Roberts',
+    'a9840e40-7843-5192-a5d7-1b0dee255f1b' => [
+        'I am a positive person. I never think of the glass as half empty. I just keep pushing forward.',
+        'Rosie Perez',
     ],
-    'b5209d57-e1ac-5956-bd7b-95c2b4ded96b' => [
-        'There are physical characteristics which are inherited. These include things like good looks, high intelligence, physical coordination. These attributes contribute to success in life, and success in life is a determinant of optimism.',
-        'Martin Seligman',
+    'ff163b06-d29d-595a-a555-f98c9cbf3187' => [
+        'The beauty of Maine is such that you can\'t really see it clearly while you live there. But now that I\'ve moved away, with each return it all becomes almost hallucinatory: the dark blue water, the rocky coast with occasional flashes of white sand, the jasper stone beaches along the coast, the pine and fir forests somehow vivid in their stillness.',
+        'Alexander Chee',
     ],
-    '156e2320-35cb-5325-bbe7-cdcb55c151b9' => [
-        'There is no planning. On the night it is really great, it\'s euphoria and if it is not so great there is always tomorrow night. That was his attitude.',
-        'Ed McMahon',
+    'd7767315-ef08-56c2-b982-2453eaebc8d1' => [
+        'A wise man can learn more from a foolish question than a fool can learn from a wise answer',
+        'Bruce Lee',
+    ],
+    'a8199954-ccbe-5adf-81f4-b6408aa95b70' => [
+        'Whatever you do, do it with all your might. Work at it, early and late, in season and out of season, not leaving a stone unturned, and never deferring for a single hour that which can be done just as well now.',
+        'P. T. Barnum',
+    ],
+    'a079848a-de3e-564a-88a7-058669937c99' => [
+        'The power of intuitive understanding will protect you from harm until the end of your days.',
+        'Laozi',
+    ],
+    'e16090b2-7682-5f29-90bc-5c53ea33223f' => [
+        'Sarcasm helps me overcome the harshness of the reality we live, eases the pain of scars and makes people smile.',
+        'Mahmoud Darwish',
+    ],
+    'c00c704d-03df-52ac-a52c-14169baa757e' => [
+        'Generation after generation, there is this never-ending, contemptuous, condescending attitude to the next generation or the next way of thinking: music, art, politics, whatever. And I have never been like that.',
+        'Jean-Michel Jarre',
+    ],
+    'bf868152-e365-51a7-9483-e5c54a071b19' => [
+        'Think as a wise man but communicate in the language of the people.',
+        'William Yeats',
+    ],
+    'd796401d-6fed-51ee-880e-c0098a083e81' => [
+        'Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.',
+        'John Dewey',
+    ],
+    'f4357277-1649-56f7-b7c0-f62244735b37' => [
+        'Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.',
+        'Marcus Aurelius',
+    ],
+    '8ff070a6-945b-59f1-a2b1-14821cc99bf3' => [
+        'Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!',
+        'Richard Bach',
     ],
     'edbe3346-48bf-53d4-9885-949750dfd08a' => [
         'I think that any time of great pain is a time of transformation, a fertile time to plant new seeds.',
         'Debbie Ford',
     ],
-    'cc6cebc8-0443-5491-9baf-6ea428ea17cb' => [
-        'The man who has done his level best... is a success, even though the world may write him down a failure.',
-        'B. C. Forbes',
+    '671cc4d2-cdcb-5b42-857f-f328813c3067' => [
+        'A nice blend of prediction and surprise seem to be at the heart of the best art.',
+        'Wendy Carlos',
     ],
-    '344e112a-6346-52f4-980b-abdffbbfbfdc' => [
-        'The forest restoration campaign is a war to ameliorate nature.',
-        'Kim Jong-un',
+    'c9cd97d4-f082-599e-977a-e8c0652d4ef3' => [
+        'The attitude of \'every nation unto itself\' is a destructive one for the future of Israel.',
+        'Tzipi Livni',
     ],
-    '63bff790-dea9-5fa6-a18f-00d7518f2c36' => [
-        'Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?',
-        'Tony Robbins',
+    '6f710cd4-fda2-5415-8ab9-4b6e0e177c36' => [
+        'In all things of nature there is something of the marvellous.',
+        'Aristotle',
     ],
-    '85d58e0e-18d4-5190-ac51-a684ad02cc57' => [
-        'The fall is my favorite time of year. I love the colors. The sun is out, you get warmth on your skin but there\'s the coolness of the breeze. It\'s really comfortable.',
-        'Ricky Skaggs',
+    '5f8f366c-f1f6-56ee-8e06-51af4f76a4b8' => [
+        'You are never given a wish without also being given the power to make it come true. You may have to work for it, however.',
+        'Richard Bach',
     ],
-    '8b385689-985a-5df7-b09b-e3d0f2e7ecc1' => [
-        'I want to travel. Maybe I\'ll end up living in Norway, making cakes.',
-        'Eva Green',
+    'd9fc52a4-4f8a-5695-9a61-c6a848d22b54' => [
+        'Success is a consequence and must not be a goal.',
+        'Gustave Flaubert',
     ],
-    '8fbdae1a-fd55-580d-a88e-9b19ecf3d852' => [
-        'I\'ve had great success being a total idiot.',
-        'Jerry Lewis',
+    '5519d98e-5daa-5699-98a7-a7d806a77cc2' => [
+        'I always tell people, \'The music\'s free. I get paid to travel.\'',
+        'Chris Stapleton',
     ],
-    '9dfcfe8d-1d58-592e-b171-e689f7853913' => [
-        'Fast cars like Porsches and Ferraris - they are things of beauty.',
-        'Rod Stewart',
+    '45299188-29c2-584b-b247-18777f72485f' => [
+        'When you form a team, why do you try to form a team? Because teamwork builds trust and trust builds speed.',
+        'Russel Honore',
     ],
-    '6d2903fc-8a2b-5d3f-9d9a-64b5891bbe5e' => [
-        'What a book a devil\'s chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!',
-        'Charles Darwin',
+    '5d5c8ef6-704e-55d3-ab89-42947fd63358' => [
+        'It\'s a moment that I\'m after, a fleeting moment, but not a frozen moment.',
+        'Andrew Wyeth',
     ],
-    '2d768799-a55c-5d7f-9d0d-fb99d2b682a5' => [
-        'Perhaps nature is our best assurance of immortality.',
-        'Eleanor Roosevelt',
+    '61bf6238-f89d-5024-ab43-30c175f524ec' => [
+        'I\'d like to one day be featured on a list of inspirational people who have made a difference in the world, whether it be helping underprivileged people or putting an end to the poaching of wildlife in Africa.',
+        'Candice Swanepoel',
     ],
-    'f13c0385-fe63-515c-bd67-794bcaf9343f' => [
-        'If you\'re changing the world, you\'re working on important things. You\'re excited to get up in the morning.',
-        'Larry Page',
+    'fc90ab34-a6bb-534d-b997-8e563195416f' => [
+        'The extreme sophistication of modern technology - wonderful though its benefits are - is, ironically, an impediment to engaging young people with basics: with learning how things work.',
+        'Martin Rees',
     ],
-    'ff8c74c6-ea6a-509c-b691-5febb651d960' => [
-        'Your worst enemy cannot harm you as much as your own unguarded thoughts.',
-        'Buddha',
+    '4972981b-c040-576a-8825-940cd9434be1' => [
+        'It\'s important to think good, speak good, and do good. If we want to see positive change in the world, then we need to connect to goodness. I try in everything I do, both in business and philanthropy, to make a positive change and do that by doing good.',
+        'Shari Arison',
     ],
-    '8aeee84d-7bd1-50ee-8789-71aadfde05dc' => [
-        'Nothing in the world is more common than unsuccessful people with talent.',
-        'Unknown',
+    'a609ecbd-a04e-5218-93e2-6b35883a3ef2' => [
+        'Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties.',
+        'Helen Keller',
     ],
-    'ca710c72-7e09-5e8a-b8e0-34207bb4e576' => [
-        'Watch your manner of speech if you wish to develop a peaceful state of mind. Start each day by affirming peaceful, contented and happy attitudes and your days will tend to be pleasant and successful.',
-        'Norman Vincent Peale',
+    '6e81f338-295a-52bb-a57a-1d53575753d0' => [
+        'There are elements of intrinsic beauty in the simplification of a house built on the log cabin idea.',
+        'Gustav Stickley',
     ],
-    '809ae1eb-daa6-520f-b19f-5d25ce04cee5' => [
-        'I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.',
-        'Edna Millay',
+    '4b74cf9f-0194-51ff-8504-79d2407f7a22' => [
+        'On the whole, when I travel to different countries, I like to find the hidden places, so I tend to avoid the cities - but in terms of the ease of getting about, finding what you need, the excitement, that undercurrent of whatever you want it to be, it\'s got to be London.',
+        'Will Tudor',
     ],
-    '1ffc02fb-92e4-51f4-ad02-7e9f21e6f7f3' => [
-        'Not what we have but what we enjoy constitutes our abundance.',
-        'John Petit-Senn',
+    '62ea1564-368c-5ccd-af92-b614b0c9aa06' => [
+        'In the Arctic, the Inuit are saying water and land are the same; they\'re an unbroken unity. In the winter, you travel on the ice because it\'s the linkage and the easiest way, and in the summer, you move around on the water.',
+        'John Ralston Saul',
     ],
-    '97137fff-3fa3-5e7c-b8f5-60d682890450' => [
-        'I don\'t like to read about myself, whether it be positive or negative.',
-        'Chloe Sevigny',
+    'e2e8b46d-ea73-5514-8681-538b90d3410b' => [
+        'I launched Chefs for Humanity, a national nonprofit, with my voice, heart and money from my own pocket. Money gives you the ability to make a difference in the world and, when used in a positive way, is a lot of fun.',
+        'Cat Cora',
     ],
-    '096b765b-a7ae-56ad-9326-5ffb632b0e2c' => [
-        'I think sometimes the best training is to rest.',
-        'Cristiano Ronaldo',
-    ],
-    'a7d7fffc-251a-564f-a556-6e4d571158ee' => [
-        'If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.',
-        'Anne Bradstreet',
-    ],
-    '7f8c3cad-977b-53a4-9b66-823d79243928' => [
-        'Diwali means family, so either I go down to Bangalore, or my family comes to Mumbai. I always ensure I take a few days off.',
-        'Deepika Padukone',
-    ],
-    '4daf8625-c69b-5836-aed8-49bfe8a42a03' => [
-        'Television has brought back murder into the home - where it belongs.',
-        'Alfred Hitchcock',
-    ],
-    '2e5c3aa9-cc13-5b7c-aee4-33d4c12803ad' => [
-        'There is a huge difference between failing and failure. Failing is trying something that you learn doesn\'t work. Failure is throwing in the towel and giving up. True success comes from failing repeatedly and as quickly as possible, before your cash or your willpower runs out.',
-        'Jay Samit',
-    ],
-    '772a25c0-87ff-51fd-84d1-129223f0da30' => [
-        'Creative risk taking is essential to success in any goal where the stakes are high. Thoughtless risks are destructive, of course, but perhaps even more wasteful is thoughtless caution which prompts inaction and promotes failure to seize opportunity.',
-        'Gary Ryan Blair',
-    ],
-    'f074bd2d-fc1a-57b9-a7fd-31f94c2eba11' => [
-        '\'Utopia\' is a positive and constructive program that gives people the opportunity, if you can start all over again, start from scratch and create laws and make decisions, will you be able to build a society that is better than the one we have; will it be chaos or happiness.',
-        'John de Mol, Jr.',
-    ],
-    'ab7e8e6c-5d93-5157-9aee-e7a339033c1f' => [
-        'Life is a series of punches. It presents a lot of challenges. It presents a lot of hardship, but the people that are able to take those punches and able to move forward are the ones that really do have a lot of success and have a lot of joy in their life and have a lot of stories to tell, too.',
-        'Josh Turner',
-    ],
-    '6a3efae1-4c3b-536f-b24d-98eabe8be86e' => [
-        'You can lead a man to Congress, but you can\'t make him think.',
-        'Milton Berle',
+    'c61a9755-f084-5234-93c0-0be59a3f1396' => [
+        'I am politically incorrect, that\'s true. Political correctness to me is just intellectual terrorism. I find that really scary, and I won\'t be intimidated into changing my mind. Everyone isn\'t going to love you all the time.',
+        'Mel Gibson',
     ],
 ];

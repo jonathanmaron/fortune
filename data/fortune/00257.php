@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'eb321c2b-8832-5958-b8ef-b1183086e231' => [
-        'I\'m lucky in that I travel a lot for work. I also manage several holidays a year. I\'m not someone who sits in the sun or goes sightseeing, though. If I go away, it will be for fishing or something like that.',
-        'Vinnie Jones',
+    '5c7c28fe-d234-51d2-bcfb-06b5ebe8eb39' => [
+        'My grandfather was a man, when he talked about freedom, his attitude was really interesting. His view was that you had obligations or you had responsibilities, and when you fulfilled those obligations or responsibilities, that then gave you the liberty to do other things.',
+        'Clarence Thomas',
     ],
-    'c424f04a-09ef-5659-a039-92d435aa235c' => [
-        'There are millions of Americans outside Washington who are tired of stale political arguments and are moving this country forward. They believe, and I believe, that here in America, our success should depend not on accident of birth, but the strength of our work ethic and the scope of our dreams.',
-        'Barack Obama',
+    '114cad79-735f-5142-a5d5-043a5c11eccc' => [
+        'The biggest adventure you can take is to live the life of your dreams.',
+        'Oprah Winfrey.',
     ],
-    'd0579678-a493-549d-963c-072f41b24377' => [
-        'Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.',
-        'John Wooden',
+    '93d23774-6609-5324-b811-0e76b7ebcb85' => [
+        'I always say that the times in my life when I\'ve been happiest are the times when I\'ve seen, like, a sunset.',
+        'Brian Blessed',
     ],
-    'ac569d9c-c512-5d68-a9bc-10867334b97a' => [
-        'Whatever happens, take responsibility.',
-        'Tony Robbins',
+    '81582b82-6c3d-5d05-97c5-745416c4d33b' => [
+        'Most sets of values would give rise to universes that, although they might be very beautiful, would contain no one able to wonder at that beauty.',
+        'Stephen Hawking',
     ],
-    '9b008e14-f2bd-5724-9738-c71048b3c89d' => [
-        'Everything in the universe goes by indirection. There are no straight lines.',
-        'Ralph Emerson',
-    ],
-    '3c084fef-79bc-5ba9-8289-36e38753b8fa' => [
-        'To live is to change, and to be perfect is to have changed often.',
-        'Colin Kaepernick',
-    ],
-    'c6f5bc45-49ad-515e-ae1e-dbe43bfe6a20' => [
-        'I love to travel with my family or my two best friends because I completely trust them. I forced my two best friends into learning to scuba dive with me in Sri Lanka - it was amazing but also hideous because we were learning in very difficult seas.',
-        'Julia Sawalha',
-    ],
-    'd98a37f3-44d4-55dc-a7e5-79936cc43ad1' => [
-        'The best way to find out whether you\'re on the right path? Stop looking at the path.',
-        'Marcus Buckingham',
-    ],
-    '3627bf52-124c-5acf-b1e6-e351f164b06f' => [
-        'Change can be frightening, and the temptation is often to resist it. But change almost always provides opportunities - to learn new things, to rethink tired processes, and to improve the way we work.',
-        'Klaus Schwab',
-    ],
-    '95d5021d-215e-5e18-8165-ec92c2222701' => [
-        'Reality is wrong. Dreams are for real.',
-        'Tupac Shakur',
-    ],
-    '58917adf-ac35-5fdb-8a47-bdf8e6c2f353' => [
-        'To be positive is to be mistaken at the top of one\'s voice.',
-        'Ambrose Bierce',
-    ],
-    'ff7376b5-a13e-5bcb-9da2-dd723aefd5aa' => [
-        'Life is made up of sobs, sniffles, and smiles, with sniffles predominating.',
-        'Diane von Furstenberg',
-    ],
-    '12a9eb5c-bd07-5637-a9b6-5040d1f651f7' => [
-        'Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living.',
-        'Mary Ritter Beard',
-    ],
-    '5685727c-54de-56af-9720-4ac072c6c501' => [
-        'Somebody said to me, \'Whenever somebody says your name, a smile comes to their face.\' That\'s a great accolade. I strive to keep it that way.',
-        'Clarence Clemons',
-    ],
-    '5ce648fe-fa96-50a7-828d-afa9e56f63a3' => [
-        'I am the common man. I\'m polite, I love my family and I play by the rules. And sometimes I get pushed around. That\'s my lifestyle, and that\'s what I try to bring to characters.',
-        'Eugene Levy',
-    ],
-    '903b33d5-289a-5c3a-8508-42cd4b1e44e7' => [
-        'Don\'t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.',
-        'Mary Kay Ash',
-    ],
-    '0c24b887-969d-5d6d-ac42-93842c44ccc6' => [
-        'I\'m hoping that these next 20 years will show what we did 20 years ago in sequencing the first human genome, was the beginning of the health revolution that will have more positive impact in people\'s lives than any other health event in history.',
-        'Craig Venter',
-    ],
-    '7aadd7ec-5d43-5f5b-a49f-2992b95997ff' => [
-        'You don\'t manage people; you manage things. You lead people.',
-        'Grace Hopper',
-    ],
-    'c3a0e879-30c6-5c6f-91f0-8c4e41f38962' => [
-        'Many are harmed by fear itself, and many may have come to their fate while dreading fate',
-        'Seneca',
-    ],
-    '78abd749-e6cb-5545-867e-3e4b5fd4a661' => [
-        'I had an attitude problem when I was a kid. I\'m not gonna lie.',
-        'Tionne Watkins',
-    ],
-    '7a65e170-6e3d-50de-8d3b-5432679ecb2b' => [
-        'Most people give up just when they\'re about to achieve success. They quit on the one yard line. They give up at the last minute of the game one foot from a winning touchdown.',
-        'Ross Perot',
-    ],
-    '0faf8938-bd9a-56b7-8fce-881ae9421711' => [
-        'When onstage, I always try to take my audience through as many emotions as I possibly can. I want them to go from laughter to tears, be shocked and surprised and walk out the door with a renewed sense of themselves - and maybe a smile.',
-        'Reba McEntire',
-    ],
-    '59871c8f-c285-577a-a8c5-a9a378953575' => [
-        'In the 1960s, a minimum wage job would keep a family of three afloat.',
-        'Elizabeth Warren',
-    ],
-    '8ad1d4d1-4bce-58ec-8d40-cd379938b1d3' => [
-        'The man who trusts men will make fewer mistakes than he who distrusts them.',
-        'Cavour',
-    ],
-    '0e6bf95f-9762-5440-9898-9d18f99293c9' => [
-        'The way to deal with the devil of obesity and diabetes is literally one day at a time.',
-        'Stephen Furst',
-    ],
-    'cffc4f4e-0b4d-56c0-84f6-5194d7c44368' => [
-        'I would like to do something dark or small. I love independent films. I love emotional scenes. I love people who are struggling with something. I think it\'s just the juxtaposition to my incredibly happy, positive demeanor.',
-        'Shailene Woodley',
-    ],
-    '0aa4c7d4-3000-52e3-8885-0aca2262392e' => [
-        'Meditation can help us embrace our worries, our fear, our anger; and that is very healing. We let our own natural capacity of healing do the work.',
-        'Thich Nhat Hanh',
-    ],
-    '3589bcfc-b676-5e6b-81da-c53e76701295' => [
-        'All our sweetest hours fly fastest.',
-        'Virgil',
-    ],
-    '3158a088-b593-57b2-8c7a-292c737ae2cc' => [
-        'We can only learn to love by loving.',
-        'Iris Murdoch',
-    ],
-    '1cf74208-2286-5643-90b7-afd0cc8745b4' => [
-        'My view of life is colored by humor and looking at the best in any situation.',
-        'Michael J. Fox',
-    ],
-    '068bf858-8862-5e03-943d-17d2b9a6fad8' => [
-        'In 1967 I entered Harvard as a freshman, confident - in the way that only 17-year-olds are - that I could change the world. My major was African Studies, and my plan was to travel to Tanzania, where President Julius Nyerere was creating a government based on democracy and socialism.',
-        'Bonnie Raitt',
-    ],
-    '65ccd979-1836-53b8-810b-535083a01575' => [
-        'I travel to Cambodia, Thailand, Bali, and Nairobi for my charities: Somaly Mam and Friends to Mankind.',
-        'Serinda Swan',
-    ],
-    'df8a3602-0437-5e09-9fa4-fe333162879e' => [
-        'We are all broken, that\'s how the light gets in.',
-        'Ernest Hemingway',
-    ],
-    'd3f148e6-cade-5a83-9c37-801a2d472f0b' => [
-        'Luck is where opportunity meets preparation.',
-        'Seneca',
-    ],
-    '22fe55e4-59c1-53cd-88df-9e9a98c5dc7c' => [
-        'I am two with nature.',
-        'Woody Allen',
-    ],
-    'b92bc813-6a5a-51f3-9157-f66c3d82d1e7' => [
-        'A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.',
-        'Moliere',
-    ],
-    '927bfdec-5fe1-5b46-88f6-a19164fe476d' => [
-        'One of the advantages of being disorderly is that one is constantly making exciting discoveries.',
-        'A. A. Milne',
-    ],
-    '9676909e-930c-52de-9f55-fe383f8b48bc' => [
-        'We make the world we live in and shape our own environment.',
-        'Orison Swett Marden',
-    ],
-    '3131063c-fa3a-5349-987c-aa125aa721fd' => [
-        'Obsessed is a word that the lazy use to describe the dedicated.',
+    '69fb9647-5c29-57c7-8fb2-53dfa41d61d1' => [
+        'You may only be someone in the world, but to someone else, you may be the world.',
         'Unknown',
     ],
-    '7baab321-14e2-5751-9707-5b9d37b5b107' => [
-        'Do your work with your whole heart, and you will succeed - there\'s so little competition.',
-        'Elbert Hubbard',
+    '0cb4e3d5-6fbf-552b-8b43-a7730a12e479' => [
+        'The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants.',
+        'Thomas Jefferson',
     ],
-    'f2c17f09-5bf9-5352-9a55-560097f08362' => [
-        'Today is life-the only life you are sure of. Make the most of today. Get interested in something. Shake yourself awake. Develop a hobby. Let the winds of enthusiasm sweep through you. Live today with gusto.',
-        'Cristiano Ronaldo',
+    '4734004d-15b3-5b27-a311-1449ba1a689b' => [
+        'Whether You Think You Can Or Think You Can\'t, You\'re Right.',
+        'Henry Ford',
     ],
-    '951d17d1-b498-5f33-bda7-34344d5383be' => [
-        'I\'d like to dial it back 5% or 10% and try to have a vacation that\'s not just e-mail with a view.',
-        'Elon Musk',
+    '888bcce3-29e4-52f9-8e85-338ccecc7598' => [
+        'You, Eternal Trinity, are my Creator, and I am the work of Your hands, and I know through the new creation which You have given me in the blood of Your Son, that You are enamored of the beauty of Your workmanship.',
+        'Catherine of Siena',
     ],
-    '26f7f41e-8bca-5a85-b430-d57060a7cd17' => [
-        'Yeah we all shine on, like the moon, and the stars, and the sun.',
-        'John Lennon',
+    '04ba4ecf-7a9a-5292-aade-9b257795758e' => [
+        'Each time I think I\'ve created time for myself, along comes a throwback to disrupt my private space.',
+        'Wole Soyinka',
     ],
-    'cf6b9c38-b874-5ebd-8606-2819397f5b47' => [
-        'For me, personally, life in South Africa had come to an end. I had been lucky in some of the whites I had met. Meeting them had made a straight \'all-blacks-are-good, all-whites-are-bad\' attitude impossible. But I had reached a point where the gestures of even my friends among the whites were suspect, so I had to go or be forever lost.',
-        'Peter Abrahams',
+    '0cdcbfc2-1206-5069-9009-40db53a70f01' => [
+        'The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.',
+        'Henry Miller',
     ],
-    'deb12744-ad3c-5479-894b-5c2d849612aa' => [
-        'And beauty immortal awakes from the tomb.',
-        'James Beattie',
+    '80ac8b59-2bdc-5a1e-bef0-2d49e482f7fb' => [
+        'I like to write sad songs. They\'re much easier to write and you get a lot more emotion into them. But people don\'t want to hear them as much. And radio definitely doesn\'t; they want that positive, uptempo thing.',
+        'Alan Jackson',
     ],
-    '7a6a63fc-1632-5ba9-bc10-1a0aecb8084d' => [
-        'The beginning is always today.',
-        'Mary Wollstonecraft',
+    '84d5c21c-8481-59bb-a06a-1a4e00b4fdf2' => [
+        'If you truly get in touch with a piece of carrot, you get in touch with the soil, the rain, the sunshine. You get in touch with Mother Earth and eating in such a way, you feel in touch with true life, your roots, and that is meditation. If we chew every morsel of our food in that way we become grateful and when you are grateful, you are happy.',
+        'Robert Louis Stevenson',
     ],
-    '381f8880-b3a0-58b9-8695-025207400304' => [
-        'It really is a fact that liberals are much higher than conservatives on a major personality trait called \'openness to experience.\' People who are high on openness to experience just crave novelty, variety, diversity, new ideas, travel. People low on it like things that are familiar, that are safe and dependable.',
-        'Jonathan Haidt',
+    '9209eaac-a56f-5a57-a3e5-2f71347ae1a3' => [
+        'I have never been hurt by anything I didn\'t say.',
+        'Calvin Coolidge',
     ],
-    'afb84d00-fcfa-5589-8de0-75f0e061b6ed' => [
-        'People repeat behaviour that leads to flooding their brains with pleasurable chemicals. The short-term reward loop acts over hours to years, and the long-term reproductive success loop over generations.',
-        'Keith Henson',
+    '839c19c1-f5fd-5a33-ada7-358b7bd2714f' => [
+        'I\'m surrounded by great friends and family. I don\'t know what I would do without them.',
+        'Emma Roberts',
     ],
-    'a40a8ca4-2b44-5d4b-a97c-ce27af52af30' => [
-        'Success comes to those who dedicate everything to their passion in life. To be successful, it is also very important to be humble and never let fame or money travel to your head.',
-        'A. R. Rahman',
+    '377ee806-a2db-5cff-98b2-f65f861fa8ba' => [
+        'One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that ones life has meaning, that one is needed in this world.',
+        'Hannah Senesh',
     ],
-    '5f1e8c22-c1a2-5a00-aa37-1a69294b1523' => [
-        'Only as far as a man is happily married to himself is he fit for married life and family life in general.',
-        'Novalis',
+    '3d7a2960-431a-56fe-b89e-e3bfa4335960' => [
+        'I reached rock bottom halfway through college. And it was - because of all the pressure that I think we\'re talking about right now - the pressure to learn how to budget, the pressure to really abandon everything that you ever learned. You don\'t have a comfort zone anymore. You don\'t have your neighborhood. You don\'t have your family with you.',
+        'Jidenna',
+    ],
+    'ab08793b-13c5-5ad0-862f-88ba232d9953' => [
+        'Family time was very difficult when my girls were little, but I never missed a birthday; I was there for every major event.',
+        'Jeff Dunham',
+    ],
+    'd00adb3d-3876-5d78-a6f7-61dd7d82dd7a' => [
+        'There is a miracle in your mess, don\'t let the mess make you miss the miracle.',
+        'Patience Johnson',
+    ],
+    '35bddf00-e68a-5723-aec5-28334775ad49' => [
+        'My job is to be fit and I\'m really blessed that I get to go and work out and live a really healthy lifestyle.',
+        'Kerri Walsh Jennings',
+    ],
+    '7ee54a5b-626b-5a8a-b608-d18841f92d74' => [
+        'I don\'t believe in angels, no. But I do have a wee parking angel. It\'s on my dashboard and you wind it up. The wings flap and it\'s supposed to give you a parking space. It\'s worked so far.',
+        'Billy Connolly',
+    ],
+    'ac66f4a1-ddbb-5cb3-aae4-598bb501f357' => [
+        'Beauty has a lot to do with character.',
+        'Kevyn Aucoin',
+    ],
+    '0eb1219c-7838-58c5-9ff9-ff5349fe230b' => [
+        'I have long been a supporter of the Head Start program because each and every year I witness the dramatic positive impact that early intervention services have on children\'s lives in my congressional district.',
+        'Lucille Roybal-Allard',
+    ],
+    'c786e257-5717-5c35-8936-7237607d6e27' => [
+        'The idea that happiness could have a share in beauty would be too much of a good thing.',
+        'Walter Benjamin',
+    ],
+    '0c9e52da-5a81-5582-b8e8-6be264fcfd2e' => [
+        'Culture is the intersection of people and life itself. It\'s how we deal with life, love, death, birth, disappointment... all of that is expressed in culture.',
+        'Sai Baba',
+    ],
+    '0ccc21b6-9451-5233-8d49-728af9daee64' => [
+        'Life has a funny way of becoming ordinary as soon as it can.',
+        'Colm Toibin',
+    ],
+    '2febe797-c33a-572e-a78a-6aba31dab003' => [
+        'Nature gives to every time and season some beauties of its own; and from morning to night, as from the cradle to the grave, it is but a succession of changes so gentle and easy that we can scarcely mark their progress.',
+        'Charles Dickens',
+    ],
+    '2660ad36-4e29-5810-bcb1-74e37b03c0b2' => [
+        'You have to think anyway, so why not think big?',
+        'Donald Trump',
+    ],
+    'a1bff9b0-7174-56d1-9629-0b77fbd68ae9' => [
+        'I think the biggest challenge is to continue on the same path. I think it\'s easy to become complacent from the success you\'ve had.',
+        'Jason Derulo',
+    ],
+    '0aa97a1c-3acc-5354-a4e6-f87f6ab2cb9c' => [
+        'I\'m just going to go live life. I\'m going to go enjoy life. I have nothing left to hide. I am kind of a free person, a free soul.',
+        'Jackie Robinson',
+    ],
+    'c68728aa-813b-5772-8ca9-a8c87e5db13e' => [
+        'Success is a science; if you have the conditions, you get the result.',
+        'Oscar Wilde',
+    ],
+    'd941dcae-5237-5fd2-8bf1-7c253c6d1542' => [
+        'The attitude among the people I knew was, \'Fleur wants to be a singer\' but it was never, \'Go for it. You can do it.\' Everyone was cynical because we\'d never seen anyone where we came from do it.',
+        'Fleur East',
+    ],
+    '72205c01-9991-5f97-8b08-1a54048415b6' => [
+        'Music and songs are written at different periods of time, at different times in your life. They reflect the feelings you have and to be honest, I quite like having positive emotions.',
+        'Scott Ian',
+    ],
+    'd138252e-fe31-5c8e-9d61-2ab68fe8a6c7' => [
+        'If you surrender to the wind, you can ride it.',
+        'Toni Morrison',
+    ],
+    'fef88cc7-77f6-5957-b7da-01b7eb7b3780' => [
+        'The relationship with time changes when you\'re captive.',
+        'Ingrid Betancourt',
+    ],
+    'c30ffe30-8f92-5a87-833f-9c843489234e' => [
+        'I failed the LSAT. Basically, if I had not failed, I\'d have been a lawyer and there would be no Spanx. I think failure is nothing more than life\'s way of nudging you that you are off course. My attitude to failure is not attached to outcome, but in not trying. It is liberating.',
+        'Sara Blakely',
+    ],
+    'fefa2446-5406-56f3-bb8c-af15efa9a3c7' => [
+        'Anything that\'s not positive, I don\'t have the energy to focus on it. Anything that\'s not going in the right direction, I don\'t have the time or the energy.',
+        'DMX',
+    ],
+    '75c717dc-3a74-579c-b4f4-5621d1dd8dba' => [
+        'A concerted effort to preserve our heritage is a vital link to our cultural, educational, aesthetic, inspirational, and economic legacies - all of the things that quite literally make us who we are.',
+        'Steve Berry',
+    ],
+    '0aebc771-8996-510e-bd1f-c9fa317d907e' => [
+        'The best way to look at any business is from the standpoint of the clients.',
+        'Jamie Dimon',
+    ],
+    'f8ad5640-d6e8-5331-a05e-d7d831117f62' => [
+        'Having the positive belief that it will all be O.K. just means that you hustle and make it work because failure is not even an option in your own mind.',
+        'Natalie Massenet',
+    ],
+    'd4e81b80-dd4a-5c91-bd9a-84197e354fe1' => [
+        'For me the greatest beauty always lies in the greatest clarity.',
+        'Gotthold Ephraim Lessing',
+    ],
+    'a8f4a9c6-45b5-53da-acd4-ffba47af9450' => [
+        'Ultimately, leadership is not about glorious crowning acts. It\'s about keeping your team focused on a goal and motivated to do their best to achieve it, especially when the stakes are high and the consequences really matter. It is about laying the groundwork for others\' success, and then standing back and letting them shine.',
+        'Chris Hadfield',
+    ],
+    'ad432c26-1337-5d7c-9c69-4ceabd94df35' => [
+        'The crest and crowning of all good, Life\'s final star, is brotherhood.',
+        'Kenneth H. Cooper',
+    ],
+    '5f867b1c-9b61-52e7-b076-e709ebb0ea9e' => [
+        'I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.',
+        'G. K. Chesterton',
+    ],
+    'a99df3f2-6873-5b75-b2f4-e113158a7c61' => [
+        'I\'m ephemeral as much as I can be, so I started to think about the idea of not working. It\'s really about a change of attitude. It\'s not so much about stopping, but about re-thinking the meaning of one\'s production.',
+        'Rirkrit Tiravanija',
+    ],
+    '1b9f2e8b-3aad-500a-9b57-02003b7003b9' => [
+        'Air travel survived decades of terrorism, including attacks which resulted in the deaths of everyone on the plane. It survived 9/11. It\'ll survive the next successful attack. The only real worry is that we\'ll scare ourselves into making air travel so onerous that we won\'t fly anymore.',
+        'Bruce Schneier',
+    ],
+    '18691b48-4e7e-5355-ae69-29474f04cfc9' => [
+        'New York is the great stone desert.',
+        'Israel Zangwill',
+    ],
+    '83d4ff13-f8aa-5527-8644-87ec08d7e197' => [
+        'Social media gives one a family to share one\'s life with.',
+        'Sonu Nigam',
+    ],
+    '62a04219-8751-59c2-8d4e-81521f212d10' => [
+        'It is as necessary for man to live in beauty rather than ugliness as it is necessary for him to have food for an aching belly or rest for a weary body.',
+        'Abraham Maslow',
+    ],
+    '9502a5a7-3123-57b1-ac1d-7ffca0cee873' => [
+        'The breaking of a wave cannot explain the whole sea.',
+        'Vladimir Nabokov',
+    ],
+    '10816129-4c41-5e80-8376-420ba43f95ba' => [
+        'Once you say you\'re going to settle for second, that\'s what happens to you in life.',
+        'Lou Holtz',
     ],
 ];

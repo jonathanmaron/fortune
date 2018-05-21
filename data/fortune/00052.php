@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '77e619eb-c451-570a-b94b-98aa739c22e6' => [
-        'I think anytime you can affect people in general, in a positive way, then you\'re a lucky individual.',
-        'Sam Elliott',
+    '18766827-7a3a-5080-af3d-47fc9f363e5e' => [
+        'Every particular in nature, a leaf, a drop, a crystal, a moment of time is related to the whole, and partakes of the perfection of the whole.',
+        'Ralph Waldo Emerson',
     ],
-    '63a4f4dd-8af6-5c08-9dce-c4e880ac38de' => [
-        'There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.',
-        'Jiddu Krishnamurti',
+    'b5ce6fb9-a22d-5e18-a793-51dd85a174e9' => [
+        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
+        'Jim Gaffigan',
     ],
-    'c9b2e6dc-39b6-57b1-9e75-5b0d42981677' => [
-        'While journalists cannot right every wrong, champion every cause or fix every problem, they can - through the written word - lift someone\'s burden for a day, make some elderly woman on a bus smile or let them know they are noticed by someone.',
-        'Regina Brett',
+    'c4d7ad58-b549-559c-9a6a-2a117e20a8cb' => [
+        'With Fresh Healthy Vending growing by the day, my role is ever-evolving, just as the company is, and I intend to take on any necessary responsibilities in order to make a positive impact and spread a message we all believe in so strongly.',
+        'Steve Finley',
     ],
-    '0c937dac-c345-57f4-96da-cbb34e11ec75' => [
-        'The average family spends 30 hours in front of a television, and they say they don\'t have the time to have a balanced, integrated life.',
-        'Stephen Covey',
+    '484c910c-dad7-587a-a27b-0eff42cda5c2' => [
+        'All I want to do when I have time off is to have a laugh with my school friends and go down the pub.',
+        'Samantha Mumba',
     ],
-    'c7136fa4-a630-50f4-92ee-c7e92728253a' => [
-        'No one can arrive from being talented alone, work transforms talent into genius.',
-        'Anna Pavlova',
+    '3f37b41c-7d22-5141-8a43-d3b18c793d62' => [
+        'Sweeter than the perfume of roses is a reputation for a kind, charitable, unselfish nature; a ready disposition to do to others any good turn in your power.',
+        'Orison Swett Marden',
     ],
-    '41f2a446-f973-5be5-a5c5-123953b55abf' => [
-        'Choose your corner, pick away at it carefully, intensely and to the best of your ability and that way you might change the world.',
-        'Charles Eames',
+    '542ef4d9-bda6-51ee-af8f-f226d2be4199' => [
+        'I know how domestic violence can affect a family, and I want to do everything I can to stop it from happening to others. The most important thing we can do is teach kids that they can break the cycle.',
+        'Missy Elliott',
     ],
-    'e7695f96-10ae-5e86-8513-841697a1ef16' => [
-        'Nothing else matters so much as long as you can come home and be with your family.',
-        'Patrick Dempsey',
+    '731b9610-18bc-5fce-b766-2c958d7439c1' => [
+        'Find a place inside where there\'s joy, and the joy will burn out the pain.',
+        'Joseph Campbell',
     ],
-    'e6fc1187-e2a8-5bf7-b1db-d16224cff447' => [
-        'I\'m trying to raise the awareness of the troops that, when they deploy and go to war, it\'s not just them at war - it\'s also their family. Their family is having to go through all the hardships and the stresses.',
-        'Chris Kyle',
+    '3186458b-deda-5f8a-895b-6eb4d65de567' => [
+        'The Book of Mormon is our handbook of instructions as we travel the pathway from bad to good to better and strive to have our hearts changed.',
+        'David A. Bednar',
     ],
-    '0e6bd6cd-e74c-5ace-acb8-c0e69d9e276d' => [
-        'Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.',
-        'Alan Cohen',
+    '969469bc-de76-5ab1-9ca6-890ee52fcd45' => [
+        'Any captain can only do his best for the team and for cricket. When you are winning, you are a hero. Lose, and the backslappers fade away.',
+        'Richie Benaud',
     ],
-    '07e12253-f234-50db-bc69-aef55e3a690c' => [
-        'In times of great stress or adversity, it\'s always best to keep busy, to plow your anger and your energy into something positive.',
-        'Lee Iacocca',
+    '90fd3b59-5f68-53f9-8545-01c484c9ca8b' => [
+        'There is pleasure in the pathless woods, there is rapture in the lonely shore, there is society where none intrudes, by the deep sea, and music in its roar; I love not Man the less, but Nature more.',
+        'Lord Byron',
     ],
-    '6f710cd4-fda2-5415-8ab9-4b6e0e177c36' => [
-        'In all things of nature there is something of the marvellous.',
-        'Aristotle',
+    'fc5b410f-8af4-57ff-8b5f-31922e6b5538' => [
+        'A word of encouragement from a teacher to a child can change a life. A word of encouragement from a spouse can save a marriage. A word of encouragement from a leader can inspire a person to reach her potential.',
+        'Billy Graham',
     ],
-    'c7902a25-519e-5dc5-ae85-39c31ccf69e8' => [
-        'If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.',
-        'Abraham Lincoln',
+    '6e31c8f6-40f2-5bbf-bac8-acdb9ea3ad41' => [
+        'Putting good energy into your body and raising your serotonin will lead to a positive mood, exuding a more attractive glow.',
+        'Dylan Lauren',
     ],
-    'bc2208b3-a3d0-5226-82f9-57a4332e09de' => [
-        'Directing a movie is a little bit like being back in student government and putting on the homecoming dance. You\'re like, \'You put up the streamers, and you hire the DJ, and you get the punch bowl.\' Some people are just like, \'This dance sucks.\' And you\'re like, \'No no, this dance is awesome!\' You have to be really positive.',
-        'Mike Birbiglia',
+    '4e05c643-f7b2-5290-9bc4-bc863e6a1a00' => [
+        'The Man Who Has Confidence In Himself Gains The Confidence Of Others.',
+        'Hasidic Proverb',
     ],
-    '5a18dd5f-3358-5bda-8fbf-c6945048d7cb' => [
-        'It\'s easy to be critical of ourselves and other women around us. We stand in front of the mirror and only focus on the things we hate about our body and our appearance. But I encourage you to change that attitude the next time you are in front of the mirror.',
-        'Katherine Schwarzenegger',
+    '4797782c-7a9d-5f4c-a38c-43dbf2f30ac5' => [
+        'It comes down to building your own world out here on the road. It\'s who you surround yourself with. My band and crew are really positive guys.',
+        'Brad Paisley',
     ],
-    'ab0f04eb-aa9d-530d-8c5a-7fd592ad93ec' => [
-        'Men are disturbed not by things, but by the view which they take of them.',
-        'Epictetus',
+    'b586aeba-312d-53f2-ab51-a5262bf3ef9d' => [
+        'My advice to an aspiring actor would be to never stop learning or working for what you want. Nothing comes easy, ever, if you want something, you have to work for it. By working for it I mean work on your craft, learn from people who have something to teach. It\'s just like anything else, practice makes perfect.',
+        'James Lafferty',
     ],
-    'f15289fe-cc21-55c0-b215-4ff86541eb41' => [
-        'The best artist has that thought alone Which is contained within the marble shell; The sculptor\'s hand can only break the spell To free the figures slumbering in the stone.',
-        'Michelangelo',
+    '6ca554ce-0c8d-5fee-b8d7-892bbbce8498' => [
+        'The work of the individual still remains the spark that moves mankind ahead even more than teamwork.',
+        'Igor Sikorsky',
     ],
-    'b74f6d67-c586-5dec-a061-8664a2d530dc' => [
-        'Tackle the difficult things first in the morning; make changes in the way you network. Treat everyone with respect and dignity. This stops you from cynicism and negativity. End your day with that same attitude you started. Renew your contract with a day well completed.',
-        'Rick Pitino',
+    '00d15985-aaf0-577b-a2cc-e489e224e05d' => [
+        'Every summer my husband and I pack our suitcases, load our kids into the car, and drive from tense, crowded New York City to my family\'s cottage in Maine. It\'s on an island, with stretches of sea and sandy beaches, rocky coasts, and pine trees. We barbecue, swim, lie around, and try to do nothing.',
+        'Hope Davis',
     ],
-    '29187f52-e4e3-55e5-ac56-1491d9c5f787' => [
-        'No man goes before his time - unless the boss leaves early.',
-        'Groucho Marx',
+    '7b93ecd5-5da8-5670-b8b1-23444bfa8f64' => [
+        'The best lack all conviction, while the worst are full of passionate intensity.',
+        'William Butler Yeats',
     ],
-    'faffb3f9-2a21-596c-8702-0cfbf81086f7' => [
-        'It\'s music. It\'s supposed to be fun and inspirational. You have to be inspired. If I did it because it was my \'job,\' and I only did it to make money, I don\'t think I\'d still be doing it.',
-        'Max Martin',
+    '8d1149c5-b5ea-5ed9-aebd-bddd90afd85a' => [
+        'You can have a laugh in Los Angeles, or you can weep in Los Angeles, depending on your attitude towards it.',
+        'Miranda Richardson',
     ],
-    '36cfa7c5-c092-5b0d-8fe9-915422a6905f' => [
-        'Some go on to trade schools or get further training for jobs they are interested in. Some go into the arts, some are craftsmen, some take a little time out to travel, and some start their own businesses. But our graduates find and work at what they want to do.',
-        'Daniel Greenberg',
+    '7913b394-1f9b-5f4a-8301-e52a2b581128' => [
+        'Point-to-point transit via low orbit could dramatically speed up international flights, connecting the world even further. And safe, consistent space travel opens up the possibility of commercial space stations, trips to the moon and exploration beyond.',
+        'Ben Parr',
     ],
-    '0cfb4141-cb59-57b2-b870-af7b5bfd4b94' => [
-        'In three words I can sum up everything I\'ve learned about life: it goes on.',
-        'Philip Sidney',
+    '1c96f47b-3607-5e47-8ae4-cc4f2a7621fa' => [
+        'Life is a learning experience, only if you learn.',
+        'Yogi Berra',
     ],
-    '828e65af-1475-5324-8207-66ce5592fe6e' => [
-        'I had to act in a school play when I was about ten years old. I really didn\'t want to do it. But everyone had to do it so I didn\'t have a choice. A talent agent came and watched it and later gave me some work. It\'s funny because I\'d always known that I wanted a movie career. I just didn\'t think that I would be in the movies.',
-        'Kristen Stewart',
+    '0bb07061-1130-54bb-a4b8-10ef1a824ed2' => [
+        'You have brains in your head and feet in your shoes, you can steer yourself in any direction you choose.',
+        'Dr. Seuss',
     ],
-    'a0a86908-2471-5207-9589-6c833f4038db' => [
-        'Sometimes you say things with a smile with the precise intention of making it clear that you are not being serious, and are only kidding. If I salute a friend with a smile and say, \'How are you, you old scoundrel!\' clearly I don\'t really mean he\'s a scoundrel.',
-        'Umberto Eco',
+    '3025e769-80af-5676-b38b-8ff0bf9f4b49' => [
+        'In a certain sense, a writer is an exile, an outsider, always reporting on things, and it is part of his life to keep on the move. Travel is natural.',
+        'James Salter',
     ],
-    '88eeaf60-c864-53c0-9aad-0cf20c5c07a7' => [
-        'Slow down and enjoy life. It\'s not only the scenery you miss by going too fast, you also miss the sense of where you are going and why.',
-        'Eddie Cantor',
+    'ac82fe5f-ab48-5f66-905d-d07b2be49c20' => [
+        'An idea that is developed and put into action is more important than an idea that exists only as an idea.',
+        'Buddha',
     ],
-    '41ed9858-704f-52e1-b684-43c50f0a092f' => [
-        'A rainbow is the product of physics working for your appreciation of beauty.',
-        'Kyle Hill',
-    ],
-    '2cd68707-70ab-5ae6-a1a5-1b72da41835a' => [
-        'The first duty of a human being is to assume the right functional relationship to society, more briefly, to find your real job, and do it.',
-        'Charlotte Perkins Gilman',
-    ],
-    '9d44fa29-b2a3-5392-94c8-9a1674d02dae' => [
-        'Always concentrate on how far you\'ve come, rather than how far you have left to go.',
-        'Unknown',
-    ],
-    '990a2478-7051-587b-86a9-f3ffabd44508' => [
-        'All we have to decide is what to do with the time that is given us.',
-        'J. R. R. Tolkien',
-    ],
-    '5f82272f-56a2-5876-8c2c-0037d339adaa' => [
-        'The superior man acts before he speaks, and afterwards speaks according to his action.',
-        'Confucius',
-    ],
-    'e7f7431e-f879-501f-9902-de8f0df3e0bc' => [
-        'I go into it with the attitude that I\'m not going to look at my leg, and as soon as they get the wrapping off of it, I\'m like, \'I\'ve got to look.\' It\'s like yelling at a dog going, \'Squirrel!\' I cannot not look. And then I spend the rest of the time sitting there with a wet washcloth on my forehead trying to regain consciousness.',
-        'Tony Stewart',
-    ],
-    '3a3323b6-a070-532f-a9b6-86715fcf2101' => [
-        'I find it funny how people from Boston and New York hate each other because of pro teams. But, like, everyone on the Red Sox is a random millionaire athlete from somewhere else.',
-        'Julian Casablancas',
-    ],
-    'd9202ce6-d590-5878-9f55-78739e1b007a' => [
-        'You cannot find yourself by going into the past. You can find yourself by coming into the present.',
+    '1ca33229-f83e-55f7-b298-e9e303913fd7' => [
+        'Whenever something negative happens to you, there is a deep lesson concealed within it.',
         'Eckhart Tolle',
     ],
-    'd1849fd5-07a4-5174-8ced-d39b3b592f7b' => [
-        'The attitude and identity that we want to play with doesn\'t change.',
-        'Dan Quinn',
+    '9f6412be-721e-5513-9242-a8a41a4e69e3' => [
+        'Mostly, when I travel, I want to represent my own work well and let others know how I feel about poetry being an important part of life.',
+        'Tim Seibles',
     ],
-    'cdb23f1b-1652-559f-98fb-389023b6958e' => [
-        'Yes\'m, old friends is always best, \'less you can catch a new one that\'s fit to make an old one out of.',
-        'Sarah Orne Jewett',
+    '65501762-8e95-5b5f-921b-175455ff1613' => [
+        'The more you praise and celebrate your life, the more there is in life to celebrate.',
+        'Dan Millman',
     ],
-    '10a520bd-02e5-5845-a3de-7e82fea51e2a' => [
-        'For me, running against the Poles and Czechs would be like running against high school kids. And I hate all this gung-ho, run-for-the-red-white-and-blue attitude that the AAU spouts. If that\'s important to some people, fine, more power to \'em. But, damn it, I wish they\'d leave me alone to do what I want to do - run against the best.',
-        'Steve Prefontaine',
+    'e0fd400d-b82a-552a-8202-08698c38ac55' => [
+        'Positive feelings come from being honest about yourself and accepting your personality, and physical characteristics, warts and all; and, from belonging to a family that accepts you without question.',
+        'Willard Scott',
     ],
-    'f2e78414-f3b7-5005-97cf-c600b5b6f7fe' => [
-        'If my leg falls off, I\'ll get a prosthetic. There\'d be no deep sadness about. I\'d just get on with it! It\'s called life, and I love life. You have to be positive, and you have to crack on no matter what.',
-        'John Lydon',
+    '9163ff89-8a7d-5fb1-8f17-db59efd9d6fb' => [
+        'Remember that physical beauty is evolution\'s way of assuring us that the other person doesn\'t have too many intestinal parasites.',
+        'Ben Bernanke',
     ],
-    'fa6afda1-c4f1-5bdb-81ab-67b7ff063a55' => [
-        'When one must, one can.',
-        'Charlotte Whitton',
+    '963edce5-48af-5a02-9730-2d0ea8e9bdf7' => [
+        'Beauty is truth\'s smile when she beholds her own face in a perfect mirror.',
+        'Rabindranath Tagore',
     ],
-    '6fecc85d-e37b-5cc0-bc5c-14aaa320fab9' => [
-        'Although I have a lot of close female friends in my life, my number one is still my mom. Without her, I wouldn\'t have the values that I have and see the world the way that I do today. She taught me how to appreciate and respect women. She taught me chivalry and how to love a woman and respect their feelings and emotions.',
-        'Charlotte Whitton',
+    '91dbc1d9-ae96-53ac-8288-ccaa7a7d0e67' => [
+        'Everything that slows us down and forces patience, everything that sets us back into the slow circles of nature, is a help. Gardening is an instrument of grace.',
+        'May Sarton',
     ],
-    '4e1052ae-c09b-5113-bf01-8def9090c888' => [
-        'Alas! how little does the memory of these human inhabitants enhance the beauty of the landscape!',
-        'Henry David Thoreau',
+    '45ffac25-f2fa-5747-a90d-fb55d603cdc8' => [
+        'When one travels around the world, one notices to what an extraordinary degree human nature is the same, whether in India or America, in Europe or Australia.',
+        'Jiddu Krishnamurti',
     ],
-    '2db00aa2-faed-5a44-867f-d464f1361cd3' => [
-        'Lost - yesterday, somewhere between sunrise and sunset, two golden hours, each set with sixty diamond minutes. No reward is offered, for they are gone forever.',
-        'Horace Mann',
+    'c18213b4-7420-5e68-9f8a-a3769e87f46e' => [
+        'The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.',
+        'Lao Tzu',
     ],
-    '7cf2af41-2a6d-5ba6-8d9e-70efb111373a' => [
-        'There is a loftier ambition than merely to stand high in the world. It is to stoop down and lift mankind a little higher.',
-        'Henry Van Dyke',
+    'dd6b51ec-124c-5ff8-a47a-c7abb3b5fe7c' => [
+        'It\'s a funny thing, the less people have to live for, the less nerve they have to risk losing nothing.',
+        'Zora Neale Hurston',
     ],
-    '30c89516-f2b5-597a-bd1d-06f310be2241' => [
-        'Epic poetry exhibits life in some great symbolic attitude. It cannot strictly be said to symbolize life itself, but always some manner of life.',
-        'Lascelles Abercrombie',
+    '52d8738d-98cd-535c-880f-562ceacd9404' => [
+        'The productivity of a work group seems to depend on how the group members see their own goals in relation to the goals of the organization.',
+        'Ken Blanchard',
     ],
-    '91462f0a-6dd9-5a23-b799-10596c578498' => [
-        'Family preparedness has been a long-established welfare principle.',
-        'Ezra Taft Benson',
+    '2c4b62f0-0978-5167-8071-93dc22f074eb' => [
+        'The people who influence you are the people who believe in you.',
+        'Henry Drummond',
     ],
-    '7f5391de-de56-5184-a4b5-3729c8b04565' => [
-        'Only then, approaching my fortieth birthday, I made philosophy my life\'s work.',
-        'Karl Jaspers',
+    '0bf90315-626b-52ec-afad-f41eda63b51a' => [
+        'My kids give me the balance to live right.',
+        'Celine Dion',
     ],
-    '94a49c11-611d-5000-b452-d37b60e32de3' => [
-        'I personally think my sister is so stunning without makeup. And she doesn\'t wear that much makeup because she has the best skin color.',
-        'Gigi Hadid',
+    '06ba2fed-6cf1-59d5-bc6d-e2ea8b14c226' => [
+        'I\'m definitely attracted to other Australians; I have a laid-back attitude to life that I feel is very Australian; I love a good barbie.',
+        'Isla Fisher',
     ],
-    'e78c6e85-0b3e-52ac-a067-a91b58fc5add' => [
-        'People who work together will win, whether it be against complex football defenses, or the problems of modern society.',
-        'Vince Lombardi',
+    '4fc22d9b-30e6-5372-818b-e4353be9ac6b' => [
+        'An empowered organisation is one in which individuals have the knowledge, skill, desire, and opportunity to personally succeed in a way that leads to collective organisational success.',
+        'Stephen Covey',
     ],
-    '30f1f506-d880-5b9f-a460-0149efc638ed' => [
-        'The worst times can be the best if you think with positive energy.',
-        'Domenico Dolce',
+    'eda44b53-6a21-54b1-af38-45f9d7d2a74a' => [
+        'I feel like, if there\'s an elephant in the room, I\'d really like to start off by introducing the elephant in the room. And sometimes it\'s funny.',
+        'Louis Theroux',
     ],
-    '640ffb5c-cb57-5de0-884c-3dfaaf67c722' => [
-        'Life is never easy for those who dream.',
-        'Chuck Norris',
+    '3d3702fe-b3ce-50b8-9775-7ab812ce6500' => [
+        'I think the philosophy that you have to have if you travel frequently is, stuff is just stuff. Even if it has some sentimental or family connection, if you lose it in the world, it\'s still just a thing, and I think if you don\'t have that attitude, you will get incredibly stressed out and not enjoy your travels.',
+        'Leila Janah',
     ],
-    'f5e9807a-0f5a-54ce-9fe2-14811f3a6e63' => [
-        'Agriculture changes the landscape more than anything else we do. It alters the composition of species. We don\'t realize it when we sit down to eat, but that is our most profound engagement with the rest of nature.',
-        'Michael Pollan',
+    'ee3918f8-5114-5777-8bbb-5a345c26f648' => [
+        'When you arise in the morning, think of what a precious privilege it is to be alive, to breathe, to think, to enjoy, to love.',
+        'Marcus Aurelius',
     ],
-    'a275aea0-80ff-5e4b-b28b-1200cf135462' => [
-        'As an organizer I start from where the world is, as it is, not as I would like it to be.',
-        'Saul Alinsky',
+    'cc39e13d-42fb-5807-9fef-cd1bc5ba73a9' => [
+        'Creativity is putting your imagination to work, and it\'s produced the most extraordinary results in human culture.',
+        'Ken Robinson',
+    ],
+    '91bb1feb-c304-5532-9cdc-0fcf8c2f50f7' => [
+        'Surfers have the most attitude.',
+        'Shaun White',
+    ],
+    '1903b1dd-576f-5a6c-84fe-ba9b748bbaca' => [
+        'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
+        'Patricia Sun',
+    ],
+    '779884cc-fe19-57c1-8e9b-d2213c61c338' => [
+        'I have amazing friends who have led inspirational lives.',
+        'Andrew Shue',
+    ],
+    'c16660f3-28d0-5f8f-acb7-0016bd8f814a' => [
+        'The time you think you\'re missing, misses you too.',
+        'Ymber Delecto',
+    ],
+    '73448787-ec84-582c-b152-7bab927e50ec' => [
+        'The American culture promotes personal responsibility, the dignity of work, the value of education, the merit of service, devotion to a purpose greater than self, and at the foundation, the pre-eminence of family.',
+        'Mitt Romney',
+    ],
+    '1bd92c66-964b-54e0-bf34-85b95f1c6e6e' => [
+        'Today, figure out what makes you happy and do more of it. Figure out what doesn\'t and do less of it.',
+        'Mandy Hale',
+    ],
+    '8c782b62-e3b0-55b3-bab1-23878b323b73' => [
+        'Anyone who says he can see through women is missing a lot.',
+        'Groucho Marx',
     ],
 ];

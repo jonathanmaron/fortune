@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '03089066-ee6e-5b9d-9e87-fac0a4414229' => [
-        'More than 90 percent of what Planned Parenthood does nationally is preventive care - including cervical cancer screenings, breast cancer screenings, and family planning - mostly for women with low resources and income below the poverty line.',
-        'Gene Green',
+    '36d2da46-f83e-5794-80fa-60eccc141da0' => [
+        'I\'m thankful for each and every day. We never know when time is up.',
+        'Chuck Berry',
     ],
-    '4b425a3b-ae43-5b31-a523-2f761f1a79c2' => [
-        'It can\'t be spring if your heart is filled with past failures.',
+    '958c075a-9559-58f4-bd52-233591f26663' => [
+        'When many work together for a goal, Great things may be accomplished. It is said a lion cub was killed By a single colony of ants.',
+        'Saskya Pandita',
+    ],
+    'f7e2be25-88bc-561d-b467-12fed56acc82' => [
+        'Picking a best friend who stands up for what she believes in, is true to herself and allows you to be yourself without judgement of how \'cool\' you are? Well, now you\'re picking a friend for life.',
+        'Robert Baden-Powell',
+    ],
+    '41631dfc-bbd4-52ca-9214-0484b2ff6f6d' => [
+        'Gratitude is not only the greatest of virtues, but the paren\'t of all the others.',
+        'Cicero',
+    ],
+    '37733b35-6885-5501-98a8-0b20b7eb9725' => [
+        'Our life is the sum total of all the decisions we make every day, and those decisions are determined by our priorities.',
+        'Robert Stigwood',
+    ],
+    '367f65be-0a60-5020-9846-0197a445bcf9' => [
+        'I never thought of myself as like, a funny person.',
+        'Lena Dunham',
+    ],
+    '9c626dc3-0a9f-5fa2-b6f9-b0b1c81b1937' => [
+        'What you get by achieving your goals is not as important as what you become by achieving your goals.',
+        'Zig Ziglar',
+    ],
+    '76121e23-0be3-5f21-9dff-3dc541618ba2' => [
+        'I would warn you that I do not attribute to nature either beauty or deformity, order or confusion. Only in relation to our imagination can things be called beautiful or ugly, well-ordered or confused.',
+        'Baruch Spinoza',
+    ],
+    'ed2f81c0-5859-59db-ac8c-07c1b45b5cf1' => [
+        'I have a Dominique Wilkins Hawks jersey that I still wear. That\'s probably my favorite one. What\'s funny is that I spend all this time collecting jerseys, and now people are out there collecting mine.',
+        'Chris Paul',
+    ],
+    '2cc943bc-fafb-5ffe-ba04-a5f12663b837' => [
+        'The functions of the family in a highly differentiated society are not to be interpreted as functions directly on behalf of the society, but on behalf of personality.',
+        'Talcott Parsons',
+    ],
+    'b8f82a60-c8b4-575e-8473-eee684ce7864' => [
+        'We can come to look upon the deaths of our enemies with as much regret as we feel for those of our friends, namely, when we miss their existence as witnesses to our success.',
+        'Arthur Schopenhauer',
+    ],
+    'c591ae5b-0df5-5d64-862e-28b98bf02002' => [
+        'You win a race, the next race it\'s a question mark. Are you still the best or not? That\'s what is funny. But that\'s what is interesting. And that\'s what is challenging. You have to prove yourself every time.',
+        'Michael Schumacher',
+    ],
+    '30eb5417-8cf6-5aea-8a2a-9974cbcb7207' => [
+        'No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.',
+        'W. Clement Stone',
+    ],
+    '0e5753ad-a447-5e91-bc8c-2bcd1e706d3b' => [
+        'I think the healthy way to live is to make friends with the beast inside oneself, and that means not the beast but the shadow. The dark side of one\'s nature. Have fun with it and you know, is to accept everything about ourselves.',
+        'Anthony Hopkins',
+    ],
+    '773b26ac-3a68-581e-8150-35f2acf2929f' => [
+        'Choose something you like to do. I know it\'s a cliche, and you\'ve heard it over and over. But the reason is, you\'re going to have to work long and hard to achieve any success. You better like it or life is going to be terrible.',
+        'Bill Kurtis',
+    ],
+    '07e12253-f234-50db-bc69-aef55e3a690c' => [
+        'In times of great stress or adversity, it\'s always best to keep busy, to plow your anger and your energy into something positive.',
+        'Lee Iacocca',
+    ],
+    '7c6ab467-f5bd-556f-87d4-7e72935ab172' => [
+        'I would rather die a meaningful death than to live a meaningless life.',
+        'John Burroughs',
+    ],
+    'baa044dc-b683-582d-b3f1-767c582160cb' => [
+        'Salman will always be that special person in my life because he was able to change my career. I will never ever forget what he has done for me. On the personal front, too, he has advised me as a friend and family, something I couldn\'t have even asked for.',
+        'Jacqueline Fernandez',
+    ],
+    '4bb760c4-9cf7-5eff-83c2-6d9eb149b735' => [
+        'The ultimate victory in competition is derived from the inner satisfaction of knowing that you have done your best and that you have gotten the most out of what you had to give.',
+        'Howard Cosell',
+    ],
+    'cc5dafa3-0663-569e-8304-e11ebb0e0180' => [
+        'We live in a rainbow of chaos.',
+        'Sarah Louise Delany',
+    ],
+    'b730345c-76ec-59aa-aba6-8ec49ba2a122' => [
+        'I\'ve always enjoyed traveling and having experience with different cultures and different people. But it\'s also a wonderful thing to be able to benefit and enable research, not only in our country but around the world.',
+        'Laurel Clark',
+    ],
+    '335147d0-865e-5e88-9df4-1018fc71e56e' => [
+        'There is only one thing for us to do, and that is to do our level best right where we are every day of our lives; To use our best judgment, and then to trust the rest to that Power which holds the forces of the universe in his hands.',
+        'Orison Swett Marden',
+    ],
+    '9389b798-97bf-5e84-b614-b2051e5e47f8' => [
+        'I\'m really not that funny in real life! But I am the best audience one could find. I love to laugh.',
+        'Carol Burnett',
+    ],
+    '6c990f91-316c-53ee-bcd0-2c58a605d47d' => [
+        'The best proof of love is trust.',
+        'Joyce Brothers',
+    ],
+    '500680bd-3669-598e-a87b-0d11f9715b28' => [
+        'Oh, I talk about things; I drive my husband insane. And I can\'t tell a lie. Everyone knows. I do this smile thing.',
+        'Cecelia Ahern',
+    ],
+    '9c7a857c-87b6-57c4-b25f-ae1950c09e67' => [
+        'I think my attitude to human beings has changed since leaving prison.',
+        'Jeffrey Archer',
+    ],
+    '10083b0e-6938-53e9-a66b-263aef20f1f3' => [
+        'Passion creates the desire for more and action fuelled by passion creates a future.',
         'Byron Pulsifer',
     ],
-    '44f5078c-76d1-547a-b00a-a9c54890f6ca' => [
-        'People will travel anywhere for good food - it\'s crazy.',
-        'Rene Redzepi',
+    '8bd916e8-b0af-5414-87d8-2cbf4615c0d7' => [
+        'Solar power, wind power, the way forward is to collaborate with nature - it\'s the only way we are going to get to the other end of the 21st century.',
+        'Bjork',
     ],
-    '38bb1346-7328-5ac9-a478-e960263060a9' => [
-        'Life is like an ice-cream cone, you have to lick it one day at a time.',
-        'Charles M. Schulz',
+    '7ae434df-d900-5f1a-9942-db58ee6d9b91' => [
+        'Winners make a habit of manufacturing their own positive expectations in advance of the event.',
+        'Brian Tracy',
     ],
-    '2d88de33-ad43-58c5-8ee3-37fc19d9014f' => [
-        'God always gives His best to those who leave the choice with him.',
-        'Jim Elliot',
+    'ccfbb504-66ed-5853-addb-8e31036e0d8c' => [
+        'My label, my team and I are always looking to get involved with positive things.',
+        'Sevyn Streeter',
     ],
-    '8fd5832a-9938-5665-892b-9cc7cdecc822' => [
-        'I had gotten to a place where I truly believed everything I was called: \'not sexy,\' \'not funny,\' \'too intense,\' desperate.\' All those labels they gave me, I took them because there wasn\'t a trace of my true self left.',
-        'Naomi Watts',
+    '8b2f39a3-b11c-5751-a92b-b7ef5c4b3e4e' => [
+        'When you grow up by the sea, you spend a good deal of time looking at the horizon. You wonder what on Earth the waves might bring - and where the sea might deposit you - until one day you know you have lived between two places, the scene of arrival and the point of departure.',
+        'Andrew O\'Hagan',
     ],
-    'df6d6f1c-091c-5b75-b878-14c82aaf3b76' => [
-        'The noir hero is a knight in blood caked armor. He\'s dirty and he does his best to deny the fact that he\'s a hero the whole time.',
-        'Frank Miller',
+    'a9790390-cac2-5af0-9b87-0084263df625' => [
+        'I like the cold weather. It means you get work done.',
+        'Noam Chomsky',
     ],
-    '97a673e8-43c6-5687-9fdc-aa702cf83bbe' => [
-        'When I see myself on film it makes me smile, I mean making a good living doing what I enjoy is soo much fun. I just hope that everyone has the chance to enjoy life like I do.',
-        'Adrienne Barbeau',
+    '3015ed5c-06b3-5fc7-a942-c728a75ff46a' => [
+        'My greatest success story has been my family.',
+        'Alex Spanos',
     ],
-    'ce094687-5418-5aa0-8f9e-f5aecd3e1ab0' => [
-        'I just have beautiful memories of what has happened in my life.',
-        'Sophia Loren',
+    '23bd3ccb-28b8-5bc4-a7fa-55cfcd8e9207' => [
+        'I think people should have fun. And don\'t get so down on yourself. Enjoy life and be the best person you can be.',
+        'Keke Palmer',
     ],
-    '8ebcdc68-2517-5baf-8697-dd8c9bbd74da' => [
-        'The best path through life is the highway.',
-        'George Bernard Shaw',
+    '92c529b1-a37c-5ca4-bacc-ca7ad55e9385' => [
+        'We owe to the Middle Ages the two worst inventions of humanity - romantic love and gunpowder.',
+        'Andre Maurois',
     ],
-    '818b145c-8987-5de0-a3ea-a29fe398c969' => [
-        'You\'ve got to eat while you dream. You\'ve got to deliver on short-range commitments, while you develop a long-range strategy and vision and implement it. The success of doing both. Walking and chewing gum if you will. Getting it done in the short-range, and delivering a long-range plan, and executing on that.',
-        'Jack Welch',
+    '306fe577-147f-52fc-a63b-4e4f3d147151' => [
+        'My personal ambition remains the same - to be creative, to be modern, to stay one step ahead, to enjoy life.',
+        'Valerie Bertinelli',
     ],
-    '09953595-5ad5-5661-a18e-943be5c81cf5' => [
-        'When you see that many people with a smile on their face, then you must be doing something right.',
-        'Greg Norman',
+    '4efd095f-a254-5369-9ca4-7779898d2cfa' => [
+        'Like the United Nations, there is something inspirational about New York as a great melting pot of different cultures and traditions. And if this is the city that never sleeps, the United Nations works tirelessly, around the clock around the world.',
+        'Ban Ki-moon',
     ],
-    '49363dec-a5f9-5884-8265-35b858ff9e03' => [
-        'I\'m kidding about having only a few dollars. I might have a few dollars more.',
-        'James Brown',
+    'f4d5c611-1e39-5910-9d4f-1bd9c173b046' => [
+        'Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.',
+        'Napoleon Hill',
     ],
-    'b1115ba2-e315-52d6-87c2-26e6bd9c9898' => [
-        'Red lipstick has been my beauty staple for years. I show up to Pilates or yoga at 8 A.M. wearing my red lipstick.',
-        'Liz Goldwyn',
+    '0844f920-a696-50dd-99c2-5a0f744cf6a3' => [
+        'I cannot always control what goes on outside. But I can always control what goes on inside.',
+        'Wayne Dyer',
     ],
-    '75489823-29ca-5a49-87a0-e2c6122429fb' => [
-        'Every decently-made object, from a house to a lamp post to a bridge, spoon or egg cup, is not just a piece of \'stuff\' but a physical embodiment of human energy, testimony to the magical ability of our species to take raw materials and turn them into things of use, value and beauty.',
-        'Kevin McCloud',
+    'cde6f291-1c2d-5f39-9fba-df2adedd9afa' => [
+        'It was a unique childhood, to say the least. My father was born in Patiala to refugee parents and was a part of the Indian Air Force. The talented few amongst the Air Force pilots are made test pilots. Test pilots are best suited to look at the space programme as they are trained to expect the unexpected.',
+        'Kapil Sharma',
     ],
-    '7644ab97-5488-5ea5-a775-eb58d3d8c4c6' => [
-        'I think Operation Smile is in more than 22 countries, mostly Third World. It just happened that my schedule opened up at the time they were heading to Vietnam.',
-        'Roma Downey',
+    '97f321e3-0c3b-57d3-91aa-3a8c28a50df6' => [
+        'Out of difficulties grow miracles.',
+        'Jean de la Bruyere',
     ],
-    '47c4c56b-cfd4-50b3-a8f5-1af73ded491c' => [
-        'Adele shattered the image of how the stereotypical singer is supposed to look. She has that whole \'Screw you, I\'m awesome for what I do\' attitude, which I really look up to and want to be a part of.',
-        'Mary Lambert',
+    '15daf61c-9ac0-5e1c-a514-028b2ecbe289' => [
+        'It is strange that the years teach us patience; that the shorter our time, the greater our capacity for waiting.',
+        'Elizabeth Taylor',
     ],
-    'be2d3642-1f73-5ce7-884b-63801117cd5c' => [
-        'Some minds improve by travel, others, rather, resemble copper wire, or brass, which get the narrower by going farther.',
-        'Thomas Hood',
+    '185972c2-7440-5f68-86e3-b0ba521570b3' => [
+        'Somebody said something funny to me the other day. They said, \'Wolper, until two weeks ago, your tombstone was going to say, \'David Wolper, the man who produced \'Roots.\' I think the tombstone now has a new inscription. It\'s going to be \'David Wolper, the man who produced the opening ceremony of the 1984 Olympics.\'',
+        'David L. Wolper',
     ],
-    '962fc46a-2a3b-5f86-a141-a78d3f6369d2' => [
-        'I drove right into the music with the same sort of attitude as I went into the football stuff with. Just found a routine and hard work, and it helped me progress a lot faster.',
-        'Sam Hunt',
+    'db2e0750-ab75-5e2d-9a55-b9901ef728d5' => [
+        'But time growing old teaches all things.',
+        'Aeschylus',
     ],
-    '9eb46a41-0ad5-531e-a55f-ff16c6affe86' => [
-        'I\'m not a Starbucks guy. I\'m a Dunkin Donuts guy, but I like to pay for the coffee of the other folks behind me in line. It typically costs me less than $10, and makes the other people feel good, but more importantly, it makes me feel so good, and random acts of kindness change the world one person at a time.',
-        'Robert Kraft',
+    '8cd34579-64d7-56b7-9ae7-410c66b9181c' => [
+        'We don\'t tend to write about disease in fiction - not just teen novels but all American novels - because it doesn\'t fit in with our idea of the heroic romantic epic. There is room only for sacrifice, heroism, war, politics and family struggle.',
+        'John Green',
     ],
-    'fae5dd35-70ab-5c3e-ae5f-7f623bef6cea' => [
-        'The true treasure lies within. It is the underlying theme of the songs we sing, the shows we watch and the books we read. It is woven into the Psalms of the Bible, the ballads of the Beatles and practically every Bollywood film ever made. What is that treasure? Love. Love is the nature of the Divine.',
-        'Radhanath Swami',
+    'ecf59df5-ea1f-50ad-95d4-419ae3ea4677' => [
+        'Stop doing things that waste time. Don\'t replace time with your family or things that you need to do. I needed to put together two fantasy teams this weekend because that\'s something I enjoy, but I did stop playing Nintendo Wii for hours on end.',
+        'Gary Vaynerchuk',
     ],
-    'ad7ad3b7-7f52-5ef5-9ba2-c9c99d26b300' => [
-        'Christmas is the spirit of giving without a thought of getting. It is happiness because we see joy in people. It is forgetting self and finding time for others. It is discarding the meaningless and stressing the true values.',
-        'Thomas S. Monson',
+    'f916e5e0-06be-5f7b-b83b-ce99990e13f5' => [
+        'I grew up around a lot of various religions, so it\'s a part of my consciousness in a way. Everything from heavy Catholicism to followers of Indian spiritual masters to Unitarian universalists - all in one family. Though the family aspect was stronger than any particular dogma.',
+        'St. Vincent',
     ],
-    '0b95c5eb-ed76-58ae-b147-0143de26de40' => [
-        'Those who have never known the deep intimacy and the intense companionship of mutual love have missed the best thing that life has to give.',
-        'Bertrand Russell',
+    '94230d61-cd9d-5d26-88b6-ea3ccdf86b3a' => [
+        'With every drop of water you drink, every breath you take, you\'re connected to the sea. No matter where on Earth you live. Most of the oxygen in the atmosphere is generated by the sea.',
+        'Sylvia Earle',
     ],
-    'e97d9b72-7b9b-5862-8217-60e9339c952d' => [
-        'Tell me not of joy: there\'s none Now my little sparrow\'s gone; He, just as you, Would toy and woo, He would chirp and flatter me, He would hang the wing awhile, Till at length he saw me smile, Lord! how sullen he would be!',
-        'William Cartwright',
+    'd7e8b7bc-b2d9-549f-b15c-c0c9f4971312' => [
+        'I like it best when two ideas collide, like when you have a crazed attitude towards women combined with a crazed attitude towards the Vietnamese. I like that. Even if it\'s not true, I don\'t care whether it\'s true or false. I just do it.',
+        'Peter Saul',
     ],
-    '5a67d7cb-4f9a-56b1-af0f-bea76a291edc' => [
-        'First, I want to pay tribute to Diana myself. She was an exceptional and gifted human being. In good times and bad, she never lost her capacity to smile and laugh, nor to inspire others with her warmth and kindness. I admired and respected her - for her energy and commitment to others, and especially for her devotion to her two boys.',
-        'Queen Elizabeth II',
-    ],
-    '0bcd50a3-63a8-5183-b12b-710053f6b692' => [
-        'If I studied all my life, I couldn\'t think up half the number of funny things passed in one session of congress.',
-        'Will Rogers',
-    ],
-    '02fa9a77-34b4-5fe2-9c7e-feb391c2a4f3' => [
-        'I\'m always trying to make myself laugh. I\'m the most enthusiastic audience I\'m likely to find, so if it doesn\'t make me smile then it probably won\'t work on you. The jokes that only make me shrug get cut.',
-        'Victor LaValle',
-    ],
-    '9f31efbf-6961-5dbb-814a-3e34b12e4e8b' => [
-        'As straight Americans we have two choices: we can choose to sit back and enjoy our rights as we have them, or we can realize that it is actually not freedom at all when our friends, family, neighbors, and colleagues do not share these basic rights.',
-        'Jack Antonoff',
-    ],
-    'b4acb295-46bf-5189-bc9f-2b8d9d9d973d' => [
-        'I always prefer to believe the best of everybody, it saves so much trouble.',
-        'Rudyard Kipling',
-    ],
-    '5cbf79b8-f6e8-5990-a746-8db84de99bf9' => [
-        'We don\'t stop playing because we grow old; we grow old because we stop playing.',
-        'Bernard Shaw',
-    ],
-    '51b71324-16e9-5268-909e-c3a694fedf84' => [
-        'Life has meaning only if one barters it day by day for something other than itself.',
-        'George Gershwin',
-    ],
-    '907fd308-983f-58d4-8539-a07756341383' => [
-        'The travel impulse is mental and physical curiosity. It\'s a passion. And I can\'t understand people who don\'t want to travel.',
-        'Paul Theroux',
-    ],
-    '775d4084-8c29-57a7-95e0-282e3ffe2ee0' => [
-        'When I speak in English, my expressions become different. My attitude, too. I\'m not sure why, but there really is a difference. My hands move differently when I speak English.',
-        'Gong Li',
-    ],
-    '32017b25-6afe-5d1f-a1db-151f9dcf1b96' => [
-        'We do not remember days, we remember moments.',
-        'Confucius',
-    ],
-    'ed1e461b-689d-56f3-a212-fabf40cf3381' => [
-        'What\'s another word for Thesaurus?',
-        'Steven Wright',
-    ],
-    '090e6d3b-e9eb-5090-99df-8409639c75cf' => [
-        'He is a very positive captain; he is proactive as well as reactive. He is keen to read the game, to get in there, and he never stops thinking about the game, the situation, and trying to turn it to his advantage. He has been very good for the game.',
-        'David Gower',
-    ],
-    '4772ed08-cb67-5369-8aa9-73494132ba67' => [
-        'All of us grow up in particular realities - a home, family, a clan, a small town, a neighborhood. Depending upon how we\'re brought up, we are either deeply aware of the particular reading of reality into which we are born, or we are peripherally aware of it.',
-        'Chaim Potok',
-    ],
-    'f70d3b15-924b-5f66-8168-6ac403761d41' => [
-        'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.',
-        'Elayne Boosler',
-    ],
-    '17d4805b-a267-52f9-abd3-c1425d81c1b1' => [
-        'The great thing for me about \'The Resurrection of Gavin Stone\' is it\'s a throwback to the old fashioned Hollywood movie that you can watch with your family, has a message, and is funny and entertaining. They didn\'t call them faith-based movies; they just called them good movies.',
-        'D. B. Sweeney',
-    ],
-    'f9c7ae63-aa91-5f2b-96b9-b454a416a677' => [
-        'It\'s a funny thing. I\'ll be in my home town of Columbus at a restaurant or something, and the waiter maybe asks, \'What do you do?\' and I say, \'Oh, I\'m in a band... Twenty One Pilots,\' and he\'ll say, \'Cool, I\'ll check it out. I never heard of them.\' And then I say, \'In September we\'re playing the Schottenstein Center,\' and it\'s like, \'What?!\'',
-        'Tyler Joseph',
-    ],
-    'd527b2fd-b56c-5183-b2bf-cd5f859aedca' => [
-        'I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.',
-        'Amy Tan',
-    ],
-    '4f012d37-3d3c-5ad4-9422-ec893836d2dc' => [
-        'The physician\'s duty is not to stave off death or return patients to their old lives, but to take into our arms a patient and family whose lives have disintegrated and work until they can stand back up and face - and make sense of - their own existence.',
-        'Paul Kalanithi',
-    ],
-    '1ba36341-9f8c-560e-a1a4-c40146185093' => [
-        'I see myself as no color. I can play the role of a man. I can paint my face white if I want to and play the role of white. I can play a green, I can be a purple. I think I have that kind of frame and that kind of attitude where I can play an animal.',
-        'Grace Jones',
-    ],
-    '9de5abc4-2525-56f9-98cc-378298bb4372' => [
-        'No universal selfishness can bring social good to all. Communism - the effort to give all men what they need and to ask of each the best they can contribute - this is the only way of human life.',
-        'W. E. B. Du Bois',
-    ],
-    'fe87a4e5-4a2f-53a6-babb-be0e2ef58941' => [
-        'I think we live in a world where the most important thing is daily life: sharing a space with your family, making meals, being with your people. It\'s not only the idea of privacy, it\'s the beauty of the moment, at a time in the world when everything goes really fast - too fast.',
-        'Ana Tijoux',
-    ],
-    '68a440d5-ac3f-5eb8-800c-ce1f2c2ffd28' => [
-        'I never get tired of smiling. I\'m just the kind of guy who likes to smile.',
-        'Jason Ritter',
-    ],
-    'cd6befcc-4932-51b2-83f2-0a8021a5165a' => [
-        'You got to be careful if you don\'t know where you\'re going, because you might not get there.',
-        'Yogi Berra',
-    ],
-    '48c99eba-dfad-5e72-b841-330568212cc6' => [
-        'I have so many indie bands on my iPod. What I don\'t really understand is the attitude that if a band is unknown, they\'re good, and if they get fans, then you move on to the next band.',
-        'Taylor Swift',
-    ],
-    '484c910c-dad7-587a-a27b-0eff42cda5c2' => [
-        'All I want to do when I have time off is to have a laugh with my school friends and go down the pub.',
-        'Samantha Mumba',
-    ],
-    'eb9027ca-8ff3-5fdb-b7c7-82f4c48fd3c7' => [
-        'A series of rumors about my attitude, as well as derogatory remarks about myself and my family showed me that the personal resentment of the Detroit general manager toward me would make it impossible for me to continue playing hockey in Detroit.',
-        'Ted Lindsay',
+    '9d0c918e-a1e9-5f34-aaaf-555baf934448' => [
+        'You don\'t have to have an attitude if you\'re famous.',
+        'Adriana Lima',
     ],
 ];

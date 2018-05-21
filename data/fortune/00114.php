@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '59a9e999-81b0-5892-83e1-73aea2338e67' => [
-        'The old cathedrals are good, but the great blue dome that hangs over everything is better.',
-        'Thomas Carlyle',
+    'a855d01d-8f10-5469-bdd0-11ab8f8c413f' => [
+        'Every one in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.',
+        'Maria Montessori',
     ],
-    '5d13bc86-ce2b-5102-b921-26cdb5128827' => [
-        'When life partner happens, I hope he is not a youth icon then because I doubt even I would be youthful then. Whether life partner is hot or not, that doesn\'t matter. He has to be a nice man. He should be funny, responsible, and he should be sweet, and he should love me a lot.',
-        'Alia Bhatt',
+    '17bdd239-dcc9-58df-9342-feb6e9abced1' => [
+        'The most used program in computers and education is PowerPoint. What are you learning about the nature of the medium by knowing how do to a great PowerPoint presentation? Nothing. It certainly doesn\'t teach you how to think critically about living in a culture of simulation.',
+        'Sherry Turkle',
     ],
-    'ac4b9641-11b1-5647-a596-29a24850c35f' => [
-        'It was just like a dream. I could have ended up with an album that\'s not all that different from anything else coming out of Nashville. Mutt made the difference. He took these songs, my attitude, my creativity, and colored them in a way that is unique.',
-        'Shania Twain',
+    'a94f41dd-6181-5fe8-b1b0-63b11ef3bad6' => [
+        'I enjoy going to work and having a good time. It\'s tough when you got to work with people who just are in a bad mood all the damn time.',
+        'Queen Latifah',
     ],
-    'ed0d98f3-9a2d-5b2e-a032-e0ea433855d0' => [
-        'Growing up with three older brothers and being the youngest and the only girl, my mom always made me tough. She\'s taught me over the years how to be a strong, independent woman, how to carry yourself in a positive way and anything that my brothers can do, I can do.',
-        'Diana Lopez',
+    'b8fa8f27-bdfe-5ff8-aebf-bbe3f4728eeb' => [
+        'You go through life wondering what is it all about but at the end of the day it\'s all about family.',
+        'Steve Jobs',
     ],
-    '99117619-8c1b-53f3-879b-2ab00bf343ec' => [
-        'I sort of understood that when I first started: that you shouldn\'t repeat a success. Very often you\'re going to, and maybe the first time you do, it works. And you love it. But then you\'re trapped.',
-        'Jack Nicholson',
+    'cbcea8f1-c724-5cdc-bb0c-0c84996963fc' => [
+        'As important as it is to learn how to deal with different kinds of people, truly toxic people will never be worth your time and energy - and they take a lot of each. Toxic people create unnecessary complexity, strife, and, worst of all, stress.',
+        'Travis Bradberry',
     ],
-    '6e598df3-d4a6-5cf7-a1da-2af02d9e06a2' => [
-        'The cool wind blew in my face and all at once I felt as if I had shed dullness from myself. Before me lay a long gray line with a black mark down the center. The birds were singing. It was spring.',
-        'Burl Ives',
+    'c711df8d-365d-55b8-a8c8-1380ad35ce1e' => [
+        'Wherever you are - be all there.',
+        'Jim Elliot',
     ],
-    '7fb15477-b5f0-59c6-a465-9436e2a9417c' => [
-        'When I was in college, I was in the theater department, which for anyone who has been involved in any kind of theater program, you know that it\'s really wacky and tight-knit, a real family. Me and my good friends from college would do random shows and plays that were sometimes serious, but most of the time really goofy and funny.',
-        'Darren Criss',
+    '1c1b3f7e-4ca6-5a7a-9919-d552685de33d' => [
+        'I like actors that are good with pantomime and that can transmit a lot by their presence and attitude more than through their dialogue.',
+        'Guillermo del Toro',
     ],
-    'baa12c27-8f06-5f40-b551-71d1285b5ec3' => [
-        'The moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity.',
-        'Joshua Waitzkin',
+    '161e5919-b2e6-54ae-871b-cf0fe061e371' => [
+        'If someone is always to blame, if every time something goes wrong someone has to be punished, people quickly stop taking risks. Without risks, there can\'t be breakthroughs.',
+        'Peter Diamandis',
     ],
-    'e0e104d2-0a38-59d7-a9a5-76ce595b24f5' => [
-        'Along with success comes a reputation for wisdom.',
-        'Euripides',
+    'a3b387a0-c1c0-5914-85c2-9efea245926d' => [
+        'There are three constants in life... change, choice and principles.',
+        'Ray Lewis',
     ],
-    '66d0d8e7-8faf-598a-ae61-0f8fc25fb8f7' => [
-        'We become what we think about.',
-        'Earl Nightingale',
+    '4f78db42-539d-5e08-b969-0ebb43dbab01' => [
+        'I think the chance of finding beauty is higher if you don\'t work on it directly. Beauty in architecture is driven by practicality. This is what you learn from studying the old townscapes of the Swiss farmers.',
+        'Peter Zumthor',
     ],
-    '26e4211a-f141-5f0f-800b-a17eb90b1286' => [
-        'My restaurants are never opened on Thanksgiving; I want my staff to spend time with their family if they can. My feeling is, if I can\'t figure out how to make money the rest of the year so that my workers can enjoy the holidays, then I don\'t deserve to be an owner.',
-        'Michael Symon',
+    'ae9a0afa-bb59-5554-83a2-7ff93346c9e0' => [
+        'Trust your hunches. They\'re usually based on facts filed away just below the conscious level.',
+        'Joyce Brothers',
     ],
-    '7b88b10f-48ed-5920-b5ff-1d9c701b47a8' => [
-        'Inappropriateness is funny to me. Rudeness is hilarious.',
-        'Zach Galifianakis',
+    '55068685-5348-5378-94a6-5565af2a50af' => [
+        'A dream becomes a goal when action is taken toward its achievement.',
+        'Bo Bennet',
     ],
-    '8ac5f266-8e13-55b6-891c-59001fc67c4b' => [
-        'Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.',
-        'John Kennedy',
+    'd9d4249c-e29a-54cd-b9e3-884c9112650d' => [
+        'A fit body gives you confidence. And there\'s nothing more impressive than a great attitude, which you can wear on your sleeve. But you\'ll have to remember the difference between being rude and being confident.',
+        'Virat Kohli',
     ],
-    '76d262b1-40cc-5d05-8d1f-6aaf35134c71' => [
-        'A good compromise is one where everybody makes a contribution.',
-        'Angela Merkel',
+    '73344e12-df87-5cd3-bd9b-7018040bbe90' => [
+        'Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.',
+        'Marcus Aurelius',
     ],
-    '8be98bc0-04ef-5afd-8a9e-cbd5bec2bf32' => [
-        'You must respect people and work hard to be in shape. And I used to train very hard. When the others players went to the beach after training, I was there kicking the ball.',
-        'Pele',
+    '78cc75c6-cae8-5c08-9b95-1ade81d6894d' => [
+        'Really you just gotta keep chugging along and keep a positive attitude and get through all the problems. You gotta face them, otherwise you don\'t get through.',
+        'Lesley Gore',
     ],
-    '343d46e3-c06a-52ae-b453-60ef3811afee' => [
-        'Football has to work really hard to put a smile on people\'s face and not to be so focused on the question of money. Everything is in danger of losing its soul if you\'re always going to sell out to the highest bidder.',
-        'Gordon Taylor',
+    '4cd310df-d400-56bb-ac88-bf6c4d002cc9' => [
+        'Three things in human life are important. The first is to be kind. The second is to be kind. And the third is to be kind.',
+        'Carl Jung',
     ],
-    '16fa611f-d1d7-560e-87cd-3233162b6ecb' => [
-        'It\'s wonderful to travel with somebody that you love and we never travel anywhere without one another.',
-        'Roger Moore',
+    'c8f751ff-98c9-53d3-99b1-1cb5c55b59d6' => [
+        'There is a brief moment when all there is in a man\'s mind and soul and spirit is reflected through his eyes, his hands, his attitude. This is the moment to record.',
+        'Yousuf Karsh',
     ],
-    '5a81cad1-4935-56cf-bbd7-54919a4e4c0c' => [
-        'If time be of all things the most precious, wasting time must be the greatest prodigality.',
-        'Benjamin Franklin',
+    '17d29c85-1bec-554f-be0b-4416487367de' => [
+        'The best luck of all is the luck you make for yourself.',
+        'Douglas MacArthur',
     ],
-    '13d515a3-4d53-54d5-8c32-bfb2ea20334d' => [
-        'The vibe in our locker room is real energetic and fun and real personable, I think from Day 1. That gets you through a lot of tough times, where in hard times, it might be common nature for guys to do their own thing and split up and become silent.',
-        'Stephen Curry',
+    '537b6a6d-035d-57a5-a0d5-3d555de7c5c2' => [
+        'For me, being tall was very positive because I thought my mom was the most beautiful person ever.',
+        'Lisa Leslie',
     ],
-    'b8031a13-f744-5b49-baac-864acfa03c74' => [
-        'All you can do is be your best self. I\'ve always felt that I had to be that much more aware of how I present myself. I\'m representing more than just me. I think every person should think that way.',
-        'Misty Copeland',
+    '8fd0e71e-7d4b-54be-9d7d-c3d615bb972a' => [
+        'I\'m a real nature lover, so whenever possible, I like to get to the beach or get to a forest or get somewhere there\'s fresh air. Apart from that, I\'m a film addict and a DVD freak.',
+        'Murray Bartlett',
     ],
-    '8e6eb17a-7f52-5218-8eab-7dfc4408090c' => [
-        'I\'m out there arguing the Labor case. I will do it anywhere and everywhere that I can. I do it within various communities across Australia where I am able to make a positive contribution. And let me tell you, my voice won\'t be silenced in the public debate because the issue at stake for Australia are so stark.',
-        'Kevin Rudd',
+    '11191460-2113-5cfd-8d2c-b31c4e3468a9' => [
+        'My life is full of drama, and I don\'t have time to worry about something as petty as what I look like.',
+        'Adele',
     ],
-    '0b51780b-e2c7-5b23-ba63-4d86d7c11112' => [
-        'Feeling anxious or depressed sometimes is part of what it means to be a person, and it might even be essential to success.',
-        'K. Flay',
+    '067137c1-e523-5855-89eb-608cecd8ace3' => [
+        'Let the gentle bush dig its root deep and spread upward to split one boulder.',
+        'Carl Sandburg',
     ],
-    'cee2e44b-d4dd-5cd0-9ef3-e7ef625a298f' => [
-        'Success seems to be largely a matter of hanging on after others have let go.',
-        'William Feather',
+    '7bb4cd7b-ef7b-5d57-aadf-46cb9833ae8f' => [
+        'I really have been lucky because I\'ve always had a very healthy attitude to my body.',
+        'Lily James',
     ],
-    'eba4455a-6bc4-57a5-b9a9-2f91cf1830cb' => [
-        'Being in Blur has allowed me to travel and hear the music that\'s being made all over the world.',
-        'Damon Albarn',
+    'e6c228e1-17cb-55b2-829a-238e2618e35f' => [
+        'Silence is the last thing the world will ever hear from me.',
+        'Marlee Matlin',
     ],
-    'b4273db2-6c5f-54d2-8bad-3d5611d029e2' => [
-        'The winner ain\'t the one with the fastest car it\'s the one who refuses to lose.',
-        'Dale Earnhardt',
+    '5f15a625-37dc-5e69-8851-ac6e2e79a021' => [
+        'What really interests me is how a woman who has had a bad experience with a man comes through it and gets a new life. I feel you have to be positive. You have to say, \'Look, okay, he\'s ditched you, but there\'s life after.\'',
+        'Kate O\'Mara',
     ],
-    '1e95e9f9-1ef5-531b-9035-17469563ec1a' => [
-        'The real business of life is trying to understand each other.',
-        'Plato',
+    'af4570d3-bdcd-5c89-b603-7b3f91f71b78' => [
+        'That old law about \'an eye for an eye\' leaves everybody blind. The time is always right to do the right thing.',
+        'Martin Luther King, Jr.',
     ],
-    '438a2c0f-a323-5aa7-a3c2-e4c3f9fa3b05' => [
-        'Truth is powerful and it prevails.',
-        'Sojourner Truth',
+    '8206ecd0-3ede-5f8f-9590-f93f4ce799a9' => [
+        'All blame is a waste of time. No matter how much fault you find with another, and regardless of how much you blame him, it will not change you. The only thing blame does is to keep the focus off you when you are looking for... reasons to explain your unhappiness or frustration.',
+        'Casey Stengel',
     ],
-    '72f87a13-f7ce-5f66-92b8-3175e5dce772' => [
-        'Some people say I have attitude - maybe I do... but I think you have to. You have to believe in yourself when no one else does - that makes you a winner right there.',
-        'Venus Williams',
+    'd3cb3212-755f-568d-a989-0ade51875cd3' => [
+        'Nothing. We\'re all friends and friendly. So when the cameras go down, depending on the mood or the nature of the material we\'re dealing with, there\'s usually a kind of a prevailing light attitude that\'s floating around.',
+        'Richard Dean Anderson',
     ],
-    'c252bd04-887b-5964-8ed4-9a35d1d60e6f' => [
-        'Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.',
-        'Albert Schweitzer',
+    'd286140b-a363-59af-9053-bce39cd729bd' => [
+        'Americans think Soviets are so grim. I want them to see that they can smile.',
+        'Yakov Smirnoff',
     ],
-    '510c5bc3-6292-5923-9f08-c080bf43f97a' => [
-        'France has been very good for me. It has given me a very worldly-cool attitude.',
-        'Marianne Faithfull',
+    'b8872a36-b4c1-5e32-99ad-5e1d09e39739' => [
+        'The older we get, the swifter time seems to pass and the quicker memories seem to fade.',
+        'Brian Sibley',
     ],
-    '581aba97-99c3-51ba-a6b4-79e4d372c831' => [
-        'People shouldn\'t look at me and think life is one big piece of glamour. That\'s the marketing, the spin. Life is challenging. But I have courage, strength, and enough good health to see the positive.',
-        'Carmen Dell\'Orefice',
+    'd29dfaaa-4575-5721-9b8a-cf89b3669f86' => [
+        'Inner beauty should be the most important part of improving one\'s self.',
+        'Priscilla Presley',
     ],
-    '2165c874-cd21-577b-b725-911a754a9931' => [
-        'Freedom is not worth having if it does not connote freedom to err.',
-        'Mohandas Gandhi',
+    'abb883fe-b1d2-523a-9db1-f7c8989e0acc' => [
+        'Positive defaults protect you from yourself - and that helps you to make decisions in the moment that are better for your long-term interests.',
+        'Tom Rath',
     ],
-    '93f4b685-3996-5467-8985-29212ae3ad72' => [
-        'Official education was telling people almost nothing of the nature of all those things on the seashores, and in the redwood forests, in the deserts and in the plains.',
-        'Gregory Bateson',
+    'd054121f-bb5c-5355-8dbd-f6286ae1d7e9' => [
+        'People fall forward to success.',
+        'Mary Kay Ash',
     ],
-    '1538edac-05e9-53f1-a14a-40b4025d229e' => [
-        'The secret to happiness is freedom. And the secret to freedom is courage.',
-        'Thucydides',
+    'a9e37895-c76f-5114-9cf2-ecdd8e08b9d0' => [
+        'Success is the sum of details.',
+        'Harvey S. Firestone',
     ],
-    'a466c56b-b84c-5015-bbb3-eefe16eb4e16' => [
-        'The work environment is very important in determining how enjoyable work is. It is very important to work with smart guys who have a superior level of intellectual bandwidth and still have softer skills as well.',
-        'Kumar Mangalam Birla',
+    '85d58e0e-18d4-5190-ac51-a684ad02cc57' => [
+        'The fall is my favorite time of year. I love the colors. The sun is out, you get warmth on your skin but there\'s the coolness of the breeze. It\'s really comfortable.',
+        'Ricky Skaggs',
     ],
-    'dc80c55b-b3ea-5e0a-a4d0-5e4af9f06517' => [
-        'There is no definition of beauty, but when you can see someone\'s spirit coming through, something unexplainable, that\'s beautiful to me.',
-        'Liv Tyler',
+    '8a1f65b0-a8af-5e8d-b2e3-2bcfdc6394b6' => [
+        'Eternity: a moment standing still for ever.',
+        'James Montgomery',
     ],
-    'ba7075bb-76fb-57d8-a826-5382f6da91d5' => [
-        'I would say I\'m an inspirational guidelines book. You can take my life story or scenarios or songs and relate to them and apply them to your everyday life.',
-        'Chris Brown',
+    '9ca0dedc-b320-53bd-ac21-1d7988318c39' => [
+        'Time travel may be achieved one day, or it may not. But if it is, it should not require any fundamental change in world-view, at least for those who broadly share the world view I am presenting in this book.',
+        'David Deutsch',
     ],
-    '5a4149d8-24a0-51a5-bc31-5835ab50a74a' => [
-        'From what we get, we can make a living; what we give, however, makes a life.',
-        'Arthur Ashe',
+    '05355ed5-4d38-5281-8616-add86c62edd4' => [
+        'I think that business book reporting, it\'s all Jim Collins, it\'s the story of victory; it\'s success bias over and over again.',
+        'Ben Horowitz',
     ],
-    '0f6fb0e8-0e57-5cda-a552-710e9f03b4f1' => [
-        'Time is the most valuable thing a man can spend.',
-        'Theophrastus',
+    '005c9f27-7dba-5d75-b16e-cb487749ec8c' => [
+        'Youth is the spirit of adventure and awakening. It is a time of physical emerging when the body attains the vigor and good health that may ignore the caution of temperance. Youth is a period of timelessness when the horizons of age seem too distant to be noticed.',
+        'Ezra Taft Benson',
     ],
-    '0d1c653f-db30-5e8b-a64e-c7c57be0d581' => [
-        'It takes considerable knowledge just to realize the extent of your own ignorance.',
-        'Thomas Sowell',
+    '923990da-3006-57ae-b12f-b6f718ddaab4' => [
+        'I just want to go in with the right attitude and from Day 1 make a difference.',
+        'Freddy Adu',
     ],
-    'f6a196aa-95be-5da4-932a-5175effa357d' => [
-        'We must become the change we want to see.',
-        'Mahatma Gandhi',
+    '0077bbcf-963c-57a4-a1c3-4bd69ac8bea2' => [
+        'Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.',
+        'Robert C. Solomon',
     ],
-    '8edd74e0-1da9-56db-b364-ada205031d69' => [
-        'No one should have to choose between medicine and other necessities. No one should have to use the emergency room every time a child gets sick. And no one should have to live in constant fear that a medical problem will become a financial crisis.',
-        'Brad Henry',
+    '0233d841-a4ad-54b1-b0c1-5db624b88d06' => [
+        'In every community, there is work to be done. In every nation, there are wounds to heal. In every heart, there is the power to do it.',
+        'Marianne Williamson',
     ],
-    '75ed5195-6cee-5a8d-88f1-44462629b510' => [
-        'Could we change our attitude, we should not only see life differently, but life itself would come to be different.',
-        'Katherine Mansfield',
+    'e9fbe7a1-8b8d-5940-afd6-5e9e883bfbbc' => [
+        'Indians are sometimes accused of being condescending toward Westerners and of being excessively preachy in their attitude toward other nations. That accusation is sometimes correct.',
+        'Gary Weiss',
     ],
-    '5fa82c66-f9d9-567c-bd9f-21b25a25f86e' => [
-        'The self is not something ready-made, but something in continuous formation through choice of action.',
-        'John Dewey',
+    '0cc29298-8474-54c0-bee3-3d414251d5c7' => [
+        'For me, life is about being positive and hopeful, choosing to be joyful, choosing to be encouraging, choosing to be empowering.',
+        'Billy Porter',
     ],
-    'c35fe2cb-552f-5a28-a629-3805f4e19b38' => [
-        'Never mind what others do; do better than yourself, beat your own record from day to day, and you are a success.',
-        'William J. H. Boetcker',
+    'fd88f5c7-e904-5060-aa70-ae00cc9ffe5f' => [
+        'I like motivational books, because I like the go-getting American spirit - your destiny is in your own hands, life is what you make it, don\'t accept your limitations, jump before you\'re pushed, leap before you look.',
+        'Louise Mensch',
     ],
-    'd85ccff1-df20-5640-829b-07c86d2d3cf9' => [
-        'But the beauty of Einstein\'s equations, for example, is just as real to anyone who\'s experienced it as the beauty of music. We\'ve learned in the 20th century that the equations that work have inner harmony.',
-        'Edward Witten',
+    '383d77cf-8aa6-5323-b07e-524f045007de' => [
+        'A happy life is one spent in learning, earning, and yearning.',
+        'Alan Cohen',
     ],
-    '614c42f0-4af4-51b6-86d1-1dcbc062db69' => [
-        'I am shocked by the easy attitude of many in the media towards disclosing our Nation\'s secrets.',
-        'Todd Tiahrt',
+    'ce7c26f1-67b9-5d5b-b978-dbd6682097a5' => [
+        'When you go through a negative situation, don\'t think about it. Make it positive.',
+        'Yoko Ono',
     ],
-    '008e0136-6666-5cdd-b56b-2f2c6079380f' => [
-        'A few years ago, I was trying to buy a piece of land next to a house I had in Newfoundland. I discovered that the plot had been owned by a family, and the son had gone off to World War I and been killed. It began to interest me: What would have happened on that land if the son had lived, had brought up his own family there?',
-        'Michael Winter',
+    '7cbe66b8-0151-5e60-86e8-c8aae492aa06' => [
+        'I loved working on \'Happy Gilmore\' because I love to travel to new places and we got to go to British Columbia. Any Adam Sandler film is fun to work on because it is a reunion of the boys club of guys that have worked together in the past.',
+        'Kevin Nealon',
     ],
-    'c4c75951-2651-578a-b9a1-d12c60363a1b' => [
-        'It\'s a blessing because the Baldwin vibe on the street is what I live for the most. I think our name is something that a lot of people get a good feeling about and brings a smile to their face, and we\'re very fortunate.',
-        'Stephen Baldwin',
+    '791ca0a6-3e20-59b4-9d30-2d4268e9b49d' => [
+        'A #2 pencil and a dream can take you anywhere.',
+        'Joyce Meyer',
     ],
-    '35bcbd76-cc9b-5a1d-aaae-3d1784846cab' => [
-        'I never did anything by accident, nor did any of my inventions come by accident; they came by work.',
-        'Thomas A. Edison',
+    '3cca7e4a-b638-5e60-8c04-9c8cc3655773' => [
+        'People should pursue what they\'re passionate about. That will make them happier than pretty much anything else.',
+        'Elon Musk',
     ],
 ];

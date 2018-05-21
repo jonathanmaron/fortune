@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'b72a6cf8-9609-50d9-bbb7-6b71d9290c5c' => [
-        'Do good by stealth, and blush to find it fame.',
-        'Alexander Pope',
+    '31de2aa5-bac2-53a6-934f-4f33d1a9549e' => [
+        'In the end, long life is the reward, strength, and beauty.',
+        'Grace Paley',
     ],
-    '8e394cf6-e13c-5a98-a85e-7e3addacecae' => [
-        'At Princeton I gained a great deal of pleasure from success in my classes. knowing that I could accomplish those things, and I realized that my success was directly proportionate to the work I put in.',
-        'Brooke Shields',
+    'c5883b7c-3fdd-5677-b224-8a4ddabb6d02' => [
+        'Once I knew only darkness and stillness... my life was without past or future... but a little word from the fingers of another fell into my hand that clutched at emptiness, and my heart leaped to the rapture of living.',
+        'Helen Keller',
     ],
-    'c14c672e-74f3-5499-a46f-5f8357bf835a' => [
-        'People don\'t associate red hair, pale skin, and freckles with beauty.',
-        'Shirley Manson',
+    '220667ba-543c-56e5-b59b-cdc119fb1369' => [
+        'I like trees because they seem more resigned to the way they have to live than other things do.',
+        'Willa Cather',
     ],
-    '86f1aab7-8705-5389-be4e-7cc727d52fba' => [
-        'Faith, family, academics and then sports was the order of priorities in my family. My parents really stuck to these principles when raising me and my two brothers. As long as we took care of everything, they let us play as much basketball as we wanted.',
-        'Jeremy Lin',
+    '79082694-cda4-5ada-80af-482f510f045e' => [
+        'Attitude is attitude, whether you\'re a West Coast gangster or East Coast gangster, you know?',
+        'Paul Walker',
     ],
-    '5369424e-f9be-5646-b2fb-514c10445ff9' => [
-        'My real dream is to have a whole, like, buy a whole piece of land. Imagine, like, a long driveway. Like, a cul de sac-type street, with maybe, like, seven houses. Me be right here. Have my mom be able to be right here. My brother over here. My girl\'s grandmother and family right here. Friends over there. That\'s my real dream.',
-        'J. Cole',
+    '11218a50-0909-555d-8bbe-73a5d7e05d04' => [
+        'Sustainability is the key to our survival on this planet and will also determine success on all levels.',
+        'Shari Arison',
     ],
-    'ea8d1613-47e3-5e5f-b832-e7457899fdb8' => [
-        'I try to give positive energy in all my shows.',
-        'Curtis Jones',
+    '63ffdbbc-ee92-560b-89e5-813731e5e619' => [
+        'The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.',
+        'Buddha',
     ],
-    '52a2c231-f0b8-5c5b-bed7-2e33a10ef5f6' => [
-        'I think the big problem this country has is being politically correct. I\'ve been challenged by so many people, and I don\'t frankly have time for total political correctness. And to be honest with you, this country doesn\'t have time either.',
-        'Donald Trump',
+    'aa14da64-f9f9-573a-8177-72c8552567cb' => [
+        'Yet, it is true, poetry is delicious; the best prose is that which is most full of poetry.',
+        'Virginia Woolf',
     ],
-    'eb5d7560-030a-589e-825c-ed72b0ccbf38' => [
-        'Negotiation means getting the best of your opponent.',
-        'Marvin Gaye',
+    '0aa6a128-f406-52f1-a26f-ae59cdd62f79' => [
+        'If you\'re going to kill someone there isn\'t much reason to get all worked up about it and angry - you just pull the trigger. Angry discussions beforehand are a waste of time. We need to smile at Novell while we pull the trigger.',
+        'Jim Allchin',
     ],
-    'f888f070-0d5f-5f28-bfde-4a5c5d99e08c' => [
-        'If you are good at studies, and you want to play cricket, you may work harder than any other person, but you may not achieve it. So it\'s something you have to balance in life and be practical where you are good and then channelise your efforts in the right direction to be successful in life.',
-        'Mahendra Singh Dhoni',
+    '2fbf8566-3bd1-5f5f-8f89-279ff4209123' => [
+        'I have gotten to travel the world and experience all these incredible things thanks to my career.',
+        'Karlie Kloss',
     ],
-    'd0924704-eca6-50e8-aa38-764b5594c24e' => [
-        'I know not age, nor weariness nor defeat.',
-        'Rose Kennedy',
+    '649cc507-b6ff-5275-83c6-dc7896630eee' => [
+        'Participation, I think, or one of the best methods of educating.',
+        'Tom Glazer',
     ],
-    'c51b3467-681d-5ee2-86f9-e6d74ae52b4f' => [
-        'The person born with a talent they are meant to use will find their greatest happiness in using it.',
-        'Johann Wolfgang von Goethe',
+    'c4cca727-3fa7-5d81-832f-2fb1e84d3c38' => [
+        'Many of the most eloquent people I have ever met work in lab coats every day.',
+        'Michael Specter',
     ],
-    '87bb6972-1204-526e-bddf-b09a59d615e4' => [
-        'There\'s no reason to hold yourself back and say you can\'t do something in life unless you go for it and try to do it.',
-        'Laura Esquivel',
+    'bae8ecc1-00b4-548f-8057-ae130bd261e4' => [
+        'We have committed the Golden Rule to memory; let us now commit it to life.',
+        'Edwin Markham',
     ],
-    'e739e5ab-fd37-5ccb-a1fc-26fc6561743f' => [
-        'That some achieve great success, is proof to all that others can achieve it as well.',
-        'Abraham Lincoln',
+    'a5f84a55-27e5-5418-af5c-5c8cdefb7461' => [
+        'Reading was very important to me as a kid. It was very inspirational to me. I went to a school where that wasn\'t encouraged so much, but my parents encouraged that, and it has made me part of who I am.',
+        'Sasha Grey',
     ],
-    '696bc564-fdfb-52c2-a872-024ac02b28aa' => [
-        'It is time for parents to teach young people early on that in diversity there is beauty and there is strength.',
-        'Maya Angelou',
+    'f8bc93ec-bd62-51a4-a995-65f76210a537' => [
+        'I think working hard at anything when you\'re young and getting positive results, it\'s always an incredible feeling to see that.',
+        'Jessica Springsteen',
     ],
-    'd677fc37-2dc4-5b9c-aa9b-72173fda50ba' => [
-        'Every day brings new choices.',
-        'Martha Beck',
+    '0bd8f003-6548-5a38-86ce-5509f5a76412' => [
+        'Taking joy in living is a woman\'s best cosmetic.',
+        'Rosalind Russell',
     ],
-    '205f7577-8d48-5c15-9c45-953dba57f33b' => [
-        'Forgiveness does not change the past, but it does enlarge the future.',
-        'Paul Boese',
+    '250ea8f4-d113-5fb9-a510-87f0e22fd4d4' => [
+        'No matter what you\'re going through, there\'s a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you\'ll find the positive side of things.',
+        'Demi Lovato',
     ],
-    '2ceb6e94-b822-54e0-bf61-429996047416' => [
-        'To those who have always wondered how they might best serve the wider world, wildlife conservation is, at its core, one of the purest forms of giving.',
-        'Thomas Kaplan',
+    'e188e1f7-b15a-540f-8a1a-5ea274d6312d' => [
+        'I know where I\'m going and I know the truth, and I don\'t have to be what you want me to be. I\'m free to be what I want.',
+        'Muhammad Ali',
     ],
-    '3196acb8-ce9e-50de-a9d8-9fc3ff0cd246' => [
-        'There are certain expectations that are put on you as a child actor, but mainly it\'s just turn up and say your lines with a lot of energy and a cute smile.',
-        'Naomie Harris',
+    'd3ad5ec4-d2c9-56af-83ab-49f1fb674f73' => [
+        'I do a lot of inspirational talks for kids, to motivate them to change their lives and give them hope.',
+        'Adam Beach',
     ],
-    '71863a6a-aeae-5cf7-ba9f-6b23a2fd7c08' => [
-        'Revenge is a kind of wild justice, which the more a man\'s nature runs to, the more ought law to weed it out.',
-        'Francis Bacon',
+    '1d659bff-2db7-5f0d-baad-58cc49c8b68f' => [
+        'If I don\'t feel confident about my body, I\'m not going to sit at home and feel sorry for myself and not do something about it. It\'s all about taking action and not being lazy. So you do the work, whether it\'s fitness or whatever. It\'s about getting up, motivating yourself and just doing it.',
+        'Kim Kardashian',
     ],
-    '95d87b4e-b849-5942-ac22-3e3ab2bf5cd8' => [
-        'I just think that people take me a little more seriously as a brunette. I don\'t know if that\'s just because of a societal preconceived notion that all blondes are stupid, but it\'s a different kind of attitude.',
-        'Kate Bosworth',
+    '171194ac-58fa-5c65-baa6-e77cc94ff7a5' => [
+        'Every successful organization has to make the transition from a world defined primarily by repetition to one primarily defined by change. This is the biggest transformation in the structure of how humans work together since the Agricultural Revolution.',
+        'Bill Drayton',
     ],
-    '1015a934-c964-59a9-88eb-59fc9b828fbc' => [
-        'At its best, life is completely unpredictable.',
-        'Christopher Walken',
+    'dfc7302a-c213-585b-bc4a-2b4dbf06e232' => [
+        'Rock n\' roll is not just a fashion statement; it is the attitude, and it has a political posturing as well.',
+        'CeeLo Green',
     ],
-    '59579d5f-c329-5bbb-8b75-50147b69ece1' => [
-        'There is one thing you have got to learn about our movement. Three people are better than no people.',
-        'Fannie Hamer',
+    '11db5b51-5595-5e97-b48d-2531ca33ec15' => [
+        'Plan your work for today and every day, then work your plan.',
+        'Margaret Thatcher',
     ],
-    '5907a9e6-2232-5c5f-b6c0-7d738facd719' => [
-        'In fact, I wouldn\'t really call this a Gospel album, I call it more an inspirational album.',
-        'Smokey Robinson',
+    '3b88f337-975e-5157-9030-97adc96841a7' => [
+        'Nothing happens to any man that he is not formed by nature to bear.',
+        'Marcus Aurelius',
     ],
-    'e94226e2-fdbc-5c35-9dfd-2b6030c71342' => [
-        'I try to live my life like my father lives his. He always takes care of everyone else first. He won\'t even start eating until he\'s sure everyone else in the family has started eating. Another thing: My dad never judges me by whether I win or lose.',
-        'Justin Zackham',
+    '86246168-afb0-5c16-9e6e-79c429a23bfc' => [
+        'I started making music... I guess I was 12, and I started playing \'Guitar Hero.\' And you know, it got to a point where on expert, you can only exceed to a certain point. And so, you know, I was like, \'Let\'s play real guitar. Let\'s not waste more time.\' So, I got my mom, I told her to buy me a guitar for Christmas, and I started making music then.',
+        'Post Malone',
     ],
-    'efa995fd-765b-551f-802a-cc0610f037e7' => [
-        'We didn\'t travel much when I was little - most of what we did was visit various campsites around Conway, north Wales. My first major holiday abroad was to Ibiza with my parents when I was five. I vividly remember the plane touching down and that the hotel had great swings with lots of little lizards darting about that I was determined to catch.',
-        'Paul Hollywood',
-    ],
-    'f7d65327-b3a4-54a9-880f-ffde13467b8c' => [
-        'Simply as an exercise in efficient politics, Obama \'08 rewrote the textbook. His accomplishment was historic and one that transformed how race and politics intersect in our society. Obama is the leading edge of this change, but his success is merely the ripple in a pond that grows deeper every day.',
-        'Gwen Ifill',
-    ],
-    'c0e384b1-0b5d-5b24-8e7a-556c1dafac27' => [
-        'Childhood obesity is best tackled at home through improved parental involvement, increased physical exercise, better diet and restraint from eating.',
-        'Bob Filner',
-    ],
-    '806c9dba-b908-5282-8043-4aa45b7ee1a0' => [
-        'Whence, then, did the cathedral derive its power? Clearly here: It took back the family into the confidences of religion. It taught man and woman how the human and the divine love could go hand in hand.',
-        'Jenkin Lloyd Jones',
-    ],
-    '017ff996-dedc-5c6b-96ca-72121ed4f780' => [
-        'Successful entrepreneurs are givers and not takers of positive energy.',
-        'Unknown',
-    ],
-    'b695b9a7-3701-5ea7-9728-6616ed894242' => [
-        'All of life is peaks and valleys. Don\'t let the peaks get too high and the valleys too low.',
-        'Jimmy Dean',
-    ],
-    '1197a57a-9c23-504c-9ec1-6757b0182b83' => [
-        'I grew up in a Chinese family where the parents\' No. 1 priority is the kids\' education.',
-        'Weili Dai',
-    ],
-    '370e4d20-5bbe-5810-9a49-cc8d359b5ae4' => [
-        'Twilight drops her curtain down, and pins it with a star.',
-        'Lucy Maud Montgomery',
-    ],
-    'cc482f5f-1863-51ba-8e02-a0132dc7007c' => [
-        'I\'m a small-town boy who comes from a traditional family on a tiny island called Belitung. I may not know where I\'m going, but I\'ll always know where to come home to.',
-        'Andrea Hirata',
-    ],
-    '71b82409-7ee6-5158-b314-0b48451b1fc3' => [
-        'If you wish to be a writer, write.',
-        'Epictetus',
-    ],
-    'a04ea4aa-2b8a-54db-a095-a9b8295952af' => [
-        'It\'s better to be a lion for a day than a sheep all your life.',
-        'Rupert Murdoch',
-    ],
-    'c7865e8e-b780-5d73-9e07-f5f0b2a50b63' => [
-        'When I was little, I didn\'t really travel - from the suburbs to Paris was already a journey. I had a foreigner\'s eye on the city, and I still enjoy that point of view. Then there\'s the fact that one of the things that touches me most is injustice.',
-        'JR',
-    ],
-    '9b3e0f47-eee2-5dc5-a11a-9d8d46dd4c07' => [
-        'You give before you get.',
-        'Napoleon Hill',
-    ],
-    '772d4462-ca87-5f2d-8ad1-9a68c023f8f7' => [
-        'My theory is that all of Scottish cuisine is based on a dare.',
-        'Mike Myers',
-    ],
-    'bd2f818f-9561-5739-a50f-f6539530fbef' => [
-        'What separates the winners from the losers is how a person reacts to each new twist of fate.',
-        'Donald Trump',
-    ],
-    '536f5ab0-9b6d-5ea3-8e00-3f58a6cff001' => [
-        'I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.',
-        'Lao Tzu',
-    ],
-    'a1413a7b-7cb2-5705-821a-68374c8b502f' => [
-        'That attitude and toughness that we want to play with, that, to me, is the most critical thing.',
-        'Dan Quinn',
-    ],
-    'cca0834d-edd4-5513-8067-d2f4af9adf91' => [
-        'Without realizing it, the individual composes his life according to the laws of beauty even in times of greatest distress.',
-        'Milan Kundera',
-    ],
-    'cca123ef-0223-5aac-b432-f8001fc73bf3' => [
-        'If you can attribute your success entirely to your own mental effort, to your own attitude, to some spiritual essence that you have that is better than other people\'s, then that must feel pretty good.',
-        'Barbara Ehrenreich',
-    ],
-    'f95e3e17-0b23-53b6-8f3c-8b16d8cd86b0' => [
-        'I\'m writing a book. I\'ve got the page numbers done.',
-        'Steven Wright',
-    ],
-    '6f54ced5-a309-507d-be15-04827944002d' => [
-        'There is a vast world of work out there in this country, where at least 111 million people are employed in this country alone - many of whom are bored out of their minds. All day long.',
-        'Richard Nelson Bolles',
-    ],
-    '73278f07-475c-536c-abac-1532fd4bbf37' => [
-        'People think your success is just a matter of having a pretty face. But it\'s easy to be chewed up and spat out. You\'ve got to stay ahead of the game to be able to stay in it.',
-        'Kate Moss',
-    ],
-    'e6096190-d40b-5341-9b0a-e6856028ddf2' => [
-        'Get correct views of life, and learn to see the world in its true light. It will enable you to live pleasantly, to do good, and, when summoned away, to leave without regret.',
+    'f77e89a9-af57-5d2f-976c-1ade63777553' => [
+        'My favorite things in life don\'t cost any money. It\'s really clear that the most precious resource we all have is time.',
         'Steve Jobs',
     ],
-    'c31a0863-b8a2-59b8-a4ef-e98554cbb5a6' => [
-        'Giving responsibility is the key to success with boys, especially with the rowdiest and most difficult boys.',
-        'Robert Baden-Powell',
+    '23c00c4d-3b48-5999-96f9-c309028cadff' => [
+        'One may walk over the highest mountain one step at a time.',
+        'Barbara Walters',
     ],
-    '937f0727-c310-5ae4-b6c3-f0b3e0754475' => [
-        'Both within the family and without, our sisters hold up our mirrors: our images of who we are and of who we can dare to be.',
-        'Elizabeth Fishel',
+    'b87f7c6a-ed5f-5dca-b537-acb4b1eb4c69' => [
+        'The deviation of man from the state in which he was originally placed by nature seems to have proved to him a prolific source of diseases.',
+        'Edward Jenner',
     ],
-    'df6bb58a-cc86-5fa2-b845-8ad635514148' => [
-        'I mix all different oils - my bathroom at home is littered with oils; I\'m really into natural beauty and natural healing. Peppermint is really good if you put it on your stomach for a tummy ache; lavender is kind of all-purpose - I think everyone should carry it.',
-        'Liz Goldwyn',
+    'dd285856-d3c4-5044-9fc1-b800ea2ae77b' => [
+        'If the \'Post\' can play the role of a connector between the West and the East, I have confidence in the paper\'s future success.',
+        'Jack Ma',
+    ],
+    '47582805-378b-52b6-b9bd-54b297cd78a2' => [
+        'No one can make you happy. No one can help you grow in life more than you can. I can love you to death, but I can only go so far. I can inspire and encourage you as much as I can, but when you play an active role to find that self-security and that self-worth, it makes the difference.',
+        'Tyler, The Creator',
+    ],
+    'd73981e2-6bb2-5b2e-a603-f9b37dbd62af' => [
+        'Reproach is shame, blame, disgrace, disapproval and a disrespectful attitude toward yourself. When you\'re under reproach, your behavior shows it.',
+        'Joyce Meyer',
+    ],
+    '92173352-1493-59a4-85d5-d37b4501c9fa' => [
+        'If you can\'t relax during your interview, then nothing you do to prepare will matter. Being yourself is essential to the selection process, and interviewers will feel it if you\'re too nervous. Showing fear or anxiety appears weak compared to a relaxed smile and genuine confidence.',
+        'Travis Bradberry',
+    ],
+    '663c1dd6-9c07-54da-8980-4d03c6ec6702' => [
+        'What you are will show in what you do.',
+        'Thomas A. Edison',
+    ],
+    '25120df9-8e4e-5439-98ab-54f037f9c426' => [
+        'When Time is spent, Eternity begins.',
+        'Helen Hunt Jackson',
+    ],
+    'f82466cb-c6cb-51f1-8338-72afec1b41ff' => [
+        'For an athlete, there\'s no time off... until it\'s over.',
+        'Terry Bradshaw',
+    ],
+    '39c4c45c-9848-5cc2-9aea-4f0ec4ae08cb' => [
+        'A journey by Sea and Land, Five Hundred Miles, is not undertaken without money.',
+        'Lewis Hallam',
+    ],
+    'a50225d8-88e6-5612-9925-0bd9bc984f98' => [
+        'Money and success don\'t change people; they merely amplify what is already there.',
+        'Will Smith',
+    ],
+    '96b6f7a4-06dd-5760-a179-6d29ed22c471' => [
+        'Virtue is not photogenic. What is it to be a nice guy? To be nothing, that\'s what. A big fat zero with a smile for everybody.',
+        'Kirk Douglas',
+    ],
+    '850d5520-ece0-57c9-80d7-2178290ff8a5' => [
+        'We cannot wait for governments to do it all. Globalization operates on Internet time. Governments tend to be slow moving by nature, because they have to build political support for every step.',
+        'Kofi Annan',
+    ],
+    '5b86ea46-fd70-5c0c-a441-8f1d97fbab97' => [
+        'If your ego starts out, \'I am important, I am big, I am special,\' you\'re in for some disappointments when you look around at what we\'ve discovered about the universe. No, you\'re not big. No, you\'re not. You\'re small in time and in space. And you have this frail vessel called the human body that\'s limited on Earth.',
+        'Neil deGrasse Tyson',
+    ],
+    '1ad0ddc6-229e-58d5-b43c-126bf78813cb' => [
+        'Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.',
+        'Paavo Nurmi',
+    ],
+    'c0c51f47-e76d-59cf-969c-10955611fe85' => [
+        'Part of the new morality of the \'60s and \'70s is a new attitude toward homosexuality. The homosexual men and women have organized to fight for acceptance and respectability.',
+        'Walter Cronkite',
+    ],
+    '4848eaa7-90d3-5f65-8b58-4f79e166a2ad' => [
+        'What has been happening more lately - of course, I also put in my bio, I say I do the voice of Goliath, but some people go - you know, I say something, and it\'s a funny thing when you work in this business, people will talk out loud in front of you like you\'re not there.',
+        'Keith David',
+    ],
+    '5a990192-12e4-5b33-b21b-a354beb81824' => [
+        'By their very nature, heuristic shortcuts will produce biases, and that is true for both humans and artificial intelligence, but the heuristics of AI are not necessarily the human ones.',
+        'Daniel Kahneman',
+    ],
+    '4f382ee7-2535-51b1-9be6-92cb6fd28b25' => [
+        'The world turns aside to let any man pass who knows where he is going.',
+        'Epictetus',
+    ],
+    '34be5d75-3511-539d-a065-65585b0bcc77' => [
+        'Excellence is to do a common thing in an uncommon way.',
+        'Booker Washington',
+    ],
+    '59e9f0b6-c092-5587-8a22-766bdd5ad6a8' => [
+        'And when I\'ve been away from my family and friends, I have felt good hearing some of those old songs.',
+        'Beau Bridges',
+    ],
+    '349bd7f3-9062-50c2-8144-fd1599c178d7' => [
+        'Improving Africa\'s farming sector would have multiple positive outcomes for African people.',
+        'Richard Attias',
+    ],
+    '5ce648fe-fa96-50a7-828d-afa9e56f63a3' => [
+        'I am the common man. I\'m polite, I love my family and I play by the rules. And sometimes I get pushed around. That\'s my lifestyle, and that\'s what I try to bring to characters.',
+        'Eugene Levy',
+    ],
+    '3d61d4c6-6796-53aa-825a-2dbd4ee75c07' => [
+        'In education, technology can be a life-changer, a game changer, for kids who are both in school and out of school. Technology can bring textbooks to life. The Internet can connect students to their peers in other parts of the world. It can bridge the quality gaps.',
+        'Paulo Coelho',
+    ],
+    '2c8b2723-c549-5ebd-979a-7e6f7efafbd1' => [
+        'A poet ought not to pick nature\'s pocket. Let him borrow, and so borrow as to repay by the very act of borrowing. Examine nature accurately, but write from recollection, and trust more to the imagination than the memory.',
+        'Samuel Taylor Coleridge',
     ],
 ];

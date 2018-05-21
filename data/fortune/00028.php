@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '50335efe-eb37-5812-9797-58c0d07e88e2' => [
-        'Man is fully responsible for his nature and his choices.',
-        'Jean-Paul Sartre',
+    '774a55c5-be19-518f-99da-150455d44b93' => [
+        'My life is devoted to business and supporting my family.',
+        'Colonel Sanders',
     ],
-    '2d67d097-725f-5b71-bf5e-b6eb459b6f3e' => [
-        'Time, the devourer of all things.',
-        'Ovid',
+    '305b1f94-0b3b-5c49-a3d8-70ff73de3b2d' => [
+        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it.',
+        'Earl Nightingale',
     ],
-    '53013ef5-f290-59ef-b14a-a816ee68d6b5' => [
-        'A man who dares to waste one hour of time has not discovered the value of life.',
-        'Charles Darwin',
+    '9fad9a2a-d4a1-5297-961b-090b5e66e635' => [
+        'If you would take, you must first give, this is the beginning of intelligence.',
+        'Lao Tzu',
     ],
-    'ff7af6e7-54ba-57d0-b5b6-299e8efdbdba' => [
-        'For time is the longest distance between two places.',
-        'Tennessee Williams',
+    '64d8025c-2f39-5a68-8170-4c9040b84d31' => [
+        'You know, true love really matters, friends really matter, family really matters. Being responsible and disciplined and healthy really matters.',
+        'Courtney Thorne-Smith',
     ],
-    'ec81fb5d-619e-5f9d-950a-8c44b2e82b62' => [
-        'Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.',
-        'Buddha',
+    'f85e153c-c19d-5b59-be8d-b724474c8e76' => [
+        'A river cuts through a rock not because of its power but its persistence.',
+        'Anonymous',
     ],
-    '1d694099-86b9-538f-b42e-e05b2f02c5af' => [
-        'Ever since studying in Russia as a college student, I had been in a long-distance, one-sided love affair with Chechnya\'s remarkable history, culture and rugged natural beauty.',
-        'Anthony Marra',
+    'c90c3ea4-28ef-5b7f-a6ae-e8b8f81f0cd9' => [
+        'People often say that motivation doesn\'t last. Well, neither does bathing--that\'s why we recommend it daily.',
+        'Zig Ziglar',
     ],
-    'bdc0d557-b3cf-5dfc-b8aa-f88d47d5431c' => [
-        'There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.',
-        'Alfred Korzybski',
+    'eccf7a2a-751e-54f2-a6cb-9f612b7d1ca5' => [
+        'I like the map feature on the iPhone that tells me where I am, because I travel a lot.',
+        'Gary Shteyngart',
     ],
-    '52c537b3-0409-565e-9b86-8fec4a098e8b' => [
-        'I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.',
-        'Dalai Lama',
+    '7b3c551b-2334-5b83-8c00-dd4eb43661d3' => [
+        'Having achieved my own dreams, I want to give to kids who are less fortunate, who struggle with everyday obstacles. I want to give them something positive in their lives: support.',
+        'Kristi Yamaguchi',
     ],
-    '33305cb8-613b-5ddb-8d44-03163f36069f' => [
-        'When you come up with a theory, you fall in love with the beauty the simplicity and elegance of it. But then you have to get a sheet of paper and pencil and crack out all the details. Hundreds and hundreds of pages. Because you have to prove it.',
-        'Michio Kaku',
+    '171601d3-12e1-5448-8b84-49fda6c9be49' => [
+        'Travelers never think that they are the foreigners.',
+        'Mason Cooley',
     ],
-    'c804cfad-9c46-5b2f-852a-1ec64b6463aa' => [
-        'My guiding principles in life are to be honest, genuine, thoughtful and caring.',
-        'Tom Brady',
+    'bdc7dcc1-0bae-575b-abad-ba5a8547ef88' => [
+        'Propaganda has a negative connotation, which it partially deserves, but I think there is some propaganda that is very positive. I feel that if you can do something that gets people\'s attention, then maybe they\'ll go and find out more about the person.',
+        'Shepard Fairey',
     ],
-    '2cc91ad6-b415-5832-93e8-036da1ddbf6a' => [
-        'If you want a thing done well, do it yourself.',
-        'Napoleon Bonaparte',
+    '9d0ce29d-e0aa-5422-af80-7766941dd49a' => [
+        'Change your life today. Don\'t gamble on the future, act now, without delay.',
+        'Simone de Beauvoir',
     ],
-    '578cdef6-0532-5ccd-9778-ef0b12c1a2cd' => [
-        'I am fully aware that everybody has a right to succeed, and success should be with ethics.',
-        'Sharad Pawar',
+    '8da23109-2329-561a-b18a-4c0a7c4f296b' => [
+        'There\'s a punk-rock attitude, clearly, to \'Hated.\' There\'s even a punk-rock attitude to \'The Hangover,\' I think. We start the movie with a Glenn Danzig song.',
+        'Todd Phillips',
     ],
-    '43fd3fb6-4b96-5afc-819b-155ea8bbf5e9' => [
-        'We must always take from nature what we paint and always choose the most beautiful things.',
-        'Leon Battista Alberti',
+    'b9a43d74-a58e-5b0b-893d-f60bfad57657' => [
+        'My attitudes have changed, but somebody would have to read all my books to find out how they have.',
+        'Irwin Shaw',
     ],
-    '4112b402-cc38-5e90-b163-c67d6d364786' => [
-        'Mental attitude and concentration are the keys to pitching.',
-        'Ferguson Jenkins',
+    'fb0c0310-31bd-5609-a6f0-2a01722f8584' => [
+        'Another thing I like to do is sit back and take in nature. To look at the birds, listen to their singing, go hiking, camping and jogging and running, walking along the beach, playing games and sometimes being alone with the great outdoors. It\'s very special to me.',
+        'Larry Wilcox',
     ],
-    '4267762b-a307-506f-bf4c-2e9258c6a177' => [
-        'Enthusiasm is something so positive.',
-        'Carine Roitfeld',
+    'ade417b5-1ab2-5527-9ffd-9a4a8fdd5425' => [
+        'I believe that when you put a smile out there, you get a smile back.',
+        'Heidi Klum',
     ],
-    'bb813f31-3945-5f3f-8f5f-d787be137fa8' => [
-        'My children are the reason I laugh, smile and want to get up every morning.',
-        'Gena Lee Nolin',
+    '4681f0f8-7727-5559-97fa-b808fd260693' => [
+        'Thinking is the hardest work there is, which is probably the reason why so few engage in it.',
+        'Henry Ford',
     ],
-    'bcdaacc7-7edd-56d2-a112-da9e0b638a45' => [
-        'Work expands so as to fill the time available for its completion.',
-        'C. Northcote Parkinson',
+    'ac32a1aa-1490-5067-bef9-96d08e11b0c4' => [
+        'You can\'t run a government from one single person. What instead matters is that leadership be about gathering around extraordinary individuals and getting the best out of them.',
+        'Justin Trudeau',
     ],
-    '935050b3-a1ec-5734-8c4d-4bf54bf0a6cf' => [
-        'I made myself famous by writing \'songs\' and lyrics about the beauty of the things I did and ugliness, too.',
-        'Jack Kerouac',
+    '2ad592c5-fc3e-5b06-b4ba-6042d91fb166' => [
+        'Every day is a new opportunity. You can build on yesterday\'s success or put its failures behind and start over again. That\'s the way life is, with a new game every day, and that\'s the way baseball is.',
+        'Bob Feller',
     ],
-    '9f627779-2581-56f6-925e-5ec3f12367d0' => [
-        'I know of no time in human history where ignorance was better than knowledge.',
-        'Neil deGrasse Tyson',
+    'd5cc1813-aa69-5433-b3cb-55bacb47c3be' => [
+        'I have a Woody Allen Jewish attitude to life: that it\'s all going to be disastrous. That it hasn\'t all been that way is simply down to some random quirk of fate.',
+        'Antony Sher',
     ],
-    '0aa17bf0-6546-5090-bafb-eb39cf37adb4' => [
-        'Good ideas are like Nike sports shoes. They may facilitate success for an athlete who possesses them, but on their own they are nothing but an overpriced pair of sneakers. Sports shoes don\'t win races. Athletes do.',
-        'Felix Dennis',
+    '0f0b0f09-09a1-5859-87a9-f8dc238fce1b' => [
+        'Sometimes, we find ourselves as conservatives being angry when we should be joyful, finding ourselves being negative when we should be positive, because we have a positive message to send... We ought to be the most compassionate people in the world.',
+        'Kevin Cramer',
     ],
-    'c68da524-9691-5ce0-a002-3affef7949ae' => [
-        'I don\'t really remember a time younger than 5 years old that I didn\'t have skates on because all I can remember is every day, tying up my skates and a big smile on my face, excited to go on the ice.',
-        'Michelle Kwan',
+    '12c670d0-b41c-50c9-a6b3-42e995ee39d3' => [
+        'Airplanes may kill you, but they ain\'t likely to hurt you.',
+        'Satchel Paige',
     ],
-    '8d37fc26-18df-5b70-a49a-90a0b6f236ee' => [
-        'Abhorrence of apartheid is a moral attitude, not a policy.',
-        'Edward Heath',
+    'af063b39-5160-56af-b5fc-757ef15909a0' => [
+        'It\'s incredible to see the creativity, beauty and hardships people capture when filmmaking is opened up and shared with the world.',
+        'Jehane Noujaim',
     ],
-    '04f46a18-d8d9-5470-b77e-7dbe8b243bd5' => [
-        'The corruption of the best things gives rise to the worst.',
-        'David Hume',
+    'aeea0939-70a8-5d54-98cc-2e894660a1cf' => [
+        'Success isn\'t always going to be a huge contract; success is going to be if you just live out your purpose in life.',
+        'Allan Houston',
     ],
-    'b5bcb721-090f-5e8f-a1de-1f79cc2329d4' => [
-        'Many hands make light work.',
-        'John Heywood',
+    'ac2fac16-05fa-5670-bf8f-9f1214a5254a' => [
+        'Action is the foundational key to all success.',
+        'Pablo Picasso',
     ],
-    'b9f7a463-32ed-5e1a-984f-4051483be34f' => [
-        'In order to understand why George W. Bush doesn\'t get it, you have to take several strands of common Texas attitude, then add an impressive degree of class-based obliviousness. What you end up with is a guy who sees himself as a perfectly nice fellow - and who is genuinely disconnected from the impact of his decisions on people.',
-        'Molly Ivins',
+    '0c937dac-c345-57f4-96da-cbb34e11ec75' => [
+        'The average family spends 30 hours in front of a television, and they say they don\'t have the time to have a balanced, integrated life.',
+        'Stephen Covey',
     ],
-    '83a88783-8375-5d2a-8f3d-52d853ff45ae' => [
-        'There\'s really no secret to success. You make your own success.',
-        'Alex Morgan',
+    '53b95bc8-3cdf-54de-9317-9b77d6c6e05f' => [
+        'Any race I go into, I\'ve always got the attitude of throwing myself into and wanting nothing but No. 1.',
+        'Caroline Buchanan',
     ],
-    '818696ed-bb76-5e7d-9e12-2d00863e3116' => [
-        'More than anything, I like a jacket. You can do anything with a great jacket, the bigger the better. You can have any silhouette underneath. It gives you an attitude. It makes a gown look cool.',
-        'Rihanna',
+    '862b591e-9606-5ac7-ad09-93a8d33848a4' => [
+        'Creating a better world requires teamwork, partnerships, and collaboration, as we need an entire army of companies to work together to build a better world within the next few decades. This means corporations must embrace the benefits of cooperating with one another.',
+        'Simon Mainwaring',
     ],
-    'cccf425c-dfc0-58ea-a5b9-51faf080727c' => [
-        'The glow of one warm thought is to me worth more than money.',
-        'Thomas Jefferson',
+    '65167acb-cac3-5bf0-b0f0-de8dc4489e1b' => [
+        'Common sense is the collection of prejudices acquired by age eighteen.',
+        'Albert Einstein',
     ],
-    '8e419a4d-8133-5aee-8597-c6c1613125cb' => [
-        'You weren\'t born just to live a life and to die; you were born to accomplish something specifically. Matter of fact, success is making it to the end of your purpose; that is success... Success is not just existing. Success is making it to the end of why you were born.',
-        'Myles Munroe',
+    '445a05e3-31e1-5399-8053-5566c3cbdf14' => [
+        'Comedians like to see people smile. With acting, I love giving people a feeling, an emotion. I like to give people a feeling. When they come away from my scene, I want them to think.',
+        'Keke Palmer',
     ],
-    '2dc45586-465c-5e99-9b95-6d19dbabbf65' => [
-        'Every man\'s life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.',
-        'George Eliot',
+    '794d50bf-285e-5991-908a-f59b70ac9067' => [
+        'An American orchestra doesn\'t want to play more than it has to. I respectfully disagree with that attitude.',
+        'Zubin Mehta',
     ],
-    '99e03b7d-e79b-5496-b007-97f2c09c4e6a' => [
-        'Here is the test to find whether your mission on Earth is finished: if you\'re alive, it isn\'t.',
-        'Hugh Mackay',
+    '4d893c6c-97d0-5c49-bba1-1cc166a2d095' => [
+        'Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.',
+        'Chanakya',
     ],
-    '4147ee77-c676-5967-ab7f-d23992707d40' => [
-        'I\'ve still got a small fitness and conditioning business where I travel round the world doing stuff for individuals and corporations, mainly fitness training.',
-        'Daley Thompson',
+    'ac55d65e-ec7f-582c-a278-f84292e1308d' => [
+        'There is no racial or ethnic involvement in Thanksgiving, and people who may be very distant from the Christian system can see the beauty and the positive spirit that comes from the holiday.',
+        'John Clayton',
     ],
-    '9e9aba11-100b-54d0-bb57-16d34b838f81' => [
-        'If your mother did not know how to love herself, or your father did not know how to love himself, then it would be impossible for them to teach you to love yourself. They were doing the best they could with what they had been taught as children.',
-        'Louise L. Hay',
+    '32e81f46-4a09-5215-b5f6-1a9ac03858ec' => [
+        'This success led my theoretical group to the chemical reactivity theory, extending more and more widely the range of compound and reactions that were discussed.',
+        'Kenichi Fukui',
     ],
-    '641f1b1b-2b6e-5349-9e21-1230c1b93341' => [
-        'The great art of life is sensation, to feel that we exist, even in pain.',
-        'Tim Tebow',
+    '670b2ec7-b88e-58d3-ae0c-cf76360c1462' => [
+        'I actually think of being funny as an odd turn of mind, like a mild disability, some weird way of looking at the world that you can\'t get rid of.',
+        'Calvin Trillin',
     ],
-    '7967ac2c-7194-55fc-9b3f-3d43efd16be9' => [
-        'The happiest moment of my life was probably when my daughter was born.',
-        'Andy Andrews',
+    '2094ad5b-da27-5560-95e9-70d40464a346' => [
+        'Work is the meat of life, pleasure the dessert.',
+        'B. C. Forbes',
     ],
-    '5d8133d3-333f-5fee-8d76-c2080733adb9' => [
-        'Part of the beauty of the show in a way is that he\'s not perfect, but you can always count on him to do the right thing in a pinch. That\'s why he inspires people and inspires me.',
-        'Stephen Collins',
+    'a73268e8-3e76-57fb-ad5c-dd634cb2189f' => [
+        'Never do things others can do and will do, if there are things others cannot do or will not do.',
+        'Amelia Earhart',
     ],
-    'ba975e49-fa28-52a9-8183-2f48d18e403d' => [
-        'I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me.',
-        'Rosie O\'Donnell',
+    '6952b01f-3af9-5d24-b2be-2a986fd03ca8' => [
+        'If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.',
+        'Ajahn Chah',
     ],
-    '711fbd85-edd9-5c13-bd04-f35804512e9b' => [
-        'What you want in a mentor is someone who truly cares for you and who will look after your interests and not just their own. When you do come across the right person to mentor you, start by showing them that the time they spend with you is worthwhile.',
-        'Vivek Wadhwa',
+    '97b293fc-cc61-5c7d-b51f-b26c7b5c7acf' => [
+        'We are ramping up security in the United States but also looking at visa applicants, visa waiver applicants - and looking at travel manifests on the airplanes trying to come into the United States.',
+        'Mike McCaul',
     ],
-    'fb2f3506-b302-5052-8d2a-7bb29c14ebe4' => [
-        'In our nature, however, there is a provision, alike marvelous and merciful, that the sufferer should never know the intensity of what he endures by its present torture, but chiefly by the pang that rankles after it.',
-        'Nathaniel Hawthorne',
-    ],
-    '1b9f2e8b-3aad-500a-9b57-02003b7003b9' => [
-        'Air travel survived decades of terrorism, including attacks which resulted in the deaths of everyone on the plane. It survived 9/11. It\'ll survive the next successful attack. The only real worry is that we\'ll scare ourselves into making air travel so onerous that we won\'t fly anymore.',
-        'Bruce Schneier',
-    ],
-    'b9f1ceab-5753-52dc-b145-762661719224' => [
-        'Ability will never catch up with the demand for it.',
-        'Confucius',
-    ],
-    '32cb82be-7f0a-5da0-a74f-67e83e8f6c6a' => [
-        'The success I have achieved in bodybuilding, motion pictures, and business would not have been possible without the generosity of the American people and the freedom here to pursue your dreams.',
-        'Arnold Schwarzenegger',
-    ],
-    'b7d9269d-0db4-58e7-af02-601ff8cee233' => [
-        'Eventually soul mates meet, for they have the same hiding place.',
-        'Robert Brault',
-    ],
-    '06417588-cd4f-5668-86fb-dc9031c51991' => [
-        'No matter how bad any situation, cynicism has no positive impact. Watching the news, you might notice that cynicism and victimhood often seem to go hand-in-hand, but not for veterans.',
-        'James Mattis',
-    ],
-    'c3e87daa-7c62-5da9-9332-2c52cd857564' => [
-        'I broke two knuckles in my right hand when I gave Jean-Claude Van Damme an attitude adjustment. I got nothing except a medical bill.',
-        'Chuck Zito',
-    ],
-    '60c23710-f045-5662-af58-8d932af0ff5b' => [
-        'Nobody can predict the future. You just have to give your all to the relationship you\'re in and do your best to take care of your partner, communicate and give them every last drop of love you have. I think one of the most important things in a relationship is caring for your significant other through good times and bad.',
-        'Nick Cannon',
-    ],
-    '2ffdc075-a081-5e9f-84ed-dded1251d20a' => [
-        'Our greatest glory is not in never failing but rising everytime we fall.',
+    '1f17eff0-71c6-552f-a9d9-156b4a577db4' => [
+        'Fear stops people from accomplishing their goals.',
         'Unknown',
     ],
-    '994297d4-8ec8-55e7-8eb2-c2e24b99e031' => [
-        'Time destroys the speculation of men, but it confirms nature.',
-        'Marcus Tullius Cicero',
+    'beb8e8b7-756e-5091-bcb0-0e416ae88690' => [
+        'Genuine sincerity opens people\'s hearts, while manipulation causes them to close.',
+        'Daisaku Ikeda',
     ],
-    '1268f483-d113-535f-8b82-6fd683b9b832' => [
-        'To get down to the quick of it, respect motivates me - not success.',
-        'Hugh Jackman',
+    'a274a905-0d3e-5aa1-bc1a-e96b2f8c29a9' => [
+        'I am a racer. I\'m not a race car driver. I am a racer. I race. That\'s what I do. I don\'t go on vacations. I don\'t take my family on vacations because I don\'t have a family. My family is the racing family.',
+        'Tony Stewart',
     ],
-    'f065cd87-f6d6-5e0b-b385-a5969c32d251' => [
-        'I\'ve three children, three grandchildren, I work, I travel, and I\'m very happily married. I\'m very satisfied and happy with my life and there really isn\'t anything I want.',
-        'Joan Collins',
+    '8ab9cf65-a3fb-5d01-9af0-e4c10c9b7688' => [
+        'But you see, our society is still trapped in this binary, black/white logic and that has had some very positive implications for our generation. It\'s had some very negative ones as well and one of the negative ones is that it creates enormous identity problems for people who have one black ancestor and all white ancestors for example.',
+        'Henry Louis Gates',
+    ],
+    'ff4128cc-f673-5fb2-9f07-54a28af705fa' => [
+        'Hawaii is a beautiful place to bring up a family.',
+        'Henry Ian Cusick',
+    ],
+    '566bc696-d415-56d5-88b3-5c7542d9ab5e' => [
+        'If you put all your strength and faith and vigor into a job and try to do the best you can, the money will come.',
+        'Lawrence Welk',
+    ],
+    '79d3a047-83a7-53b3-af9a-32e6f3154a1f' => [
+        'A novel is a work of poetry. In order to write it, one must have tranquility of spirit and of impression.',
+        'Fyodor Dostoevsky',
+    ],
+    'edebb99f-107d-584f-b34e-d268158b0b54' => [
+        'Maintaining a positive working relationship with Mexico\'s leadership will also be crucial to increasing communication and trade. I plan to personally maintain those relationships.',
+        'Doug Ducey',
+    ],
+    'bf6caccd-7c2a-54d8-ac1d-af1a502027ca' => [
+        'What really went wrong is that General Motors has had this philosophy from the beginning that what\'s good for General Motors is good for the country. So, their attitude was, \'We\'ll build it and you buy it. We\'ll tell you what to buy. You just buy it.\'',
+        'Michael Moore',
+    ],
+    'f3d97fca-f004-52ce-90fa-6a8e1ae13cb1' => [
+        'I\'m not anti-fashion, but I\'ve always had a bit of a punk attitude. That\'s important, I think. I do my own thing.',
+        'Sade Adu',
+    ],
+    'eaaf42f5-45f8-58e8-9173-ebde4aee4057' => [
+        'Knowledge doesn\'t really form part of human nature. Conflict, combat, the outcome of the combat, and, consequently, risk and chance are what gives rise to knowledge. Knowledge is not instinctive; it is counter instinctive, just as it is not natural but counter natural.',
+        'Michel Foucault',
+    ],
+    '7392f6be-f2c7-5224-9aab-0d8917ef4ea1' => [
+        'Autism doesn\'t have to define a person. Artists with autism are like anyone else: They define themselves through hard work and individuality.',
+        'Adrienne Bailon',
     ],
 ];

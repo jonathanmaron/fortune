@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '6fbdfaf2-0c56-5414-8df4-bb1ca3c69a27' => [
-        'Worry often gives a small thing a big shadow.',
-        'Swedish proverb',
+    'e2de6092-1663-5313-8e33-9a9fee712a8a' => [
+        'I am just as comfortable in sweats and sneakers as I am in a dress and heels. Attitude is everything!',
+        'Blac Chyna',
     ],
-    '36f29388-42e3-5506-8327-67a00f67487b' => [
-        'Through travel, you discover a new aspect to your personality. You discover things which you wouldn\'t seated in the confines of your home.',
-        'Imtiaz Ali',
-    ],
-    'a6fba5a0-1150-5e36-b92d-06f69de8b494' => [
-        'Unilever, Nestle and SAB Miller are all taking a long-term approach to investing in sustainable resource consumption. Each is driving through better resource management, which is expected to yield positive returns in the future.',
-        'Jacob Rothschild',
-    ],
-    '3afcae74-550b-5771-8cc7-6da64119db83' => [
-        'It\'s not the size of the dog in the fight, it\'s the size of the fight in the dog',
+    'e3fb2622-9542-559d-b425-312d864dc42f' => [
+        'Age is an issue of mind over matter. If you don\'t mind, it doesn\'t matter',
         'Mark Twain',
     ],
-    'a8f72f70-ac09-590e-a6c3-ae8707fdd742' => [
-        'Nature never breaks her own laws.',
-        'Leonardo da Vinci',
+    'fdd18547-374a-546e-9640-5a89379be622' => [
+        'I\'ve been lucky enough to travel widely. When you\'re based in Europe, it\'s very easy to go to Madrid or Budapest for the weekend. I also lived in Italy for ten years and now live in Ireland.',
+        'Laurie Graham',
     ],
-    '1e6e70b7-dce0-5db9-acc4-0d9640d281bd' => [
-        'A graduation ceremony is an event where the commencement speaker tells thousands of students dressed in identical caps and gowns that \'individuality\' is the key to success.',
-        'Robert Orben',
+    '89a0bb9a-bd2e-5b51-9ccd-d55a9d000124' => [
+        'Every exit is an entry somewhere else.',
+        'Tom Stoppard',
     ],
-    '4fc5addd-39e4-55d6-aa30-ad8f20bf9f5d' => [
-        'We are living in a culture where we are so led by the visual, and what is promoted in the media, that the attitude becomes, \'I don\'t have to go through normalcy in life - I can look for exemptions. And I expect them, and when I look for them and they are not there, I am angry.\'',
-        'Ben Harney',
+    '67c1653b-6321-55da-8cf7-93f27079f91c' => [
+        'A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.',
+        'David Brinkley',
     ],
-    '2660ad36-4e29-5810-bcb1-74e37b03c0b2' => [
-        'You have to think anyway, so why not think big?',
-        'Donald Trump',
+    '9183c12e-cc89-5895-86b5-e8b939119f82' => [
+        'That\'s the thing about awards - it\'s for the people who do all the hard work behind the scenes. An award is just a clap at them.',
+        'Sia',
     ],
-    '683bb104-8bd3-5be2-aa46-c5d62017a688' => [
-        'I don\'t care how busy I am - I will always make time for what\'s most important to me.',
-        'Kevin Hart',
+    '469263a2-b626-513f-b6c8-3e86c331eb70' => [
+        'Beauty is grace and confidence. I\'ve learned to accept and appreciate what nature gave me.',
+        'Lindsay Lohan',
     ],
-    'b8d53926-e299-505a-af5e-0bced4e65909' => [
-        'Everything in life is somewhere else, and you get there in a car.',
-        'Madonna Ciccone',
+    '77819147-735c-528c-87ae-f591ea953524' => [
+        'I read \'The Great Gatsby\' in high school and was hypnotized by the beauty of the sentences and moved by the story about the irrevocability of lost love.',
+        'Tom Perrotta',
     ],
-    '1cfa7ee1-bb4f-5a86-bcd1-3b9bf3fb8642' => [
-        'Life is something to do when you can\'t get to sleep.',
-        'Andrew Bernstein',
+    '23403528-0f71-5a3e-ab20-834723c50acc' => [
+        'My favorite spot is the Maldives. Since I travel so much for work, I like to go to places that are very secluded and quiet.',
+        'Irina Shayk',
     ],
-    '1ee0372b-d7d0-5d27-9d1b-c13582e7270d' => [
-        'Solitary trees, if they grow at all, grow strong.',
-        'Winston Churchill',
+    'b751b8e1-e093-552b-b43d-6a9c01ae13c9' => [
+        'It pays to get drunk with the best people.',
+        'Joe E. Lewis',
     ],
-    '1f8c743a-4704-51a7-96b6-1ec7d17ef44f' => [
-        'These days I travel so much it\'s hard to get into a routine. When I\'m on the road, I tend to use hotel gyms. When I\'m home in L.A., I like to hike and hit the surf. All in all, I try to keep a balanced diet and exercise routine, which has stood me in good stead to date.',
-        'Curtis Stone',
+    'f32c6627-e007-5431-8611-5b819f60e968' => [
+        'Satisfaction consists in freedom from pain, which is the positive element of life.',
+        'Arthur Schopenhauer',
     ],
-    'd477cfbe-e6cf-5542-bad5-d35bbb0028f4' => [
-        'Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.',
-        'Rumi',
+    '86a9d9c9-7929-51e3-9436-b1794b0e26c2' => [
+        'I firmly believe that if your environment works for you and your family, it translates into a better life.',
+        'Candice Olson',
     ],
-    'bd6d1c51-129e-5e0c-bbd5-62251e3082f8' => [
-        'To be a man requires that you accept everything life has to give you, beginning with your name',
-        'Burl Ives',
+    '7b5b8482-6c55-5566-a6d5-0b53415ad01e' => [
+        'A committee is a group that keeps minutes and loses hours.',
+        'Milton Berle',
     ],
-    '3344dd8f-f615-5044-9b48-ae0f4a29016e' => [
-        'The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.',
-        'Robert Kiyosaki',
+    'd94f0335-4f6a-547b-be76-e6d93a787e2b' => [
+        'Don\'t lower your expectations to meet your performance. Raise your level of performance to meet your expectations. Expect the best of yourself, and then do what is necessary to make it a reality.',
+        'Ralph Marston',
     ],
-    '6f6e935f-0963-5fde-9c55-5b78db06eeb2' => [
-        'A person will sometimes devote all his life to the development of one part of his body - the wishbone.',
-        'Josephine de La Baume',
+    '792cc0d8-b9cd-5491-85a9-d28b908021f6' => [
+        'Since we launched the original \'Pop Idol\' in England, I\'ve remained close with Simon Fuller. Working as executive producer on \'American idol\' for its first seven years not only was an inspirational journey into the heart of American pop culture, it opened my eyes to the untapped potential of the incredibly dynamic young people in this world.',
+        'Nigel Lythgoe',
     ],
-    '1c6ab27e-a486-5ef3-bc08-d11bc7f0a501' => [
-        'Never fight an inanimate object.',
-        'P. J. O\'Rourke',
+    'a4775a85-0e46-5ab4-991a-32ca86df3fdb' => [
+        'There are few aspects of everyday life that aren\'t touched by the technologies developed for space travel.',
+        'Scott Kelly',
     ],
-    'ae994931-4ab1-5698-a59c-a699e25c56d9' => [
-        'Travel, in the younger sort, is a part of education; in the elder, a part of experience.',
-        'Francis Bacon',
+    'bf3c7a79-1a55-59d7-b006-2ac1e7a17cc8' => [
+        'You learn more about life from watching \'Big Brother\' than from reading a book.',
+        'Phillip Sweet',
     ],
-    '32a1d97a-ad17-5a34-86e2-cce930adfdd5' => [
-        'I know what it is to feel unloved, to want revenge, to make mistakes, to suffer disappointment, yet also to find the courage to go forward in life.',
-        'Justine Skye',
+    '58a81863-3f33-5228-8948-b68d42b64c92' => [
+        'A light wind swept over the corn, and all nature laughed in the sunshine.',
+        'Anne Bronte',
     ],
-    '31fbab98-a9bc-577f-b9e4-0d004cbe343f' => [
-        'I like joy; I want to be joyous; I want to have fun on the set; I want to wear beautiful clothes and look pretty. I want to smile, and I want to make people laugh. And that\'s all I want. I like it. I like being happy. I want to make others happy.',
-        'Doris Day',
+    '1a62c11c-c16a-5b99-b3c2-4be568f5241a' => [
+        'It is in your moments of decision that your destiny is shaped.',
+        'Tony Robbins',
     ],
-    '75153065-de90-509e-b45c-d30a1ac227b6' => [
-        'If we were to use the success of \'Need You Now\' as the barometer for every other song, then we\'ll probably be highly disappointed. That song will probably undoubtedly be the biggest song of our career. We can hopefully have success for 20 years, but we may not ever have the success of that one particular song again.',
-        'Charles Kelley',
+    'f68d5bff-e3cc-52eb-88b3-40d98deaba4c' => [
+        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
+        'Evgeny Morozov',
     ],
-    'da0be1bb-14fb-5dcd-9be7-67759bc1d65a' => [
-        'Our daily decisions and habits have a huge impact upon both our levels of happiness and success.',
-        'Shawn Achor',
+    '33ae9255-babb-52d0-8c47-fb502005866d' => [
+        'I don\'t know about you, but my girlfriends have been my girlfriends forever, and they\'re my sisters and my family.',
+        'Elizabeth Olsen',
     ],
-    'c632b0cc-1cd5-50ab-89c0-37949b30bf64' => [
-        'People are the key to success or extraordinary success.',
-        'Azim Premji',
+    'ede7e175-742d-506f-9c47-ecb9b911d0f9' => [
+        'I\'ve thought it would be cool to have a baby young. You know, be my road dog - like my dogs, they travel the world - but there\'s always something you have to give up for success. Everything comes at a cost. Just what are you willing to pay for it?',
+        'Serena Williams',
     ],
-    'af0c8ca0-af92-58d7-9d94-c1e7f879a522' => [
-        'I like my hair long, and I love my bangs. I love them because I can pin them back or keep the fringe with attitude.',
-        'Cassie Steele',
+    '901f33be-e3e7-5f78-806f-98d82e901d37' => [
+        'If you do what you love, it is the best way to relax.',
+        'Christian Louboutin',
     ],
-    '25fe0384-eff0-5d86-8634-097522f14f6f' => [
-        'Beauty, sweet love, is like the morning dew, Whose short refresh upon tender green, Cheers for a time, but till the sun doth show And straight is gone, as it had never been.',
-        'Samuel Daniel',
+    'dfe4c45c-619e-5351-ab04-f7653778dfc0' => [
+        'If you give a good thing to the world, then over time your karma will be good, and you\'ll receive good.',
+        'Russell Simmons',
     ],
-    '70ad30c6-5c0e-5ed7-80f1-8c2b4a89a2df' => [
-        'A game one of my sisters will play with me in my first year of being alive is called Good Baby, Bad Baby. This consists of being told I am a good baby until I smile and laugh, then being told I am a bad baby until I burst into tears. This training will stand me in good stead all through my life.',
-        'Ali Smith',
+    '47b23cd2-6927-5229-962e-875f3ba98021' => [
+        'I find it an absolute pleasure to read travel guides, especially the Michelin guides, and their description of places I know I\'ll probably never visit. I spend a large part of my life reading descriptions of restaurants.',
+        'Michel Houellebecq',
     ],
-    'c226353b-96b3-518e-a4f4-5a4535a7b0c7' => [
-        'It would be difficult for me not to conclude that the most perfect type of masculine beauty is Satan, as portrayed by Milton.',
-        'Charles Baudelaire',
+    '688f7d6a-6915-56d0-9bc5-a3037ee7ada4' => [
+        'Whether in success or in failure, I\'m proud of every single movie I\'ve ever directed.',
+        'Steven Spielberg',
     ],
-    'd8b44326-66ff-59ad-bc8c-7087469a3d83' => [
-        'The very nature of science is discoveries, and the best of those discoveries are the ones you don\'t expect.',
-        'Neil deGrasse Tyson',
+    '8b9b3578-70fc-5186-86e5-07f7c4fda538' => [
+        'Every time I hear someone making ignorant comments about the supposed \'evils\' of homosexuality, I think about the true evil of the high suicide rates among gay and lesbian teens.',
+        'Susan Estrich',
     ],
-    'd9fcb515-c960-5bf8-8c49-91d61bf57171' => [
-        'Our career is a dream. I mean, we get to act, travel around the world, and meet cool people. What\'s not to love!',
-        'Mary-Kate Olsen',
+    'c61c1c67-7463-5bb7-819a-7a1ce58df9de' => [
+        'A lawn is nature under totalitarian rule.',
+        'Michael Pollan',
     ],
-    '73f7175d-7dc8-588c-9cb9-0cb090a13852' => [
-        'Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.',
-        'Pearl Buck',
+    'b2c3ec8c-034d-5a87-be21-dc4e038c13aa' => [
+        'Nature is at work. Character and destiny are her handiwork. She gives us love and hate, jealousy and reverence. All that is ours is the power to choose which impulse we shall follow.',
+        'David Seabury',
     ],
-    '5a5cbfd9-ffc1-501a-a350-5397237cea8e' => [
-        'Attitude determines the altitude of life.',
-        'Edwin Louis Cole',
+    'd1599670-edeb-59c2-9061-073b78dde1ac' => [
+        'I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.',
+        'Frederick Douglass',
     ],
-    '69a6e7a8-b4d1-54e7-bc02-dcfaa099e0af' => [
-        'For a DJ at my level, you can really go through life and travel the world without seeing a single thing. It\'s harder to go out and see the sights than it is to play a show.',
-        'Steve Aoki',
+    '6dca78fd-df61-5295-8fb2-9847c06828e0' => [
+        'We\'re all biased, right, in many different ways - politically, religiously, ideologically, the way our family raised us - and that\'s fine. Nobody wants to live in a world where everybody thinks exactly the same. The key, though, is to try to figure out where your biases are holding you back from solving problems.',
+        'Stephen J. Dubner',
     ],
-    'ea6d237d-6329-5039-b002-fea5c16c608d' => [
-        'I don\'t really remember, but I\'m positive that whenever I cried, my mother gave me something to eat. I\'m sure that whenever I had a fight with the little girl next door, or it was raining and I couldn\'t go out, or I wasn\'t invited to a birthday party, my mother gave me a piece of candy to make me feel better.',
-        'Jean Nidetch',
+    '5e8e3474-9d99-5e4d-8bc7-664500934e31' => [
+        'Although as a sailor I despised politics - for I loved my sailor\'s life and still love it today - conditions forced me to take up a definite attitude towards political problems.',
+        'Fritz Sauckel',
     ],
-    '509e8d4a-b672-5f31-b6b0-e3a4ef75de90' => [
-        'Some people are born good-looking. Some have the gift of gab. And some are lucky enough to be born smarter than the rest of us. Whether we like it or not, Mother Nature does not dole these characteristics out evenly.',
-        'Simon Sinek',
+    '6669c8d5-38fb-5310-b6c8-45e864c628eb' => [
+        'Nature has never read the Declaration of Independence. It continues to make us unequal.',
+        'Will Durant',
     ],
-    '110c65f0-0f79-565a-a14c-ccfa4be6cfb1' => [
-        'I love being a woman. I love the sexiness we get to exude. But the best thing about being a woman is the power we have over men.',
-        'Eva Longoria',
+    'bb545275-99f2-5a55-9ff8-775dbbfcf57e' => [
+        'Those who dream by day are cognizant of many things which escape those who dream only by night.',
+        'Edgar Allan Poe',
     ],
-    '92795b3b-c22d-5183-ad12-57cf360b2012' => [
-        'The single biggest surprise about arriving to the Senate is the defeatist attitude here.',
-        'Ted Cruz',
+    '952d00bb-b050-55f5-a93f-ecd263ec7a1f' => [
+        'I truly believe that the people who have a negative view of Trump will be pleasantly surprised when he becomes the leader of our country. I also believe he will make positive changes that will benefit the people who need it most.',
+        'Chuck Norris',
     ],
-    '382a6984-3314-51ae-8506-ee02214dbd39' => [
-        'Skills are cheap. Passion is priceless.',
-        'Gary Vaynerchuk',
+    'ddf4c447-4d59-507e-9c4d-0e1bb99d16cf' => [
+        'Divorce is a time of change. It really rocks a foundation of most people\'s lives. When we have our heart broken or our dreams taken away from us, it is a time of growth and change.',
+        'Debbie Ford',
     ],
-    'ed7704cc-bbd8-5098-afd2-7f1e0138d52b' => [
-        'I can do comedy, so people want me to do that, but the other side of comedy is depression. Deep, deep depression is the flip side of comedy. Casting agents don\'t realize it but in order to be funny you have to have that other side.',
-        'Parker Posey',
+    '154f59a3-87f9-5a5d-8a9a-7d7a5906db3c' => [
+        'You\'ve got to get up every morning with determination if you\'re going to go to bed with satisfaction.',
+        'George Lorimer',
     ],
-    '9d0c918e-a1e9-5f34-aaaf-555baf934448' => [
-        'You don\'t have to have an attitude if you\'re famous.',
-        'Adriana Lima',
+    '4f0c73bc-ed51-5cf2-ba58-bd0e244a812f' => [
+        'The trouble with our times is that the future is not what it used to be.',
+        'Paul Valery',
     ],
-    '8d540504-504c-5e05-a016-1eabe6cd8434' => [
-        'I have no idea what I\'m going to say when I stand up to give a toast. But I do know that anything I say I find funny.',
-        'Don Rickles',
-    ],
-    '7f3fa856-b529-50f0-930b-d01fc7198660' => [
-        'The best intelligence test is what we do with our leisure.',
-        'Laurence J. Peter',
-    ],
-    '198a1c32-d1bb-553e-9e70-357cc5dcb7bc' => [
-        'That\'s my only goal. Surround myself with funny people, and make sure everyone has a good time and works hard.',
-        'Joe Rogan',
-    ],
-    'dc942d73-70e7-5bc5-a22f-ed6939b1acff' => [
-        'Asian American success is often presented as something of a horror - robotic, unfeeling machines psychotically hellbent on excelling, products of abusive tiger parenting who care only about test scores and perfection, driven to succeed without even knowing why.',
-        'Jenny Zhang',
-    ],
-    'b76d4181-9241-5297-a90a-e1925eee708b' => [
-        'Everything I\'ve been through, everything I\'m about to go through in my career and my life, if my family wasn\'t with me and didn\'t support me, it would be really tough.',
-        'Karl Malone',
-    ],
-    'cdb7e0cc-144c-5830-ae6f-acf19a4cbaca' => [
-        'Originally I had planned to write just a couple of children\'s books and then, return the focus on adult literature. A funny thing happened along the way - I kept having new ideas, and then I looked up one day, and 30 years had passed!',
-        'Nikki Grimes',
-    ],
-    '76cfbf38-1811-5da2-8669-ea2618e4da79' => [
-        'Beauty is only skin deep. I think what\'s really important is finding a balance of mind, body and spirit.',
-        'Jennifer Lopez',
-    ],
-    '13c6455e-b835-55a4-a26d-df173397be70' => [
-        'Two races share today the soil of Canada. These people had not always been friends. But I hasten to say it. There is no longer any family here but the human family. It matters not the language people speak, or the altars at which they kneel.',
-        'Wilfrid Laurier',
-    ],
-    '34086240-7e3a-5138-a42f-44decf45cc1b' => [
-        'Nearly every moment of every day, we have the opportunity to give something to someone else - our time, our love, our resources.',
-        'S. Truett Cathy',
+    '463d3369-7b15-5a21-be7f-9dd61b01cbb2' => [
+        'An ounce of practice is better than tons of teaching.',
+        'Mahatma Gandhi',
     ],
     '0e88d57b-3a4c-5d34-9ea5-2658216b9131' => [
         'The trains that travel the Chunnel are massive machines. The Eurostars are bullet-shaped and a quarter-mile long. They are pulled by a 136,000-pound locomotive and move in the open air at 185 m.p.h. and through the tunnel at 100 m.p.h.',
         'Peter Landesman',
+    ],
+    'fa67149b-3a09-548a-8bb1-8e411b0fbe76' => [
+        'There is always room at the top.',
+        'Daniel Webster',
+    ],
+    '826a91d7-fd70-5844-b9bd-f9502beae8b7' => [
+        'With each new day in Africa, a gazelle wakes up knowing he must outrun the fastest lion or perish. At the same time, a lion stirs and stretches, knowing he must outrun the fastest gazelle or starve. It\'s no different for the human race. Whether you consider yourself a gazelle or a lion, you have to run faster than others to survive.',
+        'Mohammed bin Rashid Al Maktoum',
+    ],
+    'b98c9a3e-adb3-5a0b-87b2-0890dc0b8189' => [
+        'We\'ve certainly learned a lot of lessons from Katrina, from Rita. Rita was better than Katrina. We\'re doing a better job planning. We\'re closer - more closely aligned with the Department of Defense. These things would be positive things if we were to have another attack.',
+        'Michael Chertoff',
+    ],
+    '071b5ba3-ee10-52e0-83db-1e5fab11fff0' => [
+        'Good manners will open doors that the best education cannot.',
+        'Clarence Thomas',
+    ],
+    '8c99590c-21e4-5dd8-a693-91bb6578904a' => [
+        'One could not pluck a flower without troubling a star.',
+        'Loren Eiseley',
+    ],
+    '08947d6e-c32a-5c10-bb99-159922fcfbcd' => [
+        'As long as you know yourself and you got good people around you and you passionate about what you do, that\'s all that matters because at the end of the day, you go to sleep with the people you love, you wake up with the people you love, and you spend your time with the people you love.',
+        'Tyga',
+    ],
+    'e93354dd-2392-5e4d-b6ea-1bb0e37add08' => [
+        'If the world could remain within a frame like a painting on the wall, I think we\'d see the beauty then and stand staring in awe.',
+        'Conor Oberst',
+    ],
+    'b174be71-b10b-5d1f-a592-cea8648077ff' => [
+        'If you don\'t embrace who you are and accept who you are, you won\'t be able to live a happy life.',
+        'Steve Jobs',
+    ],
+    '0863acf8-5955-51cf-93e1-f416897c6b81' => [
+        'I enjoy jokes, smiling, and making people smile. I may be a little different, but that\'s OK, who wants to be normal anyway?',
+        'Tim Duncan',
+    ],
+    'cda92eef-6370-589c-89e9-c716679487ce' => [
+        'Nobody is gonna love you like you. You\'re gonna be your best salesman.',
+        'T.I.',
     ],
 ];

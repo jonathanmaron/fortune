@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '9f388d40-4066-550e-aa71-e81485b0f075' => [
-        'I like being on a set where you can make decisions and everything is involved and are happy to work together to make the best work. For me, it\'s all about making the best work and creative people working together and all being respected and all having their opinions of what gives it the best quality is important.',
-        'Aneurin Barnard',
+    '8c758255-31f1-5e43-b1e2-a1a797b80f33' => [
+        'Be careful of success; it has a dark side.',
+        'Robert Redford',
     ],
-    'd4bb7cd2-07d5-555b-9997-ed105048bd5a' => [
-        'My success was not based so much on any great intelligence but on great common sense.',
-        'Helen Gurley Brown',
+    '5da93d56-838e-5bfa-b9fe-8ab1573b104b' => [
+        'My ideal travel companions are my surfboard, wetsuit, and guitar.',
+        'Alexander Ludwig',
     ],
-    '44852dee-4803-5913-a509-3e59f6bc7a7d' => [
-        'Gratitude is the fairest blossom which springs from the soul.',
-        'Henry Beecher',
+    '6aabd730-5192-50d1-ab7c-a409229a62b5' => [
+        'Time is money says the proverb, but turn it around and you get a precious truth. Money is time.',
+        'George Gissing',
     ],
-    '322693e2-614a-5d2a-be82-ff5232c8912c' => [
-        'I thought, \'It doesn\'t matter what that woman is wearing,\' but then I realised actually it\'s our job as designers to make women smile; to bring them the chocolate without the calories.',
-        'Alber Elbaz',
+    '9fbbf1ab-3e98-5a33-be93-854af48f32f8' => [
+        'No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other\'s worth.',
+        'Robert Southey',
     ],
-    '1ab275ed-da23-565a-8015-f080db08a70b' => [
-        'A failure is a man who has blundered but is not capable of cashing in on the experience.',
-        'Elbert Hubbard',
+    '6c80e637-8da6-5eac-a143-5dcec07214c1' => [
+        'The landscape painter must walk in the fields with a humble mind. No arrogant man was ever permitted to see Nature in all her beauty.',
+        'John Constable',
     ],
-    '166b22cd-7624-5a6d-ae38-67fb3f4d0ae7' => [
-        'Wars will remain while human nature remains. I believe in my soul in cooperation, in arbitration; but the soldier\'s occupation we cannot say is gone until human nature is gone.',
-        'Rutherford B. Hayes',
+    '4064be29-14e0-5aca-9515-115a58feb89d' => [
+        'There is a role and function for beauty in our time.',
+        'Tadao Ando',
     ],
-    '31496fc5-9620-5933-8f65-713e75b61899' => [
-        'I am a positive person and do not allow things to get on top of me.',
-        'Jamie Redknapp',
+    'c2bac1f9-b0aa-5625-b269-7ced631b499e' => [
+        'All nature wears one universal grin.',
+        'Henry Fielding',
     ],
-    'fd94a869-0af6-5f11-a39f-b0d0b72d5f57' => [
-        'About astrology and palmistry: they are good because they make people vivid and full of possibilities. They are communism at its best. Everybody has a birthday and almost everybody has a palm.',
-        'Kurt Vonnegut',
+    'de642c62-0832-5ae0-b419-b3208abe4d6f' => [
+        'I enjoy the process of composing music. The first time I hear a song, it has to bring a smile to my lips. You have to tap your feet and be able to sing the song.',
+        'Salman Khan',
     ],
-    '5cb26515-4930-530b-adb6-17f2ad95d4ed' => [
-        'In the depth of winter I finally learned that there was in me an invincible summer.',
-        'Albert Camus',
+    '61fd53c4-8394-587e-91eb-e3529ab665eb' => [
+        'However difficult life may seem, there is always something you can do and succeed at.',
+        'Stephen Hawking',
     ],
-    'bfe75221-a8f9-5fe5-b296-58f714e6a3de' => [
-        'When I was a young boy, growing up in Durham, North Carolina, the women in my family were truly passionate about their clothes; nothing was more beautiful to me than women dressing with the utmost, meticulous attention to accessories, shoes, handbags, hats, coats, dresses and gloves to attend Sunday church services.',
-        'Andre Leon Talley',
+    '681d0b9f-c626-579f-a196-f4d10ccf80f1' => [
+        'I definitely want to continue working in independent films - and big budget stuff as well - but there\'s a freedom you have when you\'re not getting paid. It\'s easier to say no and there\'s no pressure to please the powers that be. Also I don\'t have to hear \'flirt and smile more.\'',
+        'Trieste Kelly Dunn',
     ],
-    'ee13d5dc-7601-5f27-967c-208b7313279f' => [
-        'It was pretty clear that I was a funny guy, just as a guy.',
-        'Chevy Chase',
+    '9606aa1f-ffb8-58de-a712-219857857465' => [
+        'What I learned from my work as a physician is that even with the most complicated patients, the most complicated problems, you\'ve got to look hard to find every piece of data and evidence that you can to improve your decision-making. Medicine has taught me to be very much evidence-based and data-driven in making decisions.',
+        'Jim Yong Kim',
     ],
-    '624e7ff8-2e55-5d9f-9437-265617435e12' => [
-        'After my husband John Lennon passed away, I tried to smile for my health.',
-        'Yoko Ono',
+    '30a088cc-9469-5fab-914a-033301245f75' => [
+        'Luck is great, but most of life is hard work.',
+        'Iain Duncan Smith',
     ],
-    '6124f464-d734-5543-a012-733439b5dfe2' => [
-        'If the world seems cold to you, kindle fires to warm it.',
-        'Lucy Larcom',
+    '9320e5fd-96f4-58e7-9d88-c939ce4a3ab9' => [
+        'All the great artists had their dark sides. Look at Amy Winehouse or anyone who has achieved a certain level of success. Even Adele, and the people that you wouldn\'t put in the same category as a gangster rapper. These women have exposed their vulnerabilities, demons, and things that have hurt them.',
+        'Kat Graham',
     ],
-    'bd49761b-60e0-5da8-a640-eeda8e9fc983' => [
-        'A beautiful body perishes, but a work of art dies not.',
+    '4278e02e-1159-52c0-a110-5c2514284cb2' => [
+        'Success is following the pattern of life one enjoys most.',
+        'Al Capp',
+    ],
+    'd48f5429-51aa-5901-96d6-f02581a3efcb' => [
+        'My father would take me to the playground, and put me on mood swings.',
+        'Jay London',
+    ],
+    '73e57071-bc94-5254-a8b7-2a03f9b7dfa1' => [
+        'I want to see friends more and travel more.',
+        'Jennifer Aniston',
+    ],
+    '3e9b7c02-f29d-535e-acb5-eab505d6d739' => [
+        'Like the rest of the genetic lottery, beauty is unfair. Everyone falls short of perfection, but some are luckier than others. Real confidence requires self-knowledge, which includes recognizing one\'s shortcomings as well as one\'s strengths.',
+        'Virginia Postrel',
+    ],
+    '7967ac2c-7194-55fc-9b3f-3d43efd16be9' => [
+        'The happiest moment of my life was probably when my daughter was born.',
+        'Andy Andrews',
+    ],
+    '9dfbc70c-fd11-50da-80d6-09e3bfa7d43f' => [
+        'To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.',
+        'Kahlil Gibran',
+    ],
+    '58c34900-1286-52c8-8fa8-d94cc5ac5de0' => [
+        'Hollywood needs to recognise all shades of African American beauty.',
+        'Gabrielle Union',
+    ],
+    '1c6704eb-33a0-5104-9c80-627eb01cd3e8' => [
+        'Our judgments judge us, and nothing reveals us, exposes our weaknesses, more ingeniously than the attitude of pronouncing upon our fellows.',
+        'Paul Valery',
+    ],
+    'f75de728-3c61-5746-bac1-052b0f3c66a5' => [
+        'Beauty is the first test: there is no permanent place in the world for ugly mathematics.',
+        'G. H. Hardy',
+    ],
+    'a8ae96cc-84bf-5841-820b-cc3135aa6ed8' => [
+        'Part of what made the Macintosh great was that the people working on it were musicians, poets, and artists, and zoologists, and historians. They also happened to be the best computer scientists in the world. But if it hadn\'t been computer science, these people would have been doing amazing things in other fields.',
+        'Steve Jobs',
+    ],
+    '3bf52e41-cf93-5314-8440-6ed65c94b7f4' => [
+        'It is wonderful how much time good people spend fighting the devil. If they would only expend the same amount of energy loving their fellow men, the devil would die in his own tracks of ennui.',
+        'Helen Keller',
+    ],
+    '64953b91-977a-5a73-8f41-ed03adbe1ddd' => [
+        'The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.',
+        'Michelangelo',
+    ],
+    '2f10af08-2a80-5837-a480-c77b256bb165' => [
+        'Don\'t let people disrespect you. My mom says don\'t open the door to the devil. Surround yourself with positive people.',
+        'Cuba Gooding, Jr.',
+    ],
+    '5df1efe9-012d-50c9-b454-b0c6d133f5cc' => [
+        'Good friends, good books and a sleepy conscience: this is the ideal life.',
+        'Muhammad Ali',
+    ],
+    '4f819032-e863-57fc-84ab-5c8eae77ba4e' => [
+        'I really cherish the memories I have of my trips. For some reason, when you travel, it\'s like your mind picks up on the fact that this is something uncharacteristic, so it tunes in more acutely and remembers better.',
+        'Jennette McCurdy',
+    ],
+    'da59a008-9dcc-5994-8f0d-aca9155747b0' => [
+        'I\'m not that good looking. That\'s why \'Gangnam Style\' works. If someone handsome uses that phrase it\'s just awkward. But if someone like me uses it, it\'s funny.',
+        'Psy',
+    ],
+    'ba777975-11f2-5bcb-b6af-1b4cff2c6282' => [
+        'Who sows virtue reaps honour.',
         'Leonardo da Vinci',
     ],
-    '0fc15196-18fb-5cb3-bd78-bd59945933fc' => [
-        'Man has lost the capacity to foresee and to forestall. He will end by destroying the earth.',
-        'Albert Schweitzer',
+    '7f4bd59d-c35b-5ddd-93d8-786ca9bbdb52' => [
+        'Common sense would suggest that having ability, like being smart, inspires confidence. It does, but only while the going is easy. The deciding factor in life is how you handle setbacks and challenges. People with a growth mindset welcome setbacks with open arms.',
+        'Ezra Taft Benson',
     ],
-    '93273cff-0f2a-532e-ae54-52c1e2d43786' => [
-        'You can always enhance your natural beauty; you learn what works for your face because crazy make-up doesn\'t really suit anyone.',
-        'Caroline Winberg',
+    'a4e59362-cf3e-5c10-8914-071be5f79bdf' => [
+        'Life doesn\'t require that we be the best, only that we try our best.',
+        'Publilius Syrus',
     ],
-    '7b6a0706-3d39-577d-9e9e-6cfb7a30f5c4' => [
-        'It\'s always funny until someone gets hurt. Then it\'s just hilarious.',
-        'Bill Hicks',
+    '26843fa0-ab4c-52d5-b30f-3b4970f970bc' => [
+        'Beauty, by way of fashion, has to do with confidence, with flattering silhouettes, with patterns, with proper fit for body type, and with an abundance of self-love!',
+        'Mary Lambert',
     ],
-    '05928677-cd86-5a82-8914-42c69a89d7ca' => [
-        'I grew up in a family that despised not only communism but collectivism, socialism, and any \'ism\' that deprived the individual of his or her natural rights.',
-        'Rand Paul',
+    '6adabf8b-8058-595e-a944-d43d948e0620' => [
+        'Blessed is the man who expects nothing, for he shall never be disappointed.',
+        'Alexander Pope',
     ],
-    '7df14f05-4a0a-5070-8be9-67c0a3defdb7' => [
-        'We will see a breakdown of the family and family values if we decide to approve same-sex marriage, and if we decide to establish homosexuality as an acceptable alternative lifestyle with all the benefits that go with equating it with the heterosexual lifestyle.',
-        'Jerry Falwell',
+    'd04162db-6479-5fe6-89b0-1d938989528d' => [
+        'When a trait is universal, evolutionary biologists look for a genetic explanation and wonder how that gene or genes might enhance survival or reproductive success.',
+        'Robin Marantz Henig',
     ],
-    '4aeb9017-1a63-5094-b452-b69992594e8a' => [
-        'Everything is funny, as long as it\'s happening to somebody else.',
-        'Will Rogers',
+    '23239e58-2fd0-57a5-aa0f-2163bbc34277' => [
+        'One today is worth two tomorrows.',
+        'Benjamin Franklin',
     ],
-    'cf345e32-7177-59c8-8f30-83b02df736d3' => [
-        'I know people who\'ve had a nose job, and they\'ve walked out feeling a million dollars, and their confidence is tenfold. Good on them! Natural beauty comes in all different shapes and sizes, but if you think surgery would right something you have a problem with, then why shouldn\'t you do it?',
-        'Louise Nurding',
+    '7b1425e4-8d4d-5a0a-a207-02738110f5bb' => [
+        'I\'m on JetBlue and United. So I spend a lot of time on airplanes with other people and in terminals or just traveling around and going to restaurants or whatever. The interaction I get on a daily basis is always positive. I\'ve never had a negative interaction.',
+        'Lance Armstrong',
     ],
-    '1284cf37-a40b-50e1-a908-761f18332922' => [
-        'You don\'t have to travel, but I find extended travel to be a helpful tool for reexamining yourself and the constraints you\'ve artificially placed on your life. It\'s easy to believe everything has to be done one way if you\'re always in one place around the same people.',
-        'Timothy Ferriss',
+    'a488612c-4b85-51c7-a695-a24f105d523d' => [
+        'I have always believed that technology should do the hard work - discovery, organization, communication - so users can do what makes them happiest: living and loving, not messing with annoying computers! That means making our products work together seamlessly.',
+        'Larry Page',
     ],
-    'c887e7eb-3d2e-55ab-935e-0ab6bc2a62e8' => [
-        'Chilling out on the bed in your hotel room watching television, while wearing your own pajamas, is sometimes the best part of a vacation.',
-        'Laura Marano',
+    '2185dc49-418a-58f5-a717-8a4f83cd00dd' => [
+        'I travel in so many different ways; I travel high, I rough it... it all depends on who I travel with.',
+        'Diane von Furstenberg',
     ],
-    'eea1adc6-fc26-5cb8-8bf7-b1fe9163191c' => [
-        'Great acts are made up of small deeds.',
-        'Lao Tzu',
+    'af373c96-1ad5-59b1-ba04-13723ae23748' => [
+        'Future peace, prosperity and confidence depend not just on ourselves but on the success of all nations. Hence, we are all partners, no matter what our backgrounds, cultures, faiths and histories.',
+        'Hassanal Bolkiah',
     ],
-    'ee46cde7-9bcf-57d1-b843-3ee7bfd40ffb' => [
-        'Obviously, the highest type of efficiency is that which can utilize existing material to the best advantage.',
-        'Jawaharlal Nehru',
+    '278e1a59-970f-5d44-9b8d-22a2e864e8da' => [
+        'A beautiful lady is an accident of nature. A beautiful old lady is a work of art.',
+        'Louis Nizer',
     ],
-    'b2b3418c-12e2-5320-be64-17e7c03c0114' => [
-        'Three things cannot be long hidden: the sun, the moon, and the truth.',
-        'Buddha',
+    'e99f64e8-fcb5-58d1-a875-1d344b91d2eb' => [
+        'To experience sublime natural beauty is to confront the total inadequacy of language to describe what you see. Words cannot convey the scale of a view that is so stunning it is felt.',
+        'Eleanor Catton',
     ],
-    '50e0d78c-bfe9-5563-b32c-4157b4338429' => [
-        'A woodland in full color is awesome as a forest fire, in magnitude at least, but a single tree is like a dancing tongue of flame to warm the heart.',
-        'Hal Borland',
+    'be50a4ae-4436-5411-8410-39e727f22b60' => [
+        'Autumn\'s the mellow time.',
+        'William Allingham',
     ],
-    '6dce5d34-562f-5361-9fe8-5b389710fd83' => [
-        'Real success is not on the stage, but off the stage as a human being, and how you get along with your fellow man.',
-        'Sammy Davis, Jr.',
+    '2fc87eb8-3bac-585a-92ba-6dcf815495a3' => [
+        'My ideal travel companions are my family.',
+        'Pharrell Williams',
     ],
-    '27d01469-7111-5d3d-9eb5-f93dc9008f71' => [
-        'Life is a DNA software system.',
-        'Mike Yaconelli',
+    'a88bd15c-52c2-5a9f-81bc-cc2e63886cb3' => [
+        'Don\'t complain about what you don\'t have. Use what you\'ve got. To be less than your best is a sin.',
+        'Oprah Winfrey',
     ],
-    'ef5bc526-f1c7-5e5c-8d65-cea6a2a9293b' => [
-        'I favor pocket-sized hard drives that travel between home and office, syncing with computers on both ends.',
-        'Barton Gellman',
+    'de6b08c4-c2bc-5fc3-a905-09560606bc32' => [
+        'Beauty for some provides escape, who gain a happiness in eyeing the gorgeous buttocks of the ape or Autumn sunsets exquisitely dying.',
+        'Langston Hughes',
     ],
-    '77560598-b2c9-5e0b-a0e9-c3970b060f2e' => [
-        'Don\'t waste time on jealousy. Sometimes you\'re ahead, sometimes you\'re behind.',
-        'Mary Schmich',
+    '97ec4ad1-ed28-57e7-bae3-5a3f57e5ec89' => [
+        'When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty.',
+        'John Muir',
     ],
-    'c7b40c3f-ee0a-52f9-b9d8-252afda12d3a' => [
-        'I still find each day too short for all the thoughts I want to think, all the walks I want to take, all the books I want to read, and all the friends I want to see.',
-        'Zoe Foster Blake',
+    'a6e14fb5-c1dc-5dd9-831a-8736b31168a4' => [
+        'Do not give your attention to what others do or fail to do; give it to what you do or fail to do.',
+        'Dhammapada',
     ],
-    '2e272d75-c6fe-5db4-96f8-c10e1c26da4f' => [
-        'Living with anyone for many years takes skill. To keep peace in the household, couples learn to adapt to one another, hopefully in positive ways.',
-        'Diane Ackerman',
+    'fe4a1e48-7011-5a0e-968e-41ab605b9996' => [
+        "He understood well enough how a man with a choice between pride and responsibility will almost always choose pride\u{2014}if responsibility robs him of his manhood.",
+        'Stephen King',
     ],
-    '56ebaad9-90d5-52e7-bcd1-9d3f8293fc85' => [
-        'If you could kick the person in the pants responsible for most of your trouble, you wouldn\'t sit for a month.',
-        'Theodore Roosevelt',
-    ],
-    '47b901ef-9a6e-546b-8d97-6d4ca2b6eb80' => [
-        'I do try to speak of positive things. I still try to, like, present two sides of the story, and I do try to relate to life in a 360 degree and not be one-dimensional. But by all means, manage expectations.',
-        'Q-Tip',
-    ],
-    '099d30dd-02a7-5283-a99e-60041a489a5f' => [
-        'I think I\'m funny because my family, my siblings were funny.',
-        'Martin Short',
-    ],
-    '4e80b699-ebe3-5817-bba0-410bff4826e4' => [
-        'It takes 20 years to make an overnight success.',
-        'Eddie Cantor',
-    ],
-    'f77e241a-c8d7-5fec-829f-e6f933b777a8' => [
-        'The saddest thing that can happen to a person is to find out their memories are lies.',
-        "Juan Gabriel V\u{e1}squez",
-    ],
-    '0ec12875-6955-5f1d-be79-ca2c0a4d4ee7' => [
-        'Since I was younger I\'ve been making the best out of nothing.',
-        'Wiz Khalifa',
-    ],
-    '7e6d9668-bcd2-5dff-a378-89dcb10d9da1' => [
-        'What I love about Thanksgiving is that it\'s purely about getting together with friends or family and enjoying food. It\'s really for everybody, and it doesn\'t matter where you\'re from.',
-        'Daniel Humm',
-    ],
-    'de733bd4-9e29-5f90-98f2-e412e1cf1d12' => [
-        'Even in the centuries which appear to us to be the most monstrous and foolish, the immortal appetite for beauty has always found satisfaction.',
-        'Charles Baudelaire',
-    ],
-    'cea4c31d-7207-5521-8fbc-a3ecebb91adc' => [
-        'If we just wanted positive emotions, our species would have died out a long time ago.',
-        'Martin Seligman',
-    ],
-    'b7c49ac1-981a-5284-ba94-3f06ec236c78' => [
-        'I know a lot of aesthetically beautiful women who are not nice people, and they do not come across as beautiful to me. I think the number one thing for beauty is a smile. I love a woman with a beautiful smile.',
-        'Sara Foster',
-    ],
-    'e901bceb-25ac-5a9a-877d-64a99db8ab58' => [
-        'I believe in living today. Not in yesterday, nor in tomorrow.',
-        'Loretta Young',
-    ],
-    '379e1c71-971e-5b1e-bac5-0fc514ea7145' => [
-        'Don\'t let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use.',
-        'Earl Nightingale',
-    ],
-    'a4957674-8ffe-5784-a4da-9c7d389e2673' => [
-        'Trees are the earth\'s endless effort to speak to the listening heaven.',
-        'Rabindranath Tagore',
-    ],
-    '41496543-10c6-5366-a21c-d1f7f38a146f' => [
-        'When trouble comes, it\'s your family that supports you.',
-        'Guy Lafleur',
-    ],
-    'ec196b77-f5c8-5f2c-80c4-091c1dcc80ec' => [
-        'A good boss makes his men realize they have more ability than they think they have so that they consistently do better work than they thought they could.',
-        'Charles Erwin Wilson',
-    ],
-    '6ac0a563-0620-5e0d-896c-b5241770a04e' => [
-        'I have learned that not diamonds but divorce lawyers are a girl\'s best friend.',
-        'Zsa Zsa Gabor',
-    ],
-    '7c77d6ab-1086-547b-83a8-600d5f2d1264' => [
-        'When I was about five, I gave my heart to Jesus Christ, and since then it\'s just been a stronghold in my life. Really, through the shark attack and all the hard times that my family and I went through, it gave us unity and perseverance to push through all this crazy stuff that we never knew was going to happen.',
-        'Bethany Hamilton',
+    '32d458d3-eee1-527a-8721-15de4818580c' => [
+        'I don\'t travel and tell stories, because that\'s not the way these days. But I write my books to be read aloud, and I think of myself in that oral tradition.',
+        'Louis L\'Amour',
     ],
 ];

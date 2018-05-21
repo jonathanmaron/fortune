@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '827ea106-8072-5467-805c-711a3cd5a389' => [
-        'For the naysayers that claimed \'American Family\' revealed us to be vacant, unloving, uncaring morons of the materialistic \'70s, this image will be proven wrong when Mom and Dad remarry... Make no mistake. This is not to emphasize the sadness of my demise but rather emphasize the love of my family and friends.',
-        'Lance Loud',
+    '27fe60ca-6ca1-57cd-bede-a0e0d164bd6b' => [
+        'Treat failure as a lesson on how not to approach achieving a goal, and then use that learning to improve your chances of success when you try again. Failure is only the end if you decide to stop.',
+        'Richard Branson',
     ],
-    'c6a67177-cb0f-565b-a1af-03267ac51025' => [
-        'I\'m not here to discuss the past... I\'m here to be positive.',
-        'Mark McGwire',
+    '6bf5799f-5b19-53b2-bae3-3236b2de532b' => [
+        'Part of our tradition as black women is that we are universalists. Black children, yellow children, red children, brown children, that is the black woman\'s normal, day-to-day relationship. In my family alone, we are about four different colors.',
+        'Alice Walker',
     ],
-    '0dbeae9d-e40a-51ea-9ff9-242cd58acd47' => [
-        'What is tolerance? It is the consequence of humanity. We are all formed of frailty and error; let us pardon reciprocally each other\'s folly - that is the first law of nature.',
-        'Voltaire',
+    '48da4966-8833-5ea2-8bcb-365fd6cb23b2' => [
+        'Motherhood has most definitely changed me and my life. It\'s so crazy how drastic even the small details change - in such an amazing way. Even silly things, like the fact that all of my pictures on my cell phone used to be of me at photo shoots - conceited, I know! - but now every single picture on my phone is of Mason.',
+        'Mahatma Gandhi',
     ],
-    '0b63002d-b268-5ffa-aa08-9a1d6d1e6323' => [
-        'Our limitations and success will be based, most often, on your own expectations for ourselves. What the mind dwells upon, the body acts upon.',
-        'Denis Waitley',
+    'd6d89b70-83c7-56e4-9470-abe901a5f0ca' => [
+        'What sort of sap doesn\'t know by now that picture-perfect beauty is all done with smoke and mirrors anyway?',
+        'Julie Burchill',
     ],
-    '4fb9c76b-18db-55bf-a591-6d6dcc0c7c20' => [
-        'You have to be confident in who you are and what you\'re doing. Of course, you try to evolve. I would never tell you, \'Today is the best I will ever be.\' I\'m always trying to be a better chef, a better dad, a better person.',
-        'Guy Fieri',
+    '918eb506-58a9-5691-a793-56cfa23c3ad0' => [
+        'To get away from one\'s working environment is, in a sense, to get away from one\'s self; and this is often the chief advantage of travel and change.',
+        'Charles Horton Cooley',
     ],
-    '363c7fe4-bd09-514c-9cb2-285c914e52a1' => [
-        'I want to challenge myself to see where my limit is and experiment with a lot of different films. A lot of artists from Asia focus too much on their Asian background. I don\'t want to let go of my background, but to be a success in the U.S., which is my goal, I realize I need to surround myself with American filmmakers and producers.',
-        'Rain',
+    '693c61e3-28ef-56a2-889c-24d959619ce6' => [
+        'I\'m not hungry for success. I am only hungry for good work, and that is how it is with most superstars. Every day I tell myself how fortunate I am to be where I am.',
+        'Akshay Kumar',
     ],
-    '4a7daf61-adfb-58c6-88c3-3ad25c1a1c2f' => [
-        'I have learned that acting is not about beauty.',
-        'Vincent Cassel',
+    '034ef867-07f4-515b-9374-0faf347fcbd0' => [
+        'Don\'t focus on making the right decision, focus on making the decision the right one.',
+        'Unknown',
     ],
-    '84fc9958-09b2-5188-88ff-9af0c69bda1d' => [
-        'If you have an ongoing relationship with a person, think of everything positive about that person that you possibly can and enter your interaction from that space. Ignore all the crap that used to drive you up the wall before. You will be amazed at what a change this attitude shift brings about.',
-        'Srikumar Rao',
+    '2462f8f5-0372-5db5-8a32-a964ff934afa' => [
+        'What makes the desert beautiful is that somewhere it hides a well.',
+        'Antoine de Saint-Exupery',
     ],
-    '99b82bbf-d216-55ba-8dd2-1a39083c91ee' => [
-        'When I was younger, my father was in the Foreign Service and we lived in Nigeria, Panama, and London, but for the most part I grew up in the South and D.C. I got the travel bug as a little person and I\'ve bounced around a lot.',
-        'Nicole Beharie',
+    'fde2df15-987b-5134-9875-1307495509a3' => [
+        'The historic ascent of humanity, taken as a whole, may be summarized as a succession of victories of consciousness over blind forces - in nature, in society, in man himself.',
+        'Leon Trotsky',
     ],
-    '198d11b1-b211-5816-ad56-0c6b9681cb58' => [
-        'I try to explain to people that the only way to be cool is to be who you truly are, and the only way to live life is to do the things that you want to do and be the person that you want to be no matter who that is or what that is or how you have to do it. That\'s the only way you can be genuinely happy.',
-        'Scott Hamilton',
+    '79a7af6c-97e8-592c-8f90-60ecd8305377' => [
+        'I can\'t change the direction of the wind, but I can adjust my sails to always reach my destination.',
+        'Jimmy Dean',
     ],
-    'a9033b27-fb12-52ec-9377-1cc6aebe067d' => [
-        'It\'s not just the \'Grammys\' that I\'ve pulled out of. I also pulled out of the English awards as well. The reason that I wanted to pull out was because I believe very much that the music industry as a whole is mainly concerned with material success.',
-        'Alanis Morissette',
+    '85ed0939-090f-5806-a01f-447d4eaf8324' => [
+        'I love the beach. I love the sea. All my life I live within - in front of the sea.',
+        'David L. Wolper',
     ],
-    'ec670458-0bb4-5412-b0eb-6cb06cd52f65' => [
-        'Life gives you plenty of time to do whatever you want to do if you stay in the present moment.',
-        'Deepak Chopra',
+    '50c6008d-ee7b-57f3-bd6e-c801424284b6' => [
+        'The only real failure in life is not to be true to the best one knows.',
+        'Buddha',
     ],
-    'ac02189a-2dbf-59da-816d-29e8714237d7' => [
-        'It\'s a weird thing. Rick Springfield wrote \'Jessie\'s Girl,\' and he probably gets sick of talking about \'Jessie\'s Girl.\' The thing is, I didn\'t write \'Blurred Lines.\' I didn\'t direct the music video. I\'m really happy for the success, but it is kind of a funny thing to follow me around.',
-        'Emily Ratajkowski',
+    '0563b399-480a-5d98-ab62-973062c41a7f' => [
+        'Nature is impersonal, awe-inspiring, elegant, eternal. It\'s geometrically perfect. It\'s tiny and gigantic. You can travel far to be in a beautiful natural setting, or you can observe it in your backyard - or, in my case, in the trees lining New York City sidewalks, or in the clouds above skyscrapers.',
+        'Gretchen Rubin',
     ],
-    'da939379-2c36-57a9-8fb4-b576477b9ee8' => [
-        'The best way to cheer yourself up is to try to cheer somebody else up',
-        'Mark Twain',
+    '69c03522-d329-5434-9efd-3eeb01d96502' => [
+        'I think success shows a person\'s true colors.',
+        'Freddie Prinze, Jr.',
     ],
-    '0cf25a18-7cac-5ed7-aef1-d14fe1da1502' => [
-        'Each one of us decides to incarnate upon this planet at a particular point in time and space. We have chosen to come here to learn a particular lesson that will advance us upon our spiritual, evolutionary pathway.',
-        'Brian Tracy',
+    'fe693018-8317-5bd4-9bd6-b9ec45a4cafc' => [
+        'Too low they build, who build beneath the stars.',
+        'Edward Young',
     ],
-    '79eff3e8-2b6f-5114-8102-99b220fe9adf' => [
-        'Do not wait; the time will never be \'just right.\' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.',
-        'George Herbert',
+    '027e0465-16e8-5dec-a30f-1490d6a958cf' => [
+        'I like outgoing girls with a lovely smile and beautiful eyes.',
+        'Corbin Bleu',
     ],
-    '54e5d991-a2a3-5931-be4e-d5efa68a19e5' => [
-        'He who lives in harmony with himself lives in harmony with the universe.',
-        'Marcus Aurelius',
+    '7dbae78a-222c-52d2-9d84-d659d4f8318a' => [
+        'Oh, the ignorance of us upon whom Providence did not sufficiently smile to permit us to be born in New England.',
+        'Horace Porter',
     ],
-    '4fb88246-0da1-519c-b9d4-6deb73599e64' => [
-        'The way Moore\'s Law occurs in computing is really unprecedented in other walks of life. If the Boeing 747 obeyed Moore\'s Law, it would travel a million miles an hour, it would be shrunken down in size, and a trip to New York would cost about five dollars. Those enormous changes just aren\'t part of our everyday experience.',
-        'Nathan Myhrvold',
+    '041d3fc5-8fc2-5ac4-a645-416ea21a5736' => [
+        'The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.',
+        'Eric Berne',
     ],
-    '03b22167-27ba-5388-b483-fed4245425e0' => [
-        'My whole thing is just to put out positive messages in the music, give people something that can change their lives.',
-        'Kid Cudi',
+    'b9f1ceab-5753-52dc-b145-762661719224' => [
+        'Ability will never catch up with the demand for it.',
+        'Confucius',
     ],
-    '2a797115-7840-5d9e-9d83-97bb17b090a6' => [
-        'Everything that irritates us about others can lead us to an understanding about ourselves.',
-        'Carl Jung',
+    '0e315f71-d94e-5cdc-82c0-777dca1f604c' => [
+        'What man actually needs is not a tensionless state but rather the striving and struggling for some goal worthy of him.',
+        'Viktor Frankl',
     ],
-    '8acb8209-987c-5f5d-83cd-aac14ac7edbd' => [
-        'As a single withered tree, if set aflame, causes a whole forest to burn, so does a rascal son destroy a whole family.',
-        'Chanakya',
+    'd7963998-bd2e-51ad-a126-083d93c6ddfc' => [
+        'Whatever success I may have attained is due to the fact that since I was old enough to work at all, my ambition has never deserted me.',
+        'Anna Held',
     ],
-    '47b42c8f-ccd0-5c2f-9986-c7bdcd7486e4' => [
-        'A women\'s greatest asset is her beauty.',
-        'Alex Comfort',
+    'f9ac0129-bce0-5dd9-8ccd-d5cb2af2ffe1' => [
+        'There\'s no one particular road that will lead you to success. I think everybody will find it differently.',
+        'Marina and the Diamonds',
     ],
-    '8de9a066-ceee-5735-a3d1-a8fb98f9470f' => [
-        'One study found that people who smile in childhood photographs are less likely to get a divorce.',
-        'Jenna McCarthy',
+    '5a62567d-da64-5985-bd79-1adcec3b894b' => [
+        'Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.',
+        'Paramahansa Yogananda',
     ],
-    '1b209d8b-c12e-5d4c-857e-92000b031f9a' => [
-        'I hope \'The Voice\' has a fifteen-year run, don\'t get me wrong. But I come from nothing, and maybe it\'s the Irish in me, but my attitude is always like, \'They\'ll figure me out soon.\'',
-        'Carson Daly',
+    'f5cd6920-9252-5223-8ff5-42025d7cc72d' => [
+        'It\'s pretty scary to know how quickly time flies.',
+        'James Wan',
     ],
-    'a9673fd6-7307-5f2a-8497-94bd8bb761e3' => [
-        'There is only one happiness in life, to love and be loved.',
-        'George Sand',
+    '6063bcd4-5d25-599d-a175-174c02a469ea' => [
+        'Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.',
+        'Sri Chinmoy',
     ],
-    '87fd1839-66ba-5779-9697-21030d3b97fd' => [
-        'I\'ve been through natural disasters. I lived down in Miami and was down there for Hurricane Andrew which was a Category 5. There were members of my family that thought they were going to die. Everyone was in the bathtub.',
-        'Dwayne Johnson',
+    '995ecc17-fdfc-576b-95b9-4a5a462f3f3f' => [
+        'A little less complaint and whining, and a little more dogged work and manly striving, would do us more credit than a thousand civil rights bills.',
+        'W. E. B. Du Bois',
     ],
-    '2e0d2796-9c8a-5f5a-998b-aead1250b174' => [
-        'The fact that I stay anonymous means I can exhibit wherever I want. No one knows my name, so it\'s easy for me to travel.',
-        'JR',
+    'dd4f2b6f-4ef8-52d6-8b6b-1eb4a9c9fb70' => [
+        'We\'ve seen some insane signs: \'Is that a loaf of bread in your pocket, or are you just happy to see me?\' Funny stuff along those lines. Very original. One just said, \'I will do unspeakable things.\' I thought that was very interesting - and mildly terrifying!',
+        'Josh Hutcherson',
     ],
-    'e77c2645-b8e5-554a-8185-1f7634cc5825' => [
-        'We have been so trying to convince them from the very beginning of our organization, but with no success.',
-        'George Haven Putnam',
+    '1ab275ed-da23-565a-8015-f080db08a70b' => [
+        'A failure is a man who has blundered but is not capable of cashing in on the experience.',
+        'Elbert Hubbard',
     ],
-    '4a610bb2-c4e0-5188-937d-7079a52eaf45' => [
-        'Your attitude will go a long way in determining your success, your recognition, your reputation and your enjoyment in being a lawyer.',
-        'Joe Jamail',
+    '902b9bea-0ce4-5e9e-83d2-53cf5592f999' => [
+        'I believe in process. I believe in four seasons. I believe that winter\'s tough, but spring\'s coming. I believe that there\'s a growing season. And I think that you realize that in life, you grow. You get better.',
+        'Paris Hilton',
     ],
-    '7968d8bd-012d-55b4-b721-22fea504fa17' => [
-        'Don\'t give up. Don\'t lose hope. Don\'t sell out.',
-        'Christopher Reeve',
+    'd0a9bd49-b0f4-57da-96a1-53ceb5b4ff0e' => [
+        'No one ever thought Clint Eastwood was funny, but he was.',
+        'Annie Leibovitz',
     ],
-    'a88c595a-4fbf-58a7-a9b7-29fea62dfa2b' => [
-        'Success consists in being successful, not in having potential for success. Any wide piece of ground is the potential site of a palace, but there\'s no palace till it\'s built.',
-        'Fernando Pessoa',
+    '167a63ca-91c9-5f86-82a0-8ba309a10bdc' => [
+        'Stand-up can take you in so many different places, man. So many doors can be opened up from stand-up comedy, and the first one that was opened up for me was acting. But you can go from acting to being a TV personality to being a radio personality to being a writer to being a producer, to just being a visionary, to voiceover work.',
+        'Kevin Hart',
     ],
-    '7cd82e30-0efa-5d3a-8b8f-19bce66de8bf' => [
-        'I\'m just not one of those naturally funny, relaxed actors who enjoy the spotlight and are so good at it.',
-        'Heath Ledger',
+    '602014a2-afd3-513a-89f3-fa5db0484225' => [
+        'When work is a pleasure, life is a joy! When work is a duty, life is slavery.',
+        'Maxim Gorky',
     ],
-    '7f30c3df-1cf1-57bf-a9b9-56bf0dc8885b' => [
-        'No skill shapes a child\'s future success in school or in life more than the ability to read.',
-        'Bob Riley',
+    '758ac2b2-4375-5011-a8c6-14ff9f11ae75' => [
+        'It is absolutely impossible to transcend the laws of nature. What can change in historically different circumstances is only the form in which these laws expose themselves.',
+        'Karl Marx',
     ],
-    'f07e09dd-6962-53a5-94c0-e46a20f73417' => [
-        'Cultivation of mind should be the ultimate aim of human existence.',
-        'B. R. Ambedkar',
+    '77e6519b-6f76-57ff-a216-7f0e5c722733' => [
+        'It would be impossible to estimate how much time and energy we invest in trying to fix, change and deny our emotions - especially the ones that shake us at our very core, like hurt, jealousy, loneliness, shame, rage and grief.',
+        'Debbie Ford',
     ],
-    'a2cbefe6-62eb-5bc4-945e-d8b92c86abe1' => [
-        'Guitar is the best form of self-expression I know. Everything else, and I\'m just sort of tripping around, trying to figure my way through life.',
-        'Slash',
+    'ecb3b887-58e9-5600-b822-e7032a2ef0f5' => [
+        'Blood, Sweat and Respect. First Two You Give, Last One You Earn',
+        'Dwayne Johnson | The Rock',
     ],
-    'e5c3b099-714e-57fb-8ce9-b4b658cc4d5a' => [
-        'Fame usually comes to those who are thinking about something else.',
-        'Holmes',
+    '429dc74f-85ac-530a-9d74-4c9ffd67e10f' => [
+        'Without courage, wisdom bears no fruit.',
+        'Baltasar Gracian',
     ],
-    '97d81e07-b986-5c06-b481-b509c6624411' => [
-        'It\'s been a huge blessing, being able to travel and have a great life.',
-        'Seann William Scott',
+    '0ba0ffdb-cab4-56b8-baf7-98d3f0a7e308' => [
+        'I want to make this world perfect.',
+        'Malala Yousafzai',
     ],
-    '8adc4d57-5bc1-5143-bbc1-0556916ff018' => [
-        'Always think of what is useful and not what is beautiful. Beauty will come of its own accord.',
-        'Nikolai Gogol',
+    'd8aa0c9a-b702-5807-900a-3b234ba4bb17' => [
+        'It is better to travel well than to arrive.',
+        'Buddha',
     ],
-    '467fd301-9f19-590f-821d-93ccdb74bbeb' => [
-        'It\'s your outlook on life that counts. If you take yourself lightly and don\'t take yourself too seriously, pretty soon you can find the humor in our everyday lives. And sometimes it can be a lifesaver.',
-        'Betty White',
+    '672ff6a6-4242-5f5e-8808-3c7234ad6242' => [
+        'Beauty, whether moral or natural, is felt, more properly than perceived.',
+        'David Hume',
     ],
-    '56767bd4-a674-543c-abf9-fe98a6b619d6' => [
-        'There is a very fine line between loving life and being greedy for it.',
-        'Swami Sivananda',
+    'd5aec3c8-3bb5-517e-91dc-b7a91d370da5' => [
+        'We can change our lives. We can do, have, and be exactly what we wish.',
+        'Tony Robbins',
     ],
-    'fa428d41-0d08-5fe1-858a-236729fb03fb' => [
-        'I was the daughter of an immigrant, raised to feel that I needed to get excellent, flawless grades and a full scholarship and a graduate degree and a good job - all the stepping stones to conventional success.',
-        'Susan Choi',
+    '4160b7ad-c820-58bd-9495-bd734ff82f6d' => [
+        'Divide each difficulty into as many parts as is feasible and necessary to resolve it.',
+        'Rene Descartes',
     ],
-    '5f13dd2c-27e9-5dee-ac9c-07034e21a2df' => [
-        'We didn\'t lose the game; we just ran out of time.',
-        'Vince Lombardi',
+    '7496b1c1-d4b3-5a76-8345-fd78c8c40b24' => [
+        'The greatest day in your life and mine is when we take total responsibility for our attitudes. That\'s the day we truly grow up.',
+        'Geoffrey Rush',
     ],
-    '06df415b-9746-5387-81d5-d6bbc407cb81' => [
-        'Go big or go home. Because it\'s true. What do you have to lose?',
-        'Eliza Dushku',
+    '0c36858d-d803-5c19-bc96-cf18c486a1d8' => [
+        'Enthusiasm moves the world.',
+        'Arthur Balfour',
     ],
-    'b8986207-2399-55fa-8fe7-e74eed909b97' => [
-        'Physics is about questioning, studying, probing nature. You probe, and, if you\'re lucky, you get strange clues.',
-        'Lene Hau',
+    '23bcac8e-84af-556d-b2c7-70bc0a621530' => [
+        'If ballots won\'t work, bullets will.',
+        'Malcolm X',
     ],
-    '0994a405-50ba-511a-af94-aa223e20d45d' => [
-        'Learning to love my inner and outer beauty wasn\'t an easy road. I still don\'t always love the reflection I see in the mirror, but I have learned that my outer appearance does not define me.',
-        'Katherine Schwarzenegger',
+    '1dade687-0cce-5b0e-bd0e-25494caf231b' => [
+        'Age is not measured by years. Nature does not equally distribute energy. Some people are born old and tired while others are going strong at seventy.',
+        'Dorothy Thompson',
     ],
-    '9907dd56-77a1-56d0-8773-6056210ddc57' => [
-        'The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.',
-        'Helen Keller',
+    '1f1cba83-32d5-53cb-a0cf-29f456ad6f14' => [
+        'When you\'re a houseguest and you leave, it\'s nice to straighten something up or send your hosts a useful gift. And when you leave the planet, it\'s nice to have made a positive contribution.',
+        'Alexander Payne',
     ],
-    'f455133b-33ef-5354-b775-40905a7f5ae2' => [
-        'Success is a high, but the way up is hard, and you have to give your all.',
-        'Randeep Hooda',
+    '4ac12612-c91d-5d47-87f9-f3a502d6e753' => [
+        'I\'ve always liked the idea that writing is a form of travel. And I started my writing career as a mystery novelist for adults.',
+        'Rick Riordan',
     ],
-    '29ea15c5-16cc-54d1-973c-c961a7934b46' => [
-        'I think it\'s your mental attitude. So many of us start dreading age in high school and that\'s a waste of a lovely life. \'Oh... I\'m 30, oh, I\'m 40, oh, 50.\' Make the most of it.',
-        'Betty White',
+    'c2c638dc-9bad-5c8f-bd5e-87aeeb0f3fd6' => [
+        'I was kicked out of school because of my attitude. I was not assimilating. So I went to work, taking any jobs I could get.',
+        'Richard Pryor',
     ],
-    '04debef6-7af0-5e29-aaf4-da87801689be' => [
-        'Actually, we chose the name Sun Cellular because we believe the name \'Sun\' is bright, forward-looking and optimistic. It is my sincere hope that the whole Philippines will share our positive outlook, optimism and faith in the country\'s future.',
-        'John Gokongwei',
+    'a892bde8-4444-57f0-aa4f-b702259d4840' => [
+        'Wilderness is not a luxury but a necessity of the human spirit.',
+        'Edward Abbey',
     ],
-    '9c29b850-591e-521b-b1b4-bcb7451eb8b9' => [
-        'Mindfulness is about love and loving life. When you cultivate this love, it gives you clarity and compassion for life, and your actions happen in accordance with that.',
-        'Eminem',
+    'f1ea8fbd-98c8-599d-9bc4-b459fdae1a10' => [
+        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
+        'Summer Sanders',
     ],
 ];

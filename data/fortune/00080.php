@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '087d6c3d-7ecb-50c3-ad55-8bf72f524f45' => [
-        'It\'s funny... you can make fun of AIDS or Haiti, but if you make fun of some starlet in Hollywood\'s looks? That\'s like the one thing... the line you are not to cross.',
-        'Daniel Tosh',
+    'd77a212a-ba24-5764-abd6-2f330b20adb5' => [
+        'Gemmell\'s name guarantees a satisfying story and a thumping good read. I recommend all his heroic creations - \'Druss the axeman,\' \'the Jerusalem man,\' among others - but my favourite has to be \'Waylander\': Clint Eastwood with a crossbow and the same \'Make my day, punk\' attitude.',
+        'Neal Asher',
     ],
-    '1386291a-22e4-5fde-a384-8d2266608277' => [
-        'I used to work for the World Health Organisation in poor countries all over the world - Bangladesh, Korea, the Philippines and India. You learn a whole range of things about how other people are living and try to connect with them to gain an understanding of where they\'re coming from.',
-        'Robert Winston',
+    '86348b7c-71a7-5817-aa52-a815feccec67' => [
+        'In the beginning you must subject yourself to the influence of nature. You must be able to walk firmly on the ground before you start walking on a tightrope.',
+        'Henri Matisse',
     ],
-    'add0e7f8-304a-5501-b1ce-1378100c3923' => [
-        'Fairness is not an attitude. It\'s a professional skill that must be developed and exercised.',
-        'Brit Hume',
+    '61553b8c-b90f-5b7e-a5a2-f41d4e35e16f' => [
+        'Intelligence is the ability to avoid doing work, yet getting the work done.',
+        'Linus Torvalds',
     ],
-    '744b050e-b344-52aa-8865-022d5ec2c376' => [
-        'If I create from the heart, nearly everything works; if from the head, almost nothing.',
-        'Marc Chagall',
+    'aa4e9ed4-94a6-5f6c-99ba-715c04ff3332' => [
+        'This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.',
+        'Hannah Arendt',
     ],
-    '0fa34f88-0f26-5924-9491-d912662c2a62' => [
-        'A day spent without the sight or sound of beauty, the contemplation of mystery, or the search of truth or perfection is a poverty-stricken day; and a succession of such days is fatal to human life.',
-        'Lewis Mumford',
+    '6e956e69-8056-5fd6-a2ed-64ef367fb943' => [
+        'I want to build a legacy at the WWE, but I definitely want to continue to grow the Bella Empire. I want it to go beyond the ring. I would love to be a motivational speaker.',
+        'Nikki Bella',
     ],
-    '902979ed-1d8b-5877-8686-707410c80e6e' => [
-        'Of life\'s two chief prizes, beauty and truth, I found the first in a loving heart and the second in a laborer\'s hand.',
-        'Khalil Gibran',
+    'f97badea-3d2a-5872-ba66-69b4b2951070' => [
+        'Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?',
+        'Brian Tracy',
     ],
-    'a544c12e-0e2a-54f4-9775-faadb7d4c27e' => [
-        'A lot of people are really excited to see the continuation of Cory and Topanga and \'Boy Meets World\'. I was getting a lot of positive feedback, which I was really happy about.',
-        'Rowan Blanchard',
+    'a37254b3-14bf-5eb6-bae6-a5afbfc93078' => [
+        'Well, one of the most important things for Americans to be reminded of is that a lot of the exceptional nature of our country is founded in Judeo-Christian values that promotes individualism, personal responsibility, a strong work ethic, and a commitment to family, charity.',
+        'Jim DeMint',
     ],
-    '9a23931c-9371-5f26-9af0-3b4b098cb759' => [
-        'What has happened is that to some degree they have taken an attitude where they don\'t listen to demos of diverse subject matters. They\'re looking for demos like the record the guy on the left just did.',
-        'Grandmaster Flash',
+    '15a0c620-e3fd-5c94-b437-d574df1c0107' => [
+        'We have reached a new milestone as a human family. With seven billion of us now inhabiting our planet, it is time to ask some fundamental questions. How can we provide a dignified life for ourselves and future generations while preserving and protecting the global commons - the atmosphere, the oceans and the ecosystems that support us?',
+        'Ban Ki-moon',
     ],
-    '01cb75ec-5d72-55cd-89fe-40cef6611d27' => [
-        'In a great many stories that deal with time travel, there\'s usually somebody who knows how time travel works. They lay out the rules.',
-        'Diana Galbadon',
+    'dcab1f2f-4a33-5fa2-9ee4-f2ca30083592' => [
+        'Trust is not simply a matter of truthfulness, or even constancy. It is also a matter of amity and goodwill. We trust those who have our best interests at heart, and mistrust those who seem deaf to our concerns.',
+        'Gary Hamel',
     ],
-    '696170be-9fa7-517b-9934-9426521be574' => [
-        'Sometimes my mistake has been hesitancy about acting on the decisions I\'ve made. When\'s the best time to invest? It\'s today, not tomorrow.',
-        'Charles Schwab',
+    '4dd4f820-86d5-54a1-b263-2dc3f366d97d' => [
+        'Ideas shape the course of history.',
+        'John Maynard Keynes',
     ],
-    'e3c72cd8-f4ce-52e7-b780-aa68d7ea7e04' => [
-        'Mothers have always held such symbolic weight in determining a person\'s worth. Your mother tongue, your motherland, your mother\'s values - these things can qualify or disqualify you from attaining myriad American dreams: love, fluency, citizenship, legitimacy, acceptance, success, freedom.',
-        'Jenny Zhang',
+    'a69ad164-08fa-519a-a4d7-8e06804dc69f' => [
+        'Your talent is God\'s gift to you. What you do with it is your gift back to God.',
+        'Leo Buscaglia',
     ],
-    'c1926bdf-4107-5ba0-b878-8df181b35d5f' => [
-        'Best said possibly the only thing that would have changed my attitude: \'What will happen to me?\' \'Your friend MacLeod will look after you,\' I said. Best replied, \'If you get out, I get out.\' There was silence for some moments. I thought of all the joy of the early experiments which we had known together. Here was loyalty.',
-        'Frederick Banting',
+    '58793a5f-7672-5356-a755-c2c6a49cb95b' => [
+        'Humor has become so cliche and boring that nothing\'s funny anymore unless it involves something totally disgusting that offends somebody or makes them feel really uncomfortable.',
+        'Tom DeLonge',
     ],
-    'ad43129f-e5c8-51f0-a30d-75e823d162d0' => [
-        'The reason we shot it was that the script was geared to Las Vegas and it was something commercial that we wanted to have in the can in case Butterfly was a success and we needed a follow-up.',
-        'Pia Zadora',
-    ],
-    '8fc7c7c3-9f6a-5481-aa5b-d4e62fa0d4ea' => [
-        'Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.',
-        'Calvin Coolidge',
-    ],
-    '40da2cd4-d637-5183-a925-7b11b3cda011' => [
-        'You may not always have a comfortable life and you will not always be able to solve all of the world\'s problems at once but don\'t ever underestimate the importance you can have because history has shown us that courage can be contagious and hope can take on a life of its own.',
-        'Herbert Simon',
-    ],
-    '98359a7a-2f90-51ac-b0d7-c1c5ff55d4d0' => [
-        'To be an artist is to believe in life.',
-        'Henry Moore',
-    ],
-    'ca838d82-ffe8-5d9e-adf0-d4399b738e74' => [
-        'We do not admire the man of timid peace. We admire the man who embodies victorious effort; the man who never wrongs his neighbor, who is prompt to help a friend, but who has those virile qualities necessary to win in the stern strife of actual life.',
-        'Theodore Roosevelt',
-    ],
-    '55aaa961-b309-51bc-b419-6c46dfbecdc2' => [
-        'We make such terrible mistakes with visual choices about beauty.',
-        'Marina Abramovic',
-    ],
-    'ec497db9-190c-5588-aab9-2d76006478c2' => [
-        'You can\'t be a crazy rebel in the face of death, it\'s not a fitting attitude.',
-        'Michel Houellebecq',
-    ],
-    '6d416213-23c8-511c-8696-bb5f9221f0e2' => [
-        'Your name is a funny thing. It stands for what you\'re about, and everything I do is really about pride.',
-        'Tom Ford',
-    ],
-    'e9d7bcd7-0138-5571-9991-143ea12466c4' => [
-        'I love flying; I love aircraft, and you could say I\'ve had a love affair with flight since I was a child. I travel a huge amount. I use airports, and as a pilot, I\'ve flown in and out of airports thousands of times, so really, I have a fairly broad perspective.',
-        'Norman Foster',
-    ],
-    '145482fc-6a7b-5695-8fcc-ab9c6f59084a' => [
-        'I spent a year in that town, one Sunday.',
-        'George Burns',
-    ],
-    'df209be4-63c6-5ff0-a2eb-521e5162680d' => [
-        'When you are developing your style, you avoid weaknesses. I am not good at describing things, so I stay away from it. And if anyone is going to describe anything at all, it\'s going to be from the point of view of the character, because then I can use his voice, and his attitude will be revealed in the way he describes what he sees.',
-        'Elmore Leonard',
-    ],
-    'bb2161f8-e1e5-57f7-818d-4d41d870776f' => [
-        'They talk about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?',
-        'Fidel Castro',
-    ],
-    'f937d4dd-1e9e-5b48-b869-6136e55ddb6c' => [
-        'My brothers and sister and me grew up making fun of each other, the way we\'d speak or move. When we get together, everyone\'s funny, quick, loud, and speaks on top of each other. It was like a great comedy school; nothing is precious.',
-        'Colman Domingo',
-    ],
-    'a394c348-92ae-50e2-8371-88067e1dd3bd' => [
-        'Zoos are becoming facsimiles - or perhaps caricatures - of how animals once were in their natural habitat. If the right policies toward nature were pursued, we would need no zoos at all.',
-        'Michael J. Fox',
-    ],
-    '84272025-0152-5576-9707-55aa98e1de6b' => [
-        'You\'re beautiful, like a May fly.',
-        'Ernest Hemingway',
-    ],
-    '9303f8ce-3038-5caf-9330-4c0d5bfb11ef' => [
-        'It is the sweet, simple things of life which are the real ones after all.',
-        'Yanni',
-    ],
-    'a01bc1c4-f254-5509-b7e0-26ac96264cba' => [
-        'It is always the simple that produces the marvelous.',
-        'Amelia Barr',
-    ],
-    'b646c1fe-0d38-5d5b-8c24-998f943f5b16' => [
-        'Part of the punk attitude was that you should project your music through your whole body... show your personality as much as possible.',
+    'eb0d25fa-e775-5eed-99e3-5557fdddcb93' => [
+        'When I started out, everyone seemed to be adopting these names... Johnny Rotten, Sid Vicious. I wasn\'t really Rotten or Vicious or Nasty, so I wanted something a bit more funny - yet something that seemed real rock \'n\' roll... something that acknowledged my ambition.',
         'Billy Idol',
     ],
-    'f94d6957-2e67-5e60-a208-755dac9437dc' => [
-        'When I was a kid, dressing right and looking good was a priority. As I grew up, I just wanted to stay that way, stick out a bit and have my own thing. That\'s where white belts and wearing some colors started. So signing with Puma was a great fit for me. I usually travel with nine pairs of golf shoes and 10 belts.',
-        'Rickie Fowler',
+    '64806d09-f18f-5624-b277-6d36d8cc60b7' => [
+        'We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.',
+        'Anne Roiphe',
+    ],
+    'f4f767d1-bbe7-5c36-bca4-15c57c32d346' => [
+        'There are so many local nonprofits making a positive impact every day, and yet, oftentimes we don\'t hear enough about them or their needs.',
+        'Sylvia Mathews Burwell',
+    ],
+    '9cd7b2d7-f060-52e4-ab3b-dfb10bab3421' => [
+        'You can\'t start a movie by having the attitude that the script is finished, because if you think the script is finished, your movie is finished before the first day of shooting.',
+        'Steven Spielberg',
+    ],
+    'e0f5fed0-de5e-53d3-83f3-7e84fa27435d' => [
+        'Sports teaches you to understand the meaning of a team. You need to be able to work with everybody; you don\'t have to be their best friend. You can experience the fun of competition and driving toward a common goal without pushing to bond in some major way with each individual on a project.',
+        'Kathleen Kennedy',
+    ],
+    '21a89a94-8bee-5e3c-b43c-9075555cbeed' => [
+        'Never cowardly or cruel. Never give up, never give in.',
+        'Doctor Who',
+    ],
+    '16d8e5cb-3a12-59e8-bf5e-c81fc6d3dd62' => [
+        'A lot of times I find that people who are blessed with the most talent don\'t ever develop that attitude, and the ones who aren\'t blessed in that way are the most competitive and have the biggest heart.',
+        'Tom Brady',
+    ],
+    '6ab92de5-f64d-545e-a4c3-bcd4785c4dc8' => [
+        'The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.',
+        'Mortimer Adler',
+    ],
+    '22946371-7324-5238-a5c6-6a1683634b5a' => [
+        'Monopolies are bad and deserve their reputation when things are static and the monopolies function as toll collectors... But I think they\'re quite positive when they\'re dynamic and do something new.',
+        'Peter Thiel',
+    ],
+    '6aaab905-b623-5e35-8c6d-bf44311a7a66' => [
+        '\'Fast Life\' is just about going out with your friends and having a good time - I think it\'s one of those songs that people can relate with and like.',
+        'Joe Jonas',
+    ],
+    'c60a9d84-a806-5771-9688-bc99c0ee4825' => [
+        'A wise traveler never despises his own country.',
+        'William Hazlitt',
+    ],
+    'e8794b1e-177b-5e0b-85e2-7721fc8a7a43' => [
+        'Beauty is eternity gazing at itself in a mirror.',
+        'Khalil Gibran',
+    ],
+    '5abd950a-0adb-5fc3-b094-898f642c9ca2' => [
+        'The sacred rights of mankind are not to be rummaged for among old parchments or musty records. They are written, as with a sunbeam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased.',
+        'Alexander Hamilton',
+    ],
+    'cccf425c-dfc0-58ea-a5b9-51faf080727c' => [
+        'The glow of one warm thought is to me worth more than money.',
+        'Thomas Jefferson',
+    ],
+    'bd75a4ab-9231-5afd-8ab1-bd3f9a7a3edc' => [
+        'Your life is the fruit of your own doing. You have no one to blame but yourself.',
+        'Lindsey Vonn',
+    ],
+    'b90fc085-b87c-57fc-97af-03a40bcebb8b' => [
+        'Each and every one of the security measures we implement serves an important goal: providing safe and efficient air travel for the millions of people who rely on our aviation system every day.',
+        'Janet Napolitano',
     ],
     '9a45b20b-509a-5dbf-aa08-0dabccc27188' => [
         'She\'s always there for me when I need her; She\'s my best friend; she\'s just my everything.',
         'Ashley Olsen',
     ],
-    '213abecc-e491-5165-9f43-6711ea9e5733' => [
-        'Life experience is what defines our character, even if it means getting your heart broken or being lied to. You know, you need the downs to appreciate the ups. Going on the adventure or taking that risk is important.',
-        'Victor Hugo',
+    '7e7aa42f-b8da-5794-ac53-c0e95a0200ef' => [
+        'It\'s simple, if it jiggles, it\'s fat.',
+        'Arnold Schwarzenegger',
     ],
-    '14408201-5259-52b8-a668-285e33dfb378' => [
-        'Man is the unnatural animal, the rebel child of nature, and more and more does he turn himself against the harsh and fitful hand that reared him.',
-        'H. G. Wells',
+    '04b0ee7a-d791-5432-a99b-a28294921937' => [
+        'Until I was about 14, I was a fat boy, or at least I looked like a fat boy. I think that being funny was a bit of a defence mechanism for me, so I ended up being a bit of a joker.',
+        'Pippa Evans',
     ],
-    '7aeb8638-91e7-58ef-97ff-c17729b9ab57' => [
-        'Passion is needed for any great work, and for the revolution, passion and audacity are required in big doses.',
-        'Che Guevara',
+    '91d72ec5-b099-54af-8fb3-0fd741b55250' => [
+        'My attitude is always one of sensuality, aggressive enthusiasm and a kind of outrageousness in my expression.',
+        'Sally Kirkland',
     ],
-    '06e96ff6-bb70-5347-9325-d86173c2d7d3' => [
-        'The more time you spend contemplating what you should have done... you lose valuable time planning what you can and will do.',
-        'Lil Wayne',
+    'a3cba9b1-bec4-5fdb-bc51-fcfe2f5f8ba7' => [
+        'Since traveling is such a big part of my life when I am working, I like to vacation relatively close to home. Florida is a great place for me to go and relax. It\'s so close, which is perfect because it\'s the minimal travel time.',
+        'Hilary Rhoda',
     ],
-    '6bbe5371-360d-573d-b78d-5ea72072647a' => [
-        'The only thing I like about air travel is it gives me time to read.',
-        'Jane Lindskold',
+    'cd9bf135-ec16-5235-b4d4-68b37613142b' => [
+        'There are always young bands playing in their garages. A lot of punk rock is not going to be in the mainstream. It\'s below the radar. The beauty of it is that you\'re not supposed to always know. It\'s subterranean.',
+        'Billie Joe Armstrong',
     ],
-    '8de05a9c-fcf0-593a-a5e4-741ce2fc4efb' => [
-        'Anything can happen, so you have to control your attitude and stay strong.',
-        'Jason Day',
+    'ad01956d-b09b-5a2f-ba39-b9293de383e2' => [
+        'All serious daring starts from within.',
+        'Harriet Beecher Stowe',
     ],
-    '124c8f8d-0a4b-5485-b5d1-10202b16c1dd' => [
-        'It makes me very happy when I create goals or score goals myself, but the most important thing is that the team reaches its goal and plays positive football.',
-        'Mesut Ozil',
+    '54e5d991-a2a3-5931-be4e-d5efa68a19e5' => [
+        'He who lives in harmony with himself lives in harmony with the universe.',
+        'Marcus Aurelius',
     ],
-    'bade8e2e-839e-57c8-9ae7-372eb3536ee8' => [
-        'Its funny, because for females in general - not just in music, but the corporate ladder as well - anything we do has always been harder for us. When it comes to music, the industry wants you to conform, to look like this and to sound like this and do this or that. It makes it harder. It\'s harder for us to come out and be bosses and lead the pack.',
-        'Missy Elliott',
+    '45fe9c99-1e96-5213-a98e-015921f4640f' => [
+        'We adore babies because they\'re so cute. And, of course, we are amused by jokes because they are funny. This is all backwards. It is. And Darwin shows us why.',
+        'Daniel Dennett',
     ],
-    'd95c60c2-bc84-5c7b-858a-f9fea0af77cd' => [
-        'Livelihoods and whole communities throughout the Murray-Darling Basin have been imperilled by the workings of drought, fire, flood, acid mud and human action over many decades. In the rescues and the cleanups and the long hauls, I see the same attitude over and again. People just rally and get on with it.',
-        'Quentin Bryce',
+    'b7b3fdb4-5821-5d1f-8685-84339178774c' => [
+        'The joy of songwriting only gets messed up if you are trying to follow up a big success, or you are trying to create a hit single, or if you have conscious thoughts of a particular outcome for the music.',
+        'Tim Finn',
     ],
-    '290c9a2a-04f0-5752-b27d-e131c28b0140' => [
-        'I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
-        'Gene Simmons',
+    'dff997d2-86ae-5e07-bb76-00bf06c80860' => [
+        'Kids can learn a lot about necessities and wants by recognizing what people live without. A common routine, but one that should not be overlooked, is having a family donation to a charity for those less fortunate. Ask your kids to search for items, toys, or clothes that they no longer use and contribute those items a collection box.',
+        'Alexa Von Tobel',
     ],
-    '62480bae-6749-522b-a372-cb429428937b' => [
-        'Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.',
-        'Stephen King',
+    'd83fedbc-fa36-59c4-a920-a89f20ea5c90' => [
+        'I think togetherness is a very important ingredient to family life.',
+        'Eliza Dushku',
     ],
-    'f03227ac-b2d4-5139-98d7-5926546969f9' => [
-        'If it\'s great stuff, the people who consume it are nourished. It\'s a positive force.',
-        'Manuel Puig',
+    'ef768bbc-ede9-5937-b559-444268e4ee4b' => [
+        'If you correct your mind, the rest of your life will fall into place.',
+        'Lao Tzu',
     ],
-    '19ea6641-0c36-59dc-88c9-19f1a513c341' => [
-        'Being right is highly overrated. Even a stopped clock is right twice a day.',
-        'Unknown',
+    'ca5afb25-b7c0-592d-866c-17c1bcf5b07c' => [
+        'In my works, the geography map-wise is accurate - roads are where I say they are, and go from this town to the next as I say they do, and yes, it would take a curricle that long to travel that distance.',
+        'Stephanie Laurens',
     ],
-    'd4ccae57-8840-5268-91fc-994623906477' => [
-        'If you have a chance to accomplish something that will make things better for people coming behind you, and you don\'t do that, you are wasting your time on this earth.',
-        'Roberto Clemente',
+    '083aa385-c734-59dc-902a-c1c2afe92217' => [
+        'Adjusting to the passage of time, I think, is a key to success and to life: just being able to roll with the punches.',
+        'Dolly Parton',
     ],
-    '16ba43ed-a481-5e24-963f-3f0bfecd2b36' => [
-        'I always try to stay aggressive. I always use my strengths and always work on my weaknesses to get better. That\'s just who I am.',
-        'Kristaps Porzingis',
+    'b5e09fd8-bac8-549b-adc1-0082eb773c7f' => [
+        'I do not like to repeat successes, I like to go on to other things.',
+        'Walt Disney',
     ],
-    'c770cb8f-cf85-5063-8644-2bfcc301a1b6' => [
-        'I did an A Level in Theatre Studies and had a really inspirational teacher, and then I just went on to university.',
-        'Jessica Raine',
+    'c6ad864c-08b3-57ab-a160-b6e8cb272ac3' => [
+        'Tell the truth, work hard, and come to dinner on time.',
+        'Gerald R. Ford',
     ],
-    'd1083dad-672c-58db-9c0d-f9634726a812' => [
-        'I had time with my mother, but I really lived with my father. One time he gave all his salary so I could travel to a training camp. He couldn\'t pay the rent, but he did that.',
-        'Zlatan Ibrahimovic',
+    'a32b84e2-340c-53a7-97b4-c74625bd76f1' => [
+        'My agent says that I\'m a \'repeat business guy.\' If you hire me to come do a movie, I\'ll be on time, know all my material, be ready to go, have a good attitude. I\'m here to work, so I get hired over and over again by the same producers. If you just be a team player on set you can work so much more often.',
+        'Dean Cain',
     ],
-    '018ce4ba-9dea-51d6-8e30-079a509b4cc1' => [
-        'Moments of complete apathy are the best for new creations.',
-        'Philip Breedveld',
+    'b59ed071-8a67-5b88-9693-617832295ec9' => [
+        'I believe love at first sight is possible. Centuries of literature and art and beauty has been dedicated to that idea, so who am I to argue, even if I\'ve never experienced it?',
+        'Maggie Grace',
+    ],
+    'b4d8b68f-1797-551b-9be4-6fde6650dfa2' => [
+        'I have a very positive attitude in life. My insecurity, fear and need to know about tomorrow has fortunately eased. What is going to happen will happen anyway. So why break my head over it?',
+        'Katrina Kaif',
+    ],
+    '00f685b1-a1f9-51d4-9d32-05567ff5ef45' => [
+        'Your work is to discover your work and then with all your heart to give yourself to it.',
+        'Buddha',
+    ],
+    '1a941921-7292-568c-9378-ad26d307587d' => [
+        'An artist cannot fail; it is a success to be one.',
+        'Charles Horton Cooley',
     ],
 ];

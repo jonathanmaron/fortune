@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'bd3fc3ed-90e9-54da-ba75-a6e6ea12cd40' => [
-        'A good man often appears gauche simply because he does not take advantage of the myriad mean little chances of making himself look stylish. Preferring truth to form, he is not constantly at work upon the facade of his appearance.',
-        'Alanis Morissette',
+    'e77466b1-77e7-5226-8739-733ede5d8696' => [
+        'Hard work and dedication is important to success, and I have those qualities.',
+        'Nargis Fakhri',
     ],
-    '6ffb355e-8a03-53d9-b81b-1a476cb25685' => [
-        'I think it\'s important for us as a society to remember that the youth within juvenile justice systems are, most of the time, youths who simply haven\'t had the right mentors and supporters around them - because of circumstances beyond their control.',
-        'Q\'orianka Kilcher',
+    '2ee1e708-9e44-5afb-9c5d-469ce5caeda5' => [
+        'When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it, but all that had gone before.',
+        'Jacob Riis',
     ],
-    'e4cc0b6d-ac09-5637-bb1a-7ebef29afd4a' => [
-        'I don\'t take success and failure seriously. The only thing I do seriously is march forward. If I fall, I get up and march again.',
-        'Kareena Kapoor Khan',
+    '8e7842c5-8cba-5c6c-b52a-32cc07117813' => [
+        'The power of pop culture stories should not be underestimated, and there is an enormous potential for inspirational stories that can have a positive, transformative effect on our lives.',
+        'Anita Sarkeesian',
     ],
-    '9b184c8c-8de3-544c-9ca5-ea94f273f507' => [
-        'Life is tough but so are you.',
-        'Anonymous',
+    '4771dffe-79a5-529e-9127-14a04ee5b9fc' => [
+        'The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature.',
+        'Joseph Campbell',
     ],
-    '8765254e-74b0-5f64-88ef-9d565c98aa78' => [
-        'When I\'m in London I do have the convenience of being close to St James Park which is also good for me because it gives me an excuse to get out and get some much needed exercise!',
-        'David Blunkett',
+    '11ca141e-83cf-5ae4-be4c-d414a2994aaf' => [
+        'The very best thing you can do for the whole world is to make the most of yourself.',
+        'Wallace D. Wattles',
     ],
-    '14ff0519-0ba9-5611-bdcf-2c2ac6f8d1f0' => [
-        'I am sort of an adventurer. I like to explore new places. I don\'t get to travel as often as I would like but I love it.',
-        'Edi Gathegi',
+    '6c90f07f-ddf6-5893-9ca1-cea87d10897a' => [
+        'Time is a dressmaker specializing in alterations.',
+        'Faith Baldwin',
     ],
-    '60afe97f-8dad-50c1-a000-bd9c4c9d566f' => [
-        'How we spend our days is, of course, how we spend our lives.',
-        'Annie Dillard',
+    '6170687a-a387-593a-bbda-6489c6f3169a' => [
+        'Travel, for me, is a little bit like being in love because suddenly, all your senses are at the setting marked \'on.\' Suddenly, you\'re alert to the secret patterns of the world.',
+        'Pico Iyer',
     ],
-    '326a4e2b-034b-5572-9b24-7ebf6803b7d0' => [
-        'Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.',
-        'Helen Keller',
+    '74bbf4da-56e3-57cb-8ea9-f12ed97dc5d5' => [
+        'I feel truth, beauty, love, grief, anger, intimacy &amp; alive in my body... Women in the global south live in their bodies much more than we in the global north. Not as distracted by patriarchy\'s controlling images - They know power is in their bodies. I am deeply grateful for the women who showed me the way home.',
+        'Jodie Evans',
     ],
-    '69fb9953-eca0-58f1-877f-6f84769e9dc4' => [
-        'The beauty of reading is that it lets you travel in a way you could never know.',
-        'Alek Wek',
+    'c460bf8d-aae4-5102-8652-b1e17f385ba4' => [
+        'I had to create some good work habits and attitude.',
+        'S. Truett Cathy',
     ],
-    '49426f1a-3b9d-5633-b864-c41f8519548e' => [
-        'I realise myself that hate wastes a lot of time and energy, and I would rather re-direct any energy that I have to good and positive use.',
-        'Julian Lennon',
+    'e04e4fad-cb06-50a1-9756-5af50dbac37a' => [
+        'Don\'t leave a stone unturned. It\'s always something, to know you have done the most you could.',
+        'Charles Dickens',
     ],
-    '07227a47-b2b8-526a-a508-435c782ed4f8' => [
-        'A period of detention in a chilly upstate facility can be a great attitude adjuster.',
-        'Judy Sheindlin',
+    '3a561567-dc91-56e5-a050-1a111f04289e' => [
+        'The real beauty of it - key to my life was playing key chords on a banjo. For somebody else it may be a golf club that mom and dad put in their hands or a baseball or ballet lessons. Real gift to give to me and put it in writing.',
+        'Vince Gill',
     ],
-    'b6089ed5-55ed-541f-bdfd-1e4f82ce549f' => [
-        'Honesty and integrity are absolutely essential for success in life - all areas of life. The really good news is that anyone can develop both honesty and integrity.',
-        'Zig Ziglar',
+    '8c48f647-f4e7-5f2d-8de0-349fee7bdd56' => [
+        'I am odd-looking. I sometimes think I look like a funny Muppet.',
+        'Angelina Jolie',
     ],
-    '8ef3da01-19be-517f-9ea4-ae01baa673ef' => [
-        'We are to seek wisdom and understanding only in the length of days.',
-        'Marcus Aurelius',
+    '73156cdb-6fd1-5646-984f-ecdd4847760c' => [
+        'Do not worry about avoiding temptation. As you grow older it will avoid you.',
+        'Joey Adams',
     ],
-    '61589f62-556c-5c1c-912d-c03f65ad3712' => [
-        'I always liked the visuals to be choice and at the same time minimalist. And, I love black boxes. After all, that\'s what theatre is, it\'s an empty space, and it\'s both limited and unlimited because the space is the space, but what you can do with people\'s imaginations is really endless.',
-        'Harold Prince',
+    '51fe618f-cea5-5480-941f-4e6c4943d7a9' => [
+        'I feel that the best companies are started not because the founder wanted a company but because the founder wanted to change the world... If you decide you want to found a company, you maybe start to develop your first idea. And hire lots of workers.',
+        'Mark Zuckerberg',
     ],
-    '62d7df98-de1f-519b-b24e-68675afac2e0' => [
-        'What is social proof? Put simply, it\'s the positive influence created when someone finds out that others are doing something. It\'s also known as informational social influence.',
-        'Aileen Lee',
+    'ed9fe845-1e4b-53bb-b0de-2a5cb6c53469' => [
+        'Here is the tragedy: when you are the victim of depression, not only do you feel utterly helpless and abandoned by the world, you also know that very few people can understand, or even begin to believe, that life can be this painful. There is nothing I can think of that is quite as isolating as this.',
+        'Denise Van Outen',
     ],
-    'a2a5a6ae-fe34-53ca-8878-70d85dee2414' => [
-        'Either you run the day, or the day runs you.',
-        'Jim Rohn',
+    '37c3cda4-318c-50ae-9493-2e670dc39bd4' => [
+        'Seeing the family is a very important part of my weekend.',
+        'Susannah York',
     ],
-    '554091f5-f0a7-51e2-906a-6034e5db3aa1' => [
-        'If everyone is moving forward together, then success takes care of itself.',
-        'Henry Ford',
+    '85831caa-9f89-5fdd-bd9f-bc59f89ef7fa' => [
+        'I\'m positive and I smile a lot, and I\'m kind of a banana, but serious work just seems to find me, so I\'m not going to argue with it.',
+        'Mireille Enos',
     ],
-    '5a84f8be-ec8c-548f-b4c7-a7eebb682a99' => [
-        'Seeing Michelle Obama\'s bright color choices, and how she made people smile and reinforced Obama\'s platforms of hope and change, was inspiring.',
-        'Lilly Pulitzer',
+    'aeda8a14-a4dc-58d9-b7c7-48190368329a' => [
+        'I just feel like people like a little break. Especially at 12:37 at night, you go, like, \'I\'m just tired of the snarky right now. I just want to lie down and have somebody make me laugh for an hour. Entertain me, and then I\'m going to sleep with a smile on my face.\' That\'s my job; that\'s what I do.',
+        'Jimmy Fallon',
     ],
-    'ba3fb0cf-5c51-513c-a696-749d996d7ba1' => [
-        'The more natural or eco-based products you can introduce into your beauty regimen, the more beneficial it is for your skin. It\'s similar to introducing organic food into your daily diet.',
-        'Ivanka Trump',
+    '2d5a4b82-1d4f-52fa-831d-dde91ab210c8' => [
+        'And to me, fame is not a positive thing. The idea of being famous is a lot better than the reality. It\'s fantastic when you go to premieres and people cheer you, but it\'s not real. And it\'s totally not my approach to get my name on a club door just because I can.',
+        'Tom Felton',
     ],
-    '72dff3b0-e6fb-5262-8458-3897f031ee45' => [
-        'I always wanted to be a farmer. There is a tradition of that in my family.',
-        'Bjork',
+    'b7b0d67f-0d88-5b35-b4d2-9d5f958afc5b' => [
+        'If you go on stage with the wrong attitude, or something in your performance is off, you can lose an audience in the first minute. That first minute is crucial.',
+        'Allan Carr',
     ],
-    '62102fa6-ca60-5a02-93dd-49dbf1f17b0e' => [
-        'Take a step back, evaluate what is important, and enjoy life.',
-        'Phillips Brooks',
+    '096b765b-a7ae-56ad-9326-5ffb632b0e2c' => [
+        'I think sometimes the best training is to rest.',
+        'Cristiano Ronaldo',
     ],
-    '01f91d77-3d05-5a3e-bf99-652db012955c' => [
-        'Success to me is only two things: happiness and stability.',
-        'Kehlani',
+    '81c033ef-5756-5075-9346-cfeeaef25846' => [
+        'Mountains are earth\'s undecaying monuments.',
+        'Nathaniel Hawthorne',
     ],
-    '9a51bd1b-7864-55d9-94e1-a10633e7b0c8' => [
-        'When you look at Japanese traditional architecture, you have to look at Japanese culture and its relationship with nature. You can actually live in a harmonious, close contact with nature - this very unique to Japan.',
-        'Tadao Ando',
+    'd19f1105-7d1c-5c4d-b05c-f3e5d053bdee' => [
+        'I grew up in a family where we weren\'t allowed to talk about beauty or to put any emphasis on physical appearance.',
+        'Pam Grier',
     ],
-    'e40cfbcc-c3bb-5c21-b974-da06b2ece696' => [
-        'In some parts of the world, students are going to school every day. It\'s their normal life. But in other part of the world, we are starving for education... it\'s like a precious gift. It\'s like a diamond.',
-        'Jackee Harry',
+    'a27cce75-5553-552b-b78e-ba2e38c77aff' => [
+        'All you need in this life is ignorance and confidence, and then success is sure',
+        'Mark Twain',
     ],
-    '10083b0e-6938-53e9-a66b-263aef20f1f3' => [
-        'Passion creates the desire for more and action fuelled by passion creates a future.',
-        'Byron Pulsifer',
+    'c1fba156-2584-5296-9790-e6d0127fc01d' => [
+        'I get really frustrated if people don\'t smile.',
+        'Sophie Ellis-Bextor',
     ],
-    'bfe1d6d2-3aca-5439-816e-b7724ff6a33e' => [
-        'All summer, I read fiction because you must read for the pleasure and beauty of it, and not only for research. I don\'t read thrillers, romance or mystery, and I don\'t read self-help books because I don\'t believe in shortcuts and loopholes.',
-        'Isabel Allende',
+    'cc973f81-d091-5655-99ed-5211943f0b4e' => [
+        'Rap music\'s been around for too long now to be inspirational. The words are, but the music isn\'t.',
+        'Alexander McQueen',
     ],
-    '28096afc-82fe-5df0-ab26-5b6a4193b979' => [
-        'We have to remember that Putin was a member of the KGB. He has already demonstrated that kind of macho, dictatorial attitude. Russia has breached their pledge to uphold the Olympic charter. This is a great opportunity for the IOC to say we cannot, given the situation that exists currently, allow the Olympics to take place in Russia.',
-        'George Takei',
-    ],
-    'f2c38a18-d75c-5f55-80f8-68ee5d7a16b7' => [
-        'I travel a lot and rarely make it home to Seattle.',
-        'Hope Solo',
-    ],
-    '7280c759-b358-53e4-988d-be777aaea50e' => [
-        'I was the first in my family to go to college, and I waitressed all the way through, using my earnings to pay for a bachelor\'s degree first and then a master\'s. I resented classmates who didn\'t have to work real jobs, the ones who had the luxury of taking unpaid internships that would eventually position them for high-paying careers.',
-        'Ali Liebegott',
-    ],
-    '43e03a9a-6827-59ec-af69-95818f41e9a6' => [
-        'Innovation distinguishes between a leader and a follower',
-        'Steve Jobs',
-    ],
-    'c74622a3-16c6-5868-8eed-456ec0d006e5' => [
-        'When you come from a big family, you see that, growing up, you\'re learning how to share. Your sisters have got your back; you\'re not alone in this - \'We all support you!\' Your family provides that; it gives you a sense of safety, and it\'s a very grounding feeling.',
-        'Gisele Bundchen',
-    ],
-    '5497603a-25ba-5fa5-9a3c-d1314e600ef8' => [
-        'I don\'t like the way young people write and talk about the old. I don\'t like their attitude, which, if they weren\'t young and therefore bright and vibrant, would be called outdated.',
-        'Ruth Rendell',
-    ],
-    'aa44581c-8e4f-5122-a18e-a4bf3898124e' => [
-        'We do need an attitude of leadership in our government which demonstrates faith in major population centres outside of Perth.',
-        'Andrew Forrest',
-    ],
-    'e0fa8d07-6cee-5a35-a169-e7d780af8448' => [
-        'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.',
-        'Cicely Tyson',
-    ],
-    '7f595580-6649-5574-ade3-bf748b801017' => [
-        'Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational.',
-        'Kevin Brownlow',
-    ],
-    '5b6179d9-50bf-5916-ba4c-d5a4ac8baa55' => [
-        'I was born in very sorry circumstances. Both of my parents were very sorry.',
-        'Norman Wisdom',
-    ],
-    '70d9b87e-55cf-5160-8e2f-b84b0bbd44e9' => [
-        'Everything I\'ve done in my career is a result of growing up in rural Oklahoma, because if I hadn\'t had the training from Mama and Daddy to work hard, to do what I\'m told, to take directions, to mind and to do a good job at anything I set out to do, then I wouldn\'t be where I am today.',
-        'Reba McEntire',
-    ],
-    '53708c6d-9230-51d4-a57a-137e93768f77' => [
-        'What troubles me is the Internet and the electronic technology revolution. Shyness is fueled in part by so many people spending huge amounts of time alone, isolated on e-mail, in chat rooms, which reduces their face-to-face contact with other people.',
-        'Philip Zimbardo',
-    ],
-    'ee4dff51-9e3f-52b9-86d5-65b37b310b15' => [
-        'Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not.',
-        'Galileo Galilei',
-    ],
-    '11ddc251-543d-59c5-8248-1239f95fa0bd' => [
-        'Happiness is found in doing, not merely possessing.',
+    'e7ec1577-67c0-5320-9fc1-272b0612e845' => [
+        'I have found that if you love life, life will love you back.',
         'Napoleon Hill',
     ],
-    '8dd4d778-36d9-507a-a2c6-d3a770dce614' => [
-        'Treat your kid like a darling for the first five years. For the next five years, scold them. By the time they turn sixteen, treat them like a friend. Your grown up children are your best friends.',
-        'Chanakya',
+    '41f2a446-f973-5be5-a5c5-123953b55abf' => [
+        'Choose your corner, pick away at it carefully, intensely and to the best of your ability and that way you might change the world.',
+        'Charles Eames',
     ],
-    '7e9f2fef-802a-596c-a7df-c1e01e1086e6' => [
-        'I guess I don\'t like the fact that my life is becoming less and less my own - the prevailing attitude that you have an obligation to deliver yourself to the public. Actually, you\'re delivered to the public whether you like it or not. I guess if you don\'t like it, you should stop doing what provokes it. In my case, that\'s acting.',
-        'Robert Redford',
+    '462eafc0-241e-531c-9120-03fc79c70b58' => [
+        'It is not length of life, but depth of life.',
+        'David Attenborough',
     ],
-    '680340ae-d342-5144-bdd5-ef4a93afa47d' => [
-        'Like all best families, we have our share of eccentricities, of impetuous and wayward youngsters and of family disagreements.',
-        'Queen Elizabeth II',
+    '5a43185d-0c67-5251-a29c-9732125a0843' => [
+        'I am from a family of artists. Here I am, making a living in the arts. It has not been a rebellion. It\'s as though I had taken over the family Esso station.',
+        'Kurt Vonnegut',
     ],
-    'eda771e0-8a9f-5c20-bb43-c4924bc1cbe0' => [
-        'Progress was all right. Only it went on too long.',
+    '5c01bef6-0e57-562d-9b12-848ee7c806e4' => [
+        'Problems are only opportunities in work clothes.',
+        'Henry J. Kaiser',
+    ],
+    '8d8c43c2-6bb8-512d-968a-ae6857d728fc' => [
+        'In the end, the whole Internet thing kills me, because you can use it as a positive thing or you can read into all the negativity. And I think you\'ve gotta put out positive energy, put out cool viral stuff, and then just stay out of people\'s opinions.',
+        'Nikki Sixx',
+    ],
+    'c8524ca9-bbf7-5665-b142-b9af83163c8b' => [
+        "Nothing is impossible, the word itself says, \u{201c}I'm possible!\u{201d}",
+        'Audrey Hepburn',
+    ],
+    'c314b819-b0fe-53ab-82f1-6dd2409fa23f' => [
+        'Being a teen can be tough. Just try to surround yourself with really good friends that really have your back, and also be a really good friend to those who really care about you. If you\'re not sure about certain things, talk to your friends that you trust and your family.',
+        'Victoria Justice',
+    ],
+    '45f425a3-fce8-5025-8b89-fb696e5501d4' => [
+        'We need to protect our wilderness areas and national parks. Everywhere you travel, you see blight, denuded mountains, logging. If people know what\'s going on, they\'ll become activists to safeguard those places.',
+        'Christie Brinkley',
+    ],
+    '3259e71c-3b5e-53ad-8baf-3b919c0acec4' => [
+        'How many people here have telekenetic powers? Raise my hand.',
+        'Emo Philips',
+    ],
+    'b7731a50-c24d-5396-a9d8-b68b221a9fcb' => [
+        'My school friends are really understanding and still want to hang out with me. Ever since I was in sixth grade, I was at the gym every day to work out while my friends were getting their nails done or going to the mall. I used to feel left out, but I don\'t anymore.',
+        'Aly Raisman',
+    ],
+    'a305af62-34a3-58c0-8849-a1bba19e6aa8' => [
+        'Travel teaches toleration.',
+        'Benjamin Disraeli',
+    ],
+    '7ed9fe3b-d03a-5615-8840-ae328b19af24' => [
+        'You do not travel if you are afraid of the unknown, you travel for the unknown, that reveals you with yourself.',
+        'Ella Maillart',
+    ],
+    '37a32799-1c7b-58bf-8962-e7d01840eaf1' => [
+        'Success in business today requires real-time, mobile access to business opportunities.',
+        'Bob McDonnell',
+    ],
+    '2314173e-d0b0-5474-84d7-de5157144e88' => [
+        'For to be poised against fatality, to meet adverse conditions gracefully, is more than simple endurance; it is an act of aggression, a positive triumph.',
+        'Thomas Mann',
+    ],
+    '30eb01dc-fbdb-5252-bc36-6d331df035a3' => [
+        'In America there are two classes of travel - first class, and with children.',
+        'Robert Benchley',
+    ],
+    '5e1377ca-4b56-5c01-81dc-a461ede09669' => [
+        'Well, if I called the wrong number, why did you answer the phone?',
         'James Thurber',
     ],
-    '4a376f4a-b859-5d05-bb6a-43fa7581f3a1' => [
-        'I met an American woman and got married so I had to get a job.',
-        'Walter Wager',
+    '8560e440-f33a-50ee-9a38-ed02ae43f86a' => [
+        'I only travel to good material, a good director and a good company. I won\'t work in another country for a year any longer, because I have a lovely wife and I adore her and I can\'t bear to be away from her.',
+        'Jim Dale',
     ],
-    '389f3bc2-9ccb-5d89-8486-c17be5b76cce' => [
-        'Beauty is the lover\'s gift.',
-        'William Congreve',
+    'e7412115-23d5-5ec7-9338-51f9c50755e3' => [
+        'The things I want to know are in books; my best friend is the man who\'ll get me a book I ain\'t read.',
+        'Abraham Lincoln',
     ],
-    'f415d6c1-82b5-50d0-a550-f7e93a6270e6' => [
-        'Shoot for the moon. Even if you miss, you\'ll land among the stars.',
-        'Les Brown',
+    '5fca8c42-0dbd-5ee2-9d06-c65827c50073' => [
+        'You can do everything you can to try to stop bad things from happening to you, but eventually things will happen, so the best prevention is a positive attitude.',
+        'Marie Osmond',
     ],
-    '42885b3f-510e-53ca-b9f7-3e9808ce787b' => [
-        'Laziness is nothing more than the habit of resting before you get tired.',
-        'Jules Renard',
+    '2877ceda-dd05-5f90-a0ee-df5e1cbac6c5' => [
+        'If you like an instrument that sings, play the saxophone. At its best it\'s like the human voice.',
+        'Stan Getz',
     ],
-    '232230eb-82d9-54a4-81e5-7237dda2cee7' => [
-        'It\'s a bit like school camp, shooting a film. Everyone\'s on heat. It\'s a strange energy. It\'s full of adrenalin. I funnel my excess energy in funny little ways. I do a lot of dancing in my trailer. I love music.',
-        'Alice Englert',
+    'd06803a8-45e5-5f05-8075-053ce6a80cba' => [
+        'People tell you the world looks a certain way. Parents tell you how to think. Schools tell you how to think. TV. Religion. And then at a certain point, if you\'re lucky, you realize you can make up your own mind. Nobody sets the rules but you. You can design your own life.',
+        'Carrie-Anne Moss',
     ],
-    '93fce292-c898-5fad-9631-6c428e808e59' => [
-        'Good news doesn\'t necessarily have to be a positive thing. Bringing good news is imparting hope to one\'s fellow man.',
-        'Patti Smith',
+    'f3284b4c-b153-554f-a84b-1ef1cdf9cfaf' => [
+        'My father, Abe, was a small businessman. For 32 years, he ran an exterminating company. That may explain why our family always associated the smell of roach spray with love.',
+        'Chuck Schumer',
+    ],
+    '892689c4-17b8-5399-b3cd-159e8ce5e344' => [
+        'I was the kind nobody thought could make it. I had a funny Boston accent. I couldn\'t pronounce my R\'s. I wasn\'t a beauty.',
+        'Barbara Walters',
     ],
 ];

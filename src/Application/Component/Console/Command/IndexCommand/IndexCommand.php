@@ -17,6 +17,8 @@ class IndexCommand extends AbstractCommand
 
         $this->setDescription('Build indexes');
 
+        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
+
         return $this;
     }
 

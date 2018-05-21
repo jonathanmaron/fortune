@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '4f8ed9b9-179f-5c53-b96d-be155b73a207' => [
-        'Just try to be the best you can be; never cease trying to be the best you can be. That\'s in your power.',
-        'John Wooden',
+    'd3aa6500-2c2f-56aa-9225-08f4b24108d9' => [
+        'When I work, a lot of times I have to lose weight, and I do that, but in my regular life I was not eating right, and I was not getting enough exercise. But by the nature of my diet and that lifestyle - boom! The end result was high blood sugars that reach the levels where it becomes Type 2 diabetes. I share that with a gajillion other people.',
+        'Tom Hanks',
     ],
-    '3f45a2ad-d03d-5fd9-a10b-e346620f8e8f' => [
-        'If you try to come off as this big-time star with an attitude, people don\'t like that.',
-        'Selena',
+    '968857d3-a566-5d34-8cbd-399a15e67280' => [
+        'Beauty doesn\'t need ornaments. Softness can\'t bear the weight of ornaments.',
+        'Munshi Premchand',
     ],
-    '1dfd7037-1766-5470-8bb3-0f0414a3eb14' => [
-        'You must take action now that will move you towards your goals. Develop a sense of urgency in your life.',
-        'H. Jackson Brown, Jr.',
+    'a2f418ad-6cfe-5196-a05b-eb9e22332dae' => [
+        'There are moments of life that we never forget, which brighten and brighten as time steals away.',
+        'James Gates Percival',
     ],
-    'fe536bab-1985-5597-8f6c-b839c77c57cb' => [
-        'I love to photograph the gorgeous landscapes when I travel.',
-        'Blake Lively',
+    '502ecd9c-863d-5478-ae80-d91cd13bdf8b' => [
+        'Can you imagine what I would do if I could do all I can?',
+        'Jeff Rich',
     ],
-    '3ce7ff0a-e4ff-5b5b-a6a6-5c4b0b9781e5' => [
-        'Whether it\'s the best of times or the worst of times, it\'s the only time we\'ve got.',
-        'Art Buchwald',
+    'bb2e2862-1e28-5ff9-8654-89f0bd6d2899' => [
+        'The trite saying that honesty is the best policy has met with the just criticism that honesty is not policy. The real honest man is honest from conviction of what is right, not from policy.',
+        'Robert E. Lee',
     ],
-    '6332c4c6-e34e-54d7-955d-4e4fc516c439' => [
-        'My husband changed jobs so fast that I simply never knew what business he was in.',
-        'Rose Kennedy',
+    'ac0e392a-26e9-5726-9bc0-797ba6cbdc48' => [
+        'I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles.',
+        'Audrey Hepburn',
     ],
-    '6480aa2b-e3d0-5c1a-9ad5-700064faa7e3' => [
-        'The age of a woman doesn\'t mean a thing. The best tunes are played on the oldest fiddles.',
-        'Ralph Waldo Emerson',
+    '214a4192-eada-529b-91b6-2d3b00fea537' => [
+        'Beauty is also submitted to the taste of time, so a beautiful woman from the Belle Epoch is not exactly the perfect beauty of today, so beauty is something that changes with time.',
+        'Karl Lagerfeld',
     ],
-    '1bee2b72-398f-5045-bb5a-025374198b9c' => [
-        'Since I travel so much, it\'s always great to be home. There\'s nothing like getting to raid my own refrigerator at two in the morning.',
-        'Amy Grant',
+    'cfcaa18e-c3ea-53bd-9931-0ef337362025' => [
+        'I never subscribe to the stay-at-home policy. I\'m not sick of the road or sick of eating in good restaurants around the country. I like to travel.',
+        'Levon Helm',
     ],
-    '01ad9f31-c103-5c0d-ae73-3a0eefce2fad' => [
-        'I think it doesn\'t matter if you are the best surfer in the world. I\'m going to try to be the best surfer I can be. It\'s not all about competing and being the best. It\'s more about having fun and just doing what you love.',
-        'Bethany Hamilton',
+    'e284bdc4-a643-5cb1-a530-0cf36d806683' => [
+        'Everything that irritates us about others can lead us to an understanding of ourselves.',
+        'Carl Jung',
     ],
-    '4795b91a-374b-5801-a862-74d2b9d16719' => [
-        'For women in my family, in Korean culture, women are really valued in their youth, and then when they get older, it\'s like they almost become irrelevant.',
-        'Margaret Cho',
+    '65ee4d7a-9b94-537b-95e8-98cf480a461f' => [
+        'Therefore, when I considered this carefully, the contempt which I had to fear because of the novelty and apparent absurdity of my view, nearly induced me to abandon utterly the work I had begun.',
+        'Nicolaus Copernicus',
     ],
-    '5b86ea46-fd70-5c0c-a441-8f1d97fbab97' => [
-        'If your ego starts out, \'I am important, I am big, I am special,\' you\'re in for some disappointments when you look around at what we\'ve discovered about the universe. No, you\'re not big. No, you\'re not. You\'re small in time and in space. And you have this frail vessel called the human body that\'s limited on Earth.',
+    'a4a35fd7-8b05-54af-9baf-7e0b2cdb7226' => [
+        'What\'s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.',
+        'Bob Dylan',
+    ],
+    '80481795-65fb-5c43-a9ec-4eee8a23c343' => [
+        'The greatest minds are capable of the greatest vices as well as of the greatest virtues.',
+        'Rene Descartes',
+    ],
+    'a8eda166-c8f1-529e-ac8a-fa594a169bb9' => [
+        'The flow of Guiness into the studio was inspirational as well as nutritive.',
+        'Carter Burwell',
+    ],
+    '750bca15-83eb-5e36-a74f-3e5d37f9e7ed' => [
+        'It\'s not that our family has no taste, it\'s just that our family\'s taste is inconsistent.',
+        'Dave Eggers',
+    ],
+    '426b4bdd-bfc9-5337-aa69-aef7933a9960' => [
+        'Work as though you would live forever, and live as though you would die today. Go another mile!',
+        'Og Mandino',
+    ],
+    'a50699d5-7b87-5205-ab5d-0e71444726ef' => [
+        'Comedy is tragedy - plus time.',
+        'Carol Burnett',
+    ],
+    'abf9641d-cb1e-5ec3-b26f-300c6e2fd880' => [
+        'When I meet with the founders of a new company, my advice is almost always, \'Do fewer things.\' It\'s true of partnerships, marketing opportunities, anything that\'s taking up your time. The vast majority of things are distractions, and very few really matter to your success.',
+        'Evan Williams',
+    ],
+    '9e44cc72-bf0e-5096-9629-88c8d4706707' => [
+        'Let\'s not dismiss or attack individual ideas as being inadequate before we have had a chance to assess their positive effect as part of a whole solution.',
+        'John Thune',
+    ],
+    '61a0303f-65f0-56e3-9fbe-49a0ef792032' => [
+        'I grew up in a family in which political issues were often discussed, and debated intensely.',
+        'Joseph Stiglitz',
+    ],
+    'e5047d2c-7367-5d4c-b6e6-3f430576ab99' => [
+        'Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.',
+        'Max Planck',
+    ],
+    '17c1fa32-edec-5e05-ba05-e2d1ec2c85ac' => [
+        'If I had to live my life again, I\'d make the same mistakes, only sooner.',
+        'Tallulah Bankhead',
+    ],
+    '16e0ec4c-b360-5950-8e02-76661a40b2dd' => [
+        'Challenging the meaning of life is the truest expression of the state of being human.',
+        'Henry David Thoreau',
+    ],
+    'a4d8cdea-e443-5db8-ba9b-0224c5252cc9' => [
+        'Be gentle to all and stern with yourself.',
+        'Saint Teresa of Avila',
+    ],
+    '4904b45e-8480-56d9-8fdb-2bcb182c3f06' => [
+        'I think a lot of times our culture has an attitude toward art and the production of art that separates artists from the rest of us, like making art or music or painting or whatever is some magical thing that you have to be inspired to do, and special people do it.',
+        'Ann Leckie',
+    ],
+    'cefe8915-2558-50df-b5b9-102ac3ad5899' => [
+        'Congress must take responsibility for a new positive direction - an innovative agenda that will lead to a more secure America. Secure communities, secure economies, and a secure quality of life.',
+        'Rick Larsen',
+    ],
+    '57c92af8-1dba-5b55-9923-ef92e02e8bf9' => [
+        'A smile is the light in your window that tells others that there is a caring, sharing person inside.',
+        'Denis Waitley',
+    ],
+    '8b421faf-0bbb-5e7a-9e02-750a479da652' => [
+        'Minds are like parachutes. They only function when open.',
+        'Thomas Dewar',
+    ],
+    'c8749f43-e665-5cc1-9660-68c76bd654ef' => [
+        'Any time scientists disagree, it\'s because we have insufficient data. Then we can agree on what kind of data to get; we get the data; and the data solves the problem. Either I\'m right, or you\'re right, or we\'re both wrong. And we move on. That kind of conflict resolution does not exist in politics or religion.',
         'Neil deGrasse Tyson',
     ],
-    '043446c9-4e6a-563e-913b-a8080ccefdfd' => [
-        'I think a lot of stuff I find funny is from day dreaming.',
-        'Demetri Martin',
+    '15e8ce8d-5002-51a5-b738-f32adee76b7a' => [
+        'The best weapon of a dictatorship is secrecy, but the best weapon of a democracy should be the weapon of openness.',
+        'Niels Bohr',
     ],
-    '99a5783d-4ae8-50f0-91b8-817c36761c5f' => [
-        'Evolution isn\'t just a take-it-or-leave-it story about where we came from. It\'s an epic at the centre of life itself. It tells us we are part of nature in every respect.',
-        'Kenneth R. Miller',
+    '32b23d58-1190-55eb-8f54-e6c1d70a127b' => [
+        'I also had a mistaken attitude towards certain comrades.',
+        'Bela Kun',
     ],
-    '9dddf511-5a71-5c31-b498-a2ae8c8310c2' => [
-        'It\'s funny: I was a photographer before I was a programmer.',
-        'Kevin Systrom',
+    '383df6c0-1aa1-5d70-90c3-adde48425a02' => [
+        'It is my goal to love everyone. I hate no one. Regardless of their race, religion, their proclivities, the desire of their heart and how they want to live their life and the decisions that they make. I can even respect people\'s decisions and lifestyle choices just as I hope they have the courtesy to respect my decisions and my choices.',
+        'Alan Alda',
     ],
-    '71a9c16e-a73e-55b4-b6fd-daf9b0f8e7f2' => [
-        'There\'s a certain beauty and majesty to Wimbledon. The elegance, the way the grass looks on TV.',
-        'John McEnroe',
+    'de52c136-4630-592f-8420-51c94ec8ba33' => [
+        'Human nature is above all things lazy.',
+        'Harriet Beecher Stowe',
     ],
-    'f378047c-d723-5cc5-9630-367e62234f70' => [
-        'The clan is nothing more than a larger family, with its patriarchal chief as the natural head, and the union of several clans by intermarriage and voluntary connection constitutes the tribe.',
-        'Charles Eastman',
+    'd0bafa27-35e0-5092-9d1f-5d791912bb6d' => [
+        'I never said I wanted a \'happy\' life but an interesting one. From separation and loss, I have learned a lot. I have become strong and resilient, as is the case of almost every human being exposed to life and to the world. We don\'t even know how strong we are until we are forced to bring that hidden strength forward.',
+        'Michael Jordan',
     ],
-    '99422e2d-f503-57f5-8367-2e15ff914e43' => [
-        'When you are grateful - when you can see what you have - you unlock blessings to flow in your life.',
-        'Bob Feller',
+    '6841ed4d-0831-5af8-b951-538ae8e7a7c3' => [
+        'We are what we believe we are.',
+        'C.S. Lewis',
     ],
-    'bf6e455c-5b92-5b9a-9c43-1613a745df53' => [
-        'Our situation today shows that beauty demands for itself at least as much courage and decision as do truth and goodness, and she will not allow herself to be separated and banned from her two sisters without taking them along with herself in an act of mysterious vengeance.',
-        'Hans Urs von Balthasar',
+    '15758c29-5f55-5576-ab0e-2cea95dcf6be' => [
+        'Success isn\'t permanent and failure isn\'t fatal.',
+        'Mike Ditka',
     ],
-    '6174a48f-249c-597f-ae3e-fd70c15b014d' => [
-        'There is no failure except in no longer trying.',
-        'Elbert Hubbard',
+    'ba285009-824d-5a7d-be63-36d600635ba1' => [
+        'Other people\'s success spurs me on to do well and gives me motivation.',
+        'Nicholas Hoult',
     ],
-    'ae4d39ff-cf3e-53cb-82f8-36e41ec89592' => [
-        'And above all things, never think that you\'re not good enough yourself. A man should never think that. My belief is that in life people will take you at your own reckoning.',
-        'Isaac Asimov',
+    '08ed2111-7ae2-53cd-a5d7-0ce560919a70' => [
+        'Makeup is not a mask that covers up your beauty; it\'s a weapon that helps you express who you are from the inside.',
+        'Michelle Phan',
     ],
-    'a1b7080f-ffb9-502f-b41a-abb26107fc5c' => [
-        'I work very hard, and I play very hard. I\'m grateful for life. And I live it - I believe life loves the liver of it. I live it.',
-        'Maya Angelou',
+    'ca2da402-03a0-5143-bcc1-b286faf15732' => [
+        'Things do not change, we change.',
+        'Henry Thoreau',
     ],
-    '74d885ee-c387-5106-b317-0dadb731a343' => [
-        'As you grow older, you learn a few things. One of them is to actually take the time you\'ve allotted for vacation.',
-        'John Battelle',
+    '1f068d9c-373c-5b1f-a39a-f93dc8585ad4' => [
+        'Time is money.',
+        'Benjamin Franklin',
     ],
-    'adf68ae8-22b0-55e7-81eb-be6951fbdcbb' => [
-        'It was my father who instilled the \'never say no\' attitude I carry around with me today, and who instilled in me a sense of wonder, always taking us on adventures in the car, never telling us the destination.',
-        'Marlee Matlin',
+    'a96cce8f-7c8b-5bbd-9585-a0c7fa518829' => [
+        'It is surprising what a man can do when he has to, and how little most men will do when they don\'t have to.',
+        'Walter Linn',
     ],
-    '9bfe60ef-b1e5-5efb-969b-410669762de4' => [
-        'Your attitude is like a box of crayons that color your world. Constantly color your picture gray, and your picture will always be bleak. Try adding some bright colors to the picture by including humor, and your picture begins to lighten up.',
-        'Allen Klein',
+    '8d68fa7a-db33-5a79-b188-a94c3a219fb2' => [
+        'I didn\'t know how to deal with success. If there was a Rock Star 101, I would have liked to take it. It might have helped me.',
+        'Kurt Cobain',
     ],
-    'c28a5284-7bdb-5aa7-82f9-a88920a95a4b' => [
-        'I truly believe the intention of creating positive change is so important to the collective consciousness. When you have a group of people that have the intention and the capacity, talent, and intelligence to actualize those intentions, then you have something really powerful.',
-        'Jimmy Chin',
+    '03f1a650-8555-5dbd-a06c-7bfad204e119' => [
+        'Colors are the smiles of nature.',
+        'Leigh Hunt',
     ],
-    '7412f883-b87c-5291-a772-6714bfa22910' => [
-        'This evening I wish to suggest that we Christians should accompany people on their pilgrimages. Specifically we should travel with people as they search for the good, the true and the beautiful.',
-        'Timothy Radcliffe',
+    'e8a450a1-ad20-5893-aa63-c53a78c0d467' => [
+        'In today\'s world, social media, people get judged so much by the last thing that happened, I almost feel, in a way, young people get to see that not only is it OK to fail - that\'s the way you get to championship success, whether it\'s sports or business or life.',
+        'Dan Gilbert',
     ],
-    'f504ebf2-0eca-5b6e-97e5-07ece4c82888' => [
-        'One thing I would say is that I think in any environment that you work in, there\'s always going to be one or two people who you don\'t like. But there just wasn\'t that on \'Games Of Thrones\'. I know it sounds cheesy and cliched, but it was like a big family.',
-        'Alfie Allen',
+    'd6452ade-6ee2-535f-b6cf-2c262ee1ead2' => [
+        'My success isn\'t a result of arrogance - it\'s a result of belief.',
+        'Conor McGregor',
     ],
-    '63f19236-3ff8-5e7a-8649-2f67bd3e4d91' => [
-        'Corruption, embezzlement, fraud, these are all characteristics which exist everywhere. It is regrettably the way human nature functions, whether we like it or not. What successful economies do is keep it to a minimum. No one has ever eliminated any of that stuff.',
-        'Alan Greenspan',
+    '0a17a7be-afe6-597e-8574-026b921f6117' => [
+        'From a very young age, music was very much in my house. I would sit with my mom, with the old LPs, listening to The Beatles and Carly Simon and Lionel Richie. The old LPs used to have the lyrics. From there, I would put on dance and music displays for my family, just to entertain them and make people laugh and smile.',
+        'Lara Pulver',
     ],
-    '5b9d847c-6b4a-5315-a6bb-d21dbbbb706d' => [
-        'You will never win if you never begin.',
-        'Helen Rowland',
+    'c491b056-9cbf-5972-8f5e-3dd19bb48e45' => [
+        'When families are strong and stable, so are children - showing higher levels of wellbeing and more positive outcomes. But when things go wrong - either through family breakdown or a damaged parental relationship - the impact on a child\'s later life can be devastating.',
+        'Iain Duncan Smith',
     ],
-    '1dec2884-53ee-51e7-9b16-7960ac395adc' => [
-        'There is more to life than increasing its speed.',
-        'Stephen Hawking',
+    '312e7392-b95f-5f25-881c-ffd57e8dbc81' => [
+        'Honesty and loyalty are key. If two people can be honest with each other about everything, that\'s probably the biggest key to success.',
+        'Taylor Lautner',
     ],
-    'e5121efc-489d-542f-bdd1-38cc85c440ee' => [
-        'It\'s funny; as I get older I\'m reverting to my roots - I want to plant stuff.',
-        'Melissa McCarthy',
+    'ab617609-9235-5bd6-a7fe-69da8ab9baa7' => [
+        'The work of healing is not my work, but by faith, healing is done. The work of deliverance, great and mighty deliverance, is not my work but is my faith in Him. It is not the works of righteousness which I have done, but according to His grace. I am a product of His grace.',
+        'T. B. Joshua',
     ],
-    '9a9bf065-603b-5dff-b610-244145cdbf2e' => [
-        'Education must not simply teach work - it must teach Life.',
-        'W. E. B. Du Bois',
+    '329e6905-ea99-57b6-8e29-bb2824dad76f' => [
+        'Flu can be serious, and it kills tens of thousands of Americans each year. Vaccination is easier and more convenient than ever, so get yourself and your family protected.',
+        'Tom Frieden',
     ],
-    '3127f862-1f27-563d-afeb-353241290724' => [
-        'Each time a man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, he sends forth a tiny ripple of hope, and crossing each other from a million different centers of energy and daring, those ripples build a current that can sweep down the mightiest walls of oppression and resistance.',
-        'Robert Kennedy',
-    ],
-    '9c370ca1-8e20-5c8c-b626-7ccb933cf6fb' => [
-        'Success means your thoughts are worthy of everyone\'s consideration.',
-        'Julian Fellowes',
-    ],
-    'e27ae3dc-1df2-59a9-86f6-71d6d140faf2' => [
-        'I no doubt deserved my enemies, but I don\'t believe I deserved my friends.',
-        'Walt Whitman',
-    ],
-    'e0309afb-c672-58a4-80a4-00bc23c86ce4' => [
-        'My mind has been both my best friend and my worst enemy.',
-        'Elyn Saks',
-    ],
-    'e2d1ad1d-a8c9-595a-9b38-d2aee479c064' => [
-        'The ideal man bears the accidents of life with dignity and grace, making the best of circumstances.',
-        'Sylvia Earle',
-    ],
-    'af4570d3-bdcd-5c89-b603-7b3f91f71b78' => [
-        'That old law about \'an eye for an eye\' leaves everybody blind. The time is always right to do the right thing.',
-        'Martin Luther King, Jr.',
-    ],
-    'c61a9755-f084-5234-93c0-0be59a3f1396' => [
-        'I am politically incorrect, that\'s true. Political correctness to me is just intellectual terrorism. I find that really scary, and I won\'t be intimidated into changing my mind. Everyone isn\'t going to love you all the time.',
-        'Mel Gibson',
-    ],
-    'ead00dd0-eec3-5799-a0c4-86015727175a' => [
-        'We are all here on earth to help others; what on earth the others are here for I don\'t know.',
-        'W. H. Auden',
-    ],
-    'a3980b80-2ed7-5f05-bb9c-7b8a7ab467c9' => [
-        'We have been educated into believing someone else\'s concept of the deity, and someone else\'s standard of beauty. You have the right to practice any religion and politics in a way that best suits your freedom, your dignity, and your understanding. And once you do that, you don\'t apologize.',
-        'John Henrik Clarke',
-    ],
-    '7b40a6a3-13a0-568d-8921-9c7f9067439c' => [
-        'If you\'re not really having a good time, it\'s not worth it.',
-        'Kyle Chandler',
-    ],
-    '5755da92-0264-57a0-a2c1-5d8991c46a37' => [
-        'Music is moonlight in the gloomy night of life.',
-        'Shakira',
-    ],
-    '0500a571-16d1-556c-9a89-9b2117c4e2cd' => [
-        'I think that everything you do helps you to write if you\'re a writer. Adversity and success both contribute largely to making you what you are. If you don\'t experience either one of those, you\'re being deprived of something.',
-        'Shelby Foote',
-    ],
-    '80ed6f78-b53a-5570-8203-0f214f9ad01b' => [
-        'I\'m from a middle class family, but my father squandered all the money, so I didn\'t really run around with rich people.',
-        'Benjamin Clementine',
-    ],
-    '0785fc36-ce33-532d-8866-06ef79216b22' => [
-        'Success is tricky to deal with, both professionally and in your personal life.',
-        'Ewan McGregor',
-    ],
-    'e7306ca3-79a0-5324-9367-e9134c573608' => [
-        'We must learn our limits. We are all something, but none of us are everything.',
-        'Blaise Pascal',
-    ],
-    '5decfd23-f9ed-5cd4-9660-d4aec52aac45' => [
-        'I have no time for those who say there is no way Scotland could go it alone. I know first-hand the contribution Scotland and Scots make to Britain\'s success - so for me there\'s no question about whether Scotland could be an independent nation.',
-        'David Cameron',
-    ],
-    '6e26e2a0-d096-5b40-9da1-24a5bdbdd1a6' => [
-        'It was one of those perfect English autumnal days which occur more frequently in memory than in life.',
-        'P. D. James',
-    ],
-    '0c7908d7-f8bf-55ef-a3c3-e447e8b26d92' => [
-        'A beauty is a woman you notice; a charmer is one who notices you.',
-        'Adlai E. Stevenson',
+    '362a6bc7-a4cf-5844-9f00-8352eb65ff69' => [
+        'You can\'t choose up sides on a round world.',
+        'Wayne Dyer',
     ],
 ];

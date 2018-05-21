@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '3571bc0e-6dc9-5aeb-8b5c-14e6e7461512' => [
-        'No man was ever wise by chance.',
+    'ee51ba8e-03a8-5c14-b470-16f9d7eaf21e' => [
+        'My grandmother started walking five miles a day when she was sixty. She\'s ninety-seven now, and we don\'t know where the hell she is.',
+        'Ellen DeGeneres',
+    ],
+    '4632ee98-8772-5926-badb-78eb7a251a08' => [
+        'In Japan, there\'s a TV series called Jin. It deals with time travel. I like stories about time travel. It\'s a story about people living in modern day that travel back to the Edo era. Those things really interest me.',
+        'Yuji Horii',
+    ],
+    '49d6e6f4-7ae3-5b69-aa3c-2f29c1b6fe89' => [
+        'Good leadership consists of showing average people how to do the work of superior people.',
+        'John D. Rockefeller',
+    ],
+    '673e6857-59fc-5819-bbba-7085b4b44e00' => [
+        'I had a strong vision for \'The Best Man Holiday,\' so I was able to translate that to the actors and ultimately to the screen. Things can\'t get too heavy or too outrageously funny; it has to strike a balance. Tone is everything. If you\'ve set the right tone, you can get away with a lot of stuff. You can get away with making people cry.',
+        'Malcolm D. Lee',
+    ],
+    '1ebdda4a-70ca-5864-b967-f828a7d43fa0' => [
+        'The most common way people give up their power is by thinking they don\'t have any.',
+        'Alice Walker',
+    ],
+    '78f4b556-f9a9-5692-a2ed-6ffe1521a023' => [
+        'I passionately believe that\'s it\'s not just what you say that counts, it\'s also how you say it - that the success of your argument critically depends on your manner of presenting it.',
+        'Alain de Botton',
+    ],
+    '90d45c25-cdc5-5dba-934e-a7ace08de409' => [
+        'I want to let you in on a little secret: I don\'t always feel like I\'m a success. That\'s right. There are plenty of times when I feel like I\'ve just totally messed up and failed to connect with the people I\'m trying to communicate with.',
+        'Joyce Meyer',
+    ],
+    '5139b9d1-f4c6-509b-ab66-33607a4e1313' => [
+        'Learning without reflection is a waste, reflection without learning is dangerous.',
+        'Confucius',
+    ],
+    '7280c759-b358-53e4-988d-be777aaea50e' => [
+        'I was the first in my family to go to college, and I waitressed all the way through, using my earnings to pay for a bachelor\'s degree first and then a master\'s. I resented classmates who didn\'t have to work real jobs, the ones who had the luxury of taking unpaid internships that would eventually position them for high-paying careers.',
+        'Ali Liebegott',
+    ],
+    '5e11ac3b-ce18-50c6-88d7-f3a2db113916' => [
+        'But, I would be naive not to recognize the number of musicians who tell me they have been influenced by me and sight me - as well as Alex and Neil - as a musician who has been a positive influence on their playing.',
+        'Geddy Lee',
+    ],
+    'cc02fac3-84d8-5985-8dc9-7472fe7f3496' => [
+        'I must govern the clock, not be governed by it.',
+        'Golda Meir',
+    ],
+    '177455da-caa2-50af-8601-ca317ca30ebd' => [
+        'Success for an athlete follows many years of hard work and dedication.',
+        'Michael Diamond',
+    ],
+    '36f73b21-19bf-5a47-b68f-abedeab966f7' => [
+        'Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.',
+        'Avery Brooks',
+    ],
+    'e948c196-b918-5a7f-906b-94fb2667b64f' => [
+        'I\'m so envious of that genetic wiring that immediately puts a smile on your face. My genetic wiring just puts creases in my eyebrows.',
+        'Chris Pine',
+    ],
+    '75bcb0d8-b15d-5329-b69f-3fee5ccba871' => [
+        'If at first you don\'t succeed, blame your parents.',
+        'Marcelene Cox',
+    ],
+    '13758c68-2e5c-562f-aa15-a07f37922aee' => [
+        'I don\'t count my sit-ups; I only start counting when it starts hurting because they\'re the only ones that count.',
+        'Muhammad Ali',
+    ],
+    '405dbebc-78a9-531c-9e04-df88ada9c6ef' => [
+        'I saw a lot of people have success handed to them that then exploited it. They didn\'t protect it or cherish it.',
+        'Aaron Paul',
+    ],
+    'dd5194c2-cecc-5ed2-8c5b-283438d61d3f' => [
+        'Keep your face always toward the sunshine - and shadows will fall behind you.',
+        'Walt Whitman',
+    ],
+    'a651756e-67fa-572d-b41e-64f080ad7861' => [
+        'People who make money often make mistakes, and even have major setbacks, but they believe they will eventually prosper, and they see every setback as a lesson to be applied in their move towards success.',
+        'Jerry Gillies',
+    ],
+    'f224f04d-ca12-54e6-af6a-ec1a72af3de4' => [
+        'To some extent, people who are insane are nonconformists, and society and their family wish they would live what appear to be useful lives.',
+        'John Forbes Nash, Jr.',
+    ],
+    '18879472-2ac8-55d2-b557-c9c33508b214' => [
+        'The tree that is beside the running water is fresher and gives more fruit.',
+        'Saint Teresa of Avila',
+    ],
+    '17b530ff-82c3-5e3e-a610-bcb6d939b899' => [
+        'In matters of conscience, first thoughts are best. In matters of prudence, last thoughts are best.',
+        'Robert Hall',
+    ],
+    'a50bc678-8d5f-5c14-97ca-ad8b0f251b7a' => [
+        'The present is a point just passed.',
+        'David Russell',
+    ],
+    '36d11d02-c01f-5a3f-8368-cc4d478df1d3' => [
+        'Follow your dreams. If you have a goal, and you want to achieve it, then work hard and do everything you can to get there, and one day it will come true.',
+        'Lindsey Vonn',
+    ],
+    '25c68472-fe42-53e8-a22a-35973b587500' => [
+        'Strike and struggle precede success, even in the dictionary.',
+        'Christian Slater',
+    ],
+    '62a16cef-c3e7-5d68-9c7b-927337957e9c' => [
+        'In France, I guess there\'s something like a tyranny in mentalities - we accept success badly, beauty, money. People are certainly envious, and this creates negative energy. This is annoying. I suffered a great deal at one time. I had to fight harder than others. Add to that my marriage to Polanski.',
+        'Emmanuelle Seigner',
+    ],
+    'bd5562bd-b135-5742-9cb1-5387c5144d14' => [
+        'Sometimes success means having the right idea in the right place at the right time. Other times, it\'s about not being afraid to quit and move onto something new.',
+        'John Rampton',
+    ],
+    'c01c2a7d-47ac-5f4b-b9c1-20da6bd035a3' => [
+        'The funny thing about directing is that you have your own opinions, but it\'s a collaboration. Directing is a group effort. Even though you might think something works, the smartest thing you can do as a director is try and weigh the opinions of the people around you.',
+        'Chris Evans',
+    ],
+    'ecffbc3b-9982-573b-ac1f-161f992a32ab' => [
+        'I think a lot of times we don\'t pay enough attention to people with a positive attitude because we assume they are naive or stupid or unschooled.',
+        'Amy Adams',
+    ],
+    '2e59892f-d728-572e-8536-d5abe06e598e' => [
+        'Why hurry over beautiful things? Why not linger and enjoy them?',
+        'Clara Schumann',
+    ],
+    'b2fce810-4fc4-5704-b3a1-0377c008552d' => [
+        'The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.',
         'Seneca',
     ],
-    '598caaaa-11ab-5fca-9caf-14c2829dbf2d' => [
-        'It is not in the stars to hold our destiny but in ourselves.',
-        'William Shakespeare',
+    '2e2e7a35-2cad-5dbc-82de-a30e6d6bb504' => [
+        'My stories are fundamentally about the love of family.',
+        'Patricia Polacco',
     ],
-    '3f3cf6c7-3af7-5936-89b7-d44cedbd176f' => [
-        'Don\'t cry because it\'s over. Smile because it happened.',
-        'Dr. Seuss',
+    'b43970ac-f2f3-552c-bf9c-037ddefbefca' => [
+        'Generally, I love being part of a project that imparts a positive message, is somehow educational or enlightening, helps to bridge differences, or inspires viewers in some way.',
+        'Nazanin Boniadi',
     ],
-    '61b59a05-6bde-5993-8c41-c37a943e16ef' => [
-        'The influence of blogging is overall a very positive force in the media.',
-        'Garrett Graff',
+    '1dfd7037-1766-5470-8bb3-0f0414a3eb14' => [
+        'You must take action now that will move you towards your goals. Develop a sense of urgency in your life.',
+        'H. Jackson Brown, Jr.',
     ],
-    '9e63acee-0bf3-5c56-8929-455ddc1bae14' => [
-        'Animals have a much better attitude to life and death than we do. They know when their time has come. We are the ones that suffer when they pass, but it\'s a healing kind of grief that enables us to deal with other griefs that are not so easy to grab hold of.',
-        'Emmylou Harris',
+    'a6832eea-920c-5680-ac65-9dd5a223e9b3' => [
+        'Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.',
+        'Carl Jung',
     ],
-    '05f6b3c3-9f59-52e7-9640-065176fc91cc' => [
-        'I\'ve never really been aware of what is said about me, whether it\'s positive or negative. I ignore it. I\'ve always had the mind-set: \'No one can challenge me better than myself.\'',
-        'Troy Polamalu',
+    '547eb039-b1c9-54b1-bba1-148574474dda' => [
+        'Italian men do appreciate beautiful women. They\'re not afraid of the beauty, which is nice.',
+        'Eva Herzigova',
     ],
-    '8bcb4542-e1ab-5606-bc79-0f628f5fd2cf' => [
-        'When I travel officially... and when I travel on a private basis, I have protection that is less suffocating. But I am protected everywhere.',
-        'Francois Hollande',
+    '2a066b6e-5921-5acd-98e9-29af33d2dc37' => [
+        'I have not failed. I\'ve just found 10,000 ways that won\'t work.',
+        'Thomas A. Edison',
     ],
-    '2a8cd7e4-74ea-5ae6-a8aa-42b1da2ad9a0' => [
-        'I\'ve always wanted to go to Switzerland to see what the army does with those wee red knives.',
-        'Billy Connolly',
+    '773b0050-5890-5291-ae36-d9b38eb03752' => [
+        'Once you do embark upon the separation or divorce process, it is very important to remember three key things: Be kind, be reasonable, be brief. Remember that this person will no longer be your spouse, but he or she will continue to be your co-parent, family member, and perhaps business partner in certain assets or entities.',
+        'Laura Wasser',
     ],
-    'd82169ab-d056-557a-bf4b-c3eace397a7b' => [
-        'In youth and beauty, wisdom is but rare!',
-        'Homer',
+    '23a8475d-bd35-5393-a1a3-91a52ffb3fba' => [
+        'As long as I\'m not selling out the people that ride or die with me, I\'m glad I\'m not an MC. I\'m a motivational speaker. I\'m not that rapper dude.',
+        'Young Jeezy',
     ],
-    '39ec4430-a8ad-55a9-a69e-e82ae5606942' => [
-        'Instant gratification takes too long.',
-        'Carrie Fisher',
+    '6087a30c-fc24-501e-a061-c07a291a18ed' => [
+        'I don\'t have time to beat myself up over my fallible nature. Instead I use my energy to learn from my past and let it inform my future. It\'s time to own all of our glory, mistakes, mess and light and be gentle to ourselves. Let\'s be kind to our spirits and celebrate the truth of our hearts.',
+        'Grace Gealey',
     ],
-    '5ba214a3-9018-56a8-8cb9-e2102ab898b5' => [
-        'Whenever I get fed up with life I love to go wandering in nature.',
-        'Andrea Arnold',
+    'ed176a1e-c33f-53a3-9528-a618822caca8' => [
+        'The greatest way to live with honor in this world is to be what we pretend to be.',
+        'Socrates',
     ],
-    'b03e96ff-53d8-5552-96a3-8e166dd7df51' => [
-        'Education is not just about going to school and getting a degree. It\'s about widening your knowledge and absorbing the truth about life.',
-        'Horace',
+    '20f6fc95-8998-5330-86d9-e5c146f1636d' => [
+        'The ladder of success is best climbed by stepping on the rungs of opportunity.',
+        'Ayn Rand',
     ],
-    '14b7e0fd-2dbb-5a72-a06d-60b05755a1e6' => [
-        'Nobody will believe in you unless you believe in yourself.',
-        'Liberace',
+    'e3ecb623-dafc-59fa-a830-f16f22405d40' => [
+        'The one thing I\'ve always said: Let your family and close friends be the judge of who you are as a person. Don\'t worry about being judged by others who don\'t know you, because your family and close friends know what you\'re all about, good and bad.',
+        'Rick Pitino',
     ],
-    'dbd19512-69a1-5a87-9579-d80d6507e9d9' => [
-        'One of the very best reasons for having children is to be reminded of the incomparable joys of a snow day.',
-        'Susan Orlean',
+    '021eb31b-83e8-59b9-a8d0-3cb64c81ea62' => [
+        'Touring is great because I love to travel.',
+        'Colin Donnell',
     ],
-    'b4dde85c-8c60-540c-8ae9-2a06b356db34' => [
-        'My father once said, \'If you\'re in the desert and you\'re dying of thirst, are you going to drink a glass of blood or are you going to drink a glass of water?\' I think what he was trying to say, interesting coming from my blood father, is sometimes there are people in your family that can be toxic.',
-        'Nicolas Cage',
+    '17cd1bbf-a906-572a-8fdb-f020e5fc4887' => [
+        'You can follow your favorite company or organization. You can also mix that in with your family and your social network and talk about all these interests in real time. That\'s the value, not the brand \'Twitter.\' Twitter just provides the venue for it.',
+        'Jack Dorsey',
     ],
-    'edfb3aeb-00e8-57ff-a76d-5eb04563fc2a' => [
-        'Whether we think of Disney\'s blonde beauty and her pumpkin carriage or Marissa Meyer\'s recent recasting of \'Cinderella\' as a cyborg in the young adult novel \'Cinder,\' we know that there are countless modern retellings of the tale.',
-        'Marie Rutkoski',
+    '0d1c653f-db30-5e8b-a64e-c7c57be0d581' => [
+        'It takes considerable knowledge just to realize the extent of your own ignorance.',
+        'Thomas Sowell',
     ],
-    'c2eb6a20-eba1-56c3-a131-ce88bed4d1b6' => [
-        'I really admire a woman for her intelligence, her personality. Beauty is not enough.',
-        'Roberto Cavalli',
+    '564d18a2-05b9-56f9-9b99-55d23546dbc4' => [
+        'Personally, I can\'t see the appeal in trekking down to D.C. for a networking extravaganza, even if it is built around a special moment in American history. While I find the election of Barack Obama inspirational, I don\'t have a desire to memorialize it with overly effusive celebration.',
+        'Jamie Johnson',
     ],
-    'bde3db79-d4ad-5d9c-8536-abe7e70a1c09' => [
-        'Creativity is a habit, and the best creativity is the result of good work habits.',
-        'Twyla Tharp',
+    '9b3710e7-8ad1-5383-86ca-0ba5b62829a0' => [
+        'You cannot be lonely if you like the person you\'re alone with.',
+        'Wayne Dyer',
     ],
-    'd4226f21-ddfb-529c-9bb8-fd889152e9d2' => [
-        'The first principle of success is desire - knowing what you want. Desire is the planting of your seed.',
-        'Robert Collier',
+    '81212aab-9048-5caf-9c3f-31358a3b7cb9' => [
+        'I am a gentleman. My natural inclination is to be on my best behavior.',
+        'Joe Wilson',
     ],
-    '51d9bd56-f795-5c9e-9e15-3cc13ca7592d' => [
-        'I have a company attitude about my work. I don\'t like to do just one thing; I like to do a lot of things.',
-        'Jack O\'Brien',
-    ],
-    '2b53fbc7-67ce-5117-92c9-af11a491474e' => [
-        'I feel blessed to be here representing our country and carrying out th research of scientists around the world... I hope you could feel the positive energy that beamed to the whole planet as we glided over.',
-        'Laurel Clark',
-    ],
-    '8afc6bb0-2c7d-5eba-8205-d443e23c4e6b' => [
-        'We believe in working hard and having fun at the same time. It\'s a way of life for me, and I feel tremendous.',
-        'Robert Stigwood',
-    ],
-    '1150be96-8c53-5ad7-93c4-5bcbb83705f7' => [
-        'College was especially sweet because of the positive, hopeful atmosphere of a college campus.',
-        'Jerry Kramer',
-    ],
-    '9affa0da-9620-59c1-86fc-f050356a6892' => [
-        'Life is half spent before we know what it is.',
-        'Martha Graham',
-    ],
-    '9c2403d3-6e81-50f5-93b9-14c66f479b04' => [
-        'New beginnings are often disguised as painful endings.',
-        'Lao Tzu',
-    ],
-    '615a1d69-e12c-585b-a8ae-6141dceedb62' => [
-        'Aviation, this young modern giant, exemplifies the possible relationship of women and the creations of science. Although women have not taken full advantage of its use and benefits, air travel is as available to them as to men.',
-        'Amelia Earhart',
-    ],
-    '508e7ea7-eea1-5224-9fa2-ee0afa0a22ce' => [
-        'The workingmen have perceived that women are in the field of industry to stay; and they see, too, that there can not be two standards of work and wages for any trade without constant menace to the higher standard.',
-        'Florence Kelley',
-    ],
-    'eebc9b96-e797-5b13-bcfd-98ab1ff44d0d' => [
-        'Not every religion has to have St. Augustine\'s attitude to sex. Why even in our culture marriages are celebrated in a church, everyone present knows what is going to happen that night, but that doesn\'t prevent it being a religious ceremony.',
-        'Ludwig Wittgenstein',
-    ],
-    '3a90f937-0d10-580e-8dc3-7255d475352a' => [
-        'I travel light. I think the most important thing is to be in a good mood and enjoy life, wherever you are.',
-        'Diane von Furstenberg',
-    ],
-    'ede30dd4-9d3c-5116-a5dc-28c399177870' => [
-        'At the end of the day it\'s got to be a good movie, it\'s got to be a funny movie, and it\'s got to make people think, \'Hey, I couldn\'t have spent my time any better.\'',
-        'Tom Hanks',
-    ],
-    '42afad32-4954-541b-a8c0-a7d4fa5e7a18' => [
-        'Include me out.',
-        'Samuel Goldwyn',
-    ],
-    'c378373e-4760-54ae-8780-0b3707fa7dec' => [
-        'It\'s sad when girls think they don\'t have anything going on except being pretty.',
-        'Keri Russell',
-    ],
-    '525563b0-71e0-535f-b943-9bbee266c3d6' => [
-        'Don\'t be afraid to go out on a limb. That\'s where the fruit is.',
-        'H. Jackson Browne',
-    ],
-    '7b85e6e7-2006-53df-9f1a-28a60225df8b' => [
-        'In everyone\'s life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit.',
-        'Albert Schweitzer',
-    ],
-    '05a1164f-f689-5e07-b29c-b7d92550ec38' => [
-        'Life isn\'t a matter of milestones, but of moments.',
-        'Molly Ringwald',
-    ],
-    '49a032cd-8d76-5f5d-891b-d8822809463c' => [
-        'I try to keep it real. I don\'t have time to worry about what I\'m projecting to the world. I\'m just busy being myself.',
-        'Demi Lovato',
-    ],
-    'e6987c35-83a7-57e7-9549-ac8a3cc015d8' => [
-        'Utrip makes it easy for travelers to experience the destination highlights that most interest them, be it food, art or history. Just like a culinary experience, every palate is different, and Utrip is all about personalizing travel for their users.',
-        'Tom Douglas',
-    ],
-    '2f86ebba-2a8d-50ca-915b-8b64bbb8e496' => [
-        'All the universe is full of the lives of perfect creatures.',
-        'Konstantin Tsiolkovsky',
-    ],
-    'd24ecdaf-09ef-57e0-9cb5-62bff517797d' => [
-        'Action is drama. If we cannot make the audience laugh, smile or cry with us, we are not actors.',
-        'Sonny Chiba',
-    ],
-    '9f231bb7-ebaa-5840-aff2-848ca5ae7d5a' => [
-        'There are actually no political aspirations. I think you need to have the right attitude and aptitude for it. I don\'t think I have the right aptitude for it. I think it is unfair to push somebody in that direction just because my father happens to be a politician.',
-        'Sonakshi Sinha',
-    ],
-    '742c42ef-a8ce-51a7-ad66-4e9093314652' => [
-        'Don\'t try to be somebody you\'re not because it doesn\'t work. If you try to be this perfect person or perfect persona of what you think that somebody should be when they\'re involved in public office, it\'s just not going to work. Just be yourself, stay true to your core values, and really just stay abreast of the issues.',
-        'Ben Quayle',
-    ],
-    'eb26d229-3875-5815-a1b0-50c5fd469820' => [
-        'I guess we all like to be recognized not for one piece of fireworks, but for the ledger of our daily work.',
-        'Neil Armstrong',
-    ],
-    'fa0e874f-a84c-5042-95cf-ab9c1ddcabaf' => [
-        'The time to relax is when you don\'t have time for it.',
-        'Sydney J. Harris',
-    ],
-    '6961e470-1990-52f7-9767-cdde2bd4597d' => [
-        'Too much self-centered attitude, you see, brings, you see, isolation. Result: loneliness, fear, anger. The extreme self-centered attitude is the source of suffering.',
-        'Dalai Lama',
-    ],
-    'c63d242d-ef7c-5c1e-9946-572ef17c189b' => [
-        'In chess, there are some extremely beautiful things in the domain of movement, but not in the visual domain. It\'s the imagining of the movement or of the gesture that makes the beauty in this case.',
-        'Marcel Duchamp',
-    ],
-    'fa12dd43-ff81-5eea-addc-ee83d4627e3f' => [
-        'There are no better cosmetics than a severe temperance and purity, modesty and humility, a gracious temper and calmness of spirit; and there is no true beauty without the signatures of these graces in the very countenance.',
-        'Arthur Helps',
-    ],
-    '06e7e8ca-94ca-59f8-bb01-cbc2d18be5f1' => [
-        'It is clear I was never the Pretty Girl. I had my two front teeth knocked out when I was 10 and didn\'t fix them until I was 19. I have a crooked smile and a nose that looks like it\'s been broken 12 times but never has been. My nose was always red, so people called me Rudolph. My whole face is off-center.',
-        'Ellen Barkin',
-    ],
-    'd92f048f-30cc-5dfd-b5b4-066f5d454511' => [
-        'I think whether you\'re having setbacks or not, the role of a leader is to always display a winning attitude.',
-        'Colin Powell',
-    ],
-    'd7450139-6fa0-53b5-bde3-123f0db27366' => [
-        'The value of beauty and inspiration is very much underrated, no question. But I want to be clear: I\'m not trying to be anyone\'s savior. I\'m just trying to think about the future and not be sad.',
-        'Elon Musk',
-    ],
-    'a81b2cd9-218a-5acd-aad8-bd4b39d51d0e' => [
-        'It\'s cool to have critical success because it\'s always nice for your peers to say, \'Good job.\' But who cares about them?',
-        'Zac Hanson',
+    '7f6a7db6-0ea7-58ee-a01b-b6f53ae0ac6c' => [
+        'The two centre-backs, Rob Huth and Wes Morgan, are in many ways journeyman pros, but they have that wonderful attitude and never-say-die spirit that has culminated in them being top of the league.',
+        'Gary Lineker',
     ],
 ];

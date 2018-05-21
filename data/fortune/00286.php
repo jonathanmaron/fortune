@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '7b5eb8b3-bcb5-5ee0-b32b-c21077630897' => [
-        'To accomplish great things, we must dream as well as act.',
-        'Anatole France',
+    'c4b7ee34-cfe3-5a35-9c3f-f72a3d836b26' => [
+        'My height doesn\'t define my skill set. To be a great quarterback, you have to have great leadership, great attention to detail and a relentless competitive nature - and I try to bring that on a daily basis.',
+        'Russell Wilson',
     ],
-    '37d89c0c-5de2-5826-9593-4d5870d3b819' => [
-        'Evolution acts slowly. Our psychological characteristics today are those that promoted reproductive success in the ancestral environment.',
-        'Keith Henson',
+    '64d5a20f-3a89-5626-a762-2f600aa14091' => [
+        'Failure is simply the non-presence of success. But a fiasco is a disaster of mythic proportions.',
+        'Orlando Bloom',
     ],
-    '00a65096-a1e5-50c2-9773-a46c38d7ba84' => [
-        'But I am convinced that those Jews who stand aside today with a malicious smile and with their hands in their trousers\' pockets will also want to dwell in our beautiful home.',
-        'Theodor Herzl',
+    '4312cad7-7f75-5e1e-b1ea-66ba6b153c74' => [
+        'My mother has had breast cancer twice. And my mother has always been this very positive human being: a glass-half-full type. Like, when she was in treatment and feeling really bad, she would always talk about some nurse that was particularly nice to her.',
+        'Susanne Bier',
     ],
-    'cd617cbc-b39a-56b7-8cfb-2aa06ad2594f' => [
-        'I went to Catholic school throughout my whole academic life. In fact, my children - my husband and I and our children in my own family now have over 100 years of Catholic education among us.',
-        'Nancy Pelosi',
+    'f986e975-9abd-5300-a3e3-1ef962c472f6' => [
+        'Let us make our future now, and let us make our dreams tomorrow\'s reality.',
+        'Malala Yousafzai',
     ],
-    'a3fb8f21-69d1-5771-9117-4afdd6d608d1' => [
-        'Love does not consist of gazing at each other, but in looking together in the same direction.',
-        'Antoine de Saint-Exupery',
+    '124c8f8d-0a4b-5485-b5d1-10202b16c1dd' => [
+        'It makes me very happy when I create goals or score goals myself, but the most important thing is that the team reaches its goal and plays positive football.',
+        'Mesut Ozil',
     ],
-    '8ddae9dc-8a7a-5ccf-98ff-0e1890eba69b' => [
-        'I don\'t know why I get away with some things. But I\'m not a misogynistic, racist person. Yet I do find those jokes funny, so I say them. And I try to say everything kind of in a good spirit.',
-        'Daniel Tosh',
+    'db6c3881-4205-5aa2-8e0c-7c08cbb54a30' => [
+        'There is nothing in a caterpillar that tells you it\'s going to be a butterfly.',
+        'R. Buckminster Fuller',
     ],
-    '6e6df69a-29c0-5194-92f8-e36c57532ab7' => [
-        'Many individuals are doing what they can. But real success can only come if there is a change in our societies and in our economics and in our politics.',
-        'David Attenborough',
+    '3b8bc5ce-b852-55cc-a8bb-dc0d030f1186' => [
+        'I love my wife and I know she loves me. We\'re best friends. We\'re just lucky to have found each other. It takes a lot of work but I just feel very blessed that I found the right person. It\'s a very fortunate situation and not everyone has that.',
+        'Harry Connick, Jr.',
     ],
-    'ccbbe9c4-78c6-5ecb-a335-81dad19da708' => [
-        'Who co-founded Google? Sergey Brin, a Russian-born Jew whose family fled anti-semitism in the Soviet Union to settle here and who considers himself a refugee.',
-        'Walt Mossberg',
+    'a13a3f3b-cdfc-5daa-8183-f6ff1753ab5a' => [
+        'Success is always temporary. When all is said and one, the only thing you\'ll have left is your character.',
+        'Vince Gill',
     ],
-    'a6198874-482c-5c8c-aa01-00597e2a2c09' => [
-        'I think the best advice came from Drew Barrymore, about always finding love in everything you do and keeping a positive attitude and being thankful.',
-        'Bella Thorne',
+    'ee4db323-0192-5158-8566-ebfd0623ac23' => [
+        'My father\'s music gives hope to people and also inspires them to break the bonds of injustice and to be positive in life. I\'ve seen that everywhere I go, especially in poor countries and poor neighborhoods.',
+        'Ziggy Marley',
     ],
-    'e97aa64b-0415-5f03-8bfa-dc6e06e58988' => [
-        'Nations need to understand their own strengths and weaknesses, and India\'s tradition of dissent and democratic debate is a positive aspect.',
-        'Rosabeth Moss Kanter',
+    'e55433fb-6e3d-54aa-9758-e4deedaf7ac0' => [
+        'Coca-Cola is the only business in the world where no matter which country or town or village you are in, if someone asks what do you do, and you say you work for Coca-Cola, you never have to answer the question, \'What is that?\'',
+        'Muhtar Kent',
     ],
-    'afbf776d-6e3b-5d13-852d-bf1f917769ba' => [
-        'Children should be able to live a life free from bullying and harassment and it is time that we all took a stand against this.',
-        'Katherine Jenkins',
+    'acf373d8-c984-5895-8130-085a0c0dadc6' => [
+        'I wake up every morning and I feel like I\'m juggling glass balls. I live in Los Angeles, my business is run out of London, and most evenings I\'m cuddled up in front of Skype, in my dressing gown, speaking with my studio in London. I travel a lot, my team travel a lot, but I wouldn\'t have it any other way.',
+        'Victoria Beckham',
     ],
-    'a2ab0dd0-8987-56f9-b146-ff2ab09de7d7' => [
-        'Animals represent the abstract notion of acceptance. Living with these funny creatures - you kind of have to accept them. It\'s like a test in a way.',
-        'Shaun Tan',
+    'a3853174-5b58-51dc-85cc-9d8a350845f3' => [
+        'You think aerobics is not a cool sport? I think you are wrong. It requires amazing discipline - flexibility, fitness, knowledge. And you have to do it with a big smile on your face. Also, I once performed in front of 10,000 screaming women. I tell you something, I\'d rather do that than kick a ball around in front of a few men.',
+        'Magnus Scheving',
     ],
-    '6aff4dce-810d-5e2c-9b69-4052558d5764' => [
-        'The most important criterion is this: hire someone whose character and humility and attitude you would like to have reproduced in your church and in yourself.',
-        'John Ortberg',
+    '99f66b08-fba3-5125-ade9-cadaadf5b1d1' => [
+        'Work gives you meaning and purpose and life is empty without it.',
+        'Stephen Hawking',
     ],
-    'f07d5139-ca86-5676-bdaf-74b087891693' => [
-        'Willpower is the key to success. Successful people strive no matter what they feel by applying their will to overcome apathy, doubt or fear.',
-        'Dan Millman',
+    '4e47da74-154d-5791-ac70-9887115c8837' => [
+        'It takes a long time to grow an old friend.',
+        'John Leonard',
     ],
-    '00e72a50-07f5-50d4-a24e-681518a20e77' => [
-        'I maintain my inner beauty by trying to lead a balanced life in general. I try to eat healthy foods, but... that doesn\'t mean I won\'t treat myself now and then! I work out almost every day, which gives me more energy and helps me feel stronger. I also try to be a genuinely good person to the people around me.',
-        'Erica Durance',
+    'a48058f7-b0e4-509f-965d-cbd2f4102967' => [
+        'If you don\'t have time to do it right, when will you have time to do it over?',
+        'John Wooden',
     ],
-    '9c74c704-e007-5ff5-a2b5-36f084ae88b2' => [
-        'As regards the individual nature, woman is defective and misbegotten, for the active power of the male seed tends to the production of a perfect likeness in the masculine sex; while the production of a woman comes from defect in the active power.',
-        'Thomas Aquinas',
+    'edfa6c70-2285-5f6b-b64a-b64d990a89d6' => [
+        'Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.',
+        'Lao Tzu',
     ],
-    'b6129f28-b3c5-5a6b-8201-5e9baa33db7c' => [
-        'Efficiency is doing things right; effectiveness is doing the right things.',
-        'Peter Drucker',
+    '077f6d8c-3541-56ff-93a8-4d66b4906110' => [
+        'People, unprotected by their roles, become isolated in beauty and intellect and illness and confusion.',
+        'Richard Avedon',
     ],
-    '657e7f80-acde-5810-8f9e-5a564ad16a48' => [
-        'Even with protection, even with death threats, I can publish, I can travel and I can live the life that I want and not the one my parents want or some imam somewhere thinks I should live.',
-        'Ayaan Hirsi Ali',
+    '6853f935-ad44-5386-9a81-7431a76dc1f7' => [
+        'I don\'t care about commercial success. I get to do what I love and communicate whatever I want.',
+        'Sia',
     ],
-    'af3af50e-60e5-52e8-8e3c-f26964929f99' => [
-        'Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.',
-        'Byron Pulsifer',
+    'ce41f9cd-08c8-53c2-927b-cdb6094f1440' => [
+        'Tattoos, for me, are like a timeline of my life. I could look at a certain tattoo, and it reminds of me of a certain time in my life and why I got that tattoo.',
+        'Tyga',
     ],
-    '322e53fe-dd2d-50a8-909d-007998d75b27' => [
-        'Wisdom is the supreme part of happiness.',
-        'Sophocles',
+    'bcf0d1f6-2bb7-521e-8e8d-963d21373154' => [
+        'But little white lies here and there is human nature. Everybody does that.',
+        'Lucy Hale',
     ],
-    'a436b5c8-ccb5-5dd0-929c-88c5152d7925' => [
-        'I have had it up to here with the prosecutions, the government\'s attitude, the judiciary, the media\'s stance and the majority of Turks who view the Kurdish people\'s justified cause through a nationalist lens.',
-        'Osman Baydemir',
+    'a0fddbf7-1b64-513b-a574-b20697ce9a1c' => [
+        'I have a wonderful shelter, which is my family. I have a wonderful relationship with my brother and sister; this makes me feel that I know always where I belong.',
+        'Jose Carreras',
     ],
-    '9e886991-10ee-5dcf-a9ac-495178f5c3a7' => [
-        'Television is a medium of entertainment which permits millions of people to listen to the same joke at the same time, and yet remain lonesome.',
-        'T. S. Eliot',
-    ],
-    '8d8e464c-0669-5422-8e81-35a84954fc1d' => [
-        'I wasn\'t even 20 at the time, but it taught me something about drugs. They can take a good man, a warm, funny, loving family man, and turn him into a loser and worse.',
-        'Michael Bergin',
-    ],
-    '435aca90-21dc-5331-9eef-b3f86ea34131' => [
-        'If you spend too much time thinking about a thing, you\'ll never get it done',
+    '0159f4f2-c507-5963-89f7-74be220eac58' => [
+        'To know oneself is to study oneself in action with another person.',
         'Bruce Lee',
     ],
-    '70e87ab7-7542-55a7-a08b-79b1914fce42' => [
-        'Discovering your purpose doesn\'t have to be complicated. Look at what you do and why you do it. Is it to support your family? That\'s your purpose. Is it to make a difference in your customer\'s life? That\'s your purpose.',
-        'Anne F. Beiler',
+    '0dee204a-f270-5f84-ac60-72b8ce0c1837' => [
+        'You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.',
+        'Emmet Fox',
     ],
-    '109e48b1-0f14-53f6-994a-5506e9cdab65' => [
-        'I shall give you hunger, and pain, and sleepless nights. Also beauty, and satisfactions known to few, and glimpses of the heavenly life. None of these you shall have continually, and of their coming and going you shall not be foretold.',
-        'Howard Lindsay',
+    '1683ca54-034a-5b0f-a5d4-9ad2ef3c0fb9' => [
+        'The story of \'Highway\' is completely about travel. It is about the fascination of travel to an extent that I don\'t want to even reach the destination and also being away from society gives you a certain view of the society, so that was the intention of the film.',
+        'Imtiaz Ali',
     ],
-    '11a15ceb-094e-5f7f-befa-5d141d1ac83e' => [
-        'One must work and dare if one really wants to live.',
-        'Vincent Van Gogh',
+    '41ed9858-704f-52e1-b684-43c50f0a092f' => [
+        'A rainbow is the product of physics working for your appreciation of beauty.',
+        'Kyle Hill',
     ],
-    'eed58417-ce6f-54a4-ac70-12b2f315ab38' => [
-        'Strange - is it not? That of the myriads who Before us passed the door of Darkness through, Not one returns to tell us of the road Which to discover we must travel too.',
-        'Horace',
+    '60afe97f-8dad-50c1-a000-bd9c4c9d566f' => [
+        'How we spend our days is, of course, how we spend our lives.',
+        'Annie Dillard',
     ],
-    '28940547-6495-5ad6-ac66-2c2b54952038' => [
-        'It seems to me we can never give up longing and wishing while we are thoroughly alive. There are certain things we feel to be beautiful and good, and we must hunger after them.',
-        'George Eliot',
+    '5aae35c8-72db-51fe-bf26-e1609efa9961' => [
+        'Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.',
+        'Tom Jackson',
     ],
-    'a672954c-30d7-5d05-ba21-7b955615fa58' => [
-        'Talent grips us. We are overtaken by the beauty of Michelangelo\'s sculpture, riveted by Mariah Carey\'s angelic voice, doubled over in laughter by the comedy of Robin Williams, and captivated by the on screen performances of Denzel Washington.',
-        'John C. Maxwell',
+    '969ffd99-35f8-5865-a602-9aef7eabd0aa' => [
+        'Success is the only motivational factor that a boy with character needs.',
+        'Woody Hayes',
     ],
-    'e87ee096-bd57-5f6a-b057-dbfc8158e945' => [
-        'Men have looked upon the desert as barren land, the free holding of whoever chose; but in fact each hill and valley in it had a man who was its acknowledged owner and would quickly assert the right of his family or clan to it, against aggression.',
-        'T. E. Lawrence',
+    '52f53895-1222-5db8-bad3-438746d36373' => [
+        'I am able to ride the bike and think clearly about strategy and tyres. I also have positive thinking. I am very constructively critical.',
+        'Valentino Rossi',
     ],
-    '5facf3db-ce1c-562e-b055-243c5e7932f5' => [
-        'Never floss with a stranger.',
-        'Joan Rivers',
+    '5755da92-0264-57a0-a2c1-5d8991c46a37' => [
+        'Music is moonlight in the gloomy night of life.',
+        'Shakira',
     ],
-    'bde9e7ca-b105-57bb-8032-b48c8dbe527c' => [
-        'If you\'re not having a good time, find something else that gives you some joy in life.',
-        'Penny Marshall',
+    '5440b044-b91b-5161-b3c1-a75445ab5232' => [
+        'If you haven\'t got anything nice to say about anybody, come sit next to me.',
+        'Alice Roosevelt Longworth',
     ],
-    'f595e2eb-9c57-5ffa-bf72-4d15fef086ae' => [
-        'I\'m selfish, impatient, and a little insecure. I make mistakes, I\'m out of control, and at times hard to handle. But if you can\'t handle me at my worst, then you sure as hell don\'t deserve me at my best.',
-        'Marilyn Monroe',
+    '8d29ad7a-f17f-5e45-9a5e-cccd599ea362' => [
+        'Man is but a reed, the most feeble thing in nature, but he is a thinking reed.',
+        'Blaise Pascal',
     ],
-    'f6e3edea-36d9-5eb3-aa68-2bb1ddd3a534' => [
-        'I\'ve always had that attitude that things happen for a reason.',
-        'Ryne Sandberg',
+    '5f13dd2c-27e9-5dee-ac9c-07034e21a2df' => [
+        'We didn\'t lose the game; we just ran out of time.',
+        'Vince Lombardi',
     ],
-    'dc5e90be-16f7-5853-a576-e27865cd6042' => [
-        'Dont let someone else\'s opinion of you become your reality.',
-        'Les Brown',
+    'ce7eff71-f83d-5044-854a-ff196a54ba5c' => [
+        'Because of the dog\'s joyfulness, our own is increased. It is no small gift. It is not the least reason why we should honor as love the dog of our own life, and the dog down the street, and all the dogs not yet born.',
+        'Robert Louis Stevenson',
     ],
-    '8cd34579-64d7-56b7-9ae7-410c66b9181c' => [
-        'We don\'t tend to write about disease in fiction - not just teen novels but all American novels - because it doesn\'t fit in with our idea of the heroic romantic epic. There is room only for sacrifice, heroism, war, politics and family struggle.',
-        'John Green',
+    '5bb07ebe-ebc6-5207-9208-4b248d126a9b' => [
+        'Nothing will teach you more about perceived value than taking something with literally no value and selling it in the auction format. It teaches you the beauty and power of presentation, and how you can make magic out of nothing.',
+        'Sophia Amoruso',
     ],
-    '03082087-d4a1-5ca7-bd26-5313d91f6983' => [
-        'Beauty, pleasure, freedom and plenty of sleep: these are the hallmarks of a successful idler\'s break. Travel should not be hard work.',
-        'Tom Hodgkinson',
+    '731bef58-2ff3-5123-8307-22be4a6b190b' => [
+        'How many thorns of human nature are bristling conceits, buds of promise grown sharp for want of congenial climate.',
+        'John Burroughs',
     ],
-    'f6f9cd05-d5d6-52fa-835a-a83161a5e654' => [
-        'As an artist, the more experience, the better the creation. I\'m a very positive person.',
-        'Psy',
+    'e5555b4a-ae44-5199-9c72-a835aa069a0c' => [
+        'If you eat something and get fat, you should be responsible for it. I think that is the attitude of the great majority of Americans, that you should be responsible for what you eat.',
+        'Vic Snyder',
     ],
-    '78cfec6d-c73d-5bf3-b907-0d15b3ee9dc7' => [
-        'Impossible is a word to be found only in the dictionary of fools.',
-        'Napoleon Bonaparte',
+    '8b533ced-203e-5412-b637-06f435ebe0d3' => [
+        'Each time dawn appears, the mystery is there in its entirety.',
+        'Rene Daumal',
     ],
-    '0f8bea21-aba3-5e2d-af18-c7e6cd5fc9f8' => [
-        'The battle of life is, in most cases, fought uphill; and to win it without a struggle were perhaps to win it without honor. If there were no difficulties there would be no success; if there were nothing to struggle for, there would be nothing to be achieved.',
-        'Samuel Smiles',
+    '7d9bc345-5d11-53f8-8036-181469f2be93' => [
+        'Well, there\'s nothing more touching than putting a smile on a kid\'s face when you can.',
+        'Emma Roberts',
     ],
-    '3192a1ed-9ddb-5f76-837e-6e2954a8aba2' => [
-        'Dictators, unlike Democrats, depend on a small coterie to sustain their power. These backers, generally drawn from the military, the senior civil service, and family or clan members, have a synergistic relationship with their dictator. The dictator delivers opportunities for them to become rich, and they protect him from being overthrown.',
-        'Bruce Bueno de Mesquita',
+    'd0f58b20-e0d5-5a42-97b6-9e9c00e15afc' => [
+        'Some people hate lime-green; red has all this emotional baggage. Blue seems to be overall one of the more positive colors, and a little more serious than yellow.',
+        'David Carson',
     ],
-    '6828e503-3c7c-550d-856a-772e5ecab7b4' => [
-        'It was a very emotional dinner... Everyone shared personal stories about her and gave her words of encouragement and inspiration. Everyone tried to remain positive.',
-        'Lil\' Kim',
+    'f9e1b330-5716-598f-afe5-4831f35a6625' => [
+        'Be yourself; everyone else is already taken.',
+        'Oscar Wilde',
     ],
-    '303e007a-ffd8-5e71-b94e-a15299dcb67c' => [
-        'To these ideals which were instilled in me when I was a youth, I attribute in a large degree the success that was mine on the bicycle tracks of the world.',
-        'Major Taylor',
+    '74ae9531-270b-50ed-a531-0901ec4358f1' => [
+        'I am positive that flexibility is a feminine characteristic.',
+        'Emma Bonino',
     ],
-    '0c234e69-d774-5780-894e-d4bf203d72cb' => [
-        'Change in all things is sweet.',
-        'Aristotle',
+    '53db5775-1f89-58b9-a513-7a5b09179e79' => [
+        'Well I do find the beauty in animals. I find beauty everywhere. I find beauty in my garden.',
+        'Doris Day',
     ],
-    'dd7c5398-351e-5f0b-826e-947fd9bd7827' => [
-        'The secret of success is to be in harmony with existence, to be always calm to let each wave of life wash us a little farther up the shore.',
-        'Cyril Connolly',
+    '05547b1c-af18-52d0-8402-3ea7103fb69c' => [
+        'Life is about making an impact, not making an income.',
+        'Kevin Kruse',
     ],
-    '8ca8ea5f-62e0-5161-9353-bf98322d1001' => [
-        'My parents are both really, really funny, and my little sister is a really good painter, and my other sister is a really good writer.',
-        'Michael Cera',
+    '35659bea-5642-5f7d-ad79-c2c8ff721f91' => [
+        'Be stupid, be dumb, be funny, if that\'s who you are. Don\'t try to be someone that society wants you to be; that\'s stupid. So be yourself.',
+        'Christina Grimmie',
     ],
-    '2957f70a-6a6a-5d50-a1f9-6feb6133cfaa' => [
-        'He who has a why to live can bear almost any how.',
-        'Leo Howard',
+    'a4edede7-4e9a-57ae-ae89-66448ec1246f' => [
+        'The negative side of the American Dream comes when people pursue success at any cost, which in turn destroys the vision and the dream.',
+        'Azar Nafisi',
     ],
-    'eafadc3e-cdb0-589b-8333-10d9a8ddc0e8' => [
-        'The spirit of L.A. is untamed wilderness. It\'s earthquakes and wildfires and oceans and mountain lions and fog. There\'s great physical beauty.',
-        'Dan Gilroy',
+    'fe91f259-01f4-5a2f-99b6-122bf3ea4bb0' => [
+        'It\'s funny how social activists usually protest against the only things that have a credible chance of achieving the activists\' goals.',
+        'Craig Bruce',
     ],
-    'bfbfc3de-eef6-54d6-98b1-24c17f0da074' => [
-        'As in nature, as in art, so in grace; it is rough treatment that gives souls, as well as stones, their luster.',
-        'Thomas Guthrie',
+    '79524872-be54-5723-96b4-31fc86586ec1' => [
+        'I am happy to say that everyone that I have met in my life, I have gained something from them; be it negative or positive, it has enforced and reinforced my life in some aspect.',
+        'Walter Payton',
+    ],
+    'd8078d10-08f1-505b-b6c7-0fb223f181dc' => [
+        'Don\'t let what you cannot do interfere with what you can do.',
+        'John R. Wooden',
+    ],
+    'f0b5f41b-5820-5f76-bd19-becce05ed914' => [
+        'A man should look for what is, and not for what he thinks should be.',
+        'Albert Einstein',
     ],
 ];

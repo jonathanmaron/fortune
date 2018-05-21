@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '34b9e48f-84a8-5adb-af6a-c668a7d14598' => [
-        'What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.',
-        'Margaret Thatcher',
-    ],
-    '73c96928-7a28-5046-bd34-d8da08e4ac37' => [
-        'Every decade of my life I attempted to write a novel. But I had nothing to say. I was far too self-absorbed, and now I realize I was writing for others, so that they\'d applaud me, see my genius, tell me how wonderful I am, or be jealous of my success.',
-        'Louise Penny',
-    ],
-    'aef5260d-e3e5-5f93-95a1-f53b3fe0f669' => [
-        'I felt most proud on the success of the Apollo mission.',
-        'Katherine Johnson',
-    ],
-    '44b2d3d7-7766-527d-82a2-fa42a71b21ca' => [
-        'I come from a blue collar family, but my personal life isn\'t. I didn\'t get the gene that my grandfather had in spades. He was a local hero. Built the church that I went to. Built the house I grew up in. Steamfitter, pipefitter, electrician, mechanic and plumber. I wanted to do those things. But it just didn\'t come easy.',
-        'Mike Rowe',
-    ],
-    'c83e0032-e5a3-5edd-9332-c96173b416ee' => [
-        'Lighten up, just enjoy life, smile more, laugh more, and don\'t get so worked up about things.',
-        'Norman Vincent Peale',
-    ],
-    '3bd2502d-6b33-5e11-b57f-26a6b9a4b61d' => [
-        'If the doors of perception were cleansed everything would appear to man as it is, infinite.',
-        'William Blake',
-    ],
-    '307566b3-19d5-5d3c-81d6-15c012d40795' => [
-        'Have you not noticed that love is silence? It may be while holding the hand of another, or looking lovingly at a child, or taking in the beauty of an evening. Love has no past or future, and so it is with this extraordinary state of silence.',
-        'Jiddu Krishnamurti',
-    ],
-    'b8230c35-0c1b-5715-8683-7af6357a2cce' => [
-        'Every single job is a challenge. You are walking into a new set, a new character, creating a world and trying to get comfortable to do your best work.',
-        'Felicia Day',
-    ],
-    'd2362793-8f48-5662-b70c-31378aa7e0a7' => [
-        'Lose an hour in the morning, and you will spend all day looking for it.',
-        'Richard Whately',
-    ],
-    '9c7a39e3-ce22-5525-9ece-b9e3328a00fb' => [
-        'I worked half my life to be an overnight success, and still it took me by surprise.',
+    'caa55a1b-2f7b-5740-9237-2651571c72b6' => [
+        'No matter how many goals you have achieved, you must set your sights on a higher one.',
         'Jessica Savitch',
     ],
-    '2a0f7910-b172-5670-a8c9-931b808ed901' => [
-        'I did not direct my life. I didn\'t design it. I never made decisions. Things always came up and made them for me. That\'s what life is.',
-        'Henry Ward Beecher',
+    'bcf90003-8875-55ef-9822-6bcfff890b80' => [
+        'Time is the school in which we learn, time is the fire in which we burn.',
+        'Delmore Schwartz',
     ],
-    '666b0b5b-10b7-58d5-8e32-aaab313bc947' => [
-        'Love is the only force capable of transforming an enemy into friend.',
-        'Martin Luther King, Jr.',
+    'efcaad9d-69b7-5ffd-b0b3-4d58f74aa98a' => [
+        'Human life is as evanescent as the morning dew or a flash of lightning.',
+        'Samuel Butler',
     ],
-    'f6db6862-c91c-5a4b-b0da-fb12b8abd136' => [
-        'I\'m taking a bit of a wait-and-see attitude towards 3D.',
-        'Christopher Nolan',
+    'ddf7bf07-32d7-51d7-8541-f6b7fc698b51' => [
+        'It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.',
+        'Dalai Lama',
     ],
-    'bec0a55f-eeaa-573d-9168-e067f09119e7' => [
-        'There\'s a weird cloud around you when you\'re recognizable. It was a brief window for me. I think you have to have a pathological need for attention of any type, negative or positive, to thrive in that kind of situation. And I only want compliments.',
-        'Diablo Cody',
+    'a8cf1f58-de26-5a27-b4f0-b8c798478cdb' => [
+        'I don\'t feel that I\'m explaining the world or teaching people anything. And I\'m not trying to be a mirror, showing them what\'s really going on the world. All I\'m trying to do is think of stuff that\'s funny, just like when I\'m kidding around with my friends.',
+        'Steven Wright',
     ],
-    '164923fc-d177-5804-9445-7f9093c7c412' => [
-        'Babies control and bring up their families as much as they are controlled by them; in fact the family brings up baby by being brought up by him.',
-        'Erik Erikson',
+    'cd965bba-d9a3-5ce0-821b-bbdcee3125b9' => [
+        'There\'s a snobbery at work in architecture. The subject is too often treated as a fine art, delicately wrapped in mumbo-jumbo. In reality, it\'s an all-embracing discipline taking in science, art, maths, engineering, climate, nature, politics, economics.',
+        'Norman Foster',
     ],
-    '87b83eb9-9c62-56aa-90ac-c9e99543acbb' => [
-        'I spend days on my Xperia logging on Facebook chatting with my friends and family at home; I love listening to Rihanna and Pink and watching movies. Basically, anything that makes me smile, but most of my fans will know that I am always smiling!',
-        'Dominika Cibulkova',
+    '540e37bc-5e5c-5416-83f0-82be0428dad1' => [
+        'I\'m quite sarcastic, and I\'m funny, but not kind of funny. It\'s a weird funny, and some people don\'t get me, and some people do.',
+        'Millie Bobby Brown',
     ],
-    '541406e6-1171-5205-9329-1f49d9b7ba19' => [
-        'Does not the very word \'creative\' mean to build, to initiate, to give out, to act - rather than to be acted upon, to be subjective? Living photography is positive in its approach, it sings a song of life - not death.',
-        'Berenice Abbott',
+    'ab30be60-3d51-51bf-9789-507635e00e06' => [
+        'There is little difference in people, but that little difference makes a big difference. The little difference is attitude. The big difference is whether it is positive or negative.',
+        'W. Clement Stone',
     ],
-    'ee4db323-0192-5158-8566-ebfd0623ac23' => [
-        'My father\'s music gives hope to people and also inspires them to break the bonds of injustice and to be positive in life. I\'ve seen that everywhere I go, especially in poor countries and poor neighborhoods.',
-        'Ziggy Marley',
+    'ff79a4d8-6e67-5136-83d5-fd1641618f3f' => [
+        'Meaning is not what you start with but what you end up with.',
+        'Peter Elbow',
     ],
-    'e6ec76db-eaba-59f2-8c98-a14e33c1d871' => [
-        'Life is too short not to celebrate nice moments!',
-        'Ralph Marston',
+    '97b4709a-d05f-5790-b1bd-d7f420cc7bf4' => [
+        'The shortest answer is doing.',
+        'Lord Herbert',
     ],
-    '8bfbcf8d-b09e-5014-8886-f41c81275796' => [
-        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
-        'Jimmy Reid',
+    '8afc6bb0-2c7d-5eba-8205-d443e23c4e6b' => [
+        'We believe in working hard and having fun at the same time. It\'s a way of life for me, and I feel tremendous.',
+        'Robert Stigwood',
     ],
-    'c8d77a9e-efc8-54c5-9e13-ee041076274d' => [
-        'At home in L.A., Sunday is lazy. It\'s the wife and me lying in bed with coffee, watching \'The Soup\' or something funny on TiVo. The kid will occasionally join us. Eventually, breakfast is at a place down the street called Paty\'s. And we always have some kind of great dinner - my wife makes a great roast beef.',
-        'Eric McCormack',
+    'e9e7f21b-ab5a-53a5-b6bb-d845efe2d279' => [
+        'I loved all the princess films, and I grew up with them, and I think it\'s really cool how they\'ve changed over the years - how the princesses have become more positive role models right up until \'Frozen.\'',
+        'Lily James',
     ],
-    'cb056fd8-e9dd-567c-8f4f-18a964f2e679' => [
-        'To find joy in work is to discover the fountain of youth.',
-        'Pearl S. Buck',
+    '5fb49bd3-5bfc-5281-87a8-ef8d38d665f1' => [
+        'On Thanksgiving I will stop to give thanks that my family is safe and healthy, especially because I realize that, following the tragedies of this year, it is all too real a possibility that they might not have been.',
+        'Bobby Jindal',
     ],
-    '74eba3e0-c38d-5f06-a4d4-b50fb0ea01b3' => [
-        'Every moment and every event of every man\'s life on earth plants something in his soul.',
-        'Thomas Merton',
+    '52fa7b30-162b-585b-b9db-21c065c0878e' => [
+        'Life is fleeting, and permanence in this world is something we all strive for. The best way to achieve permanence is through philanthropy.',
+        'Ram Shriram',
     ],
-    '55588129-d4db-585b-b4e1-c06be73e66a5' => [
-        'The people you choose to have around you make all the difference. My family and close friends keep me grounded. You have to have a mind of your own and a strong head on your shoulders. Cricket is the most important thing to me, so the rest of it pales in comparison.',
-        'Virat Kohli',
+    'afae63e0-e3bb-5a46-a391-68828903652d' => [
+        'Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.',
+        'Thomas Carlyle',
     ],
-    '04759a28-0893-56f2-8a12-f39f8c21fe53' => [
-        'Smile, breathe, and go slowly.',
-        'Thich Nhat Hanh',
+    '6da01ef6-eb87-5b99-9b23-8e75114286a4' => [
+        'I am among those who think that science has great beauty.',
+        'Marie Curie',
     ],
-    'a0c6241c-cc39-568e-93ce-4bda27d21277' => [
-        'Art in Nature is rhythmic and has a horror of constraint.',
-        'Robert Delaunay',
+    '7afd4290-7baa-56bf-8ea6-1706f0fed521' => [
+        'There is no such thing as fun for the whole family.',
+        'Jerry Seinfeld',
     ],
-    'd1ef8a28-3564-5c4e-90a3-231e9faaa529' => [
-        'Time is flying never to return.',
+    '9a260f49-2385-5ee9-9844-5eba1f2e2076' => [
+        'There\'s a tipping point that happens with soccer in which you just kinda get it. I was drawn to it because the best soccer teams play similarly to my favorite basketball teams - like the eighties Lakers or eighties Celtics - teams that emphasized teamwork over individualism and relied on passing as their biggest ongoing edge.',
+        'Bill Simmons',
+    ],
+    'e35d6bd0-c758-5850-bbba-634def3d29c2' => [
+        'When it comes to success, there are no shortcuts.',
+        'Bo Bennett',
+    ],
+    '8ac047b9-0865-5c94-90cb-b10e33f77bc5' => [
+        'My wife is the boss at home, and my daughters are the bosses. I am just the worker. We are a very warm family and very happy.',
+        'Jet Li',
+    ],
+    '1b51a47a-9c3f-5f14-9143-bca56396fd59' => [
+        'You dream. You plan. You reach. There will be obstacles. There will be doubters. There will be mistakes. But with hard work, with belief, with confidence and trust in yourself and those around you, there are no limits.',
+        'Michael Phelps, swimmer and Olympic gold medalist',
+    ],
+    '54d352de-0dd1-5a59-81e1-0d449d128325' => [
+        'Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.',
+        'Wayne Gretzky',
+    ],
+    'ed712916-55f3-5a1b-ab21-f4c6824422a2' => [
+        'You must train your intuition, you must trust the small voice inside you which tells you exactly what to say, what to decide.',
+        'Ingrid Bergman',
+    ],
+    '37f241bc-616c-53de-b7e3-dd330a19cdbd' => [
+        'Call it what you will, incentives are what get people to work harder.',
+        'Nikita Khrushchev',
+    ],
+    '837c157c-394e-5d35-b6c2-c78ac22a395c' => [
+        'Although we can never fully repay our veterans, on Veterans Day we thank our veterans for their selflessness and commit to do what we can to improve the quality of life for our veterans and military families in communities across America.',
+        'Helen Mirren',
+    ],
+    'd477cfbe-e6cf-5542-bad5-d35bbb0028f4' => [
+        'Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.',
+        'Rumi',
+    ],
+    'e3684a4e-709c-50d8-809a-8d6519a23fb8' => [
+        'Through Kurt I saw the beauty of minimalism and the importance of music that\'s stripped down.',
+        'Dave Grohl',
+    ],
+    '4e1b5c77-771b-5f2c-b5ae-22b2865ad678' => [
+        'As we grow old, the beauty steals inward.',
+        'Ralph Waldo Emerson',
+    ],
+    '09fc6374-7391-5c9b-beb7-3839a742c639' => [
+        'He is richest who is content with the least, for content is the wealth of nature.',
+        'Socrates',
+    ],
+    'a6239eef-1ddb-55e8-8824-c0a75861feac' => [
+        'These flowers, which were splendid and sprightly, waking in the dawn of the morning, in the evening will be a pitiful frivolity, sleeping in the cold night\'s arms.',
+        'Pedro Calderon de la Barca',
+    ],
+    'f53ed8c3-2555-5c48-922d-82f30ddad967' => [
+        'By the time we\'ve made it, we\'ve had it.',
+        'Malcolm Forbes',
+    ],
+    'f3f83755-ff73-5a61-afb3-35e865f29cdd' => [
+        'I choose to make the rest of my life the best of my life.',
+        'Louise Hay',
+    ],
+    'e2905699-fc66-59d3-b24d-e36b8d5c46e9' => [
+        'If I have free time, I want to go to the beach, walk around a shopping mall, go grocery shopping. Live a little bit of life.',
+        'James Wan',
+    ],
+    '0fade842-3b66-5930-9b76-738f9fbe7684' => [
+        'Sometimes sushi is just superb, and other times there\'s nothing like a great big steak. It depends where your taste buds are at the time.',
+        'Francesca Annis',
+    ],
+    'dbd19512-69a1-5a87-9579-d80d6507e9d9' => [
+        'One of the very best reasons for having children is to be reminded of the incomparable joys of a snow day.',
+        'Susan Orlean',
+    ],
+    '888665a4-2552-5c62-985d-1ebab0533b10' => [
+        'Everyone looks so much better when they smile.',
+        'Jimmy Fallon',
+    ],
+    '7e554a43-d347-5136-acf4-393d50ce9e20' => [
+        'I want to be in the big show, and to be in the big show, you have to practice. I have this attitude now that I\'m going to take all the greatness I can. Nothing\'s going to stop me.',
+        'Steven Adler',
+    ],
+    'a2549990-ae45-5c10-b089-326c3dbb47ea' => [
+        'Life is a series of natural and spontaneous changes. Don\'t resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.',
+        'Lucille Ball',
+    ],
+    '135ba34e-89c1-5659-884e-2039e994995a' => [
+        'I think exercise tests us in so many ways, our skills, our hearts, our ability to bounce back after setbacks. This is the inner beauty of sports and competition, and it can serve us all well as adult athletes.',
+        'Peggy Fleming',
+    ],
+    'b133b6ae-60c6-56c6-bff6-cf4182a71825' => [
+        'They can do all because they think they can.',
         'Virgil',
     ],
-    '9a2b211a-061b-536f-92f3-531ee8cc5a8d' => [
-        'America isn\'t Congress. America isn\'t Washington. America is the striving immigrant who starts a business, or the mom who works two low-wage jobs to give her kid a better life. America is the union leader and the CEO who put aside their differences to make the economy stronger.',
-        'Khaled Hosseini',
+    '91c897f7-d459-56c1-94f1-1ebe8568e0be' => [
+        'Just because you\'re a luxury brand doesn\'t mean you have to have an attitude.',
+        'Angela Ahrendts',
     ],
-    '8edc1195-7079-50df-853f-aabcc185e0df' => [
-        'People have to work to maintain happiness. It\'s easy to be miserable. It\'s easy to stay miserable. It\'s easy to live in a place where nothing\'s working and not being able to work your way out of it. It\'s much harder to choose happiness, to choose laughter, to choose a positive.',
-        'Tituss Burgess',
+    '557b7932-b93d-53d4-b76a-b61e718c1922' => [
+        'Pay attention to the beauty surrounding you.',
+        'Anne Lamott',
     ],
-    '0ca6e098-21ff-59da-93e5-ef3fda55201a' => [
-        'What the imagination seizes as beauty must be truth.',
-        'John Keats',
+    '28394b58-52ba-5aee-a8c1-a0b8eaf81ef8' => [
+        'Success in business requires training and discipline and hard work. But if you\'re not frightened by these things, the opportunities are just as great today as they ever were.',
+        'David Rockefeller',
     ],
-    '53fbbb6e-bd1e-5257-9a48-64a56cdbb33c' => [
-        'Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.',
-        'Oprah Winfrey',
+    'ebe2e4e4-1ab1-51f4-8cbd-766ba6070d49' => [
+        'Obama\'s stern demeanor punctuated by intermittent flashes of his wide, relaxing smile is his greatest weapon in defusing pent-up angst.',
+        'Tina Brown',
     ],
-    '36c1d1e8-78d6-56d5-8f0f-c53ad6be7b9a' => [
-        'The purpose of Disneyland is to make people smile.',
-        'Kevin Plank',
+    'a3eb35e0-74df-5017-82aa-989d3b61ebcc' => [
+        'Nature can do more than physicians.',
+        'Oliver Cromwell',
     ],
-    'ff163b06-d29d-595a-a555-f98c9cbf3187' => [
-        'The beauty of Maine is such that you can\'t really see it clearly while you live there. But now that I\'ve moved away, with each return it all becomes almost hallucinatory: the dark blue water, the rocky coast with occasional flashes of white sand, the jasper stone beaches along the coast, the pine and fir forests somehow vivid in their stillness.',
-        'Alexander Chee',
+    '55386bd4-9bc2-5d7e-9c45-4a800262c992' => [
+        'Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.',
+        'Lao Tzu',
     ],
-    '7b43b3c2-ab54-51aa-ad64-3ff7a3e9a111' => [
-        'One of the most obvious parts of my character is the smile, and if I wasn\'t comfortable in myself then I wouldn\'t be able to smile so much.',
-        'Max Walker',
+    '4daf8625-c69b-5836-aed8-49bfe8a42a03' => [
+        'Television has brought back murder into the home - where it belongs.',
+        'Alfred Hitchcock',
     ],
-    '705ddcdc-6017-5bc6-be5f-49bb0b1164d4' => [
-        'I\'ve never liked my smile, you see. I should have had braces as a kid, but I was too proud and too vain. And I didn\'t want to be bullied at school.',
-        'Ricky Whittle',
+    'ede8f51d-3850-562b-878b-b940cce3b01d' => [
+        'Removing all stimulation around you is a really positive thing in terms of stimulating your creativity.',
+        'Grimes',
     ],
-    '177a8a2c-9c02-5e27-b5df-3a2d2de31f90' => [
-        'Life is too short for long-term grudges.',
-        'Magdalena Neuner',
+    '2821fd15-a652-5f2c-bb94-44235f330822' => [
+        'We have talked long enough in this country about equal rights. It is time now to write the next chapter - and to write it in the books of law.',
+        'Lyndon B. Johnson',
     ],
-    '1ad0ddc6-229e-58d5-b43c-126bf78813cb' => [
-        'Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.',
-        'Paavo Nurmi',
-    ],
-    '1b1299a0-d61b-59e5-b2f7-bbc180fa2d4e' => [
-        'I didn\'t see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.',
-        'Steve Jobs',
-    ],
-    'a3f5d5cb-8318-5305-a8b0-8cb561bf3d5c' => [
-        'Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.',
-        'Harry Burchell Mathews',
-    ],
-    '82190891-4498-5170-92e1-ad4d02d53785' => [
-        'In order to succeed, we must first believe that we can.',
-        'Nikos Kazantzakis',
-    ],
-    '36a1d517-d4eb-5807-a047-508fcef18f35' => [
-        'The cure for anything is salt water. Sweat, tears or the ocean.',
-        'Isak Dinesen',
-    ],
-    'fc1b357c-075f-517b-96f6-f08f81761200' => [
-        'The best way to destroy the capitalist system is to debauch the currency.',
-        'Vladimir Lenin',
-    ],
-    'ad912f55-c7f9-5a15-a2dc-ac3552feb19c' => [
-        'We travel, some of us forever, to seek other states, other lives, other souls.',
-        'Anais Nin',
-    ],
-    '62768bc7-b254-5562-9c15-e991472fa33e' => [
-        'I celebrate myself, and sing myself.',
-        'Walt Whitman',
-    ],
-    'd9d27f61-543c-576b-8bab-94b1f0162fe8' => [
-        'How long are you going to wait before you demand the best for yourself',
-        'Epictetus',
-    ],
-    '0ff46c14-e6b5-50df-96d2-f151c473659d' => [
-        'Know the true value of time; snatch, seize, and enjoy every moment of it. No idleness, no laziness, no procrastination: never put off till tomorrow what you can do today.',
-        'Philip Stanhope, 4th Earl of Chesterfield',
-    ],
-    'a833bfcb-2868-527a-b6a6-5f3b7119834c' => [
-        'With my talent, I can make people laugh and give them another attitude about life. What a blessing that is for me.',
-        'Doris Roberts',
-    ],
-    '91091501-2672-509a-833f-5a8824eb52c8' => [
-        'In both business and personal life, I\'ve always found that travel inspires me more than anything else I do. Evidence of the languages, cultures, scenery, food, and design sensibilities that I discover all over the world can be found in every piece of my jewelry.',
-        'Ivanka Trump',
-    ],
-    '328de94f-9bf8-5da5-a8f2-74a67730a133' => [
-        'Social media has allowed groups, such as ISIL, to use the Internet to spot and assess potential recruits. With the widespread horizontal distribution of social media, terrorists can identify vulnerable individuals of all ages in the United States - spot, assess, recruit, and radicalize - either to travel or to conduct a homeland attack.',
-        'James Comey',
-    ],
-    'dddc4c46-b5fe-5018-8dbc-3bbd2ef95516' => [
-        'I come from a family of strong women, who have been positive role models for me.',
-        'Laura Harrier',
+    '76678a27-9836-53b7-9320-19d35ad96ace' => [
+        'I enjoy punk, the attitude as well as the music, but I don\'t feel like I have to be a carbon copy of it and invite all this controversy just to be punk rock.',
+        'Hayley Williams',
     ],
 ];

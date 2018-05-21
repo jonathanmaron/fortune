@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '1f1cba83-32d5-53cb-a0cf-29f456ad6f14' => [
-        'When you\'re a houseguest and you leave, it\'s nice to straighten something up or send your hosts a useful gift. And when you leave the planet, it\'s nice to have made a positive contribution.',
-        'Alexander Payne',
+    '4eb62d93-e52a-5214-83eb-9b1558998a5e' => [
+        'As I get older, I just prefer to knit.',
+        'Tracey Ullman',
     ],
-    '11922afd-13ee-5595-a224-05fd94685c01' => [
-        'Whatever you want to do, do with full passion and work really hard towards it. Don\'t look anywhere else. There will be a few distractions, but if you can be true to yourself, you will be successful for sure.',
-        'Virat Kohli',
+    '2ff2902f-c04a-56d0-ab4d-bba017025351' => [
+        'Never apologize for showing feeling. When you do so, you apologize for truth.',
+        'Benjamin Disraeli',
     ],
-    '61038bc0-e71a-58e3-a36e-96f3e61aa104' => [
-        'Do more of what makes you happy.',
-        'Carmel McConnell',
+    '3610e15b-c411-5e46-9a98-15a0cd1211c0' => [
+        'Fidelity, Bravery, and Integrity set the expectations for behavior; they set a standard for our work. More than just a motto, for the men and women of the FBI, Fidelity, Bravery, and Integrity is a way of life.',
+        'Robert Mueller',
     ],
-    'eb4b9260-37c9-5e12-b57e-db31e119d88b' => [
-        'You have to accept whatever comes and the only important thing is that you meet it with courage and with the best that you have to give.',
-        'Eleanor Roosevelt',
+    'fcf2d4e5-0479-5f8f-b8ae-91fd9c04075e' => [
+        'Opponents of capital punishment argue that the state has no right to take a murderer\'s life. Apparently, one fact that abolitionists forget or overlook is that the state is acting not only on behalf of society, but also on behalf of the murdered person and the murdered person\'s family.',
+        'Dennis Prager',
     ],
-    '3038a6d6-708f-5d3d-bd3a-345e6917801c' => [
-        'In Italy, they add work and life on to food and wine.',
-        'Robin Leach',
+    '62660891-a7aa-5572-a46e-4c4005a8c17b' => [
+        'Nature is not only all that is visible to the eye... it also includes the inner pictures of the soul.',
+        'Edvard Munch',
     ],
-    'a274688f-6b6e-5c63-8d0c-cff83656ea7a' => [
-        'I may not know everything, but everything is not known yet anyway.',
-        'Byron Pulsifer',
+    '19c0f7d4-dcdd-5374-8e4a-f1360dac884f' => [
+        'Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.',
+        'Lao Tzu',
     ],
-    '3fa00c21-d626-5065-8a6f-584616675293' => [
-        'My family comes first. Maybe that\'s what makes me different from other guys.',
-        'Bobby Darin',
+    '80d65548-4738-5be4-bcb5-9efcbb02d468' => [
+        'Put off thy cares with thy clothes; so shall thy rest strengthen thy labor, and so thy labor sweeten thy rest.',
+        'Francis Quarles',
     ],
-    '0862e9b4-483f-52e5-b919-4fe0d19b30e0' => [
-        'I\'m a huge sun baby. As soon as the sun comes out, my smile gets bigger, so I\'m constantly smiling in L.A. It\'s a fantastic place to be.',
-        'Ricky Whittle',
+    '02746e44-6bd0-5aa5-ad30-bcb5ebdda865' => [
+        'Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life.',
+        'A. P. J. Abdul Kalam',
     ],
-    '1b2b3a0d-6d98-5327-b8e0-c00b0f6e200e' => [
-        'Funny is funny. I dare anyone to look at Tim Conway and Harvey Korman doing the dentist sketch, which is more than 40 years old, and not scream with laughter.',
-        'Carol Burnett',
+    '11c51278-0e1b-5d0d-8d49-1b201ed33a7a' => [
+        'Just know that I was once considered just a dreamer... Then I paid my dues and turned so many doubters to believers...',
+        'Big K.R.I.T.',
     ],
-    'c4069250-a5ed-51f9-bea6-8633cbef1dd6' => [
-        'Work hard, be kind, and amazing things will happen.',
-        'Conan O\'Brien',
+    'b1c93d0d-8d0c-5857-9d44-1e221668dbf2' => [
+        'There are things that I can tell my friends that I just can\'t tell my family, just as far as how I\'m feeling about things. My friends know me the best in a certain way. I just think old friends are really, really important.',
+        'Jonathan Levine',
     ],
-    'c1b430c2-96f0-51bf-a3ee-b519cf772b70' => [
-        'Never deny a diagnosis, but do deny the negative verdict that may go with it.',
-        'Norman Cousins',
+    '904db4a3-a6d5-5410-8752-e673412e7e2d' => [
+        'Being busy with work, and as a mum, I\'m a big fan of online shopping.',
+        'Kirsty Gallacher',
     ],
-    '90bbdb29-7fed-5a14-84d1-027a640a306b' => [
-        'If you don\'t know where you are going, you will probably end up somewhere else.',
-        'Lawrence Peter',
+    '2c39d3e5-a5ff-57d5-82a1-f701c648ba52' => [
+        'Design can have such a positive impact on the way people live and on their relationships and moods.',
+        'Genevieve Gorder',
     ],
-    '56aad232-8b14-5763-883e-4a9cb679a6f1' => [
-        'The successful warrior is the average man, with laser-like focus.',
-        'Bruce Lee',
+    '83e088c0-d3fa-5a50-9a2f-e3e177149aa4' => [
+        'The happiness of the bee and the dolphin is to exist. For man it is to know that and to wonder at it.',
+        'Jacques Yves Cousteau',
     ],
-    '2621fa9d-d4d5-59bf-92b7-5282b3bf1c20' => [
-        'We can in fact first place the beam of rays of moving positive atomic ions in a plane perpendicular to the axis in which we see the spectral lines emitted by them.',
-        'Johannes Stark',
+    '116580f3-733c-5c2d-8bfb-e34662008324' => [
+        'All punk is is attitude. That\'s what makes it. The attitude.',
+        'Joey Ramone',
     ],
-    '6aeb1058-3c5a-57b2-a099-021812c77281' => [
-        'I was not a good-lookin\' girl. I was extremely skinny. I wasn\'t pretty. I wasn\'t cool.',
-        'Celine Dion',
+    '4483500f-4edd-5386-8952-b2c8f9411399' => [
+        'Creativity Is Intelligence Having Fun.',
+        'Albert Einstein',
     ],
-    'c79b7e6d-2419-5bef-ba7b-205e1f774853' => [
-        'When I have a terrible need of - shall I say the word - religion. Then I go out and paint the stars.',
-        'Vincent Van Gogh',
+    '75b8e35f-0b42-5938-83e3-a3466e4af32e' => [
+        'I do love to eavesdrop. It\'s inspirational, not only for subject matter but for actual dialogue, the way people talk.',
+        'Lynda Barry',
     ],
-    'bc408466-83df-5ace-9102-d8ab8d2969e5' => [
-        'Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.',
-        'Charles Eastman',
+    'c6fe6b30-e0ca-57f2-bdf9-817b2c51796f' => [
+        'I couldn\'t buy my way - I had to work my way. What a great quote: \'I couldn\'t buy my way into success, I had to work my way into success.\'',
+        'Stewart Rahr',
     ],
-    '0af1724e-018a-5cf6-9b50-af2f108824d4' => [
-        'One faces the future with ones past.',
-        'Pearl Buck',
+    'b325d41b-5a74-54d5-b128-fb059e20be3a' => [
+        'Perfection is not attainable, but if we chase perfection we can catch excellence.',
+        'Vince Lombardi',
     ],
-    '57755545-11ad-5ec9-924f-6548f27f6285' => [
-        'Women who stay true to themselves are always more interesting and beautiful to me: women like Frida Kahlo, Georgia O\'Keeffe and Anna Magnani - women who have style, chic, allure and elegance. They didn\'t submit to any standard of beauty - they defined it.',
-        'Isabella Rossellini',
+    'a9b3980a-8ce5-5a21-ac89-8890fef159b8' => [
+        'War is a game that is played with a smile. If you can\'t smile, grin. If you can\'t grin, keep out of the way till you can.',
+        'Winston Churchill',
     ],
-    '9f05e2b2-698a-5c0d-9dea-d5f4355d8011' => [
-        'The only way to work is to love what you do.',
+    'ffa7663e-fd3f-5d8f-9e91-24920fa2a50e' => [
+        'You cannot have a positive life and a negative mind.',
+        'Joyce Meyer',
+    ],
+    '296f2e2b-7447-538f-9e2c-19ad5839bdb5' => [
+        'The value of life lies not in the length of days, but in the use we make of them... Whether you find satisfaction in life depends not on your tale of years, but on your will.',
+        'Joyce Meyer',
+    ],
+    '4267762b-a307-506f-bf4c-2e9258c6a177' => [
+        'Enthusiasm is something so positive.',
+        'Carine Roitfeld',
+    ],
+    '11ddc251-543d-59c5-8248-1239f95fa0bd' => [
+        'Happiness is found in doing, not merely possessing.',
+        'Napoleon Hill',
+    ],
+    '5396dc45-6c03-525a-949f-0adcae70553c' => [
+        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.',
+        'Helen Keller',
+    ],
+    '2e272d75-c6fe-5db4-96f8-c10e1c26da4f' => [
+        'Living with anyone for many years takes skill. To keep peace in the household, couples learn to adapt to one another, hopefully in positive ways.',
+        'Diane Ackerman',
+    ],
+    '3c8ac793-1a58-5250-8167-3ef1b0385a1d' => [
+        'Desire is the key to motivation, but it\'s the determination and commitment to unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
+        'Mario Andretti',
+    ],
+    '6a0f956d-1c40-5ce9-973e-6c26a7a0a465' => [
+        'The beauty, the poetry of the fear in their eyes. I didn\'t mind going to jail for, what, five, six hours? It was absolutely worth it.',
+        'Johnny Depp',
+    ],
+    'a1499bae-f197-5c37-a42e-22faceb906c7' => [
+        'In order to succeed you must fail, so that you know what not to do the next time.',
+        'Anthony J. D\'Angelo',
+    ],
+    'c8d77a9e-efc8-54c5-9e13-ee041076274d' => [
+        'At home in L.A., Sunday is lazy. It\'s the wife and me lying in bed with coffee, watching \'The Soup\' or something funny on TiVo. The kid will occasionally join us. Eventually, breakfast is at a place down the street called Paty\'s. And we always have some kind of great dinner - my wife makes a great roast beef.',
+        'Eric McCormack',
+    ],
+    '7cbbe5dd-94c4-5892-af11-c8fef9a72fb0' => [
+        'The truest greatness lies in being kind, the truest wisdom in a happy mind.',
+        'Ella Wilcox',
+    ],
+    '882989f7-b167-5396-b1b9-c6a8d22877fd' => [
+        'If you go through life, and you don\'t find the beauty in an unexpected place, then you really have a sad existence.',
+        'Octavia Spencer',
+    ],
+    'b9aecd0f-207c-5740-b9c9-29a5f06d51a1' => [
+        'My father was a psychiatrist, the medical director of a mental hospital in Scotland, and when I was a student, I took vacation jobs there as a nursing assistant. So I did get to see mental illness, but I don\'t remember conversations about mental conditions. My father was a cheerful man with a robust attitude to such things.',
+        'Morag Joss',
+    ],
+    'd7acf25d-ee3d-59e0-9092-4e6b1d40f77b' => [
+        'A vegetarian is a person who won\'t eat anything that can have children.',
+        'David Brenner',
+    ],
+    '8834a8ec-9c4a-5a4c-a7b6-6c33ef2aafc0' => [
+        'There\'s so much to appreciate about my life every single day, and I make a big point of taking time to smell the roses and noticing how lucky I am. I never want to take that for granted.',
+        'Josie Maran',
+    ],
+    'aaf38a4c-0a7a-5d80-a55f-bbea3bfb2661' => [
+        'Attitude and enthusiasm play a big part in my life. I get excited about the things that inspire me. I also believe in laughing and having a good time.',
+        'Dwayne Johnson',
+    ],
+    '61f6785e-fdb8-55b5-a8e2-c81e8b5225a7' => [
+        'Anyone who says they\'re not afraid at the time of a hurricane is either a fool or a liar, or a little bit of both.',
+        'Anderson Cooper',
+    ],
+    'bd393e77-f0c9-5fe4-8ac2-2d584ba760e0' => [
+        'Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.',
+        'Thomas Carlyle',
+    ],
+    '472177f6-61c8-5d87-8fba-942bc5c30a32' => [
+        'We must balance conspicuous consumption with conscious capitalism.',
+        'Kevin Krus',
+    ],
+    '12e98733-d4ff-558e-8021-b370059489d3' => [
+        'You should tell yourself frequently \'I will only react to constructive suggestions.\' This gives you positive ammunition against your own negative thoughts and those of others.',
+        'Jane Roberts',
+    ],
+    '1f564afa-3a8c-57c6-aedc-532dbbcc4321' => [
+        'I completely agree that a sound sleep is the best beauty product. Sound sleep, one of the most important but underrated thing, helps to make you more beautiful. I can never understand how people work so hard that they miss out on their sleep.',
+        'Shraddha Kapoor',
+    ],
+    '9a57b5a0-fc3e-56d7-914b-7eab5f6a8e6c' => [
+        'When I started out the videos, I was dealing with depression, and I wanted to make inspiring videos for others, which would end up inspiring me in turn. I wanted to show the world that it was possible to make a positive switch in life and start over.',
+        'Lilly Singh',
+    ],
+    '35555fd4-3043-50f5-a849-cc0972441cfd' => [
+        'Today, people idolize athletes and celebrities - and yes, highly successful and visionary business people like Bill Gates or Steve Jobs, but not the innovators who perhaps have not seen such high-flying levels of success. Can anyone name the inventors of GPS, which has such a huge impact on our lives today?',
+        'Naveen Jain',
+    ],
+    '886d36fd-ef0a-59b2-87ca-ef12dcc113e6' => [
+        'Any authentic work of art must start an argument between the artist and his audience.',
+        'Rebecca West',
+    ],
+    'de985828-a2ed-5685-b8f6-254f3dadc8b7' => [
+        'The best cure for the body is a quiet mind.',
+        'Napoleon Bonaparte',
+    ],
+    '7c9ea09e-3d5e-5eb2-84a7-05ea7798d9c6' => [
+        'Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.',
+        'Washington Irving',
+    ],
+    'd2118992-0c09-58fe-b50d-428b021fee7d' => [
+        'I firmly believe that unless one has tasted the bitter pill of failure, one cannot aspire enough for success.',
+        'A. P. J. Abdul Kalam',
+    ],
+    'f6b91eeb-f381-53c3-a31c-ff93ce025ca8' => [
+        'The Western day is indeed nearing when the inner science of self-control will be found as necessary as the outer conquest of nature. This new Atomic Age will see men\'s minds sobered and broadened by the now scientifically indisputable truth that matter is in reality a concentrate of energy.',
+        'Paramahansa Yogananda',
+    ],
+    'e9f2da03-749a-54ca-8c4e-d85226193f81' => [
+        'No one wants to die. Even people who want to go to heaven don\'t want to die to get there. And yet death is the destination we all share. No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life. It is Life\'s change agent. It clears out the old to make way for the new.',
         'Steve Jobs',
     ],
-    '90c4ac71-dc41-5add-a581-91798375f82e' => [
-        'Within the hearts men, loyalty and consideration are esteemed greater than success.',
-        'Bryant H. McGill',
+    '20250bcd-e14c-50db-b9fd-770add1704c4' => [
+        'The way to get started is to quit talking and begin doing.',
+        'Walt Disney',
     ],
-    '17eb5af1-929e-5eb6-884d-b3c01d1f2235' => [
-        'There is not one big cosmic meaning for all, there is only the meaning we each give to our life.',
-        'Anais Nin',
-    ],
-    '47df86df-9654-51cd-a8b2-7fac65555bbc' => [
-        'Best way to get rid of kitchen odors: Eat out.',
-        'Phyllis Diller',
-    ],
-    '69ec3981-b227-5dc8-a864-c5081bb6ded1' => [
-        'Inside, I\'ve got a real purist desire and dream about the music. I like the idea of being able to carve out a kind of magical, colourful, artistic, inspirational life. And the reality just turns out to be quite different, working with the business to bring this thing you have created into the world.',
-        'Damien Rice',
-    ],
-    '52f43a77-0259-570e-896f-e06d3a39561f' => [
-        'Even when I\'m sick and depressed, I love life.',
-        'Georgia O\'Keeffe',
-    ],
-    '252be14c-a22f-53f3-a713-b28fbeeb0a64' => [
-        'Everyone smiles in the same language.',
-        'Unknown',
-    ],
-    'c684e7be-8625-5229-ab19-408a364df9f9' => [
-        'Battle is the most magnificent competition in which a human being can indulge. It brings out all that is best; it removes all that is base. All men are afraid in battle. The coward is the one who lets his fear overcome his sense of duty. Duty is the essence of manhood.',
-        'George S. Patton',
-    ],
-    'bcf0d1f6-2bb7-521e-8e8d-963d21373154' => [
-        'But little white lies here and there is human nature. Everybody does that.',
-        'Lucy Hale',
-    ],
-    '0aa6a128-f406-52f1-a26f-ae59cdd62f79' => [
-        'If you\'re going to kill someone there isn\'t much reason to get all worked up about it and angry - you just pull the trigger. Angry discussions beforehand are a waste of time. We need to smile at Novell while we pull the trigger.',
-        'Jim Allchin',
-    ],
-    '4c191f7e-f7c0-5acf-952d-a87a3a766d7e' => [
-        'Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.',
-        'Cadet Maxim',
-    ],
-    '77e3bf48-3b4d-5ddc-a391-7bec20d25890' => [
-        'The attitude of the Democrat Party is that wherever there are Republicans they are so bad, they are so discriminatory, they are so racist, they\'re so bigoted, they\'re just such reprobates that we can\'t afford to let them have any say whatsoever in what\'s happening.',
-        'Rush Limbaugh',
-    ],
-    '1e3ac613-0d92-5e14-8873-454a91ef6924' => [
-        'So is cheerfulness, or a good temper, the more it is spent, the more remains.',
-        'Ralph Emerson',
-    ],
-    '3b4596d5-488b-50fd-88e2-1131c425f4cf' => [
-        'A word to the wise is infuriating.',
-        'Hunter S. Thompson',
-    ],
-    '1d325d04-c9f7-5816-984e-3aa18f1ab6f7' => [
-        'It has never been my object to record my dreams, just to realize them.',
-        'Man Ray',
-    ],
-    '967d0921-d7bb-54fb-9e65-3c33728e0a7f' => [
-        'If I were two-faced, would I be wearing this one?',
-        'Abraham Lincoln',
-    ],
-    '5283671a-560a-5217-b240-0a5c32495aba' => [
-        'Expert: a man who makes three correct guesses consecutively.',
-        'Laurence J. Peter',
-    ],
-    'dc3ae454-e2eb-5fe9-8c98-1427807ca0e6' => [
-        'Even as a little child, I\'ve always had that comedian kind of attitude.',
-        'Etta James',
-    ],
-    '34a74e5c-f29a-5b86-9edd-57c121053768' => [
-        'The way to Heaven is ascending; we must be content to travel uphill, though it be hard and tiresome, and contrary to the natural bias of our flesh.',
-        'Jonathan Edwards',
-    ],
-    '9b2b790a-50dd-57ba-89a7-911c09595476' => [
-        'We must develop and maintain the capacity to forgive. He who is devoid of the power to forgive is devoid of the power to love. There is some good in the worst of us and some evil in the best of us. When we discover this, we are less prone to hate our enemies.',
-        'Martin Luther King, Jr.',
-    ],
-    '900b14fa-99d3-5514-ba79-04ce3a73e689' => [
-        'I never get enough sleep, even when I travel. I wake up in the middle of the night, either with the help of my kids or because my mind is going. I wish I got eight hours a night, but it is more like an interrupted six or seven. The secret is to go to sleep well before midnight.',
-        'Summer Sanders',
-    ],
-    '13012bd7-9edf-5d1d-9bb8-cb6f5df00578' => [
-        'Don\'t stay in bed, unless you can make money in bed.',
-        'George Burns',
-    ],
-    '4ae96935-a665-50e2-ba38-6ef984ec592e' => [
-        'I used to travel in tennis shoes; I am just not allowed to anymore. I\'m an old hippie from San Francisco.',
-        'Amy Irving',
-    ],
-    '7bc95bde-e76c-57de-8ed8-024b8a63abf9' => [
-        'The two things I was positive about in life were that I was going to be a teacher at a boarding school or an operative with the CIA posted abroad. I could write a book about all the things I was sure about.',
-        'Tucker Carlson',
-    ],
-    'e8335378-9853-5bcd-b9d0-f473ff7a5073' => [
-        'Tension is who you think you should be. Relaxation is who you are.',
-        'Chinese proverb',
-    ],
-    'c371f028-9afa-58ae-86cf-b32e548c9397' => [
-        'My Hellboy is modeled on my father in some ways: a guy who\'s been in the Korean War, and he\'s traveled, and he\'s done a lot of stuff, and he\'s kind of got a been there, done that attitude. He\'s also been in the world. Del Toro\'s change was to have Hellboy bottled up in a room and mooning over the girl he can\'t have.',
-        'Mike Mignola',
-    ],
-    '0feffa18-4bc9-5582-bc3b-c66fe69839db' => [
-        'In family relationships, \'love\' is really spelled \'t-i-m-e,\' time. Taking time for each other is the key for harmony at home.',
-        'Dieter F. Uchtdorf',
-    ],
-    '2b9c5edd-77e2-595b-b1aa-33b59998f967' => [
-        'In order to win, you must expect to win.',
-        'Richard Bach',
-    ],
-    '04dd8ce6-90ac-5081-b745-f17162ad24bd' => [
-        'There is no royal road to anything, one thing at a time, all things in succession. That which grows fast, withers as rapidly. That which grows slowly, endures.',
-        'Josiah Gilbert Holland',
-    ],
-    '0c769f91-671a-54a3-ae52-c5042eabd502' => [
-        'We are presented with a unique situation in the black community in that we have embraced the beauty of hip hop, the real rawness of it, the real fun of it, but we also have to address the damage it has done. We have to look at what it\'s done to our black girls, especially when it comes to domestic violence.',
-        'Tamron Hall',
-    ],
-    '5d77fdb1-aad6-59cc-8223-7b6ebb8e7545' => [
-        'I believe that when you work on yourself, you are attracted by different, more positive beings.',
-        'Isabelle Adjani',
+    '8e33528c-39e1-5946-b192-11b39c0d44cf' => [
+        'Economic medicine that was previously meted out by the cupful has recently been dispensed by the barrel. These once unthinkable dosages will almost certainly bring on unwelcome after-effects. Their precise nature is anyone\'s guess, though one likely consequence is an onslaught of inflation.',
+        'Warren Buffett',
     ],
 ];

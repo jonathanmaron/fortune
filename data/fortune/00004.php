@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'e2905699-fc66-59d3-b24d-e36b8d5c46e9' => [
-        'If I have free time, I want to go to the beach, walk around a shopping mall, go grocery shopping. Live a little bit of life.',
-        'James Wan',
+    '2cb582a1-5381-5eaa-a4bd-844790ff9157' => [
+        'When I travel, I love speaking to women around the world about the things that inspire them, the fashions they like, what makes something good and what would make it even better.',
+        'Maria Sharapova',
     ],
-    '25495c84-1b91-5584-9aa5-bb34ebb8ae12' => [
-        'Beauty is only skin deep.',
-        'Thomas Overbury',
+    'e29d5b9c-a116-5784-8d77-5fff83ea007e' => [
+        'Sometimes a good love song can change the world and create positive energy more than any political song can.',
+        'Serj Tankian',
     ],
-    '77819147-735c-528c-87ae-f591ea953524' => [
-        'I read \'The Great Gatsby\' in high school and was hypnotized by the beauty of the sentences and moved by the story about the irrevocability of lost love.',
-        'Tom Perrotta',
+    '1d32635d-7b14-5977-aab4-b2c0d0206d9b' => [
+        'If your work requires you to travel, you will understand that there\'s no vacation destination like home.',
+        'Park Chan-wook',
     ],
-    '1313053c-947a-5934-9f92-3bf6d1549cdc' => [
-        'The harder I work, the luckier I get.',
-        'Samuel Goldwyn',
+    '853fcf73-2265-5da4-ba18-f1ea9d4f762f' => [
+        '\'All in With Laila Ali\' is educational, inspirational, compelling programming profiling individuals that have reached for the sky, pushed themselves to the limit and did things that you would think were impossible.',
+        'Laila Ali',
     ],
-    '4c3cd93b-49ab-5b18-96ef-5f1cc7be9987' => [
-        'Failure is only postponed success as long as courage \'coaches\' ambition. The habit of persistence is the habit of victory.',
-        'Herbert Kaufman',
+    '81295dd9-cc0d-56dc-9522-e710d3ea9893' => [
+        'Begin, be bold, and venture to be wise.',
+        'Horace',
     ],
-    '995b993d-4e34-5554-b87d-875c70e760cd' => [
-        'For me, fragrances are very - one of these beautiful art forms that bring about a whole host of things. It\'s what you want to smell like, it\'s memories that make you smile or are resonant of times in your life, it can remind you of music. If you\'re a lover of scent, it\'s a very kind of particular and evocative thing.',
-        'Chris Pine',
+    'b9ace851-7fab-5fae-8aa7-0b60a270f3e3' => [
+        'I\'m taking all the negatives in my life, and turning them into a positive.',
+        'Pitbull',
     ],
-    'cf61a2a2-e694-5226-8543-a02a76acdd66' => [
-        'Love is what really fuels you, and that goes for relationships with a spouse or with family. Love is a beautiful thing.',
-        'Christina Milian',
+    'ede73c6d-7b27-51d9-8480-1759b93b4f39' => [
+        'Loneliness is my least favorite thing about life. The thing that I\'m most worried about is just being alone without anybody to care for or someone who will care for me.',
+        'Stevie Wonder',
     ],
-    'c9255e51-8af7-5005-91a2-0aa43d68053b' => [
-        'Enhance and intensify one\'s vision of that synthesis of truth and beauty which is the highest and deepest reality.',
-        'Ovid',
+    '5bde6eab-c729-53a4-a9df-1d57bd61317e' => [
+        'I can assure you that I\'m not very close to Hillary Clinton. I think she\'s disqualified herself from Commander-in-Chief by her cavalier attitude towards our nation\'s secrecy laws.',
+        'Tom Cotton',
     ],
-    '4ed82de5-2fd0-5ca0-b12d-b5ede96b7e76' => [
-        'Never measure the height of a mountain until you have reached the top. Then you will see how low it was.',
-        'Dag Hammarskjold',
+    '97d38afd-56fa-5a6a-b478-3bf5b5ace4e2' => [
+        'At the end of the day, life is about being happy being who you are, and I feel like we are so blessed to have the support system and the best family to really just support each other no matter what we\'re going through.',
+        'Benjamin Franklin',
     ],
-    '89255b3e-c997-5f26-915e-9e39f468f5dc' => [
-        'I get tired of comedies where there are a bunch of funny guys and a beautiful woman who doesn\'t do anything funny. And I don\'t like books where there\'s a rough-and-tumble boy and a really clever, snotty girl. That\'s just not my experience with teenagers.',
-        'Patrick Ness',
+    '2737a803-5943-513a-b958-4c6c4476d01f' => [
+        'I showed what I can do with butter, right? Eighty-five percent increase in sales. I\'m very proud of them Country Life ads. They were funny and clever and classy like the Toblerone ads I grew up with.',
+        'John Lydon',
     ],
-    'fd88f5c7-e904-5060-aa70-ae00cc9ffe5f' => [
-        'I like motivational books, because I like the go-getting American spirit - your destiny is in your own hands, life is what you make it, don\'t accept your limitations, jump before you\'re pushed, leap before you look.',
-        'Louise Mensch',
-    ],
-    '607b59fc-2a00-5462-a0bd-7a33b3dbc134' => [
-        'Earth is a flower and it\'s pollinating.',
-        'Neil Young',
-    ],
-    '69ccf769-9e35-553e-9621-1d76c7d963dd' => [
-        'If you don\'t like me, if you like me; both are equally cool. I send love and positive energy to all those people in their lives. I hope they find where they\'re meant to be.',
-        'Willow Smith',
-    ],
-    '7f9fb11c-6f62-5dc6-9bae-088b6160f897' => [
-        'I may not have proved a great explorer, but we have done the greatest march ever made and come very near to great success.',
-        'Robert Falcon Scott',
-    ],
-    '0277be2c-310b-5fce-b5f5-d84f89fa8719' => [
-        'The \'Aladdin\' thing - that\'s not work; that\'s just fun. Three days in the recording studio going mad, then the animators do all the work. Not a bad way to cash a large check, my friend.',
+    '08a4bbfb-bd6c-5cf4-a9a1-c68cd0425527' => [
+        'Spring is nature\'s way of saying, \'Let\'s party!\'',
         'Robin Williams',
     ],
-    'b7101f39-d023-5a12-b2f6-f672fc0c8ba9' => [
-        'No one really wants to admit they are lonely, and it is never really addressed very much between friends and family. But I have felt lonely many times in my life.',
-        'Bill Murray',
+    '5f279f99-7b06-54a5-b628-fb244c662347' => [
+        'Success to me is having ten honeydew melons and eating only the top half of each slice.',
+        'Barbra Streisand',
     ],
-    '4b4897c4-6f4d-52e2-8e77-5301e58d7c7a' => [
-        'There is a Japanese proverb that literally goes \'Raise the sail with your stronger hand\', meaning you must go after the opportunities that arise in life that you are best equipped to do.',
-        'Soichiro Honda',
+    '806abd8a-360e-51ed-9782-7c7f82ce15da' => [
+        'I think there should be a good balance between being a good student and being able to enjoy your high school life.',
+        'Danny Meyer',
     ],
-    'a5a5e0f2-13cc-5f85-9af7-82cf57e66d8c' => [
-        'What beauty is, I know not, though it adheres to many things.',
-        'Albrecht Durer',
+    'd85fac80-f2ba-57c8-9231-fb6c5d60fa53' => [
+        'Once again, we come to the Holiday Season, a deeply religious time that each of us observes, in his own way, by going to the mall of his choice.',
+        'Dave Barry',
     ],
-    'e5a4e033-449e-5e5c-bd6a-5c8c2205ba4c' => [
-        'Nothing is so strong as gentleness. Nothing is so gentle as real strength.',
-        'Frances de Sales',
+    'e13b8b70-4117-56d4-a149-761ed9a6c69f' => [
+        'It\'s funny when people say, \'I don\'t think Julia likes me.\' Honey, if I don\'t like you, you\'re going to know about it.',
+        'Julia Roberts',
     ],
-    '9545cd07-0fc4-5a5f-8728-a8e690f214ea' => [
-        'You cannot allow your desire to be a winner to be diminished by achieving success before and I believe there is room for improvement in every sportsman.',
-        'Lionel Messi',
+    'cc0c6079-3119-5dd7-bae0-9f7ceb1f22a0' => [
+        'By understanding and harnessing the forces that drive human behavior, you can create a self-sustaining philanthropic effort that reaches millions of people. It begins with an entrepreneurial attitude: take an idea and execute on that idea. If it doesn\'t work, learn why and build on what you\'ve learned.',
+        'Naveen Jain',
     ],
-    '538603cd-ecfd-520d-9571-a8eb29e1c019' => [
-        'It\'s also a question of finding good material and interesting roles. I\'m not the only actress out there, and good parts just don\'t fall into your lap that easily. But I like most of the films I\'ve made recently and so I\'m pretty positive about the future.',
-        'Winona Ryder',
+    'aecd9b17-7d65-528c-a1c2-30b8a2977de9' => [
+        'Sooner or later, those who win are those who think they can.',
+        'Richard Bach',
     ],
-    '07058875-eea9-527a-a6f6-82481460b8df' => [
-        'Whenever I think of the high salaries we are paid as film actors, I think it is for the travel, the time away, and any trouble you get into through being well known. It\'s not for the acting, that\'s for sure.',
-        'Bill Murray',
+    '155f1a91-3ee6-5aec-924c-e96eaf212397' => [
+        'Women are so unforgiving of themselves. We don\'t recognize our own beauty because we\'re too busy comparing ourselves to other people.',
+        'Kelly Osbourne',
     ],
-    'c970df66-0f32-594f-88d8-0f415e597751' => [
-        'I think the most fun part about working on \'Good Luck Charlie\' is spending time with everyone, honestly, because everybody on set is like my brother and sister and mom and dad. They\'re so fun to be around, so that\'s probably the best part about working there.',
-        'Bradley Steven Perry',
+    'bbf76fbd-9456-5649-997a-a2a8f557d776' => [
+        'Winning isn\'t everything, it\'s the only thing.',
+        'Vince Lombardi',
     ],
-    'c90c3ea4-28ef-5b7f-a6ae-e8b8f81f0cd9' => [
-        'People often say that motivation doesn\'t last. Well, neither does bathing--that\'s why we recommend it daily.',
-        'Zig Ziglar',
+    'cb781aba-2d9a-5b8b-98a8-982741a2877b' => [
+        'Everybody is vulnerable to being in relationships where they get fooled. I\'m no different. It\'s just human nature.',
+        'Michelle Pfeiffer',
     ],
-    'c0f477be-d6fb-58d8-ba5a-67894016b07a' => [
-        'By coincidence and not design, \'Everstar\' is written and drawn by an all-female creative team, and it makes me smile to think that there may be young female readers out there, future writers and artists, who get to see that comics doesn\'t have to be a \'boys\' club.\'',
-        'Mark Waid',
+    '9f131866-32d6-5cd7-b687-be027fe9895d' => [
+        'The regret of my life is that I have not said \'I love you\' often enough.',
+        'Philip Emeagwali',
     ],
-    '90654589-e7aa-50d6-8d63-3aa6c638d355' => [
-        'There are one hundred men seeking security to one able man who is willing to risk his fortune.',
-        'J. Paul Getty',
+    '9740f603-a08e-51cd-839d-ec3a0ffcc3af' => [
+        'Life is difficult for everyone; everyone has bad days. Everyone has trouble in their life, because it doesn\'t matter how rich you are: Sickness and trouble and worry and love, these things will mess with you at every level of life.',
+        'Robin Williams',
     ],
-    '40b7d16f-6719-593a-b535-145058851be8' => [
-        'We all romanticize the people we adore.',
-        'John Green',
+    'beb60ed5-a992-5750-a042-2d356f5659a6' => [
+        'Self-complacency is fatal to progress.',
+        'Margaret Sangster',
     ],
-    '882f9331-1e62-5abe-aae4-94ad5b7e49eb' => [
-        'Remembering a wrong is like carrying a burden on the mind.',
+    '2b103a24-64fe-59a8-9b32-931856d725d2' => [
+        'We don\'t need bigger cars or fancier clothes. We need self-respect, identity, community, love, variety, beauty, challenge and a purpose in living that is greater than material accumulation.',
+        'Donella Meadows',
+    ],
+    '24aee97f-688d-54ed-a0af-90eb1621b730' => [
+        'Obviously, a long-distance relationship is hard. But, like anything worth having, you make it work.',
+        'Leona Lewis',
+    ],
+    'b7d19e36-f32e-54ec-8e5c-5eebe5242c37' => [
+        'Until you make peace with who you are, you will never be content with what you have.',
+        'Doris Mortman',
+    ],
+    '3f1fb0d1-9830-5a0f-9116-98637b5d82a0' => [
+        'Life is a long lesson in humility.',
+        'Dr. Seuss',
+    ],
+    '8be86086-a261-5d59-ae93-f59f7502411d' => [
+        'I don\'t like the word \'balance.\' To me, that somehow conjures up conflict between work and family... as long as we think of these things as conflicting, we will never have happiness. True happiness comes from integration... of work, family, self, community.',
+        'Padmasree Warrior',
+    ],
+    'e94f92ac-00f4-5474-b0dd-c52bb87cd336' => [
+        'Even Napoleon had his Watergate.',
+        'Yogi Berra',
+    ],
+    '19402a81-c2ee-513c-abec-5448455d3ad5' => [
+        'We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon.',
+        'George W. Bush',
+    ],
+    '256f78de-82a8-51e6-bc17-2efa0f63b1fc' => [
+        'Smile, it\'s free therapy.',
+        'Douglas Horton',
+    ],
+    'b6a9ff0e-414d-542c-8802-8849c3a1d2db' => [
+        'The Lord gave us two ends - one to sit on and the other to think with. Success depends on which one we use the most.',
+        'Ann Landers',
+    ],
+    '4c39b118-e22a-5977-af8d-21ac06c5e8cc' => [
+        'It really depends, but, generally speaking, just because of the mechanics of it, voice-over is easier because there is no hair, no makeup, no wardrobe, no fittings, no line memorizing. You don\'t have to me woken up in Russia at 6 in the morning and go film a scene. It\'s just easier on the body, the family life to do voice-overs.',
+        'Kathy Najimy',
+    ],
+    '58c91a84-5ca8-5352-a087-b433d9aaa804' => [
+        'Life has loveliness to sell, all beautiful and splendid things, blue waves whitened on a cliff, soaring fire that sways and sings, and children\'s faces looking up, holding wonder like a cup.',
+        'Sara Teasdale',
+    ],
+    'fd003f87-737f-59dd-8b35-19cc7d6ee1fb' => [
+        'I came to America with a dream and I made it. The dream became reality. America is built for success.',
+        'Jean-Claude Van Damme',
+    ],
+    '455b8ef0-8391-52d9-8bf0-6b3551fcd89d' => [
+        'Our greatest glory is not in never falling, but in rising every time we fall.',
+        'Confucius',
+    ],
+    '87de3056-34db-5dd9-b068-ff3fb113b29b' => [
+        'Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.',
+        'Henry James',
+    ],
+    '4e264e9c-d385-5bc0-ba97-a769c89170bc' => [
+        'Act like you expect to get into the end zone.',
+        'Christopher Morley',
+    ],
+    '83add67b-0441-5e75-ac0e-1a3098a9b03a' => [
+        'All that we are is the result of what we have thought. The mind is everything. What we think we become.',
         'Buddha',
     ],
-    'ff4128cc-f673-5fb2-9f07-54a28af705fa' => [
-        'Hawaii is a beautiful place to bring up a family.',
-        'Henry Ian Cusick',
+    'dde59d2b-7db7-5a1e-b139-ee62937ef794' => [
+        'So long as a person is capable of self-renewal they are a living being.',
+        'Henri-Frederic Amiel',
     ],
-    '2747b118-eb5c-5c2f-ab7d-9aa9d03b560f' => [
-        'Permanent success cannot be achieved except by incessant intellectual labour, always inspired by the ideal.',
-        'Sarah Bernhardt',
+    '849e6f38-6c29-5d9e-8ab6-95bf88835dff' => [
+        'I think writing is really about a journey of understanding. So you take something that seems very far away, and the more you write about it, the more you travel into it, and you see it from within.',
+        'Pico Iyer',
     ],
-    '2e4cc191-e3ca-5948-a8e0-b29366da9690' => [
-        'I\'m human, I\'m not perfect. I make mistakes all the time, but I guess my job is to keep those mistakes to myself, which I\'m already fine doing and just try to be the best I can be for those kids.',
-        'Selena Gomez',
+    'bf58cb7e-ea4c-5f5f-8a4b-ed2a3615cc6b' => [
+        'No act of kindness, no matter how small, is ever wasted.',
+        'Aesop',
     ],
-    'e8c2378c-5e5d-5f5c-a434-bbb46cadb483' => [
-        'Sexy in India is not considered positive. But, with today\'s crop of fresh faces in the modelling arena, being sexy is an asset.',
-        'Aishwarya Rai Bachchan',
+    '24146f86-67bf-5c7e-9bef-b28315f19e66' => [
+        'I\'d like to get out of Philadelphia. I don\'t care for the people or their attitude, although they don\'t bother me or my play. But maybe the Phillies can get a couple of broken bats and shower shoes for me.',
+        'Richie Allen',
     ],
-    '781661b1-7c01-53e8-a9dd-a9bbfbc4b2f8' => [
-        'If a person can be said to have the wrong attitude, there is no need to pay attention to his arguments.',
-        'John McCarthy',
+    '5ce3a125-073e-5467-8efa-92032bdef61e' => [
+        'I don\'t care what the haters and naysayers say. If they make jokes about me, I\'ll laugh because they\'ll probably be funny.',
+        'Paula Deen',
     ],
-    '6a72f67d-c41e-5258-889c-cac2ed48b46f' => [
-        'Look at anyone\'s bookcase at home, no matter how modest, and you\'re going to find a book that contains wisdom or ideas or a language that\'s at least a thousand years old. And the idea that humans have created a mechanism to time travel, to hurl ideas into the future, it sort of bookends. Books are a time machine.',
-        'Jonathan Nolan',
+    '435aca90-21dc-5331-9eef-b3f86ea34131' => [
+        'If you spend too much time thinking about a thing, you\'ll never get it done',
+        'Bruce Lee',
     ],
-    'bd5562bd-b135-5742-9cb1-5387c5144d14' => [
-        'Sometimes success means having the right idea in the right place at the right time. Other times, it\'s about not being afraid to quit and move onto something new.',
-        'John Rampton',
+    '7b9d6dc5-325d-5aa3-b60b-1429a502968c' => [
+        'There is no force like success, and that is why the individual makes all effort to surround himself throughout life with the evidence of it; as of the individual, so should it be of the nation.',
+        'Marcus Garvey',
     ],
-    '61a35206-47fc-5362-9352-7597f6acb48a' => [
-        'Saudi Arabia has stability. The social contract and the political contract between the king and the rulers and the royal family and the ruled people in Saudi Arabia is very strong and the bondage is so solid.',
-        'Al-Waleed bin Talal',
+    '932ed9de-52de-5c1a-a7cc-e06be4979f58' => [
+        'Sure we\'re in limos. We\'re stars. How else is a star supposed to travel?',
+        'Deion Sanders',
     ],
-    '6c789653-4fbc-57f2-82b1-d1d578e24f3e' => [
-        'Tramping is too easy with all this money. My days were more exciting when I was penniless and had to forage around for my next meal... I\'ve decided that I\'m going to live this life for some time to come. The freedom and simple beauty of it is just too good to pass up.',
-        'Christopher McCandless',
+    '3ff7c9c7-6ef0-5830-a402-b1afecd9bbf0' => [
+        'In a balanced organization, working towards a common objective, there is success.',
+        'Arthur Helps',
     ],
-    'ce4bde43-5b6f-5cc3-85ef-c798f430c091' => [
-        'To so enter into it in nature and art that the enjoyed meanings of life may become a part of living is the attitude of aesthetic appreciation.',
-        'George Herbert Mead',
+    'e846dd14-e920-5f2b-ba31-0cb2fe560c9e' => [
+        'I think that giving mindless praise is ridiculous. But I understand why parents do it. They want their kids to feel good about themselves. But parents are never going to teach their children true, positive self esteem by praising everything they do.',
+        'Rosalind Wiseman',
     ],
-    '8c4583d8-e6eb-54f1-a267-3e041d2b2c59' => [
-        'It is conventional to call \'monster\' any blending of dissonant elements. I call \'monster\' every original inexhaustible beauty.',
-        'Alfred Jarry',
-    ],
-    '5da93d56-838e-5bfa-b9fe-8ab1573b104b' => [
-        'My ideal travel companions are my surfboard, wetsuit, and guitar.',
-        'Alexander Ludwig',
-    ],
-    'e5bc498b-afc4-57a8-b7ac-21b931f6011e' => [
-        'There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.',
-        'Epictetus',
-    ],
-    'd6cd259c-0347-5e84-968e-a04bf6dd7945' => [
-        'The Negro race, like all races, is going to be saved by its exceptional men. The problem of education, then, among Negroes must first of all deal with the Talented Tenth; it is the problem of developing the Best of this race that they may guide the Mass away from the contamination and death of the Worst, in their own and other races.',
-        'W. E. B. Du Bois',
-    ],
-    'a6776c8c-20f8-5713-9c77-01bcf9a0a9eb' => [
-        'I really believe you can predict when someone has a great attitude, a real well of talent.',
-        'Taylor Hackford',
-    ],
-    '33b00101-99f1-5f82-bba1-da8c5bc41629' => [
-        'Travel, which was once either a necessity or an adventure, has become very largely a commodity, and from all sides we are persuaded into thinking that it is a social requirement, too.',
-        'Jan Morris',
-    ],
-    'f38c394e-238f-5e13-a897-6b2886fd6867' => [
-        'The world doesn\'t happen to you it happens from you.',
-        'Unknown',
-    ],
-    'fda89a8e-19db-5d76-8790-587ec263685a' => [
-        'Experience hath shewn, that even under the best forms of government those entrusted with power have, in time, and by slow operations, perverted it into tyranny.',
-        'Thomas Jefferson',
-    ],
-    '65bb36ea-f975-5b43-afdf-713a63cdaadf' => [
-        'You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement and, at the same time, share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful.',
-        'Marie Curie',
-    ],
-    '4d64ef9c-2bde-5cc1-ba14-c09590158168' => [
-        'The only thing I hated about the agency business was a lot of business travel. It was the only part of my job that I did not like. I found it very tedious and wearing.',
-        'Donny Deutsch',
-    ],
-    '78661256-dd58-5bb4-8e1c-813df04557a2' => [
-        'Choosing to be positive and having a grateful attitude is going to determine how you\'re going to live your life.',
-        'Joel Osteen',
-    ],
-    'a64b5678-9666-5cf5-a5c1-26bd7138a268' => [
-        'There are movies that I love tonally, that I would love to emulate. Anything from Wes Anderson or the Coen brothers is right in my wheelhouse, as something that I would aspire to. I love that kind of indie, fun, colorful, funny, sweet, heartfelt but dark film.',
-        'Sam Huntington',
+    'cc0b1657-124a-5c7f-8289-c917f68ffafb' => [
+        'A woman can take care of the family. It takes a man to provide structure, to provide stability.',
+        'Tom DeLay',
     ],
 ];

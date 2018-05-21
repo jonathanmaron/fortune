@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'e42a8986-b9c4-5d05-bc55-db13061ac83a' => [
-        'The chief executive officer is also the chief sales officer. He or she is responsible for the success of the company and making a profit. The closer the CEO is to the everyday selling process, bringing in business, the more successful the company will become.',
-        'Jeffrey Gitomer',
+    'b33f907b-4735-5d9f-b5af-0b081b507ac6' => [
+        'A bland smile is like a green light at an intersection, it feels good when you get one, but you forget it the moment you\'re past it.',
+        'Douglas Coupland',
     ],
-    'b9bcbf03-043d-5ccf-bb48-3505832ab08d' => [
-        'The worst thing about being the laureate has been the attitude of a tiny minority of adults who haven\'t liked some of the things I\'m supposed to have said and who have used it as an opportunity to be verbally abusive and nasty, but I haven\'t let it rule my world!',
-        'Malorie Blackman',
+    '246e6509-21b4-5180-9c33-a836c0910ce2' => [
+        'Tell me how a person judges his or her self-esteem, and I will tell you how that person operates at work, in love, in sex, in parenting, in every important aspect of existence - and how high he or she is likely to rise. The reputation you have with yourself - your self-esteem - is the single most important factor for a fulfilling life.',
+        'Nathaniel Branden',
     ],
-    'a5228adc-da1c-5741-ac1b-d8a5996a995b' => [
-        'It\'s not the style that motivates me, as much as an attitude of openness that I have when I go into a project.',
-        'Herbie Hancock',
+    '44c242c5-03fb-5ccf-987b-41b909319169' => [
+        'I need to be cheered up a lot. I think funny people are people who need to be cheered up.',
+        'Lynda Barry',
     ],
-    '4d96a195-5ef6-5d9e-a7e5-d6a7b98ec754' => [
-        'Making money is art and working is art and good business is the best art.',
-        'Andy Warhol',
+    'fd94a869-0af6-5f11-a39f-b0d0b72d5f57' => [
+        'About astrology and palmistry: they are good because they make people vivid and full of possibilities. They are communism at its best. Everybody has a birthday and almost everybody has a palm.',
+        'Kurt Vonnegut',
     ],
-    '9929aa0c-b01d-57e8-8658-c5247d5f49b3' => [
-        'The positive and negative poles of a battery create an electrical flow. The masculine and feminine poles between people create a flow of sexual energy in motion.',
-        'David Deida',
+    'b67b92c6-b343-5669-9a21-99f93516d4f6' => [
+        'But theater, because of its nature, both text, images, multimedia effects, has a wider base of communication with an audience. That\'s why I call it the most social of the various art forms.',
+        'Wole Soyinka',
     ],
-    '6435c7b6-ae92-53f1-9857-b482949e4283' => [
-        'The goal is not to get rich. The goal is to live rich.',
-        'Darren Hardy',
+    '14408201-5259-52b8-a668-285e33dfb378' => [
+        'Man is the unnatural animal, the rebel child of nature, and more and more does he turn himself against the harsh and fitful hand that reared him.',
+        'H. G. Wells',
     ],
-    'd95b9899-593f-511d-8a43-77589da3d0a3' => [
-        'I think a lot of the American people feel more than a little disappointed that the high-water mark for human exploration was 1969. The dream of human space travel has almost died for a lot of people.',
-        'Elon Musk',
+    '05bb0b6f-e254-5226-b0b4-162053fcbc4f' => [
+        'A guilty conscience needs to confess. A work of art is a confession.',
+        'Albert Camus',
     ],
-    'c1498fb0-12ae-5e50-855d-fa2c37b4cf8c' => [
-        'There\'s only one growth strategy: work hard.',
-        'William Hague',
+    '0c282ef0-5d61-5302-a3a8-8453ab5242be' => [
+        'The best thing about Berlin was that I got to be surrounded by people who pursue their ideas for themselves.',
+        'Agnes Obel',
     ],
-    '667773b5-d9f4-5c09-9b8c-1c29b4b025ff' => [
-        'Whenever I run into prejudice. I smile and feel sorry for them, and I say to myself, There\'s one more argument for birth control.',
-        'Freddy Fender',
+    '0a14e32c-e57d-5233-b5df-69ef25ebc253' => [
+        'You tell your kids that no matter what, you set your goals and you go for them. Whatever it is you achieve, never give up. You want your kids to have that good attitude, the confidence, and the will power to believe in themselves.',
+        'Joel Parkinson',
     ],
-    '5ab097dd-91b9-52bd-ab35-662752502bfe' => [
-        'The only thing to do with good advice is to pass it on. It is never of any use to oneself.',
-        'Oscar Wilde',
+    'aa12f3b5-9557-5db4-9618-f97a09b7a75a' => [
+        'Always remember that striving and struggle precede success, even in the dictionary.',
+        'Sarah Ban Breathnach',
     ],
-    'af216ed1-8d0b-5ea0-bba8-83c2e1885cec' => [
-        'I follow three rules: Do the right thing, do the best you can, and always show people you care.',
-        'Lou Holtz',
+    '9beb7848-b175-59c0-8ae7-a08c72e36ab6' => [
+        'I have grown up but that should be a positive thing. When you look at a photo album it\'s lovely to remember being so young but it\'s also good to know you grew up!',
+        'Jenny Agutter',
     ],
-    'a3d32954-4bc2-5066-8d93-dbea82f20aec' => [
-        'I have a simple philosophy: Fill what\'s empty. Empty what\'s full. Scratch where it itches.',
-        'Leonardo DiCaprio',
+    'b025b19e-2df7-53e4-be51-6619dd1d09fc' => [
+        'She\'s the kind of girl who climbed the ladder of success wrong by wrong.',
+        'Mae West',
     ],
-    'fe3adb65-d21b-5d4f-902a-6806daf6c12a' => [
-        'The travel and tourism industry, it\'s just a huge part of our economy.',
-        'Karen Hughes',
+    '170495ba-5882-55aa-84ff-f36c472f988e' => [
+        'You do not pay the price of success, you enjoy the price of success.',
+        'Zig Ziglar',
     ],
-    '4e7102ad-82fd-5252-a157-0c9b4f4bcd81' => [
-        'Everyone has attitude, and I think everyone should have attitude. But I know I have attitude, but that\'s just, I think if you don\'t have attitude, it comes only with self confidence. So if you don\'t have self confidence, you won\'t have attitude, and I think there\'s a difference when you have attitude and when you have arrogance.',
-        'Sania Mirza',
+    'fc16756e-47c5-58f1-b443-554760551a54' => [
+        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
+        'Jay Garner',
     ],
-    '53668a03-362a-56d8-a452-fd293fefe522' => [
-        'You know you\'ve reached true success the day you become truly humble. That\'s the day you stop needing to prove to the world - and yourself - that you\'ve accomplished something meaningful.',
-        'Naveen Jain',
+    'd0a7fb18-3208-5149-9723-735b6bde53b1' => [
+        'Punishment may make us obey the orders we are given, but at best it will only teach an obedience to authority, not a self-control which enhances our self-respect.',
+        'Bruno Bettelheim',
     ],
-    'e0a7caf9-eb83-5a81-9abd-8f41f92c4a74' => [
-        'Parents are the last people on earth who ought to have children.',
-        'Samuel Butler',
+    'ec876a19-fb90-5dac-b573-de5317adc3a6' => [
+        'And this, our life, exempt from public haunt, finds tongues in trees, books in the running brooks, sermons in stones, and good in everything.',
+        'William Shakespeare',
     ],
-    'bf499974-0180-5d57-a3a6-c99d48c5bff9' => [
-        'I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.',
-        'Og Mandino',
+    '0cab54ed-5bb8-537f-b3ef-a23c797211ef' => [
+        'People come to see beauty, and I dance to give it to them.',
+        'Judith Jamison',
     ],
-    'ef31f784-70ba-556f-9769-f1df1cbd9749' => [
-        'The taxpayer - that\'s someone who works for the federal government but doesn\'t have to take the civil service examination.',
-        'Ronald Reagan',
+    '8821e95a-f21d-5460-a62f-fbae658c8ebb' => [
+        'I thought I was going to be killed. The casualties were so heavy, it was just a given. I learned to take each day, each mission, as it came. That\'s an attitude I\'ve carried into my professional life. I take each case, each job, as it comes.',
+        'Elliot Richardson',
     ],
-    '0a683024-4491-5784-b8c8-33ddfc6d25e8' => [
-        'If you really want to be world class - to be the best you can be - it comes down to preparation and practice.',
-        'Robin S. Sharma',
+    'cab5b9f5-2237-5e86-96db-a8175644015f' => [
+        'You\'d like more people to recognise what you do is special. But I take the attitude that the best thing I can do for my sport is to be the best at it. The best way people will come to recognise that track and field is a great sport is to see athletes excelling at it.',
+        'Maurice Greene',
     ],
-    '3f03abda-1db8-505f-a383-7d8177d181fb' => [
-        'Your heart is full of fertile seeds, waiting to sprout.',
-        'Morihei Ueshiba',
+    '29ba7585-7856-5d36-9f22-9db381d702b7' => [
+        'I think family is key, and if you have love for family, then you have love for others - and you have unity as a people.',
+        'Marlon Wayans',
     ],
-    '7920486b-c288-5d9f-9f22-9b5f78c2accc' => [
-        'What great thing would you attempt if you knew you could not fail?',
-        'Robert H. Schuller',
+    'f47f4923-116f-566c-89c5-fe77a732e227' => [
+        'Don\'t watch the clock; do what it does. Keep going.',
+        'Sam Levenson',
     ],
-    '5140cb7d-d9e1-589b-b948-bce88b35a11c' => [
-        'Work hard, stay positive, and get up early. It\'s the best part of the day.',
-        'George Allen, Sr.',
+    'ceee9349-ae4a-59b9-b4e5-9299ce6a2e39' => [
+        'Those who are free of resentful thoughts surely find peace.',
+        'Buddha',
     ],
-    'ebea8620-41ff-5fc1-8fc2-4e1d80a91aed' => [
-        'The heroines in \'That\'s What She Said\' are flawed, messy, damaged, hilarious and culpable and not really concerned about being acceptable to the audience in any traditional sense, which for me is what makes them all the more gorgeous. And the fearless truth of that is what makes it funny.',
-        'Carrie Preston',
+    '029f89df-7104-5e52-96b4-1af8254ea84f' => [
+        'You and I come by road or rail, but economists travel on infrastructure.',
+        'Margaret Thatcher',
     ],
-    '54d639da-bb20-568d-9633-780ecdfc457a' => [
-        'The sacrifices made by veterans and their willingness to fight in defense of our nation merit our deep respect and praise - and to the best in benefits and medical care.',
-        'Sue Kelly',
+    '16c1a0ca-9b9a-501b-8a03-a3e032da17f7' => [
+        'There is not a sprig of grass that shoots uninteresting to me.',
+        'Thomas Jefferson',
     ],
-    '33cdccd7-f1f0-504f-9f72-144c55e9d651' => [
-        'The laissez-faire attitude to science education has resulted in a disaster exemplified by the fact that more young people are opting for media studies than physics.',
-        'Harry Kroto',
+    'edd062a0-d553-5822-a7fb-7b3450c829c8' => [
+        'Work on good prose has three steps: a musical stage when it is composed, an architectonic one when it is built, and a textile one when it is woven.',
+        'Walter Benjamin',
     ],
-    '05355ed5-4d38-5281-8616-add86c62edd4' => [
-        'I think that business book reporting, it\'s all Jim Collins, it\'s the story of victory; it\'s success bias over and over again.',
-        'Ben Horowitz',
+    '32fbb717-f131-53d3-8917-288bfd502f06' => [
+        'I think this industry can be tough on everyone. You have to surround yourself with supportive people and know when to put your foot down and do what\'s best for you and your family. The first few years in the music industry can be a steep learning curve, and I\'ve definitely developed a thicker skin!',
+        'Rebecca Ferguson',
     ],
-    '0fade842-3b66-5930-9b76-738f9fbe7684' => [
-        'Sometimes sushi is just superb, and other times there\'s nothing like a great big steak. It depends where your taste buds are at the time.',
-        'Francesca Annis',
+    'fafb7efe-9e57-5b6c-96a4-0e2ecf5bae16' => [
+        'Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can\'t build on it; it\'s only for wallowing in.',
+        'Katherine Mansfield',
     ],
-    '73e57071-bc94-5254-a8b7-2a03f9b7dfa1' => [
-        'I want to see friends more and travel more.',
-        'Jennifer Aniston',
+    '6a95925f-f052-56df-92db-263bca50660d' => [
+        'Earth and sky, woods and fields, lakes and rivers, the mountain and the sea, are excellent schoolmasters, and teach some of us more than we can ever learn from books.',
+        'John Lubbock',
     ],
-    'e785ae4b-31e3-5388-8357-a9d424152d23' => [
-        'A lot of punk rock is not going to be in the mainstream. It\'s below the radar. The beauty of it is that you\'re not supposed to always know. It\'s subterranean.',
-        'Billie Joe Armstrong',
+    '34854165-80c3-535c-89c4-f4a78eb2f8f2' => [
+        'I\'ve thought for the last decade or so, the only actual place raw truth was seeping through in newspapers was on the Comics Pages. They were able to pull off intelligent social comment, pure truths not found elsewhere in the news pages, and had the ability to make it all funny, entertaining, and pertinent.',
+        'Elayne Boosler',
     ],
-    'faf30895-3bfe-5a29-b9ed-a61faea076d0' => [
-        'Space travel is the only technology that is more dangerous and more expensive now than it was in its first year. Fifty years after Yuri Gagarin, the space shuttle ended up being more dangerous and more expensive to fly than those first throwaway rockets, even though large portions of it were reusable. It\'s absurd.',
-        'Burt Rutan',
+    '193a2704-7402-5972-846f-0301aa12c893' => [
+        'Life is a lively process of becoming.',
+        'Taylor Spreitler',
     ],
-    '772aabfc-65b0-5085-b8c1-52f69259b36a' => [
-        'Success isn\'t a result of spontaneous combustion. You must set yourself on fire.',
-        'Arnold H. Glasow',
+    '678da26f-70f1-54f0-acea-382de29cf16e' => [
+        'We should bring in an environmental attitude, and I think luxury should automatically be about sustainability and quality.',
+        'Jochen Zeitz',
     ],
-    'db2948ca-c87c-5038-83f8-2ef6556a65ab' => [
-        'The beauty comes with the balance. Everyone should find his own balance in his personal as well as his professional life. Once you do so, you will feel and look beautiful.',
-        'Karolina Kurkova',
+    'abb64063-b538-51ba-b81b-a7b1c63f2b46' => [
+        'I believe in persevering. If you persevere, success lies ahead of you.',
+        'Liu Yang',
     ],
-    '21adf302-fab7-5653-a52a-21990c78941d' => [
-        'Don\'t wait to be successful at some future point. Have a successful relationship with the present moment and be fully present in whatever you are doing. That is success.',
-        'Eckhart Tolle',
+    '59416d49-20ed-5c35-a8f1-fdb591cd86dc' => [
+        'The most exciting phrase to hear in science, the one that heralds new discoveries, is not \'Eureka!\' but \'That\'s funny...\'',
+        'Isaac Asimov',
     ],
-    '46aa4052-78a3-5874-ae1a-304480a77a7d' => [
-        'Prejudice is a great time saver. You can form opinions without having to get the facts.',
-        'E. B. White',
+    '0d1a32d5-7b8c-5f5c-acc8-d3592f39ff0e' => [
+        'When I first started writing songs and being very explicit, it was hard, but one of the main things people respond to in my writing is that \'just say it\' attitude of my songs. There really is nothing personal or private; it\'s all universal, if you can just find the courage to be open about your life.',
+        'Ani DiFranco',
     ],
-    '4848eaa7-90d3-5f65-8b58-4f79e166a2ad' => [
-        'What has been happening more lately - of course, I also put in my bio, I say I do the voice of Goliath, but some people go - you know, I say something, and it\'s a funny thing when you work in this business, people will talk out loud in front of you like you\'re not there.',
-        'Keith David',
+    'abd4d5f9-f7a4-5f59-b9a7-7d7c55c275bb' => [
+        'Until you value yourself, you won\'t value your time. Until you value your time, you will not do anything with it.',
+        'M. Scott Peck',
     ],
-    '80490161-d982-5a99-9445-4f9170df9fbf' => [
-        'Don\'t get me wrong, I admire elegance and have an appreciation of the finer things in life. But to me, beauty lies in simplicity.',
-        'Henry David Thoreau',
+    '0cf2e2d4-8916-5355-8ad6-adf981f57485' => [
+        'A champion is someone who gets up when he can\'t.',
+        'Jack Dempsey',
     ],
-    'a041e5db-2908-5ff6-888f-edba81e40e21' => [
-        'Epilepsy is a disease in the shadows. Patients are often reluctant to admit their condition - even to close family, friends or co-workers - because there\'s still a great deal of stigma and mystery surrounding the disease that plagued such historical figures as Julius Caesar, Edgar Allan Poe and Lewis Carroll.',
-        'Lynda Resnick',
+    '844d28c1-94b3-5628-8e09-d6203545a27f' => [
+        'I am Classic Rock Revisited. I revisit it every waking moment of my life because it has the spirit and the attitude and the fire and the middle finger. I am Rosa Parks with a Gibson guitar.',
+        'Ted Nugent',
     ],
-    '52f53895-1222-5db8-bad3-438746d36373' => [
-        'I am able to ride the bike and think clearly about strategy and tyres. I also have positive thinking. I am very constructively critical.',
-        'Valentino Rossi',
+    '5df14a2a-d959-514b-847b-463c460a5726' => [
+        'If you don\'t design your own life plan, chances are you\'ll fall into someone else\'s plan. And guess what they have planned for you? Not much.',
+        'Jim Rohn',
     ],
-    'dfb7d6a4-701d-572b-af5d-ea4acec811d6' => [
-        'The quality, not the longevity, of one\'s life is what is important.',
-        'Tucker Max',
+    '608557ee-8e98-592a-9b7e-ee4f89e8c096' => [
+        'Nurture your minds with great thoughts. To believe in the heroic makes heroes.',
+        'Benjamin Disraeli',
     ],
-    'ceee7d60-4c2b-5dbc-ab46-c02541ef8462' => [
-        'The truth of the matter is that you always know the right thing to do. The hard part is doing it.',
-        'Norman Schwarzkopf',
+    'fbe47d03-d9e7-5ec1-bebf-b8d1718f929b' => [
+        'The \'good\' mother, with her fixed smile, her rigidity, her goody-goody outlook, her obsession with unnecessary hygiene, is in fact a fool. It is the \'bad\' mother, unafraid of a joke and a glass of wine, richly self-expressive, scornful of suburban values, who is, in reality, good.',
+        'Rachel Cusk',
     ],
-    '6b45437a-7c26-5247-8f76-bab6f298e9ac' => [
-        'Let me tell you something - being thought of as a beautiful woman has spared me nothing in life. No heartache, no trouble. Love has been difficult. Beauty is essentially meaningless and it is always transitory.',
-        'Halle Berry',
+    '74de82cf-690a-5cec-8293-040708721358' => [
+        'I have had positive experiences with cameras. When I have been asked to join experiments using cameras in the courtroom, I have participated; I have volunteered.',
+        'Sonia Sotomayor',
     ],
-    '518ffde9-f89a-596d-aa58-1955448649c0' => [
-        'Live as if you were living a second time, and as though you had acted wrongly the first time.',
-        'Viktor E. Frankl',
+    'c70bf642-a21c-5bcb-9b7a-ab2bb1526c02' => [
+        'It may be a masculine attitude to take lovers, but it\'s definitely prevalent. I\'m certainly not the oldest person doing it - not that I\'m doing it right now, but when I was.',
+        'Diana Rigg',
     ],
-    '816259fd-5979-5a6f-ba64-1f2dd00b719f' => [
-        'The best partnerships aren\'t dependent on a mere common goal but on a shared path of equality, desire, and no small amount of passion.',
-        'Sarah MacLean',
+    'b99113f4-fcfe-5c36-aa0c-6baa0dc4149c' => [
+        'Think for yourselves and let others enjoy the privilege to do so too.',
+        'Voltaire',
     ],
-    'cd7240ab-6d0f-5b93-bfc8-5d8d7017a419' => [
-        'The creed of a true saint is to make the best of life, and to make the most of it.',
-        'Edwin Hubbel Chapin',
+    '7bc65841-4c76-50d4-aa1a-58d50d2d875d' => [
+        'Humans are amphibians - half spirit and half animal. As spirits they belong to the eternal world, but as animals they inhabit time.',
+        'C. S. Lewis',
     ],
-    '1160c2ba-dd56-5146-994a-144fda6bb9a6' => [
-        'Flowers... are a proud assertion that a ray of beauty outvalues all the utilities of the world.',
-        'Ralph Waldo Emerson',
+    '1c2e365a-66af-59f6-9776-1c5b7870ca84' => [
+        'From a person whose living depends on other people buying her creative work, this may sound odd, but one of my favorite things about the steampunk subculture is its do-it-yourself attitude.',
+        'Kaja Foglio',
     ],
-    'a5f14706-4f43-547c-8903-1ce2e728abbb' => [
-        'When I first began choreographing, I never thought of it as choreography but as expressing feelings. Though every piece is different, they are all trying to get at certain things that are difficult to put into words. In the work, everything belongs to everything else - the music, the set, the movement and whatever is said.',
-        'Pina Bausch',
+    '5b832e36-76b2-58e6-8f2d-b36ab86eeceb' => [
+        'Four things for success: work and pray, think and believe.',
+        'Norman Vincent Peale',
     ],
-    '0ba75124-a6db-5998-81cc-e559d0b84542' => [
-        'Success is very ephemeral. You depend entirely on the desire of others, which makes it difficult to relax.',
-        'Eva Green',
+    'acb40530-b6f9-56e7-9d8e-157fe9d7cd16' => [
+        'If love is the answer, could you please rephrase the question?',
+        'Lily Tomlin',
     ],
-    'd6f3d42d-8cc9-5d98-b5ab-ea33e5ec200d' => [
-        'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
-        'Vincent Van Gogh',
+    '853266a5-7218-5229-88c7-440994c0894b' => [
+        'Gray skies are just clouds passing over.',
+        'Duke Ellington',
     ],
-    '754aaa90-9168-55e6-ac50-6127240af70d' => [
-        'He who deliberates fully before taking a step will spend his entire life on one leg.',
-        'Chinese proverb',
+    'd1af236c-5d66-545b-b52d-c3404b4ced19' => [
+        'I love nerds. Comic-Con junkies are the tastemakers of tomorrow. Isn\'t that funny? The tables have turned.',
+        'Kristen Bell',
     ],
-    'a547f629-f9f0-5880-b24a-cce1829276fa' => [
-        'I wake up each and every day with a smile on my face knowing I get to do something musically.',
-        'Two Chainz',
+    '8f7b18ee-e9a0-50b6-ac76-163ba4901553' => [
+        'Why don\'t you get out of that wet coat and into a dry martini?',
+        'Robert Benchley',
     ],
 ];

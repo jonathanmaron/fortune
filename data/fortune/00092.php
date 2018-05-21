@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '88755c66-8645-503d-86e2-f8bebb63403b' => [
-        'I would say I\'m a nice person, and I take pride in the fact that I treat everyone really well, so there\'s no reason for anyone to ever come at me because I only want the best for everybody else.',
-        'Miley Cyrus',
+    '404c15b9-99d4-5265-a1ee-141c469af76b' => [
+        'Self-preservation is the first law of nature.',
+        'Samuel Butler',
     ],
-    'fd0fcb93-2ab5-51b3-9f4c-a3f7de145de5' => [
-        'Sometimes it takes dealing with a disability - the trauma, the relearning, the months of rehabilitation therapy - to uncover our true abilities and how we can put them to work for us in ways we may have never imagined.',
-        'Tammy Duckworth',
+    '656070a6-cf02-59b3-839c-f3349951240a' => [
+        'Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.',
+        'Ralph Emerson',
     ],
-    '98f8b808-47c3-5dc0-a5ed-cc92eb0c3b7e' => [
-        'Vanity can create a very cruel space for you if you don\'t know how to manage it.',
-        'Lady Gaga',
+    '136de200-6908-51d6-b9ef-2f55f9ea3d39' => [
+        'Im not in this world to live up to your expectations and you\'re not in this world to live up to mine.',
+        'Bruce Lee',
     ],
-    '8e6a2a83-37c3-5a27-ae2f-f7b82143936d' => [
-        'Stop letting people who do so little for you control so much of your mind and emotions.',
-        'Will Smith',
+    '0a783a4a-3c13-5537-bb3a-60005060b4c8' => [
+        'You aren\'t your work, your accomplishments, your possessions, your home, your family... your anything. You\'re a creation of your Source, dressed in a physical human body intended to experience and enjoy life on Earth.',
+        'Wayne Dyer',
     ],
-    '0bf5e9d4-7fc4-5a44-b734-72662ba55700' => [
-        'I grew up hunting and fishing. I\'ve always been into archery. I\'ve always been into cars... In my family, that was just stuff we did. That\'s just the way it was.',
-        'Paul Walker',
+    '74d7df1b-3b75-5331-a2ba-cc072c796b76' => [
+        'To be a utilitarian means that you judge actions as right or wrong in accordance with whether they have good consequences. So you try to do what will have the best consequences for all of those affected.',
+        'Peter Singer',
     ],
-    'd6caea6f-7cf6-5ed9-be31-b64de5bd519b' => [
-        'Comedy is surprises, so if you\'re intending to make somebody laugh and they don\'t laugh, that\'s funny.',
-        'Norm MacDonald',
+    '1404204b-c561-5134-b298-9940d14c5d5d' => [
+        'When was the last time you spent a quiet moment just doing nothing - just sitting and looking at the sea, or watching the wind blowing the tree limbs, or waves rippling on a pond, a flickering candle or children playing in the park?',
+        'Ralph Marston',
     ],
-    '6c2fe5e8-9e65-57f0-8701-1d23cf1b765e' => [
-        'Every morning, I crawl out of bed. I sit there and think, \'Do I really need this?\' And I drag myself to the gym in my garage. It\'s not fun. I hate it. I work out alone. Weights.',
-        'Sylvester Stallone',
+    '5732ac6f-442a-5a49-880f-658d5d9141cf' => [
+        'It really was hand-to-mouth and you can say, \'Poor little me, how dreadful, what a deprived childhood\', but I didn\'t feel that way at all. It\'s all about the attitude at home.',
+        'Carol Vorderman',
     ],
-    '118f77d1-d6dc-58fd-8d91-5e6a620a886b' => [
-        'I never thought I was particularly good looking. But when I see old photographs, I realise that I was. I do wish I had known that at the time because beauty is power. I didn\'t realise how lucky I was to be young, beautiful and in Hollywood. It didn\'t hit me. Every day I woke up, went to the film studio and just got on with it.',
-        'Joan Collins',
+    'faf3fa20-8fe7-5e0e-a819-13f6881940e8' => [
+        'Everyone is your best friend when you are successful. Make sure that the people that you surround yourself with are also the people that you are not afraid of failing with.',
+        'Paula Abdul',
     ],
-    'c0aedcb3-27ad-557a-80ca-918d59ee4fd6' => [
-        'I\'m a really, really optimistic and really, really positive person. My main thing is, \'Enjoy life. Celebrate life.\'',
-        'Luke Bryan',
+    'c1705052-0d0d-5fd8-8e7a-26c776751d75' => [
+        'You know it\'s only 50 miles from Grand River to Canton, but it took me 67 years to travel that distance.',
+        'Don Shula',
     ],
-    'ce9dd47c-7b4b-5f59-aede-067d214cc8d2' => [
-        'In nature we never see anything isolated, but everything in connection with something else which is before it, beside it, under it and over it.',
-        'Johann Wolfgang von Goethe',
+    'ff48a46d-46ee-5655-8d5e-bc95dbe8129e' => [
+        'It\'s human nature that if you get 20 positive comments and one negative one, you\'re going to focus on the negative. We all do that. It can be something that drags you down. It\'s easy to get bogged down with it, but I try to concentrate on the good things.',
+        'Bindi Irwin',
     ],
-    'ef9b461c-3dd9-5a77-954b-c2debef1eefd' => [
-        'The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.',
+    '227c5fe9-3674-5e69-863b-d8a7f240f4c7' => [
+        'I\'m very competitive by nature. And I like to be the underdog - It\'s the best way to win. To come from behind and win is a great feeling!',
+        'Zac Efron',
+    ],
+    '8a4531fa-5ef1-5c3c-98dd-0fa43f65bc95' => [
+        'Someone asked me the other day what it feels like to see all my \'old stuff\' reappearing, at long last, in digital. And I had to smile because to me it doesn\'t feel like \'old stuff.\'',
+        'Barbara Hambly',
+    ],
+    'daa2d907-6996-5b50-b996-4dbc50b3af08' => [
+        'An attitude to life which seeks fulfillment in the single-minded pursuit of wealth - in short, materialism - does not fit into this world, because it contains within itself no limiting principle, while the environment in which it is placed is strictly limited.',
+        'E. F. Schumacher',
+    ],
+    'c0362b8c-eba9-5706-ba1b-5be72ad18c9d' => [
+        'I always believe that to be the best, you have to smell like the best, dress like the best, act like the best. When you throw your trash in the garbage can, it has to be better than anybody else who ever threw trash in the garbage can.',
+        'Lil Wayne',
+    ],
+    'd89f2003-9e27-544e-858e-5bab1c74790a' => [
+        'The expression of beauty is in direct ratio to the power of conception the artist has acquired.',
+        'Gustave Courbet',
+    ],
+    '76bd4804-2e48-5d82-8a24-ce8ce1838d64' => [
+        'I believe that one key to success is to accept truth, no matter how it\'s spoken.',
+        'Robert Kiyosaki',
+    ],
+    'ffcf1096-92b4-571b-964f-c93a953c6e78' => [
+        'No fine work can be done without concentration and self-sacrifice and toil and doubt.',
+        'Max Beerbohm',
+    ],
+    '4060aeba-4306-59a8-804a-e94d2387c957' => [
+        'Wars and elections are both too big and too small to matter in the long run. The daily work - that goes on, it adds up.',
+        'Arthur Miller',
+    ],
+    'c4dc40b1-5a03-5c4f-9f25-ddb5e0d4c8a9' => [
+        "It\u{92}s better to have nobody than someone who is half there, or who doesn\u{92}t want to be there.",
+        'Angelina Jolie',
+    ],
+    '5576044a-1ad6-5bf5-8c17-94d50f6a41f2' => [
+        'Expect the best, Prepare for the worst.',
+        'Muhammad Ali Jinnah',
+    ],
+    '099d30dd-02a7-5283-a99e-60041a489a5f' => [
+        'I think I\'m funny because my family, my siblings were funny.',
+        'Martin Short',
+    ],
+    'ea2f2b5a-9c2b-5ba3-b9aa-b2d746f15c1b' => [
+        'Nothing happens unless first we dream.',
+        'Carl Sandburg',
+    ],
+    'b89c14f4-8c27-5ce4-bf07-5a5b07d966b2' => [
+        'I am hitting my head against the walls, but the walls are giving way.',
+        'Gustav Mahler',
+    ],
+    '99c0b921-3b74-5835-b16b-8e58c155137e' => [
+        'When virtue and modesty enlighten her charms, the lustre of a beautiful woman is brighter than the stars of heaven, and the influence of her power it is in vain to resist.',
+        'Akhenaton',
+    ],
+    'f5f96eb8-88ae-54f1-88b8-82607be8b36b' => [
+        'To delight in war is a merit in the soldier, a dangerous quality in the captain, and a positive crime in the statesman.',
+        'George Santayana',
+    ],
+    '3afcae74-550b-5771-8cc7-6da64119db83' => [
+        'It\'s not the size of the dog in the fight, it\'s the size of the fight in the dog',
         'Mark Twain',
     ],
-    '5c9ff1ea-6441-5df4-ac70-efce31b9f031' => [
-        'When my time on earth is gone, and my activities here are passed, I want they bury me upside down, and my critics can kiss my ass!',
-        'Bobby Knight',
+    '6ef46138-5d70-50fd-842c-9ec25ad4af36' => [
+        'Not life, but good life, is to be chiefly valued.',
+        'Benjamin Franklin',
     ],
-    '93529424-4d2e-555a-8406-b0c05048ee03' => [
-        'If one had but a single glance to give the world, one should gaze on Istanbul.',
-        'Alphonse de Lamartine',
+    '93eed4af-48dc-5485-9abb-b8748903db26' => [
+        'We have what we seek, it is there all the time, and if we give it time, it will make itself known to us.',
+        'Thomas Merton',
     ],
-    'c5918ab8-83c2-5b72-9290-19b6d1c53f44' => [
-        'Music became a healer for me. And I learned to listen with all my being. I found that it could wipe away all the emotions of fear and confusion relating to my family.',
-        'Eric Clapton',
+    '99629260-a4e5-50db-be2f-af74fe98523a' => [
+        'Tyga\'s one of my best friends ever, so it\'s so much fun to travel with him. I always like having my friends out on the road with me.',
+        'Kylie Jenner',
     ],
-    '4f819032-e863-57fc-84ab-5c8eae77ba4e' => [
-        'I really cherish the memories I have of my trips. For some reason, when you travel, it\'s like your mind picks up on the fact that this is something uncharacteristic, so it tunes in more acutely and remembers better.',
-        'Jennette McCurdy',
+    'fbee171d-25a1-5294-b8d9-e84fe85a6670' => [
+        'You need an attitude of service. You\'re not just serving yourself. You help others to grow up and you grow with them.',
+        'David Green',
     ],
-    '1c970688-ab60-56c6-b33e-b14c1adcc6a2' => [
-        'I can give you a six-word formula for success: Think things through - then follow through.',
-        'Eddie Rickenbacker',
+    '52aefdb6-0d0a-56ae-a3da-3effe07eb937' => [
+        'What nature delivers to us is never stale. Because what nature creates has eternity in it.',
+        'Isaac Bashevis Singer',
+    ],
+    '6f5a3299-0fae-57e0-8454-bd548cb20716' => [
+        'Honesty is the best policy.',
+        'Benjamin Franklin',
+    ],
+    '7f9828ff-c08a-534c-bda3-b0d10ad576b0' => [
+        'Goals are the fuel in the furnace of achievement.',
+        'Brian Tracy',
+    ],
+    '65e625ad-6bf7-5679-bc1e-35c33ee69a21' => [
+        'You know, I said I have this problem that I need to more carefully read Akron\'s text because it\'s too much, too much fantasy, and so I am busy with other stuff - it\'s funny, it\'s nice to hear that someone is studying that carefully and now I know a little bit more about that.',
+        'H. R. Giger',
+    ],
+    '75073295-08da-5295-b76e-67b7e7910b31' => [
+        'My definition of success is to live your life in a way that causes you to feel a ton of pleasure and very little pain - and because of your lifestyle, have the people around you feel a lot more pleasure than they do pain.',
+        'Tony Robbins',
+    ],
+    'ecbf5b68-924f-5d8b-9c5e-9724de5533ee' => [
+        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
+        'Danny Meyer',
+    ],
+    '3ed92ff7-6004-5268-8943-aafe2822e6c0' => [
+        'Success is where preparation and opportunity meet.',
+        'Bobby Unser',
+    ],
+    'be117eab-e73e-577c-bb02-c5e9aada067d' => [
+        'As long as the attitude is to only show the sheet metal, then automobile advertising will continue to be wretched.',
+        'Jerry Della Femina',
+    ],
+    'effdb86f-4738-5bc5-a044-506b5d63e770' => [
+        'My father and his eight siblings grew up in the kind of poverty that Americans don\'t like to talk about unless a natural disaster like Hurricane Katrina strikes, and then the conversation only lasts as long as the news cycle. His family squatted in shacks. The children scavenged for food.',
+        'Karin Slaughter',
     ],
     '131dfdfe-a848-5667-b572-eead57c1ad39' => [
         'Blessed are those who can give without remembering and take without forgetting.',
         'Unknown',
     ],
-    'eed6506d-6d56-502e-b3ca-b516a46461f0' => [
-        'I do kabbalistic meditation. It\'s not unlike time travel; it can change the past and not just the future. You can look at what was lost and go beyond the grief of what was lost.',
-        'Roseanne Barr',
+    '1fd382ee-aa5e-5593-a93c-d2a01e73baca' => [
+        'Thank you for life, and all the little ups and downs that make it worth living.',
+        'George C. Marshall',
     ],
-    'd99b5549-f2a7-5c69-8a6e-89783941722a' => [
-        'I love the man that can smile in trouble, that can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but he whose heart is firm, and whose conscience approves his conduct, will pursue his principles unto death.',
-        'Thomas Paine',
+    '827c5a2d-5da3-5bf9-b8a7-806b8dd4aa5d' => [
+        'It\'s important to recognize that forgiveness is more than mere words; it\'s a heart attitude that induces a spiritual transformation.',
+        'Victoria Osteen',
     ],
-    '79a2f8dd-0369-50c2-848f-50fe25c4ec75' => [
-        'Set up another case bartender! The best thing for a case of nerves is a case of Scotch.',
-        'W. C. Fields',
+    'd4430d1a-0d9f-51d4-8834-1ea55fd1ce2a' => [
+        'I am traveling less in order to be able to write more. I select my travel destinations according to their degree of usefulness to my work.',
+        'Jose Saramago',
     ],
-    'd7c799ea-e1c9-5584-9db3-882fa14a1c7a' => [
-        'The person who can bring the spirit of laughter into a room is indeed blessed.',
-        'Bennett Cerf',
+    '0ef273a6-d483-52f8-a2c4-cb2380852c8e' => [
+        'A bad review is like baking a cake with all the best ingredients and having someone sit on it.',
+        'Danielle Steel',
     ],
-    '8caab9de-028b-56a3-a1a9-7db455464bed' => [
-        'When you\'re doing a different kind of film, you have to bring a different kind of attitude; you have to bring a different kind of concentration.',
-        'Jerry Lewis',
+    '61589f62-556c-5c1c-912d-c03f65ad3712' => [
+        'I always liked the visuals to be choice and at the same time minimalist. And, I love black boxes. After all, that\'s what theatre is, it\'s an empty space, and it\'s both limited and unlimited because the space is the space, but what you can do with people\'s imaginations is really endless.',
+        'Harold Prince',
     ],
-    'a6c09f65-1cfd-50be-ae88-22ac76680575' => [
-        'If someone says \'grunge\' or \'punk,\' you know what the sound is, but if you say \'No Wave,\' it\'s kind of mysterious. That was the most interesting part and should have been the most inspirational thing about it... here\'s this collective sonic insanity, and none of it sounds anything alike.',
-        'Lydia Lunch',
+    '60543b24-6da1-5596-8eb2-3207ef74841f' => [
+        'I have found the best way to give advice to your children is to find out what they want and then advise them to do it.',
+        'Harry S Truman',
     ],
-    'c6b5d7cb-7eab-594c-a6e8-388e9553f4cf' => [
-        'I think and that is all that I am.',
-        'Wayne Dyer',
+    '24b799cb-74db-5e27-84b8-5aebfb179552' => [
+        'Yield to temptation. It may not pass your way again.',
+        'Robert A. Heinlein',
     ],
-    '126db1c4-0dae-54dd-988c-8f5732f79251' => [
-        'That\'s my main flaw: I always think authority figures or my boss is going to think something I do is funny. And usually they don\'t.',
-        'Jimmy Kimmel',
+    '9cbd39d3-9372-5e30-8d46-2493aafc9c6c' => [
+        'They tell us that suicide is the greatest piece of cowardice... that suicide is wrong; when it is quite obvious that there is nothing in the world to which every man has a more unassailable title than to his own life and person.',
+        'Rita Rudner',
     ],
-    'd5f219d9-3a89-50b7-8408-d057d443e38f' => [
-        'I am the baby in the family, and I always will be. I am actually very happy to have that position. But I still get teased. I don\'t mind that.',
-        'Janet Jackson',
+    '8adc4d57-5bc1-5143-bbc1-0556916ff018' => [
+        'Always think of what is useful and not what is beautiful. Beauty will come of its own accord.',
+        'Nikolai Gogol',
     ],
-    '1263f471-ee72-52be-a2ae-03b9a5fd38fd' => [
-        'Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks.',
-        'Stephen Hawking',
-    ],
-    '19231051-d321-5b59-857c-9f67e01dbe49' => [
-        'From age nine, my friends and I were on the streets, walking home, going to each other\'s houses, going to the store. I really wanted to write about that: the independence that\'s a little bit scary but also a really positive thing in a lot of ways.',
-        'Rebecca Stead',
-    ],
-    '5df1efe9-012d-50c9-b454-b0c6d133f5cc' => [
-        'Good friends, good books and a sleepy conscience: this is the ideal life.',
-        'Muhammad Ali',
-    ],
-    'daed71c7-83d6-578e-842f-6bbb04bc3306' => [
-        'Solidarity is an attitude of resistance, I suppose, or it should be.',
-        'Christopher Hitchens',
-    ],
-    '22eb4dc5-abe7-5aad-a2a4-70864b297d22' => [
-        'Disasters are called natural, as if nature were the executioner and not the victim.',
-        'Eduardo Galeano',
-    ],
-    '669ef6f8-d302-5948-8550-e681be9ecd47' => [
-        'My cell phone is my best friend. It\'s my lifeline to the outside world.',
-        'Carrie Underwood',
-    ],
-    '40cdf257-918f-5076-aaad-345bc26eb5aa' => [
-        'When you\'re the best, you only want to surround yourself with the best.',
-        'Floyd Mayweather, Jr.',
-    ],
-    'd648df59-da98-5ff8-8e17-7cebf27d6d81' => [
-        'I don\'t know anybody who said, \'I love that teacher, he or she gave a really good homework set,\' or \'Boy, that was the best class I ever took because those exams were awesome.\' That\'s not what people want to talk about. It\'s not what influences people in one profession or another.',
-        'Neil deGrasse Tyson',
-    ],
-    'e29b6653-3cdb-5be6-96db-de7eebe99113' => [
-        'Be thankful when you don\'t know something for it gives you the opportunity to learn.',
-        'Unknown',
-    ],
-    '0542b946-60b9-5bc9-8e32-7570ac82894f' => [
-        'If somebody asked me about my inspiration I would say that it\'s not the peopleand it\'s not the things, it\'s travel and experiencing different environments.',
-        'Marc Newson',
-    ],
-    '26f09062-373c-58ee-968f-596e82957db2' => [
-        'One of the funny things of being a producer, you have these fleeting, intense relationships with people, and they go off to global megastardom, and you don\'t see them.',
-        'Paul Epworth',
-    ],
-    '1690baaf-c552-5e90-887a-a43cc21b0cdc' => [
-        'Beauty arises out of human inspiration.',
-        'Richard Dawkins',
-    ],
-    'c6187c2f-5d87-54b5-9473-e1b9341d64a3' => [
-        'There are positive things that come of social media as well as negative.',
-        'Millie Bobby Brown',
-    ],
-    '1eb2e183-961d-5828-96d6-201c4e396a16' => [
-        'We don\'t make mistakes, just happy little accidents.',
-        'Bob Ross',
-    ],
-    'a4c11814-ea4e-56a3-80d8-27af6a01cffa' => [
-        'For every moment of triumph, for every instance of beauty, many souls must be trampled.',
-        'Hunter S. Thompson',
-    ],
-    'e9b41952-e9d8-5c96-a7fe-cf0042be5d94' => [
-        'I am deliberate and afraid of nothing.',
-        'Audre Lorde',
-    ],
-    '2a08efb6-f0b4-5ca3-9bb4-3099c01d10b5' => [
-        'The same people who smile in my face would be the same ones to talk behind my back.',
-        'Timbaland',
-    ],
-    'f0725d50-9833-5d86-9a74-22f51dfc88d9' => [
-        'Rarely do great beauty and great virtue dwell together.',
-        'Petrarch',
-    ],
-    '4c7265cd-332e-59a9-bdb7-2ee53563284c' => [
-        'I don\'t smile much, and I never laugh. If you\'d been through what I\'ve been through, you wouldn\'t be smiling, either.',
-        'Charlie Sifford',
-    ],
-    '0eddc5c3-719b-520e-a0fa-dd9ba9f12d1d' => [
-        'I\'m always angry. I wake up angry. There is a lot to be angry about. Anger is a positive energy.',
-        'Thandie Newton',
-    ],
-    'ce088e6a-a2d8-5c57-a876-09e22e2abc90' => [
-        'Photographers usually want to photograph facts and things. But I\'m interested in the nature of the thing itself. A photograph of someone sleeping tells me nothing about their dream state; a photograph of a corpse tells me nothing about the nature of death. My work is about my life as an event, and I find myself to be very temporal, transient.',
-        'Duane Michals',
-    ],
-    'cd6cd204-0fd8-559a-90ef-0f20a9a8775a' => [
-        'Life goes by really fast, and it seems that there are times when you\'re burying a lot of friends and family. And then there are times that feel really precious and everybody is doing okay. This is one of those times.',
-        'Amy Grant',
-    ],
-    'aedebc33-31d1-5cdc-9f2f-6607272d4e21' => [
-        'If you travel too often, you actually come face-to-face with what you\'re trying to escape. I feel like when I travel alone, sometimes it\'s like being locked in a hotel room with my own worst enemy.',
-        'Simon Van Booy',
-    ],
-    '26fd42ca-1339-5271-aa70-fd9938cab306' => [
-        'My best vacation is somewhere I could hide, somewhere warm and not a lot of people around.',
-        'Derek Jeter',
+    '5fde20a8-fa6a-50bb-95a2-b5a31f3cebcb' => [
+        'It\'s never been an issue for me - I don\'t want to go on a diet, I don\'t want to eat a Caesar salad with no dressing, why would I do that? I ain\'t got time for this, just be happy and don\'t be stupid. If I\'ve got a boyfriend and he loves my body then I\'m not worried.',
+        'Adele',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '72e1992a-4812-5329-bb42-384b37c8b100' => [
-        'I honestly think it is better to be a failure at something you love than to be a success at something you hate.',
-        'George Burns',
+    '1a031779-046d-5b23-959f-a78b50d08465' => [
+        'Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.',
+        'Margaret Runbeck',
     ],
-    '2792baf1-c4a7-57d0-b21c-6b5194ce3169' => [
-        'The most decisive actions of our life... are most often unconsidered actions.',
-        'Andre Gide',
+    'e945a13d-da1d-595a-b5b0-6acc6abfc6fe' => [
+        'Every man is a volume if you know how to read him.',
+        'Channing',
     ],
-    'ae6536c0-67af-5f6a-9b60-ff9ec856faa6' => [
-        'If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.',
-        'Daisaku Ikeda',
+    'f10e0e52-0b02-5875-84de-48491666c2b3' => [
+        'There is nothing permanent except change.',
+        'Heraclitus',
     ],
-    '47b23cd2-6927-5229-962e-875f3ba98021' => [
-        'I find it an absolute pleasure to read travel guides, especially the Michelin guides, and their description of places I know I\'ll probably never visit. I spend a large part of my life reading descriptions of restaurants.',
-        'Michel Houellebecq',
+    '7f2980e0-c56f-5853-a4a5-62847817e72c' => [
+        'I developed a nutty attitude where I\'d think, If some guy really loves me he doesn\'t care if I\'m fat. I\'d come up with all these stupid reasons why it would be OK to be fat.',
+        'Kirstie Alley',
     ],
-    'e7b6da82-e79b-565e-9b88-5f66cadfed8a' => [
-        'I always thought I wanted to play professionally, and I always knew that to do that I\'d have to make a lot of sacrifices. I made sacrifices by leaving Argentina, leaving my family to start a new life. I changed my friends, my people. Everything. But everything I did, I did for football, to achieve my dream.',
-        'Lionel Messi',
+    'a1413a7b-7cb2-5705-821a-68374c8b502f' => [
+        'That attitude and toughness that we want to play with, that, to me, is the most critical thing.',
+        'Dan Quinn',
     ],
-    '293f32e5-df3e-526a-9de1-4d849609dc72' => [
-        'It is not ignorance but knowledge which is the mother of wonder.',
-        'Joseph Wood Krutch',
+    '6f642e32-5699-5cf9-ba93-efef1e519c01' => [
+        'Three of the brightest baseball pitchers of their times staged comebacks without much success - David Cone, Jim Bouton and Jim Palmer - but there was room to admire their quixotic gesture.',
+        'George Vecsey',
     ],
-    'db19ca68-26f2-58c2-a9f8-9c209338d696' => [
-        'To finally become world champion after losing out in three previous finals is very satisfying. It shows that if you stick to your goals and work hard, you can achieve them in the end.',
-        'Nicola Adams',
+    '3f96cd24-cfec-59f6-8e04-e2beddb5ffb2' => [
+        'The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful.',
+        'Noam Chomsky',
     ],
-    '6ebba5f5-3542-5749-ab4a-813a0a1c0e1d' => [
-        'It\'s one of the greatest gifts you can give yourself, to forgive. Forgive everybody.',
-        'Maya Angelou',
+    'cd044878-68f5-586f-8459-aa72c79cb01f' => [
+        'If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.',
+        'Rachel Carson',
     ],
-    'c7a5b4d6-2ac7-50ea-9053-774f88edf303' => [
-        'What is necessary to change a person is to change his awareness of himself.',
-        'Abraham Maslow',
+    '42885b3f-510e-53ca-b9f7-3e9808ce787b' => [
+        'Laziness is nothing more than the habit of resting before you get tired.',
+        'Jules Renard',
     ],
-    '2c39d3e5-a5ff-57d5-82a1-f701c648ba52' => [
-        'Design can have such a positive impact on the way people live and on their relationships and moods.',
-        'Genevieve Gorder',
+    '93026eaf-7ab6-5997-857a-aa3dd427391f' => [
+        'I am a generous man, by nature, and far more trusting than I should be. Indeed. The real world is risky territory for people with generosity of spirit. Beware.',
+        'Hunter S. Thompson',
     ],
-    '12f8ccd8-4c04-51ee-8717-3c3766e921d7' => [
-        'To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.',
-        'Jane Austen',
+    '4bc25676-c335-5090-ae47-bc44c7a52541' => [
+        'You learn to laugh at yourself, and you also lean on comedy as a crutch to kind of take the edge off because comedians often are self-deprecating, and they cross lines that they shouldn\'t. Stuff like that brings a smile to my face every once in a while when needed.',
+        'John Cena',
     ],
-    'ae21991d-59d6-543b-a406-2e74b43fc349' => [
-        'Man is by nature a political animal.',
-        'Aristotle',
+    '24bb3c16-74dc-57b5-806f-503c32a60009' => [
+        'Find your own way, have an open spirit, and believe in your own beauty.',
+        'Francois Nars',
     ],
-    '2a9d30a3-80b1-50f8-9f2f-7e8d2142f74c' => [
-        'There is no better feeling than doing well while you are doing good. If you really want to meet the nicest, most caring people in your field, get involved with charity work. The thankless hours that go into planning charity dinners, running a carnival, and gathering donations for silent auctions are noticed and appreciated.',
-        'Jay Samit',
+    '22ac76c1-2b17-5fb7-b7ae-36bf27747b43' => [
+        'I hold that the perfection of form and beauty is contained in the sum of all men.',
+        'Albrecht Durer',
     ],
-    '76de664b-c87a-5f29-a883-148210364d89' => [
-        'I am disturbed when I see the majority of so-called Christians having such little understanding of the real nature of the faith they profess. Faith is a subject of such importance that we should not ignore it because of the distractions or the hectic pace of our lives.',
-        'William Wilberforce',
+    '9b929144-0f72-5729-bf42-76cfb4a8efa7' => [
+        'The beautiful spring came; and when Nature resumes her loveliness, the human soul is apt to revive also.',
+        'Harriet Ann Jacobs',
     ],
-    'f199a43b-9cac-5506-970b-198f6942e3a7' => [
-        'I always give Lindsay so much credit for her tennis game, for her attitude, for her person, and because of how she deals with all the things. I don\'t think people give her enough credit for how well she\'s doing.',
-        'Martina Hingis',
-    ],
-    '3c8ac793-1a58-5250-8167-3ef1b0385a1d' => [
-        'Desire is the key to motivation, but it\'s the determination and commitment to unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.',
-        'Mario Andretti',
-    ],
-    '5ea74031-e7ff-5da0-9251-6bf35fb7ee27' => [
-        'I feel like looking in the mirror when you brush your teeth, yes, I see lines, and then I smile and I see things here and there. But that\'s just, you know, you - that\'s your journey, you know?',
-        'Heidi Klum',
-    ],
-    '80073d9f-82f4-5586-bbf6-7e1f5bd9785b' => [
-        'It will be disastrous when a leader or manager shows up with one attitude one day and treats people with a different attitude the next day.',
-        'Zig Ziglar',
-    ],
-    '1a1dcc53-ee42-54de-a712-d805530e0f1d' => [
-        'I\'ve followed Leeds since I was a little kid. I used to come home from sport in the afternoon, me and my brother, and watch \'Match of the Day.\' I love the club. I want nothing but success for the club.',
-        'Russell Crowe',
-    ],
-    '7033673a-6164-59c3-af4e-73cd8e99a592' => [
-        'You have succeeded in life when all you really want is only what you really need.',
-        'Paul Merton',
-    ],
-    '3bbaeff2-c589-52cf-8121-c8b38c5e0ddd' => [
-        'Leonardo Fibonacci, the great 13th century Italian mathematician (1175-1250) created the \'Fibonacci sequence\' to explain behavior in nature mathematically. History has it that the first question he posed was how many rabbits would be created in one year starting with one pair.',
-        'Rick Santelli',
-    ],
-    'c8672e00-7ecf-5e72-a058-edbb40d3dd0c' => [
-        'We\'re born with success. It is only others who point out our failures, and what they attribute to us as failure.',
-        'Whoopi Goldberg',
-    ],
-    '63dba864-ce57-577f-8b73-dee7966a9dbc' => [
-        'Any time I have any time off, I try to travel.',
-        'Margot Robbie',
-    ],
-    'e68b27aa-7212-51ae-ad2e-0e9ceb51295b' => [
-        'This too, shall pass.',
-        'Anonymous',
-    ],
-    '10c7f20f-dcb6-52ca-9dc5-52d7f60a8b3a' => [
-        'And now I have a big house, nice clothes and I travel in first class and I love it, so maybe it\'s time to enjoy being a star.',
-        'Vincent Cassel',
-    ],
-    '93e3959c-b1a8-5e77-ada2-72db4cbf9764' => [
-        'Grow old with me! The best is yet to be.',
-        'Robert Browning',
-    ],
-    '84f428cb-ee53-5de4-89e6-5eff42559c5e' => [
-        'Success is a journey, not a destination. The doing is often more important than the outcome.',
-        'Arthur Ashe',
-    ],
-    '3b7a1deb-5e73-5dc8-95d2-4a37dc91fa0b' => [
-        'How wonderful it is that nobody need wait a single moment before starting to improve the world.',
-        'Anne Frank',
-    ],
-    '3ea6606c-7b9c-5b3a-bc37-8edc72f5de23' => [
-        'When you\'re working hard and doing all you can to achieve your goals, anything that can give you an edge is powerful and will streamline your path to success.',
-        'Travis Bradberry',
-    ],
-    '3006b29a-c927-5c96-907e-a4e3d3d2a80c' => [
-        'Many of our deepest motives come, not from an adult logic of how things work in the world, but out of something that is frozen from childhood.',
-        'Kazuo Ishiguro',
-    ],
-    '52741f4b-5ddc-5749-b524-56251e3fad77' => [
-        'Your positive action combined with positive thinking results in success.',
-        'Shiv Khera',
-    ],
-    '6e94d5ce-4cd1-5e62-8050-b310cf6ed592' => [
-        'We all find joy and radiance and a reason to move on even in the most dire of circumstances. Even in chaos and madness, there\'s still a beauty that comes from just the vibrancy of another human spirit.',
-        'Ishmael Beah',
-    ],
-    '59a38165-e22e-5385-b7f7-ebbfc14281f2' => [
-        'My father instilled in me the attitude of prevailing. If there\'s a challenge, go for it. If there\'s a wall to break down, break it down.',
-        'Donny Osmond',
-    ],
-    '1ca33229-f83e-55f7-b298-e9e303913fd7' => [
-        'Whenever something negative happens to you, there is a deep lesson concealed within it.',
-        'Eckhart Tolle',
-    ],
-    'ecc54ef9-c367-5581-9145-95734c102341' => [
-        'The most important thing is being passionate about what you\'re doing and always give it your all. That is the key to success.',
-        'Charlie White',
-    ],
-    '5bca079f-2f9f-562a-af4f-c72a7cd798bc' => [
-        'Everyone talks about age, but it\'s not about age. It\'s about work ethic. Winning never gets old.',
-        'Lisa Leslie',
-    ],
-    'd26b5d91-ee5a-53e2-9641-ffb215814142' => [
-        'There is clearly a constituency that appreciates the message that Google is sending, that it finds the Chinese government\'s attitude to the Internet and censorship unacceptable.',
-        'Rebecca MacKinnon',
-    ],
-    '6b8373f4-9685-571d-ba9b-c51d7bd30134' => [
-        'Care and diligence bring luck.',
-        'Proverb',
-    ],
-    '53c70782-b734-574d-af38-9b395b028e4e' => [
-        'If I had been asked to write 1,200 words for a newspaper tomorrow, on any subject, I would just do it rather than leave a white hole in the page. And I think it\'s a very healthy attitude to take to writing anything.',
-        'Tom Stoppard',
-    ],
-    'ab2ae6c0-2284-5b1b-928a-956555b85fd7' => [
-        'People who succeed have momentum. The more they succeed, the more they want to succeed, and the more they find a way to succeed. Similarly, when someone is failing, the tendency is to get on a downward spiral that can even become a self-fulfilling prophecy.',
-        'Tony Robbins',
-    ],
-    '5ed7cc8c-9a0d-5b0a-964b-118ed47f8acf' => [
-        'Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work.',
-        'Vince Lombardi',
-    ],
-    '57a82890-59dc-5c3d-b980-6870b01f9486' => [
-        'The one thing that I know is that you win with good people.',
-        'Don Shula',
-    ],
-    '6ab92de5-f64d-545e-a4c3-bcd4785c4dc8' => [
-        'The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.',
-        'Mortimer Adler',
+    '0065e952-d781-570e-9b53-370111ce676d' => [
+        'Success is a state of mind. If you want success, start thinking of yourself as a success.',
+        'Joyce Brothers',
     ],
     '9a922a60-14a6-576d-9d91-1d4ec905993f' => [
         'My keen love of travel was seldom hindered by Father. He permitted me, even as a mere boy, to visit many cities and pilgrimage spots.',
         'Paramahansa Yogananda',
     ],
-    'b5e54379-2c09-5ace-b58b-8a3163b36a68' => [
-        'My mother and my father have been married 50 years, and he\'s just started to understand that something\'s wrong with the system. He accepted the whole thing, you see. Yet this industrious kind of engagement didn\'t bring him the success, according to American terms, that he wanted. I was probably affected by this very much. In fact, I know I was.',
-        'Huey Newton',
+    '84e7d053-c332-53f3-8bed-97300d65d894' => [
+        'When I say that human beings are just gene machines, one shouldn\'t put too much emphasis on the word \'just.\' There is a very great deal of complication, and indeed beauty in being a gene machine.',
+        'Richard Dawkins',
     ],
-    '3b81605c-0b7e-5924-b3df-8055352eb1f2' => [
-        'What you give is what you get.',
-        'Byron Pulsifer',
+    'd7888b71-7e1d-54c1-ad77-b8a8b036dae1' => [
+        'The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.',
+        'Margaret Smith',
+    ],
+    '5a865892-3aa6-5533-88da-6ee5cbba9c05' => [
+        'Friends are thieves of time.',
+        'Francis Bacon',
+    ],
+    'a03c2ee5-94e7-5b8b-8897-8c9b9da8a1c6' => [
+        'Time sometimes flies like a bird, sometimes crawls like a snail; but a man is happiest when he does not even notice whether it passes swiftly or slowly.',
+        'Ivan Turgenev',
+    ],
+    'ec0d4c20-2c26-50f4-9930-2e4ee4a133f2' => [
+        'Hits and flops will come and go. But what stays with you is the experience you had while shooting a film. I am happy learning something new each time.',
+        'Sonakshi Sinha',
+    ],
+    '0643d6b3-0f79-5c18-814a-df7d6505d603' => [
+        'Never continue in a job you don\'t enjoy. If you\'re happy in what you\'re doing, you\'ll like yourself, you\'ll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined.',
+        'Johnny Carson',
+    ],
+    '28e415d6-b287-5b4a-b2c9-c52969f4ff16' => [
+        'Outside of a dog, a book is a man\'s best friend. Inside of a dog it\'s too dark to read.',
+        'Groucho Marx',
+    ],
+    '1680e9b2-7650-50f6-856d-ab3c88a9adbf' => [
+        'I want to be an inspirational model. I want people to look at me and say, \'Wow, she looks healthy.\'',
+        'Ireland Baldwin',
     ],
     'a82666e7-04a1-5220-b8d8-1c4b2d08f746' => [
         'There is no success without hardship.',
         'Sophocles',
     ],
-    '3c8d808a-d4b4-5414-966f-5c30492c9e3f' => [
-        'I don\'t believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.',
-        'Ken Venturi',
+    'b0f7601a-4e86-5b18-adb2-6e63ed69893f' => [
+        'Patriotism is supporting your country all the time, and your government when it deserves it.',
+        'Mark Twain',
     ],
-    'a3b55cd2-75cb-51e6-a4d4-bbefe6a8e477' => [
-        'It\'s a funny thing that when a man hasn\'t anything on earth to worry about, he goes off and gets married.',
-        'Robert Frost',
+    '7aeb8638-91e7-58ef-97ff-c17729b9ab57' => [
+        'Passion is needed for any great work, and for the revolution, passion and audacity are required in big doses.',
+        'Che Guevara',
     ],
-    '425168f1-aadb-5b64-b928-7bb5e5c98178' => [
-        'Marvin\'s Motivational Moments actually started as something that was actually therapeutic for me. I would sit up late at night after my wife passed trying to adjust to being alone.',
-        'Marvin Sapp',
+    '661ba748-29fa-52e0-813f-b9a5804dede2' => [
+        'It\'s human nature to take the easy route and leap at storage methods that promise quick and convenient ways to remove visible clutter. Putting things away creates the illusion that the clutter problem has been solved. But sooner or later, all the storage units are full, and the room once again overflows with things.',
+        'Marie Kondo',
+    ],
+    '4cdc7fa4-6e84-5e70-a41f-00aa7b1180f3' => [
+        'Canadians tend to be a bit more religious than most Europeans - though not more than the Poles or Ukrainians. Most important, their attitude to immigration and ethnic minorities is more positive than that of most Europeans.',
+        'Timothy Garton Ash',
+    ],
+    '84e1877e-385d-56e0-9705-1bcc9dff980e' => [
+        'I love women with attitude.',
+        'Kevin Hart',
+    ],
+    '01f91d77-3d05-5a3e-bf99-652db012955c' => [
+        'Success to me is only two things: happiness and stability.',
+        'Kehlani',
+    ],
+    'dcd3fbc8-f97c-5e89-8477-35d3da8ccd6a' => [
+        'I think that from the time you start playing sports as a child you see that your responsibility to your team is to play the best that you can play as an individual... and yet, not take anything away from being part of a team.',
+        'Wayne Gretzky',
+    ],
+    'a44fa5e2-e623-50d5-9ba9-c7a2932e0736' => [
+        'Equal pay isn\'t just a women\'s issue; when women get equal pay, their family incomes rise and the whole family benefits.',
+        'Mike Honda',
+    ],
+    '06a71dca-740a-50d5-b1eb-e3d151bfb130' => [
+        'Success is blocked by concentrating on it and planning for it... Success is shy - it won\'t come out while you\'re watching.',
+        'Tennessee Williams',
+    ],
+    '757ecbf3-24ed-5ac2-bc46-01e2871a97c3' => [
+        'A whopping 89 percent of buyers start their home search online. How your house looks online is the modern equivalent of \'curb appeal.\' Rent a wide-angle lens and good lighting, get rid of your clutter and post at least eight great photos to win the beauty contest.',
+        'Barbara Corcoran',
+    ],
+    '09a42e0c-fbeb-5fdf-adbd-c800c8144cd8' => [
+        'To be successful, you have to have your heart in your business and your business in your heart.',
+        'Thomas J. Watson',
+    ],
+    'db94e19f-12b7-55b0-95c6-ecf8fafdd0a2' => [
+        'Why don\'t you start believing that no matter what you have or haven\'t done, that your best days are still out in front of you.',
+        'Joel Osteen',
+    ],
+    '4a412651-ae02-5caa-adaa-23580007a00b' => [
+        'The internet could be a very positive step towards education, organisation and participation in a meaningful society.',
+        'Noam Chomsky',
+    ],
+    'a3f5d5cb-8318-5305-a8b0-8cb561bf3d5c' => [
+        'Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.',
+        'Harry Burchell Mathews',
+    ],
+    'bd1fb876-1580-5d35-9921-64fba9f2677c' => [
+        'I do this system called TRX. It was developed by a Navy SEAL and is basically a simple cord that you can wrap around something anywhere, anytime, and you use your body weight as resistance. We installed one in our home gym, but you can also attach it to a tree. It\'s very easy to travel with.',
+        'Elizabeth Banks',
+    ],
+    'a547f629-f9f0-5880-b24a-cce1829276fa' => [
+        'I wake up each and every day with a smile on my face knowing I get to do something musically.',
+        'Two Chainz',
+    ],
+    '7ffd2745-3819-5c38-b133-f9a4c3cedd8c' => [
+        'I want to put concepts in front of people that make them laugh or smile or even hate what I do. I\'m not interested in just putting clothes in stores.',
+        'Thom Browne',
+    ],
+    'f9451b48-72f2-55d4-b83d-0e7175949209' => [
+        'Progress is man\'s ability to complicate simplicity.',
+        'Thor Heyerdahl',
+    ],
+    '3c67adfd-afcc-5314-a6ad-40d697a8c34e' => [
+        'When I turned about 12 or 13, I realised that being funny wasn\'t about remembering jokes. It was about creating them.',
+        'Paul Merton',
+    ],
+    '5f877535-1dd1-5bba-8fe8-52c73cc802b6' => [
+        'We could never learn to be brave and patient if there were only joy in the world.',
+        'Helen Keller',
+    ],
+    'cc008642-1097-5fda-8279-fd7cebc9af8b' => [
+        'Borrow trouble for yourself, if that\'s your nature, but don\'t lend it to your neighbours.',
+        'Rudyard Kipling',
+    ],
+    '36eafadb-95d8-5fe3-9110-08ceb9ded088' => [
+        'For success of any mission, it is necessary to have creative leadership. Creative leadership is vital for government, non-governmental organisations as well as for industries.',
+        'A. P. J. Abdul Kalam',
+    ],
+    'f8215733-8b87-542e-96d5-36cffbb09341' => [
+        'For the last several years and culminating in six months in orbit next year, I\'ve been training for my third space flight. This one is almost in a category completely different than the previous two, specifically to live in on the space station for six months, to command a space ship and to fly a new rocket ship.',
+        'Chris Hadfield',
+    ],
+    'ccce8b92-f4e3-516b-9020-4d2d94f81f4b' => [
+        'There\'s certainly an attitude in some measure of the conservative movement that I believe won\'t accept the legitimacy of any Democratic president, and I think Obama did fall victim to that - witness the \'birthers.\'',
+        'David Brock',
+    ],
+    'c8672e00-7ecf-5e72-a058-edbb40d3dd0c' => [
+        'We\'re born with success. It is only others who point out our failures, and what they attribute to us as failure.',
+        'Whoopi Goldberg',
     ],
 ];

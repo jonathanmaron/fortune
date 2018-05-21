@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '858457cd-5add-5c73-9c01-73b4c6762ea5' => [
-        'When the solution is simple, God is answering.',
-        'Albert Einstein',
+    '9df681c6-8785-5550-b07d-7552cf4118de' => [
+        'Religious speech is extreme, emotional, and motivational. It is anti-literal, relying on metaphor, allusion, and other rhetorical devices, and it assumes knowledge within a community of believers.',
+        'Amy Waldman',
     ],
-    '5f894df1-7f05-551f-af91-9841fe6c01c4' => [
-        'Great ideas often receive violent opposition from mediocre minds.',
-        'Albert Einstein',
+    '3aea8718-7002-559b-9d6c-9b57d8c6882e' => [
+        'In places where this beauty has already disappeared, we will reconstruct it.',
+        'Fritz Todt',
     ],
-    '149b2845-769a-5889-a5f8-5185022987f0' => [
-        'There is a tide in the affairs of men, Which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat. And we must take the current when it serves, or lose our ventures.',
-        'Confucius',
+    '7a2a15e8-20b2-54d6-980d-032847f3e71e' => [
+        'Success is not the result of spontaneous combustion. You must set yourself on fire.',
+        'Reggie Leach',
     ],
-    'b604564d-4f0b-5f0c-a951-3cb19bdd2901' => [
-        'I slow down when hiking. The rhythm of nature is more leisurely. The sun comes up, it moves across the sky, and you begin to synchronize to that rhythm.',
-        'John Mackey',
+    'd995ccf7-14d6-53ad-9b27-7a7a247c2265' => [
+        'Along with its enchanting and exquisite melodies, West Side Story has attitude and a tremendous amount of frenetic energy. It\'s emotional, theatrical and technical. It\'s everything.',
+        'Steve Vai',
     ],
-    '168ba26e-f48c-5a0d-b1d5-b163eb9af5a8' => [
-        'Every time a woman leaves the workforce because she can\'t find or afford childcare, or she can\'t work out a flexible arrangement with her boss, or she has no paid maternity leave, her family\'s income falls down a notch. Simultaneously, national productivity numbers decline.',
-        'Madeleine M. Kunin',
+    'bf6877e6-058b-5831-91c7-4e2efa15f7fe' => [
+        'Smiling is very important. If we are not able to smile, then the world will not have peace. It is not by going out for a demonstration against nuclear missiles that we can bring about peace. It is with our capacity of smiling, breathing, and being peace that we can make peace.',
+        'Nhat Hanh',
     ],
-    '9baecc88-8507-5003-8c22-fedcaeee8381' => [
-        'Your personal life, your professional life, and your creative life are all intertwined. I went through a few very difficult years where I felt like a failure. But it was actually really important for me to go through that. Struggle, for me, is the most inspirational thing in the world at the end of the day - as long as you treat it that way.',
-        'Skylar Grey',
+    'fc6be27c-fcbb-5797-acd4-b8abbc1067fd' => [
+        'Always bear in mind that your own resolution to succeed is more important than any one thing.',
+        'Abraham Lincoln',
     ],
-    'dd871d50-54d1-5582-80d8-f7508587ba33' => [
-        'Few and far between are the books you\'ll cherish, returning to them time and again, to revisit old friends, relive old happiness, and recapture the magic of that first read.',
-        'Michael A. Stackpole',
+    '63c83174-07e4-573d-831e-816a5dee2c29' => [
+        'It\'s actually cool to be positive and optimistic and idealistic. It\'s cool to see yourself doing beautiful, great things.',
+        'Tom DeLonge',
     ],
-    '18682d0e-396c-5306-a2b7-e935bb755fb3' => [
-        'When one side benefits more than the other, that\'s a win-lose situation. To the winner it might look like success for a while, but in the long run, it breeds resentment and distrust.',
-        'Stephen Covey',
+    'b960115a-64be-5087-a764-73a869b347cc' => [
+        'If you want a guarantee, buy a toaster.',
+        'Clint Eastwood',
     ],
-    '6422d7b4-e07c-5666-ae02-aa9893e8327a' => [
-        'The best way of removing negativity is to laugh and be joyous.',
-        'David Icke',
+    '41c37ddf-6577-5a2c-81cc-4d678d949a5c' => [
+        'Brotherhood means laying down your life for somebody, really willing to sacrifice yourself for somebody else.',
+        'Billy Graham',
     ],
-    '3c62b58e-febe-51cf-b2da-4eecd6e8f104' => [
-        'Success in management requires learning as fast as the world is changing.',
-        'Warren Bennis',
+    '37607822-de7f-5ddb-8022-12f38e97b8eb' => [
+        '\'Star Wars\' is fun, its exciting, its inspirational, and people respond to that. It\'s what they want.',
+        'George Lucas',
     ],
-    'e9c8d23f-f9e6-584d-a4f7-6b8835f3d4da' => [
-        'What drives success, and the most successful students, is internal motivation.',
-        'Vivienne Ming',
+    'e6adf1ac-a72a-5ddd-8775-1930d68760e3' => [
+        'The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.',
+        'Thomas Edison',
     ],
-    '9b26fbb6-f851-5b97-b6cf-2216caeeb33c' => [
-        'What a costume designer does is a cross between magic and camouflage. We create the illusion of changing the actors into what they are not. We ask the public to believe that every time they see a performer on the screen, he\'s become a different person.',
-        'Edith Head',
+    '9b74128e-23a6-5cf8-bac0-476278138824' => [
+        'I think we all suffer from guilt at some point in our lives, but for the most part, I never really regret, and I try to always remain positive.',
+        'Channing Tatum',
     ],
-    '97e03564-b0dc-50b1-82a0-51026ced9171' => [
-        'There is no doubt that breath control is the means for mind control because the mind, like breath, is a part of air; because the nature of mobility is common to both; because the place of origin is the same for both; and because when one of them is controlled, the other gets controlled.',
-        'Ramana Maharshi',
+    '1376653b-d19c-53fa-bcc8-41f0d2b50f65' => [
+        'Over every mountain there is a path, although it may not be seen from the valley.',
+        'Theodore Roethke',
     ],
-    '56685180-0089-57de-8995-bf78b5ae6a1a' => [
-        'The world is full of musicians who can play great, and you wouldn\'t cross the road to see them. It\'s people who have this indefinable attitude that are the good ones.',
-        'Nick Lowe',
+    '2fd03048-858b-5d94-86ea-5166a2b3bf9d' => [
+        'There\'s something to be said in favor of working in isolation in the real world.',
+        'A. R. Ammons',
     ],
-    'ba3efebf-06f4-57a8-ab51-bac1341c54c3' => [
-        'We are here to add what we can to life, not to get what we can from life.',
-        'Franklin D. Roosevelt',
+    'a63a4280-707c-525d-a573-6c01eab8228f' => [
+        'You want everyone to be great and funny. I\'m not saying I\'m great, but I\'m funny.',
+        'Jon Lovitz',
     ],
-    'e9d62568-3b0f-5850-a6f1-95589cd809a7' => [
-        'The war changed everybody\'s attitude. We became international almost overnight.',
-        'W. Averell Harriman',
+    'c21480f7-c81a-5ee0-a4a8-d8715a83d105' => [
+        'The reason that Google was such a success is because they were the first ones to take advantage of the self-organizing properties of the web. It\'s in ecological sustainability. It\'s in the developmental power of entrepreneurship, the ethical power of democracy.',
+        'Ron Eglash',
     ],
-    '912aa0cd-a4ba-5a58-b9a4-061edb712d35' => [
-        'True leaders don\'t invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people.',
-        'Myles Munroe',
+    '78eae663-723f-5403-88dd-bed70683d513' => [
+        'Impossibilities are merely things which we have not yet learned.',
+        'Charles Chesnutt',
     ],
-    '5b90210e-e41d-5f71-8a96-d2ce0c1ba884' => [
-        'One of things I like about looking at pictures when you\'re young and also meeting back with old friends you haven\'t seen in a long time is, for me, it\'s a glimpse of who I was.',
-        'Lea Thompson',
+    'd5ce5d7a-6954-5286-9eb4-c8c5796accc5' => [
+        'A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.',
+        'Chuck Norris',
     ],
-    '14394866-d89b-5d91-b0e0-73a106f133e9' => [
-        'I learned the truth at seventeen, That love was meant for beauty queens, And high school girls with clear skinned smiles, Who married young and then retired.',
-        'Janis Ian',
+    '23068921-4280-5e46-a9d8-41ad540b29d6' => [
+        'Sweat, sweat, sweat! Work and sweat, cry and sweat, pray and sweat!',
+        'Zora Neale Hurston',
     ],
-    '658f8cf8-35dd-51d4-a910-1d2c8ba9a553' => [
-        'I\'m looking for the best person irregardless of political party, of race or religion, or color of their skin. Those things don\'t matter to me. I want someone who\'s qualified, who has a qualification to character and the integrity to do the things that have to be done to save this world.',
-        'Edward Brooke',
+    'bcda36b7-521b-522a-9192-f3a0c674e272' => [
+        'Modeling is an incredible job for a girl if she approaches it with her head on her shoulders. You travel, you speak to people, and it opens your mind to different things.',
+        'Anja Rubik',
     ],
-    'e29d5b9c-a116-5784-8d77-5fff83ea007e' => [
-        'Sometimes a good love song can change the world and create positive energy more than any political song can.',
-        'Serj Tankian',
-    ],
-    'da5f6428-2a32-5c99-82da-adff0bc9e486' => [
-        'When you\'re walking at the airport, you\'re expected to smile at people because they know you... I find that tough. I\'m only trying to protect myself. So I don\'t take my eyes off the floor. People can take that as attitude. But it\'s actually shyness. Yes, it is a bad habit. But it\'s a defense mechanism.',
+    'd54ca4ef-73f7-558d-9341-f7972247115d' => [
+        'I\'m not a big spender or shopper. Neither am I extravagant, nor do I have big expenses. I mainly spend on travel. I don\'t buy overpriced clothes, as I feel such expenses are unnecessary. I probably wouldn\'t buy expensive watches or jewellery either.',
         'Katrina Kaif',
     ],
-    '92ea7e78-e6ea-5951-8674-73434e258f74' => [
-        'You become a better writer by writing. You become a better travel writer by writing about travel.',
-        'Tim Cahill',
+    'ade73e47-e2b2-55bb-863f-89597580ba23' => [
+        'I believe with great fortunes come great responsibility, so with our family\'s assets and many wealthy friends, we could help raise a lot of money to help others.',
+        'Eric Trump',
     ],
-    '4f5741c2-5c42-5515-9f20-fd7693e64f24' => [
-        'It is my feeling that Time ripens all things; with Time all things are revealed; Time is the father of truth.',
-        'Francois Rabelais',
+    '486647fc-44ff-535a-acb3-64d930626ad0' => [
+        'Anyone can be heroic from time to time, but a gentleman is something you have to be all the time.',
+        'Luigi Pirandello',
     ],
-    'bf868152-e365-51a7-9483-e5c54a071b19' => [
-        'Think as a wise man but communicate in the language of the people.',
-        'William Yeats',
+    '12b35fec-3602-5efb-b5cd-d6c9f321e18e' => [
+        'Life is like riding a bicycle. In order to maintain balance, you must keep moving.',
+        'Albert Einstein',
     ],
-    'c1d0ec54-92cc-5513-8071-1de17389cbf2' => [
-        'Once you have a lot of success, you become a target in many ways.',
-        'Jennifer Lopez',
+    '5f8b356e-0c4b-53fa-b3b6-8ec820e8b6b5' => [
+        'Contrary to popular mythology, the best and most durable relationships are based not on vulnerability or passion but on a conjugation of positive attributes, a meeting of mind, body and soul that is all the more powerful as it is not weighed down with neediness and unreasonable expectation.',
+        'Mariella Frostrup',
     ],
-    '19a90db9-0ef5-5f4d-8d9c-c44878f00852' => [
-        'My good friends are Mormon, some of the best people I know.',
-        'Katherine Heigl',
+    'c75bfc3d-60f0-5601-8193-cdfd2546e0f9' => [
+        'Even with all our technology and the inventions that make modern life so much easier than it once was, it takes just one big natural disaster to wipe all that away and remind us that, here on Earth, we\'re still at the mercy of nature.',
+        'Neil deGrasse Tyson',
     ],
-    'bebdffc5-7123-5592-a1d7-193632558d63' => [
-        'Opportunities are usually disguised as hard work, so most people don\'t recognize them.',
-        'Ann Landers',
+    '145482fc-6a7b-5695-8fcc-ab9c6f59084a' => [
+        'I spent a year in that town, one Sunday.',
+        'George Burns',
     ],
-    '030bd028-88b2-5304-a0dd-be2258c88f40' => [
-        'If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.',
-        'Henry David Thoreau',
+    '41e09327-edc4-5020-93ce-0c89345ef5e9' => [
+        'In a time not distant, it will be possible to flash any image formed in thought on a screen and render it visible at any place desired. The perfection of this means of reading thought will create a revolution for the better in all our social relations.',
+        'Nikola Tesla',
     ],
-    '818879f3-e976-51f5-8870-8c1aa314ae39' => [
-        'For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.',
-        'Leonardo da Vinci',
+    'a53c775f-11ae-54fb-8a38-0f11760786f4' => [
+        'The meat that I choose to feed my family, it\'s healthy meats such as lamb, which is very low in cholesterol and saturated fat. And then turkey - we eat a lot of turkey. We don\'t eat loads of beef.',
+        'Tia Mowry',
     ],
-    'c42c20e0-46ac-550f-9409-f88df65a710b' => [
-        'The earth has received the embrace of the sun and we shall see the results of that love.',
-        'Sitting Bull',
+    'ee555c35-cdb2-5a0e-8d9e-572c53848f57' => [
+        'Once you bring life into the world, you must protect it. We must protect it by changing the world.',
+        'Leah LaBelle',
     ],
-    '341eb039-024e-5730-9234-b82486d7bc04' => [
-        'I believe in Karma. If the good is sown, the good is collected. When positive things are made, that returns well.',
-        'Yannick Noah',
+    '93424b5a-fa56-57b9-9318-bb174a1a42bc' => [
+        'You can\'t just give someone a creativity injection. You have to create an environment for curiosity and a way to encourage people and get the best out of them.',
+        'Ken Robinson',
     ],
-    'a18217ce-aab7-50fc-9cbf-033f137a3e35' => [
-        'Inspiration comes from within yourself. One has to be positive. When you\'re positive, good things happen.',
-        'Deep Roy',
+    '6fed641c-3ab6-5c3f-8a85-09c8948affe2' => [
+        'Teachers are always trying to inspire people to do better, to learn, to grow. That\'s what we do, and we\'re proud of the success we\'ve had here doing that, and it\'s something we\'ll certainly continue to do.',
+        'Nick Saban',
     ],
-    '5e038bce-4ed9-5d8d-a9bf-fd4d857c4eac' => [
-        'I always had the attitude that I wanted to throw a no-hitter every game.',
-        'Dennis Eckersley',
+    'f4ce96f9-ac1d-5f69-9154-cd0b630a304a' => [
+        'Working with Chiranjeevi sir, I realized the professionalism and attitude they used work with. It\'s just so contagious. When such a personality is doing that, everyone around, too, would do that out of respect. Work was far more efficient, smoother.',
+        'Kajal Aggarwal',
     ],
-    '3b4f3b99-61a2-580e-98c2-0d1efffa1e76' => [
-        'The central conservative truth is that it is culture, not politics, that determines the success of a society. The central liberal truth is that politics can change a culture and save it from itself.',
-        'Daniel Patrick Moynihan',
+    'f3cebd5e-f718-5434-8f0f-80945310626d' => [
+        'It is cruel, you know, that music should be so beautiful. It has the beauty of loneliness of pain: of strength and freedom. The beauty of disappointment and never-satisfied love. The cruel beauty of nature and everlasting beauty of monotony.',
+        'Benjamin Britten',
     ],
-    'a72141f1-8055-56d1-927b-495de5bc143c' => [
-        'Temporary success can be achieved in spite of lack of other fundamental qualities, but no advancements can be maintained without hard work.',
-        'William Feather',
+    '920e36cc-4d31-5911-8495-87122d48cc95' => [
+        'I never understand when people say, \'Do you do comedy or tragedy?\' I don\'t think they\'re very much different. They both have to be true, and there isn\'t a great play in the world that doesn\'t have funny parts to it - as \'Salesman\' does, as \'King Lear\' does. The whole idea is to reflect life in some way, which means surely you have to have both.',
+        'Mike Nichols',
     ],
-    '043ace03-771c-590d-b8f0-b29f4530bda1' => [
-        'I actually used to smile a lot in pictures. I think I only stopped smiling when I got into fashion. Fashion stole my smile!',
-        'Victoria Beckham',
+    '67ff46f7-077b-5c84-8d42-f0096d0ea992' => [
+        'You know, real life doesn\'t just suddenly resolve itself. You have to keep working at it. Democracy, marriage, friendship. You can\'t just say, \'She\'s my best friend.\' That\'s not a given, it\'s a process.',
+        'Viggo Mortensen',
     ],
-    '6a4d2ad6-f080-5790-96f9-a9d14591a50f' => [
-        'With a great poet the sense of Beauty overcomes every other consideration, or rather obliterates all consideration.',
-        'John Keats',
+    'e941c9a6-5c97-5116-9f95-4fc1012e4a8c' => [
+        'Today, smartphones, tablets, and the Internet have allowed people to conduct business from anywhere at any time. But as we continue to progress, many families find it harder to balance the ever-increasing demands of their work with their desire to care for and be with their family.',
+        'Renee Ellmers',
     ],
-    '522c0da3-f803-567e-9066-2f4e57e594d1' => [
-        'It\'s how you deal with failure that determines how you achieve success.',
-        'Charlotte Whitton',
+    '128c617e-deb5-5a53-ba1d-df71f5f3b244' => [
+        'I think it\'s important to have closure in any relationship that ends - from a romantic relationship to a friendship. You should always have a sense of clarity at the end and know why it began and why it ended. You need that in your life to move cleanly into your next phase.',
+        'Marie Curie',
     ],
-    '1c9f4eb4-e7f3-5e88-a55c-3c399336bac4' => [
-        'Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best.',
-        'Napoleon Hill',
+    '9a2b211a-061b-536f-92f3-531ee8cc5a8d' => [
+        'America isn\'t Congress. America isn\'t Washington. America is the striving immigrant who starts a business, or the mom who works two low-wage jobs to give her kid a better life. America is the union leader and the CEO who put aside their differences to make the economy stronger.',
+        'Khaled Hosseini',
     ],
-    '29b4501a-afe1-547e-869f-db370e2f7e52' => [
-        'If you could get all the people in the organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time.',
-        'Patrick Lencioni',
+    '1f72e198-2bb9-52af-82e4-0c08494331a1' => [
+        'When you have to work, work with a smile.',
+        'Kapil Dev',
     ],
-    '017bbfa0-8fbf-590c-96cd-f475f61a58f5' => [
-        'We read the world wrong and say that it deceives us.',
-        'Rabindranath Tagore',
+    'e4f696b7-18b7-5056-82ac-c3d7f9728945' => [
+        'The sky broke like an egg into full sunset and the water caught fire.',
+        'Pamela Hansford Johnson',
     ],
-    'b2119567-0792-5185-bfbd-c023a30e8afd' => [
-        'I do a good job of staying positive and just moving on.',
-        'Katie Taylor',
+    'a145fa12-bb57-5f51-86d1-9c80400d2568' => [
+        'Wrinkles should merely indicate where smiles have been',
+        'Mark Twain',
     ],
-    '976fe3d8-01dd-5390-9ec1-6132d1fd1c0e' => [
-        'How beautiful the leaves grow old. How full of light and color are their last days.',
-        'John Burroughs',
+    'bd3f4d94-7f18-5b6b-bdaf-27a68d2b2397' => [
+        'I cook with wine, sometimes I even add it to the food.',
+        'W. C. Fields',
     ],
-    '41416af3-2f1a-5784-af9c-b241b1d2a2f9' => [
-        'The will to work of everyone in the country is the best guarantee of national survival.',
-        'Bhumibol Adulyadej',
+    '43344d07-ff41-5a39-9a4c-fd0e35efcc56' => [
+        'Nature is the master of talents; genius is the master of nature.',
+        'Josiah Gilbert Holland',
     ],
-    'acb40530-b6f9-56e7-9d8e-157fe9d7cd16' => [
-        'If love is the answer, could you please rephrase the question?',
-        'Lily Tomlin',
+    'b0621cb3-31ba-5169-b494-77600559a719' => [
+        'Every time you dive, you hope you\'ll see something new - some new species. Sometimes the ocean gives you a gift, sometimes it doesn\'t.',
+        'James Cameron',
     ],
-    '89f1913e-4d0e-5786-a742-c63b2ed437e2' => [
-        'One may miss the mark by aiming too high as too low.',
-        'Thomas Fuller',
+    'abc4ba65-1f8e-5b35-bbd1-292f1c27fa5f' => [
+        'Wolves and women are relational by nature, inquiring, possessed of great endurance and strength. They are deeply intuitive, intensely concerned with their young, their mate and their pack. Yet both have been hounded, harassed and falsely imputed to be devouring and devious, overly aggressive, of less value than those who are their detractors.',
+        'Clarissa Pinkola Estes',
     ],
-    '1104ee18-6266-54a0-b5e6-eb318a96c3e7' => [
-        'When Maurice touched a keyboard, it was like something from a movie, magical. He would always give you something from a movie, and you\'d go, what did you just play... immediately inspirational writings, amazing. That\'s what we\'re going to miss.',
-        'Robin Gibb',
+    '468fb4c6-a52d-5d0f-9d6a-7742ef67c69f' => [
+        'And whereas women had to fight to find their way into the workforce, men are now fighting to reclaim their place in the family structure.',
+        'Bob Geldof',
     ],
-    'eac92cc9-5e7d-52b5-9421-4188b8cdb66e' => [
-        'I am not a religious person myself, but I did look for nature. I had spent my first sabbatical in New York City. Looked for something different for the second one. Europe and the U.S. didn\'t really feel enticing because I knew them too well. So Asia it was. The most beautiful landscapes I had seen in Asia were Sri Lanka and Bali.',
-        'Stefan Sagmeister',
+    '530b8322-5c03-55c2-ac9c-4347680b8cab' => [
+        'We\'ve been surrounded by images of space our whole lives, from the speculative images of science fiction to the inspirational visions of artists to the increasingly beautiful pictures made possible by complex technologies. But whilst we have an overwhelmingly vivid visual understanding of space, we have no sense of what space sounds like.',
+        'Honor Harger',
     ],
-    '1f0734b6-83d2-5932-9f75-098b9d669460' => [
-        'My success is the team\'s success. It\'s one of those things to a certain degree that it\'s effort and ability but also how I benefit from what my teammates do, and then it is up to me to perform.',
-        'Jason Babin',
+    'c7eb66c6-a5d5-5c64-ac12-baf7652ca154' => [
+        'From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.',
+        'Cesar Chavez',
+    ],
+    '1ce524f2-05c0-5965-b80e-f82279bfee2c' => [
+        'I think it\'s very important to have a feedback loop, where you\'re constantly thinking about what you\'ve done and how you could be doing it better. I think that\'s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.',
+        'Elon Musk',
     ],
 ];

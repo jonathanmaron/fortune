@@ -21,6 +21,10 @@ class ImportCommand extends AbstractCommand
 
         $this->setDescription('Import fortunes from JSON files');
 
+        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
+
+        //<editor-fold desc="Option: (string) path">
+
         $name        = 'path';
         $shortcut    = null;
         $mode        = InputOption::VALUE_REQUIRED;
@@ -29,20 +33,28 @@ class ImportCommand extends AbstractCommand
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
+        //</editor-fold>
+
         return $this;
     }
 
     protected function initialize(InputInterface $input, OutputInterface $output): self
     {
-        $inputPath = (string) $input->getOption('path');
-        $inputPath = trim($inputPath);
+        //<editor-fold desc="Option: (string) path">
 
-        if (!is_dir($inputPath)) {
+        $path = (string) $input->getOption('path');
+        $path = trim($path);
+
+        if (!is_dir($path)) {
             $message = '--path contains an invalid path';
             throw new InvalidArgumentException($message);
         }
 
-        $this->setPath(realpath($inputPath));
+        $path = (string) $path;
+
+        $this->setPath(realpath($path));
+
+        //</editor-fold>
 
         return $this;
     }

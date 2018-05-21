@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'e763fc1b-c146-5071-ac4d-df21fa1d6718' => [
-        'Everyone thinks of changing the world, but no one thinks of changing himself.',
-        'Leo Tolstoy',
+    'a75be7d1-ef1f-5aa2-8f62-e058e1d57afe' => [
+        'I like the idea of being warm and secure. That\'s what home should be. That you have a sense of warmth, security, love, and you love the things around you and surround yourself with beauty.',
+        'Andre Leon Talley',
     ],
-    '3cc0cff3-8a4d-591a-a042-14a395c7513b' => [
-        'Your chances of success are directly proportional to the degree of pleasure you desire from what you do. If you are in a job you hate, face the fact squarely and get out.',
-        'Michael Korda',
+    '27d01469-7111-5d3d-9eb5-f93dc9008f71' => [
+        'Life is a DNA software system.',
+        'Mike Yaconelli',
     ],
-    '9e1f78b7-720a-5c0d-ba69-2f0bb085c3d5' => [
-        'I go back to the old school days of that Attitude Era stuff. Everybody knows when I speak of the Attitude Era, my favorite stuff is of the mid-\'80s, all that NWA stuff, the World Class stuff, the stuff that Bill Watts was doing.',
-        'Stone Cold Steve Austin',
-    ],
-    'f14cd930-0b59-56a7-89b7-6472e4f2e15b' => [
-        'Ah! Young people, travel if you can, and if you cannot - travel all the same!',
-        'Jules Verne',
-    ],
-    '290be3ac-7c0e-5452-9f76-5125a9319450' => [
-        'As kids we\'re not taught how to deal with success; we\'re taught how to deal with failure. If at first you don\'t succeed, try, try again. If at first you succeed, then what?',
-        'Charlie Sheen',
-    ],
-    'b64e3454-00e3-5afa-9f3c-502a45f08904' => [
-        'The first time probably people really were aware of me, I unfortunately had the title of Showtime\'s Funniest Person in America. And that\'s a really tough title to travel around with when you\'re not even known.',
-        'Ellen DeGeneres',
-    ],
-    'f2c4505d-d30f-55ce-9792-993d1755c2bf' => [
-        'Obstacles are necessary for success because in selling, as in all careers of importance, victory comes only after many struggles and countless defeats.',
-        'Og Mandino',
-    ],
-    '63ffdbbc-ee92-560b-89e5-813731e5e619' => [
-        'The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.',
-        'Buddha',
-    ],
-    'd0258e48-8784-5fd8-96c4-a002f74b44dc' => [
-        'Example has more followers than reason.',
-        'Christian Bovee',
-    ],
-    '8d07362b-1dad-5546-91e6-7f849c5b024a' => [
-        'Everybody makes mistakes, but when goalkeepers make them, it is costly. That\'s the nature of being a goalkeeper.',
-        'Gary Speed',
-    ],
-    '76777653-5698-57f0-8da7-9510820a42e7' => [
-        'The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life.',
-        'Neale Donald Walsch',
-    ],
-    '3ba3c43e-1489-523f-b7f3-77ab8a87126f' => [
-        'Keep your eyes on the stars, and your feet on the ground.',
-        'Theodore Roosevelt',
-    ],
-    'aeeb90c8-622b-5fd9-80fe-747c74c22746' => [
-        'I am generally a very happy and easygoing person. I also believe it\'s always better to meet people with a smile rather than looking cold, especially when you first meet. It changes everything.',
-        'Heidi Klum',
-    ],
-    '7727c364-b931-5068-ab68-18ba7410d0c2' => [
-        'Of course I used to smile and laugh in 1976, but not when I was competing. Please show me somebody who laughs when they are concentrating; I always smiled.',
-        'Nadia Comaneci',
-    ],
-    '10ee44f0-2cb2-575a-b09e-c3bc18e37551' => [
-        'I find that the harder I work, the more luck I seem to have.',
-        'Thomas Jefferson',
-    ],
-    '7d30e7aa-81cc-5cbe-9872-2839d865b66b' => [
-        'The other thing is quality of life; if you have a place where you can go and have a picnic with your family, it doesn\'t matter if it\'s a recession or not, you can include that in your quality of life.',
-        'Jim Fowler',
-    ],
-    '328907ac-83b3-5168-9906-eeb6a0e6cb4e' => [
-        'True time is four-dimensional.',
-        'Martin Heidegger',
-    ],
-    'a0961a94-415b-561c-962f-8e11bf25efd1' => [
-        'I am very optimistic, and I wish that God almighty grants me success to get a qualifying time. Only then can I go to the Olympics. If this happens I will be the first Palestinian athlete to gain a qualifying time. This will be a big achievement.',
-        'Nader al-Masri',
-    ],
-    '7dbe0a05-0849-523a-b3dd-20fba82f26dc' => [
-        'It\'s okay to have a bad day',
-        'Unknown',
-    ],
-    'c1aec752-66f3-5243-be29-204103e07ea4' => [
-        'Every person gets negative things, they learn from those negative things, and you become a positive person.',
-        'Kapil Dev',
-    ],
-    'dc2c2ca5-4602-5e46-a8d3-53d8f475e23c' => [
-        'I prioritize the things that need to get done at work, and I ask myself where I\'m spending the majority of my time. The answer to that question always needs to be \'with my family.\'',
-        'Elisabeth Hasselbeck',
-    ],
-    '2f2ce564-6313-5a20-8a49-89cd029ec2be' => [
-        'Be your own hero, it\'s cheaper than a movie ticket.',
-        'Doug Horton',
-    ],
-    '5f15a625-37dc-5e69-8851-ac6e2e79a021' => [
-        'What really interests me is how a woman who has had a bad experience with a man comes through it and gets a new life. I feel you have to be positive. You have to say, \'Look, okay, he\'s ditched you, but there\'s life after.\'',
-        'Kate O\'Mara',
-    ],
-    '55f34ec6-4615-5d5b-8adb-54424604fcc0' => [
-        'Only the guy who isn\'t rowing has time to rock the boat.',
-        'Jean-Paul Sartre',
-    ],
-    'a44fa5e2-e623-50d5-9ba9-c7a2932e0736' => [
-        'Equal pay isn\'t just a women\'s issue; when women get equal pay, their family incomes rise and the whole family benefits.',
-        'Mike Honda',
-    ],
-    '5e2c7e98-5048-51a3-ae26-fa2e2b3e94dc' => [
-        'Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on.',
-        'Paula Abdul',
-    ],
-    'fcdcf6fc-3b8f-5a12-b6fe-80352e31e948' => [
-        'If we did the things we are capable of, we would astound ourselves.',
-        'Thomas Edison',
-    ],
-    'eab714a3-95b8-52a3-87e9-bad7741895b8' => [
-        'Success breeds success, and failure leads to a sort of fallow period.',
-        'Felicity Kendal',
-    ],
-    '05365378-1e6b-5aca-90a0-f994fce30e38' => [
-        'Today is your own. Tomorrow perchance may never come.',
-        'Helen Keller',
-    ],
-    'b7788052-8c22-5aa3-8b73-7197b2a639c3' => [
-        'The difference between the impossible and the possible lies in a person\'s determination.',
-        'Tommy Lasorda',
-    ],
-    'a3a159d7-34ed-511b-99f2-f674e83ee9c1' => [
-        'Prosperity is the best protector of principle.',
-        'Mark Twain',
-    ],
-    '52a8f6dd-5359-5d37-9c00-e903f3b2d960' => [
-        'Our greatness has always come from people who expect nothing and take nothing for granted - folks who work hard for what they have, then reach back and help others after them.',
-        'Michelle Obama',
-    ],
-    '3f58254d-05b5-576f-a720-bb08720142a7' => [
-        'Even though you may want to move forward in your life, you may have one foot on the brakes. In order to be free, we must learn how to let go. Release the hurt. Release the fear. Refuse to entertain your old pain. The energy it takes to hang onto the past is holding you back from a new life. What is it you would let go of today?',
-        'William Morris',
-    ],
-    '853266a5-7218-5229-88c7-440994c0894b' => [
-        'Gray skies are just clouds passing over.',
-        'Duke Ellington',
-    ],
-    'e0a2ac5f-0a39-5868-91bc-1f25a5a2319e' => [
-        'Know how to travel from your town to a nearby town without a car, either by bus or by rail.',
-        'Marilyn vos Savant',
-    ],
-    'e11ac73e-495d-5250-a4be-bb8415770cf9' => [
-        'There are three principal means of acquiring knowledge... observation of nature, reflection, and experimentation. Observation collects facts; reflection combines them; experimentation verifies the result of that combination.',
-        'Denis Diderot',
-    ],
-    '171194ac-58fa-5c65-baa6-e77cc94ff7a5' => [
-        'Every successful organization has to make the transition from a world defined primarily by repetition to one primarily defined by change. This is the biggest transformation in the structure of how humans work together since the Agricultural Revolution.',
-        'Bill Drayton',
-    ],
-    '3b79b029-bf20-5b74-a81a-8ca5a04cca72' => [
-        'But having said that, there\'s also a sea change in attitude towards media.',
-        'Robert McChesney',
-    ],
-    'a8f0981f-69a1-541f-9893-10482a6cd56c' => [
-        'Small deeds done are better than great deeds planned.',
-        'Peter Marshall',
-    ],
-    '4132275f-e0a3-5b76-ab49-49c336ce5abe' => [
-        'Your big opportunity may be right where you are now.',
+    'e2519e56-bd9a-52ae-ba85-0c4e4b037b22' => [
+        'Failure is nature\'s plan to prepare you for great responsibilities.',
         'Napoleon Hill',
     ],
-    '09fc6374-7391-5c9b-beb7-3839a742c639' => [
-        'He is richest who is content with the least, for content is the wealth of nature.',
-        'Socrates',
+    'b5c2f220-d5b4-57a7-8a0f-3858ce9402e9' => [
+        'Iraq is just a symbol of the attitude of western democracies to the rest of the world.',
+        'Harold Pinter',
     ],
-    '533ed559-3e9a-54ca-93b1-b028d4169bf4' => [
-        'It is the hopeful, buoyant, cheerful attitude of mind that wins. Optimism is a success builder; pessimism an achievement killer.',
-        'Orison Swett Marden',
+    '8499ecc9-1c8b-5ddd-b6b8-32fefb345d94' => [
+        'Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success.',
+        'Dale Carnegie',
     ],
-    '901f33be-e3e7-5f78-806f-98d82e901d37' => [
-        'If you do what you love, it is the best way to relax.',
-        'Christian Louboutin',
+    '30c5df4f-fbb6-5835-9bb1-37cbfff25dfe' => [
+        'The most important thing is to try and inspire people so that they can be great in whatever they want to do.',
+        'Kobe Bryant',
     ],
-    '3e97d9f0-c897-552a-8f80-645ff9913b94' => [
-        'The study of beauty is a duel in which the artist cries with terror before being defeated.',
-        'Charles Baudelaire',
-    ],
-    '05dba7b2-2145-5830-955a-b210ad5ccf22' => [
-        'We need to accept that the commandments of God aren\'t just a long list of good ideas. They aren\'t \'life hacks\' from an Internet blog or motivational quotes from a Pinterest board.',
-        'Dieter F. Uchtdorf',
-    ],
-    '82a5c625-5a54-50eb-bcca-a2b79acd1f7b' => [
-        'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
+    '7f62c62b-057d-5e1e-9b62-9443bd8649df' => [
+        'Reality is merely an illusion, albeit a very persistent one.',
         'Albert Einstein',
     ],
-    '6acbf926-d4e9-5f0c-bc79-fe06695aff74' => [
-        'There\'s going to be space travel at some point.',
-        'Anne Wojcicki',
+    '3571bc0e-6dc9-5aeb-8b5c-14e6e7461512' => [
+        'No man was ever wise by chance.',
+        'Seneca',
     ],
-    '91a37d85-e8ef-5cc6-be8d-c0f82b921536' => [
-        'I think having toured the world and seeing many places, I\'ve just been blown away by how we\'ve really scarred our home. I\'m as guilty as the next person if not more so. I travel a lot. The damage we do to our planet is huge.',
-        'James Blunt',
+    '655afa3e-c072-50ed-af8a-68b23261de65' => [
+        'Art should never be limited - the beauty of art is that it gives us the freedom to go places where we wouldn\'t go to in our normal lives. Inside, I\'m just so many different people. I go from the pretty girl on the red carpet to the singer at Ozzfest, spitting in the crowd. That\'s Jada.',
+        'Jada Pinkett Smith',
     ],
-    '9c97c9cc-c4aa-5034-a381-63be6f754e9f' => [
-        'The fun part of being a girl is that there are little beauty things you can do to make yourself feel special.',
-        'Jennifer Love Hewitt',
+    'a32b0bd2-eed7-519f-9bed-df15c59a2f6c' => [
+        'Traveling is the ruin of all happiness! There\'s no looking at a building after seeing Italy.',
+        'Fanny Burney',
     ],
-    '512a1cd4-888f-51af-a057-b375ddf9fa70' => [
-        'The thing I most hate about the Left is that they want to stop us laughing - to prescribe which jokes are OK and which are not OK to make in public and to draw artificial lines around certain subjects. I find all sorts of inappropriate things funny.',
-        'Milo Yiannopoulos',
+    'a8df16da-fdd1-53c6-87d0-f2f7ae5b5340' => [
+        'Setting goals is the first step in turning the invisible into the visible.',
+        'Tony Robbins',
+    ],
+    'fd272dc2-60d7-5302-af85-eb102fc29d08' => [
+        'If someone decides they\'re not going to be happy, it\'s not your problem. You don\'t have to spend your time and energy trying to cheer up someone who has already decided to stay in a bad mood. Believe it or not, you can actually hurt people by playing into their self-pity.',
+        'Joyce Meyer',
+    ],
+    '4ee090f5-5518-53b7-a4a0-8ffec3eb841b' => [
+        'The subtlety of nature is greater many times over than the subtlety of the senses and understanding.',
+        'Francis Bacon',
+    ],
+    'ec1b8f44-7feb-5441-9b47-bd7b17ef51a3' => [
+        'I left my family, and I left my brother and sister, and I went and lived my dream. I saw everybody, but is it ever enough?',
+        'Joan Jett',
+    ],
+    'd7c6e63f-d81d-5703-9b81-be93c10cfcc9' => [
+        'It seems to me that many of the belligerent Jewish movements that were built upon hatred of Arabs - and I\'m not only talking about Lieberman, but within the Likud as well - grew out of the patronizing socialist attitude that said, \'They\'ll be there, and we\'ll be here.\'',
+        'Reuven Rivlin',
+    ],
+    'cf11919e-8fa9-5843-bbfe-e3a27db27922' => [
+        'The industrial revolution allowed us, for the first time, to start replacing human labour with machines.',
+        'Vitalik Buterin',
+    ],
+    '5ac46aac-955a-5c12-8893-17b05a5f0852' => [
+        'You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you\'ll get to tomorrow. Intention without action is useless.',
+        'Caroline Myss',
+    ],
+    'a6e2636d-d7fb-5ae1-bcb2-43e9e9473f85' => [
+        'I think my mom put it best. She said, \'Little girls soften their daddy\'s hearts.\'',
+        'Paul Walker',
+    ],
+    '51dfecf9-d4b7-5d6c-b2bf-1525a3353e0d' => [
+        'Solitude gives birth to the original in us, to beauty unfamiliar and perilous - to poetry. But also, it gives birth to the opposite: to the perverse, the illicit, the absurd.',
+        'Thomas Mann',
+    ],
+    '301d4b1f-06f2-5395-95a4-0e74373ac710' => [
+        'I wrote \'(\'Til) I Kissed You\' about a girl I met in Australia. Her name was Lilian, and she was very, very inspirational. I was married, but... I wrote the song about her on the way back home.',
+        'Don Everly',
+    ],
+    '663c175d-0ec2-519e-b435-3bba3d55c655' => [
+        'Because of their size, parents may be difficult to discipline properly.',
+        'P. J. O\'Rourke',
+    ],
+    'a5a2763a-e8b7-58b0-8af2-9656bf2cf0ad' => [
+        'Maxim for life: You get treated in life the way you teach people to treat you.',
+        'Wayne Dyer',
+    ],
+    'c02b39a0-2083-5650-b636-875d1adafc0e' => [
+        'I married my best friend. I was still in awe after more than four years of being around her at how smart and strong and loving and caring she was. And I really hoped that her choosing me and rejecting my advice to pursue her own career was a decision she would never regret.',
+        'William J. Clinton',
+    ],
+    '5bbcca41-df85-5f1d-8d06-fd82975f2f35' => [
+        'People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar.',
+        'Thich Nhat Hanh',
+    ],
+    'c1bc4af1-8c93-5542-bc58-f28cb429bbf5' => [
+        'In all my wild mountaineering, I have enjoyed only one avalanche ride; and the start was so sudden, and the end came so soon, I thought but little of the danger that goes with this sort of travel, though one thinks fast at such times.',
+        'John Muir',
+    ],
+    'dd09245e-507c-584a-a617-3a0dae1ad85e' => [
+        'If you do not change direction, you may end up where you are heading.',
+        'Lao Tzu',
+    ],
+    '3df0715c-da1d-5235-b8b9-51cde85c9230' => [
+        'I believe that in the long run, separation between Israel and the Palestinians is the best solution for resolving the Israeli-Palestinian conflict.',
+        'Yitzhak Rabin',
+    ],
+    'f5e16cab-d104-5980-9f29-57ba526dfe29' => [
+        '\'Thank you\' is the best prayer that anyone could say. I say that one a lot. Thank you expresses extreme gratitude, humility, understanding.',
+        'Alice Walker',
+    ],
+    '78dc62da-ad0a-53b2-88fe-2dde2f0c9ffe' => [
+        'An organization, no matter how well designed, is only as good as the people who live and work in it.',
+        'Dee Hock',
+    ],
+    '99a0db7c-c841-569a-8d5e-44d5dbec43e8' => [
+        'The single most important factor in our long-term happiness is the relationships we have with our family and close friends.',
+        'Clayton M. Christensen',
+    ],
+    'dddb5fd5-b226-5d4b-b3d2-3cb013533cd8' => [
+        'Beauty is in the eye of the beer holder.',
+        'Kinky Friedman',
+    ],
+    '5b3f2d8d-c5aa-58a8-b581-fc117acfbc90' => [
+        'Winning is not a sometime thing; it\'s an all the time thing. You don\'t win once in a while... you don\'t do things right once in a while... you do them right all the time. Winning is habit.',
+        'Vince Lombardi',
+    ],
+    'c36e5285-1c37-5a47-bfda-553fe85741c8' => [
+        'My whole life is about winning. I don\'t lose often. I almost never lose.',
+        'Marcus Aurelius',
+    ],
+    '3c73e2ce-7a9b-52af-91e0-3e2d4a518d0b' => [
+        'When I was a child I asked my mother what homosexuality was about and she said - and this was 100 years ago in Germany and she was very open-minded - \'It\'s like hair color. It\'s nothing. Some people are blond and some people have dark hair. It\'s not a subject.\' This was a very healthy attitude.',
+        'Karl Lagerfeld',
+    ],
+    '7e359d76-0a92-555b-b15c-47d2cf9cf9e4' => [
+        'Too many of us are not living our dreams because we are living our fears.',
+        'Les Brown',
+    ],
+    '1f3c7da8-9c19-5526-850d-12627f0602ef' => [
+        'What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.',
+        'Don Zimmer',
+    ],
+    'd21e5c24-13a5-5537-8d3e-88e98f92fb90' => [
+        'The possibility of a scientific treatment of history means a wider experience, a greater maturity of practical reason, and finally a fuller realization of certain basic ideas regarding the nature of life and time.',
+        'Muhammad Iqbal',
+    ],
+    '9545cd07-0fc4-5a5f-8728-a8e690f214ea' => [
+        'You cannot allow your desire to be a winner to be diminished by achieving success before and I believe there is room for improvement in every sportsman.',
+        'Lionel Messi',
+    ],
+    'e546fb2e-9ce2-5139-abaa-6de73cb3a5cd' => [
+        'I look at Jagger and the like and if I see a good attitude I\'ll admire it but I wouldn\'t copy their style.',
+        'Michael Hutchence',
+    ],
+    '7126e392-e222-52d7-92c7-2eeed63a9078' => [
+        'Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.',
+        'Christina Aguilera',
+    ],
+    '53af3e51-150a-5989-932a-6b347a48e10d' => [
+        'The day you decide to do it is your lucky day.',
+        'Japanese proverb',
+    ],
+    'ab14602e-dce2-5b3f-9e73-ad691a458d47' => [
+        'A jug fills drop by drop.',
+        'Buddha',
+    ],
+    'bfe46724-004e-59b8-9e18-07641d1bca3c' => [
+        'I travel without barely any luggage. Just a second set of underwear and binoculars and a map and a toothbrush.',
+        'Werner Herzog',
+    ],
+    'ba6c63c1-e969-5398-91b2-bc6800669bd1' => [
+        'Money doesn\'t mean anything to me. I\'ve made a lot of money, but I want to enjoy life and not stress myself building my bank account. I give lots away and live simply, mostly out of a suitcase in hotels. We all know that good health is much more important.',
+        'Tom Brokaw',
+    ],
+    '6de69c8a-f213-58c8-9e2c-72c596d4a23f' => [
+        'Sensual love deceives one as to the nature of heavenly love; it could not do so alone, but since it unconsciously has the element of heavenly love within it, it can do so.',
+        'Franz Kafka',
+    ],
+    '39123e59-1ab4-5d28-9f61-9e343650ae46' => [
+        'London is a roost for every bird.',
+        'Benjamin Disraeli',
+    ],
+    'b6273df0-722f-5f95-8bf4-8706042d364a' => [
+        'I\'ve never seen a smiling face that was not beautiful.',
+        'Unknown',
+    ],
+    '4b93e3f1-3907-5ef5-a6ce-36fcff3dab58' => [
+        'I take a cooking class everywhere I travel. I find it\'s the best way to get to know a culture.',
+        'Blake Lively',
+    ],
+    'a3df1292-1339-5f1f-b8f0-6e50b80a5375' => [
+        '\'Yes\' is the mother of all positive words, next to \'love.\' Maybe \'love\' is the father of all positive words.',
+        'Jason Mraz',
+    ],
+    '60881cd7-a7b9-5ac2-8baa-cad8d1bf8f7c' => [
+        'It\'s a marathon, not a sprint. I actually feel like I come to work stronger when I\'ve had a little time on the weekend to step away from it and enjoy my family and other things. I come back energized. If people think they\'re going to work 24/7, week in and week out, they\'re not bringing their full strength to the table.',
+        'Mary Barra',
     ],
 ];

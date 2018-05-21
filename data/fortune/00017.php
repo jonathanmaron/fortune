@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '6c520e5f-3d76-5f24-b827-85fc54ee16f0' => [
-        'When you win, nothing hurts.',
-        'Joe Namath',
+    'a40a8ca4-2b44-5d4b-a97c-ce27af52af30' => [
+        'Success comes to those who dedicate everything to their passion in life. To be successful, it is also very important to be humble and never let fame or money travel to your head.',
+        'A. R. Rahman',
     ],
-    '9080c340-1016-5146-806a-711bb8d29c59' => [
-        'It is your work in life that is the ultimate seduction.',
-        'Pablo Picasso',
+    'faee0b1d-f822-5ba7-b8ed-37f833331fc1' => [
+        'You won\'t skid if you stay in a rut.',
+        'Kin Hubbard',
     ],
-    '00ac3aec-724d-511b-97ec-861e1dea7d2c' => [
-        'Memories of our lives, of our works and our deeds will continue in others.',
-        'Rosa Parks',
+    '42b6bcaf-79ab-5190-93bb-b6d6cf551dfb' => [
+        'The simple fact is this: they are foreigners inside a country which has rejected them. Therefore, these foreigners wherever they go or travel they will be rained down with bullets from everyone. Attacks by members of the resistance will only go up.',
+        'Mohammed Saeed al-Sahaf',
     ],
-    '430bfaf9-224d-5b7e-927e-21a6a4541bf9' => [
-        'When people ask me about my story, I just go through the positive stuff: the tent-pole moments, the big landmark checkpoints.',
-        'Shia LaBeouf',
+    '07858490-2701-5710-b8ea-6cc341e85bb3' => [
+        'When you rise in the morning, give thanks for the light, for your life, for your strength. Give thanks for your food and for the joy of living. If you see no reason to give thanks, the fault lies in yourself.',
+        'Leo Buscaglia',
     ],
-    '34de00f7-1e53-5d50-9498-57ac85db1b84' => [
-        'If we do not voluntarily bring population growth under control in the next one or two decades, the nature will do it for us in the most brutal way, whether we like it or not.',
-        'Henry W. Kendall',
+    '0e7dbcdd-7e82-52ed-9c03-faa111cb7a35' => [
+        'There are still many places I haven\'t seen that I\'d like to travel to. I\'ve never seen the Pyramids, and I\'d love to explore the culture in North India. I think walking in the Andes would also be awesome.',
+        'Bjorn Ulvaeus',
     ],
-    'd471fe9a-2bb6-51ad-9816-91298c1f6402' => [
-        'Elvis Costello had a brand new bag. He was a musician, but he knew all about the attitude part of it.',
-        'Nick Lowe',
+    '9ce69a99-9cdd-5a5c-a1cc-151c63ee36df' => [
+        'I don\'t think anyone has a normal family.',
+        'Edward Furlong',
     ],
-    'd04c6fb6-0176-5432-b2a7-f0278d71ca89' => [
-        'If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.',
-        'Mary Pickford',
+    '47ef2432-c79c-57f0-8eeb-a1ab0de4e78d' => [
+        'You\'re not going to say anything about me that I\'m not going to say about myself. There\'s so many things that I think about myself; if someone really wanted to get at me, they could say this and this and this. So I\'m going to say it before they can. It\'s the best policy for me.',
+        'Eminem',
     ],
-    'a09d555f-074c-5552-9523-c486894770d5' => [
-        'From error to error one discovers the entire truth.',
-        'Sigmund Freud',
+    '7d8e7635-5519-5ce7-a8b7-3b764ee4fcc6' => [
+        'Your success story is a bigger story than whatever you\'re trying to say on stage. Success makes life easier. It doesn\'t make living easier.',
+        'Bruce Springsteen',
     ],
-    '889915c0-549b-5c57-b213-ccb8b2c84280' => [
-        'Keep true to the dreams of thy youth.',
-        'Friedrich von Schiller',
+    '40b7d16f-6719-593a-b535-145058851be8' => [
+        'We all romanticize the people we adore.',
+        'John Green',
     ],
-    '8e8553ee-0136-5cf9-a35c-8eb226743920' => [
-        'It\'s not who\'s the best - it\'s who can take the most pain.',
-        'Steve Prefontaine',
+    '29021a73-8d15-5d25-a795-2cb91b8a8d45' => [
+        'Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it. I never heard of anyone ever stumbling on something sitting down.',
+        'Charles F. Kettering',
     ],
-    'be1e9c8c-cb6d-5713-8c63-0ed16dc3618a' => [
-        'All the best people in life seem to like LINUX.',
-        'Steve Wozniak',
+    'bae4ada2-1a2c-55e2-bda9-adc1ddb58948' => [
+        'Revenge is not a positive state of mind or energy to indulge your self in.',
+        'Michael K. Williams',
     ],
-    '568eaf00-16c4-5dbf-967a-430557cb8d27' => [
-        'Life brings simple pleasures to us every day. It is up to us to make them wonderful memories.',
-        'Cathy Allen',
+    '3f7f08c8-1dff-552f-964f-b86cee80c1ee' => [
+        'Something I\'ve noticed as I get older is that I do think about the future more. It\'s all positive thinking.',
+        'Abbie Cornish',
     ],
-    '4021a867-a4af-5851-86e3-42e54c511df6' => [
-        'Funny things tend not to happen to me. I am not a natural comic. I need to think about things a lot before I can be even remotely amusing.',
-        'Rowan Atkinson',
+    'e6fab423-660a-5862-ad53-2990fb5a6775' => [
+        'Loneliness is such an omnipotent and painful threat to many persons that they have little conception of the positive values of solitude and even, at times, are frightened at the prospect of being alone.',
+        'Rollo May',
     ],
-    '653b8059-a154-5ec9-a659-4b5763b24821' => [
-        'I gave a funny speech at my wife\'s birthday party, and I\'m thinking, \'Hey, I\'ve still got it.\'',
-        'Larry David',
+    '628fecce-e9a9-58f8-bab6-4d67e8f4235c' => [
+        'I\'ve always had a \'Work hard, play hard\' attitude to life - I still do - but sometimes you get involved in something that needs a calm, methodical approach.',
+        'Damian Lewis',
     ],
-    'f1af616e-b0f9-584e-98dc-bac801b7b6a4' => [
-        'Her friends say she is very funny. At a family dinner, she stood to go, and the footman very properly pulled her chair away. At that moment I asked her a question and she sat down again, except there was no chair. Everyone, including the Queen, laughed and laughed.',
-        'Prince Andrew',
+    '4c9a714c-1a66-5a27-a02a-70f1d05f9850' => [
+        'I get my best ideas in a thunderstorm. I have the power and majesty of nature on my side.',
+        'Ralph Steadman',
     ],
-    '830e430e-791d-5fa4-a9f1-df12fcd051bc' => [
-        'The mind that tries to shape tomorrow beyond its capacities will find no rest.',
-        'Rumi',
+    '5bfd889c-05e1-5126-a7fd-b8d6a0b844b6' => [
+        'No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself',
+        'Seneca',
     ],
-    '4a28abb6-8748-570f-aa4f-6ac5190714e8' => [
-        'Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.',
-        'Swami Vivekananda',
+    '171c3196-89d2-5384-a34c-23f18ab9e62e' => [
+        'How do you know you\'re going to do something, untill you do it?',
+        'J. D. Salinger',
     ],
-    '017882df-3f48-550e-89bd-54d9dc3a489a' => [
-        'I come from that society and there is a common thread, specifically family values - the idea that you do anything for your family, and the unconditional love for one\'s children.',
-        'Ednita Nazario',
+    'd2f2479e-5741-52d0-bb50-e69c2c23238a' => [
+        'I have these visions of myself being thirty, thirty-five, forty having a family.',
+        'Nastassja Kinski',
     ],
-    'cc64c945-b3a0-5a41-b09f-91e40f215156' => [
-        'When you see things upside down, the ego can be extraordinarily funny; it\'s absurd. But it\'s tragic at the same time.',
-        'Alejandro Gonzalez Inarritu',
+    '3c357502-2f48-56f6-ad38-727ac0281b1d' => [
+        'The sea, once it casts its spell, holds one in its net of wonder forever.',
+        'Jacques Yves Cousteau',
     ],
-    'bf686a61-1555-5d1f-8fdd-51fa3c7da2dd' => [
-        'An English man does not travel to see English men.',
-        'Laurence Sterne',
+    'd2d79cf4-5f6f-51a8-8c70-c9efa2a22fe4' => [
+        'A lasting solution to this problem will have an exceptionally positive influence foremost on the peoples of Palestine and Israel, as well as on the region and the international community.',
+        'Recep Tayyip Erdogan',
     ],
-    '61145ac6-135b-5548-ad55-50b97ad0259e' => [
-        'Integrate what you believe in every single area of your life. Take your heart to work and ask the most and best of everybody else, too.',
-        'Meryl Streep',
+    'cee2e44b-d4dd-5cd0-9ef3-e7ef625a298f' => [
+        'Success seems to be largely a matter of hanging on after others have let go.',
+        'William Feather',
     ],
-    '0065e952-d781-570e-9b53-370111ce676d' => [
-        'Success is a state of mind. If you want success, start thinking of yourself as a success.',
+    '8997c134-d1e5-51f4-a456-d500e3b6c44a' => [
+        'A strong, positive self-image is the best possible preparation for success.',
         'Joyce Brothers',
     ],
-    '62a45999-e0ac-554b-a086-230b42ca43e2' => [
-        'Nothing puzzles me more than the time and space; and yet nothing troubles me less.',
-        'Charles Lamb',
+    '52f2be7e-50fd-5a54-9252-d1592edc2abb' => [
+        'Big jobs usually go to the men who prove their ability to outgrow small ones.',
+        'Theodore Roosevelt',
     ],
-    'a452d040-ab32-59d8-992f-72fe2b368a97' => [
-        'If dysfunction means that a family doesn\'t work, then every family ambles into some arena in which that happens, where relationships get strained or even break down entirely. We fail each other or disappoint each other. That goes for parents, siblings, kids, marriage partners - the whole enchilada.',
-        'Mary Karr',
+    '2b33de8c-fdec-5912-b0c3-c83962e02c08' => [
+        'In individual industries where female labour pays an important role, any movement advocating better wages, shorter working hours, etc., would not be doomed from the start because of the attitude of those women workers who are not organized.',
+        'Clara Zetkin',
     ],
-    '4dc0eba2-ddc7-5a38-adbc-235ec8933dde' => [
-        'Be yourself. Follow your instincts. Success depends, at least in part, on the ability to \'carry it off.\'',
-        'Donald Rumsfeld',
+    '4e681945-fd47-5c74-9984-a3732b9c3844' => [
+        'I was born January 6, 1937, eight years after Wall Street crashed and two years before John Steinbeck published The Grapes of Wrath, his Pulitzer Prize-winning novel about the plight of a family during the Great Depression.',
+        'Lou Holtz',
     ],
-    '957796fa-2dcf-5a4e-aa81-86a01b7f1577' => [
-        'The suburbs are the American dream, right? Living in a nice house, having a good job, a happy family.',
-        'Cheryl Hines',
+    'c7a82120-f876-5a3e-b0db-24bcc9c7daf4' => [
+        'Nothing is work unless you\'d rather be doing something else.',
+        'George Halas',
     ],
-    '3c68ef1a-efdb-5742-94ac-785e0dc677c9' => [
-        'Surround yourself with positive people.',
-        'Melanie Fiona',
+    '995b993d-4e34-5554-b87d-875c70e760cd' => [
+        'For me, fragrances are very - one of these beautiful art forms that bring about a whole host of things. It\'s what you want to smell like, it\'s memories that make you smile or are resonant of times in your life, it can remind you of music. If you\'re a lover of scent, it\'s a very kind of particular and evocative thing.',
+        'Chris Pine',
     ],
-    'ad7e6011-7955-5dee-b33c-5267dfc423c0' => [
-        'Exuberance is beauty.',
-        'William Blake',
+    '5eb0a99f-4431-5963-8078-7d977ddffe30' => [
+        'If you believe in yourself and have dedication and pride - and never quit, you\'ll be a winner. The price of victory is high but so are the rewards.',
+        'Paul Bryant',
     ],
-    '25a95a6f-b499-5c81-a614-c38257c5a0e1' => [
-        'The first case of Ebola diagnosed in the United States has caused some to call on the United States to ban travel for anyone from the countries in West Africa facing the worst of the Ebola epidemic. That response is understandable. It\'s only human to want to protect ourselves and our families.',
-        'Tom Frieden',
+    '69816fa1-d9d3-5f5c-a46f-5c3823ef4460' => [
+        'Whenever I travel to a poor country, I try to help at least one person. Usually, that person helps me just as much - I can find a local poor person to be my guide or my interpreter. That person makes money from me, I make money from him or her, we both learn about each other. It\'s an equal win-win relationship.',
+        'William T. Vollmann',
     ],
-    '15a8f97a-84a7-5a4f-ae3a-42ee697b3ea8' => [
-        'Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.',
-        'John F. Kennedy',
+    '95bd6fde-6e00-53b4-9eeb-2d7f8abbd7fc' => [
+        'Quality is never an accident; it is always the result of intelligent effort.',
+        'John Ruskin',
     ],
-    'de52c136-4630-592f-8420-51c94ec8ba33' => [
-        'Human nature is above all things lazy.',
-        'Harriet Beecher Stowe',
+    '8905cf21-b999-5c81-a33e-580f25aa5d99' => [
+        'I grew up in Europe, where the history comes from.',
+        'Eddie Izzard',
     ],
-    '8b46f08e-6dce-5b78-86a9-cd433e86e3ec' => [
-        'As an actor, I travel around a lot and live in a lot of hotels, and many times I\'ve been in a town where the only entertainment to be had is what you find in the hotel bar or lobby.',
-        'Beau Bridges',
+    'cf345e32-7177-59c8-8f30-83b02df736d3' => [
+        'I know people who\'ve had a nose job, and they\'ve walked out feeling a million dollars, and their confidence is tenfold. Good on them! Natural beauty comes in all different shapes and sizes, but if you think surgery would right something you have a problem with, then why shouldn\'t you do it?',
+        'Louise Nurding',
     ],
-    '5dbb0ae3-7677-57b0-b6b5-f807a2f3572e' => [
-        'I\'m passionate about travel.',
-        'Jordana Spiro',
+    'e1b16d55-0aaa-584f-99c6-837efd9961bb' => [
+        'In a time of universal deceit - telling the truth is a revolutionary act.',
+        'Unknown',
     ],
-    '99629260-a4e5-50db-be2f-af74fe98523a' => [
-        'Tyga\'s one of my best friends ever, so it\'s so much fun to travel with him. I always like having my friends out on the road with me.',
-        'Kylie Jenner',
+    '1e19a4a0-c432-504e-a24e-fe6d5fc51ed2' => [
+        'Success consecrates the most offensive crimes.',
+        'Lucius Annaeus Seneca',
     ],
-    '16be6728-d62e-5036-b08b-a05589858d38' => [
-        'I hope that my family will continue in another thousand years.',
-        'Frederik, Crown Prince of Denmark',
+    '68fa376b-0b4a-51d1-b455-4876c6a1eca1' => [
+        'Nature is never finished.',
+        'Robert Smithson',
     ],
-    '70dda5a3-6966-5a54-be9a-779dd380215f' => [
-        'One of the triumphs of the Civil Rights Movement is that when you travel through the South today, you do not feel overwhelmed by a residue of grievance and hate.',
-        'Alice Walker',
+    '68825f63-200b-5aaf-ac11-cae2331579b6' => [
+        'There is no real beauty without some slight imperfection.',
+        'James Salter',
     ],
-    'cbd636c9-621c-5f56-90d7-3e336e27fd39' => [
-        'I think people feel threatened by homosexuality. The problem isn\'t about gay people, the problem is about the attitude towards gay people. People think that all gays are Hannibal Lecters. But gay people are sons and daughters, politicians and doctors, American heroes and daughters of American heroes.',
-        'Hollis Stacy',
+    'b8b86dae-bfed-577a-8d0f-2b42ebfe3d57' => [
+        'I am in the fighting game. I don\'t care about anything else. I don\'t watch the news, I don\'t care about politics, I don\'t care about other sports. I don\'t care about anything I don\'t need to care about. This is my sport: it is my life. I study it; I think about it all the time. Nothing else matters.',
+        'Conor McGregor',
     ],
-    '7d6dcf7c-1219-5a7e-9ca7-32d7ce0958a0' => [
-        'Integrity is so perishable in the summer months of success.',
-        'Vanessa Redgrave',
+    '6f8a3116-e4e3-5afe-b56f-7fc1b67b1612' => [
+        'Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.',
+        'Walt Whitman',
     ],
-    '2db3f04c-d768-529f-8f46-d29f6336c601' => [
-        'Yesterday we obeyed kings and bent our necks before emperors. But today we kneel only to truth, follow only beauty, and obey only love.',
-        'Khalil Gibran',
+    'b7bce02d-a678-5d38-ae17-d01e47a1b77f' => [
+        'You have to learn how to harness technology so you can use it for positive stuff without being disconnected from nature.',
+        'Talib Kweli',
     ],
-    '4312a53f-6193-5f49-a731-7052ffa96551' => [
-        'There have been some positive things that have happened for the tribes, but it\'s a constant, vigilant fight about protecting what resources we have in terms of land and rights.',
-        'John Trudell',
+    'a420d0d9-7de4-5e48-8a21-c3e669c26e22' => [
+        'I knew, of course, that trees and plants had roots, stems, bark, branches and foliage that reached up toward the light. But I was coming to realize that the real magician was light itself.',
+        'Edward Steichen',
     ],
-    'f3cebd5e-f718-5434-8f0f-80945310626d' => [
-        'It is cruel, you know, that music should be so beautiful. It has the beauty of loneliness of pain: of strength and freedom. The beauty of disappointment and never-satisfied love. The cruel beauty of nature and everlasting beauty of monotony.',
-        'Benjamin Britten',
+    'c9b4cd29-655e-555f-aedf-e26183fd06e6' => [
+        'But you cannot expect every writer to dwell on human suffering. I think my books do deal with grave issues. People who say they are too positive probably haven\'t read them.',
+        'Alexander McCall Smith',
     ],
-    '75647b81-031b-5e8d-9fe7-3a9775f285e6' => [
-        'The day, water, sun, moon, night - I do not have to purchase these things with money.',
-        'Plautus',
+    '20512df9-110c-5743-b349-33c001b06379' => [
+        'The secret of success is sincerity.',
+        'Jean Giraudoux',
     ],
-    '45caf547-bc25-5bfa-a37b-88c930857280' => [
-        'To me, \'beauty\' means to be natural, creative, honest - to say the truth.',
-        'Nawal El Saadawi',
+    '7044bd53-c18f-5b0b-8a37-0c3cd2846b0a' => [
+        'It\'s very strange that most people don\'t care if their knowledge of their family history only goes back three generations.',
+        'Douglas Coupland',
     ],
-    'af24e5db-949d-541d-8dd1-27b23074bcd1' => [
-        'I wanted my fans and my family and my friends to be proud of me.',
-        'Allen Iverson',
+    'ddca2d16-5bd7-5259-a012-5de83e71d882' => [
+        'I feel prematurely old. I\'m actually having this major belated quarter-life crisis. I\'m turning 30 in a couple of weeks. I\'ve been thinking a lot about mortality. A lot about what I\'m going to do with my life and how to enjoy it. One of the things I\'m going to work on is being more spontaneous, letting go, embracing the beauty of come-what-may.',
+        'Chris Pine',
     ],
-    'c74628d4-6600-5806-802a-2373a57e0f91' => [
-        'You can be a pretty face, but if you\'re not a nice person, it just doesn\'t work. I\'m not traditionally a beauty, but apparently people think I\'m all right. If you\'re a nice person, it definitely helps.',
-        'Kate Moss',
+    '5c4d00ac-db8f-5eaa-9aa2-9cfa89d6c078' => [
+        'I was raised in a very humble environment, and I was always taught to be humble to the things that are happening in my life because they\'re blessings. They\'re blessings in every way. Whether you\'re able to help someone get through a tough time in their life through your music or through comedy, or whatever it is, you\'re just a channel.',
+        'Justin Timberlake',
     ],
-    '0f2650d4-b042-50a0-ae24-10c10d4fd03f' => [
-        'I was destined to work with dying patients. I had no choice when I encountered my first AIDS patient. I felt called to travel some 250,000 miles each year to hold workshops that helped people cope with the most painful aspects of life, death and the transition between the two.',
-        'Elisabeth Kubler-Ross',
+    '21dc93ca-6000-5b3f-b8c2-a7eb1a2bbe9a' => [
+        'I don\'t know, maybe Australian humour isn\'t supposed to be funny. It\'s as dry as the Sahara, and I think people miss that.',
+        'Nick Cave',
     ],
-    '377e75e7-bbaf-5f62-bdbc-223f7a003f50' => [
-        'To me, I\'ve never understood why there is any question about are women as funny as men.',
-        'Judd Apatow',
+    '125c0e0c-53fc-5058-b8a4-49eef87ef8ae' => [
+        'Every man, every woman who has to take up the service of government, must ask themselves two questions: \'Do I love my people in order to serve them better? Am I humble and do I listen to everybody, to diverse opinions in order to choose the best path?\' If you don\'t ask those questions, your governance will not be good.',
+        'Pope Francis',
     ],
-    '336dd2d1-4006-56eb-9e2e-b0765db04cf0' => [
-        'Take time to be kind and to say \'thank you.\'',
-        'Zig Ziglar',
+    '66a443d1-1335-5a1c-b9b3-616b4aa363c4' => [
+        'One of the things that I love to do is travel around the world and look at archaeological sites. Because archaeology gives us an opportunity to study past civilizations, and see where they succeeded and where they failed. Use science to, you know, work backwards and say, \'Well, really, what were they thinking?\'',
+        'Nathan Myhrvold',
     ],
-    '48a58935-cc16-5495-9d2d-ef2130cba544' => [
-        'I would wear the blue overalls of the fieldworker and often wore round, rimless glasses known as Mazzawati teaglasses. I had a car, and I wore a chauffeur\'s cap with my overalls. The pose of chauffeur was convenient because I could travel under the pretext of driving my master\'s car.',
-        'Nelson Mandela',
+    '201bd0b5-b4fa-5c0c-924d-a589ef83081f' => [
+        'I used to wear a lot of red lipstick, and when I got a pimple, I\'d cover it up with eyeliner to turn it into a beauty mark.',
+        'Selma Blair',
     ],
-    '9f4f1b3b-2328-5212-8326-ef7ced3d2a05' => [
-        'I eat every two hours. I sleep for eight hours. I have lots of water. I pray to keep calm. Most importantly, I have a smile on my face.',
-        'Vidya Balan',
+    'a9712b8c-e488-57d0-a25b-ae975cd0b9f5' => [
+        'I wish to be appreciated not only as a film star but also for the person I am. If I manage to bring a smile on people\'s faces, then I think I\'ll be successful.',
+        'Deepika Padukone',
     ],
 ];

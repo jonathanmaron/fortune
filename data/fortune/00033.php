@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '36b8fe15-95cd-5985-ab6e-6ad84b34ddb4' => [
-        'Note to self: Keep going. You\'re doing great. You might not be where you want to be yet, but that\'s okay. Just take it one step at a time and keep believing in yourself. And remember: No matter what happens, you can still enjoy your life and be happy.',
-        'Lori Deschene',
+    '9ab69d4d-5883-5d28-83f9-fda8948969aa' => [
+        'Research shows that there is only half as much variation in student achievement between schools as there is among classrooms in the same school. If you want your child to get the best education possible, it is actually more important to get him assigned to a great teacher than to a great school.',
+        'Bill Gates',
     ],
-    'f1ea8fbd-98c8-599d-9bc4-b459fdae1a10' => [
-        'It\'s not really about the competition. Your biggest challenge in a race is yourself. You\'re often racing against time. You\'re frequently running everything through your mind. You\'re always competing against preconceived ideas. It\'s not really the person next to you that you worry about.',
-        'Summer Sanders',
+    'a0da7272-9fdb-5e9e-8ebb-42e89fdfc777' => [
+        'It\'s funny, in literature no one ever goes to the lavatory.',
+        'Tom Baker',
     ],
-    'ea0816d3-5206-5cd5-8165-3dc4943e9325' => [
-        'Sibling rivalry was, and still is to this day, rampant in my family. We were all competing for my parents\' divided attention.',
-        'Janine di Giovanni',
+    '2a797115-7840-5d9e-9d83-97bb17b090a6' => [
+        'Everything that irritates us about others can lead us to an understanding about ourselves.',
+        'Carl Jung',
     ],
-    '49158b9b-6fcb-5214-a63b-e8a723863d34' => [
-        'The object of my relationship with Vietnam has been to heal the wounds that exist, particularly among our veterans, and to move forward with a positive relationship,... Apparently some in the Vietnamese government don\'t want to do that and that\'s their decision.',
-        'Ho Chi Minh',
+    '58bfc73e-d1ff-5440-be91-72bbb436d397' => [
+        'I never said most of the things I said.',
+        'Yogi Berra',
     ],
-    'c7466fd7-45ac-5777-af3b-be912c5b9b0e' => [
-        'Donald Evans is a favorite person of mine. His worth ethic, his attitude and his dedication really set him apart.',
-        'Joe Greene',
+    'a01bc1c4-f254-5509-b7e0-26ac96264cba' => [
+        'It is always the simple that produces the marvelous.',
+        'Amelia Barr',
     ],
-    'bd393e77-f0c9-5fe4-8ac2-2d584ba760e0' => [
-        'Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.',
-        'Thomas Carlyle',
+    '003db182-1ebb-59f6-a9e7-26ce291a9716' => [
+        'Big shots are only little shots who keep shooting.',
+        'Christopher Morley',
     ],
-    '9b3710e7-8ad1-5383-86ca-0ba5b62829a0' => [
-        'You cannot be lonely if you like the person you\'re alone with.',
-        'Wayne Dyer',
+    '1ce6513d-6e22-5550-836d-120fca7e9972' => [
+        'Beauty is a manifestation of secret natural laws, which otherwise would have been hidden from us forever.',
+        'Johann Wolfgang von Goethe',
     ],
-    'b0621cb3-31ba-5169-b494-77600559a719' => [
-        'Every time you dive, you hope you\'ll see something new - some new species. Sometimes the ocean gives you a gift, sometimes it doesn\'t.',
-        'James Cameron',
+    '3e97d9f0-c897-552a-8f80-645ff9913b94' => [
+        'The study of beauty is a duel in which the artist cries with terror before being defeated.',
+        'Charles Baudelaire',
     ],
-    '6dfaf649-2e02-5407-994e-33f79e4e8b0f' => [
-        'Liberalism is a really old British tradition and it has a completely different attitude towards the individual and the relationship between the individual and the state than the collectivist response of Labour, and particularly Old Labour, does.',
-        'Nick Clegg',
+    '8a807c2f-bd7a-542e-9aca-9d4b010f6fa8' => [
+        'Some of our important choices have a time line. If we delay a decision, the opportunity is gone forever. Sometimes our doubts keep us from making a choice that involves change. Thus an opportunity may be missed.',
+        'James E. Faust',
     ],
-    '35999737-cf4b-5ed7-9c94-4f5d456dd89e' => [
-        'After all, it is the divinity within that makes the divinity without; and I have been more fascinated by a woman of talent and intelligence, though deficient in personal charms, than I have been by the most regular beauty.',
-        'Washington Irving',
+    '4dec428c-a75d-5a8f-92e0-bf5506ec3407' => [
+        'This is the great reward of service, to live, far out and on, in the life of others; this is the mystery of Christ, - to give life\'s best for such high sake that it shall be found again unto life eternal.',
+        'Joshua Chamberlain',
     ],
-    'a9b3980a-8ce5-5a21-ac89-8890fef159b8' => [
-        'War is a game that is played with a smile. If you can\'t smile, grin. If you can\'t grin, keep out of the way till you can.',
-        'Winston Churchill',
+    '85e4f80e-a740-595a-89d3-1ad79ff42679' => [
+        'A family is a risky venture, because the greater the love, the greater the loss... That\'s the trade-off. But I\'ll take it all.',
+        'Brad Pitt',
     ],
-    'fe0ec2cc-d23b-5998-a005-470d271e1bf7' => [
-        'The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.',
-        'Booker Washington',
-    ],
-    '61b51fc4-9d2e-58cf-ac58-154e6ee5921b' => [
-        'Funny is only something that others know about you - you can\'t be funny by yourself.',
-        'Chris Rock',
-    ],
-    '7ed121bf-360c-5b9e-8edf-1f1922c3c8d3' => [
-        'My mum is great for keeping hold of old classics - pieces of clothing that never age and never go out of fashion. She also says, \'Make sure you always smile - it makes everything look better!\'',
-        'Amber Le Bon',
-    ],
-    'be772423-7537-5775-8ece-1acd2b8de27c' => [
-        'Each misfortune you encounter will carry in it the seed of tomorrows good luck.',
-        'Og Mandino',
-    ],
-    '27f4bfa5-0338-5c8c-8e5c-7070d200211a' => [
-        'Do one thing every day that scares you.',
+    '18a4ace4-e3e0-5395-b561-8f77691e4bd4' => [
+        'Some pursue happiness, others create it.',
         'Unknown',
     ],
-    '662a7b70-1347-5dd1-a45b-121c1d4e13eb' => [
-        'When love and skill work together, expect a masterpiece.',
-        'John Ruskin',
+    'd3d198c9-e99d-5f0a-b86a-023cf95a2280' => [
+        'Forget about all the reasons why something may not work. You only need to find one good reason why it will.',
+        'Robert Anthony',
     ],
-    '1f75d69d-e1b2-5793-a750-8f763664c051' => [
-        'My grandmother, she\'s been the positive portion of my life the entire time. She raised us Baptist, and when I got old enough to say I didn\'t want to go to church, she didn\'t force me. She was cool.',
-        'Curtis Jackson',
+    '9dbcd7c0-28a0-5371-a67f-2452a654900e' => [
+        'Without craftsmanship, inspiration is a mere reed shaken in the wind.',
+        'Johannes Brahms',
     ],
-    '06c49ddc-ac38-5da3-8d0f-fe8d45e307f0' => [
-        'If you\'re not making mistakes, then you\'re not doing anything. I\'m positive that a doer makes mistakes.',
-        'John Wooden',
+    'c5de5caf-3644-5dda-8a03-895c1fda6819' => [
+        'Until 1914 I loved to travel; I often went to Italy and once spent a few months in India. Since then I have almost entirely abandoned travelling, and I have not been outside of Switzerland for over ten years.',
+        'Herman Hesse',
     ],
-    '071b5ba3-ee10-52e0-83db-1e5fab11fff0' => [
-        'Good manners will open doors that the best education cannot.',
-        'Clarence Thomas',
+    'a49c8bda-b8db-5c2f-b273-fe440a21dd17' => [
+        'You can take no credit for beauty at sixteen. But if you are beautiful at sixty, it will be your soul\'s own doing.',
+        'Marie Stopes',
     ],
-    '54cc0758-5585-5c02-adbf-39d854cdbe25' => [
-        'Do what you need to do and enjoy life as it happens.',
-        'Pauline Kael',
+    '4927f680-f1cf-577c-b1a7-f85c5503bf10' => [
+        'You don\'t need to invade a place or install a new government to help bring about a positive change.',
+        'Nicholas D. Kristof',
     ],
-    'aec44d74-751c-5de8-8ce8-88c91484c036' => [
-        'Kids are meant to believe that their stepping stone to massive money is \'The X Factor.\' Luck is great, but most of life is hard work. We do not celebrate people who have made success out of serious hard work.',
-        'Iain Duncan Smith',
+    '51952a10-3455-5e05-b64c-4b3e666a3bad' => [
+        'If anybody has a bad day, they\'ll just come to my room because they know I\'ll bring out the positive in everything, or I\'ll make them laugh, or I\'ll be just crazy.',
+        'Simone Biles',
     ],
-    '9bd7e116-b7fd-5378-afec-aa50c9805fa3' => [
-        'I\'ve played a ghost, cat, snake. I\'ve been funny, sad. I\'ve been filmed flying on screen. So why not spend time on something else? I don\'t need to accept everything I\'m offered.',
-        'Maggie Cheung',
+    '2242de45-0c83-5f5d-b431-d247fb641eaf' => [
+        'Lost time is never found again.',
+        'Benjamin Franklin',
     ],
-    '924e75af-8cb3-5569-a53f-3abcbf9d9c29' => [
-        'All of us profit from being corrected - if we\'re corrected in a positive way.',
-        'Sam Walton',
+    'db98907a-cfde-5820-9041-7a5a0810ab4e' => [
+        'Just find what works for you, what style suits you best, and just be confident enough to rock it.',
+        'Odell Beckham, Jr.',
     ],
-    '86b6461f-2d68-564a-b6d6-f0cd65e91728' => [
-        'I\'m definitely a Polaroid camera girl. For me, what I\'m really excited about is bringing back the artistry and the nature of Polaroid.',
-        'Lady Gaga',
+    '6919bb28-f05d-57f4-89c3-8aa28c4b4beb' => [
+        'In this world it is not what we take up, but what we give up, that makes us rich.',
+        'Henry Ward Beecher',
     ],
-    '6086421b-3a72-56fe-8df6-96d73a19082f' => [
-        'You must do the things you think you cannot do.',
-        'Eleanor Roosevelt',
+    'cf28320d-4da6-52ce-9633-9c93f27f0008' => [
+        'If the Starbucks secret is a smile when you get your latte... ours is that the Web site adapts to the individual\'s taste.',
+        'Reed Hastings',
     ],
-    '2cfa8b87-297c-5ecf-b4f6-7616a3fd9603' => [
-        'Good timber does not grow with ease; the stronger the wind, the stronger the trees.',
-        'J. Willard Marriott',
+    'ea493ff7-4073-5356-a042-67bbc3942b74' => [
+        'Beauty is an asset, just like physical prowess, charisma, brains or emotional intelligence. The key with any gift is in the way that you use it. It doesn\'t define you as a person. Rather, it\'s an asset to be used judiciously and with an understanding of how it is just a small part of who you are.',
+        'Dale Archer',
     ],
-    '12a3d467-460d-560f-bc9a-a5ff04b841fa' => [
-        'Travel early and travel often. Live abroad, if you can. Understand cultures other than your own. As your understanding of other cultures increases, your understanding of yourself and your own culture will increase exponentially.',
-        'Tom Freston',
+    '7e4e2642-8c4c-5454-a47f-5122086f9bb5' => [
+        'Everything in excess is opposed to nature.',
+        'Hippocrates',
     ],
-    '735cb73b-a456-5ce6-887d-30539d51a31e' => [
-        'What is it we want out of travel? Is it to take snapshots of ourselves in front of famous monuments, surrounded by other tourists? To eat unfamiliar food chosen from unintelligible menus? To earn frequent-flier miles? No. It\'s to glimpse what life is like somewhere else.',
-        'Chris Pavone',
+    '3f2e0d88-95e2-5139-985b-03791b69f906' => [
+        'Maybe that\'s what life is... a wink of the eye and winking stars.',
+        'Gary Allan',
     ],
-    '21a895ac-ac96-57d0-99f9-9a1a96ca8c4b' => [
-        'If somebody says no to you, or if you get cut, Michael Jordan was cut his first year, but he came back and he was the best ever. That is what you have to have. The attitude that I\'m going to show everybody, I\'m going to work hard to get better and better.',
-        'Magic Johnson',
+    '01d5880b-409b-5414-90f0-c0dfb22ff2dd' => [
+        'My family life reads a bit like \'Little House on the Prairie.\' I was big sister to Joan, Renee, and brother William, and we grew up in Dalkey, a little town 10 miles outside of Dublin. It was a secure, safe and happy childhood, which was meant to be a disadvantage when it comes to writing stories about family dramas.',
+        'Maeve Binchy',
     ],
-    '7f98cd9f-334f-5188-a76d-81fa4b5e8153' => [
-        'Well, I think that there\'s a very thin dividing line between success and failure. And I think if you start a business without financial backing, you\'re likely to go the wrong side of that dividing line.',
-        'Richard Branson',
+    '1579a1ea-d8a4-56c7-ab5c-00d52513c9b3' => [
+        'I don\'t like to see projects that are all black or all white. It\'s how life is. I do like to make sure that I do a nice black family film; that\'s like keeping my home base. I do other things, but I like to always come back to a positive family film, because of all the negative influences today.',
+        'Vivica A. Fox',
     ],
-    '01af21d2-6ea2-5036-a57a-580b30950521' => [
-        'Surprise is the greatest gift which life can grant us.',
-        'Alana Stewart',
+    '93e3959c-b1a8-5e77-ada2-72db4cbf9764' => [
+        'Grow old with me! The best is yet to be.',
+        'Robert Browning',
     ],
-    '1d32635d-7b14-5977-aab4-b2c0d0206d9b' => [
-        'If your work requires you to travel, you will understand that there\'s no vacation destination like home.',
-        'Park Chan-wook',
+    '6ef3b5b0-efaf-5b0a-b630-59874acdfdbb' => [
+        'I\'m moving forward to do the best.',
+        'Pablo Sandoval',
     ],
-    '4a49d1f1-75e7-5d6d-93d6-5cf042739eb1' => [
-        'But I like not these great success of yours; for I know how jealous are the gods.',
-        'Herodotus',
+    '3dfb6093-111f-5b10-b142-b52d1c75fa9d' => [
+        'And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.',
+        'Elizabeth Appell',
     ],
-    '5a95a480-041d-58d3-a01e-90588e2dfd34' => [
-        'I grew up skateboarding; it was fun. I didn\'t think about money, I didn\'t know how much professional skateboarders made. I just knew that if I became a professional skateboarder, I would achieve a lot and get to travel and do these great things.',
-        'Jason Lee',
+    '75f54dd7-30eb-5b6d-b318-a622d0c0e3b0' => [
+        'Everything you need for better future and success has already been written. And guess what? All you have to do is go to the library.',
+        'Henri Frederic Amiel',
     ],
-    'ac7bab85-56ce-556c-80bc-1971e613d72b' => [
-        'My job is to make sure that if you\'re a family in Florida, your children can get a good education and you have the opportunity for a job. That\'s my job and that\'s what I think about every day.',
-        'Rick Scott',
+    '1dbc443d-3a15-52de-9ec2-8fd37b9d0b4b' => [
+        'Young people are threatened... by the evil use of advertising techniques that stimulate the natural inclination to avoid hard work by promising the immediate satisfaction of every desire.',
+        'Pope John Paul II',
     ],
-    '3f8eb13f-c5fb-5160-9c8c-3ef859402f1f' => [
-        'There is only one difference between a long life and a good dinner: that, in the dinner, the sweets come last.',
-        'Neil deGrasse Tyson',
+    'd3997e1b-0a0c-505d-9eed-f8e7fff44e90' => [
+        'The secret of your success is determined by your daily agenda.',
+        'John C. Maxwell',
     ],
-    'e7bacb56-eba0-5f1d-9353-3ffccd4ad3b0' => [
-        'For the mind disturbed, the still beauty of dawn is nature\'s finest balm.',
-        'Edwin Way Teale',
+    '6e59153d-5470-5803-a1b6-56d1a62bc568' => [
+        'Focus on being balanced - success is balance.',
+        'Laila Ali',
     ],
-    'b51a1970-8eb3-5953-a75e-2cedaf1f8b1b' => [
-        'If life were predictable it would cease to be life, and be without flavor.',
-        'Jim Henson',
+    'bac95074-0fc7-5651-bc23-b0c99b0b2ac6' => [
+        'You are not free until you have no need to impress anybody.',
+        'Joyce Meyer',
     ],
-    'b46238b0-8360-5f80-afe8-069aeeba67fb' => [
-        'Love is a positive effect. Love can never have a negative effect, only a positive effect.',
-        'Ziggy Marley',
+    '1ac0dac9-08b4-558c-9699-db8a95b0bc28' => [
+        'When I write, I\'m still imagining a kid reading it on paper. I read e-books when I travel, but in general I still prefer holding an old-fashioned book in my hands. There\'s a special, tactile experience.',
+        'Rick Riordan',
     ],
-    '85ad5741-2a0d-5f87-8894-28910d896207' => [
-        'Democracy is not merely a form of government. It is primarily a mode of associated living, of conjoint communicated experience. It is essentially an attitude of respect and reverence towards fellow men.',
-        'B. R. Ambedkar',
+    '3179b059-9a49-5ed7-a211-70c4f27c38e9' => [
+        'If you don\'t mind, it doesn\'t matter.',
+        'Jack Benny',
     ],
-    '509f16c6-29fc-5db0-8cb0-98f443efe6e3' => [
-        'He who knows that enough is enough will always have enough.',
-        'Lao Tzu',
+    '79a6758d-3d5c-5bf5-94a9-b6d9c4da08ae' => [
+        'Most businesses think that product is the most important thing, but without great leadership, mission and a team that deliver results at a high level, even the best product won\'t make a company successful.',
+        'Robert Kiyosaki',
     ],
-    '7c4eeed7-3fb8-5eb8-a631-210fb8632a91' => [
-        'The traveler sees what he sees, the tourist sees what he has come to see.',
-        'Gilbert K. Chesterton',
-    ],
-    '7168c2e6-d0fc-5f91-a7b7-e814322b233a' => [
-        'Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.',
+    '24f5424c-46d5-571f-a0a4-03b60b38b300' => [
+        'The ladder of success is never crowded at the top.',
         'Napoleon Hill',
     ],
-    '6dda6978-f892-5bf9-a5ab-5ca8750d8290' => [
-        'Obviously, you would give your life for your children, or give them the last biscuit on the plate. But to me, the trick in life is to take that sense of generosity between kin, make it apply to the extended family and to your neighbour, your village and beyond.',
-        'Tom Stoppard',
+    'cc83b841-aedf-5265-9235-31ae9c86d583' => [
+        'Nothing ever comes to one, that is worth having, except as a result of hard work.',
+        'Booker T. Washington',
     ],
-    'f79a59f4-c396-5e70-8d58-280234516bff' => [
-        'Being alone on the moors is scary; as the rain clouds settle in, it makes you realise your place in nature.',
-        'Dave Davies',
+    'fa8ee6b1-ca4e-55a7-bb67-9c1a03bee762' => [
+        'The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted.',
+        'Aesop',
     ],
-    'cd3830ce-d6a7-5e54-ba20-5b3e4fec1267' => [
-        'All love comes from the family.',
-        'John Updike',
+    'be65e4b6-c97b-5336-b4fa-2c2b88ec3a9f' => [
+        'Today is the only day. Yesterday is gone.',
+        'John Wooden',
     ],
-    '3cb817e7-e336-5111-b6ee-196edaa5c322' => [
-        'I try to sign for as many kids as possible. Kids come first, and I\'ll always sign for a kid before an adult. It\'s funny, because I was never big into autographs as a kid. The only player who I ever wanted an autograph from was Dave Winfield.',
-        'Derek Jeter',
+    '8f3c16ce-7dec-5e17-93b4-a0e84043d6fc' => [
+        'A man\'s errors are his portals of discovery.',
+        'James Joyce',
     ],
-    'efdd3c2b-0250-5f9a-a9eb-2372a0b00ceb' => [
-        'Eyebrows are really important because they structure the face. In school it was funny because I was always the one walking around with tweezers plucking my girlfriends\' eyebrows. I was really good; eyebrow tweezing runs in my family - my mother used to do mine, and I picked it up.',
-        'Rita Ora',
+    'dd04be0f-443f-57df-ade6-9a002bfc43d9' => [
+        'Success is full of promise till one gets it, and then it seems like a nest from which the bird has flown.',
+        'Henry Ward Beecher',
     ],
-    '60e3c3be-87ad-55d9-9326-556c16f30fed' => [
-        'I believe that children are our future. Teach them well and let them lead the way. Show them all the beauty they possess inside.',
-        'Whitney Houston',
+    '904b1788-8a09-5680-b0be-099073a51b0b' => [
+        'Be passionate. Be courageous. Be your best.',
+        'Gabrielle Giffords',
+    ],
+    '243d2199-27cc-5201-870a-7e7a51fd36a5' => [
+        'The difficulty in life is the choice.',
+        'Emmy Rossum',
+    ],
+    '74f57479-2262-57da-8fb9-aedf992d6d6a' => [
+        'It\'s sad that the BBC is toning down Dennis the Menace for a cartoon series. He is losing his weapons, catapult and peashooter, will no longer pick on Walter the Softy, and his ferocious grimace is to be replaced by a charming, boyish smile.',
+        'Simon Hoggart',
+    ],
+    'ffdb2c9d-c9d3-50c2-b5f5-83e2d480488f' => [
+        'Mostly I want to talk positive; I wanna talk about a bunch of great kids that I coached and made me look good and the university that I\'ve seen grow from a cow college, which it was, only 12,000 people, and when I came here, we weren\'t at Pennsylvania State University, we were at Penn State College.',
+        'Joe Paterno',
+    ],
+    'e2444f39-751e-57c7-8cb4-d69553f82373' => [
+        'I think the expectation of me was that I\'d grow up, get married, have a family, probably not even have a job outside the home. I had bold notions sometime in my childhood that I wanted to be veterinarian... I wasn\'t sure I\'d ever do it.',
+        'Drew Gilpin Faust',
+    ],
+    '612b8b4d-8e3d-5088-b438-73170b4ca29c' => [
+        'I think true success is intrinsic... It\'s love. It\'s kindness. It\'s community.',
+        'Tom Shadyac',
     ],
 ];

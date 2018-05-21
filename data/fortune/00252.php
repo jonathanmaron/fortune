@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '99652281-fc10-5b06-90bd-a1a58cc76204' => [
-        'People say, what is she thinking? I\'m thinking: fun; cash; travel.',
-        'Gail Porter',
+    '06598b5f-8717-526a-bbd6-3bc0278e8f75' => [
+        'Bring diversity back to agriculture. That\'s what made it work in the first place.',
+        'David R. Brower',
     ],
-    'c3c4d722-39f4-5001-9c12-4ae0521efecf' => [
-        'It is the addition of strangeness to beauty that constitutes the romantic character in art.',
-        'Walter Hagen',
+    'eb2c94e9-2a4e-5640-95b4-22286b2d457d' => [
+        'I\'m very naturally happy, quirky and positive.',
+        'Kiesza',
     ],
-    '6699657b-0edf-58ee-b1a2-4b43f54f1115' => [
-        'Parrots make great pets. They have more personality than goldfish.',
-        'Chevy Chase',
+    'af8cd18f-0aa6-55fa-998a-274e50de0794' => [
+        'I learned a long time ago the wisest thing I can do is be on my own side, be an advocate for myself and others like me.',
+        'Maya Angelou',
     ],
-    '38b18f4a-ceb2-5fb5-856b-dda2dd497b1a' => [
-        'To bring up a child in the way he should go, travel that way yourself once in a while.',
-        'Josh Billings',
+    '62f783f4-d27b-5208-83de-d6a23e032909' => [
+        'Nature uses human imagination to lift her work of creation to even higher levels.',
+        'Luigi Pirandello',
     ],
-    'ef59bf7b-354f-5b06-a695-f9198ed1de96' => [
-        'Yoga is a method for restraining the natural turbulence of thoughts, which otherwise impartially prevent all men, of all lands, from glimpsing their true nature of Spirit. Yoga cannot know a barrier of East and West any more than does the healing and equitable light of the sun.',
-        'Paramahansa Yogananda',
+    '8d45f569-8ed0-596e-8480-8ef0c7af5f9b' => [
+        'Why does a woman work ten years to change a man\'s habits and then complain that he\'s not the man she married?',
+        'Barbra Streisand',
     ],
-    '3b9efa2f-5b13-59c8-bc7b-acdc5c245002' => [
-        'In Reykjavik, Iceland, where I was born, you are in the middle of nature surrounded by mountains and ocean. But you are still in a capital in Europe. So I have never understood why I have to choose between nature or urban.',
-        'Bjork',
+    '8f392116-ce6e-5e9e-97b5-8db8f8189711' => [
+        'I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone.',
+        'Henry Rollins',
     ],
-    '5a7dd791-d94f-5cf3-a8a8-e3d56092d22f' => [
-        'In the time of darkest defeat, victory may be nearest.',
-        'William McKinley',
+    'cc90f39c-d7ec-524e-9f57-3217933a39a6' => [
+        'The gift of sobriety is clarity and a sense of connection - and travel only enhances that.',
+        'J. Maarten Troost',
     ],
-    'd660fd69-0b0d-5d53-b139-477d5e25095a' => [
-        'Motherhood is a great honor and privilege, yet it is also synonymous with servanthood. Every day women are called upon to selflessly meet the needs of their families. Whether they are awake at night nursing a baby, spending their time and money on less-than-grateful teenagers, or preparing meals, moms continuously put others before themselves.',
-        'Charles Stanley',
+    '5a5bf3c9-59d3-5bf2-83a5-d76540a3d4d0' => [
+        'A strong passion for any object will ensure success, for the desire of the end will point out the means.',
+        'Henry Hazlitt',
     ],
-    'aa7618ee-6199-52e1-8604-034a3df5cdec' => [
-        'I love my past. I love my present. Im not ashamed of what Ive had, and Im not sad because I have it no longer.',
-        'Colette',
+    'f44e417e-950f-5141-8eec-d81bd67d1961' => [
+        'Sadness flies away on the wings of time.',
+        'Jean de La Fontaine',
     ],
-    'b0644d63-1fb7-594c-8201-90d630f787e2' => [
-        'In a war situation or where violence and injustice are prevalent, poetry is called upon to be something more than a thing of beauty.',
-        'Seamus Heaney',
+    'b42cddac-97f7-5f34-bc81-9bd53fafbb43' => [
+        'Life comes from the earth and life returns to the earth.',
+        'Gavin Rossdale',
     ],
-    '33ae9255-babb-52d0-8c47-fb502005866d' => [
-        'I don\'t know about you, but my girlfriends have been my girlfriends forever, and they\'re my sisters and my family.',
-        'Elizabeth Olsen',
+    'e0ba31aa-b2be-524b-81a9-f8682a92b52b' => [
+        'Being nerdy just means being passionate about something, including everyone - the coolest people on Earth are passionate and therefore nerdy about something whatever it is, whether it\'s sports, or gaming, or technology, or fashion, or beauty, or food, or whatever.',
+        'Zachary Levi',
     ],
-    'b5ce6fb9-a22d-5e18-a793-51dd85a174e9' => [
-        'Steakhouses sort of have this old-school nature to them; they\'re like museums full of good food. It\'s fun hearing the waiter share his expertise on the different cuts of beef and how they\'re going to cut up your baked potato.',
-        'Jim Gaffigan',
+    'f8ca914f-0a35-557a-86c1-1a4958174106' => [
+        'The fairest thing in nature, a flower, still has its roots in earth and manure.',
+        'D. H. Lawrence',
     ],
-    'e491e6a8-0b49-5965-a658-a688355ece23' => [
-        'I feel it is important not to get overly obsessed and overly carried away with just the physical aspect. There is more to beauty than just the physical appearance. You are also a complete person, and a woman should have an identity beyond just the way she looks.',
-        'Katrina Kaif',
+    '74ef4891-2b62-583d-8d40-4e4947800514' => [
+        'I might have been born in a hovel but I am determined to travel with the wind and the stars.',
+        'Jacqueline Cochran',
     ],
-    'b009af7b-6ddf-522c-8458-9505a476e9c8' => [
-        'Normal is not something to aspire to, it\'s something to get away from.',
-        'Jodie Foster',
+    'c91d1b03-ed91-588b-a353-b0119a3fe151' => [
+        'Desire is the most important factor in the success of any athlete.',
+        'Bill Shoemaker',
     ],
-    '763d6b5e-5098-59de-9567-12e8d9d6d8ae' => [
-        'You do not become good by trying to be good, but by finding the goodness that is already within you.',
-        'Eckhart Tolle',
+    '2da298a9-2990-543b-8870-508489cfdd01' => [
+        'I needed somebody to love me, and the people that I chose were my coaches. I would sacrifice my body to be successful for my coaches because I wanted them to love me, to respect me, to have positive feelings about me.',
+        'Steve Largent',
     ],
-    'f68d5bff-e3cc-52eb-88b3-40d98deaba4c' => [
-        'The idea that the Internet favors the oppressed rather than the oppressor is marred by what I call cyber-utopianism: a naive belief in the emancipatory nature of online communication that rests on a stubborn refusal to admit its downside.',
-        'Evgeny Morozov',
+    'f1c541c3-aaaf-5078-a15e-c8295ca960fd' => [
+        'Integrity of life is fame\'s best friend, which nobly, beyond death, shall crown in the end.',
+        'John Webster',
     ],
-    'f451b12f-c9bb-582a-94aa-48d1a8950612' => [
-        'If you\'re a goal scorer, you have to have a certain attitude. I\'m very serious. My missus thinks I\'m a bit weird. I\'m cold, I don\'t have many emotions. It\'s very rare I cry.',
-        'Michael Owen',
+    '4dcaa1f1-2cd7-5325-b16d-98be3fa73c98' => [
+        'Don\'t walk through life just playing football. Don\'t walk through life just being an athlete. Athletics will fade. Character and integrity and really making an impact on someone\'s life, that\'s the ultimate vision, that\'s the ultimate goal - bottom line.',
+        'Albert Einstein',
     ],
-    '54a6f5ab-0a02-560a-8f90-e98555238415' => [
-        'I have to take care of my family, my team, and my legacy.',
-        'Rafael dos Anjos',
+    'a5e88c2f-0bac-5023-a160-fedac5116a12' => [
+        'I live quietly at home among my family and friends.',
+        'Antonio Tabucchi',
     ],
-    'a673d1d4-0439-5cfe-b263-d74bbd77a6a1' => [
-        'First-person narrators is the way I know how to write a book with the greatest power and chance of artistic success.',
-        'Anne Rice',
+    '2f1f5a8b-8f12-5f63-9b24-afb4fb3ef4ff' => [
+        'I\'ve always felt like I\'ve had the ability to choose which roles I was going to play. I don\'t think that the industry agreed with me, but I\'ve always had a bit of a headstrong attitude of only doing the things that I really believe in and want to explore.',
+        'Brie Larson',
     ],
-    'a19c991a-03e6-5ced-b717-533ec49bbacb' => [
-        'Many friends of mine told me that normally only guys like a kung fu movie and the girls would be turned off - they want to see a love story. But Ip Man is a family man, so the women see this and go: \'I want my husband to be like this man. He\'ll be a scholar, he\'ll be fighting, he\'ll care for the family.\' So we had a bigger audience.',
-        'Donnie Yen',
+    '340a158b-3c3e-5357-b21d-396d92f0f920' => [
+        'Success is just being happy. And I try so many different things. I do a lot of different things. Because I think God has helped me to love myself. I know who God is, and I love God.',
+        'Herschel Walker',
     ],
-    '201b0986-1218-5774-a641-4588391c23e4' => [
-        'The best advice I\'ve received is to be yourself. The best artists do that.',
-        'Frank Gehry',
+    '64d9f0f6-8201-5c95-bc69-46187bd16037' => [
+        'A good job is more than just a paycheck. A good job fosters independence and discipline, and contributes to the health of the community. A good job is a means to provide for the health and welfare of your family, to own a home, and save for retirement.',
+        'James H. Douglas, Jr.',
     ],
-    'd16a4c98-eee4-5be3-b5be-caa13068ffa9' => [
-        'Form must have a content, and that content must be linked with nature.',
-        'Alvar Aalto',
+    '63a27cd1-fedc-5d0e-a39e-13260df86c76' => [
+        'Should you shield the canyons from the windstorms you would never see the true beauty of their carvings.',
+        'Elisabeth Kubler-Ross',
     ],
-    '37b257d0-76cc-5305-9312-665ffe0aebd3' => [
-        'Success is like reaching an important birthday and finding you\'re exactly the same.',
-        'Audrey Hepburn',
+    '4a162122-d31e-5748-bee7-81223a0e890d' => [
+        'Success is the progressive realization of a worthy goal or ideal.',
+        'Earl Nightingale',
     ],
-    '29c29cef-450a-5197-a6e6-ccde0e6c3834' => [
-        'There is only one corner of the universe you can be certain of improving, and that\'s your own self.',
-        'Aldous Huxley',
+    '45caf547-bc25-5bfa-a37b-88c930857280' => [
+        'To me, \'beauty\' means to be natural, creative, honest - to say the truth.',
+        'Nawal El Saadawi',
     ],
-    '39331f6a-e17f-5d1e-9c70-4e518d8d29ce' => [
-        'I grew up under Communism so we could only learn Russian, and then when Communism fell in 1989 we could learn a few more things and have the freedom to travel and the freedom of speech - and the freedom of dreaming, really.',
-        'Petra Nemcova',
+    'e9a65164-4abc-546e-b678-8d1155022864' => [
+        'I try and stay positive; being negative isn\'t good for my personality. I don\'t just bring myself down, I bring everyone around me down. It\'s like a dark cloud, \'Uh oh, here we go,\' and have to snap out of it.',
+        'Catherine Zeta-Jones',
     ],
-    'f2895342-8c31-5664-9bff-674f0797088e' => [
-        'What being a socialist means is... that you hold out... a vision of society where poverty is absolutely unnecessary, where international relations are not based on greed... but on cooperation... where human beings can own the means of production and work together rather than having to work as semi-slaves to other people who can hire and fire.',
-        'Bernie Sanders',
+    '912aa0cd-a4ba-5a58-b9a4-061edb712d35' => [
+        'True leaders don\'t invest in buildings. Jesus never built a building. They invest in people. Why? Because success without a successor is failure. So your legacy should not be in buildings, programs, or projects; your legacy must be in people.',
+        'Myles Munroe',
     ],
-    'acdb4f92-ba91-58a4-b5bb-6ac4111d5a0c' => [
-        'How did it get so late so soon? Its night before its afternoon. December is here before its June. My goodness how the time has flewn. How did it get so late so soon?',
-        'Dr. Seuss',
+    'ebaae1bf-8f3b-5262-bd0b-cad6b59eea49' => [
+        'Let me be the first to tell you, drinking alcohol is the worst thing to do in cold weather. Hot soup is the best because the process of digesting food helps to warm you up.',
+        'Morgan Freeman',
     ],
-    '13808590-e7e1-5884-8d46-ab81f1278765' => [
-        'Life is about not knowing, having to change, taking the moment and making the best of it, without knowing what\'s going to happen next.',
-        'Gilda Radner',
+    '126cbf55-6c52-57fc-a00d-8ece84253580' => [
+        'The attitude in Baltimore in 1999 was almost one of resignation, that our problems were bigger than our capacity to handle them.',
+        'Martin O\'Malley',
     ],
-    'cc485c0d-57ce-54a8-9dad-fe81fbbbd0d3' => [
-        'We don\'t have enough support for maternal leave and the kinds of things that some of the European countries do. So we still make it hard on women to go into the work force and feel that they can be good at work but then doing the most important job, which is raising your children in a responsible and positive way.',
-        'Hillary Clinton',
+    'a468748e-4d26-571e-b949-83e8102d2640' => [
+        'I think all of us certainly believed the statistics which said that probably 88% chance of mission success and maybe 96% chance of survival. And we were willing to take those odds.',
+        'Alan Shepard',
     ],
-    'c0879326-8d84-56fb-bc59-68a829efd0dc' => [
-        'I longed to arrest all beauty that came before me, and at length the longing has been satisfied.',
-        'Julia Margaret Cameron',
+    'eba05947-6ed6-580c-87a4-5b23a2972241' => [
+        'What seems to us as bitter trials are often blessings in disguise.',
+        'Oscar Wilde',
     ],
-    'a2ef4018-c97c-5d8a-9245-e7c28c459556' => [
-        'Everything that used to be a sin is now a disease.',
-        'Bill Maher',
+    '3f2f1c95-f46c-5abb-95af-131f3df7eabe' => [
+        'I had ordered long legs, but they never arrived. My eyes are weird too, one is gray and the other is green. I have a crooked smile and my nose looks like a ski slope. No, I would not win a Miss contest.',
+        'Jane Seymour',
     ],
-    'd1a0f83d-a6ae-5d4c-8809-ee5f3dfa1e1b' => [
-        'I am a candid interview and I have a dark and dry sense of humor - a very Canadian sense of humor and I am only learning now stupidly that you can\'t read tongue. When I say something funny in a newspaper and I meant it to be funny, it doesn\'t read that way.',
-        'Michael Buble',
+    'c9c38cdc-0c78-5629-9d0f-fe25003bd03c' => [
+        'Learning to celebrate success is a key component of learning how to win in the market.',
+        'Douglas Conant',
     ],
-    'f5e1259f-6f3f-55c4-8a91-9f1d3e24212b' => [
-        'You just never give up. You do a task to the best of your abilities and beyond.',
-        'Debbie Reynolds',
+    '63fc869b-fa38-5f7d-8a59-d2ea3d0bc338' => [
+        'Everything that exists is in a manner the seed of that which will be.',
+        'Marcus Aurelius',
     ],
-    'b2497f2d-041b-5eb7-befd-8c1823b86728' => [
-        'All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.',
-        'Kathleen Norris',
+    '78661256-dd58-5bb4-8e1c-813df04557a2' => [
+        'Choosing to be positive and having a grateful attitude is going to determine how you\'re going to live your life.',
+        'Joel Osteen',
     ],
-    '10e29fba-5993-5328-8ef1-9edeea0c332d' => [
-        'The best fiction is geared towards conflict. We learn most about our characters through tension, when they are put up against insurmountable obstacles. This is true in real life.',
-        'Sufjan Stevens',
+    '8ac5f266-8e13-55b6-891c-59001fc67c4b' => [
+        'Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.',
+        'John Kennedy',
     ],
-    'd043af3a-2134-5841-9ed2-6d66f29f61a7' => [
-        'Economics is a choice between alternatives all the time. Those are the trade-offs.',
-        'Paul Samuelson',
+    'a0310009-65f2-532a-bb65-7ef790d98323' => [
+        'As for our majority... one is enough.',
+        'Benjamin Disraeli',
     ],
-    'b1bce9ae-7425-5667-bf31-deac277a520d' => [
-        'If my life were a song it would probably be titled \'Roller Coaster\', up and down all the time.',
-        'Scotty McCreery',
+    '20153832-df6d-52c6-b500-9362a135e099' => [
+        'The BBC is the greatest broadcaster in the world. It\'s the standard that everyone measures themselves against. If we lose the BBC, it won\'t be quite as bad as losing the royal family, but an integral part of this country will have gone. But then, I\'m an old guy.',
+        'Terry Wogan',
     ],
-    '487a5cbf-3b61-524f-8df2-3b972218ed13' => [
-        'Time is the most precious element of human existence. The successful person knows how to put energy into time and how to draw success from time.',
-        'Denis Waitley',
+    '68108735-e4aa-5bb4-9e04-49f4bf2be0de' => [
+        'As a female, you are often being asked by directors to be warmer, softer, flirt more, smile more etc... None of those things are bad, and obviously we are capable of a variety of human behavior, but it gets really old having to play into somebody\'s stereotype or ideal.',
+        'Trieste Kelly Dunn',
     ],
-    '9025ced9-42d8-549b-ae6a-3dec9b6f0bcc' => [
-        'The quality of a person\'s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor.',
-        'Paul Rand',
+    '8990f2e8-f7f0-5f55-9dea-150a15d8f466' => [
+        'Take things as they are. Punch when you have to punch. Kick when you have to kick.',
+        'Bruce Lee',
     ],
-    '80027179-3b30-5bc2-a0ff-443a0bcfee60' => [
-        'The butterfly counts not months but moments, and has time enough.',
-        'Rabindranath Tagore',
+    '659e0e9a-fe08-5177-a21f-372c91c499ac' => [
+        'For me, success is a state of mind. I feel like success isn\'t about conquering something; it\'s being happy with who you are.',
+        'Britney Spears',
     ],
-    'acd8f813-2ba8-5023-bcf3-91718a1efdb9' => [
-        'Surround yourself with positive people and you\'ll be a positive person.',
-        'Kellie Pickler',
+    '51f245da-f0b0-5ff2-bcb1-7c7e61590ada' => [
+        'I love everything about the holidays: the decorations, the parties, and spending time with friends and family. What I love most is that feeling of giving back. Every bit counts.',
+        'Brad Goreski',
     ],
-    '18a4ace4-e3e0-5395-b561-8f77691e4bd4' => [
-        'Some pursue happiness, others create it.',
-        'Unknown',
+    '7f94f2a3-1372-5869-a2b5-69bad99dc020' => [
+        'Success listens only to applause. To all else it is deaf.',
+        'Elias Canetti',
     ],
-    'b430e238-853a-596e-8598-efd2f4f76169' => [
-        'If you genuinely want something, don\'t wait for it--teach yourself to be impatient.',
-        'Gurbaksh Chahal',
+    'b7045d87-7643-5dc7-9706-fb8b867fdb90' => [
+        'The world is always in movement.',
+        'V. S. Naipaul',
     ],
-    'c34ecfd1-4e38-5e00-ae6c-34a04661aa6a' => [
-        'Wear a smile and have friends; wear a scowl and have wrinkles.',
-        'George Eliot',
+    '2279c4ee-67f6-569c-b77e-5d7353d59979' => [
+        'Each day is a little life: every waking and rising a little birth, every fresh morning a little youth, every going to rest and sleep a little death.',
+        'Swami Vivekananda',
     ],
-    '0e6145c3-0e46-5e0a-94dd-02fde03e31d4' => [
-        'My family\'s lineage, we are warriors. The McGregor clan, we are warriors all through. We are famous all through the world for our fighting capabilities of all generations. So I have no doubt that\'s stood to me and that led me down this path and gave me what I have.',
-        'Conor McGregor',
+    '0f4dc580-9852-53b5-836a-3237662c9a94' => [
+        'A kiss is a lovely trick designed by nature to stop speech when words become superfluous.',
+        'Ingrid Bergman',
     ],
-    'bc7484c7-58f3-5f93-be43-7bb3a12c484a' => [
-        'An oversupply of national sentiment is not the problem in Somalia. The problem is a lack of it. The problem is an oversupply of sub-sub-clannish attitude.',
-        'Meles Zenawi',
+    '9c486f51-3205-5752-8059-9ab6d4c1923e' => [
+        'When you get into a tight place and everything goes against you, till it seems as though you could not hang on a minute longer, never give up then, for that is just the place and time that the tide will turn.',
+        'Harriet Beecher Stowe',
     ],
-    '52461362-a5c4-5f69-8249-9fec6931f6e2' => [
-        'I adore Madrid. It\'s my city. If I ever move, it will only be for work. Whenever I travel, I always want to get back home.',
-        'Maria Valverde',
+    '0d265741-0bb5-50d3-a5cb-bf4578489812' => [
+        'I have an unfortunate personality.',
+        'Orson Welles',
     ],
-    '6a4522b0-aa76-55e8-baed-0b8ee3ec384e' => [
-        'Our passion is our strength.',
-        'Billie Armstrong',
+    '4daf2fd0-c1db-5359-93a1-53e677c5a837' => [
+        'Beauty comes from a life well lived. If you\'ve lived well, your smile lines are in the right places, and your frown lines aren\'t too bad, what more do you need?',
+        'Jennifer Garner',
     ],
-    'cfb11d25-8e97-545b-90f4-823016db8227' => [
-        'An important priority for me is a business must get their own house in order. Be or become an agent of positive change in your own enterprise and adopt responsible practices to eliminate the risks that often lie at the root of inequality and poverty.',
-        'Richard Branson',
+    '46f49890-e33f-5fde-a704-c338a899b774' => [
+        'Life is a journey. When we stop, things don\'t go right.',
+        'Marianne Vos',
     ],
-    '96360a7d-884a-5d96-8eb6-8661fec41a3e' => [
-        'When Jennifer Lawrence says it\'s \'dumb\' to go hungry to make other people happy, she\'s saying it with the carefree attitude of a woman who probably will never have to make that choice to conform.',
-        'Jennifer Armintrout',
+    'b0770628-a32f-5d68-83e5-e988b3e5885a' => [
+        'The past always looks better than it was. It\'s only pleasant because it isn\'t here.',
+        'Finley Peter Dunne',
     ],
 ];

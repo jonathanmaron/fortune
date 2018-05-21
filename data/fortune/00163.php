@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'b51d92ae-4a45-5269-871c-eb150654556a' => [
-        'He who controls others may be powerful, but he who has mastered himself is mightier still.',
-        'Lao Tzu',
+    '6b09218c-adce-5288-af96-6bc84888474d' => [
+        'Always wear a smile sometime during the day - it makes you feel happier and look younger.',
+        'Kylie Bax',
     ],
-    'dc1a9f07-241c-5578-882a-e51b2986726f' => [
-        'Really I don\'t like human nature unless all candied over with art.',
-        'Virginia Woolf',
+    '56cd3a20-2f69-5de3-b2a5-a7e6bad53b7e' => [
+        'Venus told me the other day that champions don\'t get nervous in tight situations. That really helped me a lot. I decided I shouldn\'t get nervous and just do the best I can.',
+        'Serena Williams',
     ],
-    'f0d56507-7f3b-5fc2-99a0-05e5ae1b7db0' => [
-        'I\'ve always believed that one woman\'s success can only help another woman\'s success.',
-        'Gloria Vanderbilt',
+    '7e25f3bb-6c02-5300-bd17-4ace735f3a88' => [
+        'Like love, breakfast is best when made at home.',
+        'Gina Barreca',
     ],
-    '59113a93-f9a2-5fe2-bb04-8a80cb7d89f6' => [
-        'Who makes quick use of the moment is a genius of prudence.',
-        'Johann Kaspar Lavater',
+    'd58d8bc7-93e0-542d-afd0-e85082812fff' => [
+        'The music industry is really funny, when you have a hit record, everyone knows who are you, everyone wants to do duets with you, then if you have a miss, people suffer from amnesia.',
+        'Seal',
     ],
-    '51f6fe6e-2c66-52da-aee0-5e3d8d91354b' => [
-        'You create your opportunities by asking for them.',
-        'Shakti Gawain',
+    '68a440d5-ac3f-5eb8-800c-ce1f2c2ffd28' => [
+        'I never get tired of smiling. I\'m just the kind of guy who likes to smile.',
+        'Jason Ritter',
     ],
-    '32a2c986-b335-54c1-b0a4-ca41df0e293e' => [
-        'The beauty is that through disappointment you can gain clarity, and with clarity comes conviction and true originality.',
-        'Conan O\'Brien',
+    'e526ead1-ef2f-5de1-8ffc-f55ef710df83' => [
+        'I think anything is possible if you have the mindset and the will and desire to do it and put the time in.',
+        'Roger Clemens',
     ],
-    '0c67323a-262b-5c7d-b05c-cd3dea1e7fab' => [
-        'I find what I do for a living really funny. I mean, acting is kind of a hilarious thing for a grown man to call a job.',
-        'Christian Bale',
+    'b21b1dc5-b152-5349-bdbd-0f105851d9c0' => [
+        'Living at risk is jumping off the cliff and building your wings on the way down.',
+        'Ray Bradbury',
     ],
-    '7bed81e9-08fb-57f5-86e2-699a4721dc01' => [
-        'Only a life lived for others is a life worthwhile.',
-        'Theodore Roosevelt',
+    'f63f5bea-db55-5d50-905a-02d529d5d760' => [
+        'On reflection, I am always pleasantly surprised when ordinary members of the public stop me in the street to say, \'Thank you,\' I guess for making travel and other goods and services affordable to them.',
+        'Stelios Haji-Ioannou',
     ],
-    '14a7817d-913a-518c-8bbc-7c2a1db4885b' => [
-        'I am a marathon worker and marathon mother. I\'ll spend three or four days completely swallowed up by work. And if I make it home in time to say good night, I may have one good hour with the girls, maybe a brief family dinner or a family walk with the dog, and then it is back on the computer to prepare for tomorrow\'s shows.',
-        'Mika Brzezinski',
+    '65845c9b-9aed-503f-a8c6-cb61fe7e15b0' => [
+        'Liberalism is an attitude rather than a set of dogmas - an attitude that insists upon questioning all plausible and self-evident propositions, seeking not to reject them but to find out what evidence there is to support them rather than their possible alternatives.',
+        'Morris Raphael Cohen',
     ],
-    '2ae4a950-3233-51ae-8f82-ab8621793a30' => [
-        'I was trying to heal wounds all the time, whether it meant having affairs or having attitude. I didn\'t want to show how sad I was.',
-        'Peggy Lipton',
+    'ebe96eea-eb52-50af-95ca-c8da31b36060' => [
+        'I feel that I\'ve got the opportunity to set a great role model for girls to look up to a strong, active, compassionate, loving, positive woman, and I think it\'s so important.',
+        'Gal Gadot',
     ],
-    '5440b044-b91b-5161-b3c1-a75445ab5232' => [
-        'If you haven\'t got anything nice to say about anybody, come sit next to me.',
-        'Alice Roosevelt Longworth',
+    'd1872ef4-bc38-52c8-a6a3-75d7d2379aa0' => [
+        'In the courtroom, it\'s where a lawyer really becomes an actor. There\'s a very fine line between delivering a monologue in a play and delivering a monologue to a jury. I\'ve always felt that way - I\'ve been in a lot of courtrooms. The best lawyers are really theatrical.',
+        'Woody Harrelson',
     ],
-    'f6a9d5c0-36b8-595b-93df-1033a6af08ad' => [
-        'I\'ve learned from experience that if you work harder at it, and apply more energy and time to it, and more consistency, you get a better result. It comes from the work.',
-        'Louis C. K.',
+    'c6f5bc45-49ad-515e-ae1e-dbe43bfe6a20' => [
+        'I love to travel with my family or my two best friends because I completely trust them. I forced my two best friends into learning to scuba dive with me in Sri Lanka - it was amazing but also hideous because we were learning in very difficult seas.',
+        'Julia Sawalha',
     ],
-    'dabee86e-3ac4-5b89-a9b3-28c3b161bbc0' => [
-        'God always strives together with those who strive.',
-        'Aeschylus',
+    '2ac4edfb-aabc-5825-8beb-d855bdab5ae8' => [
+        'And the smile that is worth the praises of earth is the smile that shines through tears.',
+        'Ella Wheeler Wilcox',
     ],
-    'b64a43c4-6f9d-5c6e-878e-ea4657daca32' => [
-        'The poor man is not he who is without a cent, but he who is without a dream.',
-        'Harry Kemp',
+    '55aaa961-b309-51bc-b419-6c46dfbecdc2' => [
+        'We make such terrible mistakes with visual choices about beauty.',
+        'Marina Abramovic',
     ],
-    '06bfbc89-5888-5f41-bfec-2e53f7cd152a' => [
-        'Things don\'t just happen in this world of arising and passing away. We don\'t live in some kind of crazy, accidental universe. Things happen according to certain laws, laws of nature. Laws such as the law of karma, which teaches us that as a certain seed gets planted, so will that fruit be.',
-        'Sharon Salzberg',
+    'd5323d7f-ece2-515a-af06-797a5b17121e' => [
+        'Today it is time for every child to have a right to life, right to freedom, right to health, right to education, safety, the right to dignity, right to equality, and right to peace.',
+        'Kailash Satyarthi',
     ],
-    '82749fd9-a5e1-5d56-bc6f-d4a116f8cf5f' => [
-        'It\'s not enough that I should succeed - others should fail.',
-        'David Merrick',
+    '7a8c1cd5-537f-5b9c-8504-958462e65c39' => [
+        'Violence can be very grotesque and also intensely attractive. What interests me is how the two - beauty and violence - live side by side, and how moments can be created and erased almost simultaneously. Destruction is painful, but at times it can be very cathartic.',
+        'Ori Gersht',
     ],
-    '24aee97f-688d-54ed-a0af-90eb1621b730' => [
-        'Obviously, a long-distance relationship is hard. But, like anything worth having, you make it work.',
-        'Leona Lewis',
+    'b7748a8f-e999-57d6-8a86-77bdc8d1f65b' => [
+        'My interpretation of the word \'ugly\'... I like ugly beauty. That can happen. In France, we have phrase \'jolie laide.\' We like certain women who are not pretty or cute - it\'s the opposite in France of pretty. It\'s more strange and interesting.',
+        'Francois Nars',
     ],
-    'ff7c2928-8d86-50bd-9782-34dba2855d7f' => [
-        'During all these years there existed within me a tendency to follow Nature in her walks.',
-        'John James Audubon',
+    'a4c11814-ea4e-56a3-80d8-27af6a01cffa' => [
+        'For every moment of triumph, for every instance of beauty, many souls must be trampled.',
+        'Hunter S. Thompson',
     ],
-    '21ec35e0-a4be-55a8-b47b-7139ff4ce6b2' => [
-        'The music industry is dominated by guys. I work with men 98 percent of the time - producers, arrangers, musicians, engineers.',
-        'Shakira',
+    'b9d37c49-9efd-5664-9c4c-2cddbc4c5a71' => [
+        'I used to make up stuff in my bio all the time, that I used to be a professional ice-skater and stuff like that. I found it so inspirational. Why not make myself cooler than I am?',
+        'Stephen Colbert',
     ],
-    '80d33b2c-e042-58db-8ae4-31e6806b4d29' => [
-        'Life\'s blows cannot break a person whose spirit is warmed by the fire of enthusiasm.',
-        'Norman Vincent Peale',
+    '39ce62ce-e1c4-5683-bae9-4ddb794b07cd' => [
+        'I\'ve been hearing this since I first joined the Reds organization, that I\'m going to be the next this or that. It\'s tough on a young player coming up. You show some positive things and everybody jumps on that and says you should be the next Willie Mays.',
+        'Eric Davis',
     ],
-    '5e1c973b-c765-5d82-9a06-2b80c371bbe1' => [
-        'What I would say to young entrepreneurs is there\'s so many moments in your life where you have these dreams, and people are trying to protect you, and they say, perhaps, friends, family, parents sometimes, they don\'t agree with it, they think, \'This is just too high of a hurdle.\' And I don\'t agree with that.',
-        'Howard Schultz',
+    'f329c8f9-28c4-5170-8883-0f2053d2abc2' => [
+        'When in doubt, take more time.',
+        'John Zimmerman',
     ],
-    '4e305880-855d-5ede-80c1-9216a44600e4' => [
-        'Publicity is justly commended as a remedy for social and industrial diseases. Sunlight is said to be the best of disinfectants; electric light the most efficient policeman.',
-        'Louis D. Brandeis',
+    'bf0eb6ea-2c0c-56b3-a783-3a80b2982566' => [
+        'Wherever we go, across the Pacific or Atlantic, we meet, not similarity so much as \'the bizarre\'. Things astonish us, when we travel, that surprise nobody else.',
+        'Mary Ritter Beard',
     ],
-    '0fb0d12c-7919-5951-bfe1-1501e96dc2a2' => [
-        'If you fell down yesterday, stand up today.',
-        'H. G. Wells',
+    'b963fea1-e2af-596d-be63-12484bd13f44' => [
+        'If you develop a dialogue with me and take an interest in me, I\'ll want to give you the business. It\'s human nature.',
+        'Danny Meyer',
     ],
-    '2c0f1d88-5147-5478-9da5-1614d04e022d' => [
-        'Pessimism leads to weakness, optimism to power.',
-        'William James',
+    '1ee9b518-d607-5913-bf49-bddfe15ed825' => [
+        'Time goes on. So whatever you\'re going to do, do it. Do it now. Don\'t wait.',
+        'Robert De Niro',
     ],
-    'ef622c22-5322-5ec4-adaf-c3f3043bce0c' => [
-        'I always say that kindness is the greatest beauty that you can have.',
-        'Andie MacDowell',
+    'fc51464f-ce6b-5ad0-8f13-f3e40c38c8cd' => [
+        'Every time you feel depressed about something, try to identify a corresponding negative thought you had just prior to and during the depression. Because these thoughts have actually created your bad mood, by learning to restructure them, you can change your mood.',
+        'David D. Burns',
     ],
-    '274ccf3f-9e63-5359-b54c-1f6e8eadf622' => [
-        'All this misjudgment that we have of each other is based on ignorance. The second you get to travel, you see that human beings, no matter where they come from, they are the same.',
-        'Marjane Satrapi',
+    'a062302c-c7dc-52b6-9458-7a6e67e3aac5' => [
+        'Give thanks for the rain of life that propels us to reach new horizons.',
+        'Byron Pulsifer',
     ],
-    '38f5524a-737c-5320-b55d-ce475960eb5e' => [
-        'I want to explore a new place each year, and it can be within India. When I was shooting for \'Mohenjo Daro\', I couldn\'t travel out of the country for two years. But it gave me an opportunity to explore new places within India. I\'m sure there are so many places to explore in India, and I would love to go there.',
-        'Pooja Hegde',
+    '8de7fcc6-ad9a-55b2-9824-8555d717ef77' => [
+        'You start at a young age, going on auditions, and you think you did a good job and expect to get that role, and you don\'t, and it\'s a letdown, a disappointment. So you tell yourself to just do the work and disconnect, because you have no control over the outcome.',
+        'Michael B. Jordan',
     ],
-    '369af510-6c2d-5d5b-a327-656a7b2bc00a' => [
-        'I live to leave somebody with a positive experience when they\'ve met me, and make someone smile for the day.',
-        'Dolph Ziggler',
+    'ae2399c5-1a28-5a48-a148-b4181e06af62' => [
+        'No self-respecting woman should wish or work for the success of a party who ignores her sex.',
+        'Susan B. Anthony',
     ],
-    '66a93a18-b503-5848-8c48-8f27e37fa334' => [
-        'I like to put on hardcore when I have to clean my apartment, which I hate to do, but it\'s motivational. I like old heavy metal when I\'m outside working on my car. Music has definite functions for me.',
-        'Peter Steele',
+    '3f118658-f085-5301-b0b2-110aba5ca4fa' => [
+        'I wasn\'t interested in football. It made me different. I wore glasses, had bad hair, a funny name, you name it.',
+        'Rupert Friend',
     ],
-    '8a1f65b0-a8af-5e8d-b2e3-2bcfdc6394b6' => [
-        'Eternity: a moment standing still for ever.',
-        'James Montgomery',
+    'e41631b6-5bf2-5e7f-a9cf-dd5ec8a8e91f' => [
+        'The things that one most wants to do are the things that are probably most worth doing.',
+        'Winifred Holtby',
     ],
-    'f2f4d659-ee4d-51aa-9490-4a5b2dcb6cb5' => [
-        'My scientific pursuits have led to many opportunities and responsibilities beyond those of simply doing research. For example, as a beginning graduate student, it never occurred to me that the life of a scientist could involve so much travel, something that I have always loved.',
-        'H. Robert Horvitz',
+    'cb9cc457-43a8-5d23-84eb-2089b2f6be60' => [
+        'My success was due to good luck, hard work, and support and advice from friends and mentors. But most importantly, it depended on me to keep trying after I had failed.',
+        'Mark Warner',
     ],
-    '1f459d5c-043b-5684-a7f4-5c57fa9bfaf4' => [
-        'Twilight - a time of pause when nature changes her guard. All living things would fade and die from too much light or too much dark, if twilight were not.',
-        'Howard Thurman',
+    '71f1db7c-746d-5436-9449-bf46685fa1cb' => [
+        'The president felt that it was important to send an ordinary citizen to experience the excitement of space travel as a representative for all Americans.',
+        'Christa McAuliffe',
     ],
-    '9916560d-f169-54c4-98d0-8db00675d62f' => [
-        'I perhaps owe having become a painter to flowers.',
-        'Claude Monet',
-    ],
-    '17e5dbb3-9b9f-5338-bd91-f64e086b0f81' => [
-        'Dreams have only one owner at a time. That\'s why dreamers are lonely.',
-        'Erma Bombeck',
-    ],
-    '1a3a3722-5b03-56ca-b467-59bc75251268' => [
-        'The reward of energy, enterprise and thrift is taxes.',
-        'William Feather',
-    ],
-    '8f698a42-ca09-5814-8a9e-d4744330b071' => [
-        'I just want to show the fans my big smile and play the game that I love.',
-        'Yani Tseng',
-    ],
-    'a4a187aa-baf2-56c6-a6ba-75f4d807e0bb' => [
-        'The impossible often has a kind of integrity which the merely improbable lacks.',
-        'Douglas Adams',
-    ],
-    'fcdbaae6-8898-57a9-ab51-e7ab247ab7d2' => [
-        'Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now! There are only so many tomorrows.',
-        'Regina Brett',
-    ],
-    'f8fb8e7f-d7f0-596d-b126-7b608400756f' => [
-        'Happiness is nothing but good health and freedom, and money is the single best way you can buy your freedom.',
-        'Scott Adams',
-    ],
-    '902b9bea-0ce4-5e9e-83d2-53cf5592f999' => [
-        'I believe in process. I believe in four seasons. I believe that winter\'s tough, but spring\'s coming. I believe that there\'s a growing season. And I think that you realize that in life, you grow. You get better.',
-        'Paris Hilton',
-    ],
-    'e7ac3e8b-ba18-5eef-85fe-06381128ecb3' => [
-        'I am not trendy. I am not \'in fashion.\' I am simply a positive human being who has a positive outlook on life.',
-        'Thierry Mugler',
-    ],
-    '8b7e0e00-9169-5b80-b1f9-c876f9e4e608' => [
-        'The last thing left in nature is the beauty of women.',
-        'Peter Beard',
-    ],
-    'aad1f50f-3e07-5fec-82b6-8038065e2464' => [
-        'Right now I am trying to be in a place of calm, a place where I can chill out and then handle the chaos of life better. You don\'t just get it overnight; you have to work at it. It\'s a daily struggle.',
-        'Jackee Harry',
-    ],
-    '6cc5e9e4-b555-500a-9f1b-9499467adcd8' => [
-        'With the Union my best and dearest earthly hopes are entwined.',
-        'Franklin Pierce',
-    ],
-    '5d126288-e746-5313-9ea9-fe36d5d3804c' => [
-        'If I\'m honest I have to tell you I still read fairy-tales and I like them best of all.',
-        'Audrey Hepburn',
-    ],
-    'fc92a242-00dc-5298-9fd8-cc1ed3b63d50' => [
-        'Our work is never over.',
-        'Kanye West',
-    ],
-    '72637c19-1caa-5657-be43-65afe6cf9d78' => [
-        'The prevailing - and foolish - attitude is that a good manager can be a good manager anywhere, with no special knowledge of the production process he\'s managing. A man with a financial background may know nothing about manufacturing shoes or cars, but he\'s put in charge anyway.',
+    'fdf449f0-66dd-5b4d-9a95-40e114a6b6aa' => [
+        'Quality is everyone\'s responsibility.',
         'W. Edwards Deming',
     ],
-    'e70e6300-a373-5344-afd7-e570969b05dd' => [
-        'He travels the fastest who travels alone.',
-        'Rudyard Kipling',
+    'be928fa2-cbc2-5a87-911a-677b58e1ce81' => [
+        'All of nature begins to whisper its secrets to us through its sounds. Sounds that were previously incomprehensible to our soul now become the meaningful language of nature.',
+        'Rudolf Steiner',
     ],
-    '9f255ae5-251c-55b1-9f6f-059bc26532ad' => [
-        'I would rather be adorned by beauty of character than jewels. Jewels are the gift of fortune, while character comes from within.',
-        'Plautus',
+    'ceea5007-5dd2-5eaf-b0eb-631a38327960' => [
+        'Concentrate all your thoughts upon the work at hand. The sun\'s rays do not burn until brought to a focus.',
+        'Alexander Graham Bell',
     ],
-    '3e7ebd6d-9765-5ebf-970d-c32634c5dfff' => [
-        'Don\'t worry if people don\'t like you. Most people are struggling to like themselves.',
+    '03dddd3d-a331-5f9c-9b15-ed888f8616c2' => [
+        'Don\'t aim for success if you want it; just do what you love and believe in, and it will come naturally.',
+        'David Frost',
+    ],
+    '6a3cf524-d809-5a87-b716-e47aa26bdd06' => [
+        'My own personal popularity can have no influence over me when the dictates of my best judgment and the obligations of an oath require of me a particular course. Under such circumstances, whether I sink or swim on the tide of popular favor is, to me, a matter of inferior consideration.',
+        'John Tyler',
+    ],
+    '412a4cb5-93a1-539c-8353-37bfad3c15f4' => [
+        'Beauty surrounds us, but usually we need to be walking in a garden to know it.',
+        'Rumi',
+    ],
+    'de6d2193-6b91-5162-9cba-354c8dd338ba' => [
+        'A good attitude is really important. And a sense of optimism, someone who has ideas and isn\'t afraid to pitch them no matter what level she is. Someone who is proactive. Someone with efficiency and common sense. They don\'t always go hand-in-hand, common sense and, well, everything else.',
+        'Eva Chen',
+    ],
+    'bd1da6c3-6af7-5bd9-aa28-eda51d83bb02' => [
+        'I think we all suffer from guilt at some point in our lives, but for the most part I never really regret, and I try to always remain positive. Yes, I think that those issues are very interesting to play in a character, and they\'re prominent issues in life, and I think people can relate to them.',
+        'Channing Tatum',
+    ],
+    'b571f050-661e-5383-8d5a-0f6d21981e45' => [
+        'Such discussions help us very little to enjoy what has been well done in art or poetry, to discriminate between what is more and what is less excellent in them, or to use words like beauty, excellence, art, poetry, with a more precise meaning than they would otherwise have.',
+        'Walter Pater',
+    ],
+    'aa1eeb3c-5104-5568-9db3-d8f1f64999f9' => [
+        'I keep sailing on in this middle passage. I am sailing into the wind and the dark. But I am doing my best to keep my boat steady and my sails full.',
+        'Arthur Ashe',
+    ],
+    '32d6f556-c20b-54b8-9c45-5322ae50eabf' => [
+        'We can see that the sacramental presence of the Lord in the Eucharist is an essential gift for us and give us also the possibility to love the others and to work for the others.',
+        'Pope Benedict XVI',
+    ],
+    'b485bd9b-675c-548a-8b99-487e08564a47' => [
+        'Don\'t miss all the beautiful colors of the rainbow looking for that pot of gold.',
         'Unknown',
+    ],
+    '11728ff7-ddf2-5296-975f-5e2b53865e04' => [
+        'What you wear in the evening is important for women because it\'s so personal, and it\'s so complicated to get it right. I like trousers for evening, especially when they have that width and attitude to them.',
+        'Stella McCartney',
+    ],
+    '329f6bba-9a08-51fe-89b1-c1aebf43a720' => [
+        'To maintain a joyful family requires much from both the parents and the children. Each member of the family has to become, in a special way, the servant of the others.',
+        'Pope John Paul II',
+    ],
+    '3ce7ff0a-e4ff-5b5b-a6a6-5c4b0b9781e5' => [
+        'Whether it\'s the best of times or the worst of times, it\'s the only time we\'ve got.',
+        'Art Buchwald',
+    ],
+    'e7fec4de-d762-5d8d-aae7-1bcca439434b' => [
+        'The best fashion show is definitely on the street. Always has been, and always will be.',
+        'Bill Cunningham',
+    ],
+    'c4b06e0d-b66c-5ff3-bd7c-0b6d4dda2ba4' => [
+        'It is not light that we need, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake.',
+        'Frederick Douglass',
+    ],
+    'bfd39276-e7c4-5909-baa5-0319b829510b' => [
+        'I have only been funny about seventy four per cent of the time. Yes I think that is right. Seventy-four per cent of the time.',
+        'Will Ferrell',
     ],
 ];

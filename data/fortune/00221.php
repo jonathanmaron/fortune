@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '2e5bc717-f7fd-57da-9728-bc6f0bbac8a5' => [
-        'I know of no single formula for success. But over the years I have observed that some attributes of leadership are universal and are often about finding ways of encouraging people to combine their efforts, their talents, their insights, their enthusiasm and their inspiration to work together.',
-        'Queen Elizabeth II',
+    'c4668895-f1eb-5593-989a-69eba856fa92' => [
+        'Before, I guess, mum and dad were everything, but now, in my case, I had two new girls and all of a sudden they\'re completely dependent on you and there\'s a third generation. It\'s a funny shift all of a sudden. You have the babies, you have yourself and then you have your parents.',
+        'Roger Federer',
     ],
-    '2a81e91c-e445-50bc-9554-d2fbd7c1a163' => [
-        'I used to think that losing made you more hungry and determined but after my success at the Olympics and the U.S. Open I realise that winning is the biggest motivation.',
-        'Andy Murray',
+    '5d5ae92f-58c2-5359-ada1-616175b7a3b4' => [
+        'To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.',
+        'Anthony Robbins',
     ],
-    '4added2e-3034-52ed-b312-3c8218ca8681' => [
-        'I had to come from something, come from a place that was negative and positive but the majority of it is a negative place.',
-        'Kendrick Lamar',
+    '15e9f3ad-bfb3-53fe-ba13-706a15540f5e' => [
+        'The more I want to get something done, the less I call it work.',
+        'Richard Bach',
     ],
-    '2f86f7fe-5157-597e-be1d-4c4aadb4b9eb' => [
-        'The tax collector must love poor people, he\'s creating so many of them.',
-        'Bill Vaughan',
+    '10a469ba-29b6-5f56-88f1-3a33fab6c0c4' => [
+        'Everyone can have their heart broken. Even if you know the relationship isn\'t working, it\'s still sad. Even in a bad relationship, they\'re part of your life for a long time, and saying goodbye to that can be difficult.',
+        'James Marsden',
     ],
-    '74737402-b21a-54cf-a6cd-a9e99a82cf20' => [
-        'All we need, really, is a change from a near frigid to a tropical attitude of mind.',
-        'Marjory Stoneman Douglas',
+    'df802384-9927-5c6f-a55d-265861db8d05' => [
+        'I mean, I\'m married first of all to one of, if not the most wonderful women in the world. She is everything - funny, attractive, hard-working, she has integrity, she loves me to bits.',
+        'Seal',
     ],
-    '2d926814-fde9-5a9d-b71d-15bbdb3ea105' => [
-        'Your soul is infinitely creative. It is alive and expansive in nature. It is curious and playful, changing with the tides of time.',
-        'Debbie Ford',
+    'a977b4ee-e086-5b47-89c2-894be385372c' => [
+        'There is nothing in which the birds differ more from man than the way in which they can build and yet leave a landscape as it was before.',
+        'Robert Wilson Lynd',
     ],
-    '25c61829-f0ee-556b-9e8c-ff34f72139cf' => [
-        'I have always been a flirt. My mother says whe I was a child, I used to stand outside the house and just smile at everyone who walked by. Like, \'Please take me with you!\'',
-        'bell hooks',
+    '2747b118-eb5c-5c2f-ab7d-9aa9d03b560f' => [
+        'Permanent success cannot be achieved except by incessant intellectual labour, always inspired by the ideal.',
+        'Sarah Bernhardt',
     ],
-    'b351771e-75cf-56c8-b98c-ae7afff5c4ab' => [
-        'All the privileged can travel, see different worlds; not everyone can. I think it is important for people to have an interesting locale nearby.',
-        'Zaha Hadid',
+    'c1f73d40-bdf1-5bc1-9847-e7c4c1211edb' => [
+        'I see my upbringing as a great success story. By disciplining me, my parents inculcated self-discipline. And by restricting my choices as a child, they gave me so many choices in my life as an adult. Because of what they did then, I get to do the work I love now.',
+        'Amy Chua',
     ],
-    '8c84f1a4-f09c-5e30-a10e-fc26ef4ae997' => [
-        'One of the great things about music is that it has the capability of time travel - you smell a certain smell in the room and it takes you back to your childhood. I feel like music is able to do that, and it happens to me all the time.',
-        'M. Ward',
+    'da08e4e3-ed8c-5ef7-bdb3-9e5c71058620' => [
+        'When I was working at the Sprint store, I got laid off. I was bummed out, but I stayed positive. I used the money I had earned while working there to make my first album. Without that job, maybe \'Corazon Sin Cara\' would never had been made. It\'s a very inspirational story.',
+        'Prince Royce',
     ],
-    '77e94ecb-3bf2-5fe1-a582-80f30e5b55f5' => [
-        'I can\'t stress to you enough how much I can relate to teens being cyberbullied. Something that helps me is looking at old videos of me and my friends from middle school, or videos of my family. I love watching funny videos of my favorite people - it really cheers me up.',
-        'Ariana Grande',
+    '8313604b-1538-5fab-9dea-f0ed99954888' => [
+        'I basically started performing for my mother, going, \'Love me!\' What drives you to perform is the need for that primal connection. When I was little, my mother was funny with me, and I started to be charming and funny for her, and I learned that by being entertaining, you make a connection with another person.',
+        'Robin Williams',
     ],
-    'be712757-74ad-5fea-9ce0-0fa03946bb99' => [
-        'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.',
-        'Helen Keller',
+    'f2bd8300-bf4c-5c61-bc7b-5639c76f1d73' => [
+        '\'UFO\'s\' attitude toward the subject is very similar to mine. It\'s not an advocacy; its philosophy is more \'I want to believe this, but I want it proved.\'',
+        'Dwight Schultz',
     ],
-    '284f3c9c-e5c2-5d1a-a774-72340db7795e' => [
-        'Success is the best revenge. I always feel women should answer back either with their sarcasm or success.',
-        'Kangana Ranaut',
+    '3a4f9a40-7d6b-5c2a-b0d2-a66206b8b5d1' => [
+        'What am I responsible for? Who am I responsible to? Everybody? How come when Archie Bunker nailed everybody, it was funny - but when I do it, it\'s not?',
+        'Sam Kinison',
     ],
-    '0e1f077c-c43d-59fe-843b-3e7c6f29c0bf' => [
-        'I have believed the best of every man. And find that to believe is enough to make a bad man show him at his best, or even a good man swings his lantern higher.',
-        'William Butler Yeats',
+    '4100ad79-dc36-5013-b5a7-6182145624ef' => [
+        'I can\'t believe the pro-choicers attitude toward unborn children-to me it\'s the ultimate liberal cause, to defend those without a voice.',
+        'Michael Aston',
     ],
-    'f5f15d4e-7eef-59d2-8e4b-80570d60eee6' => [
-        'Family is the most important thing in the world.',
-        'Princess Diana',
+    '657d202d-5f50-54a0-b7c3-8f3dd81965dd' => [
+        'I have several dogs and several cats who aren\'t really mine. In fact, they think that I am theirs. I\'d like to have some goats and chickens, but I travel around too much.',
+        'Eric Stoltz',
     ],
-    '32c5213a-d91f-5ac3-b30c-2f4cca08610e' => [
-        'To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else - means to fight the hardest battle which any human being can fight; and never stop fighting.',
-        'e. e. cummings',
+    '46fadf62-1fb7-58bd-8b70-80a1a233dac6' => [
+        'There are no shortcuts to victory. We must commit ourselves to the slow, painstaking work of foreign policy day by day and year by year.',
+        'Richard Lugar',
     ],
-    '6d7896f8-8795-5ab0-8aad-7c8cc098aab4' => [
-        'Show me your hands. Do they have scars from giving? Show me your feet. Are they wounded in service? Show me your heart. Have you left a place for divine love?',
-        'Fulton J. Sheen',
+    '98c860dd-b489-545d-bb5a-5fe706568eaa' => [
+        'Life loves the liver of it.',
+        'Khalil Gibran',
     ],
-    '43e4363f-c6dd-5289-9688-8145568d4d09' => [
-        'They say that time changes things, but you actually have to change them yourself.',
-        'Andy Warhol',
+    'b93227c3-5909-56e0-96c7-c12cc80eaeca' => [
+        'Pageants were an amazing platform that gave a little girl like me from the mountains of my beautiful Puerto Rico a chance to travel, explore the world, meet amazing people, work for great charities and be a voice to empower women wherever I went. For all those things, I am grateful.',
+        'Joyce Giraud',
     ],
-    '944b5b1c-3e9d-5123-ad7b-b344eb4b237d' => [
-        'I\'ve had a lot of very positive feedback about those stories, and seem to have struck upon something that most people feel. I can also tap dance, and don\'t know many other authors who can.',
-        'Paul Kane',
+    'f9457d7d-47e9-5361-bc68-6e2476a1eff7' => [
+        'I think that public service is tough on a family - no ifs, ands, buts about it. I have my own personal wishes, but they\'re not always front and center.',
+        'Maria Shriver',
     ],
-    '22e722f9-aa30-5350-b3aa-ef499b8389a3' => [
-        'Financial institutions, the corporate world and civil society - all must uphold high standards of probity in their working. Only a genuine partnership between the Government and its people can bring about positive change to create a just society.',
-        'Pratibha Patil',
+    '3ee0a67b-80d6-508b-a585-35b29424e3f1' => [
+        'A man sees in the world what he carries in his heart.',
+        'Johann Wolfgang von Goethe',
     ],
-    '17c976ce-2024-5de1-ba4e-003866b38c6a' => [
-        'Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.',
-        'John Ruskin',
+    'a382dcd4-4412-5084-a973-5c7a06e5038f' => [
+        'Civilization began the first time an angry person cast a word instead of a rock.',
+        'Sigmund Freud',
     ],
-    '9d389114-e1f9-5fda-8c83-4d8f4052c25e' => [
-        'We hire people who want to make the best things in the world.',
-        'Steve Jobs',
+    '7f1f1686-08ad-5f95-bec3-621185708354' => [
+        'You can\'t trust without risk but neither can you live in a cocoon.',
+        'Byron Pulsifer',
     ],
-    'f32c6627-e007-5431-8611-5b819f60e968' => [
-        'Satisfaction consists in freedom from pain, which is the positive element of life.',
-        'Arthur Schopenhauer',
+    'ebcd299f-bd19-512f-83b3-110c256da90a' => [
+        'What we have found in this country, and maybe we\'re more aware of it now, is one problem that we\'ve had, even in the best of times, and that is the people who are sleeping on the grates, the homeless, you might say, by choice.',
+        'Ronald Reagan',
     ],
-    '45f5b327-7088-587e-a61b-aea7a1bd9f43' => [
-        'Don\'t fight the problem, decide it.',
-        'George C. Marshall',
+    'fe2f8e06-8f5b-5503-9b89-7f1a49178c7c' => [
+        'Unless a tree has borne blossoms in spring, you will vainly look for fruit on it in autumn.',
+        'Walter Scott',
     ],
-    '3f96cd24-cfec-59f6-8e04-e2beddb5ffb2' => [
-        'The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful.',
-        'Noam Chomsky',
+    'f22bd282-5dd2-5b9a-b525-d8b4000bdbee' => [
+        'My problem is that I think everybody needs to work as hard as I worked when I was in my prime.',
+        'Ric Flair',
     ],
-    'f0afb9fc-f2a0-5f57-8c69-0a2fd385ecc9' => [
-        'No life\'s worth more than any other, no sister worth less than any brother.',
-        'Bruce Lee',
+    'be14c172-8b0a-5366-a3bd-81bd2a6f76ac' => [
+        '\'24\' was so serious that it was nice to join \'NCIS\' and even be able to smile once or twice.',
+        'Annie Wersching',
     ],
-    'cfa39b3f-23cf-5d95-b4b8-aa7ab834c359' => [
-        'I dislike feeling at home when I am abroad.',
-        'George Bernard Shaw',
+    'e98564de-7be1-5e06-b4e0-42354e2011f7' => [
+        'My culture comes from everywhere. I\'m sick of this notion of nationality, that if you\'re brought up in the same city or same country you\'re the same. Even three kids brought up in the same family with the same genes, they are not the same. Just consider a human a human.',
+        'Marjane Satrapi',
     ],
-    '618c6f92-4de7-5366-a0f7-c01b730632fd' => [
-        'Travel writing is harrowing. You are in paradise, more or less, having to prove it is paradise. It is hard to have a good time trying to figure out a way to say you are having a good time, whether you are having it or not, even in paradise.',
-        'Padgett Powell',
+    '354963b5-23a2-58d1-a703-b974792c1774' => [
+        'A rolling stone gathers no moss.',
+        'Publilius Syrus',
     ],
-    'ed4f16e7-bffa-52bd-909f-0dc47995bfa0' => [
-        'A sour corporate culture can actually make an entire society unhappy. This means that a strong corporate culture can have a positive impact on a society.',
-        'Simon Sinek',
+    'bc4d31f7-699f-54ae-b7b8-2cbfb3798613' => [
+        'Success cannot come from standstill men. Methods change and men must change with them.',
+        'James Cash Penney',
     ],
-    'cbcf9325-0553-54a9-b160-eb307036f4e9' => [
-        'Capitalism is an organized system to guarantee that greed becomes the primary force of our economic system and allows the few at the top to get very wealthy and has the rest of us riding around thinking we can be that way, too - if we just work hard enough, sell enough Tupperware and Amway products, we can get a pink Cadillac.',
-        'Michael Moore',
+    'ff19e9ec-25f5-5c97-8f34-006a7ec18329' => [
+        'Liturgy is like a strong tree whose beauty is derived from the continuous renewal of its leaves, but whose strength comes from the old trunk, with solid roots in the ground.',
+        'Pope Paul VI',
     ],
-    'a9d9a17d-7cef-57f7-b9e1-faaca3cdd03d' => [
-        'Being natural is incredibly empowering for women because it\'s just who you are. You\'re embracing all the beautiful things about you from your head to your toes. Because when you mask so much of your natural beauty, people don\'t get to see that.',
-        'Rozonda Thomas',
+    '8dd676da-d362-545c-ba1b-28db5d5c1ae3' => [
+        'Knowledge rests not upon truth alone, but upon error also.',
+        'Carl Jung',
     ],
-    'a468748e-4d26-571e-b949-83e8102d2640' => [
-        'I think all of us certainly believed the statistics which said that probably 88% chance of mission success and maybe 96% chance of survival. And we were willing to take those odds.',
-        'Alan Shepard',
+    '9a97768c-297f-5da3-9672-48d79e649548' => [
+        'Gambling: The sure way of getting nothing for something.',
+        'Wilson Mizner',
     ],
-    'ac417d14-97ba-514a-8dff-a2badca21586' => [
-        'Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself, vision, hard work, determination, and dedication. Remember all things are possible for those who believe.',
-        'Gail Devers',
+    '95fc1bf3-3ea2-5730-b210-2284652ee848' => [
+        'Success is sweet and sweeter if long delayed and gotten through many struggles and defeats.',
+        'Amos Bronson Alcott',
     ],
-    'c21bb6a5-7a42-5526-b19d-7d775b82759f' => [
-        'The day I made that statement, about the inventing the internet, I was tired because I\'d been up all night inventing the Camcorder.',
-        'Al Gore',
+    'f49df9cc-d883-5b08-9aa2-feef8b5ac746' => [
+        'If we study learning as a data science, we can reverse engineer the human brain and tailor learning techniques to maximize the chances of student success. This is the biggest revolution that could happen in education, turning it into a data-driven science, and not such a medieval set of rumors professors tend to carry on.',
+        'Sebastian Thrun',
     ],
-    'c91d1b03-ed91-588b-a353-b0119a3fe151' => [
-        'Desire is the most important factor in the success of any athlete.',
-        'Bill Shoemaker',
+    'c9b13234-1ce5-5bd6-b9c1-47c9c8e12c21' => [
+        'Our government shouldn\'t tell us where to travel and where not to travel.',
+        'Jeff Flake',
     ],
-    'b34a8a2d-d0e5-57e0-90f8-0cda931e55e2' => [
-        'I love insults, devastating takedowns, things that could be described by Twitter hacks as \'shots fired,\' and funny ad hominem attacks.',
-        'Alex Pareene',
+    '607b59fc-2a00-5462-a0bd-7a33b3dbc134' => [
+        'Earth is a flower and it\'s pollinating.',
+        'Neil Young',
     ],
-    '5eb2b471-5df9-5f06-948c-2c62ae803bfe' => [
-        'All things are perceived in the light of charity, and hence under the aspect of beauty; for beauty is simply reality seen with the eyes of love.',
-        'Evelyn Underhill',
+    '590c5244-6dfd-5067-a00a-3d3b891169b0' => [
+        'The most formidable weapon against errors of every kind is reason.',
+        'Thomas Paine',
     ],
-    'ce113a8f-a24f-5900-a281-2e7a336c62bc' => [
-        'Child slavery is a crime against humanity. Humanity itself is at stake here. A lot of work still remains, but I will see the end of child labor in my lifetime.',
-        'Kailash Satyarthi',
+    'ad0bd2c5-25ac-517f-95ee-45a288863944' => [
+        'Veterans Day is a time to celebrate the men and women who have worn this nation\'s uniform and to honor their service.',
+        'Tammy Duckworth',
     ],
-    '9f10aa1e-81e4-58d2-b998-56bcce93beb9' => [
-        'For me life is continuously being hungry. The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to achieve, to conquer.',
-        'Drew Houston',
+    '490b737d-fa2b-55ab-92e4-68a988a76f31' => [
+        'The greatest humiliation in life, is to work hard on something from which you expect great appreciation, and then fail to get it.',
+        'E. W. Howe',
     ],
-    'b0060aa6-2a7a-5dea-b017-99a59b01bb1a' => [
-        'A person sets out to write a poem for a variety of reasons: to win the heart of his beloved; to express his attitude toward the reality surrounding him, be it a landscape or a state; to capture his state of mind at a given instant; to leave - as he thinks at that moment - a trace on the earth.',
-        'Joseph Brodsky',
+    '5e5e680c-4035-5486-8bde-e6ebcd7b25a5' => [
+        'Remarkable contributions are typically spawned by a passionate commitment to transcendent values such as beauty, truth, wisdom, justice, charity, fidelity, joy, courage and honor.',
+        'Gary Hamel',
     ],
-    '003db182-1ebb-59f6-a9e7-26ce291a9716' => [
-        'Big shots are only little shots who keep shooting.',
-        'Christopher Morley',
+    '019c1014-1bc5-523f-aeb4-e9475964bd86' => [
+        'Always do your best. What you plant now, you will harvest later.',
+        'Og Mandino',
     ],
-    '152fbcfb-7720-5b5a-be63-d41722775e33' => [
-        'We do not realise that we are children of eternity. If we did, then success would be no success, and failure would be no failure to us.',
-        'Joseph Barber Lightfoot',
+    'f092f26c-97f8-50cc-81a3-955498397e73' => [
+        'You can do anything with bayonets except sit on them.',
+        'Thomas Hardy',
     ],
-    '540d9372-a0b8-5821-8034-d91eeb3bf07c' => [
-        'We must insist on assimilation - immigration without assimilation is an invasion. We need to tell folks who want to come here, they need to come here legally. They need to learn English, adopt our values, roll up their sleeves and get to work.',
-        'Bobby Jindal',
+    '3d7c1f87-5ba4-5b86-904e-05ef39800024' => [
+        'Photography does deal with \'truth\' or a kind of superficial reality better than any of the other arts, but it never questions the nature of reality - it simply reproduces reality. And what good is that when the things of real value in life are invisible?',
+        'Duane Michals',
     ],
-    'e8eb3896-c149-5dde-86b6-d63617664550' => [
-        'Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.',
-        'Henry Reed',
+    '759bf0be-4da8-5c08-a837-d951317f4b65' => [
+        'I grew up with an Italian family in an era when a woman\'s path was laid out for her: You got married and had children. Simple, right? Then I got to a point around the age of 30 when I had three little children and was a single mom, and I realized life was not so simple.',
+        'Joy Mangano',
     ],
-    'fef2658f-95fc-517d-bd40-172bc6df23ce' => [
-        'Our strength grows out of our weaknesses.',
-        'Ralph Waldo Emerson',
+    '2cd1d234-1e71-59ec-9ac1-a64b102e139e' => [
+        'I follow the most random people on Twitter. I follow famous people like Khloe Kardashian, who surprisingly makes really funny tweets all the time.',
+        'Chloe Grace Moretz',
     ],
-    '5fb49bd3-5bfc-5281-87a8-ef8d38d665f1' => [
-        'On Thanksgiving I will stop to give thanks that my family is safe and healthy, especially because I realize that, following the tragedies of this year, it is all too real a possibility that they might not have been.',
-        'Bobby Jindal',
+    'c3c78f2b-792f-51a8-a58b-259fc40e9c7b' => [
+        'Boy, those French: they have a different word for everything!',
+        'Steve Martin',
     ],
-    'eb277ef6-19dd-5a6c-97e5-55d9ec4a7ae7' => [
-        'I just try to stay positive and focused on the tennis, not let anything get to me, like crazy questions. But I\'m tough, let me tell you, tough as nails.',
-        'Venus Williams',
+    '500bbbf8-c1be-5eab-ab56-e2e1ab157f48' => [
+        'If you are fearful, a horse will back off. If you are calm and confident, it will come forward. For those who are often flattered or feared, the horse can be a welcome mirror of the best in human nature.',
+        'Clare Balding',
     ],
-    'b70fa9a2-e0c9-5308-8de7-80885f8730c7' => [
-        'Aging has a wonderful beauty and we should have respect for that.',
-        'Eartha Kitt',
+    '4453ed0c-8492-555f-9e8b-3bc48ad9e450' => [
+        'At first, I found the music I was making really hard to find a home for. I felt like my attitude was really British, but not the actual sounds I was making. Back in 2003, when I made \'Galang,\' there were no clubs that had an \'anything and everything\' attitude.',
+        'M.I.A.',
     ],
-    '7dc5d2cf-8ec9-5a31-926d-802b4dbf97e3' => [
-        'I think fitness is important. I think a healthy lifestyle is important. I think putting positive energy out there is important and just staying connected with the people.',
-        'LL Cool J',
+    '039a36e1-2371-533d-9b84-4a3e3e39785c' => [
+        'Lose not yourself in a far off time, seize the moment that is thine.',
+        'Friedrich Schiller',
     ],
-    'b4c9c57c-eb14-5248-8a9e-a48e5bf893bf' => [
-        'When you judge another, you do not define them, you define yourself.',
-        'Wayne Dyer',
+    '219822f5-5c52-5eed-a91a-75c5eda2e709' => [
+        'By the time we see that climate change is really bad, your ability to fix it is extremely limited... The carbon gets up there, but the heating effect is delayed. And then the effect of that heat on the species and ecosystem is delayed. That means that even when you turn virtuous, things are actually going to get worse for quite a while.',
+        'Bill Gates',
     ],
-    '645f5a60-007a-51ab-b272-25ad19aad819' => [
-        'Soon after, I returned home to my family, with a determination to bring them as soon as possible to live in Kentucky, which I esteemed a second paradise, at the risk of my life and fortune.',
-        'Daniel Boone',
+    'c3a19710-6df0-51c2-bb66-60501f863938' => [
+        'Foods high in bad fats, sugar and chemicals are directly linked to many negative emotions, whereas whole, natural foods rich in nutrients - foods such as fruits, vegetables, grains and legumes - contribute to greater energy and positive emotions.',
+        'Marilu Henner',
     ],
 ];

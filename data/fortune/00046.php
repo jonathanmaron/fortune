@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '454f8f94-10fb-5c36-a230-74b422de8835' => [
-        'When most people think of Woodrow Wilson, they see a dour minister\'s son who never cracked a smile, where in fact he was a man of genuine joy and great sadness.',
-        'A. Scott Berg',
+    'f378047c-d723-5cc5-9630-367e62234f70' => [
+        'The clan is nothing more than a larger family, with its patriarchal chief as the natural head, and the union of several clans by intermarriage and voluntary connection constitutes the tribe.',
+        'Charles Eastman',
     ],
-    '9b53458b-05f6-5d36-9fc1-145673e38217' => [
-        'Perhaps the greatest social service that can be rendered by anybody to the country and to mankind is to bring up a family.',
-        'George Bernard Shaw',
-    ],
-    '3843a889-9060-58e7-8c0e-56c401df7ba8' => [
-        'When you are a photographer, you work all the time, because your eye is the first camera.',
-        'Patrick Demarchelier',
-    ],
-    'c2af05ac-e418-5384-90e9-eb66eafca909' => [
-        'Don\'t judge each day by the harvest you reap but by the seeds that you plant.',
-        'Robert Louis Stevenson',
-    ],
-    'c9b4cd29-655e-555f-aedf-e26183fd06e6' => [
-        'But you cannot expect every writer to dwell on human suffering. I think my books do deal with grave issues. People who say they are too positive probably haven\'t read them.',
-        'Alexander McCall Smith',
-    ],
-    'adecba2a-1c35-5a86-a2c3-af2edccc9b99' => [
-        'When you\'re in love it\'s the most glorious two and a half days of your life.',
-        'Richard Lewis',
-    ],
-    'e6edb053-0515-58e2-a239-52aa33fc6948' => [
-        'Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.',
-        'Jack Welch',
-    ],
-    '9502a5a7-3123-57b1-ac1d-7ffca0cee873' => [
-        'The breaking of a wave cannot explain the whole sea.',
-        'Vladimir Nabokov',
-    ],
-    'a8cd9b62-7b0f-506d-9fe3-033e2c69c59f' => [
-        'Someone said adversity builds character, but someone else said adversity reveals character. I\'m pleasantly surprised with my resilience. I persevere, and not just blindly. I take the best, get rid of the rest, and move on, realizing that you can make a choice to take the good.',
-        'Brooke Shields',
-    ],
-    '6eec114a-cf53-5b13-8218-f92374630464' => [
-        'No one wants to read a story where I saw a cute puppy on the street and I petted it. I mean, that\'s not funny. I only write about the funny stuff.',
-        'Tucker Max',
-    ],
-    'c083c36c-f669-516c-ab49-aa985a1de92a' => [
-        'I coach soccer, and my wife and I are very involved in our kids\' lives. Our family is busy with doctor appointments, soccer practice, school, work, travel, vacation... life.',
-        'Patrick Lencioni',
-    ],
-    '147378e5-d269-5ba9-aa35-a64eceb64e70' => [
-        'How long can men thrive between walls of brick, walking on asphalt pavements, breathing the fumes of coal and oil, growing, working, dying, with hardly a thought of wind, and sky, and fields of grain, seeing only machine-made beauty, the mineral-like quality of life?',
-        'Charles Lindbergh',
-    ],
-    'b0c84491-8abf-5d70-a2b0-f8c19bfd2ee6' => [
-        'So at a time in which the media give the public everything it wants and desires, maybe art should adopt a much more aggressive attitude towards the public. I myself am very much inclined to take this position.',
-        'Thom Mayne',
-    ],
-    'b06f7c45-59ea-5e09-8bc6-53c5aeffc253' => [
-        'I think there\'s a danger in how we can get addicted to the things that reaffirm to us who we are. For example, Facebook; people who make these Facebook posts about what\'s happening to them, just so people will chime in and give them positive reinforcement.',
-        'Carrie Coon',
-    ],
-    '915a744c-eca2-539d-87ba-cbc8d34d227a' => [
-        'All men\'s gains are the fruit of venturing.',
-        'Herodotus',
-    ],
-    '93f214cd-80f8-57f8-8842-98238a9dd3a6' => [
-        'Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.',
-        'Anais Nin',
-    ],
-    '5d09999f-21e6-5406-8f1f-3169ee39dc47' => [
-        'The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty.',
-        'Zig Ziglar',
-    ],
-    'e6095d28-e2b9-571d-9237-7144ee66ddeb' => [
-        'The first time I sang in the church choir; two hundred people changed their religion.',
-        'Fred Allen',
-    ],
-    '4c48fbe6-bd06-5038-afe7-3a233c4b9c61' => [
-        'I have just got a new theory of eternity.',
+    '10f72ff3-1801-5ffb-b374-8f082e1a7abf' => [
+        'The only real valuable thing is intuition.',
         'Albert Einstein',
     ],
-    'a8e6ab6b-ee4e-5c0c-b163-4dc3fab0ace9' => [
-        'Never apologize for showing feelings. When you do so, you apologize for the truth.',
-        'Benjamin Disraeli',
+    'c57fe3fa-a9e1-5c02-aedb-d900dda9ff9d' => [
+        'My dad\'s my best mate, and he always will be.',
+        'Cher Lloyd',
     ],
-    'ef38f95e-d142-5bb2-9962-5f5980055ad9' => [
-        'It\'s the steady, quiet, plodding ones who win in the lifelong race.',
-        'Robert W. Service',
+    '10290178-02ae-5334-8a82-49f22b2f0ab0' => [
+        'Your present circumstances don\'t determine where you can go; they merely determine where you start.',
+        'Nido Qubein',
     ],
-    '7add9521-c337-545f-bf57-27e7fcbf83e3' => [
-        'In the car on my way to premieres and awards shows, I\'ll sit with tissue paper under my armpits so I don\'t soil the delicate dress fabric. The whole time, I\'m telling myself, \'Please don\'t sweat, please don\'t sweat.\' I throw the tissues out right before I step out of the car, and nobody ever knows! I just put on a smile and fake it.',
-        'Jessica Biel',
+    '6a9d5788-26c1-5a79-ac09-41a11afe7a9f' => [
+        'When I\'m on stage, it\'s really intense. My mind is going a million miles an hour, trying to remember my act, trying to say it all the right way. It\'s funny how different it looks and how it\'s happening. There are three Fellini circuses in my head, and outwardly it looks like I\'m going to get a bagel.',
+        'Steven Wright',
     ],
-    '2c1a7f21-d9fa-5d6c-b273-1bbd1c6c899e' => [
-        'As no one knew much about my mental illness, a lot of people had the attitude that I had the capability to \'kick it\' and get better instantly. This was the most frustrating attitude for me.',
-        'Andy Behrman',
+    '9c5003d6-220a-5aff-8fcc-60841ceb6cc9' => [
+        'Dealing with global warming doesn\'t mean we have all got to suddenly stop breathing. Dealing with global warming means that we have to stop waste, and if you travel for no reason whatsoever, that is a waste.',
+        'David Attenborough',
     ],
-    '6729cbaf-6df8-57a7-a2f9-8a3d249975c5' => [
-        'Success is not the absence of failure; it\'s the persistence through failure.',
-        'Aisha Tyler',
+    '3fa00c21-d626-5065-8a6f-584616675293' => [
+        'My family comes first. Maybe that\'s what makes me different from other guys.',
+        'Bobby Darin',
     ],
-    '2e1e6dd8-f169-5fa9-af28-b018ff3d8dad' => [
-        'Real success is finding you lifework in the work that you love.',
-        'David McCullough',
+    'e237871c-8523-5cf7-b46f-5f154c79ff73' => [
+        'I think the success that I have is due to hard work and destiny. It is important to stay grounded and not take things for granted.',
+        'Alia Bhatt',
     ],
-    '33ac66cf-703c-59a3-8f63-2667e9c811e3' => [
-        'To do a common thing uncommonly well brings success.',
-        'Henry J. Heinz',
+    'd2fdb150-7997-5b6c-91d0-aaf73266e612' => [
+        'Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.',
+        'Mother Teresa',
     ],
-    'e8db429b-e928-50c0-aecb-447f04e49b95' => [
-        'There\'s a lot more to me than just funny.',
-        'Steve Harvey',
+    '3d8ddfc3-fb4f-532e-82d0-f4c1b74bea0f' => [
+        'I think the importance of doing activist work is precisely because it allows you to give back and to consider yourself not as a single individual who may have achieved whatever but to be a part of an ongoing historical movement.',
+        'Angela Davis',
     ],
-    '3cd10ea3-28a7-5ae0-9018-018599b3b89f' => [
-        'I\'m convinced that there\'s a new way to define capitalism, and that the definition should include three ingredients - that we love our work, that we are building a traditionally successful business, and that we are having some positive impact in the world, whether it\'s local or global.',
-        'Biz Stone',
+    '4d94d99e-206e-5af7-89e4-ebd11b1af31e' => [
+        'We know from research that growth is actually contagious, so if you want to reach your goals, you\'ve got to get around people that are going in the same direction you want to be going, and you will catch the success.',
+        'Henry Cloud',
     ],
-    '31e89ebf-f199-5431-9dce-a22787135a98' => [
-        'Every time you tear a leaf off a calendar, you present a new place for new ideas and progress.',
-        'Charles Kettering',
+    '47b282fa-bfe3-5d73-8af4-6b54fc6b8a6b' => [
+        'To help yourself, you must be yourself. Be the best that you can be. When you make a mistake, learn from it, pick yourself up and move on.',
+        'Dave Pelzer',
     ],
-    '0e481ffd-fd8f-5bab-8f03-3a46469caaf0' => [
-        'To be successful in coaching you have to treat your team like a family. The leader needs backing from everyone.',
-        'Morgan Wootten',
+    'd9eacf29-62cf-5430-a805-aa398156da2b' => [
+        'As a goalie, you must stay positive. And if you do make a mistake, well, those things happen when you play my position.',
+        'Henrik Lundqvist',
     ],
-    '30bdacee-480b-5e14-b8c7-0d01a1026b94' => [
-        'I think it\'s real easy to be famous these days; it\'s not real easy to sustain success.',
-        'Jerry Jeff Walker',
+    'e1e70e0e-2b60-5788-8439-32ddd145bf3f' => [
+        'Life is not a matter of place, things or comfort; rather, it concerns the basic human rights of family, country, justice and human dignity.',
+        'Imelda Marcos',
     ],
-    '266a6282-2ccb-54eb-bf66-b3fcc26635b2' => [
-        'Cosmetics makers have always sold \'hope in a jar\' - creams and potions that promise youth, beauty, sex appeal, and even love for the women who use them.',
-        'Virginia Postrel',
+    '54611914-10d8-5c86-ad0b-83f26f1c3ff2' => [
+        'Just live life. That\'s the best way to learn how to act. Just live.',
+        'Rory Culkin',
     ],
-    'b5b706ef-726f-53a5-a35e-446214765185' => [
-        'What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.',
-        'Sai Baba',
+    'e963b0e4-f5b4-5996-b7fd-c729848a6687' => [
+        'Act as if what you do makes a difference. It does.',
+        'William James',
     ],
-    '18879472-2ac8-55d2-b557-c9c33508b214' => [
-        'The tree that is beside the running water is fresher and gives more fruit.',
-        'Saint Teresa of Avila',
+    '2f5f0ec8-fa84-5e2d-9083-9fdd9d73cb92' => [
+        'The success of any stand-up act comes out of life experience.',
+        'Howie Mandel',
     ],
-    '0e1b5148-82f9-51e9-b1c4-84f9f5fc4fb5' => [
-        'Life affords no higher pleasure than that of surmounting difficulties, passing from one step of success to another, forming new wishes and seeing them gratified.',
+    '42b40f9d-4d2f-5fc8-b89d-2cc9afb562f4' => [
+        'The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.',
+        'Vince Lombardi',
+    ],
+    'd2620aa2-b800-5e57-8a9a-328ed7493149' => [
+        'When I see people laughing at ideas and companies we have backed, I smile. It means we are going to make a lot of money on that investment.',
+        'Fred Wilson',
+    ],
+    '1798b10d-abf9-5304-b340-40a4dd16de85' => [
+        'If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.',
+        'Anne Lindbergh',
+    ],
+    '2ecc8388-5446-5f4d-8cd2-299b2debdd59' => [
+        'Most success springs from an obstacle or failure. I became a cartoonist largely because I failed in my goal of becoming a successful executive.',
+        'Scott Adams',
+    ],
+    '1777dfc2-da7e-548a-8135-4a734beb0e35' => [
+        'My dear friend, clear your mind of cant.',
         'Samuel Johnson',
     ],
-    '5ded82e7-514c-5125-8bdf-1ae5acdbfb88' => [
-        'Whatever you do in life, surround yourself with smart people who\'ll argue with you.',
-        'William Wordsworth',
+    'b287e32c-a598-573e-998c-80901321a8eb' => [
+        'When you live on the road, going home is a place to escape and just be with your family to unwind.',
+        'Jonathan Davis',
     ],
-    'de4d4cfa-f977-52ae-b767-c1ba83d601e8' => [
-        'My life is my message.',
-        'Justin Timberlake',
+    '812e9236-1c30-5a26-9297-fac20b6820fb' => [
+        'The first voyagers to the stars will be creatures whose life cycle is matched to the voyage: the aeons involved in traversing the galaxy are not daunting to immortal beings. By the end of the third millennium, travel to other stars could be technically feasible. But would there be sufficient motive?',
+        'Martin Rees',
     ],
-    '79f63a46-77ee-50cd-99f9-dbf5dbcc1f80' => [
-        'I like guys with a sense of humor who smile a lot and are kind.',
-        'Nikki Glaser',
+    '3468d521-73fe-5adb-86a9-7fc847c02e3f' => [
+        'Too many people measure how successful they are by how much money they make or the people that they associate with. In my opinion, true success should be measured by how happy you are.',
+        'Richard Branson',
     ],
-    '7d9bc345-5d11-53f8-8036-181469f2be93' => [
-        'Well, there\'s nothing more touching than putting a smile on a kid\'s face when you can.',
-        'Emma Roberts',
+    'f5bc9101-fc2a-530a-bc2f-089625c6e0ff' => [
+        'The superior man is modest in his speech, but exceeds in his actions.',
+        'Confucius',
     ],
-    '1188749c-7cd0-544e-b93b-29935abd09e2' => [
-        'This is our job as leaders: to offer positive solutions and empower people. Our duty is to tackle our problems before they tackle us.',
-        'Paul Ryan',
+    'cc659ca7-d8d9-5973-864b-bd10821a5ef2' => [
+        'I can pull off anything; I have the height and the attitude. The only thing I can\'t wear is a leotard, but I can wear anything else.',
+        'Theophilus London',
     ],
-    'd0e9739c-b5e4-5b35-9ec8-74c8798e8299' => [
-        'The greatest legacy one can pass on to one\'s children and grandchildren is not money or other material things accumulated in one\'s life, but rather a legacy of character and faith.',
-        'Ted Turner',
+    '551a15d1-1389-573c-b2dc-8f8dfc1a2473' => [
+        'All, all is theft, all is unceasing and rigorous competition in nature; the desire to make off with the substance of others is the foremost - the most legitimate - passion nature has bred into us and, without doubt, the most agreeable one.',
+        'Marquis de Sade',
     ],
-    '263c0cfd-5fba-58d8-ab98-97c9415687c8' => [
-        'Just remember, you can\'t climb the ladder of success with your hands in your pockets.',
-        'Arnold Schwarzenegger',
+    '46c3c579-f8d6-5c29-8526-029b513581da' => [
+        'The number of stressors has multiplied exponentially: traffic, money, success, work/life balance, the economy, the environment, parenting, family conflict, relationships, disease. As the nature of human life has become far more complicated, our ancient stress response hasn\'t been able to keep up.',
+        'Andrew J. Bernstein',
     ],
-    '43b1ccac-451d-5832-a2b7-11e8825d9f76' => [
-        'If you take the contempt some Americans have for yuppies and multiply it by 10 you might come close to understanding their attitude towards the City, as they call it - London, the people of the south.',
-        'Martin Cruz Smith',
+    'fefe192d-bc5a-5f57-8a10-1c31dfafb843' => [
+        'If you can kill animals, the same attitude can kill human beings. The mentality is the same which exploits nature and which creates wars.',
+        'Satish Kumar',
     ],
-    '077300f5-45a1-5a72-8a80-87012b67d5ec' => [
-        'My dream is of a place and a time where America will once again be seen as the last best hope of earth.',
-        'Abraham Lincoln',
+    '16165334-e915-5113-937c-386686f5fb0a' => [
+        'Whenever you find yourself on the side of the majority, it is time to pause and reflect.',
+        'Mark Twain',
     ],
-    '11db5b51-5595-5e97-b48d-2531ca33ec15' => [
-        'Plan your work for today and every day, then work your plan.',
-        'Margaret Thatcher',
+    '5ddcf91c-1ee1-51b2-8a4b-e250ce592b1f' => [
+        'At the end of the day, you are solely responsible for your success and your failure. And the sooner you realize that, you accept that, and integrate that into your work ethic, you will start being successful. As long as you blame others for the reason you aren\'t where you want to be, you will always be a failure.',
+        'Erin Cummings',
     ],
-    '76cf8376-d9ca-53e2-be18-f6c23337cbfd' => [
-        'You see much more of your children once they leave home.',
-        'Lucille Ball',
+    '413b7407-8176-5fc2-8949-26134e9a5b5e' => [
+        'When I\'m with my friends I\'m funny, but I don\'t feel like I\'m a funny clown.',
+        'Nora Dunn',
     ],
-    '4c9a3b59-f89a-50ee-bf7b-67767bf15534' => [
-        'To dream of the person you would like to be is to waste the person you are.',
-        'Tim Menchen',
+    'a41d4ba3-1482-5fc1-9e4a-8da8598b6061' => [
+        'A lot of us grow up and we grow out of the literal interpretation that we get when we\'re children, but we bear the scars all our life. Whether they\'re scars of beauty or scars of ugliness, it\'s pretty much in the eye of the beholder.',
+        'Stephen King',
     ],
-    '5e33825e-0fde-5816-9410-876178e2f60a' => [
-        'I think there\'s an awful lot of noise about the Church being persecuted but there is a more real issue that the conventional churches face - that the people who are really driving their revival and success believe in an old-time religion which, in my view, is incompatible with a modern, multi-ethnic, multicultural society.',
-        'Trevor Phillips',
+    '5bbb96c7-5a66-5276-8b0f-07d36de1ada6' => [
+        'What I look for in a role is the physical. But what\'s the journey emotionally? Can I take this person who is this archetypal tough guy and find the beauty?',
+        'Frank Grillo',
     ],
-    '65a9c741-d964-5c09-96d9-4f780c97426f' => [
-        'A good traveller is one who does not know where he is going to, and a perfect traveller does not know where he came from.',
-        'Lin Yutang',
+    'ddb0d04f-c640-5977-ac3b-de4125f7678b' => [
+        'God lets you be successful because he trusts you that you will do the right thing with it. Now, does he get disappointed often? All the time, because people get there and they forget how they got it.',
+        'Steve Harvey',
     ],
-    'b3948f5b-789a-54bf-aafb-3df19f7c722e' => [
-        'I paint self-portraits because I am so often alone, because I am the person I know best.',
-        'Frida Kahlo',
+    '6f54ced5-a309-507d-be15-04827944002d' => [
+        'There is a vast world of work out there in this country, where at least 111 million people are employed in this country alone - many of whom are bored out of their minds. All day long.',
+        'Richard Nelson Bolles',
+    ],
+    '597c6ee8-1ee3-537a-9fd8-ec8ffccd8afc' => [
+        'Believe that you can do it cause you can do it.',
+        'Bob Ross',
+    ],
+    'bd536c68-0238-525a-b620-e8920ff5f671' => [
+        'It never ceases to amaze me that every second of every day, more than 6,000 billion neutrinos coming from nuclear reactions inside the sun whiz through my body, almost all of which will travel right through the earth without interruption.',
+        'Lawrence M. Krauss',
+    ],
+    '7fe7deb2-825b-5e51-8d09-a8125d3229d9' => [
+        'What works for men does not always work for women, because success and likability are positively correlated for men and negatively correlated for women. That\'s what the research shows. As a man gets more successful, everyone is rooting for him. As a woman gets more successful, both men and women like her less.',
+        'Sheryl Sandberg',
+    ],
+    '2aef7be7-ccef-5e16-8e50-02ab5c09a847' => [
+        'Life is a series of experiences, each one of which makes us bigger, even though sometimes it is hard to realize this. For the world was built to develop character, and we must learn that the setbacks and grieves which we endure help us in our marching onward.',
+        'Robert Frost',
+    ],
+    '50ed4f2d-48c3-5a32-b6c3-3a862198077e' => [
+        'Never tell me the sky\'s the limit when there are footprints on the moon.',
+        'Unknown',
+    ],
+    '92169394-b91a-5084-8cc8-907b67c9c1f4' => [
+        'The noblest worship is to make yourself as good and as just as you can.',
+        'Isocrates',
+    ],
+    '791495c9-a42c-5e26-880a-250e941b85e8' => [
+        'I have my team. Like if you see everyone around me - I have my hair and makeup girl, my assistant. They\'re very calm, they\'re all about positive energy. There\'re no drama queens. Everyone wants everyone else to have a positive experience. There are no agendas. I think it creates a healthy environment and there are no boundaries to cross.',
+        'Fergie',
+    ],
+    '5704e1e4-ef4d-56f6-b2bd-e10702ec9ace' => [
+        'Success is not a destination, but the road that you\'re on. Being successful means that you\'re working hard and walking your walk every day. You can only live your dream by working hard towards it. That\'s living your dream.',
+        'Marlon Wayans',
+    ],
+    '8479edac-eaa2-50fa-ae68-dba3e260835b' => [
+        'Real men laugh at opposition; real men smile when enemies appear.',
+        'Marcus Garvey',
+    ],
+    '3cc0ce97-476a-5147-b3b3-eac1e286af22' => [
+        'You will also allow me to thank the Academy for inviting me to lecture in Stockholm, for its hospitality, and for the opportunity afforded me for admiring the charm of your people and the beauty of your country.',
+        'Guglielmo Marconi',
+    ],
+    'e707fd79-f63e-526e-ad07-28a7447811f5' => [
+        'Every day, people settle for less than they deserve. They are only partially living or at best living a partial life. Every human being has the potential for greatness.',
+        'Bo Bennett',
+    ],
+    '2b83581f-f40b-5289-81d2-a74de257328c' => [
+        'One must be fond of people and trust them if one is not to make a mess of life.',
+        'E. M. Forster',
+    ],
+    'bf84fc32-4a05-59aa-9485-645e9fabbce5' => [
+        'With any of the movies I\'ve had a chance to do, or any of the TV shows I\'ve had a chance to contribute to, people approach me and say, \'Hey, would you like to do this?\' I laugh out loud and say, \'Yes, that\'d be funny.\' Or, I\'m very moved by what I read and say, \'Yes. How can I help you?\'',
+        'John Cena',
     ],
 ];

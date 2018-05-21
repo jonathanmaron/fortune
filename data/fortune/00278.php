@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '208086a4-70e1-5bb1-beab-8e6a7e32d53b' => [
-        'The most successful people are those who are good at plan B.',
-        'James Yorke',
+    'cc073a07-8cea-5b1e-ba1c-29641e3a3a3d' => [
+        'No better way is there to learn to love Nature than to understand Art. It dignifies every flower of the field. And, the boy who sees the thing of beauty which a bird on the wing becomes when transferred to wood or canvas will probably not throw the customary stone.',
+        'Oscar Wilde',
     ],
-    '8d82e6dc-12de-5a64-8519-3029629eeb9a' => [
-        'I love all the holidays and getting to see my family a lot during the fall. I also love the weather and getting to wear sweaters and jackets.',
-        'Melissa Ordway',
+    '4dd16afe-2071-5b3c-b674-15e8597bf304' => [
+        'Good, better, best. Never let it rest. \'Til your good is better and your better is best.',
+        'St. Jerome',
     ],
-    '6d4e0f5b-4985-5caf-b13b-eb7fa371715f' => [
-        'I started doing motivational tours. I\'ve seen all kinds of people, from the CEOs to the lowest executive, opening up to their fears. We don\'t introspect as much as we should.',
-        'Anupam Kher',
+    '0364c812-762c-5bac-b784-37015b454ef4' => [
+        'In school, you\'re taught a lesson and then given a test. In life, you\'re given a test that teaches you a lesson.',
+        'Young Jeezy',
     ],
-    '3ce94924-261d-5468-9a50-aa8b10704119' => [
-        'Growing up, I was a huge fan of horror movies. There\'s nothing more fun than going into a movie with a smile because you know you\'re going to be scared to death. There\'s something thrilling about sitting there waiting for a scare to happen.',
-        'Ashley Bell',
+    '9bcc995f-f247-54dc-9cf6-431607695978' => [
+        'A pessimist is a person who has had to listen to too many optimists.',
+        'Don Marquis',
     ],
-    '00578bd7-82a8-5565-9227-31ee8e304ae9' => [
-        'There is always some kid who may be seeing me for the first time. I owe him my best.',
-        'Joe DiMaggio',
+    '47a79ee9-8c9a-5c0b-9622-528d91f3c296' => [
+        'I look my best when I take my helmet off after a long motorcycle ride. I have a glow and a bit of helmet hair.',
+        'Eric Bana',
     ],
-    'ee53dd2e-a262-53af-819e-d13cca267f46' => [
-        'Funny is a good foil. Humor is illuminating, and it also gives you power.',
-        'J. Tillman',
+    '6c6bf6d7-ce5f-5ec8-a8f8-674b68d6015e' => [
+        'The more you care, the stronger you can be.',
+        'Jim Rohn',
     ],
-    '204bba8c-ff72-56bd-9a2d-802aee495949' => [
-        'I think it is a combination of looks, aura, success, the energies that one gives out, the person you are and the person you feel like that makes you \'desirable.\' When the outside world sees you as a man who is responsible for himself and his family, as a man who is fit and sensitive, it kind of ups your desirability.',
-        'Arjun Rampal',
+    'a97601ce-0edf-50f9-9f26-6c8429ff5a0c' => [
+        'I have the same attitude with work - I like to go to work, I like to work really hard I, like to give everything my all, I like to try things that are new, you know.',
+        'Rosie Huntington-Whiteley',
     ],
-    'b40b092e-219a-5f91-be78-583629289704' => [
-        'I suppose whenever you go through periods of transition, or in a way, it\'s a very definite closing of a certain chapter of your life - I suppose those times are always going to be both very upsetting and also very exciting by the very nature because things are changing and you don\'t know what\'s going to happen.',
-        'Daniel Radcliffe',
+    'af3af50e-60e5-52e8-8e3c-f26964929f99' => [
+        'Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.',
+        'Byron Pulsifer',
     ],
-    '2d29e7b2-17c3-5449-9621-f955d4d61658' => [
-        'Gotta stay in the gym, stay funny, stay sharp. I just love working.',
+    '06299cf0-06f2-5b55-8ebc-805937cff6e2' => [
+        'The family is the test of freedom; because the family is the only thing that the free man makes for himself and by himself.',
+        'Gilbert K. Chesterton',
+    ],
+    '33df5461-d924-5ba1-82d6-4c1b6b345c47' => [
+        'You know, when you really connect with the instrument and everything just comes out on an emotional level very naturally through your playing. That\'s, you know, a great night. And I think the reason I love touring so much is you\'re chasing that high around all the time, trying to have another good night.',
+        'Slash',
+    ],
+    '3f505b8a-6ac8-55a7-932f-0c2f01d12962' => [
+        'Every good citizen makes his country\'s honor his own, and cherishes it not only as precious but as sacred. He is willing to risk his life in its defense and is conscious that he gains protection while he gives it.',
+        'Linda Thompson',
+    ],
+    '19bf5bb8-f8aa-5641-8b50-3eef7028631b' => [
+        'Growing up, I had a very normal relationship with my brother and sister. But, over time, they became my best friends, and now I hang out with them all the time. I\'m very close with them.',
+        'Logan Lerman',
+    ],
+    '1d4241d8-276f-5a02-99ab-77a2a3aa507f' => [
+        'You\'ll live. Only the best get killed.',
+        'Charles de Gaulle',
+    ],
+    '50af0eb4-c388-553e-85c5-c24b73688459' => [
+        'Heat cannot be separated from fire, or beauty from The Eternal.',
+        'Dante Alighieri',
+    ],
+    '099dda69-3cf6-5504-8feb-47ebe63fb2f1' => [
+        "Do it or don't do it \u{2014} you will regret both.",
+        "S\u{f8}ren Kierkegaard",
+    ],
+    'b70dfa55-aa76-5664-8dda-6852fb87f00e' => [
+        'My life comes down to three moments: the death of my father, meeting my husband, and the birth of my daughter. Everything I did previous to that just doesn\'t seem to add up to very much.',
+        'Gwyneth Paltrow',
+    ],
+    'f146cbf7-2afd-51cc-9302-c48753a45cb3' => [
+        'The idea of modernity is beginning to lose its vitality. It is losing it because modernity is no longer a critical attitude but an accepted, codified convention.',
+        'Octavio Paz',
+    ],
+    '3f178d16-448d-5873-9401-1757940ff5dd' => [
+        'Many people have gone further than they thought they could because someone else thought they could.',
+        'Unknown',
+    ],
+    'f333c973-7994-5a25-81e1-5476ba29912a' => [
+        'Hardly a competent workman can be found who does not devote a considerable amount of time to studying just how slowly he can work and still convince his employer that he is going at a good pace.',
+        'Frederick W. Taylor',
+    ],
+    '6955fa09-cad5-501c-840d-f92d68d419e7' => [
+        'If you could cross a lion and a monkey, that\'s what I\'d be, because monkeys are funny and lions are strong.',
         'Marlon Wayans',
     ],
-    '96a06214-f215-533a-8922-8481adb5f707' => [
-        'America, you\'re sending girls a mixed message. On one hand, you\'re saying to have positive body image and love who we are; on the other, we\'re being marketed makeup and clothing that obviously turns us into someone different.',
-        'Adora Svitak',
+    '7b3a99e5-116c-509c-8dbc-ac2613e6c085' => [
+        'It is an immutable law in business that words are words, explanations are explanations, promises are promises-but only performance is reality.',
+        'Harold S. Geneen',
     ],
-    'ba0ad2cd-ae5b-5e75-b4ee-be97ff10741a' => [
-        'Nothing is too wonderful to be true, if it be consistent with the laws of nature.',
-        'Michael Faraday',
+    'fed37c49-3788-5135-a32a-64355ab03b22' => [
+        'No level of border security, no wall, doubling the size of the border patrol, all these things will not stop the illegal migration from countries as long as a 7-year-old is desperate enough to flee on her own and travel the entire length of Mexico because of the poverty and the violence in her country.',
+        'Jeh Johnson',
     ],
-    '0589dc56-b06c-5160-a064-84cc2a924801' => [
-        'One of the best things about paintings is their silence - which prompts reflection and random reverie.',
-        'Mark Stevens',
+    '50981fd5-a759-553f-bb9c-14763efc84b9' => [
+        'March on. Do not tarry. To go forward is to move toward perfection. March on, and fear not the thorns, or the sharp stones on life\'s path.',
+        'Khalil Gibran',
     ],
-    'a55c55c7-9580-54fb-888e-fdb64b827457' => [
-        'I looked up my family tree and found out I was the sap.',
-        'Rodney Dangerfield',
+    'd032b622-344a-5af6-8966-6656a927ff24' => [
+        'You have to have a little humility if you\'re Danish because you\'re never going to be able to travel outside the country unless you can speak another language.',
+        'Sidse Babett Knudsen',
     ],
-    'ed468015-66c5-5cd4-9491-3d4ad641212c' => [
-        'Literature is dangerous: it awakens a rebellious attitude in us.',
-        'Mario Vargas Llosa',
+    '660b57d2-3ec3-5aee-8fff-697a9727ff62' => [
+        'What I like to do is try to make a difference with the work I do.',
+        'David Bowie',
     ],
-    '5f4b11b5-aacd-5c11-8b64-8eee65217162' => [
-        'Sunlight is painting.',
-        'Nathaniel Hawthorne',
+    '33dee87c-3970-5974-8154-f8a91a46c0aa' => [
+        'The absence of flaw in beauty is itself a flaw.',
+        'Havelock Ellis',
     ],
-    '6b01401b-7fc2-5ef8-8802-91635bc075ad' => [
-        'It\'s always too early to quit.',
-        'Norman Vincent Peale',
+    '0bcd50a3-63a8-5183-b12b-710053f6b692' => [
+        'If I studied all my life, I couldn\'t think up half the number of funny things passed in one session of congress.',
+        'Will Rogers',
     ],
-    'c8d5932a-18b4-5a63-99b0-ac1540b4d174' => [
-        "A hard fall means a high bounce\u{2026}if you're made of the right material.",
-        'Unknown',
+    '85ea9f49-429d-51b9-90d5-89cf23a97c97' => [
+        'I don\'t want to take the escalators. Give me the stairs that have the dips and the two old ladies that are blocking it and they\'ve got an attitude, and they don\'t want you to go past them.',
+        'RJ Cyler',
     ],
-    'd20a7ca4-0b8f-57fb-8d37-c77471dfe159' => [
-        'You are important enough to ask and you are blessed enough to receive back.',
-        'Wayne Dyer',
+    '87fa9e76-9549-5f11-9415-1c0fc3a04960' => [
+        'Travel, of course, narrows the mind.',
+        'Malcolm Muggeridge',
     ],
-    'f8d5ef87-8776-5f1a-80e8-7f7b582341d9' => [
-        'Don\'t smother each other. No one can grow in the shade.',
-        'Leo F. Buscaglia',
-    ],
-    '923a8830-7145-5a31-98da-389ac3a567c1' => [
-        'Never let lack of money interfere with having fun.',
-        'Unknown',
-    ],
-    'a22e7ab1-9d80-5ffe-829f-e33be6a2b9c3' => [
-        'I love the way Tyra Banks dresses up - she looks so elegant and glamorous in whatever she wears. The confidence and attitude she exudes on and off the ramp is remarkable.',
-        'Yami Gautam',
-    ],
-    '545a513a-bf8c-5b89-8460-c96bf93bc763' => [
-        'Time travel used to be thought of as just science fiction, but Einstein\'s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.',
-        'Stephen Hawking',
-    ],
-    '844c2f08-3469-5dd2-b061-c6c47f216831' => [
-        'Being famous is having the power to really implement positive change in the world, and it gives you the power to do what you want. I\'m really grateful for it because I can play music and people will listen.',
-        'Sean Lennon',
-    ],
-    '06d91d02-80d8-509f-82bc-8af222e5b1f9' => [
-        'We must walk consciously only part way toward our goal, and then leap in the dark to our success.',
-        'Henry David Thoreau',
-    ],
-    '03f1a650-8555-5dbd-a06c-7bfad204e119' => [
-        'Colors are the smiles of nature.',
-        'Leigh Hunt',
-    ],
-    'd3f7aaa5-e633-5812-bf7a-a79d1404d492' => [
-        'Purpose and laughter are the twins that must not separate. Each is empty without the other.',
-        'Robert Greenleaf',
-    ],
-    '9b7f1b30-4881-5ad9-9caf-90dab3ecde55' => [
-        'Despise not death, but welcome it, for nature wills it like all else.',
+    '7170c9df-cecc-5a59-bfb9-cea9b607591c' => [
+        'The impediment to action advances action. What stands in the way becomes the way.',
         'Marcus Aurelius',
     ],
-    'def1b2c1-6745-5c91-b4fc-42d8660e6de9' => [
-        'The trouble with Hollywood is that too many of the top people responsible for pictures are too comfortable and don\'t give a damn about what goes up on the screen so long as it gets by at the box office. How can you expect people with that kind of attitude to make the kind of great pictures that the world will want to see?',
-        'William Wyler',
+    '5decfd23-f9ed-5cd4-9660-d4aec52aac45' => [
+        'I have no time for those who say there is no way Scotland could go it alone. I know first-hand the contribution Scotland and Scots make to Britain\'s success - so for me there\'s no question about whether Scotland could be an independent nation.',
+        'David Cameron',
     ],
-    '68cb5be2-76a3-583e-8927-0cda719c84b5' => [
-        'When someone asks, \'Does success make you into a monster?\' I always say, \'No, it enables you to be a monster.\'',
-        'Simon Cowell',
+    '716c372f-9914-5ab8-8423-6f04314d86bf' => [
+        'Growing up, I just wanted to be like everyone else. I didn\'t value or understand the beauty in being different at the time in my life.',
+        'Marisol Nichols',
     ],
-    'ab7588ab-e552-5c1b-9b7e-ff614fcef70a' => [
-        'To make a prairie it takes a clover and one bee, One clover, and a bee, And revery. The revery alone will do, If bees are few.',
-        'Emily Dickinson',
+    'dc80c55b-b3ea-5e0a-a4d0-5e4af9f06517' => [
+        'There is no definition of beauty, but when you can see someone\'s spirit coming through, something unexplainable, that\'s beautiful to me.',
+        'Liv Tyler',
     ],
-    '2a539e90-ffb8-50a4-9c1e-bbe16b08dacf' => [
-        '\'Tropic Thunder\' is one of my favorite movies of all time. \'Blazing Saddles.\' Anything that will get me to smile.',
-        'John Cena',
+    'fdb3ff9b-dc7f-5f61-9738-0ef830fcb179' => [
+        'The doors we open and close each day decide the lives we live.',
+        'Flora Whittemore',
     ],
-    'c459035b-71b5-511e-9ebd-a5053345ffc0' => [
-        'Beyonce is one of my inspirations. Her attitude, her style, her voice... she\'s perfect.',
-        'Charice Pempengco',
+    '2f90c5d5-5b73-5863-8c92-f90ffc807a25' => [
+        'Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.',
+        'Jim Rohn',
     ],
-    '0dfdaaff-884a-5e34-9778-b43dcb64816c' => [
-        'There\'s something very authentic about humor, when you think about it. Anybody can pretend to be serious. But you can\'t pretend to be funny.',
-        'Billy Collins',
+    '2fd535e6-4c67-5d05-bccc-ce6c4963c342' => [
+        'I\'ve learned that mistakes can often be as good a teacher as success.',
+        'Jack Welch',
     ],
-    '3b609fb1-c54a-5fd7-8511-8e92456f5917' => [
-        'The past cannot be changed. The future is yet in your power.',
-        'Unknown',
+    'b54185c0-a7f3-5aa5-b57e-0f5c9e899b11' => [
+        'Time management is the mantra of my life.',
+        'Vir Das',
     ],
-    '17c1fa32-edec-5e05-ba05-e2d1ec2c85ac' => [
-        'If I had to live my life again, I\'d make the same mistakes, only sooner.',
-        'Tallulah Bankhead',
+    'a6e2037e-f2d4-590b-bb6f-5941afe230ce' => [
+        'If you get up one more time than you fall, you will make it through',
+        'Chinese Proverb',
     ],
-    '590eef3c-0304-538c-81d4-086b8321ddb7' => [
-        'The avant-garde theater is fun; it is free-swinging, bold, iconoclastic, and often wildly, wildly funny. If you will approach it with childlike innocence - putting your standard responses aside, for they do not apply - if you will approach it on its own terms, I think you will be in for a liberating surprise.',
-        'Edward Albee',
+    'e45fb376-2499-5ae6-bd24-fe18a5572f3b' => [
+        'I love glamour and artificial beauty. I love the idea of artifice and dressing up and makeup and hair.',
+        'Dita Von Teese',
     ],
-    '38c7403b-6f39-50d9-b166-ef28f4c3aa6c' => [
-        'As the family goes, so goes the nation and so goes the whole world in which we live.',
-        'Pope John Paul II',
+    'b71c33c3-fe55-527f-8951-811724b9518e' => [
+        'When you take a flower in your hand and really look at it, it\'s your world for the moment. I want to give that world to someone else. Most people in the city rush around so, they have no time to look at a flower. I want them to see it whether they want to or not.',
+        'Georgia O\'Keeffe',
     ],
-    '7db26f33-beb0-5ba9-ae52-ad25c3b66021' => [
-        'It\'s sort of a feeling of power onstage. It\'s really the ability to make people smile, or just to turn them one way or another for that duration of time, and for it to have some effect later on. I don\'t really think it\'s power... it\'s the goodness.',
-        'Robert Plant',
+    '2cd502d5-3d38-5af8-9c3a-956013a7cdcf' => [
+        'Love is a really scary thing, and you never know what\'s going to happen. It\'s one of the most beautiful things in life, but it\'s one of the most terrifying. It\'s worth the fear because you have more knowledge, experience, you learn from people, and you have memories.',
+        'Divyanka Tripathi',
     ],
-    '2475c2c4-82e9-583b-8ab2-e40ee8e1b4dc' => [
-        'Super-ambitious goals tend to be unifying and energizing to people; but only if they believe there\'s a chance of success.',
-        'Peter Diamandis',
+    'bd3c3d4f-ac45-5c30-bd9d-c58a5d872474' => [
+        'When I go away to do a movie, I bring the blanket I\'ve had since I was a little girl. It helps me sleep. I also always bring my laptop so I can E-mail friends. And I bring my dog, Beauty, wherever I can.',
+        'Kirsten Dunst',
     ],
-    '0766f865-7eb4-51c0-ac01-d5d4b72b9bcd' => [
-        'Nothing beats a great smile.',
-        'Karl Urban',
+    '584db2be-e36a-5696-825f-7456b4f09719' => [
+        'It\'s both rebellion and conformity that attack you with success.',
+        'Amy Tan',
     ],
-    '0ce0c105-53f7-5f10-b82e-f34aaa848437' => [
-        'I like being the underdog so they don\'t expect what\'s going to happen. It pushes me to work harder and do the things I\'m not doing better.',
-        'Kawhi Leonard',
+    '910f81ac-ff17-55ab-9e88-64fbae393015' => [
+        'My family is everything. They love me unconditionally.',
+        'Sofia Carson',
     ],
-    '570a1c2a-f4af-56d1-908c-3ccae1ff08b9' => [
-        'Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.',
-        'Booker T. Washington',
+    '941ef0a1-dbe1-5399-b946-43a7c552f96a' => [
+        'Phil Hartman was brilliant, and Dave Foley is a really funny guy. Phil Hartman was actually even funnier offstage than he was onstage because he would say nasty things. Dave Foley\'s very funny, very witty guy, very quick.',
+        'Joe Rogan',
     ],
-    'f8f75998-daba-528b-a694-5cfe09ab7514' => [
-        'Grit your teeth and smile. In the face of adversity, go. They don\'t deserve you.',
-        'Christine Lagarde',
+    'a78a3503-a4cb-5040-bd77-4590fc525c35' => [
+        'Refuse to be a lazy Christian, and resist a passive, apathetic attitude.',
+        'Joyce Meyer',
     ],
-    '10745059-e3c5-54ee-a20e-58ef46c31544' => [
-        'I\'ve been a huge fan of Marc Jacobs for many, many years, even going back to when I was wearing men\'s clothing. He captures a kind of simplicity and a kind of beauty that I like - projecting strength through femininity.',
-        'Chelsea Manning',
+    'b89ab97b-d721-5972-8eda-f4b58aa4f5b1' => [
+        'I think the thing to do is enjoy the ride while you\'re on it.',
+        'Johnny Depp',
     ],
-    '42f32145-2f53-5cff-ba20-54c869558dab' => [
-        'People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn\'t mean they\'ve gotten lost.',
-        'Dalai Lama',
+    '02fcfd67-91fc-5908-b57a-4a9385d9447c' => [
+        'I make funny videos of me playing video games, and I share those moments.',
+        'PewDiePie',
     ],
-    'a878d7e1-aa3d-54e4-9c10-d36ee4811e80' => [
-        'It\'s toughest to forgive ourselves. So it\'s probably best to start with other people. It\'s almost like peeling an onion. Layer by layer, forgiving others, you really do get to the point where you can forgive yourself.',
-        'Patty Duke',
+    '33b9ffb8-b456-5223-9c84-ff58aabb1c9b' => [
+        'There are people who make things happen, there are people who watch things happen, and there are people who wonder what happened. To be successful, you need to be a person who makes things happen.',
+        'Jim Lovell',
     ],
-    '7f2b7567-1de0-596f-808e-c7fb3391a748' => [
-        'Becoming an author changes your attitude too. Once you see where books come from, and how they\'re made, they never seem quite as sacred again.',
-        'Lev Grossman',
-    ],
-    'fbe47d03-d9e7-5ec1-bebf-b8d1718f929b' => [
-        'The \'good\' mother, with her fixed smile, her rigidity, her goody-goody outlook, her obsession with unnecessary hygiene, is in fact a fool. It is the \'bad\' mother, unafraid of a joke and a glass of wine, richly self-expressive, scornful of suburban values, who is, in reality, good.',
-        'Rachel Cusk',
-    ],
-    'a892bde8-4444-57f0-aa4f-b702259d4840' => [
-        'Wilderness is not a luxury but a necessity of the human spirit.',
-        'Edward Abbey',
-    ],
-    '4734004d-15b3-5b27-a311-1449ba1a689b' => [
-        'Whether You Think You Can Or Think You Can\'t, You\'re Right.',
-        'Henry Ford',
+    '896aaa50-b8b7-54f5-890f-e698bc7695e3' => [
+        'I came back to performing with a different attitude about performing and myself. I wasn\'t expecting perfection any more, just hoping for an occasional inspiration.',
+        'Neil Diamond',
     ],
 ];

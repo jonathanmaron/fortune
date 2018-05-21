@@ -17,13 +17,21 @@ class FortuneCommand extends AbstractCommand
 
         $this->setDescription('Unix-style fortune program that displays a random quotation.');
 
+        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
+
+        //<editor-fold desc="Option: (int) wordwrap">
+
         $name        = 'wordwrap';
         $shortcut    = 'w';
         $mode        = InputOption::VALUE_REQUIRED;
-        $description = 'Wrap lines at the "w" th character. Default is terminal width. Disable with "0"';
+        $description = 'Wrap lines at the "w" th character. Disable with "0"';
         $default     = $this->getWordwrapDefault();
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
+
+        // </editor-fold>
+
+        //<editor-fold desc="Option: (int) length">
 
         $name        = 'length';
         $shortcut    = 'i';
@@ -33,6 +41,22 @@ class FortuneCommand extends AbstractCommand
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
+        // </editor-fold>
+
+        //<editor-fold desc="Option: (int) wait">
+
+        $name        = 'wait';
+        $shortcut    = 'p';
+        $mode        = InputOption::VALUE_OPTIONAL;
+        $description = 'Wait for "wait" seconds before terminating';
+        $default     = '';
+
+        $this->addOption($name, $shortcut, $mode, $description, $default);
+
+        // </editor-fold>
+
+        //<editor-fold desc="Option: (string) author">
+
         $name        = 'author';
         $shortcut    = 'a';
         $mode        = InputOption::VALUE_OPTIONAL;
@@ -41,13 +65,9 @@ class FortuneCommand extends AbstractCommand
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
-        $name        = 'wait';
-        $shortcut    = 'p';
-        $mode        = InputOption::VALUE_OPTIONAL;
-        $description = 'Wait for "wait" seconds before before terminating';
-        $default     = '';
+        // </editor-fold>
 
-        $this->addOption($name, $shortcut, $mode, $description, $default);
+        //<editor-fold desc="Option: (bool) short">
 
         $name        = 'short';
         $shortcut    = 's';
@@ -56,12 +76,18 @@ class FortuneCommand extends AbstractCommand
 
         $this->addOption($name, $shortcut, $mode, $description);
 
+        // </editor-fold>
+
+        //<editor-fold desc="Option (bool) long">
+
         $name        = 'long';
         $shortcut    = 'l';
         $mode        = InputOption::VALUE_NONE;
         $description = 'Show long quotations only';
 
         $this->addOption($name, $shortcut, $mode, $description);
+
+        // </editor-fold>
 
         return $this;
     }
@@ -72,7 +98,7 @@ class FortuneCommand extends AbstractCommand
 
         //<editor-fold desc="Option: (int) wordwrap">
 
-        $wordwrap = $input->getOption('wordwrap');
+        $wordwrap = (string) $input->getOption('wordwrap');
         $wordwrap = trim($wordwrap);
 
         if (!ctype_digit($wordwrap)) {
@@ -104,7 +130,7 @@ class FortuneCommand extends AbstractCommand
 
         //<editor-fold desc="Option: (int) length">
 
-        $length = $input->getOption('length');
+        $length = (string) $input->getOption('length');
         $length = trim($length);
 
         if (strlen($length) > 0) {
@@ -128,7 +154,7 @@ class FortuneCommand extends AbstractCommand
 
         //<editor-fold desc="Option: (int) wait">
 
-        $wait = $input->getOption('wait');
+        $wait = (string) $input->getOption('wait');
         $wait = trim($wait);
 
         if (strlen($wait) > 0) {
@@ -152,7 +178,7 @@ class FortuneCommand extends AbstractCommand
 
         //<editor-fold desc="Option: (string) author">
 
-        $author = $input->getOption('author');
+        $author = (string) $input->getOption('author');
         $author = trim($author);
 
         if (strlen($author) > 0) {
@@ -170,16 +196,14 @@ class FortuneCommand extends AbstractCommand
 
         //<editor-fold desc="Option: (bool) short">
 
-        $short = $input->getOption('short');
-        $short = (bool) $short;
+        $short = (bool) $input->getOption('short');
         $this->setShort($short);
 
         //</editor-fold>
 
         //<editor-fold desc="Option: (bool) long">
 
-        $long = $input->getOption('long');
-        $long = (bool) $long;
+        $long = (bool) $input->getOption('long');
         $this->setLong($long);
 
         //</editor-fold>

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '4d102d3c-0c0c-54e7-8fa5-fec6630065cf' => [
-        'Good instincts usually tell you what to do long before your head has figured it out.',
-        'Michael Burke',
+    '613d1e1f-6d2d-525a-a27f-b8435052ee20' => [
+        'I\'m the only man in the world with a marriage licence made out to whom it may concern.',
+        'Mickey Rooney',
     ],
-    '8da45791-e27d-5005-b47e-3a9e06f96004' => [
-        'For a writer only one form of patriotism exists: his attitude toward language.',
-        'Joseph Brodsky',
+    '2e8f1d61-9a09-56fd-9888-494ced7f5b25' => [
+        'The one thing you shouldn\'t do is try to tell a cab driver how to get somewhere.',
+        'Jimmy Fallon',
     ],
-    'af393bf2-e65f-5c3a-b6af-bb00eb2bea97' => [
-        'I have been a frequent air traveler since I was a few months shy of my sixth birthday, when my parents packed me off to boarding school two plane rides away from home. Those days of being willingly handed from air hostess to air hostess as an \'unaccompanied minor\' made me blase about the rigors of air travel.',
-        'Shashi Tharoor',
-    ],
-    'b8bd2ffc-43a0-575c-9f5b-1273537067ee' => [
-        'So long as you\'ve got your friends about you, and a good positive attitude, you don\'t really have to care what everyone else thinks.',
-        'Gail Porter',
-    ],
-    'e05a4b28-33d2-5825-b0a8-b2babe3c694e' => [
-        'Be as you wish to seem.',
-        'Socrates',
-    ],
-    '664e54d4-4a9d-5eeb-89eb-ba001e6f2774' => [
-        'You can have meaning, accomplishment, engagement and good relationships, even if you are dull on the positive affect side.',
-        'Martin Seligman',
-    ],
-    '6ef3b5b0-efaf-5b0a-b630-59874acdfdbb' => [
-        'I\'m moving forward to do the best.',
-        'Pablo Sandoval',
-    ],
-    'a4ea9297-ca24-551c-9c71-07aeea6b22b0' => [
-        'It always seems impossible until it is done.',
-        'Nelson Mandela',
-    ],
-    'd6705f71-c420-509b-a1e1-a8c44b653658' => [
-        'I can sing and dance. I can smile - a lot.',
-        'Chris Colfer',
-    ],
-    'b64e2e4e-b1ca-5d8c-81e8-c6557d4d8b4d' => [
-        'One of the main dilemmas that\'s pretty common to a lot of people who are getting older is the idea that maybe there\'s a finish line and that maybe there\'s a time in your life when you start to slow down and stop and smell the roses and just kind of settle into what will be a comfortable period in your life.',
-        'Chris Cornell',
-    ],
-    'd5154f4b-5763-5262-9a39-4e5ab4ae1403' => [
-        'It is even harder for the average ape to believe that he has descended from man.',
-        'H. L. Mencken',
-    ],
-    '6765a52a-aa7a-5fe9-a9ed-d384c264d4e7' => [
-        'There are lots of things which I would love to tell him, but in some way, I also feel that I lost the person closest to me. And I got a second chance to live. So in a way I feel that I live for both of us... and I will do my best.',
-        'Petra Nemcova',
-    ],
-    '282f1661-8eda-539d-b305-6e76c2ee1c9c' => [
-        'Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole.',
-        'William S. Burroughs',
-    ],
-    '599717fa-5205-56ba-ab3a-9dfdc825d82c' => [
-        'My eyes are constantly wide open to the extraordinary fact of existence. Not just human existence, but the existence of life and how this breathtakingly powerful process, which is natural selection, has managed to take the very simple facts of physics and chemistry and build them up to redwood trees and humans.',
-        'Arnold Schwarzenegger',
-    ],
-    '1e1d0e89-8d93-5129-9a71-e0aac19bc1e8' => [
-        'Anybody who was in the military or a military family has a certain sensitivity to the separation. Everyone knows military wives have the hardest jobs. I was born into one. When I think back to those days, I didn\'t appreciate it then.',
-        'Lester Holt',
-    ],
-    '65ef818e-a5ff-5afa-9c0d-0fd1c8d3c0c7' => [
-        'Every man dies. Not every man really lives.',
-        'George Takei',
-    ],
-    '2ad93d2a-17bf-597b-a76b-de55c4926092' => [
-        'Do the right thing. It will gratify some people and astonish the rest',
-        'Mark Twain',
-    ],
-    '0145a36a-6eb1-5891-b451-b04dc5a71921' => [
-        'Leaders cannot work in a vacuum. They may take on larger, seemingly more important roles in an organization, but this does not exclude them from asking for and using feedback. In fact, a leader arguably needs feedback more so than anyone else. It\'s what helps a leader respond appropriately to events in pursuit of successful outcomes.',
-        'Jack Canfield',
-    ],
-    '7107c0aa-0799-5850-9920-66e6c070c13f' => [
-        'What you do makes a difference, and you have to decide what kind of difference you want to make.',
-        'Jane Goodall',
-    ],
-    '4e690aa3-fee0-55d4-b952-f58b993bdccd' => [
-        'When you are missing someone, time seems to move slower, and when I\'m falling in love with someone, time seems to be moving faster.',
-        'Taylor Swift',
-    ],
-    '484869fd-3c4c-54f1-91bb-fc9f990fd349' => [
-        'All truths are easy to understand once they are discovered; the point is to discover them.',
-        'Galileo Galilei',
-    ],
-    '26843fa0-ab4c-52d5-b30f-3b4970f970bc' => [
-        'Beauty, by way of fashion, has to do with confidence, with flattering silhouettes, with patterns, with proper fit for body type, and with an abundance of self-love!',
-        'Mary Lambert',
-    ],
-    '57a0cca0-7598-5357-a8ae-35731890f874' => [
-        'Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.',
-        'Joel A. Barker',
-    ],
-    'c958a208-7fca-5a55-94df-36c00dd063fe' => [
-        'The best time to plant a tree was 20 years ago. The second best time is now.',
-        'Chinese Proverb',
-    ],
-    '62b3a1c0-5870-5d04-8adb-f4c9cc95315d' => [
-        'Love is a canvas furnished by nature and embroidered by imagination.',
-        'Voltaire',
-    ],
-    'c539f019-c41a-5a49-8e50-0e7b8167ee0b' => [
-        'Nature is a divine art; it cannot be the artist. It is a dominical book and cannot be the scribe. It is an embroidery and cannot be the embroiderer. It is a register and cannot be the accountant. It is the law and cannot be the power.',
-        'Said Nursi',
-    ],
-    '71cd64a9-ab50-5cad-a835-2785e951cbd1' => [
-        'The success of the Rat Pack or the Clan was due to the camaraderie, the three guys who work together and kid each other and love each other.',
-        'Sammy Davis, Jr.',
-    ],
-    '5bfebd28-320e-5d59-99c6-3b00b1e4dbbe' => [
-        'I was brought up on a farm, and I\'ve learned that every opportunity that I\'ve had in my life has come from hard work and persistence.',
-        'Susan Bysiewicz',
-    ],
-    'd7c54aa4-1fcb-58c6-80d5-e91ec2f75369' => [
-        'I think the most romantic thing you can do is just turn up. Turn up when it\'s difficult for you. Travel halfway around the world or just up the road. Whatever it is, just be there.',
-        'James McAvoy',
-    ],
-    'c6b39e13-47b5-5168-bc83-fbcafbba527f' => [
-        'The art of healing comes from nature, not from the physician. Therefore the physician must start from nature, with an open mind.',
-        'Paracelsus',
-    ],
-    '17cd1bbf-a906-572a-8fdb-f020e5fc4887' => [
-        'You can follow your favorite company or organization. You can also mix that in with your family and your social network and talk about all these interests in real time. That\'s the value, not the brand \'Twitter.\' Twitter just provides the venue for it.',
-        'Jack Dorsey',
-    ],
-    'ede90446-ab97-56a9-86bc-8a60a4736189' => [
-        'What was past was past. I suppose that was the general attitude.',
-        'V. S. Naipaul',
-    ],
-    'f4357277-1649-56f7-b7c0-f62244735b37' => [
-        'Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.',
-        'Marcus Aurelius',
-    ],
-    'a14d9a88-3702-5a56-9bfd-06c38d91d76b' => [
-        'Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.',
-        'Robert Graves',
-    ],
-    '4c6344d8-8858-5877-adb7-89dc51b9a0d3' => [
-        'All men\'s souls are immortal, but the souls of the righteous are immortal and divine.',
-        'Socrates',
-    ],
-    '99a293ff-3c43-5f21-a3b1-952b6177f01f' => [
-        'I think Islam has been hijacked by the idea that all Muslims are terrorists; that Islam is about hate, about war, about jihad - I think that hijacks the spirituality and beauty that exists within Islam. I believe in allowing Islam to be seen in context and in its entirety and being judged on what it really is, not what you think it is.',
-        'Aasif Mandvi',
-    ],
-    '61dae638-4303-52b9-9a11-73391150b0e9' => [
-        'Pick a flower on Earth and you move the farthest star.',
-        'Paul Dirac',
-    ],
-    'cafd63d8-86b1-5f1e-a953-42b8b7040bd1' => [
-        'Until you value yourself, you won\'t value your time. Until you value your time, you won\'t do anything with it.',
-        'M. Scott Peck',
-    ],
-    'f85e153c-c19d-5b59-be8d-b724474c8e76' => [
-        'A river cuts through a rock not because of its power but its persistence.',
-        'Anonymous',
-    ],
-    'dcf3d453-ebd4-5fff-9550-b38e76d9e51e' => [
-        'Beauty is how you feel inside, and it reflects in your eyes. It is not something physical.',
-        'Sophia Loren',
+    'f1e8bfc0-8fa3-5a59-8861-5b55b5ebe28a' => [
+        'It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.',
+        'Donald Trump',
     ],
     '0f3166c1-4f0e-524d-9d57-03e2b8169c61' => [
         'My work is like my vacation, so in a way every day is like Saturday.',
         'Ludacris',
     ],
-    '2e351701-ef9e-5b7f-9ab2-8bb33da73f32' => [
-        'Giving up doesn\'t always mean you are weak. Sometimes it means that you are strong enough to let go.',
-        'Unknown',
+    'cdb0f92d-5cbe-55a6-ba06-07e556403374' => [
+        'I would vote for the man who\'s lived life, who\'s done different occupations, who\'s been out in the real world and struggled to make a living, struggled to raise a family, struggled with life as it exists. So I\'d vote for experience, honest experience.',
+        'Oliver Stone',
     ],
-    'c4cca727-3fa7-5d81-832f-2fb1e84d3c38' => [
-        'Many of the most eloquent people I have ever met work in lab coats every day.',
-        'Michael Specter',
+    '078622cb-61dd-54c9-8f33-6761c7b9021a' => [
+        'I never expected any sort of success with \'Mockingbird\'... I sort of hoped someone would like it enough to give me encouragement.',
+        'Harper Lee',
     ],
-    '0d38dfec-77be-5c36-b1ac-4893977185e7' => [
-        'A diva is someone who is a perfectionist, who does her best in her craft.',
-        'Patti LaBelle',
+    'a8d1eba4-2fa9-57a1-82da-86f0328662d1' => [
+        'Communication - the human connection - is the key to personal and career success.',
+        'Paul J. Meyer',
     ],
-    'cb6ae3a7-1473-5ca6-a699-282dcfa26a09' => [
-        'Thinking about your training should put a smile on your face. As cliche as it sounds, you are worth all the time and energy you\'ve put in. Unleash your emotions with a cheer, or even a signature roar, after a tough workout.',
-        'Summer Sanders',
+    'e4760729-c82b-5c28-995f-a4da801555b6' => [
+        'I like children - fried.',
+        'W. C. Fields',
     ],
-    '48a92c85-1a7c-5154-a591-ac66279a8c42' => [
-        'Work as if you were to live a hundred years. Pray as if you were to die tomorrow.',
-        'Benjamin Franklin',
+    '6ab57e64-0761-5fad-ab24-3a8f1aef3040' => [
+        'Kind words will unlock an iron door.',
+        'Turkish proverb',
     ],
-    '25a8e250-1656-502f-9f67-f6632e71d97e' => [
-        'A friend is what the heart needs all the time.',
-        'Henry Van Dyke',
+    'e3da58b5-029e-5012-b95a-2f8206d4ac83' => [
+        'I wanted to race cars. I didn\'t like school, and all I wanted to do was work on cars. But right before I graduated, I got into a really bad car accident, and I spent that summer in the hospital thinking about where I was heading. I decided to take education more seriously and go to a community college.',
+        'George Lucas',
     ],
-    '94ec52d5-a784-545f-a6be-b3c5adcfae53' => [
-        'Musicals are, by nature, theatrical, meaning poetic, meaning having to move the audience\'s imagination and create a suspension of disbelief, by which I mean there\'s no fourth wall.',
-        'Stephen Sondheim',
+    '94c283dc-66cf-5f30-a43e-5ef68f7c699a' => [
+        'It is no use saying, \'We are doing our best.\' You have got to succeed in doing what is necessary.',
+        'Winston Churchill',
     ],
-    '8d9b0438-b5b7-511a-9ad1-77f4d7ce0386' => [
-        'To enjoy life, we must touch much of it lightly.',
-        'Voltaire',
+    'e2608d49-7c1e-53dd-b5c2-49648b9775d3' => [
+        'Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.',
+        'Byron Pulsifer',
     ],
-    '511aeca0-7838-5be2-afad-4644c5b36f5f' => [
-        'I always travel with my bike and it has become a little more difficult to do it nowadays, but I stick it in 3,5 by 6-foot case and wheel that thing in.',
-        'Donny Robinson',
+    '36131a6b-d6e3-5aca-80cc-eb84fbf63c87' => [
+        'Every man\'s life is a fairy tale written by God\'s fingers.',
+        'Hans Christian Andersen',
+    ],
+    '78673739-3f5b-5d1e-a4d8-49a6691e8fb6' => [
+        'Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.',
+        'Ben Jonson',
+    ],
+    'bfa98193-ac35-51ec-a49d-eb0513a16bfd' => [
+        'The energy of the mind is the essence of life.',
+        'Aristotle',
+    ],
+    'bb57df58-0206-5814-b987-cec6731ab1e9' => [
+        'Better by far you should forget and smile that you should remember and be sad.',
+        'Christina Rossetti',
+    ],
+    '597b36a6-b645-5ecc-a54a-0013264b4100' => [
+        '\'A Court of Thorns and Roses\' was actually inspired by three of my all-time-favorite fairy/folktales: \'Beauty and the Beast,\' \'East of the Sun, West of the Moon\' and \'Tam Lin.\' I got the kernel of inspiration by wondering: \'What if \'Beauty\' was a huntress?\'',
+        'Sarah J. Maas',
+    ],
+    'eb5d7560-030a-589e-825c-ed72b0ccbf38' => [
+        'Negotiation means getting the best of your opponent.',
+        'Marvin Gaye',
+    ],
+    'dda92223-855d-53af-bb98-03e9bab8a818' => [
+        'I believe in entrepreneurs. I believe in their ability to make positive change in the world.',
+        'Jessica Jackley',
+    ],
+    '66a5df51-2f66-5429-a1d8-433e84e178d9' => [
+        'I always carry lip balm and lipstick. Lipstick is a very important beauty product because I find that lips are the most beautiful feature of anyone\'s face.',
+        'Fan Bingbing',
+    ],
+    '15ba15e9-c95c-5ac3-aa89-bf262285c412' => [
+        'To label me an intellectual is a misunderstanding of what that is.',
+        'Dick Cavett',
+    ],
+    'de990194-8402-5a23-bdc7-a28346e028c8' => [
+        'Nonsense and beauty have close connections.',
+        'E. M. Forster',
+    ],
+    'df6851ef-6869-56b4-8315-482a495e598e' => [
+        'Football is like life - it requires perseverance, self-denial, hard work, sacrifice, dedication and respect for authority.',
+        'Vince Lombardi',
+    ],
+    '99a6c024-4f30-5efd-b645-e4c9cadada8e' => [
+        'Hope is some extraordinary spiritual grace that God gives us to control our fears, not to oust them.',
+        'Vincent McNabb',
+    ],
+    '13be8e19-f1cb-5b90-a454-a60b58f5cf9c' => [
+        'Stop this attitude that older people ain\'t any good anymore! We\'re as good as we ever were - if we ever were any good.',
+        'Dolly Parton',
+    ],
+    'c7fcc2cf-f9be-520f-b343-c4e35d77178f' => [
+        'With my boyfriend, we can make sexist jokes to each other because we know it\'s absolutely not true. If I get home from a long day and he says: \'Go on, get in the kitchen,\' it\'s funny because we know it\'s not our lives.',
+        'Emily Browning',
+    ],
+    '04912ad8-a9a2-5f04-aca6-006e9bad216a' => [
+        'The beauty of the past belongs to the past.',
+        'Margaret Bourke-White',
+    ],
+    '6a367caa-6729-5b8c-859a-b21b07eab9c0' => [
+        'We are supposed to enjoy the good stuff now, while we can, with the people we love. Life has a funny way of teaching us that lesson over and over again.',
+        'Henri Nouwen',
+    ],
+    'c6b95d34-8492-5199-95cd-2ba4413c812c' => [
+        'Children learn to smile from their parents.',
+        'Shinichi Suzuki',
+    ],
+    '455dad8e-8a7a-5fa4-a669-c0dda6689699' => [
+        'I figured out, I guess, that the job just makes me happy if it\'s not number one. So if it all works, great. If it doesn\'t, I still go home, look at my kids, and I have a big smile on my face.',
+        'Thomas Kretschmann',
+    ],
+    '4772ed08-cb67-5369-8aa9-73494132ba67' => [
+        'All of us grow up in particular realities - a home, family, a clan, a small town, a neighborhood. Depending upon how we\'re brought up, we are either deeply aware of the particular reading of reality into which we are born, or we are peripherally aware of it.',
+        'Chaim Potok',
+    ],
+    'b7828a13-c9c5-56cd-a84b-40360a1f7a21' => [
+        'Relax! Life is beautiful!',
+        'Marvin Sapp',
+    ],
+    '638f093a-d003-528d-8b06-5c014517eb25' => [
+        'I see travelling as a great learning process, and my biggest dream is to travel the world.',
+        'Pooja Hegde',
+    ],
+    'a9b0ca8b-90d8-5cce-90fa-8a773e5a050c' => [
+        'You know, I\'m just a very boring, not very funny person in person. I don\'t feel pressured to be otherwise.',
+        'Lorrie Moore',
+    ],
+    'db2c1384-af1f-5ab6-93b0-723ae47dd5e0' => [
+        'I believe there are two periods in life, one for the bike, the other for becoming active on one\'s work.',
+        'Bernard Hinault',
+    ],
+    '512776fa-2b96-58be-92d7-5957ca4ad822' => [
+        'Time will pass and seasons will come and go.',
+        'Roy Bean',
+    ],
+    '925f889d-4f8f-5029-a2c8-12809e2307e2' => [
+        'I think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.',
+        'Joseph Campbell',
+    ],
+    'ce8abb07-5776-59e5-8b15-1fa973a9793e' => [
+        'True beauty is when someone radiates that they like themselves.',
+        'Aimee Mullins',
+    ],
+    '40e4118f-7a9c-57f1-91c9-5b83cde52be4' => [
+        'Being part of the Workshop is like being part of a really big family. Everyone is so close. Everyone feels the success of others who go on to do well. Whatever happens, I will still be part of the Workshop.',
+        'Lucy Carless',
+    ],
+    '83c4a0be-8746-511b-b0bb-c79e3a1b0b09' => [
+        'It hurts when you have to smile and you don\'t want to smile, but the best thing to do is to smile.',
+        'Mary J. Blige',
+    ],
+    '180de020-28ad-5ac9-9b33-facab0a42a86' => [
+        'Excellence is the best deterrent to racism or sexism.',
+        'Oprah Winfrey',
+    ],
+    '66a11959-2f21-52b1-94f0-2b18781b449b' => [
+        'Sailing is the closest I can get to nature - it\'s adrenaline, fear, a constant challenge and learning experience, an adventure into the unknown. And of course there is nothing better than wearing the same T-shirt for days and not brushing my hair for weeks.',
+        'Daria Werbowy',
+    ],
+    '9dafbbea-3d32-523a-b93b-d46eca7358d2' => [
+        'Reggae has a philosophy, you know? It\'s not just entertainment. There\'s an idea behind it, a way of life behind the music, which is a positive way of life, which is a progressive way of life for better people.',
+        'Ziggy Marley',
+    ],
+    '4287b360-5f1f-5a75-9db7-90df17f92a12' => [
+        'Water is the driving force of all nature.',
+        'Leonardo da Vinci',
+    ],
+    '0bf00253-09cc-5b94-8893-d9715fd55ab6' => [
+        'Nature is full of genius, full of the divinity; so that not a snowflake escapes its fashioning hand.',
+        'Henry David Thoreau',
+    ],
+    'f66723c3-88af-506c-91de-4a903c17708b' => [
+        'Wikipedia is just an incredible thing. It is fact-encirclingly huge, and it is idiosyncratic, careful, messy, funny, shocking and full of simmering controversies - and it is free, and it is fast.',
+        'Nicholson Baker',
+    ],
+    '4fff1b94-d02c-5ee7-b4b7-7a05a349c6a6' => [
+        'Your life does not get better by chance, it gets better by change.',
+        'Anonymous',
+    ],
+    '197f2b38-dc95-5fed-ab0c-a6c550a3e9ac' => [
+        'True happiness involves the full use of one\'s power and talents.',
+        'John W. Gardner',
+    ],
+    'b5ce0317-645a-57f6-9010-230977cccbd2' => [
+        'And as we let our own light shine, we unconsciously give other people permission to do the same.',
+        'Nelson Mandela',
+    ],
+    '3b450a79-806d-50de-95cd-5285a7269e86' => [
+        'It\'s amazing. Life changes very quickly, in a very positive way, if you let it.',
+        'Lindsey Vonn',
     ],
 ];

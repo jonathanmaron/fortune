@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'edf81553-6b75-5cab-8335-a4db51222d83' => [
-        'A committee is organic rather than mechanical in its nature: it is not a structure but a plant. It takes root and grows, it flowers, wilts, and dies, scattering the seed from which other committees will bloom in their turn.',
-        'C. Northcote Parkinson',
+    '83ed451d-6cbd-5cb9-bbc7-758ec99bb9c1' => [
+        'I\'m confident that the commitment of the co-chairs of the Ferguson Commission - along with the work of other local leaders and the Missouri General Assembly - will have a very positive impact as this community works to move forward.',
+        'Roy Blunt',
     ],
-    '7cad15e9-727f-5a51-bfb8-c45d26c8f813' => [
-        'The greatest remedy for anger is delay.',
-        'Seneca',
+    '14a7817d-913a-518c-8bbc-7c2a1db4885b' => [
+        'I am a marathon worker and marathon mother. I\'ll spend three or four days completely swallowed up by work. And if I make it home in time to say good night, I may have one good hour with the girls, maybe a brief family dinner or a family walk with the dog, and then it is back on the computer to prepare for tomorrow\'s shows.',
+        'Mika Brzezinski',
     ],
-    '11addf3d-3c0e-51f5-ac1a-01b16c1dae6d' => [
-        'Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.',
-        'Jean-Paul Sartre',
+    '67935e20-0a5b-5a89-98d4-a426544c7a75' => [
+        'In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.',
+        'Buddha',
     ],
-    '9938037e-0ccd-5da8-9750-4c26b115f739' => [
-        'Dates that come around every year help us measure progress in our lives. One annual event, New Year\'s Day, is a time of reflection and resolution.',
-        'Joseph B. Wirthlin',
+    'fab33b44-c53c-5842-8db9-93f0fa64e06f' => [
+        'I try to keep people happy. I go out of my way to get a smile. That\'s the way my mother raised me.',
+        'Donald Dunn',
     ],
-    '4ebb3c0a-05d5-5c49-addc-3f15942e3dca' => [
-        'The biggest breakthroughs in consciousness occur when things are difficult; when we have a choice to fall to the worst of ourselves or rise to the best of ourselves.',
-        'Yehuda Berg',
+    'ba7e8325-331b-564d-aca4-91214e4d186c' => [
+        '\'What if?\' statements throw fuel on the fire of stress and worry. Things can go in a million different directions, and the more time you spend worrying about the possibilities, the less time you\'ll spend focusing on taking action that will calm you down and keep your stress under control.',
+        'Travis Bradberry',
     ],
-    'b024c8e7-803e-55aa-a6a9-7d35a907b465' => [
-        'Go the extra mile -- it\'s never crowded.',
-        'Anonymous',
+    'ccaba061-e002-54da-bab5-5c2fb08df24e' => [
+        'For one human being to love another; that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation.',
+        'Rainer Maria Rilke',
     ],
-    '44da312a-1c31-593e-be9b-306e37006871' => [
-        'Try to find someone with a sense of humor. That\'s an important thing to have because when you get into an argument, one of the best ways to diffuse it is to be funny. You don\'t want to hide away from a point, because some points are serious, but you\'d rather have a discussion that was a discussion, rather than an argument.',
-        'Ed Sheeran',
+    'd4847db3-0269-50bd-92d9-c3b93ef26c87' => [
+        'There\'s a way to do it better - find it.',
+        'Thomas A. Edison',
     ],
-    '2fc31b45-7286-59ae-a7c0-c937186db000' => [
-        'That it will never come again is what makes life sweet.',
+    'bde3db79-d4ad-5d9c-8536-abe7e70a1c09' => [
+        'Creativity is a habit, and the best creativity is the result of good work habits.',
+        'Twyla Tharp',
+    ],
+    'e6a43a54-6f4b-58b3-bbc2-cade95f4263b' => [
+        'I\'m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.',
+        'Joan Jett',
+    ],
+    '66d0d8e7-8faf-598a-ae61-0f8fc25fb8f7' => [
+        'We become what we think about.',
+        'Earl Nightingale',
+    ],
+    '7778f96c-8d2d-5bdd-8fd5-dfc092aaaad4' => [
+        'Employers have recognized for some time that it\'s smart business to have a diverse workforce - one in which many views are represented and everyone\'s talents are valued. Well, disability is part of diversity.',
+        'Thomas Perez',
+    ],
+    '52264903-81d7-59ae-9a1c-045ea9656def' => [
+        'Beauty shouldn\'t be superficial and should come from within, and your eyes will tell the story.',
+        'Michelle Yeoh',
+    ],
+    '7ce9280e-dee5-5237-ac74-03dc00ecaab4' => [
+        'Life is largely a matter of expectation.',
+        'Neil Young',
+    ],
+    'deca4d34-7c3e-5491-a819-707cd93ee119' => [
+        'The Oscars are a lot different when you are a nominee. You walk around with this big smile on your face, and everyone, even people who work for rival film companies, tells you they voted for you.',
+        'Samuel Goldwyn',
+    ],
+    '64f465c3-4667-5c94-aab3-f27884e918ea' => [
+        'It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.',
+        'Lama Yeshe',
+    ],
+    '14739b32-0289-57ac-8c6c-1da0a811febb' => [
+        'After I finished high school I went to Hong Kong and Thailand and spent some time there. Just to get that whole experience of being out of the bubble that I was in from high school in Vancouver, to be able to travel around and be on your own was an amazing experience.',
+        'Shay Mitchell',
+    ],
+    '6ba26068-03d7-5f48-a3b5-89ac85052d82' => [
+        'What\'s the point of being alive if you don\'t at least try to do something remarkable.',
+        'Unknown',
+    ],
+    '526e7954-7b9e-57fc-b33c-3aa29f252068' => [
+        'Silence is deep as Eternity, Speech is shallow as Time.',
+        'Carlyle',
+    ],
+    '1ff6b9e4-a2a0-5c53-bb86-123b3fe2a413' => [
+        'We can do no great things, only small things with great love.',
+        'Mother Teresa',
+    ],
+    'd6f647e8-e5fe-561b-9b12-e9053068acdb' => [
+        'Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.',
+        'Hal Borland',
+    ],
+    '96ecee0e-776c-546e-b91e-cfb7695fb190' => [
+        'Less is always more. The best language is silence. We live in a time of a terrible inflation of words, and it is worse than the inflation of money.',
+        'Eduardo Galeano',
+    ],
+    '96aba773-688b-5591-b180-d2ca4d63cf7a' => [
+        'A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.',
+        'Bernard Shaw',
+    ],
+    '5a6e8136-c48b-5a95-995b-3c750231e8d0' => [
+        'I\'m having a great time. I get to travel and see the world. And yeah, I\'ll have a family, because I don\'t want to miss out on that amazing experience, but it\'s not defining who I am.',
+        'Krysten Ritter',
+    ],
+    'c71c1055-4bdd-50d1-94bb-b0b2716396f2' => [
+        'I\'ve had more ups than downs in my career. All you can do is keep working. You still have to take enjoyment out of what you\'re doing, and things will turn, and my smile has always been there. In good moments and bad.',
+        'Eden Hazard',
+    ],
+    'bddefb81-9d36-59fc-8d5b-9df0e34c2ede' => [
+        'Travel is the most private of pleasures. There is no greater bore than the travel bore. We do not in the least want to hear what he has seen in Hong Kong.',
+        'Vita Sackville-West',
+    ],
+    'd6626ce1-7507-52bc-9620-3b1852a85282' => [
+        'He who wishes to secure the good of others, has already secured his own.',
+        'Confucius',
+    ],
+    '7352e430-b5a1-529c-b117-d71df25c62f1' => [
+        'Waste no more time arguing about what a good man should be. Be one.',
         'Marcus Aurelius',
     ],
-    '1b3b4d0c-0c93-54e5-8eb7-a9d3eb348455' => [
-        'The best part is still ahead of me - I haven\'t experienced my \'good old days\' yet.',
-        'Luther Vandross',
+    'd28ebb82-c127-5d62-878f-9859a50e587e' => [
+        'I always spend time exploring the customs and attitudes of the countries I\'m using for locations, and interviewing the people who live there. I\'ve visited over 90 countries thus far.',
+        'Sidney Sheldon',
     ],
-    'de157738-2f2a-55e6-9f20-162e1c6334cf' => [
-        'To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.',
-        'John Dewey',
+    'adbce603-90d6-58f5-9d9b-cd17e0eddaa7' => [
+        'Success breeds success.',
+        'Mia Hamm',
     ],
-    'd0a385a6-3e73-5f52-9dec-c40de59f5ca2' => [
-        'I\'m a big fan of the laceless Converse for travel, with cute jeans, and throw on a little jacket, and you look presentable.',
-        'Melissa Rivers',
+    'e1a022e5-b574-5866-b3d3-53195d6d3b34' => [
+        'Time is a created thing. To say \'I don\'t have time,\' is like saying, \'I don\'t want to\'.',
+        'Lao Tzu',
     ],
-    '4060aeba-4306-59a8-804a-e94d2387c957' => [
-        'Wars and elections are both too big and too small to matter in the long run. The daily work - that goes on, it adds up.',
-        'Arthur Miller',
+    'ce10bc72-57db-59d0-ab68-a9418797d0a6' => [
+        'Success is not a good teacher, failure makes you humble.',
+        'Shah Rukh Khan',
     ],
-    'af09f9e7-d9b7-547f-bfb0-58875073e30c' => [
-        'Nerves can be useful, as they sharpen you up, make you determined to try your hardest and do your best.',
-        'Stephen Cole',
+    'e7bacb56-eba0-5f1d-9353-3ffccd4ad3b0' => [
+        'For the mind disturbed, the still beauty of dawn is nature\'s finest balm.',
+        'Edwin Way Teale',
     ],
-    '5176d667-5b4e-5d5a-a5d8-be1e0186ea2f' => [
-        'People are at their best when they can be natural. And that\'s the hardest thing as a photographer.',
-        'Platon',
+    '00a55bd0-66fa-5a4b-817a-b07772d76731' => [
+        'All happy families resemble one another, each unhappy family is unhappy in its own way.',
+        'Leo Tolstoy',
     ],
-    'bf57d452-d2d4-57cf-a4cb-d4d3b92ba359' => [
-        'What you do today can improve all your tomorrows.',
-        'Ralph Marston',
+    '7509b435-d17d-5dd8-a902-48b1d330e8d1' => [
+        'The reactionary is always willing to take a progressive attitude on any issue that is dead.',
+        'Theodore Roosevelt',
     ],
-    '8fe1087e-c001-59dc-b5b8-0024f0e7aaac' => [
-        'The world is a country which nobody ever yet knew by description; one must travel through it one\'s self to be acquainted with it.',
-        'Philip Stanhope, 4th Earl of Chesterfield',
+    'e71e21f8-31ef-5c74-8fc5-e5244e7442fc' => [
+        'Confidence comes from hours and days and weeks and years of constant work and dedication.',
+        'Roger Staubach',
     ],
-    '04b0ee7a-d791-5432-a99b-a28294921937' => [
-        'Until I was about 14, I was a fat boy, or at least I looked like a fat boy. I think that being funny was a bit of a defence mechanism for me, so I ended up being a bit of a joker.',
-        'Pippa Evans',
+    'ff489cbe-956d-5313-82ac-fc803f83c46e' => [
+        'Each moment of a happy lover\'s hour is worth an age of dull and common life.',
+        'Beverly Sills',
     ],
-    '2da2f5fc-12bb-56fc-9119-a60529f9087e' => [
-        'I say always follow your passion, no matter what, because even if it\'s not the same financial success, it\'ll lead you to the money that\'ll make you the happiest.',
-        'Ellen DeGeneres',
+    '073541ad-f2cd-5630-9a21-277b772cbb2c' => [
+        'Philosophy would render us entirely Pyrrhonian, were not nature too strong for it.',
+        'David Hume',
     ],
-    'f5556217-7556-52a0-a3a3-95e89f4e40d3' => [
-        'The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.',
-        'Carlos Castaneda',
+    '554188f5-f0b3-5ad0-98af-397144fd4e65' => [
+        'To create a work of art is to create the world.',
+        'Wassily Kandinsky',
     ],
-    '4d13ee9c-5f77-5142-9633-3f59052e7bd1' => [
-        'Follow your instincts. That is where true wisdom manifests itself.',
-        'Oprah Winfrey',
+    '9d701908-84a4-5f98-a751-cb2f85a7ecab' => [
+        'There is a deep sadness to American poverty, greater than the sadness of any other kind. It\'s because America has such an ideology of success.',
+        'Will Self',
     ],
-    'd3e23f1b-4452-5826-9484-64ebd56d4d62' => [
-        'Let me recommend the best medicine in the world: a long journey, at a mild season, through a pleasant country, in easy stages.',
-        'James Madison',
-    ],
-    'b7b251f3-6556-5c42-a713-59bb1e82e9c7' => [
-        'Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.',
-        'Dale Turner',
-    ],
-    '8e999a4b-b3a4-5669-bfea-ed7edc8a917b' => [
-        'If you want small changes in your life, work on your attitude. But if you want big and primary changes, work on your paradigm.',
-        'Stephen Covey',
-    ],
-    '37ab42d1-b7f8-57dc-b38a-10f760492d2e' => [
-        'When a place gets crowded enough to require ID\'s, social collapse is not far away. It is time to go elsewhere. The best thing about space travel is that it made it possible to go elsewhere.',
-        'Robert A. Heinlein',
-    ],
-    'a1be3f28-a86c-5870-aca5-e2c76f48f64e' => [
-        'There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.',
-        'Mark Twain',
+    '457807c7-44f3-5017-9b2f-b4cce45627e9' => [
+        'The word \'spinster\' tells you everything you need to know about our attitude of women who choose not to marry.',
+        'Caitlin Moran',
     ],
     '99c23171-17d0-5b11-a221-a2a8891354a0' => [
         'He who looks the higher is the more highly distinguished, and turning over the great book of nature (which is the proper object of philosophy) is the way to elevate one\'s gaze.',
         'Galileo Galilei',
     ],
-    'c93bc3ef-4ed0-5ed2-b819-5bdf56451c26' => [
-        'I think a spiritual journey is not so much a journey of discovery. It\'s a journey of recovery. It\'s a journey of uncovering your own inner nature. It\'s already there.',
-        'Billy Corgan',
+    'a2d0f15c-d796-51f2-b82e-830e09e46a80' => [
+        'Don\'t forget Mother\'s Day. Or as they call it in Beverly Hills, Dad\'s Third Wife Day.',
+        'Jay Leno',
     ],
-    '22b895a5-bfd5-5cfb-8170-940223f540d9' => [
-        'As you think, you travel, and as you love, you attract. You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you.',
-        'James Lane Allen',
+    '3a007643-3119-584e-89cc-954a50dfc4c9' => [
+        'We truly believe with hard work, dedication and perseverance, we can become the best at what we do. No one wants to become mediocre.',
+        'Andy Biersack',
     ],
-    '3acfcbce-f620-5f39-b213-ef720eb88252' => [
-        'Natural beauty takes at least two hours in front of a mirror.',
-        'Pamela Anderson',
+    'f30e5708-a69d-5cbc-8e3f-30f6fb9a5cc1' => [
+        'You don\'t want to have to come into work on Monday already apologizing. I try to save my apologies for what I\'ve done later in the week.',
+        'Ike Barinholtz',
     ],
-    'b5e82d4d-cc87-5029-a072-4dc9cd8ca654' => [
-        'Beverly Hills is too intimidating. Everyone\'s got lovely teeth, so you don\'t want to smile. Everyone\'s ripped, so you start working out at 4 in the morning and eating egg white omelets.',
-        'Rob James-Collier',
+    'c5bd5bec-eb88-5a13-ad65-d678c528f68d' => [
+        'I had many teachers that were great, positive role models and taught me to be a good person and stand up and be a good man. A lot of the principals they taught me still affect how I act sometimes and it\'s 30 years later.',
+        'Kevin James',
     ],
-    '1fa8b9c2-a7b4-5240-aac3-69dbaadc570b' => [
-        'Attitudes are more important than facts.',
-        'George MacDonald',
+    'cd6cd204-0fd8-559a-90ef-0f20a9a8775a' => [
+        'Life goes by really fast, and it seems that there are times when you\'re burying a lot of friends and family. And then there are times that feel really precious and everybody is doing okay. This is one of those times.',
+        'Amy Grant',
     ],
-    '742101d0-e470-5074-a2fa-91e8bb12d3a7' => [
-        'The foot feels the foot when it feels the ground.',
-        'Buddha',
+    '7d87a74a-8c5d-58fe-b30e-763a43dfbb20' => [
+        'If you drive to, say, Shenandoah National Park, or the Great Smoky Mountains, you\'ll get some appreciation for the scale and beauty of the outdoors. When you walk into it, then you see it in a completely different way. You discover it in a much slower, more majestic sort of way.',
+        'Bill Bryson',
     ],
-    '8c19be0d-3073-541e-9d94-34e08b39a2cb' => [
-        'It\'s as if inside the White House the belief in Obama\'s inspirational charisma is still such that every time the ugliness of brute politics intrudes, it\'s a startling revelation.',
-        'Tina Brown',
+    '0483e127-0fc5-5edf-954b-de91884aa339' => [
+        'The best work of literature to represent the American Dream is \'The Great Gatsby\' by F. Scott Fitzgerald. It shows us how dreaming can be tainted by reality, and that if you don\'t compromise, you may suffer.',
+        'Azar Nafisi',
     ],
-    '17d0b7de-26bb-57cd-8f77-8e39ba79e186' => [
-        'When I haven\'t been working I\'ve tried to travel a lot.',
-        'Emma Watson',
+    'e5492bc1-9d0b-52f0-b584-f03c2bcfbcfc' => [
+        'Fire tries gold, misfortune tries brave men.',
+        'Seneca',
     ],
-    '288638d8-0df7-5725-99ce-b87ffd7f5e37' => [
-        'If a man has been his mother\'s undisputed darling he retains throughout life the triumphant feeling, the confidence in success, which not seldom brings actual success along with it.',
-        'Sigmund Freud',
-    ],
-    '7b6b4c51-347b-5b96-939e-7f7af1a797ce' => [
-        'Given the scale of issues like global warming and epidemic disease, we shouldn\'t underestimate the importance of a can-do attitude to science rather than a can\'t-afford-it attitude.',
-        'Martin Rees',
-    ],
-    'e1e6b5ed-b827-5b9f-9367-b83734aa87ac' => [
-        'Feeling and longing are the motive forces behind all human endeavor and human creations.',
-        'Albert Einstein',
-    ],
-    'aef178d5-9edc-5607-9df7-1a65fb88ea2e' => [
-        'It\'s a matter of taking the side of the weak against the strong, something the best people have always done.',
-        'Harriet Beecher Stowe',
-    ],
-    'f66723c3-88af-506c-91de-4a903c17708b' => [
-        'Wikipedia is just an incredible thing. It is fact-encirclingly huge, and it is idiosyncratic, careful, messy, funny, shocking and full of simmering controversies - and it is free, and it is fast.',
-        'Nicholson Baker',
-    ],
-    '3fe031cc-986a-5f06-918f-23590fa0a23e' => [
-        'You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.',
-        'Walt Disney',
-    ],
-    'd2e8b48b-934e-5039-a503-84f3ef19d586' => [
-        'The team which handles the pressure best, carries the day.',
-        'Imran Khan',
-    ],
-    '2660c7db-5112-58a4-b310-d8cc9d3236e9' => [
-        'My father\'s best friend, Georgie Terra, was an Italian guy. The children and the cousins and nieces and nephews were children of the Mafia. Those were the children he grew up with. If you want to go to a safe neighborhood, go to where the Mafia is.',
-        'Louis Gossett, Jr.',
-    ],
-    '936801bd-4091-5484-be39-f9aa69e73ad7' => [
-        'Regarding marriage, it - somehow, it didn\'t happen. One fellow in such a big family not getting married is not an issue.',
-        'A. P. J. Abdul Kalam',
-    ],
-    '270cd9dd-7df4-5fa6-b84d-1ba7808e8a14' => [
-        'Success represents the 1% of your work which results from the 99% that is called failure.',
-        'Soichiro Honda',
-    ],
-    '9a885944-db7d-5743-9e41-cc225522657b' => [
-        'I like the opportunity to travel the world and work in close company with other people.',
-        'Marc Garneau',
-    ],
-    'ba7202a2-e671-5dff-b81f-3221a055e823' => [
-        'If you think about a lifestyle short of retirement that lends itself to being a hardcore gamer, there is none better than being a major league starting pitcher. I work once every five days and travel and am alone all the time. So while the other guys were spending their money on the all the cars and jewelry, I bought laptops.',
-        'Curt Schilling',
-    ],
-    'bb7182bc-8b80-58d0-952f-39af67f6108c' => [
-        'We become what we think about most of the time, and that\'s the strangest secret.',
-        'Earl Nightingale',
-    ],
-    'bbdf4a3a-c813-5b74-8a4c-7843b9a6d8b5' => [
-        'Hunger is the best pickle.',
-        'Benjamin Franklin',
-    ],
-    'ddd68ebf-b961-528b-97d1-9f92512b481e' => [
-        'Happiness is a butterfly, which when pursued, is always beyond your grasp, but which, if you will sit down quietly, may alight upon you.',
-        'Nathaniel Hawthorne',
-    ],
-    '5e11ac3b-ce18-50c6-88d7-f3a2db113916' => [
-        'But, I would be naive not to recognize the number of musicians who tell me they have been influenced by me and sight me - as well as Alex and Neil - as a musician who has been a positive influence on their playing.',
-        'Geddy Lee',
+    'ca441442-6629-5e8d-8bdf-60d0e015bde7' => [
+        'No matter how difficult and painful it may be, nothing sounds as good to the soul as the truth.',
+        'Martha Beck',
     ],
 ];

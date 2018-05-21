@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'ad362ee4-156d-5db5-bb0c-d6a553997307' => [
-        'You\'ve got a movie where the pro-choice family gives their daughter no choice. The pro-life family murders. What seems to be the good mother, the kind of hippie painter, sweet and cute mother has no love for her daughter really.',
-        'Ellen Barkin',
+    '99394f67-c348-5906-ab75-81ed830ce619' => [
+        'You have to listen to the people who have a negative opinion as well as those who have positive opinion. Just to make sure that you are blending all these opinions in your mind before a decision is made.',
+        'Carlos Ghosn',
     ],
-    '600dfe5c-a87e-5ea8-abba-3aee163cd919' => [
-        'What do you mean by faith? Is faith enough for Man? Should he be satisfied with faith alone? Is there no way of finding out the truth? Is the attitude of faith, of believing in something for which there can be no more than philosophic proof, the true mark of a Christian?',
-        'Clifford D. Simak',
+    'c970df66-0f32-594f-88d8-0f415e597751' => [
+        'I think the most fun part about working on \'Good Luck Charlie\' is spending time with everyone, honestly, because everybody on set is like my brother and sister and mom and dad. They\'re so fun to be around, so that\'s probably the best part about working there.',
+        'Bradley Steven Perry',
     ],
-    'c30f9040-e445-549c-90d0-918e978c0c4e' => [
-        'The wisest men follow their own direction.',
-        'Euripides',
-    ],
-    '9ca43b5f-a1bb-52f7-8877-7a5f8ee91fdb' => [
-        'Dogs are not our whole life, but they make our lives whole.',
-        'Paula Cole',
-    ],
-    '8d4c87cd-f591-5e44-b50e-392674c41c4a' => [
-        'Drugs are a waste of time. They destroy your memory and your self-respect and everything that goes along with with your self-esteem. They\'re no good at all.',
-        'Kurt Cobain',
-    ],
-    '57082d3f-597b-50e5-9f85-41e43a259511' => [
-        'So many of our young women today, they\'re growing up without a father, but they\'re still thirsty for that and desiring positive male love.',
-        'Hill Harper',
-    ],
-    '16359595-6273-532c-9c7f-1b1543a9e860' => [
-        'Travel is one of the best anti-war weapons that there are. I\'ve been to Iran, and if you\'re there you see little kids, cops, old people, cemeteries. Once you see that, you can\'t say, \'Oh, Iran, let\'s bomb them.\'',
-        'Viggo Mortensen',
-    ],
-    '791495c9-a42c-5e26-880a-250e941b85e8' => [
-        'I have my team. Like if you see everyone around me - I have my hair and makeup girl, my assistant. They\'re very calm, they\'re all about positive energy. There\'re no drama queens. Everyone wants everyone else to have a positive experience. There are no agendas. I think it creates a healthy environment and there are no boundaries to cross.',
-        'Fergie',
-    ],
-    '3e0c6cb9-a35d-53f5-8d79-3f4574fb01ce' => [
-        'More people smile at me now I\'m richer.',
-        'Mo Ibrahim',
-    ],
-    'cb46d1e8-4624-5e34-ae19-99786a338f7b' => [
-        'I think Nina Simone has had an amazing journey. She was spicy and she had attitude and she didn\'t care, she wanted her money in a paper bag and don\'t mess with me and I\'ve been doing some research on that so.',
-        'Nia Long',
-    ],
-    'e72e8414-3de4-53a9-8d7e-cc3c3c547ab7' => [
-        'It\'s hard for a man to live with a successful woman - they seem to resent you so much. Very few men are generous enough to accept success in their women.',
-        'Shirley Bassey',
-    ],
-    '4c4b7233-0607-599e-b2f5-53c362fd6818' => [
-        'If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.',
-        'Albert Einstein',
-    ],
-    'd8b349f5-eebe-5106-ac50-ea198e44c8c6' => [
-        'If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.',
+    'c6768104-3188-50b2-bca3-7603e597c0bb' => [
+        'The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.',
         'Dalai Lama',
     ],
-    '53ac3dfa-35a1-57b3-b38b-bccb39369f94' => [
-        'The reason most goals are not achieved is that we spend our time doing second things first.',
-        'Robert McKain',
+    '2f8faffa-8b4f-55e5-874a-9308c2d93ad2' => [
+        '\'Narnia\' has opened my eyes to a lot of things. I feel lucky that I\'m able to travel; I\'m not stuck in my hometown, meeting the same kind of girls and saying hi to the same people, week after week. There are so many interesting, intelligent girls out there.',
+        'William Moseley',
     ],
-    '3935131c-f561-512a-a3e0-ca4defa09aba' => [
-        'Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.',
-        'Hannah Arendt',
+    'b0ffe1bf-d5f9-5895-9d73-6af9cf1d4d9d' => [
+        'I was sleeping the other night, alone, thanks to the exterminator.',
+        'Emo Philips',
     ],
-    '7f19e0db-5851-5110-8ce4-72b8d1d0132e' => [
-        'I\'m allergic to attitude.',
-        'Megan Boone',
+    'c45ad9f2-23aa-594b-a5c1-40e21a6e0433' => [
+        'People with a sense of humor tend to be less egocentric and more realistic in their view of the world and more humble in moments of success and less defeated in times of travail.',
+        'Bob Newhart',
     ],
-    '67c1653b-6321-55da-8cf7-93f27079f91c' => [
-        'A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.',
-        'David Brinkley',
+    'ebfc6e7d-af4d-5f82-8d5e-29b3030bb9de' => [
+        'Pour on, I will endure.',
+        'William Shakespeare',
     ],
-    '9831c404-67ac-54d9-9d1e-eb18a55a20b5' => [
-        'My daughter is my biggest achievement. She is a little star and my life has changed so much for the better since she came along.',
-        'Orison Swett Marden',
+    '313f7a4e-d09c-510d-ade1-a41a0d7488df' => [
+        'The inventory process and stepping back in your life can sometimes be a very dark process. But it also can be extremely funny and surprising.',
+        'Craig Charles',
     ],
-    'bb777d3c-e547-5e33-bb61-f2eef92eba20' => [
-        'Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success.',
-        'C. S. Lewis',
+    '39b14ef2-d11b-5266-b423-991cc6bdf6cb' => [
+        'I don\'t have any office; I can write everywhere. So, I put a piece of paper on the table, and then I travel. Literally, writing for me is like travelling. It\'s getting out of myself and living another life - maybe a better life.',
+        'J. M. G. Le Clezio',
     ],
-    '7bad0736-eaaa-5608-ac55-6d5c6e2f4f38' => [
-        'The meaning of things lies not in the things themselves, but in our attitude towards them.',
-        'Antoine de Saint-Exupery',
+    'cba59cff-bf27-508d-a6d9-faf04319158b' => [
+        'There\'s nothing better than having a baby. I\'ve always loved children. I used to work summers at the YMCA and be in charge of, like, 30 preschool kids. I knew that when I had a child, I\'d be overwhelmed, and it\'s true... I can\'t tell you how much my attitude has changed since we\'ve got Frances. Holding my baby is the best drug in the world.',
+        'Kurt Cobain',
     ],
-    '996b7f0f-53c0-5f08-bd02-752f9bb12fec' => [
-        'We are all inclined to judge ourselves by our ideals; others, by their acts.',
-        'Harold Nicolson',
+    '0187e660-9f6d-5315-8d6a-aaf3b09870fd' => [
+        'He looks as though he\'s been weaned on a pickle.',
+        'Alice Roosevelt Longworth',
     ],
-    'b359a2f7-99d0-5abe-851b-4891eaae062f' => [
-        'When there is no enemy within, the enemies outside cannot hurt you.',
-        'African proverb',
+    'cfee7a21-bbc6-5a2a-8fa5-944948a3026d' => [
+        'We have shown that it is possible to create a radioactivity characterized by the emission of positive or negative electrons in boron and magnesium by bombardment with alpha rays.',
+        'Irene Joliot-Curie',
     ],
-    '7e25f907-a7d5-57b9-9299-c7d7df922721' => [
-        'I think the thing I miss most in our age is our manners. It sounds so old-fashioned in a way. But even bad people had good manners in the old days, and manners hold a community together, and manners hold a family together; in a way, they hold the world together.',
-        'Nancy Friday',
+    '1d1282e0-3f92-51f7-a563-efe70df93e66' => [
+        'When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.',
+        'Audre Lorde',
     ],
-    '39405504-2229-58d0-8727-6ce1f6aeb31f' => [
-        'The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.',
-        'Winston Churchill',
+    '04b833ae-ee9e-5def-8465-4aa4cd5e3df2' => [
+        'When you don\'t know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.',
+        'Unknown',
     ],
-    '792cc0d8-b9cd-5491-85a9-d28b908021f6' => [
-        'Since we launched the original \'Pop Idol\' in England, I\'ve remained close with Simon Fuller. Working as executive producer on \'American idol\' for its first seven years not only was an inspirational journey into the heart of American pop culture, it opened my eyes to the untapped potential of the incredibly dynamic young people in this world.',
-        'Nigel Lythgoe',
+    'd5454d75-063c-5407-808d-c827cb782656' => [
+        'Don\'t settle for a relationship that won\'t let you be yourself.',
+        'Oprah Winfrey',
     ],
-    '732a2f32-2ed8-520a-8653-9f44c7501421' => [
-        'It is the combination of reasonable talent and the ability to keep going in the face of defeat that leads to success.',
-        'Martin Seligman',
+    '2a303ef8-aefe-5374-a00f-23990f6075e2' => [
+        'Regardless of the gender of the highest wage earner, the balance of power in the relationship will suffer if the higher earner uses control of the purse strings as a system of reward and punishment. It will also suffer if the lower earner takes a chippy, haughty attitude to spending money they haven\'t actually generated themselves.',
+        'Marian Keyes',
     ],
-    '4113db0f-6c65-5610-a76a-8d691c80c033' => [
-        'Imagination creates reality.',
-        'Richard Wagner',
+    'bf13e79e-41a4-583d-a083-62c7d767876a' => [
+        'Life is the flower for which love is the honey.',
+        'Amisha Patel',
     ],
-    '240e71f2-0972-511c-bf1c-8a5227aa1faf' => [
-        'By nature, every individual has the right to govern himself; and governments, whether founded on majorities or minorities, must derive their right from the assent, expressed or implied, of the governed,, and be subject to such limitations as they may impose.',
-        'John C. Calhoun',
+    '9916560d-f169-54c4-98d0-8db00675d62f' => [
+        'I perhaps owe having become a painter to flowers.',
+        'Claude Monet',
     ],
-    '5c7a92f5-fc5e-5486-a57d-3651485e37ef' => [
-        'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.',
-        'Everett Dirksen',
+    '9331a6a1-f85e-56b3-b18f-373508dfa835' => [
+        'I say that I get paid to travel, and I play the shows for free.',
+        'Tyler Farr',
     ],
-    'f1b1faf7-5de0-5097-8248-21aa79a2f5e6' => [
-        'I have to travel a lot, but relaxation to me is when I am at home.',
-        'Mikhail Khodorkovsky',
+    'de4c8efa-1a7e-5d2f-851c-fa45326965cd' => [
+        'If you don\'t die of thirst, there are blessings in the desert. You can be pulled into limitlessness, which we all yearn for, or you can do the beauty of minutiae, the scrimshaw of tiny and precise. The sky is your ocean, and the crystal silence will uplift you like great gospel music, or Neil Young.',
+        'Anne Lamott',
     ],
-    '41e09327-edc4-5020-93ce-0c89345ef5e9' => [
-        'In a time not distant, it will be possible to flash any image formed in thought on a screen and render it visible at any place desired. The perfection of this means of reading thought will create a revolution for the better in all our social relations.',
-        'Nikola Tesla',
+    'c2297d77-4c48-5f68-9ace-f8c02e539dcd' => [
+        'Show me one guy or woman as funny as Rodney Dangerfield or as good as George Carlin, Richard Pryor, Bill Cosby, or Joan Rivers. There are a lot of good comics out there, no doubt, but as far as the quality of the comics goes, I think what you have is a bunch of situational comics.',
+        'Chris Rock',
     ],
-    '238df164-bdf2-5250-95d6-9170bda7751f' => [
-        'You will not be punished for your anger, you will be punished by your anger.',
+    'f6304032-de16-55ed-af7b-c20ba33ee47a' => [
+        'The final proof of greatness lies in being able to endure criticism without resentment.',
+        'Elbert Hubbard',
+    ],
+    '95cbb6cf-e08e-5aea-9879-19393e41e535' => [
+        'Our greatness lies not so much in being able to remake the world as being able to remake ourselves.',
+        'Mahatma Gandhi',
+    ],
+    '2412533f-6682-5b45-bff4-ed112f9e7784' => [
+        'Beauty is a fragile gift.',
+        'Ovid',
+    ],
+    'e8eb06fe-99c6-55c0-bad4-6d8e81f2c118' => [
+        'Writing is hard work: it is like doing homework for the rest of your life. You are always chipping away at it.',
+        'John Lutz',
+    ],
+    '55eb44f1-65cb-59b9-9556-98348323bdae' => [
+        'Your heaviest artillery will be your will to live. Keep that big gun going.',
+        'Norman Cousins',
+    ],
+    'f4efb5a5-d184-5ce9-b47b-6033dea824bc' => [
+        'The best part of beauty is that which no picture can express.',
+        'Francis Bacon',
+    ],
+    '309cd54d-fc86-5c9f-9f7c-9d24a217f2be' => [
+        'I had a really bad temper, when I was growing up. Sport helped me channel that temper into more positive acts.',
+        'Mike Krzyzewski',
+    ],
+    '6365d5aa-5f56-564f-a0cb-34c88f213dc1' => [
+        'I am very close to my family. I have learned a lot from my father. He used to tell me to be honest with yourself and not to argue with your seniors. You don\'t need to be involved in any quarrel, as sometimes you need to remain silent intelligently.',
+        'Suresh Raina',
+    ],
+    '2ee9ffb8-ba8d-56ba-8579-4614fc48ac90' => [
+        'O, thou art fairer than the evening air clad in the beauty of a thousand stars.',
+        'Christopher Marlowe',
+    ],
+    '17be54df-8f8c-5695-bc05-5833d24f12a8' => [
+        'Being rich is a good thing. Not just in the obvious sense of benefitting you and your family, but in the broader sense. Profits are not a zero sum game. The more you make, the more of a financial impact you can have.',
+        'Mark Cuban',
+    ],
+    '5ca8164b-392d-5f01-b5b2-34ea9239ac3b' => [
+        'Peace comes from within. Do not seek it without.',
         'Buddha',
     ],
-    'b372e3fe-530c-5d0c-89dd-d7d409bcc942' => [
-        'Making better choices takes work. There is a daily give and take, but it is worth the effort.',
-        'Tom Rath',
+    '7be55108-3d53-5097-83e2-3ed12faca6c5' => [
+        'Time management is an oxymoron. Time is beyond our control, and the clock keeps ticking regardless of how we lead our lives. Priority management is the answer to maximizing the time we have.',
+        'John C. Maxwell',
     ],
-    '3566e6a1-60c8-5be0-9b5d-172256c6905f' => [
-        'Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours.',
-        'Orison Swett Marden',
+    'b508e8d5-f368-5fb0-bfe3-2bd2dc57410b' => [
+        'All I really need to know... I learned in kindergarten.',
+        'Thomas Merton',
     ],
-    'd5d93ea6-3c1b-5441-aafd-4de1b0a719c8' => [
-        'Sid Vicious began the age of participation in which everyone could be the artist. Sid proved that you don\'t have to play well to be the star. You can play badly, or not even at all. I endorsed that attitude. If you can\'t write songs, no problem - simply steal one and change it to your taste.',
-        'Malcolm Mclaren',
+    '67d32030-ffbb-5d3c-8630-ab5af66b6596' => [
+        'Looking good is the best revenge.',
+        'Ivana Trump',
     ],
-    '61eae854-175c-5495-8ee4-ff7c75b9ac81' => [
-        'It pays to cultivate popularity. It doubles success possibilities, develops manhood, and builds up character.',
-        'Orison Swett Marden',
+    'e1bd21b9-ac93-5059-a9d7-4c138bdcde2b' => [
+        'I\'ve been on both sides: the victim and the villain. I was the victimised model, and everything from my weight to my fertility was held up for discussion. And then I was the person that could garner some kind of positive outcome, by taking on the role of vice chairman of the British Fashion Council and becoming an activist of body image.',
+        'Erin O\'Connor',
     ],
-    '04f229e1-9f61-5420-b390-f632c271b0b7' => [
-        'Little minds are tamed and subdued by misfortune; but great minds rise above it.',
-        'Washington Irving',
+    '23142b92-7556-5fae-be97-914dc099097d' => [
+        'We\'re kind of the comic relief of this movie because most of the stories are very dark. And that\'s why these plays were so great, because it\'s such a dark, dark universe that it becomes funny because it\'s just too pathetic.',
+        'Caroline Dhavernas',
     ],
-    '126d5266-d67c-52d6-81b9-26cbb555ee83' => [
-        'Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.',
-        'Marcus Aurelius',
+    '04c6f05d-d0c8-5413-9398-cecc8920a2c3' => [
+        'Trust because you are willing to accept the risk, not because it\'s safe or certain.',
+        'Unknown',
     ],
-    'cfe4b9b4-815d-53d1-a91f-d978964f0fc9' => [
-        'Tennis is all about mental toughness, and you have to keep your head in the game. I make time to relax away from competition pressures, travel and intense training schedules to make sure I\'m looking after myself. Taking time out with family and friends helps to maintain the work-life balance everyone needs.',
-        'Samantha Stosur',
+    'c6a8a0d0-0a1f-5bc2-b6ff-79b645eb3580' => [
+        'My quick beauty tip is always have a tinted gloss of some kind to give you some color even if you have no makeup on.',
+        'Rachel Bilson',
     ],
-    '31ac8c1e-9eb7-5a03-b88f-c90e5b355d4e' => [
-        'Life moves so fast. You gotta document the good times, man.',
-        'Nas',
+    'fcdbaae6-8898-57a9-ab51-e7ab247ab7d2' => [
+        'Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now! There are only so many tomorrows.',
+        'Regina Brett',
     ],
-    '4eb62d93-e52a-5214-83eb-9b1558998a5e' => [
-        'As I get older, I just prefer to knit.',
-        'Tracey Ullman',
+    'bc04f2c1-117a-54f2-8f5f-ddde3e1f21b3' => [
+        'When you walk into a doctor\'s office, you\'ve got to have the same attitude you would about anything else. You\'ve got to ask tough questions, and you\'ve got to not be afraid to challenge their credentials.',
+        'Tom Brokaw',
     ],
-    '53d38271-7d6d-5d27-9f17-99f08669177a' => [
-        'If the sight of the blue skies fills you with joy, if a blade of grass springing up in the fields has power to move you, if the simple things of nature have a message that you understand, rejoice, for your soul is alive.',
-        'Eleonora Duse',
+    'df312079-8c58-51ca-aea8-2b6f85da8f86' => [
+        'Persistence and resilience only come from having been given the chance to work though difficult problems.',
+        'Gever Tulley',
     ],
-    '9af147db-dd35-56d6-8c50-752f3d165f9f' => [
-        'I think it\'s really important to use your hands and get close to materials. To be up close to real things like rain and mud; to have contact with nature.',
-        'Robin Day',
+    '5e58b704-75b3-5110-b91c-c37e5f65323e' => [
+        'In a gentle way, you can shake the world.',
+        'Mahatma Gandhi',
     ],
-    'fc949f49-ceb2-5f84-b0ff-a0734d6126db' => [
-        'The ideal and the beautiful are identical; the ideal corresponds to the idea, and beauty to form; hence idea and substance are cognate.',
-        'Victor Hugo',
+    '2793289a-ad60-5190-a26d-b2fe5e1903c1' => [
+        'Work while you have the light. You are responsible for the talent that has been entrusted to you.',
+        'Henri-Frederic Amiel',
     ],
-    'c6ebbf87-a6ea-5ad2-8fd1-bd0a30495c23' => [
-        'Birds sing after a storm; why shouldn\'t people feel as free to delight in whatever sunlight remains to them?',
-        'Rose Kennedy',
+    '904b0efb-1f2f-51ca-af3b-e7fc1bc44ccd' => [
+        'For my part I know nothing with any certainty, but the sight of the stars makes me dream.',
+        'Vincent Van Gogh',
     ],
-    '9509a832-bea4-5345-be18-6ee0bfd57ac4' => [
-        'You should also appreciate the goodness around you, and surround yourself with positive people.',
-        'Nadia Comaneci',
+    'c802c075-d76d-5236-a414-780c0b2d1863' => [
+        'I wasn\'t as used to the new dumb questions, so when men I had once thought of as wise daddies now asked me \'How do you write?\' I did not try and spill red wine in their suede pants. I would just smile and say, \'On a typewriter in the mornings when there\'s nothing else to do.\'',
+        'Eve Babitz',
     ],
-    '006170d5-b500-50af-9cd2-de441fe1216b' => [
-        'The greatest part of our happiness depends on our dispositions, not our circumstances.',
-        'Martha Washington',
+    '277ea1a9-85b5-50aa-9d48-76f63fa70ddb' => [
+        'There comes a time in the affairs of man when he must take the bull by the tail and face the situation.',
+        'W. C. Fields',
     ],
-    'd351fe4f-e672-5e0e-a0e1-d5b938df275b' => [
-        'Start where you are. Use what you have. Do what you can.',
-        'Arthur Ashe',
+    '0d9468ee-1c06-5431-9fa3-1341c25ffc44' => [
+        'If you continue to work hard, let that be the fuel to your fire.',
+        'Pitbull',
     ],
-    'cd656fef-9441-5edc-ad20-4124f2e67d49' => [
-        'A weed is no more than a flower in disguise.',
-        'James Lowell',
+    'e96e05c5-0726-5517-915b-20e1f6b3b2ab' => [
+        'The key to success is to focus our conscious mind on things we desire not things we fear.',
+        'Brian Tracy',
     ],
-    'ce7ff1c4-2294-5b78-9a90-a049082ac35d' => [
-        'A man is a better citizen of the United States for being also a loyal citizen of his state and of his city; for being loyal to his family and to his profession or trade; for being loyal to his college or his lodge.',
-        'Louis D. Brandeis',
+    'e0213ffc-082f-57ab-bff3-1859e92abc89' => [
+        'And Fall, with her yeller harvest moon and the hills growin\' brown and golden under a sinkin\' sun.',
+        'Roy Bean',
     ],
 ];

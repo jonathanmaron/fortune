@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '5e79188b-22ad-5590-89b7-09a755642bab' => [
-        'I think what\'s important in a good manager and a good agent is that they know your vision and that they are passionate about you and believe in you. Because if they don\'t, then they\'re not going to work hard for you, and they\'re going to send you out on things that you don\'t want to do.',
-        'Maiara Walsh',
+    'c148c78f-27f8-5654-8766-39350f4ea7bd' => [
+        'I get to travel, see the world, meet people and be independent. I feel blessed.',
+        'Bar Refaeli',
     ],
-    'c359d47a-8651-599b-971a-6b806f221501' => [
-        'I know all I really wanna do is get money and take care of my family.',
-        'Meek Mill',
+    '1eb2e183-961d-5828-96d6-201c4e396a16' => [
+        'We don\'t make mistakes, just happy little accidents.',
+        'Bob Ross',
     ],
-    'f6c58744-73e7-5d65-980c-bc30af7b9c82' => [
-        'Sometimes negative news does come out, but it is often exaggerated and manipulated to spread scandal. Journalists sometimes risk becoming ill from coprophilia and thus fomenting coprophagia: which is a sin that taints all men and women, that is, the tendency to focus on the negative rather than the positive aspects.',
-        'Pope Francis',
+    'b7ceeefc-749e-559e-8096-d2c11b8910ed' => [
+        'I\'m a big advocate of the power of positive thinking, particularly for small businesses.',
+        'Kevin Plank',
     ],
-    '5b00b458-e0e5-5304-8ad6-2e02997f89fa' => [
-        'I haven\'t spoken to my wife in years. I didn\'t want to interrupt her.',
-        'Rodney Dangerfield',
+    '9a348ff0-5c3c-5e20-8d34-4cb06c84b5b1' => [
+        'The grass is always greener on the other side. We are busy applying fairness creams while people in the West go bare-bodied on the beach to get a tan. Indian girls have ruled the roost when it comes to beauty pageants. I flaunt my complexion, and I am proud to be noticed as an Indian wherever I go.',
+        'Shilpa Shetty',
     ],
-    'e43394e1-37e4-5cb5-850b-de81da6ce1a3' => [
-        'At the time I was arrested I had no idea it would turn into this. It was just a day like any other day. The only thing that made it significant was that the masses of the people joined in.',
-        'Rosa Parks',
+    'dd234ba3-7905-59dd-8639-89ccac3893b1' => [
+        'I tried without much success to learn a little of the humanities and the arts, but even passing the courses in art history and music history was a challenge.',
+        'John C. Mather',
     ],
-    'bb207718-ca69-5bb0-856d-f072b1d8b73d' => [
-        'It\'s a positive thing to talk about terrible things and make people laugh about them.',
-        'Louis C. K.',
+    '7968d8bd-012d-55b4-b721-22fea504fa17' => [
+        'Don\'t give up. Don\'t lose hope. Don\'t sell out.',
+        'Christopher Reeve',
     ],
-    '7392f6be-f2c7-5224-9aab-0d8917ef4ea1' => [
-        'Autism doesn\'t have to define a person. Artists with autism are like anyone else: They define themselves through hard work and individuality.',
-        'Adrienne Bailon',
+    'be282d56-36d2-503f-8e56-41e4af2843d2' => [
+        'There is a very deep conviction in the heart of the people who work in al-Jazeera that if it changes its editorial line, it will very quickly lose its audience. Al-Jazeera has its own style; it has more than 3,500 employees, and I don\'t think anyone will have the attitude of changing it because they will lose.',
+        'Wadah Khanfar',
     ],
-    'cc7a0f5e-16bf-578f-a488-b9bf419596ba' => [
-        'I would define, in brief, the poetry of words as the rhythmical creation of Beauty.',
-        'Edgar Allan Poe',
+    'd01ee2cf-8a1e-58f0-bbe5-c6ef663a3391' => [
+        'I love Ralph Lauren. As I travel so much, I prefer to shop online.',
+        'Meghan Markle',
     ],
-    'be9af6e6-6e28-5890-aabf-a703ac71ef9f' => [
-        '\'Chef\' is a dish of arroz con pollo served with a smile but not much style. The critic in the film would give it a low grade, for agreeability without ambition.',
-        'Richard Corliss',
+    'c7902a25-519e-5dc5-ae85-39c31ccf69e8' => [
+        'If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.',
+        'Abraham Lincoln',
     ],
-    'eb93a2ec-e7b3-5b6e-800b-554833c14326' => [
-        'I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.',
-        'James Best',
+    '874ff4e8-55ce-57c0-9dd9-421581565694' => [
+        'Enhancing a woman\'s silhouette and enhancing a woman\'s beauty - both contribute to enhancing her confidence, so they\'re synonymous, really.',
+        'L\'Wren Scott',
     ],
-    'ca9437a2-b6a9-566e-b4b0-08c45ce27838' => [
-        'To give anything less than your best, is to sacrifice the gift.',
-        'Steve Prefontaine',
+    'aeacaee6-9a82-5da9-8474-28c7e14245d3' => [
+        'I\'ve always fed off negativity and wanting people to hate me. That attitude really fueled me for my entire career. So being a guy that people like and want to cheer for is the weird part.',
+        'Dean Ambrose',
     ],
-    '9e7af982-f8d8-5fa7-9dc2-891f7f24a36d' => [
-        'There is an attitude that we should be able to have everything. No, you shouldn\'t be able to have anything. I\'d like a helicopter, but I can\'t afford a helicopter, so I don\'t buy one. People are buying stuff they can\'t afford on credit. I bought my Ford hybrid with cash.',
-        'Grace Slick',
+    '6739469d-28c8-5e62-bbc3-e3255d2bcc99' => [
+        'You don\'t want to love - your eternal and abnormal craving is to be loved. You aren\'t positive, you\'re negative. You absorb, absorb, as if you must fill yourself up with love, because you\'ve got a shortage somewhere.',
+        'D. H. Lawrence',
     ],
-    '26aac7b2-3e24-586d-a6c8-55b1bb2c5678' => [
-        'My mom loved fashion. We loved to travel and go to Italy and Paris.',
-        'Melania Trump',
+    '701c9cc7-97ab-5538-852b-666318d79156' => [
+        'If you have a friend or family member with breast cancer, try not to look at her with \'sad eyes.\' Treat her like you always did; just show a little extra love.',
+        'Hoda Kotb',
     ],
-    '21f8f2d2-4d85-5586-b24e-80aec89be2cf' => [
-        'He not busy being born is busy dying.',
-        'Tony Robbins',
+    '13649aff-5654-5206-8cbc-087d51329dc8' => [
+        'Working hard and working smart sometimes can be two different things.',
+        'Byron Dorgan',
     ],
-    '55aaaa8e-689c-51ee-9b0b-4634ec98b1d6' => [
-        'In my career, there\'s many things I\'ve won and many things I\'ve achieved, but for me, my greatest achievement is my children and my family. It\'s about being a good father, a good husband, just being connected to family as much as possible.',
-        'David Beckham',
+    '27c7b4ca-8db4-5e08-877c-c739a3914cd4' => [
+        'No student ever attains very eminent success by simply doing what is required of him: it is the amount and excellence of what is over and above the required, that determines the greatness of ultimate distinction.',
+        'Charles Kendall Adams',
     ],
-    '4453ed0c-8492-555f-9e8b-3bc48ad9e450' => [
-        'At first, I found the music I was making really hard to find a home for. I felt like my attitude was really British, but not the actual sounds I was making. Back in 2003, when I made \'Galang,\' there were no clubs that had an \'anything and everything\' attitude.',
-        'M.I.A.',
+    'a7c53b8e-4d73-5d50-874f-14f403526f66' => [
+        'To travel is to take a journey into yourself.',
+        'Danny Kaye',
     ],
-    '3ef98a9c-2fd4-55f0-ad10-4b44a004ffa7' => [
-        'Keep all special thoughts and memories for lifetimes to come. Share these keepsakes with others to inspire hope and build from the past, which can bridge to the future.',
-        'Mattie Stepanek',
+    'caca6102-c0b0-5073-b198-9d5bb5e56801' => [
+        'Very gifted people, they win and they win, and they are told that they win because they are a winner. That seems like a positive thing to tell children, but ultimately, what that means is when they lose, it must make them a loser.',
+        'Joshua Waitzkin',
     ],
-    '466f28bc-ea23-5ae1-a5d0-f5b26b7068bb' => [
-        'My father leaving the family shaped who I was and how I looked at the world. By the same token, my father telling me fairy tales that he had made up shaped me profoundly, too.',
-        'Kate DiCamillo',
+    '501c0c92-69d7-5dc2-a63b-b6640f2a2bac' => [
+        'Money does not guarantee success.',
+        'Jose Mourinho',
     ],
-    '8261ac42-0c29-54b1-96c5-7aa82f3543c5' => [
-        'You\'ve got to know how to hustle. I got a lot of inspiration from my parents. My father was definitely a hustler. With six kids in the house, you always got to be hustling. And my mom, she\'s got sick work ethic.',
-        'Jay Pharoah',
+    '8a05ef7e-b186-5d3c-ad48-3847765c31ca' => [
+        'An investigator starts research in a new field with faith, a foggy idea, and a few wild experiments. Eventually the interplay of negative and positive results guides the work. By the time the research is completed, he or she knows how it should have been started and conducted.',
+        'Donald Cram',
     ],
-    '500bbbf8-c1be-5eab-ab56-e2e1ab157f48' => [
-        'If you are fearful, a horse will back off. If you are calm and confident, it will come forward. For those who are often flattered or feared, the horse can be a welcome mirror of the best in human nature.',
-        'Clare Balding',
+    '78abd749-e6cb-5545-867e-3e4b5fd4a661' => [
+        'I had an attitude problem when I was a kid. I\'m not gonna lie.',
+        'Tionne Watkins',
     ],
-    '9ab4c6f1-b7c4-5462-809d-9724b086d44c' => [
-        'I am a hopeless romantic who falls in lust and gets in trouble. I love my work and am very productive, yet I always find time to play.',
-        'Maksim Chmerkovskiy',
+    '8b90f75c-cc2a-5bcd-8c2d-e085e79b0947' => [
+        'You were made perfectly to be loved - and surely I have loved you, in the idea of you, my whole life long.',
+        'Alia Bhatt',
     ],
-    '2b255286-6038-5077-95f6-da257b024235' => [
-        'Every man has a sane spot somewhere.',
-        'Robert Louis Stevenson',
+    '58e94185-9416-5906-8cba-795321ad00d6' => [
+        'My parents have a strong work ethic, but their attitude to life, their philosophy, is: \'whatever makes you happy.\'',
+        'Sally Hawkins',
     ],
-    '4475cf34-6d5f-59f4-9a8f-69126cfbcbac' => [
-        'Without work, all life goes rotten. But when work is soulless, life stifles and dies.',
-        'Albert Camus',
+    '1729ec69-6964-586b-81ea-5ea82ff42a24' => [
+        'He who obtains has little. He who scatters has much.',
+        'Richard Braunstein',
     ],
-    '8f18b36e-44da-56ac-afe4-b001b9cf311f' => [
-        'Only on paper has humanity yet achieved glory, beauty, truth, knowledge, virtue, and abiding love.',
-        'George Bernard Shaw',
+    '5d30e5a6-838e-5791-92e6-2b12e625b1d9' => [
+        'I just live life. I grew up in a Christian family, but, you know, the way Mom brought me up is to, you know, do you, to always be yourself.',
+        'Tyler, The Creator',
     ],
-    '6b1e25bb-258d-5285-a1a4-4e6f57e86c33' => [
-        'You can\'t really say what is beautiful about a place, but the image of the place will remain vividly with you.',
-        'Tadao Ando',
+    '940f8c71-8d10-5279-be2d-946ef76bf6f8' => [
+        'It is only when I am doing my work that I feel truly alive.',
+        'Federico Fellini',
     ],
-    '41cae6c4-7bf9-5770-880f-42ee9f092315' => [
-        'I discovered that the horse is life itself, a metaphor but also an example of life\'s mystery and unpredictability, of life\'s generosity and beauty, a worthy object of repeated and ever changing contemplation.',
-        'Jane Smiley',
+    '438f9e76-7d29-5619-8ed7-5ca6c344e3fa' => [
+        'There was part of me that wanted to see the world and travel to distant places, but I could only do it in my imagination, so I read ferociously and imagined things.',
+        'George R. R. Martin',
     ],
-    'd4bd34fc-1a1e-54ba-87c9-8331d70e01f9' => [
-        'Without football, my life is worth nothing.',
-        'Lord Byron',
+    '74eba3e0-c38d-5f06-a4d4-b50fb0ea01b3' => [
+        'Every moment and every event of every man\'s life on earth plants something in his soul.',
+        'Thomas Merton',
     ],
-    '2a195ff4-e47f-5c84-913c-8d30404e095e' => [
-        'I have a few go-to moves like jazz hands, shake the booty, stupid eyes. It was once a mating ritual, but now it\'s all about looking silly and making the kids smile.',
-        'John Cho',
+    'd9677d15-66ca-53d8-9791-c51445689a74' => [
+        'Being black is not a matter of pigmentation - being black is a reflection of a mental attitude.',
+        'Steven Biko',
     ],
-    '4949c997-b556-5de0-a84a-b4be9f37f7c0' => [
-        'The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.',
-        'Lech Walesa',
+    '1b6241f0-120c-5837-9ac2-ee9d3e3d55a9' => [
+        'The follow your dreams thing is really important because so many people are railroaded into taking other paths by their family, their friends, people who should be supportive going, \'What are you talking about?\' Even just seemingly regular career paths, but if it\'s not what people expect for you they kind of react funny.',
+        'Joan Jett',
     ],
-    '31264870-4442-553e-ab66-0f94ae23fa64' => [
-        'The willow is my favorite tree. I grew up near one. It\'s the most flexible tree in nature and nothing can break it - no wind, no elements, it can bend and withstand anything.',
-        'Pink',
+    '1844f224-a9f0-5aca-a19a-609be7b9ecdf' => [
+        'I have a tendency to sabotage relationships; I have a tendency to sabotage everything. Fear of success, fear of failure, fear of being afraid. Useless, good-for-nothing thoughts.',
+        'Michael Buble',
     ],
-    '7231f879-cbb1-5255-986a-439abdc4a06d' => [
-        'There is perhaps nothing so bad and so dangerous in life as fear.',
-        'Lindsey Vonn',
+    '04d9f31a-b859-5738-8509-ddc52dfc4eb0' => [
+        'Lee\'s great gifts are teaching and inspirational guidance, not administration and management.',
+        'Cheryl Crawford',
     ],
-    'e80f3b69-10b5-596b-99bb-2c96895ad5a2' => [
-        'Give yourself a gift of five minutes of contemplation in awe of everything you see around you. Go outside and turn your attention to the many miracles around you. This five-minute-a-day regimen of appreciation and gratitude will help you to focus your life in awe.',
+    '1d6b4c97-fb10-501d-8098-78bb90e24a37' => [
+        'What lies behind us and what lies before us are small matters compared to what lies within us.',
+        'Oliver Holmes',
+    ],
+    '93e242a4-d354-5e46-81ce-c4b3428fe430' => [
+        'The Internet has transformed many parts of our daily lives, touching everything from how we find information to how we go shopping, get directions, and even stay in touch with friends and family.',
+        'Dean Ornish',
+    ],
+    'a08eb9b9-fbf7-5d85-ae8b-35bdb30f160a' => [
+        'I still have a young attitude.',
+        'Pat Morita',
+    ],
+    '58a7d3d7-511d-5ae1-8e9a-7eee9347aa78' => [
+        'When you have seen one ant, one bird, one tree, you have not seen them all.',
+        'E. O. Wilson',
+    ],
+    '2ccc2e28-e940-50e5-90a5-63426db3f045' => [
+        'I look at the NFL and see how the transition has gone at quarterback. I might be coming along at a good time. For me personally, this is about doing the same thing I\'ve been doing at USF - just smile, have fun, enjoy the experience, keep a positive attitude and encourage my teammates. I like to feed off the people around me.',
+        'B. J. Daniels',
+    ],
+    '6bf39446-8601-55de-8803-4bdf6c070c41' => [
+        'Only the mediocre are always at their best.',
+        'Jean Giraudoux',
+    ],
+    '534218ad-15d0-536f-bcae-cae490ec27fa' => [
+        'There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time.',
+        'Malcolm X',
+    ],
+    '74b09675-b927-556e-9e04-3be8c8e29fcb' => [
+        'Nature, to be commanded, must be obeyed.',
+        'Francis Bacon',
+    ],
+    'd2555509-07e8-52b4-bc0a-74943b552f27' => [
+        'All know the way; few actually walk it.',
+        'Bodhidharma',
+    ],
+    'd87a86bd-3bb9-51c0-99f3-fcca12cee41b' => [
+        'The little windflower, whose just opened eye is blue as the spring heaven it gazes at.',
+        'William C. Bryant',
+    ],
+    'bf9a8a05-2c22-5360-b825-e5d6689150b6' => [
+        'Gamer humor ranges all over the place. What it comes down to is taking a lot of what we see in gaming and we\'re familiar with in gaming and being like, \'OK, hold on, let\'s re-examine this for a second. Isn\'t this funny? Isn\'t this strange? Isn\'t this a little bit ridiculous?\' That\'s where it is.',
+        'Freddie Wong',
+    ],
+    '41c22426-ce50-5bce-921c-c28260634a65' => [
+        'My optimism wears heavy boots and is loud.',
+        'Henry Rollins',
+    ],
+    '14a1ab9f-96a2-55da-a93d-8a3903dab38c' => [
+        'Personally, I just think rap music is the best thing out there, period. If you look at my deck in my car radio, you\'re always going to find a hip-hop tape; that\'s all I buy, that\'s all I live, that\'s all I listen to, that\'s all I love.',
         'Eminem',
     ],
-    '01d5880b-409b-5414-90f0-c0dfb22ff2dd' => [
-        'My family life reads a bit like \'Little House on the Prairie.\' I was big sister to Joan, Renee, and brother William, and we grew up in Dalkey, a little town 10 miles outside of Dublin. It was a secure, safe and happy childhood, which was meant to be a disadvantage when it comes to writing stories about family dramas.',
-        'Maeve Binchy',
+    'd0921ac6-0972-55a4-abb8-048c624946d6' => [
+        'Andean skiing offers an unforgettable combination of beach-style weather, great snow and exotic travel. There are many attractions. Here on the fringes of the Andes, skiers will find few lift queues, tickets 50% cheaper than France, and unique scenery that includes condors and Mount Aconcagua, the highest peak outside the Himalayas.',
+        'Jonathan Franklin',
     ],
-    '0aca31ac-d6dd-5a1c-909d-a65d9cb69d8e' => [
-        'Almost 70 percent of U.S. ag exports travel the upper Mississippi River and the Illinois waterway system.',
-        'Jerry Costello',
+    '87c5faa8-1c21-5741-8b9b-2c9fa448d6fd' => [
+        'A sense of the universe, a sense of the all, the nostalgia which seizes us when confronted by nature, beauty, music - these seem to be an expectation and awareness of a Great Presence.',
+        'Pierre Teilhard de Chardin',
     ],
-    '71490ce2-0afb-54ba-aa50-0ee1b7c207e2' => [
-        'If we are facing in the right direction, all we have to do is keep on walking.',
-        'Proverb',
+    '44866151-3e43-5e86-8a52-8c8a3ae4e566' => [
+        'I think it\'s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.',
+        'Leonard Nimoy',
     ],
-    '7adc9d5c-d7a7-58d4-b6c6-2acfd425846d' => [
-        'Honesty is the cornerstone of all success, without which confidence and ability to perform shall cease to exist.',
-        'Mary Kay Ash',
+    '63970a0e-96bf-5a5e-b010-4bd1f1ebc10c' => [
+        'Celibacy is not just a matter of not having sex. It is a way of admiring a person for their humanity, maybe even for their beauty.',
+        'Timothy Radcliffe',
     ],
-    'fabf0285-871f-5dc0-82f4-085f6fe006c1' => [
-        'Waking up sober is a good day. I love being able to wake up and do positive things, to go to the gym.',
-        'Rodney King',
+    '8da00ebf-83c2-5a98-a371-f2edbfda36e0' => [
+        'George loves the T Rex because it\'s the noisiest and the scariest.',
+        'Kate Middleton',
     ],
-    'fe49dc28-7e60-5425-a06f-ad24a11cb85f' => [
-        'You don\'t have to have anything in common with people you\'ve known since you were five. With old friends, you\'ve got your whole life in common.',
-        'H. Jackson Brown, Jr.',
-    ],
-    'e9bfead0-528e-50f4-8bff-d25167e5b0f7' => [
-        'In every relationship, the work is never just in the positive actions we do for each other, but in the follow up.',
-        'Yehuda Berg',
-    ],
-    'fc19dfba-8942-58dd-9de3-0843821a4f0b' => [
-        'The important thing is to learn a lesson every time you lose. Life is a learning process and you have to try to learn what\'s best for you. Let me tell you, life is not fun when you\'re banging your head against a brick wall all the time.',
-        'John McEnroe',
-    ],
-    '907775e7-72c0-5da7-84e2-dab5f66cd20d' => [
-        'Never let go of that fiery sadness called desire.',
-        'Patti Smith',
-    ],
-    'd2b479cf-5b86-5189-a202-84fdb40ec064' => [
-        'Like charity, I believe glamour should begin at home.',
-        'Loretta Young',
-    ],
-    '42af0404-2c87-5fd8-a6ba-5119b6ab645f' => [
-        'Prayer is man\'s greatest power!',
-        'W. Clement Stone',
-    ],
-    '13a39633-f0b8-5302-8168-4aa5254dc3b6' => [
-        'If you meet a woman in a burqa, she can\'t reply to your smile. It\'s a denial of identity.',
-        'Jean-Francois Cope',
-    ],
-    'e338afec-c93f-5b05-9e61-d4e8b38b7587' => [
-        'The least of things with a meaning is worth more in life than the greatest of things without it.',
-        'Carl Jung',
-    ],
-    'a49edffc-e54f-5272-9dbf-7890799962c1' => [
-        'The sport of horse racing which, at its best, showcases the majestic beauty of this animal and the athleticism of jockeys, has reached an alarming level of corruption and exploitation.',
-        'Tom Udall',
-    ],
-    '5d9f6e0e-bf79-55a7-9b75-7c4a005c87e5' => [
-        'Management must manage!',
-        'Harold S. Geneen',
-    ],
-    'f6502384-32c9-5ac9-b4a4-2d9c77fc7267' => [
-        'If you want to really know what your friends and family think of you die broke, and then see who shows up for the funeral.',
-        'Gregory Nunn',
-    ],
-    '8adf4797-dea1-55c9-b145-51db42590d5c' => [
-        'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
-        'Confucius',
-    ],
-    'cf3165a0-fdf8-5392-8797-ed0c3ef7fff7' => [
-        'We have a lot of people that are oppressed. We have a lot of people that aren\'t treated equally, aren\'t given equal opportunities. Police brutality is a huge thing that needs to be addressed. There are a lot of issues that need to be talked about, need to be brought to life, and we need to fix those.',
-        'Suze Orman',
+    'ee876027-6f84-5f6c-a16e-6920c16496cf' => [
+        'A child of five would understand this. Send someone to fetch a child of five.',
+        'Groucho Marx',
     ],
 ];

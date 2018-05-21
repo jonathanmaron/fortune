@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '4e05c643-f7b2-5290-9bc4-bc863e6a1a00' => [
-        'The Man Who Has Confidence In Himself Gains The Confidence Of Others.',
-        'Hasidic Proverb',
+    'e3703ae9-fec2-5c46-aac8-4030837acacf' => [
+        'It is not so important to know everything as to appreciate what we learn.',
+        'Hannah More',
     ],
-    'd68c8b33-f888-530f-86b2-0054fff5457e' => [
-        'Film is a much lonelier process than theatre. You really don\'t have any rehearsal time in film. You don\'t shape it together... with theatre, there is a complete kind of family atmosphere. The sociable side of this business is the theatrical side, it really isn\'t the film side.',
-        'Keira Knightley',
+    '331f7010-69c1-5ef9-8697-da8e5d25882f' => [
+        'True health infuses positive energy in the mind, body and spirit; it is a main focus in my life.',
+        'Maximillian Degenerez',
     ],
-    '50e15939-9617-5972-b9db-a580e03ee7ae' => [
-        'Faces that have charmed us the most escape us the soonest.',
-        'Walter Scott',
+    '15743657-4155-5339-b8c8-93125ed528f3' => [
+        'My life motto is \'Do my best, so that I can\'t blame myself for anything.\'',
+        'W. Clement Stone',
     ],
-    '4ad134ea-850f-5247-b226-6bcc1ec2c308' => [
-        'The monotony and solitude of a quiet life stimulates the creative mind.',
-        'Billie Jean King',
+    '762c18fc-da8c-5585-85a6-7b94cf9a2cac' => [
+        'Life is a process. We are a process. The universe is a process.',
+        'Anne Schaef',
     ],
-    '48131e17-249f-5e57-9653-7a5c60d648e8' => [
-        'We may regard the solar systems as separate sponges, swimming in a World of Divine Spirit, and thus it will be apparent that in order to travel from one solar system to another, it would be necessary to be able to function consciously in the highest vehicle of man, the Divine Spirit.',
-        'Max Heindel',
+    '38c7403b-6f39-50d9-b166-ef28f4c3aa6c' => [
+        'As the family goes, so goes the nation and so goes the whole world in which we live.',
+        'Pope John Paul II',
     ],
-    'd4430d1a-0d9f-51d4-8834-1ea55fd1ce2a' => [
-        'I am traveling less in order to be able to write more. I select my travel destinations according to their degree of usefulness to my work.',
-        'Jose Saramago',
+    'b75471d0-fa98-5b29-9221-dd87d036c595' => [
+        'Those songs are about getting out; they\'re not about getting out of family. It wasn\'t about how family life was curtailing because I didn\'t know family life.',
+        'Bob Geldof',
     ],
-    'f9b362bb-4dc8-5b7c-be6b-3b5b1cf3a26d' => [
-        'Our criminal justice system is fallible. We know it, even though we don\'t like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.',
-        'Eliot Spitzer',
+    '350cd5aa-7340-5091-83b6-3160bcd8db29' => [
+        'Having lots of siblings is like having built-in best friends.',
+        'Kim Kardashian',
     ],
-    '5133df39-d57a-55f4-a51f-6efe5a68a44c' => [
-        'A nickel ain\'t worth a dime anymore.',
-        'Yogi Berra',
+    'af822ea5-2a2a-5b90-a0b3-24e4aa0b0ecb' => [
+        'I went to a motivational training course once, a course of self-discovery, and I found out after a week that my fear - it was not a fear of not being accepted - was a very violent fear of failure.',
+        'Emanuel Steward',
     ],
-    'c54fc7da-edee-54b1-a132-83123850a2e4' => [
-        'Every video I\'ve made has an inspirational message behind it. Since day one, I thought, \'Okay, I want my audience to be, like, Disney members.\' So if that\'s the case, I have to keep everything rated G.',
-        'Michelle Phan',
-    ],
-    '06798db9-9d20-51c1-b172-220d0ba3feb3' => [
-        'The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.',
-        'Mohandas Gandhi',
-    ],
-    '39334ad4-6baf-589e-b1b8-053074d6b001' => [
-        'I have a little bit of that gamer spirit in me. I just don\'t have the time to be a gamer. But in another life, I would be one.',
-        'J. Cole',
-    ],
-    'd2cd9617-bf08-5134-87cb-f5b856f829fd' => [
-        'Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.',
-        'Michael Jackson',
-    ],
-    'e4c497ca-20f0-5e1c-b6b3-de31cd585ab1' => [
-        'It\'s so great to find that one special person you want to annoy for the rest of your life.',
-        'Buddha',
-    ],
-    'a53c775f-11ae-54fb-8a38-0f11760786f4' => [
-        'The meat that I choose to feed my family, it\'s healthy meats such as lamb, which is very low in cholesterol and saturated fat. And then turkey - we eat a lot of turkey. We don\'t eat loads of beef.',
-        'Tia Mowry',
-    ],
-    'd48e0992-c8aa-55ab-a5cf-edde9a8279c1' => [
-        'The moon is at her full, and riding high, Floods the calm fields with light. The airs that hover in the summer sky Are all asleep tonight.',
-        'William C. Bryant',
-    ],
-    '74de82cf-690a-5cec-8293-040708721358' => [
-        'I have had positive experiences with cameras. When I have been asked to join experiments using cameras in the courtroom, I have participated; I have volunteered.',
-        'Sonia Sotomayor',
-    ],
-    '9d87c2cc-b2d0-57a7-8a1c-9cc9f9bbe92f' => [
-        'As an African-American male born with a couple of strikes against you because of your skin color, I think it\'s very, very important to have some positive role models around, especially male influences.',
-        'Omari Hardwick',
-    ],
-    '772b6127-f4de-5806-b7bf-734f9d7d982a' => [
-        'President Obama called for a \'we\' nation in his Inauguration Address. Art convenes. It is not just inspirational. It is aspirational. It pricks the walls of our compartmentalized minds, opens our hearts and makes us brave. And that\'s what we need most in our country today.',
-        'Anna Deavere Smith',
-    ],
-    'b5a22e0e-1e24-598e-8e4e-5a33e06ee9ed' => [
-        'All is flux; nothing stays still.',
-        'Heraclitus',
-    ],
-    'c8eb8559-b422-52d9-b336-736e4459a842' => [
-        'Every perfect traveler always creates the country where he travels.',
-        'Nikos Kazantzakis',
-    ],
-    '78745a54-a9a6-5c8f-82d9-bbe10feb4fcb' => [
-        'Real estate sales was perfect training for the experience to go into public life because you learn to accept rejection, learn to meet new people, learn to work with people and find common ground. That\'s the way you sell houses... that\'s also the way you win over constituency.',
-        'Johnny Isakson',
-    ],
-    'a99dfe2a-c123-59eb-92c2-15394cb1735f' => [
-        'In the family, in interpersonal relationships, even in friendship, faith is tremendously important. If you have a partner who you believe is a good person, then it is your duty to have faith in them until the end, despite the fact that they might have done some bad things. And you have to support and believe in your children.',
-        'Greg Graffin',
-    ],
-    '9ffd86d4-bf39-564a-ae34-3810cc998dae' => [
-        'A lot of legends, a lot of people, have come before me. But this is my time.',
-        'Usain Bolt',
-    ],
-    '16ee1384-d57e-5fb3-8cbb-1ac6fe62fb52' => [
-        'The best thing one can do when it\'s raining is to let it rain.',
-        'Henry Wadsworth Longfellow',
-    ],
-    '878c9637-3163-5f2a-81f8-105a80eed919' => [
-        'The only durable sense of success is if you\'ve followed your calling.',
-        'Jim Harrison',
-    ],
-    'efa6f895-6600-5b89-9224-160f74122df4' => [
-        'I don\'t think I was a good model. I think I was born to emote and act. I would walk down the ramp and smile and they used to say, \'Give us a blank look.\' It was really difficult not to smile.',
-        'Anushka Sharma',
-    ],
-    '38fea124-ff03-53f3-8549-d5cad8633226' => [
-        'Instead of this confusion, we need the unifying force of an official language, English, which is the language of success in America.',
-        'Ernest Istook',
-    ],
-    '21f52f56-fcbe-5505-aa7a-ba40867ccc5b' => [
-        'As a person, I was born to give out my opinions. By giving out my opinions, I realize who I am. As long as I can communicate, I\'m not so lonely. If I cannot travel, or do art, or have company, if they take away all my belongings, it doesn\'t matter at all.',
-        'Ai Weiwei',
-    ],
-    'd68543a4-5e42-5881-a549-ee3bba5519a4' => [
-        'Don\'t pray when it rains if you don\'t pray when the sun shines.',
-        'Satchel Paige',
-    ],
-    '9a97768c-297f-5da3-9672-48d79e649548' => [
-        'Gambling: The sure way of getting nothing for something.',
-        'Wilson Mizner',
-    ],
-    'bc716978-c849-5be7-adc7-a62a942dece8' => [
-        'To be great is to be misunderstood.',
-        'Ralph Emerson',
-    ],
-    'b5c2f220-d5b4-57a7-8a0f-3858ce9402e9' => [
-        'Iraq is just a symbol of the attitude of western democracies to the rest of the world.',
-        'Harold Pinter',
-    ],
-    'e2a7b1c5-5e74-5b73-9103-7b3c58e70a0e' => [
-        'Photography is a small voice, at best, but sometimes one photograph, or a group of them, can lure our sense of awareness.',
-        'W. Eugene Smith',
-    ],
-    '4f71d802-6f86-5438-980f-b19ef0f9b5fa' => [
-        'Beauty does not linger; it only visits. Yet beauty\'s visitation affects us and invites us into its rhythm; it calls us to feel, think and act beautifully in the world: to create and live a life that awakens the Beautiful. A life without delight is only half a life.',
-        'John O\'Donohue',
-    ],
-    '2cae21ef-8e69-56e4-8a08-2ebdea22c5f0' => [
-        'How much we need, in the church and in society, witnesses of the beauty of holiness, witnesses of the splendour of truth, witnesses of the joy and freedom born of a living relationship with Christ!',
-        'Pope Benedict XVI',
-    ],
-    '3c851443-250b-5c7e-91c5-d06c1c154c3b' => [
-        'The best thing about animals is that they don\'t talk much.',
-        'Thornton Wilder',
-    ],
-    '582b4f8e-44e1-5297-844b-37fbb7a5656f' => [
-        'Love of man for woman - love of woman for man. That\'s the nature, the meaning, the best of life itself.',
-        'Zane Grey',
-    ],
-    '21b0b29d-301e-521a-8424-80f91622909a' => [
-        'You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.',
-        'Anatole France',
-    ],
-    '62ab2e84-063a-5d4e-b324-8f3c31776dfc' => [
-        'One who is kind is sympathetic and gentle with others. He is considerate of others\' feelings and courteous in his behavior. He has a helpful nature. Kindness pardons others\' weaknesses and faults. Kindness is extended to all - to the aged and the young, to animals, to those low of station as well as the high.',
+    '26e4f150-7831-5d7e-8ca9-3dc76d7d7830' => [
+        'Husbands, recognize your wife\'s intelligence and her ability to counsel with you as a real partner regarding family plans, family activities, and family budgeting. Don\'t be stingy with your time or with your means. Give her the opportunity to grow intellectually, emotionally, and socially as well as spiritually.',
         'Ezra Taft Benson',
     ],
-    'd71f4ef5-43b9-57c7-84a1-bca3e4e66d23' => [
-        'A person who has been punished is not less inclined to behave in a given way; at best, he learns how to avoid punishment.',
-        'B. F. Skinner',
+    '1fa54aac-8409-5141-8441-3778fbe8330d' => [
+        'I tend to be pessimistic about everything: If things seem to be going good, I\'m worried that it\'s going to end; if things are bad, then I\'m worried that it\'s going to be permanent. It\'s not a very comfortable attitude to have all the time.',
+        'Jesse Eisenberg',
     ],
-    '93fb79b7-1a77-54f5-a57f-6b38a6553542' => [
-        'How goodness heightens beauty!',
-        'Milan Kundera',
+    '0e7b0ca4-a90e-5a44-ba69-a36dc89f9357' => [
+        'If a man does his best, what else is there?',
+        'George S. Patton',
     ],
-    'fa8ee6b1-ca4e-55a7-bb67-9c1a03bee762' => [
-        'The level of our success is limited only by our imagination and no act of kindness, however small, is ever wasted.',
-        'Aesop',
+    'ecc74925-85a6-5587-96b8-8a88b4e829f5' => [
+        'The warrior may fight for gold or for an immediate gain, or for something to take home for the winter to feed the family. The soldier is part of a more complex society. He\'s fighting for a group ethic of some sort.',
+        'C. J. Cherryh',
     ],
-    'c365156f-8617-5287-8fcf-579890fa0f06' => [
-        'The idea that we should write towards the unknown aspects of our experience was totally groundbreaking for me. It gave me the license I needed to try to write outside myself. This attitude has deeply informed my approach to fiction, emboldening me to write characters with voices or situations that are vastly different from my own.',
-        'Molly Antopol',
+    '5e5452fa-b5de-5d7d-a140-76cd37e654fc' => [
+        'I remember my mother\'s prayers and they have always followed me. They have clung to me all my life.',
+        'Donna Brazile',
     ],
-    '23fb173a-5c72-59ee-81c4-ac22fb73fcc4' => [
-        'My definition of an intellectual is someone who can listen to the William Tell Overture without thinking of the Lone Ranger.',
-        'Billy Connolly',
+    '279f2fe2-bbb8-549a-873e-5e571a0ceab2' => [
+        'I never make a trip to the United States without visiting a supermarket. To me they are more fascinating than any fashion salon.',
+        'Wallis Simpson',
     ],
-    '67114f99-70b3-5d7c-a49c-a11b0708a69e' => [
-        'A friend is someone who understands your past, believes in your future, and accepts you just the way you are.',
-        'Unknown',
+    '862449fa-cfe5-5004-a5ee-38db6abca98e' => [
+        'In skating over thin ice our safety is in our speed.',
+        'Ralph Emerson',
     ],
-    '4b9563c3-1738-56d4-8953-73f8601259eb' => [
-        'I never did quite fit the glamour mode. It is life with my husband and family that is my high now.',
-        'Patty Duke',
+    'f3fe9727-082d-5c6d-9405-7a149ee3254b' => [
+        'I grew up in a big family with a lot of kids around, and I definitely want to have children as well.',
+        'Heidi Klum',
     ],
-    'bb105a60-ad14-550f-8a0c-c9840fb57903' => [
-        'Maybe all one can do is hope to end up with the right regrets.',
-        'Sonia Sotomayor',
+    '82190891-4498-5170-92e1-ad4d02d53785' => [
+        'In order to succeed, we must first believe that we can.',
+        'Nikos Kazantzakis',
     ],
-    '82e59777-93d7-5622-9d05-c782666331fe' => [
-        'Do, or do not. There is no try.',
-        'Yoda',
+    'ce7ff1c4-2294-5b78-9a90-a049082ac35d' => [
+        'A man is a better citizen of the United States for being also a loyal citizen of his state and of his city; for being loyal to his family and to his profession or trade; for being loyal to his college or his lodge.',
+        'Louis D. Brandeis',
     ],
-    '6f70f1f7-e665-5a29-bb4e-0c56ea628de3' => [
-        'The connection to place, to the land, the wind, the sun, stars, the moon... it sounds romantic, but it\'s true - the visceral experience of motion, of moving through time on some amazing machine - a few cars touch on it, but not too many compared to motorcycles. I always felt that any motorcycle journey was special.',
-        'Antoine Predock',
+    '7e78ce24-8c3b-5cd3-94da-751d2a3333ec' => [
+        'Sultan Mehmet had good relations with the Medici family and other powerful Italian clans, especially in Venice and Florence, and at his request, they sent him artists and craftsmen by the dozen.',
+        'Stephen Kinzer',
     ],
-    'ae3ee416-338f-5b48-9d7d-b695698b0bf6' => [
-        'Personal health is related to self-control and to the worship of life in all its natural beauty - self-control bringing with it happiness, renewed youth, and long life.',
-        'Maria Montessori',
+    '76de664b-c87a-5f29-a883-148210364d89' => [
+        'I am disturbed when I see the majority of so-called Christians having such little understanding of the real nature of the faith they profess. Faith is a subject of such importance that we should not ignore it because of the distractions or the hectic pace of our lives.',
+        'William Wilberforce',
+    ],
+    'dd4d2916-76f8-511a-86c0-cad441628fab' => [
+        'If you come from a solid family structure, it doesn\'t matter what you go through in your life. You\'re going to be okay.',
+        'Alyssa Milano',
+    ],
+    'f3f0a06b-f83d-5450-a038-e45f7a3a63f2' => [
+        'The shores of the Black Sea lend themselves to the literary genre that may be classified as \'cultural pilgrimage,\' which is not just a higher form of travel writing but which has the further mission of reporting on present conditions and supplying neglected knowledge.',
+        'Norman Davies',
+    ],
+    '31c22432-d6b1-588d-8528-6bdec23bec03' => [
+        'He who seeks rest finds boredom. He who seeks work finds rest.',
+        'Dylan Thomas',
+    ],
+    'ac9d6b94-7048-5bb5-9071-90d1495312e3' => [
+        'I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.',
+        'Ranbir Kapoor',
+    ],
+    'c12ca9c7-dbca-5590-9eea-d23bb7641f59' => [
+        'One life is all we have and we live it as we believe in living it. But to sacrifice what you are and to live without belief, that is a fate more terrible than dying.',
+        'Helen Keller',
+    ],
+    '91790c03-9724-50f5-90b9-4cf67d0b3584' => [
+        'I do believe that during the Bush-Cheney administration, that Vice President Cheney set a tone and an attitude for the CIA.',
+        'Nancy Pelosi',
+    ],
+    '43622d8b-e22c-568d-994c-4f6d388dcf21' => [
+        'Success can make you go one of two ways. It can make you a prima donna - or it can smooth the edges, take away the insecurities, let the nice things come out.',
+        'Barbara Walters',
+    ],
+    'c73991f9-0b95-5c59-8be8-2bd421ff4eb2' => [
+        'Google is my best friend and my worst enemy. It\'s fabulous for research, but then it becomes addictive. I\'ll have a character eating an orange, and next thing I\'m Googling types of oranges, I\'m visiting chat rooms about oranges, I\'m learning the history of the orange.',
+        'Liane Moriarty',
+    ],
+    '426c233e-d5f3-56db-ae14-52bb0881ad8b' => [
+        'The funny thing is, the music that I\'m writing now is probably some of the most cutting edge we\'ve ever done. The music that I\'m thinking about putting on our next album.',
+        'Charlie Daniels',
+    ],
+    'c8ee5bcc-72f7-5490-901a-087311e9c4ea' => [
+        'I would rather die of passion than of boredom.',
+        'Vincent van Gogh',
+    ],
+    '18ee1d05-8123-539a-91f7-18b1405bc1ad' => [
+        'He who has imagination without learning has wings but no feet.',
+        'Joseph Joubert',
+    ],
+    'b9164e32-ba06-5b70-b6ee-b80ca572b35b' => [
+        'I\'m tired of all this nonsense about beauty being skin deep. That\'s deep enough. What do you want, an adorable pancreas?',
+        'Jean Kerr',
+    ],
+    '404f6a26-7118-5aba-b332-42434ada41a0' => [
+        'Since 2005, I have not spent much time with my family. In fact I have spent more time at the Taj Landsend in Mumbai. It was my 100th visit recently, which means I have spent more than 400 days in that hotel, and that is a lot more than I have spent with my family.',
+        'Mahendra Singh Dhoni',
+    ],
+    '3f39b6d7-7436-5066-a218-51ddbb098563' => [
+        'How success changes the opinion of men!',
+        'Maria Edgeworth',
+    ],
+    '3c61df7b-6c8f-583a-b4ae-334238925c27' => [
+        'Beauty is a short-lived tyranny.',
+        'Socrates',
+    ],
+    'f2758c3a-f0e2-57d2-a98d-8f89ee609470' => [
+        'I get nostalgic for British negativity. There is an inherent hope and positive drive to New Yorkers. When you go back to Britain, everybody is just running everything down. It\'s like whatever the opposite of a hug is.',
+        'John Oliver',
+    ],
+    '729cda11-10aa-5024-b43d-615a5b0890df' => [
+        'Doing nothing is better than being busy doing nothing.',
+        'Lao Tzu',
+    ],
+    'e40ebf32-1373-5abd-85f9-320146e67db1' => [
+        'The world has become more complex as technology and easy travel mixes cultures without homogenizing them.',
+        'Norman Spinrad',
+    ],
+    '173ce6f1-9ded-5944-bb21-c4de48c5e58c' => [
+        'Accept challenges, so that you may feel the exhilaration of victory.',
+        'George Patton',
+    ],
+    'be562a79-02b2-5c82-a464-2c5e38012674' => [
+        'I miss all of my old friends who have passed away. Sometimes you just don\'t understand why they were taken so soon. I loved and miss Johnny Cash. I miss my old buddy Johnny Paycheck, who happens to be buried in an area of the cemetery that I bought for my family.',
+        'George Jones',
+    ],
+    '69a6fe5d-2e95-554d-b4b7-b0f5a3fbddfb' => [
+        'I\'m good at being funny.',
+        'Tom Stoppard',
+    ],
+    'f290a1a7-87d3-5301-a180-59f3c75bf925' => [
+        'My father was an engineer and my mother was a social worker, and they met as young socialists. That probably tells you everything you need to know about my attitude to money - I\'ve never really been bothered about it.',
+        'Jo Brand',
+    ],
+    'f4ef192b-3f04-56a3-8afa-34066a8016fd' => [
+        'If I could I would always work in silence and obscurity, and let my efforts be known by their results.',
+        'Emily Bronte',
+    ],
+    '482b80fa-b7fd-52f6-91a5-9a60606738d7' => [
+        'For a manager to be perceived as a positive manager, they need a four to one positive to negative contact ratio.',
+        'Ken Blanchard',
+    ],
+    '0aae6b90-4981-57e2-b581-99ad6ec4d5b0' => [
+        'My time is now.',
+        'John Turner',
+    ],
+    'ffbb8b30-88ad-592f-b456-339878d35faa' => [
+        'The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.',
+        'J. Robert Oppenheimer',
+    ],
+    '0af26a36-ddea-59e8-b1a1-57b604cadad4' => [
+        'There are no menial jobs, only menial attitudes.',
+        'William J. Brennan, Jr.',
+    ],
+    '7add9521-c337-545f-bf57-27e7fcbf83e3' => [
+        'In the car on my way to premieres and awards shows, I\'ll sit with tissue paper under my armpits so I don\'t soil the delicate dress fabric. The whole time, I\'m telling myself, \'Please don\'t sweat, please don\'t sweat.\' I throw the tissues out right before I step out of the car, and nobody ever knows! I just put on a smile and fake it.',
+        'Jessica Biel',
+    ],
+    '5371bc75-5faf-53b1-8dc5-7603c905d668' => [
+        'The historical basis for the gap between the black middle class and underclass shows that ending discrimination, by itself, would not eradicate black poverty and dysfunction. We also need intervention to promulgate a middle-class ethic of success among the poor, while expanding opportunities for economic betterment.',
+        'Henry Louis Gates',
+    ],
+    '743087f3-2160-5756-8226-894a8a0a14b2' => [
+        'The world has the habit of making room for the man whose actions show that he knows where he is going.',
+        'Napoleon Hill',
     ],
 ];

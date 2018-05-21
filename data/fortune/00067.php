@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '68edc0c6-9ef9-5b4c-9010-21f0dc804620' => [
-        'There is no easy way from the earth to the stars',
-        'Seneca',
+    '37153b4f-730f-5133-b42e-cf58cb29d15b' => [
+        'Stiletto, I look at it more as an attitude as opposed to a high-heeled shoe.',
+        'Lita Ford',
     ],
-    'dfee9cad-1498-5189-a6f1-e89ede09f0ed' => [
-        'Every job is good if you do your best and work hard. A man who works hard stinks only to the ones that have nothing to do but smell.',
-        'Laura Ingalls Wilder',
+    '26540da8-109a-576d-80a6-a07cef39cc68' => [
+        'Winning the World Cup was very special because it meant so much to so many. One thing about our country that is constant is cricket. The smile it brought to people\'s faces was the thing I shall always remember. It reminded me, reminded all of us, of our importance to the lives of the Indian people less lucky than we are.',
+        'Mahendra Singh Dhoni',
     ],
-    '58c8246a-1846-5794-bda4-e40bc2d201d6' => [
-        'You teach best what you most need to learn.',
-        'Richard Bach',
+    '45668310-b865-5270-b7bc-6c4a99c5cead' => [
+        'People say that life is the thing, but I prefer reading.',
+        'Logan Pearsall Smith',
     ],
-    '52264903-81d7-59ae-9a1c-045ea9656def' => [
-        'Beauty shouldn\'t be superficial and should come from within, and your eyes will tell the story.',
-        'Michelle Yeoh',
+    'a2029d34-927e-5295-a3ce-b32d5ad7db72' => [
+        'I was never very good at exams, having a poor memory and finding the examination process rather artificial, and there never seemed to be enough time to follow up things that really interested me.',
+        'Paul Nurse',
     ],
-    '3ea0da92-da87-5352-888a-66bcae85fbb5' => [
-        'Forever is composed of nows.',
-        'Emily Dickinson',
+    'b0afe521-6f79-56b8-af6d-e17a9d31f274' => [
+        'I don\'t think there\'s just one person for everyone. It would be very hard for me to be with a guy who was not bright or funny. And he\'d have to see the absurdities of the world, not exactly as I see them necessarily.',
+        'Erica Jong',
     ],
-    'fd14ad60-3a7a-58cd-b09e-b6663972b705' => [
-        'My character in \'OK OK\' has a lot of attitude, and it is an interesting one.',
-        'Hansika Motwani',
+    'f7b51d28-e6e8-5af8-992c-77f09e90683f' => [
+        'I grew up very differently than a lot of other people in my hometown in Mississippi. But I can\'t imagine my life any other way. I flew home and surprised my best friend at his graduation, and I remember turning to my mom and saying, \'My graduation was so much cooler than this.\' I had Melissa Joan Hart give my commencement speech.',
+        'Friedrich Nietzsche',
     ],
-    'f63544ac-49a8-545c-b056-07cd278b5c70' => [
-        'If you\'re authentic, people smile because they sense there\'s a piece of themselves there.',
-        'Bonnie Hunt',
-    ],
-    'dd43c265-002f-5196-bc32-96f305c69845' => [
-        'Tell people you\'re a Canadian or a Kiwi when you travel and they\'ll adore you.',
-        'Daniel Gillies',
-    ],
-    '81c7524e-e63f-5c2f-b943-9c07059174f4' => [
-        'Happiness lies in the joy of achievement and the thrill of creative effort.',
-        'Franklin D. Roosevelt',
-    ],
-    '6a005ff4-9196-59b9-8c19-28c3dfe2237b' => [
-        'My childhood, adolescence and high school days are unusually important. If there has ever been a time that I developed a uniqueness and sense of humor and the ability to organize, it was then. In those early days, I developed the skills that gave me a certain degree of success in American politics.',
-        'Lee Atwater',
-    ],
-    '80c7c2e0-3abe-574c-8ae2-feb49ef88d47' => [
-        'I\'ll never, ever be full. I\'ll always be hungry. Obviously, I\'m not talking about food. Growing up, I had nothing for such a long time. Someone told me a long time ago, and I\'ve never forgotten it, \'Once you\'ve ever been hungry, really, really hungry, then you\'ll never, ever be full.\'',
-        'Dwayne Johnson',
-    ],
-    '0b3fcd2f-fe90-5ccd-bd10-9781630b9bb7' => [
-        'My first ever job after college was as a flight attendant. I wanted to travel and could not afford it, so I decided to get myself a job where I could travel. I did it for two years and had great fun.',
-        'Jacqueline Winspear',
-    ],
-    '0639e783-99f5-5665-8b1a-d876c0637f27' => [
-        'I see my path, but I don\'t know where it leads. Not knowing where I\'m going is what inspires me to travel it.',
-        'Rosalia de Castro',
-    ],
-    '7bbcae9e-e0de-55c1-9e9a-f5b09ac22ede' => [
-        'Let your life lightly dance on the edges of Time like dew on the tip of a leaf.',
-        'Rabindranath Tagore',
-    ],
-    '713a079d-46c8-56cb-8fe8-72fbff9c33d8' => [
-        'The beauty of an art project is that you cannot always measure the impact, but one day it can become clear.',
-        'JR',
-    ],
-    '56e11f70-393b-5834-8ae5-e075efb368d5' => [
-        'Push yourself because no one else is going to do it for you.',
+    '8364ca4d-d03a-5672-9e85-e5ce331d7bb9' => [
+        'Don\'t let today\'s disappointments cast a shadow on tomorrow\'s dreams.',
         'Unknown',
     ],
-    '91790c03-9724-50f5-90b9-4cf67d0b3584' => [
-        'I do believe that during the Bush-Cheney administration, that Vice President Cheney set a tone and an attitude for the CIA.',
-        'Nancy Pelosi',
+    'ec628bce-6218-5eb7-ad30-cbc1023c5802' => [
+        'The most effective check and balance on government has been an independent press which maintains its credibility by ensuring that its criticism is balanced and based on fact - based indeed on solid journalistic work.',
+        'Malcolm Turnbull',
     ],
-    '0e2bf61c-a868-51c3-8b7b-679e27f28f2f' => [
-        'Every man takes the limits of his own field of vision for the limits of the world.',
+    'c5e2bb8f-12e8-502b-aaac-e83c57cfc19d' => [
+        'I always thought of myself as more American than Americans when I was living in Germany, because I always had this attitude of can-do, and if you\'re successful, you can show it, which is a very un-German thing, you know.',
+        'Kim Dotcom',
+    ],
+    '7ab95cf9-4368-5ab5-a163-76ed8c412fc6' => [
+        'We all go through sad times, but I was brought up to be positive.',
+        'Jess Glynne',
+    ],
+    '1fb4a0ab-ccfb-58f3-b93d-d9046774bcf0' => [
+        'Standing as a witness in all things means being kind in all things, being the first to say hello, being the first to smile, being the first to make the stranger feel a part of things, being helpful, thinking of others\' feelings, being inclusive.',
+        'Margaret D. Nadauld',
+    ],
+    '1fd7463d-5174-5463-a9a8-2e0ab483ea82' => [
+        'Life imitates art far more than art imitates Life.',
+        'Ayn Rand',
+    ],
+    '6f733f81-d136-55c5-a090-88b1941ebe37' => [
+        'Fear comes in two packages fear of failure, and sometimes, fear of success.',
+        'Tom Kite',
+    ],
+    '8c3f8a09-d646-5ea8-b65e-3b15751b5b18' => [
+        'Life is what happens while you are making other plans.',
+        'John Lennon',
+    ],
+    '0b2959e0-5e1c-55af-bf26-32cccfcd8032' => [
+        'To be able to make a good living in a challenging medium like soap operas is great. The best is that I get to act and am rewarded for it. And the people I work with are great. Funny, intelligent, hard working. They\'re all great to be around.',
+        'David Canary',
+    ],
+    'ff5a3d70-dff4-5020-878b-58656cec2527' => [
+        'It has been said that time heals all wounds. I don\'t agree. The wounds remain. Time - the mind, protecting its sanity - covers them with some scar tissue and the pain lessens, but it is never gone.',
+        'Rose Kennedy',
+    ],
+    'f4c87fe4-9334-556c-bdcc-778b4f9630de' => [
+        'What is important is family, friends, giving back to your community and finding meaning in life.',
+        'Adrian Grenier',
+    ],
+    'b685b0ec-c845-5e71-b8cf-30fcba015e86' => [
+        'Life is a tragedy when seen in close-up, but a comedy in long-shot.',
+        'Thomas Merton',
+    ],
+    '369d63a7-e4df-5c3d-8a92-cc6a249107dd' => [
+        "A bend in the road is not the end of the road\u{2026}unless you fail to make the turn.",
+        'Unknown',
+    ],
+    '0bde77a5-a228-5573-9128-099f3e2ac527' => [
+        'There is progress whether ye are going forward or backward! The thing is to move!',
+        'Edgar Cayce',
+    ],
+    '02fa38d7-0b57-5e66-b6ab-fb61b124681f' => [
+        'As a personality, I\'m fighter, you know. And I don\'t give up, and if I believe I\'m correct, I\'m right, then I work, and I fight. Okay, this could be over a chess board, this could be in life, and so I defend my principles.',
+        'Anatoly Karpov',
+    ],
+    '0534c4de-7383-5453-9a50-88dafac45d10' => [
+        'I always figure from the cradle to the grave, we all have our individual journeys, and maybe my journey was a positive one and I accomplished certain things without stepping on too many toes.',
+        'Robert Duvall',
+    ],
+    '7b44cc7d-8a83-53b5-ab90-053bf53e29a7' => [
+        'While the wider global environment is worrying, we are seeing some positive results in our economic affairs.',
+        'Michael D. Higgins',
+    ],
+    '77c65657-95c2-5bee-baa6-57d4f4f0bec2' => [
+        'There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.',
+        'Albert Einstein',
+    ],
+    '1268aa11-4f67-58b0-a144-4d351caf6c29' => [
+        'You don\'t fight racism with racism, the best way to fight racism is with solidarity.',
+        'Bobby Seale',
+    ],
+    '7f407c8e-5181-5cb2-b1e3-a7d9c395abe3' => [
+        'Nature shows that with the growth of intelligence comes increased capacity for pain, and it is only with the highest degree of intelligence that suffering reaches its supreme point.',
         'Arthur Schopenhauer',
     ],
-    '506c52e5-7ec7-5d75-9931-ac6852688fc9' => [
-        'Imagine if I\'d said, \'I have to be the best actress - I want that and nothing else.\' I never would have directed. I never would have produced. I never would have done a beauty line. I would have just worried about getting a job or been frustrated that I wasn\'t getting the job that I wanted. I was ready to be a businesswoman.',
-        'Salma Hayek',
+    '532c37c9-f319-5c7d-a8b4-d88e68f3f3d7' => [
+        'It isn\'t what happens to us that causes us to suffer; it\'s what we say to ourselves about what happens.',
+        'Pema Chodron',
     ],
-    'b7223845-4519-5b01-88e5-899fef0652ac' => [
-        'Living with fear stops us taking risks, and if you don\'t go out on the branch, you\'re never going to get the best fruit.',
-        'Sarah Parish',
+    '809ae1eb-daa6-520f-b19f-5d25ce04cee5' => [
+        'I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.',
+        'Edna Millay',
     ],
-    '3f42c764-93e9-58e3-8507-9df5c31f865a' => [
-        'You have to trust in something - your gut, destiny, life, karma, whatever.This approach has never let me down.',
-        'Steve Jobs',
+    'b964599d-f3d5-58c5-aabc-f97119514427' => [
+        'Being in a rock band is about touring. It\'s about writing songs and it\'s about making records but it\'s also about taking a wonderful smile onto that stage and making the people feel good about themselves.',
+        'James Young',
     ],
-    'f18f06fd-0bf7-53f9-9b7a-62d2fcb72a3f' => [
-        'If people knew how hard I worked to get my mastery, it wouldn\'t seem so wonderful at all.',
-        'Michaelangelo',
+    '641f1b1b-2b6e-5349-9e21-1230c1b93341' => [
+        'The great art of life is sensation, to feel that we exist, even in pain.',
+        'Tim Tebow',
     ],
-    'c0f49351-2887-597b-9e94-0681985f1126' => [
-        'There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.',
-        'Wayne Dyer',
+    '48778b20-597c-55e9-b3f4-ee2ee35930c7' => [
+        'In the long term we can hope that religion will change the nature of man and reduce conflict. But history is not encouraging in this respect. The bloodiest wars in history have been religious wars.',
+        'Richard M. Nixon',
     ],
-    '4f5840e2-42d5-55ed-a28d-da787ec1b734' => [
-        'I like people that enjoy life, \'cause I do the same.',
-        'Charles R. Swindoll',
+    '294325a1-b578-579a-bfa3-f4c7ede26c9e' => [
+        'People think I have courage. The courage in my family are my wife Pam, my three daughters, here, Nicole, Jamie, LeeAnn, my mom, who\'s right here too.',
+        'Jim Valvano',
     ],
-    'dfe812fe-f6e1-5bfb-a6a3-c5509a573427' => [
-        'Life itself is the most wonderful fairy tale.',
-        'Amy Winehouse',
+    'a1be3f28-a86c-5870-aca5-e2c76f48f64e' => [
+        'There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.',
+        'Mark Twain',
     ],
-    '354963b5-23a2-58d1-a703-b974792c1774' => [
-        'A rolling stone gathers no moss.',
-        'Publilius Syrus',
+    '2379ab26-d1f1-5111-9fed-ce30a60ff19f' => [
+        'For sheer sexiness, a man must be beautiful. Funny. yes. Clever, no.',
+        'Jilly Cooper',
     ],
-    'bae8ecc1-00b4-548f-8057-ae130bd261e4' => [
-        'We have committed the Golden Rule to memory; let us now commit it to life.',
-        'Edwin Markham',
+    'ed648885-5dfe-545e-9504-e921e46fd38f' => [
+        'America is the one rich country with the biggest slums, the least democratic and least developed health system, and the most niggardly attitude against its old people.',
+        'Gunnar Myrdal',
     ],
-    'b6aed5a5-f662-5c3b-ab71-2aa6afd957fd' => [
-        'The only thing I can do is fight. Win or lose, I\'m here every damn time.',
-        'Donald Cerrone',
+    '1e5006a5-fb37-5864-add9-3794d286566d' => [
+        'Life is best when you are in love.',
+        'Michael Moriarty',
     ],
-    '509c12fb-b20a-5e33-ba36-de826aa0bf82' => [
-        'I\'ve got a sense of humor. I\'m a funny guy.',
-        'Daryl Hall',
+    '0fe67ce4-cb68-5f3f-9651-3340ff4f9c5d' => [
+        'Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.',
+        'Jane Addams',
     ],
-    '0af26a36-ddea-59e8-b1a1-57b604cadad4' => [
-        'There are no menial jobs, only menial attitudes.',
-        'William J. Brennan, Jr.',
+    'e0fa8d07-6cee-5a35-a169-e7d780af8448' => [
+        'We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.',
+        'Cicely Tyson',
     ],
-    '9e3e7193-aa3d-54a8-bb0a-63de7108fe8d' => [
-        'With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.',
-        'Keshavan Nair',
+    'afc7dee8-cd85-58ca-a62f-5957c8c8f8e5' => [
+        'I don\'t want to be married to someone who feels inferior to my success or because I make more money than he does.',
+        'Grace Kelly',
     ],
-    'aa735881-dc76-57ab-b5bb-256deb78c7c1' => [
-        'Finney is about the best writer of time travel stories ever, and I adore time travel stories - have to make a time travel game someday!',
-        'Warren Spector',
+    '6b697e47-60ab-5edd-bb5d-f6744b51fe00' => [
+        'I have had the view that cutting wages is not the path to prosperity, and one of the great myths propagated about my attitude to industrial relations is that I believe in lower wages. I\'ve never believed in lower wages. Never. Never believed in lower wages, I\'ve never believed in lower wages as an economic instrument.',
+        'John Howard',
     ],
-    '70164152-00ea-583f-a77b-bff164b93c8d' => [
-        'You know when someone\'s over-flattering you in a way. You smile but you can\'t believe it.',
-        'Laura Linney',
+    '145eeceb-0a09-520f-a71d-9cf964050d40' => [
+        'Trying to make a feature film yourself with no money is the best film school you can do.',
+        'Quentin Tarantino',
     ],
-    '2dd68d8f-e54e-523a-8e6a-32f42ce02fd6' => [
-        'Attitude is more important than the past, than education, than money, than circumstances, than what people do or say. It is more important than appearance, giftedness, or skill.',
-        'Charles R. Swindoll',
+    'a8c0fe6d-2c76-586f-b84c-109d99088115' => [
+        'I\'m an algebra liar. I figure two good lies make a positive.',
+        'Tim Allen',
     ],
-    '630f77f0-5165-5ea8-8b7a-aeaeed6ba436' => [
-        'There are two tests in life, more important than any other test. On Monday morning, when you wake up, do you feel in the pit of your stomach you can\'t wait to go to work? And when you\'re ready to go home Friday afternoon, do you say, \'I can\'t wait to go home?\'',
-        'Chuck Schumer',
+    'dd011469-3065-53cd-a166-8b10dfc8966c' => [
+        'I\'m not going out and hitting a 95-mph fastball where I can\'t see the stitches. I\'m not on a professional football team looking to tackle a fullback who is built like solid wood. I\'m a thinking person, and I\'ve been blessed with the ability to see some things and talk about them in a way that registers in a humorous and funny way.',
+        'Bill Cosby',
     ],
-    'c8e17709-cc48-513c-96c9-34d3c87b6d4b' => [
-        'The most important thing is the indigenous people are not vindictive by nature. We are not here to oppress anybody - but to join together and build Bolivia, with justice and equality.',
-        'Evo Morales',
+    '98124a59-61e9-52ec-a1f8-ddc6f53aef56' => [
+        'Think of all the beauty still left around you and be happy.',
+        'Anne Frank',
     ],
-    '11ac6114-8089-53d5-97e4-26cd68cb1077' => [
-        'One of my producers said this business is like a hamster on that little wheel thing that goes around and around. You may have a great day and get great ratings, but then you\'ve got another show to do - whatever moment of success or happiness you have you\'ve got to keep grinding it out for the next day.',
-        'Sean Hannity',
+    'ac569d9c-c512-5d68-a9bc-10867334b97a' => [
+        'Whatever happens, take responsibility.',
+        'Tony Robbins',
     ],
-    '1903b1dd-576f-5a6c-84fe-ba9b748bbaca' => [
-        'We have magnificent brains, but we use a great deal of our brilliance to keep ourselves stuck and ignorant, to keep ourselves from not shining. We are so afraid of our beauty and radiance and brilliance because it scared the adults around us when we were children.',
-        'Patricia Sun',
+    '5c679945-c13a-57c9-bbaa-820023f18aa9' => [
+        'Coral reefs represent some of the world\'s most spectacular beauty spots, but they are also the foundation of marine life: without them many of the sea\'s most exquisite species will not survive.',
+        'Sheherazade Goldsmith',
     ],
-    'a6b0d0d0-73be-5901-9ee7-970a089046ea' => [
-        'A manager is not a person who can do the work better than his men; he is a person who can get his men to do the work better than he can.',
-        'Frederick W. Smith',
+    '0dbd3acb-3776-5b56-8662-d2269c3035de' => [
+        'Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.',
+        'William Shakespeare',
     ],
-    '3b804782-3a44-5799-a723-5a2319aecd4c' => [
-        'Enthusiasm is the best protection in any situation. Wholeheartedness is contagious. Give yourself, if you wish to get others.',
-        'David Seabury',
+    '05849a04-57d1-5ced-90c9-5aed9032d609' => [
+        'Just be yourself. Be honest, work towards a goal, and you\'ll achieve it.',
+        'Emraan Hashmi',
     ],
-    '07af7df2-6f6e-563e-99d9-305f3c135d17' => [
-        'Every story I write adds to me a little, changes me a little, forces me to reexamine an attitude or belief, causes me to research and learn, helps me to understand people and grow.',
-        'Octavia E. Butler',
+    '329933ea-c7db-5aef-9704-12dfd4a69166' => [
+        'I would love to be a travel writer. I\'d be so stoked.',
+        'Drew Barrymore',
     ],
-    '7f3c48db-d9e1-56e6-95d1-5b81fe627fae' => [
-        'I got the travel bug when I was quite young. My parents took me and my sisters out of school and we travelled all over Europe. It was an eye-opening experience and, although I love Norway, I also enjoy visiting new countries. I don\'t get homesick.',
-        'Magnus Carlsen',
-    ],
-    '45dc0311-37db-5aa6-8699-a09af8e726f4' => [
-        'Unfortunately, we can never truly know if we\'re making the right decision. What we do know is that wherever we are, that\'s where the Light wants us to be. It\'s the best place for us to be now. And as long as we don\'t try to control the situation, then we won\'t end up in the place we shouldn\'t be.',
-        'Yehuda Berg',
-    ],
-    'd89ae893-8145-5a57-97e5-5133ea98875c' => [
-        'I guess a psychiatrist would say there\'s some good to the venting process, but it does also promote an attitude of saying, \'Hey there\'s nothing wrong with being filled with hate; there\'s so much of it around.\' I don\'t like that.',
-        'Mario Cuomo',
-    ],
-    '1a4566a1-0b59-5832-9b82-6f4e33c5aeca' => [
-        'I believe any success in life is made by going into an area with a blind, furious optimism.',
-        'Sylvester Stallone',
-    ],
-    '2bf7823f-1f89-5e6d-912e-f6b6f5175227' => [
-        'When deeds and words are in accord, the whole world is transformed.',
-        'Chuang Tzu',
-    ],
-    '59fa0e09-0172-53d0-b411-09bc7b94fb05' => [
-        'Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them.',
-        'Vaibhav Shah',
-    ],
-    '856aaeae-0113-5276-b138-6cbbb572a096' => [
-        'I know the lands are lit, with all the autumn blaze of Goldenrod.',
-        'Helen Hunt Jackson',
-    ],
-    'f9ffebe5-a644-5fea-87b1-f72ec80fddf6' => [
-        'No spring nor summer beauty hath such grace as I have seen in one autumnal face.',
-        'John Donne',
-    ],
-    '5ac46aac-955a-5c12-8893-17b05a5f0852' => [
-        'You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you\'ll get to tomorrow. Intention without action is useless.',
-        'Caroline Myss',
+    '9da134f8-0136-5cf3-9b19-4ba3a6768bc6' => [
+        'Don\'t wait for your feelings to change to take the action. Take the action and your feelings will change.',
+        'Barbara Baron',
     ],
 ];

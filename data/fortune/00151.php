@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '08858315-17db-524f-b58f-b57150b9137a' => [
-        'I play guys who never smile, and I never stop smiling.',
-        'Michael Joseph Kelly',
+    'a3a796fd-8a96-5b3f-8ca3-b839416b9a58' => [
+        'Muslims have a very bad attitude to homosexuality, they\'re very intolerant.',
+        'Pim Fortuyn',
     ],
-    'ed780755-a8ad-563a-9863-c87d807b6dd6' => [
-        'The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.',
-        'Ben Okri',
+    '51046c04-3489-5cf7-a95e-e6d049671c16' => [
+        'I think for any small business that\'s bootstrapped, the overwhelming challenge initially is getting to positive cash flow.',
+        'John Mackey',
     ],
-    '8338c51f-0ee5-5d43-9b86-b1a92a4707c1' => [
-        'I want anyone who believes in life, liberty, pursuit of happiness to succeed. And I want any force, any person, any element of an overarching Big Government that would stop your success, I want that organization, that element or that person to fail. I want you to succeed.',
-        'Rush Limbaugh',
+    '33c5533b-c868-5f40-9926-7c1e4ed341d6' => [
+        'He has achieved success who has worked well, laughed often, and loved much.',
+        'Elbert Hubbard',
     ],
-    '2c5e9af6-218f-554a-a2fd-d5febdcf84f3' => [
-        'Jazz is the only music in which the same note can be played night after night but differently each time.',
-        'Ornette Coleman',
+    '772d4462-ca87-5f2d-8ad1-9a68c023f8f7' => [
+        'My theory is that all of Scottish cuisine is based on a dare.',
+        'Mike Myers',
     ],
-    '7b506cd6-9cff-5855-980a-fe18769f29eb' => [
-        'Great art picks up where nature ends.',
-        'Marc Chagall',
+    '1d039370-6717-5de6-8fde-f68b5be2e885' => [
+        'I greatly fear some of America\'s greatest and most dangerous enemies are such as think themselves her best friends.',
+        'Nathan Hale',
     ],
-    '7e78ce24-8c3b-5cd3-94da-751d2a3333ec' => [
-        'Sultan Mehmet had good relations with the Medici family and other powerful Italian clans, especially in Venice and Florence, and at his request, they sent him artists and craftsmen by the dozen.',
-        'Stephen Kinzer',
+    '06286ecc-7787-5126-9d00-6d4229ed8644' => [
+        'I always have one or two, sometimes more, Navajo or other tribes\' cultural elements in mind when I start a plot. In Thief of Time, I wanted to make readers aware of Navajo attitude toward the dead, respect for burial sites.',
+        'Tony Hillerman',
     ],
-    'c3a660fc-8926-5c08-aa32-bad3be85ca38' => [
-        'The root of the kingdom is in the state. The root of the state is in the family. The root of the family is in the person of its head.',
-        'Mencius',
+    '9b008e14-f2bd-5724-9738-c71048b3c89d' => [
+        'Everything in the universe goes by indirection. There are no straight lines.',
+        'Ralph Emerson',
     ],
-    'b14c279a-bc17-56f4-b0ef-d4d92ef33fea' => [
-        'I just think Valentine\'s Day is a day to really appreciate the person you love, no matter who it is, and to spend time with them. I don\'t think it\'s all about fancy presents or whatever. I think it\'s about spending that quality time with that special person.',
-        'Prince Royce',
+    '5fefc0d6-0159-5aa6-8e0e-ace3d094e2a3' => [
+        'I\'m different, and I have to be a warrior to be that way. But I have had some success; I hope I have touched the lives of some wonderful people, all by being what I see as myself but some others people see as different.',
+        'Johnny Weir',
     ],
-    '5a2e933e-306b-5988-ae66-4b0e45f7d460' => [
-        'I am not afraid of tomorrow, for I have seen yesterday and I love today!',
-        'William Allen White',
+    '43a60a6f-87c8-547c-91df-cdf3afb55f4f' => [
+        'There have been times when I felt suicidal and I would stop my head from going in that direction of negativity because I thought there\'d be something I\'d miss that was funny in the future. If there\'s a chance I\'m going to laugh tomorrow then want to live to experience that.',
+        'Dave Navarro',
     ],
-    '91e6f698-2c60-5e25-bc02-5af158157dd7' => [
-        'Beauty makes idiots sad and wise men merry.',
-        'George Jean Nathan',
+    '31d9f226-58db-5e02-8b39-4ed8d9ce7564' => [
+        'It is as if my life were magically run by two electric currents: joyous positive and despairing negative - whichever is running at the moment dominates my life, floods it.',
+        'Sylvia Plath',
     ],
-    'efba088f-03aa-5867-aaef-c4a879e4db16' => [
-        'Keep close to Nature\'s heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean.',
-        'John Muir',
+    '705ddcdc-6017-5bc6-be5f-49bb0b1164d4' => [
+        'I\'ve never liked my smile, you see. I should have had braces as a kid, but I was too proud and too vain. And I didn\'t want to be bullied at school.',
+        'Ricky Whittle',
     ],
-    'c3acd945-92dc-5d43-9ea0-a1559b6f8eae' => [
-        'After the first miscarriage, I tried to take the attitude that it was my body\'s way of telling me that this pregnancy wasn\'t meant to be.',
-        'Christie Brinkley',
+    '12d4e6df-8f92-5122-ad1a-d179150f460f' => [
+        'Scarlett Johansson has a smile she tries to suppress in every movie she makes. She\'s been trying to keep a straight face since she appeared with Bill Murray 11 years ago in her breakthrough, \'Lost in Translation.\'',
+        'Steve Erickson',
     ],
-    'a5f0cadb-e17e-5bde-b4fd-68127d3b8bc3' => [
-        'I really get a smile that people think they have a right to even suggest how I give my money away. I have no mandate to give a dime to anybody.',
-        'Peter B. Lewis',
+    '0ec12875-6955-5f1d-be79-ca2c0a4d4ee7' => [
+        'Since I was younger I\'ve been making the best out of nothing.',
+        'Wiz Khalifa',
     ],
-    'a731d43f-1315-59c8-8cb0-a9f21dab3a94' => [
-        'I am a passionate traveler, and from the time I was a child, travel formed me as much as my formal education.',
-        'David Rockefeller',
+    'e7ba8c68-233d-50d3-8d13-56e6014466d8' => [
+        'I\'ve always felt that specialization is best left to the insects.',
+        'Gregory Benford',
     ],
-    'eb0d25fa-e775-5eed-99e3-5557fdddcb93' => [
-        'When I started out, everyone seemed to be adopting these names... Johnny Rotten, Sid Vicious. I wasn\'t really Rotten or Vicious or Nasty, so I wanted something a bit more funny - yet something that seemed real rock \'n\' roll... something that acknowledged my ambition.',
-        'Billy Idol',
+    '779e529f-f569-5b71-abb1-f34ba94a577b' => [
+        'Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.',
+        'Byron Pulsifer',
     ],
-    'b36976af-a41c-5dbf-aba0-3ed43d9bb997' => [
-        'Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don\'t give up.',
-        'Anne Lamott',
+    '0142ded5-0369-5b1e-a186-be3d2a2d7c54' => [
+        'What has happened to the good old-fashioned travel agent? I want to go to a really posh travel agent and have them organise everything for me. I don\'t want to do things on the Internet.',
+        'Jenny Eclair',
     ],
-    '1376653b-d19c-53fa-bcc8-41f0d2b50f65' => [
-        'Over every mountain there is a path, although it may not be seen from the valley.',
-        'Theodore Roethke',
+    '12751b29-6690-5c9a-9170-53d0df81fb44' => [
+        'It is often said that before you die your life passes before your eyes. It is in fact true. It\'s called living.',
+        'Henri Frederic Amiel',
     ],
-    'b98b5f65-c7f6-59fa-a4fa-092d9d92a38f' => [
-        'The journey of a thousand miles begins with one step.',
-        'Lao Tzu',
+    'f5c062f8-5233-5efd-af3d-c6ec6ac77c2e' => [
+        'O Lord, help me to be pure, but not yet.',
+        'Saint Augustine',
     ],
-    '5e20949a-ba9e-5a80-b37f-326528e95123' => [
-        'Life\'s like a play: it\'s not the length, but the excellence of the acting that matters.',
-        'David Gerrold',
+    '48ef8997-80a3-5389-ae54-f2fad7d12786' => [
+        'Death by plane crash scares me. I travel a lot, and when you hit turbulence, and post 9/11, that\'s in the back of my mind a bit.',
+        'Robert Englund',
     ],
-    '90835341-10fd-5090-92be-1712de611195' => [
-        'There is no wealth but life.',
-        'Jackson Pollock',
+    '94f84375-25dc-5ef4-8ae1-060711265f1b' => [
+        'To live is so startling it leaves little time for anything else.',
+        'Keanu Reeves',
     ],
-    '51f058c6-558d-566e-ba9a-e12f68bd1e4e' => [
-        'If interstellar travel is as time- or energy- demanding as the above figures indicate, it is far from obvious what the motive for colonization might be.',
-        'Barney Oliver',
+    '90fe94b2-3740-541c-93bb-875030635c33' => [
+        'We need two kinds of acquaintances, one to complain to, while to the others we boast.',
+        'Logan Pearsall Smith',
     ],
-    'd4c8bdfc-2199-53a0-af1d-641519c9d613' => [
-        'I was a disadvantaged child from a non-educated family, yet I had the advantage of being in the company of great teachers.',
-        'A. P. J. Abdul Kalam',
+    '1150be96-8c53-5ad7-93c4-5bcbb83705f7' => [
+        'College was especially sweet because of the positive, hopeful atmosphere of a college campus.',
+        'Jerry Kramer',
     ],
-    '4f37f228-ed13-591b-b4be-3a6a563880d8' => [
-        'As you go through life, you\'ve got to see the valleys as well as the peaks.',
-        'Nicole Polizzi',
+    'e6db0ca8-9253-596e-abd4-aa9e04c6c961' => [
+        'I\'ll stick to finding the funny in the ordinary because my life is pretty ordinary and so are the lives of my friends - and my friends are hilarious.',
+        'Issa Rae',
     ],
-    'fbfffcf7-c61b-57e1-b4e2-b3c138cf1294' => [
-        'You have to come in to major championships, and your attitude has to be on point.',
-        'Jason Day',
+    'cd3b4d3f-9d41-53ab-8170-0ac82a5de609' => [
+        'The way we approached Meru, and the way we approach a lot of these mountains, is with humility. A sense of, \'Is it going to give us passage?\' Your mental attitude can affect the outcome.',
+        'Jimmy Chin',
     ],
-    'd05f91be-0f95-5287-92e9-32a3e474b78e' => [
-        'The winner\'s edge is not in a gifted birth, a high IQ, or in talent. The winner\'s edge is all in the attitude, not aptitude. Attitude is the criterion for success.',
-        'Denis Waitley',
+    'e821602b-7ab4-5a6f-83b5-fc74c38105a1' => [
+        'You just have to find that thing that\'s special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.',
+        'Dr. Dre',
     ],
-    '7a8c1cd5-537f-5b9c-8504-958462e65c39' => [
-        'Violence can be very grotesque and also intensely attractive. What interests me is how the two - beauty and violence - live side by side, and how moments can be created and erased almost simultaneously. Destruction is painful, but at times it can be very cathartic.',
-        'Ori Gersht',
+    'fddcffc5-3c80-5974-8aaf-f6ed04d266f2' => [
+        'At the age of 18, I made up my mind to never have another bad day in my life. I dove into a endless sea of gratitude from which I\'ve never emerged.',
+        'Patch Adams',
     ],
-    '0fad428e-f7f3-5ece-bfad-75fd94c3da3b' => [
-        'You just got with the flow because life is just all about how you feel.',
-        'Carl Rogers',
+    'c2e14408-6223-5f5f-bc0a-ab5676a9ffa9' => [
+        'No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind.',
+        'Caroline Kennedy',
     ],
-    'e3d56573-8416-5e05-8e7b-bc12b42659d4' => [
-        'Great is the art of beginning, but greater is the art of ending.',
-        'Lazurus Long',
+    'f11f57a1-eeb0-5470-bf2a-7231f9d6faa9' => [
+        'For there is no friend like a sister in calm or stormy weather; To cheer one on the tedious way, to fetch one if one goes astray, to lift one if one totters down, to strengthen whilst one stands.',
+        'Christina Rossetti',
     ],
-    '45c7fb40-2534-5a55-b4b5-622a4e0ec724' => [
-        'Design is not making beauty, beauty emerges from selection, affinities, integration, love.',
-        'Louis Kahn',
+    '0f2650d4-b042-50a0-ae24-10c10d4fd03f' => [
+        'I was destined to work with dying patients. I had no choice when I encountered my first AIDS patient. I felt called to travel some 250,000 miles each year to hold workshops that helped people cope with the most painful aspects of life, death and the transition between the two.',
+        'Elisabeth Kubler-Ross',
     ],
-    'dde35e11-1aa1-53ee-a6d1-f6d2e3663958' => [
-        'When people talk, they lay lines on each other, do a lot of role playing, sidestep, shilly-shally and engage in all manner of vagueness and innuendo. We do this and expect others to do it, yet at the same time we profess to long for the plain truth, for people to say what they mean, simple as that. Such hypocrisy is a human universal.',
-        'Steven Pinker',
+    '0d89dc89-fdc9-5864-bc9f-1472fcbffa92' => [
+        'Four years of football are calculated to breed in the average man more of the ingredients of success in life than almost any academic course he takes.',
+        'Knute Rockne',
     ],
-    '6d74798f-f22a-527f-9657-ccec74c3dd82' => [
-        'Suffering is permanent, obscure and dark, And shares the nature of infinity.',
-        'William Wordsworth',
+    'a62c3a8a-ea1c-56e9-a2a7-b0bb574249db' => [
+        'You\'re in a combat zone one day. You come home, and then you have to readjust, and it takes a few days. We just sit in the house, hang with the family and then things get better.',
+        'Chris Kyle',
     ],
-    '1fd7463d-5174-5463-a9a8-2e0ab483ea82' => [
-        'Life imitates art far more than art imitates Life.',
-        'Ayn Rand',
+    'c604c2cb-6607-5997-a859-2e1ebded5c97' => [
+        'Well, the idea is that failure is an inevitable partner on the road to success and, if you\'re not willing to confront failure, you can never find out how good you are.',
+        'Peter Guber',
     ],
-    '059a3188-685a-593f-bda1-945d29c93a49' => [
-        'If two wrongs don\'t make a right, try three.',
-        'Laurence J. Peter',
+    '86ba674b-a9c2-5e54-be76-6f5cd3e89c15' => [
+        'We have much to learn by studying nature and taking the time to tease out its secrets.',
+        'David Suzuki',
     ],
-    '1b6241f0-120c-5837-9ac2-ee9d3e3d55a9' => [
-        'The follow your dreams thing is really important because so many people are railroaded into taking other paths by their family, their friends, people who should be supportive going, \'What are you talking about?\' Even just seemingly regular career paths, but if it\'s not what people expect for you they kind of react funny.',
-        'Joan Jett',
+    '997be791-f844-5339-b9a0-5806b3a021b9' => [
+        'There are no failures. Just experiences and your reactions to them.',
+        'Tom Krause',
     ],
-    'e76290c1-3290-5d52-b9d6-c7a182f84d5c' => [
-        'In our town, Halloween was terrifying and thrilling, and there was a whiff of homicide. We\'d travel by foot in the dark for miles, collecting candy, watching out for adults who seemed too eager to give us treats.',
-        'Rosecrans Baldwin',
+    'a164de9e-4d68-5824-ba75-839fcd1af074' => [
+        'I was sure I\'d set the world on fire, and it was hard for a young feller like me to realize the truth - that I hadn\'t set the world on fire, and I was totally unprepared to handle the consequences if \'The Big Trail\' had been a success and launched me as a star.',
+        'John Wayne',
     ],
-    'ebf36fa5-154b-5d37-81af-f2d20bc1e47e' => [
-        'Every man regards his own life as the New Year\'s Eve of time.',
-        'Emily Dickinson',
+    '9c370ca1-8e20-5c8c-b626-7ccb933cf6fb' => [
+        'Success means your thoughts are worthy of everyone\'s consideration.',
+        'Julian Fellowes',
     ],
-    'e4bb8ffe-ef31-5785-87e1-1e4288975b26' => [
-        'It scares you: all the noise, the rattling, the shaking. But the look on everybody\'s face when you\'re finished and packing, it\'s the best smile in the world; and there\'s nobody hurt, and the well\'s under control.',
-        'Red Adair',
+    'cf2a5a62-e5db-5621-9348-f7fb4cb3eb6f' => [
+        'The beauty of the world, which is so soon to perish, has two edges, one of laughter, one of anguish, cutting the heart asunder.',
+        'Virginia Woolf',
     ],
-    '83efeb7c-e301-50ba-947e-b2d3560e7686' => [
-        'My goal in coming to General Motors was to help restore profitability, build a strong market position and position this iconic company for success. We are clearly on that path.',
-        'Edward Whitacre, Jr.',
+    '5d13bc86-ce2b-5102-b921-26cdb5128827' => [
+        'When life partner happens, I hope he is not a youth icon then because I doubt even I would be youthful then. Whether life partner is hot or not, that doesn\'t matter. He has to be a nice man. He should be funny, responsible, and he should be sweet, and he should love me a lot.',
+        'Alia Bhatt',
     ],
-    'c901cd57-84fb-5434-a7df-c668e7f23a15' => [
-        'Natural beauty really entices men. They will tell you this time and time again, and studies consistently prove it.',
-        'Helen Fisher',
+    'fee7829d-a013-5dca-8739-e59100b06d7e' => [
+        'Spending time with America\'s soldiers is always inspiring.',
+        'John Boehner',
     ],
-    '73e7ba7d-a147-5980-b825-b72873b91e2a' => [
-        'Personal relationships are the fertile soil from which all advancement, all success, all achievement in real life grows.',
-        'Ben Stein',
+    'ecfe135b-b9d6-5777-ab56-19082bcbc8db' => [
+        'I have a great smile. A lot of people don\'t know that.',
+        'Draymond Green',
     ],
-    '08b74db5-fc3f-5ce5-ae0a-326037e8c5e9' => [
-        'The one thing I think I\'ve noticed about shows that are supposed to be funny on television is that they\'ve sort of become routinized, so there\'s an awful lot of mannerisms and joke lines that are sort of there to trigger laughter, rather than give actors a chance to play a moment.',
-        'Alan Alda',
+    '68a47e8e-4048-53d2-907e-abf603b30f83' => [
+        'In the past 40 years, the United States lost more than a million farmers and ranchers. Many of our farmers are aging. Today, only nine percent of family farm income comes from farming, and more and more of our farmers are looking elsewhere for their primary source of income.',
+        'Tom Vilsack',
     ],
-    '21b1e1cd-21e0-5fa3-b504-c270619ce9e5' => [
-        'One of the things that binds us as a family is a shared sense of humor.',
-        'Ralph Fiennes',
+    'f50c2611-b2e8-5127-b89e-3f551f8035bc' => [
+        'Any celebration meal to which guests are invited, be they family or friends, should be an occasion for generous hospitality.',
+        'Julian Baggini',
     ],
-    'f5b79bb7-eacd-5849-8e96-93f92e51f600' => [
-        'Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.',
-        'Dhammapada',
+    '7cf2af41-2a6d-5ba6-8d9e-70efb111373a' => [
+        'There is a loftier ambition than merely to stand high in the world. It is to stoop down and lift mankind a little higher.',
+        'Henry Van Dyke',
     ],
-    '7e04e526-43d2-57ee-924c-af498482781e' => [
-        'This generation... they have a different attitude. Instead of sitting and watching something, they want to be a part of it - they\'re very hedonistic and sensual.',
-        'Steve Wynn',
+    'eb4930f4-c1c3-5606-9557-595daf0c96d8' => [
+        'I love natural beauty, and I think it\'s your best look, but I think makeup as an artist is so transformative.',
+        'Marina and the Diamonds',
     ],
-    '80ba2443-1e8c-5812-9368-c1784d722b4c' => [
-        'I didn\'t know how to smile for the paparazzi.',
-        'Peggy Lipton',
+    '4339fe5e-2505-52a5-b05b-a2ec3d942061' => [
+        'The woman with dark hair, wide hips, and a few extra pounds has always been the essence of beauty in Morocco.',
+        'Fatema Mernissi',
     ],
-    '60543b24-6da1-5596-8eb2-3207ef74841f' => [
-        'I have found the best way to give advice to your children is to find out what they want and then advise them to do it.',
-        'Harry S Truman',
+    '8512d79f-8e80-557a-8455-7e338b7ef6c1' => [
+        'The world is full of magical things patiently waiting for our wits to grow sharper.',
+        'Bertrand Russell',
     ],
-    '84a8d8f0-1bf3-5a47-9fbf-f31c6450b8fc' => [
-        'Athletic skills are acquired over a long period of time and after countless hours of practice.',
-        'Zig Ziglar',
+    '1848a760-218f-58db-acfd-fabaae734b4b' => [
+        'I drink too much. The last time I gave a urine sample it had an olive in it.',
+        'Rodney Dangerfield',
     ],
-    '2c6c9875-7ab0-508f-b753-b1e22e17e8a3' => [
-        'I think beauty is not just about what we put on our heads or on our faces or what we wear: it\'s deeper than that, and if we can celebrate that, celebrate the women, not just the superficiality... I think it would be really gorgeous.',
-        'Alek Wek',
+    '76af6fcc-2b3b-5ffe-a498-d77975c000e9' => [
+        'Love is the master key that opens the gates of happiness.',
+        'Oliver Holmes',
     ],
-    '72600ea5-22d6-5227-b46e-d50e76c4aff9' => [
-        'Success is attaining your dream while helping others to benefit from that dream materializing.',
-        'Sugar Ray Leonard',
+    'fc96f247-9667-5cab-ad5c-5d2d0d1cec46' => [
+        'Resist your fear; fear will never lead to you a positive end. Go for your faith and what you believe.',
+        'T. D. Jakes',
     ],
-    '49cbd8d7-95e6-579d-b04e-ad853bc7f2a0' => [
-        'It\'s a funny show. The characters are surprisingly likable, given how ugly they are. We\'ve got this huge cast of characters that we can move around. And over the last few seasons, we\'ve explored some of the secondary characters\' personal lives a bit more.',
-        'Matt Groening',
+    '83f9b1de-eeed-5e2b-ab8c-65e93f18fcbc' => [
+        'It is not funny that anything else should fall down; only that a man should fall down. Why do we laugh? Because it is a gravely religious matter: it is the Fall of Man. Only man can be absurd: for only man can be dignified.',
+        'Gilbert K. Chesterton',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '8cad0115-6413-5377-ab15-169a1dea9076' => [
-        'The only thing that overcomes hard luck is hard work.',
-        'Harry Golden',
+    '639ac2c9-92d3-5e79-b0d8-f99cdcfab35f' => [
+        'Extensive traveling induces a feeling of encapsulation, and travel, so broadening at first, contracts the mind.',
+        'Paul Theroux',
     ],
-    'd34e9ed0-5f8f-5777-a0fe-d8d713ae7f9f' => [
-        'Without music to decorate it, time is just a bunch of boring production deadlines or dates by which bills must be paid.',
-        'Frank Zappa',
+    'c3d94ad7-5cd1-5b81-9a7f-ef1006d3d268' => [
+        'There\'s so many things that life is, and no matter how many breakthroughs, trials will exist and we\'re going to get through it. Just be strong.',
+        'bell hooks',
     ],
-    'c8078744-260a-5360-84f2-ad3c722fa7d8' => [
-        'The 1990s, after the reign of terror of academic vandalism, will be a decade of restoration: restoration of meaning, value, beauty, pleasure, and emotion to art and restoration of art to its audience.',
-        'Camille Paglia',
+    'f13c0385-fe63-515c-bd67-794bcaf9343f' => [
+        'If you\'re changing the world, you\'re working on important things. You\'re excited to get up in the morning.',
+        'Larry Page',
     ],
-    'cb949989-c1f2-524f-8c50-580feefa9e78' => [
-        'Fun opens the doors to creativity, which then leads to inspiration, which then births passion, which all together equals both happiness and success!',
-        'Rachele Brooke Smith',
+    'af81748a-ac30-5c55-a153-c73291f7a774' => [
+        'While natural disasters capture headlines and national attention short-term, the work of recovery and rebuilding is long-term.',
+        'Sylvia Mathews Burwell',
     ],
-    '6fa656d9-2049-5eac-8959-d698fd9f1071' => [
-        'I\'m a very driven, ambitious, positive person. But I\'m a spiritual person as well.',
-        'Victoria Beckham',
+    'a17157d4-b4b0-5360-9e59-29737434cdb6' => [
+        'Whosoever desires constant success must change his conduct with the times.',
+        'Niccolo Machiavelli',
     ],
-    '5cad1400-67ed-550e-9d4a-502ba5bf0340' => [
-        'I realized that if my thoughts immediately affect my body, I should be careful about what I think. Now if I get angry, I ask myself why I feel that way. If I can find the source of my anger, I can turn that negative energy into something positive.',
-        'Yoko Ono',
+    '86921bc6-bdbb-521e-9f76-cd0a4332e122' => [
+        'Mediocre men work at their best; men seeking excellence strive to do better.',
+        'Edwin Louis Cole',
     ],
-    '17fa028c-eb98-5a42-8913-d8817ea5c1bf' => [
-        'There is little success where there is little laughter.',
-        'Andrew Carnegie',
+    '2abcef0e-7911-5783-a4af-812cbfaf4b39' => [
+        'Keep your eyes open to your mercies. The man who forgets to be thankful has fallen asleep in life.',
+        'James E. Faust',
     ],
-    '1ef12b08-4b1f-53fd-bdde-cc4570e7c10c' => [
-        'How long was I in the army? Five foot eleven.',
-        'Spike Milligan',
+    '0aca31ac-d6dd-5a1c-909d-a65d9cb69d8e' => [
+        'Almost 70 percent of U.S. ag exports travel the upper Mississippi River and the Illinois waterway system.',
+        'Jerry Costello',
     ],
-    '1eb1d307-8ab2-55ea-b7f8-9a365ccbf7f7' => [
-        'Loss is nothing else but change, and change is Nature\'s delight.',
-        'Marcus Aurelius',
+    '22e9c23c-1dcd-5438-970a-b9d169a78acb' => [
+        'I know my strong points: I work hard, I have talent, I\'m funny, and I\'m a good person.',
+        'Pink',
     ],
-    '3363fb77-c417-5c37-9337-86a92c04e83f' => [
-        'Look, everything that you experience as a kid is the foundation of how you are today. I was brought up in a working class family in Leeds and when it comes to money both my parents worked hard and instilled the same attitude into me.',
-        'Melanie Brown',
+    '3203077b-0f06-55a4-8819-ecd85761a58d' => [
+        'I have just returned from Boston. It is the only thing to do if you find yourself up there.',
+        'Fred Allen',
     ],
-    '0fd03a4c-856c-585b-870b-12033da71868' => [
-        'You hear certain things, negative things, all the time that aren\'t true, but you never hear about the positive.',
-        'Floyd Mayweather, Jr.',
+    '25495c84-1b91-5584-9aa5-bb34ebb8ae12' => [
+        'Beauty is only skin deep.',
+        'Thomas Overbury',
     ],
-    'eff7470c-a346-590c-9afa-79e14e6f0898' => [
-        'In wisdom gathered over time I have found that every experience is a form of exploration.',
-        'Ansel Adams',
+    '8db1dd9b-7ad2-56f1-b032-74e91c5cee33' => [
+        'The real secret of success is enthusiasm.',
+        'Walter Chrysler',
     ],
-    'ecd906ef-8adb-5ee6-88fd-e142ec2c64d0' => [
-        'I wasn\'t a vegan when I came to Congress. It was a decision I made soon after I got here, and it\'s had such a positive impact on my life that I decided to try to help others as well.',
-        'Ted Deutch',
+    'bb62813f-696c-5663-b7b7-11c5742b6693' => [
+        'Forgiveness is choosing to love. It is the first skill of self-giving love.',
+        'Mohandas Gandhi',
     ],
-    '09c27bc7-f7ce-5d96-a69e-48fdd04bb913' => [
-        'Life is always going to be stranger than fiction, because fiction has to be convincing, and life doesn\'t.',
-        'Hillary Clinton',
+    '97e246b6-867e-566b-a74f-09885a3303f1' => [
+        'The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don\'t play together, the club won\'t be worth a dime.',
+        'Babe Ruth',
     ],
-    'd8830947-28a9-57b3-a400-4b7e3ffd3e3a' => [
-        'You know, it\'s funny how songs continue to grow and evolve and become a new and deeper reflection of your life.',
-        'Gloria Estefan',
+    '17e5dbb3-9b9f-5338-bd91-f64e086b0f81' => [
+        'Dreams have only one owner at a time. That\'s why dreamers are lonely.',
+        'Erma Bombeck',
     ],
-    '6386ceb4-1c73-5dd8-b59a-c4b4214488e6' => [
-        'We need affordable space travel to inspire our youth, to let them know that they can experience their dreams, can set significant goals and be in a position to lead all of us to future progress in exploration, discovery and fun. Thanks to the X Prize for the inspiration.',
-        'Burt Rutan',
+    '43f70442-e216-5b41-9347-9c229156e357' => [
+        'Women were freed from positive duties when they could not perform them, but not when they could.',
+        'Henrietta Szold',
     ],
-    '0d9468ee-1c06-5431-9fa3-1341c25ffc44' => [
-        'If you continue to work hard, let that be the fuel to your fire.',
-        'Pitbull',
+    'f107df5f-a9e1-523a-ac3a-38b2b4f45e8b' => [
+        'I wanted to be an independent woman, a woman who could pay for her bills, a woman who could run her own life - and I became that woman.',
+        'Martin Luther King, Jr.',
     ],
-    '9df1e510-526c-59e6-9223-0d04675c5131' => [
-        'Writers, as they gain success, feel like outsiders because writers don\'t come together in real groups.',
-        'Anne Rice',
+    '6bfa3b92-2cd7-5149-a721-77217589fbf1' => [
+        'There is probably a perverse pride in my administration... that we were going to do the right thing, even if short-term it was unpopular. And I think anybody who\'s occupied this office has to remember that success is determined by an intersection in policy and politics and that you can\'t be neglecting of marketing and P.R. and public opinion.',
+        'Barack Obama',
     ],
-    'ebf88ea3-0f6e-5cba-a5aa-8e7a64fb39d7' => [
-        'I pray God may preserve your health and life many years.',
-        'Junipero Serra',
+    '2eae7ed9-4e31-56cb-a8ce-dcba070cf2ce' => [
+        'No pessimist ever discovered the secret of the stars, or sailed to an uncharted land, or opened a new doorway for the human spirit.',
+        'Helen Keller',
     ],
-    'b3619306-179f-52ba-ac06-7ab179357db2' => [
-        'I don\'t even really know what it is I do for a living - the level of insecurity is very, very high. You\'re making a lot of money, getting a lot of accolades and positive criticism for something where you don\'t even know what you\'re doing.',
-        'Shia LaBeouf',
+    '413edb87-bc37-5ddb-97b5-d1261d479275' => [
+        'The optimist underestimates how difficult it is to achieve real change, believing that anything is possible and it\'s possible now. Only by confronting head-on the reality that all progress is going to be obstructed by vested interests and corrupted by human venality can we create realistic programmes that actually have a chance of success.',
+        'Julian Baggini',
     ],
-    '691989ee-be30-53db-84bf-ee7132b643ce' => [
-        'Mankind is made great or little by its own will.',
-        'Friedrich Schiller',
+    'e08c6eb9-b33c-5241-85b3-c9a623437a70' => [
+        'I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.',
+        'Michel de Montaigne',
     ],
-    '5fe348b2-50da-5a7b-9d97-169831127eb6' => [
-        'I love the long grass coming up to meet the willows.',
-        'Jilly Cooper',
+    '1ee33c70-9a1c-58cb-96e0-18cefbe50b6e' => [
+        'The job market of the future will consist of those jobs that robots cannot perform. Our blue-collar work is pattern recognition, making sense of what you see. Gardeners will still have jobs because every garden is different. The same goes for construction workers. The losers are white-collar workers, low-level accountants, brokers, and agents.',
+        'Michio Kaku',
     ],
-    '342ce486-a9a5-5f2a-803f-9c630de06188' => [
-        'Ben Schwartzwalder was a decent guy, but he was from another era. He was like a Marine, with a real army attitude. He thought there was only one way to play football, and that was the rough way.',
-        'Jim Brown',
+    '6a563147-234e-5b3a-9347-5f258f05c035' => [
+        'Family means no one gets left behind or forgotten.',
+        'David Ogden Stiers',
     ],
-    'd17b2ab8-047f-5601-a088-8abf09fa51f4' => [
-        'And I tell you, having girls has made me a much better man. I have friends who are fathers, but they only have boys, and they have the same attitude toward women they always had, you know? And I don\'t play that... My girls, you mess with them? I will bury you underground.',
-        'Mark Wahlberg',
+    'f1c3cbbd-75c6-50e6-a1cb-0640c6116152' => [
+        'Be who you are and say what you feel, because those who mind don\'t matter and those who matter don\'t mind.',
+        'Dr. Seuss',
     ],
-    'd71b9748-5ce1-5a01-a860-67b06f8ec1b8' => [
-        'There is no shame in making an honest effort.',
-        'Epictetus',
+    'd1049872-e056-5e4b-8ea0-95824fa50535' => [
+        'Nature is the mother and the habitat of man, even if sometimes a stepmother and an unfriendly home.',
+        'John Dewey',
     ],
-    '79a7af6c-97e8-592c-8f90-60ecd8305377' => [
-        'I can\'t change the direction of the wind, but I can adjust my sails to always reach my destination.',
-        'Jimmy Dean',
+    'ee72a5cf-ba34-5e8c-ae9e-f12b18b180bb' => [
+        'A real entrepreneur is somebody who has no safety net underneath them.',
+        'Henry Kravis',
     ],
-    'b484a694-52aa-534e-b241-0a43c21fdf24' => [
-        'We take it for granted that we can see at all times of day and night. But there was a time, not all that long ago, in the age before electricity, when night brought total darkness - and with it, a not-so-small amount of terror. We get a sense of this when we go camping or when there\'s a power outage, and our fear of the darkness is primal.',
-        'Jake Halpern',
+    'da5f6428-2a32-5c99-82da-adff0bc9e486' => [
+        'When you\'re walking at the airport, you\'re expected to smile at people because they know you... I find that tough. I\'m only trying to protect myself. So I don\'t take my eyes off the floor. People can take that as attitude. But it\'s actually shyness. Yes, it is a bad habit. But it\'s a defense mechanism.',
+        'Katrina Kaif',
     ],
-    'd5e63fdd-dbec-5959-b107-861f29ac708e' => [
-        'Patton was living in the Dark Ages. Soldiers were peasants to him. I didn\'t like that attitude.',
-        'Bill Mauldin',
+    'c13c8e83-e8c1-51e3-9c93-89082fef96ae' => [
+        'Dare, dream, dance, smile, and sing loudly! And have faith that love is an unstoppable force!',
+        'Suzanne Brockmann',
     ],
-    '05910f06-80b6-5d58-b82d-9ca28f0f7736' => [
-        'Life is what we make it, always has been, always will be.',
-        'Sylvia Plath',
+    'd5272717-0c27-5c19-869f-727717b52da2' => [
+        'When people say, \'How did you start in comedy,\' I say my family was kidnapped by ninjas when I was very young, and to get them released I had to do a killer five-minute set. And even after I did that, you know, I started doing comedy under tough circumstances, I still kept at it because I enjoyed it.',
+        'Hannibal Buress',
     ],
-    'b75471d0-fa98-5b29-9221-dd87d036c595' => [
-        'Those songs are about getting out; they\'re not about getting out of family. It wasn\'t about how family life was curtailing because I didn\'t know family life.',
-        'Bob Geldof',
+    '0ab626cc-2647-55d2-9336-0603e0c908c0' => [
+        'If you travel around America you see different sections of highways donated by this or that person, and that\'s a slow beginning of what may end up being a situation common in the Third World: some sections of highways in wealthy areas are beautifully maintained and other parts are just dirt-strewn potholes.',
+        'Robert D. Kaplan',
     ],
-    '4302e3f4-f17d-56fd-be88-79e05236016b' => [
-        'I believe in stopping work and eating lunch.',
-        'L\'Wren Scott',
+    'ba91dcf1-7181-50c2-828b-099af6392274' => [
+        'We may brave human laws, but we cannot resist natural ones.',
+        'Jules Verne',
     ],
-    'c7f441d3-ff40-5aae-89c5-88f354335bcb' => [
-        'A two-year-old is kind of like having a blender, but you don\'t have a top for it.',
-        'Jerry Seinfeld',
+    '74c62aa4-32ac-53db-8606-82401b99f0a2' => [
+        'I\'m really looking forward to seeing what life brings to me.',
+        'Cara Delevingne',
     ],
-    'c33ad684-10d4-5389-a515-52b0a6195f2e' => [
-        'Government, even in its best state, is but a necessary evil; in its worst state, an intolerable one.',
-        'Thomas Paine',
+    '277770c9-0f25-58bb-8b0a-00ab90e67121' => [
+        'San Francisco is a mad city - inhabited for the most part by perfectly insane people whose women are of a remarkable beauty.',
+        'Rudyard Kipling',
     ],
-    'a5671d76-74ce-54ca-a98f-e48a95df457c' => [
-        'If I ever do anything, it actually might be some fantasy elf thing or even some cute, funny thing. Just to do something a little bit out of the ordinary. I\'ve done my superhero gig.',
-        'Todd McFarlane',
+    'd3e28379-4b9e-5f3e-9e81-2ae48b3439f2' => [
+        'If one tries to think about history, it seems to me - it\'s like looking at a range of mountains. And the first time you see them, they look one way. But then time changes, the pattern of light shifts. Maybe you\'ve moved slightly, your perspective has changed. The mountains are the same, but they look very different.',
+        'Robert Harris',
     ],
-    'e9448ce1-7f8b-563d-a151-da5f00e2247d' => [
-        'Work hard! In the end, passion and hard work beats out natural talent.',
-        'Pete Docter',
+    '5acb8528-4f3c-5b6b-8415-4efb6f2a4001' => [
+        'You travel with the hope that something unexpected will happen. It has to do with enjoying being lost and figuring it out and the satisfaction. I always get a little disappointed when I know too well where I\'m going, or when I\'ve lived in a place so long that there\'s no chance I could possibly get lost.',
+        'Andrew Bird',
     ],
-    '8d37aed9-8381-5372-b3a6-cfd070f649ad' => [
-        'I developed a problem with authority. Any time that authority was what I interpreted as being unjust, I stood up to it, and that became my personality.',
-        'Tom Petty',
+    '1525ac4c-efad-5670-87c4-46528c4d1c0f' => [
+        'What is not started today is never finished tomorrow.',
+        'Johann Wolfgang von Goethe',
     ],
-    'c13d0389-3de4-58ef-b442-e4b6cdc14dba' => [
-        'A great social success is a pretty girl who plays her cards as carefully as if she were plain.',
-        'F. Scott Fitzgerald',
+    '9a1c3eb5-2453-508f-81fd-7b623cd55be0' => [
+        'I remember when I was a kid, I could never find anything positive about chubby girls. If a girl was pudgy in books, she wasn\'t okay. She couldn\'t be happy or make friends unless she lost weight.',
+        'Ann Aguirre',
     ],
-    'fb268350-354e-5ad4-9533-6f82918368fe' => [
-        'If you\'re going to do something, you\'re going to do it to be the best.',
-        'Colin Kaepernick',
+    'acc0b8a6-04f0-53e4-a93a-9906f1e126ef' => [
+        'Success doesn\'t mean that you are healthy, success doesn\'t mean that you\'re happy, success doesn\'t mean that you\'re rested. Success really doesn\'t mean that you look good, or feel good, or are good.',
+        'Victoria Principal',
     ],
-    'd5454d75-063c-5407-808d-c827cb782656' => [
-        'Don\'t settle for a relationship that won\'t let you be yourself.',
-        'Oprah Winfrey',
+    'd2b463ba-ab1b-5d2c-ac4f-d61a89fc7a22' => [
+        'If you want to shine like a sun, first burn like a sun.',
+        'APJ Abdul Kalam',
     ],
-    '98caf143-b3ee-5a62-b0b1-938701d35ec1' => [
-        'Good luck is another name for tenacity of purpose.',
-        'Ralph Emerson',
+    '6cc83156-03a7-5f55-a85e-3312d85d0261' => [
+        'I know it sounds a bit corny, but I do think that beauty and sexiness come from within.',
+        'Rachel Stevens',
     ],
-    '145c1d2e-17bc-51d3-9742-c0219c3a348e' => [
-        'It\'s been proven by quite a few studies that plants are good for our psychological development. If you green an area, the rate of crime goes down. Torture victims begin to recover when they spend time outside in a garden with flowers. So we need them, in some deep psychological sense, which I don\'t suppose anybody really understands yet.',
-        'Jane Goodall',
+    'f148e97f-c6ac-5119-b80c-0669fbabc7da' => [
+        'The poem is not, as someone put it, deflective of entry. But the real question is, \'What happens to the reader once he or she gets inside the poem?\' That\'s the real question for me, is getting the reader into the poem and then taking the reader somewhere, because I think of poetry as a kind of form of travel writing.',
+        'Billy Collins',
     ],
-    '26b533b2-a256-5d6c-995d-1973ca754872' => [
-        'I was born into a very important family in Japan. My grandfather was a descendant of the Emperor, and we were very wealthy.',
-        'Yoko Ono',
+    '20b66c80-9cd6-5bfa-9433-4b97f122e3d4' => [
+        'A sister is someone who owns part of what you own: a house, perhaps, or a less tangible legacy, like memories of your childhood and the experience of your family.',
+        'Deborah Tannen',
     ],
-    'b3826d7f-4ed2-5719-aed3-3cb05784fa77' => [
-        'The best doctor is the one you run to and can\'t find.',
-        'Denis Diderot',
+    'a140a296-9b87-5e8f-a267-ef753ce1133f' => [
+        'I am never without my lyric book. If anything inspirational happens, I have it there so nothing\'s forgotten.',
+        'Gabrielle Aplin',
     ],
-    '6145f436-336c-5e41-81ea-4d9693947825' => [
-        'Music was always heavily involved with my spirit. My entire family is Jamaican. It\'s nothing but reggae music and those kinds of vibes.',
-        'Shameik Moore',
+    '536f5ab0-9b6d-5ea3-8e00-3f58a6cff001' => [
+        'I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.',
+        'Lao Tzu',
     ],
-    'ac1d6446-29c7-5c54-b4d4-875b8a17c88c' => [
-        'Nothing surpasses the beauty and elegance of a bad idea.',
-        'Craig Bruce',
+    '6e9ffe28-cd1f-54b0-ad40-06178ae8dcab' => [
+        'Id rather have a fake smile than a nasty stare.',
+        'Tamara Ecclestone',
     ],
-    '04d35400-6e15-555c-9663-5e6886225a88' => [
-        'In the central place of every heart, there is a recording chamber; so long as it receives messages of beauty, hope, cheer and courage, you are young.',
-        'Samuel Ullman',
+    'f8741ecb-6146-57e4-ac6d-5c2462283351' => [
+        'Life is short and the older you get, the more you feel it. Indeed, the shorter it is. People lose their capacity to walk, run, travel, think, and experience life. I realise how important it is to use the time I have.',
+        'Viggo Mortensen',
     ],
-    '6ddf6269-4179-5835-b985-82c4c234d8f6' => [
-        'I believe every human has a finite number of heartbeats. I don\'t intend to waste any of mine.',
-        'Neil Armstrong',
+    'aad72b4e-a137-509b-ace8-ea72836e1f05' => [
+        'We say we want to create beauty, identity, quality, singularity. And yet, maybe in truth these cities that we have are desired. Maybe their very characterlessness provides the best context for living.',
+        'Rem Koolhaas',
     ],
-    'be8e1dd6-44b9-5168-98a1-953c5b2aae81' => [
-        'Americans are the most generous country on the planet. I\'ve worked in Europe, I\'ve worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.',
-        'Hugh Jackman',
+    '84f428cb-ee53-5de4-89e6-5eff42559c5e' => [
+        'Success is a journey, not a destination. The doing is often more important than the outcome.',
+        'Arthur Ashe',
     ],
-    '664d422b-ecb8-523f-9db8-aca80cd21607' => [
-        'When you Google me, you\'ll find a lot of people don\'t like Richard Dreyfuss. Because I\'m cocky and I present a cocky attitude. But no one has ever disagreed with the notion I represent, that we need more civic education. So far there\'s 100 percent support for that.',
-        'Richard Dreyfuss',
+    '7cc71bd2-8f17-5732-b499-cf31451bfd70' => [
+        'Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.',
+        'Walt Disney',
     ],
-    '41900a91-703b-575b-94c5-1b8d5363b107' => [
-        'I always had a fantasy of being a chef, because I like kitchen life.',
-        'Harvey Mackay',
+    '1a86f9ab-700a-5804-8f2f-a4645fd63b99' => [
+        'There\'s no such thing as a specific authenticity to what Mexico is, because Mexico is incredibly complex and varied, and the food is completely different if you travel 50 kilometers. It just changes all the time.',
+        'Gael Garcia Bernal',
     ],
 ];

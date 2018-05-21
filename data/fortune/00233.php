@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '483f9ed4-7f22-512d-9264-db3a934fed4a' => [
-        'The rainbow is a part of nature, and you have to be in the right place to see it. It\'s beautiful, all of the colors, even the colors you can\'t see. That really fit us as a people because we are all of the colors. Our sexuality is all of the colors. We are all the genders, races, and ages.',
-        'Gilbert Baker',
+    '947fd598-97e5-536f-80a1-66a38b983e86' => [
+        'Knowledge has three degrees, opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.',
+        'Plotinus',
     ],
-    '945ed9d9-a208-5750-b4ab-5bf84071ef9b' => [
-        'Good things happen to those who hustle.',
-        'Anais Nin',
+    '3f2b3648-a8b5-5259-904a-8d34bd430b90' => [
+        'Many business leaders are seeing the relationship between long term success and sustainability, and that\'s very heartening.',
+        'Jacqueline Novogratz',
     ],
-    'b42cddac-97f7-5f34-bc81-9bd53fafbb43' => [
-        'Life comes from the earth and life returns to the earth.',
-        'Gavin Rossdale',
+    '63dba864-ce57-577f-8b73-dee7966a9dbc' => [
+        'Any time I have any time off, I try to travel.',
+        'Margot Robbie',
     ],
-    'e065313a-a199-519d-ad50-dd75f47b9325' => [
-        'Now we have black and white elected officials working together. Today, we have gone beyond just passing laws. Now we have to create a sense that we are one community, one family. Really, we are the American family.',
-        'John Lewis',
+    '024fda3c-cd80-501d-8def-8dc0064e591e' => [
+        'When we hear the word \'beauty\', we inevitably think that beauty belongs in a special elite realm where only the extraordinary dwells. Yet without realizing it, each day each one of us is visited by beauty. When you actually listen to people, it is surprising how often beauty is mentioned. A world without beauty would be unbearable.',
+        'John O\'Donohue',
     ],
-    '68748ebb-b856-53de-975d-0a2c8ece3582' => [
-        'Everybody I know who is funny, it\'s in them. You can teach timing, or some people are able to tell a joke, though I don\'t like to tell jokes. But I think you have to be born with a sense of humor and a sense of timing.',
-        'Carol Burnett',
+    '186ca0b5-8abd-5856-9f45-642db7645049' => [
+        'A good part of my leadership skills is crafted from learning from experiences early in my career that were not positive experiences.',
+        'John Lasseter',
     ],
-    'a14d74a5-e812-5352-9284-54e5d609461a' => [
-        'People might not get all they work for in this world, but they must certainly work for all they get.',
-        'Frederick Douglass',
+    'de6ed285-82d1-58df-8826-0103d3acceb9' => [
+        'Chains of habit are too light to be felt until they are too heavy to be broken.',
+        'Warren Buffett',
     ],
-    '04c5e795-e8eb-555f-81e4-eb6edb47e4a1' => [
-        'From my perspective, probably women are won over by people who are sweet and respectful and courteous and kind and funny. I think those are the things that win women over.',
-        'Zooey Deschanel',
+    '402a84ad-4454-5e2d-bcce-a4454d0713e2' => [
+        'Art, whatever form it takes, requires hard work, craftsmanship and creativity. As a writer, I know my grammar, cadence, the music of prose, and the art of the narrative.',
+        'F. Sionil Jose',
     ],
-    'b573e4c0-73df-5914-bf20-923b3eb93cd8' => [
-        'The actions of men are the best interpreters of their thoughts.',
-        'James Joyce',
+    '2c00db43-6540-5d1a-9379-cb0d3c914cf6' => [
+        'We have to acknowledge that adolescence is that time of transition where we begin to introduce to children that life isn\'t pretty, that there are difficult things, there are hard situations, it\'s not fair. Bad things happen to good people.',
+        'Laurie Halse Anderson',
     ],
-    '7381e0b4-7a58-5818-858b-f8aa37fec7c8' => [
-        'My great hope is to laugh as much as I cry; to get my work done and try to love somebody and have the courage to accept the love in return.',
-        'Maya Angelou',
+    '5fd572b3-da01-5bec-8c90-1162215c1ddb' => [
+        'Very few things are totally devoid of any possibility of humor. If you are aware of that possibility and alive to the scene becoming that way, then it just happens naturally. That\'s what I feel living is like, too. I find a lot of things that make me smile or make me laugh over the course of the day.',
+        'Tom Drury',
     ],
-    '267460dd-7e53-5653-9701-259bafc4b195' => [
-        'Just like gold, which has to weather very high temperatures to achieve the sheen and shine it finally gets, so also every person has to go through struggles in his life to achieve success.',
-        'Kailash Kher',
+    '10120760-66df-5f52-8d6f-9f6c1ea029b9' => [
+        'One of the primary purposes of civilization - and certainly its primary strength - is the guarantee that family life can flourish in unity, peace, and order.',
+        'Robert Kennedy',
     ],
-    '5bbb96c7-5a66-5276-8b0f-07d36de1ada6' => [
-        'What I look for in a role is the physical. But what\'s the journey emotionally? Can I take this person who is this archetypal tough guy and find the beauty?',
-        'Frank Grillo',
+    'ac2cb29d-1586-5199-b138-4699829f277e' => [
+        'I know you can be funny without being filthy.',
+        'Jonathan Winters',
     ],
-    '73c2f402-cc8a-50e5-be57-ab06f9ea4868' => [
-        'Go hard or go home',
-        'Phil Heath',
+    'b35d6cba-89b1-579f-a749-679877055181' => [
+        'Real difficulties can be overcome; it is only the imaginary ones that are unconquerable.',
+        'Theodore N. Vail',
     ],
-    'a1bff9b0-7174-56d1-9629-0b77fbd68ae9' => [
-        'I think the biggest challenge is to continue on the same path. I think it\'s easy to become complacent from the success you\'ve had.',
-        'Jason Derulo',
+    '5e20949a-ba9e-5a80-b37f-326528e95123' => [
+        'Life\'s like a play: it\'s not the length, but the excellence of the acting that matters.',
+        'David Gerrold',
     ],
-    '71f27070-0753-5596-b6c0-85cc9ea9b908' => [
-        'He who angers you conquers you.',
-        'Elizabeth Kenny',
+    '90d10f1a-9a70-5d35-bcb8-1e63c4229e5d' => [
+        'I call myself the Amusement Park. That\'s because I\'m funny and scary at the same time.',
+        'Terry Crews',
     ],
-    'edf24e81-5ab2-583d-8c57-9e06edb8a122' => [
-        'I was fortunate to play for Pete Rose and have teammates like Ken Griffey Sr., Tony Perez and Dave Concepcion. I grew up in the game with a mature attitude. I\'ve always known it was better to be seen and not heard.',
-        'Eric Davis',
+    '06af404e-9aaa-5a4a-9569-86a8ff046349' => [
+        'In the case of Iraq, notwithstanding the violence there at the moment, the very fact that a hideous regime - responsible for genocide, for the use of chemical and biological weapons, aggression against two neighbors - has been removed in itself is a positive development.',
+        'Jose Ramos-Horta',
     ],
-    'f701f3ba-1fda-5a94-a4a4-22628bcb4f12' => [
-        'Only the educated are free.',
-        'Epictetus',
+    '8b460cbb-0815-574f-9a55-80611f75dce1' => [
+        'Time begins the healing process of wounds cut deeply by oppression. We soothe ourselves with the salve of attempted indifference, accepting the false pattern set up by the horrible restriction of Jim Crow laws.',
+        'Rosa Parks',
     ],
-    '434477c7-992f-51e0-bcbe-b241756d123c' => [
-        'I literally wear a mask. When I take it off, I\'m a father. I\'m a husband. I like to come home, and I like to spend time with family, and I like to travel, and I like to have a good time. And I like to be a kid every now and giggle and play with my kids.',
-        'Rey Mysterio',
+    '49b76991-f3c8-5733-ad2f-25167194ed69' => [
+        'Being a funny person does an awful lot of things to you. You feel that you mustn\'t get serious with people. They don\'t expect it from you, and they don\'t want to see it. You\'re not entitled to be serious, you\'re a clown.',
+        'Fanny Brice',
     ],
-    '8c51c938-ea85-5b39-89d2-773afd0876d4' => [
-        'That brain of mine is something more than merely mortal, as time will show.',
-        'Ada Lovelace',
+    'e07c2f76-3c1c-5cca-ae68-c6e56ae44a15' => [
+        'True beauty is born through our actions and aspirations and in the kindness we offer to others.',
+        'Alek Wek',
     ],
-    '64f465c3-4667-5c94-aab3-f27884e918ea' => [
-        'It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.',
-        'Lama Yeshe',
+    '13c6455e-b835-55a4-a26d-df173397be70' => [
+        'Two races share today the soil of Canada. These people had not always been friends. But I hasten to say it. There is no longer any family here but the human family. It matters not the language people speak, or the altars at which they kneel.',
+        'Wilfrid Laurier',
     ],
-    '181eac97-9198-5a03-81fc-4859e71c1ea6' => [
-        'Enjoy failure and learn from it. You can never learn from success.',
-        'James Dyson',
+    '8002f9c4-e663-5a76-bd4b-bfe6df731ee2' => [
+        'To see things in the seed, that is genius.',
+        'Lao Tzu',
     ],
-    '3ab280dd-e50d-5e9b-a699-b3c5939dfb02' => [
-        'There is nothing so stable as change.',
-        'Bob Dylan',
+    '45e27f08-feea-5ec6-be2b-993f86562cfb' => [
+        'Cherish sunsets, wild creatures and wild places. Have a love affair with the wonder and beauty of the earth.',
+        'Stewart Udall',
+    ],
+    '8e2a2935-8374-51c4-a3bf-16cf7cbc13cc' => [
+        'If you want to be truly successful invest in yourself to get the knowledge you need to find your unique factor. When you find it and focus on it and persevere your success will blossom.',
+        'Sydney Madwed',
+    ],
+    'bab79469-f775-5b84-a6f2-34764981a0c3' => [
+        'The shoe that fits one person pinches another; there is no recipe for living that suits all cases.',
+        'Bruce Lee',
+    ],
+    '1b487ad6-a6f0-5ded-9371-de1aea295adf' => [
+        'I still don\'t love the darkness, though I\'ve learned to smile in it a little bit, now and then.',
+        'Billy Crystal',
+    ],
+    '7077360d-3729-5ce6-90e2-c3a7dc2c54de' => [
+        'What kind of influence did my parents have on my life? Well, they had the most influence. These are the people who are closest to me. My parents are very positive people. They\'ve been supportive. They\'re always there.',
+        'Derek Jeter',
     ],
     '10c9dcf4-2639-5572-8391-55262f66b373' => [
         'In the \'70s, in Britain, if you were going to do serious photography, you were obliged to work in black-and-white. Color was the palette of commercial photography and snapshot photography.',
         'Martin Parr',
     ],
-    '2d878dd8-bf56-54be-9cc1-f2d69f892106' => [
-        'Holding on to anger, resentment and hurt only gives you tense muscles, a headache and a sore jaw from clenching your teeth. Forgiveness gives you back the laughter and the lightness in your life.',
-        'Anthony Hopkins',
+    '60ce71e4-c844-57cc-a206-06c2532c4159' => [
+        'The automobile engine will come, and then I will consider my life\'s work complete.',
+        'Rudolf Diesel',
     ],
-    'b54185c0-a7f3-5aa5-b57e-0f5c9e899b11' => [
-        'Time management is the mantra of my life.',
-        'Vir Das',
+    '70aa900f-f83b-5e17-b8db-a4c0263b4544' => [
+        'I\'m a very positive thinker, and I think that is what helps me the most in difficult moments.',
+        'Roger Federer',
     ],
-    '55560d7a-6be6-5933-bf2b-b759ee00743f' => [
-        'She was a handsome woman of forty-five and would remain so for many years.',
-        'J. B. Priestley',
+    '424c063a-efaa-5805-b5fe-02bc622a8a76' => [
+        'Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.',
+        'Margaret Laurence',
     ],
-    '5ad2d237-8c01-5873-b5b7-0d1e3f1d5131' => [
-        'The beauty one can find in art is one of the pitifully few real and lasting products of human endeavor.',
-        'J. Paul Getty',
+    'f220be4c-c12a-574c-b4e0-113a0d64b569' => [
+        'I was told at first that being different was a bad thing. Everywhere I went, it was just, \'You\'re too different\'... And it turned out that being different was the best thing that ever happened to my career. It is why people travel to my shows. It\'s why people want to hear my story and buy my book.',
+        'Lindsey Stirling',
     ],
-    '3b6c7d60-1111-5dbc-93fa-66e2aa3d7bf6' => [
-        'The sky is the part of creation in which nature has done for the sake of pleasing man.',
-        'John Ruskin',
+    'b1c48f94-98fe-5a8b-b24d-e071ea1093e3' => [
+        'There are no lines in nature, only areas of colour, one against another.',
+        'Edouard Manet',
     ],
-    '8a435a36-109b-5e3b-b13d-11abfc4c8b8b' => [
-        'I am so saddened and grossed out by young women who look like creepy, old aliens because of their new Barbie noses and lips. Is that a smile or a grimace?',
-        'Olivia Wilde',
+    'ceb50842-9e9e-54a3-81b9-e72ee31d13a8' => [
+        'I believe there are three keys to success. For me it is keeping my priorities in order: It\'s my faith and my family, and then the business.',
+        'Kathy Ireland',
     ],
-    '35b2efe7-0f2d-5745-8822-2eff1a4a607a' => [
-        'My ultimate goal is to end up being happy. Most of the time.',
-        'Taylor Swift',
+    'b34d2792-124c-5984-844a-09f44701dc9a' => [
+        'People are beginning to see that the first requisite to success in life is to be a good animal.',
+        'Herbert Spencer',
     ],
-    '02344edf-efc6-5a7c-81fc-e4aa5a951cd7' => [
-        'For me, it was important Wonder Woman wouldn\'t be a Goody Two-Shoes. She has a little bit of attitude, and when she fights, she has a smirk on her face. I didn\'t want her to be polished. I want people to relate to her.',
-        'Gal Gadot',
+    '4234996f-8e22-566d-ae49-b81a75c1a997' => [
+        'I grew up in a very religious family. I could read the Qu\'ran easily at the age of five.',
+        'Akhmad Kadyrov',
     ],
-    '5e58b704-75b3-5110-b91c-c37e5f65323e' => [
-        'In a gentle way, you can shake the world.',
-        'Mahatma Gandhi',
+    '4302de82-a24e-5583-8229-bad11455b4e5' => [
+        'There is no life to be found in violence. Every act of violence brings us closer to death. Whether it\'s the mundane violence we do to our bodies by overeating toxic food or drink or the extreme violence of child abuse, domestic warfare, life-threatening poverty, addiction, or state terrorism.',
+        'Amelia Earhart',
     ],
-    'fc9d167d-26b3-531b-855d-dcbbbd720b67' => [
-        'Stay open-minded; stay focused. Train hard and train smart. For me, the older I get, the smarter I have to train also, because the recovery time is longer. Work on everything: become a well-rounded fighter - don\'t just be good at one thing; be good at everything.',
-        'Brock Lesnar',
+    '9b10f233-3907-5410-ba38-734d67e1b792' => [
+        'One of the things that I did before I ran for president is I was a professional speaker. Not a motivational speaker - an inspirational speaker. Motivation comes from within. You have to be inspired. That\'s what I do. I inspire people, I inspire the public, I inspire my staff. I inspired the organizations I took over to want to succeed.',
+        'Herman Cain',
     ],
-    '61ee7f92-801d-5da9-a7ab-97a938d1525d' => [
-        'I write what I think is funny and I write from a sense of popping a balloon or a sense of injustice, whether it\'s about yourself, or whether it\'s about something else. It\'s my worldview; it doesn\'t mean that everybody has to agree with it.',
-        'Denis Leary',
+    '8fcdd85c-dea5-58c2-a440-d5da07c12481' => [
+        'To have success in your professional life is not so hard. To succeed as a man is more difficult.',
+        'Yann Arthus-Bertrand',
     ],
-    'a5e9d4be-ea83-5cc5-8636-f6e60c0cce48' => [
-        'If you have a secret, people will sit a little bit closer.',
-        'Rob Corddry',
+    '9e914a89-2a38-5689-a062-1ccd944b826c' => [
+        'Yet, taught by time, my heart has learned to glow for other\'s good, and melt at other\'s woe.',
+        'Homer',
     ],
-    'aa31adf6-4a19-54f8-946e-c7377fb462dd' => [
-        'I really struggle with that feeling of helplessness. That\'s why I really try to get my blogs, and even myself, to point to the positive and look at all the inspiring things that are happening.',
-        'Daryl Hannah',
+    'bcdaacc7-7edd-56d2-a112-da9e0b638a45' => [
+        'Work expands so as to fill the time available for its completion.',
+        'C. Northcote Parkinson',
     ],
-    '6710947e-875a-58c9-bf47-9026884aa2fd' => [
-        'Look back, and smile on perils past.',
-        'Walter Scott',
+    'e0a088e0-cae6-5500-a5c1-fb2f22032044' => [
+        'Our national flower is the concrete cloverleaf.',
+        'Lewis Mumford',
     ],
-    '4037981b-5c3e-5b5a-ad8a-066cbf0b936c' => [
-        'There is no traffic jam along the extra mile.',
-        'Roger Staubach',
+    'c312ddbd-1a4e-59eb-8ee3-8fd1f2858f72' => [
+        'I just want to put some positive stuff out there. If it works, great. If it doesn\'t, no problem.',
+        'Kevin James',
     ],
-    '2cd1d234-1e71-59ec-9ac1-a64b102e139e' => [
-        'I follow the most random people on Twitter. I follow famous people like Khloe Kardashian, who surprisingly makes really funny tweets all the time.',
-        'Chloe Grace Moretz',
+    'f3634f69-b359-5272-b3a7-8da081e6a6db' => [
+        'There are many wonderful things that will never be done if you do not do them.',
+        'Charles D Gill',
     ],
-    '058cab39-b1fb-565e-9d83-16e3f18d0089' => [
-        'Visualize this thing that you want, see it, feel it, believe in it. Make your mental blue print, and begin to build.',
-        'R Collier',
+    '2867b803-aeed-5453-a2c7-c7455e4fc6e7' => [
+        'You reach a point where you don\'t work for money.',
+        'Walt Disney',
     ],
-    '0f9657be-73ca-5523-9204-06c59d51f22a' => [
-        'If we look at the world with a love of life, the world will reveal its beauty to us.',
-        'Daisaku Ikeda',
+    'cfa39b3f-23cf-5d95-b4b8-aa7ab834c359' => [
+        'I dislike feeling at home when I am abroad.',
+        'George Bernard Shaw',
     ],
-    '29d88f64-78fc-5185-a133-68dd4504ac74' => [
-        'Oh, if I could but live another century and see the fruition of all the work for women! There is so much yet to be done.',
-        'Susan B. Anthony',
+    '74e79507-3d13-579e-9304-2055a7928a81' => [
+        'Life is the art of drawing sufficient conclusions from insufficient premises.',
+        'Big Boi',
     ],
-    '1b521fe0-3390-5ed1-b258-07b5c470a563' => [
-        'Sharks are among the most perfectly constructed creatures in nature. Some forms have survived for two hundred million years.',
-        'Eugenie Clark',
+    'af634850-4825-50e4-88c1-bfb81406f0c0' => [
+        'The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.',
+        'Roy Ayers',
     ],
-    '6e049b90-2f09-5239-bfe6-051170f28604' => [
-        'Be faithful in small things because it is in them that your strength lies.',
-        'Mother Teresa',
+    '99e03b7d-e79b-5496-b007-97f2c09c4e6a' => [
+        'Here is the test to find whether your mission on Earth is finished: if you\'re alive, it isn\'t.',
+        'Hugh Mackay',
     ],
-    'eed3fc54-324b-5ce8-9ac2-743bb8bdc57f' => [
-        'I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.',
-        'Albert Einstein',
+    'ebcfcab8-5935-5636-9df5-0383d5573f91' => [
+        'The more people explore the world, the more they realize in every country there\'s a different aesthetic. Beauty really is in the eye of the beholder.',
+        'Helena Christensen',
     ],
-    '5e659636-2145-553f-8cc7-5e49d7990a49' => [
-        'I try to be as positive as I can because I truly believe I am my feelings, and if I\'m sad, if I have regrets, they will show up as illnesses, they will show up as cancers... I don\'t want that.',
-        'Marie Helvin',
+    '0e29e9d8-e151-5207-8b7f-6b01c81a5170' => [
+        'You really can change the world if you care enough.',
+        'Marian Edelman',
     ],
-    'd9b3b065-f92e-5771-80ad-73c47a32eb6b' => [
-        'My husband has some very interesting hobbies, and through him, I\'ve learned to fly and earned my pilot\'s license. Together, we fly all over the United States. Since our children are all grown now, we also travel a great deal in Europe, but we take commercial flights because our plane is not really equipped to make transatlantic flights.',
-        'Betsy Byars',
-    ],
-    '22da49c5-8991-503d-89ac-fd3440bd9d35' => [
-        'Life isn\'t always fair. Some people are born into better environments. Some people have better genetics. Some are in the right place at the right time. If you\'re trying to change your life, all of this is irrelevant. All that matters is that you accept where you are, figure out where you want to be, and then do what you can, today and every day, to hold your head high and keep moving forward.',
-        'Lori Deschene',
-    ],
-    '7158a292-2dad-5edd-8b75-2e2c259b6363' => [
-        'If you aren\'t going all the way, why go at all?',
-        'Joe Namath',
-    ],
-    '3dfb6093-111f-5b10-b142-b52d1c75fa9d' => [
-        'And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.',
-        'Elizabeth Appell',
-    ],
-    '0fdbc8d1-3736-5934-8dda-f30bbb8a8a43' => [
-        'I enjoy being happy every day, and hopefully you can hear my happiness in my music. Life is beautiful.',
-        'Queen Rania of Jordan',
+    '702afc45-bac2-5e41-9d3a-4d45eb59ecb7' => [
+        'Research has shown that the best way to be happy is to make each day happy.',
+        'Deepak Chopra',
     ],
 ];

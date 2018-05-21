@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '3211385c-900b-5150-be89-8c85e4c22b42' => [
-        'Like the Earth, the Web is a less appealing place than it used to be. If I want attitude and arguing and meanness and profanity and wrong information screamed at me as gospel, I\'ll get in a time machine and spend Christmas with my family in 1977.',
-        'J. R. Moehringer',
+    'a926802d-9a96-51f0-a8d5-e6b70a29e4ce' => [
+        'I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near.',
+        'Margaret Thatcher',
     ],
-    '90d45c25-cdc5-5dba-934e-a7ace08de409' => [
-        'I want to let you in on a little secret: I don\'t always feel like I\'m a success. That\'s right. There are plenty of times when I feel like I\'ve just totally messed up and failed to connect with the people I\'m trying to communicate with.',
-        'Joyce Meyer',
+    '00ba21d2-b9ff-546d-885f-3e33abf93642' => [
+        'You know, I\'ve got wrinkles on my forehead and smile lines, but what\'s wrong with that? I love to smile.',
+        'Jennifer Aniston',
     ],
-    'a62004cb-d73f-5896-9252-241aa3bbb359' => [
-        'Not on one strand are all life\'s jewels strung.',
-        'William Morris',
+    'b8f0e19a-6f26-50af-b7b5-ee375c8058e5' => [
+        'Funny is funny.',
+        'Don Rickles',
     ],
-    '252814b2-0d87-59c8-9083-587685ebfaac' => [
-        'During the Great Depression, when people laughed their worries disappeared. Audiences loved these funny men. I decided to become one.',
-        'Jerry Stiller',
+    '4e4db945-bfaa-5d76-8f74-763a202fba59' => [
+        'Memories are like stones, time and distance erode them like acid.',
+        'Ugo Betti',
     ],
-    'a7043ec2-bebb-55e2-a727-2c65e018f8ef' => [
-        'My trade and art is to live.',
-        'Theodore Roosevelt',
+    '62dcec98-b43c-5c9e-8260-e8739d76ab38' => [
+        'I love the live performances and Las Vegas. I also like making films that are being discovered by another generation. Having been a teen idol of the \'60s is great because you realize you left your generation with a smile and good memories.',
+        'Connie Stevens',
     ],
-    '7d5b1a36-d7c1-54ed-adce-9576ca20baf0' => [
-        'Life is like a roller coaster, live it, be happy, enjoy life.',
-        'Alfred A. Montapert',
+    'e521cd54-36cf-5678-9c61-2ec9a1c53323' => [
+        'I\'m blonde and tanned and normal-sized! I\'m sweet, shy, funny, have a big heart and I\'m nice - and I like to eat.',
+        'Paris Hilton',
     ],
-    '1ac0dac9-08b4-558c-9699-db8a95b0bc28' => [
-        'When I write, I\'m still imagining a kid reading it on paper. I read e-books when I travel, but in general I still prefer holding an old-fashioned book in my hands. There\'s a special, tactile experience.',
-        'Rick Riordan',
+    'd2dd3e72-c969-58fc-bce3-f52ba0f03e27' => [
+        'I gave up my struggle with perfection a long time ago. That is a concept I don\'t find very interesting anymore. Everyone just wants to look good in the photographs. I think that is where some of the pressure comes from. Be happy. Be yourself, the day is about a lot more.',
+        'Anne Hathaway',
     ],
-    'b4001d0f-4768-5fb6-be95-3d86b7aef7af' => [
-        'Can a woman become a genius of the first class? Nobody can know unless women in general shall have equal opportunity with men in education, in vocational choice, and in social welcome of their best intellectual work for a number of generations.',
-        'Anna Garlin Spencer',
+    '681e128e-9b44-5abd-81e5-cb74b3381814' => [
+        'By making a comeback, I\'m changing the attitude of people toward me. If I\'d known that people would react so enthusiastically, I\'d have done it years ago.',
+        'Mark Spitz',
     ],
-    '84037d75-c41a-5ea8-968d-577246af0f90' => [
-        'Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.',
-        'Charles A. Lindbergh',
+    '79392aa4-393c-51be-b1ac-43d42dd290fe' => [
+        'We will see that our new attitude toward liquor has been given to us without any thought or effort on our part. It just comes! That is the miracle of it.',
+        'William Griffith Wilson',
     ],
-    'a77ac8e2-af15-5ad0-ba65-8090f5666c49' => [
-        'I never expect to see a perfect work from an imperfect man.',
-        'Alexander Hamilton',
+    '96507ab7-71d5-5846-9047-40d9a26ec62f' => [
+        'I actually bought a travel guitar, and that guitar is really cool. You can actually fold the guitar, and you can plug headphones into it, but it\'s acoustic, or semi-acoustic.',
+        'Daniel Ek',
     ],
-    '298f9f05-812d-5cac-8ab2-b4f38af01617' => [
-        'Successful people make money. It\'s not that people who make money become successful, but that successful people attract money. They bring success to what they do.',
-        'Wayne Dyer',
+    'a4a105e8-5755-5283-b95e-376e01933296' => [
+        'Life is like a trumpet - if you don\'t put anything into it, you don\'t get anything out of it.',
+        'Dorothea Lange',
     ],
-    'dfa03d20-990f-55c6-beca-e9426a218e43' => [
-        'Between two evils, I always pick the one I never tried before.',
-        'Mae West',
+    '5452119d-4818-5492-be45-9df534ad00d4' => [
+        'Optimists are usually wrong. But all the great change in history, positive change, was done by optimists.',
+        'Thomas Friedman',
     ],
-    'a8522e0e-9cf4-5ea4-a831-b8fed2653abc' => [
-        'Everything you can imagine is real.',
-        'Pablo Picasso',
-    ],
-    'ce86b242-e798-515d-8368-70d3b090cb6d' => [
-        'Conversation would be vastly improved by the constant use of four simple words: I do not know.',
-        'Andre Maurois',
-    ],
-    '8d8c43c2-6bb8-512d-968a-ae6857d728fc' => [
-        'In the end, the whole Internet thing kills me, because you can use it as a positive thing or you can read into all the negativity. And I think you\'ve gotta put out positive energy, put out cool viral stuff, and then just stay out of people\'s opinions.',
-        'Nikki Sixx',
-    ],
-    'f8bc93ec-bd62-51a4-a995-65f76210a537' => [
-        'I think working hard at anything when you\'re young and getting positive results, it\'s always an incredible feeling to see that.',
-        'Jessica Springsteen',
-    ],
-    '65d37758-d097-506c-a240-c787bd45d858' => [
-        'My message, especially to young people is to have courage to think differently, courage to invent, to travel the unexplored path, courage to discover the impossible and to conquer the problems and succeed. These are great qualities that they must work towards. This is my message to the young people.',
-        'A. P. J. Abdul Kalam',
-    ],
-    '99c0b921-3b74-5835-b16b-8e58c155137e' => [
-        'When virtue and modesty enlighten her charms, the lustre of a beautiful woman is brighter than the stars of heaven, and the influence of her power it is in vain to resist.',
-        'Akhenaton',
-    ],
-    'b6312916-7be6-5e52-bf77-de3df952041f' => [
-        'Trust only movement. Life happens at the level of events, not of words. Trust movement.',
-        'Alfred Adler',
-    ],
-    'b5ea15f3-4d0f-5325-bd34-645af0e67b06' => [
-        'There are a lot of movies I\'d like to throw away. That\'s not to say that I went in with that attitude. Any film I ever started, I went in with all the hope and best intentions in the world, but some films just don\'t work.',
-        'Kiefer Sutherland',
-    ],
-    '8b680d40-50a9-5cbe-85bb-5493f2f7abfa' => [
-        'Practice yourself, for heavens sake in little things, and then proceed to greater.',
-        'Epictetus',
-    ],
-    '6df40033-5706-52ba-b289-cebda310462f' => [
-        'I\'m a prankster, so some of the - you know, I like a good joke. I think when it\'s funny, it\'s funny.',
-        'Sean Spicer',
-    ],
-    'd9934487-2d00-5b10-94f4-111aa7c12e34' => [
-        'Eventually, my eyes were opened, and I really understood nature. I learned to love at the same time.',
-        'Claude Monet',
-    ],
-    'd89a05ce-1b9c-5c70-8292-19acf6947195' => [
-        'By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.',
-        'Dalai Lama',
-    ],
-    'd63a9650-5661-5950-8666-582819d955b6' => [
-        'If I just do everything the opposite of what my dad did, I think that will make things pretty easy. I can joke about it now because I\'m past that stage where it used to hurt. By having a kid, it\'s gone. I could take all that negative energy that I had and put it in a positive way.',
-        'Derrick Rose',
-    ],
-    '992fe708-f825-517c-854a-53739cd3a761' => [
-        'Perseverance is not a long race; it is many short races one after the other.',
-        'Walter Elliot',
-    ],
-    '8a6b9a3d-bcb7-5b76-8004-ab412742cd5f' => [
-        'It\'s always best to ask for forgiveness if you feel that you made a mistake. And again, asking for forgiveness is not just saying the words \'I\'m sorry\'; it is also offering what you need to do.',
-        'Grace Poe',
-    ],
-    'db2845ee-4c68-5755-a737-f9abc93f95ae' => [
-        'We are all born with a unique genetic blueprint, which lays out the basic characteristics of our personality as well as our physical health and appearance... And yet, we all know that life experiences do change us.',
-        'Agatha Christie',
-    ],
-    '0553f533-cba7-57f5-a20b-1ef0198a5899' => [
-        'Failure doesn\'t mean you are a failure it just means you haven\'t succeeded yet.',
-        'Robert Schuller',
-    ],
-    '08a4bbfb-bd6c-5cf4-a9a1-c68cd0425527' => [
-        'Spring is nature\'s way of saying, \'Let\'s party!\'',
-        'Robin Williams',
-    ],
-    'e230c006-c3a7-5ce9-ad75-b57dc6c16559' => [
-        'If one is desperate for love, I suggest looking at one\'s friends and family and see if love is all around. If not, get a new set of friends, a new family.',
-        'Jasmine Guy',
-    ],
-    'd3eb46ca-5812-5496-9ac4-54cca2f397b3' => [
-        'And, in a funny way, each death is different and you mourn each death differently and each death brings back the death you mourned earlier and you get into a bit of a pile-up.',
-        'Nigella Lawson',
-    ],
-    '890390cf-56e1-5452-a425-792b7c55064c' => [
-        'An artist must possess Nature. He must identify himself with her rhythm, by efforts that will prepare the mastery which will later enable him to express himself in his own language.',
-        'Henri Matisse',
-    ],
-    '683e9db8-6bf5-5089-8ae9-36b8719b68d9' => [
-        'I hate to travel with stuff.',
-        'Manolo Blahnik',
-    ],
-    '2eaa6195-7e64-532f-9924-79876319e4c3' => [
-        'There will always be a desire for something new, fresh and innovative, as well as a yearning and respect for timeless elegance and beauty.',
-        'Helena Christensen',
-    ],
-    'e0c79a46-3892-51b8-9a1b-ea562d70b37d' => [
-        'My perfect weekend is going for a walk with my family in the park. I don\'t think there\'s anything better.',
+    '6acbf926-d4e9-5f0c-bc79-fe06695aff74' => [
+        'There\'s going to be space travel at some point.',
         'Anne Wojcicki',
     ],
-    'c6fab2b8-fe36-5157-8233-b976b11a91d2' => [
-        'The gift of fantasy has meant more to me than my talent for absorbing positive knowledge.',
-        'Albert Einstein',
+    'b357e1b4-5340-58ca-b2c5-85babbb60264' => [
+        'Mariah is a beautiful and talented person, and I\'ve had a crush on her for as long as I can remember. Every day, my respect for Mariah continues to grow higher. She\'s a caring, warm and funny person. People have no idea how funny she is! I feel like I\'ve always known she was my forever love.',
+        'Nick Cannon',
     ],
-    '10661226-7ec5-5c4d-818e-52d1395c6125' => [
-        'Weve got to have a dream if we are going to make a dream come true.',
+    '0715b6c2-e74a-52df-9cc4-9a3cbef97ef1' => [
+        'A lot of people don\'t have near the amount of success as I\'ve been blessed to have, and it\'s all about working hard and hoping that continues.',
+        'Luke Bryan',
+    ],
+    '0a59e30b-99fe-5738-aae5-fe982cb6ad9f' => [
+        'There are people who travel because they want to push themselves to physical limits, people who walk across deserts or cycle across the Antarctic - like Ranulph Fiennes, who just does it because it\'s there. And then there are people like me, who are just genuinely curious about the world.',
+        'Michael Palin',
+    ],
+    'ea8be603-b9fa-5efd-a519-4e51656546a6' => [
+        'I was brought up by a single mom in a poor town in Arkansas and while some aspects of small-town life were really positive - like the fact that everyone there is really sweet and hospitable - there is also this close-minded mentality, and that naturally made me want to rebel.',
+        'Beth Ditto',
+    ],
+    '004acea7-244b-576c-b99b-94d2bb75701e' => [
+        'Surround yourself with the best people you can find, delegate authority, and don\'t interfere as long as the policy you\'ve decided upon is being carried out.',
+        'Ronald Reagan',
+    ],
+    '9246bde1-4191-5170-ab36-42dfb3a07bfa' => [
+        'To remain a credible leader, I must always work first, hardest, and longest on changing myself. This is neither easy nor natural, but it is essential.',
+        'John C. Maxwell',
+    ],
+    'c3acd945-92dc-5d43-9ea0-a1559b6f8eae' => [
+        'After the first miscarriage, I tried to take the attitude that it was my body\'s way of telling me that this pregnancy wasn\'t meant to be.',
+        'Christie Brinkley',
+    ],
+    '7bad0736-eaaa-5608-ac55-6d5c6e2f4f38' => [
+        'The meaning of things lies not in the things themselves, but in our attitude towards them.',
+        'Antoine de Saint-Exupery',
+    ],
+    'd7b82f7c-054e-505c-a7bb-698a7c56136d' => [
+        'One man cannot practice many arts with success.',
+        'Plato',
+    ],
+    '1f26e2ca-e49f-51c6-8ada-70a55bef567d' => [
+        'To be a champion, I think you have to see the big picture. It\'s not about winning and losing; it\'s about every day hard work and about thriving on a challenge. It\'s about embracing the pain that you\'ll experience at the end of a race and not being afraid. I think people think too hard and get afraid of a certain challenge.',
+        'Summer Sanders',
+    ],
+    '607cdb17-fb28-5c6c-9c79-a981599bc3ab' => [
+        'The time I had waited probably made the difference between success and failure.',
+        'Anna Neagle',
+    ],
+    '80a97e37-e23b-51b4-9fe3-fff05742e53d' => [
+        'There is just a lot of creativity and theatricality in performers who happen to be gay. Maybe there\'s a success in numbers, so by the law of averages we are going to get these jobs.',
+        'Neil Patrick Harris',
+    ],
+    '76c88231-4235-5d39-9a59-f3887efdfe88' => [
+        'Part of being a man is learning to take responsibility for your successes and for your failures. You can\'t go blaming others or being jealous. Seeing somebody else\'s success as your failure is a cancerous way to live.',
+        'Kevin Bacon',
+    ],
+    '4ec445e3-a4b4-55d2-8c09-5d382fee85c0' => [
+        'We have such a long, familiar history with Peter Falk. The minute his mug is on that screen people smile.',
+        'Paul Reiser',
+    ],
+    '0dfdaaff-884a-5e34-9778-b43dcb64816c' => [
+        'There\'s something very authentic about humor, when you think about it. Anybody can pretend to be serious. But you can\'t pretend to be funny.',
+        'Billy Collins',
+    ],
+    '8e99a693-7fab-58ed-a541-dc7d88488760' => [
+        'It\'s kind of fun to do the impossible.',
         'Walt Disney',
     ],
-    'c8b9bdc1-1786-502e-a0ea-1bed50af3653' => [
-        'With every experience, you alone are painting your own canvas, thought by thought, choice by choice.',
-        'Oprah Winfrey',
+    '6ea62632-78c5-510a-91be-9e933bb88440' => [
+        'The best way for guys to communicate is just don\'t talk to each other for nine hours. That\'s why I like long motorcycle rides. It\'s a great way for guys to socialize and not socialize.',
+        'Justin Theroux',
     ],
-    '5e56cde6-9784-5cff-bdc7-f36a565a4bbc' => [
-        'It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.',
-        'Mabel Newcomber',
+    'f834c439-5043-57d8-a1f9-9f86d8170ebf' => [
+        'I\'m always astonished by a forest. It makes me realise that the fantasy of nature is much larger than my own fantasy. I still have things to learn.',
+        'Gunter Grass',
     ],
-    'd9885025-f1eb-59a0-87b4-43c55ab4c87b' => [
-        'As long as you smile, have sparkly eyes and stick your shoulders back, nobody\'s going to notice your bum or your waist or your feet, for that matter.',
-        'Cat Deeley',
+    '59fa0e09-0172-53d0-b411-09bc7b94fb05' => [
+        'Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them.',
+        'Vaibhav Shah',
     ],
-    'aea2da35-909c-5249-8962-a313cfde0aa0' => [
-        'If you\'re trying to achieve, there will be roadblocks. I\'ve had them; everybody has had them. But obstacles don\'t have to stop you. If you run into a wall, don\'t turn around and give up. Figure out how to climb it, go through it, or work around it.',
-        'Michael Jordan',
+    '4dd0e68b-598c-51e9-905d-7a1479a67ac8' => [
+        'If you\'re walking down the right path and you\'re willing to keep walking, eventually you\'ll make progress.',
+        'Barack Obama',
     ],
-    'd2d79cf4-5f6f-51a8-8c70-c9efa2a22fe4' => [
-        'A lasting solution to this problem will have an exceptionally positive influence foremost on the peoples of Palestine and Israel, as well as on the region and the international community.',
-        'Recep Tayyip Erdogan',
+    '3b2958f2-b0e0-5d27-aead-572d873d8fb0' => [
+        'Extra dimensional theories are sometimes considered science fiction with equations. I think that\'s a wrong attitude. I think extra dimensions are with us, they are with us to stay, and they entered physics a long time ago. They are not going to go away.',
+        'Leonard Susskind',
     ],
-    '50e65a84-c218-5aff-a98d-a28952c791da' => [
-        'Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.',
-        'Samuel Ullman',
+    '6b6c7bd5-3894-56f2-8854-a0523c0b8bec' => [
+        'I was always anti-marriage. I didn\'t understand monogamy. I couldn\'t figure out how that could last. And then I met Bryn and I started to understand the beauty of constancy and history and change and going on the roller coaster with someone - of having a partner in life.',
+        'Maria Bello',
     ],
-    'c1e42222-99bb-5470-971b-e225c1cad2da' => [
-        'There are just some really beautiful people in the world. When you\'re walking down the street, or you\'re at a restaurant, someone catches your eye because they have their own look. It goes way beyond what they\'re wearing - into their mannerisms, the way they smile, or just the way they hold themselves.',
-        'Mary-Kate Olsen',
+    '4f67127a-a561-52b0-a4e1-fe70b6aff9f3' => [
+        'A will finds a way.',
+        'Orison Swett Marden',
     ],
-    '3505df38-c8d7-51b3-9f6d-6b6934c886b3' => [
-        'The deepest craving of human nature is the need to be appreciated.',
-        'William James',
+    'ee671715-9f4f-5baa-9c16-e3c399905ef8' => [
+        'Nature knows no pause in progress and development, and attaches her curse on all inaction.',
+        'Johann Wolfgang von Goethe',
     ],
-    'c3d94ad7-5cd1-5b81-9a7f-ef1006d3d268' => [
-        'There\'s so many things that life is, and no matter how many breakthroughs, trials will exist and we\'re going to get through it. Just be strong.',
-        'bell hooks',
+    'b483f71e-caa1-5835-967a-fffc20fabe1d' => [
+        'My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate, that\'s my philosophy.',
+        'Thornton Wilder',
     ],
-    '333961ad-ebfc-5ca9-acce-b9e547ee926f' => [
-        'To work in architecture you are so much involved with society, with politics, with bureaucrats. It\'s a very complicated process to do large projects. You start to see the society, how it functions, how it works. Then you have a lot of criticism about how it works.',
-        'Ai Weiwei',
+    '8b522358-65f1-5cac-934c-944de03abb91' => [
+        'When I take my kids out for dinner or lunch, people smile at us.',
+        'Louis C. K.',
     ],
-    '46aad356-45aa-5088-90c5-51bc5e0cdf51' => [
-        'For American foreign aid to become more effective, it must embrace the power of partnerships, access the transformative nature of free enterprise, and leverage the abundant resources that can come from the private sector.',
-        'Mitt Romney',
+    'c93bc3ef-4ed0-5ed2-b819-5bdf56451c26' => [
+        'I think a spiritual journey is not so much a journey of discovery. It\'s a journey of recovery. It\'s a journey of uncovering your own inner nature. It\'s already there.',
+        'Billy Corgan',
     ],
-    '7a9d4847-4446-50fb-aadd-96215b5e391f' => [
-        'I just recently joined Twitter. It\'s very positive - I love all the accolades. If my ego is hurting, I can just open my Twitter account and see \'Oh, I love you! I love the show!\' and it\'s great. I\'m trying to find the balance between trying to be funny, being honest and just being a promoter as the guy on \'Royal Pains.\'',
-        'Mark Feuerstein',
+    '55b12ae2-79a5-5516-8599-904117f0325d' => [
+        'I can speak Esperanto like a native.',
+        'Spike Milligan',
+    ],
+    '9ae34738-0d22-5b82-a359-0488e8feff47' => [
+        'My attitude to writing is like when you do wallpapering, you remember where all the little bits are that don\'t meet. And then your friends say: It\'s terrific!',
+        'Harrison Birtwistle',
+    ],
+    '4bc15e7d-5d0c-5a64-b95f-cdf6254e403e' => [
+        'Music washes away from the soul the dust of everyday life.',
+        'Pablo Picasso',
+    ],
+    '97d81e07-b986-5c06-b481-b509c6624411' => [
+        'It\'s been a huge blessing, being able to travel and have a great life.',
+        'Seann William Scott',
+    ],
+    '002555d1-bd27-54f0-936e-08b19b7e98c5' => [
+        'Age appears to be best in four things; old wood best to burn, old wine to drink, old friends to trust, and old authors to read.',
+        'Francis Bacon',
+    ],
+    '252be14c-a22f-53f3-a713-b28fbeeb0a64' => [
+        'Everyone smiles in the same language.',
+        'Unknown',
+    ],
+    '89a7bca2-805a-5484-a4fe-2c560b31c563' => [
+        'My attitude about death is, going into the next room, and it\'s a room that the rest of us can\'t get into because we don\'t have the key. But when we do get the key, we\'ll go in there, and we\'ll see one another again, in some shape or form or whatever. It\'s not the end.',
+        'Roger Moore',
+    ],
+    '3589bcfc-b676-5e6b-81da-c53e76701295' => [
+        'All our sweetest hours fly fastest.',
+        'Virgil',
+    ],
+    '6032a69d-2701-5c35-9b18-a32be656f60e' => [
+        'In time of difficulties, we must not lose sight of our achievements.',
+        'Mao Zedong',
+    ],
+    'cf06aaa3-95c7-5fb7-a9a6-91f691422d3e' => [
+        'When we believe the best of people, we let go of each thing they do that is hurtful to us. And we choose to think things like, \'I don\'t believe they meant to hurt me.\' \'Maybe they\'re having a bad day or don\'t feel well.\' \'They probably don\'t even realize how they sound.\'',
+        'Joyce Meyer',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '977e83e5-5312-540e-9044-024bd45692d7' => [
-        'I can barely conceive of a type of beauty in which there is no Melancholy.',
-        'Charles Baudelaire',
+    'b8bd2ffc-43a0-575c-9f5b-1273537067ee' => [
+        'So long as you\'ve got your friends about you, and a good positive attitude, you don\'t really have to care what everyone else thinks.',
+        'Gail Porter',
     ],
-    'acce538b-9659-5f5a-a48e-fb6c01dc6e12' => [
-        'Opportunities to find deeper powers within ourselves come when life seems most challenging.',
-        'Lao Tzu',
+    '3bbbf8fa-f4d6-5317-bb88-c5ab42a8a462' => [
+        'Don\'t be afraid to give your best to what seemingly are small jobs. Every time you conquer one it makes you that much stronger. If you do the little jobs well, the big ones will tend to take care of themselves.',
+        'Dale Carnegie',
     ],
-    'b318a144-3225-5e9e-a493-293b29f97592' => [
-        'In modern life, we tend to forget family values because of the hectic schedule.',
-        'Mahesh Babu',
+    '2b6774a2-88b5-5e9e-9114-6139a52ca7c1' => [
+        'You\'ll never convince me there is a hopeless situation or there is any finality in any success or any failure.',
+        'Carlos Ghosn',
     ],
-    '2e5ee35b-0d2a-58c1-b71a-3a54b27a0e59' => [
-        'Live your days on the positive side of life, in tune with your most treasured values. And in each moment you\'ll have much to live for.',
-        'Ralph Marston',
+    '8b25eca1-3981-5683-bb8b-c5edf09fdc52' => [
+        'There is no retirement for an artist, it\'s your way of living so there is no end to it.',
+        'Henry Moore',
     ],
-    'fade7345-3657-5480-b71d-be7468033b4a' => [
-        'The biggest challenge we all face is to learn about ourselves and to understand our strengths and weaknesses. We need to utilize our strengths, but not so much that we don\'t work on our weaknesses.',
-        'Mae Jemison',
+    '381f8880-b3a0-58b9-8695-025207400304' => [
+        'It really is a fact that liberals are much higher than conservatives on a major personality trait called \'openness to experience.\' People who are high on openness to experience just crave novelty, variety, diversity, new ideas, travel. People low on it like things that are familiar, that are safe and dependable.',
+        'Jonathan Haidt',
     ],
-    'c898d7ef-bd76-59a8-98f6-dfbeef5a0bec' => [
-        'Though I had success in my research both when I was mad and when I was not, eventually I felt that my work would be better respected if I thought and acted like a \'normal\' person.',
-        'John Forbes Nash, Jr.',
+    'dc2c2ca5-4602-5e46-a8d3-53d8f475e23c' => [
+        'I prioritize the things that need to get done at work, and I ask myself where I\'m spending the majority of my time. The answer to that question always needs to be \'with my family.\'',
+        'Elisabeth Hasselbeck',
     ],
-    '7ed9fe3b-d03a-5615-8840-ae328b19af24' => [
-        'You do not travel if you are afraid of the unknown, you travel for the unknown, that reveals you with yourself.',
-        'Ella Maillart',
+    '23fb173a-5c72-59ee-81c4-ac22fb73fcc4' => [
+        'My definition of an intellectual is someone who can listen to the William Tell Overture without thinking of the Lone Ranger.',
+        'Billy Connolly',
     ],
-    '0b066792-15e2-5aeb-99c2-ffc0d79631bd' => [
-        'The human mind is capable of excitement without the application of gross and violent stimulants; and he must have a very faint perception of its beauty and dignity who does not know this.',
+    'adae654c-96d5-5091-bd3c-29df5cb2f792' => [
+        'It\'s nice to just embrace the natural beauty within you.',
+        'Victoria Justice',
+    ],
+    'f6897be5-cc77-5ccc-acd1-768caa1f0240' => [
+        'Let your watchword be order and your beacon beauty.',
+        'Daniel Burnham',
+    ],
+    '4f953592-618f-5c21-998d-4c1d59cd57c3' => [
+        'Whoever is my relative, I will not be nice to them.',
+        'George Lopez',
+    ],
+    '2e811b66-0693-587f-9afa-fcf5e2bdfda0' => [
+        'Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.',
+        'Melody Beattie',
+    ],
+    'ab138731-1b23-550b-a408-3cf25c3077a4' => [
+        'Everything has positive and negative consequences.',
+        'Farrah Fawcett',
+    ],
+    'ea54c283-b542-5ea2-8f99-bc7020acb7f1' => [
+        'Do not turn back when you are just at the goal.',
+        'Publilius Syrus',
+    ],
+    '46aa3f0c-e905-5e27-97a5-bfa41e3260aa' => [
+        'The black family survived centuries of slavery and generations of Jim Crow, but it has disintegrated in the wake of the liberals\' expansion of the welfare state.',
+        'Thomas Sowell',
+    ],
+    'b88ddc91-87ce-5f8d-bd4e-bce3eae6f08f' => [
+        'If I don\'t need the money, I don\'t work. I\'m going to spend time with my family and friends, and I\'m going to travel and read and listen to music and try to learn a little bit more about how to be a human being, as opposed to learning how to be somebody else.',
+        'James Spader',
+    ],
+    '4de2a93e-dfe8-58ad-97c0-c44b9b0d9b80' => [
+        'I\'ve always wanted a family since I was a little girl - a big family. I\'m an only child, so I wanted, like, 10 kids... for sure.',
+        'Behati Prinsloo',
+    ],
+    '5c7a92f5-fc5e-5486-a57d-3651485e37ef' => [
+        'I am a man of fixed and unbending principles, the first of which is to be flexible at all times.',
+        'Everett Dirksen',
+    ],
+    '0c16ac9a-e446-58b4-a2a7-73d7636b9c92' => [
+        'No valid plans for the future can be made by those who have no capacity for living now.',
+        'Alan Watts',
+    ],
+    'b557ec76-990b-5f2a-ad06-2fcb03a1b437' => [
+        'There are so many little girls who follow me and look up to me. I\'m their role model, so I have to make sure I\'m always being professional and not putting any swear words out there - just really putting positive things out there on the Internet.',
+        'Jordyn Wieber',
+    ],
+    '66359dfc-3a0d-5875-9397-819578359efe' => [
+        'That best portion of a man\'s life, his little, nameless, unremembered acts of kindness and love.',
         'William Wordsworth',
     ],
-    'ebaf9b1a-a4a8-5cfa-8654-49817a5cb4e6' => [
-        'Beauty is boring because it is predictable.',
-        'Umberto Eco',
+    'b5a8a266-9fa6-5213-ba3c-37f9b46d0028' => [
+        'Work will win when wishy washy wishing won t.',
+        'Thomas S. Monson',
     ],
-    'a51ddc5a-7717-5cc5-81a1-6192aab2d0a7' => [
-        'Family and moral values are so central to everything that I am.',
-        'Marian Wright Edelman',
+    '31840989-3b10-5700-9d9c-0bfe59382a55' => [
+        'To travel hopefully is better than to arrive.',
+        'James Jeans',
     ],
-    'd9019084-dac2-5e91-b9d4-83068a602f09' => [
-        'Smile at a stranger. See what happens.',
-        'Patti LuPone',
+    'd95c60c2-bc84-5c7b-858a-f9fea0af77cd' => [
+        'Livelihoods and whole communities throughout the Murray-Darling Basin have been imperilled by the workings of drought, fire, flood, acid mud and human action over many decades. In the rescues and the cleanups and the long hauls, I see the same attitude over and again. People just rally and get on with it.',
+        'Quentin Bryce',
     ],
-    'e72f35ab-dea4-5943-a23f-1d8dbadc6231' => [
-        'Filipinos don\'t wallow in what is miserable and ugly. They recycle the bad into things of beauty.',
-        'Imelda Marcos',
+    '0c671444-a3cb-5762-a62a-f46d5876f2dc' => [
+        'Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.',
+        'Carl Sandburg',
     ],
-    '52e49022-6286-50f1-b6ec-69f74fbdfbb3' => [
-        'In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.',
-        'Richard Bach',
+    'e9a9dac2-6ee8-5131-beaf-d5e90eee3e8b' => [
+        'Engineers in the developed world should be arguing not for protectionism but for trade agreements that seek to establish rules that result in a real rise in living standards. This will ensure that outsourcing is a positive force in the developing nation\'s economy and not an exploitative one.',
+        'Brian Behlendorf',
     ],
-    '7e446f6a-275c-5981-b8d2-d5935f6250d3' => [
-        'Always work hard. Intensity clarifies. It creates not only momentum, but also the pressure you need to feel either friction, or fulfillment.',
-        'Marcus Buckingham',
+    '8243a2fc-0cad-55f3-a976-ec039af59d38' => [
+        'Every song you\'re trying to find something that going to connect in different ways but for me the songs that I\'m really drawn to are inspirational, songs that lift you and that everybody can relate to no matter where you\'re from.',
+        'Rodney Atkins',
     ],
-    '7a4de96d-6196-5af8-a41a-1f1a4fce63c0' => [
-        'Photography is the simplest thing in the world, but it is incredibly complicated to make it really work.',
-        'Martin Parr',
+    'ac34c7bb-454a-5b39-8ecf-223d90caea60' => [
+        'Listening to the stories my colleagues are researching and grappling with - in terms of access to documents, psychological understanding of their subjects, artful composition and determination to extrapolate from an individual\'s life lessons and insights that we can all learn from - I am each time overwhelmed by joy.',
+        'Nigel Hamilton',
     ],
-    'e7644c43-610c-5468-857a-bcec45d4f745' => [
-        'Our most intimate friend is not he to whom we show the worst, but the best of our nature.',
-        'Nathaniel Hawthorne',
+    'd61718b0-eda7-5bc1-957c-d51ad2418e4d' => [
+        'It\'s so hard not to smile.',
+        'Zoe Sugg',
     ],
-    '44ac3e20-9cd1-5a5b-952d-3417708e1395' => [
-        'Entrepreneurs can\'t forecast accurately, because they are trying something fundamentally new. So they will often be laughably behind plan - and on the brink of success.',
-        'Eric Ries',
+    '396babd9-d966-5e36-bde9-8d1da2678f2e' => [
+        'Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.',
+        'Carl Jung',
     ],
-    'f2405757-6205-5cf4-ba0e-52a4673dfb14' => [
-        'When we adopt a dog or any pet, we know it is going to end with us having to say goodbye, but we still do it. And we do it for a very good reason: They bring so much joy and optimism and happiness. They attack every moment of every day with that attitude.',
-        'Bruce Cameron',
+    '12aae581-b356-5e5e-9902-de020e0fd0ce' => [
+        'It\'s so essential to happiness to speak your truth out loud - because this sharing of your core pain is what creates a necessary healing shift - from negative beliefs about the world - to positive beliefs - and frees you up to be able to fully view life with meaning, purpose and connection with others.',
+        'Karen Salmansohn',
     ],
-    '9be95669-ba69-5a45-8eb3-f83758c29700' => [
-        'Touch seems to be such an important tool for enhancing social cooperation and affiliation that we have evolved a special physical route along which those subliminal feelings of social connection travel from skin to brain.',
-        'Leonard Mlodinow',
+    'c5d11555-9b84-5171-baf7-232789df8bc2' => [
+        'I don\'t remember ever deciding to become a performer. I just always was. I began performing by mimicking the performers on the new television that first took the attention away from me as the baby of the household. I continued performing to put a smile on my grandmother\'s face and always considered her when accepting or declining roles.',
+        'T\'Keyah Crystal Keymah',
     ],
-    'a94ba19a-ee18-5357-8bf9-e4f720cf8af1' => [
-        'By all means let\'s be open-minded, but not so open-minded that our brains drop out.',
-        'Richard Dawkins',
+    '99cf7f7c-96c2-56f7-a716-cccb999ac43e' => [
+        'I have found in work that you only get back what you put into it, but it does come back gift-wrapped.',
+        'Joyce Brothers',
     ],
-    '19a5ab56-c025-524a-82fa-bc90c360a0a7' => [
-        'I have been honoured to serve the whales, dolphins, seals - and all the other creatures on this Earth. Their beauty, intelligence, strength, and spirit have inspired me.',
-        'Paul Watson',
+    '45130d55-47da-5f14-89aa-53e08fa9dfb0' => [
+        'I did not want to be a tree, a flower or a wave. In a dancer\'s body, we as audience must see ourselves, not the imitated behavior of everyday actions, not the phenomenon of nature, not exotic creatures from another planet, but something of the miracle that is a human being.',
+        'Martha Graham',
     ],
-    'e0a15e73-6e70-5a76-a761-e4f0f801b217' => [
-        'I have more love, success, and security than I could ever dream of.',
-        'George Michael',
+    'e57043c0-15b3-5dbd-ae1f-c682e17a6069' => [
+        'In this life, we have to make many choices. Some are very important choices. Some are not. Many of our choices are between good and evil. The choices we make, however, determine to a large extent our happiness or our unhappiness, because we have to live with the consequences of our choices.',
+        'Zig Ziglar',
     ],
-    '032f49d5-32c5-5474-9e9b-b0ff198a6148' => [
-        'I can\'t change my personality. I\'ll always smile, but I\'ll be more focused.',
-        'Katarina Johnson-Thompson',
+    '611d4668-fce6-56e8-9d9d-dd758ae81f8b' => [
+        'In just six weeks from the time the design was started, we had the motor on the block testing its power.',
+        'Orville Wright',
     ],
-    '209b256c-2474-5df8-ad2c-9f4d97ae2666' => [
-        'Talent alone won\'t make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: \'Are your ready?\'',
-        'Johnny Carson',
-    ],
-    'c0134c24-cf26-5941-a6c4-7963b4232565' => [
-        'The most effective way to do it, is to do it.',
-        'Amelia Earhart',
-    ],
-    'd759e77c-28a8-5e21-a5a0-ae1b058eb8b2' => [
-        'The tree which moves some to tears of joy is in the eyes of others only a green thing that stands in the way. Some see nature all ridicule and deformity... and some scarce see nature at all. But to the eyes of the man of imagination, nature is imagination itself.',
-        'William Blake',
-    ],
-    '36c8f9be-21f1-5454-9bea-8611a5deae6f' => [
-        'We will be more successful in all our endeavors if we can let go of the habit of running all the time, and take little pauses to relax and re-center ourselves. And we\'ll also have a lot more joy in living.',
-        'Thich Nhat Hanh',
-    ],
-    'dc430fd5-b584-5b7e-ba73-13b4c6f6897c' => [
-        'There are two means of refuge from the miseries of life: music and cats.',
-        'Daniel H. Pink',
-    ],
-    'f7740e0a-2923-548c-a716-7b299510364d' => [
-        'You can complain because roses have thorns, or you can rejoice because thorns have roses.',
-        'Ziggy',
-    ],
-    '44934dab-6676-52e3-a29e-c7f7efa61002' => [
-        'My attitude is, do as much as I can while I\'m free. And if I\'m arrested I\'ll still do as much as I can.',
+    '9e340aca-630d-5faa-982e-71d81bc6fc01' => [
+        'Human beings want to be free and however long they may agree to stay locked up, to stay oppressed, there will come a time when they say \'That\'s it.\' Suddenly they find themselves doing something that they never would have thought they would be doing, simply because of the human instinct that makes them turn their face towards freedom.',
         'Aung San Suu Kyi',
     ],
-    '7d0ee8ce-4c0e-525f-9140-daa4fbcf0d74' => [
-        'All the lessons are in nature. You look at the way rocks are formed - the wind and the water hitting them, shaping them, making them what they are. Things take time, you know?',
-        'Diane Lane',
+    'd4dc97e2-618a-5560-951c-972046638582' => [
+        'All of us are born for a reason, but all of us don\'t discover why. Success in life has nothing to do with what you gain in life or accomplish for yourself. It\'s what you do for others.',
+        'Danny Thomas',
     ],
-    '7170ee9c-e9bf-567e-9ddb-1b92f37c429d' => [
-        'I have had wrinkles on my forehead and my smile line since I was a kid. I see them in my own kids. I know what they\'re going to look like. So it\'s kind of like that\'s my personality. I feel the older you get, too, the more confident you become just in your own skin.',
-        'Faith Hill',
+    'fc7600f6-c41f-5e3b-80e5-352f891d8eb3' => [
+        'Having a soft heart in a cruel world is courage, not weakness.',
+        'Katherine Henson',
     ],
-    'e0260fad-5497-5d1a-93c8-c9eb6fe87339' => [
-        'Positive energy knows no boundaries. If everyone were to spread positive energy on the Internet, the world would be a much better place.',
-        'Lu Wei',
+    'ffa346de-2ff4-5190-985c-07bea8d947e9' => [
+        'Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.',
+        'John Adams',
     ],
-    '14739b32-0289-57ac-8c6c-1da0a811febb' => [
-        'After I finished high school I went to Hong Kong and Thailand and spent some time there. Just to get that whole experience of being out of the bubble that I was in from high school in Vancouver, to be able to travel around and be on your own was an amazing experience.',
-        'Shay Mitchell',
+    '08914d1b-79f4-5e09-aeb3-23533b16e57f' => [
+        'At one time, you could sit on the Rue de la Paix in Paris or at the Habima Theater in Tel Aviv or in Medina and you could see a person come in, black, white, it didn\'t matter. You said, \'That\'s an American\' because there\'s a readiness to smile and to talk to people.',
+        'Maya Angelou',
     ],
-    '658cf6d4-dc03-515a-ac97-36c88e3b4b01' => [
-        'Halloween is one of my favorite days of the year. I have a strict rule: I don\'t work on Halloween and I won\'t travel on Halloween. Not for any reason.',
-        'Simon Sinek',
+    '19d195ec-0298-5b40-989e-44cf97baeec4' => [
+        'Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.',
+        'James Joyce',
     ],
-    'd97596b8-305b-5c8f-a58a-8e6e48269de4' => [
-        'The time to repair the roof is when the sun is shining.',
-        'John F. Kennedy',
+    '1e886175-d711-56be-a0d3-3eec4b9ef964' => [
+        'Freedom of religion is a principle that is central to our Nation\'s Declaration of Independence. Congress has taken this positive step to protect our freedom to express allegiance to America\'s flag and the ideals it represents.',
+        'Ron Lewis',
     ],
-    'f3a1ac05-186e-5755-8b0a-c647180d7580' => [
-        'I have a memory like an elephant. I remember every elephant I\'ve ever met.',
-        'Herb Caen',
+    '45b5cf35-bb87-5444-a718-ed3b7b47bce9' => [
+        'The common idea that success spoils people by making them vain, egotistic and self-complacent is erroneous; on the contrary it makes them, for the most part, humble, tolerant and kind.',
+        'W. Somerset Maugham',
     ],
-    '69fb9647-5c29-57c7-8fb2-53dfa41d61d1' => [
-        'You may only be someone in the world, but to someone else, you may be the world.',
-        'Unknown',
+    'eff7470c-a346-590c-9afa-79e14e6f0898' => [
+        'In wisdom gathered over time I have found that every experience is a form of exploration.',
+        'Ansel Adams',
     ],
-    'e1ecf74b-8789-5f4c-b6f5-8770058456f3' => [
-        'So there was a fire inside me. And that fire inside you, it can be turned into a negative form or a positive form. And I gradually realised that I had this fire and that it had to be used in a positive way.',
-        'John Newcombe',
+    '89375662-177c-5662-b13b-a30494202859' => [
+        'Don\'t focus on negative things; focus on the positive, and you will flourish.',
+        'Alek Wek',
     ],
-    'cff56328-107f-5c95-b5a2-d6feeb32c3bc' => [
-        'You and I are, by birth, by nature, and by choice, inwardly depraved, which is to say that we are entirely corrupt. That\'s not to say that we have no good in us; we do. However, anything good in us has been tainted with evil. It touches everything. Without the redeeming power of Christ we cannot halt our own moral slide.',
-        'Charles R. Swindoll',
+    'f14e4e52-6d01-5f1d-a433-2a948fcd6554' => [
+        'You\'re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.',
+        'Richard P. Feynman',
     ],
-    'c3b96009-9722-56f8-85b4-af9aab0d39de' => [
-        'I was taking myself very seriously when I was going through life changes. And I realized that I needed to laugh at myself, particularly at my mistakes.',
-        'Kevin Bacon',
+    'b45ede71-304f-5755-b80e-b2339450ad05' => [
+        'The secret of our success is that we never, never give up.',
+        'Wilma Mankiller',
     ],
-    'e7265d5c-c459-5d95-8df6-2b5ac8e09387' => [
-        'The misconception is that standup comics are always on. I don\'t know any really funny comics that are annoying and constantly trying to be funny all the time.',
-        'Joe Rogan',
+    '3967f472-5288-5777-87bc-5e45bd4d2fbd' => [
+        'We\'re all moving at such a high rate that we have to grab the frozen dinners and the McDonald\'s. We can\'t make it a way of life - we have to get back to real, simple, clean good foods. It will save our lives on so many levels; not just spina bifida, but obesity, diabetes, everything. Food is our medicine.',
+        'Bernie Siegel',
     ],
-    'ab0b3373-2c7c-5b8a-9913-71dfe01450d6' => [
-        'For what the horse does under compulsion, as Simon also observes, is done without understanding; and there is no beauty in it either, any more than if one should whip and spur a dancer.',
-        'Xenophon',
+    '6506beda-f052-5465-b92e-d89254e816ca' => [
+        'I like to help kids, work with kids in detention homes. Don\'t tell a kid what\'s right and wrong. He knows what\'s right and wrong. Find out what his attitude and his aptitude are; try to help him where he wants to go.',
+        'Evel Knievel',
     ],
-    '13100184-3a33-575e-8418-8086bdb0376a' => [
-        'People just want to watch people live their authentic lives and share the good and the bad. You can have fun and be a positive influence and have a good impact. And it can still be entertaining.',
-        'Tyler Oakley',
-    ],
-    '7b45f208-1c05-51d9-ae60-2d3701180371' => [
-        'The universe is full of magical things, patiently waiting for our wits to grow sharper.',
-        'Eden Phillpotts',
-    ],
-    '2cca169a-49fe-5f3e-b3f9-16453e1e88e4' => [
-        'Hoping they\'d been inspired by the examples of Anne Frank and other teens who had turned negative experiences into something positive by writing about them, I handed out notebooks for my students to journal about their lives. There was some initial resistance. But then the stories poured out of them, full of anger and sadness.',
-        'Erin Gruwell',
-    ],
-    '200ed021-9b0c-540e-8e18-2ff73b4a18c9' => [
-        'I\'m like old wine. They don\'t bring me out very often - but I\'m well preserved.',
-        'Rose Kennedy',
-    ],
-    '2b3baa66-3d99-5e66-9ab9-19fa19e79635' => [
-        'Two wrongs don\'t make a right, but they make a good excuse.',
-        'Thomas Szasz',
-    ],
-    'c55348d5-0c18-5600-8aa2-a96771227e3b' => [
-        'Let us remember: One book, one pen, one child, and one teacher can change the world.',
-        'Malala Yousafzai',
-    ],
-    'd9aa78a1-d3e5-55a1-98cd-6064ef1aab53' => [
-        'Silence is the true friend that never betrays.',
-        'Confucius',
+    '7880e9af-c0e6-5b9b-b35f-c28f5825d38b' => [
+        'Travel can also be the spirit of adventure somewhat tamed, for those who desire to do something they are a bit afraid of.',
+        'Ella Maillart',
     ],
 ];

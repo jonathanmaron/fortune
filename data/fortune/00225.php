@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '1a73e2f7-5eac-5583-b4b9-cc8d72290901' => [
-        'Do the best that you can in the place where you are, and be kind.',
-        'Scott Nearing',
+    '70c94ecd-f2e8-53d5-bf02-05ce89481ce1' => [
+        'Life is movement-we breathe, we eat, we walk, we move!',
+        'John Pierrakos',
     ],
-    '4e4fa777-bc05-5a4d-8e5c-37e2eaa24390' => [
-        'Everyday life is like programming, I guess. If you love something you can put beauty into it.',
-        'Donald Knuth',
+    'aa1aff3a-4c92-51bc-8d55-1dd24dfe009c' => [
+        'I believe that any type of education can be great, but an education about ourselves can create something wonderful. I am a comedian, but people have called me a motivational speaker. I don\'t really consider myself that at all.',
+        'Andy Andrews',
     ],
-    '760c9b73-dc36-5ef1-9b1a-6e80a749f2fb' => [
-        'The odds of hitting your target go up dramatically when you aim at it.',
-        'Mal Pancoast',
+    'ee0cfcd1-dfc6-5dfe-8b97-89d684fc5448' => [
+        'Lead singers not only do the majority of the work, but their personalities are singled out and taken as the general attitude of the unit.',
+        'Martha Reeves',
     ],
-    'ad3998f8-207b-57d9-a8f7-5f204f48b093' => [
-        'Your attitude is contagious.',
-        'Kevin Plank',
+    '840b10be-e032-5202-9942-a4fd58f3f094' => [
+        'Without music, life is a journey through a desert.',
+        'Aristotle',
     ],
-    '4a1b98f3-268e-59b1-8262-355435a4260a' => [
-        'When I was a little kid, I wrote this play about all these characters living in a haunted house. There was a witch who lived there, and a mummy. When they were all hassling him, this guy who bought the house - I can\'t believe I remember this - he said to them, \'Who\'s paying the mortgage on this haunted house?\' I thought that was really funny.',
-        'Mindy Kaling',
+    'bc408466-83df-5ace-9102-d8ab8d2969e5' => [
+        'Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.',
+        'Charles Eastman',
     ],
-    '462eafc0-241e-531c-9120-03fc79c70b58' => [
-        'It is not length of life, but depth of life.',
+    '4708c0f7-c3b9-59fd-964b-aa3962619f81' => [
+        'The best way to find out if you can trust somebody is to trust them.',
+        'Ernest Hemingway',
+    ],
+    '6e6df69a-29c0-5194-92f8-e36c57532ab7' => [
+        'Many individuals are doing what they can. But real success can only come if there is a change in our societies and in our economics and in our politics.',
         'David Attenborough',
     ],
-    '32c986bb-0cfc-5969-a780-f27fe0151417' => [
-        'Women do come up to me, and they tell me what they think! I\'ve gotten great compliments on my eyes and my smile. But I don\'t see myself as sexy.',
-        'Jesse L. Martin',
+    '966398c0-4d87-563e-91b6-0a053ed00fb4' => [
+        'Reykjavik has a mixture of southern and northern mentality. There\'s a laid-back, relaxed attitude but also the feeling things are going to get done.',
+        'John Grant',
     ],
-    'f714b370-1979-5bf9-98ab-bcbae659e553' => [
-        'We live in the world when we love it.',
-        'Amy Poehler',
+    '7dd801cc-05d6-5c0f-85e8-61d67127fe5f' => [
+        'I was talking to a guy who was holding his 18-month-old daughter with the only limb he had left, and he had a smile on his face. I thought, \'I\'m not even a 10th of this man.\'',
+        'Ron White',
     ],
-    '4f382ee7-2535-51b1-9be6-92cb6fd28b25' => [
-        'The world turns aside to let any man pass who knows where he is going.',
-        'Epictetus',
+    'a9e65394-f91e-5d97-8466-05cc743839d8' => [
+        'We pass through this world but once.',
+        'Aristotle',
     ],
-    '9b74128e-23a6-5cf8-bac0-476278138824' => [
-        'I think we all suffer from guilt at some point in our lives, but for the most part, I never really regret, and I try to always remain positive.',
-        'Channing Tatum',
+    '6c58cf6b-e8bc-516b-8d9d-296381b55ce1' => [
+        'Curiosity is the one thing invincible in Nature.',
+        'Freya Stark',
     ],
-    '0efc7eed-245b-5778-9192-9ba8f670271e' => [
-        'Do whatever interests you the most. Passion breeds success.',
-        'Shane Smith',
+    '4d88b09b-8ddd-588e-8923-8734db00fdc9' => [
+        'Fires can\'t be made with dead embers, nor can enthusiasm be stirred by spiritless men. Enthusiasm in our daily work lightens effort and turns even labor into pleasant tasks.',
+        'James A. Baldwin',
     ],
-    '1d3bc051-2d74-510d-93c4-e5b79beed1b6' => [
-        'The price of anything is the amount of life you exchange for it.',
-        'Lao Tzu',
+    'cd404d3b-ba9e-513d-ab85-43f40417ceaa' => [
+        'Realize deeply that the present moment is all you ever have. Make the Now the primary focus of your life.',
+        'Anais Nin',
     ],
-    '18107c97-7581-54c6-ad4c-d34efcaac165' => [
-        'It makes me sad when I find sisters who aren\'t joyful. They might smile, but with just a smile they could be flight attendants!',
-        'Pope Francis',
+    '5ea3067b-9aea-5af0-8c9a-7d28ca6d3625' => [
+        'I just like the continue doing what I\'ve been doing. A melange of funny, straight drama, television, movies, a little theater here and there wouldn\'t hurt. So if I can keep doing that, I\'ll be a very happy person.',
+        'Mary Tyler Moore',
     ],
-    'e02b2783-db09-5b78-bd87-f727c29fda53' => [
-        'The policeman must be a minister, a social worker, a diplomat, a tough guy, and a gentleman. And, of course, he\'d have to be a genius... For he will have to feed a family on a policeman\'s salary.',
-        'Paul Harvey',
+    '356953cc-0a57-50c3-bbb7-87df06c0bf50' => [
+        'Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.',
+        'Denis Waitley',
     ],
-    'fcefc485-06ba-5f16-9cf6-8b1108bdef38' => [
-        'I guess when you turn off the main road, you have to be prepared to see some funny houses.',
-        'Stephen King',
+    'd26992a3-c8ee-5e1b-991b-bfbaee2ccab1' => [
+        'I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.',
+        'Claude Monet',
     ],
-    '76fd54fb-202d-55ac-b6e1-dbcf7dd2f25b' => [
-        'I\'m not the athlete I was when I was training for the Olympics in \'92 or when I was working out every single day. I have to live in moderation: I work out three or four days a week, and I smile while I\'m working out - I really do enjoy it. I work out with my girlfriends and make it a social competition.',
-        'Summer Sanders',
+    'ec210e0b-a4ab-5d13-ac99-2b079dcf91a6' => [
+        'Above and beyond having the social life, to have a core group of people that you work with and spend time with and learn how to work with is a nice thing.',
+        'Shawn Ashmore',
     ],
-    '5458e716-6b70-5ac6-aeaf-c2380c747223' => [
-        'We May Encounter Many Defeats But We Must Not Be Defeated.',
-        'Maya Angelou',
+    '156e2320-35cb-5325-bbe7-cdcb55c151b9' => [
+        'There is no planning. On the night it is really great, it\'s euphoria and if it is not so great there is always tomorrow night. That was his attitude.',
+        'Ed McMahon',
     ],
-    '81e25440-5c3c-5a61-a357-66dd0c16ad30' => [
-        'I think it takes a strong man to be in a relationship with a strong woman. A lot of people hear the word \'diva\' and think of it as a negative. I see it as a positive. I want somebody who knows what they want out of life and isn\'t afraid to show it.',
-        'Nick Cannon',
+    '20d497b0-c32f-55fd-b418-c631211901b4' => [
+        'He who has done his best for his own time has lived for all times.',
+        'Friedrich Schiller',
     ],
-    '63dee0ec-679f-56cc-ae06-11491e96d460' => [
-        'I love to travel. I\'m a curious person.',
-        'Hilary Swank',
-    ],
-    '94178aff-5a31-597e-829a-a548612c9c8f' => [
-        'Sometimes, the other characters are too normal and then you start to be brought back to reality but then Luna shows up and she is just so funny and cool and honest and slightly mad and she\'s all that matters. She is 100% true. She puts on no shows, because she is so comfortable with herself.',
-        'Evanna Lynch',
-    ],
-    'd33e3bb8-9586-5c35-b913-ecc8705f2dec' => [
-        'Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.',
-        'Winston Churchill',
-    ],
-    '08c4d270-207a-57c1-8765-6c923a28768b' => [
-        'When I go back to Texas, I travel the state, and I see people all the time who come up to me, men and women across Texas, and they grab me by the shoulder, and they\'re afraid. They say, \'Ted, you know, I just lost my health insurance. I got a child with diabetes. I\'m scared. Please stop this from happening.\'',
-        'Ted Cruz',
-    ],
-    'b679caba-437e-5fc0-9ff6-95a582ba0caa' => [
-        'In the end, it\'s a mental maturity to let your best come out.',
-        'Lindsey Vonn',
-    ],
-    '3c8a76f9-cbc8-5725-aefa-3f7e523163b1' => [
-        'I don\'t feel pressure in a negative way. I like pressure. I feel excitement and calm at the same time. No pressure, no diamonds. I want pressure: pressure creates drama, creates emotion.',
-        'Conor McGregor',
-    ],
-    '73f17887-05ec-5370-964b-08adeab81e60' => [
-        'I\'m terrified of bugs and I travel with sprays, lotions, potions; the lot. I have to check the room before I go to sleep and if I come across a bug and fail to remove it I have to sleep in a separate room as I\'m paranoid that I\'ll be taken advantage of as I sleep.',
-        'Freema Agyeman',
-    ],
-    '833d134c-edf9-5c81-aae7-b288f6f2ac6a' => [
-        'A book is a fragile creature, it suffers the wear of time, it fears rodents, the elements and clumsy hands. so the librarian protects the books not only against mankind but also against nature and devotes his life to this war with the forces of oblivion.',
-        'Umberto Eco',
-    ],
-    '23c00c4d-3b48-5999-96f9-c309028cadff' => [
-        'One may walk over the highest mountain one step at a time.',
-        'Barbara Walters',
-    ],
-    '17974e54-0584-5603-b8ea-2b405c6827b2' => [
-        'To change ones life, start immediately, do it flamboyantly, no exceptions.',
-        'William James',
-    ],
-    'c0cc6848-da17-5ed9-b4ec-8eb1829af570' => [
-        'Yes sir, I am a tortured man for all seasons, as they say, and I have powerful friends in high places. Birds sing where I walk, and children smile when they see me coming.',
-        'Hunter S. Thompson',
-    ],
-    'de2c827d-1df3-55b7-b67c-6fb788fbc30d' => [
-        'I\'ve cried, and you\'d think I\'d be better for it, but the sadness just sleeps, and it stays in my spine the rest of my life.',
-        'Joel Osteen',
-    ],
-    '3e69af3a-91e9-5847-8d98-08f332c9432f' => [
-        'Take stock of your thoughts and behavior. Each night ask yourself, when were you negative when you could have been positive? When did you withhold love when you might have given it? When did you play a neurotic game instead of behaving in a powerful way? Use this process to self-correct.',
-        'Marianne Williamson',
-    ],
-    '1d5e4173-e57f-5199-8f78-a39686f4b550' => [
-        'To succeed, you need to find something to hold on to, something to motivate you, something to inspire you.',
-        'Tony Dorsett',
-    ],
-    'dcde03f4-bb05-5f93-b7d8-eda05f669f43' => [
-        'The terrifying and edible beauty of Art Nouveau architecture.',
-        'Salvador Dali',
-    ],
-    'd654eff3-9551-5a40-8340-7fe35d4d6dd7' => [
-        'When my wife and I met, I couldn\'t talk to her - and my defense mechanism is sarcasm. I belittle someone with verbal pokes and prods. I did it to her out of complete awe. When friends introduced us, I said \'Hi\' - and turned my back. Later, I called my mom and best friend and said, \'I think I just met my wife.\'',
-        'Mike Vogel',
-    ],
-    '02fcfd67-91fc-5908-b57a-4a9385d9447c' => [
-        'I make funny videos of me playing video games, and I share those moments.',
-        'PewDiePie',
-    ],
-    '41ab7723-11bc-5c98-a6a6-5a09851fbb3e' => [
-        'Sometimes you want to go for a walk and you don\'t want to be watched. You just want to be anonymous and blend in. Especially when I travel, I feel that way, because I can\'t really go out and see a city the way other people can and I miss out on a lot.',
-        'Madonna Ciccone',
-    ],
-    'f1f213bc-281a-565c-9ea0-344127ce7501' => [
-        'If only we\'d stop trying to be happy we\'d have a pretty good time.',
-        'Edith Wharton',
-    ],
-    '2e5f976e-126d-5caa-b578-a5580e55efff' => [
-        'Acting is magical. Change your look and your attitude, and you can be anyone.',
-        'Alicia Witt',
-    ],
-    'b08287be-96b1-5d04-a008-b6271347b8cd' => [
-        'Even when I see a beautiful woman, I think, \'Aw, her life must be amazing.\' Everyone does it. That\'s human nature to believe that beauty is everything.',
-        'Marina and the Diamonds',
+    '51c0d5ac-be0f-56ed-9eb1-978d524459b7' => [
+        'While I have felt lonely many times in my life, the oddest feeling of all was after my mother, Lucille, died. My father had already died, but I always had some attachment to our big family while she was alive. It seems strange to say now that I felt so lonely, yet I did.',
+        'Bill Murray',
     ],
     '62b88912-05b6-5430-9bb6-c95a54ff90c1' => [
         'That\'s the beauty of the Internet is that we\'re no longer tied to our communities by physical connections.',
         'Edward Snowden',
     ],
-    '5a728b4a-e718-58b6-92dd-e9e2fa60def5' => [
-        'If you\'re in a bad situation, don\'t worry it\'ll change. If you\'re in a good situation, don\'t worry it\'ll change.',
-        'John Simone',
+    '82f61bcd-22ed-5874-9d4a-12287d018bd0' => [
+        'In the long run we get no more than we have been willing to risk giving.',
+        'Sheldon Kopp',
     ],
-    'cb78ff16-6c54-592b-851b-52c003e98808' => [
-        'There\'s time enough, but none to spare.',
-        'Charles W. Chesnutt',
+    '830e430e-791d-5fa4-a9f1-df12fcd051bc' => [
+        'The mind that tries to shape tomorrow beyond its capacities will find no rest.',
+        'Rumi',
     ],
-    '000e52ef-9325-5443-94b8-3ab604acedf6' => [
-        'Don\'t limit a child to your own learning, for he was born in another time.',
-        'Rabindranath Tagore',
+    '7daa3ace-79bd-58de-88e7-35cdb4900c09' => [
+        'Pray that success will not come any faster than you are able to endure it.',
+        'Elbert Hubbard',
     ],
-    '06e623a6-2cdf-5ffe-94a7-5635e5e19053' => [
-        'Real beauty knocks you a little bit off kilter.',
-        'David Byrne',
+    '2bebb4db-771d-5fdf-b46d-6f47c1ff1074' => [
+        'Work is hard. Distractions are plentiful. And time is short.',
+        'Adam Hochschild',
     ],
-    '6a0f956d-1c40-5ce9-973e-6c26a7a0a465' => [
-        'The beauty, the poetry of the fear in their eyes. I didn\'t mind going to jail for, what, five, six hours? It was absolutely worth it.',
-        'Johnny Depp',
+    '21f52f56-fcbe-5505-aa7a-ba40867ccc5b' => [
+        'As a person, I was born to give out my opinions. By giving out my opinions, I realize who I am. As long as I can communicate, I\'m not so lonely. If I cannot travel, or do art, or have company, if they take away all my belongings, it doesn\'t matter at all.',
+        'Ai Weiwei',
     ],
-    'c9a66f61-c3f6-5874-ba03-4efdceb97318' => [
-        'The joke in our family is that we can cry reading the phone book.',
-        'Ron Reagan',
+    '8abdcfa6-078d-56e6-a5c0-1039ddf1965a' => [
+        'When someone shows you who they are, believe them the first time.',
+        'Maya Angelou',
     ],
-    '131e7b14-74ba-5754-bebb-a3be838d98cf' => [
-        'I hate the idea of success robbing you of your private life.',
-        'Paul McCartney',
+    '69feda93-3169-5814-817d-0137bb8eee73' => [
+        'On the tennis court, one needs a cool temperament, tremendous ball sense, reflexes, speed, hand-eye co-ordination, power, timing and peak physical fitness. Off the court, the player and support team need skills in planning, execution, travel, an ability to raise funds when needed, and several other talents.',
+        'Sania Mirza',
     ],
-    '6223cfed-c501-5ea6-88e3-8c26811ed538' => [
-        'There have been many different artists that have been inspirational. I suppose the question is directed to what was the reason why I went into fantasy illustration.',
-        'Boris Vallejo',
+    '8089e463-d0ce-5a3e-a727-e463ac28b234' => [
+        'Do you remember any instance where tyranny was destroyed and freedom established on its ruins, among a people possessing so small a share of virtue and public spirit? I recollect none, and this more than the British arms makes me fearful of final success, without a reform.',
+        'Patrick Henry',
     ],
-    'be7cd611-ec0b-5191-af63-8eb1c966f352' => [
-        'My first dream was to travel. I was attracted to different places, different colors of skin, different food. When I was 18 in 1977, I went to Europe with my accordion and discovered the pleasure of entertaining people.',
-        'Guy Laliberte',
+    '362585c8-14a0-5f6a-b652-31c0b5a12617' => [
+        'Sincerity is the way of Heaven. The attainment of sincerity is the way of men.',
+        'Confucius',
     ],
-    '77c65657-95c2-5bee-baa6-57d4f4f0bec2' => [
-        'There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.',
-        'Albert Einstein',
+    '8294b22d-c522-5f49-9125-30554f657b75' => [
+        'They will always assume that this guy - an upcoming actor, what if he becomes a star tomorrow? He would not work with me then... so I might as well choose to be nice. But women are not treated with the same attitude. Women they treat really badly.',
+        'Kangana Ranaut',
+    ],
+    'd7012084-898a-529b-9c02-7680257b62a5' => [
+        'When you learn, teach. When you get, give.',
+        'Maya Angelou',
+    ],
+    '3a324bb0-6726-5d81-ba9d-fdf53dd31fcf' => [
+        'Think with your whole body.',
+        'Taisen Deshimaru',
+    ],
+    '022e7b09-5e40-5cd4-ade8-e965d747c66f' => [
+        'Whereas I used to get depressed or neurotic or dwell on things, I see my son\'s bright eyes and smile in the morning, and suddenly, I don\'t feel like I\'m depressed anymore. There\'s nothing to be depressed about when you\'ve got that.',
+        'Corey Feldman',
+    ],
+    'bac4e68c-185d-5bbc-9855-297f4b2adc48' => [
+        'There may be people who have more talent than you, but there\'s no excuse for anyone to work harder than you do - and I believe that.',
+        'Derek Jeter',
+    ],
+    '16c6389c-6822-5dd6-bf18-719f44ffeb44' => [
+        'The pain passes, but the beauty remains.',
+        'Auguste Renoir',
+    ],
+    'c5ac5920-da43-56d4-bc16-0d8209190e9f' => [
+        'Positive psychology is not remotely intended to replace therapy or pharmacology. So when depressed, anxious or in panic or post-traumatic stress disorder, I am all for therapies that will work. Positive psychology is another arrow in the quiver of public policy and psychology through which we can raise wellbeing above zero.',
+        'Martin Seligman',
+    ],
+    '700fb332-acbc-5521-8236-e8d71b7d577e' => [
+        'In some mysterious way woods have never seemed to me to be static things. In physical terms, I move through them; yet in metaphysical ones, they seem to move through me.',
+        'John Fowles',
+    ],
+    '4fbcf319-57da-50bf-b2d1-7c17c7b8c4d4' => [
+        'I feel the best after a workout - I\'m sweaty and exhausted, but it also gives me an energy I really like.',
+        'Hilary Rhoda',
+    ],
+    '671aca7f-5799-5fb3-a14f-cc453e86d3c5' => [
+        'Show me a smile, and I\'ll show you one back.',
+        'Vanilla Ice',
+    ],
+    'c186b246-f702-5114-8700-a06d610a836a' => [
+        'It is the power of the mind to be unconquerable.',
+        'Seneca',
+    ],
+    '6b5b8d60-5f71-5bc5-95b6-d2e1aaa357fb' => [
+        'I work a lot of hours, and in this business you really try to keep as busy as you possibly can. Sometimes when you really focus on kids in your free time you lose the husband and wife relationship to some degree. It\'s been a real focus for us to make sure we stay focused on us two.',
+        'Cameron Mathison',
+    ],
+    '797fcb7d-b8f6-5b85-8642-124613c315f7' => [
+        'I always thought \'chick lit\' meant third-person contemporary funny novels, dealing with issues of the day. I mean, it\'s not the ideal term; when I\'m asked to describe what I do, I say I write romantic comedies, cause that\'s what I feel they are. But I\'m quite pragmatic.',
+        'Sophie Kinsella',
+    ],
+    '3321c3d2-2f4a-5c66-bed6-b81511a98515' => [
+        'Our distrust is very expensive.',
+        'Ralph Emerson',
+    ],
+    'e1ef1196-ec26-5208-a1a3-bac57867fdb1' => [
+        'Every traveler knows too well the endless quest for the perfect travel bag: the one that\'s stylish enough to carry through Paris, sturdy enough to tote around Peru, and - most important - doesn\'t make your shoulder sag even before you\'ve loaded it up with everything you need for a day of sightseeing.',
+        'Hanya Yanagihara',
+    ],
+    '81b63f76-96b0-570f-b2e5-3ec210f3524c' => [
+        'Only by acknowledging the success and sacrifice made by those who came before us can we fully understand what we must do to ensure the liberty of those who will succeed us.',
+        'Yvette Clarke',
+    ],
+    '523f7375-fa1e-5f18-9ead-26fb3969875d' => [
+        'The secret of a happy marriage is finding the right person. You know they\'re right if you love to be with them all the time.',
+        'Julia Child',
+    ],
+    'e8ee1553-7ccb-5a5d-bc07-d2c4a99e447e' => [
+        'The true delight is in the finding out rather than in the knowing.',
+        'Isaac Asimov',
+    ],
+    '2b969719-9a43-5bc4-97c8-dc70c799e0b1' => [
+        'Adopting a really positive attitude can work wonders to adding years to your life, a spring to your step, a sparkle to your eye, and all of that.',
+        'Christie Brinkley',
+    ],
+    '0e7a4b57-cd7b-5921-bdb2-d711dd0ee2ba' => [
+        'The best way to guarantee a loss is to quit.',
+        'Morgan Freeman',
     ],
 ];

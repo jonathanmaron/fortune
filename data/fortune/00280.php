@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '7a361e03-f380-5a48-9448-a05188188298' => [
-        'Social mores change all the time. In the mid-1970s, it would\'ve been astonishing, say, to see two men holding hands in the streets. And the attitude to having a fling with a girl, or whatever, was quite different then.',
-        'Robert Harris',
+    '955002d3-842b-5e3d-98af-727e3de83ae4' => [
+        'Begin doing what you want to do now. We are not living in eternity. We have only this moment, sparkling like a star in our hand-and melting like a snowflake.',
+        'Francis Bacon Sr.',
     ],
-    'db22182a-54dd-59a2-bfc1-6ef087dbec95' => [
-        'For every person who has ever lived there has come, at last, a spring he will never see. Glory then in the springs that are yours.',
-        'Pam Brown',
+    '36188450-01be-50bd-8753-3909763e6780' => [
+        'Feelings of worth can flourish only in an atmosphere where individual differences are appreciated, mistakes are tolerated, communication is open, and rules are flexible - the kind of atmosphere that is found in a nurturing family.',
+        'Virginia Satir',
     ],
-    '61b1dffd-486b-5a17-8a29-2ddac982a7cb' => [
-        'It\'s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.',
-        'Jerry Seinfeld',
+    '4b1a520a-81ea-5837-b972-3dc92f1122b4' => [
+        'The ABC\'s are attitude, behavior and communication skills.',
+        'Gerald Chertavian',
     ],
-    '2f00120b-a609-5caa-a5c2-f9b831b7c194' => [
-        'There is no scientific answer for success. You can\'t define it. You\'ve simply got to live it and do it.',
-        'Anita Roddick',
+    '31e95b7d-3480-5f92-8acb-d770d737a395' => [
+        'Nature, more of a stepmother than a mother in several ways, has sown a seed of evil in the hearts of mortals, especially in the more thoughtful men, which makes them dissatisfied with their own lot and envious of another\'s.',
+        'Desiderius Erasmus',
     ],
-    '19315970-ccdc-552c-b6d6-8f9e5bfdb582' => [
-        'Nothing is more memorable than a smell. One scent can be unexpected, momentary and fleeting, yet conjure up a childhood summer beside a lake in the mountains.',
-        'Diane Ackerman',
+    '924209af-6e6f-5bb2-8de5-65617f7fc523' => [
+        'Don\'t let people see when you\'re mad - just smile and laugh.',
+        'Astro',
     ],
-    '67262e0e-5576-5d11-9d1c-8bad32e40fbf' => [
-        'There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge.',
-        'Baltasar Gracian',
+    'c55d96d7-f48f-506d-b785-06729552598a' => [
+        'It is possible for the assembly-line worker consigned to tightening the bolts on the transmission and the office worker who processes medical insurance claims to work with pride and efficiency, but it\'s not easy to maintain that attitude.',
+        'Paul Hawken',
     ],
-    'b325d41b-5a74-54d5-b128-fb059e20be3a' => [
-        'Perfection is not attainable, but if we chase perfection we can catch excellence.',
-        'Vince Lombardi',
+    '71d31b03-5948-54fb-ae0c-6c02b16ddabb' => [
+        'I think journaling is a key to success. You can set clear goals for yourself. You can start noticing repetitive behavior patterns and see the type of things that keep bothering you, and then you can have a bird\'s eye view of it.',
+        'Eric Andre',
     ],
-    '8fabf8b5-e4db-5e35-8578-5eaffc569663' => [
-        'Chaos was the law of nature; Order was the dream of man.',
-        'Henry Adams',
+    'c9022381-a88b-5451-bb2d-fcf414629e77' => [
+        'Try not to become a person of success, but rather try to become a person of value.',
+        'Albert Einstein',
     ],
-    '78690347-d9c6-57b1-adbd-6c92acd6d094' => [
-        'The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.',
-        'Eckhart Tolle',
+    '776e94fd-537c-54dc-8896-9ed8d58aa7fc' => [
+        'The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.',
+        'Richard Bach',
     ],
-    'fc51464f-ce6b-5ad0-8f13-f3e40c38c8cd' => [
-        'Every time you feel depressed about something, try to identify a corresponding negative thought you had just prior to and during the depression. Because these thoughts have actually created your bad mood, by learning to restructure them, you can change your mood.',
-        'David D. Burns',
+    'bd9fabea-7db3-5f48-a4ae-2df60a7bae9e' => [
+        'On one hand I am this weird androgynous tomboy where I\'m strangely low maintenance and have a five-minute makeup regimen. On the other I\'m obsessed with all things beauty, from skin care to makeup.',
+        'Rachel Zoe',
     ],
-    '4acfc2f8-637f-53e7-95ae-f834983680eb' => [
-        'Poetry, at its best, is the language your soul would speak if you could teach your soul to speak.',
-        'Jim Harrison',
+    'edfb3aeb-00e8-57ff-a76d-5eb04563fc2a' => [
+        'Whether we think of Disney\'s blonde beauty and her pumpkin carriage or Marissa Meyer\'s recent recasting of \'Cinderella\' as a cyborg in the young adult novel \'Cinder,\' we know that there are countless modern retellings of the tale.',
+        'Marie Rutkoski',
+    ],
+    'c54a3f0f-14e1-5e3b-aac8-651fa9d7f868' => [
+        'Schubert had arguably the same melodic gift as Mozart, but even less support. He didn\'t have the early exposure, never got to travel anywhere, and yet generated and amassed a body of work that grew and developed and is very profound.',
+        'Twyla Tharp',
+    ],
+    '28f46773-5dbd-52b8-ae7d-6889f1d051ae' => [
+        'At the age of 6, a teacher full of ambitions, who taught in the small public school of Biran, convinced my family that I should travel to Santiago de Cuba to accompany my older sister who would enter a highly prestigious convent school. Including me was a skill of that very teacher from the little school in Biran.',
+        'Fidel Castro',
+    ],
+    '0441e76d-1df2-5d53-b8e0-be5865023680' => [
+        'The biggest adventure you can ever take is to live the life of your dreams.',
+        'Oprah Winfrey',
+    ],
+    'aba88e26-908c-57dd-8369-7141203ee50b' => [
+        'I believe in karma, and I believe if you put out positive vibes to everybody, that\'s all you\'re going to get back.',
+        'Kesha',
+    ],
+    'c98157f8-091e-5b73-8fe7-6a7d972bfe9a' => [
+        'First say to yourself what you would be; and then do what you have to do.',
+        'Epictetus',
+    ],
+    'f813cbd3-c897-58dc-bcb4-4231942a664b' => [
+        'You have to be odd to be number one.',
+        'Dr. Suess',
+    ],
+    'bd2e03d5-cc4c-5b7c-8dc1-860a6e98b4ca' => [
+        'Miami Beach is where neon goes to die.',
+        'Lenny Bruce',
+    ],
+    'c5fed30c-3380-5eac-9761-d93b9f4c37eb' => [
+        'A life is not important except in the impact it has on other lives.',
+        'Oliver Goldsmith',
+    ],
+    'da346e76-184a-5a67-8ee8-621a646e50d6' => [
+        'You may lose your wife, you may lose your dog, your mother may hate you. None of those things matter. What matters is that you achieve success and become free. Then you can do whatever you like.',
+        'Kevin O\'Leary',
+    ],
+    '5ccf11a1-3bd8-58ad-a946-1f396495543c' => [
+        'And they said if we help with the crisis, they would do a lot of positive acts. After we helped in those crises, they showed negative acts and the Japanese and Turks were ashamed.',
+        'Akbar Hashemi Rafsanjani',
+    ],
+    'ee97899c-6e5c-528a-ab81-5c7496d19eaa' => [
+        'A winner makes commitments. A loser makes promises.',
+        'Unknown',
     ],
     '20bf8ddc-5fd7-563c-8041-a5ba86b2b666' => [
         'Do it now.Sometimes \'later\' becomes \'never\'.',
         'Anonymous',
     ],
-    'fd798b54-43e6-53eb-90fe-6742a82ec6da' => [
-        'Sweat is fat crying.',
-        'Unknown',
+    '5a81cad1-4935-56cf-bbd7-54919a4e4c0c' => [
+        'If time be of all things the most precious, wasting time must be the greatest prodigality.',
+        'Benjamin Franklin',
     ],
-    '4890bef4-0864-515c-ad80-91866edfe0c1' => [
-        'All what we hope for is that a day will come, when we have all gone, when people will say that this man has tried, and his family tried. This is all there is to seek in this world.',
-        'Hussein of Jordan',
+    '1d5da555-316f-57fa-be50-82613effcc41' => [
+        'I\'ve lived in many things - boats, caravans, and buses. I\'ve been homeless, I\'ve had no money: everything. But I believe in magic, and having a vision. The tough times made me a warrior. I work hard.',
+        'Neon Hitch',
     ],
-    '1fa54aac-8409-5141-8441-3778fbe8330d' => [
-        'I tend to be pessimistic about everything: If things seem to be going good, I\'m worried that it\'s going to end; if things are bad, then I\'m worried that it\'s going to be permanent. It\'s not a very comfortable attitude to have all the time.',
-        'Jesse Eisenberg',
+    'd6f3d42d-8cc9-5d98-b5ab-ea33e5ec200d' => [
+        'If you hear a voice within you say \'you cannot paint\', then by all means paint and that voice will be silenced.',
+        'Vincent Van Gogh',
     ],
-    '295e7613-c514-52e2-9283-58e4da21bb73' => [
-        'Simplicity and repose are the qualities that measure the true value of any work of art.',
-        'Frank Lloyd Wright',
+    '0b7a3350-3c1c-5fb9-8122-c436a4ab9863' => [
+        'If you\'re funny, if there\'s something that makes you laugh, then every day\'s going to be okay.',
+        'Tom Hanks',
     ],
-    '0909355e-e8f3-5be4-a0e1-7393fdc774d6' => [
-        'If someone in your life talked to you the way you talk to yourself, you would have left them long ago.',
-        'Carla Gordon',
+    '9e1a3f7e-52e5-5fa2-8a32-d9543607fba3' => [
+        'Taxation is the price we pay for failing to build a civilized society. The higher the tax level, the greater the failure. A centrally planned totalitarian state represents a complete defeat for the civilized world, while a totally voluntary society represents its ultimate success.',
+        'Mark Skousen',
     ],
-    'b51a0a4c-72bc-5517-a72c-90281879d500' => [
-        'Work hard. Through determination and self-focus and discipline, you can accomplish anything.',
-        'Kimberly Guilfoyle',
+    'eb3d432e-efa0-5f5c-8b31-e7fc4404d1fa' => [
+        'There\'s always been trying at some stage to design people. And it will always be presented initially as a positive thing, as a way to weed out diseases. Of course you know it ultimately will be used in a bad way too, to create slaves or servants.',
+        'Maria Doyle Kennedy',
     ],
-    'b665cafe-3a11-5131-a96a-c06db1ecc57d' => [
-        'Every day I get to \'Think\' and work on everything from digitizing electric grids so they can accommodate renewable energy and enable mass adoption of electric cars, helping major cities reduce congestion and pollution, to developing new micro-finance programs that help tiny businesses get started in markets such as Brazil, India, Africa.',
-        'Ginni Rometty',
+    'f35b9408-c5f4-5f23-a6c2-f28a15fedce0' => [
+        'The care of human life and happiness, and not their destruction, is the first and only object of good government.',
+        'Robert Henri',
     ],
-    '5079d664-3bdb-51d3-9be7-b3fa6f232cc0' => [
-        'Don\'t disrespect me, lie about it, and then come smile in my face and act like nothing\'s wrong.',
-        'Scottie Pippen',
+    '0b3fcd2f-fe90-5ccd-bd10-9781630b9bb7' => [
+        'My first ever job after college was as a flight attendant. I wanted to travel and could not afford it, so I decided to get myself a job where I could travel. I did it for two years and had great fun.',
+        'Jacqueline Winspear',
     ],
-    '1f759b5f-1563-5987-a515-0c52e3650d4d' => [
-        'I have an issue with others ordering for me, and I spend far too long haranguing people that my choices are the best. I apologize for the amount of conversations I have ruined with this attitude.',
-        'Ben Elliot',
+    '840dff3e-a269-5f16-b592-08376f4cd275' => [
+        'You only do good work when you\'re taking risks and pushing yourself.',
+        'Sally Hawkins',
     ],
-    'fc7e020b-3e5a-56fc-90f1-eb3659498fc6' => [
-        'We keep moving forward, opening new doors, and doing new things, because we\'re curious and curiosity keeps leading us down new paths',
-        'Walt Disney',
+    '079599a3-2ce9-5a43-b3df-f8fa08bafffc' => [
+        'The artist is not responsible to any one. His social role is asocial... his only responsibility consists in an attitude to the work he does.',
+        'Georg Baselitz',
     ],
-    '25b025c3-3982-5aa0-8e09-809524e74689' => [
-        'The beginning of knowledge is the discovery of something we do not understand.',
-        'Frank Herbert',
+    '1439e227-20ca-57ed-abe5-45c998c92627' => [
+        'I got attention by being funny at school, pretending to be retarded, and jumping around with a deformed hand.',
+        'Leonardo DiCaprio',
     ],
-    'aaf80cc5-3e61-5d77-9737-9f83f52870c4' => [
-        'If you\'re not comfortable with public speaking - and nobody starts out comfortable; you have to learn how to be comfortable - practice. I cannot overstate the importance of practicing. Get some close friends or family members to help evaluate you, or somebody at work that you trust.',
-        'Hillary Clinton',
+    '04b9f40a-7ea9-5822-9c9c-57fdf874fcdd' => [
+        'Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?',
+        'William C. Bryant',
     ],
-    'a5a03880-15cb-5d75-9de0-fe5e095eb195' => [
-        'I think I\'ve always had a certain amount of skepticism of this whole \'shut up and smile\' theory. I haven\'t ever swallowed that pill so easily, although I tried.',
-        'Amber Heard',
+    '65077491-eec3-53d6-bbe8-063e71bede59' => [
+        'Maybe it\'s just parenthood that puts you in a situation where you just have to develop a new attitude, I guess, about things.',
+        'James Mercer',
     ],
-    '87c5db1b-6254-5043-8275-e1f0acb19364' => [
-        'Employees are a company\'s greatest asset - they\'re your competitive advantage. You want to attract and retain the best; provide them with encouragement, stimulus, and make them feel that they are an integral part of the company\'s mission.',
-        'Anne M. Mulcahy',
+    'f0ebe94c-1a06-5d70-94b6-940619e3342f' => [
+        'I think there can be a positive sort of futurism even in a presentist society. But I think it\'s a kind of futurism that envisions augmenting human ability and intellect rather than creating some artificial machine intelligence that displaces us.',
+        'Douglas Rushkoff',
     ],
-    '29f0a6c9-dfef-5ded-a39a-e1170b8c31b9' => [
-        'I allow my intuition to lead my path.',
-        'Manuel Puig',
+    '642f11c2-739a-552e-9723-4464573f3f5f' => [
+        'Possessed with a full confidence of the certain success which British valor must gain over such enemies, I have led you up these steep and dangerous rocks, only solicitous to show you the foe within your reach.',
+        'James Wolfe',
     ],
-    '8a1d6ff9-d498-5f18-ade5-4d8eb400f5bb' => [
-        'Do not fear mistakes - there are none.',
-        'Miles Davis',
+    'b81531f8-b6e6-5d91-bba7-247a5d29fa19' => [
+        'In truth, the world is now a seamless web from which no nation, large or small, young or old, can disassociate itself. Every attitude and every action of every nation can affect the welfare and security of every other nation around the globe.',
+        'Robert Kennedy',
     ],
-    'ecf0928c-0b7b-524d-8bbe-14946cc7856f' => [
-        'Our challenge for the future is that we realize we are very much a part of the earth\'s ecosystem, and we must learn to respect and live according to the basic biological laws of nature.',
-        'Jim Fowler',
+    '4e2e7e6f-f921-596e-aa9e-1665e5ade538' => [
+        'Experience can only be gained by doing not by thinking or dreaming.',
+        'Byron Pulsifer',
     ],
-    '8f5d910c-8cb8-5e9f-8231-7d7e9f842bb1' => [
-        'Space exploration is a force of nature unto itself that no other force in society can rival.',
-        'Neil deGrasse Tyson',
+    '697d139e-1f01-5703-ada8-2656f00f457f' => [
+        'My reputation grows with every failure.',
+        'George Shaw',
     ],
-    '98b1fab1-6ab6-597e-ac27-70a182e876de' => [
-        'I would like to be remembered as a man who had a wonderful time living life, a man who had good friends, fine family - and I don\'t think I could ask for anything more than that, actually.',
-        'Frank Sinatra',
+    '28067e28-6959-57d6-95ea-82f891118d0b' => [
+        'I would fight for my liberty so long as my strength lasted, and if the time came for me to go, the Lord would let them take me.',
+        'Harriet Tubman',
     ],
-    '670eaf7a-f146-5158-af9f-3dfc7da910a4' => [
-        'My family know not to get me any tech for Christmas. I can never get it to work, and it all becomes very tearful and pressurised.',
-        'Peter Capaldi',
+    '13959060-5df2-5e16-967b-2c40c11519b0' => [
+        'We shall never know all the good that a simple smile can do.',
+        'Mother Teresa',
     ],
-    'ec1cf8aa-f18d-567f-a238-4aabc243bad3' => [
-        'In Hollywood, they think drawn animation doesn\'t work anymore, computers are the way. They forget that the reason computers are the way is that Pixar makes good movies. So everybody tries to copy Pixar. They\'re relying too much on the technology and not enough on the artists.',
-        'Tim Burton',
+    '8a93c307-e709-511c-9e32-7d9fa375120c' => [
+        'People have to make journeys, what we want is people to have alternatives in public transport so that they can make a choice about the sort of way in which they\'re going to travel.',
+        'Theresa May',
     ],
-    'e5c3279c-b1fa-5282-9ce8-c5c466ec3a0d' => [
-        'A lot of these teams really forget that part of success comes with having veteran leadership. You see a lot of teams forget that and start letting go of these old veterans. They don\'t realize how important it is to have a veteran voice in your locker room or on the bench. It\'s important to have guys who have been there before.',
-        'David Robinson',
+    '78cfec6d-c73d-5bf3-b907-0d15b3ee9dc7' => [
+        'Impossible is a word to be found only in the dictionary of fools.',
+        'Napoleon Bonaparte',
     ],
-    'd6fcdbe1-c42a-565e-9e3f-75f3f1452366' => [
-        'I travel way too much to have any pets. But if I could have one, I\'d want a quokka. They\'re basically small kangaroos native to Western Australia.',
-        'Justine Larbalestier',
+    'cef8feb6-a6a2-5d6b-a0bd-182952786a3a' => [
+        'However, I must say that I am very happy to see that we have such a positive result for our first referendum in our history and that gives me more confidence in Taiwan\'s democracy.',
+        'Chen Shui-bian',
     ],
-    '19a87605-1fe2-5400-916a-1a9315ebb05c' => [
-        'There are a lot of things that go into creating success. I don\'t like to do just the things I like to do. I like to do things that cause the company to succeed. I don\'t spend a lot of time doing my favorite activities.',
-        'Michael Dell',
+    '4cd5af17-e1c6-5467-8c45-0f445c5aca91' => [
+        'I decided to fly through the air and live in the sunlight and enjoy life as much as I could.',
+        'John Burroughs',
     ],
-    '94241b1a-8bd3-577a-82f5-1c1315733830' => [
-        'I learned a long time ago that some people would rather die than forgive. It\'s a strange truth, but forgiveness is a painful and difficult process. It\'s not something that happens overnight. It\'s an evolution of the heart.',
-        'Sue Monk Kidd',
+    '7ac7c0c2-c328-5fe6-b312-874d92364f1f' => [
+        'Wicked people are always surprised to find ability in those that are good.',
+        'Marquis Vauvenargues',
     ],
-    'b73cd10f-821e-5f01-9453-cf7b5544eebc' => [
-        'I come from a poor family.',
-        'Manny Pacquiao',
+    '33cdccd7-f1f0-504f-9f72-144c55e9d651' => [
+        'The laissez-faire attitude to science education has resulted in a disaster exemplified by the fact that more young people are opting for media studies than physics.',
+        'Harry Kroto',
     ],
-    'b0efac2a-2abf-50a6-9279-25a9c7bb6b3e' => [
-        'When I meet successful people I ask 100 questions as to what they attribute their success to. It is usually the same: persistence, hard work and hiring good people.',
-        'Kiana Tom',
-    ],
-    '8dbafaee-f456-55ab-af0a-53f18ede16f4' => [
-        'I think it is important for young people to see other young people on television doing something positive with their life, making positive changes and growing. I don\'t think there is enough of that on TV. I mean, we\'ve got \'Jersey Shore,\' and I don\'t know what that teaches young kids.',
-        'Johnny Weir',
-    ],
-    '432f7be1-7113-54c2-9416-33e2d98c475c' => [
-        'Write it on your heart that every day is the best day in the year.',
-        'Ralph Waldo Emerson',
-    ],
-    '9176aa51-07f6-5a38-a7be-7c13b1890ac5' => [
-        'Our parents deserve our honor and respect for giving us life itself. Beyond this they almost always made countless sacrifices as they cared for and nurtured us through our infancy and childhood, provided us with the necessities of life, and nursed us through physical illnesses and the emotional stresses of growing up.',
-        'Ralph Waldo Emerson',
-    ],
-    'f58d856e-d5e6-50eb-8910-8b8f97d60f72' => [
-        'You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one.',
-        'John Lennon',
-    ],
-    '31840989-3b10-5700-9d9c-0bfe59382a55' => [
-        'To travel hopefully is better than to arrive.',
-        'James Jeans',
-    ],
-    'f4c87fe4-9334-556c-bdcc-778b4f9630de' => [
-        'What is important is family, friends, giving back to your community and finding meaning in life.',
-        'Adrian Grenier',
-    ],
-    '7fcad06b-df78-50c5-be30-8d4b616284aa' => [
-        'It\'s best to have failure happen early in life. It wakes up the Phoenix bird in you so you rise from the ashes.',
-        'Anne Baxter',
-    ],
-    'ee2b30db-ffbe-5752-82ed-a1781bebb3fd' => [
-        'Coldplay fans are the best in the world. If you like Coldplay then you\'re obviously very intelligent and good looking and all-around brilliant.',
-        'Chris Martin',
-    ],
-    '5cebd135-c606-5a44-b671-743b164a3ef4' => [
-        'Since day one, since the first time I touched the pen, I wanted to be the best at what I do.',
-        'Kendrick Lamar',
-    ],
-    '183f57f9-c5a8-5ab1-824b-e0ea39fa07f2' => [
-        'Maybe it\'s stress or anger or adrenaline or disillusionment or a bullying nature or simple fear of getting killed themselves, but there is a problem if a cop cannot tell the difference between a menacing gangster and the far more common person they encounter whose life is a little frayed and messy.',
-        'David Horsey',
-    ],
-    '55a46866-089e-5a6c-a915-c019bf7ed057' => [
-        'I don\'t believe in failure. It\'s not failure if you enjoyed the process.',
-        'Oprah Winfrey',
+    'f3354b39-7e1a-5a60-ba40-c841f1bea494' => [
+        'My dad was in the army so we moved around a lot and I changed schools every year and had to make new friends, and I found that if I was the funny guy I could do that easier.',
+        'Jason Gann',
     ],
 ];

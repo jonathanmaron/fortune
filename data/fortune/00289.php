@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '88df056f-91d8-51d8-af48-9fe22e8f7162' => [
-        'I am not embarrassed to tell you that I believe in miracles.',
-        'Corazon Aquino',
+    '13eca9db-1650-5861-b07b-60866b0852b4' => [
+        'There\'s a certain elitism that has crept into the attitudes of some in journalism, and it played out perfectly over the issue of these little American flag lapel pins.',
+        'Brit Hume',
     ],
-    'dfb2bd3a-9070-56ce-a721-9863fe3d96f2' => [
-        'He who does not become familiar with nature through love will never know her.',
-        'Karl Wilhelm Friedrich Schlegel',
+    '73f7175d-7dc8-588c-9cb9-0cb090a13852' => [
+        'Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.',
+        'Pearl Buck',
     ],
-    '2cc13758-3bd9-59cb-b853-e3ea9c9a3a78' => [
-        'If you want to achieve greatness stop asking for permission.',
-        'Unknown',
+    '6970d29c-fd94-57ec-afe9-ae561296c652' => [
+        'I argue thee that love is life. And life hath immortality.',
+        'Persis Khambatta',
     ],
-    'a69a40e5-33f1-5933-a34f-37338071b7ea' => [
-        'Don\'t go through life, grow through life.',
-        'Tim Gunn',
+    '687825af-4da5-58c1-a1af-1a5f6e3f2c36' => [
+        'Our success in Singapore was a Herculean effort by the whole team. Now I am determined to deliver on all we promised. I will be watching like a hawk.',
+        'Sebastian Coe',
     ],
-    '9af557d8-5d76-5150-8575-a0b28e41702f' => [
-        'I\'ve known entrepreneurs who were not great salespeople, or didn\'t know how to code, or were not particularly charismatic leaders. But I don\'t know of any entrepreneurs who have achieved any level of success without persistence and determination.',
-        'Harvey Mackay',
+    'fcbe38a5-d39e-5b90-adec-71bab259190c' => [
+        'I grew up with just my mom. She and I were like best friends. She\'s a very independent woman and I admire that about her. In my life, I\'ve tried to be like that. To be okay with being on my own and being independent.',
+        'Emma Roberts',
     ],
-    '118fc26d-55ac-5b59-b4f9-3832d6796eea' => [
-        'Art can never exist without naked beauty displayed.',
-        'William Blake',
+    '1bd3380a-a942-507f-9ceb-df0d62b37dc5' => [
+        'Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers.',
+        'Jose Luis Borges',
     ],
-    '4100ad79-dc36-5013-b5a7-6182145624ef' => [
-        'I can\'t believe the pro-choicers attitude toward unborn children-to me it\'s the ultimate liberal cause, to defend those without a voice.',
-        'Michael Aston',
+    '0fd65c1c-ce77-5be7-b4c5-0070c2e554b7' => [
+        'Leave the matter of religion to the family altar, the church, and the private school, supported entirely by private contributions. Keep the church and state forever separate.',
+        'Ulysses S. Grant',
     ],
-    'ae2dcb97-d8b2-5618-a1c1-c5e601645f84' => [
-        'The reason I exercise is for the quality of life I enjoy.',
-        'Shakuntala Devi',
+    'dd1d98ab-d3e7-52cf-a6be-14028f110a8f' => [
+        'I had written two or three books before my husband noticed that in every one of them a family member was missing. He suggested that it was because my father\'s death, when I was five, utterly changed my world. I can only suppose he is right and that this is the reason I am drawn to a narrative where someone\'s life is changed by loss.',
+        'Jenny Nimmo',
     ],
-    'add983a8-4338-53b0-b71c-632eef4ad003' => [
-        'Correction does much, but encouragement does more.',
-        'Johann Wolfgang von Goethe',
+    'a4026f3d-0fe4-55f7-adf5-0fc5967345a0' => [
+        'Deprived of meaningful work, men and women lose their reason for existence; they go stark, raving mad.',
+        'Fyodor Dostoevsky',
     ],
-    '5bbc9c58-3a80-57ad-886e-8fd938e646c6' => [
-        'The best is the enemy of the good.',
-        'Voltaire',
+    '47c21b2d-afd0-588f-8b69-616379f79686' => [
+        'Success is steady progress toward one\'s personal goals.',
+        'Jim Rohn',
     ],
-    '281dd786-5614-5833-9415-87596b4fef06' => [
-        'I think a major element of jetlag is psychological. Nobody ever tells me what time it is at home.',
-        'David Attenborough',
+    '8b100cd1-5503-564f-bdb9-0236f63da61e' => [
+        'By its very nature the beautiful is isolated from everything else. From beauty no road leads to reality.',
+        'Hannah Arendt',
     ],
-    'bc07b68c-703d-51ee-a128-07908c05a297' => [
-        'Whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon... must inevitably come to pass!',
-        'Paul J. Meyer',
+    '23e56124-852f-5d33-9a77-b04443a8de91' => [
+        'The first time I see a jogger smiling, I\'ll consider it.',
+        'Joan Rivers',
     ],
-    '3186458b-deda-5f8a-895b-6eb4d65de567' => [
-        'The Book of Mormon is our handbook of instructions as we travel the pathway from bad to good to better and strive to have our hearts changed.',
-        'David A. Bednar',
+    '9414d00e-d6ac-51a5-9fb3-bb32dbc5ee52' => [
+        'If you are patient in one moment of anger, you will escape one hundred days of sorrow.',
+        'Chinese proverb',
     ],
-    '63f9077e-b50c-5008-a4ec-1054e6792f63' => [
-        'All of the narration in \'Smile\' is first-person. Most of the books that I grew up reading had first-person narrators for some reason. My diaries were written in this voice, and since this story is autobiographical, it just felt like a natural extension.',
-        'Raina Telgemeier',
+    '66dd5c85-74e6-5d1f-882e-8ced097b4406' => [
+        'The key to success is action, and the essential in action is perseverance.',
+        'Sun Yat-sen',
     ],
-    '23266266-4c64-57a0-9250-19bd645019a2' => [
-        'There are two kinds of people, those who do the work and those who take the credit. Try to be in the first group; there is less competition there.',
-        'Indira Gandhi',
+    '0d38dfec-77be-5c36-b1ac-4893977185e7' => [
+        'A diva is someone who is a perfectionist, who does her best in her craft.',
+        'Patti LaBelle',
     ],
-    '96cc277f-f975-5fc9-9737-788fdff1484b' => [
-        'It is impossible to exaggerate the wide, and widening, gulf between the American attitude on the Iraq war and the view from our friends across the Atlantic.',
-        'Nick Clooney',
+    '87ca1c54-733e-5833-a4a3-3d421ec8e710' => [
+        'I absolutely love my son and family - they are my life and always come first.',
+        'Jason Day',
     ],
-    '76024c8f-b4b5-5b1e-af1a-90730214a0b6' => [
-        'It is through gratitude for the present moment that the spiritual dimension of life opens up.',
-        'Buddha',
+    '46593ff6-c952-5cbf-8733-32941304acec' => [
+        'The Superior Man is aware of Righteousness, the inferior man is aware of advantage.',
+        'Confucius',
     ],
-    '63e6ad9b-7e2b-5968-9636-5f67092d5e18' => [
-        'As happy a man as any in the world, for the whole world seems to smile upon me!',
-        'Samuel Pepys',
+    '5212797a-a3ca-51cc-8dd3-754a2ef5b39f' => [
+        'It is the nature of the strong heart, that like the palm tree it strives ever upwards when it is most burdened.',
+        'Philip Sidney',
     ],
-    '565f98c3-4ff2-579d-bf86-91bd3fc17f31' => [
-        'Flowers are without hope. Because hope is tomorrow and flowers have no tomorrow.',
-        'Antonio Porchia',
+    '184d0504-4231-5eb4-8410-864a8f67b417' => [
+        'There\'s something magical about spending a Sunday night watching real people at a deli, then watching fake people pretending to be real on TV, then engaging in (arguably) false interaction with (arguably) real people on the Internet. Never at any prior point in time has this been possible.',
+        'Diablo Cody',
     ],
-    '12c0e64f-734c-5886-813e-dfd17fa4956c' => [
-        'Secrecy is the element of all goodness; even virtue, even beauty is mysterious.',
-        'Thomas Carlyle',
+    '290c9a2a-04f0-5752-b27d-e131c28b0140' => [
+        'I do often fly first class, but I don\'t travel with a posse, or bodyguard, or an assistant.',
+        'Gene Simmons',
     ],
-    'dd853012-c2fb-59ee-a0dc-3e9656d2fa25' => [
-        'I don\'t like formal gardens. I like wild nature. It\'s just the wilderness instinct in me, I guess.',
-        'Walt Disney',
+    'ed09d0a1-d885-5e07-984f-3b0c19e97b16' => [
+        'Grace is in garments, in movements, in manners; beauty in the nude, and in forms. This is true of bodies; but when we speak of feelings, beauty is in their spirituality, and grace in their moderation.',
+        'Joseph Joubert',
     ],
-    '37c3cda4-318c-50ae-9493-2e670dc39bd4' => [
-        'Seeing the family is a very important part of my weekend.',
-        'Susannah York',
+    'f1d19bbe-40ae-5733-9095-2c536155adb7' => [
+        'Life is about growing and improving and getting better.',
+        'Bruce Lee',
     ],
-    '671976d8-6217-5df7-a611-9f1262aa6e5c' => [
-        'I like that time is marked by each sunrise and sunset whether or not you actually see it.',
-        'Catherine Opie',
+    'dc3ae454-e2eb-5fe9-8c98-1427807ca0e6' => [
+        'Even as a little child, I\'ve always had that comedian kind of attitude.',
+        'Etta James',
     ],
-    '51ae8cac-b0f2-5ea9-be06-aa5c09c9ac5e' => [
-        'Reality continues to ruin my life.',
-        'Bill Watterson',
+    '2c031eb6-b1b7-5a6c-bcba-c469a9a06f70' => [
+        'In my forties, my optimism was boundless. I had really good health and tremendous success which allowed me to do anything I wanted.',
+        'Patricia Cornwell',
     ],
-    'be3b2671-3b90-54fd-bf01-32b3f4383709' => [
-        'Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek.',
-        'Barack Obama',
+    '59863e8b-2eec-5908-85eb-bc0b00c65958' => [
+        'Beauty of whatever kind, in its supreme development, invariably excites the sensitive soul to tears.',
+        'Edgar Allan Poe',
     ],
-    'a9840e40-7843-5192-a5d7-1b0dee255f1b' => [
-        'I am a positive person. I never think of the glass as half empty. I just keep pushing forward.',
-        'Rosie Perez',
+    'b604ff8f-f2ba-5b59-bca4-b1c4b69d5a20' => [
+        'Who picks your clothes - Stevie Wonder?',
+        'Don Rickles',
     ],
-    'd034375b-e40a-5b05-8834-825ca0636215' => [
-        'An image of the Earth, its landscapes, directly affects people. The beauty of the Earth creates enormous emotion, and through that emotion, you can transmit knowledge and raise consciousness.',
-        'Yann Arthus-Bertrand',
+    'c84b2e2e-4879-515b-8312-08c31347d93c' => [
+        'All human actions have one or more of these seven causes: chance, nature, compulsions, habit, reason, passion, desire.',
+        'Aristotle',
     ],
-    'a07458c2-c119-5f11-9caf-425604bf91d4' => [
-        'When you run a part of the relay and pass on the baton, there is no sense of unfinished business in your mind. There is just the sense of having done your part to the best of your ability. That is it. The hope is to pass on the baton to somebody who will run faster and run a better marathon.',
-        'N. R. Narayana Murthy',
+    '003ff62a-6a82-55ea-85f2-07c0bbd22c03' => [
+        'He who is of calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden.',
+        'Plato',
     ],
-    '01b7b22d-c551-53fe-81cd-e07975e79b53' => [
-        'Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.',
-        'Buddha',
+    'b940b2c8-e5da-5a36-907c-ab13e678569a' => [
+        'If someone you know makes a bad decision or uses bad judgment, it doesn\'t mean you have to allow that to alter your attitude. Why should you allow anyone else\'s bad decisions to send you into a tailspin of misery?',
+        'Joyce Meyer',
     ],
-    'e108cf6e-5029-553c-9c27-1519e0ced439' => [
-        'It\'s hard now to imagine that kind of travel and the daily tasks they simply took for granted. If a wagon axle broke, you had to stop and carve a new one. To cross a river, you sometimes had to build a raft.',
-        'James Houston',
+    'e92024af-6ae7-5981-b18d-2dc2b7ea1cb5' => [
+        'The four building blocks of the universe are fire, water, gravel and vinyl.',
+        'Dave Barry',
     ],
-    'a94f41dd-6181-5fe8-b1b0-63b11ef3bad6' => [
-        'I enjoy going to work and having a good time. It\'s tough when you got to work with people who just are in a bad mood all the damn time.',
-        'Queen Latifah',
+    'd2a3fa38-4a22-5326-9ab4-9f43596e08dc' => [
+        'The beauty of a finely worked object points to the beauty of the craftsmanship. The beauty of the craftsmanship points to the beauty of the name which was the source of the craftsmanship. The beauty of the name of the craftsman\'s art points to the beauty of the craftsman\'s attributes manifested in that art.',
+        'Said Nursi',
     ],
-    '38eb4b13-55ad-5e89-8cfc-f2867cc5cf8c' => [
-        'Beauty is not all there is of poetry. It must contain the truth. It is not simply an oak, rude and grand, neither is it simply a vine. It is both. Around the oak of truth runs the vine of beauty.',
-        'Robert Green Ingersoll',
+    '9129653b-06af-5932-a8f1-81cc964f4f0d' => [
+        'I don\'t think about financial success as the measurement of my success.',
+        'Christie Hefner',
     ],
-    '29ce3b1e-3c22-5f5b-9d3a-4b841d1860ea' => [
-        'The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.',
-        'Kalpana Chawla',
+    'c3d1c2a7-6cee-55ff-8cf2-49c7e6f1154a' => [
+        'To be a good loser is to learn how to win.',
+        'Carl Sandburg',
     ],
-    'c749b5d2-9ecf-5b3b-9462-1854a34dd942' => [
-        'There is something mean in human nature that prefers to think evil, that gives a willing ear and a ready welcome to calumny, a sort of jealousy of goodness and greatness and things of good report.',
-        'Richard Le Gallienne',
-    ],
-    '32fbb717-f131-53d3-8917-288bfd502f06' => [
-        'I think this industry can be tough on everyone. You have to surround yourself with supportive people and know when to put your foot down and do what\'s best for you and your family. The first few years in the music industry can be a steep learning curve, and I\'ve definitely developed a thicker skin!',
-        'Rebecca Ferguson',
-    ],
-    '8ef0d3d3-0f48-548b-88e7-3a34437e6876' => [
-        'I have to read something positive every single day. I have to have faith that the day is unfolding in a way that is going to be useful to somebody else... For me, living every day in gratitude has been profound for me.',
-        'Lea Thompson',
-    ],
-    'db5235cb-13da-511c-8b70-475428442265' => [
-        'The story of life is quicker than the blink of an eye, the story of love is hello, goodbye.',
+    '6256f6f2-c501-5bc5-a0b9-325a1e5659e5' => [
+        'Life is not a matter of holding good cards, but sometimes, playing a poor hand well.',
         'Thomas Jefferson',
     ],
-    '894abea7-1bb4-5442-8239-2d0d35da4e87' => [
-        'You shouldn\'t get too close to the truth, because then maybe you stop being funny.',
-        'Bob Newhart',
+    '229b8675-67c6-5692-830e-2adea41c10bd' => [
+        'Having nothing, nothing can he lose.',
+        'William Shakespeare',
     ],
-    '072e10b0-4c19-52b2-afae-486a973ffe79' => [
-        'Life\'s pretty funny when you\'re objectively on the outside looking at it.',
-        'Philip Seymour Hoffman',
+    'f455133b-33ef-5354-b775-40905a7f5ae2' => [
+        'Success is a high, but the way up is hard, and you have to give your all.',
+        'Randeep Hooda',
     ],
-    '43c59eb5-c5a0-55c0-8fa9-24c2f6665914' => [
-        'One doesn\'t soon forget the natural beauty of Washington, although those of us who live here do sometimes take it for granted.',
-        'Katharine Graham',
+    '8e599e32-e4f5-5807-8e52-75e31321da53' => [
+        'The preparation is what allows the success to happen naturally.',
+        'Jake Arrieta',
     ],
-    'fde2df15-987b-5134-9875-1307495509a3' => [
-        'The historic ascent of humanity, taken as a whole, may be summarized as a succession of victories of consciousness over blind forces - in nature, in society, in man himself.',
-        'Leon Trotsky',
+    'eab7bbed-c452-5d8c-907b-34b179acef39' => [
+        'If you do what you\'ve always done, you\'ll get what youve always gotten.',
+        'Tony Robbins',
     ],
-    '18e6d009-bd36-5dab-98c7-b210ed2350c7' => [
-        'Own only what you can always carry with you: know languages, know countries, know people. Let your memory be your travel bag.',
-        'Aleksandr Solzhenitsyn',
-    ],
-    'cf18adf3-3056-5c09-81ff-3c6871365355' => [
-        'What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.',
-        'Ralph Waldo Emerson',
-    ],
-    '22f691d5-234f-5e1e-8d37-eb9d903d76ba' => [
-        'Do what is right, not what is easy nor what is popular.',
-        'Roy T. Bennett',
-    ],
-    '18fd3565-ddc1-5c41-8e2e-64bf539b5237' => [
-        'I think you can be depressed and flourish, I think you can have cancer and flourish, I think you can be divorced and flourish. When we believed that happiness was only smiling and good mood, that wasn\'t very good for people like me, people in the lower half of positive affectivity.',
+    'cea4c31d-7207-5521-8fbc-a3ecebb91adc' => [
+        'If we just wanted positive emotions, our species would have died out a long time ago.',
         'Martin Seligman',
     ],
-    'bf7e4315-d6a3-5e63-9b43-abfe754bc1b9' => [
-        'Nature is not human hearted.',
-        'Lao Tzu',
+    'e3d98351-19d7-50c6-beeb-e7d17d03748d' => [
+        'Don\'t focus on the negativity. Focus on the positivity and the people that want you to do well; then, do it for them and for yourself. Sometimes I do things for myself. Sometimes I do things for my family. Sometimes I do things for my friends.',
+        'Roman Reigns',
     ],
-    'a36af56e-29a7-562c-b8f0-76f27de174fe' => [
-        'Encouragement of higher education for our youth is critical to the success of our collective future.',
-        'Charles B. Rangel',
+    '2792baf1-c4a7-57d0-b21c-6b5194ce3169' => [
+        'The most decisive actions of our life... are most often unconsidered actions.',
+        'Andre Gide',
     ],
-    '27278c46-e766-5921-9eba-279274109f6f' => [
-        'The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.',
-        'Christopher McCandless',
+    '9e1f78b7-720a-5c0d-ba69-2f0bb085c3d5' => [
+        'I go back to the old school days of that Attitude Era stuff. Everybody knows when I speak of the Attitude Era, my favorite stuff is of the mid-\'80s, all that NWA stuff, the World Class stuff, the stuff that Bill Watts was doing.',
+        'Stone Cold Steve Austin',
     ],
-    '5ea37cca-0333-5ef5-8a8d-081426b9043e' => [
-        'Imagination is the highest kite one can fly.',
-        'Lauren Bacall',
+    '62955260-2689-5fc4-aef3-a7573c4a0986' => [
+        'Lady Gaga is the present and the future. She is the most revolutionary and inspirational artist. She is fearless and daring.',
+        'Donatella Versace',
     ],
-    'fad7a6bc-c174-51dc-a8aa-bb2bab94046a' => [
-        'Living life at a young age is like being a sponge thrust into the ocean. You absorb what\'s around you. If you\'re around people who are supportive and positive, that\'s how you look at the world.',
-        'Freddie Prinze, Jr.',
+    '3de3d042-d7d6-59d0-81b0-18130c981e20' => [
+        'For as the eyes of bats are to the blaze of day, so is the reason in our soul to the things which are by nature most evident of all.',
+        'Aristotle',
+    ],
+    '952c49ad-985d-5106-ba5d-5493e5bf54c8' => [
+        'There\'s a great power in words, if you don\'t hitch too many of them together.',
+        'Josh Billings',
+    ],
+    '4022fee3-5a3a-505e-a74c-22d7cc5f71e0' => [
+        'One thing an exceptional employee never says is, \'That\'s not in my job description.\' Exceptional employees work outside the boundaries of job descriptions.',
+        'Travis Bradberry',
+    ],
+    'e4ddae4e-43a6-5e9c-9747-afae3526a2f3' => [
+        'Positive, adj.: Mistaken at the top of one\'s voice.',
+        'Ambrose Bierce',
+    ],
+    '54d639da-bb20-568d-9633-780ecdfc457a' => [
+        'The sacrifices made by veterans and their willingness to fight in defense of our nation merit our deep respect and praise - and to the best in benefits and medical care.',
+        'Sue Kelly',
+    ],
+    '43e3b522-95b3-53f9-9e9f-08e76eda2866' => [
+        'I am very surprised by someone like Alexander Wang. I am amazed how he is good with fashion, with business, with public relations himself, with an attitude in his clothes that is spoken immediately.',
+        'Carine Roitfeld',
+    ],
+    'de3d9560-6638-5040-b707-17f117b225ed' => [
+        'I\'m the one that has to die when it\'s time for me to die, so let me live my life, the way I want to.',
+        'Jimi Hendrix',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'be8b8189-d8ee-5ac9-9e22-89c42d2e3133' => [
-        'I bring people on stage with me. It\'s a good time, and people love to join in on the party. Show me a smile, and I\'ll show you one back.',
-        'Vanilla Ice',
+    '23f3f18f-e597-5ad2-8cbe-b362073a904f' => [
+        'Life is a difficult game. You can win it only by retaining your birthright to be a person.',
+        'Mark Twain',
     ],
-    '6b5da2e9-5772-53b4-a97a-d41f87792dfb' => [
-        'I wasn\'t close to my father, but I wanted to be all my life. He had a funny sense of humor, and he laughed all the time - good and loud, like I do. He was a gay Irish gentleman and very good-looking. And he wanted to be close to me, too, but we never had much time together.',
-        'Judy Garland',
+    'ffd4d362-463f-55d0-9b72-dcdd10e41f9e' => [
+        'If you think you can, you can. And if you think you can\'t, you\'re right.',
+        'Henry Ford',
     ],
-    'a6886e9d-6bb0-5ee2-9a9c-ccd5fb07e98c' => [
-        'We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.',
-        'Jim Rohn',
-    ],
-    'c3b7586b-fd18-5675-99f0-029d3ae22896' => [
-        'The only place success comes before work is in the dictionary.',
-        'Vince Lombardi',
-    ],
-    '5ea80afb-94d1-5604-b426-4f5eaa9d4b98' => [
-        'My brother is my best friend.',
-        'Erinn Smart',
-    ],
-    'fbabab28-3132-5d94-9204-deb202d727ed' => [
-        'When I write a goal down - and I truly write them down - it becomes a part of me. That\'s a contract that I sign with myself to say, \'I don\'t care what happens - I\'m going to stay on this path. I\'m going to try and see this through; I\'m going to give it my best shot, my best effort.\'',
-        'Gail Devers',
-    ],
-    'd46eca7f-2850-5b4a-9ff1-f7e12d0c588e' => [
-        'I love Christmas. I really do love Christmas. I love being with my family and I love snow. I love the music and the lights and all of it.',
-        'Christina Applegate',
-    ],
-    'e97899e5-1546-578a-a24c-3c16a3684132' => [
-        'From my dad I learned to be good to people, to always be honest and straightforward. I learned hard work and perseverance.',
-        'Luke Bryan',
-    ],
-    'f5c6802a-c813-5e34-b222-cf5652809195' => [
-        'The making of friends who are real friends, is the best token we have of a man\'s success in life.',
-        'Edward Everett Hale',
-    ],
-    '4027135b-3d3c-54b5-a7c4-6747d07dd0fd' => [
-        'The difference between us and them, between you and success, is not that you never fail, but it\'s how you recover from those failures - is that you keep getting up time and time again. You figure out what you did wrong, and then you make it right. I say that to my kids every day.',
+    '40bb12c6-d39a-5cf3-8ab9-a25819ec935c' => [
+        'Whether you come from a council estate or a country estate, your success will be determined by your own confidence and fortitude.',
         'Michelle Obama',
     ],
-    'e4b31d71-38a8-53a2-b35b-29c5d612b3ea' => [
-        'When I drank, I had a very different attitude towards my playing. It was sloppier but I kind of liked it that way. It was like the alcohol was telling my mind what to do.',
-        'Mick Mars',
+    '228226c0-d062-5395-a51b-8cd8ff5a04d3' => [
+        'I work hard, like I\'m sure everyone else does, and I\'m very honest with the work I do.',
+        'Shah Rukh Khan',
     ],
-    '9f3a04d6-86c5-56b6-b1c8-7ba2ccdfe33a' => [
-        'Who would have thought that a tap-dancing penguin would outpoint James Bond at the box office? And deserve to? Not that there\'s anything wrong with \'Casino Royale.\' But \'Happy Feet\' - written and directed by George Miller - is a complete charmer, even if, in the way of most family fare, it can\'t resist straying into the Inspirational.',
-        'Robert Gottlieb',
+    'c5918ab8-83c2-5b72-9290-19b6d1c53f44' => [
+        'Music became a healer for me. And I learned to listen with all my being. I found that it could wipe away all the emotions of fear and confusion relating to my family.',
+        'Eric Clapton',
     ],
-    '69c743ed-8db6-527c-b44f-aeb7c47c0423' => [
-        'Donald has a deep and unbounding determination and a never-give-up attitude. I have seen him fight for years to get a project done - or even started - and he does not give up! If you want someone to fight for you and your country, I can assure you, he is the \'guy.\'',
-        'Melania Trump',
+    '213db5ab-866a-53d9-91b6-f685fc65d437' => [
+        'A rich, robust, well-resourced public education is one of the best routes out of poverty and a pathway to prosperity.',
+        'Randi Weingarten',
     ],
-    '48dbecf0-8751-5dc8-8b78-9958d937f8c6' => [
-        'I would love to have some sort of \'Back To The Future\' Delorean time machine travel device so I could go back to 1981 to see that very first Jackson 5 concert I went to, back when I was a kid.',
-        'Questlove',
+    'c3c6a6a3-0b4f-5bd1-91a4-ec1214207d43' => [
+        'I write for kids because I think the most interesting (and most humorous) stories come from people\'s childhoods. When I was writing \'Diary of a Wimpy Kid,\' I had a blast talking on the phone to my younger brother, Patrick, remembering all of the things that happened to our family when we were growing up.',
+        'Jeff Kinney',
     ],
-    '6fcde010-e12e-59de-8d4f-68ff71f4ef15' => [
-        'I never had a policy; I have just tried to do my very best each and every day.',
-        'Abraham Lincoln',
+    '6d2903fc-8a2b-5d3f-9d9a-64b5891bbe5e' => [
+        'What a book a devil\'s chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!',
+        'Charles Darwin',
     ],
-    '6df68e25-a9d8-52cb-acd1-0440db0243c3' => [
-        'Finding good partners is the key to success in anything: in business, in marriage and, especially, in investing.',
-        'Robert Kiyosaki',
+    'fef2f3ae-91b8-5b3a-a73e-a694796a83df' => [
+        'I specifically remember doing the musical \'Sweet Charity\' at Stagedoor. I was playing Vittorio Vidal, which is a very funny part, and some other small roles. I couldn\'t really sing that well, but there were so many fun bits, and I just remember the tremendous adrenaline rush I felt from being onstage and hearing the audience enjoying it.',
+        'Sebastian Stan',
     ],
-    '0b8f874b-8065-55bb-b59b-b21ee9b03ffa' => [
-        'We are all faced with a series of great opportunities brilliantly disguised as impossible situations.',
-        'Charles R. Swindoll',
+    '79361ac5-246d-57a5-ae01-66314f5ee227' => [
+        'An idea isn\'t responsible for the people who believe in it.',
+        'Don Marquis',
     ],
-    '9e05061d-68d9-5746-929b-bec79661e397' => [
-        'I believe that the open exchange of information can have a positive global impact.',
-        'Biz Stone',
+    '72e1992a-4812-5329-bb42-384b37c8b100' => [
+        'I honestly think it is better to be a failure at something you love than to be a success at something you hate.',
+        'George Burns',
     ],
-    '0a525507-fa72-50b7-ad1e-48a1f141aeff' => [
-        'If you have this enormous talent, it\'s got you by the balls, it\'s a demon. You can\'t be a family man and a husband and a caring person and be that animal. Dickens wasn\'t that nice a guy.',
-        'Dustin Hoffman',
+    'b4bb0c75-e4f8-54cd-b02d-8dd4616a02a0' => [
+        'There are no straight lines or sharp corners in nature. Therefore, buildings must have no straight lines or sharp corners.',
+        'Antoni Gaudi',
     ],
-    '188c32e1-01ea-5063-898f-9a5746b3d137' => [
-        'The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.',
-        'Franklin D. Roosevelt',
-    ],
-    '8a03c158-7a72-59ef-87a5-1b686cd75a49' => [
-        'I\'ve always been a big fan of time travel, and I\'m very into the notion that some day we\'ll be able to do it. Beam me up!',
-        'Scott Bakula',
-    ],
-    '09132538-a7a0-5583-b3a6-7db764f504e9' => [
-        'I believe the wedding vows are sacred and precious, and it\'s been one of my goals as a writer to portray the kind of marriages I\'ve seen modeled in my family - my parents and grandparents, who all celebrated fifty-year anniversaries and well-beyond.',
-        'Deborah Raney',
-    ],
-    'b4acdc74-e9de-5272-87b9-9f3bf1c8ce04' => [
-        'The most difficult thing in life is to know yourself.',
-        'Martin Freeman',
-    ],
-    '9ff08467-be45-5b79-b9fb-261df9c761d7' => [
-        'If you have an important point to make, don\'t try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time - a tremendous whack.',
-        'Winston Churchill',
-    ],
-    '32655bba-3d46-5bb7-8cc8-399703e18417' => [
-        'People always fear change. People feared electricity when it was invented, didn\'t they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters.',
-        'Bill Gates',
-    ],
-    'ad93d1c1-96c1-51a9-b349-a7b047e4c623' => [
-        'My life is really quite conservative. I\'ve been married nearly 50 years. I don\'t have hobbies or children. I don\'t much care to travel. I\'ve never had a big social life. I really just stay home, except when I go to work.',
-        'Christopher Walken',
-    ],
-    'c7374b80-9f71-53a3-a233-358e43ab08d2' => [
-        'I failed to make the chess team because of my height.',
-        'Woody Allen',
-    ],
-    '1b72334a-5802-5f7c-8a5d-117cc6b73c77' => [
-        'The next time some academics tell you how important diversity is, ask how many Republicans there are in their sociology department.',
-        'Thomas Sowell',
-    ],
-    'b8fa8f27-bdfe-5ff8-aebf-bbe3f4728eeb' => [
-        'You go through life wondering what is it all about but at the end of the day it\'s all about family.',
-        'Steve Jobs',
-    ],
-    '011967f3-2b7c-56ce-a3d8-f0e04340f3f3' => [
-        'Mind you, physical training doesn\'t necessarily mean going to an expert for advice. One doesn\'t have to make a mountain out of a molehill. Get out in the fresh air and walk briskly - and don\'t forget to wear a smile while you\'re at it. Don\'t over-do. Take it easy at first and build on your effort day by day.',
-        'Douglas Fairbanks',
-    ],
-    '32c9fc1e-3735-522c-a779-ecec08f1995d' => [
-        'You don\'t have to be the Dalai Lama to tell people that life\'s about change.',
-        'Mary Oliver',
-    ],
-    '5b208060-4134-5247-85df-3d74e603fd5e' => [
-        'I didn\'t work hard to sit down and not work.',
-        'Kevin Hart',
-    ],
-    '9c990ef7-5bb0-593b-98f8-0e86127c9e4f' => [
-        'Nothing succeeds like the appearance of success.',
-        'Christopher Lasch',
-    ],
-    '7a10658a-a9de-5fb3-9281-a03fa5f7f018' => [
-        'Develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.',
-        'Brian Tracy',
-    ],
-    'a245f512-cc33-5958-acbb-6f4346d5689d' => [
-        'I\'m working myself to death.',
-        'Alan Ladd',
-    ],
-    'a1b30da3-2397-5d7e-a52f-ed3dc3e2dab9' => [
-        'Honestly, it is not all about attitude; it is all about heart. You can have the attitude, you can have the swagger, you can talk your way, but it is all about heart.',
-        'Jason Pierre-Paul',
-    ],
-    '9ad22a79-88ac-5ddb-af1f-c28f731ff6af' => [
-        'There are cities that get by on their good looks, offer climate and scenery, views of mountains or oceans, rockbound or with palm trees. And there are cities like Detroit that have to work for a living.',
-        'Elmore Leonard',
-    ],
-    'a3e3a51b-cea1-5e50-a98e-55a79f608d91' => [
-        'Life is short, so I\'m knowing exactly where I\'m putting my time. I don\'t want to do things that I don\'t have to do.',
-        'Mira Nair',
-    ],
-    '94296ecb-6660-5a92-8a76-623ec17b1a0d' => [
-        'My wife, a schoolteacher, very disciplined. If you think I\'m tough, trust me, and wait till you see when the children are on the naughty step. It\'s hilarious. So we decided that I\'m going to work like a donkey and provide amazing support for the family.',
-        'Gordon Ramsay',
-    ],
-    '5e8e3474-9d99-5e4d-8bc7-664500934e31' => [
-        'Although as a sailor I despised politics - for I loved my sailor\'s life and still love it today - conditions forced me to take up a definite attitude towards political problems.',
-        'Fritz Sauckel',
-    ],
-    'b5797387-4bf3-5edc-b5cd-2c6c95d42aea' => [
-        'You only lose what you cling to.',
-        'Buddha',
-    ],
-    'bb746f6c-e810-5f95-8c33-98f93604a60c' => [
-        'We know the seductive alchemy of art. To transform private anguish into a narrative of truth, if not beauty; to make sense where there was none; to bring order out of chaos - these are the promises art makes.',
-        'Kathryn Harrison',
-    ],
-    '7607c145-aa27-590e-a599-3ca15a52724b' => [
-        'Sometimes I think we\'re alone in the universe, and sometimes I think we\'re not. In either case the idea is quite staggering.',
-        'Arthur C. Clarke',
-    ],
-    '7d9e866d-9459-51e3-bbf8-dce4acea5566' => [
-        'If I weren\'t performing, I\'d be a beauty editor or a therapist. I love creativity, but I also love to help others. My mother was a hairstylist, and they listen to everyone\'s problems - like a beauty therapist!',
-        'Beyonce Knowles',
-    ],
-    '6ee9585b-f270-55a3-b8f6-b82adf0e3a87' => [
-        'The surface of American society is covered with a layer of democratic paint, but from time to time one can see the old aristocratic colours breaking through.',
-        'Alexis de Tocqueville',
-    ],
-    '6ca96861-f48a-54ec-8309-0b7b81dc89cb' => [
-        'I don\'t have friends, and it\'s hard for me to make new friends. Right now, the people that are in my life are the people that I work with.',
-        'Questlove',
-    ],
-    '9e18dda0-ec7f-5906-9d08-2acf32edc35d' => [
-        'Only an artist can interpret the meaning of life.',
-        'Pat Conroy',
-    ],
-    '1c769a4b-bf43-568b-a25d-9f6ae2d84446' => [
-        'Don\'t allow your wounds to turn you into a person you are not.',
-        'Paulo Coelho',
-    ],
-    'f6d4ce81-12fb-5f37-a00c-1db0cc73a5c4' => [
-        'The funny thing about having all this so-called success is that behind it is a certain horrible emptiness.',
-        'Sam Shepard',
-    ],
-    '3770dc08-a1dd-5462-a5b7-ed5613734392' => [
-        'Most of the shadows of life are caused by standing in our own sunshine.',
+    'cf18adf3-3056-5c09-81ff-3c6871365355' => [
+        'What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.',
         'Ralph Waldo Emerson',
+    ],
+    '6c765528-ed1d-522e-be02-8018a712dc76' => [
+        'The art of progress is to preserve order amid change, and to preserve change amid order.',
+        'Alfred Whitehead',
+    ],
+    '2cf811cc-ee41-53b7-a538-73495c8d3fb9' => [
+        'I\'m a greater believer in luck, and I find the harder I work the more I have of it.',
+        'Thomas Jefferson',
+    ],
+    '24e2f3a6-edda-56fe-87fd-1100299ce19e' => [
+        'A smart manager will establish a culture of gratitude. Expand the appreciative attitude to suppliers, vendors, delivery people, and of course, customers.',
+        'Harvey Mackay',
+    ],
+    'c5e156d9-e00d-527d-9dbf-cca04a3dd67f' => [
+        'I don\'t want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well.',
+        'Diane Ackerman',
+    ],
+    'bbdb719b-7988-5ec5-92a9-8b3306260d32' => [
+        'When you begin to touch your heart or let your heart be touched, you begin to discover that it\'s bottomless.',
+        'Pema Chodron',
+    ],
+    'a04e4789-6c7c-53ab-8c64-385d94fe6299' => [
+        'The success of the suffrage movement would injure women spiritually and intellectually, for they would be assuming a burden though they knew themselves unable to bear it. It is the sediment, not the wave, of a sex. It is the antithesis of that highest and sweetest mystery - conviction by submission, and conquest by sacrifice.',
+        'John Boyle O\'Reilly',
+    ],
+    'c13763ef-a9ba-5c6e-8bfe-20cfc6b39a83' => [
+        'If you come to a fork in the road, take it.',
+        'Unknown',
+    ],
+    'e3a449cc-1cc5-5b21-be92-ccc9c86847a3' => [
+        'To know nothing is the happiest life.',
+        'Oksana Baiul',
+    ],
+    'fe36a525-0e66-5e0d-a2de-16f11219048a' => [
+        'Growing up, in church we had the homily; at home it\'s what I call the \'momily\' - the inspirational and instructive mom-isms that every family has.',
+        'Christine Pelosi',
+    ],
+    '26ec9ef5-9369-561e-a05a-92d3ff9c02da' => [
+        'Because of my capacity for listening to strangers\' tales, or the details of their lives, my patience with their food and their crotchets, my curiosity that borders on nosiness, I am told that anyone traveling with me experiences an unbelievable tedium, and this is why I choose to travel alone.',
+        'Paul Theroux',
+    ],
+    '98fa2fe7-a1f4-539f-91e7-682d5fe0cbdf' => [
+        'Our environment, the world in which we live and work, is a mirror of our attitudes and expectations.',
+        'Earl Nightingale',
+    ],
+    '9fc6e116-0903-5c61-81e4-44ffdcdef8fe' => [
+        'We are more than just flesh and bones. There\'s a certain spiritual nature and something of the mind that we can\'t measure. We can\'t find it. With all our sophisticated equipment, we cannot monitor or define it, and yet it\'s there.',
+        'Ben Carson',
+    ],
+    'd3bf413b-1475-597c-8e3d-a9304cf33ee7' => [
+        'No other game combines the wonder of nature with the discipline of sport in such carefully planned ways. A great golf course both frees and challenges a golfer\'s mind.',
+        'Tom Watson',
+    ],
+    'e90b52a6-ce82-5d97-bc15-29f009e295bb' => [
+        'My family got all over me because they said Bush is only for the rich people. Then I reminded them, \'Hey, I\'m rich\'.',
+        'Charles Barkley',
+    ],
+    'a2ead9ee-4a75-5803-b3aa-ec183aeaa81e' => [
+        'Part of doing good work is caring deeply about it, believing in what you\'re doing, and getting incredibly attached to the characters that you\'re playing, the stories you\'re telling, and the people you\'re working with.',
+        'Ari Graynor',
+    ],
+    '916b310c-a8af-5077-953f-ac6f32967a2c' => [
+        'External nature is only internal nature writ large.',
+        'Swami Vivekananda',
+    ],
+    'd5516feb-011c-5641-a57c-f97212b202a3' => [
+        'Things turn out best for those who make the best of the way things turn out.',
+        'Jack Buck',
+    ],
+    '4215b3d6-be89-5c74-a061-537c058c545d' => [
+        'Life is strong and fragile. It\'s a paradox... It\'s both things, like quantum physics: It\'s a particle and a wave at the same time. It all exists all together.',
+        'Joan Jett',
+    ],
+    'd94cb03f-42ba-5cb4-9354-d7bb4680af26' => [
+        'Stars, of course, are too hot to support life, so wherever life might exist in the universe, it has to be on planets or moons that are warmed, but not incinerated, by the stars they travel around.',
+        'Thomas Mallon',
+    ],
+    'd85ccff1-df20-5640-829b-07c86d2d3cf9' => [
+        'But the beauty of Einstein\'s equations, for example, is just as real to anyone who\'s experienced it as the beauty of music. We\'ve learned in the 20th century that the equations that work have inner harmony.',
+        'Edward Witten',
+    ],
+    '92f1d944-4105-5b13-b4a2-83d0df638008' => [
+        'Beauty and fashion are not really local anymore. You really have to be a global citizen to know what trends are. Now, it\'s pretty much the same designers and the same kind of trends, whether I am in New York, Milan, or Mumbai - it\'s the same.',
+        'Priyanka Chopra',
+    ],
+    '1fb2c733-bd3d-5d78-ab62-6e0197682dea' => [
+        'Children are the anchors that hold a mother to life.',
+        'Jerry West',
+    ],
+    'a452d040-ab32-59d8-992f-72fe2b368a97' => [
+        'If dysfunction means that a family doesn\'t work, then every family ambles into some arena in which that happens, where relationships get strained or even break down entirely. We fail each other or disappoint each other. That goes for parents, siblings, kids, marriage partners - the whole enchilada.',
+        'Mary Karr',
+    ],
+    'b867d875-5eb3-5f28-914b-5d768828bf45' => [
+        'There are people who have money and people who are rich.',
+        'Coco Chanel',
+    ],
+    '784f2589-f440-51bb-a664-b44c7ed148b9' => [
+        'The history of science shows that theories are perishable. With every new truth that is revealed we get a better understanding of Nature and our conceptions and views are modified.',
+        'Nikola Tesla',
+    ],
+    '16339299-b20a-5420-b7e1-26a65f42c2db' => [
+        'The man on top of the mountain didn\'t fall there.',
+        'Vince Lombardi',
+    ],
+    '0d2839eb-4d71-5c58-84d9-8d1761e4ddf4' => [
+        'I am my own muse, the subject I know best.',
+        'Frida Kahlo',
+    ],
+    'e76290c1-3290-5d52-b9d6-c7a182f84d5c' => [
+        'In our town, Halloween was terrifying and thrilling, and there was a whiff of homicide. We\'d travel by foot in the dark for miles, collecting candy, watching out for adults who seemed too eager to give us treats.',
+        'Rosecrans Baldwin',
+    ],
+    'debc9e61-106f-5422-9d0a-35be74b46e52' => [
+        'If I can lead a happy life, touch the lives of others in a positive way, win the respect of those that I care about - and make a few million along the way - then I have been successful.',
+        'Bill Rancic',
+    ],
+    'a2f91496-32a4-5485-8a2d-5e940fb674e1' => [
+        'There was always a feeling for me that it would work. That\'s what keeps me going. You go in with a positive attitude and stay there, and that\'s a big part of what does make it work.',
+        'Shelley Long',
+    ],
+    'a5523682-186d-59b4-bb69-0618b092bad3' => [
+        'In the late \'70s, maybe just before I started, there was still an attitude that if you did film you didn\'t do TV and vice versa, but that\'s gone now.',
+        'Robert Carlyle',
+    ],
+    'c3d0d7eb-9125-5218-8850-fb8943b2c56b' => [
+        'I feel an important part of beauty is not only what you do on the outside but also what you put into the inside. Good fresh food with many vegetables along with love and caring for others. I spend way more time serving others than I do on my beauty routine daily.',
+        'Kim Alexis',
+    ],
+    'c33fbaee-ff4f-52da-90e4-4f038f24ae1d' => [
+        'When I grew up here, there was no T-Hub. Probably, the closest to T was the Tank bund.',
+        'Satya Nadella',
+    ],
+    '35c32d5e-ab6a-5c47-bc2c-5e1e7725d441' => [
+        'Breathing in, I am aware of my heart. Breathing out, I smile to my heart and know that my heart still functions normally. I feel grateful for my heart.',
+        'Nhat Hanh',
+    ],
+    'a179702c-3219-5269-9ec3-277a9fe839fe' => [
+        'Beauty, more than bitterness, makes the heart break.',
+        'Sara Teasdale',
+    ],
+    '67d2e5a2-78c5-5bc6-93e5-fd633eaf2fe5' => [
+        'Success is the progressive realization of predetermined, worthwhile, personal goals.',
+        'Paul J. Meyer',
+    ],
+    'fc1cc60e-fccc-59e2-867c-61187dd084c3' => [
+        'It is boorish to live ungraciously: the giving is the hardest part; what does it cost to add a smile?',
+        'Jean de la Bruyere',
     ],
 ];

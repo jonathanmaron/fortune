@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'a90f2312-7523-5d95-994b-494f2c7e238a' => [
-        'Be miserable. Or motivate yourself. Whatever has to be done, it\'s always your choice.',
-        'Wayne Dyer',
+    '3d9a523e-f7e2-5a1c-8cde-3a2029f29457' => [
+        'It\'s great to be somewhat of a role model. I want to be a positive and good role model and lead by example and try to do the best I can. Playing good golf definitely draws attention, but I want to have a good attitude on the course and do the right things.',
+        'Rickie Fowler',
     ],
-    'fd71ab9d-2155-508f-b763-70148de9b2d0' => [
-        'I just really think every job I do, I get this gypsy attitude to money.',
-        'Jessica Brown Findlay',
+    '8c82dfb2-2167-5141-a38f-4478d10d99ff' => [
+        'Well, you would have to say what is the criteria to determine the success of any merger? It would have to be that the companies are stronger financially, that they took market share, and they are on a very steady footing in terms of their performance.',
+        'Kevin Rollins',
     ],
-    '905f068a-4a6d-5578-b6e4-855a3ac073e8' => [
-        'When I was fourteen years old, our family drove all the way from Vancouver to Newfoundland and back. I\'ve been all across the great land of Canada. I absolutely love the Maritimes, and I\'m very excited to go back, particularly in the fall when it\'s one of the most beautiful places on Earth.',
-        'Aaron Douglas',
-    ],
-    '03dddd3d-a331-5f9c-9b15-ed888f8616c2' => [
-        'Don\'t aim for success if you want it; just do what you love and believe in, and it will come naturally.',
-        'David Frost',
-    ],
-    'ede37d81-9f3b-5305-be11-5b2e4ff6198c' => [
-        'Success in any endeavor depends on the degree to which it is an expression of your true self.',
-        'Ralph Marston',
-    ],
-    'fd61d165-6ce0-500d-8db9-e8d5dbefd131' => [
-        'I don\'t have a type looks-wise, but all my exes have been funny, open-minded and ambitious. I can\'t stand men with no passion in life.',
-        'Kathryn Prescott',
-    ],
-    '3610e15b-c411-5e46-9a98-15a0cd1211c0' => [
-        'Fidelity, Bravery, and Integrity set the expectations for behavior; they set a standard for our work. More than just a motto, for the men and women of the FBI, Fidelity, Bravery, and Integrity is a way of life.',
-        'Robert Mueller',
-    ],
-    '4a397241-420a-5145-884f-bf32ad34f07e' => [
-        'Every job has its downside. For example, being in a band; the travel part of it - getting picked up from your house in a car, going to the airport, getting on a plane, going from the airplane to a van, then going from the van to a hotel.',
-        'Dave Lombardo',
-    ],
-    'caa6d29e-c05a-5713-af5f-1bb15dcd99c7' => [
-        'There was a much more self-destructive nature in \'Appetite.\' It was a going-for-it-at-all-cost thing that worked then.',
-        'Axl Rose',
-    ],
-    '195c4e13-6c31-542a-97eb-d5c80fc89952' => [
-        'I\'m happiest with my family around me.',
-        'Amy Winehouse',
-    ],
-    'fef170e9-8dd2-567f-b184-7270959976db' => [
-        'The seventies is what I love. Soft, touchable beauty is what I love.',
-        'Tom Ford',
-    ],
-    '707c17e5-8004-55e0-b739-ef78ed21da12' => [
-        'I am a control freak, but not when I travel. For some reason when I travel, I am able to surrender more than in my real life. I am able to let go. I think it\'s why I like it so much.',
-        'Chelsea Cain',
-    ],
-    '8cdd31c3-2c7d-5f8f-ad1e-1cd3d11f223f' => [
-        'Human rights are not a privilege granted by the few, they are a liberty entitled to all, and human rights, by definition, include the rights of all humans, those in the dawn of life, the dusk of life, or the shadows of life.',
-        'Yoko Ono',
-    ],
-    'c98bba0f-ef81-52f0-bcb6-53811eaf00cd' => [
-        'The average Londoner knows just one neighbour. I travel a lot, and I\'m always surprised by the strong sense of community in some countries. We\'ve lost something fundamentally human, and we don\'t even realise it.',
-        'Lily Cole',
-    ],
-    '71123d11-ca73-56b6-8034-73315df693fd' => [
-        'We have not the time to take our time.',
-        'Eugene Ionesco',
-    ],
-    'fffc1839-9307-521b-a8e2-9e5b55ba4841' => [
-        'It is better to fail in originality than to succeed in imitation.',
-        'Herman Melville',
-    ],
-    '00c372dc-550e-5619-8f20-bda7b86ba6da' => [
-        'Success isn\'t about the end result, it\'s about what you learn along the way.',
-        'Vera Wang',
-    ],
-    '9f2a3a83-e632-5981-b979-c2255cf0bb09' => [
-        'That\'s your best friend and your worst enemy - your own brain.',
-        'Fred Durst',
-    ],
-    'd55f0114-bd24-50db-b15e-6661e3cb9b6e' => [
-        'I put instant coffee in a microwave oven and almost went back in time.',
-        'Steven Wright',
-    ],
-    'b3475f08-1cfa-5795-95a0-2593bc6b3827' => [
-        'War is just a racket. A racket is best described, I believe, as something that is not what it seems to the majority of people. Only a small inside group knows what it is about. It is conducted for the benefit of the very few at the expense of the masses.',
-        'Smedley Butler',
-    ],
-    'eeaf7cee-98f3-5bf2-9984-b55fbb246fda' => [
-        'Never allow a person to tell you no who doesn\'t have the power to say yes.',
-        'Eleanor Roosevelt',
-    ],
-    'de54f97c-fba2-5736-8e48-cc4bb8146b2a' => [
-        'I do not know which to prefer, The beauty of inflections, Or the beauty of innuendoes, The blackbird whistling, Or just after.',
-        'Wallace Stevens',
-    ],
-    '5ddf273c-28ad-521b-99f6-cc0a033cfe77' => [
-        'I spent a lot of time with a crown on my head.',
-        'Halle Berry',
-    ],
-    'f2acd897-c344-572e-8020-d321b0f35647' => [
-        'My attitude toward graduate students was different, I must say. I used graduate students as colleagues: I gave them the best problems to work on, and I encouraged them.',
-        'Frank Press',
-    ],
-    '53c2c52f-5425-53f3-9434-a8b915b36ddc' => [
-        'Successful people breed success.',
-        'Phil Crosby',
-    ],
-    '28344c6f-b729-5698-b849-c5bcbb9b5609' => [
-        'Learning is a treasure that will follow its owner everywhere',
-        'Chinese proverb',
-    ],
-    'f9eadfcf-75db-57e0-a38c-92514c9b6f84' => [
-        'I\'ll never stop dreaming that one day we can be a real family, together, all of us laughing and talking, loving and understanding, not looking at the past but only to the future.',
-        'LaToya Jackson',
-    ],
-    '65305448-0a69-5c88-9058-8a88cabac90c' => [
-        'One\'s family is the most important thing in life. I look at it this way: One of these days I\'ll be over in a hospital somewhere with four walls around me. And the only people who\'ll be with me will be my family.',
-        'Robert Byrd',
-    ],
-    'afc7dee8-cd85-58ca-a62f-5957c8c8f8e5' => [
-        'I don\'t want to be married to someone who feels inferior to my success or because I make more money than he does.',
-        'Grace Kelly',
-    ],
-    '2153c284-8f33-5363-b5cf-9640be080cd2' => [
-        'Deserve your dream.',
-        'Octavio Paz',
-    ],
-    'd21e5c24-13a5-5537-8d3e-88e98f92fb90' => [
-        'The possibility of a scientific treatment of history means a wider experience, a greater maturity of practical reason, and finally a fuller realization of certain basic ideas regarding the nature of life and time.',
+    '65e86b46-b9c4-5ba0-844c-0668ebf343b6' => [
+        'Who will tell whether one happy moment of love or the joy of breathing or walking on a bright morning and smelling the fresh air, is not worth all the suffering and effort which life implies.',
         'Muhammad Iqbal',
     ],
-    '864b6115-4060-5875-8f4f-67150c36d19d' => [
-        'I love what I do, and when you love what you do, you want to be the best at it.',
-        'Jay-Z',
+    '37f015dc-ff0a-53e3-8a0c-5bc5366f535b' => [
+        'Old age is like everything else. To make a success of it, you\'ve got to start young.',
+        'Theodore Roosevelt',
     ],
-    'fddcffc5-3c80-5974-8aaf-f6ed04d266f2' => [
-        'At the age of 18, I made up my mind to never have another bad day in my life. I dove into a endless sea of gratitude from which I\'ve never emerged.',
-        'Patch Adams',
+    '03763430-bbce-5d3f-9315-40d611099cd1' => [
+        'You can get too close as a team. You need time away from each other. You change in the same dressing room, you play on the same cricket field, you stay in the same hotel, you travel in the same planes and buses. C\'mon - this business of everyone holding hands and being pally is nonsense.',
+        'Glenn Turner',
     ],
-    'ca9c550f-59c5-5aa9-9a48-5016bd33c156' => [
-        'Today, I think the attitude is that governing is not necessarily good politics, and the result is that it\'s much more partisan and much more divided.',
-        'Leon Panetta',
+    'fdc148ba-4edd-55f4-99f8-61efefeb9efc' => [
+        'Life is like a sewer. What you get out of it depends on what you put into it.',
+        'Tom Lehrer',
     ],
-    '663e0cf5-ca00-539f-b8d9-a7c7b7e59469' => [
-        'Life is change. Growth is optional. Choose wisely.',
-        'Karen Clark',
+    '9a03f183-ecbe-591a-ad35-0c775381ada0' => [
+        'It was the labor movement that helped secure so much of what we take for granted today. The 40-hour work week, the minimum wage, family leave, health insurance, Social Security, Medicare, retirement plans. The cornerstones of the middle-class security all bear the union label.',
+        'Barack Obama',
     ],
-    '56bb763c-058b-5449-9aa4-60cbb9f9f5f5' => [
-        'Age is something that doesn\'t matter, unless you are a cheese.',
-        'Luis Bunuel',
+    '75bf9506-4309-51f5-b895-bcc83f1786f5' => [
+        'To give pain is the tyranny; to make happy, the true empire of beauty.',
+        'Samuel Butler',
     ],
-    '9246e7a7-511a-5af5-9cc4-05444596f2b3' => [
-        'Understanding the laws of nature does not mean that we are immune to their operations.',
-        'David Gerrold',
+    '81c23aca-5d2f-5086-ad61-4093308e58d6' => [
+        'Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.',
+        'Albert Schweitzer',
+    ],
+    '628f15c1-53e2-52f5-a334-5197f459e775' => [
+        'The only thing you have to have is patience and an attitude that you aren\'t ever going to give up.',
+        'Shawn Michaels',
+    ],
+    'ef26e4cf-0aa0-505e-b064-d54c9ab7d87b' => [
+        'I\'m just working and having a good time and seeing what develops, which is so awesome, because you don\'t know what\'s going to happen, and I\'m letting myself do that a lot more than I ever have.',
+        'Kathleen Hanna',
+    ],
+    '80d33b2c-e042-58db-8ae4-31e6806b4d29' => [
+        'Life\'s blows cannot break a person whose spirit is warmed by the fire of enthusiasm.',
+        'Norman Vincent Peale',
+    ],
+    'ef27391f-9d85-5a88-8054-a9b233961981' => [
+        'Better to have loved and lost, than to have never loved at all.',
+        'St. Augustine',
+    ],
+    '86b99c97-b68a-54e4-b3a0-33854549b6fe' => [
+        'In the case of \'Ocean at the End of the Lane,\' it\'s a book about helplessness. It\'s a book about family, it\'s a book about being 7 in a world of people who are bigger than you, and more dangerous, and stepping into territory that you don\'t entirely understand.',
+        'Neil Gaiman',
+    ],
+    'a7d6e7cd-3799-5341-831e-17e382b2ecd0' => [
+        'What contemptible scoundrel has stolen the cork to my lunch?',
+        'W. Clement Stone',
+    ],
+    'd7ebe74d-027c-5eab-8d12-730aca865b3c' => [
+        'If we did all the things we are capable of, we would literally astound ourselves.',
+        'Thomas A. Edison',
+    ],
+    '82bb2d38-ba4b-5b32-8aa5-70d5bddc4b5b' => [
+        'Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.',
+        'Og Mandino',
+    ],
+    '69d8a758-b9a5-5ec7-9ae7-327d06f833a4' => [
+        'Hiding, secrets, and not being able to be yourself is one of the worst things ever for a person. It gives you low self-esteem. You never get to reach that peak in your life. You should always be able to be yourself and be proud of yourself.',
+        'Isabel Allende',
+    ],
+    '6729340c-f51e-5cb0-9598-d866c6dc8390' => [
+        'Beauty and folly are old companions.',
+        'Benjamin Franklin',
+    ],
+    '18d45b88-f2a6-5240-b0d6-cada6406e56c' => [
+        'Global health issues remind us - perhaps more than any other issue - that we are all children of the same extended family.',
+        'Kathleen Sebelius',
+    ],
+    '3e04cfa3-eb9b-54a7-9b26-a9302df8b668' => [
+        'There\'s something about the Pacific Northwest, the scale of it, and the fact that not so long ago people came here and died getting here, and then died the first winter they were here. There\'s this breathtaking beauty, just a little bit of moss on the tree, just this little thread of danger, and the sinister. And I really like that.',
+        'Chelsea Cain',
+    ],
+    '51f6fe6e-2c66-52da-aee0-5e3d8d91354b' => [
+        'You create your opportunities by asking for them.',
+        'Shakti Gawain',
+    ],
+    '2c28d908-121a-51f9-a95c-d0480606b792' => [
+        'The privilege I\'ve had as a curator is not just the discovery of new works... but what I\'ve discovered about myself and what I can offer in the space of an exhibition - to talk about beauty, to talk about power, to talk about ourselves, and to talk and speak to each other.',
+        'Thelma Golden',
+    ],
+    'd032f8da-ccd4-5ceb-8bba-a7b8a3a2dc63' => [
+        'I may sometimes be willing to teach for nothing, but if paid at all, I shall never do a man\'s work for less than a man\'s pay.',
+        'Clara Barton',
+    ],
+    '432d01a4-1ae2-5d9e-a3af-7d9e9ea4ec61' => [
+        'I look back on my life like a good day\'s work, it was done and I am satisfied with it.',
+        'Taylor Swift',
     ],
     'b4e54c1c-f3a6-505f-ad16-b64f409e0048' => [
         'Staying in one place is the best path to be taken over and surpassed by many.',
         'Byron Pulsifer',
     ],
-    'a8d1eba4-2fa9-57a1-82da-86f0328662d1' => [
-        'Communication - the human connection - is the key to personal and career success.',
-        'Paul J. Meyer',
+    'e6739835-d5cf-5974-91cc-937ee803e8ff' => [
+        'In order to be irreplaceable one must always be different.',
+        'Coco Chanel',
     ],
-    '324895da-7eba-5fb3-ace9-6d88bd355120' => [
-        'Personality is the most important thing to an actress\'s success.',
-        'Mae West',
+    '2e351701-ef9e-5b7f-9ab2-8bb33da73f32' => [
+        'Giving up doesn\'t always mean you are weak. Sometimes it means that you are strong enough to let go.',
+        'Unknown',
     ],
-    '04d9f31a-b859-5738-8509-ddc52dfc4eb0' => [
-        'Lee\'s great gifts are teaching and inspirational guidance, not administration and management.',
-        'Cheryl Crawford',
+    'ba942f1c-9744-55c8-b7ba-782a3bfda06a' => [
+        'Don\'t be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.',
+        'Richard Bach',
     ],
-    '35aeffc0-70c5-5344-b3c9-ce480cab9773' => [
-        'Having a child makes you strong and gives you chutzpah. It relaxed my attitude to the job; my center of focus shifted, which I think is very helpful, because even if you\'re not a very indulgent actor you spend a lot of time thinking about yourself. I don\'t think that is particularly healthy.',
-        'Imelda Staunton',
+    'c3dea885-fa4e-50d9-8b0e-727b557c4bb8' => [
+        'Vampires are so old that they don\'t need to impress anyone anymore. They\'re comfortable in their own skin. It\'s this enigmatic strength that\'s very romantic and old-fashioned. I think it goes back to something of a Victorian attitude of finding a strong man who\'s going to look after his woman.',
+        'Stephen Moyer',
     ],
-    '44866151-3e43-5e86-8a52-8c8a3ae4e566' => [
-        'I think it\'s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.',
-        'Leonard Nimoy',
+    '617a8f41-4c82-5994-993e-6321aa2c0b58' => [
+        'Nature abhors annihilation.',
+        'Marcus Tullius Cicero',
     ],
-    '53dd3949-9287-5e7b-b1eb-593fed66772f' => [
-        'It\'s so simple to be wise. Just think of something stupid to say and then don\'t say it.',
-        'Sam Levenson',
+    'd41f6cc4-f16b-5056-9b4e-b60645473426' => [
+        'We are all full of weakness and errors; let us mutually pardon each other our follies - it is the first law of nature.',
+        'Voltaire',
     ],
-    '26d6ff86-ae58-50a0-8535-d62f96e1eb6b' => [
-        'Real magic in relationships means an absence of judgement of others.',
-        'Wayne Dyer',
+    'c7136fa4-a630-50f4-92ee-c7e92728253a' => [
+        'No one can arrive from being talented alone, work transforms talent into genius.',
+        'Anna Pavlova',
     ],
-    '9f34bc6c-8718-5022-9b0d-2bb72ba9db97' => [
-        'We are constantly emphasizing to people that they need to address anything that affects flight safety or mission success - many pathways to do that. We need to understand better what may be preventing people from using those pathways.',
-        'Ellen Ochoa',
+    '04d35400-6e15-555c-9663-5e6886225a88' => [
+        'In the central place of every heart, there is a recording chamber; so long as it receives messages of beauty, hope, cheer and courage, you are young.',
+        'Samuel Ullman',
     ],
-    '4e5284d5-7a27-59aa-a436-eb5f9a3b8d36' => [
-        'Family is a unique gift that needs to be appreciated and treasured, even when they\'re driving you crazy. As much as they make you mad, interrupt you, annoy you, curse at you, try to control you, these are the people who know you the best and who love you.',
+    '94c417b5-a78f-5327-b4fd-be0a1a854f2d' => [
+        'A short saying oft contains much wisdom.',
+        'Sophocles',
+    ],
+    'a9017133-9d41-5631-9a1a-7be6c1cbd73f' => [
+        'I\'ve covered a lot of ground geographically and emotionally and for years I lost my connection with my family. But the best comfort you can have, whether you are on the phone or sitting there in the living room with them, is with your parents, and to me family has always meant protection. When you smile you get a smile back, unconditionally.',
+        'Brigitte Nielsen',
+    ],
+    'b8323140-4465-5e93-a184-8fa38714cd60' => [
+        'When my mother was diagnosed with cancer, my middle school friends and myself really had no idea the impact of that diagnosis, but my family did.',
         'Jenna Morasca',
     ],
-    'c1092583-55bc-596f-88ee-4aa353fd9af8' => [
-        'If you wish to make an apple pie from scratch, you must first invent the universe.',
-        'Carl Sagan',
+    '1e9013b9-f7ee-562d-b32c-ba980839dc9a' => [
+        'I\'ve never seen anyone more messed up over success than Richard Pryor. For him, it\'s a constant battle between success in the white world and keeping it real for his black self.',
+        'Paul Mooney',
     ],
-    'b9e2a1af-e374-5c64-b438-55583eef607a' => [
-        'We live in a beauty-obsessed age and success sometimes appears to hinge solely on the presentation of an image that is acceptable to the press.',
-        'Douglas Booth',
+    'cdcabc80-c919-57da-8970-0d9d53867ce7' => [
+        'It\'s fun to have a partner who understands your life and lets you be you.',
+        'Ann Landers',
     ],
-    '1c64a5bf-c39a-5f9a-a598-7c3f3b6b9730' => [
-        'Either move or be moved.',
-        'Ezra Pound',
+    'bc037bb2-bdb3-5388-bab9-1d8967ce0f12' => [
+        'If you ask me what I came into this life to do, I will tell you: I came to live out loud.',
+        'Emile Zola',
+    ],
+    '911c68a7-20de-5e70-bbe3-c2c7c7edadf7' => [
+        'Always keep that happy attitude. Pretend that you are holding a beautiful fragrant bouquet.',
+        'Earl Nightingale',
+    ],
+    'a6536dff-7ed0-559f-aed3-462ef4074eee' => [
+        'My family is more important than my party.',
+        'Zell Miller',
+    ],
+    '190bb5a2-f79b-5a9e-ac4d-bd3793dd99f6' => [
+        'I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.',
+        'Bernard Shaw',
+    ],
+    '88c03197-2f8b-5385-91c0-746d7e8c2117' => [
+        'I think every girl needs to love herself, regardless of anything. Like if you\'re having a bad day, if you don\'t like your hair, if you don\'t have the best family situation, whatever, you have to love yourself and you can\'t do anything until you love yourself first.',
+        'Julianne Hough',
+    ],
+    'f6b5b94c-a2e0-5571-88da-814e70cbf726' => [
+        '\'The Fault in Our Stars\' is a beautiful film that\'s really positive. The second half gets sad, but it\'s always positive.',
+        'Ansel Elgort',
+    ],
+    'fbffbec6-0301-5c5c-8f0e-c404555f75af' => [
+        'The best form of government is that which is most likely to prevent the greatest sum of evil.',
+        'James Monroe',
+    ],
+    'e13c258c-25c6-54b3-9770-cc9133870db3' => [
+        'Almost no one is foolish enough to imagine that he automatically deserves great success in any field of activity; yet almost everyone believes that he automatically deserves success in marriage.',
+        'Sydney J. Harris',
+    ],
+    '90bbdb29-7fed-5a14-84d1-027a640a306b' => [
+        'If you don\'t know where you are going, you will probably end up somewhere else.',
+        'Lawrence Peter',
+    ],
+    '7fdc7bd8-ca68-5d7a-9532-e8b15528d427' => [
+        'Porsche is a driver\'s car - a performance car. That was funny - here\'s this awesome car, but it\'s got no cup holders.',
+        'Jason McCoy',
+    ],
+    'e1630333-0471-55dd-9bb5-14cb3ea95747' => [
+        'I am fascinated by what is beautiful, strong, healthy, what is living. I seek harmony.',
+        'Leni Riefenstahl',
     ],
 ];

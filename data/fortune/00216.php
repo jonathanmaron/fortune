@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '2d6a5358-5291-5edc-be87-406eb08b44da' => [
-        'To conceal anything from those to whom I am attached, is not in my nature. I can never close my lips where I have opened my heart.',
-        'Charles Dickens',
+    '04b19b7c-9f17-51f4-ba3b-f0e49ab85689' => [
+        'He who conquers others is strong, he who conquers himself is mighty.',
+        'Lao Tsu',
     ],
-    '3b695791-e8ad-5147-8d78-ae188864ffda' => [
-        'I was successful materially, but I know life is much more than worldly success. I saw all these blessings God had given me. The way to give thanks is obedience to God.',
-        'Hakeem Olajuwon',
+    'e6505e11-55c7-50dd-b060-8a463a45409c' => [
+        'It takes discipline not to let social media steal your time.',
+        'Alexis Ohanian',
     ],
-    '09d6cfbd-a46a-51ac-8696-d89913782afc' => [
-        'I don\'t look at negative comments because my parents and family don\'t let me. My big sister controls my Instagram, and my big brother controls my Twitter. I also don\'t really Google myself or anything like that.',
-        'Millie Bobby Brown',
+    '5bc4d178-69ba-53a1-b50c-63f09015d3ca' => [
+        'Obstacles are those things you see when you take your eyes off the goal.',
+        'Hannah More',
     ],
-    '807aa2f7-9b95-56f4-966a-1589c3867ee0' => [
-        'What moves those of genius, what inspires their work is not new ideas, but their obsession with the idea that what has already been said is still not enough.',
-        'Eugene Delacroix',
+    'a22e7ab1-9d80-5ffe-829f-e33be6a2b9c3' => [
+        'I love the way Tyra Banks dresses up - she looks so elegant and glamorous in whatever she wears. The confidence and attitude she exudes on and off the ramp is remarkable.',
+        'Yami Gautam',
     ],
-    '884c5d49-0796-56dd-a2d7-2d8372c1c8d1' => [
-        'Every success story has a parent who says, \'over my dead body.\' Every success story has an old person who walks up to you and says, when you\'re acting the fool, \'you know I worry about you sometimes.\'',
-        'Bill Cosby',
+    'b51d92ae-4a45-5269-871c-eb150654556a' => [
+        'He who controls others may be powerful, but he who has mastered himself is mightier still.',
+        'Lao Tzu',
     ],
-    '42dcb7de-7f9e-503e-b097-9d2eb98cab97' => [
-        'It really is impossible not to like him. His success was his failure.',
-        'Arthur C. Danto',
+    '42062fda-eb99-528f-8b6e-fec413ea8f49' => [
+        'The problem was just a mean attitude that festers and has to be challenged.',
+        'Major Owens',
     ],
-    '24fb82fb-ebf7-5aa1-9581-ba9ddbcb540a' => [
-        'This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.',
-        'Thomas Carlyle',
+    '090a4394-5af7-5ac9-bd57-67305fdf286e' => [
+        'The past has no power to stop you from being present now. Only your grievance about the past can do that.',
+        'Eckhart Tolle',
     ],
-    '2c8b2723-c549-5ebd-979a-7e6f7efafbd1' => [
-        'A poet ought not to pick nature\'s pocket. Let him borrow, and so borrow as to repay by the very act of borrowing. Examine nature accurately, but write from recollection, and trust more to the imagination than the memory.',
-        'Samuel Taylor Coleridge',
+    '3f671468-85d4-5b6a-a4a6-1e91c5bbae36' => [
+        'Could I say that the reason that I am here today, you know, from the mouth of the State Department itself, is: I should not be allowed to travel because I have struggled for years for the independence of the colonial peoples of Africa.',
+        'Paul Robeson',
     ],
-    '3116a02a-6788-5abf-9529-8eac719ad436' => [
-        'I love getting dressed up in a suit because I don\'t do it all the time.',
-        'Jason Statham',
+    '6dcbcf21-7203-51ca-b216-576e8c6d2558' => [
+        'If you\'ll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.',
+        'Vince Lombardi',
     ],
-    '7b9c8daf-d6e2-500f-8e7a-38b93534b952' => [
-        'I have undertaken vengeance. I want Liberty and Equality to reign in Saint-Domingue. I work to bring them into existence. Unite yourselves to us, brothers, and fight with us for the same cause.',
-        'Toussaint Louverture',
+    '1a0fe28a-3c41-5878-af65-086015468373' => [
+        'As Americans, we have traditionally been the optimists sporting the \'can-do\' attitude. But when it comes to addressing climate adaptation and resiliency, we seem to be more \'can\'t do\' than \'can-do.\'',
+        'Paul Tonko',
     ],
-    '0d7b0f80-4cec-5ce9-a8e4-62d272dc8317' => [
-        'The spring, summer, is quite a hectic time for people in their lives, but then it comes to autumn, and to winter, and you can\'t but help think back to the year that was, and then hopefully looking forward to the year that is approaching.',
-        'Enya',
+    'a14d74a5-e812-5352-9284-54e5d609461a' => [
+        'People might not get all they work for in this world, but they must certainly work for all they get.',
+        'Frederick Douglass',
     ],
-    '0dd4c7f3-2818-540b-b298-941e14f4dbc8' => [
-        'The most daring thing is to be yourself and to do exactly what you want to do at that point in time and not to be worried with what other people are doing or what\'s popular.',
-        'Wiz Khalifa',
+    'f070fd71-23bd-5e70-b31e-7fbc19de66f9' => [
+        'There are lots of people who mistake their imagination for their memory.',
+        'Josh Billings',
     ],
-    '08eb4799-8cc8-54db-b53d-2cc0df8cd864' => [
-        'You leave home to seek your fortune and, when you get it, you go home and share it with your family.',
-        'Anita Baker',
+    'd48e0992-c8aa-55ab-a5cf-edde9a8279c1' => [
+        'The moon is at her full, and riding high, Floods the calm fields with light. The airs that hover in the summer sky Are all asleep tonight.',
+        'William C. Bryant',
     ],
-    '4b1a0cc6-c1fd-5124-800a-71e29deb4a41' => [
-        'The lesson of travel seems to be so banal, but so great, which is that people are just so amazingly decent the world over. Given the disparity of income and wealth, it\'s amazing not just that you don\'t get robbed everywhere - it\'s amazing you don\'t get eaten.',
-        'Geoff Dyer',
+    '9902d2be-6974-53d4-8439-bf1324341a55' => [
+        'As my family story shows, Latinos have been a blessing for USA for many generations. The future of America depends in part on the success of the Latino community, and this opportunity is just one more signifier of that.',
+        'Julian Castro',
     ],
-    '8110202c-fbee-5abd-a81f-0fcf7ddf350d' => [
-        'All our work, our whole life is a matter of semantics, because words are the tools with which we work, the material out of which laws are made, out of which the Constitution was written. Everything depends on our understanding of them.',
-        'Felix Frankfurter',
+    '6a4522b0-aa76-55e8-baed-0b8ee3ec384e' => [
+        'Our passion is our strength.',
+        'Billie Armstrong',
     ],
-    'b8e3de63-49c3-52da-83fb-a39af29998d3' => [
-        'My grandmother, whom we call Biel, thinks it\'s very unbecoming of me not to smile for the paparazzi. So every time I see them, I think, \'Smile for Biel!\'',
-        'Jessica Biel',
+    'b3413924-dad0-59cf-b4d9-db88c056781f' => [
+        'What matters to me is that I do what I think is right and I see, I\'m a numbers guy, that\'s my attitude. I know we have a debt tsunami coming, we are bankrupting this country and I\'m in a position where I can actually advance ideas to prevent that from happening. That\'s exactly what I should be doing.',
+        'Paul Ryan',
     ],
-    'f8b31c38-1698-58de-9525-a93d127aba9a' => [
-        'I don\'t have much positive to say about motor neuron disease, but it taught me not to pity myself because others were worse off, and to get on with what I still could do. I\'m happier now than before I developed the condition.',
-        'Stephen Hawking',
+    '044f7af2-6c98-56a1-a8dd-8f0b2f6a5af4' => [
+        'We\'re a blue-collar band. That\'s how we like to think of ourselves. We come from humble beginnings and still have this attitude of really loving to meet people, shake their hands, and talk with them.',
+        'Rickey Medlocke',
     ],
-    '11157760-4c96-5bf8-a950-fd444e0e9d57' => [
-        'If the world\'s a veil of tears, Smile till rainbows span it.',
-        'Lucy Larcom',
+    '736c2bf9-1b4f-599e-9013-c00d4fa7752c' => [
+        'In seed time learn, in harvest teach, in winter enjoy.',
+        'William Blake',
     ],
-    '864a4640-6270-5809-9ddd-cdf7b02d102a' => [
-        'Life goes by fast. Enjoy it. Calm down. It\'s all funny. Next. Everyone gets so upset about the wrong things.',
-        'Joan Rivers',
+    '948022ac-1030-5a44-98fd-1d683483bd59' => [
+        'If there are no struggles, there is no progress.',
+        'Frederick Douglas',
     ],
-    '228226c0-d062-5395-a51b-8cd8ff5a04d3' => [
-        'I work hard, like I\'m sure everyone else does, and I\'m very honest with the work I do.',
-        'Shah Rukh Khan',
+    '772aabfc-65b0-5085-b8c1-52f69259b36a' => [
+        'Success isn\'t a result of spontaneous combustion. You must set yourself on fire.',
+        'Arnold H. Glasow',
     ],
-    '060dd9cb-0b8e-526c-aac6-7d8244c4c791' => [
-        'Perfectionism is not the same thing as striving to be our best. Perfectionism is not about healthy achievement and growth; it\'s a shield.',
-        'Brene Brown',
+    '62c06537-c753-5603-a7bb-e4566325b514' => [
+        'My definition of family is just unconditional love. The people who rely on you and who love you, they are there, too.',
+        'Will Arnett',
     ],
-    '25010fa9-d726-5eaa-ad28-6816f4914921' => [
-        'A satisfied customer is the best business strategy of all.',
-        'Michael LeBoeuf',
+    '59579d5f-c329-5bbb-8b75-50147b69ece1' => [
+        'There is one thing you have got to learn about our movement. Three people are better than no people.',
+        'Fannie Hamer',
     ],
-    'f6b91eeb-f381-53c3-a31c-ff93ce025ca8' => [
-        'The Western day is indeed nearing when the inner science of self-control will be found as necessary as the outer conquest of nature. This new Atomic Age will see men\'s minds sobered and broadened by the now scientifically indisputable truth that matter is in reality a concentrate of energy.',
-        'Paramahansa Yogananda',
+    'bec67bd2-7b3a-5ab6-8557-9fb03cd30ffc' => [
+        'But I think it is a serious issue to wonder about the other platonic absolutes of say beauty and morality.',
+        'Roger Penrose',
     ],
-    '4c95e6cd-25d1-5968-b3f1-b9a96efd6443' => [
-        'The best way to have a good idea is to have a lot of ideas.',
-        'Linus Pauling',
+    '1887d0bd-93d2-5f63-bd3c-89e80fb72f9e' => [
+        'Every dogma has its day.',
+        'Anthony Burgess',
     ],
-    '6b8a423f-475f-55ff-9726-c5c6e15e0582' => [
-        'Zest is the secret of all beauty. There is no beauty that is attractive without zest.',
-        'Christian Dior',
+    '7a4ee60a-d2a8-5ef6-84f8-e98e4a21eec9' => [
+        'My wife and I have so much fun when we travel and find anything... like stray cats and squirrels.',
+        'Eric Roberts',
     ],
-    'afb0b92d-01d5-5a26-8131-07e6e5173029' => [
-        'I kind of resent this attitude of men that we somehow must always look good.',
-        'Sharon Gless',
+    '08aad9f6-48cf-5af0-aa8c-4a6f594297d7' => [
+        'That\'s a funny thing, fame. People definitely do treat you differently. When you begin to be successful, people say, \'Don\'t go changing.\' Well, that\'s easy to say, but the fact is, you don\'t change at all - other people do.',
+        'Jonathan Rhys Meyers',
     ],
-    'f5cf8b87-311e-50cf-ad12-cd303c39951d' => [
-        'I want to work for a company that contributes to and is part of the community. I want something not just to invest in. I want something to believe in.',
-        'Anita Roddick',
+    '8a3b69cc-38e3-516f-8104-2a517ac6e303' => [
+        'The more defects a man may have, the older he is, the less lovable, the more resounding his success.',
+        'Marquis de Sade',
     ],
-    '5b90930e-42b8-582c-8a4d-e1390ab8e607' => [
-        'Sometimes people just want you to fail. Except your really good friends. I\'ve always known who my best friends were.',
-        'Kato Kaelin',
+    '35bcbd76-cc9b-5a1d-aaae-3d1784846cab' => [
+        'I never did anything by accident, nor did any of my inventions come by accident; they came by work.',
+        'Thomas A. Edison',
     ],
-    'cd282e2c-0171-51e1-b39c-b959dda30457' => [
-        'The harder the conflict, the more glorious the triumph.',
-        'Thomas Paine',
+    '10fb0190-a5a3-53d4-abf4-2753aeb98e13' => [
+        'I believe in luck: how else can you explain the success of those you dislike?',
+        'Jean Cocteau',
     ],
-    'de642c62-0832-5ae0-b419-b3208abe4d6f' => [
-        'I enjoy the process of composing music. The first time I hear a song, it has to bring a smile to my lips. You have to tap your feet and be able to sing the song.',
-        'Salman Khan',
+    '504a94d9-dba3-537f-8502-580d7e1f3cf8' => [
+        'Progress might have been alright once, but it has gone on too long.',
+        'Ogden Nash',
     ],
-    'f43e616f-5292-575c-9c6f-6868f9e7b61c' => [
-        'Every one has her own love life. Every one has a dream to get a perfect life partner. But this is not so easy in real life. In fact, one doesn\'t love; it happens.',
-        'Ariana Grande',
+    'b2d66e38-35fa-5b83-89ec-a3063e383c2b' => [
+        'Happiness is not something ready made. It comes from your own actions.',
+        'Dalai Lama',
     ],
-    '26f15243-4207-5c6b-966a-751958d8304b' => [
-        'My sister and I truly are best friends.',
-        'Solange Knowles',
+    'e5cbc001-c174-5aee-806c-f61c6dccab5d' => [
+        'It\'s a good thing that beauty is only skin deep, or I\'d be rotten to the core.',
+        'Phyllis Diller',
     ],
-    '731bef58-2ff3-5123-8307-22be4a6b190b' => [
-        'How many thorns of human nature are bristling conceits, buds of promise grown sharp for want of congenial climate.',
-        'John Burroughs',
+    'a2470bdd-f684-5579-8f0d-075a5cd081f1' => [
+        'Journalism is what we need to make democracy work.',
+        'Walter Cronkite',
     ],
-    'e981eca7-77ec-5dcf-a5b3-e95363f67e69' => [
-        'The ability to remain calm and focused in stressful situations is central to making positive decisions.',
-        'Goldie Hawn',
+    'db252ee8-dd89-5357-a741-ba343dbdb297' => [
+        'Knowing your own darkness is the best method for dealing with the darknesses of other people.',
+        'Carl Jung',
     ],
-    '274c2b05-8d3e-5284-8a29-a91ed8a10f9f' => [
-        'Let your hook always be cast; in the pool where you least expect it, there will be a fish.',
-        'Ovid',
+    '55383b16-b49a-59c0-a6c3-ce54c7cfd4c3' => [
+        'God loves to help him who strives to help himself.',
+        'Aeschylus',
     ],
-    '390f8520-29f3-5f6b-90e6-6a6364354a40' => [
-        'To cherish what remains of the Earth and to foster its renewal is our only legitimate hope of survival.',
-        'Wendell Berry',
+    '131e7b14-74ba-5754-bebb-a3be838d98cf' => [
+        'I hate the idea of success robbing you of your private life.',
+        'Paul McCartney',
     ],
-    'd9f2d581-a643-56f6-b3c0-8bedc2f13769' => [
-        'Time goes, you say? Ah, no! alas, time stays, we go.',
-        'Henry Austin Dobson',
+    'd99c60b3-84b2-5aca-b7ae-637a5ef322ad' => [
+        'My cheeks explode when I smile. That\'s why I have to look so nonplussed.',
+        'Rufus Wainwright',
     ],
-    '9fec8d90-6007-53ae-b99a-13234ecce2dd' => [
-        'To give and then not feel that one has given is the very best of all ways of giving.',
-        'Max Beerbohm',
+    'e43394e1-37e4-5cb5-850b-de81da6ce1a3' => [
+        'At the time I was arrested I had no idea it would turn into this. It was just a day like any other day. The only thing that made it significant was that the masses of the people joined in.',
+        'Rosa Parks',
     ],
-    'e2608d49-7c1e-53dd-b5c2-49648b9775d3' => [
-        'Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.',
-        'Byron Pulsifer',
+    'db19ca68-26f2-58c2-a9f8-9c209338d696' => [
+        'To finally become world champion after losing out in three previous finals is very satisfying. It shows that if you stick to your goals and work hard, you can achieve them in the end.',
+        'Nicola Adams',
     ],
-    '434f7c53-9061-5e44-b412-2c6dc5f0263e' => [
-        'What I am looking for is a blessing not in disguise.',
-        'Jerome K. Jerome',
+    '6065b52b-b45e-5d12-9056-4d70e1f91f41' => [
+        'The purely agitation attitude is not good enough for a detailed consideration of a subject.',
+        'Michael Korda',
     ],
-    'd24b29ab-fa01-54c0-9bf4-5386467dc41b' => [
-        'Family, work, familiarity. Listen, if I had a magic wand and I could make myself really be happy, I\'d zap me onto a farm. And I know nothing about farming.',
-        'Scott Baio',
+    'cd656fef-9441-5edc-ad20-4124f2e67d49' => [
+        'A weed is no more than a flower in disguise.',
+        'James Lowell',
     ],
-    '660ed240-e0b8-5c4d-9c2c-d4b46ceab3b2' => [
-        'Everyone is a genius at least once a year. A real genius has his original ideas closer together.',
-        'Georg Lichtenberg',
+    'f1d76388-077f-513b-a040-01fe95876b8e' => [
+        'When you start about family, about lineage and ancestry, you are talking about every person on earth.',
+        'Alex Haley',
     ],
-    '9765d0e9-ecdb-5dd0-b857-3912aa831a06' => [
-        'Both my best and my worst habit is that I\'m very impulsive.',
-        'Tove Lo',
+    '2f7c0d92-bddb-5bfb-8e96-75d3d4bfbd93' => [
+        'I love Jesus Christ with all my heart and everything He stands for. I think that sums up everything that I want for my life, everything I want for my family, everything I want for my career. I want it to be entertaining. I want people to smile and tap their toes, but I want it to be meaningful when the day is done.',
+        'Josh Turner',
     ],
-    'd72b52ef-c786-565d-9a2f-368685ca6a55' => [
-        'I wanna make a jigsaw puzzle that\'s 40,000 pieces. And when you finish it, it says \'go outside.\'',
-        'Demetri Martin',
+    '40eb72c7-1cf0-5f3d-9774-68462deff0b1' => [
+        'We were a family that made our Halloween costumes. Or, more accurately, my mother made them. She took no suggestions or advice. Halloween costumes were her territory. She was the brain behind my brother\'s winning girl costume, stuffing her own bra with newspapers for him to wear under a cashmere sweater and smearing red lipstick on his lips.',
+        'Ann Hood',
     ],
-    'c4036204-0646-5fdd-ad7c-3f630cf4af27' => [
-        'It\'s a great feeling when your work is appreciated.',
-        'Jacqueline Fernandez',
+    '38cb6d3c-3efa-5f98-88a4-a79054e8e6b5' => [
+        'To work a vineyard, you need a lot of guts to do that. To go out there and work all year, you almost feel that these people talk to the grapes. Wine is a lifestyle, and you can talk about it for ages. It\'s a passion, but it\'s not something I can do on a daily basis.',
+        'Thomas Muster',
     ],
-    '5e331fe9-ee14-51ea-ba4a-d6647d7da9d9' => [
-        'The best thing to do with the best things in life is to give them up.',
+    '7170ee9c-e9bf-567e-9ddb-1b92f37c429d' => [
+        'I have had wrinkles on my forehead and my smile line since I was a kid. I see them in my own kids. I know what they\'re going to look like. So it\'s kind of like that\'s my personality. I feel the older you get, too, the more confident you become just in your own skin.',
+        'Faith Hill',
+    ],
+    'acb479ce-47f6-5eb0-a431-d2f36daf62ec' => [
+        'In 1985, I was living with my sister in Virginia, and since I was still in high school, I worked at McDonald\'s to save money to get an abortion. It sounds really terrible, but it was the best decision I ever made. It was the first time I took responsibility for my actions. I messed up, had sex without contraception, and got pregnant at 15.',
+        'Kathleen Hanna',
+    ],
+    '95f2121c-025e-5ade-87c1-8935fe76833d' => [
+        'Day, n. A period of twenty-four hours, mostly misspent.',
         'Ambrose Bierce',
     ],
-    'a69c2284-635a-5e45-9c46-080500e92301' => [
-        'I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake.',
-        'George Bernard Shaw',
+    '871a8a74-aad9-5b6b-8310-dd00908c2baf' => [
+        'Success is survival.',
+        'Leonard Cohen',
     ],
-    '50b8c63e-e575-57b6-96d9-c859e6aa7948' => [
-        'Romance and novel paint beauty in colors more charming than nature, and describe a happiness that humans never taste. How deceptive and destructive are those pictures of consummate bliss!',
-        'Oliver Goldsmith',
-    ],
-    '0838cba6-1d7a-5c01-9c53-86287964479f' => [
-        'In the West, you have always associated the Islamic faith 100 percent with Arab culture. This in itself is a fundamentalist attitude and it is mistaken.',
-        'Youssou N\'Dour',
-    ],
-    'd481366a-5306-5664-9c78-83286b82b9cd' => [
-        'If you spend your whole life waiting for the storm, you\'ll never enjoy the sunshine.',
-        'Michael Jordan',
+    '23c54324-efff-574f-8ec3-44b9d0d5cb4f' => [
+        'The road to success runs uphill.',
+        'Willie Davis',
     ],
 ];

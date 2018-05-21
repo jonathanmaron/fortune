@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '8f46fef4-5e1d-5e2c-8149-44c8e2c91367' => [
-        'My size is a huge part of me. You just have to appreciate those kinds of things. So I wasn\'t born with long legs - who cares. You just have to embrace it. Being body positive is really important to your overall happiness.',
-        'Sabrina Carpenter',
+    '34086240-7e3a-5138-a42f-44decf45cc1b' => [
+        'Nearly every moment of every day, we have the opportunity to give something to someone else - our time, our love, our resources.',
+        'S. Truett Cathy',
     ],
-    '09293fda-6664-5e57-85f3-2c13870ac899' => [
-        'I\'m no natural beauty. If I\'m gonna have any looks at all, I\'m gonna have to create them.',
-        'Dolly Parton',
+    'f616ae22-5058-53c3-9f8a-5df231675d88' => [
+        'I believe that laughter is the best emotional Band-Aid in the world. It\'s like nature\'s Neosporin.',
+        'Matt LeBlanc',
     ],
-    '85b95e22-0ca1-580d-879c-928e15ebd6fc' => [
-        'I believe I have a personal responsibility to make a positive impact on society.',
-        'Anthony Fauci',
+    'c8a08e54-fbf5-522c-8883-3e79f8610f60' => [
+        'I\'m used to adversity and working really well in difficult situations. It was hard for me to accept the success.',
+        'Paula Cole',
     ],
-    'a78a3503-a4cb-5040-bd77-4590fc525c35' => [
-        'Refuse to be a lazy Christian, and resist a passive, apathetic attitude.',
-        'Joyce Meyer',
+    '56f529a0-f3eb-596e-b880-91bce364d10d' => [
+        'Do what you can. Want what you have. Be who you are.',
+        'Forrest Church',
     ],
-    '807c878f-8b1c-57f4-9daf-8101659a5b29' => [
-        'Without hurting anybody, we all tend to laugh at others\' discomfort. When someone slips on a banana skin and falls it\'s funny.',
-        'Shah Rukh Khan',
+    '28e47d8a-2abe-5d34-83e8-511c05966f9a' => [
+        'One of the best things that ever happened to me is that I\'m a woman. That is the way all females should feel.',
+        'Marilyn Monroe',
     ],
-    'ee3edd88-78a1-518f-86fa-9b47b4096cb0' => [
-        'Having realised that in cooking there was a vast field of study and development, I said to myself, \'Although I had not originally intended to enter this profession, since I am in it, I will work in such a fashion that I will rise above the ordinary, and I will do my best to raise again the prestige of the chef de cuisine.\'',
-        'Auguste Escoffier',
+    '37799abe-0113-5267-8e45-dedf89286ac5' => [
+        'Mountains cannot be surmounted except by winding paths.',
+        'Johann Wolfgang von Goethe',
     ],
-    'abd5b070-0a90-5ad2-bb8c-6410853b7f6e' => [
-        'To be wronged is nothing unless you continue to remember it.',
-        'Confucius',
+    '9711341d-430b-5538-ace6-b8ed8a2b9c07' => [
+        'The worst bankrupt in the world is the person who has lost his enthusiasm.',
+        'H. W. Arnold',
     ],
-    '278c4341-3d8c-5de9-bbaa-fc5a9752ee53' => [
-        'Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen.',
-        'Isaac Bashevis Singer',
+    '062afa91-10f6-5655-b449-e9e3b66e41d3' => [
+        'A travel book is a book that puts you in the shoes of the traveler, and it\'s usually a book about having a very bad time; having a miserable time, even better.',
+        'Paul Theroux',
     ],
-    'c0cce229-3576-5de1-b15b-ab3aca910f0c' => [
-        'I thought one should have the attitude of \'What do you care what other people think!\'',
-        'Richard P. Feynman',
+    '64be3427-bdb8-5caa-b7e6-8233ec06de9d' => [
+        'Children are the keys of paradise.',
+        'Eric Hoffer',
     ],
-    '78af3eef-0415-5875-97ed-0c29f041db57' => [
-        'One of my favorites is one called \'Rory\'s Radio\' that I wrote about my brother Jeff\'s best friend growing up - his name was Rory Dunigan. I dedicated my first record to my brother, who got killed in a car accident in 1999, and I really didn\'t have any songs on the first album about him, nothing on a personal note.',
-        'Ashton Shepherd',
+    'df391c38-9073-5dd4-9280-66b479f1a833' => [
+        'I\'m thankful for all the things that this job has given me and my family. But probably the thing that I am most proud of throughout my career is that, not only myself, but my family and the people around me have just been regular people, which we are.',
+        'Brett Favre',
     ],
-    'bef2a1a7-df15-53a0-9990-b3bcdf1d71bc' => [
-        'Life is never fair, and perhaps it is a good thing for most of us that it is not.',
-        'Elizabeth Esty',
+    'a436b5c8-ccb5-5dd0-929c-88c5152d7925' => [
+        'I have had it up to here with the prosecutions, the government\'s attitude, the judiciary, the media\'s stance and the majority of Turks who view the Kurdish people\'s justified cause through a nationalist lens.',
+        'Osman Baydemir',
     ],
-    '6dbadd26-f716-547f-b119-0169a6b36359' => [
-        'Telecom is a dramatic success in India and our view is, respecting the political process, and respecting the fact that these are sovereign decisions, is that, approaching India as a friend.',
-        'John W. Snow',
+    '91a37d85-e8ef-5cc6-be8d-c0f82b921536' => [
+        'I think having toured the world and seeing many places, I\'ve just been blown away by how we\'ve really scarred our home. I\'m as guilty as the next person if not more so. I travel a lot. The damage we do to our planet is huge.',
+        'James Blunt',
     ],
-    '14dedecc-161c-5ad0-870a-63c4266ba029' => [
-        'In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand. Nobody on earth can give you either the key or the door to open, except yourself.',
-        'Jiddu Krishnamurti',
+    '2b9f5fdb-41ba-511d-a4fc-e0c620cfc48a' => [
+        'In a serious struggle there is no worse cruelty than to be magnanimous at an inopportune time.',
+        'Leon Trotsky',
     ],
-    '941ef0a1-dbe1-5399-b946-43a7c552f96a' => [
-        'Phil Hartman was brilliant, and Dave Foley is a really funny guy. Phil Hartman was actually even funnier offstage than he was onstage because he would say nasty things. Dave Foley\'s very funny, very witty guy, very quick.',
-        'Joe Rogan',
+    '9f0d5fd0-288f-5d59-ba80-9e0c54db5653' => [
+        'I think what it takes to succeed remains the same. You have to have a real love of your sport to carry you through all the bad times, you still want to go ski even when things aren\'t working. You must have a commitment to work hard and to never give up.',
+        'Nancy Greene',
     ],
-    '7880881e-a581-5116-8a21-01b4bd5cbc23' => [
-        'No matter how hard the past, you can always begin again.',
-        'Buddha',
+    '94178aff-5a31-597e-829a-a548612c9c8f' => [
+        'Sometimes, the other characters are too normal and then you start to be brought back to reality but then Luna shows up and she is just so funny and cool and honest and slightly mad and she\'s all that matters. She is 100% true. She puts on no shows, because she is so comfortable with herself.',
+        'Evanna Lynch',
     ],
-    '1b8dd331-7e57-5569-bbe7-3c17a2731375' => [
-        'I guess when I think about it, one of the things I like to dramatise, and what is sometimes funny, is someone coming unglued. I don\'t consider myself someone who is making the argument that I support these choices. I just think it can be funny.',
-        'Wes Anderson',
+    '7f95e20b-5bb8-529e-b8db-d87f7bd777af' => [
+        'Spring is when you feel like whistling even with a shoe full of slush.',
+        'Doug Larson',
     ],
-    'bcf90003-8875-55ef-9822-6bcfff890b80' => [
-        'Time is the school in which we learn, time is the fire in which we burn.',
-        'Delmore Schwartz',
+    '138f8fd3-4bef-5133-950b-34dcbd5d07e4' => [
+        'When I grew up, my family, we sat down, all of us to watch \'Good Times,\' \'Sanford and Son,\' all those shows that were out at that time.',
+        'Magic Johnson',
     ],
-    '13ec77a4-c885-5c4a-8789-58925a80b628' => [
-        'Follow your bliss and the universe will open doors where there were only walls.',
-        'Joseph Campbell',
+    '97a673e8-43c6-5687-9fdc-aa702cf83bbe' => [
+        'When I see myself on film it makes me smile, I mean making a good living doing what I enjoy is soo much fun. I just hope that everyone has the chance to enjoy life like I do.',
+        'Adrienne Barbeau',
     ],
-    'f8133a4c-c9ae-56aa-b100-02787002e126' => [
-        'I\'m a very positive person. My grandmother taught me that happiness is both a skill and a decision, and you are responsible for the outcome.',
-        'Helen McCrory',
+    '43f587f1-91ec-51f4-8e92-5c9439cb9828' => [
+        'I will never forget experiencing Venice for the first time. It feels like you are transported to another time - the art, music, food and pure romance in the air is like no other place.',
+        'Elizabeth Berkley',
     ],
-    'd032f8da-ccd4-5ceb-8bba-a7b8a3a2dc63' => [
-        'I may sometimes be willing to teach for nothing, but if paid at all, I shall never do a man\'s work for less than a man\'s pay.',
-        'Clara Barton',
+    '6d46688a-76f0-533e-9a48-b1cb9a9b707f' => [
+        'I\'m enjoying my years, I\'m enjoying my life, I\'m enjoying my family. I\'m just happy - a happy person.',
+        'Sharon Stone',
     ],
-    '98944bb9-23a8-58b0-a277-eb2096474443' => [
-        'Do your damnedest in an ostentatious manner all the time.',
-        'George S. Patton',
+    '29518666-ef7f-5147-a0f1-3db0226b07a3' => [
+        'We do not see nature with our eyes, but with our understandings and our hearts.',
+        'William Hazlitt',
     ],
-    '62082e13-8a6b-54fc-80d5-d5175bca3856' => [
-        'Little children are still the symbol of the eternal marriage between love and duty.',
-        'George Eliot',
+    '7a361e03-f380-5a48-9448-a05188188298' => [
+        'Social mores change all the time. In the mid-1970s, it would\'ve been astonishing, say, to see two men holding hands in the streets. And the attitude to having a fling with a girl, or whatever, was quite different then.',
+        'Robert Harris',
     ],
-    'ed2a500c-b03d-5b07-99eb-1e46e95749c4' => [
-        'What irritates me is the bland way people go around saying, \'Oh, our attitude has changed. We don\'t dislike these people any more.\' But by the strangest coincidence, they haven\'t taken away the injustice; the laws are still on the books.',
-        'Christopher Isherwood',
+    'f41d503d-f561-5207-9594-82acfc88adae' => [
+        'When humor can be made to alternate with melancholy, one has a success, but when the same things are funny and melancholic at the same time, it\'s just wonderful.',
+        'Francois Truffaut',
     ],
-    'e6a43a54-6f4b-58b3-bbc2-cade95f4263b' => [
-        'I\'m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.',
-        'Joan Jett',
+    '74d885ee-c387-5106-b317-0dadb731a343' => [
+        'As you grow older, you learn a few things. One of them is to actually take the time you\'ve allotted for vacation.',
+        'John Battelle',
     ],
-    'bf6dff5c-4592-5aed-9f9e-aa46ba9faf27' => [
-        'Remember always that the composer\'s pen is still mightier than the bow of the violinist; in you lie all the possibilities of the creation of beauty.',
-        'John Philip Sousa',
+    'dc58146a-cbde-52bd-9a86-4fbd361e81ef' => [
+        'I don\'t have much positive to say about motor neurone disease. But it taught me not to pity myself because others were worse off, and to get on with what I could still do.',
+        'Stephen Hawking',
     ],
-    '20488a94-e93d-59dc-ba31-f8cd30347a44' => [
-        'When life catches up with us, we all need space to dream and indulge, so I have created my own special range of bath &amp; beauty loveliness to help you find your happy place.',
-        'Zoe Sugg',
+    '1dc84b19-be19-59b4-96a8-9c012a81658e' => [
+        'I love every minute of fatherhood, staying up all night, changing nappies, kids crying, I find it really funny and inspiring. It connects you to the world in a new way.',
+        'Elton John',
     ],
-    '385fd768-830f-5bd2-ae08-4d6bb0a3958d' => [
-        'Wisdom begins in wonder.',
-        'Socrates',
+    '971c902a-aadb-5d07-9ba3-d6606bd38acd' => [
+        'There is no limit to suffering human beings have been willing to inflict on others, no matter how innocent, no matter how young, and no matter how old. This fact must lead all reasonable human beings, that is, all human beings who take evidence seriously, to draw only one possible conclusion: Human nature is not basically good.',
+        'Dennis Prager',
     ],
-    '88ae85b2-4905-5a93-82c5-adfbf5d4f417' => [
-        'Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn\'t will be priceless.',
-        'Kevin Ngo',
+    'e81d8011-39db-5121-be40-7d8f0fb6fb2a' => [
+        'I learned to take those experiences that were difficult in my life and in the adversity that I had overcome to use it for a positive change.',
+        'Dominique Moceanu',
     ],
-    '12a3034b-ad14-5f83-ae96-0abb0689bb5e' => [
-        'But while they prate of economic laws, men and women are starving. We must lay hold of the fact that economic laws are not made by nature. They are made by human beings.',
-        'Franklin D. Roosevelt',
+    '87eb9ded-83c1-5ceb-bcdf-1c237c6ff6ac' => [
+        'We\'ll love you just the way you are if you\'re perfect.',
+        'Alanis Morissette',
     ],
-    'ca2da402-03a0-5143-bcc1-b286faf15732' => [
-        'Things do not change, we change.',
-        'Henry Thoreau',
+    '9faad9b7-7969-5f76-a231-13ec170c974f' => [
+        'Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.',
+        'Albert Einstein',
     ],
-    '5cf95842-ffd1-5e6e-8a85-fe79857e0931' => [
-        'Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.',
-        'Edsger W. Dijkstra',
+    '6a10804e-71ba-5235-936a-4a16e81b6485' => [
+        'City Ballet has to develop choreographers of stature and a new approach to coaching before everything we value about it fades away and, in the great tradition of the Cheshire Cat, there\'s nothing left but Peter Martins\' smile.',
+        'Robert Gottlieb',
     ],
-    '8cb2324f-030c-5ed8-ab18-be500fccefeb' => [
-        'Boundary setting is really a huge part of time management.',
-        'Jim Loehr',
+    '39bb482f-eb8d-5b3c-9a88-a408e3a8d6fc' => [
+        'One way to get the most out of life is to look upon it as an adventure.',
+        'Serena Williams',
     ],
-    '45b5cf35-bb87-5444-a718-ed3b7b47bce9' => [
-        'The common idea that success spoils people by making them vain, egotistic and self-complacent is erroneous; on the contrary it makes them, for the most part, humble, tolerant and kind.',
-        'W. Somerset Maugham',
+    'a3ecb446-a0f4-56a6-88f6-0ac92ec14e27' => [
+        'The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.',
+        'Eckhart Tolle',
     ],
-    '40fa1377-0324-5457-80bc-3d9ef028f848' => [
-        'Sometimes nature guards her secrets with the unbreakable grip of physical law. Sometimes the true nature of reality beckons from just beyond the horizon.',
-        'Brian Greene',
+    '02fa9a77-34b4-5fe2-9c7e-feb391c2a4f3' => [
+        'I\'m always trying to make myself laugh. I\'m the most enthusiastic audience I\'m likely to find, so if it doesn\'t make me smile then it probably won\'t work on you. The jokes that only make me shrug get cut.',
+        'Victor LaValle',
     ],
-    '472177f6-61c8-5d87-8fba-942bc5c30a32' => [
-        'We must balance conspicuous consumption with conscious capitalism.',
-        'Kevin Krus',
+    '06e7e8ca-94ca-59f8-bb01-cbc2d18be5f1' => [
+        'It is clear I was never the Pretty Girl. I had my two front teeth knocked out when I was 10 and didn\'t fix them until I was 19. I have a crooked smile and a nose that looks like it\'s been broken 12 times but never has been. My nose was always red, so people called me Rudolph. My whole face is off-center.',
+        'Ellen Barkin',
     ],
-    '73ca76fa-b258-5be7-b70e-0c4a582f8d1f' => [
-        'Everybody has goals, aspirations or whatever, and everybody has been at a point in their life where nobody believed in them.',
-        'Pope Francis',
+    'bdab8d9d-cda4-5730-84d7-5c09462aefbc' => [
+        'That the sea is one of the most beautiful and magnificent sights in Nature, all admit.',
+        'John Joly',
     ],
-    '41333719-8008-5010-8140-5cee72e01f03' => [
-        'All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.',
-        'William Shakespeare',
+    '07fff6aa-7da5-5c40-9728-282ba537308e' => [
+        'The funny thing is that my husband couldn\'t be sweeter. He looks like this bad boy. He\'s got tattoos and earrings and a mohawk, but when you talk to him and he\'s around you, he\'s such a gentleman. He holds doors for ladies. He pulls out chairs. He cooks. He cleans.',
+        'Malin Akerman',
     ],
-    'ecbf5b68-924f-5d8b-9c5e-9724de5533ee' => [
-        'A great restaurant is one that just makes you feel like you\'re not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you\'re hooked.',
-        'Danny Meyer',
+    'f1eb0960-f060-5671-8baa-fc95b9313394' => [
+        'Crime is terribly revealing. Try and vary your methods as you will, your tastes, your habits, your attitude of mind, and your soul is revealed by your actions.',
+        'Agatha Christie',
     ],
-    'cab5deaa-ef67-54a1-9c59-1b2c8bc85224' => [
-        'It may be a mistake, that man, in a state of nature, is more disposed to cruelty than courtesy.',
-        'Mercy Otis Warren',
+    '3a7230d1-a856-57ac-93ba-dcdf2925fb54' => [
+        'We choose our joys and sorrows long before we experience them.',
+        'Kahlil Gibran',
     ],
-    '4b93e3f1-3907-5ef5-a6ce-36fcff3dab58' => [
-        'I take a cooking class everywhere I travel. I find it\'s the best way to get to know a culture.',
-        'Blake Lively',
+    'f36a30bc-39f6-5dae-a31f-f7aeeac64866' => [
+        'The beautiful remains so in ugly surroundings.',
+        'Malcolm de Chazal',
     ],
-    '4858a5e5-8e8d-5742-bac1-5a7ad3657313' => [
-        'When you do not know what you are doing and what you are doing is the best - that is inspiration.',
-        'Robert Bresson',
+    '4d2db20c-5595-52b2-a5ef-b54336572efa' => [
+        'The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.',
+        'Thomas A. Edison',
     ],
-    '381da02c-25a6-588e-a380-9eb830425fad' => [
-        'When I first left university, I thought about going into the private sector. But I discovered when I went to interview that I could only have a career in the back office, or doing HR. The attitude was, \'My dear lady, you cannot possibly think about going on the board.\'',
-        'Pauline Neville-Jones',
+    '221667a9-4f12-5b79-ac1a-fa5c5152f976' => [
+        'Beauty is our weapon against nature; by it we make objects, giving them limit, symmetry, proportion. Beauty halts and freezes the melting flux of nature.',
+        'Camille Paglia',
     ],
-    '79955a92-9031-5310-89a1-0766b4c5a554' => [
-        'My jet lag is getting a bit ridiculous. But, you know, it\'s first-world problems. It\'s a wonderful problem, \'Oh I have to travel around the world; how awful.\'',
-        'Margot Robbie',
+    '5a743ecb-2bf8-5f37-9000-247bf75eea72' => [
+        'I think most of us are raised with preconceived notions of the choices we\'re supposed to make. We waste so much time making decisions based on someone else\'s idea of our happiness - what will make you a good citizen or a good wife or daughter or actress. Nobody says, \'Just be happy - go be a cobbler or go live with goats.\'',
+        'Sandra Bullock',
     ],
-    '22ac76c1-2b17-5fb7-b7ae-36bf27747b43' => [
-        'I hold that the perfection of form and beauty is contained in the sum of all men.',
-        'Albrecht Durer',
+    '6a257f8f-743d-5901-ab4b-5aabb90df174' => [
+        'Indeed, our particular concept of private property, which deters us from exhausting the positive resources of the earth, favors pollution.',
+        'Garrett Hardin',
     ],
-    '9ac670ad-df3d-5ade-b9b7-45ec5fe00e85' => [
-        'We must find new lands from which we can easily obtain raw materials and at the same time exploit the cheap slave labor that is available from the natives of the colonies. The colonies would also provide a dumping ground for the surplus goods produced in our factories.',
-        'Cecil Rhodes',
+    '328907ac-83b3-5168-9906-eeb6a0e6cb4e' => [
+        'True time is four-dimensional.',
+        'Martin Heidegger',
     ],
-    'cf4a0198-47d7-5f8e-884a-232c877fed72' => [
-        'We can do better in higher education. And it is more than just technology. It\'s also an attitude on the part of faculty. We need to think through how we can produce a better quality product at less cost.',
-        'Roy Romer',
+    '37ca74d9-872b-527f-be5c-a1e3cce7d2f8' => [
+        'There\'s a darkness under \'The Hangover\' because ultimately there\'s a missing person and it\'s not really that funny. There\'s a sort of darkness under it that I love, and still people are laughing as hard if not harder than they did in \'Old School.\'',
+        'Todd Phillips',
     ],
-    '7fc996cd-7845-5ae9-a225-706f61db73cb' => [
-        'Sometimes the most important thing in a whole day is the rest we take between two deep breaths.',
-        'Etty Hillesum',
+    'c55d7506-0b17-5abb-a87f-7e92f27ad427' => [
+        'Reason and free inquiry are the only effectual agents against error.',
+        'Thomas Jefferson',
     ],
-    'e6357ae3-f354-5512-8da2-96db6acbcc18' => [
-        'It\'s hard to lead a cavalry charge if you think you look funny on a horse.',
-        'Adlai E. Stevenson',
+    '1cc210ed-7154-5cd3-8c1d-866ac5b828a3' => [
+        'The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.',
+        'Aldous Huxley',
     ],
-    '000e6bbb-7ea0-551d-ab67-9db30aa94822' => [
-        'When I let go of what I am, I become what I might be.',
-        'Lao Tzu',
+    '314e1f60-fd86-53a9-8d3c-c3393ad3ca4b' => [
+        'If one is lucky, a solitary fantasy can totally transform one million realities.',
+        'Maya Angelou',
     ],
-    'dd7bd7ba-588b-5f79-92ab-744a8a0e48f9' => [
-        'An award means a lot to me. It brings happiness along with a kind of fear. It brings fear because the award is the responsibility which audiences have put on us. So a singer winning an award should always try to give best of him to the audiences.',
-        'Shreya Ghoshal',
+    'c02d0402-a021-5961-b9fb-52b2ae7fd84e' => [
+        'Fixing a broken immigration system. Protecting our kids from gun violence. Equal pay for equal work, paid leave, raising the minimum wage. All these things still matter to hardworking families; they are still the right thing to do; and I will not let up until they get done.',
+        'Barack Obama',
     ],
 ];

@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'e46c4cd8-4e6f-5018-87eb-4977a69d55f8' => [
-        'I like to make jokes; I consider myself a funny person. I just think making jokes about people who are in a situation beyond their control is not funny to them or their families.',
-        'Maria Shriver',
+    '68074b62-196f-5b88-8301-f7ebb6efb237' => [
+        'Obstacles are those frightful things you see when you take your eyes off your goal.',
+        'Henry Ford',
     ],
-    '9b99e847-38d2-55d4-8caa-89c8b8cf9c3f' => [
-        'Local economies are suffering as people spend more on fuel and less on consumer goods and travel.',
-        'Dan Lipinski',
+    'cd6befcc-4932-51b2-83f2-0a8021a5165a' => [
+        'You got to be careful if you don\'t know where you\'re going, because you might not get there.',
+        'Yogi Berra',
     ],
-    '1268aa11-4f67-58b0-a144-4d351caf6c29' => [
-        'You don\'t fight racism with racism, the best way to fight racism is with solidarity.',
-        'Bobby Seale',
+    '655df5b9-5326-563a-a612-ab92dc213307' => [
+        'If you have no critics you\'ll likely have no success.',
+        'Malcolm X',
     ],
-    'bc8a9c9e-16c1-5153-bd7e-8efff32af6eb' => [
-        'I\'m not really easy to live with! There needs to be unlimited patience and unconditional love. Men I\'ve known before loved my independent spirit and were proud of my success, to the point that they\'d become jealous of the time I devote to my career.',
-        'Milla Jovovich',
+    'd5d6de0a-4ee6-55f6-b728-c4ba1d2ee7d2' => [
+        'Kind words can be short and easy to speak but their echoes are truly endless.',
+        'Mother Teresa',
     ],
-    'cad3a6dd-93ee-54f7-a2e6-7ec8ae870719' => [
-        'For my part, I travel not to go anywhere, but to go. I travel for travel\'s sake. The great affair is to move.',
-        'Robert Louis Stevenson',
+    '2d61d0e6-3610-5d40-b8ed-47f2581d0974' => [
+        'One of my primary objects is to form the tools so the tools themselves shall fashion the work and give to every part its just proportion.',
+        'Eli Whitney',
     ],
-    'af6dab9b-dfe5-5499-98f5-35a9c0e2e427' => [
-        'It\'s really funny - when I\'m depressed or I\'m having a hard time, I\'ll write really fun stuff. And then when I\'m really happy, I write really depressing stuff.',
-        'Kathleen Hanna',
+    'a8522e0e-9cf4-5ea4-a831-b8fed2653abc' => [
+        'Everything you can imagine is real.',
+        'Pablo Picasso',
     ],
-    '9f13802c-a56c-5a75-b7c6-291d8b3be844' => [
-        'I\'ve been fascinated by the Internet from the very start. In 2001, I had made a funny black-and-white film called \'How to Dance Properly,\' a short video of me dancing to a Madonna song. I sent it to 17 of my friends on a Thursday, and by Monday, one million people a day were logging on to view it.',
-        'Ze Frank',
+    '0a88ff4b-6726-5249-9682-4048dd3831b0' => [
+        'The truth is, I never travel without cash. I always take a few tens with me in case of an emergency. There\'s never been an emergency, and in time, I realized that Americans don\'t want to touch customers\' dirty bills. They also don\'t want to touch your credit card: you have to put it through the machine yourself, with your own fingers.',
+        'Sayed Kashua',
     ],
-    '63a27cd1-fedc-5d0e-a39e-13260df86c76' => [
-        'Should you shield the canyons from the windstorms you would never see the true beauty of their carvings.',
-        'Elisabeth Kubler-Ross',
+    'd9b3b065-f92e-5771-80ad-73c47a32eb6b' => [
+        'My husband has some very interesting hobbies, and through him, I\'ve learned to fly and earned my pilot\'s license. Together, we fly all over the United States. Since our children are all grown now, we also travel a great deal in Europe, but we take commercial flights because our plane is not really equipped to make transatlantic flights.',
+        'Betsy Byars',
     ],
-    '04e82f99-bac6-5ea2-bac5-d4349b7f69d2' => [
-        'Anyone who has a continuous smile on his face conceals a toughness that is almost frightening.',
-        'Greta Garbo',
+    '37818799-5c08-5fae-895f-5e7c06cefef0' => [
+        'A lot of people say, \'What set the Attitude Era up?\' or, \'What started the Attitude Era?\' To me - and I was allegedly the leader of it - sports entertainment, pro wrestling, whatever you want to call it has always had an attitude. So, why that particular generation got labeled, I don\'t know.',
+        'Stone Cold Steve Austin',
     ],
-    'e6a84181-547d-5526-a28b-ccc3c78f7a92' => [
-        'You just hope that you will get the opportunity to do what you love and pay your bills, and that is being a success as an actor.',
-        'Debra Messing',
+    'fcfc9a54-9fb0-5e64-b632-e4288aaa1843' => [
+        'It\'s about enjoying your life. If you have no family, no friends to enjoy it with, it don\'t matter how much you have, how much success you have, how much fame you have, how much money you have, it doesn\'t matter.',
+        'Vanilla Ice',
     ],
-    '66fe246e-c894-58a5-b73b-9e702e80dbaf' => [
-        'Chicken, brown rice, and veggies is a great healthy dinner option. It\'s full of whole grains and protein, and will keep you full for a long time.',
-        'Mia Hamm',
+    '7c2164fb-676b-54cb-b06f-410c6257528e' => [
+        'There is no forgiveness in nature.',
+        'Ugo Betti',
     ],
-    'a19626ac-5dc1-50f4-ae2b-eeb60d0067ed' => [
-        'A goal is not always meant to be reached; it often serves simply as something to aim at.',
-        'Bruce Lee',
+    'e582a215-240c-5454-b07f-ac68b2e1ca15' => [
+        'As I was growing up, I did a lot of talent shows. I won fifteen Sunday nights straight in a series of talent shows in Macon. I showed up the sixteenth night, and they wouldn\'t let me go on any more. Whatever success I had was through the help of the good Lord.',
+        'Otis Redding',
     ],
-    'f205f341-c0ec-5c75-90ea-bcf6cdd12ae2' => [
-        'The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it.',
-        'Elbert Hubbard',
+    'c958a208-7fca-5a55-94df-36c00dd063fe' => [
+        'The best time to plant a tree was 20 years ago. The second best time is now.',
+        'Chinese Proverb',
     ],
-    '8818134e-7825-53a7-9499-59003b13f0f5' => [
-        'Small opportunities are often the beginning of great enterprises.',
-        'Demosthenes',
+    'ab2ae6c0-2284-5b1b-928a-956555b85fd7' => [
+        'People who succeed have momentum. The more they succeed, the more they want to succeed, and the more they find a way to succeed. Similarly, when someone is failing, the tendency is to get on a downward spiral that can even become a self-fulfilling prophecy.',
+        'Tony Robbins',
     ],
-    '353213b2-7249-5878-9073-f1a54e122125' => [
-        'Overcoming fear is the first step to success for entrepreneurs. The winners all exemplify that, and the hard work and commitment they have shown underlines what is needed to set up a business.',
-        'Richard Branson',
+    'aa85f577-7e65-54ec-87fc-a16935e6a971' => [
+        'There is nothing happens to any person but what was in his power to go through with.',
+        'Marcus Aurelius',
     ],
-    '80bd8bd5-f7ac-5ec2-9c29-c758130a4d75' => [
-        'All I would say is that when I\'ve been very down or having kind of a tough time in my life, certain films or pieces of music or books have changed that. They\'ve taken me out of a dark place and put me into a more positive one. And I think that if we can do that for people, then it\'s certainly worth doing.',
-        'Rupert Friend',
+    '7e69505a-4b41-5d0e-a194-687698e64fa0' => [
+        'The greatest teacher I know is the job itself.',
+        'James Cash Penney',
     ],
-    '93b4a41e-956c-5c5a-83e3-213004b430e6' => [
-        'The time is always right to do what is right.',
-        'Martin Luther King, Jr.',
+    'aeae7492-18e9-5876-be1b-bad12c8ba58e' => [
+        'Great leaders understand that historical success tends to produce stable and inwardly focused organizations, and these outfits, in turn, reinforce a feeling of contentment with the status quo.',
+        'John P. Kotter',
     ],
-    '3319e0f4-b50d-5c0d-abf3-3705ff7f7bdf' => [
-        'Silence is true wisdom\'s best reply.',
-        'Euripides',
+    '0b030965-bc0a-5178-b069-218f994d3e28' => [
+        'Learn to listen. Opportunity could be knocking at your door very softly.',
+        'Frank Tyger',
     ],
-    'aef8b5ce-b00a-5942-b6fb-8fcd843443db' => [
-        'The days you work are the best days.',
-        'Georgia O\'Keeffe',
+    'f86f0a16-3d1c-593a-8e42-790d188499e9' => [
+        'Perfection is impossible; just strive to do your best.',
+        'Angela Watson',
     ],
-    'd8e5a168-6f89-577f-b8ad-24d3210017a1' => [
-        'My denial and irresponsible attitude about asthma put me at great risk and caused me so much needless suffering. My hope is that the kids I talk to learn to open up about their asthma, become educated about their condition, and seek help.',
-        'Jackie Joyner-Kersee',
+    '87a02640-a13b-5786-a7dd-84444a395648' => [
+        'Since she got a cause and stopped being funny. I think she\'s real funny, but lately it\'s all been hearts and flowers and tears and saving teenagers and creating a role model. And that ain\'t funny. No giggles there.',
+        'Andy Richter',
     ],
-    '5acfc067-e75c-5711-bc35-c0836e205e6c' => [
-        'Empathy begins with understanding life from another person\'s perspective. Nobody has an objective experience of reality. It\'s all through our own individual prisms.',
-        'A. P. J. Abdul Kalam',
+    'f35e49e2-22f4-55d2-b0c5-668176b4fa71' => [
+        'Make treating yourself a priority and always remember your life is happening now. Don\'t put off all your dreams and pleasures to another day. In any balanced personal definition of success there has to be a powerful element of living life in the present.',
+        'Mireille Guiliano',
     ],
-    '01730382-a8a3-5946-8f59-547cdca61d39' => [
-        'Please pay attention very carefully, because this is the truest thing a stranger will ever say to you: In the face of such hopelessness as our eventual, unavoidable death, there is little sense in not at least TRYING to accomplish all your wildest dreams in life.',
-        'Kevin Smith',
+    'f701f3ba-1fda-5a94-a4a4-22628bcb4f12' => [
+        'Only the educated are free.',
+        'Epictetus',
     ],
-    '3d2b165c-a6a8-5421-8f82-8b9c64a4bf5f' => [
-        'I read everything: fiction, history, science, mathematics, biography, travel.',
-        'Martin Lewis Perl',
+    '7c105637-1f89-5a3b-a71b-0483ac0c7656' => [
+        'Part of the whole L.A. mentality that nothing really matters unless it\'s a success... is such a shallow and dangerous attitude to have.',
+        'Patricia Richardson',
     ],
-    '65623ce6-8400-51ba-b0cb-6f9794b1dd2e' => [
-        'Knowledge is a process of piling up facts; wisdom lies in their simplification.',
-        'Martin Fischer',
+    'e3296a54-dab9-5b3c-a826-f6331e360ffc' => [
+        'I travel often, so my routine is always getting scrambled. But on a standard sort of day, I get up at 6, pack lunches, hustle the kids off to school, then brew a pot of coffee and head downstairs to the dungeon, as I call it: my cobwebby office in the basement.',
+        'Benjamin Percy',
     ],
-    '701c9cc7-97ab-5538-852b-666318d79156' => [
-        'If you have a friend or family member with breast cancer, try not to look at her with \'sad eyes.\' Treat her like you always did; just show a little extra love.',
-        'Hoda Kotb',
+    'db4adeff-781f-52df-b257-1735035a1ea5' => [
+        'I always think part of success is being able to replicate results, taking what is interesting or viable about yourself as a professional person and seeing if you bring it into different situations with similar results.',
+        'Robert Downey, Jr.',
     ],
-    '61d0147c-8b9b-5f69-8b80-a16fcdce6cf0' => [
-        'Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.',
-        'David Jordan',
+    '7ef83f09-d7a7-5e6e-b789-6f2f91e3459b' => [
+        'There\'s not an instruction manual on how to deal with success, so you just have to rely on having great friends and a good team.',
+        'Bryan Adams',
     ],
-    'e3684a4e-709c-50d8-809a-8d6519a23fb8' => [
-        'Through Kurt I saw the beauty of minimalism and the importance of music that\'s stripped down.',
-        'Dave Grohl',
+    'c825a705-70ac-5ebd-87a1-da960c853b6e' => [
+        'Nature is our chapel.',
+        'Bjork',
     ],
-    '16bd24f4-4195-58ba-bd0e-becced17d3b9' => [
-        'If you\'re going to have a bad attitude, you may as well not even tee it up that week because you probably won\'t play good anyways.',
-        'Jason Day',
+    '4e611834-41ef-5da0-9714-7c78c2b5b5d0' => [
+        'Decision is a risk rooted in the courage of being free.',
+        'Paul Tillich',
     ],
-    'c6a8a0d0-0a1f-5bc2-b6ff-79b645eb3580' => [
-        'My quick beauty tip is always have a tinted gloss of some kind to give you some color even if you have no makeup on.',
-        'Rachel Bilson',
+    'ca64d867-e259-5462-8190-cefd2a159e5e' => [
+        'A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.',
+        'Aldo Leopold',
     ],
-    'be04fe70-9ada-54b6-9a28-782e3acfc1d8' => [
-        'I love those who can smile in trouble, who can gather strength from distress, and grow brave by reflection. \'Tis the business of little minds to shrink, but they whose heart is firm, and whose conscience approves their conduct, will pursue their principles unto death.',
-        'Leonardo da Vinci',
+    'eb7d85d8-4f0b-5353-bd2b-47d01dc193a9' => [
+        'Not to sound corny, but intelligence is big. Everything fades, and everything can be modified. But intelligence is something you can\'t fake. I\'m not even talking about whether you can read a thesaurus backwards. But there is a beauty in common sense.',
+        'Wale',
     ],
-    'b1682afe-2dfd-526f-92cb-63b31c7a1864' => [
-        'Our brand of democracy is hard. But I can promise that a year from now, when I no longer hold this office, I\'ll be right there with you as a citizen - inspired by those voices of fairness and vision, of grit and good humor and kindness that have helped America travel so far.',
-        'Barack Obama',
+    '0da9059c-3952-5069-98b2-ed559b29531c' => [
+        'It\'s hard enough to work and raise a family when your kids are all healthy and relatively normal, but when you add on some kind of disability or disease, it can just be such a burden.',
+        'Patricia Heaton',
     ],
-    '34a987e9-6f64-5681-8d30-a84446b66f09' => [
-        'If I had to live my life over, I\'d live over a saloon.',
-        'W. C. Fields',
+    '5781306c-e7c6-520d-87ac-fc98a05a370f' => [
+        'I often read nonfiction with a pencil in hand. I love the feel, the smell, the design, the weight of a book, but I also enjoy the convenience of my Kindle - for travel and for procuring a book in seconds.',
+        'Drew Gilpin Faust',
     ],
-    '1e37d098-47f2-5de6-8d6c-ae71a3731666' => [
-        'Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.',
-        'Theodore Isaac Rubin',
+    'cafc05d4-7f60-570d-a879-0628906986f3' => [
+        'To follow, without halt, one aim: that\'s the secret of success.',
+        'Anna Pavlova',
     ],
-    '7bb7bfbc-7fbc-59b8-9ca5-2846b836eac4' => [
-        'Poor, dear, silly Spring, preparing her annual surprise!',
-        'Wallace Stevens',
+    'f2a45ce0-9c24-5121-8a48-d95624425c1f' => [
+        'Nobody controls me. I travel with my husband when I can, when I know that I can go, and I know that my son is okay alone for a few days with the help.',
+        'Melania Trump',
     ],
-    '1c652ef3-9cad-598c-a23f-b311764a74c8' => [
-        'Belief creates the actual fact.',
-        'William James',
+    'c8ec7121-101d-5be6-8b28-579bc25ce955' => [
+        'The best way to perpetuate poverty is by spending on arms and military, and the best way to fight terrorism is by fighting the basic needs of humanity, because hunger and poverty perpetuate crime.',
+        "\u{d3}scar Arias",
     ],
-    '93adeaa1-ae95-5ff9-b952-646820fd135a' => [
-        'If I could offer but one helpful hint to young Hoosiers hoping to better their odds for success in life, I would simply note the importance of thoughtful reading.',
-        'Richard Lugar',
+    'b6fab0c6-ab01-5729-adc0-6a286555eba3' => [
+        'Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.',
+        'William Channing',
     ],
-    'c247f4e6-ab2b-5351-b6c8-cffbfaff37ac' => [
-        'You know, you only get to live life once, so there are two things that that yields. One is that there\'s no point in crying over spilt milk, but secondly you hate wasting time, energy, and whatever talent you\'ve got.',
-        'David Miliband',
+    '379816d7-f01d-556c-aafe-14acc15ee60d' => [
+        'Turn your face toward the sun and the shadows will fall behind you.',
+        'Maori Proverb',
     ],
-    'b52afcad-3613-5487-9c27-b09689b7822f' => [
-        'Women didn\'t want to be on the stage with other women because they didn\'t want their bodies to be compared. They didn\'t want another female act opening for them because of this weird competitive and tokenistic attitude.',
-        'Kathleen Hanna',
+    '8bfbcf8d-b09e-5014-8886-f41c81275796' => [
+        'Dictators can fix up their entire families in good jobs, in or around government, and often do. In democracies, such a practice is frowned upon. Privileged access to the corridors of power through family connections and a kind of old boys\' network, is also deemed an abuse of power, and so it is.',
+        'Jimmy Reid',
     ],
-    '2279130f-0498-5f63-9125-037d4efc8778' => [
-        'Mozart\'s music is so pure and beautiful that I see it as a reflection of the inner beauty of the universe.',
-        'Albert Einstein',
+    '83610349-5794-57fd-824d-74c93b93f528' => [
+        'One way to keep momentum going is to have constantly greater goals.',
+        'Michael Korda',
     ],
-    '3dd120af-6536-5215-b9c6-011b1cf0c175' => [
-        'The system that enables the most people to earn the most success is free enterprise, by matching up people\'s skills, interests, and abilities. In contrast, redistribution simply spreads money around. Even worse, it attenuates the ability to earn success by perverting economic incentives.',
-        'Arthur C. Brooks',
+    '4a5f322e-11a3-514f-b776-395bf3ab5373' => [
+        'Looking beautiful isn\'t just about what you apply on your face. It\'s the little things you do that matter. A combination of a good diet, exercise, healthy habits, discipline, dancing etc. is what my beauty routine consists of. Also, I have no bad habits; I don\'t drink or smoke. All these contribute to me being fit and looking good.',
+        'Madhuri Dixit',
     ],
-    'fadda71b-6c8b-5961-bbe4-3d34b370dea0' => [
-        'Go forth under the open sky, and list To Nature\'s teachings.',
-        'William C. Bryant',
+    'a4ffb902-9488-517d-a598-5621b612ec80' => [
+        'My life is every moment of my life. It is not a culmination of the past.',
+        'Isaac Asimov',
     ],
-    'fb4dbaae-300b-5e80-bd0e-ccf7edf1f3f9' => [
-        'Beauty is nature\'s brag, and must be shown in courts, at feasts, and high solemnities, where most may wonder at the workmanship.',
-        'John Milton',
+    '8cd87af1-4c9d-5600-821c-5b8bf6150c1c' => [
+        'Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.',
+        'Byron Pulsifer',
     ],
-    'a59d34bf-c9fd-5425-b797-65e918ee29fe' => [
-        'Fortune cookies are a good idea. If the message is positive, it can make your day a little better.',
-        'Yao Ming',
+    '7eaf7b1d-3c43-533d-aa06-8f13badd5310' => [
+        'Let us permit nature to have her way. She understands her business better than we do.',
+        'Michel de Montaigne',
     ],
-    'fc95e2ef-477f-5be2-b39c-7ef7687d4872' => [
-        'America believes in education: the average professor earns more money in a year than a professional athlete earns in a whole week.',
-        'Evan Esar',
+    'a6f63a0a-2a54-56a1-8fc2-4bfd1809f3bf' => [
+        'Circumstances in life often take us places that we never intended to go. We visit some places of beauty, others of pain and desolation.',
+        'Kristin Armstrong',
     ],
-    'd5ce5d7a-6954-5286-9eb4-c8c5796accc5' => [
-        'A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.',
-        'Chuck Norris',
+    'afe0fbf4-8f84-5220-a73d-59321e4c0ba1' => [
+        'Life is one grand, sweet song, so start the music.',
+        'Buddha',
     ],
-    '1585ecb6-ded5-5a13-a596-74d6a61665cc' => [
-        'You must have been warned against letting the golden hours slip by; but some of them are golden only because we let them slip by.',
-        'James M. Barrie',
+    'e0eed196-eb9a-5bb9-8a2a-0e9a8942e50d' => [
+        'The world is like a reverse casino. In a casino, if you gamble long enough, you\'re certainly going to lose. But in the real world, where the only thing you\'re gambling is, say, your time or your embarrassment, then the more stuff you do, the more you give luck a chance to find you.',
+        'Scott Adams',
     ],
-    '82fec5b4-33f0-5600-be23-6cfeef110463' => [
-        'Miracles are a retelling in small letters of the very same story which is written across the whole world in letters too large for some of us to see.',
-        'C. S. Lewis',
+    '928f304d-f48c-5952-9b86-1631024903ab' => [
+        'There is no way to prosperity, prosperity is the way.',
+        'Wayne Dyer',
     ],
-    '17efa961-9cf5-531e-aa1a-1a8e069d60dd' => [
-        'I think the attitude I was trying to learn myself was to really try hard, to give a great effort, to really care, and to let the results go where they are going to go. But at the same time, I don\'t have to be happy, and I shouldn\'t be happy, with less than my best.',
-        'Tom Lehman',
+    'a302fbda-78b4-5ba6-a9c2-2dade757d16b' => [
+        'There is no attitude required. The hat brings the attitude. And when people try on a hat they like, it is a bit of fun. It makes them laugh. You don\'t laugh when you put on a pair of shoes, but you do with a hat.',
+        'Philip Treacy',
     ],
-    '2f86e9f2-1ebe-5436-949b-9ba0ab291fad' => [
-        'Start every day off with a smile and get it over with.',
-        'W. C. Fields',
+    'd2c0261a-48cf-5aa8-87aa-244cc0f31cbc' => [
+        'About the time we can make the ends meet, somebody moves the ends.',
+        'Herbert Hoover',
     ],
-    'bac4e68c-185d-5bbc-9855-297f4b2adc48' => [
-        'There may be people who have more talent than you, but there\'s no excuse for anyone to work harder than you do - and I believe that.',
-        'Derek Jeter',
+    '7f2fb3ff-5c61-58a8-973b-1d6aa4a9eaf1' => [
+        'Beauty may be skin deep, but ugly goes clear to the bone.',
+        'Redd Foxx',
     ],
 ];

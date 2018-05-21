@@ -52,7 +52,7 @@ class Fortune
     public function getRandomShortFortune(): array
     {
         $medianLength = $this->getMedianFortuneLength();
-        $lengths      = array_keys($this->getAllLengths());
+        $lengths      = $this->getAllLengths();
         $lengths      = array_filter($lengths, function ($length) use ($medianLength) {
             if ($medianLength < $length) {
                 return false;
@@ -69,7 +69,7 @@ class Fortune
     public function getRandomLongFortune(): array
     {
         $medianLength = $this->getMedianFortuneLength();
-        $lengths      = array_keys($this->getAllLengths());
+        $lengths      = $this->getAllLengths();
         $lengths      = array_filter($lengths, function ($length) use ($medianLength) {
             if ($medianLength > $length) {
                 return false;
@@ -85,9 +85,10 @@ class Fortune
 
     private function getMedianFortuneLength(): int
     {
-        $lengths = $this->getAllLengths();
-        sort($lengths);
-        $ret = (int) round(count($lengths) / 2);
+        $lengths = array_values($this->getAllLengths());
+        sort($lengths, SORT_NUMERIC);
+        $middleKey = floor(count($lengths) / 2);
+        $ret       = (int) $lengths[$middleKey];
 
         return $ret;
     }

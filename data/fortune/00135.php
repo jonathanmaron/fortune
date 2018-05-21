@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '95f2121c-025e-5ade-87c1-8935fe76833d' => [
-        'Day, n. A period of twenty-four hours, mostly misspent.',
-        'Ambrose Bierce',
+    '5723f5f7-8184-55db-8220-215cdd65e852' => [
+        'You really have to work hard and apply yourself and by applying yourself and working hard and being diligent, you can achieve success.',
+        'Julie Benz',
     ],
-    'fc16756e-47c5-58f1-b443-554760551a54' => [
-        'We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, \'Damn, we\'re Americans,\' and smile.',
-        'Jay Garner',
+    '3631ee46-3d82-54cf-84b8-10f5d2175230' => [
+        'Absence makes the heart grow fonder.',
+        'Haynes Bayly',
     ],
-    '98a40925-31fd-5cff-a790-b3523a239881' => [
-        'We must let go of the life we have planned, so as to accept the one that is waiting for us.',
-        'Joseph Campbell',
+    'ea6d237d-6329-5039-b002-fea5c16c608d' => [
+        'I don\'t really remember, but I\'m positive that whenever I cried, my mother gave me something to eat. I\'m sure that whenever I had a fight with the little girl next door, or it was raining and I couldn\'t go out, or I wasn\'t invited to a birthday party, my mother gave me a piece of candy to make me feel better.',
+        'Jean Nidetch',
     ],
-    'fb425726-d963-55a4-a855-80adfafc0491' => [
-        'I never knew a man come to greatness or eminence who lay abed late in the morning.',
-        'Johnathan Swift',
+    '27972e27-daa0-55a1-8720-4745e00da7ad' => [
+        'I\'ve always had that attitude about my career: it\'s something that I do, but it\'s not my whole life. I have a real life, a personal life: I\'ve got a lot of chickens, I\'ve got a horse, I\'ve got a kitty-cat, I\'ve got a lot of goats, I\'ve got animals all over the place.',
+        'Buffy Sainte-Marie',
     ],
-    'ff48a46d-46ee-5655-8d5e-bc95dbe8129e' => [
-        'It\'s human nature that if you get 20 positive comments and one negative one, you\'re going to focus on the negative. We all do that. It can be something that drags you down. It\'s easy to get bogged down with it, but I try to concentrate on the good things.',
-        'Bindi Irwin',
+    'd866b777-0a41-5048-901b-e8f703471a26' => [
+        'Selfishness, narcissism, being uncomfortable in your own skin, not feeling connected to the world around you, feeling dislocated from family and youth, having a strange relationship with your childhood - all those things feel really true to me.',
+        'Jason Reitman',
     ],
-    '5b832e36-76b2-58e6-8f2d-b36ab86eeceb' => [
-        'Four things for success: work and pray, think and believe.',
-        'Norman Vincent Peale',
+    '9a51bd1b-7864-55d9-94e1-a10633e7b0c8' => [
+        'When you look at Japanese traditional architecture, you have to look at Japanese culture and its relationship with nature. You can actually live in a harmonious, close contact with nature - this very unique to Japan.',
+        'Tadao Ando',
     ],
-    'fd7c3bc3-996c-5f34-b811-1b08ae3c92ac' => [
-        'I never cut class. I loved getting A\'s, I liked being smart. I liked being on time. I thought being smart is cooler than anything in the world.',
-        'Michelle Obama',
+    '20256db2-636f-5923-b659-5be9122eac40' => [
+        'Don\'t be pushed by your problems; be led by your dreams.',
+        'Unknown',
     ],
-    '003653d8-ff77-53fe-a22a-e5fd1b5d1a37' => [
-        'You are beautiful because you let yourself feel, and that is a brave thing indeed.',
-        'Shinji Moon',
+    '265d0989-8653-59b1-ac31-c5019e8e5cac' => [
+        'I know a lot of Eastern Europeans, and because of what they have been through and what they have seen, they have an attitude where they are not easily fooled.',
+        'Francine Prose',
     ],
-    '716c372f-9914-5ab8-8423-6f04314d86bf' => [
-        'Growing up, I just wanted to be like everyone else. I didn\'t value or understand the beauty in being different at the time in my life.',
-        'Marisol Nichols',
+    'd310725a-de85-581f-88af-5c658e08eba5' => [
+        'Before you can become a millionaire, you must learn to think like one. You must learn how to motivate yourself to counter fear with courage. Making critical decisions about your career, business, investments and other resources conjures up fear, fear that is part of the process of becoming a financial success.',
+        'Thomas J. Stanley',
     ],
-    '54ecdd87-73ed-5b01-9249-0d3e456694a7' => [
-        'God has already done everything He\'s going to do. The ball is now in your court. If you want success, if you want wisdom, if you want to be prosperous and healthy, you\'re going to have to do more than meditate and believe; you must boldly declare words of faith and victory over yourself and your family.',
-        'Joel Osteen',
+    'b56e2e8a-b19f-5bab-90e7-6fef62380bea' => [
+        'It is one of the most effective attitudes of the neurotic to measure thumbs down, so to speak, a real person by an ideal, since in doing so he can depreciate him as much as he wishes.',
+        'Alfred Adler',
     ],
-    'c57857e8-7c2f-5011-9995-35e14acf4fcf' => [
-        'Maybe that is why kids like Dumbledore: because he is funny rather than a miserable old sod with a long white beard.',
-        'Michael Gambon',
+    '1d2bc90c-a716-5126-add0-748d2212a30b' => [
+        'Video is a funny thing. It\'s one thing to be an artist, singer-songwriter, and use words and create pictures in people\'s minds. And then be asked to do video for it, to actually give a certain visual for your song.',
+        'Melissa Etheridge',
     ],
-    '8f0d869c-4d68-5410-87bc-f3f54e5960a7' => [
-        'If you quit ONCE it becomes a habit.Never quit!!!',
-        'Michael Jordan',
+    '8cad0115-6413-5377-ab15-169a1dea9076' => [
+        'The only thing that overcomes hard luck is hard work.',
+        'Harry Golden',
     ],
-    '1626f95b-f2a9-5969-bb3d-4151ad2f57b0' => [
-        'For marriage to be a success, every woman and every man should have her and his own bathroom. The end.',
-        'Catherine Zeta-Jones',
+    'b9b670b7-bbfa-5c03-a003-9c56468a58ab' => [
+        'It\'s often hard for us to imagine going without some of our luxuries like travel, dining out, or Internet, much less our basic necessities like food and water. But try for a minute to imagine how life would be with such deprivations.',
+        'Marcus Samuelsson',
     ],
-    '27b8d0ec-0b5a-5b50-8aa4-c22b73b8e046' => [
-        'I believe a leaf of grass is no less than the journey-work of the stars.',
-        'Walt Whitman',
+    '32c9fc1e-3735-522c-a779-ecec08f1995d' => [
+        'You don\'t have to be the Dalai Lama to tell people that life\'s about change.',
+        'Mary Oliver',
     ],
-    '6ea62632-78c5-510a-91be-9e933bb88440' => [
-        'The best way for guys to communicate is just don\'t talk to each other for nine hours. That\'s why I like long motorcycle rides. It\'s a great way for guys to socialize and not socialize.',
-        'Justin Theroux',
+    'e03d80df-cbff-5437-acc5-141b66adba75' => [
+        'When I work fourteen hours a day, seven days a week, I get lucky.',
+        'Armand Hammer',
     ],
-    'f19f0505-a573-504a-bbd4-967cfc508905' => [
-        'Reading is a basic tool in the living of a good life.',
-        'Juliette Binoche',
+    '38bb1346-7328-5ac9-a478-e960263060a9' => [
+        'Life is like an ice-cream cone, you have to lick it one day at a time.',
+        'Charles M. Schulz',
     ],
-    '719b2ffb-fffe-551a-8b42-2f31f76baa40' => [
-        'On long haul flights I always drink loads and loads of water and eat light and healthy food.',
-        'Lisa Snowdon',
+    '4e50bde9-cb2a-5079-ac4a-6316c0357a64' => [
+        'To accomplish great things, we must not only act, but also dream, not only plan, but also believe.',
+        'Anatole France',
     ],
-    '9bd388d0-8642-52af-999e-dcdd7d949038' => [
-        'Through a long and painful process, I\'ve learned that happiness is an inside job - not based on anything or anyone in the outer material world. I\'ve become a different and better person - not perfect, but still a work in progress.',
-        'Alana Stewart',
+    'b8412932-87d6-56d5-a53a-ebea5c8e328d' => [
+        'For me, bomber jackets are smart, but they are also street and have a lot of attitude.',
+        'The Weeknd',
     ],
-    '4302de82-a24e-5583-8229-bad11455b4e5' => [
-        'There is no life to be found in violence. Every act of violence brings us closer to death. Whether it\'s the mundane violence we do to our bodies by overeating toxic food or drink or the extreme violence of child abuse, domestic warfare, life-threatening poverty, addiction, or state terrorism.',
-        'Amelia Earhart',
+    '86d94077-dc15-59d0-bd70-58ef67e55ce2' => [
+        'It\'s very important to take risks. I think that research is very important, but in the end you have to work from your instinct and feeling and take those risks and be fearless. When I hear a company is being run by a team, my heart sinks, because you need to have that leader with a vision and heart that can move things forward.',
+        'Anna Wintour',
     ],
-    'dddaf01a-5df9-562e-8730-2dc2e3f2fd03' => [
-        'We awaken in others the same attitude of mind we hold toward them.',
-        'Elbert Hubbard',
+    'f40d8aab-4670-5fdf-9218-f84843a6de03' => [
+        'I try not to think about anyone\'s expectations but rather focus on always doing my personal best. Modeling was never a thought in my mind growing up, but my mom felt it was important for me to be open to business opportunities and expand my horizons.',
+        'Anwar Hadid',
     ],
-    '876726b5-2b3e-50cd-b8e7-4b6cdd95c507' => [
-        'Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don\'t quit.',
-        'Conrad Hilton',
+    'ce3d4083-9e22-5cce-864c-119e4f3b87c1' => [
+        'It\'s all about quality of life and finding a happy balance between work and friends and family.',
+        'Tony Robbins',
     ],
-    '6de8f983-9870-5ff9-9be7-917b4fab41c1' => [
-        'I keep my beauty regimen as natural as possible. I wash my face four times a day. In the beginning of the day, I use an exfoliating cleanser made of besan, turmeric and sandalwood. I drink lots of water and avoid oily food. I use only The Body Shop products on my face, as they use the least amount of chemicals.',
-        'Tena Desae',
+    '9e56646e-9d14-5d54-b649-ecfe52b03d0d' => [
+        'I love my brothers\' kids. It\'s funny - as an uncle, you become so protective of them.',
+        'Liam Hemsworth',
     ],
-    '9ecfc638-4631-50fc-84e2-1174cb41e2be' => [
-        'The truth is you don\'t know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.',
-        'Nelson Mandela',
+    '3db3bb08-8228-5a3b-976b-fb2bb9e1379e' => [
+        'I like drama. I love being in a drama where I get to be the funny guy. That\'s what I really love the most.',
+        'John Leguizamo',
     ],
-    '485df078-61f1-5f69-81ab-ae96b767468c' => [
-        'What I always think about when I think about \'Girls\' is Lena being in a scene where she\'s very vulnerable, possibly directing, acting, and she\'s probably written the dialogue. It\'s 2 in the morning. Everyone\'s tired. Everyone\'s grumpy. And she has a smile on her face and kindness for everyone who interacts with her.',
-        'Jennifer Konner',
+    'd7f10c5f-153b-5d6b-ae8d-5c3050cbee92' => [
+        'I just see too many people retire and say, \'I\'m going to take off, travel, spend time with my family\' and they are just miserable. They end up dying. People who work and stay active, and like what they are doing, live longer.',
+        'Terry Bradshaw',
     ],
-    'e619d8e4-f4e7-5d8f-bad6-48e4061f4d1e' => [
-        'Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.',
-        'Napoleon Hill',
+    '29ea15c5-16cc-54d1-973c-c961a7934b46' => [
+        'I think it\'s your mental attitude. So many of us start dreading age in high school and that\'s a waste of a lovely life. \'Oh... I\'m 30, oh, I\'m 40, oh, 50.\' Make the most of it.',
+        'Betty White',
     ],
-    '52baea5a-7878-50e5-adfd-eb6dfda9db66' => [
-        "Don\u{92}t settle. Don\u{92}t finish crappy books. If you don\u{92}t like the menu, leave the restaurant. If you\u{92}re not on the right path, get off it.",
-        'Chris Brogan',
+    '1b297281-3a9e-56c3-be1c-95a4de8bae87' => [
+        'The snow itself is lonely or, if you prefer, self-sufficient. There is no other time when the whole world seems composed of one thing and one thing only.',
+        'Joseph Wood Krutch',
     ],
-    '99425e31-14c3-5f1d-9cfb-75d09740bad4' => [
-        'Sometimes you just want to get away and be normal for a few days. It\'s a treat to travel without your racket bag.',
-        'Eugenie Bouchard',
+    '3d265c38-8938-5719-b6d1-f1089b5088f1' => [
+        '\'Sunset Boulevard\' - the story of Hollywood movies draped on a depressing sex affair - is an uncompromising study of American decadence displaying a sad, worn, methodical beauty few films have had since the late twenties.',
+        'Manny Farber',
     ],
-    'e503d4fb-9bda-527a-a93c-efb89a5f8488' => [
-        'Scouting rises within you and inspires you to put forth your best.',
-        'Juliette Gordon Low',
+    'b872b5b8-f8ec-59cb-b0b6-aed5a67ce23a' => [
+        'A day of worry is more exhausting than a week of work.',
+        'John Lubbock',
     ],
-    'c54e5776-b3a0-55f2-83e7-3d3ce0925242' => [
-        'Art is not a study of positive reality, it is the seeking for ideal truth.',
-        'John Ruskin',
+    '89738bb8-2fbd-5112-8b19-fdc83d411a81' => [
+        'Every mother and daughter should make time for a trip together. It\'s good for the soul.',
+        'Anne Robinson',
     ],
-    '0953c70c-6708-58c4-b6c1-34033f10aa95' => [
-        '\'Chef\' doesn\'t mean that you\'re the best cook, it simply means \'boss.\'',
-        'Tom Colicchio',
-    ],
-    '0e251ef1-58c5-5ece-a695-7271021e66b8' => [
-        'I like to smile. I smile even when I\'m nervous since it calms me down and shows my friendliness.',
-        'Yani Tseng',
-    ],
-    '67ff46f7-077b-5c84-8d42-f0096d0ea992' => [
-        'You know, real life doesn\'t just suddenly resolve itself. You have to keep working at it. Democracy, marriage, friendship. You can\'t just say, \'She\'s my best friend.\' That\'s not a given, it\'s a process.',
-        'Viggo Mortensen',
+    '60f08cc7-20a7-500e-9f76-74f484e0f23f' => [
+        'The person lives twice who lives the first life well.',
+        'Adam Gopnik',
     ],
     '083e1ab5-b008-58e9-8d3f-44bfaa4acc70' => [
         'One thing I didn\'t understand in life was that I had $100,000,000 in the bank and I couldn\'t buy happiness. I had everything: mansions, yachts, Ferraris, Lamborghinis, but I was depressed. I didn\'t know where I fitted in. But then I found family and friends and I learned the value of life.',
         'Vanilla Ice',
     ],
-    '022f344c-44e4-5231-899b-f30a3fd96a9a' => [
-        'I\'m not afraid of storms, for Im learning how to sail my ship.',
-        'Louisa Alcott',
+    '93de64a5-de6f-5c01-89cd-3acb789e21ef' => [
+        'I\'m very proud of the Rome episode of \'No Reservations\' because it violated all the conventional wisdom about making television. You\'re never, ever supposed to do a food or travel show in black and white.',
+        'Anthony Bourdain',
     ],
-    '7c137547-09d0-5879-9994-e1247fbf3d00' => [
-        'Life is like an onion. You peel it off one layer at a time, and sometimes you weep.',
-        'Carl Sandburg',
+    '8aa70b31-bc37-5a9b-a594-cc1d4d3fd35d' => [
+        'Friendship is the shadow of the evening, which increases with the setting sun of life.',
+        'Octavio Paz',
     ],
-    '201bd0b5-b4fa-5c0c-924d-a589ef83081f' => [
-        'I used to wear a lot of red lipstick, and when I got a pimple, I\'d cover it up with eyeliner to turn it into a beauty mark.',
-        'Selma Blair',
+    '606c53c8-2321-5f75-b622-162123f01e37' => [
+        'Juvenile crime is not naturally born in the boy, but is largely due either to the spirit of adventure that is in him, to his own stupidity, or to his lack of discipline, according to the nature of the individual.',
+        'Robert Baden-Powell',
     ],
-    '5aae35c8-72db-51fe-bf26-e1609efa9961' => [
-        'Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.',
-        'Tom Jackson',
+    '1dde9a3c-55af-559b-8962-ab74afc8b349' => [
+        'My father was a really sharp cartoonist and filmmaker. He used to tape-record the family surreptitiously, either while we were driving around or at dinner, and in 1963 he and I made up a story about a brother and a sister, Lisa and Matt, having an adventure out in the woods with animals.',
+        'Matt Groening',
     ],
-    'bbcfc429-fb3f-50c1-9470-45b4bbf8b6a3' => [
-        'To have the chance to see your music be elevated and to have almost universally positive response to that music, makes me feel better every day. I feel more confident and inspired, and that\'s fun.',
-        'John Legend',
+    'c1653a89-b377-5900-a391-3033743c7c18' => [
+        'A positive attitude causes a chain reaction of positive thoughts, events and outcomes. It is a catalyst and it sparks extraordinary results.',
+        'Wade Boggs',
     ],
-    'b2b227f1-12b1-5c91-a05f-3f83c81c5fbc' => [
-        'I\'ve shown that if you dream and are willing to work hard, you can achieve your dreams.',
-        'Mo Farah',
+    '9c5e99f4-47d4-5916-a354-2d90ed8f4f41' => [
+        'Success is how high you bounce when you hit bottom.',
+        'George S. Patton',
     ],
-    'f67f324d-80e6-5269-97eb-0edf96c23c27' => [
-        'Your own resolution to succeed is more important than any other.',
-        'Abraham Lincoln',
+    'a4411795-76b4-5c92-89f1-f923fcdee6d8' => [
+        'My dad told me, \'It takes fifteen years to be an overnight success\', and it took me seventeen and a half years.',
+        'Adrien Brody',
     ],
-    '0fe67ce4-cb68-5f3f-9651-3340ff4f9c5d' => [
-        'Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.',
-        'Jane Addams',
+    '2af6268f-a2a9-5596-87a3-561198363185' => [
+        'I love fairy tales because of their haunting beauty and magical strangeness. They are set in worlds where anything can happen. Frogs can be kings, a thicket of brambles can hide a castle where a royal court has lain asleep for a hundred years, a boy can outwit a giant, and a girl can break a curse with nothing but her courage and steadfastness.',
+        'Kate Forsyth',
     ],
-    'aa63ec52-5479-5332-8ba4-512fb96bed3a' => [
-        'The only time people dislike gossip is when you gossip about them.',
-        'Will Rogers',
+    '09a1cfc2-b5a7-503a-9e65-4ccb0513afec' => [
+        'I think being directed and mentored by someone as inspirational as Paul Feig not only improves my performance but, as a whole, makes it what it is.',
+        'Nargis Fakhri',
     ],
-    '6080c136-75e9-5320-b1f8-99fe856dcd03' => [
-        'The culture of a workplace - an organization\'s values, norms and practices - has a huge impact on our happiness and success.',
-        'Adam Grant',
+    '0511b2da-c7b9-5bcd-8197-bf51df52d22e' => [
+        'To enter by reason means to realize the essence through instruction and to believe that all living things share the same true nature, which isn\'t apparent because it\'s shrouded by sensation and delusion.',
+        'Bodhidharma',
     ],
-    'cbb1ccb9-db4f-5489-b652-0cab48ff1ece' => [
-        'The best thing about the future is that it only comes one day at a time.',
-        'Abraham Lincoln',
+    '5162f356-2aa0-5384-b8b3-e04fe5d2dd7c' => [
+        'People who say it cannot be done should not interrupt those who are doing it.',
+        'Chinese proverb',
     ],
-    'ce4deeb5-d937-564c-a142-cb4ff533793c' => [
-        'Never be ashamed of what you feel. You have the right to feel any emotion that you want, and to do what makes you happy. That\'s my life motto.',
-        'Nelson Mandela',
+    '90a93e2c-4d1a-5011-8dcf-e67d2ace9501' => [
+        'Follow your passion, be prepared to work hard and sacrifice, and, above all, don\'t let anyone limit your dreams.',
+        'Donovan Bailey',
     ],
-    'fa67149b-3a09-548a-8bb1-8e411b0fbe76' => [
-        'There is always room at the top.',
-        'Daniel Webster',
+    '3f79feb8-f61e-58f2-b94b-2b9f27d6795e' => [
+        'Life is a series of waves to be embraced and overcome.',
+        'Albert Schweitzer',
     ],
-    '94d6e3cd-16c4-5fc3-8481-55109f6e8d90' => [
-        'The fame that goes with wealth and beauty is fleeting and fragile; intellectual superiority is a possession glorious and eternal.',
-        'Sallust',
+    '9f2394a2-b8ef-5ee3-8b6d-8448e3a3555d' => [
+        'Collaboration is the best way to work. It\'s only way to work, really. Everyone\'s there because they have a set of skills to offer across the board.',
+        'Antony Starr',
     ],
-    'faad7792-bd0a-5213-a308-cf635dde4427' => [
-        'From a small seed a mighty trunk may grow.',
-        'Aeschylus',
+    'a9099346-a00f-5584-8425-dadba3a81bfa' => [
+        'The arts are not a way to make a living. They are a very human way of making life more bearable. Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven\'s sake.',
+        'Garrison Keillor',
     ],
-    '13d2be83-e3b8-58ed-ba6a-11c3096a27c9' => [
-        'I have learned that raising children is the single most difficult thing in the world to do. It takes hard work, love, luck, and a lot of energy, and it is the most rewarding experience that you can ever have.',
-        'Janet Reno',
+    '17c1cf6c-fc69-504e-87cd-1747d3a8e9b8' => [
+        'The things I was allowed to experience, the people I was able to call friends, teammates, mentors, coaches and opponents, the travel, all of it, are far more than anything I ever thought possible in my lifetime.',
+        'Curt Schilling',
     ],
-    'd1f9477b-dac9-58e2-b80d-4cc42d25406c' => [
-        'At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.',
-        'Barbara Bush',
+    '67de9adb-96aa-5a06-b0ad-3ca17ca3eb32' => [
+        'Speak when you are angry - and you\'ll make the best speech you\'ll ever regret.',
+        'Laurence J. Peter',
+    ],
+    'f5bf79cb-b94c-5f74-b66b-04ce8fad9375' => [
+        'The flower is the poetry of reproduction. It is an example of the eternal seductiveness of life.',
+        'Jean Giraudoux',
+    ],
+    'd77adf01-cd65-5748-9d7b-20cbedab3606' => [
+        'My success is not due to any personal superiority over other people.',
+        'John Philip Sousa',
     ],
 ];

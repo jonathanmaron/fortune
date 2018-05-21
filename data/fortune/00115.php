@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '68dd5844-4a9f-5aae-935f-5de697717a04' => [
-        'I travel regularly and have learnt to be very methodical as far as packing is concerned. For example, I always check the weather in advance of where I\'m going to ensure that I\'ve packed the right clothes.',
-        'Paloma Faith',
+    '3f3829c0-e4b7-5319-a37b-f5c209e9d2a5' => [
+        'You really don\'t need to wear any make-up most of the time; keep your eyebrows the way they are, and find your own natural beauty signature.',
+        'Erin Heatherton',
     ],
-    '0ddac7ae-f91b-5df2-a8fe-6ee407d3076d' => [
-        'My mother was against me being an actress - until I introduced her to Frank Sinatra.',
-        'Angie Dickinson',
+    'd1849fd5-07a4-5174-8ced-d39b3b592f7b' => [
+        'The attitude and identity that we want to play with doesn\'t change.',
+        'Dan Quinn',
     ],
-    '4fa8e8af-9984-5cd4-8475-1d233bfed2cf' => [
-        'Nobody got where they are today by living for tomorrow.',
-        'Jawaharlal Nehru',
+    '66235ae6-26a2-5388-811d-7c2f8cc4d38f' => [
+        'The reason most of the children are having problems in any inner-city neighborhood is because they don\'t see enough positive role models in their own environment.',
+        'Marla Gibbs',
     ],
-    '3a007643-3119-584e-89cc-954a50dfc4c9' => [
-        'We truly believe with hard work, dedication and perseverance, we can become the best at what we do. No one wants to become mediocre.',
-        'Andy Biersack',
+    '3653f7ec-b7d6-5501-a3a6-f92252769045' => [
+        'If I could travel back in time, I\'d bring back the entire Wu-Tang Clan.',
+        'Hannah Simone',
     ],
-    'fb2b4fba-6c23-5882-9700-db54d3e037de' => [
-        'I find, when you\'re an optimist, life has a funny way of looking after you.',
-        'Simon Sinek',
+    '9737b112-f052-5419-a4de-989de1bfa1a3' => [
+        'Today\'s students can put dope in their veins or hope in their brains. If they can conceive it and believe it, they can achieve it. They must know it is not their aptitude but their attitude that will determine their altitude.',
+        'Jesse Jackson',
     ],
-    'e41a6b92-f2ee-56f5-be05-5e7cff62bc7c' => [
-        'My dad was a terrible father. Dreadful. But he had a very difficult childhood. He was fostered - he never knew who his father was. So he had a very different attitude to family and kids. I don\'t have any issues. I\'m not suffering some secret angst.',
-        'Mark Billingham',
+    '7f595580-6649-5574-ade3-bf748b801017' => [
+        'Silent pictures show us how we lived and what our attitudes were. And as an art form, they can be wonderfully entertaining and often inspirational.',
+        'Kevin Brownlow',
     ],
-    '8361982c-f0e0-5ee2-9032-6b1e64200209' => [
-        'Yesterday I dared to struggle. Today I dare to win.',
-        'Bernadette Devlin',
+    '0ce0c105-53f7-5f10-b82e-f34aaa848437' => [
+        'I like being the underdog so they don\'t expect what\'s going to happen. It pushes me to work harder and do the things I\'m not doing better.',
+        'Kawhi Leonard',
     ],
-    'b429801c-b267-5fdb-ae7d-3d87056800a3' => [
-        'A lot of people have their big dreams and get knocked down and don\'t have things go their way. And you never give up hope, and you really just hold on to it. Hard work and perserverance. You just keep getting up and getting up, and then you get that breakthrough.',
-        'Robert Kraft',
+    '0a02c6e7-d5ea-59f1-829c-b46d4ca2fb6e' => [
+        'Give me a couple of years, and I\'ll make that actress an overnight success.',
+        'Samuel Goldwyn',
     ],
-    'eacfcf91-3a53-5668-a65c-4f6c737ef951' => [
-        'Imperfection is beauty, madness is genius and it\'s better to be absolutely ridiculous than absolutely boring.',
-        'Marilyn Monroe',
+    'a2010180-4105-5eb1-922b-27991a140e7b' => [
+        'I don\'t think our government really has much of a policy about air travel. I would compare the policies of United Arab Emirates, which has done a terrific job recognizing the value of transportation, of travel.',
+        'Jeff Smisek',
     ],
-    'a53b5426-c49a-56ae-8c06-75b5c0d7de43' => [
-        'I never travel without my sketch book.',
-        'Ian Wright',
+    'da5101ef-2ab3-5e29-b9e4-47bf92e8bded' => [
+        'A person who won\'t read has no advantage over one who can\'t read',
+        'Mark Twain',
     ],
-    'c268fde4-9bf2-5b2b-9229-ca52b266261e' => [
-        'It\'s easy to play any musical instrument: all you have to do is touch the right key at the right time and the instrument will play itself.',
-        'Johann Sebastian Bach',
+    'a0c86655-b5c8-5ef1-81e2-8fb03d7741a4' => [
+        'Excellence can be obtained if you care more than others think is wise, risk more than others think is safe, dream more than others think is practical, expect more than others think is possible.',
+        'Unknown',
     ],
-    'f56feedf-95a1-5469-b9e4-60a975831830' => [
-        'The chief symptom of adolescence is a state of expectation, a tendency towards creative work, and a need for the strengthening of self-confidence. Suddenly, the child becomes very sensitive to the rudeness and humiliations which he had previously suffered with patient indifference.',
-        'Maria Montessori',
+    '796e69fd-b10c-592f-bb11-98efca8cf8ad' => [
+        'I\'m living on this positive mind frame where I\'m only attracting positive things. I\'m controlling my energy, I\'m eating right, I\'m meditating, I\'m in the gym, I\'m doing all this stuff I\'m supposed to be doing. I\'m past that young, immature way of thinking. I just want to be great.',
+        'Shameik Moore',
     ],
-    '390df2b1-2820-5e5e-9aeb-e91479bc9625' => [
-        'There are only two mistakes one can make along the road to truth; not going all the way, and not starting.',
-        'Buddha',
+    'b5db5716-a329-574b-88ff-7d2ba3e2619b' => [
+        'Success is stumbling from failure to failure with no loss of enthusiasm.',
+        'Winston Churchill.',
     ],
-    'ff38eac8-30cf-5eb2-aa18-836c7394a892' => [
-        'Be thine own palace, or the world\'s thy jail.',
-        'John Donne',
+    '066f9303-55d9-5d09-9157-a3880a8022b2' => [
+        'Tourists don\'t know where they\'ve been, travelers don\'t know where they\'re going.',
+        'Paul Theroux',
     ],
-    'f3b0c811-9b63-598f-bb8d-c7073cd0ae0c' => [
-        'The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.',
-        'Charles Lamb',
+    'ef9d6db4-9068-5a18-a2ee-22664705f5f0' => [
+        'Why should conservationists have a positive interest in... farming? There are lots of reasons, but the plainest is: Conservationists eat.',
+        'Wendell Berry',
     ],
-    '8a7cc7a4-5a84-558b-b5ab-48faf5174f9f' => [
-        'When one tugs at a single thing in nature, he finds it attached to the rest of the world.',
+    'b8d3cafc-3c0f-577d-add5-ec49066b67cc' => [
+        'But when I really look back on my life, being really honest about it and now that I\'ve got the chance to travel the world, seeing how a lot of little kids grow up - my life wasn\'t so bad.',
+        'Coolio',
+    ],
+    '36ba7cca-b9cd-5d4a-9ec5-24b2c30923e3' => [
+        'I think nudity is funny, especially when it\'s inappropriate.',
+        'Chelsea Handler',
+    ],
+    '2cb18fad-8430-5814-ab71-52ff04bb8c23' => [
+        'The waving of a pine tree on the top of a mountain - a magic wand in Nature\'s hand - every devout mountaineer knows its power; but the marvelous beauty value of what the Scotch call a breckan in a still dell, what poet has sung this?',
         'John Muir',
     ],
-    '6a367caa-6729-5b8c-859a-b21b07eab9c0' => [
-        'We are supposed to enjoy the good stuff now, while we can, with the people we love. Life has a funny way of teaching us that lesson over and over again.',
-        'Henri Nouwen',
-    ],
-    'd4af9cba-4d58-5ad0-98d4-79aa36d62545' => [
-        'Our deeds still travel with us from afar, and what we have been makes us what we are.',
-        'George Eliot',
-    ],
-    'ed96619e-8c50-5e68-a79c-518f260871c7' => [
-        'The roots of racism lie deep in man\'s nature, wounded and bruised by original sin.',
-        'Sargent Shriver',
-    ],
-    '86e208cc-c4ec-56e5-a6a9-59a40daea95e' => [
-        'The future rewards those who press on. I don\'t have time to feel sorry for myself. I don\'t have time to complain. I\'m going to press on.',
-        'Barack Obama',
-    ],
-    '219822f5-5c52-5eed-a91a-75c5eda2e709' => [
-        'By the time we see that climate change is really bad, your ability to fix it is extremely limited... The carbon gets up there, but the heating effect is delayed. And then the effect of that heat on the species and ecosystem is delayed. That means that even when you turn virtuous, things are actually going to get worse for quite a while.',
-        'Bill Gates',
-    ],
-    'e244e4a6-2ab6-5856-a63e-1980d0018084' => [
-        'Love and desire are the spirit\'s wings to great deeds.',
-        'Johann Wolfgang von Goethe',
-    ],
-    '306ce0da-4fc3-575a-b1e3-b30f9f07447f' => [
-        'Prosperity depends more on wanting what you have than having what you want.',
-        'Geoffrey F. Abert',
-    ],
-    '27b689c0-a301-5f3c-973c-3932d165ea51' => [
-        'Patience is a virtue but you will never ever accomplish anything if you don\'t exercise action over patience.',
-        'Byron Pulsifer',
-    ],
-    'e1e70e0e-2b60-5788-8439-32ddd145bf3f' => [
-        'Life is not a matter of place, things or comfort; rather, it concerns the basic human rights of family, country, justice and human dignity.',
-        'Imelda Marcos',
-    ],
-    'acdb99be-3765-57b7-b24a-24cf85768f98' => [
-        'In all things of nature there is something of the marvelous.',
+    '251e1239-62c1-5230-bd8d-0a809c856e56' => [
+        'At his best, man is the noblest of all animals; separated from law and justice he is the worst.',
         'Aristotle',
     ],
-    '224d525c-a83f-597e-80a0-79203d8d888a' => [
-        'Our economy is increasingly dependent on the success and integrity of the financial markets.',
-        'Michael Douglas',
+    'ea46ef60-39ed-5c12-bce5-c88264728ef2' => [
+        'I think in London - and I don\'t wanna offend anybody in America, but this is a real statement - they still have the right approach to making music. In the U.S., people see it as a way to make money; they see it as a means to get out. It\'s a hustle, which is great - any way you can provide for your family that\'s legal is fantastic.',
+        'Jay-Z',
     ],
-    'e281d205-5e26-5093-80f3-7dcb01d27d73' => [
-        'People who cannot find time for recreation are obliged sooner or later to find time for illness.',
-        'John Wanamaker',
+    'efb1f9bf-5644-5a0f-a5ba-cac578006a5f' => [
+        'My favorite kind of humor is basically, if it was happening to you, it wouldn\'t be funny, but to observe it, it\'s hilarious.',
+        'Bill Burr',
     ],
-    '3f5b3e5e-d31e-5fac-95be-f433d45df96a' => [
-        'I\'ll bring my grits when I travel, because I get so hungry on the road.',
-        'Dolly Parton',
+    '44f6b876-f7a7-5a67-aca5-a29253f7fbd6' => [
+        'I\'m a positive guy, even if I don\'t smile a lot.',
+        'James Arthur',
     ],
-    '1c1f4322-b08b-55ba-9d71-3144c0b0f162' => [
-        'If you know you are giving your best effort, you\'ll never have any reason for regrets.',
-        'Naveen Jain',
+    '75fb2594-9cc1-5d9d-9e7b-34104449c9b0' => [
+        'I have a wonderful make-up crew. They\'re the same people restoring the Statue of Liberty.',
+        'Bob Hope',
     ],
-    '1d034dd6-0195-5fc5-b4e7-d2e05ad2219f' => [
-        'You must accept that you might fail; then, if you do your best and still don\'t win, at least you can be satisfied that you\'ve tried. If you don\'t accept failure as a possibility, you don\'t set high goals, you don\'t branch out, you don\'t try - you don\'t take the risk.',
-        'Rosalynn Carter',
+    '61964b53-f336-592d-a33f-928cb1686e03' => [
+        'The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.',
+        'Mark Zuckerberg',
     ],
-    '40b8e8a7-3ed4-5665-ad33-bb971858ae80' => [
-        'I didn\'t know how to show my self love, and I didn\'t want anyone else to hurt me. So my tough girl attitude was like, \'I\'m not having it.\'',
-        'Mary J. Blige',
+    '7f30c3df-1cf1-57bf-a9b9-56bf0dc8885b' => [
+        'No skill shapes a child\'s future success in school or in life more than the ability to read.',
+        'Bob Riley',
     ],
-    'eb3b6cf4-af09-510b-853c-cdab468b7e01' => [
-        'All identity labels are umbrella terms to some degree, but this term \'bisexual\' is not only serviceable, but it is sufficient. And yes, it brings together a bunch of people who are maybe shades different from one another. And maybe that\'s the beauty of labels: that they force you to be with other people and see the difference.',
-        'Charles M. Blow',
+    '82a5c625-5a54-50eb-bcca-a2b79acd1f7b' => [
+        'Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.',
+        'Albert Einstein',
     ],
-    '6a427e67-c0c3-5b90-8bab-317d766f329f' => [
-        'I will form good habits and become their slave. And how will I accomplish this difficult feat? Through these scrolls it will be done, for each scroll contains a principle which will drive a bad habit from my life and replace it with one which will bring me closer to success.',
-        'Og Mandino',
+    '7e2fbeb3-a605-519d-9494-8a961c90be72' => [
+        'The auto industry must acknowledge that a rational transportation policy should seek a balance between individual convenience, the efficient use of limited resources, and urban-living values that protect spaciousness, natural beauty, and human-scale mobility.',
+        'Stewart Udall',
     ],
-    'eaa9b4b1-8c00-5127-b2de-c4570180301c' => [
-        'I\'ve always believed that if you put in the work, the results will come.',
-        'Michael Jordan',
+    'c9255e51-8af7-5005-91a2-0aa43d68053b' => [
+        'Enhance and intensify one\'s vision of that synthesis of truth and beauty which is the highest and deepest reality.',
+        'Ovid',
     ],
-    '4b127db5-3e9d-56cc-b035-4fb0b093c938' => [
-        'No matter where I\'ve been overseas, the food stinks, except in Italy.',
-        'Carmen Electra',
+    'fa38ca02-6d0b-5e0b-9016-52ea1ea69c40' => [
+        'The best way to do ourselves good is to be doing good to others; the best way to gather is to scatter.',
+        'Thomas Brooks',
     ],
-    '528434e9-bd67-5c7b-8817-fbfbdf97f9db' => [
-        'Every time we walk along a beach some ancient urge disturbs us so that we find ourselves shedding shoes and garments or scavenging among seaweed and whitened timbers like the homesick refugees of a long war.',
-        'Loren Eiseley',
+    '4a7daf61-adfb-58c6-88c3-3ad25c1a1c2f' => [
+        'I have learned that acting is not about beauty.',
+        'Vincent Cassel',
     ],
-    'c04ee3b0-de2c-5459-b395-5c408b4d147f' => [
-        'I have a very childish attitude to books - a very non-analytic enthusiasm... like Alice falling down the chute.',
-        'Mariella Frostrup',
+    '062a77a5-f2e2-5333-bbdb-d5215fb60685' => [
+        'Success is walking from failure to failure with no loss of enthusiasm.',
+        'Winston Churchill',
     ],
-    'e6c95379-554c-51c1-9021-74b8c0c5fad6' => [
-        'In the States, you can buy Chinese food. In Beijing you can buy hamburger. It\'s very close. Now I feel the world become a big family, like a really big family. You have many neighbors. Not like before, two countries are far away.',
-        'Jet Li',
+    'c3f7eeac-85de-5cb1-978d-2cbb25bbb5c8' => [
+        'Anytime you introduce volatility, it is not good for business and not good for travel.',
+        'Dara Khosrowshahi',
     ],
-    '14a4b4c7-4037-5f6a-9ea7-c71c39ac6d6c' => [
-        'Have you seen these Japanese hospital droids, or humanoids, or whatever they call it? They\'ve perfected the skin, and the skin looks so real. They have these motors between the eyes for when they smile. It\'s just mind-blowing.',
-        'Joel Kinnaman',
+    '6fbdfaf2-0c56-5414-8df4-bb1ca3c69a27' => [
+        'Worry often gives a small thing a big shadow.',
+        'Swedish proverb',
     ],
-    '9d162e7e-3a2c-5624-aca8-c5c98a7508e1' => [
-        'I gave my life to become the person I am right now. Was it worth it?',
-        'Richard Bach',
+    'a88c595a-4fbf-58a7-a9b7-29fea62dfa2b' => [
+        'Success consists in being successful, not in having potential for success. Any wide piece of ground is the potential site of a palace, but there\'s no palace till it\'s built.',
+        'Fernando Pessoa',
     ],
-    '7174671c-f369-5b34-9594-2db53ebabb5c' => [
-        'The royal family are protected from public accountability by law.',
-        'Heather Brooke',
+    '9bc598c2-ec3b-55e3-acf2-cc1c3110bf18' => [
+        'Even successful musicians have had periods where people say they suck and no one likes them, even after they\'ve had periods of great success. So I think it\'s like you just gotta do you and try to stay motivated. Until, you know, you decide to stay home and make spaghetti all day.',
+        'K. Flay',
     ],
-    '0364c812-762c-5bac-b784-37015b454ef4' => [
-        'In school, you\'re taught a lesson and then given a test. In life, you\'re given a test that teaches you a lesson.',
-        'Young Jeezy',
+    '441053c8-db78-5f37-8bce-e86b2dd6b5f9' => [
+        'I enjoy nothing more than spending time with my loved ones, young and old, and at least once a year we get together for a formal family photograph.',
+        'Elliott Erwitt',
     ],
-    'd3e28379-4b9e-5f3e-9e81-2ae48b3439f2' => [
-        'If one tries to think about history, it seems to me - it\'s like looking at a range of mountains. And the first time you see them, they look one way. But then time changes, the pattern of light shifts. Maybe you\'ve moved slightly, your perspective has changed. The mountains are the same, but they look very different.',
-        'Robert Harris',
+    'cb056fd8-e9dd-567c-8f4f-18a964f2e679' => [
+        'To find joy in work is to discover the fountain of youth.',
+        'Pearl S. Buck',
     ],
-    'c77ae1ef-1ad4-50ff-9b0d-aa39a0421e4b' => [
-        'The feminist movement is not about success for women. It is about treating women as victims and about telling women that you can\'t succeed because society is unfair to you, and I think that\'s a very unfortunate idea to put in the minds of young women because I believe women can do whatever they want.',
-        'Phyllis Schlafly',
+    '03c5e189-7b1f-5dbd-aafe-09bf1f2785d5' => [
+        'But I have found that in the simple act of living with hope, and in the daily effort to have a positive impact in the world, the days I do have are made all the more meaningful and precious. And for that I am grateful.',
+        'Elizabeth Edwards',
     ],
-    'd31a479a-dc17-54a9-a521-b8fbd9a963b8' => [
-        'Pursue one great decisive aim with force and determination.',
-        'Carl von Clausewitz',
+    'f336749c-7a6f-5a2b-9f75-7f2d2db74126' => [
+        'The compulsion to do good is an innate American trait. Only North Americans seem to believe that they always should, may, and actually can choose somebody with whom to share their blessings. Ultimately this attitude leads to bombing people into the acceptance of gifts.',
+        'Ivan Illich',
     ],
-    '7ede52bb-b771-5706-8a57-3c9600244ffa' => [
-        'In the business world today, failure is apparently not an option. We need to change this attitude toward failure - and celebrate the idea that only by falling on our collective business faces do we learn enough to succeed down the road.',
-        'Naveen Jain',
+    '85a75f2d-1d9d-5b87-b18a-571b0a4002e5' => [
+        'Time is a beautiful thing. It\'s like when you meet an old lover on the street six years later and they don\'t look so ugly anymore.',
+        'Sarah McLachlan',
     ],
-    '807c7a85-d07b-5b76-9e0b-a4606d3865d9' => [
-        'Travel is so important in its capacity to expand the mind. It\'s exciting to start as young as possible - you get to see how other cultures live, challenge your senses, and try different cuisines.',
-        'Natalie Dormer',
+    '78aa6467-6e72-5c8d-b7eb-69dfa87c38d8' => [
+        'Exercise is one of the best ways in preventing the rapid growth of obesity in America.',
+        'Lee Haney',
     ],
-    'fefa2446-5406-56f3-bb8c-af15efa9a3c7' => [
-        'Anything that\'s not positive, I don\'t have the energy to focus on it. Anything that\'s not going in the right direction, I don\'t have the time or the energy.',
-        'DMX',
+    '42047882-5fd4-5ca7-8a30-b748bf3d0e48' => [
+        'We are all travelers in the wilderness of this world, and the best we can find in our travels is an honest friend.',
+        'Robert Louis Stevenson',
     ],
-    '120acd46-7178-58fd-9981-5f49288f7e75' => [
-        'Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.',
-        'Dale Carnegie',
+    '574c1af7-af72-523b-92aa-c7b01a5c8bf2' => [
+        'If you dream of something worth doing and then simply go to work on it and don\'t think anything of personalities, or emotional conflicts, or of money, or of family distractions; it is amazing how quickly you get through those 5,000 steps.',
+        'Edwin Land',
+    ],
+    '46ce0494-92f5-5afb-851b-6dbbb326dc00' => [
+        'The world I travel is my inspiration. I name my dresses after cities that inspire me.',
+        'Naeem Khan',
+    ],
+    '664d422b-ecb8-523f-9db8-aca80cd21607' => [
+        'When you Google me, you\'ll find a lot of people don\'t like Richard Dreyfuss. Because I\'m cocky and I present a cocky attitude. But no one has ever disagreed with the notion I represent, that we need more civic education. So far there\'s 100 percent support for that.',
+        'Richard Dreyfuss',
+    ],
+    '04afea51-6408-594b-a7cf-b622b4d18457' => [
+        'Life offers no guarantees... just choices; no certainty... but consequences; no predictable outcomes... just the privilege of pursuit.',
+        'Tim Connor',
+    ],
+    'fb70a0b1-3c0f-5390-b0ac-b66944e805c2' => [
+        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
+        'Ariana Grande',
+    ],
+    '8f43610c-b03f-529c-be65-fa5e98b7e176' => [
+        'Do something wonderful, people may imitate it.',
+        'Albert Schweitzer',
+    ],
+    'c02aa97b-6564-5fc8-bf9c-19e11e16b423' => [
+        'Not a shred of evidence exists in favor of the idea that life is serious.',
+        'Mahatma Gandhi',
+    ],
+    '33a3a335-888c-51dd-bb98-9ecb0d3cc603' => [
+        'I learned that we can do anything, but we can\'t do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.',
+        'Dan Millman',
     ],
 ];

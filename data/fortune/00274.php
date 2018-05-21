@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '7e372d11-9235-55bd-9470-d87d56c025d5' => [
-        'You\'re only as good as your last haircut.',
-        'Fran Lebowitz',
+    '8d5c999c-dfbe-5f52-b148-38eefb8a9914' => [
+        'I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.',
+        'Og Mandino',
     ],
-    '33233fd5-6644-5a24-9e65-a8cf06762b79' => [
-        'Find something that you love to do, and find a place that you really like to do it in. I found something I loved to do. I\'m a mechanical engineer by training, and I loved it. I still do. My son is a nuclear engineer at MIT, a junior, and I get the same vibe from him. Your work has to be compelling. You spend a lot of time doing it.',
-        'Ursula Burns',
+    '814c06e9-6ca2-5b80-bdbf-490922b80cbd' => [
+        'It all depends on how we look at things, and not how they are in themselves.',
+        'Carl Jung',
     ],
-    '60091216-945a-52df-a871-129954dca64d' => [
-        'A man should be able to hear, and to bear, the worst that could be said of him.',
-        'Saul Bellow',
+    'c219540f-cdb3-5059-bf31-9f24b6271cb3' => [
+        'Let us live for the beauty of our own reality.',
+        'Charles Lamb',
     ],
-    '189204c5-ecb5-5ddb-8025-2cf443490557' => [
-        'I hope there have been times when I made you all proud, or made you all smile or at least piqued your interest in this wonderful institution we call government.',
-        'John Rowland',
+    'e9addbb1-5bd9-50d8-97a6-ac8cd904d17b' => [
+        'Nobody knows what you feel inside unless you tell them.',
+        'Banksy',
     ],
-    '9032b609-329f-58f0-8cb7-757afd4638f3' => [
-        'I think it\'s way harder when you have success, \'cause people tend to not treat you the same or look at you the same because they see the success or the money you make.',
-        'Meek Mill',
+    '165e1cc2-8094-5db2-b6e4-7d69cb151bb6' => [
+        'All children are artists. The problem is how to remain an artist once he grows up.',
+        'Pablo Picasso',
     ],
-    '9d3de392-627e-5754-90cb-500389308156' => [
-        'Regard every suggestion that your life may be a failure, that you are not made like those who succeed, and that success is not for you, as a traitor, and expel it from your mind as you would a thief from your house.',
-        'Orison Swett Marden',
+    '93adeaa1-ae95-5ff9-b952-646820fd135a' => [
+        'If I could offer but one helpful hint to young Hoosiers hoping to better their odds for success in life, I would simply note the importance of thoughtful reading.',
+        'Richard Lugar',
     ],
-    'be035c1d-6400-5db3-be80-38526272310a' => [
-        'We should all be thankful for those people who rekindle the inner spirit.',
-        'Albert Schweitzer',
+    'a721349d-1964-51b1-b4c4-c760f1759b30' => [
+        'The key to life is your attitude. Whether you\'re single or married or have kids or don\'t have kids, it\'s how you look at your life, what you make of it. It\'s about making the best of your life wherever you are in life.',
+        'Candace Bushnell',
     ],
-    'eeb938d8-2647-5791-b12d-dfc39ae09db1' => [
-        'Be not entangled in this world of days and nights; Thou hast another time and space as well.',
-        'Muhammad Iqbal',
+    '3a4dd44c-250b-5c06-8df8-62a143b6b670' => [
+        'There surely is in human nature an inherent propensity to extract all the good out of all the evil.',
+        'Benjamin Haydon',
     ],
-    '2cb0e4ef-8fd3-515d-a130-3b9efdd3ae6e' => [
-        'Empathy is the faculty to resonate with the feelings of others. When we meet someone who is joyful, we smile. When we witness someone in pain, we suffer in resonance with his or her suffering.',
-        'Matthieu Ricard',
+    '9912ceef-6c5f-5bbf-a5a1-145ed62f0d77' => [
+        'We must not constantly talk about tackling obesity and warning people about the negative consequences of obesity. Instead we must be positive - positive about the fun and benefits to be had from healthy living, trying to get rid of people\'s excuses for being obese by tackling the issue in a positive way.',
+        'Andrew Lansley',
     ],
-    '6340c446-e3f9-5c1d-b1ed-acb9efe98a32' => [
-        'You can do what\'s reasonable or you can decide what\'s possible.',
-        'Unknown',
+    '6fb6a50d-06ed-5cba-9271-fb147134ab1d' => [
+        'Forty for you, sixty for me. And equal partners we will be.',
+        'Joan Rivers',
     ],
-    '67de9adb-96aa-5a06-b0ad-3ca17ca3eb32' => [
-        'Speak when you are angry - and you\'ll make the best speech you\'ll ever regret.',
-        'Laurence J. Peter',
+    '888450e6-52c3-5365-909c-c1fa639f2f93' => [
+        'Sometimes you have got to look at things really positively - without putting your head in the sand, you have got to manage the negatives and keep putting a positive slant on it, keep trying to find answers.',
+        'Brian McDermott',
     ],
-    '8a843e2a-fad1-5fff-863e-f8853cab7b68' => [
-        'If a person gets his attitude toward money straight, it will help straighten out almost every other area in his life.',
-        'Billy Graham',
+    'dde35495-e963-5eb9-b12d-a44a704bc570' => [
+        'My theory on life is that life is beautiful. Life doesn\'t change. You have a day, and a night, and a month, and a year. We people change - we can be miserable or we can be happy. It\'s what you make of your life.',
+        'William Butler Yeats',
     ],
-    'aa292280-f2ee-5e85-aed5-8c42f3c8c2ab' => [
-        'While Pickstown may not be what it once was, it still is framed by the natural beauty of the ancient river, the sweep of the Great Plains, and the long, unbroken shoreline of the lake behind the dam. It gave me a 19th-century childhood in a modern mid-20th-century town, and for that I will always be grateful.',
-        'Tom Brokaw',
+    'c380a1cf-71fd-5e94-b41c-8c688107bbe4' => [
+        'When we are no longer able to change a situation, we are challenged to change ourselves.',
+        'Viktor Frankl',
     ],
-    'c9022381-a88b-5451-bb2d-fcf414629e77' => [
-        'Try not to become a person of success, but rather try to become a person of value.',
-        'Albert Einstein',
+    '1725f2ce-a82a-58da-a6ee-5a8fb7e1d95b' => [
+        'Humility is the true key to success. Successful people lose their way at times. They often embrace and overindulge from the fruits of success. Humility halts this arrogance and self-indulging trap. Humble people share the credit and wealth, remaining focused and hungry to continue the journey of success.',
+        'Rick Pitino',
     ],
-    '3494d5e5-9588-5c42-a45c-7e4f7ddbd0a8' => [
-        'I congratulate you, my brave countrymen and fellow soldiers, on the spirit and success with which you have executed this important part of our enterprise.',
-        'James Wolfe',
+    'b36976af-a41c-5dbf-aba0-3ed43d9bb997' => [
+        'Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: you don\'t give up.',
+        'Anne Lamott',
     ],
-    'aa1912c9-280e-5ef3-a497-fff225a2cbfd' => [
-        'It\'s true that immigrant novels have to do with people going from one country to another, but there isn\'t a single novel that doesn\'t travel from one place to another, emotionally or locally.',
-        'Oscar Hijuelos',
-    ],
-    'aa031382-1396-5a8a-a0f6-38eabe1ec6a5' => [
-        'Fate is in your hands and no one elses',
-        'Byron Pulsifer',
-    ],
-    '217d0924-fb10-5aab-bfa2-297bef06aafc' => [
-        'I get to travel the world doing what I love to do - making other people happy... They might not even understand my words, but the one thing everybody understands is music.',
-        'Martin Garrix',
-    ],
-    '05b67493-c899-56cd-b799-bd38fdeda763' => [
-        'All the candy corn that was ever made was made in 1911.',
-        'Lewis Black',
-    ],
-    '5723f5f7-8184-55db-8220-215cdd65e852' => [
-        'You really have to work hard and apply yourself and by applying yourself and working hard and being diligent, you can achieve success.',
-        'Julie Benz',
-    ],
-    '5a650f4c-6aa3-5ac9-8c4c-db6431799bc9' => [
-        'Be a good listener. Your ears will never get you in trouble.',
-        'Frank Tyger',
-    ],
-    '32614ec5-08e7-513d-a387-91243b00388b' => [
-        'Life is not an exact science, it is an art.',
-        'Billy Graham',
-    ],
-    'b9a01fea-a73f-5bc4-80a2-2eab59aecc6d' => [
-        'Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.',
-        'Marcus Aurelius',
-    ],
-    '94d2c8af-86d5-5b16-88e2-3c04cc6a4624' => [
-        'The mind is everything. What you think you become.',
-        'Buddha',
-    ],
-    '7b7e3af1-1a18-5964-8608-97a6d73358a1' => [
-        'Time changes everything except something within us which is always surprised by change.',
+    '80672a9e-52c1-56de-a7bb-6928363b7b10' => [
+        'I am the family face; flesh perishes, I live on.',
         'Thomas Hardy',
     ],
-    '1e718712-97a2-595f-8118-a8eff5a57ebe' => [
-        'Touring is tough. You\'re almost in a haze because you don\'t really know where you are half the time: You\'re in a hotel room one moment, and the next thing you know, you\'re onstage performing for 60,000 people, then you\'re back on an airplane. It\'s very hectic and I couldn\'t do it without my family.',
-        'Vanessa Hudgens',
+    '9c11d4d3-7192-5473-9db6-42ec2beb1930' => [
+        'In the Spring, I have counted 136 different kinds of weather inside of 24 hours.',
+        'Mark Twain',
     ],
-    '84e6d06b-bb45-5692-9111-fdddaae48991' => [
-        'Time is more valuable than money, because time is irreplaceable.',
+    'f5e1259f-6f3f-55c4-8a91-9f1d3e24212b' => [
+        'You just never give up. You do a task to the best of your abilities and beyond.',
+        'Debbie Reynolds',
+    ],
+    '428f7dc3-38b5-5176-a153-5edef8dcc837' => [
+        'Ideas are the beginning points of all fortunes.',
+        'Napoleon Hill',
+    ],
+    '3333d28f-2611-5a8c-ad44-248a3217fa63' => [
+        'You know I think that going into therapy is a very positive thing, and talking about it is really helpful, because the more you talk the more your fears fade, because you get it out.',
+        'Fran Drescher',
+    ],
+    '77117876-9779-5ec4-907d-ad76ec546543' => [
+        'Even in winter an isolated patch of snow has a special quality.',
+        'Andy Goldsworthy',
+    ],
+    'ed3e4af6-aaa9-53b6-a8b6-ab919fb9a57a' => [
+        'See that the imagination of nature is far, far greater than the imagination of man.',
+        'Richard P. Feynman',
+    ],
+    '9db59f56-e288-5991-81f4-4e69dca093fb' => [
+        'As I travel the world, it seems that younger people identify me merely with some of the folklore in the \'Chuck Norris Facts\' - those hyperbolic sayings that elevate my abilities beyond my capabilities. Others view me in light of the character I played in \'Walker, Texas Ranger\' or in one of my 20 tough-guy films.',
+        'Chuck Norris',
+    ],
+    'e83c83d7-cee4-524d-abc9-976c54418758' => [
+        'The mission of art is to represent nature not to imitate her.',
+        'William Morris Hunt',
+    ],
+    'af9b7a21-2a41-5b20-b0b3-5b705af23c7d' => [
+        'I found that being with happy positive people annoys me.',
+        'Karl Pilkington',
+    ],
+    '79a362ae-c0b3-50b3-b7cb-53148966187a' => [
+        'Your belief determines your action and your action determines your results, but first you have to believe.',
+        'Mark Victor Hansen',
+    ],
+    '2c90bf17-ba34-5291-ba7e-841b2201f848' => [
+        'We needed something to express our joy, our beauty, our power. And the rainbow did that.',
+        'Gilbert Baker',
+    ],
+    '1a35071d-0b94-5950-8b4a-684ea3af3753' => [
+        'In spite of the opinions of certain narrow-minded people, who would shut up the human race upon this globe, as within some magic circle it must never outstep, we shall one day travel to the moon, the planets, and the stars, with the same facility, rapidity, and certainty as we now make the voyage from Liverpool to New York!',
+        'Jules Verne',
+    ],
+    '4ce89431-f0ca-533a-bd17-7630a84c711b' => [
+        'Each day can be one of triumph if you keep up your interests.',
+        'George Matthew Adams',
+    ],
+    '2c958ffc-4093-5b23-8c98-a8514b3420f2' => [
+        'I think Spain will always remain inspirational, and I think French cuisine will continue to be very French and yet very relevant with its time and keep evolving. But the last thing you want for it is to become too trendy and confusing. It has too much history.',
+        'Daniel Boulud',
+    ],
+    '76bdaf79-9d41-5b2b-98bc-78937edc0ce1' => [
+        'I never understand when people say, \'School days are the best of your life.\' So it\'s all downhill from 16? How depressing.',
+        'Marsha Thomason',
+    ],
+    '2d88de33-ad43-58c5-8ee3-37fc19d9014f' => [
+        'God always gives His best to those who leave the choice with him.',
+        'Jim Elliot',
+    ],
+    '33a5ae49-6b9c-50eb-8a99-ce61e244d555' => [
+        'Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?',
+        'Confucius',
+    ],
+    'd2d2d2b9-7c26-532b-bcad-4a770afa533c' => [
+        'If atomic bombs are to be added as new weapons to the arsenals of a warring world, or to the arsenals of nations preparing for war, then the time will come when mankind will curse the names of Los Alamos and of Hiroshima.',
+        'J. Robert Oppenheimer',
+    ],
+    'd75af839-60b3-5a1d-8696-ff7a90491dd8' => [
+        'To See What Is Right And Not Do It Is A Lack Of Courage.',
+        'Confucious',
+    ],
+    '0bdb3c51-9564-54ec-bbf3-a1b4b28533a3' => [
+        'Like most guys, I\'ve always liked watches. I can always check the time on my phone, but having a watch is so much better.',
+        'Andy Murray',
+    ],
+    'c840b248-48cd-5e5f-a34c-1cc6c3970d7b' => [
+        'Human nature is evil, and goodness is caused by intentional activity.',
+        'Xun Kuang',
+    ],
+    '4a822038-544b-553b-81de-c59369c94435' => [
+        'Hope... is the companion of power, and the mother of success; for who so hopes has within him the gift of miracles.',
+        'Samuel Smiles',
+    ],
+    'ac4ac276-52f2-55ae-9440-538bbf16b5ae' => [
+        'Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.',
+        'Ralph Blum',
+    ],
+    '09c56472-241f-5884-b6c1-064059050b89' => [
+        'The only time I get sick of making people laugh is when I\'m in a non-writing-joke mode, and I just can\'t seem to come up with anything new that\'s funny. That\'s a tough place to be as a comedian.',
+        'Bill Burr',
+    ],
+    '7e97ed13-038f-50f0-98d5-85575c0a7dca' => [
+        'Despite living in this post-9/11 age of transnational terrorism, the risk of death during air travel has plummeted to the point where we now measure it in the \'per billions\' of passengers.',
+        'Thomas P.M. Barnett',
+    ],
+    '68748ebb-b856-53de-975d-0a2c8ece3582' => [
+        'Everybody I know who is funny, it\'s in them. You can teach timing, or some people are able to tell a joke, though I don\'t like to tell jokes. But I think you have to be born with a sense of humor and a sense of timing.',
+        'Carol Burnett',
+    ],
+    '83a10832-518e-5a15-a059-b96870250de5' => [
+        'Your attitude towards failure determines your altitude after failure.',
         'John C. Maxwell',
     ],
-    'f9b3248b-60e8-5ef0-827a-e0c344620c16' => [
-        'If one way be better than another, that you may be sure is nature\'s way.',
-        'Aristotle',
+    '59c8ffc6-6403-519b-ad66-1a9c1429b197' => [
+        'I served at the Pentagon and at Fort Leavenworth - my job was video cameraman, and that allowed me to travel to places like Korea, Japan, Alaska, Germany and the Netherlands.',
+        'Chad Coleman',
     ],
-    '26282126-b98c-5fda-be43-c23d103d6ba5' => [
-        'What is pride? A rocket that emulates the stars.',
-        'William Wordsworth',
+    'bf6dff5c-4592-5aed-9f9e-aa46ba9faf27' => [
+        'Remember always that the composer\'s pen is still mightier than the bow of the violinist; in you lie all the possibilities of the creation of beauty.',
+        'John Philip Sousa',
     ],
-    '1b5074ea-d0c4-5228-bdcf-32834a582b85' => [
-        'Nature is often hidden, sometimes overcome, seldom extinguished.',
-        'Francis Bacon',
+    '2916827c-8b34-566d-8bf2-ea0d0acf0374' => [
+        'I love community, I love to be around other people. I love to be around other people when everyone\'s feeling good and doing their best. Not to just be the only one in the room that\'s shining.',
+        'Ava DuVernay',
     ],
-    '88a09337-7d6c-5876-a03f-cbfc174a42bc' => [
-        'All the trouble you will cause by not leaving a will. All the heartache! Family feuds are going to happen anyway, so be as clear as you can. And even if it\'s only to leave it to the cat\'s home, make a will.',
-        'Joanna Lumley',
+    '0474e843-38da-5a89-934c-44f9e549cdd0' => [
+        'Don\'t talk about what you have done or what you are going to do.',
+        'Thomas Jefferson',
     ],
-    'abe10697-e689-5635-941b-30afdda4a040' => [
-        'Fashion is quite inclusive and good at embracing different things and different forms of beauty. It\'s a very liberal industry. You can be yourself. Just not overweight.',
-        'Andrej Pejic',
+    '97a4a61a-9869-505c-8d6c-079d53b5c640' => [
+        'People need to be made more aware of the need to work at learning how to live because life is so quick and sometimes it goes away too quickly.',
+        'Andy Warhol',
     ],
-    'fc327c3c-f20b-5d33-bddd-af953debd2a7' => [
-        'It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.',
-        'Voltaire',
+    'f9f22947-10a9-5866-a818-f3f4f278608d' => [
+        'The family farm is the foundation for who we are as a Commonwealth. And for over a century, the family farm in Kentucky has centered around one crop: tobacco.',
+        'Jim Bunning',
     ],
-    'b9baf882-858e-5c62-a9d0-d91215997140' => [
-        'Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to.',
-        'Demi Lovato',
-    ],
-    '43a60a6f-87c8-547c-91df-cdf3afb55f4f' => [
-        'There have been times when I felt suicidal and I would stop my head from going in that direction of negativity because I thought there\'d be something I\'d miss that was funny in the future. If there\'s a chance I\'m going to laugh tomorrow then want to live to experience that.',
-        'Dave Navarro',
-    ],
-    'f8ef62de-1fb0-5186-bc73-3d58ade7eb77' => [
-        'You get more churches burned down in the United States in the last two years than in the last hundred, because of the lack of understanding of culture and diversity and the beauty of it.',
-        'Edward James Olmos',
-    ],
-    '650cc120-f0bb-5d4c-a82b-97708db5a28e' => [
-        'Success comes from knowing that you did your best to become the best that you are capable of becoming.',
-        'John Wooden',
-    ],
-    '7f920cc9-07b9-52bd-a1a7-f7dd06f349f9' => [
-        'I am thankful for all the blessings and talents I have been given, but most of all I am thankful for my loving and supportive family.',
-        'Olivia Holt',
-    ],
-    '3c9769f2-371c-5248-817f-976f8265402f' => [
-        'Most people treat the office manual the way they treat a software manual. They never look at it.',
-        'James Levine',
-    ],
-    '45fe9c99-1e96-5213-a98e-015921f4640f' => [
-        'We adore babies because they\'re so cute. And, of course, we are amused by jokes because they are funny. This is all backwards. It is. And Darwin shows us why.',
-        'Daniel Dennett',
-    ],
-    '5fd6166d-b6c6-53e8-9bdd-b34ad8528058' => [
-        'Spring won\'t let me stay in this house any longer! I must get out and breathe the air deeply again.',
-        'Gustav Mahler',
-    ],
-    'a50bc678-8d5f-5c14-97ca-ad8b0f251b7a' => [
-        'The present is a point just passed.',
-        'David Russell',
-    ],
-    '9a13e873-4b47-5da7-b7ea-25e87618474d' => [
-        'You grow up a bit damaged or broken then you have some success but you don\'t know how to feel good about the work you\'re doing or the life you\'re leading.',
-        'Johnny Depp',
-    ],
-    'cbf53053-3585-5e60-9020-17487f3e04b0' => [
-        'I was always just into my music and maybe into trying to save the world a little bit. I never really thought I\'d have a hit record or anything like that. I was prepared to travel around all over the country, kind of like a Johnny Appleseed, and sing.',
-        'Don McLean',
-    ],
-    '67d1bd8b-7174-5d82-849c-e6405227c09c' => [
-        'I\'m not a DJ, I don\'t know how to scratch and I don\'t know how to mix, but I do know how to party. One of my jobs is actually to travel the world and party.',
-        'Amber Rose',
-    ],
-    'ce4e7cfc-4fe5-5d85-a027-4d4833764fba' => [
-        'I think it\'s a very firm part of human nature that if you surround yourself with like-minded people, you\'ll end up thinking more extreme versions of what you thought before.',
-        'Cass Sunstein',
-    ],
-    '662174b4-9000-56cf-a249-41fbc6193911' => [
-        'Humans have a light side and a dark side, and it\'s up to us to choose which way we\'re going to live our lives. Even if you start out on the dark side, it doesn\'t mean you have to continue your journey that way. You always have time to turn it around.',
-        'Taraji P. Henson',
-    ],
-    'b7fa3f10-4fd5-5ecd-84f5-046b2eaae11b' => [
-        'There\'s nothing better than people talking to each other, sharing best practices, and opening up communications.',
-        'Dan Gilbert',
-    ],
-    '0b9eedae-1160-518c-bfc5-daf79669569e' => [
-        'There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things.',
-        'Niccolo Machiavelli',
-    ],
-    'fe438b98-1063-5541-9773-c6e6825dac18' => [
-        'From my earliest acquaintance with the science of political economy, it has been evident to my mind that capital was the product of labor, and that therefore, in its best analysis there could be no natural conflict between capital and labor.',
-        'Leland Stanford',
+    '46768a59-c4e8-54cc-955e-02080678de15' => [
+        'Life can only be understood backwards; but it must be lived forwards.',
+        'William Hazlitt',
     ],
 ];

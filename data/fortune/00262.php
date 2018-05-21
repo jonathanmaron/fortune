@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '11469250-74f1-5748-932a-11220c7d2228' => [
-        'Without deep reflection one knows from daily life that one exists for other people.',
-        'Henry David Thoreau',
-    ],
-    '1e18915b-14be-5754-a071-1563afbbb38d' => [
-        'Let yourself be silently drawn by the stronger pull of what you really love.',
-        'Rumi',
-    ],
-    'd07ed0ad-5788-5252-8bc6-490375a0a662' => [
-        'If it weren\'t for Philo T. Farnsworth, inventor of television, we\'d still be eating frozen radio dinners.',
-        'Johnny Carson',
-    ],
-    'dd7b2fb5-3d5b-5ea3-9fd1-161034f6b731' => [
-        'It is amazing how complete is the delusion that beauty is goodness.',
-        'Leo Tolstoy',
-    ],
-    '3b9135f5-847c-5893-b840-66b800ebac72' => [
-        'I\'m lucky in having found the perfect partner to spend my life with.',
-        'Henry Drummond',
-    ],
-    '722b9c9b-8db2-52b3-9873-65d74891f086' => [
-        'I define nothing. Not beauty, not patriotism. I take each thing as it is, without prior rules about what it should be.',
-        'Bob Dylan',
-    ],
-    '6774cc7d-560b-56a2-b7ec-6717fa83a774' => [
-        'We need time to defuse, to contemplate. Just as in sleep our brains relax and give us dreams, so at some time in the day we need to disconnect, reconnect, and look around us.',
-        'Laurie Colwin',
-    ],
-    '772b4d6d-55c2-5f38-bf5c-d034fc6ff96e' => [
-        'The best vision is insight.',
-        'Malcolm Forbes',
-    ],
-    'ddf4c447-4d59-507e-9c4d-0e1bb99d16cf' => [
-        'Divorce is a time of change. It really rocks a foundation of most people\'s lives. When we have our heart broken or our dreams taken away from us, it is a time of growth and change.',
-        'Debbie Ford',
-    ],
-    '606c53c8-2321-5f75-b622-162123f01e37' => [
-        'Juvenile crime is not naturally born in the boy, but is largely due either to the spirit of adventure that is in him, to his own stupidity, or to his lack of discipline, according to the nature of the individual.',
-        'Robert Baden-Powell',
-    ],
-    '424b0df5-afd4-5e3d-9bde-3e957e148175' => [
-        'It\'s not too good to have this attitude in F1. It could be a disadvantage.',
-        'Alain Prost',
-    ],
-    'bb62813f-696c-5663-b7b7-11c5742b6693' => [
-        'Forgiveness is choosing to love. It is the first skill of self-giving love.',
-        'Mohandas Gandhi',
-    ],
-    'f9577324-e626-5009-a541-5a900a0cb58f' => [
-        'Conservation is key to preserving many of the world\'s natural beauty spots, so do your best to help by keeping to designated footpaths and being a discerning souvenir collector.',
-        'Sheherazade Goldsmith',
-    ],
-    'a0e5c3b1-c504-547e-92da-78b29f399eb1' => [
-        'The secret to success is good leadership, and good leadership is all about making the lives of your team members or workers better.',
-        'Tony Dungy',
-    ],
-    '1fb0134b-c368-51a8-ba1a-c260a8650008' => [
-        'Imagination will often carry us to worlds that never were. But without it we go nowhere.',
-        'Carl Sagan',
-    ],
-    '7d257c75-7200-5d1d-8d1c-4233647b8293' => [
-        'I think I am a travel junkie, and I have never enjoyed anything else in my life more than travelling and going to places.',
-        'Imtiaz Ali',
-    ],
-    'd368fcb7-1081-53a6-953f-0150ed65fd5d' => [
-        'Even in modern art, artists have used methods based on calculation, inasmuch as these elements, alongside those of a more personal and emotional nature, give balance and harmony to any work of art.',
-        'Max Bill',
-    ],
-    '6153b6d3-b720-52b6-ac2a-95e1f4613c12' => [
-        'No rational argument will have a rational effect on a man who does not want to adopt a rational attitude.',
-        'Karl Popper',
-    ],
-    '079599a3-2ce9-5a43-b3df-f8fa08bafffc' => [
-        'The artist is not responsible to any one. His social role is asocial... his only responsibility consists in an attitude to the work he does.',
-        'Georg Baselitz',
-    ],
-    '5aa515b4-475a-5e1e-89f5-cc1669c8cd80' => [
-        'I want to thank you for taking time out of your day to come and witness my hanging.',
-        'George W. Bush',
-    ],
-    '1936b8ec-ffc1-5180-b4ef-f8edf5e713e9' => [
-        'The one thing that makes me feel super lucky about my financial success is that I have a housekeeper.',
-        'Gwen Stefani',
-    ],
-    '8629bf68-86be-5c6e-af9c-5c93504d99b4' => [
-        'I\'m going to do as much as I can with this life, and then I\'m going to make sure to take some time off and be simple and ride my bike and hang out with friends.',
-        'Jill Scott',
-    ],
-    '59b03dea-ce22-5ea1-ab17-c845b29537a5' => [
-        'I\'ve learned to start from a really sound argument, boil down the essence of what you\'re trying to say, then build your humor around that, rather than starting with, \'This sounds funny,\' and going from there.',
-        'Hasan Minhaj',
-    ],
-    'eb7d85d8-4f0b-5353-bd2b-47d01dc193a9' => [
-        'Not to sound corny, but intelligence is big. Everything fades, and everything can be modified. But intelligence is something you can\'t fake. I\'m not even talking about whether you can read a thesaurus backwards. But there is a beauty in common sense.',
-        'Wale',
-    ],
-    '84cbb7a9-4885-5126-81d8-55ef5f47c4dc' => [
-        'We are so obsessed with doing that we have no time and no imagination left for being. As a result, men are valued not for what they are but for what they do or what they have - for their usefulness.',
-        'Thomas Merton',
-    ],
-    '90d10f1a-9a70-5d35-bcb8-1e63c4229e5d' => [
-        'I call myself the Amusement Park. That\'s because I\'m funny and scary at the same time.',
-        'Terry Crews',
-    ],
-    '3fff2276-7731-5a1b-88de-20da2e923003' => [
-        'You can\'t go back and make a brand new start. But, you can start now and make a brand new ending.',
-        'Anonymous',
-    ],
-    '984b515a-b408-5f44-bf19-fe634574f56c' => [
-        'There are two ways to worry words. One is hoping for the greatest possible beauty in what is created. The other is to tell the truth.',
-        'June Jordan',
-    ],
-    'b37983ca-80a5-5a32-bd01-d15ee54466e3' => [
-        'It is not the language of painters but the language of nature which one should listen to, the feeling for the things themselves, for reality is more important than the feeling for pictures.',
-        'Vincent Van Gogh',
-    ],
-    '57122a50-908e-5be1-9886-b2907b9e7916' => [
-        'Falling in love is the best way to kill your heart because then it\'s not yours anymore. It\'s laid in a coffin, waiting to be cremated.',
-        'Ville Valo',
-    ],
-    '9ae5a209-ca70-5871-ab35-5512738d7012' => [
-        'The more you travel, the more well-off you\'ll be, I think.',
-        'RJ Mitte',
-    ],
-    '430f5bf8-785f-5020-9fd8-293e958b4379' => [
-        'When life gives you Monday, dip it in glitter and sparkle all day.',
-        'Friedrich Nietzsche',
-    ],
-    'b67b92c6-b343-5669-9a21-99f93516d4f6' => [
-        'But theater, because of its nature, both text, images, multimedia effects, has a wider base of communication with an audience. That\'s why I call it the most social of the various art forms.',
-        'Wole Soyinka',
-    ],
-    '8b2f39a3-b11c-5751-a92b-b7ef5c4b3e4e' => [
-        'When you grow up by the sea, you spend a good deal of time looking at the horizon. You wonder what on Earth the waves might bring - and where the sea might deposit you - until one day you know you have lived between two places, the scene of arrival and the point of departure.',
-        'Andrew O\'Hagan',
-    ],
-    '58793a5f-7672-5356-a755-c2c6a49cb95b' => [
-        'Humor has become so cliche and boring that nothing\'s funny anymore unless it involves something totally disgusting that offends somebody or makes them feel really uncomfortable.',
-        'Tom DeLonge',
-    ],
-    'f22e17f7-abbe-58fd-9c1a-f94dd7d618f2' => [
-        '\'Try Again\' - every time I hear that song, it just brings a smile to your face. When you\'re feeling like crap, and you hear, \'Dust yourself off and try again,\' it kind of just puts you in a different mindset, 100 percent.',
-        'Alexandra Shipp',
-    ],
-    '1bf5343a-5de4-5874-b0d2-a1bebfb28907' => [
-        'Authenticity is everything! You have to wake up every day and look in the mirror, and you want to be proud of the person who\'s looking back at you. And you can only do that if you\'re being honest with yourself and being a person of high character. You have an opportunity every single day to write that story of your life.',
-        'John Donne',
-    ],
-    '7a200000-4dff-5268-9397-bfd3ce296cd3' => [
-        'The desire to fly is an idea handed down to us by our ancestors who... looked enviously on the birds soaring freely through space... on the infinite highway of the air.',
-        'Wilbur Wright',
-    ],
-    'c0714f46-8a50-50fd-a39f-b560197f0a8c' => [
-        'I find that when you have a real interest in life and a curious life, that sleep is not the most important thing.',
-        'Martha Stewart',
-    ],
-    'b543ccf6-ba38-51c2-909a-c134f3446217' => [
-        'Singing is my passion and I always wanted to travel the country.',
-        'Thia Megia',
-    ],
-    '4e5db875-4535-56e5-a3c4-323ee2dd87d7' => [
-        'It\'s funny: when people always talk about the importance of role models, I used to think that was so exaggerated, but as I get older, I start to realize I don\'t feel that way so much anymore. If you see somebody like you who\'s doing something, an older version of what you are, it does make you feel like it\'s more possible.',
-        'Demetri Martin',
-    ],
-    'ac9d6b94-7048-5bb5-9071-90d1495312e3' => [
-        'I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.',
-        'Ranbir Kapoor',
-    ],
-    'c637ddea-9ad7-5d8e-8f06-90ca1c849177' => [
-        'Courage is knowing what not to fear.',
-        'Plato',
-    ],
-    'd0bfa49e-2fbe-59f8-86a7-f19f60668a10' => [
-        'I love to prune my roses. That\'s the one thing I really feel I do pretty well. Other things I usually, because I travel so much, leave to my gardeners who know what I love. But I do love to prune them, because you forget everything else. It\'s like if you\'re a painter, you can forget everything else while you\'re doing it.',
-        'Julie Andrews',
-    ],
-    'fff3d858-f642-56c7-abd4-b29d5a026326' => [
-        'Lord knows, every day is not a success, every year is not a success. You have to celebrate the good.',
-        'Reese Witherspoon',
-    ],
-    'a9677f1f-ba97-5978-8742-a4fc69204065' => [
-        'I think ultimately I make people happy: Whether I\'m doing the stage show, giving somebody a makeover, or designing clothing, the end goal is to make people smile.',
-        'Carson Kressley',
-    ],
-    '11f601cb-2c6e-5a60-a558-31dd7e20c356' => [
-        'The superior man is satisfied and composed; the mean man is always full of distress.',
+    '8adf4797-dea1-55c9-b145-51db42590d5c' => [
+        'The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.',
         'Confucius',
     ],
-    'ea705eb8-dba6-58d3-adb2-b7b8e5dd51c8' => [
-        'Opportunity often comes disguised in the form of misfortune, or temporary defeat.',
-        'Napoleon Hill',
+    'db250b56-f30e-5f1c-804d-09f762e60b6f' => [
+        'Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.',
+        'Babatunde Olatunji',
     ],
-    '870e6550-0976-55e2-9f79-a5fca4793a61' => [
-        'A rejection is nothing more than a necessary step in the pursuit of success.',
-        'Bo Bennett',
+    'e145a317-d630-5d8b-b247-150c228cfd87' => [
+        '...but if a thing is humanly possible, consider it to be within your reach.',
+        'Marcus Aurelius',
     ],
-    'a0fddbf7-1b64-513b-a574-b20697ce9a1c' => [
-        'I have a wonderful shelter, which is my family. I have a wonderful relationship with my brother and sister; this makes me feel that I know always where I belong.',
-        'Jose Carreras',
+    '9d3de392-627e-5754-90cb-500389308156' => [
+        'Regard every suggestion that your life may be a failure, that you are not made like those who succeed, and that success is not for you, as a traitor, and expel it from your mind as you would a thief from your house.',
+        'Orison Swett Marden',
+    ],
+    'c7fc7681-be26-5183-95ff-e2c917c35001' => [
+        'I\'ve never been married, but I tell people I\'m divorced so they won\'t think something is wrong with me.',
+        'Elayne Boosler',
+    ],
+    'b17f8982-446a-59b7-a3e9-7680b6b9749e' => [
+        'Being yourself is one of the hardest things because it\'s scary. You always wonder whether you\'ll be accepted for who you really are. I decided to call my record \'Inside Out\' because that\'s my motto about life. I don\'t think you ever succeed at trying to be anyone else but who you truly are.',
+        'Iris Murdoch',
+    ],
+    'a91139c6-bc33-5fd2-9fcc-965e5a6af681' => [
+        'In Einstein\'s equation, time is a river. It speeds up, meanders, and slows down. The new wrinkle is that it can have whirlpools and fork into two rivers. So, if the river of time can be bent into a pretzel, create whirlpools and fork into two rivers, then time travel cannot be ruled out.',
+        'Michio Kaku',
+    ],
+    '1d72ceb3-18ca-5fbc-ada5-ac45b0081d27' => [
+        'My mother taught me to be honest, to be selfless, and to touch people in a positive way.',
+        'Scott Eastwood',
+    ],
+    '6fcde010-e12e-59de-8d4f-68ff71f4ef15' => [
+        'I never had a policy; I have just tried to do my very best each and every day.',
+        'Abraham Lincoln',
+    ],
+    '27b0bcc8-5b78-5843-bd1a-8808aabf2920' => [
+        'I had hoped when my life was chronicled, it would be an inspirational story.',
+        'Om Puri',
+    ],
+    'bc98a3fa-9a65-5385-bc16-5daa120e2003' => [
+        'Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.',
+        'Henry Van Dyke',
+    ],
+    '61b6e1b1-78f7-5ccf-b9d4-3276cb1f9af1' => [
+        'Open your eyes, look within. Are you satisfied with the life you\'re living?',
+        'Martin Luther King, Jr.',
+    ],
+    '862ff6e3-d6f7-5431-a062-29257ac382bf' => [
+        'In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don\'t try to control. In work, do what you enjoy. In family life, be completely present.',
+        'Lao Tzu',
+    ],
+    'f70d3b15-924b-5f66-8168-6ac403761d41' => [
+        'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.',
+        'Elayne Boosler',
+    ],
+    '6094ff06-e229-5a67-b710-9089a1cac6fa' => [
+        'To the artist there is never anything ugly in nature.',
+        'Auguste Rodin',
+    ],
+    'ee4dff51-9e3f-52b9-86d5-65b37b310b15' => [
+        'Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not.',
+        'Galileo Galilei',
+    ],
+    'a4dad036-8457-5409-8ed5-1f3ad912b3eb' => [
+        'A place for everything, everything in its place.',
+        'Benjamin Franklin',
+    ],
+    '2a2166c1-4427-5bf9-bd4a-d81edd8f2827' => [
+        'My attitude is, a monument, a statue, ought to signify unity instead of division.',
+        'Bill Nelson',
+    ],
+    '20715c92-d683-5776-a2fe-568e2ddd0658' => [
+        'Air travel is the safest form of travel aside from walking; even then, the chances of being hit by a public bus at 30,000 feet are remarkably slim. I also have no problem with confined spaces. Or heights. What I am afraid of is speed.',
+        'Sloane Crosley',
+    ],
+    '38b3e7b4-9f19-574d-ad4a-1e56ea3c1664' => [
+        'I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.',
+        'Buddha',
+    ],
+    '6070f867-2bf4-549f-a921-4a7f1131b731' => [
+        'Music is the mediator between the spiritual and the sensual life.',
+        'Jack Canfield',
+    ],
+    '11e4d23c-8127-5397-8c3a-85f68529c308' => [
+        'All nature is but art unknown to thee.',
+        'Alexander Pope',
+    ],
+    'b63b707e-06cc-5a1a-a6ce-1b8832ab2a96' => [
+        'The last couple relationships I had were long distance. It\'s not like I can make much of an effort to travel and see anybody. The guy had to do all the work, unfortunately.',
+        'Holly Madison',
+    ],
+    'c8f46e7c-4105-5bcb-b785-11d9ddc9e40f' => [
+        'Friends are the best to turn to when you\'re having a rough day.',
+        'Justin Bieber',
+    ],
+    '8f8088d4-13a1-5b75-82d4-4c5cadf6aeaa' => [
+        'Life is one big road with lots of signs. So when you riding through the ruts, don\'t complicate your mind. Flee from hate, mischief and jealousy. Don\'t bury your thoughts, put your vision to reality. Wake Up and Live!',
+        'Woodrow Wilson',
+    ],
+    'baa47ece-ee8c-5e7f-8387-f7b4f75ea2f6' => [
+        'Evening is a time of real experimentation. You never want to look the same way.',
+        'Donna Karan',
+    ],
+    'd33e3bb8-9586-5c35-b913-ecc8705f2dec' => [
+        'Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.',
+        'Winston Churchill',
+    ],
+    '5055c99e-a8c8-528b-9fd3-b7f8aa4c1d1e' => [
+        'For the record, our democracy is revered around the world. And free elections are the best way on Earth to choose our leaders. This is how we elected John F. Kennedy; Ronald Reagan; two George Bushes; Bill Clinton; and Barack Obama. It has worked for decades.',
+        'Michelle Obama',
+    ],
+    'd2e6cdc2-f19c-508b-805a-285329f4553c' => [
+        'To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.',
+        'Buddha',
+    ],
+    '696170be-9fa7-517b-9934-9426521be574' => [
+        'Sometimes my mistake has been hesitancy about acting on the decisions I\'ve made. When\'s the best time to invest? It\'s today, not tomorrow.',
+        'Charles Schwab',
+    ],
+    '322693e2-614a-5d2a-be82-ff5232c8912c' => [
+        'I thought, \'It doesn\'t matter what that woman is wearing,\' but then I realised actually it\'s our job as designers to make women smile; to bring them the chocolate without the calories.',
+        'Alber Elbaz',
+    ],
+    '335246a3-63bb-58bd-b7fb-95174fef3600' => [
+        'The art of life is to know how to enjoy a little and to endure very much.',
+        'Nikola Tesla',
+    ],
+    '8a7b24be-9cab-534b-87c3-798419ae0f19' => [
+        'Love and compassion open our own inner life, reducing stress, distrust and loneliness.',
+        'Dalai Lama',
+    ],
+    '4c671d62-9b23-50f6-babb-853c1d4bc7c3' => [
+        'I\'m coming to this world not to work. I want to come to this world to enjoy my life. I don\'t want to die in my office. I want to die on the beaches.',
+        'Jack Ma',
+    ],
+    '96a06214-f215-533a-8922-8481adb5f707' => [
+        'America, you\'re sending girls a mixed message. On one hand, you\'re saying to have positive body image and love who we are; on the other, we\'re being marketed makeup and clothing that obviously turns us into someone different.',
+        'Adora Svitak',
+    ],
+    '67b92d5e-f542-58a1-a778-ac7de0f946f3' => [
+        'There\'s inevitably something missing when you grow up in this kind of an environment when your parents travel a lot. When your father is famous, you are looked at and expected of. There are standards you need to meet.',
+        'Natalie Cole',
+    ],
+    '945ed9d9-a208-5750-b4ab-5bf84071ef9b' => [
+        'Good things happen to those who hustle.',
+        'Anais Nin',
+    ],
+    'e9408b3d-5e50-5bec-8351-9cce7368f6a8' => [
+        'One of the things that\'s unique about Louisiana politics is that people here have a much more realistic attitude about who their politicians are. They know they are human and not saints or Mormons or Eagle Scouts.',
+        'Mark Frost',
+    ],
+    '559760fc-0987-5603-8feb-43da8bd2f63b' => [
+        'Turkey wants a policy of engagement exactly like President Obama\'s new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.',
+        'Ahmet Davutoglu',
+    ],
+    '46aad356-45aa-5088-90c5-51bc5e0cdf51' => [
+        'For American foreign aid to become more effective, it must embrace the power of partnerships, access the transformative nature of free enterprise, and leverage the abundant resources that can come from the private sector.',
+        'Mitt Romney',
+    ],
+    'a466c56b-b84c-5015-bbb3-eefe16eb4e16' => [
+        'The work environment is very important in determining how enjoyable work is. It is very important to work with smart guys who have a superior level of intellectual bandwidth and still have softer skills as well.',
+        'Kumar Mangalam Birla',
+    ],
+    '5571223f-2a7d-574c-898d-7c8e0e8e7a7e' => [
+        'The dog that trots about finds a bone.',
+        'Golda Meir',
+    ],
+    'a573b786-e8ca-5dca-9f4b-82708a1a17e5' => [
+        'Nature is something outside our body, but the mind is within us.',
+        'Bhumibol Adulyadej',
+    ],
+    '2044b3e7-8109-5632-9e65-691659a75d35' => [
+        'Golf is deceptively simple and endlessly complicated; it satisfies the soul and frustrates the intellect. It is at the same time rewarding and maddening - and it is without a doubt the greatest game mankind has ever invented.',
+        'Arnold Palmer',
+    ],
+    '9ad0be84-3bb8-5d8f-a2ea-524d68869cb3' => [
+        'Live your beliefs and you can turn the world around.',
+        'Henry David Thoreau',
+    ],
+    'd680d8f5-c06e-57b7-87a8-8c35292c3a86' => [
+        'To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.',
+        'Mahummad Ali',
+    ],
+    '755ef5a5-9610-5d85-8ae9-136783f32152' => [
+        'You see some of these actors, they have a permanent smile on their face. How can they do that? It really fascinates me.',
+        'Agnes Bruckner',
+    ],
+    '2d768799-a55c-5d7f-9d0d-fb99d2b682a5' => [
+        'Perhaps nature is our best assurance of immortality.',
+        'Eleanor Roosevelt',
+    ],
+    '335f3928-6390-5dc9-84dd-3e6148288d83' => [
+        'How one handles success or failure is determined by their early childhood.',
+        'Harold Ramis',
+    ],
+    '2627c210-e793-530c-8151-27f56e1bf34c' => [
+        'Knock the \'t\' off the \'can\'t\'',
+        'George Reeves',
     ],
 ];

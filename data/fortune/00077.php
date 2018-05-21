@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '302a5337-466e-5c17-9cd9-50b524e9ef34' => [
-        'I\'d like to think the best of me was still hiding up in my sleeve.',
-        'John Mayer',
+    'a1eb6132-dd5f-5f10-9bf0-2e2275785c00' => [
+        'I became a librarian at the Sainte-Genevieve Library in Paris. I made this gesture to rid myself of a certain milieu, a certain attitude, to have a clean conscience, but also to make a living. I was twenty-five. I had been told that one must make a living, and I believed it.',
+        'Marcel Duchamp',
     ],
-    'ab14602e-dce2-5b3f-9e73-ad691a458d47' => [
-        'A jug fills drop by drop.',
-        'Buddha',
+    'a45dc423-6795-5e5b-ad51-357b591f9d5d' => [
+        'In Chicago, you have an absence of strong family units, and that absence gets filled by gangs. You have a failure in the school system, after-school programs and other social programs to help keep kids off the streets. Amnesty International speaks to that in some way, by keeping these issues in the forefront.',
+        'Lupe Fiasco',
     ],
-    '7c53c521-902e-59d4-be5e-a13ee38eaf9e' => [
-        'I have wandered all my life, and I have also traveled; the difference between the two being this, that we wander for distraction, but we travel for fulfillment.',
-        'Hilaire Belloc',
+    '3960b6b6-b1a2-51e1-94cc-cf37c4ac8f60' => [
+        'Don\'t Let Yesterday Take Up Too Much Of Today.',
+        'Will Rogers',
     ],
-    'cebdd381-cdc2-5c44-bc5f-4d6a1fe25fd4' => [
-        'Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.',
-        'Richard Bach',
+    'e5c3b099-714e-57fb-8ce9-b4b658cc4d5a' => [
+        'Fame usually comes to those who are thinking about something else.',
+        'Holmes',
     ],
-    '44689189-7c60-5622-a121-9f7a6c79034a' => [
-        'The world\'s biggest power is the youth and beauty of a woman.',
-        'Chanakya',
+    '557a3ca2-5fef-5225-a282-38b86345d500' => [
+        'My wish is to be known only thru my work.',
+        'Dorothea Dix',
     ],
-    'fe715dde-e057-5776-8441-69fd9df21da5' => [
-        'I\'m fascinated with the stories that we tell. Real histories become fantasies and fairy tales, morality tales and fables. There\'s something interesting and funny and perverse about the way fairytale sometimes passes for history, for truth.',
-        'Kara Walker',
+    'eb4d009f-4dfa-594a-82d9-029def7d9654' => [
+        'There was a great complexity to my father. He was a devoted family man. But, in the same breath, he simply was not suited to an anchored life. He should have been somebody who had a backpack, an old map, a bit of change in his pocket and that was it - roaming the world.',
+        'Christian Bale',
     ],
-    'cd091d6e-b014-53f0-9496-e3df0cf13b9e' => [
-        'If nothing else, the act of reaching a milestone often serves to reveal a superstar\'s true nature.',
-        'Stephen Rodrick',
+    '9ecaeb9e-5d0d-53e1-8909-9c59688c2f1f' => [
+        'Poets say science takes away from the beauty of the stars - mere globs of gas atoms. I, too, can see the stars on a desert night, and feel them. But do I see less or more?',
+        'Richard P. Feynman',
     ],
-    '15743657-4155-5339-b8c8-93125ed528f3' => [
-        'My life motto is \'Do my best, so that I can\'t blame myself for anything.\'',
-        'W. Clement Stone',
+    'af9c0442-6f22-5a75-8a79-7096a3737f11' => [
+        'I do engage veterans. I meet with the veterans\' service organizations monthly. It\'s a direct, no-holds-barred discussion. I travel to their conventions, where I speak to the veterans membership. I do travel. I\'ve been to all 50 states. When I do, I engage veterans locally. So I get direct feedback from those veterans.',
+        'Eric Shinseki',
     ],
-    'ad8310d9-fad0-5104-a57e-87ccc3a1255b' => [
-        'I\'ll paddle board, swim in the ocean, roll in the sand, soak up the sun, eat good food, be with friends and family and go fishing with my dad.',
-        'Behati Prinsloo',
+    '6613ec03-97b3-5363-98ca-b4ac64348086' => [
+        'To me, success is choice and opportunity.',
+        'Harrison Ford',
     ],
-    'a4df8197-dee0-508f-9018-70e9e87b1f05' => [
-        'For me, nothing has ever taken precedence over being a mother and having a family and a home.',
-        'Jessica Lange',
+    '7eb93f8a-2750-5ecb-ac25-1def1ee027b2' => [
+        'People deal too much with the negative, with what is wrong. Why not try and see positive things, to just touch those things and make them bloom?',
+        'Nhat Hanh',
     ],
-    '11af919e-03ca-52ad-9f25-33e8e2249891' => [
-        'In preschool, I would plan out my show-and-tell every week to be funny and exciting. Then in first grade I wrote a play, and my classmates and I performed it as a puppet show.',
-        'Maxim Knight',
+    'cfcead0a-1db3-5a45-a599-8f18ebd48edc' => [
+        'Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.',
+        'Arthur Conan Doyle',
     ],
-    'b8a3b05d-ec61-504c-b51d-b98d2ebda6a8' => [
-        'I don\'t believe in an outside agent that creates the world, then walks away. But I feel very strongly there is an intelligence at work in every flower, in every blade of grass, in every cell of my body. And it is that intelligence that, I wouldn\'t say created the universe. It is creating the universe. It\'s an ongoing process.',
-        'Eckhart Tolle',
+    'd1294034-56ef-562b-b629-131e7056bc9a' => [
+        'The duty of man is the same in respect to his own nature as in respect to the nature of all other things, namely not to follow it but to amend it.',
+        'John Stuart Mill',
     ],
-    'c7580fc3-434f-57df-8432-71bc53af9587' => [
-        'My scientific studies have afforded me great gratification; and I am convinced that it will not be long before the whole world acknowledges the results of my work.',
-        'Gregor Mendel',
+    'a1e8d53a-7ef6-5b4c-b98a-f5e04da3eea0' => [
+        'Nothing is softer or more flexible than water, yet nothing can resist it.',
+        'Lao Tzu',
     ],
-    'f0e0a0f0-b9ba-55e2-8264-f17e8e80a7c1' => [
-        'Time = Life, Therefore, waste your time and waste of your life, or master your time and master your life.',
-        'Alan Lakein',
+    '7803a3eb-b2a1-5650-9042-0f2ce778682d' => [
+        'Doing Shakespeare once is not fair to the play. I have been in Shakespeare plays when it\'s not until the last two or three performances when I even understand certain things. In the old days star actors would travel the world doing the same parts over and over again.',
+        'Al Pacino',
     ],
-    'df8feb16-01d1-549d-9227-f1b9d84f6d5e' => [
-        'We will all be gone one day. Not as a negative thing - as a positive thing, too, you know, and we should leave something behind ourselves.',
-        'Irina Shayk',
+    '91fba37c-fa5c-5067-9dce-2446b6385c19' => [
+        'I\'ve been lucky enough that I can gather all sorts of experiences and find inspiration by traveling around and by spending time with people I admire.',
+        'Bonnie Raitt',
     ],
-    '23f872d3-dacc-5f7c-8483-26a658434614' => [
-        'Nothing in life is to be feared. It is only to be understood.',
-        'Marie Curie',
+    '979806d1-53ad-51e1-91de-e84e01902899' => [
+        'The heart has eyes which the brain knows nothing of.',
+        'Charles Perkhurst',
     ],
-    '139eb0d3-e1d2-5971-aff9-962d9712f217' => [
-        'I\'ve been very lucky to work on a wide variety of projects, including two long-run and top-10 dramatic television shows. That is why it is so important to offer a helping hand to the next generation of young Latinos coming up behind me.',
-        'Jimmy Smits',
+    '92ef15c1-1b8b-5a63-9148-a52ded6d04e7' => [
+        'What we achieve inwardly will change outer reality.',
+        'Plutarch',
     ],
-    'c1c89b50-cb03-5a52-bc08-187204a6bde9' => [
-        'Family\'s first, and that\'s what matters most. We realize that our love goes deeper than the tennis game.',
-        'Serena Williams',
+    '9c141830-ea52-5906-b7bd-324732a9d933' => [
+        'I\'m a motivational speaker.',
+        'Young Jeezy',
     ],
-    '8521e86b-221e-5486-8a86-25efb3456857' => [
-        'The best place to find a helping hand is at the end of your own arm.',
-        'Unknown',
+    'd4bd34fc-1a1e-54ba-87c9-8331d70e01f9' => [
+        'Without football, my life is worth nothing.',
+        'Lord Byron',
     ],
-    'ef7514f0-effd-5f0f-991f-bf2eb6000b40' => [
-        'The future belongs to those who believe in the beauty of their dreams.',
-        'Eleanor Roosevelt',
+    'f5c4ac75-c76e-5cff-8adf-a93ab890d503' => [
+        'The man who has done his best has done everything.',
+        'Charles M. Schwab',
     ],
-    'ce0da8f6-f414-589f-8206-9d5a93fcc1a4' => [
-        'You can hold yourself back from the sufferings of the world, that is something you are free to do and it accords with your nature, but perhaps this very holding back is the one suffering you could avoid.',
-        'Franz Kafka',
+    'ad669f64-c928-54e8-a518-57bf5f449b20' => [
+        'You cannot step twice into the same river, for other waters are continually flowing in.',
+        'Heraclitus',
     ],
-    '8fcdd85c-dea5-58c2-a440-d5da07c12481' => [
-        'To have success in your professional life is not so hard. To succeed as a man is more difficult.',
-        'Yann Arthus-Bertrand',
+    '4fc5addd-39e4-55d6-aa30-ad8f20bf9f5d' => [
+        'We are living in a culture where we are so led by the visual, and what is promoted in the media, that the attitude becomes, \'I don\'t have to go through normalcy in life - I can look for exemptions. And I expect them, and when I look for them and they are not there, I am angry.\'',
+        'Ben Harney',
     ],
-    '3f2f1c95-f46c-5abb-95af-131f3df7eabe' => [
-        'I had ordered long legs, but they never arrived. My eyes are weird too, one is gray and the other is green. I have a crooked smile and my nose looks like a ski slope. No, I would not win a Miss contest.',
-        'Jane Seymour',
+    'daa72b88-65c7-579c-b3db-134ab5e063cf' => [
+        'Beauty is the first present nature gives to women and the first it takes away.',
+        'Fay Weldon',
     ],
-    '4703a956-2352-5202-a6cb-3f9827736e75' => [
-        'Life will always be to a large extent what we ourselves make it.',
-        'Katherine Jenkins',
+    '6fe69334-628f-5d9d-9a91-3a3b5a07c5a4' => [
+        'I remember early on, in my very, very early days, I had a makeup artist tell me that I needed to get an attitude. I had no idea what he was talking about.',
+        'Andie MacDowell',
     ],
-    'c22f196b-011e-568d-b475-ee12b3786d5b' => [
-        'I\'ve a great family, two children to take care of. Then, of course, I do commentary for TV. I do speak about various women\'s issues around the world - like LGBT, motivational speeches. I have a lot on my plate right now. But eventually, yes, I would like to pass on the knowledge and something that I would like to do.',
-        'Martina Navratilova',
+    'a97266e4-ed25-5a2b-a4e3-ee2200b2aa1f' => [
+        'He who is fixed to a star does not change his mind.',
+        'Leonardo da Vinci',
     ],
-    '697555b8-e9e6-5f44-b81c-cedfa2da721a' => [
-        'There are people in every time and every land who want to stop history in its tracks. They fear the future, mistrust the present, and invoke the security of a comfortable past which, in fact, never existed.',
-        'Robert Kennedy',
+    '809541d8-f946-507b-b252-516636d1fbc5' => [
+        'Work, look for peace and calm in work: you will find it nowhere else.',
+        'Dmitri Mendeleev',
     ],
-    '88c03197-2f8b-5385-91c0-746d7e8c2117' => [
-        'I think every girl needs to love herself, regardless of anything. Like if you\'re having a bad day, if you don\'t like your hair, if you don\'t have the best family situation, whatever, you have to love yourself and you can\'t do anything until you love yourself first.',
-        'Julianne Hough',
+    'fb56ecde-de5d-5d2e-af7c-c51fa2be23bf' => [
+        'While human space travel is daunting, machines - with their indefinitely long lifetimes - could travel the galaxy. It might make little difference to them that bridging the distance from one star to the next could take hundreds of thousands of years or more.',
+        'Seth Shostak',
     ],
-    '67d32030-ffbb-5d3c-8630-ab5af66b6596' => [
-        'Looking good is the best revenge.',
-        'Ivana Trump',
+    '551a5b7f-bc34-5faa-988c-c0e92c0fe529' => [
+        'I love a lot of the New York bands, but Patti Smith stands out. I just read \'Just Kids\' and it\'s an inspirational, well-written account of an emerging New York artist in the late seventies.',
+        'James Iha',
     ],
-    'f30b5f4d-72f2-5747-861a-c0df554b8a36' => [
-        'My view is there\'s no bad time to innovate.',
-        'Jeff Bezos',
+    '8d6d8b52-d7d0-5c65-a813-fe1e895444fa' => [
+        'I loved my mom so much because she had to work on a penny just to put food on the table... During the Depression in the United States, everybody had a tough time. And I was so hurt because she was crying that she didn\'t have any food for us for Thanksgiving.',
+        'Tony Bennett',
     ],
-    'e24ad7a3-9959-5ec9-9a4f-b2b929bd761a' => [
-        'The value of life is not in its duration, but in its donation. You are not important because of how long you live, you are important because of how effective you live.',
-        'Amy Waldman',
+    '84179c56-38e4-518c-8d8c-169c73a8f911' => [
+        'There\'s an ease that I have living in Australia. The best things about Sydney are free: the sunshine\'s free, and the harbour\'s free, and the beach is free.',
+        'Russell Crowe',
     ],
-    '82d65dff-dd89-5c1e-9fa7-715ccbad729b' => [
-        'I truly believe in positive synergy, that your positive mindset gives you a more hopeful outlook, and belief that you can do something great means you will do something great.',
-        'Russell Wilson',
+    'f2f4d659-ee4d-51aa-9490-4a5b2dcb6cb5' => [
+        'My scientific pursuits have led to many opportunities and responsibilities beyond those of simply doing research. For example, as a beginning graduate student, it never occurred to me that the life of a scientist could involve so much travel, something that I have always loved.',
+        'H. Robert Horvitz',
     ],
-    '3a52bb72-e702-5615-9df5-a5db80e7152b' => [
-        'It is not the body\'s posture, but the heart\'s attitude that counts when we pray.',
-        'Billy Graham',
+    'f27a1f9f-214a-5992-b360-d8882e2f3ae8' => [
+        'Our deep respect for the land and its harvest is the legacy of generations of farmers who put food on our tables, preserved our landscape, and inspired us with a powerful work ethic.',
+        'James H. Douglas, Jr.',
     ],
-    'f35e49e2-22f4-55d2-b0c5-668176b4fa71' => [
-        'Make treating yourself a priority and always remember your life is happening now. Don\'t put off all your dreams and pleasures to another day. In any balanced personal definition of success there has to be a powerful element of living life in the present.',
-        'Mireille Guiliano',
+    'cbb1ccb9-db4f-5489-b652-0cab48ff1ece' => [
+        'The best thing about the future is that it only comes one day at a time.',
+        'Abraham Lincoln',
     ],
-    'a1528d3b-2eef-521a-bfde-739820dbaa54' => [
-        'Let us sacrifice our today so that our children can have a better tomorrow.',
-        'A. P. J. Abdul Kalam',
+    '21833959-2731-511e-a089-9dce610295a3' => [
+        'As you think, so shall you become.',
+        'Bruce Lee',
     ],
-    '0944abe4-110c-50ed-8dc0-6680d6643a14' => [
-        'The idea of making access to safe abortions harder and more expensive and more difficult, having to travel across state lines - that puts women\'s health and lives in jeopardy, which is something I think no one wants.',
-        'Cynthia Nixon',
+    '2db48b5b-7125-5abe-95be-3a6048373af1' => [
+        'Happiness is a choice. You can choose to be happy. There\'s going to be stress in life, but it\'s your choice whether you let it affect you or not.',
+        'Les Brown',
     ],
-    '953306dd-fa5c-5b73-b46c-725491b34069' => [
-        'From the beginning, I\'ve always had a knack for catchy melodies. But I went through a period when I was trying to be rock n\' roll and have a rock n\' roll attitude. I was fighting my nature by trying to play really hard and sing really hard. But at a certain point, I realized that I loved syrupy pop music with tons of harmony.',
-        'Juliana Hatfield',
+    'aa4bf734-477f-513e-a282-a96176ea3a3d' => [
+        'Every beauty which is seen here by persons of perception resembles more than anything else that celestial source from which we all are come.',
+        'Michelangelo',
     ],
-    '7126e392-e222-52d7-92c7-2eeed63a9078' => [
-        'Blues and soul and jazz music has so much pain, so much beauty of raw emotion and passion.',
-        'Christina Aguilera',
+    'bd3fc3ed-90e9-54da-ba75-a6e6ea12cd40' => [
+        'A good man often appears gauche simply because he does not take advantage of the myriad mean little chances of making himself look stylish. Preferring truth to form, he is not constantly at work upon the facade of his appearance.',
+        'Alanis Morissette',
     ],
-    '14bab2d9-efc0-5b72-bc68-bade94277d4a' => [
-        'Suddenly life has new meaning to me, there\'s beauty up above and things we never take notice of, you wake up suddenly you\'re in love.',
-        'Billy Ocean',
+    '25861061-466e-5f29-be23-dbd788e3df98' => [
+        'Teaching was the hardest work I had ever done, and it remains the hardest work I have done to date.',
+        'Ann Richards',
     ],
-    '039a36e1-2371-533d-9b84-4a3e3e39785c' => [
-        'Lose not yourself in a far off time, seize the moment that is thine.',
-        'Friedrich Schiller',
+    '4b93d557-7d4c-59d1-b5f8-981e4cf63711' => [
+        'If you don\'t have many possessions, then you don\'t need to work all your life like a slave to sustain them, and therefore you have more time for yourself.',
+        'Jose Mujica',
     ],
-    'bce02ef3-d2ca-5fdb-8449-e861ef40eacd' => [
-        'Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.',
-        'Elbert Hubbard',
+    'eed6506d-6d56-502e-b3ca-b516a46461f0' => [
+        'I do kabbalistic meditation. It\'s not unlike time travel; it can change the past and not just the future. You can look at what was lost and go beyond the grief of what was lost.',
+        'Roseanne Barr',
     ],
-    '276c6f6e-c7b9-5031-8cd0-f1645a2064bd' => [
-        'In things to be seen at once, much variety makes confusion, another vice of beauty. In things that are not seen at once, and have no respect one to another, great variety is commendable, provided this variety transgress not the rules of optics and geometry.',
-        'Christopher Wren',
+    'f5c6802a-c813-5e34-b222-cf5652809195' => [
+        'The making of friends who are real friends, is the best token we have of a man\'s success in life.',
+        'Edward Everett Hale',
     ],
-    '9764114e-5859-5037-88e7-9781d8d0024c' => [
-        'What breadth, what beauty and power of human nature and development there must be in a woman to get over all the palisades, all the fences, within which she is held captive!',
-        'Alexander Herzen',
+    'e1746e53-6f45-532a-bc64-8d1ed244896a' => [
+        'I just sing the stuff that makes me smile, makes me feel like I didn\'t sell myself out.',
+        'Patti LaBelle',
     ],
-    '4fdb5240-440f-5fef-be9c-41cb978c9368' => [
-        'Nothing is impossible to him who will try.',
-        'Alexander The Great',
+    'efa6f895-6600-5b89-9224-160f74122df4' => [
+        'I don\'t think I was a good model. I think I was born to emote and act. I would walk down the ramp and smile and they used to say, \'Give us a blank look.\' It was really difficult not to smile.',
+        'Anushka Sharma',
     ],
-    '3b04875e-f799-567e-9251-1d8354992897' => [
-        'The best way to inspire people to superior performance is to convince them by everything you do and by your everyday attitude that you are wholeheartedly supporting them.',
-        'Harold S. Geneen',
+    'a5e37318-600d-572c-b12a-f80f3c07132b' => [
+        'How inappropriate to call this planet Earth when it is quite clearly Ocean.',
+        'Arthur C. Clarke',
     ],
-    'a50225d8-88e6-5612-9925-0bd9bc984f98' => [
-        'Money and success don\'t change people; they merely amplify what is already there.',
-        'Will Smith',
+    '82db5764-c3ac-518f-8be7-801a44826064' => [
+        'Advice from my experience, for me, I\'ve never taken no as an answer, I don\'t believe in that. If I want something, I\'m going to get it. When people tell me that I can\'t do something, it just motivates me more. For me, it makes me smile, because I just want to prove everybody wrong.',
+        'Roman Reigns',
     ],
-    '81490196-fecb-52a3-977b-1ed7f4c34674' => [
-        'Honor lies in honest toil.',
-        'Grover Cleveland',
+    '51fb70b2-6fd6-5e66-adf8-9cec6a24e4b6' => [
+        'Part of me is drawn to the nature of sadness because I think life is sad, and sadness is not something that should be avoided or denied. It\'s a fact of life, like contradictions are.',
+        'Robert Redford',
     ],
-    '6bf5799f-5b19-53b2-bae3-3236b2de532b' => [
-        'Part of our tradition as black women is that we are universalists. Black children, yellow children, red children, brown children, that is the black woman\'s normal, day-to-day relationship. In my family alone, we are about four different colors.',
-        'Alice Walker',
+    'aec22097-e8e0-5259-9b60-77e263eb4119' => [
+        'Nature is a numbers game. We need all the support we can get as our immune systems and health are under assault from pollution, stress, contaminated food and age-related diseases as our lifespans increase.',
+        'Paul Stamets',
     ],
-    '79688121-bcb0-5cbf-a0b3-f64d956263d0' => [
-        'There are things so deep and complex that only intuition can reach it in our stage of development as human beings.',
-        'John Astin',
+    'ac2d45cd-c1ed-583e-a7b0-5dbb9f138b3b' => [
+        'I was not so committed to financial success that I was willing to abandon my principles and priorities. One of the most visible examples of this is our decision to close on Sunday.',
+        'S. Truett Cathy',
     ],
-    '60c5355b-786e-5584-b455-29d42db933e2' => [
-        'One of the very rewarding aspects of my work has been the interaction with a superb group of colleagues and friends in the atmospheric sciences community.',
-        'Mario J. Molina',
+    '0c234e69-d774-5780-894e-d4bf203d72cb' => [
+        'Change in all things is sweet.',
+        'Aristotle',
     ],
-    'f802cf70-67fd-599b-864d-8b43ffbe144b' => [
-        'It is often easier to ask for forgiveness than to ask for permission.',
-        'Grace Hopper',
+    '75d708f0-98c7-504d-8bdb-c8ccc6da159f' => [
+        'We cannot command Nature except by obeying her.',
+        'Francis Bacon',
     ],
 ];

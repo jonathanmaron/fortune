@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    'a6ecbb57-ab98-51a2-9c8f-057930ee2154' => [
-        'The more man meditates upon good thoughts, the better will be his world and the world at large.',
-        'Confucius',
+    '2da900b2-c18b-504b-90b2-a72733d74105' => [
+        'It\'s not just a matter of poor willpower on the part of the consumer and a give-the-people-what-they-want attitude on the part of the food manufacturers. What I found, over four years of research and reporting, was a conscious effort... to get people hooked on foods that are convenient and inexpensive.',
+        'Michael Moss',
     ],
-    '4ec6e851-01eb-57d2-974f-187c17496c22' => [
-        'Johnny Colt is a character, and most people in Lynyrd Skynyrd are characters, so he fits in great with us. He\'s got an attitude, man, and I love it, and that\'s what we need.',
-        'Johnny Van Zant',
+    '5302dbf8-53db-58a5-8ce0-d504a4ae08bf' => [
+        'Death is the ugly fact which Nature has to hide, and she hides it well.',
+        'Alexander Smith',
     ],
-    '9cccd9f8-ce23-5722-aeb2-38fee38b99d6' => [
-        'What I love best in life is new starts.',
-        'Karl Lagerfeld',
+    '231bf53b-1685-5737-bf1d-c905c29a519f' => [
+        'Reminds me of my safari in Africa. Somebody forgot the corkscrew and for several days we had to live on nothing but food and water.',
+        'W. C. Fields',
     ],
-    '6257a093-1a84-5c41-845d-d93d109059d9' => [
-        'If the shoe doesn\'t fit, must we change the foot?',
-        'Gloria Steinem',
+    '2b4bfbba-fb5e-5599-b38e-320d46cb2f36' => [
+        'My parents suffered from that ideal of a perfect nuclear family. They found that a difficult pressure, I think.',
+        'Tim Burton',
     ],
-    '8de8d57c-4724-5ffe-8aab-da76b57e8378' => [
-        'If you take each challenge one step at a time, with faith in every footstep, your strength and understanding will increase.',
-        'James Faust',
+    '8e64cba0-7564-560d-8345-24b642b5df1f' => [
+        'We feel very honored to have been offered the responsibility to host this great event, Berlin is a wonderful city that is developing at a tremendous rate, and this decision means that we can now prepare to welcome the world\'s best athletes to a fascinating place.',
+        'Otto Schily',
     ],
-    '02d15e31-c066-5472-9adb-aea698ea9d05' => [
-        'Psychographics speaks more to an attitude, a lifestyle.',
-        'Richard Hayne',
+    'd28597b9-6fa6-5597-b92c-16295dcd16f9' => [
+        'Smile, smile, smile at your mind as often as possible. Your smiling will considerably reduce your mind\'s tearing tension.',
+        'Sri Chinmoy',
     ],
-    '5bfab521-3c29-5da7-bd88-7a373d166ffe' => [
-        'Try to be like the turtle - at ease in your own shell.',
-        'Bill Copeland',
+    'a77d91c6-9e61-5f94-ad76-072a012452e4' => [
+        'True, when you behold Damascus from the Salahiyeh, the last slope of the Anti-Lebanon, it is the realization of all that you have dreamed of Oriental splendor; the world has no picture more dazzling. It is Beauty carried to the Sublime, as I have felt when overlooking some boundless forest of palms within the tropics.',
+        'Bayard Taylor',
     ],
-    '4ee743dc-2cd8-544d-9df6-328d15f99e5f' => [
-        'Can miles truly separate you from friends... If you want to be with someone you love, aren\'t you already there?',
-        'Richard Bach',
+    '73a3a601-08e6-5581-81b5-972cf991b48a' => [
+        'Let us change our traditional attitude to the construction of programs. Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.',
+        'Donald Knuth',
     ],
-    '81efe73d-1de7-58ef-a01f-239326226de3' => [
-        'Change can either challenge or threaten us. Your beliefs pave your way to success or block you.',
-        'Marsha Sinetar',
+    '4f012d37-3d3c-5ad4-9422-ec893836d2dc' => [
+        'The physician\'s duty is not to stave off death or return patients to their old lives, but to take into our arms a patient and family whose lives have disintegrated and work until they can stand back up and face - and make sense of - their own existence.',
+        'Paul Kalanithi',
     ],
-    'a5e88c2f-0bac-5023-a160-fedac5116a12' => [
-        'I live quietly at home among my family and friends.',
-        'Antonio Tabucchi',
+    '58016582-2d52-5295-bcef-574699aa05ae' => [
+        'Half our life is spent trying to find something to do with the time we have rushed through life trying to save.',
+        'Will Rogers',
     ],
-    '58c91a84-5ca8-5352-a087-b433d9aaa804' => [
-        'Life has loveliness to sell, all beautiful and splendid things, blue waves whitened on a cliff, soaring fire that sways and sings, and children\'s faces looking up, holding wonder like a cup.',
-        'Sara Teasdale',
+    'df2ddc60-1a25-5708-a189-6559838a9254' => [
+        'I love spending time with my dog, my niece and my family. I\'m very family-oriented.',
+        'Lil\' Kim',
     ],
-    '13136a11-25ff-5cb5-8c0b-67c94113d21a' => [
-        'Travel is a lot like love.',
-        'Alain de Botton',
+    'c4bfe5ad-fb9d-5276-9be3-fd15a4186b42' => [
+        'Do not pray for easy lives. Pray to be stronger men.',
+        'John F. Kennedy',
     ],
-    '8abe0a39-402c-55d4-9bd1-3dad097e5c2e' => [
-        'Thing is, I went to a born-again Christian high school, was brought up in a traditional Mormon family where these ideas about parenting are of structure and sacrifice. To think outside of that idea of family and parenting that I\'ve grown up with is tough but also very freeing.',
-        'Paul Walker',
+    '7ab2179e-55de-571e-a211-f0b496ee855c' => [
+        'The music I was really listening to in 1968 was James Brown, the great guitar player Jimi Hendrix, and a new group... Sly and the Family Stone, led by Sly Stewart from San Francisco.',
+        'Miles Davis',
     ],
-    '8abdcfa6-078d-56e6-a5c0-1039ddf1965a' => [
-        'When someone shows you who they are, believe them the first time.',
-        'Maya Angelou',
+    '4b4bea2e-5d03-5a11-8b5c-73a4756f1903' => [
+        'I would never die for my beliefs because I might be wrong.',
+        'Bertrand Russell',
     ],
-    '84e7d053-c332-53f3-8bed-97300d65d894' => [
-        'When I say that human beings are just gene machines, one shouldn\'t put too much emphasis on the word \'just.\' There is a very great deal of complication, and indeed beauty in being a gene machine.',
-        'Richard Dawkins',
+    '2d20cccc-ffc0-585b-8242-8c6a83083fb2' => [
+        'Doing the best at this moment puts you in the best place for the next moment.',
+        'Oprah Winfrey',
     ],
-    '0e618424-32e3-5b6a-8083-13f37aa76d48' => [
-        'To begin, begin.',
-        'William Wordsworth',
+    '1c92b9fe-8124-5e06-9466-5e47f0247480' => [
+        'Good management is the art of making problems so interesting and their solutions so constructive that everyone wants to get to work and deal with them.',
+        'Paul Hawken',
     ],
-    '9e779e5f-195a-5ccd-ae5f-606c2ac9f166' => [
-        'I know that when I like music, when it touches my heart, that it will touch your heart, too. That, I think, is the secret to my success.',
-        'Andre Rieu',
+    'b6a5b11d-d0ef-576b-9916-d6906ae3f624' => [
+        'I\'m a travel enthusiast.',
+        'Iggy Pop',
     ],
-    '68a5b232-a670-5fe7-89d9-332f2076d3d5' => [
-        'A person has to remember that the road to success is always under construction. You have to get that through your head. That it is not easy becoming successful.',
-        'Steve Harvey',
+    'fedf438c-caf8-5045-a213-91b01dedbc2b' => [
+        'The medical literature tells us that the most effective ways to reduce the risk of heart disease, cancer, stroke, diabetes, Alzheimer\'s, and many more problems are through healthy diet and exercise. Our bodies have evolved to move, yet we now use the energy in oil instead of muscles to do our work.',
+        'David Suzuki',
     ],
-    'c604c2cb-6607-5997-a859-2e1ebded5c97' => [
-        'Well, the idea is that failure is an inevitable partner on the road to success and, if you\'re not willing to confront failure, you can never find out how good you are.',
-        'Peter Guber',
+    '4f4acfa4-16c5-5a6d-b69a-550406b272fb' => [
+        'I want my wife and children to travel always with me and share good things and bad things. That\'s what the family is for.',
+        'Marcello Giordani',
     ],
-    '9e1ae3b3-28ba-5431-955a-6f77f773d673' => [
-        'The world is fortunate - for the time being, at least - that it has an American president in Obama who is prepared to take a conciliatory and concessive attitude towards America\'s decline and that it has a Chinese leadership which has been extremely cautious about expressing an opinion, let alone flexing its muscles.',
-        'Martin Jacques',
+    'dd1a7b74-ce05-5b15-9344-261d6f88a887' => [
+        'The worst thing that happens to you may be the best thing for you if you don\'t let it get the best of you.',
+        'Will Rogers',
     ],
-    '0f7cc81d-ccf4-51b2-9386-2266080bf87f' => [
-        'Music is probably the only real magic I have encountered in my life. There\'s not some trick involved with it. It\'s pure and it\'s real. It moves, it heals, it communicates and does all these incredible things.',
-        'Thomas Jefferson',
+    'bfc44815-42b3-56c7-a9d4-aef36e3aea8b' => [
+        'If I have seen further than others, it is by standing upon the shoulders of giants.',
+        'Isaac Newton',
     ],
-    '9532372d-ac20-595f-a69b-743be31f3ab1' => [
-        'I don\'t think anybody\'s goal is to be mediocre. I think everybody should want to be the best. I\'ve always felt that way. I want to be at the best at everything I do.',
-        'Justin Verlander',
+    '5859b85c-d51f-526a-aa1b-485de1a8836a' => [
+        'Miracles are not contrary to nature, but only contrary to what we know about nature.',
+        'Saint Augustine',
     ],
-    'e9a9dac2-6ee8-5131-beaf-d5e90eee3e8b' => [
-        'Engineers in the developed world should be arguing not for protectionism but for trade agreements that seek to establish rules that result in a real rise in living standards. This will ensure that outsourcing is a positive force in the developing nation\'s economy and not an exploitative one.',
-        'Brian Behlendorf',
+    '3a50a431-4f19-5268-97db-8b0bc44927f8' => [
+        'Success is dependent upon the glands - sweat glands.',
+        'Zig Ziglar',
     ],
-    '46aa3f0c-e905-5e27-97a5-bfa41e3260aa' => [
-        'The black family survived centuries of slavery and generations of Jim Crow, but it has disintegrated in the wake of the liberals\' expansion of the welfare state.',
-        'Thomas Sowell',
+    'fc76cbd7-4d8c-58bb-9373-2ed02966ccb7' => [
+        'Yoga disciplines both the mind and the souls and not just your body. It helps me in having a constant positive outlook in life. I would love my family to adopt this form of fitness as well.',
+        'Jacqueline Fernandez',
     ],
-    '2ee0dc64-9a28-5e46-a228-c44a97abb9a7' => [
-        'The beauty and riddle in studying the motives of any politician is in trying to decide what is idealism and what is self-interest, and often we are left to conclude that the answer is a mixture of the two.',
-        'Boris Johnson',
+    '409355ca-c152-5495-aad7-dfac12a3d2c2' => [
+        'I have seven children by six different mothers. Maybe success was too good to me.',
+        'Eazy-E',
     ],
-    '971a4b98-5f04-54b3-85b4-3916ae9779d8' => [
-        'What\'s amazing is, if young people understood how doing well in school makes the rest of their life so much interesting, they would be more motivated. It\'s so far away in time that they can\'t appreciate what it means for their whole life.',
-        'Bill Gates',
+    '5915eaea-e955-5dde-83c9-e29f4b2e5600' => [
+        'I think hearts are very much like glasses. If they do not break with the first ring, they usually last a considerable time.',
+        'Letitia Elizabeth Landon',
     ],
-    '0c5c72d2-9a57-50b6-b976-7f9e1481f124' => [
-        'Being positive may be a character defect of mine.',
-        'Quentin Blake',
+    'ada78c6b-4b84-505d-9645-23b30ec235bf' => [
+        'I feel French is very close to Urdu. Both languages are beautiful. Sadly, their beauty is lost in translation.',
+        'Amisha Patel',
     ],
-    '826c5206-71bf-5db1-9e7a-ddb396156e37' => [
-        'I\'ve got a bunch of books... I rely on funny books and movies to cheer me up. Oh, but I must say, I do have the world\'s most perfect husband, so a cuddle from him always cheers me up. He\'s a good guy.',
-        'Wendi McLendon-Covey',
+    '88981daf-8703-5de8-af23-8e426c3f9d84' => [
+        'Resilience isn\'t a single skill. It\'s a variety of skills and coping mechanisms. To bounce back from bumps in the road as well as failures, you should focus on emphasizing the positive.',
+        'Jean Chatzky',
     ],
-    '61ba9043-7e2e-5bac-8ba9-36806a9d1806' => [
-        'In business, you can have one massive success that earns $50 million overnight, and that\'s it. You\'re successful. End of story. But in the music business, you have to keep on doing it.',
-        'Noel Gallagher',
+    '94e749d0-2839-585b-8aa3-db8c905c77a8' => [
+        'Tears are sometimes an inappropriate response to death. When a life has been lived completely honestly, completely successfully, or just completely, the correct response to death\'s perfect punctuation mark is a smile.',
+        'Julie Burchill',
     ],
-    '79f81c80-4405-59ff-a543-ab8ff9b84f1e' => [
-        'I was perceived to be a first- to third-rounder. I kind of had a tough junior year and fell to the fifth round. At that time, it was motivational.',
-        'Ryan Howard',
+    '555aa305-5953-57d0-8744-c5e0fc953575' => [
+        'Some people think it\'s holding that makes one strong, sometimes it\'s letting go.',
+        'Unknown',
     ],
-    'f2354bd8-5a5d-5160-a121-5e40d424a002' => [
-        'We create success or failure on the course primarily by our thoughts.',
-        'Gary Player',
+    'b3236132-2b3e-5674-af0d-0adbab6ff552' => [
+        'I try to greet my friends with a drink in my hand, a warm smile on my face, and great music in the background, because that\'s what gets a dinner party off to a fun start.',
+        'Ina Garten',
     ],
-    '8e7e1896-6ad3-53bf-adb7-3c90f8ef16ca' => [
-        'Here is my prescription to heal all wounds. Watch the film \'Funny Girl\' at least five times, eat at least 45 chocolate bars, and hang out with all those friends you blew off to hang out with your ex. I truly believe that, through a combination of Nutella, old pals and Barbra Streisand, we can achieve happiness and, very probably, world peace.',
-        'Beth Ditto',
+    '96251325-f3ae-5ab0-9788-ff22e77faaee' => [
+        'Moderation is a virtue only in those who are thought to have an alternative.',
+        'Henry Kissinger',
     ],
-    'de9e609f-8d55-5e52-9b2f-cd7be79f3e8b' => [
-        'Health and beauty is not just about what you apply. If you don\'t have it together on the inside, then nothing else is going to matter.',
-        'Nia Peeples',
+    '0d22bcd5-b65b-5a1c-ab06-d9cda1a50d82' => [
+        'Engineering or technology is all about using the power of science to make life better for people, to reduce cost, to improve comfort, to improve productivity, etc.',
+        'Elbert Hubbard',
     ],
-    'db4adeff-781f-52df-b257-1735035a1ea5' => [
-        'I always think part of success is being able to replicate results, taking what is interesting or viable about yourself as a professional person and seeing if you bring it into different situations with similar results.',
-        'Robert Downey, Jr.',
+    '285106f4-ba61-56d5-ba81-f0c447a7baf7' => [
+        'To me success means effectiveness in the world, that I am able to carry my ideas and values into the world - that I am able to change it in positive ways.',
+        'Maxine Hong Kingston',
     ],
-    '37559c26-5351-542c-8b54-639687cbdb72' => [
-        'Commitment, belief and positive attitude are all important if you\'re going to be a success, whether you\'re in sports, in business or, as in my case, anthropology.',
-        'Donald Johanson',
+    '5e1c973b-c765-5d82-9a06-2b80c371bbe1' => [
+        'What I would say to young entrepreneurs is there\'s so many moments in your life where you have these dreams, and people are trying to protect you, and they say, perhaps, friends, family, parents sometimes, they don\'t agree with it, they think, \'This is just too high of a hurdle.\' And I don\'t agree with that.',
+        'Howard Schultz',
     ],
-    'af067fa0-7937-55fb-9aef-3bccf18ef8ea' => [
-        'I never see what has been done; I only see what remains to be done.',
-        'Marie Curie',
+    '8f46fef4-5e1d-5e2c-8149-44c8e2c91367' => [
+        'My size is a huge part of me. You just have to appreciate those kinds of things. So I wasn\'t born with long legs - who cares. You just have to embrace it. Being body positive is really important to your overall happiness.',
+        'Sabrina Carpenter',
     ],
-    'be282d56-36d2-503f-8e56-41e4af2843d2' => [
-        'There is a very deep conviction in the heart of the people who work in al-Jazeera that if it changes its editorial line, it will very quickly lose its audience. Al-Jazeera has its own style; it has more than 3,500 employees, and I don\'t think anyone will have the attitude of changing it because they will lose.',
-        'Wadah Khanfar',
+    'c79dc23f-ca8a-5b9b-be1e-3fb8dc3fafdd' => [
+        'There are things that you cannot talk to your mother and father about, there are things that you cannot talk to your children about.',
+        'Shirley Knight',
     ],
-    'feef335b-c7f0-5a9d-abb7-daef05b288db' => [
-        'The compensation of a very early success is a conviction that life is a romantic matter. In the best sense one stays young.',
-        'F. Scott Fitzgerald',
+    'b64fa004-8af0-5aaa-86b7-3fa9708f6943' => [
+        'Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.',
+        'Norman Vincent Peale',
     ],
-    '1bc21bbe-c4d9-5ee1-860c-7f398479cf98' => [
-        'Though we travel the world over to find the beautiful, we must carry it with us or we find it not.',
-        'Ralph Waldo Emerson',
+    '99a05a19-5ada-5632-b6cf-e0e113d8ed16' => [
+        'What we see is mainly what we look for.',
+        'Unknown',
     ],
-    '3e04cfa3-eb9b-54a7-9b26-a9302df8b668' => [
-        'There\'s something about the Pacific Northwest, the scale of it, and the fact that not so long ago people came here and died getting here, and then died the first winter they were here. There\'s this breathtaking beauty, just a little bit of moss on the tree, just this little thread of danger, and the sinister. And I really like that.',
-        'Chelsea Cain',
+    '3006b29a-c927-5c96-907e-a4e3d3d2a80c' => [
+        'Many of our deepest motives come, not from an adult logic of how things work in the world, but out of something that is frozen from childhood.',
+        'Kazuo Ishiguro',
     ],
-    '98c67792-5258-58da-b637-97f09dda12bf' => [
-        'If I went to them all dressed up and flashed a nice smile for the cameras it would probably be easier for me to get work. But I just can\'t tolerate it.',
-        'Charlie Hunnam',
+    '0f566d14-71b1-579d-8539-f61d068c44d2' => [
+        'My attitude to peace is rather based on the Burmese definition of peace - it really means removing all the negative factors that destroy peace in this world. So peace does not mean just putting an end to violence or to war, but to all other factors that threaten peace, such as discrimination, such as inequality, poverty.',
+        'Aung San Suu Kyi',
     ],
-    '230a2a51-66b2-5a13-a307-277f8795d50a' => [
-        'Believe that life is worth living and your belief will help create the fact.',
-        'William James',
-    ],
-    'de1768d0-6b43-5269-9755-d8725013a845' => [
-        'STAR TREK is a show that had a vision about a future that was positive.',
-        'George Takei',
-    ],
-    '0a14e32c-e57d-5233-b5df-69ef25ebc253' => [
-        'You tell your kids that no matter what, you set your goals and you go for them. Whatever it is you achieve, never give up. You want your kids to have that good attitude, the confidence, and the will power to believe in themselves.',
-        'Joel Parkinson',
-    ],
-    'd7d3dba0-d86b-5c4d-97fa-d07c285e5554' => [
-        'One fails forward toward success.',
-        'Charles Kettering',
-    ],
-    '6c17db5b-f3cd-5ad5-bbb5-83dad84cc236' => [
-        'I do get to have my normal childhood. I just love to get together with my friends and family and have a good time.',
-        'Austin O\'Brien',
-    ],
-    '19121722-09ad-5d41-a9db-458db42af046' => [
-        'I hate to be a failure. I hate and regret the failure of my marriages. I would gladly give all my millions for just one lasting marital success.',
+    'a9f8ea19-856f-5f2a-b1d4-ef420d09218b' => [
+        'Formula for success: rise early, work hard, strike oil.',
         'J. Paul Getty',
     ],
-    'f4ef192b-3f04-56a3-8afa-34066a8016fd' => [
-        'If I could I would always work in silence and obscurity, and let my efforts be known by their results.',
-        'Emily Bronte',
+    'a9857fc3-a0cc-52e6-925f-4dd6d6013c74' => [
+        'Only stupid people are changed by success.',
+        'Jurgen Klopp',
     ],
-    '4927f680-f1cf-577c-b1a7-f85c5503bf10' => [
-        'You don\'t need to invade a place or install a new government to help bring about a positive change.',
-        'Nicholas D. Kristof',
+    'a0436bfc-5c9b-588e-bdbf-afa3b5c143aa' => [
+        'The most fundamental fact about the ideas of the political left is that they do not work. Therefore we should not be surprised to find the left concentrated in institutions where ideas do not have to work in order to survive.',
+        'Thomas Sowell',
     ],
-    '35f4424f-5063-5aa4-ac7d-ab27765c2413' => [
-        'If a writer falls in love with you, you can never die.',
-        'Mik Everett',
+    'a765b684-8bae-5a99-96f8-ddfb5841d4dc' => [
+        'In hindsight, I see the great value of family and how it moulded my life and kept me together. So now family means everything to me.',
+        'Jimmy Cliff',
+    ],
+    'e0a3d1a8-80e4-536d-8089-a311069c4f5b' => [
+        'I\'m a very outgoing person. I\'m always happy, I\'m one of those people who are always smiling. If somebody described me to somebody else, they\'d say the kid with the curly hair with the big smile on his face. I get along with everybody.',
+        'Corbin Bleu',
+    ],
+    'ed139677-a593-5dd3-8367-790a340a9d82' => [
+        'In most things success depends on knowing how long it takes to succeed.',
+        'Charles de Montesquieu',
+    ],
+    '6b081640-d71c-55d0-a09b-e801ca2a605c' => [
+        'Success is a journey, not a destination.',
+        'Ben Sweetland',
+    ],
+    '6f8b15f2-1b59-5b6b-8322-1e9be8590a83' => [
+        'I was born in 1950, so there were tons of Westerns on TV by the time I was 6, 7, 8 years old. In terms of television, \'Maverick\' and \'Have Gun - Will Travel.\' But filmically, classics like \'High Noon\' and \'The Man Who Shot Liberty Valance\' - that\'s one of my favorite films.',
+        'Ed Harris',
+    ],
+    'c5c12457-1d2c-5392-ad20-b76720212c38' => [
+        'There is no gardening without humility. Nature is constantly sending even its oldest scholars to the bottom of the class for some egregious blunder.',
+        'Alfred Austin',
     ],
 ];

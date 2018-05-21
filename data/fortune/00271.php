@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '41de7816-ca70-5505-9e81-5cbae49a7f9a' => [
-        'The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.',
-        'Robert Frost',
+    '33f97548-d501-50d5-9976-c9d5a23a714a' => [
+        'A smile abroad is often a scowl at home.',
+        'Alfred Lord Tennyson',
     ],
-    '896dfac9-4b77-5bcf-b3f7-e26ed1d18700' => [
-        'Our success as a global brand has been directly related to how we select locations where we are confident our particular clients desire to be. Los Cabos, Mexico is the ideal Engel & Volkers market, growing in popularity among world luxury travelers seeking exceptional properties for second home opportunities.',
-        'Anthony Hitt',
+    '34883812-8907-5d42-9da5-c8757af328d2' => [
+        'Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty. There is a way out of every dark mist, over a rainbow trail.',
+        'Robert Motherwell',
     ],
-    'b72c1e37-36bc-552c-953a-95eb8a6c5923' => [
-        'How inscrutable and incomprehensible are the hidden works of Nature!',
-        'Antonie van Leeuwenhoek',
+    '1a105016-4a63-5227-93c7-e2730e0e9463' => [
+        'I\'ve always been able to transform happiness and pain and sorrow and tears into positive energy.',
+        'Thalia',
     ],
-    'b9dce984-c9cd-546c-9742-7138b6b0ef19' => [
-        'Even if you can\'t afford to travel the world, you can take your children to the museum, zoo or local park. And don\'t be afraid to take them to grown-up spots. Eating out in a restaurant teaches children how to be quiet and polite and gives them the pleasure of knowing you trust them to behave.',
-        'Kimora Lee Simmons',
+    '33ff334a-e5db-5a1a-8901-159d31acf850' => [
+        'You always succeed in producing a result.',
+        'Tony Robbins',
     ],
-    '015d7c6c-5bb2-518f-be96-09e75016b2d9' => [
-        'When it comes to the things that people really want in science fiction - like space travel - the simplest things end up causing them not to happen. Humans are 100-pound bags of water, built to live on Earth.',
-        'Lawrence M. Krauss',
+    '2bf7823f-1f89-5e6d-912e-f6b6f5175227' => [
+        'When deeds and words are in accord, the whole world is transformed.',
+        'Chuang Tzu',
     ],
-    '593ed823-b070-59b6-abfd-57b167988838' => [
-        'Work is the curse of the drinking classes.',
-        'Oscar Wilde',
+    '3b7efcd2-8349-5964-be2f-6a022e93c58b' => [
+        'Studies have shown that inmate participation in education, vocational and job training, prison work skills development, drug abuse, mental health and other treatment programs, all reduce recidivism, significantly.',
+        'Bobby Scott',
     ],
-    '98f881b1-bd0a-5596-ac5d-c842adddddb8' => [
-        'Courage is resistance to fear, master of fear, not absence of fear',
-        'Mark Twain',
+    'fe5ad987-2b07-506f-8ce2-fa65d7d7d01a' => [
+        'I have an interest in understanding evil. Who is the bad guy - the vampire who kills people and sucks their blood, or the survivalists who kill people to save their own lives? Is evil merely a creation of people? Or is there an evil nature? Or is it in the eye of the beholder? I really like these questions.',
+        'Lois Tilton',
     ],
-    '1cfd3677-2c9f-502e-9e71-8e5feb9c5349' => [
-        'I always wanted to be somebody, but now I realize I should have been more specific.',
-        'Lily Tomlin',
+    'efe301ec-5db4-5e6e-a730-833d38c9ffb1' => [
+        'If you\'re a good choice maker, you can choose the best emotional responses and choose the best new life paths, forward and upward.',
+        'Karen Salmansohn',
     ],
-    'ada567cd-4fa9-5631-8ff9-5ddae466d9e0' => [
-        'Mark Twain was a great traveler and he wrote three or four great travel books. I wouldn\'t say that I\'m a travel novelist but rather a novelist who travels - and who uses travel as a background for finding stories of places.',
-        'Paul Theroux',
+    'b2219e57-a4da-5fb0-bfde-867e188f0599' => [
+        'What were once only hopes for the future have now come to pass; it is almost exactly 13 years since the overwhelming majority of people in Ireland and Northern Ireland voted in favour of the agreement signed on Good Friday 1998, paving the way for Northern Ireland to become the exciting and inspirational place that it is today.',
+        'Queen Elizabeth II',
     ],
-    'dfeb3258-2372-52cc-beb6-80360b9f6564' => [
-        'If your best friend has stolen your girlfriend, it does become life and death.',
-        'Ben Kingsley',
+    '18682d0e-396c-5306-a2b7-e935bb755fb3' => [
+        'When one side benefits more than the other, that\'s a win-lose situation. To the winner it might look like success for a while, but in the long run, it breeds resentment and distrust.',
+        'Stephen Covey',
     ],
-    'b876f28c-d18d-5749-bfe8-571704e4650a' => [
-        'Art is a harmony parallel with nature.',
-        'Paul Cezanne',
+    '7587e01b-7b2f-5295-896a-f936d22ca5ba' => [
+        'I travel the world visiting global health programs as an ambassador for the global health organization, PSI, and sometimes the disconnect I see is truly striking: people can get cold Coca Cola, but far too infrequently malaria drugs; most own mobile phones, but don\'t have equal access to pre-natal care.',
+        'Mandy Moore',
     ],
-    '45f425a3-fce8-5025-8b89-fb696e5501d4' => [
-        'We need to protect our wilderness areas and national parks. Everywhere you travel, you see blight, denuded mountains, logging. If people know what\'s going on, they\'ll become activists to safeguard those places.',
-        'Christie Brinkley',
+    '46dff4e5-051f-506c-aea9-0ef7fd95c90c' => [
+        'Don\'t be afraid of failure; be afraid of petty success.',
+        'Maude Adams',
     ],
-    '196a7abf-d360-5e60-ad64-bb2bb0005990' => [
-        'The same way one tells a recipe, one tells a family history. Each one of us has our past locked inside.',
-        'Laura Esquivel',
+    'fa7a020a-d64a-5c8c-8ae0-56d4320dfa91' => [
+        'I love it when people doubt me. It makes me work harder to prove them wrong.',
+        'Derek Jeter',
     ],
-    'c6fe6b30-e0ca-57f2-bdf9-817b2c51796f' => [
-        'I couldn\'t buy my way - I had to work my way. What a great quote: \'I couldn\'t buy my way into success, I had to work my way into success.\'',
-        'Stewart Rahr',
+    'c7a5b4d6-2ac7-50ea-9053-774f88edf303' => [
+        'What is necessary to change a person is to change his awareness of himself.',
+        'Abraham Maslow',
     ],
-    'e89c7544-ad40-5e90-968f-38923cb784b1' => [
-        'People travel and hunt on the sea ice - in Alaska, they hunt in skin boats for bowhead whales; in Greenland, they hunt with dogsleds. The ice is their highway. The ice is also the ecosystem in which marine mammals and terrestrial animals such as polar bears exist.',
-        'Gretel Ehrlich',
+    '4b504192-ebbd-5b17-9b44-0c3e7be8cde5' => [
+        'Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it\'s no longer a mistake. If you remain stuck, you learn nothing.',
+        'Eckhart Tolle',
     ],
-    '694ea074-e0a6-55d0-8143-39da0e6175ab' => [
-        'Never a lip is curved with pain that can\'t be kissed into smiles again.',
-        'Bret Harte',
+    'c68490b9-223e-561e-b557-bc4ead787fd0' => [
+        'Truth is the daughter of time, not of authority.',
+        'Francis Bacon',
     ],
-    '31a270ee-3088-5d52-abe8-e46d8cf84bf6' => [
-        'I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has had to overcome while trying to succeed.',
-        'Booker T. Washington',
+    'ab032c88-1ffa-51cd-94b4-f88e77f5dae6' => [
+        'I\'m very much in the trenches, and I don\'t live in the lap of luxury. I come from a working-class military family. We watch the news and read the paper and vote, so there\'s always something to be upset about. I always have a certain amount of angst in my back pocket.',
+        'Pink',
     ],
-    'a295850f-0003-5e25-812b-8b8db04d2b09' => [
-        'The golden moments in the stream of life rush past us, and we see nothing but sand; the angels come to visit us, and we only know them when they are gone.',
-        'Van Morrison',
+    '35ae4cd7-018e-58d4-bab0-af9bb92b9a8f' => [
+        'I\'ve met so many who have opened doors for me and remained in my life both personally and professionally. After a while, networking doesn\'t feel like \'networking.\' It\'s both serendipitous and unpredictable, and something that just naturally becomes part of your work life and your personal life.',
+        'Narciso Rodriguez',
     ],
-    'a9e65394-f91e-5d97-8466-05cc743839d8' => [
-        'We pass through this world but once.',
-        'Aristotle',
+    '077300f5-45a1-5a72-8a80-87012b67d5ec' => [
+        'My dream is of a place and a time where America will once again be seen as the last best hope of earth.',
+        'Abraham Lincoln',
     ],
-    '451446e4-edcd-5524-9350-5295b80257a4' => [
-        'Beauty is in the heart of the beholder.',
-        'H. G. Wells',
+    '8e0e4a05-3fb9-5352-9152-564a7ca49741' => [
+        'It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.',
+        'Proverb',
     ],
-    'c83a3f74-642a-5f7a-bb3a-96f9c41b9e03' => [
-        'One\'s philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.',
-        'Eleanor Roosevelt',
+    '7b9cb479-9fc3-5261-aaca-7d02ad718d01' => [
+        'Of course! It takes a lot of strength to mend a broken heart. Channelising energies into your work helps, but also to be able to accept situations for what they are instead of questioning them helps immensely.',
+        'Deepika Padukone',
     ],
-    '02994c06-6aec-56d7-a0a0-5eee4d3b00b9' => [
-        'Most great people have attained their greatest success just one step beyond their greatest failure.',
-        'Napoleon Hill',
+    'f07e09dd-6962-53a5-94c0-e46a20f73417' => [
+        'Cultivation of mind should be the ultimate aim of human existence.',
+        'B. R. Ambedkar',
     ],
-    '04d1b2cb-1287-5ca9-9b69-4c747a581f30' => [
-        'No person is your friend who demands your silence, or denies your right to grow.',
-        'Alice Walker',
+    'f8e9be08-c7cc-51e6-af06-1271a0b175b9' => [
+        'Fame can be just so annoying because people are so critical of you. You can\'t just say, \'hi\'. You say hi and people whisper\' man did you see the way she said hi? What an attitude.',
+        'Juliette Lewis',
     ],
-    '180b1e00-1ef9-5a7d-9751-92ffc7d83301' => [
-        'Learn to say \'no\' to the good so you can say \'yes\' to the best.',
-        'John C. Maxwell',
+    '84a54f20-92ab-566c-a094-1b26a9c936fb' => [
+        'It\'s better to waste money, than it is to waste time. You can always get more money.',
+        'Hal Sparks',
     ],
-    'b32b68ef-e00e-5397-8bbc-9c614d6cfff1' => [
-        'Nothing in life is promised except death.',
-        'Patrick Henry',
+    'f50212ad-c4a6-5967-abe1-efd86b5ceaf4' => [
+        'If in my youth I had realized that the sustaining splendour of beauty of with which I was in love would one day flood back into my heart, there to ignite a flame that would torture me without end, how gladly would I have put out the light in my eyes.',
+        'Michelangelo',
     ],
-    '1b60d1ff-2856-5b65-8711-b0cab98730f4' => [
-        'Time has been transformed, and we have changed; it has advanced and set us in motion; it has unveiled its face, inspiring us with bewilderment and exhilaration.',
-        'Khalil Gibran',
+    '2ae36023-e040-5b92-bc51-a2825340d96c' => [
+        'I want to be motivational and inspirational for everybody: my big aim is more women on bicycles.',
+        'Marianne Vos',
     ],
-    '904db4a3-a6d5-5410-8752-e673412e7e2d' => [
-        'Being busy with work, and as a mum, I\'m a big fan of online shopping.',
-        'Kirsty Gallacher',
+    'e6095d28-e2b9-571d-9237-7144ee66ddeb' => [
+        'The first time I sang in the church choir; two hundred people changed their religion.',
+        'Fred Allen',
     ],
-    '65f8144b-2a37-58f9-bda9-3c9aa90fab39' => [
-        'Everybody loves success, but they hate successful people.',
-        'John McEnroe',
+    'd0e9739c-b5e4-5b35-9ec8-74c8798e8299' => [
+        'The greatest legacy one can pass on to one\'s children and grandchildren is not money or other material things accumulated in one\'s life, but rather a legacy of character and faith.',
+        'Ted Turner',
     ],
-    'f4d2b393-d560-5702-9e91-369501c323b3' => [
-        'There is no higher religion than human service. To work for the common good is the greatest creed.',
-        'Woodrow Wilson',
+    'f5f34194-2cc6-5c6e-9f88-11695d3b7b21' => [
+        'The whole object of travel is not to set foot on foreign land; it is at last to set foot on one\'s own country as a foreign land.',
+        'Gilbert K. Chesterton',
     ],
-    '83d69a83-6f91-5a39-816c-4db83d9dddd7' => [
-        'To be successful in real estate, you must always and consistently put your clients\' best interests first. When you do, your personal needs will be realized beyond your greatest expectations.',
-        'Anthony Hitt',
+    '377bd71e-4473-59dd-8aae-e9d80f8905ba' => [
+        'Hell is nothing else but nature departed or excluded from the beam of divine light.',
+        'William Law',
     ],
-    '62e7047e-5f43-5621-95fe-550b15d397c7' => [
-        'I find human beings to be so complex and full of beauty. Creativity is our way to express and challenge and flow. So, all you humans, create and flow! I\'ll be over here thinking you are beautiful and creepy and freaky and wonderful!',
-        'Angela Bettis',
+    '4b796583-4b9b-55cc-9065-c588acfe9741' => [
+        'I trained as a journalist in America where paying sources is frowned upon. Now I work in the U.K. where there is a more flexible attitude.',
+        'Heather Brooke',
     ],
-    '9f9efc0f-09b9-5925-aacb-8cbed18d211a' => [
-        'Worry gives a small thing a big shadow.',
-        'Unknown',
+    '12e94540-4313-5c2c-830b-13bb49968e41' => [
+        'Don\'t judge each day by the harvest you reap but by the seeds you plant.',
+        'Robert Stevenson',
     ],
-    '24f45e39-8ccd-58a4-a2e5-693ace353343' => [
-        'The right of nature... is the liberty each man hath to use his own power, as he will himself, for the preservation of his own nature; that is to say, of his own life.',
-        'Thomas Hobbes',
+    '3d2b176d-d570-5f83-98a7-98b4862ea431' => [
+        'I think the divine is like a huge smile that breaks somewhere in the sea within you, and gradually comes up again.',
+        'John O\'Donohue',
     ],
-    '20e50bd0-3d4c-5f66-b107-31109c15eb43' => [
-        'Never ignore a gut feeling, but never believe that it\'s enough.',
-        'Robert Heller',
+    '63288b23-09d3-58aa-9c76-55c5fe86f931' => [
+        'Essentially, all expressions of human nature ever produced, from a caveman\'s paintings to Mozart\'s symphonies and Einstein\'s view of the universe, emerge from the same source: the relentless dynamic toil of large populations of interconnected neurons.',
+        'Miguel Nicolelis',
     ],
-    '2b100016-081c-530a-9a6e-e359fe7341d8' => [
-        'As we get older, we get better at choosing in ways that will make us happy. We do a better job at picking activities that make us happy, and at spending time with people who make us happy. We\'re also better at letting things go.',
-        'Sheena Iyengar',
+    'bc02a6e9-bbb7-5b30-9277-5a6b1663b63c' => [
+        'Mere goodness can achieve little against the power of nature.',
+        'Georg Wilhelm Friedrich Hegel',
     ],
-    '491b2fdb-f9bd-5984-9a54-ae67d74e00eb' => [
-        'Clock watchers never seem to be having a good time.',
-        'James Cash Penney',
+    '537e8c9d-c3c5-512f-898a-a18e2fda980e' => [
+        'You see countries like India really investing in their space program because they see it as inspirational and good for their economy.',
+        'Ellen Stofan',
     ],
-    '6b22d78f-1ec5-5819-8971-97d8c70a9223' => [
-        'What I like about modelling is that it has given me that opportunity to travel and experience different cultures, work with creative people, and now it\'s given me a voice, and with that voice hopefully I can do good things with it.',
-        'Miranda Kerr',
+    '5ebb18c7-8d6b-5f83-9427-8f108070b97d' => [
+        'I travel all over the world, usually 10 months out of the year. I stay at a lot of hotels, and the ones I like best are clean and not complicated. You go to bed and say, \'Wow, I feel comfortable.\'',
+        'Nobu Matsuhisa',
     ],
-    '6864cf1b-524b-5236-a011-4946d05ac675' => [
-        'Motivation is everything. You can do the work of two people, but you can\'t be two people. Instead, you have to inspire the next guy down the line and get him to inspire his people.',
-        'Lee Iacocca',
+    'a5e9d4be-ea83-5cc5-8636-f6e60c0cce48' => [
+        'If you have a secret, people will sit a little bit closer.',
+        'Rob Corddry',
     ],
-    'f8c51205-3229-5572-b412-28e7d45587e8' => [
-        'Respect should be earned by actions, and not acquired by years.',
-        'Frank Wright',
+    '878c9637-3163-5f2a-81f8-105a80eed919' => [
+        'The only durable sense of success is if you\'ve followed your calling.',
+        'Jim Harrison',
     ],
-    'e581ded4-a987-5a6e-a375-724abac25a61' => [
-        'There is a very remarkable inclination in human nature to bestow on external objects the same emotions which it observes in itself, and to find every where those ideas which are most present to it.',
-        'David Hume',
+    '5e038bce-4ed9-5d8d-a9bf-fd4d857c4eac' => [
+        'I always had the attitude that I wanted to throw a no-hitter every game.',
+        'Dennis Eckersley',
     ],
-    'de141c88-2252-5533-96f9-90f359dc9956' => [
-        'Christmas and the holidays are the season of giving. It\'s a time when people are more kind and open-hearted.',
-        'Gisele Bundchen',
+    'a3348d6e-62c4-5ab8-a6b6-c717db5ac07a' => [
+        'When I was growing up, my family was so poor we couldn\'t afford to pay attention.',
+        'Mr. T',
     ],
-    '78673739-3f5b-5d1e-a4d8-49a6691e8fb6' => [
-        'Success produces confidence; confidence relaxes industry, and negligence ruins the reputation which accuracy had raised.',
-        'Ben Jonson',
+    'cbd29ce5-d99c-5894-aa9f-13d46b205990' => [
+        'You look at the tremendous success of Facebook. To my mind there is not a lot of commerce going on in these social networking sites. eBay is a community anchored in commerce. It is a commerce site that built a community around it. What has not been proven is if the reverse can happen and people will go to community sites to do commerce.',
+        'Meg Whitman',
     ],
-    'b4067f58-e2ad-53db-9a15-4f92242838ad' => [
-        'I always find beauty in things that are odd and imperfect - they are much more interesting.',
-        'Marc Jacobs',
+    '86e036bd-b4c6-5a5c-95e3-c16f4f762f78' => [
+        'Take a course in good water and air; and in the eternal youth of Nature you may renew your own. Go quietly, alone; no harm will befall you.',
+        'John Muir',
     ],
-    '065109b7-2b4b-5c4b-9bc3-584b1b4b40f2' => [
-        'The best scientists and explorers have the attributes of kids! They ask question and have a sense of wonder. They have curiosity. \'Who, what, where, why, when, and how!\' They never stop asking questions, and I never stop asking questions, just like a five year old.',
-        'Sylvia Earle',
+    '10745059-e3c5-54ee-a20e-58ef46c31544' => [
+        'I\'ve been a huge fan of Marc Jacobs for many, many years, even going back to when I was wearing men\'s clothing. He captures a kind of simplicity and a kind of beauty that I like - projecting strength through femininity.',
+        'Chelsea Manning',
     ],
-    'bacbb5ef-354f-5eb1-a67c-4f3cfa037b19' => [
-        'Failure is success if we learn from it.',
-        'Malcolm Forbes',
+    'e0260fad-5497-5d1a-93c8-c9eb6fe87339' => [
+        'Positive energy knows no boundaries. If everyone were to spread positive energy on the Internet, the world would be a much better place.',
+        'Lu Wei',
     ],
-    'ed742fd9-d764-5704-ae13-4cf33c2875c3' => [
-        'The social issues outside of football are not as defined as they were earlier, when integration took place and certain rights were legislated. The Civil Rights movement is over. Individuals can buy homes wherever they want, travel first class wherever they want, eat wherever they want.',
-        'Jim Brown',
+    '2d9b7fe6-40ca-532b-8704-83d2a4d83ed1' => [
+        'Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.',
+        'Ovid',
     ],
-    '7fe7deb2-825b-5e51-8d09-a8125d3229d9' => [
-        'What works for men does not always work for women, because success and likability are positively correlated for men and negatively correlated for women. That\'s what the research shows. As a man gets more successful, everyone is rooting for him. As a woman gets more successful, both men and women like her less.',
-        'Sheryl Sandberg',
+    '41cae6c4-7bf9-5770-880f-42ee9f092315' => [
+        'I discovered that the horse is life itself, a metaphor but also an example of life\'s mystery and unpredictability, of life\'s generosity and beauty, a worthy object of repeated and ever changing contemplation.',
+        'Jane Smiley',
     ],
-    'fb70a0b1-3c0f-5390-b0ac-b66944e805c2' => [
-        'I don\'t feel much pressure to fit in. I never have. I\'ve always just wanted to do my thing. I have really good friends and good family, and if I don\'t fit in somewhere else, I fit in at home.',
-        'Ariana Grande',
+    '8e8553ee-0136-5cf9-a35c-8eb226743920' => [
+        'It\'s not who\'s the best - it\'s who can take the most pain.',
+        'Steve Prefontaine',
     ],
-    '650c403d-0d89-58b2-84f9-f7f1788b85da' => [
-        'That\'s one of the nice things. I mean, part of the beauty of me is that I\'m very rich. So if I need $600 million, I can put $600 million myself. That\'s a huge advantage. I must tell you, that\'s a huge advantage over the other candidates.',
-        'Donald Trump',
+    '9b0f656a-0d41-5a58-a7ea-ebfdad927dd3' => [
+        'Be proud of your Latino culture and do the best work you can do, and you will always succeed.',
+        'Lionel Sosa',
     ],
-    '65e86b46-b9c4-5ba0-844c-0668ebf343b6' => [
-        'Who will tell whether one happy moment of love or the joy of breathing or walking on a bright morning and smelling the fresh air, is not worth all the suffering and effort which life implies.',
-        'Muhammad Iqbal',
+    '92c7bf80-39fb-59f5-aa00-19d4cf6f0a6e' => [
+        'When a work lifts your spirits and inspires bold and noble thoughts in you, do not look for any other standard to judge by: the work is good, the product of a master craftsman.',
+        'Jean de la Bruyere',
     ],
 ];

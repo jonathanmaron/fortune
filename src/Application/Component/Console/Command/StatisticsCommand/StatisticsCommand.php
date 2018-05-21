@@ -18,6 +18,10 @@ class StatisticsCommand extends AbstractCommand
 
         $this->setDescription('Show statistics');
 
+        $this->setHelp('@todo: The <info>command</info> command. Example: <info>command</info>.');
+
+        //<editor-fold desc="Option: (int) limit">
+
         $name        = 'limit';
         $shortcut    = null;
         $mode        = InputOption::VALUE_OPTIONAL;
@@ -26,11 +30,15 @@ class StatisticsCommand extends AbstractCommand
 
         $this->addOption($name, $shortcut, $mode, $description, $default);
 
+        //</editor-fold>
+
         return $this;
     }
 
     protected function initialize(InputInterface $input, OutputInterface $output): self
     {
+        //<editor-fold desc="Option: (int) limit">
+
         $limit = (string) $input->getOption('limit');
         $limit = trim($limit);
 
@@ -44,6 +52,8 @@ class StatisticsCommand extends AbstractCommand
         $limit = (int) $limit;
 
         $this->setLimit($limit);
+
+        //</editor-fold>
 
         return $this;
     }

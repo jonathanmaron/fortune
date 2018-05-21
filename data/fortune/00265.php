@@ -3,204 +3,204 @@
 declare(strict_types=1);
 
 return [
-    '9f59e935-382b-5f94-b131-90b216622cc9' => [
-        'In this life, I\'m always going to choose the positive.',
-        'Gloria Estefan',
+    '64271692-87b7-53da-92e7-6a1adbd38ccf' => [
+        'My parents raised me with a never-give-up attitude, telling me I could be anything I wanted to be. I was a serious violinist and a valedictorian of my high school class. I knew all about hard work.',
+        'Gretchen Carlson',
     ],
-    '455b8ef0-8391-52d9-8bf0-6b3551fcd89d' => [
-        'Our greatest glory is not in never falling, but in rising every time we fall.',
-        'Confucius',
+    '7c58a0e4-4a79-579e-a037-de538af72209' => [
+        'I\'m trying to broaden the scope of positive psychology well beyond the smiley face. Happiness is just one-fifth of what human beings choose to do.',
+        'Martin Seligman',
     ],
-    '4632ee98-8772-5926-badb-78eb7a251a08' => [
-        'In Japan, there\'s a TV series called Jin. It deals with time travel. I like stories about time travel. It\'s a story about people living in modern day that travel back to the Edo era. Those things really interest me.',
-        'Yuji Horii',
+    '78d6de3a-58c0-59f2-9bf9-7348e3f6949f' => [
+        'Baseball was, is and always will be to me the best game in the world.',
+        'Babe Ruth',
     ],
-    'ac18fa33-6561-5305-82b0-9c7fb0c6a1ff' => [
-        'The truth is that relative income is not directly related to happiness. Nonpartisan social-survey data clearly show that the big driver of happiness is earned success: a person\'s belief that he has created value in his life or the life of others.',
-        'Arthur C. Brooks',
+    'ad1a2625-86f2-577a-a1a9-aae761da322b' => [
+        'Work is accomplished by those employees who have not yet reached their level of incompetence.',
+        'Laurence J. Peter',
     ],
-    '100c800c-4a28-5667-a446-f5a9affef29a' => [
-        'In my life I\'ve learned that true happiness comes from giving. Helping others along the way makes you evaluate who you are. I think that love is what we\'re all searching for. I haven\'t come across anyone who didn\'t become a better person through love.',
-        'Theodore Zeldin',
+    'e5529270-6233-5a62-8e61-803e297bb776' => [
+        'It\'s our nature: Human beings like success but they hate successful people.',
+        'Carrot Top',
     ],
-    'cb4e7d21-429d-5a4a-9e36-9e7621815331' => [
-        'I work really hard at trying to see the big picture and not getting stuck in ego. I believe we\'re all put on this planet for a purpose, and we all have a different purpose... When you connect with that love and that compassion, that\'s when everything unfolds.',
+    'd9870ffa-2bce-51d7-99c7-8f246d339e4b' => [
+        'When I first decided I was going to have a go at writing a book - and really, it was a mid-life crisis - I was 39. I was in business with my husband; we had a very busy lifestyle and quite a hectic schedule running this flourishing business in travel, and I found myself waking up and realising that I didn\'t want to do this anymore.',
+        'Fiona McIntosh',
+    ],
+    '8fded150-b6e5-53c1-8bd6-57e6170159d8' => [
+        'Set yourself earnestly to see what you are made to do, and then set yourself earnestly to do it.',
+        'Phillips Brooks',
+    ],
+    'efa104d1-5dc9-58c4-a60a-5dd41e8695ef' => [
+        'With all the travel we\'re doing to cold-weather cities, your mind definitely starts to wander. It gets you away from the game. Even when you arrive in a city, you\'re tempted to just sit in your hotel and rest. Sometimes it\'s nice to just get out and walk around, to see what\'s there.',
+        'Stephen Curry',
+    ],
+    'b500ea3d-c651-55be-ad41-f56be1bc9fff' => [
+        'If a person is homosexual by nature - that is, if one\'s sexuality is as intrinsic a part of one\'s identity as gender or skin color - then society can no more deny a gay person access to the secular rights and religious sacraments because of his homosexuality than it can reinstate Jim Crow.',
+        'Jon Meacham',
+    ],
+    'e5f9c8d7-f8eb-561c-aaa3-7b68cb8047ba' => [
+        'The great thing about cake is it doesn\'t feel like work. You forget about work. Kids, adults, they all get the same look in their eye when they\'re decorating cakes... That\'s the magic right there.',
+        'Duff Goldman',
+    ],
+    'dedcb587-54f0-5f9b-882d-15e6846cb761' => [
+        'You can\'t have a happy family if you don\'t have a happy marriage.',
+        'Jeremy Sisto',
+    ],
+    'e9e9d385-7791-508a-899d-e44fe378eb5c' => [
+        'I do keep getting these bad girl roles. The funny thing is that, honestly, I don\'t think I\'m believable as these aristocratic mean girls. But I do love playing them.',
+        'Katie McGrath',
+    ],
+    'a94ba19a-ee18-5357-8bf9-e4f720cf8af1' => [
+        'By all means let\'s be open-minded, but not so open-minded that our brains drop out.',
+        'Richard Dawkins',
+    ],
+    'ee3b1889-cb9d-5eab-adfb-3979046501ec' => [
+        'I am interested in shows that are not out-and-out gag fests: you see the truth of a broken heart behind them. That is what life is like: it\'s really funny, you see funny things as soon as you step out of the room, but underneath that is a whole bag of broken hearts. It\'s that real pain and that real hilarity that makes life so intriguing.',
+        'Tamsin Greig',
+    ],
+    'f757b66a-d57b-51b1-9ea1-0d0c7ea5dc85' => [
+        'Like music and art, love of nature is a common language that can transcend political or social boundaries.',
+        'Jimmy Carter',
+    ],
+    '4f6b3a5a-7556-5afa-a11e-f98cf95e3676' => [
+        'Sometimes I worry about being a success in a mediocre world.',
+        'Lily Tomlin',
+    ],
+    '6aa62954-d37c-5691-9e4a-0e2e115709f9' => [
+        'Into each life some rain must fall.',
+        'George Bernard Shaw',
+    ],
+    '1c3ea9d1-17bc-5a42-a891-95651bcbcec9' => [
+        'Y\'know, smile, dance, get crazy... we sure do while we\'re making it, because music is our leeezshure; it\'s my fun.',
+        'Bernard Edwards',
+    ],
+    '1fca9e2b-6177-5327-b1a9-4f4903b549bc' => [
+        'If you\'re naturally kind, you attract a lot of people you don\'t like.',
+        'William Feather',
+    ],
+    '18fd3565-ddc1-5c41-8e2e-64bf539b5237' => [
+        'I think you can be depressed and flourish, I think you can have cancer and flourish, I think you can be divorced and flourish. When we believed that happiness was only smiling and good mood, that wasn\'t very good for people like me, people in the lower half of positive affectivity.',
+        'Martin Seligman',
+    ],
+    'd5154f4b-5763-5262-9a39-4e5ab4ae1403' => [
+        'It is even harder for the average ape to believe that he has descended from man.',
+        'H. L. Mencken',
+    ],
+    '7af540dc-41f7-5387-9b29-93d9d8b33762' => [
+        'I think the issue of North Korea is one where the international community as a whole has to work to resolve the crisis.',
+        'Helen Clark',
+    ],
+    '8de05a9c-fcf0-593a-a5e4-741ce2fc4efb' => [
+        'Anything can happen, so you have to control your attitude and stay strong.',
+        'Jason Day',
+    ],
+    '251d6953-8852-5d25-868e-6d56ad68bd18' => [
+        'Bad times have a scientific value. These are occasions a good learner would not miss.',
+        'Ralph Emerson',
+    ],
+    'f588de29-cbad-5456-9060-25375e15ffed' => [
+        'Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.',
+        'Pele',
+    ],
+    '16ba1f4a-09d0-52d9-81c9-144ef8b49ff3' => [
+        'Whatever you do, do with determination. You have one life to live; do your work with passion and give your best. Whether you want to be a chef, doctor, actor, or a mother, be passionate to get the best result.',
+        'Alia Bhatt',
+    ],
+    '5bc602f0-0422-5406-8c08-a1659d2e3b3b' => [
+        'The young people I work with every day and serve the nation in the armed forces in general, and the Marine Corps in particular, have broken the mold and stepped out as men and women of character who are making their own way in life while protecting ours.',
+        'John F. Kelly',
+    ],
+    '5f05104c-d193-5dc0-a186-220910d7958f' => [
+        'Any time you have defensive ends going above you in the draft, when you know you put up numbers that were equal to better, you just have to use that as motivation. Whenever you\'re the underdog, you have to have the right attitude and just go out there and be yourself; just play.',
+        'Justin Tuck',
+    ],
+    '890e5b1d-e1af-5aa7-a1e8-34c15568004b' => [
+        'I think the iPhone is the best consumer product ever. That\'s what I feel about it. And it\'s become so integrated and integral to our lives, you wouldn\'t think about leaving home without it.',
+        'Tim Cook',
+    ],
+    '9d178f9a-027f-5222-9880-df1a89a282ae' => [
+        'I haven\'t seen Clones, which has been during this period when I haven\'t seen much of anything, but I did see Phantom Menace, and see my feelings about it - see, first of all, I think that when you make a lot of movies, your attitude about the movies changes.',
+        'Lawrence Kasdan',
+    ],
+    '95d836fb-c854-54c6-b445-9fafdd36ca5d' => [
+        'Complete strangers can stand silent next to each other in an elevator and not even look each other in the eye. But at a concert, those same strangers could find themselves dancing and singing together like best friends. That\'s the power of music.',
+        'LZ Granderson',
+    ],
+    'c522a7e4-ae44-5ef0-bf08-fe6bbc5730c4' => [
+        'Whatever you define family as, family is just a part of belonging to something that takes care of you and nurtures you... and when you have lost that, and you want to get that back, it\'s pretty easy to get emotional about it.',
         'Ellen DeGeneres',
     ],
-    '0e307b18-1117-5106-ac82-049383aed4b5' => [
-        'So much of what is best in us is bound up in our love of family, that it remains the measure of our stability because it measures our sense of loyalty. All other pacts of love or fear derive from it and are modeled upon it.',
-        'Haniel Long',
+    '4cb07876-76a8-5edc-b010-77641e33c4bb' => [
+        'My best vacation memory is getting barreled at the beach in Hawaii.',
+        'Troy Polamalu',
     ],
-    '796389fd-815d-5d89-9b7d-cdbeafc56bd7' => [
-        'I am very proud of my mom and consider her the most courageous woman I know. With perseverance, sacrifice and hard work, she raised a family of Olympic athletes and gave us the tools and the spirit to succeed. That is something that my brothers and I will always be thankful for.',
-        'Diana Lopez',
+    '09953595-5ad5-5661-a18e-943be5c81cf5' => [
+        'When you see that many people with a smile on their face, then you must be doing something right.',
+        'Greg Norman',
     ],
-    '348cce24-c894-54c3-b5a0-3ff246709343' => [
-        'Every so often, we all gaze into the abyss. It\'s a depressing fact of life that eventually the clock expires; eventually the sand in the hourglass runs out. It\'s the leaving behind of everything that matters to us that hurts the most.',
-        'Bob Marley',
+    'd4ad196b-d42d-5525-aadb-6e0072822150' => [
+        'Every time I see an adult on a bicycle, I no longer despair for the future of the human race.',
+        'H. G. Wells',
     ],
-    'ec06b54f-c1ab-5fb9-a007-1a463dcda27a' => [
-        'I spent two years in the Army. And my older brother, who was also a great positive influence on me, encouraged me to think about law school, and I said - well, I didn\'t have any money.',
-        'George J. Mitchell',
+    '3fff2276-7731-5a1b-88de-20da2e923003' => [
+        'You can\'t go back and make a brand new start. But, you can start now and make a brand new ending.',
+        'Anonymous',
     ],
-    '8a3c5ab0-1e77-5198-b67d-47e258afb298' => [
-        'Food is everything. Food, friends, family: Those are the most important things in life.',
-        'Zac Posen',
+    'b0b64548-1801-5aa1-9388-7566260a441d' => [
+        'Learning should be engaging. Testing should not be the be all and end all. All students should have a broad curriculum that includes the arts and enrichment. Students should have opportunities to work in teams and engage in project-based learning. And student and family well-being should be front and center.',
+        'Randi Weingarten',
     ],
-    'c9808a1a-d962-551d-b9ae-db44932fac54' => [
-        'If you look at attitudes today and where they are headed, it\'s clear to me that supporting equal rights, including the rights to civil marriage, is a net positive for winning elections, as well as the right thing to do.',
-        'Ken Mehlman',
+    '241e13e2-538f-5270-848e-b167e4b4ccb9' => [
+        'I never smile unless I mean it.',
+        'Donny Osmond',
     ],
-    'be38c5a5-a2bd-5a6e-9c86-d47cfd9e3828' => [
-        'At Thanksgiving, I always start at the top of my list and say I\'m grateful for friends, family, and good health. Then I get more superficial... like being thankful for my Louboutins.',
-        'Christie Brinkley',
+    '49e1efc3-adbe-5069-8f5a-1adfe34a3cb9' => [
+        'Nothing is at last sacred but the integrity of your own mind.',
+        'Ralph Emerson',
     ],
-    'ea3cdf52-11b2-53f3-b2d8-c3ee4dae8312' => [
-        'I\'ve always followed my heart and pursued my dreams, and I imagine that people find that inspiring. I hope that is the effect I have on my fans and people in general. I definitely want to project a positive energy out into the world.',
-        'Britney Spears',
+    '1fb83fb7-a480-54ce-b2ff-1e275d31c3e2' => [
+        'The major work of the world is not done by geniuses. It is done by ordinary people, with balance in their lives, who have learned to work in an extraordinary manner.',
+        'Gordon B. Hinckley',
     ],
-    '3b0f59ff-9427-56e3-98e8-da11c1d652c8' => [
-        'Work hard. And have patience. Because no matter who you are, you\'re going to get hurt in your career and you have to be patient to get through the injuries.',
-        'Randy Johnson',
+    'b75223ef-f586-53cf-a14a-55aed9061c33' => [
+        'Every now and then, someone will tell me that one of my books has made them laugh out loud. I never believe them because: a.) my books don\'t make me laugh out loud; and b.) sometimes I have said this to a writer, when really what I meant was, \'Your book made me smile appreciatively.\'',
+        'Mary Roach',
     ],
-    '71f1db7c-746d-5436-9449-bf46685fa1cb' => [
-        'The president felt that it was important to send an ordinary citizen to experience the excitement of space travel as a representative for all Americans.',
-        'Christa McAuliffe',
+    '876b8f00-0f44-5905-8acf-01cbeb0b9c53' => [
+        'If you have only one smile in you give it to the people you love.',
+        'Maya Angelou',
     ],
-    'c3019059-32a1-5ae9-9d8c-bbfd506aae78' => [
-        'When I was in my 20s it did occur to me that there was something perverted about an attitude that thought that killing somebody was a minor offence compared to kissing somebody.',
-        'John McGahern',
+    '829c7b0d-7180-5421-a499-e5f97c069e5e' => [
+        'I do take very good care of myself, and I\'m always in love. And by that I mean I have an appetite for life. I\'m in love with beauty and things and people and love and being in love, and those things I think, on the inside, show on the outside.',
+        'Gloria Vanderbilt',
     ],
-    'e04f65ae-5afb-5010-a7ae-312d7b37c218' => [
-        'Forgiveness is a way of opening up the doors again and moving forward, whether it\'s a personal life or a national life.',
-        'Albert Einstein',
+    'b61559b3-40c6-5b4a-9325-a8df03cce749' => [
+        'I think the Cold War works as a great analogy or simile for different kinds of conflict. It\'s funny, when you look back at it, it\'s one of the last times that the boundaries were clear. Now, as we see on \'Homeland,\' there are no clear boundaries and enemies.',
+        'Matthew Rhys',
     ],
-    '4e212d5a-68fc-59bc-807d-7c3cfe1167a9' => [
-        'When I travel abroad, because I\'m Columbian, I\'m always one that they check twice and security and I\'m the one that they open my bag and the one they pull to the side to check the visa.',
-        'Sofia Vergara',
+    '24c4b494-d572-50c3-81d9-05375ba818a6' => [
+        'It is never too late to strengthen the foundation of faith. There is always time. With faith in the Savior, you can repent and plead for forgiveness. There is someone you can forgive. There is someone you can thank. There is someone you can serve and lift. You can do it wherever you are and however alone and deserted you may feel.',
+        'Henry B. Eyring',
     ],
-    '4c72168a-da01-5e07-835e-ea387299d49d' => [
-        'I\'m just an individual who doesn\'t feel that I need to have somebody qualify my work in any particular way. I\'m working for me.',
-        'David Bowie',
+    'c55cb524-58c0-5ff0-9067-ade1ad5f9189' => [
+        'If you tell the truth about how you\'re feeling, it becomes funny.',
+        'Larry David',
     ],
-    '662800f9-b50d-57a7-9281-4e78de4c9e06' => [
-        'Over time, naturally, you lose your innocence from gaining knowledge. You can\'t be innocent forever, but there\'s something in innocence you need to regain to be creative.',
-        'Albert Hammond, Jr.',
+    'ddea0b36-47a7-5cbe-aba5-660bb2ae7a84' => [
+        'Being named among the best at something is special and beautiful. But if there are no titles, nothing is won.',
+        'Lionel Messi',
     ],
-    '4905a323-54c3-5802-8399-22e0e52bdddd' => [
-        'By all these lovely tokens September days are here, With summer\'s best of weather And autumn\'s best of cheer.',
-        'Helen Hunt Jackson',
+    'dc107a29-7f3f-5666-a50f-314da7979b88' => [
+        'It\'s time to say goodbye, but I think goodbyes are sad and I\'d much rather say hello. Hello to a new adventure.',
+        'Ernie Harwell',
     ],
-    'be41b589-cb67-5c3d-8ef1-d23f401a6885' => [
-        'The only reason we make good role models is because you guys look up to athletes and we can influence you in positive ways. But the real role models should be your parents and teachers!',
-        'Dante Hall',
+    'f7c50b29-a19c-59b2-9a56-2c21bca9cebe' => [
+        'Vanity, showing off, is an attitude that reduces spirituality to a worldly thing, which is the worst sin that could be committed in the church.',
+        'Pope Francis',
     ],
-    'c0da7187-279f-52dd-bbe6-1844af435124' => [
-        'It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.',
-        'Edward de Bono',
-    ],
-    '7777fe42-ea49-56b0-93a8-dcc98d27fe4b' => [
-        'Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.',
-        'Unknown',
-    ],
-    '3acce88a-97f9-5afb-8bae-66672a3d23b8' => [
-        'As my father used to tell me, the only true sign of success in life is being able to do for a living that which makes you happy.',
-        'Al Yankovic',
-    ],
-    '0c234644-6fdb-50c6-8ee4-085a37351110' => [
-        'Through perseverance many people win success out of what seemed destined to be certain failure.',
-        'Benjamin Disraeli',
-    ],
-    'ffd4d362-463f-55d0-9b72-dcdd10e41f9e' => [
-        'If you think you can, you can. And if you think you can\'t, you\'re right.',
-        'Henry Ford',
-    ],
-    'a9ca0e6c-2d4b-5d48-b4c2-fa23d2b9fbce' => [
-        'Being funny is everything to me.',
-        'Allison Jones',
-    ],
-    '66101463-b797-518f-837b-5b7f3605bb6f' => [
-        'When leaders know how to lead great meetings, there\'s less time wasted and less frustration. We have more energy to do the work that matters, realize our full potential, and do great things.',
-        'Justin Rosenstein',
-    ],
-    '45a4875c-682e-5783-9fe5-e0dc746a2165' => [
-        'It has been my observation that most people get ahead during the time that others waste.',
-        'Henry Ford',
-    ],
-    '7c4c16b6-58d9-5b78-8a42-3babbc0ee441' => [
-        'I can be dramatic. I can be funny. I can be sexy. I can be sad. I can be glad.',
-        'Kimberly Elise',
-    ],
-    'f8b86358-4cce-506d-82fa-d6e88d6ffbda' => [
-        'Hopefully, when people see \'Senna\', they will understand why this inspirational story needed to be told, why it had to be made as a movie for the big screen, and why it is a film for everyone.',
-        'Asif Kapadia',
-    ],
-    '4d467d59-1ceb-593d-94c5-a0303c585c2a' => [
-        'You\'re not a product of your nature. That is your genetic makeup or your nurture, the things that have happened to you. Of course those things affect you powerfully, but they do not determine you.',
-        'Stephen Covey',
-    ],
-    '77cb8ae5-fa82-5be3-bb84-5e8864f0059b' => [
-        'Tears of joy are like the summer rain drops pierced by sunbeams.',
-        'Hosea Ballou',
-    ],
-    '600f0b7a-cdea-5759-ac5f-9298bb4d3f0a' => [
-        'With His love, you can wake up every day with an attitude of faith and expectancy.',
-        'Victoria Osteen',
-    ],
-    'f63332b2-f699-599b-b5c7-0bcec042b470' => [
-        'In particular I want to talk about natural black hair, and how it\'s not just hair. I mean, I\'m interested in hair in sort of a very aesthetic way, just the beauty of hair, but also in a political way: what it says, what it means.',
-        'Chimamanda Ngozi Adichie',
-    ],
-    '46a1eab0-1c4a-5b5d-9003-95c0be4ed668' => [
-        'If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.',
-        'Thich Nhat Hanh',
-    ],
-    'f62ea4f2-468b-5d62-ad24-74c5e8f0e38a' => [
-        'In Naples, Fla., I met a self-made man, a multimillionaire, whose round penthouse apartment is home to Pierre-Auguste Renoir, Claude Monet, Henry Moore, and Mickey Mantle. He had purchased the most coveted items auctioned by the Mantle family at Madison Square Garden in December 2003.',
-        'Jane Leavy',
-    ],
-    'e7412115-23d5-5ec7-9338-51f9c50755e3' => [
-        'The things I want to know are in books; my best friend is the man who\'ll get me a book I ain\'t read.',
-        'Abraham Lincoln',
-    ],
-    '5eee95d0-91c9-5791-a468-a38273186df7' => [
-        'Two months after I got out of test pilot school, I saw an advert that said NASA was recruiting more astronauts. The best job you could have as a test pilot was being an astronaut, so I volunteered.',
-        'Charles Duke',
-    ],
-    '3015ed5c-06b3-5fc7-a942-c728a75ff46a' => [
-        'My greatest success story has been my family.',
-        'Alex Spanos',
-    ],
-    'fe7ca935-97c2-5e46-bd75-ab7c63f4797b' => [
-        'I am certain there is too much certainty in the world.',
-        'Michael Crichton',
-    ],
-    'e1aadfe6-d2a0-5dbd-8b40-be9dd592614b' => [
-        'We can\'t plan life. All we can do is be available for it.',
-        'Conor McGregor',
-    ],
-    'cee4d4ef-757f-517a-ab68-cf878a7cdb53' => [
-        '\'Handsome\' means many things to many people. If people consider me handsome, I feel flattered - and have my parents to thank for it. Realistically, it doesn\'t hurt to be good-looking, especially in this business.',
-        'Richard Chamberlain',
-    ],
-    '06f17caa-2255-58a1-a485-435ed582d70c' => [
-        'Children have adopted a consumerist attitude - I dare you to entertain me.',
-        'Walter Dean Myers',
-    ],
-    '544d2f64-561e-58f5-a015-7ca68df495bf' => [
-        'When you show deep empathy toward others, their defensive energy goes down, and positive energy replaces it. That\'s when you can get more creative in solving problems.',
-        'Stephen Covey',
-    ],
-    'e09ea044-d239-5eb6-890b-5bb6c40b233b' => [
-        'It is never too late to be what you might have been.',
-        'George Eliot',
-    ],
-    '332acc90-7602-5d9c-9936-2091ee0ed48d' => [
-        'I really have to dance more often, and so I travel around. If I don\'t, I will crumble.',
-        'Rudolf Nureyev',
-    ],
-    '6276e882-45c7-5357-839a-e0788c33a346' => [
-        'To us, family means putting your arms around each other and being there.',
-        'Barbara Bush',
+    'f436ccc2-c618-5796-8752-f9979b631719' => [
+        'The American Dream is still alive out there, and hard work will get you there. You don\'t necessarily need to have an Ivy League education or to have millions of dollars startup money. It can be done with an idea, hard work and determination.',
+        'Bill Rancic',
     ],
 ];
