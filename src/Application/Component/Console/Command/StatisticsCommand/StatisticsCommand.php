@@ -35,13 +35,13 @@ class StatisticsCommand extends AbstractCommand
         $limit = trim($limit);
 
         if (strlen($limit) > 0) {
-            if (!is_numeric($limit)) {
+            if (!ctype_digit($limit)) {
                 $message = '--limit must be an integer';
                 throw new InvalidArgumentException($message);
             }
         }
 
-        settype($limit, 'int');
+        $limit = (int) $limit;
 
         $this->setLimit($limit);
 

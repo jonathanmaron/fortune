@@ -53,7 +53,7 @@ abstract class AbstractCommand extends ParentCommand
 
     protected function setWordwrap(int $wordwrap): self
     {
-        $this->wordwrap = (int) $wordwrap;
+        $this->wordwrap = $wordwrap;
 
         return $this;
     }
@@ -113,7 +113,7 @@ abstract class AbstractCommand extends ParentCommand
 
     protected function setLong(bool $long): self
     {
-        $this->long = (bool) $long;
+        $this->long = $long;
 
         return $this;
     }
